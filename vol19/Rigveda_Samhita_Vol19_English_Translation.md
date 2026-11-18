@@ -7284,6 +7284,215 @@ O Indra, whatever deeds of yours have been done, those deeds we, the praisers, n
 - नः (*naḥ*)—for our help
 - यानि (*yāni*)—which
 
+### Printed p. 183
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जुजोषः (*jujoṣaḥ*)—which you practise, those (deeds)
+- अविद्वान् (*avidvān*)—the man who does not know
+- वेदत् (*vedat*)—let him know
+- विद्वान् (*vidvān*)—he who knows its greatness
+- शृणवच्च (*śṛṇavacca*)—let him also declare it so that others may know
+- सर्वसेनः (*sarvasenaḥ*)—endowed with all armies
+- मघपा (*maghapā*)—wealthy
+- अयं (*ayaṃ*)—this Indra
+- वहते (*vahate*)—is borne by horses
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we, the praisers, while holding the Soma pressed for offering to you, praise all your heroic deeds. Whatever deeds you perform for our help, let the people who do not know them come to know them. Let those who know their greatness declare them so that others may know. Indra, endowed with all armies and wealthy, is borne by horses.
+
+##### English translation
+When the libation is offered, Indra, we celebrate your exploits ; those (exploits) which you have been pleased (to achieve) for us : let him who is ignorant acquire knowledge (of them); let him who is acquainted(with them) make them known : this Maghavan (is) the lord of hosts.
+
+##### विशेषविषयगळु (Special Topics)
+
+The valiant deeds of Indra are many. Some know them, some do not; so that people who do not know them may hear and learn, the seer says, "I praise those valiant deeds of Indra."
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्थि॒रं मन॑श्च कृषे जा॒त इं॑द्र॒ वेषीदेको॑ यु॒धये॒ भूय॑सश्चित् ।  
+> अश्मा॑नं चि॒च्छव॑सा दिद्युतो॒ वि वि॒दो गवा॑मू॒र्वमु॒स्रिया॑णां ॥ ४ ॥
+
+### Printed p. 184
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्थिरं । मनः । चकृषे । जातः । इंद्र । वेषि । इत् । एकः । युधये । भूयसः ।  
+> चित् ।  
+> अश्मानं । चित् । शवसा । दिद्युतः । वि । विदः । गवां । ऊर्वं । उस्रियाणां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र जात उत्पन्नमात्र एव त्वं स्थिरं चलनरहितं मनश्चित्तं चकृषे ।
+> चकर्थ । सर्वान् बलिष्ठान् जयेयमितीदृशं । तथा हे इंद्र एक इदसहाय एव
+> त्वं युधये युद्धाय भूयसश्चित् बहुतरान् राक्षसादीनपि वेषि । अनेः ।
+> अगमः । किंच अश्मानं चित् गवामावरकं पर्वतमपि शवसा बलेन वि दिद्युतः ।
+> व्यभिनः। किंच उस्रियाणां क्षीरमुत्सारयंतीनां गवां धेनूनामूर्वं समूहं
+> विदः । अवेदयः । अलंभयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, as soon as you were born you made your mind steady, immovable, with the resolve "may I conquer all the mighty." Likewise, O Indra, alone and without helper, you went to battle against even many more, Rākṣasas and others; Sāyaṇa glosses वेषि (*veṣi*) with "you went". **NOTE** Further, you split by your strength even the rock, the enclosure of the cows (अश्मानं (*aśmānaṃ*) explained as the mountain that encloses the cows; वि दिद्युतः (*vi didyutaḥ*) as "you broke"). Further, you found, that is, obtained, the herd of the milk-yielding cows, the उस्रियाणां (*usriyāṇāṃ*), which send forth milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- जातः (*jātaḥ*)—as soon as you were born
+- स्थिरं (*sthiraṃ*)—immovable
+- मनः (*manaḥ*)—a mental resolve (for the destruction of enemies)
+- चकृषे (*cakṛṣe*)—you have made
+- एक इत् (*eka it*)—you alone, without other help
+- युधये (*yudhaye*)—for battle
+- भूयसश्चित् (*bhūyasaścit*)—even enemies exceedingly numerous
+- वेषि (*veṣi*)—you have gone to meet
+- आश्मानं चित् (*āśmānaṃ cit*)—even the rocks of the mountain (that confined the cows)
+- शवसा (*śavasā*)—by your strength
+- वि दिद्युतः (*vi didyutaḥ*)—you have split
+- उस्रियाणां (*usriyāṇāṃ*)—milk-giving
+- गवां (*gavāṃ*)—of cows
+- ऊर्वं (*ūrvaṃ*)—the herd
+- विदः (*vidaḥ*)—you obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as soon as you were born you made a steady resolve for the destruction of your enemies. Without the help of others, you alone went to battle against exceedingly numerous enemies. By your strength you split even the rocks of the mountain that confined the cows. You obtained the herd of milk-giving cows.
+
+##### English translation
+As soon as generated, Indra, you have made your mind resolved : you have gone alone to contend against numerous (foes) : you have rent asunder the rock by your strength : you have rescued the herd of milk-yielding cows.
+
+### Printed p. 185
+
+##### विशेषविषयगळु (Special Topics)
+
+अश्मानं चित् शवसा वि दिद्युतः (*aśmānaṃ cit śavasā vi didyutaḥ*)—गवामावरकं पर्वतमपि बलेन व्यभिनः । (*gavāmāvarakaṃ parvatamapi balena vyabhinaḥ |*) Here a matter of ancient history seems to be indicated. In former times the Asuras called Paṇis carried off the cows of the gods and hid them in the cave of a mountain, so that they could be seen by no one. Indra learned this account from the divine bitch Saramā **NOTE**, went there, split the great stone slab that lay across the mouth of the mountain's cave, and released the cows; this is described in many places in the Ṛgveda. In some Ṛks it is said that Agni himself did this deed. It is described here and there that Bṛhaspati or the seer Aṅgiras too had a part in this story.
+
+उस्रियाणां (*usriyāṇāṃ*)—उस्रियेति गोनाम । उत्साविणोऽस्यां भोगाः । उस्रेति च । (*usriyeti gonāma | utsāviṇo 'syāṃ bhogāḥ | usreti ca |*) (Ni. 4-19). *Usriyā* is a name of the cow; it is also said *usrā*. For from this cow enjoyments, or milk and the like (milk, curds, butter, ghee and so on) that are the means of enjoyment, flow forth, that is, are milked. Therefore *usriyāḥ* or *usrāḥ* is the name of cows; thus he has explained the meaning of this word.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रो यत्त्वं प॑र॒म आ॒जनि॑ष्ठाः परा॒वति॒ श्रुत्यं॒ नाम॒ बिभ्र॑त् ।  
+> अत॑श्चि॒दिंद्रा॑दभयंत दे॒वा विश्वा॑ अ॒पो अ॑जयद्दा॒सप॑त्निः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परः । यत् । त्वं । परमः । आजनिष्ठाः । परावति । श्रुत्यं । नाम । बिभ्रत् ।  
+> अतः । चित् । इंद्रात् । अभयंत । देवाः । विश्वाः । अपः । अजयत् । दासपत्निः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा हे इंद्र परः परस्तादुपरिष्टात्स्थितः परम उत्कृष्टतमस्त्वं परावति दूरे श्रुत्यं श्रवणीयं नाम नामधेयं बिभ्रत् धारयन्नाजनिष्ठाः आ समंतादजायथाः । शेषः परोक्षकृतः । अतश्चिदत आरभ्यैव देवा द्योतमाना अग्न्या-
+
+##### Gist of the bhāṣya
+
+When you, O Indra, situated above, the most excellent, were born, bearing a name to be heard of far away (परावति (*parāvati*) glossed as "far off", श्रुत्यं (*śrutyaṃ*) as "worthy to be heard"), the remainder of the verbs is in the sense of the indirect past. From then on, the gods, shining, Agni and the rest,
+
+### Printed p. 186
+
+> दय इंद्रादभयंत । बिभ्युः। विश्वा अपः सर्वाण्युदकानींद्रोऽजयत् । वशीचक्रे।
+> केदृशीः । दासपत्निः । दासो वृत्रः पतिः पालयिता यासामपां ता इति ॥
+
+##### Gist of the bhāṣya
+
+feared Indra. Indra conquered all the waters, that is, brought them under his control. What kind of waters? दासपत्निः (*dāsapatniḥ*): those waters of which the *dāsa*, Vṛtra, is the lord, the protector.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—(O Indra) when
+- परः (*paraḥ*)—situated in the highest region
+- परमः (*paramaḥ*)—and most excellent
+- त्वं (*tvaṃ*)—you
+- परावति (*parāvati*)—in a very distant region
+- श्रुत्यं (*śrutyaṃ*)—very famous
+- नाम (*nāma*)—name
+- बिभ्रत् (*bibhrat*)—bearing
+- आ जनिष्ठाः (*ā janiṣṭhāḥ*)—you were born
+- अतश्चित् (*ataścit*)—immediately thereafter
+- देवाः (*devāḥ*)—the gods, Agni and the rest
+- इंद्रात् (*iṃdrāt*)—of you, the lord
+- अभयंत (*abhayaṃta*)—were afraid
+- दासपत्निः (*dāsapatniḥ*)—having Vṛtra himself as husband
+- विश्वा अपः (*viśvā apaḥ*)—all the waters
+- अजयत् (*ajayat*)—you brought under your control
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are situated in the highest region and are the most excellent, as soon as you were born in a very distant region, possessing a most famous name, the gods, Agni and the rest, were afraid of you, the lord. You brought under your control all the waters, the wives of Vṛtra.
+
+##### English translation
+When you have been born most excellent and supreme, bearing a name widely renowned, then the gods have been in dread of Indra, and has subjugated all the waters, the brides of the slave (Vritra).
+
+##### विशेषविषयगळु (Special Topics)
+
+दासपत्निः (*dāsapatniḥ*)—दासो वृत्रः पतिः पालयिता यासामहां ता इति दासपत्निः । (*dāso vṛtraḥ patiḥ pālayitā yāsāmahāṃ tā iti dāsapatniḥ |*) The meaning is: the waters (gathered in the cloud) of which the slave, the demon Vṛtra, is the protector. This word *dāsapatnīḥ* is read also in the Ṛk
+
+दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः । (*dāsapatnīrahigopā atiṣṭhanniruddhā āpaḥ paṇineva gāvaḥ |*)
+
+(Ṛ. Saṃ. 1-32-11). There the word is explained: दासपत्नीः दासो विश्वोपक्षपणहेतुर्वत्रः पतिः स्वामी यासामपां ता दासपत्नीः (*dāsapatnīḥ dāso viśvopakṣapaṇaheturvatraḥ patiḥ svāmī yāsāmapāṃ tā dāsapatnīḥ*); that is, Vṛtra, who was causing distress to the whole world, is called *dāsa*; the waters that were under that slave's sway and held back by him, that is, held back in the region of the clouds without pouring down rain, are called *dāsapatnīḥ*. They are the waters of which Vṛtra is the husband or lord. Since Vṛtra is in the form of a cloud, he is said to be the lord of the waters in the cloud; the meaning is that these are the waters under his authority, that is, under his control. Explaining the above Ṛk, Yāska says:
+
+### Printed p. 187
+
+दासपत्नीर्दार्साधिपत्यः । दासो दस्यतेरुपदासयति कर्माणि ॥ (*dāsapatnīrdārsādhipatyaḥ | dāso dasyaterupadāsayati karmāṇi ‖*)
+
+(Ni. 2-17). *Dāsa* means one who works, who lives by a low occupation. Because the waters protect, that is, preside over (अधिष्ठाय पांति (*adhiṣṭhāya pāṃti*)) such workers, they are called अधिपत्न्यः (*adhipatnyaḥ*). Since the worker, wearied by his work, drinks water, rests and is comfortable, these waters are said to give him protection. Therefore the word *dāsapatnīḥ* must be said to mean the waters that refresh the worker. For the word *dāsa* the derivation is दस्यतेः उपदासयति कर्माणि । (*dasyateḥ upadāsayati karmāṇi |*): one who does works such as ploughing is to be called *dāsa*. Besides this, the Āryan people used to call the former inhabitants of this country by the names *dāsa* and *dasyu*. The former inhabitants of this country, uncivilised, rough and dark-skinned, who did not worship the gods, did not perform sacrifices and the like, created obstacles to sacrificial rites, were given to evil practices such as theft, and gave the Āryan people troubles of many kinds and fought with them, were called by the Āryans *dāsa* and *dasyu*. Therefore at that time the names *asura*, *dāsa* and *dasyu* had become current for people of evil conduct. Vṛtra, too, since he held back the rain-water useful to people so that it did not fall on the earth, and caused harm to people, is in many places called by the very name *dāsa*. In designating the waters that were under the sway of this slave, the demon Vṛtra, the words दासपत्निः अपः (*dāsapatniḥ apaḥ*) are used in the present Ṛk also.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्येदे॒ते म॒रुतः॑ सु॒शेवा॒ अर्चं॑त्य॒र्कं सु॒न्वंत्यंधः॑ ।  
+> अहि॑मोहा॒नम॒प आ॒ शया॑नं॒ प्र मा॒याभि॑र्मा॒यिनं॑ सक्ष॒दिंद्रः॑ ॥ ६ ॥
+
+### Printed p. 188
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्य । इत् । एते । मरुतः । सुशेवाः । अर्चंति । अर्कं । सुन्वंति । अंधः ।  
+> अहिं । ओहानं । अपः । आशयानं । प्र । मायाभिः । मायिनं । सक्षत् । इंद्रः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते मरुतः । महद्रवंति वदंतीति मरुतः स्तोतारः । सुशेवाः । शेवमिति
+> सुखनामैतत् । शोभनसुखाः संतः । स्तोत्रेण शोभनं सुखमुत्पादयंत
+> इत्यर्थः । हे इंद्र तुभ्येत्तुभ्यमेवार्कमर्चनीयं स्तोत्रमर्चंति । स्तुवंति
+> कुर्वंतीत्यर्थः । अंधः सोमलक्षणमन्नं सुन्वंति । अभिषवं कुर्वंति । इंद्रः
+> परमैश्वर्ययुक्तो मायाभिः स्वकीयाभिः शक्तिभिरहिं वृत्रं प्रसक्षत् । अभ्यभवत् ।
+> क्रीदृशं । ओहानं देवान्बाधमानमप उदकान्याशयानमावृत्य शयनं कुर्वंतं
+> मायिनं कपटवंतमिति ॥
+
+##### Gist of the bhāṣya
+
+These Maruts are the praisers (those who sound forth loudly); सुशेवाः (*suśevāḥ*): *śeva* is a name for happiness, so they, being of good happiness, produce good happiness by their praise. O Indra, for you alone they offer the अर्कं (*arkaṃ*), the hymn to be adored; that is, they praise. They press the अंधः (*aṃdhaḥ*), the food in the form of Soma, that is, they perform the pressing. Indra, possessed of supreme lordship, overcame by his own powers (his *māyā*) the serpent Vṛtra; of what kind? ओहानं (*ohānaṃ*), harassing the gods; आशयानं (*āśayānaṃ*), lying covering the waters; and मायिनं (*māyinaṃ*), deceitful.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते मरुतः (*ete marutaḥ*)—(O Indra) these praisers
+- सुशेवाः (*suśevāḥ*)—causing excellent happiness
+- तुभ्यत् (*tubhyat*)—addressing you alone
+- अर्कं (*arkaṃ*)—a hymn
+- अर्चंति (*arcaṃti*)—fashion and praise
+- अंधः (*aṃdhaḥ*)—the food in the form of Soma
+- सुन्वंति (*sunvaṃti*)—press (for you)
+- इंद्रः (*iṃdraḥ*)—the lord Indra
+- मायाभिः (*māyābhiḥ*)—by his extraordinary powers
+- ओहानं (*ohānaṃ*)—who harasses (the gods)
+- अपः (*apaḥ*)—the waters
+- आशयानं (*āśayānaṃ*)—who lay covering
+- मायिनं (*māyinaṃ*)—and is deceitful
+- अहिं (*ahiṃ*)—Vṛtra
+- प्र सक्षत् (*pra sakṣat*)—defeated
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these praisers, causing excellent happiness, fashion a hymn addressed to you alone and praise you. They press for you the food in the form of Soma. The lord Indra, by his extraordinary powers, defeated Vṛtra, who harassed the gods, who lay covering the waters, and who was deceitful.
+
+##### English translation
+These devoted Maruts eulogise you with pious praise, and pour out to you the sacrificial food : Indra has overcome by his devices the guileful Ahi, harassing the gods and arresting the waters.
+
 ---
 
-**Progress note:** Done through printed p. 182. Sutra 5.29 Rk 15 end; Sukta 30 Rks 1-3 start
+**Progress note:** Done through printed p. 188. Sukta 30 Rk 3 end, Rks 4-6
