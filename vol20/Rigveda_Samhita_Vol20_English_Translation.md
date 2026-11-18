@@ -20154,6 +20154,88 @@ The author of the Nirukta has said that this word is derived from the root puṣ
 
 उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन्मनसोऽधिजातः । द्रप्सं स्कन्नं ब्रह्मणा दैव्येन विश्वेदेवाः पुष्करे त्वाददंत ॥ (*utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahmanmanaso 'dhijātaḥ | drapsaṃ skannaṃ brahmaṇā daivyena viśvedevāḥ puṣkare tvādadaṃta ‖*) (Ṛ. Saṃ. 7-33-11) **GLOSS**
 
+### Printed p. 581
+
+In the mantra उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन्मनसोऽधिजातः । द्रप्सं स्कन्नं ब्रह्मणा दैव्येन विश्वे देवाः पुष्करे त्वाददंत ॥ (*utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahmanmanaso 'dhijātaḥ | drapsaṃ skannaṃ brahmaṇā daivyena viśve devāḥ puṣkare tvādadaṃta ‖*) the account of the birth of Vasiṣṭha in the lotus is told. (The full purport of this mantra will be explained later.) The author of the Nirukta, citing this mantra, has stated here the derivation of the form of the word पुष्कर (*puṣkara*) and the chief purport of this word, in this manner.
+
+पुष्करमंतरिक्षं पोषति भूतान्युदकं । पुष्करं पूजाकरं पूजयितव्यं वा । इदमपीतरत् पुष्करमेतस्मादेव पुष्करं वपुष्करं वा । पुष्पं पुष्पतेः ॥ (*puṣkaramaṃtarikṣaṃ poṣati bhūtānyudakaṃ | puṣkaraṃ pūjākaraṃ pūjayitavyaṃ vā | idamapītarat puṣkarametasmādeva puṣkaraṃ vapuṣkaraṃ vā | puṣpaṃ puṣpateḥ ‖*) (Ni. 5-14)
+
+As stated above, the word पुष्कर (*puṣkara*) is derived from the root पुष् (*puṣ*). It has this name because it nourishes the world and because it is productive of worship. The explanation is that the lotus flower, famous in the world, also is called by the name पुष्कर (*puṣkara*) for this very reason, that is, because it is a means of worship. Therefore the first meaning of the word पुष्कर (*puṣkara*) is the atmosphere. It is in this meaning that the word is used throughout the Saṃhitās and the rest. But this explanation is contrary to what is said in some other places. For example, in the present mantra (6-16-13) Sāyaṇa has stated the identity of the lotus and the earth. Therefore the question naturally arises whether the word पुष्कर (*puṣkara*) reflects the principle of the earth or the principle of the atmosphere. But there is no contradiction in taking it in this way, once as earth and another time as atmosphere. For the word earth does not mean merely the portion of land current in worldly usage. There are also many contexts in which the three worlds are indicated by this word itself. For example,
+
+परः सो अस्तु तन्वा ३ तना च तिस्रः पृथिवीरधो अस्तु विश्वाः । प्रति शुष्यतु यशो अस्य देवा यो नो दिना दिप्सति यश्च नक्तं ॥ (*paraḥ so astu tanvā 3 tanā ca tisraḥ pṛthivīradho astu viśvāḥ | prati śuṣyatu yaśo asya devā yo no dinā dipsati yaśca naktaṃ ‖*) (Ṛ. Saṃ. 7-104-11)
+
+in this, the gods are prayed to destroy the Rākṣasas. In explaining where such Rākṣasas can be, it is stated that they can be spread over all three worlds. Those three worlds together are here signified by the word earth. Sāyaṇa has clearly given the meaning "the three worlds" here for the word earth. Likewise, earlier also, when the purport of the mantra यदिंद्राग्नी अवमस्यां पृथिव्यां (*yadiṃdrāgnī avamasyāṃ pṛthivyāṃ*) (Ṛ. Sari. 1-108-9) was explained, it was stated that the word earth has the meaning of the three worlds. **NOTE** Therefore, if the word lotus is given the meaning earth, it is not merely the land that is meant; one must understand it to be the great principle that reflects the three worlds. If it has such an extended meaning, then what is the meaning of the statements that in the lotus Agni was churned and appeared, and that Vasiṣṭha arose, must be examined in the present context.
+
+### Printed p. 582
+
+It can be said boldly that the great principle called the Brahma-tree, which is the root of the creation of the universe, the support of the universe and pervading the universe, and which is famous in the Saṃhitā and in the Brāhmaṇas and the rest, is the very same great principle that is signified here by the word पुष्कर (*puṣkara*). But one must form an exact opinion on whether the particulars described there and the particular described in the present context are of one kind, and whether the two set forth the details of the development of one and the same principle.
+
+किं स्विध्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्पतक्षुः । मनीषिणो मनसा पृच्छतेदु तद्यदध्यतिष्ठद्भुवनानि धारयन् ॥ (*kiṃ svidhvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣpatakṣuḥ | manīṣiṇo manasā pṛcchatedu tadyadadhyatiṣṭhadbhuvanāni dhārayan ‖*) (Ṛ. Saṃ. 10-81-4)
+
+What was that (Brahma) tree, from what material and cause were heaven and earth all fashioned? What was that forest? O great seers, know by the action in the form of meditation, in your mind, what its position was when it was supporting all the worlds. In answer to this question, in the Taittirīya Brāhmaṇa it is said,
+
+ब्रह्म वनं ब्रह्म स वृक्ष आसीत् । यतो द्यावापृथिवी निष्पतक्षुः । मनीषिणो मनसा विब्रवीमि वः । ब्रह्माध्यतिष्ठद्भुवनानि धारयन् ॥ (*brahma vanaṃ brahma sa vṛkṣa āsīt | yato dyāvāpṛthivī niṣpatakṣuḥ | manīṣiṇo manasā vibravīmi vaḥ | brahmādhyatiṣṭhadbhuvanāni dhārayan ‖*) (Tai. Brā. 2-8-9-6)
+
+Brahman itself is this forest, Brahman itself is this tree. From the root itself heaven and earth all were created. O great seers, know that this tree itself is the supporter of the universe. The principle that is described as the tree in such contexts is described as the lotus in the present mantra. Just as it is said that this tree issues from the navel of the primal god reclining on Śeṣa in the ocean of milk and pervades the universe, so it is described that this lotus arises from the same navel and is the support of this same creator. This lotus bears in its opened heart the Parabrahman himself, the maker of the universe. Brahmā is described by epithets such as नाभिज, अब्बज, अब्बयोनि, कमलासन, पद्मासन (*nābhija, abbaja, abbayoni, kamalāsana, padmāsana*). Nārāyaṇa, resting in the ocean, is also described as पद्मनाभ, पुष्करनाभ (*padmanābha, puṣkaranābha*) and so on. Therefore, although the Brahma-tree and the lotus which is the seat of Brahmā are one, there is a slight difference in their description. The Brahma-tree is praised as pervading the universe, containing all beings. This lotus, the seat of Brahmā, is praised as nourishing all beings and as the support of the universe. Although its pervasiveness is not described from the material point of view, there are also many contexts in which it is described as all-pervading from the spiritual point of view. The very lotus that is described as the lotus of the heart is also praised as the great principle pervading the universe.
+
+### Printed p. 583
+
+अथ यदिदमस्मिन् ब्रह्मपुरे दहरं पुंडरीरं वेश्म दहरोऽस्मिन्नंतराकाशस्तस्मिन् यदंतस्तदन्नेष्टव्यं तद्वाव विजिज्ञासितव्यं । (*atha yadidamasmin brahmapure daharaṃ puṃḍarīraṃ veśma daharo 'sminnaṃtarākāśastasmin yadaṃtastadanneṣṭavyaṃ tadvāva vijijñāsitavyaṃ |*) (Chā. U. 8-1-1)
+
+In this heart, which is described as the city of Brahman, there is a dwelling in the form of a lotus. Its material form is small. Inside it there is a small space; one should seek that and know its secret. Thus the very lotus of the heart that is the support of the small ether is also praised as all-pervading.
+
+यावान्ना अयमाकाशस्तानानेषोऽंतर्हृदय आकाश उभे अस्मिन् द्याना पृथिवी अंतरेव समाहिते उभावग्निश्च वायुश्च सूर‍्याचंद्रमसावुभौ विद्युन्नक्षत्राणि यच्चास्येहास्ति यच्च नास्ति सर्वं तदस्मिन्समाहितमिति । (*yāvānnā ayamākāśastānāneṣo 'ṃtarhṛdaya ākāśa ubhe asmin dyānā pṛthivī aṃtareva samāhite ubhāvagniśca vāyuśca sūryācaṃdramasāvubhau vidyunnakṣatrāṇi yaccāsyehāsti yacca nāsti sarvaṃ tadasminsamāhitamiti |*) (Chāṃ. U. 8-1-7) **NOTE**
+
+In this small ether, in this very one, heaven and earth, fire, air, sun and moon, lightning, the stars, and all things whether of the nature of being or of not-being, in short everything, are contained.
+
+अथ य एषोऽंतरे हृत्पुष्कर एवाश्रितोऽन्नमत्ति स एषोग्निर्दिवि श्रितसौरः कालाख्योऽदृश्यः सर्वभूतान्यन्नमत्तीति ॥ (*atha ya eṣo 'ṃtare hṛtpuṣkara evāśrito 'nnamatti sa eṣognirdivi śritasauraḥ kālākhyo 'dṛśyaḥ sarvabhūtānyannamattīti ‖*) (Maitruśiniṣat 6-2) **NOTE**
+
+The person who is established in this lotus of the heart and eats the food is the Agni in the atmosphere, called Time, invisible, in the form of the sun, who consumes all beings.
+
+कः पुष्करः किं मयो वेति । इदं नाव तत्पुष्करं योऽयमाकाशोऽस्ये माश्चतस्रो दिशश्चतस्र उपदिशोदलसंस्था आसं । अर्वाग्विचरत एत् प्राणादित्या एता उपासीतोमित्येतदक्षरेण व्याहृतिभिः सावित्र्या चेति ॥ (*kaḥ puṣkaraḥ kiṃ mayo veti | idaṃ nāva tatpuṣkaraṃ yo 'yamākāśo 'sye māścatasro diśaścatasra upadiśodalasaṃsthā āsaṃ | arvāgvicarata et prāṇādityā etā upāsītomityetadakṣareṇa vyāhṛtibhiḥ sāvitryā ceti ‖*) (Maitryupaniṣat 6-2)
+
+What is this lotus? What is its nature? What principle is contained in it? This lotus itself is the outer space. The four directions and the four intermediate directions, pervading the outer space, are the leaves of this lotus. This ether of the lotus of the heart, which is located in the heart and is of the nature of breath, and the Āditya pervading the outer space, are mutually attracted. One should worship it with the utterances in the form of Oṃ and with the Gāyatrī mantra. This lotus is itself the earth and is this very Agni. (The ocean which is described in the Purāṇas and elsewhere as the ocean of milk)
+
+### Printed p. 584
+
+is itself this lotus. That is to say, it is the thing that has contained within itself the whole principle of the universe. Describing this very thing in the Śatapatha Brāhmaṇa, the identity of truth and the lotus is stated. It is also stated that the lotus is the womb of truth. But the womb of truth may be in various forms such as the earth; one may say that the lotus too is one among them, or one may say that the earth, the lotus and the rest all reflect one and the same principle. The sentences that show the identity of all these can be seen in the Śatapatha Brāhmaṇa.
+
+अथ पुष्करपर्णमुपदधाति। योनिर्वै पुष्करपर्णं। योनिमेवैतदुपदधाति । (*atha puṣkaraparṇamupadadhāti| yonirvai puṣkaraparṇaṃ| yonimevaitadupadadhāti |*) (Śa. Brā. 7-4-1-2)
+
+Afterwards the lotus leaf is placed in the middle of the altar. Since the lotus itself is the womb for the production of Agni, he establishes the womb in the form of the lotus. To the question, why should this lotus leaf be placed, यद्वेव पुष्करपर्णमुपदधाति (*yadveva puṣkaraparṇamupadadhāti*), the answer is as follows.
+
+आपो वै पुष्करं तासामियं पर्णं यथा ह वा इदं पुष्करपर्णमप्सध्याहितमेवमियमप्सध्याहिता सेयं योनिरग्नेरियग् ह्यग्निरस्यै हि सर्वोऽग्निश्चीयत इमामेवैतदुपदधाति तामनंतर्हिताग्ं सत्यादुपदधातीमां तत्सत्ये प्रतिष्ठापयति तस्मादियग्ं सत्ये प्रतिष्ठिता................। (*āpo vai puṣkaraṃ tāsāmiyaṃ parṇaṃ yathā ha vā idaṃ puṣkaraparṇamapsadhyāhitamevamiyamapsadhyāhitā seyaṃ yoniragneriyag hyagnirasyai hi sarvo 'gniścīyata imāmevaitadupadadhāti tāmanaṃtarhitāgṃ satyādupadadhātīmāṃ tatsatye pratiṣṭhāpayati tasmādiyagṃ satye pratiṣṭhitā................|*) (Śa. Brā. 7-4-1-8)
+
+The lotus means the principle of the waters. In it this earth is one leaf. In the way that the lotus leaf lies spread out over the water, in the same way this earth also lies spread out and shines in the water in the form of the atmosphere. Since this earth is itself the sacrificial altar, one must understand that this is the womb for the production of Agni. Therefore, by the establishment of the lotus leaf, this very earth is established. The purpose of this establishment is that it should not become separated from truth. Therefore the establishment of the lotus shows that this earth is established on the basis of truth. This earth, even in the midst of all the worlds, has the full nature of truth.
+
+अपां पृष्ठमसि । योनिरग्नेरिति । अपाग्ंहीयं पृष्ठं योनिर्हिर्यमग्नेः समुद्रमभितः पिन्वमानमिति समुद्रो हीमामभितः पिन्वते वर्धमानो महाग्ं....पुष्कर इति वर्धमानो महीयस्व पुष्कर इत्येतद्दिवो मात्रया वरिम्मा स्वेत्यनुविमार्ष्ट्यसौ वा आदित्य एषोऽग्निर्नो हैतमन्यो दिवो वरिमा ॥ (*apāṃ pṛṣṭhamasi | yoniragneriti | apāgṃhīyaṃ pṛṣṭhaṃ yonirhiryamagneḥ samudramabhitaḥ pinvamānamiti samudro hīmāmabhitaḥ pinvate vardhamāno mahāgṃ....puṣkara iti vardhamāno mahīyasva puṣkara ityetaddivo mātrayā varimmā svetyanuvimārṣṭyasau vā āditya eṣo 'gnirno haitamanyo divo varimā ‖*) (Śa. Brā. 7-4-1-9)
+
+### Printed p. 585
+
+O lotus, you are the back of the waters. O vessel of the production of Agni, this earth is the back of the waters and the womb of Agni. Around this earth the ocean (the atmosphere) spreads widely. Therefore, O support of truth, be established spread out upon the lotus; spread out with the extent of the atmosphere and with the same breadth. This Agni is a transformation of the Āditya. Just as only the very wide atmosphere can bear the Āditya, in the same way the support for bearing this Agni must be of very great extent in order to bear the Āditya who is of the form of Agni. Therefore the lotus, the womb of Agni, is prayed to: you also, taking on the form of the atmosphere, bear Agni in me.
+
+In the above description two particulars of the lotus are clear. First, the lotus is the womb of Agni; second, the lotus has the extent of the atmosphere. The outer lotus is only a symbol of the lotus within the heart (the lotus of the heart). Therefore, since the very same extent of the atmosphere belongs also to the lotus of the heart, heaven and earth all are contained in it. Before one knows the nature of the lotus of the heart within the body, one must examine the purport of the metaphor called the lotus.
+
+Among the places where the metaphor of the lotus is specified in the Ṛk Saṃhitā, the passage that describes the origin of Vasiṣṭha is the very first. The statement of the origin of Agni in the present mantra is in the same manner. The manner of the origin of Vasiṣṭha is described in the Saṃhitā thus.
+
+उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन्मनसोऽधिजातः । द्रप्सं स्कन्नं ब्रह्मणा दैव्येन विश्वे देवाः पुष्करे त्वाददंत ॥ (*utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahmanmanaso 'dhijātaḥ | drapsaṃ skannaṃ brahmaṇā daivyena viśve devāḥ puṣkare tvādadaṃta ‖*) (7-33-11)
+
+O Vasiṣṭha, foremost in Brahman, as related to Mitra and Varuṇa you were born of Urvaśī. All the gods also served you, the pure one, with divine rites and bore you in the lotus with the mantras prescribed in the Veda: thus he is praised. This same matter is stated in the Bṛhaddevatā as follows.
+
+तयोरादित्ययोः सत्ते दृष्टाप्सरसमुर्वशीं । रेतश्चस्कंद तत्कुंभे न्यपतद्वासतीवरे ॥ तेनैव तु मुहूर्त्तेन वीर्यवंतौ तपस्विना । अगस्यश्च वसिष्ठश्च तत्रर्षी संबभूवतुः ॥ बहुधा पतिते शुक्रे कलशेऽथ जले स्थले । (*tayorādityayoḥ satte dṛṣṭāpsarasamurvaśīṃ | retaścaskaṃda tatkuṃbhe nyapatadvāsatīvare ‖ tenaiva tu muhūrttena vīryavaṃtau tapasvinā | agasyaśca vasiṣṭhaśca tatrarṣī saṃbabhūvatuḥ ‖ bahudhā patite śukre kalaśe 'tha jale sthale |*)
+
+### Printed p. 586
+
+स्थले वसिष्ठस्तु मुनिः संभूत ऋषिसत्तमः ॥ कुंभेस्त्वगस्यः संभूतो जले मत्स्यो महाद्युतिः । उदियाय ततोऽगस्यः शम्यामात्रो महायशाः ॥ मानेन संमितो यस्मात् तस्मान्मान्य इहोच्यते । यद्वा कुंभादृषिर्जातः कुंभेनापि हि मीयते ॥ कुंभ इत्यभिधानं तु परिमाणस्य लक्ष्यते । ततोऽप्सु गृह्यमाणासु वसिष्ठः पुष्करे स्थितः ॥ सर्वत्र पुष्करं तत्र विश्वे देवा आधारयन् । उत्थाय सलिलात्तस्मादथ तेपे महत्तपः ॥ (*sthale vasiṣṭhastu muniḥ saṃbhūta ṛṣisattamaḥ ‖ kuṃbhestvagasyaḥ saṃbhūto jale matsyo mahādyutiḥ | udiyāya tato 'gasyaḥ śamyāmātro mahāyaśāḥ ‖ mānena saṃmito yasmāt tasmānmānya ihocyate | yadvā kuṃbhādṛṣirjātaḥ kuṃbhenāpi hi mīyate ‖ kuṃbha ityabhidhānaṃ tu parimāṇasya lakṣyate | tato 'psu gṛhyamāṇāsu vasiṣṭhaḥ puṣkare sthitaḥ ‖ sarvatra puṣkaraṃ tatra viśve devā ādhārayan | utthāya salilāttasmādatha tepe mahattapaḥ ‖*) (Bṛ. De. 5-199 to 155) **NOTE**
+
+Both Mitra and Varuṇa, the Ādityas, saw Urvaśī at a good time. Then, being at once infatuated with desire, there was an emission of their seed. It then fell into the vessel called Vasatīvarī. Immediately, Agastya and Vasiṣṭha, both powerful and ascetics, were produced from it. That fallen seed fell in the pot, in the water, and on the earth. From the part that fell on the earth Vasiṣṭha was produced. From the part that fell in the pot Agastya was produced, and from the part that fell in the water a shining fish. Agastya alone, having the measure of a peg, was born of the measure (the pot), and therefore his name became Mānya. For that very reason he also became famous as the pot-born. Afterwards, at the time of the taking of water, the fact that Vasiṣṭha was standing in the lotus came into view. Then all the gods, receiving Vasiṣṭha who stood in the lotus, praised him. Coming out of the water, Vasiṣṭha performed austerity. **NOTE**
+
+नामास्य गुणतो जज्ञे वसतेः श्रैष्ट्यकर्मणः (*nāmāsya guṇato jajñe vasateḥ śraiṣṭyakarmaṇaḥ*) (Bṛ. Je. 5-156) **NOTE**
+
+By his excellent qualities and by his good actions this name became famous for him. The explanation of the sentence of the Bṛhaddevatā is that the name Vasiṣṭha is formed from the root वस् (*vas*), which shows excellence.
+
+In the same way, in the present mantra the nature of the churning of fire in the lotus and the manner of the origin of Agni are described. In the Atharvaveda also the same matter is stated, but there is a slight difference in the description (Ā. Ve. 10-8-34). **NOTE** Thus, in all such contexts the reference to the number three is noteworthy.
+
 ---
 
-**Progress note:** Done through printed p. 580. Ṛk 9 end, 10-13 of 6.16, Sāmidhenī, Aṅgiras, puṣkara
+**Progress note:** Done through printed p. 586. Special Topics on puṣkara, Vasiṣṭha, Bṛhaddevatā
