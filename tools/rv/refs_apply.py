@@ -140,6 +140,7 @@ def fix_line(line, R, scripts, prev=''):
                 lab2 = X.normlab(pm.group(1) + '. ' + name)
                 if not (R.known(lab2) or R.look(lab2)): continue          # a name the list does not have: not ours to change
                 a = pm.start(1); raw = line[a:b]; lab = lab2; words = lab.split(); check.append('dotless')
+        if re.search(r'["“]\s?$', line[:a]): continue        # the first word of a dotless name was moved back: a quotation mark may stand before it now
         hit = R.look(lab)
         if hit is None and R.suffix and not R.known(lab) and '[' not in line[a:b]:
             for i in range(1, len(words)):               # a known name after words that are not a name: a daṇḍa or "Cf." ("वा. ।. पा. 3-4-83", "Cf. Ma. Saṃ. …")
