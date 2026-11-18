@@ -2586,6 +2586,260 @@ O Mitra and Varuṇa, who do us good without doing harm, we praise you fully. Ma
 ##### English translation
 Benignant (deities), may we obtain from you, (who are) such (deities), food for our sustenance: May we, Rudras, be yours.
 
+### Printed p. 69
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒तं नो॑ रुद्रा पा॒युभि॑रु॒त त्रा॑येथां सुत्रा॒त्रा ।  
+> तु॒र्याम॒ दस्यू॑न्त॒नूभिः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पातं । नः । रुद्रा । पायुभिः । उत । त्रायेथां । सुत्रात्रा ।  
+> तुर्याम । दस्यून् । तनूभिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रुद्रोक्तरूपौ देवौ युवां नोऽस्मान् पायुभी रक्षणैः पातं ।
+> रक्षतं । उतापि च सुत्रात्रा शोभनेन त्राणेन त्रायेथां । पालयेतं । इष्टप्राप्त्यनिष्टपरिहारभेदेन भेदः । स्तोत्रादिवैकल्याच्छत्रोर्वा त्रायेथां अभिमतप्रापणेन
+> रक्षतमित्यर्थः । वयं च तनूभिः पुत्रादिभिः सहिताः स्वीयैरंगैर्वा दस्यून् शत्रुन्
+> तुर्याम । हिंस्याम तरेनु वा ॥
+
+##### Gist of the bhāṣya
+
+O two gods of the form just described as Rudras, protect us with your protections. And protect us with good protection; the two verbs differ according to the difference between obtaining what is wished for and warding off what is not wished for. Or else: protect us from an enemy who comes because our praise and the like are deficient, that is, protect us by bringing us what we desire. And may we, together with our bodies, that is with sons and the like, or with our own limbs, overcome or injure the Dasyus, our enemies, or cross over them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्रा (*rudrā*)—O gods who remove sorrow
+- नः (*naḥ*)—us
+- पायुभिः (*pāyubhiḥ*)—with your protections
+- पातं (*pātaṃ*)—protect
+- उत (*uta*)—and
+- सुत्रात्रा (*sutrātrā*)—with your excellent acts of protection
+- त्रायेथाः (*trāyethāḥ*)—protect us
+- तनूभिः (*tanūbhiḥ*)—we together with our sons and the like
+- दस्यून् (*dasyūn*)—the enemies
+- तुर्याम (*turyāma*)—may we injure
+
+##### भावार्थ (Bhāvārtha)
+
+O gods of the form of Rudras (Mitra and Varuṇa), protect us fully with your excellent acts of protection. May we, together with our sons and the like, injure our enemies.
+
+##### English translation
+Protect us with your protections: preserve us with kind preservation : may we, with our descendants, overcome the Dasyus.
+### Printed p. 70
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा कस्या॑द्भुतक्रतू य॒क्षं भु॑जेमा त॒नूभिः॑ ।  
+> मा शेष॑सा॒ मा तन॑सा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । कस्य । अद्भुतक्रतू इत्यद्भुतक्रतू । यक्षं । भुजेम । तनूभिः ।  
+> मा । शेषसा । मा । तनसा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्भुतक्रतू आश्चर्यकर्माणौ वयं कस्यान्यस्य कस्यचन यक्षं पूजितं
+> धनं मा भुजेम । मा भुंजीमहि तनूभिरस्मदीयैरवयवैः । युवयोरनुग्रहात्समृद्धा वयमन्ययाचितधनेन शरीरपोषं न कुर्म इत्यर्थः । तथा शेषसापत्येन सहिता मा भुजेम । तनसा पौत्रादिना सहिता मा भुजेम । अस्मत्कुले न केऽपि
+> भुंजीमहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O two of wondrous works, may we not enjoy the honoured wealth of anyone else, with our own bodies, that is our limbs. The sense is that, made prosperous by your favour, we do not nourish our bodies with wealth begged from others. Likewise may we not enjoy it together with offspring, and may we not enjoy it together with grandsons and the like. The sense is that none in our family would enjoy another's wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्भुतक्रतू (*adbhutakratū*)—O gods who perform wonderful works
+- कस्य (*kasya*)—of another (than you)
+- यक्षं (*yakṣaṃ*)—wealth
+- तनूभिः (*tanūbhiḥ*)—with our bodies
+- मा भुजेम (*mā bhujema*)—may we not enjoy
+- शेषसा (*śeṣasā*)—with our sons also
+- मा (*mā*)—we shall not enjoy
+- तनसा (*tanasā*)—with grandsons and the like also
+- मा (*mā*)—we shall not enjoy (other wealth)
+
+##### भावार्थ (Bhāvārtha)
+
+O gods who perform wonderful works, may we not enjoy the wealth of anyone else, other than the wealth obtained by your favour, either for the nourishment of our own bodies or for the maintenance of our sons, grandsons and the like.
+
+##### English translation
+Workers of wonderous deeds, let us not depend upon the bounty of any other (than you), either in our persous, or with our sons and grandsons.
+### Printed p. 71
+## Sūkta 71 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ नो गंतमिति तृजात्मकं पंचदशं सूक्तं बाहुवृक्तस्यात्रेयस्यार्षं
+> गायत्रं मैत्रावरुणं । आ नस्त्रचं बाहुवृक्त इत्यनुक्रमणिका ॥ उक्तः सूक्तविनियोगः ॥ अग्निष्टोमे प्रातःसवने मैत्रावरुणशस्त्रेऽयमनुरूपस्तृचः । सूत्रितं
+> च । आ नो मित्रावरुणा नो गंतं रिशादसा । आ. ५-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The fifteenth sūkta, beginning "Ā no gantam", consists of three ṛcs; its seer is Bāhuvṛkta Ātreya, its metre is Gāyatrī and its deity is Mitra and Varuṇa, as the Anukramaṇikā says. The use of the sūkta has been stated: in the Agniṣṭoma, at the morning pressing, in the śastra of the Maitrāvaruṇa priest, this tṛca is the anurūpa. It is given in the sūtra of Āśvalāyana (Ā. 5-10).
+
+##### Anuvāda
+
+This sūkta, "Ā no gantam", is the fifteenth sūkta in the fifth anuvāka. It contains three ṛcs. Its seer is Bāhuvṛkta Ātreya; Mitra and Varuṇa are the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: "Ā nastṛcaṃ bāhuvṛktaḥ". The use of the sūkta has been stated earlier. In the Agniṣṭoma sacrifice, among the śastra mantras to be recited by the priest called Maitrāvaruṇa at the time of the morning pressing, this sūkta is to be recited as the anurūpa tṛca, as explained in the sūtra of the Āśvalāyana Śrauta-sūtra, "Ā no mitrāvaruṇā no gantaṃ riśādasā" (Ā. 5-10).
+
+##### Particulars
+
+- Sūkta 71
+- Maṇḍala 5; Anuvāka 5; Sūkta 71
+- Aṣṭaka 4; Adhyāya 4; Varga 9
+- Number of ṛcs in the sūkta: 3
+- Seer: Bāhuvṛkta Ātreya
+- Deity: Mitra and Varuṇa
+- Metre: Gāyatrī
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ गंतं रिशादसा॒ वरु॑ण॒ मित्र॑ ब॒र्हणा॑ ।  
+> उपे॒मं चारु॑मध्व॒रं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । गंतं । रिशादसा । वरुण । मित्र । बर्हणा ।  
+> उप । इमं । चारुं । अध्वरं ॥ १ ॥
+
+### Printed p. 72
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण हे मित्र हे रिशादसा शत्रूणां प्रेरकौ युवां नोऽस्माकमिमं
+> चारुं चरणीयमध्वरमहिंसकं यज्ञमुपा गंतं । उपागच्छतं । कीदृशौ ।
+> बर्हणा परिबर्हणौ निबर्हणौ हंतारौ शत्रूणां ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa, O Mitra, O you two scatterers, impellers of enemies, come to this our lovely sacrifice, one that is to be practised and that does no harm. What kind of gods are you? Destroyers, that is slayers, of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रिशादसा (*riśādasā*)—you who scatter enemies
+- बर्हणा (*barhaṇā*)—and destroy enemies
+- वरुण मित्र (*varuṇa mitra*)—O Mitra and Varuṇa
+- नः (*naḥ*)—our
+- चारुं (*cāruṃ*)—attractive
+- इमं अध्वरं (*imaṃ adhvaraṃ*)—to this sacrifice
+- उप आ गंतं (*upa ā gaṃtaṃ*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, who scatter and destroy enemies, be gracious and come to this attractive sacrifice of ours.
+
+##### English translation
+Mitra and Varuna, scatterers of foes, destroyers of enemies, come to this our accessible sacrifice.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑स्य॒ हि प्र॑चेतसा॒ वरु॑ण॒ मित्र॒ राज॑थः ।  
+> ई॒शा॒ना पि॑प्यतं॒ धियः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वस्य । हि । प्रचेतसा । वरुण । मित्र । राजथः ।  
+> ईशाना । पिप्यतं । धियः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्र हे वरुण प्रचेतसा प्रकृष्टज्ञान् युवां विश्वस्य राजथः । सर्वस्य
+> स्वामिन् भवथः । हीति प्रसिद्धौ । हे ईशाना अस्माकमीश्वर् युवां धियोऽस्मदीयानि कर्माणि पिप्यतं । प्याययतं फलैः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra, O Varuṇa, you two of excellent knowledge reign over all, that is you are lords of everything; the word *hi* denotes that this is well known. O you two who are our lords, fill our works with their fruits.
+### Printed p. 73
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्र (*mitra*)—O Mitra
+- वरुण (*varuṇa*)—O Varuṇa
+- प्रचेतसा (*pracetasā*)—you who have the best knowledge
+- विश्वस्य (*viśvasya*)—of the whole world
+- राजथः हि (*rājathaḥ hi*)—you are indeed lords
+- ईशाना (*īśānā*)—you who are our lords
+- धियः (*dhiyaḥ*)—these works of ours
+- पिप्यतं (*pipyataṃ*)—fill with fruits
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you who have the best knowledge are indeed lords of the whole world. You, our lords, fill these works of ours with fruits.
+
+##### English translation
+Sagacious Mitra and Varuna, you reign over all; bestow fulness, lords. upon our ancient rites.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ नः सु॒तमा ग॑तं॒ वरु॑ण॒ मित्र॑ दा॒शुषः॑ ।  
+> अ॒स्य सोम॑स्य पी॒तये॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । नः । सुतं । आ । गतं । वरुण । मित्र । दाशुषः ।  
+> अस्य । सोमस्य । पीतये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं सुतमभिषुतं सोमं प्रति हे वरुण हे मित्र युवामुपा
+> गतं । उपागच्छतं । दाशुषो हविर्दातुर्ममास्य सोमस्य पीतये पानाय ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa, O Mitra, come to our pressed Soma, that is the Soma that has been squeezed out, for the drinking of this Soma of me, the giver of the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra (both of you)
+- दाशुषः (*dāśuṣaḥ*)—of me, the giver of the oblation (offered by me)
+- अस्य सोमस्य (*asya somasya*)—of this Soma juice
+- पीतये (*pītaye*)—for drinking
+- नः (*naḥ*)—our
+- सुतं (*sutaṃ*)—the Soma that has been pressed and made ready
+- उप आ गतं (*upa ā gataṃ*)—come to us
+### Printed p. 74
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, come to us, turning to this Soma of ours, for the drinking of this Soma juice offered by me (or that is being offered).
+
+##### English translation
+Come, Mitra and Varuna, to our effused libation, to drink of the soma juice of the offerer.
+## Sūkta 72 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ मित्रे वरुण इति तृचात्मकं षोडशं सूक्तं बाहुवृक्तस्यार्षमौष्ठिहं
+> मैत्रावरुणं । आ मित्र औष्णिहमित्यनुक्रमणिका ॥ दशरात्रे तृतीयेऽहनि प्रउगशस्त्रेयं मैत्रावरुणस्य तृचः । सूत्रितं च । आ मित्रे वरुणे वयमश्विनावेह
+> गच्छतं । आ. ७-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The sixteenth sūkta, beginning "Ā mitre varuṇe", consists of three ṛcs; its seer is Bāhuvṛkta, its metre is Auṣṭiha (Uṣṇih) and its deity is Mitra and Varuṇa, as the Anukramaṇikā says. On the third day of the Daśarātra, in the Praüga śastra, this is the tṛca of the Maitrāvaruṇa priest. It is given in the sūtra of Āśvalāyana (Ā. 7-10).
+
+##### Anuvāda
+
+This sūkta, "Ā mitre varuṇe", is the sixteenth sūkta in the fifth anuvāka. It contains three ṛcs. Its seer is Bāhuvṛkta Ātreya; Mitra and Varuṇa are the deity; the metre is Uṣṇik. In the Anukramaṇikā it is said: "Ā mitra auṣṭihaṃ". On the third day of the sacrifice called Daśarātra, when the Praluga**NOTE** śastra mantras are recited, this sūkta is used for the tṛca (three ṛcs) recited by the priest called Maitrāvaruṇa, as explained in the sūtra of the Āśvalāyana Śrauta-sūtra, "Ā mitre varuṇe vayam aśvināv eha gacchatam" (Ā. 7-10).
+
+##### Particulars
+
+- Sūkta 22**NOTE**
+- Maṇḍala 5; Anuvāka 5; Sūkta 72
+- Aṣṭaka 4; Adhyāya 4; Varga 1**NOTE**
+- Number of ṛcs in the sūkta: 3
+- Seer: Bāhuvṛkṣa Ātreya**NOTE**
+- Deity: Mitra and Varuṇa
+- Metre: Uṣṭik
+
 ---
 
-**Progress note:** Done through printed p. 68. Vol 20 pp. 63-68: 5.69.2-4, 5.70.1-2
+**Progress note:** Done through printed p. 74. Vol 20 pp. 69-74: 5.70.3-4, 5.71, start of 5.72
