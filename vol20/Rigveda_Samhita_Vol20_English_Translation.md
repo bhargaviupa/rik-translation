@@ -3559,6 +3559,289 @@ O Aśvin deities, divine beings whose wealth is praise: on this day of the sacri
 ##### English translation
 Divine Adityas, affluent in praise, descended this day from heaven upon the earth, hear that (laudation) which, liberal showerers (of benefits), Atri ever addresses to you.
 
+### Printed p. 93
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कुह॒ त्या कुह॒ नु श्रु॒ता दि॒वि दे॒वा नास॑त्या ।  
+> कस्मि॒न्ना य॑तथो॒ जने॒ को वां॑ न॒दीनां॒ सचा॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुह । त्या । कुह । नु । श्रुता । दिवि । देवा । नासत्या ।  
+> कस्मिन् । आ । यतथः । जने । कः । वां । नदीनां । सचा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्या तौ देवा देवौ नासत्याश्विन् कुह कुत्र तिष्ठतः । नु अद्य कुह श्रुता
+> कुत्र श्रुत् दिवि द्युलोके निवसत इति शेषः । अथ प्रत्यक्षकृतः । हे देवौ युवां
+> कस्मिन् जने यजमान आ यतथः । आगच्छधः । कः स्तोता वां युवयोर्नदीनां
+> स्तुतीनां सचा सहायः स्यात् ॥
+
+##### Gist of the bhāṣya
+
+Where are those two gods, the Nāsatyas, the Aśvins? Where are they heard of today? That they dwell in the heavenly world is the word to be supplied. Then he addresses them directly: O gods, to which sacrificer do you come? Which praiser would be the companion of your नदीनां (*nadīnāṃ*), that is, of your praises?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्या (*tyā*)—the renowned
+- देवा (*devā*)—divine beings
+- नासत्या (*nāsatyā*)—Aśvin deities
+- कुह (*kuha*)—where are they
+- नु (*nu*)—now
+- दिवि (*divi*)—in the heavenly world
+- कुह (*kuha*)—in what region
+- श्रुता (*śrutā*)—are they famed (O Aśvin deities)
+- कस्मिन् जने (*kasmin jane*)—to favour which sacrificer
+- आ यतथः (*ā yatathaḥ*)—you come
+- कः (*kaḥ*)—which sacrificer
+- वां (*vāṃ*)—your
+- नदीनां (*nadīnāṃ*)—praises
+- सचा (*sacā*)—helps
+
+##### भावार्थ (Bhāvārtha)
+
+Where are the renowned Aśvin deities, the divine beings, now? In what region of the heavenly world are they famed? O Aśvin deities, to favour which sacrificer do you come to the earth? Which sacrificer is a helper in the making of praises addressed to you?
+
+##### English translation
+The divine Nasatyas, where are they? where are they heard of in heaven? to what worshipper do you come? who may be the associate of your praises ?
+
+### Printed p. 94
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कं या॑थः॒ कं ह॑ गच्छथः॒ कमच्छा॑ युंजाथे॒ रथं॑ ।  
+> कस्य॒ ब्रह्मा॑णि रण्यथो व॒यं वा॑मुश्मसी॒ष्टये॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कं । याथः । कं । ह । गच्छथः । कं । अच्छ । युंजाथे इति । रथं ।  
+> कस्य । ब्रह्माणि । रण्यथः । वयं । वां । उश्मसि । इष्टये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां कं यजमानं यज्ञं वा प्रति याथः । अध्वानमुल्लंघ्य
+> याथः । कं ह कं च प्रति गच्छथः । गत्वा च केन सह संगतौ भवथः । कं चाच्छाभिप्राप्तं युंजाथे योजयथो रथमश्वैः । कस्य ब्रह्माणि परिवृढानि स्तोत्राणि
+> रण्यथः । रमेथे । वयं च नां युवामिष्टये गमनाय्षणाय वोश्मसि ।
+> कामयामहे । तस्मात् कस्य च यागं प्रति न गंतव्यमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, toward which sacrificer or sacrifice do you go, passing over the road? To whom do you go, and having gone, with whom do you meet? Toward whom, who has come near, do you yoke your chariot with horses? Whose abundant praises do you delight in? And we long for you, for your coming and seeking. Therefore you should not go to anyone's sacrifice; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे अश्विनौ (*he aśvinau*)—O Aśvin deities
+- कं (*kaṃ*)—having in view which sacrificer
+- याथः (*yāthaḥ*)—have you set out
+- कं ह (*kaṃ ha*)—to whom
+- गच्छथः (*gacchathaḥ*)—do you go
+- कं अच्छ (*kaṃ accha*)—to go toward which sacrificer
+- रथं (*rathaṃ*)—your chariot
+- युंजाथे (*yuṃjāthe*)—do you join with horses
+- कस्य (*kasya*)—of which praiser
+- ब्रह्माणि (*brahmāṇi*)—hearing the praises
+- रण्यधः (*raṇyadhaḥ*)—do you delight
+- वयं (*vayaṃ*)—we
+- वां (*vāṃ*)—your
+- इष्टये (*iṣṭaye*)—for the coming
+- उश्मसि (*uśmasi*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, having in view which sacrificer have you set out? Toward which sacrificer do you yoke horses to your chariot to go? Hearing the praises of which praiser do you delight? We desire your coming.
+
+##### English translation
+To whom do you proceed!? to whom do you repair? to (go to) whose presence do you harness you car ? by whose prayers are you gratified ? we are anxious for your arrival.
+
+### Printed p. 95
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पौ॒रं चि॒द्ध्यु॑द॒पुतं॒ पौर॑ पौ॒राय॒ जिन्न॑थः ।  
+> यदीं॑ गृभी॒तता॑तये सिं॒हमि॑व द्रु॒हस्प॒दे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पौरं । चित् । हि । उदपुतं । पौर । पौराय । जिन्नथः ।  
+> यत् । ईं । गृभीततातये । सिंहंइव । द्रुहः । पदे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पौर । इदमश्विनोः संबोधनं । पौरेण स्तुत्यत्वेन संबंधादश्विनावपि
+> पौरा ॥ उभयोश्चांदसमेकवचनं ॥ हे पौरसंबंधिनावश्विन् युवां पौरं ।
+> चिदिति पूरणः । पौरेण वृष्ट्यर्थं प्रार्थ्यमानत्वेन संबंधान्मेघोऽपि पौरः ।
+> तमुदप्रुतमुदकप्लावकं मेघं पौराय ऋषये मह्यं जिन्वथः । प्रेरयथः ।
+> यद्या युवां गृभीततातये गृहीतयज्ञसंतानाय पौरायेमेनं मेघं
+> प्रतिगच्छथो द्रुहो द्रोहस्य पदे स्थानेऽरण्यदेशे सिंहमिव । गर्जंतं प्रबलं
+> सिंहं यथा बलाच्चावयंति शूराः तद्वज्जिन्वथ इति ॥
+
+##### Gist of the bhāṣya
+
+"O Paura" is a form of address to the Aśvins: because of their connection with Paura, who praises them, the Aśvins too are called Paura; the singular for both is Vedic usage. O Aśvins, who belong to Paura, you send to me, the seer Paura, the cloud that floods with water; the word चित् (*cit*) is a filler. Because the cloud too is prayed for by Paura for the sake of rain, it too is Paura. Or else, you go to this cloud for Paura, who has taken up the continuing of the sacrifice, as heroes forcibly drive away a roaring, powerful lion in a place of harm, that is, in a forest region; in the same way you urge it on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पौर (*paura*)—O Aśvin deities, honoured by Paura
+- पौराय (*paurāya*)—for me, who am named Paura
+- उदपुतं (*udaputaṃ*)—full of water
+- पौरं चित् (*pauraṃ cit*)—the cloud that pours rain, a benefit to Paura
+- जिन्वथ (*jinvatha*)—send it, and urge it for the sake of rain
+- द्रुहः पदे (*druhaḥ pade*)—in a forest, a place of harm
+- सिंहं इव (*siṃhaṃ iva*)—as hunters strike and chase away a lion
+- यत् ईं (*yat īṃ*)—that same cloud
+- गृभीततातये (*gṛbhītatātaye*)—urge it to come quickly to me, who am engaged in the sacrificial rite
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, honoured by Paura, send for me, who am named Paura, the cloud that is full of water and pours rain, a benefit to Paura, and urge it to pour rain. As hunters strike and chase away a lion in a forest, a place of harm, urge that same cloud to come quickly, and send it to me, who am engaged in the sacrificial rite.
+
+### Printed p. 96
+
+##### English translation
+Pauras, send to Paura the rain shedding cloud; drive it to him who is engaged in sccrifice, as (hunters chase) a lion in a forest,
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र च्यवा॑नाज्जुजु॒रुषो॑ व॒व्रिमत्कं॒ न मुं॑चथः ।  
+> युवा॒ यदी॑ कृ॒थः पुन॒रा काम॑मृण्वे व॒ध्वः॑ ॥ ५
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । च्यवानात् । जुजुरुषः । वन्रिं । आत्कं । न । मुंचथः ।  
+> युवा । यदि । कृथः । पुनः । आ । कामं । ऋण्वे । वध्वः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> च्यवानादृषेर्जुजुरुषो जरसा जीर्णात्सकाशाद्वन्विं हेयं पुराणं
+> रूपमत्कं न कवचमिव प्र मुंचथः । प्रमुंचतं । प्रामुंचतं द्रापिमिव च्यवानादित्यादि मंत्रांतरं । ऋग्वे. १-११६-१० । यदि यदा पुनर्युवा कृधः । युवानं
+> कुरुथ इत्यर्थः । तदा वध्वः सुरूपायाः स्त्रीयः कामं कमनीयं रूपमा
+> ऋण्वे । प्राप्तवान् ॥
+
+##### Gist of the bhāṣya
+
+From Cyavāna the seer, worn out by old age, you strip off the old, discardable form, like a coat of mail. Another mantra, प्रामुंचतं द्रापिमिव (*prāmuṃcataṃ drāpimiva*) (Ṛgve. 1-116-10) **GLOSS**, and so on, says the same. When you again made him young, then he obtained a desirable form for fair women **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जुजुरुषः (*jujuruṣaḥ*)—who was aged
+- च्यवानात् (*cyavānāt*)—from the body of the seer Cyavana
+- वव्रिं (*vavriṃ*)—the unbearable form of an old man
+- अत्कं न (*atkaṃ na*)—as one tears off an old coat of mail
+- प्र मुंचथः (*pra muṃcathaḥ*)—you destroyed
+- यदि (*yadi*)—when
+- पुनः (*punaḥ*)—again
+- कृधः (*kṛdhaḥ*)—you made him a youth, then he
+- वध्वः (*vadhvaḥ*)—so as to be attractive to women
+- कामं (*kāmaṃ*)—a charming
+- ऋण्वे (*ṛṇve*)—form he obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as one tears off an old coat of mail, you destroyed the unbearable form of old age from the body of the aged seer Cyavana. When you again made him a youth, he obtained a charming form, attractive to women.
+
+### Printed p. 97
+
+##### English translation
+You stripped off (his aged form) like a cuirass from the decrepid Chyavana, so that when you had rendered him again a youth, he attracted the desires of women.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्ति॒ हि वा॑मि॒ह स्तो॒ता स्मसि॑ वां सं॒दृशि॑ श्रि॒ये ।  
+> नू श्रु॒तं म॒ आ ग॑त॒मवो॑भिर्वाजिनीवसू ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्ति । हि । वां । इह । स्तोतु । स्मसि । वां । संदृशि । श्रिये ।  
+> नु । श्रुतं । मे । आ । गतं । अवःभिः । वाजिनीवसू इति वाजिनीवसू ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन्ौ वां स्तोता पौरोऽस्ति हि । वर्तते खलु । हे देवौ वां संदृशि
+> संदर्शने संनिधाने स्मसि । स्मः । भवेम । किमर्थं । श्रिये । नु अद्य मे मदीयमाह्वानं श्रुतं । श्रुणुतं । श्रुत्वा आ गतं । आगच्छतं । किं तूष्टीं नेत्याह ।
+> अवोभी रक्षणैः सह वाजिनीवसू अन्नवसू ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, your praiser Paura is indeed here. O gods, may we be in your sight, in your presence. For what purpose? For prosperity. Today hear my invocation and, having heard, come. Will you be silent? He says: no; come with your protections, O you whose wealth is food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—your
+- स्तोता (*stotā*)—praiser
+- इह हि (*iha hi*)—here itself
+- अस्ति (*asti*)—is
+- श्रिये (*śriye*)—for the increase of our prosperity
+- वां (*vāṃ*)—your
+- संदृशि (*saṃdṛśi*)—for being worthy of your sight
+- स्मसि (*smasi*)—may we be
+- नु (*nu*)—at the time of this sacrifice
+- मे (*me*)—my praise
+- श्रुतं (*śrutaṃ*)—hear
+- वाजिनीवसू (*vājinīvasū*)—you who are rich in food
+- अवोभिः (*avobhiḥ*)—with your protections
+- अगतं (*agataṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, Paura, your praiser, is here itself. For the increase of our prosperity, may we remain worthy of your sight. At the time of this sacrifice hear our praise. You who are rich in food, come to us with your protections.
+
+### Printed p. 98
+
+##### English translation
+A glorifier of you both is here : may we be (retained) in your sight for the sake of prosperity : hear to day (my invocation) : come hither with your protections, you who are affluent in food-
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को वा॑म॒द्य पु॑रू॒णामा नन्॑ने॒ मर्त्या॑नां ॥  
+> को विप्रो॑ विप्रवाहसा॒ को य॒ज्ञैर्वा॑जिनीवसू ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । वां । अद्य । पुरूणां । आ । वव्रे । मर्त्यानां ।  
+> कः । विप्रः । विप्रवाहसा । कः । यज्ञैः । वाजिनीवसू इति वाजिनीवसू ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू अन्नवसू वां युवामद्यास्मिन्निने पुरूणां मर्त्यानां
+> मध्येक आ वन्ने । सर्वतो भजति । हे विप्रवाहसा विप्रैर्मेधाविभिर्वहनीयौ को
+> विप्रो मेधावी वन्ने । को यजमानो यज्ञैर्वष्टे ! आत्मं लंबयुगमानः
+> पुनः पुनर्ब्रूते ॥
+
+##### Gist of the bhāṣya
+
+O you whose wealth is food, who among the many mortals serves you today on all sides? O you who are to be borne by the wise, which wise man, which man of intelligence, serves you? Which sacrificer serves you with sacrifices? **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजनीवसू (*vājanīvasū*)—O gods, who have food for wealth
+- अद्य (*adya*)—on this day of sacrifice
+- नां (*nāṃ*)—you
+- पुरूणां (*purūṇāṃ*)—of the many
+- मर्त्यानां (*martyānāṃ*)—among men
+- कः (*kaḥ*)—who **NOTE**
+- आ वन्ने (*ā vanne*)—is worshipping abundantly
+- विप्रवाहसा (*vipravāhasā*)—O Aśvin deities, worshipped by the best of seers
+- को विप्रः (*ko vipraḥ*)—which wise seer has praised and worshipped
+- यज्ञैः (*yajñaiḥ*)—with sacrificial rites
+- कः (*kaḥ*)—which sacrificer has worshipped you
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who have food for wealth, who among all these men has worshipped you most on this day of sacrifice? O Aśvin deities, who are praised by excellent seers
+
 ---
 
-**Progress note:** Done through printed p. 92. Sukta 73 rks 7-10, Sukta 74 rk 1 (pp. 87-92)
+**Progress note:** Done through printed p. 98. Sukta 74 rks 2-7 (pp. 93-98)
