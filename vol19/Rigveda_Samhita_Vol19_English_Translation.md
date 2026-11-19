@@ -29184,6 +29184,212 @@ That company of Maruts, ever young, riding in bright chariots, irreproachable, a
 > को वे॑द नू॒नमे॑षां॒ यत्रा॒ मदं॑ति॒ धूत॑यः ।  
 > ऋ॒तजा॑ता अरे॒पसः॑ ॥ १४ ॥
 
+### Printed p. 817
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । वेद । नूनं । एषां । यत्र । मदंति । धूतयः ।  
+> यत्यजाताः । अरेपसः । १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां मरुतां स्थानं को वेद । को जानाति । नूनमिदानीं यत्र
+> स्थाने धूतयः शत्रुणां कंपका मदंति हृष्यंति ऋतजाता जलार्थमुत्पन्ना यज्ञे
+> ना प्रादु र्भूता अरेपसोऽपापाः ॥
+
+##### Gist of the bhāṣya
+
+Who knows the abode of these Maruts? Who knows it, now? The place where the shakers of their enemies rejoice, that is, are glad; they who are born for the sake of water, who have been manifested by the sacrifice, and who are sinless.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which place
+- धूतयः (*dhūtayaḥ*)—making their enemies tremble with fear
+- मदंति (*madaṃti*)—they are glad
+- एषां (*eṣāṃ*)—of these Maruts, the place
+- नूनं (*nūnaṃ*)—certainly
+- को वेद (*ko veda*)—who knows? (these same Maruts)
+- अरेपसः (*arepasaḥ*)—are sinless
+- ऋतजाताः (*ṛtajātāḥ*)—and are born for the sake of water
+
+##### भावार्थ (Bhāvārtha)
+
+Who certainly knows the abode of these Maruts, in which they are glad while making their enemies tremble with fear? These same Maruts are sinless and are born for the sake of water.
+
+##### English translation
+Who knows of a certainty their (abode), where the intimidators (of their foes) rejoice? born for (the distribution of) water, exempt from defects.
+
+##### विशेषविषयगळु (Special Topics)
+
+The greatness of the Marut gods cannot be known by ordinary people. Though they make their enemies tremble, they themselves are always glad. They are sinless. They are born for the sake of water in the form of rain; that is, it is by their grace that rain falls upon the earth and from it the plants flourish. Such Marut gods are of a nature that is always moving
+
+### Printed p. 818
+
+about. No man knows their true place of abode; thus the seer has praised the extraordinary qualities of the Marut gods.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं मर्तं॑ विपन्यवः प्रणे॒तार॑ इ॒त्था धि॒या ।  
+> शोता॑रो॒ याम॑हूतिषु ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । मर्तं । विपन्यवः । प्रनेतारः । इत्था । धिया ।  
+> शोत्रारः । यामहूतिषु ॥१५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विपन्यवः स्तुतिकामा मरुतो यूयं मर्तं मरणस्वभावं यजमानमित्थानया धियेदानीं कृतप्रकारयानुग्रहबुद्ध्या ईदृशेन स्तुतिकर्मणा ना
+> निमित्तेन प्रणीतारः प्रकर्षेण प्रापयितारोऽभिमतं स्वर्गादिकं । यामहूतिषु।
+> यामो गमनं । तदर्था हूतयो यस्मिन्निति यामहूतयो यज्ञाः । तेषु
+> श्रोतार आह्वानानां ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, desirous of praise, you are, for the mortal, the sacrificer, the leaders who carry him forward to the wished-for heaven and the like, by this attitude of favour such as has now been shown, or by this kind of act of praise as the cause. In the sacrifices, called by that name because the going (of the gods) is the purpose for which the invocations are made in them, you are the hearers of the invocations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विपन्यवः (*vipanyavaḥ*)—O Maruts, who desire praises
+- यायं (*yāyaṃ*)—you
+- मर्तं (*martaṃ*)—the sacrificer
+- इत्था (*itthā*)—in the present case, manifest
+- धिया (*dhiyā*)—by the thought of favour
+- प्रणीतारः (*praṇītāraḥ*)—you are those who lead to heaven and the like
+- यामहूतिषु (*yāmahūtiṣu*)—in the sacrifices
+- श्रोतारः (*śrotāraḥ*)—you are those who listen to the praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, who desire praises, you are those who lead the sacrificer to heaven and the like by the thought of favour that is manifest in the present case. In the sacrifices and the like you are those who listen to the praises.
+
+### Printed p. 819
+
+##### English translation
+Desirous of praise, you are the guides (to happiness) of the man who propitiates (you) by this pious rite: you are bearers of invocations to the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+इदानीं कृतप्रकारयानुग्रहबुद्ध्या, ईदृशेन स्तुति कर्मणा (*idānīṃ kṛtaprakārayānugrahabuddhyā, īdṛśena stuti karmaṇā*) वा (*vā*). The commentator has explained the words इत्था धिया (*itthā dhiyā*) in two ways: by the thought of favour which you are now showing towards us, or by the act in the form of praise which we are now performing.
+
+यामहूतिषु (*yāmahūtiṣu*)—यानो गमनं। तदर्था हूतयो यस्मिन्निति यामहूतयो याज्ञाः। (*yāno gamanaṃ| tadarthā hūtayo yasminniti yāmahūtayo yājñāḥ|*) The word for going means "going"; the act for which such going is intended gets the name of the word explained. Since the going of the gods is for the sake of the sacrifice, that is, since the gods, being invoked in the sacrifices, go there, the commentator has explained the parts of this word as meaning "in the sacrifices".
+
+श्रोतारः (*śrotāraḥ*)—श्रोतार आह्वानानां (*śrotāra āhvānānāṃ*): because they are hearers of the invocation that the sacrificers make in those sacrifices (the calling to come to the sacrificial ground), it is said here "hearers".
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॒ वसू॑नि॒ काम्या॑ पुरुश्चं॒द्रा रि॑शादसः ।  
+> आ य॑ज्ञयासो ववृत्तन ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । वसूनि । काम्या । पुरुचंद्राः । रिशादसः ।  
+> आ । यज्ञियासः । ववृत्तन ॥१६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रिशादसो हिंसकानां शत्रूणामत्तारो हे यज्ञियासो यज्ञार्हाः
+> पुरुश्चंद्राः प्रभूताह्लादकधनास्ते यूयं नोऽस्मभ्यं वसूनि निवासयोग्यानि
+
+### Printed p. 820
+
+> धनानि काम्या स्पृहणीयान्या ववृत्तन । आवर्तयथेत्यर्थः । मरुतां दानप्रशंसाया अपेक्षितत्वान्न प्रार्थनोचिता ॥
+
+##### Gist of the bhāṣya
+
+O devourers of the harmful enemies, O you worthy of the sacrifice, O you whose wealth is abundant and delightful, you, to us, desirable, enviable riches fit to dwell in: bring them about, that is, cause them to turn towards us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रिशादसः (*riśādasaḥ*)—destroyers of enemies
+- यज्ञियासः (*yajñiyāsaḥ*)—worthy of the sacrifice
+- पुरुश्चंद्राः (*puruścaṃdrāḥ*)—O Maruts, who have delightful wealth
+- ते (*te*)—you
+- नः (*naḥ*)—to us
+- काम्या (*kāmyā*)—desired by us
+- वसूनि (*vasūni*)—and fit to dwell in, the riches
+- आ ववृत्तन (*ā vavṛttana*)—bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, destroyers of enemies, worthy of the sacrifice, who have delightful wealth, bring about for us the riches that we desire and that are fit to dwell in.
+
+##### English translation
+You, are destroyers of the malevolent, abounding in wealth and entitled to adoration, bestow upon us desirable riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, the last of those that praise the Maruts, the seer prays that they give the wealth and the like that we desire. Since the meaning is clear, no explanation is needed.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं मे॒ स्तोम॑मूर्म्ये दा॒र्भ्याय॒ परा॑ वह ।  
+> गिरो॑ देवि र॒थीरि॑व ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतं । मे । स्तोमं । ऊर्म्य । दार्भ्याय । परा । वह ।  
+> गिरः । देवि । रथीः इव ॥ १७ ॥
+
+### Printed p. 821
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संपन्नऋषिभावस्य श्यावाश्वस्यार्चनानसः । रथवीतिसुतायाश्च विवाहं
+> शौनकोऽब्रवीत् ॥ कथं । मरुत्तु तु प्रयातेषु श्यावाश्वः सुमहायशाः । प्रादुर्भूतार्षमात्मानं ज्ञात्वा त्रिकुलनंदनः । रथवीतेर्दुहितरमगच्छन्मनसा तदा । स
+> सत्यमृषिमात्मानं प्रवक्ष्य न्रथवीतये ॥ एतं मे स्तोममित्याभ्यां दौत्ये रात्रिं
+> न्यवेदयत् । ऋषेर्नियोगमाज्ञाय देव्या रात्रा प्रचोदितः ॥ आदाय
+> कन्यकां दातुमुपेयायार्चनानसं । पादौ तस्कोपसंगृह्य स्थित्वा प्रह्वः कृतां
+> जलिः ॥ रथवीतिरहं दार्भ्य इति नाम शशंस सः । माया संयोगमिच्छंतं त्वां
+> प्रत्याचक्षि यत्पुरा ॥ तत्क्षमस्व नमस्तेऽस्तु मे मा स्म भगवन् क्रुद्धः ॥ ऋषेः
+> पुत्रः स्वयमृषिः पितासि भगवानृषेः । हंत प्रतिगृहाणेमां स्नुषामित्येनमब्रवीत् ॥ तस्मै ददावश्वशतं स राजा स्वलंकृतां चापि सुतां स्नुषार्थं। विवाहकालेऽपि ददौ नरेंद्रः शतं हयानां दुहितुः सहस्रं ॥ गवां सहस्रं वसु चप्रभूतं तप्तं तपोंतेऽथ वनं जगामेति ॥ हे ऊर्मै रात्रि देवि । ऊर्मैति
+> रात्रिनाम । मे मदीयमेतं स्तोमं मरुद्भ्यः कृतं स्तोत्रमहं मंत्रदृक्
+> भूत्वा मरुतः स्तुतवानित्येवं दार्भ्याय श्यावाश्वाय परा पराङ्खी दार्भ्याभिमुखी सती वह । प्रापयेत्यर्थः । तदेवादरार्थमुच्यते । हे रात्रि देवि गिरः
+> स्तुतीर्मरुद्विसयाः परा वह रथीरिव । रथी यथा रथेऽभिप्रेतं वसु स्थापयित्वाभिमतं देशं प्रापयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Śaunaka told of the marriage of Śyāvāśva Arcanānas, who had attained the state of a seer, and of the daughter of Rathavīti. How? When the Maruts had departed, Śyāvāśva, very famous, the delight of the three families, knowing himself to have become manifest as a seer, in his mind approached the daughter of Rathavīti. Intending to tell Rathavīti truly that he was a seer, with the two verses beginning एतं मे स्तोमं (*etaṃ me stomaṃ*) he entrusted a message to Night as messenger. Rathavīti, knowing the seer's command and urged by the goddess Night, took his daughter and went to Arcanānas to give her; clasping his feet, standing humble with folded hands, he declared his name, saying that he was Rathavīti Dārbhya, asked forgiveness for what he had said before, when Śyāvāśva wished a union with him, bowed to him and begged him not to be angry; he said that Śyāvāśva was the seer's son and a seer himself, and his father a revered seer, and bade him accept this daughter-in-law. That king gave him a hundred horses and his well-adorned daughter as daughter-in-law; at the time of the marriage the king also gave a hundred horses and a thousand for the daughter, a thousand cows and abundant wealth; and when his austerities were completed he went to the forest.
+
+The words are then explained. हे ऊर्मै रात्रि देवि (*he ūrmai rātri devi*): ऊर्मै (*ūrmai*) is a name of night. The meaning: this hymn of mine, made for the Maruts, the praise that I, having become a seer of the mantra, offered to the Maruts: carry it, turned away from me and turned towards Dārbhya, Śyāvāśva; that is, convey it. **NOTE** The same is said again, for respect: O goddess Night, carry the praises concerning the Maruts, like a charioteer: as a charioteer places the wealth he intends in the chariot and conveys it to the intended place, so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्म्मे (*ūrmme*)—O goddess of night
+- मे (*me*)—composed by me
+- एतं स्तोमं (*etaṃ stomaṃ*)—this hymn
+- परा (*parā*)—turned away from me
+- दार्भ्याय (*dārbhyāya*)—and turned towards Dārbhya
+- वह (*vaha*)—convey it there
+- देवि (*devi*)—O goddess
+- रथीः इव (*rathīḥ iva*)—as the master of a chariot carries heavy things in the chariot
+- गिरः (*giraḥ*)—carry my praises
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess of night, carry this hymn composed by me, turned away from me and turned towards Dārbhya, and bring it to him. O goddess, as the master of a chariot carries heavy things in his chariot, carry my praises.
+
+### Printed p. 822
+
+##### English translation
+Bear to Darbhya, oh night, turning away (from me to him), this my eulogy (of the Maruts) : convey my praises, goddess, as charioteer (conveys the contents of his vehicle to their destination.
+
+##### विशेषविषयगळु (Special Topics)
+
+Up to now, that is, through the eleven sūktas from the fifty-second sūkta of this Maṇḍala to the sixty-second, Śyāvāśva praised the Marut gods and through the grace of those gods attained the state of a seer; and King Rathavīti too gave his daughter to this seer Śyāvāśva in marriage. The commentator says that the great seer Śaunaka has narrated this matter in the following way:
+
+संपन्नऋषिभावस्य श्यावाश्वस्यार्चनानसः । रथवीतिसुतायाश्च विवाहं शौनकोऽब्रवीत् ॥ (*saṃpannaṛṣibhāvasya śyāvāśvasyārcanānasaḥ | rathavītisutāyāśca vivāhaṃ śaunako 'bravīt ‖*)
+
+How?
+
+मरुत्सु तु प्रयातेषु श्वावाश्वः सुमहायशाः । प्रादुर्भूतार्षमात्मानं ज्ञात्वा त्रिकुलनंदनः ॥ रथवीतेर्दुहितरमगच्छन्मना तदा । स सत्यमृषिमात्मानं प्रवक्ष्यनथवीतये ॥ एतं मे स्तोममित्याभ्यां दौत्ये रात्रिं न्यवेदयत् । ऋषेर्नियोगमाज्ञाय देव्या रात्रा प्रचोदितः ॥ आदाय कन्यकां दातुमुपेयायार्चनानसं । पादौ तस्योपसंगृह्य स्थित्वा प्रह्वः कृतांजलिः ॥ रथवीतिरहं दार्भ्य इति नाम शशंस सः । मया संयोगमिच्छंतं त्वां प्रत्याचक्षि यत्पुरा ॥ तत्क्षमस्व नमस्तेऽस्तु मे मा स्म भगवन् क्रुद्धः । यषेः पुत्रः स्वयमृषिः पितासि भगवानृषेः । हंत प्रतिगृहाणेमां स्नुषामित्येनमब्रवीत् ॥ तस्मै ददावश्वशतं स राजा स्वलंकृतां चापि सुतां स्नुषार्थं । विवाहकालेऽपि ददौ नरेंद : शतं हयानां दुहितुः सहस्रं ॥ (*marutsu tu prayāteṣu śvāvāśvaḥ sumahāyaśāḥ | prādurbhūtārṣamātmānaṃ jñātvā trikulanaṃdanaḥ ‖ rathavīterduhitaramagacchanmanā tadā | sa satyamṛṣimātmānaṃ pravakṣyanathavītaye ‖ etaṃ me stomamityābhyāṃ dautye rātriṃ nyavedayat | ṛṣerniyogamājñāya devyā rātrā pracoditaḥ ‖ ādāya kanyakāṃ dātumupeyāyārcanānasaṃ | pādau tasyopasaṃgṛhya sthitvā prahvaḥ kṛtāṃjaliḥ ‖ rathavītirahaṃ dārbhya iti nāma śaśaṃsa saḥ | mayā saṃyogamicchaṃtaṃ tvāṃ pratyācakṣi yatpurā ‖ tatkṣamasva namaste 'stu me mā sma bhagavan kruddhaḥ | yaṣeḥ putraḥ svayamṛṣiḥ pitāsi bhagavānṛṣeḥ | haṃta pratigṛhāṇemāṃ snuṣāmityenamabravīt ‖ tasmai dadāvaśvaśataṃ sa rājā svalaṃkṛtāṃ cāpi sutāṃ snuṣārthaṃ | vivāhakāle 'pi dadau nareṃda : śataṃ hayānāṃ duhituḥ sahasraṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 816. Ṛk 10-14 of Sūkta 61, pp. 811-816
+**Progress note:** Done through printed p. 822. Ṛk 14-17 of Sūkta 61, pp. 817-822
