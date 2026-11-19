@@ -30247,6 +30247,276 @@ This sūkta, प्र वो देवं (*pra vo devaṃ*), is the seventh s�
 > प्र । वः । देवं । चित् । सहसानं । अग्निं । अश्वं । न । वाजिनं । हिषे । नमःभिः ।  
 > भव । नः । दूतः । अध्वरस्य । विद्वान् । त्मना । देवेषु । विविदे । मितद्रुः ॥ १ ॥
 
+### Printed p. 715
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वस्त्वां देवं द्योतमानादिगुणयुक्तं सहसानं राक्षसानभिभवंतं
+> बलमाचरंतं वाग्निमग्रस्य नेतारमश्वं न अश्वमिव वाजिनं वेगवंतं बलवंतं ना
+> नमोभिः स्तुतिभिर्हनिर्भिर्वा प्र हिषे । हे अग्ने त्वां चित्पहिणोम्येव । किंच हे अग्ने
+> त्वं विद्वान् जानन् नोऽस्माकमध्वरस्य यज्ञस्य दूतो भव । अथ परोक्षस्तुतिः ।
+> त्मनात्मना स्वयमेव देवेषु मितद्रुर्दग्धद्रुमोऽग्निरिव विविदे । प्रज्ञायते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are divine, endowed with shining and other qualities, who overpower the rākṣasas and exert strength **NOTE**, swift and strong like a horse: with praises or with oblations I send you forth; indeed, O Agni, I send you forth **NOTE**. Further, O Agni, knowing, be the messenger of our sacrifice. Now follows an indirect praise: of his own accord Agni is known among the gods as one who has burnt the trees.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवं (*devaṃ*)—(O Agni) the shining one
+- सहसानं (*sahasānaṃ*)—the one who strikes down and overcomes enemies
+- अग्निं (*agniṃ*)—the leader of all
+- अश्वं न (*aśvaṃ na*)—like a horse
+- वाजिनं (*vājinaṃ*)—the swift-moving; (thee)
+- वः (*vaḥ*)—you
+- नमोभिः (*namobhiḥ*)—with words of praise
+- प्र हिषे चित् (*pra hiṣe cit*)—I worship excellently
+- विद्वान् (*vidvān*)—knowing our desires
+- नः (*naḥ*)—our
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- दूतः (*dūtaḥ*)—as messenger
+- भव (*bhava*)—be
+- अग्निः (*agniḥ*)—Agni
+- त्मना (*tmanā*)—without anyone's help, by the shining of his own nature alone
+- देवेषु (*deveṣu*)—among the gods
+- मितद्रुः (*mitadruḥ*)—as one who has burnt the trees
+- विविदे (*vivide*)—is known
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the shining one, who strikes down and overcomes enemies, the leader of all, swift-moving like a horse, you I worship excellently with words of praise. Knowing our desires, be the messenger of our sacrifice. Agni, without anyone's help, by the shining of his own nature alone, is known among the gods as one who has burnt the trees.
+
+##### English translation
+I propitate with oblations the divine, vigorous Agni, rapid as a horse : Agni, knowing (our desires), be our messenger of the sacrifice : he, the consumer of forests, is known spontaneously among the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑ह्यग्ने प॒थ्या॒३॒॑३ अनु॒ स्वा मं॒द्रो दे॒वानां॑ स॒ख्यंजु॑षा॒णः ।  
+> आ सानु॒ शुष्मै॑नर्न॒दय॑न्पृथि॒व्या जंभे॑भि॒र्विश्व॑मु॒शध॒ग्वना॑नि॥२॥
+
+### Printed p. 716
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । योहि । अग्ने । पथ्याः । अनु । स्वाः । मंद्रः । देवानां । सख्यं । जुषाणः ।  
+> आ । सानु । कुष्मैः । नदयन् । पृथिव्याः । जंभेभिः । विश्वं । उशधक् । वनानि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं मंद्रो मदयिता स्तुत्यो वा देवानां सख्यं । देवैः सह
+> सख्यमित्यर्थः ! जुषाणः सेवमानः पृथिव्याः सानु समुच्च्रितं तृणगुल्मादिकं
+> शुष्कैः शोषकैर्दाहकैस्तेजोभिर्नदयन् शब्दायमानः । दह्यमानं हि शब्दायते।
+> जंभेभिर्दंष्ट्राभिः । ज्वालाभिरित्यर्थः । विश्वं विश्वानि वनान्युशधक् कामयमानो
+> दहन् स्वाः पथ्या अनु । स्वैर्मार्गैरित्यर्थः । आ आ याहि । आकारस्य पुनर्वचनमादरार्थं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are delighting (or praiseworthy), enjoying friendship with the gods, that is, friendship together with the gods, roaring with drying, scorching splendours the grass, shrubs and the like that rise on the high places of the earth (for what burns makes a sound), with your fangs, that is, your flames, desiring and burning all the forests: come along your own paths, that is, your own ways. The repetition of the particle ā is for the sake of honour. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- मंद्रः (*maṃdraḥ*)—being joyful
+- देवानां (*devānāṃ*)—with the gods
+- सख्यं (*sakhyaṃ*)—friendship
+- जुषाणः (*juṣāṇaḥ*)—enjoying
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- सानु (*sānu*)—on the high places (in the thickets)
+- शुष्मैः (*śuṣmaiḥ*)—with your drying splendours
+- नदयन् (*nadayan*)—making a roaring sound of burning
+- जंभेभिः (*jaṃbhebhiḥ*)—with fangs in the form of flames
+- विश्वं (*viśvaṃ*)—all
+- वनानि (*vanāni*)—the trees
+- उशधक् (*uśadhak*)—burning
+- स्वाः (*svāḥ*)—your
+- पथ्याः (*pathyāḥ*)—paths
+- अनु (*anu*)—following
+- आ आ याहि (*ā ā yāhi*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, being joyful, winning the friendship of the gods and enjoying its happiness, making a roaring sound of burning with your drying splendours in the thickets on the high places of the earth, burning all the trees with your fangs in the form of flames, come, following your own paths.
+
+##### English translation
+Come, Agni, rejoicing by your own paths, gratified by the friendship of the gods : roaring with withering flames above the high places of the earth : threatening to consume all the forests.
+
+### Printed p. 717
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒चीनो॑ य॒ज्ञः सुधि॑तं॒ हि ब॒र्हिः प्री॑णी॒ते अ॒ग्नि री॑ळि॒तो न  ॑
+> होता॑ ।  
+> आ मा॒तरा॑ वि॒श्ववा॑रे हुवा॒नो यतो॑ यविष्ठ जज्ञि॒षे  ॒॑
+> सुशेवः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्राचीनः । यज्ञः । सुधितं । हि । बर्हिः । प्रीणीते । अग्निः । ईळितः । न । होता ।  
+> आ । मातरा । विश्ववारे इति विश्ववारे । हुवानः । यतः । यविष्ठ । जज्जिषे ।  
+> सुशेवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं यज्ञः प्राचीनः । सम्यगनुष्ठीयत इत्यर्थः । यद्वा । यज्ञो यष्टा
+> होता प्राचीनः । यद्वा । यज्ञो हविः प्राचीनः प्राचीनं प्राङ्मुखमासन्नं ।
+> बर्हिर्हि बर्हिश्च सुधितं सुनिहितं । ईळितः स्तुतोऽग्निः प्रीणीते । तृप्तश्च भवति ।
+> होता न होता च । नेति चार्थे । विश्ववारे विश्वैर्वणीये मातरा द्यावापृथिव्याविडायामा हुवानो भवति । कदेत्यत आह । यतो यदा यविष्ठ हे
+> युवतमाग्ने त्वं सुशेवः सुमुखो जज्जिषे जायसे ॥
+
+##### Gist of the bhāṣya
+
+This sacrifice is prācīna, that is, it is duly performed. Or else the yajña, the sacrificer, the hotṛ, is prācīna. Or else the yajña, the oblation, is prācīna, that is, placed facing east. The sacred grass is also well laid, well placed. Agni, being praised, is gratified. The word na stands in the sense of ca: the hotṛ also invokes heaven and earth, the two parents, desired by all **NOTE**. When? He answers: when, O youngest Agni, you are born, pleasant-faced.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञः (*yajñaḥ*)—the hotṛ
+- प्राचीनः (*prācīnaḥ*)—sits facing east
+- बर्हिः हि (*barhiḥ hi*)—the sacred grass seat also
+- सुधितं (*sudhitaṃ*)—is excellently spread out
+- ईळितः (*īḷitaḥ*)—praised
+- अग्निः (*agniḥ*)—Agni
+- प्रीणीते (*prīṇīte*)—is gratified
+- यविष्ठ (*yaviṣṭha*)—O Agni, the very young
+- सुशेवः (*suśevaḥ*)—you, the giver of happiness
+- यतः (*yataḥ*)—when
+- जज्जिषे (*jajjiṣe*)—you are born (then)
+- होता न (*hotā na*)—the hotṛ also
+- विश्ववारे (*viśvavāre*)—desired by all
+- मातरा (*mātarā*)—heaven and earth, parents of the world
+- आ हुवानः (*ā huvānaḥ*)—invokes with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+The hotṛ sits facing east. The sacred grass seat too is excellently spread out. Agni, being praised, is gratified. O Agni, the very young, you the giver of happiness, when you are born, then the hotṛ also invokes with prayer heaven and earth, desired by all and parents of the world.
+
+### Printed p. 718
+
+##### English translation
+The sacrifice is present ; the sacred grass is strewn; Agni lauded is satisfied, and is the ministrant priest invoking the all-desired parents of whom you, honoured Agni, the youngest (of the gods), are born.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒द्यो अ॑ध्व॒रे र॑थि॒रं ज॑नंत॒ मानु॑षासो॒ विचे॑तसो॒ य  ॑
+> एषां ।  
+> वि॒शाम॑धायि वि॒श्वति॑र्दुरो॒णे॒३॒॑ ३ ग्निर्मं॒द्रो मधु॑वचा  ॒॑
+> ऋतावा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सद्यः । अध्वरे । रथिरं । जनंत । मानुषापः । विचेतसः । यः । एषां ।  
+> विशां । अधायि । विश्वतिः । दुरोणे । अग्निः । मंद्रः । मधुवचाः । ऋतवा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विचेतसो विविक्तप्रज्ञा मानुषासो मनुष्या अध्वरे यज्ञे रथिरं रथिनं
+> नेतारमग्निं सद्यो जनंत । जनयंति । य एषां हनिर्वहति सोऽयमग्निर्विश्वतिर्विशां पतिर्विश्वस्य पतिर्वा मंद्रो मदयिता मधुवचा मादयितृवचस्क ऋतावा
+> यज्ञवान् विशां मनुष्याणां दुरोणे गृहेऽधायि । आहितः ॥
+
+##### Gist of the bhāṣya
+
+Men of discerning wisdom promptly generate, that is, bring forth, at the sacrifice the leading Agni, the one who drives the chariot, the guide. He who carries their oblations is this Agni, viśvati, lord of the people or lord of all, mandra, the one who gladdens, madhuvacā, the one whose speech gives delight, ṛtāvā, the possessor of the sacrifice; he has been placed in the house of the people, that is, of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचेतसः (*vicetasaḥ*)—possessed of discerning wisdom
+- मानुषासः (*mānuṣāsaḥ*)—men
+- अध्वरे (*adhvare*)—at the sacrifice
+- रथिरं (*rathiraṃ*)—Agni, the guide
+- सद्यः (*sadyaḥ*)—promptly
+- जनंत (*janaṃta*)—bring forth
+- यः (*yaḥ*)—which Agni
+- एषां (*eṣāṃ*)—carries the oblations of these sacrificers, that very
+- अग्निः (*agniḥ*)—Agni
+- विश्वतिः (*viśvatiḥ*)—as lord of all the people
+- मंद्रः (*maṃdraḥ*)—as the giver of delight
+
+### Printed p. 719
+
+- मधुवचाः (*madhuvacāḥ*)—as one whose speech is beneficial
+- ऋतावा (*ṛtāvā*)—as the possessor of the sacrifice
+- विशां (*viśāṃ*)—of men
+- दुरोणे (*duroṇe*)—in the sacrificial house
+- अधायि (*adhāyi*)—has been established
+
+##### भावार्थ (Bhāvārtha)
+
+Men of discerning wisdom promptly bring forth at the sacrifice Agni, the guide. The very Agni who carries the oblations of the sacrificers has been established in the sacrificial house of men, as lord of all the people, as the giver of delight, as one whose speech is beneficial, and as the possessor of the sacrifice.
+
+##### English translation
+Judicious men promptly generate at the sacred rite the directing (Agni), who (may convey) their (oblations); Agni, the lord of men, the giver of delight, the sweet-spoken, the celebrator of sacrifices, has been established in the dwelling of the people.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असा॑दि वृ॒तो वह्नि॑राजग॒न्वान॒ग्निर्ब्र॒ह्मा नृ॒षद॑ने विध॒र्ता ।  
+> दौश्च॒ यं पृ॑थि॒वी वा॑वृ॒धाते॒ आ यं होता॒ यज॑ति  
+> वि॒श्ववा॑रं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असादि । वृतः । वह्निः । आजगन्वान् । अग्निः । ब्रह्मा । नृसदने । विधर्ता ।  
+> द्यौः । च । यं । पृथिवी । वावृधाते इति । आ । यं । होता । यजति । विश्ववारं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृतो होतृत्वेन वह्निर्हविषां वोढा ब्रह्मा परिवृढो विधर्ता विश्वस्य
+> धारकोऽग्निराजगन्वान् द्युलोकादागत आगमनशीलो वा नृषदने होतुः
+> स्थानेऽसादि । उपविष्टः । यमग्निं द्यौश्च पृथिवी चोभे ववृधाते वर्धयतः । यं
+> च विश्ववारं विश्वैर्वर्णीयं होता मानुष आ यजति ॥
+
+##### Gist of the bhāṣya
+
+Agni, chosen as hotṛ, the vahni, the bearer of oblations, brahmā, the one who has grown great, vidhartā, the supporter of the universe, having come from the world of heaven or being of coming nature, has been seated, that is, has taken his place, in the nṛṣadana, the place of the hotṛ. He is the Agni whom both heaven and earth cause to grow, and whom, desired by all, the human hotṛ worships.
+
+### Printed p. 720
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—which Agni
+- द्यौः (*dyauḥ*)—the world of heaven
+- पृथिवी च (*pṛthivī ca*)—and the earth
+- ववृधाते (*vavṛdhāte*)—caused to grow
+- विश्ववारं (*viśvavāraṃ*)—esteemed by all
+- यं (*yaṃ*)—which Agni
+- होता (*hotā*)—the man who is the hotṛ
+- आ यजति (*ā yajati*)—worships; such
+- वृतः (*vṛtaḥ*)—the one chosen as the hotṛ of the gods
+- वह्निः (*vahniḥ*)—the bearer of oblations
+- ब्रह्मा (*brahmā*)—the one who has grown great
+- विधर्ता (*vidhartā*)—the supporter of the universe
+- अग्निः (*agniḥ*)—Agni
+- आजगन्वान् (*ājaganvān*)—having come from the world of heaven
+- नृषदने (*nṛṣadane*)—in the place of the hotṛ
+- असादि (*asādi*)—is seated
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, whom the world of heaven and the earth caused to grow, and whom the man who is the hotṛ worships as one esteemed by all, such an Agni, chosen as hotṛ of the gods, the bearer of oblations, the one who has grown great, the supporter of the universe, has come from the world of heaven and is seated in the place of the hotṛ.
+
+##### English translation
+Invested (with the priestly office), the bearer (of the oblation), Agni, the directing priest, the sustainer (of all), is seated in the house of man, he whom heaven and earth extol, and whom, the desired of all, the ministrant priests worship.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते द्यु॒म्नेभि॒र्विश्व॒माति॑रंत॒ मंत्रं॒ ये वारं॒ नर्या॒  ॑
+> अतक्षन् ।  
+> प्र ये विश॑स्ति॒रंत॒ शोष॑माणा॒ आ ये मे॑ अ॒स्य दीध॑यन्नृ॒तस्य॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । द्युम्नेभिः । विश्वं । आ । अतिरंत । मंत्रं । ये । वा । अरं । नर्याः । अतक्षन् ।  
+> प्र । ये । विशः । तिरंत । श्रोषमाणाः । आ । ये । मे । अस्य । दीधयन् । ऋतस्य ॥
+
 ---
 
-**Progress note:** Done through printed p. 714. Vol 21 pp. 709-714: 7.6 Rk 3 end to Rk 7; 7.7 intro and Rk 1 (verse and pada)
+**Progress note:** Done through printed p. 720. Sūkta 7 Ṛks 1-6 (pp. 715-720)
