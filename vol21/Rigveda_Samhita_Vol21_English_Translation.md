@@ -15051,6 +15051,340 @@ Resplendent Pushan, we ask of you the service of that your weapon, which is the 
 > उ॒त नो॑ गो॒षणिं॒ धिय॑मश्व॒सां वा॑ज॒सामु॒त ।  
 > न्य॒वत्कृ॑णुहि वी॒तये॑ ॥ १० ॥
 
+### Printed p. 344
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । गोऽसनिं । धियं । अश्वसां । वाजसां । उत ।  
+> स्नवत् । कृणुहि । वीतये ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे पूषन् गोषणिं गवां सनित्रीमश्वसामश्वानां सनित्रीं
+> वाजसां वाजानामन्नानां सनित्रीमुतापि च नृवत् नृवतीं यद्वा नृणां वनित्रीं
+> दात्रिमेवंभूतां धियं बुद्धिं कर्म वा नोऽस्माकं वीतये खादनायोपभोगार्थं कृणुहि कुरु ॥
+
+##### Gist of the bhāṣya
+
+And further, O Pūṣan: make our intellect or rite (धियं (*dhiyaṃ*)), which is the bestower of cows, the bestower of horses, the bestower of food, and which is possessed of men (or else: the giver of men), fit for our eating and enjoyment (वीतये (*vītaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- गोषणिं (*goṣaṇiṃ*)—that which increases cows
+- अश्वसां (*aśvasāṃ*)—that which helps towards the gaining of horses
+- वाजसां (*vājasāṃ*)—that which nourishes with food
+- उत (*uta*)—and
+- नृवत् (*nṛvat*)—that which helps towards sons, grandsons and the like
+- धियं (*dhiyaṃ*)—our rite
+- नः (*naḥ*)—our
+- वीतये (*vītaye*)—as fit for enjoyment
+- कृणुहि (*kṛṇuhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, make our rite, which increases cows, helps towards the gaining of horses and nourishes with food, fit for our enjoyment.
+
+##### English translation
+Make our pious worship productive of cows, of houses, of food, of
+dependants, for our enjoyment.
+
+The fifty-fourth sūkta
+
+## Sūkta 54 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सं पूषन्निति दशर्चं पंचमं सूक्तं भरद्वाजस्यार्षं पौष्णं गायत्रं । सं
+> पूषन्नित्यनुक्रांतं ॥ नष्टधनमन्विच्छता पुरुषेणैतज्जप्यं । सूत्रितं च । सं पूषन्विदुषेति नष्टमधिजिगमिषन्मूळ्वो वा । आ. गृ. ३-७-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the fifth sūkta, of ten Ṛks, beginning सं पूषन् (*saṃ pūṣan*), has Bharadvāja as its seer, Pūṣan as its deity, and the Gāyatrī metre. The Anukramaṇī says the same (सं पूषन् (*saṃ pūṣan*)). A man who is seeking lost wealth should mutter this sūkta. It is laid down in the sūtra beginning with सं पूषन्विदुषेति (*saṃ pūṣanviduṣeti*), to be used by one who wishes to find what is lost, or who is bewildered (Ā. Gṛ. 3-7-9)**NOTE**.
+
+### Printed p. 345
+
+Translation (Anuvāda): This sūkta beginning सं पूषन् (*saṃ pūṣan*) is the fifth sūkta in the fifth anuvāka. It has ten Ṛks. Bharadvāja is the seer of this sūkta, Pūṣan the deity, Gāyatrī the metre. In the Anukramaṇī it is said at the beginning, सं पूषन् (*saṃ pūṣan*). That a man who seeks lost wealth should mutter this sūkta is explained by the sūtra of the Āśvalāyana Gṛhya Sūtra सं पूषन्विदुषेति नष्टमधिजिगमिषुनूळ्वो वा (*saṃ pūṣanviduṣeti naṣṭamadhijigamiṣunūḷvo vā*) (Ā. Gṛ. 3-7-9)**NOTE**.
+
+Sūkta 54. Maṇḍala 6. Anuvāka 5. Sūkta 54. Aṣṭaka 4. Adhyāya 8. Vargas 19, 20. Number of Ṛks in the sūkta: 10. Seer: Bharadvāja Bārhaspatya. Deity: Pūṣan. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं पू॑षन्वि॒दुषा॑ नय॒ यो अंज॑सानु॒शास॑ति ।  
+> य ए॒वेदमिति॒ ब्रव॑त् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । पूषन् । विदुषा । नय । यः । अंजसा । अनुशासति ।  
+> यः । एव । इदं । इति । ब्रवत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् पोषक देव विदुषा जानता तेन जनेन सं नय अस्मान्
+> संगमय यो विद्वानंजसा ऋजुमार्गेणानुशासति अनुशास्ति नष्टद्रव्यप्राप्त्यपायमुपदिशति । यश्चैवैवमिदं नष्टं भवदीयं धनमिति ब्रवत् ब्रवीति । नष्टं
+> धनं दर्शयतीत्यर्थः ! तेन विदुषेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, nourishing god, bring us together with that knowing man who directly, by the straight way, instructs us in the means of regaining what is lost, and who says, "This is your lost wealth", that is, who shows the lost wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O Pūṣan, nourisher of the world
+- यः (*yaḥ*)—which wise man
+- अंजसा (*aṃjasā*)—walking in the excellent straight path
+- अनुशासति (*anuśāsati*)—who teaches us too that same straight path
+
+### Printed p. 346
+
+- यः (*yaḥ*)—which wise man
+- एव (*eva*)—in this very manner
+- इदं (*idaṃ*)—this deed is to be performed
+- इति (*iti*)—thus
+- ब्रवत् (*bravat*)—says
+- विदुषा (*viduṣā*)—with such a man of discerning knowledge
+- सं नय (*saṃ naya*)—unite us
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, nourisher of the world, unite us with that wise man who, walking in the excellent straight path, teaches us too that same straight path, and who, saying "In this very manner such a deed is to be performed", makes known the discernment of what is to be done and what is not to be done.
+
+##### English translation
+Bring us, Pushan, into communication with a wise man who may
+rightly direct us, who may even say, this is so.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समु॑ पू॒ष्णा ग॑मेमहि॒ यो गृ॒हा अ॑भि॒शास॑ति ।  
+> इ॒म ए॒वेति॑ च॒ ब्रव॑त् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । ऊं इति । पूष्णा । गमेमहि । यः । गृहान् । अभिशासति ।  
+> इमे । एव । इति । च । ब्रवत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूष्णानुगृहीता वयं सं गमेमहि तेन जनेन संगच्छेमहि यो जनो
+> गृहान् येषु गृहेष्वस्मदीया नष्टाः पशवस्तिष्ठंति तान् गृहानभिशासति अभिशास्ति
+> अभिमुख्येन बोधयति । यश्चेमे त्वदीया नष्टाः पशव एवैवं तिष्ठंतीति च
+> ब्रवत् ब्रूयात् ॥
+
+##### Gist of the bhāṣya
+
+Favoured by Pūṣan, may we meet that man who points out the houses in which our lost cattle stand, shows them to us face to face, and who says, "These cattle of yours stand just so."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which discerning man
+- गृहान् (*gṛhān*)—the houses in which our cattle are hidden
+- अभिशासति (*abhiśāsati*)—shows to us
+- यः (*yaḥ*)—who
+- इमे (*ime*)—these your cattle
+- एव (*eva*)—stand thus, having been carried off
+- इति (*iti*)—thus
+- ब्रवत् (*bravat*)—says; with such a man of discerning knowledge
+
+### Printed p. 347
+
+- पूष्णा (*pūṣṇā*)—we who are favoured by the god Pūṣan
+- संगमेमहि (*saṃgamemahi*)—may we come together
+
+##### भावार्थ (Bhāvārtha)
+
+May we, favoured by the god Pūṣan, come together with that man of discerning knowledge who shows us the houses in which our cattle are hidden, and who tells us, "Your cattle stand thus, having been carried off."
+
+##### English translation
+May we, by the favour of Pushan, come in communication with (the
+man) who may direct us to the houses (where our goods are sacreted), and
+may say, verily these are they.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒ष्णश्च॒क्रं न रि॑ष्यति॒ न कोशोऽव॑ पद्यते ।  
+> नो अ॑स्य व्यथते प॒विः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूष्णः । चक्रं । न । रिष्यति । न । कोशः । अव । पद्यते ।  
+> नो इति । अस्य । व्यथते । पविः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूष्णः । पोषकस्य देवस्य चक्रमायुधं । न रिष्यति । न विनश्यति । अस्य चक्रस्य
+> कोशश्च नाव पद्यते । न हीयते । अस्य पविर्धारा च नो नैव व्यथते । कुंठीभवति ।
+> तेन चक्रेण चोरान्हत्वास्मदीयं धनं प्रकाशयेति भावः ॥
+
+##### Gist of the bhāṣya
+
+The discus, the weapon, of Pūṣan the nourisher is not destroyed; and the sheath of this discus does not fall away, is not lost; and the edge, the blade, of this weapon does not suffer, that is, does not become blunt. The sense is: with that discus kill the thieves and bring our wealth to light.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूष्णः (*pūṣṇaḥ*)—of the god Pūṣan, nourisher of the world
+- चक्रं (*cakraṃ*)—the weapon called the discus
+- न रिष्यति (*na riṣyati*)—is not destroyed
+- कोशः (*kośaḥ*)—the sheath of that weapon also
+- न अव पद्यते (*na ava padyate*)—does not come to destruction
+- अस्य (*asya*)—of this god Pūṣan
+- पविः (*paviḥ*)—the edge of the weapon
+- नो व्यथते (*no vyathate*)—does not become blunt
+
+### Printed p. 348
+
+##### भावार्थ (Bhāvārtha)
+
+The weapon called the discus, of the god Pūṣan, nourisher of the world, is not destroyed. The sheath in which that weapon is placed does not come to destruction either. The edge of this god's weapon does not become blunt.
+
+##### English translation
+The discus of Pushan does not destory ; its sheath is not discarded,
+its edge harms not us.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॑स्मै ह॒विषावि॑ध॒न्न तं पू॒षापि॑ मृष्यते ।  
+> प्र॒थ॒मो विं॑दते॒ वसु॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अस्मै । हविषा । अविधत् । न । तं । पूषा । अपि । मृष्यते ।  
+> प्रथमः । विंदते । वसु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानोऽस्मै पूष्टे हविषा चरुपुरोडाशादिनाविधत् परिचरति तं
+> यजमानं पूषा नापि मृष्यते । अपिशब्द ईषदर्थे । ईषदपि न हिनस्ति । स च प्रथमो
+> मुख्यः सन् वसु धनं विंदते । लभते ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who serves this Pūṣan with an oblation, cooked grain, cakes and the like, him Pūṣan does not injure even in the least (the word अपि (*api*) has the sense of "slightly"). And that man, being first, the chief, wins wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which sacrificer
+- अस्मै (*asmai*)—to this god Pūṣan
+- हविषा (*haviṣā*)—by offering oblations
+- अविधत् (*avidhat*)—offers worship
+- तं (*taṃ*)—that sacrificer
+- पूषा (*pūṣā*)—the god Pūṣan
+- न अपि मृष्यते (*na api mṛṣyate*)—does not destroy
+- सः (*saḥ*)—that same sacrificer
+- प्रथमः (*prathamaḥ*)—as most eminent of all
+- वसु (*vasu*)—wealth
+- विंदते (*viṃdate*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who offers worship to this god Pūṣan by offering oblations, that sacrificer the god Pūṣan does not destroy. That same sacrificer obtains wealth as the most eminent of all.
+
+### Printed p. 349
+
+##### English translation
+Pushan inflicts not the least injury on the man who propitiates him
+by oblations : he is the the first who acquires wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒षा गा अन्वे॑तु नः पू॒षा र॑क्ष॒त्वर्व॑तः ।  
+> पू॒षां वाजं॑ सनोतु नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषा । गाः । अनु । एतु । नः । पूषा । रक्षतु । अर्वतः ।  
+> पूषां । वाजं । सनोतु । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूषा पोषको देवो नोऽस्मदीया गा अन्वेतु । रक्षणार्थमनुगच्छतु ।
+> स च पूषार्वतोऽश्वान्रक्षतु चोरेभ्यः । तथा वाजमन्नं च नोऽस्मभ्यं पूषा
+> सनोतु ! प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+May Pūṣan, the nourishing god, follow our cattle, going after them for their protection. May that same Pūṣan protect our horses from thieves. And may Pūṣan bestow food on us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषा (*pūṣā*)—the god Pūṣan, nourisher of the world
+- नः (*naḥ*)—our
+- गाः (*gāḥ*)—cows
+- अन्वेतु (*anvetu*)—may he follow for protection
+- पूषा (*pūṣā*)—that same god Pūṣan
+- अर्वतः (*arvataḥ*)—our horses
+- रक्षिसु (*rakṣisu*)—may he protect
+- पूषा (*pūṣā*)—the god Pūṣan
+- नः (*naḥ*)—to us
+- वाजं (*vājaṃ*)—food
+- सनोतु (*sanotu*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Pūṣan, nourisher of the world, follow our cows for their protection. May that same god Pūṣan protect our horses. May the god Pūṣan provide us with food.
+
+##### English translation
+May Pushan come to (guard) our cattle, may Pushan protect our houses : may Pushan give us food.**NOTE**
+
+### Printed p. 350
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पूष॒न्ननु॒ प्र गा इ॑हि॒ यज॑मानस्य सुन्व॒तः ।  
+> अ॒स्माकं॑ स्तुव॒तामु॒त ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषन् । अनु । प्र । गाः । इहि । यजमानस्य । सुन्वतः ।  
+> अस्माकं । स्तुवतां । उत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् सुन्वतः सोमाभिषवं कुर्वतो यजमानस्य गाः पशूननु
+> प्रेहि । रक्षणार्थमनुगच्छ । उतापि च स्तुवतां त्वद्विषयं स्तोत्रं कुर्वतामस्माकं
+> गाश्चानुगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, go after the cattle of the sacrificer who is pressing the Soma, for their protection; and go also after the cattle of us who sing your praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O god Pūṣan
+- सुन्वतः (*sunvataḥ*)—who presses the Soma juice (to offer to you)
+- यजमानस्य (*yajamānasya*)—of the sacrificer
+- गाः (*gāḥ*)—cows
+- अनु प्र इहि (*anu pra ihi*)—follow for their protection
+- उत (*uta*)—and
+- स्तुवतां (*stuvatāṃ*)—who praise you
+- आस्माकं (*āsmākaṃ*)—follow also for the protection of us
+
+##### भावार्थ (Bhāvārtha)
+
+O god Pūṣan, follow for their protection the cows of the sacrificer who presses the Soma juice to offer to you, and follow also for the protection of us who praise you.
+
+##### English translation
+Come, Pushan, to (guard) the cattle of of the institutor of the rite
+presenting libations, and also of us repeating (your) praises
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> माकि॑र्नेश॒न्माकीं॑ रिष॒न्माकीं॒ सं शा॑रि॒ केव॑टे ।  
+> अथारि॑ष्वाभि॒रा ग॑हि ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 343. Mandala 6 sukta 53 rks 3 (end) to 10 (start), Pushan
+**Progress note:** Done through printed p. 350. Mandala 6 sukta 53 rk 10 end; sukta 54 rks 1-7 (start), Pushan
