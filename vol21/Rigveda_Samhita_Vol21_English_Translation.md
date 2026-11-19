@@ -30793,6 +30793,276 @@ O Agni, with what svadhā, that is, what oblation, do you pervade or cover our e
 
 O Agni, with which oblation do you cover our excellent praise? Which oblation do you, who are to be praised, wish to obtain? O excellent giver, when shall we become the lords of wealth that is not to be struck down by enemies and is pure, and its enjoyers?
 
+### Printed p. 727
+
+##### English translation
+By what oblation, Agni, do you clothe our praise ? what offering do you, when glorified, accept ? when, giver of good, may we be the possessors and enjoyers of perfect and unmolested riches ?
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रप्रा॒यम॒ग्निर्भ॑र॒तस्य॑ शृण्वे॒ वि यत्सूर्यो॒ न रोच॑ते  ॒
+> बृ॒हद्भाः ।  
+> अ॒भि यः पू॒रुं पृत॑नासु त॒स्थौ द्यु॑ता॒नो दैवो॒ अति॑थिः  
+> शुशोच ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रप्र । आयं । अग्निः । भरतस्य । शृण्वे । वि । यत् । सूर्यः । न । रोचते ।  
+> बृहत् । भाः ।  
+> अभि । यः । पूरुं । पृतनासु । तस्थौ । द्युतानः । दैव्यः । अतिथिः । शुशोचॆ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं प्रसिद्धोऽग्निर्भरतस्य यजमानस्य मम प्रप्रात्यंतं शृण्वे । प्रथितो
+> भवति । कदेत्यत्राह । यद्यदा सूर्यो न सूर्य इव बृहद्भा बृहद्भासमानो वि
+> रोचते प्रकाशते । किं च योऽग्निः पृतनासु संग्रामेषु पूरुं पूरुनामकमसुरमभि तस्थौ अभिबभूव सोऽयं द्युतानो दीप्यमानो दैव्योऽतिथिर्देवानामतिथिवत्तूज्यः सन् शुशोच । जज्वाल ॥
+
+##### Gist of the bhāṣya
+
+This well-known Agni becomes celebrated exceedingly for Bharata, the sacrificer, that is, for me. When? He answers: when like the sun, shining greatly, he shines forth, that is, becomes bright. Further, Agni, who in the battles overcame the asura named Pūru, he, blazing, divine, honoured like a guest of the gods, has blazed forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this well-known
+- अग्निः (*agniḥ*)—Agni
+- यत् (*yat*)—when
+- सूर्यो न (*sūryo na*)—like the sun
+- बृहद्भाः (*bṛhadbhāḥ*)—exceedingly radiant
+- वि रोचते (*vi rocate*)—he shines (then)
+- भरतस्य (*bharatasya*)—to me, the sacrificer
+- प्रप्र (*prapra*)—exceedingly
+- तृण्वे (*tṛṇve*)—is known as worthy of worship **NOTE**
+- यः (*yaḥ*)—which Agni
+- पृतनासु (*pṛtanāsu*)—in the battles
+- पूरुं (*pūruṃ*)—the asura named Pūru
+- अभि तस्थौ (*abhi tasthau*)—defeated (that Agni)
+- द्युतानः (*dyutānaḥ*)—shining
+- अतिथिः (*atithiḥ*)—worthy of worship
+- शुशोच (*śuśoca*)—has blazed
+
+### Printed p. 728
+
+##### भावार्थ (Bhāvārtha)
+
+When the well-known Agni shines exceedingly radiant like the sun, then he is known to me, the sacrificer, as exceedingly worthy of worship. The Agni who in the battles defeated the asura named Pūru has blazed forth, shining and worthy of worship.
+
+##### English translation
+This Agni is greatly celebrated by the institutor of the rite when he shines resplendent as the sun : he who overcame Puru in battle, and shone glorious as the guest of the gods.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॒न्नित्वे आ॒हव॑नानि॒ भूरि॒ भुवो॒ विश्वे॑भिः सु॒मना॒ अनी॑कैः ।  
+> स्तु॒तश्चि॑दग्ने शृण्वषे गृणा॒नः स्व॒यं व॑र्धस्व त॒न्वं॑ सुजात ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असन् । इत् । त्वे इति । आहवनानि । भूरि । भुवः । विश्वेभिः । सुमनाः । अनीकैः ।  
+> स्तुतः । चित् । अग्ने । शृण्वषे । गृणानः । स्वयं । वर्धस्व । तन्नं । सुजात ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वे त्वय्याहवनानि हवींष्याहुतॆयो वा भूरि बहून्यसन्नित् ।
+> भवंत्येव । त्वं च विश्वेभिर्विश्वैरनीकैस्तेजोभिस्तद्विभूतिभिरग्निभिर्वा सह सुमना
+> भुवः । भव । हे अग्ने स्तुतः स्तोतुः । स्तौतीति स्तुत् । स्तोत्रं शृण्वषे । शृणु । हे
+> सुजात कल्याणप्रादुर्भावाग्ने गृणानः स्तूयमानस्त्वं स्वयं स्वयमेव तन्नं
+> स्वां तनुं मम तनुं वा वर्धस्व । वर्धयस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in you the many oblations, or the many offerings, are present indeed. And you, together with all your splendours, or his powers, or fires, be well-disposed. O Agni, praised, hear the hymn of the praiser **NOTE**. O well-born Agni, of auspicious manifestation, being praised, do you yourself make your own body grow, or my body.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वे (*tve*)—in you
+- आहवनानि (*āhavanāni*)—all the oblations
+- भूरि (*bhūri*)—in great abundance
+- आसन्नित् (*āsannit*)—are present, are they not
+- त्वं (*tvaṃ*)—you yourself
+- विश्वेभिः (*viśvebhiḥ*)—all
+- अनीकैः (*anīkaiḥ*)—with splendours
+- सुमनाः (*sumanāḥ*)—having a gracious mind
+- भुवः (*bhuvaḥ*)—be
+- अग्ने (*agne*)—O Agni
+- स्तुतः चित् (*stutaḥ cit*)—the praise of the praiser itself
+- शृण्वषे (*śṛṇvaṣe*)—hear
+- सुजात (*sujāta*)—O Agni, excellently born
+
+### Printed p. 729
+
+- गृणानः (*gṛṇānaḥ*)—you who are praised by us
+- स्वयं (*svayaṃ*)—yourself, without the help of others
+- तन्नं (*tannaṃ*)—your body
+- वर्धस्व (*vardhasva*)—make grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, all the oblations are present in you alone. Be you yourself, with all your splendours, of a gracious mind. Hear the praise of me, the praiser. O Agni, excellently born, you who are praised by us, make your body grow, without the help of others, by your own power.
+
+##### English translation
+In you, Agni, are many offerings : do you with all your flames be propitious : favourably hear (the praises) of the worshipper : and do you of auspicious manifestation being glorified, spontaneously magnify (your) person.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं वचः॑ शत॒साः संस॑हस्र॒मुद॒ग्नये॑ जनिषीष्ट द्वि॒बर्हाः॑ ।  
+> शं यत्सो॒तृभ्य॑ आ॒पये॒ भवा॑ति द्यु॒मद॑मीव॒चात॑नं  ॒
+> रक्षोहा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । वचः । शतसाः । संसहस्रं । उत् । अग्नये । जनिषीष्ट । द्विबर्हाः ।  
+> शं । यत् । स्तोतृभ्यः । अपये । भवाति । द्युमत् । अविर्वचातनं । रक्षःहा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शतसा गवां शतस्य संभक्ता संसहस्रं गवां सहस्रेण च संयुतो द्विबर्हा
+> द्वाभ्यां विद्याकर्मभ्यां बृहन् वसिष्ठो द्वयोः स्थानयोर्द्युलोकयोर्महान्वा ।
+> तथा च यास्कः । द्विबर्हा द्वयोः स्थानयोः परिवृढः । नि. ६-१७ । इति । इदं वच इदं
+> स्तोत्रमग्नय उज्जनिषीष्ट । उदजीजनत् । किं तदित्यत अह । यद्वचो द्युमत्
+> दीप्तिमत् । यशस्सरमित्यर्थः । अमीवजातनं रोगाणां निवारकं रक्षोहा रक्षसां
+> हंतृ च स्तोतृभ्य अपये तप्पंधवे पुत्रादिकायापि शं सुखदं भवाति भवेत् ॥
+
+##### Gist of the bhāṣya
+
+Śatasā is the sharer of a hundred cows; saṃsahasra is the one joined with a thousand cows; dvibarhā is Vasiṣṭha, great through the two, knowledge and rite, or great in the two places, the two worlds of heaven. And so Yāska says: द्विबर्हा द्वयोः स्थानयोः परिवृढः (*dvibarhā dvayoḥ sthānayoḥ parivṛḍhaḥ*) (Ni. 6-17). He has produced this speech, this hymn, for Agni. What is it? The speech that is radiant, that is, fame-conferring **NOTE**, that averts diseases, that destroys the rākṣasas, may be happiness-giving for the praisers and for their kinsman, for their sons and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—which praise
+
+### Printed p. 730
+
+- द्युमत् (*dyumat*)—is radiant
+- अमीवचातनं (*amīvacātanaṃ*)—removes disease
+- रक्षोहा (*rakṣohā*)—destroys the rākṣasas
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—for the praisers
+- आपये (*āpaye*)—for their kinsmen
+- शं (*śaṃ*)—gives happiness
+- भवाति (*bhavāti*)—such as it is
+- इदं वचः (*idaṃ vacaḥ*)—this speech of praise
+- शतसाः (*śatasāḥ*)—the one joined with a hundred cows
+- संसहस्रं (*saṃsahasraṃ*)—the one joined with a thousand cows
+- द्विबर्हाः (*dvibarhāḥ*)—renowned in both heaven and earth, or the support of both knowledge and rite, Vasiṣṭha
+- अग्नये (*agnaye*)—addressing Agni
+- उदजनिष्ट (*udajaniṣṭa*)—has made
+
+##### भावार्थ (Bhāvārtha)
+
+The praise that is radiant, that removes disease, that destroys the rākṣasas, and that gives happiness to the praisers and their kinsmen: such a speech of praise Vasiṣṭha, the enjoyer of a hundred cows, the one joined with a thousand cows, the support of both knowledge and rite, has made addressing Agni.
+
+##### English translation
+Vasishtha, illustrious in both heaven and earth, rich with a hundred and a thousand (head of cattle), has addressed this hymn to Agni, that such fame-conferring, disease-removing, fiend-destroying (laudation) may be (the means of) happiness to the eulogist and their kindred.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू त्वाम॑ग्न ईमहे॒ वसि॑ष्ठा ईशा॒नं सू॑नो सहसो॒  ॑
+> वसूनां ।  
+> इषं॑ स्तो॒तृभ्यो॑ म॒घव॑द्भ्य आनड्यू॒यं पा॑त स्व॒स्तिभि॒ सदा॑  
+> नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । श्वां । अग्ने । ईमहे । वसिष्ठाः । ईशानं । सूनो इति । सहसः । वसूनां ।  
+> इषं । स्तोतृभ्यः । मघवत्स्भ्यः । अनट् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+### Printed p. 731
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहसः सूनो बलस्य पुत्राग्ने वसिष्ठा वयं वसूनामीशानं त्वामस्मदीयेभ्यः स्तोतृभ्यो मघवद्भ्यो हविष्मद्भ्यश्चेषमन्नं नु क्षिप्रमद्य वानट् ।
+> प्रापयेः ॥ नशेव्याप्तिकर्मणोऽंतर्णीतण्यर्थाल्लुजि छंदस्यपि दृश्यत इत्यादागमः ॥ यूयं त्वत्परिवाराश्च सर्वे यूयं नोऽस्मान् सदा स्वस्तिभिः पातेत्येवमीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength, we Vasiṣṭhas ask you, the lord of treasures, that for our praisers, who are rich in oblations, you quickly now bring food, that is, cause it to reach them. And you, together with your retinue, all of you, protect us always with blessings: thus we ask, that is, we beg.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to the praisers
+- मघवद्भ्यः (*maghavadbhyaḥ*)—possessed of food in the form of oblations, to our company of people
+- इषं (*iṣaṃ*)—food
+- नु (*nu*)—quickly
+- आनट् (*ānaṭ*)—provide, thus
+- यूयं (*yūyaṃ*)—you and the gods of your retinue
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect, thus
+- वसिष्ठाः (*vasiṣṭhāḥ*)—we, born in the line of Vasiṣṭha
+- वसूनां (*vasūnāṃ*)—of treasures
+- ईशानं (*īśānaṃ*)—the lord
+- त्वां (*tvāṃ*)—you
+- ईमहे (*īmahe*)—beg
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, provide quickly food for our company of people, who are praisers and possessed of food in the form of oblations; and you and the gods of your retinue protect us always with blessings: thus we, born in the line of Vasiṣṭha, beg you, the lord of treasures.
+
+##### English translation
+We Vasishthas implore you, Agni, son of strength, the lord of treasures, that you will quickly bestow food upon your adorers, who are affluent (in oblations), and do you ever cherish us with blessings.
+
+## Sūkta 9 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अबोधि जार इति षडृचं नवमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभवाग्नेयं ।
+> अबोधि षडित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्दर्शसूक्तमध्य उक्तो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अबोधि जार इति (*abodhi jāra iti*), of six ṛks, is the ninth sūkta; it is the vision of Vasiṣṭha, in the Triṣṭubh metre, addressed to Agni. The Anukramaṇikā says: अबोधि षडित्यनुक्रांतं (*abodhi ṣaḍityanukrāṃtaṃ*). The application, for the Prātaranuvāka and the Āśvina-śastra, has been stated in the middle of the ten sūktas **NOTE**.
+
+### Printed p. 732
+
+##### Anuvāda
+
+This sūkta, अबोधि जारः (*abodhi jāraḥ*), is the ninth sūkta in the first anuvāka. In it there are six ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; Triṣṭup is the metre. In the Anukramaṇikā it is said: अबोधि षट् (*abodhi ṣaṭ*). The application of this sūkta for the Prātaranuvāka and the Āśvina-śastra mantras has been stated before.
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 9
+- Aṣṭaka 5; Adhyāya 2; Varga 12
+- Number of ṛks in the sūkta: 6
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अबो॑धि जा॒र उ॒षसा॑मु॒पस्था॒द्दोता॑ मं॒द्रः क॒वित॑मः  ॒
+> पावकः ।  
+> दधा॑ति के॒तुमु॒भय॑स्य जं॒तोर्ह॒व्या दे॒वेषु॒ द्रवि॑णं  ॒॑
+> सुकृत्सु ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अबोधि । जारः । उषसां । उपस्थात् । होता । मंद्रः । कवितमः । पावकः ।  
+> दधाति । केतुं । उभयस्य । जंतोः । हव्या । देवेषु । द्रविणं । सुकृत्सु ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जारः सर्वेषां प्राणिनां जरयिता होता देवानामाह्वाता च मंद्रो
+> मदयिता स्तुत्यो वा कवितमः प्राज्ञतमः पावकः शोधकोऽग्निरुषसामुपस्थात्
+> मध्येऽबोधि । अबुध्यत । किंचोभयस्य द्विपदश्च चतुष्पदश्च दैव्यस्य मानुषस्य वा
+> जंतोः प्राणिनः केतुं प्रज्ञानं दधाति । विदधाति । देवेषु च हव्या हव्यानि दधाति।
+> सुकृत्तु यजमानेषु च द्रविणं धनं दधाति ॥
+
+##### Gist of the bhāṣya
+
+Agni, the jāra, the one who causes all beings to age, the hotṛ and invoker of the gods, mandra, the gladdener or the praiseworthy, kavitama, the wisest, pāvaka, the purifier, has awakened in the midst of the dawns, from their lap. Further, he gives keen knowledge to the creature of both kinds, two-footed and four-footed, divine or human. And he places oblations among the gods, and wealth among the sacrificers who do good works.
+
 ---
 
-**Progress note:** Done through printed p. 726. Sūkta 7 Ṛk 6-7, Sūkta 8 Ṛk 1-3 (pp. 721-726)
+**Progress note:** Done through printed p. 732. Sūkta 8 Ṛk 3-7, Sūkta 9 Ṛk 1 (pp. 727-732)
