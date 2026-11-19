@@ -14121,6 +14121,287 @@ Come, universal gods, hear this my invocation : sit down upon this sacred grass.
 
 In the caru offering made to the All-gods at the Āgrayaṇa iṣṭi, this Ṛk, विश्वे देवास आ गत (*viśve devāsa ā gata*), is to be recited as the anuvākyā mantra, according to the Āśvalāyana-śrauta-sūtra—विश्वे (*viśve*)
 
+### Printed p. 324
+
+देवास आ गत ये के च ज्मा महिनो अहिमायाः (*devāsa ā gata ye ke ca jmā mahino ahimāyāḥ*)—this is explained by the sūtra so beginning (Ā. 2-9).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वो॑ देवा घृ॒तस्नु॑ना ह॒व्येन॑ प्रति॒भूष॑ति ।  
+> तं विश्व॒ उप॑ गच्छध ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वः । देवाः । घृतस्नुना । हव्येन । प्रतिभूषति ।  
+> तं । विश्वे । उप । गच्छथ ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा वो युष्मान्यो जनो धृतस्नुना धृतप्रक्षणेन हव्येन हविषा
+> प्रतिभूषति परिचरति तं जनं विश्वे सर्वॆ यूयमुप गच्छथ । उपगता भवथ ॥
+
+##### Gist of the bhāṣya
+
+O gods, whatever man serves and attends upon you with an oblation from which ghee drips (sprinkled with ghee), all of you, the All-gods, approach that man; be present with him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- वः (*vaḥ*)—all of you
+- यः (*yaḥ*)—the sacrificer who
+- धृतस्नुना (*dhṛtasnunā*)—together with flowing ghee
+- हव्येन (*havyena*)—with oblations
+- प्रतिभूषति (*pratibhūṣati*)—adorns
+- तं (*taṃ*)—that sacrificer
+- विश्वे (*viśve*)—all of you
+- उप गच्छथ (*upa gacchatha*)—approach and favour
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, the sacrificer who adorns and worships all of you with oblations together with flowing ghee, that sacrificer, all of you approach and favour.
+
+##### English translation
+Come, gods, to him who honours you with the butter-dripping oblation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ नः सू॒नवो॒ गिरः॑ शृ॒ण्वंत्व॒मृत॑स्य॒ ये ।  
+> सु॒मृ॒ळी॒का भ॑वंतु नः ॥ ९ ॥
+
+### Printed p. 325
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । नः । सूनवः । गिरः । शृण्वंतु । अमृतस्य । ये ।  
+> सुम्मळीकाः । भवंतु । नः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमृतस्य मरणरहितस्य प्रजापतेर्ये सूनवः पुत्राः ते देवा नोऽस्माकं
+> गिरः स्तुतीरुप शृण्वंतु । नोऽस्माकं सुमृळीकाः सुष्टु मृदयितारश्च
+> भवंतु ॥
+
+##### Gist of the bhāṣya
+
+Those who are the sons of the immortal, that is, death-free, Prajāpati, those gods, let them listen to our praises, and let them be gracious, thoroughly gladdening, to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) अमृतस्य (*amṛtasya*)—to Prajāpati, who is free from the nature of death
+- ये (*ye*)—you all who
+- सूनवः (*sūnavaḥ*)—are sons (all of you who are so)
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—praises
+- उप शृण्वंतु (*upa śṛṇvaṃtu*)—hear
+- नः (*naḥ*)—to us
+- सुमृळीकाः (*sumṛḷīkāḥ*)—as excellent givers of happiness
+- भवंतु (*bhavaṃtu*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, all of you who are sons of Prajāpati, who is free from the nature of death, hear our praises. Be excellent givers of happiness to us.
+
+##### English translation
+May the sons of the immortal hear our praises, and be to us the givers of felicity.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ दे॒वा ऋ॑ता॒वृध॑ ऋ॒तुभि॑र्हवन॒श्रुतः॑ ।  
+> जु॒षंतां॒ युज्यं॒ पयः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । ऋतवृधः । ऋतुभिः । हवनश्रुतः ।  
+> जुषंतां । युज्यं । पयः ॥ १० ॥
+
+### Printed p. 326
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतावृध ऋतस्य यज्ञस्य वर्धका ऋतुभिः कालविशेषैर्हवनश्रुतो हवनस्य
+> स्तोत्रस्य श्रोतारस्तस्मिंस्तस्मिन्यागकाले स्तूयमाना ईदृशा विश्वे सर्वॆ देवा
+> युज्यं योग्यं पय आमिक्षारूपं जुषंतां । सेवंतां । श्रूयते हि । तप्ते
+> पयसि दध्यानयति सा वैश्वदेव्यामिक्षेति ॥
+
+##### Gist of the bhāṣya
+
+The All-gods, augmenters of the ṛta, that is, of the sacrifice, who at the various special times (ṛtu) hear the invocation, that is, the praise, being praised at that and that time of sacrifice — let all of them, such as they are, enjoy and partake of the fitting milk, in the form of curd-milk (āmikṣā). Sāyaṇa adds that it is heard in the Śruti: तप्ते पयसि दध्यानयति सा वैश्वदेव्यामिक्षेति (*tapte payasi dadhyānayati sā vaiśvadevyāmikṣeti*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—who make the sacrifice grow
+- ऋतुभिः (*ṛtubhiḥ*)—at the various special times
+- हवनश्रुतः (*havanaśrutaḥ*)—who hear the praises of the sacrificers
+- विश्वे देवाः (*viśve devāḥ*)—all the All-gods
+- युज्यं (*yujyaṃ*)—fit for their enjoyment
+- पयः (*payaḥ*)—the milk in the form of the oblation
+- जुषंतां (*juṣaṃtāṃ*)—let them enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+May all the All-gods, who make the sacrifice grow and who at the various special times hear the praises of the sacrificer, enjoy the milk, in the form of the oblation, that is fit for their enjoyment.
+
+##### English translation
+Universal gods, augmenters of sacrifice, listening to praises (uttered) at due seasons, accept your appropriate milk-offering.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तो॒त्रमिंद्रो॑ म॒रुद्ध॑ण॒स्वष्ट॑मान्मि॒त्रो अ॑र्य॒मा ।  
+> इ॒मा ह॒व्या जु॑षंत नः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोत्रं । इंद्रः । मरुत्गणः । त्वष्ट्यमान् । मित्रः । अर्यमा ।  
+> इवा । हव्या । जुषंत । नः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुद्दणो मरुतो गणभूताः परिजनभूता यस्य तादृश इंद्रस्वष्टमान्
+> त्वष्टसहितो मित्रोऽर्यमा च नोऽस्माकं स्तोत्रमिमा हव्येमानि हवींषि च
+> जुषंत । सेवंतां ॥
+
+##### Gist of the bhāṣya
+
+Indra, whose troop (gaṇa), that is, retinue, is the Maruts, together with Tvaṣṭṛ, and Mitra and Aryamā — let them enjoy our hymn and these oblations; let them partake of them.
+
+### Printed p. 327
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुद्दणः (*maruddaṇaḥ*)—who is accompanied by the hosts of the Maruts
+- त्वष्टृमान् (*tvaṣṭṛmān*)—who is with Tvaṣṭṛ
+- इंद्रः (*iṃdraḥ*)—Indra
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryamā
+- नः (*naḥ*)—our
+- स्तोत्रं (*stotraṃ*)—hymn
+- इमा हव्या (*imā havyā*)—these oblations offered now
+- जुषंत (*juṣaṃta*)—let them enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who is accompanied by the hosts of the Maruts and is with Tvaṣṭṛ, and Mitra and Aryamā, enjoy our hymn and the oblations now offered.
+
+##### English translation
+Indra, with he company of the Maruts, Mitra, with Twashtri and Aryaman, accept our praise and these our oblations.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं नो॑ अग्ने अध्व॒रं होत॑र्वयुन॒शो य॑ज ।  
+> चि॒कि॒त्वान्दैव्यं॒ जनं॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । नः । अग्ने । अध्वरं । होतः । वयुनशः । यज ।  
+> बिकित्वान् । दैव्यं । जनं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे होतर्देवानामाह्वातरग्ने दैव्यं देवसंबंधिनं जनं संघं यजनीयं
+> चिकित्वान् जानंस्त्वं नोऽस्मदीयमिममध्वरं हिंसारहितं यज्ञं वयुनशो
+> ज्ञानक्रमेण यथानुपूर्वा देवा बुद्धिस्थाः तथा यज । यागं कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Hotṛ, Agni, summoner of the gods: knowing the divine host (daivya jana), the company that is to be worshipped, perform this our sacrifice, which is free from violence (adhvara), vayunaśaḥ, that is, in the order of knowledge, according to the sequence in which the gods stand in the mind; perform the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होतः (*hotaḥ*)—who call the gods to the sacrifice
+- अग्ने (*agne*)—O Agni
+- दैव्यं (*daivyaṃ*)—belonging to the company of the gods
+- जनं (*janaṃ*)—the divine people
+- चिकित्वान् (*cikitvān*)—you who know fully
+- नः (*naḥ*)—our
+- इमं अध्वरं (*imaṃ adhvaraṃ*)—in this sacrifice
+- वयुनशः (*vayunaśaḥ*)—according to the worthiness of the respective gods
+- यज (*yaja*)—perform the sacrifice
+
+### Printed p. 328
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who call the gods to the sacrifice, you who fully know the divine people belonging to the company of the gods, perform the sacrifice in this our sacrifice according to the worthiness of the respective gods.
+
+##### English translation
+Agni, invoker of the gods, cognizant (which of) the divine assembly (is to be honoured), offer this our sacrifice according to the proper order.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ देवाः शृणु॒तेमं हवं॑ मे॒ ये अं॒तरि॑क्षे॒ य उप॒ ॒ 
+> द्यवि ष्ठ ।  
+> ये अ॑ग्नि जि॒ह्वा उ॒त वा॒ यज॑त्रा आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । शृणुत । इमं । हवं । मे । ये । अंतरिक्षे । ये । उप । द्यवि । स्थ ।  
+> ये । अग्निजिह्वाः । उत । वा । यजत्राः । आसद्य । आस्मिन् । बर्हिषि । मादयध्वं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वदेवशस्त्रस्य विश्वे देवा इति याज्या । सूत्रितं च । अश्रुत्यै श्वेति शस्त्रा
+> जपेद्विश्वे देवाः शृणुतेमं हवं म इति याज्या । आ. ५-१८ । इति ॥ वैश्वदेवे
+> पशावेषैव याज्या । सूत्रितं च । विश्वे देवाः शृणुतेमं हवं मे ये के च ज्मा
+> महिनो अहिमायाः । आ. ३-७ । इति ॥
+> हे विश्वे देवा मे मदीयमिमं हवमाह्वानं शृणुत । ये यूयमंतरिक्षे स्थ अंतरिक्षलोके वर्तमाना भवथ । ये चोप तत्समीपस्थे भूलोके भवथ ।
+> ये च द्यवि द्युलोके स्थ । ये चाग्निजिह्वाः । अग्निर्जिह्वास्थानीयो येषां ।
+> यद्वा । अग्नेर्जिह्वा । तया पोष्यमाणत्वादग्निजिह्वा इत्युच्यंते । उत वापि वा
+
+##### Gist of the bhāṣya
+
+This Ṛk, विश्वे देवा (*viśve devā*), is the yājyā of the Vaiśvadeva śastra, and the sūtra says: अश्रुत्यै श्वेति शस्त्रा जपेद्विश्वे देवाः शृणुतेमं हवं म इति याज्या (*aśrutyai śveti śastrā japedviśve devāḥ śṛṇutemaṃ havaṃ ma iti yājyā*) (Ā. 5-18). At the Vaiśvadeva animal offering also this same Ṛk is the yājyā, and the sūtra says: विश्वे देवाः शृणुतेमं हवं मे ये के च ज्मा महिनो अहिमायाः (*viśve devāḥ śṛṇutemaṃ havaṃ me ye ke ca jmā mahino ahimāyāḥ*) (Ā. 3-7). O All-gods, hear this my invocation, you who are in the atmosphere, you who are in the nearby earth-world, and you who are in heaven; you who are agnijihvāḥ, those whose tongue (the place of the tongue) is Agni; or else the Agnijihvas are so called because they are nourished by the tongue of Agni; and those who are worthy of worship (yajatrāḥ): all of you, sitting down on this spread barhis, rejoice, satisfy yourselves with Soma.
+
+### Printed p. 329
+
+> ये यजत्रा यजनीयाः ते सर्वे यूयमास्तीर्णेऽस्मिन्पर्हिष्यासद्योपविश्य
+> मादयध्वं । सोमेनात्मानं तर्पयथ ॥
+
+##### Gist of the bhāṣya
+
+All of you, those worthy of worship, seat yourselves upon this spread barhis and rejoice; satisfy yourselves with Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे देवाः (*viśve devāḥ*)—O All-gods
+- ये (*ye*)—you who
+- अंतरिक्षॆ स्थ (*aṃtarikṣè stha*)—are in the atmosphere
+- ये (*ye*)—you who
+- उप (*upa*)—are in the nearby earth-world (and also)
+- द्यवि (*dyavi*)—are in the heaven-world
+- ये (*ye*)—you who
+- अग्निजिह्वाः (*agnijihvāḥ*)—have Agni himself as the tongue for your Soma-drinking, all such of you
+- मे (*me*)—my
+- इमं हवं (*imaṃ havaṃ*)—this invocation
+- शृणुत (*śṛṇuta*)—hear
+- उत वा (*uta vā*)—and moreover
+- यजत्राः (*yajatrāḥ*)—all of you who are worthy of sacrifice
+- अस्मिन् बर्हिषि (*asmin barhiṣi*)—on this spread darbha seat
+- आसद्य (*āsadya*)—seated
+- मादयध्वं (*mādayadhvaṃ*)—obtain the satisfaction that consists in drinking Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O All-gods, those of you who are in the atmosphere, who are in the nearby region, the earth, who are in the heaven-world, you who have Agni himself as the tongue for your Soma-drinking, all such of you, hear this my invocation. Moreover, all of you who are worthy of sacrifice, seated on this spread darbha seat, obtain the satisfaction that consists in drinking Soma.
+
+##### English translation
+Universal gods, hear this my invocation, whether you be in the firmament or in the heaven : you who (receive oblations) by the tongue of Agni, or are to be (otherwise) worshipped : seated on this sacred grass, be exhilarated (by the Soma).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Vaiśvadeva śastra mantras, this Ṛk, विश्वे देवाः (*viśve devāḥ*), is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana-śrauta-sūtra, आश्रुत्यै त्वेति शस्त्रा जपेद्विश्वे देवाः शृणुतेमं हवं म इति याज्या (*āśrutyai tveti śastrā japedviśve devāḥ śṛṇutemaṃ havaṃ ma iti yājyā*) (Ā. 5-18). And in the animal offering made to the All-gods, this same Ṛk is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana-śrauta-sūtra, विश्वे देवाः शृणुतेमं हवं मे ये के च ज्मा महिनो अहिमायाः (*viśve devāḥ śṛṇutemaṃ havaṃ me ye ke ca jmā mahino ahimāyāḥ*) (Ā. 3-7).
+
 ---
 
-**Progress note:** Done through printed p. 323. Mandala 6 sukta 52 Rk 2-7 (continued)
+**Progress note:** Done through printed p. 329. Mandala 6 sukta 52 Rk 7 end, Rk 8-13
