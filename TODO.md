@@ -2,6 +2,8 @@
 
 *One list at the root, so that nothing parked is forgotten. Each point says what is done for now and what remains. Add to it; do not let it grow stale: strike a point when it is settled and say where.*
 
+**Publication of all volumes has its own list: `PUBLICATION_TODO.md`.**
+
 ## Text
 
 1. ~~Verse differences between the reference and the Kannada edition~~ **Settled Nov 13 2026 (user):** the reference is the correct source. The user checked six differing places of Vol 17 against the printed book and all six agreed with the reference. Every difference of the supplied verse is taken as a misreading of the machine text; the reference is printed without a footnote. A footnote appears only where the editor records that the printed book really differs (`volN/data/verse_decisions.tsv`). Record of all 393 places of Vol 17: `vol17/review/verse_misreadings_settled.tsv`. **The Kannada book's verse is corrected from the reference too** (user, Nov 13 2026): only the differing words are replaced, written in the edition's spelling habit; Vol 17: 374 words in 257 verses, every one listed in `vol17/review/kannada_verse_corrections.tsv`. *Left as supplied:* 17 places where the correction would move words across a line of the verse, and the places where the supplied verse lacks a word.

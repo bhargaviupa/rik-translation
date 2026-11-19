@@ -25,5 +25,11 @@ From the 1949–52 Kannada edition of the Ṛgveda-saṃhitā (Sāyaṇa's bhā�
 ## Where things are
 `tools/rv/` pipeline (`batch.py`, `html_to_kn.py`, `html_pages.py`, `convert.py`, `check_inline.py`, `BRIEF.md`, `RUNBOOK.md`) · `publish/volbook.py` + `publish/tools/` print build, transliteration, accents, front matter · `refs/mandala/` accented reference · `docs/HANDBOOK.md` everything else (§4 inputs, §5 new volume, §7 formats, §8 publication, §11 finishing checklist, §14 session hygiene, §15 keep improving) · `docs/LESSONS.md`, `docs/REPO_REVIEW.md`.
 
+## References, uniform in all volumes
+One list decides the names of the works cited: `rv/references.tsv` (kept by the references review; `docs/REFERENCES.md` is printed from it). It is carried out by the agent **`reference-corrector`** (`.claude/agents/reference-corrector.md`), which runs `python3 tools/rv/refs_apply.py [N…] [--write]`: names before reference numbers in the English, Devanagari and Kannada text, numbers never touched (the script proves it), preview first, every change a row of `volN/review/refs_applied.tsv`. Reference numbers marked `[?]` are corrected only from the user's numerals file (`volN/numerals/`, `publish/tools/ref_check/NUMERAL_FILE_LESSONS.md`); `refs_apply.py --questions` lists what is open. No session corrects a reference by hand.
+
+## Publication list
+`PUBLICATION_TODO.md` (root) is the user's one list for publishing all volumes: any session that works on a volume ticks what it finished (with the date), adds what it found, and updates the counts and "Last updated".
+
 ## Session hygiene
 Cloud sessions are ephemeral: commit **and push** anything worth keeping. One long job at a time. `pip install indic-transliteration rapidfuzz openpyxl` at session start; fonts/WeasyPrint only for PDF builds (§8). Quote sizes and counts only from finished commands.

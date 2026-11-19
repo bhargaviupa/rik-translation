@@ -57,7 +57,7 @@ def find_blocks(L):
     """yield (header_index, [line indexes of '> ' Samhita lines], header_text)"""
     i=0
     while i<len(L):
-        if '॥ संहितापाठः ॥' in L[i]:
+        if '॥ संहितापाठः ॥' in L[i] or ('॥ Saṃhitā-pāṭhaḥ ॥' in L[i] and L[i].startswith('**')):   # Vol 2 layout: Roman label
             j=i+1
             while j<len(L) and (not L[j].strip() or L[j].startswith('#') or L[j].strip()=='---' or (L[j].startswith('*') and not L[j].startswith('> '))): j+=1
             k=j

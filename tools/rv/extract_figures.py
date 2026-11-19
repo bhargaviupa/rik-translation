@@ -12,6 +12,17 @@ root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')); out
 L = open(path, encoding='utf8').read().split('\n'); n = 0; size = 0
 for i, l in enumerate(L):
     m = re.match(r'!\[[^\]]*\]\(data:image/(\w+);base64,([A-Za-z0-9+/=\s]+)\)\s*$', l)
+    if not m and 'src="data:image/' in l:                       # <img src="data:..."> anywhere in a line (pandoc output, or HTML saved as .md: Vols 3, 5)
+        k = [0]
+        def rep(h):
+            global n, size
+            ext = {'jpeg': 'jpg'}.get(h.group(1), h.group(1)); k[0] += 1; name = f'fig_line{i + 1:05d}' + ('' if k[0] == 1 else f'_{k[0]}') + f'.{ext}'
+            data = base64.b64decode(h.group(2)); size += len(data); n += 1
+            if write: os.makedirs(out, exist_ok=True); open(os.path.join(out, name), 'wb').write(data)
+            return f'src="vol{vol}/html/figures/{name}"'
+        new = re.sub(r'src="data:image/(\w+);base64,([A-Za-z0-9+/=\s]+)"', rep, l)
+        if write: L[i] = new
+        continue
     if not m: continue
     ext = {'jpeg': 'jpg'}.get(m.group(1), m.group(1)); name = f'fig_line{i + 1:05d}.{ext}'; data = base64.b64decode(m.group(2)); size += len(data); n += 1
     if write:

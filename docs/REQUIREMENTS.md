@@ -107,6 +107,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 2. **One list for all volumes** gives every work cited: the Kannada form in the print, the English form we use, the full title. It starts from the bibliography of Vol 1 (PDF p. 39), which is to be checked for completeness.
 3. The same list records the **known mistakes**: misprints of the original, misreadings of the machine text (for example the letter read "si" is "ni" = Nirukta), and mistakes of the translation.
 4. Every volume uses exactly the abbreviations of that list.
+5. **A Ṛk quoted from elsewhere in the Saṃhitā is glossed with our own edition's translation of that Ṛk** (user, Nov 17 2026): the English that stands under the verse in the volume where the edition comments on it, taken by script from one table Maṇḍala–Sūkta–Ṛk → English; never a gloss composed on the spot and never another translator's. Where that volume is not made yet, the gloss is a **placeholder**, filled by script once the Ṛk's translation exists. Quotations from other works are glossed by the translator. **NEW**
 
 ### B4. Nothing of ours in the text
 1. **No text about the making of the file:** no status lines at page breaks, no "the Sāyaṇa-bhāṣya from p. 235 continues here", no remarks on how the print looks.
@@ -179,7 +180,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 | D6 | Every abbreviation is in the one list. | B3 |
 | D7 | Nothing of B4 left in the text; no Kannada script in the English book. | B2, B4 |
 | D8 | A sample of pages read by a different model; findings repaired and logged. | all |
-| D9 | **Release gate:** the release PDF is built only when D1–D8 pass, no `NOTE` is open, and no known error is listed as unrepaired; it is checked for any leftover mark, bracketed comment or working text. | A1, H2 |
+| D9 | **Release gate:** the release PDF is built only when D1–D8 pass, no `NOTE` is open, no gloss of a quoted Ṛk is still a placeholder (B3.5), and no known error is listed as unrepaired; it is checked for any leftover mark, bracketed comment or working text. | A1, H2 |
 
 Each check reports how many items it compared. A volume that was not checked is "not checked", never "clean".
 D1 and D2 are agreed in principle; how they work is for the design document.
