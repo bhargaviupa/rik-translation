@@ -23846,6 +23846,275 @@ This sūkta इंद्रासोमा महि (*iṃdrāsomā mahi*) is t
 > इंद्रासोमा । महि । तत् । नां । महित्वं । युवं । महानि । प्रथमानि । चक्रथुः ।  
 > युवं । सूर्यं । विविदथुः । युवं । स्वः । विश्वा । तमांसि । अहतं । निदः । च ॥१॥
 
+### Printed p. 540
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रासोमा हे इंद्रासोमौ नां युवयोस्तन्महित्वं महत्त्वं महि
+> महत् । किं तदित्यत आह । युवं युवां महानि महांति प्रथमानि प्रतमानि
+> मुख्यानि वा भूतानि । प्रथम इति मुख्यनाम प्रतमो भवति । नि. २-२२ । इति यास्कः ।
+> चक्रथुः । अकार्ष्टं । किंच युवं युवां सूर्यं विविदथुः । अलंभयतं च
+> जनान् । युवं युवां स्वरुदकं च विविदथुः । हेम स्वरित्युदकनामसु पाठात् ।
+> अपि च विश्वा विश्वानि तमांसि निदश्च निंदित्थनसुरांश्चाहतं । अहिंस्तं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, that greatness of you two is great. What is it? You two have made beings that are great and *prathama*, that is, *pratama* or foremost. Yāska says that *prathama* is a name for "chief"; it is *pratama* (Ni. 2-22). Further, you two found the sun and made men obtain it; you two also found *svar*, that is, water, since *hema* and *svar* are read among the names of water. And you two destroyed all the darknesses and the asuras who are revilers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- वां (*vāṃ*)—of you two
+- तत् (*tat*)—that well-known
+- महित्वं (*mahitvaṃ*)—greatness
+- महि (*mahi*)—is exceedingly great
+- युवं (*yuvaṃ*)—you two
+- महानि (*mahāni*)—of great power
+- प्रथमानि (*prathamāni*)—and of the highest importance, all the classes of beings
+- चक्रथुः (*cakrathuḥ*)—you have created
+- युवं (*yuvaṃ*)—you
+- सूर्यं (*sūryaṃ*)—the sun
+- विविदथुः (*vividathuḥ*)—you have established in the atmosphere so that he may be visible to all
+- युवं (*yuvaṃ*)—you
+- स्वः (*svaḥ*)—you have created also water
+- विश्वा (*viśvā*)—all
+- तमांसि (*tamāṃsi*)—the pitch darknesses
+- निदश्च (*nidaśca*)—and the reviling asuras
+- अहतं (*ahataṃ*)—you have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, the well-known greatness of you two is exceedingly great. You two have created all the classes of beings that are of great power and of the highest importance. You have established the sun in the atmosphere so that he is visible to all. You have created water also. You have destroyed together all the pitch darknesses and the reviling asuras.
+
+##### English translation
+Great, Indra and Soma. is that your greatness, for you have made great and principal (beings) : you have made known (to men) Surya and the waters : you have dissipated the glooms and (destroyed) the revilers.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा वा॒सय॑थ उ॒षास॒मुत्सूर्यं॑ नयथो॒ ॑ ॒
+> ज्योति॑षा स॒ह । ॒ 
+> उप॒ द्यां स्कं॒भथुः॒ स्कंभ॑ने॒नाप्र॑थतं पृथि॒वीं मा॒तरं॒ वि ॥२॥
+
+### Printed p. 541
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । वासयथः । उषसं । उत् । सूर्यं । नयथः । ज्योतिषा । सह ।  
+> उप । द्यां । स्कंभथुः । स्कंभनेन । अप्रथतं । पृथिवीं । मातरं । वि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रासोमा हे इंद्रासोमावुषसं वासयथः । विवासयथः । उषसं
+> व्युच्छंतीं कारयथ इत्यर्थः । किंच सूर्यं ज्योतिषा तेजसा सहोन्नयथः ।
+> आपि च द्यां दिवं स्कंभनेन स्तंभनहेतुनांतरिक्षेण मध्ये स्थापितेनोप
+> स्कंभधुः । अस्तंभयतं । मातरं विश्वस्य मातृभूतां पृथिवीं व्यप्रथतं ।
+> व्यप्रथयतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, you two cause Uṣas to dawn; that is, you make her shine forth. Further, you two raise the sun together with his light, his brilliance. And you two prop up the sky with the prop, the means of propping, the atmosphere set in the middle. You two spread out the earth, the mother, the mother of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma (you)
+- उषसं (*uṣasaṃ*)—Uṣas
+- वासयथः (*vāsayathaḥ*)—you have made to appear and shine forth
+- सूर्यं (*sūryaṃ*)—the sun
+- ज्योतिषा सह (*jyotiṣā saha*)—together with his radiance
+- उन्नयथः (*unnayathaḥ*)—you have made to rise and shine
+- द्यां (*dyāṃ*)—the heavenly world
+- स्कंभनेन (*skaṃbhanena*)—by the supporting pillar in the form of the atmosphere
+- उप स्कंभथुः (*upa skaṃbhathuḥ*)—you have made it stand resting
+- मातरं (*mātaraṃ*)—like a mother to the world
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- वि अप्रथतं (*vi aprathataṃ*)—you have made to grow wide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, you have made Uṣas appear with her splendour, and the sun rise and shine with his radiance. You have made the heavenly world stand resting upon the supporting pillar in the form of the atmosphere. You have made the earth, the mother of the world, grow wide.
+
+##### English translation
+Indra and Soma, you have led on the dawns ; you have upraised the sun with his splendour : you have propped up the sky with the supporting pillar (of the firmament): you have spread out the earth, the mother (of all).
+
+### Printed p. 542
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा॒वहि॑म॒पः प॑रि॒ष्ठां ह॒थो वृ॒त्रमनु॑ वां॒ द्यौर॑मन्यत ।  
+> प्रार्णां॑स्यैरयतं न॒दीना॒मा स॑मु॒द्राणि॑ पप्रथुः पु॒रूणि॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमौ । अहिं । अपः । परिस्थां । हथः । वृत्रं । अनु । वां । द्यौः । अमन्यत ।  
+> प्र । अर्णांसि । ऐरयतं । नदीनां । आ । समुद्राणि । पप्रथुः । पुरूणि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रासोमावहिं जगत आहंतारमपो मेघस्थान्न्युदकानि परिष्ठां
+> परिवृत्य स्थितं वृत्रमसुरं हथः । हतं । तदानीं द्यौर्वां युवामन्वमन्यत । किंच
+> नदीनामर्णांस्युदकानि प्रैरयतं । पुरूणि बहूनि । तुवि पुर्विति बहुनामसु
+> पाठात् । समुद्राण्युदकस्थानान्या पप्रथुः । उदकैरापूरयतं च । अथवा समुंदंतीत्युदकान्येव समुद्राणि । तानि रसेनापूरयतमित्यर्थः । तथा च यास्कः ।
+> समुद्रः कस्मात्समुद्ध्रवंत्यस्मादापः समभिद्रवंत्येनमापः संमोदंतेऽस्निन्भूतानि समुदको भवति समुनत्तीति वा । नि. २-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, you two slew Ahi, the smiter of the world, and Vṛtra the asura, who stood encircling the waters stationed in the cloud. Then the heaven approved of you two. Further, you two sent forth the waters of the rivers. *Puruṇi* means many, since it is read among the names of "many". And you two filled the seas, the places of water, with waters. Or else, the seas are the waters themselves, since they delight together; the sense is that you filled them with sap. So Yāska asks why the sea is called *samudra* and answers that the waters flow forth together from it, the waters run together to it, beings rejoice together in it, it is *samudaka*, or it wets (Ni. 2-10).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- अहिं (*ahiṃ*)—Ahi
+- अपः (*apaḥ*)—the waters stationed in the cloud
+- परिष्ठां (*pariṣṭhāṃ*)—who stood encircling
+- वृत्रं (*vṛtraṃ*)—and the asura Vṛtra
+- हथः (*hathaḥ*)—you have slain (therefore)
+- द्यौः (*dyauḥ*)—the heavenly world
+- वां (*vāṃ*)—you
+- अन्वमन्यत (*anvamanyata*)—honours
+- युवं (*yuvaṃ*)—you
+- नदीनां (*nadīnāṃ*)—of the rivers
+- अर्णांसि (*arṇāṃsi*)—the waters
+- प्रैरयतं (*prairayataṃ*)—you urged to flow forth
+- पुरूणि (*purūṇi*)—many
+- समुद्राणि (*samudrāṇi*)—seas
+- आ पप्रथुः (*ā paprathuḥ*)—you filled with waters
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, you two have slain Ahi and the asura Vṛtra, who stood encircling the waters stationed in the cloud. Therefore the heavenly world honours you. You made the rivers, full of water, flow forth. You filled the seas with waters.
+
+### Printed p. 543
+
+##### English translation
+Indra and Soma, you slew Ahi and Vrita, the obstructer of the waters ; for which the heaven venerates you both : you have urged on the the waters of the rivers until they have replenished numerous oceans.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा प॒क्वमा॒मास्वं॒तर्नि गवा॒मिद्द॑धथुर्व॒क्षणा॑सु ।  
+> ज॒गृ॒भथु॒रन॑पिनद्धमासु॒ रुश॑च्चि॒त्रासु॒ जग॑तीष्टं॒तः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । पक्वं । आमासु । अंतः । नि । गवां । इत् । दधथुः । वक्षणासु ।  
+> जगृभथुः । अनपिनद्दं । आसु । रुशत् । चित्रासु । जगतीषु अंतरिति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रासोमा हे इंद्रासोमावामास्वपक्वासु गवां वक्षणासूधःस्वंतर्मध्ये पक्वं पयो नि दधथुः । किंच चित्रासु नानावर्णास्वासु जगतीषु गोपु ।
+> इळा जगतीति गोनामसु पातात् । अंतर्मध्येनपिनद्धं केनाप्यबद्धं रुशत्
+> शुक्लवर्णं पयो जगृभथुः । यथा पृथिव्यां स्वयं न क्षरति तथा धारितवंतानित्यर्थः । इदिति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, in the unripe udders of the cows, in the middle, you two have placed ripe milk. Further, in these many-coloured *jagatī*s, that is, cows (*iḷā* and *jagatī* are read among the names of the cow), inside, you have held white milk that is bound by no one, so that it does not flow of itself upon the earth. The particle *id* is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- गवां (*gavāṃ*)—of the cows
+- अमासु (*amāsu*)—unripe
+- वक्षणासु (*vakṣaṇāsu*)—of the udders
+- अंतः (*aṃtaḥ*)—in the middle part
+- पक्वं (*pakvaṃ*)—ripe milk
+- नि दधथुः (*ni dadhathuḥ*)—you have deposited
+- चित्रासु (*citrāsu*)—many-coloured
+- असु जगतीषु (*asu jagatīṣu*)—of these cows
+- अंतः (*aṃtaḥ*)—in the middle
+- अनपिनद्दं (*anapinaddaṃ*)—bound by no one
+- रुशत् (*ruśat*)—of dry colour **NOTE**, that is, milk
+- जगृभथुः (*jagṛbhathuḥ*)—you have caused to be held
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, in the middle part of the unripe udders of the cows you have deposited ripe milk. In the middle of these many-coloured cows you have caused to be held the **NOTE** milk that is bound by no one and is of white colour.
+
+### Printed p. 544
+
+##### English translation
+Indra and Soma, you have deposited the mature (milk) in the immature udders of the cows : you have retained the white (secretion), although not shut up within those many-coloured cattle.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा यु॒वमं॒ग तरु॑त्रमपत्य॒साचं॒ श्रुत्यं॑ रराथे ।  
+> यु॒वं शुष्मं॒ नर्यं॑ चर्ष॒णिभ्यः॒ सं वि॑व्यथुः पृतना॒षाह॑मुग्रा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । युवं । अंग । तरुत्रं । अपत्यसाचं । श्रुत्यं । रराथे इति ।  
+> युवं । शुष्मं । नर्यं । चर्षणिभ्यः । सं । विव्यथुः । पृतनासहं । उग्रा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रासोमा हे इंद्रासोमौ युवं युवां तरुत्रं तारकमपत्यसाचं
+> संतानयुक्तं श्रुत्यं श्रवणीयं रयिं धनमंग क्षिप्रं रराथे । अस्मभ्यं धत्थः ।
+> किंचोग्रा हे उद्यूर्णाविंद्रासोमौ युवं युवां नर्यं नृभ्यो हितं
+> पृतनासहं शत्रुसैन्याभिभावुकं शुष्मं बलं चर्षणिभ्यो मनुष्येभ्यः । कृष्णयश्चर्षणय इति मनुष्यनामसु पाठात् । सं विव्यथुः । समतनुतं । परिवेष्टयथो वा ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, you two swiftly (*aṅga*, that is, quickly) give wealth that is saving, accompanied by offspring and renowned; you place it for us. Further, O fierce ones, with weapons raised, you two have spread out together (or else, wrapped around) strength (*śuṣma*), beneficial to men and overcoming hostile armies, for the *carṣaṇi*s, that is, for men, since *kṛṣṭi* and *carṣaṇi* are read among the names of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- युवं (*yuvaṃ*)—you two
+- तरुत्रं (*tarutraṃ*)—protecting
+- अपत्यसाचं (*apatyasācaṃ*)—accompanied by sons and others
+- श्रुत्यं (*śrutyaṃ*)—and renowned, wealth
+- अंग (*aṃga*)—quickly
+- रराथे (*rarāthe*)—you give
+- उग्रा (*ugrā*)—O Indra and Soma of exceedingly great strength
+- युवं (*yuvaṃ*)—you
+- नर्यं (*naryaṃ*)—beneficial to men
+- पृतनासहं (*pṛtanāsahaṃ*)—and to be used to defeat enemies in battle
+- शुष्मं (*śuṣmaṃ*)—strength
+- चर्षणिभ्यः (*carṣaṇibhyaḥ*)—to us who are men
+- सं विव्यथुः (*saṃ vivyathuḥ*)—you have given in fullness
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, you two give to us quickly wealth that is protecting, accompanied by sons and others, and renowned. O Indra and Soma of exceedingly great strength, you have furnished to us who are men a strength that is beneficial to men and that is to be used to defeat enemies in battle.
+
+### Printed p. 545
+
+##### English translation
+Indra and Soma, promptly bestow upon us preservative, renowned (riches), accompanied by offspring; for you fierce (divinities), have disseminated amongst men, strength, useful to man, victorious over hostile hosts.
+
+## Sūkta 73 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो अद्रिभिदिति तृचं द्वादशं सूक्तं बार्हस्पत्यं भरद्वाजस्यार्षं त्रैष्टुभं।
+> तथा चानुक्रांतं । यो आद्रिभित्तृचं बार्हस्पत्यमिति ॥ अभिप्लविकेषूक्ष्येषु
+> तृतीयसवने ब्माण्मणाच्छंसिशस्त्रे स्तोमातिशंसनार्थमिदं सूक्तं । सूत्र्यते हि ।
+> यो अद्रिभिद्यज्ञे दिव इति सूक्ते । आ. ७-९ ॥ वाजपेये बार्हस्पत्ये चरौ बृहस्पतिः
+> समजयद्वसूनीति....त्वामीळते अजिरं दूत्याय । आ. ९-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यो अद्रिभिदिति (*yo adribhiditi*) has three ṛks and is the twelfth sūkta. It is Bārhaspatya, the seer is Bharadvāja, and the metre is Triṣṭubh. So it is given in the Anukramaṇikā: यो आद्रिभित्तृचं बार्हस्पत्यमिति (*yo ādribhittṛcaṃ bārhaspatyamiti*) **GLOSS**. In the Abhiplavika Ukthya days, at the third pressing, in the śastra of the Brāhmaṇācchaṃsin, this sūkta is for the purpose of exceeding the stoma. It is laid down: यो अद्रिभिद्यज्ञे दिव इति सूक्ते (*yo adribhidyajñe diva iti sūkte*) (Ā. 7-9) **GLOSS**. In the Vājapeya, in the cooked oblation for Bṛhaspati, it is laid down: वाजपेये बार्हस्पत्ये चरौ बृहस्पतिः समजयद्वसूनीति....त्वामीळते अजिरं दूत्याय । (*vājapeye bārhaspatye carau bṛhaspatiḥ samajayadvasūnīti....tvāmīḷate ajiraṃ dūtyāya |*) (Ā. 9-9) **GLOSS**.
+
+##### Anuvāda
+
+This sūkta यो आद्रिभित् (*yo ādribhit*) is the twelfth sūkta in the sixth anuvāka. It has three ṛks. Bharadvāja is the seer of this sūkta; Bṛhaspati is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: यो अद्रिभित्कृचं बार्हस्पत्यं (*yo adribhitkṛcaṃ bārhaspatyaṃ*) **GLOSS**. In the Ukthya sacrifices connected with the Abhiplava, at the time of the third pressing, in the śastra mantras recited by the priest called Brāhmaṇācchaṃsin, this sūkta is to be recited for the purpose of exceeding the stoma; this is set out by the Āśvalāyana-śrauta-sūtra, in the sūtra यो आद्रिभिद्यज्ञे दिव इति सूक्ते (*yo ādribhidyajñe diva iti sūkte*) (Ā. 7-9) **GLOSS**. In the Vājapeya sacrifice also, in the offering of cooked food that has Bṛhaspati as deity, the third ṛk बृहस्पतिः समजयद्वसूनि (*bṛhaspatiḥ samajayadvasūni*) is to be recited; this is set out by the Āśvalāyana-śrauta-sūtra, in the sūtra बृहस्पतिः समजयद्वसूनीति ..................त्वामीळते अजितं दूत्याय (*bṛhaspatiḥ samajayadvasūnīti ..................tvāmīḷate ajitaṃ dūtyāya*) (Ā. 9-9) **GLOSS**.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 73
+- Aṣṭaka 5; Adhyāya 1; Varga 17
+- Number of ṛks in the sūkta: 3
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: बृहस्पतिः (*bṛhaspatiḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
 ---
 
-**Progress note:** Done through printed p. 539. Sūkta 71 Ṛk 2-6 (Savitṛ) and start of Sūkta 72
+**Progress note:** Done through printed p. 545. Sūkta 72 Ṛk 1-5 (Indra-Soma) and start of Sūkta 73
