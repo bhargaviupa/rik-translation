@@ -10926,6 +10926,274 @@ O Pūṣan, you stand beyond mortals, that is, men; and by your wealth you are e
 
 O Pūṣan, you are greatly superior to men. By your wealth you are equal to all the gods. Therefore look upon us with a favouring eye in battles. As in former times you protected those who worship you, so protect us now also.
 
+### Printed p. 252
+
+##### English translation
+Supreme are you above martals : equal in glory are you to the gods : therefore, Pushan, regard us (favourably) in battles : defend us at present as (you have defended) those of old.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒मी वा॒मस्य॑ धूतयः॒ प्रणी॑तिरस्तु सू॒नृता॑ ।  
+> दे॒वस्य॑ वा मरुतो॒ मर्त्य॑स्य वेजा॒नस्य॑ प्रयज्यवः ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वामीा । वामस्य । धूतयः । प्रनीतिः । अस्तु । सूनृता ।  
+> देवस्य । वा । मरुतः । मर्त्यस्य । वा । ईजानस्य । प्रयज्यवः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धूतयः कंपयितारः प्रयज्यवः प्रकर्षेण यष्टव्या मरुतः सा सूनृता
+> प्रियसत्यात्मिका माध्यमिका युष्मदीया वाक् प्रणीतिरस्तु । अस्मदर्थं धनानां
+> प्रणेत्री भवतु । देवस्य वा मर्त्यस्य मनुष्यस्य वेजानस्यॆष्टवत उभयविधस्य
+> पुरुषस्य वामिन् प्रशस्ता या वाक् वामस्य वननीयस्य धनस्य प्रणीतिः प्रणीत्रि सा
+> सूनृतेत्यन्वयः । प्रणीतिरस्त्वस्मदर्थं ॥
+
+##### Gist of the bhāṣya
+
+O shakers, O Maruts to be especially worshipped, may that pleasant and true speech of yours, the speech of the middle region, be our guide; may she be the conductor of riches for us. Whether of a god or of a mortal man, of a sacrificer, of a person of either kind, the speech that is praised and that is the guide to desirable wealth is that pleasant and true speech: this is the construction. May she be the guide for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धूतयः (*dhūtayaḥ*)—who make trees and the rest tremble
+- प्रयज्यवः (*prayajyavaḥ*)—exceedingly worthy of worship
+- मरुतः (*marutaḥ*)—O Maruts
+- सूनृता (*sūnṛtā*)—the pleasant and true speech of the middle region
+- प्रणीतिः अस्तु (*praṇītiḥ astu*)—may she be, in our case, the guide to wealth
+- ईजानस्य (*ījānasya*)—of the worshipper
+- देवस्य वा (*devasya vā*)—whether of a god
+- मर्त्यस्य वा (*martyasya vā*)—or of a man
+- वामी (*vāmī*)—this worshipful speech
+- वामस्य (*vāmasya*)—may she point the way to the desired wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, who make trees and the rest tremble and who are exceedingly worthy of worship, may your pleasant and true speech of the middle region be for us a guide to wealth. May this speech, worthy of worship, whether for a god who worships or for a man, point the way to the desired wealth.
+
+### Printed p. 253
+
+##### English translation
+Maruts, agitators. especially to be adored, may your kind and true speech be our conductress; that pleasaut (speech which is the guide) to desirable (wealth) for both gods and sacrificing mortals.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒द्यश्चि॒द्यस्य॑ चर्कृ॒तिः परि॒ द्यां दे॒वो नैति॒ सूर्यः॑ ।  
+> त्वे॒षं शवो॑ दधिरे॒ नाम॑ य॒ज्ञियं॑ म॒रुतो॑ वृत्र॒हं शवो॒  
+> ज्येष्ठं॑ वृत्र॒हं शवः॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सद्यः । चित् । यस्य । चर्कृतिः । परि । द्यां । देवः । न । एति । सूर्यः ॥  
+> त्वेषं । शवः । धदिरे । नाम । यज्ञियं । मरुतः । वृत्रहं । शवः । ज्येष्ठं ।  
+> वृत्रहं । शवः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य च मरुद्दणस्य चर्कृतिः कर्म सद्यश्चित्सद्य एव द्यां पर्योति परिगच्छति
+> दिव्यंतरिक्षे परितो वर्तते देवो न देवो द्योतमानः सूर्य इव तादृशगणात्मका
+> मरुतस्वेषं दीप्तं नाम शत्रूणां नमयितृ यज्ञियं यज्ञार्हं शवो बलं
+> दधिरे । आधारयन् । तच्च शवो बलं वृत्रहं वृत्रादेरसुरस्य हंतृ भवति । तच्च
+> वृत्रहं शवो ज्येष्ठं सर्वेभ्यः प्रशस्ततमं भवति ॥
+
+##### Gist of the bhāṣya
+
+Of the host of the Maruts whose work goes round the heaven at once, like the shining sun, moving all around in the sky: such a host of the Maruts have held a brilliant strength, one that bends enemies down and is worthy of sacrifice. That strength is the slayer of Vṛtra and other asuras; and that Vṛtra-slaying strength is the eldest, the most praised of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which host of Maruts
+- चर्कृतिः (*carkṛtiḥ*)—the excellent work
+- सद्यश्चित् (*sadyaścit*)—continually
+- देवः (*devaḥ*)—shining
+- सूर्यः न (*sūryaḥ na*)—like the sun
+- द्यां परि (*dyāṃ pari*)—all around the sky
+- एति (*eti*)—pervades
+- मरुतः (*marutaḥ*)—such Maruts
+- त्वेषं (*tveṣaṃ*)—radiant
+- नाम (*nāma*)—destroying enemies
+- यज्ञियं (*yajñiyaṃ*)—worthy of worship
+- शवः (*śavaḥ*)—strength
+- दधिरे (*dadhire*)—have obtained
+- शवः (*śavaḥ*)—that same strength
+- वृत्रहं (*vṛtrahaṃ*)—becomes the destroyer of enemies
+- वृत्रहं (*vṛtrahaṃ*)—destroying enemies
+- शवः (*śavaḥ*)—that same strength
+- ज्येष्ठं (*jyeṣṭhaṃ*)—is the most praiseworthy of all
+
+### Printed p. 254
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, the excellent work of whose host pervades the sky all around, continually, like the shining sun, have obtained a strength that is peaceful, that destroys enemies and that is worthy of worship. That same strength becomes the destroyer of enemies. That same enemy-destroying strength is the most praiseworthy of all. **NOTE**
+
+##### English translation
+Whose functions spread quickly round the heavens, like (the light of) the divine sun, since the Maruts possess brilliant, foe-humiliating, and adorable, foe-destroying strength, most excellent foe-destroying strength.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒कृद्ध॒ द्यौर॑जायत स॒कृद्भूमि॑रजायत !  
+> पृश्न्या॑ दु॒ग्धं स॒कृत्पय॒स्तद॒न्यो नानु॑ जायते ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सकृत् । ह । द्यौः । अजायत । सकृत् । भूमिः । अजायत ।  
+> पृश्न्याः । दुग्धं । सकृत् । पयः । तत् । अन्यः । न । अनु । जायते ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सकृद्द सकृदेव द्यौरजायत । उदपद्यत । सकृदुत्पन्नैव स्थिता भवति । न
+> पुनस्तस्यां नष्टायामन्या तत्सदृशी द्यौर्जायते । भूमिश्च सकृदेवाजायत ।
+> पृश्ना मरुतां मातुर्गोः पयश्च सकृदेकवारमेव दुग्धं यस्मात्पयसो
+> मरुतो जज्जिरे । पृश्नियै वै पयसो मरुतो जाताः । तै. सं. २-२-११-४ । इति
+> तैत्तिरीयकं । यथा द्यावापृथिव्यौ सकृदेवोत्पद्येते एवं पृश्निरपि सकृद्दुग्धेनैव
+> पयसा मरुतोऽजीजनत् । तत्ततः परमन्यः पदार्थो नानु जायते । तत्सदृशो
+> नोत्पद्यते ॥
+
+##### Gist of the bhāṣya
+
+Heaven was born once only; having been produced once, it stands, and when it is destroyed no other like it is born. The earth too was born once only. The milk of Pṛśni, the cow who is the mother of the Maruts, was milked once only; the Maruts were born from that milk. "From the milk of Pṛśni the Maruts were born": so the Taittirīya (Tai. Saṃ. 2-2-11-4). As heaven and earth are produced once only, so Pṛśni also generated the Maruts with milk milked once only. Beyond that, no other thing is born after it; nothing like it is produced.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यौः (*dyauḥ*)—the sky
+- सकृत् ह (*sakṛt ha*)—once only
+- अजायत (*ajāyata*)—was born
+- भूमिः (*bhūmiḥ*)—the earth also
+- सकृत् (*sakṛt*)—at one time
+- अजायत (*ajāyata*)—was born
+
+### Printed p. 255
+
+- पृश्न्याः (*pṛśnyāḥ*)—of the cow named Pṛśni
+- पयः (*payaḥ*)—the milk
+- सकृत् (*sakṛt*)—once only
+- दुग्धं (*dugdhaṃ*)—was milked
+- तत् अन्यः (*tat anyaḥ*)—anything other than this
+- न अनु जायते (*na anu jāyate*)—was not born in this way
+
+##### भावार्थ (Bhāvārtha)
+
+The sky was born once only. The earth too was born once only. The milk of the cow named Pṛśni was milked once only. Nothing other than this was born in this way.
+
+##### English translation
+Once, indeed, was the heaven generated ; once was the earth born ; once was the milk of Prisni drawn : other than that was not similarly generated.
+
+## Sūkta 49 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तुषे जनमिति पंचदशर्चं षष्ठं सूक्तं भारद्वाजस्य ऋजिश्वन आर्षं
+> वैश्वदेवं । अंत्या षट्पंचाशदक्षरा शक्वरी शिष्टास्त्रिष्टुभः । तथा चानुक्रांतं । स्तुषे
+> पंचोन ऋजिश्वा ह वैश्वदेवं ह शक्वर्यंतमिति ॥ व्यूळ्हे दशरात्रे पंचमेऽहनीदं
+> वैश्वदेवनिविद्धानं । सूत्रितं च । ऋर्भुर्विभ्वा स्तुषे जनमिति वैश्वदेवं । आ. ८-८ ।
+> इति । आद्या महानामिव्रते जप्या ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "Stuṣe janam" has fifteen Ṛks and is the sixth sūkta. Its seer is Ṛjiśvā, of the line of Bharadvāja; its deity is the Viśvedevas. The last Ṛk is a Śakvarī of fifty-six syllables; the rest are Triṣṭubh. So the Anukramaṇī states. On the fifth day of the Vyūḍha Daśarātra this is the Vaiśvadeva nivid-dhāna sūkta. It is laid down in the sūtra ऋर्भुर्विभ्वा स्तुषे जनमिति वैश्वदेवं (*ṛrbhurvibhvā stuṣe janamiti vaiśvadevaṃ*) (Ā. 8-8). The first Ṛk is to be recited silently in the Mahānāmnī vrata.
+
+##### Anuvāda
+
+This sūkta beginning "Stuṣe janam" is the sixth sūkta in the fourth anuvāka. It contains fifteen Ṛks. The seer of this sūkta is Ṛjiśvā, born in the line of Bharadvāja. The deity is the Viśvedevas. The last Ṛk of this sūkta is in the metre called Śakvarī, of fifty-six syllables. All the remaining Ṛks are in the Triṣṭup metre. The Anukramaṇī says: स्तुषे पंचोन ऋजिश्वा ह वैश्वदेवं ह शक्वर्यंतमिति ॥ व्यूळ्हे दशरात्रे पंचमेऽहनीदं वैश्वदेवनिविद्धानं । सूत्रितं च । ऋर्भुर्विभ्वा स्तुषे जनमिति वैश्वदेवं । आ. ८-८ । इति । आद्या महानामिव्रते जप्या ॥ अनुवादवु—स्तुषे जनं ऎंब ई सूक्तवु नाल्कनॆय अनुवाकदल्लि आरनॆय सूक्तवु. इदरल्लि हदिनैदु ऋक्कुगळिरुववु. ई सूक्तक्कॆ भरद्वाजवंशोत्पन्ननाद ऋजिश्वा ऎंबवनु ऋषियु. विश्वेदेवतॆगळु देवतॆयु. ई सूक्तद कॊनॆय ऋक्कु ऐवत्तारु अक्षरगळुळ्ळ शक्वरी ऎंब छंदस्सिनदु. उळिद ऋक्कुगळॆल्ला त्रिष्टुप्‌छंदस्कवु. अनुक्रमणिकॆयल्लि—स्तुषे पंचोन ऋजिश्वा ह वैश्वदेवं ह शक्वर्यंतं (*stuṣe paṃcona ṛjiśvā ha vaiśvadevaṃ ha śakvaryaṃtamiti ‖ vyūḷhe daśarātre paṃcame 'hanīdaṃ vaiśvadevanividdhānaṃ | sūtritaṃ ca | ṛrbhurvibhvā stuṣe janamiti vaiśvadevaṃ | ā. 8-8 | iti | ādyā mahānāmivrate japyā ‖ anuvādavu—stuṣe janaṃ èṃba ī sūktavu nālkanèya anuvākadalli āranèya sūktavu. idaralli hadinaidu ṛkkugaḷiruvavu. ī sūktakkè bharadvājavaṃśotpannanāda ṛjiśvā èṃbavanu ṛṣiyu. viśvedevatègaḷu devatèyu. ī sūktada kònèya ṛkku aivattāru akṣaragaḷuḷḷa śakvarī èṃba chaṃdassinadu. uḷida ṛkkugaḷèllā triṣṭupchaṃdaskavu. anukramaṇikèyalli—stuṣe paṃcona ṛjiśvā ha vaiśvadevaṃ ha śakvaryaṃtaṃ*). On the fifth day of the ten-night sacrifice called Vyūḍha, this sūkta is to be recited as the nivid-dhāna sūkta in the middle of the mantras of the Vaiśvadeva śastra, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra, ऋभुर्विभ्वा स्तुषे जनमिति वैश्वदेवं (*ṛbhurvibhvā stuṣe janamiti vaiśvadevaṃ*) (Ā. 8-8). This sūkta is to be recited in the Mahānāmnī vrata as well.
+
+### Printed p. 256
+
+- Sūkta 49
+- Maṇḍala 6; Anuvāka 4; Sūkta 49
+- Aṣṭaka 4; Adhyāya 8; Varga 5, 6, 7
+- Number of Ṛks in the sūkta: 15
+- Ṛṣi: Ṛjiśvā
+- Devatā: Viśvedevas
+- Chandas: 1-14 Triṣṭup; 15 Śakvarī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒षे जनं॑ सुव्र॒तं नव्य॑सीभिर्गि॒र्भिर्मि॒त्रावरु॑णा सुम्म॒यंता॑ ।  
+> त आ ग॑मंतु॒ त इ॒ह श्रु॑वंतु सुक्ष॒त्रासो॒ वरु॑णो मि॒त्रो  ॒
+> अग्निः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुषे । जनं । सुव्रतं । नव्यसीभिः । गीभिः । मित्रावरुणा । सुम्नयंता ।  
+> ते । आ । गमंतु । ते । इह । श्रुवंतु । सुक्षत्रासः । वरुणः । मित्रः । अग्निः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुव्रतं सुकर्माणं जनं दैव्यं जनं देवसंघं नव्यसीभिर्नवतराभिर्गिर्भिः
+> स्तुतिभिः स्तुषे । अहं स्तुवे । तथा मित्रावरुणा । मित्रः प्रमीतेस्त्रायको वरुणः
+> पापान्निवारयिता । एतावपि देवौ सौमि । कीदृशौ । सुम्नयंता सुम्मं सुखं
+> स्तोत्कृणामिच्छंतौ । सुक्षत्रासः शोभनबलास्ते वरुणादयः सर्वॆ देवा इहास्मिन्यज्ञ
+> आ गमंतु । आगच्छंतु । ते तादृशाः श्रुवंतु । अस्मदीयाः स्तुतीः शृण्वंतु च । अत्र
+> मित्रादीनां परिगणनमुपलक्षणं । सूक्तस्य सर्वदेवताप्रतिपादकत्वात् । अत एव
+> पूर्वं जनमिति सामान्यनिर्देशः ॥
+
+##### Gist of the bhāṣya
+
+I praise the people of good works, that is, the host of the gods, with newer songs of praise. So too I praise Mitra and Varuṇa: Mitra the protector from death, Varuṇa the warder-off of sins; I praise both these gods. What are they like? They desire happiness for those who praise. May those of good strength, Varuṇa and the rest, all the gods, come here to this sacrifice; and may they, such as they are, hear our praises. Here the enumeration of Mitra and the others is only indicative, since the sūkta teaches all the deities; for that reason the word "people" is used first as a general designation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुकृतं (*sukṛtaṃ*)—of excellent works
+- जनं (*janaṃ*)—the divine people
+- नव्यसीभिः (*navyasībhiḥ*)—new
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- स्तुषे (*stuṣe*)—I praise
+- सुम्नयंता (*sumnayaṃtā*)—who bring happiness
+- मित्रा वरुणा (*mitrā varuṇā*)—I praise Mitra and Varuṇa
+- सुक्षत्रासः (*sukṣatrāsaḥ*)—of excellent strength
+
+### Printed p. 257
+
+- ते (*te*)—those
+- वरुणादिगळु (*varuṇādigaḷu*)—Varuṇa and the others
+- इह (*iha*)—to this place of sacrifice
+- आ गमंतु (*ā gamaṃtu*)—may they graciously come
+- ते (*te*)—all of them (that is)
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अग्निः (*agniḥ*)—Agni
+- श्रुवंतु (*śruvaṃtu*)—may they hear our prayer
+
+##### भावार्थ (Bhāvārtha)
+
+I praise with new praises the divine people of excellent works. I praise also Mitra and Varuṇa, the bringers of happiness. May Mitra, Varuṇa and Agni, of excellent strength, all come together to our sacrifice. May all of them hear our praises and prayers.
+
+##### English translation
+I commend with new hymns the man observant of his duty, and the beneficent Mitra and Varuna: may they, the mighty ones. Varuna, Mitra, Agni, come to our rite, and listen (to our praises).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒शोवि॑श॒ ईड्य॑मध्व॒रेष्वदृ॑प्तक्रतुमर॒तिं यु॑व॒त्योः ।  
+> दि॒वः शिशुं॒ सह॑सः सू॒नुम॒ग्निं य॒ज्ञस्य॑ के॒तुम॑रु॒षं यज॑ध्यै ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विशःविशः । ईड्यं । अध्वरेषु । अदृप्तक्रतुं । आरतिं । युवत्योः ।  
+> दिवः । शिशुं । सहसः । सूनुं । अग्निं । यज्ञस्य । केतुं । अरुषं । यजध्यै ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विशो विशः सर्वस्याः प्रजाया अध्वरेषु यज्ञेष्टीड्यमृत्तिग्निः स्तुत्यमदृप्तक्रतुं दर्परहितकर्माणममूढप्रज्ञं वा युवत्योर्द्यावापृथिव्योररतिमभिगंतारमर्यं स्वामिनं दिवो द्युलोकस्य शिशुं पुत्रं । दिवस्परि प्रथमं जज्ञे
+> अग्निः। ऋग्वे १०-४५-१। इति निगमः। यद्वा। दिवः स्तोतुः पुत्रभूतं । तथापि निगमो
+> भवति । त्वं पुत्रो भवसि यस्तेऽविधत् । ऋग्वे. २-१-९ । इति । सहसो बलस्य सूनुं
+> पुत्रं यज्ञस्य यागस्य केतुं प्रज्ञापकमरुषमारोचमानमेवंगुणकमग्निं
+> यजध्यै यष्टुं । स्तुष इत्यनुषज्यते । स्तुषे । स्तुवे ॥
+> XXI 17
+
+##### Gist of the bhāṣya
+
+Agni, the priest, is to be praised in the sacrifices of every people. He is of undaunted action, that is, of work free of pride, or of unconfused wisdom. He is the goer, the lord, of the two young women, heaven and earth. He is the child, the son, of heaven. "Agni was born first from heaven" (Ṛgve. 10-45-1): thus the Nigama. **NOTE** Or else: he is the son of the one who praises; so too there is a Nigama: "You become a son to the one who served you" (Ṛgve. 2-1-9). **NOTE** He is the son of strength, the sign of the sacrifice, shining; Agni, of such qualities, I praise, in order to worship him. The word "I praise" is carried over from the first Ṛk.
+
 ---
 
-**Progress note:** Done through printed p. 251. Sukta 48 Rk 14 end-19 (pp. 246-251)
+**Progress note:** Done through printed p. 257. Sukta 48 Rk 19-22; Sukta 49 Rk 1-2 (pp. 252-257)
