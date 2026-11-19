@@ -13532,6 +13532,274 @@ May the presenter of the oblation, Bharadwaja, quickly obtain, gods, a celestial
 > अप । त्यं । वृजिनं । रिपुं । स्तेनं । अग्ने । दुःआध्यं ।  
 > दविष्ठं । अस्य । सत्पते । कृधि । सुगं ॥ १३ ॥
 
+### Printed p. 311
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रस्य चतुर्थेऽहनि प्रउगशस्त्रेऽप त्यं वृजिनमित्येषा । वैश्वदेवस्तृचः ।
+> सूत्रितं च । अप त्यं वृजिनं रिपुमंबितमे नदीतनु इत्यानुष्टुभं प्रउगं ।
+> आ. ७-११ । इति ॥
+> हे अग्ने त्वं त्यं तं प्रसिद्धं वृजिनं कुटिलं रिपुं पापकारिणं दुराध्यं
+> दुःखस्याध्यातारं दुष्वाभिप्रायमेवंभूतं स्तेनं हिंसकं दविष्ठं दूरतममपास्य ।
+> अपक्षिप ॥ असु क्षेपण इति धातुः ॥ हे सत्पते सतां पालयितरग्ने अस्माकं सुगं
+> शोधनेन गंतव्यं सुखं कृधि । कुरु । अत्र सर्वदेवात्मकस्याग्नेः स्तवनाद्वैश्वदेवत्वं॥
+
+##### Gist of the bhāṣya
+
+On the fourth day of the Daśarātra, in the Prauga-śastra, the verse beginning अप त्यं वृजिनं (*apa tyaṃ vṛjinaṃ*) is used; it is a Vaiśvadeva triplet. It is also laid down in the sūtra, which states that the Prauga recitation is in the Anuṣṭubh metre (Ā. 7-11). O Agni, drive that well-known crooked enemy, the sinner, one of evil intent who wishes harm, a thief and destroyer, away to the farthest distance; cast him away (the root is asu, to throw). O Agni, protector of the good, make for us an easy, pleasant going. Here the Vaiśvadeva character arises from the praise of Agni, whose nature includes all the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्यं (*tyaṃ*)—the well-known
+- वृजिनं (*vṛjinaṃ*)—of sinful nature
+- दुराध्यं (*durādhyaṃ*)—the cause of suffering
+- स्तेनं (*stenaṃ*)—the thief
+- रिपुं (*ripuṃ*)—the enemy
+- दविष्ठं (*daviṣṭhaṃ*)—to the farthest region
+- अपास्य (*apāsya*)—drive away
+- सत्पते (*satpate*)—O Agni, protector of the good
+- सुगं (*sugaṃ*)—for us an excellent means of happiness
+- कृधि (*kṛdhi*)—produce
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, drive the well-known enemy, of sinful nature, the cause of suffering, a thief, away to the farthest region. O Agni, protector of the good, produce for us an excellent means of happiness.
+
+##### English translation
+Drive away, Agni, to a distance the wicked, felonious, malignant enemy : grant us felicity, protector of the virtuous.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the fourth day of the sacrifice called Daśarātra, at the time of reciting the Prauga-śastra mantras, the three Ṛks beginning with अप त्यं वृजिनं (*apa tyaṃ vṛjinaṃ*) are to be recited as the Vaiśvadeva triplet. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अप त्यं वृजिनं रिपुमंबितमे नदीतम इन्यानुष्टभं प्रउगं (*apa tyaṃ vṛjinaṃ ripumaṃbitame nadītama inyānuṣṭabhaṃ praugaṃ*) (Ā. 7-11).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्रावा॑णः सोम नो॒ हि कं॑ सखित्व॒नाय॑ वाव॒शुः ।  
+> ज॒ही न्य१॒॑ग्त्रिणं॑ प॒णिं वृको॒ हि षः ॥ १४ ॥
+
+### Printed p. 312
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्रावाणः । सोम । नः । हि । कं । सखित्वनाय । वावशुः ।  
+> जहि । नि । अत्रिणं । पणिं । वृकः । हि । सः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नोऽस्मदीया इमे ग्रावाणोऽभिषवार्थाः पाषाणास्तव
+> सखित्वनाय सख्यार्थं वावशुः । कामयंते । कमिति पूरकः । हि यस्मादर्थे ।
+> यस्मादेवं तस्मात्त्वं पणिं वणिजमदातारमत्रिणमदनशीलं राक्षसादिकं नि जहि ।
+> विनाशय ! स पणिर्वृको हि । आदानपरः खलु । सर्वदास्मत्तोऽपहरणशीलः ।
+> अतस्त्वं जहीत्यर्थः ॥ कुक वृक आदान इति धातुः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, these pressing stones of ours, used for pressing, long for your friendship; the word kam is a filler, and hi has the sense of "because". Since this is so, destroy the Paṇi, the merchant who gives nothing, the Atrin, the devourer, a Rākṣasa or the like. That Paṇi is a wolf, bent on seizing; he is always one who robs us. Therefore destroy him: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- नः (*naḥ*)—our
+- ग्रावाणः (*grāvāṇaḥ*)—these stones that press out the juice
+- सखित्वनाय (*sakhitvanāya*)—to win friendship with you
+- वावशुः कम् (*vāvaśuḥ kam*)—keep longing
+- हि (*hi*)—therefore
+- पणिं (*paṇiṃ*)—him who is not given to giving
+- अत्रिणं (*atriṇaṃ*)—the harming enemy
+- नि जहि (*ni jahi*)—destroy completely
+- स हि (*sa hi*)—that same Paṇi
+- वृकः (*vṛkaḥ*)—is like a wolf that devours everything
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, these our stones that press out the juice keep longing to win friendship with you. Therefore destroy completely the Paṇi, who is not given to giving and who devours everything. He is like a cruel wolf.
+
+##### English translation
+These our grinding stones are anxious, Soma, for your friendship : destroy the voracious Pani, for verily he is a wolf.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं हि ष्ठा सु॑दानव॒ इंद्र॑ज्येष्ठा अ॒भिद्य॑वः ।  
+> कर्ता॑ नो॒ अध्व॒न्ना सु॒गं गो॒पा अ॒मा ॥ १५ ॥
+
+### Printed p. 313
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । हि । स्थ । सुदानवः । इंद्रज्येष्ठाः । अभिद्यवः ।  
+> कर्त । नः । अध्वन् । आ । सुगं । गोपाः । अमा ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानवः शोभनदाना देवा यूयं हि ष्ठ । यूयं खलु प्रभवथ ।
+> समृद्धा । स्थ । इंद्रज्येष्ठा । इंद्रो ज्येष्ठो मुख्यो येषां ते । अभिद्यवोऽभिगतदीप्तयस्ते यूयमध्वन्नध्यनि मार्गे नोऽस्माकममा सहैव गोपा
+> गोपायितारो रक्षितारः संतः सुगं सुखं । आकारः समुच्चये । सुखं च कर्त ।
+> कुरुत ॥
+
+##### Gist of the bhāṣya
+
+O gods of good gifts, you indeed are powerful and prosperous. Indrajyeṣṭhāḥ means those of whom Indra is the eldest, the chief. Abhidyavaḥ means those whose splendour has come near. You, on the way, together with us, being our guardians and protectors, grant us happiness. The syllable ā is used in the sense of joining; and grant happiness as well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—O gods of excellent giving
+- यूयं हि ष्ठ (*yūyaṃ hi ṣṭha*)—you alone are lords of all
+- इंद्रजेषाः (*iṃdrajeṣāḥ*)—those who have Indra himself as leader
+- अभिद्यवः (*abhidyavaḥ*)—those who have extended radiance; you, such as these
+- अध्वन् (*adhvan*)—on our ways
+- नः (*naḥ*)—our
+- आ (*ā*)—(ā) being in company
+- गोपाः (*gopāḥ*)—as our protectors
+- सुगं (*sugaṃ*)—happiness
+- कर्त (*karta*)—produce
+
+##### भावार्थ (Bhāvārtha)
+
+O gods of excellent giving, you alone are lords of all. You who have Indra himself as chief and who have extended radiance, being with us on our ways as our protectors, produce happiness for us.
+
+##### English translation
+You are manifest and illustrious, gods. with Indra for your chief : be with us, protectors, on the road, and grant us happiness.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपि॒ पंथा॑मगन्नहि स्वस्ति॒गाम॑ने॒हसं॑ ।  
+> येन॒ विश्वाः॒ परि॒ द्विषो॑ वृ॒णक्ति॑ विं॒दते॒ वसु॑ ॥ १६ ॥
+
+### Printed p. 314
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपि । पंथां । आगन्महि । स्वस्तिगां । अनेहसं ।  
+> येन । विश्वाः । परि । द्विषः । वृणक्ति । विंदते । वसु ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवासादागमनेऽपि पंथामित्येषा यजमानेन जप्या । सूत्रितं च । अपि
+> पंथामगन्महीति प्रत्येत्य समित्पाणिः । आ. २-५ । इति ॥
+> पंथां पंथानं मार्गमप्यगन्महि । अपिगताः प्राप्ताः स्मः । कीदृशं । स्वस्तिगां
+> सुखेन गंतव्यमनेहसं पापरहितं । येन पथा गच्छन् विश्वाः सर्वा द्विषो द्वेष्ट्रीः
+> प्रजाः परि वृणक्ति परिवर्जयति बाधते वसु धनं च विंदते लभते तादृशं
+> पंथानमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This verse beginning अपि पंथां (*api paṃthāṃ*) is to be muttered by the sacrificer on coming back from a journey; this is laid down in the sūtra, which says that on returning he mutters it with a kindling stick in his hand (Ā. 2-5). We have come upon the path; that is, we have reached it. What kind of path? One that is to be travelled in well-being, and free from sin. Going by which path a man avoids all the hostile creatures, that is, drives them off and wards them away, and gains wealth: such a path is meant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—on which path, as he travels (a man)
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—the hostile creatures
+- परि वृणक्ति (*pari vṛṇakti*)—escapes (and)
+- वसु (*vasu*)—wealth
+- विंदते (*viṃdate*)—obtains; such
+- स्वस्तिगां (*svastigāṃ*)—that which brings welfare
+- अनेहसं (*anehasaṃ*)—that which is free from sin
+- पंथां (*paṃthāṃ*)—the path
+- अपि अगन्महि (*api aganmahi*)—we have followed and come
+
+##### भावार्थ (Bhāvārtha)
+
+We have followed and come by the path on which a man, as he travels, escapes all the hostile creatures: a path that brings welfare and is free from sin.
+
+##### English translation
+We have travelled along the road prosperously traversed and free from evil, and by which (a man) avoids adversaries and acquires wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+After going on a journey to some other place and returning, this Ṛk beginning आपि पंथां (*āpi paṃthāṃ*) is to be muttered. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra आपि पंथामगन्महीति प्रत्येत्य समित्पाणिः (*āpi paṃthāmaganmahīti pratyetya samitpāṇiḥ*) (Ā. 2-5).
+
+### Printed p. 315
+
+## Sūkta 52 (Maṇḍala 6)
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न तद्दिवेति सप्तदशर्चं तृतीयं सूक्तमृजिश्वन आर्षं वैश्वदेवं । आदितः
+> षट् त्रिष्टुभः सप्तम्याध्याः षट् गायत्र्यस्त्रयोदशी त्रिष्टुप् चतुर्दशी जगती
+> शिष्टास्ति प्रस्रिष्टुभः। तथा चानुक्रांतं। न तत्र्यूना सप्तम्याध्याः षड्गायत्र्यश्चतुर्दशी
+> जगतीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning न तद्दिवा (*na taddivā*), of seventeen Ṛks, is the third sūkta; its seer is Ṛjiśvan and its deity the Viśvedevas. The first six Ṛks are Triṣṭubh; from the seventh, six are Gāyatrī; the thirteenth is Triṣṭubh and the fourteenth Jagatī; the rest are Triṣṭubh. The Anukramaṇī says so accordingly. The use of the sūkta in ritual has been stated.
+
+##### Anuvāda
+
+This sūkta beginning न तद्दिवा (*na taddivā*) is the third sūkta in the fifth anuvāka. It has seventeen Ṛks. The seer of this sūkta is Ṛjiśvā; the deity is the Viśvedevas. The first six Ṛks of this sūkta are in the Triṣṭup metre. The six Ṛks following from the seventh are in the Gāyatrī metre. The thirteenth Ṛk is in the Triṣṭup metre; the fourteenth is in the Jagatī metre. The remaining Ṛks are in the Triṣṭup metre. In the Anukramaṇī it is stated thus: न तत्त्वाना सप्तम्याध्याः षड्गायत्र्यश्चतुर्दशी जगती (*na tattvānā saptamyādhyāḥ ṣaḍgāyatryaścaturdaśī jagatī*). The use of the sūkta in ritual has already been stated.
+
+- Sūkta 52
+- Maṇḍala 6; Anuvāka 5; Sūkta 52
+- Aṣṭaka 4; Adhyāya 8; Varga 14, 15, 16
+- Number of Ṛks in the sūkta: 17
+- Ṛṣi: Ṛjiśvā
+- Devatā: Viśvedevas
+- Chandas: 1-6, 13, 15, 17 Triṣṭup; 7-12 Gāyatrī; 14 Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तद्दि॒वा न पृ॑थि॒व्यानु॑ मन्ये॒ न य॒ज्ञेन॒ नोत शमी॑भिरा॒भिः ।  
+> उ॒ब्बंतु॒ तं सु॒भ्व१॒॑ १ः पर्व॑तासो॒ नि ही॑यतामतिया॒जस्य॑  ॒
+> यष्टा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तत् । दिवा । न । पृथिव्या । अनु । मन्ये । न । यज्ञेन । न । उत । शमीभिः । अभिः ।  
+> उब्बंतु । तं । सुभ्वः । पर्वतासः । नि । हीयतां । अतियाजस्य । यष्टा ॥ १ ॥
+
+### Printed p. 316
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतियाजो नाम कश्चिदृषिरस्मादृजिश्वन उत्कृष्टः स्यामहमिति बुद्ध्या देवान्ययक्षुरास । ऋषिस्तदीयं यजनं निराचष्टाद्यया ॥ न तदतियाजस्य ऋषेस्तद्यजनं दिवा द्युलोकेन तत्रत्येन देवगणेन युक्तमित्यहं नानु मन्ये । अनुमतिं
+> न करोमि । न च पृथिव्या पार्थिवेनापि देवगणेन युक्तमिति नानु मन्ये । न च
+> यज्ञेन मयानुष्ठितेन सदृशं तदित्यहं नानु मन्ये । उतापि चाभिः शमीभिरन्यैरपि
+> मया कृतैरेभिः कर्मभिः सदृशमित्यपि नानु मन्ये । मया वशीकृता देवास्तदीयं
+> यजनं नांगीकुर्वंति स चानभिज्ञत्वात्सम्यग्यष्टुमपि न शक्नोतीति भावः । अपि च
+> तमृषिं सुभ्वः सुष्टु भवंतः पर्वतासः पर्वता इंद्रेण प्रहिताः संत उब्बंतु ।
+> हिंसंतु ॥ उब्बिर्हिंसाकर्मा ॥ तथा तस्यातियाजस्य ऋजिश्वनोऽप्यतिशयेनाहं
+> देवान्यजामिति बुद्ध्या युक्तस्य ऋषेयो यष्टा याजकः स नि हीयतां ।
+> नितरां हीनो भवतु ॥
+
+##### Gist of the bhāṣya
+
+A certain seer named Atiyāja sacrificed to the gods with the thought: "May I be superior to this Ṛjiśvan." Ṛjiśvan rejects that sacrifice with this verse. I do not approve of that sacrifice of the seer Atiyāja as being joined with the heavenly world, that is, with the host of gods dwelling there; I give it no assent. Nor do I approve of it as joined with the host of gods of the earth. Nor do I think it equal to the sacrifice performed by me, nor equal to these other works done by me. The gods have been brought under my power and do not accept his sacrifice, and through ignorance he cannot even sacrifice properly: this is the sense. Further, may the mountains, the well-existing ones, sent by Indra, destroy that seer (the root ubbi has the sense of injuring). So too may the sacrificer of that Atiyāja, a seer endowed with the thought "I sacrifice to the gods even more than Ṛjiśvan", be utterly diminished. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तत् (*tat*)—the sacrificial act done by the seer Atiyāja
+- दिवा (*divā*)—as fit to be joined with the gods of the heavenly world
+- न अनु मन्ये (*na anu manye*)—I do not approve
+- पृथिव्या (*pṛthivyā*)—as fit to approach the gods of the earth
+- न (*na*)—I do not approve
+- यज्ञेन (*yajñena*)—as equal to the sacrifice that I perform
+- न (*na*)—I do not accept
+- उत (*uta*)—and
+- अभिः शमीभिः (*abhiḥ śamībhiḥ*)—as equal to the other works done by me
+- न (*na*)—I do not approve
+- तं (*taṃ*)—that seer Atiyāja
+- सुभ्वः (*subhvaḥ*)—those who are in a lofty place
+- पर्वतासः (*parvatāsaḥ*)—the gods who are with Indra
+- उब्बंतु (*ubbaṃtu*)—may they injure
+- अतियाजस्य (*atiyājasya*)—who is the representative of Atiyāja
+- यष्टा (*yaṣṭā*)—the performer of the sacrifice
+- नि हीयतां (*ni hīyatāṃ*)—let him be utterly destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+I do not approve of the sacrificial act done by the seer Atiyāja as fit to be joined with the gods of the heavenly world. Nor do I approve of it as fit to approach the gods of the earth. It is certainly not equal to the sacrifice I perform. I cannot accept it as equal to the other works done by me. May the gods who are in a lofty place and are with Indra injure that seer Atiyāja. May the performer of the sacrifice, the representative of Atiyāja, meet with utter destruction.
+
 ---
 
-**Progress note:** Done through printed p. 310. Ṛk 7 end to Ṛk 13 pada of sūkta 51 (pp. 304-310)
+**Progress note:** Done through printed p. 316. Ṛk 13 bhāṣya to sūkta 52 Ṛk 1 (pp. 311-316)
