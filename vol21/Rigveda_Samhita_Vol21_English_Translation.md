@@ -30517,6 +30517,282 @@ Invested (with the priestly office), the bearer (of the oblation), Agni, the dir
 > एते । द्युम्नेभिः । विश्वं । आ । अतिरंत । मंत्रं । ये । वा । अरं । नर्याः । अतक्षन् ।  
 > प्र । ये । विशः । तिरंत । श्रोषमाणाः । आ । ये । मे । अस्य । दीधयन् । ऋतस्य ॥
 
+### Printed p. 721
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते मदीयाः पुरुषाः द्युम्नेभिरन्नैर्विश्वं पोष्यवर्गमातिरंत । वर्धयंति ! अथवा द्युम्नेभिर्यशोभिर्विश्वं जगदातिरंत ! अभ्यगच्छन्नित्यर्थः । क इत्यत
+> आह ! ये नर्या मनुष्या मंत्रं स्तोत्रं स्तुत्यं वारं पर्याप्तमतक्षन्
+> समस्कुर्वन् । वेति समुच्चये ! ये च विशो जनाः शोषमाषाः ॥ शृणोतेः
+> सन्यजोरिति द्वित्वं इको झलिति सनः कित्त्वं च सर्वे विधयश्यंदसि विकल्प्यंत इति न
+> भवतः । ज्ञाश्रुस्मृदृशां सन इत्यात्मनेपदं ॥ प्रतिरंत वर्धयंति । मे मदीया
+> ये वा ऋतस्यास्य सत्यमिममग्निं ॥ कर्मणि षष्ठी । मानुषाणामश्नीयादितिवत् ॥
+> आ दीधयन् आदीपयन् ॥
+
+##### Gist of the bhāṣya
+
+These men of mine nourish the whole class of those to be supported with dyumnas, that is, food; or else, with dyumnas, that is, glories, they have approached the whole world. Who are they? He says: those men who have prepared a mantra, a hymn of praise, that is sufficient (vāra means sufficient). The particle vā is in the sense of conjunction. And those people who are listening **NOTE**. They increase, that is, they cause to grow. Me means "mine"; of this truth, that is, of this Agni, the genitive stands for the object, as in मानुषाणामश्नीयादितिवत् (*mānuṣāṇāmaśnīyāditivat*). Ā dīdhayan means they kindle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदीयाः (*madīyāḥ*)—belonging to me
+- ये नराः (*ye narāḥ*)—which men
+- अरं (*araṃ*)—fully
+- मंत्रं (*maṃtraṃ*)—the praise (addressed to Agni)
+- अतक्षन् (*atakṣan*)—prepare and recite
+- ये विशः (*ye viśaḥ*)—which people
+- शोषमाणाः (*śoṣamāṇāḥ*)—listening to the praise of Agni
+- प्र किरंत (*pra kiraṃta*)—cause to prosper
+- ये वा (*ye vā*)—or those who
+- ऋतस्य (*ṛtasya*)—of the truth-natured
+- अस्य (*asya*)—this Agni
+- आ दीधयन् (*ā dīdhayan*)—cause to blaze
+- एते (*ete*)—all these men also
+- द्युम्नेभिः (*dyumnebhiḥ*)—with foods
+- विश्वं (*viśvaṃ*)—the whole world
+- प्रतिरंत (*pratiraṃta*)—become nourishers
+
+##### भावार्थ (Bhāvārtha)
+
+The men belonging to me who fully prepare the praise addressed to Agni, the people who, listening to the praise of Agni, become causers of increase of prosperity, and those who cause this truth-natured Agni to blaze: all these men also become nourishers of the whole world with foods.
+
+##### English translation
+These men nourish the universe with viands who offer (to Agni) fitting commendation ; those people also eagerly listen (to laudation) augment (the plenty of the world), as do these my (associates), who are glorifiers of this truthful (deity).
+
+### Printed p. 722
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू त्वाम॑ग्न ईमहे॒ वसि॑ष्ठा ईशा॒नं सू॑नो सहसो॒  ॑
+> वसूनां ।  
+> इषं॑ स्तो॒तृभ्यो॑ म॒घव॑द्भ्य आनड्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । त्वां । अग्ने । ईमहे । वसिष्ठाः । ईशानां । सूनो इति । सहसः । वसूनां ।  
+> इषं । स्तोतृभ्यः । मघवत्स्भ्यः । आनट् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहसः सूनो बलस्य पुत्राग्ने वसिष्ठा वयं वसूनामीशानं त्वामस्मदीयेभ्यः स्तोतृभ्यो मघवद्भ्यो हविष्मद्भ्यश्चेषमन्नं नु क्षिप्रमद्य वानट् ।
+> प्रापयेः ॥ नशेव्याप्तिकर्मणोऽंतर्णीतण्यर्थाल्लुजि च्छंदस्यपि दृश्यत इत्याडागमः ॥ यूयं त्वत्परिवाराश्च सर्वे यूयं नोऽस्मान् सदा स्वस्तिभिः पातेत्येवमीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength, we Vasiṣṭhas ask you, the lord of treasures, that for our praisers, who are rich in oblations, you quickly now bring food, that is, cause it to reach them. And you, together with your retinue, all of you, protect us always with blessings: thus we ask, that is, we beg.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to the praisers
+- मघवद्भ्यः (*maghavadbhyaḥ*)—possessed of food in the form of oblations, to our company of people
+- इषं (*iṣaṃ*)—food
+- म (*ma*)—quickly **NOTE**
+- आनट् (*ānaṭ*)—provide, thus
+- यूयं (*yūyaṃ*)—you and the gods of your retinue
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect, thus
+- वसूनां (*vasūnāṃ*)—of treasures
+- ईशानं (*īśānaṃ*)—the lord
+- त्वां (*tvāṃ*)—you
+- वसिष्ठाः (*vasiṣṭhāḥ*)—we, born in the line of Vasiṣṭha
+- ईमहे (*īmahe*)—beg
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, provide quickly food for our company of people, who are praisers and possessed of food in the form of oblations; and you and the gods of your retinue protect us continually with blessings: thus we, born in the line of Vasiṣṭha, beg you, the lord of treasures.
+
+### Printed p. 723
+
+##### English translation
+We Vasishthas implore you, Agni, son of strength, the lord of treasurers, that you will quickly bestow food upon your adorers who are affluent (in oblations), and do you ever cherish us with blessings.
+
+## Sūkta 8 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंधे राजेति सप्तर्चमष्टमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाग्नेयं ।
+> इंधे राजेत्यनुक्रांतं ॥ प्रातरनुवाकाशिनशस्त्रयोर्विनियोगः ॥ आतिथ्यायां
+> प्रपायमग्निरिति स्विष्टकृतो याज्या । सूत्रितं च । प्रपायमग्निर्भरतस्य शृण्व इति
+> संयाज्ये । आ. ४-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इंधे राजेति (*iṃdhe rājeti*), of seven ṛks, is the eighth sūkta; it is the vision of Vasiṣṭha, in the Triṣṭubh metre, addressed to Agni. The Anukramaṇikā says: इंधे राजेत्यनुक्रांतं (*iṃdhe rājetyanukrāṃtaṃ*). The application is for the Prātaranuvāka and the Āśvina-śastra. In the Ātithya (iṣṭi), प्रपायमग्निरिति (*prapāyamagniriti*) is the yājyā of the Sviṣṭakṛt. And it is stated in the sūtra: प्रपायमग्निर्भरतस्य शृण्व इति संयाज्ये (*prapāyamagnirbharatasya śṛṇva iti saṃyājye*) (Ā. 4-5).
+
+##### Anuvāda
+
+This sūkta, इंधे राजा (*iṃdhe rājā*), is the eighth sūkta in the first anuvāka. In it there are seven ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; Triṣṭup is the metre. In the Anukramaṇikā it is said: इंधे राजा (*iṃdhe rājā*) and so on. The application of this sūkta is for the Prātaranuvāka and the Āśvina-śastra mantras. And in the Ātithya-iṣṭi, the fourth ṛk of this sūkta, प्रप्रायमग्निः (*praprāyamagniḥ*), is to be recited as the yājyā mantra in the Sviṣṭakṛt offering **NOTE**; this is explained by the Āśvalāyana-śrauta-sūtra: प्रप्रायमग्निर्भरतस्य शृण्व इति संयाज्ये (*praprāyamagnirbharatasya śṛṇva iti saṃyājye*).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 8
+- Aṣṭaka 5; Adhyāya 2; Varga 11
+- Number of ṛks in the sūkta: 7
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इं॒धे राजा॒ सम॒र्यो नमो॑भि॒र्यस्य॒ प्रती॑क॒माहु॑तं  ॒॑
+> घृतेन ।  
+> नरो॑ ह॒व्येभि॑रीळते स॒बाध॒ आग्निरग्र॑ उ॒षसा॑मशोचि ॥ १ ॥
+
+### Printed p. 724
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंधे । राजा । सं । आर्यः । नमःभिः । यस्य । प्रतीकं । आहुतं । घृतेन ।  
+> नरः । हव्येभिः । ईळते । सबाधः । आ । अग्निः । अग्रे । उषसां । अशोचि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> राजा दीपोऽर्यः स्वामी हविषां प्रेरको वाग्निर्नमोभिः स्तुतिभिः सह
+> समिंधे । समिध्यते । यस्याग्नेः प्रतीकं रूपं धृतेनाहुतं भवति । यं च
+> नरोऽस्मदीयाः सबाधः संश्लिष्टाः संजातबाधा वा हव्येभिर्हवैः सार्धमीळते
+> स्तुवंति सोऽग्निरुषसामग्र आशोचि । आदीप्यते ॥
+
+##### Gist of the bhāṣya
+
+The king, the shining one, the lord, or the impeller of the oblations, Agni, is kindled together with praises. Of whom, of Agni, the form is offered with ghee **NOTE**; and whom our men, united or afflicted by troubles, praise with oblations: that Agni has been lit before the dawns.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजा (*rājā*)—the shining one
+- अर्यः (*aryaḥ*)—the lord, Agni
+- नमोभिः (*namobhiḥ*)—together with praises
+- समिंधे (*samiṃdhe*)—is kindled
+- यस्य (*yasya*)—of which Agni
+- प्रतीकं (*pratīkaṃ*)—the form
+- धृतेन (*dhṛtena*)—with ghee
+- आहुतं (*āhutaṃ*)—is offered
+- यं (*yaṃ*)—whom
+- नरः (*naraḥ*)—our people
+- सबाधः (*sabādhaḥ*)—gathered together
+- हव्येभिः (*havyebhiḥ*)—with oblations
+- ईळते (*īḷate*)—worship
+- अग्निः (*agniḥ*)—that same Agni
+- उषसां (*uṣasāṃ*)—of the dawns
+- आग्रे (*āgre*)—at the time of appearing
+- आ अशोचि (*ā aśoci*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the shining one and the lord, is kindled together with praises. Agni, whose form is offered with ghee, whom all our people, gathered together, worship with oblations, shines at the time of the appearing of the dawns.
+
+##### English translation
+The royal (Agni), the master (of the sacrifice), is kindled with praises, he whose person is invoked with (offerings) of butter, whom men associated worship with oblations, Agni, who is lighted before the dawn.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमु॒ ष्य सुम॑हा अवेदि॒ होता॑ मं॒द्रो मनु॑षो  
+> य॒हो अ॒ग्निः ।  
+> वि भा अ॑कः सस्यजा॒नः पृ॑थि॒व्यां कृ॒ष्णप॑वि॒रोष॑धीभिर्ववक्षे ॥ २ ॥
+
+### Printed p. 725
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आयं । ऊं इति । स्यः । सुमहान् । अवेदि । होता । मंद्रः । मनुषः । यह्वः ।  
+> अग्निः ।  
+> वि । भाः । अकरित्यकः । ससृजानः । पृथिव्यां । कृष्णपविः । ओषधीभिः । ववक्षे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्य सोऽयं होता देवानामाह्वाता मंद्रो मदयिता यहो
+> महानग्निर्मनुषो मनुष्यस्य सुमहानवेदि । सुमहत्वेन प्रज्ञायते । अपि च
+> सोऽयं भा दीप्तीर्व्यकः । विकरोत्यंतरिक्षे । किं च सोऽयं कृष्णपविः कृष्णमार्गॊऽग्निः पृथिव्यां ससृजानः सृज्यमानः सन्नोषधीभिर्ववक्षॆ । वर्धते ॥
+
+##### Gist of the bhāṣya
+
+This Agni, the hotṛ, the invoker of the gods, mandra, the gladdener, yahva, the great, is known to man as very great; he is known by his great greatness. Moreover this same one spreads out his lights in the atmosphere. Further, this Agni, dark-pathed, being created on the earth, grows with the plants.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होता (*hotā*)—the one who invokes the gods to the sacrifice
+- मंद्रः (*maṃdraḥ*)—the giver of delight
+- यह्वः (*yahvaḥ*)—the great one
+- स्यः (*syaḥ*)—the famous
+- अयं अग्निः (*ayaṃ agniḥ*)—this Agni
+- मनुष्यः (*manuṣyaḥ*)—by men
+- सुमहान् (*sumahān*)—as the one of exceeding greatness
+- अवेदि (*avedi*)—has been known
+- आयं (*āyaṃ*)—this Agni
+- भाः (*bhāḥ*)—his rays
+- वि आकः (*vi ākaḥ*)—has spread widely
+- कृष्णपविः (*kṛṣṇapaviḥ*)—this Agni with the dark path
+- पृथिव्यां (*pṛthivyāṃ*)—on the earth
+- सस्यजानः (*sasyajānaḥ*)—having been born
+- ओषधीभिः (*oṣadhībhiḥ*)—by the plants (the pieces of wood), grows
+
+##### भावार्थ (Bhāvārtha)
+
+This Agni, who invokes the gods to the sacrifice, the giver of delight, the great and famous one, has been known by men as one of exceeding greatness. This Agni, with the dark path, having been born on the earth, increases through the plants (the pieces of wood).
+
+##### English translation
+This great Agni has been known amongst men as the invoker (of the gods), the giver of delight, the mighty : he has spread light (in the firma-ment), he the dark-pathed at large upon the earth, is nourished by the plants.
+
+### Printed p. 726
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कया॑ नो अग्ने॒ वि व॑सः सुवृ॒क्तिं कामु॑ स्व॒धामृ॑णवः श॒स्यमा॑नः ।  
+> क॒दा भ॑वेम॒ पत॑यः सुदत्र रा॒यो वं॒तारो॑ दु॒ष्टर॑स्य  ॒
+> साधोः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कया । नः । अग्ने । वि । वसः । सुवृक्तिं । कां । ऊं इति । स्वधां । ऋणवः । शस्यमानः ।  
+> कदा । भवेम । पतॆयः । सुदत्र । रायः । वंतारः । दुस्तरस्य । साधोः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं कया स्वधया हविषा नोऽस्माकं सुवृक्तिं स्तुतिं वि वसः ।
+> व्याप्नुषे आच्छादयसि वा । कामु कां च स्वधां शस्यमानः स्तूयमानस्त्वमृणवः ।
+> प्राप्नुयाः । हे सुदत्र शोभनदानाग्ने । तथा च यास्कः । सुदत्रः कल्याणदानः ।
+> नि. ६-१४ । इति । वयं कदा दुष्टरस्य शत्रुभिर्दुर्हिंसकस्य साधोः समीचीनस्य
+> रायो धनस्य पतयः स्वामिनो भवेम । वंतारः संभक्तारश्च कदा भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Agni, with what svadhā, that is, what oblation, do you pervade or cover our eulogy, our praise? And being praised, which svadhā would you obtain? O Sudatra, O Agni of good gifts: so Yāska also says, सुदत्रः कल्याणदानः (*sudatraḥ kalyāṇadānaḥ*) (Ni. 6-14). When shall we become lords of wealth that is hard to be harmed by enemies and excellent, and when shall we be its enjoyers?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- सुवृक्तिं (*suvṛktiṃ*)—excellent praise
+- कया (*kayā*)—with which oblation
+- वि वसः (*vi vasaḥ*)—do you cover
+- शस्यमानः (*śasyamānaḥ*)—you who are to be praised
+- कामु स्वधां (*kāmu svadhāṃ*)—which oblation
+- ऋणवः (*ṛṇavaḥ*)—do you wish to obtain
+- सुदत्र (*sudatra*)—O excellent giver
+- वयं (*vayaṃ*)—we
+- कदा (*kadā*)—when
+- दुष्टरस्य (*duṣṭarasya*)—not to be struck down by enemies **NOTE**
+- साधोः (*sādhoḥ*)—pure
+- रायः (*rāyaḥ*)—of wealth
+- पतॆयः (*patèyaḥ*)—lords
+- वंतारः (*vaṃtāraḥ*)—enjoyers
+- भवेम (*bhavema*)—shall we become
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, with which oblation do you cover our excellent praise? Which oblation do you, who are to be praised, wish to obtain? O excellent giver, when shall we become the lords of wealth that is not to be struck down by enemies and is pure, and its enjoyers?
+
 ---
 
-**Progress note:** Done through printed p. 720. Sūkta 7 Ṛks 1-6 (pp. 715-720)
+**Progress note:** Done through printed p. 726. Sūkta 7 Ṛk 6-7, Sūkta 8 Ṛk 1-3 (pp. 721-726)
