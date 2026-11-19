@@ -11,6 +11,7 @@ TASK.md is built by `publish/bhashya_book.py VOL --task M.S`. Checks:
   - no Devanagari outside ⟦ ⟧; no stray ⟦ or ⟧;
   - every numbered reference (2-3-4, 5.10) stands with the same numbers in that unit's block;
   - no Sanskrit gloss typed in Roman letters inside brackets, e.g. (ramate, krīḍati): it must be copied with ⟦ ⟧;
+  - no citation that swallows Sāyaṇa's own connecting words (…शब्दस्य, …प्रत्ययः, …आदेशः, इत्यस्य, इत्यस्मात्);
   - an optional last section `## Readings` (misread words of the supplied text and the reading translated), one
     line each: `- Ṛk N: ⟦supplied⟧ → reading adopted — basis`.
 Prints the size of each unit (bhāṣya words → English words) and VERIFIED, or the faults and exit 1.
@@ -26,6 +27,9 @@ REF = re.compile(r'(?<![\w.-])\d+(?:[-.–]\d+)+(?![\w-])')
 DIAC = re.compile('[āīūṛṝḷṅñṭḍṇśṣṃḥ]')
 ENGLISH = set('the of a an in is that or and to with by for as its it this are be from on at his he who which not i e'.split())
 TO_DEVA = str.maketrans('0123456789', '०१२३४५६७८९')
+
+
+PROSE = re.compile('शब्द|प्रत्यय|आदेश|इत्यस्य|इत्यस्मा')     # Sāyaṇa's connecting prose inside a citation
 
 
 def roman_gloss(body):
@@ -97,6 +101,9 @@ def main():
         for q in quotes:
             if SQUEEZE.sub('', q).replace('-', '') not in u['deva'].replace('-', ''):      # a line-end hyphen of the supplied text does not count
                 faults.append(f'{h}: ⟦{q[:50]}⟧ is not in this unit letter for letter')
+        for q in quotes:
+            if PROSE.search(q):
+                faults.append(f'{h}: ⟦{q[:60]}⟧ takes in Sāyaṇa\'s own words (…शब्द…, …प्रत्यय…, …आदेश…, इत्यस्य, इत्यस्मात्): cite only the word or the rule itself and say the rest in English; if the rule cannot be cut out clean, give it in English without ⟦ ⟧')
         outside = re.sub(r'⟦.*?⟧', '', body, flags=re.S)
         m = DEVA.search(outside)
         if m: faults.append(f'{h}: Devanagari outside ⟦ ⟧ near "{outside[max(0, m.start() - 25):m.start() + 15].strip()}"')
