@@ -30086,6 +30086,169 @@ May the Cows be (for our) affluence : may Indra grant me cattle : may the cows y
 > यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा  ॒॑
 > सुप्रतीकं ।
 
+### Printed p. 841
+
+> भद्रं गृहं कृणुथ भद्रवाचो बृहद्वॊ वय उच्यते
+> सभासु ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । गावः । मेधयथ । कृशं । चित् । आश्रीरं । चित् । कृणुथ सुप्रतीकं ।  
+> भद्रं । गृहं । कृणुथ भद्रवाचः । बृहत् । वः । वयः । उच्यते । सभासु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गावो यूयं मेदयथ । आप्यायनं कुरुथेत्यर्थः । तथा कृशं चित्
+> क्षीणमप्यश्रीरं चिदमंगलमपि सुप्रतीकं शोभनांगं कृणुथ । कुरुथ । हे
+> भद्रवाचः कल्याणध्वन्युपेता गावोऽस्मदीयं गृहं भद्रं कल्याणं कृणुथ ।
+> गोभिरुपेतं कुरुथ । सभासु यागपरिषत्तु हे गावो युष्माकं :बृहन्महद्वयोऽन्नमुच्यते । सर्वैर्दीयत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O cows, you medayatha, that is, you cause nourishment, you make plump. Likewise, even one that is emaciated, that is, wasted, and even one that is unlovely, inauspicious, you make suprātīka, beautiful of limb. O cows bhadravācaḥ, endowed with auspicious sound, make our house bhadra, auspicious: make it provided with cows. In the assemblies, the gatherings at the sacrifice, O cows, your great vayas, your abundant food, is spoken of: the meaning is that it is given by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावः (*gāvaḥ*)—O cows
+- ययं (*yayaṃ*)—you
+- मोदयथ (*modayatha*)—cause joy **NOTE**
+- कृशं चित् (*kṛśaṃ cit*)—even if it is wasted
+- अश्रीरं चित् (*aśrīraṃ cit*)—even if it is unlovely
+- सुप्रतीकं कृणुथ (*supratīkaṃ kṛṇutha*)—make such limbs of ours shapely
+- भद्रवाचः (*bhadravācaḥ*)—O cows, whose sounds are auspicious
+- गृहं (*gṛhaṃ*)—our house
+- भद्रं (*bhadraṃ*)—prosperous
+- कृणुथ (*kṛṇutha*)—make
+- सभासु (*sabhāsu*)—in the assemblies of the sacrifice
+- बृहत् (*bṛhat*)—abundant
+- वयः (*vayaḥ*)—food
+- वः (*vaḥ*)—to you
+- उच्यते (*ucyate*)—is offered
+
+##### भावार्थ (Bhāvārtha)
+
+O cows, cause us joy. Even if our limbs are wasted and unlovely, make such limbs of ours shapely. O cows, whose sounds are auspicious, make our house prosperous. Abundant food is offered to you in the assemblies of the sacrifice.
+
+##### English translation
+Do you, Cows, give us nourishment : render the emaciated, the unlovely body the reverse : do you, whose lowing is the auspicious, make my dwelling prosperous : great is the abundance that is attributed to you in religious assemblies.
+
+### Printed p. 842
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒जाव॑तीः सू॒यव॑सं रि॒शंतीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिबं॑तीः।  
+> मा वः॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो हे॒ती रु॒द्रस्य॑ वृज्याः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रजावतीः । सुयवसं । रिशंतीः । शुद्धाः । अपः । सुप्रपाने । पिबंतीः ।  
+> मा । वः । स्तेनः । ईशत । मा । अघशंसः । परि । वः । हेतिः । रुद्रस्य । वृज्या ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गावो यूयं प्रजावतीः प्रजावत्यो वत्साभिर्युक्ता भवतेति शेषः ।
+> सुयवसं शोभनतृणं रिशंती रिशंत्यो भक्षणार्थं हिंसंत्यो भवत । सुप्रपाणे
+> सुखेन पातव्ये तटाकादौ शुद्धा निर्मला अप उदकानि पिबंतीः पिबंत्यश्च भवत ।
+> वो युष्मान् स्तेनस्तस्करो मेशत । मेशिष्ट । ईश्वरो मा भूत् । तथाप्यघशंसो
+> व्याघ्रादिः शत्रुर्मेशत । अपि च वो युष्मान्द्रस्य कालात्मकस्य परमेश्वरस्य
+> हेतिरायुधं च परि वृज्याः । परिवृणक्तु । परिहरतु ॥
+
+##### Gist of the bhāṣya
+
+O cows, be prajāvatīḥ, accompanied by calves; the verb "be" is understood. Be grazing on good grass, devouring it for food. Be also drinking pure, clean waters at a place easily drunk from, a pond or the like. May a thief, a robber, not become master over you. Likewise may a beast of prey, a tiger or the like, an enemy, not rule over you. Further, may the weapon of Rudra, the Supreme Lord, who is of the nature of time, turn away from you, avoid you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रजावतीः (*prajāvatīḥ*)—O cows, be accompanied by calves
+- सुयवसं (*suyavasaṃ*)—the choicest grass
+- रिशंतीः (*riśaṃtīḥ*)—go on grazing
+- सुप्रपाणे (*suprapāṇe*)—in a pond fit for drinking at ease
+- शुद्धाः (*śuddhāḥ*)—clean
+- अपः (*apaḥ*)—the waters
+- पिबंतीः (*pibaṃtīḥ*)—go on drinking
+- वः (*vaḥ*)—to you
+- स्तेनः (*stenaḥ*)—the thief
+- मा ईशत (*mā īśata*)—may he not become master
+- अघशंसः (*aghaśaṃsaḥ*)—tigers and the like that cause you harm
+- मा (*mā*)—may they not injure you
+- वः (*vaḥ*)—you
+- रुद्रस्य (*rudrasya*)—of Rudra
+- हेतिः (*hetiḥ*)—the weapon
+- परि वृज्याः (*pari vṛjyāḥ*)—may it not encompass you, may it not fall upon you
+
+##### भावार्थ (Bhāvārtha)
+
+O cows, be accompanied by your calves. Go on grazing the choicest grass. Go on drinking clean waters in a pond fit for drinking at ease. May a thief not become your master. May tigers and the like that cause you harm not injure you. May the weapon of Rudra not fall upon you.
+
+### Printed p. 843
+
+##### English translation
+May you, Cows, have many calves grazing upon food pasture, and drinking pure water at accessible ponds : may no thief be your master : no beast of prey (assail you), and may the (fatal) weapon of Rudra avoid you.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उपे॒दमु॑प॒पर्च॑नमा॒सु गोषूप॑ पृच्यतां ।  
+> उप॑ ऋष॒भस्य॒ रेत॒स्युपें॑द्र॒ तव॑ वी॒र्ये॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । इदं । उपपर्चनं । आसु । गोषु । उप । पृच्यतां ।  
+> उप । ऋषभस्य । रेतसि । उप । इंद्र । तव । वीर्ये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आसु गोष्टिदमुपपर्चनमाप्यायनमुप पृच्यतां । संपृच्यतां । हे इंद्र
+> शव वीर्ये त्वदीयवीर्ये निमित्त ऋषभस्य गवां गर्भमादधानस्य वृषभस्य
+> रेतसीदमुपपर्चनमाप्यायनं । गोषु ह्याप्यायितासु सतीषु तत्संबंधिक्षीरादिहविर्द्वारेणेंद्र आप्यायितो भवतीत्यर्थः । उपेति पुनर्वचनं पादभेदानां
+> पूरणार्थमिति ॥
+
+##### Gist of the bhāṣya
+
+In these cows may this upaparcana, this nourishment, be joined. O Indra, in your vīrya, by reason of your potency, in the semen of the bull who places the embryo in the cows, there is this upaparcana, this nourishment. For when the cows are nourished, Indra is nourished through the oblations of milk and the like connected with them: this is the meaning. The repetition of upa is to fill out the pādas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आसु गोषु (*āsu goṣu*)—in these cows
+- इदं उपपर्चनं (*idaṃ upaparcanaṃ*)—this kind of nourishment
+- उप पृच्यतां (*upa pṛcyatāṃ*)—let it be prayed for
+- इंद्र (*iṃdra*)—O Indra
+- तव (*tava*)—your
+- वीर्ये (*vīrye*)—for the display of power
+- ऋषभस्य (*ṛṣabhasya*)—of the bull
+- रेतसि (*retasi*)—in the semen let there be virility
+
+##### भावार्थ (Bhāvārtha)
+
+Let it be prayed that the nourishment spoken of above be in these cows. O Indra, for the increase of your power, let there be virility in the semen of the bull.
+
+### Printed p. 844
+
+##### English translation
+Let the nourishment of Cows be solicited, let the vigour of the bull (be requsted), Indra, for your invigoration.
+
+##### विशेषविषयगळु (Special Topics)
+
+Since there is nourishment in the cattle, that is, in the cows, they yield milk in abundance. From milk, curds, ghee and the like come about, and the ghee (ājya) used in sacrifices and the like is obtained. By offering oblations with ājya and the like to Indra and the other deities, those deities are satisfied. For this reason it is prayed that there be nourishment in the cows. And since cows yield milk for some time only after they have calved, the matter that there be virility in the bull for the sake of calving is also stated here. For the increase of the progeny of cows it is necessary that there be virility in the semen of the bull. In the same way, for milk and the like to be obtained abundantly for the sacrifice, it is necessary that the cows calve and be well nourished. Therefore it is explained clearly in this Ṛk that both these works are very necessary, and that they come about only through the strength and power of Indra.
+
+**Colophon**
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्क भूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये चतुर्थाष्टके षष्ठोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukka bhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye caturthāṣṭake ṣaṣṭho 'dhyāyaḥ samāptaḥ ‖*) **GLOSS**
+
+ओं तत्सत् (*oṃ tatsat*)
+
+Here ends the sixth adhyāya, in the fourth aṣṭaka, of the Ṛgveda-saṃhitā, with the Sāyaṇa-bhāṣya and the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS**
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+मंगळं (*maṃgaḷaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 840. Sukta 28 Rks 1-5, Rk 6 start (pp. 835-840)
+**Progress note:** Done through printed p. 844. Sukta 28 Rks 6-8, colophon of adhyaya 6 (pp. 841-844)
