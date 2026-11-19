@@ -34219,6 +34219,356 @@ Our forefathers, Indra, glorifying you, have obtained all desirable (riches): in
 
 O Indra, you dwell with shining splendours, like a king with his wives. Moreover, O Maghavan, rich Indra, being knowing and a seer, one of surpassing deeds or of surpassing wisdom, protect us, your praisers, on every side, with beauty of form or with gold and the like, and with cows and horses. Make us, who long for you, fit for wealth. **NOTE**
 
+### Printed p. 800
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनिभिः (*janibhiḥ*)—(O Indra) accompanied by a wife
+- राजेव (*rājeva*)—like a king
+- द्युभिः (*dyubhiḥ*)—endowed with your splendours
+- क्षेष्येव हि (*kṣeṣyeva hi*)—you dwell
+- मघवन् (*maghavan*)—O Indra, possessor of wealth
+- विदुः (*viduḥ*)—knowing everything
+- कविः सन् (*kaviḥ san*)—and being of surpassing wisdom
+- गिरः (*giraḥ*)—us, who are praisers
+- पिशा (*piśā*)—with gold of attractive form
+- गोभिः (*gobhiḥ*)—with cows
+- अश्वैः (*aśvaiḥ*)—with horses
+- अभि अव (*abhi ava*)—fill and protect
+- त्वायतः (*tvāyataḥ*)—who seek your help
+- अस्मान् (*asmān*)—us
+- राये (*rāye*)—for the sake of wealth
+- शिशीहि (*śiśīhi*)—make us refined
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you dwell with your splendours like a king with his wives. O Indra, possessor of wealth, knowing everything and being of surpassing wisdom, protect us, who are praisers, filling us with gold of attractive form, with cows and with horses. Make us, who seek your help, well refined for the sake of wealth.
+
+##### English translation
+You dwell with your glories like a Raja with his wives; Maghavan, you are wise and experienced ; (reward our) praises with the precious metals, with cows, with horses : conduct us who are dependent on you for riches.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा उ॑ त्वा पस्पृधा॒नासो॒ अत्र॑ मं॒द्रा गिरो॑ देव॒यंती॒रुप॑ स्थुः ।  
+> अ॒र्वाची॑ ते प॒थ्या॑ रा॒य ए॑तु॒ स्याम॑ ते सुम॒ताविं॑द्र॒ शर्म॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ऊं इति । त्वा । पस्पृधानासः । अत्र । मंद्राः । गिरः । देवयंतीः ।  
+> उप । स्थुः ॥  
+> अर्वाची । ते । पथ्या । रायः । एतु । स्याम । ते । सुमतौ । इंद्र । शर्मन् ॥ ३ ॥
+
+### Printed p. 801
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वामत्र यज्ञे स्तोतरि वा प्रवर्तमानाः पस्पृधानासः
+> स्पर्धमाना मंद्रा मोदमाना इमा गिरः स्तुतयः उप स्थुः । उपतिष्ठंति । आतस्ते
+> तव रायो धनस्य पथ्या सृतिरर्वाच्यस्मदभिमुख्येतु । गच्छतु । हे इंद्र वयं च ते
+> सुमतौ सुष्टुतौ वर्तमानाः शर्मन् शर्मणि सुखे स्याम । भूयास्मै ॥
+
+##### Gist of the bhāṣya
+
+O Indra, these hymns of praise, going forth here in the sacrifice or to the praiser, vying with one another and delighting, approach you. Therefore may the path of your wealth turn toward us and come to us. And, O Indra, may we, abiding in your good praise, be in happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- अत्र (*atra*)—employed in this sacrifice
+- पस्पृधानासः (*paspṛdhānāsaḥ*)—vying with one another
+- देवयंतीः (*devayaṃtīḥ*)—wishing to worship the gods
+- मंद्राः (*maṃdrāḥ*)—gladdening (or productive of gladness)
+- इमा गिरः (*imā giraḥ*)—these words of praise
+- उप स्थुः (*upa sthuḥ*)—approach
+- ते (*te*)—your
+- रायः (*rāyaḥ*)—of wealth
+- पथ्या (*pathyā*)—the path
+- अर्वाची (*arvācī*)—toward us who are below
+- एतु (*etu*)—may it glide down
+- ते (*te*)—(O Indra) your
+- सुमता (*sumatā*)—we who abide in the favouring thought
+- शर्मन् (*śarman*)—in happiness
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these words of praise, employed in this sacrifice, vying with one another and productive of gladness, approach you. May the path of your wealth glide down toward us who are below you. O Indra, may we, abiding in your favouring thought, be always happy.
+
+##### English translation
+These gratifying and pious hymns, emulous (in earnestness), are addressed on this occasion to you : may the path of your riches lead down- wards: may we, Indra, (deligent) in your praise, enjoy felicity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धे॒नुं न त्वा॑ सू॒यव॑से॒ दुदु॑क्ष॒न्नुप॒ ब्रह्मा॑णि ससृजे॒ वसि॑ष्ठः ।  
+> त्वामिन्ने॒ गोप॑तिं॒ विश्व॑ आ॒हा न॒ इंद्रः॑ सुम॒तिं गं॒त्वच्छ॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धेनुं । न । त्वा । सुयवसे । दुधुक्षन् । उप । ब्रह्माणि । ससृजे । वसिष्ठः ।  
+> त्वां । इत् । मे । गोपतिं । विश्वः । आह । आ । नः । इंद्रः । सुमतिं । गंतु । अच्छ ॥
+
+### Printed p. 802
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुयवसे सुतृणे गोष्ठे वर्तमानां धेनुं न धेनुमिव सुहविष्के
+> यज्ञगृहे । दृष्टांतसामर्थ्याद्दाष्टांतिकलाभः । वर्तमानं त्वां दुधुक्सन् ॥
+> संहितायां व्यत्ययेन दकारः ॥ कामान् दोगुमिच्छन्वसिष्टो ब्रह्माणि वत्सस्थानीयानि स्तोत्राण्युप ससृजे । उपसृजते । मे मम विश्वः सर्वो जनस्मामित्तामेव
+> गोपतिं गवां स्वामिनमाह । ब्रवीति । अथ परोक्षस्तुतिः । नोऽस्माकं सुमतिं
+> सुष्टुतिमच्छाभि इंद्र आ गंतु । आगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are present in the sacrificial house with its good oblations, like a milch cow in a cowpen with good grass; by the force of the example, what is compared is understood. Vasiṣṭha, wishing to milk his desires from you, sends up hymns, which stand in the place of calves, in the form of praises. Every one of my people calls you alone the lord of cows. Then comes praise in the third person: may Indra come to our good praise. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुयवसे (*suyavase*)—(O Indra) in the cowpen with excellent grass
+- धेनुं न (*dhenuṃ na*)—you who are like a cow with abundant milk
+- त्वा (*tvā*)—you
+- दुधुक्सन् (*dudhuksan*)—with the wish to milk out the desired objects
+- वसिष्ठः (*vasiṣṭhaḥ*)—Vasiṣṭha
+- ब्रह्माणि (*brahmāṇi*)—hymns
+- उप सस्यजे (*upa sasyaje*)—has offered
+- मे (*me*)—my kinsmen
+- विश्वः (*viśvaḥ*)—all the people
+- त्वा इत् (*tvā it*)—you alone
+- गोपतिं (*gopatiṃ*)—as lord of cows
+- आह (*āha*)—are saying
+- नः (*naḥ*)—our
+- सुमतिं अच्छ (*sumatiṃ accha*)—toward the excellent praise
+- इंद्रः (*iṃdraḥ*)—Indra
+- आ गंतु (*ā gaṃtu*)—may he come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are like a cow with abundant milk in a cowpen with excellent grass: Vasiṣṭha, with the wish to milk out his desired objects, has offered hymns to you. O Indra, all my kinsmen too say that you alone are the lord of all cows. May Indra come toward our excellent praise.
+
+##### English translation
+Desirous of milking you like a milch cow at pasture, Vasishtha has let loose his prayers to you : every one of my people proclaims you the lord of cattle : may Indra be present at our praises.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्णां॑सि चित्पप्रथा॒ना सु॒दास॒ इंद्रो॑ गा॒धान्य॑कृणोत्सुपा॒रा ।  
+> शर्धं॑तं शि॒म्युमु॒चथ॑स्य॒ नव्यः॒ शापं॒ सिंधू॑नामकृणो॒दश॑स्त्रीः ॥ ५ ॥
+
+### Printed p. 803
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्णांसि । चित् । पप्रथाना । सुदासे । इंद्रः । गाधानि । अकृणोत् । सुपारा ॥  
+> शर्धंतं । शिम्मुं । उचथस्य । नव्यः । शापं । सिंधूनां । अकृणोत् । अशस्तिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नव्यः स्तुत्य इंद्रोऽर्णांसि शत्रुभिर्विदारितायाः परुष्या उदकानि पप्रथाना
+> चित् प्रथमानान्यपि सुदासे राज्ञे गाधानि सुपारा सुपाराणि पारयितुं तर्तुं
+> योग्यानि चाकृणोत् । अकरोत् । अपि च शर्धंतमुत्साहमानं शिम्युं बोधमानं
+> शापं विश्वरूपोदभवमात्मनोऽभिशापमुशस्त्री रभिशस्त्री श्चोचथस्य स्तोतुः सिंधूनां
+> नदीनामकृणोत् । अकरोत् ॥
+
+##### Gist of the bhāṣya
+
+The adorable Indra made the waters of the Paruṣṭi, torn by enemies and well known as they were, fordable and easy to cross for King Sudās. Moreover he made the vehement, awakening curse, and the imprecations of the praiser, those of the rivers. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नव्यः (*navyaḥ*)—the adorable
+- इंद्रः (*iṃdraḥ*)—Indra
+- पप्रथाना (*paprathānā*)—well known
+- गाधानि (*gādhāni*)—and exceedingly deep
+- अर्णांसि चित् (*arṇāṃsi cit*)—even the waters of the river Paruṣṭi
+- सुदासे (*sudāse*)—for the king named Sudās
+- सुपारा (*supārā*)—so as to be easily crossed
+- अकृणोत् (*akṛṇot*)—made
+- शर्धंतं (*śardhaṃtaṃ*)—powerful
+- शिम्युं (*śimyuṃ*)—and harmful
+- शापं (*śāpaṃ*)—the curse
+- आशस्तीः (*āśastīḥ*)—and the expression of displeasure
+- उचथस्य (*ucathasya*)—for the share of the praiser
+- सिंधूनां (*siṃdhūnāṃ*)—so as to be changed into rivers
+- अकृणोत् (*akṛṇot*)—made
+
+##### भावार्थ (Bhāvārtha)
+
+The adorable Indra made even the well-known and exceedingly deep waters of the river Paruṣṭi easy to cross. He made the powerful and harmful curse and the expression of displeasure be changed, for the share of the praiser, into rivers.
+
+##### English translation
+The adorable Indra made the well-known deep waters (of the Parushni) fordable for Sudas, and converted the vehement awakening imprecation of the sacrificer into the calumniation of the rivers.
+
+### Printed p. 804
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रो॒ळा इत्तु॒र्वशो॒ यक्षु॑रासीद्रा॒ये मत्स्या॑सो॒ निति॑ता॒  ॑
+> अपीव ।  
+> श्रु॒ष्टिं च॑क्रु॒र्भृग॑वो द्रु॒ह्यव॑श्च॒ सखा॒ सखा॑यमतर॒द्विषू॑चोः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरोळाः । इत् । तुर्वशः । यक्षुः । आसीत् । राये । मत्स्यासः । निशिताः ।  
+> अपि इव ॥  
+> श्रुष्टिं । चक्रुः । भृगवः । द्रुह्यवः । च । सखा । सखायं । आतरत् । विषूचोः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यक्षुर्यज्ञकुशलः ॥ यजेः सन्प्रत्ययो न तु सनंतः । अतो न द्विर्भावः ॥
+> पुरोळाः पुरोगामिा पुरोदाता वा । इदिति पूरणः । तुर्वशो नाम राजासीत् ।
+> स तुर्वशो राये धनप्राप्तॆय इंद्रस्य सखायं सुदासं जगाम । मत्स्यास इव
+> जले निहिता मत्सा इव निशिता नियंत्रिता अपि भृगवो द्रुह्यवश्च योधाश्च
+> सुदासस्तुर्वशस्य च श्रुष्टिमाशुप्राप्तिं चक्रुः । विषूचोर्विष्वगंचतोरुभयोर्मध्यॆ सखा सुदासश्चेंद्रः सखायं सुदासमतरत् । आतारयत् । तुर्वशं
+> चावधीदित्यर्थः । यद्वा । यक्षुर्यज्ञशीलः पुरोळाः पुरोदाता तुर्वशो नाम
+> राजासीत् । तेन मत्स्यासो मत्स्यजनपदा निशिता बाधिता आसन् । अपि च भृगवो
+> द्रुह्यवश्च श्रुष्टिं सुखं तुर्वशस्य चक्रुः । विषूचोर्विष्वगंचतोरुभयोर्मध्यॆ
+> सखा तुर्वशस्य सखेंद्रः सखायं राजानमतरत् । आतारयत् ॥
+
+##### Gist of the bhāṣya
+
+"Yakṣu" means skilled in sacrifice. "Puroḷā" means going in front, or giving in front. There was a king named Turvaśa. That Turvaśa went to Sudās, the friend of Indra, for the gaining of wealth. Like fishes placed in water, restrained, the Bhṛgus and the Druhyus, warriors, brought about a swift attack of Sudās and Turvaśa. Between the two, moving in opposite directions, Indra, the friend of Sudās, carried his friend Sudās across, and slew Turvaśa; this is the meaning. Or else: Turvaśa, devoted to sacrifice and giving in front, was a king; by him the fish-peoples were oppressed. The Bhṛgus and the Druhyus made happiness for Turvaśa. Between the two, moving in opposite directions, Indra, the friend of Turvaśa, carried his friend the king across. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यक्षुः (*yakṣuḥ*)—skilled in sacrificial rites
+- पुरोळाः इत् (*puroḷāḥ it*)—and going in front
+- तुर्वशः आसीत् (*turvaśaḥ āsīt*)—there was a king named Turvaśa
+- राये (*rāye*)—(he went to Sudās) for gaining wealth (for seizing wealth)
+- मत्स्यास इव (*matsyāsa iva*)—like fishes placed in water
+- विशिशा अपि (*viśiśā api*)—though restrained **NOTE**
+- भृगवः (*bhṛgavaḥ*)—the Bhṛgus
+- द्रुह्यवश्च (*druhyavaśca*)—and the Druhyus also
+- श्रुष्टिं (*śruṣṭiṃ*)—mutual fighting
+
+### Printed p. 805
+
+- चक्रुः (*cakruḥ*)—did
+- विषूचोः (*viṣūcoḥ*)—between Turvaśa and Sudās, who were moving about on all sides
+- सखा (*sakhā*)—Indra, the friend of Sudās
+- सखायं (*sakhāyaṃ*)—Sudās, his friend
+- आतरत् (*ātarat*)—carried across from that fight
+
+##### भावार्थ (Bhāvārtha)
+
+There was a king named Turvaśa, skilled in sacrificial rites and going in front. He went against the king named Sudās to seize wealth. Then the Bhṛgus and the Druhyus began to fight one another like fishes in water. Then, between Turvaśa and Sudās, who were moving about around the army, Indra made his friend Sudās cross over (saved him) from that fight.
+
+##### English translation
+Turvasha, who was preceding (at solemn rites), diligent in sacrifice (went to Sudas) for wealth; but like fishes restricted (to the element of water), the Bhrigus and Druhyus quickly assailed them: of these two everywhere going, the friend (of Sudas Indra) rescued his friend.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॒क्थासो॑ भला॒नसो॑ भनं॒तालि॑नासो विषा॒णिनः॑ शि॒वासः॑ ।  
+> आ योऽन॑यत्सध॒मा आर्य॑स्य ग॒व्या तृत्सु॑भ्यो अजगन्यु॒धा  
+> न्नन् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पक्थासः । भलानसः । भनंत । अ । अलिनासः । विषाणिनः । शिवासः ॥  
+> आ । यः । अनयत् । सध्माः । आर्यस्य । गव्या । तृत्सुभ्यः । अजगन् । युधा ।  
+> स्वर्न् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पक्कासः पक्का हविषां पाचका भलानसो भद्रमुखाः । भलेति भद्रवाची ।
+> अलिनासोऽलिनाः । तपोभिरप्रवृद्धा इत्यर्थः । विषाणिनः कंडूयनार्थं कृष्णविषाणहस्ताः । दीक्षिता इत्यर्थः । शिवासः शिवा यागादिना सर्वस्य लोकस्य शिवकराः । यागेन
+> हि शिवं भवति लोकस्य । आ भनंत । अभिष्टुवंति तमिंद्रं । भनतिः शब्दकर्मा नौति
+
+### Printed p. 806
+
+> भनतीति शब्दकर्मसु पाठात् । य इंद्रः सधमाः । सोमपानेन सह माद्यतीति
+> सधमादः । सधमाद एव सधमाः । आर्यस्य कर्मशीलस्य गव्या गोसंघान् तृत्तुभ्यो
+> हिंसकेभ्य आनयत् । अजगन् अजगत् स्वयं च गोसंघान् लेभे । युधा युद्धेन
+> तान्नवान् शत्रून् जघान चेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"Pakthāsaḥ" are those who cook the oblations. "Bhalānasaḥ" are those with auspicious faces, "bhala" being a word for auspicious. "Alināsaḥ" are the "alinaḥ", that is, those not grown great by austerities. "Viṣāṇinaḥ" are those who hold a black antelope horn in the hand for scratching; the meaning is that they are the initiated. "Śivāsaḥ" are those who bring welfare to the whole world by sacrifice and the like, for by sacrifice the world has welfare. They praise that Indra; "bhanati" is a verb of sound, since it is read among the verbs of sound. That Indra is "sadhamāḥ": he who rejoices together with the drinking of Soma is "sadhamāda", and "sadhamāda" itself is "sadhamāḥ". For the Ārya, who is devoted to rites, he brought herds of cows from the violent ones; he himself also obtained herds of cows; and, as the remainder of the sentence, he slew those enemies in battle. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- सधमाः (*sadhamāḥ*)—satisfied with the drinking of Soma
+- आर्यस्य (*āryasya*)—for the Ārya devoted to rites
+- गव्या (*gavyā*)—herds of cows
+- तृत्सुभ्यः (*tṛtsubhyaḥ*)—from the violent enemies
+- आ अनयत् (*ā anayat*)—brought back, having freed them
+- यः (*yaḥ*)—(who)
+- अजगन् (*ajagan*)—himself obtained the herd of cows
+- युधा (*yudhā*)—in battle
+- नृन् (*nṛn*)—killed the enemies; such (Indra)
+- पक्वासः (*pakvāsaḥ*)—those who cook the oblation
+- भलानसः (*bhalānasaḥ*)—those who make the auspicious sound of recitation
+- अलिनासः (*alināsaḥ*)—those without great faith in austerity
+- विषाणिनः (*viṣāṇinaḥ*)—those who hold in the hand the antelope horns that signify initiation
+- शिवासः (*śivāsaḥ*)—sacrificers and others who bring welfare to the world by sacrifices and the like
+- आ भवंत (*ā bhavaṃta*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who, satisfied with drinking Soma, brought back for the Ārya devoted to rites the herds of cows, freeing them from the violent enemies, who himself obtained the herd of cows, and who slew the enemies in battle: him do those who cook the oblation, those whose mouths make the auspicious sound of recitation, those who hold back from austerity, those who hold in the hand the antelope horn that signifies initiation, and those who bring welfare to the world by sacrifices and the like, the sacrificers and others, worship.
+
+##### English translation
+Those who dress the oblation, those who pronounce auspicious words, those who abstain from penance, those who bear horns (in their hands), those who bestow happiness (on the world by sacrifice), glorify that Indra, who recovered the cattle of the Arya from the plunderers, who slew the enemies in battle.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दु॒रा॒ध्यो॒३॒॑३ अदि॑तिं स्रे॒वयं॑तोऽचे॒तसो॒ वि ज॑गृभ्रे॒ परु॑षीं।  
+> म॒ह्ना वि॑व्यक्पृथि॒वीं सत्य॑मानः प॒शुष्क॒विर॑शय॒च्चाय॑मानः ॥
+
+### Printed p. 807
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दुःआध्यः । आदितिं । स्रेवयंतः । अचेतसः । वि । जगृभ्रे । परुष्णीं ।  
+> मह्ना । अविव्यक् । पृथिवीं । पत्यमानः । पशुः । कविः । अशयत् । चायमानः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दुराध्यो दुष्टाभिसंधयोऽचेतसो मंदमतयः सुदासः शत्रुवोऽदितिमदीनां परुष्णीं नदीं स्रेवयंतो वि जगृभे । विग्रहः कूलभेदः । तमकुर्वन् ।
+> परुष्ठ्याः कूलं बिभिदुरित्यर्थः । स सुदासो महेंद्रप्रसादलब्धेन महिम्ना
+> पृथिवीमविव्यक् । तदैव नाप्नोत् । न पुनरुदकेनाबाध्यत । ततः सुदासः शत्रुश्चायमानश्चयमानस्य पुत्रः कविः कविनामा पत्यमानः पलायमानः पशुर्यागे संज्ञप्तः
+> पशुरिवाशयत् । अशेत । सुदासा निहत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The enemies of Sudās, of evil intent and dull minds, making the river Paruṣṇī flow, broke its banks. They did that: that is, they split the bank of the Paruṣṇī. That Sudās, with the greatness gained through Indra's grace, covered the earth; he was not afterwards hindered by the water. **NOTE** Then the enemy of Sudās, Kavi by name, the son of Cayamāna, fleeing, lay down like an animal slain at a sacrifice; the meaning is that he was killed by Sudās.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दुराध्यः (*durādhyaḥ*)—those of evil intent
+- अचेतकः (*acetakaḥ*)—and devoid of wisdom, the enemies of Sudās
+- अदितिं (*aditiṃ*)—in full flood
+- परुष्ठीं (*paruṣṭhīṃ*)—the river Paruṣṇī
+- स्रेवयंतः (*srevayaṃtaḥ*)—crossing
+- वि जगृभ्रे (*vi jagṛbhre*)—broke all its banks
+- सः (*saḥ*)—(then Sudās)
+- मह्ना (*mahnā*)—by the greatness gained through Indra's grace
+- पृथिवीं (*pṛthivīṃ*)—the whole earth
+- अविव्यक् (*avivyak*)—stood covering
+- चायमानः (*cāyamānaḥ*)—the enemy of Sudās, the son of Cayamāna
+- कविः (*kaviḥ*)—one called Kavi
+- पत्यमानः (*patyamānaḥ*)—fleeing
+- पशुः (*paśuḥ*)—like an animal for sacrifice
+- अशयत् (*aśayat*)—lay down dead
+
+##### भावार्थ (Bhāvārtha)
+
+The enemies of Sudās, of evil intent and devoid of wisdom, crossing the river Paruṣṇī in full flood, broke all its banks. Then Sudās, with the greatness gained through Indra's grace, stood covering the whole earth. The enemy of Sudās, the son of Cayamāna, one called Kavi, fleeing, fell in battle like an animal for sacrifice and lay down.
+
+##### English translation
+The evil-disposed and stupid (enemies of Sudas), crossing the flooded Parushni river, have broken down its banks; but he by his greatness pervades the earth, and Kavi, the son of Chayamana, like a falling victim, sleeps (in death).
+
 ---
 
-**Progress note:** Done through printed p. 799. VII.17 Ṛk 3-7 end; VII.18 intro and Ṛk 1-2
+**Progress note:** Done through printed p. 807. VII.18 Ṛk 2 end, Ṛk 3-8
