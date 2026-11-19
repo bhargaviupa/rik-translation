@@ -10,6 +10,7 @@
 | through p. 156 (pp. 136-142, 143-148, 149-156) | sonnet | 17 | 159900 | 4.3 |
 | through p. 175 (pp. 157-163, 164-169, 170-175) | sonnet | 18 | 182988 | 6.5 |
 | through p. 194 (pp. 176-181, 182-187, 188-194) | sonnet | 19 | 190163 | 5.7 |
-| through p. 212 (pp. 195-200, 201-206, 207-212) | sonnet | n/a | pending | - |
+| through p. 212 (pp. 195-200, 201-206, 207-212) | sonnet | 30 | 260561 | 9.9 |
 | through p. 218 (pp. 213-218; agent stopped by 5-hour limit after one window) | sonnet | n/a | n/a | - |
-| through p. 239 (pp. 219-224, 225-232, 233-239) | sonnet | n/a | pending | - |
+| through p. 239 (pp. 219-224, 225-232, 233-239) | sonnet | 30 | 260561 | 9.9 |
+| through p. 257 (pp. 240-245, 246-251, 252-257) | sonnet | n/a | pending | - |
