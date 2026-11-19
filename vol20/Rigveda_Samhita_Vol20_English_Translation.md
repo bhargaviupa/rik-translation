@@ -24960,6 +24960,257 @@ O Indra, who are called by many, may we, joined with you by your well-known frie
 ##### English translation
 Invoked of many, may we, through these your friendly (praises), ever be superior to successive foes, destroying, oh hero, both (classes of) enemies, (kindred or unallied); and may we, protected by you, be happy with abundant riches.
 
+### Printed p. 718
+
+## Sūkta 20 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दौर्न य इंद्रेति त्रयोदशर्चं पंचमं सूक्तं भरद्वाजस्यार्षमैंद्रं
+> त्रैष्टुभं । वि पिप्रोरित्येषा सप्तमी दशाक्षरचतुष्टययुक्ता विराट् । अनुक्रम्यते
+> च । दौर्नवि पिप्रोर्विराडिति॥ पृष्ठ षडहस्य षष्ठेऽहनि तृतीयसवन उक्तस्तोत्राणि
+> यदि द्विपदासु स्तुवीरन् यदि वाग्निष्टोमसंस्थः स्यात्तदानीं माध्यंदिने
+> सवनेच्छावाकः स्वशस्त्र आरंभणीयाभ्य ऊर्ध्वमेतत्सूक्तं शंसेत् । सूत्रितं च ।
+> दौर्न य इंद्रेत्यच्छावाकः । आ. ८-४। इति ॥ इदमेव सूक्तमिंद्राविष्टोरुत्क्रांतिनाम्येकाहे निष्केवल्यनिविद्वानं । दौर्न य इंद्रेति माध्यंदिनः । आ. ९-७। इति ॥
+
+##### Gist of the bhāṣya
+
+This is the fifth sūkta, of thirteen Ṛks, of the group; its seer is Bharadvāja, its deity Indra, its metre Triṣṭubh. The seventh Ṛk is a Virāj of four pādas of ten syllables each; the Anukramaṇī says as much. On the sixth day of the Pṛṣṭha Ṣaḍaha, at the third pressing, if the uktha-stotras are praised with dvipadā verses, or if the rite is of the Agniṣṭoma type, then at the midday pressing the Acchāvāka, after the Ārambhaṇīya verses, recites this sūkta in his own śastra. The Sūtra says: the Acchāvāka recites this sūkta (Ā. Sū. 8-4). This same sūkta is also the Niṣkevalya Nivid-dhāna in the one-day rite called Indrāviṣṇor Utkrānti: it is recited at the midday pressing (Ā. Sū. 9-7).
+
+Anuvāda: This sūkta is the fifth sūkta in the second anuvāka. It has thirteen Ṛks. Bharadvāja is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. The seventh Ṛk, which begins with the words that open it, is of the Virāj metre, having four pādas of ten syllables each. In the Anukramaṇī it is stated that the seventh is a Virāj. On the sixth day of the sacrifice called Pṛṣṭha Ṣaḍaha, at the time of the third pressing, whether in the case of reciting the uktha-stotras with Ṛks of the Dvipadā-Virāj metre, or, if it is of the Agniṣṭoma form, at the time of the midday pressing, after the priest called Acchāvāka has begun his śastra mantras, this sūkta is to be recited; this is explained by the Āśvalāyana Śrauta-sūtra rule "the Acchāvāka recites this sūkta" (Ā. 8-4). And in the one-day sacrifice called Utkrānti, performed in honour of the deities Indra and Viṣṇu, this sūkta is to be recited as the Nivid-dhāna sūkta in the middle of the Niṣkevalya śastra mantras; this is explained by the Āśvalāyana Śrauta-sūtra rule "the midday one" (Ā. 9-7).
+
+Sūkta 20.
+
+Maṇḍala 6. Anuvāka 2. Sūkta 20.
+
+Aṣṭaka 4. Adhyāya 6. Varga 9, 10.
+
+Number of Ṛks in the sūkta: 13.
+
+Seer: Bharadvāja Bārhaspatya.
+
+Deity: Indra.
+
+Metre: 1-6, 8-13 Triṣṭubh; 7 Virāj.
+
+### Printed p. 719
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यौर्न य इं॑द्रा॒भि भूमा॒र्यस्त॒स्थौ र॒यिः शव॑सा पृ॒त्सु  ॑
+> जनान् ।  
+> तं नः॑ स॒हस्र॑भरमुर्वरा॒सां द॒द्धि सू॑नो सहसो वृत्र॒तुरं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्याः। न । यः । इंद्र । अभि । भूम । आर्यः । तस्थौ । रयिः । शवसा । पृत्सु।  
+> जनान' ।  
+> तं । नः । सहस्रभरं । उर्वरासां । दद्धि । सूनो इति । सहसः । वृत्रतुरं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो रयिः पुत्ररूपं धनं शवसा बलेन पृत्सु संग्रामेष्टर्योऽरीन्
+> शत्रून् जनानभि तस्थौ आक्रामेत् ! तत्र दृष्टांतः । द्यूर्न । द्योतमानः सूर्यो
+> यथा भूम भूतान्या क्रामति तद्वत् । हे सहसः सूनो बलस्य पुत्रेंद्र त्वं तं
+> पुत्रं नोऽस्मभ्यं वद्धि । देहि । कीदृशं । सहस्रभरं सहस्रस्य धनस्य भर्तारमुर्वरासामुर्वराणां सस्याढ्यानां भूमीनां सनितारं संभक्तारं वृत्रतुरं वृत्राणां
+> शत्रूणां तरितारं तुर्वितारं ना ॥
+
+##### Gist of the bhāṣya
+
+The riches in the form of a son, which with strength attacks the enemy people in battles, as the shining sun overspreads all beings. O Indra, son of strength, give us that son: one who bears a thousand-fold wealth, who enjoys lands rich in crops, who overcomes enemies in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- इंद्र (*iṃdra*)—O Indra
+- भूम (*bhūma*)—all created beings
+- द्यौः न (*dyauḥ na*)—as the sun overspreads with his rays
+- यः रयिः (*yaḥ rayiḥ*)—which wealth in the form of a son
+- शवसा (*śavasā*)—by its strength
+- पृत्सु (*pṛtsu*)—in battles
+- आर्यः जनान् (*āryaḥ janān*)—all the enemy people
+- अभिशस्थौ (*abhiśasthau*)—attacks
+- तं (*taṃ*)—such
+- सहस्रभरं (*sahasrabharaṃ*)—bearing a thousand-fold wealth
+- उर्वरासां (*urvarāsāṃ*)—enjoying the earth filled with all crops and the like
+- वृत्रतुरं (*vṛtraturaṃ*)—destroying enemies, the riches in the form of a son
+- नः (*naḥ*)—to us
+- दद्धि (*daddhi*)—grant
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, son of strength, as the sun overspreads all beings with his rays, so the wealth in the form of a son which with its strength overspreads all the enemy people in battle: such wealth in the form of a son, bearing a thousand-fold riches, enjoying the earth filled with all crops and the like, and destroying enemies, grant to us.
+
+### Printed p. 720
+
+##### English translation
+Indra, Son of strength, grant us (a son), the possessor of thousands, the owner of cultivated lands, the subduer of foes, the riches that may overcome men in battles by strength, as the radiant (sun) overspreads the earth by his rays.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is no proper word for the subject. Although the word रयिः (*rayiḥ*) means wealth, the bhāṣyakāra has explained it as wealth in the form of a son and has supplied that in the place of the subject word. Although no qualities that define a son are stated here, the epithet वृत्रतुरं (*vṛtraturaṃ*), "destroyer of enemies", supports the bhāṣyakāra's explanation to some extent.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो न तुभ्य॒मन्विं॑द्र स॒त्रासु॒र्यं॑ दे॒वेभि॑र्दायि॒ विश्वं॑ ।  
+> अहिं॒ यद्वृ॒त्रम॒पो व॑व्रि॒वांसं॒ हन्नृ॑जीषि॒निष्णु॑ना सचा॒नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । न । तुभ्यं । अनु । इंद्र । सत्रा । असुर्यं । देवेभिः । धायि । विश्वं ।  
+> अहिं । यत् । वृत्रं । २पः । वन्विवांसं । हन् । ऋजीषिन् । विष्णुना । सचानः ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो न सूर्यायेव हे इंद्र तुभ्यं सत्रा सत्यमेव विश्वं व्याप्तमसुर्यमसुरत्वं बलं देवेभिर्देवैः स्तोतृभिरनु धायि । व्यधायि । अकारि । स्तोतृैः
+> स्तूयमाना देवता बलवती भवतीत्यर्थः । हे ऋजेषन् विगतरससोमेंद्र
+> विष्णुना सचानः संगच्छमानस्त्वं ॥ षच समवाय इति धातो रूपं ॥ यद्येनासुर्येणाप उदकानि वन्विवांसं परिवृण्वंतमहिमागत्य हंतारं वृत्रमसुरं हन्
+> अवधीः तद्बलं व्यधायिति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+As to the sun, O Indra, to you all-pervading strength has truly been given by the gods, the praisers; the meaning is that the deity who is praised by the praisers becomes mighty. O Indra, whose soma has lost its juice, associated with Viṣṇu: by which strength you slew Vṛtra the Asura, the enemy who came and enclosed the waters, that strength was given; thus it is connected with what precedes.
+
+### Printed p. 721
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीषिन् इंद्र (*ṛjīṣin iṃdra*)—O Indra, who have the soma called ṛjīṣa
+- विष्णु (*viṣṇu*)—with Viṣṇu
+- सचानः (*sacānaḥ*)—joined
+- यत् (*yat*)—by which strength
+- अपः (*apaḥ*)—the waters
+- वव्रिवांसं (*vavrivāṃsaṃ*)—who was obstructing
+- अहिं (*ahiṃ*)—the enemy
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- हन् (*han*)—you killed, such
+- विश्वं (*viśvaṃ*)—all-pervading
+- असुर्यं (*asuryaṃ*)—strength
+- दिवो न (*divo na*)—as all powers are placed in the sun
+- देवेभिः (*devebhiḥ*)—by all the gods
+- सत्रा (*satrā*)—truly
+- तुभ्यं (*tubhyaṃ*)—to you
+- अनु धायि (*anu dhāyi*)—has been entrusted
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who drink the soma called ṛjīṣa, joined with Viṣṇu: the strength by which you killed Vṛtra, who obstructed the waters, has been truly entrusted to you by all the gods, as all powers are placed in the sun.
+
+##### English translation
+To you, Indra, as to the sun, all strength has verily been given by the gods; so that, drinker of the stale Soma, associated with Vishnu, you might slay the hostile Ahi obstructing waters.
+
+##### विशेषविषयगळु (Special Topics)
+
+यजीषिन् (*yajīṣin*)**NOTE**—we have already explained the meaning of this word earlier. After the soma plants are crushed with stones and the juice is pressed out, the husks that remain are called ऋजीष (*ṛjīṣa*). The little juice that is in them is pressed out once more, barley flour is mixed with it, and it is offered to Indra at the third pressing. Therefore, that is, because he drinks the soma juice that is in the ṛjīṣa, it is customary to call Indra Ṛjīṣin.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तूर्व॒न्नोजी॑यान्त॒वस॒स्तवी॑यान्कृ॒तब्र॒ह्मेंद्रो॑ वृ॒द्धम॑हाः ।  
+> राजा॑भव॒न्मधु॑नः सो॒म्यस्य॒ विश्वा॑सां॒ यत्पु॒रां द॒त्नुर्माव॑त्॥  
+> xx 46
+
+### Printed p. 722
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तूर्वन् । ओजीयान् । तवसः । तवीयान् । कृतब्रह्मा । इंद्रः । वृद्धमहाः ।  
+> राजा । अभवत् । मधुनः । सोम्यस्य । विश्वासां । यत् । पुरां । दत्नुं ।  
+> अवत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदेंद्रो विश्वासां सर्वासां पुरां पुरीणां दर्न्नुं दारकं वज्रमावत् प्रापत् तदा सोम्यस्य सोममयस्य मधुनो मधुररसस्य राजाभवत् ।
+> स्वाम्यासीत् । कीदृशः । तूर्वन हिंसकान् हिंसन्नोजीयानतिशयेनौजस्वी
+> तवसो बलवतस्तवीयान्बलवत्तरः कृतब्रह्मा । कृतं ब्रह्म स्तोत्रं यस्मै स्तोतृभिः
+> सः । अथवा कृतं दत्तं ब्रह्मान्नं येन स्तोतृभ्यः सः । वृद्धमहा वृद्धतेजाः ।
+> एवंभूत इंद्रो राजाभवदिति ॥
+
+##### Gist of the bhāṣya
+
+When Indra took the vajra, the cleaver of all the cities, then he became the lord of the sweet juice of soma, he who is the destroyer of the harmful, exceedingly vigorous, stronger than the strong, one for whom the praisers have made praise, or else one by whom food has been given to the praisers, and one of grown splendour. Such an Indra became king.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तूर्वन् (*tūrvan*)—the destroyer of enemies
+- ओजीयान् (*ojīyān*)—the vigorous
+- तवसः (*tavasaḥ*)—than the mighty
+- तवीयान् (*tavīyān*)—one with greater strength
+- कृतब्रह्मा (*kṛtabrahmā*)—one for whom praise has been made in his honour
+- वृद्धमहाः (*vṛddhamahāḥ*)—one of grown splendour
+- इंद्रः (*iṃdraḥ*)—Indra
+- यत् (*yat*)—when
+- विश्वासां (*viśvāsāṃ*)—of all
+- पुरां (*purāṃ*)—of the enemy cities
+- दर्न्नुं (*darnnuṃ*)—the vajra weapon that cleaves
+- आवत् (*āvat*)—he took (then)
+- मधुनः (*madhunaḥ*)—sweet
+- सोम्यस्य (*somyasya*)—of the soma juice
+- राजा (*rājā*)—as lord
+- अभवत् (*abhavat*)—he became
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is the destroyer of enemies, vigorous, possessed of greater strength than all the mighty, one for whom praise has been made in his own honour, and one of grown splendour: when he took in his hand the vajra weapon that destroys all the enemy cities, then he became the lord of the sweet soma juice.
+
+##### English translation
+When Indra, the destroyer, the most mighty, the strongest of the strong, the giver of food, the possessor of vast splendour. received (the thunderbolt), the shatterer of all the cities (of the Asuras), he became the lord of the sweet Soma beverage.
+
+### Printed p. 723
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तैर॑पद्रन्प॒णय॑ इं॒द्रात्र॒ दशो॑णये क॒वये॒ऽर्कसा॑त् ।  
+> व॒धैः शुष्ण॑स्या॒शुष॑स्य मा॒याः पि॒त्वो नारि॑रेची॒त्किं च॒न प्र ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतैः । अपद्रन् । पणयः । इंद्र । अत्र । दशओणये । कवये । आर्कसात् ।  
+> वधैः । शुष्णस्य । अशुषस्य । मायाः । पित्वः । न । अरिरेचीत् । किं । चन । प्र ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन्नर्कसात् । आर्कोऽन्नं प्राप्यतेऽस्मिन्नित्यर्कसातियुद्धं । तस्मिन्नशोणये बहुहविष्कात्कवये मेधाविनः ॥ पंचम्यर्थे चतुर्थी ॥ हे इंद्र तत्सहायात्कुत्साद्बिभ्यतः पणय एतन्नामकासुराः शतैः शतसंख्याकैर्बलेः सार्धमपद्रन्
+> अपाद्रवन् । अपलायंत । आपि चेंद्रोऽशुषस्याशुष्कस्य । संपूर्णबलस्येत्यर्थः ।
+> शुष्णस्यॆतन्नामकासुरस्य कुत्सस्य शत्रोर्मायाः कपटान्वधैर्हननसाधनैरायुधैर्न
+> प्रारिरेचीत् । प्ररिक्तानतिरिक्तान्नाकरोत् । पित्वोऽन्नस्य । पितुरित्यन्ननामैतत् । किंचन
+> किंचिदपि न प्रारिरेचीत् । तदीयमन्नं सर्वमप्यपाहारयत् ॥
+
+##### Gist of the bhāṣya
+
+Here, in this battle fought for food (arka is food, and the battle in which food is obtained is so called), because of the wise one with abundant oblations, Kutsa, the fourth case being used in the sense of the fifth. O Indra, the Paṇis, Asuras of that name, fearing Kutsa, who was your helper, fled with their hundreds of forces. And Indra did not leave over the deceptions of Śuṣṇa, the Asura of that name, the enemy of Kutsa, of the unwithered, that is, of full strength, with his weapons, the instruments of slaying; he made them not left over. Pitu is a name of food: he did not leave even a little of his food, he carried all his food away. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अत्र अर्कसातौ (*atra arkasātau*)—in this battle fought for the sake of food
+- दशोणये (*daśoṇaye*)—who has abundant oblations
+- कवये (*kavaye*)—and is wise: by Kutsa
+- पणयः (*paṇayaḥ*)—the Paṇis (fearing your strength)
+- शतैः (*śataiḥ*)—with their hundred-fold armies
+- अपद्रन् (*apadran*)—ran away
+- इंद्रः (*iṃdraḥ*)—Indra
+- अशुषस्य (*aśuṣasya*)—of the one of full strength
+- शुष्णस्य (*śuṣṇasya*)—of the Asura called Śuṣṇa
+- मायाः (*māyāḥ*)—the deceptions
+- वध्यैः (*vadhyaiḥ*)—having checked with his own weapons, the instruments of slaying
+- न प्र अरिरेचीत् (*na pra arirecīt*)—destroyed his power without giving it any opening**NOTE**
+- पित्वः (*pitvaḥ*)—to his food
+- किंचन प्र (*kiṃcana pra*)—carried off everything, without any remainder
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in this battle fought for the sake of food, the Paṇis, fearing Kutsa, who has abundant oblations and is wise, fled. For their flight, your very strength that protects Kutsa
+
 ---
 
-**Progress note:** Done through printed p. 717. Mandala 6 Sukta 19 Rk 9-13, pp. 712-717
+**Progress note:** Done through printed p. 723. Sūkta 20 intro, Ṛks 1-4 (to Bhāvārtha of Ṛk 4)
