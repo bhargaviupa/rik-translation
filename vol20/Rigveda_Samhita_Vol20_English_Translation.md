@@ -29351,6 +29351,259 @@ The seer Bharadvāja, impatient of delay in the reward, reproaches Indra. **NOTE
 
 As the result of the exhilaration obtained from this Soma juice, what reward did Indra give to the praisers? What did he do as the result of the drinking of this Soma? In the house of this Soma (the house of sacrifice), of whatever praisers there are who praise, what did the praisers who were before obtain from you? What have the praisers who are in the present time obtained?
 
+### Printed p. 823
+
+##### English translation
+What has Indra done in the exhilaration of this (Soma)? what has he done on quaffing this (libation)? what has he done in friendship for this (Soma)? what have former, what have recent adorers obtained from you in the chamber of this (libation)?
+
+In this Ṛk the seer asks some questions on the matter of what benefits may be obtained from Indra's drinking of Soma, and has stated the answer to them in the next Ṛk.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सद॑स्य॒ मदे॒ सद्व॑स्य पी॒ताविंद्रः॒ सद॑स्य स॒ख्ये च॑कार ।  
+> रणा॑ वा॒ ये नि॒षदि॒ सत्ते अ॑स्य पु॒रा वि॑विद्रॆ॒ सदु॒ नूत॑नासः ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत् । अस्य । मदे । सत् । ऊं इति । अस्य । पीतौ । इंद्रः । सत् । अस्य । सख्ये । चकार ।  
+> रणाः । वा । ये । निऽसदि । सत् । ते । अस्य । पुरा । विविद्रॆ । सत् । ऊं इति । नूतनासः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवमाक्षिप्त इंद्रस्तस्मा ऋषय ईप्सितं धनं प्रददौ । तदनंतरमृषिरिंद्रसकाशात्संपूर्णकामः सन् पुरा यान्युपालंभप्रतिपादकानि वाक्यान्युवोचेदानीं
+> तानि निराकरोति। इंद्रोऽस्य सोमस्य मदे सत् शुभं कर्म चकार! अस्य सोमस्य
+> पीतौ पाने सत् शुभं कर्म चकार । अस्य सख्ये सत् शुभं चकार । ये रणा वा
+> स्तोतारश्च ते निषदि गृहे । यज्ञगृह इत्यर्थः । पुरा पूर्वं हे इंद्र ते त्वत्तः
+> सत् शुभं कर्म विविद्रॆ । लेभिरे । नूतनास इदानींतनाः स्तोतारः सदु शुभमेव
+> कर्म लेभिरे ॥
+
+##### Gist of the bhāṣya
+
+Thus reproached, Indra gave the seer the wealth he desired. After that the seer, his wishes fulfilled by Indra, now refutes the statements conveying reproach which he had uttered before. Indra, in the exhilaration of this Soma, did a good (सत् (*sat*), that is, auspicious) deed; at the drinking of this Soma he did a good deed; in friendship with this Soma he did a good deed. Those who are praisers (रणा (*raṇā*)) in the house, that is, in the house of sacrifice: they, in former times, O Indra, obtained from you good deeds. The new, present-day praisers too obtain good deeds only.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अस्य (*asya*)—by the drinking of this Soma juice
+- मदे (*made*)—when he was satisfied
+- सत् (*sat*)—good deeds
+- चकार (*cakāra*)—he did
+- अस्य (*asya*)—of this Soma
+- पीत् (*pīt*)—as the result of drinking
+
+### Printed p. 824
+
+- सत् (*sat*)—he did a good deed
+- अस्य (*asya*)—who is with the juice of this Soma
+- सख्ये (*sakhye*)—as the result of friendship
+- सत् (*sat*)—he did a good deed
+- ये (*ye*)—O Indra, whichever
+- रणा वा (*raṇā vā*)—praisers
+- निषदि (*niṣadi*)—in the house of sacrifice
+- पुरा (*purā*)—were there in the past
+- ते (*te*)—all of them
+- सत् (*sat*)—a good result
+- विविद्रे (*vividre*)—obtained (from you)
+- नूतनासः (*nūtanāsaḥ*)—the praisers who are now present too
+- स दु (*sa du*)—obtain a good result only
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra was satisfied by the drinking of Soma, he did good deeds. As the result of the drinking of this Soma he did good deeds only. Moreover, as the result of the friendship with this Soma juice also he did good deeds only. O Indra, all those praisers who were there in the house of sacrifice in the past obtained a good result only from you. The praisers who are present now also obtain a good result only.
+
+##### English translation
+Verily, in the exhilaration of this (Soma) Indra has done a good deed; on quaffing the libation (he has done) a good deed ; (he has done) a good deed in friendship for this Soma : former as well as recent adorers have obtained good of you in the chamber (of the libation).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि नु ते॑ महि॒मनः॑ समस्य॒ न म॑घवन्मघव॒त्त्वस्य॑ वि॒द्म ।  
+> न राध॑सोराधसो॒ नूत॑न॒स्येंद्र॒ नकि॑र्ददृश इंद्रि॒यं ते॑ ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । नु । ते । महिमनः । समस्य । न । मघवन् । मघवर्त्त्वस्य । विद्म ॥  
+> न । राधसःराधसः । नूतनस्य । इंद्र । नकिः । ददृशे । इंद्रियं । ते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्मनवन्निंद्र ते त्वदीयस्य समस्यॆ समस्तस्य महिमनो महिमानं नहि विद्म । वयं न जानीमः ॥ नुशब्दः पूरणः ॥ तथा मघवत्त्वस्य
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy Indra, we do not know the greatness of all of you; we do not know it. **NOTE** Likewise, of your wealthiness
+
+### Printed p. 825
+
+> त्वदीयस्य धनिकत्वस्य च वयं न जानीमः । नूतनस्य स्तुत्यस्य राधसो राधसस्त्वदीयं सर्वं धनं च न जानीमः ॥ सर्वत्र द्वितीयार्थे षष्ठि ॥ हे इंद्र ते
+> त्वदीयमुंद्रियं सामर्थ्यं नकिर्दृशे केनापि न दृश्यते ॥
+
+##### Gist of the bhāṣya
+
+we do not know. Nor do we know all your wealth, your riches (राधसः (*rādhasaḥ*)), which is praiseworthy. O Indra, your capacity (इंद्रियं (*iṃdriyaṃ*)) is seen by no one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- ते (*te*)—your
+- समस्य (*samasya*)—entire
+- महिमनः (*mahimanaḥ*)—greatness
+- नहि विद्म (*nahi vidma*)—we cannot know
+- मघवत्त्वस्य (*maghavattvasya*)—also the abundance of your wealth
+- न (*na*)—we cannot know
+- नूतनस्य (*nūtanasya*)—praiseworthy
+- राधसोराधसः (*rādhasorādhasaḥ*)—your immeasurable riches
+- न (*na*)—we cannot know
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- इंद्रियं (*iṃdriyaṃ*)—capacity
+- नकिः ददृशे (*nakiḥ dadṛśe*)—no one is able to see
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, we do not know what your entire greatness is. We cannot know the abundance of your wealth. What your immeasurable riches are, we do not know. O Indra, it is not possible for anyone to comprehend your capacity.
+
+##### English translation
+We acknowledge no one, Maghavan, of greatness equal to you, nor one of like affluence, nor one of equally glorifiable riches, nor has (such as) your power been ever seen (in any other).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तत्त्यत्त॑ इंद्रि॒यम॑चेति॒ येनाव॑धीर्व॒रशि॑खस्य॒ शेषः॑ ।  
+> वज्र॑स्य॒ यत्ते॒ निह॑तस्य॒ शुष्मा॑त्त्व॒नाच्चि॑दिंद्र पर॒मो द॒दार॑ ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतत् । त्यत् । ते । इंद्रियं । अचेति । येन । अवधीः । वरशिखस्य । शेषः ।  
+> वज्रस्य । यत् । ते । निहतस्य । शुष्मात् । स्वनात् । चित् । इंद्र । परमः । ददार॥४॥
+
+### Printed p. 826
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र येन वीर्येण वरशिखस्य । वरशिखो नाम कश्चिदसुरः । तस्य शेषः
+> शेषांसि पुत्रान् । शेष इत्यपत्यनामैतत् । अवधीः अहिंसीः ते त्वदीयमेतत्तत्तदिदमिंद्रियं वीर्यमचेति । अस्माभिरज्ञायि । हे इंद्र यद्यस्माच्छुष्माद्बलान्निहतस्य प्रेरितस्य त्वदीयवज्रस्य स्वनाच्चित् ध्वनेरेव परमो वरशिखस्य पुत्राणां मध्यॆ
+> बलाद्याधिक्येनोत्कृष्टः कश्चित्पुत्रो ददार अदीर्यत ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by which prowess you slew the शेषः (*śeṣaḥ*) of Varaśikha (Varaśikha is the name of a certain asura), that is, his offspring, his sons (शेष (*śeṣa*) is a name for offspring): that prowess of yours, that very one, has been known by us (अचेति (*aceti*) means "has been known"). O Indra, by the sound alone of your thunderbolt hurled with that force, the Parama, a certain son excellent through superiority of strength among the sons of Varaśikha, was split asunder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- येन (*yena*)—by which prowess of yours
+- वरशिखस्य (*varaśikhasya*)—of the asura named Varaśikha
+- शेषः (*śeṣaḥ*)—all the sons
+- अवधीः (*avadhīḥ*)—you slew
+- ते यत् शुष्मात् (*te yat śuṣmāt*)—by which strength of yours
+- निहतस्य (*nihatasya*)—hurled
+- वज्रस्य (*vajrasya*)—of the thunderbolt weapon
+- स्वनात् चित् (*svanāt cit*)—by the sound alone
+- परमः (*paramaḥ*)—Parama, the son of Varaśikha (the strongest of all of them)
+- ददार (*dadāra*)—was split
+- एतत्त्यत् (*etattyat*)—such
+- ते इंद्रियं (*te iṃdriyaṃ*)—your prowess
+- अचेति (*aceti*)—has been understood by us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we know that capacity and power of yours by which prowess you slew all the sons of the asura named Varaśikha, and by which strength of yours, by the sound alone of the thunderbolt hurled, Parama, the son of Varaśikha, though the strongest of all of them, was split.
+
+##### English translation
+Such as your power (is) it has been comprehended (by us) as that wherewith you have slain the race of Varasikha, when the boldest (of them) was demolished by the noise of your thunderbolt hurled with (all your) force.
+
+##### विशेषविषयगळु (Special Topics)
+
+वरशिखस्य, परमः (*varaśikhasya, paramaḥ*)—Varaśikha was an asura king. The matter of his having been defeated by another king named Abhyāvartin Cāyamāna is stated in this Ṛk and in the next Ṛk. Parama is the son of Varaśikha.
+
+### Printed p. 827
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वधी॒दिंद्रो॑ व॒रशि॑खस्य॒ शेषो॑ऽभ्याव॒र्तिने॑ चायमा॒नाय॒  ॑
+> शिक्षन् ।  
+> वृ॒चीव॑तो॒ यद्ध॑रियू॒पीया॑यां॒ हन्पूर्वे॒ अर्धे॑ भि॒यसाप॑रो॒ दर्त् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वधीत् । इंद्रः । वरशिखस्य । शेषः । अभिआवर्तिने । चायमानाय । शिक्षन् ।  
+> वृजीवतः । यत् । हरियूपीयायां । हन् । पूर्वे । अर्धे । भियसा । अपरः ।  
+> दर्त् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्तमेवार्थमनया विवृणोति । आयमिंद्रश्चायमानाय चय-
+
+> मानस्य राज्ञः पुत्रायाभ्यावर्तिन एतन्नामकाय राज्ये: शिक्षन् ईप्सितानि वसूनि
+> प्रयच्छन् वरशिखस्यासुरस्य शेषः पुत्रान्वधीत् । अवधीत् । अहिंसीत् । वरशिखस्य
+> पुत्रान् कथमवधीदित्युच्यते । यद्यदायमिंद्रो हरियूपीयायां । हरियूपीया नाम काचिन्नदी काचिन्नगरी वा । तस्यां पूर्वेऽर्धे प्राग्भागे स्थितान्
+> वृजीवतः । वृचीवान् नाम वरशिखस्य कुलोत्पन्नः पूर्वः । तद्गोत्रजान्वरशिखस्य
+> पुत्रान् हन् अवधीत् तदापरोऽपरभागे स्थितो वरशिखस्य श्रेष्ठः पुत्रो भियसा
+> भीत्या दर्त् । दीर्घोऽभूत् ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk he explains the meaning stated before. This Indra, wishing to give the desired wealth (शिक्षन् (*śikṣan*)) to Abhyāvartin of that name, the son of King Cāyamāna, slew the शेषः (*śeṣaḥ*) of the asura Varaśikha, that is, his sons. How he slew the sons of Varaśikha is told: when this Indra at हरियूपीयायां (*hariyūpīyāyāṃ*) (Hariyūpīyā is the name of a certain river or a certain city), in its eastern half, that is, in its eastern part, slew the Vṛjīvat sons stationed there (Vṛcīvān is the name of an ancestor born in the family of Varaśikha; he slew the sons of Varaśikha born in his lineage), then the other, stationed in the western part, the best son of Varaśikha, was split through fear (भियसा (*bhiyasā*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- चायमानाय (*cāyamānāya*)—the son of Cayamāna
+- अभ्यावर्तिने (*abhyāvartine*)—to the king named Abhyāvarti
+- शिक्षन् (*śikṣan*)—wishing to give the desired wealth
+- वरशिखस्य (*varaśikhasya*)—of the asura named Varaśikha
+- शेषः (*śeṣaḥ*)—the sons
+- वधीत् (*vadhīt*)—he slew
+- यत् (*yat*)—when
+- हरियूपीयायां (*hariyūpīyāyāṃ*)—of the river or city named Hariyūpīyā
+- पूर्वे अर्थे (*pūrve arthe*)—on the bank of the eastern part
+- वृजीवतः (*vṛjīvataḥ*)—all the sons of the Vṛjīvat lineage
+- हन् (*han*)—he slew (then)
+- अपरः (*aparaḥ*)—another son of Varaśikha, who was on the other bank of the same river
+- भियया (*bhiyayā*)—through fear
+- दर्त् (*dart*)—was split
+
+### Printed p. 828
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, wishing to give the desired wealth to the king named Abhyāvarti, the son of Cayamāna, slew the sons of the asura named Varaśikha. When he slew all the sons of the Vṛcīvat lineage who were on the bank of the eastern part of the river named Hariyūpīyā, then another son of Varaśikha, who was on the other bank of the same river, was split through fear alone (and died).
+
+##### English translation
+Favouring Abhyavartin, the son of Chayamana, Indra destroyed the race of Varasikha, killing the descendants of Vrichivat, (who were stationed) on the Hariyupiya, on the eastern part, whilst the western (troop) was scattered through fear.
+
+##### विशेषविषयगळु (Special Topics)
+
+हरियूपीयायां (*hariyūpīyāyāṃ*)—Hariyūpīyā is supposed to be the name of a river. This name occurs only in Ṛks 5 and 6 of this sūkta and nowhere else. It is stated that on the bank of this river the king named Abhyāvarti Cāyamāna fought a battle and destroyed the royal sons, or warriors, of the people called Vṛcīvantas.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिं॒शच्छ॑तं व॒र्मिण॑ इंद्र सा॒कं य॒व्याव॑त्यां पुरुहूत श्रव॒स्या ।  
+> वृ॒चीवं॑तः॒ शर॑वे॒ पत्य॑मानाः॒ पात्रा॑ भिंदा॒ना न्य॒र्थान्या॑यन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिंशत्शतं । वर्मिणः । इंद्र । साकं । यव्यावत्यां । पुरुहूत । श्रवस्या ।  
+> वृचीवंतः । शरवे । पत्यमानाः । पात्रा । भिंदानाः । निअर्थानि । आयन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदानीमुक्तमेवार्थं विवृणोति । हे पुरुहूत बहुभिराहूतेंद्र श्रवस्या
+> श्रवस्यया । श्रवोऽन्नं यशो वा । तद्वांछया युद्धे त्वां जित्वान्नं प्राप्नुयाम
+
+##### Gist of the bhāṣya
+
+Now he explains the meaning just stated. O Indra, called by many (पुरुहूत (*puruhūta*)), श्रवस्या (*śravasyā*) means "through desire for śravas", and śravas is food or fame. With the wish for that, in battle, having conquered you, we might obtain food.
+
 ---
 
-**Progress note:** Done through printed p. 822. Sukta 26 Rks 5-8 and Sukta 27 Rk 1 (pp. 817-822)
+**Progress note:** Done through printed p. 828. Sukta 27 Rks 2-6 start (pp. 823-828)
