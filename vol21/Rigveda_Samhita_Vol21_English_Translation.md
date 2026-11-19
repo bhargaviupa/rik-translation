@@ -16750,6 +16750,252 @@ O Indra and Agni, the heroic deeds that you two have done, those deeds of yours 
 
 O Indra and Agni, all the famous heroic deeds that you have done, I quickly recite as soon as the Soma juice is pressed. O Indra and Agni, the Asuras, who are as enemies and injurers to all the gods, have been slain by you two. But you two alone have lived unharmed.
 
+### Printed p. 381
+
+##### English translation
+When the libation is effused I celebrate, Indra and Agni, your heroic exploits: the Pitris, the enemies of the gods, have been slain by you, and you survive.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बळि॒त्था म॑हि॒मा वा॒मिंद्रा॑ग्नी॒ पनि॑ष्ठ॒ आ ।  
+> स॒मा॒नो वां॑ जनि॒ता भ्रात॑रा यु॒वं य॒मावि॒हेह॑मातरा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बट् । इत्था । महिमा । वां । इंद्राग्नी इति । पनिष्ठः । आ ।  
+> समानः । वां । जनिता । भ्रातरा । युवं । यमौ । इहेहमातरा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी वां युवयोर्महिमा महत्त्वमित्थेत्थमनेन प्रकारेण बट्
+> सत्यं । युष्मद्विषयं यज्जन्ममहत्त्वं प्रतिपाद्यते तत्सर्वं यथार्थमित्यर्थः ।
+> पनिष्ठ आ पनिष्ठः स्तुत्यतमश्च प्रजापतिः समान एक एव वां युवयोर्जनिता
+> जनयिता । अतो युवं युवां भ्रातरा भ्रातरौ स्थः । अपि च यमौ यमलौ
+> सहोत्पन्नाविहेहमातरा ! इह चेह च सर्वत्र माता ययोस्तादृशौ स्थः । अदितिर्ह्यनयोर्माता सैव विस्तीर्णा भूमिरितीहेहमातराविति श्रूयते ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, your greatness is thus; बट् (*baṭ*) means truth. Whatever is declared concerning your birth and greatness is all as it truly is. Panishtha, the most praiseworthy Prajāpati, is one and the same begetter of you both. Therefore you two are brothers. Moreover you are twins, born together, and इहेहमातरा (*ihehamātarā*): you are such that your mother is here and here, that is, everywhere. For Aditi is the mother of these two, and she is the wide earth; thus it is heard, in the word इहेहमातरा (*ihehamātarā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- वां (*vāṃ*)—your
+- महिमा (*mahimā*)—greatness
+- इत्था (*itthā*)—is of this kind
+- बट् (*baṭ*)—this is indeed true
+- पनिष्ठः (*paniṣṭhaḥ*)—the most venerable Prajāpati
+- वां (*vāṃ*)—to both of you
+- समानः (*samānaḥ*)—the one only
+- जनिता (*janitā*)—is the father
+- युवं (*yuvaṃ*)—you two
+- भ्रातरौ (*bhrātarau*)—are brothers
+- यम् (*yam*)—you two, born together
+- इहेहमातरा (*ihehamātarā*)—are possessed of mothers who stand everywhere (the earth)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, it is indeed true that your greatness is of this kind. The most venerable Prajāpati is the one and only father of you both. You two are brothers.
+
+### Printed p. 382
+
+You two, born together, are possessed of mothers who stand everywhere. Aditi, the mother of the gods, who pervades everywhere, is your mother.
+
+##### English translation
+Your greatness, Indra and Agni, is after this fashion, and is most deserving of praise: the same is your progenitor: twin brothers are you, having a mother everywhere present.
+
+##### विशेषविषयगळु (Special Topics)
+
+यमौ इहेहमातरा (*yamau ihehamātarā*)—here यमौ (*yamau*) means twins, children born together. Indra and Agni are described here as twins, because Prajāpati himself is the father of Indra and Agni and Aditi, the mother of the gods, is their mother. Therefore Indra and Agni are brothers to each other, and since they were born together at one time, they are twins. Since Aditi is also said to be this wide earth, one may say that the earth is their mother. Yāska, for the subject of twins, has cited as an example the very sentence of this ṛk, यमाविहेहमातरा (*yamāvihehamātarā*) (Ni. 10-21).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ॒कि॒वांसा॑ सु॒ते सचा॒ अश्वा॒ सप्ति॑ इ॒वाद॑ने ।  
+> इंद्रा॒ न्व१॒ं॑ग्नी अव॑से॒ह व॒ज्रणा॑ व॒यं दे॒वा ह॑वामहे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओकिवांसा । सुते । सचा । अश्वा । सप्ति इवेति सप्ति इव । आदने ।  
+> इंद्रा । नु । अग्नी इति । आवसा । इद । वज्रिणा । वयं । देवा । हवामहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी सुतेऽभिषुते सोमे युवां सचा सहौकिवांसौकिवांसौ
+> समवेत् संगतौ भवतं ॥ उच समवाय इत्यस्यैतद्रूपं । तत्र दृष्टांतः । आदने
+> भक्षणीये घासे सप्ति इवाश्वा सर्पणशीलावश्वानिव । नु अद्य वयं तादृशाविंद्राग्नी
+> इहास्मिन्यज्ञेवसा रक्षणेन हेतुना हवामहे । आह्वयामहे ॥ इतरेतरयोगादिद्रशब्देऽग्निशब्दे च द्विवचनं ॥ कीदृशाविंद्राग्नी । वज्रिणा वज्रिणावायुधोपेत्
+> देवा दानादिगुणयुक्ता ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, when the Soma is pressed, you two together come together, are united. An illustration is given: as two swift-moving horses come together at their food, their fodder. Now, today, we here in this sacrifice call such Indra and Agni, for the purpose of protection. What are Indra and Agni like? They are armed with the thunderbolt, as weapon, and they are gods endowed with qualities such as generosity.
+
+### Printed p. 383
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सप्ति (*sapti*)—(O Indra and Agni,) of swift-moving
+- अश्वा (*aśvā*)—horses
+- आदने (*ādane*)—as they gather together for eating
+- सुते (*sute*)—at the time when the Soma juice is pressed
+- सचा (*sacā*)—you two come together
+- ओकिवांसा (*okivāṃsā*)—and become possessed of one place
+- नु (*nu*)—now
+- वयं (*vayaṃ*)—we
+- इह (*iha*)—in this sacrifice
+- अवसा (*avasā*)—for protection
+- वज्रिणा (*vajriṇā*)—holders of the thunderbolt weapon
+- देवा (*devā*)—and of divine nature
+- इंद्राग्नि (*iṃdrāgni*)—Indra and Agni
+- हवामहे (*havāmahe*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, as swift-moving horses gather together to eat grass, so at this time when the Soma juice is pressed you two come together and become possessed of one place. Now, in this sacrifice, for our protection, we call with prayer Indra and Agni, the holders of the thunderbolt weapon, who are of divine nature.
+
+##### English translation
+You approach together, when the libation is effused, like two fleet coursers to their forage: we invoke to-day Indra and Agni, deities armed with the thunderbolt, to this ceremony for our preservation.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इं॑द्राग्नी सु॒तेषु॑ वां॒ स्तव॒त्तेष्कृ॑तावृधा ।  
+> जो॒ष॒वा॒कं वद॑तः पज्रहोषिणा॒ न दे॑वा भ॒सथ॑श्च॒न ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इंद्राग्नी इति । सुतेषु । वां । स्तवत् । तेषु । ऋतवृधा ।  
+> जोषवाकं । वदतः । पज्रहोषिणा । न । देवा । भसथः । चन ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋतावृधा ऋतस्य सत्यस्य यज्ञस्य वा वर्धयिताराविंद्राग्नी सुतेष्वभिषुतेषु सोमेषु यः स्तोता नां युवां स्तुवत् कुत्सितं स्तूयात् तेषु
+> सोमेषु मध्यॆ जोषवाकं वदतो जोषं जोषयितव्यं प्रीतिहेतुत्वेन कर्तव्यं
+> स्वयमप्रीतिकरं तादृशं वाकं वाक्यं वदतस्तस्य स्तोतुः सोमं हे पज्रहोषिणा
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, augmenters of ṛta, that is, of truth or of the sacrifice: the worshipper who, when the Soma is pressed, praises you ill, in those Soma offerings speaks a जोषवाकं (*joṣavākaṃ*), a speech that is to be made pleasing, that ought to be done as a cause of pleasure, but is itself not pleasing: of that worshipper, of his Soma, O you of famous praise-sound…
+
+### Printed p. 384
+
+> पज्रः प्रार्जितः प्रसिद्धो होषो घोषः स्तोत्रं ययोस्तादृशौ हे देवा देवौ
+> युवां न भसथः । न भक्षयथः । चनेति पादपूरणः ॥ अत्र निरुक्तं । जोषवाकमित्यविज्ञातनामधेयं जोषयितव्यं भवति । य इंद्राग्नी सुतेषु वां सोमेषु
+> स्तौति तेष्टृतस्य वर्धयितारौ न तस्याश्नीथः । योऽयं जोषवाकं वदति विजंजपः
+> प्रार्जितहोषिणौ देवौ न तस्याश्नीथः । नि. ५-२२ । इति ॥
+
+##### Gist of the bhāṣya
+
+…that is, those whose pajra, famous, hoṣa, sound of praise, is such; O gods, you two do not eat, you do not consume his Soma. The word चन (*cana*) is a filler of the line. Here he cites the Nirukta: जोषवाकमित्यविज्ञातनामधेयं जोषयितव्यं भवति । य इंद्राग्नी सुतेषु वां सोमेषु स्तौति तेष्टृतस्य वर्धयितारौ न तस्याश्नीथः । योऽयं जोषवाकं वदति विजंजपः प्रार्जितहोषिणौ देवौ न तस्याश्नीथः । (*joṣavākamityavijñātanāmadheyaṃ joṣayitavyaṃ bhavati | ya iṃdrāgnī suteṣu vāṃ someṣu stauti teṣṭṛtasya vardhayitārau na tasyāśnīthaḥ | yo 'yaṃ joṣavākaṃ vadati vijaṃjapaḥ prārjitahoṣiṇau devau na tasyāśnīthaḥ |*) (Ni. 5-22). **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतावृधा (*yatāvṛdhā*)—O augmenters of the sacrifice **NOTE**
+- पज्रहोषिणा (*pajrahoṣiṇā*)—possessed of famous sound of praise
+- देवा (*devā*)—of divine nature
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- सुतेषु (*suteṣu*)—at the time when the Soma juice is pressed
+- यः (*yaḥ*)—whichever worshipper
+- वां (*vāṃ*)—addressing both of you
+- स्तवत् (*stavat*)—praises ill
+- तेषु (*teṣu*)—among the worshippers
+- जोषवाकं (*joṣavākaṃ*)—a sentence of praise that does not give satisfaction
+- वदतः (*vadataḥ*)—among those who recite
+- न भसथः (*na bhasathaḥ*)—you do not eat the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, augmenters of the sacrifice, possessed of famous sound of praise, of divine nature: at the time when the Soma juice is pressed, among those worshippers who praise you both ill, and among those who praise with a sentence of praise that does not give satisfaction, you do not eat the oblation.
+
+##### English translation
+Divine Indra and Agni, augmenters of sacrifice, by whom the acclamation (of praise) is received, you partake not of the (Soma) of him who, when the libation is effused, praises you (improperly), uttering unacceptable eulogies.
+
+##### विशेषविषयगळु (Special Topics)
+
+अप्रीतिकरं वाक्यं (*aprītikaraṃ vākyaṃ*): a sentence without love. To explain the meaning of this word जोषवाकं (*joṣavākaṃ*), Yāska has given an etymological explanation on this ṛk: जोषवाकमित्यविज्ञा तनामधेयं जीषयितव्यं भवति । य इंद्राग्नी सुतेषु वां स्तवत्तेष्टृतावृधा । जोषवाकं वदतः पज्रहोषिणा न देवा भसथश्चन ॥ य इंद्राग्नी सुतेषु वां सोमेषु स्तौति तस्याश्नीथोऽथ योऽयं जोषवाकं वदति विजञ्चपः प्रार्जितहोषिणौ न देवौ तस्माश्नीथः ॥ (*joṣavākamityavijñā tanāmadheyaṃ jīṣayitavyaṃ bhavati | ya iṃdrāgnī suteṣu vāṃ stavatteṣṭṛtāvṛdhā | joṣavākaṃ vadataḥ pajrahoṣiṇā na devā bhasathaścana ‖ ya iṃdrāgnī suteṣu vāṃ someṣu stauti tasyāśnītho 'tha yo 'yaṃ joṣavākaṃ vadati vijañcapaḥ prārjitahoṣiṇau na devau tasmāśnīthaḥ ‖*) (Ni. 5-22). **NOTE**
+
+### Printed p. 385
+
+O Indra and Agni, as soon as the Soma juice is pressed, whichever worshipper praises you both, you accept and eat the oblation, or the Soma, that he offers. But the worshipper who, while praising, recites what is not known to himself or what is not pleasing, and so praises: what he offers you do not accept and eat. This is the chief purport of the explanation.
+
+There is a slight difference between Sāyaṇa's explanation and Yāska's with regard to the first half of this ṛk. Sāyaṇa has taken the meaning to be that they do not eat the oblation of the man who praises Indra and Agni ill, that is, with blame, with fault, in the form of contempt. But Yāska has explained that they eat the oblation of the worshipper who praises after the pressing of the Soma, but that if there is blame in that praise, or sentences without love, they do not eat his oblation. Here there is room for both kinds of meaning.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी॒ को अ॒स्य वां॒ देवौ॒ मर्त॑श्चिकेतति ।  
+> विषू॑चो॒ अश्वा॑न्युजा॒न ई॑यत॒ एकः॑ समा॒न आ रथे॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । कः । अस्य । वां । देवौ । मर्शः । चिकेतति ।  
+> विषूचः । अश्वान् । युयुजानः । ईयते । एकः । समाने । आ । रथे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवौ द्योतमानाविंद्राग्नी वां युवयोरस्येदं कर्म को मर्तो
+> मनुष्यश्चिकेतति । जानीयात् । न कोऽपित्यर्थः । किं तत्कर्म । विषूचो नानांचतो
+> गच्छतोऽश्वान् समान उभयार्थ एकस्मिन्प्रथे युवयोरेक इंद्रः सूर्यात्मना
+> वर्तमानो युयुजानस्तादृशानश्वान्योजयन् एयते । सर्वं जगदभिगच्छति ।
+> यद्वा । विषूचो नानारूपानश्वान् व्यापकान् समान एकरूपे रथे संवत्सरात्मके
+> युयुजानो योजयॆन् युवयोरेकः सूर्यात्मेंद्र एयते । आगच्छति ।
+> एतद्युवयोः कर्म को यथावज्ञानीयादित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O shining gods Indra and Agni, which mortal, which man, would know this deed of you two? That is, none would. What is that deed? One of you two, Indra, who exists in the form of Sūrya, yoking horses that go in diverse directions, in a single common path that serves both, goes, that is, approaches the whole world. Or else: yoking horses of diverse forms, pervasive, in a common car of one form, which is in the form of the year, one of you two, Indra in the form of Sūrya, comes, approaches. Who could truly know this deed of yours is the sense.
+
+### Printed p. 386
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—shining
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- एकः (*ekaḥ*)—one of you two, Indra
+- समाने रथे (*samāne rathe*)—seated in the one car common to both of you
+- विषूचः (*viṣūcaḥ*)—going everywhere
+- आश्वान् (*āśvān*)—horses
+- युयुजानः (*yuyujānaḥ*)—having yoked to the car
+- आ ईयते (*ā īyate*)—while he travels in the form of Sūrya
+- वां (*vāṃ*)—your
+- अस्य (*asya*)—this deed in the form of travelling
+- कः मर्तः (*kaḥ martaḥ*)—what man indeed
+- चिकेतति (*ciketati*)—can know
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Indra and Agni, when one of you two, Indra, seated in the one car common to both of you, having yoked to the car horses that go everywhere, travels in the form of Sūrya, what man indeed can know this deed of yours, in the form of travelling, and its aim?
+
+##### English translation
+What mortal, divine Indra and Agni, is a judge of that (your act), when one of you, harnessing his diversely-going horses, proceeds in the common car.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी अ॒पादि॒यं पूर्वागा॑त्प॒द्वती॑भ्यः ।  
+> हि॒त्वी शिरो॑ जि॒ह्वया॒ वाव॑द॒च्चर॑त्रिं॒शत्प॒दा न्य॑क्रमीत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । अपात् । इयं । पूर्वा । आ । अगात् । पर्तवतीभ्यः ।  
+> हित्वी । शिरः । जिह्वया । वावदत् । चरत् । त्रिंशत् । पदा । नि । अक्रमात् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी अपात्पादरहितेयमुषाः पद्वतीभ्यः पादयुक्ताभ्यः सुप्ताभ्यः
+> प्रज्याभ्यः पूर्वा प्रथमभाविनी सत्यागात् । आगच्छति । तथा प्राणिनां शिरो हित्वी प्रेरयित्रि । यद्वा । शिरो हित्वात्यक्त्वा स्वयमशिरस्का सती । जिह्वया प्राणिस्थया तदी-
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, this Uṣas, who is footless, comes first, before the footed creatures that are asleep; so, having come first, she sets in motion the heads of living beings. Or else: having given up her head, herself headless, with the tongue that is situated in living beings, her own…
+
 ---
 
-**Progress note:** Done through printed p. 380. Mandala 6 sukta 58 Rks 1-4 end, sukta 59 Rk 1 (pp. 375-380)
+**Progress note:** Done through printed p. 386. Mandala 6 sukta 59 Rks 1 end to 6 (pp. 381-386)
