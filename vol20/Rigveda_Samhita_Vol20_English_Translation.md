@@ -28254,6 +28254,256 @@ Accompany, Indra, the leader in battle for his protection; defend him against a 
 
 The sūkta या त ऊतिरिति (*yā ta ūtiriti*) is the second sūkta of nine Ṛks. Its seer is Bharadvāja, its metre is Triṣṭubh, its deity is Indra. So it is stated in the Anukramaṇī: या ते नवेति (*yā te naveti*). On the second day of the Pṛṣṭhya and Abhiplava ṣaḍahas this sūkta is the nivid-place of the niṣkevalya-śastra. It is also given in the Sūtra: या त ऊतिरवमेति मध्यंदिनः (*yā ta ūtiravameti madhyaṃdinaḥ*), Ā. 7-6.
 
+### Printed p. 798
+
+##### Anuvāda
+
+This sūkta beginning या त ऊतिः (*yā ta ūtiḥ*) is the second sūkta in the third anuvāka. There are nine Ṛks in it. Bharadvāja is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is stated as या ते नव (*yā te nava*). It is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, या त ऊतिरवमेति मध्यंदिनः (*yā ta ūtiravameti madhyaṃdinaḥ*) (Ā. 7-6), that this sūkta is to be recited, inserted as the nivid-dhānīya sūkta among the niṣkevalya śastra-mantras recited on the second day of the sacrifices called Pṛṣṭha and Abhiplava ṣaḍaha.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 3; Sūkta 25
+- Aṣṭaka 4; Adhyāya 6; Varga 19, 20
+- Number of Ṛks in the sūkta: 9
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या त॑ ऊ॒तिर॑व॒मा या प॑र॒मा या म॑ध्य॒मेंद्र॑ शुष्मि॒न्नस्ति॑ ।  
+> ताभि॑रू॒ षु वृ॑त्र॒हत्ये॑ऽवीर्न ए॒भिश्च॒ वाजै॑र्म॒हान्न॑ उग्र ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । ऊतिः । अवमा । या । परमा । या । मध्यमा । इंद्र । शुष्मिन् । अस्ति ।  
+> ताभिः । ऊं इति । सु । वृत्रहत्ये । अवीः । नः । एभिः । च । वाजैः । महान् । नः ।  
+> उग्र ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुष्मिन् बलवन्निंद्र ते त्वदीया योतिर्या रक्षावमाधमास्ति । या
+> परमोत्कृष्टास्ति । या मध्यमास्ति ताभिरूतिभिवृत्रहत्ये युद्धे नोऽस्मान् सु
+> अत्यंतमवीः । पालय । किंच हे उग्रोद्गूर्णेंद्र महांस्त्वमेभिर्भोज्यसाधनैर्वाजैरन्नॆश्च नोऽस्मान् संयोजयेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, possessor of might, whatever protection of yours is the lowest, whatever is the highest and most excellent, and whatever is the middle one, with all those protections protect us thoroughly in the battle with Vṛtra, that is, in war. Further, O fierce Indra, who have raised your weapon, you are great: the word "unite" is to be supplied, so that the sense is: unite us with these foods, the means of enjoyment.
+
+### Printed p. 799
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुष्मिन् (*śuṣmin*)—O powerful one
+- इंद्र (*iṃdra*)—O Indra!
+- ते (*te*)—your
+- या ऊतिः (*yā ūtiḥ*)—which protection
+- अवमा अस्ति (*avamā asti*)—is ordinary
+- या (*yā*)—which
+- परमा (*paramā*)—is the most excellent
+- या (*yā*)—which
+- मध्यमा (*madhyamā*)—is of middling degree
+- ताभिः (*tābhiḥ*)—with all such protections
+- वृत्रहत्ये (*vṛtrahatye*)—in the battle that destroys the enemy
+- नः (*naḥ*)—us
+- सु (*su*)—greatly
+- अवीः (*avīḥ*)—protect
+- उग्र (*ugra*)—O Indra of surpassing might
+- महान् (*mahān*)—you of great form
+- एभिः (*ebhiḥ*)—which are fit for enjoyment
+- वाजैः (*vājaiḥ*)—with these foods
+- नः (*naḥ*)—us (make us endowed with wealth)
+
+##### भावार्थ (Bhāvārtha)
+
+O powerful Indra, with your protections of many kinds, whether they are the most excellent, or of middling degree, or ordinary, with all those protections protect us greatly in the battle that destroys the enemy. O Indra of surpassing might, you of great form, make us endowed with wealth by these foods that are fit for enjoyment.
+
+##### English translation
+Powerful Indra, with these (your protections), whether the protection be little, great, or middling, defend us for the destruction of our foes: supply us, fierce Indra, who are mighty, with those viands (that are needed).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभिः॒ स्पृधो॑ मिथ॒तीररि॑षण्यन्न॒मित्र॑स्य व्यथया म॒न्युमिं॑द्र ।  
+> अभि॒र्विश्वा॑ अभि॒युजो॒ विषू॑चि॒रार्या॑य॒ विशोऽव॑ तारी॒र्दासीः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिः। स्पृधः । मिथतीः । अरिषण्यन् । अमित्रस्य । व्यथय । मन्युं । इंद्र ।  
+> अभिः । विश्वाः । अभियुजः । विषूचीः। आर्याय । विशः । अव । तारीः । दासीः ॥ २ ॥
+
+### Printed p. 800
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अभिरस्मदीयाभिः स्तुतिभिर्मिथतीः शत्रुसैन्यानि हिंसतीः स्पृधोऽस्मदीयाः सेना अरिषण्यन्नहिंसन् । पालयन्नित्यर्थः । अमित्रस्य शत्रोर्मन्युं
+> संग्रामादिषु विद्यमानं कोपं व्यथय ' नाशय । अपि चाभिः स्तुतिभिरेवाभियुजोऽभियोक्रीर्विषूचीः सर्वतो विद्यमाना दासीः कर्मणामुपक्षपयित्रिर्वित्वाः
+> सर्वा विशः प्रजा आर्याय यज्ञादिकर्मकृते यजमानायाव तारीः । विनाशय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, with these our praises, our armies, which smite the hosts of the enemy, protecting them without harming them, crush the wrath of the enemy, the anger that exists in battles and the like. Further, with these very praises destroy for the Ārya, the sacrificer who performs rites such as sacrifice, all the peoples who confront us, who are spread everywhere, and who are the servile ones, destroyers of rites **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra!
+- अभिः (*abhiḥ*)—with the help of these praises recited by us
+- मिथतीः (*mithatīḥ*)—smiting the armies of the enemy
+- स्पृधः (*spṛdhaḥ*)—our armies!
+- अरिषण्यन् (*ariṣaṇyan*)—without harming
+- अमित्रस्य (*amitrasya*)—of the enemy
+- मन्युं (*manyuṃ*)—the wrath
+- व्यथय (*vyathaya*)—destroy
+- अभिः (*abhiḥ*)—by these praises (with their help)
+- अभियुजः (*abhiyujaḥ*)—those who confront
+- विषूचीः (*viṣūcīḥ*)—those who are spread everywhere
+- दासीः (*dāsīḥ*)—those who cause obstruction to rites
+- विश्वा विशः (*viśvā viśaḥ*)—all the hostile people
+- आराय (*ārāya*)—for the sacrificer who performs the sacrifice
+- अव तारीः (*ava tārīḥ*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with the help of these praises recited by us, smiting the armies of the enemy and protecting our armies without harming them, destroy the wrath of the enemy. With the help of these very praises, destroy for the sacrificer who performs the sacrifice all the hostile people who confront us, who are spread everywhere, and who obstruct the rites.
+
+##### English translation
+(Induced) by these (praises), protecting our assailing host, baffle, Indra, the wrath of the enemy : (induced) by them, overthrow, on the part of the Arya, all the servile races everywhere abiding.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ जा॒मय॑ उ॒त येजा॑मयोर्वाची॒नासो॑ व॒नुषो॑  ॒
+> युयु॒ज्रे ।  
+> त्वमे॑षां विधु॒रा शवां॑सि ज॒हि वृष्ट्या॑नि कृणु॒हि परा॑चः ॥ ३ ॥
+
+### Printed p. 801
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । जामयः । उत । ये । अजामयः । अर्वाचीनासः । वनुषः । युयुज्रे ।  
+> त्वं । एषां । विधुरा । शवांसि । जहि । वृष्ण्यानि । कृणुहि । पराचः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र जामयो ज्ञातिरूपाः संनिकृष्टा ये शत्रवः । उतापि चाजामयो
+> दूरदेशे स्थिता ये शत्रवोऽर्वाचीनासोऽस्मदभिमुखा वनुषो हिंसंतो
+> युयुज्रे उद्युक्ता भवंति एषामुभयविधानां शत्रूणां संबंधीनि शवांसि
+> बलानि विधुरा विधुराणि हीनानि त्वं कुर्विति शेषः । तथा वृष्णान्येषां वीर्याणि
+> जहि । नाशय । किंच पराच उभयविधान् शत्रून्पराचः पराङ्मुखान् कृणुहि। कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those enemies who are near, like kinsmen, and those who stand in a distant place, who coming towards us, harming us, are prepared for battle: make the strengths of both kinds of these enemies weak, deprived of force; the word "make" is to be supplied. Likewise destroy their prowess. Further, make the enemies of both kinds turn away, turn their faces from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra!
+- जामयः (*jāmayaḥ*)—whether our kinsmen
+- उत (*uta*)—or
+- अजामयः (*ajāmayaḥ*)—not kinsmen
+- ये (*ye*)—which of our enemies
+- आर्वाचीनासः (*ārvācīnāsaḥ*)—who confront us
+- वनुषः (*vanuṣaḥ*)—and harm us
+- युयुज्रे (*yuyujre*)—are ready for battle
+- एषां (*eṣāṃ*)—of such two groups
+- शवांसि (*śavāṃsi*)—the strengths
+- विधुरा (*vidhurā*)—so that they are in vain
+- त्वं (*tvaṃ*)—you (make)
+- वृष्ण्यानि (*vṛṣṇyāni*)—all their prowess
+- जहि (*jahi*)—destroy
+- पराचः (*parācaḥ*)—so that all of them turn away
+- कृणुहि (*kṛṇuhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whether they are our kinsmen or not, those enemies of ours who confront us, harm us and are ready for battle, make the strengths of such two groups be in vain. Destroy all their prowess. Make all of them turn away.
+
+##### English translation
+Annihilate, Indra, the strength of those who, whether kinsmen or unrelated, present themselves before us, exerting themselves as adversaries: enfeeble their prowess, put them to flight.
+
+#### Ṛk 4
+
+### Printed p. 802
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शूरो॑ वा॒ शूरं॑ वनते॒ शरी॑रैस्तनू॒रुचा॒ तुरु॑षि॒ यत्प॒ण्वैते॑।  
+> तो॒के वा॒ गोषु॒ तन॑ये॒ यद॒प्सु वि क्रंद॑सी उ॒र्वरा॑सु॒  ॑
+> ब्रवैते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शूरः । वा । शूरं । वनते । शरीरैः । तनूरुचा । तरुषि । यत् । कृष्णैते इति ।  
+> तोके । वा । गोषु । तनये । यत् , अप्सु । वि । क्रंदसी इति । उर्वरासु ।  
+> ब्रवैते इति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शूरस्त्वदनुगृहीतो वीरः शरीरैरंगैः शूरं वा वीरमपि वनते ।
+> हंति । वेत्ययमपीत्यस्यार्थे वर्तते । यद्वा। वेत्यनेन विकल्पाभिधायकेनाशूरो
+> वा त्वदनुगृहीतः सन् शूरं वनते । कदा वनत इत्येतदाह । तनूरुचा शरीरेण
+> शोभमानौ परस्परविरोधिनौ तरुषि युद्धे यद्यदा कृष्णते संग्रामं कुर्वाते ।
+> यद्यदा च तोके ना पुत्रनिमित्ते वा गोषु निमित्तभूतासु वा तनये पौत्रे
+> निमित्तभूते वाप्पुदकेषु निमित्तेषु वोर्वरासु सर्वसस्याढ्यासु भूमिषु
+> निमित्तासु क्रंदसी क्रंदमानावाक्रोशंतौ वि ब्रवैते विवदेते । हे इंद्र पुत्रादिलाभजयस्त्वदनुगृहीतस्य भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the hero favoured by you slays with his limbs a hero, an enemy hero, as well; the particle वा (*vā*) here has the sense of "also". Or else, by this particle that expresses an alternative: even one who is not a hero, if favoured by you, slays a hero. When does he slay? When two rivals, shining with bodily splendour, wage battle in the fight; and whenever, for the sake of a son, or of cattle, or of a grandson, or of waters, or of fertile lands rich in every crop, the two cry out and dispute. The meaning is: O Indra, victory and the gain of sons and the like belong to one who is favoured by you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तनूरुचा (*tanūrucā*)—O Indra, the two opposing groups shining with the excellence of their bodies
+- तरुषि (*taruṣi*)—in battle
+- यत् (*yat*)—when
+- कृण्वते (*kṛṇvate*)—they fight
+- यत् (*yat*)—when
+- तोके वा (*toke vā*)—whether for the sake of a son
+- गोपु (*gopu*)—or for the sake of cattle
+- तनये (*tanaye*)—or for the sake of a grandson
+- अप्पु (*appu*)—or for the sake of water
+- उर्वरासु (*urvarāsu*)—or for the sake of land rich in crops
+- क्रंदसी (*kraṃdasī*)—with the clamour of anger
+- वि ब्रवैते (*vi bravaite*)—they carry on harsh speech (in such circumstances)
+- शूरः (*śūraḥ*)—the hero favoured by you
+- शरीरैः (*śarīraiḥ*)—by the powers of his limbs
+- शूरं वा (*śūraṃ vā*)—even if his enemy is a hero, him
+- वनते (*vanate*)—he destroys
+
+### Printed p. 803
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when two opposing groups shining with the excellence of their bodies fight in battle, when for the sake of a son, or of cattle, or of a grandson, or of water, or of land rich in crops, they carry on harsh speech with the clamour of anger, in such circumstances the hero favoured by you destroys, by the strength of his own body, his enemy, even if that enemy is a hero.
+
+##### English translation
+The hero, (favoured by you), assuredly slays the (hostile) hero by his bodily prowess, when, both excelling in personal strength, they strive together in conflict, or when, clamorous, they dispute for (the sake of) sons, of grandsons, of cattle, of water, of land.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि त्वा॒ शूरो॒ न तु॒रो न धृ॒ष्णुर्न त्वा॑ यो॒धो मन्य॑मानो यु॒योध॑ ।  
+> इंद्र॒ नकि॑ष्ट्वा॒ प्रत्य॑स्येषां॒ विश्वा॑ जा॒तान्य॒भ्य॑सि॒ तानि॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । त्वा । शूरः । नः । तुरः । न । धृष्णुः । न । त्वा । योधः । मन्यमानः । युयोध ।  
+> इंद्र । नकिः । त्वा । प्रति । अस्ति । एषां । विश्वा । जातानि । अभि । असि । तानि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वया सह शूरो विक्रांतजनो नहि युयोध । न युध्यते ।
+> तथा तुरोऽन्येषां शत्रूणां हिंसकोऽतस्त्वया न युयोध । धृष्णुर्धर्षको
+
+##### Gist of the bhāṣya
+
+O Indra, no hero, no valiant man, does fight with you; he does not fight. Likewise one who is a destroyer of other enemies does not fight with you; and the assailant, the one who attacks, also does not fight with you.
+
 ---
 
-**Progress note:** Done through printed p. 797. Ṛk 6 end to Ṛk 10 of Sūkta 24, start of Sūkta 25 intro (pp. 792-797)
+**Progress note:** Done through printed p. 803. Sūkta 25 Ṛks 1-5 (pp. 798-803)
