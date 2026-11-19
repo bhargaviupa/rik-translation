@@ -20000,6 +20000,335 @@ Translation: this sūkta उदु श्रिये (*udu śriye*) is the thir
 > रुशंतः ।  
 > कृ॒णोति॒ विश्वा॑ सु॒पथा॑ सु॒गान्यभू॑दु॒ वस्वी॒ दक्षि॑णा म॒घोनी॑ ॥
 
+### Printed p. 454
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । श्रिये । उषसः । रोचमानाः । अस्तुः । अपां । न । ऊर्मयः ।  
+> रुशंतः ।  
+> कृणोति । विश्वा । सुपथा । सुगान । अभूत् । ऊं इति । वस्वी । दक्षिणा । मघोनी॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रोचमाना दीप्यमाना रुशंतः शुक्लवर्णाः । रुशदिति वर्णनाम । नि. २-२० ।
+> इति यास्कः । उषसः श्रिये जगतः शोभाय्कॆ जगद्व्याप्तुं वापामूर्मयो
+> न उदकसंबंधिनस्तरंगा इवोदस्थुः । उत्तिष्ठंति । अनंतरमेकवन्निगमः । उषा
+> विश्वा विश्वानि स्थानानि सुपथा सुमार्गाणि सुगानि सुखेन गम्यानि कृणोति ।
+> करोति । अपि च । मघोनी धनवत्युषा वस्वी प्रशस्ता दक्षिणा समर्धयित्रि
+> चाभूत् ॥
+
+##### Gist of the bhāṣya
+
+The shining ones (rocamānā) are the radiant, and the rushantaḥ are those of white colour; Yāska says (Ni. 2-20) that "rushat" is a name for colour. For the beauty of the world, or else to pervade the world, the dawns rise up like the waves connected with water. What follows then passes into the singular: Uṣas makes all places have good roads, that is, easy to travel with ease. Further, the wealthy Uṣas becomes praiseworthy and a bringer of abundant prosperity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोचमानाः (*rocamānāḥ*)—the attractive ones
+- रुशंतः (*ruśaṃtaḥ*)—and the ones of pure white colour
+- उषसः (*uṣasaḥ*)—the dawns
+- श्रिये (*śriye*)—to give lustre to the world
+- अपां (*apāṃ*)—of the waters
+- ऊर्मयः न (*ūrmayaḥ na*)—like waves
+- उदस्थुः (*udasthuḥ*)—they arise
+- उषाः (*uṣāḥ*)—Uṣas
+- सुपथा (*supathā*)—as having excellent roads
+- सुगानि (*sugāni*)—as suitable for easy travel
+- कृषोति (*kṛṣoti*)—she makes
+- मघोनी (*maghonī*)—Uṣas, the wealthy one
+- वस्वी (*vasvī*)—as praiseworthy
+- दक्षिणा (*dakṣiṇā*)—as one who brings about abundance of prosperity
+- अभूत् (*abhūt*)—she becomes
+
+##### भावार्थ (Bhāvārtha)
+
+The dawns, of attractive form and pure white colour, arise like the waves of the waters to give lustre to the world. Uṣas makes all places have excellent roads and be suitable for easy travel. The wealthy Uṣas becomes praiseworthy and a bringer of abundant prosperity.
+
+##### English translation
+The white and shining tints of the dawn have spread like the waves of the waters, for the beautifying (of the world); she renders all good roads easy to be traversed; she who is replete with delight, excellence, and health.
+
+### Printed p. 455
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रा द॑दृक्ष उर्वि॒या वि भा॒स्युत्ते॑ शो॒चिर्भा॒नवो॒ द्याम॑पस्तन् ।  
+> आ॒निर्वक्षः॑ कृणुषे शुं॒भमा॒नोषो॑ देवि॒ रोच॑माना॒  ॑
+> महोभिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रा । ददृक्षे । उर्विया । वि । भासि । उत् । ते । शोचिः । भानवः । द्यां । अपप्तन ।  
+> अविः । वक्षः । कृणुषे । शुंभमाना । उषः । देवि । रोचमाना । महःभिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो देवि भद्रा कल्याणी ददृक्षे । दृश्यसे । उर्विया विस्तीर्णा
+> च वि भासि । ते तव शोचिः शोचिषः ॥ जसो लुक् ॥ दीप्यमाना भानवो रश्मयो
+> द्यामंतरिक्षमुदपप्तन् । उत्पतंति । किंच हे उषो देवि महोभिस्तेजोभिः
+> शुंभमाना शोभमाना रोचमाना दीप्यमाना वक्षस्त्वदीयं रूपमाविष्कृणुषे ।
+> प्रकटीकरोषि ॥
+
+##### Gist of the bhāṣya
+
+O goddess Uṣas, you are seen as auspicious, and you shine broad and far-spread. Your bright flames, that is your rays, have flown up into the sky. Further, O goddess Uṣas, shining and radiant with your splendours, you make your own form manifest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O goddess Uṣas) त्वं (*tvaṃ*)—you
+- भद्रा (*bhadrā*)—in an auspicious form
+- ददृक्षे (*dadṛkṣe*)—you are visible
+- उर्विया (*urviyā*)—with an exceedingly extensive form
+- वि भासि (*vi bhāsi*)—you shine with lustre
+- ते (*te*)—your
+- शोचिः (*śociḥ*)—bright
+- भानवः (*bhānavaḥ*)—rays
+- द्यां (*dyāṃ*)—the whole sky
+- उदपप्तन (*udapaptana*)—they have spread, pervading it
+- उषो देवि (*uṣo devi*)—O goddess Uṣas
+- महोभिः (*mahobhiḥ*)—with your splendours
+- शुंभमाना (*śuṃbhamānā*)—shining
+- रोचमाना (*rocamānā*)—with an attractive form
+- वक्षः (*vakṣaḥ*)—your form
+- आविः कृणुषे (*āviḥ kṛṇuṣe*)—you reveal
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, you are visible to the whole world in an auspicious form. With an exceedingly extensive form you shine with lustre. Your bright rays have spread, pervading the whole sky. O goddess Uṣas, shining with your splendours and with an attractive form, you reveal your form.
+
+### Printed p. 456
+
+##### English translation
+Divine Ushas, you are seen auspicious : you shine afar: your bright rays spread over the sky, lovely and radiant with great (splendours), you display your person.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वहं॑ति सीमरु॒णासो॒ रुशं॑तो॒ गावः॑ सु॒भगा॑मुर्वि॒या  ॒॑
+> प्रथानां ।  
+> अपे॑जते॒ शूरो॒ अस्ते॑व॒ शत्रू॒न्बाध॑ते॒ तमो॑ अजि॒रो न  ॑
+> वोळ्हा ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वहंति । सीं । अरुणासः । रुशंतः । गावः । सुभगां । उर्विया । प्रथानां ।  
+> अप । ईजते । शूरः । अस्ता इव । शत्रून् । बाधते । तमः । अजिरः । न । वोळ्हा ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरुणासो लोहितवर्णा रुशंतो दीप्यमाना गावो रश्मयः । किरणा गाव
+> इति रश्मिनामसु पाठात् । सुभगामुर्वियोर्विं विस्तीर्णां प्रथानां प्रथमानां
+> सीमेनामुषोदेवतां वहंति । सेयमुषोदेवता शूरोऽस्तेव वीरः क्षेप्तेव
+> शूत्रून् तमोऽपेजते । अपगमयति । वोळ्हा सेनाया अजिरो न क्षिप्रगामी
+> शत्रून्यथा बाधते तथा तमांसि बाधते च ॥
+
+##### Gist of the bhāṣya
+
+The ruddy, that is red-coloured, and shining cows are rays, since "kiraṇāḥ" and "gāvaḥ" are read among the names of rays. They carry this goddess Uṣas, who is of good fortune, broad, and spreading far. This goddess Uṣas drives darkness away, like a hero, that is like a thrower who hurls at his enemies. Just as a swift-moving leader of an army harasses enemies, so she harasses the darknesses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरुणासः (*aruṇāsaḥ*)—the golden-hued
+- रुशंतः (*ruśaṃtaḥ*)—and resplendent
+- गावः (*gāvaḥ*)—rays
+- सुभगां (*subhagāṃ*)—the bestower of auspiciousness
+- उर्विया (*urviyā*)—having an extensive form
+- प्रथानां (*prathānāṃ*)—and renowned
+- सीं (*sīṃ*)—this goddess Uṣas
+- वहंति (*vahaṃti*)—they carry
+- शूरः (*śūraḥ*)—a valiant
+- अस्ता इव (*astā iva*)—archer
+- शत्र्यान् (*śatryān*)—like one who strikes and drives away enemies
+- (उषाः (*uṣāḥ*)—the goddess Uṣas)
+- तमः (*tamaḥ*)—darkness
+- अपेजते (*apejate*)—she strikes and drives away
+- अजिरः (*ajiraḥ*)—swift-moving
+- वोळ्हा न (*voḷhā na*)—like a leader of an army
+- बाधते (*bādhate*)—she afflicts the darkness
+
+### Printed p. 457
+
+##### भावार्थ (Bhāvārtha)
+
+The golden-hued and resplendent rays carry this goddess Uṣas, who is the bestower of auspiciousness, of extensive form and renowned. As a valiant archer strikes and drives away enemies, the goddess Uṣas strikes and drives away the darkness. Like a swift-moving leader of an army, she afflicts the darkness.
+
+##### English translation
+Ruddy and resplendent cows bear the auspicious, expanding, illustrious dawn : like a warrior, who, casting his darts, or a swift charger scattering enemies, she drives away the glooms.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒गोत ते॑ सु॒पथा॒ पर्व॑तेश्ववा॒ते अ॒पस्त॑रसि स्वभानो ।  
+> सा न॒ आ व॑ह पृथुयामन्नृष्टे र॒यिं दि॑वो दुहितरिष॒यध्यै॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुगा । उत । ते । सुपथा । पर्वतेषु । अवाते । अपः । तरसि । स्वभानो इति  
+> स्वभानो ।  
+> सा । नः । आ । वह । पृथुयामन् । ऋष्टे । रयिं । दिवः । दुहितः । इषयध्यै ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो देवि पर्वतेषूतॆ दुर्गॆष्टप्यवाते गमनसाधनरहिते देशे सुपथा
+> सुपथानि मार्गाणि सुगा सुगानि सुखेन गम्यानि ते तव भवंति । स्वभानो हे
+> स्वप्रकाशेऽपोऽंतरिक्षमाकाशं । आप इत्यंतरिक्षनामसु पाठात् । सामुद्रिकीरपो वा
+> तरसि । पृथुयामन् पृथुरथ ऋष्टे दर्शनीये दिवो दुहितरंतरिक्षुसुते हे उषो
+> देवि सा त्वमिषयध्या एषणीयं धनं नोऽस्मभ्यमा वह ॥
+
+##### Gist of the bhāṣya
+
+O goddess Uṣas, in mountains, that is in inaccessible places, and in places without means of passage, good paths that are easy to travel with ease are yours. O self-luminous one, you cross the "apaḥ", that is the sky, since "āpaḥ" is read among the names of the sky; or else you cross the waters of the ocean. O you of the wide chariot, O beautiful one, O daughter of heaven, that is of the sky, goddess Uṣas: you, such as you are, bring to us the wealth that is to be desired.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O goddess Uṣas) पर्वतेषु (*parvateṣu*)—in the mountains
+- उत (*uta*)—and
+- अवाते (*avāte*)—in the inaccessible places which have no means of passage
+- सुपथा (*supathā*)—the excellent paths
+- सुगा (*sugā*)—the means of easy travel
+- ते (*te*)—belong to you
+- स्वभानो (*svabhāno*)—O goddess of self-luminous nature
+
+### Printed p. 458
+
+- अपः (*apaḥ*)—the sky
+- तॆरसि (*tèrasi*)—you cross
+- दिवो दुहितः (*divo duhitaḥ*)—O Uṣas, daughter of the sky
+- सा (*sā*)—you who have such auspicious qualities
+- पृथुयामन् (*pṛthuyāman*)—having a wide expanse
+- ऋष्टे (*ṛṣṭe*)—and having an attractive form: in your chariot which is such
+- इषयध्यै (*iṣayadhyai*)—desired
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—to us
+- आ वह (*ā vaha*)—come, bearing it
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, the excellent paths and the means of easy travel that exist in the mountains and in the inaccessible strongholds without means of passage belong to you. O self-luminous goddess, you cross the sky. O Uṣas, daughter of the sky, you who have such renowned auspicious qualities, bring to us in your chariot, which has a wide expanse and an attractive form, the wealth that we desire.
+
+##### English translation
+Yours are good roads and easy to be traversed in mountains and inaccessible places : you pass self-irradating over the waters : bring to us, daughter of heaven, in your spacious and beatiful chariot, desirable riches.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा व॑ह॒ योक्षभि॒रवा॒तोषो॒ वरं॒ वह॑सि॒ जोष॒मनु॑ ।  
+> त्वं दि॑वो दुहित॒र्या ह॑ दे॒वी पू॒र्वहू॑त् मं॒हना॑ दर्श॒ता  ॑
+> भूः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । आ । वह । या । उक्षभिः । अवाता । उषः । वरं । वहसि । जोषं । अनु ।  
+> त्वं । दिवः । दुहितः । या । ह । देवी । पूर्वहूतौ । मंधना । दर्शता । भूः ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः सा त्वं वरं धनं मह्यमा वह । या त्वमवाताप्रतिगता जोषं
+> प्रीतिमनूक्षभिरनडुद्धिरश्वैर्वा स्तोतृभ्यो वरं वहसि । किंच हे दुवो दुहितरंतरिक्षसुते या त्वं देवी द्योतमाना पूर्वहूत् प्रथमाह्वाने प्रातरनुवाके
+
+##### Gist of the bhāṣya
+
+O Uṣas, such as you are, bring excellent wealth to me. You who, unobstructed, bear excellent wealth for the singers according to their pleasure, that is their delight, with oxen or else with horses. Further, O daughter of heaven, that is of the sky, you who are a goddess, shining, in the first invocation, the Prātaranuvāka, are (continued below).
+
+### Printed p. 459
+
+> मंहना पूजनीया भवसि सा त्वं दर्शता दर्शनीया भूरिति योजना । या दर्शता
+> भूरित्यन्वये यद्वृत्तेन सामान्याधिकरण्यात् भूरित्यस्य निघातो न स्यात् ॥
+
+##### Gist of the bhāṣya
+
+You are worthy of worship, and such as you are, be worth seeing: so the construction is made.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- या (*yā*)—you who
+- अवाता (*avātā*)—unobstructed
+- जोषं (*joṣaṃ*)—the dear wealth
+- अनु उक्षभिः (*anu ukṣabhiḥ*)—upon your vehicles
+- वहसि (*vahasi*)—you bear
+- सा (*sā*)—such as you are
+- वरं (*varaṃ*)—the excellent wealth
+- आ वह (*ā vaha*)—come, bearing it for me
+- दिवो दुहितः (*divo duhitaḥ*)—O Uṣas, daughter of the sky
+- या त्वं (*yā tvaṃ*)—you who
+- देवी (*devī*)—shining and venerable
+- पूर्वहूतौ ह (*pūrvahūtau ha*)—in the very first sacrifice
+- मंहना (*maṃhanā*)—are worthy of worship (such as you are)
+- दर्शता भूः (*darśatā bhūḥ*)—be worth seeing
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, you who, unobstructed, bear dear wealth upon your vehicles, which have the form of bulls, such as you are, bring me excellent wealth. O Uṣas, daughter of the sky, you who, shining and venerable, are worthy of worship in the very first sacrifice (in the Prātaranuvāka), such as you are, be of a form worth seeing.
+
+##### English translation
+Ushas, bring me opulence, for unopposed you bear with your oxen (wealth to your worshippers), according to your satisfaction : daughter of heaven, you who are divine, who are lovely, are to be worshipped at the first (daily) rite.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ते॒ वय॑श्चिद्वस॒तेर॑पस्त॒न्नर॑श्च॒ ये पि॑तु॒भाजो॒ व्यु॑ष्टौ ।  
+> अ॒मा स॒ते व॑हसि॒ भूरि॑ वा॒ममुषो॑ देवि दा॒शुषे॒ मर्त्या॑य॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ते । वयः । चित् । वसतेः । अपप्तन । नरः । च । ये । पितुभाजः । विउष्टौ ॥  
+> आमा । सते । वहसि । भूरि । नामं । उषः । देवि । दाशुषे । मर्त्याय ॥ ६ ॥
+
+### Printed p. 460
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषो देवि ते तव व्युष्टौ सत्यां वयश्चित्पक्षिणोऽपि वसतेर्निवासस्थानादुदपप्तन । उत्पतंति । ये पितुभाजो हविषां संभक्तारोऽन्नस्योपार्जका वा ।
+> पितुरित्यन्ननामसु पाठात् । नरः तेऽपि चोत्पतंति । किंच हे उषो देवि त्वममा
+> समीपे सते वर्तमानाय दाशुषे हविषां प्रदात्रे मर्ताय भूरि प्रभूतं
+> वामं धनं वहसि ॥
+
+##### Gist of the bhāṣya
+
+O goddess Uṣas, when your dawning has taken place, even the birds fly up from their dwelling-place. Those who are sharers in oblations, or earners of food, since "pitu" is read among the names of food, the men, they too rise up. Further, O goddess Uṣas, you bring abundant desired wealth to the mortal who is near, the giver of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O goddess Uṣas) ते (*te*)—your
+- वुष्टौ (*vuṣṭau*)—at the time of manifestation
+- वयःश्चित् (*vayaḥścit*)—even the birds
+- वसतेः (*vasateḥ*)—from their dwelling-places
+- उदपप्तन (*udapaptana*)—fly away
+- ये (*ye*)—those who
+- पितुभाजः (*pitubhājaḥ*)—are engaged in earning food
+- नरः च (*naraḥ ca*)—men also, awakened, rise and move about
+- उषो देवि (*uṣo devi*)—O divine Uṣas
+- अमा (*amā*)—near
+- सते (*sate*)—who is
+- दाशुषे (*dāśuṣe*)—and offers oblations
+- मर्त्याय (*martyāya*)—to the sacrificer
+- भूरि (*bhūri*)—abundantly
+- वामं (*vāmaṃ*)—the desired wealth
+- वहसि (*vahasi*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, at the time of your manifestation even the birds fly away from their dwelling-places. Men engaged in earning food also awake, rise and move about. O divine Uṣas, bring abundant desired wealth to the sacrificer who is near you and offers oblations to you.
+
+##### English translation
+At your dawning, divine Ushas, the birds spring up from their nests, and men who have to gain their sustenance (arise) : you divine Ushas, bring ample wealth to the mortal who is near you, the offerer of the oblation.
+
+## Sūkta 65 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा स्वेति षडृचं चतुर्थं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभं । अनुक्रम्यते
+> च । एषास्येति । उषस्यं त्विति पूर्वसूक्त उक्तत्वादिदमप्युषोदेवताकं ॥ प्रातरनुवाकाशिनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एषा स्वेति (*eṣā sveti*), of six ṛks, the fourth sūkta, is the vision of Bharadvāja and is in the Triṣṭubh metre. In the Anukramaṇikā it is said एषास्येति (*eṣāsyeti*) **GLOSS**. Since उषस्यं त्विति (*uṣasyaṃ tviti*) **GLOSS** has been stated in the previous sūkta, this one too has Uṣas as its deity. Its ritual use in the Prātaranuvāka and in the Āśvina-śastra has been stated.
+
 ---
 
-**Progress note:** Done through printed p. 453. Ṛ. 63.7-11 and 64.1 (Udu śriye), pp. 448-453
+**Progress note:** Done through printed p. 460. Vol 21 pp. 454-460: Mandala 6 sukta 64 rks 1-6; start of sukta 65
