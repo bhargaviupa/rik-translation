@@ -32501,6 +32501,288 @@ The fifteenth sūkta, beginning उपसद्याय (*upasadyāya*), of fif
 
 This sūkta, उपसद्याय (*upasadyāya*), is the fifteenth sūkta in the first anuvāka. In it there are fifteen ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: उपसद्याय पंचोना गायत्रं (*upasadyāya paṃconā gāyatraṃ*).
 
+### Printed p. 764
+
+##### Anuvāda
+
+In the recitation of the Prātaranuvāka mantras, this sūkta has its application for the mantras in the Gāyatrī metre connected with the Āgneya kratu and for the Āśvina-śastra mantras, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra, उपसद्याय त्वमग्ने यज्ञानामिति तिस्र उत्तमा उद्धरेत् (*upasadyāya tvamagne yajñānāmiti tisra uttamā uddharet*) (Ā. 4-13). For the sāmidhenī mantras recited in the forenoon at the Upasad sacrifice, the first three ṛks of this sūkta, beginning with उपसद्याय (*upasadyāya*), have their application, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra, उपसद्याय माळ्पुष इति तिस्र एकैकां त्रिरनवानं (*upasadyāya māḷpuṣa iti tisra ekaikāṃ triranavānaṃ*) (Ā. 4-8). At the Pavitreṣṭi the tenth ṛk, अग्नि रक्षांसि (*agni rakṣāṃsi*), is to be recited as the anuvākyā mantra at the first ājyabhāga oblation, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra, पावकवंतावाज्यभागावग्नी रक्षांसि सेधति (*pāvakavaṃtāvājyabhāgāvagnī rakṣāṃsi sedhati*) (Ā. 2-12). At the Anvārambhaṇīyeṣṭi also, when the offering is made to the deity called अग्निर्भाक् (*agnirbhāk*), the eleventh ṛk, स नो राधांस्याभर (*sa no rādhāṃsyābhara*), is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra, आ सवं सवितुर्यथा स नो राधांस्याभर (*ā savaṃ savituryathā sa no rādhāṃsyābhara*) (Ā. 2-8). In the iṣṭi called Svastyayanī the thirteenth ṛk, अग्ने रक्षा णः (*agne rakṣā ṇaḥ*), is to be recited as the anuvākyā mantra at the first ājyabhāga oblation, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra, स्वस्त्ययन्यां रक्षितवंतावग्ने रक्षा णो अंहसः (*svastyayanyāṃ rakṣitavaṃtāvagne rakṣā ṇo aṃhasaḥ*) (Ā. 2-10).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 15
+- Aṣṭaka 5; Adhyāya 2; Varga 8, 19, 20**NOTE**
+- Number of ṛks in the sūkta: 15
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: गायत्रि (*gāyatri*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒प॒सद्या॑य मा॒ळ्हुष॑ आ॒स्ये॑ जुहता ह॒विः ।  
+> यो नो॒ नेदि॑ष्ट॒माप्यं॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपसद्याय । माळ्हुषे । आस्ये । जुहुत । हविः ।  
+> यः । नः । नेदिष्टं । अप्यं ॥ १ ॥
+
+### Printed p. 765
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यव उपसदद्यायोपसदनीयाय विळ्हुषे कामानां वर्षित्रेऽग्नये तत्प्रीत्यर्थमास्यॆ तस्यैव मुखे हविर्जुहुत । योग्निर्नेदिष्ट मासन्नतममाप्यं भवति । आसन्नतमो बंधुर्भवतीत्यर्थः ॥ आप्यमिति स्वार्थिकस्तद्धितः ॥
+
+##### Gist of the bhāṣya
+
+O adhvaryus, to Agni who is to be approached, who showers desires, pour the oblation, for his gratification, into his mouth: to the Agni who is the nearest and closest kinsman to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—to us
+- यः (*yaḥ*)—the Agni who
+- नेदिष्टं (*nediṣṭaṃ*)—the nearest
+- आप्यं (*āpyaṃ*)—beneficial kinsman
+- उपसद्याय (*upasadyāya*)—who is seated close by
+- माळ्हुषे (*māḷhuṣe*)—the showerer of desires
+- आस्यॆ (*āsyè*)—in the mouth
+- हविः (*haviḥ*)—the oblation
+- जुहुत (*juhuta*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryus, into the mouth of that Agni who is to us the nearest and beneficial kinsman, who is seated close by and showers desires, offer the oblation.
+
+##### English translation
+Offer the oblation to the present Agni, the showerer (of benefits) ; pour it into the mouth of him who (bears) to us the nearest relationship.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः पंच॑ चर्ष॒णीर॒भि नि॑ष॒साद॒ दमे॑दमे ।  
+> क॒विर्गृ॒हप॑ति॒र्युवा॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । पंच । चर्षणीः । अभि । निससाद । दमेदमे ।  
+> कविः । गृहपतिः । युवा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निः कविः प्राज्ञो गृहपतिर्गृहाणां पालयिता युवा नित्यतरुणः सन्
+> पंच चर्षणीः पंच जनान् मनुष्यानभि अभिमुखं दमे दमे गृहे गृहे निषसाद
+> निषीदति । उत्तरया वाक्यपरिसमाप्तिः ॥
+
+##### Gist of the bhāṣya
+
+The Agni who, wise, lord of houses, protector of houses, and ever young, sits facing the five peoples, the human beings, in every house; the sentence is completed by the following ṛk.
+
+### Printed p. 766
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Agni who
+- कविः (*kaviḥ*)—being wise
+- गृहपतिः (*gṛhapatiḥ*)—lord of all houses
+- युवा (*yuvā*)—and ever young
+- पंच चर्षणीः (*paṃca carṣaṇīḥ*)—to the five peoples, the gods, men and others
+- अभि (*abhi*)—facing
+- दमेदमे (*damedame*)—in every house
+- निषसाद (*niṣasāda*)—sits (in the mouth of such an Agni offer the oblation)
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, being wise, the lord of all houses and ever young, sits in every house facing the five peoples, the gods, men and others: into the mouth of such an Agni offer the oblation.
+
+##### English translation
+Who, juvenile, wise, the lord of the dwelling, adides with the five classes of men in every dwelling.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ वेदो॑ अ॒मात्य॑म॒ग्नी र॑क्षतु वि॒श्वतः॑ ।  
+> उ॒तास्मान्पा॒त्वंह॑सः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । वेदः । अमात्यं । अग्निः । रक्षतु । विश्वतः ।  
+> उत । आस्मान् । पातु । अंहसः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोग्निर्नोऽस्माकं वेदो धनममात्यमंतिके भवं सहभूतं वा विश्वतः
+> सर्वतो बाधकाद्रक्षतु । उतापि चास्मान्वसिष्ठानंहसः पापात्पातु । रक्षतु ॥
+
+##### Gist of the bhāṣya
+
+May that Agni protect our wealth, our veda, which is near, or which has come into being along with us, from the obstructor on all sides. And may he protect us Vasiṣṭhas from sin.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः अग्निः (*saḥ agniḥ*)—that well-known Agni
+- नः (*naḥ*)—our
+- अमात्यं (*amātyaṃ*)—stored up
+- वेदः (*vedaḥ*)—wealth
+- विशृतः (*viśṛtaḥ*)—from all hindrances
+- रक्षतु (*rakṣatu*)—may he protect
+- उत (*uta*)—and
+- अस्मान् (*asmān*)—us, of the family of Vasiṣṭha
+- अंहसः (*aṃhasaḥ*)—from sin
+- पातु (*pātu*)—may he protect
+
+### Printed p. 767
+
+##### भावार्थ (Bhāvārtha)
+
+May that well-known Agni protect our stored-up wealth from all hindrances. And may he protect us, of the family of Vasiṣṭha, from sin.
+
+##### English translation
+May he defend for us the wealth that has been acquired, and preserve us from iniquity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नवं॒ नु स्तोम॑म॒ग्न ये॑ दि॒वः श्ये॒नाय॑ जीजनं ।  
+> वस्वः॑ कु॒विद्व॒नाति॑ नः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नवं । नु । स्तोमं । अग्नये । दिवः । श्येनाय । जीजनं ।  
+> वस्वः । कुवित् । वनाति । नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्य श्येनाय श्येनसदृशाय नु क्षिप्रं गंत्रेऽग्नये यस्मै
+> नवं नूतनं स्तोमं जीजनं जनयामि सोऽग्निर्नोऽस्मभ्यं कुविद्दहु वस्तो
+> वसु धनं ॥ कर्मणि षष्ठी ॥ वनाति । ददात्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+To Agni, who is like a hawk of the heaven, the world of heaven, swift in going, for whom I produce a new praise: may that Agni give us much wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—to the world of heaven
+- श्येनाय (*śyenāya*)—in the form of the hawk
+- नु (*nu*)—moving swiftly
+- अग्नये (*agnaye*)—to Agni
+- नवं (*navaṃ*)—new
+- स्तोमं (*stomaṃ*)—praise
+- जीजनं (*jījanaṃ*)—I make
+- नः (*naḥ*)—to us
+- कुमित् (*kumit*)—very great
+- वस्वः (*vasvaḥ*)—wealth
+- वनाति (*vanāti*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+To Agni, who is like a hawk to the world of heaven and moves swiftly, I make a new praise. May that same Agni give us very great wealth.
+
+##### English translation
+May Agni, to whom as to a (swift) hawk in heaven, I address this new hymn, bestow upon us ample wealth.
+
+### Printed p. 768
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्पा॒र्हा यस्य॒ श्रियो॑ दृ॒शे र॒यिर्वी॒रव॑तो यथा ।  
+> अग्रे॑ य॒ज्ञस्य॒ शोच॑तः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वाहाः । यस्य । श्रियः । दृशे । रयिः । वीरवतः । यथा ।  
+> अग्रे । यज्ञस्य । शोचतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्याग्रे पुरस्ताद्भागे शोचतो दीप्यमानस्य यस्याग्नेः श्रियो
+> दीप्तयो वीरवतः पुत्रवतो रयिर्धनं ; यथा तद्वत् दृशे द्रष्टुं चक्षुषे वा
+> स्पार्हाः स्पृहणीया भवंति तस्मै नवं स्तोमं जीजनमित्यनुषंगः । उत्तरत्र
+> संबंधो वा ॥
+
+##### Gist of the bhāṣya
+
+Of the Agni who shines in front of the sacrifice, in the foremost part, whose splendours are enviable to look at, to see, like the riches of one who has sons: to him I produce a new praise. This is a carrying over of the words, or else the connection is with what follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- अग्रे (*agre*)—in front
+- शोचतः (*śocataḥ*)—who shines
+- यस्य (*yasya*)—of the Agni whose
+- श्रियः (*śriyaḥ*)—splendours
+- वीरवतः (*vīravataḥ*)—of one who has sons
+- रयिः यथा (*rayiḥ yathā*)—like riches
+- दृशे (*dṛśe*)—to look at
+- स्पार्हाः (*spārhāḥ*)—are attractive (to such an Agni I offer praise)
+
+##### भावार्थ (Bhāvārtha)
+
+To that Agni who shines in front of the sacrifice, whose splendours are attractive to look at like the riches of one who has sons, I offer praise.
+
+##### English translation
+Of whom, blazing in the front of the sacrifice, enviable honours are to be seen, like the riches of a man having male offspring.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सेमां वे॑तु॒ वष॑ट्कृतिम॒ग्निर्जु॑षत नो॒ गिरः॑ ।  
+> यजि॑ष्ठो हव्य॒वाह॑नः ॥ ६ ॥
+
+### Printed p. 769
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इमां । वेतु । वषट्कृतिं । अग्निः । जुषत । नः । गिरः ।  
+> यजिष्ठः । हव्यवाहनः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजिष्टो यजनीयतमो यष्टृतमो वा हव्यवाहनो हव्यानां हविषां
+> वोढा सोऽग्निरिमां वषट्कृतिमस्माभिर्दीयमानामाहुतिं वेतु । कामयतां ।
+> भक्षयतु वा । नोऽस्माकं गिरः स्तुतीश्च जुषत । सेवतां ॥
+
+##### Gist of the bhāṣya
+
+That Agni, the most worthy of worship, or the best of those who worship, the bearer of the oblations: may he desire, or eat, this vaṣaṭ-offering, the oblation given by us. May he enjoy our praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजिष्ठः (*yajiṣṭhaḥ*)—the most worthy of worship
+- हव्यवाहनः (*havyavāhanaḥ*)—the bearer of oblations
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- इमां (*imāṃ*)—offered by us now
+- वषट्कृतिं (*vaṣaṭkṛtiṃ*)—the oblation
+- वेतु (*vetu*)—may he desire and eat
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—praises
+- जुषत (*juṣata*)—may he enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+May that same Agni, the most worthy of worship and the bearer of oblations, desire and eat the oblation now offered by us. May he enjoy our praises.
+
+##### English translation
+May that most adorable Agni, the bearer of oblations, accept our offering, gratified by our praises.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि त्वा॑ नक्ष विश्वते द्यु॒मंतं॑ देव धीमहि ।  
+> सु॒वीर॑मग्न आहुत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । त्वा । नक्ष्य । विश्वते । द्युमंतं । देव । धीमहि ।  
+> सुखीरों । अग्ने । आहुत ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 763. Sūkta 13 Ṛk 2-3, Sūkta 14, Sūkta 15 start, pp. 758-763
+**Progress note:** Done through printed p. 769. Sūkta 15 Ṛk 1-7 (Sāyaṇa up to Ṛk 6), pp. 764-769
