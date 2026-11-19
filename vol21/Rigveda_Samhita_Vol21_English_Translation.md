@@ -12046,6 +12046,310 @@ O gods, I invoke your mother, the shining Aditi, the one not to be broken, or th
 - अभिक्षदां (*abhikṣadāṃ*)—the one who injures enemies
 - सुशेवं (*suśevaṃ*)—the very happy-making
 
+### Printed p. 278
+- अर्यमणं (*aryamaṇaṃ*)—Aryaman, the god
+- सवितारं (*savitāraṃ*)—Savitṛ
+- भगं (*bhagaṃ*)—Bhaga
+- त्रात्वान् (*trātvān*)—our protectors
+- देवान् च (*devān ca*)—all the other gods as well (I invoke, praying)
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, I invoke with salutation-accompanied hymns, for the sake of our happiness, the goddess Aditi, your venerable mother, and Varuṇa, Mitra and Agni; and Aryaman, the god who injures enemies and is exceedingly happy-making, and Savitṛ and Bhaga as well. In the same way I invoke, praying, all the other gods who are our protectors.
+
+##### English translation
+I invoke with adorations, for the sake of felicity, the divine Aditi and Varuna, Mitra and Agni, overthrower of foes, worthy of devotion, Savitri and Bhaga, and (all) protecting divinities.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ज्योति॑षः सूर्य॒ दक्ष॑पितृननागा॒स्त्वे सु॑महो वीहि  ॒
+> देवान् ।  
+> द्वि॒जन्मा॑नो॒ य ऋ॑त॒सापः॑ स॒त्याः स्व॑र्वंतो यज॒ता अ॑ग्निजि॒ह्वाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुज्योतिषः । सूर्य । दक्षपित्थन् । अनागाःत्वे । सुमहः । वीहि । देवान् ।  
+> द्विजन्मानः । ये । ऋत्सापः । सत्याः । स्ववंतः । यजताः । अग्निजिह्वाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुमहः शोभनदीप्ते सूर्य सर्वस्य प्रेरक दक्षपित्यन् । दक्षः पितामहो
+> येषां ते दक्षपितरः । पितृशब्दो हि सामान्येन पूर्वपुरुषत्वमात्रं ब्रूते ।
+> यथाहं पित्र्यान्तु विदत्ता अवित्सि । ऋग्वे. १०-१५-३ । इति । एषां दक्षपितृत्वं
+> जादितिर्ह्य जनिष्टेति । ऋग्वे. १०-७२-५ । मंत्रादवगम्यते । ईदृशान् सुज्योतिषः
+> शोभनज्योतिष्कान्देवाननागास्त्वेऽनपराधत्वे वीहि । कामयस्व । यथास्माकमपराधं ते न कुर्वंति तथा कुर्या इत्यर्थः । ये देवा द्विजन्मानो द्वयोर्लोक-
+
+##### Gist of the bhāṣya
+
+"O Sumahas, well-radiant Sūrya, impeller of all, take pleasure in the gods who have Dakṣa as their forefather." Sāyaṇa explains that the word "father" in general denotes merely an ancestor, as in the mantra he cites (Ṛ. Saṃ. 10-15-3); that these gods have Dakṣa as their forefather is known from another mantra (Ṛ. Saṃ. 10-72-5). Such well-lit gods, shining beautifully, are to be desired in respect of being free from offence: act so that they commit no offence against us. **NOTE** He goes on to describe these gods as those who are twice born, that is, appearing as born in the two worlds.
+
+> योर्जायमानाः प्रादुर्भवंत ऋतसाप ऋतं यज्ञं स्पृशंतः सत्या अवितथाः
+> सत्यवादीनो वा स्वर्वंतो धनवंतो यजता यष्टव्या अग्नि जिह्वाः । अग्नि र्जिह्वास्थानीयो येषां ते । एवंभूता ये देवाः संति तान्नेवान्वीहीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The gods are "ṛtasāpaḥ", touching the ṛta, the sacrifice; "satyāḥ", true, or speakers of truth; "svarvantaḥ", possessed of wealth; "yajatāḥ", to be worshipped; and "agnijihvāḥ", those whose tongue-equivalent is Agni. The construction is: be pleased with the gods who are of this kind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुमहः (*sumahaḥ*)—O one of exceeding splendour
+- सूर्य (*sūrya*)—O Sūrya
+- ये (*ye*)—which gods
+- द्विजन्मानः (*dvijanmānaḥ*)—those who are born in both worlds
+- ऋतसापः (*ṛtasāpaḥ*)—those who touch the sacrifice
+- सत्याः (*satyāḥ*)—those who are of true nature
+- स्वर्वंतः (*svarvaṃtaḥ*)—the wealthy
+- यजताः (*yajatāḥ*)—the venerable
+- अग्निजिह्वाः (*agnijihvāḥ*)—those who have Agni for their tongue; such as are so
+- दक्षपित्मान् (*dakṣapitmān*)—those who have Dakṣa for their father
+- सुज्योतिषः (*sujyotiṣaḥ*)—those of exceeding radiance
+- देवान् (*devān*)—the gods
+- अनागास्त्वे (*anāgāstve*)—so as to be free of harm
+- वीहि (*vīhi*)—impel
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, of exceeding splendour, impel the gods who are born in both worlds, who touch the sacrifice, who are of true nature, wealthy, venerable, and have Agni for their tongue, who have Dakṣa for their father and are of exceeding radiance, to be free of harm towards us.
+
+##### English translation
+Radiant Surya, render the deities, who have Daksha for their progenitor, void of offence towards us ; they who are twice born, desirous of sacrifice, observant of truth, possessors of wealth, deserving of worship whose tongue is Agni.
+
+### Printed p. 279
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त द्या॑वापृथिवी क्ष॒त्रमु॒रु बृ॒हद्रो॑दसी शर॒णं सु॑षुम्ने॥  
+> म॒हस्क॑रथो॒ वरि॑वो॒ यथा॑ नो॒ऽस्मै क्षया॑य धिषणे अने॒हः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । द्यावापृथिवी इति । क्षत्रं । उरु । बृहत् । रोदसी इति । शरणं । सुसुम्मे इति  
+> सुसुम्मे ।  
+> महः । करथः । वरिवः । यथा । नः । अस्मे इति । क्षयाय । धिषणे इति । अनेकः ॥ ३ ॥
+
+### Printed p. 280
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे द्यावापृथिवी द्यावापृथिव्यावुरु विस्तीर्णं क्षत्रं बलं करथः ।
+> कुरुतं । तथा रोदसी द्यावापृथिव्य सुसुम्मे सुसुखे युवां । बृहन्महच्छरणं
+> गृहं च करथः । कुरुतं । महो महद्वरिवो धनं नोऽस्माकं यथा स्यात्तथा
+> कुरुतमित्यर्थः । अपि च हे धिषणे धारयित्र्य द्यावापृथिव्यावनेहः पापराहित्यं
+> चास्मे आस्माकं क्षयाय निवासार्थं कुरुतं ॥
+
+##### Gist of the bhāṣya
+
+Moreover, O Heaven and Earth, you two make wide, extensive strength. Likewise, O Rodasī, Heaven and Earth, you of good happiness, make a great, vast refuge, that is, a house. Do so that great wealth ("varivas") may be ours. Further, O Dhiṣaṇe, O sustainers, Heaven and Earth, make freedom from evil for us, for our dwelling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—moreover
+- द्यावापृथिवी (*dyāvāpṛthivī*)—O Heaven and Earth
+- उरु (*uru*)—exceeding
+- क्षत्रं (*kṣatraṃ*)—strength
+- करथः (*karathaḥ*)—produce
+- सुसुम्मे (*susumme*)—you who bring about happiness
+- रोदसी (*rodasī*)—O Heaven and Earth
+- बृहत् (*bṛhat*)—great
+- शरणं (*śaraṇaṃ*)—a house (build it for us)
+- महः (*mahaḥ*)—abundant
+- वरिवः (*varivaḥ*)—wealth
+- नः (*naḥ*)—to us
+- यथा (*yathā*)—in whatever way it may be obtained, so favour us
+- धिषणे (*dhiṣaṇe*)—O Heaven and Earth, sustainers of the world
+- अस्मे (*asme*)—to us
+- क्षयाय (*kṣayāya*)—for the sake of a dwelling-place
+- अनेकः (*anekaḥ*)—produce also freedom from sin
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, who bring about happiness, produce exceeding strength for us. Build a great house for us. Favour us in such a way that abundant wealth is obtained by us. O Heaven and Earth, sustainers of the world, produce freedom from sin for us, for the sake of a dwelling-place.
+
+##### English translation
+Or bestow, Heaven and Earth, vast strength : give us, Earth and Heaven, a spacious habitation for our comfort : so arrange, that infinite wealth may be ours ; remove, beneficent deities, inquiry from our abode.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ रु॒द्रस्य॑ सू॒नवो॑ नमंताम॒द्या हू॒तासो॒ वस॒वोऽधृ॑ष्टाः ।  
+> यदी॒मर्भे॑ मह॒ति वा॑ हि॒तासो॑ बा॒धे म॒रुतो॒ अह्वा॑म  ॒
+> देवान् ॥ ४ ॥
+
+### Printed p. 281
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । रुद्रस्य । सूनवः । नमंतां । आद्य । हूतासः । वसवः । अधृष्टाः ।  
+> यत् । ईं । अर्भे । महति । वा । हितासः । बाधे । मरुतः । अह्वाम । देवान् ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रुद्रस्य सूनवः पुत्रा मरुतोऽद्यास्मिन्काले हूतास अहूताः संतो
+> नोऽस्मान्पत्या नमंतां । आनता भवंतु । आगच्छंतु । कीदृशाः । वसवो वासयितारोऽधृष्ट्वा अन्न्यैरहिंसिताः । यद्यदेमेनान्मरुतो देवानर्भेऽल्पे महति
+> प्रभूते वा बाधे संग्रामे हितासो निहिताः स्थिताः संतो वयमह्वाम आह्वयाम
+> तदानीमद्येत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, the sons of Rudra, invoked today, at this time, are to bow to us, that is, to become inclined to us and come. **NOTE** They are of this kind: "vasavaḥ", causers of dwelling, and "adhṛṣṭāḥ", unharmed by others. The construction is: when we, placed in battle, whether it be small or great, call upon these Maruts, the gods, then, today, may they bow to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यॆत् (*yèt*)—when
+- देवान् (*devān*)—who are of divine nature
+- ईं मरुतः (*īṃ marutaḥ*)—these Maruts
+- अर्भे (*arbhe*)—whether in a small one
+- वा (*vā*)—or
+- महति (*mahati*)—in a great one
+- बाधे (*bādhe*)—in battle
+- हितासः (*hitāsaḥ*)—we, who are engaged
+- आह्वाम (*āhvāma*)—call for help
+- अद्य (*adya*)—at that very time
+- वसवः (*vasavaḥ*)—the givers of dwelling
+- आधृष्टाः (*ādhṛṣṭāḥ*)—the unassailed by enemies
+- रुद्रस्य (*rudrasya*)—of Rudra
+- सूनवः (*sūnavaḥ*)—the sons
+- हूतासः (*hūtāsaḥ*)—having been called by us
+- नः (*naḥ*)—towards us
+- आ नमंतां (*ā namaṃtāṃ*)—let them descend and come
+
+##### भावार्थ (Bhāvārtha)
+
+When we, engaged in a battle, whether small or great, pray to these Maruts, the divine ones, for help, at that time may the Maruts, the givers of dwelling, unassailed by enemies, the sons of Rudra, having been called by us, descend and come towards us.
+
+##### English translation
+May the sons of Rudra, givers of dwellings, the unsubdued, invoked on the occasion, stoop down to us, inasmuch as we call upon the divine Maruts that they may be our helpers in difficulty, great or small.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒म्यक्ष॒ येषु॑ रोद॒सी नु दे॒वी सिष॑क्ति पू॒षा अ॑भ्यर्ध॒यज्वा॑ ।
+
+### Printed p. 282
+
+> श्रुत्वा हवं मरुतो यद्ध याथ भूमा रेजंते अध्वनि  
+> प्रविक्ते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मिम्यक्ष । येषु । रोदसी । नु । देवी । सिसक्ति । पूषा । अभ्यर्धयज्वा ।  
+> श्रुत्वा । हवं । मरुतः । यत् । ह । याथ । भूम । रेजंते । अध्वनि । प्रविक्ते ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येषु मरुत्तु रोदसी रुद्रस्य पत्नि देवी द्योतमाना माध्यमिका वाक्
+> विम्यक्ष नु क्षिप्रं संगच्छते । तथाभ्यर्धयज्वा स्तोत्कन्यभ्यर्धयन् समृद्धान्कुर्वन्यो
+> यजति धनेन पूजयति तादृशः पूषा पोषको देवश्च सिषक्ति यान्मरुतः सेवते ।
+> अभ्यर्धयज्वाभ्यर्धयन्यजति । नि. ६-६ । इति यास्कः । हे मरुतस्ते यूयं
+> हवमस्मदीयमाह्वानं श्रुत्वा यद्ध यदा खलु याथ आगच्छथ तदानीमध्वनि
+> मार्गे प्रविक्ते गमनार्थं पृथक्कृते सति तत्र विद्यमानानि भूम भूतजातानि
+> रेजंते । कंपंते । तथा च मंत्रांतरं । प्र वेपयंति पर्वतान्नि विंचंति वनस्पतीन् ।
+> ऋग्वे. १-३९-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Among those Maruts, Rodasī, the wife of Rudra, the shining speech of the middle region, quickly joins; likewise Pūṣan, "abhyardhayajvā", who makes the praisers prosperous and worships, that is, honours with wealth, being the nourishing god, attends upon those Maruts. "Abhyardhayajvā" means one who, increasing, worships (Ni. 6-6), as Yāska says. O Maruts, when you, having heard our invocation, come, then on the path set apart for your going, all the beings that are there tremble. Another mantra says the same (Ṛ. Saṃ. 1-39-5).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- येषु (*yeṣu*)—in whom
+- रोदसी (*rodasī*)—the wife of Rudra
+- देवी (*devī*)—and the shining goddess of speech of the middle region
+- नु (*nu*)—with
+- मिम्यक्ष (*mimyakṣa*)—she is joined (and likewise)
+- अभ्यर्धयज्वा (*abhyardhayajvā*)—he who makes the praisers prosper through the giving of wealth
+- पूषा (*pūṣā*)—the god Pūṣan
+- सिषक्ति (*siṣakti*)—attends upon you (such as you)
+- हवं (*havaṃ*)—our invocation
+- श्रुत्वा (*śrutvā*)—having heard
+- यद्ध (*yaddha*)—when
+- याथ (*yātha*)—you come (then)
+- प्रविक्ते (*pravikte*)—divided and made ready for your travelling
+- अध्वनि (*adhvani*)—on the path
+- भूम (*bhūma*)—all beings
+- रेजंते (*rejaṃte*)—tremble
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you with whom the shining goddess of speech of the middle region, the wife of Rudra, is joined, and whom likewise the god Pūṣan, who makes the praisers prosper through the giving of wealth, attends: when you, having heard our invocation, come, then all beings on the path made ready for your travelling tremble with fear.
+
+### Printed p. 283
+
+##### English translation
+With whom the divine Heaven and Earth are associated ; whom Pushan, the rewarder (of his worshippers) with prosperity, honours : when Maruts, having heard our invocation, you come hither, then on your several paths all beings tremble.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has stated an etymology of the word "abhyardhayajvā" in this Ṛk, and has explained its meaning taking this very Ṛk as the example:
+अभ्यर्द्धयज्वाभ्यर्द्धयन्यजति । सिषक्ति पूषा अभ्यर्द्धयज्वा इत्यपि निगमो भवति ॥ (*abhyarddhayajvābhyarddhayanyajati | siṣakti pūṣā abhyarddhayajvā ityapi nigamo bhavati ‖*) (Ni. 6-6)
+Durgācārya, commenting on this etymology, says: अभ्यर्द्धयज्वा इत्यनवगतं । अभ्यर्द्धयन् अभिवर्धयन् यो यजति । अभ्यर्द्धयतिरत्र दानार्थः । (*abhyarddhayajvā ityanavagataṃ | abhyarddhayan abhivardhayan yo yajati | abhyarddhayatiratra dānārthaḥ |*). The praise of Pūṣan's quality is stated here: he gives to the man who praises him wealth and the like that grow and increase, or he makes wealth and prosperity for the one who praises him so that he prospers. अभ्यर्द्धयतिरत्र दानार्थः (*abhyarddhayatiratra dānārthaḥ*): the word "abhyardhayan" has here the meaning of giving. If one asks what is given, the intention is that he gives things that are dear to the praiser, or wealth and the like that are desired. To make clear the meaning of this word, they have given this very Ṛk as the example.
+युद्ध याथ प्रविक्ते अध्वनि भूमा रेजंते (*yuddha yātha pravikte adhvani bhūmā rejaṃte*): O Maruts, when you come, that is, move (blowing with violence), on the path specially marked out separately for your movement, all beings, that is, all creatures, tremble with fear. Describing thus the extraordinary power and might of the Maruts, the commentator has explained the meaning, giving as an example in this matter the Vedic sentence प्र वेपयंति पर्वतान् वि विंचंति वनस्पतीन् (*pra vepayaṃti parvatān vi viṃcaṃti vanaspatīn*) (Ṛ. Saṃ. 1-39-5), whose meaning is: when the Maruts move with violence they make even the mountains, known as immovable, tremble; they bring down the great trees of the forest, roots and all.
+
+#### Ṛk 6
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्यं वी॒रं गिर्व॑णसम॒र्चेंद्रं॒ ब्रह्म॑णा जरित॒र्नवे॑न ।  
+> श्रव॒दिद्दव॒मुप॑ च॒ स्तवा॑नो॒ रास॒द्वाजा॒ उप॑ म॒हो गृ॑णा॒नः॥
+
+### Printed p. 284
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्यं । वीरं । गिर्वणसं । अर्च । इंद्रं । ब्रह्मणा । जरितः । नवेन ।  
+> श्रवत् । इत् । हवं । उप । च । स्तवानः । रासत् । वाजान् । उप । महः । गृणानः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जरितः स्तोतस्यं तं प्रसिद्धं वीरं वीर्यवंतं विशेषेण शत्रूणामीरकं
+> वा गिर्वणसं गिरां संभक्तारमेवंविधमिंद्रं नवेनाभिनवेन शोभनेन ब्रह्मणा
+> स्तोत्रेणाभ्यर्च । अभिष्टुहि । स च स्तवानः स्तूयमानः सन् हवमस्मदीयं स्तोत्रमुप श्रवदित् । उपशृणुयादेव । अपि च गृणानः स्तूयमान इंद्रो महो
+> महतः प्रभूतान्वाजानन्नानि चोप रासत् । प्रदेयात् । यत एवमतः स्तुहीत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+O praiser, worship with a new, fresh, excellent hymn that well-known Indra, who is a hero, mighty, or one who specially impels enemies, and who is the lover of songs. And may he, being praised, hear our invocation, our hymn; and being lauded, may Indra give abundant food. Therefore, Sāyaṇa says, praise him. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जरितः (*jaritaḥ*)—O praiser
+- त्यं (*tyaṃ*)—the well-known
+- वीरं (*vīraṃ*)—the valiant
+- गिर्वणसं (*girvaṇasaṃ*)—and pleased by praise
+- इंद्रं (*iṃdraṃ*)—Indra
+- नवेन (*navena*)—with a new
+- ब्रह्मणा (*brahmaṇā*)—hymn
+- अभ्यर्च (*abhyarca*)—worship
+- स्तवानः (*stavānaḥ*)—that same Indra, who has been praised
+- हवं (*havaṃ*)—our hymn
+- उप श्रवदित् (*upa śravadit*)—he does surely hear
+- गृणानः (*gṛṇānaḥ*)—Indra, who is praised by us
+- महः (*mahaḥ*)—abundant
+- वाजान् च (*vājān ca*)—foods too
+- उप रासत् (*upa rāsat*)—let him graciously give
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, worship with a new hymn that well-known, valiant Indra, who is pleased by praise. That same Indra, who has been praised, does surely hear our hymns. May Indra, who is praised by us, graciously give us abundant foods.
+
+##### English translation
+Praise, worshipper, with a new hymn, that hero, Indra, who is deserving of praise : may he, so glorified, hear our invocation : may he, so lauded, bestow upon us abundant food.
+
+#### Ṛk 7
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ॒मान॑मापो मानुषी॒रमृ॑क्तं॒ धात॑ तो॒काय॒ तन॑याय॒  
+> शं योः ॥
+
 ---
 
-**Progress note:** Done through printed p. 277. Sukta 49 Rks 12-15 and Sukta 50 Rk 1 begun (pp. 271-277)
+**Progress note:** Done through printed p. 284. Sukta 50 Rks 1-7 (pp. 278-284)
