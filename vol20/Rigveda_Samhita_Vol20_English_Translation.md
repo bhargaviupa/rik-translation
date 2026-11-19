@@ -26686,6 +26686,309 @@ Askṛdhoyuḥ means one who has a long life. The word कृधु (*kṛdhu*) 
 
 O Indra, if in former times your praisers obtained happiness, tell us of that happiness, each in turn. O unassailable one, O destroyer of enemies, O much-invoked one, O possessor of much wealth, Indra, slayer of the asuras: what portion of yours is ordained in the sacrifices? What food, in the form of the offering, is ordained?
 
+### Printed p. 761
+
+> यदि । केचिच्चिरंतनाः पूर्वकालेऽपि त्वत्तः सकाशात्सुखं लेभिरे तर्ह्यहमपि तत्सुखं
+> लप्स्य इति विचार्य सुखप्राप्तिविलंबो ममासोढव्यो भवेदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The sense is: if any of the ancient ones obtained happiness from you even in former times, then I too shall obtain that happiness; reflecting thus, the delay in my obtaining happiness would not be endurable to me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यदि (*yadi*)—if by chance
+- पुरा चित् (*purā cit*)—in former times
+- ते (*te*)—your
+- जरितारः (*jaritāraḥ*)—praisers
+- सुम्मं (*summaṃ*)—happiness
+- आनशुः (*ānaśuḥ*)—if they have obtained
+- तत् (*tat*)—that same happiness
+- नः (*naḥ*)—to us also
+- वि वोचः (*vi vocaḥ*)—make known (supply)
+- दुध्र (*dudhra*)—one of unobstructed power
+- खिद्वः (*khidvaḥ*)—one who makes enemies suffer
+- पुरुहूत (*puruhūta*)—one called by many
+- पुरुषसो (*puruṣaso*)—one possessed of exceedingly great wealth, O Indra
+- असुरघ्नः (*asuraghnaḥ*)—destroying the asuras
+- ते (*te*)—to you
+- कः भागः (*kaḥ bhāgaḥ*)—which portion of the sacrifice is appointed?
+- वयः किं (*vayaḥ kiṃ*)—what kind of oblation is appointed?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, if your praisers in former times obtained any happiness, supply that same happiness to us also. O Indra, of unobstructed power, who make enemies suffer, who are called by many, who possess exceedingly great wealth, and who destroy the asuras: which portion of the sacrifice is appointed for you? What kind of oblation is appointed?
+
+##### English translation
+If Indra, your worshippers have formerly obtained felicity, confer that also upon us : irresistible Indra, subduer of foes, invoked of many abounding in wealth, what is the portion, what the offering (due) to you who are the slayer of the Asuras ?
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं पृ॒च्छंती॒ वज्र॑हस्तं रथे॒ष्ठामिंद्रं॒ वेपी॒ वक्व॑री॒ यस्य॒ नूगीः ।  
+> तु॒वि॒ग्रा॒भं तु॑विकू॒र्मिं र॑भो॒दां गा॒तुमि॑षे॒ नक्ष॑ते॒ तुम्र॒मच्छ॑ ॥ ५ ॥
+
+### Printed p. 762
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । पृच्छंती । वज्रहस्तं । रथेऽस्थां । इंद्रं । वेपी । वक्वरी । यस्य । नु । गीः ।  
+> तुविग्राभं । तुविकूर्मिं । रभःदां । गातुं । इषे । नक्षते । तुम्रं । अच्छ ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वयोपालब्ध इंद्र ऋषये कामान्प्रायच्छत् ततः स कामपूर्ण
+> ऋषिराह । वज्रहस्तं वज्रपाणिं रथेष्यां रथे स्थितं तमिंद्रं पृच्छंत्यर्चयंती ॥
+> पृच्छतिरर्चतिकर्मा ॥ वेसी । वेपो यागादिलक्षणं कर्म । तद्वती वक्वरी गुणानां
+> वक्री गीरीदृशी स्तुतिर्यस्य यजमानस्य भवति । कीदृशमिंद्रं पृच्छंती । तुविग्रभं
+> तुवीनां बहूनां ग्रहितारं तुविकूर्मिं बहुकर्माणं रभोदां रभसो बलस्य
+> दातारं ' नु इति पूरणः । स यजमानो गातुं सुखमिषे । गच्छति । किंच तुम्रं
+> म्लापयितारं शत्रुमच्छाभिमुखं नक्षते । गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Addressed by the preceding Ṛk, Indra gave the seer his desires; then the seer, his desires fulfilled, says: the seer worships (the verb of asking has the sense of worship) that Indra, who holds the thunderbolt in his hand and stands on his chariot. The word for the quivering is a rite such as a sacrifice; the praise that bends the qualities (towards the deity) belongs to the sacrificer who has such a rite. What kind of Indra does he worship? One who takes up many, who does many deeds and who gives vigour. That sacrificer goes to happiness, and goes also against the enemy who wearies others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रहस्त (*vajrahasta*)—holding the thunderbolt weapon in his hand
+- रथेष्णां (*ratheṣṇāṃ*)—seated in the chariot
+- तुविग्राभं (*tuvigrābhaṃ*)—one who accepts many
+- तुविकूर्मिं (*tuvikūrmiṃ*)—doer of many deeds
+- रभोदां (*rabhodāṃ*)—giver of strength
+- तं इंद्रं (*taṃ iṃdraṃ*)—that Indra
+- पृच्छंती (*pṛcchaṃtī*)—worshipping
+- वेपी (*vepī*)—rites such as sacrifice
+- वक्वरी (*vakvarī*)—praising the qualities
+- गीः (*gīḥ*)—and praise
+- यस्य (*yasya*)—belonging to whichever sacrificer (that sacrificer)
+- गातुं (*gātuṃ*)—happiness
+- इषे (*iṣe*)—obtains
+- तुम्रं (*tumraṃ*)—the enemy
+- अच्छ (*accha*)—facing
+- नक्षते (*nakṣate*)—advances
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer by whom rites such as sacrifice, and praise of Indra's qualities, are carried out, worshipping that Indra who holds the thunderbolt weapon in his hand, who is seated in the chariot, who accepts many, who is a doer of many deeds **NOTE** and who gives strength, obtains happiness. And he courageously faces the enemy and advances.
+
+##### English translation
+He whose ceremonial and eulogistic hymn is commemorating Indra, the holder of the thunderbolt, seated in his car, the accepter of many, the
+
+### Printed p. 763
+
+doer of many great deeds, the bestower of strength, proceeds promptly to acquire happines, and encounters (with confidence) the malevolent.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या ह॒ त्यं मा॒यया॑ वावृधा॒नं म॑नो॒जुवा॑ स्वतवः॒  ॑
+> पर्वतेन ।  
+> अच्यु॑ता चिद्वीळि॒ता स्वो॑जो रु॒जो वि दृ॒ळ्हा धृ॑ष॒ता वि॑रप्सिन्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । ह । त्यं । मायया । ववृधानं । मनःजुवा । स्वतवः । पर्वतेन ।  
+> अच्युता । चित् । वीळिता । सुओजः । रुजः । वि । दृळ्हा । दृढता । विरप्सिन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्वतवः स्वभूतबलेंद्र त्वं मनोजुवा मनोवद्दच्छतानेन पर्वतेन
+> बहुपर्वणा स्वकीयेनायुधेन वज्रेण ! वज्रेण शतपर्वणा । ऋग्वे. १-८०-६ । इति
+> दर्शनात् । अयानया मायया नावृधानं वर्धमानं त्यं प्रसिद्धं वृत्रं वि रुजः ।
+> विशेषेणाभांक्षीः । तथा हे स्तोजः शोभनतेजो हे विरप्सिन् हे महन्निंद्र
+> त्वमच्युताच्युतानि चिद्विनाशरहितान्यपि वीळिता वीळितान्यशिथिलीकृतानि दृळ्हा दृढानि
+> पुराणि धृषता धर्षकेण वज्रेण वि रुजः । भग्नवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, of strength that is your own, with your own weapon, the thunderbolt, which is swift as the mind and many-edged, as is seen in वज्रेण शतपर्वणा (*vajreṇa śataparvaṇā*) (Ṛgve. 1-80-6 **NOTE**) **GLOSS**, you have shattered that famous Vṛtra who was growing by this cunning. Likewise, O Indra of fine splendour, O great Indra, you have broken with the daring thunderbolt the cities that are firm, even though they are indestructible and unshaken.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वतवः (*svatavaḥ*)—O Indra, of strength that is naturally his own
+- मनोजुवा (*manojuvā*)—swift as the speed of the mind
+- पर्वतेन (*parvatena*)—with the thunderbolt weapon, which has edges
+- आया मायया (*āyā māyayā*)—by such deceits
+- ववृधानं (*vavṛdhānaṃ*)—growing
+- त्यं (*tyaṃ*)—the famous Vṛtra
+- वि रुजः (*vi rujaḥ*)—you have destroyed
+- स्फोजः (*sphojaḥ*)—possessed of excellent vigour
+- विरपिन् (*virapin*)—O great Indra
+- अच्युता (*acyutā*)—those that do not fall
+- वीळिता (*vīḷitā*)—those that are not loose
+- दृढा चित् (*dṛḍhā cit*)—even though firm (enemy cities)
+- दृढता (*dṛḍhatā*)—with the crushing thunderbolt (you have destroyed)
+
+### Printed p. 764
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of naturally own strength, with your thunderbolt, swift as the mind and with sharp edges, you have destroyed Vṛtra, who grew by deceitful acts. However firm the enemy cities were, which do not fall and are not loose, you have destroyed those enemy cities with your thunderbolt, which is of your own nature.
+
+##### English translation
+Self-invigorated Indra, you have crushed by your knotted (thunder- bolt), quick as thought, that Vritra, growing in strength by this cunning : very radiant and mighty (Indra), you have demolished by (your) irresistible (shaft) the unyielding, compact, and strong (cities of the Asuras).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वो॑ धि॒या नव्य॑स्या॒ शवि॑ष्ठं प्र॒श्नं प्र॑श्न॒वत्प॑रितंस॒यध्यै॑ ।  
+> स नो॑ वक्षदनिमा॒नः सु॒वह्मेंद्रो॒ विश्वा॒न्यति॑ दु॒र्गहा॑णि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ० । वः । धिया । नव्यस्या । शविष्ठं । प्रश्नं । प्रश्नवत् । परितंसयध्यै ।  
+> सः । नः । वक्षत् । अनिमानः । सुवह्मा । इंद्रः । विश्वानि । अति । दुःगहानि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नव्यस्या नवतरया धिया स्तुत्या शविष्ठं बलवत्तमं प्रश्नं पुराणं हे इंद्र
+> तं वस्तां प्रश्नवत् चिरंतना ऋषय इव परितंसयध्यॆ परितो विस्तारयितुं ।
+> अहं प्रवृत्तोऽस्मीति शेषः । अनिमानोऽपरिमाणः सुवह्मा शोभनवहनः स इंद्रो
+> विश्वानि समस्तानि दुर्गहाणि दुर्गाणि नोऽस्मभ्यमति वक्षत् । अतिवहतु ॥
+
+##### Gist of the bhāṣya
+
+With a newer praise, O Indra, I have set out to spread abroad on every side your fame, as the ancient seers did, you who are most mighty and ancient. That Indra, who is immeasurable and a fine bearer, may carry us over all that is hard to cross, all difficulties.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठं (*śaviṣṭhaṃ*)—most mighty
+- प्रश्नं (*praśnaṃ*)—ancient
+- तं (*taṃ*)—and famous
+- वः (*vaḥ*)—you
+- प्रश्नवत् (*praśnavat*)—as the ancient seers praised
+- नव्यस्या (*navyasyā*)—with a new
+- धिया (*dhiyā*)—praise
+- परितंसयध्यै (*paritaṃsayadhyai*)—I have begun to spread out and praise
+### Printed p. 765
+- अनिमानः (*animānaḥ*)—without limit
+- सुवहा (*suvahā*)—bearer of excellent things
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- नः (*naḥ*)—for us
+- विश्वानि (*viśvāni*)—all
+- दुर्गहाणि (*durgahāṇi*)—and hard victories
+- अति वक्षत् (*ati vakṣat*)—may he supply (may he protect us from troubles also)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the ancient seers praised you, who are most mighty, ancient and famous, so I too have begun to spread out and praise you with a new praise. May that same Indra, who is without limit and a bearer of excellent things, supply us with all hard victories. May he carry us across troubles also.
+
+##### English translation
+(I have undertaken) to spread around with a new hyma, as it was done of old, (the glory of) you, the ancient and most mighty (Indra): may that Indra, who is illimitable, and is a sure conveyance, bear us over all difficulties.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ जना॑य॒ द्रुह्व॑णे॒ पार्थि॑वानि दि॒व्यानि॑ दीपयों॒तरि॑क्षा ।  
+> तसा॑ वृषन्वि॒श्वतः॑ शो॒चिषा॒ तान्ब्र॑ह्म॒द्विषे॑ शोचय॒ क्षाम॒पश्च॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । जनाय । द्रुह्वणे । पार्थिवानि । दिव्यानि । दीपयः । अंतरिक्षा ।  
+> तप । वृषन् । विश्वतः । शोचिषा । तान् । ब्रह्मद्विषे । शोचय । क्षां । अपः । च ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं द्रुह्वणे साधुजनानां द्रोग्धुर्जनाय जनस्य राक्षसादेः ॥
+> षष्ठ्यर्थे चतुर्थी ॥ पार्थिवानि पृथिव्यां भवानि दिव्यानि दिवि भवान्यंतरिक्षांतरिक्षे
+> भवानि च स्थानान्या दीपयः । आ समंतात्तापयॆ । हे वृषन् कामानां वर्षितरिंद्र
+
+##### Gist of the bhāṣya
+
+O Indra, set ablaze all the places that belong to the earth, to heaven and to the atmosphere, for the harmful person, the injurer of good people, a Rākṣasa and the like; the dative stands in the sense of the genitive. Set them blazing on every side. O Indra, showerer of desires,
+
+### Printed p. 766
+
+> त्वं विश्वतः सर्वतो विद्यमानान् तानाक्षसादीन् शोचिषा त्वदीयया दीप्त्या तप ।
+> दह । किंच ब्रह्मद्विषे ब्राह्मणद्वेष्टे राक्षसादये । ब्रह्मद्विषं दग्धुमित्यर्थः । क्षां
+> पृथिवीमपश्चांतरिक्षं शोचय । दीपय । आप इत्यंतरिक्षनामैतत् ॥
+
+##### Gist of the bhāṣya
+
+burn with your own radiance those Rākṣasas and the like who exist everywhere. Moreover, for the hater of the Brāhmaṇas, a Rākṣasa and the like, that is, in order to burn the hater of the Brahman, make the earth and the atmosphere blaze; the word for waters is a name of the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रुहणे (*druhaṇe*)—those who do harm
+- जनाय (*janāya*)—to Rākṣasas and the like
+- पार्थिवानि (*pārthivāni*)—belonging to the earth
+- दिव्यानि (*divyāni*)—belonging to the heavenly world
+- अंतरिक्षा (*aṃtarikṣā*)—and belonging to the atmosphere, all these places
+- आ दीपयः (*ā dīpayaḥ*)—make them blaze up
+- वृषन् (*vṛṣan*)—O Indra, showerer of desires
+- विश्वतः (*viśvataḥ*)—pervading everywhere
+- तान् (*tān*)—those Rākṣasas and the like
+- शोचिषा (*śociṣā*)—with your radiance
+- तप (*tapa*)—burn
+- ब्रह्मद्विषे (*brahmadviṣe*)—also for the one fallen from rites who hates Brāhmaṇa rites
+- क्षां (*kṣāṃ*)—the earth
+- अपश्च (*apaśca*)—and the atmosphere
+- शोचय (*śocaya*)—make them blaze
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, make all the places that belong to the earth, to the heavenly world and to the atmosphere blaze up for the Rākṣasas and the like who do harm. O Indra, showerer of desires, burn with your radiance those Rākṣasas and the like who pervade everywhere. For the one fallen from rites, who hates Vedic rites, make the earth and the atmosphere blaze as well.
+
+##### English translation
+Make hot the regions of earth, of heaven, of mid air, for the oppressive race (of the Rakshasas) : showerer (of benefits). consume them everywhere with your radiance, make the heaven and the firmament (too) hot for the impious,
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भुवो॒ जन॑स्य दि॒व्यस्य॒ राजा॒ पार्थि॑वस्य॒ जग॑तस्त्वेषसंदृक् ।  
+> धि॒ष्ट नज्रं॒ दक्षि॑ण इंद्र॒ हस्ते॒ विश्वा॑ अजुर्य दयसॆ॒ २  ॒
+> मायाः ॥ ९ ॥
+
+### Printed p. 767
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुवः । जनस्य । दिव्यस्य । राजा । पार्थिवस्य । जगतः । त्वेषसंदृक् ।  
+> धिष्व । वज्रं । दक्षिणे । इंद्र ! हस्ते । विश्वाः । अजुर्य । दयसे । वि । मायाः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे त्वेषसंदृक् दीप्तदर्शनेंद्र दिव्यस्य दिवि भवस्य जनस्य राजेश्वरो भुवः ।
+> भवसि । जगतो जंगमस्य पार्थिवस्य च राजा भवसि । दक्षिणे हस्ते वज्रं धिष्ट ।
+> निधेहि । तेन च निहितेन वज्रेण विश्वाः सर्वा आसुरीर्माया वि दयसे । विबाधसे ॥
+> दय दानहिंसागतिरक्षणेष्विति धातुः ॥ हे इंद्राजुर्य जरयितुमशक्केंद्र त्वमिति ॥
+
+##### Gist of the bhāṣya
+
+O Indra of flaming aspect, you are the king and lord of the people who are in heaven; you are king of the moving world and of the earthly. Place the thunderbolt in your right hand, and with that placed thunderbolt you drive off all the Asura deceits. O Indra, whom none can age, you do so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तैषसंदृक् (*taiṣasaṃdṛk*)—O Indra, of radiant form
+- दिव्यस्य (*divyasya*)—who are in the heavenly world
+- जनस्य (*janasya*)—for the gods and others
+- राजा (*rājā*)—as lord
+- भुवः (*bhuvaḥ*)—you are
+- जगतः (*jagataḥ*)—of the moving
+- पार्थिवस्य (*pārthivasya*)—people of the earthly world also (you are king)
+- दक्षिणे हस्ते (*dakṣiṇe haste*)—in your right hand
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- धिष्ट्वा (*dhiṣṭvā*)—hold
+- अजुर्य (*ajurya*)—of strength that cannot be diminished
+- इंद्र (*iṃdra*)—O Indra
+- विश्वाः (*viśvāḥ*)—all
+- मायाः (*māyāḥ*)—Asura deceits
+- वि दयसे (*vi dayase*)—you destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of radiant form, you are king of the gods and others who are in the heavenly world and of the people of the moving earthly world. O Indra, of strength that cannot be diminished, hold the thunderbolt weapon in your right hand and destroy all the Asura deceits.
+
+##### English translation
+Bright-flaming Indra, you are the king of the people of heaven, and of the moving races of earth : grasp in your right hand the thunderbolt, wherewith, Indra, who are beyond all praise, you baffle all the devices (of the Asuras).
+
 ---
 
-**Progress note:** Done through printed p. 760. Sukta 22 introduction and Rks 1-4 (pp. 755-760)
+**Progress note:** Done through printed p. 767. Sukta 22 Rks 4-9 (pp. 761-767)
