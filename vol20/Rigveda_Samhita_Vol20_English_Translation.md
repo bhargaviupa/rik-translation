@@ -29604,6 +29604,233 @@ Favouring Abhyavartin, the son of Chayamana, Indra destroyed the race of Varasik
 
 Now he explains the meaning just stated. O Indra, called by many (पुरुहूत (*puruhūta*)), श्रवस्या (*śravasyā*) means "through desire for śravas", and śravas is food or fame. With the wish for that, in battle, having conquered you, we might obtain food.
 
+### Printed p. 829
+
+> यशो वा प्राप्नुयामेति कामयमानाः शरवे हिंसाय्कॆ । त्वां हिंसितुमित्यर्थः !
+> पत्यमाना अभिपतंतोऽभिगच्छंतः पात्रा पात्राणि यज्ञसाधनानि भिंदाना भिंदंतो
+> वर्मिणः कवचभृतस्त्रिंशच्छतं त्रिंशदधिकशतसंख्याका वृचीवंतो वरशिखस्य पुत्राः
+> साकं युगपदेव यव्यावत्यां पूर्वोक्तायां हरियूपीयायां न्यर्थान्यर्थशून्यान्यायन् । अगच्छन् । विनाशं प्रापुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Wishing "may we obtain fame", they came śarave, that is, to injure you. Advancing and approaching, breaking the vessels, the implements of the sacrifice, wearing armour, thirty hundred in number, that is, a hundred and thirty, the Vṛcīvants, sons of Varaśikha, together, at one and the same time, on the Yavyāvatī mentioned before, that is, the Hariyūpīyā, became "without purpose", devoid of meaning: they went, that is, they met destruction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—called by many
+- इंद्र (*iṃdra*)—O Indra
+- श्रवस्या (*śravasyā*)—those who desire food
+- शरवे (*śarave*)—to injure you
+- पत्यमानाः (*patyamānāḥ*)—those who have gathered together
+- पात्रा (*pātrā*)—the vessels that are the implements of the sacrifice
+- भिंदानाः (*bhiṃdānāḥ*)—those who destroyed
+- वर्मिणः (*varmiṇaḥ*)—those who wore battle armour
+- त्रिंशच्छतं (*triṃśacchataṃ*)—a hundred and thirty in number
+- वृचीवंतः (*vṛcīvaṃtaḥ*)—the sons of Varaśikha
+- साकं (*sākaṃ*)—together
+- यव्यावत्यां (*yavyāvatyāṃ*)—on the bank of the river Hariyūpīyā
+- न्यर्थानि (*nyarthāni*)—having become devoid of purpose
+- आयन् (*āyan*)—met destruction
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, called by many, the sons of Varaśikha, who desired food, who gathered together to injure you, who destroyed the vessels that are the implements of the sacrifice, who wore battle armour and were a hundred and thirty in number, together on the bank of the river Hariyūpīyā, devoid of purpose, met destruction.
+
+##### English translation
+Indra, the invoked of many, thirty hundred mailed warriors (were collected) together on the Yavyavati, to acquire glory, but the Vrichivats advancing hostilely, and breaking the sacrificial vessels, went to (their own) annihilation.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ गावा॑वरु॒षा सू॑यव॒स्या अं॒तरू॒ षु चर॑तो॒ रेरि॑हाणा।  
+> स सृंज॑याय तु॒र्वशं॒ परा॑दाद्वृ॒चीव॑तो दैववा॒ताय॒  ॑
+> शिक्षन् ॥ ७ ॥
+
+### Printed p. 830
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । गावौ । अरुषा । सुयवस्य इति सुयवस्य । अंतः । ऊं इति । सु। चरतः।  
+> रेरिहाणा ।  
+> सः । सृंजयाय । तुर्वशं । परा । अदात् । वृचीवतः । दैववाताय । शिक्षन् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरुषारुषौ रोचमानौ सुयवस्य शोभनतृणानीच्छंतौ रेरिहाणा
+> लेलिहानौ पुनः पुनर्घासमास्वादयंतौ। यद्वा। गतिविशेषं कुर्वंतौ। यस्येंद्रस्य
+> संबंधिनौ गावावश्वावंतर्द्यावापृथिव्योर्मध्येऽन्तरीक्षे चरतो गच्छतः ॥ उ सु
+> इतीं पूरणौ ॥ स इंद्रः सृंजयायैतन्नामकाय राजे तुर्वशं राजानां
+> परादात् । प्रददौ । किं कुर्वन् । वृचीवतो वारशिखान् दैववातायः देववातवंशोत्पन्नायाभ्यावर्तिने राजे शिक्षन् वशीकुर्वन् । तेषां धनानि प्रयच्छन्निति वा ॥
+
+##### Gist of the bhāṣya
+
+Aruṣā means shining; suyavasya, desiring good grass; rerihāṇā, licking, tasting the fodder again and again; or else, making a special gait. The two horses of that Indra, which move between heaven and earth, in the atmosphere in the middle, go there. The words u and su are fillers. That Indra gave up Turvaśa the king to Sṛñjaya, a king of that name. Doing what? Subduing the Vṛcīvants, the sons of Varaśikha, for Daivavāta, that is, for the king Abhyāvartin, born in the line of Devavāta; or else, giving him their wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Indra
+- अरुषा (*aruṣā*)—golden-coloured, attractive
+- सुयवस्कृ (*suyavaskṛ*)—desiring the choicest grass
+- रेरिहाणा (*rerihāṇā*)—leaping and running
+- गावौ (*gāvau*)—the horses
+- अंतः (*aṃtaḥ*)—between heaven and earth
+- चरतः (*carataḥ*)—which move about
+- सः (*saḥ*)—that Indra
+- वृजीवतः (*vṛjīvataḥ*)—the Vāraśikhas
+- दैववाताय (*daivavātāya*)—to Abhyāvartin, born in the line of one called Devavāta
+- शिक्षन् (*śikṣan*)—subduing
+- सृंजयाय (*sṛṃjayāya*)—to the king called Sṛñjaya
+- तुर्वशं (*turvaśaṃ*)—the enemy king called Turvaśa
+- परादात् (*parādāt*)—brought under his power
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra whose horses, golden-coloured, attractive, desiring the choicest grass, and leaping and running, move about between heaven and earth, subdued the sons of Varaśikha to Abhyāvartin, born in the line of Devavāta. He brought the enemy king called Turvaśa under the power of the king called Sṛñjaya.
+
+##### English translation
+He whose bright prancing horses, delighted with choice fodder, proceed between (heaven and earth), gave up Turvasa to Srinjaya, subjecting the Vrichivats to the descendant of Devavata, (Abhyavartin).
+
+### Printed p. 831
+
+##### विशेषविषयगळु (Special Topics)
+
+सृंजयाय (*sṛṃjayāya*)—a king of the people called Sṛñjaya. He was very famous. It can be understood from the description of the battle in this sūkta that the king Abhyāvarti Cāyamāna fought with Varaśikha and defeated him. This king Abhyāvarti is a descendant of one called Devavāta. There is no doubt at all that Sṛñjaya also belongs to this line. But Western scholars have expressed doubt whether these two are one and the same person. The Vṛcīvants mentioned in this sūkta may probably be Turvaśas themselves, or may be their friends. It is said in Ṛ. Saṃ. 4-15-4 that Sṛñjaya was the son of one called Devarāta. That Indra helped this Sṛñjaya and Abhyāvarti in battle is stated in this sūkta.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्व॒या अ॑ग्ने र॒थिनो॑ विंश॒तिं गा व॒धूम॑तो म॒घवा॒ मह्यं॑  ॒
+> संराट् ।  
+> अ॒भ्या॒व॒र्ति चा॑यमा॒नो द॑दाति दू॒णाशे॒यं दक्षि॑णा पार्थ॒वानां॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वयान् । अग्ने । रथिनः । विंशतिं । गाः । वधूमतः । मघवा । मह्यं । संराट् ।  
+> अभिआवर्ति । चायमानः । ददाति । दुःनशा । इयं । दक्षिणा । पार्थवानां ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधुना भरद्वाजः स्वस्मा अभ्यावर्तिना दत्तं धनजातमग्नये प्रकथयति । हे
+> अग्ने मघवा धनवान् प्रभूतदानो ना सम्राट् राजसूययाजी चायमानश्चयमानस्य पुत्रोऽभ्यावर्तैतदाह्वयो राजा रथिनो रथसहितान्वधूमतः
+> स्त्रीयुक्तान् द्वयान्मिथुनभूतान् विंशतिं विंशतिसंख्याकान् गाः पशून्मह्यं ददाति ।
+> प्रायच्छत् । प्रार्थवानां सृथोर्वंशजस्याभ्यावर्तिनो राज्यः संबंधिनी ॥
+> पूजार्थं बहुवचनं ॥ इयं दक्षिणा दुर्नशा केनापि नाशयितुमशक्या भवति ॥
+
+##### Gist of the bhāṣya
+
+Now Bharadvāja declares to Agni the wealth given to him by Abhyāvartin. O Agni, the king, opulent, that is, wealthy and of abundant gifts, a sovereign, a performer of the Rājasūya, named Abhyāvartin, the son of Cāyamāna, gives me twenty cows, that is, animals, with chariots, with women, in pairs. Pārthavānām: it is related to Abhyāvartin, born in the line of Sṛthu; the plural is used for honour. **NOTE** This gift is durnaśā: no one can destroy it.
+
+### Printed p. 832
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मघवा (*maghavā*)—wealthy
+- सम्राट् (*samrāṭ*)—a sovereign
+- जायमानः (*jāyamānaḥ*)—the son of Cayamāna **NOTE**
+- अभ्यावर्ति (*abhyāvarti*)—the king called Abhyāvarti
+- रथिनः (*rathinaḥ*)—with chariots
+- द्वयान् (*dvayān*)—in the form of pairs
+- वधूमतः (*vadhūmataḥ*)—with women
+- विंशतिं (*viṃśatiṃ*)—twenty in number
+- गाः (*gāḥ*)—the animals
+- मह्यं (*mahyaṃ*)—to me
+- ददाति (*dadāti*)—has given
+- पार्थवानां (*pārthavānāṃ*)—of this Abhyāvarti, born in the line of Pṛthu
+- इयं दक्षिणा (*iyaṃ dakṣiṇā*)—this gift in the form of a dakṣiṇā
+- दुर्नशा (*durnaśā*)—cannot be destroyed by anyone
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the king called Abhyāvarti, wealthy, a sovereign, the son of Jayamāna, has given me animals with chariots, in the form of pairs, with women, twenty in number. The dakṣiṇā of this Abhyāvarti, born in the line of Pṛthu, cannot be destroyed by anyone.
+
+##### English translation
+The opulent supreme sovereign Abhyavartin, the son of Chayamana, presents, Agni, to me two damsels riding in cars, and twenty cows: this donation of the descendent of Prithu cannot be destroyed.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is explained that the king Abhyāvarti was born in the line of Pṛthu, and that he gave chariots, cows and the like to the seer Bharadvāja, the seer of this sūkta; the praise of that king's gift is also explained. In this Ṛk the seer Bharadvāja has told Agni about this gift.
+
+## Sūkta 28 (Maṇḍala 6)
+
+**Introduction**
+In this sūkta cows are praised. It becomes clear from the descriptions in this sūkta what kind of reverence, and what affection, regard and respect the Āryas and the seers had towards cows, and that they guarded them with great attachment. That same reverence that came down from the past is still present, to some extent (not as much as before), among Indians, especially among believers. In this our Bhārata
+
+### Printed p. 833
+
+country alone is the cow honoured with reverence. In other countries they keep cows for the benefits obtained from them. But the state of things is gradually changing. The milk, curds, ghee and other things that we now use as food come to us directly from cows. Besides, it is regrettable that many do not think of this: the food, such as rice, that we eat every day, and the cloth and the like that we use, are obtained as the fruit of their labour. For the paddy and other grains that we need every day, and the cotton needed for cloth, all of these are had from growing in the earth. For growing in the earth proper cultivation is necessary. That cultivation is not possible in this country without cattle. Therefore it is our duty to regard cows with gratitude, for the conveniences that we obtain and for the indispensable food, clothing and the like. We have to say with great regret that this duty is not properly observed at present, that is, in this age, and that too in our country.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ गाव इत्यष्टर्चं पंचमं सूक्तं । आत्रेयमनुक्रमणिका । आ गावो
+> गव्यं द्वितीयैंद्री वांतश्च पादोऽंत्यानुष्टुप् जागतस्तृचो द्वितीयादिरिति ।
+> भरद्वाज ऋषिः। इंद्रो यज्वन इत्याद्यस्तृचो जागतः । उपेदमित्यंत्यानुष्टुप्
+> शिष्टाश्चतस्रस्त्रिष्टुभः । कृत्स्नस्य गौर्देवता द्वितीयायाः सूक्तांत्यपादस्य च
+> विकल्पेनेंद्रो देवता ॥ गवामुपस्थान एतत्तूक्तं । सूत्रितं च । आगावीयमेके ।
+> अ. गृ. २-१०-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning with the words "ā gāvaḥ", of eight Ṛks, is the fifth sūkta. The Anukramaṇī is quoted. It says that the second Ṛk is addressed to Indra, and likewise the last pāda of the sūkta; that the last Ṛk is Anuṣṭubh; and that the three Ṛks beginning from the second are Jagatī. Bharadvāja is the seer. The three Ṛks beginning with Indra yajvanaḥ are Jagatī; the last Ṛk, beginning with upedam, is Anuṣṭubh; the remaining four are Triṣṭubh. The cow is the deity of the whole sūkta; for the second Ṛk and for the last pāda of the sūkta Indra is the deity alternatively. This sūkta is for the approach to the cows. This is also stated by the sūtra "āgāvīyam eke", A. Gṛ. 2-10-7. **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning with "ā gāvaḥ" is the fifth sūkta in the third anuvāka. There are eight Ṛks in it. It is said in the Anukramaṇī: आ गावो गव्यं द्वितीयॆंद्री वांत्यश्च पादोंत्यानुष्टुप् जागतस्तृचो द्वितीयादिः (*ā gāvo gavyaṃ dvitīyèṃdrī vāṃtyaśca pādoṃtyānuṣṭup jāgatastṛco dvitīyādiḥ*). Bharadvāja is the seer of this sūkta; although the cow (Gauḥ) is the deity of the whole sūkta, for the second Ṛk and for the last pāda of the last Ṛk Indra is also the deity, alternatively. The three Ṛks of this sūkta beginning with इंद्रो यज्वने (*iṃdro yajvane*) (the second Ṛk) are in the Jagatī metre. The last Ṛk, उपेदं (*upedaṃ*), is in the Anuṣṭubh metre. The remaining four Ṛks are in the Triṣṭubh metre. The application of this sūkta is in the approach to the cow deities; this is explained by the sūtra आगावीयमेके (*āgāvīyameke*) of the Āśvalāyana Gṛhyasūtra (Ā. Gṛ. 2-10-7).
+
+### Printed p. 834
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 3; Sūkta 28
+- Aṣṭaka 4; Adhyāya 6; Varga 25
+- Number of Ṛks in the sūkta: 8
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Ṛks 1, 3–7, and pādas 1, 2, 3 of Ṛk 8: Gāvaḥ (the cows); Ṛk 2 and pāda 4 of Ṛk 8: the cows or Indra
+- Chandas: Ṛks 1, 5–7 Triṣṭubh; Ṛks 2–4 Jagatī; Ṛk 8 Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्तिदं॑तु गो॒ष्ठे र॒णयं॑त्व॒स्मै ।  
+> प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिंद्रा॑य पू॒र्वीरु॒षसो॒  ॑
+> दुहानाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । गावः । अग्मन् । उत । भद्रं । अक्रन् । सीदंतु । गोस्थे । रणयंतु । आस्मे.  
+> इति ।  
+> प्रजावतीः । पुरुरूपाः । इह । स्युः । इंद्राय । पूर्वीः । उषसः । दुहानाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गाव आग्मन् । अस्मदीयं गृहमागच्छंतु । उतापि च भद्रं भजनीयं
+> शुभमक्रन् । कुर्वंतु । तथा गोष्ठेऽस्मदीये गवां स्थाने सीदंतु । उपविशंतु ।
+> तदनंतरमस्मे आस्मासु रणयंतु । रमंतां । अपि चेहास्मिन् गोष्ठे पुरुरूपा
+> नानावर्णा गावः प्रजावतीः प्रजावत्यः संततिसहिताः पूर्विर्बह्व इंद्रायेंद्रार्थमुषस उषःकालान् प्रति दुहाना दोहमानाः स्युः । भवेयुः ॥
+
+##### Gist of the bhāṣya
+
+May the cows come to our house. And may they do what is auspicious, welcome and good. May they also sit in our cowshed, the place of the cows, and afterwards take delight among us. And may many cows of various colours, with offspring, many in number, yielding milk for Indra at the times of dawn, be here in this cowshed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावः (*gāvaḥ*)—the cows
+- आ अग्मन् (*ā agman*)—may they come to our house
+- उत (*uta*)—and
+- भद्रं (*bhadraṃ*)—welfare
+- अक्रन् (*akran*)—may they bring about
+- गोष्ठेः (*goṣṭheḥ*)—in our cowshed
+- सीदंतु (*sīdaṃtu*)—may they come and lie down
+- अस्मे (*asme*)—among us
+- रणयंतु (*raṇayaṃtu*)—may they be affectionate, may they be delightful
+- इह (*iha*)—in this cowshed
+- पुरुरूपाः (*pururūpāḥ*)—of various colours
+- प्रजावतीः (*prajāvatīḥ*)—with good calves
+- पूर्विः (*pūrviḥ*)—many
+
 ---
 
-**Progress note:** Done through printed p. 828. Sukta 27 Rks 2-6 start (pp. 823-828)
+**Progress note:** Done through printed p. 834. Sukta 27 Rks 6-8, Sukta 28 Rk 1 start (pp. 829-834)
