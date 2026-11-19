@@ -22593,6 +22593,260 @@ O Indra, possessed of food, may these Soma juices, which are intoxicating and ha
 ##### English translation
 Abounding in food, Indra, let these exhilarating draughts copiously bedew you, the resplendent : let the inebriating juices delight you, who are mighty, deficient in no (excellence), powerful, manifold, the overcomer of foes.
 
+### Printed p. 658
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येभिः॒ सूर्य॑मु॒षसं॑ मंदसा॒नोऽवा॑स॒योऽप॑ दृ॒ळ्हानि॒  ॑
+> दर्द्रत् ।  
+> म॒हामद्रिं॒ परि॒ गा इं॑द्र॒ संतं॑ नु॒त्था अच्यु॑तं॒ सद॑सः॒ परि॒  
+> स्वात् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येभिः । सूर्यं । उषसं । मंदसानः । अवासयः । अप । दृळ्हानि । दर्द्रत् ।  
+> महां । अद्रिं । परि । गाः । इंद्र । संतं । नुत्थाः । अच्युतं । सदसः । परि । स्वात् । ५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र येभिर्य्यैः सोमैर्मंदसानो मोदमानस्त्वं सूर्यं सर्वस्य
+> प्रेरकं देवमुषसमुषोदेवतां चावासयः स्वस्थाने न्यवासयः । अथवा
+> सूर्योषसौ यथा तमांसि विवासयतस्तथाकार्षिः । किं कुर्वन् । दृळ्हानि दृढानि
+> तमांस्यप दर्द्रत् अपदारयन् । किंच हे इंद्र त्वं पणिभिरपहृता गाः परि संतं
+> परितो विद्यमानं महां महांतमदिं पर्वतं नुत्थाः । अनुदः । कीदृशं ।
+> स्वात्स्वकीयात्सदसः स्थानात्परि परितोऽच्युतमविचालितं विनाशरहितं । स्थिरमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you were exhilarated by those Somas, and by them you settled Sūrya, the god who impels all, and Uṣas, the dawn goddess, each in its own place. Or else: you brought it about that Sūrya and Uṣas drive away the darknesses as they do. Doing what? Tearing apart the solid, that is, firm, darknesses. And further, O Indra, you thrust at the great mountain that lay all around the cows carried off by the Paṇis, a mountain unmoved from its own seat, that is, unshaken, indestructible, firm.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येभिः (*yebhiḥ*)—by those very Soma juices
+- मंदसानः (*maṃdasānaḥ*)—you who have been satisfied
+- सूरं (*sūraṃ*)—the sun
+- उषसं (*uṣasaṃ*)—and the dawn
+- आवासयः (*āvāsayaḥ*)—you established, each in its own place
+- दृळ्हानि (*dṛḷhāni*)—the dense darknesses
+- अप दर्द्रत् (*apa dardrat*)—you drove far away
+- इंद्र (*iṃdra*)—O Indra
+- स्वात् सदसः परि (*svāt sadasaḥ pari*)—from its own place
+- आच्युतं (*ācyutaṃ*)—standing unmoved
+- गाः परि (*gāḥ pari*)—all around the cows
+- संतं (*saṃtaṃ*)—that pervaded
+- महां (*mahāṃ*)—and was vast
+- आद्रिं (*ādriṃ*)—the mountain
+- नुत्थाः (*nutthāḥ*)—you pierced and thrust inside
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who were satisfied by drinking those very Soma juices established the sun and the dawn each in its own place. You drove the dense darknesses far away. O Indra, you pierced and thrust into the mountain that stood unmoved from its own place, that surrounded and pervaded the cows, and that was vast.
+
+### Printed p. 659
+
+##### English translation
+By which (juices) being exhilarated you have appointed the sun and the dawn (to their offices), driving away the solid (glooms) : you have penetrated, Indra, the mountain, unmoved from its own seat, concealing the cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+As explained in the third Ṛk of this sūkta, in this Ṛk also it is stated that after Indra had released the cows that were in the mountain caves, he made Uṣas and Sūrya, who had been covered with darkness in the atmosphere, shine again.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ क्रत्वा॒ तव॒ तद्दं॒सना॑भिरा॒मासु॑ प॒क्वं शच्या॒ नि दी॑धः ।  
+> और्णो॒र्दुर॑ उ॒स्रिया॑भ्यो॒ वि दृ॒ळ्होदू॒र्वाद्गा अ॑सृजो॒  ॑
+> अंगिरस्वान् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शव । क्रत्वा । तव । तत् । दंसनाभिः । आमासु । पक्वं । शच्या । नि । दीधरिति दीधः ।  
+> और्णोः । दुरः । उस्रियाभ्यः । वि । दृळ्हा । उत् । ऊर्वात् । गाः । अस्यजः । अंगिरस्वान् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव क्रत्वा त्वदीयया प्रज्ञया तव दंसनाभिस्त्वदीयैः कर्मभिः
+> शच्या सामर्थ्येनामास्वपक्वासु गोषु पक्वं परिणतं तत्पसिद्धं पयो नि दीधः ।
+> नितरां धारयसि । अपि च हे इंद्र त्वमुस्रियाभ्यो गोभ्यः । गा निर्गमयितुमित्यर्थः । दृळ्हा दृढानि । वलेन पाषाणादिभिर्दृढीकृतानीत्यर्थः । दुरो द्वाराणि
+
+##### Gist of the bhāṣya
+
+O Indra, by your wisdom, by your deeds and by your power, in the unripe cows you have set the ripe, that is, matured, famed milk, and you hold it firmly. And further, O Indra, for the cows, in order to bring the cows out, you opened the firm doors, that is, the doors made firm by Vala with stones and the like.
+
+### Printed p. 660
+
+> व्यार्णोः । उद्घाटितवानसि । अंगिरस्वानंगिरोभिर्युक्तस्त्वमूर्वात्समूहात् ।
+> गोष्ठादित्यर्थः । गा उदसृजः । उदगमयः ॥
+
+##### Gist of the bhāṣya
+
+Accompanied by the Aṅgirases, you drove out the cows from the herd, that is, from the cow-pen; you made them go out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तव (*tava*)—your
+- क्रत्वा (*kratvā*)—by wisdom
+- तव (*tava*)—your
+- दंसनाभिः (*daṃsanābhiḥ*)—by deeds
+- शच्या (*śacyā*)—by power
+- आमासु (*āmāsu*)—in the unripe cows
+- पक्वं (*pakvaṃ*)—the ripe
+- तत् (*tat*)—and famed milk
+- नि दीधः (*ni dīdhaḥ*)—you caused them to hold
+- उस्रियाभ्यः (*usriyābhyaḥ*)—for those cows (to enter)
+- दृह्वा (*dṛhvā*)—the exceedingly firm
+- दुरः (*duraḥ*)—doors
+- वि और्णोः (*vi aurṇoḥ*)—you caused to be released and opened
+- अंगिरस्वान् (*aṃgirasvān*)—you who were with the Aṅgirases
+- ऊर्वात् (*ūrvāt*)—from the cow-pen
+- गाः (*gāḥ*)—the cows
+- उत् असृजः (*ut asṛjaḥ*)—you released outward
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your wisdom, by your deeds and by your power, you caused the unripe cows to hold ripe and famed milk. You caused the exceedingly firm doors to be released and opened for the entry of those cows. You who were with the Aṅgirases released the cows from the cow-pen and made them come out.
+
+##### English translation
+By your wisdom, by your deeds, through your power, you have developed the mature (milk) in the immature (udders), you have opened the strong doors for the cattle (to come forth): associated with the Angirasas. you have liberated the cows from their fold.
+
+##### विशेषविषयगळु (Special Topics)
+
+The wisdom and the surpassing power of Indra are fathomless. Cows that until then had not given milk begin to give milk as soon as they have calved. To cause milk to be filled in such unripe cows is one of the heroic deeds of Indra. In order to release the cows that the Paṇis had shut up in the mountain caves, he removed the boulders that had been put across the doors of the cave and made the cows come out. This is Indra's second deed. That Indra did these two kinds of deeds is described here as showing the power, strength and qualities of Indra. The filling of the cows with milk, and also the matter of setting the sun in the atmosphere and making it shine, are
+
+### Printed p. 661
+
+described in Ṛks such as आमासु पक्वमैय आ सूर्यं रोहयो दिवि (*āmāsu pakvamaiya ā sūryaṃ rohayo divi*) (Ṛ. Saṃ. 8-89-7) **GLOSS**
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒प्राथ॒ क्षां महि॒ दंसो॒ व्यु१॒॑र्वीमुप॒ द्यामृ॒षो बृ॒हदिं॑द्र स्तभायः ।  
+> अधा॑रयो॒ रोद॑सी दे॒वपु॑त्रे प्र॒त्ने मा॒तरा॑ य॒ह्वी ऋ॒तस्य॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पप्राथ । क्षां । महि । दंसः । वि । उर्वीं । उप । द्यां । ऋष्टः । बृहत् । इंद्र ।  
+> स्तभायः ।  
+> अधारयः । रोदसी इति । देवपुत्रे इति देवपुत्रे । प्रत्ने इति । मातरा । यह्वी  
+> इति । ऋतस्य ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं महि महता दंसो दंससा कर्मणोर्विं विस्तीर्णां क्षां
+> भूमिं वि पप्राथ । विशेषेण पूरितवानसि ॥ प्रा पूरण इति धातुः ॥ हे इंद्र ऋष्टो
+> महांस्त्वं बृहद्बृहतीं द्यां दिवमुप स्तभायः । उपस्तभ्नासि । निरालंबं वितिष्ठंती
+> द्यौर्यथा न पततींद्रस्तथा करोतीत्यर्थः । अपि च त्वं रोदसी द्यावापृथिव्यावधारयः । पोषणैर्धारयसि । कीदृश्यौ । देवपुत्रे । देवाः पुत्रा ययोस्ते ।
+> प्रत्ने पुराणे मातरा मातर् निर्माण्यावृतस्योदकस्य यज्ञस्य वा यह्वी यह्वै
+> महत्यौ । यद्वा । विश्वस्य मातरावृतस्य ब्रह्मणो यह्वी पुत्रौ । यहुरित्यपत्यनामैतत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by your great deed you have filled, extended, the wide earth. O Indra, mighty one, you prop up the vast heaven: as heaven stands without support and yet does not fall, Indra so acts. And further, you sustain the two worlds, heaven and earth, by nourishments. Of what kind are they? They are those whose sons are the gods; ancient; parents, makers, of the ṛta, that is, of water or of sacrifice; mighty. Or else: they are the parents of the whole world, and the mighty children of ṛta, that is, of Brahman; yahu is a name for offspring.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महि (*mahi*)—great
+- दंसः (*daṃsaḥ*)—by the deed
+- उर्विं (*urviṃ*)—exceedingly wide
+- क्षां (*kṣāṃ*)—the earth
+- वि पप्राध (*vi paprādha*)—you have pervaded
+- इंद्र (*iṃdra*)—O Indra
+
+### Printed p. 662
+
+- ऋष्टः (*ṛṣṭaḥ*)—you who are great-souled
+- बृहत् (*bṛhat*)—exceedingly abundant
+- द्यां (*dyāṃ*)—the world of heaven
+- उप स्तभायः (*upa stabhāyaḥ*)—you have held up
+- देवपुत्रे (*devaputre*)—having the gods as their sons
+- प्रश्ने (*praśne*)—ancient
+- मातरा (*mātarā*)—makers of everything
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- यह्वी (*yahvī*)—mighty parents
+- रोदसी (*rodasī*)—heaven and earth
+- आधारयः (*ādhārayaḥ*)—you have held up
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your great deed you have pervaded the exceedingly wide earth. You, great-souled, have held up the exceedingly abundant world of heaven. You have held up heaven and earth, who have the gods as their sons, who are ancient, who are the makers of everything, and who are the mighty parents of the sacrifice.
+
+##### English translation
+You have filled the wide earth, Indra, with (the fame of) your deeds : you, the mighty one, have propped up the vast heaven: you have sustained the heaven and earth, whose children are the gods, (and who are) the old and mighty parents of sacrifice.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ त्वा॒ विश्वे॑ पु॒र इं॑द्र दे॒वा एकं॑ त॒वसं॑ दधिरे॒ भरा॑य ।  
+> अदे॑वो॒ यद॒भ्यौहि॑ष्ट दे॒वान्त्स॑र्षाता वृणत॒ इंद्र॒मत्र॑ ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । त्वा । विश्वे । पुरः । इंद्र । देवाः । एकं । तवसं । दधिरे । भराय ।  
+> अदेवः । यत् । अभि । औहिष्ट । देवान् । स्वःसाता । वृणते । इंद्रं अत्र ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाधुनास्मिन्काले विश्वे देवाः सर्वॆ वह्न्यादयो हे इंद्र एकं मुख्यं
+> शवसं प्रवृद्धं बलवंतं त्वा त्वां भराय संग्रामाय पुरो दधिरे । पुरस्ताच्चक्रिरे।
+> यद्यदादेवो वृत्रोऽसुरो देवानभ्यौहिष्ट संग्रामार्थमभिगतवान् ॥ ओहतिर्ग-
+
+##### Gist of the bhāṣya
+
+Now, at this time, all the gods, Agni and the others, O Indra, have put you in front for battle, you who are the chief, mighty and strong one; when the non-god Vṛtra, the Asura, advanced against the gods for battle (the root oh has the sense of going).
+
+### Printed p. 663
+
+> तिकर्मा ॥ किंचास्मिन्काले स्वर्षाता स्वर्षातौ संग्राम इंद्रं वृणते । संभजंते स्म ।
+> मरुत इति शेषः । मरुतो हींद्रं देवेषु पलायितेषु समभजन्नित्यर्थः । अधुना
+> पुरो दधिर इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+And further, at this time, in the battle, the Maruts resort to Indra (the subject, the Maruts, is to be supplied): the meaning is that when the gods had fled, the Maruts resorted to Indra. The connection is that now they put him in front.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- अदेवः (*adevaḥ*)—Vṛtra
+- देवान् (*devān*)—the gods
+- अभ्यौहिष्ट (*abhyauhiṣṭa*)—opposed
+- अध (*adha*)—at that time
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- एकं (*ekaṃ*)—who are the chief
+- तवसं (*tavasaṃ*)—and mighty
+- त्वा (*tvā*)—you
+- भराय (*bharāya*)—for battle
+- पुरः दधिरे (*puraḥ dadhire*)—placed in front of themselves
+- अत्र स्वर्षाता (*atra svarṣātā*)—in such a battle
+- मरुतः (*marutaḥ*)—the Maruts
+- इंद्रं (*iṃdraṃ*)—Indra
+- वृणते (*vṛṇate*)—serve
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when Vṛtra opposed the gods, at that time all the gods placed you, the chief and the mighty, in front of themselves for battle. In such battles the Maruts remain with Indra and serve him.
+
+##### English translation
+All the gods then placed you, Indra, as their mighty chief in front for battle: when the impious (Asuras) assailed the deities: the Maruts supported Indra in the conflict.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the four or five Ṛks that follow, it is described that Indra destroyed the Asura Vṛtra. The matter is also mentioned that at the time of the slaying of Vṛtra the Marut deities were with Indra and helped Indra.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ द्यौश्चि॑त्ते॒ अप॒ सा नु वज्रा॑द्द्वि॒तान॑मद्भि॒यसा॒ स्वस्य॑ म॒न्योः ।  
+> अहिं॒ यदिंद्रो॑ अ॒भ्योह॑सानं॒ नि चि॑द्वि॒श्वायुः॑ श॒यथे॑  ॒॑
+> जघान ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 657. Sūkta 17 Ṛks 1-4
+**Progress note:** Done through printed p. 663. Sūkta 17 Ṛks 5-8, Ṛk 9 saṃhitā
