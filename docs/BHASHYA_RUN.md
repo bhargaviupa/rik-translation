@@ -11,7 +11,7 @@ User decisions (Nov 18 2026): direct translation from Sāyaṇa's Sanskrit; **Fa
 
 ## The loop (user, Nov 18 2026: one agent, one volume at a time, in this session)
 - **One agent at a time.** It takes the lowest volume that `status` shows unfinished and works through it sūkta by sūkta, committing and pushing each verified file itself. An agent's context fills up, so each agent is given at most **5 sūktas**; when it reports, the dispatcher starts the next agent on the same volume, until `next 1 N` prints `ALL DONE`, then the next volume.
-- Agent call: `subagent_type: general-purpose`, `model: fable`, prompt:
+- Agent call: `subagent_type: general-purpose`, `model: sonnet` (user, Nov 19 2026; Fable until then), prompt:
 
   > Work in /home/user/rik-translation (stay on the current git branch). You are translating Sāyaṇa's Sanskrit commentary on the Ṛgveda into English, sūkta by sūkta. Read tools/rv/BHASHYA_BRIEF.md once and follow it exactly, including its section on a whole volume. Your task: VOL = N; do at most 5 sūktas. Read no file other than the brief and the task files; write and commit no file other than your English files.
 
@@ -35,3 +35,7 @@ For the first sūkta of each volume, and about one sūkta in ten after that, the
 - The hourly check-in (`Bhāṣya run check-in`) is disabled, not deleted. To go on: the user decides the model first (a side-by-side test of Sonnet on one finished sūkta was proposed, not run), then enable the check-in or start an agent by hand.
 - Second pass against the reference text still due: Vol 17 3.40. Vol 11 1.139, 1.148, 1.149 lack the NOTE for a missing introduction (made before that rule). Vol 16 3.7–3.26 were made under the looser NOTE rule for edition differences.
 - Long sūktas (17–22 Ṛks) take one agent each (about 215,000 tokens); short ones about 40,000–50,000 each in batches of five.
+
+## Resumed with Sonnet (user, Nov 19 2026)
+- The agents are **Sonnet** from Vol 16, 3.32 on. Sonnet's one earlier trial (3.40, before the present brief and the reference text) had four errors of meaning in nine Ṛks, so: the dispatcher reads two Ṛks of **every** Sonnet batch against the Sanskrit, and `volN/parts/bhashya_costs.md` names the model of each batch, so that a later second reading can be aimed at the Sonnet sūktas.
+- Agents get at most 3 sūktas (1 when the sūkta has more than 15 Ṛks).
