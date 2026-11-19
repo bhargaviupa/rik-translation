@@ -27,6 +27,7 @@
 | through p. 473 (pp. 454-460, 461-466, 467-473) | sonnet | 16 | 200910 | 7.0 |
 | through p. 493 (pp. 474-479, 480-486, 487-493) | sonnet | 19 | 177930 | 5.9 |
 | through p. 514 (pp. 494-500, 501-507, 508-514) | sonnet | 23 | 180248 | 5.0 |
-| through p. 532 (pp. 515-520, 521-526, 527-532) | sonnet | n/a | pending | - |
-| through p. 551 (pp. 533-539, 540-545, 546-551) | sonnet | n/a | pending | - |
-| through p. 570 (pp. 552-557, 558-564, 565-570) | sonnet | n/a | pending | - |
+| through p. 532 (pp. 515-520, 521-526, 527-532) | sonnet | 22 | 198672 | 6.5 |
+| through p. 551 (pp. 533-539, 540-545, 546-551) | sonnet | 22 | 198672 | 6.5 |
+| through p. 570 (pp. 552-557, 558-564, 565-570) | sonnet | 22 | 198672 | 6.5 |
+| through p. 591 (pp. 571-576, 577-582, 583-591) | sonnet | n/a | pending | - |
