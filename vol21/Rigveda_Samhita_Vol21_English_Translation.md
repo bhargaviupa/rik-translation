@@ -24579,6 +24579,219 @@ This sūkta beginning जीमूतस्य (*jīmūtasya*) is the fourteenth
 > अना॑विद्दया त॒न्वा॑ जय॒ त्वं स त्वा॒ वर्म॑णो महि॒मा  ॑
 > पिपर्तु ॥ १ ॥
 
+### Printed p. 558
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जीमूतस्य इव । भवति । प्रतीकं । यत् । वर्मा । याति । समदां । उपस्थे ।  
+> अनाविद्दया । तन्ना । जय । त्वं । सः । त्वा । वर्मणः । महिमा । पिपर्तु ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समदां संग्रामाणामुपस्थ उपस्थाने सति यद्यदायं राजा वर्मा कवची
+> याति तदा लोहमयेन वर्मणा संनद्धस्य राज्यः प्रतीकं रूपं जीमूतस्येव
+> मेघस्येव भवति । मेघस्य यादृशं रूपं तादृशमस्य भवतीत्यर्थः । हे राजन्
+> त्वमनाविद्दया शत्रुभिरबाधितया तन्ना शरीरेण शत्रून् जय । वर्मणः स तादृशो
+> महिमा त्वा त्वां पिपर्तु । पालयतु ॥
+
+##### Gist of the bhāṣya
+
+When, *samadām upasthe*, at the approach of battles, this king goes, *yāti*, in a coat of mail, *varmā*, clad in armour, then the form, *pratīka*, of the king girt with an iron coat of mail becomes like that of a cloud, *jīmūta*; as is the form of a cloud, so becomes his form; this is the meaning. O king, with a body *anāviddayā*, not wounded by enemies, conquer the enemies. May that famous majesty, *mahimā*, of the coat of mail protect you, *pipartu*; that is, may it guard you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समदां उपस्थे (*samadāṃ upasthe*)—in the neighbourhood of battles (at times of war)
+- यत् (*yat*)—when
+- वर्मि (*varmi*)—the king who has put on an iron coat of mail
+- याति (*yāti*)—moves about (then)
+- प्रतीकं (*pratīkaṃ*)—the form of this king
+- जीमूतस्येव (*jīmūtasyeva*)—like a cloud, grave
+- भवति (*bhavati*)—becomes (O king)
+- त्वं (*tvaṃ*)—you
+- अनाविद्धया (*anāviddhayā*)—not exposed to the blows of enemies
+- तन्वा (*tanvā*)—with the body
+- जय (*jaya*)—win victory
+- वर्मणः (*varmaṇaḥ*)—of the iron coat of mail
+- सः (*saḥ*)—famous
+- महिमा (*mahimā*)—greatness
+- त्वा (*tvā*)—you
+- पिपर्तु (*pipartu*)—may it protect
+
+##### भावार्थ (Bhāvārtha)
+
+When the king, clad in an iron coat of mail at times of war, moves about on the field of battle, his form is grave like a cloud. O king, win victory with a body that is not exposed to the blows of enemies. May the famous greatness of the iron coat of mail protect you.
+
+##### English translation
+When the mailed warrior advances in the front of battles, his form is like that of a cloud : with his body unwounded do you conquer ; may the strength of the armour defend you.
+
+##### विशेषविषयगळु (Special Topics)
+
+It appears that this sūkta was composed at a time when battle was close at hand, that is, on the day before the battle. In this sūkta there are prayers to, and descriptions of, the implements of war such as the bow, the bowstring and the chariot. It has been said in the introduction itself that this sūkta has its application for equipping the king for battle at the time of war and consecrating him with mantras. For many ṛks of this sūkta Yāska has given a derivation and explained the meaning. All that has been described in the special notes on the respective ṛks. In the Yajurveda also, that is, in the Taittirīya Saṃhitā of the Kṛṣṇa Yajurveda, this sūkta is recited with small differences (Tai. Saṃ. 4-6-6). There the ṛks 9 and 15 of this sūkta are not found. There is a difference in the order also. The derivation and explanation of the meaning of the word समद (*samada*) is given in the Special Topics of the second ṛk of this same sūkta.
+
+### Printed p. 559
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धन्व॑ना॒ गा धन्व॑ना॒जिं ज॑येम॒ धन्व॑ना ती॒व्राः स॒मदो॑  
+> जयेम ।  
+> धनुः॒ शत्रो॑रपका॒मं कृ॑णोति॒ धन्व॑ना॒ सर्वाः॑ प्र॒दिशो॑  
+> जयेम ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धन्वना । गाः । धन्वना । आजिं । जयेम । धन्वना । तीव्राः । समदः । जयेम ।  
+> धनुः । शत्रोः । अपकामं । कृणोति । धन्वना । सर्वाः । प्रदिशः । जयेम ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धन्वना चापेन गाः शत्रोणां जयेम । वयं वशीकरवाम । धन्वनाजिं
+> संग्रामं च जयेम । धन्वना तीव्रा उद्धताः समदोऽत्यंतं मदवतीः
+> शत्रुसेनाश्च जयेम । तथा च यास्कः । समदः समदो वात्तेः संमदो ना
+> मदतेः । नि. ९-१७ । इति । धनुः शत्रोरपकामं कामस्यापायं कृणोति । करोतु॥
+> किंच धन्वना वयं सर्वाः प्रदिशः सर्वासु दिक्षु वर्तमानान् शत्रून् जयेम ।
+> प्रदिक् शब्दो लक्षणया तत्स्थेषु पुरुषेषु वर्तते मंचाः क्रोशंतीतिवत् ।
+> धन्वइब्दस्य जयतेश्चावृत्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+With the bow, *dhanvanā*, by the bow, may we conquer the cattle, *gāḥ*, of the enemies; that is, may we bring them under our control. With the bow may we also conquer the battle. With the bow may we conquer the fierce, haughty, exceedingly intoxicated armies of the enemy. So Yāska: समदः समदो वात्तेः संमदो ना मदतेः (*samadaḥ samado vātteḥ saṃmado nā madateḥ*) (Ni. 9-17). May the bow do away with, *apakāma*, the desire of the enemy; may it bring about the loss of his desire. Further, with the bow may we conquer the enemies stationed in all directions, *pradiśaḥ*. The word *pradik* is used figuratively for the persons who stand there, as in the saying "the platforms cry out". The repetition of the word *dhanvan* and of the verb *jayate* is for the sake of emphasis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धन्वना (*dhanvanā*)—with the help of the bow
+- गाः (*gāḥ*)—the cattle of the enemies
+- जयेम (*jayema*)—may we conquer
+- धन्वना (*dhanvanā*)—with that same bow
+- आजिं (*ājiṃ*)—may we conquer the battle also
+- धन्वना (*dhanvanā*)—with the bow alone
+- तीव्राः (*tīvrāḥ*)—sharp with pride
+- समदः (*samadaḥ*)—and frenzied
+- जयेम (*jayema*)—may we conquer the armies of the enemy
+- धनुः (*dhanuḥ*)—our bow
+
+### Printed p. 560
+
+- शत्रोः (*śatroḥ*)—of the enemy
+- अपकामं (*apakāmaṃ*)—the frustration of his hope
+- कृणोति (*kṛṇoti*)—may it bring about
+- धन्वना (*dhanvanā*)—with the bow
+- सर्वाः (*sarvāḥ*)—all
+- प्रदिशः (*pradiśaḥ*)—the enemies at the ends of the directions
+- जयेम (*jayema*)—may we conquer
+
+##### भावार्थ (Bhāvārtha)
+
+May we conquer the cattle of the enemies with the help of the bow. With that same bow we shall conquer the battle. May we conquer with the bow the armies of the enemy, sharp with pride and frenzied. May our bow bring about the frustration of the enemy's hope. With the help of the bow may we conquer the enemies at the ends of the directions.
+
+##### विशेषविषयगळु (Special Topics)
+
+While giving the derivation of the word धनुः (*dhanuḥ*), Yāska has given this derivation for this ṛk—
+
+धनुः । धनुर्धन्वतेर्गतिकर्मणः वधकर्मणो वा धन्वंत्यस्मादिषवः ॥ तस्यैषा भवति । धन्वना गा धन्वनाजिं जयेम धन्वना तीव्राः समदो जयेम । धनुः शत्रोरपकामं कृणोति धन्वनाः सर्वाः प्रदिशो जयेम ॥ इति सा निगदव्याख्याता । समदः समदो वात्तेः संमदो वा मदतेः ॥ (*dhanuḥ | dhanurdhanvatergatikarmaṇaḥ vadhakarmaṇo vā dhanvaṃtyasmādiṣavaḥ ‖ tasyaiṣā bhavati | dhanvanā gā dhanvanājiṃ jayema dhanvanā tīvrāḥ samado jayema | dhanuḥ śatrorapakāmaṃ kṛṇoti dhanvanāḥ sarvāḥ pradiśo jayema ‖ iti sā nigadavyākhyātā | samadaḥ samado vātteḥ saṃmado vā madateḥ ‖*) (Ni. 9-17)
+
+The word धनुः (*dhanuḥ*) may be formed from the root *dhanvati*, which indicates the meaning of motion or going; or the root *dhanvati* has also the meaning "kill". Therefore the bow is so named because arrows are shot from the bow and go to the enemies; or, in the sense of killing, because the bow is a means of killing enemies, it is also named धनुस्सु (*dhanussu*). To explain the meaning of the word धनुः (*dhanuḥ*) they have taken this very ṛk beginning धन्वना (*dhanvanā*) as the example. Since the meaning is clear merely by reading this ṛk, no further explanation of it is necessary. That the word समद (*samada*) in this ṛk has the meaning of battle: the word समद (*samada*) is formed from the root अद् (*ad*), "eat", with the prefix सं (*saṃ*), and since in this battle there are such actions as eating one another, that is, laying waste, destroying, killing and so on, the meaning of battle has come into usage for the word समद (*samada*). Or it may be formed from the root *madati*, which has the meaning "fight in anger". Then also the prefix सं (*saṃ*) joins the word *mada* and it becomes संमद (*saṃmada*) or समद (*samada*), and the word समद (*samada*) has the meaning of a battle in which they fight one another in anger.
+
+##### English translation
+May we conquer the cattle (of the enemies) with the bow : with the bow may we be victorious in battle : may we overcome our fierce-exulting
+
+### Printed p. 561
+
+(enemies) with the bow : may the bow disappoint the hope of the foe: may we subdue with the bow all (hostile) countries.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒क्ष्यंती॒वेदा ग॑नीगंति॒ कर्णं॑ प्रि॒यं सखा॑यं परिषस्वजा॒ना।  
+> योषे॑व शिंक्ते॒ वित॒ताधि॒ धन्व॒इज्जा इ॒यं सम॑ने पा॒रयं॑ती ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वक्ष्यंतीऽइव । इत् । आ । गनीगंति । कर्णं । प्रियं । सखायं । परिससस्वजाना ।  
+> योषाऽइव । शिंक्ते । वितता । अधि । धन्वन् । ज्या । इयं । समने । पारयंती ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वत्र ऋग्वयेन कवचधनुषी स्तुते । अत्र ज्यास्तुतिः । इयं ज्या समने
+> संग्रामे धन्वन् धन्वनि । अधीति सप्तम्यर्थानुवादः । वितता विस्तृता पारयंती
+> पारं नयंती प्रियं प्रियकरं वाक्यं वक्ष्यंतीव कर्णं धन्विनो राज्ञः कर्णप्रदेशमा गनीगंति । आगच्छति । इदिति पूरणः । योषा नारी सखायं पतिमिव
+> परिषस्वजानेषुं परिष्वजमाना शिंक्ते शब्दायते च । तथा च यास्कः । वक्ष्यंतीवागच्छति कर्णं प्रियमिव सखायमिषुं परिष्वजमाना योषेव शिंक्ते शब्दं करोति
+> वितताधि धनुषि ज्येयं समने संग्रामे पारयंती पारं नयंती । नि.९-१८ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the preceding two ṛks the coat of mail and the bow are praised; here the bowstring is praised. This bowstring, *samane*, in battle, on the bow, *dhanvan*, stretched, *vitatā*, and bringing across, *pārayantī*, that is, carrying to the farther shore, comes, *ā ganīganti*, to the ear, *karṇam*, the ear-region of the king who holds the bow, as if about to speak an agreeable word, *priyam*, a word that gives pleasure. A woman, *yoṣā*, embracing, like a wife her friend, her husband, utters a sound, *śiṅkte*. So Yāska: वक्ष्यंतीवागच्छति कर्णं प्रियमिव सखायमिषुं परिष्वजमाना योषेव शिंक्ते शब्दं करोति वितताधि धनुषि ज्येयं समने संग्रामे पारयंती पारं नयंती । (*vakṣyaṃtīvāgacchati karṇaṃ priyamiva sakhāyamiṣuṃ pariṣvajamānā yoṣeva śiṃkte śabdaṃ karoti vitatādhi dhanuṣi jyeyaṃ samane saṃgrāme pārayaṃtī pāraṃ nayaṃtī |*) (Ni. 9-18).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इयं ज्या (*iyaṃ jyā*)—this string of the bow
+- समने (*samane*)—in battle
+- धन्वन् अधि (*dhanvan adhi*)—on the bow
+- वितता (*vitatā*)—stretched out
+- पारयंती (*pārayaṃtī*)—joining and tying firmly the two ends
+- प्रियं (*priyaṃ*)—agreeable speech
+- वक्ष्यंतीव (*vakṣyaṃtīva*)—as if it were about to say
+- कर्णं (*karṇaṃ*)—the ear-region of the king
+- आ गनीगंति इत् (*ā ganīgaṃti it*)—it approaches
+- सखायं (*sakhāyaṃ*)—the beloved husband
+- परिष्वजाना (*pariṣvajānā*)—embracing and speaking
+- योषा इव (*yoṣā iva*)—like a woman
+- शिंक्ते (*śiṃkte*)—it makes a sound near the king's ear
+
+##### भावार्थ (Bhāvārtha)
+
+This string of the bow, growing stretched out in battle and joining the two ends of the bow and tying them firmly, approaches the ear-region of the king who holds the bow, as if it were saying an agreeable speech, and makes a sound. Like women who embrace their beloved husband and speak, it makes a sound near the king's ear.
+
+##### English translation
+This bowstring, drawn tight upon the bow, and making way in battle, repeatedly approaches the ear (of the warrior), as if embracing its friend (the arrow), and proposing to say something agreeable, as a woman whispers (to her husband).
+
+### Printed p. 562
+
+##### विशेषविषयगळु (Special Topics)
+
+In the previous two ṛks the coat of mail (Armour) and the bow (Bow) used in battle were praised. In this ṛk the string, or bowstring, of the bow is described. The bowstring is the cord or rope tied to the stave of the bow (Bow-string). Instead of this cord or rope a strip of leather (thin shrip of a hide) or a sinew is also sometimes used. It must be very strong. And the stave of the bow must also be of a yielding nature. From the most ancient times the bow and arrows have been the chief weapons used in battles and the like. Even now, in many countries, bows and arrows are the chief weapons of the uncivilised forest people who live in hills and forests. These people display great skill in using them. They even kill large animals such as the elephant with the bow. On many occasions the tips of arrows are dipped in a juice or poison prepared from certain kinds of herbs and used so. Among forest people this is still in practice. Such a poison-smeared arrow causes very cruel wounds and the like and kills the enemy very quickly. On many occasions there is not even an opportunity to apply a proper remedy for it. That this practice also was in use in the age of the Ṛgveda is seen from what is said in the fifteenth ṛk of this sūkta. The Āryan people had to fight with the forest people (Dasyu), the former inhabitants of this country, who were armed with such poisoned arrows.
+
+इयं ज्या समने धन्वन् अधि वितता पारयंती (*iyaṃ jyā samane dhanvan adhi vitatā pārayaṃtī*)—This string tied to the bow, making the twang in battle, is spread far and wide everywhere by this sound. When an arrow is fitted on the string of the bow, drawn as far as the ear and let go aimed at the enemies, it makes a kind of twang. Since hundreds and thousands of bows in both armies make this sound in battle, this sound spreads everywhere and pervades the whole battlefield; this is the main purport.
+
+### Printed p. 563
+
+प्रियं वक्ष्यंतीव इत् आ गनीगंति कर्ण० (*priyaṃ vakṣyaṃtīva it ā ganīgaṃti karṇa0*)—प्रियकरं वाक्यं वक्ष्यंतीव धन्विनो राज्ञः कर्णप्रदेशं आगच्छंति । (*priyakaraṃ vākyaṃ vakṣyaṃtīva dhanvino rājñaḥ karṇapradeśaṃ āgacchaṃti |*) When an arrow is fitted on the bow and let go at the enemies, it is the practice to draw that arrow as far as the ear and let go. The farther back it is drawn and let go, the more forcefully and swiftly the arrow goes near the enemy and kills him. The seer has described very well, by two kinds of similes, this fitting of the arrow and drawing it as far as the ear. The meaning of the first simile is that the arrow fitted on the bow goes near the ear-region of the king who holds the bow, as if to say, or in order to say, an agreeable word in his ear. In worldly practice, those who say a beneficial good word go close to the ear and say it so that only that one person hears, and others who may be at the side do not hear. In the same way, this string with the arrow appears as if it had gone to the ear-region of the king who holds the bow, to say an agreeable speech to him, and were making a sound; this is the main purport of this simile.
+
+सखायं परिषस्वजाना योषेव शिंक्ते (*sakhāyaṃ pariṣasvajānā yoṣeva śiṃkte*)—Now another simile will be given. Like a young woman who embraces her beloved husband and says a secret word in his ear, this string of the bow goes near the king's ear and makes there an agreeable sound; this is the purport of this sentence. Or these two sentences may be taken as one sentence and the meaning also given. The sound produced when, in battle, the king or the warrior fits an arrow on the string of the bow, draws it as far as his ear and lets it go at the enemy, is as if his beloved companion, his wife, embracing him, went near his ear to say, secretly, so that others do not hear, secret and agreeable words; this purport also may be given.
+
+Yāska, in order to give the derivation of the word ज्या (*jyā*), has taken this very ṛk as the example and given the derivation for this ṛk—
+
+ज्या ! ज्या जयतेर्वा, जिनातेर्वा, प्रजावयतीपूनिति वा ! तस्यैषा भवति । वक्ष्यंतीवेदा गनीगंति कर्णं प्रियं सखायं परिषस्वजाना । योषेव शिंक्ते वितताधि धन्वन् ज्या इयं समने पारयंती ॥ वक्ष्यंतीवागच्छृति कर्णं प्रियमिव सखायमिषुं परिष्त्वजाना योषेव शिंक्ते शब्दं करोति वितताधि धनुषि ज्येयं समने संग्रामे पारयंती पारं नयंती ॥ (*jyā ! jyā jayatervā, jinātervā, prajāvayatīpūniti vā ! tasyaiṣā bhavati | vakṣyaṃtīvedā ganīgaṃti karṇaṃ priyaṃ sakhāyaṃ pariṣasvajānā | yoṣeva śiṃkte vitatādhi dhanvan jyā iyaṃ samane pārayaṃtī ‖ vakṣyaṃtīvāgacchṛti karṇaṃ priyamiva sakhāyamiṣuṃ pariṣtvajānā yoṣeva śiṃkte śabdaṃ karoti vitatādhi dhanuṣi jyeyaṃ samane saṃgrāme pārayaṃtī pāraṃ nayaṃtī ‖*) (Ni. 9-18)
+
+### Printed p. 564
+
+The word ज्या (*jyā*) (bowstring) may be formed from the root जि (*ji*) (jay), or from the root जिनाति (*jināti*), which has the meaning "conquer". Or, because arrows go out of this string very quickly, it has the name ज्या (*jyā*). In this ṛk (the present ṛk beginning वक्ष्यंतीव (*vakṣyaṃtīva*)) its meaning and use are explained. When an arrow is fitted on this string, drawn as far as the ear and let go, this string approaches the ear-region of him who lets go, in order to speak an agreeable word. Or, like a young woman who embraces her beloved friend or beloved husband and says a secret word in his ear, it makes an indistinct sound. The voice of women is not rough like that of men, but soft and somewhat shrill. The sound of this string also, like that, is shrill like a woman's voice and soft and sweet. When the arrow is fitted and drawn, this string also is stretched out lengthwise (stretches). समने (*samane*) means battle or fight. The main purport of the derivation is: may the string of such a bow win us victory in battles and the like and bring us across out of dangers.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते आ॒चरं॑ती॒ सम॑नेव॒ योषा॑ मा॒तेव॑ पु॒त्रं बि॑भृतामु॒पस्थे॑ ।  
+> अप॒ शत्रू॑न्विध्यतां संविदा॒ने आर्त्नी॑ इ॒मे वि॑ष्णु॒रंती॑ अ॒मित्रा॑न् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते इति । आचरंती इत्याचरंती । समनाइव । योषा । माताइव । पुत्रं ।  
+> बिभृतां । उपस्थे ।  
+> अप । शत्रुन् । विध्यतां । संविदाने इति संविदाने । आर्त्नी इति । इमे इति ।  
+> विस्सुरंती इति विस्सुरंती । अमित्रान् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र धनुष्कोट्योः स्तुतिः । ते धनुष्कोट्यौ समनेव समनस्केव योषा
+> पतिसमीपं न त्यजति तद्वदाचरंती अभितश्चरंत्यावुपस्थ उपस्थाने मातेव पुत्रं
+
+##### Gist of the bhāṣya
+
+Here the two tips of the bow are praised. Those two tips of the bow, *samaneva*, as if of one mind, as a woman does not leave the side of her husband, so moving about, *ācarantī*, going about on both sides, in the lap, *upastha*, in the nearness, like a mother her son
+
 ---
 
-**Progress note:** Done through printed p. 557. Ṛk 2 end, Ṛk 3-4 of Sūkta 74; Sūkta 75 introduction, Anuvāda, Ṛk 1 saṃhitā
+**Progress note:** Done through printed p. 564. Sūkta 75 Ṛk 1 to 3 complete, Ṛk 4 start
