@@ -35991,6 +35991,139 @@ O wealthy Indra, in your adoration today, those leaders who are reciters of the 
 - तस्यॆ युज्याय (*tasyè yujyāya*)—for your famed friendship
 - वृणीष्व (*vṛṇīṣva*)—choose
 
+### Printed p. 839
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, now, at the time of your worship, those sacrificers who are reciters of the *ukthas* recite at once, in your honour, praises in the form of śastras; and besides, with the help of your hymns they made even the miserly paṇis givers of wealth. Take us also, such as we are, into the famed company of your friends.
+
+##### English translation
+The leaders (of rites), raciters oi prayers, offer, Maghavan, prayers devoutly for your adoration : they by their praises have appropriated the wealth of the niggards : select us (as the objects) of your friendship.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते स्तोमा॑ न॒रां नृ॑तम॒ तुभ्य॑मस्म॒द्र्यं॑तो॒ दद॑तो  ॒॑
+> मघानि ।  
+> तेषा॑मिंद्र वृत्र॒हत्ये॑ शि॒वो भूः॒ सखा॑ च॒ शूरो॑ऽवि॒ता च॑  ॒
+> नृणां ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । स्तोमाः । नरां । नृतम । तुभ्यं । अस्मद्रंचः । ददतः । मघानि ।  
+> तेषां । इंद्र । वृत्रहत्ये । शिवः । भूः । सखा । च । शूरः । अविता । च । नृणां ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृतम नेतृतमेंद्र तुभ्यं नरां नेतृणां य एते स्तोमाः संघा
+> मघानि मंहनीयानि हवींषि ददतो ददंतोऽस्मद्रंचोऽस्मदभिमखा अभूवन्निति
+> शेषः । तेषां नृणां वृत्रहत्ये संग्रामे शिवः कल्याणकृत् भूः । भव । सखा च
+> भूः । अविता रक्षिता च भूः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, most leading of leaders, these hymns, these companies, of men, the leaders, giving to you worshipful oblations, have turned towards us (this is the part to be supplied). For those men, in the battle of the slaying of Vṛtra, be the doer of good; be also a friend; and be a protector.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृतम (*nṛtama*)—leader of all men
+- इंद्र (*iṃdra*)—O Indra
+- तुभ्यं (*tubhyaṃ*)—offered in your honour
+- नरां (*narāṃ*)—of men
+- एते स्तोमाः (*ete stomāḥ*)—these hymns
+- मघानि (*maghāni*)—worshipful
+
+### Printed p. 840
+
+- (continuing) oblations
+- ददतः (*dadataḥ*)—that offer
+- अस्मद्रंचः (*asmadraṃcaḥ*)—are turned towards us
+- तेषां (*teṣāṃ*)—to such
+- नृणां (*nṛṇāṃ*)—men, your worshippers
+- वृत्रहत्ये (*vṛtrahatye*)—in the battle that brings about the slaying of Vṛtra
+- शिवः (*śivaḥ*)—auspicious
+- भूः (*bhūḥ*)—be
+- सखा च (*sakhā ca*)—be also a friend
+- शूरः अविता च (*śūraḥ avitā ca*)—be also a valiant protector
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, leader of all men, these hymns of men, offered in your honour, are turned towards us, who offer worshipful oblations. To such men, your worshippers, be auspicious in the battle that brings about the slaying of Vṛtra, and be a friend and a valiant protector.
+
+##### English translation
+Chief leader (of rites), these praises of men addressed to you revert to us, who are the offerers of (sacrificial) riches : be propitious to such men, (Indra), in conflicts with enemies : be their friend, their hero and protector.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू इं॑द्र शूर॒ स्तव॑मान ऊ॒ती ब्रह्म॑जूतस्त॒न्वा॑ वावृधस्व ।  
+> उप॑ नो॒ वाजा॑न्मि मी॒ह्युप॒ स्तीन्न्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । इंद्र । शूर । स्तवमानः । ऊती । ब्रह्मजूतः । तन्वा । ववृधस्व ।  
+> उप । नः । वाजान् । मिमाहि । उप । स्तीन् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूरेंद्र नु आद्य स्तवमानोऽस्माभिः स्तूयमानो ब्रह्मजूतो
+> ब्रह्मणा स्तोत्रेण प्रेरितस्तन्वा शरीरेण ऊत्या रक्षणेन ववृधस्व । अपि च नोऽस्मभ्यं
+> वाजानन्नान्युप मिमिहि । प्रयच्छेत्यर्थः । स्तीन् गृहांश्चोप मिमिहि
+> स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O hero Indra, now, today, being praised by us, impelled by prayer, that is, by a hymn, grow with your body, with protection. Further, bestow upon us food and houses. The rest is clear.
+
+### Printed p. 841
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—valiant
+- इंद्र (*iṃdra*)—O Indra
+- नु (*nu*)—now
+- स्तवमानः (*stavamānaḥ*)—being praised by us
+- ब्रह्मजूतः (*brahmajūtaḥ*)—impelled by praise
+- ऊती तन्ना (*ūtī tannā*)—with your body that protects
+- ववृधस्व (*vavṛdhasva*)—attain increase
+- नः (*naḥ*)—to us
+- वाजान् (*vājān*)—foods
+- उप मिमिहि (*upa mimihi*)—having provided
+- स्तीन् (*stīn*)—houses also
+- उप (मिमिहि) (*upa (mimihi)*)—provide
+- यूयं (*yūyaṃ*)—all of you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, being praised by us now and impelled by praise, attain increase with your body that protects. Provide food and houses for us. May all of you always protect us with blessings.
+
+##### English translation
+Hero, Indra, glorified on the present occasion, and propitiated by praise be amplified in your person for our protection : bestow upon us food and habitations : and ever cherish us with blessings.
+
+**Colophon**
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये पंचमाष्टके द्वितीयोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye paṃcamāṣṭake dvitīyo 'dhyāyaḥ samāptaḥ ‖*) **GLOSS**
+
+ओं तत्त्वत् (*oṃ tattvat*) **GLOSS**
+
+Here ends the second chapter, in the fifth aṣṭaka, of the Ṛgveda Saṃhitā with the Śrī Sāyaṇa-bhāṣya and the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS**
+
+शुभं भूयात् (*śubhaṃ bhūyāt*) **GLOSS**
+
+मंगळं (*maṃgaḷaṃ*) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 838. Sūkta 19 Ṛk 4 end, Ṛk 5-9
+**Progress note:** Done through printed p. 841. Sūkta 19 Ṛk 9 end, Ṛk 10-11, colophon
