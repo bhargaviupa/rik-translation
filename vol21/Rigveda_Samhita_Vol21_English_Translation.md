@@ -22126,6 +22126,343 @@ entire hosts (of yourselves).
 > ता गृ॑णीहि नम॒स्ये॑भिः शू॒षैः सु॒म्नेभि॒रिंद्रा॒वरु॑णा चका॒ना ।  
 > वज्रे॑णा॒न्यः शव॑सा॒ हंति॑ वृ॒त्रं सिष॑क्त्य॒न्नो वृ॒जने॑षु॒ विप्रः॑ ॥३॥
 
+### Printed p. 501
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । गृणीहि । नमस्येभिः । शूषैः । सुम्नेभिः । इंद्रावरुणा । चकाना ।  
+> वज्रेण । अन्यः । शवसा । हंति । वृत्रं । सिसक्ति । अन्यः । वृजनेषु । विप्रः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भरद्वाज नमस्येभिः स्तुत्यैः शूषैर्बलैः । शूषमिति बलनामसु पाठात् ।
+> सुम्मेभिः सुखैश्च सर्वैश्च काना स्तुतौ ॥ कायतिः शब्दकर्मा । तस्य लिटः कानचि
+> रूपमिदं ॥ ता ताविंद्रावरुण् गृणीहि । स्तुहि । अन्यस्तयोरन्य इंद्रो वृत्रं
+> वृत्रनामकमसुरं वज्रेण हंति । अन्नो वरुणो विप्रः प्राज्ञो वृजनेषु
+> स्तोत्थणामुपद्रवेषु रक्षितुं शवसा बलेन सिषक्ति । संगच्छते ॥
+
+##### Gist of the bhāṣya
+
+O Bharadvāja, praise Indra and Varuṇa with praiseworthy (नमस्येभिः (*namasyebhiḥ*)) strengths (शूषैः (*śūṣaiḥ*); the word for "śūṣa" is read among the names of strength) and with pleasures (सुम्मेभिः (*summebhiḥ*)) **NOTE**. Praise (गृणीहि (*gṛṇīhi*), that is, extol) those two, Indra and Varuṇa. Of the two, the one, Indra, slays Vṛtra, the demon of that name, with the thunderbolt. The other, Varuṇa, the wise (विप्रः (*vipraḥ*), that is, the knowing), joins (सिषक्ति (*siṣakti*), that is, comes together) with strength to protect the praisers in their troubles (वृजनेषु (*vṛjaneṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नमस्येभिः (*namasyebhiḥ*)—venerable
+- शूषैः (*śūṣaiḥ*)—with strengths
+- सुम्मेभिः (*summebhiḥ*)—with pleasures
+- चकाना (*cakānā*)—renowned
+- ता इंद्रवरुणा (*tā iṃdravaruṇā*)—those same Indra and Varuṇa
+- गृणीहि (*gṛṇīhi*)—praise
+- अन्यः (*anyaḥ*)—one of the two, Indra
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- वज्रेण (*vajreṇa*)—with the thunderbolt
+- हंति (*haṃti*)—slays
+- अन्यः (*anyaḥ*)—the other, Varuṇa
+- विप्रः (*vipraḥ*)—being wise
+- वृजनेषु (*vṛjaneṣu*)—in times of trouble, to protect the praisers
+- शवसा (*śavasā*)—with strength
+- सिषक्ति (*siṣakti*)—joins
+
+##### भावार्थ (Bhāvārtha)
+
+O Bharadvāja, praise those same Indra and Varuṇa, renowned for venerable strengths and pleasures. Of the two, Indra slays Vṛtra with the thunderbolt. The other, Varuṇa, being wise, joins with strength to protect the praisers in times of trouble.
+
+##### English translation
+Praise Mitra and Varuna, renowned for all glorious energies and
+enjoyments: one of whom slays Vritra with the thunderbolt, the other,
+intelligent by his might, comes to the aid (of the pious when) in difficulties.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्नाश्च॒ यन्नर॑श्च वावृ॒धंत॒ विश्वे॑ दे॒वासो॑ न॒रां स्वगू॑र्ताः ।  
+> प्रैभ्य॑ इंद्रावरुणा महि॒त्वा द्यौश्च॑ पृथिवि भूत॒र्मुवी ॥ ४ ॥
+
+### Printed p. 502
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्नाः । च । यत् । नरः । च । ववृधंत । विश्वे । देवासः । नरां । स्वगूर्ताः ।  
+> प्र । एभ्यः । इंद्रावरुणा । महित्वा । द्यौः । च । पृथिवि । भूतं । उर्वी इति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरां नृणां मनुष्याणां मध्यॆ ग्नाश्च स्त्रीयश्च । मेना ग्ना इति स्त्रीणां ।
+> नि. ३-२१ । इति यास्कवचनात् । नरश्च पुरुषाश्च विश्वे सर्वॆ देवासो देवाः ॥
+> देवास इत्यत्र पुमान् स्त्रियेत्येकशेषात् देव्यश्च देवाश्च देवास इति निर्देशः
+> पुंवन्निर्दॆशः ॥ स्वगूर्ताः स्वयमुद्यता यद्यदा ववृधंत स्तुतिभिर्वर्धयंते
+> तदा हे इंद्रावरुण् महित्वा महत्त्वयुक्तावेभ्यः स्तोतृभ्यः प्र भूतं । प्रभवतं । हे द्यौः पृथिवि चोभे उर्वि विस्तीर्णे युवामेभ्यः प्रभूतमित्यनुषंगः ॥
+
+##### Gist of the bhāṣya
+
+Among men (नरां (*narāṃ*), that is, mankind) there are ग्नाः (*gnāḥ*), women, from Yāska's statement: मेना ग्ना इति स्त्रीणां (*menā gnā iti strīṇāṃ*) (Ni. 3-21) **GLOSS**; and नरः (*naraḥ*), men; and all the gods (देवासः (*devāsaḥ*); here the word means both gods and goddesses, and the masculine form is used for both). They are स्वगूर्ताः (*svagūrtāḥ*), self-impelled. When (यत् (*yat*)) they make you grow (ववृधंत (*vavṛdhaṃta*)) with praises, then, O Indra and Varuṇa, you two, endowed with greatness, surpass (प्र भूतं (*pra bhūtaṃ*), that is, prevail over) these praisers. And O heaven and earth, both wide and extensive, the words "you two surpass them" are to be carried on to you also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- नरां (*narāṃ*)—among mankind
+- ग्नाश्च (*gnāśca*)—women
+- नरश्च (*naraśca*)—and men
+- विश्वे (*viśve*)—all
+- देवासः (*devāsaḥ*)—the gods also
+- स्वगूर्ताः (*svagūrtāḥ*)—self-impelled
+- यत् (*yat*)—when
+- ववृधंत (*vavṛdhaṃta*)—they cause your increase with praises, then
+- महित्वा (*mahitvā*)—you, endowed with greatness
+- ऐभ्यः (*aibhyaḥ*)—than all these praisers
+- प्र भूतं (*pra bhūtaṃ*)—become of more abundant greatness
+- द्यौः (*dyauḥ*)—O deity of the heavenly world
+- पृथिवि च (*pṛthivi ca*)—and O earth (you two)
+- उर्वी (*urvī*)—being of extensive form, are above all
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, when, among mankind, women, men and all the gods, self-impelled, cause your increase with praises, then you, endowed with greatness, become of more abundant greatness than all these praisers. O deity of the heavenly world, O earth, you two also, being of extensive form, are above all.
+
+##### English translation
+When amongst mankind, both males and females, and when all the
+gods spontaneously striving glorify you, Indra and Varuna, you become
+pre-eminent in greatness over them, as do you, wide heaven and earth
+(surpass them also).
+
+### Printed p. 503
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इत्यु॒दानुः॒ स्ववा॑ ऋ॒तावेंद्रा॒ यो वां॑ वरुण॒ दाश॑ति॒  
+> त्मन् ।  
+> इ॒षा स द्वि॒षस्त॑रे॒द्दास्वा॒न्वंस॑द्र॒यिं र॑यि॒वत॑श्च॒ जना॑न् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । सुदानुः । स्ववान् । ऋतवा । इंद्रा । यः । वां । वरुणा । दाशति ।  
+> त्मन् ।  
+> इषा । स ॥ द्विषः । तरेत् । दास्वान् । वंसत् । रयिं । रयिवतः । च । जनान् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रेंद्रौ वरुणा हे वरुणौ ॥ इतरेतरयोगादुभयत्र द्विवचनप्रयोगः । वरुणेत्यत्र संहितायां ह्रस्वश्चांदसः ॥ नां युवाभ्यां यो यजमानस्त्मन्
+> आत्मनैव दाशति हवींषि ददाति स इत् स एव सुदानुः शोभनदानो भवति । स्ववान्
+> धनवांश्च ऋतावान् यज्ञवांश्च भवति । किंचॆ स दास्वान् दानवान् द्विषो
+> द्वेष्टुरिषान्नेन जयलच्छेन सह तरेत् । प्राप्येत् । अपि च रयिं धनं रयिवतो
+> धनवतो जनान् पुत्रांश्च वंसत् । संभजेत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, both addressed in the dual. Whichever sacrificer, of his own accord (त्मन् (*tman*)), offers (दाशति (*dāśati*), that is, gives) oblations to you two, he alone (स इत् (*sa it*)) becomes सुदानुः (*sudānuḥ*), of fine giving. He becomes स्ववान् (*svavān*), wealthy, and ऋतावान् (*ṛtāvān*), possessed of sacrifice. Moreover, he, दास्वान् (*dāsvān*), the giver, with food (इषा (*iṣā*)) won by victory from the hater (द्विषः (*dviṣaḥ*)) would cross over, that is, attain. And also he would obtain (वंसत् (*vaṃsat*), that is, share) wealth (रयिं (*rayiṃ*)), and sons and people who are wealthy (रयिवतः (*rayivataḥ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- वां (*vāṃ*)—addressing you
+- यः (*yaḥ*)—which sacrificer
+- त्मन् (*tman*)—of his own accord
+- दाशति (*dāśati*)—offers oblations
+- स इत् (*sa it*)—he alone
+- सुदानुः (*sudānuḥ*)—becomes an excellent giver
+- स्ववान् (*svavān*)—wealthy
+- ऋतावा (*ṛtāvā*)—and possessed of sacrifice
+- सः (*saḥ*)—he
+- दास्वान् (*dāsvān*)—being generous
+- द्विषः (*dviṣaḥ*)—of the enemy
+- इषा (*iṣā*)—united with food
+- तरेत् (*taret*)—will cross over hardships
+- रयिं (*rayiṃ*)—wealth
+- रयिवतः (*rayivataḥ*)—possessed of wealth
+- जनान् च (*janān ca*)—and sons also
+- वंसत् (*vaṃsat*)—will obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, whichever sacrificer, addressing you, offers oblations of his own accord, he alone becomes an excellent giver, wealthy and possessed of sacrifice.
+
+### Printed p. 504
+
+He, being generous, obtains food won from his enemies and is delivered from hardship. He obtains wealth and sons possessed of wealth.
+
+##### English translation
+He who spontaneously presents you, Indra and Varuna (oblatious), is liberal, wealthy and upright: he shall prosper with the food of his adversary, and possess riches, and opulent descendants.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं यु॒वं दा॒श्व॑ध्वराय देवा र॒यिं ध॒त्तो वसु॑मंतं  ॒
+> पुरुक्षुं ।  
+> अ॒स्मे स इं॑द्रावरुणा॒वपि॑ ष्वा॒त्र यो भ॒नक्ति॑ व॒नुषा॒मश॑स्तीः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । युवं । दाशुअध्वराय । देवा । रयिं । धत्थः । वसुमंतं । पुरुक्षुं ।  
+> अस्मे इति । सः । इंद्रावरुणौ । अपि । स्यात् । प्र । यः । भनक्ति । वनुषां । अशस्तीः ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा देवौ स्तूयमानौ हे इंद्रावरुणौ युवं युवां दाश्वध्वराय
+> दत्तहविष्काय वसुमंतं धनानुबंधिनं पुरुक्षुं बह्वन्नं पूर्णयशस्वं वा यं
+> यादृशं रयिं धनं धत्थः प्रयच्छथः । योऽपि च वनुषां हिंसकानामशस्तीरकीर्तिः । शत्रुकृतान्ययशांसीत्यर्थः । प्र भनक्ति प्ररुजति स तादृशो रयिरस्मे
+> अस्मासु स्यात् । भूयात् ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, you two, who are praised (देवा (*devā*), the two gods), to the sacrificer who has given the oblation (दाश्वध्वराय (*dāśvadhvarāya*)), you bestow (धत्थः (*dhatthaḥ*), that is, give) such wealth (रयिं (*rayiṃ*)) as is वसुमंतं (*vasumaṃtaṃ*), accompanied by riches, and पुरुक्षुं (*purukṣuṃ*), abundant in food or full of fame. And that which breaks (प्र भनक्ति (*pra bhanakti*), that is, shatters) the ill-fame (अशस्तीः (*aśastīḥ*)) of the harming enemies (वनुषां (*vanuṣāṃ*)), the meaning being the dishonours wrought by foes, may such wealth be in us (अस्मे (*asme*), that is, in us).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—you who are divine in nature
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- युवं (*yuvaṃ*)—you
+- दाश्वध्वराय (*dāśvadhvarāya*)—to the sacrificer who has offered the oblation
+- यं (*yaṃ*)—which
+- वसुमंतं (*vasumaṃtaṃ*)—accompanied by riches
+- पुरुक्षुं (*purukṣuṃ*)—abundant food
+- रयिं (*rayiṃ*)—and wealth
+- धत्थः (*dhatthaḥ*)—you give, those, and
+- यः अपि (*yaḥ api*)—which riches and the like
+- वनुषां (*vanuṣāṃ*)—of harming enemies
+- अशस्तिः (*aśastiḥ*)—the ill-fame
+- प्र भनक्ति (*pra bhanakti*)—destroy
+- सः (*saḥ*)—such wealth
+- अस्मे (*asme*)—in us
+- स्यात् (*syāt*)—may it be full
+
+### Printed p. 505
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, divine in nature, the food accompanied by riches and abundant, and the wealth, which you give to the sacrificer who has offered the oblation, those, and such wealth and the like as destroys the ill-fame of harming enemies, may it be full in us.
+
+##### English translation
+May that opulence comprising treasure and abundant food, which
+you bestow, deities, upon the donor (of the oblation), that, Indra and
+Varuna, which baffles the calumnies of the malevolent, be ours.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नः॑ सुत्रा॒त्रो दे॒वगो॑पाः सू॒रिभ्य॑ इंद्रावरुणा र॒यिः  ॑
+> ष्यात् ।  
+> येषां॒ शुष्मः॒ पृत॑नासु सा॒ह्वान् स॒द्यो द्यु॒म्ना ति॒रते॒  ॑
+> ततुरिः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । सुत्रात्रः । देवगोपाः । सूरिभ्यः । इंद्रावरुणा । रयिः । ष्यात् ।  
+> येषां । शुष्मः । पृतनासु । साह्वान् । प्र । सद्यः । द्युम्ना । तिरते । ततुरिः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि चंद्रावरुणा हे इंद्रावरुणौ सूरिभ्यः स्तोतृभ्यो नोऽस्मभ्यं
+> सुत्रात्रः सुरक्षो देवगोपाः । देवा गोपा गोप्तारो यस्य स तथाविधः ।
+> रयिर्धनं स्यात् । भूयात् । किंच येषामस्माकं शुष्मो बलं पृशनासु
+> युद्धेषु साह्वान् शक्रूणामभिभविता ततुरिर्हिंसकश्च सन् द्युम्ना यशांसि सद्य
+> एव प्र तिरते सम्यक्तिरस्कुर्यात् ॥
+
+##### Gist of the bhāṣya
+
+And also, O Indra and Varuṇa, to us, the praisers (सूरिभ्यः (*sūribhyaḥ*)), may wealth be सुत्रात्रः (*sutrātraḥ*), well guarded, and देवगोपाः (*devagopāḥ*), that is, of which the gods are the guardians. Moreover, ours, whose strength (शुष्मो (*śuṣmo*)) in battles, being the overcomer of enemies and a destroyer, would at once completely overshadow (प्र तिरते (*pra tirate*)) the glories (द्युम्ना (*dyumnā*), that is, the fames) of those enemies. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- येषां (*yeṣāṃ*)—whose, ours
+- शुष्कः (*śuṣkaḥ*)—the strength
+- पृतनासु (*pṛtanāsu*)—in battles
+- साह्वान् (*sāhvān*)—defeats enemies
+
+### Printed p. 506
+
+- ततुरिः (*taturiḥ*)—and being the destroyer of enemies
+- द्युम्ना (*dyumnā*)—all their fame
+- सद्यः (*sadyaḥ*)—at once
+- प्र तिरते (*pra tirate*)—completely covers, such
+- सूरिभ्यः (*sūribhyaḥ*)—to the praisers
+- नः (*naḥ*)—to us
+- सुत्रात्रः (*sutrātraḥ*)—well protected
+- देवगोपाः (*devagopāḥ*)—and guarded by the gods
+- रयिः (*rayiḥ*)—wealth
+- स्यात् (*syāt*)—may be obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, may wealth, well protected and guarded by the gods, be obtained by us, the praisers, whose strength in battles defeats enemies and destroys them and at once completely covers all their fame.
+
+##### English translation
+May that opulence, Indra and Varuna, which is a sure defence, and of which the gods are the guardians, be ours, celebrating your praise, whose destroying prowess in battles victorious (over foes) speedily obscures (their) fame.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू न॑ इंद्रावरुणा गृणा॒ना पृ॒ङ्कं र॒यिं सौ॑श्रव॒साय॑  
+> देवा ।  
+> इ॒त्था गृ॒णंतो॑ म॒हिन॑स्य॒ शर्धो॒ऽपो न ना॒वा दु॑रि॒ता त॑रेम॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । इंद्रावरुणा । गृणाना । पृङ्कं । रयिं । सौश्रवसाय । देवा ।  
+> इत्था । गृणंतः । महिनस्य । शर्धः । अपः । न । नावा । दुःऽइता । तरेम ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणेंद्रावरुणौ गृणाना स्तूयमानौ युवां नोऽस्मभ्यं
+> सौश्रवसाय । सुश्रवसो भावः सौश्रवसं । तस्यॆ सुश्रवस्त्वाय रयिं धनं नु क्षिप्रं
+> पृंकं । प्रयच्छतं । किंच हे देवा देवौ महिनस्य महतोर्युवयोः शर्धो
+> बलमित्तेत्थं गृणंतः स्तुवंतो वयं दुरिता दुरितानि नावापो न उदकानीव
+> तरेम ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, you two who are praised (गृणाना (*gṛṇānā*)), to us, for good fame (सौश्रवसाय (*sauśravasāya*), that is, the state of having good fame), quickly (नु (*nu*)) bestow (पृंकं (*pṛṃkaṃ*), that is, give) wealth (रयिं (*rayiṃ*)). Moreover, O gods, the strength (शर्धः (*śardhaḥ*)) of you two, the great (महिनस्य (*mahinasya*)), thus praising it, we would cross the evils (दुरिता (*duritā*)) as one crosses waters by a boat.
+
+### Printed p. 507
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- गृणाना (*gṛṇānā*)—you who are praised by us
+- नः (*naḥ*)—to us
+- सौश्रवसाय (*sauśravasāya*)—for the gaining of excellent happiness
+- रयिं (*rayiṃ*)—wealth
+- नु (*nu*)—quickly
+- पृज्ञं (*pṛjñaṃ*)—give
+- देवा (*devā*)—O divine ones
+- नावा (*nāvā*)—by a boat
+- अपो न (*apo na*)—as one crosses water
+- महिनस्य (*mahinasya*)—of you who are great
+- शर्धः (*śardhaḥ*)—the strength
+- इत्या (*ityā*)—in this manner
+- गृणंतः (*gṛṇaṃtaḥ*)—we who praise
+- दुरिता (*duritā*)—our sins
+- तरेम (*tarema*)—may we cross
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, you who are praised by us, quickly give us wealth for the gaining of excellent happiness. O divine ones, praising in this manner the strength of you who are great, may we cross our sins as one crosses water by a boat.
+
+##### English translation
+Divine and glorified Indra and Varuna, quickly bestow upon us wealth for our felicity ; and thus eulogising the strength of you two, mighty (deities), may we pass over all difficulties as (we cross) the waters with a boat.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॒म्राजे॑ बृह॒ते मन्म॒ नु प्रि॒यमर्च॑ दे॒वाय॒ वरु॑णाय  ॒॑
+> सप्रथः ।  
+> अ॒यं य उ॒र्वी म॑हि॒ना महि॑व्रतः॒ क्रत्वा॑ वि॒भात्य॒जरो॒ न  ॒॑
+> शोचिषा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । संराजे । बृहते । मन्त्र । नु । प्रियं । अर्च । देवाय । वरुणाय । सप्रथः।  
+> अयं । यः । उर्वी इति । महिना । महिव्रतः । क्रत्वा । विभाति । अजरः । न ।  
+> शोचिषा ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 500. Ṛk 9 end of sūkta 67, Ṛk 10-11, sūkta 68 Ṛk 1-3 start
+**Progress note:** Done through printed p. 507. Ṛk 3 to 9 of sūkta 68 (Pada of Ṛk 9)
