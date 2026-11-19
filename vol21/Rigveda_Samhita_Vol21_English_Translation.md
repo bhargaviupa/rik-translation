@@ -12626,6 +12626,315 @@ Be unto us, gods, the donors of splendid, invigorating riches, comprising male d
 > ऋ॒भु॒क्षा वाजो॒ दैव्यू॑ विधा॒ता प॒र्जन्या॒वाता॑ पिप्यता॒मिषं॑  
 > नः ॥ १२ ॥
 
+### Printed p. 291
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । रुद्रः । सरस्वती । सजोषाः । माळ्हुष्मंतः । विष्णुः । मृळंतु । वायुः ।  
+> ऋभुक्षाः । वाजः । दैव्यः । विधाता । पर्जन्यावाता । पिप्यतां । इषं । नः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मीळ्हुष्मंतो वर्षणवंतस्ते देवा नोऽस्मान्मृळंतु । मृळयंतु ।
+> सुखियंतु । के त इति चेदुच्यते । रुद्रः सरस्वती च सजोषाः सह प्रीयमाणा
+> विष्णुर्वायुश्च ऋभुक्षाः । ऋभुर्विभ्वा वाज इति त्रयः सौधन्वनाः । तेषामाद्य
+> ऋभुश्च वाजोऽंतिमश्च । उपलक्षणमेतत् । विभ्वा च । दैव्यो देवेभ्यो हितो
+> विधाता प्रजापतिश्च । अपि च पर्जन्यावाता पर्जन्यश्च वायुश्चोभौ नोऽस्मभ्यमिषमन्नं पिप्यतां । वर्धयतां ॥
+
+##### Gist of the bhāṣya
+
+Those gods, "mīḷhuṣmantaḥ", the rain-givers, are to make us happy. If it is asked who they are, he says: Rudra and Sarasvatī, "sajoṣāḥ", pleased together; Viṣṇu and Vāyu; and "ṛbhukṣāḥ". Ṛbhu, Vibhvā and Vāja are the three sons of Sudhanvan; of them the first, Ṛbhu, and the last, Vāja, are named, and this is by way of indication, so that Vibhvā too is meant. "Daivyaḥ" is Vidhātṛ, beneficial to the gods, that is, Prajāpati. And Parjanya and Vāyu, both of them, are to increase for us "iṣa", food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मीळ्हुष्मंतः (*mīḷhuṣmaṃtaḥ*)—the rain-makers
+- ते (*te*)—the famous
+- रुद्रः (*rudraḥ*)—Rudra
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- सजोषाः (*sajoṣāḥ*)—who attain satisfaction together
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- वायुः (*vāyuḥ*)—Vāyu
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—Ṛbhukṣan
+- वाजः (*vājaḥ*)—Vāja (Vibhvan)
+- नः (*naḥ*)—us
+- मृळंतु (*mṛḷaṃtu*)—let them make happy
+- दैव्यः (*daivyaḥ*)—who is beneficial to the gods
+- विधाता (*vidhātā*)—Prajāpati
+- पर्जन्यावाता (*parjanyāvātā*)—Parjanya and the god Vāyu
+- नः (*naḥ*)—to us
+- इषं (*iṣaṃ*)—food
+- पिप्यतां (*pipyatāṃ*)—let them increase
+
+##### भावार्थ (Bhāvārtha)
+
+May Rudra, Sarasvatī, Viṣṇu and Vāyu, who attain satisfaction together, who are the makers of rain and are famous, and Ṛbhu, Vāja and Vibhvan, make us happy. May Prajāpati, who is beneficial to the gods, and Parjanya and the god Vāyu increase our food.
+
+##### English translation
+May Rudra and Saraswati, alike well pleased, and Vishnu and Vayu, make us happy, sending rain; and Ribhukshin, and Vaja, and the divine Vidhatri: and may Parjanya and Vata grant us abundant food.
+
+### Printed p. 292
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्य दे॒वः स॑वि॒ता भगो॑ नो॒ऽपां नपा॑दवतु॒ दानु॒ सप्रिः॑ ।  
+> त्वष्टा॑ दे॒वेभि॒र्जनि॑भिः स॒जोषा॒ द्यौर्दे॒वेभिः॑ पृथि॒वी स॑मु॒द्रॆः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्यः । देवः । सविता । भगः । नः । अपां । नपात् । अवतु । दानु । पप्रिः ।  
+> त्वष्टा । देवेभिः । जनिभिः । सजोषाः । दौर्ब्य । देवेभिः । पृथिवी । समुद्रैः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च स्य स यः प्रेरकतया सर्वत्र प्रख्यातः स सविता देवो भगश्चापां
+> नपाच्चापां मेघस्थानां पुत्रो माध्यमिकोग्निः स च नोऽस्मानवतु । रक्षतु ।
+> कीदृशोपां नपात् । दानु दातव्यं धनं पप्रिः प्राता पूरयिता ॥ प्रा पूरण
+> इत्यस्मादादृगमहन इति किनो लिड्वद्भावान्न लोकाव्ययेति षष्ठिप्रतिषेधः ॥ तथा
+> देवेभिर्देवैर्जनिभिस्तत्पत्नीभिश्च सजोषाः सहप्रीतिस्त्वष्टा च देवेभिर्देवैः सह
+> प्रीयमाणा दौश्च समुद्रॆः सह प्रीयमाणा पृथिवी चैताश्च सर्वा देवता
+> आस्मानवंतु ॥
+
+##### Gist of the bhāṣya
+
+And that god Savitṛ, who is famed everywhere as the impeller, and Bhaga, and "apāṃ napāt", the son of the waters that stand in the clouds, the Agni of the middle region: may he too protect us. Of what kind is Apāṃ Napāt? "Dānu" is the wealth that is to be given; "papriḥ" is the one who fills it up, who fulfils. Likewise "sajoṣāḥ", sharing delight, with the gods and with their wives ("janibhiḥ"); Tvaṣṭṛ, pleased together with the gods; Dyaus, pleased together with the gods; and Earth, pleased together with the seas: may all these deities protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- स्यः (*syaḥ*)—the famous
+- देवः (*devaḥ*)—and of divine nature
+- सविता (*savitā*)—the god Savitṛ
+- भगः (*bhagaḥ*)—Bhaga
+- दानु (*dānu*)—the wealth that is to be given
+- पप्रिः (*papriḥ*)—who fills up
+- अपां नपात् (*apāṃ napāt*)—Agni, who dwells in the atmosphere
+- नः (*naḥ*)—us
+- अवतु (*avatu*)—let him protect
+- देवेभिः (*devebhiḥ*)—with the gods
+- जनिभिः (*janibhiḥ*)—and with their wives
+- सजोषाः (*sajoṣāḥ*)—who is together
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- देवेभिः (*devebhiḥ*)—who is together with the gods
+- द्यौः (*dyauḥ*)—the heavenly world
+- समुद्रॆः (*samudrèḥ*)—who is together with the seas
+- पृथिवी (*pṛthivī*)—the earth (let her protect us)
+
+##### भावार्थ (Bhāvārtha)
+
+May the famous and divine Savitṛ, and Bhaga, and Agni, who dwells in the atmosphere and fills up the wealth that is to be given, protect us. May Tvaṣṭṛ, who is together with the gods and with their wives, the heavenly world, which is together with the gods, and the earth, which is together with the seas, protect us.
+
+### Printed p. 293
+
+##### English translation
+And may the divinie Savitri and Bhaga, and the grandson of the waters, (Agni), the prodigal of gifts preserve us ; and may Twashtri with the gods, and Earth with the seas, (preserve us).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नोऽहि॑र्बु॒ध्न्यः॑ शृणोत्व॒ज एक॑पात्पृथि॒वी स॑मु॒द्रः ।  
+> विश्वे॑ दे॒वा ऋ॑ता॒वृधो॑ हुवा॒नाः स्तु॒ता मंत्राः॑ कविश॒स्ता  ॑
+> अवंतु ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । अहिः । बुध्न्यः । शृणोतु । अजः । एकपात् । पृथिवी । समुद्रः ।  
+> विश्वे । देवाः । ऋत्यवृधः । हुवानाः । स्तुताः । मंत्राः । कविशस्त्राः । अवंतु ॥१४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निमारुत उत नोऽहिरित्येषा । सूत्रितं च । उत नोऽहिर्बुध्न्यः शृणोतु
+> देवानां पत्नीरुशतीरवंतु नः । आ. ५-२० । इति ॥
+> उतापि जाहिर्बुध्न्यो नोऽस्माकं स्तोत्रं शृणोतु । अजो जन्मरहितः ।
+> एकोऽसहाय एव पद्यते गच्छतीत्येकपात् । एतत्पदद्वयाभिधेयो देवश्च पृथिवी
+> समुद्रश्चास्मदीयं स्तोत्रं शृणोतु । अपि च ऋतावृध ऋतस्य यज्ञस्य सत्यस्य वा
+> वर्धयितारो हुवाना आस्माभिराहूयमानाः पूर्वर्यषिभिश्च स्तोत्रैः स्तुता
+> मंत्रा मंत्रणीया गुप्तं भाषितव्या मंत्रप्रतिपाद्या वा कविशस्ताः कविभिर्मेधाविभिर्युषिभिः शस्त्रैः शंसिता ईदृशा विश्वे देवा अवंतु । अस्मान्रक्षंतु ॥
+
+##### Gist of the bhāṣya
+
+This verse belongs to the Agnimāruta recitation. It is also set down in the sūtra: उत नोऽहिर्बुध्न्यः शृणोतु देवानां पत्नीरुशतीरवंतु नः (*uta no 'hirbudhnyaḥ śṛṇotu devānāṃ patnīruśatīravaṃtu naḥ*) (Ā. 5-20). May Ahirbudhnya hear our hymn; "aja" is the birthless one; "ekapāt" is the one who goes ("padyate") alone, unaccompanied; and the god denoted by these two words, and Earth and Ocean, are to hear our hymn. And may the Viśvedevas protect us: "ṛtāvṛdhaḥ", increasers of ṛta, that is, of the sacrifice or of truth; "huvānāḥ", called by us, and praised with hymns by the ancient seers; "mantrāḥ", to be pondered, to be spoken in secret, or those who are set forth by the mantras; "kaviśastāḥ", praised with śastras by poets, the wise ones, and the sages. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—the god Ahirbudhnya
+- अज एकपात् (*aja ekapāt*)—the god bearing the name Aja Ekapād
+- पृथिवी (*pṛthivī*)—the earth
+- समुद्रः (*samudraḥ*)—the deity presiding over the ocean
+- नः (*naḥ*)—our hymn
+- शृणोतु (*śṛṇotu*)—let them hear
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—the increasers of the sacrifice
+- हुवानाः (*huvānāḥ*)—those who are called by us
+
+### Printed p. 294
+- स्तुताः (*stutāḥ*)—those who are praised by us
+- मंत्राः (*maṃtrāḥ*)—those worthy of our meditation
+- कविशस्ताः (*kaviśastāḥ*)—those who are praised by the wise
+- विश्वेदे देवाः (*viśvede devāḥ*)—all the Viśvedevas
+- अवंतु (*avaṃtu*)—let them protect us
+
+##### भावार्थ (Bhāvārtha)
+
+Ahirbudhnya, Aja Ekapād, the earth and the deity presiding over the ocean, let all of them hear our hymn. May all the Viśvedevas, the increasers of the sacrifice, who are called by us, who are worthy of our praise and of our meditation, and deserving of the praise of the wise, protect us.
+
+##### English translation
+May Ahirbudhnya, Aja-ekapad, and Earth and Ocean, hear us : may the universal gods, who are exalted by sacrifice, they who are invoked and praised (by us), to whom mystical prayers are addressed, and who have been glorified by (ancient) sages, preserve us.
+
+##### विशेषविषयगळु (Special Topics)
+
+In reciting the Agnimāruta śastra mantras, this Ṛk "uta no 'hiḥ" is to be included and recited; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra उत नोऽहिर्बुध्न्यः शृणोतु देवानां पत्नीरुशतीरवंतु नः (*uta no 'hirbudhnyaḥ śṛṇotu devānāṃ patnīruśatīravaṃtu naḥ*) (A. 5-20). **NOTE**
+Ahirbudhnya: concerning this deity, see what is written in Ṛ. Saṃ. Part 5, p. 588, and Part 14, pp. 142-143.
+Aja Ekapād: concerning this deity, see what is written in Ṛ. Saṃ. Part 5, p. 588, and Part 15, p. 174.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा नपा॑तो॒ मम॒ तस्य॑ धी॒भिर्भ॒रद्वा॑जा अ॒भ्य॑र्चंत्य॒र्कैः ।  
+> ग्ना हु॒तासो॒ वस॒वोऽधृ॑ष्टा॒ विश्वे॑ स्तु॒तासो॑ भूता यजत्राः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नपातः । मम । तस्य । धीभिः । भरत्वाजाः । अभि । अर्चंति । अर्कैः ।  
+> ग्नाः । हुतासः । वसवः । अदृष्टाः । विश्वे । स्तुतासः । भूत । यजत्राः ॥ १५ ॥
+
+### Printed p. 295
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवैवं योऽहं देवान् स्तुतवान् तस्य मम ऋजिश्वनो नपातः पुत्रा
+> भरद्वाजा भरद्वाजगोत्रजाः सुहोत्रादयो धीभिः स्तोत्रैरर्कॆरर्चनसाधनैरभ्यर्चंति । अभिष्णुवंति । हे यजत्रा यष्टव्या देवा हुतासः पुरोडाशादिभिर्हविर्भिर्हुतास्तर्पिता वसवो निवासयितारोऽधृष्ट्वाः कैरप्यहिंसिता एवंभूता विश्वे ते
+> सर्वॆ यूयं ग्ना देवपत्न्यश्च स्तुतासो भूत । तैः सुहोत्रादिभिः स्तुता भवत ॥
+
+##### Gist of the bhāṣya
+
+"Thus I, who have praised the gods, Ṛjiśvan: my sons, the Bharadvājas, born in the lineage of Bharadvāja, Suhotra and the others, worship with "dhībhiḥ", hymns, and "arkaiḥ", the means of worship, that is, they praise. O "yajatrāḥ", gods to be worshipped; "hutāsaḥ", gratified with oblations such as the purodāśa; "vasavaḥ", causers of dwelling; "adhṛṣṭāḥ", unharmed by any: you all of this kind, and the divine wives ("gnāḥ"), be praised; be praised by Suhotra and the others." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एव (*eva*)—thus, who have praised you
+- तस्य मम (*tasya mama*)—of me, who bear the name Ṛjiśvan
+- नपातः (*napātaḥ*)—the sons
+- भरद्वाजाः (*bharadvājāḥ*)—those of the family of Bharadvāja
+- धीभिः (*dhībhiḥ*)—with hymns
+- अर्कैः (*arkaiḥ*)—with the means of worship
+- अभ्यर्चंति (*abhyarcaṃti*)—praise and worship you
+- यजत्राः (*yajatrāḥ*)—the worthy of worship
+- हुतासः (*hutāsaḥ*)—those to whom the purodāśa and the like are offered
+- वसवः (*vasavaḥ*)—the givers of dwelling
+- अधृष्टाः (*adhṛṣṭāḥ*)—the unassailed
+- विश्वे (*viśve*)—all the gods
+- ग्नाः (*gnāḥ*)—the divine wives
+- स्तुतासः (*stutāsaḥ*)—having been praised by us
+- भूत (*bhūta*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+As seen above, my sons, born in the family of Bharadvāja, I who bear the name Ṛjiśvan having praised you, praise and worship you with hymns and with the means of worship. May all the gods, worthy of worship, to whom the purodāśa and the like are offered, givers of dwelling, unassailed, and all the divine wives as well, be praised by us.
+
+##### English translation
+Thus do my sons, of the race of Bharadwaja, worship the gods with sacred rites and holy hymns ; and so. adorable (deities), may you, who are worshipped and glorified, the givers of dwellings, the invincible, universal gods, ever be adored, (together with your) wives.
+
+## Sūkta 51 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदु त्यदिति षोडशर्चं द्वितीयं सूक्तमृजिश्वन अर्षं वैश्वदेवं । त्रयोदश्याद्यास्तिग्र उष्णिहः षोडश्यनुष्टुप् शिष्टास्त्रिष्टुभः । तथा चानुक्रांतं । उदु
+> त्यत्सोळश त्र्युष्णिगनुष्टुबंतमिति ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, beginning उदु त्यदिति (*udu tyaditi*), of sixteen Ṛks, has Ṛjiśvan as its seer and the Viśvedevas as its deity. The three Ṛks beginning with the thirteenth are in the Uṣṇih metre, the sixteenth is Anuṣṭubh, and the rest are Triṣṭubh. The Anukramaṇī says so accordingly. The use of the sūkta in ritual has been stated.
+
+### Printed p. 296
+
+##### Anuvāda
+
+This sūkta "Udu tyat" is the second sūkta in the fifth anuvāka. It has sixteen Ṛks. The seer of this sūkta is Ṛjiśvā; the deity is the Viśvedevas. The three Ṛks following from the thirteenth Ṛk of this sūkta are in the metre called Uṣṇik. The sixteenth is in the Anuṣṭup metre. The remaining Ṛks are in the Triṣṭup metre. In the Anukramaṇī it is stated thus: उदु त्यत्सोळश त्र्युष्णिगनुष्टुबंतं (*udu tyatsoḷaśa tryuṣṇiganuṣṭubaṃtaṃ*). The use of the sūkta in ritual has already been stated.
+
+- Sūkta 51
+- Maṇḍala 6; Anuvāka 5; Sūkta 51
+- Aṣṭaka 4; Adhyāya 8; Varga 11, 12, 13
+- Number of Ṛks in the sūkta: 16
+- Ṛṣi: Ṛjiśvā
+- Devatā: Viśvedevas
+- Chandas: 1-12 Triṣṭup; 13-15 Uṣṇik; 16 Anuṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ त्यच्चक्षु॒र्महि॑ मि॒त्रयो॒रा एति॑ प्रि॒यं वरु॑णयो॒रद॑ब्धं ।  
+> ऋ॒तस्य॒ शुचि॑ दर्श॒तमनी॑कं रु॒क्मो न दि॒व उदि॑ता॒ व्य॑द्यौत् ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । त्यत् । चक्षुः । महि । मित्रयोः । आ । एति । प्रियं । वरुणयोः  
+> अदब्धं ।  
+> ऋतस्य । शुचि । दर्शतं । अनीकं । रुक्मो । न । दिवः । उत् इता । वि । अद्यौत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यत्तत्पसिद्धं चक्षुः प्रकाशकं महि महद्विस्कृतं मित्रयोर्वरुणयोः प्रियं ।
+> मित्रशब्दो वरुणशब्दश्चेतरेतरयोगान्मित्रावरुणावुभावप्याचष्टे । मित्रावरुणयोः
+> प्रियमदब्धं रक्षोभिरहिंसितं शुचि शुद्धं निर्मलं दर्शतं दर्शनीयं । एवंभूतमृतस्यादित्यस्यानीकं तेज आ सर्वॆषामभिमुखमुदेति । उदृच्छति । उदितोदितौ
+> सूर्यस्योदये सत्युदितं तत्तेजो दिवोऽंतरिक्षस्य रुक्मो न भूषणमिव
+> व्यद्यौत् । विद्योतते । प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+That well-known "cakṣus", the illuminator, great, extensive, dear to Mitra and Varuṇa. The words Mitra and Varuṇa, by their mutual connection, denote both Mitra and Varuṇa together. It is dear to Mitra and Varuṇa, "adabdham", unharmed by the rākṣasas, "śuci", pure, spotless, and "darśatam", beautiful to see. Such is the splendour ("anīka", brightness) of the ṛta, that is, of Āditya, which rises facing all. When the sun has risen, that risen splendour shines ("vyadyaut") in the sky, like an ornament ("rukma").
+
+### Printed p. 297
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—of Āditya
+- त्यत् उ (*tyat u*)—the famous
+- चक्षुः (*cakṣuḥ*)—the shining
+- महि (*mahi*)—the very extensive
+- मित्रयोः वरुणयोः (*mitrayoḥ varuṇayoḥ*)—to both Mitra and Varuṇa
+- प्रियं (*priyaṃ*)—the beneficial
+- अदब्बं (*adabbaṃ*)—the unharmed by enemies
+- शुचि (*śuci*)—the pure
+- दर्शतं (*darśataṃ*)—the attractive to the sight
+- अनीकं (*anīkaṃ*)—splendour
+- आ उत् एति (*ā ut eti*)—appears facing everyone and rises
+- उदिता (*uditā*)—that splendour, which shines as soon as the sun has risen
+- रुक्मो न (*rukmo na*)—as if it were an ornament of the whole atmosphere
+- वि अद्यात् (*vi adyāt*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+The splendour of Āditya, famous, shining, very extensive, beneficial to both Mitra and Varuṇa, unharmed by enemies, pure, attractive to the sight, appears facing everyone. That splendour, which shines as soon as the sun has risen, shines as if it were an ornament of the whole atmosphere.
+
+##### English translation
+The expansive, illuminating, unobstructive, pure, and beautiful radiance of the sun, grateful to Mitra and Varuna, having risen, shines like the ornament of the sky.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेद॒ यस्त्रीणि॑ वि॒दथा॑न्येषां दे॒वानां॒ जन्म॑ सनु॒तरा च॒ विप्रः॑।  
+> ऋ॒जु मर्ते॑षु वृजि॒ना च॒ पश्य॑न्न॒भि च॑ष्टे॒ सूरो॑ अ॒र्य  ॑
+> एवान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेद । यः । त्रीणि । विदथानि । एषां । देवानां । जन्म । सनुतः । आ । च । विप्रः ।  
+> ऋजु । मर्तेषु । वृजिना । च । पश्यन् । अभि । चष्टे । सूरः । अर्यः । एवान् ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सूर्यस्त्रीणि त्रिसंख्यानि विदथानि वेदितव्यानि स्थानानि त्रील्लोकान्वेद
+> वेत्ति जानाति । एषामेतल्लोकत्रयवर्तिनां देवानां वसुरुद्रादित्यात्मनां सनुतः ।
+
+##### Gist of the bhāṣya
+
+That Sūrya who knows the three "vidathāni", the three places to be known, that is, the three worlds; of these gods who dwell in the three worlds and whose nature is that of the Vasus, Rudras and Ādityas, सनुतः (*sanutaḥ*)
+
 ---
 
-**Progress note:** Done through printed p. 290. Sukta 50 Rks 7-12 (pp. 285-290)
+**Progress note:** Done through printed p. 297. Sukta 50 Rks 12-15, Sukta 51 Rks 1-2 (pp. 291-297)
