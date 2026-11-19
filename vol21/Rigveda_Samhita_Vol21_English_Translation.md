@@ -12350,6 +12350,282 @@ Praise, worshipper, with a new hymn, that hero, Indra, who is deserving of prais
 > ओ॒मान॑मापो मानुषी॒रमृ॑क्तं॒ धात॑ तो॒काय॒ तन॑याय॒  
 > शं योः ॥
 
+### Printed p. 285
+
+> यूयं हि ष्ठा भिषजो मातृतमा विश्वस्य स्थातुर्जगतो
+> जनित्रीः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओमानं । आपः । मानुषीः । अमृक्तं । धात । तोकाय । तनयाय । शं । योः ।  
+> यूयं । हि । स्थ । भिषजः । मातृतमाः । विश्वस्य । स्थातुः । जगतः । जनित्रीः ॥ ७ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आपो मानुषीर्मनुष्यहिता यूयममृक्तमहिंसितमोमानं । अवति
+> रक्षतीत्योमा रक्षकमन्नं । तोकाय पुत्राय तनयाय तत्पुत्राय च धात । धत्त ।
+> प्रयच्छत । तथा शं शमनमुपद्रवाणां योर्यावनं पृथक्करणं च पृथक्कर्तव्यानां धत्त । प्रयच्छत । कुत इत्यत आह । हि यस्माद्यूयं मातृतमा मातृभ्योऽप्यधिका भिषजः स्थ भवध तस्माद्घातेत्यन्वयः । कथं मातृभ्योऽप्यधिकं
+> भैषज्यमस्तीत्यत आह । विश्वस्य सर्वस्य स्थातुः स्थावरस्य जगतो जंगमस्य जनित्रीर्जनयित्र्यो भवथ । अतो यूयं भिषजः स्थ ॥
+
+##### Gist of the bhāṣya
+
+"O waters, friendly to men, you give to our son and to his son the unharmed, protecting food ("omāna"; "avati" means he protects, hence "omā" is protecting food). Give also "śam", the quieting of calamities, and "yoḥ", the keeping apart, the separating, of what is to be kept apart." Why? Because you are "mātṛtamāḥ", more than mothers, physicians. How can there be a remedy greater than that of mothers? He answers: you are the mothers, the begetters, of the whole world, of the stationary and the moving. Therefore you are physicians.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O deities of the waters
+- मानुषीः (*mānuṣīḥ*)—you, who are beneficial to men
+- अमृक्तं (*amṛktaṃ*)—the unharmed
+- ओमानं (*omānaṃ*)—and protecting food
+- तोकाय (*tokāya*)—to our son
+- तनयाय (*tanayāya*)—to his son
+- धात (*dhāta*)—give
+- शं (*śaṃ*)—happiness
+- योः (*yoḥ*)—and freedom from sorrow (produce)
+- यूयं (*yūyaṃ*)—you
+- मातृतमाः (*mātṛtamāḥ*)—better than the mother who gave birth
+- भिषजः (*bhiṣajaḥ*)—as the nourishers of our health
+- स्थ (*stha*)—you are
+- हि (*hi*)—for
+- विश्वस्य (*viśvasya*)—of the whole
+- स्थातुः (*sthātuḥ*)—stationary
+- जगतः (*jagataḥ*)—and moving, all the worlds
+- जनित्रिः (*janitriḥ*)—you are the mothers
+
+##### भावार्थ (Bhāvārtha)
+
+O deities presiding over the waters, you who are beneficial to men, give to our son and to his son unharmed and protecting food. Produce happiness and freedom from sorrow. You are better than the mother who gave birth, nourishers of our health; for you are the mothers of the whole world, all that is stationary and moving.
+
+### Printed p. 286
+
+##### English translation
+Waters, friendly to mankind, grant uninterrupted (life)-preserving (food) for (the perpetuatiou of our) sons and grandsons : grant us security and the removal (of all evil), for you are more then meternal physicians ; you are the parents of the stationary and moveable universe.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ दे॒वः स॑वि॒ता त्राय॑माणो॒ हिर॑ण्यपाणियर्ज॒तो  ॑
+> ज॑गम्यात् ।  
+> यो दत्त॑वा उ॒षसो॒ न प्रती॑कं व्यूर्णु॒ते दा॒शुषे॒ वार्या॑णि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । देवः । सविता । त्रायमाणः । हिरण्यपाणिः । यजतः । जगम्यात् ।  
+> यः । दत्रवान् । उषसः । न । प्रतीकं । विऊर्णुते । दाशुषे । वार्याणि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रायमाणो रक्षन् हिरण्यपाणिः सुवर्णहस्तो हितरमणीयपाणिर्वा
+> यजतो यष्टव्य एवंभूतः सविता प्रेरतो देवो नोऽस्माना जगम्यात् ।
+> आगच्छतु । यो देवो दत्तवान्थनवानुषसो न प्रतीकमुषसः प्रमुखमिव दाशुषे
+> हवींषि दत्तवते यजमानाय वार्याणि वरणीयानि धनानि व्यूर्णुते विवृणोति
+> प्रकाशयति स सवितेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Savitṛ, the impelling god, who protects, who is "hiraṇyapāṇi", golden-handed, or one whose hand is beneficial and delightful, and who is "yajataḥ", to be worshipped, is to come to us. The god who is possessed of wealth, like the face of Uṣas, to the sacrificer who has given oblations opens up, makes manifest, the desirable riches: he is Savitṛ. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Savitṛ who
+- दत्रवान् (*datravān*)—being wealthy
+- उषसः (*uṣasaḥ*)—of the goddess Uṣas
+- प्रतीकं न (*pratīkaṃ na*)—like the divine form
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblations
+- वार्याणि (*vāryāṇi*)—the desired riches
+- व्यूर्णुते (*vyūrṇute*)—makes manifest (such a one)
+- त्रायमाणः (*trāyamāṇaḥ*)—the protector
+- हिरण्यपाणिः (*hiraṇyapāṇiḥ*)—having a hand of gold
+- यजतः (*yajataḥ*)—venerable
+- देवः (*devaḥ*)—of divine nature
+- सविता (*savitā*)—the god Savitṛ
+- नः (*naḥ*)—towards us
+- आ जगम्यात् (*ā jagamyāt*)—may he graciously come
+
+### Printed p. 287
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Savitṛ, the protector, having a hand of gold, venerable and divine, who, being wealthy, makes manifest the desired riches to the sacrificer who offers oblations, like the goddess Uṣas of divine form, graciously come towards us.
+
+##### English translation
+May the adorable, golden-handed Savitri, the preserver, come to us; he, the munificent, who, like the opening of the dawn, displays desirable (riches) to the offerer of the oblation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वं सू॑नो सहसो नो अ॒द्या दे॒वा अ॒स्मिन्न॑ध्व॒रे  ॑
+> ववृत्याः ।  
+> स्याम॒हं ते॒ सद॒मिद्रा॒त् तव॑ स्याम॒ग्नेऽव॑सा सु॒वीरः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वं । सूनो इति । सहसः । नः । आद्य । आ । देवान् । अस्मिन् । अध्वरे । ववृत्याः ।  
+> स्यां । अहं । ते । सदं । इत् । रात् । तव । स्यां । अग्ने । अवसा । सुवीरः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे सहसः सूनो बलस्य पुत्राग्ने त्वमद्यास्मिन्काले नोऽस्मदीये-
+> sस्मिन्नध्वरे यागे देवान्यष्टव्यानिंद्रादीना ववृत्याः । आवर्तय । आगमय । अपि
+> चाहं ते शव रात् धनस्य दाने सदमित्सर्वदैव वर्तमानः स्यां भवेयं । तथा
+> हे अग्ने तवावसा त्वदीयेन रक्षणेन सुवीरः शोभनैर्वीरैः पुत्रपौत्रादिभिरुपेतश्च
+> स्यां । भवेयं ॥
+
+##### Gist of the bhāṣya
+
+"And, O son of strength, O Agni, son of might, today, at this time, bring, cause to come, to this sacrifice of ours the gods who are to be worshipped, Indra and the others. And may I, at your giving of wealth, be always present. Likewise, O Agni, by your protection may I be "suvīraḥ", possessed of good heroes, sons, grandsons and the like."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- सहसः सूनो (*sahasaḥ sūno*)—O Agni, son of strength
+- त्वं (*tvaṃ*)—you
+- आद्य (*ādya*)—at this time of the sacrifice
+- नः (*naḥ*)—our
+- आस्मिन् अध्वरे (*āsmin adhvare*)—to this sacrifice
+- देवान् (*devān*)—the gods
+- आ ववृत्याः (*ā vavṛtyāḥ*)—cause to come
+- अहं (*ahaṃ*)—I
+- ते (*te*)—your
+- रात्ौ (*rātau*)—for the giving of wealth
+- सदमित् (*sadamit*)—always
+
+### Printed p. 288
+- स्यां (*syāṃ*)—may I be a fit recipient
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your
+- अवसा (*avasā*)—by protection
+- सुवीरः (*suvīraḥ*)—possessed of excellent sons, grandsons and the like
+- स्यां (*syāṃ*)—may I be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, at this time of the sacrifice performed by us, cause the gods to come to our sacrifice. May I always be a fit recipient of your gift of wealth. O Agni, grant that by your protection I may be happy, having obtained excellent sons, grandsons and the like.
+
+##### English translation
+And you, son of strength, bring back to-day the deities to this our sacrifice : may I be ever in (the enjoyment of) your bounty : may I through your protection, Agni, be blessed with excellent male descendants.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्या मे॒ हव॒मा ज॑ग्मातं॒ नास॑त्या धी॒भिर्यु॒वमं॒ग  ॑
+> विप्रा ।  
+> अत्रिं॒ न म॒हस्तम॑सोऽमुमुक्तं॒ तूर्व॑तं नरा दुरि॒ताद॒भीके॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्या । मे । हवं । आ । जग्मातं । नासत्या । धीभिः । युवं । अंग । विप्रा ।  
+> अत्रिं । न । महः । तमसः । अमुमुक्तं । तूर्वतं । नरा । दुःइतात् । अभीके ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे विप्रा प्राज्ञा नासत्या सत्यस्वभावौ सत्यस्य नेतारौ वा हे अश्विन्
+> त्या तौ प्रसिद्धौ युवं युवां धीभिः परिचरणकैः कर्मभिरुपेतं मे
+> मदीयं हवं स्तोत्रमंग क्षिप्रमा जग्यातं । आगच्छतं । अगत्य च महो
+> महतस्तमसोऽसुरकृतादंधकारादत्रिं न यथात्रिमृषिममुमुक्तं मोचितवंतौ
+> स्थः हे नरा नेतारावश्विनौ तथास्मानप्यभीकेऽभ्यक्ते प्राप्ते संग्रामे दुरिताद्दुःखात
+> शत्रुकृतात्तूर्वतं । अस्मांस्तारयतं ॥
+
+##### Gist of the bhāṣya
+
+"And, O wise, O Nāsatyas", of true nature or leaders of truth, O Aśvins, you, the well-known ones, come quickly to this hymn of mine, which is joined with acts of attendance. Having come, as you released the sage Atri from great darkness made by the asuras, so, O leaders, deliver us in battle, when it is at hand, from the suffering caused by enemies.
+
+### Printed p. 289
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- विप्रा (*viprā*)—O wise ones
+- नासत्या (*nāsatyā*)—O Aśvin gods
+- त्या (*tyā*)—well-known
+- युवं (*yuvaṃ*)—you
+- धीभिः (*dhībhiḥ*)—of me, who am joined with your acts of worship
+- मे (*me*)—my
+- हवं (*havaṃ*)—having listened to the hymn
+- अंग (*aṃga*)—quickly
+- आ जग्यातं (*ā jagyātaṃ*)—graciously come
+- अत्रिं न (*atriṃ na*)—as you freed the sage Atri from darkness
+- महः (*mahaḥ*)—great
+- तमसः (*tamasaḥ*)—from the darkness
+- अमुमुक्तं (*amumuktaṃ*)—free us
+- नरा (*narā*)—O Aśvin gods, leaders
+- अभीके (*abhīke*)—in battle
+- दुरितात् (*duritāt*)—from the suffering caused by enemies
+- तोर्वतं (*torvataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Aśvin gods, you, the well-known ones, listening to my hymn, I who am joined with your acts of worship, graciously come quickly. As you freed the sage Atri from darkness, free us from great darkness. O Aśvin gods, leaders, protect us in battle from the suffering caused by enemies.
+
+##### English translation
+Wise Nasatyas, come quickly to my invocation (united) with holy acts: (extricate us) from thick darkness, as you did extricate Atri: protect us, leaders (of rites), from danger in battle.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॑ रा॒यो द्यु॒मतो॒ वाज॑वतो दा॒तारो॑ भूत नृ॒वतः॑  ॒
+> पुरु॒क्षोः ।  
+> द॒श॒स्यंतो॑ दि॒व्याः पार्थि॑वासो॒ गोजा॑ता॒ अप्या॑ मृ॒ळता॑ च  
+> देवाः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । रायः । द्युमतः । वाजवतः । दातारः । भूत । नृवतः । पुरुक्षोः ।  
+> दशस्यंतः । दिव्याः । पार्थिवासः । गोजाताः । अप्याः । मृळत । च । देवाः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 290
+
+> हे देवास्ते यूयं द्युमतो दीप्तिमतो वाजवतो बलयुक्तस्य
+> नृवतो नृभिः पुत्रादिभिरुपेतस्य पुरुक्षोर्बहुभिः कीर्तनीयस्य रायो धनस्य
+> नोऽस्मभ्यं दातारो भूत । भवत । अपि च दशस्यंतः कामान्प्रयच्छंतो दिव्या दिवि
+> भवा आदित्याः पार्थिवासः पृथिव्यां भवा वसवो गोजाताः । गौः पृश्निर्माध्यमिका
+> वाक् । तत उत्पन्ना मरुतोऽप्या अप्स्यंतरिक्षे भवा रुद्राश्च ते सर्वे यूयमस्मान्मृळत । सुखयत ॥
+
+##### Gist of the bhāṣya
+
+"O gods, you be givers to us of wealth that is "dyumat", radiant, "vājavat", possessed of strength, "nṛvat", accompanied by men, that is, sons and the like, and "purukṣu", to be praised by many. And, granting desires, the celestial ones, the Ādityas who are in heaven; the terrestrial ones, the Vasus who are on earth; "gojātāḥ": "go" is Pṛśni, the speech of the middle region, and the Maruts born from it; "apyāḥ", the Rudras who are in the waters, in the atmosphere: all of you make us happy, give us happiness."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- ते (*te*)—you
+- नः (*naḥ*)—to us
+- द्युमतः (*dyumataḥ*)—radiant
+- वाजवतः (*vājavataḥ*)—mighty
+- नृवतः (*nṛvataḥ*)—accompanied by sons and the like
+- पुरुक्षोः (*purukṣoḥ*)—praised by many
+- रायः (*rāyaḥ*)—of wealth
+- दातारः (*dātāraḥ*)—givers
+- भूत (*bhūta*)—be
+- दशस्यंतः (*daśasyaṃtaḥ*)—granting desired ends
+- दिव्याः (*divyāḥ*)—the Ādityas dwelling in the heavenly world
+- पार्थिवासः (*pārthivāsaḥ*)—the Vasus dwelling on earth
+- गोजाताः (*gojātāḥ*)—the Maruts, sons of Pṛśni
+- अप्याः च (*apyāḥ ca*)—and the Rudras dwelling in the atmosphere
+- मृळत (*mṛḷata*)—let them make us happy
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, be givers to us of wealth that is radiant, mighty, accompanied by sons and the like, and praised by many. Granting desired ends, let the Ādityas dwelling in the heavenly world, the Vasus dwelling on earth, the Maruts, sons of Pṛśni, and the Rudras dwelling in the atmosphere make us happy.
+
+##### English translation
+Be unto us, gods, the donors of splendid, invigorating riches, comprising male descendants, and celebrated by many : celestial Adityas, terrestrial Vasus, offspring of Prishni, children of the waters, granting our desires, make us happy.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॑ रु॒द्रः सर॑स्वती स॒जोषा॑ मा॒ळ्हुष्मं॑तो॒ विष्णु॑र्म्ळंतु  ॒
+> वायुः ।  
+> ऋ॒भु॒क्षा वाजो॒ दैव्यू॑ विधा॒ता प॒र्जन्या॒वाता॑ पिप्यता॒मिषं॑  
+> नः ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 284. Sukta 50 Rks 1-7 (pp. 278-284)
+**Progress note:** Done through printed p. 290. Sukta 50 Rks 7-12 (pp. 285-290)
