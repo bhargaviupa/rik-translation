@@ -12935,6 +12935,279 @@ The expansive, illuminating, unobstructive, pure, and beautiful radiance of the 
 
 That Sūrya who knows the three "vidathāni", the three places to be known, that is, the three worlds; of these gods who dwell in the three worlds and whose nature is that of the Vasus, Rudras and Ādityas, सनुतः (*sanutaḥ*)
 
+### Printed p. 298
+
+> अंतर्हितनामैतत् । अंतर्हितमप्रज्ञायमानं जन्म जननं च यो विप्रो मेधावी
+> सूर्यो वेत्ति । आकारः पूरकः । स सूरः सूर्यो मर्तेषु मनुष्येषु विद्यमानान्यृज्वजूनि शोभनानि कर्माणि वृजिना वृजिनान्यशोभनानि कर्माणि च पश्यन्
+> साक्षितया जानन् अभि चष्टे ! अभितः सर्वं जगत्पराशयति । तथार्यः स्वामी
+> भूत्वैवान् प्राप्तव्यान् कामांश्च मनुष्येषु प्रकाशयति ॥
+
+##### Gist of the bhāṣya
+
+"Sanutaḥ" is a name meaning "hidden". The wise sage Sūrya knows the hidden, unperceived birth and origin (of the gods). The syllable ā is a filler. That Sūrya, seeing among mortals, that is, among men, their good and fair deeds and likewise their crooked and unfair deeds, knowing them as a witness, illumines the whole world on every side. In the same way, being the lord, he makes manifest to men the desirable objects that are to be obtained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रः (*vipraḥ*)—the wise
+- यः (*yaḥ*)—which Sūrya
+- त्रीणि विदथानि (*trīṇi vidathāni*)—the three worlds, the earth and the rest
+- वेद (*veda*)—knows
+- एषां (*eṣāṃ*)—of these, dwelling in the three worlds
+- देवानां (*devānāṃ*)—of all the gods, who have the form of the Vasus, Rudras and Ādityas
+- सनुतः (*sanutaḥ*)—mysterious
+- जन्म च (*janma ca*)—also the nature of the origin (he who knows this)
+- सूरः (*sūraḥ*)—Sūrya
+- मर्तेषु (*marteṣu*)—among men, performed
+- ऋजु (*ṛju*)—excellent sacrificial and other rites
+- वृजिना च (*vṛjinā ca*)—and also sinful acts
+- पश्यन् (*paśyan*)—seeing in person
+- अभि चष्टे (*abhi caṣṭe*)—illumines the world
+- अर्यः (*aryaḥ*)—as the lord of the whole world
+- एवान् (*evān*)—all the desired objects wanted by men; makes them manifest
+
+##### भावार्थ (Bhāvārtha)
+
+The wise Sūrya who knows the three worlds, the earth, the atmosphere and the rest; who knows the mysterious nature of the origin of all the gods of these three worlds, who have the form of the Vasus, Rudras and Ādityas: that Sūrya, seeing in person the excellent sacrificial and other rites and the sinful acts that are performed among men, illumines the world. As the lord of the whole world he makes manifest to men all the desired objects that they want.
+
+##### English translation
+He who knows the three cognizable (worlds) ; the sage (who knows) the mysterious birth of the divinities (abiding in them); he who is beholding the god and evil acts of mortals, he, the sun, the lord, makes manifest their intentions. **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒ष उ॑ वो म॒ह ऋ॒तस्य॑ गो॒पानदि॑तिं मि॒त्रं वरु॑णं  ॒
+> सुजा॒तान् ।  
+> अ॒र्य॒मणं॒ भग॒मद॑ब्धधीती॒नच्छा॑ वोचे सध॒न्यः॑ पाव॒कान् ॥
+
+### Printed p. 299
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुषे । ऊं इति । वः । महः । ऋतस्य । गोपान् । अदितिं । मित्रं । वरुणं । सुजातान् ।  
+> अर्यमणं । भगं । अदब्बधीतीन् । अच्छ । वोचे । सधन्यः । पावकान् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा महो महत ऋतस्य यज्ञस्य गोपान् रक्षकान्नो युष्मान्
+> स्तुषे । स्तुवे । उ इति पूरणः । तानेव देवानाह । अदितिमदीनां देवमातरं
+> मित्रं वरुणं चैतान् सुजातान् शोभनजननानर्यमणं भगं चादब्धधीतीनहिंसितकर्मणः सधन्यो धनसहितान् पावकान् विश्वस्य शोधकान् । ईदृशान् सर्वान्देवानच्छ
+> वोचे । अभिप्रब्रवीमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O gods, I praise you, the guardians and protectors of the great ṛta, that is, of the sacrifice; the word u is a filler. He then speaks of those same gods: Aditi, the mother of the gods, Mitra and Varuṇa, these of good birth, Aryaman and Bhaga, those whose works are unharmed, the possessors of wealth, the purifiers of the world. All such gods I address; that is, I proclaim them forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) महः (*mahaḥ*)—great
+- यतस्य (*yatasya*)—for the sacrifice
+- गोपान् (*gopān*)—protecting
+- वः (*vaḥ*)—you
+- स्तुषे (*stuṣe*)—I praise
+- अदितिं (*aditiṃ*)—Aditi
+- मित्रं (*mitraṃ*)—Mitra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- अर्यमणं (*aryamaṇaṃ*)—the god Aryaman
+- भगं चॆ (*bhagaṃ cè*)—and Bhaga
+- सुजातान् (*sujātān*)—those of excellent birth
+- अदब्बधीतीन् (*adabbadhītīn*)—those whose works are unharmed
+- सधन्यः (*sadhanyaḥ*)—those who possess wealth
+- पावकान् (*pāvakān*)—the purifiers; all these gods
+- अच्छ (*accha*)—exceedingly
+- वोचे (*voce*)—I extol
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, I extol exceedingly all the gods, Aditi, Mitra, Varuṇa, Aryaman, Bhaga and the rest, who are the protectors of the great sacrifice, of excellent birth, of unharmed works, possessors of wealth and purifiers.
+
+##### English translation
+I praise you, protectors of the solemn srcrifice, the well-born Aditi, Mitra and Varuna, and Aryaman and Bhaga : I celebrate the gods whose acts are unimpeded, the bestowers of wealth, the dispensers of purity ;
+
+### Printed p. 300
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रि॒शाद॑सः॒ सत्प॑ती॒रद॑ब्धान्म॒हो राज्ञः॑ सुवस॒नस्य॑ दा॒तृन् ।  
+> यूनः॑ सुक्ष॒त्रान्क्षय॑तो दि॒वो नृना॑दि॒त्यान्या॒म्यदि॑तिं  ॒
+> दुवोयु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रिशादसः । सत्पतीन् । अदब्धान् । महः । राज्णः । सुवसनस्य । दात्यन् ।  
+> यूनः । सुक्षत्रान् । क्षयतः । दिवः । नृन् । आदित्यान् । यामि । अदितिं । दुवःयु!!
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रिशादसो रिशतां हिंसकानामसित्यन् क्षेप्त्वान् यद्वा रिशानां हिंसकानामत्यान् भक्षयित्यन् सत्पतीन् सतां पालयित्यनदज्ञानहिंसितान्महो महतो
+> राज्ञो राजमानानीश्वरान्वा सुवसनस्य शोभननिवासस्य दात्यान् यूनो नित्यतरुणान् सुक्षत्रान् शोभनधनान् शोभनबलान्वा क्षयतः सर्वत्र निवसतः । यद्वा ।
+> क्षयतिरैश्वर्यकर्मा । ईशानान् दिवो द्युलोकस्य नृन्नेतृनादित्यानदितेः पुत्रान् ।
+> ईदृशान् सर्वानेवान्दुवोयु ॥ लुप्तविभक्तिकमेतत् ॥ दुवोयुं दुवोऽस्मदीयं परिचरणं कामयमानामदितिं देवमातरं च यामि । प्राप्रोमि । यद्वा ।
+> यामि । याचामि ॥
+
+##### Gist of the bhāṣya
+
+Riśādasaḥ: those who hurl away or devour the harmful ones, the enemies. Satpatīn: protectors of the good. Adabdhān: those who are unharmed. Mahaḥ rājñaḥ: great ones, who shine, or great lords. Suvasanasya dātṝn: givers of a good dwelling. Yūnaḥ: those who are ever young. Sukṣatrān: those who have good wealth or good strength. Kṣayataḥ: dwelling everywhere; or else the root kṣayati has the sense of lordship, and they are rulers. Divaḥ nṝn: leaders of the heavenly world. Ādityān: the sons of Aditi. All such gods I approach, desiring their service (duvoyu), and I approach Aditi, the mother of the gods. Or else yāmi means: I ask. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रिशादसः (*riśādasaḥ*)—those who scatter the malevolent enemies
+- सत्पतीन् (*satpatīn*)—the protectors of the virtuous
+- अदद्भान् (*adadbhān*)—the unharmed
+- महः (*mahaḥ*)—of mighty nature
+- राज्ञः (*rājñaḥ*)—the shining one
+- सुवसनस्य (*suvasanasya*)—for an excellent dwelling-place
+- दात्यन् (*dātyan*)—the givers
+- यूनः (*yūnaḥ*)—the ever young
+- सुक्षत्रान् (*sukṣatrān*)—those of excellent strength
+- क्षयतः (*kṣayataḥ*)—those who dwell pervading everywhere
+- दिवः (*divaḥ*)—of the heavenly world
+- न्यन् (*nyan*)—the leaders
+- आदित्यान् (*ādityān*)—the gods, the sons of Aditi
+- दुवोयु (*duvoyu*)—who looks for our worship
+- अदितिं (*aditiṃ*)—Aditi
+- यामि (*yāmi*)—approaching, I pray
+
+##### भावार्थ (Bhāvārtha)
+
+I approach and pray to the sons of Aditi, the scatterers of the malevolent enemies, protectors of the virtuous, unharmed, of mighty nature, shining, givers of an excellent dwelling-place, ever young, of excellent strength, dwelling pervading everywhere, leaders of the heavenly world, and to Aditi, who looks for our worship.
+
+### Printed p. 301
+
+##### English translation
+The scatterers of the malevolent, the defenders of the virtuous, the irresistible, the mighty lords, the donors of good dwellings, ever young, very powerful, omnipresent, leaders of heaven, the sons of Aditi : I have recourse to Aditi, who is gratified by my adoration.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यौ॒३॒॑ ३ ष्पितः॒ पृथि॑वि॒ मात॒रध्रु॒गग्ने॑ भ्रातर्वसवो मृ॒ळता॑ नः ।  
+> विश्व॑ आदित्या अदिते स॒जोषा॑ अ॒स्मभ्यं॒ शर्म॑ बहु॒लं वि यं॑त ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्यौः । पितरिति । पृथिवि । मातः । अध्रुक् । अग्ने । भ्रातः । वसवः । मृळत । नः ।  
+> विश्वे । आदित्याः । अदिते । सजोषाः । अस्मभ्यं । शर्म । बहुलं । वि । यंत ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पितः पितृस्थानीय द्यौर्द्युलोक हे मातर्मातृस्थानीयेऽधुगद्रोग्नि
+> पृथिवि हे भ्रातर्भ्रातृस्थानीयाग्ने हे वसवो वासयितारो देवास्ते सर्वे
+> यूयं नोऽस्मान्मृळत । सुखयत । हे विश्व आदित्याः सर्वॆऽदितिपुत्रा देवा हे
+> अदिते यूयं सजोषाः संगता भूत्वास्मभ्यं बहुलमधिकं शर्म सुखं विस्तृतं
+> ना गृहं वि यंत । प्रयच्छत ॥
+
+##### Gist of the bhāṣya
+
+O father, heaven, who stand in the place of a father; O mother, Earth, who stand in the place of a mother, and who do no harm; O brother Agni, who stand in the place of a brother; O Vasus, gods who cause (men) to dwell: all of you, make us happy. O all Ādityas, all you gods who are sons of Aditi, and you, Aditi, being of one accord and united, grant us abundant, that is, ample happiness, or an extensive house. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितः (*pitaḥ*)—of the form of a father
+- द्यौः (*dyauḥ*)—O presiding deity of the heavenly world
+- मातः (*mātaḥ*)—of the form of a mother
+- अध्रुक् (*adhruk*)—who does no harm (to your sons)
+- पृथिवि (*pṛthivi*)—O Earth
+- भ्रातः (*bhrātaḥ*)—who are like a brother
+- अग्ने (*agne*)—O Agni
+- वसवः (*vasavaḥ*)—O gods called Vasus (all of you also)
+- नः (*naḥ*)—us
+- मृळत (*mṛḷata*)—make happy
+- विश्वे आदित्याः (*viśve ādityāḥ*)—O all gods, sons of Aditi
+- आदिते (*ādite*)—O goddess Aditi
+- सजोषाः (*sajoṣāḥ*)—all of you, being united
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- बहुलं (*bahulaṃ*)—exceeding great
+- शर्म (*śarma*)—happiness
+- वियंत (*viyaṃta*)—grant
+
+### Printed p. 302
+
+##### भावार्थ (Bhāvārtha)
+
+O father heaven, presiding deity of the heavenly world; O Earth, who are a mother and do no harm to your sons; O brother Agni; O Vasus, gods: all of you, make us happy. O all gods, sons of Aditi, and O goddess Aditi, all of you, being united, grant us exceeding great happiness.
+
+##### English translation
+Father heaven, innocent mother Earth, brother Agni, and you, Vasus, grant us happiness : all you sons of Aditi, and you Aditi, alike well-pleased, bestow upon us ample felicity.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॒ वृका॑य वृ॒क्के॑ समस्मा अघाय॒ते री॑रधता यजत्राः ।  
+> यू॒यं हि ष्ठा र॒थ्यो॑ नस्त॒नूनां॑ यू॒यं दक्ष॑स्य॒ वच॑सो  ॒
+> बभूव ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । वृकाय । वृक्ये । समस्मै । अघयते । रीरधत । यजत्राः ।  
+> यूयं । हि । स्थ । रथ्यः । नः । तनूनां । यूयं । दक्षस्य । वचसः । बभूव ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजत्रा यष्टव्या देवा नोऽस्मान्वृकाय हिंसकाय स्तेनाय वृक्षे
+> तस्य स्त्रीयै च मा रीरधत । मा वशं नैष्ट । मा वशीकुरुत । यद्वा । वृकोऽरण्यश्वा
+> तस्य स्त्री वृकी । अपि च समस्मै सर्वस्मा अघायतेऽघमनर्थमस्माकमिच्छते शत्रुजनायास्मान्मा वशं नयत । यूयं हि यूयं खलु नोऽस्माकं तनूनां
+> शरीराणां रथ्यो नेतारः स्थ । भवथ । यूयमेव दक्षस्यास्मदीयस्य बलस्य वचसो
+> वाक्यस्य च नेतारो बभूव । अतः कारणादस्मान्मा रीरधतेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O worshipful gods, do not subject us to the wolf, that is, to the harmful thief, nor to his female (his wife); do not bring us under their power. Or else vṛka is the forest dog (wolf) and his female is the she-wolf. Further, do not bring us under the power of any enemy who desires harm and misfortune for us. You are the leaders of our bodies; you alone are the leaders of our strength and of our speech. For this reason, do not subject us (to them); thus the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्राः (*yajatrāḥ*)—O gods, worthy of sacrifice
+- नः (*naḥ*)—us
+- वृकाय (*vṛkāya*)—to the harmful thief
+- वृकै (*vṛkai*)—to his wicked wife
+- मारीरधत (*mārīradhata*)—do not bring (us) under their power; do not (make us subject to them)
+
+### Printed p. 303
+
+- समस्मै (*samasmai*)—of whatever kind
+- अघायते (*aghāyate*)—even to evildoers (do not make us subject)
+- यूयं हि (*yūyaṃ hi*)—you alone
+- नः (*naḥ*)—our
+- तनूनां (*tanūnāṃ*)—of the bodies
+- रथ्यः (*rathyaḥ*)—the controllers and protectors
+- स्थ (*stha*)—you are
+- यूयं (*yūyaṃ*)—you alone
+- दक्षस्य (*dakṣasya*)—of our strength
+- वचसः (*vacasaḥ*)—of our speech (being the controllers)
+- बभूव (*babhūva*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, worthy of sacrifice, do not make us subject to the harmful thief or to his wicked wife. Do not make us subject to evildoers of any kind. You are the controllers and protectors of our bodies. You are the controllers of our strength and of our speech.
+
+##### English translation
+Subject us not, adorable (deities), to the robber or his wife ; nor to any one designing us harm ; for you are the regulators of our persons, of our strength, of our speech.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा व॒ एनो॑ अ॒न्यकृ॑तं भुजेम॒ मा तत्क॑र्म वसवो॒ यच्चय॑द्वे ।  
+> विश्व॑स्य॒ हि क्षय॑थ विश्वदेवाः स्व॒यं रि॒पुस्त॒न्वं॑ रीरिषीष्ट ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । वः । एनः । अन्यकृतं । भुजेम । मा । तत् । कर्म । वसवः । यत् । चयद्वे ।  
+> विश्वस्य । हि । क्षयथ । विश्वदेवाः । स्वयं । रिपुः । तन्वं । रीरिषीष्ट ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा वो युष्माकं स्वभूता वयमन्यकृतमन्मैः शत्रुभिः कृतमुत्पादितमेनः पापं मा भुजेम । मा भुंक्ष्महि । हे वसवो वासयितारो देवा यद्येन
+> कृतेन पापेन चॆयध्वै अस्मान्बाधद्वे ॥ चयतिर्हिंसाकर्मा ॥ तच्च पापं मा
+> कर्म । मा कार्ष्म ॥ करोतेर्माजि लुजि मंत्रे घसेति चेर्लुक् ॥ हे विश्वदेवाः
+
+##### Gist of the bhāṣya
+
+O gods, we are yours; may we not partake of the sin, the evil, that has been done by others, that is, produced by enemies. O Vasus, gods who cause (men) to dwell, may we not partake of that sin by which, once done, you harm and afflict us; and may we not do that deed. O Viśvedevas, **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 297. Sukta 50 Rks 12-15, Sukta 51 Rks 1-2 (pp. 291-297)
+**Progress note:** Done through printed p. 303. Ṛk 2 end to Ṛk 7 start of sūkta 51 (pp. 298-303)
