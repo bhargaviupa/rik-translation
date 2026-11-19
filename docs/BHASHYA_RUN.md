@@ -39,3 +39,9 @@ For the first sūkta of each volume, and about one sūkta in ten after that, the
 ## Resumed with Sonnet (user, Nov 19 2026)
 - The agents are **Sonnet** from Vol 16, 3.32 on. Sonnet's one earlier trial (3.40, before the present brief and the reference text) had four errors of meaning in nine Ṛks, so: the dispatcher reads two Ṛks of **every** Sonnet batch against the Sanskrit, and `volN/parts/bhashya_costs.md` names the model of each batch, so that a later second reading can be aimed at the Sonnet sūktas.
 - Agents get at most 3 sūktas (1 when the sūkta has more than 15 Ṛks).
+
+## Paused after Vol 16 (Nov 19 2026, about 03:00 UTC), waiting for the user
+- Vol 16 is complete: 3.7–3.31 by Fable, 3.32–3.39 by Sonnet. Vol 11 complete (Fable). Vol 17: only 3.40 (Fable). 55 of 143 sūktas.
+- Why paused: the dispatcher read 13 Ṛks of the eight Sonnet sūktas against the Sanskrit and found, after the agents' own second reading, one error of attachment (3.39 Ṛk 7: purutama made an epithet of Indra; it is the singer's), one invented statement and one dropped particle (3.34 Ṛk 10). All three are corrected. The user was told that an error of meaning would stop the run.
+- The check-in is disabled. Before going on the user chooses: Sonnet as now; Sonnet with a second reading by the larger model; or Fable.
+- Still due on the Sonnet sūktas: the additions-and-omissions pass for 3.32 and 3.33 (made before step 4 was tightened); 3.35 is in the "is glossed" apparatus style and wants restyling.
