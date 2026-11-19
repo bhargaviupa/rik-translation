@@ -14,4 +14,5 @@
 | through p. 218 (pp. 213-218; agent stopped by 5-hour limit after one window) | sonnet | n/a | n/a | - |
 | through p. 239 (pp. 219-224, 225-232, 233-239) | sonnet | 30 | 260561 | 9.9 |
 | through p. 257 (pp. 240-245, 246-251, 252-257) | sonnet | 14 | 156839 | 4.4 |
-| through p. 277 (pp. 258-263, 264-270, 271-277) | sonnet | n/a | pending | - |
+| through p. 277 (pp. 258-263, 264-270, 271-277) | sonnet | 23 | 186838 | 6.0 |
+| through p. 297 (pp. 278-284, 285-290, 291-297) | sonnet | n/a | pending | - |
