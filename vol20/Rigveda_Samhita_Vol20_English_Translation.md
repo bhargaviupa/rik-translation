@@ -25211,6 +25211,241 @@ Here, in this battle fought for food (arka is food, and the battle in which food
 
 O Indra, in this battle fought for the sake of food, the Paṇis, fearing Kutsa, who has abundant oblations and is wise, fled. For their flight, your very strength that protects Kutsa
 
+### Printed p. 724
+
+is the cause. Indra, checking with his own weapons of slaying the deceptions of the Asura named Śuṣṇa, who had full strength, destroyed him so that his power might not prevail**NOTE**. He carried off all his food, leaving not a little remainder.
+
+##### English translation
+The Panis, Indra, fled, with hundreds (of Asuras), from the sage, your worshipper (and ally) in battle: neither did he, (Indra), suffer the decptions of the powerful Sushna to prevail over his weapons, nor did he (leave him) any of his sustenance.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next Ṛk the matter is described that Indra, in order to help Kutsya, killed the Asura named Śuṣṇa and in battle scattered and put to flight his soldiers, the Asuras called Paṇis. That Indra slew Śuṣṇa only for the sake of helping Kutsya is stated in many Ṛks:
+
+त्वं शुष्णं वृजने पृक्ष आणौ यूने कुत्साय द्युमते सचाहन् । (*tvaṃ śuṣṇaṃ vṛjane pṛkṣa āṇau yūne kutsāya dyumate sacāhan |*) (Ṛ. Saṃ. 1-63-3) **GLOSS**
+
+कुत्साय यत्र पुरुहूत वन्वञ्छुष्ण मनंतैः परियासि वधैः । (*kutsāya yatra puruhūta vanvañchuṣṇa manaṃtaiḥ pariyāsi vadhaiḥ |*) (Ṛ. Saṃ. 1-121-9) **GLOSS**
+
+In these Ṛks, and likewise in the Ṛks Ṛ. Saṃ. 1-174-5; 1-175-4 and others, it is said that Indra killed Śuṣṇa in order to help Kutsya. And further:
+
+अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रंधयं । (*ahaṃ piteva vetasūrabhiṣṭaye tugraṃ kutsāya smadibhaṃ ca raṃdhayaṃ |*) (Ṛ. Saṃ. 10-49-4)
+
+Indra himself declares: "For Kutsa I overcame Vetasu, Tugra and Smṛdibha."
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हो द्रु॒हो अप॑ वि॒श्वायु॑ धायि॒ वज्र॑स्य॒ यत्पत॑ने॒ पादि॒  ॑
+> शुष्णः ।  
+> उ॒रु ष स॒रथं॒ सार॑थये क॒रिंद्रः॒ कुत्सा॑य॒ सूर्य॑स्य सा॒त् ॥
+
+### Printed p. 725
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । द्रुहः । अप । विश्वआयु । धायि । वज्रस्य । यत् । पतने । पादि । शुष्णः ।  
+> उरु । सः । सरथं । सारथये । कः । इंद्रः । कुत्साय । सूर्यस्य । साता ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा स शुष्णोऽसुरो वज्रस्य पतने पाते पादि अगच्छत् । अमियतेत्यर्थः । तदा महो महतो द्रुहो द्रोग्नुः शुष्णस्य संबंधि विश्वायु सर्वगतं।
+> बलमिति शेषः । अप धायि । अपहितमकारि । तिरस्कृतमित्यर्थः । स इंद्रः सारथये
+> सारथिभूताय कुत्साय सरथं समानरथं सूर्यस्य सात् भजने निमित्तभूत उरु
+> विस्तीर्णं यथा भवति तथा कः । अकरोत् । तथा चोक्तं । कुत्सायेंद्रोऽसुरं
+> शुष्णं जिघांसुः कुत्समात्मनः सारथिं कल्पयित्वा। अस्य शत्रुं शुष्णमहंस्ततश्च कुत्सस्य
+> रक्षां बहुलां चकारेत्यसयोच्यत इति ॥
+
+##### Gist of the bhāṣya
+
+When that Asura Śuṣṇa fell at the falling of the vajra, that is, was killed, then the all-pervading strength belonging to Śuṣṇa, the great harmer, was put away, that is, set aside. That Indra, for Kutsa, who was his charioteer, made the chariot a common chariot, widened, for the sake of the worship of the sun. And so it is said: Indra, wishing to slay the Asura Śuṣṇa for Kutsa, made Kutsa his own charioteer, slew his enemy Śuṣṇa, and thereby gave Kutsa abundant protection. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- शुष्णः (*śuṣṇaḥ*)—the Asura named Śuṣṇa
+- वज्रस्य (*vajrasya*)—of the vajra weapon
+- पतने (*patane*)—as the result of the blow
+- पादी (*pādī*)—met his death (then)
+- महः (*mahaḥ*)—possessed of great power
+- द्रुहः (*druhaḥ*)—deceiver: his
+- विश्वायु (*viśvāyu*)—all-pervading strength
+- अप धायि (*apa dhāyi*)—was hidden
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- सारथये (*sārathaye*)—who was his charioteer
+- कुत्साय (*kutsāya*)—for Kutsa
+- सरथं (*sarathaṃ*)—one chariot common to both
+- सूरस्य सातौ (*sūrasya sātau*)—for the worship of the sun
+- उरु (*uru*)—made very wide
+- कः (*kaḥ*)—made
+
+##### भावार्थ (Bhāvārtha)
+
+When the Asura named Śuṣṇa met his death as the result of the blow of the vajra weapon, then the all-pervading strength of that deceiver, who was possessed of great power, was hidden. That same Indra, for Kutsa, who was his charioteer, made the one chariot common to both very wide, for the worship of the sun.
+
+##### English translation
+When Sushna passed away upon the falling of the thunderbolt, then the universal strength of the great oppressor was annihilated; and Indra enlarged their common car for (the use of) his charioteer Kutsa, for (the sake of) the worship of the sun.
+
+### Printed p. 726
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र श्ये॒नो न म॑दि॒रमं॒शुम॑स्मै॒ शिरो॑ दा॒सस्य॒ नमु॑चेर्मथा॒यन् ।  
+> प्राव॒न्नमीं॑ सा॒प्यं स॒संतं॑ पृ॒णग्रा॒या समि॒षा सं स्व॒स्ति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । श्येनः । न । मदिरं । अंशुं । अस्मै । शिरः । दासस्य । नमुचेः । मथायन् ।  
+> प्र । आवत् । नमीं । साप्यं । ससंतं । पृणक् । राया । सं । इषा । सं । स्वस्ति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्येनः सुपर्णश्च । नेत्ययं शब्दः समुच्चये वर्तते । अस्मा इंद्राय
+> मदिरं मदकरमंशुं सोमं । प्रेति आ इत्यस्यार्थे वर्तते । आहरत् । उपसर्गदर्शनाच्चाख्यातमध्याह्रियते । किंचायमिंद्रोऽपि दासस्य प्राणिनामुपक्षपयितुर्नमुचेरेतन्नान्नोऽसुरस्य शिरः शीर्षं मथायन् मंथनं कुर्वन् साप्यं सपस्य
+> पुत्रं ससंतं स्वपंतं नमीमेतत्संज्ञकमृषिं प्रावत् । प्रारक्षत् । स्वस्वविनाशेन
+> राया पश्वादिधनेनेषान्नेन च तम्मृषिं सं पृणक् । समयोजयत् ॥
+
+##### Gist of the bhāṣya
+
+The hawk, the Suparṇa, brought to this Indra the intoxicating soma; the word "na" is here used in the sense of conjunction, and "pra" has the sense of "ā"; the verb "brought" is supplied because the preposition is seen. And this Indra also, crushing the head of the Asura named Namuci, the destroyer of living beings, protected the sage named Nami, the son of Sapa, who was asleep, and joined that sage with wealth such as cattle and with food. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शैनः (*śainaḥ*)—the hawk
+- अस्मै (*asmai*)—to this Indra
+- मदिरं (*madiraṃ*)—intoxicating
+- अंशुं (*aṃśuṃ*)—soma
+- प्र (*pra*)—brought
+- दासस्य (*dāsasya*)—of the violent
+- नमुचेः (*namuceḥ*)—of Namuci
+- शिरः (*śiraḥ*)—head
+- मथायन् (*mathāyan*)—cutting off
+- साप्यं (*sāpyaṃ*)—the son of Sapana
+- ससंतं (*sasaṃtaṃ*)—who was asleep
+- नमीं (*namīṃ*)—the sage called Nami
+- प्रावत् (*prāvat*)—protected
+- स्वस्ति (*svasti*)—imperishable
+- राया (*rāyā*)—with wealth
+- इषा (*iṣā*)—with food
+- सं पृणक् (*saṃ pṛṇak*)—filled that sage
+
+##### भावार्थ (Bhāvārtha)
+
+The Suparṇa bird brought to Indra the intoxicating soma. Cutting off the head of the violent Namuci, Indra protected the sage called Nami, the son of Sapana, who was asleep. With imperishable wealth and with food he made that sage rich.
+
+### Printed p. 727
+
+##### English translation
+And the hawk bore to Indra the exhilarating Soma, when bruising the head of the oppressor Namachi, and protecting the slumbering Nami, the son of Saya, he provided, for the well-being (of the sage), riches and food.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matter of the Suparṇa or Śyena bird bringing the soma that was in heaven, and the matter of Indra slaying the rākṣasa called Namuci, we have already explained in detail earlier in this same part. The matter of Namuci is also stated in Ṛ. Saṃ. Part 10, page 550.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि पिप्रो॒रहि॑माय्क दृ॒ळ्हाः पुरो॑ वज्रि॒ञ्भव॑सा॒ न द॑र्दः ।  
+> सुदा॑मं॒तद्रेक्ष्णा॑ अप्रमृ॒ष्यमृ॒जिश्व॑ने दा॒त्रं दा॒शुषे॑ दाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । पिप्रोः । अहिमायस्य । दृळ्हाः । पुरः । वज्रिन् । शवसा । न । दर्दरिति दर्दः ।  
+> सुदामन् । तत् । रेक्णः । अप्रमृष्यं । ऋजिश्वने । दात्रं । दाशुषे । दाः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिन् वज्रवन्निंद्र त्वमहिमायस्याहंत्यो माया यस्य पिप्रोरेतन्नाम्मोऽसुरस्य संबंधिनीर्दृळ्हा दृढानि पुरः प्राकारादीनि दुर्गाणि शवसा बलेन वि
+> दर्दः । विदारितवानसि । नेति पादपूरणः । त्वं पिप्रोर्नृमणः प्रारुजः पुरः । ऋग्वे.
+> १-५१-५ । शतं पूर्भिरायसीभिर्नि पाहि । ऋग्वे. ७-३-७ । इति दर्शनात् । अपि च हे
+> सुदामन् शोभनदानेंद्र त्वं दात्रं हविर्लक्षणं धनं दाशुषे दत्तवत ऋजिश्वन
+> एतन्नामकाय राजर्षयेऽप्रमृष्यं केनाप्यबाध्यं तत्तस्य स्वभूतं रेक्ष्णो धनं
+> दाः । अदाः । दत्तवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, wielder of the vajra, with your strength you have split the firm cities, that is, the ramparts and other strongholds, belonging to the Asura Pipru, whose deceptions are deadly; the word "na" only fills out the pāda. This is seen from: त्वं पिप्रोर्नृमणः प्रारुजः पुरः (*tvaṃ piprornṛmaṇaḥ prārujaḥ puraḥ*) (Ṛgve. 1-51-5) **GLOSS** **NOTE**, and शतं पूर्भिरायसीभिर्नि पाहि (*śataṃ pūrbhirāyasībhirni pāhi*) (Ṛgve. 7-3-7) **GLOSS** **NOTE**. And further, O Indra, good giver, to the royal sage named Ṛjiśvan, who had given offerings, you gave the wealth, in the form of oblation, that no one can overcome, which was his own.
+
+### Printed p. 728
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—O Indra, bearer of the vajra weapon
+- अहिमायस्य (*ahimāyasya*)—whose deceptive acts are destructive
+- पिप्रोः (*piproḥ*)—of the Asura named Pipu**NOTE**
+- दृळ्हाः (*dṛḷhāḥ*)—firm
+- पुरः (*puraḥ*)—strongholds
+- शवसा (*śavasā*)—by your strength
+- वि दर्दः (*vi dardaḥ*)—you have split
+- सुदामन् (*sudāman*)—O Indra, excellent giver
+- दात्रं (*dātraṃ*)—wealth in the form of oblation
+- दाशुषे (*dāśuṣe*)—who offers
+- ऋजिश्वने (*ṛjiśvane*)—to the royal sage named Ṛjiśvan
+- अप्रमृष्यं (*apramṛṣyaṃ*)—which cannot be destroyed by anyone
+- तत् रेक्णः (*tat rekṇaḥ*)—your own wealth
+- दाः (*dāḥ*)—you have given
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the vajra weapon, you have split by your strength the firm strongholds of the Asura named Pipu, whose deceptive acts are destructive. O Indra, excellent giver, to the royal sage named Ṛjiśvan, who offers wealth in the form of oblation, you have given your wealth that cannot be destroyed by anyone.
+
+##### English translation
+You have scattered by force, wielder of the thunderbolt, the strong cities of the deadly-deluding Pipru : you have given, bountiful Indra, uninjurable wealth to Rijiswat, the donor of sacrificial gifts.
+
+##### विशेषविषयगळु (Special Topics)
+
+Pipu and Ṛjiśvan. The Asura Pipu is an enemy of Indra. That Indra defeated this Asura in order to protect the sage Ṛjiśvan is stated in many Ṛks of the Ṛgveda, namely in the Ṛks Ṛ. Saṃ. 1-101-2; 4-16-13; 5-29-11; 6-20-7; 8-49-10; 10-99-11; 10-138-3; 1-103-8; 2-14-5; 6-18-8. And in the Ṛks Ṛ. Saṃ. 1-51-5; 6-21-7 mention is made of the city of Pipru. In the Ṛks Ṛ. Saṃ. 8-32-2; 10-138-3 he is called Dāsa and Asura. In Ṛ. Saṃ. 1-101-1; 4-16-13 the impression appears that he was connected with the dark people, the earlier inhabitants of this country. The name of Ṛjiśvan is recited in the Ṛgveda in the Ṛks Ṛ. Saṃ. 1-51-5; 1-53-8; 1-101-1; 6-20-7; 8-49-10; 10-99-11; 10-138-3. But not many particulars can be learned. It is suggested that he helped Indra when Indra fought with the Asura Pipu. In the Ṛks Ṛ. Saṃ. 4-16-13; 5-29-11 he is clearly called Vaidathina, the son of one named Vidathin.
+
+### Printed p. 729
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वे॑त॒सुं दश॑मायं॒ दशो॑णिं॒ तूतु॑जि॒मिंद्रः॑ स्वभि॒ष्टिसु॑म्नः ।  
+> आ तुग्रं॒ शश्व॒दिभं॒ द्योत॑नाय मा॒तुर्न सी॒मुप॑ सृजा  ॒॑
+> इयध्यै ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वेतसुं । दशमायं । दशओणिं । तूतुजिं । इंद्रः । स्वभिष्टि सुम्नः ।  
+> आ । तुग्रं । शश्वत् । इभं । द्योतनाय । मातुः । न । सीं । उप । सृज । इयध्यै ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वभिष्टिसुम्मः सुष्पभ्येषणीयान्यभिगम्यानि सुम्मानि सुखानि येन देयानि
+> स इंद्रो दशमायं बहुवंचनं वेतसुं वेतसुनामानमसुरं दशोणिमेतन्नामकं च तूतुजिं तूतुजिनामकं च आ अपि च तुग्रं तुग्रनामकमसुरं तथेभमेतन्नामकमसुरं जेयध्या एतुं द्योतनाय्कॆतत्संज्ञाय राज्ञे शश्वदुप सृज ।
+> उपासृजत् । वशीचकार । तत्र दृष्टांतः । मातुर्न मातुर्जनन्या इव पुत्रं । यथा
+> मात्रॆ पुत्रो वशीभवति तद्वद्वशंचकारेत्यर्थः । सीमिति पादपूरणः ॥
+
+##### Gist of the bhāṣya
+
+He by whom desirable, approachable comforts are to be given, that Indra, brought under control the Asura named Vetasu, of many deceptions, and Daśoṇi, and Tūtuji, and also the Asura named Tugra and likewise the Asura named Ibha, for the sake of a king of that name, Dyotana, constantly; the example is that of a mother: as a son becomes obedient to his mother, so he made them obedient. The word "sīm" only fills out the pāda. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातुः न (*mātuḥ na*)—as a son comes forward obedient before his mother
+- स्वभिष्टिसुम्मः (*svabhiṣṭisummaḥ*)—who gives attractive wealth
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- दशमायं (*daśamāyaṃ*)—a deceiver in many ways
+- वेतसुं (*vetasuṃ*)—the Asura named Vetasu
+- दशोणिं (*daśoṇiṃ*)—Daśoṇi
+- तूतुजिं (*tūtujiṃ*)—Tūtuji
+- आ (*ā*)—and
+- तुग्रं (*tugraṃ*)—the Asura named Tugra
+- इभं (*ibhaṃ*)—the Asura named Ibha
+- द्योतनाय (*dyotanāya*)—before the king named Dyotana
+- इयध्यै (*iyadhyai*)—to come with humility
+- शश्वत् (*śaśvat*)—so that they may be wholly obedient
+- उप सृज (*upa sṛja*)—he brought under his power
+
+##### भावार्थ (Bhāvārtha)
+
+That same Indra, who gives attractive wealth, brought under the power of the king named Dyotana the Asura named Vetasu, a deceiver in many ways, and likewise the Asuras Daśoṇi, Tūtuji, Tugra and Ibha, so that, as a son comes forward obedient before his mother, they came humbly before him and were wholly obedient.
+
 ---
 
-**Progress note:** Done through printed p. 723. Sūkta 20 intro, Ṛks 1-4 (to Bhāvārtha of Ṛk 4)
+**Progress note:** Done through printed p. 729. Ṛks 4 (end)-8, Sūkta 20
