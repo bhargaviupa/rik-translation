@@ -25446,6 +25446,276 @@ He by whom desirable, approachable comforts are to be given, that Indra, brought
 
 That same Indra, who gives attractive wealth, brought under the power of the king named Dyotana the Asura named Vetasu, a deceiver in many ways, and likewise the Asuras Daśoṇi, Tūtuji, Tugra and Ibha, so that, as a son comes forward obedient before his mother, they came humbly before him and were wholly obedient.
 
+### Printed p. 730
+
+##### English translation
+Indra, the granter of wished-for felicity, compelled the many-fraudulent Vetasu and Dasoni, Tutuji, Tugra, and Ibha, always to come submissively to (the Raja) Dyotana, as a son (comes before a mother.)
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is said that Indra defeated the Asuras Vetasu, Daśoṇi, Tūtuji, Tugra and Ibha and delivered them into the power of the king named Dyotana. That Indra defeated the Asura Vetasu is stated in the Ṛk
+
+अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रंधयं । (*ahaṃ piteva vetasūrabhiṣṭaye tugraṃ kutsāya smadibhaṃ ca raṃdhayaṃ |*) (Ṛ. Saṃ. 12-89-8) (Ṛ. Saṃ. 1-49-4) **GLOSS** **NOTE**
+
+and also in the Ṛks Ṛ. Saṃ. 4-58-5; 6-26-4; 6-20-8; 10-49-4. The word Tugra, in this Ṛk and in 10-49-4 given as an example, denotes an Asura of that name. In other places Tugra is a famous king, and it is said in many places that the Aśvins saved his son Bhujyu from drowning in the sea. Therefore there is no room for doubt that Tugra the king is one person and Tugra the Asura another.
+
+दशोणिं (*daśoṇiṃ*)—his name is recited in the Ṛks Ṛ. Saṃ. 6-20-4; 6-28-8; 10-96-12; 8-52-2,
+
+तूतुजिं (*tūtujiṃ*)—in the Ṛks Ṛ. Saṃ. 4-32-2; 7-28-3; 6-20-8; 10-22-3; 10-35-6,
+
+इभं (*ibhaṃ*)—in the Ṛks Ṛ. Saṃ. 9-57-3; 6-20-8; 1-84-17; 4-4-1. Their matter will be explained in detail later.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स ईं॒ स्पृधो॑ वनते॒ अप्र॑तीतो॒ बिभ्र॒द्वज्रं॑ वृत्र॒हणं॒ गभ॑स्तौ ।  
+> तिष्ठ॒द्धरी॒ अध्यस्ते॑व॒ गर्ते॑ वचो॒युजा॑ वहत॒ इंद्र॑मृ॒ष्ट्वं ॥९॥
+
+### Printed p. 731
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ईं । स्पृधः । वनते । अप्रतिइतः । बिभ्रत् । वज्रं । वृत्रहनं । गभस्तौ ॥  
+> त्रिष्ठत् । हरी इति । अधि । अस्त्याइव । गर्तॆ । वचःयुजा । वहतः । इंद्रं । ऋष्ट्वं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गभस्तौ हस्ते वृत्रहणं वृत्राणां शत्रूणां हंतारं वज्रं स्वकीयमायुधं
+> बिभ्रद्दारयन् अप्रतीतः शत्रुभिरप्रतिगतः स इंद्रः स्पृधः स्पर्धमानानीमिमान्वृत्तप्रभृतीन् शत्रून् वनते । हंति । हरी स्वकीयावश्वावधि तिष्ठत् । आरोहति । तत्र
+> दृष्टांतः । अस्तेव गर्तॆ । यथा क्षेप्ता शूरो रथेऽधितिष्ठति तद्वत् । तथा वचोयुजा वचोमात्रेण युज्यमानौ । यद्वा । स्तोत्यणां स्तुतिभिर्युज्यमानौ ता
+> हरी च ऋष्टं महांतमिंद्रं वहतः ॥
+
+##### Gist of the bhāṣya
+
+Bearing in his hand his own weapon, the vajra, the slayer of enemies, unopposed by enemies, that Indra slays these rivals, Vṛtra and the others. He mounts his two horses; the example is a thrower, a hero, who mounts a chariot. In the same way the two horses, yoked by a word alone, or else yoked by the praises of the praisers, carry the great Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गभस्तौ (*gabhastau*)—in his hand
+- वृत्रहणं (*vṛtrahaṇaṃ*)—the enemy-destroying
+- वज्रं (*vajraṃ*)—vajra weapon
+- बिभ्रत् (*bibhrat*)—bearing
+- अप्रतीतः (*apratītaḥ*)—unopposed
+- सः (*saḥ*)—that same Indra
+- स्पृधः (*spṛdhaḥ*)—who rival him
+- ईं (*īṃ*)—Vṛtra and the others
+- वनते (*vanate*)—destroys
+- गर्तॆ (*gartè*)—in the chariot
+- अस्तेव (*asteva*)—as a hero who destroys enemies mounts and sits
+- हरी (*harī*)—his horses
+- अधि तिष्ठत् (*adhi tiṣṭhat*)—mounts and sits
+- वचोयुजा (*vacoyujā*)—those horses that join the chariot by the mere command of speech
+- ऋष्ट्वं (*ṛṣṭvaṃ*)—great
+- इंद्रं (*iṃdraṃ*)—Indra
+- वहतः (*vahataḥ*)—carry
+
+##### भावार्थ (Bhāvārtha)
+
+The unopposed Indra, bearing in his hand the enemy-destroying vajra weapon, destroys Vṛtra and the others who rival him. As a hero who destroys enemies mounts and sits in a chariot, Indra mounts and sits in his chariot (to which the horses are yoked). Those horses, which join the chariot by the mere command of speech, carry the great Indra.
+
+##### English translation
+Bearing in his hand the foe-destroying thunderbolt, Indra, unresisted, demolishing these his adversaries ; he mounts his two-horse (car), as warrior (ascends) his chariot ; harnessed at a word, his steeds convey the mitgty Indra.
+
+### Printed p. 732
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒नेम॒ तेव॑सा॒ नव्य॑ इंद्र॒ प्र पू॒रवः॑ स्तवंत ए॒ना य॒ज्ञैः ।  
+> स॒प्त यत्पुरः॒ शर्म॒ शार॑दी॒र्दर्धन्दासीः॑ पुरु॒कुत्सा॑य॒ शिक्ष॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनेम । ते । अवसा । नव्यः । इंद्र । प्र । पूरवः । स्तवंते । एना । यज्ञैः ।  
+> सप्त । यत् । पुरः । शर्म । शारदीः । दर्त् । हन् । दासीः । पुरुकुत्साय । शिक्षन् ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयेनावसा रक्षणेन नव्यो नवीयो नवतरं त्वया
+> दीयमानं धनं सनेम । वयं स्तोतारो भजेमहि। पूरवो मनुष्याः स्तोतार
+> एनानेन स्तोत्रेण युक्तैर्यज्ञैः प्रस्तवंते । त्वां स्तुवंति । यद्यस्मात्कारणाद्दासीः कर्मणामुपक्षपयित्रिः शत्रुप्रजा हन् घन् हिंसन् पुरुकुत्सायैतन्नामकाय राजे शिक्षणन् धनानि प्रयच्छन् हे इंद्र त्वं शारदीः शरन्नाम्नोऽसुरस्य
+> संबंधिनीः सप्त सप्तसंख्याकाः पुरः पुरीः शर्म शर्मणा वज्रेण दर्त् विदारितपानसि
+> तस्मात्कारणात्वां स्तोतारः स्तुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by your protection we, the praisers, would obtain new wealth given by you. The Pūrus, men, the praisers, praise you with sacrifices accompanied by this praise. The reason is this: you, O Indra, giving riches to the king named Purukutsa and slaying the hostile offspring of the enemy who harm rites, have split with your vajra the seven cities belonging to the Asura named Śarat; therefore the praisers praise you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- अवसा (*avasā*)—by protection (favoured)
+- नव्यः (*navyaḥ*)—new wealth
+- सनेम (*sanema*)—may we obtain (O Indra)
+- यत् (*yat*)—by which greatness of yours
+- दासीः (*dāsīḥ*)—the harmful Asuras
+- हन् (*han*)—you destroyed
+- पुरुकुत्साय (*purukutsāya*)—to the king named Purukutsa
+- शिक्षन् (*śikṣan*)—giving riches
+- शारदीः (*śāradīḥ*)—belonging to the Asura named Śarat
+- सप्त पुरः (*sapta puraḥ*)—the seven cities
+- शर्म (*śarma*)—with the vajra weapon
+- दर्त् (*dart*)—you split (praising that same greatness)
+- पूरवः (*pūravaḥ*)—human praisers
+- एना (*enā*)—accompanied by these praises
+- यज्ञैः (*yajñaiḥ*)—with sacrifices
+- प्रस्तवंते (*prastavaṃte*)—praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, favoured by your protection, may we obtain new wealth. O Indra, by that greatness of yours by which you destroyed the harmful Asuras, and, giving riches to the king named Purukutsa, split the seven cities belonging to the Asura named Śarat
+
+### Printed p. 733
+
+with the vajra weapon, praising that same greatness, the human praisers praise you with sacrifices accompanied by these praises.
+
+##### English translation
+(Favoured) by your protection, Indra, we solicit new (wealth): by this adoration men glorify you at sacrifices, for that you have shattered with your bolt the seven cities of Sharat, killing the opponents (of sacred rites), and giving (their spoils) to Purukutsa.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have already explained the matter of Purukutsa earlier.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं वृ॒ध इं॑द्र पू॒र्वो भू॑र्वरिव॒स्यन्नु॒शने॑ का॒व्याय॑ ।  
+> परा॒ नव॑वास्त्वमनु॒देयं॑ म॒हे पि॒त्रे द॑दाथ॒ स्वं नपा॑तं॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । वृधः । इंद्र । पूर्व्यः । भूः । वरिवस्यन् । उशने । काव्याय ।  
+> परा । नववास्त्वं । अनुदेयं । महे । पित्रे । ददाथ । स्वं । नपातं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पूर्व्यः पुरातनस्त्वं काव्याय कविपुत्रायोशन उशनसे भार्गवाय वरिवस्यन् धनमिच्छन् वृधो भूः । स्तोत्कृणां वर्धको भवसि । अनुदेयमनुदातव्यं धनं नववास्त्वमेतन्नामकमसुरं पराहत्य स्वं स्वकीयमौशनसं
+> नपातं युद्धे शत्रुभिर्गृहीतं पुत्रं महे महते पित्रे पालयितव्यायोशनसे
+> परा ददाथ । तस्य शत्रुं हत्वा प्रकर्षेण दत्तवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, the ancient, desiring wealth for Kāvya, the son of the poet, Uśanas of the line of Bhṛgu, have become an increaser; you are the increaser of the praisers. Having slain the Asura named Navavāstva, you delivered his own son, the son of Uśanas, who had been seized by enemies in battle and was to be given back, to the great father, Uśanas, who was to be protected; having slain his enemy, you gave him forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पूर्व्यः त्वं (*pūrvyaḥ tvaṃ*)—you, the ancient
+- काव्याय (*kāvyāya*)—the poet's son
+- उशने (*uśane*)—for Uśanas
+- वरिवस्यन् (*varivasyan*)—desiring wealth
+
+### Printed p. 734
+
+- वृधः भूः (*vṛdhaḥ bhūḥ*)—you have become an increaser of the praisers
+- नववास्त्वं (*navavāstvaṃ*)—the Asura named Navavāstva
+- परा (*parā*)—having destroyed
+- अनुदेयं (*anudeyaṃ*)—who was to be given back
+- स्वं नपातं (*svaṃ napātaṃ*)—the son of Uśanas
+- महे पित्रे (*mahe pitre*)—to the great father, that is, to Uśanas
+- ददाथ (*dadātha*)—you delivered back
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the ancient, desiring wealth for Uśanas, the poet's son, have become an increaser of the praisers. Having destroyed the Asura named Navavāstva, you delivered the son back to the great Uśanas.
+
+##### English translation
+Desirous of opulence, you, Indra, have been an ancient benefactor of Ushanas, the son of Kavi : having slain Navavastwa, you have given back his own grandson, who was (fit) to be restored to the grandfather.
+
+##### विशेषविषयगळु (Special Topics)
+
+नववास्त्वं (*navavāstvaṃ*)—the name of Navavāstva occurs in the Ṛgveda in three places only. In Ṛ. Saṃ. 1-36-18 it is said that Agni defeated him; in Ṛ. Saṃ. 6-20-11 that Indra defeated him and gave the son of Uśanas, who was in his power, into his father's power; and in Ṛ. Saṃ. 10-49-6 there is a description of Indra's defeating him. In two places he is also called Bṛhadratha.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं धुनि॑रिंद्र॒ धुनि॑मतीऋर्ख॒ोर॒पः सी॒रा न स्रवं॑तीः ।  
+> प्र यत्स॑मु॒द्रमति॑ शूर॒ पर्षि॑ पा॒रया॑ तु॒र्वशं॒ यदुं॑ स्व॒स्ति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । धुनिः । इंद्र । धुनिमतीः । ऋणोः । अपः । सीराः । न । स्रवंतीः ।  
+> प्र । यत् । समुद्रं । अति । शूर । पर्षि । पारय । तुर्वशं । यदुं । स्वस्ति ॥ १२ ॥
+
+### Printed p. 735
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र धुनिः शत्रूणां कंपयिता त्वं धुनिमतीर्धुनिनर्नामासुरो यासु
+> निरोधकतया विद्यते ता अप उदकानि सीरा न नदीरिव प्रवहंतीर्य्णणोः।
+> आगमयः । धुनिं हत्वा तेन निरोधितान्युदकानि प्रवाहयतीत्यर्थः। हे शूर वीरेंद्र
+> यद्यदा समुद्रमति अतिक्रम्य प्र पर्षि प्रतीर्णो भवसि तदा समुद्रपारे तिष्ठंत्
+> तुर्वशं यदुं च स्वस्ति क्षेमेण पारय । अपारयः । समुद्रमतारयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, shaker of enemies, you have brought the waters, those in which the Asura named Dhuni was present as an obstructer, flowing forth like rivers; that is, having slain Dhuni, you make the waters obstructed by him flow. O hero Indra, when, having crossed the ocean, you reach the other shore, then you carry over in safety Turvaśa and Yadu, who stood across the ocean; you ferried them over the ocean.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- धुनिः (*dhuniḥ*)—who make enemies tremble
+- त्वं (*tvaṃ*)—you
+- धुनिमतीः (*dhunimatīḥ*)—obstructed by the Asura named Dhuni
+- अपः (*apaḥ*)—the waters
+- सीरा न (*sīrā na*)—like rivers
+- प्रवंतीः (*pravaṃtīḥ*)—having flowing streams
+- ऋणोः (*ṛṇoḥ*)—you have transformed
+- शूर (*śūra*)—O valiant Indra
+- यत् (*yat*)—when
+- समुद्रं (*samudraṃ*)—the ocean
+- अति प्र पर्षि (*ati pra parṣi*)—you cross and reach the shore (then)
+- तुर्वशं (*turvaśaṃ*)—Turvaśa
+- यदुं (*yaduṃ*)—and Yadu
+- स्वस्ति (*svasti*)—in safety
+- पारय (*pāraya*)—you carry across
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who make enemies tremble have transformed the waters obstructed by the Asura named Dhuni into streams flowing like rivers. O valiant Indra, when you cross the ocean and reach the shore, then you carry Turvaśa and Yadu across in safety.
+
+##### English translation
+You, Indra, who make (your enemies) tremble, have caused the waters, detained by Dhuni, to flow like rushing rivers : so, hero, when, having crossed the ocean, you have reached the shore, you have brought over in safety Turvasa and Yadu.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have already told of the Asura Dhuni earlier.
+
+तुर्वशं यदुं (*turvaśaṃ yaduṃ*)—wherever the names of the two persons Yadu and Turvaśa occur, it is understood that both were royal sages and recipients of the favour of Indra and Agni. The plurals यदुषु तुर्वशेषु (*yaduṣu turvaśeṣu*), in which these two names have come together, occur, one may say, in this one place only in the whole Ṛksaṃhitā. **NOTE**
+
+### Printed p. 736
+
+अग्निना तुर्वशं यदुं परावत उग्रादेवं हवामहे (*agninā turvaśaṃ yaduṃ parāvata ugrādevaṃ havāmahe*) (Ṛ. Saṃ. 1-36-18) **GLOSS**
+
+त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वितिं वय्यं शतक्रतो । (*tvamāvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvitiṃ vayyaṃ śatakrato |*) (Ṛ. Saṃ. 1-54-6) **GLOSS**
+
+In these and other such Ṛks it is stated that both royal sages obtained the protection of Agni and of Indra. The chief deed of daring of Turvaśa was his fighting with Sudāsa.
+
+पुरोळा इत्तुर्वशो यक्षुरासीद्राये मत्स्यासो निशिता अपीव । श्रुष्टिं चक्रुर्भृगवो द्रुह्यवश्च सखा सखायमतरद्विषूचोः । (*puroḷā itturvaśo yakṣurāsīdrāye matsyāso niśitā apīva | śruṣṭiṃ cakrurbhṛgavo druhyavaśca sakhā sakhāyamataradviṣūcoḥ |*) (Ṛ. Saṃ. 7-18-6) **GLOSS**
+
+In this Ṛk the fight of Turvaśa is described. But it is not clear whether Turvaśa here received help from Indra or received punishment. Sāyaṇa has given both kinds of meaning. First, that when Turvaśa went to fight with Sudāsa, the friend of Indra, Indra punished Turvaśa and protected his friend; and second, that at the time when war arose between Turvaśa and his enemies, Indra helped his friend Turvaśa. Therefore the purport of this Ṛk is not clear. In the same way it is said in the Ṛk
+
+पुरः सद्य इत्याधिये दिवोदासाय शंबरं । अध त्यं तुर्वशं यदुं ॥ (*puraḥ sadya ityādhiye divodāsāya śaṃbaraṃ | adha tyaṃ turvaśaṃ yaduṃ ‖*) (Ṛ. Saṃ. 9-61-2) **GLOSS**
+
+that both Yadu and Turvaśa suffered defeat from Indra. From this it is understood that Indra subdued Yadu and Turvaśa for the sake of his friend Divodāsa. But in many Ṛks, such as
+
+प्रयत्नमुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति (*prayatnamudramati śūra parṣi pārayā turvaśaṃ yaduṃ svasti*) (Ṛ. Saṃ. 1-174-9) **GLOSS**
+
+उत त्या तुर्वशायदू अस्नातारा शचीपतिः । इंद्रो विद्वा अवारयत् । (*uta tyā turvaśāyadū asnātārā śacīpatiḥ | iṃdro vidvā avārayat |*) (Ṛ. Saṃ. 4-30-17) **GLOSS**
+
+त्वमपो यदने तुर्वशायारमयः सुदुघाः पार इंद्र । (*tvamapo yadane turvaśāyāramayaḥ sudughāḥ pāra iṃdra |*) (Ṛ. Saṃ. 5-31-8) **GLOSS**
+
+महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुं । (*mahatte vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yaduṃ |*) (Ṛ. Saṃ. 8-4-7) **GLOSS**
+
+it is stated that both Yadu and Turvaśa received help directly from Indra.
+
 ---
 
-**Progress note:** Done through printed p. 729. Ṛks 4 (end)-8, Sūkta 20
+**Progress note:** Done through printed p. 736. Ṛks 8 (end)-12, Sūkta 20
