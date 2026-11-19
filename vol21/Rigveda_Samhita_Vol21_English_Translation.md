@@ -14402,6 +14402,373 @@ Universal gods, hear this my invocation, whether you be in the firmament or in t
 
 In the Vaiśvadeva śastra mantras, this Ṛk, विश्वे देवाः (*viśve devāḥ*), is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana-śrauta-sūtra, आश्रुत्यै त्वेति शस्त्रा जपेद्विश्वे देवाः शृणुतेमं हवं म इति याज्या (*āśrutyai tveti śastrā japedviśve devāḥ śṛṇutemaṃ havaṃ ma iti yājyā*) (Ā. 5-18). And in the animal offering made to the All-gods, this same Ṛk is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana-śrauta-sūtra, विश्वे देवाः शृणुतेमं हवं मे ये के च ज्मा महिनो अहिमायाः (*viśve devāḥ śṛṇutemaṃ havaṃ me ye ke ca jmā mahino ahimāyāḥ*) (Ā. 3-7).
 
+### Printed p. 330
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ दे॒वा मम॑ शृण्वंतु य॒ज्ञिया॑ उ॒भे रोद॑सी अ॒पां ॒॑ ॑
+> नपाच्च मन्म ।  
+> मा वो॒ वचां॑सि परि॒चक्षा॑णि वोचं सु॒म्मॆष्टिद्वो॒ अंत॑मा  
+> मदेम ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । मम । शृण्वंतु । यज्ञॆयाः । उभे इति । रोदसी इति । अपां ।  
+> नपात् । च । मन्म ।  
+> मा । वः । वचांसि । परिचक्ष्याणि । वोचं । सुम्नेषु । इत् । वः। अंतमाः। मदेम॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञिया यज्ञार्हा विश्वे देवा मम मदीयं मन्म मननीयं स्तोत्रं
+> शृण्वंतु । चित्तेऽवधारयंतु । तथोभे रोदसी द्यावापृथिव्यावसां नपात्
+> मध्यमस्थानोऽग्निश्चास्मदीयं स्तोत्रं शृण्वंतु । अथ प्रत्यक्षकृतः । हे देवा वो
+> युष्मभ्यं परिचक्षाणि वर्जनीयानि वचांसि स्तोत्राणि मा वोचं । मा ब्रवीमि ।
+> अपि तु समीचीनानि । अतो वो युष्माकमंतमा अंतिकतमाः संतो वयं
+> सम्मेष्टित् युष्माभिर्दत्तेषु सुखेऽव वर्तमाना मदेम । मोदेम ॥
+
+##### Gist of the bhāṣya
+
+The All-gods, worthy of sacrifice, are to hear my hymn that is to be pondered. Likewise both heaven and earth, and Apāṃ Napāt, the fire of the middle region, are to hear our hymn. Then, addressing the gods directly: "O gods, I shall not utter to you hymns that are to be avoided, that is, I shall not speak them; rather, fitting ones. Therefore we, being closest to you, would rejoice in the happiness given by you."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञियाः (*yajñiyāḥ*)—worthy of sacrifice
+- विश्वे देवाः (*viśve devāḥ*)—all the All-gods
+- मम (*mama*)—my
+- मन्म (*manma*)—this hymn, of the nature of meditation
+- शृण्वंतु (*śṛṇvaṃtu*)—let them hear
+- उभे रोदसी (*ubhe rodasī*)—heaven and earth, both
+- अपां नपात् च (*apāṃ napāt ca*)—and the fire of the atmosphere called Apāṃnapāt (let them hear our praise)
+- (O gods) वः (*vaḥ*)—addressed to you
+- परिचक्षाणि (*paricakṣāṇi*)—deserving of contempt
+- वचांसि (*vacāṃsi*)—hymns
+- मा वोचं (*mā vocaṃ*)—I shall not recite
+- वः (*vaḥ*)—to you
+- अंतमाः (*aṃtamāḥ*)—we who are very near
+- सुम्नेष्ट्वित् (*sumneṣṭvit*)—remaining in the greatest happiness
+- मदेम (*madema*)—may we experience joy
+
+### Printed p. 331
+
+##### भावार्थ (Bhāvārtha)
+
+May the All-gods, worthy of sacrifice, all hear this hymn of mine, of the nature of meditation. May heaven and earth, and the fire of the atmosphere called Apāṃnapāt, hear my praise. O gods, I shall not recite to you hymns that deserve contempt. May we, who are very near to you, remain in the greatest happiness and experience joy.
+
+##### English translation
+May the adorable, universal deities, and both heaven and Eath, and the graandson of the waters, hear my praise : let me not utter words to be disregarded, but let us (brought) most nigh unto you, rejoice in the happiness (you bestow).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये के च॒ ज्मा म॒हिनो॒ अहि॑माया दि॒वो ज॑ज्ञि॒रे अ॒पां  ॒॑
+> सदस्थे ।  
+> ते अ॒स्मभ्य॑मि॒षये॒ विश्व॒मायुः॒ क्षप॑ उ॒स्रा व॑रिवस्यंतु दे॒वाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । के । च । ज्मा । महिनः । अहिमायाः । दिवः । जज्ञिरे । अपां । सधस्थे ।  
+> ते । अस्मभ्यं । इषये । विश्वं । आयुः । क्षपः । उस्राः । वरिवस्यंतु । देवाः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आग्रयणे वैश्वदेवस्य ये के च ज्ञेति याज्या । सूत्रितं च । विश्वे देवास
+> आ गत ये के च ज्ञा महिनो अहिमायाः । आ. २-९ । इति ॥ वैश्वदेवपुरोडाशस्यैपैव याज्या । सूत्रमुदाहृतं ॥
+> महिनो महांतोऽहिमायाः । माया प्रज्ञानाम । आहंतृप्रज्ञाः ।
+> एवंभूता ये के चन देवा ज्मा । पृथिवीनामैतत् । ज्ञायां पृथिव्यां जज्जिरे
+> प्रादुर्बभूवुः । ये के चन दिवो द्युलोकाज्जज्जिरे । ये के चनापां सधस्थे
+> सहांतरिक्षे जज्जिरे ते सर्वे देवा अस्मभ्यमिषये । इष्यत इतिषिः पुत्रादिः । तस्यॆ
+
+##### Gist of the bhāṣya
+
+At the Āgrayaṇa, the Ṛk beginning ये के च (*ye ke ca*) is the yājyā of the Vaiśvadeva offering, and the sūtra says: विश्वे देवास आ गत ये के च ज्ञा महिनो अहिमायाः (*viśve devāsa ā gata ye ke ca jñā mahino ahimāyāḥ*) (Ā. 2-9). It is also the yājyā of the Vaiśvadeva puroḍāśa; the sūtra has been cited. Mahinaḥ are the great ones; ahimāyāḥ: māyā is a name for knowledge (prajñā); those whose knowledge is keen (āhantṛ-prajñāḥ). Whatever gods of such a kind were born, appeared, on the earth, (jmā is a name of the earth); whichever were born from heaven, the world of Dyaus; whichever were born in the seat of the waters, together with the atmosphere, all those gods, for us, for the iṣi, that is, the son and the like (that which is desired is the iṣi),
+
+### Printed p. 332
+
+> च विश्वं सर्वमायुरन्नं जीवनं वा क्षपः सर्वा रात्रीरुस्राः सर्वाण्यहानि च सर्वदा
+> नैरंतर्येण वरिवस्यंतु । प्रयच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+and for him, all, whole, life (āyus), whether food or living, through all nights (kṣapaḥ) and all days (usrāḥ), at all times, without interruption, let them bestow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिनः (*mahinaḥ*)—possessed of great qualities
+- अहिमायाः (*ahimāyāḥ*)—possessed of attained knowledge
+- ये के च (*ye ke ca*)—whichever gods
+- ज्ञा (*jñā*)—on the earth
+- जज्जिरे (*jajjire*)—have been born
+- दिवः (*divaḥ*)—who have appeared from the world of heaven
+- अपां सधस्थॆ (*apāṃ sadhasthè*)—who have been born in the atmosphere
+- ते देवाः (*te devāḥ*)—all those gods
+- अस्मभ्यं (*asmabhyaṃ*)—our
+- इषये (*iṣaye*)—to sons and the like
+- विश्वं (*viśvaṃ*)—the whole
+- आयुः (*āyuḥ*)—life
+- क्षपाः (*kṣapāḥ*)—through all nights
+- उस्त्राः (*ustrāḥ*)—and through days
+- वरिवस्यंतु (*varivasyaṃtu*)—let them favour and bestow
+
+##### भावार्थ (Bhāvārtha)
+
+May all those gods who are possessed of great qualities and attained knowledge, whichever of them have been born on the earth, whichever have appeared from the world of heaven, whichever have been born in the atmosphere, favour our sons and the like with life of every kind, giving long life, through all nights and days.
+
+##### English translation
+May those mighty deities, having power to destroy, whether they have been manifested upon earth or in heaven, or in the abode of the waters, bestow upon us and our posterity, abundant sustenance both by night and day.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the oblation made to the All-gods at the Āgrayaṇa iṣṭi, the Ṛk ये के च ज्मा (*ye ke ca jmā*) is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana-śrauta-sūtra, विश्वे देवास आ गत ये के च ज्मा महिनो अहिमायाः (*viśve devāsa ā gata ye ke ca jmā mahino ahimāyāḥ*) (Ā. 2-9). In the puroḍāśa oblation made to the All-gods also, this same Ṛk is to be recited as the yājyā mantra. The sūtra has been stated earlier.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्नी॑पर्जन्या॒वव॑तं॒ धियं॑ मे॒ऽस्मिन्हवे॑ सुहवा सुष्टु॒तिं नः॑ ।  
+> इळा॑म॒न्यो ज॒नय॒द्गर्भ॑म॒न्यः प्र॒जाव॑ती॒रिष॒ आ ध॑त्तम॒स्मे ॥१६॥
+
+### Printed p. 333
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्नीपर्जन्यौ । अवतं । धियं । मे । अस्मिन् । हवे । सुहवा । सुस्तुतिं । नः ।  
+> इळां । अन्यः । जनयत् । गर्भं । अन्यः । प्रजावतीः । इषः । आ । धत्तं । अस्मे इति॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्नीपर्जन्यौ मे मदीयं धियं कर्म यज्ञलक्षणमवतं । गच्छतं
+> रक्षतं वा । हे सुहवा सुखेन ह्वातुं शक्यावस्मिन्हवे यज्ञे नोऽस्मदीयां
+> सुष्टुतिं शोभनां स्तुतिं च रक्षतं । यद्वा । अनुवृत्तोऽवतिः श्रवणार्थः । अवतं ।
+> शृणुतं । युवयोर्मध्येऽन्यः पर्जन्य इळामन्नं जनयत् । जनयति । वृष्टा
+> ह्योषधिवनस्पतयो जायंते तेभ्यश्चानं जायते । अन्नोऽग्निर्गर्भं जनयति ।
+> पुरुषेण भुक्तमन्नं जाठरेणाग्निना पक्वं सत् रेतोरूपेण परिणमते तदेव
+> योषितु गर्भो भवति । अतो युवां प्रजावतीः प्रजाभिर्युक्ता इषोऽन्नान्यस्मे
+> अस्मास्वा धत्तं । अवस्थापयतं ॥
+
+##### Gist of the bhāṣya
+
+O Agni and Parjanya, protect, or attend to, my dhī, my work in the form of the sacrifice. O you who are easily invoked, in this sacrifice protect also our excellent praise. Or else the verb अवतं (*avataṃ*) continues in the sense of hearing: hear. Of you two, the one, Parjanya, generates iḷā, food: for through rain plants and trees are born, and from them food is born. The other, Agni, generates the embryo: the food eaten by a man, cooked by the digestive fire, is transformed into the form of semen, and that itself becomes the embryo in a woman. Therefore, you two, place in us foods endowed with offspring; establish them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्नीपर्जन्यौ (*agnīparjanyau*)—O gods Agni and Parjanya
+- मे (*me*)—my
+- धियं (*dhiyaṃ*)—sacrificial act
+- अवतं (*avataṃ*)—protect
+- सुहवा (*suhavā*)—O gods, easy to be invoked with an excellent invocation
+- अस्मिन् हवे (*asmin have*)—in this our invocation made for the sacrifice
+- नः सुष्टुतिं (*naḥ suṣṭutiṃ*)—protect our excellent praise
+- अन्यः (*anyaḥ*)—Parjanya, one of you
+- इळां (*iḷāṃ*)—food
+- जनयत् (*janayat*)—produces
+- अन्यः (*anyaḥ*)—the other, Agni
+- गर्भं (*garbhaṃ*)—produces the embryo that is the fruit of the essence of food
+- (O Agni and Parjanya) प्रजावतीः (*prajāvatīḥ*)—accompanied by offspring
+- इषः (*iṣaḥ*)—foods
+- अस्मे (*asme*)—in us
+- आ धत्तं (*ā dhattaṃ*)—fill
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Agni and Parjanya, protect my sacrificial act. O gods, easy to be invoked with an excellent invocation, protect our excellent praise in this our invocation made for the sacrifice. Parjanya, one of you, produces food. O gods Agni and Parjanya, fill us with food accompanied by offspring.
+
+##### English translation
+Agni and Parjanya, prosper my pious acts : (accept), you who are reverently invoked, our praise at this sacrifice : one of you generates food, the other posterity : grant us, therefore, food productive of descedants.
+
+### Printed p. 334
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्ती॒र्णे ब॒र्हिषि॑ समिधा॒ने अ॒ग्नौ सू॒क्तेन॑ म॒हा नम॒सा वि॑वासे ।  
+> अ॒स्मिन्नो॑ अ॒द्य वि॒दथे॑ यजत्रा॒ विश्वे॑ देवा ह॒विषि॑ मादयध्वं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्त्रीर्णे । बर्हिषि । संइधाने । अग्नौ । सुउक्तेन । महा । नमसा । आ । विवासे ।  
+> अस्मिन् । नः । आद्य । विदथे । यजत्राः । विश्वे । देवाः । हविषि । मादयध्वं ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वे देवा बर्हिषि दर्भपुंजे वेद्यां स्तीर्णे सत्यग्नौ च समिधाने
+> समिद्दे सत्यनेन सूक्तेन स्तोत्रेण च महा महता नमसा नमस्कारेण चा विवासे ।
+> पर्यचरं । हे यजत्रा यजनीया विश्वे देवा आद्यास्मिन्निने नोऽस्मदीयेऽस्मिन्निदथे यज्ञे हविषि ॥ तृतीयार्थे सप्तमी ॥ हविषास्माभिर्दत्तेन मादयध्वं ।
+> तृप्यध्वं ॥
+
+##### Gist of the bhāṣya
+
+O All-gods, when the barhis, the bundle of darbha grass, is spread on the altar, and the fire is kindled, I serve you with this hymn and with great obeisance. O All-gods, worthy of worship, today in this our sacrifice rejoice with the oblation given by us; be satisfied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O All-gods) बर्हिषि (*barhiṣi*)—the seat of darbha grass
+- स्तीर्णे (*stīrṇe*)—even when it is spread
+- अग्नौ (*agnau*)—the fire
+- समिधाने (*samidhāne*)—even when it is kindled
+- सूक्तेन (*sūktena*)—with a hymn
+- महा (*mahā*)—great
+- नमसा (*namasā*)—and with obeisance
+- आ विवासे (*ā vivāse*)—I serve and worship you
+- यजत्राः (*yajatrāḥ*)—worthy of sacrifice
+- विश्वे देवाः (*viśve devāḥ*)—O All-gods
+- अद्य (*adya*)—today
+- नः (*naḥ*)—our
+- अस्मिन् विदथे (*asmin vidathe*)—in this sacrifice
+- हविषि (*haviṣi*)—with the oblations offered
+- मादयध्वं (*mādayadhvaṃ*)—attain joy
+
+##### भावार्थ (Bhāvārtha)
+
+O All-gods, when the seat of darbha grass is spread and the fire is kindled, I serve and worship you with a hymn and with obeisance. O All-gods, worthy of sacrifice, today attain joy with the oblations offered in this our sacrifice.
+
+##### English translation
+When the sacred grass is strewn ; when the fire is kindled, and when I worship (you) with a hymn, and with profound veneration, then. adorable universal gods, rejoice in the oblation (offered) to-day at this our sacrifice.
+
+### Printed p. 335
+
+## Sūkta 53 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमु त्वेति दशर्चं चतुर्थं सूक्तं भरद्वाजस्यार्षं पौष्टं । यां
+> पूषन्नित्यनुष्टुप् शिष्वा गायत्र्यः । तथा चानुक्रांतं । वयं दश पौष्णं तद्दायत्रं
+> वै यां पूषन्ननुष्टुबिति ॥ अर्थार्थिभिः प्रवसद्धिरेतज्जप्यं । सूत्रितं च । वयमु
+> त्वा पथस्पत इत्यर्थचर्यां चरिष्यन् । आ. गृ. ३-७-८ । इति । जपेदिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning वयमु त्वा (*vayamu tvā*), of ten Ṛks, is the fourth sūkta; its seer is Bharadvāja and its deity is Pūṣan. The Ṛk beginning यां पूषन् (*yāṃ pūṣan*) is Anuṣṭubh and the rest are Gāyatrī. The Anukramaṇī says so accordingly: वयं दश पौष्णं तद्दायत्रं वै यां पूषन्ननुष्टुबिति (*vayaṃ daśa pauṣṇaṃ taddāyatraṃ vai yāṃ pūṣannanuṣṭubiti*). This sūkta is to be muttered by those who seek wealth and travel abroad, and the sūtra says: वयमु त्वा पथस्पत इत्यर्थचर्यां चरिष्यन् (*vayamu tvā pathaspata ityarthacaryāṃ cariṣyan*) (Ā. Gṛ. 3-7-8) **NOTE**. The word "he should mutter" is to be supplied.
+
+##### Anuvāda
+
+This sūkta वयमु त्वा (*vayamu tvā*) is the fourth sūkta in the fifth anuvāka. It has ten Ṛks. The seer of this sūkta is Bharadvāja; the deity is Pūṣan. The eighth Ṛk of this sūkta, यां पूषन् (*yāṃ pūṣan*), is in the Anuṣṭup metre. All the remaining Ṛks are in the Gāyatrī metre. In the Anukramaṇī it is stated thus: वयं दश पौष्णं तद्दायत्रं वै यां पूषन्ननुष्टुप् (*vayaṃ daśa pauṣṇaṃ taddāyatraṃ vai yāṃ pūṣannanuṣṭup*). Those who travel abroad seeking wealth should mutter this sūkta, as explained by the sūtra of the Āśvalāyana-gṛhya-sūtra, वयमु त्वा पथस्पते इत्यर्धर्चया चरिष्यन् (*vayamu tvā pathaspate ityardharcayā cariṣyan*) (Ā. Gṛ. 3-7-8) **NOTE**.
+
+- Sūkta 53
+- Maṇḍala 6; Anuvāka 5; Sūkta 53
+- Aṣṭaka 4; Adhyāya 8; Varga 17, 18
+- Number of Ṛks in the sūkta: 10
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Pūṣan
+- Chandas: 1-7, 9-10 Gāyatrī; 8 Triṣṭup **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमु॑ त्वा पथस्पते॒ रथं॒ न वाज॑सातये ।  
+> धि॒ये पू॑षन्न युज्महि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ऊं इति । त्वा । पथः । पते । रथं । न । वाजसातये ।  
+> धिये । पूषन् । आयुज्महि ॥ १ ॥
+
+### Printed p. 336
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पथस्पते मार्गस्य पालयितः पूषन् धिये कर्मार्थं वाजसातयेऽन्नस्य
+> लाभाय च वयं रथं न युद्धे रथमिव त्वा त्वामयुज्महि । युंज्महि । अस्मदभिमुखं कुर्मः ॥ उ इति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+O Pathaspati, protector of the path, Pūṣan, for the sake of the work (dhī) and for the gaining of food (vājasāti), we yoke you, as one yokes a chariot in battle: we turn you towards us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पथस्पते (*pathaspate*)—who are the protector of the paths
+- पूषन् (*pūṣan*)—O divine Pūṣan
+- धिये (*dhiye*)—for the protection of our work
+- वाजसातये (*vājasātaye*)—and for the gaining of our food
+- वयं (*vayaṃ*)—we
+- रथं न (*rathaṃ na*)—as one takes refuge in a chariot in battle
+- त्वा उ (*tvā u*)—you alone
+- आयुज्महि (*āyujmahi*)—we take refuge in, and make you join with us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Pūṣan, protector of all paths, for the protection of our work and for our gaining of food, as a warrior in battle takes refuge in his chariot and makes himself one with it, we take refuge wholly in you and make you one with us.
+
+##### English translation
+Pushan, lord of paths, we attach you to us like a chariot, for (the sake of) bringing food, and of (accomplishing our) solemnity.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि नो॒ नर्यं॒ वसु॑ वी॒रं प्रय॑तदक्षिणं ।  
+> वा॒मं गृ॒हप॑तिं नय । २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । नः । नर्यं । वसु । वीरं । प्रयत्नदक्षिणं ।  
+> वामं । गृहपतिं । नय ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् नर्यं नृभ्यो हितं वसु धनमभि प्राप्तं वीरं दारिद्रस्य
+> विशेषेणेरयितारं गमयितारं प्रयतदक्षिणं पूर्वमन्येभ्योऽपि दत्तधनं । यद्वा ।
+> प्रयतं शुद्धं दक्षिणं धनं यस्य तादृशं । वामं वननीयमेवंविधं गृहपतिं
+> गृहस्थं नोऽस्मान्नय । प्रापय ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, wealth that is beneficial to men, that has been attained; one who is a hero, a sender-away (īrayitṛ), a remover in particular, of poverty; one who has given wealth to others before; or else one whose wealth, his gift, is pure; desirable: such a householder, a man of the household, lead us to; bring us to him.
+
+### Printed p. 337
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Pūṣan) नर्यं (*naryaṃ*)—beneficial to men
+- वसु (*vasu*)—wealth
+- अभि (*abhi*)—for obtaining
+- वीरं (*vīraṃ*)—who has the power to destroy poverty
+- प्रयतदक्षिणं (*prayatadakṣiṇaṃ*)—who has wealth fit to be given
+- वामं (*vāmaṃ*)—who has attractive qualities
+- गृहपतिं (*gṛhapatiṃ*)—to the master of the house
+- नः (*naḥ*)—us
+- नय (*naya*)—lead and bring together
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Pūṣan, lead us and bring us together with a master of the house who has the power to destroy poverty, who has wealth fit to be given and who has attractive qualities, that we may obtain wealth beneficial to all men.
+
+##### English translation
+Conduct us to a gracious householder, friendly to man, liberal in (bestowing) wealth, the giver of pious donations.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदि॑त्संतं चिदाघृणे॒ पूष॒न्दाना॑य चोदय ।  
+> प॒णेश्चि॒द्वि म्र॑दा॒ मनः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदित्संशं । चित् । अघृणे । पूषन् । दानाय । चोदय ।  
+> पणेः । चित् । वि । म्रद । मनः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अघृण आगतदीप्ते पूषन् आदित्संतं चित् दातुमनिच्छंतमपि पुरुषं
+> दानायास्मद्दानार्थं चोदय । प्रेरय । पणेश्चिद्वणिजोऽपि वार्धुषिकस्य लुब्धस्यापि
+> मनो हृदयं वि म्रद । दानार्थं मृदूकुरु ॥
+
+##### Gist of the bhāṣya
+
+O Aghṛṇa, Pūṣan, whose radiance has come to you: impel to give to us even the man who does not wish to give. Soften the mind, the heart, even of a trader, a usurer, a miser; make it soft for the purpose of giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आघृणे (*āghṛṇe*)—who are possessed of exceedingly great radiance
+- पूषन् (*pūṣan*)—O divine Pūṣan
+- अदित्संतं चित् (*aditsaṃtaṃ cit*)—even a miser who has no nature of giving
+- दानाय (*dānāya*)—to give and, as a benefactor of the world,
+
 ---
 
-**Progress note:** Done through printed p. 329. Mandala 6 sukta 52 Rk 7 end, Rk 8-13
+**Progress note:** Done through printed p. 337. Mandala 6 sukta 52 Rk 14-17, sukta 53 Rk 1-3 begun
