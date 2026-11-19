@@ -28011,6 +28011,317 @@ May Bharathi, associated with the Bharatis ; Ila with gods and men ; and Agni an
 > यतो॑ वी॒रः क॑र्म॒ण्यः॑ सु॒दक्षो॑ यु॒क्तग्रा॑वा॒ जाय॑ते  ॒॑
 > देवकामः ॥ ९ ॥
 
+### Printed p. 664
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । तुरीपं । अध । पोषयित्नु । देव । त्वष्टः । वि । रराणः । स्यस्वेति स्यस्व ।  
+> यतः । वीरः । कर्मण्यः । सुदक्षः । युक्तग्रावा । जायते । देवकामः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देव द्योतमान हे त्वष्टा रराणो रममाणस्त्वं नोऽस्माकं तुरीपं
+> त्वरितमाप्नुवत् पोषयितु पोषकरं तद्रेतो वि स्यस्व । विशेषेणावसानं प्रापय।
+> विमोचयेत्यर्थः । यतो रेतसः कर्मण्यः कर्मसु साधुः सुदक्षः सुबलो
+> युक्तग्रावा सोमसुत् देवकामो वीरः पुत्रो जायते ॥
+
+##### Gist of the bhāṣya
+
+O shining Tvaṣṭṛ, being delighted, release for us that procreative fluid which quickly attains (its end) and nourishes; cause it to reach its conclusion, that is, set it free. From this fluid is born a son who is a hero, skilled in rites, of excellent strength, a presser of Soma with the pressing stones, and desirous of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—thereafter
+- देव (*deva*)—divine in nature
+- त्वष्टः (*tvaṣṭaḥ*)—O Tvaṣṭṛ
+- रराणः (*rarāṇaḥ*)—showing delight (you)
+- यतः (*yataḥ*)—by the power of which semen
+- कर्मण्यः (*karmaṇyaḥ*)—skilled in rites
+- सुदक्षः (*sudakṣaḥ*)—possessed of excellent strength
+- युक्तग्रावा (*yuktagrāvā*)—one who presses out the Soma juice with stones
+- देवकामः (*devakāmaḥ*)—devoted to the worship of the gods
+- वीरः (*vīraḥ*)—valiant
+- जायते (*jāyate*)—a son is born, such (a semen)
+- तुरीपं (*turīpaṃ*)—quickly yielding fruit
+- पोषयितु (*poṣayitu*)—a means of nourishment
+- तत् (*tat*)—that semen
+- नः वि ष्यस्व (*naḥ vi ṣyasva*)—release it so that it fills (us) in us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Tvaṣṭṛ, showing delight, release in us also the semen that has the power to beget a son who is skilled in rites, of excellent strength, a presser of Soma juice with the pressing stones, devoted to the worship of the gods and valiant, and which yields fruit quickly and is a means of nourishment.
+
+##### English translation
+Divine Twashtri, being well pleased, give issue to our procreative vigour, whence (a son) manly, devout, vigorous, wielder of the Soma-bruising stone, and reverencing the gods, may be born.
+
+### Printed p. 665
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वन॑स्प॒तेऽव॑ सृ॒जोप॑ दे॒वान॒ग्निर्ह॒विः श॑मि॒ता सू॑दयाति ।  
+> सेदु॒ होता॑ स॒त्यत॑रो यजाति॒ यथा॑ दे॒वानां॒ जनि॑मानि॒  ॑
+> वेद ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वनस्पते । अव । सृज । उप । देवान् । अग्निः । हविः । शमिता । सूदयाति ।  
+> सः । इत् । ऊं इति । होता । सत्यतरः । यजाति । यथा । देवानां । जनिमानि ।  
+> वेद ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वनस्पते देवानुपाव सृज । अथ परोक्षस्तुतिः । अग्निर्वनस्पतिः शमिता
+> शामित्ररूपः सन् हविः सूदयाति । प्रेरयतु । सेत्स एव वनस्पतिर्होता देवानामाह्वाता सत्यतरोऽपि सन् यजाति । यजतु । देवानां जनिमानि जननानि यथा
+> स्वयं वेद तथा ॥
+
+##### Gist of the bhāṣya
+
+O Vanaspati, send the gods to us. Now follows an indirect praise: Agni, as Vanaspati, in the form of the Śamitṛ (the immolator), may impel the oblation. That same Vanaspati, as Hotṛ, the caller of the gods, and exceedingly true, may sacrifice, just as he himself knows the births of the gods, so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनस्पते (*vanaspate*)—O Vanaspati
+- देवान् (*devān*)—the gods
+- उप अव सृज (*upa ava sṛja*)—cause (them) to come to us
+- अग्नि (*agni*)—Vanaspati in the form of Agni
+- शमिता (*śamitā*)—in the form of the Śamitṛ
+- हविः (*haviḥ*)—the oblation in the form of the animal
+- सूदयाति (*sūdayāti*)—may impel
+- सेत् (*set*)—that same Vanaspati
+- होता (*hotā*)—as the one who calls the gods
+- सत्यतरः (*satyataraḥ*)—being of the nature of truth
+- यदा (*yadā*)—in whatever way
+- देवानां (*devānāṃ*)—of the gods
+- जनिमानि (*janimāni*)—the modes of origin
+- वेद (*veda*)—he knows
+- यजाति (*yajāti*)—may he worship, in that way
+
+##### भावार्थ (Bhāvārtha)
+
+O Vanaspati, cause the gods to come to us. May Vanaspati in the form of Agni, in the form of the Śamitṛ, impel the oblation in the form of the animal. May that same Vanaspati, being the caller of the gods and of the nature of truth, worship in the way in which he knows the modes of origin of the gods.
+
+### Printed p. 666
+
+##### English translation
+Vanaspati, bring the gods nigh : may Agni, the immolater, prepare the victim : let him who is truth officiate as the ministering priest, for verily he knows the birth of the gods.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑ह्यग्ने समिधा॒नो अ॒र्वाजंद्रे॑ण दे॒वैः स॒रथं॑ तु॒रेभिः॑।  
+> ब॒र्हिर्न॑ आस्ता॒मदि॑तिः सुपु॒त्रा स्वाहा॑ दे॒वा अ॒मृता॑ मादयंतां ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । अग्ने । संइधानः । अर्वाज् । इंद्रेण । देवैः । सरथं । तुरेभिः ।  
+> बर्हिः । नः । आस्तां । अदितिः । सुपुत्रा । स्वाहा । देवाः । अमृताः । मादयंतां॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने समिधान अर्वागस्मदभिमुखस्त्वमिंद्रेण तुरेभिस्त्वरित्यैर्देवैश्च
+> सरथं समानरथं यथा भवति तथा आ याहि । आगच्छ । नोऽस्माकं बर्हिरध्यास्तामदितिश्च सुपुत्रा कल्याणपुत्रा । स्वाहा देवाश्च सर्वेऽमृताः संतो मादयंतामिति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, kindled, facing us, come in the same chariot together with Indra and with the swift gods. May Aditi, with good sons, that is, sons of auspicious nature, be seated on our sacred grass. Svāhā; and may all the gods, being immortal, rejoice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- समिधानः (*samidhānaḥ*)—you who are kindled
+- अर्वाक् (*arvāk*)—facing us
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- तुरेभिः (*turebhiḥ*)—swift-moving
+- देवैः (*devaiḥ*)—with the gods
+- सरथं (*sarathaṃ*)—seated in the same chariot
+- आ याहि (*ā yāhi*)—be pleased to come
+- सुपुत्रा (*suputrā*)—having sons of auspicious nature
+- अदितिः (*aditiḥ*)—the goddess Aditi
+- नः (*naḥ*)—our
+- बर्हिः (*barhiḥ*)—upon the sacred grass seat
+- अस्तां (*astāṃ*)—may she sit
+- अमृताः (*amṛtāḥ*)—free from mortality
+- देवाः (*devāḥ*)—the gods
+- स्वाहा (*svāhā*)—with the oblations offered with devotion
+- मादयंतां (*mādayaṃtāṃ*)—may be satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, kindled, facing us, be pleased to come seated in the same chariot with Indra and with the swift-moving gods. May Aditi, who has sons of auspicious nature,
+
+### Printed p. 667
+
+be seated on our sacred grass. May the gods, who are free from mortality, be satisfied with the oblations offered with devotion.
+
+##### English translation
+Agni, kindled (into flame), come to our presence in the same chariot with Indra, and with the swift-moving gods: may Aditi, the mother of excellent sons, sit down on the sacred grass. and may the immortal gods be satisfied with the reverentially-offered oblation.
+
+## Sūkta 3 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं वो देवमिति दशर्चं तृतीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमागेयं । अत्रेयमनुक्रमणिका । अग्निं वो दशेति ॥ अग्निं वो देवमित्येतदादीनि
+> दश सूक्तानि तृतीयचतुर्थवर्जितानि प्रातरनुवाक आग्नेये क्रत्ौ त्रैष्टुभे
+> छंदस्याश्विनशस्त्रे च विनियुक्तानि । सूत्रितं च । अग्निं वो देवमिति दशानां
+> तृतीयचतुर्थे उद्धरेत् । आ. ४-१३ । इति ॥ वूळ्ही दशरात्रेष्टमेऽह
+> नीदं सूक्तमाज्यशस्त्रं । सूत्र्यते हि । द्वितीयस्याग्निं वो देवमित्याज्यं ।
+> आ. ८-१० ! इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अग्निं वो देवं (*agniṃ vo devaṃ*), of ten ṛks, is the third sūkta; it is the vision of Vasiṣṭha, in the Triṣṭubh metre, मागेयं (*māgeyaṃ*) **NOTE**. Here is the Anukramaṇikā: अग्निं वो दशेति (*agniṃ vo daśeti*). The ten sūktas beginning with अग्निं वो देवं (*agniṃ vo devaṃ*), excepting the third and the fourth, are applied in the Prātaranuvāka, in the Āgneya Kratu, in the Triṣṭubh metre, and in the Āśvina-śastra. It is stated in the sūtra: अग्निं वो देवमिति दशानां तृतीयचतुर्थे उद्धरेत् (*agniṃ vo devamiti daśānāṃ tṛtīyacaturthe uddharet*) (Ā. Sū. 4-13). In the ten-night rite, on the eighth day, this sūkta is the Ājyaśastra. It is stated in the sūtra: द्वितीयस्याग्निं वो देवमित्याज्यं (*dvitīyasyāgniṃ vo devamityājyaṃ*) (Ā. Sū. 8-10).
+
+##### Anuvāda
+
+This sūkta, अग्निं वो देवं (*agniṃ vo devaṃ*), is the third sūkta in the first anuvāka. In it there are ten ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: अग्निं वो दश (*agniṃ vo daśa*). The ten sūktas that follow from this sūkta अग्निं वो देवं (*agniṃ vo devaṃ*), but leaving out the third and the fourth sūktas, are applied, at the time of reciting the Prātaranuvāka mantras, for the ṛks of Triṣṭup metre connected with the Āgneya-kratu and for the Āśvina-śastra mantras, as is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, अग्निं वो देवमिति दशानां तृतीयचतुर्थे उद्धरेत् (*agniṃ vo devamiti daśānāṃ tṛtīyacaturthe uddharet*) (A. 4-13) **NOTE**. In the ten-night sacrifice called Vyūḷva, on the eighth day, this sūkta is to be recited as the Ājyaśastra mantras, as is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, द्वितीयस्याग्निं पो देवमित्याज्यं (*dvitīyasyāgniṃ po devamityājyaṃ*) (Ā. 8-10) **NOTE**.
+
+### Printed p. 668
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 3
+- Aṣṭaka 5; Adhyāya 2; Varga 3, 4
+- Number of ṛks in the sūkta: 10
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्निं वो देवमग्निभिः सजोषा यजिष्ठं दूतमध्वरे  
+> कृणुध्वं ।  
+> यो मर्त्येषु निध्रुविर्यतावा तपुर्मूर्धा घृतान्नः  
+> पावकः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । वः । देवं । अग्निभिः । सजोषाः । यजिष्ठं । दूतं । अध्वरे । कृणुध्वं ॥  
+> यः । मर्त्येषु । निध्रुविः । ऋतवा । तपुःमूर्धा । धृतअन्नः । पावकः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा वो यूयं देवं द्योतमानमग्निभिरन्यैरग्निभिः सजोषाः
+> सजोषसं सहितं ॥ द्वितीयार्थे प्रथमा ॥ यजिष्ठं यष्टृतममग्निमध्वरे
+> कौटिल्यरहिते यज्ञे दूतं कृणुध्वं । कुरुत । योग्निर्देवोऽपि सन् मर्त्येषु
+> निध्रुविर्तरां ध्रुवस्तिष्ठति ऋतावा यज्ञवान् सत्यवान्ना तपुर्मूर्धा तापकतेजा
+> घृतान्नः पावकः शोधकश्च भवति ॥
+
+##### Gist of the bhāṣya
+
+O gods, make Agni, who is shining, together with the other fires, your messenger in the sacrifice, which is free from crookedness; he is the most worthy of worship. That Agni, though a god, stands firm among mortals; he is possessed of the sacrifice and of truth, of heating brilliance at his head, and has ghee for food; he is the purifier.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O gods)
+- यः (*yaḥ*)—which Agni
+- मर्त्येषु (*martyeṣu*)—among men
+- निध्रुविः (*nidhruviḥ*)—stands firm for ever
+- ऋतावा (*ṛtāvā*)—possessed of truth
+- तपुर्मूर्धा (*tapurmūrdhā*)—possessed of sharp brilliance
+- धृतान्नः (*dhṛtānnaḥ*)—having ghee itself as his food
+- पावकः (*pāvakaḥ*)—the purifier
+- देवं (*devaṃ*)—shining
+- अग्निभिः (*agnibhiḥ*)—together with the other fires
+- सजोषाः (*sajoṣāḥ*)—united
+
+### Printed p. 669
+
+- यजिष्ठं (*yajiṣṭhaṃ*)—the most worthy of worship
+- अग्निं (*agniṃ*)—the sacrificial fire
+- अध्वरे (*adhvare*)—in the sacrifice
+- दूतं (*dūtaṃ*)—as a messenger, the bearer of the oblation
+- कृणुध्वं (*kṛṇudhvaṃ*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, make the sacrificial fire, which stands firm for ever among men, which is truthful, of sharp brilliance, has ghee for food and is the purifier, which is shining, united with the other fires and the most worthy of worship, your messenger in the sacrifice, the bearer of the oblation.
+
+##### English translation
+Appoint (gods) the most adorable, divine Agni, consentient with (all other) fires, your messengar at the sacrifice : him who is permanently present amongst men, the observer of truth, who is crowned with flame, the purifier, whose food is butter.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रोथदश्वो न युवसेऽविष्यन्यदा महः संवरणा द्व्यस्थात् ।  
+> आदस्य वातो अनु वाति शोचिरध स्म ते व्रजनं कृष्णमस्ति ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रोथत् । अश्वः । न । यवसे । अविष्यन् । यदा । महः । संवरणात् । वि । अस्थात् ॥  
+> आत् । अस्य । वातः । अनु । वाति । शोचिः । अध । स्म । ते । व्रजनं । कृष्णं । अस्ति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यवसे घासेऽविष्यन् भक्षयन् प्रोथत् शब्दं कुर्वन् संचरन्वाश्वो न
+> अश्व इव महो महतः संवरणान्निरोधात् दावरूपोऽग्निर्यदा व्यस्थात् सततेषु
+> वृक्षेषु वितिष्ठते अत्तदास्याग्नेः शोचिरर्चिरनु वातो वाति । अथ प्रत्यक्षस्तुतिः ।
+> आधानंतरं हे अग्ने ते तव व्रजनं वर्त्म कृष्णमस्ति । भवति । स्मेति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+Like a horse making a sound and moving about, eating the grass, when Agni, in the form of a forest fire, from the great enclosure, spreads out among the continuous trees, then the wind blows along with this Agni's flame. Now follows a direct praise: thereafter, O Agni, your path becomes black.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यवसे (*yavase*)—the ready grass
+- अविष्यन् (*aviṣyan*)—while eating
+- प्रोथत् (*prothat*)—making a sound and prancing
+- अश्वो न (*aśvo na*)—like a horse (Agni)
+- महः (*mahaḥ*)—great
+
+### Printed p. 670
+
+- संवरणात् (*saṃvaraṇāt*)—emerging from the middle of the surrounding forest
+- यदा (*yadā*)—when
+- व्यस्थात् (*vyasthāt*)—he spreads over the trees and the like and stands
+- आत् (*āt*)—immediately
+- अस्य (*asya*)—of this Agni
+- शोचिः (*śociḥ*)—the flame
+- वातः (*vātaḥ*)—the wind
+- अनु वाति (*anu vāti*)—blows (O Agni)
+- अध (*adha*)—thereafter
+- ते (*te*)—your
+- व्रजनं (*vrajanaṃ*)—path
+- कृष्णं (*kṛṣṇaṃ*)—black in colour
+- अस्ति स्म (*asti sma*)—does it not become
+
+##### भावार्थ (Bhāvārtha)
+
+Like a horse that prances, neighing, while eating the ready grass in a meadow, Agni, emerging from the middle of the great forest that encloses on all sides, when he spreads over the trees and the like and stands, immediately the wind blows his flame. O Agni, immediately the path you have burnt becomes black in colour.
+
+##### English translation
+When, like a neighing steed about to feed upon the forage, (Agni) springs up from the vast-enclosing (forest), then the wind fans his flame : and black, (Agni), is your course.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्यस्य ते नवजातस्य वृष्णोऽग्ने चरंत्यजरा इधानाः ।  
+> अच्छा द्यामरुषो धूम एति सं दूतो अग्न ईयसे हि  
+> देवान् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । यस्य । ते । नवजातस्य । वृष्णः । अग्ने । चरंति । अजराः । इधानाः ।  
+> अच्छ । द्यां । अरुषः । धूमः । एति । सं । दूतः । अग्ने । ईयसे । हि । देवान् । ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नवजातस्य नवप्रादुर्भावस्य वृष्णो वर्षितुर्यस्य ते तवाजरा
+> जरारहिता ज्वाला इधाना उच्चरंति उद्दच्छंति अस्यारुष आरोचमानो धूमो
+> द्यामच्छ दिवमभ्येति । गच्छति । हे अग्ने त्वं दूतः सन् देवान् समियसे हि ।
+> संप्रापोषि च ॥
+
+##### Gist of the bhāṣya
+
+O Agni, newly born, a showerer, your unaging, kindled flames rise up. The shining smoke of this (Agni) goes towards heaven. O Agni, you, being a messenger, go to the gods and reach them.
+
 ---
 
-**Progress note:** Done through printed p. 663. Ṛk 4-9 of Sūkta 2 (Maṇḍala 7), pp. 658-663
+**Progress note:** Done through printed p. 670. Ṛk 9-11 of Sūkta 2, Sūkta 3 introduction and Ṛk 1-3, pp. 664-670
