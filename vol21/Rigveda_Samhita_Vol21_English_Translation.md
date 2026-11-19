@@ -10649,6 +10649,283 @@ O host of Maruts, I praise you, such as you are (the words of address are damage
 - मायिनं (*māyinaṃ*)—endowed with wisdom
 - अर्यमणं न (*aryamaṇaṃ na*)—like Aryaman
 
+### Printed p. 246
+
+- मंद्रं (*maṃdraṃ*)—praiseworthy
+- विष्णुं न (*viṣṇuṃ na*)—like Vishnu
+- सृप्रभोजसं (*sṛprabhojasaṃ*)—possessed of abundant wealth
+- तं (*taṃ*)—well-known
+- वं (*vaṃ*)—your host of Maruts
+- आदिशे (*ādiśe*)—for the bestowal of wealth
+- स्तुषे (*stuṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O host of Maruts, I praise your well-known host of Maruts, which like Indra has excellent works, like Varuṇa is endowed with wisdom, like Aryaman is praiseworthy, and like Vishnu possesses abundant wealth, for the bestowal of wealth.
+
+##### English translation
+I praise you, the (company of Maruts), for the distribution of wealth ; (the company that), like Indra, is the achiever of great deeds ; sagacious like Varuna ; adorable as Aryaman, and munificent as Vishnu.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे॒षं शर्धो॒ न मारु॑तं तुवि॒ष्वण्य॑न॒र्वाणं॑ पू॒षणं॒ सं ॑ ॒
+> यथा॑ श॒ता ।  
+> सं स॒हस्रा॒ कारि॑षच्चर्ष॒णिभ्य॒ आ आ॒विर्गू॒ळ्हा वसू॑ करत्सु॒वेदा॑ ॒ ॑
+> नो वसू करत् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वेषं । शर्धः । न । मारुतं । तुविस्वनि । अनर्वाणं । पूषणं । सं । यथा । शता ।  
+> सं । सहस्रा । कारिषत् । चर्षणिभ्यः । आ । आविः । गूळ्हा । वसु । करत् । सुवेदा ।  
+> नः । वसु । करत् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नेति संप्रत्यर्थे । न संप्रतीदानीं त्वेषं दीप्तं तुविष्टणि बहुस्तनमनर्वाणमप्रत्यृतं शत्रुभिरनभिगतं पूषणं पोषकं मारुतं मरुत्संघरूपमीदृशं
+> शर्धो बलं सौमाति शेषः । स च मरुद्दणो यथा येन प्रकारेण कता
+
+##### Gist of the bhāṣya
+
+The word "na" is used in the sense of "now". Now I praise (the verb "I praise" is to be supplied) the might of the host of the Maruts: brilliant, loud-sounding, unassailed, that is, not met by enemies, nourishing, a might in the form of the host of the Maruts. And that host of the Maruts, in the manner in which it would make (the sentence continues on the next page).
+
+### Printed p. 247
+
+> शतसंख्याकानि धनानि सं सहैव चर्षणिभ्यो मनुष्येभ्योऽस्मभ्यं कारिषत् कुर्यात् ।
+> आकारः समुच्चये । ऋथा वा सहस्रा सहस्रसंख्याकानि धनानि च सं सहैव कारिषत्
+> कुर्यात् तथा सौमाति पूर्वत्रान्वयः । अपि च स मरुद्धणो गूढा गूढानि
+> संवृतानि वसु वसूनि धनान्याविष्करत् । अस्मभ्यमाविष्करोतु । तथा वसु वसूनि धनानि
+> सुवेदा सुलभानि च नोऽस्माकं करत् । करोतु । यदा तु लिंगादियं पौष्टी
+> तदा मारुतं शर्ध इव त्वेषं पूषणं पूषकमेतत्संज्ञं देवं सौमाति
+> योजनीयं ॥
+
+##### Gist of the bhāṣya
+
+It would make for us men, together, hundreds of riches; the particle "ā" is in the sense of conjunction. Or else: in the way that it would make thousands of riches together, so I praise; this is connected with what precedes. And further: may that host of the Maruts bring to light for us the hidden, concealed riches, and may it make riches easy to find for us. But when this Ṛk is taken as addressed to Pūṣan, by its gender, then the connection is: I praise the god named Pūṣan, the nourisher, brilliant like the might of the Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- शता (*śatā*)—hundreds of riches
+- सं (*saṃ*)—at one time
+- चर्षणिभ्यः (*carṣaṇibhyaḥ*)—for us, the sacrificers
+- कारिषत् (*kāriṣat*)—come into being
+- सहस्रा (*sahasrā*)—and thousands of riches
+- सं (*saṃ*)—come into being at one time (for that purpose)
+- न (*na*)—now
+- तेषं (*teṣaṃ*)—the radiant
+- तुविष्टणि (*tuviṣṭaṇi*)—the loud-sounding
+- अनर्वाणं (*anarvāṇaṃ*)—the unassailed
+- पूषणं (*pūṣaṇaṃ*)—the nourishing
+- मारुतं (*mārutaṃ*)—of the host of Maruts
+- शर्धः (*śardhaḥ*)—the might (I praise)
+- सः (*saḥ*)—that same host of Maruts
+- गूळ्हा (*gūḷhā*)—hidden
+- वसु (*vasu*)—riches
+- आविः करत् (*āviḥ karat*)—has made manifest
+- नः (*naḥ*)—to us
+- वसु (*vasu*)—riches
+- सुवेदा (*suvedā*)—so as to be easily known
+- करत् (*karat*)—help
+
+##### भावार्थ (Bhāvārtha)
+
+In order that riches in hundreds and in thousands may come into being for us, the sacrificers, for that very purpose I now praise the might of the host of the Maruts: radiant, loud-sounding, unassailed and nourishing.
+
+##### English translation
+I now (glorify) the brilliant vigour of the company of the Maruts, loud-sounding, irresistible, cherishing, whereby hundreds and thousands (of treasures) are bestowed collectively upon men ; may that (company) make hidden wealth manifest; may it render the wealth easily accessible to us.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मा॑ पूष॒न्नु प॑ द्रव॒ शंसि॑षं॒ नु ते॑ अपिक॒र्ण आ॑घृणे ।  
+> अ॒घा अ॒र्यो अरा॑तयः ॥ १६ ॥
+
+### Printed p. 248
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मा । पूषन् । उप । द्रव । शंसिषं । नु । ते । अपि कर्णॆ । अघृणे ।  
+> अघाः । अर्यः । अरातयः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् मा मामा द्रव रक्षणार्थमभिगच्छ । हे अघृणे आगतदीप्ते
+> अघा आहंत्रीरर्योऽरीरभिगंत्रीररातयः शत्रुभूताः प्रजा उप द्रव । बाधस्व ॥
+> उपपूर्वो द्रवतिर्बाधायां वर्तते । यथा प्रजां पशून्यजमानस्योप दोद्राव ।
+> तै. सं १-५-१-४ । इति ॥ अहं च ते तवापिकर्णॆ कर्णावपिगते सविापदेशे स्थितः
+> सन् नु क्षिप्रं शंसिषं । प्रशंसामि ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, run to me; come towards me for protection. O Aghṛṇi, of arrived radiance, run upon the enemy people: those who are slayers, who come against us, who are hostile; oppress them. The root "dru" with the prefix "upa" has the sense of oppressing, as in the passage "as it ran upon the offspring and the cattle of the sacrificer" (Tai. Saṃ. 1-5-1-4). And I, standing at your ear, close beside you, quickly praise you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O Pūṣan, the nourishing god
+- मा (*mā*)—facing me
+- आ द्रव (*ā drava*)—be kind, for protection
+- आघ्रणे (*āghraṇe*)—O god of exceeding radiance
+- अघाः (*aghāḥ*)—the most sinful
+- आर्यः (*āryaḥ*)—who fall upon us and injure us
+- अरातयः (*arātayaḥ*)—the enemies
+- उप (द्रव) (*upa (drava)*)—oppress and drive them away
+- ते (*te*)—your
+- अपिकर्णे (*apikarṇe*)—standing right beside the ear
+- नु (*nu*)—quickly
+- शंसिषं (*śaṃsiṣaṃ*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, nourisher of the world, be kind and turn towards me for protection. O god of exceeding radiance, oppress and drive away the enemies, the most sinful, who fall upon us and injure us. Standing right beside your ear, I quickly praise you.
+
+##### English translation
+Hasten, Pushan, to me: (repel), bright deity, (all) deadly assailing foes : close at your side I repeat your praise.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा का॑कं॒बीर॒मुद्वृ॑हो॒ वन॒स्पति॒मश॑स्ती॒र्वि हि नीन॑शः ।  
+> मोत सूरो॒ अह॑ ए॒वा च॒न ग्री॒वा आ॒दध॑ते॒ वेः ॥ १७ ॥
+
+### Printed p. 249
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । काकंबीरं । उत् । वृहः । वनस्पतिं । अशस्तीः । वि । हि । नीनशः ।  
+> मा । उत । सूरः । अहरिति । एव । चन । ग्रीवाः । आदधते । वेरिति वेः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यषिः पुत्रपौत्रसहितमात्मानं बहुपक्ष्याश्रयवनस्पतित्वेन रूपयन् तस्यानुद्वारमाशास्ते । हे पूषन् मा काकंबीरं काकानां भर्तारं वनस्पतिं वृक्षं
+> मोद्वहः । उद्धर । मा बाधस्व । पुत्रपौत्रादिभिः सखीभूतैरुपेतमन्मैश्च बहुभिराश्रितं मां मा हिंसीरित्यर्थः । हितब्धश्चार्थे । अशस्तीरशंसनीया अशंसनीयस्य
+> दुःखस्य कीर्तयित्रिर्वा शत्रुभूताः प्रजा वि नीनशो हि । विनाशय च । उतापि च
+> सूरः प्रेरकः शत्रुरेवैवं माहः । आस्मान्मा हार्षित् ॥ एवमित्यभिसंबंधादाख्यातस्योदात्तवत्त्वाच्चाश्रुतोऽपि यथेत्येतद्वाक्येऽध्याह्रियते ॥ ग्रीवाः । गिरं
+> त्यंतरवस्थापयंति बध्वंतीति ग्रीवा दामानि । यथा व्याधा वेः पक्षिणो हरणार्थं
+> ग्रीवा दामानि जालरूपाण्यादधते भूम्यां निदधते तैश्च निहितैः पक्षिणो
+> हरंत्येवमस्मान् बंधनोपायैः शत्रुर्मा हार्षिदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The seer, picturing himself together with his sons and grandsons as a tree that is the resort of many birds, asks that it not be uprooted. O Pūṣan, do not uproot the tree that supports crows; do not oppress me, who am sheltered by many, joined by sons, grandsons and others who are my friends and by many other people: this is the meaning. The particle "hi" is in the sense of "and". Destroy completely the hostile people who are unpraiseworthy, or who proclaim unpraiseworthy sorrow. And further: may the enemy, the impeller, not carry us off. The word "so" (as, in the manner that) is supplied in this sentence, though not heard, because of the connection with "evam" and because the verb is accented. "Grīvāḥ" are the nooses that bind. As hunters lay on the ground snares in the form of nets, nooses, in order to catch birds, and birds are caught by them when so laid, so may the enemy not carry us off by means of devices for binding: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- काकंबीरं (*kākaṃbīraṃ*)—that supports crows
+- वनस्पतिं (*vanaspatiṃ*)—this tree
+- मा उद्वहः (*mā udvahaḥ*)—do not overturn
+- अशस्तिः (*aśastiḥ*)—the unpraiseworthy enemy peoples
+- वि नीनशः हि (*vi nīnaśaḥ hi*)—destroy completely
+- उत (*uta*)—and
+- ग्रीवाः (*grīvāḥ*)—nets made of ropes
+- वेः (*veḥ*)—spread out for the catching of birds
+- आदधते (*ādadhate*)—in the way in which they catch birds
+- एव चन (*eva cana*)—in the same way
+- सूरः (*sūraḥ*)—the enemy who is bent on it
+- मा (*mā*)—me
+- अहः (*ahaḥ*)—let him not carry off
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, do not overturn me, who am the giver of shelter and the nourisher of sons, grandsons and all the rest, like a tree that gives shelter to crows and all other birds, as one fells a tree. Destroy completely the unpraiseworthy enemy peoples. And as nets made of ropes, spread out for the catching of birds, catch the birds, in the same way may the enemy who is bent on seizing me not carry me off.
+
+### Printed p. 250
+
+##### English translation
+Uproot not, Pushan, the forest lord, with its progeny of crows: utterly destroy those who are my revilers: let not the adversary ensnare me, as (fowlers) set snares for birds.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दृते॑रिव तेवृ॒कम॑स्तु स॒ख्यं ।  
+> अच्छि॑द्रस्य दध॒न्वतः॒ सुपू॑र्णस्य दध॒न्वतः॑ ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दृतेः इव । ते । अवृकं । अस्तु । सख्यं ।  
+> अच्छिद्रस्य । दधन् ऽवतः । सुपूर्णस्य । दधन् ऽवतः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् ते तव सख्यं सखित्वमवृकं बाधकरहितं सर्वदैकरूप्येण
+> वर्तमानमस्माकमस्तु । सर्वदा भवतु । दृतेरिव । यथा दृतेस्तदीयं सख्यमविच्छिन्नं तद्वत् । कीदृशो दृतिः । अच्चिद्रस्य छिद्ररहितस्य संश्लिष्टस्य दधन्वतो दधिमतः
+> सुपूर्णस्य दध्ना सुष्टु पूरितस्य । पुनर्दधन्वत इति दध्नोऽधिकत्वद्योतनार्थः ।
+> ईदृशो दृतिः सर्वदा पूष्टो रथे वर्तते । स इव वयमपि तव सखायो
+> भवेमेत्यृषिराशास्ते ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, may your friendship with us be free of hindrance, always continuing in one form; may it be so always. "Like that of the leather bag": as the friendship of the bag with its owner is unbroken, so may it be. What is the bag like? Without a hole, closely joined, containing curds, well filled with curds; the repetition of "containing curds" is to show the abundance of curds. Such a bag is always on the chariot of Pūṣan. Like it, may we also be your friends: thus the seer wishes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अच्चिद्रस्य (*accidrasya*)—without a break
+- दधन्वतः (*dadhanvataḥ*)—holding curds
+- सुपूर्णस्य (*supūrṇasya*)—and full of curds
+- दृतेः इव (*dṛteḥ iva*)—as your bag is secure
+- ते (*te*)—with you
+- सख्यं (*sakhyaṃ*)—my friendship
+- अवृकं (*avṛkaṃ*)—without obstacle and everlasting
+- अस्तु (*astu*)—may it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, as your bag, without a break, holding exceeding curds and full of curds, is secure, so may my friendship with you be without obstacle and everlasting.
+
+### Printed p. 251
+
+##### English translation
+May your frindship be unbroken, like (the surface) of a skin without a flaw, containing curds.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रो हि मत्यै॒रसि॑ स॒मो दे॒वैरु॒त श्रि॒या ।  
+> अ॒भि ख्यः॑ पूष॒न्कृत॑नासु न॒स्त्वमवा॑ नू॒नं यथा॑ पु॒रा ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परः । हि । मर्त्यैः । असि । समः । देवैः । उत । श्रिया ।  
+> अभि । ख्यः । पूषन् । पृतनासु । नः । त्वं । अव । नूनं । यथा । पुरा ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् मर्त्यैर्मर्त्येभ्यो मनुष्येभ्यः परः परस्तात्स्थितोऽसि । श्रिया
+> संपदा देवैरुत सर्वैर्देवैश्च समः समानोऽसि । अतस्त्वं पृतनासु संग्रामेषु
+> नोऽस्मानभि ख्यः । अभिपश्यानुग्रहदृष्ट्या विलोकय । यथा पुरा येन प्रकारेण
+> पूर्वकालीनान्पुरुषान्ररक्षिथ एवं नूनमद्येदानीमव । आस्मान्रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, you stand beyond mortals, that is, men; and by your wealth you are equal to all the gods. Therefore, in battles, look upon us: regard us with a look of favour. In the way in which you protected men of former times, so now, today, protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O Pūṣan, you
+- मर्त्यैः (*martyaiḥ*)—than men
+- परः (*paraḥ*)—greatly superior
+- असि हि (*asi hi*)—you are
+- श्रिया (*śriyā*)—by your wealth
+- देवैः उत (*devaiḥ uta*)—with all the gods
+- समः (*samaḥ*)—you are equal (therefore)
+- त्वं (*tvaṃ*)—you
+- पृतनासु (*pṛtanāsu*)—in battles
+- नः (*naḥ*)—us
+- अभि ख्यः (*abhi khyaḥ*)—look with a favouring eye
+- यथा (*yathā*)—in the way
+- पुरा (*purā*)—in former times
+- नूनं (*nūnaṃ*)—now
+- अव (*ava*)—protect us
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, you are greatly superior to men. By your wealth you are equal to all the gods. Therefore look upon us with a favouring eye in battles. As in former times you protected those who worship you, so protect us now also.
+
 ---
 
-**Progress note:** Done through printed p. 245. Sukta 48 Rk 9-14 (pp. 240-245)
+**Progress note:** Done through printed p. 251. Sukta 48 Rk 14 end-19 (pp. 246-251)
