@@ -23100,6 +23100,254 @@ O Indra, you released and made flow the water of the rivers, which was great, he
 ##### English translation
 You have set free the greatly obstructed and arrested water of the rivers, the afflux of the waters : you have directed them, Indra, upon their downward paths : you have sent them rapidly down to the ocean.
 
+### Printed p. 670
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा ता विश्वा॑ चकृ॒वांस॒मिद्रं॑ म॒हामु॒ग्रम॑जु॒र्यं स॑हो॒दां ।  
+> सु॒वीरं॑ त्वा सायु॒धं सु॒वज्र॒मा ब्रह्म॒ नव्य॒मव॑से ववृत्यात् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । ता । विश्वा । चकृवांसं । इंद्रं । महां । उग्रं । अर्जुं । सहःदां ।  
+> सुवीरं । त्वा । सुआयुधं । सुवज्रं । आ । ब्रह्म । नव्यं । अवसे । ववृत्यात् ॥१३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां नव्यं नूतनमन्यैरकृतपूर्वं ब्रह्मास्माभिः कृतं स्तोत्रमवसेऽस्माकं रक्षणया ववृत्यात्। आवर्तयतु । कीदृशं त्वां । एवैवमुक्तप्रकारेण
+> ता तानि प्रसिद्धानि विश्वा विश्वानि सर्वाणि कर्माणि चकृवांसं कृतवंतमिंद्रमीश्वरं
+> महां महांतमुग्रमोजस्विनमजुर्यमजरं सहोदां सहसो बलस्य दातारं
+> सुवीरं शोभना वीरा मरुतो यस्य तं स्वायुधं शोभनायुधं सुवज्रं
+> शोभनवज्रोपेतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may our new prayer, a hymn made by us and never made before by others, turn you towards our protection, that is, bring you to us for our protection. What kind of Indra? One who, in the manner stated, has done all those famous deeds; the lord; great, mighty; fierce, that is, full of vigour; unaging; the giver of might, that is, of strength; one whose Maruts are excellent heroes; well-armed, that is, having excellent weapons; and furnished with an excellent thunderbolt.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एव (*eva*)—as described above
+- ता विश्वा (*tā viśvā*)—all the deeds
+- चकृवांसं (*cakṛvāṃsaṃ*)—who has accomplished
+- इंद्रं (*iṃdraṃ*)—who is the lord
+- महां (*mahāṃ*)—great-souled
+- उग्रं (*ugraṃ*)—full of vigour
+- अजुर्यं (*ajuryaṃ*)—free from decay
+- सहोदां (*sahodāṃ*)—the giver of strength
+- सुवीरं (*suvīraṃ*)—having heroic Maruts
+- स्वायुधं (*svāyudhaṃ*)—having excellent weapons
+- सुवज्रं (*suvajraṃ*)—distinguished by the thunderbolt
+- त्वा (*tvā*)—you
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—our hymn
+- अवसे (*avase*)—for our protection
+- आ ववृत्यात् (*ā vavṛtyāt*)—may bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who, as described above, have accomplished all deeds, who are the lord, great-souled, full of vigour, free from decay, the giver of strength, accompanied by heroic Maruts, possessed of excellent weapons and distinguished by the thunderbolt: may our new hymn bring you to us for our protection.
+
+### Printed p. 671
+
+##### English translation
+May our new prayer bring to our protection you, Indra, who are the maker of all these (things that exist) : who are mighty, fierce, undecaying the giver of strength, having excellent descendants, the Maruts, well-armed, the bearer of the thunderbolt.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ वाजा॑य॒ श्रव॑स इ॒षे च॑ रा॒ये धे॑हि द्यु॒मत॑ इंद्र॒  ॑
+> विप्रा॑न् ।  
+> भ॒रद्वा॑जे नृ॒वत॑ इंद्र सू॒रीन्दि॒वि च॑ स्मैधि॒ पार्ये॑ न इंद्र ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । वाजाय । श्रवसे । इषे । च । राये । धेहि । द्युमतः । इंद्र । विप्रान् ।  
+> भरत्ऽवाजे । नृवतः । इंद्र । सूरीन् । दिवि । च । स्म । एधि । पाये । नः । इंद्र ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स त्वं द्युमतो दीप्तिमतो विप्रान्मेधाविनो नोऽस्मान्वाजाय
+> बलाय श्रवसे यशस इषे चान्नाय च राये धनाय धेहि । धारय । अपि च हे
+> इंद्र भरद्वाजे मयि नृवतो मनुष्यवतः । परिचारकयुक्तानित्यर्थः । सूरीन् तव
+> स्तोत्थन् पुत्रपौत्रान् कुर्विति शेषः । हे इंद्र त्वं पार्ये पारणीय आगामिनि
+> च दिवि दिवस एधि स्म नः । अस्माकं रक्षिता खलु भवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, such as you are, uphold us, who are radiant and wise, for strength, for fame, for food and for wealth; that is, sustain us. Further, O Indra, in me, Bharadvāja, make those who have men, that is, attendants, your praisers, my sons and grandsons; the verb is to be supplied. O Indra, be our protector on the coming day, the day to be crossed; the meaning is, be indeed our guardian.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—you, the famous
+- द्युमतः (*dyumataḥ*)—who are radiant
+- विप्रान् (*viprān*)—and wise
+- नः (*naḥ*)—us
+- वाजाय (*vājāya*)—for strength
+- श्रवसे (*śravase*)—for fame
+- इषे (*iṣe*)—for food
+- राये च (*rāye ca*)—and also for wealth
+- धेहि (*dhehi*)—uphold
+- इंद्र (*iṃdra*)—O Indra
+- भरद्वाजे (*bharadvāje*)—to me, Bharadvāja
+- नृवतः (*nṛvataḥ*)—accompanied by attendants
+- सूरीन् (*sūrīn*)—sons and others who praise you (grant)
+- इंद्र (*iṃdra*)—O Indra
+- पारै च दिवि (*pārai ca divi*)—on the coming days also
+- नः (*naḥ*)—to us
+- एधि स्म (*edhi sma*)—be the protector
+
+### Printed p. 672
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the famous, who are radiant and wise: nourish us by giving us food, fame, strength and wealth. Grant to me, Bharadvāja, sons and others who have attendants and who praise you. O Indra, be our protector on the coming days also.
+
+##### English translation
+Resplendent Indra, uphold us who are devout, for (the obtaining of) food, of sustenancec, of nourishment, of wealth : bestow upon Bharadwaja pious posterity, with numerous attendants : be with us, Indra, every future day.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, which is the conclusion of this sūkta, and in the next Ṛk, the seer Bharadvāja prays to Indra to give him wealth and the like, food, heroic sons and a long life.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । वाजं । देवहितं । सनेम । मदेम । शतहिमाः । सुवीराः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षष्ठेऽहनि तृतीयसवने ब्राह्मणाच्छंसिशस्त्रेऽनुरूपतृचस्याया वाजमिति
+> तृतीया । सूत्रितं च । अया वाजं देवहितं सनेमेति स्तोत्रियानुरूप् ।
+> आ. ८-३ । इति ॥
+> आयानया स्तुत्या देवहितं देवेन द्योतमानेंद्रेण दत्तं वाजमन्नं
+> सनेम । वयं संभजेम । अपि च सुवीराः शोभनपुत्रोपेता वयं शतहिमाः
+> शतं संवत्सरान् मदेम । हृष्याम ॥
+
+##### Gist of the bhāṣya
+
+On the sixth day, at the third pressing, in the śastra of the Brāhmaṇācchaṃsin, the third verse of the anurūpa triplet is "ayā vājam". It is also set out in the sūtra: अया वाजं देवहितं सनेमेति स्तोत्रियानुरूप् (*ayā vājaṃ devahitaṃ sanemeti stotriyānurūp*) (Ā. 8-3). By this praise may we share the food given by Indra, the shining god, who is the benefactor of the gods. And, blessed with excellent sons, may we rejoice for a hundred years.
+
+### Printed p. 673
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अया (*ayā*)—as the result of this praise
+- देवहितं (*devahitaṃ*)—given by Indra
+- वाजं (*vājaṃ*)—the food
+- सनेम (*sanema*)—may we enjoy
+- सुवीराः (*suvīrāḥ*)—we, together with excellent sons
+- शतहिमाः (*śatahimāḥ*)—a hundred years
+- मदेम (*madema*)—may we be content
+
+##### भावार्थ (Bhāvārtha)
+
+May we enjoy the food given by Indra as the result of this praise. Together with excellent sons, may we live happily for a hundred years.
+
+##### English translation
+May we, by this (praise), obtain food granted by the deity : may we. blessed with excellent male descendants, be happy for a hundred wintness.
+
+## Sūkta 18 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमु ष्टुहीति पंचदशर्चं तृतीयं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमृंद्रं ।
+> तथा चानुक्रम्यते । तमु ष्टुहीति ॥ अभिजिति निष्केवल्य एतन्निविद्वानं । सूत्रितं च ।
+> तमु ष्टुहीति मध्यंदिनः । आ. ८-५ । इति ॥ इंद्राग्न्योः कुलायनाम्मेकाहेऽपि
+> निष्केवल्य एतन्निविद्वानं । सूत्रितं च । तिष्ठा हरी तमु ष्टुहीति मध्यंदिनः । आ. ९-७ ।
+> इति ॥ महाव्रतेऽपि निष्केवल्ये ॥ तथैव पंचमारण्यके सूत्रितं । तमु ष्टुहि यो
+> अभिभूत्योजाः सुत इत्यं निमिश्ल इंद्र सोम इति त्रीणि । ऐ. आ. ५-२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning "tam u ṣṭuhi" has fifteen Ṛks and is the third sūkta; its seer is Bharadvāja, its metre Triṣṭubh and its deity Indra. Accordingly the Anukramaṇī says: "tam u ṣṭuhi". In the Abhijit sacrifice it is the nivid-position hymn of the Niṣkevalya śastra; and it is aphorized: "tam u ṣṭuhi, midday" (Ā. 8-5). In the Kulāyin Ekāha of Indra and Agni too it is the nivid-position hymn of the Niṣkevalya; and it is aphorized: "tiṣṭhā harī, tam u ṣṭuhi, midday" (Ā. 9-7). In the Mahāvrata also it belongs to the Niṣkevalya. And in the fifth Āraṇyaka it is aphorized: तमु ष्टुहि यो अभिभूत्योजाः सुत इत्त्वं निमिश्ल इंद्र सोम इति त्रीणि (*tamu ṣṭuhi yo abhibhūtyojāḥ suta ittvaṃ nimiśla iṃdra soma iti trīṇi*) (Ai. Ā. 5-2-2).
+
+The Anuvāda: this sūkta beginning तमु ष्टुहि (*tamu ṣṭuhi*) is the third sūkta in the second anuvāka. It has fifteen Ṛks. Bharadvāja is the seer of this sūkta, Indra the deity, and Triṣṭubh the metre. In the Anukramaṇī it is stated as तमु ष्टुहि (*tamu ṣṭuhi*). In the Abhijit sacrifice, among the mantras of the Niṣkevalya śastra that are recited, this sūkta तमु ष्टुहि (*tamu ṣṭuhi*) is to be added and recited as the nivid-position hymn; this is set out in the Āśvalāyana Śrautasūtra by the sūtra तमु ष्टुहि मध्यंदिनः (*tamu ṣṭuhi madhyaṃdinaḥ*) (Ā. 8-5). In the sacrifice called Kulāya, performed with Indra and Agni as its object, this sūkta is likewise to be recited as the nivid-position hymn in the mantras of the Niṣkevalya śastra; this is set out in the Āśvalāyana Śrautasūtra by the sūtra तिष्ठा हरी तमु ष्टुहीति (*tiṣṭhā harī tamu ṣṭuhīti*)
+
+### Printed p. 674
+
+मध्यंदिनः (*madhyaṃdinaḥ*) (Ā. 9-7). And in the sacrifice called Mahāvrata also, the use of this sūkta in the mantras of the Niṣkevalya śastra is pointed out in the fifth Āraṇyaka of the Aitareya Āraṇyaka (Ai. Ā. 5-2-2) by the sentence तमु ष्टुहि यो अभिभूत्योजाः सुत इत्त्वं निमिश्ल इंद्र सोम इति त्रीणि (*tamu ṣṭuhi yo abhibhūtyojāḥ suta ittvaṃ nimiśla iṃdra soma iti trīṇi*).
+
+- Maṇḍala 6, Anuvāka 2, Sūkta 18
+- Aṣṭaka 4, Adhyāya 6, Varga 4, 5, 6
+- Number of Ṛks in the sūkta: 15
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ ष्टुहि॒ यो अ॒भिभू॑त्योजा व॒न्वन्नवा॑तः पुरुहू॒त इंद्रः॑।  
+> अषा॑ळ्लमु॒ग्रं सह॑मानमा॒भिर्गी॒र्भिर्व॑र्ध वृष॒भं च॑र्षणी॒नां ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । स्तुहि । यः । अभिभूतिऽजाः । वन्वत् । अवातः । पुरुहूतः ।  
+> इंद्रः ।  
+> अषाळ्हं । उग्रं । सहमानं । अभिः । गीर्भिः । वर्ध । वृषभं । चर्षणीनां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिभूत्योजा अभिभावुकतेजा वन्वन् शत्रुन्निंसन् अवातः शत्रुभिरहिंसितः ॥
+> वनोतेर्निष्कांतस्य नञ्पूर्वस्य रूपं । यद्वा वातेर्वातं ॥ अनभिगतः पुरुहूतो
+> बहुभिराहूतो य इंद्रोऽस्तीति शेषः । हे भरद्वाज तमु ष्टुहि । तमेवेद्रं
+> स्तुहि । अपि चाभिर्वक्ष्यमाणाभिर्गीर्भिः स्तुतिरूपाभिर्वाग्निस्तमिंद्रं वर्ध । वर्धय ।
+> कीदृशं । अषाळ्हमनभिभूतमुग्रमुद्दूर्णमोजस्विनं वा सहमानं शत्रुनभिभवंतं
+> चर्षणीनां प्रजानां संबंधिनं वृषभं वर्षितारं ॥
+
+##### Gist of the bhāṣya
+
+Abhibhūtyojāḥ: of overpowering energy. Vanvan: one who kills enemies. Avātaḥ: unharmed by enemies; this is the form of the root van with the negative prefix. Or else another explanation is given with the sense "unapproached".**NOTE** Purūhūtaḥ: invoked by many. The words "who is Indra" are to be supplied. O Bharadvāja, praise him, that very Indra; and, further, make that Indra grow with these praises about to be spoken, which are in the form of hymns. What kind of Indra? Unsubdued; fierce, that is, vehement or full of vigour; overcoming, that is, overpowering enemies; the showerer, who belongs to the peoples.
+
+### Printed p. 675
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभिभूत्योजाः (*abhibhūtyojāḥ*)—having vigour that overpowers enemies
+- वन्वन् (*vanvan*)—the destroyer of enemies
+- अवातः (*avātaḥ*)—unharmed by anyone
+- पुरुहूतः (*puruhūtaḥ*)—invoked by many
+- यः (*yaḥ*)—who
+- इंद्रः (*iṃdraḥ*)—Indra there is
+- तमु (*tamu*)—him
+- ष्टुहि (*ṣṭuhi*)—praise
+- अषाह्ल्यं (*aṣāhlyaṃ*)—the irresistible
+- उग्रं (*ugraṃ*)—the fierce
+- सहमानं (*sahamānaṃ*)—having power to face enemies
+- चर्वणीनां (*carvaṇīnāṃ*)—for the peoples
+- वृषभं (*vṛṣabhaṃ*)—the Indra who grants what is desired
+- अभिः गीर्भिः (*abhiḥ gīrbhiḥ*)—with these same praises
+- वर्ध (*vardha*)—make grow
+
+##### भावार्थ (Bhāvārtha)
+
+Praise that very Indra who has vigour that overpowers enemies, who destroys enemies, who is unharmed by anyone and who is invoked by many. With these same praises make grow that Indra who is irresistible, fierce, possessed of power to face enemies and the granter of what is desired to the peoples.
+
+##### English translation
+Praise him who is Indra, the invoked of many, endowed with overpowering vigour, the destroyer (of foes), unharmed by them; exalt with these praises the irresistible, fierce, victorious Indra, the showerer (of benefits) upon mankind.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स यु॒ध्मः सत्वा॑ खज॒कृत्स॒मद्वा॑ तुविम्र॒क्षो न॑दनु॒मा ऋ॑जी॒षी ।  
+> बृ॒हद्रे॑णु॒श्च्यव॑नो॒ मानु॑षीणा॒मेकः॑ कृष्टी॒नाम॑भवत्स॒हावा॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स । युध्मः । सत्वा । खजकृत् । समत्वा । तुविम्रक्षः । नदनुमान् । ऋजीषी ।  
+> बृहत्रेणुः । च्यवनः । मानुषीणां । एकः । कृष्णीनां । अभवत् । सहवा ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 669. Ṛk 9 end to Ṛk 12 (VI.17), pp. 664-669
+**Progress note:** Done through printed p. 675. Ṛk 13-15 of VI.17, Sūkta 18 intro and Ṛk 1, pp. 670-675
