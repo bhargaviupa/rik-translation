@@ -23769,6 +23769,252 @@ He who is never perplexed, who is no engenderer of that which is in vain, whose 
 
 धुनि (*dhuni*) and चुमुरिः (*cumuriḥ*)—Usually the two names come together. Once Chumuri alone has come. Once it is also used as a dvandva (6-20-13); from this it is known how close the connection of the two is. Indra made the two fall into a sleep (2-15-9, 6-20-13, 7-19-4); the same happened to Chumuri alone (6-26-6). Together with Śambara, Pipru, Śuṣṇa and others, Indra destroyed them and demolished their forts.
 
+### Printed p. 688
+
+(6-18-8). For Dabhīti, who had prepared soma juice for him (6-20-13), Indra destroyed both of them, or made them fall asleep (10-113-9), and Dabhīti obtained from the gods the reward fitting his devotion (6-26-6). For Dabhīti Indra made thirty thousand dasyus fall asleep (4-30-21), and for him he bound the dasyus without a rope (2-13-9). And so on.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒दाव॑ता॒ त्वक्ष॑सा॒ पन्य॑सा च वृत्र॒हत्या॑य॒ रथ॑मिंद्र तिष्ठ ।  
+> धि॒ष्व वज्रं॒ हस्त॒ आ द॑क्षिण॒त्राभि प्र मं॑द पुरुदत्र मा॒याः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत्कअवता । त्वक्षसा । पन्यसा । च । वृत्रहत्याय । रथं । इंद्र । तिष्ठ ।  
+> धिष्ट्व । वज्रं । हस्ते । आ । दक्षिणत्रा । अभि । प्र । मंद । पुरुदत्र । मायाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र उदवतोद्धच्छता ॥ अवतिरत्र गतिकर्मा ॥ त्वक्षसा शत्रुणां तनूकर्त्रा
+> पन्यसा स्तुत्यतरेण बलेन युक्तस्वं वृत्रहत्याय शत्रुहननाय स्वकीयं रथं च
+> शिष्ट । आरोह । तथा दक्षिणत्रा दक्षिणे हस्ते पाणौ वज्रं स्वकीयमायुधमा धिष्ट ।
+> आधत्स्व । तदनंतरं हे पुरुदत्र बहुधनेंद्र त्वमासुरीर्माया अभ्यभिगम्य प्र
+> मंद । प्रकर्षेण जहि । अत्र मंदशिर्वधकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are endowed with a might that is rising upward (the root अवति (*avati*) has here the sense of motion), that makes the enemies thin, and that is more worthy of praise: for the killing of Vṛtra, that is, for the slaying of the enemies, mount your own chariot. Likewise, in the right hand place your own weapon, the thunderbolt. After that, O Indra of much wealth, approaching the māyās of the asuras, strike them down with force; here the word मंद (*maṃda*) has the sense of killing. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- उदवता (*udavatā*)—with rising speed
+- त्व क्षसा (*tva kṣasā*)—destroying enemies
+- पन्यसा (*panyasā*)—and worthy of praise; you endowed with such power
+- वृत्रहत्याय (*vṛtrahatyāya*)—for the destruction of Vṛtra
+- रथं च (*rathaṃ ca*)—your chariot
+- शिष्ठ (*śiṣṭha*)—mount and sit
+- दक्षिणा (*dakṣiṇā*)—of the right side
+- हस्ते (*haste*)—in the hand
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- आ धिष्ट (*ā dhiṣṭa*)—lift and hold
+- पुरुदत्र (*purudatra*)—O Indra, possessor of abundant wealth
+- मायाः अभि (*māyāḥ abhi*)—facing the deceits of the enemies
+- प्र मंद (*pra maṃda*)—conquer completely
+
+### Printed p. 689
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are endowed with a power of rising speed (growing), destroying enemies and worthy of praise, mount your chariot and sit in it for the destruction of Vṛtra. Lift up and hold the thunderbolt weapon in your right hand. O Indra, possessor of abundant wealth, face all the deceits of the enemies and conquer them completely.
+
+##### English translation
+(Endownd) with upward-rising, foe-thinning, and glorified (vigour), ascend your car fcr the destruction of Vritra: take the thunderbolt in your right hand, and baffle, giver of wealth, the devices (of the Asuras).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्न शुष्कं॒ वन॑मिंद्र हे॒ती रक्षो॒ नी ध॑क्ष्य॒शनि॒र्न भी॒मा ।  
+> गं॒भी॒रय॑ ऋ॒ष्टया॒ यो रु॒रोजाध्वा॑नयद्दुरि॒ता दं॒भय॑च्च ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । न । शुष्कं । वनं । इंद्र । हेतिः । रक्षः । नि । धक्षि । अशनिः । न । भीमा ।  
+> गंभीरया । ऋष्टया । यः । रुरोज । अध्वनयत् । दुःइता । दंभयत् । च ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्नाग्निरिव । नशब्द उपमार्थीयः । यथाग्निः शुष्कं नीरसं वनं वृक्षसमूहं दहति हे इंद्र हेतिस्त्वदीयं वज्रं तद्वच्छत्रून्नाशयति । तदेवाह ।
+> अशनिर्न भीमा । यथाशनिर्भीमा भवति तद्वद्भयंकरस्त्वं रक्षो राक्षसं नि धक्षि ।
+> वज्रेण नितरां दह । य इंद्रो गभीरया शत्रुभिरधर्षणीयया ऋष्टया
+> महत्या ॥ ऋष्ट इति महन्नामैतत् ॥ हेत्या रुरोज शत्रुवभंज । अध्वनयत्
+> युद्धे गर्जनलक्षणं शब्दं करोति । तथा च दुरिता दुरितानि दंभयच्च भिनत्ति च । स
+> त्वं रक्षो नि धक्षीति पूर्वेणान्वयः ॥
+> xx 44
+
+##### Gist of the bhāṣya
+
+The word न (*na*) is used in the sense of comparison. As fire burns up a dry, sapless forest, that is, a mass of trees, so, O Indra, your hetī, your thunderbolt, destroys the enemies. He says the same: as the thunderbolt is terrible, so you, fearsome, burn the rakṣas, the Rākṣasa, completely with the thunderbolt. You, Indra, who with a deep weapon that cannot be assailed by enemies, and with a great one (ऋष्ट (*ṛṣṭa*) is a name for "great"), have broken the enemies; who in battle make a sound of the nature of roaring; and who likewise pierce and break evils: you burn down the Rākṣasa; this is the connection with what came before. **NOTE**
+
+### Printed p. 690
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- शुष्कं (*śuṣkaṃ*)—dried-up
+- वनं (*vanaṃ*)—masses of trees
+- आग्निर्न (*āgnirna*)—as fire burns up
+- हेतिः (*hetiḥ*)—your thunderbolt weapon too destroys the enemies
+- यः (*yaḥ*)—you who
+- गंभीरया (*gaṃbhīrayā*)—endowed with great power
+- ऋष्टया (*ṛṣṭayā*)—and exceeding; with the weapon
+- रुरोज (*ruroja*)—have split the enemies
+- अध्वनयत् (*adhvanayat*)—have made a sound in battle
+- दुरिता (*duritā*)—all sins
+- दंभयच्च (*daṃbhayacca*)—and have destroyed (such a one)
+- अशनिः न भीमा (*aśaniḥ na bhīmā*)—you, terrible like your thunderbolt weapon
+- रक्षः (*rakṣaḥ*)—the Rākṣasas
+- नि धक्षि (*ni dhakṣi*)—destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as fire burns up masses of dried-up trees, so your thunderbolt weapon too destroys the enemies. You who have split the enemies with your great weapon of abundant power, and who, making a sound in battle, have destroyed all sins: you, terrible like your thunderbolt weapon, destroy the Rākṣasas completely.
+
+##### English translation
+In like manner as Agni consumes the dry forest, so, Indra, your weapon (destroys your enemies) as (formidable as your) fearful shaft, consume the Rakshasas : you who have crushed them with your resistless and mighty (weapon), have shouted aloud (in the combat) and demolished all evil things.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ स॒हस्रं॑ प॒थिभि॑रिंद्र रा॒या तुवि॑द्युम्न तुवि॒वाजे॑भिर॒र्वाक् ।  
+> या॒हि सू॑नो सहसो॒ यस्य॒ नू चि॒ददे॑व॒ ईशे॑ पुरुहूत॒  ॑
+> योतोः ॥ ११ ॥
+
+### Printed p. 691
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सहस्रं । पथिभिः । इंद्र । राया । तुविद्युम्न । तुविवाजेभिः । अर्वाक् ।  
+> याहि । सूनो इति । सहसः । यस्य । नु । चित् । अदेवः । ईशे । पुरुहूत ।  
+> योतोः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुविद्युम्न बहुधन हे सहसः सूनो बलस्य पुत्रेंद्र! ओजसो जातमुत
+> मन्य एनं । ऋग्वे १०-७३-१० । इति निगमांतरे बलपुत्रत्वं सिद्धं । राया धनेन
+> युक्तस्त्वं सहस्रं सहस्रेण । बहुभिरित्यर्थः । तुविवाजेभिर्बहुबलैः पथिभिः । पतंति
+> गच्छंत्यमीभिरिति पंथानो वाहाः । तैरर्वाक् मदभिमुखः सन् आ याहि । आगच्छ ।
+> हे पुरुहूत बहुभिराहूतेंद्र यस्य तव योतोर्बलादिभिः पृथक्कर्तुमदेवः
+> कश्चिदसुरो नू चिदीशे नेष्टे । अत्र नू चिदिति निषेधार्थे वर्तते ॥
+
+##### Gist of the bhāṣya
+
+O Tuvidyumna, Indra of much wealth, O son of strength (सहसः (*sahasaḥ*) is strength): the sonship of strength is established in another Vedic passage: ओजसो जातमुत मन्य एनं (*ojaso jātamuta manya enaṃ*) Ṛgve. 10-73-10 **GLOSS** **NOTE**. You, endowed with wealth, come with thousands, that is, with many, of very strong pathins; the pathins are the carriers, that is, those by which they go. Come facing me. O Puruhūta, Indra invoked by many: of you, to be separated from your strength and the rest, no asura, no one, is able in the least; here नू चित् (*nū cit*) is used in the sense of prohibition. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविद्युम्न (*tuvidyumna*)—possessor of abundant wealth
+- सहसः सूनो (*sahasaḥ sūno*)—and son of strength
+- इंद्र (*iṃdra*)—O Indra
+- राया (*rāyā*)—you who are endowed with wealth
+- सहस्रं (*sahasraṃ*)—of great number
+- तुविवाजेभिः (*tuvivājebhiḥ*)—of great strength
+- पथिभिः (*pathibhiḥ*)—accompanied by horses
+- अर्वाक् (*arvāk*)—facing us
+- आ याहि (*ā yāhi*)—be gracious
+- पुरुहूत (*puruhūta*)—O Indra, to be called by many
+- यस्य (*yasya*)—you whom
+- योतोः (*yotoḥ*)—to separate from your powers
+- अदेवः (*adevaḥ*)—the asura
+- नू चित् ईशे (*nū cit īśe*)—will not be able in the least
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessor of abundant wealth and son of strength, you who are endowed with wealth, be gracious and come facing us, accompanied by vehicles that are great in number and of great strength. O Indra, to be called by many, the asura will not be able in the least to separate you from your powers.
+
+##### English translation
+Opulent Indra, Son of strength, the invoked of many, whose union (with energy) the impious is unable to disjoion, come down to us with thousands of riches by very powerful conveyauces.
+
+### Printed p. 692
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रतु॑विद्यु॒म्नस्य॒ स्थवि॑रस्य॒ घृष्ट्वे॑र्दि॒वो र॑रष्टे महि॒मा पृ॑थि॒व्याः ।  
+> नास्य॒ शत्रु॒र्न प्र॑ति॒मान॑मस्ति॒ न प्र॑ति॒ष्ठिः पु॑रुमा॒यस्य॒ सह्योः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तुविद्युम्नस्य । स्थविरस्य । फृष्टेः । दिवः । ररष्टे । महिमा । पृथिव्याः ।  
+> न । अस्य । शत्रुः । न । प्रतिमानं । अस्ति । न । प्रतिस्थिः । पुरुमायस्य । सह्योः ॥१२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुविद्युम्नस्य बहुयशसो बहुधनस्य ना स्थविरस्य प्रवृद्धस्य फृष्टेः शत्रूणां
+> घर्षकस्येंद्रस्य महिमा महत्त्वं दिवो द्युलोकात्पृथिव्या भूमेश्व प्र ररष्टे ।
+> प्ररिरिचे । विरप्यीति महन्नामसु पाठात् नाम्नां च प्रायेण धातुजन्यत्वात्
+> रप्यतिरत्रातिशयवाची । पुरुमायस्य बहुप्रज्ञस्य सह्योः शत्रूणामभिभवितुरस्येंद्रस्य शत्रुः शातयिता नास्ति । प्रतिमानं प्रतिनिधिर्नास्ति । अस्य प्रतिष्ठिः प्रतिष्ठाश्रयो
+> नास्ति । स एव सर्वस्य प्रतिष्ठेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The greatness of Indra, who is of much fame and much wealth, who is grown great, and who is the grinder of the enemies, has gone beyond heaven, the world of light, and earth. Since विरप्यीति (*virapyīti*) is read among the names for "great," and since names are for the most part produced from roots, the root रप्यति (*rapyati*) here denotes excess. Of this Indra, who is of much wisdom and who overcomes the enemies, there is no enemy, no destroyer; there is no counterpart, no equal; he has no support, no one on whom he rests; he alone is the support of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुविद्युम्नस्य (*śuvidyumnasya*)—of one who has abundant wealth
+- स्थविरस्य (*sthavirasya*)—grown great
+- फृष्टेः (*phṛṣṭeḥ*)—and destroyer of enemies, of Indra
+- महिमा (*mahimā*)—the greatness
+- दिवः (*divaḥ*)—than the world of light
+- पृथिव्याः (*pṛthivyāḥ*)—than the earth
+- प्र ररष्टे (*pra raraṣṭe*)—has spread out more widely
+- पुरुमायस्य (*purumāyasya*)—of one who has much wisdom
+- सह्योः (*sahyoḥ*)—and who defeats the enemy
+- अस्य (*asya*)—for this Indra
+- शत्रुः (*śatruḥ*)—an injurer
+- न (*na*)—there is none
+- प्रतिमानं (*pratimānaṃ*)—one equal to Indra
+- न अस्ति (*na asti*)—there is none
+- प्रतिष्ठिः (*pratiṣṭhiḥ*)—a superior one (a giver of refuge)
+- न (*na*)—there is none
+
+##### भावार्थ (Bhāvārtha)
+
+The greatness of Indra, who has abundant wealth, is grown great and destroys enemies, has spread out more widely than the world of light and than the earth. There is no one to injure Indra, who has much wisdom and defeats the enemy. There is no one equal to that Indra, nor any giver of refuge endowed with greater qualities. He alone is the greatest, the giver of refuge to all.
+
+### Printed p. 693
+
+##### English translation
+The vastness of the affluent, ancient (Indra), the demolisher (of foes), exceeds that of the heaven and earth : there is no antagonist, no counterpart, no recipient of him abounding in wisdom, victorious (in war).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तत्ते॑ अ॒द्या कर॑णं कृ॒तं भू॒त्कुत्सं॒ यदा॒युम॑तिथि॒ग्वम॑स्मै ।  
+> पु॒रू स॒हस्रा॒ नि शि॑शा अ॒भि क्षामुत्तूर्व॑याणं धृष॒ता नि॑नेथ ॥  
+> ॥ परसारः ॥  
+> प्र । तत् । ते । अद्य । करणं । कृतं । भूत् । कुत्सं । यत् । आयुं । अतिथिग्वं ।  
+> अस्मै ।  
+> पु॒रु । स॒हस्रा॒ । नि । शि॑शाः । अ॒भि । क्षां । उत् । तूर्व॑याणं । धृष॒ता । नि॑नेथ ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्येदानीमपि हे इंद्र ते त्वया कृतं करणं तत्कर्म प्र भूत् । प्रभवति ।
+> प्रकाशते । किं तदित्युच्यते । कुत्सं शुष्णाद्राक्षसादेतन्नामानमृषिं चायुं शत्रुभ्यः
+> सकाशादेतत्संज्ञकं पौरूरवसमतिथिग्वमतिथीनामभिगंतारं दिवोदासं च शंबराद्ररक्षिथेति यत्करणं तत्पभवतीति पूर्वेण संबंधः । ररक्षिथेति द्वितीयाश्रुतेरुचितक्रियाध्याहारः । अपि चास्मा अनंतरोक्तायातिथिग्वाय पुरु पुरूणि बहूनि सहस्रा
+> सहस्राणि शंबरस्य धनानि नि शिशाः । अददाः ' इंद्रः शंबरं हत्वा तस्य धनानि दिवोदासाय ददावित्यर्थः । तथा हे इंद्र दृषता धर्षणेन त्वदीयेन वज्रेण शंबरं
+> हत्वा क्षां पृथिवीमभि अभिलक्ष्य पृथिव्यां वर्तमानं तूर्वयाणं त्वरितगमनं
+> दिवोदासमुन्निनेथ । आपद्भ उदगमयः ॥
+
+##### Gist of the bhāṣya
+
+Today, now also, O Indra, the deed done by you shines forth. What is it? It is that you protected Kutsa, the ṛṣi of that name, from the Rākṣasa Śuṣṇa; Āyu, the son of Purūravas, of that name, from the enemies; and Atithigva, that is, Divodāsa, who goes to guests, from Śambara. This is the connection with what precedes. Because the accusative is heard, the suitable verb "you protected" is to be supplied. Further, to this Atithigva just mentioned you gave many thousands of Śambara's treasures: Indra, having slain Śambara, gave his treasures to Divodāsa. Likewise, O Indra, with your bold thunderbolt, having slain Śambara, you raised up from calamities Divodāsa, who was hastening on the earth, with the earth in view.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) कुत्सं (*kutsaṃ*)—Kutsa
+- आयुं (*āyuṃ*)—Āyu
+- अतिथिग्वं (*atithigvaṃ*)—Atithigva (to protect them from their respective enemies)
+- यत् (*yat*)—what great deed you have done
+- ते (*te*)—your
+
 ---
 
-**Progress note:** Done through printed p. 687. Paṇi references; Ṛk 6-8 of sūkta 18; Special Topics on Śuṣṇa, Śambara, Pipru, Dhuni, Chumuri
+**Progress note:** Done through printed p. 693. Dhuni/Chumuri end; Ṛk 9-13 of sūkta 18
