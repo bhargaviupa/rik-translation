@@ -10360,6 +10360,295 @@ O Agni, you are the lord of the house (गृहपतिः (*gṛhapatiḥ*)) 
 - स्तोतृभ्यः (*stotṛbhyaḥ*)—to your praisers
 - ददति (*dadati*)—give wealth (protect them also)
 
+### Printed p. 240
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are the lord of the house for all the people born in the line of Manu. O exceedingly young Agni, protect me, who have kindled you, from sins for a hundred years, together with protections numbering a hundred. Protect also those who give wealth to those who praise you.
+
+##### English translation
+You, Agni, are the lord of the dwelling and of all men the descendents of Manu: protect me, youngest (of the gods), when kindling you, with a hundred defences against iniquity : (grant me) a hundred winters, (as well as to those) who bestow gifts upon your worshippers.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं न॑श्चि॒त्र ऊ॒त्या वसो॒ राधां॑सि चोदय ।  
+> अ॒स्य रा॒यस्त्वम॑ग्ने र॒थीर॑सि वि॒दा गा॒धं तु॒चे तु नः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । न । चित्रः । ऊत्या । वसो इति । राधांसि । चोदय ।  
+> अस्य । रायः । त्वं । अग्ने । रथीः । असि । विदाः । गाधं । तुचे । तु । नः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासकाग्ने चित्रो दर्शनीयस्त्वमूत्या रक्षया सह राधांसि धनानि
+> नोऽस्मभ्यं जोदय । प्रेरय । अस्य सर्वत्र लोके परिदृश्यमानस्य रायो धनस्य
+> त्वं रथीरसि । रंहिता नेता भवसि । अतः कारणादस्मभ्यं धनानि प्रेरयेत्यर्थः ।
+> अपि च नोऽस्माकं तुचे । अपत्यनामैतत् । अपत्यायापतनहेतुभूताय पुत्रादये गाधं प्रतिष्ठां तु क्षिप्रं विदाः । लंभय ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, Agni who makes others dwell, wonderful and worth beholding, urge riches towards us together with your protection. Of this wealth that is seen everywhere in the world you are the conveyer and leader; for that reason, urge wealth to us. And further: for our offspring (the word used here is a name for offspring), for sons and the rest who are the cause of the family's not falling, quickly obtain a firm footing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O giver of dwelling
+- अग्ने (*agne*)—O Agni
+- चित्रः (*citraḥ*)—of attractive form
+- त्वं (*tvaṃ*)—you
+- ऊत्या (*ūtyā*)—with protections
+- राधांसि (*rādhāṃsi*)—riches
+- नः (*naḥ*)—to us
+
+### Printed p. 241
+
+- चोदय (*codaya*)—urge
+
+- अस्य (*asya*)—of this well-known
+- रायः (*rāyaḥ*)—wealth
+- त्वं (*tvaṃ*)—you yourself
+- रथीः आसि (*rathīḥ āsi*)—are the leader
+- नः (*naḥ*)—our
+- तुचे (*tuce*)—to sons, grandsons and the rest
+- गाधं (*gādhaṃ*)—lasting condition and state
+- तु (*tu*)—quickly
+- विदाः (*vidāḥ*)—cause to obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwelling, you of attractive form, urge towards us riches accompanied by protections. For you are the leader of all well-known wealth. Quickly cause our sons, grandsons and the rest to obtain a lasting condition and state.
+
+##### English translation
+Wonderful (Agni), giver of dwellings, encourage us by (your) protection, and (the gift of) riches, for you are the conveyer, Agni, of this wealth : quickly bestow permanence upon our progeny.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पर्षि॑ तो॒कं तन॑यं प॒र्तृभि॒ष्त्वमद॑भै॒रप्र॑युत्वभिः ।  
+> अग्ने॒ हेळां॑सि॒ दैव्या॑ युयोधि॒ नोऽदे॑वानि॒ ह्वरां॑सि च ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्षि । तोकं । तनयं । पर्तृभिः । त्वं । आदभ्यैः । अप्रयुत्त्वभिः ।  
+> अग्ने । हेळांसि । दैव्या । युयोधि । नः । अदेवानि । ह्वरांसि । च ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमदभ्यैः केनाप्यहिंसितैरप्रयुत्वभिः । यौतिरत्र पृथग्भावार्थः ।
+> अपृथग्भूतैः संहतैः पर्तृभिः पालनसाधनैस्तोकं पुत्रं तनयं पौत्रं च पर्षि ।
+> पालय । दैव्या देवसंबधीनि च हेळांसि क्रोधान्नोऽस्मत्तो युयोधि । पृथक्कुरु।
+> आदेवानि मनुष्यसंबंधीनि च ह्वरांसि हिंसनानि चास्मत्तः पृथक्कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you protect our son (toka) and grandson (tanaya) with means of protection that are unharmed by anyone and are unseparated, that is, united (here the root has the sense of separation, and the word is taken as meaning not separated). Remove from us the wraths that belong to the gods, and likewise the injuries that belong to men; set them apart from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- आदभैः (*ādabhaiḥ*)—those that are non-injurious, or those that are not injured by anyone
+- अप्रयुत्वभिः (*aprayutvabhiḥ*)—those that are always kept together
+
+### Printed p. 242
+
+- पर्तृभिः (*partṛbhiḥ*)—with protections
+- तोकं (*tokaṃ*)—our son
+- तनयं (*tanayaṃ*)—and grandson
+- पर्षि (*parṣi*)—protect
+- दैव्याः (*daivyāḥ*)—belonging to the gods
+- हेळांसि (*heḷāṃsi*)—wraths
+- नः (*naḥ*)—from us
+- युयोधि (*yuyodhi*)—remove far away
+- आदेवानि च (*ādevāni ca*)—and also those belonging to men
+- ह्वरांसि (*hvarāṃsi*)—drive them far from us and make them flee
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect our son and grandson with protections that are non-injurious and not injured by anyone. Remove from us the wraths that belong to the gods. Make it so that, if men become angry with us, the effect of it does not touch us.
+
+##### English translation
+You protect with uninjurable, irremoveable defences (our) sons and grandsons : remove far from us celestial wrath and human malevolence.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ स॑खायः सब॒र्दुघां॑ धे॒नुम॑जध्व॒मुप॒ नव्य॑सा॒ वचः॑ ।  
+> सृ॒जध्व॒मन॑पस्फुरां ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अ । सखायः । सबःदुघां । धेनुं । अजध्वं । उप । नव्यसा । वचः ।  
+> सृजध्वं । अनपस्फुरां ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः समानख्याना अध्वर्यवः सबर्दुघां । सबरिति पयसो नाम ।
+> अमरणहेतुभूतस्य पयसो दोग्धीं धेनुं गामाजध्वं । अभिगच्छत । प्राप्नुत्त ।
+> केन साधनेन । नव्यसा नवीयसा नवतरेण वचो वचसाह्वानरूपेण कद्देन ।
+> तदनंतरमनपस्सुरां । स्पुरतिर्वधकर्मा । अनपबाध्यां तां धेनुमुप सृजध्वं ।
+> वत्सेनोपसृष्टां कुरुत । मरुद्देवत्यत्वात् मरुतां यागाय पयो दोग्सुमिति
+> शेषः । अथवा मरुतां माता पृश्नाख्या माध्यमिका वाग्गेनुः । हे सखायः
+> स्तोतारः सबर्दुघां मरुज्जनहेतुभूतस्य पयसो दोग्धीं धेनुं पृश्चिं
+> नव्यसा नवतरेण वचसा स्तोत्रेणोपाजध्वं उपागच्छत । अनपस्सुरामनपबाध-
+
+##### Gist of the bhāṣya
+
+O friends, adhvaryus who share one name, approach the cow that yields sabar (sabar is a name for milk), the cow that gives milk that is the cause of immortality. By what means? With a newer, fresher speech, in the form of a calling-out. After that, set free that cow, the unobstructed one (here the root meaning "to throb" has the sense of killing, so she is one who is not to be hindered), and let her go to her calf. Because the verse is addressed to the Maruts, what is to be supplied is that the milk is to be milked for the sacrifice of the Maruts. **NOTE**. Or else: the cow is the mother of the Maruts, the speech of the middle region called Pṛśni. O friends, praisers, approach with newer praise that Pṛśni, the cow who yields the milk that causes the birth of the Maruts; and release the unobstructed one.
+
+### Printed p. 243
+
+> नीयां तां सृजध्वं । बंधनाद्विसृजत । मुंचत । ईदृशी महती धेनुर्मरुतां
+> माता किमु वक्तव्यं तेषां माहात्म्यमिति मरुत्सुतिः ॥
+
+##### Gist of the bhāṣya
+
+Release her from bondage; set her free. Such a great cow is the mother of the Maruts; what need then to speak of their greatness? Thus this is praise of the Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O friendly priests
+- सबर्दुघां (*sabardughāṃ*)—who milks abundant milk
+- धेनुं (*dhenuṃ*)—the cow
+- नव्यसा (*navyasā*)—newly composed
+- वचः (*vacaḥ*)—with words of praise
+- आ अजध्वं (*ā ajadhvaṃ*)—approach
+- अनहस्पुरां (*anahaspurāṃ*)—her who is free of hindrance (release her from bondage)
+- उप सृजध्वं (*upa sṛjadhvaṃ*)—join her with her calf
+
+##### भावार्थ (Bhāvārtha)
+
+O friendly priests, approach with newly composed words of praise the cow who milks abundant milk. Join her, who is free of hindrance, with her calf.
+
+##### English translation
+Approach, friends, the milk-yielding cow with a new song, and let her loose unharmed.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या शर्धा॑य॒ मारु॑ताय॒ स्वभा॑नवे॒ श्रवोऽमृ॑त्यु॒ धुक्ष॑त ।  
+> या मृ॑ळी॒के म॒रुतां॑ तु॒राणां॒ या सु॒म्मॆरे॑व॒याव॑री ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । शर्धाय । मारुताय । स्वभानवे । श्रवः । अमृत्यु । धुक्षत ।  
+> या । मृळीके । मरुतां । तुराणां । या । सुम्नैः । एव्ययावरी ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या धेनुरमृत्युमरणहेतु श्रवोऽन्नं पयोलक्षणं मारुताय
+> मरुत्संघाय धुक्षत अधुक्षत् । कीदृशाय । शर्धाय प्रसहनशीलाय स्वभानवे
+> स्वायत्तदीप्तये । या च तुराणां क्षिप्रकारिणां मरुतां मृळिके सुखे तत्परा
+> वर्तते । या च सुम्मैः सुखैर्हेतुभूत्यैरेवयावर्यॆवैर्गंतृभिरश्वैर्मध्यमस्थानैरुदकैर्वा सह यांत्यन्येषामपि सुखार्थं वृष्टिजलैः सहागच्छंती तां
+> धेनुमुपाजध्वमिति पूर्वत्रान्वयः । अत्रापि पूर्ववन्मरुत्तुतिरधिगंतव्या ॥
+
+##### Gist of the bhāṣya
+
+The cow who has milked for the host of the Maruts immortal-making food in the form of milk, a host that is overpowering and self-luminous; and who stays intent on the happiness of the swift Maruts, who act quickly; and who goes along with happiness-bringing waters of the middle region for the sake of the happiness of others too, coming with the rain-waters (the words describing what she goes with are damaged in the print: horses that go, or waters of the middle region) **NOTE**: approach that cow; this is the connection with the preceding verse. Here also, as before, a praise of the Maruts is to be understood.
+
+### Printed p. 244
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the cow who
+- शर्धाय (*śardhāya*)—to the powerful
+- स्वभानवे (*svabhānave*)—self-luminous
+- मारुताय (*mārutāya*)—host of the Maruts
+- अमृत्यु (*amṛtyu*)—imperishable
+- श्रवः (*śravaḥ*)—food
+- धुक्षत (*dhukṣata*)—milks (provides)
+- या (*yā*)—she who
+- तुराणां (*turāṇāṃ*)—swift-moving
+- मरुतां (*marutāṃ*)—to the Maruts
+- मृळीके (*mṛḷīke*)—is a bringer of happiness
+- या (*yā*)—she who
+- सुम्मैः (*summaiḥ*)—happiness-bringing
+- एवयावरी (*evayāvarī*)—moves along with horses (approach such a cow)
+
+##### भावार्थ (Bhāvārtha)
+
+The cow who provides imperishable food for the host of the Maruts, powerful and self-luminous; she who is a bringer of happiness to the swift Maruts; she who moves along with happiness-bringing horses: approach such a cow (the mother of the Maruts).
+
+##### English translation
+She who yields immortal food to the powerful, self-irradiating band of the Maruts, who (is anxious) for the gratification of the self-moving Maruts, who traverses the sky with (the passing waters), shedding delight.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒रद्वा॑जा॒याव॑ धुक्षत द्वि॒ता ।  
+> धे॒नुं च॑ वि॒श्वदो॑हस॒मिषं॑ च वि॒श्वभो॑जसं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भरत् वाजाय । अव । धुक्षक । द्विता ।  
+> धेनुं । च । विश्वदोहसं । इषं । च । विश्वभोजसं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो भरद्वाजायास्मद्भात्रे द्विता द्वितयमव धुक्षत । किं तद्वितयं ।
+> धेनुं च गां चेषं चान्नं च ! कीदृशीं धेनुं । विश्वदोहसं विश्वस्य व्याप्तस्य
+> बहुलस्य दोग्ध्रीं । कीदृशमन्नं । विश्वभोजसं सर्वेषां भोगपर्याप्यं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, milk for Bharadvāja, our brother, the twofold. What is that twofold? The cow and food. What kind of cow? One that yields all, that is, one that milks what is pervasive and abundant. What kind of food? Food that is sufficient for the enjoyment of all.
+
+### Printed p. 245
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भरद्वाजाय (*bharadvājāya*)—(O Maruts) for the sage Bharadvāja
+- विश्वदोहसं (*viśvadohasaṃ*)—who milks so as to pervade the world
+- धेनुं च (*dhenuṃ ca*)—and the cow
+- विश्वभोजसं (*viśvabhojasaṃ*)—that serves for the enjoyment of the whole world
+- इषं च (*iṣaṃ ca*)—and food
+- द्विता (*dvitā*)—these two kinds of sources of food
+- अव धुक्षत (*ava dhukṣata*)—milk fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, milk for the sage Bharadvāja two kinds of sources of food. They are these: first, the cow who milks so as to pervade the world; second, the food that serves for the enjoyment of the whole world. (Milk both of these fully.)
+
+##### English translation
+Milk for Bharadwaja the twofold (blessing), the cow that gives milk to the universe, food that is sufficient for all.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं व॒ इंद्रं॒ न सु॒क्रतुं॒ वरु॑णमिव मा॒यिनं॑ ।  
+> अ॒र्य॒मणं॒ न मं॒द्रं सृ॒प्रभो॑जसं॒ विष्णुं॒ न स्तु॑ष आ॒दिशे॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वः । इंद्रं । न । सुक्रतुं । वरुणंइव । मायिनं ।  
+> अर्यमणं । न । मंद्रं । सृप्रभोजसं । विष्णुं । न । स्तुषे । आदिशे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुद्दण तं तादृशं वस्तां स्तुषे । स्तौमि । किमर्थं । आदिश आदेशनाय
+> धनानामतिसर्जनाय प्रदानाय । कीदृशं त्वां । इंद्रं नेंद्रमिव सुक्रतुं
+> सुकर्माणं वरुणमिव मायिनं मायावंतं प्रज्ञावंतमर्यमणं नार्यमणमिव मंद्रं स्तुत्यं विष्णुं न विष्णुमिव सृप्रभोजसं प्रसृप्तधनं । यदा त्वस्या
+> लिंगोक्तदेवतास्तदानीं नेवशब्दौ चशब्दार्थे । द्रष्टव्यौ ॥
+
+##### Gist of the bhāṣya
+
+O host of Maruts, I praise you, such as you are (the words of address are damaged in the print) **NOTE**. For what purpose? For assigning, that is, for the bestowal and giving of riches. How do I praise you? Like Indra, of good works; like Varuṇa, possessed of māyā, that is, wise; like Aryaman, praiseworthy; like Vishnu, one whose wealth is widely spread. Or else, when the deities named by gender are meant, the words "like" are to be seen as having the sense of "and". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रं न (*iṃdraṃ na*)—(O host of Maruts) like Indra
+- सुक्रतुं (*sukratuṃ*)—one who does excellent works
+- वरुणमिव (*varuṇamiva*)—like Varuṇa
+- मायिनं (*māyinaṃ*)—endowed with wisdom
+- अर्यमणं न (*aryamaṇaṃ na*)—like Aryaman
+
 ---
 
-**Progress note:** Done through printed p. 239. Ṛk 2 (end) to Ṛk 8 (Pratipadārtha)
+**Progress note:** Done through printed p. 245. Sukta 48 Rk 9-14 (pp. 240-245)
