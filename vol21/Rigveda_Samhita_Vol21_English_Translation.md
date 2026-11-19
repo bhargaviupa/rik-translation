@@ -31946,6 +31946,279 @@ O Agni, bring the gods for the eating of the oblation. In this sacrifice let all
 ##### English translation
 Agni, bring the gods to eat of the oblation : may they, of whom Indra is the chief, be delighted on this occasion : convey this sacrifice to to the deities in heaven, and do you ever cherish us with blessings.
 
+### Printed p. 752
+## Sūkta 12 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अगन्म महेति तृचात्मकं द्वादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाग्नेयं ।
+> तथा चानुक्रांतं । अगन्म तृचमिति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+> व्यूळ्ळे दशरात्रे नवमेऽहनीदं सूक्तमाज्यशस्त्रं । सूत्रितं च । तृतीयस्यागन्म
+> महेत्याज्यं । आ. ८-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The twelfth sūkta, beginning अगन्म मह (*aganma maha*), of three ṛks, is the vision of Vasiṣṭha, in the Triṣṭubh metre, addressed to Agni. The Anukramaṇikā says: अगन्म तृचमिति (*aganma tṛcamiti*). Its application for the Prātaranuvāka and the Āśvina-śastra has been stated. In the Vyūḍha Daśarātra, on the ninth day, this sūkta is the Ājya-śastra. It is prescribed in the sūtra: तृतीयस्यागन्म महेत्याज्यं (*tṛtīyasyāganma mahetyājyaṃ*) (Ā. 8-11).
+
+##### Anuvāda
+
+This sūkta, आगन्म महा (*āganma mahā*), is the twelfth sūkta in the first anuvāka. In it there are three ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: आगन्म तृचं (*āganma tṛcaṃ*). It has been stated earlier that this sūkta has its application for the Prātaranuvāka and the Āśvina-śastra mantras. That this sūkta has its application for the Ājya-śastra mantras recited on the ninth day of the ten-night sacrifice called व्यूळ्ल (*vyūḷla*) is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, तृतीयस्यागन्म महेत्याज्यं (*tṛtīyasyāganma mahetyājyaṃ*) (Ā. 8-11).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 12
+- Aṣṭaka 5; Adhyāya 2; Varga 15
+- Number of ṛks in the sūkta: 3
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग॑न्न म॒हा नम॑सा॒ यवि॑ष्ठं॒ यो दी॒दाय॒ समि॑द्धः॒ स्वे  ॒॑
+> दुरोणे ।  
+> चि॒त्रभा॑नुं॒ रोद॑सी अं॒तरु॒र्वी स्वा॑हुतं वि॒श्वतः॑ प्र॒त्यंचं॑ ॥
+
+### Printed p. 753
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अगन्न । महा । नमसा । यविष्ठं । यः । दीदाय । संइद्धः । स्वे । दुरोणे ।  
+> चित्रभानुं । रोदसी इति । अंतः । उर्वी इति । सुआहुतं । विश्वतः । प्रत्यंचं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निः स्वे दुरोणे स्वे स्थान आहवनीये समिद्धः काष्ठैः समिद्धः सन्
+> दीदाय दीप्यते तमिमं यविष्ठं युवशममुर्वी विस्तीर्णयो रोदसी
+> रोदस्योर्द्यावापृथिव्योरंतर्मध्ये०तरिक्षे चित्रभानुं चित्रज्वालं स्वाहुतं
+> सुष्टाहुतिभिर्हुतं संतं विश्वतः सर्वतः प्रत्यंचं प्रतिगच्छंतमग्निं महा महता
+> नमसा नमस्कारेणागन्न । वयमुपगच्छाम ॥
+
+##### Gist of the bhāṣya
+
+The Agni who, kindled with fuel in his own abode, that is, in his own place, the Āhavanīya, shines; that youngest Agni, who is between the two wide worlds, heaven and earth, that is, in the middle, in the atmosphere, of manifold flame, and well offered to with good oblations, who goes facing everywhere: to him we approach with great reverence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Agni who
+- स्वे (*sve*)—his own
+- दुरोणे (*duroṇe*)—in the Āhavanīya place
+- समिद्धः (*samiddhaḥ*)—kindled with fuel
+- दीदाय (*dīdāya*)—shines
+- यविष्ठं (*yaviṣṭhaṃ*)—the exceedingly youthful
+- उर्वी (*urvī*)—wide
+- रोदसी (*rodasī*)—of heaven and earth
+- अंतः (*aṃtaḥ*)—in the middle
+- चित्रेथानुं (*citrethānuṃ*)—who shines in manifold forms
+- स्वाहुतं (*svāhutaṃ*)—to whom oblations are offered abundantly
+- विश्वतः (*viśvataḥ*)—everywhere
+- प्रत्यंचं (*pratyaṃcaṃ*)—who moves freely
+- महा (*mahā*)—great
+- नमसा (*namasā*)—with reverence
+- अगन्म (*aganma*)—we approach
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, kindled with fuel in his own Āhavanīya place, shines; that exceedingly youthful one, who shines in manifold forms in the middle of the wide heaven and earth, to whom oblations are offered abundantly: to that Agni we approach with great reverence.
+
+##### English translation
+Let us approach with profound reverence the youngest (of the gods), who shines when kindled in his own abode ; who is blazing woundertully between heaven and earth, and, piously invoked, is coming from e ry quarter.
+
+### Printed p. 754
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स म॒ह्ना विश्वा॑ दुरि॒तानि॑ सा॒ह्वान॒ग्निः ष्ट॑वे॒ दम॒ आ जा॒तवे॑दाः ।  
+> स नो॑ रक्षिषद्दु रि॒ताद॑व॒द्याद॒स्मान्गृ॑ण॒त उ॒त नो॑ म॒घोनः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मह्ना । विश्वा । दुःइतानि । सहवान् । अग्निः । स्तवे । दमे । आ । जातवेदाः ।  
+> सः । नः । रक्षिषत् । दुःइतात् । अवद्यात् । आस्मान् । गृणतः । उत । नः । मघोनः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्मह्ना महत्वेन विश्वा विश्वानि दुरितानि सह्वानभिभवन् जातवेदा
+> जातधनो जातप्रज्ञो वा दमे यज्ञगृहे स्तवे आस्माभिः स्तूयते सोऽग्निरस्मान्दुरितात्पापादवद्यात् निंदिताच्च कर्मणो रक्षिषत् । रक्षतु । आस्मात् गृणशः
+> स्तुवशोऽपि रक्षिषत् । उतापि च सोऽग्निर्नॊ मघोनो हविष्मतो रक्षिषत् ॥
+
+##### Gist of the bhāṣya
+
+The Agni who by his greatness overcomes all evils, who is Jātavedas, possessed of wealth or possessed of wisdom, and is praised by us in the sacrificial house: may that Agni protect us from sin and from reprehensible action. May he protect also us who praise him. And may that Agni protect also us who are affluent, possessed of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Agni who
+- मह्ना (*mahnā*)—by his greatness
+- विश्वा (*viśvā*)—all
+- मरितानि (*maritāni*)—sins
+- साह्वान् (*sāhvān*)—destroying
+- जातवेदाः (*jātavedāḥ*)—possessed of wisdom
+- दमे (*dame*)—in our sacrificial house
+- आ स्तवे (*ā stave*)—is praised
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- आस्मान् (*āsmān*)—us
+- दुरितात् (*duritāt*)—from sinful actions
+- अस्मात् अवद्यात् (*asmāt avadyāt*)—from these actions that deserve reproach
+- रक्षिषत् (*rakṣiṣat*)—may he protect
+- गृणतः (*gṛṇataḥ*)—may he protect us who praise
+- उत (*uta*)—and
+- मघोनः नः (*maghonaḥ naḥ*)—us who possess oblations (may he protect)
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who by his greatness destroys all sins and, possessed of wisdom, is praised in our sacrificial house: may that same Agni protect us from sinful actions and from these actions that deserve reproach. May he protect us who praise, and may he protect us who are possessed of oblations.
+
+##### English translation
+May that Agni who by his greatness is the overcomer of all evils, who is praised as Jatavedas in the (sacrificial) chamber, protect us, glorify-ing him, aud affluent (in oblations), from all sin and reproach.
+
+### Printed p. 755
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं वरु॑ण उ॒त मि॒त्रो अ॑ग्ने॒ त्वां व॑र्धंति म॒तिभि॒र्वसि॑ष्ठाः ।  
+> त्वे वसु॑ सुषण॒नानि॑ संतु यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । वरुणा । उश । मित्रः । अग्ने । त्वां । वर्धंति । मतिभिः । वसिष्ठाः ।  
+> श्वे इति । वसु । सुसननानि । संतु । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं वरुणोऽसि । उतापि च त्वं मित्रोऽसि जगतः प्रमीतेस्त्रातासि ।
+> त्वां वसिष्ठा मतिभिः स्तुतिभिर्वर्धंति । वर्धयंति । त्वे त्वयि विद्यमानानि वसु वसूनि
+> सुसननानि सुसंभजनानि संत्विति । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are Varuṇa. And you are Mitra, the protector of the world from death. The Vasiṣṭhas make you grow with praises. May the riches that are in you be well shared out. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- वरुण (*varuṇa*)—are Varuṇa
+- उत (*uta*)—and
+- मित्रः (*mitraḥ*)—are Mitra
+- त्वां (*tvāṃ*)—you
+- वसिष्ठा (*vasiṣṭhā*)—those born in the family of Vasiṣṭha
+- मतिभिः (*matibhiḥ*)—with praises
+- वर्धंति (*vardhaṃti*)—make to grow
+- त्वे (*tve*)—in you
+- वसु (*vasu*)—wealth
+- सुसननानि (*susananāni*)—as the most excellent means of enjoyment
+- संतु (*saṃtu*)—may be
+- यूयं (*yūyaṃ*)—all of you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are Varuṇa, and you are Mitra. The ṛṣis born in the family of Vasiṣṭha have made you grow. May the wealth that is in you be the most excellent means of enjoyment. May all of you always protect us with blessings.
+
+##### English translation
+You are Varuna, you are Mitra, Agni : the vasishthas augment you with praises : may liberally distributed riches be (extant) in you, and ever cherish us with blessings.
+
+### Printed p. 756
+## Sūkta 13 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्राग्नय इति तृचं त्रयोदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वैश्वानराग्निदेवताकं । तथा चानुक्रांतं । प्राग्नये वैश्वानरीयमिति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The thirteenth sūkta, beginning प्राग्नये (*prāgnaye*), of three ṛks, is the vision of Vasiṣṭha, in the Triṣṭubh metre, addressed to Vaiśvānara Agni. The Anukramaṇikā says: प्राग्नये वैश्वानरीयमिति (*prāgnaye vaiśvānarīyamiti*). The application is by indication.
+
+##### Anuvāda
+
+This sūkta, प्राग्नये (*prāgnaye*), is the thirteenth sūkta in the first anuvāka. In it there are three ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Vaiśvānara Agni is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: प्राज्ञये वैश्वानरीयं (*prājñaye vaiśvānarīyaṃ*)**NOTE**. The application is by indication.
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 13
+- Aṣṭaka 5; Adhyāya 2; Varga 16
+- Number of ṛks in the sūkta: 3
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: वैश्वानरः (*vaiśvānaraḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्राग्नये॑ विश्व॒शुचे॑ धीयं॒धे॑ऽसुर॒घ्ने मन्म॑ धी॒तिं भ॑रध्वं ।  
+> भरे॑ ह॒विर्न ब॒र्हिषि॑ प्रीणा॒नो वै॑श्वान॒राय॒ यत॑ये मती॒नां ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अग्नये । विश्वतुचे । धियंधे । असुरघ्ने । मन्म । धीतिं । भरध्वं ।  
+> भरे । हविः । न । बर्हिषि । प्रीणानः । वैश्वानराय । यतये । मतीनां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायो विश्वशुचे विश्वं यो दीपयति तस्मै धियंधे धियां कर्मणां
+> यो धाता तस्मा असुरघ्नेऽसुराणां यो हंता तस्मा अग्नये मन्म मननीयं
+> स्तोत्रं धीतिं कर्म च प्र भरध्वं । मतीनामभिमतानां कामानां यतये पात्रे
+
+##### Gist of the bhāṣya
+
+O friends, to the Agni who illumines the whole world, who is the upholder of rites, who is the slayer of the Asuras, offer to that Agni the praise worthy of reflection and the rite. To the one who is the recipient of what is desired, the vessel of
+
+### Printed p. 757
+
+> वैश्वानराय विश्वनरहितायाग्नि विशेषाय बर्हिषि यज्ञे हविर्न हविरिव स्तुतिं प्रीणानः
+> प्रीयमाणोऽहं भरे । भरामि । यद्वा । हविः प्रीणानः प्रीणयन्नहं बर्हिषि
+> हविर्भरे । संभरामि । नेति संप्रत्यर्थे ॥
+
+##### Gist of the bhāṣya
+
+to Vaiśvānara, a particular Agni, the benefactor of all men, on the sacrificial grass, at the sacrifice: I, delighted, bring praise like an oblation. Or else: I, delighting him with the oblation, bring together the oblation on the sacrificial grass. The word न (*na*) is in the sense of "now".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वशुचे (*viśvaśuce*)—who illumines the whole world
+- धियंधे (*dhiyaṃdhe*)—the upholder of rites
+- असुरघ्ने (*asuraghne*)—the destroyer of the Asuras
+- अग्नये (*agnaye*)—to Agni
+- मन्म (*manma*)—the praise worthy of reflection
+- धीतिं (*dhītiṃ*)—the rite
+- प्र भरध्वं (*pra bharadhvaṃ*)—offer excellently
+- मतीनां (*matīnāṃ*)—of desired objects
+- यतये (*yataye*)—to the giver
+- वैशानराय (*vaiśānarāya*)—to Agni in the form of Vaiśvānara
+- बर्हिषि (*barhiṣi*)—at the sacrifice
+- न (*na*)—in the present case
+- हविः (*haviḥ*)—the oblation
+- प्रीणानः (*prīṇānaḥ*)—wishing to offer with love
+- भरे (*bhare*)—I procure
+
+##### भावार्थ (Bhāvārtha)
+
+O friends, to the Agni who illumines the whole world, who upholds the rites, who destroys the Asuras, offer excellently praise worthy of reflection, and the rite. To Agni in the form of Vaiśvānara, the giver of what is desired, at the sacrifice, in the present case, I procure the oblation, with the wish to offer the oblation.
+
+##### English translation
+Offer praise and worship to Agni, the enlightener of all, the accepter of pious rites, the destroyer of the Asuras : propitiaing him, I now present the oblation on the sacred grass to Vaishwanara, the granter of desires.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने शो॒चिषा॒ शोशु॑चान॒ आ रोद॑सी अपृणा॒ जाय॑मानः ।  
+> त्वं दे॒वा अ॒भिश॑स्तेरमुंचो॒ वैश्वा॑नर जातवेदो महि॒त्वा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । शोचिषा । शोशुचानः । आ । रोदसी इति । अपृणाः । जायमानः ।  
+> त्वं । देवान् । अभिशस्तेः । अमुंचः । वैश्वानर । जातवेदः । महित्वा ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 751. Maṇḍala 7 sūkta 10 Ṛk 5, sūkta 11 Ṛks 1-5 (pp. 745-751)
+**Progress note:** Done through printed p. 757. Sūkta 12 (Ṛk 1-3) and Sūkta 13 Ṛk 1-2 start, pp. 752-757
