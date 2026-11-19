@@ -27123,7 +27123,7 @@ Adorable Maruts, you cause (a son) to be born to the man (who worships you), a r
 
 ##### Gist of the bhāṣya
 
-At the Varuṇa-praghāsa rite, for the Marut offering of curds (āmikṣā), "arā iva" is the yājyā verse; and the sūtra says: अरा इवेदचरमा अहेवेमं मे वरुण श्रुधि (*arā ivedacaramā ahevemaṃ me varuṇa śrudhi*) (Ā. 2-17). It is also the yājyā verse of the animal-cake offering in the Marut animal sacrifice of the eleven-stake kind**NOTE**; and the sūtra says: अरा इवेदचरमा अहेव या व शर्म शशमानाय संति । (*arā ivedacaramā aheva yā va śarma śaśamānāya saṃti |*) (Ā. 3-7).
+At the Varuṇa-praghāsa rite, for the Marut offering of curds (āmikṣā), अरा इव (*arā iva*) is the yājyā verse; and the sūtra says: अरा इवेदचरमा अहेवेमं मे वरुण श्रुधि (*arā ivedacaramā ahevemaṃ me varuṇa śrudhi*) (Ā. 2-17). It is also the yājyā verse of the animal-cake offering in the Marut animal sacrifice of the eleven-stake kind**NOTE**; and the sūtra says: अरा इवेदचरमा अहेव या व शर्म शशमानाय संति । (*arā ivedacaramā aheva yā va śarma śaśamānāya saṃti |*) (Ā. 3-7).
 
 अरा इवेत् (*arā ivet*): like the spokes of a chariot wheel; अचरमाः (*acaramāḥ*): not inferior, that is, all alike, born together. अहेवाहानीव (*ahevāhānīva*): like the days; as all days consist of sixty ghaṭikās, so they are equal in the form of seven groups of seven each. By these two examples the absence of any dissimilarity is shown. Being of this nature, they are born forth with their splendours (mahas), that is, they appear in glory. The prefix is repeated to fill out the foot of the verse, and the repeated prefix is a filler. They are अकवा (*akavā*), not small. Or else it is an epithet of महोभिः (*mahobhiḥ*). Pṛśni is the middle speech in the form of a cow, that is, the atmosphere; those who stand as her sons are उपमासः (*upamāsaḥ*), each one like the other, and रभिष्ठाः (*rabhiṣṭhāḥ*), of surpassing speed. Such mighty Maruts, by their own mind, that is, by their own intention of showing favour, संमिमिक्षुः (*saṃmimikṣuḥ*): they pour down rain well.
 
@@ -27224,7 +27224,7 @@ In this Ṛk the pouring down of rain is described. When the Marut deities set o
 
 यदश्यान्नूर्षु पृषतीरयुग्ध्वं हिरण्ययान्यत्या अमुग्धं (*yadaśyānnūrṣu pṛṣatīrayugdhvaṃ hiraṇyayānyatyā amugdhaṃ*) (Ṛ. Saṃ. 5-55-6)
 
-In this Ṛk it is said, yoke to the chariot your horses called पृषतीः (*pṛṣatīḥ*)." In the present Ṛk there are the two words पृषतीभिः (*pṛṣatībhiḥ*) and अश्वैः (*aśvaiḥ*). If पृषतीभिः (*pṛṣatībhiḥ*) means the vehicles of the Marut deities,
+In this Ṛk it is said, "yoke to the chariot your horses called पृषतीः (*pṛṣatīḥ*)." In the present Ṛk there are the two words पृषतीभिः (*pṛṣatībhiḥ*) and अश्वैः (*aśvaiḥ*). If पृषतीभिः (*pṛṣatībhiḥ*) means the vehicles of the Marut deities,
 
 ### Printed p. 757
 
