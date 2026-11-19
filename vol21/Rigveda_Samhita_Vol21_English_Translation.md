@@ -15385,6 +15385,286 @@ presenting libations, and also of us repeating (your) praises
 > माकि॑र्नेश॒न्माकीं॑ रिष॒न्माकीं॒ सं शा॑रि॒ केव॑टे ।  
 > अथारि॑ष्वाभि॒रा ग॑हि ॥ ७ ॥
 
+### Printed p. 351
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माकिः । नेशत् । माकीं । रिषत् । माकीं । सं । शारि । केवटे ।  
+> अथ । अरिष्वाभिः । आ । गहि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन्' अस्मदीयं गोधनं माकिर्नेशत् । मा नश्यतु । माकिर्माकीमि
+> त्येत् प्रतिषेधमात्रे वर्तेते । माकीं रिषत् । मा व्याघ्रादिभिर्हिंस्यतां । माकीं
+> मा च केवटे कूपे सं शारि । संशीर्णं भूत् । कूपपातेनापि हिंसितं मा भवतु ।
+> अथैवं सत्यरिष्वाभिरहिंसिताभिर्गोभिः सहा गहि । सायंकाल आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, let our cattle-wealth not perish (माकिर्नेशत् (*mākirneśat*)). Let it not be injured by tigers and the like (माकीं रिषत् (*mākīṃ riṣat*)). And let it not be shattered by falling into a well (केवटे (*kevaṭe*)); let it not be harmed even by a fall into a pit. This being so, come in the evening together with the cows that have been left unharmed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माकिर्नेशत् (*mākirneśat*)—let our cattle-wealth not perish
+- माकीं रिषत् (*mākīṃ riṣat*)—let it not be injured by tigers and the like
+- केवटे (*kevaṭe*)—in wells
+- माकीं सं शारि (*mākīṃ saṃ śāri*)—let it not slip and fall
+- अथ (*atha*)—after the protection of these
+- अरिष्वाभिः (*ariṣvābhiḥ*)—together with these unharmed cows
+- आ गहि (*ā gahi*)—graciously come at evening time
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, let our cattle-wealth not perish. Let it not be injured by tigers and the like. Let it not slip and fall into wells. After protecting them, come at evening time with the cows left unharmed.
+
+##### English translation
+Let not, Pushan, our cattle perish; let them not be injured; let them not
+be hurt by falling into a well ; come, therefore, along with them unharmed.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शृ॒ण्वंतं॑ पू॒षणं॑ व॒यमिर्य॒मन॑ष्टवेदसं ।  
+> ईशा॑नं रा॒य ई॑महे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शृण्वंतं । पूषणं । वयं । इर्यं । अनष्टवेदसं ।  
+> ईशानं । रायः । ईमहे ॥ ८ ॥
+
+### Printed p. 352
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मत्सोत्राणि शृण्वंतमिर्यं दारिद्रस्य प्रेरकमनष्टवेदसमविनष्टधनमीशानं सर्वस्येश्वरमेवंविधं पूषणं देवं वयं रायो धनानीमहे
+> याचामहे ॥
+
+##### Gist of the bhāṣya
+
+We beg for riches from the god Pūṣan, who hears our hymns, who is the remover of poverty (इर्यं (*iryaṃ*)), whose wealth is undestroyed (अनष्टवेदसं (*anaṣṭavedasaṃ*)), the lord of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—who hears our praises
+- इर्यं (*iryaṃ*)—the destroyer of poverty
+- अनष्ट वेदसं (*anaṣṭa vedasaṃ*)—who has wealth that is free of destruction
+- ईशानं (*īśānaṃ*)—who is the master of all
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan
+- वयं (*vayaṃ*)—we
+- रायः (*rāyaḥ*)—for the sake of wealth
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+We ask the god Pūṣan, who hears our praises, who destroys poverty, whose wealth is free of destruction and who is the master of all, for wealth.
+
+##### English translation
+We solicit riches of Pushan, who hears (our eulogies); who is the averter (of poverty); the preserver of that which is not lost, the ruler (over all).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पूष॒न्तव॑ व्र॒ते व॒यं न रि॑ष्येम॒ कदा॑ च॒न ।  
+> स्तो॒तार॑स्त इ॒ह स्म॑सि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषन् । तव । व्रते । वयं । न । रिष्येम । कदा । चन ।  
+> स्तोतारः । ते । इह । स्मसि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्मास्येषु वैश्वदेवे पर्वणि पौष्णस्य हविषः पूषन्तव व्रत इत्येषानुवाक्य । सूत्रितं च । वाममद्य सवितर्वाममु श्वः पूषन्तव व्रते वयं ।
+> आ. २-१६ । इति ॥
+> हे पूषन्नोषक तव त्वदीये व्रते कर्मणि वर्तमाना वयं कदा चन
+> कदाचिदपि न रिष्येम । हिंसिता न भवेम । तादृशाश्च वयमिहास्मिन्कर्मणि ते तव
+> स्तोतारः स्मसि । स्मः । भवामः ॥
+
+##### Gist of the bhāṣya
+
+In the Cāturmāsya sacrifices, at the Vaiśvadeva parvan, this Ṛk पूषन्तव व्रते (*pūṣantava vrate*) is the anuvākyā for the oblation to Pūṣan; it is laid down by the sūtra वाममद्य सवितर्वाममु श्वः पूषन्तव व्रते वयं (*vāmamadya savitarvāmamu śvaḥ pūṣantava vrate vayaṃ*) (Ā. 2-16). O nourishing Pūṣan, we who are engaged in your rite shall never at any time be harmed. Such as we are, here in this rite we are your praisers.
+
+### Printed p. 353
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O nourishing god Pūṣan
+- तव (*tava*)—your
+- व्रते (*vrate*)—engaged in your rite of worship
+- वयं (*vayaṃ*)—we
+- कदा चन (*kadā cana*)—always
+- न रिष्येम (*na riṣyema*)—may we not suffer harm
+- इह (*iha*)—in this sacrificial rite
+- ते (*te*)—your
+- स्तोतारः स्मसि (*stotāraḥ smasi*)—are we not your praisers?
+
+##### भावार्थ (Bhāvārtha)
+
+O nourishing god Pūṣan, may we, engaged in your rite of worship, never be subject to harm. In this sacrificial rite are we not your praisers?
+
+##### English translation
+May we never suffer detriment when engaged, Pushan, in your worship : we are at this time your adorers.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Cāturmāsya, at the Vaiśvadeva parvan, in the oblation made to the deity Pūṣan, this Ṛk beginning पूषन् तव (*pūṣan tava*) is to be recited as the anuvākyā mantra: this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra वाममद्य सवितर्वाममु श्वः पूषन्तव व्रते वयं (*vāmamadya savitarvāmamu śvaḥ pūṣantava vrate vayaṃ*) (Ā. 2-16).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ पू॒षा प॒रस्ता॒द्दस्तं॑ दधातु॒ दक्षि॑णं ।  
+> पुन॑र्नो न॒ष्टमाज॑तु ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । पूषा । परस्तात् । हस्तं । दधातु । दक्षिणं ।  
+> पुनः । नः । नष्टं । आ । अजतु ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूषो पोषको देवः परस्तात्परस्मिन्देशे सुसंचारादन्यस्मिन् चोरव्याघ्रादिभिरुषिते देशे गच्छतो गोधनस्य निवारणाय स्वकीयं दक्षिणं हस्तं परि
+> दधातु । परिधानं निवारकं करोतु । नोऽस्मदीयं नष्टं च गोधनं पुनराजतु ।
+> आगच्छतु । आगमयतु ॥
+
+##### Gist of the bhāṣya
+
+May the nourishing god Pūṣan place his own right hand around, as a barrier, to keep back our cattle-wealth that goes to a distant place, to another region inhabited by thieves, tigers and the like**NOTE**. And may he bring back to us again our lost cattle-wealth; may he come with it, may he cause it to come.
+
+### Printed p. 354
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषा (*pūṣā*)—the god Pūṣan
+- परस्तात् (*parastāt*)—over our cows that roam in forest tracts and the like, full of tigers and others
+- दक्षिणं हस्तं (*dakṣiṇaṃ hastaṃ*)—his right hand
+- परि दधातु (*pari dadhātu*)—let him place over them (so that those cows may not go to an unprotected region)
+- नः (*naḥ*)—our
+- नष्टं (*naṣṭaṃ*)—the stolen cattle-wealth
+- पुनः (*punaḥ*)—again
+- आजतु (*ājatu*)—let him bring and join it to us
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Pūṣan place his right hand over our cows that roam in forest tracts and the like, full of tigers and others, to prevent them from going to unprotected regions. May he bring again to us our stolen cattle-wealth.
+
+##### English translation
+May Pushan put forth his right hand (to restrain our cattle) from going astray : may he bring again to us that which has been lost.
+
+The fifty-fifth sūkta
+
+## Sūkta 55 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एहि वामिति षडृचं षष्ठं सूक्तं भरद्वाजस्यार्षं गायत्रं पौष्णं ।
+> अनुक्रम्यते च । एहि वां षडिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the sixth sūkta, of six Ṛks, beginning एहि वां (*ehi vāṃ*), has Bharadvāja as its seer, the Gāyatra metre, and Pūṣan as its deity. The Anukramaṇī also says so (एहि वां षडिति (*ehi vāṃ ṣaḍiti*)). The use in ritual (viniyoga) has already been stated.
+
+Translation (Anuvāda): This sūkta beginning एहि वां (*ehi vāṃ*) is the sixth sūkta in the fifth anuvāka. In it there are six Ṛks. The seer of this sūkta is Bharadvāja; the deity is Pūṣan; the metre is Gāyatrī. In the Anukramaṇī it is said, एहि वां षट् (*ehi vāṃ ṣaṭ*). The use in ritual (viniyoga) has been stated before.
+
+Sūkta 55. Maṇḍala 6. Anuvāka 5. Sūkta 55. Aṣṭaka 4. Adhyāya 8. Varga 21. Number of Ṛks in the sūkta: 6. Seer: Bharadvāja Bārhaspatya. Deity: Pūṣan. Metre: Gāyatrī.
+
+### Printed p. 355
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एहि॒ वां वि॑मुचो नपा॒दाघृ॑णे॒ सं स॑चावहै ।  
+> रथीऋतुतस्य नो भव ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इहि । वां । विमुचः । नपात् । आघृणे । सं । सचावहै ।  
+> रथीः । यतस्य । नः । भव ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विमुचो नपात् । विमुंचति सृष्टिकाले स्वसकाशात्सर्वाः प्रजा विसृजतीति
+> विमुक् प्रजापतिः । तस्य पुत्राघृण आगतदीप्ते पूषन् वां । वाति गच्छति स्तुतिं
+> प्राप्नोतीति वा स्तोता ॥ वा गतिगंधनयोरित्यस्मादातो मनिन्निति विच् ॥ वां गंतारं
+> स्तोतारं मामेहि । आगच्छ । आवां च सं सचावहै । समयाव । संगच्छावहै ।
+> तादृशस्त्वं नोऽस्माकमृतस्य यज्ञस्य रथी रंहिता नेता भव । तथा सति तत्रत्यं
+> हविस्त्वयापि लभ्यत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O descendant of Vimuc: Vimuk is Prajāpati, who at the time of creation sends out all creatures from himself. O Aghṛṇa, Pūṣan, whose radiance has come to you, son of Prajāpati! वां (*vāṃ*) is the praiser, he who goes, that is, reaches the praise. Come to me, the praiser who goes to you. And let us two be united. Being such, be for us the swift leader (रथीः (*rathīḥ*)) of the rite (ऋतस्य (*ṛtasya*)), the sacrifice; in that case the oblation there will be received by you also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विमुचः (*vimucaḥ*)—of Prajāpati, who creates all beings at the time of creation
+- नपात् (*napāt*)—who are his son
+- आघृणे (*āghṛṇe*)—O Pūṣan, who have marvellous radiance
+- वां (*vāṃ*)—to me, your praiser
+- एहि (*ehi*)—graciously come
+- आवां (*āvāṃ*)—we two
+- सं सचावहै (*saṃ sacāvahai*)—let us be united and stay together
+- नः (*naḥ*)—our
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- रथीः (*rathīḥ*)—as leader
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, son of Prajāpati, who at the time of creation brings out into the light all beings hidden within himself, and possessed of marvellous radiance: come graciously to me, your praiser. Let us two be united and stay together. Be the leader of our sacrifice.
+
+##### English translation
+Come illustrious grandson of Prajapati to (me, your) worshipper :
+let us be associated : become the conveyer of our sacrifice.**NOTE**
+
+### Printed p. 356
+
+##### विशेषविषयगळु (Special Topics)
+
+अफ्घणे (*aphghaṇe*)—for this word Yāska has given the explanation:
+आघृणिरागतहृणिः आघृणे सं सचावहै । आगशहृणे सं सेवावहै ॥ (*āghṛṇirāgatahṛṇiḥ āghṛṇe saṃ sacāvahai | āgaśahṛṇe saṃ sevāvahai ‖*) (Ni. 5-9) **GLOSS**
+Durgācārya, commenting on this, has explained the meaning: आगतदीप्तिरागतक्रोधो वाभिधेयः (*āgatadīptirāgatakrodho vābhidheyaḥ*), that is, one who has blazing radiance, or one who has anger. Although the word आफृणि (*āphṛṇi*) is read both among the names expressing radiance, such as हरः हृणिः (*haraḥ hṛṇiḥ*), and among the names expressing anger, such as हेळः हरः हृणिः (*heḷaḥ haraḥ hṛṇiḥ*), here for the word आफृणि (*āphṛṇi*) the meaning "radiance", that is, "one who has radiance", is the fitting one.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒थीत॑मं कप॒र्दिन॒मीशा॑नं॒ राध॑सो म॒हः ।  
+> रा॒यः सखा॑यमीमहे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथितमं । कपर्दिनं । ईशानं । राधसः । महः ।  
+> रायः । सखायं । ईमहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथीतममतिशयेन रथिनं । यद्वा । अतिशयेन रंहितारं नेतारं कपर्दिनं ।
+> कपर्दश्चूडा । तद्वंतं । राध्नोत्यनेनेति राधो धनं । महो महतो
+> राधसो धनस्येशानं स्वामिनं सखायमस्माकं मित्रमेवंविधं पूषणं रायो
+> धनानीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+रथीतमं (*rathītamaṃ*) is the one who is the greatest charioteer; or else, the one who is the supreme swift leader. कपर्दिनं (*kapardinaṃ*): kapardaḥ is the hair-knot (cūḍā); he who has it. राधो (*rādho*) is wealth, that by which one prospers. Pūṣan is lord, owner, of great wealth, and our friend; of him, such as he is, we beg riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथीतमं (*rathītamaṃ*)—the supreme leader
+- कपर्दिनं (*kapardinaṃ*)—who has an attractive tuft of hair
+- महः (*mahaḥ*)—to great
+- राधसः (*rādhasaḥ*)—wealth
+- ईशानं (*īśānaṃ*)—who is the lord
+- सखायं (*sakhāyaṃ*)—who is a friend to us; Pūṣan
+- रायः (*rāyaḥ*)—for the sake of wealth
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+We ask the god Pūṣan, the supreme leader, who has an attractive tuft of hair, who is lord of great wealth and a friend to us, for wealth.
+
 ---
 
-**Progress note:** Done through printed p. 350. Mandala 6 sukta 53 rk 10 end; sukta 54 rks 1-7 (start), Pushan
+**Progress note:** Done through printed p. 356. Mandala 6 sukta 54 rks 7-10; sukta 55 rks 1-2, Pushan
