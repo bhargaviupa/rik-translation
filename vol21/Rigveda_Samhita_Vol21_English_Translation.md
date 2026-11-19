@@ -23537,6 +23537,315 @@ The shining, good-working, well-known Savitṛ stretches up his golden arms for 
 
 The radiant, good-working, well-known god Savitṛ lifts up and stretches out his golden arms for excellent giving. Savitṛ, who is to be honoured, ever young, of excellent understanding and engaged in the manifold works of the worlds, extends fully his arms, full of water.
 
+### Printed p. 533
+
+##### English translation
+The divine and benevolent Savitri puts forth his golden arms for (making) donations : the adorable, youthful, sagacious (deity), stretches out out his hands, filled with water, in the various service of the world.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वस्य॑ व॒यं स॑वि॒तुः सवी॑मनि॒ श्रेष्ठे॑ स्याम॒ वसु॑नश्च दा॒वने॑।  
+> यो विश्व॑स्य द्वि॒पदो॒ यश्चतु॑ष्पदो नि॒वेश॑ने प्रस॒वे चासि॒  ॑
+> भूमनः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवस्य । वयं । सवितुः । सवीमनि । श्रेष्ठे । स्याम । वसुनः । च । दावने ।  
+> यः । विश्वस्य । द्विपदः । यः । चतुःपदः । निवेशने । प्रसवे । च । असि । भूमनः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्य देवस्य सवितुः प्रेरकस्य सवीमनि प्रसवेऽनुज्ञाने । तथा च यास्कः ।
+> सवीमनि प्रसवे । नि. ६-७ । इति । श्रेष्ठेऽतिशयेन प्रशस्ते वसुनो धनस्य दावने
+> दाने च स्याम । समर्था भूयास्म । यस्त्वं विश्वस्य सर्वस्य द्विपदो निवेशने
+> स्थितौ प्रसवे च स्वतंत्रोऽसि । यस्त्वं भूमनो भूरेश्चतुप्पदो निवेशने प्रसवे
+> च स्वतंत्रोऽसि ॥
+
+##### Gist of the bhāṣya
+
+Of that god Savitṛ, the impeller, in his *savīman*, that is, in his impulsion (*prasava*) or permission. So Yāska says that *savīman* means *prasava* (Ni. 6-7). In what is most excellent, most highly praised, and in the giving of wealth, may we be capable; that is, may we be able. You who are independent in the maintenance (*niveśana*) and in the generation (*prasava*) of all that is two-footed, and you who are independent in the maintenance and generation of what is abundant and four-footed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the divine
+- सवितुः (*savituḥ*)—of Savitṛ
+- सवीमनि (*savīmani*)—in the permission
+- श्रेष्ठे (*śreṣṭhe*)—the excellent
+- वसुनः (*vasunaḥ*)—of wealth
+- दावने च (*dāvane ca*)—and in the giving, being worthy recipients
+- वयं (*vayaṃ*)—we
+- स्याम (*syāma*)—may we be (O god Savitṛ)
+- यः (*yaḥ*)—you who
+- विश्वस्य (*viśvasya*)—of all
+- द्विपदः (*dvipadaḥ*)—of men and others who have two feet
+- निवेशने (*niveśane*)—in the maintenance
+- प्रसवे च (*prasave ca*)—and in the generation
+- असि (*asi*)—you are independent
+- यः (*yaḥ*)—you who
+- भूमनः (*bhūmanaḥ*)—of those very numerous
+- चतुष्पदः (*catuṣpadaḥ*)—of cattle and others that have four feet; in their creation and in their maintenance you are the independent cause
+
+### Printed p. 534
+
+##### भावार्थ (Bhāvārtha)
+
+May we be in the permission of the divine Savitṛ and be worthy recipients of the giving of excellent wealth. O god Savitṛ, you who are the independent cause of the generation and the maintenance of all that is two-footed, men and others, and four-footed, cattle and others.
+
+##### English translation
+May we be amongst the progeny of the divine Savitri, and (have power) to offer him most excellent donations : for you are he who (are absolute) in the procreation and perpetuation of many (living beings), bipeds or quadrupeds.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद॑च्छेभिः सवितः पा॒युभि॒ष्ट्वं शि॒वेभि॑र॒द्य परि॑ पाहि नो॒  ॑
+> गयं ।  
+> हिर॑ण्यजिह्वः सुवि॒ताय॒ नव्य॑से॒ रक्षा॒ माकि॑र्नो अ॒घशं॑स ईशत॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदब्बेभिः । सवितरिति । पायुभिः । त्वं । शिवेभिः । अद्य । परि । पाहि । नः । गयं ।  
+> हिरण्यजिह्वः । सुविताय । नव्यसे । रक्ष । माकिः । नः । अघशंसः । ईशत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितरदभेभिरहिंसित्यैः पायुभिस्तेजोभी रक्षणसाधनैर्वा शिवेभिः
+> सुखकारिभिर्नोऽस्माकं गयं गृहं धनं वा । गयः कृदर इति गृहनामसु माळ्वं
+> गय इति धननामसु पाठात् । अद्य परि याहि । रक्ष । हिरण्यजिह्वो हितरमणीयवाक् त्वं । तथा च यास्कः । हिरण्यं कस्मादित्युपक्रम्य हितरमणं भवतीति वा ।
+> नि. २-१० । इति । सुविताय सुखाय नव्यसे नवतराय भव । रक्ष । अस्मान्पालय च ।
+> नोऽस्माकमघशंसोऽनर्थमाशंसमानः शत्रुर्माकिरीशत । मेशत ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, with your undamaged (that is, unharmed) protecting powers, either splendours or means of protection, which bring happiness, protect our *gaya*, our house or wealth. *Gaya* is read among the names of house in the Nighaṇṭu (*gayaḥ kṛdaraḥ*) and among the names of wealth (*mālvaṃ gayaḥ*). Today protect **NOTE**; guard us. You are *hiraṇyajihva*, of speech that is beneficial and delightful. So Yāska, beginning with the question why gold is called *hiraṇya*, says that it is so because it is beneficial and delightful (Ni. 2-10). For our happiness, for the newer, be so; guard us and protect us. Let no enemy who wishes us harm (*aghaśaṃsa*) have power over us; the closing words **NOTE** are not clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O god Savitṛ
+- अदब्बेभिः (*adabbebhiḥ*)—unharmed
+- पायुभिः (*pāyubhiḥ*)—protecting
+- शिवेभिः (*śivebhiḥ*)—and auspicious, by these your splendours
+- नः (*naḥ*)—our
+- गयं (*gayaṃ*)—house
+
+### Printed p. 535
+
+- अद्य (*adya*)—now
+- परि पाहि (*pari pāhi*)—protect
+- हिरण्यजिह्वः (*hiraṇyajihvaḥ*)—of golden speech
+- त्वं (*tvaṃ*)—you
+- सुविताय (*suvitāya*)—for our happiness
+- नव्यसे (*navyase*)—take a new form
+- रक्ष (*rakṣa*)—protect us
+- नः (*naḥ*)—to us
+- अघशंसः (*aghaśaṃsaḥ*)—the enemy who desires harm
+- माकिः ईशत (*mākiḥ īśata*)—let no one obtain the power to do harm
+
+##### भावार्थ (Bhāvārtha)
+
+O god Savitṛ, with your unharmed, protecting and auspicious splendours, protect now our house. You of golden speech, take a new form for our happiness and protect us. Let no enemy who desires harm to us obtain the power to do us harm.
+
+##### English translation
+You, Savitri, prosper to-day our dwelling with uninjurable protections, confirming happiness ; you who are golden-tongued, (be vigilant) for cur present prosperity : protect us ; let not any calumniator have powcr (to harm) us.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ ष्य दे॒वः स॑वि॒ता दमू॑ना॒ हिर॑ण्यपाणिः प्रतिदो॒षम॑स्थात् ।  
+> अयो॑हनुर्यज॒तो मं॒द्रजि॑ह्व॒ आ दा॒शुषे॑ सुवति॒ भूरि॑  ॒
+> वामं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । स्यः । देवः । सविता । दमूनाः । हिरण्यपाणिः । प्रतिदोषं ।  
+> अस्थात् ।  
+> अयःसहनुः । यजतः । मंद्रजिह्वः । आ । दाषुषे । सुवति । भूरि । वामं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतमानो दमूना दममना दानमना वा । तथा च यास्कः ।
+> दमूना दममना वा दानमना वा दांतमना वा।नि. ४-४ । इति । हिरण्यपाणिर्हिरण्मयपाणिरयोहनुर्हिरण्मयहनुः । रुक्कमय इति हिरण्य नामसु पाठात् । यजतो
+
+##### Gist of the bhāṣya
+
+*Deva* means the shining one; *damūnā* means one of a subduing mind or of a giving mind. So Yāska says that *damūnā* is *damamanā*, or *dānamanā*, or *dāntamanā* (Ni. 4-4). *Hiraṇyapāṇi* is he of golden hands; *ayohanu* is he of golden jaws, for *rukma* and *ayas* are read among the names of gold. *Yajata*
+
+### Printed p. 536
+
+> यष्टव्यो मंद्रजिह्वो मोदमानवाक् स्य स सविता प्रतिदोषं प्रतिरात्रं
+> रात्रेरवसानेऽवसान उदस्थात् । उत्तिष्ठतु । यो दाशुषे यजमानाय मह्यं
+> भूरि प्रभूतं वामं वननीयं संभजनीयमन्नं । वामं वननीयं । नि. ६-३१ ।
+> इति यास्कः । आ सुवति प्रेरयति ॥
+
+##### Gist of the bhāṣya
+
+means he who is to be worshipped; *mandrajihva* means he of delightful speech. That well-known Savitṛ, each night, at the end of the night, has risen; let him rise. He who for me, the sacrificer who gives the oblation, impels (*ā suvati*) abundant (*bhūri*, that is, plentiful) and desirable (*vāma*, that is, to be won and shared) food. So Yāska says that *vāma* means what is to be won (Ni. 6-31).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the radiant one
+- दमूनाः (*damūnāḥ*)—of a giving mind
+- हिरण्यपाणिः (*hiraṇyapāṇiḥ*)—of golden hands
+- अयोहनुः (*ayohanuḥ*)—of golden cheeks
+- यजतः (*yajataḥ*)—the one to be worshipped
+- मंद्रजिह्वः (*maṃdrajihvaḥ*)—of delightful speech
+- सृः (*sṛḥ*)—the well-known
+- सविता (*savitā*)—god Savitṛ
+- प्रतिदोषं (*pratidoṣaṃ*)—at the end of every night
+- उदस्थात् (*udasthāt*)—let him rise
+- दाशुषे (*dāśuṣe*)—to me who offer oblations
+- भूरि (*bhūri*)—abundant
+- वामं (*vāmaṃ*)—and attractive food
+- आ सुवति (*ā suvati*)—let him provide
+
+##### भावार्थ (Bhāvārtha)
+
+May the radiant, giving-minded, golden-handed, golden-cheeked, adorable, delightful-voiced, well-known god Savitṛ rise at the end of every night. May he provide abundant and attractive food to me who offer oblations.
+
+##### English translation
+May the divine, munificent, golden-handed, golded-jawed, adorable sweet-spoken Savitri, rise regularly at the close of night : when he bestows abundant and desirable (food) upon the donor of the oblation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदू॑ अयो उपव॒क्तेव॑ बा॒हू हि॑र॒ण्यया॑ सवि॒ता सु॒प्रती॑का ।  
+> दि॒वो रोहां॑स्यरुहत्पृथि॒व्या अरी॑रमत्प॒तय॒त्कच्चि॒दभ्वं॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । अयान् । उपवक्ता इव । बाहू इति । हिरण्यया । सविता । सुप्रतीका ।  
+> दिवः । रोहांसि । अरुहत् । पृथिव्याः । अरीरमत् । पतयत् । कत् । चित् । अभ्वं ॥
+
+### Printed p. 537
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सवितोपवक्तेवास्माकमधिवक्तेव हिरण्यया हिरण्मयौ सुप्रतीका शोभनावयन् बाहू उदयान् । उद्यच्छतु । योऽयं पृथिव्याः पृथिवीपर्यंताद्दिवोऽंतरिक्षस्य रोहांस्युच्छ्रितप्रदेशानरुहत् रोहति । पतयत् गच्छत् कच्चित्
+> यत्किंचिदभ्वं महत्सर्वं वस्तुजातं तिरोहितमरीरमत् रमयति च ॥
+
+##### Gist of the bhāṣya
+
+May Savitṛ, like one who speaks for us (*upavaktṛ*), raise his two golden (*hiraṇmaya*) arms, with beautiful limbs. He who climbs from the earth, up to the end of the earth, the heights of the sky, that is, the elevated regions of the atmosphere; going, he gladdens everything great that exists, though hidden.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—god Savitṛ
+- उपवक्तेव (*upavakteva*)—like one who tells us of his auspicious presence
+- हिरण्यया (*hiraṇyayā*)—golden
+- सुप्रतीता (*supratītā*)—of excellent form
+- बाहू (*bāhū*)—arms
+- उदयान् (*udayān*)—let him lift up and stretch out (this same Savitṛ)
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth (and)
+- दिवः (*divaḥ*)—of the atmosphere
+- रोहांसि (*rohāṃsi*)—the lofty regions
+- अरुहत् (*aruhat*)—he climbs
+- पतयत् (*patayat*)—moving about
+- कच्चित् अभ्वं (*kaccit abhvaṃ*)—all great beings
+- अरीरमत् (*arīramat*)—he gladdens
+
+##### भावार्थ (Bhāvārtha)
+
+May god Savitṛ, like one who tells us of his auspicious presence, lift up and hold out his golden arms of excellent form. This same Savitṛ climbs the lofty regions of the earth and the atmosphere. Moving about, he gladdens all great beings.
+
+##### English translation
+May Savitri put forth like an orator his golden well-formed arms : (he who), from the ends of the earth, ascends to the summit of the sky, and, moving along, delights every thing that is.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यं॑  
+> सावीः ।  
+> वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाजः॑ स्याम ।
+
+### Printed p. 538
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वामं । अद्य । सवितः । वामं । ऊं इति । श्वः । दिवेऽदिवे । वामं । अस्मभ्यं । सावीः।  
+> वामस्य । हि । क्षयस्य । देव । भूरेः । अया । धिया । वामभाजः । स्याम ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितरस्मभ्यं वामं धनमद्य सावीः । सुव । श्वश्च वामं धनं प्रसुव ।
+> किं बहूक्त्या । दिवे दिवे प्रतिदिनं वामं धनं प्रसुव । हे देव हि यस्मात्
+> क्षयस्य निवासभूतस्य भूरेः प्रभूतस्य वामस्य दातासि अतो वयमयानया धिया
+> स्तुत्या वामभाजो धनवंतः स्याम । भूयास्म ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, beget (*sāvīḥ*, that is, bring forth) for us today desirable (*vāma*) wealth, and tomorrow also bring forth desirable wealth. Why say much? Day by day, every day, bring forth desirable wealth. O god, because you are the giver of abundant (*bhūri*, that is, plentiful) desirable wealth that is the abode of a dwelling, therefore may we, by this praise, be sharers in the desirable, that is, possessed of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O god Savitṛ
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- वामं (*vāmaṃ*)—attractive wealth
+- अद्य (*adya*)—now
+- सावीः (*sāvīḥ*)—produce
+- श्वः (*śvaḥ*)—tomorrow also
+- वामं (*vāmaṃ*)—produce wealth of the same kind
+- दिवे दिवे (*dive dive*)—every day
+- नामं (*nāmaṃ*)—produce that same wealth
+- देव (*deva*)—O god Savitṛ
+- हि (*hi*)—because
+- क्षयस्य (*kṣayasya*)—of a dwelling-house
+- भूरेः (*bhūreḥ*)—of abundant
+- वामस्य (*vāmasya*)—wealth, you are the giver (therefore)
+- आया धिया (*āyā dhiyā*)—by this same praise
+- वामभाजः (*vāmabhājaḥ*)—possessed of wealth
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O god Savitṛ, produce for us attractive wealth today, tomorrow, and likewise every day. Produce every day that same wealth. O divine Savitṛ, by the greatness through which you are the giver of a dwelling-house and abundant wealth, make us, as the fruit of this our praise, possessed of wealth.
+
+##### English translation
+Beget for us Savitri, wealth to-day, wealth day by day : you are the giver of ample wealth, of a (spacious) mansion : may we, by this praise, become partakers of wealth.
+
+### Printed p. 539
+
+## Sūkta 72 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रासोमा महीति पंचर्चमेकादशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमिंद्रासोमदेवताकं । इंद्रासोमा पंचैंद्रासोममित्यनुक्रांतं ॥ सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इंद्रासोमा महीति (*iṃdrāsomā mahīti*) has five ṛks and is the eleventh sūkta. Bharadvāja is its seer; its metre is Triṣṭubh; its deity is Indra and Soma. It is given in the Anukramaṇikā: इंद्रासोमा पंचैंद्रासोममित्यनुक्रांतं (*iṃdrāsomā paṃcaiṃdrāsomamityanukrāṃtaṃ*) **GLOSS**. The use of the sūkta is by indication of the text.
+
+##### Anuvāda
+
+This sūkta इंद्रासोमा महि (*iṃdrāsomā mahi*) is the eleventh sūkta in the sixth anuvāka. It has five ṛks. Bharadvāja is the seer of this sūkta; Indra and Soma are the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: इंद्रासोमा पंचैंद्रासोमं (*iṃdrāsomā paṃcaiṃdrāsomaṃ*) **GLOSS**. The use of the sūkta is by indication of the text.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 72 **NOTE**
+- Aṣṭaka 5; Adhyāya 1; Varga 16
+- Number of ṛks in the sūkta: 5
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: इंद्रासोमौ (*iṃdrāsomau*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा॒ महि॒ तद्वा॑ महि॒त्वं यु॒वं म॒हानि॑ प्रथ॒मानि॑  
+> चक्रथुः ।  
+> यु॒वं सूर्यं॑ विवि॒दथु॑र्यु॒वं स्व१॒॑र्विश्वा॒ तमां॑स्यहतं  ॒॑
+> निदश्च ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । महि । तत् । नां । महित्वं । युवं । महानि । प्रथमानि । चक्रथुः ।  
+> युवं । सूर्यं । विविदथुः । युवं । स्वः । विश्वा । तमांसि । अहतं । निदः । च ॥१॥
+
 ---
 
-**Progress note:** Done through printed p. 532. Mandala 6 sukta 70 Rks 4-6; sukta 71 Rk 1
+**Progress note:** Done through printed p. 539. Sūkta 71 Ṛk 2-6 (Savitṛ) and start of Sūkta 72
