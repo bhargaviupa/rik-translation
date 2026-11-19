@@ -20609,6 +20609,310 @@ O goddess Uṣas, by your grace the Aṅgirases release now itself the herds of 
 ##### English translation
 Verily, Ushas. the Angirasas through your (favour) recover the herd of cattle from the summit of the mountain : by adoration and prayer they
 
+### Printed p. 467
+
+have divided (the rock) : unfailing was the praise of the gods uttered by the leaders (of rites).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒च्छा दि॑वो दुहितः प्रश्न॒वन्नो॑ भरद्वाज॒वद्वि॑ध॒ते म॑घोनि।  
+> सु॒वीरं॑ र॒यिं गृ॑ण॒ते रि॑रीह्युरुगा॒यमधि॑ धेहि॒ श्रवो॑ नः ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उच्छृ । दिवः । दुहितरिति । प्रश्नवत् । नः । भरद्वाजवत् । विधते । मघोनि ।  
+> सुवीरं । रयिं । गृणते । रिरीहि । उरुगायं । अधि । धेहि । श्रवः । नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दिवो दुहितरुषः प्रत्नवत्पुरातनेभ्य इव नोऽस्मदर्थमुच्छ । तमांसि
+> वर्जय । हे मघोनि भरद्वाजवद्विधते परिचरते । भरद्वाजवदिति वचनादन्योऽप्यस्ति
+> भरद्वाजः । तथा च ब्राह्मणं । प्राणो वै भरद्वाजवदिति । गृणते स्तुतिं कुर्वते
+> मह्यं सुवीरं कल्याणपुत्रपौत्रादियुक्तं रयिं धनं रिरीहि । देहि । किंच नोऽस्मभ्यमुरुगायं बहुभिर्गातव्यं श्रवोऽन्नमधि धेहि । अधिकं प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, daughter of heaven, as for the ancients, so for us drive away the darkness. O wealthy one, to me who serve you, as to Bharadvāja: the word "bharadvājavat" implies that there is yet another Bharadvāja, and so a Brāhmaṇa says प्राणो वै भरद्वाजवदिति (*prāṇo vai bharadvājavaditi*) **GLOSS**. To me who offer praise give wealth together with excellent sons, grandsons and the like. Further, bestow upon us in abundance food, which is to be sung by many; give more.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवो दुहितः (*divo duhitaḥ*)—O goddess Uṣas, daughter of the heavenly world
+- प्रत्नवत् (*pratnavat*)—just as you favoured in the past
+- नः (*naḥ*)—for us also
+- उच्छृ (*ucchṛ*)—disperse the darkness
+- मघोनि (*maghoni*)—O goddess Uṣas who are possessed of wealth
+- भरद्वाजवत् (*bharadvājavat*)—just as you gave in the past to Bharadvāja
+- विधते (*vidhate*)—to me too who offer worship to you
+- गृणते (*gṛṇate*)—and who praise you
+- सुवीरं (*suvīraṃ*)—together with heroic sons and the like
+- रयिं (*rayiṃ*)—wealth
+- रिरीहि (*rirīhi*)—give
+- नः (*naḥ*)—to us
+- उरुगायं (*urugāyaṃ*)—praised by many
+- श्रवः (*śravaḥ*)—food
+- अधि धेहि (*adhi dhehi*)—give in abundance
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, daughter of the heavenly world, as you favoured in the past, so for us also destroy the darkness and bring about light. O goddess Uṣas, who are possessed of wealth, as you gave in the past to Bharadvāja, so give to me also, who offer worship to you and praise you, wealth together with heroic sons and the like. Provide us also with food that is praised by many.
+
+### Printed p. 468
+
+##### English translation
+Daughter of hevan, dawn upon us, as upon those of old : possessor of riches (dawn) upon the worshipper, as (you have done upon) Bharadwaja : grant to him who glcrifes you, wealth with male decendants : give to us food that may be distributed to many.
+
+## Sūkta 66 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वपुर्नु तदित्येकादशर्चं पंचमं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभं
+> मारुतं । कथा चानुक्रम्यते । वपुर्न्वेकादश मारुतमिति ॥ व्यूळ्की दशरात्रे
+> षष्ठेऽहन्याग्नि मारुत इदं सूक्तं मारुतनिविद्वानं । सूत्रितं च । हविष्कांतं वपुर्नु
+> तत् । आ. ८-८ । इति ॥ वैश्वदेवे पर्वणि मारुतसप्तकपालस्य प्र चित्रमर्कमिति याज्या ।
+> प्र चित्रमर्कं गृणते तुरायेति नवानुयाज्याः । आ. २-१६ । इति ॥ एकादशिने
+> मारुते पशौ प्र चित्रमर्कमित्येपैव याज्या । सूत्रितं च । प्र चित्रमर्कं गृणते
+> तुरायारा इवेदचरमा अहेव । आ. ३ ७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta वपुर्नु तत् (*vapurnu tat*), of eleven ṛks, is the fifth sūkta; it is the vision of Bharadvāja, in the Triṣṭubh metre, with the Maruts as deity. In the Anukramaṇikā it is said वपुर्न्वेकादश मारुतमिति (*vapurnvekādaśa mārutamiti*) **GLOSS**. In the Daśarātra, on the sixth day, in the Āgnimāruta, this sūkta is placed as the sūkta of the Marut nivid.**NOTE** It is set out in the sūtra हविष्कांतं वपुर्नु तत् (*haviṣkāṃtaṃ vapurnu tat*) (Ā. 8-8). In the Vaiśvadeva parvan, for the Marut offering in seven potsherds, प्र चित्रमर्कमिति (*pra citramarkamiti*) is the yājyā, and the nine anuyājyās begin प्र चित्रमर्कं गृणते तुरायेति (*pra citramarkaṃ gṛṇate turāyeti*) (Ā. 2-16). In the Marut animal sacrifice of the Ekādaśin, this same प्र चित्रमर्कमित्येपैव (*pra citramarkamityepaiva*) is the yājyā; it is set out in the sūtra प्र चित्रमर्कं गृणते तुरायारा इवेदचरमा अहेव (*pra citramarkaṃ gṛṇate turāyārā ivedacaramā aheva*) (Ā. 3-7).
+
+##### Anuvāda
+
+Translation: this sūkta वपुर्नु तत् (*vapurnu tat*) is the fifth sūkta in the sixth anuvāka. It has eleven ṛks. Bharadvāja is the seer of this sūkta; the Maruts are the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said वपुर्न्वॆकादश मारुतं (*vapurnvèkādaśa mārutaṃ*) **GLOSS**. On the sixth day of the sacrifice called Vyūḷha Daśarātra, in the middle of the Āgnimāruta śastra mantras, this sūkta is to be recited as the nivid-sūkta of the Marut deity, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra हविष्मांतं वपुर्नु तत् (*haviṣmāṃtaṃ vapurnu tat*) (Ā. 8-8).**NOTE** In the Parveṣṭi connected with the Vaiśvadeva, in the Mārutasaptakapāla homa, the ninth ṛk प्र चित्रमर्क० (*pra citramarka0*) is to be recited as yājyā mantra, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra प्र चित्रमर्क० गृणते तुरायेति नवानुयाजः (*pra citramarka0 gṛṇate turāyeti navānuyājaḥ*) (Ā. 2-16).**NOTE** In the Marut animal sacrifice made on the day of the sacrifice called Ekādaśin, the ṛk प्र चित्रमर्क० (*pra citramarka0*) is to be recited as yājyā mantra, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra प्र चित्रमर्क० गृणते तुरायरा इवेद चरमा अहेव (*pra citramarka0 gṛṇate turāyarā iveda caramā aheva*) (Ā. 3-7).
+
+### Printed p. 469
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 66
+- Aṣṭaka 5; Adhyāya 1; Varga 7, 8
+- Number of ṛks in the sūkta: 11
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: मरुतः (*marutaḥ*)
+- Metre: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वपु॒र्नु तच्चि॑कि॒तुषे॑ चिदस्तु समा॒नं नाम॑ धे॒नु पत्य॑मानं ।  
+> मर्ते॑ष्व॒न्यद्दो॒हसे॑ पी॒पाय॑ स॒कृच्छु॒क्रं दु॑दुहे॒ पृश्नि॒ रूधः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वपुः । नु । तत् । चिकितुषे । चित् । अस्तु । समानं । नाम । धेनु । पत्यमानं ।  
+> मर्तेषु । अन्यत् । दोहसे । पीपाय । सकृत् । शुक्रं । दुदुहे । पृश्निः । ऊधः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्प्रसिद्धं समानमेकरूपं । मरुतः सर्वदा समानरूपाः । तथा च निगमांतरं । अजेष्ठासो अकनिष्ठास एते । ऋग्वे. ५-६०-५ । इति । नाम स्थिराणामपि
+> नामकं धेनु प्रीणयित्यु पत्यमानं सर्वदा गच्छद्वपुर्मरुतां रूपं चिकितुषे
+> विदुषे स्तोत्रे नु क्षिप्रमस्तु । प्रादुर्भवतु । चिदिति पूरकं । किंच तद्रूपं
+> मर्त्येषु मर्त्यलोकेऽन्यदोषधिवनस्पत्यादिकं दोहसे कामान्डोग्गुं पीपाय ।
+> आप्याययति । किंच मरुतामेव निर्देशात्पृश्निरंतरिक्षं सकृत्संवत्सरस्य वर्षासु
+> शुक्रं शुक्लवर्णमूध उदकं दुदुहे । क्षरति ॥
+
+##### Gist of the bhāṣya
+
+That well-known form is the same, that is, of one form; the Maruts are always of the same form. So another Vedic passage says अजेष्ठासो अकनिष्ठास एते (*ajeṣṭhāso akaniṣṭhāsa ete*) (Ṛgve. 5-60-5)**NOTE** **GLOSS**. "Nāma" is the namer even of those who are firm. The pleasing, ever-moving form of the Maruts: may it quickly be manifest to the knowing praiser; "cid" is a filler. Further, that form, among mortals, in the mortal world, makes the herbs, trees and the like other than man swell, so as to yield desires. Further, from the mention of the Maruts alone, Pṛśni, the atmosphere, once in the year, in the rains, milks the bright udder, that is the water, that is, lets it flow.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तत् (*tat*)—the renowned
+- समानं (*samānaṃ*)—having one form
+- नाम (*nāma*)—that which makes strong enemies submissive
+- धेनु (*dhenu*)—the pleasing
+- पत्यमानं (*patyamānaṃ*)—and ever moving
+- वपुः (*vapuḥ*)—form of the Maruts
+- चिकितुषे (*cikituṣe*)—to the wise praiser
+- नु (*nu*)—quickly
+- अस्तु (*astu*)—let it be visible and appear (that same troop of Maruts)
+- मर्तॆषु (*martèṣu*)—in the human world
+- अन्यत् (*anyat*)—the herbs, trees and the like
+- दोहसे (*dohase*)—for the accomplishment of the desired ends of man
+
+### Printed p. 470
+
+- पीपाय (*pīpāya*)—it makes grow (by the will of these Maruts)
+- पृश्निः (*pṛśniḥ*)—the atmosphere
+- सकृत् (*sakṛt*)—at the respective time of the year
+- शुक्रं (*śukraṃ*)—of bright colour
+- ऊधः (*ūdhaḥ*)—the water
+- दुदुहे (*duduhe*)—milks
+
+##### भावार्थ (Bhāvārtha)
+
+The renowned form of the Maruts, which is of one form, makes powerful enemies submissive, is pleasing and ever moving, becomes visible before the wise praiser. That same troop of Maruts makes the herbs, trees and the like in the human world grow for the accomplishment of the desired ends of man. By the will of these Maruts, the atmosphere also, in the rainy season of the year, milks bright-coloured water.
+
+##### English translation
+May the like-formed, benevolent, all-pervading, all-humiliating troop (of the Maruts) be promptly with the prudent man : the troop that ever cherishes, all that amongst mortals is designed to yield (them) advantage and (at whose will) Prishni gives milk from (her) bright udder once (in the year).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये अ॒ग्नयो॒ न शोशु॑चन्निधा॒ना द्विर्यत्रिर्म॒रुतो॑  ॒॑
+> वावृधंत ।  
+> अ॒रे॒णवो॑ हिर॒ण्यया॑स एषां सा॒कं नृ॒म्मैः पौंस्ये॑भिश्च  
+> भूवन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । अग्नयः । न । शोशुचन् । इधानाः । द्विः । यत् । त्रिः । मरुतः । ववृधंत ।  
+> अरेणवः । हिरण्ययासः । एषां । साकं । नृम्मैः । पौंस्येभिः । च । भूवन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुता इधाना आग्नयो न समिध्यमाना आग्नय इव शोशुचन्
+> दीप्यंते । यद्ये मरुतो द्विर्द्विगुणं त्रिस्त्रिगुणं च ववृधंत इच्छानुरूपं वर्धंते॥
+> संहितायां दीर्घश्चांदसः ॥ एषां मरुतां रथा अरेणवो रेणुरहिता हिरण्य-
+
+##### Gist of the bhāṣya
+
+The Maruts shine like fires that are being kindled; they grow twofold and threefold, that is they increase as they wish. The chariots of these Maruts are free of dust (continued below).
+
+### Printed p. 471
+
+> यासो हिरण्मयालंकाराश्च भवंति । ते मरुतो नृन्मैर्धनैः पौंस्येभिर्बलैश्च
+> साकं सार्धं भूवन् । प्रादुर्भवंति । तथा च निगमांतरं । ये पृषतीभिर्यष्टिभिः ।
+> ऋग्वे. १-३७-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+and have golden fittings; that is, the Maruts' chariots are golden and ornamented with gold. Those Maruts appear together with riches and with strengths. So another Vedic passage says ये पृषतीभिर्यष्टिभिः (*ye pṛṣatībhiryaṣṭibhiḥ*) (Ṛgve. 1-37-2)**NOTE** **GLOSS**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये मरुतः (*ye marutaḥ*)—the Maruts who
+- अग्नयो न (*agnayo na*)—like fires
+- इधानाः (*idhānāḥ*)—blazing
+- शोशुचन् (*śośucan*)—shine
+- यत् (*yat*)—which Maruts
+- द्विः (*dviḥ*)—twofold
+- त्रिः (*triḥ*)—and threefold
+- ववृधंत (*vavṛdhaṃta*)—attain increase
+- एषां (*eṣāṃ*)—the chariots of such Maruts
+- अरेणवः (*areṇavaḥ*)—free of dust
+- हिरण्ययासः (*hiraṇyayāsaḥ*)—and made of gold (these same Maruts)
+- नृमैः (*nṛmaiḥ*)—with riches
+- पौंस्येभिश्च साकं (*pauṃsyebhiśca sākaṃ*)—together with powers
+- भूवन् (*bhūvan*)—they manifest themselves
+
+##### भावार्थ (Bhāvārtha)
+
+The chariots of the Maruts, who blaze and shine like fires and who increase twofold and threefold, are free of dust and made of gold. Those same Maruts manifest themselves together with riches and with powers.
+
+##### English translation
+Unsoiled by dust the golden chariots of those Maruts, who are shining like kindled fires, enlarging themselves (at will) twofold and three-fold, and (charged) with riches and virile energies, are manifest.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रु॒द्रस्य॒ ये मा॒ळ्हुषः॒ संति॑ पु॒त्रा यांश्चो॒ नु दाधृ॑वि॒र्भर॑ध्यै ।  
+> वि॒दे हि मा॒ता म॒हो म॒ही षा सेत्पृश्निः॑ सु॒भ्वे॒३॒॑ ३ गर्भ॒माधा॑त् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रुद्रस्य । ये । माळुषः । संति । पुत्राः । यान् । चो इति । नु । दाधृविः । भरध्यै ।  
+> विदे । हि । माता । महः । मही । सा । सा । इत् । पृश्निः । सुभ्वे । गर्भं । अ ।  
+> अधात् ॥ ३ ॥
+
+### Printed p. 472
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मीळ्हुषः सेक्तू रुद्रस्य पुत्रा ये मरुतः संति दाधृविर्धरित्रि पृश्निरंतरिक्षं
+> यांश्चो नु यांश्च मरुतो नु भरध्यै भर्तुं क्षमा भवति । विदे हि सर्वज्ञाता हि
+> महो महतामेषां माता सा पृश्निर्मही महती । किंच सा पृश्निः सुभ्वे नृणां
+> सम्यक् भवनाय गर्भमुदकमाधात् । आदधाति ।
+
+##### Gist of the bhāṣya
+
+The Maruts who are sons of Rudra, the sprinkler, the supporting Pṛśni, that is the atmosphere, is able to bear them. "Vide hi" means that it is known to all that the mother of these great ones, that Pṛśni, is great. Further, that Pṛśni has conceived the germ, that is the water, for the good existence of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माळ्पुषः (*māḷpuṣaḥ*)—of the showerer of rain
+- रुद्रस्य (*rudrasya*)—of Rudra
+- पुत्राः (*putrāḥ*)—who are in the form of sons
+- ये (*ye*)—the Maruts who
+- संति (*saṃti*)—exist
+- यांश्चो नु (*yāṃśco nu*)—whom, the Maruts
+- भरध्वै (*bharadhvai*)—to bear
+- दाधृविः (*dādhṛviḥ*)—the atmosphere, the supporter, becomes able
+- महः (*mahaḥ*)—of such great Maruts
+- माता (*mātā*)—the mother
+- सा (*sā*)—Pṛśni
+- मही (*mahī*)—is of great form
+- विदे हि (*vide hi*)—this is a matter known to all
+- सा इत् पृश्निः (*sā it pṛśniḥ*)—that same Pṛśni
+- सुभ्वे (*subhve*)—to bring about the welfare of all men
+- गर्भं (*garbhaṃ*)—the water
+- आधात् (*ādhāt*)—has received and borne
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts who are in the form of sons of Rudra, the showerer of rain, and whom the atmosphere, the supporter, is able to bear: it is a matter known to all that Pṛśni, the mother of such great Maruts, is of great form. That same Pṛśni has received and borne the water to bring about the welfare of all men.
+
+##### English translation
+They (who are) the sons of the showerer Rudra, whom the nursing (firmament is able) to sustain, and of whom, the mighty ones, it is known that the great Prishni has received the germ for the benefit (of man).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न य ईषं॑ते ज॒नुषोऽया॒ न्व१॒॑ गंतः संतो॑ऽव॒द्यानि॑ पुना॒नाः।  
+> निर्यद्दु॒हे शुच॒योऽनु॒ जोष॒मनु॑ श्रि॒या त॒न्व॑मु॒क्षमा॑णाः ॥ ४ ॥
+
+### Printed p. 473
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ये । ईषंते । जनुषः । आया । नु । अंतरिति । संतः । अवद्यानि । पुनानाः ।  
+> निः । यत् । दुह्रे । शुचयः । अनु । जोषं । अनु । श्रिया । तन्वं । उक्षमाणाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये प्रसिद्धा मरुतो जनुषो जनान् स्तोत्कृन्यायायेन गमनसाधनेन
+> नेषंते न गच्छंति । किं तेषां रक्षणीयत्वाभावाद्यमनाभावो नेत्याह । अंतः
+> संतः सर्वेषां हृदि वर्तमाना एवावद्यानि पापानि पुनानाः शोधयंतः । तथा च
+> निगमांतरं । प्राणा वै मरुतः स्वापयः । ऐ. ब्रा. ३-१६ । इति । अतः सर्वप्राणिनां
+> हृदि वर्तमानत्वात्तेषां गमनं नास्तीति । अध्यात्मं प्राणरूपेणावस्थानं दर्शितं
+> भवति शीघ्रगामित्वं तु तेषामधिदैवतरूपेणेति द्रष्टव्यं । यद्यदा शुचयो
+> दीप्यमाना मरुतो जोषमनु स्तोत्कृणां काममनु निर्दुहे नितरां दुहंत्युदकं । तथा श्रिया दीप्यान्वनुगतास्तन्वमात्मीयं शरीरं प्रकाशयंत उक्षमाणा
+> भूमिं सिंचंतो भवंति । यद्वा । तन्नं विस्तीर्णं यथा भवति तथोक्षमाणा भूमिं
+> सिंचंतो भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The well-known Maruts do not go to the people who praise them by any means of going. Is there then no going because there is no one to be protected? He says no: being within, dwelling in the hearts of all, they purify the sins. And so another Vedic passage says प्राणा वै मरुतः स्वापयः (*prāṇā vai marutaḥ svāpayaḥ*) (Ai. Brā. 3-16) **GLOSS**. Therefore, because they dwell in the hearts of all beings, they have no going. Thereby their standing in the self in the form of vital breaths is shown, while their swift-going is to be understood as belonging to their form as deities. When the shining Maruts milk out the water in accordance with the desire of the praisers, then, accompanied by splendour, making their own body shine, they sprinkle the earth. Or else: they sprinkle the earth in such a way that it is broad; this is the meaning.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—the Maruts who
+- अंतः संतः (*aṃtaḥ saṃtaḥ*)—being within the hearts of all people
+- अवद्यानि (*avadyāni*)—all the sins of each
+- पुनानाः (*punānāḥ*)—purify (such purifying Maruts)
+- जनुषः (*januṣaḥ*)—facing the praising people
+- अया (*ayā*)—in the means of going, chariots and the like
+- न ईषंते नु (*na īṣaṃte nu*)—there is no toil of having to go
+- यत् (*yat*)—when
+- शुचयः (*śucayaḥ*)—the shining Maruts
+- जोषमनु (*joṣamanu*)—in accordance with the wish of the praisers
+- निः दुह्रे (*niḥ duhre*)—milk out rain in abundance, then
+- श्रिया (*śriyā*)—with splendour
+- अनु (*anu*)—being accompanied
+- तन्वं (*tanvaṃ*)—making their own body shine
+- उक्षमाणाः (*ukṣamāṇāḥ*)—they are those who pour rain
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who being within the hearts of all people purify all the sins of each, such purifying Maruts have no toil of having to go to the praising people in chariots, the means of going. When the shining Maruts milk out rain in abundance in accordance with the wish of the praisers, then, accompanied by splendour and making their own body shine, they are those who pour rain.
+
 ---
 
-**Progress note:** Done through printed p. 466. Vol 21 pp. 461-466: Mandala 6 sukta 65 rks 1-5
+**Progress note:** Done through printed p. 473. Vol 21 pp. 467-473: Mandala 6 sukta 65 rk 6; sukta 66 rks 1-4
