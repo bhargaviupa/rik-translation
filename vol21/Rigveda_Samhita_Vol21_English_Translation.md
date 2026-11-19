@@ -24792,6 +24792,181 @@ The word ज्या (*jyā*) (bowstring) may be formed from the root जि (*
 
 Here the two tips of the bow are praised. Those two tips of the bow, *samaneva*, as if of one mind, as a woman does not leave the side of her husband, so moving about, *ācarantī*, going about on both sides, in the lap, *upastha*, in the nearness, like a mother her son
 
+### Printed p. 565
+
+> यथा माता पुत्रं धारयति तद्वद्विभृतां । राजानं धारयेतां । किंचेमे
+> धनुष्कोट्य संविदाने संजानाने विसंवादरहिते आर्त्नी गच्छंतौ ॥ य गताविति
+> धातोश्चुर्यगिभ्यां निरिति बाहुलकात् निप्रत्ययो धातोरार्तभावश्च । ततः
+> कृदिकारादक्तिनः । पा. ४-१-४५ । इति जीष् । द्विवचनस्य पूर्वसवर्णः ॥ अस्य
+> राज्ञोऽमित्रान् विष्णुरंती विहिंसंत्यौ शत्रूंश्चाप विध्यतां । तथा च यास्कः । ते
+> आचरंत्यौ समनसाविव योषे मातेव पुत्रं बिभृतामुपस्थ उपस्थानेऽपविध्यतां
+> शत्रून् संविदाने आर्त्न्याविमे विघ्नत्यावमित्रान् । नि. ९-४० । इति ॥
+
+##### Gist of the bhāṣya
+
+As a mother holds her son, so may they bear, that is, hold up, the king. Further, these two tips of the bow, *saṃvidāne*, agreeing together, free from disagreement, going as *ārtnī*. May the two, harming, *viṣṇurantī*, the foes of this king, pierce away the enemies. So Yāska: ते आचरंत्यौ समनसाविव योषे मातेव पुत्रं बिभृतामुपस्थ उपस्थानेऽपविध्यतां शत्रून् संविदाने आर्त्न्याविमे विघ्नत्यावमित्रान् (*te ācaraṃtyau samanasāviva yoṣe māteva putraṃ bibhṛtāmupastha upasthāne 'pavidhyatāṃ śatrūn saṃvidāne ārtnyāvime vighnatyāvamitrān*) (Ni. 9-40).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समना (*samanā*)—possessed of a loving mind
+- योषा इव (*yoṣā iva*)—like a wife
+- आचरंती (*ācaraṃtī*)—ever staying close by
+- माता (*mātā*)—a mother
+- उपस्थे (*upasthe*)—in the lap, close by
+- पुत्रं इव (*putraṃ iva*)—as she holds a son (on her thigh)
+- ते (*te*)—these two tips of the bow (the front parts)
+- बिभृतां (*bibhṛtāṃ*)—may they bear the king
+- इमे (*ime*)—these same tips of the bow
+- संविदाने (*saṃvidāne*)—in one and the same manner
+- आर्त्नी (*ārtnī*)—moving
+- अमित्रान् (*amitrān*)—the adversaries
+- विष्णुरंती (*viṣṇuraṃtī*)—harassing
+- शत्रून् (*śatrūn*)—the enemies
+- अप विध्यतां (*apa vidhyatāṃ*)—may they drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+Like a wife of loving mind, ever staying close by, and as a mother holds on her lap the son who is on her thigh, may these front parts of the bow bear the king. May these same tips of the bow, moving in one and the same manner and harassing the adversaries, drive the enemies far away.
+
+##### English translation
+May the two extremities of the bow, acting consentaneously, like a wife sympathizing (with her husband), uphold (the warrior), as a mother nurses her child upon her lap ; and may they, moving concurrently, and harassing the foe, scatter his enemies.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk the two tips of the bow, called आर्त्नी (*ārtnī*), are praised. In describing them the seer has given the simile of women as the example. For this ṛk also Yāska has given a derivation—
+
+### Printed p. 566
+
+आर्त्नी । आर्त्नी आर्तन्यौ वारण्यौ वारिषण्यौ वा । तयोरेषा भवति॥ ते आचरंती समनेव योषा मातेव पुत्रं बिभृतामुपस्थे । अप शत्रून्विध्यतां संविदाने आर्त्नी इमे विष्णुरंती अमित्रान् ॥ ते आचरंत्यौ समनसाविव योषे मातेव पुत्रं बिभृतामुपस्थ उपस्थानेऽपविध्यतां शत्रून् संविदाने आर्त्या विमे विघ्नत्यावमित्रान् ॥ (*ārtnī | ārtnī ārtanyau vāraṇyau vāriṣaṇyau vā | tayoreṣā bhavati‖ te ācaraṃtī samaneva yoṣā māteva putraṃ bibhṛtāmupasthe | apa śatrūnvidhyatāṃ saṃvidāne ārtnī ime viṣṇuraṃtī amitrān ‖ te ācaraṃtyau samanasāviva yoṣe māteva putraṃ bibhṛtāmupastha upasthāne 'pavidhyatāṃ śatrūn saṃvidāne ārtyā vime vighnatyāvamitrān ‖*) (Ni. 9-40)
+
+In this ṛk also there are two similes. First the derivation of the form of the word आर्त्नि (*ārtni*) will be given. आर्त्नि (*ārtni*) is a word in the dual number of the nominative case. The word आर्त्नि (*ārtni*) may be formed from the root ऋ-गतौ (*ṛ-gatau*), which has the meaning "go" (आर्तन्यौ (*ārtanyau*)), or because the tips are made of wood (wood or bamboo stave) (अरण्यौ (*araṇyau*)), or from the word अरिषण्यौ (*ariṣaṇyau*), which has the meaning "kill enemies". That is: since the tips (the ārtnis) of this bow send the arrows out of the bow, it may be formed from the root *ṛ*, which has the meaning "go". Or अरण्यौ (*araṇyau*) means that, since this bow is made from a special tree born in the forest, the tips of this bow are made of wood; so it may be formed from the word *araṇi*, which indicates that meaning. Or, according to the meaning suggested in the word वारिषण्यौ (*vāriṣaṇyau*), because the arrows that go out with the help of the tips of this bow kill the *ari*, that is, the enemies, the name आर्त्नि (*ārtni*) has come; this is the purport of the derivation.
+
+To make clear the meaning and use of this word आर्ति (*ārti*), he has taken the present ṛk beginning ते आचरंती (*te ācaraṃtī*) itself as the example and given a derivation for it. In the bow there are two tips, called the upper and the lower. These two tips are like two women. When one husband has two wives and both of them tend the husband who is equally joined to both of them, just as the minds of both co-operate in one and the same manner towards their husband and they behave accordingly, so the two tips of the bow co-operate and work when the arrow is let go from the string. Both tips bend equally, to one and the same level. There is no possibility that one bends more and the other less. As if there were mutual co-operation, both tips bend at the same time to the same level and help the arrow to go out of the bow. This matter the seer has explained by the simile sentence आचरंती समनेव योषा (*ācaraṃtī samaneva yoṣā*). This is the first simile. The sentence मातेव पुत्रं बिभृतामुपस्थे (*māteva putraṃ bibhṛtāmupasthe*) and so on is the second simile. As a mother holds her infant upon her thighs, these tips of the bow, harassing the king's enemies in battle by their strength and capacity and helping to kill them, hold, that is, protect, the king, who is like her son. A mother protects her child from various troubles
+
+### Printed p. 567
+
+and dangers. Likewise these tips of the bow, being like a mother to the king, harass in battle, by means of the arrows that go out with their help, the enemy people who cause him trouble, destroy them, and protect the king from distress; this is the main purport of the derivation and of the simile sentence.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब॒ह्वी॒नां पि॒ता ब॒हुर॑स्य पु॒त्रश्चि॒श्चा कृ॑णोति॒ सम॑नाव॒गत्य॑ ।  
+> इ॒षु॒धिः संकाः॒ पृत॑नाश्च॒ सर्वाः॑ पृ॒ष्ठे निन॑द्धो जयति॒  ॑
+> प्रसूतः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बह्वीनां । पिता । बहुः । अस्य । पुत्रः । चिश्चा । कृणोति । समना । अवगत्यॆ ।  
+> इषुधिः । संकाः । पृतनाः । च । सर्वाः । पृष्ठे । निनद्धः । जयति । प्रसूतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इषुधिरत्र स्तूयते । इषुधिर्बह्वीनामिषूणां पिता भवति । रक्षणहेतुत्वाश्चितेत्युच्यते । इषुशब्दस्योभयलिंगत्वादद्बह्वीनामिति प्रयोगः । अस्येषुधेः पुत्र
+> इषुर्बहुर्भवति । बहव इषवो हीषुधौ निधीयंते । इषूणां निधानत्वादिषुधिः ।
+> तथा च यास्कः । इषुधिरिषूणां निधानं । नि. ९-१३ । इति । चिश्चा कृणोति । चिश्चेति
+> शब्दानुकृतिः । इषुषूद्धियमाणेष्टिषुधिश्चिश्चाशब्दं करोति । किंचेषुधिः पृष्ठे
+> निनद्दो धन्विनो राज्यः पृष्ठभागे बद्धः समना युद्धान्यवगत्य प्राप्य प्रसूतः
+> प्रसुवन् ॥ कर्तरि निष्ठा ॥ इषून्रेरयन् संकाः । सह कायंति शब्दायंत इति
+> संकाः पृतनाः । सर्वाः सेना जयति ॥
+
+##### Gist of the bhāṣya
+
+The quiver is praised here. The quiver is the father of many arrows; because it is a cause of protection it is called a father. Since the word *iṣu* has both genders, the use *bahvīnām* occurs. The son of this quiver, the arrow, is many; for many arrows are placed in the quiver. Because it is the receptacle of arrows it is the *iṣudhi*. So Yāska: इषुधिरिषूणां निधानं (*iṣudhiriṣūṇāṃ nidhānaṃ*) (Ni. 9-13). चिश्चा कृणोति (*ciścā kṛṇoti*): चिश्च (*ciśca*) is an imitation of a sound; when the arrows are drawn out, the quiver makes the sound चिश्चा (*ciścā*). Further, the quiver, bound at the back of the king who holds the bow, having reached, *avagatya*, the battles, *samanā*, that is, having come to them, impelling the arrows, *prasūtaḥ*, संकाः (*saṃkāḥ*): those that together cry out, make a sound, are संकाः (*saṃkāḥ*), armies. It conquers all armies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इषुधिः (*iṣudhiḥ*)—the quiver
+- बह्वीनां (*bahvīnāṃ*)—to many arrows
+- पिता (*pitā*)—it is a place of shelter, like a father
+- अस्य (*asya*)—of this quiver
+- पुत्रः (*putraḥ*)—the arrow, in the form of a son
+- बहुः (*bahuḥ*)—is of a large number
+- चिश्चा (*ciścā*)—when arrows are drawn out, the sound "chiḥ chiḥ"
+- कृणोति (*kṛṇoti*)—it makes
+- पृष्ठे (*pṛṣṭhe*)—on the back of the bowman
+- निनद्धः (*ninaddhaḥ*)—bound
+- समना (*samanā*)—the battles
+
+### Printed p. 568
+
+- अवगत्य (*avagatya*)—having approached
+- प्रसूतः (*prasūtaḥ*)—impelling the arrows
+- संकाः (*saṃkāḥ*)—that are making a sound
+- सर्वाः पृतनाः (*sarvāḥ pṛtanāḥ*)—all the armies
+- जयति (*jayati*)—it conquers
+
+##### भावार्थ (Bhāvārtha)
+
+This same quiver is a place of shelter, like a father, to many arrows. The arrow, in the form of a son of this quiver, is of a large number. When the arrows are drawn out it makes a sound. Bound at the back of the bowman, approaching the battles and impelling the arrows, it conquers all the armies that are making a sound.
+
+##### English translation
+The quiver, the parent of many, of whom many are the sons, clangs as it enters into the battle : slung at the back (of the warrior), prolific (of its shafts), it overcomes all shouting hosts.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk the इषुधिः (*iṣudhiḥ*), that is, the quiver in which arrows are kept, is described. For this ṛk also Yāska has given a derivation—
+
+इषुधिः । इषुधिरिषूणां निधानं । तस्यैषा भवति । बह्वीनां पिता बहुरस्य पुत्रश्चिश्चा कृणोति समनावगत्य । इषुधिः संकाः पृतनाश्च : सर्वाः पृष्ठे निनद्धो जयति प्रसूतः ॥ बहूनां पिता बहुरस्य पुत्र इतीषूनभिप्रेत्य प्रस्मयत इवापाप्रियमाणः शब्दानुकरणं वा । संकाः सचतेः संपूर्वाद्वा किरतेः । पृष्ठे निनद्धो जयति । प्रसूत इति व्याख्यातं ॥ (*iṣudhiḥ | iṣudhiriṣūṇāṃ nidhānaṃ | tasyaiṣā bhavati | bahvīnāṃ pitā bahurasya putraściścā kṛṇoti samanāvagatya | iṣudhiḥ saṃkāḥ pṛtanāśca : sarvāḥ pṛṣṭhe ninaddho jayati prasūtaḥ ‖ bahūnāṃ pitā bahurasya putra itīṣūnabhipretya prasmayata ivāpāpriyamāṇaḥ śabdānukaraṇaṃ vā | saṃkāḥ sacateḥ saṃpūrvādvā kirateḥ | pṛṣṭhe ninaddho jayati | prasūta iti vyākhyātaṃ ‖*) (Ni. 9-14)
+
+इषु (*iṣu*) means an arrow. Therefore इषुधिरिषूणां निधानं (*iṣudhiriṣūṇāṃ nidhānaṃ*): the leather bag in which arrows are kept, or the quiver, is named इषुधिः (*iṣudhiḥ*). Since the word इषु (*iṣu*) is used in both the masculine and the feminine, in this ṛk the feminine word बह्नीनां (*bahnīnāṃ*) (of arrows) as an attribute and the masculine word पुत्रः (*putraḥ*) are used. बह्नीनां पिता (*bahnīnāṃ pitā*) means बहूनां पिता (*bahūnāṃ pitā*); here बह्वी (*bahvī*) means arrows that are numerous. In this iṣudhi, or quiver, there are many arrows. To them this iṣudhi is a पिता (*pitā*), that is, it is like a father or protector. Because it keeps the sharp edges (points) of the arrows from becoming blunt, it is said to be a protector. Therefore the sentence बह्नीनां पिता बहुरस्य पुत्रः (*bahnīnāṃ pitā bahurasya putraḥ*) has the meaning that this iṣudhi is the father or protector of many daughters (arrows), and that this iṣudhi has many sons (arrows). Here the word पुत्र (*putra*)
+
+### Printed p. 569
+
+indicates the generic singular, so the plural meaning "many sons" must be given for this word. Since the word इषु (*iṣu*) is used in the feminine and in the masculine, here the feminine word is understood as daughters and the masculine word as sons. Although there is a difference of gender, there is no difference of meaning. The meaning is simply arrows. How? Even if a man has only many daughters or female children, they say of him that he is the father of many children; or even if a man has many sons or male children, they say of him too that he is the father of many children, or that he has many children. As they regard children, whether male or female, simply as children and say only "father of children", so here, whether the word इषु (*iṣu*) is used in the masculine or in the feminine, the meaning is only one, and therefore the bag in which they are kept is well known by the name इषुधिः (*iṣudhiḥ*). When arrows are drawn out of this quiver one by one, quickly, at the time of battle, a kind of sound "chiḥ chiḥ" arises. From this sound the impression arises that the quiver is laughing (giggling). This the seer has described by the sentence चिश्चा कृणोति (*ciścā kṛṇoti*). Or the meaning of the sentence चिश्चाकृणोति (*ciścākṛṇoti*) may be given as: the quiver is making the imitative sound "chiḥ chiḥ". चिश्चा (*ciścā*) means the imitative sound "chiḥ chiḥ". The word संकाः (*saṃkāḥ*) in this ṛk may be formed from the root *sacati*, which has the meaning "suffer distress", or from the root *kirati*, which has the meaning "scatter", with the prefix सं (*saṃ*). In battle it is natural to suffer distress from the blows of various weapons and to scatter and run in various directions in fear of the enemy's blows; so संकाः (*saṃkāḥ*) means the armies in which these things happen; or, as the commentator has explained, सह कायंति शब्दायंत इति संकाः पृतनाः (*saha kāyaṃti śabdāyaṃta iti saṃkāḥ pṛtanāḥ*), that is, because they gather together on the battlefield and make sounds such as war-cries and groaning in pain, संकाः (*saṃkāḥ*) may also be taken to mean armies. पृष्ठॆ निनद्दो जयति प्रसूतः (*pṛṣṭhè ninaddo jayati prasūtaḥ*)—when fighting, since it is necessary for the warriors, when they discharge arrows from the bow at the enemy, that arrows reach their hands quickly, it is the practice for them to tie this quiver containing the arrows behind them on the back, draw the arrows from it one by one, fit them to the string of the bow and discharge them at the enemy. Therefore it is said here that the quiver is tied on the back. The main purport is that such a quiver, urging the warrior on in battle and making him eager, brings victory to the warrior who uses it.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथे॒ तिष्ठ॑न्नयति वा॒जिनः॑ पु॒रो यत्र॑यत्र का॒मय॑ते  ॒
+> सुषार॒थिः ।
+
+### Printed p. 570
+
+> अभीशूनां महिमानं पनायत मनः पश्चादनु यच्छंति  
+> रश्मयः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथे । तिष्ठन् । नयति । वाजिनः । पुरः । यत्रयत्र । कामयते । सुसारथिः ।  
+> अभीशूनां । महिमानं । पनायत । मनः । पश्चात् । अनु । यच्छंति । रश्मयः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र पूर्वार्धे सारथिस्तुतिरुत्तरार्धेऽभीशूनां स्तुतिः । सुषारथिः शोभनसारथी रथे तिष्ठन् पुरः पुरस्ताद्वर्तमानान्वाजिनोऽश्वान्यत्र यत्र नेतुं कामयते
+> तत्र तत्र नयति । ये रथे रश्मयोऽश्वग्रीवाभ्यां व्याप्य वर्तमानाः पाशाः पश्चात्
+> रथस्य पृष्ठभागे विद्यमाना आश्वान् मनः सारथेर्मनोऽनुकूलमनु यच्छंति ।
+> नियच्छंति । तेषामभीशूनां रश्मीनां महिमानं महत्त्वं पनायत । हे जनाः
+> स्तुत । तथा च यास्कः । रथे तिष्ठन्नयति वाजिनः पुरस्तात्सतो यत्र यत्र कामयते
+> सुषारथिः कल्याणसारथिरभीशूनां महिमानं पूजयत मनः पश्चात्सतोऽनुयच्छंति रश्मयः । नि. ९-१६ । इति ॥
+
+##### Gist of the bhāṣya
+
+Here in the first half the charioteer is praised, and in the second half the reins, *abhīśu*. The good charioteer, *suṣārathiḥ*, standing in the chariot, drives, *nayati*, the horses, *vājinaḥ*, that are in front of him, wherever, *yatra yatra*, he wishes to lead them, there. The reins in the chariot, which are nooses extending over the necks of the horses and which are at the back, in the rear part of the chariot, restrain, *anu yacchanti*, the horses according to the mind of the charioteer. Of those reins, *abhīśūnām*, the greatness, *mahimānam*, praise, *panāyata*; O people, praise. So Yāska: रथे तिष्ठन्नयति वाजिनः पुरस्तात्सतो यत्र यत्र कामयते सुषारथिः कल्याणसारथिरभीशूनां महिमानं पूजयत मनः पश्चात्सतोऽनुयच्छंति रश्मयः । न (*rathe tiṣṭhannayati vājinaḥ purastātsato yatra yatra kāmayate suṣārathiḥ kalyāṇasārathirabhīśūnāṃ mahimānaṃ pūjayata manaḥ paścātsato 'nuyacchaṃti raśmayaḥ | na*) (Ni. 9-16) **GLOSS**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुसारथिः (*susārathiḥ*)—the excellent charioteer
+- रथे (*rathe*)—in the chariot
+- तिष्ठन् (*tiṣṭhan*)—seated
+- पुरः (*puraḥ*)—that are in front of him
+- वाजिनः (*vājinaḥ*)—the horses
+- यत्रयत्र (*yatrayatra*)—wherever he wishes to go
+- कामयते (*kāmayate*)—desires
+- नयति (*nayati*)—he drives, there
+- रश्मयः (*raśmayaḥ*)—the reins (bridle) of those horses
+- पश्चात् (*paścāt*)—the horses yoked to the rear part of the chariot
+- मनः (*manaḥ*)—in accordance with the mind's resolve of the charioteer
+- अनु यच्छंति (*anu yacchaṃti*)—they restrain (O praisers)
+- अभीशूनां (*abhīśūnāṃ*)—of these reins (rope or bridle)
+- महिमानं (*mahimānaṃ*)—the greatness
+- पनायत (*panāyata*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+The excellent charioteer, seated in the chariot, drives the horses that are in front of him to wherever he wishes to go. The nooses of those horses restrain the horses yoked to the rear part of the chariot in accordance with the mind's resolve of the charioteer. O praisers, praise the greatness of these reins (bridles).
+
 ---
 
-**Progress note:** Done through printed p. 564. Sūkta 75 Ṛk 1 to 3 complete, Ṛk 4 start
+**Progress note:** Done through printed p. 570. Sūkta 75 Ṛk 4 end, Ṛk 5, Ṛk 6 up to Bhāvārtha
