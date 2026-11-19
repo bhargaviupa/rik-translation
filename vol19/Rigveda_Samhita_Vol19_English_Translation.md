@@ -26533,6 +26533,240 @@ Its explanation can be given in this way.—
 
 तावत्सर्व एवार्क इत्युच्यते यद्यस्मादेनं देवं अर्चंति (*tāvatsarva evārka ityucyate yadyasmādenaṃ devaṃ arcaṃti*) The god: अर्क (*arka*) means a deity, because it is the person or god whom the devotees use it for worshipping; that is, the object (deity) that the devotees worship is called अर्क (*arka*).
 
+### Printed p. 735
+
+##### विशेषविषयगळु (Special Topics)
+
+अर्को मंत्रो भवति । यद्यस्मादनेन मंत्रेणार्चंति (*arko maṃtro bhavati | yadyasmādanena maṃtreṇārcaṃti*) **NOTE** Arka is understood to mean a mantra also. Because those who praise worship the deity with this (with arka, that is, with the mantra), the word अर्क (*arka*) has also the name mantra.
+
+अर्कमन्नं भवति—तद्धि अर्चति भूतानि यो हि पूज्यः तस्यान्नमपि संस्कारविशेषेण संस्कृतं पूजायां क्रियते, (*arkamannaṃ bhavati—taddhi arcati bhūtāni yo hi pūjyaḥ tasyānnamapi saṃskāraviśeṣeṇa saṃskṛtaṃ pūjāyāṃ kriyate,*) **NOTE** Arka is understood to mean food also. Since food is necessary for all living beings, everyone honours and desires food. That is, because everyone honours it with love and regard and wishes for it, the word अर्क (*arka*) is understood to mean food also.
+
+अर्क वृक्षो भवति य एष प्रसिद्धः । संवृत्तः हि संगतः संव्याप्तः कटुकिम्ना कटुकभावेन (*arka vṛkṣo bhavati ya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṃgataḥ saṃvyāptaḥ kaṭukimnā kaṭukabhāvena*) **NOTE** Further, the name of a special tree is well known for the word अर्क (*arka*). The arka tree is called in the Karṇāṭaka language ekkadagiḍa. Because its samits (twigs) are used in homas and because it is customary to use it in medicines and the like, the arka tree is a thing known to everyone. Because it is bitter it is called कटुकिम्ना (*kaṭukimnā*). In the present Ṛk the commentator has explained the word अर्क (*arka*) as meaning अर्चनीयाः (*arcanīyāḥ*), that is, those who are worthy of worship.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ष्टयो॑ वो मरुतो॒ आंस॑यो॒रधि॒ सह॒ ओजो॑ बा॒ह्वोर्वो॒ ॑ ॒
+> बलं हितं ।  
+> नृ॒म्मा शी॒र्षस्वायु॑धा॒ रथे॑षु वो॒ विश्वा॑ वः॒ श्रीरधि॑ त॒नूषु॑  
+> पिपिशे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋष्टयः । वः । मरुतः । आसयोः । अधि । सहः । ओजः । बाह्वोः । वः । बलं ।  
+> हितं ।  
+> नृम्मा । शीर्षऽसु । आयुधा । रथेषु । वः । विश्वा । वः । श्रीः । अधि । तनूषु ।  
+> पिपिशे ॥ ३ ॥
+
+**NOTE**
+
+### Printed p. 736
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकमंसयोरध्यृष्टय आयुधविशेषा हिताः ।
+> आश्रिताः । नक्ष्यमाणहितशब्दो विपरिणंतव्यः । अधीति सप्तम्यर्थानुवादी । तथा वो
+> बाह्वोरधि सहः शत्रूणामभिभावुकमोजः । ओज नामाष्टमो धातुः । तद्रूपं बलं
+> हितं । निहितं । शीर्षसु शिरःसु वृम्म्णा नृम्मानि हिरण्यमयानि पट्टोष्णीषादीनि
+> निहितानि । रथेष्वायुधायुधानि युद्धसाधनानि निहितानि । वः श्रीर्युष्माकं
+> कांतिस्तनूषु तदीयेष्वधि पिपिशे । अधिष्ठिता ' आश्रिता ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, on your shoulders special weapons, the spears, are placed, that is, rest; the word "placed", which is to be mentioned later, must be changed in form to fit, and the word "upon" only repeats the sense of the locative. Likewise in your arms there is a force that overpowers enemies; the word for vigour is the name of the eighth bodily element, and strength in that form is placed there. On your heads golden things, turbans of silk and the like, are placed. In your chariots weapons, instruments of battle, are placed. Your splendour, your lustre, is spread over your bodies, that is, rests upon them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- अंगयोरधि (*aṃgayoradhi*)—upon the shoulders
+- ऋष्टयः (*ṛṣṭayaḥ*)—spears (shine)
+- वः (*vaḥ*)—your
+- बाह्वोः (*bāhvoḥ*)—in the arms
+- सहः (*sahaḥ*)—able to face the enemy
+- ओजः (*ojaḥ*)—vigour
+- बलं (*balaṃ*)—and strength
+- हितं (*hitaṃ*)—are placed
+- शीर्षस्सु (*śīrṣassu*)—on your heads
+- नृम्मा (*nṛmmā*)—attractive turbans and the like shine
+- वः रथेषु (*vaḥ ratheṣu*)—in your chariots
+- आयुधा (*āyudhā*)—weapons
+- वः (*vaḥ*)—your
+- विश्वा (*viśvā*)—all
+- तनूषु अधि (*tanūṣu adhi*)—also on the limbs of the body
+- श्रीः (*śrīḥ*)—splendour
+- पिपिशे (*pipiśe*)—pervades and shines
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, spears shine upon your shoulders. In your arms the vigour and strength that can face the enemy are placed. Attractive turbans and the like shine on your heads. In your chariots there are weapons, and on all your limbs splendour pervades and shines.
+
+##### English translation
+Lances rest, Maruts, upon your shoulders; strength (of) foe-destroy ing powor is seated in your arms; golden (tiaras) are on your heads weapons are placed in your chariots, all glory is assembled in your limbs.**NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the ornaments worn by the Maruts and their special weapons are described. Likewise, in the Ṛk
+
+अंसेषु व ऋष्टयः पत्सु खादयो वक्षःसु रुक्मा मरुतो रथे शुभः । अग्निभ्राजसो विद्युतो गभस्योः शिप्राः शीर्षसु वितता हिरण्ययाः ॥ (*aṃseṣu va ṛṣṭayaḥ patsu khādayo vakṣaḥsu rukmā maruto rathe śubhaḥ | agnibhrājaso vidyuto gabhasyoḥ śiprāḥ śīrṣasu vitatā hiraṇyayāḥ ‖*) (Ṛ. Saṃ. 5-24-11)**NOTE**
+
+the description is, with a little more or less, the same as that of the present Ṛk.
+
+### Printed p. 737
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोम॒दश्वा॑व॒द्रथ॑वत्सु॒वीरं॑ चं॒द्रव॒द्राधो॑ मरुतो ददा नः।  
+> प्रश॑स्तिं नः कृणुत रुद्रियासो भक्षी॒य वोऽव॑सो॒ दैव्य॑स्य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽमत् । अश्ववत् । रथवत् । सुवीरं । चंद्रवत् । राधः । मरुतः । दद ।  
+> नः ।  
+> प्रशस्तिं । नः । कृणुत । रुद्रियासः । भक्षीय । वः । अवसः । दैव्यस्य ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो नोऽस्मभ्यं गोमद्बहुभिर्गोभिरुपेतमश्वानद्बहुभिरश्चैरुपेतं रथवद्रथोपेतं सुवीरं सुष्टु पुत्रोपेतं चंद्रवद्धिरण्योपेतं राधोऽन्नं
+> दद । ददत । व्यत्ययेनैकवचनं । अथवा लोडर्थस्य लिटो मध्यमबहुवचनं ॥ हे
+> रुद्रियासो रुद्रपुत्रा मरुतो नोऽस्मदीयां प्रशस्तिं । समृद्धिमित्यर्थः । तां
+> कृणुत । कुरुत। वो युष्माकं स्वभूतमवसोऽवो रक्षणं दैव्यस्य दैव्यं देवार्हं
+> भक्षीय । भजेय ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, give us wealth, food, accompanied by cattle, that is, furnished with many cows, with horses, that is, furnished with many horses, with chariots, with good sons, that is, furnished with excellent sons, and with gold. The verb is given in the singular by a change of number; or else it is the perfect in the sense of the imperative, second person plural. O sons of Rudra, Maruts, make for us praise, that is, prosperity. May I partake of your own protection, which is divine, that is, fit for gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- नः (*naḥ*)—to us
+- गोमत् (*gomat*)—accompanied by cows
+- अश्वावत् (*aśvāvat*)—distinguished by horses
+- रथवत् (*rathavat*)—furnished with chariots
+- सुवीरं (*suvīraṃ*)—filled with excellent sons and the like
+- चंद्रवत् (*caṃdravat*)—possessed of gold
+- राधः (*rādhaḥ*)—wealth
+- दद (*dada*)—give
+- रुद्रियासः (*rudriyāsaḥ*)—O Maruts, sons of Rudra
+- नः (*naḥ*)—to us
+- प्रशस्तिं (*praśastiṃ*)—prosperity of a special kind
+- कृणुत (*kṛṇuta*)—produce
+- नः (*naḥ*)—your**NOTE**
+- दैव्यस्य (*daivyasya*)—worshipful
+- अवसः (*avasaḥ*)—protection
+- भक्षीय (*bhakṣīya*)—grant that we may enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, give us wealth that is accompanied by cows, distinguished by horses, furnished with chariots, filled with excellent sons and the like, and rich in gold. O Maruts, sons of Rudra, create for us prosperity of a special kind. Grant that we may always enjoy your worshipful protection.
+
+### Printed p. 738
+
+##### English translation
+Maruts, bestow upon us affluence, comprehending cattle,horses, cars, treasure, and male descendants ; sons of Rudra, grant us distinction : may I ever enjoy your divine protection.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, which is the conclusion of the sūkta, and in the next Ṛk also, the seer Śyāvāśva has prayed to the Maruts to give wealth in the form of cows and the like.
+
+गोमत् अश्वावत्, रथवत्, सुवीरं चंद्रवत् राधः (*gomat aśvāvat, rathavat, suvīraṃ caṃdravat rādhaḥ*)—When the seer Śyāvāśva prays to the Maruts to give him the things he needs, he has prayed that they give राधः (*rādhaḥ*), wealth or riches. In what form that wealth should be, he has explained in the same place. He has asked that they give cows, horses, chariots, good sons and wealth in the form of gold, all of these. Wealth does not mean only property. That animal wealth such as cows and horses has been counted as wealth from ancient times is the established custom. The custom of calling wealth any thing that people need most urgently has come down from earlier times. In the Ṛgveda also it is just so.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒ये नरो॒ मरु॑तो मृ॒ळता॑ न॒स्तुवी॑मघासो॒ अमृ॑ता॒ऋत॑ज्ञाः ।  
+> सत्य॑श्रुतः॒ कव॑यो॒ युवा॑नो॒ बृह॑द्गिरयो बृ॒हदु॒क्षमा॑णाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हयी । नरः । मरुतः । मृळत । नः । तुविमघासः । अमृताः । ऋतज्ञाः ।  
+> सत्यश्रुतः । कवयः । युवानः । बृहत्गिरयः । बृहत् । उक्षमाणाः ॥ ८ ॥
+
+### Printed p. 739
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हये हे नरो नेतारो मरुतो नोऽस्मान्मृळत । सुखयत । अस्मभ्यं
+> हिताय वा सुखिनो भवत । हे तुवीमघासः प्रभूतधना अमृता अमरणस्वभावा
+> यतज्ञा उदकस्य यज्ञस्य वा ज्ञातारः । कर्तार इत्यर्थः । सत्यश्रुतः सत्येन सत्यफलत्वेन प्रसिद्धाः कवयो मेधाविनो युवासो नित्यतरुणा बृहद्दिरयः प्रभूतस्तुतयो बृहदत्यधिकमुक्षमाणा हविर्भिः सेविता उदकं वा सिंचंतो यूयं
+> मृळत ॥
+
+##### Gist of the bhāṣya
+
+O leaders, Maruts, make us happy; or else be happy for our good. O you of abundant wealth, immortal, that is, of a nature not subject to death, knowers of water or of sacrifice, that is, doers of it.**NOTE** Renowned for truth, that is, famed for the truth of the fruit of what you do; wise; ever young; of abundant praises; and, being served with oblations in great measure, or sprinkling water: such as you are, be gracious to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुवीमघासः (*tuvīmaghāsaḥ*)—possessing abundant wealth
+- अमृताः (*amṛtāḥ*)—free from death
+- ऋतज्ञाः (*ṛtajñāḥ*)—knowing the truth
+- सत्यश्रुतः (*satyaśrutaḥ*)—having true fame
+- कवयः (*kavayaḥ*)—the wise
+- युवानः (*yuvānaḥ*)—ever young
+- बृहद्दिरयः (*bṛhaddirayaḥ*)—worthy of abundant praises
+- बृहत् (*bṛhat*)—exceedingly
+- उक्षमाणाः (*ukṣamāṇāḥ*)—those to whom oblations are offered
+- नरः (*naraḥ*)—leaders, being such
+- हये मरुतः (*haye marutaḥ*)—O Maruts
+- नः (*naḥ*)—us
+- मृळत (*mṛḷata*)—make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, who possess abundant wealth, who are free from death, who know the truth, who have true fame, who are wise, ever young, worthy of abundant praises, to whom oblations are offered in great measure, and who are leaders: make us happy.
+
+##### English translation
+Ho, Maruts, leaders (of rites), be propitious to us, you who are infinitely opulent, immortal, shedders of rain, renowned for truth, wise, young, greatly glorified and worshipped with copious oblations.
+
+##### विशेषविषयगळु (Special Topics)
+
+हये (*haye*)—The word हये (*haye*) is used in the vocative sense like the word हे (*he*). Therefore here हये मरुतः (*haye marutaḥ*) means हे मरुतः (*he marutaḥ*), that is, O Maruts. The word हये (*haye*) occurs in
+
+हये देवा यूयमिदापयः स्थ ते मृळत नाधमानाय मह्यं । (*haye devā yūyamidāpayaḥ stha te mṛḷata nādhamānāya mahyaṃ |*) (Mṛ. Saṃ. 2-29-4)**NOTE**
+
+### Printed p. 740
+
+हये नरो मरुतो मृळता नस्तु वीमघासो अमृता ऋतज्ञाः । (*haye naro maruto mṛḷatā nastu vīmaghāso amṛtā ṛtajñāḥ |*) (Ṛ. Saṃ. 5 57-8)**NOTE**
+
+हये जाये मनसा तिष्ठ घोरे वचांसि मिश्रा कृणवावहै नु । (*haye jāye manasā tiṣṭha ghore vacāṃsi miśrā kṛṇavāvahai nu |*) (Ṛ. Saṃ. 10-95-1)
+
+and in these three Ṛks only. This word is not used anywhere else in the Ṛgveda. In all three places it is used in the vocative sense of हे (*he*).
+
+The fifty-eighth hymn.**NOTE**
+
+## Sūkta 58 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमु नूनमित्यष्टर्चं द्वितीयं सूक्तं श्यावाश्वस्यार्षं त्रैष्टुभं मारुतं।
+> तम्मित्यनुक्रमणिका । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning तमु नूनं (*tamu nūnaṃ*) is the second hymn, of eight Ṛks; its seer is Śyāvāśva, its deity the Maruts, its metre Triṣṭubh. The Anukramaṇikā begins तम्मित्यनुक्रमणिका (*tammityanukramaṇikā*). The application is by indication (liṅga).
+
+Translation: This hymn beginning तमु नूनं (*tamu nūnaṃ*) is the second hymn in the fifth Anuvāka. It has eight Ṛks. The seer of this hymn is Śyāvāśva; the deity is the Maruts; the metre is Triṣṭubh. In the Anukramaṇikā it is said to begin तमु (*tamu*). The application is by indication (liṅga).
+
+- Sūkta: 58
+- Maṇḍala 5; Anuvāka 5; Sūkta 58
+- Aṣṭaka 4; Adhyāya 3; Varga 23
+- Number of Ṛks in the Sūkta: 8
+- Ṛṣi: Śyāvāśva Ātreya
+- Devatā: Maruts
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ नू॒नं तवि॑षीमंतमेषां स्तु॒षे ग॒णं मारु॑तं॒  ॑
+> नव्यसीनां ।
+
 ---
 
-**Progress note:** Done through printed p. 734. Maruts hymn 5.57 Rk 3-5, pp. 729-734
+**Progress note:** Done through printed p. 740. Maruts hymn 5.57 Rk 6-8, hymn 5.58 start, pp. 735-740
