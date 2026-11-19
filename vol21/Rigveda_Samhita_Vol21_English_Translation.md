@@ -16507,6 +16507,249 @@ O god Pūṣan, one of your forms, the day, is of white colour. Another form of 
 ##### English translation
 One of your forms, (Pushan), is luminous, one is venerable; so that the day is variously complexioned : for you are like the sun: verily. best-
 
+### Printed p. 375
+
+##### English translation
+ower of food, you protect all intelligences: may your auspicious liaberality be manifested on this occasion.
+
+##### विशेषविषयगळु (Special Topics)
+
+On this ṛk Yāska gives an etymological explanation: शुक्रं ते अन्यल्लोहितं ते अन्यद्यजतं ते अन्यद्यज्ञियं ते अन्यद्विषमरूपे अहनी कर्म द्यौरिव चासि सर्वाणि प्रज्ञानान्यवस्यन्नवन् भाजनवती ते पूषन्निह दत्तिरस्तु ॥ (*śukraṃ te anyallohitaṃ te anyadyajataṃ te anyadyajñiyaṃ te anyadviṣamarūpe ahanī karma dyauriva cāsi sarvāṇi prajñānānyavasyannavan bhājanavatī te pūṣanniha dattirastu ‖*) (Ni. 12-17). O god Pūṣan, one of your forms is of red colour, or exceedingly luminous. Another form is worthy of sacrifice, that is, fit to be worshipped with sacrifices and the like. Your two forms, day and night, are of mutually opposed character: that is, since the day is luminous and the night is accompanied by darkness, the one is opposed to the other. Again, like Āditya, or like the light of Āditya, you are pervasive everywhere. You protect all wise people (or all wisdom, or the Śāstras). Besides, you are the possessor of food, that is, the one who provides food to all. Therefore, O god Pūṣan, may a gift of auspicious food and the like be given to us also: this is the chief purport of the explanation. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒जाश्वः॑ पशु॒पा वाज॑पस्यो धियंजि॒न्वो भुव॑ने॒ विश्वे॒  ॑
+> अर्पितः ।  
+> अष्टां॑ पू॒षा शि॑थि॒रामु॒द्वरी॑वृजत्सं॒चक्षा॑णो॒ भुव॑ना दे॒व  ॑
+> ईयते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजआश्वः । पशुपाः । वाजपस्यः । धियंजिन्वः । भुवने । विश्वे । अर्पितः ।  
+> अष्टां । पूषा । शिथिरां । उत्वरीवृजत् । संचक्षाणः । भुवना । देवः ।  
+> ईयते ॥ २ ॥
+
+### Printed p. 376
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आजाश्वश्भागवाहनः पशुपाः पशूनां पालयिता वाजपस्यः । वाजा अन्नानि
+> पस्ये गृहे यस्य तादृशः । धियंजिन्वः ! धियः स्तोतारः कर्माणि वा ! तेषां
+> प्रीणयिता विश्वे विश्वस्मिन् सर्वस्मिन् भुवने लोकेऽर्पितः प्रजापतिना पोषकत्वेन
+> स्थापितः । अत एवंभूतः पूषा पोषको देवोऽष्टामारां स्वहस्तगतां शिथिरां
+> शिथिलां सतीमुद्वरीवृजत् उद्यच्छन् भुवना भुवनानि सर्वान् लोकान् भूतजातानि
+> वा संचक्षणः संपश्यन् सूर्यात्मना प्रकाशयन् ईयते । नभसि गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Ajāśva: one whose vehicle is a goat. **NOTE** Paśupāḥ: the protector of animals. Vājapasya: one in whose house, pasya, there are foods, vājāḥ. Dhiyaṃjinva: dhiyaḥ are the worshippers or the rites; he is the one who gratifies them. He has been placed by Prajāpati, as the nourisher, in the whole world. Such a Pūṣan, the nourishing god, brandishing the goad held loosely in his own hand, observing all the worlds or all beings, and illuminating them in the form of the Sun, goes, that is, moves in the sky.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजाश्वः (*ajāśvaḥ*)—he who has a horse of goat form
+- पशुपातिः (*paśupātiḥ*)—the herdsman of animals **NOTE**
+- वाजपस्यः (*vājapasyaḥ*)—he whose house is full of abundance of food
+- धियंजिन्वः (*dhiyaṃjinvaḥ*)—he who satisfies the worshippers
+- विश्वे (*viśve*)—in the whole
+- भुवने (*bhuvane*)—world
+- अर्पितः (*arpitaḥ*)—he who is placed as nourisher
+- पूषा देवः (*pūṣā devaḥ*)—the god Pūṣan
+- शिथिरां (*śithirāṃ*)—held loosely
+- अष्टां (*aṣṭāṃ*)—the thunderbolt (goad) **NOTE**
+- उद्वरीवृजत् (*udvarīvṛjat*)—brandishing all around
+- भुवना (*bhuvanā*)—all the worlds
+- संचक्षणः (*saṃcakṣaṇaḥ*)—observing
+- ईयते (*īyate*)—he moves
+
+##### भावार्थ (Bhāvārtha)
+
+The god Pūṣan, who has a horse of goat form, the herdsman of animals, whose house is full of abundance of food, who satisfies the worshippers, and who is placed as the nourisher in all the worlds, moves about brandishing the loosely held thunderbolt and observing all the worlds.
+
+##### English translation
+The rider of the goat, the protector of animals, in whose dwelling food is abundant, the propitiated by sacred rites, who has been placed over the whole (world) the divine Pushan, brandishing his loosened goad, proceeds (in the sky), contemplating all beings.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यास्ते॑ पूष॒न्नावो॑ अं॒तः स॑मु॒द्रे हि॑र॒ण्ययी॑रं॒तरि॑क्षे॒ चरं॑ति ।  
+> ताभि॑र्यासि दू॒त्यां सूर्य॑स्य॒ कामी॑न कृत॒ श्रव॑ इ॒च्छमा॑नः ॥
+
+### Printed p. 377
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । ते । पूषन् । नावः । अंतरिति । समुद्रे । हिरण्ययीः । अंतरिक्षे । चरंति ।  
+> ताभिः । यासि । दूत्यां । सूर्यस्य । कामेन । कृत । श्रवः । इच्छमानः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पौष्णस्य पशोर्वपापुरोडाशयोर्यास्ते पूषन्नित्यादिके द्वे ऋचावनुवाक्ये । सूत्रितं च । यास्ते पूषन्नावो अंतः समुद्र इति द्वे पूषेमा आशा अनु
+> वेद सर्वाः । आ. ३-७ । इति ॥
+> हे पूषन् ते त्वदीया या हिरण्ययार्हिरण्मय्यो हितरमणीया नावः
+> समुद्र उदधावंतर्मध्ये०तरिक्षे नभसि चरंति संचरंति ताभिर्नौभिः सूर्यस्य
+> दूत्यां यासि । गच्छसि । कदाचिद्देवैः सार्धं सूर्येसुरवधार्थं प्रस्थिते सति तस्य
+> भार्या स्वभर्तरि संजातौत्सुक्या बभूव तां प्रति सूर्यः पूषणं प्राहैषीत् तेन
+> चात्र पूषा स्तूयते । अपि च त्वं श्रवो हनिर्लक्षणमन्नमिच्छमान इच्छन् कामेन
+> पश्वादिविषयेण स्तोतृभिः कृतो वशीकृतोऽसि ॥
+
+##### Gist of the bhāṣya
+
+For the vapā and the puroḍāśa of the animal belonging to Pūṣan, the two ṛks beginning यास्ते पूषन् (*yāste pūṣan*) are anuvākyā verses. This is laid down in the Sūtra (Ā. 3-7). O Pūṣan, those golden, beneficial and delightful ships of yours that move within the ocean, in the sky: with those ships you go on the errand of Sūrya as his messenger. Once, when Sūrya had set out with the gods to slay the Asuras, his wife became anxious about her husband. Sūrya sent Pūṣan to her, and therefore Pūṣan is praised here. Moreover, you desire the food that is the oblation, śravas, and you have been brought under control by the worshippers through their desire, directed to cattle and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O god Pūṣan
+- ते (*te*)—your
+- हिरण्ययाः (*hiraṇyayāḥ*)—made of gold
+- याः नावः (*yāḥ nāvaḥ*)—which vessels
+- समुद्रे (*samudre*)—of the ocean
+- अंतः (*aṃtaḥ*)—in the middle
+- अंतरिक्षे (*aṃtarikṣe*)—in the sky
+- चरंति (*caraṃti*)—move
+- ताभिः (*tābhiḥ*)—with those vessels
+- सूर्यस्य (*sūryasya*)—of Sūrya
+- दूत्यां (*dūtyāṃ*)—the duty
+- यासि (*yāsi*)—you carry out
+- श्रवः (*śravaḥ*)—the food in the form of the oblation
+- इच्छमानः (*icchamānaḥ*)—desiring
+- कामेन (*kāmena*)—by the oblation offered willingly
+- कृतः (*kṛtaḥ*)—you are brought under control
+
+##### भावार्थ (Bhāvārtha)
+
+O god Pūṣan, with those vessels made of gold that move in the sky, which is as the middle of the ocean, you carry out the duty of Sūrya. Desiring the food in the form of the oblation, you are brought under control by the oblation offered willingly.
+
+##### English translation
+With those your golden vessels, which navigate within the ocean-firmament, you discharge the office of messenger of the sun: desirous of the sacrificial food, you are propitiated by (that which is) willingly offered.
+
+### Printed p. 378
+
+##### विशेषविषयगळु (Special Topics)
+
+When the vapā and puroḍāśa offerings are made in the animal sacrifice performed for the deity Pūṣan, the two ṛks beginning यास्ते पूषन् (*yāste pūṣan*) (this ṛk and the next) are to be recited as anuvākyā mantras. This is set out by the Sūtra of the Āśvalāyana Śrauta Sūtra: यास्ते पूषन्नावो अंतः समुद्र इति द्वे पूषेमा आशा अनु वेद सर्वाः (*yāste pūṣannāvo aṃtaḥ samudra iti dve pūṣemā āśā anu veda sarvāḥ*) (Ā. 2-7). **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒षा सु॒बंधु॑र्दि॒व आ पृ॑थि॒व्या इ॒ळस्पति॑र्म॒घवा॑ द॒स्मव॑र्चाः ।  
+> यं दे॒वासो॒ अद॑दुः सू॒र्याय्यै॒ कामे॑न कृ॒तं त॒वसं॒  ॑
+> स्वंचं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषा । सुबंधुः । दिवः । आ । पृथिव्याः । इळः । पतिः । मघवा । दस्मवर्चाः ।  
+> यं । देवासः । अददुः । सूर्यायै । कामेन । कृतं । तवसं । सुअंचं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूषा पोषको देवो दिव आ द्युलोकस्य च पृथिव्याश्च सुबंधुः शोभनो
+> बंधुर्भवति । तथेळस्पतिरिळाया अन्नस्य पतिर्मघवा । मघमिति धननाम । तद्वान् ।
+> यद्वा । महतेर्दानकर्मणो भावसाधनो मघशब्दः । दानवान् दस्मवर्चाः ।
+> वर्च इति रूपनाम । दस्मं दर्शनीयं वर्चो यस्य तादृशः । यं पूषणं देवास ।
+> सर्वे देवाः सूर्यय्य सूर्यस्य पत्नि यद्वा सावित्र्यै सूर्याख्यया
+> आश्विनोर्वरणायाददुः दत्तवंतः । पुत्रः पितराववृणीत पूषा । ऋग्वे. १०-८५-१४ ।
+> इति हि श्रूयते । कीदृशं पूषणं। कामेन पश्वादिविषयेण कृतं स्तोतृभिर्वशीकृतं
+> तवसं बलवंतं प्रवृद्धं वा स्वंचं स्वंचनं सुष्टु गच्छंतं । एवंविधं यं पूषणमददुः स पूषा सुबंधुरित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Pūṣan, the nourishing god, is a good kinsman of heaven and of earth. Likewise he is the lord of iḷā, food, and maghavā: magha is a name for wealth, and he possesses it; or else the word magha comes from the root mahate, which is in the sense of giving, and the word is formed with the sense of the act itself: he is a giver. He is dasmavarcāḥ: varcas is a name for form, and dasma means to be looked at; he is one whose form is pleasing to look at. Him, Pūṣan, all the gods gave to Sūryā, who is Sūrya's wife, or else to Sāvitrī under the name Sūryā, for the choosing of the Aśvins. **NOTE** It is heard: पुत्रः पितराववृणीत पूषा (*putraḥ pitarāvavṛṇīta pūṣā*) (Ṛgve. 10-85-14). **NOTE** What kind of Pūṣan? One brought under control by the worshippers through desire directed to cattle and the like; strong, or grown great; svañc, that is, moving well. The construction is: the Pūṣan whom they gave, such a Pūṣan is the good kinsman.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कामेन (*kāmena*)—by oblations and the like
+- कृतं (*kṛtaṃ*)—brought under control
+- तवसं (*tavasaṃ*)—possessed of strength
+- स्वंचं (*svaṃcaṃ*)—possessed of excellent movement
+- यं (*yaṃ*)—whom, the god Pūṣan
+- देवासः (*devāsaḥ*)—all the gods
+- सूर्यायै (*sūryāyai*)—to the goddess Sūryā
+- अददुः (*adaduḥ*)—offered, such a one
+- इळस्पतिः (*iḷaspatiḥ*)—the lord of food
+- मघवा (*maghavā*)—possessed of wealth
+- दस्यवर्चाः (*dasyavarcāḥ*)—possessed of attractive lustre
+- पूषा (*pūṣā*)—the god Pūṣan
+- दिवि आ (*divi ā*)—to the whole heaven
+- पृथिव्याः (*pṛthivyāḥ*)—to the earth
+- सुबंधुः (*subaṃdhuḥ*)—a good kinsman **NOTE**
+
+### Printed p. 379
+
+##### भावार्थ (Bhāvārtha)
+
+Him who has been carried by oblations and the like to the control of the sacrificer **NOTE**, who is full of strength and of excellent movement, the god Pūṣan whom all the gods offered to the daughter of Sūrya: such a Pūṣan, the lord of food, the wealthy one, of attractive lustre, is a good kinsman to the whole heaven and to the earth.
+
+##### English translation
+Pushan is the kind kinsman of heaven and earth, the lord of food, the possessor of opulence, of goodly from; whom the gods gave to Surya, vigorous, well-moving, propitiated by (that which is) willingly offered.
+
+## Sūkta 59 (Maṇḍala 6)
+
+The sūkta of ten ṛks: प्र नु वोचेति दशर्चं दशमं सूक्तं भरद्वाजस्यार्षमिंद्राग्निदेवताकं (*pra nu voceti daśarcaṃ daśamaṃ sūktaṃ bharadvājasyārṣamiṃdrāgnidevatākaṃ*). सप्तमाद्याश्चतस्रोऽनुष्टुभः शिष्टाः षट् बृहत्यः (*saptamādyāścatasro 'nuṣṭubhaḥ śiṣṭāḥ ṣaṭ bṛhatyaḥ*). तथा जानुक्रांतं (*tathā jānukrāṃtaṃ*). प्र नु दशैंद्राग्नं तु बार्हतं चतुरनुष्टुबंतमिति (*pra nu daśaiṃdrāgnaṃ tu bārhataṃ caturanuṣṭubaṃtamiti*). गतो विनियोगः (*gato viniyogaḥ*).
+
+##### Anuvāda
+
+This sūkta beginning प्र नु वोबा (*pra nu vobā*) **NOTE** is the tenth sūkta in the fifth anuvāka. There are ten ṛks in it. The ṛṣi of this sūkta is Bharadvāja; the deities are Indra and Agni. From the seventh ṛk of this sūkta, the following four ṛks are in the Anuṣṭup metre; the remaining six ṛks are in the Bṛhatī metre. In the Anukramaṇikā it is said: प्र नु दशैंद्राग्नंतु बार्हतं चतुरनुष्टुबंतं (*pra nu daśaiṃdrāgnaṃtu bārhataṃ caturanuṣṭubaṃtaṃ*). The application has been stated before.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 5; Sūkta 59
+- Aṣṭaka 4; Adhyāya 8; Vargas 25, 26
+- Number of ṛks in the sūkta: 10
+- Printed "Yajus": भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*) **NOTE**
+- Deity: Indrāgnī
+- Metre: 1-6 Bṛhatī; 7-10 Anuṣṭup
+
+### Printed p. 380
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नु वो॑चा सु॒तेषु॑ नां वी॒र्या॒३॒॑ ३ यानि॑ च॒क्रथुः॑ ।  
+> ह॒तासो॑ नां पि॒तरो॑ दे॒वश॑त्रव॒ इंद्रा॑ग्नी॒ जीव॑थो यु॒वं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नु । वोच । सुतेषु । वां । वीर्या । यानि । चक्रथुः ।  
+> हतासः । वां । पितरः । देवशत्रवः । इंद्राग्नी इति । जीवथः । युवं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी यानि वीर्या वीर्याणि वीरकर्माणि चक्रथुः कृतवंत् युवां
+> सुतेश्वभिषुतेषु सोमेष्मस्मद्यज्ञे नां युवयोस्तानि वीर्याणि नु क्षिप्रं प्र
+> वोच । प्रवोचं । प्रब्रवीमि । तदेव वीर्यं दर्शयति । हे इंद्राग्नी देवशत्रवः ।
+> देवाः शत्रवः शातयितारो येषां तादृशाः । असुराः पितरो हिंसकाः ॥ पीयतिर्हिंसाकर्मा । तस्यैतद्रूपं ॥ ईदृशा असुरा नां युवाभ्यां हतासो हता आसन् ।
+> युवं युवां तु जीवथः । जीवनवंतौ भवथः । असुरैर्न बाधिताविति यावत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, the heroic deeds that you two have done, those deeds of yours I quickly proclaim at the Soma pressings, in our sacrifice. He shows that very heroism. O Indra and Agni, the Asuras, whose destroyers, enemies, are the gods, and who are pitaraḥ, injurers (the root pī has the sense of injuring, and this is its form): such Asuras were slain by you two. But you two live: you are living, that is, not harassed by the Asuras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- यानि (*yāni*)—which famous
+- वीर्या (*vīryā*)—heroic deeds
+- चक्रथुः (*cakrathuḥ*)—you have done
+- वां (*vāṃ*)—all those heroic deeds of yours
+- नु (*nu*)—quickly
+- सुतेषु (*suteṣu*)—when the Soma juice is pressed
+- प्रवोच (*pravoca*)—I recite, O Indra and Agni
+- देवशत्रवः (*devaśatravaḥ*)—who are as enemies to all the gods
+- पितरः (*pitaraḥ*)—and injurers, the Asuras
+- वां (*vāṃ*)—by you two
+- हतासः (*hatāsaḥ*)—have been slain; (but)
+- युवं (*yuvaṃ*)—you two
+- जीवथः (*jīvathaḥ*)—have lived unharmed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, all the famous heroic deeds that you have done, I quickly recite as soon as the Soma juice is pressed. O Indra and Agni, the Asuras, who are as enemies and injurers to all the gods, have been slain by you two. But you two alone have lived unharmed.
+
 ---
 
-**Progress note:** Done through printed p. 374. Mandala 6 Sukta 57 Rk 2 end, 3-6; Sukta 58 Rk 1
+**Progress note:** Done through printed p. 380. Mandala 6 sukta 58 Rks 1-4 end, sukta 59 Rk 1 (pp. 375-380)
