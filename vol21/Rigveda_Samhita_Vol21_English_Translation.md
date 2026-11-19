@@ -11464,6 +11464,285 @@ Parjanya and Vata, showerers of rain, send from the firmament available waters :
 
 In the Anvārambhaṇīyā, the verse पावीरवी (*pāvīravī*) is the Yājyā for the oblation to Sarasvatī. It is so put in the Sūtra: पावीरवी कन्या चित्रायुः पीपिवांसं सरस्वतः (*pāvīravī kanyā citrāyuḥ pīpivāṃsaṃ sarasvataḥ*) (Ā. 2-8). Further, for the एकादशिने (*ekādaśine*)
 
+### Printed p. 264
+
+> सारस्वते पशावेषैव पुरोडाशस्य याज्या । सूत्रितं च । पावीरवी कन्या चित्रायुर्यस्ते स्तनः शशयो यो मयोभूः । आ. ३-७ । इति ॥ अग्निमारुते शस्त्रेऽप्येषा ।
+> सूत्रितं च । राकामहमिति द्वे पावीरवी कन्या चित्रायुः । आ. ५-२० । इति ॥
+> पावीरवी शोधयित्रि कन्या कमनीया चित्रायुश्चित्रगमना चित्रान्ना वा
+> वीरपत्नी । वीरः प्रजापतिः पतिर्यस्यास्तादृशी । यद्वा । वीराणां पालयित्रि ।
+> एवंभूता सरस्वती धियमस्मदीयं कर्म यज्ञाख्यं धात् । दधातु । धारयतु ।
+> ददातु ना । शब्देन प्रतिपादितो ह्यर्थोऽनुष्ठीयते । अपि च ग्नाभिर्देवपत्नीभिः
+> सजोषाः सह प्रीयमाणा । यद्वा । ग्ना गायत्र्यादीनि छंदांसि । छंदांसि वै ग्ना
+> इति श्रुतेः । तैः सह प्रीयमाणा गृणते स्तुवते मह्यमच्छिद्रं छिद्ररहितं दुराधर्षं
+> शत्रुभिः शीतवातादिभिश्च धर्षितुमशक्यं शरणं गृहं शर्म सुखं च यंसत् ।
+> प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+This verse is also the Yājyā for the cake offered in the animal sacrifice to Sarasvatī. So it is put in the Sūtra: पावीरवी कन्या चित्रायुर्यस्ते स्तनः शशयो यो मयोभूः (*pāvīravī kanyā citrāyuryaste stanaḥ śaśayo yo mayobhūḥ*) (Ā. 3-7). It is used also in the Agnimāruta Śastra. So it is put in the Sūtra: राकामहमिति द्वे पावीरवी कन्या चित्रायुः (*rākāmahamiti dve pāvīravī kanyā citrāyuḥ*) (Ā. 5-20). "Pāvīravī" is the purifier; "kanyā" is the lovely one; "citrāyuḥ" is the one of wondrous motion, or of wondrous food; "vīrapatnī" is she whose husband is Vīra, that is Prajāpati; or else she is the protectress of heroes. May Sarasvatī, such as she is, "grant", bestow, bear, give our rite called the sacrifice. **NOTE** The meaning conveyed by a word is indeed carried out. Further, she is "sajoṣāḥ" with the "gnā", that is, pleased together with the wives of the gods; or else "gnā" are the metres, the Gāyatrī and the rest, according to the Śruti छंदांसि वै ग्ना इति (*chaṃdāṃsi vai gnā iti*) **GLOSS**; pleased together with these, may she grant to me who praise a dwelling that is free of breach and cannot be assailed by enemies, nor by cold wind and the like, and happiness as well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पावीरवी (*pāvīravī*)—the purifier
+- कन्या (*kanyā*)—the one of lovely form
+- चित्रायुः (*citrāyuḥ*)—the one with food of many kinds
+- वीरपत्नि (*vīrapatni*)—the protectress of heroes
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- धियं (*dhiyaṃ*)—to us the understanding that teaches the rite
+- धात् (*dhāt*)—may she bestow
+- ग्नाभिः (*gnābhiḥ*)—with the wives of the gods
+- सजोषा (*sajoṣā*)—that same Sarasvatī, who is joined with them
+- गृणते (*gṛṇate*)—to me, the praiser
+- अच्छिद्रं (*acchidraṃ*)—that which is free of breach
+- दुराधर्षं (*durādharṣaṃ*)—that which cannot be struck by enemies
+- शरणं (*śaraṇaṃ*)—a house
+- शर्म (*śarma*)—and happiness
+- यंसत् (*yaṃsat*)—may she favour us by giving
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Sarasvatī, who is the purifier, of lovely form, with food of many kinds, the protectress of heroes, bestow on us the understanding that teaches the rite. May that same Sarasvatī, joined with the wives of the gods, favour me, the praiser, by giving a house free of breach and not to be struck by enemies, and happiness.
+
+##### English translation
+May the purifying, amiable, graceful Saraswati, the bride of the hero, favour our pious rite: may she, together with the wives of the gods, well pleased, bestow upon him who praises her a habitation free from defects, and impenetrable (to wind and rain), and (grant him) felicity.
+
+### Printed p. 265
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Anvārambhaṇīyā sacrifice, in the oblation made to the deity Sarasvatī, this Ṛk beginning पावीरवी (*pāvīravī*) is to be recited as the Yājyā mantra: this is set forth by the Sūtra of the Āśvalāyana Śrauta Sūtra पावीरवी कन्या चित्रायुः पीपिवांसं सरस्वतः (*pāvīravī kanyā citrāyuḥ pīpivāṃsaṃ sarasvataḥ*) (Ā. 2-8). In the sacrifice called एकादशिन् (*ekādaśin*), in the animal oblation addressed to the deity Sarasvatī, this Ṛk is to be recited as the Yājyā mantra when the cake is offered: this is set forth by the Sūtra of the Āśvalāyana Śrauta Sūtra पावीरवी कन्या चित्रायुर्यस्ते स्तनः शशयो यो मयोभूः (*pāvīravī kanyā citrāyuryaste stanaḥ śaśayo yo mayobhūḥ*) (Ā. 3-7); and that this Ṛk is to be recited also in the mantras of the Agnimāruta Śastra is set forth by the Āśvalāyana Śrauta Sūtra राकामहमिति द्वे पावीरवी कन्या चित्रायुः (*rākāmahamiti dve pāvīravī kanyā citrāyuḥ*) (Ā. 5-20).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒थस्प॑थः॒ परि॑पतिं वच॒स्या कामे॑न कृ॒तो अ॒भ्या॑नळ॒र्कं ।  
+> सनो॑ रासच्चु॒रुध॑श्चं॒द्राग्रा॒ धियं॑धियं सीषधाति॒ प्र  ॒
+> पूषा ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पथःपथः । परिपतिं । वचस्या । कामेन । कृतः । अभि । आनट् । अर्क० ।  
+> सः । नः । रासत् । शुरुधः । चंद्रग्राः । धियंधियं । सीसधाति । प्र । पूषा॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकादशिने पौष्णे पश् पथस्पथ इति हविषो याज्या । सूत्रितं च । पथस्पथः
+> परिपतिं वचस्या बृहस्पते या परमा परावदिति । आ ३-७ । इति ॥
+> पथस्पथः सर्वस्य मार्गस्य परिपतिमधिपतिमर्कमर्चनीयं पूषणं कामेन
+> काम्यमानेन फलेन कृतो वशीकृतः स्तोता वचस्या स्तुत्याभ्यानट् । अभ्यश्नुतां ।
+> प्राप्नोतु । स च पूषा नोऽस्मभ्यं शुरुधः शुचो रोधयित्रीर्गाश्चंद्राग्राः ।
+> चंद्रमिति हिरण्यनाम । हिरण्यप्रमुखा यद्वा स्वर्णशृंगा रासत् । ददातु ॥
+> रा दाने । आस्माल्लोटि रूपं ॥ तथा धियं धियं सर्वमस्मदीयं कर्म स पूषा
+> प्र सीषधाति । प्रसाधयतु ॥
+
+##### Gist of the bhāṣya
+
+In the Ekādaśinī, in the animal sacrifice to Pūṣan, पथस्पथः (*pathaspathaḥ*) is the Yājyā for the oblation. So it is put in the Sūtra: पथस्पथः परिपतिं वचस्या बृहस्पते या परमा परावदिति (*pathaspathaḥ paripatiṃ vacasyā bṛhaspate yā paramā parāvaditi*) (Ā. 3-7). Pūṣan is the lord of every path, the worshipful one. The praiser, who has been brought under his power by the fruit he desires, is to reach him with his praise. And may that Pūṣan give us cows, the ones that check sorrow, "candrāgrāḥ": "candra" is a name of gold, so they are gold-fronted, or gold-horned. And may that Pūṣan carry through every rite of ours.
+
+### Printed p. 266
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पथस्पथः (*pathaspathaḥ*)—of all paths
+- परिपतिं (*paripatiṃ*)—the excellent protector
+- अर्कं (*arkaṃ*)—and the worshipful god Pūṣan
+- कामेन (*kāmena*)—by the desire to obtain the fruit
+- कृतः (*kṛtaḥ*)—the praiser who has brought him under his power
+- वचस्या (*vacasyā*)—with his praise
+- अभ्यानट् (*abhyānaṭ*)—may he approach and reach him
+- सः पूषा (*saḥ pūṣā*)—that same god Pūṣan
+- नः (*naḥ*)—to us
+- चंद्राग्राति (*caṃdrāgrāti*)—those with golden horns
+- शुरुधः (*śurudhaḥ*)—cows
+- रासत् (*rāsat*)—may he give
+- धियंधियं (*dhiyaṃdhiyaṃ*)—all our rites
+- प्र सीषधाति (*pra sīṣadhāti*)—may he adorn completely (make fruitful)
+
+##### भावार्थ (Bhāvārtha)
+
+May the praiser, who by the desire to obtain the fruit has brought under his power the god Pūṣan, the excellent protector of all paths and the worshipful one, approach him with his praise and reach him. May that same god Pūṣan give us cows with golden horns. May he adorn all our rites completely.
+
+##### English translation
+May (the worshipper), influenced by the hope (of reward), approach with praise the adorable (Pushan), protector of all paths : may he bestow upon us cows with golden horns: may Pushan bring to perfection our every rite.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called एकादशिन् (*ekādaśin*), when the oblation is offered in the animal homa addressed to Pūṣan, this Ṛk beginning पथस्पथः (*pathaspathaḥ*) is to be recited as the Yājyā mantra: this is set forth by the Sūtra of the Āśvalāyana Śrauta Sūtra पथस्पथः परिपतिं वचस्या बृहस्पते या परमा परावदिति द्वे (*pathaspathaḥ paripatiṃ vacasyā bṛhaspate yā paramā parāvaditi dve*) (Ā. 3-7).
+
+Yāska has given an explanation of this Ṛk:
+पथस्पथोऽधिपतिं वचनेन कामेन कृतोऽभ्यानदर्कमभ्यापन्नोऽकर्मिति वा स नो ददातु चायनीयाग्राणि धनानि कर्मकर्म च नः प्रसाधयतु पूषेति ॥ (*pathaspatho 'dhipatiṃ vacanena kāmena kṛto 'bhyānadarkamabhyāpanno 'karmiti vā sa no dadātu cāyanīyāgrāṇi dhanāni karmakarma ca naḥ prasādhayatu pūṣeti ‖*) (Ni. 12-18)
+
+This god Pūṣan is the lord of all paths and is to be worshipped by all. May the praiser approach such a god with praise, that is, praise him, for the obtaining of his desired objects. May that god
+
+### Printed p. 267
+
+give us, and favour us with, wealth of many kinds and of the best kind, in every act, that is, in all acts such as the sacrifice and the offering: this is the main sense of the explanation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒थ॒म॒भाजं॑ य॒शसं॑ वयो॒धां सु॑पा॒णिं दे॒वं सु॒गभ॑स्ति॒मृभ्वं॑ ।  
+> होता॑ यक्षद्यज॒तं प॒स्त्या॑नाम॒ग्निस्वष्टा॑रं सु॒हवं॑ वि॒भावा॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रथमभाजं । यशसं । वयोधां । सुपाणिं । देवं । सुगभस्तिं । ऋभ्वं ।  
+> होता । यक्षत् । यजतं । पस्त्यानां । अग्निः । त्वष्टारं । सुहवं । विभावा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वाष्टे पशौ प्रथमभाजमिति हविषो याज्या । सूत्रितं च । प्रथमभाजं
+> यशसं वयोधां सोमापूषणा जनना रयीणां । आ. ३-८ । इति ॥
+> प्रथमभाजं प्रथम उत्पत्तिकाल एव विभक्तारं जंतूनां । यावच्चो वै
+> रेतसः सिक्तस्य त्वष्टा रूपाणि विकरोति तावच्चो वै तत्प्रजायत । शै. सं. १-५-९-१ ।
+> इति श्रुतेः । यशसं यशस्सिनं वयोधां वयस्सोऽन्नस्य हविर्लक्षणस्य धातारं
+> धारयितारं यद्वा स्तोतृभ्योऽन्नप्रदं सुपाणिं । हस्तस्य मणिबंधादूर्ध्वप्रदेशः
+> पाणिः । शोभनपाणिकं देवं दानादिगुणयुक्तं सुगभस्तिं । गभस्तिरिति बाहुनाम ।
+> शोभनदोर्दंडमृभ्वमुरु भासमानं महांतं वा पस्त्यानां । पस्त्यमिति
+> गृहनाम । तत्स्थानां यजतं यष्टव्यं । गृहस्थैर्यजनीयमित्यर्थः । सुहवं
+> सुखेन हातुं शक्यं । एवंभूतं त्वष्टारं होता देवानामाह्वाता विभावा
+> दीप्यमानोऽग्निर्यक्षत् । यजत् । अनेन हविषा यजतु ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice to Tvaṣṭṛ, प्रथमभाजं (*prathamabhājaṃ*) is the Yājyā for the oblation. So it is put in the Sūtra: प्रथमभाजं यशसं वयोधां सोमापूषणा जनना रयीणां (*prathamabhājaṃ yaśasaṃ vayodhāṃ somāpūṣaṇā jananā rayīṇāṃ*) (Ā. 3-8). "Prathamabhāj" is the divider of the living beings at the very time of their first origin; so according to the Śruti: यावच्चो वै रेतसः सिक्तस्य त्वष्टा रूपाणि विकरोति तावच्चो वै तत्प्रजायत । (*yāvacco vai retasaḥ siktasya tvaṣṭā rūpāṇi vikaroti tāvacco vai tatprajāyata |*) (Śai. Saṃ. 1-5-9-1) **NOTE** **GLOSS**. "Yaśasam" is the glorious one; "vayodhām" is the giver, the bearer, of "vayas", food in the form of the oblation, or else the giver of food to the praisers. "Supāṇi": the part of the hand above the wrist is the "pāṇi"; so he is the god with beautiful hands, endowed with the qualities of giving and the rest. "Sugabhasti": "gabhasti" is a name for the arm; so he has beautiful arms. "Ṛbhvam" is the one who shines widely, or the great one. "Pastyānām": "pastya" is a name for the house; so, of those who dwell in it, he is "yajata", to be worshipped: that is, to be worshipped by householders. "Suhavam" is the one who can be invoked with ease. May Agni, the Hotṛ, the summoner of the gods, the shining one, worship Tvaṣṭṛ, such as he is; may he worship him with this oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमभाजं (*prathamabhājaṃ*)—the one who at the time of origin itself makes the divisions of all living beings
+- यशसं (*yaśasaṃ*)—the one whose action gives fame
+- वयोधां (*vayodhāṃ*)—the giver of food
+- सुपाणिं (*supāṇiṃ*)—the one with excellent hands
+- देवं (*devaṃ*)—the one who is divine in nature
+- सुगभस्तिं (*sugabhastiṃ*)—the one with excellent arms
+
+### Printed p. 268
+
+- यभ्वं (*yabhvaṃ*)—the one of surpassing radiance
+- पस्त्यानां (*pastyānāṃ*)—for all the householders, the worshippers
+- यजतं (*yajataṃ*)—the one to be worshipped
+- सुहवं (*suhavaṃ*)—the one with excellent invocation
+- त्वष्टारं (*tvaṣṭāraṃ*)—the god Tvaṣṭṛ
+- होता (*hotā*)—the one who calls the gods
+- विभावा (*vibhāvā*)—the one of surpassing radiance
+- अग्निः (*agniḥ*)—Agni
+- यक्षत् (*yakṣat*)—may he worship
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, the divine Hotṛ of the whole sacrifice, of surpassing radiance, worship the god Tvaṣṭṛ, who at the time of origin itself makes the divisions of all living beings, whose action gives fame, who is the giver of food, with excellent hands, of surpassing radiance, to be worshipped by all householders, the worshippers, and with excellent invocation.
+
+##### English translation
+May the illustrious Agni, the invoker of the gods, worship (with this oblation), Twashtri, the first divider (of forms), the renowned, the giver of food, the well-handed, the vast, the adored of householders, the readily invoked.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice addressed to the deity Tvaṣṭṛ, when the oblation is offered, this Ṛk beginning प्रथमभाजं (*prathamabhājaṃ*) is to be recited as the Yājyā mantra: this is set forth by the Sūtra of the Āśvalāyana Śrauta Sūtra प्रथमभाजं यशसं वयोधां सोमापूषणा जनना रयीणामिति सूक्तं (*prathamabhājaṃ yaśasaṃ vayodhāṃ somāpūṣaṇā jananā rayīṇāmiti sūktaṃ*) (Ā. 3-8).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भुव॑नस्य पि॒तरं॑ गी॒र्भिरा॒भी रु॒द्रं दिवा॑ व॒र्धया॑ रु॒द्रम॒क्त्य ।  
+> बृ॒हंत॑मृ॒ष्टम॒जरं॑ सुषु॒म्न मृध॑ग्घुवेम क॒विने॑षि॒तासः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुवनस्य । पितरं । गीःभिः । अभिः । रुद्रं । दिवा । वर्धय । रुद्रं । अक्त्वा ।  
+> बृहंतं । ऋष्वं । अजरं । सुसुम्नं । यधक् । हुवेम । कविना । इषितासः ॥ १० ॥
+
+### Printed p. 269
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भुवनस्य भूतजातस्य पितरं पालयितारं रुद्रं । रुद्दुःखं । तद्दावयितारमीश्वरमाभिर्गिर्भिः स्तुतिभिर्दिवाहनि हे स्तोतर्वर्धय । अक्त्वा
+> रात्र्यां च तमेव रुद्रं स्तुतिभिर्वर्धय । वयं च कविना प्राज्ञेन रुद्रेणेषितासः
+> प्रेरिताः संतो बृहंतं महांतमृष्टं दर्शनीयमजरं जरारहितं सुषुम्नं
+> शोभनसुखमेवंगुणविशिष्टं रुद्रमृधक् युद्धं समृद्धं यथा भवति तथा
+> हुवेम । स्तवाम ॥
+
+##### Gist of the bhāṣya
+
+Rudra is the "father", that is, the protector, of the world, of all that is born. "Rud" is sorrow; he who drives it away is the lord. O praiser, by day, with these praises, make this Rudra grow; and at night too make that same Rudra grow with praises. And we, impelled by Rudra the wise, great, fair to see, free of old age, of beautiful happiness, such as he is, may we invoke Rudra, praise him, so that it may be "ṛdhak", in a prosperous manner. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुवनस्य (*bhuvanasya*)—(O praiser) of all that is born
+- पितरं (*pitaraṃ*)—the protector
+- रुद्रं (*rudraṃ*)—Rudra
+- आभिः गीर्भिः (*ābhiḥ gīrbhiḥ*)—with these praises
+- दिवा (*divā*)—by day
+- वर्धय (*vardhaya*)—make him grow
+- अक्तौ (*aktau*)—at times of night also
+- रुद्रं (*rudraṃ*)—that same Rudra (make him grow)
+- कविना (*kavinā*)—by Rudra the wise himself
+- इषितासः (*iṣitāsaḥ*)—impelled
+- बृहंतं (*bṛhaṃtaṃ*)—the one of great nature
+- ऋष्टं (*ṛṣṭaṃ*)—the one of fair form
+- अजरं (*ajaraṃ*)—the one free of decay
+- सुषुम्नं (*suṣumnaṃ*)—the one of excellent qualities, that same Rudra
+- ऋधक् (*ṛdhak*)—so that he may be prosperous
+- हुवेम (*huvema*)—may we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, make Rudra, the protector of all that is born, grow by day with these praises. Make him grow at times of night also. Impelled by Rudra the wise himself, may we praise that same Rudra, of great nature, of fair form, free of decay, of excellent qualities, so that he may be prosperous.
+
+##### English translation
+Exalt Rudra, the parent of the world, with these hymns by day ; (exalt) Rudra (with them) by night ; animated by the far-seeing, we invoke him, mighty, of pleasing aspect, undecaying, endowed with felicity, (the source of) prosperity.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यु॑वानः कवयो यज्ञियासो॒ मरु॑तो गं॒त गृ॑ण॒तो  ॒॑
+> वरस्यां ।  
+> अ॒चि॒त्रं चि॒द्दि जिन्न॑था वृ॒धंत॑ इ॒त्था नक्षं॑तो नरो अंगिर॒स्वत् ॥
+
+### Printed p. 270
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । युवानः । कवयः । यज्ञियासः । मरुतः । गंत । गृणतः । वरस्यां ।  
+> अचित्रं । चित् । हि । जिन्नथः । वृधंतः । इत्था । नक्षंतः । नरः । अंगिरस्वत् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे युवानो नित्यतरुणाः कवयः प्राज्ञा यज्जियासो यज्ञार्हा
+> एवंभूता हे मरुतो गृणतः स्तुवतो वरस्यां वरणीयां स्तुतिं प्रत्या गंत ।
+> आगच्छत । अपि च हे नरो नेतारो मरुत इत्थेत्ममनेन प्रकारेण वृधंतो
+> षर्धमानाः । यद्वा । इत्यामुत्रांतरिक्षे नक्षंतो व्याप्नुवंतोऽंगिरस्वत् । अंगिरसो
+> गमनशीला रश्मयः । ते यथा शीघ्रं नभस्तलं व्यापुवंति तद्वत् । यद्वा । ऋषय
+> एवांगिरसः । तद्वच्छीघ्रगामिनः । एवंभूता यूयमचित्रं चित् । ओषधिवनस्पतिभिर्निविडो देशश्चित्रं । तद्विलक्षणमोषध्यादिभिर्वियुक्तमपि देशं जिन्पथ । वृष्टा तर्पयथ ।
+> हीति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+O ever-young, wise Maruts, worthy of the sacrifice, such as you are, come to the praise of the praiser, the one to be chosen. And, O leaders, Maruts, growing thus in this manner; or else, pervading there in the firmament like the Aṅgirases: the Aṅgirases are the swift-moving rays, and as these quickly fill the expanse of the sky, so you do; or else the Aṅgirases are the seers themselves, and you are swift-going like them. **NOTE** Such as you are, you gladden by rain a "not-wondrous" place: a place thickly covered with herbs and trees is "citra", wondrous; in contrast to it, a place devoid of herbs and the rest you satisfy by raining. The word "hi" is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवानः (*yuvānaḥ*)—ever-young
+- कवयः (*kavayaḥ*)—wise
+- यज्जियासः (*yajjiyāsaḥ*)—worthy of the sacrifice
+- मरुतः (*marutaḥ*)—O Maruts
+- गृणतः (*gṛṇataḥ*)—of the praiser
+- वरस्यां (*varasyāṃ*)—towards his venerable praise
+- आ गंत (*ā gaṃta*)—be so kind as to come
+- नरः (*naraḥ*)—O Maruts, the leaders
+- इत्था (*itthā*)—in this manner
+- वृधन्तः (*vṛdhantaḥ*)—you who grow
+- नक्षंतः (*nakṣaṃtaḥ*)—and pervading all regions
+- अंगिरस्वत् (*aṃgirasvat*)—swift like the rays
+- अचित्रं चित् (*acitraṃ cit*)—even the regions devoid of herbs and the rest
+- जिन्वथ हि (*jinvatha hi*)—gladden with rain
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, ever-young, wise, worthy of the sacrifice, be so kind as to come towards the venerable praise of the praiser. O Maruts, leaders, you who grow in this manner, pervading all regions and swift like the rays, gladden with rain even the regions devoid of herbs and the rest.
+
 ---
 
-**Progress note:** Done through printed p. 263. Sukta 49: end of Rk 2, Rks 3-7 begun (pp. 258-263)
+**Progress note:** Done through printed p. 270. Sukta 49: Rks 7-11 (pp. 264-270)
