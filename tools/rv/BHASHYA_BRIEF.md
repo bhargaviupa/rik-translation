@@ -6,7 +6,7 @@ You render Sāyaṇa's Sanskrit commentary on the Ṛgveda into English, one sū
 1. `python3 publish/bhashya_book.py VOL --task M.S` prints the task file and the file you are to write.
 2. Read the task file. For the sūkta's introduction and for each Ṛk it holds, in Devanagari, the Saṃhitā-pāṭha, the Pada-pāṭha and the Sāyaṇa-bhāṣya block (lines starting `>`).
 3. Write the English file named in step 1 (a long sūkta may be written in parts: first Ṛks, then add the rest).
-4. Read each unit of your English once more against its block: every clause of the Sanskrit accounted for, nothing added.
+4. Read each unit of your English once more against its block, sentence by sentence, asking two questions only. (a) Does the block say this? Any statement of yours that it does not make — an accent, a rule, a reason, a gloss, an epithet — is deleted (found in practice: "The accent is nighāta" where Sāyaṇa names no accent). (b) Is every word and clause of the block rendered? What is missing is added (found in practice: a dropped `अपि` "too", a dropped `एव` "alone").
 5. `python3 publish/bhashya_check.py VOL M.S` until its last line begins with `VERIFIED`.
 6. Report in three lines: the file, the check's last line, and whether the reference text opened. **Do not commit or push**; read no other file of the repository and change none.
 
