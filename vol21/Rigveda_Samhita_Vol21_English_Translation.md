@@ -20913,6 +20913,287 @@ The well-known Maruts do not go to the people who praise them by any means of go
 
 The Maruts, who being within the hearts of all people purify all the sins of each, such purifying Maruts have no toil of having to go to the praising people in chariots, the means of going. When the shining Maruts milk out rain in abundance in accordance with the wish of the praisers, then, accompanied by splendour and making their own body shine, they are those who pour rain.
 
+### Printed p. 474
+
+##### English translation
+They who approach not to men by any conveyance, being already
+in their hearts, purifying their defects : when brilliant they supply their
+milk (the rain) for the gratification (of their worshippers) : they are
+watering the earth (manifesting their collective) form with splendour.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒क्षू न येषु॑ दो॒हसे॑ चिद॒या आ नाम॑ धृ॒ष्ण मारु॑तं॒  ॑
+> दधा॑नाः ।  
+> न ये स्तौ॒ना अ॒यासो॑ म॒ह्ना नू चि॑त्सु॒दानु॒रव॑ यासदु॒ग्रान् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मक्षु । न । येषु । दोहसे । चित् । आयाः । आ । नाम । धृष्णु । मारुतं । दधानाः ।  
+> न । ये । स्तौनाः । अयासः । मह्ना । नु । चित् । सुदानुः । अव । यासत् ।  
+> उग्रान् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येषु प्रसिद्धेषु मरुत्तु धृष्णु धर्षकं मारुतं नाम मरुत्संज्ञकं
+> शस्त्रमा दधाना उच्चारयंतोऽया उपागच्छंतः स्तोतारो मक्षु क्षिप्रं दोहसे
+> कामान्दोग्नुं क्षमा भवंति । नेति संप्रत्यर्थे । ये स्तौनाः स्तेनास्तिरोहिता वा
+> स्तोतृधनानामपहर्तारोऽयासो गंतारो भवंति । मह्ना महत्वेन युक्ताश्च
+> भवंति उग्रांस्तान्कुद्धान् सुदानुः शोभनहविर्दानोऽवयजमानोऽव यासत् ।
+> अवयजते । अपगतक्रोधान् करोति । नेति संप्रत्यर्ते ॥
+
+##### Gist of the bhāṣya
+
+Among those well-known Maruts, the worshippers who approach them and recite the assailing (धृष्णु (*dhṛṣṇu*)) Marut-named śastra are quickly able to milk out, that is, to obtain, their desires. The particle "na" is used here in the sense of "now". Those who are thieves or hidden plunderers of the worshippers' wealth become runaways, and they are also endowed with greatness. Such fierce, angry ones are pacified by the sacrificer, the giver of good oblations: he makes them free of anger. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषु (*yeṣu*)—in regard to those very Maruts
+- धृष्णु (*dhṛṣṇu*)—the enemy-restraining
+- मारुतं नाम (*mārutaṃ nāma*)—the Marut-named śastra-mantra
+- आ दधानाः (*ā dadhānāḥ*)—reciting
+- अयाः (*ayāḥ*)—the approaching worshippers
+- मक्षु (*makṣu*)—quickly
+- दोहसे (*dohase*)—become able to obtain their desired ends
+
+### Printed p. 475
+
+- ये (*ye*)—which thieves, plunderers of wealth
+- अयासः (*ayāsaḥ*)—run away (and)
+- मह्ना (*mahnā*)—by their greatness
+- उग्रान् (*ugrān*)—are terrible, such enemies
+- सुदानुः (*sudānuḥ*)—the excellent giver, the sacrificer
+- अव यासत् (*ava yāsat*)—becomes able to destroy
+
+##### भावार्थ (Bhāvārtha)
+
+Those very Maruts: the worshippers who approach them, reciting the enemy-restraining, Marut-named śastra-mantra, are quickly able to obtain their desired ends. The thieves, plunderers of wealth, who run away, and those who are terrible by their greatness, such enemies the excellent giver, the sacrificer, becomes able to destroy.
+
+##### English translation
+Approaching nigh to whom, and repeating the mighty name of the Maruts, (the worshipper is able) quickly to obtain (his wishes): the liberal donor pacifies the angry Maruts, who are otherwise in their might the the resistless plunderers (of their wealth).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त इदु॒ग्राः शव॑सा धृ॒ष्णुषे॑णा उ॒भे यु॑जंत॒ रोद॑सी  ॒॑
+> सु॒मेके॑ । ॑ 
+> अध॑ स्मैषु रोद॒सी स्वशो॑चि॒राम॑वत्सु तस्थौ॒ न रोकः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । इत् । उग्राः । शवसा । धृष्णुसेनाः । उभे इति । युजंत । रोदसी इति ।  
+> सुमेके इति सुमेके ।  
+> अध । स्म । एषु । रोदसी । स्वशोचिः । आ । अमवत्सु । तस्थौ । न । रोकः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते मरुत उग्राः शवसा बलेन वेगेन युक्ता धृष्णुषेणा धर्षकसेनाः
+> सुमेके सुरूपे उभे रोदसी द्यावापृथिव्य युजंत । योजयंति । वृष्टा
+
+##### Gist of the bhāṣya
+
+Those fierce Maruts, endowed with strength and speed and having assailing armies, join together the two beautiful ones, heaven and earth. The intention is that by raining they gratify the earth.
+
+### Printed p. 476
+
+> पृथिवीं तर्पयंतीत्यभिप्रायः । अध स्मापि चैषु येषु मरुत्सु रोदसी रुद्रस्य
+> पत्नि माध्यमिकी वाक् स्वशोचिः स्वदीप्तिर्वर्ततेऽमवत्सु बलवत्सु तेषु रोको
+> दीप्तिर्बाधको ना ना तस्थौ । न तिष्ठति । न निःसरत्येवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+And moreover, in these Maruts, the two worlds, who are the wife of Rudra, that is, the speech of the middle region, are self-radiant; in these mighty ones the obstructing light does not stand, that is, it does not come forth at all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्राः (*ugrāḥ*)—the terrible to enemies
+- धृष्णुषेणाः (*dhṛṣṇuṣeṇāḥ*)—possessed of an army that overcomes enemies
+- ते इत् (*te it*)—those very Maruts
+- शवसा (*śavasā*)—endowed with strength
+- सुमेके (*sumeke*)—of beautiful form
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- युजंत (*yujaṃta*)—they join together
+- अध स्म (*adha sma*)—moreover
+- रोदसी (*rodasī*)—the goddess of the middle region, speech, wife of Rudra
+- स्वशोचिः (*svaśociḥ*)—self-radiant
+- एषु (*eṣu*)—abides in these very Maruts
+- अमवत्सु (*amavatsu*)—in these mighty Maruts
+- रोकः (*rokaḥ*)—the power that obstructs light
+- न आ तस्थौ (*na ā tasthau*)—cannot exist
+
+##### भावार्थ (Bhāvārtha)
+
+Those very Maruts, terrible to enemies and possessed of an army that overcomes enemies, endowed with strength, join together both heaven and earth, which are of beautiful form. Moreover, the goddess of the middle region, the wife of Rudra, self-radiant, abides in these very Maruts. In these mighty Maruts the power that obstructs light cannot exist.
+
+##### English translation
+Those fierce and powerfully arrayed (Maruts) unite by their strength
+the two beautiful (regions) heaven and earth ; in them, the self-radiant,
+heaven and earth abide : the obstruction (of light) dwells not in those
+mighty ones.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ने॒नो वो॑ मरुतो॒ यामो॑ अस्त्वन॒श्वश्चि॒द्यमज॒त्यर॑थीः ।  
+> अ॒न॒व॒सो अ॑नभी॒शू र॑ज॒स्तूर्वि रोद॑सी प॒थ्या॑ याति॒ साध॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनेनः । वः । मरुतः । यामः । अस्तु । अनश्वः । चित् । यं । अजति । अरथीः ।  
+> अनवसः । आनभीशुः । रजःतूः । वि । रोदसी इति । पथ्याः । याति । साधन् ॥ ७ ॥
+
+### Printed p. 477
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकं संबंधी यामो रथोऽनेनः पापरहितं यथा
+> भवति तथास्तु प्रादुर्भवतु । किंच यं याममरथीः । रथिः सारथीः । न रथिररथीः ।
+> असारथिरपि स्तोताजति प्रेरयति स रथोऽनश्वश्चिदश्वरहितोऽप्यनवसः पथ्यधनरहितोऽनभीशुः पाशरहितोऽपि रजस्तूरुदकस्य प्रेरकः साधन् स्तोतृणां कामान्
+> साधयन् रोदसी द्यावापृथिव्यौ पथ्याः पथोऽंतरिक्षमार्गान् वि याति । विविधं
+> गच्छति ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, may your chariot be free of sin, that is, may it appear free of fault. Moreover, the chariot which a worshipper drives, impels, even though he is no charioteer (a charioteer is one who drives; he who is not is an "arathī"), is without horses, without provisions for the journey, without reins; it urges the water, accomplishes the desires of the worshippers, and travels variously through heaven and earth and the paths of the firmament. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—belonging to you
+- यं (*yaṃ*)—which chariot
+- अरथीः चित् (*arathīḥ cit*)—even though he is not a charioteer
+- अजति (*ajati*)—the worshipper impels
+- अनश्वः (*anaśvaḥ*)—which is without horses
+- अनवसः (*anavasaḥ*)—which travels a road free of grass and the like
+- अनभीशुः (*anabhīśuḥ*)—which is without traces
+- रजसूः (*rajasūḥ*)—which impels water
+- सादन् (*sādan*)—which fulfils the desires of the praisers
+- रोदसी (*rodasī*)—in heaven and earth
+- पथ्याः (*pathyāḥ*)—and on the path of the firmament
+- वि याति (*vi yāti*)—which travels especially
+- यामः (*yāmaḥ*)—the chariot
+- अनेनः (*anenaḥ*)—is free of sin
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, even without a charioteer, the worshipper, by your favour, can impel your chariot. That chariot, which is without horses, travels on a road free of grass and the like, is without traces, impels water, fulfils the desires of the praisers and travels especially in heaven and earth and on the path of the firmament, is free of sin.
+
+##### English translation
+May your chariot, Maruts, be devoid of wickedness ; that which (the worshipper) impels, and which without driver without horses, without provender, without traces, scatter watering and accomplishing (desires) traverses heaven and earth and the paths (of the firmament).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नास्य॑ व॒र्तान् न त॑रु॒ता न्व॑स्ति॒ मरु॑तो॒ यमव॑थ॒ वाज॑सात् ।  
+> तो॒के वा॒ गोषु॒ तन॑ये॒ यम॒प्सु स व्र॒जं दर्ता॒ पार्यॆ॒ ॒ 
+> अध द्योः । ८ ॥
+
+### Printed p. 478
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अस्य । वर्ता । न । तरुता । नु । अस्ति । मरुतः । यं । अवथ । वाजसात् ।  
+> तोके । वा । गोषु । तनये । यं । अप्सु । सः । व्रजं । दर्ता । पार्ये ।  
+> अध । द्योः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वाजसात् संग्रामे यमवथ रक्षथ अस्य जनस्य वर्ता प्रेरको
+> नास्ति । अस्य तरुता नु हिंसिता च नास्ति । अधापि च तोके पुत्रे तनये पौत्रे धने
+> वा गोषु वाप्सु वा निमित्तभूतेषु यमवथ स पार्ये संग्रामे द्योर्दिप्तस्यापि
+> विजिगीषोर्वा शत्र्वर्जं गवां संघं दर्ता दारयिता भवति ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, the man whom you protect in battle has no one to impel him (or hinder him), and no destroyer. Moreover, the man whom you protect, with regard to son, grandson, wealth, cows or waters, becomes in the decisive battle the one who breaks up the herd of cattle, the collection of cows, of the enemy, even though that enemy be fiery or eager for victory. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वाजसात् (*vājasāt*)—in battle
+- यं (*yaṃ*)—whichever man
+- अवथ (*avatha*)—you protect
+- अस्य (*asya*)—for such a man
+- वर्ता (*vartā*)—a hinderer
+- न आस्ति (*na āsti*)—there is not
+- तरुता नु (*tarutā nu*)—a destroyer
+- न (*na*)—there is not
+- आध (*ādha*)—and
+- तोके (*toke*)—for the sake of a son
+- तनये (*tanaye*)—for the sake of a grandson
+- गोषु वा (*goṣu vā*)—or on account of cows
+- अप्सु (*apsu*)—for the sake of water
+- यं (*yaṃ*)—whomever you protect
+- सः (*saḥ*)—he
+- पार्ये (*pārye*)—in the battle
+- द्यौः (*dyauḥ*)—even though the enemy is strong in power
+- व्रजं (*vrajaṃ*)—his herd of cattle
+- दर्ता (*dartā*)—he is able to scatter
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, the man whom you protect in battle has no hinderer and no destroyer. The man whom you protect for the sake of a son, a grandson, or on account of cows, or for the sake of water, is able, even though the enemy in battle is strong in power, to scatter his herd of cattle.
+
+##### English translation
+There is no propeller, no obstructer, of him, whom Maruts, you protect in battle : he whom (you prosper) with sons, grandsons, cattle, and water, is war the despoiler of the herds of his ardent (foe).
+
+### Printed p. 479
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र चि॒त्रम॒र्कं गृ॑ण॒ते तु॒राय॒ मारु॑ताय॒ स्वत॑वसे भरध्वं ।  
+> ये सहां॑सि॒ सह॑सा॒ सहं॑ते॒ रेज॑ते अग्ने पृथि॒वी म॒खेभ्यः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । चित्रं । अर्कं । गृणते । तुराय । मारुताय । स्वतवसे । भरध्वं ।  
+> ये । सहांसि । सहसा । सहंते । रेजते । अग्ने । पृथिवी । मखेभ्यः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने गृणते शब्दं कुर्वते स्तूयमानाय वा तुराय त्वरिताय स्वतवसे
+> स्वभूतबलाय मारुताय मरुतां गणाय चित्रं दर्शनीयमर्कमन्नं हविः ।
+> सधार्क इत्यन्ननामसु पाठात् । प्र भरध्वं । त्वत्सहायभूता ऋत्तिजस्त्वं च सर्वेयूयं प्रभरत ॥ यथा लोके बहुष्टेककार्यकरेषु मुख्यमेकं संबोध्य
+> यूयमेवं कुरुतेति प्रार्थना तत्वदत्रापि मुख्यमग्निमेकमेव संबोध्य
+> प्रभरध्वमिति बहुवचनप्रयोगः ॥ ये मरुतः सहांसि शत्रोणां बलानि सहसा बलेन
+> सहंते अभिभवंति मखेभ्यो मंहनीयेभ्यो मरुद्भो भयात्पृथिवी रेजते ।
+> कंपते ॥ मारुतायेति तद्धितवृत्तावंतर्भूतानामपि मरुतां बुद्ध्या प्रविभागात्
+> य इति प्रत्यवमर्शः । यथा महाभाष्ये । अथ शब्दानुशासनं । केषां शब्दानां ।
+> म. १.१-१ इति । यथा ना लोके । राजपुरुष इत्युक्ते कस्य राज्य इति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, to the host of Maruts, who are praising or being praised, swift, and possessed of their own strength, bring forth a wonderful, beautiful अर्कं (*arkaṃ*), that is, food, an oblation, since it is read among the names of food. "Bring forth" is said to Agni and to the priests who are his helpers: all of you bring it forth. As in the world, when many are engaged in one task, a prayer addresses the chief one alone and says "you all do thus", so here too Agni alone, the chief, is addressed and yet the plural is used. The Maruts are those who overcome the powers of enemies by their own strength; from fear of those honourable Maruts the earth trembles. The word for the Maruts' host, though the Maruts are included within it, takes them separately in thought, and so "who" refers back to them. He quotes as an example the Mahābhāṣya, अथ शब्दानुशासनं (*atha śabdānuśāsanaṃ*) followed by केषां शब्दानां (*keṣāṃ śabdānāṃ*) (Ma. 1.1-1) **NOTE**, and the example from the world: when "a king's man" is said, one asks "whose kingdom?"
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ये (*ye*)—those Maruts who
+- सहांसि (*sahāṃsi*)—the powers of enemies
+- सहसा (*sahasā*)—by their own strength
+- सहंते (*sahaṃte*)—defeat
+- पृणते (*pṛṇate*)—noise-making
+- तुराय (*turāya*)—swift-moving
+- स्वतवसे (*svatavase*)—endowed with their own strength
+- मारुताय (*mārutāya*)—to the host of Maruts
+- चित्रं (*citraṃ*)—attractive
+- अर्कं (*arkaṃ*)—and venerable food (oblation)
+- प्र भरध्वं (*pra bharadhvaṃ*)—offer
+- मखेभ्यः (*makhebhyaḥ*)—from fear of the venerable Maruts
+- पृथिवी (*pṛthivī*)—the earth
+- रेजते (*rejate*)—trembles
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, to the host of Maruts, those who defeat the powers of enemies by their own strength, such noise-making, swift-moving, endowed with their own strength, the attractive and venerable
+
 ---
 
-**Progress note:** Done through printed p. 473. Vol 21 pp. 467-473: Mandala 6 sukta 65 rk 6; sukta 66 rks 1-4
+**Progress note:** Done through printed p. 479. Maruts hymn Ṛk 5-9 (Sūkta 66), pp. 474-479
