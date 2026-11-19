@@ -52,7 +52,7 @@ Under a unit heading, plain paragraphs only: no other headings, no lists, no tab
    - Do not open that site's pages in any other way: they also carry other people's translations, which you must not read or use. If the helper fails, go on without it and say so in your report.
    - For a quoted sūtra or text that is still unclear you may search the web or open `ashtadhyayi.com` or `gretil.sub.uni-goettingen.de` with `curl`; name the site in the basis. Never copy a translation. What stays open becomes a NOTE.
    - In the text a reference is still copied as supplied (rule 5); its corrected form goes in the Readings line.
-8. Plain, exact English. Full sentences. A quotation from another text is first cited (`⟦ ⟧`), then translated. Terms like `षाष्टिक` are rendered by their sense ("taught in the sixth book").
+8. Plain, exact English. Full sentences. Weave word and gloss into the sentence as Sāyaṇa does: "O Indra, ⟦वावशानः⟧, desiring, ⟦एतं⟧, this pressed Soma, drink it …"; never the apparatus "(⟦एतं⟧ is glossed 'pressed')" or "⟦उत⟧ means 'also'" set beside a free sentence. In `## Readings` the introduction's lines begin `- Introduction:`. A quotation from another text is first cited (`⟦ ⟧`), then translated. Terms like `षाष्टिक` are rendered by their sense ("taught in the sixth book").
 
 ## What the check cannot see
 Whether your English is right. It checks only the form: headings, copied Sanskrit, references, brackets, the Readings lines. Step 4 is yours.
