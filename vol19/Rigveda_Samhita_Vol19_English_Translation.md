@@ -1,5 +1,23 @@
 # Rigveda Samhita — Volume 19 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+This part of the Ṛgveda Saṃhitā contains the first three Adhyāyas of the fourth Aṣṭaka. When we began this work, it was intended that each part should contain one Adhyāya, so that the exposition might be full. Accordingly, all the Adhyāyas of the first Maṇḍala were printed with one Adhyāya in each part. Recently the Government fixed the total printing cost of this work and decided that the work must be completed in thirty parts in all; from that point onward, therefore, some parts have been made up of two Adhyāyas and some of three. Even so, up to now only thirty Adhyāyas have been completed in twenty parts. Since the remaining thirty-four Adhyāyas must be completed in the next ten parts, they will be combined and printed at four Adhyāyas to each part.
+
+In the Ṛgveda, the Sūktas in every Maṇḍala are arranged according to a certain order. Ordinarily a Sūkta is addressed to one deity alone. But in some cases a single Sūkta may have many deities; each Ṛk may have a different deity; or a single Ṛk may have two deities. But for the most part a Sūkta has one deity only. The deities who are especially praised in the Ṛgveda are Agni, Indra, the Maruts, the Viśvedevas, the Aśvins, Pavamāna Soma, and so on. Among these, the larger number of mantras are in praise of Agni and Indra. About a quarter of the whole Ṛgveda is in praise of Indra. After Indra, the larger number of mantras are in praise of Agni. After them come the other deities.
+
+The Ṛgveda also has many seers. Ordinarily each of these seers has gathered together in one place the Sūktas that praise first Agni, then Indra, then the other deities; hence, following the order of the seers, the groups of Sūktas addressed to Agni and the other deities occur in many places. The descriptions of the qualities of these deities, too, are of one kind, with slight differences. Therefore, in the earlier parts, we have so far explained at length the description of the qualities of each deity, the difficult words in the respective Sūktas, and the special features of the deities. From now on, the descriptions of matters already explained will be abridged, and only new matters will be explained when the need appears. By doing so, no harm will come to the excellence of the work; only its bulk will be reduced. And in some cases, where many Sūktas addressed to one and the same deity occur together, the description of that deity and other special matters will be explained at length, in the form of an introduction, at the very beginning of the first Sūkta, and thereafter only the word-by-word meanings and the general sense of the Ṛks will be explained. This method too is, in a way, convenient for the readers.
+
+To publish the Ṛgveda Saṃhitā, which is most ancient, most profound, most extensive, and the foundation of all the Śāstras, in simple Kannada together with a critical translation is no easy task. Yet with the noble aim that all people, from scholars to the unlearned, may gain increase of knowledge through such a great undertaking and become worthy of the grace of God, His Highness Śrī Jayacāmarājendra Woḍeyar Bahadur, G.C.B., G.C.S.I., the Lord of the throne of Karnāṭaka, a lover of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, together with his Government, is encouraging the publication of this work, which requires great expense, with generous patronage; this must be called the good fortune of the multitude of the people of Karnāṭaka. I pray that the Lord of all, the Vedapuruṣa, may bestow on our Lord of such generous mind, on his family, on the princesses, on the prince bearing the auspicious name of Śrīkaṇṭhadatta Narasimharāja Woḍeyar, and likewise on the whole multitude of his subjects, all prosperity such as long life, health and wealth, which are the fruits of this world, and the spiritual knowledge that belongs to the highest good, even more abundantly. **NOTE**
+
+Mysore,
+Śrīmad Vijaya year, Nija Vaiśākha, Śukla Pañcamī, Monday
+Date 18-5-1953
+
+Translator:
+H. P. Venkata Rao,
+Court Mahāvidvān
+
 ### Printed p. 1
 
 Om. Obeisance to Śrī Mahāgaṇapati.
