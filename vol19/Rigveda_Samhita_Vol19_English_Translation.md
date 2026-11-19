@@ -26767,6 +26767,188 @@ Translation: This hymn beginning तमु नूनं (*tamu nūnaṃ*) is the
 > तमु॑ नू॒नं तवि॑षीमंतमेषां स्तु॒षे ग॒णं मारु॑तं॒  ॑
 > नव्यसीनां ।
 
+### Printed p. 741
+
+> य आश्वश्वा अमवद्वहंत उतेशिरे अमृतस्य स्वराजः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति। नूनं । तविषीऽमंतं । एषां । स्तुषे । गणं । मारुतं । नव्यसीनां।  
+> ये । आशु अश्वाः । अमवत् । वहंते । उत । ईशिरे । अमृतस्य । स्वराजः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सायणभाष्यं ॥ ४
+> तमु तमेव पूर्वं स्तुतमेव मारुतं मरुतां संबंधिनं तं गणं तविषीमंतं दीप्तिमंतं नूनमद्य स्तुषे । कीदृशां मरुतां । नव्यसीनां ॥ लिंगव्यत्ययः ॥
+> नवतराणां स्तुत्यानां वा । एषां मारुतं गणं । गणावयवभूता मरुतः । कीदृशा
+> इत्युच्यते । ये मरुत आश्वश्वाः शीघ्रगाम्यश्चोपेता अमवत् बलवंतो यथा
+> भवंति तथा वहंते गच्छंति । उतापि चेशिरे ईश्वरा भवंत्यमृतस्योदकस्य स्वराजः
+> स्वायत्तदीप्तयः स्वयमेव राजमानाः तेषां गणं स्तुषे ॥
+
+##### Gist of the bhāṣya
+
+"Him": that very Mārut host which was praised before, belonging to the Maruts, radiant, I praise today. Of what Maruts? Of the more praiseworthy ones; he notes a change of gender, and says the word means newer or worthy of praise. Of these Maruts, the host: the Maruts are the members that make up the host. What kind are they? Those Maruts who, furnished with swift horses, move along in such a way that they are strong. And they are also lords of the immortal, that is, of water, self-radiant, shining of themselves. I praise the host of those.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts
+- आश्वश्वाः (*āśvaśvāḥ*)—having horses that go swiftly
+- अमवत् (*amavat*)—extremely strong
+- वहंते (*vahaṃte*)—move about
+- उत (*uta*)—and
+- स्वराजः (*svarājaḥ*)—self-dependent, radiant
+- अमृतस्य (*amṛtasya*)—of water
+- ईशिरे (*īśire*)—are lords
+- एषां (*eṣāṃ*)—of such
+- नव्यसीनां (*navyasīnāṃ*)—worshipful
+- मारुतं (*mārutaṃ*)—of the Maruts
+- तविषीमंतं (*taviṣīmaṃtaṃ*)—luminous
+- तमु (*tamu*)—and well known
+- गणं (*gaṇaṃ*)—the host
+- नूनं (*nūnaṃ*)—now
+- स्तुषे (*stuṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+Those Maruts who move about with swift horses and with exceeding strength, and who, self-dependent and radiant, are lords of water: of such worshipful Maruts I now praise the luminous and well-known host.
+
+##### English translation
+I praise to-day that brilliant company of the adorable Maruts, lords of swift horses, who pass along in strength, who, self-radiant, preside over the ambrosial rain.
+
+### Printed p. 742
+
+##### विशेषविषयगळु (Special Topics)
+
+उ (*u*)—Concerning the particle उ (*u*) Yāska has spoken thus:
+
+अथाप्युकार एतस्मिन्नेवार्थ उत्तरेण मृषेमे वदंति सत्यमु ते (मे) वदंतीति । अथापि पदपूरण इदमु तदु ॥ (*athāpyukāra etasminnevārtha uttareṇa mṛṣeme vadaṃti satyamu te (me) vadaṃtīti | athāpi padapūraṇa idamu tadu ‖*) (Ni. 1-5)
+
+The particle उ (*u*) is used in the sense of restraint, that is, in a context that indicates mutual opposition. For example, in the sentence मृषेमे वदंति सत्यमु ते (*mṛṣeme vadaṃti satyamu te*), "These speak falsehood; those speak only truth", there are two matters indicating mutual opposition, speaking falsehood and speaking truth. The use of the word उ (*u*) is in a context in which these two are said in comparison with each other. Besides this, the word उ (*u*) is used also for completing a sentence, or a foot of a metre, by adding a syllable that is lacking. In such a context this word has only the sense of "this" or "that", and no other definite meaning. In the sentence तदु प्रयक्षतममस्य कर्म (*tadu prayakṣatamamasya karma*), "that very act of Indra, worthy of worship or praise", when the words that are joined indicate "that very act" or "that itself", the word उ (*u*) merges into the sense of the word for "that"; it has no separate meaning. Therefore the chief intention of the Nirukta statement is that in such a context the word is used for filling out the word. On the use of the word उ (*u*) for filling out the word, the author of the Nirukta has stated another Nirukta passage:
+
+ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति । (*ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti |*) (Ni. 1-9)**NOTE**
+
+That is, the particles कं (*kaṃ*), ईं (*īṃ*), इत् (*it*) and उ (*u*) are used in prose works not bound by metre for completing a sentence, and in metres of a fixed number of syllables for completing a foot. It is explained that these need not have a separate definite meaning; thus the use of these words is described.
+
+नूनं (*nūnaṃ*)—Yāska:
+
+विचिकित्सार्थीयो भाषायामुभयमन्वध्यायं विचिकित्सार्थीयश्च पदपूरणश्च । (*vicikitsārthīyo bhāṣāyāmubhayamanvadhyāyaṃ vicikitsārthīyaśca padapūraṇaśca |*) (Ni. 1-5)**NOTE**
+
+The word नूनं (*nūnaṃ*) is used in the sense of deliberation in places other than the Vedic verses also. In the Vedic metre he has described it as used both in the sense of deliberation and in the sense of filling out the word.
+
+### Printed p. 743
+
+Durgācārya has explained: विवेकपूर्वको अवधारणाभिप्रायः (*vivekapūrvako avadhāraṇābhiprāyaḥ*). The determining of a matter by discernment, in situations where doubt has arisen, is called deliberation. Sāyaṇa has supported that in the Ṛk न नूनमस्ति (*na nūnamasti*) (Ṛ. Saṃ. 1-170-1), which is given as an example for this word, it is used in the sense of deliberation and also in the sense of determination.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे॒षं ग॒णं त॒वसं॒ खादि॑हस्तं॒ धुनि॑व्रतं मा॒यिनं॒ दाति॑वारं।  
+> म॒यो॒भुवो॒ ये अमि॑ता महि॒त्वा वंद॑स्व विप्र तुवि॒राध॑सो॒  
+> न्यन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वेषं । गणं । तवसं । खादिहस्तं । धुनिव्रतं । मायिनं । दातिवारं ।  
+> मयःभुवः । ये । अमिताः । महित्वा । वंदस्व । विप्र । तुविराधसः । न्हान् ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तैषं दीप्तं गणं मारुतं तवसं बलवंतं खादिहस्तं कटकहस्तं धुनिव्रतं
+> कंपयितृकर्माणं मायिनं प्रज्ञावंतं दातिवारं दत्तधनं हे विप्र होतर्वंदस्व ।
+> स्तुहीति संबंधः । हे मरुतो मयोभुवः सुखस्य भावयितारो महित्वा महत्वेनामिता अपरिच्छिन्नाः । तान् तुविराधसः प्रभूतधनान् नृन् नेत्यन् वंदस्व ॥
+
+##### Gist of the bhāṣya
+
+The radiant host of the Maruts, the strong one, that has bracelets on its hands, whose work is shaking, that is intelligent, whose given wealth is bestowed: O wise priest, the hotṛ, praise it; this is the connection. O Maruts, causers of happiness, unbounded, that is, unlimited, in greatness: praise them, the leaders of abundant wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—O wise hotṛ
+- त्वेषं (*tveṣaṃ*)—radiant
+- तवसं (*tavasaṃ*)—powerful
+- खादिहस्तं (*khādihastaṃ*)—having hands adorned with bracelets
+- धुनिव्रतं (*dhunivrataṃ*)—whose chief activity is making trees and the like tremble
+- मायिनं (*māyinaṃ*)—endowed with wisdom
+- दातिवारं (*dātivāraṃ*)—of a nature to give wealth in gift
+- गणं (*gaṇaṃ*)—the host of the Maruts
+- वंदस्व (*vaṃdasva*)—praise
+- ये (*ye*)—those Maruts who
+- मयोभुवः (*mayobhuvaḥ*)—makers of happiness
+- महित्वा (*mahitvā*)—by their greatness
+- अमिताः (*amitāḥ*)—of unmeasured nature
+- नृन् (*nṛn*)—the leaders
+- तुविराधसः (*tuvirādhasaḥ*)—possessing abundant wealth: praise the host of such Maruts
+
+### Printed p. 744
+
+##### भावार्थ (Bhāvārtha)
+
+O wise hotṛ, praise the host of the Maruts, which is radiant, powerful, has hands adorned with bracelets, has as its chief activity the making of trees and the like tremble, is endowed with wisdom, and is of a nature to give wealth in gift. Praise that host of the Maruts, who are makers of happiness and of unmeasured nature by their greatness, who are leaders and possess abundant wealth.
+
+##### English translation
+Adore, priest, the resplendent and powerful company, whose arms (are decorated) with bracelets, whose function is the agitation (of the trees), who are wise and by whom wealth is eonferred: they who are bestowers of felicity, whose greatness is unbounded: glorify the opulent leaders (of rites)**NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+गणं (*gaṇaṃ*)—मारुतं गणं (*mārutaṃ gaṇaṃ*). In contexts in which the Maruts are indicated, it is the custom to denote the Maruts, who are accompanied by seven groups, by मारुतं गणं (*mārutaṃ gaṇaṃ*) and मारुतं शर्धः (*mārutaṃ śardhaḥ*). सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*): the groups of the Maruts are seven. In each group there are seven Maruts. In all there are forty-nine deities in the seven groups. All of them together are called by the words मारुतं गणं (*mārutaṃ gaṇaṃ*), मारुतं शर्धः (*mārutaṃ śardhaḥ*) or मरुतः (*marutaḥ*). Although in the present Ṛk there is only the word गणं (*gaṇaṃ*), yet because in the previous Ṛk it is मारुतं गणं (*mārutaṃ gaṇaṃ*), it should be understood that here too it is indicated as मारुतं गणं (*mārutaṃ gaṇaṃ*). In the first half of this Ṛk the Maruts are praised collectively by the word गणं (*gaṇaṃ*). In the second half they are praised, as मरुतः (*marutaḥ*), by words ending in the accusative plural, such as नैन् (*nain*). Although there is a change of number, both sentences have the same meaning.
+
+अमिताः (*amitāḥ*)—अपरिच्छिन्नाः । (*aparicchinnāḥ |*) Those who are free from limitation. The intention is that these Maruts never leave one another but always remain together; or, when the words महित्वा अमिताः (*mahitvā amitāḥ*) are construed together, those who excel in greatness, that is, without the difference that one is greater and another smaller in greatness, all are of one and the same, equal kind of greatness.
+
+विप्र (*vipra*)—होतः । (*hotaḥ |*) Here the word विप्र (*vipra*) denotes the hotṛ in the sense of wise. The sacrificer who performs the yajña addresses the hotṛ, who is the chief among the priests, by the word विप्र (*vipra*) and directs him to praise the Maruts, who are endowed with glory.
+
+### Printed p. 745
+
+मायिनं (*māyinaṃ*)—Although the word from which this is formed has several meanings, such as wisdom and stratagem, here it is used in the sense of wisdom. It means possessing wisdom, of much intellect.
+
+धुनिव्रतं (*dhunivrataṃ*)—कंपयितृकर्माणं । (*kaṃpayitṛkarmāṇaṃ |*) The second member of the compound is read among the names of action. From the root धूज् कंपने (*dhūj kaṃpane*) the first member is formed, meaning to shake, to cause to tremble. Because the Maruts, blowing with very great violence as storms, are of a nature to make trees and the like tremble (sway), they are described by this word.
+
+For the word नैन् (*nain*) Sāyaṇa has given two kinds of meaning, नेत्यन् मनुष्यान्यस्मान् मरुतो (*netyan manuṣyānyasmān maruto*)**NOTE**: us, who are leaders, or the Maruts. The qualification मयोभुवः (*mayobhuvaḥ*), "causers of happiness", fits both meanings. If the seer has said it with reference to himself and his family, the meaning is that by the grace of the Maruts powerful happiness was obtained by them. Or, if it is a qualification of मरुतः (*marutaḥ*), it amounts to a description of the natural power of the Maruts. The natural and collective power of the Maruts, and the heroic deeds accomplished by that power, are indicated by the many qualifications such as अमिता महित्वा (*amitā mahitvā*).
+
+सप्त सप्त हि मरुतो गणस्तस्मान्मारुतः सप्तकपालः। (*sapta sapta hi maruto gaṇastasmānmārutaḥ saptakapālaḥ|*) (Śa. Brā. 2-5-1-13)
+
+सप्त सप्त हि मारुतो गणः सर्वमेवैतेन रथं प्रीणाति । (*sapta sapta hi māruto gaṇaḥ sarvamevaitena rathaṃ prīṇāti |*) (Śa. Brā. 5-4-3-17) (Śa. Brā. 5-4-3-17)
+
+From such sentences it is understood that the Maruts always remain in groups, and that in such a group a kind of vitality and strength is natural to them. Therefore the qualification अमिता (*amitā*) is appropriate in the present Ṛk.
+
+नैन् (*nain*) has been explained also as the Maruts, who are leaders and of the nature of subjects. The Maruts are well known as the subjects of the gods.
+
+स एतामैंद्रीं मरुत्वतीमज्ञ पत् । क्षत्रं ना इंद्रो विशो मरुतः क्षत्रं वै विशो निषेद्धा ॥ (*sa etāmaiṃdrīṃ marutvatīmajña pat | kṣatraṃ nā iṃdro viśo marutaḥ kṣatraṃ vai viśo niṣeddhā ‖*) (Śa. Brā. 2-5-2-27)
+
+This meaning is stated in such sentences. Therefore there is propriety in giving to the word नृन् (*nṛn*) also the other meaning, मरुतः (*marutaḥ*). It can be noticed that the word नरः (*naraḥ*) is used as a qualification of the Maruts in many places in the Ṛksaṃhitā itself. For example,
+
+### Printed p. 746
+
+चित्रैरंजिभिर्वपुषे व्यंजते वक्षःसु रुक्मा अधि येतिरे शुभे । अंसेष्वेषां नि मिमृक्षुर्ऋष्टयः साकं जज्जिरे स्वधया दिवो नरः । (*citrairaṃjibhirvapuṣe vyaṃjate vakṣaḥsu rukmā adhi yetire śubhe | aṃseṣveṣāṃ ni mimṛkṣurṛṣṭayaḥ sākaṃ jajjire svadhayā divo naraḥ |*) (Ṛ. Saṃ. 1-64-4)
+
+विश्ववेदसो रयिभिः समोकसः संमिश्ला सस्तविषीभिर्विरप्यनः । आस्तार इषुं दधिरे गभस्त्योरनंतशुष्मा वृषखादयो नरः ॥ (*viśvavedaso rayibhiḥ samokasaḥ saṃmiślā sastaviṣībhirvirapyanaḥ | āstāra iṣuṃ dadhire gabhastyoranaṃtaśuṣmā vṛṣakhādayo naraḥ ‖*) (Ṛ. Saṃ. 1-64-10)
+
+In many such Ṛks the word नरः (*naraḥ*) shows the nature of the Maruts; in the same way in the present Ṛk also the word नन् (*nan*) may have the meaning "the Maruts".
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वो॑ यंतूदवा॒हासो॑ अ॒द्य वृ॒ष्टिं ये विश्वे॑ म॒रुतो॑  ॒॑
+> जुनंति ।  
+> अ॒यं यो अ॒ग्निर्म॑रुतः॒ समि॑द्ध ए॒तं जु॑षध्वं कवयो  
+> युवानः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वः । यंतु । उदऽवाहासः । अव्य । वृष्टिं । ये । विश्वे । मरुतः । जुनंति ।  
+> अयं । यः । अग्निः । मरुतः । संइद्धः । एतं । जुषध्वं । कवयः । युवानः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये विश्वे व्याप्ता मरुतो वृष्टिं जुनंति प्रेरयंति त उदवाहास उदकस्य
+> वोढारो मरुतोऽद्येदानीं वो युष्माना यंतु आगच्छंतु हे ऋत्विग्यजमानाः । अथ प्रत्यक्षवादः । हे मरुतो यः प्रसिद्धोऽयमग्निः समिद्धः सम्यक्
+> दीपित एतमग्निं जुषध्वं सेवध्वं हे कवयो मेधाविनो हे युवानो नित्यतरुणाः सर्वत्र व्याप्ता ना ॥
+
+##### Gist of the bhāṣya
+
+Those all-pervading Maruts who impel rain, who are the carriers of water, may they come to you today, O priests and sacrificers. Now he turns to direct address: O Maruts, this well-known Agni is kindled, that is, well lit; enjoy this Agni, serve it, O wise ones, O ever-young ones, who are pervading everywhere.
+
 ---
 
-**Progress note:** Done through printed p. 740. Maruts hymn 5.57 Rk 6-8, hymn 5.58 start, pp. 735-740
+**Progress note:** Done through printed p. 746. hymn 5.58 Rk 1-3, pp. 741-746
