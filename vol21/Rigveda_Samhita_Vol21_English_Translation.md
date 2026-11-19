@@ -27086,7 +27086,7 @@ Do you, who are imperishable, bear these most acceptable oblations to the presen
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa explains: O Agni, do not give us over to childlessness, nor to wretched clothing, nor to this want; the word he glosses is damaged here. **NOTE** Do not give us over to hunger, nor to the strong one, the Rakṣas. O truthful Agni, do not harm us in the house, nor in the forest.
+Sāyaṇa explains: O Agni, do not give us over to childlessness, nor to wretched clothing, nor to this want. **NOTE** Do not give us over to hunger, nor to the strong one, the Rakṣas. O truthful Agni, do not harm us in the house, nor in the forest.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -27247,7 +27247,7 @@ Shine with bright lustre, Agni, son of strength, you who are earnestly invoked, 
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa explains: O Agni, being an ally, do not speak to us, among these fires kindled by the priests, for the sake of hard maintenance; the meaning is that you should speak so that the fires, your allies, may bear us without hardship. **NOTE** Further, O Agni, son of strength, shining one, may your punitive intentions not reach us, even through error, that is, even through inadvertence; the root he cites for the verb is read among those meaning "to pervade".
+Sāyaṇa explains: O Agni, being an ally, do not speak to us, among these fires kindled by the priests, for the sake of hard maintenance; the meaning is that you should speak so that the fires, your allies, may bear us without hardship. **NOTE** Further, O Agni, son of strength, shining one, may your punitive intentions not reach us, even through error, that is, even through inadvertence.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
