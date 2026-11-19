@@ -28322,6 +28322,377 @@ When, like a neighing steed about to feed upon the forage, (Agni) springs up fro
 
 O Agni, newly born, a showerer, your unaging, kindled flames rise up. The shining smoke of this (Agni) goes towards heaven. O Agni, you, being a messenger, go to the gods and reach them.
 
+### Printed p. 672
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नवजातस्य (*navajātasya*)—who has just been born
+- वृष्णः (*vṛṣṇaḥ*)—the bestower of desired things
+- यस्य ते (*yasya te*)—of you whose
+- अजराः (*ajarāḥ*)—unaging
+- इधानाः (*idhānāḥ*)—blazing flames
+- उच्चरंति (*uccaraṃti*)—come forth and spread upwards (of such a you)
+- अरुषः (*aruṣaḥ*)—of attractive colour
+- धूमः (*dhūmaḥ*)—the smoke
+- द्यां अच्छ (*dyāṃ accha*)—facing the heavenly world
+- एति (*eti*)—pervades and spreads
+- अग्ने (*agne*)—O Agni
+- दूतः (*dūtaḥ*)—you who are the messenger
+- देवान् (*devān*)—the gods
+- सं ईयसे हि (*saṃ īyase hi*)—do you not go and join them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of you who have just been born and who bestow desired things, whose unaging, blazing flames come forth and spread upwards, the smoke of attractive colour pervades and spreads facing the heavenly world. O Agni, you, the messenger, go and join the gods, do you not?
+
+##### English translation
+The kindled undecaying flames of you, the newly-born, the showerer, rise up : the luminous smoke spreads along the sky: and you, Agni, proceed as their messenger to the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि यस्य॑ ते पृथि॒व्यां पाजो॒ अश्रे॑त्तृ॒षु यदन्ना॑ स॒मवृ॑क्त॒  ॑
+> जंभैः ।  
+> सेने॑व सृ॒ष्टा प्रसि॑तिष्ट एति॒ यवं॒ न द॑स्म जु॒ह्वा॑ विवेक्षि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यस्य । ते । पृथिव्यां । पाजः । अश्रेत् । तृषु । यत् । अन्ना । संअवृक्त । जंभैः ॥  
+> सेनाइव । सृष्टा । प्रसितिः । ते । एति । यवं । न । दस्म । जुह्वा । विवेक्षि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यस्य दावरूपस्य ते तव पाजस्तेजः पृथिव्यां भूम्यां तृषु क्षिप्रं
+> व्यश्रेत् विश्रयति यद्यदान्नानि काष्ठादीनि जंभैर्दंतैः । ज्वालाभिरित्यर्थः । समवृक्त
+> वृंक्ते खादति । तथा सेनेव सृष्टोद्युक्ता ते तव प्रसितिर्ज्वालैति । गच्छति । दस्म हे
+> दर्शनीयाग्ने त्वं यवं न यवनिव जुह्वा ज्वालया विवेक्षि । काष्ठादीनि भक्षयसि
+> व्याप्नोषि वा ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in your form as the forest fire, your brilliance quickly spreads over the earth when it devours food such as wood with its teeth, that is, with its flames. In the same way your flame goes forth like an army sent out and made ready. O handsome Agni, you consume wood and the like with your flame, or you pervade them, as one does barley.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य ते (*yasya te*)—of you whose
+- पाजः (*pājaḥ*)—brilliance
+- पृथिव्यां (*pṛthivyāṃ*)—all over the earth
+- तृषु (*tṛṣu*)—quickly
+- वि अश्रेत् (*vi aśret*)—spreads over
+- यत् (*yat*)—when
+- अन्ना (*annā*)—the foods in the form of wood and the like
+- जंभैः (*jaṃbhaiḥ*)—with the teeth in the form of flames
+- समवृक्त (*samavṛkta*)—it eats (then)
+- ते (*te*)—your
+- प्रसितिः (*prasitiḥ*)—the flame
+- सृष्टा (*sṛṣṭā*)—ready for battle
+- सेनेव (*seneva*)—like an army
+- एति (*eti*)—advances
+- दस्म (*dasma*)—O Agni of attractive form
+- जुह्वा (*juhvā*)—with your flame
+- यवं न (*yavaṃ na*)—as one eats barley
+- विवेक्षि (*vivekṣi*)—you pervade and consume wood and the like
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when your brilliance, spreading quickly all over the earth, eats the foods in the form of wood and the like with the teeth in the form of flames, then your flame advances like an army ready for battle. O Agni of attractive form, with your flame you pervade and consume wood and the like, as one eats barley.
+
+##### English translation
+The light of whom quickly spreads over the earth, when with his teeth (of flame) he devours his food : your blaze rushes along like a charging host, when Agni, of goodly aspect, you spread with your flame (amongst the trees) as if (they were) barley.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिद्दो॒षा तमु॒षसि॒ यवि॑ष्ठम॒ग्निमत्यं॒ न म॑र्जयंत॒ नरः॑ ।  
+> नि॒शिशा॑ना॒ अति॑थिमस्य॒ योन्॑ दी॒दाय॑ शो॒चिराहु॑तस्य॒ वृष्णः॑ । ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । दोषा । तं । उषसि । यविष्ठं । अग्निं । अत्यं । न । मर्जयंत । नरः ।  
+> निशिशानाः । अतिथिं । अस्य । योन् । दीदाय । शोचिः । आहुतस्य । वृष्णः ॥ ५ ॥
+
+### Printed p. 673
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यविष्ठं युवतममतिथिमतिथिवत्तूज्यं तमित्तमेवाग्निं दोषा दोषायां
+> रात्रावुषसि वासरेऽपि तमेवास्याग्नेर्योन् स्थान आहवनीयायितने धिष्टे वा
+> निशिशाना दीपयंतो नरो मनुष्या अत्यं न सततगमनयुक्तं वोढारमश्वमिव
+> मर्जयंत । परिचरंति । आहुतस्य च वृष्णः कामानां वर्षितुरग्नेस्तस्य शोर्जिर्ज्वाला
+> दीदाय । दीप्यते ॥
+
+##### Gist of the bhāṣya
+
+The men kindle that same Agni, the youngest, worthy of honour like a guest, at night and at dawn, in his own place, the Āhavanīya fire-place or the Dhiṣṇya, and serve him as one serves a horse that carries one constantly. And the flame of that Agni, the showerer of desires, to whom the oblation is offered, blazes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठं (*yaviṣṭhaṃ*)—the very youthful
+- अतिथिं (*atithiṃ*)—worthy of honour like a guest
+- तं इत् (*taṃ it*)—that same Agni
+- दोषा (*doṣā*)—at night
+- तं अग्निं (*taṃ agniṃ*)—that same Agni
+- उषसि (*uṣasi*)—at dawn
+- अस्य (*asya*)—of that same Agni
+- योन्सौ (*yonsau*)—on the altar, the place of origin
+- निशिशानाः (*niśiśānāḥ*)—causing to blaze
+- नरः (*naraḥ*)—men
+- अत्यं न (*atyaṃ na*)—as one tends a horse that goes constantly
+- मर्जयंत (*marjayaṃta*)—they worship
+- आहुतस्य (*āhutasya*)—to whom the oblation is offered
+- वृष्टः (*vṛṣṭaḥ*)—the showerer of desires, of such an Agni
+- शोचिः (*śociḥ*)—the flame
+- दीदाय (*dīdāya*)—blazes
+
+##### भावार्थ (Bhāvārtha)
+
+Men worship that same Agni, very youthful and worthy of honour like a guest, causing him to blaze at night and at dawn on the sacrificial altar, which is the place of his origin, as one tends a horse that goes constantly. The flame of the Agni to whom the oblation is offered and who showers desires blazes abundantly.
+
+##### English translation
+Men cherish that youthful Agni at evening and at dawn, as (they tend) a horse : lighting him as a guest in his proper station : the radiance of the showerer (of benefits,) to whom the oblation is offered, shines brightly.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒सं॒दृक्ते॑ स्वनीक॒ प्रती॑कं॒ वि यद्रु॒क्मो न रोच॑स उपा॒के।  
+> दि॒वो न ते॑ तन्य॒तुरे॑ति॒ शुष्म॑श्चि॒त्रो न सूरः॒ प्रति॑ चक्षि भा॒नुं॥
+
+### Printed p. 674
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुसंदृक् । ते । सुअनेक । प्रतीकं । वि । यत् । रुक्मः । न । रोचसे । उपाके ।  
+> दिवः । न । ते । तन्यतुः । एति । शुष्मः । चित्रः । न । सूरः । प्रति । चक्षि । भानुं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वनीक हे सुतेजस्काग्ने त्वं यद्यदा रुक्मो न सूर्य इव । सुवर्णमिव
+> वा । उपाकेंतिके वि रोचसे विशेषेण दीप्यसे तदा ते तव प्रतीकं रूपमंगं
+> वा सुसंदृक् सुसंदर्शनं भवति । किंच ते तव शुष्मो दिवोंतरिक्षात्तन्यतुर्नाशनिरिवैति । निर्गच्छति । चित्रो दर्शनीयः सूरो न सूर्य इव भानुं स्वां दीप्तिं
+> प्रति चक्षि । प्रदर्शयसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni of good brilliance, when you shine near at hand like the sun, or like gold, your form or limb is very beautiful to behold. Further, your might goes forth from the sky like the thunderbolt. Wonderful and fair to see, like the sun, you reveal your own radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वनीक (*svanīka*)—O Agni of excellent brilliance
+- यत् (*yat*)—when
+- रुक्मो न (*rukmo na*)—like gold
+- उपाके (*upāke*)—near at hand
+- वि रोचसे (*vi rocase*)—you shine abundantly (then)
+- ते (*te*)—your
+- प्रतीकं (*pratīkaṃ*)—form
+- सुसंदृक् (*susaṃdṛk*)—is very attractive
+- ते (*te*)—your
+- शुष्मः (*śuṣmaḥ*)—might
+- दिवः (*divaḥ*)—arising from the atmosphere
+- तन्यतुः न (*tanyatuḥ na*)—like the thunderbolt
+- एति (*eti*)—appears outwardly
+- सूरः न (*sūraḥ na*)—like the sun
+- चित्रः (*citraḥ*)—you who are attractive
+- भानुं (*bhānuṃ*)—your radiance
+- प्रति चक्षि (*prati cakṣi*)—you make manifest to all
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of excellent brilliance, when, shining like gold, you gleam near at hand, then your form is very attractive. Your might appears outwardly like the thunderbolt that arises from the atmosphere. You, who are attractive like the sun, make your radiance manifest to all.
+
+##### English translation
+Resplendent Agni, when you shine nigh at hand like gold, your appearance is beautiful: your might issues like the thunderbolt from the firmament, and like the wonderful sun, you display your lustre.
+
+### Printed p. 675
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ वः॒ स्वाहा॒ग्नये॒ दाशे॑म॒ परीळा॑भिर्घृ॒तव॑द्भिश्च  ॒
+> हव्यैः ।  
+> तेभि॑र्नो अग्ने॒ अमि॑त्यै॒र्महो॑भिः श॒तं पू॒र्भिराय॑सीभि॒र्नि  ॑
+> साहि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । वः । स्वाहा । अग्नये । दाशेम । परि । इळाभिः । घृतवत्ऽभिः । च । हव्यैः ।  
+> तेभिः । नः । अग्ने । अमित्यैः । महऽभिः । शतं । पूऽभिः । आयसीभिः । नि । पाहि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अग्नयेऽग्रस्य नेत्रे वस्तुभ्यं स्वाहा स्वाहुतं हविः । किंच यथा
+> वयमिळाभिर्गॊभिर्गॊविकारैः क्षीरादिभिर्घृतवद्भिर्घृतसहितैर्हन्यैः पुरोडाशादिभिश्च दाशेम परिचरेम तथा त्वमपि तेभिः प्रसिद्धैरमितैरपरिमितैर्महोभिस्तेजोभिः
+> शतमपरिमिताभिरायसीभिर्हिरण्मयाभिः । रुक्कमय इति हिरण्यनामसु पाठात् ।
+> पूर्भिनगरीभिरेव नोऽस्मान् नि पाहि । नितरां रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Agni, to you, the leader of the foremost, this well-offered oblation. Further, as we serve with milk and the like, which come from cows, and with offerings mixed with ghee, such as cakes, so do you also protect us completely with those well-known, immeasurable brilliances and with hundreds of fortresses, that is, cities, made of iron, which he takes to mean golden, because रुक्कमय (*rukkamaya*) is read among the names of gold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अग्नये (*agnaye*)—to the leader
+- वः (*vaḥ*)—(with reference to) you
+- यथा (*yathā*)—in the way in which
+- इळाभिः (*iḷābhiḥ*)—with milk and the like
+- घृतवद्भिः (*ghṛtavadbhiḥ*)—mixed with ghee
+- हव्यैः च (*havyaiḥ ca*)—and with offerings such as cakes
+- स्वाहा (*svāhā*)—the oblations
+- परि दाशेम (*pari dāśema*)—we offer with faith (in the same way)
+- तेभिः (*tebhiḥ*)—well-known
+- अमितैः (*amitaiḥ*)—immeasurable
+- महोभिः (*mahobhiḥ*)—full of brilliance
+- शतं (*śataṃ*)—many in number
+- आयसीभिः (*āyasībhiḥ*)—made of gold
+- पूर्भिः (*pūrbhiḥ*)—by the gift of cities
+- नः (*naḥ*)—us
+- नि पाहि (*ni pāhi*)—protect completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the way in which we offer to you, the leader, with faith, the oblations, composed of milk and the like and of cakes and the like mixed with ghee, in the same way
+
+### Printed p. 676
+
+protect us completely by the gift of cities that are well known, immeasurable, full of brilliance, many in number and made of gold.
+
+##### English translation
+When we present to you, Agni, the sacred offering along with oblations mixed with milk and butter, then protect us, Agni, with those vast unbounded, innumerable golden cities.
+
+#### Ṛk 8
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या वा॑ ते॒ संति॑ दा॒शुषे॒ अधृ॑ष्टा॒ गिरो॑ वा॒ याभि॑र्नृ॒वती॑रुरु॒ष्याः ।  
+> ताभि॑नः सूनो सहसो॒ नि पा॑हि॒ स्मत्सू॒रीञ्ज॑रि॒त्याञ्च॑तवेदः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । वा । ते । संति । दाशुषे । अधृष्टाः । गिरः । वा । याभिः । नृवतीः । उरुष्याः ।  
+> ताभिः । नः । सूनो इति । सहसः । नि । पाहि । स्मत् । सूरीन् । जरित्यन् । जातवेदः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहसः सूनो हे बलस्य पुत्र जातवेदोऽग्ने दाशुषे दाशुषस्ते तव या
+> वा याश्च ज्वालाः संति । अधृष्टा रक्षोभिरप्रधृषिता गिरो वा गिरश्च संति । योभिर्गीर्भिर्नृवतीः पुत्रवतीः प्रजा उरुष्या रक्षॆः ताभिरुभयीभिर्नॊऽस्मान् । स्मदिति
+> प्रशस्तवचनः । प्रशस्तान् सूरीन् हविषां प्रेरकान् जरित्वान् स्तोत्यंश्च नि पाहि ।
+> नितरां रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength, Jātavedas, whatever flames of yours, the liberal giver, there are, unassailable by the Rākṣasas, and whatever praises there are, with which praises you protect the people provided with sons, with both of these protect us. The word in the Saṃhitā meaning praise stands for praiseworthy: protect completely the praiseworthy patrons, who send forth the oblations, and the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- जातवेदः (*jātavedaḥ*)—O Agni, omniscient
+- दाशुषे (*dāśuṣe*)—of the generous giver
+- ते (*te*)—your
+- या वा (*yā vā*)—whichever flames
+- संति (*saṃti*)—there are
+- आधृष्टाः (*ādhṛṣṭāḥ*)—unobstructed
+- गिरः वा (*giraḥ vā*)—whichever praises there are
+- याभिः (*yābhiḥ*)—with which praises
+- नृवतीः (*nṛvatīḥ*)—your people provided with sons
+- उरुष्याः (*uruṣyāḥ*)—you protect
+- ताभिः (*tābhiḥ*)—together with all of them
+- स्मत् (*smat*)—in a praiseworthy manner
+- सूरीन् (*sūrīn*)—those who offer the oblations
+- जरित्वन् (*jaritvan*)—and who are praisers
+- नः (*naḥ*)—us
+- नि पाहि (*ni pāhi*)—protect completely
+
+### Printed p. 677
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength and omniscient, whatever flames of yours, the liberal giver, there are, whatever unobstructed praises there are, with which praises you protect your people provided with sons, with the help of all of them protect us completely, who offer the oblation in a praiseworthy manner and are praisers.
+
+##### English translation
+Son of strength, Jatavedas, with those unobstructed (splendours) which belong to you, a munificent donor, and with those praises where-with you protect people with their posterity, protect us your worshippers and praisers.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निर्यत्पू॒तेव॒ स्वधि॑तिः॒ शुचि॒र्गात्स्वया॑ कृ॒पा त॒न्वा॒३॒॑ति रोच॑मानः ।  
+> आ यो मा॒त्रोरु॒शेन्नो॒ जनि॑ष्ट देव॒यज्या॑य सु॒क्रतुः॑  ॒
+> पावकः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निः । यत् । पूताइव । स्वधितिः । शुचिः । गात् । स्वयो । कृपा । तन्वा । रोचमानः ।  
+> आ । यः । मात्रोः । उशेन्यः । जनिष्ट । देवयज्याय । सुक्रतुः । पावकः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा शुचिरग्निः स्वया स्वकीयया तन्ना ततया कृपा कृपया दीप्त्या
+> रोचमानः पूतेव स्वधितस्तीक्ष्लीकृता स्वधितिरिव निर्गात् काष्ठान्निर्गच्छति तदानीं
+> देवयज्याय भवति । तदेव विशदयति । योऽग्निरुशेन्यः कमनीयः सुक्रतुः
+> सुकर्मा पावकः शोधकश्च मात्रोररण्योरा जनिष्ट आजायत स देवयज्याय
+> भवतीति ॥
+
+##### Gist of the bhāṣya
+
+When the bright Agni, shining with his own extended brilliance, issues from the wood like a sharpened axe, he then becomes (fit) for the worship of the gods. Sāyaṇa makes this clear: Agni, who is desirable, of good works and the purifier, is born from the two mothers, the two kindling-woods; he is for the worship of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशेन्यः (*uśenyaḥ*)—greatly desired
+- सुक्रतुः (*sukratuḥ*)—the performer of excellent rites
+- पावकः (*pāvakaḥ*)—the purifier
+- यः (*yaḥ*)—which Agni
+- मात्रोः (*mātroḥ*)—from the two kindling-woods in the form of mothers
+
+### Printed p. 678
+
+- अ अजनिष्ट (*a ajaniṣṭa*)—was born, such a one **NOTE**
+- स्वया (*svayā*)—his own
+- तन्वा (*tanvā*)—extended
+- कृपा (*kṛpā*)—with brilliance
+- रोचमानः (*rocamānaḥ*)—who shines
+- शुचिः (*śuciḥ*)—Agni
+- यत् (*yat*)—when
+- पूता (*pūtā*)—sharpened
+- स्वधितिः इव (*svadhitiḥ iva*)—like a sword
+- निः गात् (*niḥ gāt*)—he comes forth out of wood and the like (then)
+- देवयज्याय (*devayajyāya*)—for the worship of the gods he becomes ready
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, desired by all, the performer of excellent rites, the purifier, who is born from the two kindling-woods in the form of mothers, such a one, and who shines with brilliance that is his own and extended, when he comes forth out of wood and the like like a sharpened sword, is then ready for the worship of the gods.
+
+##### English translation
+When the bright Agni, radiant with his own diffusive lustre, issues (from the touchwood)]like a sharpened axe; and he who is desirable, the doer of great deeds, the purifier, is born of his two parents : (he appears) for the worship of the gods.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता नो॑ अग्ने॒ सौभ॑गा दिदी॒ह्यपि॒ क्रतुं॑ सु॒चेत॑सं वतेम ।  
+> विश्वा॑ स्तो॒तृभ्यो॑ गृण॒ते च॑ संतु यू॒यं पा॑त स्व॒स्तिभिः॒ ॑ 
+> सदा नः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एता । नः । अग्ने । सौभगा । दिदीहि । अपि । क्रतुं । सुचेतसं । वतेम ।  
+> विश्वा । स्तोतृभ्यः । गृणते । च । संतु । यूयं । पात । स्वस्तिभिः । सदा । नः ॥०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने एतैतानि परिदृश्यमानानि सौभगा सौभगानि शोभनानि धनानि नोऽस्मभ्यं
+> दिदीहि । दीपय देहि वा । अप्यपि च क्रतुं कर्म यज्ञानां कर्तारं वा सुचेतसं
+
+##### Gist of the bhāṣya
+
+O Agni, bestow on us these visible good fortunes, that is, good wealth; make them shine, or give them. And further, the rite, or the performer of sacrifices, one of good mind.
+
 ---
 
-**Progress note:** Done through printed p. 670. Ṛk 9-11 of Sūkta 2, Sūkta 3 introduction and Ṛk 1-3, pp. 664-670
+**Progress note:** Done through printed p. 678. Ṛk 3-10 of Sūkta 3 (Maṇḍala 7), pp. 672-678
