@@ -25938,6 +25938,262 @@ I glorify that Indra who is the propitiated by praises, exalted by sacrifices, w
 
 That same Indra made the darkness, which is without knowledge (the destroyer of knowledge), spread by वृत्तेण (*vṛtteṇa*) **NOTE**, full of light in the sky by the sun, the god set in the heavens. The latter half-verse is made direct address. O mighty Indra, possessor of स्वधा (*svadhā*), mortals wishing to worship your eternal abode called heaven, कदा (*kadā*), that is, at any time, which means always, do not harm any living creature **NOTE**.
 
+### Printed p. 743
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स इत् (*sa it*)—that same Indra
+- अवयुनं (*avayunaṃ*)—devoid of light (knowledge)
+- ततन्वत् (*tatanvat*)—spread out by Vṛtra
+- तमः (*tamaḥ*)—the darkness
+- सूर्येण (*sūryeṇa*)—by the sun
+- वयुनवत् (*vayunavat*)—as made luminous (fit to be known)
+- चकार (*cakāra*)—made
+- स्वधावः (*svadhāvaḥ*)—O mighty Indra
+- मर्ताः (*martāḥ*)—men
+- अमृतस्य (*amṛtasya*)—deathless
+- ते (*te*)—your
+- धाम (*dhāma*)—abode (the gods who are in heaven)
+- इयक्षंतः (*iyakṣaṃtaḥ*)—wishing to worship
+- कदा (*kadā*)—always
+- न मिनंति (*na minaṃti*)—do not harm any living being
+
+##### भावार्थ (Bhāvārtha)
+
+The renowned Indra made the darkness, which was devoid of light and spread out by Vṛtra, luminous by the sun. O mighty Indra, men, wishing to worship the gods in heaven, your deathless abode, never harm any living being.
+
+##### English translation
+He who made the indistinct, wide-spreading darkness distinct wtth the sun : whenever, possessor of strength, mortals are seeking to adore the dwelling of you who are immortal, they harm not (any living being).
+
+##### विशेषविषयगळु (Special Topics)
+
+स इत् अवयुनं ततन्वत् तमः सूर्येण वयुनवत् चकार (*sa it avayunaṃ tatanvat tamaḥ sūryeṇa vayunavat cakāra*)—Indra made the darkness, which was devoid of light and covered by Vṛtra, that is, the gloom, luminous through the sun. Concerning the word वयुनवत् (*vayunavat*) here, Yāska says:
+
+वयुनं वेतेः कांतिर्वा प्रज्ञा वा । (*vayunaṃ veteḥ kāṃtirvā prajñā vā |*) स इत्तमोऽवयुनं ततन्नत्सूर्येण वयुनवच्चकार । (*sa ittamo 'vayunaṃ tatannatsūryeṇa vayunavaccakāra |*) तमोऽप्रज्ञानं ततन्नत् सूतं सूर्येण प्रज्ञानवच्चकार ॥ (*tamo 'prajñānaṃ tatannat sūtaṃ sūryeṇa prajñānavaccakāra ‖*) (Ni. 5-15)
+
+Having given this explanation, he cites this very Ṛk as the example. That is, the word वयुन (*vayuna*), formed from the root वि (*vi*), gives the meaning splendour (light) or intelligence. In the present Ṛk, because the sun was enveloped in darkness, gloom covered every place. Then, because there was no light, it was not possible to see any object or to know it by seeing. In this state Indra drove away the darkness that had covered every place by the light of the sun, made all things visible by that light, and enabled people to know them by intelligence: this is the chief meaning.
+
+### Printed p. 744
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ता च॒कार॒ स कुह॑ स्वि॒दिंद्रः॒ कमा जनं॑ चरति॒ कासु॑ वि॒क्षु ।  
+> कस्ते॑ य॒ज्ञो मन॑से॒ शं वरा॑य॒ को अ॒र्क इं॑द्र कत॒मः स  ॑
+> होता ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ता । चकार । सः । कुह । स्वित् । इंद्रः । कं । आ । जनं । चरति । कासु । विक्षु ।  
+> कः । ते । यज्ञः । मनसे । शं । वराय । कः । अर्कः । इंद्र । कतमः । स । होता ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रस्ता तान्न्युक्तप्रसिद्धानि वृत्रवधादीनि कर्माणि चकारे अकरोत् स
+> इंद्रोऽद्य कुह स्वित् क्व स्विध्वर्तते कं जनं कमपि देशमा चरति कासु विक्षु प्रजासु
+> वर्तत इतींद्रस्य विभूतिमहत्वान्न निश्चेतुं शक्यं । अथ प्रत्यक्षस्तुतिः । हे इंद्र कः
+> कीदृशो यज्ञस्ते तव मनसे चेतसे शं सुखकरो भवति । वराय तव वरणाय कः
+> कीदृशोऽर्को मंत्रः समर्थो भवति । होताह्वाता तव वरणाय यः समर्थो
+> भवति स होता कतमश्च भवति ॥
+
+##### Gist of the bhāṣya
+
+Those well-known deeds mentioned above, the slaying of Vṛtra and the rest, which Indra did: where is that Indra now? To which person, that is, to which region, does he go? In which peoples does he abide? Because of the greatness of Indra's power this cannot be determined. Now a direct praise: O Indra, what sort of sacrifice is pleasing to your mind? What sort of अर्क (*arka*), that is, mantra, is able to win you? And the invoker, that is, the one who is able to call you to choose you, what sort of man is he?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- ता (*tā*)—the famous deeds
+- चकार (*cakāra*)—did
+- सः इंद्रः (*saḥ iṃdraḥ*)—that Indra
+- कुह स्वित् (*kuha svit*)—in what region is he now?
+- कं जनं (*kaṃ janaṃ*)—in what region
+- आ चरति (*ā carati*)—does he move about
+- कासु विक्षु (*kāsu vikṣu*)—with what peoples does he have dealings
+- इंद्र (*iṃdra*)—O Indra
+- कः (*kaḥ*)—of what kind
+- यज्ञः (*yajñaḥ*)—sacrifice
+- ते (*te*)—your
+- मनसे (*manase*)—to the heart
+- शं (*śaṃ*)—is pleasing
+- वराय (*varāya*)—to choose and obtain you
+- कः अर्कः (*kaḥ arkaḥ*)—what mantra
+- होता सः (*hotā saḥ*)—he who praises you (the hotṛ)
+- कतमः (*katamaḥ*)—what sort of man
+
+##### भावार्थ (Bhāvārtha)
+
+Where is now that Indra who did the famous deeds? In what region does he move about? With what peoples does he have dealings? O Indra, what kind of sacrifice is pleasing to your heart? What mantra is able to choose and obtain you? What sort of man is the hotṛ who praises you?
+
+### Printed p. 745
+
+##### English translation
+What is he, the Indra who has done these deeds ? what region does he frequent ? among what people (does he abide) ? what worship, Indra, gives satisfaction to your mind ? what praise is able to gratify you ? which of your invokers (is most acceptable to you) ?
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दा हि ते॒ वेवि॑षतः पुरा॒जाः प्र॒त्नास॑ आ॒सुः पु॑रुकृ॒त्सखा॑यः ।  
+> ये म॑ध्य॒मास॑ उ॒त नूत॑नास उ॒ताव॒मस्य॑ पुरुहूत बोधि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदा । हि । ते । वेविषतः । पुराजाः । प्रत्नासः । आसुः । पुरुकृत् । सखायः ॥  
+> ये । मध्यमासः । उत । नूतनासः । उत । अवमस्य । पुरुहूत । बोधि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुराजाः पूर्वस्मिन्काले जाताः प्रत्नासः पुराणा अंगिरःप्रभृतय इदा
+> हीदानीमिव । हिशब्द उपमार्थे वर्तते वेविषतः कर्माणि प्राप्नुवंतो हे
+> पुरुकृत् बहूनां कर्मणां कर्तरिंद्र ते तव सखायः स्तोतार आसुः । बभूवुः ।
+> ये मध्यमासो मध्यमकालजा उतापि च ये नूतनासोऽद्यतना यतस्तेऽपि
+> सर्वे ते स्तोतारो बभूवुः अतः कारणादुतापि चावमस्यार्वाचीनस्य ममापि
+> स्तोत्रं हे पुरुहूत बहुभिराहूतेंद्र त्वं बोधि । बुध्यस्व ॥
+
+##### Gist of the bhāṣya
+
+The पुराजाः (*purājāḥ*) are those born in an earlier time; the प्रत्नासः (*pratnāsaḥ*) are the ancient ones, Aṅgiras and the rest. The word इदा हि (*idā hi*) means "as now"; the word हि (*hi*) is used in the sense of comparison. Attaining the rites, O Indra, doer of many deeds, they were your friends, that is, your praisers. Those who were born in the middle time and those who are recent, of the present day, all of these have been praisers. For that reason, hear also my praise, mine who am of the latest time, O Indra invoked by many; take note of it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुकृत् (*purukṛt*)—O Indra, who performs many rites
+- पुराजाः (*purājāḥ*)—born in earlier time
+- प्रश्नासः (*praśnāsaḥ*)—ancient, the Aṅgirases and the rest **NOTE**
+- इदा हि (*idā hi*)—just as in this time
+- वेविषतः (*veviṣataḥ*)—performing rites
+- ते (*te*)—your
+- सखायः (*sakhāyaḥ*)—as friends
+- आसुः (*āsuḥ*)—were
+- ये (*ye*)—who
+- मध्यमासः (*madhyamāsaḥ*)—were born in the middle time
+- उत (*uta*)—and
+
+### Printed p. 746
+
+- नूशनासः (*nūśanāsaḥ*)—those who are born in the present time **NOTE** (all of them are your friends); therefore
+- अवमस्य (*avamasya*)—this praise of me, the latest
+- पुरुहूत (*puruhūta*)—O Indra, who are called by many
+- बोधि (*bodhi*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who performs many rites, the Aṅgirases and the rest, who were born in earlier times and were elders, performed rites as they are done in this time and were friends to you. All those who were born in the middle time are your friends. Therefore know this praise of mine, the latest.
+
+##### English translation
+Doer of many deeds, these elders, born former times, engaged in sacred rites, have been, as they are now, your friends ; so have those of mediaeval and those of recent (date) : therefore, invoked of many, take notice of your (present) humble (adorer).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं पृ॒च्छंतोऽव॑रासः॒ परा॑णि प्र॒त्ना त॑ इंद्र॒ श्रुत्यानु॑ येमुः ।  
+> अर्चा॑मसि वीर ब्रह्मवाहो॒ यादे॒व वि॒द्म तात्वा॑ म॒हांतं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । पृच्छंतः । अवरासः । पराणि । प्रत्ना । ते । इंद्र । श्रुत्या । आनु । येमुः ।  
+> अर्चामसि । वीर । ब्रह्मवाहः । यात् । एव । विद्म । तात् । त्वा । महांतं । ' ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वीर शूर ब्रह्मवाहो ब्रह्मभिर्मंत्रैर्वहनीयेंद्र अवरासोर्वाचीना मनुष्यास्तमुक्तगुणोपेतं त्वां पृच्छंतोर्चंतः ॥ पृच्छतिरर्चतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O hero, brave one, O Indra who are to be borne by the brahmans, that is, by mantras, the later men, the recent human beings, पृच्छंतः (*pṛcchaṃtaḥ*), that is, worshipping you who have the qualities spoken of. The root पृच्छति (*pṛcchati*) has the sense of worshipping.
+
+### Printed p. 747
+
+> पराणि प्रकृष्टानि प्रत्ना प्रत्नानि पुराणानि श्रुत्या श्रुत्यानि शोतव्यानि ते त्वदीयानि
+> कर्माण्यनु येमुः । आनुयमनं निबंधनं । स्तुतिरूपाभिर्वाग्निर्निबबंधुः । तथा
+> वयमपि महांतं प्रभूतं त्वा त्वामर्चामसि । अर्चामः । स्तुमः । यादेव
+> यान्येव कर्माणि विद्म जानीमः तात्तैः कर्मभिः स्तुम इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+पराणि (*parāṇi*) means excellent; प्रत्ना (*pratnā*), ancient; श्रुत्या (*śrutyā*), to be heard: they have bound your deeds, of this kind, by words in the form of praises **NOTE**. In the same way we too worship you, the mighty, the abundant; we praise you. The connection is: we praise you with those very deeds that we know.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीर (*vīra*)—brave
+- ब्रह्मवाहः (*brahmavāhaḥ*)—borne by praise
+- इंद्र (*iṃdra*)—O Indra
+- अवरासः (*avarāsaḥ*)—humble men
+- तं (*taṃ*)—you
+- पृच्छंतः (*pṛcchaṃtaḥ*)—worshipping
+- पराणि (*parāṇi*)—excellent
+- प्रत्ना (*pratnā*)—ancient
+- श्रुत्या (*śrutyā*)—and famous
+- ते (*te*)—your deeds
+- अनु येमुः (*anu yemuḥ*)—have praised (in the same way)
+- महांतं (*mahāṃtaṃ*)—possessed of abundant qualities
+- त्वा (*tvā*)—you
+- अर्चामसि (*arcāmasi*)—we also worship
+- यादेव (*yādeva*)—which deeds
+- विद्मः (*vidmaḥ*)—we know
+- तात् (*tāt*)—with the help of those deeds we praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, brave and borne by praise, humble men, worshipping you, have praised your excellent, ancient and famous deeds. In the same way we too worship you, who are possessed of abundant qualities. With those deeds that we know, we worship you.
+
+##### English translation
+Humble (worshippers), adoring him, commemorate, Indra, your excellent. ancient, and glorious (deeds): so, hero, who are attracted by prayer. we praise you who are mighty, for those great actions with which we are acquainted.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्वा॒ पाजो॑ र॒क्षसो॒ वि त॑स्थे॒ महि॑ जज्ञा॒नम॒भि तत्सु ति॑ष्ठ ।  
+> तव॑ प्र॒त्नेन॒ युज्ये॑न॒ सख्या॒ वज्रे॑ण धृष्ट्णो॒ अप॒ ता नु॑दस्व ॥७॥
+
+### Printed p. 748
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्वा । पाजः । रक्षसः । वि । तस्थे । महि । जज्ञानं । अभि । तत् । सु । शिष्ठ ।  
+> तव । प्रत्नेन । युज्येव । सख्या । वज्रेण । धृष्टोइति । अप । ता । नुदस्व ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रक्षसो रक्षसां संबंधि पाजः सेनालक्षणं बलं हे इंद्र त्वाभि त्वामभिमुखं
+> वि तस्थे । प्रतिष्ठते । तथा त्वमपि महि महज्जज्ञानं प्रादुर्भवत्तद्बलमभि अभिमुखः
+> सन् सु सुष्टु शिष्ठ । स्थिरो भव । स्थित्वा च हे धृष्णो शत्रोणां धर्षकेंद्र तव
+> त्वदीयेन वज्रेण ता तद्बलमप नुदस्व । अपगतं प्रेरय । भिंधीत्यर्थः । कीदृशेन ।
+> प्रत्नेन पुराणेन युज्येन योज्येन सख्या नित्यसहायेन ॥
+
+##### Gist of the bhāṣya
+
+The strength of the Rākṣasas, in the form of armies, has taken its stand facing you, O Indra. In the same way, you too, facing that great strength which has arisen, stand firm and well **NOTE**. Having stood, O bold Indra, assailant of enemies, drive away that strength with your thunderbolt; that is, split it. With what kind of thunderbolt? With the ancient one, the fit one to be employed, the constant helper and friend.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- रक्षसः (*rakṣasaḥ*)—of the Rākṣasas
+- पाजः (*pājaḥ*)—the strength in the form of armies
+- त्वा अभि (*tvā abhi*)—surrounding you
+- वि तस्थे (*vi tasthe*)—stands
+- जज्ञानं (*jajñānaṃ*)—that has appeared before you
+- महि (*mahi*)—and has great power
+- तत् अभि (*tat abhi*)—facing that very strength
+- सु तिष्ठ (*su tiṣṭha*)—stand firm
+- धृष्णो (*dhṛṣṇo*)—O Indra, destroyer of enemies
+- प्रत्नेन (*pratnena*)—ancient
+- युज्येन (*yujyena*)—to be employed against enemies
+- सख्या (*sakhyā*)—and friendly
+- तव वज्रेण (*tava vajreṇa*)—with your thunderbolt
+- ता (*tā*)—that strength
+- अप नुदस्व (*apa nudasva*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the strength of the Rākṣasas, in the form of armies, stands surrounding you. Facing that same strength, which has appeared before you and has great power, stand firm. O Indra, destroyer of enemies, destroy that strength with your thunderbolt, which is ancient, to be employed against enemies, and friendly.
+
+##### English translation
+The strength of the Rakshasas is concentrated against you : bear up well against that mighty manifested (effort) : scatter them, valiant (Indra), with your old associate, your friend, the thunderbolt.
+
 ---
 
-**Progress note:** Done through printed p. 742. Sūkta 20 Ṛk 13; Sūkta 21 intro, Ṛks 1-3
+**Progress note:** Done through printed p. 748. Sūkta 21 Ṛk 3 end, Ṛks 4-7
