@@ -27744,6 +27744,273 @@ Sāyaṇa explains: O Adhvaryus, worship always, for the sacrifice, Agni who is 
 
 O Adhvaryus, always, for the sacrificial work, worship Agni, who is exceedingly worthy of praise, endowed with strength, possessed of the awareness of duty, in the middle of heaven and earth a messenger for all gods and men, possessed of speech that is true, and who, just as men do now, was kindled in former times by Manu.
 
+### Printed p. 658
+
+##### English translation
+Let us ever worship the Agni who is to be adored by us ; the mighty, the dextrous, the messenger passing between heaven and earth, the speaker of truth, kindled (of old) by Manu, as now by men, that (he may come) to the solemnity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प॒र्यवो॒ भर॑माणा अभि॒ज्ञु प्र वृं॑जते॒ नम॑सा ब॒र्हिर॒ग्नौ ।  
+> आ॒जुह्वा॑ना घृ॒तपृ॑ष्ठं॒ पृष॑द्व॒दध्व॑र्यवो ह॒विषा॑ मर्जयध्वं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सपर्यवः । भरमाणाः । अभिज्ञु । प्र । वृंजते । नमसा । बर्हिः । आग्नौ ।  
+> आजुह्वानाः । धृतपृष्ठं । पृषत्त्वत् । अध्वर्यवः । हविषा । मर्जयध्वं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सपर्यवः परिचरणमिच्छंतोऽभिज्ञु अभिगतजानुकं भरमाणाः पादैर्भरंतो बर्हिर्नमसा हविषा सहाग्नौ प्र वृंजते । प्रभरंति । तदेव विशदयति । हे
+> अध्वर्यवो धृतपृष्ठं धृतसंसिक्तपृष्ठं पृषद्वत् स्कूलविंदुभिर्युक्तं बर्हिर्हविषा सहाजुह्वाना मर्जयध्वं । अग्निं परिचरत ॥
+
+##### Gist of the bhāṣya
+
+Those who desire to serve (Agni), bending the knee and bearing the sacred grass on foot, offer it together with the oblation to Agni. Sāyaṇa makes this clear: O Adhvaryus, the sacred grass has its back drenched with ghee and is marked with large drops (of ghee); having offered it together with the oblation, invoking Agni, serve and honour Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सपर्यवः (*saparyavaḥ*)—those desirous of service
+- अभिज्नु (*abhijnu*)—with humility, kneeling
+- भरमाणाः (*bharamāṇāḥ*)—holding in the hand
+- बर्हिः (*barhiḥ*)—the sacred grass seat
+- नमसा (*namasā*)—together with the oblation
+- अग्नौ (*agnau*)—for the sake of Agni
+- प्र वृंजते (*pra vṛṃjate*)—offer
+- अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus
+- धृतपृष्ठं (*dhṛtapṛṣṭhaṃ*)—having its back drenched with ghee
+- पृषद्वत् (*pṛṣadvat*)—joined with drops of ghee, the sacred grass
+- हविषा (*haviṣā*)—having offered with the oblation
+- आजुह्वानाः (*ājuhvānāḥ*)—praying to Agni and calling him
+- वर्जयध्वं (*varjayadhvaṃ*)—worship **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Those desirous of service, kneeling in humility, hold the sacred grass in the hand and offer it to Agni together with the oblation. O Adhvaryus, having offered, together with the oblation, the sacred grass that has its back drenched with ghee,
+
+### Printed p. 659
+
+and is joined with drops of ghee, invoke Agni in prayer and worship him.
+
+##### English translation
+The worshippers bearing the sacred grass offer it with revernce, upon their knees, to Agni: worship him, priests, with oblations, invoking him to (sit down) on the spotted (grass), smeared with clarified butter.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒ध्यो॒३॒॑३ वि दुरो॑ देव॒यंतोऽशि॑श्रयू रथ॒युर्दे॒वता॑ता।  
+> पू॒र्वी शिशुं॒ न मा॒तरा॑ रिहा॒णे सम॒ग्रुवो॒ न सम॑नेष्वंजन् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुअध्यः । वि । दुरः । देवयंतः । अशिश्रयुः । रथयुः । देवताता ।  
+> पूर्वी इति । शिशुं । न । मातरा । रिहाणे इति । सं । आग्रुवः । न । समनेषु ।  
+> अंजन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वाध्यः सुकर्माणो देवयंतो देवकामा यजमाना रथयू रथकामाश्च ॥ जसि पूर्वसवर्णो ह्रस्वश्च ॥ देवताता देवतात् यज्ञे दुरो यज्ञगृहद्वाराणि व्यशिश्रयुः । आश्रितवंतः । किंच समनेषु यज्ञेषु पूर्वि प्राचीने
+> प्रागग्रे जुहूपभृतौ शिशुं न वत्समिव मातरौ गावौ रिहाणे अग्निं लिहाने आग्रुवो
+> न यथा नद्यः क्षेत्राण्युदकेन तद्वत्समंजन् । अध्वर्यव आज्येन समंजंति ॥
+
+##### Gist of the bhāṣya
+
+Those who are good performers of rites, the sacrificers who desire the gods and desire a chariot, have resorted in the sacrifice to the doors of the sacrificial house. Further, in the sacrifices the two ancient ladles, Juhū and Upabhṛt, with their tips to the east, like two mother cows licking a calf, lick Agni; and as rivers (spread) over the fields with water, so they anoint him. That is, the Adhvaryus anoint (Agni) with ghee.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वाध्यः (*svādhyaḥ*)—performers of excellent rites
+- देवयंतः (*devayaṃtaḥ*)—desirous of worshipping the gods, namely the sacrificers
+- रथयुः (*rathayuḥ*)—desirous of obtaining a chariot
+- देवताता (*devatātā*)—in the sacrifice
+- दुरः (*duraḥ*)—the doors of the sacrificial house
+- वि अशिश्रयुः (*vi aśiśrayuḥ*)—have resorted to
+- मातरः (*mātaraḥ*)—the mother cows
+- शिशुं न (*śiśuṃ na*)—as they lick their calf
+- आग्रुवो न (*āgruvo na*)—as rivers spread over the fields lying around
+- समनेषु (*samaneṣu*)—in the sacrifices
+- पूर्वि (*pūrvi*)—the Juhū vessels facing east
+- रिहाणे (*rihāṇe*)—touching Agni
+- सं अंजन् (*saṃ aṃjan*)—adorn with ghee
+
+### Printed p. 660
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers, performers of excellent rites, desirous of worshipping the gods, desiring to obtain a chariot, have resorted in the sacrifice to the doors of the sacrificial house. As the mother cows lick their calves, and as rivers overflow and spread over the fields lying around, so in the sacrifices the Juhū vessels facing east, touching Agni, adorn him with ghee.
+
+##### English translation
+The devout performers of holy rites, desirous of chariots, have had recourse to the doors (of the sacrificial chamber) : (the ladles), placed to the east, are plying the fire with ghee at sacrifices, as the mother cows lick the calf, or as rivers (water the fields).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त योष॑णे दि॒व्ये म॒ही न॑ उ॒षासा॒नक्ता॑ सु॒दुघे॑व धे॒नुः ।  
+> ब॒र्हि॒षदा॑ पुरुहू॒ते म॒घोनी॒ आ य॒ज्जिये॑ सुवि॒ताय॑  
+> श्रयेतां ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । योषणे इति । दिव्ये इति । मही इति । नः । उषसानक्ता । सुदुघाइव । धेनुः ।  
+> बर्हिषदा । पुरुहूते इति पुरुहूते । मघोनी इति । आ । यज्जिये इति ।  
+> सुविताय । श्रयेतां ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च योषणे युवत्यौ स्त्रीरूपे वा दिव्ये दिवि भवे मही महत्यौ
+> बर्हिषदा बर्हिषि सीदंत्यौ पुरुहूतॆः बहुभिः स्तुते मघोनी धनवत्यौ यज्ञिये
+> यज्ञार्हे उषासानक्ताहोरात्रॆ सुदुघेव धेनुः कामधुग्धेनुरिव नोऽमान्
+> सुविताय कल्याणाया श्रयेतां ॥
+
+##### Gist of the bhāṣya
+
+And further, the two young women, or the two of female form, divine, being of heaven, great, seated on the sacred grass, praised by many, rich in wealth and worthy of sacrifice, are Day and Night. Like a wish-granting cow that is easily milked, may they come to us for our good.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- योषणे (*yoṣaṇe*)—of excellent female form
+- दिव्ये (*divye*)—divine in nature
+- मही (*mahī*)—of great nature
+- बर्हिषदा (*barhiṣadā*)—sitting upon the sacred grass seat
+- पुरुहूते (*puruhūte*)—to be called by many **NOTE**
+
+### Printed p. 661
+
+- मघोनी (*maghonī*)—possessed of wealth
+- यज्ञिये (*yajñiye*)—worthy of worship
+- उषासानक्ता (*uṣāsānaktā*)—the deities of day and night
+- सुदुघा धेनुः इव (*sudughā dhenuḥ iva*)—like a cow that yields milk excellently
+- नः (*naḥ*)—to us
+- सुविताय (*suvitāya*)—to bring about welfare
+- आ श्रयेतां (*ā śrayetāṃ*)—may they be with us
+
+##### भावार्थ (Bhāvārtha)
+
+The deities of day and night, of excellent female form, of great nature, seated on the sacred grass, to be called by many, possessed of wealth and worthy of worship, like a cow that yields milk excellently, may they be with us to bring about our welfare.
+
+##### English translation
+May the two youthful females, the divine and mighty day and night, the invoked of many, the possessed of wealth, seated on the sacred grass, entitled to adoration, be with us like an easily-milked cow for our welfare.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विप्रा॑ य॒ज्ञेषु॒ मानु॑षेषु का॒रू मन्ये॑ वां जा॒तवे॑दसा॒  ॑
+> यजध्यै ।  
+> ऊ॒र्ध्वं नो॑ अध्व॒रं कृ॑तं॒ हवे॑षु॒ ता दे॒वेषु॑ वनथो॒  ॑
+> वार्याणि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विप्रा । यज्ञेषु । मानुषेषु । कारू इति । मन्ये । वां । जातवेदसा । यजध्यै ।  
+> ऊर्ध्वं । नः । अध्वरं । कृतं । हवेषु । ता । देवेषु । वनथः । वर्याणि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दैव्या होतारौ विप्रा मेधाविनौ जातवेदसा जातधन् मानुषेषु
+> मनुष्यैः क्रियमाणेषु यज्ञेषु कारू कर्मणां कर्तारौ वां युवां यजध्यॆ
+> यष्टुं मन्ये । स्तौमि । किंच हवेषु हवनेषु स्तोत्रेषु सत्सु नोऽस्माकमधर्व्-
+
+### Printed p. 662
+
+> मकुटिलं यज्ञमूर्ध्वं देवाभिमुखं कृतं । कुरुतं च । अपि च ता तौ युवां
+> देवेषु विद्यमानानि वार्याणि धनानि वनथः । संभजथः । तान्यस्मभ्यं संप्रयच्छथ
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O divine Hotṛs, two wise ones, with wealth that is born (in you), makers of rites in the sacrifices performed by men, I praise you, thinking to worship you. And further, when the invocations and praises are being made, make our sacrifice straight and turned upward, towards the gods. And also, enjoy the precious treasures that are among the gods, and bestow them on us. That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रा (*viprā*)—wise
+- जातवेदसा (*jātavedasā*)—possessed of wealth born in yourselves
+- मानुषेषु (*mānuṣeṣu*)—performed by men
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- कारू (*kārū*)—doers of rites, O divine Hotṛs
+- वां (*vāṃ*)—you
+- यजध्यै (*yajadhyai*)—to worship
+- मन्ये (*manye*)—I praise
+- हवेषु (*haveṣu*)—at the time of our praises
+- नः (*naḥ*)—our
+- अध्वरं (*adhvaraṃ*)—the sacrifice
+- ऊर्ध्वं (*ūrdhvaṃ*)—upward, towards the deities
+- कृतं (*kṛtaṃ*)—turn
+- ता (*tā*)—you two
+- देवेषु (*deveṣu*)—those that are among the gods
+- वार्याणि (*vāryāṇi*)—the desired wealth
+- वनथः (*vanathaḥ*)—bestow on us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Hotṛs, wise ones, possessed of wealth born in yourselves, doers of rites in the sacrifices performed by men, I praise you in order to worship you. At the times of our praises, turn our sacrifice towards the deities. Cause the wealth that is among the gods, and is desired, to come to us.
+
+##### English translation
+I am minded to adore you two sages, the ministrants at sacrifices of men, from whom wealth is derived : when the worship is being celebrated, convey our offspring aloft, and acquire (for ouruse) the precious (treasures preserved) amongst the gods.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ भार॑ती॒ भार॑तीभिः स॒जोषा॒ इळा॑ दे॒वैर्म॑नु॒ष्ये॑भिर॒ग्निः ।  
+> सर॑स्वती सारस्व॒तेभि॑र॒र्वाक् ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दंतु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । भारती । भारतीभिः । सजोषाः । इळा । देवैः । मनुष्येभिः । अग्निः ।  
+> सरस्वती । सारस्वतेभिः । अर्वाक् । तिस्रः । देवीः । बर्हिः । आ । इदं । सदंतु ॥ ८ ॥
+
+### Printed p. 663
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदाद्यक्षतुष्टयं द्वितीयाष्टकस्याष्टमाध्याये । ऋग्वे. ३. ४. ८-११ ।
+> यद्यपि व्याख्यातं तथापि व्यवधानात्संक्षेपतोऽत्रापि व्याख्यायते । भारती
+> भरतस्यादित्यस्य पत्नि भारतीभिः सजोषाः सहितेळा मनुष्यभिर्मनुष्यलोकभवृर्देवैः सार्धमग्निरागच्छतु । सरस्वती सारस्वतेभिः सारस्वतैर्मध्यमस्थानैर्देवैः
+> सार्धमर्वागस्मदभिमुखमागच्छतु । अगत्य तिस्रो देवीर्देव्यः ॥ प्रथमार्थे
+> द्वितीया ॥ बर्हिरिदमा सदंतु ॥
+
+##### Gist of the bhāṣya
+
+The four ṛks beginning with this one were explained in the eighth adhyāya of the second aṣṭaka (Ṛgve. 3. 4. 8-11) **NOTE**. Although explained there, because of the interval they are explained here too in brief. Bhāratī, the wife of Bharata, that is, of Āditya, together with the Bhāratīs; Iḷā together with the gods born in the human world; may Agni come together with the gods. May Sarasvatī, together with the Sārasvatas, the gods of the middle region, come facing us. Moreover, may the three goddesses sit down upon this sacred grass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भारती (*bhāratī*)—the goddess Bhāratī
+- भारतीभिः (*bhāratībhiḥ*)—with the deities connected with Bhāratī
+- सजोषाः (*sajoṣāḥ*)—united
+- इळा (*iḷā*)—the goddess Iḷā
+- मनुष्येभिः (*manuṣyebhiḥ*)—with those born in the world of men
+- अग्निः (*agniḥ*)—Agni
+- देवैः (*devaiḥ*)—with the other gods
+- आ (*ā*)—may come
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- सारस्वतेभिः (*sārasvatebhiḥ*)—together with the deities of the middle region
+- अर्वाक् (*arvāk*)—facing us (may she come)
+- तिस्रः देवीः (*tisraḥ devīḥ*)—the three goddesses called Iḷā, Sarasvatī and Bhāratī
+- इदं बर्हिः (*idaṃ barhiḥ*)—upon this sacred grass seat
+- आ सदंतु (*ā sadaṃtu*)—may sit
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Bhāratī, united with the deities connected with Bhāratī, may the goddess Iḷā with men (or with the gods born in the world of men), and may Agni with the other gods, come. May the goddess Sarasvatī, together with the deities of the middle region, come facing us. May the three goddesses called Iḷā, Sarasvatī and Bhāratī also come and sit upon this sacred grass seat.
+
+##### English translation
+May Bharathi, associated with the Bharatis ; Ila with gods and men ; and Agni and Saraswati with the Saraswatas ; may the three goddesses sit down before us upon this sacred grass.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्न॑ स्तु॒रीप॒मध॑ पोषयि॒त्तु देव॑ त्वष्ट॒र्वि र॑रा॒णः स्य॑स्व ।  
+> यतो॑ वी॒रः क॑र्म॒ण्यः॑ सु॒दक्षो॑ यु॒क्तग्रा॑वा॒ जाय॑ते  ॒॑
+> देवकामः ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 657. Sukta 2 introduction (end), Sayana intro, Rk 1-3 pp. 651-657
+**Progress note:** Done through printed p. 663. Ṛk 4-9 of Sūkta 2 (Maṇḍala 7), pp. 658-663
