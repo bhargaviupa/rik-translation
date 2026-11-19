@@ -11194,6 +11194,276 @@ I commend with new hymns the man observant of his duty, and the beneficent Mitra
 
 Agni, the priest, is to be praised in the sacrifices of every people. He is of undaunted action, that is, of work free of pride, or of unconfused wisdom. He is the goer, the lord, of the two young women, heaven and earth. He is the child, the son, of heaven. "Agni was born first from heaven" (Ṛgve. 10-45-1): thus the Nigama. **NOTE** Or else: he is the son of the one who praises; so too there is a Nigama: "You become a son to the one who served you" (Ṛgve. 2-1-9). **NOTE** He is the son of strength, the sign of the sacrifice, shining; Agni, of such qualities, I praise, in order to worship him. The word "I praise" is carried over from the first Ṛk.
 
+### Printed p. 258
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विशोविशः (*viśoviśaḥ*)—of every worshipper
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices also
+- ईड्यं (*īḍyaṃ*)—the one to be praised
+- आदृप्तक्रतुं (*ādṛptakratuṃ*)—the one whose action is free of pride
+- युवत्योः (*yuvatyoḥ*)—to the two young women, heaven and earth
+- अरतिं (*aratiṃ*)—the lord
+- दिवः (*divaḥ*)—of the world of heaven
+- शिशुं (*śiśuṃ*)—the son
+- सहसः (*sahasaḥ*)—of strength
+- सूनुं (*sūnuṃ*)—the son
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- केतुं (*ketuṃ*)—the one who makes it known
+- अरुषं (*aruṣaṃ*)—the one of attractive golden colour
+- अग्निं (*agniṃ*)—Agni
+- यजध्यै (*yajadhyai*)—in order to worship, I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise Agni, in order to worship him: he who is to be praised in the sacrifices of every worshipper, whose action is free of pride, who is the lord of the two young women, heaven and earth, the son of the world of heaven, the son of strength, the one who makes the sacrifice known, of attractive golden colour.
+
+##### English translation
+(I incite the worshipper) to offer worship to Agni, who is to be adored at the sacrifices of every man; whose acts are free from arrogance; the lord of two youthful (brides, heaven and earth); the child of heaven, the son of strength, the brilliant symbol of sacrifice.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒रु॒षस्य॑ दुहि॒तरा॒ विरू॑पे॒ स्तृभि॑र॒न्या पि॑पि॒शे सूरो॑ अ॒न्या ।  
+> मि॒थ॒स्तुरा॑ वि॒चरं॑ती पाव॒के मन्म॑ श्रु॒तं न॑क्षत ऋ॒च्यमा॑ने ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरुषस्य । दुहितरा । विरूपे इति विरूपे । स्तृभिः । अन्या । पिपिशे । सूरः । अन्या ।  
+> मिथःतुरा । विचरंती इति विचरंती । पावके इति । मन्म । श्रुतं । नक्षतः ।  
+> ऋच्यमाने इति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमहोरात्रयोः स्तुतिः । अरुषस्यारोचमानस्य सूर्यस्य दुहितरा
+> दुहितरौ । सूर्येण ह्यहोरात्रयोर्विभागः क्रियते । अतस्तदधीनात्मलाभत्वात्तस्य
+> दुहितरावित्युच्येते । विरूपे शुक्लकृष्णतया नानारूपे । तयोरनैका रात्रिः
+
+##### Gist of the bhāṣya
+
+This Ṛk is a praise of Day and Night. "Of the shining (Sun)", that is, of the radiant Sun, there are two daughters. By the Sun the division of day and night is made; therefore, since they gain their very existence in dependence on him, they are called his two daughters. They are "of various form" विरूपे (*virūpe*), that is, of different forms, by being white and black. Of the two, one is Night.
+
+### Printed p. 259
+
+> स्त्रृभिर्नक्षत्रैः पिपिशे । पिश्यते । संश्लिष्यते ॥ पिश अवयव इति धातुः ॥ अन्याहरात्मिका
+> दुहिता सूरः सूर्येण पिपिशे । संश्लिष्यते । ते च नक्षत्रैः सूर्येण चालंकृते
+> भवत इत्यर्थः । मिथस्तुरा परस्परं बाधयंत्यौ । अह्ना रात्रिर्निवर्त्यते रात्रा
+> चाहरिति परस्परं बाधः । अत एव विचरंती विविधं पृथक्वरंत्यौ पावके सर्वस्य
+> शोधयित्र्यौ । एवंभूते अहश्च रात्रिश्च ऋच्यमाने अस्माभिः स्तूयमाने सत्यौ
+> श्रुतं श्रोतव्यं मन्म मननीयं स्तोत्रमस्मत्कृतं नक्षतः । व्याप्नुतां ॥
+
+##### Gist of the bhāṣya
+
+Night "is joined" पिपिशे (*pipiśe*) with the stars, that is, she is adorned; the other, whose nature is day, is joined with the Sun. Thus both are adorned, the one with the stars, the other with the Sun. "Mutually opposed" मिथस्तुरा (*mithasturā*): they obstruct each other; night is driven back by day, and day by night, which is their mutual obstruction. Therefore they are "proceeding diversely", moving apart in various ways; "purifying", cleansing everything. Day and Night, being thus, are praised by us: may the praise made by us, worthy to be heard and pondered, pervade them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विरूपे (*virūpe*)—the two of white and black form, of various colours
+- अरुषस्य (*aruṣasya*)—of the Sun of golden colour
+- दुहितरा (*duhitarā*)—of the two daughters, Day and Night
+- अन्या (*anyā*)—one, Night
+- स्तृभिः (*stṛbhiḥ*)—with the shining stars
+- पिपिशे (*pipiśe*)—she shines
+- अन्या (*anyā*)—the other, Day
+- सूरः (*sūraḥ*)—she is joined with the Sun
+- मिथस्तुरा (*mithasturā*)—the two who obstruct each other's state
+- विचरंती (*vicaraṃtī*)—the two who move about in different ways
+- पावके (*pāvake*)—the two who purify
+- ऋच्यमाने (*ṛcyamāne*)—the two Day and Night, who are praised by us
+- श्रुतं (*śrutaṃ*)—the well-known
+- मन्म (*manma*)—the meditative
+- नक्षतः (*nakṣataḥ*)—may they pervade our praise (may they hear it and be satisfied)
+
+##### भावार्थ (Bhāvārtha)
+
+Of the two daughters of the Sun of golden colour, who are of various colours, white and black, Day and Night, the one, Night, shines with the shining stars. The other, Day, is joined with the Sun. Obstructing each other in their respective states, moving about in different ways, purifying, praised by us, may Day and Night hear our praise, well known and meditative, and be satisfied.
+
+##### English translation
+May the two daughters of the radiant (sun) of various form, of whom one glitters with stars, the other (is bright) with the sun, mutually opposed, proceeding diversely, purifying (all things), and entitled to our laudation, be pleased by the praise they hear (from us).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वा॒युमच्छा॑ बृह॒ती म॑नी॒षा बृ॒हद्र॑यिं वि॒श्ववा॑रं  ॒
+> रथप्रां ।  
+> द्यु॒तद्या॑मा नि॒युतः॒ पत्य॑मानः क॒विः क॒विमि॑यक्षसि प्रयज्यो ॥
+
+### Printed p. 260
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वायुं । अच्छ । बृहती । मनीषा । बृहत्कयं । विश्ववारं । रथप्रां ।  
+> द्युतशयामा । नियुतः । पत्यमानः । कविः । कविं । इयक्षसि । प्रयज्यो इति  
+> प्रयज्यो ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहती महती मनीषास्मदीया स्तुतिर्वायुमच्छाभिमुख्येन प्र गच्छतु ॥
+> उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ कीदृशं वायुं । बृहद्रयिं महाधनं
+> विश्ववारं विश्वैर्वर्णनीयं संभजनीयं रथप्रां रथस्यात्मीयस्य प्रातारं पूरयितारं । यद्वा । स्तोत्यणां रथं धनैः पूरयितारं । अथ प्रत्यक्षस्तुतिः । हे
+> प्रयज्यो प्रकर्षेण यष्टव्य वायो द्युतद्यामा प्रदीप्तयानो नियुत
+> आत्मीयरथयोज्या वडवास्ताः पत्यमानोऽभिहतन्नभिगच्छन् । यद्वा । पत्यतिरैश्वर्यकर्मा । तासां वडवानामीश्वरः कविः क्रांतदर्शि । एवंभूतस्त्वं कविं मेधाविनं
+> स्तोतारमियक्षसि । धनेन पूजय ॥
+
+##### Gist of the bhāṣya
+
+May our great praise go forward, face to face, to Vāyu; the verb is supplied, as suited to the preposition. What sort of Vāyu? One of great wealth; to be chosen and shared in by all; the filler of his own chariot, or, alternatively, the one who fills the chariots of the praisers with wealth. Then comes the direct address: O Vāyu, to be worshipped in the highest degree, whose chariot shines, your "Niyut" are your own mares yoked to your chariot; you approach them, or else (the root meaning lordship) you are the lord of those mares; you are far-seeing. Being such, you honour the sage, the wise praiser, with wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहती (*bṛhatī*)—of great qualities
+- मनीषा (*manīṣā*)—our praise
+- बृहद्रयिं (*bṛhadrayiṃ*)—the one of very great wealth
+- विश्ववारं (*viśvavāraṃ*)—the one desired by all
+- रथप्रां (*rathaprāṃ*)—the one who fills the chariot of the praiser with wealth
+- वायुं अच्छ (*vāyuṃ accha*)—facing Vāyu
+- प्र (गच्छतु) (*pra (gacchatu)*)—may it go forth and reach
+- प्रयज्यो (*prayajyo*)—O Vāyu, worthy of the highest worship
+- द्युतद्यामा (*dyutadyāmā*)—the one of radiant lustre
+- कविः (*kaviḥ*)—the one of far-reaching wisdom, you
+- नियुतः (*niyutaḥ*)—your horses
+- सत्यमानः (*satyamānaḥ*)—driving (and coming)
+- कविं (*kaviṃ*)—the sage, the praiser
+- इयक्षसि (*iyakṣasi*)—satisfy with wealth
+
+##### भावार्थ (Bhāvārtha)
+
+May our praise, of great qualities, go forth and reach Vāyu, who has very great wealth, is desired by all, and fills the praiser's chariot with wealth. O Vāyu, worthy of the highest worship, you of radiant lustre and far-reaching wisdom, come driving your horses and satisfy the sage, the praiser, with wealth.
+
+### Printed p. 261
+
+##### English translation
+May our earnest praise proceed to the presence of Vayu, the possessor of vast riches, the desired of all, the filler of his chariot (with wealth for his worshippers): most adorable (Vayu) you are riding in a radiant car, and driving your Niyut (steeds); you, are far-seeing, show favour to the sage, (your adorer).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मे॒ वपु॑ष्पदयद॒श्विनो॒र्यो रथो॑ वि॒रुक्मा॒न्मन॑सा युजा॒_  
+> नः ।  
+> येन॑ नरा नासत्येष॒यध्यै॑ व॒र्तिर्या॒थस्तन॑याय॒ त्मने॑ च ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मे । वपुः । छधयत् । अश्विनोः । यः । रथः । विरुक्मान् । मनसा । युजानः ।  
+> येन । नरा । नासत्या । इषयध्यै । वर्तिः । याथः । तनयाय । त्मने । च ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्विनोः स्वभूतः स रथो मे मदीयं वपुः शरीरं छदयत् । छादयतु ।
+> तेजसाच्छादयतु । यो रथो विरुक्मान् विरोचनवान् विशेषेण दीप्यमानो
+> मनसा मनोव्यापारमात्रेण युजानोऽश्वैः संप्रयुज्यमानो भवति । हे नरा
+> नेतार् हे नासत्या सत्यस्वभावौ सत्यस्य नेतार् नासिकाप्रभवौ वाश्विन् येन रथेन
+> वर्तिः स्तोतृगृहं तनयाय पुत्राय त्मने तत्पित्रॆ स्तोत्रे चेषयध्यॆ कामान्प्रापयितुं याथो गच्छथः स रथ इति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+May that chariot, belonging to the Aśvins, clothe my body, that is, clothe it with radiance. That chariot is shining, brilliantly bright, and is yoked with horses by a mere act of the mind. O leaders, O Nāsatyas, who are true in nature, leaders of the true, or born from the nose: by which chariot you go to the house of the praiser, to bring about the desires of his son and of the father, the praiser himself; that chariot, as in the first part, is to be connected with the beginning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O leaders
+- नासत्या (*nāsatyā*)—O Aśvin gods
+- येन (*yena*)—with which chariot
+- तनयाय (*tanayāya*)—for the son of the praiser
+- त्मने च (*tmane ca*)—and also for the praiser himself
+- इषयध्यै (*iṣayadhyai*)—in order to fulfil the desired object
+- वर्तिः (*vartiḥ*)—towards the house of the praiser
+- याथः (*yāthaḥ*)—you go
+- अश्विनोः (*aśvinoḥ*)—of you, the Aśvin gods
+- यः रथः (*yaḥ rathaḥ*)—which chariot
+- विरुक्मान् (*virukmān*)—shining brilliantly
+
+### Printed p. 262
+
+- मनसा (*manasā*)—by mere intention of its own
+- युजानः (*yujānaḥ*)—is joined with the horses
+- सः (*saḥ*)—that same chariot
+- मे वपुः (*me vapuḥ*)—my body
+- छदयत् (*chadayat*)—may it cover with its radiance
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, leaders, may that same chariot of yours, which shines brilliantly and is joined with the horses by mere intention of its own, and with which you go towards the house of the praiser in order to fulfil the desired object for the praiser's son and for the praiser, cover my body with its radiance.
+
+##### English translation
+May that splendid car of the Aswins, which is harnessed at a thought, clothe my form (with radiance): that (car) with which, Nasatyas, leaders of (rites), you go to the dwelling (of the worshipper) to fulfil his desires for his posterity and himself.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पर्ज॑न्यवाता वृषभा पृथि॒व्याः पुरी॑षाणि जिन्वत॒मप्या॑नि ।  
+> सत्य॑श्रुतः कवयो॒ यस्य॑ गी॒र्भिर्जग॑तः स्थात॒र्जग॒दा कृ॑णुध्वं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्जन्यवाता । वृषभा । पृथिव्याः । पुरीषाणि । जिन्वतं । अप्यानि ।  
+> सत्यश्रुतः । कवयः । यस्य । गीभिः । जगतः । स्थातः । जगत् । आ । कृणुध्वं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पर्जन्यवाता पर्जन्यवायू वृषभा वृष्टेः कर्तारौ पृथिव्याः । अंतरिक्षनामैतत् । अंतरिक्षादप्यान्याप्तव्यानि पुरीषाणि पूरकाण्युदकानि जिन्वतं । प्रेरयतं ।
+> उत्तरोऽर्धर्चो मारुतः । हे सत्यश्रुतः सत्यस्य स्तोत्रस्य श्रोतारः कवयो
+> मेधाविनो मरुतो यस्य स्तोतुर्गिर्भिः स्तुतिभिर्यूयं स्तुता भवथ तस्य
+> स्तोतुर्जगत्सावरजंगमात्मकं सर्वं प्राणिजातमा कृणुध्वं । अभिमुख्येन कुरुत ।
+> हे जगतः स्थातः । गणाभिप्रायमेकवचनं । स्थावरजंगमात्मकस्य जगतोऽवस्थापक
+> हे मरुद्धणेति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O Parjanya and Vāta, that is, Parjanya and Vāyu, makers of rain, send forth the waters from the "earth", a name of the firmament: the waters that are to be obtained from the firmament, that fill. The latter half of the Ṛk is addressed to the Maruts. O hearers of true praise, sages, Maruts: by the praises of whichever praiser you are praised, for that praiser make favourable the whole world, all beings, moving and unmoving. O "stander" of the world: the singular is meant for the host; O establisher of the world of the moving and the unmoving, O host of Maruts: so it is to be construed.
+
+### Printed p. 263
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पर्जन्यवाता (*parjanyavātā*)—O Parjanya and Vāyu gods
+- वृषभा (*vṛṣabhā*)—you, makers of rain
+- पृथिव्याः (*pṛthivyāḥ*)—from the firmament
+- अप्यानि (*apyāni*)—that are to be obtained
+- पुरीषाणि (*purīṣāṇi*)—the waters
+- जिन्वतं (*jinvataṃ*)—send them forth and pour them down
+- सत्यश्रुतः (*satyaśrutaḥ*)—you who hear true praises
+- जगतः (*jagataḥ*)—of the moving world
+- स्थातः (*sthātaḥ*)—O givers of stability
+- कवयः (*kavayaḥ*)—O sages, O Maruts
+- यस्य (*yasya*)—of the praiser whose
+- गीर्भिः (*gīrbhiḥ*)—by whose praises you are pleased, of such a praiser
+- जगत् (*jagat*)—all the wealth, moving and unmoving
+- आ कृणुध्वं (*ā kṛṇudhvaṃ*)—cause it to increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Parjanya and Vāyu, makers of rain, send forth and pour down the waters that are to be obtained from the firmament. O Maruts, hearers of true praises, givers of stability to the moving world, sages: cause to increase all the wealth, moving and unmoving, of that praiser by whose praises you are pleased.
+
+##### English translation
+Parjanya and Vata, showerers of rain, send from the firmament available waters : sage Maruts, hearers of truth, establishers of the world, multiply the moveable (wealth of him) by whose praises (you are propitiated).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पावी॑रवी क॒न्या॑ चि॒त्रायुः॒ सर॑स्वती वी॒रप॑त्नी॒ धियं॑ धात् ।  
+> ग्नाभि॒रच्छि॑द्रं शर॒णं स॒जोषा॑ दुरा॒धर्षं॑ गृण॒ते शर्म॑  
+> यंसत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पावीरवी । कन्या । चित्रआयुः । सरस्वती । वीरपत्नी । धियं । धात् ।  
+> ग्नाभिः । अच्छिद्रं । शरणं । सजोषाः । दुःआधर्षं । गृणते । शर्म । यंसत् ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अन्वारंभणीयायां सारस्वतस्य हविषो याज्या पावीरवीत्येषा । सूत्रितं
+> च । पावीरवी कन्या चित्रायुः पीपिवांसं सरस्वतः । आ. २-८ । इति ॥ एकादशिने
+
+##### Gist of the bhāṣya
+
+In the Anvārambhaṇīyā, the verse पावीरवी (*pāvīravī*) is the Yājyā for the oblation to Sarasvatī. It is so put in the Sūtra: पावीरवी कन्या चित्रायुः पीपिवांसं सरस्वतः (*pāvīravī kanyā citrāyuḥ pīpivāṃsaṃ sarasvataḥ*) (Ā. 2-8). Further, for the एकादशिने (*ekādaśine*)
+
 ---
 
-**Progress note:** Done through printed p. 257. Sukta 48 Rk 19-22; Sukta 49 Rk 1-2 (pp. 252-257)
+**Progress note:** Done through printed p. 263. Sukta 49: end of Rk 2, Rks 3-7 begun (pp. 258-263)
