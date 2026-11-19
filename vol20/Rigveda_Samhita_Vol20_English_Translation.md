@@ -23467,7 +23467,7 @@ You are he who has quickly humbled the Dasyus ; you are the chief one who has gi
 
 ##### Gist of the bhāṣya
 
-In the previous mantra Sāyaṇa's seer doubted whether Indra's strength exists; with this one he states with certainty that the strength does indeed exist. The word "hi" is used in the sense of "because". Because, O most mighty Indra, born, that is, manifest at many sacrifices, hostile to those who harm us, or a destroyer of enemies, or strong, I hold that your strength exists. Of you who are fierce, vigorous, grown great, and who cannot be brought under control by enemies, and who are the destroyer of the rivals who are to be subdued, the strength is, and is indeed: of what kind? Fierce, that is, uplifted, and more grown. Since you slay Vṛtra and other enemies, the meaning is that your strength exists indeed.
+In the previous mantra the seer doubted whether Indra's strength exists; with this one he states with certainty that the strength does indeed exist. The word "hi" is used in the sense of "because". Because, O most mighty Indra, born, that is, manifest at many sacrifices, hostile to those who harm us, or a destroyer of enemies, or strong, I hold that your strength exists. Of you who are fierce, vigorous, grown great, and who cannot be brought under control by enemies, and who are the destroyer of the rivals who are to be subdued, the strength is, and is indeed: of what kind? Fierce, that is, uplifted, and more grown. Since you slay Vṛtra and other enemies, the meaning is that your strength exists indeed.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
