@@ -18,3 +18,4 @@
 | through p. 297 (pp. 278-284, 285-290, 291-297) | sonnet | 17 | 176713 | 5.4 |
 | through p. 316 (pp. 298-303, 304-310, 311-316) | sonnet | 16 | 180390 | 5.7 |
 | through p. 337 (pp. 317-323, 324-329, 330-337) | sonnet | n/a | pending | - |
+| through p. 356 (pp. 338-343, 344-350, 351-356) | sonnet | n/a | pending | - |
