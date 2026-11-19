@@ -28974,6 +28974,216 @@ In this Ṛk the description of Śaśīyasī's qualities is made indirectly, tha
 
 The young Śaśīyasī, full of kindness, explained and told the way to me, Śyāvāśva. The horses given by her carried me to Purumīḷha, who is wise and of widespread fame.
 
+### Printed p. 811
+
+##### English translation
+Young and affable, she has explained to me, Syavaswa, the road and two ruddy horses have borne me to the valiant and renowned Purumilha,
+
+##### विशेषविषयगळु (Special Topics)
+
+Since this Ṛk speaks of a king named Purumīḷha, Purumīḷha himself is the seer of this Ṛk. The commentator says in the introduction he has written for this sūkta that this Purumīḷha was the younger brother of King Taranta. Purumīḷha is a well-known royal seer. In the Ṛgveda there are two seers of the name Purumīḷha. One Purumīḷha, born in the Aṅgirasa lineage, is a seer who saw the mantras of the seventy-first sūkta of the eighth Maṇḍala (fifteen Ṛks) together with one named Sudīti. The other seer of the name Purumīḷha was the son of a king named Vidadaśva, who was famous in the lineage of Suhotra of the Gotama line. This Purumīḷha and one named Ajamīḷha (he too a son of Suhotra) together are the seers of the forty-third and forty-fourth sūktas of the fourth Maṇḍala (fourteen Ṛks in all). Although there is room for doubt as to which of these two Purumīḷhas is the one spoken of in the present sūkta, on certain grounds it may be said that the king mentioned here is the Purumīḷha who was the son of Vidadaśva, of Suhotra's line.
+
+As stated in the introduction to this sūkta, Śaśīyasī, the chief queen of King Taranta, not only honoured Śyāvāśva by giving him cows and other things, but, so that he might also obtain wealth and the like from Purumīḷha, King Taranta's brother, who lived close by, she herself showed Śyāvāśva the way to the town where Purumīḷha was, and gave him excellent horses to reach it. This Ṛk describes in detail that those horses carried the seer Śyāvāśva to the presence of King Purumīḷha.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो मे॑ धेनू॒नां श॒तं वैद॑दश्वि॒र्यथा॒ दद॑त् ।  
+> त॒रं॒तइ॑व मं॒हना॑ ॥१०॥
+
+### Printed p. 812
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मे । धेनूनां । शतं । वैदत् ऽअश्विः । यथा । ददत् ।  
+> तरंतः इव । मंहना ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं पुरुमीळ्हस्तुतिः । वैददश्विः पुरुमीळ्होऽपि यो मे मह्यं
+> धेनूनां शतं यथा येन प्रकारेण ददत् दत्तवान् । तथा मंधना मंधनीयानि धनान्यपि ददत् तरंत इव । स यथा धेनुशतं बहुविधं धनं च दत्तवान्
+> तद्वद्वैददश्विः पुरुमीळ्होऽपि ददत् । तं स्तुव इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+This is praise of Purumīḷha. Purumīḷha, the son of Vidadaśva, who gave me a hundred cows in the way that was stated, likewise gave desirable riches as well, like Taranta. As Taranta gave a hundred cows and wealth of many kinds, so Purumīḷha, son of Vidadaśva, gave also. The words "I praise him" are to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- वैददश्विः (*vaidadaśviḥ*)—Purumīḷha, son of Vidadaśva
+- मे (*me*)—to me
+- तरंत इव (*taraṃta iva*)—as Taranta gave
+- यथा (*yathā*)—in what manner
+- धेनूनां शतं (*dhenūnāṃ śataṃ*)—a hundred cows
+- ददत् (*dadat*)—gave (so also)
+- मंहना (*maṃhanā*)—he gave priceless riches
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as I reached Purumīḷha with the help of the horses given by Śaśīyasī, he too gave me a hundred cows and priceless riches, just as Taranta had given to me.
+
+##### English translation
+Who the sons of Vidaswa, has given me a hundred (head) of cattle, and, like Taranta, many precious gifts.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too the seer Śyāvāśva praises Purumīḷha's generosity, saying that he gave him hundreds of cows. Therefore, according to the statement या तेनोक्ता सा देवता (*yā tenoktā sā devatā*), that the subject propounded in a Ṛk is the deity of that Ṛk, Purumīḷha himself should be the deity. The commentator Sāyaṇa too says plainly in the opening sentence of his commentary on this Ṛk: इयं पुरुमाळ्हस्तुतिः (*iyaṃ purumāḷhastutiḥ*), that is, this Ṛk is praise of Purumīḷha. Yet in the Anukramaṇikā it is said: यो मे धेनूनामित्यस्या वैददश्विस्तरंतो राजा देवता (*yo me dhenūnāmityasyā vaidadaśvistaraṃto rājā devatā*), and the rest.
+
+### Printed p. 813
+
+For the tenth Ṛk of this sūkta, यो मे धेनूनां (*yo me dhenūnāṃ*), it is said that its deity is the king named Taranta, son of Vidadaśva. In the Ṛk the mention of Taranta, "as Taranta gave", is only incidental; the matter mainly propounded in the Ṛk is the praise of Purumīḷha's gift. Hence there is room for doubt whether it is right to say that Taranta is the deity instead of saying that Purumīḷha is the deity of this Ṛk.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ईं॒ वहं॑त आ॒शुभिः॒ पिबं॑तो मदि॒रं मधु॑ ।  
+> अत्र॒ श्रवां॑सि दधिरे ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ईं । वहंते । आशुभिः । पिबंतः । मदिरं । मधु ।  
+> अत्र । श्रवांसि । दधिरे ॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदानीं मरुत एवैत इति निश्चित्य जनप्रसिद्धैर्माहात्म्यैः स्तौति । ये
+> मरुत ईमिदानीमाशुभिः शीघ्रगामिभिरश्वैर्वहंते उह्यंते । किं कुर्वंतः ।
+> मदिरं मदकरं मधु सोमरसं पिबंतः । पाथेयत्वेन धृतं सोममित्यर्थः ।
+> ते मरुतोऽत्रास्मिन् देशे श्रवांसि स्तुतिजनितानि यशांसि दधिरे । धारयंति ॥
+
+##### Gist of the bhāṣya
+
+Having now concluded that these are the Maruts themselves, he praises them with their greatnesses known among the people. The Maruts who are now borne by swift-moving horses. Doing what? Drinking the intoxicating मधु (*madhu*), the Soma juice; the meaning is the Soma held as provision for the journey. Those Maruts here, in this place, bear glories, that is, fame produced by praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—the Maruts who
+- ईं (*īṃ*)—now
+- आशुभिः (*āśubhiḥ*)—by swift-moving horses
+- वहंते (*vahaṃte*)—are borne (they)
+- अत्र (*atra*)—in this sacrifice
+- मदिरं (*madiraṃ*)—intoxicating
+- मधु (*madhu*)—the Soma juice
+- पिबंतः (*pibaṃtaḥ*)—drinking
+- श्रवांसि (*śravāṃsi*)—the praise produced by hymns
+- दधिरे (*dadhire*)—obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts who are borne by swift-moving horses drink the intoxicating Soma juice in this sacrifice and are praised with hymns.
+
+### Printed p. 814
+
+##### English translation
+Those (Maruts) who are brought hither by swift horses, drinking the inebriating juice, receive here glorification.
+
+##### विशेषविषयगळु (Special Topics)
+
+Up to now the seer Śyāvāśva has praised the Maruts, Śaśīyasī the chief queen of Taranta, Taranta, and Purumīḷha; he now praises the Maruts again in this Ṛk and in the next five Ṛks. The explanation of the meaning of the Ṛk is plain.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येषां॑ श्रि॒याधि॒ रोद॑सी वि॒भ्राजं॑ते॒ रथे॒ष्टा ।  
+> दि॒वि रु॒क्ष्म इ॑वो॒परि॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येषां । श्रिया । अधि । रोदसी इति । विध्राजंते । रथेसु । आ ।  
+> दिवि । रुक्मः इव । उपरि ॥१२
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येषां मरुतां श्रिया कांत्या रोदसी द्यावापृथिव्यावधि । अधिष्ठिते भवत
+> इति शेषः । यस्मादेते मरुतो रथेषु विभ्राजंते विशेषेण दीप्यंते । आ इति
+> चार्थे । तत्र दृष्टांतः । उपर्युपरिभूते दिवि द्युलोके रुक्मो रोचमान
+> आदित्य इव । यद्वा । उपरि रथस्कोपरीति वा योज्यं ॥
+
+##### Gist of the bhāṣya
+
+By the splendour, the radiance, of whichever Maruts, heaven and earth stand supported; the word "stand" is to be supplied. For these Maruts shine in a special way in their chariots; the word आ (*ā*) is in the sense of "and". The illustration: like the radiant sun in heaven, in the world of the sky that is above, higher and higher. Or else the word उपरि (*upari*) is to be construed as "upon the chariot".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषां (*yeṣāṃ*)—of which Maruts
+- श्रिया (*śriyā*)—by the splendour
+- रोदसी (*rodasī*)—both heaven and earth
+- अधि (*adhi*)—stand resting on (that splendour)
+- उपरि (*upari*)—in the high region
+- दिवि (*divi*)—in heaven
+- रुक्ष्मः इव (*rukṣmaḥ iva*)—like the shining sun
+- रथेषु (*ratheṣu*)—in their chariots
+- विभ्राजंते (*vibhrājaṃte*)—shine; those Maruts are praised here
+
+### Printed p. 815
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, by whose splendour alone heaven and earth both stand, and who shine in their chariots like the sun shining in the high region of heaven, are praised here.
+
+##### English translation
+They by whose glory heaven and earth are surpassed : who shine splendid in their chariots like the radiant (sun) in the heaven above.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is a description of two kinds of greatness of the Maruts. येषां श्रिया रोदसी अधि (*yeṣāṃ śriyā rodasī adhi*): by the splendour of the Maruts, that is, by their strength and power, heaven and earth stand resting on them; and उपरि दिवि रुक्ष्म इव रथेषु विभ्राजंते (*upari divi rukṣma iva ratheṣu vibhrājaṃte*): like the sun shining in the heaven above the atmosphere, the Maruts seated in their chariots blaze with splendour. Thus the qualities of the Maruts are described.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युवा॒ स मारु॑तो ग॒णस्त्वे॒षर॑थो॒ अने॑द्यः ।  
+> शु॒भं॒यावाप्र॑तिष्ठुतः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवा । सः । मारुतः । गणः । त्वेषरथः । अनेद्यः ।  
+> शुभंयावा । अप्रतिस्कुतः ॥१३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स मारुतो गणो युवा सर्वत्र मिश्रयिता नित्यतरुणो ना त्वेषरथो
+> दीप्तरथोनेद्योनिंद्यः शुभंयावा शोभनं गंताप्रतिष्ठुतोऽप्रतिगतोऽप्रतिशब्दितो वा । एवं महानुभावो गणो दीप्यत इति ॥
+
+##### Gist of the bhāṣya
+
+That group of Maruts is youthful: one that joins together everywhere, or ever young. Its chariot is bright, with a shining chariot. It is without reproach, not to be blamed. It goes well, one who goes auspiciously. It is "not gone against" or "not answered by a counter-sound". Thus the group, of such great power, shines.
+
+### Printed p. 816
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवा (*yuvā*)—ever joined together
+- त्वेषरथः (*tveṣarathaḥ*)—having a shining chariot
+- अनेद्यः (*anedyaḥ*)—faultless
+- शुभंयावा (*śubhaṃyāvā*)—having an excellent course
+- अप्रतिष्टुतः (*apratiṣṭutaḥ*)—having an unimpeded sound
+- सः मारुतो गणः (*saḥ māruto gaṇaḥ*)—that same company of Maruts (is praised)
+
+##### भावार्थ (Bhāvārtha)
+
+That same company of Maruts, which is ceaselessly and always united, has a shining chariot, is faultless and has an excellent course, is praised.
+
+##### English translation
+That company of Maruts, ever young, riding in bright chariots, irreproachable, ausspicious, motive unobstructed.
+
+##### विशेषविषयगळु (Special Topics)
+
+युवा (*yuvā*)—मिश्रायिता नित्यतरुणो वा (*miśrāyitā nityataruṇo vā*). The word युवा (*yuvā*) means that the Maruts are ever young, or that when they move about in the atmosphere they all move together, joined as one. Therefore they are described by the word युवा (*yuvā*). The word युवा (*yuvā*) is a singular form and is an adjective of the word गणः (*gaṇaḥ*). गण (*gaṇa*) means the company of Maruts, the host or group of the Marut gods. Although this word is in the singular, it indicates a multitude and so points to all the Marut gods.
+
+अप्रतिमः (*apratimaḥ*)**NOTE**—For this word Yāska says: अप्रतिष्टुतोऽप्रतिष्ठुतोऽप्रतिस्खलितो वा । अस्मभ्यमप्रतिष्टुत इत्यपि निगमो भवति ॥ (*apratiṣṭuto 'pratiṣṭhuto 'pratiskhalito vā | asmabhyamapratiṣṭuta ityapi nigamo bhavati ‖*) (Ni. 6-16), and so he has given the explanation. That is, this word has the meanings "that cannot be faced", "that cannot be stopped", "having an extraordinary sound", and the like. He says that the Vedic text अस्मभ्यमम्रतिष्कुतः (*asmabhyamamratiṣkutaḥ*) (Ṛ. Saṃ. 1-7-6) is given as an example.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को वे॑द नू॒नमे॑षां॒ यत्रा॒ मदं॑ति॒ धूत॑यः ।  
+> ऋ॒तजा॑ता अरे॒पसः॑ ॥ १४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 810. Ṛk 6-9 of Sūkta 61 (Śaśīyasī), pp. 804-810
+**Progress note:** Done through printed p. 816. Ṛk 10-14 of Sūkta 61, pp. 811-816
