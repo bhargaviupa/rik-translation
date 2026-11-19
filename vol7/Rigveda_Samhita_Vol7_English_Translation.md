@@ -9548,7 +9548,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.4)** *(Kannada)*
 
-"When the oblation belonging to the Soma deity is offered in the *Āgrayaṇeṣṭi*, this Ṛk, *yā te dhāmāni*, is to be used as the *yājyā* mantra; this is shown in the Āśvalāyana Śrauta-sūtra, in the section called '*āgrayaṇaṃ vrīhiśyāmākayavānām*', by the sūtra '*soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām*' (Ā. 2-9 [?]); and in the sacrifice called *ekādaśina*, at the *vapā*-offering of the animal for the Soma deity, it is to be used as the *yājyā* mantra; this is explained by the sūtra '*yā te dhāmāni divi yā pṛthivyām uṣāḷhaṃ yutsu pṛtanāsu papriṃ*' (Ā. 3-2 [?]). In the *Prāyaṇīyeṣṭi* also, at the time of offering the oblation to Soma, it is to be used as the *yājyā*; this is explained by the sūtra '*tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyām*' (Ā. 4-3 [?])."
+"When the oblation belonging to the Soma deity is offered in the *Āgrayaṇeṣṭi*, this Ṛk, *yā te dhāmāni*, is to be used as the *yājyā* mantra; this is shown in the Āśvalāyana Śrauta-sūtra, in the section called '*āgrayaṇaṃ vrīhiśyāmākayavānām*', by the sūtra '*soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām*' (Ā. 2-9); and in the sacrifice called *ekādaśina*, at the *vapā*-offering of the animal for the Soma deity, it is to be used as the *yājyā* mantra; this is explained by the sūtra '*yā te dhāmāni divi yā pṛthivyām uṣāḷhaṃ yutsu pṛtanāsu papriṃ*' (Ā. 3-2 [?]). In the *Prāyaṇīyeṣṭi* also, at the time of offering the oblation to Soma, it is to be used as the *yājyā*; this is explained by the sūtra '*tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyām*' (Ā. 4-3 [?])."
 
 ***yā te dhāmāni*** — *yāni tejāṃsi vartante tais sarvais tejobhir yuktaḥ* | "Here the word *dhāman* may be given any meaning, 'lustre' or 'place'. With all your lustres —
 
@@ -10112,7 +10112,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *(Running head left: "A. 1 A. 6 Va. 20 [?]"; centre: "Ṛgvedasaṃhitā"; right: 357.)*
 
-"— *yās te* is to be used as the *puronuvākyā* mantra; the Āśvalāyana Śrauta-sūtra shows this by the sūtra '*soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām*' (Ā. 2-9 [?]). And in the Aśvamedha sacrifice too, in the offering to the Pūṣan deity, this Ṛk is to be used as the *puronuvākyā* mantra for the second *ājyabhāga* oblation; the Āśvalāyana Śrauta-sūtra explains it by the sūtra '*tvam agne saprathā asi soma yās te mayobhuva iti sadvantau*' (Ā. 10-6 [?])."
+"— *yās te* is to be used as the *puronuvākyā* mantra; the Āśvalāyana Śrauta-sūtra shows this by the sūtra '*soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām*' (Ā. 2-9 [?]). And in the Aśvamedha sacrifice too, in the offering to the Pūṣan deity, this Ṛk is to be used as the *puronuvākyā* mantra for the second *ājyabhāga* oblation; the Āśvalāyana Śrauta-sūtra explains it by the sūtra '*tvam agne saprathā asi soma yās te mayobhuva iti sadvantau*' (Ā. 10-6)."
 
 ***dāśuṣe*** — *dāśṛ dāne* | "To the sacrificer who offers oblations."
 
@@ -10339,7 +10339,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *gayasphānaḥ | gaye iti dhananāma | dhanasya vardhayitā amīvahā amīvānāṃ rogāṇāṃ hantā vasuvit stotṝṇāṃ dhanasya lambhayitā prāpayitā puṣṭivardhanaḥ puṣṭeḥ saṃpado vardhayitā sumitraḥ śobhanāni mitrāṇi sakhāyo yasya sa tathoktaḥ | he soma tvaṃ no 'smākam evaṃguṇaviśiṣṭo bhava ‖ gayasphānaḥ | sphāyī vṛddhau | antarbhāvitaṇyarthāt lyuṭi vyatyayena yalopaḥ | idamādiṣu caturṣu padeṣu kṛduttarapadaprakṛtisvaratvaṃ | sumitraḥ | nañsubhyām ity uttarapadāntodāttatvam ‖*
 
-*Translation:* "There are three *Pavamāneṣṭis*. In the third of these, the *iṣṭi*, this Ṛk *gayasphānaḥ* is the *anuvākyā* of the latter *ājyabhāga*; it is prescribed: '*puṣṭimantāv agninā rayim aśnavad gayasphāno amīvahā*' (Ā. 2-1 [?]). This same Ṛk is the *yājyā* of the Soma-offering at the morning *upasad*, and the *anuvākyā* at the evening one; it is prescribed in the section *athopasad*: '*tvaṃ somāsi satpatir gayasphāno amīvahā*' (Ā. 4-8 [?]). — *Gayasphānaḥ* — *gaya* is a name for wealth: the augmenter of wealth. *Amīvahā* — the slayer of diseases (*amīvā*). *Vasuvit* — he who obtains for the praisers, who causes them to reach, wealth. *Puṣṭivardhanaḥ* — the augmenter of nourishment, of prosperity. *Sumitraḥ* — he who has good friends, good companions. O Soma, be for us endowed with these qualities."
+*Translation:* "There are three *Pavamāneṣṭis*. In the third of these, the *iṣṭi*, this Ṛk *gayasphānaḥ* is the *anuvākyā* of the latter *ājyabhāga*; it is prescribed: '*puṣṭimantāv agninā rayim aśnavad gayasphāno amīvahā*' (Ā. 2-1). This same Ṛk is the *yājyā* of the Soma-offering at the morning *upasad*, and the *anuvākyā* at the evening one; it is prescribed in the section *athopasad*: '*tvaṃ somāsi satpatir gayasphāno amīvahā*' (Ā. 4-8 [?]). — *Gayasphānaḥ* — *gaya* is a name for wealth: the augmenter of wealth. *Amīvahā* — the slayer of diseases (*amīvā*). *Vasuvit* — he who obtains for the praisers, who causes them to reach, wealth. *Puṣṭivardhanaḥ* — the augmenter of nourishment, of prosperity. *Sumitraḥ* — he who has good friends, good companions. O Soma, be for us endowed with these qualities."
 
 *Grammar tail:* *gayasphānaḥ* — root *sphāyī vṛddhau*; from the root with the causative sense included, the suffix *lyuṭ*, by *vyatyaya* the *y* is dropped; in these four words beginning with this, the final member, a *kṛdanta*, keeps its natural accent. *sumitraḥ* — by *nañsubhyām* the final-member final-acute.
 
@@ -11058,7 +11058,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.20)** *(Kannada)*
 
-"In the *mahāpitṛyajña*, with reference to the deity Soma Pitṛmān, when the oblation is made, this Ṛk *somo dhenuṃ* is to be used as the *puronuvākyā* mantra, and for each separate oblation two *puronuvākyā* mantras are to be applied together; so the Āśvalāyana Śrauta-sūtra indicates in the section *tathaiva dakṣiṇāgneḥ* by the sūtra '*somo dhenuṃ somo arvantam āśuṃ tvaṃ soma pitṛbhiḥ saṃvidānaḥ*' (Ā. 2-19 [?])."
+"In the *mahāpitṛyajña*, with reference to the deity Soma Pitṛmān, when the oblation is made, this Ṛk *somo dhenuṃ* is to be used as the *puronuvākyā* mantra, and for each separate oblation two *puronuvākyā* mantras are to be applied together; so the Āśvalāyana Śrauta-sūtra indicates in the section *tathaiva dakṣiṇāgneḥ* by the sūtra '*somo dhenuṃ somo arvantam āśuṃ tvaṃ soma pitṛbhiḥ saṃvidānaḥ*' (Ā. 2-19)."
 
 ***arvantam*** — "*atyaḥ, hayaḥ, arvā*, and so on: it is read among the names of the horse (Ni. 1-12 [?])."
 
@@ -11907,7 +11907,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.5)** *(Kannada)*
 
-"At the time of reciting the *prātaranuvāka* mantras, for the mantras connected with the *Uṣasya* sacrifice, the eight Ṛks beginning *pratyarciḥ*, and also for the mantras of the *Āśvina-śastra*, the application of these mantras is shown by the Āśvalāyana Śrauta-sūtra in the sūtra '*pratyarcir ity aṣṭau vṛṣā ā vo divijā iti ṣaḍ iti traiṣṭubhaṃ*' (Ā. 4-14 [?])."
+"At the time of reciting the *prātaranuvāka* mantras, for the mantras connected with the *Uṣasya* sacrifice, the eight Ṛks beginning *pratyarciḥ*, and also for the mantras of the *Āśvina-śastra*, the application of these mantras is shown by the Āśvalāyana Śrauta-sūtra in the sūtra '*pratyarcir ity aṣṭau vṛṣā ā vo divijā iti ṣaḍ iti traiṣṭubhaṃ*' (Ā. 4-14)."
 
 ***svaruṃ na*** — "*svaru* means 'a stick, a rod', the stick with which collyrium is applied to the eye. As ghee is smeared with it on the sacrificial post, so the Uṣas deity adorns herself with collyrium, or with a stick applied to the eye: this is the idea.
 
@@ -12404,7 +12404,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 > वृश्चस्तीर्विया वि क्रयन्तां पतिभ्यो न जनयः शुम्भमानाः ।
 
-*vṛścas tīrviyā vi krayantāṃ patibhyo na janayaḥ śumbhamānāḥ |*  (Ṛ. Saṃ. 10-110-5; the Saṃhitā text is read from a blotted print and is doubtful [?]) *[Correction, made after p. 442: the same Ṛk is printed clearly on p. 442 as* vyacasvatīr urviyā vi śrayantāṃ patibhyo na janayaḥ śumbhamānāḥ *(Ṛ. Saṃ. 10-110-5 [?]); the blotted reading above should be understood as that.]*
+*vṛścas tīrviyā vi krayantāṃ patibhyo na janayaḥ śumbhamānāḥ |*  (Ṛ. Saṃ. 10-110-5; the Saṃhitā text is read from a blotted print and is doubtful [?]) *[Correction, made after p. 442: the same Ṛk is printed clearly on p. 442 as* vyacasvatīr urviyā vi śrayantāṃ patibhyo na janayaḥ śumbhamānāḥ *(Ṛ. Saṃ. 10-110-5); the blotted reading above should be understood as that.]*
 
 "— as used in such Ṛks, here too the meaning is: 'may the Uṣas shine, pervading and spreading widely'."
 
@@ -12705,7 +12705,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 > समानो अध्वा स्वस्रोरनन्तस्तमन्यान्या चरतो देवशिष्टे ।
 
-*samāno adhvā svasror anantas tam anyānyā carato devaśiṣṭe |*  (Ṛ. Saṃ. 1-113-11)
+*samāno adhvā svasror anantas tam anyānyā carato devaśiṣṭe |*  (Ṛ. Saṃ. 1-113-3)
 
 > स्वस्वा स्वस्रे ज्यायस्यै योनिमारैगपैत्यस्याः प्रतिचक्ष्येव ।
 
@@ -12742,7 +12742,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 > ईयुष्टे ये पूर्वतरामपश्यन्व्युच्छन्तीमुषसं मर्त्यासः ।
 
-*īyuṣ ṭe ye pūrvatarām apaśyan vyucchantīm uṣasaṃ martyāsaḥ |*  (Ṛ. Saṃ. 1-113-8 [?]; numerals as read; the first word is printed *īyuṣṭe* [?])
+*īyuṣ ṭe ye pūrvatarām apaśyan vyucchantīm uṣasaṃ martyāsaḥ |*  (Ṛ. Saṃ. 1-113-11; numerals as read; the first word is printed *īyuṣṭe* [?])
 
 > अमिनती दैव्यानि व्रतानि प्रमिनती मनुष्या युगानि ।
 
@@ -13135,7 +13135,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 *Vyākaraṇa-prakriyā of Rik 92.15, concluded (grammar page, noted briefly):*
 
-[*saubhagāni*, continued —] "…since both are *uttarapada* [*bhaga*-ending words], the vṛddhi of both members would be obtained, but by the statement *sarve vidhayaś chandasi vikalpyante* (Kā. 7-3-19 [?]) — 'all rules are optional in Chandas' — the vṛddhi of the final member does not occur."
+[*saubhagāni*, continued —] "…since both are *uttarapada* [*bhaga*-ending words], the vṛddhi of both members would be obtained, but by the statement *sarve vidhayaś chandasi vikalpyante* (Kā. 7-3-19) — 'all rules are optional in Chandas' — the vṛddhi of the final member does not occur."
 *vaha* — root *vaha prāpaṇe*; *loṭ*, second person singular; the *tiṅ*-*nighāta*. ‖ 15 ‖
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.16)** *(Uṣṇih; the first of the three Ṛks addressed to the Aśvins)*

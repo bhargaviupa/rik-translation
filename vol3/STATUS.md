@@ -9,7 +9,7 @@ Maṇḍala 1 Sūktas 20–32 (Second Adhyāya of the First Aṣṭaka; printed 
 Old single-file scan (printed = PDF − 15); better scans in `vol3/scans/` (page maps in `vol3/vol3_runbook.md`).
 
 ## Supplied machine-read text (user, Nov 18 2026)
-`vol3/html/rig_3_1.html` (an HTML file, uploaded with the name `rig_3_1.md` and renamed; front matter and printed pp. 2–285, every page found) and `vol3/html/rig_3_2.md` (pp. 286–647, every page found; ends with the printer's line). Together the whole volume, pp. 2–647. Changes made: the 37 embedded pictures moved to `vol3/html/figures/` (`tools/rv/extract_figures.py`), the line "HTML source" at the head of file 1 removed; nothing else.
+`vol3/html/rig_3_1.md` (supplied as HTML under the name `rig_3_1.md`; converted to markdown with `pandoc -f html-auto_identifiers -t markdown --wrap=preserve` at the user's request, Nov 18 2026; front matter and printed pp. 2–285, every page found in both forms) and `vol3/html/rig_3_2.md` (pp. 286–647, every page found; ends with the printer's line). Together the whole volume, pp. 2–647. Changes made: the 37 embedded pictures moved to `vol3/html/figures/` (`tools/rv/extract_figures.py`), the line "HTML source" at the head of file 1 removed; nothing else.
 
 ## Outputs
 `vol3/Rigveda_Samhita_Vol3_English_Translation.md` (+ docx/pdf). The *anāhitāgni* note (Sūkta 31, p. 576) is a separate section at the end of the file.

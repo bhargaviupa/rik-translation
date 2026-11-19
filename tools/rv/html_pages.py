@@ -48,6 +48,9 @@ def pages_md(path,heads=None):
         if l.startswith('![') or 'base64,' in l or not h or len(h)>=110: continue
         m0=re.fullmatch(r'<!-- page (\d+) -->',h)          # explicit marker put into the supplied file for a page that prints no running head (e.g. p. 1 of a volume); recorded in volN/STATUS.md
         if m0: H.append([ln,int(m0.group(1)),'']); continue
+        if ln and lines[ln-1].strip()=='::: header':       # pandoc's markdown of the supplied HTML marks every running head so (Vols 1, 3, 5): the line is a head whatever its words were read as
+            n=_head_number(h.replace('\\[','[').rstrip('\\'))
+            if n is not None: H.append([ln,n,h]); continue
         if VOL1_HEAD.fullmatch(h):                          # Vol 1 heads: 'ಪೂರ್ವಪೀಠಿಕೆ 3', '4 ಋಗ್ವೇದಭಾಷ್ಯದ' (and OCR variants of the second word)
             n=_head_number(h)
             if n is not None: H.append([ln,n,h]); continue

@@ -1,0 +1,389 @@
+kind	PDF page	md line	text value	file value	file line	score	context	reason / closest unmatched file rows	text around the numeral
+DIFFERENT	7	18	122–136	1-22-136	9	0.68	0.44	part count differs	 part of the Ṛksaṃhitā there are the Sūktas of Maṇḍala 1, **122–136** (as printed "೧೨೨-೧೩೬"). Of the
+DIFFERENT	7	26	1-123-3	11-25-10	77	0.55	0.67	edit distance >= 4	 the first two and the last four clearly): Ṛ. Saṃ. 1-126-3; 1-123-3; … eight further references in t
+DIFFERENT	7	26	7-002-2	1-117-26	77	0.51	0.5	edit distance >= 4	pe `[?]` (the OCR gives them as "L-IL-N; 2-F-00; nn-394-00; 7-002-2; 0-810-09; n-nn2; F-29-0; 0-03L-
+DIFFERENT	14	194	1-136-1	1-133-7	73	0.66	0.44	context below 0.8	(Ṛ. Saṃ. 1-136-1, as read by the reader's OCR)
+DIFFERENT	14	200	1-139-7	1-136-1	74	0.65	0.4	context below 0.8	(Ṛ. Saṃ. 1-139-7, as read by the reader's OCR)
+DIFFERENT	14	204	१-१३९-११	1-139-7	76	0.68	0.47	context below 0.8	> ये देवासो दिव्येकादशस्थ (ऋ. सं. १-१३९-११)
+DIFFERENT	23	299	6-10	1-18	5	0.57	0.5	context below 0.8	tied to a draught animal. *Kakṣīvān* = *kakṣyāvān* (Nirukta 6-10, as printed). So says the Nirukta.
+DIFFERENT	23	301	4-26-1	1-126-3	52	0.55	0.31	context below 0.8	Ṛgveda Saṃhitā: Ṛ. Saṃ. 1-18-1; 1-51-13; 1-112-11; 1-116-7; 4-26-1; 8-9-10; 9-74-8; 10-25-10; 10-61-
+DIFFERENT	23	301	1-117-6	1-116-7	60	0.67	0.41	context below 0.8	jra*, because he is called *Pajriya* in Ṛ. Saṃ. 1-116-7 and 1-117-6 (as printed "೧-೧೧೭-೬"), and his 
+DIFFERENT	23	301	1-126-4	1-117-6	60	0.59	0.41	context below 0.8	೧೧೭-೬"), and his descendants are called *Pajrāḥ* in Ṛ. Saṃ. 1-126-4. In Sūkta 1-126 of the Ṛ. Saṃ. t
+DIFFERENT	31	496	6-1-171	1-161	40	0.5	0.44	part count differs	ral, the suffix *dhvam*; *divaḥ* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171); *astoṣi* — the root *stu*, the
+DIFFERENT	31	496	6-1-193	1-193	49	0.59	0.46	part count differs	uran*, and the initial acute by *ñnityādir nityam* (Pā. Sū. 6-1-193, as printed); the genitive singu
+DIFFERENT	36	593	6-2-49	62-49	13	0.68	0.51	part count differs	 prefix becomes *y* by *yaṇ*; by *gatir anantaraḥ* (Pā. Sū. 6-2-49) the prefix (*vi*) gets the acute
+DIFFERENT	42	740	1-157	1-7	1	0.51	0.47	context below 0.8	efix *pari* before it, formed by *śvanvan… pūṣan…* (Uṇ. Sū. 1-157, as printed; the reader's OCR read
+DIFFERENT	55	1110	6-1-64	7-1-39	28	0.55	0.43	context below 0.8	ṣadḷ viśaraṇagatyavasādaneṣu*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) the *s*; "*sīdanty asmin iti sad
+DIFFERENT	55	1110	7-1-1	6-1-64	32	0.55	0.45	context below 0.8	uffix *lyuṭ* in the locative sense; *yuvor anākau* (Pā. Sū. 7-1-1 as read; the OCR has "6-1-1") *ana
+DIFFERENT	55	1110	6-1-1	7-1-1	34	0.76	0.58	context below 0.8	 sense; *yuvor anākau* (Pā. Sū. 7-1-1 as read; the OCR has "6-1-1") *ana*; *liti* (Pā. Sū. 6-1-193) 
+DIFFERENT	58	1171	2-4-75	2-4-226	42	0.67	0.68	context below 0.8	; *laṭ*, the suffix *śānac*; *juhotyādibhyaḥ śluḥ* (Pā. Sū. 2-4-75) *śluḥ* for the vikaraṇa; *ślau* 
+DIFFERENT	60	1221	3-7	3-5	1	0.65	0.58	context below 0.8	 word is recorded among the names of *manuṣya* ("man") (Ni. 3-7, as printed; the user's numeral shee
+DIFFERENT	62	1231	6-2-1	6-2-120	12	0.62	0.48	context below 0.8	hanaṃ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the accent of the first member. *
+DIFFERENT	62	1257	6-10	2-15	16	0.52	0.34	context below 0.8	 is 4-6xx — so use only as a check on the readings above):* 6-10; 8-2-15; 5-2-98; 8-2-9; 6-3-131
+DIFFERENT	68	1389	61-168	6-1-168	61	0.63	0.33	part count differs	 on the readings above):* 6-1-203; 3-2-75; 3-2-102; 6-2-48; 61-168; 8-2-61; 6-2-1; 8-2-36; 6-2-49
+DIFFERENT	68	1389	8-2-36	2-36	73	0.53	0.32	part count differs	:* 6-1-203; 3-2-75; 3-2-102; 6-2-48; 61-168; 8-2-61; 6-2-1; 8-2-36; 6-2-49
+DIFFERENT	69	1415	2-139	6-2-139	11	0.53	0.34	part count differs	 as a check on the readings above):* 6-2-1; 3-2-75; 6-1-71; 2-139; 8-4-55; 6-1-168
+DIFFERENT	72	1474	3-1-85	3-1-842	22	0.62	0.32	context below 0.8	xx — so use only as a check on the readings above):* 3-4-6; 3-1-85; 1-2-4; 6-4-98; 6-1-3; 64-75; 81-
+DIFFERENT	72	1474	64-75	6-4-75	27	0.62	0.36	part count differs	 the readings above):* 3-4-6; 3-1-85; 1-2-4; 6-4-98; 6-1-3; 64-75; 81-30; 3-3-75; 6-3-135; 8-1-19
+DIFFERENT	72	1474	81-30	8-1-30	28	0.62	0.33	part count differs	adings above):* 3-4-6; 3-1-85; 1-2-4; 6-4-98; 6-1-3; 64-75; 81-30; 3-3-75; 6-3-135; 8-1-19
+DIFFERENT	75	1536	1-37-1	37-1	43	0.57	0.57	part count differs	(Ṛ. Saṃ. 1-37-1, as read.) In this ṛk *śardha* me
+DIFFERENT	84	1716	2-23	2-24	17	0.67	0.39	context below 0.8	rd *arṇa* is recorded among the hundred names of water (Ni. 2-23, as read by the reader's OCR), here
+DIFFERENT	87	1818	4-83	7-4-83	36	0.56	0.44	part count differs	4-62; 4-48; 6-4-131; 8-3-60; 3-1-85; 6-1-7; 3-1-22; 7-4-85; 4-83; 7-1-39
+DIFFERENT	88	1818	4-83	4-1	1	0.5	0.37	same md numeral paired with several file values	4-62; 4-48; 6-4-131; 8-3-60; 3-1-85; 6-1-7; 3-1-22; 7-4-85; 4-83; 7-1-39
+DIFFERENT	90	1880	3-13	5-1	1	0.53	0.41	context below 0.8	 is 4-6xx — so use only as a check on the readings above):* 3-13
+DIFFERENT	90	1886	6-2-139	62-139	10	0.63	0.33	part count differs	 is 4-6xx — so use only as a check on the readings above):* 6-2-139; 1-1-5; 7-1-39; 8-1-19; 6-2-1; 3
+DIFFERENT	91	1886	7-1-39	7-3-89	12	0.51	0.35	context below 0.8	se only as a check on the readings above):* 6-2-139; 1-1-5; 7-1-39; 8-1-19; 6-2-1; 3-4-6; 1-3-91; 7-
+DIFFERENT	92	1900	2-19	5-1	2	0.5	0.67	context below 0.8	ays: *uṣāḥ kasmād ucchatīti satyā rātrer aparaḥ kālaḥ* (Ni. 2-19, as read by the reader's OCR): that
+DIFFERENT	92	1933	1-481	1-48-10	33	0.52	0.34	part count differs	14 (the second and fifth have the hyphens lost in the OCR: "1-481", "4-526").
+DIFFERENT	92	1937	1-92-7	1-9-2-7	37	0.63	0.45	part count differs	tā*: "shining" (*Shining*, as printed). Recorded in Ṛ. Saṃ. 1-92-7; 1-113-4.
+DIFFERENT	93	1955	1-123-5	1-123-4	21	0.71	0.36	context below 0.8	***ahanā, dyotanā*** — *kṛṣṇaṃ jagad dyo
+DIFFERENT	93	1957	10-75-8	10-75-6	26	0.71	0.37	context below 0.8	aṃ. 1-113-2 [the OCR reads "1-1943-2", with a stray digit]; 10-75-8.
+DIFFERENT	93	1959	3-5-11	3-55-11	29	0.74	0.49	context below 0.8	ed colour, slightly red in tinge" — *the ruddy*. In Ṛ. Saṃ. 3-5-11; 4-52-2; 8-68-18 and other ṛks.
+DIFFERENT	93	1961	1-92-13	1-92-14	37	0.72	0.44	context below 0.8	n Ṛ. Saṃ. 1-8-8; 1-30-5; 1-40-3 and other ṛks, also Ṛ. Saṃ. 1-92-13; 1-22-3; 7-81-6; and Ṛ. Saṃ. 4-5
+DIFFERENT	99	2147	3-4-110	4-110	60	0.58	0.39	part count differs	nly as a check):* 3-1-66; 6-4-104; 7-1-50; 6-2-116; 2-4-77; 3-4-110; 61-96; 3-1-5
+DIFFERENT	99	2147	61-96	6-1-96	61	0.65	0.41	part count differs	check):* 3-1-66; 6-4-104; 7-1-50; 6-2-116; 2-4-77; 3-4-110; 61-96; 3-1-5
+DIFFERENT	100	2181	61-213	6-1-213	14	0.64	0.36	part count differs	may be lost — use only as a check):* 6-1-189; 4-1-161; 3-1; 61-213
+DIFFERENT	101	2201	3-9	3-99	10	0.64	0.4	context below 0.8	food": the word *vāja* is read among the names of food (Ni. 3-9), among the names of battle (Ni. 3-9
+DIFFERENT	103	2245	2-22	2-99	37	0.63	0.73	context below 0.8	 In this ṛk, *prathama iti mukhyanāma pratamo bhavati* (Ni. 2-22, as read by the reader's OCR): for 
+DIFFERENT	104	2265	64-104	6-4-104	2	0.65	0.39	part count differs	 and sometimes a digit may be lost — use only as a check):* 64-104; 4-1-6; 3-4-6; 3-1-52; 6-4-64; 4-
+DIFFERENT	104	2265	62-50	6-2-50	31	0.62	0.33	part count differs	ck):* 64-104; 4-1-6; 3-4-6; 3-1-52; 6-4-64; 4-1-77; 3-3-94; 62-50
+DIFFERENT	107	2326	3-4-94	3-494	44	0.62	0.4	part count differs	 and sometimes a digit may be lost — use only as a check):* 3-4-94; 5-4-56; 8-1-19; 7-4-20; 3-1-114
+DIFFERENT	110	2400	6-3-136	6-136	48	0.6	0.59	part count differs	 singular; the *nighāta*. *Accha* — *nipātasya ca* (Pā. Sū. 6-3-136) lengthening in the Saṃhitā. *Da
+DIFFERENT	112	2434	१०-८	10-84	11	0.8	0.73	context below 0.8	 । जरतिः स्तुत्यर्थः । जरा स्तुतिर्जरतेः स्तुतिकर्मणः । नि. १०-८ । इति यास्कः । पश्चा पश्चात्त्वत्प्
+DIFFERENT	120	2627	6-1-96	1-96	13	0.56	0.53	part count differs	10) the substitute *jus* for *jhi*; *usyapadāntāt* (Pā. Sū. 6-1-96) the *pararūpa*; the augment *aṭ*
+DIFFERENT	120	2655	१-३	7-3	46	0.57	0.46	context below 0.8	्छति । प्रतिलोमं गच्छति वा । अपेत्येतस्य प्रातिलोम्यम् (नि. १-३) इति यास्कः । अन्यच्च दिवसाख्यमहरभ्य
+DIFFERENT	122	2663	69-1	9-1	32	0.6	0.6	context below 0.8	 and sometimes a digit may be lost — use only as a check):* 69-1
+DIFFERENT	123	2695	8-1-65	1-6	37	0.5	0.65	part count differs	 capacity *ekānyābhyāṃ samarthābhyām* [as printed] (Pā. Sū. 8-1-65) does not take the *nighāta*; sin
+DIFFERENT	124	2701	6-1-189	6-2-139	3	0.63	0.41	context below 0.8	ṛ* in the sense of the present; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute; instr
+DIFFERENT	129	2832	7-1-39	1-39	31	0.54	0.38	part count differs	fix *ṅīp*; when the plural follows, *supāṃ sulug…* (Pā. Sū. 7-1-39) the preceding vowel is lengthene
+DIFFERENT	129	2832	8-1-2	5-0-5	42	0.52	0.56	context below 0.8	action is shown, doubling; *tasya parām āmreḍitam* (Pā. Sū. 8-1-2) the second member gets the name *
+DIFFERENT	130	2814	3-2	3-8	1	0.52	0.5	context below 0.8	 reads the word *kratu* both among the names of action (Ni. 3-2, as printed and as read by the OCR) 
+DIFFERENT	132	2895	6-1-173	6-1-170	36	0.75	0.55	context below 0.8	; the śatṛ without *num* — *śatur anumo nadyajādī* (Pā. Sū. 6-1-173) — gives the acute accent on the
+DIFFERENT	137	3009	6-4-49	4-49	3	0.53	0.37	part count differs	times a digit may be lost — use only as a check):* 3-4-117; 6-4-49; 6-4-49; 7-4-83; 6-1-189; 3-1-7; 
+DIFFERENT	141	3091	8-2-4	8-2	25	0.6	0.68	part count differs	s it, *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. Sū. 8-2-4) gives the ending the *svarita*. *
+DIFFERENT	141	3095	62-139	6-2-139	39	0.62	0.31	part count differs	0; 6-2-139; 3-2-102; 8-2-33; 6-2-48; 8-2-4; 3-4-11; 1-1-39; 62-139; 6-4-105
+DIFFERENT	141	3101	6-4-75	6-4-105	43	0.62	0.42	context below 0.8	 is printed here); *bahulaṃ chandasy amāṅyoge 'pi* (Pā. Sū. 6-4-75) means the augment *aṭ* does not 
+DIFFERENT	144	3181	6-2-106	2-106	40	0.59	0.44	part count differs	ve vārāḥ yāsāṃ tāḥ*; *bahuvrīhau viśvaṃ saṃjñāyām* (Pā. Sū. 6-2-106) gives the final-acute of the fi
+DIFFERENT	145	3191	3-1-114	321-114	10	0.69	0.63	part count differs	*ṣū gatau* [as printed "ಸೃ ಗತೌ"]; *rājasūyasūrya…* (Pā. Sū. 3-1-114) records the form as ending in *
+DIFFERENT	153	3461	1-124	1-123	39	0.71	0.42	context below 0.8	ರೌಷಸೇ ಪೃಥುರುತ್ತರೇ.) — that the two Sūktas Ṛ. Saṃ. 1-123 and 1-124 are addressed to the deity Uṣas is
+DIFFERENT	156	3531	6-4-81	4-81	9	0.55	0.38	part count differs	root *iṇ gatau*; śatṛ; *śap* with *luk*; *iṇo yaṇ* (Pā. Sū. 6-4-81) gives *yaṇ* to the root; the suf
+DIFFERENT	161	3653	7-3-89	7-3-84	42	0.61	0	context below 0.8	11; 6-4-81; 7-4-69; 8-3-60; 4-1-6; 6-4-81; 6-1-178; 1-3-91; 7-3-89
+DIFFERENT	168	3833	१-४	2-4	1	0.51	0.47	context below 0.8	 येनोपमिमीते इति । तस्योदाहरणं दुर्मदासो न सुरायामिति । नि. १-४ । ऋ. सं. १०-८६-१ । ऋ. सं. ४-२-१२ । श
+DIFFERENT	169	3905	1-60-5	10-39-7	36	0.51	0.6	edit distance >= 4	(Ṛ. Saṃ. 1-60-5, as read from the print.)
+DIFFERENT	170	3915	1-61-16	1-61	32	0.54	0.67	part count differs	(Ṛ. Saṃ. 1-61-16, as printed.) — here it is said 
+DIFFERENT	171	3945	8-9-17	89-17	6	0.82	1	part count differs	(Ṛ. Saṃ. 8-9-17, as printed.) — in this ṛk Uṣas i
+DIFFERENT	171	3963	6-4-77	6-4-77-1	26	0.6	0.45	part count differs	owing, *tanvādīnāṃ chandasi bahulam upasaṃkhyānam* (Pā. Sū. 6-4-77, vārttika) gives *uvaṅ*; the acce
+DIFFERENT	179	4151	6-2-172	62-172	17	0.66	0.45	part count differs	repaḥ yasyāḥ sā arepāḥ tayā arepasā*; *nañsubhyām* (Pā. Sū. 6-2-172) gives the final-acute of the la
+DIFFERENT	179	4151	1-123	1-123-10	23	0.55	0.54	part count differs	-4) gives the *svarita*. *śāśadānā* — explained in Ṛk 10 of 1-123; only the nasalisation (*anunāsika
+DIFFERENT	184	4289	6-3-138	6-2-138	46	0.72	0.37	context below 0.8	a* follows, the preceding word is lengthened (*ca*, Pā. Sū. 6-3-138); *anudāttasya ca yatrodāttalopa
+DIFFERENT	184	4289	6-1-161	61-161	48	0.66	0.46	part count differs	Pā. Sū. 6-3-138); *anudāttasya ca yatrodāttalopaḥ* (Pā. Sū. 6-1-161) gives the acute to the ṅīp. *ga
+DIFFERENT	185	4297	6-2-117	62-117	15	0.67	0.53	part count differs	ter member is not *asanta*, *soḥ manasī alomoṣasī* (Pā. Sū. 6-2-117) gives it the acute on the first
+DIFFERENT	189	4419	4-139	4-579	29	0.64	0.69	context below 0.8	 *añjū vyaktimrakṣaṇakāntigatiṣu*; *khanikaṣyañji…* (U. Sū. 4-139 as read) gives the suffix *i*; fin
+DIFFERENT	194	4555	6-2-119	2-119	5	0.63	0.59	part count differs	*sudināḥ* — *ādyudāttaṃ dvyac chandasi* (Pā. Sū. 6-2-119) gives the acute on the first sy
+DIFFERENT	194	4577	२-१७ [?]	2-02	35	0.65	0.85	score below 0.85 or left alone after reading	पणयो व्यवहारासहिष्णवो वणिजः । पणिर्वणिग्भवतीति यास्कः । नि. २-१७ [?] । पणय इति लुब्धका [sic] अबुध्यम
+DIFFERENT	195	4621	2-19	2-14	40	0.62	0.5	context below 0.8	arī* and the like are all epithets of Uṣas or synonyms (Ni. 2-19, from the numeral sheet; the print 
+DIFFERENT	200	4715	1-3	0-2	13	0.56	0.8	score below 0.85 or left alone after reading	grahārthīyaḥ | nyeti vinigrahārthīya iti yāskoktatvāt* (Ni. 1-3, as printed). Here the prefix *ava* 
+DIFFERENT	201	4737	4-1-77	4-1-76	8	0.73	0.49	context below 0.8	yuvan*; when the feminine is intended, *yūnas tiḥ* (Pā. Sū. 4-1-77, as printed "೪-೧-೭೭") gives *ti*;
+DIFFERENT	201	4737	4-?	4-457	25	0.86	0.7	incomplete token, not applied (context or score below the threshold, or prefix differs)	e*; *anihṛṣibhyāṃ kic ca* [print: "ಆನಿಹೃಷಿಭ್ಯಾಂ ಕಿಚ್ಚ", Uṇ. 4-?] gives *īkan*; *ñnityādir nityam* gi
+DIFFERENT	201	4765	१-४	1-3	44	0.58	0.44	context below 0.8	निपातानामनेकार्थत्वात् । उच्चावचेष्वर्थेषु निपतन्तीति । नि. १-४ । इति यास्कोक्तत्वात् । वसतेर्निवासस
+DIFFERENT	204	4831	4-?	4-500	28	0.85	0.62	incomplete token, not applied (context or score below the threshold, or prefix differs)	teḥ* — root *vasa nivāse*; *vahivasyarti…* [as printed, Uṇ. 4-?] gives the suffix *ati*; since *ṇit*
+DIFFERENT	208	4915	7-4-93	7-493	7	0.63	0.54	part count differs	ed, the initial consonant remains; *sanvallaghuni* (Pā. Sū. 7-4-93) gives *sanvadbhāva*, and *sanyat
+DIFFERENT	218	5195	6-2-172	6-2-122	62	0.71	0.36	context below 0.8	ives the *u* for the shortened vowel; *nañsubhyām* (Pā. Sū. 6-2-172) gives the final-acute of the la
+DIFFERENT	223	5335	9-80-2	9-90-5	28	0.69	0.6	context below 0.8	(Ṛ. Saṃ. 9-80-2, as read from the print.) — in ṛk
+DIFFERENT	224	5347	4-165	4-604	19	0.52	0.6	context below 0.8	te. *putram* — root *pūñ pavane*; *puvo hrasvaś ca* (U. Sū. 4-165 as read) gives the suffix *tra*; a
+DIFFERENT	224	5359	3-3-96	3-1-26	23	0.6	0.35	context below 0.8	 digit may be lost — use only as a check):* 6-1-71; 6-3-77; 3-3-96; 7-3-37; 6-2-2
+DIFFERENT	226	5403	8-41-2	8-69-12	29	0.63	0.6	context below 0.8	(Ṛ. Saṃ. 8-41-2, as read from the print.) shows t
+DIFFERENT	226	5411	3-41-1	2-11-1	40	0.67	0.6	context below 0.8	(Ṛ. Saṃ. 3-41-1, as read from the print.) — in th
+DIFFERENT	228	5451	7-1-102	7-1-10-2	28	0.65	0.38	part count differs	 the initial consonant remains; *udoṣṭhyapūrvasya* (Pā. Sū. 7-1-102) gives *u* to the member of the 
+DIFFERENT	231	5555	3-10-3	2-10-5	36	0.74	0.75	context below 0.8	(Chā. U. 3-10-3, as read from the print "೩-೧೦-೩".
+DIFFERENT	232	5567	2-50	2-208	37	0.65	0.68	context below 0.8	kṣiṇā* — root *dakṣa vṛddhau*; *drudakṣibhyām inan* (U. Sū. 2-50 as read) gives the suffix *inan*; *
+DIFFERENT	232	5567	6-1-197	6-1-192	38	0.78	0.62	context below 0.8	āñ* [as printed] gives *ṇatva*; *ñnityādir nityam* (Pā. Sū. 6-1-197) gives the first-syllable acute.
+DIFFERENT	235	5657	4-163	4-603	36	0.66	0.63	context below 0.8	lural. *citrā* — root *ciñ cayane*; *ami-ci-mi-di…* (U. Sū. 4-163 as read) gives the suffix *tra*; s
+DIFFERENT	239	5777	4-?	4-637	23	0.82	0.51	incomplete token, not applied (context or score below the threshold, or prefix differs)	 *gati* (*dur*). *enaḥ* — root *iṇ gatau*; *iṇa āgasi* (Uṇ. 4-?) gives the suffix *asun*, with the a
+DIFFERENT	239	5777	3-4-109	7-2-1	34	0.55	0.57	edit distance >= 4	*cli*; the augment *iṭ*; *sijabhyastavidibhyaś ca* (Pā. Sū. 3-4-109) gives *jus* for *jhi*; *sici vṛ
+DIFFERENT	239	5777	7-2-1	3-4-109	35	0.58	0.67	edit distance >= 4	ves *jus* for *jhi*; *sici vṛddhiḥ parasmaipadeṣu* (Pā. Sū. 7-2-1) gives vṛddhi and *raparatva* to t
+DIFFERENT	240	5805	3-5	2-5	37	0.62	0.38	same md numeral paired with several file values	st — use only as a check):* 3-3-92; 6-4-64; 6-2-139; 6-2-2; 3-5; 2-5
+DIFFERENT	241	5805	3-5	1-5	23	0.62	0.4	same md numeral paired with several file values	st — use only as a check):* 3-3-92; 6-4-64; 6-2-139; 6-2-2; 3-5; 2-5
+DIFFERENT	241	5817	6–7	1-7	25	0.7	0.67	context below 0.8	's praise); 6 Romaśā; 7 Bhāvayavya. Chandas — 1–5 Triṣṭubh; 6–7 Anuṣṭubh.
+DIFFERENT	244	5913	2-10	2-0	31	0.54	0.41	context below 0.8	d glyph read as 2, like the 2 of the sheet-confirmed Ka. U. 2-10); "ekaviṃśa … pratiṣṭhityai" is as 
+DIFFERENT	246	5935	१-३-१०	2-5-1	1	0.54	0.38	context below 0.8	printed "ಛಾ. ಉ. ೧-೩-೧೦" read from the print; the OCR reads "१-३-१०"].) — by this sentence the greatn
+DIFFERENT	246	5951	10-149-1	149-1	34	0.6	0.62	part count differs	(Ṛ. Saṃ. 10-149-1, as read from the print "೧೦-೧೪೯
+DIFFERENT	247	5973	6-1-186	61-186	23	0.65	0.38	part count differs	; 7-4-76; 6-4-113; 3-3-6-4; 6-4-21; 8-2-77; 6-3-67; 6-2-82; 6-1-186
+DIFFERENT	249	6013	3-4-97	3-4-922	42	0.66	0.52	context below 0.8	e *śap*-substitute; *itaś ca lopaḥ parasmaipadeṣu* (Pā. Sū. 3-4-97) elides the *i* of the ending; *l
+DIFFERENT	254	6114	34-5	2-5	1	0.51	0.59	context below 0.8	im to extremes, since he translates* अभिपित्व *at R. V. IV. 34-5 by 'Evening' and in the same breath
+DIFFERENT	255	6168	२-२	9-9	11	0.57	0.79	context below 0.8	िनी रज्जुः । कक्ष्या रज्जू रश्वस्येति यास्कोक्तत्वात् । नि. २-२ । ताभिस्तद्वन्तः । यद्वा । अङ्गिरसः 
+DIFFERENT	261	6324	4-?	4-670	18	0.84	0.57	incomplete token, not applied (context or score below the threshold, or prefix differs)	ḍudhāñ dhāraṇapoṣaṇayoḥ*; *vahihāhādhāñbhyaś chandasi* (Uṇ. 4-?) gives *asun*; the preceding sūtra's
+DIFFERENT	261	6324	6-1-185	6-1-175	31	0.76	0.51	context below 0.8	at* in the sense of "belonging to"; *tit svaritam* (Pā. Sū. 6-1-185) gives the *svarita*. *vrāḥ* — *
+DIFFERENT	268	6498	2-?	2-30	40	0.7	0.39	incomplete token, not applied (context or score below the threshold, or prefix differs)	ambhane*; *sthāyitañcivañci…* [print: "ಸ್ಥಾಯಿತಂಚಿವಂಚಿ", Uṇ. 2-?] gives *rak*; since *kit*, *anidito 
+DIFFERENT	274	6599	22-5	3-5	110	0.53	0.33	context below 0.8	 and sometimes a digit may be lost — use only as a check):* 22-5; 1-139-6; 1-139-11; 1-10-2; 1-130-2
+DIFFERENT	277	6665	22-7	2-7	5	0.56	0	context below 0.8	(Ai. Brā. 22-7, as printed; the last glyph is the 
+DIFFERENT	277	6673	1-139-2	1-139-7	29	0.83	0.83	score below 0.85 or left alone after reading	* *o ṣū ṇo agne śṛṇuhi tvam īḷitaḥ* (Ṛ. Saṃ. 1-139-2);
+DIFFERENT	277	6674	1-139-11	1-139-1	31	0.84	0.86	score below 0.85 or left alone after reading	* *ye devāso divy ekādaśa stha* (Ṛ. Saṃ. 1-139-11);
+DIFFERENT	277	6675	6-61-1	6-61	32	0.61	0.77	part count differs	* *iyam adadād rabhasam ṛṇacyutam* (Ṛ. Saṃ. 6-61-1, three ṛks).
+DIFFERENT	278	6697	८-१	4-1	25	0.65	0.45	context below 0.8	रं मन्ये दास्वन्तं दधर्षज्ञ ह मे जनुषं पूर्वो अङ्गिराः । आ. ८-१ इति ॥
+DIFFERENT	278	6715	1–10	8-1	34	0.51	0.49	context below 0.8	 — 11. Ṛṣi — Paruccheṣa Daivodāsi. Devatā — Agni. Chandas — 1–10 Atyaṣṭi; 11 Atidhṛti (as printed: "
+DIFFERENT	282	6797	3-5-3-2	35-3-2	50	0.69	0.53	part count differs	 sacrifice; and the *śruti* "*agnim agna āvaha*" (Tai. Brā. 3-5-3-2) shows that one should first inv
+DIFFERENT	287	6949	3-3-94	3-3-64	23	0.77	0.65	context below 0.8	vibhrāṣṭim* — root *bhrāja dīptau*; *striyāṃ ktin* (Pā. Sū. 3-3-94) gives *ktin*; *vraśca…* gives *ṣ
+DIFFERENT	290	7019	1-142-7	10-110-6	19	0.71	1	edit distance >= 4	(Ṛ. Saṃ. 1-142-7, as printed "೧-೧೪೨-೭".) *(Read l
+DIFFERENT	290	7025	3-17	8-02	33	0.51	0.83	score below 0.85 or left alone after reading	ārāṇāṃ madhye jyaiṣṭhaṃ jvālāyuktatvāt aṅgirā aṅgārāḥ* (Ni. 3-17), says Yāska: *ye 'ṅgārā āsaṃs te '
+DIFFERENT	293	7097	2-28	9-38	13	0.56	0.45	context below 0.8	ng the eleven names of burning beginning with *jvalat* (Ni. 2-28, as printed "೨-೨೮"); *jvalataḥ* mea
+DIFFERENT	294	7117	7-2-82	2-8-8	3	0.55	0.42	context below 0.8	before; *śānac* in the laṭ sense, *śap*; *āne muk* (Pā. Sū. 7-2-82) gives *muk* to the stem in *a*; 
+DIFFERENT	299	7229	1-39	7-1-39	46	0.53	0.33	part count differs	 a check):* 3-246; 3-1-135; 6-3-67; 1-33; 3-4-97; 3-4-94; 7-1-39; 7-2-82; 3-1-134; 1-39
+DIFFERENT	304	7347	6-1-96	6-1-66	44	0.78	0.68	context below 0.8	ives *jus* for the following *jhi*; *usyapadāntāt* (Pā. Sū. 6-1-96) gives *pararūpa*; *bahulaṃ chand
+DIFFERENT	305	7355	6-4-155	6-4-143	11	0.64	0.34	context below 0.8	rluk* (Pā. Sū. 5-3-65) gives *luk* of *vin*; *ṭeḥ* (Pā. Sū. 6-4-155) elides the *ṭi* (*as*); since t
+DIFFERENT	312	7551	३-३-१०७	33-107	28	0.77	0.84	part count differs	यन्तीत्यार्तनाः पृतनाः । तासु ॥ ण्यासश्रन्थो युच् । पा. सू. ३-३-१०७ । वृषादित्वादाद्युदात्तत्वम् ॥ त
+DIFFERENT	313	7581	2-1 [?]	1-1	3	0.58	0.5	context below 0.8	ded among the twenty-six names of works, *apno daṃsaḥ* (Ni. 2-1 [?], as printed "೨-೧"), the word *ap
+DIFFERENT	314	7607	1-3-12	10-85-19	37	0.58	0.6	edit distance >= 4	(Ṛ. Saṃ. 1-3-12, as printed "೧-೩-೧೨".) Here *ketu
+DIFFERENT	316	7637	6-4-51	3-4-6	18	0.59	0.57	context below 0.8	tho yuc* (Pā. Sū. 3-3-107) gives *yuc*; *ṇeraniṭi* (Pā. Sū. 6-4-51) elides the *ṇic*; *yuvor anākau*
+DIFFERENT	317	7647	7-1-39	7-1-36	5	0.77	0.55	context below 0.8	nal member's own nature. *arhaṇā* — *supāṃ sulug…* (Pā. Sū. 7-1-39) gives *ā* to the case-ending *su
+DIFFERENT	317	7663	6-9-75	69-75	10	0.56	0.34	part count differs	a digit may be lost — use only as a check):* 64-64; 7-1-36; 6-9-75; 7-1-854; 6-1-199; 6-1-146
+DIFFERENT	320	7751	7-1-101	2-1-1	44	0.58	0.5	context below 0.8	kīstāsaḥ* — root *kṛta saṃśabdane*; *upadhāyāś ca* (Pā. Sū. 7-1-101) gives *i* for the penultimate *
+DIFFERENT	321	7751	7-1-50	71-50	37	0.62	0.5	part count differs	 for the *r*; with *jas* following, *ājjaser asuk* (Pā. Sū. 7-1-50) gives *asuk*. *abhidyavaḥ* — *ab
+DIFFERENT	322	7751	2-4-53	2-4-52	3	0.7	0.53	context below 0.8	 in place of *jhi*; when *ci* comes, *bruvo vaciḥ* (Pā. Sū. 2-4-53) gives *vac*; *asyativaktikhyātib
+DIFFERENT	322	7751	8-1-71	8-2-61	13	0.65	0.62	context below 0.8	) gets the *nighāta* accent by *tiṅ ca udāttavati* (Pā. Sū. 8-1-71).
+DIFFERENT	327	7875	4-?	4-6-60	40	0.78	0.41	incomplete token, not applied (context or score below the threshold, or prefix differs)	*; *vahihāhādhāñbhyaś chandasi* [print: "ವಹಿಹಾಧಾಙ್ಭ್ಯ", Uṇ. 4-?] gives *asun*; since the preceding s
+DIFFERENT	330	7965	२-२०-२	7-38-7	22	0.55	0.75	edit distance >= 4	(Ṛ. Saṃ. 2-[?]-2; as read by the OCR "२-२०-२" [?].) Here too *devatātā* is exp
+DIFFERENT	331	7983	७-३३-३	7-25-3	22	0.7	0.67	context below 0.8	(Ṛ. Saṃ. 7-[?]-3, numerals doubtful: the OCR gives "७-३३-३" [?].) In this Ṛk the Niruktakāra
+DIFFERENT	346	8358	2-6-4-1	7-4-18-2	61	0.51	0.53	edit distance >= 4	itā sentence "*vedim āhuḥ paramantaṃ pṛthivyāḥ*" (Tai. Saṃ. 2-6-4-1; as printed "೭-೪-೧೮-೨"? the nume
+DIFFERENT	346	8358	3-5-4-1 [?]	2-6-4-1	63	0.65	0.41	context below 0.8	ubtful) and "*etāvatī vai pṛthivī yāvatī vediḥ*" (Tai. Saṃ. 3-5-4-1 [?]) are cited as authority.
+DIFFERENT	347	8372	6-1-173	6-1-170	35	0.74	0.52	context below 0.8	 *śatṛ* before the ending, *śatur anumo nadyajādī* (Pā. Sū. 6-1-173) gives the acute on the ending; 
+DIFFERENT	349	8428	१-१ [?]	6-01	6	0.71	0.97	score below 0.85 or left alone after reading	स्य पथा । मार्गस्तीर्थाख्यः पूर्वेणोत्करमपरेण प्रणीताः । आ. १-१ [?] । इत्यादिसूत्रोक्तः । तेन मार्गे
+DIFFERENT	351	8450	1-1	2-14	11	0.51	0.46	context below 0.8	na Śrauta-sūtra, "*pūrveṇotkaram aparaṇa praṇītāḥ*" (Ā. Sū. 1-1 [as read]), Agni is to be pleased by
+DIFFERENT	351	8462	4-19	3-19	12	0.66	0.41	context below 0.8	(Ni. 1-[?]; as printed "೨-೧೪"?) and "sacrifice, truth" (Ni. 4-19). The word *devatātā* too is record
+DIFFERENT	351	8462	3-19	4-19	15	0.65	0.37	context below 0.8	devatātā* too is recorded among the names of sacrifice (Ni. 3-19). And —
+DIFFERENT	354	8566	२-३१ [?]	2-24	29	0.68	0.83	score below 0.85 or left alone after reading	सानुषु समुच्छ्रितेषु । सानु समुच्छ्रितं भवतीति यास्कः । नि. २-३१ [?] । तेष्वपरेषु । उपरमन्त इत्युपरा
+DIFFERENT	357	8638	3-32-1	3-47-1	24	0.67	0.6	context below 0.8	(Ṛ. Saṃ. 3-32-1, as printed "೩-೩೨-೧".) Here *vṛṣa
+DIFFERENT	358	8684	10-94-6 [?]	10-89-6	5	0.69	0.5	context below 0.8	(Ṛ. Saṃ. 10-94-6 [?], as read "೧೦-೯೪-೬"; the text
+DIFFERENT	359	8728	3-30 [?]	3-22	25	0.54	0.46	context below 0.8	corded as *sadasī* among the names of heaven and earth (Ni. 3-30 [?]); Sāyaṇa gives the sense "place
+DIFFERENT	363	8830	2-31-4 [?]	7-39-4	10	0.65	0.6	context below 0.8	(Ṛ. Saṃ. 2-31-4 [?], as read "೨-೩೧-೪"; the numera
+DIFFERENT	367	8950	1-187-1	1-187	54	0.61	0.5	part count differs	(Ṛ. Saṃ. 1-187-1, as read.) Here, "*taviṣīti bala
+DIFFERENT	368	8974	2-15	3-10	38	0.52	0.38	context below 0.8	invati* is recorded among the ten names of "pervading" (Ni. 2-15; as read "೩-೧೦"), the meaning "make
+DIFFERENT	368	8976	5-19	2-15	48	0.56	0.46	context below 0.8	 2-15; as read "೨-೧೫" and "೩-೯"); here *vasunā annena* (Ni. 5-19; as read "೫-೧೯") — the word denotes
+DIFFERENT	368	8998	3-19	5-19	49	0.61	0.37	context below 0.8	Since *śaṃsati* is read among the names of "praising" (Ni. 3-19), the meaning "praiseworthy" is giv
+DIFFERENT	370	9018	6-4-111	6-4-11	14	0.76	0.47	context below 0.8	 *m*, comes after the last vowel; *śnasor allopaḥ* (Pā. Sū. 6-4-111) drops its *a*; the *n* becomes 
+DIFFERENT	374	9122	5-62-3 [?]	6-37-3	18	0.55	0.5	context below 0.8	(Ṛ. Saṃ. 5-62-3 [?], as read; the numerals are do
+DIFFERENT	375	9140	3-3-102	33-102	6	0.69	0.55	part count differs	*kyac*; after the *kyac*-ending root, *apratyayāt* (Pā. Sū. 3-3-102) gives the suffix *a* in the abs
+DIFFERENT	375	9140	3-1-27	31-27	9	0.77	0.84	part count differs	ṣudha śaradhāraṇe*, *kaṇḍvādi*; *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-27) gives *yak* in the proper sense;
+DIFFERENT	378	9222	1-164-1	1-164	40	0.64	0.6	part count differs	(Ṛ. Saṃ. 1-164-1, as printed "೧-೧೬೪-೧".) and —
+DIFFERENT	378	9258	7-1-1	7-39-2	44	0.55	0.67	context below 0.8	es *ana*; no guṇa since *k*-marked; *yuvor anākau* (Pā. Sū. 7-1-1) gives *ana*; acute on the first s
+DIFFERENT	379	9266	6-1-18	7-1-1	33	0.58	0.4	context below 0.8	śpatiḥ* — *viśāṃ patiḥ*; though *patyāvaiśvaryeṇe* (Pā. Sū. 6-1-18) would give the accent of the fir
+DIFFERENT	379	9266	3-3-174	3-3-113	39	0.58	0.44	context below 0.8	— root *dhurvī hiṃsāyām*; *ktic ktau ca saṃjñāyām* (Pā. Sū. 3-3-174) gives *ktic*; *titutratatha…* (
+DIFFERENT	384	9366	3-110	3-390	38	0.61	0.47	context below 0.8	a devapūjāsaṃgatikaraṇadāneṣu*; *bhṛmṛśiyajiparvi…* (U. Sū. 3-110) gives *atac*; *citaḥ* (Pā. Sū. 6-
+DIFFERENT	385	9402	8, 9	8-1	39	0.52	0.53	context below 0.8	ra; Ṛk 6 Indu (Soma) ‖ Chandas: Ṛks 1–7 and 10 Atyaṣṭi; Ṛks 8, 9 Atiśakvarī; Ṛk 11 Aṣṭi.* *(Numerals
+DIFFERENT	391	9520	8-1-30	1-30	12	0.53	0.53	part count differs	cted, *nighāta* is forbidden (*nipātair yad yadi…*, Pā. Sū. 8-1-30); the suffix is *p*-marked so the
+DIFFERENT	392	9552	२-३-१-१ [?]	65-5-1	26	0.51	0.75	part count differs	शीलैः । इन्द्रस्य मरुतां साहाय्यमिन्द्रो मरुद्भिः । तै. सं. २-३-१-१ [?] । मरुतो ह्येनं वाजहुः । ऐ. ब
+DIFFERENT	392	9552	३-२०	5-0	26	0.6	0.69	context below 0.8	्भिः । तै. सं. २-३-१-१ [?] । मरुतो ह्येनं वाजहुः । ऐ. ब्रा. ३-२० इत्यादिषु प्रसिद्धम् । तैः सहितः सन
+DIFFERENT	392	9554	2-20 [?]	3-20	27	0.68	0.53	context below 0.8	 | tai. saṃ. 2-3-1-1 [?] | maruto hyenaṃ vājahuḥ | ai. brā. 2-20 [?] ityādiṣu prasiddham | taiḥ sahi
+DIFFERENT	396	9612	7-1-50	71-50	50	0.66	0.45	part count differs	ast syllable; with *jas* following, *ājjaser asuk* (Pā. Sū. 7-1-50) gives the augment *asuk*.
+DIFFERENT	398	9662	१३-१०-१० [?]	25-10-10	17	0.8	0.91	score below 0.85 or left alone after reading	िमानिदेवतायै तद्वोचम् । अहोरात्रे वै मित्रावरुणौ । ताण्ड्य… १३-१०-१० [?] अहोरात्राभ्यां खलु वै पर्जन
+DIFFERENT	400	9702	3-14-4 [?]	5-13-4	14	0.68	0.6	context below 0.8	(Ṛ. Saṃ. 3-14-4 [?], as read "೩-೧೪-೪".) and —
+DIFFERENT	400	9714	1-5-1-1 [?]	1-51-1	29	0.67	0.45	part count differs	-2 [?, as read "೬-೨-೩-೨"], and that Rudra wept in Tai. Saṃ. 1-5-1-1 [?], in the sentences '*rudro va
+DIFFERENT	410	9898	6-4-155	6-4-143	15	0.66	0.41	context below 0.8	*vinmator luk* (Pā. Sū. 5-3-65) drops *vin*; *ṭeḥ* (Pā. Sū. 6-4-155) drops *ṭi*; *ñnityādir nityam* 
+DIFFERENT	410	9898	6-2-172	7-1-172	29	0.82	0.93	score below 0.85 or left alone after reading	— *na vidyate enaḥ yasya saḥ anenāḥ*; *nañsubhyām* (Pā. Sū. 6-2-172) gives the acute on the last syl
+DIFFERENT	414	10010	7-104-2	1-162-7	44	0.5	0.67	edit distance >= 4	(Ṛ. Saṃ. 7-104-2, as read "೭-೧೦೪-೨".) Citing this
+DIFFERENT	416	10012	6-1-213	6-1-65	5	0.53	0.41	context below 0.8	gives the form with *yat*, irregular; *yato nāvaḥ* (Pā. Sū. 6-1-213) gives the acute on the first sy
+DIFFERENT	416	10018	6-1-65	621-168	7	0.5	0.5	part count differs	cluded.)* *nidaḥ* — root *ṇidi kutsāyām*; *ṇo naḥ* (Pā. Sū. 6-1-65) gives *n*; *kvip*; *sāvekācas tṛ
+DIFFERENT	420	10092	6-2-69	7-2-79	43	0.68	0.54	context below 0.8	f *sīyuṭ* [as read]; *sko*… drops the *s* [as read: Pā. Sū. 6-2-69?]; *bahulaṃ chandasi* gives *luk*
+DIFFERENT	424	10172	3-3-97	3-397	15	0.68	0.53	part count differs	śe* in place of the ending. *ūtī* — *ūtiyūtijūti…* (Pā. Sū. 3-3-97) gives the acute on the last syll
+DIFFERENT	424	10172	8-3-59	3-4-9	33	0.54	0.43	context below 0.8	e*; because *k*-marked no guṇa; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) gives *ṣ*; by the suffix's accen
+DIFFERENT	424	10178	3-4-94	6-4-75	53	0.53	0.4	context below 0.8	 *leṭ* third person singular, *tip*; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94) gives the augment *aṭ*; *sibbahu
+DIFFERENT	425	10172	3-1-26	3-1-34	7	0.57	0.45	context below 0.8	riṣayadhyai* — root *riṣa hiṃsāyām*; *hetumati ca* (Pā. Sū. 3-1-26) gives *ṇic*; after the *ṇic* end
+DIFFERENT	428	10248	8-4-57]	4-57	29	0.56	0.45	part count differs	e acute to the ending; *ato 'prgṛhyasyā…* [as read: Pā. Sū. 8-4-57] the *ā* is nasalized [?]. *aneha
+DIFFERENT	432	10324	4-4	1-4	3	0.58	0.36	context below 0.8	y Yāska as *adrir ādṛṇāter ātteḥ [?] api vātreyī syāt* (Ni. 4-4), i.e. from *ā-dṝ* (to split) or fro
+DIFFERENT	432	10332	6-1-163	61-163	26	0.65	0.39	part count differs	act sense the suffix *imanic*; *ṭi* drops; *citaḥ* (Pā. Sū. 6-1-163) gives the acute on the last syl
+DIFFERENT	432	10332	6-4-155	6-4-143	37	0.68	0.47	context below 0.8	*vinmator luk* (Pā. Sū. 5-3-65) drops *vin*; *ṭeḥ* (Pā. Sū. 6-4-155) drops *as*; by *nityādi* the ac
+DIFFERENT	432	10332	6-1-45	61-45	46	0.65	0.41	part count differs	*; *tṛn* in the agent sense; *ādeca upadeśe 'śiti* (Pā. Sū. 6-1-45) gives *ā* to the root; in the vo
+DIFFERENT	436	10422	2-1-1-1 [?]	7-1-1-4	34	0.52	0.43	context below 0.8	the Śruti sentence "*tam indro devatā asṛjyata*" (Tai. Saṃ. 2-1-1-1 [?], as read), the Supreme Lord 
+DIFFERENT	437	10436	4-3-1 [?]	5-239-1	10	0.62	0.51	context below 0.8	dbhyāṃ chandasi sādṛśya upasaṅkhyānam* (vārttika on Pā. Sū. 4-3-1 [?]) gives *vatup* after *asmad*; 
+DIFFERENT	437	10436	1-10	6-1	25	0.53	0.36	context below 0.8	llable. *vaso* — root *vasa nivāse*; *śvasyasnihi…* (U. Sū. 1-10) gives *u*; in the vocative, *hrasv
+DIFFERENT	437	10452	४-१	1-10	28	0.54	0.48	context below 0.8	ति खण्डे सूत्रितम् । इन्द्र याह्युप नः प्रघान्यस्य [?] । आ. ४-१ इति ॥ महाव्रते माध्यन्दिनसवने ब्राह्
+DIFFERENT	438	10452	५-१-१	521-1	13	0.77	0.93	part count differs	न्द्र याह्युप नः परावत इन्द्राय हि द्यौरसुरो अनम्नत । ऐ. आ. ५-१-१ इति ॥
+DIFFERENT	443	10544	7-1-50	71-50	22	0.67	0.5	part count differs	rked no guṇa; with *jas* following, *ājjaser asuk* (Pā. Sū. 7-1-50) gives the augment *asuk*. *vājas
+DIFFERENT	447	10646	6-4-105	6-3-135	31	0.63	0.42	context below 0.8	ā. Sū. 7-3-78) gives *piba* for the root; *ato he* (Pā. Sū. 6-4-105) drops *hi*; at the beginning of
+DIFFERENT	448	10654	3-110	3-390	11	0.68	0.7	context below 0.8	haryatāya* — root *harya gatikāntyoḥ*; *bhṛmṛdṛśi…* (U. Sū. 3-110) gives *atac*; *citaḥ* gives the a
+DIFFERENT	453	10764	6-1-9	6-1-189	21	0.67	0.45	context below 0.8	(Pā. Sū. 6-4-42) gives *ā* to the root; *sanyaṅoḥ* (Pā. Sū. 6-1-9) gives doubling; *sanyataḥ* (Pā. S
+DIFFERENT	456	10850	2-28]	2-24	22	0.57	0.37	same md numeral paired with several file values	 *vaja gatau*; *ujjer…* [as read: *ṛjendrāgravajra…* U. Sū. 2-28] gives *ran* by irregular formation
+DIFFERENT	457	10850	2-28]	2-186	12	0.67	0.67	same md numeral paired with several file values	 *vaja gatau*; *ujjer…* [as read: *ṛjendrāgravajra…* U. Sū. 2-28] gives *ran* by irregular formation
+DIFFERENT	457	10856	6-1-174	6-1-161	62	0.54	0.4	context below 0.8	 *nā*; *yaṇ* substitution; *udāttayaṇo hal pūrvāt* (Pā. Sū. 6-1-174) gives the acute to the ending. 
+DIFFERENT	461	10942	6-1-197	6-1-169	26	0.68	0.52	context below 0.8	y *sārvadhātukārdhadhātukayoḥ*; *jñityādir nityam* (Pā. Sū. 6-1-197) gives the acute on the first sy
+DIFFERENT	461	10942	6-1-173]	621-173	41	0.67	0.43	part count differs	ṛ* gets *catur…* [as read: *śatur anumo nadyajādī*, Pā. Sū. 6-1-173] the acute. *ūtīḥ* — *ūtiyūtijūt
+DIFFERENT	465	11030	1-2	2-27	21	0.56	0.48	same md numeral paired with several file values	: the word *atya* is recorded among the names of horse (Ni. 1-2; as read "೧-೩೨"). In the sentence be
+DIFFERENT	466	11030	1-2	1-182	2	0.5	0.4	same md numeral paired with several file values	: the word *atya* is recorded among the names of horse (Ni. 1-2; as read "೧-೩೨"). In the sentence be
+DIFFERENT	467	11072	६-३-२१-२४ [?]	6-3-21-5	21	0.77	0.65	context below 0.8	 दिवोदासायैतन्नाम्ने राज्ञे ॥ दिवो दासे षष्ठ्या अलुक् । का. ६-३-२१-२४ [?] इत्यलुक् ॥ दिवोदासादीनां छ
+DIFFERENT	470	11128	6-3-21 [?]	6-3-21-5	41	0.69	0.78	part count differs	ḥ* — a *ṣaṣṭhī-tatpuruṣa*; *divo dāse ṣaṣṭhyā aluk* (Kāśikā 6-3-21 [?], as read "೬-೩-೨೧-೨೪"?) gives 
+DIFFERENT	478	11290	६-१४ [?]	2-64	22	0.52	0.43	context below 0.8	्ता भवेति शेषः । तुर्वणिः शीघ्रं सम्भक्तेति निरुक्तम् । नि. ६-१४ [?] । तत्र दृष्टान्तः । मनुषेव मनुष
+DIFFERENT	486	11434	6-3-21 [?]	6-3-21-5	38	0.68	0.66	part count differs	-nighāta*. *divodāsebhiḥ* — *divodāse ṣaṣṭhyā aluk* (Kāśikā 6-3-21 [?], as read "೬-೩-೨೧-೨೫") gives n
+DIFFERENT	487	11440	7-2-79	7-2-26	21	0.62	0.37	context below 0.8	ū. 3-4-107] gives *suṭ*; *liṅaḥ salopo 'nantyasya* (Pā. Sū. 7-2-79) drops both *s*; *lopo vyor vali*
+DIFFERENT	487	11454	१-१	2-00	39	0.54	0.87	score below 0.85 or left alone after reading	्रितम् । पष्ठेऽहनीन्द्राय हि द्यौरसुरो अनम्नतेत्येवमेव । आ. १-१ इति ॥ शस्त्रेऽहनि तस्मिन्नेव सवने प्
+DIFFERENT	487	11456	8-11 [?]	408-30	39	0.57	0.87	edit distance >= 4	m | paṣṭhe 'hanīndrāya hi dyaurasuro anamnatetyevameva | ā. 8-11 [?] iti ‖ śastre 'hani tasminneva s
+DIFFERENT	487	11468	8-1	1-1	44	0.68	0.85	score below 0.85 or left alone after reading	ur asuro anamnateti ṣaṭ* in the section *ṣaṣṭhasya* (Ā. Sū. 8-1). In the *mahāvrata*, at the *niṣkev
+DIFFERENT	489	11504	३-१-८९	1-89	26	0.69	0.86	part count differs	] कर्मकर्तर्यात्मनेपदम् । न दुहस्नुनमामिति यगभावः । पा. सू. ३-१-८९ ॥ छान्दसः शपः श्लुः । हलादिशेषाभा
+DIFFERENT	491	11542	6-47-29	47-29	7	0.66	0.67	part count differs	(Ṛ. Saṃ. 6-47-29, as read "೬-೪೭-೨೯".) In this Ṛk 
+DIFFERENT	492	11552	8–9	3-9	28	0.59	0.36	context below 0.8	ed the asuras": so he explains (see Ṛg-Saṃhitā vol. 10, pp. 8–9 in this edition).
+DIFFERENT	493	11602	6-1-70	6-1-193	43	0.51	0.43	context below 0.8	uffix; in the neuter plural *śeś chandasi bahulam* (Pā. Sū. 6-1-70) drops *śi*. *rātāni* — root *rā 
+DIFFERENT	496	11672	3-16	2-13	36	0.55	0.43	context below 0.8	 is recorded among the six common names *svaḥ, pṛśniḥ* (Ni. 3-16; as read "೩-೧೩") and is explained: 
+DIFFERENT	498	11698	3-300	3-20-8	21	0.5	0.53	part count differs	*sautra* root of the sense "giving"; *śikṣati tuñjate* (Ni. 3-300; as read "೩-೨೦-೮"?) is read among 
+DIFFERENT	498	11698	3-2-27	2-27	42	0.61	0.6	part count differs	aṇayoḥ* or *paṇa sambhaktau*; *chandasi vanasana…* (Pā. Sū. 3-2-27) gives *in*; with *pṛṣodarādīni y
+DIFFERENT	502	11772	1-1-10-1 [?]	11-10-1	73	0.55	0	part count differs	[as read] ... *ity ādividhiṣu suprajasas tvayaṃ* (Tai. Saṃ. 1-1-10-1 [?]): "in the absence of study,
+DIFFERENT	504	11794	6-1-79	7-1-39	32	0.6	0.37	context below 0.8	yat* in the sense of relation; *vānto yi pratyaye* (Pā. Sū. 6-1-79) gives *av*; *yato nāvaḥ* (Pā. Sū
+DIFFERENT	504	11794	6-4-81	6-1-186	45	0.56	0.43	context below 0.8	yantā* — root *iṇ gatau*; *laṭ*… *śatṛ*; *iṇo yaṇ* (Pā. Sū. 6-4-81) gives *yaṇ* to the root; the dua
+DIFFERENT	504	11800	8-1-71	6-1-79	48	0.55	0.41	context below 0.8	ented the root's accent remains; *tiṅ codāttavati* (Pā. Sū. 8-1-71) gives the unaccented *saṃ* [as r
+DIFFERENT	508	11878	3-2-106	3-1-22	37	0.53	0.48	edit distance >= 4	vasur…* [as read: *chandasi liṭ*]; *liṭaḥ kānajvā* (Pā. Sū. 3-2-106) gives *kānac*; since *c*-marked
+DIFFERENT	512	11980	8-2-8	6-37-3	28	0.6	1	edit distance >= 4	*, U. Sū. 1-154] gives *kanin*; *ṇaja sambuddhyoḥ* (Pā. Sū. 8-2-8) — no loss of *n* in the vocative;
+DIFFERENT	517	12062	3-4-88	34-88	16	0.69	0.57	part count differs	dasi* gives *luk* of the *vikaraṇa*; *vā chandasi* (Pā. Sū. 3-4-88) gives *apit* when not [required]
+DIFFERENT	517	12062	6-4-42	3-2-67	30	0.51	0.61	edit distance >= 4	ot is *ṣaṇu*]; *ktin*; *janasanakhanāṃ sañjhalośh* (Pā. Sū. 6-4-42) gives *ā*; locative singular; *s
+DIFFERENT	521	12142	6-4-105	6-4-36	52	0.6	0.44	context below 0.8	ja*-substitution as if not effective, so *ato heḥ* (Pā. Sū. 6-4-105) does not give *luk* to *hi*.
+DIFFERENT	527	12268	3-1-8	3-18	17	0.76	0.88	part count differs	nām ātmana icchati pṛtanyati*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8); *sanādyantā dhātavaḥ* (Pā. Sū. 3
+DIFFERENT	527	12268	3-2-124	3-3-14	31	0.69	0.52	context below 0.8	nses; *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* (Pā. Sū. 3-2-124) gives *śatṛ*; accusative plural
+DIFFERENT	533	12412	6-1-168	6-1-193	55	0.64	0.39	context below 0.8	e*; *kvip*; dative singular; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168) gives the acute to the ending. 
+DIFFERENT	534	12412	6-3-95	3-95	43	0.6	0.56	part count differs	 (Pā. Sū. 8-2-62) gives *kutva*; *sahasya sadhriḥ* (Pā. Sū. 6-3-95) gives *sadhri* for *saha*; *anid
+DIFFERENT	534	12412	8-2-4	8-2-62	45	0.63	0.45	context below 0.8	acute, *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya* (Pā. Sū. 8-2-4) gives the *svarita*. *bhadrāḥ* — 
+DIFFERENT	539	12518	6-1-197	6-1-169	40	0.64	0.53	context below 0.8	ñ*; *aco ñṇiti* gives *vṛddhi*; *ñnityādir nityam* (Pā. Sū. 6-1-197) gives the acute on the first sy
+DIFFERENT	540	12524	3-3-113	7-1-1	7	0.51	0.42	edit distance >= 4	eṣaṇaḥ* — by *bahulagrahaṇa* (*kṛtyalyuṭo bahulam*, Pā. Sū. 3-3-113) *lyuṭ* in the agent sense after
+DIFFERENT	543	12582	1-32-1	1-2-10	11	0.51	0.41	context below 0.8	n many Ṛks — as in *indrasya nu vīryāṇi pra vocam* (Ṛ. Saṃ. 1-32-1) and the like; so too it must now
+DIFFERENT	543	12598	6-3-133]	63-133	38	0.59	0.46	part count differs	 — *nṛtitunughaḥ…* [as read: *ṛcitunughamakṣutaṅ…*, Pā. Sū. 6-3-133] gives lengthening in the Saṃhit
+DIFFERENT	544	12604	7-3-52]	7-3-66	7	0.61	0.37	context below 0.8	enult; *ścuyoś ca…* [as read: *cajoḥ kughiṇṇyatoḥ*, Pā. Sū. 7-3-52] would give *kutva* but the prohi
+DIFFERENT	547	12680	3-9	3-1	31	0.56	0.47	context below 0.8	*indre* means "near Indra". *Okya* is "dwelling-place" (Ni. 3-9; as read "೩-೧೩"). Since the word *dh
+DIFFERENT	558	12912	3-13	12-46	26	0.5	1	edit distance >= 4	arta* ("pit"). Though *garta* has the sense of "house" (Ni. 3-13), here the commentator gives the me
+DIFFERENT	560	12962	3-1-81	1-81	46	0.56	0.45	part count differs	ṭ*, first person singular *mip*; *kryādibhyaḥ śnā* (Pā. Sū. 3-1-81 [as read]) gives *śnā*; *hrasvaḥ*
+DIFFERENT	560	12968	7-1-37	7-3-80	46	0.51	0.42	context below 0.8	gatau*, a Vedic root; *samāse 'nañpūrve ktvo lyap* (Pā. Sū. 7-1-37 [as read]) gives *lyap* for *ktvā
+DIFFERENT	561	12968	6-2-165	6-2-116	31	0.75	0.71	context below 0.8	uffix accent. *amitrāḥ* — *ñañ…jaramaramitramṛtāḥ* (Pā. Sū. 6-2-165 [as read]) gives *ādyudātta* on 
+DIFFERENT	561	12968	7-2-15	7-2-119	40	0.68	0.52	context below 0.8	ū* as marker, *iṭ* is optional, by *yasya vibhāṣā* (Pā. Sū. 7-2-15 [as read]) the *kta* suffix gets 
+DIFFERENT	569	13196	4-1	1-1	5	0.61	0.8	score below 0.85 or left alone after reading	smāt | rahasi kṣaṇoti iti vā | rātrau nakṣata iti vā*" (Ni. 4-1, [refs]) — "they are to be guarded a
+DIFFERENT	572	13234	7-104	7-19-4	59	0.5	0.37	part count differs	ou] have slain Rākṣasas". Their matter occurs in the Sūktas 7-104 and 10-85 [as read, [?]]; here the
+DIFFERENT	575	13278	6-2-1	2-2-4	12	0.58	0.67	same md numeral paired with several file values	ṛṣṭir yasya tam*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1 [as read]) gives the earlier membe
+DIFFERENT	576	13278	6-2-1	3-25-1	38	0.61	0.39	same md numeral paired with several file values	ṛṣṭir yasya tam*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1 [as read]) gives the earlier membe
+DIFFERENT	582	13405	6-1-168	6-3-135	37	0.58	0.46	context below 0.8	* suffix; genitive singular; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168 [as read]) gives the udātta to t
+DIFFERENT	582	13405	6-1-193	61-193	43	0.67	0.49	part count differs	he *laghūpadha guṇa* because of the suffix; *liti* (Pā. Sū. 6-1-193 [as read]) gives the udātta to t
+DIFFERENT	593	13669	6-2	6-4	14	0.63	0.48	context below 0.8	ember; *marudvṛdhādīnāṃ chandasy ubhayasaṃkhyānam* (Pā. Sū. 6-2-[?]) gives the earlier member the fi
+DIFFERENT	598	13821	3-3-2-4	2-5-7-4	35	0.65	0.67	context below 0.8	(Taittirīya Saṃhitā 3-3-2-4 [as read].) — in the Taittirīya 
+DIFFERENT	598	13829	8-2	3-27	37	0.52	0.4	same md numeral paired with several file values	(Ṛ. Saṃ. 8-2-[?], as read "೮-೨-೨೩" [?]; the first
+DIFFERENT	598	13839	3-1-85	8-7-25	39	0.6	0.67	context below 0.8	tutimodamadasvapnakāntigatiṣu*; *vyatyayo bahulam* (Pā. Sū. 3-1-85 [as read]) gives Parasmaipada; *i
+DIFFERENT	599	13829	8-2	2-23	4	0.53	0.45	same md numeral paired with several file values	(Ṛ. Saṃ. 8-2-[?], as read "೮-೨-೨೩" [?]; the first
+DIFFERENT	603	13937	2-31-4	7-39-4	39	0.55	0.5	context below 0.8	present Ṛk too (the one cited by the author of the Nirukta, 2-31-4) it may be an epithet of Varuṇa d
+DIFFERENT	604	13937	2-31-4	7-39-4	35	0.64	0.41	context below 0.8	present Ṛk too (the one cited by the author of the Nirukta, 2-31-4) it may be an epithet of Varuṇa d
+DIFFERENT	604	13975	2-38	12-30	55	0.58	0.44	context below 0.8	(Ṛ. Saṃ. 2-38-[?], as read "೨-೩೮-೩" [?].) In Ṛks 
+DIFFERENT	605	13945	11-2	1-5	1	0.51	0.48	context below 0.8	ead "೪-೨೬-೬" [?].) For the word in this Ṛk, Durgācārya (Ni. 11-2, as read "೧೧-೨" [?]) explains *pura
+DIFFERENT	605	13975	2-38	12-30	4	0.6	0.4	context below 0.8	(Ṛ. Saṃ. 2-38-[?], as read "೨-೩೮-೩" [?].) In Ṛks 
+DIFFERENT	611	14109	1-92-11	1-92-14	23	0.65	0.42	context below 0.8	(Ṛ. Saṃ. 1-92-11 [as read].) In Ṛks such as this,
+DIFFERENT	611	14117	1-123-8	1-123-4	23	0.65	0.39	context below 0.8	(Ṛ. Saṃ. 1-123-8 [as read]; the first line's word
+DIFFERENT	611	14155	1-2-4	5-80-4	33	0.53	0.5	context below 0.8	(Muṇḍakopaniṣad 1-2-4 [as read].) "[The flames of the fi
+DIFFERENT	614	14223	6-1-70	61-70	23	0.67	0.52	part count differs	*rak*; in the neuter plural *śeś chandasi bahulam* (Pā. Sū. 6-1-70 [as read]) gives *luk* of *śi*; i
+DIFFERENT	614	14223	3-1-97	3-197	36	0.68	0.56	part count differs	s dropped. *navyeṣu* — root *ṇu stutau*; *aco yat* (Pā. Sū. 3-1-97 [as read]) gives *yat*; *sārvadhā
+DIFFERENT	614	14223	3-1-87	6-1-70	49	0.54	0.43	context below 0.8	e [*karmakartari*]; *karmavat karmaṇā tulyakriyaḥ* (Pā. Sū. 3-1-87 [as read]) gives Ātmanepada and s
+DIFFERENT	614	14223	3-1-89	3-1-87	53	0.77	0.58	context below 0.8	es Ātmanepada and so on; *na duhasnamām* [as read] (Pā. Sū. 3-1-89 [as read]) forbids *yak*; the suf
+DIFFERENT	620	14361	1-50-6	7-50-1	75	0.55	0.6	context below 0.8	(Ṛ. Saṃ. 1-50-6 [as read].) For the word in the Ṛ
+DIFFERENT	621	14401	6-4-112	624-112	83	0.73	0.64	part count differs	 gatau*; *śnā* as *vikaraṇa*; *śnābhyastayor ātaḥ* (Pā. Sū. 6-4-112 [as read]) gives *lopa* of the *
+DIFFERENT	627	14523	1-9	5-9	37	0.62	0.42	context below 0.8	**ಸೂಕ್ತ — Sūkta 135** [as read]. Maṇḍala
+DIFFERENT	627	14523	8, 9	8-1	43	0.64	0.44	context below 0.8	 and 9 Vāyu; 4–8 Indra [as printed]. Chandas — 1–7 Atyaṣṭi; 8, 9 Aṣṭi [as printed].
+DIFFERENT	629	14567	६-१-२०३ [?]	61-212	4	0.64	0.88	part count differs	्नियुद्भिस्तद्वते देवाय द्योतमानाय तुभ्यं । जयि च । पा. सू. ६-१-२०३ [?] । इत्याद्युदात्तत्वं । पूर्व
+DIFFERENT	630	14617	3-4	3-2	36	0.7	1	same md numeral paired with several file values	(Ai. Brā. 3-4, as read "೩-೩೪" [?].) When Agni, kin
+DIFFERENT	631	14591	3-2	8-228	14	0.61	1	score below 0.85 or left alone after reading	(Ai. Brā. 3-2, as read "೩-೨" [?]; read from the im
+DIFFERENT	631	14645	24–25	2-34	49	0.51	0.6	context below 0.8	ader: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+DIFFERENT	632	14617	3-4	3-1	36	0.55	0.43	same md numeral paired with several file values	(Ai. Brā. 3-4, as read "೩-೩೪" [?].) When Agni, kin
+DIFFERENT	632	14651	3-1	3-13	36	0.66	0.42	context below 0.8	 [?]), and among the names of *prajñā* (understanding) (Ni. 3-1, as read "೩-೯" [?]). This word is us
+DIFFERENT	638	14793	3-1-8	3-16	25	0.69	0.98	part count differs	smān ātmana icchati asmayati*; *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8 [as read]) gives the suffix *kyac*
+DIFFERENT	638	14793	6-1-163	6-1-1	31	0.68	0.47	context below 0.8	j*… gives *ṇatva* to the *n* of the suffix; *cita* (Pā. Sū. 6-1-163 [as read]) gives the final udātt
+DIFFERENT	641	14847	1-8	2-10	54	0.51	1	score below 0.85 or left alone after reading	he sacrifice": thus the author of the Nirukta explains (Ni. 1-8, as read "೧-೮" [?]). The same deriva
+DIFFERENT	641	14863	1-1-4	4-2-10	57	0.51	0.67	edit distance >= 4	(Ṛ. Saṃ. 1-1-4 [as read].) Here the word *adhvara
+DIFFERENT	644	14937	८-१-१ [?]	7-92-1	24	0.59	0.6	context below 0.8	वपा असि । ऋ. सं. ४-४६-१ । देव वधीहे पूर्वपेयम् [?] । ऋ. सं. ८-१-१ [?] । इत्यादिषु सर्वत्र प्रसिद्धम्
+DIFFERENT	644	14937	३-३९ [?]	2-25	26	0.56	0.93	score below 0.85 or left alone after reading	स्य राज्ञोऽग्रपेयेन समपादयन्नित्यत्र प्रतिपादितं । ऐ. ब्रा. ३-३९ [?] ॥ किंचागमनसमये हे वायो त्वमिन्द
+DIFFERENT	646	15013	8-2-1	7-92-1	7	0.57	0.67	context below 0.8	(Ṛ. Saṃ. 8-2-1 [as read].) In such places, the us
+DIFFERENT	649	15077	3-4-106	3-4-97	22	0.61	0.55	context below 0.8	ṇe*; *leṭ*, third person singular, *tip*; *iṭo 'ṭ* (Pā. Sū. 3-4-106 [as read]) drops the *i*; *leṭo 
+DIFFERENT	649	15077	8-2-41	6-2-49	40	0.63	0.44	context below 0.8	p*; *hoḍhaḥ* gives *ḍha* for *ha*; *ṣaḍhoḥ kaḥ si* (Pā. Sū. 8-2-41 [as read]) gives *ka* to it, and 
+DIFFERENT	649	15077	3-1-97	31-97	53	0.69	0.6	part count differs	e object. *pūrvapeyam* — root *pā pāne*; *aco yat* (Pā. Sū. 3-1-97 [as read]) gives *yat*; *īdyati* 
+DIFFERENT	655	15195	1-4-1	1-4-4	18	0.53	0	context below 0.8	 (These small-type Yajus mantras of the Taittirīya Saṃhitā, 1-4-1 [as read], are read from the image
+DIFFERENT	655	15213	1-4-4	1-190-4	56	0.63	0.67	context below 0.8	(Tai. Saṃ. 1-4-4 [as read].) "O Vāyu, who drinks pu
+DIFFERENT	660	15397	1-2-11	1-28-9	41	0.56	0.75	same md numeral paired with several file values	e suffix]; *sic* for *cli*; *liṅsicāvātmanepadeṣu* (Pā. Sū. 1-2-11 [as read]) gives the *kittva* of 
+DIFFERENT	661	15397	1-2-11	12-11	36	0.6	0.37	part count differs	e suffix]; *sic* for *cli*; *liṅsicāvātmanepadeṣu* (Pā. Sū. 1-2-11 [as read]) gives the *kittva* of 
+DIFFERENT	665	15545	1-4-1	10-76-1	57	0.55	0.8	score below 0.85 or left alone after reading	(Tai. Saṃ. 1-4-1 [as read].) In the mantras of the 
+DIFFERENT	665	15557	1-4-4	10-175-1	62	0.53	1	edit distance >= 4	(Tai. Saṃ. 1-4-4 [as read].) mantras like this the 
+DIFFERENT	667	15575	6-1-197	6-1-169	22	0.7	0.52	context below 0.8	hāta*; as *śyan* is *śit* [?], by *ñitādir nityam* (Pā. Sū. 6-1-197 [as read]) the ādyudātta. *niyut
+DIFFERENT	670	15671	6-4-4	6-45-2	36	0.74	1	same md numeral paired with several file values	ower and greatness are stated in the sentences of Tai. Saṃ. 6-4-4 to 6-4-6 [?], is to be understood 
+DIFFERENT	671	15671	6-4-4	6-4	29	0.52	0.41	part count differs	ower and greatness are stated in the sentences of Tai. Saṃ. 6-4-4 to 6-4-6 [?], is to be understood 
+DIFFERENT	671	15671	6-4-6 [?]	1-4-1	32	0.57	0.38	context below 0.8	greatness are stated in the sentences of Tai. Saṃ. 6-4-4 to 6-4-6 [?], is to be understood here at l
+DIFFERENT	671	15679	6-4-1	6-4-4-1	40	0.73	1	part count differs	(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೧" [?]; the wo
+DIFFERENT	671	15701	6-4-1	6-4-4-1	54	0.63	0.92	part count differs	(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?].) This 
+DIFFERENT	671	15719	6-4-1	6-4-4-2	54	0.52	0.92	part count differs	(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?]; doubtf
+DIFFERENT	672	15701	6-4-1	6-4-4-2	66	0.64	1	part count differs	(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?].) This 
+DIFFERENT	672	15719	6-4-1	6-4-4-3	73	0.62	0.83	part count differs	(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?]; doubtf
+DIFFERENT	673	15719	6-4-1	1-4-2	20	0.5	0.41	same md numeral paired with several file values	(Tai. Saṃ. 6-4-1-[?], as read "೬-೪-೧-೩" [?]; doubtf
+DIFFERENT	673	15735	6-4-1	64-5-1	37	0.75	1	same md numeral paired with several file values	i dvidhā vyāvasi sṛjati tasmād dvau prāṇāḥ* [?]. (Tai. Saṃ. 6-4-1-[?] [?].)
+DIFFERENT	673	15739	6-4	64-5-2	37	0.53	1	part count differs	e, the greatness of the *upāṃśugraha* is praised (Tai. Saṃ. 6-4-[?], as read "೬-೪-೩" [?]); the rest 
+DIFFERENT	674	15735	6-4-1	6-4-5-2	23	0.55	1	part count differs	i dvidhā vyāvasi sṛjati tasmād dvau prāṇāḥ* [?]. (Tai. Saṃ. 6-4-1-[?] [?].)
+DIFFERENT	674	15739	6-4	6-4-5-3	23	0.51	1	part count differs	e, the greatness of the *upāṃśugraha* is praised (Tai. Saṃ. 6-4-[?], as read "೬-೪-೩" [?]); the rest 
+DIFFERENT	674	15757	6-4	6-45-3	54	0.6	0.92	part count differs	(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೩, ೩" [?]; r
+DIFFERENT	674	15785	6-4-3	6-45-4	54	0.7	0.92	same md numeral paired with several file values	(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೩" [?]; read f
+DIFFERENT	675	15757	6-4	6-4-5-5	6	0.54	1	part count differs	(Tai. Saṃ. 6-4-[?]-[?], as read "೬-೪-೩-೩, ೩" [?]; r
+DIFFERENT	675	15785	6-4-3	6-4-5-5	25	0.68	1	part count differs	(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೩" [?]; read f
+DIFFERENT	675	15821	6-4-3	64-5-5	40	0.64	1	score below 0.85 or left alone after reading	(Tai. Saṃ. 6-4-3-[?], as read "೬-೪-೩-೬" [?]; read f
+DIFFERENT	676	15845	6-4-6-1	6-4-5-7	14	0.6	0.44	context below 0.8	(Tai. Saṃ. 6-4-6-1 [as read]; read from the image, 
+DIFFERENT	676	15859	6-4-6	624-6	39	0.56	0.47	part count differs	(Tai. Saṃ. 6-4-6-[?], as read "೬-೪-೬-೨" [?].) "I pl
+DIFFERENT	676	15877	6-4-6	6-4-6-1	50	0.58	0.83	part count differs	(Tai. Saṃ. 6-4-6-[?], as read "೬-೪-೬-೪" [?]; read f
+DIFFERENT	678	15923	6-4-7-3	6-4-7-1	9	0.68	0.67	context below 0.8	(Tai. Saṃ. 6-4-7-3, as read "೬-೪-೭-೩" [?]; read fro
+DIFFERENT	679	15891	6-4-2	6-4-7-3	13	0.63	1	part count differs	(Tai. Saṃ. 6-4-2-[?], as read "೬-೪-೭-೧" [?].) The *
+DIFFERENT	680	15937	1-3-25	1-3-25-1	3	0.65	0.57	part count differs	anta* — root *ṣṭhā gatinivṛttau*; *upād devapūjā…* (Pā. Sū. 1-3-25 [as read]) gives the Ātmanepada, 
+DIFFERENT	680	15937	6-4-77	6-1-186	24	0.53	0.5	edit distance >= 4	…* [as read: *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* (Pā. Sū. 6-4-77 [as read])] gives *uvaṅ*; since i
+DIFFERENT	680	15937	3-1-87	1-87	29	0.56	0.43	part count differs	n the *karmakartṛ*, *karmavat karmaṇā tulyakriyaḥ* (Pā. Sū. 3-1-87 [as read]) gives *yak* [of the pa
+DIFFERENT	683	16029	24–25	22-10	49	0.52	0.6	context below 0.8	ader: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 24–25 [as read].)*
+DIFFERENT	684	16049	6-1-1	10-917-2	31	0.56	0.75	edit distance >= 4	ṣu ojo yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-1-1 [as read]) gives the earlier membe
+DIFFERENT	684	16049	3-1-25	6-1-1	37	0.56	0.43	context below 0.8	* — root *pata gatau*, *curādi*; by *satyāpapāśa…* (Pā. Sū. 3-1-25 [as read]) *ṇic* in its own sense
+DIFFERENT	684	16049	1-1-57	3-1-25	46	0.56	0.45	context below 0.8	ṇic* in its own sense; *aceḥ parasmin pūrvavidhau* (Pā. Sū. 1-1-57 [as read]) — since *ṇi*-lopa is *
+DIFFERENT	686	16081	6–7	6-3	27	0.67	0.63	context below 0.8	: 7. Ṛṣi — Paruccheṣa Daivodāsi. Devatā — 1–5 Mitrāvaruṇau; 6–7 the deities named by the mantra's si
+DIFFERENT	687	16113	६-४-१०९ [?]	3-104	28	0.51	0.83	part count differs	ैनोः [?] संज्ञापूर्वकस्य विधेरनित्यत्वादोषि [?] च । पा. सू. ६-४-१०९ [?] इति गुणाभावे [?] तो गुण इति 
+DIFFERENT	687	16113	३-१२ [?]	4-17	33	0.67	0.85	score below 0.85 or left alone after reading	पि । नू चिदिति निपातः पुराणनवयोरिति यास्केनोक्तत्वात् । नि. ३-१२ [?] । अधृषे न केनाप्याधर्षणीयो भवति
+DIFFERENT	690	16211	5-1-3	2-17-3	35	0.57	0.67	context below 0.8	ū. 8-1-4 [as read]) gives doubling; *anudāttaṃ ca* (Pā. Sū. 5-1-3 [as read]) makes the *pararūpa* [s
+DIFFERENT	692	16217	6-1-94	7-3-104	5	0.53	0.53	edit distance >= 4	ad "೬-೩-೧೦೩" [?]) does not give *guṇa*; *ato guṇe* (Pā. Sū. 6-1-94 [as read]) gives the *pararūpa*; 
+DIFFERENT	693	16217	5-1-119	3-1-109	20	0.55	0.43	context below 0.8	 is *avyaya*. *devatvam* — *tasya bhāvas tvatalau* (Pā. Sū. 5-1-119 [as read]) gives the suffix *tva
+DIFFERENT	695	16345	1-123-5	8-18-3	47	0.56	0.67	edit distance >= 4	(Ṛ. Saṃ. 1-123-5 [as read].) In Ṛks such as this,
+DIFFERENT	696	16347	7-1-1	7-121	37	0.68	0.59	part count differs	lyuṭ* in the sense of *adhikaraṇa*; *yuvor anākau* (Pā. Sū. 7-1-1 [as read]) gives *ana* for *yu*; *
+DIFFERENT	699	16423	6-2-2	1-2-12	35	0.54	0.57	same md numeral paired with several file values	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೨" [?]; this s
+DIFFERENT	699	16441	6-2-2	6-297-2	37	0.53	0.47	same md numeral paired with several file values	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩, ೩" [?].) Af
+DIFFERENT	700	16423	6-2-2	6-2-7-2	8	0.75	1	part count differs	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೨" [?]; this s
+DIFFERENT	700	16429	1-2	1-2-12-1	29	0.56	1	part count differs	   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೧" [?].) "M
+DIFFERENT	700	16441	6-2-2	1-2-12-2	29	0.6	1	part count differs	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩, ೩" [?].) Af
+DIFFERENT	700	16459	6-2-2	6-2-7-2	39	0.63	0.83	part count differs	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩" [?].) This 
+DIFFERENT	700	16471	6-2-2	6-2-7-3	39	0.51	0.83	part count differs	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩, ೪" [?].) By
+DIFFERENT	701	16423	6-2-2	1-2-12-2	5	0.51	1	part count differs	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೨" [?]; this s
+DIFFERENT	701	16441	6-2-2	6-2-7-3	14	0.62	1	part count differs	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩, ೩" [?].) Af
+DIFFERENT	701	16453	1-2	1-2-12-2	22	0.53	1	part count differs	   (Tai. Saṃ. 1-2-[?]-[?], as read "೧-೨-೧೩-೨" [?].) "Y
+DIFFERENT	701	16459	6-2-2	6-27-53	33	0.72	1	same md numeral paired with several file values	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩" [?].) This 
+DIFFERENT	701	16471	6-2-2	6-27-4	33	0.81	1	same md numeral paired with several file values	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೩, ೪" [?].) By
+DIFFERENT	701	16489	6-2-2	12-12-2	42	0.71	1	same md numeral paired with several file values	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೪, ೫" [?].) *K
+DIFFERENT	702	16489	6-2-2	6-2-7	9	0.88	1	same md numeral paired with several file values	(Tai. Saṃ. 6-2-2-[?], as read "೬-೨-೨-೪, ೫" [?].) *K
+DIFFERENT	708	16631	8-1-3	8-123	25	0.67	0.55	part count differs	oubling in the sense of repetition; *anudāttaṃ ca* (Pā. Sū. 8-1-3 [as read]) makes the latter *āmreḍ
+DIFFERENT	708	16631	3-4-6	7-2-67	30	0.56	0.45	context below 0.8	śāte* — root *aśū vyāptau*; *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6 [as read]) gives *liṭ* in the pres
+DIFFERENT	708	16631	3-4-79	7-1-39	33	0.55	0.43	context below 0.8	 the third person dual; *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-79 [as read]) gives *e* for *ṭi*; wi
+DIFFERENT	712	16731	3-4-86	6-4-8-2	6	0.58	0.67	part count differs	āyām*; *loṭ*, third person singular, *tip*; *eruḥ* (Pā. Sū. 3-4-86 [as read]) gives *u* for the *i*;
+DIFFERENT	712	16731	2-4-73	6-4-8-3	6	0.52	0.5	part count differs	s read]) gives *u* for the *i*; *bahulaṃ chandasi* (Pā. Sū. 2-4-73 [as read]) gives *luk* of *śap*; 
+DIFFERENT	727	17101	1-1-9-1-1	1-1-9-1	39	0.68	0.6	part count differs	(Tai. Brā. 1-1-9-1-1, 2; the form *ucchēṣaṇam* is a
+DIFFERENT	727	17101	1-1-9-1-2	1-1-9-1-32	39	0.83	0.6	context below 0.8	(Tai. Brā. 1-1-9-1-1, 2; the form *ucchē
+md [?] no file row	67	1361	1-139-2 [?]					3-2  |  line 52 ; 2-8  |  line 1	, as printed; the user's numeral sheet agrees; the earlier "1-139-2 [?]" was wrong.) In this ṛk Sāya
+md [?] no file row	67	1369	1-134-4 [?]					3-2  |  line 52 ; 2-8  |  line 1	, as printed; the user's numeral sheet agrees; the earlier "1-134-4 [?]" was wrong.) In this ṛk the 
+md [?] no file row	67	1375	1-130-2 [?]					3-2  |  line 52 ; 2-8  |  line 1	, as printed; the user's numeral sheet agrees; the earlier "1-130-2 [?]" was wrong.)
+md [?] no file row	151	3379	७-६३-४ [?]					1-4  |  line 24	णवाची नपुंसकलिङ्गः । अयन्नर्थानि कृण्वन्नांसीत्यादौ (ऋ. सं. ७-६३-४ [?]) तथादृष्टत्वात् ॥ अरणीयं द्वि
+md [?] no file row	271	6537	10-4 [?]					4-1  |  line 1	(Ni. 10-4[?]; the last digit is not settled b
+md [?] no file row	326	7861	1-116-17 [?]					6-1-168  |  line 36 ; 5-4-5  |  line 36	(Ṛ. Saṃ. 1-116-17 [?], as printed "೧-೧೧೬-೧೭"? — n
+md [?] no file row	330	7965	2-10 [?]					111-8  |  line 3	mes of water (Ni. 1-[?]) and among the names of wealth (Ni. 2-10 [?]; numerals as read by the OCR "२
+md [?] no file row	336	8097	1-9 [?]					3-9  |  line 32 ; 3-1-22  |  line 18 ; 2-4-74  |  line 19	ti akṣareṇa anarthakāḥ karmopasaṃdhāna* …" [as printed (Ni. 1-9 [?]; doubtful letters): [?]]. Sāyaṇa
+md [?] no file row	344	8294	१-२-५-१ [?]					1-3-1  |  line 3	त् । तै. ब्रा. १-१-४-४ । इडायाः पदे घृतवति स्वाहा । तै. सं. १-२-५-१ [?] । इति च श्रुतेः । नि षदत् नि
+md [?] no file row	346	8352	6-11 [?]					2-229  |  line 29	"*uśijaḥ putraḥ auśijaḥ*; *uśik vaṣṭeḥ kāntikarmaṇaḥ*" (Ni. 6-11 [?]) — so the Niruktakāra. Sāyaṇa, 
+md [?] no file row	351	8478	28-18 [?]					7-36-7  |  line 21	(Vā. Saṃ. 28-18 [?] and 9-43, as read; **small-typ
+md [?] no file row	355	8582	6-14 [?]					2-24  |  line 37 ; 8-68-4  |  line 29	 enemies — 'Yāska: *turvaṇiḥ* is *tvarvaṇiḥ*' [as read: Ni. 6-14 [?]]; and *sānuṣu* — in the high pl
+md [?] no file row	355	8582	2-31 [?]					2-24  |  line 37 ; 8-68-4  |  line 29	* — in the high places — 'Yāska: *sānu* is "elevated"' [Ni. 2-31 [?]] — in the lower (*upareṣu*) one
+md [?] no file row	383	9332	9-42 [?]					112-3  |  line 41	the form of a store of wealth": the support of riches) (Ni. 9-42 [?], as read "೯-೪೨").
+md [?] no file row	387	9440	३-१२ [?]						> नि. ३-१२ [?] । अत एव सन्तं पण्डितं सन्तम् । 
+md [?] no file row	394	9578	3-20 [?]					1-1  |  line 3 ; 5-08  |  line 20	tful); 'for the Maruts called him to the contest' (Ai. Brā. 3-20 [?])" — thus well known. The word *
+md [?] no file row	422	10138	6-14 [?]					3-9  |  line 33	 senā | jūrṇirjavatervā dravatervā dūnoterveti yāskaḥ | ni. 6-14 [?] | no 'smān prati riṣayadhyai hi
+md [?] no file row	429	10286	6-4 [?]					23-1  |  line 3 ; 1-1-1  |  line 3	drivannadrirādyātkṛtenāpi vāktrī syāditi niruktam [?] | ni. 6-4 [?] | ririkṣantam*
+md [?] no file row	472	11166	८-९६-१३ [?]					6-1-186  |  line 24 ; 3-25  |  line 24	ुचरमवधीत् । आयमर्थोव्य ... द्रप्सो अंशुमतीमतिष्ठत् । ऋ. सं. ८-९६-१३ [?] इत्यादिनोपरिष्टाद्द्रष्टव्यम
+md [?] no file row	487	11454	८-१ [?]					1-164  |  line 21	 खण्डे सूत्रितम् । इन्द्राय हि द्यौरसुरो अनम्नतेति षट् । आ. ८-१ [?] इति ॥ महाव्रते निष्केवल्ये इन्द्
+md [?] no file row	487	11454	५-१-१ [?]					1-164  |  line 21	्द्रं याह्युप नः परावत इन्द्राय हि द्यौरसुरो अनम्नत । ऐ. आ. ५-१-१ [?] इति ॥
+md [?] no file row	513	11980	8-1-12 [?]					6-1-159  |  line 29 ; 9-11  |  line 24 ; 3-9  |  line 22	ām-anyām* — in reciprocity, *sarvanāmno dve vācye* (Pā. Sū. 8-1-12 [?]), by *samāsavac ca bahulam* t
+md [?] no file row	528	12308	3-23 [?]					7-4-39  |  line 22	a svargo dvāvimau puruṣau loke sūryamaṇḍalabhedinau | parā. 3-23 [?] ityādismṛtiṣu prasiddhaḥ ‖ āpra
+md [?] no file row	530	12340	3-23 [?]						(Parāśara-smṛti 3-23 [?], as read "೩-೨೩"; the same verse
+md [?] no file row	555	12810	१-३१ [?]					3-4-94  |  line 26 ; 6-1-193  |  line 37	्नुते । ता जपन् हन्ति रक्षांसि सपत्नांश्च नियच्छति । ऋ. वि. १-३१ [?] इति ॥
+md [?] no file row	594	13705	4-9 [?]					6-2-103-2  |  line 12	rathavāhanādikaṃ kurvāṇāḥ | krāṇāḥ kurvāṇā iti yāskaḥ | ni. 4-9 [?] | ūtayo rakṣaṇavatyaḥ prītiyuktā
+md [?] no file row	601	13877	६-१३ [?]					2-5  |  line 7	ामर्थ्याद्यजमानमिति गम्यते । पुरंधिर्बहुधीरिति यास्कः । नि. ६-१३ [?] । तं प्र बोधय । रथेन शीघ्रमागत्
+md [?] no file row	627	14517	८-१ [?]						प्रातःसवन इति खण्डे सूत्रितं । स्तीर्णं बर्हिरिति तृचौ । आ. ८-१ [?] इति ॥
+md [?] no file row	687	16113	२-१-७-४ [?]						 मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो वर्षति । तै. सं. २-१-७-४ [?] इति श्रुतेरेवं वृष्ट्यनुज्ञा
