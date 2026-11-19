@@ -22339,6 +22339,260 @@ Devatā: Indra.
 
 Metre: Ṛks 1–14, Triṣṭubh; Ṛk 15, Dvipadā.
 
+### Printed p. 652
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबा॒ सोम॑म॒भि यमु॑ग्र॒ तर्द॑ ऊ॒र्वं गव्यं॒ महि॑ गृणा॒न  ॑
+> इंद्र ।  
+> वि यो धृ॑ष्ट्णो॒ वधि॑षो वज्रहस्त॒ विश्वा॑ वृ॒त्रम॑मि॒त्रिया॒  ॑
+> शवोभिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिब । सोमं । अभि । यं । उग्र । तर्दः । ऊर्वं । गव्यं । महि । गृणानः । इंद्र ।  
+> वि । यः । धृष्टो इति । वधिषः । वज्रहस्त । विश्वा । वृत्रं । अमित्रिया । शवःभिः ॥१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रोद्गूर्णबलेंद्र गृणानोऽंगिरोभिः स्तूयमानस्त्वं यं
+> सोममभ्युद्दिश्य । पातुमित्यर्थः । महि महद्दव्यं गोसंबंधूर्यर्वं पणिभिराहृतं
+> समूहं तर्दः प्रकाशितवानसि ॥ तृदिर्हिंसाकर्मात्र प्रकाशनार्थः ॥ तं सोमं पिब ।
+> पानं कुरु । हे धृष्टो शत्रोणां धर्षक वज्रहस्त वज्रपाणे हे इंद्र यस्त्वं
+> शवोभिर्बलैः सहितः सन् विश्वा विश्वं वृत्रमावरकममित्रियामित्रियं शत्रुं ॥ अमित्र
+> शब्दात् द्वितीयैकवचनस्येयादेशः ॥ वि वधिषः व्यवधीः सत्वं सोमं पिबेति
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, fierce and of uplifted strength, you who are praised by the Aṅgirases: in order to drink which Soma you made manifest the great herd of cattle that had been carried off by the Paṇis (the word ऊर्वं (*ūrvaṃ*) here means a mass or herd).**NOTE** The root tṛd, which commonly has the sense of harming, has here the sense of making manifest. Drink that Soma. O bold one, assailant of enemies, O thunderbolt-handed Indra, you who, together with your strengths, have slain every enemy Vṛtra, the encloser: that same you drink the Soma. Such is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—one possessed of fearsome strength
+- इंद्र (*iṃdra*)—O Indra
+- गृणानः (*gṛṇānaḥ*)—you who are praised by the Aṅgirases
+- यं अभि (*yaṃ abhi*)—having in view which Soma for drinking
+- ऊर्वं (*ūrvaṃ*)—carried off by the Paṇis
+- गव्यं (*gavyaṃ*)—the herd of cows
+- तर्दः (*tardaḥ*)—you have made manifest
+- सोमं (*somaṃ*)—that very Soma
+- पिब (*piba*)—drink
+- धृष्टो (*dhṛṣṭo*)—assailant of enemies
+- वज्रहस्त (*vajrahasta*)—holder of the thunderbolt, O Indra
+- यः (*yaḥ*)—you who
+- शवोभिः (*śavobhiḥ*)—joined with my strengths
+- विश्वा (*viśvā*)—all
+- वृश्रं (*vṛśraṃ*)—the encloser
+- अमित्रिया (*amitriyā*)—the host of enemies
+- वि वधिषः (*vi vadhiṣaḥ*)—have destroyed (such you, drink the Soma)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of fearsome strength, you who are praised by the Aṅgirases: drink that very Soma, having in view the drinking of which you made manifest the herd of cows carried off by the Paṇis.
+
+### Printed p. 653
+
+Drink it. O Indra, assailant of enemies and holder of the thunderbolt: you who, joined with your strengths, have destroyed the whole host of enemies, the encloser, such you drink the Soma.
+
+##### English translation
+Fierce Indra, glorified by us, drink that Soma, (animated) by which you have discovered the vast herd of cattle (stolen by the Panis), and, overcomer of enemies, wielder of the thunderbolt, you have slain, by your strength all opposing foes.
+
+##### विशेषविषयगळु (Special Topics)
+
+Formerly the Asuras called Paṇis carried off the cows of the Aṅgirasa seers and hid them in the caves of a mountain so that no one could see them. For the release of those cows the Aṅgirasa seers praised Indra in the sacrifice and offered him Soma juice for drinking. In the present Ṛk Indra is prayed to become powerful for the release of the cows, and for that to drink Soma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स ईं॑ पाहि॒ य ऋ॑जी॒षी तरु॑त्तो॒ यः तिप्र॑वान्वृष॒भो  
+> यो म॑ती॒नां ।  
+> यो गो॑त्र॒भिद्व॑ज्र॒भ्यद्यो ह॑रि॒ष्ठाः स इं॑द्र चि॒त्रा अ॒भि तृं॑धि॒  ॑
+> वाजान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ईं । पाहि । यः । ऋजीषी । तरुत्रः । यः । शिप्रवान् । वृषभः । यः । मतीनां ।  
+> यः । गोत्र्यभित् । वज्रभृत् । यः । हरिस्थाः । सः । इंद्र । चित्रान् । अभि । शृंधि ।  
+> वाजान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजान् ॥ २ ॥
+
+**NOTE**
+
+### Printed p. 654
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ऋजीषी । ऋजीषशब्देन गतरसः सोमोऽभिधीयते । तद्वान्यस्त्वं
+> तरुत्रः शत्रुणां तारकोऽसि यस्त्वं शिप्रवान् शोभनहनुरसि यस्त्वं मतीनां
+> स्तोतृणां ॥ मन्यतेः स्तुतिकर्मणः कर्तरि क्तिच् ॥ वृषभः कामानां वर्षितासि स
+> त्वमीमेनं सोमं पाहि । पिब । हे इंद्र यस्त्वं वज्रभृद्वज्रधरो यस्त्वं
+> गोत्रभिद्योत्राणां पर्वतानां मेघानां वा भेत्तासि यस्त्वं हरिष्ठा हर्योः
+> स्थातासि हे इंद्र स त्वं चित्रान् विचित्रान् वाजानन्नान्यभि तृंधि । अस्मभ्यं प्रकाशय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, ṛjīṣin: by the word ṛjīṣa is meant the Soma whose juice is spent; you who possess it are tarutra, the one who carries across the enemies, that is, overcomes them. You are śiprāvān, one with handsome jaws. You are the showerer of desires for the praisers (the word मतीनां (*matīnāṃ*) means the praisers). Such as you are, drink this Soma. O Indra, you who bear the thunderbolt, you who are the splitter of the gotras, that is, of the mountains or of the clouds, you who are the one who stands on the two bay horses: O Indra, such as you are, make manifest to us the various and manifold foods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीषी (*ṛjīṣī*)—you who possess Soma whose juice is spent
+- यः (*yaḥ*)—you who
+- तरुत्रः (*tarutraḥ*)—overcome and defeat the enemies
+- यः (*yaḥ*)—you who
+- शिप्रवान् (*śipravān*)—are possessed of handsome cheeks
+- यः (*yaḥ*)—you who
+- मतीनां (*matīnāṃ*)—to the praisers
+- वृषभः (*vṛṣabhaḥ*)—are the showerer of desires
+- सः (*saḥ*)—such you
+- ईं (*īṃ*)—this Soma
+- पाहि (*pāhi*)—drink
+- इंद्र (*iṃdra*)—O Indra
+- वज्रभृत् (*vajrabhṛt*)—bearer of the thunderbolt
+- यः (*yaḥ*)—you who
+- गोत्रभित् (*gotrabhit*)—are the splitter of mountains
+- यः (*yaḥ*)—you who
+- हरिष्ठाः (*hariṣṭhāḥ*)—are the establisher of horses**NOTE**
+- सः (*saḥ*)—such you
+- चित्रान् (*citrān*)—of many kinds
+- वाजान् (*vājān*)—foods
+- अभि तृंधि (*abhi tṛṃdhi*)—make manifest to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who possess Soma whose juice is spent, who overcome and defeat the enemies, who have handsome cheeks, who are the showerer of desires for the praisers: such you, drink this Soma juice. O Indra, bearer of the thunderbolt, you who are the splitter of mountains, who are the establisher of horses: such you, provide us with foods of many kinds.
+
+##### English translation
+Drink it, Indra, you who enjoy the flavourless Soma ; you who are the preservr, the handsome-chinned, the showerer (of benefits) on those who praise you; you are the breaker of the mountains, the wielder of the thunderbolt, the curber of steeds, bestow us various food.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋजीषी (*ṛjīṣī*)—Ṛjīṣa means the husks of the Soma creeper that remain after the juice has been pressed out. In these the Soma juice is not abundant. Therefore these husks are soaked well in water, and the little juice that remains is pressed out well once more.
+
+### Printed p. 655
+
+Mixed with barley flour, this is offered to Indra at the third pressing of the sacrifice. Since he drinks the Soma that is in such ṛjīṣa, the addressing of Indra as ṛjīṣin is seen especially in the Ṛgveda. We have explained the word ṛjīṣa in detail earlier, in the story of the fetching of the Soma.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा पा॑हि प्र॒त्नथा॒ मंद॑तु त्वा श्रु॒धि ब्रह्म॑ वावृ॒धस्वो॒त  ॒
+> गीर्भिः ।  
+> आ॒विः सूर्यं॑ कृणु॒हि पी॑पि॒हीषो॑ ज॒हि शत्रु॑र॒भि गा इं॑द्र  
+> तृंधि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । पाहि । प्रत्नथा । मंदतु । त्वा । श्रुधि । ब्रह्म । ववृधस्व । उत । गीःभिः ।  
+> आविः । सूर्यं । कृणुहि । पीपिहि । इषः । जहि । शत्रून् । अभि । गाः । इंद्र । तृंधि॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रत्वं प्रत्नथा प्रत्नान्पुराणान् सोमान्यथापिबस्तथैवैवमिमस्मदीयं
+> सोमं पाहि । पिब । स च सोमस्त्वया पीतः सन् त्वा त्वां मंदतु । मदयतु ।
+> ब्रह्मास्माभिः कृतं स्तोत्रं श्रुधि । शृणु । उतापि च गीर्भिः स्तुतिरूपाभिर्वाग्निर्ववृधस्व । त्वं वर्धस्व । अपि च सूर्यं सर्वस्य प्रेरकं देवमाविष्कृणुहि । आविष्करु।
+> वयं सूर्यं यथा पश्येम तथा कुर्वित्यर्थः । इषोऽन्नानि च पीपिहि । अस्मभ्यं
+> प्यायय । शत्रूनस्मत्सपत्नान् जहि । नाशय । हे इंद्र त्वं पणिभिरपहृता गा अभि
+> शृंधि । प्रकाशय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, as you drank the ancient Somas of former times, so drink this Soma of ours. May that Soma, drunk by you, exhilarate you. Hear the praise made by us, and increase by our praises in the form of words. Make manifest also Sūrya, the god who impels all; that is, act so that we may see the sun. Nourish us with foods; make them swell for us. Slay our rivals the enemies; destroy them. O Indra, make manifest the cows carried off by the Paṇis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रश्नधा (*praśnadhā*)—just as you drank the former Soma juices
+- एव (*eva*)—also the juice now offered
+- पाहि (*pāhi*)—drink
+- त्वा (*tvā*)—you
+- मंदतु (*maṃdatu*)—may this juice satisfy
+- ब्रह्म (*brahma*)—our praise
+- श्रुधि (*śrudhi*)—hear
+- उत (*uta*)—and
+
+### Printed p. 656
+
+- गीर्भिः (*gīrbhiḥ*)—by our praises
+- ववृधस्व (*vavṛdhasva*)—grow
+- सूर्यं (*sūryaṃ*)—the sun
+- आविः कृणुहि (*āviḥ kṛṇuhi*)—make manifest
+- इषः (*iṣaḥ*)—foods
+- पीपिहि (*pīpihi*)—bring to us
+- शत्रून् (*śatrūn*)—our enemies
+- जहि (*jahi*)—destroy
+- इंद्र (*iṃdra*)—O Indra
+- गाः (*gāḥ*)—the cows carried off
+- अभि तृंधि (*abhi tṛṃdhi*)—cause to come back
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, just as you drank the former Soma juices, drink also the juice now offered. May this juice satisfy you. Hear our praise. And grow by our praises. Make the sun manifest. Bring foods to us. Destroy our enemies. O Indra, cause the cows that were carried off to come back.
+
+##### English translation
+Drink it as of old, and may it exhilarate you : hear our prayer, and be exalted by our praises ; make the sum visible, nourish us with food, destory our enemies, rescue the cattle.
+
+In this Ṛk also Indra is prayed to drink Soma. Just as in many earlier sacrifices Indra drank Soma and favoured the sacrificers, so now too he is prayed to drink Soma and release the cows carried off by the Paṇis. And it is also stated here that after Indra released the cows, he set the sun, which had been covered by darkness, in the atmosphere and made it shine.**NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते त्वा॒ मदा॑ बृ॒हदिं॑द्र स्वधान इ॒मे पी॒ता उ॑क्षयंत  ॒॑
+> द्युमंतं ।  
+> म॒हामनू॑नं त॒वसं॒ विभू॑तिं मत्स॒रासो॑ जह्र्ऋषंत प्र॒साहं॑ ॥ ४ ॥
+
+### Printed p. 657
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । त्वा । मदाः । बृहत् । इंद्र । स्वधावः । इमे । पीताः । उक्षयंत । द्युमंतं ।  
+> महां । अनूनं । तवसं । विभूतिं । मत्सरासः । जह्र्हषंत । प्रसहं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्वधावोऽन्नवन्निंद्र मदा मदकरास्त इमे पीताः सोमा द्युमंतं
+> दीप्तिमंतं त्वा त्वां बृहदत्यंतमुक्षयंत । सेचयंतु । अपि च हे इंद्र त्वां
+> मत्सरासो मदकराः सोमा जह्र्हषंत । भृशं हर्षयंतु । कीदृशं । महां
+> महांतं प्रभूतमनूनं सर्वगुणैन्यूनतारहितं । संपूर्णगुणमित्यर्थः । तवसं
+> प्रवृद्धं विभूतिं विभवंतं प्रसाहं शत्रूणामभिभवितारं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, possessed of food, these intoxicating Somas that have been drunk make you, the resplendent, exceedingly drenched; may they sprinkle you. And further, O Indra, may the intoxicating Somas greatly gladden you. What kind of you? Great and abundant; अनूनं (*anūnaṃ*), not deficient in any of the qualities, that is, of complete qualities; mighty, grown great; glorious, possessed of power; the overcomer of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधावः (*svadhāvaḥ*)—possessed of food
+- इंद्र (*iṃdra*)—O Indra
+- मदाः (*madāḥ*)—intoxicating
+- पीताः (*pītāḥ*)—and drunk
+- ते इमे (*te ime*)—these Soma juices
+- द्युमंतं (*dyumaṃtaṃ*)—you who are resplendent
+- त्वां (*tvāṃ*)—you
+- बृहत् (*bṛhat*)—exceedingly
+- उक्षयंत (*ukṣayaṃta*)—may they fill
+- मत्सरासः (*matsarāsaḥ*)—these intoxicating Soma juices
+- महां (*mahāṃ*)—great-souled
+- अनूनं (*anūnaṃ*)—endowed with all qualities
+- तवसं (*tavasaṃ*)—grown great
+- विभूतिं (*vibhūtiṃ*)—possessed of power
+- प्रसाहं (*prasāhaṃ*)—assailant of enemies, you
+- जर्हृषंत (*jarhṛṣaṃta*)—may they gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of food, may these Soma juices, which are intoxicating and have been drunk, fill you, the resplendent, exceedingly. May these intoxicating Soma juices gladden you, who are great-souled, endowed with all qualities, grown great, possessed of power, assailant of enemies.
+
+##### English translation
+Abounding in food, Indra, let these exhilarating draughts copiously bedew you, the resplendent : let the inebriating juices delight you, who are mighty, deficient in no (excellence), powerful, manifold, the overcomer of foes.
+
 ---
 
-**Progress note:** Done through printed p. 651. Ṛk 48 pada, bhāṣya, notes; end of adhyāya 5 colophon; adhyāya 6 introduction, Indra etymologies; sūkta 17 introduction
+**Progress note:** Done through printed p. 657. Sūkta 17 Ṛks 1-4
