@@ -27990,6 +27990,270 @@ Indra achieves one act to-day, another to-morrow, evil and good repeatedly : may
 > तं त्वा॒भिः सु॑ष्टु॒तिभि॑र्वा॒जयं॑त आ॒जिं न ज॑ग्मुर्गिवार्वाहो॒  ॑
 > अश्वाः ॥ ६ ॥
 
+### Printed p. 792
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । त्वत् । आपः । न । पर्वतस्य । पृष्ठात् । उक्तेभिः । इंद्र । अनयंत । यज्ञैः ।  
+> तं । त्वा । अभिः । सुस्तुतिभिः । वाजयंतः । अजिं । न । जग्मुः । गिर्वाहः । अश्वाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वत्त्वत्सकाशादुक्कॆभिरुक्कैः शस्त्रैर्यज्ञैर्हविर्भिश्च स्तोतारः
+> कामानात्मनो व्यनयंत । विविधं प्रापयंति । तत्र दृष्टांतः । पर्वतस्याद्रेः
+> पृष्ठादुपरिभागादापो न आप उदकानि यथा तद्वत् । अपि च हे गिर्वाहो गीर्भिः
+> स्तुतिरूपाभिर्वाग्निर्वहनीयेंद्र तं प्रसिद्धं त्वा त्वां वाजयंतो बलिनं
+> कुर्वंतः । यद्वा । वाजमन्नमिच्छंतो भरद्वाजाः स्तोतार अभिः पूर्वोक्ताभिः
+> सुष्टुतिभिः शोभनाभिः स्तुतिभिर्जग्मुः । प्रापुः । क्षिप्रगमने दृष्टांतः । अश्वा वाहा
+> अजिं न संग्रामं यथा शीघ्रं प्रापुस्तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the worshippers, with uktha-recitations, that is, with hymns of praise (śastras), and with sacrifices, that is, with oblations, draw their desires from you and bring them in many ways to themselves, just as waters come down from the upper part of a mountain. Further, O Indra, who are borne by hymns (गिर्वाहः (*girvāhaḥ*): carried by praise-words), the well-known you, whom they make strong, or else, desiring food (vāja), the Bharadvājas, the praisers, approach with these aforesaid excellent praises, as horses, the bearers, quickly reach the battle. This is the illustration of swift going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra!
+- पर्वतस्य (*parvatasya*)—of the mountain
+- पृष्ठात् (*pṛṣṭhāt*)—from the upper part
+- आपः न (*āpaḥ na*)—as waters flow swiftly down
+- त्वत् (*tvat*)—from you
+- उक्षेभिः (*ukṣebhiḥ*)—with the śastra-mantras
+- यज्ञैः (*yajñaiḥ*)—with offerings of oblation
+- वि अनयंत (*vi anayaṃta*)—(the sacrificers) make the things they desire come down
+- गिर्वाहः (*girvāhaḥ*)—O Indra, borne by praises
+- अश्वाः (*aśvāḥ*)—horses
+- आजिं न (*ājiṃ na*)—as they go swiftly to the battle and join it
+- वाजयंतः (*vājayaṃtaḥ*)—the seers who desire food
+- तं त्वा (*taṃ tvā*)—you, the well-known
+- अभिः सुष्टुतिभिः (*abhiḥ suṣṭutibhiḥ*)—with these praises, praying
+- जग्मुः (*jagmuḥ*)—they attain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as waters flow swiftly down from the upper part of a mountain, the sacrificers obtain the things they desire by worshipping you with their śastra-mantras and with oblations. O Indra, who are borne by praises, as horses go swiftly to battle and join it, the seers who desire food pray to you, the well-known, with these praises and attain you.
+
+##### English translation
+By praises and by sacrifices, Indra, (men) bring down (what they desire) from you, as waters (descend) from the top of the mountain:
+
+### Printed p. 793
+
+desirous of food, they approach you, who are accessible by praise, with these their eulogies, as (eagerly as) coursers rush to battle.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यं जरं॑ति श॒रदो॒ न मासा॒ न द्याव॒ इंद्र॑मवक॒र्शयं॑ति ।  
+> वृ॒द्धस्य॑ चिद्वर्धतामस्य त॒नूः स्तोमे॑भिरु॒क्थैश्च॑ श॒स्यमा॑ना ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यं । जरंति । शरदः । न । मासाः । न । द्यावः । इंद्रं । अव्यकर्शयंति ।  
+> वृद्धस्य । चित् । वर्धतां । अस्य । तनूः । स्तोमेभिः । उक्थैः । च । शस्यमाना ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शरदः संवत्सरा यमिंद्रं न जरंति न जरयंति नापक्षीणयंति । तथा
+> मासाश्च नापक्षीणयंति । तथा द्यावो दिवसाश्च यमिंद्रं नावकर्शयंति नाल्वेभावयंति वृद्धस्य चित् प्रवृद्धस्याप्यस्येंद्रस्य तनूः शरीरं स्तोमेभिरस्मदीयैः
+> स्तोत्रैरुक्थैश्च शस्त्रैश्च शस्यमाना स्तूयमाना सती वर्धतां । व्रवृद्धा भवतु ॥
+
+##### Gist of the bhāṣya
+
+The years (शरदः (*śaradaḥ*)) do not make Indra old; they do not wear him away. Likewise the months do not wear him away, and likewise the days do not diminish him **NOTE**. Of this Indra, grown great as he is, may the body, being praised with our hymns (stoma) and with the uktha-recitations (śastras), grow; may it become greatly increased.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं इंद्रं (*yaṃ iṃdraṃ*)—which Indra
+- शरदः (*śaradaḥ*)—the years
+- जरंति (*jaraṃti*)—make wear away, (do not) 
+- मासाः (*māsāḥ*)—the months (do not make him slack)
+- द्यावः (*dyāvaḥ*)—the days also
+- न अवकर्शयंति (*na avakarśayaṃti*)—do not make him waste away; such
+- वृद्धस्य चित् (*vṛddhasya cit*)—of the one who has grown great
+- अस्य (*asya*)—of this same Indra
+- तनूः (*tanūḥ*)—the body
+- स्तोमेभिः (*stomebhiḥ*)—with our praises
+- उक्थैश्च (*ukthaiśca*)—and with śastra-mantras
+- शस्यमाना (*śasyamānā*)—being praised
+- वर्धतां (*vardhatāṃ*)—let it attain increase
+
+##### भावार्थ (Bhāvārtha)
+
+May the body of that same Indra, who has grown great and whom neither years, nor months, nor days can make slack or waste away, be praised by our hymns and by our śastras and attain increase.
+
+### Printed p. 794
+
+##### English translation
+May the person of that vast Indra, celebrated by praises and prayers, ever increase; Indra, whom neither years nor months make old, nor days enfeebl.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न वी॒ळवे॒ नम॑ते॒ न स्थि॒राय॒ न शर्ध॑ते॒ दस्यु॑जूताय स्त॒वान् ।  
+> अज्रा॒ इंद्र॑स्य गि॒रिय॑श्चिदृ॒ष्ट्वा गं॑भी॒रे चि॑द्भवति गा॒धम॑स्मै ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । वीळवे । नमते । न । स्थिराय । न । शर्धते । दस्युजूताय । स्तवान् ।  
+> अज्राः । इंद्रस्य । गिरयः । चित् । ऋष्वाः । गंभीरे । चित् । भवति । गाधं । अस्मै ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तवानस्माभिः स्तूयमान इंद्रो वीळवे दृढगात्राय यजमानाय न
+> समते । न वशीभवति । स्थिराय युद्धेऽविचलिताय च न नमते । शर्धते उत्सहमानाय दस्युजूताय कर्मवर्जितैः प्रेरिताय यजमानाय न वशीभवति । यद्यपि
+> स्तोतारो बहुगुणाः संति तथापींद्रस्तेभ्यो दस्युसहितेभ्यो न वशीभवतीत्यर्थः।
+> अपि च ऋष्वा महांतो गिरयश्चित्पर्वता अपींद्रस्याज्राः सुगमनाः क्षेपणीया
+> भवंति । गंभीरे चिदगाधेऽपि स्थानेऽस्मा इंद्राय गाधमेव स्थानं विषयो भवति ॥
+
+##### Gist of the bhāṣya
+
+Indra, being praised by us, does not bend, that is, does not come under the power of, the sacrificer who is of firm body; nor does he bend to one who is steady and unshaken in battle. To the sacrificer who is bold and is impelled by Dasyus, that is, by those devoid of rites, he does not submit. The meaning is that although such praisers have many merits, Indra does not come under the power of those who are joined with Dasyus. Further, mountains, great as they are, become easy to go over, easy to cross, for Indra; and even in a deep, unfathomable place there is for this Indra a shallow, a ford, as his domain. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तवान् (*stavān*)—Indra, who is praised by us
+- वीळवे (*vīḷave*)—even to one with a firm body
+- न नमते (*na namate*)—does not submit and bow
+- स्थिराय (*sthirāya*)—to an enemy of firm strength
+- न (*na*)—does not submit
+- शर्धते (*śardhate*)—who has attained zeal through strength
+- दस्युजूताय (*dasyujūtāya*)—even to a man devoid of rites
+- न (*na*)—does not submit
+- ऋष्वाः (*ṛṣvāḥ*)—of great form
+- गिरयश्चित् (*girayaścit*)—mountains also
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- अज्राः (*ajrāḥ*)—are easily traversable
+- गंभीरे चित् (*gaṃbhīre cit*)—even in the very deep sea
+- अस्मै (*asmai*)—for this Indra
+- गाधं (*gādhaṃ*)—a land region
+- भवति (*bhavati*)—is found
+
+### Printed p. 795
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is praised by us, does not submit and bow to one of firm body. He does not submit even to an enemy of firm strength. Mountains of great form are easily traversable for Indra. Even in the very deep sea a land region (a bottom) is found for this Indra.
+
+##### English translation
+Glorified by us, he bows not down to the robust, nor to the resolute, nor the persevering (worshipper) who is instigated by the (irreligious) Dasyus : the lofty mountains are easy of access to Indra ; to him there is a bottom in the (lowest) deep.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गं॒भी॒रेण॑ न उ॒रुणा॑मत्रि॒न्वेषो यं॑धि सुतपाव॒न्वाजा॑न् ।  
+> स्था ऊ॒ षु ऊ॒र्ध्व ऊ॒ती अरि॑षण्यन्न॒ क्तोर्व्यु॑ष्टौ॒ परि॑तक्क्यायां ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गंभीरेण । नः । उरुणा । अमत्रिन् । प्र । इषः । यंधि । सुतपावन् । वाजान् ।  
+> स्थाः । ऊं इति । सु । ऊर्ध्वः । ऊती । अरिषण्यन् । अक्टोः । विउष्टौ । परितक्क्यायां ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमत्रिन्! अमत्रं बलं। तद्वन् हे सुतपावन् सुतस्य सोमस्य पातरिंद्र
+> गंभीरेण केनापि दुरवगाहेनोरुणा विस्तीर्णेस मनसा नोऽस्मभ्यमिषोऽन्नानि
+> वाजान्बलानि च प्रयंधि । प्रयच्छ । किंचाक्तो रात्रेव्युष्टौ विवासेऽहि परितक्म्यायां रात्र्ये हे इंद्र त्वमूती अस्माकं रक्षाय्कॆ हे इंद्र अरिषण्यन्नहिंसंस्त्वमूर्ध्व उद्युक्तः स्था ऊ षु । सुष्टु तिष्ठैव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, possessor of amatra, that is, of strength, O drinker of the pressed Soma, grant us, with some profound, hard-to-fathom and wide mind, foods and strengths. Further, at the dawning of night and in the night, O Indra, for our protection, being without harm to us, stand ready and firm. **NOTE**
+
+### Printed p. 796
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमत्रिन् (*amatrin*)—O mighty one
+- सुतपावन् (*sutapāvan*)—O Indra, drinker of Soma
+- गंभीरेण (*gaṃbhīreṇa*)—with profound
+- उरुणा (*uruṇā*)—and wide resolve **NOTE**
+- नः (*naḥ*)—to us
+- इषः (*iṣaḥ*)—foods
+- वाजान् (*vājān*)—and strengths
+- प्रयंधि (*prayaṃdhi*)—provide
+- अक्तोः व्युष्टौ (*aktoḥ vyuṣṭau*)—when night has passed and it is day
+- परितक्क्यायां (*paritakkyāyāṃ*)—when it is night
+- अरिषण्यन् (*ariṣaṇyan*)—without harm
+- ऊती (*ūtī*)—for our protection
+- ऊर्ध्वः (*ūrdhvaḥ*)—ready
+- स्था ऊषु (*sthā ūṣu*)—and stand firm
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, mighty one and drinker of Soma, provide us with foods and strengths by your profound and wide resolve. In the time of night and in the time of day, remaining without harm, be ready for our protection.
+
+##### English translation
+Powerful Indra, drinker of the Soma juice, (actuated) by a profound and comprehensive (purpose), grant us food and strength: be ever diligent, benevolent Indra, for our protection by day and by night.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सच॑स्व ना॒यमव॑से अ॒भीक॑ इ॒तो वा॒ तमिं॑द्र पाहि रि॒षः ।  
+> अ॒मा चै॑न॒मर॑ण्ये पाहि रि॒षो मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सचस्व । नायं । अवसे । अभीके । इतः । वा । तं । इंद्र । पाहि । रिषः ।  
+> अमा । च । एनं । अरण्ये । पाहि । रिषः । मदेम । शतहिमाः । सुवीराः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नायं कर्मणां स्तुतीनां च नेतारमभीके संग्रामेवसे
+> रक्षणाय सचस्व । सेवस्व । इतो वास्मात्संनिकृष्णाच्च रिषः शत्रोरमुतो विप्रकृष्टा-
+
+### Printed p. 797
+
+> च्छत्रोश्च । वाशब्दोऽनुक्तेन विवक्षितेन समुच्चयः । हे इंद्र तं स्तोतारं पाहि ।
+> रक्ष । तथामा च गृहे च । अमेति गृहनाम । अरण्ये कानने च रिषः शत्रोः पाहि ।
+> तं रक्ष । तदनंतरं सुवीराः शोभनपुत्रा वयं शतहिमाः शतसंवत्सरान्मदेव ।
+> हृष्याम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, accompany, that is, attend, the leader of rites and praises in battle for his protection. From the enemy (रिषः (*riṣaḥ*)), whether near at hand or far away, the particle वा (*vā*) joining the unexpressed alternative that is meant, protect that praiser. Likewise, protect him from the enemy in the house, अमेति गृहनाम (*ameti gṛhanāma*), and in the forest. After that, may we, blessed with good sons, rejoice for a hundred winters, that is, for a hundred years.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra!
+- नायं (*nāyaṃ*)—the sacrificer who leads the rites
+- अभीके (*abhīke*)—in battle
+- अवसे (*avase*)—for protection
+- सचस्व (*sacasva*)—follow (stay with him)
+- इतो वा (*ito vā*)—whether he be near at hand (or far away)
+- रिषः (*riṣaḥ*)—from the enemy
+- तं (*taṃ*)—that praiser
+- पाहि (*pāhi*)—protect
+- आमा चॆ (*āmā cè*)—in the house
+- अरण्ये (*araṇye*)—and in the forest
+- रिषः (*riṣaḥ*)—from the enemy
+- एनं (*enaṃ*)—this sacrificer
+- पाहि (*pāhi*)—protect
+- सुवीराः (*suvīrāḥ*)—we, endowed with excellent heroic sons
+- शतहिमाः (*śatahimāḥ*)—for a hundred years
+- मदेम (*madema*)—may we enjoy happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, follow the sacrificer who leads the rites, and stay with him in battle for his protection. Protect that praiser from the enemy, whether near at hand or far away. Protect him from all enemies in the house and in the forest. May we, endowed with excellent heroic sons, enjoy happiness for a hundred years.
+
+##### English translation
+Accompany, Indra, the leader in battle for his protection; defend him against a near (or distant) foe; protect him from an enemy, whether in (his) house or in a forest, and may we, blessed with excellent male descendants, be happy for a hundred winters.
+
+## Sūkta 25 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या त ऊतिरिति नवर्चं द्वितीयं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं ।
+> तथा चानुक्रांतं । या ते नवेति ॥ पृष्ठ्याभिप्लवषडहयोर्द्वितीयेऽहनीदं सूक्तं
+> निष्केवल्यनिविद्वानं । सूत्रितं च । या त ऊतिरवमेति मध्यंदिनः । आ. ७-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta या त ऊतिरिति (*yā ta ūtiriti*) is the second sūkta of nine Ṛks. Its seer is Bharadvāja, its metre is Triṣṭubh, its deity is Indra. So it is stated in the Anukramaṇī: या ते नवेति (*yā te naveti*). On the second day of the Pṛṣṭhya and Abhiplava ṣaḍahas this sūkta is the nivid-place of the niṣkevalya-śastra. It is also given in the Sūtra: या त ऊतिरवमेति मध्यंदिनः (*yā ta ūtiravameti madhyaṃdinaḥ*), Ā. 7-6.
+
 ---
 
-**Progress note:** Done through printed p. 791. Mandala 6 sukta 24 rks 2-6 (pp. 786-791)
+**Progress note:** Done through printed p. 797. Ṛk 6 end to Ṛk 10 of Sūkta 24, start of Sūkta 25 intro (pp. 792-797)
