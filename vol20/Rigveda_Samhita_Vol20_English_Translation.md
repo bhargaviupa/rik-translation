@@ -24015,6 +24015,220 @@ Today, now also, O Indra, the deed done by you shines forth. What is it? It is t
 - यत् (*yat*)—what great deed you have done
 - ते (*te*)—your
 
+### Printed p. 694
+
+- शत् (*śat*)—such
+- कृतं करणं (*kṛtaṃ karaṇaṃ*)—deed
+- अद्य (*adya*)—even now
+- प्र भूत् (*pra bhūt*)—is famous
+- अस्मै (*asmai*)—to this Atithigva
+- पुरु (*puru*)—abundant
+- सहस्रा (*sahasrā*)—wealth numbering thousands
+- नि शिशाः (*ni śiśāḥ*)—you have given
+- धृषता (*dhṛṣatā*)—by your enemy-destroying power
+- क्षां अभि (*kṣāṃ abhi*)—who had fallen facing the earth
+- तूर्वयाणं (*tūrvayāṇaṃ*)—swift in going (Divodāsa)
+- उत् निनेथ (*ut ninetha*)—you have lifted up (protected)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, that great deed which you did to protect Kutsa, Āyu and Atithigva from their respective enemies is famous even now. To this Atithigva you have given exceedingly abundant wealth. By your enemy-destroying power you have lifted up and protected Divodāsa, who, swift in going, had fallen facing the earth.
+
+##### English translation
+That exploit is celebrated in the present day (which you have) achived for Kutsa, for Ayu, for Atithigvan : to him you have given many thousands (of riches), and you have quickly elevated Turvayana over the earth by your power.
+
+कुत्सं आयुं अतिथिग्वं (*kutsaṃ āyuṃ atithigvaṃ*)—Here the matter of these three persons will be discussed and explained together.
+
+Sāyaṇa's explanation shows that two kinds of meaning can be given here for the word कुत्स (*kutsa*). First, कुत्सं-कर्तनसाधनं (*kutsaṃ-kartanasādhanaṃ*), "the cutting instrument," as an epithet of the thunderbolt; and second, कुत्सं कुत्सनामानं ऋषिं (*kutsaṃ kutsanāmānaṃ ṛṣiṃ*), the ṛṣi named Kutsa. If it is taken to mean the ṛṣi, it becomes praise of Indra that he killed the asura Śuṣṇa and helped Kutsa.
+
+That the relation between Kutsa and Indra is extremely close is known from the descriptions in the Ṛksaṃhitā. The epithet आर्जुनेय (*ārjuneya*) for Kutsa occurs in many places. The word आर्जुनेय (*ārjuneya*) may mean the son of a woman named Arjunī. Or else, अर्जुन इतींद्रस्य नाम । तस्य पुत्रः (*arjuna itīṃdrasya nāma | tasya putraḥ*): Indra has the name Arjuna, and since Kutsa is his son, the epithet Ārjuneya is natural; thus the meaning can be given in another way. To support that Indra has the name Arjuna, Sāyaṇa, in some places,
+
+### Printed p. 695
+
+has cited the Vājasaneyi-saṃhitā mantra एतद्वा इंद्रस्य गुह्यं नाम यदर्जुनः । (*etadvā iṃdrasya guhyaṃ nāma yadarjunaḥ |*) **GLOSS**. But in the Ṛks
+
+अहं कुत्समार्जुनेयं न्यृंजेऽहं कविरुशना पश्यता मा । (*ahaṃ kutsamārjuneyaṃ nyṛṃje 'haṃ kaviruśanā paśyatā mā |*) (Ṛ. Saṃ. 4-26-1) **GLOSS**
+
+दासं यच्चुष्णं कुयवं न्यस्मा अरंधय आर्जुनेयाय शिक्षन् । (*dāsaṃ yaccuṣṇaṃ kuyavaṃ nyasmā araṃdhaya ārjuneyāya śikṣan |*) (Ṛ. Saṃ. 7-19-2) **GLOSS**
+
+वहत्कुत्समार्जुनेयं शतक्रतुः त्वरद्गंधर्वमस्तृतं । (*vahatkutsamārjuneyaṃ śatakratuḥ tvaradgaṃdharvamastṛtaṃ |*) (Ṛ. Saṃ. 8-1-11) **GLOSS**
+
+for all the आर्जुनेय (*ārjuneya*) words occurring in them, Sāyaṇa too has explained as अर्जुन्याः पुत्रं कुत्सं । (*arjunyāḥ putraṃ kutsaṃ |*), that is, Kutsa, the son of the woman Arjunī. Since it is said in other Śrutis that the words Arjuna and Ārjunī are connected with Indra, it can be said that the above two explanations give one and the same meaning. For example—
+
+फल्गुनीष्वग्नी आदधीत । एता वा इंद्रनक्षत्रं यत्फलुन्नोऽप्यस्य प्रतिनाम (*phalgunīṣvagnī ādadhīta | etā vā iṃdranakṣatraṃ yatphalunno 'pyasya pratināma*) (Śa. Brā. 2-1-2-1)
+
+इंद्रो भवति यच्च क्षत्रियो यदु च यजमानस्तस्मादाहारिष्टोऽर्जुन इति । (*iṃdro bhavati yacca kṣatriyo yadu ca yajamānastasmādāhāriṣṭo 'rjuna iti |*) (Śa. Brā. 5-4-3-7) **GLOSS**
+
+The Phalgunis are Indra's nakṣatras. There is agreement in the name also: Indra has the name Arjuna, and the Phalgunis too have the name Arjunis; since this is said in the Śatapatha Brāhmaṇa and in other places, it can be said that Kutsa may be called in two ways, as Indra's son and as Arjunī's son. In many places in the Ṛksaṃhitā the relation between Indra and Kutsa is shown by saying that Kutsa conquers his enemies with Indra's help only.
+
+त्वं शुष्णं वृजने पृक्ष आणौ यूने कुत्साय द्युमते सचाहन् । (*tvaṃ śuṣṇaṃ vṛjane pṛkṣa āṇau yūne kutsāya dyumate sacāhan |*) (Ṛ. Saṃ. 1-63-3)
+
+कुत्साय यत्र पुरूहूत वन्वञ्छुष्ण मनंतैः परियासि वध्यैः । (*kutsāya yatra purūhūta vanvañchuṣṇa manaṃtaiḥ pariyāsi vadhyaiḥ |*) (Ṛ. Saṃ. 1-121-9)
+
+In these Ṛks, and likewise in many other places, there is the description that Indra killed Śuṣṇa to help Kutsa. And,
+
+### Printed p. 696
+
+अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रंधयं । (*ahaṃ piteva vetasūrabhiṣṭaye tugraṃ kutsāya smadibhaṃ ca raṃdhayaṃ |*) (Ṛ. Saṃ. 10-49-4)
+
+Indra himself says: "For Kutsa I defeated Vetasu, Tugra, Smadibha and all such enemies, and helped my friend." But,
+
+त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने आरंधनायः । (*tvamasmai kutsamatithigvamāyuṃ mahe rājñe yūne āraṃdhanāyaḥ |*) (Ṛ. Saṃ. 1-53-10)
+
+य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे । (*ya āyuṃ kutsamatithigvamardayo vāvṛdhāno divedive |*) (Ṛ. Saṃ. 8-53-10)
+
+In such Ṛks it is also described that Indra defeated Kutsa and others.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ त्वाहि॑ष्टे॒ अध॑ देव दे॒वा मद॒न्विश्वे॑ क॒वित॑मं कवी॒नां ।  
+> करो॒ यत्र॒ वरि॑वो बाधि॒ताय॑ दि॒वे जना॑य त॒न्ने॑ गृणा॒नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । त्वा । अहिघ्ने । अध । देव । देवाः । मदन् । विश्वे । कवितमं । कवीनां ।  
+> करः । यत्र । वरिवः । बाधिताय । दिवे । जनाय । तन्ने । गृणानः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनुक्रीनाम्मेकाहे मरुत्वतीयशस्त्रेऽनु त्वाहिघ्न इति सूक्तमुखीया ।
+> सूत्रितं च । अनु त्वाहिघ्ने अध देव देवा अनु ते दायि मह इंद्रियाय ।
+> आ. ९-५ । इति ॥
+> हे देव द्योतमानेंद्र त्वा त्वामधास्मिन्काले विश्वे सर्वॆ देवाः स्तोतारोऽहिघ्ने मेघहननाय । वृष्टिप्रदानायेत्यर्थः । अनु मदन् । अनुमदंति ।
+> अनुस्तुवंति । कीदृशं त्वां । कवीनां मेधाविनां मध्यॆ कवितममत्यंतं कविं ।
+> यत्र यस्मिन्काले गृणानः स्तोतृभिः स्तूयमानस्त्वं बाधिताय दारिद्रादिभिः
+
+##### Gist of the bhāṣya
+
+Use: in the ekāha called अनुक्रीनाम्मेकाहे (*anukrīnāmmekāhe*) **NOTE**, in the Marutvatīya śastra, the verse अनु त्वाहिघ्न (*anu tvāhighna*) is the opening verse of the sūkta. And it is aphorized: अनु त्वाहिघ्ने अध देव देवा अनु ते दायि मह इंद्रियाय । (*anu tvāhighne adha deva devā anu te dāyi maha iṃdriyāya |*) Ā. Sū. 9-5. O shining Indra, at this time all the gods, the praisers, join in praising you for the slaying of Ahi, that is, of the cloud, that is, for the giving of rain. Of what sort are you? The most wise poet among the wise. At the time when you, praised by the praisers, give wealth to the person afflicted by poverty and the like,
+
+### Printed p. 697
+
+> पीडिताय दिवे स्तोत्रे जनाय तन्ने स्तोत्यणां तनयाय च वरिवो धनं करः
+> अकरोः आददाः । अथवा हे देवेंद्र अधास्मिन्काले विश्वे सर्वॆ देवाः सुराः ।
+> अहिर्वृत्र एवोच्यते । तस्य हननाय कवीनां कवितमं त्वामनुमदंति । यत्र
+> यस्मिन् स्तोत्रे सति बाधितायासुरैः पीडिताय दिवे द्युलोकनिवासाय जनाय.
+> तन्ने शोभाय्कॆ वृत्रहननेन तव शोभार्थं वरिवश्चकर्थ ॥
+
+##### Gist of the bhāṣya
+
+to the praising person, and to the descendants of the praisers, you made, that is, gave, wealth. Or else: O Indra, at this time all the gods join in praising you, the most wise of the wise, for the slaying of Ahi, that is, of Vṛtra himself. When this praise is made, to the person who dwells in the world of heaven and was oppressed by the asuras, for his splendour, for your own splendour by the slaying of Vṛtra, you made wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining Indra
+- यत्र (*yatra*)—at what time
+- गृणानः (*gṛṇānaḥ*)—you who are praised
+- बाधिताय (*bādhitāya*)—afflicted by poverty
+- दिवे जनाय (*dive janāya*)—to the praising folk
+- तन्ने (*tanne*)—and to his sons and others
+- वरिवः (*varivaḥ*)—wealth
+- करः (*karaḥ*)—you have given
+- अध (*adha*)—at such a time
+- कविनां (*kavināṃ*)—among all the wise
+- कवितमं (*kavitamaṃ*)—the most wise
+- त्वा (*tvā*)—you
+- विश्वे देवाः (*viśve devāḥ*)—all the praisers
+- अहिघ्ने (*ahighne*)—for the destruction of Vṛtra
+- अनु मदन् (*anu madan*)—gather together and praise
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Indra, at the time when you, praised by the praisers, give wealth to the praising folk afflicted by poverty and to their sons and others, at such a time all the praisers, gathering together, praise you, the best poet among poets, for the destruction of Vṛtra.
+
+##### English translation
+Divine Indra, all the gods have glorified you, the wisest of the wise, for the destruction of Ahi: when propitiated, you have given wealth to the distressed worshipper, and to his posterity.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ द्यावा॑पृथि॒वी तत्त॒ ओजोऽम॑र्त्या जिहत इंद्र दे॒वाः ।  
+> कृ॒ष्वा कृ॑त्नो॒ अकृ॑तं॒ यत्ते॒ अस्तु॒क्ष्यं नवी॑यो जनयस्व  ॒
+> यज्ञैः ॥ १५ ॥
+
+### Printed p. 698
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । द्यावापृथिवी इति । तत् । ते । ओजः । अमत्यार्कः । जिहते । इंद्र । देवाः ।  
+> कृष्ण । कृत्नो इति । अकृतं । यत् । ते । अस्ति । उक्तं । नवीयः । जनयस्व ।  
+> यज्ञैः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयं तत्पसिद्धमोजो बलं द्यावापृथिवी अनु जिहाते ।
+> अमर्त्या अमरणधर्माणो देवास्त्वदीयं बलमनु जिहते । अनुगच्छंति । हे
+> कृत्नो बहूनां कर्मणां कर्तस्ते त्वदीयमकृतं यत्कर्मास्ति तत्कृष्ट । कुरुष्ट ।
+> तदनंतरं यज्ञैर्यज्ञेषु नवीयो नवतरमुक्थं स्तोत्रं जनयस्व ॥
+
+##### Gist of the bhāṣya
+
+O Indra, that famed might of yours, heaven and earth follow. The immortal gods, those who are not subject to death, follow your might, that is, go after it. O doer of many deeds, whatever deed of yours is not yet done, do it. After that, in the sacrifices, bring forth a newer hymn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- तत् (*tat*)—famed
+- ओजः (*ojaḥ*)—might
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अनु जिहते (*anu jihate*)—acknowledge
+- अमर्त्याः (*amartyāḥ*)—deathless
+- देवाः (*devāḥ*)—the gods
+- अनु (*anu*)—acknowledge
+- कृत्नो (*kṛtno*)—O Indra, doer of many deeds
+- ते (*te*)—your
+- अकृतं (*akṛtaṃ*)—not yet done
+- यत् (*yat*)—what deed
+- अस्ति (*asti*)—there is
+- कृष्ण (*kṛṣṇa*)—accomplish that
+- यज्ञैः (*yajñaiḥ*)—in the sacrifices
+- नवीयः (*navīyaḥ*)—new
+- उक्तं (*uktaṃ*)—hymn
+- जनयस्व (*janayasva*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, heaven and earth and the gods have acknowledged your famed might. O Indra, doer of many deeds, now accomplish all those of your deeds that are still not done. In this sacrifice make a new praise.
+
+##### English translation
+The heaven and earth, and the immortal gods acknowledge your might : doer of many deeds, do that which is yet undone by you, give birth to a new hymn at (your) sacrifices.
+
+### Printed p. 699
+
+## Sūkta 19 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महा इंद्र इति त्रयोदशर्चं चतुर्थं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं । अनुक्रांतं च । महान्त्सपोनेति ॥ माध्यंदिने सवने सोमातिरेके
+> शस्त्रं भवति । तत्रेदं सूक्तं । सूत्रितं च । महा इंद्रो नृवद्विष्णोर्नु कं ।
+> आ. ६-७ । इति ॥ समूळ्छे द्वितीये छंदोमे मरुत्वतीयशस्त्र एतत्तूक्तं । सूत्रितं
+> च । महा इंद्रो नृवदिति मरुत्वतीयं । आ. ८-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning महा इंद्र (*mahā iṃdra*) has thirteen Ṛks and is the fourth sūkta; its seer is Bharadvāja, its metre Triṣṭubh, its deity Indra. And the Anukramaṇī says: महान्त्सपोनेति (*mahāntsaponeti*) **NOTE**. In the Mādhyandina savana a śastra is recited in the Somātireka; in it is this sūkta. And it is aphorized: महा इंद्रो नृवद्विष्णोर्नु कं (*mahā iṃdro nṛvadviṣṇornu kaṃ*) Ā. Sū. 6-7. In the second chandoma of the sacrifice named समूळ्छे (*samūḷche*) **NOTE**, in the Marutvatīya śastra, there is this sūkta. And it is aphorized: महा इंद्रो नृवदिति मरुत्वतीयं (*mahā iṃdro nṛvaditi marutvatīyaṃ*) Ā. Sū. 8-7.
+
+The Anuvāda: this sūkta महा इंद्रः (*mahā iṃdraḥ*) is the fourth sūkta in the second anuvāka. It has thirteen Ṛks. Bharadvāja is the seer of this sūkta, Indra the deity, and Triṣṭup the metre. In the Anukramaṇī it is said महान्सप्तोना (*mahānsaptonā*). At the time of the Mādhyandina savana, the use of this sūkta for the Somātireka śastra mantras is set out by the sūtra of the Āśvalāyana Śrauta Sūtra महा इंद्रो नृवद्विष्णोर्नु कं (*mahā iṃdro nṛvadviṣṇornu kaṃ*) (Ā. Sū. 6-7). And in the sacrifice called समूळ्व (*samūḷva*), the use of this sūkta in the Marutvatīya śastra mantras recited for the second chandoma is set out by the sūtra of the Āśvalāyana Śrauta Sūtra महा इंद्रो नृवदिति मरुत्वतीयं (*mahā iṃdro nṛvaditi marutvatīyaṃ*) (Ā. Sū. 8-7).
+
+- Maṇḍala 6, Anuvāka 2, Sūkta 19
+- Aṣṭaka 4, Adhyāya 6, Varga 7, 8
+- Number of Ṛks in the sūkta: 13
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हा इंद्रो॑ नृ॒वदा च॑र्षणि॒प्रा उ॒त द्वि॒बर्हा॑ अमि॒नः  ॑
+> सहोभिः ।  
+> अ॒स्म॒द्र्य॑ग्वावृधे वी॒र्या॑यो॒रुः पृ॒थुः सुकृ॑तः क॒र्तृभि॑र्भूत्॥
+
 ---
 
-**Progress note:** Done through printed p. 693. Dhuni/Chumuri end; Ṛk 9-13 of sūkta 18
+**Progress note:** Done through printed p. 699. Ṛk 13 end, Kutsa/Ārjuneya discussion, Ṛk 14-15 of sūkta 18, sūkta 19 intro and Ṛk 1 saṃhitā
