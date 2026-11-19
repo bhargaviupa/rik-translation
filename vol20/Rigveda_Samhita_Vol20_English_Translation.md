@@ -24687,6 +24687,279 @@ O Indra, with your protections, provide us in battles the strength by which we a
 ##### English translation
 Bestow upon us, Indra, vigorous strength, the realizer of wealth, great and propitious, wherewith, through your protection, we may destroy our enemies in battles, whether they be kinsmen or strangers.
 
+### Printed p. 712
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॒ शुष्मो॑ वृष॒भ ए॑तु प॒श्चादोत्त॒राद॑ध॒रादा पु॒रस्ता॑त् ।  
+> आ वि॒श्वतो॑ अ॒भि समे॑त्व॒र्वाजिंद्र॑ द्यु॒म्नं स्व॑र्वद्धेह्य॒स्मे ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । शुष्मः । वृषभः । एतु । पश्चात् । आ । उत्तरात् । अधरात् । आ । पुरस्तात् ।  
+> आ । विश्वतः । अभि । सं । एतु । अर्वाज् । इंद्र । द्युम्नं । स्वःवत् । धेहि । अस्मे  
+> इति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृषभो वर्षिता ते त्वदीयं शुष्मो बलमर्वाजस्मदभिमुखः सन्
+> पश्चात्पश्चिमभागादैतु । आगच्छतु । उत्तरादुत्तरभागादागच्छतु । आधराद्दक्षिणाच्चैतु ।
+> पुरस्तात्तूर्वभागाच्चागच्छतु । विश्वतः सर्वस्माद्दिग्भागादभि अस्मानभिलक्ष्या समेतु ।
+> सम्यगागच्छतु । हे इंद्र त्वं स्वर्वत्सुखयुक्तं द्युम्नं धनमस्मे अस्मभ्यं धेहि ।
+> प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may your strength, the showerer of benefits, come towards us from the western quarter; may it come from the northern quarter; may it come from the lower, that is the southern, quarter; and may it come from the eastern quarter. May it come to us from every quarter, aiming at us, and unite with us fully. O Indra, grant us wealth that is joined with happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभः (*vṛṣabhaḥ*)—which showers desires
+- ते (*te*)—and is related to you
+- शुष्कः (*śuṣkaḥ*)—strength
+- अर्वाज् (*arvāj*)—facing us
+- पश्चात् (*paścāt*)—from the western quarter
+- आ एतु (*ā etu*)—may it come
+- उत्तरात् (*uttarāt*)—from the northern quarter
+- आ (*ā*)—may it come
+- अधरात् (*adharāt*)—from the southern direction
+- आ (*ā*)—may it come
+- पुरस्तात् (*purastāt*)—from the eastern direction
+- आ (*ā*)—may it come and unite
+- विश्वतः (*viśvataḥ*)—from all directions
+- अभि (*abhi*)—facing us
+- आ समेतु (*ā sametu*)—may it come and join us
+- इंद्र (*iṃdra*)—O Indra
+- स्वर्वत् (*svarvat*)—joined with happiness
+- द्युम्नं (*dyumnaṃ*)—wealth
+- अस्मे (*asme*)—to us
+- धेहि (*dhehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may your strength, which showers desires and is related to you, come to us, facing us, from the western quarter, from the northern quarter, and also from the eastern and southern quarters. May that strength come from all quarters and join us. O Indra, give us wealth that is joined with happiness and productive of happiness.
+
+### Printed p. 713
+
+##### English translation
+May your invigorating strength come from the west, from the north, from the south, from the east; may it come to us from every quarter: grant us riches combined with felicity.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृ॒वत्त॑ इंद्र॒ नृत॑माभिरू॒ती वं॑सी॒महि॑ वा॒मं श्रोम॑तेभिः ।  
+> ईक्षे॒ हि वस्व॑ उ॒भय॑स्य राज॒न्दा रत्नं॒ महि॑ स्थू॒रं बृ॒हंतं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृवत् । ते । इंद्र । नृतमाभिः । ऊती । वंसीमहि । वामं । श्रोमतेभिः ।  
+> ईक्षे । हि । वस्वः । उभयस्य । राजन् । धाः । रत्नं । महि । स्थूरं । बृहंतं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृवन्मनुष्यैः परिचारकजनैर्युक्तं श्रोमतेभिः श्रोतव्यैर्यशोभिः सहितं
+> वामं वननीयं धनं हे इंद्र ते त्वत्तो नृतमाभिर्नेतृतमाभिरूती ऊतिभी
+> रक्षाभिर्वंसीमहि । वयं संभजेमहि । हि यस्मात्कारणात् हे राजन् राजमानेंद्र
+> त्वमुभयस्य पार्थिवस्य दिव्यस्य च वस्वो धनस्येक्षे ईशीषे तस्कात्कारणान्महि महांतं
+> स्थूरं विपुलं बृहंतं गुणैः परिवृढं रत्नं रमणीयं धनं ॥ अत्र रत्नशब्दः
+> पुल्लिंगः ॥ धाः । धेहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we would enjoy, from you, with your best-guiding protections, wealth that is desirable, accompanied by men, that is, by attendants, and by renowned fame to be heard of. Because, O shining king Indra, you rule over both kinds of wealth, that of the earth and that of heaven, for that reason give us great, vast wealth, surpassing in its qualities, delightful.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—given by you
+- नृतमाभिः (*nṛtamābhiḥ*)—with guiding
+- ऊती (*ūtī*)—protections joined
+- नृवत् (*nṛvat*)—and accompanied by sons and the like
+- श्रोमतेभिः (*śromatebhiḥ*)—and joined with fame
+- वामं (*vāmaṃ*)—and attractive
+- धनं (*dhanaṃ*)—wealth
+- वंसीमहि (*vaṃsīmahi*)—may we enjoy
+- राजन् (*rājan*)—O Indra, the lord
+- हि (*hi*)—because
+- उभयस्य (*ubhayasya*)—belonging to both heaven and earth
+- वस्वः (*vasvaḥ*)—of all wealth
+- ईक्षे (*īkṣe*)—you are the master (for that very reason)
+- महि (*mahi*)—great
+- स्फूरं (*sphūraṃ*)—and vast
+- बृहंतं (*bṛhaṃtaṃ*)—and of exceeding qualities
+- रत्नं (*ratnaṃ*)—and delightful, the wealth
+- धाः (*dhāḥ*)—give
+
+### Printed p. 714
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may we enjoy the wealth that is given by you, joined with guiding protections, accompanied by sons and the like, joined with fame, and attractive. O lord Indra, because you are the master of all the wealth that belongs to both heaven and earth, for that very reason give us wealth that is great, vast, of exceeding qualities and delightful.
+
+##### English translation
+We enjoy, Indra, through your guiding protection, desirable affluence along with descendants and reputation: grant us, sovereign, you rule over (earthly and heavenly) riches, vast, desirablr, and infinite treasure.
+
+##### विशेषविषयगळु (Special Topics)
+
+ईक्षे (*īkṣe*)—Concerning this word Yāska has given the etymology: ईक्ष ईशिषे । ईक्षे हि वस्व उभयस्य राजन् इत्यपि निगमो भवति (*īkṣa īśiṣe | īkṣe hi vasva ubhayasya rājan ityapi nigamo bhavati*) (Ni. 6-7). The word ईक्षे (*īkṣe*) has the same meaning as the word ईशिषे (*īśiṣe*), that is, "you exercise lordship, you rule a kingdom". Here the Ṛk in hand itself is given as the example. The meaning of this sentence is: O Indra, the king, you are the lord of all the wealth that lies in the two worlds, heaven and earth.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒रुत्वं॑तं वृष॒भं वा॑वृधा॒नमक॑वारिं दि॒व्यं शा॒समिंद्रं॑ ।  
+> वि॒श्वा॒साह॒मव॑से॒ नूत॑नायो॒ग्रं स॑हो॒दामि॒ह तं हु॑वेनु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुत्वंतं । वृषभं । ववृधानं । अकवऽअरिं । दिव्यं । शासं । इंद्रं ।  
+> विश्वसहं । अवसे । नूतनाय । उग्रं । सहःदां । इह । तं । हुवेम ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इहास्मिन्यज्ञे नूतनायाभिनवायावसे रक्षणाय तं प्रसिद्धमिंद्रं हुवेम ।
+> स्तुमः । आह्वयामो वा । कीदृशं । मरुत्वंतं मरुद्भिर्युक्तं वृषभं कामानां
+
+### Printed p. 715
+
+> वर्षितारं ववृधानं प्रवृद्धमकवारिमकुत्सितशत्रुं दिव्यं द्योतमानं शासं
+> शासितारं विश्वसहं विश्वस्य लोकस्याभिभवितारमुग्रमोजस्विनं सहोदां बलप्रदं ॥
+
+##### Gist of the bhāṣya
+
+Here, in this sacrifice, for new, that is fresh, protection we call upon, that is, we praise or invite, that well-known Indra. Of what kind is he? Attended by the Maruts; the showerer of desires; grown great; one whose enemy is not contemptible; shining; the ruler; the overcomer of the whole world; fierce, that is, mighty; the giver of strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वंतं (*marutvaṃtaṃ*)—who is accompanied by the Maruts
+- वृषभं (*vṛṣabhaṃ*)—the showerer of desires
+- ववृधानं (*vavṛdhānaṃ*)—grown great
+- अकवारिं (*akavāriṃ*)—not to be reviled by enemies
+- दिव्यं (*divyaṃ*)—shining
+- शासं (*śāsaṃ*)—lord
+- विश्वसहं (*viśvasahaṃ*)—controller of the whole world **NOTE**
+- उग्रं (*ugraṃ*)—terrible
+- सहोदां (*sahodāṃ*)—giver of strength
+- तं (*taṃ*)—and well-known
+- इंद्रं (*iṃdraṃ*)—Indra
+- इह (*iha*)—at this time of the sacrifice
+- नूतनाय (*nūtanāya*)—for fresh
+- अवसे (*avase*)—protection
+- हुवेम (*huvema*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+At this time of the sacrifice we pray and call, for fresh protection, that well-known Indra, who is accompanied by the Maruts, the showerer of desires, grown great, not to be reviled by enemies, shining, lord, controller of the world, terrible, and the giver of strength.
+
+##### English translation
+We invoke on this occasion for his present protection, that Indra who is attended by the Maruts; who is the showerer (of benefits); augmenting (in powess); the unreviled of foes, radiant, ruling, all-subduing, fierce, the giver of strength.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जनं॑ वज्रै॒न्महि॑ चि॒न्मन्य॑मानमे॒भ्यो नृभ्यो॑ रंधया॒ येष्वस्मि॑ ।  
+> अधा॒ हि त्वा॑ पृथि॒व्यां शूर॑सातौ॒ हवा॑महे॒ तन॑ये॒ गोष्व॒प्सु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनं । वज्रिन् । महि । चित् । मन्यमानं । विभ्यः । नृभ्यः । रंधय । येषु । अस्मि ।  
+> अध । हि । त्वा । पृथिव्यां । शूरसातौ । हवामहे । तनये । गोषु । अप्सु ॥१२॥
+
+### Printed p. 716
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येषु येषां नृणां मध्येऽहमस्मि एको भवामि हे वज्रिन् वज्रवन्निंद्र
+> त्वमेभ्यो नृभ्यो मनुष्येभ्यो महि महदत्यंतमात्मानं मन्यमानं जनं ।
+> बहुमन्यमानमित्यर्थः । रंधय । वशीकुरु । चिदिति पादपूरणः । अधाधुना पृथिव्यां
+> भूम्यां शूरसात् युद्धे प्रवृत्ते सति तनये पुत्रे निमित्ते च गोषु पशुष्वप्सूदकेषु च निमित्तेषु हे इंद्र त्वा द्युलोके स्थितं त्वां हवामहे । वयमाह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, wielder of the thunderbolt, subdue that person among the men in whose number I am one, who thinks himself exceedingly great, that is, who thinks highly of himself. The word चित् (*cit*) serves to fill out the verse-line. Now, on the earth, when a battle has begun, for the sake of a son, and for the sake of cattle and of water, O Indra, we call upon you who are stationed in the world of heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt weapon
+- येषु (*yeṣu*)—among whichever men
+- अस्मि (*asmi*)—I am also one
+- एभ्यः नृभ्यः (*ebhyaḥ nṛbhyaḥ*)—in such a company of men
+- महि मन्यमानं (*mahi manyamānaṃ*)—who thinks himself the greatest and is proud
+- जनं (*janaṃ*)—the person
+- रंधय (*raṃdhaya*)—subdue
+- अध (*adha*)—now
+- पृथिव्यां (*pṛthivyāṃ*)—on the earth
+- शूरसात् (*śūrasāt*)—when battle has come
+- तनये (*tanaye*)—for the sake of a son
+- गोषु (*goṣu*)—for the sake of cattle
+- अप्सु (*apsu*)—for the sake of water
+- त्वा (*tvā*)—you
+- हवामहे (*havāmahe*)—we pray
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, subdue that person who, in the company of men among whom I am also one, thinks himself the greatest and is proud. Now, on the earth, when battle has come, we pray to you for the sake of a son, for the sake of cattle, and for the sake of water.
+
+##### English translation
+Wielder of the thunderbolt, humble that man who looks upon himself as the greatest amongst those men of whom I am : we invoke you now to (descend) upon the earth at the time of battle, and for (the sake of obtaining) sons and grandsons.
+
+#### Ṛk 13
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं त॑ ए॒भिः पु॑रुहूत स॒ख्यैः शत्रोः॑शत्रो॒रुत्त॑र॒ इत्यस्य॑म ।  
+> घ्नंतो॑ वृ॒त्राण्यु॒भया॑नि शूर रा॒या म॑देम बृह॒ता त्वोताः॑ ॥ ३ ॥
+
+### Printed p. 717
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ते । विभिः । पुरुहूत । सख्यैः । शत्रोःशत्रोः । उत्तरे । इत् । स्याम ।  
+> घ्नंतः । वृत्राणि । उभयानि । शूर । राया । मदेम । बृहता । त्वाऊताः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत पुरुभिराहूतेंद्र एभिः प्रसिद्धैः सख्यैः स्तोत्रलक्षणैः सखिकर्मभिस्ते त्वया सह वयमुभयानि जामिरूपाण्यजामिरूपाणि वृत्राण्यमित्राणि
+> घ्नंतो हिंसंतः शत्रोः शत्रोः सर्वस्माच्छत्रोरुत्तर इत्याम । अधिका एव
+> भवेम । हे शूर विक्रांतेंद्र त्वोता वयं त्वया रक्षिताः संतो बृहता महता
+> राया धनेन मदेम । हृष्याम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many, with these well-known friendly acts, which have the form of praises, together with you, we, striking both kinds of enemies, those of the form of kinsmen and those of the form of non-kinsmen, would be superior to every enemy; that is, we would become the greater. O valiant Indra, protected by you, may we rejoice with great wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, who are called by many
+- एभिः (*ebhiḥ*)—by these well-known
+- सख्यैः (*sakhyaiḥ*)—friendly acts of yours
+- ते (*te*)—being joined with you
+- वयं (*vayaṃ*)—we
+- उभयानि (*ubhayāni*)—both kinsmen and non-kinsmen
+- वृत्राणि (*vṛtrāṇi*)—both kinds of enemies
+- घ्नंतः (*ghnaṃtaḥ*)—while striking
+- शत्रोः (*śatroḥ*)—than every enemy
+- उत्तरे इत् (*uttare it*)—in a very superior position
+- स्याम (*syāma*)—may we be
+- शूर (*śūra*)—O valiant Indra
+- त्वोताः (*tvotāḥ*)—protected by you
+- बृहता (*bṛhatā*)—with exceeding
+- राया (*rāyā*)—wealth
+- मदेम (*madema*)—may we rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are called by many, may we, joined with you by your well-known friendly acts, be in a position superior to all enemies, striking all forms of our enemies, both kinsmen and non-kinsmen. O valiant Indra, protected by you, may we rejoice with exceeding wealth.
+
+##### English translation
+Invoked of many, may we, through these your friendly (praises), ever be superior to successive foes, destroying, oh hero, both (classes of) enemies, (kindred or unallied); and may we, protected by you, be happy with abundant riches.
+
 ---
 
-**Progress note:** Done through printed p. 711. Mandala 6 Sukta 19 Rk 4-8, pp. 706-711
+**Progress note:** Done through printed p. 717. Mandala 6 Sukta 19 Rk 9-13, pp. 712-717
