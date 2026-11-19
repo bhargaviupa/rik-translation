@@ -16234,6 +16234,279 @@ One of the two, Indra, comes and sits near to drink the Soma pressed on the two 
 - करंभं (*karaṃbhaṃ*)—the offering mixed with ghee and in the form of barley-meal
 - इच्छति (*icchati*)—desires to eat
 
+### Printed p. 369
+
+##### भावार्थ (Bhāvārtha)
+
+Of the two, Indra and Pūṣan, Indra sits down to drink the Soma juice pressed by the pressing-boards that press out the Soma juice. The other, Pūṣan, desires to eat the offering which is mixed with ghee and is in the form of barley-meal.
+
+##### English translation
+One (of you) approaches to drink the Soma poured out into ladles, the other desires the buttered meal.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒जा अ॒न्यस्य॒ वह्न॑यो॒ हरी॑ अ॒न्यस्य॒ संभृ॑ता ।  
+> ताभ्यां॑ वृ॒त्राणि॑ जिघ्नते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजाः । अन्यस्य । वह्नयः । हरी इति । अन्यस्य । संभृता ।  
+> ताभ्यां । वृत्राणि । जिघ्नते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयोरिंद्रापूष्टोरन्यस्यैकस्य पूष्टोऽजाश्चागा वह्नयो वाहका अश्वाः ।
+> अन्यस्यापरस्येंद्रस्य संभृता संभृतौ सम्यक् पुष्टौ हरी एतत्संज्ञावश्च वाहकौ ।
+> स चेंद्रस्ताभ्यां वृत्राणि शत्रून् जिघ्नते । हंति ॥
+
+##### Gist of the bhāṣya
+
+Of these two, Indra and Pūṣan, the one, Pūṣan, has goats as his bearers, his carrying steeds. The other, Indra, has the two well-nourished, strong horses of the name Hari as his bearers. And that Indra, with those two, kills the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अन्यस्य (*anyasya*)—to Pūṣan (one of the two, Indra and Pūṣan)
+- वह्नयः (*vahnayaḥ*)—the vehicles
+- अजाः (*ajāḥ*)—are goats
+- अन्यस्य (*anyasya*)—to the other, Indra
+- संभृता (*saṃbhṛtā*)—well grown
+- हरी (*harī*)—the horses called Hari are the vehicle
+- ताभ्यां (*tābhyāṃ*)—among the two **NOTE**
+- वृत्राणि (*vṛtrāṇi*)—all enemies
+- जिघ्नते (*jighnate*)—kills
+
+##### भावार्थ (Bhāvārtha)
+
+Of the two, Indra and Pūṣan, Pūṣan has vehicles in the form of goats. The other, Indra, has as his vehicle the well-grown horses called Hari. Of the two, Indra kills all enemies.
+
+### Printed p. 370
+
+##### English translation
+Goats are the bearers of the one, two well-fed horses, of the other, and with them he destroys his foes.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिंद्रो॒ अन॑य॒द्रितो॑ म॒हीर॒पो वृषं॑तमः ।  
+> तत्र॑ पू॒षा भ॑व॒त्सचा॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्रः । अनयत् । रितः । महीः । अपः । वृषन्तमः ।  
+> तत्र । पूषा । अभवत् । सचा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा वृषंतमोऽतिशयेन वर्षितेंद्रो रितो गंत्रीर्महीर्महतीरपो
+> वृष्ट्युदकान्यनयत् इमं लोकं प्रापयति तत्र तदानीं पूषा पोषको देवः
+> सचाभवत् । अस्येंद्रस्य सहायो भवति ॥
+
+##### Gist of the bhāṣya
+
+When Indra, the greatest of showerers, brings to this world the great, flowing waters, that is, the waters of the rain, then Pūṣan, the nourishing god, becomes his companion; he becomes Indra's helper.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वृषंतमः (*vṛṣaṃtamaḥ*)—who sends down rain in abundance
+- इंद्रः (*iṃdraḥ*)—Indra
+- रितः (*ritaḥ*)—which flow
+- महीः (*mahīḥ*)—and are of great power
+- अपः (*apaḥ*)—the waters
+- अनयत् (*anayat*)—he brings to this world
+- तत्र (*tatra*)—at that time
+- पूषा (*pūṣā*)—the god Pūṣan
+- सजा (*sajā*)—with him
+- अभवत् (*abhavat*)—is
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra, who sends down rain in abundance, brings to this world the flowing waters of great power, at that time the god Pūṣan is with him.
+
+##### English translation
+When the showerer Indra sends down the falling and mighty waters, there is Pushan along with him
+
+### Printed p. 371
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तां पू॒ष्णः सु॑म॒तिं व॒यं वृ॒क्षस्य॒ प्र व॒यामि॑व ।  
+> इंद्र॑स्य॒ चा र॑भामहे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तां । पूष्णः । सुमतिं । वयं । वृक्षस्य । प्र । वयां इव ।  
+> इंद्रस्य । च । आ । रभामहे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूष्णः पोषकस्य देवस्येंद्रस्य च तां प्रसिद्धां सुमतिं कल्याणीं मतिमनुग्रहबुद्धिं वृक्षस्य महीरुहस्य प्र वयां प्रकृष्टां दृढां शाखामिव वयमा
+> रभामहे अवलंबामहे । आश्रयाम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We lay hold of, resort to, that renowned good mind, the gracious thought, of Pūṣan the nourisher and of Indra, as one lays hold of a strong, firm branch of a great tree.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृक्षस्य (*vṛkṣasya*)—of a great tree
+- प्र वयां इव (*pra vayāṃ iva*)—as one resorts to a firm branch
+- वयं (*vayaṃ*)—we
+- पूष्णः (*pūṣṇaḥ*)—of the god Pūṣan
+- च (*ca*)—and
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- तां (*tāṃ*)—that renowned
+- सुमतिं (*sumatiṃ*)—mind of favour
+- रभामहे (*rabhāmahe*)—we resort to
+
+##### भावार्थ (Bhāvārtha)
+
+As a man caught in a flood and similar calamities resorts to a firm branch of a great tree, so we resort to the renowned gracious mind of the god Pūṣan and of Indra.
+
+##### English translation
+We depend upon the good-will of Pushan, and of Indra, as (we cling) to the branches of a tree.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्पू॒षणं॑ युवामहे॒ऽभीशू॑रिव॒ सार॑थिः ।  
+> म॒ह्या इंद्रं॑ स्व॒स्तये॑ ॥ ६ ॥
+
+### Printed p. 372
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । पूषणं । युवामहे । अभीशून् इव । सारथिः ।  
+> मह्यै । इंद्रं । स्वस्तये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूषणं पोषकं देवमिंद्रं च महै महत्यै स्वस्तये रक्षार्थमुद्युवामहे । उद्योजयामः । उद्योजनमाकर्षणं । तत्र दृष्टांतः । सारथिः
+> सूतोऽभीशूनिव । अभीशून्रश्मीनश्वबंधनार्थान्यथाकर्षति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+We draw up, that is, we call to ourselves, Pūṣan the nourisher and Indra for great well-being, for protection. Drawing up means pulling. An example is given: as a charioteer, the driver, pulls to him the reins that serve to bind the horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सारथी (*sārathī*)—the driver of the chariot
+- अभीशूनिव (*abhīśūniva*)—as he pulls the reins toward himself
+- पूषणं (*pūṣaṇaṃ*)—Pūṣan
+- इंद्रं (*iṃdraṃ*)—and Indra
+- मह्यै (*mahyai*)—great
+- स्वत्रये (*svatraye*)—for welfare
+- उद्युवामहे (*udyuvāmahe*)—we draw to us and make come
+
+##### भावार्थ (Bhāvārtha)
+
+As the driver of the chariot pulls the reins (the ropes) toward himself, so we draw Pūṣan and Indra toward us for great welfare and make them come.
+
+##### English translation
+We draw to us, for our great welfare, Pushan and Indra, as a charioteer (pulls tight) his reins.
+
+## Sūkta 58 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुक्रं त इति चतुर्यचं नवमं सूक्तं भरद्वाजस्यार्षं पौष्टं । द्वितीया
+> जगती शिष्टास्त्रिष्टुभः । तथा चानुक्रांतं । शुक्रं चतुष्कं द्वितीया जगतीति ॥
+> वैश्वदेवे पर्वणि वैश्वदेवस्य हविषः शुक्रं त इति याज्या । सूत्रितं च । शुक्रं ते
+> अन्यद्यजतं ते अन्यदिहेह वः स्वतवसः । आ. २-१६ । इति ॥ एकादशिनस्य पौष्टस्य
+> पशोर्वपाया एषैव याज्या । सूत्रितं च । शुक्रं ते अन्यद्यजतं ते अन्यत्पथे
+> पथामजनिष्ठ पूषा । आ. ३-७ । इति ॥ अमाभिष्टवेऽप्येषा । सूत्रितं च । शुक्रं ते
+> अन्यद्यजतं ते अन्यदपश्यं गोपामनिपद्यमानं । आ. ४-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning शुक्रं त (*śukraṃ ta*) has four Ṛks and is the ninth sūkta. Its seer is Bharadvāja, its deity is Pūṣan; the second verse is Jagatī, the rest are Triṣṭubh. So the Anukramaṇī says: शुक्रं चतुष्कं द्वितीया जगतीति (*śukraṃ catuṣkaṃ dvitīyā jagatīti*). In the Vaiśvadeva parvan, this verse is the yājyā of the Vaiśvadeva oblation; it is laid down in the sūtra शुक्रं ते अन्यद्यजतं ते अन्यदिहेह वः स्वतवसः (*śukraṃ te anyadyajataṃ te anyadiheha vaḥ svatavasaḥ*) (Ā. Sū. 2-16). For the vapā of the animal of Pūṣan in the Ekādaśina rite this same verse is the yājyā; it is laid down in the sūtra शुक्रं ते अन्यद्यजतं ते अन्यत्पथे पथामजनिष्ठ पूषा (*śukraṃ te anyadyajataṃ te anyatpathe pathāmajaniṣṭha pūṣā*) (Ā. Sū. 3-7). It is used also in the अमाभिष्टवे (*amābhiṣṭave*) **NOTE**; it is laid down in the sūtra शुक्रं ते अन्यद्यजतं ते अन्यदपश्यं गोपामनिपद्यमानं (*śukraṃ te anyadyajataṃ te anyadapaśyaṃ gopāmanipadyamānaṃ*) (Ā. Sū. 4-6).
+
+### Printed p. 373
+
+##### Anuvāda
+
+The sūkta beginning "Śukraṃ te" is the ninth sūkta in the fifth anuvāka. It has four Ṛks. The seer of this sūkta is Bharadvāja; Pūṣan is the deity; the second Ṛk of this sūkta is in the Jagatī metre, the remaining Ṛks are in the Triṣṭubh metre. The Anukramaṇī says: "Śukraṃ catuṣkaṃ dvitīyā jagatī". In the Parveṣṭi connected with the Viśvedevas, in the oblation made to Pūṣan, the Ṛk "Śukraṃ te" is to be recited as the yājyā mantra, as laid down by the sūtra of the Āśvalāyana-śrauta-sūtra शुक्रं ते अन्यद्यजतं ते अन्यदिहेह वः स्वतवसः (*śukraṃ te anyadyajataṃ te anyadiheha vaḥ svatavasaḥ*) (Ā. 2-16). In the animal oblation made to Pūṣan on the day of the Ekādaśin rite, this Ṛk is to be recited as the yājyā mantra in the vapā oblation, as laid down by the sūtra of the Āśvalāyana-śrauta-sūtra शुक्रं ते अन्यद्यजतं ते अन्यत्पथे पथामजनिष्ट पूषा (*śukraṃ te anyadyajataṃ te anyatpathe pathāmajaniṣṭa pūṣā*) (Ā. 3-7). And this Ṛk is applied also in the abhiṣṭava mantras in the sacrifice called Pravarga, as laid down by the sūtra of the Āśvalāyana-śrauta-sūtra शुक्रं ते अन्यद्यजतं ते अन्यदपश्यं गोपामनिपद्यमानं (*śukraṃ te anyadyajataṃ te anyadapaśyaṃ gopāmanipadyamānaṃ*) (Ā. 4-6).
+
+##### Particulars
+
+- Sūkta 58
+- Maṇḍala 6, Anuvāka 5, Sūkta 58
+- Aṣṭaka 4, Adhyāya 8, Varga 24
+- Number of Ṛks in the sūkta: 4
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Pūṣan
+- Chandas: 1, 3, 4 Triṣṭubh; 2 Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒क्रं ते॑ अ॒न्यद्य॑ज॒तं ते॑ अ॒न्यद्विषु॑रूपे॒ अह॑नी॒ द्यौरि॑वासि ।  
+> विश्वा॒ हि मा॒या अव॑सि स्वधावो भ॒द्रा ते॑ पूषन्नि॒ ह रा॒तिर॑स्तु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुक्रं । ते । अन्यत् । यजतं । ते । अन्यत् । विषुरूपे इति विषुरूपे । अहनी  
+> इति । द्यौः इव । असि ।  
+> विश्वाः । हि । मायाः । अवसि । स्वधावः । भद्रा । ते । पूषन् । इह । रातिः । अस्तु ॥ १ ॥
+
+### Printed p. 374
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् ते तव शुक्रं शुक्लवर्णमन्यदेकमहर्भवति वासरात्मकं । कथा ते
+> तव संबंधि यजतं । यजिरत्र संगतिकरणे वर्तते । यजनीयं प्रकाशेन
+> संगमनीयं स्वतः कृष्णवर्णमन्यदेकमहर्भवति राताख्यं । इत्थं विसुरूपे
+> शुक्लकृष्णतया नानारूपे अहनी तव महिम्मा निष्पद्येते । यद्वा । हे पूषन्
+> त्वदीयमन्यदेकं रूपं शुक्रं निर्मलं दिवसस्योत्पादकं । त्वदीयमन्यदेकं
+> रूपं यजतं केवलं यजनीयं न प्रकाशकं रात्रेरुत्पादकं । आत एव विषुरूपे
+> विषमरूपे अहनी अहश्च रात्रिश्च भवतः । आहोरात्रयोर्निर्माणे सूर्य एव
+> कर्ता कथमस्य प्रसक्तिरिति तत्राह । द्यौरिवासि । यथा द्यौरादित्यः प्रकाशयिता तथा त्वं
+> प्रकाशकोऽसि । कुत इत्यत आद । हे स्वधावोऽन्नवन्नूषन् विश्वाः सर्वा मायाः
+> प्रज्ञा हि यस्मात्कारणादवसि रक्षसि अतः कारणात्त्वं सूर्य इव भवसीत्यर्थः ।
+> तादृशस्य ते तव भद्रा कल्याणी रातिर्दानमिहास्मास्वस्तु । भवतु ॥ यास्क स्वाह । शुक्रं
+> ते अन्यल्लोहितं ते अन्यदृज्जियं ते अन्यदयज्जियं ते अन्यदिति ना विषमरूपे
+> अहनी कर्मणा द्यौरिव चासि । सर्वाणि च प्रज्ञानान्यवस्यन्नवन् । नि. १२-१७ । इति ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, one of your forms is white, that is, the day. Another, which is yajata (here the verb yaj has the sense of association): to be joined with, that is, in itself dark, and not shining, is the night, called rāta. Thus the two, the day and the night, are of different forms, white and dark, by your greatness. Or else: one form of yours is white, pure, the producer of the day; the other form of yours is only to be worshipped, not shining, the producer of the night. Hence the day and the night are of unequal forms. It may be asked: the making of day and night is the work of the sun, how does it come to Pūṣan? He answers: you are like heaven, that is, as the sun is the illuminator, so you are the illuminator. Why? O lord of svadhā, possessor of food, because you protect all the wisdoms, therefore you are like the sun. May your auspicious gift be here with us. Yāska says (Ni. 12-17): शुक्रं ते अन्यल्लोहितं ते अन्यदृज्जियं ते अन्यदयज्जियं ते अन्यदिति ना विषमरूपे अहनी कर्मणा द्यौरिव चासि । सर्वाणि च प्रज्ञानान्यवस्यन्नवन् । (*śukraṃ te anyallohitaṃ te anyadṛjjiyaṃ te anyadayajjiyaṃ te anyaditi nā viṣamarūpe ahanī karmaṇā dyauriva cāsi | sarvāṇi ca prajñānānyavasyannavan |*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O god Pūṣan
+- ते (*te*)—your
+- अन्यत् (*anyat*)—one of your forms, the day
+- शुक्रं (*śukraṃ*)—is of white colour
+- यजतं (*yajataṃ*)—your venerable
+- ते अन्यत् (*te anyat*)—the other, in dark colour, is in the form of night
+- अदनी (*adanī*)—day and night, which are your own forms
+- विषुरूपे (*viṣurūpe*)—are of different forms
+- द्यौः इव (*dyauḥ iva*)—like the sun
+- आसि (*āsi*)—you are
+- स्वधावः (*svadhāvaḥ*)—O Pūṣan, possessed of food
+- विश्वाः (*viśvāḥ*)—all
+- माया हि (*māyā hi*)—even the creatures
+- अवसि (*avasi*)—you protect
+- ते (*te*)—your
+- भद्रा (*bhadrā*)—auspicious
+- रातिः (*rātiḥ*)—gift
+- इह (*iha*)—to us
+- अस्तु (*astu*)—let it be given
+
+##### भावार्थ (Bhāvārtha)
+
+O god Pūṣan, one of your forms, the day, is of white colour. Another form of yours, to be worshipped, is in the form of night, of dark colour. The day and the night, which are your own forms, are of different forms. You are shining like the sun. O Pūṣan, possessed of food, you protect all creatures. May your auspicious gift be with us
+
+##### English translation
+One of your forms, (Pushan), is luminous, one is venerable; so that the day is variously complexioned : for you are like the sun: verily. best-
+
 ---
 
-**Progress note:** Done through printed p. 368. Mandala 6 Sukta 56 Rk 3-6, Sukta 57 Rk 1-2
+**Progress note:** Done through printed p. 374. Mandala 6 Sukta 57 Rk 2 end, 3-6; Sukta 58 Rk 1
