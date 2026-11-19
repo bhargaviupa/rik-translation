@@ -22166,6 +22166,179 @@ It is the view of the great sage Āśvalāyana that the praise of the study of t
 > अ॒ग्निं दे॒वासो॑ अग्रि॒यमिं॒धते॑ वृत्र॒हंत॑मं ।  
 > येना॒ वसू॒न्याभृ॑ता तृ॒ळ्हा रक्षां॑सि वा॒जिना॑ ॥ ४८ ॥
 
+### Printed p. 645
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । देवासः । अग्रियं । इंथते । वृत्रहन्समं ।  
+> येन । वसूनि । आभृता । तृळ्हा । रक्षांसि । वाजिना ॥ ४८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्रियं मुख्यं वृत्रहंतममतिशयेन वृत्रस्य हंतारमिममग्निं देवासो
+> देवा इंधते । दीपयंति । येनाग्निना वसून्यसुरैरपहृतानि धनानि हनिर्लक्षणान्यन्नानि वाभृतासुरसकाशाद्यजमानाद्वाहृतानि । येन च वाजिना बलवताग्निना रक्षांसि
+> यज्ञविरोधीनि तृळ्ता तृढानि हिंसितानि तमग्निमिंधत इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The gods kindle this Agni, who is the chief and the foremost slayer of Vṛtra. By this Agni the treasures that the Asuras had carried off were brought back; or, according to the other explanation, the foods in the form of oblations were brought back, whether from the Asuras or from the sacrificer. By this mighty Agni the Rākṣasas, who are hostile to the sacrifice, were crushed and destroyed. The gods kindle that Agni: such is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by which Agni
+- वसूनि (*vasūni*)—the treasures carried off by the Asuras
+- अभ्यता (*abhyatā*)—were brought back
+- वाजिना (*vājinā*)—by which Agni endowed with strength
+- रक्षांसि (*rakṣāṃsi*)—all the Asuras
+- तृळ्हा (*tṛḷhā*)—were destroyed, such (Agni)
+- अग्रियं (*agriyaṃ*)—the one chief above all
+- वृत्रहंतारं (*vṛtrahaṃtāraṃ*)—the destroyer of Vṛtra
+- अग्निं (*agniṃ*)—Agni
+- देवासः (*devāsaḥ*)—the gods
+- इंथते (*iṃthate*)—cause to blaze
+
+##### भावार्थ (Bhāvārtha)
+
+The gods cause to blaze that Agni, the chief among the gods and the destroyer of Vṛtra, by whom the treasures carried off by the Asuras were brought back, and by whom, being endowed with strength, all the Asuras were destroyed.
+
+##### English translation
+The gods kindle Agni as the chief (of them) ; as the special destroyer of Vritra ; by whom the treasures(of the Asuras) are carried off ; by whom the Rakshasas are destroyed.
+
+##### विशेषविषयगळु (Special Topics)
+
+वृत्रहंतारं (*vṛtrahaṃtāraṃ*)—Since the word vṛtra also means an enemy, Agni is praised here as the one who restrains the enemies, the Rākṣasas and the like (the Rakṣohan Agni).
+
+वसूनि आधृता वाजिना रक्षांसि तृळ्हा (*vasūni ādhṛtā vājinā rakṣāṃsi tṛḷhā*)—The word vasu means wealth. Here the commentator has given two kinds of meaning for this word: first, the foods in the form of oblations (हविर्लक्षणान्यन्नानि (*havirlakṣaṇānyannāni*))
+
+### Printed p. 646
+
+and second, the wealth carried off by the Asuras (असुरैरपहृतानि धनानि (*asurairapahṛtāni dhanāni*)). Since this Ṛk speaks of the Asuras being destroyed by Agni (रक्षांसि तृळ्हा (*rakṣāṃsi tṛḷhā*)), the second meaning, wealth carried off by the Asuras, is the fitting one for the word vasūni. The principal sense is that the gods caused such an Agni to blaze well in the sacrifice, in order to obtain through Agni their share of the oblation.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये चतुर्थाष्टके पंचमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye caturthāṣṭake paṃcamo 'dhyāyaḥ samāptaḥ ‖*)
+
+ओं तत्त्वत् (*oṃ tattvat*)
+
+Here ends the fifth chapter, in the fourth aṣṭaka of the Ṛgveda-saṃhitā, accompanied by the bhāṣya of Śrī Sāyaṇa and by a Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+मंगळं (*maṃgaḷaṃ*)
+
+ओं (*oṃ*)
+
+श्रीः (*śrīḥ*)
+
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda-saṃhitā, with the bhāṣya of Sāyaṇa.
+
+चतुर्थाष्टके षष्ठोऽध्यायः (*caturthāṣṭake ṣaṣṭho 'dhyāyaḥ*)
+
+The sixth chapter in the fourth aṣṭaka.
+
+Sūktas 17–28 of the sixth maṇḍala.
+
+**Introduction**
+
+In this sixth maṇḍala, seen by the seer Bharadvāja, sūktas 1–16 have Agni as their deity. They were explained in the previous chapter. The following sūktas, 17–46, have Indra as their deity. The present sixth chapter contains only sūktas 17–28 (eleven in all), so all the sūktas of this chapter are mantras that praise Indra. Only in the 28th sūkta is it said that the cows are the deity of six Ṛks, yet the sūkta as a whole is stated, as an alternative, to have Indra as its deity. We have explained Indra at length in Ṛ. Saṃ. Part 16, pp. 631–683, and in many other places. Therefore here only the derivation of the form of the word Indra will be explained, and later, wherever there are particular matters concerning Indra in the respective mantras, only those will be pointed out in their places.
+
+### Printed p. 648
+
+Indra—In explaining the derivation of the word Indra, the commentator has cited the Nirukta of Yāska itself:
+
+इंद्र इरां दृणातीति वेरां ददातीति वेरां दधातीति वेरां दारयतीति वेरां धारयतीति वेंदवे द्रवतीति वेंदौ रमत इति वेंधे भूतानीति वा तद्यदेनं प्राणैः सम्यंधंस्तदिंद्रस्येंद्रत्वमिति विज्ञायत इदंकरणादित्याग्रायण इदंदर्शनादित्यौपमन्यद इंदतेर्वैश्वर्यकर्मण इंदञ्छत्रूणां दारयिता ना द्रावयिता नादयिता च यज्जनां । (*iṃdra irāṃ dṛṇātīti verāṃ dadātīti verāṃ dadhātīti verāṃ dārayatīti verāṃ dhārayatīti veṃdave dravatīti veṃdau ramata iti veṃdhe bhūtānīti vā tadyadenaṃ prāṇaiḥ samyaṃdhaṃstadiṃdrasyeṃdratvamiti vijñāyata idaṃkaraṇādityāgrāyaṇa idaṃdarśanādityaupamanyada iṃdatervaiśvaryakarmaṇa iṃdañchatrūṇāṃ dārayitā nā drāvayitā nādayitā ca yajjanāṃ |*) (Ni. 10-8).
+
+He himself has given the meaning of this:
+
+(1) The root दृ (*dṛ*) means to split, to cut. Irā means food, which we obtain from the plants and trees, that is, from the vegetable kingdom. For that vegetable kingdom to grow, water is necessary. For that water, that is, in order that rain may fall, he cuts the cloud (with lightning, the thunderbolt); therefore he is named Indra.
+
+(2) The root दा (*dā*) means to give. He gives irā, that is, food, by means of vṛṣṭi (rain); therefore he is named Indra.
+
+(3) The root धा (*dhā*) means to nourish. He nourishes the plants and the like that yield food by bestowing water (rain); therefore he is named Indra.
+
+(4) Land has to be ploughed for the production of food. When the land is ploughed, he makes it split by the plough and makes it favourable for the crop; therefore he is named Indra.
+
+(5) As said before, he nourishes the plants and the like and protects them so that they do not perish; therefore he is named Indra.
+
+### Printed p. 649
+
+(6) इंदुः (*iṃduḥ*) is Soma, the juice of the creeper. Indu means the Soma juice prepared from the Soma plant. He runs (hastens) to the place of sacrifice for the drinking of such Soma; therefore he is named Indra.
+
+(7) He delights and sports in the Soma juice mentioned before, being satisfied with it; therefore he is named Indra.
+
+(8) The root इंथ् (*iṃth*) means to shine, to illumine. Entering the bodies of living beings in the form of the vital spirit, he shines, urging them to do their respective deeds; therefore he is named Indra.
+
+(9) Because worshippers kindled (made to shine well) this god, who is the Supreme Self, through meditation, uniting him with the organs such as speech and sight, and with the vital airs such as prāṇa and apāna, and with grain, as if shining forth well; for that reason the name Indra came about.
+
+(10) The sage named Āgrāyaṇa holds that the derivation is that he makes this (idam-karaṇa). Indra, in the form of the Supreme Self, makes this world. Idaṃkaraṇa means that, in the form of the Supreme Self, Indra builds (creates) this world; for this reason this god received the name Indra, says the sage named Āgrāyaṇa.
+
+(11) The sage named Aupamanyava says that the derivation is that he sees this (idam-darśana). Here idam means what is not directly perceived, what does not appear directly to the eye. For this very reason the Śruti says परोक्षप्रिया इव हि देवाः (*parokṣapriyā iva hi devāḥ*). Aupamanyava says that because he sees this, that is, everything, the name Indra came about.
+
+(12) The root इदि (*idi*) has the meaning of supreme lordship. This god has, through his own māyā, the supreme lordship of taking the form of the world; hence the name Indra. This view is supported by the Vedic sentence इंद्रो मायाभिः पुरुरूप ईयते (*iṃdro māyābhiḥ pururūpa īyate*) (Ṛ. Saṃ. 6-47-18).
+
+### Printed p. 650
+
+(13) The word ina denotes the Lord. When the vowel a following the n of this word ina is dropped, the word इन् (*in*) remains. The root दृ (*dṛ*) means fear. That Supreme Lord causes fear to enemies; hence he is named Indra.
+
+(14) The root द्रु (*dru*) means going, that is, to go, to run away. This god makes enemies run away; hence he is named Indra.
+
+(15) He honours those who worship him with sacrifices and the like, and removes their fear; therefore this god is named Indra.
+
+In the same way, many derivations can be devised for the word Indra.
+
+## Sūkta 17 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चतुर्थाष्टके षष्ठोऽध्याय आरभ्यते ॥ षष्ठे मंडले द्वितीयेऽनुवाके
+> प्रथमं सूक्तं व्याख्यातं । तत्र पिबा सोममिति द्वितीयं सूक्तं भरद्वाजस्यार्षं
+> त्रैष्टुभं । अंत्या द्विपदा त्रिष्टुप् । तथा चानुक्रांतं । पिब पंचोन्नैंद्रं त्रैष्टुभं
+> द्विपदांतमिति ॥ अभिजिति मरुत्वतीयशस्त्र एतन्निविद्वानं । सूत्रितं च । पिबा सोमं
+> तमु ष्टुहीति मध्यंदिनः । आ. ८-५ । इति ॥ समूळ्दे दशरात्रॆऽष्टमेऽहनि मरुत्वतीयशस्त्र एतत्सूक्तं । सूत्रितं च । पिबा सोममभि तमस्य द्यावापृथिवी । आ. ८-७ ।
+> इति ॥ सूर्यस्तुन्नाम्येकाहे मरुत्वतीय एतत्सूक्तं निविद्वानं । सूत्र्यते हि ।
+> सूर्यस्तुता यशस्कामः पिबा सोममभि। आ. ९-८ । इति ॥ महाव्रतेऽपि मरुत्वतीय
+
+##### Gist of the bhāṣya
+
+The sixth chapter of the fourth aṣṭaka begins. In the second anuvāka of the sixth maṇḍala the first sūkta has been explained. Of these, the second sūkta, beginning पिबा सोमं (*pibā somaṃ*), is seen by Bharadvāja and is in the Triṣṭubh metre; the last Ṛk is a Dvipadā Triṣṭubh. So the Anukramaṇī says that five Ṛks (beginning पिब (*piba*)) are Indra's, in Triṣṭubh, ending with a Dvipadā. In the Abhijit, at the Marutvatīya-śastra, this sūkta is the nivid-hymn; and it is prescribed in the sūtra of Āśvalāyana (Ā. 8-5). In the Samūḍha daśarātra, on the eighth day, the sūkta belongs to the Marutvatīya-śastra, and the sūtra says so (Ā. 8-7). In the Sūryastut ekāha, in the Marutvatīya, this sūkta is the nivid-hymn, for it is prescribed in the sūtra (Ā. 9-8). In the Mahāvrata also, at the Marutvatīya
+
+### Printed p. 651
+
+> एतत्तूक्तं । तथैव पंचमारण्यके सूत्रितं । पिबा सोममभि यमुग्र तर्दः कया
+> शुभा सवयसः सनीळाः । ऐ. आ. ५-१-१ । इति ॥ माध्यंदिने सवन आद्यास्तिस्रो
+> होतृमैत्रावरुणब्राह्मणाच्छंसिनां प्रस्मितयाज्याः । सूत्रितं च । पिबा सोममभि
+> यमुग्र तर्द इति तिस्रोऽर्वाजीहि सोमकामं त्वाहुः । आ. ५-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta is used; and likewise in the fifth Āraṇyaka it is prescribed in the passage (Ai. Ā. 5-1-1). At the midday pressing, the first three Ṛks are the prasthita-yājyās of the Hotṛ, the Maitrāvaruṇa and the Brāhmaṇācchaṃsin, and the sūtra says so (Ā. 5-5).
+
+Translation: The explanation of the sixth chapter in the fourth aṣṭaka will now be begun. In the second anuvāka of the sixth maṇḍala, the first sūkta was explained in the preceding chapter itself. This sūkta beginning पिबा सोमं (*pibā somaṃ*) is the second sūkta in the second anuvāka. This sūkta has fifteen Ṛks. Bharadvāja is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh; only the last Ṛk is in the metre called Dvipadā. In the Anukramaṇī it is said: पिब पंचोनैंद्रं त्रैष्टुभं द्विपदांतं (*piba paṃconaiṃdraṃ traiṣṭubhaṃ dvipadāṃtaṃ*). In the Abhijit sacrifice (or on the day of the sacrifice called Abhijit), this sūkta is to be recited as the nivid-hymn in the midst of the mantras of the Marutvatīya-śastra; this is stated in the sūtra of the Āśvalāyana Śrauta Sūtra पिबा सोमं तमु ष्टुहीति मध्यंदिनः (*pibā somaṃ tamu ṣṭuhīti madhyaṃdinaḥ*) (Ā. 8-5). In the daśarātra sacrifice called Samūḍha, this sūkta is applied to the mantras of the Marutvatīya-śastra recited on the eighth day; this is stated in the sūtra of the Āśvalāyana Śrauta Sūtra पिबा सोममभि तमस्य द्यावापृथिव्य (*pibā somamabhi tamasya dyāvāpṛthivya*) (Ā. 8-7). Also in the ekāha sacrifice called Sūryastut, this sūkta is to be recited as the nivid mantra in the midst of the Marutvatīya-śastra mantras; this is stated in the sūtra of the Āśvalāyana Śrauta Sūtra सूर्यस्तुता यशस्मामः पिबा सोममभि (*sūryastutā yaśasmāmaḥ pibā somamabhi*). In the sacrifice called Mahāvrata also, this sūkta is applied to the mantras of the Marutvatīya-śastra; this is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence beginning पिबा सोममभि यमुग्र तर्दः (*pibā somamabhi yamugra tardaḥ*) (Ai. Ā. 5-1-1). And at the time of the midday pressing, the first three Ṛks of this sūkta are to be used for the prasthita-yājyā mantras to be recited by the priests called Hotṛ, Maitrāvaruṇa and Brāhmaṇācchaṃsin; this is stated in the sūtra of the Āśvalāyana Śrauta Sūtra beginning with पिबा सोममभि (*pibā somamabhi*) (Ā. 5-5).
+
+Sūkta 17.
+
+Maṇḍala 6; Anuvāka 2; Sūkta 17.
+
+Aṣṭaka 4; Adhyāya 6; Vargas 1, 2, 3.
+
+Number of Ṛks in the sūkta: 15.
+
+Ṛṣi: Bharadvāja Bārhaspatya.
+
+Devatā: Indra.
+
+Metre: Ṛks 1–14, Triṣṭubh; Ṛk 15, Dvipadā.
+
 ---
 
-**Progress note:** Done through printed p. 644. Ṛk 42 end, Ṛk 43-47, start of Ṛk 48 of Sūkta 16
+**Progress note:** Done through printed p. 651. Ṛk 48 pada, bhāṣya, notes; end of adhyāya 5 colophon; adhyāya 6 introduction, Indra etymologies; sūkta 17 introduction
