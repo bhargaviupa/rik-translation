@@ -26608,6 +26608,378 @@ Eminent, pure, radiating purifier, Agni, be present (at the sacrifice) of him wh
 > वि ये ते॑ अग्ने भेजि॒रे अने॑कं॒ मर्ता॒ नरः॒ पित्र्या॑सः पुरु॒त्रा ।  
 > उ॒तो न॑ ए॒भिः सु॒मना॑ इ॒ह स्याः॑ ॥ ९ ॥
 
+### Printed p. 627
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । ये । ते । अग्ने । भेजिरे । अनेकं । मर्ताः । नरः । पित्र्यासः । पुरुत्रा ।  
+> उतो इति । नः । विभिः । सुमनाः । इह । स्याः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते शवानीकं तेजः पित्र्यासः पितृहिता आर्षेया वा मर्ता मनुष्या
+> नरः कर्मणां नेतारो ये यजमानाः पुरुत्रा बहुषु देशेषु वि भेजिरे
+> विभजंते । आदधुरिति यावत् । तेषामिव नोऽस्माकमुतो अप्येभिः स्तुतैः सह
+> स्तोत्रैर्वा सुमना अनुग्राहकमनाः सन् इह यज्ञे स्याः । भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, your radiance. The mortals, that is, men, who are पित्र्यासः (*pitryāsaḥ*), beneficial to the fathers, or belonging to the line of the seers, नरः (*naraḥ*), leaders of the rites, who are sacrificers, have shared, वि भेजिरे (*vi bhejire*), in many places, पुरुत्रा बहुषु देशेषु (*purutrā bahuṣu deśeṣu*), that is, have taken it up. Like them, for us also, with these praises, be here in this sacrifice, स्याः (*syāḥ*), that is, भव (*bhava*), gracious-minded, सुमना अनुग्राहकमनाः (*sumanā anugrāhakamanāḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पित्र्यासः (*pitryāsaḥ*)—our fathers, grandfathers and others
+- नरः (*naraḥ*)—leaders of rites, who are
+- ये मर्ताः (*ye martāḥ*)—which sacrificers
+- पुरुत्रा (*purutrā*)—in many regions
+- ते (*te*)—your
+- अनेकं (*anekaṃ*)—of the radiance
+- वि भेजिरे (*vi bhejire*)—took a share and shone
+- उतो (*uto*)—likewise
+- एभिः (*ebhiḥ*)—with these praises worshipping
+- नः (*naḥ*)—for our radiance also
+- सुमनाः (*sumanāḥ*)—being of gracious mind
+- इह (*iha*)—in this sacrifice
+- स्याः (*syāḥ*)—be established
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, just as those sacrificers, our fathers, grandfathers and others, leaders of rites, took a share of your radiance in many regions and shone, so also, for the radiance of us who worship with these praises, be established in this sacrifice with a gracious mind.
+
+##### English translation
+Patriarchal mortals, leaders of rites have shared, Agni, your radiance in many places : (propitiated) by these our (praises, as by theirs), be present at this sacrifice.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे नरो॑ वृत्र॒हत्ये॑षु॒ शूरा॒ विश्वा॒ अदे॑वीर॒भि सं॑तु  ॒
+> मायाः ।  
+> ये मे॒ धियं॑ प॒नयं॑त प्रश॒स्तां ॥ १० ॥
+
+### Printed p. 628
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । नरः । वृत्रहत्येषु । शूराः । विश्वाः । अदेवीः । अभि । संतु । मायाः ।  
+> ये । मे । धियं । पनयंत । प्रशस्तां ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मनुष्या मे वदीयां प्रशस्तां प्रकृष्टां धियं कर्म स्तुतिं वा पनयंत स्तुवंति ब्रुवंति वा त इमे मयि स्निग्ना नरो मनुष्या वृत्रहत्येषु संग्रामेषु शूरा अदेवीरासुरीर्विश्वाः सर्वा माया अभि संतु । अभिभवंतु ॥
+
+##### Gist of the bhāṣya
+
+The men who praise, पनयंत (*panayaṃta*), that is, स्तुवंति ब्रुवंति वा (*stuvaṃti bruvaṃti vā*), my, मे वदीयां (*me vadīyāṃ*), excellent, प्रशस्तां प्रकृष्टां (*praśastāṃ prakṛṣṭāṃ*), rite or praise, धियं कर्म स्तुतिं वा (*dhiyaṃ karma stutiṃ vā*): may those men, devoted to me, heroes in the battles, वृत्रहत्येषु संग्रामेषु (*vṛtrahatyeṣu saṃgrāmeṣu*), overcome all the demonic wiles, अदेवीरासुरीर्विश्वाः सर्वा माया अभि संतु (*adevīrāsurīrviśvāḥ sarvā māyā abhi saṃtu*), that is, अभिभवंतु (*abhibhavaṃtu*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which men
+- मे (*me*)—my
+- प्रशस्तां (*praśastāṃ*)—excellent
+- धियं (*dhiyaṃ*)—rite
+- पनयंत (*panayaṃta*)—praise
+- इमे नरः (*ime naraḥ*)—these same men, dear to me
+- वृत्रहत्येषु (*vṛtrahatyeṣu*)—in battles
+- शूराः (*śūrāḥ*)—being valiant
+- अदेवीः (*adevīḥ*)—connected with the asuras
+- विश्वाः मायाः (*viśvāḥ māyāḥ*)—all deceitful acts
+- अभि संतु (*abhi saṃtu*)—let them destroy
+
+##### भावार्थ (Bhāvārtha)
+
+Those men who praise my excellent rite, those same men dear to me, being valiant in battles, may they destroy all the deceitful acts connected with the asuras.
+
+##### English translation
+May those men who commend this my sacred rite, heroes, in battles with foes, overcome all impious devices.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा शूने॑ अग्ने॒ नि ष॑दाम नृ॒णां माशेष॑सो॒ऽवीर॑ता॒ परि॑  
+> त्वा ।  
+> प्र॒जाव॑तीषु॒ दुर्या॑सु दुर्य ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । शूने । अग्ने । नि । सदाम । नृणां । मा । अशेषसः । अवीरता । परि । त्वा ।  
+> प्रजावतीषु । दुर्यासु । दुर्य ॥ ११ ॥
+
+### Printed p. 629
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने शूने शून्ये पुत्रादिरहिते गृहे मा नि षदाम । न निवसाम ।
+> नृणामन्येषां च गृहे मा नि षदाम । दुर्य गृहेभ्यो हित हे अग्ने अशेषसोऽपुत्राः । तोक्म शेष इति पुत्रनामसु पाठात् । अवीरतावीरतया युक्ताश्च
+> संतस्त्वा त्वां परि चरंतः प्रजावतीष्टेव दुर्यासु गृहेषु निवसाम ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in an empty house, शूने शून्ये (*śūne śūnye*), devoid of sons and the rest, let us not sit down, मा नि षदाम (*mā ni ṣadāma*), that is, न निवसाम (*na nivasāma*). Let us not sit down in the house of other men either, नृणामन्येषां च गृहे (*nṛṇāmanyeṣāṃ ca gṛhe*). O Agni, दुर्य गृहेभ्यो हित (*durya gṛhebhyo hita*), benefactor of houses, अशेषसोऽपुत्राः (*aśeṣaso 'putrāḥ*), without sons, since the words तोक्म शेष इति पुत्रनामसु पाठात् (*tokma śeṣa iti putranāmasu pāṭhāt*), are read among the names of a son; and, being endowed with अवीरतावीरतया (*avīratāvīratayā*) **NOTE**, serving you, संतस्त्वा त्वां परि चरंतः (*saṃtastvā tvāṃ pari caraṃtaḥ*), let us dwell in houses full of progeny, प्रजावतीष्टेव दुर्यासु गृहेषु निवसाम (*prajāvatīṣṭeva duryāsu gṛheṣu nivasāma*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- शूने (*śūne*)—in an empty house devoid of sons and the rest
+- मा नि षदाम (*mā ni ṣadāma*)—do not make us sit down
+- नृणां (*nṛṇāṃ*)—in the house of others
+- मा (*mā*)—may we not come to take shelter
+- दुर्य (*durya*)—O Agni, who love a dwelling
+- अशेषसः (*aśeṣasaḥ*)—bereft of sons also
+- अवीरता (*avīratā*)—bereft of valour, we who are so
+- त्वा (*tvā*)—you
+- परि (*pari*)—worshipping (as a result)
+- प्रजावतीषु (*prajāvatīṣu*)—filled with sons and the rest
+- दुर्यासु (*duryāsu*)—in the houses (grant that we dwell)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, do not make us sit down in an empty house devoid of sons and the rest. May we not have to take shelter in the house of others. O Agni, who love a dwelling, grant that we, who are bereft of sons and bereft of valour, worshipping you, may as a result dwell in houses filled with sons and the rest.
+
+##### English translation
+Let us not sit down, Agni, in an emty dwelling, (nor in those) of (other) men : let us not be without successors; or, being without male posterity, let us, friend of dwellings, (by) worshipping you, (come to abide) in houses filled with progeny.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यम॒श्वी नित्य॑मुप॒याति॑ य॒ज्ञं प्र॒जावं॑तं स्वप॒त्यं क्षयं॑  
+> नः ।  
+> स्वज॑न्मना॒ शेष॑सा नावृधा॒नं ॥ १२ ॥
+
+### Printed p. 630
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । अश्वी । नित्यं । उपयाति । यज्ञं । प्रजावंतं । सुअपत्यं । क्षयं । नः ॥  
+> स्वजन्मना । शेषसा । ववृधानं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यं यज्ञं यज्ञाश्रयमश्वश्ववानग्निर्नित्यमुपयाति तं प्रजावंतं
+> भृत्यादिसहितं स्वपत्यं शोभनसंतानोपेतं स्वजन्मनौरसेन शेषसा पुत्रेण ववृधानं वर्धमानं क्षयं गृहं नोऽस्मभ्यं हे अग्ने देहीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The sacrifice, यं यज्ञं (*yaṃ yajñaṃ*), that is, the house which is the abode of the sacrifice, which Agni, with horses, constantly approaches, यज्ञाश्रयमश्वश्ववानग्निर्नित्यमुपयाति (*yajñāśrayamaśvaśvavānagnirnityamupayāti*): that house, क्षयं गृहं (*kṣayaṃ gṛhaṃ*), provided with servants and the rest, प्रजावंतं भृत्यादिसहितं (*prajāvaṃtaṃ bhṛtyādisahitaṃ*), with good offspring, स्वपत्यं शोभनसंतानोपेतं (*svapatyaṃ śobhanasaṃtānopetaṃ*), growing, ववृधानं वर्धमानं (*vavṛdhānaṃ vardhamānaṃ*), through a son, शेषसा पुत्रेण (*śeṣasā putreṇa*), born of his own body, स्वजन्मनौरसेन (*svajanmanaurasena*), give to us, O Agni; "give" is the word to be supplied, देहीति शेषः (*dehīti śeṣaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यं (*yaṃ*)—which
+- यज्ञं (*yajñaṃ*)—the house that is the abode of the sacrifice
+- अश्वी (*aśvī*)—Agni, who has horses
+- नित्यं (*nityaṃ*)—always
+- उपयाति (*upayāti*)—enters (such)
+- प्रजावंतं (*prajāvaṃtaṃ*)—provided with servants and the rest
+- स्वपत्यं (*svapatyaṃ*)—endowed with excellent offspring
+- स्वजन्मना (*svajanmanā*)—born of his own body
+- शेषसा (*śeṣasā*)—by a son
+- ववृधानं (*vavṛdhānaṃ*)—growing
+- क्षयं (*kṣayaṃ*)—the house
+- नः (*naḥ*)—to us give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, give us the house, the abode of the sacrifice, which Agni with horses always enters, provided with servants and the rest, endowed with excellent offspring, and growing through a son born of his own body.
+
+##### English translation
+To whatsoever sacrifice the lord of horses regularly repairs, render, (Agni), our dwelling blessed with progeny, with excellent posterity, with lineal successors.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒हि नो॑ अग्ने र॒क्षसो॒ आजु॑ष्टात्पा॒हि धू॒र्तेरर॑रुषो  ॒
+> अघायोः ।  
+> त्वा यु॒जा पृ॑तना॒यूर॒भि स्यां॑ ॥ १३ ॥
+
+### Printed p. 631
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पाहि । नः । अग्ने । रक्षसः । अजुष्टात् । पाहि । धूर्तेः । अररुषः । अघयोः ।  
+> त्वा । यजा । पृतनायून् । अभि । स्यां ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मानजुष्वादप्रीतिविषयाद्रक्षसो राक्षसात्पाहि । रक्ष । किंचाररुषोऽदातुरघायोः पापमिच्छतो धूर्तॆर्हिंसकात्पाहि । आपि च त्वा त्वया
+> युजा सहायभूतेन पृतनायून् पृतनाकामानभि स्यां । अहमभिभवेयं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect us from the rākṣasa who is an object of displeasure, नोऽस्मानजुष्वादप्रीतिविषयाद्रक्षसो राक्षसात्पाहि (*no 'smānajuṣvādaprītiviṣayādrakṣaso rākṣasātpāhi*), guard us. Further, protect us from the harmful one, किंचाररुषोऽदातुरघायोः पापमिच्छतो धूर्तॆर्हिंसकात्पाहि (*kiṃcāraruṣo 'dāturaghāyoḥ pāpamicchato dhūrtèrhiṃsakātpāhi*), who is a non-giver and wishes for evil. And with you, त्वा त्वया (*tvā tvayā*), as my ally, युजा सहायभूतेन (*yujā sahāyabhūtena*), may I overcome, अहमभिभवेयं (*ahamabhibhaveyaṃ*), those who are eager for battle, पृतनायून् पृतनाकामानभि (*pṛtanāyūn pṛtanākāmānabhi*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—us
+- अजुष्टात् (*ajuṣṭāt*)—who is an object of hatred
+- रक्षसः (*rakṣasaḥ*)—from the rākṣasa
+- पाहि (*pāhi*)—protect
+- आररुषः (*āraruṣaḥ*)—who is no giver
+- आघायोः (*āghāyoḥ*)—who wishes evil
+- धूर्तेः (*dhūrteḥ*)—from the harmful one also
+- पाहि (*pāhi*)—protect
+- त्वा युजा (*tvā yujā*)—together with you
+- पृतनायून् (*pṛtanāyūn*)—the asuras who are bent only on battle
+- अभि ष्प्यां (*abhi ṣpyāṃ*)—may we conquer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us from the rākṣasa who is an object of hatred. Protect us also from the harmful one who is no giver and who wishes evil. May we, with your help, conquer the asuras who are always bent on battle.
+
+##### English translation
+Protect us, Agni, from the odious Rakshasas; protect us from the malignant, the illiberal, the iniquitous; may I, with you for my ally, triumph over the hostile.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सेद॒ग्निर॒ग्नीरत्य॑स्त्व॒न्यान्यत्र॑ वा॒जी तन॑यो वी॒ळुपा॑णिः ।  
+> स॒हस्र॑पाथा अ॒क्षरा॑ स॒मेति॑ ॥ १४ ॥
+
+### Printed p. 632
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । अग्निः । अग्नीन् । अति । अस्तु । अन्यान् । यत्र । वाजी । तनयः । वीळुs  
+> पाणिः ।  
+> सहस्रपाथाः । अक्षरा । संएति ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इत् स एवाग्निराहवनीयादिरस्मदीयोऽन्यानितरानन्यदीयानग्नीनश्यस्तु ।
+> अतिभवतु । यत्र यस्मिन्नग्नौ वाज्यशनवान् बलवान्वा वीळुपाणिर्द्वढहस्तः । वीळु
+> चौत्यमिति बलनामसु पाठात् । सहस्रपाथा बह्वन्नो बहुस्थानो वा बहूदको
+> वा तनयोऽस्मत्पुत्रोऽक्षराक्षरेण क्षयरहितेन स्तोत्रेण समेति सम्यक् परिचरन्नेति । समर्थपुत्रवत एवाग्निरन्यदीयानग्नीनभिभवतीति भावः ॥
+
+##### Gist of the bhāṣya
+
+That very Agni, our Āhavanīya and the rest, स इत् स एवाग्निराहवनीयादिरस्मदीयोऽन्यानितरानन्यदीयानग्नीनश्यस्तु (*sa it sa evāgnirāhavanīyādirasmadīyo 'nyānitarānanyadīyānagnīnaśyastu*), let him surpass, अतिभवतु (*atibhavatu*), other fires, those belonging to others. That fire in which, यत्र यस्मिन्नग्नौ (*yatra yasminnagnau*), the son, तनयोऽस्मत्पुत्रोऽक्षराक्षरेण (*tanayo 'smatputro 'kṣarākṣareṇa*), who is possessed of food or strong, वाज्यशनवान् बलवान्वा (*vājyaśanavān balavānvā*), firm-handed, वीळुपाणिर्द्वढहस्तः (*vīḷupāṇirdvaḍhahastaḥ*), since वीळु (*vīḷu*) and चौत्यमिति बलनामसु पाठात् (*cautyamiti balanāmasu pāṭhāt*) are read among the names of strength, and सहस्रपाथा (*sahasrapāthā*), having much food, or many places, or much water, बह्वन्नो बहुस्थानो वा बहूदको (*bahvanno bahusthāno vā bahūdako*), approaches, समेति (*sameti*), that is, सम्यक् परिचरन्नेति (*samyak paricaranneti*), attending well, with imperishable praise, क्षयरहितेन स्तोत्रेण (*kṣayarahitena stotreṇa*). The meaning is that the Agni of one who has a capable son surpasses the fires of others, समर्थपुत्रवत एवाग्निरन्यदीयानग्नीनभिभवतीति भावः (*samarthaputravata evāgniranyadīyānagnīnabhibhavatīti bhāvaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which fire
+- वाजी (*vājī*)—powerful
+- वीळुपाणिः (*vīḷupāṇiḥ*)—having a firm hand
+- सहस्रपाथाः (*sahasrapāthāḥ*)—having abundant wealth of food
+- तनयः (*tanayaḥ*)—the son
+- अक्षरा (*akṣarā*)—with imperishable praise
+- समेति (*sameti*)—approaches and offers worship
+- स इत् अग्निः (*sa it agniḥ*)—that very Agni
+- अन्यान् (*anyān*)—belonging to other sacrificers
+- अग्नीन् (*agnīn*)—fires
+- अत्यस्तु (*atyastu*)—let him shine surpassing them
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni in which a son, powerful, firm-handed and possessed of abundant wealth of food, approaches and offers worship with imperishable praise, may that same Agni shine surpassing the fires belonging to other sacrificers.
+
+##### English translation
+May that fire (kindled by me) surpass all other fires, at which a vigorous son, firm-handed, possessing a thousand means (of living), co-operates in imperishable (praise).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सेद॒ग्नि र्यो व॑नुष्य॒तो नि॒पाति॑ समे॒द्धार॒मंह॑स उरु॒ष्मात् ।  
+> सु॒जा॒तासः॒ परि॑ चरंति वी॒राः ॥ १५ ॥
+
+### Printed p. 633
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । अग्निः । यः । वनुष्यतः । निपाति । संविद्यारं । अंहसः । उरुष्यात् ।  
+> सुजातासः । परि । चरंति । वीराः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः समेद्धारं प्रबोधकं वनुष्यतो हिंसकात् । वनुष्यतिर्हंतिकर्मेति
+> यास्कः । उरुष्यात् अधिकादंहसः पापाच्च निपाति अत्यंतं रक्षति । यं च सुजातासः
+> सुजन्मान एव वीराः स्तोतारः सुता वा परि चरंति स इत् स एवाग्निः ॥
+
+##### Gist of the bhāṣya
+
+He who protects exceedingly, निपाति अत्यंतं रक्षति (*nipāti atyaṃtaṃ rakṣati*), the kindler, समेद्धारं प्रबोधकं (*sameddhāraṃ prabodhakaṃ*), from the harmful, वनुष्यतो हिंसकात् (*vanuṣyato hiṃsakāt*): Yāska says that वनुष्यतिर्हंतिकर्मेति यास्कः (*vanuṣyatirhaṃtikarmeti yāskaḥ*), vanuṣyati is a word for the act of killing; and from the greater sin, उरुष्यात् अधिकादंहसः पापाच्च (*uruṣyāt adhikādaṃhasaḥ pāpācca*); and whom the well-born, सुजातासः सुजन्मान एव (*sujātāsaḥ sujanmāna eva*), heroes, who are the praisers or the sons, attend: that very Agni, स इत् स एवाग्निः (*sa it sa evāgniḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- समेद्धारं (*sameddhāraṃ*)—the sacrificer who makes him blaze
+- वनुष्यतः (*vanuṣyataḥ*)—from the harmful enemy also
+- उरुष्यात् (*uruṣyāt*)—very great
+- अंदसः (*aṃdasaḥ*)—from sin also
+- निपाति (*nipāti*)—protects exceedingly
+- यं (*yaṃ*)—which Agni
+- सुजातासः (*sujātāsaḥ*)—of excellent birth
+- वीराः (*vīrāḥ*)—praisers
+- परि चरंति (*pari caraṃti*)—wait upon
+- स इत् अग्निः (*sa it agniḥ*)—that very Agni (who is worthy of worship)
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who protects exceedingly the sacrificer who makes him blaze, from the harmful enemy and from very great sin, and whom the praisers of excellent birth wait upon, that same Agni is worthy of worship.
+
+##### English translation
+Verily be is Agni, who defends from the malevolent .and from heinous sin (the worshipper) kindling (the fire): he (it is) whom the well-born worshippers adore.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं सो अ॒ग्निराहु॑तः पुरु॒त्रा यमीशा॑नः॒ समिदिं॒धे  ॒॑
+> ह॒विष्मा॑न् ।  
+> परि॒ यमेत्य॑ध्व॒रेषु॒ होता॑ ॥ १६ ॥
+
+### Printed p. 634
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । सः । अग्निः । आहुतः । पुरुत्रा । यं । ईशानः । सं । इत् । इंथे ।  
+> हविष्मान् ।  
+> परि । यं । एति । अध्वरेषु । होता ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमग्निमीशानः समृद्ध ऐश्वर्यमिच्छन् वा हविष्मान् यजमानः समिंधे
+> सम्यक् दीपयंति । यं चाध्वरेषु हिंसारहितेषु यज्ञेषु होता देवानामाह्वाता पर्योति परिगच्छति सोऽयमग्निः पुरुत्रा बहुषु देशेषु बहुषु
+> यज्ञेषु वाहुत आहुतिभिरभिहुतः ॥
+
+##### Gist of the bhāṣya
+
+The Agni whom the master, ईशानः (*īśānaḥ*), who is wealthy or desires wealth, the sacrificer possessed of oblation, हविष्मान् यजमानः (*haviṣmān yajamānaḥ*), kindles, समिंधे (*samiṃdhe*), that is, lights well; and whom the Hotṛ, the invoker of the gods, होता देवानामाह्वाता (*hotā devānāmāhvātā*), goes around, पर्योति परिगच्छति (*paryoti parigacchati*), at the sacrifices free from harm, चाध्वरेषु हिंसारहितेषु यज्ञेषु (*cādhvareṣu hiṃsārahiteṣu yajñeṣu*): that Agni is offered oblations, आहुतः (*āhutaḥ*), in many places, पुरुत्रा बहुषु देशेषु (*purutrā bahuṣu deśeṣu*), or in many sacrifices, with the offerings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—which Agni
+- ईशानः (*īśānaḥ*)—the lord of all wealth
+- हविष्मान् (*haviṣmān*)—the sacrificer who is possessed of oblation
+- समिंधे (*samiṃdhe*)—kindles
+- यं इत् (*yaṃ it*)—that very Agni
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- होता (*hotā*)—the Hotṛ
+- परि एति (*pari eti*)—worships by circumambulating
+- सः (*saḥ*)—such
+- अयं अग्निः (*ayaṃ agniḥ*)—this Agni
+- पुरुत्रा (*purutrā*)—in many regions
+- आहुतः (*āhutaḥ*)—is offered oblations
+
+##### भावार्थ (Bhāvārtha)
+
+This Agni, whom the sacrificer, lord of wealth and possessed of oblation, kindles, and whom the Hotṛ worships by circumambulating at the sacrifices, in him alone do all offer oblations in many regions.
+
+##### English translation
+This is the Agni invoked in many places: whom the prince, presenting oblations to, kindles, whom the ministrant priest circumam- bulates at sacrifices.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे अ॑ग्न आ॒हव॑नानि॒ भूरी॑शा॒नास॒ आ जु॑हुयाम॒ नित्या॑ ।  
+> उ॒भा कृ॒ण्वंतो॑ वह॒तू मि॒येधे॑ ॥ १७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 626. Vol 21 Maṇḍala 7 Sūkta 1, Ṛks 2-9 (saṃhitā of 9)
+**Progress note:** Done through printed p. 634. Vol 21 Maṇḍala 7 Sūkta 1, Ṛks 9-17 (saṃhitā of 17)
