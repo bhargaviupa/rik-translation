@@ -25703,6 +25703,184 @@ O king, I cover your vital parts with an iron armour. Afterwards may Soma the ki
 ##### English translation
 I cover your vital parts with armour ; may the royal Soma invest you with amarosia : may Varuna amplify your ample felicity : may the gods rejoice (at beholding you) triumphant.
 
+### Printed p. 592
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नः॒ स्वो अर॑णो॒ यश्च॒ निष्टो॒ जिघां॑सति ।  
+> दे॒वास्तं सर्वे॑ धूर्वंतु॒ ब्रह्म॒ वर्म॒ ममांत॑रं ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । स्वः । अरणः । यः । च । निष्पृतिः । जिघांसति ।  
+> देवाः । तं । सर्वे । धूर्वंतु । ब्रह्म । वर्म । मम । अंतरं ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः स्वो ज्ञातिररणोऽरममाणो यश्च निष्ट्यस्तिरोभूतो दूरे स्थितो
+> नोऽस्मान् जिघांसति हंतुमिच्छति तं देवाः सर्वे देवा धूर्वंतु । हिंसंतु ।
+> ब्रह्म मंत्रो ममांतरं शराणां निवारकं वर्म विद्यते ॥
+
+##### Gist of the bhāṣya
+
+Whoever is our own kinsman but takes no delight in us, and whoever is cast aside, become remote and standing at a distance, and wishes to kill us — all the gods are to strike him down. The mantra (*brahma*) is for me an armour that wards off arrows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—whoever
+- स्वः (*svaḥ*)—a kinsman belonging to us, whether (or)
+- अरणः (*araṇaḥ*)—one filled with impatience
+- निष्पृः (*niṣpṛḥ*)—a distant one, not a kinsman, whether **NOTE**
+- यश्च (*yaśca*)—whoever
+- नः (*naḥ*)—us
+- जिघांसति (*jighāṃsati*)—wishes to kill
+- तं (*taṃ*)—him
+- सर्वे देवाः (*sarve devāḥ*)—all the gods
+- धूर्वंतु (*dhūrvaṃtu*)—may they strike down
+- ब्रह्म (*brahma*)—the mantra that praises the gods
+- मम (*mama*)—for me
+- अंतरं (*aṃtaraṃ*)—that wards off enemies
+- वर्म (*varma*)—is an iron armour
+
+##### भावार्थ (Bhāvārtha)
+
+Whoever of our own kinsmen, or whoever of those who stand at a distance, wishes to kill us, all of them may all the gods strike down. The mantra that praises the gods is for us an iron armour that wards off the arrows of enemies.
+
+##### English translation
+Whoever, weather an unfriendly relative or a stranger, desires to kill us, may all the gods destroy him : prayer is my best armour.
+
+##### विशेषविषयगळु (Special Topics)
+
+The seer, placing faith in the power and capacity that lie in mantras, has praised the gods, praying that the mantra that praises the gods may protect us like a coat of armour.
+
+### Printed p. 593
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये षष्ठं मंडलं समाप्तं ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye ṣaṣṭhaṃ maṃḍalaṃ samāptaṃ ‖*)
+
+ओं तत्सत् (*oṃ tatsat*)
+
+Here ends the sixth maṇḍala of the Ṛgveda-saṃhitā, accompanied by the venerable Sāyaṇa-bhāṣya and by a Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS**
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+मंगळं (*maṃgaḷaṃ*)
+
+ओं (*oṃ*)
+
+श्रीः (*śrīḥ*)
+
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*) **GLOSS**
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+सायणभाष्यसहिता ऋग्वेदसंहिता (*sāyaṇabhāṣyasahitā ṛgvedasaṃhitā*)
+
+(with the explanation of the Kannada translation of the meaning)
+
+पंचमाष्टके प्रथमोऽध्यायः (*paṃcamāṣṭake prathamo 'dhyāyaḥ*)
+
+The first chapter in the fifth Aṣṭaka.
+
+**The Seventh Maṇḍala**
+
+**Introduction**
+
+Vasiṣṭha is the seer who beheld the seventh maṇḍala of the Ṛgveda-saṃhitā. In this maṇḍala there are 104 sūktas in all. Unlike the other maṇḍalas, this maṇḍala does not have many seers; Vasiṣṭha alone is the seer, and this is the special feature of this maṇḍala. In the Purāṇas and other works too the seer Vasiṣṭha is renowned as one of the seven seers and as one of great radiance. Between this seer Vasiṣṭha and the seer Viśvāmitra, enmity arose for some reason, and the course of action they pursued and other matters are described at length in the Purāṇas and other works. The root cause of this matter is hinted at to some extent in the Ṛgveda, and that very thing is told at length in the Purāṇas and other works. Now, in this introduction, we shall give a brief account of the seer Vasiṣṭha.
+
+### Printed p. 596
+
+**A Brief Account of the Seer Vasiṣṭha**
+
+The great seer Vasiṣṭha is most highly praised in the Ṛg and the other Saṃhitās and in the Brāhmaṇas and other works. In the Ṛk-saṃhitā the seventh maṇḍala is wholly renowned as the Vasiṣṭha-maṇḍala. This great seer, having attained the direct realisation of the spiritual principle, has in his works described and praised in many ways the secrets of the universe and the special glories of the Lord. In the present account the divine life of this great seer is divided into three parts and set forth: (1) first, his divine descent, his birth and his personal greatness; (2) second, his relation to the king named Sudāsa and its consequences; (3) third, the mutual enmity that arose between him and Viśvāmitra and its result. Having made this division, we shall show how these matters are described in Vedic passages, and afterwards briefly state the points made in the Purāṇas and other works.
+
+**The birth of Vasiṣṭha and his surpassing greatness**
+
+In the Ṛk-saṃhitā, in many places, Vasiṣṭha is praised as one sprung from a divine portion and as one possessing personal greatness. The manner of his birth is told in this way.
+
+विद्युतो ज्योतिः परि संजिहानं मित्रावरुणा यदपश्यतां त्वा । तत्ते जन्मोतैकं वसिष्ठागस्यो यत्त्वा विश आजभार ॥ (*vidyuto jyotiḥ pari saṃjihānaṃ mitrāvaruṇā yadapaśyatāṃ tvā | tatte janmotaikaṃ vasiṣṭhāgasyo yattvā viśa ājabhāra ‖*) (Ṛ. Saṃ. 7-33-10)
+
+O Vasiṣṭha, when you spread your own radiance and made your power manifest, then Mitra and Varuṇa saw you. Immediately afterwards your birth took place on the earth. This is only one of your many kinds of manifestation.
+
+उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन् मनसोधि जातः । द्रप्सं स्कन्नं ब्रह्मणा दैव्येन विश्वे देवाः पुष्करे त्वाददंत ॥ (*utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahman manasodhi jātaḥ | drapsaṃ skannaṃ brahmaṇā daivyena viśve devāḥ puṣkare tvādadaṃta ‖*) (Ṛ. Saṃ. 7-33-11)
+
+O Vasiṣṭha, from the power of the seed of Mitra and Varuṇa, which fell at the sight of Urvaśī, you were born according to her wish. Immediately all the gods too placed you, one sprung from a divine portion and endowed with a mass of Vedic knowledge, in the Puṣkara.
+
+स प्रकेत उभयस्य प्रविद्वान्त्सहस्रदान उत वा सदानः । यमेन ततं परिधिं वयिष्यन्नप्सरसः परि जज्ञे वसिष्ठः ॥ (*sa praketa ubhayasya pravidvāntsahasradāna uta vā sadānaḥ | yamena tataṃ paridhiṃ vayiṣyannapsarasaḥ pari jajñe vasiṣṭhaḥ ‖*) (Ṛ. Saṃ. 7-33-12)
+
+### Printed p. 597
+
+This Vasiṣṭha, fully knowing the principles of both heaven and earth, is a giver of gifts of many kinds, or else he is himself the very form of giving. Covered with the cloth of saṃsāra spread out far and wide by Yama, the controller of the whole world, he was born on the earth from the womb of Urvaśī.
+
+सत्रे ह जाताविषिता नमोभिः कुंभे रेतः सिषिचतुः समानं । ततो ह मान उदियाय मध्यात्ततो जातमृषिमाहुर्वसिष्ठं ॥ (*satre ha jātāviṣitā namobhiḥ kuṃbhe retaḥ siṣicatuḥ samānaṃ | tato ha māna udiyāya madhyāttato jātamṛṣimāhurvasiṣṭhaṃ ‖*) (Ṛ. Saṃ. 7-33-13)
+
+When Mitra and Varuṇa, initiated for the sacrifice, poured their seed into the common jar of a pot that had been set up with praise, there arose in the middle, out of that vessel called Vasatīvarī, the birth of Agastya, and afterwards, out of the same vessel, the birth of Vasiṣṭha.
+
+उक्तभृतं सामभृतं बिभर्ति ग्रावाणं बिभ्रत्प्र वदात्यग्रे । उपैनमाध्वं सुमनस्यमाना आ वो गच्छाति प्रत्यदो वसिष्ठः ॥ (*uktabhṛtaṃ sāmabhṛtaṃ bibharti grāvāṇaṃ bibhratpra vadātyagre | upainamādhvaṃ sumanasyamānā ā vo gacchāti pratyado vasiṣṭhaḥ ‖*) (Ṛ. Saṃ. 7-33-14)
+
+O sacrificers called Pratṛt, the venerable Vasiṣṭha comes to you. **NOTE** Honour such a Vasiṣṭha. In your sacrifice he takes the place of the Brahman priest and is the guide of the reciters of the śastra-mantras, of the Udgātṛs, and of those engaged in the pressing rite. Therefore honour him and treat him with respect: such are the words of praise. The authors of the Bṛhaddevatā have explained this very matter as follows.
+
+प्राजापत्यो मरीचिर्हि मारीचः कश्यपो मुनिः । तस्य देव्योऽभवज्जाया दाक्षायण्यस्रयोदश ॥ अदितिर्दितिर्दनुः काला दनायुः सिंहिका मुनिः । (*prājāpatyo marīcirhi mārīcaḥ kaśyapo muniḥ | tasya devyo 'bhavajjāyā dākṣāyaṇyasrayodaśa ‖ aditirditirdanuḥ kālā danāyuḥ siṃhikā muniḥ |*) (Bṛ. De. 5. 143,144)
+
+Prajāpati obtained a son named Marīci. The son of Marīci was the great seer Kaśyapa. This Kaśyapa married thirteen divine maidens, daughters of Dakṣa. Those maidens bore the names Aditi, Diti, Danu, Kālā, Danāyu, Siṃhakā and so on.
+
+तत्रैका त्वदितिर्देवी द्वादशाजनयत्सुतान् । भगश्चैवार्यमांशश्च मित्रो वरुण एव च । धाता चैव विधाता च विवस्वांश्च महाद्युतिः ॥ (*tatraikā tvaditirdevī dvādaśājanayatsutān | bhagaścaivāryamāṃśaśca mitro varuṇa eva ca | dhātā caiva vidhātā ca vivasvāṃśca mahādyutiḥ ‖*) (Bṛ. De. 5. 146,447) **NOTE**
+
+Among these daughters, Aditi, the goddess-natured, bore twelve sons: Bhaga, Arama, Aṃśa, Mitra, Varuṇa, Dhātṛ, Vidhātṛ, Vivasvān of great splendour, and
+
+### Printed p. 598
+
+त्वष्टा पूषा तथैवेंद्रो द्वादशो विष्णुरुच्यते । द्वन्ध्वं तस्यास्तु तज्ञज्ञे मित्रश्च वरुणश्च ह ॥ (*tvaṣṭā pūṣā tathaiveṃdro dvādaśo viṣṇurucyate | dvandhvaṃ tasyāstu tajñajñe mitraśca varuṇaśca ha ‖*) (Bṛ. De. 5-148)
+
+Tvaṣṭṛ, Pūṣan, Indra and Viṣṇu — these are the twelve children. Viṣṇu is the twelfth. Thus from this Aditi were born the pair Mitra and Varuṇa (the twins).
+
+तयोरादित्ययोस्सत्ते दृष्ट्वाप्सरसमुर्वशीं । रेतश्चस्कंद तत्कुंभे न्यपतद्वासतीवरे ॥ (*tayorādityayossatte dṛṣṭvāpsarasamurvaśīṃ | retaścaskaṃda tatkuṃbhe nyapatadvāsatīvare ‖*) (Bṛ. De. 5-149)
+
+Of these twelve Ādityas, Mitra and Varuṇa both saw, at the time of the sacrifice of the sattra kind, the divine woman Urvaśī. As soon as they saw her, their seed fell. Then it fell together into the vessel called Vasatīvarī.
+
+तेनैव तु मुहूर्तेन वीर्यवंतौ तपस्विनौ । अगस्त्यश्च वसिष्ठश्च तत्रर्षि संबभूवतुः ॥ (*tenaiva tu muhūrtena vīryavaṃtau tapasvinau | agastyaśca vasiṣṭhaśca tatrarṣi saṃbabhūvatuḥ ‖*) (Bṛ. De. 5-150)
+
+As soon as that seed fell into that vessel, the seers Agastya and Vasiṣṭha, mighty and ascetic, were born from it. The manner of their birth is this:
+
+बहुधा पतिते शुक्रे कलशेऽथ जले स्थले । स्थले वसिष्ठस्तु मुनिः संभूत ऋषिसत्तमः ॥ (*bahudhā patite śukre kalaśe 'tha jale sthale | sthale vasiṣṭhastu muniḥ saṃbhūta ṛṣisattamaḥ ‖*) (Bṛ. De. 5-151) **NOTE**
+
+That seed, fallen from Mitra and Varuṇa, was divided in many ways. It was spilt in the jar, in the water and on the earth. From the portion spilt on the earth, the great seer Vasiṣṭha, the best of all seers, was born on the earth (Agastya was born in the jar, and Matsya in the water).
+
+कुंभ इत्यभिधानं तु परिमाणस्य लक्ष्यते । ततोऽप्सु गृह्यमाणासु वसिष्ठिः पुष्करे स्थितः ॥ (*kuṃbha ityabhidhānaṃ tu parimāṇasya lakṣyate | tato 'psu gṛhyamāṇāsu vasiṣṭhiḥ puṣkare sthitaḥ ‖*) (Bṛ. De. 5-15) **NOTE**
+
+Because the jar, the source of the birth of the seer Agastya, was a means of measure, it came to be called by that name. At the time when the water was being drawn up, the great seer Vasiṣṭha was seen standing on the lotus (*puṣkara*). This very fact is described in the Ṛk quoted above by the words विश्वे देवाः पुष्करे त्वाददंतॆ (*viśve devāḥ puṣkare tvādadaṃtè*) (Ṛ. Saṃ. 7-33-11). Explaining this Ṛk, the author of the Nirukta
+
+### Printed p. 599
+
+has said सर्वे देवाः पुष्करे त्वाधारयंत (*sarve devāḥ puṣkare tvādhārayaṃta*) (Ni. 5-14).
+
+सर्वत्र पुष्करं तत्र विश्वे देवा आधारयन् । उत्थाय सलिलात्तस्मादथ तेपे महत्तपः ॥ (*sarvatra puṣkaraṃ tatra viśve devā ādhārayan | utthāya salilāttasmādatha tepe mahattapaḥ ‖*) (Bṛ. De. 5-155)
+
+At that time all the gods, in all directions, lifted up and held this Vasiṣṭha; so Vasiṣṭha was raised up from the lotus. Then, rising from it, Vasiṣṭha performed very great austerity.
+
+नामास्य गुणतो जज्ञे वसतेः श्रैष्ठ्यकर्मणः । अदृश्यमृषिभिर्हिंंद्रं सोऽपश्यत्तपसा पुरा ॥ (*nāmāsya guṇato jajñe vasateḥ śraiṣṭhyakarmaṇaḥ | adṛśyamṛṣibhirhiṃṃdraṃ so 'paśyattapasā purā ‖*) (Bṛ. De. 5-156)
+
+From the root *vas*, which denotes a most excellent act, the word Vasiṣṭha was formed, and it is a name that denotes the excellent qualities and deeds of this great seer. It is well known that this great seer obtained the sight of Indra, whom no other seers had been able to see before. For this very reason,
+
+सोमभागानथो तस्मै प्रोवाच हरिवाहनः । ऋषयो वा इंद्रमिति ब्राह्मणात्तद्धि दृश्यते ॥ (*somabhāgānatho tasmai provāca harivāhanaḥ | ṛṣayo vā iṃdramiti brāhmaṇāttaddhi dṛśyate ‖*) (Bṛ. De. 5-157)
+
+Because of those great qualities, Indra, the lord of the horses named Hari, declared: “This Vasiṣṭha too should have a share in the Soma.” This very occasion is told in the Brāhmaṇas and other works with the words ऋषयो वा इंद्रं (*ṛṣayo vā iṃdraṃ*) and so on. This account will be explained further on.
+
+वसिष्ठश्च वसिष्ठाश्च ब्राह्मणा ब्रह्मकर्मणि । सर्वकर्मसु यज्ञेषु दक्षिणीयतमास्तथा ॥ (*vasiṣṭhaśca vasiṣṭhāśca brāhmaṇā brahmakarmaṇi | sarvakarmasu yajñeṣu dakṣiṇīyatamāstathā ‖*) (Bṛ. De. 5-158) **NOTE**
+
+Therefore Vasiṣṭha, and all the seers born in the family of Vasiṣṭha, used to hold the position of the priest called Brahman in all rites. This position, worthy of the best sacrificial fee in all rites, belonged to no one else but them.
+
+तस्माद्येऽद्यापि वासिष्ठाः सदस्याः स्युस्तु कर्हिचित् । अर्हयेद्दक्षिणाभिस्तान् भाल्लवेया श्रुतिस्त्वियं ॥ (*tasmādye 'dyāpi vāsiṣṭhāḥ sadasyāḥ syustu karhicit | arhayeddakṣiṇābhistān bhāllaveyā śrutistviyaṃ ‖*) (Bṛ. De. 5-159)
+
 ---
 
-**Progress note:** Done through printed p. 591. Sūkta 75 Ṛk 13-18 (whip, hand-guard, arrows, armour), pp. 583-591
+**Progress note:** Done through printed p. 599. end of Maṇḍala 6 (Ṛk 6.75.19, colophon), Maṇḍala 7 title and introduction, Vasiṣṭha's birth
