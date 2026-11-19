@@ -25716,6 +25716,228 @@ that both Yadu and Turvaśa suffered defeat from Indra. From this it is understo
 
 it is stated that both Yadu and Turvaśa received help directly from Indra.
 
+### Printed p. 737
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ ह॒ त्यदिं॑द्र॒ विश्व॑मा॒जौ स॒स्तो धुनी॒चुमु॑री॒ या ह॒ सिष्ट॑प्।  
+> दी॒दय॒दित्तुभ्यं॒ सोमे॑भिः सु॒न्वनध॒भीति॑रि॒धृभृ॑तिः प॒क्थ्य१॒॑१-  
+> र्कैः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । ह । त्यत् । इंद्र । विश्वं । आजौ । सस्तः । धुनीचुमुरी इति । या । ह । सिस्वप् ।  
+> दीदयत् । इत् । तुभ्यं । सोमेभिः । सुन्वन् । दभीतिः । इध्मभृतिः । पक्षी । अर्कैः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आजौ संग्रामे तव ह तवैव विश्वं व्याप्तं त्यत्तादृशं कर्म भवति ।
+> कीदृशमिति तदुच्यते । या यौ धुनीचुमुरी । धुनिश्च चुमुरिश्चेत्येतन्नामकावसुरा
+> सिष्टप् त्वमस्वापयः तावसुरौ सस्तः । संग्रामे सुप्तवंतौ मृतावित्यर्थः ॥
+> भूतार्थे व्यत्ययेन लट् । द्वितीयो हशब्दः पादपूरणः ॥ तदनंतरं हे इंद्र
+> तुभ्यं त्वदर्थ० सुन्वन् सोमानभिषुण्वन् पक्थि पक्थवान् हवींषि पक्तवानिध्मभृतिरिध्मानां भर्ताहर्ता वा दभीतिर्नाम राजर्षिः सोमेभिः सोमैरर्कैर्हविलक्षणैरन्नैर्दिदयदित् । दीप्यत एव । धुनिं चुमुरिं तस्मै जघंथेत्यर्थः । त्वं नि दस्युं
+> चुमुरिं धुनिं च । ऋग्वे. ७-१९-४ । इति हि दर्शनात् ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, in the battle all that is pervaded by such a deed is yours alone." What kind of deed? It is explained: the two asuras named Dhuni and Chumuri, whom you put to sleep, "slept" in the battle, that is, they lay dead. The second ह (*ha*) is a mere filler of the verse-quarter. Thereafter, O Indra, for you the royal seer named Dabhīti, pouring out Soma, cooking the oblations, and bearing or fetching the fuel, makes you shine with Somas and with the oblation-foods that are the chants; he kindles you. The meaning is: for him you slew Dhuni and Chumuri. So it is seen in त्वं नि दस्युं चुमुरिं धुनिं च (*tvaṃ ni dasyuṃ cumuriṃ dhuniṃ ca*) (Ṛgve. 7-19-4) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आजौ (*ājau*)—in battle
+- विश्वं (*viśvaṃ*)—everything
+- त्यत् (*tyat*)—whatever famous deed there is, that
+- तव ह (*tava ha*)—is your deed indeed
+- या (*yā*)—which
+- धुनीचुमुरी (*dhunīcumurī*)—the asuras Dhuni and Chumuri
+- सिष्टप् (*siṣṭap*)—you made them languid; they
+- सस्तः (*sastaḥ*)—lay dead in the battle (O Indra)
+- तुभ्यं (*tubhyaṃ*)—for you
+- सुन्वन् (*sunvan*)—pressing the Soma
+- पक्षी (*pakṣī*)—cooking and offering the oblations
+- इध्म भृतिः (*idhma bhṛtiḥ*)—collecting the fuel
+- दभीतिः (*dabhītiḥ*)—the royal seer Dabhīti
+- सोमेभिः (*somebhiḥ*)—with the Somas
+- आर्कैः (*ārkaiḥ*)—with the foods in the form of oblations
+- दीदयदित् (*dīdayadit*)—makes you shine
+
+### Printed p. 738
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whatever deed there is in battle, all of it, the famous one, is your deed. The asuras Dhuni and Chumuri, whom you made languid, lay dead in the battle. O Indra, the royal seer Dabhīti, who presses Soma for you, cooks and offers the oblations and collects the fuel, makes you shine with the Somas and with the foods in the form of oblations (he worships you).
+
+##### English translation
+All this, Indra, has been your work in war : you have put to sleep, (in death), the slumbering Dhuni and Chumuri ; and thereupon Dabhiti, pouring the libition, preparing the oblation, and supplying the fuel, has glorified you with Soma offerings.
+
+##### विशेषविषयगळु (Special Topics)
+
+दभीतिं (*dabhītiṃ*)—Dabhīti is spoken of as a warrior in some places and as a seer in others.
+
+इंद्रो धुनिं च चुमुरिं च दंभयञ्छद्धामनस्या शृणुते दभीतये । (*iṃdro dhuniṃ ca cumuriṃ ca daṃbhayañchaddhāmanasyā śṛṇute dabhītaye |*) (Ṛ. Saṃ. 10-113-9)
+
+स्वप्नेनाभ्युप्या चुमुरिं धुनिं च जघंथ दस्युं प्र दभीतिमावः । (*svapnenābhyupyā cumuriṃ dhuniṃ ca jaghaṃtha dasyuṃ pra dabhītimāvaḥ |*) (Ṛ. Saṃ. 2-15-9)
+
+In these Ṛks Dabhīti is called a royal seer, and it is said that Indra conquered Chumuri and Dhuni for him. It is understood that he pressed and offered Soma juice to Indra and thereby obtained Indra's favour.
+
+अस्वापयद्दभीतये सहस्रा त्रिंशतं हथैः । (*asvāpayaddabhītaye sahasrā triṃśataṃ hathaiḥ |*) दासानामिंद्रो मायया । (*dāsānāmiṃdro māyayā |*) (Ṛ. Saṃ. 4-30-21)
+
+अरज्जा दस्यून्तमुनब्दभीतये सुप्राव्यो अभवः सासुक्थ्यः । (*arajjā dasyūntamunabdabhītaye suprāvyo abhavaḥ sāsukthyaḥ |*) (Ṛ. Saṃ. 2-13-9)
+
+In these Ṛks it is described how Indra, for Dabhīti, put thirty thousand Dāsas (dark people) to sleep, and bound all the Dasyus without a rope.
+
+### Printed p. 739
+
+## Sūkta 21 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमा उ त्वेति द्वादशर्चं षष्ठं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं ।
+> नवम्येकादशी च वैश्वदेव्यौ । तथा चानुक्रम्यते । इमा उ द्वादश नवम्येकादश्या
+> वैश्वदेव्याविति ॥ उपहव्यनाम्मेकाह इदं सूक्तं मरुत्वतीयनिविद्वानं । सूत्रितं
+> च । इमा उ त्वा य एक इदिति मध्यंदिनः । आ. ९-७ । इति ॥ इंद्राविष्टोरुत्क्रांतिनाम्मेकाहेऽपीदं मरुत्वतीयनिविद्वानं । सूत्रितं च । इमा उ त्वा द्यौर्न य
+> इंद्रेति मध्यंदिनः । आ. ९-७ । इति ॥ तृतीये छंदोमेऽपि मरुत्वतीय इदं
+> सूक्तं । सूत्रितं च । प्र मुंदिन इमा उ त्वेति मरुत्वतीयं । आ. ८-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, beginning इमा उ त्वेति (*imā u tveti*), has twelve Ṛks; its seer is Bharadvāja, its metre is triṣṭubh, its deity is Indra. The ninth and the eleventh are addressed to the Viśvedevas. So the Anukramaṇī says: इमा उ द्वादश नवम्येकादश्या वैश्वदेव्याविति (*imā u dvādaśa navamyekādaśyā vaiśvadevyāviti*). In the ekāha named Upahavya this sūkta is the nivid-sūkta of the Marutvatīya recitation, and it is so prescribed in the sūtra इमा उ त्वा य एक इदिति मध्यंदिनः (*imā u tvā ya eka iditi madhyaṃdinaḥ*) (Ā. 9-7). In the ekāha named इंद्राविष्टोरुत्क्रांतिनाम्मेकाहे (*iṃdrāviṣṭorutkrāṃtināmmekāhe*) too it is the nivid-sūkta of the Marutvatīya recitation, as the sūtra इमा उ त्वा द्यौर्न य इंद्रेति मध्यंदिनः (*imā u tvā dyaurna ya iṃdreti madhyaṃdinaḥ*) (Ā. 9-7) says. In the third Chandoma day too this sūkta belongs to the Marutvatīya recitation, as the sūtra प्र मुंदिन इमा उ त्वेति मरुत्वतीयं (*pra muṃdina imā u tveti marutvatīyaṃ*) (Ā. 8-7) says.
+
+Anuvāda: this sūkta, इमा उ त्वा (*imā u tvā*), is the sixth sūkta in the second anuvāka. It has twelve Ṛks. Its seer is Bharadvāja; its deity is Indra; its metre is triṣṭubh. The ninth and the eleventh Ṛks of this sūkta have the Viśvedevas as deity. In the Anukramaṇī it is said: इमा उ द्वादश नवम्येकादश्यौ वैश्वदेव्यौ (*imā u dvādaśa navamyekādaśyau vaiśvadevyau*). In the ekāha sacrifice called Upahavya this sūkta is to be recited as the nivid-sūkta in the middle of the mantras of the Marutvatīya recitation; this is explained by the sūtra इमा उ त्वा य एक इदिति मध्यंदिनः (*imā u tvā ya eka iditi madhyaṃdinaḥ*) of the Āśvalāyana Śrautasūtra (Ā. 9-7). In the ekāha sacrifice called Utkrānti, which is performed for the deities Indra and Viṣṇu, too, this sūkta is to be recited as the nivid-sūkta between the mantras of the Marutvatīya recitation; this is explained by the sūtra इमा उ त्वा द्यूर्न य इंद्रेति मध्यंदिनः (*imā u tvā dyūrna ya iṃdreti madhyaṃdinaḥ*) of the Āśvalāyana Śrautasūtra (Ā. 9-7). Among the mantras of the third Chandoma the use of this sūkta for the Marutvatīya recitation is explained by the sūtra प्र मुंदिन इमा उ त्वेति मरुत्वतीयं (*pra muṃdina imā u tveti marutvatīyaṃ*) of the Āśvalāyana Śrautasūtra (Ā 8-7).
+
+Sūkta 21. Maṇḍala 6. Anuvāka 2. Sūkta 21. Aṣṭaka 4. Adhyāya 6. Varga 11, 12. Number of Ṛks in the sūkta: 13 **NOTE**. Seer: Bharadvāja Bārhaspatya. Deity: 1-8, 11, 12 Indra; 9, 11 Viśvedevas **NOTE**. Metre: Triṣṭubh.
+
+### Printed p. 740
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा उ॑ त्वा पुरु॒तम॑स्य का॒रोर्हव्यं॑ वीर॒ हव्या॑ हवंते ।  
+> धियो॑ रथे॒ष्ठाम॒जरं॒ नवी॑यो र॒यिर्विभू॑तिरीयते वच॒स्या॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ऊं इति । त्वा । पुरुतमस्य । कारोः । हव्यं । वीर । हव्याः । हवंते ।  
+> धियः । रथेस्थां । अजरं । नवीयः । रयिः । विभूतिः । ईयते । वचस्या ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुतमस्य बहुलं कामं कांक्षतः ॥ तमु अभिकांक्षायामिति धातुः ॥
+> कारोः स्तोतुर्भरद्वाजस्य संबंधिन्यो हव्याः स्तुत्याः प्रशस्या इमा धियः
+> स्तुतयो हे वीर शूरेंद्र हव्यं त्वा त्वां हवंते । ह्वयंति । कीदृशं । रथेस्थां
+> रथे स्थितमजरं जरारहितं नवीयो नवीयांसं नवतरं । उ इति पूरणः । अपि च
+> वचस्या स्तुत्या श्रेष्ठा विभूतिर्जगतो विभवहेतू रयिर्हविर्लक्षणं धनमीयते ।
+> श्वामभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+Of Purutama, that is, of one who desires much. Of the praiser Bharadvāja, these praiseworthy, laudable hymns (the thoughts, that is, the praises) invoke you, O hero Indra, who are to be invoked. How are you? Standing on the chariot, free from old age, ever newer. The particle उ (*u*) is a filler. Moreover, the excellent, praiseworthy wealth, which causes the glory of the world and consists of oblations, goes to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीर (*vīra*)—O mighty Indra
+- पुरुतमस्य (*purutamasya*)—of him who has great desire
+- कारोः (*kāroḥ*)—and is the praiser, of Bharadvāja
+- हव्यासि (*havyāsi*)—worthy of praise **NOTE**
+- इमाः धियः (*imāḥ dhiyaḥ*)—these hymns
+- रथेस्थां (*rathesthāṃ*)—you who are mounted on the chariot
+- अजरं (*ajaraṃ*)—free from old age
+- नवीयः (*navīyaḥ*)—of new form
+- हव्यं (*havyaṃ*)—and worthy of worship
+- त्वा (*tvā*)—you
+- हवंते (*havaṃte*)—pray and call
+- वचस्या (*vacasyā*)—moreover, the excellent
+- विभूतिः (*vibhūtiḥ*)—cause of the wealth of the world
+- रयिः (*rayiḥ*)—wealth in the form of oblations
+- ईयते (*īyate*)—comes and reaches you
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, these praiseworthy hymns of Bharadvāja, who has great desire and is the praiser, pray and call you, who are mounted on the chariot, free from old age, of new form and worthy of worship. Moreover, the excellent wealth in the form of oblations, which is the cause of the wealth of the world, comes and reaches you.
+
+### Printed p. 741
+
+##### English translation
+These earnest adorations of the much-desiring worshipper glorify you, hero, Indra, who are adorable : mounted on your car, undecaying, ever new, and to whom the wealth (of sacrifice), the most excellent opulence proceeds.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ स्तुष॒ इंद्रं॒ यो विदा॑नो॒ गिर्वा॑हसं गी॒र्भिर्य॒ज्ञवृ॑द्धं ।  
+> यस्य॒ दिव॒मति॑ म॒ह्ना पृ॑थि॒व्याः पु॑रुमा॒यस्य॑ रिरि॒चे म॑हि॒त्वं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । स्तुषे । इंद्रं । यः । विदानः । गिर्वाहसं । गीभिः । यज्ञवृद्धं॥  
+> यस्य । दिवं । अति । मह्ना । पृथिव्याः । पुरुमायस्य । रिरिचे । महित्वं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो विदानः सर्वं विद्वान् सर्वैर्ज्ञायमानो वा गिर्वाहसं
+> गीर्भिर्वहनीयं यज्ञवृद्धं यज्ञैः प्रवृद्धं तमु तमेवेंद्रं स्तुषे । स्तुवे ।
+> पुरुमायस्य बहुप्रज्ञस्य बहुवंचनस्य ना यस्येंद्रस्य महित्वं माहात्म्यं दिवं
+> दिवो द्युलोकात् ॥ पंचम्यर्थे द्वितीया ॥ पृथिव्या भूलोकान्मह्ना महिम्नाति
+> रिरिचे अतिरिच्यते तं स्तुव इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Indra, who is विदानः (*vidānaḥ*), that is, knows all or is known by all, who is to be borne by songs, who is grown great by sacrifices, that very Indra I praise. Of him who is of much wisdom or of much deception, whose greatness, by his own majesty, exceeds the heavenly world and the earth: the accusative दिवं (*divaṃ*) stands in the sense of the ablative. The connection is: him I praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- विदानः (*vidānaḥ*)—who knows everything
+- गीर्भिः (*gīrbhiḥ*)—by praises
+- गिर्वाहसं (*girvāhasaṃ*)—praised
+- यज्ञवृद्धं (*yajñavṛddhaṃ*)—and who grows great by sacrifices
+- तमु इंद्रं (*tamu iṃdraṃ*)—that very Indra
+- स्तुषे (*stuṣe*)—I praise
+- पुरुमायस्य (*purumāyasya*)—of exceeding knowledge
+- यस्य (*yasya*)—whose
+- महित्वं (*mahitvaṃ*)—greatness
+- दिवं (*divaṃ*)—than the heavenly world
+- पृथिव्याः (*pṛthivyāḥ*)—than the earthly world
+- मह्ना (*mahnā*)—by his own majesty
+- अति रिरिचे (*ati ririce*)—has exceeded; such an Indra (I praise)
+
+### Printed p. 742
+
+##### भावार्थ (Bhāvārtha)
+
+I praise that very Indra, who knows everything, is praised by hymns and grows great by sacrifices. I praise that Indra, of exceeding knowledge, whose greatness has exceeded the heavenly world and the earthly world by his own majesty.
+
+##### English translation
+I glorify that Indra who is the propitiated by praises, exalted by sacrifices, who knows all things ; the magnitude of whom, the possessor of various wisdom, exceeds in vastness (that of) heaven and earth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इत्तमो॑ऽवयु॒नं त॑त॒न्वत्सूर्ये॑ण व॒युन॑वच्चकार ।  
+> क॒दा ते॒ मर्ता॑ अ॒मृत॑स्य॒ धामेय॑क्षंतो॒ न मि॑नंति स्वधावः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । तमः । अवयुवं । ततन्वत् । सूर्येण । वयुनवत् । चकार ।  
+> कदा । ते । मर्ताः । अमृतस्य । धाम । इयक्षंतः । न । मिनंति । स्वधावः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इत्थ एवेंद्रोऽवयुनमप्रज्ञानं । प्रज्ञाननाशनमित्यर्थः । ततन्वद्वृत्तेण
+> विस्तीर्यमाणं तमोऽंधकारं दिवि सूर्येण दिव्यारोपितेन देवेन वयुनवत्
+> प्रकाशवच्चकार । कृतवान् । परोऽर्धर्चः प्रत्यक्षकृतः । हे स्वधावो बलवन्निंद्र
+> मर्ता मनुष्या अमृतस्य नित्यस्य ते त्वदीयं धाम स्वर्गाख्यं स्थानं । तत्रस्थानेवानित्यर्थः । इयक्षंतो यष्टुमिच्छंतः कदा कदाचित् । सर्वदेत्यर्थः । न मिनंति ।
+> किमपि प्राणिजातं न हिंसंति ॥
+
+##### Gist of the bhāṣya
+
+That same Indra made the darkness, which is without knowledge (the destroyer of knowledge), spread by वृत्तेण (*vṛtteṇa*) **NOTE**, full of light in the sky by the sun, the god set in the heavens. The latter half-verse is made direct address. O mighty Indra, possessor of स्वधा (*svadhā*), mortals wishing to worship your eternal abode called heaven, कदा (*kadā*), that is, at any time, which means always, do not harm any living creature **NOTE**.
+
 ---
 
-**Progress note:** Done through printed p. 736. Ṛks 8 (end)-12, Sūkta 20
+**Progress note:** Done through printed p. 742. Sūkta 20 Ṛk 13; Sūkta 21 intro, Ṛks 1-3
