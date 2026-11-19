@@ -23574,6 +23574,201 @@ The commentator has cited a story about the Paṇis. Rākṣasas called Paṇis 
 
 Some are of the opinion that these Paṇis were the earlier inhabitants of this country and were engaged in trade and the like. Since they did not perform sacrifices, had no interest in any good rite, regarded the earning of wealth alone, by fair or unfair means, as the main thing and behaved accordingly, the Āryas regarded them as Dasyus and as men of base conduct, and expressed those opinions in the mantras and elsewhere. In any case, in the Ṛgveda these Paṇis are looked upon with contempt. In the Ṛgveda there are many Ṛks about the Paṇis. Among them—
 
+### Printed p. 682
+
+The word पणयः (*paṇayaḥ*) is recited in the following Ṛks: Ṛ. Saṃ. 1-124-10; 1-151-9; 4-51-3; 6-28-4; 10-108-7; 10-108-8; 10-188-2; 10-188-4; 10-108-6; 10 108-10; 10-1 8-11.
+
+- पणिः (*paṇiḥ*)—Ṛ. Saṃ. 1-33-3; 1-180-7; 5-61-8;
+- पणीना (*paṇīnā*)—Ṛ. Saṃ. 4-25-7;
+- पणिना इव (*paṇinā iva*)—Ṛ. Saṃ. 1-32-11;
+- पणिभिः (*paṇibhiḥ*)—Ṛ. Saṃ. 4-58-4;
+- पणिभ्यः (*paṇibhyaḥ*)—Ṛ. Saṃ. 9-22-7;
+- पणिं (*paṇiṃ*)—Ṛ. Saṃ. 1-93-4; 6-44-22; 6-51-14; 6-61-1; 8_45-14; 8-75-7; 10-67-6, 10-156-3;
+- पणीन् (*paṇīn*)—Ṛ. Saṃ. 1-184-2; 6-33-2; 6-39-2; 7-6-3; 7-19-9; 8-26-10; 8-64-2; 8-66-10; 10-60-6;
+- पणीनां (*paṇīnāṃ*)—Ṛ. Saṃ. 2-24-6; 6-45-31; 6-53-5; 6-53-7; 7-9-2; 9-3-2;
+- पणेः (*paṇeḥ*)—Ṛ. Saṃ. 1-83-4; 1-182-3; 3-58-2; 5-34-7; 6-13-3; 6-53-3; 6-53-6; 10-92-93;
+- पणौ (*paṇau*)—Ṛ. Saṃ. 8-97-2.
+
+These forms are recited in the Ṛks. **NOTE**
+
+It is a current saying that these Paṇis were soldiers of the asura named Vala. The matter that they stole cows and hid them in caves is mentioned in many Ṛks.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि धी॒भिर्हव्यो॒ अस्तु॒ग्र ई॑शान॒कृन्म॑ह॒ति वृ॑त्र॒तूर्ये॑ ।  
+> स तो॒कसा॑ता॒ तन॑ये॒ स व॒ज्री वि॑तंत॒साय्यो॑ अभवत्स॒मत्तु॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । धीभिः । हव्यः । आस्ति । उग्रः । ईशानकृत् । महति । वृत्रतूर्ये ।  
+> सः । तोर्कसाता । तनये । सः । वज्री । वितंतसाय्यः । अभवत् । समत्सु ॥ ६ ॥
+
+### Printed p. 683
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उग्र ओजस्वीशानकृत् । स्तोत्य नीशानान् समर्थान्करोतीतीशानकृत् । स
+> इंद्रो महति प्रभूते वृत्रतूर्ये संग्रामे । वृत्रतूर्य इति संग्रामनामैतत् ।
+> धीभिः स्तोतृभिः स्तुतिभिर्वा हव्यो जयार्थिभिराह्वातव्योऽस्ति । भवति । हिशब्दः
+> पादपूरणः । तोकसाता तोकस्य पुत्रस्य सात् लाभे निमित्ते तनये तत्पुत्रे निमित्ते
+> सति स इंद्र आह्वातव्योऽस्ति । वज्री वज्रवान् स इंद्रः समत्सु संग्रामेषु
+> वितंतसाय्यो विशेषेण विस्तार्यः स्तोत्रैर्वंदनीयोऽभवत् । भवति । यद्वा ।
+> वितंतसाय्यः शत्रोणां हिंसकः ॥ तंतस इति धातुर्हिंसाकर्मा । तस्य कर्तरि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Ugra means mighty. Īśānakṛt: he makes the praisers īśāna, that is, capable. That Indra, in the great (prabhūta) vṛtratūrya, which is a name for battle, is to be invoked by the praisers, or by the praises, by those who desire victory; the particle हि (*hi*) only fills out the foot. For the gaining of a son, when a son is the occasion, and when a son's son is the occasion, that Indra is to be invoked. Vajrī means the possessor of the thunderbolt; that Indra becomes one who is to be glorified in a special way, one who is to be extolled by hymns, in the battles. Or else: वितंतसाय्यः (*vitaṃtasāyyaḥ*) means the destroyer of enemies; the root तंतस (*taṃtasa*) has the sense of injuring, and the word is its form in the agent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रः (*ugraḥ*)—mighty
+- ईशानकृत् (*īśānakṛt*)—and one who makes the praisers capable
+- सः हि (*saḥ hi*)—that same Indra
+- महति (*mahati*)—in the great
+- वृत्रतूर्ये (*vṛtratūrye*)—battle
+- धीभिः (*dhībhiḥ*)—by the praisers
+- हव्यः (*havyaḥ*)—as one prayed to
+- अस्ति (*asti*)—he becomes
+- तोकसाता (*tokasātā*)—for the sake of gaining sons
+- तनये (*tanaye*)—for the sake of grandsons and others
+- सः (*saḥ*)—that same Indra becomes the one invoked
+- वज्रे (*vajre*)—endowed with the thunderbolt weapon
+- सः (*saḥ*)—Indra
+- समत्तु (*samattu*)—in battles
+- वितंतसाय्कॆ (*vitaṃtasāykè*)—as exceedingly worthy of worship
+- अभवत् (*abhavat*)—he becomes
+
+##### भावार्थ (Bhāvārtha)
+
+That same Indra, mighty and giver of strength to the praisers, is prayed to by the praisers in a great battle. That same Indra is invoked for the sake of gaining sons and for the sake of grandsons and others. Indra, endowed with the thunderbolt, is exceedingly worthy of worship in battles.
+
+##### English translation
+Fierce Indra, maker of rulers, you are he who is to be invoked with praises in a great conflict ; you are he (who is to be invoked) for sons and graddsons, he, the wielder of the thunderbolt, who is to be especially glorified in battles.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स म॒ज्मना॒ जनि॑म॒ मानु॑षाणा॒मम॑र्त्येन॒ नाम्नाति॒ प्र स॑र्स्रॆ ।  
+> स द्यु॒म्नेन॒ स शव॑सो॒त रा॒या स वी॒र्ये॑ण॒ नृत॑मः॒ समो॑काः॥
+
+### Printed p. 684
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मज्मना । जनिम । मानुषाणां । अमर्त्येन । नाम्ना । अति । प्र । सस्र्रे ।  
+> सः । द्युम्नेन । सः । शवसा । उत । राया । सः । वीर्येण । नृतमः । संओकाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रोऽमर्त्येन विनाशरहितेन नाम्ना शत्रूणां नमयित्रा मज्मना
+> बलेन । मज्मनेति बलनामैतत् । मानुषाणां मनुष्याणां जनिम जन्म । संघमित्यर्थः । अति प्र सर्स्रे । अतिप्रपेदे । स इंद्रो द्युम्नेन यशसा समोकाः
+> समानस्थानो भवति । किंच स इंद्रः शवसा बलेन समोका भवति । उतापि च नृतमो
+> नेतृतमः स इंद्रो राया धनेन वीर्येण सामर्थ्येन च समोका भवति ॥
+
+##### Gist of the bhāṣya
+
+That Indra, by his deathless, that is, indestructible, name, which bends the enemies, and by his might (majman is a name for strength), has gone beyond the birth of men, that is, their multitude. That Indra, with fame (dyumna), is samokāḥ, of the same dwelling. Further, that Indra with strength (śavas) becomes samokāḥ. And also Indra, the foremost of leaders, with wealth and with ability becomes samokāḥ. **NOTE** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Indra
+- अमर्त्येन (*amartyena*)—deathless
+- नाम्ना (*nāmnā*)—that which makes enemies bow
+- मज्मना (*majmanā*)—with might
+- मानुषाणां (*mānuṣāṇāṃ*)—of men
+- जनिम (*janima*)—the progeny
+- अति प्रसस्रे (*ati prasasre*)—greatly extended
+- सः (*saḥ*)—Indra
+- द्युम्नेन (*dyumnena*)—with fame
+- समोकाः (*samokāḥ*)—he dwells together
+- सः (*saḥ*)—he
+- शवसा (*śavasā*)—with strength (he is together)
+- उत (*uta*)—and
+- नृतमः (*nṛtamaḥ*)—foremost among men
+- सः (*saḥ*)—Indra
+- राया (*rāyā*)—with wealth
+- विर्येण (*viryeṇa*)—with ability (he is together)
+
+##### भावार्थ (Bhāvārtha)
+
+By his might, which is deathless and makes enemies bow, Indra caused the progeny of men to grow. Indra is together with fame, with strength, with wealth and with ability; that is, wealth, strength and the rest are all with Indra himself.
+
+##### English translation
+With immortal, foe-humiliating might, he has promoted the (multiplied) birth of mankind ; he, the chief of leaders, dwells in the same dwelling with fame, with strength, with riches, with heroism.
+
+### Printed p. 685
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स यो न मु॒हे न मिथू॒ जनो॒ भूत्सु॒मंतु॑नामा॒ चुमु॑रिं॒ धुनिं॑ च ।  
+> वृ॒णक्षिपुं॒ शंब॑रं॒ शुष्ण॒मिंद्रः॑ पु॒रां च्यौ॒त्नाय॑ श॒यथा॑य॒  ॑
+> नू चित् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । यः । न । मुहे । न । मिथु । जनः । भूत् । सुमंतुनामा । चुमुरिं ।  
+> धुनिं । च ।  
+> वृणक् । पिपुं । शंबरं । शुष्णं । इंद्रः । पुरां । च्यौत्नाय । शयथाय । नु । चित् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो न मुहे संग्रामे कदापि न मुह्यति । यश्च मिथु मिथ्या वृथा
+> जनो जनयिता न भूत् न भवति किंतु सुमंतुनामा प्रज्ञाननामा । प्रख्यातनामेत्यर्थः । स इंद्रः पुरां शत्रुसंबंधिनीनां पुरीणां चौत्नाय च्यवनाय
+> नाशनाय शयथाय शत्रूणां मरणाय च नू चित् शीघ्रमेव कर्म कुरुत इति
+> शेषः । तथा चुमुरिं धुनिं चैतन्नामकावसुरौ वृणक् । अवृणक् । हिंसितवानसि ॥
+> वृणक्तिर्हिंसाकर्मा ॥ अपि च पिपुं शंबरं शुष्णमेतन्नामकान् श्रीनसुरान्
+> हिंसितवानसि ॥
+
+##### Gist of the bhāṣya
+
+That Indra who is never bewildered in battle, and who is not a producer of what is false or vain, but is sumantunāmā, of the name prajñāna, that is, of renowned name: that Indra, for the falling, that is, the destruction, of the cities belonging to the enemies, and for the death of the enemies, swiftly performs the act; this is the word to be supplied. Likewise you have destroyed the two asuras named Chumuri and Dhuni (the root वृणक्ति (*vṛṇakti*) has the sense of injuring). And you have injured the asuras named Pipru, Śambara and Śuṣṇa. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- न मुहे (*na muhe*)—is not bewildered in battles
+- मिथु (*mithu*)—vain
+- जनः (*janaḥ*)—as producer
+- न भूत् (*na bhūt*)—does not become; such a one
+- सुमंतुनामा (*sumaṃtunāmā*)—of renowned fame
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- पुरां (*purāṃ*)—of the enemy cities
+- ज्यौत्नाय (*jyautnāya*)—for the destruction
+- शयथायॆ (*śayathāyè*)—and for the slaying of the enemies
+- नू चित् (*nū cit*)—swiftly (will he strive)
+- चुमुरिं (*cumuriṃ*)—Chumuri
+- धुनिं च (*dhuniṃ ca*)—and the asura called Dhuni
+- वृणक् (*vṛṇak*)—he destroyed
+- पिपुं (*pipuṃ*)—Pipru
+- कंबरं (*kaṃbaraṃ*)—Śambara
+- शुष्णं (*śuṣṇaṃ*)—Śuṣṇa (he slew)
+
+### Printed p. 686
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra of renowned fame, who is not bewildered in battles and none of whose undertakings is in vain, will strive swiftly for the destruction of the enemy cities and for the slaying of the enemies. That same Indra slew many Rākṣasas called Chumuri, Dhuni, Pipru, Śambara and Śuṣṇa.
+
+##### English translation
+He who is never perplexed, who is no engenderer of that which is in vain, whose name is renowned, who promptly (exerts himself) for the overturning of the cities (of the Asuras), and for the destruction (of his foes); you (Indra), have indeed slain Chumuri, Dhuni, Pipru, Sambara and Sushna.
+
+##### विशेषविषयगळु (Special Topics)
+
+शुष्ण (*śuṣṇa*)—His name occurs about 40 times. He is the chief enemy of Kutsa. For the sake of this Kutsa, or together with Kutsa, Indra uproots Śuṣṇa (4-16-12, 5-29-9, etc.). He has horns (1-33-12). He has eggs (6-10-10, 11), that is, young ones born of eggs (compare 10-12-11); from this Śuṣṇa too may be called a serpent. He hisses (श्वसनः (*śvasanaḥ*) 1-54-5). Six times the epithet अशुष (*aśuṣa*) (swallowing) is applied to him; this epithet is used only of Agni. **NOTE** He has strong forts (1-51-11) or a fort (4-30-13); these are moving forts (8-1-28). Indra destroys the forts of Śuṣṇa and releases the waters (1-51-11); having struck Śuṣṇa he gains the reservoir of water (Vāla. 3-8), or, uprooting the line of Śuṣṇa, he wins the heavenly waters (स्वर्वतीः (*svarvatīḥ*)) (8-40-10). **NOTE** Four times Śuṣṇa has the epithet कुयव (*kuyava*) (maker of bad grain). Twice the word कुयव (*kuyava*) itself seems to have been used in place of Śuṣṇa (1-103-8, 1-104-3). The result of the battle between Indra and Śuṣṇa may be not only the release of the waters but also the gaining of cows or of the sun (8-85-17). While fighting with Indra, Śuṣṇa moves about in darkness. He is called a son of snow and a dānava (5-32-4). Śuṣṇa is a dānava who keeps amṛta within himself (Kāṭhaka). From the statements above Śuṣṇa may be called a cause of drought. The root शुष् (*śuṣ*), from which the word शुष् (*śuṣ*) comes, means to hiss or to dry; this too supports that he is a cause of drought.
+
+### Printed p. 687
+
+शंबरः (*śaṃbaraḥ*)—This name occurs about twenty times. Śambara is mentioned together with the other demons, and especially with Śuṣṇa, Pipru (1-101-2, 1-103-8, 2-19-6, 6-18-8) and Varcin. When Indra fought against Ahi and Śambara, the Maruts helped him (3 47-4). When he split Śambara, Indra made the very sky tremble (1-54-4). Having searched out Śambara, who lived on a mountain (2-12-11), he hurled him down from the mountain (1-130-7; 6-26-5). Indra hurled the dāsa Śambara, son of Kulitara, from the great mountain (4-30-14). Having understood himself to be a minor deity, he struck Śambara and made him fall from the high region (7-18-20). Ninety (1-130-7), usually ninety-nine (2-19-6, etc.) or a hundred (2-14 6, etc.) forts are under his control. Once this word, with a neuter ending, has the meaning "the forts of Śambara." Bṛhaspati split these and entered the mountain region that was furnished with treasures (2-24-2). Aditigva (1-51-6), usually Divodāsa (2-19-6, etc.), once both (1-130-7, 2-26-3): for these Indra destroys Śambara. **NOTE**
+
+पिपु (*pipu*)—The enemy of Ṛjiśvan, who is dependent on Indra (Vāla. 1-10); this Ṛjiśvan, having offered soma juice to Indra, obtains help in the battle against Pipru (5-29-11; 10-99-11). Indra, united with Ṛjiśvan (1-181-1, 2; 10-138-3) or for his sake (4-16-13; 6-20-7), defeated Pipru. Under Pipru, who is endowed with the māyās of Ahi, there are many forts. Indra splits these (1-51-5, 6-20-7). Indra slew the dāsa called Pipru and some others and sent forth the waters (8-32-2). When the sun, in the middle of the sky, unyoked his chariot, the Ātman saw the warrior corresponding to Pipru. Indra, united with Ṛjiśvan, destroyed the strong forts of the māyin asura called Pipru (10-138-3). Indra handed over Pipru, who had the form of a wild beast, to Ṛjiśvan; he defeated fifty thousand black people and split the strongholds (4-16-13). Joining with Ṛjiśvan, Indra destroyed the very offspring of the dark-coloured (1111-1). Because he has both the epithets असुर (*asura*) and दास (*dāsa*), some are of the opinion that he may also have been an enemy of men. **NOTE**
+
+धुनि (*dhuni*) and चुमुरिः (*cumuriḥ*)—Usually the two names come together. Once Chumuri alone has come. Once it is also used as a dvandva (6-20-13); from this it is known how close the connection of the two is. Indra made the two fall into a sleep (2-15-9, 6-20-13, 7-19-4); the same happened to Chumuri alone (6-26-6). Together with Śambara, Pipru, Śuṣṇa and others, Indra destroyed them and demolished their forts.
+
 ---
 
-**Progress note:** Done through printed p. 681. Ṛk 2 end to Ṛk 5 of VI.18, pp. 676-681
+**Progress note:** Done through printed p. 687. Paṇi references; Ṛk 6-8 of sūkta 18; Special Topics on Śuṣṇa, Śambara, Pipru, Dhuni, Chumuri
