@@ -10012,6 +10012,354 @@ these two sūktas have been recited, the hotṛ recites the stotriya and the anu
 
 ऊर्जः (*ūrjaḥ*): of food or of strength; नपातं (*napātaṃ*): the son. "We praise" is to be supplied from the preceding Ṛk by continuation; the meaning is: we praise the son of strength. हिन (*hina*) is a combination of two particles in the sense of हि (*hi*), "for". This Agni indeed is अस्मयुः (*asmayuḥ*), one who desires us. And we would give (दाशेम (*dāśema*): may we give oblations) to that Agni, हव्यदातये (*havyadātaye*), the giver of oblations, of offerings, to the gods. And may that Agni be, in battles (वाजेषु (*vājeṣu*): in conflicts), our protector (अविता (*avitā*)) and our increaser (वृधः (*vṛdhaḥ*)). And may he also be the protector of our bodies (तनूनां (*tanūnāṃ*)), that is, of our children, our sons.
 
+### Printed p. 233
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जः (*ūrjaḥ*)—to strength
+- नपातं (*napātaṃ*)—the son, Agni (we praise him)
+- हि न (*hi na*)—certainly
+- सः आयं (*saḥ āyaṃ*)—this same Agni
+- अस्मयुः (*asmayuḥ*)—desires us
+- हव्यदातये (*havyadātaye*)—to Agni, who distributes the oblation to the gods
+- दाशेम (*dāśema*)—let us offer the oblation
+- सः (*saḥ*)—(that same Agni)
+- वाजेषु (*vājeṣu*)—in battles
+- अविता (*avitā*)—as our protector
+- वृधः (*vṛdhaḥ*)—as the cause of our increase
+- भुवत् (*bhuvat*)—may he be
+- उत (*uta*)—and
+- तनूनां (*tanūnāṃ*)—of our sons, grandsons and the rest
+- त्राता (*trātā*)—may he be the protector
+
+##### भावार्थ (Bhāvārtha)
+
+We praise Agni, the son of strength. This same Agni certainly desires us, for the good of the gods. To Agni, who distributes the oblation to the gods, let us offer the oblation. May that same Agni be our protector in battles and the cause of our increase. And may he also be the protector of our sons, grandsons and the rest.
+
+##### English translation
+The son of strength, for he verily is propitious to us ; to whom let us offer oblations as to the conveyer of them (to the gods) : may he be our defender and of our offspring.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ ह्य॑ग्ने अ॒जरो॑ म॒हान्वि॒भास्य॒र्चिषा॑ ।  
+> अज॑स्रेण शो॒चिषा॒ शोशु॑चच्चुचे सुदी॒तिभिः॒ सु दी॑दिहि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । हि । अग्ने । अजरः । महान् । विभासि । अर्चिषा ।  
+> अजस्रेण । शोचिषा । शोशुचत् । शुचे । सुदीतिभिः । सु । दीदिहि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वृषा वर्षिता कामानां वृष्टेः कर्ता वाजरो जरारहितो महान्
+> गुणैरधिक एवंभूतस्त्वमर्चिषा दीप्त्या विभासि हि। विशेषेण प्रकाशसे खलु। हे शुचे
+
+##### Gist of the bhāṣya
+
+O Agni, you are वृषा (*vṛṣā*), the showerer of desires, or the maker of rain; अजरः (*ajaraḥ*), free from decay; महान् (*mahān*), greater in qualities. Being such, you shine forth (विभासि (*vibhāsi*)) with your flame (अर्चिषा (*arciṣā*)), that is, with your light: you indeed shine in a special way.
+
+### Printed p. 234
+
+> दीप्ताग्ने अजस्रेणाविच्छिन्नेन शोचिषा तेजसा शोशुचत् भृशं दीप्यमानस्त्वं
+> सुदीतिभिः सुदीप्तिभिः सु दीदिहि । सुष्पस्मान्दीपय । प्रकाशय ॥
+
+##### Gist of the bhāṣya
+
+O bright Agni (शुचे (*śuce*)), you who blaze exceedingly (शोशुचत् (*śośucat*)) with unceasing (अजस्रेण (*ajasreṇa*)), unbroken splendour (शोचिषा (*śociṣā*): brilliance), shine well (सु दीदिहि (*su dīdihi*)) with beautiful radiances (सुदीतिभिः (*sudītibhiḥ*)): light us up and illuminate us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वृषा (*vṛṣā*)—showerer of desires
+- अजरः (*ajaraḥ*)—free from decay
+- महान् (*mahān*)—having exceedingly great qualities, you
+- अर्चिषा (*arciṣā*)—with your radiance
+- विभासि हि (*vibhāsi hi*)—do you not shine exceedingly
+- शुचे (*śuce*)—O Agni, full of splendour
+- अजस्रेण (*ajasreṇa*)—unceasing
+- शोचिषा (*śociṣā*)—with brilliance
+- शोशुचत् (*śośucat*)—you who blaze exceedingly
+- सुदीतिभिः (*sudītibhiḥ*)—with excellent radiance
+- सु दीदिहि (*su dīdihi*)—blaze exceedingly and spread your light everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, showerer of desires, free from decay, having exceedingly great qualities, do you not shine exceedingly with your brilliance? O Agni, full of splendour, you who blaze exceedingly with unceasing brilliance, blaze exceedingly with excellent radiance and spread your light everywhere.
+
+##### English translation
+Agni, you are the showerer (of benefits), mighty, and exempt from decay, you shine with (great) splendour ; you are resplendent, brilliant (Agni), with unfading lustre : shine forth with glorious rays.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हो दे॒वान्यज॑सि॒ यक्ष्या॑नु॒षक्तव॒ क्रत्वो॒त दं॒सना॑ ।  
+> अ॒र्वाचः॑ सीं कृणुह्य॒ग्नेऽव॑से॒ रास्व॒ वाजो॒त वं॑स्व ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । देवान् । यजसि । यक्षि । आनुषक् । तव । क्रत्वा । उत । दंसना ।  
+> अर्वाचः । सीं । कृणुहि । अग्ने । अवसे । रास्व । वाजा । उत । वंस्व ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं महो महतो देवान्यजसि । यजमानानां यज्ञे हविर्भिः
+> पूजयसि । अतोऽस्माकमपि यज्ञ आनुषक् अनुषक्तं संततं यथा भवति तथा
+
+##### Gist of the bhāṣya
+
+O Agni, you worship (यजसि (*yajasi*)) the great gods: at the sacrifices of the sacrificers you honour them with oblations. Therefore at our sacrifice also, आनुषक् (*ānuṣak*), continuously, in such a way that it goes on without a break,
+
+### Printed p. 235
+
+> यक्षि । तान्देवान्यज । तदर्थं तव क्रत्वा प्रज्ञयोतापि च दंसना कर्मणा च ।
+> सीमिति परिग्रहार्थीयः । तान् सर्वान्देवानर्वाचोऽस्मदभिमुखान् कृणुहि
+> कुर्ववसेऽस्मद्रक्षणार्थं । तथा वाजा वाजान् हविर्लक्षणान्यन्नानि रास्व । तेभ्यो
+> देवेभ्यो देहि । उतापि च त्वमपि वंस्व । तुभ्यं प्रत्तानि हवींषि संभजस्व ॥
+
+##### Gist of the bhāṣya
+
+worship (यक्षि (*yakṣi*)) those gods. For that purpose, with your wisdom (क्रत्वा (*kratvā*)) and also with your action (दंसना (*daṃsanā*)). The word सीं (*sīṃ*) is used in the sense of comprehension: make all those gods face us (अर्वाचः (*arvācaḥ*)), for our protection (अवसे (*avase*)). So also give (रास्व (*rāsva*)) वाजा (*vājā*), foods that are of the nature of oblations; give them to those gods. And you also partake (वंस्व (*vaṃsva*)): enjoy the oblations that have been given to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- महः (*mahaḥ*)—great
+- देवान् (*devān*)—gods
+- यजसि (*yajasi*)—you worship
+- आनुषक् (*ānuṣak*)—without a break
+- यक्षि (*yakṣi*)—worship the gods (in our sacrifices also)
+- तव (*tava*)—your
+- क्रत्वा (*kratvā*)—with wisdom
+- उत (*uta*)—and
+- दंसना (*daṃsanā*)—with acts
+- सीं (*sīṃ*)—all those gods
+- अवसे (*avase*)—for our protection
+- अर्वाचः (*arvācaḥ*)—so that they face us
+- कृणुहि (*kṛṇuhi*)—make
+- वाजान् (*vājān*)—the foods in the form of oblation
+- रास्व (*rāsva*)—offer to them
+- उत (*uta*)—and
+- वंस्व (*vaṃsva*)—you also eat
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you worship the great gods. Therefore worship them without a break in our sacrifice also. With your wisdom and with your acts make all those gods face us, for our protection. Offer to them the foods in the form of oblation, and partake of them yourselves as well.
+
+##### English translation
+You sacrifice to the mighty gods : sacrifice (for us) continually, for (sacrifice is perfected) by your wisdom and your acts : bring them down, Agni, for our salvation : present (to them) the sacrificial food, partake of it yourself.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमापो॒ अद्र॑यो॒ वना॒ गर्भ॑मृ॒तस्य॒ पिप्र॑ति ।  
+> सह॑सा॒ यो म॑थि॒तो जाय॑ते॒ नृभिः॑ पृथि॒व्या अधि॒ सान॑वि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । आपः । अद्रयति । वना । गर्भं । यतस्य । पिप्रति ।  
+> सहसा । यः । मथितः । जायते । नृभिः । पृथिव्याः । अधि । सानवि ॥ ५ ॥
+
+### Printed p. 236
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपो वसतीवर्याख्या अद्रयो ग्रावाणो वना वनानि काष्ठानि च ऋतस्य
+> यज्ञस्योदकस्य वा गर्भं गर्भवदंतर्वर्तमानं यमग्निं पिप्रति पूरयंति ।
+> यॆद्वा । आपः समुद्रिया अद्रयो मेघा वनान्यरण्यानि च ऋतस्य गर्भं वाडववैद्युतदावरूपेण वर्तमानं यमग्निं पिप्रति पूरयंति । यश्चाग्निर्नृभिर्नेकृभिर्युत्विग्निः सहसा बलेन मथितः सन् पृथिव्या अधि भूमेरुपरि सानवि समुच्च्रित
+> उत्कृष्टे देवयजनदेशे जायते प्रादुर्भवति स त्वं वंस्वेत्यन्वयः । यद्वा । यः
+> पप्रावित्यनया संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The waters called vasatīvarī, the stones (अद्रयः (*adrayaḥ*): the pressing-stones), and the forests, that is, woods and timber (वना (*vanā*)), fill (पिप्रति (*piprati*): make full) that Agni who is within, like an embryo (गर्भं (*garbhaṃ*)), of the sacrifice or of the water (ऋतस्य (*ṛtasya*)). Or else: the waters of the sea, the clouds (अद्रयः (*adrayaḥ*): मेघा (*meghā*)) and the forests fill that Agni who exists as the embryo of ऋतस्य (*ṛtasya*) in the form of the submarine fire, lightning and forest fire. And that Agni who, churned (मथितः (*mathitaḥ*)) with force (सहसा (*sahasā*): with strength) by the men (नृभिः (*nṛbhiḥ*): by the leaders, the ṛtviks), is born (जायते (*jāyate*): appears) on the earth (पृथिव्या अधि (*pṛthivyā adhi*): on the surface of the earth), in the elevated (सानवि (*sānavi*)) and excellent place of the divine sacrifice: you are he, and वंस्व (*vaṃsva*) is to be construed with it. Or else the connection is with यः पप्रौ (*yaḥ paprau*) of the following Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—the waters
+- अद्रयः (*adrayaḥ*)—the clouds
+- वना (*vanā*)—the forests
+- ऋतस्य (*ṛtasya*)—to the sacrifice
+- गर्भं (*garbhaṃ*)—who is of the form of the embryo
+- यं (*yaṃ*)—which Agni
+- पिप्रति (*piprati*)—they nourish
+- यः (*yaḥ*)—which Agni
+- नृभिः (*nṛbhiḥ*)—by the ṛtviks
+- सहसा (*sahasā*)—with force
+- मथितः (*mathitaḥ*)—being churned and kindled
+- पृथिव्या अधि (*pṛthivyā adhi*)—on the earth
+- सानवि (*sānavi*)—in the elevated place of sacrifice
+- जायसे (*jāyase*)—is born (may such an Agni partake of our oblation)
+
+##### भावार्थ (Bhāvārtha)
+
+The waters, the clouds and the forests nourish that Agni who is the embryo of the sacrifice; that Agni who, churned with force by the ṛtviks and kindled, is born on the earth at the elevated sacrificial altar: may such an Agni partake of our oblation.
+
+##### English translation
+(You are he) whom the waters, the mountains, the woods, nourish as the embryo of sacrifice : who, churned with strength by the performers (of the rite), are generated in the highest place of the earth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यः प॒प्रौ भा॒नुना॒ रोद॑सी उ॒भे धू॒मेन॑ धावते दि॒वि ।  
+> ति॒रस्तमो॑ ददृश॒ ऊर्म्या॒स्वा श्या॒वास्व॑रु॒षो वृषा श्या॒वा ॒॑ ॑
+> अरुषो वृषा ॥ ६ ॥
+
+### Printed p. 237
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । पप्रौ । भानुना । रोदसी इति । उभे इति । धूमेन । धावते । दिवि ।  
+> तिरः । तमः । ददृशे । ऊर्म्यासु । आ । श्यावासु । अरुषः । वृषा । आ । श्यावाः ।  
+> अरुषः । वृषा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्भानुना दीप्तोभे रोदसी द्यावापृथिव्यावा पप्रौ अपूरयति स
+> धूमेन दिव्यंतरिक्षे धावते । गच्छति । धूमो हि मेघात्मना परिणतः सन् अंतरिक्षे
+> गच्छति । कार‍्यकारणयोरभेदविवक्षया तद्गमनमग्नावुपचर्यते। अपि चायमरुष
+> आरोचमानो वृषा वर्षिता कामानामेवंगुणकोऽग्निः श्यावासु श्यावर्णासु
+> कृष्णा सूर्म्यासु । रात्रिनामैतत् । निशासु तमोऽंधकारं तिरस्कृत्या समंताद्ददृशे ।
+> दृश्यते । श्यावाः श्यावर्णा रात्रीश्चा तिष्ठति । अरुषा वृषेति पुनरुक्तिरादरार्था
+> पादपूरणार्था वा ॥
+
+##### Gist of the bhāṣya
+
+The Agni who, shining with his radiance (भानुना (*bhānunā*)), fills (पप्रौ (*paprau*): अपूरयति (*apūrayati*)) both worlds (रोदसी (*rodasī*)), heaven and earth, moves (धावते (*dhāvate*): goes) with smoke (धूमेन (*dhūmena*)) in the sky, that is, the atmosphere. For smoke, transformed into the nature of a cloud, goes in the atmosphere; with the intention of not distinguishing cause and effect, that going is figuratively ascribed to Agni. Further, this अरुषः (*aruṣaḥ*), the shining one, वृषा (*vṛṣā*), the showerer of desires, Agni of such qualities, is seen (ददृशे (*dadṛśe*)) on all sides, having put aside (तिरः (*tiraḥ*)) the darkness (तमः (*tamaḥ*)), in the dark-coloured (श्यावासु (*śyāvāsu*)) nights (ऊर्म्यासु (*ūrmyāsu*): this is a name of night). And he stands over the dark-coloured nights (श्यावाः (*śyāvāḥ*)). The repetition अरुषो वृषा (*aruṣo vṛṣā*) is for respect or for filling out the pāda.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- भानुना (*bhānunā*)—with his radiance
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- आ पप्रौ (*ā paprau*)—he who stands pervading them
+- धूमेन (*dhūmena*)—in the form of smoke
+- दिवि (*divi*)—in the atmosphere
+- धावते (*dhāvate*)—moves about
+- अरुषः (*aruṣaḥ*)—possessed of an attractive colour
+- वृषा (*vṛṣā*)—and the showerer of desires, Agni
+- श्यावासु (*śyāvāsu*)—in the dark-coloured
+- ऊर्म्यासु (*ūrmyāsu*)—nights
+- तमः तिरः (*tamaḥ tiraḥ*)—thrusting the darkness aside
+- आ ददृशे (*ā dadṛśe*)—is seen on all sides
+- अरुषः (*aruṣaḥ*)—shining
+- वृषा (*vṛṣā*)—showerer of desires, Agni
+- श्यावाः (*śyāvāḥ*)—the dark-coloured nights
+- आ (*ā*) (तिष्ठति (*tiṣṭhati*))—stands, having occupied them
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who stands pervading heaven and earth with his radiance moves about in the atmosphere in the form of smoke. Agni, possessed of an attractive colour and showerer of desires, thrusting aside the darkness in the dark-coloured nights, is seen on all sides. Agni, the shining one, the showerer of desires, stands having occupied the dark-coloured nights (he shines).
+
+##### English translation
+He who fills both heaven and earth with light, who mounts with sm ke into the sky, this radiant showerer (of benefits) is beheld in the dark
+
+### Printed p. 238
+nights dispersing the gloom : this radiant showerer (of benefits) presides over the dark nights.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हद्भि॑रग्ने अ॒र्चिभिः॑ शु॒क्रेण॑ देव शो॒चिषा॑ ।  
+> भ॒रद्वा॑जेसमिधा॒नो य॑विष्ठ्य रे॒वन्नः॑ शुक्र दीदिहि द्यु॒मत्पा॑वक दीदिहि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत्भिः । अग्ने । अर्चिभिः । शुक्रेण । देव । शोचिषा ।  
+> भरत् वाजे । संइधानः । यविष्ठ्य । रेवत् । नः । शुक्र । दीदिहि । द्युमत् । पावक ।  
+> दीदिहि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव दानादिगुणयुक्त यविष्ठ्य युवतम शुक्र दीप्ताग्ने शुक्रेण
+> निर्मलेन शोचिषा तेजसा भरद्वाजेऽस्मद्धातरि समिधानः समिध्यमानस्त्वं
+> बृहद्भिर्महद्दिरर्चिभिस्तेजोभिर्नोऽस्मदर्थं रेवद्धनयुक्तं यथा भवति तथा
+> दीदिहि । दीप्यस्व । तथा पावक हे शोधकाग्ने द्युमत् द्योतमानेन च युक्तं
+> यथा भवति तथा दीदिहि । दीप्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O divine one (देव (*deva*)), endowed with the qualities of giving and the rest, O youngest (यविष्ठ्य (*yaviṣṭhya*)), O bright (शुक्र (*śukra*)) and shining Agni, you who are kindled (समिधानः (*samidhānaḥ*)) with pure (शुक्रेण (*śukreṇa*): निर्मलेन (*nirmalena*)) splendour (शोचिषा (*śociṣā*): lustre) in भरद्वाजेऽस्मद्धातरि (*bharadvāje 'smaddhātari*),**NOTE** shine (दीदिहि (*dīdihi*): be kindled) for our sake, with great (बृहद्भिः (*bṛhadbhiḥ*)) flames (अर्चिभिः (*arcibhiḥ*): lustres), so as to be endowed with wealth (रेवत् (*revat*)). So also, O purifier (पावक (*pāvaka*)), O Agni who cleanses, shine so that you are joined with brilliance (द्युमत् (*dyumat*): shining).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—divine one
+- यविष्य (*yaviṣya*)—exceedingly young
+- शुक्र (*śukra*)—and radiant
+- अग्ने (*agne*)—O Agni
+- शुक्रेण (*śukreṇa*)—pure
+- शोचिषा (*śociṣā*)—with radiance
+- भरद्वाजे (*bharadvāje*)—by Bharadvāja
+- समिधानः (*samidhānaḥ*)—you who have been kindled
+- बृहद्भिः (*bṛhadbhiḥ*)—great
+- अर्चिभिः (*arcibhiḥ*)—with lustres
+- नः (*naḥ*)—to our share
+- रेवत् (*revat*)—so as to be rich and a bestower of wealth
+- दीदिहि (*dīdihi*)—shine
+- पावक (*pāvaka*)—O Agni, the purifier
+- द्युमत् (*dyumat*)—with splendid radiance
+- दीदिहि (*dīdihi*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, divine one, exceedingly young and radiant, kindled by Bharadvāja with pure radiance, shine with great lustres so that you are rich and a bestower of wealth to our share. O Agni, the purifier, shine with splendid radiance.
+
+### Printed p. 239
+
+##### English translation
+Divine, resplendent Agni, youngest (of the gods), when kindled by Bharadwaja, shines with many flames, with pure lustre, (conferring) riches upon us ; shine, resplendent purifier.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑सां गृ॒हप॑तिर्वि॒शाम॑सि॒ त्वम॑ग्ने॒ मानु॑षीणां ।  
+> श॒तं पू॒र्भिय्य॑विष्ठ पा॒ह्यंह॑सः समे॒द्धारं॑ श॒तं हिमाः॑  
+> स्तो॒तृभ्यो॒ ये च॒ दद॑ति ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वासां । गृहपतिः । विशां । असि । त्वं । अग्ने । मानुषीणां ।  
+> शतं । पूःभिः । यविष्ठ । पाहि । अंहसः । संविद्द्धारं । शतं । हिमाः । स्तोतृभ्यः ।  
+> ये । च । ददति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं मानुषीणां मनोरपत्यभूतानां विश्वासां सर्वासां विशां
+> प्रजानां गृहपतिरसि । गृहस्वामी भवसि । हे यविष्ठ युवतमाग्ने आतस्तं शतं
+> हिमाः शतं हेमंतान् संवत्सरान् समेद्धारं त्वां सम्यगिद्दं कृतवंतं मां शतं
+> शतेन शतसंख्याकैः पूर्भिः पालकैरंहसः पापादाहंतुः शत्रोर्वा पाहि । रक्ष ।
+> ये च स्तोतृभ्यो ददति धनं तव समिंधनस्य कर्तरि प्रयच्छंति तांश्च पाहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are the lord of the house (गृहपतिः (*gṛhapatiḥ*)) of all the human (मानुषीणां (*mānuṣīṇāṃ*): born of Manu) peoples (विशां (*viśāṃ*): the subjects); you are the master of the house. Therefore,**NOTE** O youngest Agni, protect (पाहि (*pāhi*): guard) me, who have well kindled you (समेद्धारं (*sameddhāraṃ*)), for a hundred winters (शतं हिमाः (*śataṃ himāḥ*): a hundred years), with a hundred (शतं (*śataṃ*)) guardians (पूर्भिः (*pūrbhiḥ*): protectors), from sin (अंहसः (*aṃhasaḥ*)) or from the enemy who strikes. And protect also those who give wealth to the praisers (स्तोतृभ्यः (*stotṛbhyaḥ*)), who give it to the one who makes you kindled.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- मानुषीणां (*mānuṣīṇāṃ*)—born in the line of Manu
+- विश्वासां विशां (*viśvāsāṃ viśāṃ*)—of all the peoples
+- गृहपतिः (*gṛhapatiḥ*)—as lord of the house
+- आसि (*āsi*)—you are
+- यविष्ठ (*yaviṣṭha*)—O Agni, exceedingly young
+- समेद्धारं (*sameddhāraṃ*)—me, who have made you kindled
+- शतं हिमाः (*śataṃ himāḥ*)—for a hundred years
+- शतं (*śataṃ*)—numbering a hundred
+- पूर्भिः (*pūrbhiḥ*)—with protections
+- अं हसः (*aṃ hasaḥ*)—from sins
+- पाहि (*pāhi*)—protect
+- ये च (*ye ca*)—whoever
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to your praisers
+- ददति (*dadati*)—give wealth (protect them also)
+
 ---
 
-**Progress note:** Done through printed p. 232. Ṛk 31, adhyāya close and opening, Sūkta 48 introduction, Ṛk 1-2
+**Progress note:** Done through printed p. 239. Ṛk 2 (end) to Ṛk 8 (Pratipadārtha)
