@@ -17522,6 +17522,360 @@ We invoke the fierce Indra and Agni, the slayers of enemies: may they give us su
 > हतः । वृत्राणि । आर्या । हतः । दासानि । सत्पती इति सत्पती ।  
 > हतः । विश्वाः । अप । द्विषः ॥ ६ ॥
 
+### Printed p. 399
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ताविंद्राग्नी आर्यार्यैः कर्मानुष्ठातृभिः कृतानि वृत्राण्युपद्रवजातानि
+> हतः । हिंस्तः । तथा सत्पती सतां पालयिताराविंद्राग्नी दासानि । दासाः कर्महीनाः
+> शत्रवः । तैः कृतानि चोपद्रवजातानि हतः । अपि च विश्वाः सर्वा द्वेषीः
+> शत्रुभूताः।प्रजा अप हतः विनाशयतः । अतोऽस्माकमप्येवमेव कुरुतामिति भावः॥
+
+##### Gist of the bhāṣya
+
+Those two, Indra and Agni, destroy (हतः (*hataḥ*)) the afflictions (वृत्राणि (*vṛtrāṇi*)) that have arisen as troubles caused by the Āryas, the performers of rites. Likewise they, as protectors of the good (सत्पती (*satpatī*)), destroy the troubles (दासानि (*dāsāni*)) made by the Dāsas, the enemies who are without rites. And further, they utterly destroy all hostile (द्विषः (*dviṣaḥ*)) creatures who are enemies. The sense is: therefore may they do just so for us also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नि (*iṃdrāgni*)—Indra and Agni
+- आर्या (*āryā*)—done by the Āryas, the performers of rites
+- वृत्राणि (*vṛtrāṇi*)—the afflictions
+- हतः (*hataḥ*)—they destroy
+- सत्पती (*satpatī*)—those same Indra and Agni, protectors of the good
+- दासानि (*dāsāni*)—also the troubles caused by enemies who are without rites
+- हतः (*hataḥ*)—they destroy
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—the hostile people
+- अप हतः (*apa hataḥ*)—they destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+Indra and Agni destroy all the afflictions caused either by the Āryas, the performers of rites, or by the enemies who are in the form of Dāsas, without rites. And they destroy all hostile people.
+
+##### English translation
+Counteract all oppressions (committed) by the pious : counteract all oppressions (committed) by the impious : protectors of the virtuous, destroy all those who hate us.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी यु॒वामि॒मे॒३॒॑भि स्तोमा॑ अनूषत ।  
+> ।  
+> पिब॑तं शंभुवा सु॒तं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । युवां । इमे । अभि । स्तोमाः । अनूषत ।  
+> ।  
+> पिबतं । शंभुवा । सुतं ॥ ७ ॥
+
+### Printed p. 400
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि प्रातःसवनेच्छावाकशस्त्र इंद्राग्नी युवामिति षडहस्तोत्रियस्तृचः । सूत्रितं च । इंद्राग्नी युवामिमे यज्ञस्य हि स्थ ऋत्विजेत्यच्छावाकस्य । आ. ७-२ । इति ॥
+> हे इंद्राग्नी युवामिमे स्तोमाः स्तोतारोऽभ्यनूषत अभिष्टुवंति ।
+> हे शंभुवा सुखस्य भावयिताराविंद्राग्नी सुतमभिषुतम्मदीयं सोमं पिबतं ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the morning pressing, in the śastra of the Acchāvāka, the tṛca beginning इंद्राग्नी युवां (*iṃdrāgnī yuvāṃ*) is the ṣaḍaha-stotriya. It is laid down in the Sūtra: इंद्राग्नी युवामिमे यज्ञस्य हि स्थ ऋत्विजेत्यच्छावाकस्य (*iṃdrāgnī yuvāmime yajñasya hi stha ṛtvijetyacchāvākasya*) (Ā. 7-2). O Indra and Agni, these praisers (स्तोमाः (*stomāḥ*)) glorify (अभ्यनूषत (*abhyanūṣata*)) you. O Śaṃbhuvā, you two who cause happiness, drink (पिबतं (*pibataṃ*)) my Soma that has been pressed (सुतं (*sutaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- युवां (*yuvāṃ*)—both of you
+- इमे स्तोमाः (*ime stomāḥ*)—these praisers
+- अभ्यनूषत (*abhyanūṣata*)—glorify
+- शंभुवा (*śaṃbhuvā*)—O Indra and Agni, who bring happiness
+- सुतं (*sutaṃ*)—this pressed Soma juice
+- पिबतं (*pibataṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, these praisers glorify you both. O Indra and Agni, who bring happiness, drink this pressed Soma juice.
+
+##### English translation
+Indra and Agni, these hymns glorify you both ; drink, bestowers of of happiness, the libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśika, at the morning pressing, among the śastra mantras recited by the priest called Acchāvāka, the three ṛks beginning with इंद्राग्नी युवां (*iṃdrāgnī yuvāṃ*) (ṛks 7–9 of this sūkta) are to be recited as the ṣaḍaha-stotriya tṛca; this is set out by the Āśvalāyana Śrauta Sūtra, in the Sūtra इंद्राग्नी युवामिमे यज्ञस्य हि स्थ ऋत्विजेत्यच्छावाकस्य (*iṃdrāgnī yuvāmime yajñasya hi stha ṛtvijetyacchāvākasya*) (Ā. 7-2).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या वां॒ संति॑ पुरु॒स्पृहो॑ नि॒युतो॑ दा॒शुषे॑ नरा ।  
+> इंद्रा॑ग्नी॒ ताभि॒रा ग॑तं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । वा । संति । पुरुस्पृहः । नियुतः । दाशुषे । नरा ।  
+> इंद्राग्नी इति । शाभिः । आ । गतं ii ८ ।.
+
+### Printed p. 401
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेताराविंद्राग्नी वां युवयोः स्वभूताः पुरुस्पृहः पुरुभिर्बहुभिः स्पृहणीया दाशुषे हवींषि दत्तवते यजमानार्थमुत्पन्ना या
+> नियुतोऽश्वाः संति हे इंद्राग्नी ताभिर्नियुद्भिरा गतं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O leaders, Indra and Agni, those Niyut horses (नियुतः (*niyutaḥ*)) that are your own, much desired (पुरुस्पृहः (*puruspṛhaḥ*)) by many, and have come into being for the sacrificer who has given oblations (दाशुषे (*dāśuṣe*)), with those Niyuts, O Indra and Agni, come (आ गतं (*ā gataṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O leaders of the world
+- इंदाग्नी (*iṃdāgnī*)—O Indra and Agni
+- वां (*vāṃ*)—belonging to you
+- याः (*yāḥ*)—which
+- नियुतः (*niyutaḥ*)—horses
+- पुरुस्पृहः (*puruspṛhaḥ*)—desired by many
+- दाशुषे (*dāśuṣe*)—produced for the sacrificer who offers oblations
+- संति (*saṃti*)—there are
+- ताभिः (*tābhiḥ*)—with those horses
+- आ गतं (*ā gataṃ*)—be so kind as to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, leaders of the world, be so kind as to come with those horses of yours that are desired by many and are produced for the sacrificer who offers oblations.
+
+##### English translation
+Indra and Agni, leaders (of rites), whose Niyut steeds are desired by many, come with them to the donor (of the libatation.)
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताभि॒रा ग॑च्छतं न॒रोपे॒दं सव॑नं सु॒तं ।  
+> इंद्रा॑ग्नी॒ सोम॑पीतये ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताभिः । आ । गच्छतं । नरा । उप । इदं । सवनं । सुतं ।  
+> इंद्राग्नी इति । सोमपीतये ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेताराविंद्राग्नी । सूयतेऽभिषूयत इति सवनः सोमः । इदं
+> सवनमिमं सोमं सुतमभिषुतमुप प्रति । यद्वा । इदं प्रातःसवनमुपास्मिन्
+> XXI 26
+> XXI 26
+
+##### Gist of the bhāṣya
+
+O leaders, Indra and Agni. Savana is Soma, since it is pressed (सूयते (*sūyate*)). The words इदं सवनं (*idaṃ savanaṃ*) mean this Soma that has been pressed, and उप (*upa*) means towards. Or else: इदं (*idaṃ*) refers to this morning pressing, and the sense is towards the Soma pressed at this pressing,
+
+### Printed p. 402
+
+> सवने सुतमभिषुतं सोमं प्रति ताभिर्नियुद्भिरा गच्छतं । किमर्थ० । सोमपीतये
+> तस्य सोमस्य पानार्थ० ॥
+
+##### Gist of the bhāṣya
+
+come with those Niyut horses. For what purpose? For the drinking (सोमपीतये (*somapītaye*)) of that Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O leaders
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- सुतं (*sutaṃ*)—pressed
+- इदं सवनं उप (*idaṃ savanaṃ upa*)—facing this Soma juice
+- ताभिः (*tābhiḥ*)—with those same horses
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- आ गच्छतं (*ā gacchataṃ*)—be so kind as to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, leaders, for the drinking of this Soma that has been pressed and made ready, be so kind as to come, with your horses, facing this juice:
+
+##### English translation
+Come with them, leaders (of rites), to the effused libation, to drink, Indra and Agni, of the Soma.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमी॑ळिष्व॒ यो अ॒र्चिषा॒ वना॒ विश्वा॑ परि॒ष्वज॑त् ।  
+> कृ॒ष्णा कृ॒णोति॑ जि॒ह्वया॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ईळिष्व । यः । अर्चिषा । वना । विश्वा । परिस्वजत् ।  
+> कृष्णा । कृणोति । जिह्वया ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो स्तोतस्तमग्निमाळिष्ट स्तुहि योऽग्निरर्चिषा ज्वालारूपेण तेजसा विश्वा
+> सर्वाणि वनारण्यानि परिष्वजत् परिष्वजति परितो वेष्टयति । यश्च तानि वनानि जिह्वया
+> ज्वालया दग्वा कृष्णा कृष्णवर्णानि कृणोति करोति ॥
+
+##### Gist of the bhāṣya
+
+O praiser, praise (ईळिष्ट (*īḷiṣṭa*)) that Agni who, with his flame, his brilliance in the form of fire, embraces (परिष्वजत् (*pariṣvajat*)) all forests, that is, wraps them round on every side; and who, having burnt those forests with his tongue, the flame, makes them black (कृष्णा (*kṛṣṇā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni (O praiser)
+- अर्चिषा (*arciṣā*)—with his brilliance
+- विश्वा (*viśvā*)—all
+- वना (*vanā*)—the forests
+- परिष्वजत् (*pariṣvajat*)—envelops (and)
+- जिह्वया (*jihvayā*)—with his tongue in the form of flame
+- कृष्णा (*kṛṣṇā*)—all those forests black in colour
+- कृणोति (*kṛṇoti*)—makes
+- तं (*taṃ*)—that Agni
+- ईळिष्ट् (*īḷiṣṭ*)—praise
+
+### Printed p. 403
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise that Agni who with his brilliance envelops all the forests, and with his tongue in the form of flame makes all those forests black in colour.
+
+##### English translation
+Glorify that Agni who envelopes all the forests with flame, who blackens them with (his) tongue.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इ॒द्ध आ॒विवा॑सति सु॒म्म मिंद्र॑स्य॒ मर्त्यः॑ ।  
+> द्यु॒म्नाय॑ सु॒तरा॑ अ॒पः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इद्दे । आविवासति । सुम्नं । इंद्रस्य । मर्त्यः ।  
+> द्युम्नाय । सुतराः । अपः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मर्त्यो मनुष्य इद्दे दीप्तेऽग्नौ सुम्मं सुखकरं हविरिंद्रस्येंद्रायाविवासति परिचरति प्रयच्छति ॥ चतुर्थ्यर्थे षष्ठि ॥ तस्य मर्त्यस्य द्युम्नाय
+> द्योतमानायान्नाय तदर्थं सुतराः सुखेन तरणीया अप उदकानि वृष्ट्यात्मकानींद्रः करोतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The mortal, the man, who into the kindled (इद्दे (*idde*)), blazing fire presents (आविवासति (*āvivāsati*)) a pleasing (सुम्मं (*summaṃ*)) oblation for Indra, for that mortal's shining food Indra makes the waters (अपः (*apaḥ*)), that is, rain, easy to cross (सुतराः (*sutarāḥ*)); this is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- मर्त्यः (*martyaḥ*)—mortal, the sacrificer
+- इद्दे (*idde*)—when the sacrificial fire is kindled
+- सुम्नं (*sumnaṃ*)—a pleasing oblation
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- आविवासति (*āvivāsati*)—presents (to that man)
+- द्युम्नायॆ (*dyumnāyè*)—for the attainment of shining food
+- सुतराः (*sutarāḥ*)—that carry the sacrificer easily across distress
+- अपः (*apaḥ*)—the waters of rain (Indra gives)
+
+##### भावार्थ (Bhāvārtha)
+
+To that mortal sacrificer who, when the sacrificial fire is kindled, presents a pleasing oblation to Indra, Indra gives the waters of rain, which carry him easily across distress, for the gaining of shining food.
+
+### Printed p. 404
+
+##### English translation
+The mortal who presents the gratifying (oblation) to Indra in the kindled (fire), to him (Indra grants) acceptable waters for his sustenance.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता नो॒ वाज॑वती॒रिष॑ आ॒शून्पि॑पृत॒मर्व॑तः ।  
+> इंद्र॑म॒ुग्निं च॒ वोळ्ह॑वे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । नः । वाजवतीः । इषः । आशून् । पिपृतं । अर्वतः ।  
+> इंद्रं । अग्निं । च । वोळ्हवे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी ता तौ युवां वाजवतीरन्नवतीरिष इष्यमाणा वृष्टिः ।
+> यद्वा । वाजो बलं । तद्वतीरिषोऽन्नान्याशून् शीघ्रगानर्वतोऽश्वांश्च नोऽस्मभ्यं
+> पिपृतं । पूरयतं । प्रयच्छतं । किमर्थं । इंद्रमग्निं च युवां वोळ्हवे
+> वोढुं हविर्भिः प्रापयितुं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, you two, grant us (पिपृतं (*pipṛtaṃ*), fill, bestow) the food-rich (वाजवतीः (*vājavatīḥ*)) wished-for rain (इषः (*iṣaḥ*)). Or else: vāja is strength, and the इषः (*iṣaḥ*) endowed with it are foods; and grant us swift-going (आशून् (*āśūn*)) horses (अर्वतः (*arvataḥ*)). For what purpose? In order to carry (वोळ्हवे (*voḷhave*)) Indra and Agni, that is, to convey you with oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—you, the renowned
+- इंद्रमग्निं च (*iṃdramagniṃ ca*)—to you, who are Indra and Agni
+- वोळ्हवे (*voḷhave*)—for bearing the oblation
+- वाजवतीः (*vājavatīḥ*)—provided with food
+- इषः (*iṣaḥ*)—endowed with strength
+- आशून् (*āśūn*)—and swift-going
+- अर्वतः (*arvataḥ*)—horses
+- नः (*naḥ*)—to us
+- पिपृतं (*pipṛtaṃ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, renowned as you are, provide us with horses that are supplied with food, endowed with strength and swift-going, for bearing the oblation to you, who are Indra and Agni.
+
+##### English translation
+May those two grant us strengthening food, and swift horses to convey (our offerings).
+
+### Printed p. 405
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भा वा॑मिंद्राग्नी आहु॒वध्या॑ उ॒भा राध॑सः स॒ह मा॑द॒यध्यै॑ ।  
+> उ॒भा दा॒तारा॑वि॒षां र॑यी॒णामु॒भा वाज॑स्य सा॒तये॑ हुवे  
+> वां ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभा । वां । इंद्राग्नी इति । आहुवध्यै । उभा । राधसः । सह । मादयध्यै ।  
+> उभा । दातार् । इषां । रयीणां । उभा । वाजस्य । सातये । हुवे । वां ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऐंद्राग्नस्य पशोर्हविषोऽनुवाक्योभा वामित्येषा । सूत्रितं च । उभा
+> वामिंद्राग्नी आहुवध्यै शुचिं नु स्तोमं नव जातमद्य । आ. ३-७ । इति ॥
+> हे इंद्राग्नी उभोभौ संहत्य वर्तमानौ नां युवां हुवे । आह्वयामि ।
+> किमर्थं । आहुवध्या अभिमुख्येन होतुं । तथोभोभौ युवामाह्वये राधसो
+> राधसा राधकेन हविषा सह युगपदेव मादयध्यॆ मादयितुं तर्पयितुं ।
+> सर्वेषु देवेषु सत्स्वावयोराह्वाने किं कारणमिति चेदुच्यते । उभोभौ ता
+> युवामिषामन्नानां रयाणां धनानां च दातारौ स्थः । अतः कारणादुभोभौ नां
+> युवां वाजस्यान्नस्य सातये संभजनाय हुवे । आह्वये ॥
+
+##### Gist of the bhāṣya
+
+This ṛk, उभा वां (*ubhā vāṃ*), is the anuvākyā for the oblation of the animal offered to Indra and Agni. It is laid down in the Sūtra: उभा वामिंद्राग्नी आहुवध्यै शुचिं नु स्तोमं नव जातमद्य (*ubhā vāmiṃdrāgnī āhuvadhyai śuciṃ nu stomaṃ nava jātamadya*) (Ā. 3-7). O Indra and Agni, both of you, being together, I call (हुवे (*huve*)) you. For what purpose? In order to sacrifice before you (आहुवध्यै (*āhuvadhyai*)). Likewise I call you both, in order that together, at one and the same time, you may be gratified (मादयध्यै (*mādayadhyai*)) and satisfied with the accomplishing oblation (राधसः (*rādhasaḥ*)). If it is asked what is the reason for calling you two when all the gods are present, it is said: both of you are givers of foods (इषां (*iṣāṃ*)) and of riches (रयीणां (*rayīṇāṃ*)). For that reason I call you both for the sharing (सातये (*sātaye*)) of food (वाजस्य (*vājasya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- उभा (*ubhā*)—who are together
+- वां (*vāṃ*)—you both
+- आ हुवध्यै (*ā huvadhyai*)—to offer the oblation
+- हुवे (*huve*)—I pray and invoke
+- राधसः (*rādhasaḥ*)—with oblations
+- उभा (*ubhā*)—both
+- सह (*saha*)—at one time
+- मादयध्यै (*mādayadhyai*)—to enjoy satisfaction (I call)
+- उभा (*ubhā*)—you both
+- इषां (*iṣāṃ*)—of foods
+- रयाणां (*rayāṇāṃ*)—and of riches
+- दातार् (*dātār*)—are givers
+- उभा (*ubhā*)—who are together
+- वां (*vāṃ*)—you both
+- वाजस्य (*vājasya*)—of food
+- सातये (*sātaye*)—for the attainment (I call)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, I pray and invoke you both, who are together, to offer the oblation. With oblations may you both enjoy satisfaction at one and the same time. You both are givers of foods and of riches. I call you both, who are together, for the attainment of food.
+
 ---
 
-**Progress note:** Done through printed p. 398. Sūkta 60 (Maṇḍala 6), Ṛk 1 bhāṣya to Ṛk 6 saṃhitā, pp. 393-398
+**Progress note:** Done through printed p. 405. Sūkta 60 (Maṇḍala 6), Ṛk 6 bhāṣya to Ṛk 13 bhāvārtha, pp. 399-405
