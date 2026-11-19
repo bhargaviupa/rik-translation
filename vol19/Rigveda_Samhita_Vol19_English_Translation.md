@@ -27899,6 +27899,253 @@ How the gods come to know of the rain is this: after the rain has fallen abundan
 > मिमातु । द्यौः । अदितिः । वीतये । नः । सं । दानुचित्राः । उषसः । यतंतां ।  
 > आ । अचुच्यवुः । दिव्यं । कोशं । एते । ऋषे । रुद्रस्य । मरुतः । गृणानाः ॥ ८ ॥
 
+### Printed p. 778
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मदर्थं द्यौरंतरिक्षं मिमातु । निर्मिमातु वृष्टिं । तदनुकूलं
+> करोत्वित्यर्थः । कीदृशी । आदितिरदीना । यद्वा । द्यौर्मिमात्वदितिर्भूमिश्च मिमातु
+> सुखं । किमर्थं । वीतय उत्पत्तये प्रजननाय वा । दानुचित्रा विचित्रप्रकाशादिदाना उषसः सं यतंतां । हे ऋषे त्वया गृणानाः स्सूयमाना मरुतः ।
+> रुद्रस्य पुत्रा इत्यर्थॆः । एते दिव्यं कोशं मेघमुदकमाचुच्यवुः । आच्यावयंति॥
+
+##### Gist of the bhāṣya
+
+May heaven, that is, the atmosphere, send down rain for us; that is, may it make the rain favourable. Of what kind is it? Aditi, the undiminished. Or else: may heaven and Aditi, the earth, bring well-being. For what purpose? For origination, or for procreation. May the dawns, of wonderful light and generous gifts, strive together. O seer, the Maruts, praised by you, the sons of Rudra, make the heavenly store, the water of the cloud, to pour down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- वीतये (*vītaye*)—for our welfare and course of life
+- द्यौः (*dyauḥ*)—the atmosphere
+- अदितिः (*aditiḥ*)—the earth
+- मिमातु (*mimātu*)—let them pour down rain
+- दानुचित्राः (*dānucitrāḥ*)—those who spread lights in many ways
+- उषसः (*uṣasaḥ*)—the dawns also
+- सं यतंतां (*saṃ yataṃtāṃ*)—let them strive (for our good)
+- ऋषे (*ṛṣe*)—O seer
+- गृणानाः (*gṛṇānāḥ*)—those who are praised (by you)
+- रुद्रस्य (*rudrasya*)—sons of Rudra
+- एतेमरुतः (*etemarutaḥ*)—these Maruts
+- दिव्यं (*divyaṃ*)—born of the heavenly world
+- कोशं (*kośaṃ*)—the water that lies in the cloud
+- आ अचुच्यवु: (*ā acucyavu:*)—let them pour down
+
+##### भावार्थ (Bhāvārtha)
+
+For our welfare and course of life, may the earth and the atmosphere pour down rain. May the dawns also, which spread lights in many ways and give to the world, strive for our good. O seer, may these Maruts, praised by you and sons of Rudra, pour down the water that is born of the heavenly world and lies in the cloud.
+
+##### English translation
+May the heaven and the earth yield (rain) for our sustenance : may the wonderfully bounteous dawns exert themselves (for our good) : may these sons of Rudra, lauded, Rishi, (by you), send down the celestial rain.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this last Ṛk, which is the conclusion of the hymn, the seer prays to the Marut deities and expresses the wish that the earth, the atmosphere, the goddess Dawn and the Maruts, all of them, may pour down rain upon the earth.
+
+### Printed p. 779
+The sixtieth hymn.
+
+## Sūkta 60 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईळे अग्निं स्ववसमित्यष्टर्चं चतुर्थं सूक्तं श्यावाश्वस्यार्षं। सप्तम्यष्टमौ
+> जगत्यौ शिष्टाः षट् त्रिष्टुभः । मरुद्देवताकमग्निमरुद्देवताकं वा। ईळे द्विजगत्यंतमाग्नेयं च वेति ॥ सूक्तविनियोगो लैंगिकः ॥ आद्या कारीर्यां सामिधेनीषु
+> याज्या । सूत्रितं च । ईळे अग्निं स्ववसं नमोभिरिति धाय्ये । आ. २-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn of eight Ṛks that begins with ईळे अग्निं स्ववसं (*īḷe agniṃ svavasaṃ*) is the fourth hymn; its seer is Śyāvāśva; its deity is the Maruts, or Agni and the Maruts. The seventh and eighth Ṛks are in Jagatī metre, the remaining six in Triṣṭubh. The Anukramaṇikā says ईळे द्विजगत्यंतमाग्नेयं च वेति (*īḷe dvijagatyaṃtamāgneyaṃ ca veti*). The application of the hymn is by indication. The first Ṛk is, in the Kārīrī Iṣṭi, a yājyā among the Sāmidhenī verses; and it is laid down in the sūtra ईळे अग्निं स्ववसं नमोभिरिति धाय्ये (*īḷe agniṃ svavasaṃ namobhiriti dhāyye*) (Ā. 2-13).
+
+Translation: This hymn beginning ईळे अग्निं स्ववसं (*īḷe agniṃ svavasaṃ*) is the fourth hymn in the fifth Anuvāka. It has eight Ṛks. The seer of this hymn is Śyāvāśva; the deity is the Maruts alone, or Agni and the Maruts; the seventh and eighth Ṛks of this hymn are in Jagatī metre; the remaining six Ṛks are in Triṣṭubh metre. In the Anukramaṇikā it is said ईळे द्विजगत्यंतमाग्नेयं च वा (*īḷe dvijagatyaṃtamāgneyaṃ ca vā*). The application of the hymn is by indication (लैंगिकवु (*laiṃgikavu*)). It is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, आश्वलायनशौतसूत्रद-ईळे अग्निं स्ववसं नमोभिरिति धाय्कॆ (*āśvalāyanaśautasūtrada-īḷe agniṃ svavasaṃ namobhiriti dhāykè*) (A. 2-13)**NOTE**, that the first Ṛk of this hymn is to be used as a yājyā mantra among the Sāmidhenī verses of the offering called Kārīrī.
+
+- Sūkta: 60
+- Maṇḍala 5; Anuvāka 5; Sūkta 60
+- Aṣṭaka 4; Adhyāya 3; Varga 25
+- Number of Ṛks in the Sūkta: 8
+- Ṛṣi: Śyāvāśva Ātreya
+- Devatā: Maruts, or Agni and the Maruts
+- Chandas: 1-6 Triṣṭubh; 7, 8 Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईळे॑ अ॒ग्निं स्वव॑सं॒ नमो॑भिरि॒ह प्र॑स॒त्तो वि च॑यत्कृ॒तं नः॑ ।
+
+### Printed p. 780
+
+> रथैरिव प्र भरे वाजयद्भिः प्रदक्षिणिन्मरुतां स्तोममृध्यां॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईळे i अग्निं । सुअवसं । नमःभिः । इह । प्रसत्तः । वि । चयत् । कृतं । नः ।  
+> रथैःऽइव । प्र । भरे । वाजयत्ऽभिः । प्रदक्षिणित् । मरुतां । स्तोमं । ऋध्यां॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं श्यानाश्वोऽग्निं स्ववसं स्वायुत्तरक्षणं नमोभिः स्तोत्रैरीळे । स्तौमि ।
+> तत्सूत्रं कृतमिहेदानीं प्रसत्तः प्रसन्नः प्रकर्षेण यज्ञं प्राप्तो ना सन्
+> नोऽस्मदर्थं वि चयत् । विजानातु । वाजयद्भिरन्नमिच्छद्भिः स्तोत्रै रथैरिव
+> रथैर्यथाभिमतं प्राप्नुवंति तद्वद्रंहणसाधनैः प्र भरे । प्रकर्षेण संपादयाम्यभिमतं । प्रदक्षिणित् प्रादक्षिण्येन गच्छन् मरुतां स्तोमं स्तोत्रमृध्यां ।
+> वर्धयेयं ॥
+
+##### Gist of the bhāṣya
+
+I, Śyāvāśva**NOTE**, praise Agni, the good protector **NOTE**, with hymns of praise. This hymn is now made; may he, pleased and having come to the sacrifice, take notice of it for us. As by chariots people reach what they desire, so by hymns of praise, which are the means of speed and are sought by those who desire food, I accomplish my desire exceedingly. Going round the fire from left to right, may I promote the praise of the Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्ववसं (*svavasaṃ*)—who gives his protection to all
+- अग्निं (*agniṃ*)—Agni
+- नमोभिः (*namobhiḥ*)—with hymns of praise
+- ईळे (*īḷe*)—I praise
+- प्रसत्तः (*prasattaḥ*)—Agni, who is gracious in mind
+- इह (*iha*)—at this time
+- कृतं (*kṛtaṃ*)—performed
+- नः (*naḥ*)—our (rites)
+- वि चयत् (*vi cayat*)—may he know fully
+- रथैः इव (*rathaiḥ iva*)—like chariots that easily carry one to the desired place
+- वाजयद्भिः (*vājayadbhiḥ*)—with praises that seek food
+- प्र भरे (*pra bhare*)—I offer worship
+- प्रदक्षिणित् (*pradakṣiṇit*)—saluting Agni with circumambulation
+- मरुतां (*marutāṃ*)—addressed to the Maruts
+- स्तोमं (*stomaṃ*)—the hymn of praise
+- ऋध्यां (*ṛdhyāṃ*)—I make it increase (I compose it in abundance)
+
+##### भावार्थ (Bhāvārtha)
+
+I praise with hymns Agni, who gives his protection to all. May Agni, gracious in mind, know fully the rites performed by us at this time of sacrifice. With praises that are like chariots that easily carry one to the desired place, and that seek food, I offer worship. Saluting Agni with circumambulation, I compose praises addressed to the Maruts and extol them exceedingly.
+### Printed p. 781
+
+##### English translation
+I adore the protecting Agni with hymns: may he, propitiated on this occasion, approve of our acts: I offer (worship with praises), inten- ded to obtain food, as if (proceeding) with cars (to the goal), circumam- bulating (the fire): may I exalt the praise of the Maruts.
+
+##### विशेषविषयगळु (Special Topics)
+
+रथैरिव प्र भरे वाजयद्भिः- अन्न मिच्छद्भिः स्तोत्रै रथैर्यथाभिमतं प्राप्पुवंति तद्वद्रंहणसाधनैः प्रकर्षेण संपादयाम्यभिमतं । (*rathairiva pra bhare vājayadbhiḥ- anna micchadbhiḥ stotrai rathairyathābhimataṃ prāppuvaṃti tadvadraṃhaṇasādhanaiḥ prakarṣeṇa saṃpādayāmyabhimataṃ |*) As by chariots, which have the nature of gladdening or delighting the mind, we reach what we desire or the places we desire, so, says the seer, by hymns that contain a prayer for food and the like, I praise Agni and the Marut deities and obtain the fruit I desire. That is, travelling in chariots and the like not only brings delight to the mind but we also reach quickly the place to which we must go. In the same way, may Agni and the Marut deities, gratified by the hymns that we make desiring food, grant us food and the like and the accomplishment of what we desire: this prayer is stated here.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ये त॒स्थुः पृष॑तीषु श्रु॒तासु॑ सु॒खेषु॑ रु॒द्रा म॒रुतो॒  ॑
+> रथेषु ।  
+> वना॑ चिदुग्रा जिहते॒ नि वो॑ भि॒या पृ॑थि॒वी चि॑द्रेजते॒ पर्व॑तश्चित् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ये । तस्थुः । पृषतीषु । श्रुतासु । सुखेषु । रुद्राः । मरुतः । रथेषु ।
+
+### Printed p. 782
+
+> वना । चित् । उग्राः । जिहते । नि । वः । भिया । पृथिवी । चित् । रेजते । पर्वतः ।  
+> चित् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो रुद्रा रुद्रपुत्रा आ तस्थुः अतिष्ठंति पृषतीषु मरुतां
+> वाहनेषु श्रुतासु श्रांतासु प्रसिद्धासु वा सुखेषु । खमाकाशं छिद्रं । शोभनरथाक्षद्वारेषु रथेषु रथाना तस्थुः अतिष्ठंति । हे उग्रा उद्धूर्णबला मरुतो
+> यूयं यदा रथमारूढाः स्थ तदानीं वना चित् वनान्यपि नि जिहते न्यग्गच्छंति
+> वो युष्माकं भिया भीत्या । पृथिवी चित् पृथिव्यपि रेजते । पर्वतश्चित्
+> पर्वतोऽपि रेजते । कंपते । उत्तरार्धः प्रत्यक्षकृतः । पूर्वार्धे य एवमकुर्वन तेषां स्तोममृध्यामिति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, sons of Rudra, mount their mares, the vehicles of the Maruts, which are renowned, or tired, in the chariots whose axle-holes are good: the word for sky is the empty space, a hole; they mount the chariots with well-formed axle-holes. O fierce Maruts of impetuous strength, when you ride your chariot, then even the forests bow down in fear of you; the earth too trembles, and the mountain also trembles. The latter half is addressed directly. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—who
+- रुद्राः (*rudrāḥ*)—sons of Rudra
+- मरुतः (*marutaḥ*)—the Maruts
+- पृषतीषु (*pṛṣatīṣu*)—in those that have horses named Pṛṣat
+- श्रुतासु (*śrutāsu*)—renowned
+- सुखेषु (*sukheṣu*)—comfortable
+- रथेषु (*ratheṣu*)—in chariots
+- आ तस्थुः (*ā tasthuḥ*)—mount and sit
+- उग्राः (*ugrāḥ*)—O Maruts of terrible speed
+- वः (*vaḥ*)—your
+- भिया (*bhiyā*)—through fear
+- वना चित् (*vanā cit*)—even the masses of trees
+- वि जिहते (*vi jihate*)**NOTE**—bend (as if indicating humility)
+- पृथिवी चित् (*pṛthivī cit*)—even the earth
+- रेजते (*rejate*)—trembles
+- पर्वतश्चित् (*parvataścit*)—even the mountain (shakes)
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, sons of Rudra, mount and sit in the renowned and comfortable chariots, which have horses named Pṛṣat. O Maruts of terrible speed, at that time, through fear of you, the trees bend as if indicating humility. The mountain trembles. The earth too shakes.
+
+##### English translation
+Fierce Maruts, sons of Rudra, who ride in easy chariots (drawn by) celebrated steeds, (at your coming) the woods bow down with fear, the earth trembles, and the mountains (shake).
+### Printed p. 783
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of the coming of the Marut deities, the sons of Rudra (that is, when the storm wind blows violently), trees and the like, struck by the force of the wind, shake and bend. This bending is as if it indicated humility through fear of the Marut deities. The mountain and the earth also seem to shake. Thus it is stated here that the coming of the Marut deities is terrible.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पर्व॑तश्चि॒न्महि॑ वृ॒द्धो बि॑भाय दि॒वश्चि॒त्सानु॑ रेजत स्व॒ने वः॑ ॥  
+> यत्क्रीळ॑थ मरुत ऋष्टि॒मंत॒ अप॑इव स॒ध्र्यं॑चो धवध्वे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्वतः । चित् । महि । वृद्धः । बिभाय । दिवः । चित् । सानु । रेजत । स्वने । वः ।  
+> यत् । क्रीळथ । मरुतः । ऋष्टिमंतः । आपः इव । सध्वंचः । धवध्वै ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारीर्यां मारुतस्य सप्तकपालस्य पर्वतश्चि दित्येषा याज्या । सूत्रितं च ।
+> पर्वतश्चिन्महि वृद्धो बिभाय सृजंति रश्मिमोजसा । आ. २. १३ । इति ॥
+> हे मरुतो वो युष्माकं स्वने भयंकरशब्दे सति पर्वतश्चित् पर्वतोऽपि महि महान्वृद्धः सन्नपि बिभाय । भिभेति । दिवश्चित् अंतरिक्षस्यापि सानु
+> समुच्छ्रिशः प्रदेशो रेजत । कंपते । यद्यदा क्रीळथ हे मरुतो यूयमृष्टिमंत आयुधवंतः संतस्तदाप इवोदकानीव सध्र्यंचः सहांचना धवध्वै ।
+> धावध्वै । गच्छ थ ॥
+
+##### Gist of the bhāṣya
+
+In the Kārīrī Iṣṭi, for the seven-potsherd cake offered to the Maruts, this Ṛk beginning with पर्वतश्चि (*parvataści*) is the yājyā. It is laid down in the sūtra पर्वतश्चिन्महि वृद्धो बिभाय सृजंति रश्मिमोजसा (*parvataścinmahi vṛddho bibhāya sṛjaṃti raśmimojasā*) (Ā. 2. 13). O Maruts, when your fearful sound is heard, even the mountain, though great and grown, is afraid; even the summit, the lofty region, of the atmosphere trembles. When you sport, O Maruts, armed with spears, then you rush together like waters, that is, you go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- क्रीळथ (*krīḷatha*)—you sport
+- वः (*vaḥ*)—your
+- स्वने (*svane*)—because of the sound
+- महि (*mahi*)—possessing a great form
+- वृद्धः (*vṛddhaḥ*)—though grown
+- पर्वतश्चित् (*parvataścit*)—even the mountain
+- बिभाय (*bibhāya*)—is afraid
+- दिवः चित् (*divaḥ cit*)—of the atmosphere
+- सानुः (*sānuḥ*)—also the lofty region that is like a summit
+### Printed p. 784
+- रेजत (*rejata*)—trembles
+- मरुतः (*marutaḥ*)—O Maruts
+- ऋष्टिमंतः (*ṛṣṭimaṃtaḥ*)—you who are armed with weapons
+- आप इव (*āpa iva*)—like streams of water
+- सध्रंचः (*sadhraṃcaḥ*)—gathered together
+- धवद्वे (*dhavadve*)—you rush forward and go
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, even the mountain, which has attained a great form, is afraid at the sound produced at the time of your sport. The very lofty region, like a summit, of the atmosphere trembles. O Maruts, armed with weapons, you go forward gathered together like streams of water.
+
+##### English translation
+The mountain, vast and lofty (though it be), is alarmed at your noise, and the summit of the firmament trembles when, lance-armed Maruts, you are sporting: you rush along together like waters.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Iṣṭi called Kārīrī, when oblations are offered to the Marut deities with the seven-potsherd cake, this Ṛk पर्वतश्चिन्महि (*parvataścinmahi*) is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, पर्वतश्चिन्महि वृद्दो बिभाय सृजंति रश्मिमोजसा (*parvataścinmahi vṛddo bibhāya sṛjaṃti raśmimojasā*) (Ā. 2-13).
+
+In this Ṛk also there is a description of the going of the Marut deities. When the storm wind blows with great force, a certain kind of sound arises. It is the custom to describe this blowing, accompanied by sound, as the sport of the Marut deities:
+क्रीळं वः शर्धो मारुतमनर्वाणं रथे शुभं । कण्वा अभि प्र गायत ॥ (*krīḷaṃ vaḥ śardho mārutamanarvāṇaṃ rathe śubhaṃ | kaṇvā abhi pra gāyata ‖*) (Ṛ. Saṃ. 1-37-1)
+नित्यं न सूनुं मधु बिभ्रत उप क्रीळंति क्रीळा विदथेषु घृष्टयः । (*nityaṃ na sūnuṃ madhu bibhrata upa krīḷaṃti krīḷā vidatheṣu ghṛṣṭayaḥ |*) (Ṛ. Saṃ. 1-166-2)
+In Ṛks such as these there is a description that the Marut deities are sporting.
+
+ऋष्टिमंतः मरुतः आप इव सध्रंचः (*ṛṣṭimaṃtaḥ marutaḥ āpa iva sadhraṃcaḥ*) and the verb that follows: when the Marut deities, bearing their weapons, are sporting (or moving), waters flow from various places and
+
 ---
 
-**Progress note:** Done through printed p. 777. Sukta 59 Rk 5-8, pp. 772-777
+**Progress note:** Done through printed p. 784. Sukta 59 Rk 8; Sukta 60 Rk 1-3, pp. 778-784
