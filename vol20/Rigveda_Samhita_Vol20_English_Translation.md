@@ -27227,6 +27227,279 @@ O Indra, whatever there is, that you protect the sacrificer who presses and offe
 ##### English translation
 Or as, although engaged in heaven in the horo-animating conflict with foes, you protect the offerer of the libation, and humble, undaunted Indra, the Dasyus, the disturbers of the pious and terrified worshipper, (so come when the Soma is effused).
 
+### Printed p. 774
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पाता॑ सु॒तमिंद्रो॑ अस्तु॒ सोमं॑ प्रणे॒नीरु॒ग्रो ज॑रि॒तार॑मू॒ती ।  
+> कर्ता॑ वी॒राय॒ सुष्व॑य उ लो॒कं दाता॒ वसु॑ स्तुव॒ते ॒॑ 
+> कीरये चित् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पाता । सुतं । इंद्रः । अस्तुः । सोमं । प्रनेनीः । उग्रः । जरितारं । ऊती ।  
+> कर्ता । वीराय । सुस्वये । ऊं इति । लोकं । दाता । वसु । स्तुवते । कीरये ।  
+> चित् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः सुतमभिषुतं सोमं पातास्तु । पानशीलो भवतु ॥ तृनंतत्वान्न
+> लोकाव्ययनिष्ठेति षष्ठिप्रतिषेधः ॥ कीदृशः । ऊती ऊत्या मार्गेण जरितारं
+> स्तोतारं प्रणेनीः प्रकर्षेण नेतोग्र उद्योणी वीराय यज्ञादिकर्मसु
+> दक्षाय सुष्टये सोमाभिषवं कुर्वते यजमानाय लोकं स्थानं कर्ता ।
+> दातेत्यर्थः । उ इति पादपूरणः । स्तुवते स्तोत्रं कुर्वते कीरये चित् ॥ चिदिति
+> चार्थे ॥ स्तोत्रे च । कीरिरिति स्तोतृनामैतत् । वसु धनर दातास्तु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: let Indra be a drinker of the Soma that has been pressed (सुतं (*sutaṃ*)); let him be given to drinking. What kind of Indra? By the way of protection (ऊती (*ūtī*)) he leads the praiser (जरितारं (*jaritāraṃ*)) forward, for प्रणेनीः (*praṇenīḥ*) means "he who leads on in an excellent manner"; he is fierce (उग्रः (*ugraḥ*)). For the capable sacrificer (वीराय (*vīrāya*)), skilled in sacrifices and the like, who presses Soma (सुष्टये (*suṣṭaye*)), he is the maker of a place (लोकं (*lokaṃ*)), that is, the giver of it. The word उ (*u*) serves to fill out the foot. To the praiser (कीरये चित् (*kīraye cit*)), who offers praise (स्तुवते (*stuvate*)), he is the giver of wealth (वसु (*vasu*)); चित् (*cit*) is in the sense of "and", and कीरि (*kīri*) is a name for a praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊती (*ūtī*)—with his protections
+- जरितारं (*jaritāraṃ*)—the praiser
+- प्रणेनीः (*praṇenīḥ*)—he who leads to a well-protected place
+- वीराय (*vīrāya*)—the capable one
+- सुष्टये (*suṣṭaye*)—to the sacrificer who presses and offers Soma
+- लोकं (*lokaṃ*)—an excellent place
+- कर्ता (*kartā*)—the maker
+- स्तुवते (*stuvate*)—who offers praise
+- कीरये चित् (*kīraye cit*)—even to the praiser
+- वसु (*vasu*)—wealth
+- दाता (*dātā*)—the giver
+- उग्रः (*ugraḥ*)—the fearsome
+- इंद्रः (*iṃdraḥ*)—Indra
+- सुतं सोमं (*sutaṃ somaṃ*)—the Soma pressed and made ready
+- पाता (*pātā*)—as the drinker
+- अस्तु (*astu*)—let him be
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who with his protections leads the praiser to a well-protected place, who makes an excellent place for the sacrificer who, being capable in sacrificial work, presses and offers Soma, who gives wealth to the praiser who is a singer of praise,
+
+### Printed p. 775
+
+and who is fearsome, drink here the Soma that has been pressed and made ready.
+
+##### English translation
+May Indra be the drinker of the effused Soma, he who is the fierce conductor of the worshipper to security: may he be the donor of the world to the presenter of the libation, the giver of wealth to the man who adores him.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गंतेयां॑ति॒ सव॑ना॒ हरि॑भ्यां ब॒भ्रिर्वज्रं॑ प॒पिः सोमं॑  ॒
+> द॒दिर्गाः ।  
+> कर्ता॑ वी॒रं नर्य्यं॒ सर्व॑वीरं॒ श्रोता॒ हवं॑ गृण॒तः स्तोम॑वाहाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गंता । इयंति । सवना । हरिभ्यां । बभ्रिः । वज्रं । पपिः । सोमं । ददिः । गाः ।  
+> कर्ता । वीरं । नर्यं । सर्ववीरं । श्रोता । हवं । गृणतः । स्तोमवाहाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो हरिभ्यां स्वकीयाभ्यामियंति हृदयस्थानि त्रीणि सवना सवनानि गंता
+> गमनशीलो भवतु । कीदृशः । वज्रं स्वकीयमायुधं बभ्रिर्भर्ता धारकः सोममभिषुतं पपिः पाता गा ददिर्दाता नर्यं मनुष्यहितं सर्ववीरं बहुपुत्रोपेतं
+> वीरं पुत्रं कर्ता यजमानाय दाता गृणतः स्तुवतः स्तोतुः संबंधि हवं स्तोत्रं
+> श्रोता श्रावकः स्तोमवाहाः स्तोमैः स्तोत्रैर्वहनीयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: let Indra, with his two bay horses (हरिभ्यां (*haribhyāṃ*)), be a goer (गंता (*gaṃtā*)) to the three savanas (सवना (*savanā*)), which he calls इयंति (*iyaṃti*) and glosses as हृदयस्थानि (*hṛdayasthāni*). **NOTE** What kind of Indra? He is the bearer (बभ्रिः (*babhriḥ*)), the holder, of the thunderbolt (वज्रं (*vajraṃ*)), his own weapon; the drinker (पपिः (*papiḥ*)) of the pressed Soma; the giver (ददिः (*dadiḥ*)) of cows (गाः (*gāḥ*)). He is the maker, that is, the giver, to the sacrificer of a son (वीरं (*vīraṃ*)) who is beneficial to men (नर्यं (*naryaṃ*)) and endowed with many sons (सर्ववीरं (*sarvavīraṃ*)). He is the hearer (श्रोता (*śrotā*)) of the invocation (हवं (*havaṃ*)), the praise, belonging to the praiser (गृणतः (*gṛṇataḥ*)) who sings praises, and he is स्तोमवाहाः (*stomavāhāḥ*), one to be borne by stomas, that is, by praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- बभ्रिः (*babhriḥ*)—the bearer
+- सोमं (*somaṃ*)—the Soma juice
+- पपिः (*papiḥ*)—the drinker
+- गाः (*gāḥ*)—cows
+- ददिः (*dadiḥ*)—the giver
+- नर्यं (*naryaṃ*)—the one who is beneficial to men
+- सर्ववीरं (*sarvavīraṃ*)—the all-capable
+- वीरं (*vīraṃ*)—a heroic son
+
+### Printed p. 776
+
+- कर्ता (*kartā*)—who bestows (on the sacrificer)
+- गृणतः (*gṛṇataḥ*)—of the praiser
+- हवं (*havaṃ*)—the praise
+- श्रोता (*śrotā*)—the hearer
+- स्तोमवाहाः (*stomavāhāḥ*)—who is borne by praises; Indra
+- हरिभ्यां (*haribhyāṃ*)—with his horses
+- इयंति (*iyaṃti*)—attractive
+- सवना (*savanā*)—to the three savanas
+- गंता (*gaṃtā*)—let him be the one who comes
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who bears the thunderbolt, drinks the Soma juice, gives cows, and who bestows on the sacrificer a heroic son who is beneficial to men and all-capable, who hears the praise of the praiser and is borne by praises, come with his horses to the three attractive savanas.
+
+##### English translation
+May Indra, with his steeds, come to as many (daily) rites (as may be celebrated), bearing the thunderbolt, drinking the Soma, bestowing cattle, granting manly and multiplied posterity, hearing the invocation of his adorer, and being the accepter of (our) praises.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्मै॑ व॒यं यद्वा॒वान॒ तद्वि॑विस्म॒ इंद्रा॑य॒ यो नः॑ प्र॒दिवो॒  ॒
+> अपस्कः ।  
+> सु॒ते सोमे॑ स्तु॒मसि॒ शंस॑दु॒क्केंद्रा॑य॒ ब्रह्म॒ वर्ध॑नं॒  ॑
+> यथासत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै । वयं । यत् । ववान । तत् । विविष्मः । इंद्राय । यः । नः । प्रदिवः । असः ।  
+> करिति कः ।  
+> सुते । सोमे । स्तुमसि । शंसत् । उक्षा । इंद्राय । ब्रह्म । वर्धनं । यथा ।  
+> असत् ॥ ५ ॥
+
+### Printed p. 777
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रदिवः पुराणो य इंद्रो नोऽस्मदर्थमपः पोषणादिकं कर्म कः
+> करोति आयमिंद्रो यत्सोत्रादिकं ववान कामयतेऽस्मा इंद्राय वयं
+> तद्विविष्मः । व्याप्नुमः । कुर्म इत्यर्थः । सोमे सुतेऽभिषुते सति स्तुमसि । स्तुमः ।
+> इंद्राय स्तोत्राणि कुर्मः । उक्तोत्थानि शस्त्राणि शंसत् शंसंतः ॥ प्रथमाबहुवचनस्य लुक् ॥ ब्रह्म हविर्लक्षणमन्न मिंद्रायेंद्रार्थ० वर्धनं यथा वृद्धि करमसत्
+> स्यात् तथा कुर्म इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the ancient (प्रदिवः (*pradivaḥ*)) Indra who does for us (नः (*naḥ*)) the work of nourishment and the like (अपः (*apaḥ*); कः (*kaḥ*) means "does", करोति (*karoti*)) and who desires (ववान (*vavāna*)) the praises and the like: for that Indra we pervade (विविष्मः (*viviṣmaḥ*)), that is, we perform that. When the Soma has been pressed (सुते (*sute*)) we praise (स्तुमसि (*stumasi*)), that is, we make praises for Indra. Reciting (शंसत् (*śaṃsat*)) means those who recite the śastras that rise out of the uktha. The word ब्रह्म (*brahma*) is the food that has the nature of the oblation; it is meant for Indra, and the sense is that we make it so that it may be a cause of his increase (वर्धनं (*vardhanaṃ*)) and may come to be (असत् (*asat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रदिवः (*pradivaḥ*)—the ancient one
+- यः (*yaḥ*)—which Indra
+- नः (*naḥ*)—for our good
+- अपः (*apaḥ*)—the works of nourishment and the like
+- कः (*kaḥ*)—does (and)
+- यत् (*yat*)—which praises
+- ववान (*vavāna*)—he desires
+- अस्मै इंद्राय (*asmai iṃdrāya*)—addressed to that same Indra
+- तद्विविष्मः (*tadviviṣmaḥ*)—I worship so as to fill him with satisfaction
+- वयं (*vayaṃ*)—we
+- सोमे (*some*)—the Soma juice
+- सुते (*sute*)—when it is pressed
+- स्तुमसि (*stumasi*)—we praise
+- उक्था (*ukthā*)—praises that have the nature of the uktha
+- शंसत् (*śaṃsat*)—we recite
+- ब्रह्म (*brahma*)—the food that has the form of the oblation
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- वर्धनं यथा (*vardhanaṃ yathā*)—in such a way that his power increases
+- असत् (*asat*)—we offer
+
+##### भावार्थ (Bhāvārtha)
+
+We praise that same Indra, the ancient one who does for our good the works of nourishment and the like and who desires our praises. And before that we prepare the Soma juice. We recite the praises that have the form of the uktha. Addressing Indra, we offer the food that has the form of the oblation in such a way that his power increases.
+
+##### English translation
+To that Indra, who of old has rendered us good offices, we address (the praises) that he is pleased by : we celebrate him when the Soma is effused, repeating the prayer that the (sacrificial) food (offered) to Indra may be for his augmentation.
+
+### Printed p. 778
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्मा॑णि॒ हि च॑कृ॒षे वर्ध॑नानि॒ ताव॑त्त इंद्र म॒तिभि॑र्विविष्टः ।  
+> सु॒ते सोमे॑ सुतपाः॒ शंत॑मानि॒ रांद्रा॑ क्रियास्म॒ वक्ष॑णानि  ॒
+> यज्ञैः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्माणि । हि । चकृषे । वर्धनानि । तावत् । ते । इंद्र । मतिभिः । विविष्टः ।  
+> सुते । सोमे । सुत्यपाः । शंतमानि । रांद्रा । क्रियास्म । वक्षणानि । यज्ञैः ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं हि यस्मात्कारणात् ब्रह्माणि स्तोत्राणि वर्धनानि स्वयमेव
+> वृद्धिकराणि चकृषे कृतवानसि तस्मात्कारणात्तावत्तावंति तादृशानि स्तोत्ताणि ते तुभ्यं
+> मतिभिर्बुद्धिभिर्वयं विविष्टः । व्याप्नुमः । वर्धनानि स्तोत्राणि मम यथा भवेयुस्तं तादृशानि कल्पितवानसीत्यर्थः । अपि च हे सुतपा अभिषुतस्य सोमस्य
+> शंतमानि सुखकृत्तमानि रांद्र्या रांद्र्यानि रमणीयानि यज्ञैर्हविर्भियुक्तानि
+> वक्षणानि वाहकानि स्तोत्राणि क्रियास्मै । करवाम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, since you have made the praises (ब्रह्माणि (*brahmāṇi*)) increasing (वर्धनानि (*vardhanāni*)), that is, causing growth of their own accord, for that reason we pervade (विविष्टः (*viviṣṭaḥ*)) you with our minds (मतिभिः (*matibhiḥ*)) with so many such praises (तावत् (*tāvat*)). The sense is that you have so arranged the praises that they may be for my growth (मम (*mama*)). **NOTE** Moreover, O drinker of the pressed Soma (सुतपा (*sutapā*)), may we make praises (क्रियास्मै (*kriyāsmai*), meaning करवाम (*karavāma*)) which are the most productive of happiness (शंतमानि (*śaṃtamāni*)), delightful (रांद्र्या (*rāṃdryā*), meaning रमणीयानि (*ramaṇīyāni*)), joined with sacrifices, that is, with oblations (यज्ञैः (*yajñaiḥ*)), and conveying (वक्षणानि (*vakṣaṇāni*), meaning वाहकानि (*vāhakāni*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- हि (*hi*)—for which reason
+- ब्रह्माणि (*brahmāṇi*)—the praises
+- वर्धनानि (*vardhanāni*)—as causes of your increase
+- चकृषे (*cakṛṣe*)—you have made for yourself
+- तावत् (*tāvat*)—just such praises
+- ते (*te*)—addressed to you
+- मतिभिः (*matibhiḥ*)—united with our minds (and offering them)
+- विविस्मः (*vivismaḥ*)—we shall satisfy you
+- सुतपाः (*sutapāḥ*)—O Indra, drinker of the Soma juice
+- सोमे (*some*)—the Soma juice
+- सुते (*sute*)—when it is pressed
+- शंतमानि (*śaṃtamāni*)—those that bring happiness
+- रांद्रा (*rāṃdrā*)—those that are delightful
+- यज्ञैः (*yajñaiḥ*)—those joined with sacrifices
+- वक्षणानि (*vakṣaṇāni*)—and conveying praises
+- क्रियास्म (*kriyāsma*)—we recite
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the praises that you have understood to be causes of your increase, just those praises we shall offer to you, united with our minds, and so satisfy you. O Indra, drinker of the Soma juice, when the Soma juice has been pressed, we recite praises that bring happiness, are delightful, are joined with sacrifices and are conveying.
+
+### Printed p. 779
+
+##### English translation
+Since, Indra you have made the (sacred) prayers (the means of ) your augmentation, we address such to you, along with our praises : may we, drinker of the effused libation, offer gratifying and acceptable eulogies with (our) sacrifices.
+
+#### Ṛk 7 **NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ बोधि पुरो॒ळाशं॒ ररा॑णः॒ पिबा॒ तु सोमं॒ गोऋ॑जीकमिंद्र ।  
+> एदं ब॒र्हिर्यज॑मानस्य सीदो॒रुं कृ॑धि त्वाय॒त उ॑ लो॒कं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । बोधि । पुरोळाशं । रराणः । पिब । तु । सोमं । गोऽयजीकं । इंद्र ।  
+> आ । इदं । बर्हिः । यजमानस्य । सीद । उरुं । कृधि । त्वायतः । ऊं इति । लोकं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र रराणो रममाणः स त्वं नोऽस्मदीयं पुरोडाशमेतल्लक्षणं
+> हविर्बोधि । बुध्यस्व । किंच गोऋजीकं गोविकारदध्यादिभिः संस्कृतमभिषुतं
+> सोमं तु क्षिप्रं पिब । पिबेः । तदर्थं च यजमानस्य संबंधीदं बर्हिरा सीद ।
+> अभिविश । तदनंतरं त्वायतस्त्वामिच्छतो यजमानस्य लोकं स्थानमुरुं विस्तीर्णं
+> कृधि । कुरु ॥ उ इति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, rejoicing (रराणः (*rarāṇaḥ*)), you take note (बोधि (*bodhi*), meaning बुध्यस्व (*budhyasva*)) of our oblation, characterised as the purodāśa. Moreover, drink quickly (तु (*tu*), पिब (*piba*)) the Soma that has been pressed and prepared with products of the cow such as curds (गोऋजीकं (*goṛjīkaṃ*)). **NOTE** For that, sit (आ सीद (*ā sīda*), meaning अभिविश (*abhiviśa*), enter) on this sacred grass of the sacrificer. After that, make wide (उरुं (*uruṃ*), meaning विस्तीर्णं (*vistīrṇaṃ*); कृधि (*kṛdhi*), meaning कुरु (*kuru*)) the place (लोकं (*lokaṃ*)) of the sacrificer who desires you (त्वायतः (*tvāyataḥ*)). The word उ (*u*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- रराणः (*rarāṇaḥ*)—who has attained delight
+- सः (*saḥ*)—you
+- नः (*naḥ*)—offered by us
+- पुरोडाशं (*puroḍāśaṃ*)—the oblation that has the form of the purodāśa
+- बोधि (*bodhi*)—know
+- गोयजीकं (*goyajīkaṃ*)—mixed with curds and the like
+- सोमं (*somaṃ*)—the Soma juice
+- तु (*tu*)—quickly
+- पिब (*piba*)—drink
+- यजमानस्य (*yajamānasya*)—prepared by the sacrificer
+- इदं बर्हिः (*idaṃ barhiḥ*)—on this seat of darbha grass
+- आ सीद (*ā sīda*)—sit down
+- त्वायतः (*tvāyataḥ*)—of the sacrificer who desires your service
+- लोकं (*lokaṃ*)—the place
+- उरुं (*uruṃ*)—as a spacious one
+- कृधि (*kṛdhi*)—make
+
 ---
 
-**Progress note:** Done through printed p. 773. Sukta 22 Rks 10-11, Sukta 23 Rks 1-2 (pp. 768-773)
+**Progress note:** Done through printed p. 779. Mandala 6 sukta 23, rks 3-7 (pp. 774-779)
