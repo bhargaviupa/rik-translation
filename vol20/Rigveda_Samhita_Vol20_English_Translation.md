@@ -26989,6 +26989,244 @@ O Indra of radiant form, you are king of the gods and others who are in the heav
 ##### English translation
 Bright-flaming Indra, you are the king of the people of heaven, and of the moving races of earth : grasp in your right hand the thunderbolt, wherewith, Indra, who are beyond all praise, you baffle all the devices (of the Asuras).
 
+### Printed p. 768
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सं॒यत॑मिंद्र णः स्व॒स्तिं श॑त्रु॒तूर्या॑य बृह॒तीममृ॑ध्रां।  
+> यया॒ दासा॒न्यार्या॑णि वृ॒त्रा करो॑ वज्रिन्॒तुसुका॒ नाहु॑षाणि ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । संयतं । इंद्र । नः । स्वस्तिं । शत्रुतूर्यायॆ । बृहतीं । अमृध्रां ।  
+> यया । दासानि । आर्याणि । वृत्रा । करः । वज्रिन् । सुतुका । नाहुषाणि ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शत्रुतूर्याय शत्रूणां तारणाय बृहतीं महतीममृध्रामहिंसितां संयतं संयतीं संगच्छमानां स्वस्तिं क्षेमलक्षणां संपदं हे इंद्र
+> नोऽस्मभ्यमा भर । वज्रिन्वजवन्निंद्र यया स्वस्त्या दासानि कर्महीनानि मनुष्यजातान्यार्याणि कर्मयुक्तानि करः अकरोः । नाहुषाणि मनुष्यसंबंधीनि । नहुषा
+> इति मनुष्यनामैतत् । वृत्रा वृत्राणि .शत्रून् सुतुका सुतुकानि शोभनहिंसोपेतान्यकरोः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for the overcoming of enemies bring to us great, unharmed and concentrated prosperity, a store of well-being. O wielder of the thunderbolt, by that prosperity you have made the dāsas, those who are without rites and born as men, ārya, that is, furnished with rites; the word for "relating to men" is the word derived from nahuṣa, which is a name for man. By it you have made the enemies, the Vṛtras, furnished with excellent injury. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यया (*yayā*)—by which power of yours
+- दासानि (*dāsāni*)—those without rites
+- आर्याणि (*āryāṇi*)—as people furnished with rites
+- करः (*karaḥ*)—you have made
+- नाहुषाणि (*nāhuṣāṇi*)—relating to men
+- वृत्रा (*vṛtrā*)—enemies
+- सुतुका (*sutukā*)—you have made them fall down easily; such
+- बृहतीं (*bṛhatīṃ*)—great
+- अमृध्रां (*amṛdhrāṃ*)—unharmed
+- संयतं (*saṃyataṃ*)—in the form of a store
+- स्वस्तिं (*svastiṃ*)—auspicious wealth
+- नः (*naḥ*)—to us
+- शत्रुतूराय (*śatrutūrāya*)—for the conquest of enemies
+- आ (*ā*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bring to us, for the conquest of enemies, that great, unharmed, store-like and auspicious wealth by which you made people without rites into people furnished with rites, and made the enemies who are related to men fall down easily.
+
+### Printed p. 769
+
+##### English translation
+Bring to us, Indra, concentrated, vast, and unassailable prosperity beyond the reach of enemies, and by which, wielder of the thunderbolt, you have rendered human enemies, whether Dasas or Aryas, easy to be overcome.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ नि॒युद्धिः॑ पुरुहूत वेधो वि॒श्ववा॑राभि॒रा ग॑हि  
+> प्रयज्यो ।  
+> न या अदे॑वो॒ वर॑ते॒ न दे॒व आभि॑र्याहि॒ तूय॒मा म॑द्र्य॒द्रिक् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । नियुत्थभिः । पुरुहूत । वेधः । विश्ववाराभिः । आ । गहि । प्रयज्यो इति  
+> प्रयज्यो ।  
+> न । याः । अदेवः । वरते । न । देवः । आ । अभिः । याहि । कूयं । आ । मद्र्यद्रिक् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत हे वेधो विधातर्हे प्रयज्यो प्रकृष्टेन यजनीयेंद्र स
+> त्वं विश्ववाराभिर्विश्वैर्वणीयाभिः संभजनीयाभिर्नियुद्धिरश्नैर्नोऽस्माना गहि ।
+> आगच्छ । अदेवोऽसुरो या नियुतो यानश्वान्न वरते न वारयति देवश्च न
+> वरते आभिर्नियुद्भिस्तूयमा क्षिप्रमेव मद्र्यद्रिक् मदभिमुखः सन् आ याहि ।
+> आगच्छ ॥ अद्र्यागमस्य द्विर्वचनं छांदसं ॥
+
+##### Gist of the bhāṣya
+
+O much-invoked one, O creator, O Indra who are to be worshipped in an excellent manner: you come to us with your horses, which are chosen by all and to be shared by all. The horses that neither the asura nor the god holds back, with these come quickly, turning toward me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—one called by many
+- वेधः (*vedhaḥ*)—creator
+- प्रयज्यो (*prayajyo*)—one worthy of excellent worship, O Indra
+- सः (*saḥ*)—you, the famous
+- विश्वावाराभिः (*viśvāvārābhiḥ*)—honoured by all
+- नियुद्भिः (*niyudbhiḥ*)—with your horses
+- नः (*naḥ*)—to us
+- आ गहि (*ā gahi*)—be pleased to come
+### Printed p. 770
+- आदेवः (*ādevaḥ*)—the asura
+- याः (*yāḥ*)—which horses
+- न वरते (*na varate*)—cannot hold back
+- देवः (*devaḥ*)—the god also
+- न (*na*)—cannot hold back
+- आभिः (*ābhiḥ*)—with such horses
+- तेयं आ (*teyaṃ ā*)—come quickly
+- मद्र्यद्रिक् (*madryadrik*)—turned toward me
+- आ याहि (*ā yāhi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, called by many, creator and worthy of excellent worship, be pleased to come to us with your horses, which are honoured by all. Come, turned toward me, with such horses as neither god nor asura can hold back.
+
+##### English translation
+Invoked of many, creator, object of sacrifice, come to us with your all-admired steeds, whom neither Asura nor deity arrests : come with them quickly to our presence.
+
+## Sūkta 23 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुत इदिति दशर्चमष्टमं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं । सुत
+> इद्दशेत्यनुक्रांतं ॥ विषुवति निष्केवल्य इदं सूक्तं । सूत्रितं च। सुत इत्त्वमेष प्र
+> पूर्विः । आ. ८-६ । इति ॥ महाव्रतेऽपि निष्केवल्य इदमादीनि त्रीणि सूक्तानि ।
+> तथैव पंचमारण्यके सूत्रितं । सुत इत्त्वं निमिश्ल इंद्र सोम इति त्रीणि । ऐ. अ.
+> ५-२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning सुत इत् (*suta it*) has ten Ṛks; its seer is Bharadvāja, its metre Triṣṭubh and its deity Indra. The Anukramaṇī says: सुत इद्दश (*suta iddaśa*). Use: in the Viṣuvat day this sūkta is used in the Niṣkevalya; the sūtra says सुत इत्त्वमेष प्र पूर्विः (*suta ittvameṣa pra pūrviḥ*) (Ā. 8-6). Also in the Mahāvrata, three sūktas beginning with this one are used in the Niṣkevalya; thus it is laid down in the fifth Āraṇyaka: सुत इत्त्वं निमिश्ल इंद्र सोम इति त्रीणि (*suta ittvaṃ nimiśla iṃdra soma iti trīṇi*) (Ai. A. 5-2-2 **NOTE**).
+
+The sūkta "Suta it" is the eighth sūkta in the second anuvāka. It has ten Ṛks. Bharadvāja is the seer of this sūkta, Indra is the deity and Triṣṭubh is the metre. In the Anukramaṇī it is said: Suta it, ten. In the Viṣuvat sacrifice this sūkta is used for the Niṣkevalya-śastra mantras, and this is set forth in the Āśvalāyana Śrauta-sūtra by the sūtra "Suta ittvameṣa pra pūrvīḥ" (Ā. 8-6). And in the Mahāvrata also, the three sūktas from this one onward are used for the Niṣkevalya-śastra mantras; this is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence "Suta ittvaṃ nimiśla indra soma iti trīṇi" (Ai. Ā. 5-2-2).
+
+### Printed p. 771
+
+Sūkta 23. Maṇḍala 6. Anuvāka 2. Sūkta 23. Aṣṭaka 4. Adhyāya 6. Varga 15, 16. Number of Ṛks in the sūkta: 10. Ṛṣi: Bharadvāja Bārhaspatya. Devatā: Indra. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒त इत्त्वं निमि॑श्ल इंद्र॒ सोमे॒ सोमे॒ ब्रह्म॑णि श॒स्यमा॑न  ॒
+> उक्थे ।  
+> यद्वा॑ यु॒क्ताभ्यां॑ मघव॒न्हरि॑भ्यां॒ बिभ्र॒द्वज्रं॑ बा॒ह्वोरिं॑द्र॒  ॑
+> यासि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुते । इत् । त्वं । निमिश्लः । इंद्र । सोमे । स्तोमे । ब्रह्मणि । शस्यमाने । उक्धे ।  
+> यत् । वा । युक्ताभ्यां । मघवन् । हरिभ्यां । बिभ्रत् । वज्रं । बाह्वोः । इंद्र ।  
+> यासि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमे सुत इदभिषुत एव सति ब्रह्मणि बृहति महति स्तोमे स्तोत्र उच्चार्यमाणे सत्युक्थे शस्त्रे शस्यमाने सति हे इंद्र त्वं निमिश्लो निमिश्रः सन् हरी
+> संयोजयन् हे मघवननवन्निंद्र त्वंबाह्वोहस्तयोर्वज्रं स्वकीयमायुधं
+> बिभ्रद्धारयन् युक्ताभ्यां रथे नियुक्ताभ्यां हरिभ्यामश्वाभ्यां यासि यद्वागच्छसीति यच्च तत्सोमेऽभिषुत इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+When Soma has been pressed, when a great hymn is being uttered and the uktha, the śastra, is being recited, O Indra, you, being united, yoking your two bay horses, O Maghavan, holding in your hands your own weapon, the thunderbolt, come with the two bay horses yoked to the chariot. The construction is that all this happens when Soma has been pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy
+- इंद्र (*iṃdra*)—Indra
+- सोमे (*some*)—when the soma juice
+- सुते इत् (*sute it*)—is pressed, immediately
+- ब्रह्मणि (*brahmaṇi*)—great
+- स्तोमे (*stome*)—as soon as the hymn is recited
+- उक्थे (*ukthe*)—the śastra
+- शस्यमाने (*śasyamāne*)—as soon as it is recited
+- त्वं (*tvaṃ*)—you
+- निमिश्लः (*nimiślaḥ*)—having yoked your horses to the chariot
+### Printed p. 772
+- बाह्वोः (*bāhvoḥ*)—in your hands
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- बिभ्रत् (*bibhrat*)—bearing
+- युक्ताभ्यां (*yuktābhyāṃ*)—joined with chariots
+- हरिभ्यां (*haribhyāṃ*)—with the horses
+- यद्वा यासि (*yadvā yāsi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, as soon as the soma juice is pressed, the great hymn is recited and the śastra mantra is recited, you yoke your horses to the chariot, bear the thunderbolt weapon in your hands, and be pleased to come with the horses joined with the chariot.
+
+##### English translation
+When the Soma Juice, Indra, is being effused, the sacred hymn chanted, the prayer recited, be prepared (to harness your horses), or, Maghavan, with your horses ready harnessed, come (hither), bearing the thunderbolt in your hand.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॑ दि॒वि पाये॒ सुष्टि॑मिंद्र वृत्र॒हत्येव॑सि॒ शूर॑सात् ।  
+> यद्वा॒ दक्ष॑स्य बि॒भ्युषो॒ अजि॑भ्य॒दरं॑धयः॒ शर्ध॑त इंद्र॒  ॑
+> दस्यून् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । दिवि । पार्ये । सुस्विं । इंद्र । वृत्रहत्ये । अवसि । शूरसात् ।  
+> यत् । वा । दक्षस्य । बिभ्युषः । अबिभ्यत् । अरंधयः । कर्धतः । इंद्र । दस्यून् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं दिवि द्युलोके शूरसात् शूरैर्भटैः संभजनीये वृत्रहत्ये
+> युद्धे च पार्ये प्राप्तव्ये सति सुष्टिमभिषोतारं यजमानमवसि यद्वा रक्षसीति
+
+##### Gist of the bhāṣya
+
+O Indra, in heaven, when the battle that slays Vṛtra, which is to be shared by heroes and warriors, is to be reached, you protect the sacrificer who presses Soma; or whatever else you do,
+
+### Printed p. 773
+
+> यच्च । वेति समुच्चये । दक्षस्य यज्ञादिषु समर्थस्य बिभ्युषः शत्रुभ्यो बिभ्यतो
+> जनस्य शर्धतः संग्राम उत्सहमानान्दस्यनुपक्षपयित्यन् शत्रून् हे इंद्र त्वमबिभ्यद्भीतिरहितः सन् अरंधयो यद्वा वशीकरोषीति यच्च तत्सर्वं सोमेऽभिषुत
+> इति पूर्वेण संबंधः ॥ तथा चोक्तं । यद्बाह्वोर्धारयन्वज्रं हरिभ्यां यासि
+> वृत्रहन् । यच्च रक्षसि संग्रामे नृन् सोममभिषुण्वतः ॥ यच्च कर्म सुदक्षस्य
+> यजमानस्यापारयः । वशीकरोषि तांस्तस्मै बिभ्यते भीतिवर्जितः ॥ तत्सोमेऽभिषुते स्तोत्रशस्त्रयोश्च प्रवृत्तयोः । इति द्वचोऽयमेकार्थः सुत इत्त्वमिति
+> द्वयमिति ॥
+
+##### Gist of the bhāṣya
+
+the word for "or" is for combining. For the man who is able in sacrifices and the like and is afraid of enemies, you, O Indra, being without fear, subdued the Dasyus, the enemies who strive in battle and wear down **NOTE**; or whatever you bring under control: all that is connected with the former, as happening when Soma is pressed. So it has been said: यद्बाह्वोर्धारयन्वज्रं हरिभ्यां यासि वृत्रहन् । यच्च रक्षसि संग्रामे नृन् सोममभिषुण्वतः ॥ यच्च कर्म सुदक्षस्य यजमानस्यापारयः । वशीकरोषि तांस्तस्मै बिभ्यते भीतिवर्जितः ॥ तत्सोमेऽभिषुते स्तोत्रशस्त्रयोश्च प्रवृत्तयोः । इति द्वचोऽयमेकार्थः सुत इत्त्वमिति द्वयमिति ॥ (*yadbāhvordhārayanvajraṃ haribhyāṃ yāsi vṛtrahan | yacca rakṣasi saṃgrāme nṛn somamabhiṣuṇvataḥ ‖ yacca karma sudakṣasya yajamānasyāpārayaḥ | vaśīkaroṣi tāṃstasmai bibhyate bhītivarjitaḥ ‖ tatsome 'bhiṣute stotraśastrayośca pravṛttayoḥ | iti dvaco 'yamekārthaḥ suta ittvamiti dvayamiti ‖*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- दिवि (*divi*)—in the heavenly world
+- शूरसात् (*śūrasāt*)—to be fought with heroes
+- वृत्रहत्ये (*vṛtrahatye*)—in the battle that destroys enemies
+- पार्ये (*pārye*)—though engaged
+- सुष्टिं (*suṣṭiṃ*)—the sacrificer who presses and offers Soma
+- अवसि (*avasi*)—that you protect
+- यद्वा (*yadvā*)—whatever there is (that also)
+- दक्षस्य (*dakṣasya*)—able to perform sacrifice
+- बिभ्युषः (*bibhyuṣaḥ*)—and afraid of enemies, for the sacrificer
+- शर्धतः (*śardhataḥ*)—harmful
+- दस्यून् (*dasyūn*)—enemies
+- इंद्र (*iṃdra*)—O Indra
+- अबिभ्यत् (*abibhyat*)—fearless
+- आरंधयः (*āraṃdhayaḥ*)—that you made fall down
+- यद्वा (*yadvā*)—whatever there is (all of it was accomplished as soon as the soma was pressed)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whatever there is, that you protect the sacrificer who presses and offers Soma, though engaged in heaven in the battle to be fought with heroes and destructive of enemies, and whatever there is, that fearless you made the harmful enemies fall down for the sacrificer who is able to perform sacrifice and afraid of enemies: all this was accomplished as soon as the soma was pressed.
+
+##### English translation
+Or as, although engaged in heaven in the horo-animating conflict with foes, you protect the offerer of the libation, and humble, undaunted Indra, the Dasyus, the disturbers of the pious and terrified worshipper, (so come when the Soma is effused).
+
 ---
 
-**Progress note:** Done through printed p. 767. Sukta 22 Rks 4-9 (pp. 761-767)
+**Progress note:** Done through printed p. 773. Sukta 22 Rks 10-11, Sukta 23 Rks 1-2 (pp. 768-773)
