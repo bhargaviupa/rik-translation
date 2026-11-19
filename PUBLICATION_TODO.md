@@ -142,6 +142,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 19 2026: supplied text of Vol 5, file 7 (pp. 584–708) added; only pp. 468–485 are still missing.
 - Nov 19 2026: supplied text of Vol 6, file 1 (pp. 2–81) added; the volume is complete except printed p. 82, which is in none of the three files.
 - Nov 19 2026: supplied text of Vol 2 complete (file 1, pp. 2–385, added; whole volume pp. 2–808).
 - Nov 19 2026: supplied text of Vol 6, files 2 and 3 (pp. 83–619), put in `vol6/html/`; file 1 (pp. 1–82) still wanted.
