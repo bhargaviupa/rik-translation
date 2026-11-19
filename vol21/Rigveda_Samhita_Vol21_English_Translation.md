@@ -24388,6 +24388,197 @@ Soma and Rudra, confirm (in us the strength) of Asuras ; may sacrifices in every
 
 O Soma and Rudra, whatever disease has entered our *gaya*, our house, or the creatures belonging to the house, that disease, going everywhere in all directions, drive apart; that is, separate it from us. Further, *nirṛti*, misfortune, *parācaiḥ*, turned away; as it becomes *parāk*,
 
+### Printed p. 552
+
+> दूरे बाधेथां । निवारयतं । अस्मे अस्माकं भद्रा भद्राणि सौश्रवसान्यन्नानि
+> यशांसि च संतु । भवंतु । सुश्रवसो भावः सौश्रवसं । श्रवोऽन्नं यशश्च ॥
+
+##### Gist of the bhāṣya
+
+Drive her far away; ward her off. May auspicious things, *bhadrā*, be to us, *asme*, that is, to ours: *sauśravasāni*, foods and renown. *Sauśravasa* is the state of one who has good *śravas*; and *śravas* is food and renown.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमारुद्रा (*somārudrā*)—O gods Soma and Rudra
+- या अमीवा (*yā amīvā*)—whatever disease
+- नः (*naḥ*)—our
+- गयं (*gayaṃ*)—house
+- आविवेश (*āviveśa*)—has entered
+- विषूचीं (*viṣūcīṃ*)—that disease, spreading everywhere, every one of them
+- वि वृहतं (*vi vṛhataṃ*)—destroy completely
+- निर्ऋतिं (*nirṛtiṃ*)—the goddess of misfortune
+- पराचैः (*parācaiḥ*)—making her turn back
+- आरे (*āre*)—to a great distance
+- बाधेथां (*bādhethāṃ*)—thrust away
+- अस्मे (*asme*)—to us
+- भद्रा (*bhadrā*)—auspicious things
+- सौश्रवसानि (*sauśravasāni*)—possessed of food and the wealth of renown
+- संतु (*saṃtu*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Soma and Rudra, whatever disease has entered our house, every one of those diseases spreading everywhere and contagious, destroy completely. Make the goddess of misfortune turn back and thrust her far away. May there be auspicious things for us, possessed of food and the wealth of renown.
+
+##### English translation
+Soma and Rudra, expel the wide-spread sickness that has entered into our dwellings; keep off Nirriti, so that she may be far away, and may prosperous means of sustenance be ours.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मै विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तं।  
+> अव॑ स्यतं मुं॒चतं॒ यन्नो॒ अस्ति॑ त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑  ॒
+> अस्मत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमारुद्रा । युवं । एतानि । अस्मे इति । विश्वा । तनूषु । भेषजानि । धत्तं ।  
+> अव । स्यतं । मुंचतं । यत् । नः । अस्ति । तनूषु । बद्धं । कृतं । एनः । अस्मत् ॥
+
+### Printed p. 553
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोमारुद्रा सोमारुद्रौ युवं युवामस्मे अस्माकं तनूष्टंगेष्टेतानि प्रसिद्धानि विश्वा सर्वाणि भेषजानि धत्तं । धारयतं । किंच नोऽस्माकं
+> तनूष्टंगेष्वस्माभिः कृतं बद्धं च यदेनः पापमस्ति विद्यते तत्पापमव स्यतं ।
+> क्षपयतं । श्लथयतं । शिथिलबंधं कुरुतमित्यर्थः । आस्मदस्मत्तो मुंचितं च ॥
+
+##### Gist of the bhāṣya
+
+O Soma and Rudra, you two, in our bodies, that is, in our limbs, *asme*, for us, place, *dhattam*, hold, all these well-known remedies. Further, whatever sin, *enas*, exists, is found, that has been done by us and bound in our bodies, that sin *avasyatam*: destroy it, loosen it; the meaning is, make its binding slack. Release it also from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमारुद्रा (*somārudrā*)—O gods Soma and Rudra
+- युवं (*yuvaṃ*)—you two
+- आस्मे (*āsme*)—our
+- तनूषु (*tanūṣu*)—in the bodies
+- एतानि (*etāni*)—well-known
+- विश्वा भेषजानि (*viśvā bheṣajāni*)—all the means of warding off disease
+- धत्तं (*dhattaṃ*)—fill in
+- नः (*naḥ*)—our
+- तनूषु (*tanūṣu*)—in the limbs
+- कृतं (*kṛtaṃ*)—both what has been acquired by oneself
+- बद्धं (*baddhaṃ*)—and what has stuck on through contact from outside
+- यत् एनः आस्ति (*yat enaḥ āsti*)—whatever sin there is, all of that
+- अव स्यतं (*ava syataṃ*)—destroy completely
+- आस्मत् (*āsmat*)—from us
+- मुंचतं (*muṃcataṃ*)—release completely
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Soma and Rudra, you two together, fill our bodies with all the well-known means of warding off disease. Whatever sin there is in our limbs, both what has been acquired by oneself and what has stuck on through contact from outside, destroy all of it completely. Release it completely from us.
+
+##### English translation
+Soma and Rudra, grant all these medicaments (for the ailments of) our bodies : detach, set free, the perpetrated iniquity that has been bound up in our persons.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒ग्मायु॑धौ ति॒ग्महे॑ती सु॒शेवौ॒ सोमा॑रुद्रावि॒ह सु मृ॑ळतं  
+> नः ।  
+> प्रनो॑ मुंचतं॒ वरु॑णस्य॒ पाशा॑द्गोपा॒यतं॑ नः सुमन॒स्यमा॑ना ॥ ४ ॥
+
+### Printed p. 554
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिग्मयुधौ । तिग्महेती इति तिग्महेती । सुशेवौ । सोमारुद्रौ । इह । सु ।  
+> मृळतं । नः ।  
+> प्र । नः । मुंचतं । वरुणस्य । पाशात् । गोपायतं । नः । सुमनस्यमाना ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोमारुद्रौ तिग्मायुधौ दीप्तधनुष्कौ तिग्महेती तीक्ष्णशरौ सुशेवौ
+> शोभनसुखप्रदौ सुमनस्यमाना शोभनं मनः स्तोत्रमिच्छंतौ सुमनस्यमानौ
+> स्तूयमानौ सुमनसौ ना संतौ युवामिह लोके नोऽस्मान् सु अत्यंतं
+> मृळतं । सुखयतं । नोऽस्मान्वरुणस्य पाशात्प्र मुंचतं । नोऽस्मान् गोपायतं । आपद्भ्यो रक्षतं च ॥
+
+##### Gist of the bhāṣya
+
+O Soma and Rudra, *tigmāyudhau*, having bright bows; *tigmahetī*, having sharp arrows; *suśevau*, bestowers of excellent happiness; *sumanasyamānā*, desiring good-minded praise, that is, being praised, being of good mind. You two here in this world, *naḥ*, us, *su*, exceedingly, *mṛḷatam*, make happy. From the noose of Varuṇa release us. Protect us, and guard us from dangers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तिग्मायुधौ (*tigmāyudhau*)—possessed of sharp weapons
+- तिग्महेती (*tigmahetī*)—possessed of pointed arrows
+- सुशेवौ (*suśevau*)—bestowers of excellent happiness
+- सुमनस्यमाना (*sumanasyamānā*)—possessed of a favourable mind
+- सोमारुद्रौ (*somārudrau*)—O gods Soma and Rudra
+- इह (*iha*)—in this world
+- नः (*naḥ*)—us
+- सु (*su*)—exceedingly
+- मृळतं (*mṛḷataṃ*)—make happy
+- नः (*naḥ*)—us
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- पाशात् (*pāśāt*)—from the bond
+- प्र मुंचतं (*pra muṃcataṃ*)—release
+- नः (*naḥ*)—us
+- गोपायतं (*gopāyataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Soma and Rudra, possessed of sharp weapons, possessed of pointed arrows, bestowers of excellent happiness, possessed of a favourable mind, make us exceedingly happy in this world. Release us from the bond of Varuṇa. Protect us well.
+
+##### English translation
+Sharp-weaponed, sharp-arrowed, profoundly-honoured Soma and Rudra, grant us happiness in this world : propitiated by our praise, preserve us : liberate us from the bonds of Varuna.
+
+### Printed p. 555
+
+## Sūkta 75 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जीमूतस्येकोनविंशत्यचं चतुर्दशं सूक्तं भारद्वाजस्य पायोरार्ष० । अनुक्रम्यते च । जीमूतस्यैकोना पायुर्भारद्वाजः संग्रामांगान्यक्कोभितुष्टाव वर्म धनुर्ज्यामार्ति इषुधिं जगत्यर्थे सारथिमर्धे
+> रश्मीनश्वान् रथं रथगोपान् जगत्यां लिंगोक्तदेवता द्वाभ्यामिषूः प्रतोदं
+> हस्तघ्नं द्वाभ्यामिषूः पराः पंक्त्यादयो लिंगोक्तदेवताः संग्रामाशिषोऽ०-
+> त्यानुष्टुबृजीत आलाक्तेति च द्वे द्वे इति । रथे तिष्ठन् ब्राह्मणास इति षष्ठिदशम्या
+> जगत्यावंत्या यो नः स्व इत्येषानुष्टुबृजीत आ जंघंत्यालाक्तावसृष्टा यो नः
+> स्व इति पंचानुष्टुभो यत्र बाणा इति पंक्तिः शिष्टास्त्रिष्टुभः । आद्यया वर्म
+> सूयते द्वितीयया धनुस्तृतीयया ज्या चतुर्थार्ति पंचम्येषुधिः । अतः
+> पंचानां वर्माद्या देवताः । षष्ठ्याः पूर्वार्धेन सारथिः सूयते ! अतः
+> सोऽर्धस्तद्देवताकः । उत्तरार्धेन रश्मयः सूयंते । सप्तम्याश्वा अष्टम्या
+> रथो नवम्या रथगोपाः । आतस्तास्तद्देवताकाः । ब्राह्मणास इत्यस्यां ब्राह्मणपितृसोम्य द्यावापृथिवीपूषाणो लिंगोक्तदेवताः । एकादशीद्वादश्याविषुस्तुतिरूपत्वादिषुदेवताके । त्रयोदश्या प्रतोदः । चतुर्दश्या हस्तघ्नः । पंचदशीषोडश्याविषुदेवताके । सप्तदश्या युद्धभूमिब्रह्मणस्पत्यदितिरूपा लिंगोक्तदेवताः ।
+> आष्टादश्याः कवचसोमवरुणा देवताः । अंत्याया देवा ब्रह्म च देवताः ॥
+> युद्देऽनेन सूक्तेन राजानं संनाहयेत् । तथा चाश्वलायनः । संग्रामे
+> समुपोळ्ळे राजानं संनाहयेदा त्वाहार्षमंतरेधीति पश्चाद्रथस्यावस्थायजीमूतस्येव भवति प्रतीकमिति कवचं प्रयच्छेत् उत्तरया धनुरुत्तरां वाचयेत्स्वयं चतुर्थीं जपेत्पंचम्येषुधिं प्रयच्छेदभिप्रवर्तमाने षष्ठीं सप्तम्याश्वानष्टमीमिषुनवेक्षमाणं वाचयत्यहिरिव भोगैः पर्यॆति बाहुमिति तलं
+> नह्यमानं । गृ. ३-१२ । इति । तथा चावसृष्टा परा पतेतीषून्विसर्जयेद्यत्र
+> बाणाः संपतंति युध्यमानेषु जपेत्संशिष्टाद्वा । गृ. ३-१२ । इति ॥ अध्यायोपाकरणोत्सर्जनयोर्मंडलांत्यहोमे यो नः स्व इत्येषा । आ. गृ. ३-५ ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning जीमूतस्य (*jīmūtasya*) has nineteen ṛks and is the fourteenth sūkta. Pāyu, of the Bharadvāja line, is the seer. In the Anukramaṇikā it is stated: जीमूतस्यैकोना पायुर्भारद्वाजः संग्रामांगान्यक्कोभितुष्टाव वर्म धनुर्ज्यामार्ति इषुधिं जगत्यर्थे सारथिमर्धे रश्मीनश्वान् रथं रथगोपान् जगत्यां लिंगोक्तदेवता द्वाभ्यामिषूः प्रतोदं हस्तघ्नं द्वाभ्यामिषूः पराः पंक्त्यादयो लिंगोक्तदेवताः संग्रामाशिषोऽ०- त्यानुष्टुबृजीत आलाक्तेति च द्वे द्वे इति । (*jīmūtasyaikonā pāyurbhāradvājaḥ saṃgrāmāṃgānyakkobhituṣṭāva varma dhanurjyāmārti iṣudhiṃ jagatyarthe sārathimardhe raśmīnaśvān rathaṃ rathagopān jagatyāṃ liṃgoktadevatā dvābhyāmiṣūḥ pratodaṃ hastaghnaṃ dvābhyāmiṣūḥ parāḥ paṃktyādayo liṃgoktadevatāḥ saṃgrāmāśiṣo '0- tyānuṣṭubṛjīta ālākteti ca dve dve iti |*) **GLOSS**. The ṛks beginning रथे तिष्ठन् (*rathe tiṣṭhan*) and ब्राह्मणासः (*brāhmaṇāsaḥ*), the sixth and the tenth, are in Jagatī; the nineteenth, यो नः स्वः (*yo naḥ svaḥ*), is in Anuṣṭubh; the five ṛks ऋजीते (*ṛjīte*), आ जंघंति (*ā jaṃghaṃti*), आलाक्ता (*ālāktā*), अवसृष्टा (*avasṛṣṭā*) and यो नः स्वः (*yo naḥ svaḥ*) are in Anuṣṭubh; the ṛk यत्र बाणाः (*yatra bāṇāḥ*) is in Paṅkti; the rest are in Triṣṭubh. By the first ṛk the coat of mail is praised, by the second the bow, by the third the bowstring, by the fourth the arm-guard, by the fifth the quiver; so for these five the deities are those war-implements. By the first half of the sixth the charioteer is praised, and by the second half the reins; so the half-ṛks have those as their deities. By the seventh the horses, by the eighth the chariot, by the ninth the chariot-guards. By the tenth the deities are the Brāhmaṇas, the Fathers, Soma, Heaven and Earth, and Pūṣan, as indicated by the text. The eleventh and twelfth praise the arrow, so their deity is the arrow; the thirteenth has the goad, the fourteenth the hand-guard; the fifteenth and sixteenth have the arrow; the seventeenth has the battlefield, Brahmaṇaspati and Aditi, as indicated by the text; the eighteenth has the coat of mail, Soma and Varuṇa; the last has the gods and Brahman. With this sūkta the king is to be equipped for battle. So Āśvalāyana (Gṛ. 3-12) says: संग्रामे समुपोळ्ळे राजानं संनाहयेदा त्वाहार्षमंतरेधीति पश्चाद्रथस्यावस्थायजीमूतस्येव भवति प्रतीकमिति कवचं प्रयच्छेत् उत्तरया धनुरुत्तरां वाचयेत्स्वयं चतुर्थीं जपेत्पंचम्येषुधिं प्रयच्छेदभिप्रवर्तमाने षष्ठीं सप्तम्याश्वानष्टमीमिषुनवेक्षमाणं वाचयत्यहिरिव भोगैः पर्यॆति बाहुमिति तलं नह्यमानं । (*saṃgrāme samupoḷḷe rājānaṃ saṃnāhayedā tvāhārṣamaṃtaredhīti paścādrathasyāvasthāyajīmūtasyeva bhavati pratīkamiti kavacaṃ prayacchet uttarayā dhanuruttarāṃ vācayetsvayaṃ caturthīṃ japetpaṃcamyeṣudhiṃ prayacchedabhipravartamāne ṣaṣṭhīṃ saptamyāśvānaṣṭamīmiṣunavekṣamāṇaṃ vācayatyahiriva bhogaiḥ paryèti bāhumiti talaṃ nahyamānaṃ |*); and: ावसृष्टा परा पतेतीषून्विसर्जयेद्यत्र बाणाः संपतंति युध्यमानेषु जपेत्संशिष्टाद्वा । (*āvasṛṣṭā parā patetīṣūnvisarjayedyatra bāṇāḥ saṃpataṃti yudhyamāneṣu japetsaṃśiṣṭādvā |*) (Gṛ. 3-12). At the Adhyāyopākaraṇa and Utsarjana, in the Homa at the end of the maṇḍala, the ṛk यो नः स्व इत्येषा (*yo naḥ sva ityeṣā*) (Ā. Gṛ. 3-5).
+
+##### Anuvāda
+
+This sūkta beginning जीमूतस्य (*jīmūtasya*) is the fourteenth sūkta in the sixth anuvāka. There are nineteen ṛks in it. Pāyu, born in the Bharadvāja line, is the seer of this sūkta; in the Anukramaṇikā it is said: जीमूतस्यैवैकोना पायुर्भारद्वाजः संग्रामांगा- न्यक्कोऽभितुष्टाव वर्म धनुर्जामार्ति इषुधिं जगत्यर्धे सारथिमर्धे रश्मिनश्वान् रथं रथगोपान् जगत्यां लिंगोक्तदेवता द्वाभ्यामिषूः प्रतोदं हस्तघ्नं द्वाभ्यामिषूः पराः पंक्यादयो लिंगोक्तदेवताः संग्रामाशिषोऽन्नानुष्टुबृजीत आलाक्तेति च द्वे द्वे ऎंदु (*jīmūtasyaivaikonā pāyurbhāradvājaḥ saṃgrāmāṃgā- nyakko 'bhituṣṭāva varma dhanurjāmārti iṣudhiṃ jagatyardhe sārathimardhe raśminaśvān rathaṃ rathagopān jagatyāṃ liṃgoktadevatā dvābhyāmiṣūḥ pratodaṃ hastaghnaṃ dvābhyāmiṣūḥ parāḥ paṃkyādayo liṃgoktadevatāḥ saṃgrāmāśiṣo 'nnānuṣṭubṛjīta ālākteti ca dve dve èṃdu*) **GLOSS**
+
+### Printed p. 556
+
+ This means: the ṛks 6 and 10, रथे तिष्ठन् (*rathe tiṣṭhan*) and ब्राह्मणासः (*brāhmaṇāsaḥ*), are in the Jagatī metre. The nineteenth ṛk, यो नः स्वः (*yo naḥ svaḥ*), is in the Anuṣṭup metre; these five ṛks, ऋजीते (*ṛjīte*), आ जंघंति (*ā jaṃghaṃti*), आलाक्ता (*ālāktā*), अवसृष्टा (*avasṛṣṭā*), यो नः स्वः (*yo naḥ svaḥ*), that is, the ṛks 12, 13, 15, 16, 19, are in the Anuṣṭup metre; the seventeenth ṛk, यत्र बाणाः (*yatra bāṇāḥ*), is in the Paṅkti metre; the remaining ṛks are in the Triṣṭup metre. In the first ṛk the coat of mail (varma), in the second the bow, in the third the bowstring (jyā), in the fourth the arm-guard (ārtni), in the fifth the quiver (iṣudhi) are praised as implements of war; therefore those themselves are the deities of those ṛks. In the first half of the sixth ṛk the charioteer and in the second half the reins (raśmayaḥ) are praised, so those themselves are the deities of that ṛk. In the seventh ṛk the horses, in the eighth the chariot, in the ninth the chariot-guards (rathagopāḥ) are praised, so those themselves are the deities of those ṛks. For the tenth ṛk, ब्राह्मणासः (*brāhmaṇāsaḥ*), the Brāhmaṇa, the Fathers, Soma, Heaven and Earth, and Pūṣan, who are lauded in that ṛk, are the deities. In the eleventh and twelfth ṛks the arrow is praised, so the arrow is the deity of those two ṛks. For the thirteenth ṛk the goad (pratodaḥ), for the fourteenth the hand-guard (hastaghnaḥ), are the deities. For the fifteenth and sixteenth ṛks the arrow is the deity. For the seventeenth ṛk the battlefield, Brahmaṇaspati and Aditi are the deity; for the eighteenth ṛk the coat of mail, Soma and Varuṇa are the deity; for the last ṛk the gods and Brahman are the deity. When battle is at hand, the king is to be consecrated with the ṛks of this sūkta, so as to be fit for equipping himself (to be ready) for battle. On this subject in the Āśvalāyana-gṛhya-sūtra (Adhyāya 3-12) it is said thus: संग्रामे समुपोळ्मे राजानं संनाहयेदा त्वाहार्षमंतरेधीति पश्चाद्रथस्यावस्थाय जीमूतस्येव भवति प्रतीकमिति कवचं प्रयच्छेत् उत्तरया धनुरुत्तरां वाचयेत्सयं चतुर्थीं जपेत्पंचमेषुधिं प्रयच्छेदभिप्रवर्तमाने षष्ठीं सप्तम्याश्वानष्टमीमिषुनवेषमाणं वाचयत्य हिरिव भोगैः पर्योति बाहुमिति तलं नह्यमानं (*saṃgrāme samupoḷme rājānaṃ saṃnāhayedā tvāhārṣamaṃtaredhīti paścādrathasyāvasthāya jīmūtasyeva bhavati pratīkamiti kavacaṃ prayacchet uttarayā dhanuruttarāṃ vācayetsayaṃ caturthīṃ japetpaṃcameṣudhiṃ prayacchedabhipravartamāne ṣaṣṭhīṃ saptamyāśvānaṣṭamīmiṣunaveṣamāṇaṃ vācayatya hiriva bhogaiḥ paryoti bāhumiti talaṃ nahyamānaṃ*) and also अवसृष्टा परा पतेतीषून्निसर्जयेद्यत्र बाणाः संपतंतीति युध्यमानेषु जपेत्संशिष्टाद्वा (*avasṛṣṭā parā patetīṣūnnisarjayedyatra bāṇāḥ saṃpataṃtīti yudhyamāneṣu japetsaṃśiṣṭādvā*) (Ā. Gṛ. 3-12). That is: when battle is at hand, the king's priest, in order to make the king consecrated for the preparation for battle, must equip him with the ṛks of this sūkta. First, by reciting the sūkta आ त्वाहार्षमंतरेधि (*ā tvāhārṣamaṃtaredhi*) (Ṛ. Saṃ. 10-173), the king is made to sit in the chariot; then, with the first ṛk, जीमूतस्येव भवति प्रतीकं (*jīmūtasyeva bhavati pratīkaṃ*), that is, while reciting this ṛk, the coat of mail (armour) is to be given. Next, with the second ṛk, धन्वना गा (*dhanvanā gā*)
+
+### Printed p. 557
+
+ the bow also is to be given. Then the third ṛk, वक्ष्यंतीव (*vakṣyaṃtīva*), is to be made to be spoken by the king, and the fourth ṛk, तानु ते आचरंती (*tānu te ācaraṃtī*), is to be recited by oneself. With the fifth ṛk, बह्नानां पिता (*bahnānāṃ pitā*), the iṣudhi (quiver) is to be given, and when he is ready to set out, the sixth ṛk, रथे तिष्ठन् (*rathe tiṣṭhan*), is to be recited. With the seventh ṛk, तीव्रान् घोषान् (*tīvrān ghoṣān*), he is to look at the horses, and with the eighth ṛk, रथ वाहनं (*ratha vāhanaṃ*), at the iṣus, that is, the arrows. And these mantras are to be made to be spoken by the king. With the fourteenth ṛk, अहिरिव भोगैः पर्योति (*ahiriva bhogaiḥ paryoti*), he is to pray to the gods, and having recited the sixteenth ṛk, अवसृष्टा (*avasṛṣṭā*), he is to discharge the arrows at the enemies. The seventeenth ṛk, यत्र बाणाः संपतंति (*yatra bāṇāḥ saṃpataṃti*), is to be recited while fighting; this is the meaning of the sūtra. And the last ṛk of this sūkta, यो नः स्वः (*yo naḥ svaḥ*), is to be recited as the closing ṛk of the maṇḍala in the principal homas of the Adhyāyopākaraṇa and Utsarjana rites and the homa performed; this is explained by the sūtra of the Āśvalāyana-gṛhya-sūtra beginning यो नः स्वः (*yo naḥ svaḥ*) (Ā. Gṛ. 3-5-7).
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 75
+- Aṣṭaka 5; Adhyāya 1; Varga 19, 20, 21, 22
+- Number of ṛks in the sūkta: 19
+- Ṛṣi: पायुर्भारद्वाजः (*pāyurbhāradvājaḥ*) **NOTE**
+- Deity: 1. वर्म (*varma*); 2. धनुः (*dhanuḥ*); 3. ज्या (*jyā*); 4. आर्त्नी (*ārtnī*); 5. इषुधिः (*iṣudhiḥ*); 6, first half: सारथिः (*sārathiḥ*); 6, second half: रत्नयः (*ratnayaḥ*) **NOTE**; 7. आश्वाः (*āśvāḥ*); 8. रथः (*rathaḥ*); 9. रथगोपाः (*rathagopāḥ*); 10. लिंगोक्तदेवताः (*liṃgoktadevatāḥ*); 11, 12, 15, 16. इषवः (*iṣavaḥ*); 13. प्रतोदः (*pratodaḥ*); 14. हस्तघ्नः (*hastaghnaḥ*); 17-19. लिंगोक्तदेवताः संग्रामाशिषः (*liṃgoktadevatāḥ saṃgrāmāśiṣaḥ*) (17. युद्धभूमिर्ब्रह्मणस्पतिरदिश्च (*yuddhabhūmirbrahmaṇaspatiradiśca*); 18. कवचसोमवरुणाः (*kavacasomavaruṇāḥ*); 19. देवा ब्रह्मच (*devā brahmaca*))
+- Metre: 1-5, 7-9, 11, 14, 18. त्रिष्टुप् (*triṣṭup*); 6, 10. जगती (*jagatī*); 12, 13, 15, 16, 19. आनुष्टुप् (*ānuṣṭup*); 17. पंक्तिः (*paṃktiḥ*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जी॒मूत॑स्येव भवति॒ प्रती॑कं॒ यद्व॒र्मा याति॑ स॒मदा॑मु॒पस्थे॑।  
+> अना॑विद्दया त॒न्वा॑ जय॒ त्वं स त्वा॒ वर्म॑णो महि॒मा  ॑
+> पिपर्तु ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 551. Sūkta 73 (Bṛhaspati) Ṛk 1-3, Sūkta 74 (Soma-Rudra) Ṛk 1 and start of Ṛk 2
+**Progress note:** Done through printed p. 557. Ṛk 2 end, Ṛk 3-4 of Sūkta 74; Sūkta 75 introduction, Anuvāda, Ṛk 1 saṃhitā
