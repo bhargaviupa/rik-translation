@@ -15665,6 +15665,293 @@ Durgācārya, commenting on this, has explained the meaning: आगतदीप�
 
 We ask the god Pūṣan, the supreme leader, who has an attractive tuft of hair, who is lord of great wealth and a friend to us, for wealth.
 
+### Printed p. 357
+
+##### English translation
+We solicit riches of our friend, (Pushan), the chief of charioteers, the wearer of a braid (of hair), the lord of infinite wealth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒यो धारा॑स्याघृणे॒ वसो॑ रा॒शिर॑जाश्व ।  
+> धीव॑तोधीवतः॒ सखा॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रायः । धारा । असि । आघृणे । वसोः । राशिः । अजअश्व ।  
+> धीवतःऽधीवतः । सखा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आफृण आगतदीप्ते पूषन् रायो धनस्य धारासि । प्रवाहो भवसि ।
+> स्तोतृभ्यो बहु धनं नैरंतर्येण प्रयच्छसीत्यर्थः । अजाश्व । अजाश्चागा एवाश्वा
+> अश्वकार्यापन्ना यस्य तादृश पूषन् वसोर्वसुनो धनस्य राशिः संघश्च भवसि ।
+> धनसंघश्च त्वय्येव निवसतीत्यर्थः । धीवतो धीवतः सर्वस्य स्तोत्रवतः पुरुषस्य
+> सहा मित्रभूतश्च भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, shining one, you are the stream of wealth: that is, you give much wealth to your praisers without interruption. Ajāśva means one whose horses, doing the work of horses, are goats. O Pūṣan, such as you are, you are also the heap and the assembly of wealth; the whole mass of wealth dwells in you alone. You are the companion and friend of every man who offers praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आघृणे (*āghṛṇe*)—O Pūṣan, endowed with radiance
+- रायः (*rāyaḥ*)—for all wealth
+- धारा असि (*dhārā asi*)—you yourself are the stream
+- अजाश्व (*ajāśva*)—O Pūṣan, whose horses have the form of goats
+- वसोः (*vasoḥ*)—of wealth
+- राशिः (*rāśiḥ*)—you are the heap
+- धीवतोधीवतः (*dhīvatodhīvataḥ*)—to every kind of praiser
+- सखा (*sakhā*)—you are the friend
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Pūṣan, for all wealth you yourself are the stream. O Pūṣan, whose horses have the form of goats, for all wealth you yourself are the heap. To every kind of praiser you yourself are the friend.
+
+##### English translation
+Illustrious Pushan, you are a torrent of riches: you, who have a goat for your steed, are a heap of wealth ; the friend of every worshipper.
+
+### Printed p. 358
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒षणं॒ न्व१॒॑ १ जाश्व॒मुप॑ स्तोषाम वा॒जिनं॑ ।  
+> स्वसु॒र्यो जा॒र उ॒च्यते॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषणं । नु । अजअश्वं । उप । स्तोषाम । वाजिनं ।  
+> स्वसुः । यः । जारः । उच्यते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अजाश्वं भागवाहनं वाजिनमन्नवंतं बलवंतं वा पूषणं पोषकं देवं
+> नु आद्योप स्तोषाम । उपस्तवाम । यः पूषा स्वसुरुषसो जार उपपतिरित्युच्यते तं पूषणमित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+We now praise Pūṣan, the nourisher, the god who has the goat as his vehicle and who is possessed of food or of strength. The Pūṣan who is called the paramour of his sister Uṣas, that Pūṣan is the one to be understood as praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Pūṣan
+- स्वसुः (*svasuḥ*)—of his sister Uṣas
+- जारः (*jāraḥ*)—paramour
+- उच्यते (*ucyate*)—is renowned as
+- अजाश्वं (*ajāśvaṃ*)—who has a vehicle in the form of goats
+- वाजिनं (*vājinaṃ*)—who is possessed of strength
+- पूषणं (*pūṣaṇaṃ*)—the nourisher, the god Pūṣan
+- नु (*nu*)—now
+- उप स्तोषाम (*upa stoṣāma*)—let us praise and worship
+
+##### भावार्थ (Bhāvārtha)
+
+The god Pūṣan who is renowned as the paramour of his sister Uṣas, who has a vehicle in the form of goats, who is possessed of strength and is the nourisher, that god Pūṣan let us now praise and worship.
+
+##### English translation
+We glorify Pushan, the rider of the goat, the giver of food, him who is called the gallant of his sister.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा॒तुर्दि॑धि॒षुम॑ब्रुवं॒ स्वसु॑र्जा॒रः शृ॑णोतु नः ।  
+> भ्रातेंद्र॑स्य॒ सखा॒ मम॑ ॥ ५ ॥
+
+### Printed p. 359
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मातुः । दिधिषुं । अब्रवं । स्वसुः । जारः । शृणोतु । नः ।  
+> भ्राता । इंद्रस्य । सखा । मम ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मातुर्निर्मात्रा रात्रेर्दिधिषुं पतिं पूषणमब्रुवं । सौमि । स्वसुरुषसो
+> जारश्च पूषा नोऽस्माकं स्तोत्राणि शृणोतु । इंद्रस्य भ्राता सहजातः पूषा मम
+> स्तोतुः सखा मित्रभूतोऽस्तु ॥
+
+##### Gist of the bhāṣya
+
+I praise Pūṣan, the husband of the mother, that is, of Night, the creator. May Pūṣan, who is also the paramour of his sister Uṣas, hear our praises. May Pūṣan, the brother of Indra, born together with him, be a friend to me, the praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातुः (*mātuḥ*)—to Night, the creator of the world
+- दिधिषुं (*didhiṣuṃ*)—Pūṣan, who is her husband
+- अब्रवं (*abravaṃ*)—I praise
+- स्वसुः (*svasuḥ*)—to his sister Uṣas
+- जारः (*jāraḥ*)—Pūṣan, who is her paramour
+- नः (*naḥ*)—our praises
+- शृणोतु (*śṛṇotu*)—let him hear
+- इंद्रस्य (*iṃdrasya*)—to Indra
+- भ्राता (*bhrātā*)—Pūṣan, the brother
+- मम (*mama*)—to me, the praiser
+- सखा (*sakhā*)—let him be a friend
+
+##### भावार्थ (Bhāvārtha)
+
+I praise Pūṣan, the husband of Night, the creator of the world. May Pūṣan, the paramour of his sister Uṣas, hear our praises. May Pūṣan, the brother of Indra, be a friend to me, the praiser.
+
+##### English translation
+I glorify Pushan, the husband of his mother : may the gallant of his sister hear us ; may the brother of Indra be our friend.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आजासः॑ पू॒षणं॒ रथे॑ निशृं॒भास्ते ज॑न॒त्रियं॑ ।  
+> दे॒वं व॑हंतु॒ बिभ्र॑तः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अजासः । पूषणं । रथे । निशृंभाः । ते । जन्मश्रीयं ।  
+> देवं । वहंतु । बिभ्रतः ॥ ६ ॥
+
+### Printed p. 360
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अजासोऽजाश्चागा निशृंभा निश्रथ्य संबध्य हर्तारस्ते पूष्णो वाहनतया
+> प्रसिद्धाश्चागा जनश्रियं । जनं स्तोतृसंघं श्रयति गच्छतीति जनश्रीः । तं पूषणं
+> देवं रथे बिभ्रतो धारयंत आ वहंतु । आनयंतु ॥
+
+##### Gist of the bhāṣya
+
+The goats, harnessed together, those goats well known as the vehicles of Pūṣan and bearers of him, carrying in the chariot the god Pūṣan, who goes to the host of worshippers, let them bring him hither.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजासः (*ajāsaḥ*)—the goats
+- निशृंभाः (*niśṛṃbhāḥ*)—which draw the chariot together
+- ते (*te*)—those vehicles of Pūṣan
+- जनश्रियं (*janaśriyaṃ*)—who comes near to the praiser
+- पूषणं देवं (*pūṣaṇaṃ devaṃ*)—the god Pūṣan
+- रथे (*rathe*)—in the chariot
+- बिभ्रतः (*bibhrataḥ*)—bearing
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+May the goats, which draw the chariot together and are the vehicles of Pūṣan, seat in the chariot the god Pūṣan, who comes near to the praiser, and bear him and bring him hither.
+
+##### English translation
+May the harnessed goats, drawing the deity in his car bring hither Pushan, the benefactor of man.
+
+## Sūkta 56 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य एनमिति षडृचं सप्तमं सूक्तं भरद्वाजस्यार्षं पौष्णं । अंत्यानुष्टुबादौ पंच गायत्र्यः । तथा चानुक्रांतं । य एनमंत्यानुष्टुबिति ॥ गतो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning य एनं (*ya enaṃ*) has six Ṛks and is the seventh sūkta. Its seer is Bharadvāja, its deity is Pūṣan. The last verse is in the Anuṣṭubh metre, and the first five are Gāyatrī. So the Anukramaṇī says: य एनमंत्यानुष्टुबिति (*ya enamaṃtyānuṣṭubiti*). The application of the sūkta has already been stated.
+
+##### Anuvāda
+
+The sūkta beginning "Ya enam" is the seventh sūkta in the fifth anuvāka. It has six Ṛks. The seer of this sūkta is Bharadvāja; the deity is Pūṣan; the last Ṛk of this sūkta is in the Anuṣṭubh metre. The first five Ṛks of the sūkta are in the Gāyatrī metre. The Anukramaṇī says: "Ya enamantyānuṣṭup". The application of the sūkta has been stated before.
+
+### Printed p. 361
+
+##### Particulars
+
+- Sūkta 56
+- Maṇḍala 6, Anuvāka 5, Sūkta 56
+- Aṣṭaka 4, Adhyāya 8, Varga 22
+- Number of Ṛks in the sūkta: 6
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Pūṣan
+- Chandas: 1–5 Gāyatrī; 6 Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ए॑नमा॒दिदे॑शति करं॒भादिति॑ पू॒षणं॑ ।  
+> न तेन॑ दे॒व आ॒दिशे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । एनं । आदिदेशति । करंभत् । इति । पूषणं ।  
+> न । तेन । देवः । आदिशे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः स्तोतैनं पूषणं पोषकं करंभात्करंभाणां धृतमिश्राणां यवसक्कूनामत्तेत्यादिदेशति अभिष्टौति तेन पुरुषेणान्यो देवो नादिशे । आदेष्टव्यः
+> स्तोतव्यो न भवति । पूष्ण एव सर्वस्याभिमतस्य धनस्य लाभात् देवतांतरं न
+> स्तौतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The praiser who declares this Pūṣan, the nourisher, to be the eater of karambha, that is, of barley-meal mixed with ghee, by that man no other god is indicated, no other god is to be directed to or praised. Because all desired wealth is obtained from Pūṣan alone, he does not praise another deity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the praiser who
+- एनं पूषणं (*enaṃ pūṣaṇaṃ*)—with reference to this god Pūṣan
+- करंभात् (*karaṃbhāt*)—the eater of barley-meal mixed with ghee
+- इति (*iti*)—thus
+- आदिदेशति (*ādideśati*)—praises and proclaims
+- तेन (*tena*)—by that same praiser
+- देवः (*devaḥ*)—any other god than Pūṣan
+- न आदिशे (*na ādiśe*)—is certainly not indicated
+
+##### भावार्थ (Bhāvārtha)
+
+The praiser who, with reference to this god Pūṣan, praises and proclaims "This god is the eater of karambha", by that praiser no other god than Pūṣan is indicated.
+
+### Printed p. 362
+
+##### English translation
+No (other) deity is indicated by him who declares the offering of mixed meal and butter to be intended for Pushan.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त घा॒ स र॒थीत॑मः॒ सख्या॒ सत्प॑तियु॒र्जा ।  
+> इंद्रो॑ वृ॒त्राणि॑ जिह्नु ते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । घ । सः । रथितमः । सख्या । सत्पतिः । युजा ।  
+> इंद्रः । वृत्राणि । जिघ्नते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत घापि च स यः शत्रूणां हंतृत्वेन प्रसिद्धस्तादृशो रथीतमोऽतिशयेन
+> रथी महारथः सत्पतिः सतां पालयितैवंगुण इंद्रः सख्या मित्रभूतेन पूष्णा युजा
+> सहायभूतेन युक्तः सन् वृत्राणि शत्रून् जिघ्नते । हंति । इंद्रस्याप्ययमेव
+> साहाय्यकारीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+And that Indra, who is renowned as the slayer of enemies, the greatest of charioteers, the great charioteer, the protector of the good, being joined with Pūṣan as his friend and ally, kills the enemies. The meaning is that Pūṣan is the helper even of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत घ (*uta gha*)—and
+- सः (*saḥ*)—he who is renowned as the destroyer of enemies
+- रथीतमः (*rathītamaḥ*)—the one most excellent among charioteers
+- सत्पतिः (*satpatiḥ*)—the protector of good men
+- इंद्रः (*iṃdraḥ*)—Indra
+- सख्या (*sakhyā*)—his friend
+- युजा (*yujā*)—who helps him in battle and the like, Pūṣan
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- जिह्वते (*jihvate*)—kills
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is renowned as the destroyer of enemies, the great charioteer, the protector of good men, joined with the god Pūṣan, who is his friend and who stays by him and helps him in battle and the like, kills his enemies.
+
+##### English translation
+He, the chief of charioteers, the protector of the virtuous, Indra, destroys his foes, with his friend Pushan for his ally.
+
 ---
 
-**Progress note:** Done through printed p. 356. Mandala 6 sukta 54 rks 7-10; sukta 55 rks 1-2, Pushan
+**Progress note:** Done through printed p. 362. Mandala 6 Sukta 55 Rk 3-6, Sukta 56 Rk 1-2 (Pushan)
