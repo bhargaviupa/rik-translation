@@ -23348,6 +23348,232 @@ Praise him who is Indra, the invoked of many, endowed with overpowering vigour, 
 > स । युध्मः । सत्वा । खजकृत् । समत्वा । तुविम्रक्षः । नदनुमान् । ऋजीषी ।  
 > बृहत्रेणुः । च्यवनः । मानुषीणां । एकः । कृष्णीनां । अभवत् । सहवा ॥ २ ॥
 
+### Printed p. 676
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहद्रेणुर्बृहतो महतो रेणोः पांसोरुत्थापकः । संग्रामेष्टिति
+> यावत् । एको मुख्यः सहावा बलवान् स इंद्रो मानुषीणां मनोः संबंधिनीनां कृष्णीनां प्रजानां यजमानानां च्यवनोऽभिगंताभवत् । आसीत् । कीदृशः !
+> युध्मो योद्धा सत्वा दाता ॥ सनोतेरिदं रूपं॥ खजकृत् खजानां संग्रामाणां
+> कर्ता ॥ खज इति संग्रामनामैतत् ॥ समद्वा । यजमानैः सह मदः समत् तद्वान् ।
+> तुविम्रक्षः । मृक्षतिः संस्थेहनकर्मा ॥ तुवीनां बहूनां वर्षणेन संस्थॆहनकर्ता
+> नदनुमान् शब्दवानृजीषी । ऋजेषशब्देन सवनद्वयाभिषुतः पुनस्कृतीयसवनेऽप्यभिषुतः सोम उच्यते । तद्वान् ॥
+
+##### Gist of the bhāṣya
+
+Bṛhadreṇu: the raiser of great dust, that is, in battles. Ekaḥ: the chief. Sahāvā: strong. That Indra became the one who comes upon the Mānuṣī Kṛṣṭis, the peoples belonging to Manu, that is, the yajamānas. What kind of Indra? Yudhma: the warrior. Satvā: the giver. Khajakṛt: the maker of khajas, battles; "khaja" is a name for battle. Samadvā: he who has joy together with the yajamānas. Tuvimrakṣaḥ: one of whom it is said that, by the showering of the many (tuvi), he accomplishes the destruction of foes.**NOTE** Nadanumān: the noisy one. Ṛjīṣī: by the word "ṛjīṣa" is meant the Soma pressed at the two pressings, and again pressed at the third pressing; he who has it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युध्मः (*yudhmaḥ*)—the warrior
+- सत्वा (*satvā*)—the generous giver
+- खजकृत् (*khajakṛt*)—the maker of battles
+- समद्वा (*samadvā*)—he who rejoices with the yajamānas
+- तुविम्रक्षः (*tuvimrakṣaḥ*)—the helper of many
+- नदनुमान् (*nadanumān*)—the noisy one
+- ऋजीषीः (*ṛjīṣīḥ*)—who has Soma whose juice is spent
+- सः (*saḥ*)—that Indra
+- बृहद्रेणुः (*bṛhadreṇuḥ*)—who raises great dust in battles
+- एकः (*ekaḥ*)—the chief
+- सहावा (*sahāvā*)—possessed of power
+- मानुषीणां (*mānuṣīṇāṃ*)—belonging to Manu
+- कृष्णीनां (*kṛṣṇīnāṃ*)—to the peoples
+- च्यवनः (*cyavanaḥ*)—as protector
+- अभवत् (*abhavat*)—has become
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is a warrior, a generous giver, the maker of battles, who rejoices with the yajamānas, the helper of many, the noisy one, the possessor of Soma whose juice is spent, raises great dust in battles, is the chief and is possessed of power, and has become the protector of the peoples belonging to Manu.
+
+##### English translation
+He is ever the combatant, the donor, the engaged in battle, the sympathizer (with the sacrificer), the benefactor of many, the loud-sounding, the partaker of the stale libation, the stirrer up of dust (in strife), the chief protector of men, the descendants of Manu, the endowed with strength.
+
+### Printed p. 677
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह॒ नु त्यद॑दमायो॒ दस्यू॒रेकः॑ कृ॒ष्टीर॑वनो॒रार्या॑य ।  
+> अस्ति॑ स्वि॒न्नु वी॒र्यं१॒॑१ तत्त॑ इंद्र॒ न स्वि॑दस्ति॒ तदृ॑तु॒था वि वो॑चः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । ह । नु । त्यत् । अदमयः । दस्यून् । एकः । कृष्णीः । अवनोः । आर्याय ।  
+> अस्ति । स्वित् । नु । वीर्यं । तत् । ते । इंद्र । न । स्वित् । अस्ति । तत् । ऋतुथा ।  
+> वि । वोचः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्यत्स्य स त्वं । त्यदिति तच्छब्द पर्यायः । अत्र लिंगव्यत्ययः । दसून्
+> कर्महीनान् जनान् नु क्षिप्रमदमयः । दांतानकरोः । हशब्दः पूरणार्थः ।
+> अपि चैको मुख्यस्त्वं कृष्णीः पुत्रदासादीनार्याय कर्मकृते जनायावनोः ।
+> अददाः । एवं स्तुवन्नपृषिरिंद्रं यदा नाद्राक्षीतदा तस्य वीर्यसद्भावे विचिकित्समानः परार्धर्चमाह । हे इंद्र ते तव यत्पूर्वमुक्तं तद्वीर्यं सामर्थ्यं
+> स्विन्नस्ति । किंस्विद्भवति । स्विन्त्विति विचिकित्सायां । यद्वा नास्ति स्वित् । तद्बलमृतुथा काले
+> काले वि वोचः । विशेषेण ब्रूहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, such as you are: "tyat" is a synonym of "tat", "that", and there is a change of gender here. You quickly tamed the Dasyus, the people devoid of rites; that is, you made them subdued. The word "ha" is a filler. And you, the chief, gave to the Ārya, the man who performs rites, the Kṛṣṭis, that is, sons, servants and the like. The seer, praising Indra in this way, did not see him; doubting then the existence of his valour, he speaks the second half of the Ṛk. O Indra, that valour of yours which was spoken of before: does it exist? The word "svit" here is used in the sense of doubt. Or does it not exist? In either case, declare that strength specially, in season after season.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्यत् (*tyat*)—he who is famous by his deeds
+- त्वं हि नु (*tvaṃ hi nu*)—are you not he?
+- दस्यून् (*dasyūn*)—the Dasyu people, who are without rites
+- आदमयः (*ādamayaḥ*)—you have subdued
+- एकः (*ekaḥ*)—you who are chief of all
+- आर्याय (*āryāya*)—to the Ārya engaged in rites
+- कृष्टीः (*kṛṣṭīḥ*)—peoples such as sons
+- अवनोः (*avanoḥ*)—you have given
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- तत् वीर्यं (*tat vīryaṃ*)—that power described before
+- स्विन्नु अस्ति (*svinnu asti*)—does it really exist?
+- नास्ति स्वित् (*nāsti svit*)—or does it not?
+- तत् (*tat*)—that strength, if it exists
+- ऋतुथा (*ṛtuthā*)—according to each season
+- वि वोचः (*vi vocaḥ*)—make manifest
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your fame has spread everywhere through your deeds. You have subdued the Dasyu people, who are without rites. You, the chief of all, have given sons and other peoples to the Ārya who is engaged in rites. O Indra, does that power of yours, described all along before, really exist in you, or does it not? If it does, make that power of yours manifest according to each season.
+
+### Printed p. 678
+
+##### English translation
+You are he who has quickly humbled the Dasyus ; you are the chief one who has given posterity to the Arya; but Indra, is not verily your power such ? if it be not, then in due season confess.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सदिद्दि ते॑ तुविजा॒तस्य॒ मन्ये॒ सहः॑ सहिष्ठ तुर॒तस्तु॒रस्य॑ ।  
+> उ॒ग्रमु॒ग्रस्य॑ त॒वस॒स्तवी॒योऽर॑ध्रस्य रध्र॒तुरो॑ बभूव ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत् । इत् । हि । ते । तुविजातस्य । मन्ये । सहः । सहिष्ठ । तुरतः । तुरस्य ।  
+> उग्रं । उग्रस्य । तवसः । तवीयः । आरध्रस्य । रध्रतुरः । बभूव ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्र इंद्रस्य बलसदसद्भावं संदिह्यानया बलमस्त्येवेत्यवधारयन्नाह । हि यस्मादर्थे । हि यस्मात्कारणात् हे सहिष्ठ बलवत्तमेंद्र तुविजातस्य
+> बहुयज्ञेषु प्रादुर्भूतस्य तुरतोऽस्मान् हिंसतस्तुरस्य शत्रोणां हिंसितुर्बलवतो वा ते तव सहो बलं सदिद्विद्यमानमेवाहं मन्ये । उग्रस्योजस्विनस्तवसः
+> प्रवृद्धस्यारध्रस्य शत्रुभिर्वशीकर्तुमशक्यस्य ॥ रधीर्वशीकरणार्थस्य रूपं ॥ रध्रतुरो
+> वशीकरणीयानां सपत्नानां हिंसकस्य तव बलं बभूव । भवत्येव । कीदृशं ।
+> उग्रमुद्गूर्णं तवीयः प्रवृद्धतरं । यतस्त्वं वृत्रादीन् शत्रून् हंस्यतस्ते बलं
+> विद्यत एवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the previous mantra Sāyaṇa's seer doubted whether Indra's strength exists; with this one he states with certainty that the strength does indeed exist. The word "hi" is used in the sense of "because". Because, O most mighty Indra, born, that is, manifest at many sacrifices, hostile to those who harm us, or a destroyer of enemies, or strong, I hold that your strength exists. Of you who are fierce, vigorous, grown great, and who cannot be brought under control by enemies, and who are the destroyer of the rivals who are to be subdued, the strength is, and is indeed: of what kind? Fierce, that is, uplifted, and more grown. Since you slay Vṛtra and other enemies, the meaning is that your strength exists indeed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहिष्ठ (*sahiṣṭha*)—O Indra, most powerful
+- तुविजातस्य (*tuvijātasya*)—who appear at many sacrifices
+- तुरतः (*turataḥ*)—to the enemy who harms us
+- तुरस्य (*turasya*)—and are the one who inflicts harm
+- ते (*te*)—your
+- सहः (*sahaḥ*)—strength
+- सदित् (*sadit*)—I believe is real
+- मन्ये (*manye*)—I believe
+- उग्रस्य (*ugrasya*)—of you who are terrible
+
+### Printed p. 679
+
+- तवसः (*tavasaḥ*)—powerful
+- अरध्रस्य (*aradhrasya*)—and unresisted, your power
+- उग्रं (*ugraṃ*)—is exceedingly terrible
+- तवीयः (*tavīyaḥ*)—and exceedingly powerful
+- रध्रतुरः (*radhraturaḥ*)—and destructive of enemies
+- बभूव (*babhūva*)—it has become
+
+##### भावार्थ (Bhāvārtha)
+
+O most powerful Indra, I believe that your strength, you who appear at many sacrifices and inflict harm on the enemy who harms us, is real. Your strength, you who are terrible, powerful and unresisted, is exceedingly terrible, exceedingly powerful and destructive of enemies.
+
+##### English translation
+Yet, most mighty one, I believe that power is verily always in you who are manifest at many rites, and are the enemy of (our) enemies; (the power) that is fierce in the fierce one, most mighty in the mighty one, most unassailable in the subduer (of foes).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्नः॑ प्र॒त्नं स॒ख्यम॑स्तु यु॒ष्टे इ॒त्था वद॑द्भिर्व॒लमंगि॑रोभिः ।  
+> हन्न॑ च्युतच्युद्दस्मे॒षयं॑तमृ॒णोः पुरो॒ वि दुरो॑ अस्य॒  ॑
+> विश्वाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । प्रत्नं । सख्यं । अस्तु । युष्टे इति । इत्था । वदत्भिः । वलं । अंगिरभिः ।  
+> हन् । अच्युतच्युत् । दस्म । इषयंतं । ऋणोः । पुरः । वि । दुरः । अस्य । विश्वाः ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रश्नं पुराणं । चिरकालानुवर्तित्यर्थः । तत्प्रसिद्धं नोऽस्मदीयं सख्यं
+> स्तुत्यस्तोतृलक्षणं सखित्वं हे इंद्र युष्टे युष्मास्वस्तु । पूजार्थं बहुवचनं ।
+
+##### Gist of the bhāṣya
+
+Pratna means ancient, that is, continuing for a long time. May that famous friendship of ours, the friendship of the praised and the praiser, be in you, O Indra; the plural "yuṣṭe" is used for honour.
+
+### Printed p. 680
+
+> हे अच्युतच्युदच्युतानामविचलितानां च्यावक हे दस्म दर्शनीयेंद्र त्वमिषयंतमायुधानि प्रेरयंतं वलमेतन्नामानमसुरमित्था सत्यमेव वदद्भिस्तां
+> स्तुवद्धिरंगिरोभिः सह हन् । हतवानसि । अपि चास्य वलस्य पुरो नगराणि वृणोः ।
+> व्यगमयः । वियुक्तान्यकार्षिरीत्यर्थः । विश्वाः सर्वा दुरः पुरीणां द्वारश्च
+> वृणोः ॥
+
+##### Gist of the bhāṣya
+
+O mover of the unmoved, that is, the shaker of those who are unshaken; O handsome Indra, you slew Vala, the Asura who hurled weapons, together with the Aṅgirases who truly praised you. And you opened the cities of this Vala; the meaning is that you made them separate, divided. And you opened all the gates of the cities.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पत्नं (*patnaṃ*)—ancient
+- तत् (*tat*)—famous
+- नः सख्यं (*naḥ sakhyaṃ*)—our friendship
+- युष्टे (*yuṣṭe*)—with you
+- अस्तु (*astu*)—may it be lasting
+- अच्युतच्युत् (*acyutacyut*)—you who make unmoving mountains and the like move
+- दस्म (*dasma*)—O attractive Indra
+- इषयंतं (*iṣayaṃtaṃ*)—who was striking with a weapon
+- वलं (*valaṃ*)—the Asura named Vala
+- इत्या (*ityā*)—truly
+- वदद्भिः (*vadadbhiḥ*)—who were praising you
+- अंगिरोभिः (*aṃgirobhiḥ*)—together with the Aṅgirases
+- हन् (*han*)—you have slain
+- अस्य (*asya*)—of this same Vala
+- पुरः (*puraḥ*)—the cities
+- वि ऋणोः (*vi ṛṇoḥ*)—you have destroyed
+- विश्वाः (*viśvāḥ*)—all
+- दुरः (*duraḥ*)—the gates of the city also (you have split)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may our ancient and famous friendship with you be lasting. O Indra, you who make unmoving mountains and the like move, and are attractive: you have truly slain the Asura Vala, who was striking with a weapon, together with the Aṅgirases who were praising you. You have destroyed the cities of this same Vala. You have split open all the gates of the city.
+
+##### English translation
+May that our ancient friendship with you ever endure, as when along with the Angirasas, celebrating your praises, you beautiful Indra, caster down of the immoveable (rocks), slew Vala hurling (his darts against you), and forced open his cities, and all his gates.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Asura named Vala stole the cows of the gods and hid them in a cave. Then Indra, with the help of his army, besieged that cave and released the cows that were in it. This matter is described in the Yajurveda, Tai. Saṃ. 2 1-1-1,**NOTE** in this way:
+
+### Printed p. 681
+
+इंद्रो वलस्य बिलमपौर्णोत्स य उत्तमः पशुरासीत्तं पृष्ठं प्रति संगृह्योदक्खिदत्तग्ं सहस्रं पशवोनूदायन्त उन्नतोऽभवद्यः पशुकामः स्यात्स एतमैंद्रमुन्नतमा लभेतेंद्रमेव स्वेन भागधेयेनोप धावति स एवास्मै पशून्प्रयच्छति पशुमानेव भवत्युन्नतो भवति ॥ (*iṃdro valasya bilamapaurṇotsa ya uttamaḥ paśurāsīttaṃ pṛṣṭhaṃ prati saṃgṛhyodakkhidattagṃ sahasraṃ paśavonūdāyanta unnato 'bhavadyaḥ paśukāmaḥ syātsa etamaiṃdramunnatamā labheteṃdrameva svena bhāgadheyenopa dhāvati sa evāsmai paśūnprayacchati paśumāneva bhavatyunnato bhavati ‖*) **GLOSS**
+
+This matter is described here and there in other mantras of the Ṛgveda and in the other Vedas. In the Ṛgveda this matter of Vala is mentioned in the Ṛks Ṛ. Saṃ. 1-62-4; 2-11-20; 2-14-3; 2-15-8; 2-12-3; 2-24-3; 3-30-10; 3-34-10; 4-50-5; 6-18-5; 6-39-2; 8-14-7; 8-24-30; 10-62-2; 10-67-6; 10-68-5; 10-68-6; 10-68-9; 10-68-10; 10-138-1. It is customary to call the soldiers of this Vala Paṇis. It is said in many places that they used to steal cows and hide them in caves.
+
+Although in the Ṛgveda the word "paṇi" has the meaning of wealthy men who carry on trade and the like, it also has the meaning of a man who does not perform sacrifices and the like and does not give sacrificial fees, gifts and so on; therefore the seers appear to have regarded him with contempt, as one not worthy of respect, a base man. In some places the Paṇi seems to be a particular individual, but since the plural use of this word is especially common, it should be understood that "paṇi" indicates a class of people.
+
+The commentator has cited a story about the Paṇis. Rākṣasas called Paṇis stole the cows that were in the world of the gods and hid them in the cave of a mountain. To search for them Indra sent Saramā, the divine bitch (a female dog of the world of the gods). That bitch went to the Paṇis, made them friends with kind words, and helped in bringing the cows. It is said in this story that Indra, with the help of the Maruts, destroyed that mountain cave and brought the cows that were there. In the 108th sūkta of the tenth maṇḍala of the Ṛgveda-saṃhitā the conversation that took place on this matter between the divine bitch Saramā and the Rākṣasas called Paṇis is given in detail.
+
+Some are of the opinion that these Paṇis were the earlier inhabitants of this country and were engaged in trade and the like. Since they did not perform sacrifices, had no interest in any good rite, regarded the earning of wealth alone, by fair or unfair means, as the main thing and behaved accordingly, the Āryas regarded them as Dasyus and as men of base conduct, and expressed those opinions in the mantras and elsewhere. In any case, in the Ṛgveda these Paṇis are looked upon with contempt. In the Ṛgveda there are many Ṛks about the Paṇis. Among them—
+
 ---
 
-**Progress note:** Done through printed p. 675. Ṛk 13-15 of VI.17, Sūkta 18 intro and Ṛk 1, pp. 670-675
+**Progress note:** Done through printed p. 681. Ṛk 2 end to Ṛk 5 of VI.18, pp. 676-681
