@@ -15952,6 +15952,288 @@ Indra, who is renowned as the destroyer of enemies, the great charioteer, the pr
 ##### English translation
 He, the chief of charioteers, the protector of the virtuous, Indra, destroys his foes, with his friend Pushan for his ally.
 
+### Printed p. 363
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तादः प॑रु॒षे गवि॒ सूर॑श्च॒क्रं हि॑र॒ण्ययं॑ ।  
+> नै॑रयद्र॒थीत॑मः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । अदः । परुषे । गवि । सूरः । चक्रं । हिरण्ययं ॥  
+> नि । ऐरयत् । रथितमः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च सूरः प्रेरको रथीतमोऽतिशयेन रथी नेतृतमो वा पूषा
+> परुषे परुषति पर्ववति भास्वति वा गवि । गच्छतीति गौरादित्यः । तस्मिन् हिरण्ययं
+> हिरण्मयं सुवर्णनिर्मितमदस्तद्रथस्य चक्रं नैरयत् । नितरां प्रेरयति स्म ॥
+
+##### Gist of the bhāṣya
+
+Pūṣan, the impeller and the greatest of charioteers, or the supreme leader, drives on in the radiant sun, the gauḥ (the one who goes), that golden wheel of his chariot, made of gold. Parus means that which has joints or which shines; gau is the sun, since it goes. He drives it on continually.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- सूरः (*sūraḥ*)—the impeller
+- रथीतमः (*rathītamaḥ*)—the supreme leader, the god Pūṣan
+- परुषे (*paruṣe*)—radiant
+- गवि (*gavi*)—in the sun
+- हिरण्ययं (*hiraṇyayaṃ*)—made of gold
+- अदः चक्रं (*adaḥ cakraṃ*)—that wheel of the chariot
+- नैरयत् (*nairayat*)—he yokes
+
+##### भावार्थ (Bhāvārtha)
+
+The god Pūṣan, the impeller of all and the supreme leader, yokes in the radiant sun the golden wheel of the chariot.
+
+##### English translation
+He, the impeller, the chief of charioteers, (Pushan), ever urges on that golden wheel (of his car) for the radiant sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+Gavi: in the sun. On the meaning of the word gau as the sun, Yāska says: आदित्योऽपि गौरुच्यते । उतादः परुषे गवि । पर्ववति भास्वतीत्यौपमन्यवः ॥ (*ādityo 'pi gaurucyate | utādaḥ paruṣe gavi | parvavati bhāsvatītyaupamanyavaḥ ‖*) (Ni. 9-6).
+
+### Printed p. 364
+
+Thus he has given the etymology. The sun too has the name gauḥ, because he is of a moving nature and does not stay even for a moment in one place but is always in motion; so gavi means in the sun. Because he shines with a mass of radiance, gauḥ (gauḥ also means a ray) is the sun or Āditya: this is the opinion of the teacher named Aupamanyava, as Yāska explains.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य त्वा॑ पुरुष्टुत॒ ब्रवा॑म दस्र मंतुमः ।  
+> तत्सु नो॒ मन्म॑ साधय ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । त्वा । पुरुस्तुत । ब्रवाम । दस्र । मंतुमः ।  
+> तत् । सु । नः । मन्म । साधय ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुष्टुत बहुभिर्यजमानैः स्तुत दस्र दर्शनीय मंतुमो ज्ञानवान्
+> पूषन् अद्येदानीं यदुद्दिश्य त्वा त्वां ब्रवाम स्तवाम नोऽस्माकं मन्म
+> मननीयं तद्धनं सु साधय उत्पादयॆ ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, praised by many sacrificers, beautiful to behold, possessed of knowledge, today we praise you for the sake of a wealth; accomplish for us, produce, that wealth worthy of our thought.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—who is praised by many sacrificers
+- दस्र (*dasra*)—who has an attractive form
+- मंतुमः (*maṃtumaḥ*)—who has abundant knowledge, O god Pūṣan
+- अद्य (*adya*)—at this time of the sacrifice
+- यत् (*yat*)—for the sake of which wealth
+- त्वा (*tvā*)—you
+- ब्रवाम (*bravāma*)—we praise
+- मन्म (*manma*)—which is fit for our meditation
+- तत् (*tat*)—that same wealth
+- नः (*naḥ*)—for us
+- सु साधय (*su sādhaya*)—produce in abundance
+
+##### भावार्थ (Bhāvārtha)
+
+O god Pūṣan, who are praised by many sacrificers, who have an attractive form and abundant knowledge, at this time of the sacrifice produce for us that same wealth, worthy of our meditation, for the sake of which we praise you. Provide it for us.
+
+### Printed p. 365
+
+##### English translation
+Since, intelligent Pushan, of goodly aspect, the praised of many, we celebrate you to-day, therefore grant us the desired wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं च॑ नो ग॒वेष॑णं सा॒तये॑ सीषधो ग॒णं ।  
+> आ॒रात्पू॑षन्नसि श्रु॒तः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । च । नः । गोऽविषणं । सातये । सीसधः । गणं ।  
+> आरात् । पूषन् । असि । श्रुतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् नोऽस्माकं सातये लाभायेमं च गणं मनुष्यसंघं
+> गवेषणं गवामेषयितारं सीषधः । साधय । हे पूषन् आरात् दूरदेशेऽपि त्वं
+> श्रुतो विश्रुतः प्रख्यातोऽसि । भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, for our gain, accomplish for this company of men, who are seekers of cows, what they desire. O Pūṣan, you are renowned and famous even in a distant place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सातये (*sātaye*)—for the gaining of cows
+- गवेषणं (*gaveṣaṇaṃ*)—who are searching for cows
+- नः (*naḥ*)—our
+- इमं च गणं (*imaṃ ca gaṇaṃ*)—this company of sacrificers
+- सीषधः (*sīṣadhaḥ*)—satisfy
+- पूषन् (*pūṣan*)—O god Pūṣan
+- आरात् (*ārāt*)—even in very distant places
+- श्रुतः (*śrutaḥ*)—renowned
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O god Pūṣan, satisfy this our company of sacrificers, who are searching for cows for the gaining of cows. O god Pūṣan, you are renowned even in very distant places.
+
+##### English translation
+Gratify this our assembly, desirous of cattle by their acquistion : you. Pushan, are renowned afar.
+
+### Printed p. 366
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ स्व॒स्तिमी॑मह आ॒रेअ॑घा॒मुपा॑वसुं ।  
+> अ॒द्या च॑ स॒र्वता॑तये॒ श्वश्च॑ स॒र्वता॑तये ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । स्वस्तिं । ईमहे । आरेऽअघां । उपवसुं ।  
+> अद्य । च । सर्वतातये । श्वः । च । सर्वतातये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् ते त्वदीयां त्वया देयां स्वस्तिं कल्याणीं रक्षामारेअघां ।
+> आरे दूरेऽघं पापं यस्यास्तादृशीं । उपावसुमुपगतधनां । ईदृशीं स्वस्तिमद्य
+> चास्मिंश्च काले सर्वतातये । सर्वैर्युत्विग्निस्तायत इति सर्वतातिर्यज्ञः । तदर्थं ।
+> यद्वा । सर्वेषां भोगानां विस्ताराय । श्वश्च परस्मिन्नपि दिने सर्वतातये सर्वदा
+> सर्वतात्यर्थमेमहे । अभियाचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, we beg of you well-being, that is, welfare and protection to be given by you, far from evil, which is attended by wealth; this we ask today and at the time to come, for the sake of the sacrifice (sarvatāti), the sacrifice being so called because it is extended by all the officiating priests and sacrificers **NOTE**. Or else it is for the spreading of all enjoyments. And tomorrow, on another day also, for the sake of the sacrifice, always, for the sake of all, we ask and entreat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य च (*adya ca*)—today, in the present
+- सर्वतातये (*sarvatātaye*)—for the sake of the sacrifice that is performed
+- श्वश्च (*śvaśca*)—in the days to come
+- सर्वतातये (*sarvatātaye*)—for the sake of the sacrifices that are performed
+- ते (*te*)—to be bestowed by you
+- आरेआघां (*āreāghāṃ*)—which is free from sin
+- उपावसुं (*upāvasuṃ*)—which is wealth-giving
+- स्वस्तिं (*svastiṃ*)—well-being
+- आ ईमहे (*ā īmahe*)—we ask abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O god Pūṣan, so that the sacrifice to be performed today and the sacrifices to be performed in the days to come may be performed without obstacle, we ask abundantly the well-being that is free from sin, that gives wealth and that is bestowed by you.
+
+##### English translation
+We deserve of you well-being, remote from evil, approximate to wealth, both for the sake of general sacrifice to-day, for the sake of general sacrifice to-morrow.
+
+### Printed p. 367
+
+## Sūkta 57 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रा नु पूषणेति षडृचमष्टमं सूक्तं भरद्वाजस्यार्षं गायत्रमैंद्रापौष्णं । अनुक्रांतं च । इंद्रा न्वैंद्रं चेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इंद्रा नु पूषणा (*iṃdrā nu pūṣaṇā*) has six Ṛks and is the eighth sūkta. Its seer is Bharadvāja, its metre is Gāyatrī, its deities are Indra and Pūṣan. The Anukramaṇī says: इंद्रा न्वैंद्रं चेति (*iṃdrā nvaiṃdraṃ ceti*). The application has already been stated.
+
+##### Anuvāda
+
+The sūkta beginning "Indrā nu Pūṣaṇā" is the eighth sūkta in the fifth anuvāka. It has six Ṛks. The seer of this sūkta is Bharadvāja; Indra and Pūṣan are the deities; the metre is Gāyatrī. The Anukramaṇī says: "Indrā nindraṃ ca" **NOTE**. The application has been stated before.
+
+##### Particulars
+
+- Sūkta 57
+- Maṇḍala 6, Anuvāka 5, Sūkta 57
+- Aṣṭaka 4, Adhyāya 8, Varga 23
+- Number of Ṛks in the sūkta: 6
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra and Pūṣan
+- Chandas: Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॒ नु पू॒षणा॑ व॒यं स॒ख्याय॑ स्व॒स्तये॑ ।  
+> हु॒वेम॒ वाज॑सातये ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रा । नु । पूषणा । वयं । सख्याय । स्वस्तये ।  
+> हुवेम । वाजसातॆये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इतरेतरयोगादिंद्रपूषण्यब्दयोरुभयत्र द्विवचनं । इंद्रापूषणौ देवौ
+> नु अद्य च वयं स्वस्तये सख्याय शोभनाय सखित्वाय वाजसातये वाजस्यान्नस्य
+> बलस्य वा सातये संभजनाय च हुवेम । आह्वयाम । स्तवाम ॥
+
+##### Gist of the bhāṣya
+
+The words Indra and Pūṣan are both in the dual because of their mutual conjunction. We now call, that is, invoke and praise, the two gods Indra and Pūṣan, for our well-being, for the sake of an excellent friendship, and for the obtaining and enjoyment of food or strength.
+
+### Printed p. 368
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रापूषणौ (*iṃdrāpūṣaṇau*)—the gods Indra and Pūṣan
+- नु (*nu*)—now
+- वयं (*vayaṃ*)—we
+- स्वस्तये (*svastaye*)—for our well-being
+- सख्याय (*sakhyāya*)—for the winning of friendship
+- वाजसातये (*vājasātaye*)—for the obtaining of food
+- हुवेम (*huvema*)—we pray and invite
+
+##### भावार्थ (Bhāvārtha)
+
+Now we pray to the gods Indra and Pūṣan and invite them, for our well-being, for winning friendship with them and for the obtaining of food.
+
+##### English translation
+We invoke you, Indra and Pushan, for your friendship, for our well-being, and for the obtaining of food.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॑म॒न्य उपा॑सद॒त्पात॑वे च॒म्वोः॑ सु॒तं ।  
+> क॒रं॒भम॒न्य इ॑च्छति ॥ २ ।'
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमं । अन्यः । उप । आसदत् । पातवे । चम्योः । सुतं ।  
+> करंभं । अन्यः । इच्छति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चन्नोरधिषवणफलकयोः सुतमभिषुतं सोममन्वोन्वयोरेकतर इंद्रः
+> पातवे पातुमुपासदत् । उपसीदति । उपगच्छति । अन्य एकतरः पूषा करंभं
+> फृतसिक्तं सक्त्वात्मकं हविर्भक्षयितुमिच्छति ॥
+
+##### Gist of the bhāṣya
+
+One of the two, Indra, comes and sits near to drink the Soma pressed on the two pressing-boards. The other, Pūṣan, desires to eat the karambha, an offering of barley-meal sprinkled with ghee.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अन्यः (*anyaḥ*)—of the two, Indra and Pūṣan, one, Indra
+- चव्वोः (*cavvoḥ*)—by the pressing-boards
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—Soma juice
+- पातवे (*pātave*)—to drink
+- उपासदत् (*upāsadat*)—sits down
+- अन्यः (*anyaḥ*)—the other, Pūṣan
+- करंभं (*karaṃbhaṃ*)—the offering mixed with ghee and in the form of barley-meal
+- इच्छति (*icchati*)—desires to eat
+
 ---
 
-**Progress note:** Done through printed p. 362. Mandala 6 Sukta 55 Rk 3-6, Sukta 56 Rk 1-2 (Pushan)
+**Progress note:** Done through printed p. 368. Mandala 6 Sukta 56 Rk 3-6, Sukta 57 Rk 1-2
