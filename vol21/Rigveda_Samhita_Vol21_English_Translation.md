@@ -19120,6 +19120,287 @@ Riders in your car, you have penetrated the mountain by your trimphant chariot :
 
 The matter of the bestowal of a son named Hiraṇyahasta on the woman named Vadhrimatī is in Ṛ. Saṃ. Part 9, pp. 252 and 408; and the barren cow of the sage named Śayu was made to bear a calf and give
 
+### Printed p. 435
+
+milk is explained in Ṛ. Saṃ. 8-736, 9-294, 9-440, 13-509 (part and pages).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्रो॑दसी प्र॒दिवो॒ अस्ति॒ भूमा॒ हेळो॑ दे॒वाना॑मु॒त  ॒॑
+> म॑र्त्य॒त्रा ।  
+> तदा॑दित्या वसवो रुद्रियासो रक्षो॒युजे॒ तपु॑र॒घं द॑धात॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । रोदसी इति । प्रदिवः । अस्ति । भूम । हेळः । देवानां । उत । मर्त्यत्रा ।  
+> तत् । आदित्याः । वसवः । रुद्रियासः । रक्षस्ययुजे । तपुः । अघं । दधात ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रोदसी हे द्यावापृथिव्ये हे आदित्या हे वसवो रुद्रियासो हे रुद्रपुत्रा
+> मरुतो मर्त्यत्रा मर्त्येष्वश्विनोः परिचारकेषु देवानां यद्देळः क्रोधो
+> भूम महानस्ति तद्देळस्तपुस्तापकं रक्षोयुजे रक्षोभिर्युक्ताय रक्षसां स्वामिने
+> प्रेरकाय वाघमाहंतृ दधात । कुरुत । अथवा रक्षोयुजे रक्षोभिर्युक्ताय
+> यज्वनेऽघमाहंतृ कुरुत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the vocatives in order: Heaven and Earth, the Ādityas, the Vasus, and the Maruts, who are the sons of Rudra. Among mortals, that is, among the attendants (worshippers) of the Aśvins, there is a great wrath of the gods. He explains that this wrath is scorching, burning. Make that scorching wrath a striking harm (a smiting calamity) for the one who is joined with Rākṣasas, that is, for the lord of the Rākṣasas, their instigator. "Make" is the sense of the verb dadhāta. Or else: make a striking harm for the sacrificer who is joined with Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- रोदसी (*rodasī*)—O Heaven and Earth
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- वसवः (*vasavaḥ*)—O gods called Vasus
+- रुद्रियासः (*rudriyāsaḥ*)—O Maruts, the sons of Rudra
+- मर्त्यत्रा (*martyatrā*)—upon the men who worship the Aśvin deities
+- प्रदिवः (*pradivaḥ*)—from the atmosphere
+- देवानां (*devānāṃ*)—that which is directed by the gods
+- भूम (*bhūma*)—and endowed with exceeding power
+- यत् हेळि (*yat heḷi*)—which wrath
+- अस्ति (*asti*)—there is
+- तपुः (*tapuḥ*)—scorching
+- तत् (*tat*)—that same wrath
+- रक्षोयुजे (*rakṣoyuje*)—to the man who is united with Rākṣasas
+- अघं (*aghaṃ*)—so as to be destroyed
+- दधात (*dadhāta*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, O Ādityas, O gods called Vasus, O Maruts, sons of Rudra: upon the men who worship the Aśvin deities, from the atmosphere, that wrath which is directed by the gods
+
+### Printed p. 436
+
+and endowed with exceeding power, which there is, that scorching same wrath make so as to become the destroyer of the man who is united with Rākṣasas.
+
+##### English translation
+Heaven and Earth, Adityas, Vasus, Maruts, render that dread anger of the gods which (has) of old (been directed) against mortals, destructive and fatal to him who is associated with the Rakshasas.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ईं॒ राजा॑नावृतु॒था वि॒दध॒द्रज॑सो मि॒त्रो वरु॑ण॒श्चिके॑तत् ।  
+> गं॒भी॒राय॒ रक्ष॑से हे॒तिम॑स्य॒ द्रोघा॑य चि॒द्वच॑स॒ आन॑वाय ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ईं । राजान् । ऋत्रुथा । विदधत् । रजसः । मित्रः । वरुणः । चिकेतत् ।  
+> गंभीराय । रक्षसे । हेतिं । अस्य । द्रोघाय । चित् । वचसे । आनवाय ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो नरो रजसः समस्तस्य लोकस्य । लोका रजांस्युच्यंत इति यास्केनोक्तत्वात् । राजानावीमेतावश्विनावृतुथा काले काले विदधत् परिचरति तं मित्रो
+> वरुणश्च चिकेतत् । जानीयात् । मित्रवरुणप्रभृतयो देवा एनं विदुरित्यर्थः ।
+> किंचायं परिचारको गंभीराय महाबलाय रक्षसे राक्षसाय हेतिं घातकमायुधमस्य । अस्यति । क्षिपति ॥ प्रथमपुरुषस्य मध्यमपुरुषेण व्यत्ययः ॥
+> द्रोघायाभिद्रोहात्मकायानवाय मनुष्यसंबंधिने वचसे चित् वचनाय्कॆव
+> हेतिमस्यति । मनुष्याणामभिद्रोहाय्कॆनमास्कंदतीति ॥
+
+##### Gist of the bhāṣya
+
+The man who in due season serves the two Aśvins, who are the lords of the whole world (Sāyaṇa adds that Yāska says the worlds are called rajāṃsi), him Mitra and Varuṇa know: that is, Mitra, Varuṇa and the other gods know him. Moreover this attendant hurls his weapon, a destructive arm, at the deep, that is, mighty, rakṣas, the Rākṣasa; and at malicious speech of man, speech that relates to men and is aimed at injury, he hurls his weapon as though by speech itself, for he attacks it to the injury of men.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which man
+- रजसः (*rajasaḥ*)—of the whole world
+- राजानौ (*rājānau*)—the two lords
+- ईं (*īṃ*)—these Aśvin deities
+- ऋतुथा (*ṛtuthā*)—in accordance with the respective times of sacrifice
+- विदधत् (*vidadhat*)—he who worships (him)
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- चिकेशत् (*cikeśat*)—know well (this same worshipper)
+- गंभीराय (*gaṃbhīrāya*)—of exceeding strength
+- रक्षसे (*rakṣase*)—upon the asura
+
+### Printed p. 437
+
+- हेतिं (*hetiṃ*)—a destructive weapon
+- अस्य (*asya*)—he can hurl
+- द्रोघाय (*droghāya*)—practising treachery
+- आनवाय (*ānavāya*)—employed by man
+- वचसे चित् (*vacase cit*)—even upon reviling words he can hurl it
+
+##### भावार्थ (Bhāvārtha)
+
+The man who worships in accordance with the respective times of sacrifice these Aśvin deities, the lords of the whole world, him Mitra and Varuṇa know well. This same worshipper can hurl a destructive weapon upon the asura of exceeding strength. He can hurl it also upon the reviling words employed by the man who practises treachery.
+
+##### English translation
+Mitra and Varuna recognize him who of all the world worships the royal (Asvins) in due season; he hurls his weapon against the strong Rakshasa, against the malignant menaces of man.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंत॑रैश्च॒क्रैस्तन॑याय व॒र्तिद्र्यु॒मता या॑तं नृ॒वता॒ रथे॑न ।  
+> सनु॑त्येन॒ त्यज॑सा॒ मर्त्य॑स्य वनुष्य॒तामपि॑ शी॒र्षा व॑वृक्तं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंतरैः । चक्रैः । तनयाय । वर्तिः । द्युमता । आ । यातं । नृवता । रथेन ।  
+> सनुत्येन । त्यजसा । मर्त्यस्य । वनुष्यतां । अपि । शीर्षा । ववृक्तं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनावंतरैरनिकृष्टैश्चक्रैर्युक्तेन द्युमता दीप्तिमता नृवता नेत्रा
+> सारथिना युक्तेन । यद्वा । अश्वयुक्तेन । पतंगा नर इत्यश्वनामसु पाठात् । रथेन
+> वर्तिरस्माकं गृहं तनयाय तनयं दातुमा यातं । अपि च सनुत्येन शिरोहितेन
+> त्यजसा क्रोधेन । हृणिस्तेज इति क्रोधनामसु पाठात् । मर्त्यस्य मनुष्यस्य
+> वनुष्यतां बाधमानानां । वनुष्यतिर्हंतिकर्मोति यास्केनोक्तत्वात् । शीर्षा
+> शिरांस्यपि ववृक्तं । प्रवृक्तं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come to our house, to give a son, with a chariot that has excellent wheels, wheels that are not inferior, that is shining, and that has a leader, that is, a charioteer; or else a chariot that is yoked with horses, because पतंगा नर (*pataṃgā nara*) is read among the names of the horse. Moreover, with the wrath that is helpful to the head, wrath being the meaning of the word tyajas (because हृणिस्तेज (*hṛṇisteja*) is read among the names of wrath), cut off the heads of those who afflict the mortal, the man who worships you. Sāyaṇa adds that Yāska says the verb vanuṣyati is a verb of killing. The word vavṛktam means "cut off".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+### Printed p. 438
+
+- अंतरैः (*aṃtaraiḥ*)—not inferior but excellent
+- चक्रैः (*cakraiḥ*)—endowed with wheels
+- द्युमता (*dyumatā*)—radiant
+- नृवता (*nṛvatā*)—endowed with an excellent charioteer
+- रथेन (*rathena*)—with the chariot
+- वर्तिः (*vartiḥ*)—to our sacrificial house
+- तनयायु (*tanayāyu*)—for the gift of a son
+- आ यातं (*ā yātaṃ*)—be gracious to come
+- सनुत्येन (*sanutyena*)—hidden, not shown outwardly
+- त्यजसा (*tyajasā*)—with anger
+- मर्त्यस्य (*martyasya*)—for the man who worships you
+- वनुष्यतां (*vanuṣyatāṃ*)—of the asuras who do harm
+- शीर्षा (*śīrṣā*)—the heads
+- अपि ववृक्तं (*api vavṛktaṃ*)—cut off
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come to our sacrificial house with a chariot endowed with excellent wheels, radiant, and endowed with an excellent charioteer, and grant us the gift of a son. Cut off, with the anger that stays hidden and is not shown outwardly, the heads of the asuras who do harm to the man who worships you.
+
+##### English translation
+Come with your shining and well-guided chariot, (fitted) with excellent wheels, to our dwelling, (to bestow upon us) male offspring : cut off with secret indignation the heads of those obstructing (the adoration)) of the mortal (who worships you).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑र॒माभि॑रु॒त म॑ध्य॒माभि॑र्नि॒युद्भि॑र्यातमव॒माभि॑र॒र्वाक् ।  
+> दृ॒ढस्य॑ चि॒द्गॊम॑त्तो॒ वि व्र॒जस्य॒ दुरो॑ वर्तं गृण॒ते  
+> चि॑त्रराती ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । परमाभिः । उत । मध्यमाभिः । नियुत्थाभिः । यातं । अवमाभिः । अर्वाक् ।  
+> दृढस्य । चित् । गोमतः । वि । व्रजस्य । दुरः । वर्तं । गृणते । चित्रराती इति  
+> चित्रराती ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् परमाभिरुत्कृष्टाभिरुतापि च मध्यमाभिरनुत्कृष्टाभिरवमाभिर्निकृष्टाभिश्च नियुद्धिर्वाहैरर्वागस्मदभिमुखमा यातं । दृळ्हस्य चिद्दृळ्हा विधानस्यापि
+
+##### Gist of the bhāṣya
+
+O Aśvins, come toward us with the best draught-teams, and also with the middling and the inferior ones. Sāyaṇa then begins to speak of the firmly fixed, the sentence continuing in the next part of the text.**NOTE**
+
+> गोमतो गोयुक्तस्य व्रजस्य गोष्ठस्य दुरो द्वाराणि वि वर्तं । विवृणुतं । किंच
+> गृणते स्तुवते मह्यं चित्रराती विचित्रदानौ भवतं ॥
+
+##### Gist of the bhāṣya
+
+Open the doors of the cow-pen, the stall that has cows, even though it is firm. Moreover, be givers of various gifts to me, the praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+### Printed p. 439
+
+- परमाभिः (*paramābhiḥ*)—(O Aśvin deities) the most excellent
+- उत (*uta*)—and
+- मध्यमाभिः (*madhyamābhiḥ*)—the middling
+- अवमाभिः (*avamābhiḥ*)—the very inferior ones
+- नियुद्भिः (*niyudbhiḥ*)—with steeds
+- आर्वाक् (*ārvāk*)—facing us
+- आ यातं (*ā yātaṃ*)—be gracious to come
+- गोमतः (*gomataḥ*)—endowed with cows
+- व्रजस्य (*vrajasya*)—of the cow-pen
+- दुरः (*duraḥ*)—the doors
+- दृळस्य चित् (*dṛḷasya cit*)—even though very firm
+- वि वर्तं (*vi vartaṃ*)—open
+- गृणते (*gṛṇate*)—to me, the praiser
+- चित्रराशी (*citrarāśī*)—be givers of many kinds of gifts
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, be gracious to come facing us with steeds, the most excellent, the middling and the very inferior. Open the doors of the cow-pen that has cows, even though it is very firm. Grant many kinds of gifts to me, the praiser.
+
+##### English translation
+Come down, whether with the most excellent, or middling, or inferior Niyut steeds; set open the doors of the fast-shut stall of the cattle : be bountiful to him who praises you.
+
+## Sūkta 63 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्व त्येकादशर्चं द्वितीयं सूक्तं भरद्वाजस्यार्षं । अत्रेयमनुक्रमणिका ! क्व त्यैकपदांतं त्रिष्टुभमिति । आ वां सुम्म इत्येकादश्येकपदा त्रिष्टुप्
+> शिष्टास्त्रिष्टुभः । आश्विनं त्वित्युक्तत्वादस्यापि सूक्तस्याश्विन् देवता ॥ प्रातरनुवाकाशिनशस्त्रयोस्त्रैष्टुभे छंदसि विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning क्व त्या (*kva tyā*) is the second sūkta of this anuvāka; it has eleven ṛks, and its seer is Bharadvāja. Here is the Anukramaṇikā: क्व त्यैकपदांतं त्रिष्टुभमिति (*kva tyaikapadāṃtaṃ triṣṭubhamiti*) **GLOSS**. The eleventh ṛk, beginning आ वां सुम्म (*ā vāṃ summa*), is an ekapadā triṣṭubh;**NOTE** the remaining ṛks are triṣṭubh. Because आश्विनं (*āśvinaṃ*) (the Aśvins' sūkta) has been stated, the deity of this sūkta too is the Aśvins. Its use is in the Triṣṭubh-metre portion of both the Prātaranuvāka and the Āśvina-śastra.
+
+##### Anuvāda
+
+Translation: this sūkta क्व त्या (*kva tyā*) is the second sūkta in the sixth anuvāka. It has eleven ṛks. Bharadvāja is the seer of this sūkta; the eleventh ṛk, आ वां सुम्ने (*ā vāṃ sumne*), is of the metre called ekapadā. The remaining ṛks are in the triṣṭup metre. In the Anukramaṇikā
+
+### Printed p. 440
+
+it is said क्व तैकपदांतं त्रैष्टुभं (*kva taikapadāṃtaṃ traiṣṭubhaṃ*) **GLOSS**. This sūkta is used in the Prātaranuvāka and in the Āśvina-śastra mantras for the mantras of triṣṭup metre.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 63
+- Aṣṭaka 5; Adhyāya 1; Vargas 3, 4
+- Number of ṛks in the sūkta: 11
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: अश्विनौ (*aśvinau*)
+- Metre: 1-1 Triṣṭup; 11 Ekapadā**NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व१॒ं॑त्या व॒ल्लू पु॑रुहू॒ताद्य दू॒तो न स्तोमो॑ऽविद॒न्नम॑स्वान् ।  
+> आ यो अ॒र्वाज्ञास॑त्या व॒वर्त॒ प्रेष्ठा॒ ह्यस॑थो अस्य॒ मन्म॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृ । त्या । वल्गू इति । पुरुहूता । अद्य । दूतः । न । स्तोमः । अविदत् । नमस्वान् ।  
+> आ । यः । अर्वाक् । नासत्या । ववर्त । प्रेष्ठा । हि । असथः । अस्य । मन्मन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्व कुत्र स्थितौ वल्लू रुचिर् पुरुहूता बहुभिराहूत् त्या तावश्विनौ
+> नमस्वान्हविषा युक्तः । नम अयुरित्यन्ननामसु पाठात् । स्तोमः पंचदशादिः
+> स्तोमोऽद्य दूतो न प्रेरितो दूत इवाविदत् । विंदेश् । यः स्तोमोऽर्वागस्मदभिमुखं नासत्याश्विनावा ववर्त आवर्तयत् । हे अश्विन् युवामस्य स्तोतुर्मन्मन् स्तोत्रे प्रेष्ठा हि प्रियतम् ह्यसथः । भवथः ॥
+
+##### Gist of the bhāṣya
+
+Where, in what place, are those two Aśvins, lovely and called by many? The stoma, such as the Pañcadaśa, joined with an offering, has found them today like a sent messenger; Sāyaṇa glosses namasvān as joined with an offering, since नम अयुरित्यन्ननामसु (*nama ayurityannanāmasu*) — nama and ayu are read among the names of food. The stoma that turns the Nāsatyas, the Aśvins, toward us: O Aśvins, you are the dearest to this praiser's praise; asathaḥ means "you are".**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which stoma
+- नासत्या (*nāsatyā*)—the Aśvin deities
+- अर्वाक् (*arvāk*)—so as to face us
+- आ ववर्त (*ā vavarta*)—is able to turn; such
+- नमस्वान् (*namasvān*)—accompanied by oblations
+- स्तोमः (*stomaḥ*)—the stoma such as the Pañcadaśa
+- दूतो न (*dūto na*)—like a messenger sent to seek them
+- अद्य (*adya*)—at this time
+- वल्लू (*vallū*)—those of lovely form
+- पुरुहूता (*puruhūtā*)—those called by many
+
 ---
 
-**Progress note:** Done through printed p. 434. Mandala 6 sukta 62 rks 1-7 (Ashvins), pp. 426-434
+**Progress note:** Done through printed p. 440. Ṛ. 62.8-11 and start of 63 (Kva tyā), pp. 435-440
