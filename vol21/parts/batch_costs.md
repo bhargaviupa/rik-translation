@@ -39,3 +39,4 @@
 | through p. 714 (pp. 697-702, 703-708, 709-714) | sonnet | n/a | pending | - |
 | through p. 732 (pp. 715-720, 721-726, 727-732) | sonnet | n/a | pending | - |
 | through p. 751 (pp. 733-738, 739-744, 745-751) | sonnet | n/a | pending | - |
+| through p. 769 (pp. 752-757, 758-763, 764-769) | sonnet | n/a | pending | - |
