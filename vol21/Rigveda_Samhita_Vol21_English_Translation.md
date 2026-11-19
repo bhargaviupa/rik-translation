@@ -19401,6 +19401,321 @@ Where, in what place, are those two Aśvins, lovely and called by many? The stom
 - वल्लू (*vallū*)—those of lovely form
 - पुरुहूता (*puruhūtā*)—those called by many
 
+### Printed p. 441
+
+- श्या (*śyā*)—those renowned Aśvin deities
+- क्व (*kva*)—in what place they are
+- अविदत् (*avidat*)—is able to know
+- अस्य (*asya*)—(O Aśvin deities) of this praiser
+- मन्मन् (*manman*)—in the matter of the praise
+- प्रेष्णा हि (*preṣṇā hi*)—as the most dear
+- असथः (*asathaḥ*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+The stoma, such as the Pañcadaśa, which is able to turn the Aśvin deities so that they face us, such a stoma, joined with oblations, like a messenger sent to seek them, is able at this time to find out in what place those Aśvin deities are, who are of lovely form, called by many, and renowned. O Aśvin deities, be most loving in the matter of the praise of this praiser.
+
+##### English translation
+Where may our praise and oblations find to-day, for a messenger, those two splendid (Aswins), the invoked of many, and bring the Nasatyas to our presence? Be propitiated (Aswins) by the adoration of this (your worshipper).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरं॑ मे गंतं॒ हव॑नाया॒स्मै गृ॑णा॒ना यथा॒ पिबा॑थो॒  ॑
+> अंधः ।  
+> परि॑ ह॒ त्यद्व॒र्तिर्या॑थो रि॒षो न यत्परो॒ नांत॑रस्तुतु॒र्यात् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रं । मे । गंतं । हवनाय । अस्मै । गृणाना । यथा । पिबाथः । अंधः ।  
+> रि । ह । त्यत् । वर्तिः । याथः । रिषः । न । यत् । परः । न । अंतरः । तुतुर्यात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां मे मदीयायास्मै हवनायाह्वानायारं पर्याप्तं
+> गंतं । गच्छतं । गृणाना स्सूयमानावंधः सोमं यथा पिबाथः पिबतं । रिषो
+> हिंसकस्य शत्रोस्त्यद्वर्तिस्तद्धहं परि याथः परितो याथः यद्वर्तिः परो
+> विप्रकृष्टो न तुतुर्यात् न हिंस्यात् । अंतरः संनिकृष्टोऽपि न तुतुर्यात् ।
+
+##### Gist of the bhāṣya
+
+O Aśvins, come in full measure to this my invocation, that is, to my call; being praised, drink the Soma, the andhas, in the manner in which you drink it. Go round on all sides that house of mine for the sake of the harming enemy, so that neither a far-off enemy nor one who is near may do it harm.
+
+### Printed p. 442
+
+> यद्वा । त्यद्वर्तिस्तदस्मदीयं गृहं रिषो हिंसकात्परि याथः । त्यद्वर्तिः परो
+> विप्रकृष्टोऽंतरः संनिकृष्टोऽपि न तुतुर्यात् । आयं भवः । यथास्मदीयं
+> गृहं दूरस्थः संनिकृष्टोऽपि न हिंस्यात्तथा रक्षां कुरुथ इति ॥
+
+##### Gist of the bhāṣya
+
+Or else: go round that house of ours, to protect it against the harming enemy; let neither the one who is far off nor the one who is near injure it. This is the sense: as neither one who is far away nor one who is near may harm our house, so give it protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गृणाना (*gṛṇānā*)—(O Aśvin deities) you who are to be praised
+- यथा (*yathā*)—in what manner
+- अंधः (*aṃdhaḥ*)—the Soma juice
+- पिबाथः (*pibāthaḥ*)—you drink, for that reason
+- मे (*me*)—my
+- आस्मै हवनाय (*āsmai havanāya*)—accepting this invocation
+- आरं (*āraṃ*)—in a satisfying manner
+- गंतं (*gaṃtaṃ*)—be gracious to come
+- यत् (*yat*)—which house (in what manner)
+- परः (*paraḥ*)—the enemy who is at a distance
+- न तुतुर्यात् (*na tuturyāt*)—cannot harm
+- अंतर (*aṃtara*)—the enemy who is near
+- न (*na*)—cannot harm
+- त्यत् वर्तिः (*tyat vartiḥ*)—that same house (in the same manner)
+- रिषः (*riṣaḥ*)—from the harming enemy
+- परि याथः (*pari yāthaḥ*)—protect completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who are worthy of praise: because you drink the Soma juice in the manner you do, be gracious to come in a satisfying manner to this my praise. In the manner in which neither an enemy at a distance nor an enemy near can harm our house, protect it completely from the harming enemy.
+
+##### English translation
+Praised, that you may drink the (sacrificial) beverage, you come promptly upon this my invocation: keep guard around the dwelling against (all) adversaries, so that neither one that abides at a distance nor a neighbour may do us harm.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अका॑रि वा॒मंध॑सो॒ वरी॑म॒न्न स्ता॑रि ब॒र्हिः सु॑प्राय॒णत॑मं ।  
+> उ॒त्ता॒नह॑स्तो युव॒युर्व॑वं॒दा वां॒ नक्षं॑तो॒ अद्र॑य  
+> आंजन् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अकारि । वां । अंधसः । वरीमन् । अस्तारि । बर्हिः । सुप्रायुनतमं ।  
+> उत्तानहस्तः । युवयुः । ववंद । आ । वां । नक्षंतः । आद्रयः । अंजन् ॥ ३ ॥
+
+### Printed p. 443
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वां युवयोरर्थेऽंधसः सोमस्य वरीमन् विस्तृतेऽभिषवादौ यत्कृत्यमस्ति तदकारि । कृतं । सुप्रायणतमं मृदुतमं बर्हिरस्तारि । स्तीर्णं । उत्तानहस्तः
+> कृतांजलियुर्वयुर्युवां कामयमानो होता ववंद । स्तोति । वां युवां
+> नक्षंतो वाप्पुवंतः ॥ कृष्ण पृक्ष नक्ष गताविति धातुः ॥ अद्रयो ग्रावाण अंजन् ।
+> सोमर समा समंताद्व्यक्तीकृतवंतः ॥
+
+##### Gist of the bhāṣya
+
+For the two of you, whatever work there is in the extended pressing and the rest of the Soma, the andhas, has been done. The softest sacred grass has been strewn. The hotṛ, with raised and joined hands, desiring you, praises you. The pressing stones, reaching you, have made the Soma manifest on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नां (*nāṃ*)—(O Aśvin deities) with you in view
+- अंधसः (*aṃdhasaḥ*)—of the Soma juice
+- वरीमन् (*varīman*)—the pressing (squeezing) rite
+- आकारि (*ākāri*)—has been performed
+- सुप्रायणतमं (*suprāyaṇatamaṃ*)—very soft
+- बर्हिः (*barhiḥ*)—the sacred-grass seat
+- आस्तारि (*āstāri*)—is spread widely
+- उत्तानहस्तः (*uttānahastaḥ*)—with hands raised and joined
+- युवयः (*yuvayaḥ*)—the hotṛ who seeks your presence
+- ववंद (*vavaṃda*)—praises you
+- वां (*vāṃ*)—for you
+- नक्षंतः (*nakṣaṃtaḥ*)—extended
+- अद्रयः (*adrayaḥ*)—the grāvas (pressing stones)
+- आ आंजन् (*ā āṃjan*)—press out the Soma juice
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, with you in view the pressing rite of the Soma juice has been performed. The very soft sacred-grass seat is spread widely. The hotṛ, who seeks your presence, praises you with hands raised and joined. For you the extended pressing stones press out the Soma juice.
+
+##### English translation
+(What is essential) for the copious effusion of (the sacrificial) food has been done for you : the very delicate sacred grass has been strewn ; the (priest with) uplifted hands desirous of your presence praises you ; the stones-express (the Soma juice), designing it for you.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वो वा॑म॒ग्निर॑ध्व॒रेष्व॑स्था॒त्परा॒तिरे॑ति जू॒र्णिनी॑ घृ॒ताची॑  
+> प्र होता॑ गू॒र्तम॑ना उरा॒णोऽयु॑क्त॒ यो नास॑त्या॒  ॑
+> हवीमन् ॥ ४ ॥
+
+### Printed p. 444
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वः । वां । अग्निः । अध्वरेषु । अस्थात् । प्र । रातिः । एति । जूर्णिनी । घृताची ।  
+> प्र । होता । गूर्तमनाः । उराणः । आयुक्त । यः । नासत्या । हवीमन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्वां युवयोर्यज्ञार्थमूर्धोऽस्थात् । उदतिष्ठत् । अध्वरेषु
+> यज्ञेषु प्रैति । समिद्ध आहवनीयं गच्छति च । रातिर्धनं हविर्जूर्णिनी प्रगामिनी ।
+> जूर्णिर्जवतेर्वा । नि. ६-४ । इति यास्केनोक्तत्वात् । धृताची धृतेनाक्ता ।
+> उपस्तीर्णाभिघारितेत्यर्थः । किंच होतोराण उरु कुर्वाणः प्र गूर्तमनाः
+> प्रकर्षणोद्युक्तमना भवति यो होता नासत्याश्विनौ हवीमन्नाह्वाने स्तोत्रे
+> वायुक्त योजयति ॥
+
+##### Gist of the bhāṣya
+
+For the sake of your sacrifice Agni has stood upright. In the sacrifices he goes forth: kindled, he goes to the Āhavanīya. The rāti, wealth, is the oblation, which is forward-moving; Sāyaṇa supports this by Yāska's words जूर्णिर्जवतेर्वा (*jūrṇirjavatervā*) (Ni. 6-4) **GLOSS**. Ghṛtācī means anointed with ghee, that is, sprinkled over what is spread. Moreover, the hotṛ who makes wide **NOTE** becomes one whose mind is set on exertion, the hotṛ who yokes the Nāsatyas, the Aśvins, to the invocation, to the praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- वां (*vāṃ*)—for your worship
+- ऊर्ध्वः (*ūrdhvaḥ*)—raised high
+- अस्थात् (*asthāt*)—stands blazing and shining
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- प्र एति (*pra eti*)—moves about, going round
+- धृताची (*dhṛtācī*)—sprinkled with ghee
+- रातिः (*rātiḥ*)—the oblation
+- जूर्णिनी (*jūrṇinī*)—flows swiftly
+- यः (*yaḥ*)—which hotṛ
+- नासत्या (*nāsatyā*)—the Aśvin deities
+- हवीमन् (*havīman*)—with praise in the form of an invocation
+- आयुक्त (*āyukta*)—yokes, such
+- होता (*hotā*)—the hotṛ
+- उराणः (*urāṇaḥ*)—is possessed of wide devotion
+- प्र गूर्तमनाः (*pra gūrtamanāḥ*)—and possessed of a mind intent on worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, for your worship Agni stands blazing in a raised place. He moves about, going round in all the sacrificial places. The oblation sprinkled with ghee flows swiftly. The hotṛ who yokes the Aśvin deities with praise in the form of an invocation is possessed of wide devotion and of a mind intent on worship.
+
+##### English translation
+Agni is above for you : he is present at (your) sacrifices : the oblation flows diffusive and redolent of ghi : diligent and zealous is the ministrant priest who is engaged, Nasatyas, in your invocation.
+
+### Printed p. 445
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधि॑ श्रि॒ये दु॑हि॒ता सूर्य॑स्य॒ रथं॑ तस्थौ पुरुभुजा श॒तोतिं॑ ।  
+> प्र मा॒याभि॑र्मायिना भूत॒मत्र॒ नरा॑ नृतू॒ जनि॑मन्य॒ज्ञिया॑नां ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । श्रिये । दुहिता । सूर्यस्य । रथं । तस्थौ । पुरुभुजा । शतऊतिं ।  
+> प्र । मायाभिः । मायिना । भूतं । अत्र । नरा । नृतू इति । जनिमन् । यज्जियानां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुभुजा हे पूर्णभुजौ बहूनां रक्षकौ वाश्विन् युवयोः शतोतिं
+> बहुरक्षकं बहुगमनं वा रथं सूर्यस्य दुहिता सूर्या श्रिये श्रयितुमधि तस्मै ।
+> अध्यतिष्ठत् । अपि च यज्ञियानां देवानामत्र जनिमन्नस्मिन् जन्मनि प्रादुर्भावे
+> मायाभिः प्रज्ञानैः । शची मायेति प्रज्ञानामसु पाठात् । मायिन् प्रज्ञावंतौ
+> नरा नेतारौ नृतू नृत्यंतौ भूतं । भवतं । यद्वा । हे मायिन् प्राज्ञा नरौ
+> नेतारौ नृतू नृत्यंतावश्विन् यज्ञियानां देवानामत्र जनिमन् जन्मनि प्रादुर्भावे
+> प्र भूतं प्राज्ञतमम्यादिकं देवं मायाभिः प्रज्ञानैः कौशलैर्वा जितवंतौ स्थ
+> इत्यर्थः । आयमर्थः प्रजापतिर्वै सोमाय राज्ञॆ दुहितरं प्रायच्छत्सूर्यां
+> सावित्रिं । ऐ. ब्रा. ४ ७ । इत्यादिना स्पष्टीकृतः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, protectors of many, Sūryā, the daughter of Sūrya, has mounted, for refuge, your chariot, which has many protections or many goings. Moreover, at this appearance of the gods worthy of sacrifice, you two, with māyās, that is, acts of wisdom, because शची मायेति प्रज्ञानामसु (*śacī māyeti prajñānāmasu*) is read among the names of wisdom, be wise, leaders, and dancers. Or else: O wise leaders, dancing Aśvins, at this appearance of the gods worthy of sacrifice you have surpassed by your māyās, that is, by wisdom or by skill, the god who is most wise.**NOTE** Sāyaṇa says this sense is made clear by the passage beginning प्रजापतिर्वै सोमाय राज्ञॆ दुहितरं प्रायच्छत्सूर्यां सावित्रिं । (*prajāpatirvai somāya rājñè duhitaraṃ prāyacchatsūryāṃ sāvitriṃ |*) (Ai. Brā. 4 7) **GLOSS**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुभुजा (*purubhujā*)—O Aśvin deities, who are protectors of many
+- शतोतिं (*śatotiṃ*)—which protects hundreds of devotees
+- रथं (*rathaṃ*)—your chariot
+- सूर्यस्य (*sūryasya*)—of Sūrya
+- दुहिता (*duhitā*)—the daughter, the goddess Sūryā
+- श्रिये (*śriye*)—taking refuge in you
+- अधि तस्थौ (*adhi tasthau*)—has mounted and sits
+- मायिना (*māyinā*)—O Aśvin deities, endowed with wisdom
+- नरा (*narā*)—and leaders
+- अत्र जनिमन् (*atra janiman*)—manifested in this sacrifice
+- यज्ञियानां (*yajñiyānāṃ*)—among the gods worthy of worship
+- मायाभिः (*māyābhiḥ*)—by your wisdom
+- नृतू (*nṛtū*)—you yourselves, possessed of exceeding skill**NOTE**
+- प्र (*pra*)—and supreme
+- भूतं (*bhūtaṃ*)—being
+
+### Printed p. 446
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, protectors of many, Sūryā, the daughter of Sūrya, taking refuge in you, has mounted and sits in your chariot, which protects hundreds of devotees. O Aśvin deities, endowed with wisdom and leaders, among the gods worthy of worship who are manifested in this sacrifice, be, by your wisdom, you yourselves possessed of exceeding skill and supreme.
+
+##### English translation
+Protectors of many the daughter of Surya ascended your chariot, the defence of hundreds, for refuge : sagacious leaders and guides, you have excelled by your devices (all others) at this appearance of the adorable (deities).
+
+##### विशेषविषयगळु (Special Topics)
+
+For a detailed explanation of the matter of Sūrya's daughter having mounted the chariot of the Aśvin deities, see Ṛ. Saṃ. Part 9, pp. 365 and 471.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं श्री॒भिर्द॑र्श॒ताभि॑रा॒भिः शु॒भे पु॒ष्टिमू॑हथुः सू॒र्यायाः॑ ।  
+> प्र वां॒ वयो॒ वपु॒षेऽनु॑ पप्त॒न्नक्ष॒द्वाणी॒ सुष्टु॑ता धिष्ण्या  
+> वां ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । श्रीभिः । दर्शताभिः । अभिः । शुभे । पुष्टिं । ऊहथ । सूर्यायाः ।  
+> प्र । वां । वयः । वपुषे । अनु । पप्तन । नक्षत् । वाणी । सुस्तुता । धिष्ण्या । वां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवं युवां दर्शताभिर्दर्शनीयाभिराभिः श्रीमतां परिदृश्यमानाभिः श्रीभिर्लक्ष्मीभिः कांतिभिर्वा सूर्याया युवयोः पत्न्याः शुभे
+> शोभनार्थं पुष्टिं पूर्तिमूहथुः । ग्रापयथः । किंच वां युवां वयोऽश्वा
+> वपुषे शोभाय्कॆ प्रानु पप्तन् । प्रकर्षणान्वपतन् । अपि च हे धिष्ण्या स्तुत्यर्हावश्विन् वां युवां सुष्टुता वाण्यषीणां स्तुतिर्नक्षत् । व्याप्न्नोति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you two have brought to Sūryā, your wife, for beauty, fullness, by these beautiful, splendid lustres of fortune, or by radiances. Moreover, your horses have flown forward for splendour. And, O Aśvins, worthy of praise, the well-made praise of the seers has reached you.
+
+### Printed p. 447
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवं (*yuvaṃ*)—(O Aśvin deities) you both
+- दर्शताभिः (*darśatābhiḥ*)—attractive
+- अभिः श्रीभिः (*abhiḥ śrībhiḥ*)—with these splendours
+- सूर्यायाः (*sūryāyāḥ*)—to the goddess Sūryā
+- शुभे (*śubhe*)—for auspiciousness
+- पुष्टिं (*puṣṭiṃ*)—fullness
+- ऊहथुः (*ūhathuḥ*)—you have caused to be obtained
+- वां (*vāṃ*)—your
+- वयः (*vayaḥ*)—horses
+- वपुषे (*vapuṣe*)—for splendour
+- प्र अनु पप्तन (*pra anu paptana*)—run hither exceedingly
+- धिष्ण्या (*dhiṣṇyā*)—O Aśvin deities, worthy of praise
+- वां (*vāṃ*)—directed to you
+- सुष्टुता (*suṣṭutā*)—in the form of praise
+- वाणी (*vāṇī*)—the speech of the seers
+- नक्षत् (*nakṣat*)—reaches you
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you both have caused to be obtained for the goddess Sūryā, with these attractive splendours, fullness for her auspiciousness. Your horses run hither, for splendour and exceedingly. O Aśvin deities, worthy of praise, the speech of the seers, directed to you and in the form of praise, reaches you.
+
+##### English translation
+You have provided with these beautiful splendours, gratification for the enjoyment of Surya, your horses have descended for felicity, deserving of praise, the laudation (of the sages) has reached you glorified.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ वयोऽश्वा॑सो॒ वहि॑ष्ठा अ॒भि प्रयो॑ नासत्या वहंतु  
+> प्र वां॒ रथो॒ मनो॑जवा असर्जि॒षः पृ॒क्ष इ॒षिधो॒ अनु॑  ॒
+> पूर्विः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । वयः । अश्वासः । वहिष्टाः । अभि । प्रयः । नासत्या । वहंतु ।  
+> प्र । वां । रथः । मनःजवाः । असर्जि । इषः । पृक्षः । इषिधः । अनु । पूर्विः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्यौ वां युवां वयो गंतारो वहिष्ठा वोढृतमा अश्वासोऽश्वाः
+> प्रयः सोमरूपमन्नमभ्या वहंतु । प्रापयंतु । वां युवयोर्मनोजवा
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, let your horses, the best bearers, who are goers, bring to us the food in the form of Soma; let them convey it. Your chariot, swift as the mind.
+
 ---
 
-**Progress note:** Done through printed p. 440. Ṛ. 62.8-11 and start of 63 (Kva tyā), pp. 435-440
+**Progress note:** Done through printed p. 447. Ṛ. 63.1-7 (Kva tyā), pp. 441-447
