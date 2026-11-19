@@ -27711,6 +27711,194 @@ This he has said. The particle न (*na*) has two kinds of meaning and use. In t
 > मर्याः इव । सुवृधः । ववृधुः । नरः । सूर्यस्य । चक्षुः । प्र । मिनंति ।  
 > वृष्टिभिः ॥ ५ ॥
 
+### Printed p. 772
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत एतेऽश्वा इव शीघ्रगंतारोऽरुषास अरोचमानाः सबंधवः ।
+> समान एक एव बंधुर्बंधको रुद्रो येषां ते तादृशाः । परस्परं बंधवः
+> स्नेहयुक्ता वा शूरा भटा इव प्रयुधः प्रयोद्धारो वैरिभिः सह तादृश उतापि
+> च प्र युयुधुः । प्रकर्षेण युध्यंते । मर्या इव मनुष्या यथा वर्धंते
+> तथा सुवृधः सुष्टु वर्धयितारो वर्धमाना वा नरो नेतारो ववृधुः ।
+> वर्धंते । एवं महात्मानः सूर्यस्य चक्षुस्तेजःसमूहं मंडलं वा वृष्टिभिः
+> प्र मिनंति । प्रकर्षेण हिंसंति। आवृण्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+These Maruts are swift in going like horses, and shining. They are सबंधवः (*sabaṃdhavaḥ*): the one common kinsman, the binder, of whom Rudra is, is theirs; or they are kinsmen to one another, full of affection. Like warriors, brave fighters, they fight strenuously with their enemies. As mortals grow, so these leaders, who are good promoters of growth or are themselves growing, grow. So, being great, they with their showers vanquish, that is, cover, the eye of the sun, meaning the mass of his light or his orb.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वा इव (*aśvā iva*)—like excellent horses
+- अरुषासः (*aruṣāsaḥ*)—those of attractive colour and gait
+- सबंधवः (*sabaṃdhavaḥ*)—those who have equal affection for one another
+- शूरा इव (*śūrā iva*)—like excellent heroic warriors
+- प्रायुधः (*prāyudhaḥ*)**NOTE**—the Maruts, skilled in battle
+- प्र युयुधुः (*pra yuyudhuḥ*)—fight exceedingly with enemies
+- मर्या इव (*maryā iva*)—like human beings
+- सुवृधः (*suvṛdhaḥ*)—those who have attained fullness
+- नरः (*naraḥ*)—the Maruts, who are leaders
+- ववृधुः (*vavṛdhuḥ*)—attain increase
+- सूरस्य (*sūrasya*)—of the sun
+- चक्षुः (*cakṣuḥ*)—the eye (the orb)
+- वृष्टिभिः (*vṛṣṭibhiḥ*)—with showers
+- प्र मिनंति (*pra minaṃti*)—cause to be covered
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who like excellent horses are of attractive colour and gait, who have equal affection for one another, and who like excellent heroic warriors are skilled in battle, fight exceedingly with their enemies. Like human beings they have attained fullness, and as leaders they increase. They cause the sun's orb of splendour to be hidden by showers.
+
+##### English translation
+Resplendent as steeds, of one kindred, they engage in combat like valiant heroes : like (prosperous) men, they, the leaders (of rites), have increased (in power), and cover the eye of the sun with showers.
+
+##### विशेषविषयगळु (Special Topics)
+
+अश्वा इव-शीघ्रगंतारः (*aśvā iva-śīghragaṃtāraḥ*) Since the speed of the Marut deities is exceedingly great, they are compared to horses of swift gait. शूरा इव प्रायुधः (*śūrā iva prāyudhaḥ*) Like warriors skilled in battle, the Marut deities, skilled in the work of war, fight exceedingly with their enemies. Here "enemies" means
+### Printed p. 773
+the clouds. Scattering the clouds by their impetuous motion, they make them rain. At the time of rain there are lightning, thunderbolt and thunder. These are the roars that warriors make in battle. This is described here as the war that the Marut deities wage with their enemies.
+
+सबंधवः—समान एक एव बंधुर्बंधको रुद्रो येषां ते तादृशाः । परस्परं बंधवः स्नेहयुक्ता वा । (*sabaṃdhavaḥ—samāna eka eva baṃdhurbaṃdhako rudro yeṣāṃ te tādṛśāḥ | parasparaṃ baṃdhavaḥ snehayuktā vā |*) Since Rudra is the father of every one of these Maruts, they are bound to one another by the tie of brotherhood: this is the meaning. In this kind of relationship there is equality; that is, there is not, as in the relation of father and son, the difference that the father is superior and the son inferior. The meaning is that among the Marut deities there are no distinctions of high and low, one greater and another lesser, but all stand in one and the same relationship. Or it may be said that they are friendly to one another, free from hatred and envy: thus two explanations of the meaning have been given.
+
+सूरस्य चक्षुः वृष्टिभिः प्र मिनंति—सूरस्य तेजस्समूहं मंडलं वा प्रकर्षण हिंसंति आवृण्वंतीत्यर्थः । (*sūrasya cakṣuḥ vṛṣṭibhiḥ pra minaṃti—sūrasya tejassamūhaṃ maṃḍalaṃ vā prakarṣaṇa hiṃsaṃti āvṛṇvaṃtītyarthaḥ |*) By their acts in the form of rain these Marut deities injure the light of the sun or the orb of the sun, that is, they cover it so that the sun is not seen. The meaning is that, since at the time of rain the atmosphere is covered with clouds, the orb of the sun is seen by no one.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते अ॑ज्ये॒षा आक॑निष्ठास उ॒द्दिदोऽम॑ध्यमासो॒ मह॑सा॒ वि  ॑
+> वावृधुः ।  
+> सु॒जा॒तासो॑ ज॒नुषा॒ पृश्नि॑मातरो दि॒वो मर्या॒ आ नो॒ ॑ 
+> अच्छा जिगातन ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । अज्येषाः । अकनिष्ठासः । उत्भिदः । अमध्यमासः । महसा । वि । ववृधुः ।
+
+### Printed p. 774
+
+> सुजातासः । जनुषा । पृश्निमातरः । दिवः । मर्याः । आ । नः । अच्छ । जिगातन ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते मरुतोऽज्येष्णा अकनिष्ठासोऽकनिष्ठा उद्भिद उद्भेदयितारः शत्रूणाममध्यमासोऽमध्यमाः सर्वप्रकारैः समा महसा तेजसा वि । ववृधुः विवर्धंते । सुजातासः सुष्टु संभूता जनुषा जन्मना पृश्निमातरः पृश्नेः पुत्रा
+> मर्या मनुष्येभ्यो हिता यूयं दिवः सकाशान्नोऽस्मानच्छाभिमुखमा जिगातन।
+> सर्वतः प्रशंसत साध्वनुष्ठितमिति । उत्तरार्धः प्रत्यक्षकृतः । यद्वा । ये सुजाता
+> जनुषा पृश्निमातरश्च तान् दिव आगतान् हे ऋत्विजो मर्या यूयमा
+> जिगातन आगच्छत ते नोऽच्छ । आगच्छतास्मदभिमुखं ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts are not eldest, not youngest, breakers-forth against their enemies, not middle ones: in every way equal, they grow by their splendour. They are well born by birth, sons of Pṛśni, beneficial to mortals; you come to us from heaven, turned towards us. **NOTE** Or else: those who are well born by birth and sons of Pṛśni, those who have come from heaven, O priests, you mortals, come to them; that is, come towards us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—those same Maruts
+- अज्येष्णाः (*ajyeṣṇāḥ*)—though none is older than another
+- अकनिष्ठासः (*akaniṣṭhāsaḥ*)—though none is younger than another
+- अमध्यमासः (*amadhyamāsaḥ*)—holding no middle position
+- उद्भिदः (*udbhidaḥ*)—(all, with equal strength) destroyers of enemies
+- महसा (*mahasā*)—by their own individual splendour
+- वि ववृधुः (*vi vavṛdhuḥ*)—have grown
+- जनुषा (*januṣā*)—by nature
+- सुजातासः (*sujātāsaḥ*)—those of excellent birth
+- पृश्निमातरः (*pṛśnimātaraḥ*)—those who have Pṛśni for their mother
+- मर्याः (*maryāḥ*)—O Maruts, beneficial to human beings
+- दिवः (*divaḥ*)—from the atmosphere
+- नः अच्छ (*naḥ accha*)—towards us
+- आ जिगातन (*ā jigātana*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+Among the Maruts none is greater than another, none is smaller than another, and none of them has taken a middle position. All are destroyers of enemies by equal strength, and have grown by their own individual splendour. O Maruts, of excellent birth by nature, having Pṛśni for mother, beneficial to human beings, come to us from the atmosphere.
+
+##### English translation
+None of them are older, none younger (than the others) : the destroyers of (foes), none hold a middle (rank), but all excel in glory : honourable by birth, having Prisni for your mother, you, Maruts, favourable to man, come from heaven to our presence.
+### Printed p. 775
+
+##### विशेषविषयगळु (Special Topics)
+
+In ordinary usage, when speaking of brothers, it is the custom to call the one born first the eldest, the one born after him the middle one, and the one born after him the youngest. Thus many differences in age, in qualities and in strength and capacity are commonly seen in the world among those who are brothers. But with the Marut deities it is not so. Since Rudra is father and Pṛśni is mother of them all, they are all related as brothers. Even so, since they were all born at the same time, there is among them no distinction that one is eldest, another middle and another youngest. All are of the same age, of the same qualities, of the same form and appearance. All grow in one and the same manner: this is the common nature of the Marut deities, and it is clearly set forth in this Ṛk. The seer prays that such Marut deities may come towards us.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वयो॒ न ये श्रेणीः॑ प॒पुरोज॒सांता॑न्दि॒वो बृ॑ह॒तः  ॒॑॑
+> सानु॑न॒स्परि॑ ।  
+> अश्वा॑स एषामु॒भये॒ यथा॑ वि॒दुः प्र पर्व॑तस्य नभ॒नूर॑चुच्यवुः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयः । न । ये । श्रेणीः । पपुः । ओजसा । अंतान् । दिवः । बृहतः । सानुनः ।  
+> परि ।  
+> अश्वासः । एषां । उभये । यथा । विदुः । प्र । पर्वतस्य । नभनून् । अचुच्यवुः॥
+
+### Printed p. 776
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो वयो न दक्षिण इव श्रेणीः पंक्तयः संत ओजसा बलेन
+> दिवोंतरिक्षस्यादित्यस्य वांतान् पर्यंतान् बृहतो महतः सानुनः समुन्नतस्याकाशवलयस्य परि परितः पपुः पतंति एषामश्वासोऽश्वाः पर्वतस्य मेघस्य
+> नभनून् ॥ भनतेः शब्दकर्मणो नभ्राडितिवत् नभनवः ॥ उदकानि प्राचुच्यवुः ।
+> च्यावयंति । उभये देवा मनुष्याश्च यथा विदुर्जानंति तथा । मनुष्याणां
+> ज्ञानं प्रसिद्धं । देवाश्च वृष्टौ सत्यामाग्रायणादौ हविस्पदानेन जानंति ।
+> देवानां वृष्टिसंपूर्तिपरिज्ञानमाश्वलायनेनोक्तं । यदा वर्षस्य तृप्तः
+> स्यादथाग्रयणेन यजेतेत्युपक्रम्यापि हि देवा आहुस्तृप्तो नूनं वर्षस्याग्रयणेन हि यजते । आ. २. ९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, in rows like birds **NOTE**, fly with their strength all round the ends of heaven, that is, of the atmosphere or of the sun, and of the great, swelling circle of the sky. Their horses make the नभनून् (*nabhanūn*) of the cloud fall: this word is derived from the root meaning "to sound", as in नभ्राडितिवत् (*nabhrāḍitivat*), and means waters. As both gods and men know it: men's knowledge is well known, and the gods know of the rain from the offering of oblations at the Āgrayaṇa and similar rites. The gods' knowledge of the completion of the rain is stated by Āśvalāyana (Ā. 2. 9): beginning with "when one is satisfied with the rain, then one should sacrifice with the Āgrayaṇa", he continues that the gods too say, "surely he is satisfied with the rain, for he sacrifices with the Āgrayaṇa".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those same Maruts who
+- वयो न (*vayo na*)—like birds
+- श्रेणीः (*śreṇīḥ*)—forming rows
+- ओजसा (*ojasā*)—by their strength
+- बृहतः (*bṛhataḥ*)—of the great
+- सानुनः (*sānunaḥ*)—of the summit of the sky
+- परि (*pari*)—lying all round
+- दिवः (*divaḥ*)—of the atmosphere
+- अंतान् (*aṃtān*)—in all the border regions
+- पप्तुः (*paptuḥ*)—move about
+- एषां (*eṣāṃ*)—of these Maruts
+- अश्वासः (*aśvāsaḥ*)—the horses
+- पर्वतस्य (*parvatasya*)—of the cloud
+- नभनून् (*nabhanūn*)—the waters
+- उभये (*ubhaye*)—both gods and men together
+- यथा विदुः (*yathā viduḥ*)—as they know
+- प्र अचुच्यवुः (*pra acucyavuḥ*)—pour down
+
+##### भावार्थ (Bhāvārtha)
+
+Those same Maruts, forming rows like birds, move by their strength through all the border regions of the atmosphere lying round the great circle of the sky. The horses of these Maruts pour down the waters of the cloud, as both gods and men know.
+
+##### English translation
+Like birds (that fly) in rows they pass along in their strength above the vast summit (of the sky) to the ends of the firmament : their horses have caused the waters of the cloud to descend, as both (gods and mortals) know.
+
+##### विशेषविषयगळु (Special Topics)
+
+वयो न (*vayo na*) Concerning the movement of the Marut deities in the atmosphere the seer gives the illustration of birds. As birds of one kind fly in the atmosphere gathered together in row after row,
+### Printed p. 777
+so the Maruts, who have the same nature, also move in the highest regions of the atmosphere gathered together in rows: thus it is described.
+
+उभये यथा (*ubhaye yathā*) It is said here that both gods and men know that these Marut deities pour down rain. That men who are on the earth know the pouring of rain is natural. But as to how this becomes known to the gods, who dwell in heaven, it is said that they know it from the oblation that sacrificing sacrificers offer to the gods in the Āgrayaṇa and other Iṣṭis. On this subject the great sage Āśvalāyana has spoken thus:
+देवानां वृष्टिसंपूर्तिपरिज्ञानमाश्वलायनेनोक्तं—यदा वर्षस्य तृप्तः स्यादथाग्रयणेन यजेतेत्युपक्रम्यापि हि देवा आहुस्तृप्तो नूनं वर्षस्याग्रयणेन यजते । (*devānāṃ vṛṣṭisaṃpūrtiparijñānamāśvalāyanenoktaṃ—yadā varṣasya tṛptaḥ syādathāgrayaṇena yajetetyupakramyāpi hi devā āhustṛpto nūnaṃ varṣasyāgrayaṇena yajate |*) (A. 2.9)**NOTE**
+How the gods come to know of the rain is this: after the rain has fallen abundantly, it is the custom for the sacrificer who performs a sacrifice to perform the Iṣṭi called Āgrayaṇa and to offer in it oblations and the like for the gratification of the gods. By this the gods are gratified. Therefore it is explained here that the gods come to know of the pouring of rain that has taken place on the earth through the offering of oblations in the Āgrayaṇa Iṣṭi that the sacrificers perform.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मिमा॑तु॒ द्यौरदि॑तिर्वी॒तये॑ नः॒ सं दानु॑चित्रा उ॒षसो॑  
+> यतंतां ।  
+> आ चु॑च्यवुर्दि॒व्यं कोश॑मे॒त ऋषे॑ रु॒द्रस्य॑ म॒रुतो॑ गृणा॒नाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मिमातु । द्यौः । अदितिः । वीतये । नः । सं । दानुचित्राः । उषसः । यतंतां ।  
+> आ । अचुच्यवुः । दिव्यं । कोशं । एते । ऋषे । रुद्रस्य । मरुतः । गृणानाः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 771. Sukta 59 Rk 3-5 (Marut hymn), pp. 766-771
+**Progress note:** Done through printed p. 777. Sukta 59 Rk 5-8, pp. 772-777
