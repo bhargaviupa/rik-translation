@@ -9782,6 +9782,236 @@ O dundubhi, आ क्रंदय (*ā kraṃdaya*): urge on our enemies. Give 
 - मुष्टिः असि (*muṣṭiḥ asi*)—you are of the form of a fist
 - वीळयस्व (*vīḷayasva*)—(therefore) make us strong
 
+### Printed p. 225
+
+##### भावार्थ (Bhāvārtha)
+
+O dundubhi, make our enemies weep. Provide strength in the form of an army, and for our body power of its own. Harassing the enemies of sinful mind, make a loud sound. Drive far from this place the armies of enemies that cause us sorrow. O dundubhi, you are of the form of a fist for Indra. Therefore make us strong.
+
+##### English translation
+Sound loud against the (hostile) host : animate our prowess: thunder aloud, terrifying the evil-minded : repel, drum, those whose delight it is to harm us : you are the fist of Indra; inspire us with fierceness.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आमूर॑ज प्र॒त्याव॑र्तये॒माः के॑तु॒मद्दुं॑दु॒भिर्वा॑वदीति ।  
+> समश्व॑पर्णा॒श्चरं॑ति नो॒ नरो॒ऽस्माक॑मिंद्र र॒थिनो॑ जयंतु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अमूः । अज । प्रतिआवर्तय । इमाः । केतुमत् । दुंदुभिः । नावदीति ।  
+> सं । अश्वपर्णाः । चरंति । नः । नरः । अस्माकं । इंद्र । रथिनः । जयंतु ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याः पूर्वार्धो दुंदुभिदेवत्य उत्तरार्धश्चैंद्रः । यद्वा । उभावप्यर्धर्चावैंद्रौ । हे इंद्र अमूः शत्रुषु स्थितास्ता गा आज । आस्मान्प्रत्यागमय ।
+> इमा अस्मदीया गाः शत्रुभिर्जिघृक्षिताः प्रत्यावर्तय । प्रतिनिवर्तय । अयं च
+> दुंदुभिः केतुमत् प्रज्ञानवत् यथा सर्वैर्ज्ञायते तथा वावदीति । भृशं शब्दं
+> करोति । अश्वपर्णा अश्वपतना अश्ववाहाश्च नोऽस्मदीयाश्च नरः पुरुषाः सं चरंति ।
+> शत्रुभिर्युध्यमाना वर्तंते । तथा सति हे इंद्र अस्माकं रथिनो रथारूढाः
+> पुरषाः शत्रून् जयंतु ॥
+> XXI 15
+
+##### Gist of the bhāṣya
+
+The first half of this Ṛk has the drum (dundubhi) as deity and the latter half is addressed to Indra. Or else both half-verses are addressed to Indra. O Indra, bring to us (आज (*āja*)) those cows of ours that stand among the enemies; make them come to us. Turn back (प्रत्यावर्तय (*pratyāvartaya*)) these cows of ours that the enemies wish to seize; make them return. And this dundubhi sounds loudly (वावदीति (*vāvadīti*): it makes a mighty sound), केतुमत् (*ketumat*), that is, so as to be known to all. Our men, अश्वपर्णा (*aśvaparṇā*), those who go with horses and who ride horses, move about together (सं चरंति (*saṃ caraṃti*)); they are engaged in fighting with the enemies. That being so, O Indra, may our men who are mounted on chariots conquer the enemies.
+
+### Printed p. 226
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अमूः (*amūḥ*)—our cows that are among the enemies
+- आ अज (*ā aja*)—make them come and join us
+- इमाः (*imāḥ*)—these very cows of ours
+- प्रत्यावर्तय (*pratyāvartaya*)—turn them back to us
+- दुंदुभिः (*duṃdubhiḥ*)—this instrument of war
+- केतुमत् (*ketumat*)—so as to come to the notice of all
+- वावदीति (*vāvadīti*)—makes a sound
+- अश्वपर्णाः (*aśvaparṇāḥ*)—mounted on horses
+- नः (*naḥ*)—and belonging to us
+- नरः (*naraḥ*)—men
+- सं चरंति (*saṃ caraṃti*)—are moving about on the battlefield
+- अस्माकं (*asmākaṃ*)—belonging to us
+- रथिनः (*rathinaḥ*)—men mounted on chariots
+- जयंतु (*jayaṃtu*)—may they conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, make our cows that are among the enemies come and join us. Turn back to us these very cows of ours. This war-dundubhi also sounds so that all may know it. Our warriors, mounted on horses and on chariots, are moving about on the battlefield. May all of them be victorious over the enemies.
+
+##### English translation
+Recover these our cattle, Indra ; bring them back : the drum sounds repeatedly as a signal : our leaders, mounted on their steeds, assemble : may our warriors, riding in their cars, Indra, be victorious.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये चतुर्थाष्टके सप्तमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye caturthāṣṭake saptamo 'dhyāyaḥ samāptaḥ ‖*) ओं तत्त्वत् (*oṃ tattvat*) **GLOSS**
+
+Here ends the seventh adhyāya, in the fourth aṣṭaka of the Ṛgveda-saṃhitā, which has the Sāyaṇa-bhāṣya and a translation in the Kannada language.
+
+यदक्षरपदभ्रष्टं मात्रहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrahīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS** शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळ (*maṃgaḷa*)
+
+ओं (*oṃ*) श्रीः (*śrīḥ*) श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदाध्यायिया सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyiyā sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+The Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya (with the explanation of the translation of the meaning in the Kannada language).
+
+चतुर्थाष्टके अष्टमोऽध्यायः (*caturthāṣṭake aṣṭamo 'dhyāyaḥ*)
+
+The eighth adhyāya in the fourth aṣṭaka. The forty-eighth sūkta of the sixth maṇḍala.
+
+## Sūkta 48 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथाष्टमाध्याय आरभ्यते । षष्ठमंडलस्य चतुर्थेऽनुवाके चत्वारि सूक्तानि
+> व्याख्यातानि । यज्ञायज्ञेति द्वाविंशत्यृचं पंचमं सूक्तं बृहस्पतिपुत्रस्य
+> शंयोरार्षं अत्रानुक्रम्यते । यज्ञायज्ञा द्वैधिका शंयुस्तृणपाणिकं
+> प्रश्निसूक्तं प्रगाथौ बृहती महासतोबृहती महाबार्हतबार्हतौ प्रगाथावित्याग्नेय्यः काकुभः प्रगाथः पुरउष्णिग्बृहत्यतिजगतीति मारुत्योऽंत्यास्तिस्रो वासां
+> लिंगोक्तदेवताः काकुभः प्रगाथः पुरउष्णिग्बृहतीति पौष्टो बृहती महाबृहती
+> यवमध्यांत्यानुष्टुब्दावाभूम्योर्वा पृश्नेर्वेति । यज्ञायज्ञा व इत्येषा
+
+##### Gist of the bhāṣya
+
+Now the eighth adhyāya begins. In the fourth anuvāka of the sixth maṇḍala four sūktas have been explained. Here is set out the fifth sūkta, beginning यज्ञायज्ञेति (*yajñāyajñeti*), of twenty-two Ṛks, whose seer is Śaṃyu, son of Bṛhaspati. The Anukramaṇī says: यज्ञायज्ञा द्वैधिका शंयुस्तृणपाणिकं प्रश्निसूक्तं प्रगाथौ बृहती महासतोबृहती महाबार्हतबार्हतौ प्रगाथावित्याग्नेय्यः काकुभः प्रगाथः पुरउष्णिग्बृहत्यतिजगतीति मारुत्योऽंत्यास्तिस्रो वासां लिंगोक्तदेवताः काकुभः प्रगाथः पुरउष्णिग्बृहतीति पौष्टो बृहती महाबृहती यवमध्यांत्यानुष्टुब्दावाभूम्योर्वा पृश्नेर्वेति । (*yajñāyajñā dvaidhikā śaṃyustṛṇapāṇikaṃ praśnisūktaṃ pragāthau bṛhatī mahāsatobṛhatī mahābārhatabārhatau pragāthāvityāgneyyaḥ kākubhaḥ pragāthaḥ purauṣṇigbṛhatyatijagatīti mārutyo 'ṃtyāstisro vāsāṃ liṃgoktadevatāḥ kākubhaḥ pragāthaḥ purauṣṇigbṛhatīti pauṣṭo bṛhatī mahābṛhatī yavamadhyāṃtyānuṣṭubdāvābhūmyorvā pṛśnerveti |*).**NOTE** Of these, the Ṛk यज्ञायज्ञा व (*yajñāyajñā va*) is a bṛhatī, since the mark of that metre is present: the third pāda has twelve syllables.
+
+### Printed p. 228
+
+> बृहती । तृतीयो द्वादशक इति तल्लक्षणसद्भावात् । द्वितीया सतोबृहती । आयुजौ
+> जागतौ सतोबृहतीत्युक्तलक्षणोपेतत्वात् । तृतीयाचतुर्थि बृहतीसतोबृहत्यौ
+> पंचमी बृहती षष्ठी महासतोबृहती । अष्टाक्षरास्त्रयः पादा द्वादशाक्षरा द्यौ
+> पादौ सा महासतोबृहती । सप्तमी महाबृहती । अष्टाक्षराश्चत्वारः पादा एको
+> द्वादशाक्षरः सा महाबृहती । अष्टमी महासतोबृहती । अष्टिनस्त्रयो द्यौ जागतौ
+> सा महासतो बृहती । नवमी बृहती दशमी सतोबृहती । एता दशाग्नि देवत्याः ।
+> एकादशी ककुप् । मध्यमो यदि द्वादशाक्षर उभयतोऽष्टकौ द्यौ पादौ सा ककुप् ।
+> द्वादशी सतोबृहती त्रयोदशी पुरउष्णिक् । आद्यो जागतो द्वितीयतृतीयौ
+> गायत्रौ सा पुरउष्णिक् । चतुर्दशी बृहती पंचदश्यतिजगती द्वापंचाशदक्षरा ।
+> एकादश्याद्याः पंच मरुद्देवताकाः । त्रयोदश्यादीनां तिसृणां लिंगोक्ता
+> इंद्रादयो ना देवताः । षोडशी ककुप् सप्तदशी सतोबृहत्यष्टादशी पुरउष्णिगेकोनविंशी बृहती । षोडश्यादीनां चतसृणां पूषा देवता । विंशी बृहत्येकविंशी
+> यवमध्या महाबृहती । आद्यौ द्वावष्टकौ तृतीयो द्वादशकश्चतुर्थपंचमावष्टकौ
+> सा यवमध्या महाबृहती । विंशैकविंश्योः पृश्नि सूक्तमित्युक्तत्वान्रुतां माता
+> पृश्निर्देवता । द्वाविंश्यनुष्टुप् । स चापि पृश्नादेवत्या द्यावाभूमिदेवत्या वा ॥
+> सूक्तविनियोगो लैंगिकः । अग्नि मारुते यज्ञायज्ञाव इत्ययं स्तोत्रियप्रगाथः ।
+> सूत्रितं च । यज्ञायज्ञा वो अग्नये देवो वो द्रविणोदा इति प्रगाथौ
+> स्तोत्रियानुरूपौ ॥ आ. ५-२० । इति ॥
+
+##### Gist of the bhāṣya
+
+The second Ṛk is a satobṛhatī, since it has the stated mark: its odd pādas (आयुजौ (*āyujau*)) are of the jagatī kind. The third and fourth are a bṛhatī and a satobṛhatī, the fifth a bṛhatī. The sixth is a mahāsatobṛhatī: three pādas of eight syllables and two of twelve. The seventh is a mahābṛhatī: four pādas of eight syllables and one of twelve. The eighth is a mahāsatobṛhatī: three of eight syllables and two of the jagatī kind. The ninth is a bṛhatī and the tenth a satobṛhatī. These ten are addressed to Agni. The eleventh is a kakubh: if the middle pāda has twelve syllables and the two pādas on either side eight. The twelfth is a satobṛhatī; the thirteenth a puraūṣṇih: the first pāda of the jagatī kind, the second and third of the gāyatrī kind. The fourteenth is a bṛhatī; the fifteenth an atijagatī of fifty-two syllables. The five Ṛks from the eleventh on have the Maruts as deity. For the three from the thirteenth on the deities are those stated by the indication, Indra and the others.**NOTE** The sixteenth is a kakubh, the seventeenth a satobṛhatī, the eighteenth a puraūṣṇih, the nineteenth a bṛhatī; for these four from the sixteenth on Pūṣan is the deity. The twentieth is a bṛhatī; the twenty-first a yavamadhyā mahābṛhatī: the first two pādas of eight syllables, the third of twelve, the fourth and fifth of eight. Because the twentieth and twenty-first are called a Pṛśni sūkta, Pṛśni, the mother of the Maruts, is their deity. The twenty-second is an anuṣṭubh, and it too is addressed to Pṛśni or to Heaven and Earth. The application of the sūkta is by indication: at the Agnimāruta this pragātha beginning यज्ञायज्ञाव (*yajñāyajñāva*) is the stotriya pragātha. This is laid down in the sūtra: the two pragāthas, stotriya and anurūpa (Ā. Sū. 5-20).
+
+##### Anuvāda
+
+Since the explanation of the seventh adhyāya of the fourth aṣṭaka in the Ṛgveda-saṃhitā has ended, we now begin the explanation of the eighth adhyāya. The four sūktas of the fourth anuvāka of the sixth maṇḍala were explained in the previous adhyāya. The sūkta beginning यज्ञायज्ञा (*yajñāyajñā*) is the fifth sūkta in the fourth anuvāka. It has twenty-two Ṛks. The seer of this sūkta is Śaṃyu, the son of Bṛhaspati. In the Anukramaṇī it is said: यज्ञायज्ञा द्व्यधिका शंयुस्तृणपाणिकं प्रश्निसूक्तं प्रगाथौ बृहती महासतोबृहती महाबार्हतबार्हतौ प्रगाथावित्याग्नेय्यः काकुभः प्रगाथः पुरउष्णिग्रहत्यतिजगतीति मारुत्योऽन्तास्तिस्रो वासां लिंगोक्तदेवताः काकुभः प्रगाथः पुरउष्णिग्रहतीति पौष्ठो बृहती महाबृहती यवमध्यांत्यानुष्टुप् द्यावाभूम्योर्वा पृश्नेर्वा (*yajñāyajñā dvyadhikā śaṃyustṛṇapāṇikaṃ praśnisūktaṃ pragāthau bṛhatī mahāsatobṛhatī mahābārhatabārhatau pragāthāvityāgneyyaḥ kākubhaḥ pragāthaḥ purauṣṇigrahatyatijagatīti mārutyo 'ntāstisro vāsāṃ liṃgoktadevatāḥ kākubhaḥ pragāthaḥ purauṣṇigrahatīti pauṣṭho bṛhatī mahābṛhatī yavamadhyāṃtyānuṣṭup dyāvābhūmyorvā pṛśnervā*). The first Ṛk of this sūkta, यज्ञायज्ञा वः (*yajñāyajñā vaḥ*), is of the bṛhatī metre. If the third pāda has twelve syllables and the remaining pādas eight each, that metre is called bṛhatī. If in a Ṛk there are five
+
+### Printed p. 229
+pādas, of which four pādas have eight syllables each and the remaining one pāda twelve syllables, it is called mahābṛhatī. The eighth Ṛk of this sūkta is of the mahāsatobṛhatī metre. If in a Ṛk there are five pādas, of which three pādas have eight syllables each and the remaining two pādas twelve each, it is called mahāsatobṛhatī. The ninth Ṛk is of the bṛhatī metre. The tenth Ṛk is of the satobṛhatī metre. The first ten Ṛks of this sūkta have Agni as deity. The eleventh Ṛk is of the kakubh metre. If in a Ṛk there are three pādas, of which the first and the last have eight syllables each and the middle one twelve, it is called kakubh. The twelfth Ṛk is of the satobṛhatī metre. The thirteenth is of the metre called puraūṣṇih. If in a Ṛk there are three pādas, of which the first has twelve syllables as in the jagatī metre, and the second and third have eight each as in the gāyatrī metre, it is called puraūṣṇih. The fourteenth Ṛk is of the bṛhatī metre. The fifteenth is of the metre called atijagatī. If in a Ṛk there are five pādas, the first three of twelve syllables each and the last two of eight each, fifty-two syllables in all, it is called atijagatī. The five Ṛks from the eleventh on have the Maruts as deity. For the three Ṛks from the thirteenth on the deities are those named by the indication, or Indra and the others. The sixteenth Ṛk is of the kakubh metre. The seventeenth is of the satobṛhatī metre. The eighteenth is of the puraūṣṇih metre. The nineteenth is of the bṛhatī metre. For the four Ṛks from the sixteenth on Pūṣan is the deity. The twentieth Ṛk is of the bṛhatī metre. The twenty-first Ṛk is of the metre called yavamadhyāmahābṛhatī. If in a Ṛk there are five pādas, with eight syllables each in the first two pādas, twelve in the third, and eight each in the last two, it is called yavamadhyāmahābṛhatī. Since the twentieth and twenty-first Ṛks are called the Pṛśni sūkta, Pṛśni, the mother of the Maruts, is the deity of those Ṛks. The twenty-second Ṛk is of the anuṣṭubh metre. Pṛśni or Bhūmi may be the deity of this Ṛk. The application of the sūkta is by indication. At the time of reciting the Agnimāruta śastra mantras, this tṛca beginning यज्ञायज्ञा वः (*yajñāyajñā vaḥ*) is to be recited as the stotriya pragātha tṛca, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, यज्ञायज्ञा वो अग्नये देवो वो द्रविणोदा इति प्रगाथौ स्तोत्रियानुरूपौ (*yajñāyajñā vo agnaye devo vo draviṇodā iti pragāthau stotriyānurūpau*) (Ā. Sū. 5-20).
+
+### Printed p. 230
+
+##### Particulars
+
+Sūkta 48. Maṇḍala 6. Anuvāka 4. Sūkta 48. Aṣṭaka 4. Adhyāya 8. Vargas 1, 2, 3, 4. Number of Ṛks in the sūkta: 22. Seer: Śaṃyu Bārhaspatya. Tṛṇapāṇika, a Pṛśni sūkta. Deity: Ṛks 1-10, Agni; 11, 12, 20, 21, the Maruts; 13-15, the Maruts or the deities named by the indication; 16-19, Pūṣan; 22, Pṛśni, or Heaven and Earth. Metre: Ṛks 1, 3, 5, 9, 14, 19, 20, bṛhatī; 2, 4, 10, 12, 17, satobṛhatī; 6, 8, mahāsatobṛhatī; 7, mahābṛhatī; 11, 16, kakubh; 13, 18, puraūṣṇih; 15, atijagatī; 21, yavamadhyā mahābṛhatī; 22, anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञाय॑ज्ञा वो अ॒ग्नये॑ गि॒रागि॑रा च॒ दक्ष॑से ।  
+> प्रप्र॑ व॒यम॒मृतं॑ जा॒तवे॑दसं प्रि॒यं मि॒त्रं न शं॑सिषं ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञायज्ञा । वः । अग्नये । गिरागिरा । च । दक्षसे ।  
+> प्रप्र । वयं । अमृतं । जातवेदसं । प्रियं । मित्रं । न । शंसिषं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारो वो यूयं यज्ञा यज्ञा यज्ञे यज्ञे सर्वॆषु यागेषु
+> दक्षसे प्रवृद्धायाग्नये गिरा गिरा स्तुतिरूपया वाचा वाचा स्तोत्रं कुरुतेति
+> शेषः । चशब्दो भिन्नक्रमो व इत्यस्मात्परो द्रष्टव्यः । यूयं च स्तोत्रं कुरुत ।
+> वयमपि तमग्निं प्र शंसिषं ॥ प्रसमुपोदः पादपूरण इति प्रशब्दस्य द्विरुक्तिः
+> पादपूरणार्था । व्यत्ययेनैकवचनं । छांदसो लुज् ॥ प्रशंसाम । कीदृशं ।
+> अमृतं मरणरहितं जातवेदसं जातानां वेदितारं जातप्रज्ञं जातधनं वा मित्रं
+> न सखिभूतनिव प्रियमनुकूलं ॥ यद्वा । व्यत्ययेन त्वमित्यस्य वसादेशः । अग्निय
+> इति च कर्मणि चतुर्थी । क्रियाग्रहणमपि कर्तव्यमिति कर्मणः संप्रदानत्वात् ।
+> चशब्दश्चण्णिति निपातश्चेदर्थे वर्तते । दक्षस इति च दक्षेर्वृद्दिकर्मणोऽंतर्भानि-
+
+##### Gist of the bhāṣya
+
+O praisers, in every sacrifice (यज्ञा यज्ञा (*yajñā yajñā*): in each and every rite) offer praise to Agni, अग्नये (*agnaye*), who is दक्षसे (*dakṣase*), grown great, with every praise (गिरा गिरा (*girā girā*): with speech after speech in the form of praise): this has to be supplied. The word च (*ca*) is to be seen after व (*va*), out of its order. And you offer praise; we too praise him. How is he? Immortal (अमृतं (*amṛtaṃ*): free from death), जातवेदसं (*jātavedasaṃ*): the knower of all that is born, or one whose knowledge is born, or one whose wealth is born; dear and favourable, like a friend. Or else, by inversion, वो (*vo*) stands for त्वं (*tvaṃ*), you, and अग्नये (*agnaye*) is a dative in the sense of the object, since the object is an indirect recipient.
+
+### Printed p. 231
+
+> तण्यर्थाल्लट रूपं । चणा योगात् निपातैर्यद्यदिहंतेति निघातप्रतिषेधः ॥
+> तत्रायमर्थः । हे स्तोतस्त्वं यज्ञे यज्ञ इममग्निं गिरा गिरा स्तुत्या दक्षसे च
+> वर्धयसि चेत् वयमप्यमृतत्वादिगुणकं तं प्रशंसाम ॥
+
+##### Gist of the bhāṣya
+
+The particle च (*ca*) here has the sense of "if". The meaning is this: O praiser, if you in every sacrifice make this Agni grow with every praise, and make him thrive, then we too praise him, who has the qualities of immortality and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—(O praisers) you
+- यज्ञा यज्ञा (*yajñā yajñā*)—in each and every sacrifice
+- दक्षसे (*dakṣase*)—who has abundant power
+- अग्नये (*agnaye*)—with reference to Agni
+- गिरागिरा (*girāgirā*)—praise with many kinds of praise
+- वयं च (*vayaṃ ca*)—we also
+- अमृतं (*amṛtaṃ*)—who is free from the nature of death
+- जातवेदसं (*jātavedasaṃ*)—who is of born wisdom
+- मित्रं न (*mitraṃ na*)—like a friend
+- प्रियं (*priyaṃ*)—and beneficent, Agni
+- प्र शंसिषं (*pra śaṃsiṣaṃ*)—we praise and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, in every sacrifice praise with many kinds of praise Agni, who has abundant power. We also praise and worship Agni, who is free from the nature of death, of born wisdom, and beneficent like a friend.
+
+##### English translation
+At every sacrifice (honour) the mighty Agni with your reiterated praise, whilst we glorify him, the immortal, who knows, all things, our dear friend.
+
+##### विशेषविषयगळु (Special Topics)
+
+As has been said earlier in the application of this sūkta, this Ṛk beginning यज्ञा यज्ञा (*yajñā yajñā*) is to be recited as the stotriya pragātha mantra in the Agnimāruta śastra mantras.
+
+The Aitareya Brāhmaṇa says thus in this matter:
+
+यज्ञायज्ञावो अग्नये देवो वो द्रविणोदा इति मध्ये योनिं चानुरूपं च शंसति तद्यन्मध्ये योनिं चानुरूपं च शंसति तस्मान्मध्ये योनिर्धृता । यदु द्वे सूक्ते शस्त्रा शंसति प्रतिष्ठयोरेव तदुपरिष्टात्पृजननं दधाति प्रजात्यै प्रजायुते प्रजया पशुभिर्य एवं वेद ॥ (*yajñāyajñāvo agnaye devo vo draviṇodā iti madhye yoniṃ cānurūpaṃ ca śaṃsati tadyanmadhye yoniṃ cānurūpaṃ ca śaṃsati tasmānmadhye yonirdhṛtā | yadu dve sūkte śastrā śaṃsati pratiṣṭhayoreva tadupariṣṭātpṛjananaṃ dadhāti prajātyai prajāyute prajayā paśubhirya evaṃ veda ‖*) (Ai. Brā. 1-35)
+
+The hotṛ recites at the beginning of the Agnimāruta śastra mantras the sūkta of the nature of Agni Vaiśvānara, वैश्वानराय पृथुपाजसे (*vaiśvānarāya pṛthupājase*) (Ṛ. Saṃ. 3-3). After that he recites, addressed to the Maruts, the sūkta of the nature of the Marut deities, प्रत्वक्षसः प्रतवसः (*pratvakṣasaḥ pratavasaḥ*) (Ṛ. Saṃ. 1-87). For the śastra mantras, after
+
+### Printed p. 232
+these two sūktas have been recited, the hotṛ recites the stotriya and the anurūpa pragātha mantras. Here the Ṛk now in hand, यज्ञायज्ञावो आग्नये (*yajñāyajñāvo āgnaye*) (Ṛ. Saṃ. 6-48-1), is the stotriya mantra. This is the first pragātha mantra. The Ṛk देवो वो द्रविणोदा (*devo vo draviṇodā*) (Ṛ. Saṃ. 7-16-11), recited as corresponding to it, is the anurūpa pragātha mantra. This is the second. In the first pragātha, the tṛca beginning यज्ञायज्ञा (*yajñāyajñā*), there are three Ṛks. These are sung by the Sāmagas (Sāmaveda 35; 703). In response, the ṛtviks of the hotṛ class recite the anurūpa mantras देवो वो द्रविणोदाः (*devo vo draviṇodāḥ*). The reason for reciting these two mantras in the middle of the śastra mantras is this: the Ṛk यज्ञायज्ञा (*yajñāyajñā*), the stotriya mantra, is called the womb (yoni). The two sūktas mentioned above, वैश्वानराय (*vaiśvānarāya*) and प्रत्यक्षसः (*pratyakṣasaḥ*), are the two thighs. Since the womb-region of women lies between the two thighs, in the middle region of the body, these stotriya and anurūpa mantras, of the form of the womb, are put in the middle of the śastra mantras, after the recitation of the two sūktas. By doing so the sacrificer who performs the sacrifice is helped to obtain offspring. The man who knows this also rejoices, furnished with offspring and wealth of cattle.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्जो नपा॑तं॒ स हि॒नायम॑स्म॒युदाशे॑म ह॒व्यदा॑तये ।  
+> भुव॒द्वाजे॑ष्ववि॒ता भुव॑द्वृ॒ध उ॒त त्रा॒ता त॒नूनां॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्जः । नपातं । सः । हिन । अयं । अस्मयुः । दाशेम । हव्यदातये ।  
+> भुवत् । वाजेषु । अविता । भुवत् । वृधः । उत । त्राता । तनूनां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्जोऽन्नस्य बलस्य वा नपातं पुत्रं प्र शंसिषमित्यनुषंगात् प्रशंसामेत्यर्थः । हिनेति निपातद्वयसमुदायो हीत्यस्यार्थे । स खल्वयमग्निरस्मयुरस्मान्कामयमानो भवति । वयं च हव्यदातॆये हव्यानां हविषां देवेभ्यो
+> दात्रे तस्मा आग्नये दाशेम । हवींषि दद्याम । स चाग्निर्वाजेषु संग्रामेष्टविता
+> रक्षिता वृधो वर्धकश्चास्माकं भुवत् । भवतु । उतापि च तनूनां तनयानामस्मत्पुत्राणां च त्राता रक्षिता भवतु ॥
+
+##### Gist of the bhāṣya
+
+ऊर्जः (*ūrjaḥ*): of food or of strength; नपातं (*napātaṃ*): the son. "We praise" is to be supplied from the preceding Ṛk by continuation; the meaning is: we praise the son of strength. हिन (*hina*) is a combination of two particles in the sense of हि (*hi*), "for". This Agni indeed is अस्मयुः (*asmayuḥ*), one who desires us. And we would give (दाशेम (*dāśema*): may we give oblations) to that Agni, हव्यदातये (*havyadātaye*), the giver of oblations, of offerings, to the gods. And may that Agni be, in battles (वाजेषु (*vājeṣu*): in conflicts), our protector (अविता (*avitā*)) and our increaser (वृधः (*vṛdhaḥ*)). And may he also be the protector of our bodies (तनूनां (*tanūnāṃ*)), that is, of our children, our sons.
+
 ---
 
-**Progress note:** Done through printed p. 224. Ṛk 26 special topics; Ṛk 27-30 (chariot, drum)
+**Progress note:** Done through printed p. 232. Ṛk 31, adhyāya close and opening, Sūkta 48 introduction, Ṛk 1-2
