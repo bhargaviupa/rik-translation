@@ -16996,6 +16996,262 @@ What mortal, divine Indra and Agni, is a judge of that (your act), when one of y
 
 O Indra and Agni, this Uṣas, who is footless, comes first, before the footed creatures that are asleep; so, having come first, she sets in motion the heads of living beings. Or else: having given up her head, herself headless, with the tongue that is situated in living beings, her own…
 
+### Printed p. 387
+
+> येन वागिंद्रियेण नावदत् भृशं शब्दं कुर्वती चरत् । एवं चरंत्युषास्त्रिंशत्पदान्यवयवभूतान् त्रिंशन्नुहूर्तान्न्यक्रमीत् । एकेन दिवसेनातिक्रामति । एतच्च
+> युवयोः कर्म । तत्की जानीयादिति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+…by which organ of speech she moves, making a loud sound, not speaking. Thus moving, Uṣas traverses thirty steps, that is, the thirty muhūrtas that are her parts; she passes over them in one day. And this is the deed of you two: who could know it? This is the connection with the preceding verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- आपात् (*āpāt*)—she who is without feet
+- इयं (*iyaṃ*)—this goddess Uṣas
+- पद्वतीभ्यः (*padvatībhyaḥ*)—than the creatures that have feet
+- पूर्वा (*pūrvā*)—as the one who comes first
+- आगात् (*āgāt*)—appears and comes
+- शिरः (*śiraḥ*)—her head
+- हित्वी (*hitvī*)—having hidden
+- जिह्वया (*jihvayā*)—through the speech-organs of living beings
+- नावदत् (*nāvadat*)—causing sound to be made
+- चरत् (*carat*)—moving
+- त्रिंशत् पदा (*triṃśat padā*)—as far as thirty steps (as long as thirty muhūrtas)
+- न्यक्रमित् (*nyakramit*)—she becomes visible
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, this goddess Uṣas, who is without feet, appears and comes even before the creatures that have feet. Hiding her head, moving and causing sound to be made through the speech-organs of living beings, she becomes visible for thirty muhūrtas. All this is the power of Indra and Agni. What man can know it?
+
+##### English translation
+This footless (dawn), Indra and Agni, comes before the footed sleepers, animating the head (of living beings with consciousness), causing them to utter loud sounds with their tongues, and passing onwards she traverses thirty steps.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी॒ आ हि त॑न्व॒ते नरो॒ धन्वा॑नि बा॒ह्वोः ।  
+> मा नो॑ अ॒स्मिन्म॑हाध॒ने परा॑ वर्क्तं॒ गवि॑ष्टिषु ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । आ । हि । तन्वते । नरः । धन्वानि । बाह्वोः ।  
+> मा । नः । अस्मिन् । महाधने । परा । वर्क्तं । गोऽइष्टिषु ॥ ७ ॥
+
+### Printed p. 388
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी नरो योद्धारो मनुष्या बाह्वोऽर्हस्तयोर्धन्वानि
+> धनूंष्या तन्वते हि । आततज्यानि कुर्वते हि । युवां चास्मिन्महाधने जेशव्येन
+> महाधनेनोपेते संगा मे गविष्टिषु गवामन्वेषणेषु नोऽस्मान् मा परा
+> वर्क्तं । मा परित्यजतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, the warriors, the men, stretch the bows in their arms, that is, they make them strung. And you two, in this great-wealth combat, one that is endowed with great wealth to be won, in the seekings of cows, do not abandon us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- नरः (*naraḥ*)—men engaged in battle
+- बाह्वोः (*bāhvoḥ*)—with their arms
+- धन्वानि (*dhanvāni*)—the bows
+- आ तन्वते हि (*ā tanvate hi*)—have stretched and hold, have they not
+- युवां (*yuvāṃ*)—(you two)
+- आस्मिन् महाधने (*āsmin mahādhane*)—in this battle fought for abundant wealth
+- गविष्टिषु (*gaviṣṭiṣu*)—while we are engaged in the effort to seek cows
+- नः (*naḥ*)—us
+- मा परा वर्क्तं (*mā parā varktaṃ*)—do not abandon, and do not let us fall into the power of enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, men engaged in battle have stretched and hold their bows with their arms, have they not! In this battle fought for the gain of abundant wealth, while we are engaged in the effort to seek cows, do not abandon us and do not let us fall into the power of enemies.
+
+##### English translation
+Indra and Agni, men verily stretch their bows with their arms, but do not desert us contending for cattle in the great combat.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी॒ तसं॑ति मा॒घा अ॒र्यो अरा॑तयः ।  
+> अप॒ द्वेषां॒स्या कृ॑तं युयु॒तं सूर्या॒दधि॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । शपंति । मा । अघाः । आर्यः । अरातयः ।  
+> अप । द्वेषांसि । आ । कृतं । युयुतं । सूर्यात् । अधि ॥ ८ ॥
+
+### Printed p. 389
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी आघा आहंत्रोऽर्योऽभिगंत्रोऽरातयः शत्रुसेना मा
+> तपंति । मां बाधंते । ता अपा कृतं । अपाकुरुतं । तथा द्वेषांसि द्वेष्टन्शत्रुन् सूर्यादधि । अधिः पंचम्यर्थानुवादकः । सूर्यदर्शनाद्युयुतं ।
+> पृथक्कुरुतं च । यथा ते सूर्यं न पश्यंति तथा कुरुतं । मारयतमित्यर्थः ।
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, the murderous ones, the attackers, the enemy armies, harass me. Drive them away. Likewise the haters, the enemies who hate us, separate from the sight of the sun. Separate them, and do so that they do not see the sun; the sense is, kill them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- आघाः (*āghāḥ*)—sinful
+- अर्यः (*aryaḥ*)—and attacking
+- अरातयः (*arātayaḥ*)—enemies
+- मा (*mā*)—me
+- तपंति (*tapaṃti*)—harass **NOTE**
+- अप आ कृतं (*apa ā kṛtaṃ*)—drive them far away
+- द्वेषांसि (*dveṣāṃsi*)—the enemies who hate us
+- सूर्यादधि (*sūryādadhi*)—from the sight of the sun
+- युयुतं (*yuyutaṃ*)—separate them (make it so that they have neither sight of the sun nor the light of the sun)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, the enemies, who are sinful and fall upon us, harass me. Drive them far away. Separate the enemies who hate us from the sight of the sun, that is, make it so that they have no light of the sun.
+
+##### English translation
+Indra and Agni, murderous, aggressive enemies harass us: drive away my adversaries: separate them from (sight of) the sun.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी यु॒वोरपि॒ वसु॑ दि॒व्यानि॒ पार्थि॑वा ।  
+> आ न॑ इ॒ह प्र य॑च्छतं र॒यिं वि॒श्वायु॑पोषसं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । युवोः । अपि । वसु । दिव्यानि । पार्थिवा ।  
+> आ । नः । इह । प्र । यच्छतं । रयिं । विश्वायुपोषसं ॥ ९ ॥
+
+### Printed p. 390
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी युवोर्युववयोर्दिव्यानि दिवि भवानि पार्थिवा पृथिव्यां
+> भवानि लोकद्वयसंबंधीनि वसु वसून्यपि हितानि युवयोरेव वर्तंते । अतः
+> कारणादिहास्मिन्यज्ञे नोऽस्मभ्यं रयिं धनमा अभि प्र यच्छतं । कीदृशं रयिं ।
+> विश्वायुपोषसं । आयव इति मनुष्यनाम । सर्वेषां मनुष्याणां पोषणाय
+> पर्याप्तं । यद्वा । सर्वस्यायुषः पोषणे शक्तं ॥ छांदसो वर्णलोपः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, the treasures that are in heaven and those on earth, belonging to the two worlds, all of them are truly yours alone. For that reason, here in this sacrifice, bestow wealth upon us. What kind of wealth? विश्वायुपोषसं (*viśvāyupoṣasaṃ*): आयव (*āyava*) is a name for men; wealth that is sufficient for the nourishment of all men. Or else: able to nourish the whole life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- दिव्यानि (*divyāni*)—that which is in the world of heaven
+- पार्थिवा (*pārthivā*)—and that which is on earth
+- वसु अपि (*vasu api*)—all the riches as well
+- युवोः (*yuvoḥ*)—belong to you two alone
+- इह (*iha*)—at the time of this sacrifice
+- नः (*naḥ*)—to us
+- विश्वायुपोषसं (*viśvāyupoṣasaṃ*)—nourishing all men
+- रयिं (*rayiṃ*)—wealth
+- आ प्र यच्छतं (*ā pra yacchataṃ*)—provide and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, all the riches that are in the world of heaven and those that are on earth belong to you two alone. At the time of this sacrifice, provide for us wealth that nourishes all men.
+
+##### English translation
+Indra and Agni, yours are both celestial and terrestrial treasures: bestow upon us, on this occasion, life-sustaining riches.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी उक्तवाहसा॒ स्तोमे॑भिर्हवनश्रुता ।  
+> विश्वा॑भिर्गी॒र्भिरा ग॑तम॒स्य सोम॑स्य पी॒तये॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । उक्तवाहसा । स्तोमेभिः । हवनश्रुता ।  
+> विश्वाभिः । गीःभिः । अ । गतं । अस्य । सोमस्य । पीतये ॥ १० ॥
+
+### Printed p. 391
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उक्तवाहसोक्षैः स्तुतिभिर्वहनीयौ हे हवनश्रुता हवनस्याह्वानस्य
+> शोतारौ एवंभूत्था हे इंद्राग्नी स्तोमेभिः स्तोत्रैर्विश्वाभिः सर्वाभिर्गिर्भिः
+> शस्त्ररूपाभिर्वाग्भिश्च हेतुभूताभिरा गतं आगच्छृतं । किमर्थं । अस्यास्मदीयस्य
+> सोमस्य पीतये पानार्थं ॥
+
+##### Gist of the bhāṣya
+
+O you who are borne by loud praises, O you who hear the invocation, the call: O Indra and Agni, such as you are, come with the praises, with all the speeches in the form of śastras, which are the means. For what purpose? For the drinking of this Soma of ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्तवाहसा (*uktavāhasā*)—you who are borne by the recited mantras
+- हवनश्रुता (*havanaśrutā*)—and who hear our praises
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- स्तोमेभिः (*stomebhiḥ*)—by praises in the form of stomas
+- विश्वाभिः (*viśvābhiḥ*)—by all
+- गीर्भिः (*gīrbhiḥ*)—speeches in the form of śastras (being drawn)
+- अस्य (*asya*)—offered in this sacrifice
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for drinking
+- आ गतं (*ā gataṃ*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, who are borne by the recited mantras and who hear our praises, drawn by the praises in the form of stomas and by all the speeches in the form of śastras, be pleased to come to drink the Soma offered in this sacrifice.
+
+##### English translation
+Indra and Agni, who are to be attracted by hymns; you, who hear our invocation (accompanied) by praises and by all adorations, come hither to drink of this Soma libation.
+
+## Sūkta 60 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्नथद्वृत्रमिति पंचदशर्चमेकादशं सूक्तं भरद्वाजस्यार्षमैंद्राग्नं । आदौ
+> तिस्रस्त्रिष्टुभश्चतुर्थाद्या नव गायत्र्यस्त्रयोदशी त्रिष्टुप् चतुर्दशी बृहती
+> पंचदश्यनुष्टुप् । तथा चानुक्रांतं । श्नथक्पंचोना गायत्रं तु त्रित्रिष्टुबादि
+> त्रिष्टुब्बृहत्यनुष्टुबंतमिति ॥ गतः सूक्तविनियोगः ॥ वरुणप्रघासेष्टैंद्राग्नस्य
+> हविषः श्नथदित्येषा याज्या । सूत्रितं च । इंद्राग्नी अवसा गतं श्नथद्वृत्रमुत
+> सनोति वाजं । आ. २-१७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning श्नथद्वृत्रमिति (*śnathadvṛtramiti*) has fifteen ṛks and is the eleventh sūkta. Its seer is Bharadvāja; its deity is Indra and Agni. The first three ṛks are in Triṣṭubh, the nine from the fourth are in Gāyatrī, the thirteenth is Triṣṭubh, the fourteenth Bṛhatī, the fifteenth Anuṣṭubh. So it is stated in the Anukramaṇī: श्नथक्पंचोना गायत्रं तु त्रित्रिष्टुबादि त्रिष्टुब्बृहत्यनुष्टुबंतमिति ॥ गतः सूक्तविनियोगः ॥ वरुणप्रघासेष्टैंद्राग्नस्य हविषः श्नथदित्येषा याज्या । सूत्रितं च । इंद्राग्नी अवसा गतं श्नथद्वृत्रमुत सनोति वाजं । आ. २-१७ । इति ॥ अनुवादवु—श्नथद्वत्रं ऎंब ई सूक्तवु ऐदनॆय अनुवाकदल्लि हन्नॊंदनॆय सूक्तवु. इदरल्लि हदिनैदु ऋक्कुगळिरुवुवु. ई सूक्तक्कॆ भरद्वाजनु ऋषियु, इंद्राग्निगळु देवतॆयु. ई सूक्तद मॊदलिन मूरु ऋक्कुगळु त्रिष्टुप् छंदस्कवु ; नाल्कनॆय ऋक्किनिंद मुंदिन ऒंभत्तु ऋक्कुगळु गायत्री छंदस्कवु. हदिमूरनॆय ऋक्कु त्रिष्टुप् छंदस्कवु. हदिनाल्कनॆय ऋक्कु बृहती छंदस्कवु. हदिनैदनॆय ऋक्कु अनुष्टुप् छंदस्कवु. अनुक्रमणिकॆयल्लि—श्नथत्पंचोना गायत्रं तु त्रित्रिष्टुबादि त्रिष्टुब्बृहत्यनुष्टुबंतं (*śnathakpaṃconā gāyatraṃ tu tritriṣṭubādi triṣṭubbṛhatyanuṣṭubaṃtamiti ‖ gataḥ sūktaviniyogaḥ ‖ varuṇapraghāseṣṭaiṃdrāgnasya haviṣaḥ śnathadityeṣā yājyā | sūtritaṃ ca | iṃdrāgnī avasā gataṃ śnathadvṛtramuta sanoti vājaṃ | ā. 2-17 | iti ‖ anuvādavu—śnathadvatraṃ èṃba ī sūktavu aidanèya anuvākadalli hannòṃdanèya sūktavu. idaralli hadinaidu ṛkkugaḷiruvuvu. ī sūktakkè bharadvājanu ṛṣiyu, iṃdrāgnigaḷu devatèyu. ī sūktada mòdalina mūru ṛkkugaḷu triṣṭup chaṃdaskavu ; nālkanèya ṛkkiniṃda muṃdina òṃbhattu ṛkkugaḷu gāyatrī chaṃdaskavu. hadimūranèya ṛkku triṣṭup chaṃdaskavu. hadinālkanèya ṛkku bṛhatī chaṃdaskavu. hadinaidanèya ṛkku anuṣṭup chaṃdaskavu. anukramaṇikèyalli—śnathatpaṃconā gāyatraṃ tu tritriṣṭubādi triṣṭubbṛhatyanuṣṭubaṃtaṃ*). **GLOSS** The application of the sūkta has been given. In the Varuṇapraghāsa offering, for the oblation to Indra and Agni, the ṛk beginning श्नथत् (*śnathat*) is the yājyā. It is set out in the Sūtra: इंद्राग्नी अवसा गतं श्नथद्वृत्रमुत सनोति वाजं (*iṃdrāgnī avasā gataṃ śnathadvṛtramuta sanoti vājaṃ*) (Ā. 2-17).
+
+### Printed p. 392
+
+##### Anuvāda
+
+This sūkta beginning श्नथद्वत्रं (*śnathadvatraṃ*) **NOTE** is the eleventh sūkta in the fifth anuvāka. There are fifteen ṛks in it. The ṛṣi of this sūkta is Bharadvāja; the deities are Indra and Agni. The first three ṛks of this sūkta are in the Triṣṭubh metre; the nine ṛks from the fourth onwards are in the Gāyatrī metre. The thirteenth ṛk is in Triṣṭubh, the fourteenth in Bṛhatī, the fifteenth in Anuṣṭubh. In the Anukramaṇikā it is said: श्नथत्पंचोना गायत्रं तु त्रित्रिष्टुबादि त्रिष्टुब्बृहत्यनुष्टुबंतं (*śnathatpaṃconā gāyatraṃ tu tritriṣṭubādi triṣṭubbṛhatyanuṣṭubaṃtaṃ*). The application of the sūkta has been stated before. In the iṣṭi called Varuṇapraghāsa, in the offering of the oblation made to the deities Indra and Agni, the first ṛk of this sūkta, beginning श्नथत् (*śnathat*), is to be recited as a yājyā mantra. This is set out by the Sūtra of the Āśvalāyana Śrauta Sūtra: इंद्राग्नी अवसा गतं श्नथद्वत्रमुत सनोति वाजं (*iṃdrāgnī avasā gataṃ śnathadvatramuta sanoti vājaṃ*) (Ā. 2-17).
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 5; Sūkta 60
+- Aṣṭaka 4; Adhyāya 8; Vargas 27, 28, 29
+- Number of ṛks in the sūkta: 15
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: Indrāgnī
+- Metre: 1-3, 13 Triṣṭup; 4-12 Gāyatrī; 14 Bṛhatī; 15 Anuṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्नथ॑द्वृ॒त्रमु॒त स॑नोति॒ वाज॒मिंद्रा॒ यो अ॒ग्नी सहु॑री  ॒
+> सपर्यात् ।  
+> इ॒र॒ज्यंता॑ वस॒व्य॑स्य॒ भूरेः॒ सह॑स्तमा॒ सह॑सा वाज॒यंता॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्नथत् । वृत्रं । उत । सनोति । वाजं । इंद्रा । यः । अग्नी इति । सहुरी इति ।  
+> सपर्यात् ।  
+> इरज्यंता । वसव्यस्य । भूरेः । सहःतमा । सहसा । वाजयंता ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 386. Mandala 6 sukta 59 Rks 1 end to 6 (pp. 381-386)
+**Progress note:** Done through printed p. 392. Mandala 6 sukta 59 Rks 6 end to 10, sukta 60 introduction and Rk 1 (pp. 387-392)
