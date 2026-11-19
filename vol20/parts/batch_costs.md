@@ -37,3 +37,4 @@
 | through p. 644 (one window, pp. 639–644; agent stopped by the 5-hour usage limit) | sonnet | n/a | n/a | n/a |
 | through p. 663 (three windows in one agent: pp. 645–663) | sonnet | 15 | 172870 | 5.2 |
 | through p. 681 (three windows in one agent: pp. 664–681) | sonnet | 11 | 156693 | 3.7 |
+| through p. 699 (three windows in one agent: pp. 682–699) | sonnet | 14 | 188533 | 6.5 |
