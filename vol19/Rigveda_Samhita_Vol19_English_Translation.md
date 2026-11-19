@@ -26331,6 +26331,208 @@ O Maruts, you possess the weapon नाशीमंतः (*nāśīmaṃtaḥ*),
 - शुभं (*śubhaṃ*)—to bring us auspiciousness
 - याथन (*yāthana*)—come
 
+### Printed p. 729
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Maruts, you are possessed of sharp-edged swords and of shields; you are possessed of excellent bows, arrows and quivers, and you are furnished with excellent chariots and horses. O Maruts, sons of Pṛśni, come with your excellent weapons to bring us auspiciousness.
+
+##### English translation
+Intelligent Maruts, you are armed with swords, with lances, with bows, with arrows, with quivers; you are well mounted and have handsome chariots; sons of Prishni, you are well armed; come for our good.
+
+##### विशेषविषयगळु (Special Topics)
+
+वाशीमंतः (*vāśīmaṃtaḥ*)—Explaining the word वाशी (*vāśī*), Yāska cites the Ṛk आ तू षिंच हरिमीं द्रोरुपस्थे वाशीभिस्तक्षताश्मन्मयाभिः । परि ष्वजध्वं दश कक्ष्याभिरुभे धुरौ प्रति वह्निं युनक्त ॥ (*ā tū ṣiṃca harimīṃ drorupasthe vāśībhistakṣatāśmanmayābhiḥ | pari ṣvajadhvaṃ daśa kakṣyābhirubhe dhurau prati vahniṃ yunakta ‖*) (Ṛ. Saṃ. 10-101-10), and for the word वाशीभिः (*vāśībhiḥ*) occurring in that Ṛk he gives the etymology वाशीभिरश्मयाभिरिति ना । वाग्निरितिवा । (*vāśībhiraśmayābhiriti nā | vāgniritivā |*) (Ni. 4-19). The word वाशी (*vāśī*) is read among the names of speech (Ni. 2-23). Here वाशीभिः (*vāśībhiḥ*) means a special pointed weapon made of stone, fashioned from stone itself with chisels. In this Ṛk the weapons of the Maruts are stated: वाशी ऋष्टि (*vāśī ṛṣṭi*), the bow, the arrow and other weapons. That is, a special weapon made of stone or as hard as stone, a spear with a sharp edge, a bow, an arrow and other weapons: wearing these and seated in a fine chariot, they are prayed to set out in order to pour down water in the form of rain.
+
+पृश्निमातरः (*pṛśnimātaraḥ*)—Those who have Pṛśni as their mother. The name of the mother of the Maruts is Pṛśni, a cow, or the wife of Rudra. The explanation of the word पृश्निमातरः (*pṛśnimātaraḥ*) we have already given earlier.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धू॒नु॒थ द्यां पर्व॑तान्ना॒शुषे॒ वसु॒ नि वो॒ वना॑ जिहते॒ ॑ ॒
+> याम॑नो भि॒या ।
+
+### Printed p. 730
+
+> कोपयथ पृथिवीं पृश्निमातरः शुभे यदुग्राः पृषतीरयुग्ध्वं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ॥ सदपाठ ॥  
+> धूनुथ । द्यां । पर्वतान् । दाशुषे । वसु । नि । वः । वना । जहते । यामनः ।  
+> भिया ।  
+> कोपयथ । पृथिवीं । पृश्निमातरः । शुभे । यत् । उग्राः । पृषतीं । आयुग्ध्वं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो द्यां । दिवीत्यर्थः । पर्वतान्नेघान्दाशुषे हविर्दात्रे यजमानाय वसु धनानि च धूनुथ । प्रापयथ । वो युष्माकु यामनो गमनस्य
+> भिया भीत्या वना वनानि वृक्षादिसमूहा नि जिहते । नितरां कंपंते । अवनता भृशं
+> शंसंतीत्यर्थः । हे पृश्निमातरः पृश्ने पुत्राः । पृश्नियै वै पयसो मरुतो जाता
+> इति हि श्रुतिः । हे मरुतः पृथिवीं कोपयथ । अभिवृष्टा क्षोभयथ । हे उग्रा
+> उद्धूर्णबला यूयं यद्यदा शुभ उदकार्थं पृषतीर्युष्मदीया अश्वा
+> अयुग्वं योजयथ तदा कोपयथ पृथिवीं ॥
+
+##### Gist of the bhāṣya
+
+Addressing the Maruts, Sāyaṇa says: O Maruts, you shake the sky, that is, in the heaven, the clouds, and you bring wealth, riches, to the sacrificer who offers oblations. Through fear of your going, the forests, that is, the masses of trees and the like, tremble violently; he adds that they bow down, and some further words of the gloss are unclear.**NOTE** He then explains "sons of Pṛśni" as the sons of Pṛśni, for there is a Śruti that the Maruts were born from the milk of Pṛśni. O Maruts, you agitate the earth, making it quake with the rain that falls on it. O fierce ones, whose strength is stirred up: when, for the sake of water, you yoke your spotted horses, then you agitate the earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दाशुषे (*dāśuṣe*)—(O Maruts) to the sacrificer who gives oblations
+- वसु (*vasu*)—for providing wealth
+- द्यां (*dyāṃ*)—in the heaven (the atmosphere)
+- पर्वतान् (*parvatān*)—the clouds
+- धूनथ (*dhūnatha*)—you cause to shake
+- वः (*vaḥ*)—your
+- यामनः (*yāmanaḥ*)—of the going
+- भिया (*bhiyā*)—through fear
+- वना (*vanā*)—the masses of trees
+- नि जिहते (*ni jihate*)—tremble completely
+- उग्रा: (*ugrā:*)—fierce
+- पृश्निमातरः (*pṛśnimātaraḥ*)—sons of Pṛśni, O Maruts
+- यत् (*yat*)—when
+- शुभे (*śubhe*)—for the sake of water
+- पृषतीः (*pṛṣatīḥ*)—your horses (spotted deer)
+- आयुग्ध्वं (*āyugdhvaṃ*)—you yoke to the chariot (then)
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- कोपयथ (*kopayatha*)—you cause to be agitated
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, in order to provide wealth to the sacrificer who gives oblations, you cause the clouds to shake in the atmosphere. Through fear of your going, the masses of trees tremble completely. O fierce Maruts, sons of Pṛśni, when for the sake of water you yoke your spotted deer to the chariot, then you cause the earth to be agitated.
+
+### Printed p. 731
+
+##### English translation
+You agitate the clouds in the sky; (you give) wealth to the donor (of oblations); through fear of your approach the forests bow down; sons of Prishni, you incense the earth when, for the purpose of (sending) water, you fierce (Maruts), yoke your spotted steeds.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वात॑त्विषो म॒रुतो॑ व॒र्षनि॑र्णिजो य॒माइ॑व॒ सुस॑दृशःसु॒पेश॑सः ।  
+> पि॒शंगा॑श्वा अरु॒णाश्वा॑ अरे॒पसः॒ प्रत्व॑क्षसो महि॒ना द्यौरि॑वो॒रवः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वातृषिषः । मरुतः । वर्षनिर्निजः । यमाः इव । सुसदृशः । सुपेशसः ।  
+> पिशंगाश्वाः । अरुणाश्वाः । अरेपसः । प्रत्वक्षसः । महिना । द्यौ इव । उरवः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातत्विषः सर्वदा संप्राप्तदीप्तयो वर्षनिर्णिजो वृष्टेः शोधयितारः ।
+> अथवा निर्णिगिति रूपनाम ! वर्षमेव रूपं येषां ते तादृशाः । वृष्टि प्रदा
+> इत्यर्थः । यमा इव युगलोत्पन्ना इव सुसदृशाः परस्परं बलरूपादिभिरत्यंतं
+> सरूपाः सुपेशसः शोभनरूपाः पिशंगाश्वाः पिशंगवर्णाश्वेतास्तथारुणाश्वा
+> अरेपसोऽपापाः प्रत्वक्षसः प्रकृष्टं तनूकर्तारो द्वेष्ट्याणां महिना महत्त्वेन
+> दौरिवांतरिक्षमिवोरवो विस्तीर्णाः । उक्तलक्षणा नाम भेजिर इत्युत्तरेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are always endowed with attained radiance, and they are purifiers of the rain. Or else, taking the word for "form" as a name of form, they are those whose form is rain itself, that is, givers of rain. They are like twins, born as a pair: very much alike one another in strength, form and so on, of beautiful form, having tawny horses and likewise ruddy horses, sinless, greatly thinning out the bodies of those who hate them, and by their greatness vast like the sky, the atmosphere. These characteristics are to be connected with the verb of the following Ṛk, which says that they obtained the said names.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—the Maruts
+- वातत्विषः (*vātatviṣaḥ*)—possessed of ever-attained radiance
+- वर्षनिर्णिजः (*varṣanirṇijaḥ*)—purifiers of the rain
+- यमा इव (*yamā iva*)—like twins
+- सुसदृशः (*susadṛśaḥ*)—of one and the same form
+
+### Printed p. 732
+
+- सुपेशसः (*supeśasaḥ*)—of beautiful shape
+- पिशंगाश्वाः (*piśaṃgāśvāḥ*)—having horses of tawny colour
+- अरुणाश्वाः (*aruṇāśvāḥ*)—having horses of golden-red colour
+- अरेपसः (*arepasaḥ*)—free from sin
+- प्रत्वक्षसः (*pratvakṣasaḥ*)—destroyers of enemies, being such
+- महिना (*mahinā*)—by their greatness
+- द्यौरिन (*dyaurina*)—like the atmosphere
+- उरवः (*uravaḥ*)—shine forth as having a vast form
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who always possess radiance, who purify the rain, who like twins have one and the same form, who are of beautiful shape, who have horses of tawny colour and of golden-red colour, who are sinless and destroyers of enemies, shine forth by their greatness as having a form vast like the atmosphere.
+
+##### English translation
+The Maruts, radiant with light, purifiers of the rain, like twins of goodly aspect and graceful form, masters of tawny and of ruddy steeds, devoid of guile, thinners (of foes), and vast in magnitude as the sky.
+
+##### विशेषविषयगळु (Special Topics)
+
+वर्षनिर्णिजः (*varṣanirṇijaḥ*)—Purifiers of the rain; or, if the word निर्णिक् (*nirṇik*) is taken to mean form, those whose form or nature is rain itself, that is, those who produce rain: thus the commentator has given two kinds of explanation of this word.
+
+यमा इव (*yamā iva*)—Born as a pair. Yama means twins, those born at one time from the womb of one and the same mother; it means twin children. Since the forty-nine Maruts who are in the seven groups were produced at one and the same time, they are referred to by the qualification "like twins". The next two words, सुसदृशः सुपेशसः (*susadṛśaḥ supeśasaḥ*), also are to be construed together with this expression. सुसदृशः सुपेशसः (*susadṛśaḥ supeśasaḥ*) means those who are each like the other, that is, all having the same kind of body, shape and age. Therefore they are compared to twins, to twin children. That twin children are alike in form, shape and so on is a matter of common experience; therefore the seer, when describing the Maruts, has given the illustration of twins.
+
+पिशंगाश्वाः अरुणाश्वाः (*piśaṃgāśvāḥ aruṇāśvāḥ*)—The colour of the horses of the Maruts is described by these words. Earlier, that is in the 6th Ṛk of 5-56, in the context of praying to the Maruts to yoke their horses to the chariot, the colour of their horses was described by the words अरुष (*aruṣa*) and रोहित (*rohita*). That very matter
+
+### Printed p. 733
+
+the seer here describes again by the words पिशंगाश्वाः अरुणाश्वाः (*piśaṃgāśvāḥ aruṇāśvāḥ*).
+
+महिना द्यौरिव उरवः (*mahinā dyauriva uravaḥ*)—महत्वेन अंतरिक्षमिव विस्तीर्णाः । (*mahatvena aṃtarikṣamiva vistīrṇāḥ |*) That the atmosphere is exceedingly vast is well known. It is explained, with an illustration, that the greatness of the Maruts also is as exceedingly vast as the atmosphere.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒द्र॒प्सा अं॑जि॒मंतः॑ सु॒दान॑वस्त्वे॒षसं॑दृशो अनव॒भ्ररा॑धसः।  
+> सु॒जा॒तासो॑ ज॒नुषा॑ रु॒क्मव॑क्षसो दि॒वो अ॒र्का अ॒मृतं॒ नाम॑  
+> भेजिरे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुद्रप्साः । अंजिमंतः । सुदानवः । त्वेषसंदृशः । अनवभ्रराधसः ।  
+> सुजातासः । जनुषा । रुक्ष्मवक्षसः । दिवः । आर्काः । अमृतं । नाम । भेजिरे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुद्रप्साः प्रभूतोदका अंजिमंत आभरणवंतः सुदानवः शोभनदानास्त्वेषसंदृशो दीप्तरूपा अनवभ्रराधसोऽनवभ्रष्टधनाः सुजातासः शोभनजनना
+> जनुषा जन्मनैवोक्तरूपा रुक्ष्मवक्षसो हारवक्षस्का अर्काः पूज्या मरुतो दिवो
+> द्युलोकादागत्यामृतममरणसाधनं नामोदकं नमनहेतुकमुक्तलक्षणं हविर्वा
+> भेजिरे । लब्धवंतः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts have abundant water, are adorned with ornaments, are good givers, of brilliant form, and have undiminished wealth, that is, wealth that has not fallen away. They are well born, of the said form by birth itself, with necklaces on their breasts, and worshipful. Having come from the world of heaven, they have obtained the immortal, that is, the means of not dying, which is water, a name for what is the cause of bowing, as described above; or else they have obtained the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुद्रप्साः (*purudrapsāḥ*)—having abundant water
+- अंजिमंतः (*aṃjimaṃtaḥ*)—having ornaments
+- सुदानवः (*sudānavaḥ*)—excellent givers
+- त्वेषसंदृशः (*tveṣasaṃdṛśaḥ*)—having a radiant form
+- अनवभ्रराधसः (*anavabhrarādhasaḥ*)—having imperishable wealth
+- सुजातासः (*sujātāsaḥ*)—having an excellent birth
+- जनुषा (*januṣā*)—from the very time of origin
+- रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*)—having necklaces on their breasts
+- अर्काः (*arkāḥ*)—worshipful Maruts
+- दिवः (*divaḥ*)—having manifested from the world of heaven
+- अमृतं (*amṛtaṃ*)—deathless
+- नाम (*nāma*)—fame (or water)
+- भेजिरे (*bhejire*)—have taken
+
+### Printed p. 734
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who have abundant water, ornaments, who are excellent givers, of radiant form, of imperishable wealth, of excellent birth, who from the very time of their origin have necklaces on their breasts, and who are worshipful, having manifested from the world of heaven have obtained deathless fame.
+
+##### English translation
+Shedders of abundant showers, wearers of ornaments, munificent, of brilliant aspect, of inexhaustible wealth, well- descended by birth, wearing golden breast-plates, entitled to adoration, (coming) from heaven, accept the ambrosial oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+अनवभ्रराधसः (*anavabhrarādhasaḥ*)—अनवभ्रष्टधनाः अथवा अभ्रष्टहविरादिधनाः । (*anavabhraṣṭadhanāḥ athavā abhraṣṭahavirādidhanāḥ |*) Since the word राधः (*rādhaḥ*) is read among the twenty-eight names of wealth beginning with मघं (*maghaṃ*) and रेक्णः (*rekṇaḥ*) (Ni. 3-9), राधः (*rādhaḥ*) means wealth. Here the word wealth means wealth such as oblations. अनवभ्र (*anavabhra*) means not fallen, not wasted. The wealth such as oblations offered to the Maruts is not wasted. Because they accept it and bestow on the sacrificers the reward that corresponds to it, the chief meaning of this word is that the wealth in the form of oblation offered to the Maruts is not wasted.
+
+अर्का (*arkā*)—पूज्या मरुतः । (*pūjyā marutaḥ |*) It means the worshipful Maruts, the gods. The word अर्क (*arka*) has various meanings, which are to be used according to the context. The word अर्क (*arka*) has various meanings: food (Ni. 3-9), the thunderbolt weapon (Ni. 3-11), god and mantra (Ni. 5-4). On the word अर्क (*arka*) Yāska has stated four kinds of meaning in these words:
+
+अर्कः । अर्को देवो भवति यदेनमर्चति । अर्को मंत्रो भवति यदनेनार्चंति । अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥ (*arkaḥ | arko devo bhavati yadenamarcati | arko maṃtro bhavati yadanenārcaṃti | arkamannaṃ bhavatyarcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā ‖*) (Ni. 5-4).
+
+Its explanation can be given in this way.—
+
+तावत्सर्व एवार्क इत्युच्यते यद्यस्मादेनं देवं अर्चंति (*tāvatsarva evārka ityucyate yadyasmādenaṃ devaṃ arcaṃti*) The god: अर्क (*arka*) means a deity, because it is the person or god whom the devotees use it for worshipping; that is, the object (deity) that the devotees worship is called अर्क (*arka*).
+
 ---
 
-**Progress note:** Done through printed p. 728. Sukta 57 Rk 1 with Special Topics; Rk 2 up to Pratipadartha
+**Progress note:** Done through printed p. 734. Maruts hymn 5.57 Rk 3-5, pp. 729-734
