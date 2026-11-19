@@ -18,7 +18,7 @@ Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you
 | 1 | Pūrva-pīṭhikā, Bhāṣya-bhūmikā, Maṃ. 1 Sū. 1–2 | scans | 238,000 | 104 | 44 | — | yes (3 files) | text made, not in book form | A |
 | 2 | Maṃ. 1 Sū. 3–19 | scans; **read a second time by the user, in good condition**; clean-up Nov 17 (our remarks out, verses from the reference) | 322,000 → 360,640 words counted by split on Nov 17 (old figure from another count) | 429 (kept for your review: 237 on Devanagari lines, 62 after references, 57 IAST twins, 43 explaining the marks, 30 other) | `[sic]` 143 kept; ‘as printed’ about 600 left | — | no | none | A |
 | 3 | Maṃ. 1 Sū. 20–32 | scans | 233,000 | 110 | 689 | — | **yes, whole volume (Nov 18)** | none | A |
-| 4 | Maṃ. 1 Sū. 33–46 | scans | 218,000 | 151 | 628 | — | no | none | A |
+| 4 | Maṃ. 1 Sū. 33–46 | scans | 218,000 | 151 | 628 | — | **yes, whole volume (Nov 19)** | none | A |
 | 5 | Maṃ. 1 Sū. 47–61 and the Pariśiṣṭa | scans | 270,000 | 231 | 396 | — | partly: pp. 2–468 and 486–584 (Nov 17); pp. 469–485 and 585–708 not yet | none | A |
 | 6 | Maṃ. 1 Sū. 62–80 | scans | 238,000 | 575 | 691 | — | no | none | A |
 | 7 | Maṃ. 1 Sū. 81–94 | scans | 229,000 | 1,958 | 416 | — | no | none | A |
@@ -88,7 +88,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 | 1 | [x] | [~] text made; verses not yet from reference | [ ] needs prose units (T1) | [~] 20 references, 12 Sanskrit corrections on 9 pages | [~] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 2 | [ ] | [ ] | [ ] | [~] **Saṃhitā verses of Sū. 3–19 now equal to the reference (93 of 176 replaced, Nov 17)**; Pada and quoted verses unaccented | [~] remarks removed by kind (Nov 17: 156+68 notes, 121 tentative, 146 `[as printed]`); `[?]`, `[sic]` kept for you; about 380 notes with first-person/reading remarks still to decide | [x] by the user, from scans | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 3 | [x] Nov 18 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 4 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 4 | [x] Nov 19 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 5 | [~] 5 files, pp. 2–468 and 486–584 | [ ] | [ ] | [~] pp. 1–184 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 6 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 7 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
@@ -142,6 +142,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 19 2026: supplied text of Vol 4 (whole volume, pp. 2–608) put in `vol4/html/`.
 - Nov 18 2026: the two supplied HTML files (Vol 1 file 2, Vol 3 file 1) converted to markdown at the user's request; the page splitter reads pandoc's header marks. Vol 2 pp. 1–385 still wanted (the file uploaded twice as `rig_2_1.md` is of another volume: Maṇḍala 6–7, pp. 389–841).
 - Nov 18 2026: supplied text of Vol 3 (whole volume, pp. 2–647) and of Vol 2 pp. 386–808 put in the repository; Vol 2 pp. 1–385 still wanted (the file uploaded for it was from another volume).
 - Nov 18 2026: T13 numbers pass run on Vols 7–10 (3 numbers changed, 22 `[?]` dropped; lists for the user made).
