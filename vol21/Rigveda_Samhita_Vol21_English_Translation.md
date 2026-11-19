@@ -28966,6 +28966,199 @@ This Agni, कविः (*kaviḥ*), far-seeing, प्रचेताः (*prac
 
 This same Agni, far-seeing, the giver of excellent knowledge, free from mortality, is established among men who are not poets. O mighty Agni, in you, in whom we shall always be of devout minds, such as you are, being in this world of men, do not harm us.
 
+### Printed p. 685
+
+##### English translation
+The far-seeing sagacious immortal Agni, has been stationed among short-sighted mortals: harm us not, vigorous Agni, in this world, that we may ever be devoted to you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यो योनिं॑ दे॒वकृ॑तं स॒साद॒ क्रत्वा॒ ह्य१॒॑ग्निर॒मृता॒ अता॑रीत् ।  
+> तमोष॑धीश्च व॒निन॑श्च॒ गर्भं॒ भूमि॑श्च वि॒श्वधा॑यसं बिभर्ति ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । योनिं । देवकृतं । ससाद । क्रत्वा । हि । अग्निः । अमृतान् । अतारीत् ।  
+> तं । ओषधीः । च । वनिनः । च । गर्भं । भूमिः । च । विश्वधायसं । बिभर्ति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योग्निर्देवकृतं देवैः कल्पितं योनिं स्थानमा ससाद अध्यास्ते । किमर्थं
+> देवाः स्थानं कल्पयंत्यग्नेरित्यत आह । हि यस्मात्कारणादग्निः क्रत्वा प्रज्ञयामृतान्देवानतारीत् । विश्वधायसं विश्वस्य धारकमोषधीरोषधयो वनिनश्च वृक्षाश्च
+> गर्भं गर्भं संतं तं बिभ्रति । भूमिश्च बिभर्ति ॥ श्रुतमेव बिभर्तीति पदं
+> बहुवचनांततया विपरिणतं सदोषधीभिर्वनिभिश्च संबध्यते ॥
+
+##### Gist of the bhāṣya
+
+The Agni who occupies, takes his seat in, the station, योनिं (*yoniṃ*), made by the gods, that is, arranged by the gods. For what purpose do the gods arrange a place for Agni? To this he answers: because Agni by his wisdom has brought the immortal gods across. The herbs and the trees bear him, the all-supporter, the sustainer of the universe, as a germ, he being a germ; and the earth bears him. The verb बिभर्ति (*bibharti*), as heard, is turned into the plural form and is construed with the herbs and the trees.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हि (*hi*)—for which reason
+- अग्निः (*agniḥ*)—Agni
+- क्रत्वा (*kratvā*)—by his own wisdom
+- अमृतान् (*amṛtān*)—the gods free from mortality
+- आतारीत् (*ātārīt*)—delivers from troubles (and)
+- यः (*yaḥ*)—which Agni
+- देवकृतं (*devakṛtaṃ*)—made by the gods
+- योनिं (*yoniṃ*)—the station
+- आ ससाद (*ā sasāda*)—has resorted to and abides in; such a one
+- विश्वधायसं (*viśvadhāyasaṃ*)—the supporter of the universe
+- तं (*taṃ*)—that same Agni
+- ओषधीः (*oṣadhīḥ*)—the herbs
+- वनिनश्च (*vaninaśca*)—and the trees
+- गर्भं (*garbhaṃ*)—bear in the form of a germ
+- भूमिश्च (*bhūmiśca*)—the earth too
+- बिभर्ति (*bibharti*)—bears
+
+### Printed p. 686
+
+##### भावार्थ (Bhāvārtha)
+
+Because Agni by his wisdom delivers the gods, who are free from mortality, from troubles, and because Agni abides, having resorted to the station made by the gods, that same all-supporting Agni the herbs and the trees bear in the form of a germ. The earth too bears him.
+
+##### English translation
+The herbs, and the trees, and the earth, contain as a germ that all-supporting Agni, who occupies a place provided by the gods, that by his functions he may convey (the offerings) to the immortals.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईशे॒ ह्य१॒॑ग्निर॒मृत॑स्य॒ भूरे॒रीशे॑ रा॒यः सु॒वीर्य॑स्य॒ दातोः॑ ।  
+> मा त्वा॑ व॒यं स॑हसावन्न॒वीरा॒ माप्स॑वः॒ परि॑ षदाम॒  ॑
+> मादुनः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईशे । हि । अग्निः । अमृतस्य । भूरेः । ईशे । रायः । सुवीर्यस्य ' दातोः ।  
+> मा । त्वा । वयं । सहसावन् । अवीराः । मा । अप्सवः । परि । सदाम । मा ।  
+> आदुवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमृतस्यान्नमुदकं वा ॥ द्वितीयार्थे षष्ठी ॥ भूरेरधिकं दातोर्दातुमग्निरीशे । ईष्टे हि । सुवीर्यस्य शोभनवीर्ययुक्तं रायो धनं दातुमीशे ।
+> ईष्टे । अथ प्रत्यक्षस्तुतिः । सहसावन् हे बलवन्नन्ने वयं वसिष्ठा अवीराः पुत्रादिरहिताः संतो मा परि षदाम । मा पर्युपविशाम । अप्सवो रूपरहिताश्च
+> संतो मा परि षदाम । तथा च यास्कः । अप्स इति रूपनाम । नि. ५-१३ । इति ।
+> अदुवः परिचरणहीनाश्च मा परि षदाम ॥
+
+##### Gist of the bhāṣya
+
+Amṛta means food, or water. Agni is able to give more than abundance; he is able to give wealth endowed with good valour. Now a direct address: O mighty one, we Vasiṣṭhas, without sons and the like, may we not sit about; being devoid of form, may we not sit about. So Yāska says: अप्स इति रूपनाम (*apsa iti rūpanāma*) (Ni. 5-13). And devoid of service, may we not sit about.
+
+### Printed p. 687
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भूरेः (*bhūreḥ*)—abundant
+- अमृतस्य (*amṛtasya*)—the amṛta that is in the form of food
+- दातोः (*dātoḥ*)—to give
+- अग्निः (*agniḥ*)—Agni
+- ईशे हि (*īśe hi*)—is he not able
+- सुवीरस्य (*suvīrasya*)—endowed with excellent strength
+- रायः (*rāyaḥ*)—wealth, to give
+- ईशे (*īśe*)—he is able
+- सहसावन् (*sahasāvan*)—O Agni, endowed with strength
+- वयं (*vayaṃ*)—we, of the lineage of Vasiṣṭha
+- अवीराः (*avīrāḥ*)—without heroic sons
+- मा परि षदाम (*mā pari ṣadāma*)—may we not be as if sitting
+- अप्सवः (*apsavaḥ*)—devoid of form
+- मा (*mā*)—may we not be
+- त्वा अदुवः (*tvā aduvaḥ*)—devoid of rites of worship of you
+- मा (*mā*)—may we not be
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is able to give abundant amṛta in the form of food. He is able to give wealth endowed with excellent strength. O mighty Agni, may we of the lineage of Vasiṣṭha not be as if sitting, without heroic sons. May we not be devoid of form. May we not be devoid of rites of worship of you.
+
+##### English translation
+Agni has power to grant abundant food : he has power to grant riches with male posterity : vigorous Agni, let us not sit down before you devoid of sons, of beauty, of devotion.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रि॒षद्यं॒ ह्यर॑णस्य॒ रेक्णो॒ नित्य॑स्य रा॒यः पत॑यः स्याम ।  
+> न शेषो॑ अग्ने अ॒न्यजा॑तम॒स्त्यचे॑तानस्य॒ मा प॒थो वि दु॑क्षः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परिसद्यं । हि । अरणस्य । रेक्षः । नित्यस्य । रायः । पतयः । स्याम ।  
+> न ! शेषः । अग्ने । अन्यजातं । अस्ति । अचेतानस्य । मा । पथः । वि । दुक्षः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरणस्यान्यृणस्य रेक्लो धनं परिषद्यं पर्याप्तं भवति हि । अतो नित्यस्यापुनर्देयस्य रायो धनस्य पतयः स्याम । यद्वा । अरणस्य रेक्लो धनं परिषद्यं
+
+##### Gist of the bhāṣya
+
+The wealth of the araṇa, अरणस्यान्यृणस्य (*araṇasyānyṛṇasya*) **NOTE**, is sufficient, ample. Therefore may we be lords of lasting wealth, that is, wealth that is not to be given back again. Or else: the wealth of the araṇa is परिषद्यं (*pariṣadyaṃ*),
+
+### Printed p. 688
+
+> परिहर्तव्यं भवति । अतो नित्यस्यौरसस्य रायः पुत्राख्यस्य धनस्य पतयः स्याम । हे
+> अग्ने अन्यजातमनौरसं शेषोऽपत्यं नास्ति । न भवति । अचेतनस्याविदुषः पथो
+> मार्गान् पुत्रोत्पादनप्रमुखान्मार्गान् मा वि दुक्षः । मा विदुदुषः ॥ दुष
+> वैकृत्य इति धातुः ॥ तथा च यास्कः । परिहर्तव्यं हि नोपसर्तव्यमरणस्य
+> रेक्नोऽरणोऽपार्णो भवति रेक्ण इति धननाम रिच्यते प्रयतः । नित्यस्य रायः
+> पतयः स्याम । न शेषो अग्ने अन्यजातमस्ति । शेष इत्यपत्यनाम शिष्यते प्रयतोऽचेतयमानस्य तत्प्रमत्तस्य भवति मा नः पथो विदूदुषः । नि. ३-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+to be avoided, परिहर्तव्यं (*parihartavyaṃ*). Therefore may we be lords of lasting wealth of the aurasa kind, that is, wealth called son. O Agni, offspring born of another, not aurasa, is not a remainder, शेषो (*śeṣo*): it does not exist. Do not corrupt the paths of the unintelligent, the unlearned, paths chief among which is the begetting of sons. So Yāska says (Ni. 3-2): परिहर्तव्यं हि नोपसर्तव्यमरणस्य रेक्नोऽरणोऽपार्णो भवति रेक्ण इति धननाम रिच्यते प्रयतः । नित्यस्य रायः पतयः स्याम । न शेषो अग्ने अन्यजातमस्ति । शेष इत्यपत्यनाम शिष्यते प्रयतोऽचेतयमानस्य तत्प्रमत्तस्य भवति मा नः पथो विदूदुषः । (*parihartavyaṃ hi nopasartavyamaraṇasya rekno 'raṇo 'pārṇo bhavati rekṇa iti dhananāma ricyate prayataḥ | nityasya rāyaḥ patayaḥ syāma | na śeṣo agne anyajātamasti | śeṣa ityapatyanāma śiṣyate prayato 'cetayamānasya tatpramattasya bhavati mā naḥ patho vidūduṣaḥ |*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरणस्य (*araṇasya*)—for the well-being that is free from debt
+- रेक्षः (*rekṣaḥ*)—wealth
+- परिषद्यं हि (*pariṣadyaṃ hi*)—is it not a capable means (therefore)
+- नित्यस्य (*nityasya*)—indestructible
+- रायः (*rāyaḥ*)—of wealth
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may we be
+- अग्ने (*agne*)—O Agni
+- अन्यजातं (*anyajātaṃ*)—a son born in another's womb
+- शेषः (*śeṣaḥ*)—as one possessing the conceit of a true son
+- न आस्ति (*na āsti*)—is not at all
+- अचेतानस्य (*acetānasya*)—of me, who am without full wisdom
+- पथः (*pathaḥ*)—the paths (that are the means of begetting a son)
+- मा वि दुक्षः (*mā vi dukṣaḥ*)—do not obstruct
+
+##### भावार्थ (Bhāvārtha)
+
+Is not wealth a complete and capable means to a well-being free from debt? Therefore may we be lords of indestructible wealth. O Agni, a son born in another's womb is not one who possesses the conceit of a true son. Do not obstruct the paths that are the means of begetting a son, of me who am not fully wise.
+
+##### English translation
+Wealth is competent to the acquittance of debt : may we be masters of permanent riches : that is not offspring which is begotten by another : alter not the paths (of the generation) of a blockhead.
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word अपत्य (*apatya*), Yāska has given an etymology for this ṛk: अपत्यं कस्मात् । अपततं भवति । नानेन पततीति वा । तद्यथा जनयितुः प्रजैवमर्थीये ऋचा उदाहरिष्यामः ॥ परिषद्यं ह्यरणस्य रेक्लो नित्यस्य रायः पतयः स्याम । न शेषो आग्ने अन्यजातमस्त्यचेतानस्य (*apatyaṃ kasmāt | apatataṃ bhavati | nānena patatīti vā | tadyathā janayituḥ prajaivamarthīye ṛcā udāhariṣyāmaḥ ‖ pariṣadyaṃ hyaraṇasya reklo nityasya rāyaḥ patayaḥ syāma | na śeṣo āgne anyajātamastyacetānasya*)
+
+### Printed p. 689
+
+मा पथो वि दुक्षः ॥ परिहर्तव्यं हि नोपसर्तव्यं । अरणस्य रेक्ण अरणोऽसार्णो भवति । रेक्ण इति धननाम । रिच्यते प्रयतः ॥ नित्यस्य पतयः स्याम । पित्र्यस्येव धनस्य । न शेषो अग्ने अन्यजातमस्ति शेष इत्यपत्यनाम । शिष्यते प्रयतः ॥ अचेतयमानस्य तत्प्रमत्तस्य भवति । मा नः पथो विदूदुष इति ॥ (*mā patho vi dukṣaḥ ‖ parihartavyaṃ hi nopasartavyaṃ | araṇasya rekṇa araṇo 'sārṇo bhavati | rekṇa iti dhananāma | ricyate prayataḥ ‖ nityasya patayaḥ syāma | pitryasyeva dhanasya | na śeṣo agne anyajātamasti śeṣa ityapatyanāma | śiṣyate prayataḥ ‖ acetayamānasya tatpramattasya bhavati | mā naḥ patho vidūduṣa iti ‖*) (Ni. 3-2)
+
+In this ṛk, which has the form of a dialogue between the ṛṣi Vasiṣṭha and Agni, the sons of the ṛṣi Vasiṣṭha having been slain for some other reason, he, desiring to have a son again, while praying to Agni says to himself क्रीतककृत्रिमदत्त कादीनां पुत्राणामन्यतमं कुरुष्ट पुत्रमिति (*krītakakṛtrimadatta kādīnāṃ putrāṇāmanyatamaṃ kuruṣṭa putramiti*) **NOTE**. He desires that it be an aurasa son indeed. Sons are of many kinds. One kind is this: those who have no children take another's infant on purchase, nourish it, protect it like their own children, and regard him as a son. A son of this kind is called a kreeta son. A man who, owing to disease and many other causes, is not capable of begetting a son on his own wife has a son begotten on his wife by another man (his relative or another man), and regards that son as his own son. A son of this kind is called a kṛtrima son. When he has no sons, he receives a suitable child of another as an adoption; that is, he receives him in the manner prescribed by the śāstra, himself performs for that son the rites such as the upanayana, and regards him as his son and as his heir. A son of this kind is called a datta son. These three kinds are in general practice. Yet, liking none of these, the ṛṣi Vasiṣṭha has prayed to Agni, desiring an aurasa son, who is born from his own bodily union with his wife. Among the many kinds of sons mentioned above, there is no doubt in the matter that the aurasa son alone, because he is born of his own body, is the best. All will agree to this. And—
+
+अंगादंगात्संभवसि हृदयादधिजायसे । आत्मा वै पुत्रनामासि स जीव शरदः शतं ॥ (*aṃgādaṃgātsaṃbhavasi hṛdayādadhijāyase | ātmā vai putranāmāsi sa jīva śaradaḥ śataṃ ‖*) (Tai. Ekāgni Kāṇḍa 2-11)
+
+the śruti sentence too supports this. In this mantra it is a sentence which the father speaks, addressing his son who has just been born (while smelling the son's head at the jātakarma). "O son, you are born of my own limbs and of my heart. Therefore I myself am in you in the form of a son. In truth there is no difference between me and you. May you live, having obtained a life of a hundred years": this is the meaning of this benedictory mantra. Therefore, the aurasa son is the best among all sons, and the ṛṣi Vasiṣṭha has prayed to Agni, in this ṛk and in the next ṛk, to bestow on him just such an aurasa son.
+
+### Printed p. 690
+
+In the present ṛk the word अपत्य (*apatya*) is not used; only the word शेष (*śeṣa*) is used. But since the words अपत्य (*apatya*) and शेष (*śeṣa*) have one and the same meaning, Yāska has given an etymology of these words. Since the word अपत्य (*apatya*) has the sense of extending, that is, extending the family, increasing it, अपत्य (*apatya*) means a son or progeny. The son will extend the father's line, that is, will make it grow. Therefore अपत्य (*apatya*) is the progeny of sons; and न अनेन पततीति वा (*na anena patatīti vā*): because by this son the father does not fall into hell and the like, the son is also named अपत्य (*apatya*). It is held that by the good rites performed by the son, the father, after he has died, does not fall into hell but attains the world of heaven; therefore, as one who makes the father not fall into hell, the son is named अपत्य (*apatya*). The word शेष (*śeṣa*) also means अपत्य (*apatya*), that is, a son. How? शेष (*śeṣa*) means what remains. Here, among father and sons in the world, since the father's age is greater, he dies first. After he has thus died, that is, after he has gone to the other world, the one who remains in this world is the son. Therefore the son is also called शेष (*śeṣa*). In the present ṛk the word शेष (*śeṣa*) has this meaning.
+
+The wealth of others is to be avoided, that is, must not be accepted. Above all, the wealth of one who has no connection with him, or is a distant relation, must not be touched at all. रेक्ष (*rekṣa*) means wealth. This word is derived from the root रिच् (*ric*), which has the sense of leaving, going away leaving behind. That is, a man, when he dies, leaves behind the wealth he has (for sons and others). The wealth that is left behind in this way is called रेक्षः (*rekṣaḥ*). "Such wealth we do not want" means: the wealth of another, which does not justly come to us, that is, to which there is no claim or title through bodily relation, we do not want. We want only wealth that is lasting and ancestral. A son born of another man is not a son (to us); that is, among sons such as the adopted son we want no kind at all. We want the aurasa son alone. The word शेष (*śeṣa*) indicates the meaning "son". One's own son, who remains after the father's death, is called शेष (*śeṣa*). Other kinds of sons are desired only by the unintelligent, the unwise. We want only the aurasa son, who is born of our own body. Therefore, O Agni, may we not follow a bad way, that is, a bad way other than the way that our elders, our fathers and grandfathers and the rest, followed: this is the chief intent of the etymology.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि ग्रभा॒यार॑णः सु॒शेवो॒ऽन्नोद॑र्यो॒ मन॑सा॒ मंत॒वा उ॑ ।  
+> अधा॑ चि॒दोकः॒ पुन॒रित्स ए॒त्या नो॑ वा॒ज्य॑भी॒षाळे॑तु॒ नव्यः॑ ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 684. Sūkta 4 intro, Ṛk 1-4 (pp. 679-684)
+**Progress note:** Done through printed p. 690. Ṛk 5-7 and start of Ṛk 8 (pp. 685-690)
