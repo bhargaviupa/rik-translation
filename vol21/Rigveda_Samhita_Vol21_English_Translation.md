@@ -22463,6 +22463,306 @@ Divine and glorified Indra and Varuna, quickly bestow upon us wealth for our fel
 > अयं । यः । उर्वी इति । महिना । महिव्रतः । क्रत्वा । विभाति । अजरः । न ।  
 > शोचिषा ॥ ९ ॥
 
+### Printed p. 508
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः सम्राज अज्ञया राज्ञां शासकाय बृहते परिवृढाय देवाय
+> द्योतमानाय वरुणाय प्रियं मनोहरं सप्रथः सर्वतः पृथु । तथा च यास्कः ।
+> सप्रथाः सर्वतः पृथुः । नि. ६-७ । इति । मन्म स्तोत्रं नु आद्य प्रार्थ । प्रोच्चारय ।
+> आयं यो योऽयं वरुणो महिना महिम्ना युक्तो महिव्रतो महाकर्मा
+> क्रत्वा प्रज्ञया च युक्तः शोचिषा तेजसा युक्तोऽजरो न जरारहितश्चोर्वि
+> विस्तीर्णे द्यावापृथिव्य विभाति विभासयति ॥
+
+##### Gist of the bhāṣya
+
+O praiser, to Varuṇa, the सम्राज (*samrāja*), the ruler of kings by his command; बृहते (*bṛhate*), the great, the grown; देवाय (*devāya*), the shining; recite now a hymn (मन्म (*manma*), a praise) that is प्रियं (*priyaṃ*), pleasing, and सप्रथः (*saprathaḥ*), broad on every side. So Yāska: सप्रथाः सर्वतः पृथुः (*saprathāḥ sarvataḥ pṛthuḥ*) (Ni. 6-7) **GLOSS**. This Varuṇa who, endowed with greatness (महिना (*mahinā*)), महिव्रतः (*mahivrataḥ*), of great works, and endowed with insight (क्रत्वा (*kratvā*)) and with radiance (शोचिषा (*śociṣā*)), and as one free from old age, illumines (विभाति (*vibhāti*)) the two wide worlds, heaven and earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः आयं (*yaḥ āyaṃ*)—this same Varuṇa who
+- महिना (*mahinā*)—united with his greatness
+- महिव्रतः (*mahivrataḥ*)—possessed of great works
+- क्रत्वा (*kratvā*)—endowed with insight
+- अजरो न (*ajaro na*)—and free from decay
+- उर्वि (*urvi*)—the wide heaven and earth
+- शोचिषा (*śociṣā*)—with his radiance
+- विभाति (*vibhāti*)—causes to shine, such
+- सम्राजे (*samrāje*)—the universal ruler
+- बृहते (*bṛhate*)—the grown
+- देवाय (*devāya*)—and the shining
+- वरुणाय (*varuṇāya*)—to Varuṇa
+- प्रियं (*priyaṃ*)—pleasing
+- सप्रथः (*saprathaḥ*)—and extensive
+- मन्म (*manma*)—a hymn
+- नु (*nu*)—at once
+- प्र अर्च (*pra arca*)—recite and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, this same Varuṇa who, united with his greatness, possessed of great works, endowed with insight and free from decay, causes both the wide heaven and earth to shine with his radiance: to that universal ruler, the grown, the shining Varuṇa, at once recite and worship with a hymn that is pleasing and extensive.
+
+##### English translation
+Repeat acceptable and all-comprehensive praise to the imperial mighty divine Varuna, he who, endowed with greatness. with wisdom, and with splendour, illumes the spacious (heaven and earth).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑वरुणा सुतपावि॒मं सु॒तं सोमं॑ पिबतं॒ मद्यं॑  
+> धृतव्रता ।  
+> यु॒वो रथो॑ अध्व॒रं दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ याति  ॒॑
+> पीतये ॥ १० ॥
+
+### Printed p. 509
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रावरुणा । सुतपौ । इमं । सुतं । सोमं । पिबतं । मद्यं । धृतव्रता ।  
+> युवोः । रथः । अध्वरं । देववीतये । प्रति । स्वसरं । उप । याति । पीतये॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रावरुणा हे इंद्रावरुणौ सुतपौ सुतस्य सोमस्य पातारौ युवां
+> मद्यं मदकरं सुतमभिषुतमिमं सोमं पिबतं । किंच हे धृतव्रता धृतकर्माणौ
+> युवोर्युववयो रथोऽध्वरमुद्दिश्य देववीतये! देवानां पानार्थं पीतये
+> युवयोरपि सोमपानार्थं स्वसरं मार्गं प्रत्युप याति ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, सुतपौ (*sutapau*), drinkers of the pressed Soma, drink this pressed Soma, the intoxicating (मद्यं (*madyaṃ*), that which gladdens). Moreover, O धृतव्रता (*dhṛtavratā*), upholders of rites, your chariot comes along the road (स्वसरं (*svasaraṃ*), the way) towards the sacrifice, for the drinking (देववीतये (*devavītaye*)) of the gods, and also for the drinking of the Soma by you two (पीतये (*pītaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रा वरुणा (*iṃdrā varuṇā*)—O Indra and Varuṇa
+- सुतपा (*sutapā*)—you who drink the pressed Soma
+- मद्यं (*madyaṃ*)—that which satisfies
+- सुतं (*sutaṃ*)—and has been pressed
+- इमं सोमं (*imaṃ somaṃ*)—this Soma juice
+- पिबतं (*pibataṃ*)—drink
+- धृतव्रता (*dhṛtavratā*)—O Indra and Varuṇa, upholders of rites
+- युवोः (*yuvoḥ*)—your
+- रथः (*rathaḥ*)—chariot
+- अध्वरं (*adhvaraṃ*)—to the sacrifice
+- देववीतये (*devavītaye*)—for the drinking of the gods
+- पीतये (*pītaye*)—and for your drinking
+- स्वसरं प्रति (*svasaraṃ prati*)—following the road of the sacrifice
+- उप याति (*upa yāti*)—comes
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, you who drink the pressed Soma, drink this Soma juice that is satisfying and has just been pressed. O Indra and Varuṇa, upholders of rites, your chariot comes following the road of the sacrifice, for the drinking of the gods and for your drinking.
+
+##### English translation
+Indra and Varuna, observant of holy duties, drinkers of the Soma juice, drink this exhilarating effused libation: your chariot approaches along the road to the sacrifice, (that you may partake) of the food of the gods, aud drink (the Soma).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑वरुणा॒ मधु॑मत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथां ।  
+> इ॒दं वा॒मंधः॒ परि॑षिक्तम॒स्मे आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयेथां॥
+
+### Printed p. 510
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रावरुणा । मधुमत्कतमस्य । वृष्णः । सोमस्य । वृषणा । आ । वृषेथां ।  
+> इदं । वां । अंधः । परिसिक्तं । अस्मे इति । आसद्य । अस्मिन् । बर्हिषि । मादयेथां॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रावरुणा हे इंद्रावरुणौ वृषणा कामानां वर्षितारौ युवां
+> मधुमत्तमस्यातिशयेन मधुमंतं रसवंतं वृष्णो वर्षितारं सोमस्य
+> सोममा वृषेथां । अश्नीतं । तथा च शतपथब्राह्मणं । यथाभागमावृषायध्वमिति यथाभागमश्नीतेत्येवैतदाह । २-४-२-२० । इति । नां युवयोरर्थ
+> इदमंधः सोमरूपमन्नमस्मे आस्माभिः परिषिक्तं पात्रेषु । आत आसद्योपविश्यास्मिन्बर्हिषि यज्ञे मादयेथां सोमपान इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, वृषणा (*vṛṣaṇā*), showerers of desires, partake (आ वृषेथां (*ā vṛṣethāṃ*), that is, eat) of the Soma, the sweetest (मधुमत्तमस्य (*madhumattamasya*), exceedingly sweet and full of juice), the showerer (वृष्णः (*vṛṣṇaḥ*)). So the Śatapatha Brāhmaṇa: यथाभागमावृषायध्वमिति यथाभागमश्नीतेत्येवैतदाह । (*yathābhāgamāvṛṣāyadhvamiti yathābhāgamaśnītetyevaitadāha |*) (2-4-2-20) **GLOSS**. For you two this food (अंधः (*aṃdhaḥ*)), in the form of Soma, has been poured round (परिषिक्तं (*pariṣiktaṃ*)) into the vessels by us. Then, having sat down on this sacred grass at the sacrifice, may you be exhilarated, that is, at the Soma drinking; this is the remainder to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- वृषणा (*vṛṣaṇā*)—you, showerers of desires
+- मधुमत्तमस्य (*madhumattamasya*)—of the most sweet
+- वृष्णः (*vṛṣṇaḥ*)—and juicy
+- सोमस्य (*somasya*)—Soma
+- आ वृषेथां (*ā vṛṣethāṃ*)—partake
+- वां (*vāṃ*)—for you
+- इदं अंधः (*idaṃ aṃdhaḥ*)—this Soma juice
+- अस्मे (*asme*)—by us
+- परिषिक्तं (*pariṣiktaṃ*)—has been filled into the vessel
+- अस्मिन् बर्हिषि (*asmin barhiṣi*)—on this seat of darbha grass
+- आसद्य (*āsadya*)—sitting down
+- मादयेधां (*mādayedhāṃ*)—be satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, you who shower desires, partake of the Soma juice that is exceedingly sweet and juicy. For you this Soma juice has been filled into the vessel by us. Sitting down on this seat of darbha grass, be satisfied.
+
+##### English translation
+Drink, Indra and Varuna, showerers (of benefits), of the most sweet
+soma the shedder (of blessings): this, your beverage, is poured forth by
+us: sitting on the sacred grass, be exhilarated (by the draught).
+
+### Printed p. 511
+
+## Sūkta 69 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सं वां कर्मणेत्यष्टर्चमष्टमं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रावैष्णवं । अनुक्रम्यते च । सं वामष्टावैंद्रावैष्णवमिति ॥ उक्ते तृतीयसवनेच्छावाकशस्त्र एतत्तूक्तं । सूत्र्यते हि । सं वां कर्मणेंद्राविष्णू मदपती
+> मदानामिति याज्ञा । आ. ६-१ । इति ॥ सोमातिरेके प्रातःसवने नैमित्तिके शस्त्रे
+> परिहिते सति गाणगारिमते सं वामिति तस्य शस्त्रयाज्या । सूत्रितं च । ऐंद्रावैष्णव्येति
+> गाणगारिद्वैवतप्रधानत्वात्सं वां कर्मणा समिषा हिनोमि । आ. ६-७ । इति ॥
+> सोमातिरेके माध्यंदिनसवने या विश्वासामित्येषा शस्त्रयाज्या । सूत्रितं च । या
+> विश्वासां जनितारा मतीनामिति याज्ञा । अ. ६-७ । इति ॥ उक्ते तृतीयसवनेच्छावाकस्येंद्राविष्णू मदपती इति शस्त्रयाज्या । सूत्रं तूदाहृतं ॥ तृतीयसवनेच्छावाकस्येंद्राविष्णू पिबतमिति प्रस्थितयाज्या । सूत्रितं च । इंद्राविष्णू पिबतं
+> मध्वो अस्येमं स्तोममर्हते जातवेदसे । आ. ५-५ इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning सं वां कर्मणा (*saṃ vāṃ karmaṇā*) has eight ṛks and is the eighth sūkta. Bharadvāja is its seer, the metre is Triṣṭubh, and the deity is Indra and Viṣṇu. So it is given in the Anukramaṇikā: सं वामष्टावैंद्रावैष्णवमिति (*saṃ vāmaṣṭāvaiṃdrāvaiṣṇavamiti*) **GLOSS**. In the ukthya rite, at the third pressing, this sūkta is used in the śastra of the Acchāvāka. It is laid down: सं वां कर्मणेंद्राविष्णू मदपती मदानामिति याज्ञा (*saṃ vāṃ karmaṇeṃdrāviṣṇū madapatī madānāmiti yājñā*) (Ā. 6-1) **GLOSS**. When there is an excess of Soma and, at the morning pressing, an occasional śastra has been set aside, then, according to the view of Gāṇagāri, the ṛk सं वां (*saṃ vāṃ*) is its śastra yājyā. It is laid down: ऐंद्रावैष्णव्येति गाणगारिद्वैवतप्रधानत्वात्सं वां कर्मणा समिषा हिनोमि (*aiṃdrāvaiṣṇavyeti gāṇagāridvaivatapradhānatvātsaṃ vāṃ karmaṇā samiṣā hinomi*) (Ā. 6-7) **GLOSS**. When there is an excess of Soma at the midday pressing, the ṛk या विश्वासां (*yā viśvāsāṃ*) is the śastra yājyā. It is laid down: या विश्वासां जनितारा मतीनामिति याज्ञा (*yā viśvāsāṃ janitārā matīnāmiti yājñā*) (A. 6-7) **GLOSS** **NOTE**. In the ukthya, at the third pressing, for the Acchāvāka the ṛk इंद्राविष्णू मदपती (*iṃdrāviṣṇū madapatī*) is the śastra yājyā; the sūtra has been quoted above. At the third pressing, for the Acchāvāka, the ṛk इंद्राविष्णू पिबतं (*iṃdrāviṣṇū pibataṃ*) is the prasthita yājyā. It is laid down: इंद्राविष्णू पिबतं मध्वो अस्येमं स्तोममर्हते जातवेदसे (*iṃdrāviṣṇū pibataṃ madhvo asyemaṃ stomamarhate jātavedase*) (Ā. 5-5) **GLOSS**.
+
+##### Anuvāda
+
+This sūkta सं वां कर्मणा (*saṃ vāṃ karmaṇā*) is the eighth sūkta in the sixth anuvāka. It has eight ṛks. Bharadvāja is the seer of this sūkta; Indra and Viṣṇu are the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: सं वामष्टावैंद्रावैष्णवं (*saṃ vāmaṣṭāvaiṃdrāvaiṣṇavaṃ*) **GLOSS**. At the time of the third pressing of the sacrifice called Ukthya, this sūkta is to be recited among the śastra mantras recited by the priest called Acchāvāka; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra सं वां कर्मणेंद्राविष्णू मदपती मदानामिति याज्या (*saṃ vāṃ karmaṇeṃdrāviṣṇū madapatī madānāmiti yājyā*) (Ā. 6-1) **GLOSS**. On the occasion when, at the time of the morning pressing, on account of an excess of Soma, the śastra mantras are to be recited, the ṛk सं वां (*saṃ vāṃ*) is to be recited as the śastra yājyā mantra according to the view of the teacher called Gāṇagāri; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra ऐंद्रावैष्णव्येति गाणगारिद्वैवतप्रधानत्वात् सं वां कर्मणा समिषा हिनोमि (*aiṃdrāvaiṣṇavyeti gāṇagāridvaivatapradhānatvāt saṃ vāṃ karmaṇā samiṣā hinomi*) (Ā. 6-7) **GLOSS**. Likewise at the time of the midday pressing also, on account of an excess of Soma, the second ṛk, या विश्वासां (*yā viśvāsāṃ*), is to be recited as the śastra yājyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra या विश्वासां जनितारा मतीनामिति याज्या (*yā viśvāsāṃ janitārā matīnāmiti yājyā*) (Ā. 6-7) **GLOSS**. In the ukthya sacrifice also, at the time of the third pressing, the third ṛk, इंद्राविष्णू मदपती (*iṃdrāviṣṇū madapatī*), is to be recited by the priest called Acchāvāka as the śastra yājyā mantra; this is said in the sūtra above. And at the time of the third pressing the seventh ṛk, इंद्राविष्णू पिबतं (*iṃdrāviṣṇū pibataṃ*), is to be recited by the priest called Acchāvāka as the prasthita yājyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra
+
+### Printed p. 512
+
+इंद्राविष्णू पिबतं मध्वो अस्येमं स्तोममर्हते जातवेदसे (*iṃdrāviṣṇū pibataṃ madhvo asyemaṃ stomamarhate jātavedase*) (Ā. 5-5) **GLOSS**.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 69 **NOTE**
+- Aṣṭaka 5; Adhyāya 1; Varga 13
+- Number of ṛks in the sūkta: 8
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: इंद्राविष्णु (*iṃdrāviṣṇu*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं वां॒ कर्म॑णा॒ समि॒षा हि॑नो॒मींद्रा॑विष्णू॒ अप॑सस्पा॒रे  ॒
+> अस्य ।  
+> जु॒षेथां॑ य॒ज्ञं द्रवि॑णं च धत्त॒मरि॑ष्टैर्नः प॒थिभिः॑ पा॒रयं॑ता ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । वां । कर्मणा । सं । इषा । हिनोमि । इंद्राविष्णू इति । अपसः । पारे । अस्य ।  
+> जुषेथां । यज्ञं । द्रविणं । च । धत्तं । अरिष्टैः । नः । पथिभिः । पारयंता ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राविष्णू नां युवां कर्मणा स्तोत्रेणेषा हविषा च सं हिनोमि ।
+> सम्यक् प्रेरयामि । अपसः कर्मणोऽस्योक्तस्य पारे समाप्ता यज्ञं जुषेथां ।
+> सेवेथां । किंचारिष्टैरनुपद्रवैः पथिभिर्मार्गैर्नोऽस्मान्पारयंता पारं नयंतौ
+> युवां द्रविणं धनं धत्तं । अस्मभ्यं दत्तं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Viṣṇu, I well impel you two (सं हिनोमि (*saṃ hinomi*), that is, I urge duly) with the rite (कर्मणा (*karmaṇā*), the praise) and with the oblation (इषा (*iṣā*)). At the end (पारे (*pāre*)), at the completion, of this work (अपसः (*apasaḥ*), the rite) that has been recited, enjoy (जुषेथां (*juṣethāṃ*), that is, be served by) the sacrifice. Moreover, leading us across (पारयंता (*pārayaṃtā*), taking us to the further shore) by safe paths (अरिष्टैः (*ariṣṭaiḥ*), free from disturbance), bestow (धत्तं (*dhattaṃ*), give) wealth (द्रविणं (*draviṇaṃ*)) on us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Viṣṇu
+- वां (*vāṃ*)—you
+- कर्मणा (*karmaṇā*)—with the rite in the form of praise
+- इषा (*iṣā*)—and with the oblation
+- सं हिनोमि (*saṃ hinomi*)—I worship
+
+### Printed p. 513
+
+- अपसः (*apasaḥ*)—of my rite (and)
+- अस्य (*asya*)—of the recitation of this ukta mantra
+- पारे (*pāre*)—at the end
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- जुषेथां (*juṣethāṃ*)—enjoy
+- अरिष्टैः (*ariṣṭaiḥ*)—free from harm
+- पथिभिः (*pathibhiḥ*)—by paths
+- नः (*naḥ*)—us
+- पारयंता (*pārayaṃtā*)—lead and show us the shore
+- द्रविणं च (*draviṇaṃ ca*)—wealth also
+- धत्तं (*dhattaṃ*)—give to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu, I worship you with the rite in the form of praise and with the oblation. At the end of my rite and of this recitation of the ukta mantra, enjoy the sacrifice. Lead us by paths free from harm. And without trouble show us the shore. Give us wealth.
+
+##### English translation
+I earnestly propitiate you, Indra and Vishnu, by worship and (sacrificial) food : upon the completion of the rite, accept the sacrifice, and grant us wealth, conducting us by safe paths.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या विश्वा॑सां जनि॒तारा॑ मती॒नामिंद्रा॒विष्णू॑ क॒लशा॑ सोम॒धाना॑ ।  
+> प्र वां॒ गिरः॑ श॒स्यमा॑ना अवंतु॒ प्र स्तोमा॑सो गी॒यमा॑नासो अ॒र्कैः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । विश्वासां । जनितारा । मतीनां । इंद्राविष्णू इति । कलशा । सोमधाना ।  
+> प्र । वां । गिरः । शस्यमानाः । अवंतु । प्र । स्तोमासः । गीयमानासः । अर्कैः॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या यौ प्रसिद्धाविंद्राविष्णू विश्वासां सर्वासां मतीनां स्तुतीनां जनितारा
+> जनितारौ ॥ जन जनन इत्यस्माद्धातोस्तृचीदं रूपं । यद्वा । जनी प्रादुर्भाव
+> XXI 33
+> XXI 33
+
+##### Gist of the bhāṣya
+
+The two well-known Indra and Viṣṇu who are the जनितारा (*janitārā*), generators, of all (विश्वासां (*viśvāsāṃ*)) the मतीनां (*matīnāṃ*), the praises.
+
+### Printed p. 514
+
+> इत्यस्माद्घातोरेव तृचि जनिता मंत्र इति निपातनाण्णिलोपः ॥ कलशा कलशौ
+> सोमधाना सोमस्य निधानभूतौ च स्यातां । अथ प्रत्यक्षस्तुतिः । हे इंद्राविष्णू
+> वां युवां शस्यमाना उच्चार्यमाणाः शस्त्ररूपा गिरो वाचः प्रावंतु ।
+> प्राप्नुवंतु । अर्कैः स्तोतृभिर्गीयमानासो गीयमानाः स्तोमासः स्तोमाः
+> स्तोत्राणि च प्रावंतु । प्राप्नुवंतु ॥
+
+##### Gist of the bhāṣya
+
+May the two also be कलशा (*kalaśā*), vessels, and सोमधाना (*somadhānā*), receptacles of the Soma. Now a direct address: O Indra and Viṣṇu, may the utterances (गिरः (*giraḥ*), the words) in the form of śastras, which are being recited (शस्यमाना (*śasyamānā*)) to you, reach you (प्रावंतु (*prāvaṃtu*), that is, attain). And may the stomas (स्तोमासः (*stomāsaḥ*)), the hymns of praise that are being sung (गीयमानासो (*gīyamānāso*)) by the praisers (अर्कैः (*arkaiḥ*)), reach you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Viṣṇu
+- या (*yā*)—you who
+- विश्वासां (*viśvāsāṃ*)—for all
+- मतीनां (*matīnāṃ*)—praises
+- जनितारा (*janitārā*)—are the place of origin
+- कलशा (*kalaśā*)—and are in the form of vessels
+- सोमधाना (*somadhānā*)—in the form of receptacles in which Soma is placed, such
+- वां (*vāṃ*)—you
+- शस्यमानाः (*śasyamānāḥ*)—that praise you
+- गिरः (*giraḥ*)—the words of praise
+- प्र अवंतु (*pra avaṃtu*)—may they come and reach you
+- अर्कैः (*arkaiḥ*)—by the praisers
+- गीयमानासः (*gīyamānāsaḥ*)—that are chanted
+- स्तोमासः (*stomāsaḥ*)—the stomas also
+- प्र (अवंतु) (*pra (avaṃtu)*)—may they come and reach you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu, you who are the place of origin of all praises and are in the form of vessels, in the form of receptacles in which Soma is placed: may our words of praise that praise such as you come and reach you. May the stomas that are chanted by the praisers also come and reach you.
+
+##### English translation
+May the prayers that are repeated to you reach you Indra and Vishnu : may the praises that are chanted reach you : you are the generators of all praises, pitchers recipient of the Soma libation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑विष्णू मदपती मदाना॒मा सोमं॑ यातं॒ द्रवि॑णो॒  ॑
+> दधाना ।  
+> सं वा॑मंजंत्व॒क्तुभि॑र्मती॒नां सं स्तोमा॑सः श॒स्यमा॑नास  ॒
+> उ॒क्थैः ।
+
 ---
 
-**Progress note:** Done through printed p. 507. Ṛk 3 to 9 of sūkta 68 (Pada of Ṛk 9)
+**Progress note:** Done through printed p. 514. Ṛk 9-11 of sūkta 68, sūkta 69 Ṛk 1-3 start
