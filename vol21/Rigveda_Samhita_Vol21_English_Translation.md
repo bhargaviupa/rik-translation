@@ -20329,6 +20329,286 @@ At your dawning, divine Ushas, the birds spring up from their nests, and men who
 
 The sūkta beginning एषा स्वेति (*eṣā sveti*), of six ṛks, the fourth sūkta, is the vision of Bharadvāja and is in the Triṣṭubh metre. In the Anukramaṇikā it is said एषास्येति (*eṣāsyeti*) **GLOSS**. Since उषस्यं त्विति (*uṣasyaṃ tviti*) **GLOSS** has been stated in the previous sūkta, this one too has Uṣas as its deity. Its ritual use in the Prātaranuvāka and in the Āśvina-śastra has been stated.
 
+### Printed p. 461
+
+##### Anuvāda
+
+Translation: this sūkta एषा स्या (*eṣā syā*) is the fourth sūkta in the sixth anuvāka. It has six ṛks. Bharadvāja is the seer of this sūkta; the goddess Uṣas is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said एषा स्या (*eṣā syā*) **GLOSS**. It has already been stated earlier that this sūkta is used for the Prātaranuvāka and for the Āśvina-śastra mantras.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 65
+- Aṣṭaka 5; Adhyāya 1; Varga 6
+- Number of ṛks in the sūkta: 6
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: उषाः (*uṣāḥ*)
+- Metre: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒षा स्या नो॑ दुहि॒ता दि॑वो॒जाः क्षि॒तीरु॒च्छंती॒ मानु॑षीरजीगः।  
+> या भा॒नुना॒ रुश॑ता रा॒म्यास्वज्ञा॑यि ति॒रस्तम॑सश्चिद॒क्तून् ॥ - ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषा । स्या । नः । दुहिता । दिवःजाः । क्षितीः । उच्छंती । मानुषीः । अजीगरिति ।  
+> या । भानुना । रुशता । राम्यासु । अज्ञायि । तिर॥ । तमसः । चित् । अक्तून् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा स्या सा दिवोजा दिवो जाता अत एव दुहिता दिवः पुत्र्युषा नोऽस्मदर्थमुच्छंती तमांसि वर्जयंती क्षितीः प्रजाः मानुषीरजीगः । उद्दिरति । जीगर्तिर्गिरतिकर्मा वा । नि. ६-८ । इति यास्कः । प्रकाशयतीति यावत् । या रुशता दीप्यमानेन भानुना युक्ता राम्यासु याम्यासु रात्रिषु ॥ रेफयकारयोर्व्यत्यय॥ ॥ अक्तून्नक्षत्रादितेजांसि तमसश्चित् तमांसि च तिरस्तिरस्कुर्वत्यज्ञायि दृश्यते॥
+
+##### Gist of the bhāṣya
+
+This Uṣas is born of heaven and therefore is the daughter, the child of heaven. For us she drives away the darknesses and rouses the human peoples; "ajīgaḥ" means that she makes them manifest, that is she illumines them, and Yāska is cited for this (Ni. 6-8). She who, joined with a shining ray, in the nights, "rāmyā" being explained as "yāmyā", puts into the shade the lights of the stars and the like, and the darknesses as well, is seen as such.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the goddess Uṣas who
+- रुशता (*ruśatā*)—with bright
+- भानुना (*bhānunā*)—rays
+- राम्यासु (*rāmyāsu*)—that were in the night times
+- अक्तून् (*aktūn*)—the stars and the like
+- तमसश्चित् (*tamasaścit*)—likewise the darkness
+
+### Printed p. 462
+
+- तिरः (*tiraḥ*)—concealing
+- अज्ञायि (*ajñāyi*)—becomes visible, such as she is
+- स्या (*syā*)—the renowned
+- दिवोजाः (*divojāḥ*)—born of the heavenly world
+- दुहिता (*duhitā*)—and the daughter of the heavenly world
+- एषा (*eṣā*)—this goddess Uṣas
+- नः (*naḥ*)—for us
+- उच्छंती (*ucchaṃtī*)—destroying the darkness
+- मानुषीः (*mānuṣīḥ*) क्षितीः (*kṣitīḥ*)—the human peoples
+- अजीगः (*ajīgaḥ*)—she illumines
+
+##### भावार्थ (Bhāvārtha)
+
+The renowned goddess Uṣas, born of the heavenly world and daughter of the heavenly world, who becomes visible by her bright rays, concealing the stars and the like that shone in the night time, and likewise the darkness, destroys the darkness for us and illumines the human peoples.
+
+##### English translation
+This heaven-bron daughter (of th sky), driving away the darkness for us, makes visible humau beings : she who with bright lustre is perceived dissipating the glooms, and (extinguishing) the planets (shining) in the nights.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि तद्य॑युररुण॒युग्नि॒रश्वै॑श्चि॒त्रं भां॑त्यु॒षस॑श्चं॒द्रर॑थाः ।  
+> अग्रं॑ य॒ज्ञस्य॑ बृह॒तो नयं॑ती॒र्वि ता बा॑धंते॒ तम॒  ॑
+> ऊर्म्यायाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि ! तत् । ययुः । अरुणयुक्भिः । अश्वैः । चित्रं । भांति । उषसः । चंद्ररथाः ।  
+> अग्रं । यज्ञस्य । बृहतः । नयंतीः । वि । ताः । बाधंते । तमः । ऊर्म्यायाः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चंद्ररथाः कांतिरथाः । चंद्रश्चंदतेः कांतिकर्मणः । नि. ११-५ । इति यास्कः ।
+> ता उषसस्तत्तदानीं प्रातःकाले बृहतो बृंहणशीलस्य यज्ञ स्याग्रं मुखं नयंतीः
+> संपादयंत्योऽरुणयुग्निररुणवर्णयुक्तैरश्वैर्वि ययुः । विस्तीर्णं यांति ।
+
+##### Gist of the bhāṣya
+
+"Chandrarathāḥ" means those whose chariots are radiant; Yāska is cited for the sense of "candra" (Ni. 11-5). Those Uṣases, at that time, in the morning, bring forward the front, the head, of the great, growth-natured sacrifice, and go forth widely with horses of red colour.
+
+### Printed p. 463
+
+> चित्रं यथा भवति तथा भांति च । उर्मार्यया रात्रेः । अक्तुरूर्म्येति रात्रिनामसु
+> पाशात् । तमो वि बाधंते । सम्यगपनयंति च ॥
+
+##### Gist of the bhāṣya
+
+They also shine wonderfully. "Ūrmyā" is read among the names of night, as is "aktu"; so they drive away the darkness of the night, that is they remove it completely.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चंद्ररथाः (*caṃdrarathāḥ*)—those who have chariots of attractive radiance
+- उषसः (*uṣasaḥ*)—the dawns
+- तत् (*tat*)—in the morning time itself
+- बृहतः (*bṛhataḥ*)—of vast nature
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- अग्रं (*agraṃ*)—the front part
+- नयंतीः (*nayaṃtīḥ*)—securing
+- अरुणयुग्भिः (*aruṇayugbhiḥ*)—of red colour
+- अश्वैः (*aśvaiḥ*)—with horses
+- वि ययुः (*vi yayuḥ*)—they move about at will
+- चित्रं (*citraṃ*)—in manifold ways
+- भांति (*bhāṃti*)—they shine
+- ताः (*tāḥ*)—they
+- ऊर्मायाः (*ūrmāyāḥ*)—of the night time
+- तमः (*tamaḥ*)—the darkness
+- वि बाधंते (*vi bādhaṃte*)—they destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+The dawns, who have chariots of attractive radiance, in the morning time itself, securing the front part of the sacrifice, which is of vast nature, move about at will with horses of red colour. Shining in manifold ways, they destroy completely the darkness of the night time.
+
+##### English translation
+The Dawns in beautiful chariots drawn by purple steeds in pairs, shine gloriously as they proceed (along the heaven) : bringing on the commencement of the great (morning) sacrifice, they disperse the darkness of the night.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रवो॒ वाज॒मिष॒मूर्जं॒ वहं॑ती॒र्नि दा॒शुष॑ उषसो॒  ॑
+> मर्त्या॑य ।  
+> म॒घोनी॑र्वी॒रव॒त्पत्य॑माना॒ अवो॑ धात विध॒ते रत्न॑म॒द, ॥ ८ ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रवः । वाजं । इषं । ऊर्जं । वहंतीः । नि । दाशुषे । उषसः । मर्त्याय ।  
+> मघोनीः । वीरवत् । पत्यमानाः । अवः । धात । विधते । रत्नं । अद्य ॥ ३ ॥
+
+### Printed p. 464
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषसो दाशुषे हविषां दात्रे मर्त्याय श्रवः कीर्तिं वाजं बलमिषमन्नमूर्जं रसं च वहंतीर्वहंत्यो यूयं मघोनीर्धनवत्यः पत्यमाना
+> गच्छंत्योऽद्य विधते परिचरते मह्यं वीरवत्पुत्रपौत्रादिसहितमवोऽन्नं । सिनमव
+> इत्यन्ननामसु पाठात् । रत्नं धनं च । श्वात्रं रत्नमिति धननामसु पाठात् । नि धात ।
+> नितरां धत्त ॥
+
+##### Gist of the bhāṣya
+
+O Uṣases, to the mortal who gives oblations you bear fame, strength, food and sustenance; being wealthy and going forth today, bestow constantly on me, who serve you, food together with heroes, that is with sons, grandsons and the like, and wealth as well. "Sinam" and "avaḥ" are read among the names of food, and "śvātram" and "ratnam" are read among the names of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषसः (*uṣasaḥ*)—O goddesses Uṣas
+- दाशुषे (*dāśuṣe*)—who offers oblations
+- मर्त्याय (*martyāya*)—to the man
+- श्रवः (*śravaḥ*)—fame
+- वाजं (*vājaṃ*)—strength
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—and sap
+- वहंतीः (*vahaṃtīḥ*)—you who bear
+- मघोनीः (*maghonīḥ*)—as wealthy ones
+- पत्यमानाः (*patyamānāḥ*)—going about
+- अद्य (*adya*)—at this time
+- विधते (*vidhate*)—to me also who worship you
+- वीरवत् (*vīravat*)—together with heroic sons and the like
+- अवः (*avaḥ*)—food
+- रत्नं (*ratnaṃ*)—and wealth
+- नि धात (*ni dhāta*)—give completely
+
+##### भावार्थ (Bhāvārtha)
+
+O goddesses Uṣas, you who bear fame, strength, food and sap to the man who offers oblations, going about as wealthy ones, give at this time completely, to me also who worship you, food together with heroic sons and the like, and wealth.
+
+##### English translation
+Dawns, bringing fame, and food, and sustenance, and strength to the mortal, the donor (of the oblation). abounding in wealth, and proceeding (through the sky), bestow upon the worshipper to-day food, with male descendants and riches.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दा हि वो॑ विध॒ते रत्न॒मस्ती॒दा वी॒राय॑ दा॒शुष॑ उषासः ।  
+> इ॒दा विप्रा॑य॒ जर॑ते॒ यदु॒क्का नि ष्म॒ माव॑ते वहथा पु॒रा  ॑
+> चित् ॥ ४ ॥
+
+### Printed p. 465
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदा । हि । वः । विधते । रत्नं । अस्ति । इदा । वीराय । दाशुषे । उषसः ।  
+> इदा । विप्राय । जरते । यत् । उक्ता । नि । स्म । मावते । वहथ । पुरा । चित् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषस इदा हीदानीमेव वो युष्माकं विधते परिचरते दातुं रत्नं
+> धनमस्ति । इदा हीदानीमेव वीराय प्रेरयित्रे हविषां दाशुषे यजमानाय
+> दातुं वो रत्नमस्ति । इदा हीदानीमेव विप्राय प्राज्ञाय जरते स्तुवते
+> दातुं वो रत्नमस्ति । यद्यस्मिन्विप्र उक्तोक्तनामकानि स्तोत्राणि विद्यंते मावते
+> मत्सदृशाय यजमानाय तद्रत्नं नि वहथ । पुरा चित् पुरापि रत्नं मह्यं दत्तं ॥
+
+##### Gist of the bhāṣya
+
+O Uṣases, even now, at this very moment, you have wealth to give to the one who serves you. At this very moment you have wealth to give to the hero, the impeller, the giver of oblations, the sacrificer. At this very moment you have wealth to give to the sage, the wise one who praises you. In whom the stotras called ukthas exist, to that sacrificer, who is like me, bring that wealth. Even before this, wealth was given to me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषसः (*uṣasaḥ*)—O goddesses Uṣas
+- इदा हि (*idā hi*)—now itself
+- वः (*vaḥ*)—you
+- विधते (*vidhate*)—to give to the one who offers worship
+- रत्नं (*ratnaṃ*)—wealth
+- अस्ति (*asti*)—there is
+- इदा (*idā*) (हि (*hi*))—now itself
+- वीराय (*vīrāya*)—who offers oblations
+- दाशुषे (*dāśuṣe*)—to the sacrificer (you have wealth to give)
+- इदा (*idā*) (हि (*hi*))—now itself
+- विप्राय (*viprāya*)—the wise one
+- जरते (*jarate*)—and the praiser, to the sacrificer, there is wealth to give
+- यत् (*yat*)—in which sacrificer
+- उक्था (*ukthā*)—the stotras called ukthas exist
+- मावते (*māvate*)—to that sacrificer also, who is like me
+- नि वहथ (*ni vahatha*)—fill with wealth
+- पुरा चित् (*purā cit*)—you gave to me even before
+
+##### भावार्थ (Bhāvārtha)
+
+O goddesses Uṣas, now itself there is wealth to give to the one who offers worship to you. Now itself there is wealth to give to the sacrificer who offers oblations. Now itself there is wealth to give to the sacrificer who is wise and a praiser. O Uṣases, to the sacrificer who, like me, has stotras of the called kind, bring and fill wealth, just as you gave it to us before.
+
+##### English translation
+Verily, Dawns, there is at present wealth to give to your worshipper, to the man offering (oblations), to the sage repeating your praise ; if the praises (are accepted), then bring to him who is like me such wealth as has been formerly bestowed (upon myself).
+
+### Printed p. 466
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दा हि त॑ उषो अद्रिसानो गो॒त्रा गवा॒मंगि॑रसो गृ॒णंति॑ ।  
+> व्य१॒॑ १ केण॑ बिभिदु॒र्ब्रह्म॑णा च स॒त्या नृ॒णाम॑भवद्दे॒वहू॑तिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदा । हि । ते । उषः । अद्रिसानो इत्यद्रिसानो । गोत्रा । गवां । अंगिरसः ।  
+> गृणंति ।  
+> वि । अर्केण । बिभिदुः । ब्रह्मणा । च । सत्या । नृणां । अभवत् । देवरूतिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषोऽद्रिसानो आदृतसानो ते तव प्रसादादिदा हि सद्य एव गवां गोत्रा
+> संघानंगिरसो गृणंति । उत्सृजंति । तथा च निगमांतरं । गवां गोत्रमुदसृजो
+> यदंगिरः । ऋग्वे. २-२३-१८ । इति । अर्कॆणार्चनीयेन ब्रह्मणा स्तोत्रेण वि
+> बिभिदुः । तमांसि विदारयंति च । नृणां नेत्यणां तेषामंगिरसां देवहूतिर्देवविषया स्तुतिः सत्या सत्यफलाभवत् ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, you of honoured summit, by your grace, now itself, the Aṅgirases release the herds of cattle. So another Vedic passage says गवां गोत्रमुदसृजो यदंगिरः (*gavāṃ gotramudasṛjo yadaṃgiraḥ*) (Ṛgve. 2-23-18)**NOTE** **GLOSS**. With the worshipful brahma, that is the stotra, they also split the darknesses. The invocation of the gods, the praise directed to the gods, of those leaders, the Aṅgirases, became true, that is fruitful with truth.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- ते (*te*)—by your grace
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgirases
+- अद्रिसानो (*adrisāno*)—from the peak regions of the mountain
+- इदा हि (*idā hi*)—now itself
+- गवां गोत्रा (*gavāṃ gotrā*)—the herd of cattle
+- गृणंति (*gṛṇaṃti*)—they release
+- अर्केण (*arkeṇa*)—worthy of worship
+- ब्रह्मणा च (*brahmaṇā ca*)—with the stotra also
+- वि बिभिदुः (*vi bibhiduḥ*)—they have destroyed the darkness
+- नृणां (*nṛṇāṃ*)—of the leaders, the Aṅgirases
+- देवहूतिः (*devahūtiḥ*)—the praise directed to the gods
+- सत्या (*satyā*)—possessing the fruit of truth
+- अभवत् (*abhavat*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, by your grace the Aṅgirases release now itself the herds of cattle from the peak regions of the mountain. With the stotra worthy of worship also they have destroyed the darkness. The praise directed to the gods, of the leaders, the Aṅgirases, became possessed of the fruit of truth.
+
+##### English translation
+Verily, Ushas. the Angirasas through your (favour) recover the herd of cattle from the summit of the mountain : by adoration and prayer they
+
 ---
 
-**Progress note:** Done through printed p. 460. Vol 21 pp. 454-460: Mandala 6 sukta 64 rks 1-6; start of sukta 65
+**Progress note:** Done through printed p. 466. Vol 21 pp. 461-466: Mandala 6 sukta 65 rks 1-5
