@@ -25379,6 +25379,330 @@ In this Ṛk also the arrow (iṣu) is praised: that the enemy arrows may not st
 > आ । जंघंति । सानु । एषां । जघनान् । उप । जिघ्नते ।  
 > अश्वअजनि । प्रचेतसः । अश्वान् । समत्सु । चोदय ॥ १३ ॥
 
+### Printed p. 583
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्वाजन्यश्वानां क्षेप्ति कशे यया त्वया प्रचेतसः प्रकृष्टज्ञानाः सादिनः
+> सारथयो वैषामश्वानां सानु सानूनि सक्तीन्या जंघंति आघ्नंति । जघनान्
+> जघनानि चोप जिघ्नते उपजिघ्नति सा त्वं समत्सु संग्रामेष्वश्वान् चोदय ।
+> प्रेरय । तथा च यास्कः । आघ्नंति सानून्येषां सरणानि सक्तीनि । सक्ति सचतेरासक्तोऽस्मिन् कायः । जघनानि चोपघ्नंति । जघनं जंघन्यतेः । अश्वाजनि प्रचेतसः
+> प्रवृद्धचेतसोऽश्वान् समत्सु समरणेषु संग्रामेषु चोदय । नि. ९-२० । इति ॥
+
+##### Gist of the bhāṣya
+
+अश्वाजनि (*aśvājani*) is the whip, the driver of the horses, with which, through you, the wise charioteers, riders of the horses, strike the सानु (*sānu*), that is, the सक्तीनि (*saktīni*), of these horses and also strike their hind parts. Such as you are, urge the horses in the battles. So Yāska says: they strike the सानून्येषां (*sānūnyeṣāṃ*), the सक्तीनि (*saktīni*) of these, सक्ति (*sakti*) being that to which the body is attached; and they strike the hind parts, जघनं (*jaghanaṃ*) being from the root जंघन्यतेः (*jaṃghanyateḥ*). अश्वाजनि प्रचेतसः (*aśvājani pracetasaḥ*): those of enlarged understanding urge the horses in the समत्सु (*samatsu*), the combats, the battles (Ni. 9-20).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वाजनि (*aśvājani*)—O whip (lash) that controls the horses
+- प्रचेतसः (*pracetasaḥ*)—charioteers of excellent understanding
+- एषां (*eṣāṃ*)—of these horses
+- सानु (*sānu*)—the back parts (by you alone)
+- आ जंघंति (*ā jaṃghaṃti*)—they strike
+- जघनान् (*jaghanān*)—the hind quarters also
+- उप जिघ्नते (*upa jighnate*)—they smite
+- (such as you are) समत्सु (*samatsu*)—in the battles
+- अश्वान् (*aśvān*)—the horses
+- चोदय (*codaya*)—urge on
+
+##### भावार्थ (Bhāvārtha)
+
+O whip, controller of the horses, charioteers of skilful understanding strike the back parts and the hind quarters of these horses by you alone. Such as you are, urge the horses in the battles.
+
+##### English translation
+Whip, with which the skilful (charioteers) lash their thighs and scourge their flanks, urge the horses in battles.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the kaśā or whip, which is used to urge the horses, is praised. This whip is also named अश्वाजनि (*aśvājani*). In order to explain this word Yāska has given an explanation of this word and of this Ṛk.
+
+अश्वाजनी । अश्वाजनीं कशेत्याहुः । कशा प्रकाशयति भयमश्वाय । कृष्यतेर्वाणूभावात् । वाक्‌पुनः प्रकाशयत्यर्थान् । खशया । क्रोशतीर्वा । अश्वकशाया एषा भवति ॥ आ जंघंति सान्वेषां जघना उप जिघ्नते । अश्वाजनि प्रचेतसोऽश्वान्त्समत्तु चोदय ॥ अघ्नंति सानून्येषां सरणानि सक्कीनि । सक्षिः सचतेरासक्तोऽस्मिन् कायः । जघनानि चोपघ्नंति । (*aśvājanī | aśvājanīṃ kaśetyāhuḥ | kaśā prakāśayati bhayamaśvāya | kṛṣyatervāṇūbhāvāt | vākpunaḥ prakāśayatyarthān | khaśayā | krośatīrvā | aśvakaśāyā eṣā bhavati ‖ ā jaṃghaṃti sānveṣāṃ jaghanā upa jighnate | aśvājani pracetaso 'śvāntsamattu codaya ‖ aghnaṃti sānūnyeṣāṃ saraṇāni sakkīni | sakṣiḥ sacaterāsakto 'smin kāyaḥ | jaghanāni copaghnaṃti |*)
+
+### Printed p. 584
+
+जघनं जंघन्यते । अश्वाजनि प्रचेतसः प्रवृद्धचेतसोऽश्वान् समत्सु समरणेषु संग्रामेषु चोदय ॥ (*jaghanaṃ jaṃghanyate | aśvājani pracetasaḥ pravṛddhacetaso 'śvān samatsu samaraṇeṣu saṃgrāmeṣu codaya ‖*) (Ni. 9-19, 22)**NOTE**
+
+आश्वाजनी (*āśvājanī*) means the whip used for striking the horse. It is also named कशा (*kaśā*). This कशा (*kaśā*), or whip, causes fear to the horse; that is, the horse is afraid of the stroke of the whip. The word कशा (*kaśā*) is derived from the root कृष्यति (*kṛṣyati*), which means "to pull". It is very slender. And the word कशा (*kaśā*) also has the meaning "speech"; for speech makes meanings manifest, therefore कशा (*kaśā*) means speech. Or, when one strikes a horse one lifts the whip up and strikes, so it (the whip) is above, or in the sky. Therefore, the meaning that it is शा (*śā*), abiding, in the ख (*kha*), the sky, being suggested, it is named खशा (*khaśā*) or कशा (*kaśā*). Or the word कशा (*kaśā*) may be derived from the root क्रोशति (*krośati*), which means "to cry out, to shout". By the stroke of this whip the horse cries out, that is, makes a sound. Therefore this whip has come to be called कशा (*kaśā*): such is the derivation of the form of the word कशा (*kaśā*) and the explanation of its meaning. To support this, Yāska has taken the present Ṛk beginning आ जंघंति (*ā jaṃghaṃti*) itself as the example and given the explanation.
+
+With this whip they strike the horses' जघन (*jaghana*) region, that is, the region at the side of the thighs. These regions of the thighs are named सक्तीनि (*saktīni*). The word सक्ति (*sakti*) is derived from the root सक् (*sak*), which means "join, unite"; that is, the body is as if attached to or joined with the two thighs. Therefore these are named सक्तीनि (*saktīni*). सक्तीनि (*saktīni*) means the loins, the base of the thighs and the region of the rear. These regions, which are as if joined to the back, they strike with the whip. The word जघन (*jaghana*) is derived from the root जंघन्यतॆ (*jaṃghanyatè*), which means "to strike many times". The sage, praying to the whip, thus praises it: O whip, urge in battles these horses, which are possessed of intelligence and strength and are swift; such is the purport of the latter half of the present Ṛk.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अहि॑रिव भो॒गैः पर्ये॑ति बा॒हुं ज्याया॑ हे॒तिं प॑रि॒बाध॑मानः।  
+> ह॒स्त॒घ्नो विश्वा॑ व॒युना॑नि वि॒द्वान्पुमा॒न्सुमां॑सं॒ परि॑ पातु  ॒॑
+> विश्वतः ॥ १४ ॥
+
+### Printed p. 585
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहिः इव । भोगैः । परि । एति । बाहुं । ज्यायाः । हेतिं । परिबाधमानः ।  
+> हस्तघ्नः । विश्वा । वयुनानि । विद्वान् । पुमान् । पुमांसं । परि । पातु । विश्वतः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र धन्विनः प्रकोष्ठे बंधनीयस्य हस्तघ्नस्य स्तुतिः । हस्तघ्नः । हस्ते हस्तसमीपे वर्तिनि प्रकोष्ठे स्थितः सन् ज्यया हन्यत इति हस्तघ्नः ॥ घञार्थे कविधानमिति
+> कः ॥ ज्याया हेतिं ज्याहेतुकां हिंसां परिबाधमानो निवारयन् भोगैः
+> शरीरेण ॥ वचनव्यत्ययः ॥ अहिरिव सर्प इव बाहुं प्रकोष्ठं । लक्षणया बाहुशब्दः
+> प्रकोष्ठे वर्तते । पर्यॆति । परिवेष्टयति । किंच विश्वा विश्वानि वयुनानि ज्ञानानि
+> ज्ञातव्यानि । माया वयुनमिति तन्नामसु पाठात् । विद्वान् जानन् पुमान्पुरुषोपेतः स्वयं पुमांसं धन्विनं विश्वतः सर्वतः परि पातु । रक्षति । तथा च यास्कः ।
+> अहिरिव भोगैः परिवेष्टयति बाहुं ज्याया वधात्परित्रायमाणो हस्तघ्नः सर्वाणि
+> प्रज्ञानानि प्रजानन् पुमान्पुरुमना भवति पुंसतीर्वा । नि. ९. १५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Here is the praise of the हस्तघ्न (*hastaghna*) that is to be bound on the forearm of the archer. It is called हस्तघ्न (*hastaghna*) because, standing on the forearm near the hand, it is struck by the bowstring. ज्याया हेतिं (*jyāyā hetiṃ*): warding off the harm that comes from the bowstring, with its body, the number being altered. अहिरिव (*ahiriva*): like a snake it winds round the बाहुं (*bāhuṃ*), the forearm (the word "arm" being used here in a secondary sense). पर्येति (*paryeti*): it winds round. Moreover, विश्वा वयुनानि (*viśvā vayunāni*) are all the things to be known, माया वयुनमिति (*māyā vayunamiti*) being read among the names of knowledge. विद्वान् (*vidvān*): knowing; पुमान् (*pumān*): the man, endowed with manhood, may himself protect the archer on all sides. So Yāska says: like a serpent it winds round the arm with its coils, protecting it from the stroke of the bowstring; the हस्तघ्न (*hastaghna*), knowing all kinds of knowledge; पुमान् (*pumān*) is one of many minds, or from पुंसतीर्वा (*puṃsatīrvā*) (Ni. 9-15).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हस्तघ्नः (*hastaghnaḥ*)—the bracelet tied at the wrist (on the forearm)
+- ज्यायाः (*jyāyāḥ*)—of the bowstring
+- हेतिं (*hetiṃ*)—the blow
+- परिबाधमानः (*paribādhamānaḥ*)—warding off
+- भोगैः (*bhogaiḥ*)—with its own body
+- अहिरिव (*ahiriva*)—as a serpent coils round
+- बाहुं (*bāhuṃ*)—the forearm
+- पर्येति (*paryeti*)—has wound round and clings to it
+- विश्वा (*viśvā*)—all
+- वयुनानि (*vayunāni*)—kinds of knowledge
+- विद्वान् (*vidvān*)—knowing
+- पुमान् (*pumān*)—the man
+- पुमांसं (*pumāṃsaṃ*)—the archer
+- विश्वतः (*viśvataḥ*)—everywhere
+- परि पातु (*pari pātu*)—may he protect completely
+
+##### भावार्थ (Bhāvārtha)
+
+The bracelet tied on the forearm, warding off the blow of the bowstring, has wound round the forearm with its body as a serpent coils round it. May the man who knows all kinds of knowledge protect the archer completely everywhere.
+
+##### English translation
+The ward of the fore-arm protecting it from the abrasion of the bow⁻ string, surrounds the arm like a snake with its convolutions: may the brave man, experienced in the arts of war, defend a combatant ou every side.
+
+### Printed p. 586
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk a particular article called हस्तघ्न (*hastaghna*), which is tied on the hand (the hand part), is praised. In order to explain the meaning of this word Yāska has given an explanation of this Ṛk.
+
+हस्तघ्नः । हस्तघ्नो हस्ते हन्यते । तस्यैषा भवति ॥ अहिरिव भोगैः पर्योति बाहुं ज्याया हेति परिबाधमानः । हस्तघ्नो विश्वा वयुनानि विद्वान्पुमान्सुमांसं परिपातु विश्वतः ॥ अहिरिव भोगैः परिवेष्टयति बाहुं ज्याया वधात् परित्रायणमाणो हस्तघ्नः सर्वाणि प्रज्ञानानि प्रजानन् । पुमान् पुरुमना भवति । पुंसतीर्वा ॥ (*hastaghnaḥ | hastaghno haste hanyate | tasyaiṣā bhavati ‖ ahiriva bhogaiḥ paryoti bāhuṃ jyāyā heti paribādhamānaḥ | hastaghno viśvā vayunāni vidvānpumānsumāṃsaṃ paripātu viśvataḥ ‖ ahiriva bhogaiḥ pariveṣṭayati bāhuṃ jyāyā vadhāt paritrāyaṇamāṇo hastaghnaḥ sarvāṇi prajñānāni prajānan | pumān purumanā bhavati | puṃsatīrvā ‖*) (Ni. 9-15).
+
+The हस्तघ्न (*hastaghna*) is a long strip of leather (belt). They wind it round the front part of the hand like a bracelet and tie it. When one quickly draws arrows one by one from the quiver, fits them to the bowstring and shoots them at the enemy, a part of the hand keeps touching the bowstring again and again. Since the hand quickly touches the bowstring, there is the possibility that the part of the hand that is touched may be wounded and harmed. To prevent that they wind that part of the hand with a long strip of leather. Since only the leather strip touches the bowstring, no harm is caused to the hand. Yāska has explained the word हस्तघ्न (*hastaghna*) to mean that which is tightly bound on the hand, and that, since this strip strikes the ज्या (*jyā*), the bowstring, again and again, the strip is named हस्तघ्न (*hastaghna*). He has taken as the example the present Ṛk अहिरिव भोगैः (*ahiriva bhogaiḥ*), in which this word is used, and given the explanation. This हस्तघ्न (*hastaghna*), that is, the leather strip (Hand-guard), has wound round the warrior's hand as a snake winds round an arm. It protects the hand so that the hand does not touch the bowstring. How? As a discerning man who knows everything averts the danger that may befall himself or others, so this हस्तघ्न (*hastaghna*) protects the hand of him who wears it from all dangers. In this Ṛk the words पुमान् पुमांसं (*pumān pumāṃsaṃ*) are used. पुमान् (*pumān*) means पुरुमनाः (*purumanāḥ*), one who has a manifold mind, one who has good understanding or strength and capacity; that is, one who is wiser and stronger than women: such is the etymological meaning of the word पुमान् (*pumān*). Or this word may be derived from the root पुंसति (*puṃsati*), which means "to crush, to tread down". The meaning is: very strong.
+
+#### Ṛk 15
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आला॑क्ता॒ या रुरु॑शी॒र्ष्ण्यथो॒ यस्या॒ अयो॒ मुखं॑ ।  
+> इ॒दं प॒र्जन्य॑रेतस॒ इष्टै॑ दे॒व्यै बृ॒हन्नमः॑ ॥ ५ ॥
+
+### Printed p. 587
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आलसअक्ता । या । रुरुशीर्ष्षि९ । अथो इति । यस्याः । अयः । मुखं ।  
+> इदं । पर्जन्यरेतसे । इष्टै । देव्यै । बृहत् । नमः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येषुरालाक्तालेन विषेणाक्ता रुरुशीर्ष्टि९ हंतृशिरस्का ॥ अर्तेर्हिंसाकर्मणो रुरुशब्दोत्पत्तिः ॥ शृंगशीर्ष्टि९ वा । अथो किंच यस्या इषोर्मुखमयोऽयोमयं भवति पर्जन्यरेतसे । पर्जन्यो रेतो यस्याः सा पर्जन्यरेताः ।
+> तस्यै पर्जन्यकार्यभूतायै । शरकांडस्य पर्जन्यजन्यत्वात् । बृहत् बृहत्यै तस्यै
+> देव्या इष्टा इदं नमः क्रियत इति ॥
+
+##### Gist of the bhāṣya
+
+The arrow that is smeared with आलाक्ता (*ālāktā*), that is, with poison, has a killing head (the word रुरु (*ruru*) is derived from the root meaning to kill), or has a horn for a head. And moreover, the arrow whose mouth, its point, is of iron. पर्जन्यरेतसे (*parjanyaretase*): she whose seed is Parjanya; to her, who is the product of Parjanya, since the shaft of the arrow is produced by Parjanya, to that great goddess, the arrow, this obeisance is made.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—which arrow
+- आलाक्ता (*ālāktā*)—mixed with poison
+- रुरुशीर्ष्टि (*ruruśīrṣṭi*)—is deadly
+- अथो (*atho*)—and moreover
+- यस्याः (*yasyāḥ*)—whose arrow
+- मुखं (*mukhaṃ*)—the point
+- आयः (*āyaḥ*)—is made of iron (such)
+- पर्जन्यरेतसे (*parjanyaretase*)—which is the work of Parjanya
+- बृहत् (*bṛhat*)—which is of great form
+- देव्यै (*devyai*)—which is of divine nature
+- इष्टै (*iṣṭai*)—to the arrow
+- इदं नमः (*idaṃ namaḥ*)—this offering of homage
+
+##### भावार्थ (Bhāvārtha)
+
+To that arrow which is mixed with poison and destroys enemies, and moreover whose point is made of iron, which is the work of Parjanya, of great form and divine nature, this offering of homage is made.
+
+##### English translation
+This praise (be offered) to the large celestial arrow, the growth of Parjanya, whose point is anointed with venom, whose blade is iron.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next there is a general description and praise of the arrow. Dipping the tip of the arrow in poison and shooting it is a custom that has come down from very ancient times. In many countries forest-dwellers still follow this custom even now. Even if the tip of the arrow touches the body and does not cause a great wound, since the poison-soaked tip touches the blood,
+
+### Printed p. 588
+
+the enemy dies at once. In many cases they have made the tip of the arrow from a sharp iron edge. Besides this, there was also a belief that if arrows were consecrated with mantras and the like, their power of killing increased. It can be said without doubt, from the descriptions in these two Ṛks, that all these methods were in practice at that time.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑संतिते ।  
+> गच्छा॒मित्रा॒न्पृ प॑द्यस्व॒ मामीषां॒ कं च॒नोच्छि॑षः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवसृष्टा । परा । पत । शरव्ये । ब्रह्मसंशिते ।  
+> गच्छ । अमित्रान् । प्र । पद्यस्व । मा । अमीषां । कं । चन । उत् । शिषः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मसंतिते मंत्रेण तीक्ष्णीकृते शरन्ये हिंसाकुशल इषो त्वमवसृष्टा
+> क्षिप्ता परा पत । परागच्छ । इतो देशाद्दच्छ च । अमित्रान्हिंसकान्द्र पद्यस्व । प्राप्पुहि
+> च । अमीषाममित्राणां मध्ये कं चन कंचिदपि मोच्छिषः । अवशिष्टं मा कुरु ॥
+
+##### Gist of the bhāṣya
+
+O arrow, ब्रह्मसंतिते (*brahmasaṃtite*), sharpened by a mantra, शरन्ये (*śaranye*), skilled in killing, you, once discharged and hurled, fly away; go forth from this place and go. Reach the enemies, the hostile, and attain them. Among these enemies do not leave anyone at all remaining.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मसंतिते (*brahmasaṃtite*)—made sharp with the help of a mantra
+- शरव्ये (*śaravye*)—O arrow that destroys enemies
+- अवसृष्टा (*avasṛṣṭā*)—discharged by us
+- परापत (*parāpata*)—go far away
+- गच्छ (*gaccha*)—go to the enemy
+- अमित्रान् (*amitrān*)—the enemies
+- प्र पद्यस्व (*pra padyasva*)—approach
+- अमीषां (*amīṣāṃ*)—among the enemies
+- कं चन (*kaṃ cana*)—anyone whatever
+- मा उच्छिषः (*mā ucchiṣaḥ*)—do not spare
+
+##### भावार्थ (Bhāvārtha)
+
+O arrow, made sharp with the help of a mantra and destroyer of enemies, discharged by us, go far away, approach the enemy. Spare no one among the enemies, destroy all.
+
+##### English translation
+Arrow, whetted by charms, fly when discharged : go, light amongst the adversaries : spare not one of the enemy.
+
+### Printed p. 589
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॑ बा॒णाः सं॒पतं॑ति कुमा॒रा वि॑शि॒खाइ॑व ।  
+> तत्र॑ नो॒ ब्रह्म॑ण॒स्पति॒रदि॑तिः॒ शर्म॑ यच्छतु वि॒श्वाहा॒ शर्म॑  
+> यच्छतु ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । बाणाः । संपतंति । कुमाराः । विशिखाः इव ।  
+> तत्र । नः । ब्रह्मणः । पतिः । अदितिः । शर्म । यच्छतु । विश्वाहा । शर्म । यच्चतु ॥१७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र युद्धे कुमारा विशिखा इव मुंडिता इव बाणाः संपतंति तत्र
+> नोऽस्मभ्यं ब्रह्मणस्पतिः शर्म सुखं विश्वाहा सर्वदा यच्छतु । अदितिश्च शर्म
+> यच्छतु । द्विरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+In the battle where arrows fall like कुमारा विशिखा इव (*kumārā viśikhā iva*), like shaven boys, there may Brahmaṇaspati grant us शर्म (*śarma*), happiness, always. May Aditi also grant happiness. The repetition is for the sake of respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विशिखा इव (*viśikhā iva*)—without a tuft of hair
+- कुमाराः (*kumārāḥ*)—as (shaven) boys move about
+- यत्र (*yatra*)—in which battle
+- बाणाः (*bāṇāḥ*)—arrows
+- संपतंति (*saṃpataṃti*)—fall in a continuous stream
+- शत्र (*śatra*)—in that battle
+- नः (*naḥ*)—to us
+- ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati
+- शर्म (*śarma*)—happiness (protection)
+- विश्वाहा (*viśvāhā*)—on all days
+- यच्छतु (*yacchatu*)—may he give
+- अदितिः (*aditiḥ*)—Aditi also
+- शर्म (*śarma*)—happiness
+- यच्छतु (*yacchatu*)—may she bring about
+
+##### भावार्थ (Bhāvārtha)
+
+As shaven youths without a tuft of hair move about at will, so in whatever battle arrows, being discharged, fall in a continuous stream, in that battle may Brahmaṇaspati give us happiness on all days, that is, protection so that no danger befalls us. May Aditi also bring about happiness for us.
+
+##### English translation
+Where arrows alight like shaven-headed boys : may Brahmanaspati, may aditi, grant us happiness ; grant us happiness every day.
+
+### Printed p. 590
+
+##### विशेषविषयगळु (Special Topics)
+
+कुमारा विशिखा इव (*kumārā viśikhā iva*)—मुंडिताः कुमारा इव (*muṃḍitāḥ kumārā iva*). The commentator has explained these words as "boys with shaved heads". No special point is seen in their being compared to arrows. There is no connection between the one and the other. On this matter the scholar Wilson writes thus—
+
+कुमारा विशिखा इव (*kumārā viśikhā iva*)-like boys without the lock of hair left at shaving; मुंडितः मुंडः (*muṃḍitaḥ muṃḍaḥ*) shorn-headed ; the point of comparison is not very obvious, but it may mean, that the arrows fall where they list as boys before they are left with the lock of hair, before the religious tonsure, play about wherever they like.
+
+This simile does not fit well here. It cannot be said what likeness there is between the arrows falling everywhere on the battlefield like raindrops and shaven boys. The sage's intention cannot be like this. These words can be explained in another way. शिखा (*śikhā*) means the flame of fire; विशिखाः (*viśikhāḥ*) are flames or sparks of fire that shine specially or brightly. कुमाराः (*kumārāḥ*) means those who are not big like well-grown men, boys, those small in form. That is, the words कुमारा विशिखाः (*kumārā viśikhāḥ*) mean small sparks. As, when a smith strikes heated iron with a hammer, small sparks fly and fall all around, that is, in every direction, so on this battlefield the arrows shot by the warriors go and fall everywhere. One can explain the meaning in one way thus: may Indra protect us from the fear of such arrows. But this kind of meaning too is only a conjecture; it cannot be said with certainty that it is the sage's intention.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मर्मा॑णि ते॒ वर्म॑णा छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॒नानु॑ वस्तां ।  
+> उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जयं॑तं॒ त्वानु॑ दे॒वा  ॑
+> मदंतु ॥ १८ ॥
+
+### Printed p. 591
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मर्माणि । ते । वर्मणा । छादयामि । सोमः । त्वा । राजा । अमृतेन । अनु ।  
+> वस्त्रां ।  
+> उरोः । वरीयः । वरुणः । ते । कृणोतु । जयंतं । त्वा । अनु । देवाः ।  
+> मदंतु ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् ते त्वदीयानि मर्माणि । येषु स्थानेषु विद्दः सद्यो म्रियते
+> तानि मर्माणि । वर्मणा कवचेन छादयामि । सोमो राजा त्वा त्वामनु मर्माच्छादनानंतरममृतेन वस्तां । आच्छादयतु । किंच वरुणोऽपि ते तुभ्यमुरोर्वरीय उरुतरं सुखं कृणोतु । करोतु । जयंतं त्वा त्वां देवाः सर्वॆऽप्यनु
+> मदंतु । अनुहृष्यंतु ॥
+
+##### Gist of the bhāṣya
+
+O king, your vital parts, the places in which, when struck, one dies at once, I cover with armour. May King Soma, after the covering of the vital parts, clothe you with nectar. Moreover, may Varuṇa also make for you a happiness still wider. May all the gods rejoice after you as you conquer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O king) ते (*te*)—your
+- मर्माणि (*marmāṇi*)—your vital parts
+- वर्मणा (*varmaṇā*)—with an iron armour
+- छादयामि (*chādayāmi*)—I cover
+- अनु (*anu*)—afterwards
+- राजा (*rājā*)—the king
+- सोमः (*somaḥ*)—the god Soma
+- त्वा (*tvā*)—you
+- अमृतेन (*amṛtena*)—with nectar
+- वस्तां (*vastāṃ*)—may he fill, pervading
+- वरुणः (*varuṇaḥ*)—Varuṇa also
+- ते (*te*)—for you
+- उरोर्वरीयः (*urorvarīyaḥ*)—very great happiness
+- कृणोतु (*kṛṇotu*)—may he make
+- जयंतं (*jayaṃtaṃ*)—the victorious
+- त्वा (*tvā*)—you
+- देवाः (*devāḥ*)—all the gods
+- अनु मदंतु (*anu madaṃtu*)—may they applaud
+
+##### भावार्थ (Bhāvārtha)
+
+O king, I cover your vital parts with an iron armour. Afterwards may Soma the king fill your body completely with nectar. May Varuṇa bring you very great happiness. May all the gods applaud you, the victorious.
+
+##### English translation
+I cover your vital parts with armour ; may the royal Soma invest you with amarosia : may Varuna amplify your ample felicity : may the gods rejoice (at beholding you) triumphant.
+
 ---
 
-**Progress note:** Done through printed p. 582. Sūkta 75 Ṛk 9 end, Ṛk 10-12 (Brāhmaṇas, arrow), Ṛk 13 verse; pp. 577-582
+**Progress note:** Done through printed p. 591. Sūkta 75 Ṛk 13-18 (whip, hand-guard, arrows, armour), pp. 583-591
