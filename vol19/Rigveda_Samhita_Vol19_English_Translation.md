@@ -30064,6 +30064,201 @@ Augmenting the well-known and ample form (of man), in like manner as the sacred 
 
 O Mitra and Varuṇa, the sacrificer whom you protect in the midst of the sacrificial grounds, to such a doer of good deeds be generous-handed givers and bestowers of excellent protection. You two, lords and free from anger, together bear wealth of the nature of a house furnished with a thousand pillars.
 
+### Printed p. 847
+
+##### English translation
+Be open-handed and benignant to the performer of pious acts, whom you protect in the midst of the place of sacrifice ; for you two, who are sovereigns, and free from wrath, uphold together a mansion of a thousand columns.
+
+##### विशेषविषयगळु (Special Topics)
+
+सहस्रस्थूणं (*sahasrasthūṇaṃ*)—सहस्रस्थूणमनेकावष्टंभकस्तंभोपेतं सौधादिरूपं गृहं च बिभृतः । (*sahasrasthūṇamanekāvaṣṭaṃbhakastaṃbhopetaṃ saudhādirūpaṃ gṛhaṃ ca bibhṛtaḥ |*). The commentator has taken this word to mean a great palace or house with a thousand pillars. Here "thousand" may be taken to mean many. A fine house with many pillars means a palace or mansion of the highest class (Mansion or Palace with a number of pillars). Ordinary houses do not have many pillars. Only palaces and the like that are built large and in an excellent manner are constructed with many pillars. Therefore here सहस्रस्थूणं (*sahasrasthūṇaṃ*) means an excellent palace built in an excellent manner. Or it may also be understood that you sit, for going to the sacrifice, in your chariot, which is strong and furnished with many pillars.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हिर॑ण्यनिर्णि॒गयो॑ अस्य॒ स्थूणा॒ वि भ्रा॑जते दि॒व्य१॒॑ा १ श्वाज॑नीव ।  
+> भ॒द्रे क्षेत्रे॒ निमि॑ता॒ तिल्वि॑ले वा स॒नेम॒ मध्वो॒ अधि॑गर्त्यस्य ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्यनिर्निक् । अयः । अस्य । स्थूणा । वि । भ्राजते । दिवि । अश्वाजनीऽइव ।  
+> भद्रे । क्षेत्रे । निमिता । तिल्विलॆः । वा । सनेम । मध्यः । अधिगर्त्यस्य ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयो रथो हिरण्यनिर्णिक् हिरण्यरूपः । निर्णिगिति रूपनाम । अस्य रथस्य
+> स्थूणा कीलकादयोऽयः । हिरण्यनामैतत् । अयोविकारा इत्यर्थः । अयोमया
+
+### Printed p. 848
+
+> वा । तादृशो रथो दिव्यंतरिक्षे वि भ्राजते । किमिव । अश्वाजनीव । अश्वा व्यापनशीला
+> मेघाः । तानजति गच्छत्यतीश्वाजनी विद्युत् । सेव दिवि भ्राजते । किंच भद्रे कल्याणे
+> स्तुत्ये वा क्षेत्रे देवयजने तिल्विले वा ॥ तिल स्नेहने ॥ तिलुः स्निग्धा इला भूमिर्यस्य तत् क्षेत्रं तिल्विलं देवयजनं । धृतसोमादिना स्निग्धे भद्रे च क्षेत्रे
+> निमिता स्फूणा यूपयष्टिरवस्थितः । मध्वो मधुपूर्णं गर्तस्य गर्तं रथं सनेम!
+> संभजेम । कर्मणि षष्टौ । अधीति पूरणः ॥ अथवा गर्तस्याधि रथस्कोपरि मध्वो
+> मधु सोमरसं सनेम । स्थापयेमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The chariot of these two is हिरण्यनिर्णिक् (*hiraṇyanirṇik*), of golden form; निर्णिगिति रूपनाम (*nirṇigiti rūpanāma*): it is a word for form. Of this chariot the स्थूणा (*sthūṇā*), the pins and the like, are अयः (*ayaḥ*); this is a name for gold; the meaning is that they are products of iron, or made of iron. Such a chariot shines in the sky, in the atmosphere. Like what? Like अश्वाजनी (*aśvājanī*): the अश्वा (*aśvā*) are the clouds, whose nature is to pervade; she who drives them is the lightning; like her it shines in the sky. Further, in an auspicious, that is, a gracious or praiseworthy place, the divine sacrificial ground, or in the तिल्विले (*tilvile*) (he explains: the root तिल (*tila*) in the sense of being unctuous; तिलुः (*tiluḥ*) is that field whose earth is moist, which is तिल्विलं (*tilvilaṃ*), the divine sacrificial ground; a field made moist by ghee, soma and the like and auspicious), there is set up the स्फूणा (*sphūṇā*), the sacrificial post. मध्वः (*madhvaḥ*), filled with honey, गर्तस्य गर्तं रथं (*gartasya gartaṃ rathaṃ*), the chariot, we would obtain (the genitive stands for the accusative; अधि (*adhi*) is a filler). Or else, on the chariot we would place the honey, the soma juice; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिरण्यनिर्णिक् (*hiraṇyanirṇik*)—made of gold (this chariot of Mitra and Varuṇa)
+- अस्य (*asya*)—of this chariot
+- स्थूणा (*sthūṇā*)—the pins
+- अयः (*ayaḥ*)—made of iron
+- दिवि (*divi*)—in the atmosphere
+- अश्वाजनीव (*aśvājanīva*)—like lightning
+- वि भ्राजते (*vi bhrājate*)—shines
+- भद्रे क्षेत्रे (*bhadre kṣetre*)—in an auspicious place, whether
+- निमिता (*nimitā*)—the sacrificial post (set up)
+- तिल्विले (*tilvile*)—in the place of divine sacrifice, or
+- अधिगर्तस्य (*adhigartasya*)—within the chariot
+- मध्वः (*madhvaḥ*)—the sweet soma juice
+- सनेम (*sanema*)—let us fill
+
+##### भावार्थ (Bhāvārtha)
+
+The chariot of these Mitra and Varuṇa is made of gold. The pins of this chariot are made of iron. This chariot shines in the atmosphere like lightning. Whether in an auspicious place or in the place of divine sacrifice where the sacrificial post is set up, let us fill the chariot with sweet soma juice.
+
+##### English translation
+The substance (of their chariot) is of gold ; its pillars are of iron, and it shines in the firmament like lightning: may we load the vehicle with the libation in an auspicious place, or in the sacrificial hall, (where the columns) are erectcd**NOTE**.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is a description of the chariot of Mitra and Varuṇa. Their chariot is made of gold. In order that the pins may be firm, they are made of iron. Such a chariot shines in the atmosphere very brilliantly, like lightning.
+तिल्विले (*tilvile*)—For this word Sāyaṇa says: तिलुः (तिल स्नेहने) स्निग्धा इला भूमिर्यस्य तत् क्षेत्रं तिल्विलं देवयजनं । धृतसोमादिना स्निग्धे भद्रे च क्षेत्रे । (*tiluḥ (tila snehane) snigdhā ilā bhūmiryasya tat kṣetraṃ tilvilaṃ devayajanaṃ | dhṛtasomādinā snigdhe bhadre ca kṣetre |*). तिलुः (*tiluḥ*) means unctuous, moistened, that is, soaked with liquid substances such as ghee and soma juice
+
+### Printed p. 849
+
+is the meaning. इला (*ilā*) means the earth. Because ghee, soma and the like are used liberally at the sacrifice, it is natural that the ground there is drenched by those juices, which are spilled from time to time. Therefore he has explained the word तिल्विल (*tilvila*) as such a drenched place, that is, the sacrificial ground.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हिर॑ण्यरूपमु॒षसो॒ व्यु॑ष्टा॒वयः॑ स्थूण॒मुदि॑ता॒ सूर्य॑स्य ।  
+> आ रो॑हथो वरुण मित्र॒ गर्त॒मत॑श्चक्षाथे॒ आदि॑तिं॒ दितिं॑ च ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्यरूपं । उषसः । विउष्टौ । अयःस्थूणं । उत् इता । सूर्यस्य ।  
+> आ । रोहथः । वरुण । मित्र । गर्तं । अतः । चक्षाथे इति । अदितिं । दितिं । च ॥ ८ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषसो व्युष्टौ । प्रातःकाल इत्यर्थः । सूर्यस्योदितोवितावुदये । स
+> एव कालः प्रकारांतरेणोक्तः । तस्मिन् काले हिरण्यरूपमयःस्थूणमयोमयशंकुं गर्तं रथं हे वरुण हे मित्र युवां गर्तमा रोहथो यज्ञं प्राप्तं ।
+> अतोऽस्माद्देतोरदितिमखंडनीयां भूमिं दितिं खंडितां प्रजादिकां च चक्षाधे ।
+> पश्यथः।
+
+##### Gist of the bhāṣya
+
+उषसो व्युष्टौ (*uṣaso vyuṣṭau*) means in the morning. सूर्यस्योदितोवितावुदये (*sūryasyoditovitāvudaye*): the sunrise; that very time is stated in another way. At that time, O Varuṇa, O Mitra, you two mount the chariot, हिरण्यरूपं (*hiraṇyarūpaṃ*), golden in form, with iron pillars, with iron pegs, which has arrived at the sacrifice. Therefore you two behold अदितिं (*aditiṃ*), the unbroken earth, and दितिं (*ditiṃ*), the broken, the creatures and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण, मित्र (*varuṇa, mitra*)—O Mitra and Varuṇa
+- उषसो व्युष्टौ (*uṣaso vyuṣṭau*)—at the time of the appearing of the dawn
+- सूर्यस्य उदिता (*sūryasya uditā*)—and at the time of sunrise
+- हिरण्यरूपं (*hiraṇyarūpaṃ*)—golden
+- अयः स्थाणं (*ayaḥ sthāṇaṃ*)**NOTE**—having iron pillars
+- गर्तं (*gartaṃ*)—the chariot
+- आ रोहथः (*ā rohathaḥ*)—you mount
+- अतः (*ataḥ*)—thereafter
+- अदितिं (*aditiṃ*)—the unbroken earth
+- दितिं च (*ditiṃ ca*)—and the creatures that are in parts
+- चक्षाथे (*cakṣāthe*)—you behold
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, at the time of the appearing of the dawn and at the time of the rising of the sun, you mount your chariot, which is golden in form and has iron pillars. Thereafter you behold the unbroken earth and the creatures that are in parts.
+
+### Printed p. 850
+
+##### English translation
+At the break of dawn, at the rising of the sun, ascend, Mitra and Varuna, your golden-bodied, iron-pillared car, and thence behold theearth**NOTE** and its inhabitants
+
+##### विशेषविषयगळु (Special Topics)
+
+उषसो व्युष्टौ सूर्यस्य उदिता (*uṣaso vyuṣṭau sūryasya uditā*)—At the time of the appearing of the dawn and when the sun rises: both these expressions convey one and the same meaning, in the morning. When the sacrificial rite is going on in the morning, as soon as the Hotṛ invokes you, you mount your golden chariot with iron pillars in order to come to the sacrificial ground: thus the seer describes the coming of Mitra and Varuṇa.
+अदितिं दितिं च चक्षाथे (*aditiṃ ditiṃ ca cakṣāthe*)—अदितिमखंडनीयां भूमिं दितिं खंडितां प्रजादिकं च पश्यथः । (*aditimakhaṃḍanīyāṃ bhūmiṃ ditiṃ khaṃḍitāṃ prajādikaṃ ca paśyathaḥ |*). The commentator has explained the word अदिति (*aditi*) as the earth, which has no divisions, that is, which is not divided into separate parts but is a single great whole of one form; and the word दिति (*diti*) as: you will behold the people who are in parts, that is, who are separate. When Mitra and Varuṇa, seated in their golden chariot, come by the path of the atmosphere to the sacrificial ground on the earth, they see first the earth and afterwards the people on it; that is, the earth first and then the people there come within the sight of Mitra and Varuṇa, who sit in the chariot looking downwards: this is the meaning suggested.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्भंहि॑ष्ठं॒ नाति॒विधे॑ सुदानू॒ अच्छि॑द्रं॒ शर्म॑ भुवनस्य  
+> गोपा ।  
+> तेन॑ नो मित्रावरुणावविष्टं॒ सिषा॑संतो जिगी॒वांसः॑ स्याम॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । बंहिष्ठं । न । अऽविधे । सुदानू इति सुदानू । अच्छिद्रं । शर्म ।  
+> भुवनस्य । गोपा ।
+
+### Printed p. 851
+
+> तेन । नः । मित्रावरुणौ । अविष्टं । सिसासंतः । जिगीवांसः । स्याम ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दाक्षायणयज्ञे यद्वंहिष्ठमिति नवमी द्वितीयस्याममावास्यायां मैत्रावरुणस्य हविषो याज्या । सूत्रितं च । आ नो मित्रावरुणा यद्वंहिष्ठं नातिविधे
+> सुदानू । आ. २.१४ । इति ॥ मैत्रावरुणे पशौ हविष एष्यन याज्या । सूत्रितं च ।
+> यद्वंहिष्ठं नातिविधे सुदानू हिरण्यगर्भः समवर्तताग्रे । अ. ३-८ । इति ॥
+> हे सुदानू शोभनदानौ हे भुवनस्य गोपा युवां बंहिष्ठं बहुतवति
+> यदच्छिद्रमनवच्चिन्नं शर्म सुखं गृहं वा नातिविधेऽतिवेद्दुमशक्यं शर्में
+> शर्मविशेषणं ॥ व्यध ताडन इत्यस्मादत्युपपदे कृत्यार्थे केन् संप्रसारणं च ॥
+> तादृशं शर्म धारयथः तेन शर्मणा नोऽस्मानविष्टं । रक्षतं । हे मित्रावरुणौ
+> सिषासंतो धनानि संभक्तुमिच्छंतो वयं जिगीवांसः शत्रूणां धनानि जेतुमिच्छंतः स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+Application: at the Dākṣāyaṇa sacrifice यद्वंहिष्ठं (*yadvaṃhiṣṭhaṃ*), the ninth verse, is the yājyā for the offering to Mitra and Varuṇa at the second new moon. It is also stated in the sūtra: आ नो मित्रावरुणा यद्वंहिष्ठं नातिविधे सुदानू (*ā no mitrāvaruṇā yadvaṃhiṣṭhaṃ nātividhe sudānū*) (Ā. 2.14). In the animal sacrifice of Mitra and Varuṇa it is the yājyā for the offering; it is stated in the sūtra: यद्वंहिष्ठं नातिविधे सुदानू हिरण्यगर्भः समवर्तताग्रे (*yadvaṃhiṣṭhaṃ nātividhe sudānū hiraṇyagarbhaḥ samavartatāgre*) (A. 3-8)**NOTE**. O सुदानू (*sudānū*), good givers, O protectors of the world, you two bear that बंहिष्ठं (*baṃhiṣṭhaṃ*), most abundant, unbroken शर्म (*śarma*), happiness or a house, which is नातिविधे (*nātividhe*), impossible to pierce through; this is a qualifier of शर्म (*śarma*). With that protection protect us, O Mitra and Varuṇa. May we, desiring to win riches, wishing to conquer the riches of our enemies, be so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानू (*sudānū*)—O Mitra and Varuṇa, excellent givers
+- भुवनस्य (*bhuvanasya*)—of the world
+- गोपा (*gopā*)—you who are protectors
+- बंहिष्ठं (*baṃhiṣṭhaṃ*)—most abundant
+- अच्चिद्रं (*accidraṃ*)—unbroken
+- नातिविधे (*nātividhe*)—that cannot be cut through by others
+- यत् (*yat*)—whatever happiness and protection you possess
+- तेन (*tena*)—by that
+- नः (*naḥ*)—us
+- आविष्टं (*āviṣṭaṃ*)—protect
+- मित्रावरुणौ (*mitrāvaruṇau*)—O Mitra and Varuṇa
+- सिषासंतः (*siṣāsaṃtaḥ*)—we who desire to obtain wealth
+- जिगीवांसः (*jigīvāṃsaḥ*)—having the power to conquer enemies and obtain their riches
+- स्याम (*syāma*)—bless us that we may become
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, excellent givers, you who are protectors of the world, protect us by that most abundant, unbroken happiness and protection, which cannot be cut through by others, that you possess. O Mitra and Varuṇa, bless us who desire to obtain wealth that we may become possessed of the power to conquer our enemies and obtain their riches.
+
+##### English translation
+Munificent Mitra and Varuna, protectors of the universe, (it is yours to grant) exceeding and perfect felicity, such as it is impossible to disturb: bless us with that (felicity), and may we ever be (possessed) of the riches we desire, and be confident of victory (over our enemies.)
+
+### Printed p. 852
+
+##### विशेषविषयगळु (Special Topics)
+
+At the Dākṣāyaṇa sacrifice, the ninth Ṛk of this sūkta, यद्वंहिष्ठं (*yadvaṃhiṣṭhaṃ*), is to be used as the yājyā mantra in the offering made to Mitra and Varuṇa at the second new moon; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra आ नो मित्रावरुणा यद्वंहिष्ठं नातिविधे सुदानू (*ā no mitrāvaruṇā yadvaṃhiṣṭhaṃ nātividhe sudānū*) (Ā. 2-14). And likewise in the animal sacrifice connected with Mitra and Varuṇa, when the offering is made, this Ṛk is to be used as the yājyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra यद्वंहिष्ठं नातिविधे सुदानू हिरण्यगर्भः समवर्तताग्रे (*yadvaṃhiṣṭhaṃ nātividhe sudānū hiraṇyagarbhaḥ samavartatāgre*) (3-8).
+In this Ṛk, which forms the conclusion of the sūkta, the seer prays to Mitra and Varuṇa to give lasting happiness, a house, wealth and the like, and that we may conquer our enemies.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । (*vedārthasya prakāśena tamo hārdaṃ nivārayan |*)
+पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*)
+इति श्री मद्राजाधिराजपरमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणामात्येन विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये चतुर्थाष्टके तृतीयोऽध्यायः समाप्तः ॥ (*iti śrī madrājādhirājaparameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇāmātyena viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye caturthāṣṭake tṛtīyo 'dhyāyaḥ samāptaḥ ‖*)
+॥ ओं तत्त्वत् ॥ (*‖ oṃ tattvat ‖*)
+Here ends the third chapter in the fourth Aṣṭaka of the Ṛgveda-saṃhitā, accompanied by the commentary of the venerable Sāyaṇa and by a translation in the Kannada language.
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*)
+तत्सर्वं क्षम्यतां देव वागीश्वर नमोस्तु ते॥ (*tatsarvaṃ kṣamyatāṃ deva vāgīśvara namostu te‖*)
+॥ श.भं भूयात् ॥ (*‖ śa.bhaṃ bhūyāt ‖*)
+॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 846. Mandala 5 sukta 62 Rk 3-6 (partial), pp. 841-846
+**Progress note:** Done through printed p. 852. Mandala 5 sukta 62 Rk 6 end - Rk 9, pp. 847-852, end of volume
