@@ -33636,6 +33636,296 @@ O Agni, with your delighting tongue, the flame that stands as the mouth of the g
 - वह्निः (*vahniḥ*)—the bearer of the oblation
 - विदुष्टरः (*viduṣṭaraḥ*)—
 
+### Printed p. 788
+
+- —exceedingly knowing
+- सः (*saḥ*)—you
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to those who are rich in wealth in the form of oblations
+- नः (*naḥ*)—to us
+- रयिं (*rayiṃ*)—wealth
+- आ वह (*ā vaha*)—bring
+- हव्यदातिं च (*havyadātiṃ ca*)—and the sacrificer who offers the oblation
+- सूदय (*sūdaya*)—impel for the rite
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, with your mouth that gratifies the gods and has the form of flame, you who bear the oblation and are exceedingly knowing, bring wealth to us who possess riches in the form of oblations. Impel to the rite the sacrificer who offers the oblation.
+
+##### English translation
+The most wise Agni is the bearer (of oblations), as the mouth of the gods with his graceful tongue (of flame): bring riches, Agni, to the affluent (in sacrifices) : encourage the donor of the oblation.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये राधां॑सि॒ दद॒त्यश्वा॑ म॒घा कामे॑न॒ श्रव॑सो म॒हः ।  
+> ता अंह॑सः पिपृहि प॒र्तृभि॒ष्ट्वं श॒तं पू॒र्विर्य॑विष्ठ्य ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । राधांसि । ददति । आश्वा । मघा । कामेन । श्रवसः । महः ।  
+> शान् । अंहसः । पिपृहि । पर्तृभिः । त्वं । शतं । पूभिः । यविष्ठ्य ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ्य युवतमाग्ने त्वं यजमाना महो महतः श्रवसो यशसः
+> कामेनेच्छया । यशस्कामाः संत इत्यर्थः । राधांसि साधकान्यश्वात्वात्मकानि मघा
+> मघानि ददति तान्तात्मनंहसः पापात् शत्र्वर्णा पर्तृभी रक्षासाधनभूतैः
+> शतमपरिमिताभिः पूर्विर्नगरीभिश्च पिपृहि । पालय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, youngest of the young, you protect those sacrificers who, out of desire for great fame, that is, being desirous of fame, give riches that bring accomplishment, wealth consisting of horses and the like, and treasures. You protect them from sin with hundreds, that is, countless, cities, which are the means of protection. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ्य (*yaviṣṭhya*)—O Agni, exceedingly youthful
+- ये (*ye*)—which sacrificers
+- महः (*mahaḥ*)—great
+- श्रवसः (*śravasaḥ*)—desiring to become worthy of fame
+- कामेन (*kāmena*)—with longing
+- राधांसि (*rādhāṃsi*)—riches
+
+### Printed p. 789
+
+- अश्वा (*aśvā*)—horses
+- मघा (*maghā*)—priceless things
+- ददति (*dadati*)—who give
+- तान् (*tān*)—such givers
+- अंहसः (*aṃhasaḥ*)—from the enemy who is sin in form
+- पर्तृभिः (*partṛbhiḥ*)—fit for protection
+- शतं (*śataṃ*)—and large in number
+- पूर्भिः (*pūrbhiḥ*)—by the bestowal of cities
+- त्वं (*tvaṃ*)—you
+- पिपृहि (*pipṛhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, exceedingly youthful, those sacrificers who, desiring to become worthy of great fame, give riches, horses and priceless things, those givers you protect by the bestowal of cities that are fit for protection and large in number, against the enemy who is sin in form.
+
+##### English translation
+Youngest (of the gods), protect with your protections from inquiry, (and reward) with numerous cities those who, through the desire of extended fame, bestow riches, comprehending horses and treasure. **NOTE**
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वो वो॑ द्रविणो॒दाः पू॒र्णां वि॑वष्ट्या॒सिचं॑ ।  
+> उद्वा॑ सिं॒चध्व॒मुप॑ वा पृणध्व॒मादिद्वो॑ दे॒व ओ॑हते ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवः । वः । द्रविणःऽदाः । पूर्णां । विवष्टि । आसिचं ।  
+> उत् । वा । सिंचध्वं । उप । वा । पृणध्वं । आत । इत् । वः । देवः । ओहते ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्रविणोदा धनानां दाता देवोऽग्निर्वो युष्मदीयां पूर्णां हविषासिचमासिक्तां स्रुचं विवष्टि । कामयते । आत उत्सिंचध्वं वा सोमेन पात्रं ।
+> उप पृणध्वं वा सोमं ॥ वाशब्दौ समुच्चयार्थौ ॥ ध्रुवग्रहेण होतृचमसं
+> पूरयत चाग्नये सोमं यच्छत चेत्यर्थः । आदिदनंतरमेव देवोऽग्निर्वो
+> युष्मानोहते । वहति ॥
+
+##### Gist of the bhāṣya
+
+The god Agni, the giver of wealth, desires your ladle, full and filled with the oblation. Or else: fill the vessel with Soma, and pour Soma into it as well; the two words वा (*vā*) have the sense of "and". The meaning is: fill the Hotṛ's cup with the Dhruva-graha draught and give Soma to Agni. Immediately thereafter the god Agni carries your offerings to the gods.
+
+### Printed p. 790
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रविणोदाः (*draviṇodāḥ*)—the giver of wealth
+- देवः (*devaḥ*)—Agni
+- वः (*vaḥ*)—your
+- पूर्णां (*pūrṇāṃ*)—full of the oblation
+- आसिचं (*āsicaṃ*)—and sprinkled with ghee, the ladle
+- विवष्टि (*vivaṣṭi*)—desires (therefore)
+- वा उत् सिंचध्वं (*vā ut siṃcadhvaṃ*)—fill the vessel with Soma
+- उप पृणध्वं वा (*upa pṛṇadhvaṃ vā*)—offer that Soma to him
+- आदित् (*ādit*)—immediately thereafter
+- देवः (*devaḥ*)—Agni
+- वः (*vaḥ*)—your
+- ओहते (*ohate*)—carries the oblations
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the giver of wealth, desires the ladle that is full of your oblation and filled with ghee. Therefore fill the vessel with Soma and offer that Soma to him. Immediately thereafter Agni carries your oblations.
+
+##### English translation
+The divine Agni, the giver of wealth, desires the ladle filled full. Pour out (the contents), and replenish (the vessel), and then the deity bears (your oblations to the gods).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं होता॑रमध्व॒रस्य॒ प्रचे॑तसं॒ वह्निं॑ दे॒वा अ॑कृण्वत ।  
+> दधा॑ति॒ रत्नं॑ विध॒ते सु॒वीर्य॑म॒ग्निर्जना॑य दा॒शुषे॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । होतारं । अध्वरस्य । प्रचेतसं । वह्निं । देवाः । अकृण्वत ।  
+> दधाति । रत्नं । विधते । सुवीर्यं । अग्निः । जनाय । दाशुषे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवाः प्रचेतसं प्रकृष्टमतिमग्निमध्वरस्य यज्ञस्य वह्निं वोढारं होतारं
+> चाकृण्वश । अकुर्वन् । किमर्थमित्यत आह । स चाग्निर्विधते परिचरते दाशुषे हविषां
+> प्रदात्रे जनाय सुवीर्यं शोभनवीर्योपेतं रत्नं रमणीयं धनं दधाति ।
+> ददात्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The gods made Agni, of excellent understanding, the bearer of the sacrifice and its Hotṛ. For what purpose? He answers: that Agni gives to the man who serves him, the one who gives oblations, goodly valour and delightful wealth. The meaning is: let him give.
+
+### Printed p. 791
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—the gods
+- प्रचेतसं तं (*pracetasaṃ taṃ*)—Agni of excellent knowledge
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- वह्निं (*vahniṃ*)—as the bearer
+- होतारं (*hotāraṃ*)—as the Hotṛ
+- अकृण्वत (*akṛṇvata*)—have made
+- अग्निः (*agniḥ*)—that same Agni
+- विधते (*vidhate*)—who worships him
+- दाशुषे (*dāśuṣe*)—who offers the oblation
+- जनाय (*janāya*)—to the sacrificer
+- सुवीर्यं (*suvīryaṃ*)—endowed with excellent strength
+- रत्नं (*ratnaṃ*)—wealth
+- दधाति (*dadhāti*)—gives
+
+##### भावार्थ (Bhāvārtha)
+
+The gods have made Agni, of excellent knowledge, the bearer of the sacrifice and its Hotṛ. That same Agni gives wealth endowed with excellent strength to the sacrificer who worships him and offers the oblation.
+
+##### English translation
+The gods have made the wise (Agni) the ministrant priest, and bearer of the sacrifice. Agni gives to the man who performs the prescribed rite and presents (the offering), wealth, virtuous male posterity.
+
+## Sūkta 17 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने भव सुषमिधेति सप्तर्चं सप्तदशं सूक्तं वसिष्ठस्यार्षमग्नि देवताकं ।
+> सप्तापि द्विपदास्त्रिष्टुभः । तथैवानुक्रम्यते । अग्ने भव सप्त द्वैपदं त्रैष्टुभमिति ॥
+> अतिरात्रे षष्ठेऽहनि तृतीयसवने मैत्रावरुणशस्त्रेऽग्ने भवेति तृचोऽनुरूपः ।
+> सूत्र्यते हि । अग्ने त्वं नोऽन्तमोऽग्ने भव सुषमिधा समिद्ध इति स्तोत्रियानुरूषौ । आ. ८-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अग्ने भव सुषमिधा (*agne bhava suṣamidhā*) has seven ṛks and is the seventeenth sūkta. Its seer is Vasiṣṭha, its deity Agni. All seven are Dvipadā Triṣṭubh. So the Anukramaṇī says: अग्ने भव सप्त द्वैपदं त्रैष्टुभमिति (*agne bhava sapta dvaipadaṃ traiṣṭubhamiti*). In the Atirātra, on the sixth day, at the third pressing, in the Maitrāvaruṇa's recitation, the triplet beginning अग्ने भव (*agne bhava*) is the Anurūpa. For it is taught in the sūtra: अग्ने त्वं नोऽन्तमोऽग्ने भव सुषमिधा समिद्ध इति स्तोत्रियानुरूषौ । (*agne tvaṃ no 'ntamo 'gne bhava suṣamidhā samiddha iti stotriyānurūṣau |*) (Ā. 8-2).
+
+##### Anuvāda
+
+This sūkta, beginning आग्ने भव सुषमिधा (*āgne bhava suṣamidhā*), is the seventeenth sūkta in the first anuvāka. It has seven ṛks. Vasiṣṭha is the seer of this sūkta; Agni is the deity; the seven ṛks of this sūkta are of the metre called Dvipadā Triṣṭup. In the Anukramaṇikā it is said: आग्ने भव सप्त द्वैपदं त्रैष्टुभं (*āgne bhava sapta dvaipadaṃ traiṣṭubhaṃ*). The ṛk अग्ने भव (*agne bhava*) is to be recited as the Anurūpa mantra among the śastra mantras recited by the priest called Maitrāvaruṇa, at the time of the third pressing on the sixth day of the sacrifice called Atirātra, as set out by the sūtra of the Āśvalāyana Śrauta Sūtra, अग्ने त्वं नोऽन्तमोऽत्वे भव सुषमिधा समिद्ध इति स्तोत्रियानुरूपौ (*agne tvaṃ no 'ntamo 'tve bhava suṣamidhā samiddha iti stotriyānurūpau*) (Ā. 8-2). **NOTE**
+
+### Printed p. 792
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 18 **NOTE**
+- Aṣṭaka 5; Adhyāya 2; Varga 23
+- Number of ṛks in the sūkta: 7
+- Seer: Vasiṣṭha
+- Deity: Agni
+- Metre: Dvipadā Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ भव॑ सुष॒मिधा॒ समि॑द्ध उ॒त ब॒र्हिरु॑र्वि॒या विस्तृ॑णीतां॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । भव । सुसमिधा । संइद्धः । उत । बर्हिः । उर्विया । वि । स्तृणीतां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सुषमिधा शोभनया समिधा समिद्दो भव । सम्यक् दीप्तो भव ।
+> उतापि च बर्हिरुर्विया विस्तीर्णमुपस्तृणीतामध्वर्युः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, be kindled with good fuel; be well kindled. And let the Adhvaryu strew the sacred grass broadly, spread out wide.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सुषमिधा (*suṣamidhā*)—with excellent fuel sticks
+- तमिद्धः (*tamiddhaḥ*)—kindled
+- भव (*bhava*)—become
+- उत (*uta*)—and
+- बर्हिः (*barhiḥ*)—the sacred grass seat
+- उर्विया (*urviyā*)—broadly
+- विस्तृणीतां (*vistṛṇītāṃ*)—spread out and make ready
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be kindled with excellent fuel sticks. O Adhvaryu, spread out the sacred grass seat broadly and make it ready.
+
+##### English translation
+Be kindled, Agni, with suitable fuel: let the (priest) strew the plentiful sacred grass.
+
+### Printed p. 793
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त द्वार॑ उश॒तीर्वि श्र॑यंतामु॒त दे॒वा उ॑श॒त आ व॑हे॒ह॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । द्वारः । उशतीः । वि । श्रयंतां । उत । देवान् । उशतः । आ । वह । इह ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि चोशतीर्देवान् कामयमाना द्वारो यज्ञगृहस्य देव्यो वा ।
+> तथा च यास्कः । द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा । नि. ८-९ । इति । वि
+> श्रयंतां । उतापि चोशतो यज्ञं कामयमानान्देवानिह यज्ञ आ वह ॥
+
+##### Gist of the bhāṣya
+
+And let the doors of the sacrificial house, which long for the gods, or the divine doors, open wide. So Yāska: द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा (*dvāro javatervā dravatervā vārayatervā*) (Ni. 8-9) **GLOSS**. And bring here to this sacrifice the gods who long for the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- उशतीः (*uśatīḥ*)—longing for the gods
+- द्वारः (*dvāraḥ*)—the doors of the sacrificial house
+- वि श्रयंतां (*vi śrayaṃtāṃ*)—let them open
+- उत (*uta*)—and
+- उशतः (*uśataḥ*)—who desire the sacrifice
+- देवान् (*devān*)—the gods
+- इह (*iha*)—to this sacrifice
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+Let the doors of the sacrificial house, which long for the gods to come for worship, be opened wide. And, O Agni, bring to this sacrifice the gods who desire the sacrifice.
+
+##### English translation
+Let the willing doors (of the chamber of sacrifice) be thrown open ; bring hither the willing gods.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ वी॒हि ह॒विषा॒ यक्षि॑ दे॒वान्तस्त्व॑ध्व॒रा कृ॑णुहि जातवेदः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । वीहि । हविषा । यक्षि । देवान् । सुऽध्वरा । कृणुहि । जातवेदः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातधनाग्ने वीहि । देवानभिगच्छ । हविषा देवान्यक्षि । यज
+> च । स्वध्वरा स्वध्वरान् शोभनयज्ञांश्च कृणुहि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Jātaveda, Agni, whose wealth is born with him, वीहि (*vīhi*): go to the gods. Sacrifice to the gods with the oblation. And make the sacrifices well performed, that is, good sacrifices.
+
 ---
 
-**Progress note:** Done through printed p. 787. Vol 21 Sūkta 16 Ṛk 3 end to Ṛk 9, pp. 782-787
+**Progress note:** Done through printed p. 793. Ṛk 9 end, Ṛk 10-12 of VII.16, VII.17 Ṛk 1-3 start
