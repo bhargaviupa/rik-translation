@@ -17,9 +17,15 @@ Supplied by the user (Nov 18 2026) as two machine-read markdown files, `rig_21_1
 Prepared Nov 18 2026 from `vol20/CONTINUE_PROMPT_HTML.md` (no `vol21/CONTINUE_PROMPT_HTML.md` existed; the Vol 20 prompt was used as the template). Agent route, as Vol 20.
 
 ## Status
-Done through printed p. 0 (set-up only; `batch.py audit 21` passes).
+Done through printed p. 841 (the whole volume; 44 agent batches of three windows, Nov 18–19 2026; `batch.py audit 21` passes; last window w0839 ends with the colophon and benediction verses). Verified by `done` (VERIFIED for every window), `audit`, `check_labels.py 21` (0 blocks under another section's label; 2075 English blocks, 2076 Kannada blocks) and `rv import` (372 NOTE marks = 372 rows in `review/notes.tsv`).
 
 ## Open items
+1. (user) 372 `**NOTE**` questions in `review/notes.tsv`; 164 `**GLOSS**` markers (quotations without a Kannada meaning: to be filled from our own edition).
+2. (user) `rv import` reports 5 Sanskrit blocks differing from the source (`review/import_report.md`: 21.6.030.03.samhita, 21.6.065.03.samhita, 21.7.001.21.samhita, 21.7.018.14.pada, 21.7.019.11.samhita) and `rv structure` finds no reference verses for Maṇḍalas 6–7 (reference data missing or `--mandalas 6,7` not accepted: not investigated; `rv/` not changed).
+3. (user) The accents gate left a few NOMATCH lines per window; they need `--api` with `RIK_API_KEY`.
+4. (dispatcher) Hand-edits outside `batch.py fix`: see `review/repair_log.md` (w0121, w0592/w0607, spelling and remark repairs).
+5. (dispatcher) The preface is translated separately into `vol21/work/preface/en.md`; installing it is a logged repair with the user's yes.
+6. (user) Script candidates seen again and again (LESSONS): garbled label before Pada/bhāṣya, Pratipadārtha lines inside the bhāṣya block, unblocked Anuvāda/particulars, stray `XXI nn` lines, running heads inside blocks (pp. 123/124, 153, 336, 431, 585, 629, 656, 804–807 and others).
 (Numbered; each says who must act: user / dispatcher. Counts: `[?]` in `review/doubts.tsv`, accent-report lines, inline mismatches, page flags.)
 
 ## Publication (print PDF)

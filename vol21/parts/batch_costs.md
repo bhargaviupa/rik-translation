@@ -43,3 +43,4 @@
 | through p. 787 (pp. 770-775, 776-781, 782-787) | sonnet | n/a | pending | - |
 | through p. 807 (pp. 788-793, 794-799, 800-807) | sonnet | n/a | pending | - |
 | through p. 825 (pp. 808-813, 814-819, 820-825) | sonnet | n/a | pending | - |
+| through p. 841 (pp. 826-832, 833-838, 839-841) | sonnet | n/a | pending | - |
