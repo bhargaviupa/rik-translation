@@ -28066,7 +28066,7 @@ The years (शरदः (*śaradaḥ*)) do not make Indra old; they do not wear 
 
 - यं इंद्रं (*yaṃ iṃdraṃ*)—which Indra
 - शरदः (*śaradaḥ*)—the years
-- जरंति (*jaraṃti*)—make wear away, (do not) 
+- जरंति (*jaraṃti*)—do not make wear away 
 - मासाः (*māsāḥ*)—the months (do not make him slack)
 - द्यावः (*dyāvaḥ*)—the days also
 - न अवकर्शयंति (*na avakarśayaṃti*)—do not make him waste away; such
