@@ -21503,6 +21503,326 @@ O Mitra and Varuṇa, as a man devoted to rites obtains his position by his own 
 ##### English translation
 Come, Mitra and Varuna, beloved by all, and invoked with reverence to the propitious rite, you who by your bounty support men labouring for sustenance as a workman (maintains himself) by work.
 
+### Printed p. 487
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वा॒ न या वा॒जिना॑ पू॒तबं॑धू ऋ॒ता यद्गर्भ॒मदि॑ति॒र्भर॑ध्यै ।  
+> प्र या महि॑ म॒हांता॒ जाय॑माना घो॒रा मर्ता॑य रि॒पवे॒  ॑
+> नि दीधः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वा । न । या । वाजिना । पूतबंधू इति पूतबंधू । ऋता । यत् । गर्भं ।  
+> अदितिः । भरध्यै ।  
+> प्र । या । महि । महांता । जायमाना । घोरा । मर्ताय । रिपवे । नि । दीधरिति  
+> दीधः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या यावश्वा नाश्चाविन वाजिना वाजिनौ बलिनौ पूतबंधू पूतस्तोत्रावृता
+> सत्यौ च । यत् यौ गर्भं गर्भभूतावदितिर्देवी भरध्यै बभार ! किंच या यौ
+> जायमाना जायमानावेव महि महतो महांता महत्तरौ प्रभूत् मित्रावरुणौ
+> मर्ताय मर्ताय रिपवे हिंसकाय घोरा घोरौ घातकौ नि दीधः निदधारादितिः
+> स्टोदरे ॥
+
+##### Gist of the bhāṣya
+
+The two who are like horses, strong, whose praises are pure, and who are truthful: Aditi, the goddess, bore them as an embryo. Moreover, these two, Mitra and Varuṇa, were greater than the great even as they were being born; they are terrible to the mortal, the harming enemy, and are his slayers. Aditi bore them in her own womb. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—which Mitra and Varuṇa
+- अश्वा न (*aśvā na*)—like horses
+- वाजिना (*vājinā*)—strong
+- पूतबंधू (*pūtabaṃdhū*)—possessed of pure praises
+- ऋता (*ṛtā*)—who are of the nature of truth
+- यत् (*yat*)—whom
+- अदितिः (*aditiḥ*)—Aditi
+- गर्भं (*garbhaṃ*)—in the form of an embryo
+- भरध्यै (*bharadhyai*)—she bore
+- या (*yā*)—who
+- जायमाना (*jāyamānā*)—at the very time of being born
+- महि (*mahi*)—than those who have greatness
+- प्रमहांता (*pramahāṃtā*)—such Mitra and Varuṇa as had attained very great majesty
+- मर्ताय (*martāya*)—for the benefit of man
+- रिपवे (*ripave*)—of the harming enemy
+- घोरा (*ghorā*)—so as to be destroyers
+- नि दीधः (*ni dīdhaḥ*)—Aditi obtained as her sons
+
+##### भावार्थ (Bhāvārtha)
+
+Those Mitra and Varuṇa who, like horses, are strong, worthy of pure praises and of the nature of truth, whom Aditi bore in her womb, who even when born had attained greater majesty than those who have greatness
+
+### Printed p. 488
+
+such Mitra and Varuṇa Aditi obtained as her sons, for the benefit of man, to be destroyers of the harming enemy.
+
+##### English translation
+Who (are) strong as horses, accepters of pious praise, observers of truth, whom Aditi conceived : whom, mighty of the mighty at your birth and formidable to mortal foes, she bore.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॒ यद्वां॑ मं॒हना॒ मंद॑मानः क्ष॒त्रं दे॒वासो॒ अद॑धुः  ॒॑
+> सजोषाः ।  
+> परि॒ यद्भू॒थो रोद॑सी चिदु॒र्वी संति॒ स्पशो॒ अद॑ब्धासो॒  ॑
+> अमूराः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । यत् । वां । मंहना । मंदमानाः । क्षत्रं । देवासः । अदधुः । सजोषाः ।  
+> परि । यत् । भूथः । रोदसी इति । चित् । उर्वी इति । संति । स्पशः । अदब्धासः ।  
+> अमूराः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वे सर्वॆ देवासो देवाः सजोषाः परस्परं प्रीतियुक्ता यद्यौ नां
+> युवां मंहना महत्त्वेन मंदमानाः स्तुवंतः क्षत्रं बलमदधुः धत्तवंतः ।
+> किंच यद्यौ युवामुर्वी विस्तीर्णे रोदसी द्यावापृथिव्य परि भूथः परिभवथः
+> तयोर्युवयोरदब्बासोऽहिंसिता आमूरा अमूढाः स्पशो रश्मयश्च रा वा संति ॥
+
+##### Gist of the bhāṣya
+
+All the gods, united in mutual affection, delighting in your greatness, that is, praising you, laid strength in you. Moreover, since you two encompass the wide heaven and earth, your rays, unharmed and undeluded, are there. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् वां (*yat vāṃ*)—you, whom
+- मंहना (*maṃhanā*)—for your greatness
+- विश्वे (*viśve*)—all
+- देवासः (*devāsaḥ*)—the gods
+- सजोषाः (*sajoṣāḥ*)—assembling together
+- मंदमानाः (*maṃdamānāḥ*)—praising you
+- क्षत्रं (*kṣatraṃ*)—strength
+- अदधुः (*adadhuḥ*)—they established in you
+
+### Printed p. 489
+
+- यत् (*yat*)—you who
+- उर्वी (*urvī*)—the wide
+- रोदसी चित् (*rodasī cit*)—both heaven and earth
+- परि भूथः (*pari bhūthaḥ*)—pervade and overpower (such of you)
+- स्पशः (*spaśaḥ*)—the rays
+- अदब्धासः (*adabdhāsaḥ*)—are unharmed
+- अमूराः (*amūrāḥ*)—and free of obstruction
+- संति (*saṃti*)—are
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you, whom all the gods, assembling together, praising you, for your greatness, established your strength in, you who pervade and overpower both the wide heaven and earth, such as you have rays that are unharmed and free of obstruction.
+
+##### English translation
+Inasmuch as all the gods equally pleased and rejoicing in your greatness conferred strength upon you, and since you are pre-eminent over the wide heaven and earth, your courses are unobstructed, unimpeded.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता हि क्ष॒त्रं धा॒रये॑थे॒ अनु॒ द्यून्दृं॒हेथे॒ सानु॑मुप॒मादि॑व॒ द्योः ।  
+> दृ॒ळ्हो नक्ष॑त्र उ॒त वि॒श्वदे॑वो॒ भूमि॒माता॒न्द्यां धा॒सिना॒योः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । हि । क्षत्रं । धारायेथे इति । अनु । द्यून् । द्यंहेथे इति । सानुं । उपमात् इव ।  
+> द्योः ।  
+> दृढः । नक्षत्रः । उत । विश्वदेवः । भूमिं । आ । आतान् । द्यां । धासिना । आयोः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तौ मित्रावरुण् युवामनु द्यून् दिवसे दिवसे क्षत्रं बलं धारयेथे
+> हि । द्योरंतरिक्षस्य सानुः समुच्च्रितप्रदेशं मेघं सूर्यं वा दृंहेथे ।
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, you indeed hold strength day by day. You make firm the ridge of the sky, the lofty region of the atmosphere, that is, the cloud or the sun.
+
+### Printed p. 490
+
+> दृढीकुरुतं । उपमादिव । उपमीयते प्रक्षिप्यत इत्युपमात्सूणा । सा यथा
+> वत्सं धारयति तद्वदित्यर्थः। दृळ्हो युवाभ्यां दृढीकृतश्च मेघो नक्षत्रोऽन्तरीक्षं
+> व्याप्नुवान उतापि च विश्वदेवः सूर्यो भूमिं द्यां दिवं चायोर्मनुष्यस्य ।
+> द्रुह्यव आयव इति मनुष्यनामसु पाठात् । धासिनान्नेन हविषा । क्षुत् धासिरित्यन्ननामसु पाठात् । आप्यायितः सन् आतान् । आतनोति युवाभ्यां दृढीकृत एव ॥
+
+##### Gist of the bhāṣya
+
+As a post, that which is set up, holds a calf, so do you hold: this is the meaning. The cloud, made firm by you, filling the atmosphere, and the sun, the All-god, nourished by the food, the oblation, of man (the words for "man" and for "food" are read among the names of man and the names of food), spread out earth and heaven, made firm by you alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—you, the well known
+- अनु द्यून् (*anu dyūn*)—every day
+- क्षत्रं (*kṣatraṃ*)—strength
+- धारयेथे हि (*dhārayethe hi*)—you indeed hold
+- द्योः (*dyoḥ*)—of the atmosphere
+- सानुं (*sānuṃ*)—the lofty region
+- उपमादिव (*upamādiva*)—as with a firm pillar
+- दृंहेथे (*dṛṃhethe*)—you make endowed with firm strength
+- नक्षत्रः (*nakṣatraḥ*)—the cloud that pervades the atmosphere
+- वृळः (*vṛḷaḥ*)—and is firm
+- उत (*uta*)—and
+- विश्वदेवः (*viśvadevaḥ*)—the sun
+- आयोः (*āyoḥ*)—given by man
+- धासिना (*dhāsinā*)—satisfied by the food in the form of the oblation
+- भूमिं (*bhūmiṃ*)—the earth
+- द्यां (*dyāṃ*)—and the heaven
+- आ आतान् (*ā ātān*)—cause to be abundant
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you, the well known, hold great strength every day. You make the lofty region of the atmosphere endowed with firm strength, like a firm pillar. The cloud that pervades the atmosphere and is firm, and the sun, satisfied by the food in the form of the oblation given by man, cause the earth and the heaven to be abundant.
+
+##### English translation
+You manifest vigour daily, you strengthen the summit of the sky as
+if with a pillar; the solid firmament and the universal deity (the sun)
+replenish earth and heaven with the food of man.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वि॒ग्रं धै॑थे ज॒ठरं॑ पृ॒णध्या॒ आ यत्सद्म॒ सभृ॑तयः पृ॒णंति॑ ।  
+> न मृ॑ष्यंते युव॒तयोऽवा॑ता॒ वि यत्पयो॑ विश्वजिन्वा॒ भरं॑ते ॥
+
+### Printed p. 491
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । विग्रं । धैथे इति । जठरं । पृणध्यै ' आ । यत् । सद्म । सभृतयः । पृणंति ।  
+> न । मृष्यंते । युवतयः । अवाताः । वि । यत् । पयः । विश्वजिन्वा । भरंते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता शौ मित्रावरुण् युवां विग्रं प्राज्ञं यजमानं । विप्रो विग्र इति
+> मेधाविनामसु पाठात् । धैथे धारयथो जठरमुदरं पृणध्यॆ सोमेन
+> पूरयितुं । यद्यदा सभृतयः सह भ्रियमाणा ऋत्तिजः सद्म यज्ञसदनमा पृणंति
+> आ पूरयंति । विश्वजिन्वा हे विश्वजिन्वान् यद्यदा पयो जलं भवद्भ्यां प्रहितं तदा
+> युवतयो नद्यो दिशो वा न मृष्यंते । रजसा नाभिभूयंते । अवाता अशुष्काश्च
+> वि भरंते । विभूतिं धारयंति ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, you hold the wise sacrificer (the word for "wise" is read among the names of the intelligent) in order to fill the belly with Soma. When the priests, who are supported together with him, fill the sacrificial seat, the house of the sacrifice, then, O sustainers of all, when the water sent by you comes, the young women, that is, the rivers or the quarters, are not harmed, not overcome by dust, and, not dried up, bear abundance. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- सभृतयः (*sabhṛtayaḥ*)—the priests
+- सद्म (*sadma*)—in the house of sacrifice
+- आ पृणंति (*ā pṛṇaṃti*)—fill it, then
+- ता (*tā*)—you, the well known
+- जठरं (*jaṭharaṃ*)—your belly
+- पृणध्यॆ (*pṛṇadhyè*)—to fill with Soma juice
+- विप्रं (*vipraṃ*)—the wise sacrificer
+- धैथे (*dhaithe*)—you support (you become his refuge)
+- विश्वजिन्वा (*viśvajinvā*)—O Mitra and Varuṇa, who are pleasing to the whole world
+- यत् (*yat*)—when
+- पयः (*payaḥ*)—you send water, then
+- युवतयः (*yuvatayaḥ*)—the rivers
+- न मृष्यंते (*na mṛṣyaṃte*)—are not obstructed by anyone
+- अवाताः (*avātāḥ*)—not drying up in the least
+- वि भरंते (*vi bharaṃte*)—spread abundance of water
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, when the priests fill the house of sacrifice, then you, the well known, take refuge in the wise sacrificer in order to fill your belly with Soma juice; that is, you become his refuge. O Mitra and Varuṇa, pleasing to the whole world, when you send water, then the rivers are not obstructed by anyone, and spread around an abundance of water that does not dry up.
+
+##### English translation
+You two support the sage (worshipper), filling his belly when he and
+his dependants fill the sacrificial chamber ; when, sustainers of all, the
+
+### Printed p. 492
+
+rain (is sent down by you), and the young (rivers) are not obstructed, but,
+undried, diffuse (fertility) around.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता जि॒ह्वया॒ सद॒मेदं सु॑मे॒धा आ यद्वां॑ स॒त्यो अ॑र॒तिर्ऋ॒ते  
+> भूत् ।  
+> तद्वां॑ महि॒त्वं धृ॑तान्नावस्तु यु॒वं दा॒शुषे॒ वि च॑यिष्ट॒मंहः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । जिह्वया । सदं । आ । इदं । सुमेधा । आ । यत् । नां । सत्यः । अरतिः । ऋते ।  
+> भूत् ।  
+> तत् । वां । महित्वं । धृत्यअन्नौ । अस्तु । युवं। दाशुषे । वि । चयिष्टं । अंहः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तौ मित्रावरुणौ युवां सुमेधाः प्राज्ञो जिह्वया वाचा सदं
+> सर्वदेदं जलमा याचते । आ इत्युपसर्गदर्शनाद्योग्यक्रियाध्याहाराद्याचत
+> इत्याध्याह्रियते। पूर्वस्यामृचि जलस्य प्रकृतत्वात् बुद्धि विपरिवर्तमानं जलमिदंशब्देन परामृश्यते । यद्यदा वां युवयोररतिरभिगंता ऋते यज्ञे सत्यो
+> मायारहित आ भूत् आभवति हे धृतान्सौ तन्महित्वमपेक्षितप्रदातृत्वलक्षणं वां
+> युवयोरस्तु । किंच युवं युवां दाशुषे दाशुषो यजमानस्य ॥ षष्ठ्यर्थे
+> चतुर्थी ॥ अ०हः पापं वि चयिष्टं । विनाशयतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, the wise man always asks you, with his tongue, that is, with speech, for this water. The word "ā" is seen as a preverb, so the fitting verb "asks" is supplied; because water was the subject of the previous ṛk, the water turning in the mind is referred to by the word "this". When your approacher, truthful and free of deceit, comes to the sacrifice, O you whose food is ghee, may that greatness of yours, which consists in giving what is desired, be yours. Moreover, you two destroy the sin of the sacrificer who gives the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वां (*vāṃ*)—your
+- आरतिः (*āratiḥ*)—worshipper
+- ऋते (*ṛte*)—in the sacrifice
+- सत्यः (*satyaḥ*)—sincere
+- आ भूत् (*ā bhūt*)—he approaches you, then
+- ता (*tā*)—you
+- सुमेधाः (*sumedhāḥ*)—the wise sacrificer
+- जिह्वया (*jihvayā*)—with his speech
+- सदं (*sadaṃ*)—always
+- इदं (*idaṃ*)—water
+- आ याचते (*ā yācate*)—asks for
+- धृतान्नौ (*dhṛtānnau*)—O Mitra and Varuṇa, whose food is ghee
+- वां (*vāṃ*)—in you
+- महित्वं (*mahitvaṃ*)—the greatness of giving generously
+
+### Printed p. 493
+
+- अस्तु (*astu*)—may be
+- युवं (*yuvaṃ*)—you two
+- दाशुषे (*dāśuṣe*)—of the sacrificer who offers the oblation
+- अंहः (*aṃhaḥ*)—the sin
+- वि चयिष्टं (*vi cayiṣṭaṃ*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, when your worshipper approaches you sincerely in the sacrifice, then the wise sacrificer always asks you with his speech for water. O Mitra and Varuṇa, whose food is ghee, may the greatness of giving generously be in you. May you two destroy the sin of the sacrificer who offers the oblation.
+
+##### English translation
+The wise man always (solicits) you with his prayers for this (supply of water), when approaching you sincerely in sacrifice : may your magnani- mity be such that you, the feeders upon ghi, may exterminate sin in the donor (of the oblation).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यद्वां॑ मित्रावरुणा स्पू॒र्धन्त्रि॒या धाम॑ यु॒वधि॑ता  ॒॑
+> मिनंति ।  
+> न ये दे॒वास॒ ओह॑सा॒ न मर्ता॒ अय॑ज्ञसाचो॒ अप्प्यो॒ न  ॒
+> पुत्राः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यत् । वां । मित्रावरुणा । स्पूर्धन् । प्रिया । धाम । युवधिता । मिनंति ।  
+> न । ये । देवासः । ओहसा । न । मर्ताः । अयज्ञसाचः । अप्प्यः । पुत्राः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ वां युवयोः प्रिया प्रियाणि धाम धामानि कर्माणि
+> युवधिता युवाभ्यां विहितानि यद्येऽयजंतो जनाः स्पूर्धन् स्पर्धमानाः प्र
+> मिनंति हिंसंति! ये च देवासो देवा ओहसा वहनसाधनेन स्तोत्रेण न युज्यंते ।
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, your dear deeds, ordained by you, are those which the non-sacrificing people, vying with you, harm; and the gods who are not joined with the praise that carries the oblation
+
 ---
 
-**Progress note:** Done through printed p. 486. Sūkta 66 Ṛk 10-11; Sūkta 67 Ṛk 1-3, pp. 480-486
+**Progress note:** Done through printed p. 493. Sūkta 67 Ṛk 4-9, pp. 487-493
