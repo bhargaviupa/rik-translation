@@ -31607,6 +31607,345 @@ Consentient with the Vasus, Agni, bring hither Indra, with the Rudras, the benev
 > स हि क्षपा॑वा॒ अभ॑वद्रयी॒णामतं॑द्रो दू॒तो य॒जथा॑य  ॒
 > देवान् ॥ ५ ॥
 
+### Printed p. 745
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंद्रं । होतारं । उशिजः । यविष्ठं । अग्निं । विशः । ईळते । अध्वरेषु ।  
+> सः । हि । क्षपावान् । अभवत् । रयीणां । आतंद्रः । दूतः । यजथाय । देवान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उशिजः कामयमाना विशो मनुष्या मंद्रं स्तुत्यं होतारमाह्वातारं
+> यविष्ठं युवतममग्निमध्वरेषु यागेष्टीळंते । स्तुवंति । हि यस्मात्कारणात्सोऽग्निः क्षपावान् रात्रिमान् । रात्रौ खल्वग्नयेऽग्निहोत्रं हूयते । रयाणां
+> सूर्यस्य रयिमतां हविष्मतां यजमानानां देवान्यजथाय यष्टुमतंद्रस्तंद्रारहितोऽभवत् । तथा च श्रूयते । यस्माद्दूत्योऽभवत्तस्माद्विशस्तमध्वर
+> ईळत इति ॥
+
+##### Gist of the bhāṣya
+
+The uśijaḥ, the desiring ones, the peoples, men, praise at the sacrifices Agni, the mandra, the praiseworthy, the hotṛ, the invoker, the yaviṣṭha, the youngest. For the reason that this Agni is kṣapāvān, possessed of night: for in the night the Agnihotra is offered to Agni. Of the sacrificers, who are wealthy and possessed of oblations**NOTE**, he has become ātandra, free from fatigue, to worship the gods. And so it is heard: यस्माद्दूत्योऽभवत्तस्माद्विशस्तमध्वर ईळत इति (*yasmāddūtyo 'bhavattasmādviśastamadhvara īḷata iti*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशिजः (*uśijaḥ*)—those who look for the help of Agni
+- विशः (*viśaḥ*)—men
+- मंद्रं (*maṃdraṃ*)—the praiseworthy
+- होतारां (*hotārāṃ*)—the one who calls the gods
+- यविष्ठं (*yaviṣṭhaṃ*)—the exceedingly young
+- अग्निं (*agniṃ*)—Agni
+- अध्वरेषु (*adhvareṣu*)—at the sacrifices
+- ईळते (*īḷate*)—they praise
+- हि (*hi*)—because
+- सः (*saḥ*)—that same Agni
+- क्षपावान् (*kṣapāvān*)—is the lord worthy of the night oblation
+- रयाणां (*rayāṇāṃ*)—for the sacrificers who have oblations
+- देवान् (*devān*)—the gods
+- यजथाय (*yajathāya*)—to worship
+- आतंद्रः (*ātaṃdraḥ*)—free from sloth
+- दूतः (*dūtaḥ*)—the messenger
+- अभवत् (*abhavat*)—he is
+
+##### भावार्थ (Bhāvārtha)
+
+Men who look for the help of Agni praise at the sacrifices Agni, the praiseworthy, the caller of the gods, the exceedingly young. For that same Agni is the lord worthy of the night oblation. For the sacrificers who have oblations, he is free from sloth, a messenger, to worship the gods.
+
+##### English translation
+Men desiring him celebrate at sacrifices the youthful Agni, the giver or delight, the invoker of the gods : he the ruler of the night, has been the diligent envoy of the opulent (institutors of sacrifices) for the worship of the gods.
+
+### Printed p. 746
+
+## Sūkta 11 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महा असीति पंचर्चमेकादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभवाग्नेयं ।
+> महानित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning महा असीति (*mahā asīti*), of five ṛks, is the eleventh sūkta; it is the vision of Vasiṣṭha, in the Triṣṭubh metre, addressed to Agni. The Anukramaṇikā says: महानित्यनुक्रांतं (*mahānityanukrāṃtaṃ*). The application for the Prātaranuvāka and the Āśvina-śastra has been stated.
+
+##### Anuvāda
+
+This sūkta, महा असि (*mahā asi*), is the eleventh sūkta in the first anuvāka. In it there are five ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: महान् (*mahān*) and so on. It has been stated earlier that this sūkta has its application for the Prātaranuvāka and the Āśvina-śastra mantras.
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 11
+- Aṣṭaka 5; Adhyāya 2; Varga 14
+- Number of ṛks in the sūkta: 5
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: आग्निः (*āgniḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हा अ॑स्यध्व॒रस्य॑ प्रके॒तो न ऋ॒ते त्वद॒मृता॑ मादयंते ।  
+> आ विश्वे॑भिः स॒रथं॑ याहि दे॒वैर्न्य॑ग्ने॒ होता॑ प्रथ॒मः स॑दे॒ह ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महान् । असि । अध्वरस्य । प्रकेतः । न । ऋते । त्वत् । अमृता । मादयंते ।  
+> आ । विश्वेभिः । सरथं । याहि । देवैः । नि । अग्ने । होता । प्रथमः । सद । इह ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमध्वरस्य प्रकेतः प्रज्ञापनः सन् महानसि । त्वदृते त्वया
+> विनामृता देवा न मादयंते । न माद्यंति । विश्वेभिर्विश्वैर्देवैः सरथं यथा
+> भवत्या याहि च । इहास्त्रीर्णे बर्हिषि प्रथमो मुख्यो होताह्वाता सन् नि षद ।
+> निषेद च ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you, being the one who makes known the sacrifice, are great. Without you the immortal gods do not rejoice. Come together in the same chariot with all the gods. Here on the strewn sacred grass, being first, the chief, the hotṛ, the invoker, sit down.
+
+### Printed p. 747
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- प्रकेतः (*praketaḥ*)—the one who makes it known
+- महान् (*mahān*)—great-souled
+- आसि (*āsi*)—you are
+- त्वत् ऋते (*tvat ṛte*)—apart from you
+- अमृताः (*amṛtāḥ*)—the gods
+- न मादयंते (*na mādayaṃte*)—cannot attain satisfaction
+- विश्वेभिः (*viśvebhiḥ*)—all
+- देवैः (*devaiḥ*)—with the gods
+- सरथं (*sarathaṃ*)—seated in one chariot
+- आ याहि (*ā yāhi*)—be pleased to come
+- इह (*iha*)—on this sacred grass seat
+- प्रथमः (*prathamaḥ*)—as the chief
+- होता (*hotā*)—as the hotṛ
+- नि सद (*ni sada*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are the one who makes the sacrifice known, and you are great-souled. If you are not there**NOTE**, the gods have no satisfaction. Be pleased to come, seated in one chariot with all the gods. Sit down on this sacred grass seat as the chief and as the hotṛ.
+
+##### English translation
+Great are you, Agni, the manifester of the solemnity; without you the immortals do not rejoice : come in the same chariot with all the gods : sit down here the chief the ministrant priest.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामी॑ळते अजि॒रं दू॒त्या॑य ह॒विष्मं॑तः॒ सद॒मिन्नानु॑षासः ।  
+> यस्य॑ दे॒वैरास॑दो ब॒र्हिर॒ग्नेऽहा॑न्यस्मै सु॒दिना॑ भवंति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वां । ईळते । अजिरं । दूत्याय । हविष्मंतः । सदं । इत् । मानुषासः ।  
+> यस्य । देवैः । आ । असदः । बर्हिः । अग्ने । अहानि । अस्मै । सुदिना । भवंति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजपेये बार्हस्पत्यचरोः स्विष्टकृतोऽनुवाक्या । सूत्रितं च । त्वामीळते
+> अजिरं दूत्यायाग्निं सुदीतिं सुदृशं गृणंतः । अ. ९-९ । इति ॥
+> हे अग्ने अजिरं प्रगामिनं त्वां मानुषासो मानुषा हविष्मंतो
+> यजमानाः सदमित्सदैव दूत्याय दूतकर्मणे हविर्हवनायेळते । याचंते ।
+
+### Printed p. 748
+
+> किमर्थमित्यत आह । यस्य हविष्कृतो बर्हिर्देवैः सार्धमासदः त्वमधितिष्ठसि अस्मै
+> हविष्कृतेऽहानि सुदिना सुदिनानि शोभनदिनानि भवंति ॥
+
+##### Gist of the bhāṣya
+
+In the Vājapeya, in the Bārhaspatya caru, this verse is the anuvākyā of the Sviṣṭakṛt. And it is stated in the sūtra: "Tvām īḷate ajiram dūtyāya, agniṃ sudītiṃ sudṛśaṃ gṛṇantaḥ" (A. 9-9)**NOTE**. O Agni, you who are swift and go forward, men, the sacrificers possessed of oblations, always beg for the office of the messenger, for the carrying of the oblation. For what purpose? He says: the sacrificer on whose sacred grass you sit together with the gods, for him the days become good days, fair days.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अजिरं (*ajiraṃ*)—who are swift of movement
+- त्वां (*tvāṃ*)—you
+- हविष्मंतः (*haviṣmaṃtaḥ*)—who have oblations
+- मानुषासः (*mānuṣāsaḥ*)—men
+- सदमित् (*sadamit*)—always
+- दूत्याय (*dūtyāya*)—for the office of messenger
+- ईळते (*īḷate*)—they beg
+- यस्य (*yasya*)—of whichever sacrificer
+- बर्हिः (*barhiḥ*)—the sacred grass seat
+- देवैः (*devaiḥ*)—with the gods
+- आसदः (*āsadaḥ*)—you sit down, resorting to it
+- अस्मै (*asmai*)—for such a sacrificer
+- अहानि (*ahāni*)—the days
+- सुदिना (*sudinā*)—as good days
+- भवंति (*bhavaṃti*)—they become
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, men who have oblations always pray to you, who are swift of movement, for the office of messenger. For the sacrificer on whose sacred grass seat you sit down together with the gods, the days become good days.
+
+##### English translation
+Men offering oblations, ever solicit you the quick going (to under-take) the office of their messenger, for to him, on whose sacred grass you sit with the gods, the days are prosperous.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Vājapeya, in the caru oblation addressed to Bṛhaspati, when the Sviṣṭakṛt offering is made, this Ṛk, "Tvāmīḷate", is to be recited as the anuvākyā mantra. This is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, त्वामीळते अजिरं दूत्यायाग्निं सुदीतिं सुदृशं गृणंतः (*tvāmīḷate ajiraṃ dūtyāyāgniṃ sudītiṃ sudṛśaṃ gṛṇaṃtaḥ*) (Ā. 9-9).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिश्चि॑द॒क्तोः प्र चि॑कितु॒र्वसू॑नि॒ त्वे अं॒तर्दा॒शुषे॒ मर्ता॑य ।  
+> म॒नु॒ष्पद॑ग्न इ॒ह य॑क्षि दे॒वान्भवा॑ नो दू॒तो अ॑भिशस्ति॒पावा॑ ॥
+
+### Printed p. 749
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रीः । चित् । अक्टोः । प्र । चिकितुः । वसूनि । त्वे इति । अंतः । दाशुषे । मर्त्याय ।  
+> मनुष्वत् । अग्ने । इह । यक्षि । देवान् । भव । नः । दूतः । अभिशस्तिपावा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वे त्वय्यंतर्मध्येऽक्तोरह्नः । यद्यप्यक्तुरिति रात्रेर्नाम
+> तथाप्यत्राज्यंते व्यज्यंते रूपादीन्यस्मिन्नित्यहो नाम । त्रिस्तिवारं त्रिषु सवनेषु
+> वसूनि हवींषि दाशुषे हविषां प्रदात्रॆ मर्त्याय मनुष्याय । तदर्थमित्यर्थः ।
+> प्रचिकितुः । प्रवेदयंत्यृत्तिजः । यद्वा । अक्टोरह्नि त्रिस्त्रीनग्निमश्वमजं च
+> त्वय्यंतर्निहितानि प्र चिकितुः । अविदन्नित्यर्थः । अपि च मनुष्यत् मनोरिवेह ममास्मिन्यज्ञॆ दूतस्त्वं देवान्यक्षि । यज । नोऽस्माकमभिशस्तिपावाभिशस्तेरभिशंसकात्
+> शात्रवात्पाना रक्षिता भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in you, within the day: although "akti" is a name of night, here it is a name of day, because in it forms and the rest are made manifest. Thrice, that is, in the three pressings, the vasūni, the oblations, for the mortal, the man who gives oblations: for his sake. The priests make them known. Or else: within the day, three and three, Agni, the horse and the goat**NOTE**, placed within you, they knew; such is the meaning. And further, as for Manu, so here in this my sacrifice, you, the messenger, worship the gods. Be our protector against the enemy who denounces us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वे (*tve*)—your
+- अंतः (*aṃtaḥ*)—in the midst
+- अक्तोः (*aktoḥ*)—of the day
+- त्रिः चित् (*triḥ cit*)—at all three times
+- वसूनि (*vasūni*)—oblations
+- दाशुषे (*dāśuṣe*)—for the one who offers the oblation
+- मर्त्याय (*martyāya*)—for the sacrificer
+- प्र चिकितुः (*pra cikituḥ*)—(the priests) offer
+- मनुष्वत् (*manuṣvat*)—as was done in the sacrifice of Manu
+- इह (*iha*)—in this our sacrifice also
+- दूतः (*dūtaḥ*)—as the messenger
+- देवान् (*devān*)—the gods
+- यक्षि (*yakṣi*)—worship
+- नः (*naḥ*)—to us
+- अभिशस्तिपावा (*abhiśastipāvā*)—protecting us from the enemy who wishes us harm
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in your midst, at the three times of the day, the priests offer oblations for the sacrificer who offers the oblation. O Agni, as was done in the sacrifice of Manu, so in this our sacrifice also be the messenger and worship the gods. Protect us from the enemy who wishes us harm.
+
+##### English translation
+In you, Agni, thrice in the day, (the priests) make manifest the treasures (of the oblation) for the (benefit of the) mortal donor : worship the gods on this occasion, Agni, as (you did) for Manu : be our messenger, our protector against malignity.
+
+### Printed p. 750
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निरी॑शे बृह॒तो अ॑ध्व॒रस्या॒ग्निर्विश्व॑स्य ह॒विषः॑ कृ॒तस्य॑ ।  
+> क्रतुं॒ ह्य॑स्य॒ वस॑वो जु॒षंताथा॑ दे॒वा द॑धिरे हव्य॒वाहं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । ईशे । बृहतः । आध्वरस्य । अग्निः । विश्वस्य । हविषः । कृतस्य ।  
+> क्रतुं । हि । अस्य । वसवः । जुषंत । अथ । देवाः । दधिरे । हव्यवाहं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहतो महतोऽध्वरस्य कौटिल्यरहितस्य यज्ञस्याग्निरीशे । ईष्टे । विश्वस्य
+> सर्वस्य कृतस्य संस्कृतस्य हविश्चाग्निरेवेष्टे । हि यस्मादस्याग्नेः क्रतुं कर्म वसवो
+> देवा जुषंत सेवंते । अथापि च देवा अग्निं हव्यवाहं हव्यानां वोढारं दधिरे ।
+> चक्रिर इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Agni is lord of the great sacrifice, the adhvara, that is free from crookedness; and of the whole prepared oblation also Agni alone is lord. Because the Vasus, the gods, enjoy his work. And further, the gods have made Agni the bearer of oblations, the carrier of the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहतः (*bṛhataḥ*)—great
+- अध्वरस्य (*adhvarasya*)—of the sacrifice
+- अग्निः (*agniḥ*)—Agni
+- ईशे (*īśe*)—is the lord
+- विश्वस्य (*viśvasya*)—of the whole
+- कृतस्य (*kṛtasya*)—and prepared
+- हविषः (*haviṣaḥ*)—of the oblation also
+- अग्निः (*agniḥ*)—Agni himself (is the lord)
+- हि (*hi*)—for
+- अस्य (*asya*)—of this Agni
+- क्रतुं (*kratuṃ*)—the work
+- वसवः (*vasavaḥ*)—the deities called Vasus
+- जुषंत (*juṣaṃta*)—enjoy
+- आथ (*ātha*)—moreover
+- देवाः (*devāḥ*)—the gods
+- हव्यवाहं (*havyavāhaṃ*)—as the bearer of the oblation
+- दधिरे (*dadhire*)—have taken
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is the lord of the great sacrifice and of the whole, well-prepared oblation. For the deities called Vasus enjoy the work of this Agni. Moreover, the gods have taken Agni as the bearer of the oblation.
+
+##### English translation
+Agni presides over the solemn rite, over every consecrated oblation : the Vasus approve of his acts : the gods have made him the bearer of the offering.
+
+### Printed p. 751
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग्ने॑ वह हवि॒रद्या॑य दे॒वानिंद्र॑ज्येष्ठास इ॒ह मा॑दयंतां ।  
+> इ॒मं य॒ज्ञं दि॒वि दे॒वेषु॑ धेहि यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अग्ने । वह । हविःऽअद्याय । देवान् । इंद्रऽज्येषासः । इह । मादयंतां ।  
+> इमं । यज्ञं । दिवि । देवेषु । धेहि । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हविरद्याय हविषां भक्षणाय देवाना वह । किमर्थमित्यत आह
+> इहास्मिन्यज्ञ इंद्रज्येष्ठास इंद्रप्रमुखा देवा मादयंतां । इमं यज्ञमिदं
+> यष्टव्यं हविर्दिवि स्थितेषु देवेषु धेहि । निधेहि । देवान्वेह नयेदं हविर्वा
+> देवेषु नयेति भावः । अंतिमः पादो व्याख्यातचरः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bring the gods for the eating of the oblations. For what purpose? He says: here, in this sacrifice, let the gods with Indra as their chief rejoice. Place this sacrifice, this oblation that is to be offered, among the gods who dwell in heaven. Or else: bring the gods here, or lead this oblation to the gods; such is the sense. The last pāda has been explained before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- हविरद्याय (*haviradyāya*)—to eat the oblation
+- देवान् (*devān*)—the gods
+- आ वह (*ā vaha*)—bring
+- इह (*iha*)—in this sacrifice
+- इंद्रज्येषासः (*iṃdrajyeṣāsaḥ*)—the gods who have Indra as their chief
+- मादयंतां (*mādayaṃtāṃ*)—let them attain satisfaction
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this oblation that is worthy of worship
+- दिवि (*divi*)—who are in the heavenly world
+- देवेषु (*deveṣu*)—among the gods
+- धेहि (*dhehi*)—distribute
+- यूयं (*yūyaṃ*)—you and the other gods
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bring the gods for the eating of the oblation. In this sacrifice let all the gods, with Indra as their chief, attain satisfaction. Distribute this oblation, which is worthy of worship, among the gods who are in the heavenly world. May you and the other gods protect us always with blessings.
+
+##### English translation
+Agni, bring the gods to eat of the oblation : may they, of whom Indra is the chief, be delighted on this occasion : convey this sacrifice to to the deities in heaven, and do you ever cherish us with blessings.
+
 ---
 
-**Progress note:** Done through printed p. 744. Maṇḍala 7 sūkta 9 end, sūkta 10 Ṛks 1-4 (pp. 739-744)
+**Progress note:** Done through printed p. 751. Maṇḍala 7 sūkta 10 Ṛk 5, sūkta 11 Ṛks 1-5 (pp. 745-751)
