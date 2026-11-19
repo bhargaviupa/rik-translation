@@ -33085,6 +33085,267 @@ Preserve us, Agni, from sin: divine (Agni), you are exempt from decay; consume (
 > अधा॑ म॒ही न॒ आय॒स्यना॑धृष्टो॒ नृपी॑तये ।  
 > पूर्भ॑वा श॒तभु॑जिः ॥ १४ ॥
 
+### Printed p. 776
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । मही । नः । आयसी । अनाधृष्टः । नृपीतये ।  
+> पूः । भव । शतभुजिः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाधुना हे अग्ने अनाधृष्टोऽप्रतिधर्षणीयस्त्वं नोऽस्माकं नृपीशये
+> नृणां रक्षणार्थं मही महत्यायस्ययसा निर्मिता शतभुजिरत्यंतं विस्तृता
+> शतगुणा पूः पुरी । तद्रक्षासाधनभूतप्राकारादिर्वा पूरुच्यते । भव । यथायसा
+> निर्मिता पुरी तद्रक्षासाधनभूतप्राकारादिर्वा शत्रुभ्यो भीतान्रक्षति तद्वद्राक्षसेभ्यो
+> भीतानस्मान् पाहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Now, O Agni, you who are unassailable, be for us, for the protection of men, a great city made of iron, extremely wide and a hundredfold in strength; or else the rampart and the like that serve for the defence of such a city are called "pū". As a city built of iron, or its rampart, protects those who fear enemies, so protect us who fear the Rākṣasas: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—now
+- अनाधृष्टः (*anādhṛṣṭaḥ*)—possessed of unobstructed strength
+- वः (*vaḥ*)—belonging to us**NOTE**
+- नृपीतये (*nṛpītaye*)—for the protection of the people
+- मही (*mahī*)—great
+- आयसी (*āyasī*)—made of steel
+- शतभुजिः (*śatabhujiḥ*)—possessed of many qualities (extremely wide)
+- पूः (*pūḥ*)—like a (protecting) city or a fort
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, being possessed of unobstructed strength, be to us a protector, like a city or a fort that is great, made of steel, possessed of many kinds of strength and wide, for the protection of the people who belong to us.
+
+##### English translation
+Do you, who are irresistible, be to us, for the protection of our posterity, like the vast spacious, ironwalled cities (of the Rakshasas).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नः॑ पा॒ह्यंह॑सो॒ दोषा॑वस्तरघाय॒तः ।  
+> दिवा॒ नक्त॑मदाभ्य ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । पाहि । अ०हसः । दोषावस्तः । अघयतः ।  
+> दिवा । नक्तं । अदाभ्य ॥ १५ ॥
+
+### Printed p. 777
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अदाभ्याहिंस्य दोषावस्ता रात्रेराच्छादयितः । तमसो वारयितरित्यर्थः।
+> अग्ने त्वं नोऽस्मानंहसः पापादघायतः पापमिच्छतः शत्रोश्च दिवा नक्तमहनि
+> रात्र्य च सर्वदा पाहि । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Agni, unharmed one, who cover the night, that is, ward off the darkness: protect us at all times, by day and by night, from sin and from the enemy who wishes us evil.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदाभ्य (*adābhya*)—unharmed one
+- दोषावस्तः (*doṣāvastaḥ*)—who cover the night with darkness
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- अंहसः (*aṃhasaḥ*)—from sin
+- अघायतः (*aghāyataḥ*)—from the enemy who wishes us evil
+- दिवा (*divā*)—by day
+- नक्तं (*naktaṃ*)—by night
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, unharmed one, who cover the night with darkness, protect us at all times, by day and by night, from sin and from the enemy who wishes us evil.
+
+##### English translation
+Uninjurable Agni, dispeller of darkness, preserve us night and day
+fram sin, and from the malevolent.
+
+## Sūkta 16 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एना व इति द्वादशर्चं षोडशं सूक्तं वसिष्ठस्यार्षमग्निदेवताकं ।
+> आयुजो बृहत्यो युजः सतोबृहत्यः । तथा चानुक्रांतं । एना वो द्वादश
+> प्रागाथमिति ॥ प्रातरनुवाक आग्नेये क्रत्वा बार्हते छंदस्याश्विनशस्त्रे चेदं
+> सूक्तं । सूत्रितं च । एना वो अग्निं प्र वो यह्वं । आ. ४-१३ । इति ॥ अग्निमारुतशस्त्रे देवो वो द्रविणोदा इति प्रगाथोऽनुरूपः । सूत्रितं च । देवो वो
+> द्रविणोदा इति प्रगाथौ स्तोत्रियानुरूपौ । आ. ५-२० । इति ॥
+
+##### Gist of the bhāṣya
+
+The sixteenth sūkta, एना वः (*enā vaḥ*), of twelve ṛks, is the vision of Vasiṣṭha, addressed to Agni. The odd ṛks are Bṛhatī and the even ṛks Satobṛhatī: आयुजो बृहत्यो युजः सतोबृहत्यः (*āyujo bṛhatyo yujaḥ satobṛhatyaḥ*). The Anukramaṇikā says: एना वो द्वादश प्रागाथमिति (*enā vo dvādaśa prāgāthamiti*). This sūkta is used at the Prātaranuvāka, in the Āgneya kratu, in the Bṛhatī metre, and in the Āśvina-śastra. It is prescribed in the sūtra: एना वो अग्निं प्र वो यह्वं (*enā vo agniṃ pra vo yahvaṃ*) (Ā. 4-13). In the Agnimāruta-śastra the pragātha beginning देवो वो द्रविणोदाः (*devo vo draviṇodāḥ*) is the anurūpa. It is prescribed in the sūtra: देवो वो द्रविणोदा इति प्रगाथौ स्तोत्रियानुरूपौ (*devo vo draviṇodā iti pragāthau stotriyānurūpau*) (Ā. 5-20).
+
+##### Anuvāda
+
+This sūkta, एना वः (*enā vaḥ*), is the sixteenth sūkta in the first anuvāka. In it there are twelve ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; in this sūkta the ṛks of odd number are in the Bṛhatī metre, and the ṛks of even number in the Satobṛhatī metre. In the Anukramaṇikā it is said: एना वो द्वादश प्रागाथं (*enā vo dvādaśa prāgāthaṃ*). At the time of the recitation of the Prātaranuvāka mantras
+
+### Printed p. 778
+
+this sūkta has its application for the ṛks in the Bṛhatī metre connected with the Āgneya kratu and for the Āśvina-śastra mantras, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra, एना वो अग्निं प्र वो यह्वं (*enā vo agniṃ pra vo yahvaṃ*) (Ā. 4-13). In the Āgnimāruta-śastra mantras the eleventh ṛk, देवो वो द्रविणोदाः (*devo vo draviṇodāḥ*), is to be recited as the anurūpa mantra, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra, देवो वो द्रविणोदा इति प्रगाथौ स्तोत्रियानुरूपौ (*devo vo draviṇodā iti pragāthau stotriyānurūpau*) (Ā. 5-20).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 16
+- Aṣṭaka 5; Adhyāya 2; Varga 21, 22
+- Number of ṛks in the sūkta: 12
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: प्रागाधं (*prāgādhaṃ*) (the odd ṛks Bṛhatī, the even ṛks Satobṛhatī)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ना वो॑ अ॒ग्निं नम॑सो॒र्जो नपा॑त॒मा हु॑वे ।  
+> प्रि॒यं चेति॑ष्ठमर॒तिं स्व॑ध्व॒रं विश्व॑स्य दू॒तम॒मृतं॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एना । वः । अग्निं । नमसा । ऊर्जः । नपातं । आ । हुवे ।  
+> प्रियं । चेतिष्ठं । अरतिं । सुअध्वरं । विश्वस्य । दूतं । अमृतं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्जो बलस्य नपातं पुत्रं । सूनुर्नपादित्यपत्यनामसु पाठात् । प्रियं
+> प्रियमस्माकं चेतिष्ठमतिशयेन ज्ञातारं प्रज्ञापकं वारतिं गंतारं स्वामिनं वा
+> स्वध्वरं सुयज्ञं विश्वस्य सर्वस्य यजमानस्य दूतममृतं नित्यमग्निमेनैनेन
+> नमसा स्तोत्रेण ॥ यद्यप्यत्रान्वादेशो नास्ति तथापि च्छांदसत्पादिदंशब्दस्यैनादेशः।
+> यद्वा । एनैनमित्यग्निर्विशेषणं । समानार्षत्वात्पूर्वेषु सूक्तेष्वादिष्टत्वाद्वसिष्टेनान्वादिश्यते ॥ वो युष्मदर्थमा हुवे । आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+"Ūrjaḥ napāt" is the son of strength; "sūnuḥ" and "napāt" are read among the names of offspring. Agni is dear to us, the best knower or the best enlightener, the goer or lord, of good sacrifice, the messenger of every sacrificer, immortal, that is, eternal. With this praise ("enā" is the substitute for "idam") I call him for you. Although there is no anvādeśa here, in the Veda "enā" is nevertheless the substitute for the word "idam". Or else "enā" is an attribute of Agni: since the seer is the same, and the earlier sūktas have already made the reference, it is referred to again by Vasiṣṭha. "Vaḥ": for your sake. "Ā huve": I call.
+
+### Printed p. 779
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जः (*ūrjaḥ*)—of strength
+- नपातं (*napātaṃ*)—the son
+- प्रियं (*priyaṃ*)—beneficial to us
+- चेतिष्टं (*cetiṣṭaṃ*)—the giver of consciousness
+- आरतिं (*āratiṃ*)—the lord
+- स्वध्वरं (*svadhvaraṃ*)—the possessor of an excellent sacrifice
+- विश्वस्य (*viśvasya*)—of all the sacrificers
+- दूतं (*dūtaṃ*)—the messenger
+- अमृतं (*amṛtaṃ*)—free from death
+- अग्निं (*agniṃ*)—Agni
+- एना नमसा (*enā namasā*)—with this praise
+- वः (*vaḥ*)—for you
+- आ हुवे (*ā huve*)—I call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the son of strength, beneficial to us, the giver of consciousness, the lord, the possessor of an excellent sacrifice, the messenger of all the sacrificers, free from death, I call with prayer for you with this praise.
+
+##### English translation
+I Invoke for you with this hymn, Agni, the son of strength, the kind. the most knowing the unobstructed : the fit object of sacred rites, the messenger of all the immortals.
+
+##### विशेषविषयगळु (Special Topics)
+
+एना (*enā*): explaining the use of this word, Yāska says: अय्यनेत्युपदेशस्य । अया ते अग्ने समिधा विधेम इति स्त्रियाः । एना वो अग्निं इति नपुंसकस्य । एना पत्या तन्नं१ संसृजस्व इति पुंसः ॥ (*ayyanetyupadeśasya | ayā te agne samidhā vidhema iti striyāḥ | enā vo agniṃ iti napuṃsakasya | enā patyā tannaṃ1 saṃsṛjasva iti puṃsaḥ ‖*) (Ni. 3-21). Of the words अया (*ayā*) and एना (*enā*), having said that the word आया (*āyā*) is used in the feminine, and the word एना (*enā*) in the neuter and the masculine, he has given three examples for them. In the sentence आया ते अग्ने समिधा विधेम (*āyā te agne samidhā vidhema*) the word आया (*āyā*), as an attribute of the feminine word समिधा (*samidhā*), indicates the feminine sense. In the same way the word एना (*enā*) is used in the neuter in the sentence एना वो अग्निं (*enā vo agniṃ*), and in the masculine in the sentence एना पत्या तन्नं १ संसृजस्व (*enā patyā tannaṃ 1 saṃsṛjasva*).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स यो॑जते अरु॒षा वि॒श्वभो॑जसा॒ स दु॑द्रव॒त्स्वा॑हुतः ।  
+> सु॒ब्रह्मा॑ य॒ज्ञः सु॒शमी॒ वसू॑नां दे॒वं राधो॒ जना॑नां ॥२॥
+
+### Printed p. 780
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । योजते । अरुषा । विश्वभोजसा । सः । दुद्रवत् । सुआहुतः ।  
+> सुब्रह्मा । यज्ञः । सुशमी । वसूनां । देवं । राधः । जनानां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निररुषारोचमानौ विश्वभोजसा विश्वस्य पालयितारावश्य योजते ।
+> रथे युनक्तु । यद्वा । सोऽरुषारोचमानेन तेजसा विश्वभोजसा विश्वस्य
+> रक्षकेण योजते । आयुज्यत । किं च सोऽग्निर्दुद्रवत् । आनेतुं देवान् प्रति
+> भृतं द्रवतु द्रवति वा । स्वाहुतः सुष्वाहुतः सुब्रह्मा सुस्तुतिः शोभनान्नो ना
+> यज्ञो यष्टव्यः सुशमी सुकर्मा च भवति । तमिमं देवं द्योतमानं वसूनां
+> वासकानां जनानां वसिष्ठानां राधो हविरभिगच्छृत्ति शेषः । यद्वा । एवंगुणविशिष्टोऽग्निर्वसूनां धनानां मध्यॆ देवमत्यंतप्रकाशमानं राधो धनं जनानां
+> यजमानानां धनवत् प्रियतम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Agni harnesses to his chariot the two ruddy, that is, shining, horses that protect the whole world. Or else he is yoked with ruddy, shining brilliance, the protector of all. Further, that Agni runs, or let him run, to bring the gods. Well invoked, well praised, he is a sacrifice to be worshipped**NOTE**, and is of good works. To this god, shining, to the oblation, the wealth, of the Vasiṣṭhas, the givers of dwelling (vasu), may he approach: this is to be supplied. Or else: Agni, so qualified, is, among riches, a most brilliantly shining wealth for the sacrificers; the meaning is that he is dearer than wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same Agni
+- अरुषा (*aruṣā*)—the attractive
+- विश्वभोजसा (*viśvabhojasā*)—the protectors of the whole world, the horses
+- योजते (*yojate*)—he harnesses to the chariot
+- दुद्रुवत् (*dudruvat*)—he runs to bring the gods
+- स्वाहुतः (*svāhutaḥ*)—well offered to (one to whom the oblation is offered)
+- सुब्रह्मा (*subrahmā*)—possessed of excellent praise
+- यज्ञः (*yajñaḥ*)—worthy of worship
+- सुशमी (*suśamī*)—possessed of excellent works
+- वसूनां (*vasūnāṃ*)—of the givers of dwelling
+- जनानां (*janānāṃ*)—of those born in the Vasiṣṭha lineage
+- देवं (*devaṃ*)—the shining
+- राधः (*rādhaḥ*)—the wealth in the form of oblation (he accepts)
+
+##### भावार्थ (Bhāvārtha)
+
+That well-known Agni harnesses to his chariot his attractive horses, the protectors of the whole world. That same Agni runs to bring the gods. He becomes well offered to, worthy of excellent praise, worthy of worship and possessed of excellent works. He accepts the shining wealth, in the form of oblation, of those born in the Vasiṣṭha lineage, the givers of dwelling.
+
+### Printed p. 781
+
+##### English translation
+May he harness his brilliant protecting (steeds to his car), when earnestly invoked : may he hasten (to bring the gods): may the sacrificial wealth of the worshippers (proceed to) that deity who is the giver of abundant food, the adorable, the doer of great deeds.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॑स्य शो॒चिर॑स्थादा॒जुह्वा॑नस्य मा॒ळुषः॑ ।  
+> उद्धू॒मासो॑ अरु॒षासो॑ दिवि॒स्पृशः॒ सम॒ग्निमिं॑धते॒ नरः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । अस्य । शोचिः । अस्मात् । आजुह्वानस्य । माळुषः ।  
+> उत् । धूमासः । अरुषासः । दिविस्पृशः । सं । अग्निं । इंथते । नरः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मीळ्हुषः कामानां वर्षितुराजुह्वानस्याभिहूयमानस्याग्नेः तोचिस्तेज
+> उदस्थात् । उत्तिष्ठति । अरुषास अरोचमाना दिविस्पृशोऽंतरिक्षस्पृशो धूमासो
+> धूमाश्चोदस्थुः । अस्मादित्येकवचनांतं बहुवचनांततया विपरिणतं सदत्रान्वेति ।
+> तमिममग्निं नरः कर्मणां नेतार ऋत्विजः समिंधते । सम्यक् दीपयंति ॥
+
+##### Gist of the bhāṣya
+
+The brilliance of Agni, the showerer of desires, who is being invoked, has risen up. Ruddy smokes, touching the sky, have risen up. The singular "asmāt" is turned into a plural and joined here. This Agni the leaders of rites, the priests, kindle well, that is, make blaze rightly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मीळ्हुषः (*mīḷhuṣaḥ*)—the showerer of desires
+- आजुह्वानस्य (*ājuhvānasya*)—who is called again and again
+- अस्य (*asya*)—of Agni
+- शोचिः (*śociḥ*)—the brilliance
+- उत् अस्थात् (*ut asthāt*)—has risen and spread
+- अरुषासः (*aruṣāsaḥ*)—of attractive colour
+- दिविस्पृशः (*divispṛśaḥ*)—touching the sky
+- धूमासः (*dhūmāsaḥ*)—the rows of smoke
+- उत् (*ut*)—having risen, have spread
+- अग्निं (*agniṃ*)—that same Agni
+- नरः (*naraḥ*)—the priests who lead the rite
+- सं इंथते (*saṃ iṃthate*)—make blaze
+
+##### भावार्थ (Bhāvārtha)
+
+The brilliance of Agni, the showerer of desires, who is called again and again, has risen and spread. The rows of smoke, of attractive colour and touching the sky, have risen and spread. That same Agni the priests, the leaders of the rite, make blaze.
+
 ---
 
-**Progress note:** Done through printed p. 775. Vol 21 Ṛk 7 end to Ṛk 14 Saṃhitā, pp. 770-775
+**Progress note:** Done through printed p. 781. Vol 21 Ṛk 14-15 end, Sūkta 16 Ṛk 1-3, pp. 776-781
