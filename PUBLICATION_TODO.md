@@ -154,3 +154,4 @@ One route for all volumes (the approved design): the Kannada book and the struct
 - Nov 17 2026: Vol 5 supplied text, files 1, 2, 3, 45 and 6, put in `vol5/html/`.
 - Nov 17 2026: file created for Vols 1–3; the user's assessment of Vol 2 recorded and the prompt for its clean-up session written; the same day extended to all volumes (1–19), with counts taken from the repository on that day.
 - Nov 17 2026 (Vol 2 clean-up): remarks removed by kind and logged (`vol2/review/removed_remarks.tsv`, `repair_log.md`); `[?]`, `[sic]` kept by your decision (lists: `open_readings.tsv`, `refs_marked.tsv`); the Saṃhitā text of all 176 Ṛks of Sū. 3–19 now equals the reference (93 replaced, `verse_corrections.tsv`); T9 done.
+- Nov 19 2026: Vol 21 (Maṇḍala 6 Sūktas 29–75, Maṇḍala 7 Sūktas 1–19): English translation finished through printed p. 841 (`vol21/`, branch `claude/elegant-rubin-ivuybj`); open: 372 NOTEs, 164 GLOSS markers, preface, front matter, print PDF.
