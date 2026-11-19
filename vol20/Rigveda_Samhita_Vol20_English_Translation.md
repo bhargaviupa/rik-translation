@@ -28504,6 +28504,326 @@ The hero, (favoured by you), assuredly slays the (hostile) hero by his bodily pr
 
 O Indra, no hero, no valiant man, does fight with you; he does not fight. Likewise one who is a destroyer of other enemies does not fight with you; and the assailant, the one who attacks, also does not fight with you.
 
+### Printed p. 804
+
+> न युयोध । मन्यमानो युद्धे क्रुध्यन् योधो भटस्त्वा त्वया न युयोध।
+> हे इंद्र एषां शूरादीनां मध्यॆ कश्चन त्वा तव नकिः प्रत्यस्ति । प्रतिनिधिर्नास्ति । विश्वा
+> विश्वानि जातानि प्रादुर्भूतानि तानि शूरादीनि त्वमभ्यसि । अभिभवसि ॥
+
+##### Gist of the bhāṣya
+
+The fighter who is enraged in battle, the warrior, does not fight with you. O Indra, among these heroes and the rest no one is a counterpart to you; you have no equal. All those heroes and the rest that have come into being, you overcome; you surpass them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra!
+- त्वा (*tvā*)—with you
+- शूरः (*śūraḥ*)—no valiant man
+- नहि युयोध (*nahi yuyodha*)—can fight
+- तुरः (*turaḥ*)—no swift-moving enemy
+- न (*na*)—can withstand
+- धृष्णुः (*dhṛṣṇuḥ*)—even one who has the strength to confront others
+- न (*na*)—cannot withstand you
+- मन्यमानः (*manyamānaḥ*)—filled with self-esteem
+- योधः (*yodhaḥ*)—no warrior
+- त्वा (*tvā*)—with you
+- न (*na*)—can fight
+- इंद्र (*iṃdra*)—O Indra!
+- एषां (*eṣāṃ*)—among these heroes
+- त्वा (*tvā*)—for you
+- नकिः प्रत्यस्ति (*nakiḥ pratyasti*)—there is no hero who is equal
+- विश्वा (*viśvā*)—all
+- जातानि (*jātāni*)—that have arisen
+- तानि (*tāni*)—all such things of prowess
+- अभ्यसि (*abhyasi*)—you bring down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, no valiant man can fight with you; no swift-moving enemy can withstand you. Even one who has the strength to confront all others cannot withstand you. No warrior filled with self-esteem can fight with you. O Indra, among these heroes there is no hero who is equal to you; you are the lord of all things of prowess that have arisen in the world.
+
+##### English translation
+But you (no one) resists, neither the hero, nor the fleet runner nor the resolute, nor the combatant confiding (in his valour); neither of these, Indra. is a match for you : you are superior to all these persons.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॑त्यत उ॒भयो॑न्नृ॒म्म॒योर्यदी॑ वे॒धसः॑ समि॒थे  ॑
+> हवंते ।  
+> वृ॒त्रे ना॑ म॒हो नृ॒वति॒ क्षये॑ वा॒ व्यच॑स्वंता॒ यदि॑ वितंत॒स्यते॑॥
+
+### Printed p. 805
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पत्यते । उभयोः । नृण्मुं । अयोः । यदि । वेधसः । संइथे । हवंते ।  
+> वृत्रे । वा । महः । नृवति । क्षये । वा । व्यचस्वंता । यदि । वितंतसैते इति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयोरनयोरुभयोर्मध्यॆ स जनो नृम्मं धनं पत्यते । ईष्टे ।
+> कयोर्मध्यॆ क ईष्ट इत्येतदुभयमाह । यदि यस्य जनस्य । यदीति निपातो
+> यस्यार्थे वर्तते । समिथे यज्ञे वेधसः कर्मणां विधातार ऋत्विजो हवंते
+> इंद्रं स्तुवंति स ईष्ट इति संबंधः । महो महति प्रभूते वृत्रे वा निरोधे
+> निमित्ते वा नृवति परिचारकमनुष्ययुक्ते क्षये वा गृहनिमित्ते वा व्यचस्वंतौ यदि
+> यौ जनौ । यदीति यावित्यर्थे वर्तते । वितंतसैते वियुध्येते तयोर्मध्य इति
+> संबंधः ॥ तसेरुपक्षयकर्मणो विपूर्वाद्वितंतसैते इति भवति । यद्वा । तंतस
+> इति धातुः कंड्वादिसु पठ्यते तस्मादिदं रूपमिति ॥
+
+##### Gist of the bhāṣya
+
+Of these two parties, that man rules over nṛmṇa, wealth. The two things to be said are: between which two, and which of them rules. The particle यदि (*yadi*) stands in the sense of "of whom": he in whose sacrifice the priests, the performers of rites, call upon, that is, praise Indra, he is the one who rules; this is the connection. Whether it be in a great, abundant Vṛtra, that is, in an obstruction or on account of it, or in a dwelling attended by servants, that is, on account of a house, the two men who are व्यचस्वंतौ (*vyacasvaṃtau*) fight against each other; between those two, the connection is, that man rules.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महः (*mahaḥ*)—great
+- वृत्रे (*vṛtre*)—in battle
+- नृवति (*nṛvati*)—whether on account of servants and the like
+- क्षये वा (*kṣaye vā*)—or on account of a house
+- यदि (*yadi*)—which two opposing groups
+- व्यचस्वंता (*vyacasvaṃtā*)—with the rivalry of each wishing to defeat the other
+- वितंतसैते (*vitaṃtasaite*)—fight
+- अयोः उभयोः (*ayoḥ ubhayoḥ*)—among these two groups
+- यदि (*yadi*)—for which sacrificer
+- समिथे (*samithe*)—in the sacrifice
+- वेधसः (*vedhasaḥ*)—the priests
+- हवंते (*havaṃte*)—praise Indra
+- सः (*saḥ*)—he alone
+- नृम्मं (*nṛmmaṃ*)—wealth
+- पत्यते (*patyate*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+In a great battle, whether on account of servants and the like or on account of a house, of the two opposing groups who fight with the rivalry of each wishing to defeat the other, he alone among these two groups obtains wealth for whom, as sacrificer, the priests praise Indra in the sacrifice.
+
+##### English translation
+Of both these (disputants), that one acquires wealth whose priests invoke (Indra) at the sacrifice, whether they contend emulous for (the overthrow of) a powerful enemy, or for a dwelling peopled with dependants.
+
+### Printed p. 806
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ स्मा ते चर्ष॒णयो॒ यदेजा॒निंद्र॑ त्रा॒तोत भ॑वा  ॒
+> वरूता ।  
+> अ॒स्माका॑सो॒ ये नृत॑वसो अ॒र्य इंद्र॑ सू॒रयो॑ दधि॒रे ॒ ॑
+> पुरो नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । स्म । ते । चर्षणयः । यत् । एजान् । इंद्र । त्राता । उत । भव । वरूता ।  
+> अस्माकासः । ये । नृतमासः । अर्यः । इंद्र । सूरयः । दधिरे । पुरः । नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध स्मापि च हे इंद्र ते त्वदीयाश्चर्यणयः पुरुषा यद्यदैजान्
+> एजेयुर्भित्या कंपेयुः त्वं तेषां त्राता पालको भव । उतापि च वरूता
+> संभक्ता भव । आस्माकासोऽस्मदीया नृतमासो नेतृतमा ये मनुष्या हे इंद्र
+> त्वामर्योऽरयो । प्रापयितार इत्यर्थः । तेषां त्राता भव । हे इंद्र सूरयो
+> ये स्तोतारो नोऽस्मान्पुरो दधिरे पुरश्चक्रिरे तेषां च त्राता भवेति ॥
+
+##### Gist of the bhāṣya
+
+And further, O Indra, whenever your people tremble with fear, be their protector, their guardian. And be also their वरूता (*varūtā*), that is, their sharer. O Indra, those of our men who are the best leaders and who bring you here, be their protector. O Indra, those praisers who have set us in front, be the protector of them too. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध स्म (*adha sma*)—therefore
+- इंद्र (*iṃdra*)—O Indra!
+- ते (*te*)—who worship you
+- चर्षणयः (*carṣaṇayaḥ*)—men
+- यत् (*yat*)—when
+- एजान् (*ejān*)—they tremble
+- त्राता (*trātā*)—be (to them) a protector
+- भव (*bhava*)—be
+- उत (*uta*)—and
+- वरूता (*varūtā*)—be to them a giver of refuge
+- अस्माकासः (*asmākāsaḥ*)—such as we
+- नृतमासः (*nṛtamāsaḥ*)—among men of excellent understanding
+- ये (*ye*)—who
+- आर्यः (*āryaḥ*)—draw near to you (protect them)
+- इंद्र (*iṃdra*)—O Indra!
+- सूरयः (*sūrayaḥ*)—which praisers
+- नः (*naḥ*)—us
+- पुरः दधिरे (*puraḥ dadhire*)—have made foremost in the sacrifice (protect them also)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when men who worship you tremble, remove their fear and protect them. Be a giver of refuge to them. Among men of excellent understanding such as we, protect also those who draw near to you. O Indra, protect also those praisers who have made us foremost in the sacrifice.
+
+### Printed p. 807
+
+##### English translation
+Therefore, Indra, when your people tremble (with fear), protect them; be to them a defender: may those who are our chief leaders be enjoyers (of your favour), as well as those (your) worshippers who have placed us foremost (to perform the sacrifice).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ ते दायि म॒ह इं॑द्रि॒याय॑ स॒त्रा ते॒ विश्व॒मनु॑ वृत्र॒हत्ये॑ ।  
+> अनु॑ क्ष॒त्रमनु॒ सहो॑ यज॒त्रेंद्र॑ दे॒वेभि॒रनु॑ ते नृ॒षह्ये॑ ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । ते । दायि । महे । इंद्रियाय । सत्रा । ते । विश्वं । अनु । वृत्रहत्ये ।  
+> अनु । क्षत्रं । अनु । सहः । यजत्र । इंद्र । देवेभिः । अनु । ते । नृसह्ये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साकमेधेषु माहेंद्रामिष्टाविंद्रस्य वृत्रघ्नो याज्या । सूत्रितं च ।
+> अनु ते दायि मह इंद्रियाय विश्वकर्मन्हविषा वावृधानः । आ. २-१८ । इति ॥
+> आनुक्रीनाम्येकाहे निष्केवल्य एष्यव सूक्तमुखीया । सूत्रितं च । अनु ते दायि
+> मह इंद्रियाय कथो नु ते परि चराणि विद्वानिति द्वे । आ. ९-५ । इति ॥
+> हे इंद्र महे महते ते तुभ्यमिंद्रियाय्कॆश्वर्यार्थमनु दायि ।
+> आन्वदायि । अनुदीयते स्म । वृत्रहत्ये वृत्रवधे निमित्ते ते तुभ्यं विश्वं समस्तं
+> सत्रा सत्यमनु दायि । कैः किमनुदायीति तदुभयमाह । येन विश्वं बिभर्ति
+> तत्क्षत्रं बलमनु दायि । येन शत्रूनभिभवति । तद्गुणविशिष्टं सहो बलमनु
+> दायि । हे यजत्र यजनीयेंद्र ते तुभ्यं नृषह्ये युद्धे देवेभिः सर्वैर्देवैरेतत्सर्वमनु दायि ॥
+
+##### Gist of the bhāṣya
+
+In the Sākamedha sacrifices, in the Māhendra iṣṭi, this verse is the yājyā of Indra Vṛtraghna. It is also given in the Sūtra: अनु ते दायि मह इंद्रियाय विश्वकर्मन्हविषा वावृधानः (*anu te dāyi maha iṃdriyāya viśvakarmanhaviṣā vāvṛdhānaḥ*), Ā. 2-18. In the ekāha called Anukrī **NOTE**, in the niṣkevalya, it is the opening verse of the sūkta. It is also given in the Sūtra: अनु ते दायि मह इंद्रियाय कथो नु ते परि चराणि विद्वानिति द्वे (*anu te dāyi maha iṃdriyāya katho nu te pari carāṇi vidvāniti dve*), Ā. 9-5. O Indra, to you, the great one, for lordship all has been given in succession. On the occasion of the slaying of Vṛtra, all, in truth, has been given to you in succession. The two things given, and what they are, he states: the kṣatra, the strength by which he supports the universe, has been given; the sahas, the strength by which he overcomes enemies, qualified by that quality, has been given. O adorable Indra, in battle all this has been given to you by all the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—O Indra, of great form
+- ते (*te*)—to you
+- इंद्रियाय (*iṃdriyāya*)—all riches
+- अनु दायि (*anu dāyi*)—have been offered in order
+- वृत्रहत्ये (*vṛtrahatye*)—for the destruction of the enemy
+
+### Printed p. 808
+
+- ते (*te*)—to you
+- विश्वं (*viśvaṃ*)—all
+- सत्रा (*satrā*)—of the nature of truth
+- अनु (*anu*)—has been offered
+- क्षत्रं (*kṣatraṃ*)—the power that protects the world also
+- अनु (*anu*)—has been given
+- सहः (*sahaḥ*)—the strength that destroys enemies also
+- अनु (*anu*)—has been offered to you alone
+- यजत्र (*yajatra*)—O worshipful one
+- इंद्र (*iṃdra*)—Indra!
+- ते (*te*)—to you
+- नृषध्यॆ (*nṛṣadhyè*)—in battle
+- देवेभिः (*devebhiḥ*)—by the gods
+- अनु (*anu*)—(all these riches) have been given
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of great form, all riches have been offered to you. For the destruction of the enemy, all that is of the nature of truth has been offered to you alone. The power that protects the world and the strength that destroys enemies have been offered to you alone. O worshipful Indra, all these riches have been given to you by the gods in battle.
+
+##### English translation
+All (power) has been successively conceded verily to you, Indra, who are mighty, for the destruction of the foe: suitable vigour, suitable strength in battle (has been given) to you, adorable Indra, by the goods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Sākamedha sacrifices, in the iṣṭi performed to the deity Māhendra, in the oblation made to Indra Vṛtraghna, this Ṛk अनु ते दायि (*anu te dāyi*) is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra अनु ते दायि मह इंद्रियाय विश्वकर्मन् हविषा वावृधानः (*anu te dāyi maha iṃdriyāya viśvakarman haviṣā vāvṛdhānaḥ*) (Ā. 2-18). And in the ekāha sacrifice called Anukrī, at the beginning of the niṣkevalya śastra-mantras, this Ṛk is to be recited as the opening mantra of the sūkta, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra अनु ते दायि मह इंद्रियाय कथो नु ते परि चराणि विद्वानिति द्वे (*anu te dāyi maha iṃdriyāya katho nu te pari carāṇi vidvāniti dve*) (Ā. 2-5). **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा नः॒ स्पृधः॒ सम॑जा स॒मत्स्वींद्र॑ रारं॒धि मि॑थ॒तीरदे॑वीः ।  
+> वि॒द्याम॒ वस्तो॒रव॑सा गृ॒णंतो॑ भ॒रद्वा॑जा उ॒त त॑ इंद्र  ॒
+> नूनं ॥ ९ ॥
+
+### Printed p. 809
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । स्पृधः । सं । अज । समत्सु । इंद्र । ररंधि । मिथतीः । अदेवीः ।  
+> विद्याम । वस्तोः । अवसा । गृणंतः । भरत्वाजाः । उत । ते । इंद्र । नूनं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र एवैवं स्तुतस्त्वं नोऽस्मदीयाः स्पृधः शत्रुसेनाः समत्तु
+> संग्रामेषु समज । शत्रुवधार्थ० प्रेरय । किंच मिथतीर्हिंसतीरदेवीरासुरीः
+> सेना ररंधि । अस्मदर्थ० वशीकुरु । उतापि च हे इंद्र ते गृणंतस्तां स्तुवंतो
+> भरद्वाजा वयमवसान्नेन सह वस्तोर्वासस्य । निवासमित्यर्थः । नूनमवश्यं
+> विद्याम । लभेमहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, thus praised, in the battles drive on our armies, our hosts against the enemy, for the slaying of the enemy. And further, subdue for us the harming, godless, demonic armies; make them obedient for our sake. And, O Indra, we Bharadvājas, praising you, with food may surely obtain dwelling, that is, a home.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra!
+- एव (*eva*)—you, thus praised
+- नः (*naḥ*)—our
+- स्पृधः (*spṛdhaḥ*)—armies that fight (with the enemies)
+- समत्सु (*samatsu*)—in the battles
+- समज (*samaja*)—urge on
+- मिथतीः (*mithatīḥ*)—that harm us
+- आदेवीः (*ādevīḥ*)—the armies of the enemy
+- ररंधि (*raraṃdhi*)—destroy (make them submit to us)
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra!
+- ते (*te*)—you
+- गृणंतः (*gṛṇaṃtaḥ*)—who praise
+- भरद्वाजाः (*bharadvājāḥ*)—we who belong to the family of Bharadvāja
+- अवसा (*avasā*)—endowed with wealth of food
+- वस्तोः (*vastoḥ*)—dwelling places
+- नूनं (*nūnaṃ*)—surely
+- विद्याम (*vidyāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, thus praised, urge on in the battles our armies that fight with our enemies. Destroy the enemy armies that harm us, or make them submit to us. O Indra, may we, who praise you and belong to the family of Bharadvāja, surely obtain dwelling places endowed with wealth of food.
+
+##### English translation
+So (glorified by us), Indra, animate us (to overcome) our enemies in battle : overthrow our impious, malevolent (foes), and may we Bharadwajas, praising you, assuredly possess habitations, with (abundant) food.
+
+### Printed p. 810
+
+## Sūkta 26 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रुधी न इंद्रेत्यष्टर्चं तृतीयं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं ।
+> तथा चानुक्रम्यते । श्रुधी नोऽष्टाविति । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta श्रुधी न इंद्र (*śrudhī na iṃdra*) is the third sūkta, of eight Ṛks. Its seer is Bharadvāja, its metre is Triṣṭubh, its deity is Indra. So it is given in the Anukramaṇī: श्रुधी नोऽष्टाविति (*śrudhī no 'ṣṭāviti*). Its use (viniyoga) is laiṅgika.
+
+##### Anuvāda
+
+This sūkta beginning श्रुधी न इंद्र (*śrudhī na iṃdra*) is the third sūkta in the third anuvāka. There are eight Ṛks in it. Bharadvāja is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is stated as श्रुधी नोऽष्टौ (*śrudhī no 'ṣṭau*). The use is laiṅgika.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 3; Sūkta 26
+- Aṣṭaka 4; Adhyāya 6; Varga 21, 22
+- Number of Ṛks in the sūkta: 8
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒धी न॑ इंद्र॒ ह्वया॑मसि त्वा म॒हो वाज॑स्य सा॒तौ वा॑वृषा॒णाः ।  
+> सं यद्विशोऽयं॑त॒ शूर॑साता उ॒ग्रं नोऽवः॒पार्ये॒  ॑
+> अहन्दाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रुधि । नः । इंद्र । ह्वयामसि । त्वा । महः । वाजस्य । सातौ । ववृषाणाः ।  
+> सं । यत् । विशः । आयंत । शूरसातौ । उग्रं । नः । अवः । पाये । अहन् । दाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ववृषाणाः सोमैस्त्वां सिंचंतो वयं स्तोतारो महो
+> महतो वाजस्यान्नस्य सातौ लाभार्थं त्वा त्वां ह्वयामसि । आह्वयामः । हे इंद्र
+
+##### Gist of the bhāṣya
+
+O Indra, we, the praisers, sprinkling you with Soma, call upon you for the gain of great food, that is, of food in abundance.
+
 ---
 
-**Progress note:** Done through printed p. 803. Sūkta 25 Ṛks 1-5 (pp. 798-803)
+**Progress note:** Done through printed p. 810. Sūkta 25 Ṛks 5-9, Sūkta 26 intro and Ṛk 1 start (pp. 804-810)
