@@ -28693,6 +28693,279 @@ When the bright Agni, radiant with his own diffusive lustre, issues (from the to
 
 O Agni, bestow on us these visible good fortunes, that is, good wealth; make them shine, or give them. And further, the rite, or the performer of sacrifices, one of good mind.
 
+### Printed p. 679
+
+> शोभनप्रज्ञानयुक्तं सुप्रज्ञानं पुत्रं वा वतेम ! संभजेमहि ॥ वनतेः संभजनार्थस्य वर्णांतरागमे सति रूपं ॥ विश्वा विश्वानि धनानि स्तोतृभ्य उद्गातृभ्यो
+> गृणते शंसते च संतु । यूयं त्वत्परिवाराश्च सर्वे यूयं नोऽस्मान् स्तस्तिभिः
+> क्षेमै सदा सर्वदा पात ! रक्षत ॥
+
+##### Gist of the bhāṣya
+
+The word सुचेतसं (*sucetasaṃ*) means one endowed with good understanding, or a son endowed with good understanding; वतेम (*vatema*) means "may we share in" or "may we obtain". Next the second half-verse: विश्वा (*viśvā*) means all riches; may they be to the praisers, the Udgātṛs, and to him who recites, that is, praises. यूयं (*yūyaṃ*) means you, Agni, and all your retinue; always, at all times, protect us, guard us, with blessings, that is, with well-being.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- एता (*etā*)—the above-described
+- सौभगा (*saubhagā*)—all auspicious riches
+- नः (*naḥ*)—to us
+- दिदीहि (*didīhi*)—provide
+- आपि (*āpi*)—and
+- क्रतुं (*kratuṃ*)—the performer of sacrificial rites
+- सुचेतसं (*sucetasaṃ*)—a son endowed with excellent understanding
+- वतेम (*vatema*)—may we obtain
+- विश्वा (*viśvā*)—all riches
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to the praisers
+- गृणते च (*gṛṇate ca*)—and to those who recite those praises and eulogize you
+- संतु (*saṃtu*)—let them be assigned
+- यूयं (*yūyaṃ*)—you and all your retinue
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, provide us with all the auspicious riches described above. And may we obtain a son who performs sacrificial rites and is endowed with excellent understanding. May all riches be assigned to the praisers, and to those who recite those praises and eulogize you. May you and all your retinue always protect us with blessings.
+
+##### English translation
+Illume for us, Agni, the auspicious (riches): may we possess (a son) intelligent, the celebrator of sacred rites: may all (good things) be to your praisers, and to him who eulogizes (you): and ever cherish us with blessings.
+
+## Sūkta 4 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवः शुक्रायेति दशर्चं चतुर्थं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाग्नेयं!
+> प्रव इत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्दशसूक्तमध्यॆ द्वितीयत्वेनोक्तः
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रवः शुक्रायेति (*pravaḥ śukrāyeti*), of ten ṛks, is the fourth sūkta; it is the vision of Vasiṣṭha, in the Triṣṭubh metre, with Agni as its deity. The Anukramaṇikā says: प्रव इत्यनुक्रांतं (*prava ityanukrāṃtaṃ*). Among the ten sūktas for the Prātaranuvāka and the Āśvina-śastra it is stated as the second.
+
+### Printed p. 680
+
+> सूक्तविनियोगः ॥ एकादशिन आग्नेये पशौ प्र वः शुक्रायेत्येषा वपाया
+> याज्या । सूत्रितं च । प्र वः शुक्राय भानवे भरध्वं यथा विप्रस्य मनुषो
+> हविर्भिः । आ. ३-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The application of the sūkta: in the Āgneya animal offering of the Ekādaśin, this ṛk, प्र वः शुक्राय (*pra vaḥ śukrāya*), is the yājyā of the vapā. It is stated in the sūtra: प्र वः शुक्राय भानवे भरध्वं यथा विप्रस्य मनुषो हविर्भिः (*pra vaḥ śukrāya bhānave bharadhvaṃ yathā viprasya manuṣo havirbhiḥ*) (Ā. 3-7).
+
+##### Anuvāda
+
+This sūkta, प्र वः शुक्राय (*pra vaḥ śukrāya*), is the fourth sūkta in the first anuvāka. In it there are ten ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: beginning with प्र वः (*pra vaḥ*). Among the ten sūktas recited for the Prātaranuvāka and the Āśvina-śastra mantras, this sūkta is to be recited as the second; the application of this sūkta was stated in the preceding application. On the day of the sacrifice called Ekādaśin, in the animal offering to Agni, the ṛk प्र वः शुक्राय (*pra vaḥ śukrāya*) is to be recited as the yājyā mantra of the vapā offering, as is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, प्र वः शुक्राय भानवे भरध्वं यथा विप्रस्य मनुषो हविर्भिः (*pra vaḥ śukrāya bhānave bharadhvaṃ yathā viprasya manuṣo havirbhiḥ*) (Ā. 3 7).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 4
+- Aṣṭaka 5; Adhyāya 2; Varga 5, 6
+- Number of ṛks in the sūkta: 10
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वः॑ शु॒क्राय॑ भा॒नवे॑ भरध्वं ह॒व्यं म॒तिं चा॒ग्नये॒  ॑
+> सुपूतं ।  
+> यो दैव्या॑नि॒ मानु॑षा ज॒नूंष्यं॒तर्विश्वा॑नि वि॒द्मना॒ जिगा॑ति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । शुक्राय । भानवे । भरध्वं । हव्यं । मतिं । च । अग्नये । सुपूतं ।  
+> यः । दैव्यावि । मानुषा । जनूंषि । अंतः । विश्वानि । विद्मना । जिगाति ॥ १ ॥
+
+### Printed p. 681
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हविषां वोढारो वो यूयं शुक्राय शुभ्राय भानवे दीप्तायाग्नये सुपूतं सुशुद्धं हव्यं मतिं स्तुतिं च प्र भरध्वं । योऽग्निर्दैव्यानि मानुषा
+> मानुषाणि च विश्वानि जनूंषि जातान्यंतरंतरा विद्मना प्रज्ञानेन मार्गेण वा
+> जिगाति गच्छति । देवान्मनुष्यांश्चांतरा हवींषि नेतुं वर्तत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O bearers of oblations, you must offer to the bright, shining Agni a well-purified oblation and praise. The Agni who goes about between the divine and human births, all of them, by knowledge or by a path, is engaged in conveying oblations between the gods and men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O bearers of oblations)
+- यः (*yaḥ*)—which Agni
+- दैव्यानि (*daivyāni*)—among the gods
+- मानुषा (*mānuṣā*)—among men
+- विश्वानि (*viśvāni*)—all
+- जनूंषि (*janūṃṣi*)—classes of beings
+- अंतः (*aṃtaḥ*)—between (establishing a mutual relation between gods, men and the rest)
+- विद्मना (*vidmanā*)—with the help of his own knowledge
+- जिगाति (*jigāti*)—moves about; such an Agni
+- शुक्राय (*śukrāya*)—the bright
+- भानवे (*bhānave*)—the shining
+- अग्नये (*agnaye*)—to Agni
+- सुपूतं (*supūtaṃ*)—well-purified
+- हव्यं (*havyaṃ*)—oblation
+- मतिं च (*matiṃ ca*)—and praise
+- प्र भरध्वं (*pra bharadhvaṃ*)—procure and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O bearers of oblations, the Agni who, establishing a relation among all classes of beings, gods, men and the rest, moves about between them with his divine knowledge: to that bright and shining Agni procure and offer a well-purified oblation and praise.
+
+##### English translation
+Offer your sacred oblation, and praise the bright and radiant Agni, who passes with wisdom between all divine and human beings.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स गृत्सो॑ अ॒ग्नि स्तरु॑णश्चिदस्तु॒ यतो॒ यवि॑ष्टो॒ अज॑निष्ट मा॒तुः ।  
+> सं यो वना॑ यु॒वते॒ शुचि॑द॒न्भूरि॑ चि॒दन्ना॒ समिद॑त्ति स॒द्यः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । गृत्सः । अग्निः । तरुणः । चित् । आस्तु । यतः । यविष्ठः । अजनिष्ट । मातः ।  
+> सं । यः । वना । युवते । शुचिदन् । भूरि । चित् । अन्ना । सं । इत् । अत्ति । सद्यः॥
+
+### Printed p. 682
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स चित्स एव गृत्सो मेधावी । तथा च यास्कः । गृत्स इति मेधाविनाम ।
+> नि. ९-५ । अग्निस्तरुणस्तारको भवति । तदा यतो यदा मातुररण्या यविष्टो
+> युवतमः सन् अजनिष्ट । योऽग्निः शुचिदन् दीप्तदंतो वना वनानि सं युवते
+> आत्मना संयोजयति । किंच भूरि चित् भूरीण्यप्यन्ना स्वीयान्यन्नानि सद्य इत्सद्य
+> एव समत्ति सम्यग्भक्षयति ॥
+
+##### Gist of the bhāṣya
+
+He, that very Agni, is Gṛtsa, the wise; so Yāska says: गृत्स इति मेधाविनाम (*gṛtsa iti medhāvināma*) (Ni. 9-5). Let Agni be the saviour (tāraka), then, when he is born, the most youthful, of his mother, the fire-stick **NOTE**. The Agni who, bright-toothed, that is, with shining teeth, unites the forests with himself; moreover, even his abundant foods, his own, he devours completely at once.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- शुचिदन् (*śucidan*)—as one with teeth that are shining and of the form of flame
+- वना (*vanā*)—all forests
+- सं युवते (*saṃ yuvate*)—unites in himself (and)
+- भूरिचित् (*bhūricit*)—though exceedingly much
+- अन्ना (*annā*)—abundant foods, wood and the rest
+- सद्य इत् (*sadya it*)—at once
+- समत्ति (*samatti*)—devours
+- स चित् आग्निः (*sa cit āgniḥ*)—that same Agni
+- यतः (*yataḥ*)—when
+- मातुः (*mātuḥ*)—from the fire-sticks, which are of the form of mothers
+- यविष्ठः (*yaviṣṭhaḥ*)—as the most youthful
+- अजनिष्ट (*ajaniṣṭa*)—is born (then)
+- गृत्सः (*gṛtsaḥ*)—as wise
+- तरुणः (*taruṇaḥ*)—as our protector
+- अस्तु (*astu*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, as one with teeth that are shining and of the form of flame, unites all the forests in himself, and devours at once all abundant foods, wood and the rest, though they be exceedingly much: when that same Agni is born, most youthful, from the fire-sticks, which are of the form of mothers, then, as most wise, he becomes our protector.
+
+##### English translation
+May the sagcious Agni be our conductor from the time that he is born, most youthful, of his mother: he who, bright-toothed, attacks the forest, and quickly devours his abundant food.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य दे॒वस्य॑ सं॒सद्यनी॑के॒ यं मर्ता॑सः श्वे॒तं ज॑गृ॒भ्रे ।  
+> नि यो गृभं॒ पौरु॑षेयिामु॒वोच॑ दु॒रोक॑म॒ग्नि रा॒यवे॑  
+> शुशोच ॥ ३ ॥
+
+### Printed p. 683
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । देवस्य । संसदि । अनीके । यं । मर्तासः । श्येतं । जगृभ्रे ।  
+> नि । यः । गृभं । पौरुषेयां । उवोच । दुःओकं । अग्निः । आयवे । शुशोच॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य देवस्याग्नेरनीके मुख्ये संसदि स्थाने श्येतं श्वेतं शुभ्रं यमग्निं
+> मर्तासो मनुष्या जगृभ्रे परिगृह्णंति । यश्चाग्निः पौरुषेयां पुरुषैः क्रियमाणां गृभं गृभीतं न्युवोच ॥ अत्र वचिः सेवार्थे वर्तते ॥ निषेवत इत्यर्थः ।
+> सोऽग्निरायवे मनुष्यार्थं । द्रुह्यव आयव इति मनुष्यनामसु पाठात् ।
+> दुरोकं सपत्नैर्दुःसेवं यथा भवति तथा शुशोच । दीप्यते ॥
+
+##### Gist of the bhāṣya
+
+In the principal assembly-place, in the station, of this divine Agni, mortals, men, hold whom as bright, श्वेतं (*śvetaṃ*) meaning white, shining. And the Agni who न्युवोच (*nyuvoca*) what is undertaken, गृभं (*gṛbhaṃ*), that is, taken up, पौरुषेयां (*pauruṣeyāṃ*), done by men. Here the root vac is used in the sense of service; the meaning is that he serves **NOTE**. That Agni, for man, आयवे (*āyave*), since द्रुह्यव आयव (*druhyava āyava*) are read among the names of man, blazes, shines, दुरोकं (*durokaṃ*), in such a way that he is hard to serve for rivals.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the divine
+- अस्य (*asya*)—of this Agni
+- अनीके (*anīke*)—principal
+- संसदि (*saṃsadi*)—in the station
+- यं (*yaṃ*)—whichever Agni
+- मर्तासः (*martāsaḥ*)—mortals
+- श्येतं (*śyetaṃ*)—as one of bright colour
+- जगृभ्रे (*jagṛbhre*)—have apprehended
+- यः (*yaḥ*)—which Agni
+- पौरुषेयां (*pauruṣeyāṃ*)—rites and the like performed by men
+- गृभं न्युपोच (*gṛbhaṃ nyupoca*)—favours with words of acceptance
+- अग्निः (*agniḥ*)—that same Agni (he)
+- आयवे (*āyave*)—for the benefit of man
+- दुरोकं (*durokaṃ*)—as unattainable to the enemy
+- शुशोच (*śuśoca*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+In the principal station of this divine Agni, the Agni whom mortals have apprehended as one of bright colour, the Agni who favours with words of acceptance the rites and the like performed by men: that same Agni shines for the benefit of man and as unattainable to the enemy.
+
+##### English translation
+Whom mortals apprehend as white (shining) in the principal station of that divinity; he who assents to manly adoration, and blazes for the good of man, and discomfiture (of his foes).
+
+### Printed p. 684
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं क॒विरक॑विषु॒ प्रचे॑ता॒ मर्ते॑ष्व॒ग्निर॒मृतो॒ नि धा॑यि ।  
+> स मा नो॒ अत्र॑ जुहुरः सहस्वः॒ सदा॒ त्वे सु॒मन॑सः स्याम ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आयं । कविः । अकविषु । प्रचेताः । मर्तॆषु । अग्निः । अमृतः । नि । धायि ।  
+> सः । मा । नः । अत्र । जुहुरः । सहस्वः । सदा । त्वे इति । सुमनसः । स्याम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतदृक् प्रचेताः प्रकाशकोऽमृतो मरणधर्मरहितोऽयमग्निरकविश्वक्रांतदृक्षु मर्तेषु मरणधर्मकेषु नि धायि । निहितः । अथ प्रत्यक्षस्तुतिः ।
+> सहस्वो बलवन्नग्ने त्वे यस्मिन् त्वयि सदा वयं सुमनसः सुमतयः स्याम स
+> त्वमत्रास्मिल्लोके नोऽस्मान्मा जुहुरः । मा हिंसीः ॥
+
+##### Gist of the bhāṣya
+
+This Agni, कविः (*kaviḥ*), far-seeing, प्रचेताः (*pracetāḥ*), the illuminator, अमृतः (*amṛtaḥ*), free from the nature of death, is placed, नि धायि (*ni dhāyi*), that is, established, among mortals, subject to death, who are not far-seeing. Now a direct address: O mighty Agni, in you, in whom we may always be of good mind, that is, of good thoughts, may you here, in this world, not harm us; do not injure us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the far-seeing
+- प्रचेताः (*pracetāḥ*)—the giver of excellent knowledge
+- अमृतः (*amṛtaḥ*)—the one free from mortality
+- अयं अग्निः (*ayaṃ agniḥ*)—this same Agni
+- अकविषु (*akaviṣu*)—among those who are not poets because of narrow vision
+- मर्तॆषु (*martèṣu*)—among men
+- नि धायि (*ni dhāyi*)—is established
+- सहस्वः (*sahasvaḥ*)—O Agni endowed with strength
+- त्वे (*tve*)—in you whom
+- सदा (*sadā*)—always
+- सुमनसः (*sumanasaḥ*)—with devout minds
+- स्याम (*syāma*)—we shall be
+- सः (*saḥ*)—such a you
+- अत्र (*atra*)—in this world of men
+- नः (*naḥ*)—us
+- मा जुहुरः (*mā juhuraḥ*)—do not harm
+
+##### भावार्थ (Bhāvārtha)
+
+This same Agni, far-seeing, the giver of excellent knowledge, free from mortality, is established among men who are not poets. O mighty Agni, in you, in whom we shall always be of devout minds, such as you are, being in this world of men, do not harm us.
+
 ---
 
-**Progress note:** Done through printed p. 678. Ṛk 3-10 of Sūkta 3 (Maṇḍala 7), pp. 672-678
+**Progress note:** Done through printed p. 684. Sūkta 4 intro, Ṛk 1-4 (pp. 679-684)
