@@ -17252,6 +17252,276 @@ This sūkta beginning श्नथद्वत्रं (*śnathadvatraṃ*) **N
 > सपर्यात् ।  
 > इरज्यंता । वसव्यस्य । भूरेः । सहःतमा । सहसा । वाजयंता ॥ १ ॥
 
+### Printed p. 393
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स पुरुषो वृत्रमावरकं शत्रुं श्नथत् । हिनस्ति । उतापि च वाजमन्नं बलं
+> वा सनोति । लभते । यः पुरुषः सहुरी शत्रूणामभिभविताराविंद्राग्नी सपर्यात्
+> परिचरेत् ॥ इतरेतरयोगादुभयत्र पूर्ववद्वि वचनं ॥ कीदृशाविंद्राग्नी । भूरेः
+> प्रभूतस्य वसव्यस्य वसुसमूहस्य । यद्वा !! स्वार्थिको यत् ॥ धनस्यॆरज्यंतेशानौ
+> स्वामिनौ ॥ इरज्यतिरैश्वर्यकर्मा ॥ सहसा बलेन सहस्तमातिशयेनाभिभवितार्
+> शत्रूणां वाजयंता वाजं दनिर्लक्षणमन्नमात्मन इच्छंत् । यद्वा । वाजं
+> सोतृभ्यो दातव्यमन्नं कामयमानौ ॥
+
+##### Gist of the bhāṣya
+
+That man smites (श्नथत् (*śnathat*), he kills) the enemy Vṛtra, the obstructer, and also wins food or strength (वाजं (*vājaṃ*)), who would serve Indra and Agni, the two overcomers of enemies. The dual is used in both places by the mutual connection of the two deities, as before. Of what kind are Indra and Agni? They are lords (इरज्यंता (*irajyaṃtā*)) of abundant wealth (वसव्यस्य (*vasavyasya*)), that is, of a multitude of treasures; or the word for wealth is formed with an added suffix, and the two are its masters, since इरज्यति (*irajyati*) is a verb of lordship. They overcome enemies most mightily (सहस्तमा (*sahastamā*)) by strength (सहसा (*sahasā*)). Desiring food (वाजयंता (*vājayaṃtā*)) for themselves **NOTE**; or else, desiring the food that is to be given to the worshippers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भोरेः (*bhoreḥ*)—abundant
+- वसव्यस्य (*vasavyasya*)—of the mass of wealth
+- इरज्यंता (*irajyaṃtā*)—who are the lords
+- सहसा (*sahasā*)—with exceeding strength
+- सहस्तमा (*sahastamā*)—who confront the enemies
+- वाजयंता (*vājayaṃtā*)—who desire food in the form of oblation
+- सहुरी (*sahurī*)—who crush and defeat the enemies
+- इंद्राग्नी (*iṃdrāgnī*)—the deities who are Indra and Agni
+- यः (*yaḥ*)—which man
+- सपर्यात् (*saparyāt*)—may worship (that man)
+- वृतं (*vṛtaṃ*)—the enemy who has besieged him
+- श्नथत् (*śnathat*)—strikes down and kills
+- उत (*uta*)—and
+- वाजं (*vājaṃ*)—food also
+- सनोति (*sanoti*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+The man who worships the deities Indra and Agni, who are lords of the whole abundant mass of wealth, who confront enemies with exceeding strength, who desire food in the form of oblation, and who crush and defeat enemies, strikes down and kills the enemy who has besieged him. And he obtains food as well.
+
+##### English translation
+He overcomes his enemy, and acquires food, who worships the victorious Indra and Agni, the lords of infinite opulence, most powerful in strength, desirous of (sacrificial) food.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता यो॑धिष्टम॒भि गा इं॑द्र नू॒नम॒पः स्व॑रु॒षसो॑ अग्न  ॒
+> ऊळ्हाः ।  
+> दिशः॒ स्व॑रु॒षस॑ इंद्र चि॒त्रा अ॒पो गा अ॑ग्ने युवसे नि॒युत्वा॑न् ॥
+
+### Printed p. 394
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । योधिष्टं । अभि । गाः । इंद्र । नूनं । अपः । स्वः । उषसः । अग्ने । ऊळ्हाः ।  
+> दिशः । स्वः । उषसः । इंद्र । चित्राः । अपः । गाः । अग्ने । युवसे । नियुत्वान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हे अग्ने ता तौ युवां गा अप उदकानि स्वः सूर्यमुषस
+> उषःकालानूळ्हाः पणिभिरपहृता एतान् गवादीनभिलक्ष्य योधिष्टं। शैरसुरैर्युद्धं
+> कृतवंतौ । नूनमिति पादपूरणार्थः । हे इंद्र त्वं दिशः प्राच्याद्याः स्वः सूर्यमुषसश्च चित्राश्चायनीया अप उदकानि च गाश्च पणिभिरपहृतानेतान्युवसे । अनेन
+> लोकेनायोजयः । यद्वा । असुरैरावृतान्दिगादीनसुरवधेनावरणमपनीय
+> पृथक्कृतवानसीत्यर्थः । हे अग्ने नियुत्वान् नियुद्धिरश्वैर्युक्तः सन् त्वमप्येवमकार्षिरीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, O Agni, you two fought (योधिष्टं (*yodhiṣṭaṃ*)) with the Asuras, having in view the cows, the waters, the sun and the dawns, which had been carried off by the Paṇis; the word नूनं (*nūnaṃ*) serves only to fill out the pāda. O Indra, you unite (युवसे (*yuvase*)) the quarters, east and the rest, the sun, the dawns, the wonderful waters and the cows carried off by the Paṇis, with this world. Or else: having slain the Asuras who had enclosed the quarters and the rest, you removed the covering and set them apart; this is the sense. O Agni, possessed of the Niyut horses, you too did the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अग्ने (*agne*)—O Agni
+- ता (*tā*)—you two
+- ऊळ्हाः (*ūḷhāḥ*)—carried off by the Paṇis
+- गाः (*gāḥ*)—for the cows
+- अपः (*apaḥ*)—for the sake of the waters
+- स्वः (*svaḥ*)—for the sake of gaining the sun
+- उषसः (*uṣasaḥ*)—with the aim of obtaining the dawn
+- नूनं (*nūnaṃ*)—certainly
+- अभि योधिष्टं (*abhi yodhiṣṭaṃ*)—you fight with the enemies
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- दितः (*ditaḥ*)—the quarters, east and the rest
+- स्वः (*svaḥ*)—the sun
+- उषसः (*uṣasaḥ*)—the dawns
+- चित्राः (*citrāḥ*)—attractive
+- अपः (*apaḥ*)—the waters
+- गाः (*gāḥ*)—the cows carried off by the Paṇis
+- युवसे (*yuvase*)—you set in their respective places
+- अग्ने (*agne*)—O Agni
+- नियुत्वान् (*niyutvān*)—you, who have the horses named Niyut, have also accomplished the same deeds
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, O Agni, you two have certainly fought with the enemies for the cows carried off by the Paṇis, for the waters, for the gaining of the sun, and with the aim of obtaining the dawn. O Indra, you set in their respective places the quarters, east and the rest, the sun, the dawns, the attractive waters and the cows carried off by the Paṇis. O Agni, you too, who have the horses named Niyut, have accomplished the same deeds.
+
+### Printed p. 395
+
+##### English translation
+Indra and Agni, verily you have combated for (the recovery of) the cows, the waters, the sun, the dawns that had been carried away (by the Asuras): you reunite, Indra, (with the world), the quarters of the horizon, the sun, the wonderful waters, the dawns, the cattle, and so do you, Agni, who have the Niyut steeds.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वृ॑त्रहणा वृत्र॒हभिः॒ शुष्मै॒रिंद्र॑ या॒तं नमो॑भिरग्ने  ॒
+> अर्वाक् ।  
+> यु॒वं राधो॑भि॒रक॑वेभिरिं॒द्राग्ने॑ अ॒स्मे भ॑वतमुत्त॒मेभिः॑॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वृत्रहना । वृत्रहभिः । शुष्मैः । इंद्र । यातं । नमःभिः । अग्ने । अर्वाक् ।  
+> युवं । राधःभिः । अकवेभिः । इंद्र । अग्ने । अस्मे इति । भवतं । उत्तमेभिः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऐंद्राग्नस्य पशोर्वपाया आ वृत्रहणेत्यनुवाक्या । सूत्रितं च । आ वृत्रहणा
+> वृत्रहभिः शुष्मैरा भरतं शिक्षतं वज्रबाहू । आ. ३-७ । इति ॥
+> हे वृत्रहणा वृत्रस्यासुरस्य हंतारौ हे इंद्र हे अग्ने वृत्रहभिर्वृत्रस्य
+> हंतृभिवृत्रनहननिमित्तैः शुष्मैर्बलैनमोभिरस्मभ्यं दातवैरन्नैश्च सार्धमर्वागस्मदभिमुखमा यातं । अगच्छतं । हे इंद्र हे अग्ने युवं युवामकवेभिरकुत्सितैर्महद्भिरुत्तमेभिरुत्कष्टतम्म राधोभिधनैः सहास्मे अस्मासु भवतं
+> अविर्भवतं ॥
+
+##### Gist of the bhāṣya
+
+This ṛk, आ वृत्रहणा (*ā vṛtrahaṇā*), is the anuvākyā for the vapā-oblation of the animal offered to Indra and Agni. It is laid down in the Sūtra: आ वृत्रहणा वृत्रहभिः शुष्मैरा भरतं शिक्षतं वज्रबाहू (*ā vṛtrahaṇā vṛtrahabhiḥ śuṣmairā bharataṃ śikṣataṃ vajrabāhū*) (Ā. 3-7). O slayers of Vṛtra, the Asura, O Indra, O Agni, come (यातं (*yātaṃ*)) towards us, facing us, together with strengths (शुष्मैः (*śuṣmaiḥ*)) that are the killers of Vṛtra, that is, that serve to slay Vṛtra, and with the foods that are to be given to us (नमोभिः (*namobhiḥ*)). O Indra, O Agni, be manifest (भवतं (*bhavataṃ*)) among us together with blameless, great and most excellent riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहणा (*vṛtrahaṇā*)—who are slayers of enemies
+- इंद्र (*iṃdra*)—O Indra,
+- अग्ने (*agne*)—O Agni
+- वृत्रहभिः (*vṛtrahabhiḥ*)—that destroy enemies
+- शुष्मैः (*śuṣmaiḥ*)—with strengths
+- नमोभिः (*namobhiḥ*)—and with the foods that we need, endowed
+- अर्वाक् (*arvāk*)—facing us
+- आ यातं (*ā yātaṃ*)—be so kind as to come
+- इंद्रॆ (*iṃdrè*)—O Indra,
+- अग्ने (*agne*)—O Agni,
+- युवं (*yuvaṃ*)—you two
+- अकवेभिः (*akavebhiḥ*)—not blameworthy
+### Printed p. 396
+- उत्तमेभिः (*uttamebhiḥ*)—and praiseworthy
+- राधोभिः (*rādhobhiḥ*)—with riches
+- अस्मे (*asme*)—before us
+- भवतं (*bhavataṃ*)—appear and show yourselves
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, slayers of enemies, be so kind as to come facing us, endowed with strengths that destroy enemies and with the foods that we need. O Indra, O Agni, appear and show yourselves before us together with riches that are not blameworthy and are praiseworthy.
+
+##### English translation
+Slayers of Vritra, Indra and Agni, come down with foe-subduing energies, (to be invigorated) by (our) offerings: be manifest to us, Indra and Agni, with unblameable and most excellent riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the offering of the vapā in the animal sacrifice made to Indra and Agni, this ṛk beginning आ वृत्रहणा (*ā vṛtrahaṇā*) is to be recited as an anuvākyā mantra; this is set out by the Sūtra of the Āśvalāyana Śrauta Sūtra, आ वृत्रहणा वृत्रहभिः शुष्मैरा भरतं शिक्षतं वज्रबाहू (*ā vṛtrahaṇā vṛtrahabhiḥ śuṣmairā bharataṃ śikṣataṃ vajrabāhū*) (Ā. 3-7).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता हु॑वे॒ ययो॑रि॒दं प॒प्ने विश्वं॑ पु॒रा कृ॒तं ।  
+> इं॒द्रा॒ग्नी न म॑र्धतः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । हुवे । ययोः । इदं । पप्ने । विश्वं । पुरा । कृतं ।  
+> इंद्राग्नी इति । न । मर्धतः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि प्रातःसवनेऽच्छावाकशस्त्रे ता हुवे इति षडहस्तोत्रियस्त्रृचः । सूत्रितं च । ता हुवे ययोरिदमियं वामस्य मन्मनः । आ. ७-२ । इति ॥
+> पृष्ट्याभिप्लवषडहयोः स्तोमवृदौ ता हुव इत्याद्या नवर्च आवापार्थाः । सूत्रितं
+> च । ता हुवे ययोरिदमिति नवेयं वामस्य मन्मन इत्येकादश । आ. ७-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the morning pressing, in the śastra of the Acchāvāka, the tṛca beginning ता हुवे (*tā huve*) is the ṣaḍaha-stotriya. It is laid down in the Sūtra: ता हुवे ययोरिदमियं वामस्य मन्मनः (*tā huve yayoridamiyaṃ vāmasya manmanaḥ*) (Ā. 7-2). In the Pṛṣṭhya and Abhiplava ṣaḍahas, for the increase of the stoma, the nine ṛks beginning with ता हुव (*tā huva*) are for insertion (āvāpa). It is laid down: ता हुवे ययोरिदमिति नवेयं वामस्य मन्मन इत्येकादश (*tā huve yayoridamiti naveyaṃ vāmasya manmana ityekādaśa*) (Ā. 7-5).
+
+### Printed p. 397
+
+> ता तौ तादृशाविंद्राग्नी हुवे । आह्वये । ययोरिंद्राग्नोः पुरा
+> पूर्वस्मिन्काले कृतं विश्वं सर्वमिदं पूर्वास्वक्षु कीर्तितं वीर्यं पप्ने पन्यते
+> ऋषिभिः स्तूयते । ताविंद्राग्नी हुव इत्यन्वयः । तौ चेंद्राग्नी न मर्धतः ।
+> स्तोत्यन्न हिंस्तः । अतोऽस्थानप्याहूत् रक्षतामिति भावः ॥ मर्धतिर्हिंसाकर्मा :
+
+##### Gist of the bhāṣya
+
+I call (हुवे (*huve*)) those two, Indra and Agni, such as they are, of whom all this heroic deed, done in former time and proclaimed in the earlier ṛks, is praised (पप्ने (*papne*)) by the seers. The construction is: I call those Indra and Agni. And may those two not harm (न मर्धतः (*na mardhataḥ*)) the one who praises them; hence may they protect us who have called them; this is the sense. The verb मर्धति (*mardhati*) denotes harming. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ययोः (*yayoḥ*)—by which Indra and Agni
+- पुरा (*purā*)—in all former times
+- कृतं (*kṛtaṃ*)—performed
+- विश्वं (*viśvaṃ*)—all
+- इदं (*idaṃ*)—the heroic deeds described before
+- पप्ने (*papne*)—have been praised
+- ता (*tā*)—those renowned Indra and Agni
+- हुवे (*huve*)—we pray and invoke
+- इंद्राग्नी (*iṃdrāgnī*)—O deities Indra and Agni
+- न मर्धतः (*na mardhataḥ*)—do not harm us
+
+##### भावार्थ (Bhāvārtha)
+
+We pray and invoke those renowned Indra and Agni, by whom all the heroic deeds performed in all former times and described by the earlier mantras have been praised. Do not harm us.
+
+##### English translation
+I invoke those two, the whole of whose deeds of old have been celebrated : Indra and Agni harm us not.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśika, at the morning pressing, among the śastra mantras recited by the priest called Acchāvāka, the three ṛks beginning with ता हुवे (*tā huve*) (ṛks 4–6 of this sūkta) are to be recited as the ṣaḍaha-stotriya tṛca; this is set out by the Āśvalāyana Śrauta Sūtra, in the Sūtra ता हुवे ययोरिदमियं वामस्य मन्मनः (*tā huve yayoridamiyaṃ vāmasya manmanaḥ*) (Ā. 3-2) **NOTE**. And in the sacrifices called Pṛṣṭha and Abhiplava ṣaḍaha, for the increase of the stoma, the nine ṛks beginning with ता हुवे (*tā huve*) (ṛks 4–12 of this sūkta) are to be recited as āvāpa mantras; this is set out by the Āśvalāyana Śrauta Sūtra, in the Sūtra ता हुवे ययोरिदमिति नवेयं वामस्य मन्मन इत्येकादश (*tā huve yayoridamiti naveyaṃ vāmasya manmana ityekādaśa*) (Ā. 7-5).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ग्रा वि॑घ॒निना॒ मृध॑ इंद्रा॒ग्नी ह॑वामहे ।  
+> ता नो॑ मृळात ई॒दृशे॑ ॥ ५ ॥
+
+### Printed p. 398
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उग्रा । विघनिना । मृधः । इंद्राग्नी इति । हवामहे ।  
+> ता । नः । मृळातः । ईदृशे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उग्रोग्रावुद्गूर्णबलावत एव मृधः शूत्रून्विघनिना विघनिन् विशेषेण
+> हतवंताविंद्राग्नी हवामहे । आह्वयामहे । तौ चेंद्राग्नी ईदृशेऽस्मिन् संग्रामे
+> नोऽस्मान्मृळातः । सुखयतां । यद्वा ॥ मृळतिरूपदयाकर्मा ॥ नोऽस्माकं
+> मृळातः । उपदयां कुरुतां ॥
+
+##### Gist of the bhāṣya
+
+We call (हवामहे (*havāmahe*)) Indra and Agni, who are fierce (उग्रा (*ugrā*)), that is, of uplifted strength, and for that very reason are the special slayers (विघनिना (*vighaninā*)) of enemies (मृधः (*mṛdhaḥ*)). May those two, Indra and Agni, in such a battle as this, make us happy (मृळातः (*mṛḷātaḥ*)). Or else: the verb मृळति (*mṛḷati*) denotes compassion; may they show compassion to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रा (*ugrā*)—who have strength terrible to enemies
+- मृधः (*mṛdhaḥ*)—the enemies
+- विघनिना (*vighaninā*)—and who destroy
+- इंद्राग्नी (*iṃdrāgnī*)—Indra and Agni
+- हवामहे (*havāmahe*)—we pray and invoke
+- ता (*tā*)—those same Indra and Agni
+- ईदृशे (*īdṛśe*)—in such a battle
+- नः (*naḥ*)—us
+- मृळातः (*mṛḷātaḥ*)—may they make happy
+
+##### भावार्थ (Bhāvārtha)
+
+We pray and invoke Indra and Agni, who have strength terrible to enemies and who destroy enemies. May those same Indra and Agni make us happy in such a battle.
+
+##### English translation
+We invoke the fierce Indra and Agni, the slayers of enemies: may they give us success in similar warfare.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒तो वृ॒त्राण्यार्या॑ ह॒तो दासा॑नि॒ सत्प॑ती ।  
+> ह॒तो विश्वा॒ अप॒ द्विषः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हतः । वृत्राणि । आर्या । हतः । दासानि । सत्पती इति सत्पती ।  
+> हतः । विश्वाः । अप । द्विषः ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 392. Mandala 6 sukta 59 Rks 6 end to 10, sukta 60 introduction and Rk 1 (pp. 387-392)
+**Progress note:** Done through printed p. 398. Sūkta 60 (Maṇḍala 6), Ṛk 1 bhāṣya to Ṛk 6 saṃhitā, pp. 393-398
