@@ -9532,6 +9532,256 @@ O deity, made of wood and in the form of a chariot, be of firm limbs. Be our pro
 ##### English translation
 (Chariot made of the) forest lord, be strong of fabric ; be our friend, be our protector, and be manned by warriors: you are girt with cow-hides keep us steady; and may he who rides in you be victorious over conquered (foes).
 
+### Printed p. 219
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk beginning वनस्पते (*vanaspate*) is to be recited at the time of mounting the chariot, as is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra reading वनस्पते वीड्वंगो हि भूया इत्येशयान्यान्यपि वानस्पत्यानि (*vanaspate vīḍvaṃgo hi bhūyā ityeśayānyānyapi vānaspatyāni*) (Ā. Gṛ. 2-6-5)**NOTE**.
+
+Yāska has given a nirvacana for this Ṛk. Here the word vanaspati is taken to mean a chariot made of wood:
+
+वनस्पते दृढांगो हि भवास्मत्सखा प्रतरणः सुवीरः कल्याणवीरो गोभिः संनद्धो असि वीळयस्वेति संस्तंभ स्वास्थाता ते जयतु जेशव्यानि ॥ (*vanaspate dṛḍhāṃgo hi bhavāsmatsakhā prataraṇaḥ suvīraḥ kalyāṇavīro gobhiḥ saṃnaddho asi vīḷayasveti saṃstaṃbha svāsthātā te jayatu jeśavyāni ‖*) (Ni. 9-12)
+
+O chariot, made of vanaspati (a tree, or wood), be firm in your limbs, that is, in the parts that take the form of the wheels and the rest; be firm, that is, solid. You are our friend, one who wishes our welfare, an excellent hero. Well bound with cowhide, you are strong, and you are steady, so as not to shake. May the charioteer who sits in you win what he desires to win. This is the main sense of the nirvacana.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒  ॑
+> सहः ।  
+> अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑त॒मिंद्र॑स्य॒ वज्रं॑ ह॒विषा॒ रथं॑  
+> यज ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । पृथिव्याः । परि । ओजः । उत्भृतं । वनस्पतिभ्यः । परि । आभृतं । सहः ।  
+> अपां । ओज्मानं । परि । गोभिः । आवृतं । इंद्रस्य । वज्रं । हविषा । रथं । यज ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकात्पृथिव्या भूमेश्चोद्धृतमुद्धृतं सारत्वेनोपात्तं यदोजो बलमस्ति तद्रूपं । वनस्पतिविकारत्वाद्रथस्य । वनस्पतयो हि पृथिव्याः सारभूताः
+> ते च द्युसंबंधिभिरुदकैः प्रवृद्धाः । अतो रथस्य लोकद्वयसारत्वमुपपन्नं ॥ परि
+
+##### Gist of the bhāṣya
+
+The strength (ओजः (*ojaḥ*)) that is drawn out from the world of heaven and from the earth, taken up as their essence, is of this form, since the chariot is a product of forest lords. For the forest lords are the essence of the earth, and they are grown by the waters that belong to heaven. Hence it is fitting that the chariot is the essence of the two worlds.
+
+### Printed p. 220
+
+> पंचम्यर्थानुवादी ॥ अपि च वनस्पतिभ्यो वृक्षेभ्यः । परि पूर्ववत् । आभृतमाहृतं
+> सहो बलरूपमपामुदकानामोज्मानं प्रेरकं । यद्वा । ओज्मा वेगः । अपां वेग
+> इव वेगवंतं गोभिर्गोविकारैश्चर्मभिः परि परित आवृतमावेष्टितमिंद्रस्य वज्रं
+> वज्रैकदेशं । श्रूयते हि । इंद्रो वृत्ताय वज्रमुदयच्छत् स त्रेधा व्यभवत्
+> वज्रस्तृतीयं रथस्तृतीयं यूपस्तृतीयमिति । एवंगुणविशिष्टं रथं हविषा
+> पुरोडाशादिना हे अध्यर्यो यज ॥ नूनमेषोत्तरा च रथदेवत्यस्य हविषो
+> याज्यानुवाक्ये लिंगादवगंतव्ये ॥
+
+##### Gist of the bhāṣya
+
+The word परि (*pari*) merely restates the sense of the ablative case. Further, वनस्पतिभ्यः (*vanaspatibhyaḥ*) means from trees; परि (*pari*) as before. आभृतं (*ābhṛtaṃ*) is brought; सहः (*sahaḥ*) is that which has the form of strength; अपां (*apāṃ*) means of the waters, and ओज्मानं (*ojmānaṃ*) the impeller. Or else ओज्मा (*ojmā*) is speed: having speed like the speed of the waters. It is covered all round with cowhides, that is, products of the cow, hides, and it is Indra's thunderbolt, that is, a part of the thunderbolt. For it is heard: इंद्रो वृत्ताय वज्रमुदयच्छत् स त्रेधा व्यभवत् वज्रस्तृतीयं रथस्तृतीयं यूपस्तृतीयमिति । (*iṃdro vṛttāya vajramudayacchat sa tredhā vyabhavat vajrastṛtīyaṃ rathastṛtīyaṃ yūpastṛtīyamiti |*) **GLOSS** Such a chariot, O Adhvaryu, worship with oblation, the puroḍāśa and the rest. This Ṛk and the next, it must be understood from the indication, are the yājyā and anuvākyā of the oblation to the chariot deity.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—(O Adhvaryu) from the world of heaven
+- पृथिव्याः परि (*pṛthivyāḥ pari*)—from the earth
+- उद्भृतं (*udbhṛtaṃ*)—that which has come forth
+- ओजः (*ojaḥ*)—that which is endowed with strength
+- वनस्पतिभ्यः परि (*vanaspatibhyaḥ pari*)—from the forest lords
+- अभृतं (*abhṛtaṃ*)—that which has been procured
+- सहः (*sahaḥ*)—that which is of the form of power
+- अपां (*apāṃ*)—for the waters
+- ओज्मानं (*ojmānaṃ*)—that which is the impeller
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- वज्रं (*vajraṃ*)—that which is a part of the thunderbolt
+- गोभिः (*gobhiḥ*)—with cowhides
+- परि अवृतं (*pari avṛtaṃ*)—that which is covered all round
+- रथं (*rathaṃ*)—the chariot
+- हविषा (*haviṣā*)—with the puroḍāśa and the other offerings
+- यज (*yaja*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, worship with the puroḍāśa and other offerings the chariot which has been drawn out from the world of heaven and from the earth as the essence of these two worlds and as of the nature of strength, which has been procured from the forest lords, which is full of vigour, which is the impeller of the waters, which is a part of Indra's thunderbolt, and which is covered all round with cowhides.
+
+##### English translation
+Worship with obtations the chariot constructed of the substance of heaven and earth, the extracted essence of the forest lords; the velocity of the waters; the encompassed with the cow-hide; the thunderbolt (of Indra).
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य॒ वज्रो॑ म॒रुता॒मनी॑कं मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒  ॑
+> नाभिः ।  
+> सेमां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या  ॑
+> गृभाय ॥ २८ ॥
+
+### Printed p. 221
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । वज्रः । मरुतां । अनीकं । मित्रस्य । गर्भः । वरुणस्य । नाभिः ।  
+> स: । इमां । नः । हव्यदातिं । जुषाणः । देव । रथ । प्रति । हव्या । गृभाय ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो रथ इंद्रस्य वज्र उक्तप्रकारेण वज्रैकदेशो मरुतामेतत्संज्ञानां
+> देवगणानामनीकमग्रभूतं तद्वच्छिघ्रगामी मित्रस्याहरभिमानिनो देवस्य गर्भो
+> गर्भवदंतर्वर्तमानः । अहनि हि रथः संचरति । वरुणस्य रात्र्यभिमानिदेवस्य
+> नाभिर्नाभिस्थानीयः । नाभिर्यथा देहमध्यॆ नैश्चल्येनावतिष्ठते तद्वद्रात् क्वचिदेव
+> सितः । हे देव द्योतमान रथ य उक्तगुणः स तादृशस्त्वमिमां नोऽस्मदीयां
+> हव्यदातिं हविर्दानवतीं यागक्रियां जुषाणः सेवमानः सन् हव्या हव्यान्यस्मदीयानि हवींषि प्रति गृभाय । प्रतिगृहाण ॥
+
+##### Gist of the bhāṣya
+
+The chariot which, in the manner stated, is Indra's thunderbolt, that is, a part of the thunderbolt, is the अनीकं (*anīkaṃ*), the front, of the Maruts, the troops of gods so named; like it, it is swift-going. It is the गर्भः (*garbhaḥ*) of Mitra, the deity presiding over the day, abiding within him as in a womb; for the chariot moves about in the day. It is the नाभिः (*nābhiḥ*) of Varuṇa, the deity presiding over the night, that is, it stands in the place of the navel: as the navel stays motionless in the middle of the body, so at night it stays in some one place.**NOTE** O shining chariot-deity, you who are of the qualities stated, accepting this our sacrificial act that gives oblations, accept our oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—shining one
+- रथ (*ratha*)—O god, the presiding deity of the chariot
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- वज्रः (*vajraḥ*)—being a part of the thunderbolt
+- मरुतां (*marutāṃ*)—of the Maruts
+- अनीकं (*anīkaṃ*)—being the leader
+- मित्रस्य (*mitrasya*)—for the god Mitra
+- गर्भः (*garbhaḥ*)—being the one in the middle
+- वरुणस्य (*varuṇasya*)—for the god Varuṇa
+- नाभिः (*nābhiḥ*)—being the one who stands in the place of the navel
+- सः (*saḥ*)—you
+- नः (*naḥ*)—offered by us
+- इमां (*imāṃ*)—this
+- हव्यदातिं (*havyadātiṃ*)—sacrificial act
+- जुषाणः (*juṣāṇaḥ*)—enjoying
+- हव्या (*havyā*)—the oblations
+- प्रति गृभाय (*prati gṛbhāya*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O shining god, presiding deity of the chariot, you who are a part of Indra's thunderbolt, the leader of the Maruts, the embryo of the god Mitra and the navel of the god Varuṇa, enjoying this sacrificial act offered by us, accept the oblations.
+
+##### English translation
+Do you, divine chariot, who are the thunderbolt of Indra, the precursor of the Maruts, the embryo of Mitra, the navel of Varuna, propitiated by this our sacrifice, accept the oblation.
+
+### Printed p. 222
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ मनुतां॒ विस्मि॑तं॒  ॑
+> जगत् ।  
+> स दुं॑दुभे स॒जूरिंद्रे॑ण दे॒वैर्दू॒राद्दवी॑यो॒ अप॑ सेध॒  ॑
+> शत्रून् ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । श्वासय । पृथिवीं । उत । द्यां । पुरुत्रा । ते । मनुतां । विस्मितं । जगत् ।  
+> सः । दुंदुभे । सजूः । इंद्रेण । देवैः । दूरात् । दवीयः । अप । सेध ।  
+> शत्रून् ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परेण तृचेन संग्रामे दुंदुभिरभिमर्शनीयः । सूत्रितं च । उप श्वासय
+> पृथिवीमुत द्यामिति तृचेन दुंदुभिमभिमृशेत् । आ. गृ. ३-१२-१७ । इति ॥
+> हे दुंदुभे पृथिवीमुतापि च द्यां दिवमुप श्वासय । आत्मीयेन जयघोषेणाश्वासय । यथा लोकद्वयं त्वदीयेन शब्दीनापूरितं भवति तादृशं शब्दं
+> कुर्वित्यर्थः । अपि च विस्थितं विशेषेण स्थितं स्थावरं जंगमं चोभयविधं
+> प्राणिजातं ते त्वदीयं शब्दं पुरुत्रा बहुधा मनुतां । मन्यतां । जानातु ।
+> हे दुंदुभे स त्वमिंद्रेणान्वैर्देवैश्च सजूः सह दूराद्दवीयो दूरादपि
+> दूरतॆरं शत्रुनस्मदीयानप सेध । आपगमय! अत्र निरुक्तं। दुंदुभिरिति शब्दानुकरणं
+> द्रुमो भिन्न इति वा दुंदुभ्यतेर्वा स्याद्वधकर्मणः । नि. ९-१२ । इत्यादि ॥
+
+##### Gist of the bhāṣya
+
+In battle the dundubhi is to be touched with the following tṛca. It is laid down in the sūtra: the dundubhi is to be touched with the tṛca beginning उप श्वासय (*upa śvāsaya*) (Ā. Gṛ. 3-12-17)**NOTE**. O dundubhi, make the earth and also heaven draw breath: reassure them with your own cry of victory; make such a sound that both worlds are filled with your sound. This is the meaning. Further, all living beings, both the standing (the immovable) and the moving, who stand in their various ways, should in many ways (पुरुत्रा (*purutrā*), that is, बहुधा (*bahudhā*)) take note of your sound; let them know it. O dundubhi, you, united with Indra and the other gods, drive away our enemies from far, from farther than far; make them go away. Here the Nirukta says: शब्दानुकरणं द्रुमो भिन्न इति वा दुंदुभ्यतेर्वा स्याद्वधकर्मणः (*śabdānukaraṇaṃ drumo bhinna iti vā duṃdubhyatervā syādvadhakarmaṇaḥ*) (Ni. 9-12).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दुंदुभे (*duṃdubhe*)—O dundubhi, special instrument of war so named
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- उत (*uta*)—and
+- द्यां उप (*dyāṃ upa*)—the world of heaven (so as to pervade it fully)
+- श्वासय (*śvāsaya*)—make a loud sound
+- विस्थितं (*visthitaṃ*)—that which stands firm
+- जगत् (*jagat*)—that which is of the nature of the moving; the beings of the two kinds
+- ते (*te*)—your sound
+- पुरुत्रा (*purutrā*)—in many ways
+- मनुतां (*manutāṃ*)—let them know; (O dundubhi)
+- सः (*saḥ*)—you, the famous one
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- देवैः (*devaiḥ*)—with other gods
+
+### Printed p. 223
+- सजूः (*sajūḥ*)—united
+- दूराद्दवीयः (*dūrāddavīyaḥ*)—even though at the greatest distance
+- शत्रून् (*śatrūn*)—the enemies
+- अप सेध (*apa sedha*)—drive them away and make them vanish
+
+##### भावार्थ (Bhāvārtha)
+
+O dundubhi, special instrument of war so named, make a loud sound so as to pervade fully the earth and the world of heaven. May the beings of the two kinds, the immovable and the moving, know your sound in many ways. O dundubhi, the famous one, united with Indra and the other gods, drive away the enemies and make them vanish, even though they be at the greatest distance.
+
+##### English translation
+War drum, fill with your sound both heaven and earth; and let all things, fixed or moveable, be aware of it: do you, who are associated with Indra and the gods, drive away our foes to the remotest distance.
+
+##### विशेषविषयगळु (Special Topics)
+
+In time of battle the dundubhi (the nagāri drum) is to be touched with the tṛca (three Ṛks) beginning उप श्वासय (*upa śvāsaya*), as is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra: उप श्वासय पृथिवीमुत द्यामिति तृचेन दुंदुभिमभिमृशेत् (*upa śvāsaya pṛthivīmuta dyāmiti tṛcena duṃdubhimabhimṛśet*) (Ā. Gṛ. 3-12-17)**NOTE**.
+
+In the course of explaining the meaning of the word dundubhi, Yāska has given a nirvacana for this Ṛk:
+
+दुंदुभिः । दुंदुभिरिति शब्दानुकरणं । द्रुमो भिन्न इति वा । दुंदुभ्यतेर्ना स्याच्छब्दकर्मणः ॥ तस्यैषा भवति ॥ (*duṃdubhiḥ | duṃdubhiriti śabdānukaraṇaṃ | drumo bhinna iti vā | duṃdubhyaternā syācchabdakarmaṇaḥ ‖ tasyaiṣā bhavati ‖*)
+
+उप श्वासय पृथिवीं च दिवं च बहुधा ते घोषं मन्यतां विष्ठितं स्थावरं जंगमं च यत् स दुंदुभे सहजोषण इंद्रेण च देवेभ्यश्च दूरात् दूरतरमपसेध शत्रून् ॥ (*upa śvāsaya pṛthivīṃ ca divaṃ ca bahudhā te ghoṣaṃ manyatāṃ viṣṭhitaṃ sthāvaraṃ jaṃgamaṃ ca yat sa duṃdubhe sahajoṣaṇa iṃdreṇa ca devebhyaśca dūrāt dūrataramapasedha śatrūn ‖*) (Ni. 9-13)**NOTE**
+
+Dundubhi means the nagāri drum; because it makes the sound dhuṃ dhuṃ, it has come by the name dundubhi. Or else, drumas means a tree; because this is made by splitting and cutting it, it is named dundubhi. Or it may also be derived from the word दुंदुभ्य (*duṃdubhya*), which means making a sound.
+
+### Printed p. 224
+O dundubhi, with your sound make the earth and heaven pervaded and filled, that is, let your firm sound pervade the earth and the intermediate region. May all things, of the nature of the moving and the unmoving, or all beings, know you (your sound). And, O dundubhi, you, together with Indra and the gods, make our enemies flee far and farther, that is, very far. This is the main sense of the nirvacana.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ क्रं॑दय॒ बल॒मोजो॑ न॒ आ धा॒ निः ष्ट॑निहि दुरि॒ता बाध॑मानः ।  
+> अप॑ प्रोथ दुंदुभे दु॒च्चुना॑ इ॒त इंद्र॑स्य मु॒ष्टिर॑सि वी॒ळय॑स्व ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । क्रंदय । बलं । ओजः । नः । आ । धाः । निः । स्तनिहि । दुः इता । बाधमानः ।  
+> अप । प्रोथ । दुंदुभे । दुच्चुनाः । इतः । इंद्रस्य । मुष्टिः । असि । वीळयस्व । ३०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दुंदुभे आ क्रंदय । अस्मच्छत्रून्नोदय । बलं सेनारूपमोजः
+> शरीरबलं च नोऽस्मभ्यमा धाः । आधेहि । प्रयच्छ । कथा दुरिता दुरितानि दुर्गमनानि
+> बाधमानो हिंसंस्त्वं निः स्तनिहि । नितरां शब्दं कुरु ॥ स्तन शब्द इति धातुः ॥
+> हे दुंदुभे दुच्चना अस्मद्दुःखहेतुभूतं शुनं सुखं यासां तादृशीः शत्रुसेना
+> इतोऽस्मत्स्थानादप प्रोथ । बाधस्व । त्वं चेंद्रस्य मुष्टिरसि । मुष्टिरिव शूत्रोणां
+> हंता भवसि । अतोऽस्मान्वीळयस्व । दृढीकुरु ॥
+
+##### Gist of the bhāṣya
+
+O dundubhi, आ क्रंदय (*ā kraṃdaya*): urge on our enemies. Give us (आ धाः (*ā dhāḥ*): bestow, grant) strength (बलं (*balaṃ*)) in the form of an army and bodily strength (ओजः (*ojaḥ*)). How? Harassing, that is, hurting, the दुरिता (*duritā*), the hard-to-traverse (misfortunes), you thunder aloud (निः स्तनिहि (*niḥ stanihi*): make a sound continuously). The root is स्तन (*stana*), in the sense of sound. O dundubhi, those armies of enemies (दुच्चना (*duccanā*)) whose happiness (शुनं (*śunaṃ*), that is, सुखं (*sukhaṃ*)) is the cause of sorrow to us, drive away (अप प्रोथ (*apa protha*): repel) from this, our place. And you are Indra's fist; like a fist you are the slayer of the enemies. Therefore make us firm, make us strong (वीळयस्व (*vīḷayasva*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दुंदुभे (*duṃdubhe*)—O dundubhi
+- आ क्रंदय (*ā kraṃdaya*)—destroy our enemies
+- बलं (*balaṃ*)—the strength in the form of an army
+- ओजः (*ojaḥ*)—our bodily strength
+- नः (*naḥ*)—to us
+- आ धाः (*ā dhāḥ*)—bestow
+- दुरिता (*duritā*)—the enemies of sinful mind
+- बाधमानः (*bādhamānaḥ*)—harassing
+- निः स्तनिहि (*niḥ stanihi*)—make a loud sound
+- दुच्चुनाः (*duccunāḥ*)—the armies of enemies that cause us sorrow
+- इतः (*itaḥ*)—from this place
+- अप प्रोथ (*apa protha*)—drive far away
+- त्वं (*tvaṃ*)—you indeed
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- मुष्टिः असि (*muṣṭiḥ asi*)—you are of the form of a fist
+- वीळयस्व (*vīḷayasva*)—(therefore) make us strong
+
 ---
 
-**Progress note:** Done through printed p. 218. Sūkta 47 Ṛks 21-26 (Prastoka dānastuti, chariot verse)
+**Progress note:** Done through printed p. 224. Ṛk 26 special topics; Ṛk 27-30 (chariot, drum)
