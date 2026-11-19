@@ -23285,6 +23285,258 @@ Firm-set Heaven and Earth, the mortal who has offered (oblations) for your strai
 > उ॒र्वि पृ॒थ्वी हो॑तृ॒वूर्ये॑ पु॒रोहि॑ते॒ ते इद्विप्रा॑ ईळते  ॒॒॑
 > सुम्ममिष्टये ॥ ४ ॥
 
+### Printed p. 527
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतेन । द्यावापृथिवी इति । अभिवृते इत्यभिवृते । घृतश्रिया । घृतपृचा ।  
+> घृतवृधा ।  
+> उर्वी इति । पृथ्वि इति । होतृवूर्ये । पुरोहिते इति पुरःहिते । ते इति । इत् ।  
+> विप्राः । ईळते । सुम्नं । इष्टये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यावापृथिवी द्यावापृथिव्यः धृतेनोदकेनाभिवृते आवृते भवतः । धृतश्रियोदकं श्रयंत्र्य च धृतपृचा धृतसंपृक्ते च धृतावृधा धृतं वर्धयंत्र्य
+> चोर्वी विस्तीर्णे पृथ्वी प्रथिते च भवतः । होतृवूर्ये यज्ञे पुरोहिते
+> यजमानैः पुरस्कृते च भवतः । विप्राः प्राज्ञाः स्तोतारस्ते इत् द्यावापृथिव्यावेवेष्टये यज्ञाय । होत्रेष्टिरिति यज्ञनामसु पाठात् । सुम्मं सुखमीळते ।
+> याचंते । सुखे सति हि यागाः प्रवर्तंते ॥
+
+##### Gist of the bhāṣya
+
+Heaven and Earth are enveloped in धृतेन (*dhṛtena*), water. They resort to water, are mingled with water, and make water grow. They are wide and widely known. They are placed first by the sacrificers in the sacrifice (होतृवूर्ये (*hotṛvūrye*)). The wise praisers ask for happiness (सुम्नं (*sumnaṃ*)) from Heaven and Earth alone, for the sacrifice (इष्टये (*iṣṭaye*); the word is read among the names of the sacrifice), for when there is happiness the sacrifices go on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- धृतेन (*dhṛtena*)—with water
+- अभिवृते (*abhivṛte*)—are enveloped
+- धृतश्रिया (*dhṛtaśriyā*)—being a refuge for water
+- धृतपृचा (*dhṛtapṛcā*)—being satisfied with water
+- धृतावृधा (*dhṛtāvṛdhā*)—being those who increase water
+- उर्वी (*urvī*)—being extended
+- पृथ्वि (*pṛthvi*)—and having wide fame, they are
+- होतृवूरै (*hotṛvūrai*)—in the sacrifice
+- पुरो हिते (*puro hite*)—they are worthy of the first honour
+- विप्राः (*viprāḥ*)—the wise praisers
+- ते इत् (*te it*)—from Heaven and Earth alone
+- इष्टये (*iṣṭaye*)—for the sake of the sacrifice
+- सुम्मं (*summaṃ*)—happiness
+- ईळते (*īḷate*)—they ask
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and Earth are enveloped in water. They are a refuge for water, are satisfied with water, increase water, and have an extended form and fame. In the sacrifice they are worthy of the first honour. The wise praisers ask for happiness from Heaven and Earth alone, for the sake of the sacrifice.
+
+##### English translation
+You are surrounded, Heaven and Earth, by water : you are the
+asylum of water : imbued with water : the augmenters of water : vast and
+
+### Printed p. 528
+
+manifold ; you are first propitiated in the sacrifice : the pious pray to you
+for happiness, that the sacrifice (may be celebrated).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मधु॑ नो॒ द्यावा॑पृथि॒वी मि॑मिक्षतां मधु॒श्चुता॑ मधु॒दुघे॒  ॑
+> मधु॑व्रते ।  
+> दधा॑ने य॒ज्ञं द्रवि॑णं च दे॒वता॒ महि॒ श्रवो॒ वाज॑म॒स्मे  ॒॑
+> सुवीर्यं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मधु । नः । द्यावापृथिवी इति । मिमिक्षतां । मधुश्चता । मधुदुघे इति मधुदुघे । मधुव्रते इति मधुव्रते ।  
+> दधाने इति । यज्ञं । द्रविणं । च । देवता । महि । श्रवः । वाजं । अस्मे इति ।  
+> सुवीर्यं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मधुश्चुतोदकस्य क्षारयित्र्यौ मधुदुघे उदकदोग्र्यौ मधुव्रते
+> उदकार्थकर्माण् देवता देवताभूते आस्मे आस्मा 2 यज्ञं द्रविणं धनं च महि
+> महत् श्रवो यशो वाजमन्नं सुवीर्यं सुवीरत्वं च दधाने ददत्यौ
+> द्यावापृथिवी द्यावापृथिव्यौ नोऽस्मान्मधु मधुना ॥ तृतीयैकवचनस्य लुक् ॥
+> मिमिक्षतां । सिंचतां ॥
+
+##### Gist of the bhāṣya
+
+The two are मधुश्चुता (*madhuścutā*), causing water to flow; मधुदुघे (*madhudughe*), milkers of water; मधुव्रते (*madhuvrate*), whose works are for the sake of water; देवता (*devatā*), divine. They give us the sacrifice and wealth, great fame, food and good heroism. May Heaven and Earth sprinkle us with मधु (*madhu*), water (मिमिक्षतां (*mimikṣatāṃ*), may they sprinkle).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुश्चुता (*madhuścutā*)—who cause water to flow
+- मधुदुघे (*madhudughe*)—who milk water
+- मधुव्रते (*madhuvrate*)—who have works for the sake of water
+- देवता (*devatā*)—who are divine in nature
+- अस्मे (*asme*)—to us
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- द्रविणं (*draviṇaṃ*)—wealth
+- महि (*mahi*)—great
+- श्रवः (*śravaḥ*)—fame
+- वाजं च (*vājaṃ ca*)—and food
+- सुवीर‍्यं (*suvīryaṃ*)—and excellent vigour
+- दधाने (*dadhāne*)—who give
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- नः (*naḥ*)—us
+- मधु (*madhu*)—with water
+- मिमिक्षतां (*mimikṣatāṃ*)—may they drench
+
+### Printed p. 529
+
+##### भावार्थ (Bhāvārtha)
+
+May Heaven and Earth, who cause water to flow, who milk water, who have works for the sake of water, who are divine in nature, and who give us the sacrifice, wealth, great fame, food and excellent vigour, drench us with water (with rain).
+
+##### English translation
+May Heaven and Earth, the effusers of water, the milkers of water, dischargers of the functions of water, divinities, the promoters of sacrifice, the bestowers of wealth, of renown, of food, of male posterity, combine together.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊर्जं॑ नो॒ द्यौश्च॑ पृथि॒वी च॑ पिन्नतां पि॒ता मा॒ता वि॑श्व॒विदा॑  ॒॑
+> सुदंससा ।  
+> सं॒र॒रा॒णे रोद॑सी वि॒श्वशं॑भुवा स॒निं वाजं॑ र॒यिम॒स्मे  ॑
+> समिन्वतां ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्जं । नः । द्यौः । च । पृथिवी । च । पिन्नतां । पिता । माता । विश्वविदा । सुदंससा ।  
+> संरराणे इति संरराणे । रोदसी इति । विश्वशंभुवा । सनिं । वाजं । रयिं ।  
+> अस्मे इति । सं । इन्वतां ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पिता वर्षस्य सेक्तृत्वेन पितृभूता द्यौश्च माता धारकत्वेन मातृभूता
+> पृथिवी चोभे नोऽस्मभ्यमूर्जमन्नं पिन्वतां । यच्छतां । किंच विश्वविदा विश्वं
+> जानंत्या विश्वस्य वेदयित्र्य वा सुदंससा सुकर्माण् संरराणे परस्परोपकार्योपकारकभावेन सह रममाणे विश्वशंभुवा सर्वस्य भावयित्र्य रोदसी
+> द्यावापृथिव्यावस्मे अस्मासु सनिं संभजनीयं पुत्रादिकं वाजं बलं रयिं धनं च
+> समिन्वतां । संप्रेरयतां ॥
+
+##### Gist of the bhāṣya
+
+Heaven, the father because he sprinkles the rain, and Earth, the mother because she bears, both give us ऊर्जं (*ūrjaṃ*), food (पिन्वतां (*pinvatāṃ*), may they bestow). Moreover, the two are विश्वविदा (*viśvavidā*), knowing all or making all known; सुदंससा (*sudaṃsasā*), of good works; संरराणे (*saṃrarāṇe*), delighting together in the relation of helper and helped; विश्वशंभुवा (*viśvaśaṃbhuvā*), bringing about the being of all. May Heaven and Earth send to us सनिं (*saniṃ*), what is to be enjoyed, sons and the rest, and वाजं (*vājaṃ*), strength, and रयिं (*rayiṃ*), wealth (समिन्वतां (*saminvatāṃ*), may they send forth).
+
+### Printed p. 530
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पिता (*pitā*)—Heaven, in the form of a father
+- द्यौश्च (*dyauśca*)—the deity of the heavenly world
+- माता (*mātā*)—and Earth, in the form of a mother
+- पृथिवी च (*pṛthivī ca*)—the earth also
+- न॥ (*na‖*)—to us
+- ऊर्जं (*ūrjaṃ*)—food that gives strength
+- पिन्वतां (*pinvatāṃ*)—may they supply
+- विश्वविदा (*viśvavidā*)—who know all
+- सुदंससा (*sudaṃsasā*)—who have good works
+- संरराणे (*saṃrarāṇe*)—who delight together
+- विश्वशंभुवा (*viśvaśaṃbhuvā*)—who bring good to the whole world
+- रोदसी (*rodasī*)—Heaven and Earth
+- अस्मे (*asme*)—in us
+- सनिं (*saniṃ*)—sons and the rest, fit to be enjoyed
+- वाजं (*vājaṃ*)—strength
+- रयिं (*rayiṃ*)—wealth
+- समिन्वतां (*saminvatāṃ*)—may they fill up and give
+
+##### भावार्थ (Bhāvārtha)
+
+May Heaven, the deity of the heavenly world in the form of a father, and Earth, in the form of a mother, supply us with food that gives strength. May Heaven and Earth, who know all, who have good works, who delight together and who bring good to the whole world, fill up and give us sons and the rest that are fit to be enjoyed, strength and wealth.
+
+##### English translation
+May father Heaven, may mother Earth, who are all knowing, and
+doers of good deeds, grant us sustenance ; may Heaven and Earth mutually
+co-operating and promoting the happiness of all, bestow upon us posterity,
+food and riches.
+
+## Sūkta 71 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदु प्य देव इति षडृचं दशमं सूक्तं भरद्वाजस्यार्षं सवितृदेवताकं ।
+> आद्यास्तिस्रो जगत्यश्चतुर्थाद्यास्ति स्रस्त्रिष्टुभः । तथा चानुक्रांतं । उदु प्य सावित्रं
+> त्रित्रिष्टुबंतमिति ॥ सूक्तविनियोगो लैंगिकः ॥ चातुर्विंशिकेऽहनि वैश्वदेवशस्त्र
+> आद्यस्तृचः सावित्रसूक्तस्थान आवपनीयः । सूत्रितं च । उदु प्य देवः सविता
+> हिरण्ययेति तिस्रस्ते हि द्यावापृथिवी । आ. ७-४ । इति ॥ बृहस्पतिसवेऽपि वैश्वदेवशस्त्रे
+> सावित्रसूक्तस्थान एष तृचः । सूत्रितं च । उदु प्य देवः सविता हिरण्ययेत्यनूत्तिष्ठेत् । आ. ९-५ । इति ॥ व्यूळ्ले पंचमेऽहनि वैश्वदेवशस्त्र उदु प्य देवः सविता
+> दमूना इति तृचः सावित्रनिविद्धानार्थः । सूत्रितं च । उदु प्य देवः सविता दमूना
+
+### Printed p. 531
+
+> इति तिस्रः । आ. ८-८ । इति ॥ वैश्वदेवपर्वणि सावित्रद्वादशकपालस्य वाममद्येति
+> याज्या । सूत्रितं च । वाममद्य सवितर्वाममु श्वः पूषन्तव व्रते वयं ।
+> आ. २-१६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उदु प्य देव (*udu pya deva*) has six ṛks and is the tenth sūkta. Bharadvāja is its seer and Savitṛ its deity. The first three ṛks are in Jagatī and the three from the fourth are in Triṣṭubh. So it is given in the Anukramaṇikā: उदु प्य सावित्रं त्रित्रिष्टुबंतमिति (*udu pya sāvitraṃ tritriṣṭubaṃtamiti*) **GLOSS**. The use of the sūkta is by the indication of the text. On the Cāturviṃśika day, in the Vaiśvadeva-śastra, the first tṛca is to be inserted in the place of the sūkta of Savitṛ. It is laid down: उदु प्य देवः सविता हिरण्ययेति तिस्रस्ते हि द्यावापृथिवी (*udu pya devaḥ savitā hiraṇyayeti tisraste hi dyāvāpṛthivī*) (Ā. 7-4) **GLOSS**. In the Bṛhaspatisava also, in the Vaiselevadeva-śastra, this tṛca stands in the place of the sūkta of Savitṛ. It is laid down: उदु प्य देवः सविता हिरण्ययेत्यनूत्तिष्ठेत् (*udu pya devaḥ savitā hiraṇyayetyanūttiṣṭhet*) (Ā. 9-5) **GLOSS**. In the Vyūḷle (rite), on the fifth day, in the Vaiśvadeva-śastra, the tṛca उदु प्य देवः सविता दमूना (*udu pya devaḥ savitā damūnā*) is for the nivid-dhāna of Savitṛ. It is laid down: उदु प्य देवः सविता दमूना इति तिस्रः (*udu pya devaḥ savitā damūnā iti tisraḥ*) (Ā. 8-8) **GLOSS**. **NOTE** In the Vaiśvadeva-parvan, the yājyā of the twelve-potsherd cake for Savitṛ is the ṛk beginning वाममद्य (*vāmamadya*). It is laid down: वाममद्य सवितर्वाममु श्वः पूषन्तव व्रते वयं (*vāmamadya savitarvāmamu śvaḥ pūṣantava vrate vayaṃ*) (Ā. 2-16) **GLOSS**.
+
+##### Anuvāda
+
+This sūkta उदु ष्य देवः (*udu ṣya devaḥ*) is the tenth sūkta in the sixth anuvāka. It has six ṛks. Bharadvāja is the seer of this sūkta; Savitṛ is the deity; the first three ṛks of this sūkta are in the Jagatī metre; the last three, from the fourth, are in the Triṣṭup metre. In the Anukramaṇikā it is said: उदु ष्य सावित्रं त्रित्रिष्टुबंतं (*udu ṣya sāvitraṃ tritriṣṭubaṃtaṃ*) **GLOSS**. The use of the sūkta is by the indication of the text. On the day of the sacrifice called Cāturviṃśaka, in the Vaiśvadeva-śastra mantras, the first three ṛks of this sūkta are to be recited, for insertion, in the place of the sūkta that has Savitṛ as deity; this is set out by the Āśvalāyana-śrauta-sūtra, in the sūtra उदु ष्य देवः सविता हिरण्ययेति तिस्रस्तेहि द्यावापृथिवी (*udu ṣya devaḥ savitā hiraṇyayeti tisrastehi dyāvāpṛthivī*) (Ā. 7-4) **GLOSS**. In the sacrifice called Bṛhaspatisava also, at the time of reciting the Vaiśvadeva-śastra mantras, this tṛca (the first three ṛks of the sūkta) is to be given up in the place of the sūkta that has Savitṛ as deity; this is set out by the Āśvalāyana-śrauta-sūtra, in the sūtra उदु ष्य देवः सविता हिरण्येयेत्यनूत्तिष्ठेत् (*udu ṣya devaḥ savitā hiraṇyeyetyanūttiṣṭhet*) (Ā. 9-5) **GLOSS**. On the fifth day of the sacrifice called Vyūḷva, when reciting the Vaiśvadeva-śastra mantras, the tṛca of the ṛks 4-6 of this sūkta is to be recited, inserted in the middle of the sūkta that has Savitṛ as deity, as the nivid-dhāna sūkta; this is set out by the Āśvalāyana-śrauta-sūtra, in the sūtra उदु ष्य देवः सविता दमूना इति तिस्र? (*udu ṣya devaḥ savitā damūnā iti tisra?*) (Ā. 8-8) **GLOSS**. In the Vaiśvadeva-parvan oblation, in the twelve-potsherd oblation that has Savitṛ as deity, the sixth ṛk, beginning वाममद्य (*vāmamadya*), is to be recited as the yājyā mantra; this is set out by the Āśvalāyana-śrauta-sūtra, in the sūtra वाममद्य सवितर्वाममुत्वः पूषन्तव व्रते वयं (*vāmamadya savitarvāmamutvaḥ pūṣantava vrate vayaṃ*) (Ā. 2-16) **GLOSS**.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 71 **NOTE**
+- Aṣṭaka 25 **NOTE**; Adhyāya 1; Varga 15
+- Number of ṛks in the sūkta: 6
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: सविता (*savitā*)
+- Metre: 1-3. जगती (*jagatī*); 4-6. त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ ष्य दे॒वः स॑वि॒ता हि॑र॒ण्यया॑ बा॒हू अ॑यंस्त॒ सव॑नाय  ॒॑
+> सु॒क्रतुः॑ ।
+
+### Printed p. 532
+
+> घृतेन पाणी अभि पुष्णुते मखो युवा सुदक्षो रजसो  
+> विधर्मणि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । स्यः । देवः । सविता । हिरण्यया । बाहू इति । अयंस्त । सवनाय।  
+> सुक्रतुः ।  
+> घृतेन । पाणी इति । अभि । पुष्णुते । मखः । युवा । सुदक्षः । रजसः । विधर्मणि॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतमानः सुक्रतुः सुकर्मा स्य स प्रसिद्धः सविता हिरण्यया
+> हिरण्मयावात्मीयौ बाहू सवनाय सुवनाय दानाय वोदयंस्त । उद्यच्छति ।
+> किंच मखो मंहनीयो युवा नित्यतरुणः सुदक्षः सुप्रज्ञो रजसो लोकस्योदकस्य वा विधर्मणि विधारणे स्थितो घृतेनोदकेन पूर्णौ स्वौ पाणी अभि
+> पुष्णुते । अभिप्रेरयति ॥
+
+##### Gist of the bhāṣya
+
+The shining, good-working, well-known Savitṛ stretches up his golden arms for सवनाय (*savanāya*), for impelling, that is, for giving. Moreover, he who is to be honoured, ever young, of good understanding, standing in the upholding of the रजसः (*rajasaḥ*), of the world or of water, sends out his two hands, full of घृतेन (*ghṛtena*), water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the radiant
+- सुक्रतुः (*sukratuḥ*)—the one of good works
+- स्यः (*syaḥ*)—the well-known
+- सविता (*savitā*)—god Savitṛ
+- हिरण्यया (*hiraṇyayā*)—his golden
+- बाहू (*bāhū*)—arms
+- सवनायॆ (*savanāyè*)—for excellent giving
+- उदयंस्त (*udayaṃsta*)—lifts up and stretches out
+- मखिः (*makhiḥ*)—the one who is to be honoured
+- युवा (*yuvā*)—ever young
+- सुदक्षः (*sudakṣaḥ*)—of excellent understanding
+- रजसः (*rajasaḥ*)—of the worlds
+- विधर्मणि (*vidharmaṇi*)—engaged in manifold works, Savitṛ
+- धृतेन (*dhṛtena*)—full of water
+- पाणी (*pāṇī*)—his arms
+- अभि पुष्णुते (*abhi puṣṇute*)—extends fully
+
+##### भावार्थ (Bhāvārtha)
+
+The radiant, good-working, well-known god Savitṛ lifts up and stretches out his golden arms for excellent giving. Savitṛ, who is to be honoured, ever young, of excellent understanding and engaged in the manifold works of the worlds, extends fully his arms, full of water.
+
 ---
 
-**Progress note:** Done through printed p. 526. Mandala 6 sukta 69 Rk 8 end; sukta 70 Rks 1-4
+**Progress note:** Done through printed p. 532. Mandala 6 sukta 70 Rks 4-6; sukta 71 Rk 1
