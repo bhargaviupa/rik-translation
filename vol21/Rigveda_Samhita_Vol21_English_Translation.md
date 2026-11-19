@@ -29704,6 +29704,274 @@ O Vaiśvānara, you, the renowned one, being born in the highest, remote atmosph
 - दशस्यन् (*daśasyan*)—granting desired objects
 - अभि क्रस् (*abhi kras*)—you roar in the form of lightning
 
+### Printed p. 703
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of the form of Vaiśvānara, you, the renowned one, born in the exceedingly remote atmosphere in the form of the sun, drink up the water like Vāyu (suck it up). O Agni of the form of Jātavedas, you again, producing the waters in the form of rain, and granting desired objects to the sacrificer who is of the form of a son, roar in the form of lightning.
+
+##### English translation
+Born in the highest heaven, ever drink the (Soma) beverage like Vayu: generating the waters, you thunder, granting (his wishes) to your offspring, the worshipper.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताम॑ग्ने अ॒स्मे इष॒मेर॑यस्व॒ वैश्वा॑नर द्यु॒मतीं॑ जातवेदः ।  
+> यया॒ राधः॒ पिन्व॑सि विश्ववार पृ॒थु श्रवो॑ दा॒शुषे॒ मर्त्या॑य॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तां । अग्ने । अस्मे इति । इषं । आ । ईरयस्व । वैश्वानर । द्युमतीं । जातवेदः ।  
+> यया । राधः । पिन्वसि । विश्ववार । पृथु । श्रवः । दाशुषे । मर्त्याय ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातप्रज्ञ वैश्वानर विश्वनरहिताग्ने तामिषमेषणीयां वृष्टिं
+> द्युमतीं दीप्तिमतीमस्मे अस्मभ्यमेरयस्व । प्रेरयस्व । वृष्टा त्रैलोक्यं
+> द्योतते हि । यद्वा । द्युमतीं तामिषमन्नमेरयस्व । कथा च श्रूयते । तस्माद्यस्यैवेह भूयिष्ठमन्नं भवति स एव भूयिष्ठं लोके विराजति । ऐ. ब्रा. १-५ ।
+> इति । अथवेषमेषणीयां तां द्युमतीं भास्वतीं दीप्तिमेरयस्व । ययेषा
+> राधो धनं पिन्वसि पालयसि । अपि च हे विश्ववार विश्वैर्वर्णीयाग्ने पृथु विस्तीर्णं
+> श्रवो यशो दाशुषे मर्त्याय यजमानाय पिन्वसि ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, one of acquired wisdom, O Vaiśvānara, Agni beneficial to all men: send to us that desirable इषं (*iṣaṃ*), that is, rain, which is bright; for the rain makes the three worlds shine. Or else: send that bright food. And so it is heard: तस्माद्यस्यैवेह भूयिष्ठमन्नं भवति स एव भूयिष्ठं लोके विराजति । (*tasmādyasyaiveha bhūyiṣṭhamannaṃ bhavati sa eva bhūyiṣṭhaṃ loke virājati |*) (Ai. Brā. 1-5) **GLOSS** Or else: send that desirable, shining brightness, by which you foster wealth. And further, O विश्ववार (*viśvavāra*), Agni chosen by all, you foster for the mortal who makes offerings, the sacrificer, wide-spread fame.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—of the form of Jātavedas
+- वैश्वानर (*vaiśvānara*)—and of the form of Vaiśvānara
+- अग्ने (*agne*)—O Agni
+- यया (*yayā*)—by which rain (by which food)
+- राधः (*rādhaḥ*)—all wealth
+- पिन्वसि (*pinvasi*)—you foster
+
+### Printed p. 704
+
+- द्युमतीं (*dyumatīṃ*)—bright
+- तां (*tāṃ*) इषं (*iṣaṃ*)—that same rain (the food)
+- अस्मे (*asme*)—for us
+- एरयस्व (*erayasva*)—send forth
+- विश्वानर (*viśvānara*)—O Agni, beneficial to all **NOTE**
+- पृथु (*pṛthu*)—wide-spread
+- श्रवः (*śravaḥ*)—fame
+- दाशुषे (*dāśuṣe*)—who offers the oblation
+- मर्त्याय (*martyāya*)—to the man (make it come to him)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of the form of Jātavedas and of the form of Vaiśvānara, send forth for us that same bright rain (food), by which you foster all wealth. O Agni, beneficial to all, make wide-spread fame come to the man who offers the oblation.
+
+##### English translation
+Send to us, Agni, (who are) Vaiswanara Jatavedas, that brilliant sustenance whereby you confer wealth, and (grant), all-desired Agni, abundant food to the mortal, the donor (of the oblation).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं नो॑ अग्ने म॒घव॑द्भ्यः पुरु॒क्षुं र॒यिं नि वाजं॒ श्रुत्यं॑  
+> युवस्व ।  
+> वैश्वा॑नर॒ महि॑ नः॒ शर्म॑ यच्छ रु॒द्रेभि॑रग्ने॒ वसु॑भिः स॒जोषाः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । नः । अग्ने । मघवत् 5भ्यः । पुरुक्षुं । रयिं । नि । वाजं । श्रुत्यं । युवस्व ।  
+> वैश्वानर । महि । नः । शर्म । यच्छ । रुद्रेभिः । अग्ने । वसुभिः । सृजोषाः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मघवद्भो धनवद्भ्यः । हविष्मद्भ्य इत्यर्थः । नोऽस्मभ्यं
+> पुरुक्षुं बह्वन्नं बहुयशस्कं वा तं प्रसिद्धं रयिं श्रुत्यं श्रवणीयं वाजं बलं
+> च नि युवस्व । नितरां मिश्रयस्व । किं च हे वैश्वानर विश्वनरहिताग्ने त्वं रुद्रेभी
+> राध्यैर्वसुभिश्च देवैः सहोषाः सहितश्च सन् नोऽस्मभ्यं महि महत् शर्म सुखं
+> यच्छ । प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, to us who are wealthy, that is, who have oblations, join completely that renowned wealth, rich in food or of great fame, and that praiseworthy strength. And further, O Vaiśvānara, Agni beneficial to all men, being united with the Rudras and the Vasus, the gods, grant to us great happiness. **NOTE**
+
+### Printed p. 705
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to us who are wealthy in the form of oblation
+- नः (*naḥ*)—to us
+- पुरुक्षुं (*purukṣuṃ*)—plentiful food
+- तं (*taṃ*)—and the renowned
+- रयिं (*rayiṃ*)—wealth
+- श्रुत्यं (*śrutyaṃ*)—and famous
+- वाजं (*vājaṃ*)—strength
+- नि युवस्व (*ni yuvasva*)—provide
+- वैश्वानर (*vaiśvānara*)—of the form of Vaiśvānara
+- अग्ने (*agne*)—O Agni
+- रुद्रेभिः (*rudrebhiḥ*)—with the Rudras
+- वसुभिः (*vasubhiḥ*)—and with the gods called Vasus
+- सजोषाः (*sajoṣāḥ*)—being united
+- नः (*naḥ*)—to us
+- महि (*mahi*)—great
+- शर्म (*śarma*)—happiness
+- यच्छ (*yaccha*)—provide and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, provide to us, who possess wealth in the form of oblation, plentiful food, renowned wealth and famous strength. O Agni of the form of Vaiśvānara, united with the Rudras and with the gods called Vasus, provide us with great happiness.
+
+##### English translation
+Bestow upon us who are affluent (in offerings), Agni, ample riches and renowned strength; associated with the Rudras, with the Vasus, grant us, Agni Vaiswanara, infinite happiness.
+
+## Sūkta 6 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र सम्राज इति सप्तर्चं षष्ठं सूक्तं वसिष्ठस्यार्षं । अनुक्रम्यते च । प्र
+> सम्राजः सप्त। वैश्वानरीयं त्वित्युक्तत्पादस्यापि वैश्वानरोऽग्निर्देवता ॥ विनियोगो
+> लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र सम्राज इति (*pra samrāja iti*), of seven ṛks, is the sixth sūkta; it is the vision of Vasiṣṭha. The Anukramaṇikā says: प्र सम्राजः सप्त (*pra samrājaḥ sapta*). Vaiśvānara Agni is the deity. **NOTE** The application is लैंगिकः (*laiṃgikaḥ*).
+
+##### Anuvāda
+
+This sūkta, प्र सम्राजः (*pra samrājaḥ*), is the sixth sūkta in the first anuvāka. In it there are seven ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Vaiśvānara is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: प्र सम्राजः सप्त (*pra samrājaḥ sapta*). The application is laiṅgika.
+
+### Printed p. 706
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 6
+- Aṣṭaka 5; Adhyāya 2; Varga 9
+- Number of ṛks in the sūkta: 7
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: वैश्वानरः (*vaiśvānaraḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॒म्राजो॒ असु॑रस्य॒ प्रश॑स्तिं पुं॒सः कृ॑ष्टी॒नाम॑नु॒माद्य॑स्य ।  
+> इंद्र॑स्येव॒ प्र त॒वस॑स्कृ॒तानि॒ वंदे॑ दा॒रुं वंद॑मानो निवक्कि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । संराजः । असुरस्य । प्रशस्तिं । पुंसः । कृष्णीनां । अनुमाद्यस्य ।  
+> इंद्रस्य इव । प्र । तवसः । कृतानि । वंदे । दारुं । वंदमानः । विवक्मि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दारुं पुरां भेत्तारं वंदे । वंदमानः सन् सम्राजः सर्वस्य भुवनस्येश्वरस्यासुरस्य बलवतः पुंसो वीरस्य । पौंस्यमिति वीर्यमुच्यते । तथा च यास्कः ।
+> पुमान् पुरुमना भवति पुंसशीर्वा । नि. ९-१५ । इति । कृष्णीनां जनानामनुमाद्यस्य
+> स्तुत्यस्य तवसो बलवत इंद्रस्येव तस्य वैश्वानरस्य प्रशस्तिं स्तुतिं कृतानि कर्माणि च
+> प्र विवक्कि । प्रब्रवीमि ॥
+
+##### Gist of the bhāṣya
+
+I bow to Dāru, the splitter of cities. While bowing, I proclaim the praise and the deeds of that Vaiśvānara, who is like Indra, the sovereign of all the world, its lord, strong (असुरस्य (*asurasya*) is glossed "of the strong one"), manly, that is, heroic. Manliness is said to be heroic strength, and so Yāska says: पुमान् पुरुमना भवति पुंसशीर्वा (*pumān purumanā bhavati puṃsaśīrvā*) (Ni. 9-15) **GLOSS** He is worthy of praise by the people, and mighty like Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दारुं (*dāruṃ*)—Agni, who destroys the cities of the enemy
+- वंदे (*vaṃde*)—I bow to
+- वन्दमानः (*vandamānaḥ*)—bowing
+- सम्राजः (*samrājaḥ*)—the universal sovereign
+- असुरस्य (*asurasya*)—the powerful
+- पुंसः (*puṃsaḥ*)—the heroic
+- कृष्णीनां (*kṛṣṇīnāṃ*)—to all the people
+- अनुमाद्यस्य (*anumādyasya*)—extremely venerable
+- तवसः (*tavasaḥ*)—and mighty
+- इंद्रस्येव (*iṃdrasyeva*)—endowed with greatness just like Indra: of that Vaiśvānara Agni
+- प्रशस्तिं (*praśastiṃ*)—the praise
+- कृतानि (*kṛtāni*)—and the excellent deeds
+- प्र विवक्कि (*pra vivakki*)—I recite exceedingly
+
+### Printed p. 707
+
+##### भावार्थ (Bhāvārtha)
+
+I bow to Agni, who destroys the cities of the enemy. While bowing, I recite exceedingly the praise and the excellent deeds of Vaiśvānara Agni, the universal sovereign, powerful, heroic, extremely venerable to all the people, mighty, and endowed with greatness just like Indra.
+
+##### English translation
+I salute the demolisher (of cities), glorifying the excellence of the powerful male, the universal sovereign, who is the reverenced of all men : I proclaim his axploits (which are) like those of the mighty Indra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒विं के॒तुं धा॒सिं भा॒नुमद्रे॑र्हि॒न्वंति॒ शं रा॒ज्यं रोद॑स्योः।  
+> पु॒रं॒द॒रस्य॑ गी॒र्भिरा वि॑वासे॒ग्नेव्र॒तानि॑ पू॒र्व्या म॒हानि॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कविं । केतुं । धासिं । भानुं । अद्रेः । हिन्वंति । शं । राज्यं । रोदस्योः ।  
+> पुरंदरस्य । ग्रीभिः । आ । विवासे । अग्नेः । व्रतानि । पूर्वा । महानि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविं प्राज्ञं केतुं विश्वस्य प्रज्ञापकं धासिमद्रेर्धर्तारमादर्तुः स्तोतुर्वा
+> भानुं भासकं शं सुखकरं रोदस्कोर्द्यावापृथिव्यो राज्यं राजानं वैश्वानरमग्निं हिन्वंति । मदीयाः प्रीणयंति प्रेरयंति वा देवाः । अहं च पुरंदरस्य
+> पुरां दारयितुरग्नेः पूर्व्या पूर्व्याणि पुरातनानि महानि महांति व्रतानि
+> कर्माणि गीर्भिरा विवासे । परिचरामि ॥
+
+##### Gist of the bhāṣya
+
+Those who are mine, the gods, please or urge on Vaiśvānara Agni, the king of heaven and earth: the wise, the one who makes everything known, the sustainer of the honourer or praiser, the illuminator, the giver of happiness. And I serve with praises the ancient, great rites of Agni, the splitter of cities. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविं (*kaviṃ*)—the wise
+- केतुं (*ketuṃ*)—the one who makes known to the world
+- आद्रेः (*ādreḥ*)—of the praiser
+- धासिं (*dhāsiṃ*)—the sustainer
+- भानुं (*bhānuṃ*)—the illuminator
+- शं (*śaṃ*)—the giver of happiness
+- रोदस्योः (*rodasyoḥ*)—to heaven and earth
+- राज्यं (*rājyaṃ*)—and lord: that Vaiśvānara Agni
+- हिन्वंति (*hinvaṃti*)—they delight (they worship)
+
+### Printed p. 708
+
+- पुरंदरस्य (*puraṃdarasya*)—of the destroyer of the cities of the enemy
+- अग्नेः (*agneḥ*)—Agni
+- पूर्वा (*pūrvā*)—the ancient
+- महानि (*mahāni*)—and great
+- व्रतानि (*vratāni*)—rites
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- आ विवासे (*ā vivāse*)—I serve
+
+##### भावार्थ (Bhāvārtha)
+
+The adhvaryus worship and delight Vaiśvānara Agni, who is wise, the giver of vitality to the world, the sustainer of the praiser, the illuminator, the giver of happiness, and the lord of heaven and earth. We praise and serve with hymns the ancient and great deeds of valour of Agni, the destroyer of the cities of the enemy.
+
+##### English translation
+They propitiate the wise, the manifesting, the sustaining, the enlightener of the pious, the giver of happiness, the sovereign of heaven and earth : I glorify with hymns the ancient and mighty works of Agni, the demolisher of cities.
+
+#### Ṛk 3
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्य॑क्र॒तून्गृ॒थिनो॑ मृ॒ध्रवा॑चः प॒णेर॑श्र॒द्धा अ॑वृ॒धा अ॑य॒ज्जान् ।  
+> प्रप्र॒ तान्द स्यो॑र॒ग्निर्वि॑वाय॒ पूर्व॑श्चका॒राप॑रा॒ अय॑ज्यून् ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । अक्रतून् । ग्रथिनः । मृध्रवाचः । पणीन् । अश्रद्धान् । अवृधान् । अयज्ञान् ।  
+> प्रप्र । तान् । दस्यून् । अग्निः । विवाय । पूर्वः । चकार । अपरान् । अयज्यून् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अक्रतूनयज्ञान् ग्रथिनो जल्पकान्मृध्रवाचो हिंसितवचस्कान् पजेन्
+> हणिनामकान्वार्धुषिकानश्रद्धान्यज्ञादिषु श्रद्धारहितानवृधान् स्तुतिभिरग्निमवर्धयतोऽयज्ञान्यज्ञहीनान् शान्दस्यून् वृथा कालस्य नेत्यनग्निः प्रप्र अत्यंतं नि
+> विवाय । निकरां गमयेश् । तदेवाह । अग्निः पूर्वो मुख्यः सन् आयज्यूनयजमानानपरान् जघन्यान् चकार ॥
+
+##### Gist of the bhāṣya
+
+Agni, being foremost, utterly drove down the अयज्ञान् (*ayajñān*), those without sacrifice: the prattlers, those whose speech is injurious, those without faith in sacrifices and the like, those who do not increase Agni with praises, the lacking in sacrifice. **NOTE** The same he states: Agni, being foremost, made the non-sacrificers inferior (अपरान् (*aparān*)).
+
 ---
 
-**Progress note:** Done through printed p. 702. Vol 21 pp. 697-702: Mandala 7 sukta 5 Rk 2 (end) to Rk 7 (Pratipadartha)
+**Progress note:** Done through printed p. 708. Vol 21 pp. 703-708: 7.5 Rk 7 end to Rk 9, 7.6 Rk 1-3
