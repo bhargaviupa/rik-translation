@@ -18448,6 +18448,282 @@ Overcome all our adversaries, and bring to us her other water-laden sisters, as 
 > उत । नः । प्रिया । प्रियासु । सप्तस्वसा । सुजुष्टा ।  
 > सरस्वती । स्तोम्या । भूत् ॥ १० ॥
 
+### Printed p. 419
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रे तृतीयेऽहनि प्रउग उत नः प्रियेति सारस्वतस्तृचः । सूत्रितं च ।
+> उत नः प्रिया प्रियास्वित्यौष्ठिहं प्रउगं । आ. ७-१० । इति ॥ पवित्रेष्ट्यामुत नः
+> प्रियेति सारस्वतस्य हविषोऽनुवाक्या । सूत्रितं च । उत नः प्रिया प्रियास्तिमा
+> जुह्वाना युष्मदा नमोभिः । आ. २-१२ । इति ॥
+> उतापि च नोऽस्माकं प्रियासु प्रियाणां मध्ये प्रिया प्रियतमा सप्तस्वसा ।
+> गायत्रादीनि सप्त छंदांसि स्वसारो यस्यास्तादृशी । नदीरूपायास्तु गंगाद्याः
+> सप्त नद्यः स्वसारः ; सुजुष्णा सुष्टु पुरातनैर्यषिभिः सेविता । एवंभूता सरस्वती
+> देवी स्तोम्या भूत् । स्तोतव्या भवतु ॥
+
+##### Gist of the bhāṣya
+
+In the Daśarāta rite, on the third day, in the Praūga, the tṛca beginning उत नः प्रिया (*uta naḥ priyā*) is the Sārasvata. It is laid down in the Sūtra: उत नः प्रिया प्रियास्वित्यौष्ठिहं प्रउगं (*uta naḥ priyā priyāsvityauṣṭhihaṃ praugaṃ*) (Ā. 7-10). In the Pavitreṣṭi the ṛk beginning उत नः प्रिया (*uta naḥ priyā*) is the anuvākyā of the oblation addressed to Sarasvatī. It is laid down: उत नः प्रिया प्रियास्तिमा जुह्वाना युष्मदा नमोभिः (*uta naḥ priyā priyāstimā juhvānā yuṣmadā namobhiḥ*) (Ā. 2-12). Further: among those who are dear to us, she is the dearest; she is सप्तस्वसा (*saptasvasā*), one whose sisters are the seven metres beginning with Gāyatrī; but as a river, her sisters are the seven rivers beginning with the Gaṅgā. She is सुजुष्णा (*sujuṣṇā*), well served by the ancient seers. May the goddess Sarasvatī, so characterised, be worthy of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- नः (*naḥ*)—our
+- प्रियासु (*priyāsu*)—among those dear
+- प्रिया (*priyā*)—the most dear
+- सप्तस्वसा (*saptasvasā*)—she who has seven sisters, the Gaṅgā and the rest
+- सुजुष्टा (*sujuṣṭā*)—served by the seers
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- स्तोम्या (*stomyā*)—worthy of praise
+- भूत् (*bhūt*)—may she be
+
+##### भावार्थ (Bhāvārtha)
+
+May the river Sarasvatī, who is the object of the greatest love among all those dear to us, who has seven sisters beginning with the Gaṅgā, and who is served by the seers, be worthy of our praise.
+
+##### English translation
+May Saraswati, who has seven sisters, who is dearest amongst those dear to us, and is fully propitiated be ever adorable.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the third day of the sacrifice called Daśarātra, when the Praūga śastra mantras are recited, the three ṛks beginning उत नः प्रिया (*uta naḥ priyā*) (ṛks 10-12 of this sūkta) are to be recited as a tṛca addressed to the deity Sarasvatī; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, उत नः प्रिया प्रियास्वित्वा हं प्रउगं (*uta naḥ priyā priyāsvitvā haṃ praugaṃ*) (Ā. 7-10). And in the Pavitreṣṭi, this ṛk beginning उत नः प्रिया (*uta naḥ priyā*) is to be recited as the anuvākyā mantra in the oblation offered to the deity Sarasvatī; this is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, उत नः प्रिया प्रियास्विमा जुह्वाना युष्मदा नमोभिः (*uta naḥ priyā priyāsvimā juhvānā yuṣmadā namobhiḥ*) (Ā. 2-12).
+Here the word सप्तस्वसा (*saptasvasā*) must be explained in two ways. When Sarasvatī is praised as the goddess of speech, सप्तस्वसा (*saptasvasā*), "having seven sisters," means the seven metres beginning with Gāyatrī; when she is praised as a river, it means the seven rivers beginning with the Gaṅgā.
+
+### Printed p. 420
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒प॒पुषी॒ पार्थि॑वान्यु॒रु रजो॑ अं॒तरि॑क्षं ।  
+> सर॑स्वती नि॒दस्पा॑तु ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपपुषी । पार्थिवानि । उरु । रजः । अंतरिक्षं ।  
+> सरस्वती । निदः । पातु ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पार्थिवानि पृथिव्याः संबंधीन्युरूरूणि विस्तीर्णानि रजो रजांसि लोकानंतरिक्षमंतरा क्षांतं नभश्चापपुषी स्वतेजसा पूरितवती सरस्वती देवी निदो
+> निंदकाच्छत्रोः पातु । अस्मान्रक्षतु ॥
+
+##### Gist of the bhāṣya
+
+The goddess Sarasvatī, having filled with her own radiance the earthly worlds, vast and extensive, and the sky, the space bounded in between, may protect us from the reviling enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पार्थिवानि (*pārthivāni*)—belonging to the world of the earth
+- उरु (*uru*)—vast
+- रजः (*rajaḥ*)—the worlds
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the sky
+- आ पप्रुषी (*ā papruṣī*)—she who has pervaded
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- निदः (*nidaḥ*)—from the enemies who revile
+- पातु (*pātu*)—may she protect us
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Sarasvatī, who has pervaded the vast worlds belonging to the earth and the sky, protect us from the enemies who revile.
+
+##### English translation
+May Saraswati, filling (with radiance) the vast expanse of earth and heaven, defend us from the reviler.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒ष॒धस्था॑ स॒प्तधा॑तुः॒ पंच॑ जा॒ता व॒र्धयं॑ती ।  
+> वाजे॑वाजे॒ हव्या॑ भूत् ॥ १२ ॥
+
+### Printed p. 421
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिसधस्टा । सप्तधातुः । पंच । जाता । वर्धयंती ।  
+> वाजेऽवाजे । हव्या । भूत् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिषधस्था त्रिषु लोकेषु सहावतिष्ठमाना त्रिलोकव्यापिनी सप्तधातुः । सप्त
+> धातवोऽवयवा गायत्राद्या गंगाद्या वा यस्याः सा तथोक्ता । पंच जाता
+> जातानि निषादपंचमांश्चतुरो वर्णान् गंधर्वादीन्वा वर्धयंत्यभिवृद्धान्कुर्वती ।
+> ईदृशी सरस्वती वाजे वाजे युद्धे युद्धे सर्वेषु युद्धेषु हव्या भूत् ।
+> ह्वातव्या भवति ॥
+
+##### Gist of the bhāṣya
+
+त्रिषधस्था (*triṣadhasthā*): abiding together in the three worlds, that is, pervading the three worlds. सप्तधातुः (*saptadhātuḥ*): she whose seven constituents, the metres beginning with Gāyatrī or the rivers beginning with the Gaṅgā, are her members. पंच जाता (*paṃca jātā*): the five born ones, the four varṇas together with the Niṣāda as the fifth, or the Gandharvas and the rest; वर्धयंती (*vardhayaṃtī*): making them grow. May Sarasvatī, so characterised, be to be invoked in every battle, in every conflict.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिषधस्था (*triṣadhasthā*)—she who pervades the three worlds
+- सप्तधातुः (*saptadhātuḥ*)—she who has seven constituents, the Gaṅgā and the rest
+- पंच जाता (*paṃca jātā*)—the people born in five ways, beginning with the Niṣādas
+- वर्धयंती (*vardhayaṃtī*)—she who nourishes
+- वाजे वाजे (*vāje vāje*)—in every battle
+- हव्या भूत् (*havyā bhūt*)—she becomes worthy of our invocation and praise
+
+##### भावार्थ (Bhāvārtha)
+
+Sarasvatī, who pervades the three worlds, who has seven constituents beginning with the Gaṅgā, and who nourishes the people born in five ways beginning with the Niṣādas, becomes in every battle worthy of our invocation and praise.
+
+##### English translation
+Abiding in the three worlds, comprising seven elements, cherishing the five races (of beings), she is ever to be invoked in battle.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र या म॑हि॒म्मा म॒हिना॑सु॒ चेकि॑ते द्यु॒म्नेभि॑र॒न्या अ॒पसा॑म॒पस्त॑मा ।  
+> रथ॑ इव बृह॒ती वि॒भ्वने॑ कृ॒तोप॒स्तुत्या॑ चिकि॒तुषा॒ सर॑स्वती ॥१६॥
+
+### Printed p. 422
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । या । महिम्मा । महिना । आसु । चेकिते । द्युम्नेभिः । अन्याः । अपसां । अपःतमा  
+> रथः इव । बृहती । विभ्वने । कृता । उपस्तुत्या । चिकितुषा । सरस्वती । १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महिम्ना माहात्म्येन महिना महती द्युम्नेभिर्दुम्मैर्दोत्यतमानैर्यशोभिरन्मैर्वा युक्ता सत्यास्वासां नदीनां देवतानां वा मध्ये या सरस्वती
+> प्र चेकिते प्रकर्षण ज्ञायते । या चान्या अन्यासां ॥ सुपां सुलुगिति षष्ठि
+> बहुवचनस्य जस् ॥ अपसां वेगवतीनां नदीनां मध्येऽपस्तमा वेगवत्तमा ।
+> या च रथ इव विभ्वने विभुत्वाय बृहती परिवृढा गुणैरधिका कृता प्रजापतिना
+> निर्मिता सा सरस्वती चिकितुषा जानता स्तोत्रोपस्तुत्या । उपस्तोतव्या भवति ॥
+
+##### Gist of the bhāṣya
+
+She who by her majesty, her greatness, is great, endowed with splendid glories or foods, is pre-eminently known among these rivers or deities. And she who, among the other swift rivers, is the most swift; and she who, like a chariot, for the sake of all-pervasiveness is made great, pre-eminent, superior in qualities, created by Prajāpati: that Sarasvatī is to be approached with praise by the singer of praise who knows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the Sarasvatī who
+- महिम्ना (*mahimnā*)—by her greatness
+- महिना (*mahinā*)—possessed of a great form
+- द्युम्नेभिः (*dyumnebhiḥ*)—endowed with radiant food
+- आसु (*āsu*)—among these river-goddesses
+- प्र चेकिते (*pra cekite*)—is known pre-eminently
+- अन्याः अपसां (*anyāḥ apasāṃ*)—among the other rivers with currents
+- अपस्तमा (*apastamā*)—the one with the most exceedingly swift current
+- विभ्वने (*vibhvane*)—to be all-pervading
+- बृहती (*bṛhatī*)—growing great
+- रथ इव (*ratha iva*)—like a chariot
+- कृता (*kṛtā*)—who is created by Prajāpati
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- चिकितुषा (*cikituṣā*)—worthy of the knowledge of the singer of praise
+- उपस्तुत्या (*upastutyā*)—and worthy of his praise
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Sarasvatī who by her greatness has a great form and is endowed with radiant food, who is known pre-eminently among these river-goddesses, who among the other rivers with currents has the most exceedingly swift current, and who, growing great so as to be all-pervading, has been created by Prajāpati as a chariot is made: she is worthy of the knowledge of the singer of praise and worthy of his praise.
+
+##### English translation
+She who is distinguished amongst them as eminent in greatness and in her glories ; she who is the most impetuous of all other streams : she who has been created vast in capacity as a chariot, she Saraswati, is to be glorified by the discreet (worshipper).**NOTE**
+
+### Printed p. 423
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर॑स्वत्य॒भि नो॑ नेषि॒ वस्यो॒ माप॑ स्फरीः॒ पय॑सा॒ मान॒ आ ध॑क् ।  
+> जु॒षस्व॑ नः स॒ख्या वे॒श्या॑ च॒ मा त्वत् क्षेत्रा॒ण्यर॑णानि गन्म ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सरस्वति । अभि । नः । नेषि । वस्यः । मा । अप । स्परीः । पयसा । मा । नः । आ । धक् ।  
+> जुषस्व । नः । सख्या । वेश्या । च । मा । त्वत् । क्षेत्राणि । अरणानि । गन्म ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सरस्वति नोऽस्मान्वस्यो वसीयः प्रशस्तं वसु धनमभि नेषि । अभिप्रायय ।
+> माप स्परीः । अप्रवृद्धान्मा कार्षिः ॥ स्वारो वृद्धिः । उपसर्गवशात्तद्विपरीते वर्तते ॥ तथा पयसोदकेनाधिकेन नोऽस्मान्मा आ धक् । नाभिदह । न बाधस्व । अपि च
+> नोऽस्माकं सख्या सख्यानि सखिकर्माणि वेश्या प्रवेशनानि च जुष्व । सेवस्व । वयं
+> च त्वत्सकाशादरणान्यरमणानि निकृष्टानि क्षेत्राणि मा गन्म । मा प्राप्नवाम । अपि तु
+> रमणीयान्येव ॥
+
+##### Gist of the bhāṣya
+
+O Sarasvatī, lead us to the most excellent wealth. Do not make us unprosperous; the verb that means to grow is here used in the opposite sense under the force of the prefix. Likewise do not burn us, do not oppress us, with excess of water. And accept our friendships, the acts of friends, and the entrances; and may we not go from you to the unpleasant, low fields; may we not reach them; rather, may we reach only pleasant ones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरस्वति (*sarasvati*)—O goddess Sarasvatī
+- नः (*naḥ*)—to us
+- वस्यः (*vasyaḥ*)—the praiseworthy wealth
+- अभि नेषि (*abhi neṣi*)—lead us to
+- माप स्फरीः (*māpa spharīḥ*)—do not obstruct our growth
+- पयसा (*payasā*)—with the irresistible flood of water
+- नः (*naḥ*)—us
+- मा आ धक् (*mā ā dhak*)—do not harm
+- नः (*naḥ*)—our
+- सख्या (*sakhyā*)—friendship
+- वेश्या च (*veśyā ca*)—and dwellings
+- जुषस्व (*juṣasva*)—accept
+- त्वत् (*tvat*)—to you
+- अरणानि (*araṇāni*)—joyless
+- क्षेत्राणि (*kṣetrāṇi*)—fields
+- मा गन्म (*mā ganma*)—may we not reach
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sarasvatī, provide us with praiseworthy wealth. Do not obstruct our growth. Do not harm us with an irresistible flood of water. Accept our friendship and our dwellings. May we not come to fields joyless to you; or, do not make us receive joyless fields from you.
+
+### Printed p. 424
+
+##### English translation
+Guide us, Saraswati, to precious wealth ; reduce us not to insignificance ; overwhelm us not with (excess of) water ; be pleased by our friendly (services) and access to our habitations, and let us not repair to places unacceptable to you.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये चतुर्थाष्टके ऽष्टमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye caturthāṣṭake 'ṣṭamo 'dhyāyaḥ samāptaḥ ‖*) **GLOSS**
+
+ओं तत्त्वत् (*oṃ tattvat*) **GLOSS**
+
+Here ends the eighth adhyāya, in the fourth aṣṭaka of the Ṛgveda-saṃhitā, together with Śrī Sāyaṇa's bhāṣya and the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्ववेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadvavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namostute ‖*) **GLOSS**
+
+शुभं भूयात् (*śubhaṃ bhūyāt*) **GLOSS**
+
+मंगळं (*maṃgaḷaṃ*) **GLOSS**
+
+ओं (*oṃ*)
+
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*) **GLOSS**
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ |*) **GLOSS**
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं । (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ |*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+Ṛgveda-saṃhitā with Sāyaṇa's bhāṣya (with the Kannada translation and explanation).
+
+पंचमाष्टके प्रथमोऽध्यायः (*paṃcamāṣṭake prathamo 'dhyāyaḥ*)
+
+The first adhyāya in the fifth aṣṭaka. The sixty-second sūkta of the sixth maṇḍala.
+
+## Sūkta 62 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ पंचमाष्टके प्रथमोऽध्याय आरभ्यते । षष्ठमंडलस्य षष्ठेऽनुवाके
+> चतुर्दश सूक्तानि । तत्र स्तुषे नरेत्येकादशर्चं प्रथमं सूक्तं । अत्रेयमनुक्रमणिका । स्तुष एकादशाश्विनं त्विति । मंडलद्रष्टा बार्हस्पत्यो भरद्वाज ऋषिः ।
+> अनुक्तत्वात्रिष्टुप् । अश्विनौ देवता ॥ प्रातरनुवाक आश्विने क्रताविदमादिके द्वे सूक्ते ।
+> आश्विनशस्त्रे चैते एव । सूश्रितं च । स्तुषे नरेति सूक्ते । आ. ४-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Now the first adhyāya in the fifth aṣṭaka begins. In the sixth anuvāka of the sixth maṇḍala there are fourteen sūktas. Among them the first sūkta, beginning स्तुषे नरा (*stuṣe narā*), has eleven ṛks. Here is the Anukramaṇikā: स्तुष एकादशाश्विनं त्विति (*stuṣa ekādaśāśvinaṃ tviti*) **GLOSS**. The seer of the maṇḍala is Bharadvāja, son of Bṛhaspati. The metre is Triṣṭubh, since none is stated. The deity is the Aśvins. In the Prātaranuvāka, in the Āśvina rite, the two sūktas क्रताविदमादिके (*kratāvidamādike*) are used; and in the Āśvina-śastra just these two. It is laid down in the Sūtra: the two sūktas beginning स्तुषे नरा (*stuṣe narā*) (Ā. 4-15).**NOTE**
+
+##### Anuvāda
+
+Now we begin the explanation of the first adhyāya of the fifth aṣṭaka in the Ṛgveda-saṃhitā. In the sixth anuvāka of the sixth maṇḍala there are fourteen sūktas. Among them स्तुषे नरा (*stuṣe narā*) is the first sūkta; in it there are eleven ṛks. Anukramaṇikā
+
 ---
 
-**Progress note:** Done through printed p. 418. Mandala 6 sukta 61 rks 2 (Yaska) to 10 pada, pp. 412-418
+**Progress note:** Done through printed p. 424. Mandala 6 sukta 61 rks 10-14, end of adhyaya 8, start of sukta 62, pp. 419-424
