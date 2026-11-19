@@ -29414,6 +29414,296 @@ Offer praise to the strong Agni, traversing without hindrance heaven and earth :
 > पृष्टः । दिवि । धायि । अग्निः । पृथिव्यां । नेता । सिंधूनां । वृषभः । स्तियानां ।  
 > सः । मानुषीः । अभि । विशः ! वि । भाति । वैश्वानरः । ववृधानः । वरेण ॥ २ ॥
 
+### Printed p. 697
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सिंधूनां नदीनां नेता स्तियानामपां । स्तिया आपो भवंति स्त्यायनादिति
+> यास्कवचनात् । नि. ६-१७ । वृषभो वर्षिता पृष्टोऽर्चितस्तेजसा संपृक्तो वा
+> योग्निर्दिव्यंतरिक्षे पृथिव्यां च धायि न्यधायि स वैश्वानरो विश्वनरहितोऽग्निर्वरेण श्रेष्ठेन हविषा तेजसा वा वावृधानो वर्धमानः सन् मानुषीर्विशोऽभि
+> मानुषीः प्रजाः प्रति वि भाति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains सिंधूनां (*siṃdhūnāṃ*) as "of the rivers", Agni being their leader, and स्तियानां (*stiyānāṃ*) as "of the waters". He supports this with Yāska: स्तिया आपो भवंति स्त्यायनादिति (*stiyā āpo bhavaṃti styāyanāditi*) (Ni. 6-17) **GLOSS**. Agni is the showerer, the one who causes rain. पृष्टो (*pṛṣṭo*) means either worshipped, or joined with radiance. That Agni has been placed (धायि (*dhāyi*) is explained as "was placed") in heaven, in the atmosphere and on the earth. That same Vaiśvānara, the Agni beneficial to all men, growing by the excellent oblation or by radiance, shines forth towards the human subjects.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधूनां (*siṃdhūnāṃ*)—to the rivers
+- नेता (*netā*)—he who is the leader
+- स्तियानां (*stiyānāṃ*)—to the waters
+- वृषभः (*vṛṣabhaḥ*)—the showerer (he who pours down in the form of rain)
+- पृष्ट्वः (*pṛṣṭvaḥ*)—he who is joined with radiance, and
+- अग्निः (*agniḥ*)—Agni
+- दिवि (*divi*)—in the heavenly world
+- पृथिव्यां (*pṛthivyāṃ*)—and on the earth
+- धायि (*dhāyi*)—is established
+- सः वैश्वानरः (*saḥ vaiśvānaraḥ*)—that same Vaiśvānara Agni
+- वरेण (*vareṇa*)—with excellent oblations
+- वावृधानः (*vāvṛdhānaḥ*)—having obtained growth
+- मानुषीः विशः अभि (*mānuṣīḥ viśaḥ abhi*)—towards the subjects who are of human form
+- वि भाति (*vi bhāti*)—shines exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is the leader of the rivers, who pours the waters down in the form of rain, and who is joined with radiance, is established in the heavenly world and on the earth. That same Vaiśvānara Agni, having obtained growth through excellent oblations, shines exceedingly towards the subjects who are of human form.
+
+##### English translation
+Agni, the leader of the rivers, the showerer of the waters, the radiant, has been stationed in the firmament and upon earth: Vaiswanara augmenting with the most excellent (oblation) shines upon human beings.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वद्भि॒या विश॑ आय॒न्नसि॑क्नीसम॒ना जह॑ती॒र्भोज॑नानि ।  
+> वैश्वा॑नर पू॒रवे॒ शोशु॑चानः॒ पुरो॒ यद॑ग्ने द॒रय॒न्न दी॑देः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वत् । भिया । विशः । आयन् । असिक्नीः । असमनाः । जहतीः । भोजनानि ।  
+> वैश्वानर । पूरवे । शोशुचानः । पुरः । यत् । आग्ने । दरयन् । अदीदेः ॥ ३ ॥
+
+### Printed p. 698
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वैश्वानर विश्वनरहिताग्ने त्वत्त्वत्तो भिया भीत्यासिक्कीरसितवर्णा राजस्यः ।
+> प्रथमार्थे द्वितीया ॥ विशः प्रजाः असमनाः परस्परमसमेता भोजनानि धनानि
+> जहतीस्त्यजंत्य आयन् । आगच्छन् ! कदेत्यत आह । यद्यदा पूरवे राज्ञॆ शोशुचानो दीप्यमानः पुरस्तस्य शत्रूणां पुरो दरयन् दारयनदीदेः अज्वलः । तथा
+> च निगमः । अंहो राजन्वरिवः पूरवे कः । ऋग्वे. १-६३-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+O Vaiśvānara, Agni beneficial to all men: through fear of you the subjects, called असिक्नीः (*asiknīḥ*), that is dark-coloured and राजस्यः (*rājasyaḥ*), mutually disunited, abandoning their possessions, came (आयन् (*āyan*) is explained as "they came"). **NOTE** When? When you, shining for the king Pūru, tore apart the cities of his enemies, you blazed. And so the Nigama says: अंहो राजन्वरिवः पूरवे कः (*aṃho rājanvarivaḥ pūrave kaḥ*) (Ṛgve. 1-63-7) **GLOSS** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैश्वानर (*vaiśvānara*)—O one of the form of Vaiśvānara
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—when
+- पूरवे (*pūrave*)—for the benefit of the king named Pūru
+- शोशुचानः (*śośucānaḥ*)—shining
+- पुरः (*puraḥ*)—the cities of his enemies
+- दरयन् (*darayan*)—and splitting
+- आदीदेः (*ādīdeḥ*)—you have blazed (then)
+- त्वत् (*tvat*)—your
+- भिया (*bhiyā*)—through fear
+- असिक्नीः (*asiknīḥ*)—dark-coloured
+- विशः (*viśaḥ*)—enemy subjects who are of the Rājasa kind
+- असमनाः (*asamanāḥ*)—their company scattered
+- भोजनानि (*bhojanāni*)—their own several possessions
+- जहतीः (*jahatīḥ*)—leaving where they stood
+- आयन् (*āyan*)—ran away
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of the form of Vaiśvānara, when you blazed for the benefit of the king named Pūru, shining and splitting the cities of his enemies, then through fear of you the enemy subjects of the Rājasa kind, dark-coloured (the black people), their company scattered, left their several possessions where they stood and ran away.
+
+##### English translation
+Through fear of you. Vaiswanara, the dark-complexioned races, although of many minds, arrived, abandoning their possessions, when, Agni, shining upon Puru, you have blazed, consuming the cities of his foe.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ त्रि॒धातु॑ पृथि॒वी उ॒त द्यौर्वैश्वा॑नर व्र॒तम॑ग्ने सचंत ।  
+> त्वं भा॒सा रोद॑सी॒ आ त॑तं॒थाज॑स्रेण शो॒चिषा॒ शोशु॑चानः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । त्रिधातु । पृथिवी । उत । द्यौः । वैश्वानर । व्रतं । अग्ने । सचंत ।  
+> त्वं । भासा । रोदसी इति । आ । ततंथ । अजस्रेण । शोचिषा । शोशुचानः ॥ ४ ॥
+
+### Printed p. 699
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वैश्वानर विश्वेषां नराणां नेतरग्ने । तथा च यास्कः । वैश्वानरः कस्माद्विश्वान्नरान्नयति विश्व एनं नरा नयंतीति वा । नि. ७-२१ । इति ॥ तव व्रतं त्वत्प्रीतिकरं
+> कर्म त्रिधात्वंतरिक्षं पृथिवी च उतापि च द्यौरिति त्रयो लोकाः सचंत । सेवंते ।
+> त्रैलोक्यवर्तिन्यः प्रजास्त्वदर्थं कर्म कुर्वंतीत्यर्थः । अपि च त्वमजस्रेण
+> शोचिषा प्रकाशेन शोशुचानो दीप्यमानो भासा दीप्त्या रोदसी द्यावापृथिव्यौ
+> चा ततंथ । विस्तारयसि ॥
+
+##### Gist of the bhāṣya
+
+O Vaiśvānara, Agni, leader of all men. And so Yāska says: वैश्वानरः कस्माद्विश्वान्नरान्नयति विश्व एनं नरा नयंतीति वा । (*vaiśvānaraḥ kasmādviśvānnarānnayati viśva enaṃ narā nayaṃtīti vā |*) (Ni. 7-21) **GLOSS** Your rite, the rite that pleases you, is followed by the three worlds, the atmosphere, the earth and heaven; the meaning is that the subjects who live in the three worlds perform rites for you. And further, you, shining with unfailing radiance, spread out with your light the heaven and the earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैश्वानर (*vaiśvānara*)—O one of the form of Vaiśvānara
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your pleasing
+- व्रतं (*vrataṃ*)—rite
+- त्रिधातु (*tridhātu*)—the atmosphere
+- पृथिवी (*pṛthivī*)—the earth
+- उत (*uta*)—and
+- द्यौः (*dyauḥ*)—the heavenly world
+- सचंत (*sacaṃta*)—perform it (and serve you)
+- त्वं (*tvaṃ*)—you
+- अजस्रेण (*ajasreṇa*)—with everlasting
+- शोचिषा (*śociṣā*)—radiance
+- शोशुचानः (*śośucānaḥ*)—shining
+- भासा (*bhāsā*)—with your brilliance
+- रोदसी (*rodasī*)—both heaven and earth
+- आ ततंथ (*ā tataṃtha*)—you make wide-spread
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of the form of Vaiśvānara, the atmosphere, the earth and the heavenly world perform your pleasing rite and serve you. You, shining with everlasting radiance, make heaven and earth both wide-spread with your brilliance.
+
+##### English translation
+Viswanara Agni, the firmament, the earth, the heaven, combine in your woship: shining with undecaying splendour, you overspread heaven and earth with light.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने ह॒रितो॑ वावशा॒ना गिरः॑ सचंते॒ धुन॑यो घृ॒ताचीः॑ ।  
+> पतिं॑ कृष्णी॒नां र॒थ्यं॑ रयी॒णां वै॑श्वान॒रमु॒षसां॑ के॒तुमह्नां॑ ॥ ५ ॥
+
+### Printed p. 700
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । हरितः । वावशानाः । गिरः । सचंते । धुनयः । फृताचीः ।  
+> पतिं । कृष्णीनां । रथ्यं । रयाणां । वैश्वानरं । उषसां । केतुं । आह्नां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने कृष्णीनां प्रजानां । क्षितयः कृष्णय इति मनुष्यनामसु पाठात् ।
+> पतिं स्वामिनं रयाणां धनानां रथ्यं नेतारमुषसामह्नां केतुं प्रज्ञापकं
+> वैश्वानरं विश्वनरहितं त्वां हरितोऽश्वा वावशानाः कामयमानाः सचंते। सेवंते ।
+> तथा गिरो नृणां स्तुतिरूपा वाचो धुनयः पापं धुन्वाना धृताचीर्घृतमंचंत्यः । हविषा सहिता इत्यर्थः । सचंते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, lord of the subjects (कृष्णीनां (*kṛṣṇīnāṃ*): kṛṣṇayaḥ is read among the names of men), lord of riches, conveyer, banner that makes known the dawns and the days, Vaiśvānara, beneficial to all men: you the bay horses, longing for you, serve. In the same way the praises of men, which shake off sin and carry ghee, that is, are accompanied by oblation, serve you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- कृष्णीनां (*kṛṣṇīnāṃ*)—of the subjects
+- पतिं (*patiṃ*)—the lord
+- रयाणां (*rayāṇāṃ*)—of riches
+- रथ्यं (*rathyaṃ*)—the leader
+- उषसां (*uṣasāṃ*)—of the dawns
+- आह्नां (*āhnāṃ*)—and of the days
+- केतुं (*ketuṃ*)—the one who makes known
+- वैश्वानरं (*vaiśvānaraṃ*)—and who is beneficial to all men
+- त्वां (*tvāṃ*)—you
+- हरितः (*haritaḥ*)—the horses of Indra
+- वावशानाः (*vāvaśānāḥ*)—desiring to honour
+- सचंते (*sacaṃte*)—serve
+- गिरः (*giraḥ*)—the praising words of men
+- धुनयः (*dhunayaḥ*)—destroying sin, and
+- फृताचीः (*phṛtācīḥ*)—being joined with the oblation (serve you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, lord of the subjects, leader of riches, one who makes known the dawns and the days, beneficial to all men: the horses of Indra, desiring to honour you, serve you. The praising words of men, destroying sin and being joined with the oblation, serve you.
+
+##### English translation
+The horses (of Indra), full of ardour, worship you, Agni; the praises (of men). dispersers (of iniquity), accompanied by oblations, (honour you), the lord of men, the cnvveyer of riches, the Vaiswanara of dawns, the manifester of days.
+
+#### Ṛk 6
+
+### Printed p. 701
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे अ॑सु॒र्यं१॒॑ वस॑वो॒ नृ॑ण्व॒न्कुतुं॒ हि ते॑ मित्रमहो  ॒॑
+> जुषंत ।  
+> त्वं दस्यो॒रोक॑सो अग्न आज उ॒रु ज्योति॑र्ज॒नय॒न्ना र्या॑य॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । असुर्यं । वसवः । नि । ऋण्वन् । क्रतुं । हि । ते । मित्रमहः । जुषंत ।  
+> त्वं । वस्यून् । ओकसः । अग्ने । आजः । उरु । ज्योतिः । जनयन् । आर्याय ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रमहो मित्राणां पूजयितरग्ने त्वे त्वयि वसवो वासका देवा
+> आसुर्यं बलं नृण्वन् । न्यगमयन । ते क्रतुं त्वत्प्रीतिकरं कर्म जुषंत ।
+> असेवंत हि ! किं च त्वमार्याय कर्मवते जनायोरु ज्योतिरधिकं तेजो
+> जनयन् पस्यून् कर्महीनानोकसः स्थानादाजः । निरगमयः ॥
+
+##### Gist of the bhāṣya
+
+O Mitramahas, Agni, honourer of friends: in you the Vasus, the dwelling gods, have placed (नृण्वन् (*nṛṇvan*) is explained as "caused to enter") strength. They have served your rite, the rite that pleases you. And further, you, generating abundant light, greater radiance, for the Ārya, the man who performs rites, drove out the पस्यून् (*pasyūn*), the rite-less, from their dwelling, from their place. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रमहः (*mitramahaḥ*)—O honourer of friends
+- अग्ने (*agne*)—O Agni
+- त्वै (*tvai*)—in you
+- वसवः (*vasavaḥ*)—the gods called Vasus
+- असुरं (*asuraṃ*)—strength
+- नृण्वन् (*nṛṇvan*)—have deposited
+- शे (*śe*)—to you
+- क्रतुं (*kratuṃ*)—the pleasing rite
+- जुषंत हि (*juṣaṃta hi*)—they perform, and serve you
+- त्वं (*tvaṃ*)—you
+- आराय (*ārāya*)—for the Ārya people who perform rites
+- उरु (*uru*)—exceedingly great
+- ज्योतिः (*jyotiḥ*)—light
+- जनयन् (*janayan*)—producing
+- दस्यून् (*dasyūn*)—the rite-less Dasyus
+- ओकसः (*okasaḥ*)—from their several places
+- आजः (*ājaḥ*)—you have struck and driven away
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, honourer of friends, the gods called Vasus have deposited strength in you. They perform the rite that pleases you and serve you. You, producing exceedingly great light for the Ārya people who perform rites, have struck and driven the rite-less Dasyus away from their several places.
+
+### Printed p. 702
+
+##### English translation
+Reverencer of friends, Agni, the Vasus have concentrated vigour in you : they have been propitiated by your acts: generating vast splendour for the Arya Agni, expel the Dasyus from the dwelling.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स जाय॑मानः पर॒मे व्यो॑मन्वा॒युर्न पाथः॒ परि॑ पासि स॒द्यः ।  
+> त्वं भुव॑ना ज॒नय॑न्न॒भि क्र॒न्न प॑त्याय जातवेदो दश॒स्यन् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । जायमानः । परमे । विओमन् वायुः । न । पाथः । परि । पासि । सद्यः ।  
+> त्वं । भुवना । जनयन् । अभि । क्रन् । अपत्याय । जातवेदः । दशस्यन् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वैश्वानर स प्रसिद्धस्त्वं परमे दूरस्थे व्योमन्नंतरिक्षे जायमानक
+> सूर्यरूपेण प्रादुर्भवन् वायुर्न यथा वायुर्द्विदेवत्यग्रहेषु प्रथमं
+> सोमं पिबति तथा पाथः सोमं सद्यः परि पासि । परिपिबसि । यद्वा । वायुरिव
+> पाथो जलं परिपासि । परिपिबसि । शोषयसीत्यर्थः । किं च हे जातवेदो
+> जातधनाग्ने त्वं भुवना भुवनान्युदकानि । भूतं भुवनमित्युदकनामसु पाठात् ।
+> जनयन्नपत्यायापत्यवत्पालनीयाय यजमानाय दशस्यन् कामान्प्रयच्छन्
+> अभि क्रन् । वैद्युतात्मनाभिक्रंदसि अभिगर्जसि वा ॥
+
+##### Gist of the bhāṣya
+
+O Vaiśvānara, you, the renowned one, being born in the highest, remote atmosphere, appearing in the form of the sun, like Vāyu: as Vāyu drinks Soma first in the cups belonging to two deities, so you at once drink Soma all round; or else, like Vāyu you drink up the water all round, that is, you dry it. And further, O Jātavedas, Agni, owner of acquired wealth, you, producing the waters (भुवना (*bhuvanā*): since भूतं भुवनमित्युदकनामसु (*bhūtaṃ bhuvanamityudakanāmasu*) is the reading, bhuvana being among the names of water), granting desires to the sacrificer who has offspring and is to be protected, roar towards them in the form of lightning, or thunder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—you, the renowned one
+- परमे (*parame*)—in the exceedingly remote
+- व्योमन् (*vyoman*)—atmosphere
+- जायामानः (*jāyāmānaḥ*)—being born in the form of the sun
+- वायुर्न (*vāyurna*)—like Vāyu
+- पाथः (*pāthaḥ*)—the water
+- सद्य: (*sadya:*)—at once
+- परि पासि (*pari pāsi*)—you drink
+- जातवेदः (*jātavedaḥ*)—O Agni, who are of the form of Jātavedas
+- त्वं (*tvaṃ*)—you
+- भुवना (*bhuvanā*)—the waters
+- जनयन् (*janayan*)—producing
+- अपत्याय (*apatyāya*)—for the sacrificer who is of the form of a son **NOTE**
+- दशस्यन् (*daśasyan*)—granting desired objects
+- अभि क्रस् (*abhi kras*)—you roar in the form of lightning
+
 ---
 
-**Progress note:** Done through printed p. 696. Ṛk 8-10, Sūkta 5 intro, Ṛk 1-2 (pp. 691-696)
+**Progress note:** Done through printed p. 702. Vol 21 pp. 697-702: Mandala 7 sukta 5 Rk 2 (end) to Rk 7 (Pratipadartha)
