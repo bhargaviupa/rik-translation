@@ -23044,6 +23044,247 @@ prayers, my invocation.
 
 O Indra and Viṣṇu, you both were victorious: you conquered the enemies. You are not defeated again, ever. Of the two of you, neither one was defeated. O Viṣṇu, and Indra, whatever thing you two contended for with the asuras, standing threefold as world, Veda and speech, and a thousand without measure, that you strode through, that is the meaning. So also the Brāhmaṇa: उभा जिग्यथुरित्यच्छावाकस्योभौ हि तौ जिग्यतुर्न परा जयेथे न परा जिग्य इति न हि तयोः (*ubhā jigyathurityacchāvākasyobhau hi tau jigyaturna parā jayethe na parā jigya iti na hi tayoḥ*)
 
+### Printed p. 521
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कतरश्चन पराजिग्य इंद्रश्च विष्णो यदपस्पृधेथां त्रेधा सहस्रं वि तद्वैरयेथामितींद्रश्च ह वै विष्णुश्चासुरैर्युयुधाते तान् ह स्म जित्वोचतुः कल्पामहा इति ते
+> ह तथेत्यसुरा ऊचुः सोऽब्रवीदिंद्रो यावदेवायं विष्णु स्त्रिविक्रमते
+> तावदस्माकमथ युष्माकमितरदिति स इमाल्लोकान्विचक्रमेऽथो वेदानथो वाचं
+> तदाहुः किं तत्सहस्रमितीमे लोका इमे वेदा अथो वागिति ब्रूयादैरयेथामैरयेथां । ऐ. ब्रा. ६-१५ । इति ॥ यद्वा । तत्सहस्रं गवां सहस्रं त्रेधा
+> वैरयेथामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The passage of the Brāhmaṇa continues: Indra and Viṣṇu fought the asuras, and having conquered them they said, "Let us make an arrangement." The asuras agreed. Indra said, "As far as this Viṣṇu strides in his three strides, that much shall be ours, and the rest yours." Viṣṇu then strode over these worlds, then over the Vedas, then over speech. They ask, "What is that thousand?" One should answer: these worlds, these Vedas and speech. (Ai. Brā. 6-15) **GLOSS** Or else, the thousand is a thousand cows, and the sense is that they strode through it threefold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उभा (*ubhā*)—you both
+- जिग्यथुः (*jigyathuḥ*)—always conquer the enemies
+- न परा जयेथे (*na parā jayethe*)—you have never been defeated
+- एनोः (*enoḥ*)—of the two of you
+- कतरश्चन (*kataraścana*)—even any one
+- न परा जिग्यॆ (*na parā jigyè*)—does not suffer defeat
+- विष्णू (*viṣṇū*)—O Viṣṇu (you)
+- इंद्रश्च (*iṃdraśca*)—and Indra
+- यत् (*yat*)—in whatever battle
+- अपस्पृधेथां (*apaspṛdhethāṃ*)—you contend with the asuras, in all of them
+- त्रेधां (*tredhāṃ*)—that is of three kinds
+- सहस्रं (*sahasraṃ*)—and is without measure
+- वि तत् ऐरयेथां (*vi tat airayethāṃ*)—having won the victory, you make a full stride
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu, you both always conquer the enemies. You have never been defeated. Neither of you two suffers defeat. O Viṣṇu, in whatever battles you and Indra contend with the asuras, in all of them, having won the victory that is of three kinds and without measure, you make a full stride.
+
+##### English translation
+You have both (ever) been victorious : never have been conquered ; neither of you two has been vanquished : with whomsoever you have contended you have thrice conquered thousands.
+
+## Sūkta 70 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धृतवती भुवनानामिति षडृचं नवमं सूक्तं भरद्वाजस्यार्षं जागतं
+> द्यावापृथिवीदेवताकं । तथा चानुक्रम्यते । धृतवती षट् द्यावापृथिवीयं
+
+### Printed p. 522
+
+> जागतमिति ॥ अभिप्लविके, पंचमेऽहनि वैश्वदेवशस्त्र आद्यस्तृचो द्यावापृथिव्यनिविद्धानार्थः । सूत्रितं च । धृतवती भुवनानामभिश्रियेंद्र ऋभुभिर्वाजवद्भिरिति
+> तृचौ । आ. ७-७ । इति ॥ बृहस्पतिसवेऽपि वैश्वदेवशस्त्र एष स्तृचः । सूत्रितं च ।
+> आ. ९-५ ॥ अभिप्लविके तृतीयेऽहनि वैश्वदेवशस्त्रे धृतेन द्यावापृथिवी इति तिस्रो
+> द्यावापृथिव्यनिविद्धानार्थाः । सूत्रितं च । धृतेन द्यावापृथिवी इति तिस्रोऽनश्वो
+> जातः । आ. ७-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning धृतवती भुवनानां (*dhṛtavatī bhuvanānāṃ*) has six ṛks and is the ninth sūkta. Bharadvāja is its seer, the metre is Jagatī, and the deity is Heaven and Earth. So it is given in the Anukramaṇikā: धृतवती षट् द्यावापृथिवीयं जागतं (*dhṛtavatī ṣaṭ dyāvāpṛthivīyaṃ jāgataṃ*) **GLOSS**. In the Abhiplava rite, on the fifth day, in the Vaiśvadeva-śastra, the first tṛca is used as the nivid-dhāna of Heaven and Earth. It is laid down: धृतवती भुवनानामभिश्रियेंद्र ऋभुभिर्वाजवद्भिरिति तृचौ (*dhṛtavatī bhuvanānāmabhiśriyeṃdra ṛbhubhirvājavadbhiriti tṛcau*) (Ā. 7-7) **GLOSS**. In the Bṛhaspatisava also this tṛca is used in the Vaiśvadeva-śastra. It is laid down: (Ā. 9-5) **NOTE**. In the Abhiplava, on the third day, in the Vaiśvadeva-śastra, the three ṛks beginning धृतेन द्यावापृथिवी (*dhṛtena dyāvāpṛthivī*) are used as the nivid-dhāna of Heaven and Earth. It is laid down: धृतेन द्यावापृथिवी इति तिस्रोऽनश्वो जातः (*dhṛtena dyāvāpṛthivī iti tisro 'naśvo jātaḥ*) (Ā. 7-7) **GLOSS**.
+
+##### Anuvāda
+
+This sūkta धृतवती भुवनानां (*dhṛtavatī bhuvanānāṃ*) is the ninth sūkta in the sixth anuvāka. It has six ṛks. Bharadvāja is the seer of this sūkta; Heaven and Earth are the deity; the metre is Jagatī. In the Anukramaṇikā it is said: धृतवती षट् द्यावापृथिवीयं जागतं (*dhṛtavatī ṣaṭ dyāvāpṛthivīyaṃ jāgataṃ*) **GLOSS**. In the Abhiplava sacrifice, on the fifth day, at the time of reciting the Vaiśvadeva-śastra mantras, the first three ṛks of this sūkta are to be recited as the nivid-dhāna tṛca having Heaven and Earth as deity; this is set out by the Āśvalāyana-śrauta-sūtra, in the sūtra धृतवती भुवनानामभिश्रियेंद्र ऋभुभिर्वाजवद्भिरिति तृचौ (*dhṛtavatī bhuvanānāmabhiśriyeṃdra ṛbhubhirvājavadbhiriti tṛcau*) (Ā. 7-7) **GLOSS**. In the sacrifice called Bṛhaspatisava also, the above tṛca is to be recited for the Vaiśvadeva-śastra mantras; this is set out in the Āśvalāyana-śrauta-sūtra (Ā. 9-5). And in the Abhiplava, on the third day, when reciting the Vaiśvadeva-śastra mantras, the ṛks 4, 5, 6 beginning धृतेन द्यावापृथिवी (*dhṛtena dyāvāpṛthivī*) are to be recited; this is set out by the Āśvalāyana-śrauta-sūtra, in the sūtra धृतेन द्यावापृथिवी इति तिस्रोऽनश्चू जातः (*dhṛtena dyāvāpṛthivī iti tisro 'naścū jātaḥ*) (Ā. 7-7) **GLOSS**.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 70 **NOTE**
+- Aṣṭaka 5; Adhyāya 1; Varga 14
+- Number of ṛks in the sūkta: 6
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: द्यावापृथिव्यौ (*dyāvāpṛthivyau*)
+- Metre: जगती (*jagatī*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒तव॑ती॒ भुव॑नानामभि॒श्रियो॒र्वी पृ॒थ्वि म॑धु॒दुघे॑ सु॒सेश॑सा ।  
+> द्यावा॑पृथि॒वी वरु॑णस्य॒ धर्म॑णा॒ विष्ण॑भिते अ॒जरे॒ भूरि॑रेतसा ॥
+
+### Printed p. 523
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतवती इति घृतवती । भुवनानां । अभिश्रिया । उर्वी इति । पृथ्वि इति । मधुदुघे इति मधुदुघे । सुपेशसा ।  
+> द्यावापृथिवी इति । वरुणस्य । धर्मणा । विस्कभिते इति विस्कभिते । अजरे इति । भूरिS  
+> रेतसा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यावापृथिवी हे द्यावापृथिव्यौ घृतवती दीप्तिमत्यावुदकवत्यौ वा । वनं
+> घृतमित्युदकनामसु पाठात् । भवत इति शेषः । भुवनानां भूतानामभिश्रियाभिश्रयणीये भवत इति सर्वत्रानुसंबंधनीयं । उर्वि विस्तीर्णे पृथ्वी बहुकार्यरूपेण प्रथिते च मधुदुघे मधुन उदकस्य दोग्न्य सुपेशसा सुरूपे
+> वरुणस्य सर्वस्य नियामकस्य धर्मणा धारणेन विष्कभिते पृथग्धारिते अजरे नित्ये
+> भूरिरेतसा बहुरेतस्के बहुकार्ये वा भवतः । अत्र साक्षात् द्यावापृथिव्योः
+> स्तुतिप्रसंगाद्वर्णुणस्येति दृष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+O Heaven and Earth, you two are घृतवती (*ghṛtavatī*), radiant or full of water, for घृतं (*ghṛtaṃ*) is read among the names of water. The words "you two are" are to be supplied. You are अभिश्रिया (*abhiśriyā*), to be resorted to by all beings. You are wide and widely known for your many works, and you yield honey, that is, water; you are of fair form. You are held apart by the upholding of Varuṇa, the controller of all; you are unageing, eternal, rich in seed or of many functions. Here, since the occasion is the direct praise of Heaven and Earth, "of Varuṇa" is to be so understood. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृतवती (*dhṛtavatī*)—the two that are full of radiance
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth, both
+- भुवनानां (*bhuvanānāṃ*)—of all the worlds
+- अभिश्रिया (*abhiśriyā*)—being the givers of refuge
+- उर्वी (*urvī*)—and having a wide form
+- पृथ्वि (*pṛthvi*)—and having wide fame
+- मधुदुघे (*madhudughe*)—and milking water
+- सुपेशसा (*supeśasā*)—and having an excellent form
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- धर्मणा (*dharmaṇā*)—by the work that upholds the world
+- निष्कभिते (*niṣkabhite*)—who attain separate existence
+- अजरे (*ajare*)—who are free from decay
+- भूरिरेतसा (*bhūriretasā*)—and are of very great vigour
+
+##### भावार्थ (Bhāvārtha)
+
+The radiant Heaven and Earth, both being givers of refuge to all the worlds, having a wide form, having wide fame, milking water, having an excellent form, and, by the work of Varuṇa that upholds the world, having separate existence, are free from decay.
+
+##### English translation
+Radiant Heaven and Earth, the asylum of created beings, you are spacious, manifold, water-yiding, lovely, separately fixed by the functions of Varuna, undecaying, many-germed.
+
+### Printed p. 524
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॑श्चंती॒ भूरि॑धारे॒ पय॑स्वती घृ॒तं दु॑हाते सु॒कृते॒ शुचि॑व्रते ।  
+> राजं॑ती अ॒स्य भुव॑नस्य रोदसी अ॒स्मे रेतः॑ सिंचतं॒ यन्मनु॑र्हितं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असश्चंती इति । भूरिधारे इति भूरिधारे । पयस्वती इति । धृतं । दुहाते इति ।  
+> सुकृते । शुचिव्रते इति शुचिव्रते ।  
+> राजंती इति । अस्य । भुवनस्य । रोदसी इति । अस्मे इति । रेतः । सिंचतं । यत् ।  
+> मनुःहितं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असश्चंती असज्यमाने व्युदस्यंत्या वा भूरिधारे बहुधारे । दिवो
+> वृष्टिधाराः पृथिव्याश्चाहुत्युद्भूतरसधाराः । एवमुभयोरपि बहुधारत्वं ।
+> पयस्वती उदकवत्यौ । तथा च यास्कः । असज्यमाने इति ना व्युदस्यंत्याविति वा
+> बहुधारे उदकवत्यौ । नि. ५-२ । इति । शुचिव्रते शुचिक्रिये द्यावापृथिव्य सुकृते
+> शोभनकारिणे यजमानाय धृतं सस्यादिसमृद्धिहेशूदकं दुहाते । अथ प्रत्यक्षस्तुतिः । रोदसी हे द्यावाप्यथिव्यावस्य भुवनस्य भूतजातस्य राजंती ईशाने
+> युवामस्मे आस्मासु रेतः प्रजननसमर्थं वीर्यं सिंचतं । यद्रेतो मनुर्हितं
+> मनुष्येभ्यो हितं ॥
+
+##### Gist of the bhāṣya
+
+The two are असश्चंती (*asaścaṃtī*), not clinging, or not falling apart, and भूरिधारे (*bhūridhāre*), of many streams: the streams of rain from heaven and the streams of juice produced by the oblations on earth; thus both have many streams. They are पयस्वती (*payasvatī*), watery. So Yāska says: असज्यमाने इति ना व्युदस्यंत्याविति वा बहुधारे उदकवत्यौ (*asajyamāne iti nā vyudasyaṃtyāviti vā bahudhāre udakavatyau*) (Ni. 5-2) **GLOSS**. Heaven and Earth, pure in their works, milk for the sacrificer who does good works the घृतं (*ghṛtaṃ*), the water that brings about the prosperity of crops and the like. Then follows direct praise: O Heaven and Earth, rulers of this world, of all that has come to be, pour into us the vigour, seed capable of generating offspring, which is beneficial to men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असश्चंती (*asaścaṃtī*)—those who are free from falling
+- भूरिधारे (*bhūridhāre*)—who bear many kinds of vigour
+- पयस्वती (*payasvatī*)—who are rich in water
+- शुचिव्रते (*śucivrate*)—who have pure works and rites, Heaven and Earth
+- सुकृते (*sukṛte*)—for the sacrificer who does good works
+- घृतं (*ghṛtaṃ*)—water
+- दुहाते (*duhāte*)—they milk
+- रोदसी (*rodasī*)—O Heaven and Earth
+- अस्य भुवनस्य (*asya bhuvanasya*)—of all that has come to be
+- राजंती (*rājaṃtī*)—you who are the lords
+- यत् (*yat*)—which vigour
+- मनुर्हितं (*manurhitaṃ*)—is beneficial to men
+- रेतः (*retaḥ*)—that vigour
+- अस्मे (*asme*)—in us
+- सिंचतं (*siṃcataṃ*)—pour and establish
+
+### Printed p. 525
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and Earth, who are free from falling, who bear many kinds of vigour, who are rich in water and whose works and rites are pure, milk water for the sacrificer who does good works. O Heaven and Earth, you who are the lords of all that has come to be, pour and establish in us that vigour (water or strength) that is beneficial to men.
+
+##### English translation
+Uncollapsing, many-showering water-retaining, yielding moisture,
+beneficent, pure in act : you two Heaven and Earth, rulers over created
+beings, grant us vigour. that may be favourable to (the increase of)
+mankind.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वा॑मृ॒जवे॒ क्रम॑णाय रोदसी॒ मर्तो॑ द॒दाश॑ धिषणे॒  ॑
+> स साधति ।  
+> प्र प्र॒जाभि॑र्जायते॒ धर्म॑ण॒स्परि॑ यु॒वोः सि॒क्ता विषु॑रूपाणि॒  ॑
+> सव्रता ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वां । यजवे । क्रमणाय । रोदसी इति । मर्तः । ददाश । धिषणे इति । सः ।  
+> साधति ।  
+> प्र । प्रजाभिः । जायते । धर्मणः । परि । युवोः । सिक्ता । विषुरूपाणि । सव्रता॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धिषणे धृष्टे सर्वस्य भुवनस्य निवासभूते वा हे रोदसी वां युवाभ्यां
+> यो मर्तो मर्त्य ऋजवे क्रमणाय युवयोः सुखगमनाय ददात हवींषि
+> ददाति स मर्त्यः साधति । कामान् साधयति । किंच प्रजाभिः पुत्रपौत्रादिभिः प्र
+> जायते । प्रवृद्दो भवति । धर्मणः कर्मणः पर्युपरि युवोर्युवयोः सिक्ता
+> सिक्तानि रेतांसि विषुरूपाणि नानावर्णानि सव्रता समानकर्माणि भूतानि जायंते ॥
+
+##### Gist of the bhāṣya
+
+O धिषणे (*dhiṣaṇe*), firm, or the abode of all beings, O Heaven and Earth: the mortal who gives you oblations for your easy, straight course, that mortal accomplishes his desires. Moreover, he is born forth, that is, he prospers, with progeny, sons, grandsons and the rest. Above the rite, the vigours sprinkled by you two, of various colours and of like work, come into being as creatures.
+
+### Printed p. 526
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धिषणे (*dhiṣaṇe*)—you who have a firm standing
+- रोदसी (*rodasī*)—O Heaven and Earth
+- वां (*vāṃ*)—for you
+- यः मर्तः (*yaḥ martaḥ*)—the man who
+- ऋजवे क्रमणाय (*ṛjave kramaṇāya*)—for your easy coming
+- ददाश (*dadāśa*)—offers an oblation
+- सः (*saḥ*)—that same man
+- साधति (*sādhati*)—obtains his desired ends
+- प्रजाभिः (*prajābhiḥ*)—with sons, grandsons and the rest
+- प्र जायते (*pra jāyate*)—prospers
+- युवोः (*yuvoḥ*)—your
+- धर्मणः परि (*dharmaṇaḥ pari*)—as the fruit of the upholding work
+- सिक्ता (*siktā*)—by the sprinkled vigours
+- विषुरूपाणि (*viṣurūpāṇi*)—having many kinds of forms
+- सव्रता (*savratā*)—and yet of like work, the beings (creatures) come into being
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, you who have a firm standing: the man who, for your easy coming, offers an oblation to you, that same man obtains all his desired ends. He prospers with sons, grandsons and the rest. From the vigours sprinkled as the fruit of your upholding work, creatures that have many kinds of forms and yet are of like work come into being.
+
+##### English translation
+Firm-set Heaven and Earth, the mortal who has offered (oblations) for your straight-forwad course, accomplishes (his objects), he prospers with progeny, and invigorated by your operation, many beings of various forms, but similar functions, engendered.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒तेन॒ द्यावा॑पृथि॒वी अ॒भीवृ॑ते घृत॒श्रिया॑ घृत॒पृचा॑ घृता॒वृधा॑ ।  
+> उ॒र्वि पृ॒थ्वी हो॑तृ॒वूर्ये॑ पु॒रोहि॑ते॒ ते इद्विप्रा॑ ईळते  ॒॒॑
+> सुम्ममिष्टये ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 520. Mandala 6 sukta 69 Rks 3-8, Indra-Vishnu
+**Progress note:** Done through printed p. 526. Mandala 6 sukta 69 Rk 8 end; sukta 70 Rks 1-4
