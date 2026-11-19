@@ -21823,6 +21823,309 @@ The wise man always (solicits) you with his prayers for this (supply of water), 
 
 O Mitra and Varuṇa, your dear deeds, ordained by you, are those which the non-sacrificing people, vying with you, harm; and the gods who are not joined with the praise that carries the oblation
 
+### Printed p. 494
+
+> मर्ता मनुष्याश्च हसा न युज्यंते । ये चाप्यः । अपः कर्म । तद्वंतोऽयज्ञसाचो न यज्ञयुक्ताः । वृथाकर्माणि कुर्वंत इत्यर्थः । ये च न पुत्राः ।
+> पृणंतीति पुत्राः । न पुत्रा अपृणंत इत्यर्थः । तान् सर्वान्वि चयिष्टमित्यनुषज्यते ॥
+
+##### Gist of the bhāṣya
+
+The mortals, men, are not joined with हसा (*hasā*) **NOTE**. And those who have चाप्यः (*cāpyaḥ*) **NOTE**, that is, work (अपः कर्म (*apaḥ karma*)): possessing it, they are अयज्ञसाचः (*ayajñasācaḥ*), not joined with sacrifice; the meaning is that they perform fruitless works. And those who are न पुत्राः (*na putrāḥ*): they who fill (पृणंतीति (*pṛṇaṃtīti*)) are sons (पुत्राः (*putrāḥ*)); those who are not sons are those who do not fill (the gods with offerings). "Destroy all of them" (वि चयिष्ट (*vi cayiṣṭa*)) is to be carried on from the preceding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—to you
+- प्रिया (*priyā*)—which are agreeable
+- युवधिता (*yuvadhitā*)—and are directed to you
+- धाम (*dhāma*)—the rites
+- यत् (*yat*)—which men devoid of rites
+- स्पर्धन् (*spardhan*)—vying
+- प्र मिनंति (*pra minaṃti*)—harm
+- ये देवासः (*ye devāsaḥ*)—which gods
+- ओहसा (*ohasā*)—by the praises that extol you
+- न (*na*)—are not (joined)
+- मर्ताः (*martāḥ*)—which mortals
+- न (*na*)—are not joined
+- ये (*ye*)—those who
+- अप्पः (*appaḥ*)—though possessed of rites
+- अयज्ञ साचः (*ayajña sācaḥ*)—are devoid of sacrifice (and)
+- न पुत्राः (*na putrāḥ*)—those who do not worship and satisfy you, destroy all of them
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the rites that are directed to you and agreeable to you, which men devoid of rites harm, vying with you; the gods who are not joined with the praises that extol you; the mortals who are not joined with those same praises; those who, though possessed of rites, are devoid of sacrifice; and those who do not worship and satisfy you: destroy them all.
+
+##### English translation
+(Exterminate also), Mitra and Varuna, those who, emulously
+contending, disturb the rites that are agreeable and beneficial to you both :
+those divinities, those mortals, who are not diligent in adoration,
+those who performing works perform not sacrifices. those who do not
+propitiate you.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि यद्वाचं॑ की॒स्तासो॒ भरं॑ते॒ शंसं॑ति॒ के चि॑न्नि॒ विदो॑  ॒
+> मनानाः ।  
+> आद्वां॑ ब्रवाम स॒त्यानु॒, क्था नकि॑र्दे॒वेभि॑र्यतथो महि॒त्वा ॥
+
+### Printed p. 495
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यत् । वाचं । कीस्तासः । भरंते । शंसंति । के । चित् । निविदः । मनानाः ।  
+> आत् । वां । ब्रवाम । सत्यानि । उक्ता । नकिः । देवेभिः । यतथः । महित्वा ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा कीस्तासो मेधाविन उद्गातारः । उशिजः कीस्तास इति मेधाविनामसु
+> पाठात् । वाचं स्तुतिं वि भरंते पृथक् उच्चारयंति तदा के चिद्ब्रह्मचा मनाना
+> अग्न्यादीन् स्तुवंतो निविदः शंसंति । अत्तथा सति वां युवाभ्यां सत्यान्न्युक्थानि
+> स्तोत्राणि वयं ब्रवाम । महित्वा महत्वेन देवेभिरनैर्देवैः सह नकिर्यतथः ।
+> न गच्छथः ॥
+
+##### Gist of the bhāṣya
+
+When the कीस्तासः (*kīstāsaḥ*), the intelligent udgātṛs (the word is read among the names of the intelligent: उशिजः कीस्तास (*uśijaḥ kīstāsa*)), utter the praise (वाचं (*vācaṃ*)) separately, then some ब्रह्मचा (*brahmacā*) **NOTE**, meditating on Agni and the others and praising them, recite the Nivid mantras. This being so, we utter to you two true praises. By your greatness you two do not go together with the other gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- कीस्तासः (*kīstāsaḥ*)—intelligent udgātṛs
+- वाचं (*vācaṃ*)—the praise
+- वि भरंते (*vi bharaṃte*)—recite
+- ते चित् (*te cit*)—some **NOTE**
+- मनानाः (*manānāḥ*)—meditating on Agni and the others
+- निविदः (*nividaḥ*)—the mantra called Nivid
+- शंसंति (*śaṃsaṃti*)—they recite
+- आत् (*āt*)—on that occasion
+- वां (*vāṃ*)—addressing you two
+- सत्यानि उक्ता (*satyāni uktā*)—true mantras of praise
+- ब्रवाम (*bravāma*)—we recite
+- महित्वा (*mahitvā*)—through the loftiness of your greatness
+- देवेभिः (*devebhiḥ*)—with other gods
+- नकिः यतथः (*nakiḥ yatathaḥ*)—you neither join nor go along
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, when the intelligent udgātṛs recite the praise addressed to you, then some Ṛgvedic priests, meditating on Agni and the others, recite and praise with the mantra called Nivid. On that occasion we recite true mantras of praise addressed to you two. Through the loftiness of your greatness you neither join nor go along with the other gods.
+
+##### English translation
+When the intelligent priests offer praise, then some of them, glorify-
+ing (Agni and other deities), recite the Nivid hymns; such being the case,
+we address to you sincere adoration, for in consequence of your greatness
+you do not associate with (other) divinities
+
+### Printed p. 496
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वोरि॒त्था वां॑ छ॒र्दिषो॑ अ॒भिष्टौ॑ यु॒वोर्मि॑त्रावरुणा॒  ॑
+> वस्कृ॑धोयु ।  
+> अनु॒ यद्गावः॑ स्फु॒रानृ॑जि॒प्यं धृ॒ष्णुं यद्रणे॒ वृष॑णं यु॒नज॑न् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवोः । इत्था । वां । छर्दिषः । अभिष्वा । युवोः । मित्रावरुण् । अस्कृधोयु ।  
+> अनु । यत् । गावः । स्पुरान् । ऋजिप्यं । धृष्णुं । यत् । रणे । वृषणं । युनजन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणाववोरवतोर्वां युवयोरभिष्टावभिगमने छर्दिषो
+> गृहाय सुखाय वा ॥ चतुर्थ्यर्थे षष्ठी ॥ युवामभिगतेषु स्तोतृषु युवोर्युवयोः संबंधि युवाभ्यां देयं तद्गृहादिकमस्कृधोय्वविच्छिन्नं भवति ।
+> तथा च यास्कः । अस्कृधोयुरकृध्वायुः । कृध्विति ह्रस्वनाम निकृत्तं भवति । नि. ६-३ ।
+> इति । इत्था सत्यमेव । कदा मित्रावरुणयोरभिगमनमित्यत आह । यद्यद गावः
+> स्तुतयोऽनु स्पुरान् अनुस्पुरेयुः। यदा च ऋजिष्यमृजुगामिनं धृष्णुं शत्रूणां
+> धर्षकं वृषणं कामानां वर्षितारं सोमं रणे रमणे यज्ञे युनजन्
+> यजमाना युंज्युः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, protectors, at your approach (अभिष्टौ (*abhiṣṭau*)), for the house or for happiness: among the singers who have come to you, whatever of yours is to be given by you, that house and the rest, becomes अस्कृधोयु (*askṛdhoyu*), uninterrupted. So Yāska: अस्कृधोयुरकृध्वायुः । कृध्विति ह्रस्वनाम निकृत्तं भवति । (*askṛdhoyurakṛdhvāyuḥ | kṛdhviti hrasvanāma nikṛttaṃ bhavati |*) (Ni. 6-3) **GLOSS**. इत्था (*itthā*) means "truly". When is your approach? He says: when the गावः (*gāvaḥ*), the praises, ring out after (अनु स्पुरान् (*anu spurān*)), and when the sacrificers yoke (युनजन् (*yunajan*)) in the rite, in the sacrifice (रणे (*raṇe*)), the Soma that is ऋजिष्यं (*ṛjiṣyaṃ*), going straight, धृष्णुं (*dhṛṣṇuṃ*), the assailer of enemies, and वृषणं (*vṛṣaṇaṃ*), the showerer of desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- यत् (*yat*)—when
+- गावः (*gāvaḥ*)—the praises
+- अनु स्पुरान् (*anu spurān*)—are recited (and)
+- यत् (*yat*)—when
+- ऋजिष्यं (*ṛjiṣyaṃ*)—the Soma that goes straight
+- धृष्णुं (*dhṛṣṇuṃ*)—that assails enemies
+- वृषणं (*vṛṣaṇaṃ*)—and that showers desires
+- रणे (*raṇe*)—in the sacrifice
+- युनजन् (*yunajan*)—the sacrificers offer, then
+- छर्दिषः (*chardiṣaḥ*)—to the house
+- अवोः (*avoḥ*)—protectors
+- वां (*vāṃ*)—your
+- अभिष्टौ (*abhiṣṭau*)—as the result of the approach
+- युवोः (*yuvoḥ*)—the houses and the rest given by you
+- अस्कृधोयु (*askṛdhoyu*)—remain unbroken and eternal, or great
+- इत्था (*itthā*)—this is true
+
+### Printed p. 497
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, when the praises addressed to you are recited, when the sacrificers offer in the sacrifice the Soma that goes straight, assails enemies and showers desires, then, as the result of the approach of you, the protectors of the house, the houses and the rest given by you remain unbroken and eternal, or great.
+
+##### English translation
+Upom your approach, Mitra and Varuna, protectors of the dwelling,
+your (bounty) is unlimited; when (your) praises are uttered, and the
+sacrificers add in the ceremony the soma that inspires straight-forwardness
+and resolution, and is the showerer (of benefits)
+
+## Sūkta 68 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रुष्टि वामित्येकादशर्चं सप्तमं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रावरुणं । तथा चानुक्रम्यते । श्रुष्टि वामैंद्रावरुणमुपांत्ये जगत्याविति । प्र
+> सम्राज इंद्रावरुणा सुतपावित्येते जगत्यौ शिष्टास्त्रिष्टुभः । इंद्रावरुणौ देवता ॥
+> अभिप्लविकेषूक्ष्येषु तृतीयसवने होत्रकशस्त्रेषु स्तोमवृद्दौ मैत्रावरुणस्येदमावापार्थं सूक्तं । सूत्रितं च । श्रुष्टि नां यज्ञो युवां नरा । आ. ७-९ ।
+> इति ॥ तृतीयसवन इंद्रावरुणा सुतपाविमं सुतमिति प्रशास्तुः प्रस्थितयाज्या ।
+> सूत्रितं च । इंद्रावरुणा सुतपाविमं सुतमिंद्रश्च सोमं पिबतं बृहस्पते ।
+> आ. ५-५ । इति ॥ उक्थ्ये तृतीयसवन इंद्रावरुणा मधुमत्तमस्यॆति मैत्रावरुणस्य
+> शस्त्रयाज्या । सूत्रितं च । इंद्रावरुणा मधुमत्तमस्यॆति याज्या । आ. ६-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning श्रुष्टि वां (*śruṣṭi vāṃ*) has eleven ṛks and is the seventh sūkta; its seer is Bharadvāja, its metre Triṣṭubh and its deity Indra and Varuṇa. So it is given in the Anukramaṇikā: श्रुष्टि वामैंद्रावरुणमुपांत्ये जगत्याविति (*śruṣṭi vāmaiṃdrāvaruṇamupāṃtye jagatyāviti*) **GLOSS**. The two ṛks प्र सम्राज (*pra samrāja*) and इंद्रावरुणा सुतपा (*iṃdrāvaruṇā sutapā*) are in the Jagatī metre; the rest are Triṣṭubh. The deity is Indra and Varuṇa. In the Abhiplava ukthya rites, at the third pressing, among the śastras of the hotṛ's assistants, when the stoma is increased, this sūkta is the one to be inserted (āvāpa) for the Maitrāvaruṇa. It is laid down in the sūtra: श्रुष्टि नां यज्ञो युवां नरा (*śruṣṭi nāṃ yajño yuvāṃ narā*) (Ā. 7-9) **GLOSS**. At the third pressing the ṛk इंद्रावरुणा सुतपाविमं सुतं (*iṃdrāvaruṇā sutapāvimaṃ sutaṃ*) is the prasthita yājyā of the Praśāstṛ. It is laid down: इंद्रावरुणा सुतपाविमं सुतमिंद्रश्च सोमं पिबतं बृहस्पते (*iṃdrāvaruṇā sutapāvimaṃ sutamiṃdraśca somaṃ pibataṃ bṛhaspate*) (Ā. 5-5) **GLOSS**. In the ukthya, at the third pressing, the ṛk इंद्रावरुणा मधुमत्तमस्य (*iṃdrāvaruṇā madhumattamasya*) is the śastra yājyā of the Maitrāvaruṇa. It is laid down: इंद्रावरुणा मधुमत्तमस्यॆति याज्या (*iṃdrāvaruṇā madhumattamasyèti yājyā*) (Ā. 6-1) **GLOSS**.
+
+##### Anuvāda
+
+This sūkta श्रुष्टि वां (*śruṣṭi vāṃ*) is the seventh sūkta in the sixth anuvāka. It has eleven ṛks. Bharadvāja is the seer of this sūkta; Indra and Varuṇa are the deities; the metre is Triṣṭup. In the Anukramaṇikā it is said: श्रुष्टि वामैंद्रावरुणमुपांत्ये जगत् (*śruṣṭi vāmaiṃdrāvaruṇamupāṃtye jagat*) **GLOSS**. The ninth and tenth ṛks of this sūkta, प्र सम्राजे (*pra samrāje*) and इंद्रावरुणा सुतपौ (*iṃdrāvaruṇā sutapau*), are in the Jagatī metre. The remaining nine ṛks are in the Triṣṭup metre. In the ukthya sacrifices connected with the Abhiplava
+
+### Printed p. 498
+
+at the time of the third pressing, the priests of the hotṛ group are to recite this sūkta, for the increase of the stoma, as an āvāpa sūkta addressed to Maitrāvaruṇa; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra श्रुष्टी वां यज्ञो युवां नरा (*śruṣṭī vāṃ yajño yuvāṃ narā*) (Ā. 7-9) **GLOSS**. And at the time of the third pressing the tenth ṛk of this sūkta, इंद्रावरुणा सुतपाविमं सुतं (*iṃdrāvaruṇā sutapāvimaṃ sutaṃ*), is to be used for the prasthita yājyā mantra recited by the priest called Praśāstṛ; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra इंद्रावरुणा सुतपाविमं सुतमिंद्रश्च सोमं पिबतं बृहस्पते (*iṃdrāvaruṇā sutapāvimaṃ sutamiṃdraśca somaṃ pibataṃ bṛhaspate*) (Ā. 5-5) **GLOSS**. In the ukthya sacrifice also, at the time of the third pressing, the eleventh ṛk of this sūkta, इंद्रावरुणा मधुमत्तमस्य (*iṃdrāvaruṇā madhumattamasya*), is to be used as a yājyā mantra among the śastra mantras recited by the priest called Maitrāvaruṇa; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra इंद्रावरुणा मधुमत्तमस्यॆति याज्या (*iṃdrāvaruṇā madhumattamasyèti yājyā*) (Ā. 6-1) **GLOSS**.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 88 **NOTE**
+- Aṣṭaka 5; Adhyāya 1; Varga 11, 12
+- Number of ṛks in the sūkta: 11
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: इंद्रावरुणौ (*iṃdrāvaruṇau*)
+- Metre: 1-8, 11: त्रिष्टुप् (*triṣṭup*); 9, 10: जगती (*jagatī*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒ष्टी वां॑ य॒ज्ञ उद्य॑तः स॒जोषा॑ मनु॒ष्वद्वृ॒क्तब॑र्हिषो॒  ॑
+> यज॑ध्यै ।  
+> आ य इंद्रा॒वरु॑णावि॒षे अ॒द्य म॒हे सु॒म्नाय॑ म॒ह आ॑व॒वर्त॑त् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रुष्टी । वां । यज्ञः । उत्यतः । सजोषाः । मनुष्वत् । वृक्तबर्हिषः ।  
+> यजध्यै ।  
+> आ । यः । इंद्रावरुणौ । इषे । अद्य । महे । सुम्नाय । महे । आववर्तत् ॥ १ ॥
+
+### Printed p. 499
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महे मंहनीयौ हे इंद्रावरुण् वां युवयोरर्थे श्रुष्टि क्षिप्रः ।
+> तथा च यास्कः । श्रुष्टिति क्षिप्रनामाशु अष्टीति । नि. ६-१२ । यज्ञः सोमः सजोषा
+> ऋत्विग्निः सहितोऽद्या समंतादुद्यतः प्रवृत्तः । यः सोमो मनुष्यत् मनोरिव
+> वृक्तबर्हिषः स्तीर्णबर्हिषो यजमानस्येषेन्नार्थं महे महते सुम्नाय
+> सुखाय च यजध्यै यष्टुं वामाववर्तत् आवर्तयति ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, honourable ones (महे (*mahe*)), for you two the sacrifice is श्रुष्टि (*śruṣṭi*), swift. So Yāska: श्रुष्टिति क्षिप्रनामाशु अष्टीति (*śruṣṭiti kṣipranāmāśu aṣṭīti*) (Ni. 6-12) **GLOSS**. The Soma, the sacrifice, accompanied by the priests (सजोषा (*sajoṣā*)), is today set out, started, all around. That Soma, like Manu, for the sacrificer who has spread the sacred grass (वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)), for food (इषे (*iṣe*)), for great happiness (सुम्नाय (*sumnāya*)), for worshipping you, आववर्तत् (*āvavartat*), brings you here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—O venerable
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—Indra and Varuṇa
+- यः (*yaḥ*)—which Soma
+- मनुष्यत् (*manuṣyat*)—like Manu
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—for the sacrificer who has spread the well prepared seat of darbha grass
+- इषे (*iṣe*)—for food
+- महे (*mahe*)—and for great
+- सुम्नाय (*sumnāya*)—happiness
+- यजध्यै (*yajadhyai*)—to worship you
+- आववर्तत् (*āvavartat*)—is made ready
+- यज्ञः (*yajñaḥ*)—that Soma
+- श्रुष्टि (*śruṣṭi*)—swiftly
+- नां (*nāṃ*)—addressed to you **NOTE**
+- सजोषाः (*sajoṣāḥ*)—accompanied by the priests
+- अद्य (*adya*)—now
+- आ (*ā*)—everywhere
+- उद्यतः (*udyataḥ*)—is offered (is engaged in your worship)
+
+##### भावार्थ (Bhāvārtha)
+
+O venerable Indra and Varuṇa, for the sacrificer who, like Manu, has spread the well prepared seat of darbha grass and worships you, the Soma that is made ready to worship you, for food and for great happiness, is now offered everywhere, swiftly, addressed to you, by the priests; and it is engaged in your worship.
+
+##### English translation
+Mighty Indra and Varna promptly has the soma returned, engaged conscientiously (with the priests) to offer sacrifice to you to obtain food, for him by whom, like Manu. the sacred grass has been clipped; he who (invited you hither) to-day for exceeding happiness.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता हि श्रेष्ठा॑ दे॒वता॑ता तु॒जा शूरा॑णां॒ शवि॑ष्ठा॒ ता हि भू॒तं।  
+> म॒घोनां॒ मंहि॑ष्ठा तुवि॒शुष्क॑ ऋ॒तेन॑ वृत्र॒तुरा॒ सर्व॑सेना ॥
+
+### Printed p. 500
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । हि । श्रेष्ठा । देवताता । तुजा । शूराणां । शविष्ठा । ता । हि । भूतं ।  
+> मघोनां । मंहिष्ठा । तुविशुष्मा । ऋतेन । वृत्रतुरा । सर्वसेना ॥ २ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ ता तौ प्रसिद्धौ युवां श्रेष्ठा श्रेष्ठौ देवताता देवतात्
+> यज्ञे । इष्टिर्देवतातेति यज्ञनामसु पाठात् । तुजा धनानां प्रेरकौ हि भूतं ।
+> भवतं । किंच ता तौ हि युवां शूराणां मध्यॆ शविष्ठातिशयेन बलवंतौ भूतं ।
+> किंच मघोनां दानवतां मंहिष्ठा दातृतमौ तुविशुष्मा बहुबलावृतेन सत्येन
+> वृत्रतुरा शत्रूणां हिंसकौ सर्वसेना कृत्ससेनौ च भूतमिति ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, you two, those well known, are the best (श्रेष्ठा (*śreṣṭhā*)) देवताता (*devatātā*) **NOTE** in the sacrifice, since इष्टिर्देवतातेति (*iṣṭirdevatāteti*) is read among the names of sacrifice. You are तुजा (*tujā*), impellers of wealth: be so. Moreover, among heroes you two are शविष्ठा (*śaviṣṭhā*), exceedingly strong. Moreover, among the मघोनां (*maghonāṃ*), those who give, you are मंहिष्ठा (*maṃhiṣṭhā*), the greatest givers; तुविशुष्मा (*tuviśuṣmā*), of great strength; through ऋतेन (*ṛtena*), truth, वृत्रतुरा (*vṛtraturā*), destroyers of foes; and सर्वसेना (*sarvasenā*), possessed of whole armies: be so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता हि (*tā hi*)—you two, the well known
+- देवताता (*devatātā*)—in the sacrifice that worships the gods
+- श्रेष्ठा (*śreṣṭhā*)—the best
+- तुजा (*tujā*)—as givers of wealth
+- भूतं (*bhūtaṃ*)—you are
+- ता हि (*tā hi*)—you two
+- शूराणां (*śūrāṇāṃ*)—among heroes
+- शविष्ठा (*śaviṣṭhā*)—of exceeding strength
+- मघोनां (*maghonāṃ*)—among those who possess wealth
+- मंहिष्ठा (*maṃhiṣṭhā*)—most generous givers
+- तुविशुष्मा (*tuviśuṣmā*)—you yourselves, of abundant strength
+- ऋतेन (*ṛtena*)—through truth
+- वृत्रतुरा (*vṛtraturā*)—destroyers of foes
+- सर्वसेना (*sarvasenā*)—and also in the form of all armies **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, in the sacrifice that worships the gods, you two, the well known, are the best givers of wealth. You two alone are of exceeding strength among heroes, and the most generous givers among those who possess wealth. You yourselves, of abundant strength, through truth are destroyers of foes and are also in the form of all armies.
+
+##### English translation
+You two are the principal (divinities) at the worship of the gods;
+the distributors of wealth; the most vigorous of heroes; the most liberal
+among the opulent; possessed of vast strength; destroyers of foes by truth;
+entire hosts (of yourselves).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता गृ॑णीहि नम॒स्ये॑भिः शू॒षैः सु॒म्नेभि॒रिंद्रा॒वरु॑णा चका॒ना ।  
+> वज्रे॑णा॒न्यः शव॑सा॒ हंति॑ वृ॒त्रं सिष॑क्त्य॒न्नो वृ॒जने॑षु॒ विप्रः॑ ॥३॥
+
 ---
 
-**Progress note:** Done through printed p. 493. Sūkta 67 Ṛk 4-9, pp. 487-493
+**Progress note:** Done through printed p. 500. Ṛk 9 end of sūkta 67, Ṛk 10-11, sūkta 68 Ṛk 1-3 start
