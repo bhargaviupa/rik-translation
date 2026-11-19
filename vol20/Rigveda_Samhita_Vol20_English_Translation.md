@@ -26467,6 +26467,225 @@ O Indra, maker of paths, all-knowing, you, be our leader who goes before, in the
 
 O Indra, maker of paths and all-knowing, you be our guide in all kinds of paths, whether easy to travel or hard to travel. With the horses that are free from fatigue, of great power and fit for bearing, bring us food.
 
+### Printed p. 755
+
+##### English translation
+Costructor of paths, who are cognizant (of all things), be our preceder, whether in easy or difficult (ways) : bring to us food, Indra, with those your (steeds), who are unwearied, large, and bearers of great burdens.
+
+## Sūkta 22 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य एक इदित्येकादशर्चं सप्तमं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं ।
+> तथा चानुक्रांतं । य एक एकादशेति ॥ अभिप्लविके प्रथमेऽहनि दशरात्रॆस्य
+> प्रथमेऽहनि च माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्रेऽहीनसूक्तस्य स्थाने त्रीणि
+> संपातसूक्तानि । तेष्विदं द्वितीयं सूक्तं । सूत्रितं च । य एक इद्यस्तिगृंगः ।
+> आ. ७-५ । इति ॥ उपहव्यनाम्मेकाहेऽपीदं निष्केवल्यनिविद्वानं । सूत्रितं च । य
+> एक इदिति मध्यंदिनः । आ. ९-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning य एक इत् (*ya eka it*), has eleven Ṛks. Its seer is Bharadvāja, its metre is Triṣṭubh and its deity is Indra. The Anukramaṇī says the same: य एक एकादशेति (*ya eka ekādaśeti*). Use: on the first day of the Abhiplava rite, and on the first day of the Daśarātra, at the midday pressing, in the śastra of the Brāhmaṇācchaṃsin, three Sampāta-sūktas stand in the place of the Ahīna-sūkta; of these this is the second. The sūtra states it: य एक इद्यस्तिगृंगः (*ya eka idyastigṛṃgaḥ*) (Ā. 7-5). In the one-day rite called Upahavya this sūkta is also the Nivid-dhāna of the Niṣkevalya; the sūtra states it: य एक इदिति मध्यंदिनः (*ya eka iditi madhyaṃdinaḥ*) (Ā. 9-7).
+
+The sūkta "Ya eka it" is the seventh sūkta in the second anuvāka. It has eleven Ṛks. Bharadvāja is the seer of this sūkta, Indra is the deity and Triṣṭubh is the metre. In the Anukramaṇī it is said: Ya eka, eleven. On the first day of the Abhiplava-related sacrifice, and also on the first day of the sacrifice called Daśarātra, at the time of the midday pressing, among the śastra-mantras recited by the priest called Brāhmaṇācchaṃsin, three Sampāta-sūktas must be recited for the Ahīna-sūkta. Of these, this sūkta is the second. This matter is set forth in the sūtra of the Āśvalāyana Śrauta-sūtra, "Ya eka idyastigṛṅgaḥ" (Ā. 7-5). Also, in the one-day sacrifice called Upahavya, in the middle of the Niṣkevalya-śastra, this sūkta is to be recited, inserted as the Nividdhānīya sūkta; this is set forth in the Āśvalāyana Śrauta-sūtra, "Ya eka iti madhyandinaḥ" (Ā. 9-7).
+
+Sūkta 22. Maṇḍala 6. Anuvāka 2. Sūkta 2. Aṣṭaka 4. Adhyāya 6. Varga 13-4. Number of Ṛks in the sūkta: 11. Ṛṣi: Bharadvāja Bārhaspatya. Devatā: Indra. Chandas: Triṣṭubh.
+
+### Printed p. 756
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य एक॒ इद्धव्य॑श्चर्षणी॒नामिंद्रं॒ तं गी॒र्भिर॒भ्य॑र्च आ॒भिः ।  
+> यः पत्य॑ते वृष॒भो वृष्ण्या॑वान्त्स॒त्यः सत्वा॑ पुरुमा॒यः  ॑
+> सहस्वान् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । एकः । इत् । हव्यः । चर्षणीनां । इंद्रं । तं । गीभिः । अभि । अर्चे । अभिः ।  
+> यः । पत्यते । वृषभः । वृष्ट्यवान् । सत्यः । सत्वा । पुरुमायः । सहस्वान् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रश्च र्षणीनां प्रजानामापत्स्वेक इदेक एव हव्यो ह्वातव्य
+> आभिर्गिर्भिः स्तुतिरूपाभिर्वाग्भिस्तमिंद्रमभ्यर्चे । अभिष्टौमि । य इंद्रः पत्यते
+> स्तोत्यनभिगच्छति । यद्वा । पत्यते लोकानामिष्टे । कीदृशः । वृषभः कामानां
+> वर्षिता वृष्ट्यावान्बलवान् सत्योऽविसंवादी सत्वा शत्रूणां सादयिता कामानां
+> दाता वा ॥ सदेर्वा सनोतेर्वेदं रूपं ॥ पुरुमायो बहुप्रज्ञः सहस्वानभिभवनवान् तमिंद्रमभिष्टौमीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Indra, who among the people is the one alone to be invoked in times of distress: with these praises, which take the form of words of eulogy, the seer praises that Indra. This Indra approaches his praisers; or else he rules over the worlds. What kind is he? He is the showerer of desires, powerful, true, that is, never contradicting himself; सत्वा (*satvā*) means the one who brings down enemies, or the giver of desires, the form being derived from सदेर्वा सनोतेर्वेदं रूपं (*sadervā sanotervedaṃ rūpaṃ*). He is of much wisdom and overpowering. The construction is: I praise that Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभः (*vṛṣabhaḥ*)—showerer of desires
+- वृष्ण्यावान् (*vṛṣṇyāvān*)—powerful
+- सत्यः (*satyaḥ*)—of the nature of truth
+- सत्वा (*satvā*)—giver of desired objects
+- पुरुमायः (*purumāyaḥ*)—possessing manifold wisdom
+- सहस्वान् (*sahasvān*)—possessing power to defeat enemies
+- यः (*yaḥ*)—which Indra
+- चर्षणीनां (*carṣaṇīnāṃ*)—among all men
+- एक इत् (*eka it*)—unequalled
+- हव्यः (*havyaḥ*)—worthy of worship
+- यः (*yaḥ*)—which Indra
+- पत्यते (*patyate*)—turns toward the praisers
+- तं इंद्रं (*taṃ iṃdraṃ*)—that same Indra
+- अभिः गीर्भिः (*abhiḥ gīrbhiḥ*)—with these praises
+- अभ्यर्चॆ (*abhyarcè*)—I worship
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra who is the showerer of desires, powerful, of the nature of truth, giver of desired objects, possessing manifold wisdom and power to defeat enemies, who is unequalled and worthy of worship among all men, and who turns toward his praisers: that same Indra I worship with these praises.
+
+### Printed p. 757
+
+##### English translation
+I glorify with these praises, Indra, who alone is to be invoked by man : who comes (to his worshippers) the showerer (of benefits), the vigorous, the observer of truth, the subduer of foes, the possessor of manifold know- ledge, the mighty.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ नः॒ पूर्वे॑ पि॒तरो॒ नव॑ग्वाः स॒प्त विप्रा॑सो अ॒भि वा॒जयं॑तः ।  
+> न॒क्ष॒द्दा॒भं ततु॑रिं पर्वते॒ष्ठामद्रो॑घवाचं म॒तिभिः॒ शवि॑ष्ठं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । नः । पूर्वे । पितरः । नवग्वाः । सप्त । विप्रासः । अभि । वाजयंतः ।  
+> नक्षत् ऽदाभं । ततुरिं । पर्वतेस्थां । अद्रोघवाचं । मतिभिः । शविष्ठं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वे प्रत्ना नवग्वा नवभिर्मासैः सत्रमनुष्ठितवंतः सप्त सप्तसंख्याका
+> विप्रासो विप्रा मेधाविनो वाजयंतो वाजमन्नं हनिर्लक्षणमिंद्रस्य कुर्वंतः ।
+> इंद्रं वा वाजिनं बलिनं कुर्वंतः ॥ तत्करोतीति णिच् ॥ एवंभूता नोऽस्माकं
+> पितरोंगिरसस्तमु तमेवेंद्रं मतिभिः स्तुतिभिरभि । तुष्टुवुरिति शेषः । कीदृशं ।
+> नक्षद्दाभं ॥ नक्षतिर्गतिकर्मा ॥ अभिगच्छतां शत्रोणां दंभितारं हिंसितारं ततुरिं
+> तरितारं पर्वतेष्यां पर्वतेश्ववस्थितमद्रोघवाचं । अद्रोग्यव्यानतिक्रमणीया
+> नागाज्ञा रूपा यस्य तं । शनिष्ठं बलवत्तमं ॥
+
+##### Gist of the bhāṣya
+
+The ancient ones, the nine-month sacrificers, seven in number, the wise, making food in the form of an offering for Indra, or making Indra strong and vigorous (the causative meaning being "he makes that"), such are our fathers, the Aṅgirases; that same Indra they praised with hymns, the verb "praised" being understood. What kind is he? One who injures the enemies who come against him; the verb of motion is the sense of the root. He is the crosser, the one stationed on the mountains, whose commands are not to be transgressed and whose form is such, and the most powerful.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्वे (*pūrve*)—ancient
+- नवग्वाः (*navagvāḥ*)—called Navagvas
+- सप्त (*sapta*)—seven in number
+- विप्रासः (*viprāsaḥ*)—wise
+- वाजयंतः (*vājayaṃtaḥ*)—desirous of food
+- नः पितरः (*naḥ pitaraḥ*)—our fathers, the Aṅgirases
+- नक्षद्दाभं (*nakṣaddābhaṃ*)—the one who checks enemies rushing upon him
+- ततुरिं (*taturiṃ*)—the swift-going
+### Printed p. 758
+- पर्वतेष्ठां (*parvateṣṭhāṃ*)—stationed on the mountain
+- अद्रोघवाचं (*adroghavācaṃ*)—whose command is not transgressed
+- शविष्ठं (*śaviṣṭhaṃ*)—endowed with power
+- तमु (*tamu*)—that same Indra
+- मतिभिः (*matibhiḥ*)—with praises
+- अभि (*abhi*)—praised
+
+##### भावार्थ (Bhāvārtha)
+
+The ancient Aṅgirases, called Navagvas, seven in number, wise, desirous of food, our fathers, praised with hymns that same Indra, who checks enemies rushing upon him, who is swift-going, stationed on the mountain, whose command is not transgressed, and who is endowed with power.
+
+##### English translation
+To him the seven sages, our ancient, progenitors, performing the nine days' rite, were offerers of (sacrificil) food, celebrating with hymns the very strong (Indra) the humiliator of foes, the traveser of the heavens, the dweller in the clouds, whose commands are not be disobeyed.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the word नक्षद्दाभं (*nakṣaddābhaṃ*) Yāska has given the Nirukta explanation:
+
+नक्षद्दा भमश्नुवानदाभमभ्यशनेन दभ्नोतीति । नक्षद्दाभं ततुरिं पर्वतेष्ठामित्यपि निगमो भवति ॥ (*nakṣaddā bhamaśnuvānadābhamabhyaśanena dabhnotīti | nakṣaddābhaṃ taturiṃ parvateṣṭhāmityapi nigamo bhavati ‖*) (2. 6-3)
+
+That is: योऽभ्यशनेन दभ्योति हिनस्ति स नक्षद्दाभ इत्युच्यते (*yo 'bhyaśanena dabhyoti hinasti sa nakṣaddābha ityucyate*). Nakṣaddābha means: he who injures, that is, strikes, a man who is making ready to come near is called Nakṣaddābha. Or, he who rushes swiftly at an enemy coming near him or against him and strikes him with a weapon is called Nakṣaddābha. And this name applies also to one who dwells on a mountain. In this matter the present Ṛk itself is given as the example, "Nakṣaddābhaṃ taturiṃ parvateṣṇāṃ".
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमी॑मह॒ इंद्र॑मस्य रा॒यः पु॑रु॒वीर॑स्य नृ॒वतः॑ पुरु॒क्षोः !  
+> यो अस्कृ॑धोयुर॒जरः॒ स्व॑र्वा॒न्तमा भ॑र हरिवो माद॒यध्यॆ ॥ ३ ॥॑
+
+### Printed p. 759
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ईमहे । इंद्रं । अस्य । रायः । पुरुऽवीरस्य । नृवतः । पुरुऽक्षोः ।  
+> यः । अस्कृधोयुः । अजरः । स्वऽवान् । तं । आ । भर । हरिऽवः । मादयध्यै ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुवीरस्य बहुपुत्रपौत्रयुक्तस्य नृवतः परिचारकजनसहितस्य पुरुक्षोर्बह्वन्नस्य बहुयशसो वास्य राय इदं धनं ॥ द्वितीयार्थे षष्ठी ॥ तमिंद्रमीमहे । याचामहे । यो रयिरस्कृधोयुरविच्छिन्नोऽजरो जराहानिरहितः
+> स्वर्वान् सुखयुक्तो हे हरिवो हरिवन् स्वकीयाश्वोपेतेंद्र त्वं तं रयिं
+> मादयध्या अस्मान्मादयितुमाभर । आहर ॥
+
+##### Gist of the bhāṣya
+
+Of this wealth of him who has many sons and grandsons, who has attendants, who has much food or much fame: the genitive stands in the sense of the accusative. We ask that Indra for it. The wealth that is unbroken, ageless and joyful: O Indra, lord of the bay horses, with your own horses, bring that wealth to us, to gladden us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुवीरस्य (*puruvīrasya*)—accompanied by many heroic sons and the like
+- नृवतः (*nṛvataḥ*)—accompanied by attendants
+- पुरुक्षोः (*purukṣoḥ*)—possessed of wealth in cattle and the like
+- अस्य रायः (*asya rāyaḥ*)—for this wealth
+- तं इंद्रं (*taṃ iṃdraṃ*)—that same Indra
+- ईमहे (*īmahe*)—we beg
+- हरिवः (*harivaḥ*)—O Indra, possessed of horses named Hari
+- यः (*yaḥ*)—which wealth
+- अस्कृधोयुः (*askṛdhoyuḥ*)—to be lasting without break
+- अजरः (*ajaraḥ*)—free from decay
+- स्वर्वान् (*svarvān*)—endowed with happiness
+- तं (*taṃ*)—that wealth
+- मादयध्यै (*mādayadhyai*)—for our satisfaction
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+For this wealth, which is accompanied by many heroic sons and the like, full of attendants, and possessed of wealth in cattle and the like, we beg that same Indra. O Indra, lord of the horses named Hari, bring for our satisfaction that wealth which is lasting without break, free from decay and endowed with happiness.
+
+##### English translation
+We solicit that Indra for wealth, comprehending numerous descend- ants, followers, and much cattle, and which is undisturbed, imperishable, and the source of felicity : such riches, lord of steeds, bestow upon us to make us happy.
+
+### Printed p. 760
+
+##### विशेषविषयगळु (Special Topics)
+
+On the word अस्कृधोयुः (*askṛdhoyuḥ*) Yāska, giving the explanation, says:
+
+अस्कृधोयुरकृध्वायुः । कृध्विति ह्रस्वनाम निकृत्तं भवति । यो अस्कृधोयुरजरः स्वर्वान् इत्यपि निगमो भवति ॥ (*askṛdhoyurakṛdhvāyuḥ | kṛdhviti hrasvanāma nikṛttaṃ bhavati | yo askṛdhoyurajaraḥ svarvān ityapi nigamo bhavati ‖*) (Ni. 6-3)
+
+Askṛdhoyuḥ means one who has a long life. The word कृधु (*kṛdhu*) means cut off, made short. Akṛdhu means not short, long; āyuḥ is life; one having life. Therefore the word askṛdhoyuḥ or akṛdhvāyuḥ means one who is not short, that is, one who has a long life, one who lives for a long time. In this matter the Nirukta-writers have given the present Ṛk itself as the example.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्नो॒ वि वो॑चो॒ यदि॑ ते पु॒रा चि॑ज्जरि॒तार॑ आन॒शुः सु॒॑न्नुमिंद्र ।  
+> कस्ते॑ भा॒गः किं वयो॑ दुध्र खिद्वः॒ पुरु॑हूत पुरूवसोऽसुर॒घ्नः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । वि । वोचः । यदि । ते । पुरा । चित् । जरितारः । आनशुः । सुम्नं । इंद्र ।  
+> कः । ते । भागः । किं । वयः । दुध्र । खिद्वः । पुरुहूत । पुरुवसो इति पुरुवसो ।  
+> असुरघ्नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यदि ते तव पुरा चित्तूर्वस्मिन्काले जरितारः स्तोतारः सुम्नं
+> सुखमानशुः तत्तत्सुखं नोऽस्माकं वि वोचः । विब्रूहि । दुध्र दुर्धर हे खिद्वः
+> शत्रोणां खेययितर्हे पुरुहूत हे पुरुषसो इंद्र असुरघ्नोऽसुराणां
+> हंतुस्ते तव यज्ञेषु को भागः क्लिप्तः । वयो हविर्लक्षणमन्नं किं क्लिप्तं ।
+
+##### Gist of the bhāṣya
+
+O Indra, if in former times your praisers obtained happiness, tell us of that happiness, each in turn. O unassailable one, O destroyer of enemies, O much-invoked one, O possessor of much wealth, Indra, slayer of the asuras: what portion of yours is ordained in the sacrifices? What food, in the form of the offering, is ordained?
+
 ---
 
-**Progress note:** Done through printed p. 754. Sūkta 21 Ṛks 8-12
+**Progress note:** Done through printed p. 760. Sukta 22 introduction and Rks 1-4 (pp. 755-760)
