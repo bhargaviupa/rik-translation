@@ -22847,6 +22847,259 @@ In the four or five Ṛks that follow, it is described that Indra destroyed the 
 > अहिं॒ यदिंद्रो॑ अ॒भ्योह॑सानं॒ नि चि॑द्वि॒श्वायुः॑ श॒यथे॑  ॒॑
 > जघान ॥ ९ ॥
 
+### Printed p. 664
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । द्यौः । चित् । ते । अप । सा । नु । वज्रात् । द्विता । अनमत् । भियसा । स्वस्य ।  
+> मन्योः ।  
+> अहिं । यत् । इंद्रः । अभि । ओहसानं । नि । चित् । विश्वआयुः । शयथे । जघान ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा प्रसिद्धा देवानामाश्रयत्वेन द्यौश्चित् द्युलोकोऽपि हे इंद्र अधाधुनास्मिन्काले द्विता द्विधा द्विप्रकारात्ते त्वदीयाद्वज्रात्स्यात्मीयान्मन्योः क्रोधाच्च
+> भियसा भयेनापानमत् । अपननाम । नु इति पूरणः । विश्वायुर्बह्वन्न इंद्रो
+> यद्यदाभ्योहसानमभिगच्छंतमहिं वृत्रं शयथे शयननिमित्ते । मरणायेत्यर्थः।
+> नि जघान न्यवधीत् । चिदिति पूरणः । यदा वृत्रं जघानास्मिन्काले द्यूर्ननामेति
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The famous heaven, the support of the gods, O Indra, now, at this time, bowed away out of a twofold fear: fear of your thunderbolt and fear of your own wrath. The particle "nu" is only a filler. When Indra, who has abundant food, slew Vṛtra the serpent, who came against him, so that he should lie down, that is, for his death, at that time the heaven bowed away. The particle "cit" is likewise a filler. The connection is: when he slew Vṛtra, at that time the heaven bowed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वायुः (*viśvāyuḥ*)—having abundant food
+- इंद्रः (*iṃdraḥ*)—you, Indra
+- यत् (*yat*)—when
+- अभ्योहसानं (*abhyohasānaṃ*)—the opposing
+- अहिं (*ahiṃ*)—Vṛtra
+- शयथे (*śayathe*)—for his destruction
+- नि जघान (*ni jaghāna*)—you slew
+- अध (*adha*)—at that time
+- सा (*sā*)—the famous
+- द्यौश्चित् (*dyauścit*)—heaven also
+- ते (*te*)—your
+- द्विता (*dvitā*)—by a twofold power, that is
+- वज्रात् (*vajrāt*)—from the thunderbolt
+- स्वस्य (*svasya*)—your
+- मन्योः (*manyoḥ*)—from wrath
+- भियसा (*bhiyasā*)—from fear
+- अप अनमत् (*apa anamat*)—bowed down in humility
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have abundant food and are the lord: when you slew Vṛtra, who opposed you, so that he was destroyed, at that time the famous heaven too bowed down in humility, from the fear produced by your twofold power, that is, by your thunderbolt and by your wrath.
+
+##### English translation
+The heaven bowed down in the two-fold dread of your thunderbolt, and your individual wrath, when Indra, the giver of food, struck to the sleep (of death) the assailing Ahi.
+
+### Printed p. 665
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ त्वष्टा॑ ते म॒ह उ॑ग्र॒ वज्रं॑ स॒हस्र॑भृष्टिं ववृतच्छ॒ताश्रिं॑ ।  
+> निका॑मम॒रम॑णसं॒ येन॒ नवं॑त॒महिं॒ सं पि॑णगृजीषिन्॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । त्वष्वा । ते । महः । उग्र । वज्रं । सहस्रभृष्टिं । ववृतत् । शताश्रिं ।  
+> निकामं । अरमनसं । येन । नवंतं । अहिं । सं । पिणक् । ऋजीषिन् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आधाधुना हे उग्रोद्गर्णबलेंद्र महो महतस्ते तव त्वष्टा देवशिल्पी
+> वज्रं ववृतत् । न्यवर्तयत् । निष्पन्नं कृतवान् । कीदृशं । सहस्रभृष्टिं सहस्रधारं
+> शताश्रिं शतपर्वाणं । हे ऋजीषिन् गतरससोमवन्निंद्र त्वं येन वज्रेण निकामं ।
+> नियतः कामो यस्य तं । अरमणसं । शत्रूणामरमभिगंतृ मनो यस्य तं । नवंतं
+> शब्दायमानमहिं वृत्रमसुरं सं पिणक् संपिष्टवानसि तं वज्रं कृतवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Now, O fierce Indra, whose strength is exalted, Tvaṣṭṛ, the craftsman of the gods, fashioned for you, the mighty one, the thunderbolt, that is, brought it to completion. It has a thousand streams and a hundred edges. O Indra, possessor of the Soma whose juice is spent, you crushed with that thunderbolt the serpent Vṛtra, the Asura, who makes a noise. He is described as one whose desire is fixed, and as one whose mind goes swiftly against his enemies. The meaning is that you made that thunderbolt and crushed him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीशिन् (*ṛjīśin*)—you who possess the Soma juice that is spent
+- उग्र (*ugra*)—Indra of terrible form
+- येन (*yena*)—with which thunderbolt
+- आरमणसं (*āramaṇasaṃ*)—him who has a tendency to rush against
+- नवंतं (*navaṃtaṃ*)—him who makes noise
+- अहिं (*ahiṃ*)—Vṛtra
+- निकामं (*nikāmaṃ*)—until you were satisfied
+- सं पिणक् (*saṃ piṇak*)—you pulverised, such
+- सहस्रभृष्टिं (*sahasrabhṛṣṭiṃ*)—having a thousand streams
+- शताश्रिं (*śatāśriṃ*)—having a hundred edges
+- वज्रं (*vajraṃ*)—thunderbolt
+- महः (*mahaḥ*)—of mighty form
+- ते (*te*)—for you
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ, the craftsman of the gods
+- अध (*adha*)—at that time
+- ववृतत् (*vavṛtat*)—made and gave
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who possess the Soma whose juice is spent, and who are of terrible form: the thunderbolt with which you struck and pulverised, until you were satisfied, Vṛtra, who has a tendency to rush against you and who makes noise, that thunderbolt with its thousand streams and its hundred joints Tvaṣṭṛ, the craftsman of the gods, made and gave in good time to you, who are of mighty form.
+
+### Printed p. 666
+
+##### English translation
+Fierce Indra, Twashtri constructed for you, the mighty one, the thousand-edged, the hundred-angled thunderbolt, wherewith you have crushed the ambitious, audacious, loud-shouting Ahi.
+
+सहस्रभृष्टिं शताश्रिं वज्रं महः ते त्वष्टा अध ववृतत् (*sahasrabhṛṣṭiṃ śatāśriṃ vajraṃ mahaḥ te tvaṣṭā adha vavṛtat*)—this Ṛk describes the thunderbolt. This thunderbolt has thousands of blades and hundreds of sharp points. It is said here that Tvaṣṭṛ, the craftsman of the gods, made such a thunderbolt for Indra.
+
+अहन्न हिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष । (*ahanna hiṃ parvate śiśriyāṇaṃ tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa |*) (Ṛ. Saṃ. 1-32-2)
+
+मह्यं त्वष्टा वज्रमतक्षदायसं मयि देवासोवृजन्नपि क्रतुं । (*mahyaṃ tvaṣṭā vajramatakṣadāyasaṃ mayi devāsovṛjannapi kratuṃ |*) (Ṛ. Saṃ. 10-48-3)
+
+In these and other Ṛks there is the description of Tvaṣṭṛ making the thunderbolt of iron for Indra.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वर्धा॒न्यं विश्वे॑ म॒रुतः॑ स॒जोषाः॒ पच॑च्छ॒तं म॑हि॒षां इं॑द्र॒  ॑
+> तुभ्यं ।  
+> पू॒षा विष्णु॒स्त्रीणि॒ सरां॑सि धावन्वृत्र॒हणं॑ मदि॒रमं॒शुम॑स्मै ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वर्धान् । यं । विश्वे । मरुतः । सजोषाः । पचत् । शतं । महिषान् । इंद्र ।  
+> तुभ्यं ।  
+> पूषा । विष्णुः । त्रीणि । सरांसि । धावन् । वृत्रहनं । मदिरं । अंशुं । आस्मै ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सजोषाः सह प्रीयमाणा विश्वे मरुतः सर्वॆ देवा हे इंद्र यं त्वां
+> वर्धान् स्तोत्रैर्वर्धयंति हे इंद्र तस्मै तुभ्यं पूषैतन्नामको देवो विष्णु -
+
+##### Gist of the bhāṣya
+
+O Indra, all the Maruts, delighted together, all the gods, exalt you with hymns. For you, the god named Pūṣan and the god named Viṣṇu...
+
+### Printed p. 667
+
+> रेतन्नामकश्च शतं शतसंख्याकान्महिषान् पुंपशून् पचत् । पचेत् । अपि चास्मै
+> तुभ्यं सरांसि द्रोणकलशपूतभ्यदाधवनीयाख्यानि त्रीणि पात्राण्यंशुं सोमं
+> धावन् । अगच्छन् । सोमैः पात्राणि पूर्यंत इत्यर्थः । कीदृशं सोमं । मदिरं
+> मदकरं वृत्रहणं वृत्राणां शत्रूणां हंतारं । अत्र वृत्रहञ्ब्यान्न सोमोऽभिधीयते । पीते हि सति सोमे वृत्राणि हंतुमिंद्रः समर्थो भवतीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+...cook a hundred buffaloes, that is, a hundred male animals; may they cook them. And for you the three vessels called Droṇakalaśa, Pūtabhṛt and Ādhavanīya go to the Soma, the Soma runs to them; the meaning is that the vessels are filled with Soma. Of what kind is the Soma? Inebriating, and slaying Vṛtras, that is, enemies. Here "Vṛtra-slaying" is said of Soma, for when Soma has been drunk Indra becomes able to slay Vṛtras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सजोषाः (*sajoṣāḥ*)—having the same affection
+- विश्वे मरुतः (*viśve marutaḥ*)—all the Maruts
+- यः (*yaḥ*)—whom
+- वर्धान् (*vardhān*)—who praised and made you grow strong
+- तुभ्यं (*tubhyaṃ*)—for such a you
+- पूषा (*pūṣā*)—the god Pūṣan
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- शतं (*śataṃ*)—numbering a hundred
+- महिषान् (*mahiṣān*)—male animals
+- पचत् (*pacat*)—may cook
+- अस्मै (*asmai*)—for you
+- त्रीणि सरांसि (*trīṇi sarāṃsi*)—also the three vessels called Droṇakalaśa, Pūtabhṛt and Ādhavanīya
+- मदिरं (*madiraṃ*)—inebriating
+- वृत्रहणं (*vṛtrahaṇaṃ*)—destroying Vṛtra
+- अंशुं (*aṃśuṃ*)—Soma
+- दावन् (*dāvan*)—may provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, all the Maruts, having the same affection, praised you and made you grow strong. For such a you, may the god Pūṣan and Viṣṇu cook a hundred male animals. May the three vessels, Droṇakalaśa, Pūtabhṛt and Ādhavanīya, also provide for you the inebriating Soma that destroys Vṛtra.**NOTE**
+
+##### English translation
+For you, Indra, whom all the Maruts, alike pleased, exalt, may Pushan and Vishnu dress for you a hundred buffaloes, and to him may the three streams flow with the inebriating, foe-destroying Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+पूषा विष्णुः शतं महिषान् पचत् (*pūṣā viṣṇuḥ śataṃ mahiṣān pacat*)—it is prayed here that the god named Pūṣan and Viṣṇu may cook for you, O Indra, a hundred animals (buffaloes). The matter of Indra eating the flesh of these animals is stated in many places, but each place has a different number. For example:
+
+पचंति ते वृषभा अत्सि तेषां पृक्षेण यन्मघवन् हूयमानः । (*pacaṃti te vṛṣabhā atsi teṣāṃ pṛkṣeṇa yanmaghavan hūyamānaḥ |*) (Ṛ. Saṃ. 10-28-3)
+
+### Printed p. 668
+
+O Indra, the sacrificing yajamānas cook for you bulls or oxen, that is, the flesh of oxen. It is said in this Ṛk that you eat it. Here there is no statement of the number of oxen.
+
+अमा ते तुम्रं वृषभं पचानि तीव्रं सुतं पंचदशं नि षिंचं । (*amā te tumraṃ vṛṣabhaṃ pacāni tīvraṃ sutaṃ paṃcadaśaṃ ni ṣiṃcaṃ |*) (Ṛ. Saṃ. 10-27-2)
+
+The seer says that he will cook one ox (its flesh) for Indra and will prepare and offer Soma juice in fifteen vessels.
+
+घसत्त इंद्र उक्षणः प्रियं काचित्करं हविर्विश्वस्मादिंद्र उत्तरः । (*ghasatta iṃdra ukṣaṇaḥ priyaṃ kācitkaraṃ havirviśvasmādiṃdra uttaraḥ |*) (Ṛ. Saṃ. 10-86-2)
+
+May Indra eat the flesh of the ox. May he eat the pleasing oblation.
+
+उक्ष्णो हि मे पंचदश साकं पचंति विंशतिं । (*ukṣṇo hi me paṃcadaśa sākaṃ pacaṃti viṃśatiṃ |*) (Ṛ. Saṃ. 10-86-14)
+
+Indra has said that the yajamānas cook for him fifteen and twenty bulls (oxen).
+
+शतं महिषान् क्षीरपाकमोदनं वराहमिंद्र एमुषं । (*śataṃ mahiṣān kṣīrapākamodanaṃ varāhamiṃdra emuṣaṃ |*) (Ṛ. Saṃ. 8-77-10)
+
+Here the matter of cooking a hundred buffaloes is stated, and
+
+सखा सख्ये अपचित्तूयमग्निरस्य क्रत्वा महिषा त्रि शतानि । (*sakhā sakhye apacittūyamagnirasya kratvā mahiṣā tri śatāni |*) (Ṛ. Saṃ. 5-29-7)
+
+here there is also mention of the cooking of the flesh of three hundred buffaloes.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ क्षोदो॒ महि॑ वृ॒तं न॒दीनां॒ परि॑ष्ठितमसृज ऊ॒र्मिम॒पां।  
+> तासा॒मनु॑ प्र॒वत॑ इंद्र॒ पंथा॒ प्रार्द॑यो॒ नीची॑र॒पसः॑  ॒
+> समुद्रं ॥ १२ ॥
+
+### Printed p. 669
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । क्षोदः । महि । वृतं । नदीनां । परिसस्थितं । अस्यजः । ऊर्मि० । अपां ।  
+> तासां । अनु । प्रवतः । इंद्र । पंथां । प्र । आर्दयः । नीचीः । अपसः । समुद्रं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं महि महद्वृतं वृत्रेण परिवृतमाच्छादितं परिष्ठितं परितः
+> स्थितं नदीनां सिंधूनां संबंधि क्षोद उदकमासृजः । आ समंतात्सृष्टवानसि ।
+> येन नद्यः पूर्णाः प्रवहेयुस्तदित्यर्थः । अपामुदकानामूर्मिं समूहं
+> सृष्टवानसि । पुनर्वचनमादरार्थं । हे इंद्र तासां नदीनां संबंधिनः पंथां
+> पथो मार्गान् प्रवशः प्रवणानन्वकार्षीरिति शेषः । अन्वित्युपसर्गयोग्यक्रियाध्याहारः । किंच नीचीः प्रवणाभिमुखीः । वेगयुक्ता इत्यर्थः । अपसोऽप उदकानि ।
+> अपस इत्यप एवार्थे वर्तते । समुद्रमुदधिं प्रार्दयः । प्रागमयः । अत्रार्दयतिर्नयनकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you let flow the water of the rivers, the streams, which was great, covered, enveloped and standing all around by Vṛtra; the meaning is that by this the rivers flowed full. You let loose the wave, the mass, of the waters; the repetition is for emphasis. O Indra, you made the paths of those rivers run along the slopes; "anu" is a preposition whose verb has to be supplied. Further, you drove the waters, which turned downwards towards the slope, that is, were full of speed, to the ocean, the sea. "Apasaḥ" has here the sense of "waters". Here the verb "ard" has the sense of leading.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महि (*mahi*)—great
+- वृतं (*vṛtaṃ*)—held back by Vṛtra
+- परिष्मितं (*pariṣmitaṃ*)—standing all around
+- नदीनां क्षोदः (*nadīnāṃ kṣodaḥ*)—the water of the rivers
+- आ अस्पृजः (*ā aspṛjaḥ*)—you released and made flow
+- इंद्र (*iṃdra*)—O Indra
+- तासां (*tāsāṃ*)—of those rivers
+- अपां (*apāṃ*)—of the waters
+- ऊर्मिं (*ūrmiṃ*)—the floods
+- प्रवतः पंथां (*pravataḥ paṃthāṃ*)—having paths of flow
+- अनु (*anu*)—you made
+- नीचीर् (*nīcīr*)—flowing in the low regions
+- अपसः (*apasaḥ*)—the waters
+- समुद्रं (*samudraṃ*)—to the ocean
+- प्रार्दयः (*prārdayaḥ*)—you made flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you released and made flow the water of the rivers, which was great, held back by Vṛtra and standing all around. O Indra, you also made paths for those same floods. You made the waters that flow into the low regions flow to the ocean.
+
+##### English translation
+You have set free the greatly obstructed and arrested water of the rivers, the afflux of the waters : you have directed them, Indra, upon their downward paths : you have sent them rapidly down to the ocean.
+
 ---
 
-**Progress note:** Done through printed p. 663. Sūkta 17 Ṛks 5-8, Ṛk 9 saṃhitā
+**Progress note:** Done through printed p. 669. Ṛk 9 end to Ṛk 12 (VI.17), pp. 664-669
