@@ -18724,6 +18724,402 @@ Now the first adhyāya in the fifth aṣṭaka begins. In the sixth anuvāka of 
 
 Now we begin the explanation of the first adhyāya of the fifth aṣṭaka in the Ṛgveda-saṃhitā. In the sixth anuvāka of the sixth maṇḍala there are fourteen sūktas. Among them स्तुषे नरा (*stuṣe narā*) is the first sūkta; in it there are eleven ṛks. Anukramaṇikā
 
+### Printed p. 426
+
+it is said: स्तुष एकादशाश्विनं तु (*stuṣa ekādaśāśvinaṃ tu*) **GLOSS**. For this sūkta the seer is Bharadvāja himself, the seer of the maṇḍala; the deities are the Aśvins; the metre is Triṣṭubh. At the time of reciting the Prātaranuvāka mantras, this sūkta and the following sūkta (two sūktas) are used for the mantras in the Triṣṭubh metre connected with the Āśvina rite; and these two sūktas are used also for the Āśvina-śastra mantras. This is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, स्तुषे नरेति सूक्ते (*stuṣe nareti sūkte*) (Ā. 4-15).
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 62
+- Aṣṭaka 5; Adhyāya 1; Vargas 1, 2
+- Number of ṛks in the sūkta: 11
+- Ṛṣi: भरदाजो बार्हस्पत्यः (*bharadājo bārhaspatyaḥ*)
+- Deity: आश्विनौ (*āśvinau*), the Aśvins
+- Metre: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒षे नरा॑ दि॒वो अ॒स्य प्र॒संता॒श्विना॑ हुवे॒ जर॑माणो अ॒र्कैः ।  
+> या स॒द्य उ॒स्रा व्युषि॒ ज्यो अंता॒न्ययू॑षतः॒ पर्यु॒रू  ॑
+> वरांसि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुषे । नरा । दिवः । अस्य । प्रसंता । अश्विना । हुवे । जरमाणः । अर्कैः ।  
+> या । सद्यः । उस्रा । विउषि । ज्मः । अंतान् । युयूषतः । परि । उरु । वरांसि  
+> ॥ ५२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्य नरा नेतारावस्य भुवनस्य प्रसंता प्रसंत् प्रभवंतावीश्वरावश्विनाश्विनावश्वैरन्वितौस्तुषे प्रगीतमंत्रसाध्यैः स्तोत्रैः स्तोतुमर्करर्चनीयमंत्रसाध्यैः शस्त्रैर्जरमाणः स्तुतिं कुर्वन्नुवे ! आह्वयामि । कीदृशावित्यपेक्षायां । या यौ सद्य एवोस्त्रा शत्रोणां निवारक् व्युषि व्युष्ट निशायाक
+> समाप्तौ ज्मः पृथिव्या अंतान् पर्यंतानुरूरूणि वरांसि रूपस्यावरकाणि तमांसि
+> च परि परितो युयूषतः पृथक्कुरुतः ! अथवा वरांसि तेजांसि तमोनिवारणात्परि
+> युयूषतः । विस्तारयतः ॥
+
+##### Gist of the bhāṣya
+
+"I praise the Aśvins, the two leaders of the world of heaven and the two lords, the rulers, of this world, accompanied by horses; singing their praise with stotras accomplished by sung mantras and with śastras accomplished by mantras recited for worship, I call them." Of what sort? They who are immediately उस्रा (*usrā*), warders-off of enemies; who at dawn, at the end of the night, keep separating all round to the ends, the limits, of the earth the vast वरांसि (*varāṃsi*), the darknesses that hinder form. Or else: the वरांसि (*varāṃsi*) are splendours, and they spread them out all round by removing the darkness.**NOTE**
+
+### Printed p. 427
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the Aśvin deities who
+- सद्यः (*sadyaḥ*)—as soon as it is willed
+- उस्रा (*usrā*)—who are warders-off of enemies, and
+- व्युषि (*vyuṣi*)—at the time of dawn
+- ज्ञः (*jñaḥ*)—of the earth
+- अंतान् (*aṃtān*)—all around
+- उरु (*uru*)—widely
+- वरांसि (*varāṃsi*)—the pitch-dark glooms that cover
+- परि (*pari*)—in all places
+- युयूषतः (*yuyūṣataḥ*)—who separate and drive far away, such ones
+- दिवः (*divaḥ*)—of the world of heaven
+- नरा (*narā*)—leaders
+- अस्य (*asya*)—of this world
+- प्रसंता (*prasaṃtā*)—lords
+- अश्विना (*aśvinā*)—the Aśvin deities
+- आर्कैः (*ārkaiḥ*)—with venerable mantras
+- जरमाणि (*jaramāṇi*)—praising
+- हुवे (*huve*)—I call; and
+- स्तुषे (*stuṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+Praising with venerable mantras the Aśvin deities, who have the power to destroy enemies as soon as it is willed, who at the time of dawn destroy in all places the pitch-dark glooms that cover the earth all around, who are the leaders of the world of heaven and the lords of the earth, I call them.
+
+##### English translation
+I praise the two leaders of heaven, the presiders over this world : I invoke the Aswins, glorifying them with sacred hymns, them who are ever the discomfiters (of foes), who at dawn scatter the investing glooms to the ends of the earth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता य॒ज्ञमा शुचि॑भिश्चक्रमा॒णा रथ॑स्य भा॒नुं रु॑रुचू॒ रजो॑भिः।  
+> पु॒रू वरां॒स्यमि॑ता॒ मिमा॑ना॒पो धन्वा॒न्यति॑ याथो॒ अज्रा॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । यज्ञं । आ । शुचिभिः । चक्रमाणा । रथस्य । भानुं । रुरुचुः । रजभिः ।  
+> पुरु । वरांसि । अमिता । मिमाना । अपः । धन्वानि । अति । याथः । अज्रान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> किंच ता तौ प्रसिद्धावश्विन् यज्ञमस्मदीयं यागमा चक्रमाणाभिचक्रमाणौ
+> शुचिभिर्निर्मलै रजोभिः स्वीयैस्तेजोभिः । रजो रजतेर्जोती रज उच्यते ।
+
+### Printed p. 428
+
+> नि. ४-१९ । इति यास्केनोक्तत्वात् । रथस्य स्वकीयस्य रथस्य भानुं दीप्तिं रुरुचुः ।
+> रोचयेते । आपि च पुरु बहूनि वरांसि तमोनिवारकाणि तेजांस्यमितापरिमितानि
+> वि. माना निर्मिमाणावप उद्दिश्य धन्वानि मरुप्रदेशानज्रान् स्वकीयानश्वानति याथः ।
+> अतिक्रामयथः ॥
+
+##### Gist of the bhāṣya
+
+Further, those well-known Aśvins, coming to our sacrifice with their own pure splendours (रजोभिः (*rajobhiḥ*)), make the lustre of their own chariot shine; for Yāska has said: रजो रजतेर्जोती रज उच्यते (*rajo rajaterjotī raja ucyate*) (Ni. 4-19) **GLOSS**. And creating many, immeasurable splendours that remove darkness, they drive their own horses, for the sake of water, over the desert regions.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—the well-known Aśvin deities
+- यज्ञं (*yajñaṃ*)—to our sacrifice
+- आ चक्रमाणा (*ā cakramāṇā*)—coming
+- शुचिभिः (*śucibhiḥ*)—with pure
+- रजोभिः (*rajobhiḥ*)—splendours
+- रथस्य (*rathasya*)—of their chariot
+- भानुं (*bhānuṃ*)—the lustre
+- रुरुचुः (*rurucuḥ*)—they increase
+- पुरु (*puru*)—exceedingly abundant
+- वरांसि (*varāṃsi*)—and darkness-removing splendours
+- अमिता (*amitā*)—immeasurably
+- मिमाना (*mimānā*)—creating
+- अपः (*apaḥ*)—for the sake of water
+- धन्वानि (*dhanvāni*)—throughout the deserts
+- आज्रान् (*ājrān*)—their horses
+- अति याथः (*ati yāthaḥ*)—they drive
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Aśvin deities, coming to our sacrifice, increase the lustre of their chariot with their pure splendours. Creating immeasurably abundant splendours that remove darkness, they drive their horses, for the sake of water, throughout the deserts.
+
+##### English translation
+Coming to the sacrifice with their bright splendours, they light up the lustre of (their) car; emitting vast and infinite radiance: they drive their horses over deserts (refreshing them) with water.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता ह॒ त्यद्व॒र्तिर्यदर॑ध्रमुग्रे॒त्था धिय॑ ऊहथुः॒ शश्व॒दश्वैः॑ ।  
+> मनो॑जवेभिरिषि॒रैः श॒यध्यै॒ परि॒ व्यथि॑र्दा॒शुषो॒ मर्त्य॑स्य ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । ह । त्यत् । वर्तिः । यत् । आरध्रं ' उग्रा । इत्था । धियः । ऊहथुः । शश्वत् । अश्वैः ।  
+> मनःजवेभिः । इषिरैः । शयध्यै । परि । व्यथिः । दाशुषः । मर्त्यस्य ॥ ३ ॥
+
+### Printed p. 429
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता ह तौ खलूग्रोग्रावश्विन् युवां यदरध्रमसमृद्धं त्यद्वर्तिर्यजमानस्य तद्गृहं समर्धयितुं गच्छथः । किंचेत्थेत्थं धियः स्तोत्यनिषिरैरेषणीयैः
+> काम्यैर्मनोजवेभिर्मनोवेगैरश्वैः स्वीयैरश्वैः शश्वत्सर्वदोहथुः । स्वर्ग०
+> प्रापयथः । मर्त्यस्य मनुष्यस्य दाशुषो यजमानस्य व्यथिर्हिंसकः परि शयध्यै
+> परिशयनाय दीर्घनिद्राय्कॆ युवाभ्यां क्रियतां ॥
+
+##### Gist of the bhāṣya
+
+You two, indeed, fierce Aśvins, go to the house of the sacrificer which is अरध्रं (*aradhraṃ*), unprosperous, in order to make it prosperous. And in this manner you always carry, that is, bring to heaven, the धियः (*dhiyaḥ*), the praisers, with your own desirable horses, swift as the mind.**NOTE** May the harmer of the mortal man, the sacrificer who offers, be brought by you to lie down all round, to long sleep.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता ह (*tā ha*)—(O Aśvin deities) the well-known ones
+- उग्रा (*ugrā*)—you who have a terrible power
+- अरध्रं (*aradhraṃ*)—without prosperity
+- यत् वर्तिः (*yat vartiḥ*)—to the house of which sacrificer (you come to make it prosperous)
+- त्यत् (*tyat*)—from that same house
+- इत्था (*itthā*)—by that same favour
+- इषिरैः (*iṣiraiḥ*)—attractive
+- मनोजवेभिः (*manojavebhiḥ*)—swift as the mind
+- अश्वैः (*aśvaiḥ*)—with the help of horses
+- शश्वत् (*śaśvat*)—always
+- धियः (*dhiyaḥ*)—the sacrificers who perform the rites
+- ऊहथुः (*ūhathuḥ*)—you carry to heaven
+- मर्त्यस्य (*martyasya*)—of the man
+- दाशुषः (*dāśuṣaḥ*)—who offers the oblation
+- व्यथिः (*vyathiḥ*)—the enemy who is a harmer
+- परिशयध्यॆ (*pariśayadhyè*)—may he be thrown down to sleep long
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, well-known and possessed of a terrible power, from whichever house lacking prosperity you come to fill it with wealth, from that same house, with that same pride, with the help of attractive horses swift as the mind, you always carry the sacrificers who perform the rites to heaven. May the harming enemy of the sacrificer, the man who offers the oblation, be dead and thrown down to sleep long.
+
+##### English translation
+Fierce Aswins, from that humble mansion to which (you have repaired), you have ever borne with your desirable horses, as swift as thought, the pious worshippers in some manner (to heaven) : Let the injurer of the liberal man (be consigned by you) to (final) repose.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता नव्य॑सो॒ जर॑माणस्य॒ मन्मोह॑ भूषतो युयुजा॒नस॑प्ति
+
+### Printed p. 430
+
+> शुभं पृक्षमिषमूर्जं वहंता होता यक्षत्प्रत्नो अध्रुग्युवाना ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । नव्यसः । जरमाणस्य । मन्म । उप । भूषतः । युयुजानसप्ति इति युयुजानसप्ति ।  
+> शुभं । पृक्षं । इषं । ऊर्जं । वहंता । होता । यक्षत् । प्रत्नः । अध्रुक् ।  
+> युवाना ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तावश्विन् युयुजानसप्ति रथे युज्यमानाश् शुभं शोभनं वृक्षमन्नं ।
+> पयः पृक्ष इत्यन्ननामसु पाठात् । इषं पुष्टिमूर्जं रसं च वहंता वहंतौ
+> नव्यसो नवतरस्य जरमाणस्य स्तुतिं कुर्वतो मन्ममननीयं स्तोत्रमुप भूषतः ।
+> उपगच्छतः । यद्वा । स्तोत्रसमीपे भवतः । किं च युवाना नित्यतरुणौ ता होता
+> देवानामाह्वाताध्रुगद्रोग्धा प्रियः प्रत्नः पुराणोऽग्निर्यक्षत् । यजतु ॥
+
+##### Gist of the bhāṣya
+
+Those Aśvins, harnessed to the chariot with horses (युयुजानसप्ति (*yuyujānasapti*)), bearing beautiful food (पयः पृक्ष (*payaḥ pṛkṣa*): pṛkṣa is read among the names of food), nourishment and sap, approach the stotra, the mantra to be pondered, of the newer praiser; or else they are near the stotra. And further, may the invoker of the gods, Agni, who is non-hostile, dear, ancient, old, sacrifice to those two ever-young ones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—those same Aśvin deities
+- युयुजानसप्ति (*yuyujānasapti*)—having yoked their horses to the chariot
+- शुभं (*śubhaṃ*)—excellent
+- पृक्षं (*pṛkṣaṃ*)—food
+- इषं (*iṣaṃ*)—nourishment
+- ऊर्जं (*ūrjaṃ*)—and sap
+- वहंता (*vahaṃtā*)—having filled themselves with
+- नव्यसः (*navyasaḥ*)—of the new
+- जरमाणस्य (*jaramāṇasya*)—praiser
+- मन्म (*manma*)—towards the meditative praise
+- उप भूषतः (*upa bhūṣataḥ*)—they come
+- युवाना (*yuvānā*)—those same ever-young Aśvin deities
+- होता (*hotā*)—he who calls the deities to the sacrifice
+- अध्रुक् (*adhruk*)—the beloved
+- प्रत्नः (*pratnaḥ*)—the ancient Agni
+- यक्षत् (*yakṣat*)—may he worship
+
+##### भावार्थ (Bhāvārtha)
+
+The Aśvin deities, having yoked horses to their chariot and having filled themselves with excellent and auspicious food, nourishment, and sap that gives strength, come towards the meditative praise of the new praiser. May Agni, who calls the ever-young Aśvin deities to the sacrifice, the beloved one (who has no treacherous mind), the ancient, worship them.
+
+### Printed p. 431
+
+##### English translation
+Harnessing their horses, bringing excellent food, nourishment, and strength, they approach (to receive) the adoration of their recent worshipper ; and may the benevolent ancient inquirer of the gods (Agni) sacrifice to the ever youthful (deities).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता व॒ल्लू द॒स्रा पु॑रु॒शाक॑तमा प्र॒त्ना नव्य॑सा॒ वच॒सा वि॑वासे ।  
+> या शंस॑ते स्तुव॒ते शंभ॑विष्ठा बभू॒वतु॑र्गृण॒ते चि॒त्ररा॑ती ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वल्गू इति । दस्रा । पुरुशाकृतमा । प्रत्ना । नव्यसा । वचसा । आ । विवासे ।  
+> या । शंसते । स्तुवते । शंभविष्ठा । बभूवतुः । गृणते । चित्रराती इति चित्रराती ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या यौ शंसते शस्त्रैः स्तुतिं कुर्वते स्तुवते स्तोत्रैः स्तुतिं कुर्वते
+> जनाय शंभविष्ठातिशयेन सुखस्य भावयितारावतिशयेन सुखस्वरूपौ वा गृणते
+> स्तोत्रशस्त्रव्यतिरिक्तलौकिकस्तुतिभिः स्तुवते च चित्रराती विचित्रदानौ बभूवतुः ता तौ
+> वल्लू वलनशीलौ रुचिरौ ना पुरुषाकतमातिशयेन बहुकर्माणौ बहुसहायौ वा
+> प्रत्ना प्रत्न्यौ पुराणौ । प्रश्नं प्रदिव इति पुराणनामसु पाठात् । दस्रा दर्शनीयावश्विनौ
+> नव्यसा नवतरेण वचसा स्तुत्या आ विवासे । परिचरामि ॥
+
+##### Gist of the bhāṣya
+
+They who for the one who praises with śastras, and for the one who praises with stotras, are शंभविष्ठा (*śaṃbhaviṣṭhā*), causers of the greatest happiness or of the nature of the greatest happiness for the man; and who have become givers of wondrous gifts to the one who praises with worldly praises: those two, वल्लू (*vallū*), charming, lovely, पुरुषाकतमा (*puruṣākatamā*), of the greatest many deeds or of many helpers, प्रत्ना (*pratnā*), ancient (प्रश्नं प्रदिव (*praśnaṃ pradiva*) are read among the names of the ancient), दस्रा (*dasrā*), the Aśvins lovely to behold, I serve with a newer speech, a praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the Aśvin deities who
+- शंसते (*śaṃsate*)—to the one who extols
+- स्तुवते (*stuvate*)—to the one who praises
+- शंभविष्ठा (*śaṃbhaviṣṭhā*)—who give the greatest happiness
+- गृणते (*gṛṇate*)—to the one who praises with worldly words of praise
+- चित्रराती (*citrarātī*)—who give gifts of many kinds
+- बभूवतुः (*babhūvatuḥ*)—who have become
+- ता (*tā*)—such
+- वल्लू (*vallū*)—who have a charming form
+- पुरुशाकतमा (*puruśākatamā*)—who are doers of the greatest deeds
+- प्रत्ना (*pratnā*)—who are ancient
+- दस्रा (*dasrā*)—who have attractive beauty, the Aśvin deities
+- नव्यसा (*navyasā*)—with a new
+- वचसा (*vacasā*)—praise
+- आ विवासे (*ā vivāse*)—I serve
+
+### Printed p. 432
+
+##### भावार्थ (Bhāvārtha)
+
+I serve with a new praise the Aśvin deities, who give the greatest happiness to the extoller and to the praiser who praises with śastra mantras and the like, and who give gifts of many kinds to him who praises with worldly words of praise, who have a charming form, who are doers of the greatest deeds, who are ancient and who have attractive beauty.
+
+##### English translation
+I worship with a new hymn those two quick-moving good-loooking ancient (Aswins), the achievers of many exploits, who are the givers of great felicity to him who prays to (them); or praises (them); bestowers of wondrous gifts on him who adores (them).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता भु॒ज्यं विभि॑र॒द्भ्यः स॑मु॒द्रात्तुग्र॑स्य सू॒नुमू॑हथू॒  ॑
+> रजोभिः ।  
+> अ॒रे॒णुभि॒र्योज॑नेभिर्भु॒जंता॑ पत॒त्रिभि॒रर्ण॑सो॒ निरु॒पस्था॑त् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । भुज्युं । विभिः । आर्भ्यः । समुद्रात् । तुग्रस्य । सूनुं । ऊहथुः । रजभिः ।  
+> अरेणुभिः । योजनेभिः । भुजंता । पत्रत्रिभिः । अर्णसः । निः । उपस्थात् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तावश्विन् युवां तुग्रस्य सूनुं भुज्युं भुज्युनामकं समुद्रमध्ये
+> भग्ननावं भुजंता रक्षंतावरेणुभी रेणुरहितैरांतरिक्षै रजोभिर्मार्गैर्योजनेभी रथयुक्तैः पतत्रिभिः पतनवद्भिर्विभिरश्चैरणसो जलस्कोपस्थाद्योनेः
+> समुद्रादद्यो निरूहथुः । निरगमयतं । समुद्रादद्भ्य इति प्रयोगो
+> मातुर्गृहाद्गच्छतीतिवत् ॥
+
+##### Gist of the bhāṣya
+
+You two Aśvins, protecting Bhujyu, the son of Tugra, whose ship was broken in the middle of the sea, brought him out of the lap of the water, from the ocean, from the waters: by horses that fly, that is, that move like birds, yoked to the chariot, through the aerial paths (रजोभिः (*rajobhiḥ*)) that are free from dust. The expression "from the ocean, from the waters" is like saying "he goes from the house of his mother".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—(O Aśvin deities) you well-known ones
+- अरेणुभिः (*areṇubhiḥ*)—free from dust
+- रजोभिः (*rajobhiḥ*)—that move along the aerial paths
+- योजनेभिः (*yojanebhiḥ*)—that are yoked to the chariot
+- पतत्रिभिः (*patatribhiḥ*)—that run with the speed of birds
+
+### Printed p. 433
+
+- विभिः (*vibhiḥ*)—with the help of horses
+- तुग्रस्य (*tugrasya*)—of Tugra
+- सूनुं (*sūnuṃ*)—the son
+- भुज्युं (*bhujyuṃ*)—Bhujyu
+- भुजंता (*bhujaṃtā*)—protecting
+- अर्णसः (*arṇasaḥ*)—for the water
+- उपस्थात् (*upasthāt*)—that is the support
+- समुद्रात् अद्भ्यः (*samudrāt adbhyaḥ*)—from the deep water of the ocean
+- नि ऊहथुः (*ni ūhathuḥ*)—you lifted him up
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you well-known ones, by the help of horses that move along the dust-free aerial paths, that are yoked to the chariot and that run with the speed of birds, protecting Bhujyu, the son of Tugra, you lifted him up out of the midst of the water of the very deep ocean.
+
+##### English translation
+They bore up from the waters, from the ocean, by the winged horses attached to their car, (passing) by roads unsoiled by dust, Bhujyu, the son of Tugra ; they (bore him) from out of the lap of the water.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have explained the matter that the Aśvin deities rescued Bhujyu, the son of Tugra, in the midst of the ocean, in Ṛ. Saṃ. Part 8, p. 812, and in Part 9-194, 9-369, 9-467, 13-523, 13-616, and other places.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि ज॒युषा॑ रथ्या यात॒मद्रिं॑ श्रु॒तं हवं॑ वृषणा वध्रिम॒त्याः ।  
+> द॒श॒स्यंता॑ श॒यवे॑ पिप्यधु॒र्गामिति॑ च्यवाना सुम॒तिं भु॑रण्यू ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । जयुषा । रथ्या । यातं । अद्रिं । श्रुतं । हवं । वृषणा । वध्रिमत्याः ।  
+> दशस्यंता । शयवे । पिप्यथुः । गां । इति । च्यवाना । सुमतिं । भुरण्यू इति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथ्या हे रथारूढावश्विन् जयुषा जयशीलेन रथेनाद्रिं मार्गे स्थितं
+> पर्वतं वि यातं । व्यबाधेथां । यातिरत्र वधकर्मा । तथा च निगमांतरं ।
+
+### Printed p. 434
+
+> विभिंदुना नासत्या रथेन वि पर्वता अजरयू आयातं । ऋग्वे. १-११६-२० । इति ।
+> वृषणा कामानां वर्षितार् वध्रिमत्याः पुत्रार्थिन्या हवमाह्वानं श्रुतं । शृणुतं ।
+> दशस्यंता स्तोतृभ्यः कामान्प्रयच्छंत् शयवे युवां स्तुवते गां निवृत्तप्रसवां
+> पिप्यधुः । क्षीरेणाप्याययतं । तथा च निगमांतरं । शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गा० । ऋग्वे. १-११६-२२ । इति । इतीत्थं सुमतिं सुष्टुतिं
+> च्यवाना गच्छंत् भुरण्यू सर्वत्र गंतार् यज्ञस्य भर्तार् वा भवतं ॥
+
+##### Gist of the bhāṣya
+
+O charioteers, Aśvins riding in the chariot, with your victorious chariot you pierced the mountain standing in the way; the root meaning "to go" has here the sense of striking. So also another passage of the Veda: विभिंदुना नासत्या रथेन वि पर्वता अजरयू आयातं । (*vibhiṃdunā nāsatyā rathena vi parvatā ajarayū āyātaṃ |*) (Ṛgve. 1-116-20)**NOTE** **GLOSS**. O showerers of desires, you heard the call of Vadhrimatī, who desired a son. Granting desires to the praisers, you filled with milk the cow for Śayu who praises you, her calving having ceased. So also another passage: शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गा० । (*śayave cinnāsatyā śacībhirjasuraye staryaṃ pipyathurgā0 |*) (Ṛgve. 1-116-22) **GLOSS**. Thus going with सुमतिं (*sumatiṃ*), good praise, be you भुरण्यू (*bhuraṇyū*), goers everywhere or supporters of the sacrifice.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथ्या (*rathyā*)—O Aśvin deities, riders in the chariot
+- जयुषा (*jayuṣā*)—with the help of your victorious chariot
+- अद्रिं (*adriṃ*)—the mountain that stood in the middle of the road
+- वि यातं (*vi yātaṃ*)—you pierced and entered
+- वृषणा (*vṛṣaṇā*)—O Aśvin deities, showerers of desires
+- वध्रिमत्याः (*vadhrimatyāḥ*)—of Vadhrimatī, who desired a son
+- हवं (*havaṃ*)—the call
+- श्रुतं (*śrutaṃ*)—you heard
+- दशस्यंता (*daśasyaṃtā*)—granting to the praisers what they desire
+- शयवे (*śayave*)—for Śayu, the praiser
+- गां (*gāṃ*)—the cow that did not bear a calf
+- पिप्यथुः (*pipyathuḥ*)—you filled with milk
+- इति (*iti*)—in this very manner
+- सुमतिं (*sumatiṃ*)—a benevolent mind
+- च्यवाना (*cyavānā*)—displaying
+- भुरण्यू (*bhuraṇyū*)—be goers to every sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, riders in the chariot, with the help of your victorious chariot you pierced and entered the mountain that stood in the middle of the road. O Aśvin deities, showerers of desires, you heard the call of Vadhrimatī, who desired a son. Granting to the praisers what they desire, you filled with milk the cow that did not bear a calf, for Śayu the praiser. In this very manner, displaying a benevolent mind, be goers to every sacrifice.
+
+##### English translation
+Riders in your car, you have penetrated the mountain by your trimphant chariot : showerers (of benefits) you heard the invocation of Vadhrimati : you have nourished, bountiful givers, the cow for Sayu— and in this manner displaying benevolence are you everywhere present.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matter of the bestowal of a son named Hiraṇyahasta on the woman named Vadhrimatī is in Ṛ. Saṃ. Part 9, pp. 252 and 408; and the barren cow of the sage named Śayu was made to bear a calf and give
+
 ---
 
-**Progress note:** Done through printed p. 424. Mandala 6 sukta 61 rks 10-14, end of adhyaya 8, start of sukta 62, pp. 419-424
+**Progress note:** Done through printed p. 434. Mandala 6 sukta 62 rks 1-7 (Ashvins), pp. 426-434
