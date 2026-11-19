@@ -17876,6 +17876,249 @@ This ṛk, उभा वां (*ubhā vāṃ*), is the anuvākyā for the oblat
 
 O Indra and Agni, I pray and invoke you both, who are together, to offer the oblation. With oblations may you both enjoy satisfaction at one and the same time. You both are givers of foods and of riches. I call you both, who are together, for the attainment of food.
 
+### Printed p. 406
+
+##### English translation
+I invoke you both, Indra and Agni, to be present at the sacrifice ; and both together to be exhilarated by the (sacrificial) food ; for you are both donors of food and riches, and therefore I invoke you both for the obtaining of sustenance
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice made for Indra and Agni, when the oblation is offered, this ṛk beginning उभा वां (*ubhā vāṃ*) is to be recited as an anuvākyā mantra; this is set out by the Sūtra of the Āśvalāyana Śrauta Sūtra, उभा वामिंद्राग्नी आहुवध्यॆ शुचिं नु स्तोमं नवजातमद्य (*ubhā vāmiṃdrāgnī āhuvadhyè śuciṃ nu stomaṃ navajātamadya*) (A. 3-7) **NOTE**.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ गव्ये॑भि॒रश्व॑र्वस॒वै॒३॒॑ ३ रुप॑ गच्छतं ।  
+> सखा॑यौ दे॒वौ स॒ख्याय॑ शं॒भुवें॑द्रा॒ग्नी ता ह॑वामहे ॥१४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । गव्येभिः । अश्वैः । वसवैः । उप । गच्छतं ।  
+> सखायौ । देवौ । सख्याय । शंभुवा । इंद्राग्नी इति । ता । हवामहे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी गव्येभिर्गोसमूहैरश्वैरश्वसमूहैर्वसन्यैर्वसुसमूहैश्च
+> सार्धं नोऽस्मानाभिमुख्येनोपा गच्छतं । शेषः परोक्षकृतः । सखायौ समानख्यान् देवौ दानादिगुणयुक्तौ शंभुवा शंभुव् सुखस्य भावयितार् ता
+> तादृशाविंद्राग्नी सख्याय सखित्वार्थं वयं हवामहे । आह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, come towards us, facing us, together with herds of cows (गव्येभिः (*gavyebhiḥ*)), troops of horses (अश्वैः (*aśvaiḥ*)) and masses of wealth (वसवैः (*vasavaiḥ*)). You are friends (सखायौ (*sakhāyau*)) of equal renown, gods endowed with qualities such as generosity, Śaṃbhuvā, producers of happiness. Those same Indra and Agni we call (हवामहे (*havāmahe*)) for the sake of friendship (सख्याय (*sakhyāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गव्येभिः (*gavyebhiḥ*)—with herds of cows
+- अश्वैः (*aśvaiḥ*)—with troops of horses
+- वसवैः (*vasavaiḥ*)—with abundant riches
+- न उप (*na upa*)—facing us
+- आगच्छतं (*āgacchataṃ*)—be so kind as to come
+- सखायौ (*sakhāyau*)—who are friends
+- देव् (*dev*)—divine in nature
+- शंभुवा (*śaṃbhuvā*)—who bring happiness
+- ता (*tā*)—and renowned
+- इंद्राग्नी (*iṃdrāgnī*)—Indra and Agni
+- सख्याय (*sakhyāya*)—for the gaining of friendship
+- हवामहे (*havāmahe*)—we pray and invoke
+
+### Printed p. 407
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, be so kind as to come facing us with herds of cows, troops of horses and abundant riches. We pray and invoke you, Indra and Agni, who are friends, divine in nature, bringers of happiness and renowned, for the gaining of friendship.
+
+##### English translation
+Come to us with herds of cattle, with troops of horses, with ample treasures, divine friends, Indra and Agni : givers of happiness, we invoke you as such for your friendship.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी शृणु॒तं हवं॒ यज॑मानस्य सुन्व॒तः ।  
+> वी॒तं ह॒व्यान्या ग॑तं॒ पिब॑तं सो॒म्यं मधु॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । शृणुतं । हवं । यजमानस्य । सुन्वतः ।  
+> वीतं । हव्यानि । आ । गतं । पिबतं । सोम्यं । मधु ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी सुन्वतः सोमाभिषवं कुर्वतो यजमानस्य हवमाह्वानं
+> स्तोत्रं शृणुतं । श्रुत्वा च तदीयानि हव्यानि हवींषि वीतं । कामयेथां ।
+> कामयित्वा चा गतं । आगच्छतं । आगत्य च सोम्यं सोमात्मकं मधु पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, hear the invocation (हवं (*havaṃ*)), the praise, of the sacrificer who is pressing (सुन्वतः (*sunvataḥ*)) the Soma. Having heard, desire (वीतं (*vītaṃ*)) his oblations. Having desired them, come (आ गतं (*ā gataṃ*)). And having come, drink (पिबतं (*pibataṃ*)) the sweet Soma (मधु (*madhu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- सुन्वतः (*sunvataḥ*)—who presses the Soma juice
+- यजमानस्य (*yajamānasya*)—of the sacrificer
+- हवं (*havaṃ*)—the praise in the form of an invocation
+- शृणुतं (*śṛṇutaṃ*)—hear
+- हव्यानि (*havyāni*)—the oblations offered by him
+- वीतं (*vītaṃ*)—desire
+- आ गतं (*ā gataṃ*)—be so kind as to come to receive them
+- सोम्यं (*somyaṃ*)—consisting of Soma
+- मधु (*madhu*)—the sweet juice
+- पिबतं (*pibataṃ*)—drink
+
+### Printed p. 408
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, hear the praise in the form of an invocation of the sacrificer who presses the Soma juice. Desire the oblations offered by him and be so kind as to come to receive them. Drink the sweet juice consisting of Soma.
+
+##### English translation
+Hear, Indra and Agni, the invocation of the institutor of the rite as he offers the libation : partake of the offering : come, quaff the sweet Soma beverage.
+
+## Sūkta 61 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमददादिति चतुर्दशर्चं द्वादशं सूक्तं भरद्वाजस्यार्षं सरस्वतीदेवताकं । आदितस्तिस्रो जगत्यप्रयोदश्यपि जगती चतुर्दशी त्रिष्टुप् शिष्टा
+> गायत्र्यः । तथा चानुक्रांतं । इयं षळूना सारस्वतं त्रिजगत्यादि जगतीत्रिष्टुबंतमिति ॥ अत्र शौनकः । इयमित्येतदाद्यं तु सूक्तं सारस्वतं जपेत् । द्विजः प्रातः
+> शुचिर्भूत्वा वाग्मी भवति बुद्धिमान् । ऋग्वि. २-२३ । इति ॥ पार्श्विके षष्ठेऽहनि
+> प्रलुग इयमददादिति सारस्वतस्तृचः । सूत्रितं च । इयमददाद्रभसमृणच्युतमिति
+> प्रलुगं । आ. ८-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इयमददात् (*iyamadadāt*) has fourteen ṛks and is the twelfth sūkta. Its seer is Bharadvāja; its deity is Sarasvatī. The first three ṛks are in Jagatī, the thirteenth is also Jagatī, the fourteenth is Triṣṭubh, and the rest are Gāyatrī. So it is stated in the Anukramaṇī: इयं षळूना सारस्वतं त्रिजगत्यादि जगतीत्रिष्टुबंतं (*iyaṃ ṣaḷūnā sārasvataṃ trijagatyādi jagatītriṣṭubaṃtaṃ*). **GLOSS** On this Śaunaka says (Ṛgvi. 2-23) **NOTE**: a twice-born who, purified, recites this Sarasvatī sūkta beginning with इयं (*iyaṃ*) in the morning becomes eloquent and wise. As for its application: on the sixth day of the Pārśvika (Pṛṣṭha) sacrifice, in the Praluga, the tṛca beginning इयमददात् (*iyamadadāt*) is the Sārasvata. It is laid down in the Sūtra: इयमददाद्रभसमृणच्युतमिति प्रलुगं (*iyamadadādrabhasamṛṇacyutamiti pralugaṃ*) (Ā. 8-1).
+
+##### Anuvāda
+
+This sūkta beginning इयमददात् (*iyamadadāt*) is the twelfth sūkta in the fifth anuvāka. There are fourteen ṛks in it. The ṛṣi of this sūkta is Bharadvāja; the deity is Sarasvatī. The first three ṛks of this sūkta and the thirteenth ṛk are in the Jagatī metre. The fourteenth is in Triṣṭubh. All the remaining ṛks are in the Gāyatrī metre. In the Anukramaṇikā it is said: इयं षळूना सारस्वतं त्रिजगत्यादि जगतीत्रिष्टुबंतं (*iyaṃ ṣaḷūnā sārasvataṃ trijagatyādi jagatītriṣṭubaṃtaṃ*). **GLOSS** On the application of this sūkta the great sage Śaunaka has said, in his work called Ṛgvidhāna: इयमित्येतदाद्यं तु सूक्तं सारस्वतं जपेत् । द्विजः प्रातः शुचिर्भूत्वा वाग्मी भवति बुद्धिमान् ॥ (*iyamityetadādyaṃ tu sūktaṃ sārasvataṃ japet | dvijaḥ prātaḥ śucirbhūtvā vāgmī bhavati buddhimān ‖*) (Ṛgvidhāna 2-295). That is, if a twice-born man rises at dawn, becomes purified by bathing and the like, and recites this sūkta beginning इयमददात् (*iyamadadāt*), whose deity is Sarasvatī, that man becomes, by the grace of the goddess Sarasvatī,
+
+### Printed p. 409
+
+eloquent, that is, skilled in speaking, and intelligent. And on the sixth day of the Pṛṣṭha sacrifice, when the Praluga śastra mantras are recited, the first three ṛks of the sūkta beginning इयमददात् (*iyamadadāt*) are to be recited as the Sārasvata tṛca; this is set out by the Sūtra of the Āśvalāyana Śrauta Sūtra, इयमदद्रादभसमृणच्युतमिति प्रलुगं (*iyamadadrādabhasamṛṇacyutamiti pralugaṃ*) (Ā. 8-1).
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 5; Sūkta 61
+- Aṣṭaka 4; Adhyāya 8; Vargas 30, 31, 32
+- Number of ṛks in the sūkta: 14
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: Sarasvatī
+- Metre: 1-3, 13 Jagatī; 4-12 Gāyatrī; 14 Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यम॑ददाद्रभ॒समृ॑ण॒च्युतं॒ दिवो॑दासं वध्र्य॒श्वाय॑  ॒॑
+> दाशुषे ।  
+> या शश्वं॑तमाच॒खादा॑व॒सं प॒णिं ता ते॑ दा॒त्राणि॑ तवि॒षा  ॑
+> सरस्वती ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । अददात् । रभसं । ऋण्च्युतं । दिवःदासं । वध्रिअश्वाय । दाशुषे ।  
+> या । शश्वंतं । आचखाद । अवसं । पणिं । ता । ते । दात्राणि । तविषा । सरस्वति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं सरस्वती रभसं वेगवंतमृणच्युतं वैदिकस्य देवर्षिपितृसंबंधिनो
+> लौकिकस्य च ऋणस्य च्यावयितारं दिवोदासमेतत्संज्ञं पुत्रं दाशुषे हवींषि
+> दत्तवते वध्यश्चाय्तत्संज्ञाय ऋषयेऽददात् । दत्तवती । या सरस्वती शश्वंतं
+> बहुलं पणिं पणनशीलं वणिजमदातृजनमवसं केवलं स्वात्मन एव तर्पकमाचखाद
+> आजघान सेयमददादित्यन्वयः । अथ प्रत्यक्षीकृत्य स्तोति । हे सरस्वति देवि ता तानि
+> पुत्रदानादीनि ते त्वदीयानि दात्राणि दानानि तविषा तविषाणि महांति भवंति ॥
+
+##### Gist of the bhāṣya
+
+This Sarasvatī gave (अददात् (*adadāt*)) to the sacrificer Vadhryaśva, who had given oblations (दाशुषे (*dāśuṣe*)), a son named Divodāsa, swift (रभसं (*rabhasaṃ*)), a liberator from debt (ऋणच्युतं (*ṛṇacyutaṃ*)), that is, one who frees from the Vedic debt owed to the gods, seers and fathers and from the worldly debt. She is the Sarasvatī who struck down (आचखाद (*ācakhāda*)) the numerous Paṇi, a trader by nature, a man who gives nothing to others, an Avasa, one who gratifies only himself. The construction is: that same Sarasvatī gave. Then, making her present, he praises her: O goddess Sarasvatī, those gifts of yours, such as the giving of a son, are great (तविषा (*taviṣā*)).
+
+### Printed p. 410
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—which goddess Sarasvatī
+- शश्वंतं (*śaśvaṃtaṃ*)—greatly
+- अवसं (*avasaṃ*)—who thought only of his own welfare
+- पणिं (*paṇiṃ*)—and was a miser, the Asura
+- आचखाद (*ācakhāda*)—killed, such
+- इयं (*iyaṃ*)—this goddess Sarasvatī
+- रभसं (*rabhasaṃ*)—swift
+- ऋणच्युतं (*ṛṇacyutaṃ*)—who discharges the debts to gods, seers and fathers
+- दिवोदासं (*divodāsaṃ*)—the son named Divodāsa
+- दाशुषे (*dāśuṣe*)—who offers oblations
+- वध्रश्वाय (*vadhraśvāya*)—to the seer named Vadhryaśva
+- अददात् (*adadāt*)—has given
+- सरस्वति (*sarasvati*)—O goddess Sarasvatī
+- ता (*tā*)—the gift of a son given by you
+- ते (*te*)—favoured by you
+- दात्राणि (*dātrāṇi*)—and the gifts of wealth and the like
+- तविषा (*taviṣā*)—bear great fruit
+
+##### भावार्थ (Bhāvārtha)
+
+The Sarasvatī who destroyed the Asura who greatly thought only of his own welfare and was selfish and extremely miserly, that same Sarasvatī has given a son named Divodāsa, swift and a discharger of the debts to gods and fathers, to the seer named Vadhryaśva, who offers oblations. O Sarasvatī, the gift of a son and the gift of wealth that are favoured by you bear great fruit.
+
+##### English translation
+She gave to the donor of the oblations, Vadhryaswa, a son, Divodasa endowed with speed, and acquitting the debt (due to gods and progenitors); she who destroyed the churlish niggard, (thinking) only of himself : such are your great bounties, Saraswati.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं शुष्मे॑भिर्बिस॒खा इ॑वारुज॒त्सानु॑ गिरी॒णां त॑वि॒षेभि॑रू॒र्मिभिः॑ ।  
+> पा॒रा॒व॒त॒घ्नीमव॑से सुवृ॒क्तिभिः॒ सर॑स्वती॒मा वि॑वासेमधी॒तिभिः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । शुष्मेभिः । बिसखाः इव । अरुजत् । सानु । गिरीणां तविषेभिः । ऊर्मिभिः ।  
+> पारावतघ्नीं । अवसे । सुवृक्तिभिः । सरस्वतीं । आ । विवासेम । धीतिभिः ॥.२ ।
+
+### Printed p. 411
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सरस्वती देवतारूपेण नदीरूपेण च वर्तते । देवतारूपा स्तुता ।
+> अधुनानया नदीरूपां सरस्वतीं स्तौति । इयं नदीरूपा सरस्वती शुष्मैः
+> शोषकैरात्मीयैर्बलैस्तविषेभिर्महद्भिरूर्मिभिस्तरंगैर्गिरीणां पर्वतानां तीरसंबद्धानां सानु सानून्यरुजत् । भनक्ति । बिसखा इव । बिसं खनतीति बिसखाः ।
+> स यथा बिसार्थं पंकं रुजति तद्वत् । तां सरस्वतीं पारावतघ्नीं परावति दूरदेशे
+> विद्यमानस्यापि वृक्षादेर्हंत्रीं सुवृक्तिभिः स्तुतिभिर्धितिभिः कर्मभिश्चावसे रक्षणार्थमा
+> विवासेम । परिचरेम । यद्वा । पारावतघ्नीं पारावारे पारार्वाची तीरे ।
+> तयोर्घातिनीं । उक्तं च । पारावतघ्नीं पारावारघातिनीं । नि. २-२४ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sarasvatī exists both in the form of a deity and in the form of a river. In the form of a deity she has been praised; now with this ṛk he praises Sarasvatī in the form of a river. This river-form Sarasvatī, with her own strengths that dry things up (शुष्मैः (*śuṣmaiḥ*)), with great (तविषेभिः (*taviṣebhiḥ*)) waves (ऊर्मिभिः (*ūrmibhiḥ*)), breaks (अरुजत् (*arujat*)) the peaks (सानु (*sānu*)) of the mountains that adjoin her banks, like (बिसखा इव (*bisakhā iva*)) a digger of lotus fibre: as he breaks the mud for the sake of the fibre, so she. Her, the Pārāvataghnī, the destroyer even of a tree and the like that stands in a distant place, we serve (आ विवासेम (*ā vivāsema*)) with praises (सुवृक्तिभिः (*suvṛktibhiḥ*)) and with rites (धीतिभिः (*dhītibhiḥ*)) for protection (अवसे (*avase*)). Or else: पारावतघ्नीं (*pārāvataghnīṃ*) means the destroyer of both banks, the far and the near. And it is said: पारावतघ्नीं पारावारघातिनीं (*pārāvataghnīṃ pārāvāraghātinīṃ*) (Ni. 2-24). **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इयं (*iyaṃ*)—this goddess Sarasvatī in the form of a river
+- बिसखा इव (*bisakhā iva*)—easily, as one digs mud for the lotus stalk
+- शुष्मेभिः (*śuṣmebhiḥ*)—with her powerful
+- तविषेभिः (*taviṣebhiḥ*)—and great
+- ऊर्मिभिः (*ūrmibhiḥ*)—waves
+- गिरीणां (*girīṇāṃ*)—of the mountains
+- सानु (*sānu*)—the lofty places
+- अरुजत् (*arujat*)—she breaks through
+- पारावतघ्नीं (*pārāvataghnīṃ*)—who brings down trees and the like (or banks) that are in a distant place
+- सरस्वतीं (*sarasvatīṃ*)—this goddess Sarasvatī
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with excellent praises
+- धीतिभिः (*dhītibhiḥ*)—and with excellent rites
+- अवसे (*avase*)—for protection
+- आ विवासेम (*ā vivāsema*)—let us worship
+
+##### भावार्थ (Bhāvārtha)
+
+This goddess Sarasvatī in the form of a river easily breaks through the lofty places of the mountains with her powerful and great waves, as one digs mud for the lotus stalk. Let us worship, for protection, with excellent praises and with excellent rites, this goddess Sarasvatī, who brings down trees and the like and the banks that are in a distant place.
+
+##### English translation
+With impetuous and mighty waves she breaks down the precipices of the mountains, like a digger for the lotus fibres : we adore for our protection, with praises and with sacred rites, Saraswati the underminer of both her banks.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this ṛk Yāska has given an etymology: इयं शुष्मैः शोषणैः । शुष्ममिति बलनाम शोषयतीति सतः । बिसं बिस्मतेर्भेदनकर्मणो वृद्धिकर्मणो वा । सानु समुच्च्रितं भवति समुन्नु- (*iyaṃ śuṣmaiḥ śoṣaṇaiḥ | śuṣmamiti balanāma śoṣayatīti sataḥ | bisaṃ bismaterbhedanakarmaṇo vṛddhikarmaṇo vā | sānu samuccritaṃ bhavati samunnu-*) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 405. Sūkta 60 (Maṇḍala 6), Ṛk 6 bhāṣya to Ṛk 13 bhāvārtha, pp. 399-405
+**Progress note:** Done through printed p. 411. Sūkta 60 Ṛk 13 end to Ṛk 15; Sūkta 61 Ṛk 1-2, pp. 406-411
