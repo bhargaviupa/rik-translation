@@ -28561,6 +28561,205 @@ Who are you, most excellent leaders (of rites), who come one by one from a regio
 
 O Maruts, although you are separate, you have all gathered together and come here. Moreover, you have come from a very distant region. Where were you until now? From where have you now come, thus
 
+### Printed p. 798
+the seer asks the Marut deities, who have come toward him, at the very beginning. In the introduction it is said that when the seer Śyāvāśva was going through the forest the Marut deities came and appeared before him, and that Śyāvāśva praised them. Śyāvāśva has put questions, as stated above, to these deities who came toward him. In the ways of the world, when kinsmen, friends and other dear ones have been separated for some time for some reason and then meet again, it is the custom to welcome them with questions about their welfare, beginning: where were you? where have you come from? when did you come? In the same way it should be understood that the seer Śyāvāśva has welcomed the Marut deities with affectionate questions in this Ṛk and in the next.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व१॒ं॑ वोऽश्वाः॒ क्वा॒३॒॑भिभीश॑नः क॒थं शे॑क क॒था य॑य ।  
+> पृ॒ष्ठे सदो॑ न॒सोर्यमः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । वः । अश्वाः । क्व । अभीशवः । कथं । शेक । कथा । यय ।  
+> पृष्ठे । सदः । नसोः । यमः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकमश्वाः क्व कुत्रत्याः । क्व चाभीशवो बंधनरज्जवं ।
+> कथं च शेक । शीघ्रं गंतुं शक्ता भवथ । कथा कथं यय । याताः स्थ । पृष्ठेऽश्वानां पृष्ठदेशे सदः । सीदति तिष्ठत्यत्रेति सदः पर्याणं । तत्र दृश्यते ।
+> तथा नसोर्नासिकयोर्यमो नियमिता पलायनप्रतिबंधकारी पशोर्नासिकयोर्दृश्यते । तस्मादश्वादिलिंगैः कुत्रापि त्वरितगमना इव प्रतिभांति के यूयमिति
+> देवत्वमनवधार्याह ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, where are your horses, of what place are they? And where are the reins, the binding cords? How are you able to go swiftly? How have you come? On the back of the horses there is seen the saddle, पर्याणं (*paryāṇaṃ*), so called because one sits there; and in the nostrils there is seen the restrainer that prevents flight, as with an animal. Therefore, by such marks as horses, you appear as if going somewhere in haste. Not ascertaining their divinity, he says: who are you?**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—your
+- अश्वाः (*aśvāḥ*)—horses
+- क्व (*kva*)—where
+- अभीशवः (*abhīśavaḥ*)—the bridles of your horses
+- क्व (*kva*)—where
+- कथं (*kathaṃ*)—in what manner
+- शेक (*śeka*)—you are able to move about
+### Printed p. 799
+- कथा यय (*kathā yaya*)—where will you go
+- पृष्ठे (*pṛṣṭhe*)—on the backs of the horses
+- सदः (*sadaḥ*)—the saddle that is placed
+- नसोः (*nasoḥ*)—in the muzzles
+- यमः (*yamaḥ*)—the bridle that holds the horses and stops them is here
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, where are your horses? Where are the bridles of your horses? In what manner are you able to move about? Where will you go? The saddle that is placed on the backs of your horses, and the bridles that hold them and stop them in their muzzles, are here.
+
+##### English translation
+Where are your horses? where your reins ? what is your capability ? where are you going ? the saddle is on the back (of the steeds), the bridle in their nostrils.
+
+##### विशेषविषयगळु (Special Topics)
+
+Just as in the previous Ṛk, in this Ṛk too the seer puts questions about the welfare of the Marut deities, concerning their coming and concerning their horses.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒घने॒ चोद॑ एषां॒ वि स॒क्तानि॒ नरो॑ यमुः ।  
+> पु॒त्र॒कृ॒थे न जन॑यः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जघने । चोदः । एषां । वि । सक्तानि । नरः । यमुः ।  
+> पुत्रकृथे । न । जनयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषामश्वानां जघने हंतव्यप्रदेशे चोदः प्रेरका कशा अराग्रकाष्ठविशेषो ना वर्तते । शीघ्रगमनाय ताडयन्वर्तत इत्यर्थः । सक्ष्यान्यूरुप्रदेशान्नरो नेतारो मरुतो वि विविच्य यमुः । नियच्छंति । आशुधावनेन विवृता
+
+### Printed p. 800
+
+> भवंतीत्यर्थः । विवृतौ दृष्टांतः । पुत्रकृथे पुत्रकरण उत्पादने जनयो
+> नापत्योत्पादयित्र्यो योषित इव । ता यथा पुत्रोत्पादनकाले संगमसमय
+> ऊरू विवृतौ कुर्वंति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+On the hindquarters of these horses, the place to be struck, the goad is applied, that is, the whip that urges them on, or a special piece of wood with a pointed end; the meaning is that it is applied, striking, for swift going. The leaders, the Maruts, separate and restrain their thighs; the meaning is that by running swiftly they become spread apart. The example for the spreading is given: like women who bring forth offspring, who at the time of begetting sons, at the time of union, make the thighs spread apart; so too the horses.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these horses
+- जघने (*jaghane*)—in the flank region
+- चोदः (*codaḥ*)—the goad, the means of urging them to go swiftly, is applied
+- पुत्रकृथे (*putrakṛthe*)—at the time of begetting a son
+- जनयो न (*janayo na*)—as women spread their thighs apart
+- सक्तानि (*saktāni*)—the thighs of these horses
+- नरः (*naraḥ*)—the Maruts
+- वि यमुः (*vi yamuḥ*)—cause to spread apart
+
+##### भावार्थ (Bhāvārtha)
+
+The goad is applied to the flank regions of these horses, that is, to the sides of the belly. The Maruts, urging their horses to run swiftly, make the horses spread their feet apart, just as women at the time of childbirth spread their thighs apart.
+
+##### English translation
+The goad is (applied) to their flanks : the drivers force them to spread their thinghs apart, like women in bringing forth children.
+
+##### विशेषविषयगळु (Special Topics)
+
+जघने चोदः (*jaghane codaḥ*)—here the flank is the region where the feet and the belly meet. It may be called the lower belly of horses. The चोद (*coda*) is the goad or stirrup, the object like an iron ring which serves the rider to place his feet when he rides. To fit both feet of the rider, these are on both sides of the horse. They are joined to a leather strap and hung down on both sides of the horse. The rider, placing his feet in them, rides. When the rider wishes the horse to go swiftly, he presses the sides of the horse with his feet, using these rings in which he has placed his two feet. From this, urging arises and the horse runs swiftly. This is the matter that is explained here by the words जघने चोदः (*jaghane codaḥ*).
+एषां सक्तानि नरः वि यमुः (*eṣāṃ saktāni naraḥ vi yamuḥ*)—these Marut deities make the thighs of their horses spread apart as they run. Whatever the animal, when it runs at full gallop its thighs or legs are seen to spread far apart as it runs. Therefore, to make the thighs of the horses spread apart means to make the horses run swiftly, spreading their legs far apart. The seer has given an example concerning the spreading of the thighs.
+### Printed p. 801
+पुत्रकृथे न जनयः (*putrakṛthe na janayaḥ*)—पुत्रोत्पादने अपत्योत्पादयित्र्यो योषित इव (*putrotpādane apatyotpādayitryo yoṣita iva*). At the time of begetting a son, that is, when women give birth to a son, at the time of delivery, they spread their thighs so that the child may come out easily from the region of the womb. In the same way the seer has described the going of the horses by comparing it to the childbirth of women, saying that the Marut deities urge their horses so that, in order to run swiftly, they spread their thighs or legs far apart.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॑ वीरास एतन॒ मर्या॑सो॒ भद्र॑जानयः ।  
+> अ॒ग्नि॒तपो॒ यथास॑थ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । वीरासः । इतन । मार्यासः । भद्रजानयः ।  
+> अग्नितपः । यथा । असथ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कशाताडनादिलिंगेन जिगमिषून्मत्वा ब्रूते । हे वीरासो वीरा अमित्राणामीरयितारो हे मर्यासो मर्त्येभ्यो हिता हे भद्रजानयः । भद्रः स्तुत्यो
+> जानिर्जन्म येषां ते तथोक्ताः । रुद्रपुत्रा इत्यर्थः । अग्नि तपोऽग्निना तप्तास्ताम्रादयो यथा दीप्तास्तद्वत् प्रदीप्ता असथ । भवत । अथवाग्नि तप्ता दग्धदेहा
+> यथा पलायंते तथा भवथेति ॥
+
+##### Gist of the bhāṣya
+
+Taking them to wish to go, from such marks as the lashing of the whip, he says: O heroes, senders-forth of enemies, O Maruts, beneficial to mortals, O भद्रजानयः (*bhadrajānayaḥ*), those whose birth is auspicious, praiseworthy, that is, sons of Rudra: as copper and other metals heated by fire are bright, so you are blazing. Or else: as those whose bodies are burnt by fire flee, so you are.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरासः (*vīrāsaḥ*)—heroes
+- मर्यासः (*maryāsaḥ*)—benefactors of men
+- भद्रजानयः (*bhadrajānayaḥ*)—those of auspicious origin, O Maruts
+- परा इतन (*parā itana*)—set out for your work
+- अग्नितपो यथा (*agnitapo yathā*)—as copper and other metals heated by fire shine
+- असथ (*asatha*)—you too are shining
+### Printed p. 802
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, heroes, benefactors of men, of auspicious origin, set out for your work. As copper and other metals heated by fire shine, you too are shining.
+
+##### English translation
+Heroes, friendly to man, of honourable birth, you are as if blazing with fire.
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्नितपो यथासथ-अग्निना तप्तास्ताम्रादयो यथा दीप्तास्तद्वत् प्रदीप्ता भवथ । अथवाग्नि तप्ता दग्धदेहा यथा पलायंते तथा भवथेत्यर्थः । (*agnitapo yathāsatha-agninā taptāstāmrādayo yathā dīptāstadvat pradīptā bhavatha | athavāgni taptā dagdhadehā yathā palāyaṃte tathā bhavathetyarthaḥ |*). In this Ṛk the Marut deities are described by comparison with copper and other metals heated by fire. Just as copper and other metals, heated so as to melt in the fire, shine brightly, so you, Marut deities, shine with your own light: this is the description. Or else another meaning has been given for the word अग्नितप (*agnitapa*). When a forest fire spreads in a forest, the animals there, as their bodies begin to burn in the fire, run wherever they find a way, looking neither backward nor forward; in the same way, the seer describes, you move swiftly. Although the commentator has arranged these two kinds of explanation so that sense results, it cannot be stated precisely what the intention or meaning of the seer, the seer of the mantra, is in the simile अग्नितपो यथासथ (*agnitapo yathāsatha*).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सन॒त्साश्वं॑ प॒शुमु॒त गव्यं॑ श॒ताव॑यं ।  
+> श्या॒वाश्व॑स्तुताय॒ या दोर्वी॒रायो॑प॒बर्बृ॑हत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनत् । सा । अश्वं । पशुं । उत । गव्यं । शतअवयं ।  
+> श्यावाश्वस्तु ताय । या- । दोः । वीराय । उपबर्बृहत् ॥ ५ ॥
+
+**NOTE**
+### Printed p. 803
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा तरंतमहिषी मह्यं सनत् । प्रादात् । किं । अश्वमश्वात्मकं तत्समूहात्मकं ना पशुं । जातावेकवचनं । उतापि च गव्यं गोसमूहात्मकं पशुं
+> शतावयमनेकैरविभिर्युक्तं सनदिति । सेत्युक्तं केत्याह । या श्यावाश्वस्तुताय
+> श्यावाश्वेन मया स्तुताय वीराय तरुतराय दोः स्वकीयं भुजमुपबर्बृहत् उपोदयच्छदालिंगनाय सा सनदिति । यतो भर्तृप्रेमास्पदा तस्मादेव
+> बहु धनं दातुं शक्तेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That queen of Taranta gave me, सनत् (*sanat*), she bestowed. What did she give? A horse, that is, a stock of horses, a herd of them; "animal" is a singular used in the generic sense. And also cattle, a stock of cows, a herd; and a stock accompanied by a hundred sheep, many sheep. Who is she who is spoken of as "she"? He says: she who, for the hero, the younger, who was praised by me, Śyāvāśva, stretched out her own arm for the embrace; that is the "she" who gave. Since she is the abode of her husband's love, for that very reason she is able to give much wealth.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—which Śaśīyasī
+- श्यावाश्वस्तुताय (*śyāvāśvastutāya*)—who was praised by Śyāvāśva
+- वीराय (*vīrāya*)—and is a hero, for the embrace of Taranta
+- दोः (*doḥ*)—her own arm
+- उपबर्बृहत् (*upabarbṛhat*)—extended and helped the embrace
+- सा (*sā*)—she
+- मह्यं (*mahyaṃ*)—to me
+- अश्वं (*aśvaṃ*)—that which has horses
+- गव्यं (*gavyaṃ*)—that which consists of cows
+- शतावयं (*śatāvayaṃ*)—that which consists of a hundred sheep
+- पशुं (*paśuṃ*)—wealth of cattle
+- सनत् (*sanat*)—gave
+
+##### भावार्थ (Bhāvārtha)
+
+She, Śaśīyasī, who extended her arm for the embrace of Taranta, who was praised by Śyāvāśva, gave me wealth of cattle, consisting of horses, of cows, and of a hundred sheep.
+
+##### English translation
+(She. Sasiyasi), who has thrown her arms round the hero Taranta who was eulogized by Syavaswa, has given me cattle comprising horses, and cows, and hundreds of sheep.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the great seer Śyāvāśva has described the praise of Śaśīyasī, the queen of King Taranta, for her gift, saying that she gave him cows, horses and goats. श्यावाश्वस्तुताय वीराय उपबर्बृहत् सा मह्यं (*śyāvāśvastutāya vīrāya upabarbṛhat sā mahyaṃ*) ... the queen of Taranta gave him wealth of cattle such as cows; in describing the praise of that royal wife for her gift, the seer has praised her qualities. Who is the woman who gave him cows? She is the wife of King Taranta, who was praised by him (by Śyāvāśva) and who is valiant,**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 797. Ṛk 8 of Sūkta 60 completed; Sūkta 61 introduction and Ṛk 1 begun, pp. 792-797
+**Progress note:** Done through printed p. 803. Ṛks 2-5 of Sūkta 61, pp. 798-803
