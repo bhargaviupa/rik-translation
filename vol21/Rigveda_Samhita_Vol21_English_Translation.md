@@ -35390,6 +35390,315 @@ The gifts of Sudās the king, the son of Pijavana: four horses, "smaddiṣṭaya
 
 Four horses given by Sudās, the son of Pijavana, fit for an excellent gift, filled with golden ornaments, able to go straight even in difficult regions, established on the earth, worthy of gift, carry us for the sake of our son and the succession of sons and grandsons, and for the gain of food.
 
+### Printed p. 826
+
+##### English translation
+Four (horses). having golden trappings, going steadily on a difficult road, celebrated on the earth, the excellent and acceptabe gifts (made) to me by Sudas, the son of the Poijavana, bear me as a son (to obtain) food and progeny.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ श्रवो॒ रोद॑सी अं॒तरु॒र्वी शी॒र्ष्णेशी॑र्ष्णे विब॒भाजा॑  ॒
+> विभक्ता ।  
+> स॒प्तेदिंद्रं॒ न स्र॒वतो॑ गृणंति॒ नि यु॑ध्याम॒धिम॑शिशाद॒भीके॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । श्रवः । रोदसी इति । अंतः । उर्वी इति । शीर्ष्णेऽशीर्ष्वे । विबभाज । विभक्ता ।  
+> सप्त । इत् । इंद्रं । न । स्रवतः । गृणंति । नि । युध्यामधिं । अशिशात् । अभीके ॥२४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य सुदासः श्रवो यश उर्वी विस्तीर्णे रोदसी द्याव्यापृथिव्यावंतः ।
+> विस्तीर्णयोर्द्यावापृथिव्योर्मध्यॆ वर्तत इत्यर्थः । यश्च सुदा विभक्ता धनस्य
+> प्रदाता शीर्ष्णेशीर्ष्णे श्रेष्ठाय श्रेष्ठाय धनं प्रददौ तं सुदासं सप्तेत् सप्तैव
+> लोका इंद्रं न इंद्रमिव गृणंति । स्तुवंति । किंच स्रवतो नद्योऽभीके युद्धे
+> युध्यामधिं युध्यामधिनामकं सपत्नं न्यशिशात् । न्यहन् ॥
+
+##### Gist of the bhāṣya
+
+The fame of Sudās lies spread out between the two wide worlds, heaven and earth; that is, it is established in the middle of the two vast regions. He, the giver of wealth, gave wealth to each and every eminent person. The seven worlds praise that Sudās as they praise Indra. Further, the flowing rivers, in battle, destroyed the enemy called Yudhyāmadhi.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Sudās
+- श्रवः (*śravaḥ*)—the fame
+- उर्वी (*urvī*)—spacious
+- रोदसी (*rodasī*)—of the two, heaven and earth
+- अंतः (*aṃtaḥ*)—is famous throughout the middle
+- (यः (*yaḥ*)—who)
+- विभक्ता (*vibhaktā*)—being a giver of wealth
+- शीर्ष्षेशिर्ष्णी (*śīrṣṣeśirṣṇī*)—to all good people individually
+- वि बभाज (*vi babhāja*)—gave wealth
+- (तं (*taṃ*)—him)
+- सप्तत् (*saptat*)—the seven worlds
+- इंद्रं न (*iṃdraṃ na*)—as they praise Indra
+- गृणंति (*gṛṇaṃti*)—praise
+- स्रवतः (*sravataḥ*)—the flowing rivers
+- अभीके (*abhīke*)—in battle
+- युध्यामधिं (*yudhyāmadhiṃ*)—the enemy called Yudhyāmadhi
+- नि अशिशात् (*ni aśiśāt*)—have destroyed
+
+### Printed p. 827
+
+##### भावार्थ (Bhāvārtha)
+
+The fame of Sudās is renowned throughout the middle of the two spacious worlds, heaven and earth. He, being a giver of wealth, gave wealth individually to all good people. The seven worlds praise him as they praise Indra. The flowing rivers, in battle, have destroyed his enemy called Yudhyāmadhi.
+
+##### English translation
+The seven worlds praise (Sudas) as if he he were Indra : him whose fame (spreads) through the spacious heaven and earth : who, munificent, has distributed (wealth) on every eminent person, and (for whom) the flowing (rivers) have destroyed Yudhyamadhi in war.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं न॑रो मरुतः सश्च॒तानु॒ दिवो॑दासं॒ न पि॒तरं॑ सु॒दासः॑ ।  
+> अ॒वि॒ष्टना॑ पैजव॒नस्य॒ केतं॑ दू॒णाशं॑ क्ष॒त्रम॒जरं॑ दुवो॒यु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । नरः । मरुतः । सच्चत । अनु । दिवःसदासं । न । पितरं । सुदासः ।  
+> अविष्टन । पैजवनस्य । केतं । दुःनशं । क्षत्रं । अजरं । दुवःयु ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरो नेतारो मरुत इमं सुदासं राजानं सुदासो राज्ञः पितरं
+> दिवोदासं न दिवोदासमिव । दिवोदास इति पिजवनस्यैव नामांतरं । अनु सश्चत ।
+> अनुसेवध्वं । किंच दुवोयु परिचरणकामस्य ॥ षष्ठ्या लुक् ॥ पैजवनस्य
+> पिजवनपुत्रस्य सुदासः केतं मंत्रं गृहं वाविष्टन । रक्षत । आपि चास्य सुदासः क्षत्रं
+> बलं दूणाशं दुर्नशमविनाश्यजरमशिथिलं चास्तु ॥
+
+##### Gist of the bhāṣya
+
+O leaders, Maruts, follow and serve this king Sudās as you served Divodāsa, the father of Sudās; Divodāsa is another name of Pijavana. Further, protect the mantra or the house of Sudās, the son of Pijavana, who desires service. May his strength be indestructible and unwearying.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O leaders
+- मरुतः (*marutaḥ*)—O Maruts
+- सुदासः (*sudāsaḥ*)—of Sudās
+- पितरं (*pitaraṃ*)—the father
+- दिवोदासं न (*divodāsaṃ na*)—as you served Divodāsa
+- इंद्रं (*iṃdraṃ*)—Indra
+
+### Printed p. 828
+
+- अनु सच्चत (*anu saccata*)—serve
+- दुवोयु (*duvoyu*)—intent on worship
+- पैजवनस्य (*paijavanasya*)—of Sudās, the son of Pijavana
+- केतं (*ketaṃ*)—the house
+- अविष्टन (*aviṣṭana*)—protect
+- क्षत्रं (*kṣatraṃ*)—his strength
+- दूणाशं (*dūṇāśaṃ*)—indestructible
+- अजरं (*ajaraṃ*)—may be steady
+
+##### भावार्थ (Bhāvārtha)
+
+O leaders, O Maruts, serve this Sudās as you served Divodāsa, the father of Sudās. Protect the house of this Sudās, who is intent on worship and is the son of Pijavana. May his strength be indestructible and steady.
+
+##### English translation
+Maruts, leaders (of rites), attend upon this (prince) as you did upon Divodasa, the father of Sudas : favour the prayers of the devout son of Pijavana, and may his strength be unimpaired, undecaying.
+
+## Sūkta 19 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हत्तॊंभत्तनॆय सूक्तवु
+> यस्तिग्मशृंग इत्येकादशर्चं द्वितीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं
+> तथा चानुक्रांतं । यस्तिग्मशृंग एकादशेति ॥ अभिप्लविके पंचमेऽहन्येतन्निविद्वानं ।
+> सूत्रितं च । कया शुभा यस्तिग्मशृंग इति मध्यंदिनः । आ. ७ ७ । इति ॥ विषुवति
+> निष्केवल्यशस्त्रेऽप्येतत्तूक्तं । सूत्रितं च । यस्तिग्मशृंगोऽभि त्यं मेषं । आ. ८-६ ।
+> इति ॥ महाव्रते निष्केवल्येऽप्येतत्तूक्तं । सूत्रितं च । यस्तिग्मशृंगो वृषभो न
+> भीम उग्रो जज्ञे वीर्याय स्वधावान् । ऐ. आ. ५-२-२ । इति ॥ आयुष्कामेष्यां
+> मा ते आस््यामितींद्रस्य त्रातुर्याज्या । सूत्रितं च । मा ते अस्यां सहसावन्परिष्टौ
+> पाहि नो अग्ने पायुभिः । आ. २-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The nineteenth sūkta. The sūkta beginning यस्तिग्मशृंग इत्येकादशर्चं (*yastigmaśṛṃga ityekādaśarcaṃ*) is the second sūkta, of eleven ṛks; its seer is Vasiṣṭha, its metre is Triṣṭubh and its deity is Indra. So the Anukramaṇī says: यस्तिग्मशृंग एकादशेति (*yastigmaśṛṃga ekādaśeti*). On the fifth day of the Abhiplavika rite it is the nivid-dhāna sūkta. It is also laid down in the sūtra: कया शुभा यस्तिग्मशृंग इति मध्यंदिनः (*kayā śubhā yastigmaśṛṃga iti madhyaṃdinaḥ*) (Ā. 7 7). In the Viṣuvat rite this sūkta is also used in the niṣkevalya śastra, as the sūtra says: यस्तिग्मशृंगोऽभि त्यं मेषं (*yastigmaśṛṃgo 'bhi tyaṃ meṣaṃ*) (Ā. 8-6). In the Mahāvrata too it is used in the niṣkevalya, as the text says: यस्तिग्मशृंगो वृषभो न भीम उग्रो जज्ञे वीर्याय स्वधावान् । (*yastigmaśṛṃgo vṛṣabho na bhīma ugro jajñe vīryāya svadhāvān |*) (Ai. Ā. 5-2-2). In the rite for one who desires long life, the ṛk beginning मा ते आस््यामितींद्रस्य (*mā te āsyāmitīṃdrasya*): the yājyā is to Indra the Protector; the sūtra says: मा ते अस्यां सहसावन्परिष्टौ पाहि नो अग्ने पायुभिः (*mā te asyāṃ sahasāvanpariṣṭau pāhi no agne pāyubhiḥ*) (Ā. 2-10).
+
+##### Anuvāda
+
+This sūkta beginning यस्तिग्मशृंगः (*yastigmaśṛṃgaḥ*) is the second sūkta in the second anuvāka. It has eleven ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; Triṣṭup is the metre. In the Anukramaṇī it is said: यस्तिग्मशृंग एकादश (*yastigmaśṛṃga ekādaśa*). It is explained by the sūtra of the Āśvalāyana Śrautasūtra, कॆया शुभा यस्तिग्मशृंग इति मध्यंदिनः (*kèyā śubhā yastigmaśṛṃga iti madhyaṃdinaḥ*) (Ā. 7-7), that on the fifth day of the sacrifice called Abhiplava this sūkta is to be recited as the nivid-dhāna sūkta.
+
+### Printed p. 829
+
+It is explained by the sūtra of the Āśvalāyana Śrautasūtra, यस्तिगृशृंगोऽभि त्यं मेषं (*yastigṛśṛṃgo 'bhi tyaṃ meṣaṃ*) (Ā. 8-6), that this sūkta is used in the Viṣuvat sacrifice also, for the niṣkevalya śastra mantras. It is indicated in the fifth āraṇyaka of the Aitareya Āraṇyaka, by the sentence यस्तिगृशृंगो वृषभो न भीम उग्रो जज्ञॆ वीर्याय स्वधावान् (*yastigṛśṛṃgo vṛṣabho na bhīma ugro jajñè vīryāya svadhāvān*) (Ai. Ā. 5-2-2), that this sūkta is used in the Mahāvrata sacrifice**NOTE** also, for the niṣkevalya śastra mantras. In the offering made to the deity called Indra Trātā in the rite for one who desires long life, the 7th ṛk, मा ते अस्यां सहसावन्परिष्कौ पाहि नो अग्ने पायुभिः (*mā te asyāṃ sahasāvanpariṣkau pāhi no agne pāyubhiḥ*) (Ā. 2-10), is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrautasūtra.
+
+##### Particulars
+
+Sūkta 19. Maṇḍala 7. Anuvāka 2. Sūkta 19. Aṣṭaka 5. Adhyāya 2. Varga 29, 30. Number of ṛks in the sūkta: 11. Ṛṣi: Vasiṣṭha. Devatā: Agni**NOTE**. Chandas: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ति॒ग्मशृं॑गो वृष॒भो न भी॒म एकः॑ कृ॒ष्णश्चा॒वय॑ति॒ प्र विश्वाः॑ ।  
+> यः शश्व॑तो॒ अदा॑शुषो॒ गय॑स्य प्रयं॒तासि॒ सुष्टि॑तराय॒  ॑
+> वेदः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । तिग्मृशृंगः । वृषभः । न । भीमः । एकः । कृष्णीः । च्यवयति । प्र । विश्वाः ।  
+> यः । शश्वतः । अदाशुषः । गयस्य । प्रयंता । असि । सुस्वितराय । वेदः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रस्तिग्मशृंगस्तीक्ष्णशृंगो वृषभो न वृषभ इव भीमो भयंकरः
+> सन् एकोऽसहाय एव विश्वाः सर्वान् कृष्ट्वीः शत्रुजनान् स्थानात् प्र च्यावयति ।
+> यश्चेंद्रोऽदाशुषोऽयजमानस्य शश्वतो बहोर्गयस्य गृहस्य धनस्य पापहर्ता
+> भवतीति शेषः । हे इंद्र स त्वं सुष्मितरायातिशयेन सोमाभिषवं कुर्वते
+
+##### Gist of the bhāṣya
+
+Indra, sharp-horned like a bull, fearsome, alone and without helper drives all the peoples, his enemies, away from their place. Indra is also the remover**NOTE** of the ample wealth, the house, of the one who offers no oblation, the non-sacrificer; this is the part to be supplied. O Indra, you, for the man who presses Soma in the highest degree, are the giver of wealth.
+
+### Printed p. 830
+
+> जनाय वेदो धनं प्रयंता प्रदातासि ॥ तृनंतत्वादत्र षष्ठ्या अभावः । असीत्यस्याख्यातस्यानुदात्तत्वाद्यद्वृत्तयोगाच्चानुदात्तत्वासंभवात् यद्वृत्तयुक्तमाख्यातांतरमध्याहृत्य योजना कृता ॥
+
+##### Gist of the bhāṣya
+
+The sentence is completed: you are the giver, the bestower, of wealth to the sacrificer who presses Soma abundantly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यः (*yaḥ*)—you who
+- तिग्मशृंगः (*tigmaśṛṃgaḥ*)—having sharp horns
+- वृषभो न (*vṛṣabho na*)—like a bull
+- भीमः (*bhīmaḥ*)—being fearsome
+- एकः (*ekaḥ*)—without the help of others
+- विश्वाः (*viśvāḥ*)—all
+- कृष्टीः (*kṛṣṭīḥ*)—enemy people
+- प्र च्यावयति (*pra cyāvayati*)—overthrow
+- यः (*yaḥ*)—you who
+- अदाशुषः (*adāśuṣaḥ*)—of one who offers no oblation
+- शश्वतः (*śaśvataḥ*)—of many kinds
+- गयस्य (*gayasya*)—of wealth, are the remover
+- (such you) सुष्पितराय (*suṣpitarāya*)—to the sacrificer who presses Soma in the highest degree and offers it
+- वेदः (*vedaḥ*)—wealth
+- प्रयंता असि (*prayaṃtā asi*)—are the giver
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who, fearsome like a bull with sharp horns, overthrow all enemy people without the help of others, you who are the remover of the many kinds of wealth of one who offers no oblation, you, such as you are, are the giver of wealth to the sacrificer who presses Soma in the highest degree and offers it.
+
+##### English translation
+Indra, who is formidable as a sharp-horned bull, singly expels all men (from their stations) : you who are the despoiler of the ample wealth of him who makes no offerings, are the giver of riches to the presenter of frequent oblations.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह॒ त्यदिं॑द्र॒ कुत्स॑मावः॒ शुश्रू॑षमाणस्त॒न्वा॑ सम॒र्ये ।  
+> दासं॒ यच्छुष्णं॒ कुय॑वं॒ न्य॑स्मा॒ अरं॑धय आर्जुने॒याय॒  ॑
+> शिक्षन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । ह । त्यत् । इंद्र । कुत्सं । आवः । शुशूषमाणः । तन्वा । समर्ये ।  
+> दासं । यत् । शुष्णं । कुयवं । नि । अस्मै । आरंधयः । अर्जुनेयाय । शिक्षन् ॥
+
+### Printed p. 831
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं ह त्वं खलु त्यत्तदा तन्ना शरीरेण शुश्रूषमाण उपचरन्
+> समर्ये मर्यैर्मर्त्यैर्योद्धृभिः सहिते युद्धे कुत्समावः । अरक्षः । कदेत्यत्राह । यद्यदार्जुनेयायार्जुन्याः पुत्रायास्मै कुत्साय शिक्षन् धनं प्रयच्छन्
+> दासं दासनामकमसुरं शुष्णं च कुवयं च न्यरंधयः नितरां वशमानयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you at that time, serving with your own body, protected Kutsa in battle, which is a fight with mortal warriors. When was this? When, giving wealth to this Kutsa, the son of Arjunī, you brought under his control the asura called Dāsa, and Śuṣṇa and Kuyava.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- अर्जुनेयाय (*arjuneyāya*)—to the son of Arjunī
+- अस्मै (*asmai*)—to this Kutsa
+- शिक्षन् (*śikṣan*)—giving wealth
+- दासं (*dāsaṃ*)—Dāsa (of the asuras)
+- शुष्णं (*śuṣṇaṃ*)—Śuṣṇa
+- कुयवं (*kuyavaṃ*)—Kuyava
+- नि आरंधयः (*ni āraṃdhayaḥ*)—you made completely subject to him
+- त्यत् (*tyat*)—at that very time
+- त्वं ह (*tvaṃ ha*)—you indeed
+- तन्वा (*tanvā*)—by the action of your body
+- शुश्रूषमाणः (*śuśrūṣamāṇaḥ*)—serving
+- समर्यॆ (*samaryè*)—in battle
+- कुत्सं (*kutsaṃ*)—that Kutsa
+- आवः (*āvaḥ*)—have protected
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when, giving wealth to this Kutsa, the son of Arjunī, you made the asuras Dāsa, Śuṣṇa and Kuyava, all of them, completely subject to him, at that very time you yourself, serving him by the action of your body, have protected Kutsa in battle.
+
+##### English translation
+Aiding him with your person, Indra, you have defended Kutsa in is combat when you had subjugated Dasa, Sushna and Kuyava, giving (their spoil) to that son of Arjuni.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं धृ॑ष्णो धृष॒ता वी॒तह॑व्यं॒ प्रावो॒ विश्वा॑भिरू॒तिभिः॑ सु॒दासं॑ ।  
+> प्र पौरु॑कुत्सिं त्र॒सद॑स्युमावः॒ क्षेत्र॑साता वृत्र॒हत्ये॑षु पू॒रुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । धृष्णो इति । धृषता । वीतहव्यं । प्र । आवः । विश्वाभिः । ऊतिभिः । सुदासं ।  
+> प्र । पौरुकुत्सिं । त्रसदस्युं । आवः । क्षेत्रसाता । वृत्रहत्येषु । पूरुं ॥ ३ ॥
+
+### Printed p. 832
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धृष्टो शत्रूणां धर्षकेंद्र धृषता धर्षकेण वज्रेण बलेन वा
+> वीतहव्यं दत्तहविष्कं प्रजनितहविष्कं वा सुदासं राजानं विश्वाभिः सर्वाभिरूतिभी
+> रक्षाभिः प्रावः । प्रकर्षेणारक्षः । किंच वृत्रहत्येषु युद्धेषु क्षेत्रसाता
+> क्षेत्रसात् क्षेत्रस्य भूमेर्भजने निमित्ते पौरुकुत्सिं पुरुकुत्सस्यापत्यं त्रसदस्युं
+> पूरुं च प्रावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, assailant of enemies, with your assailing thunderbolt or strength you protected King Sudās, who had given oblations or had prepared oblations, with all protections. Further, in the battles with Vṛtra, for the winning of land, you protected Trasadasyu, the descendant of Purukutsa, and Pūru.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृष्णो (*dhṛṣṇo*)—O Indra, assailant of enemies
+- धृषता (*dhṛṣatā*)—with strength that destroys enemies
+- वीतहव्यं (*vītahavyaṃ*)—who offers oblations
+- सुदासं (*sudāsaṃ*)—the king called Sudās
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- प्रावः (*prāvaḥ*)—have protected
+- वृत्रहत्येषु (*vṛtrahatyeṣu*)—in battles that bring about the slaying of Vṛtra
+- क्षेत्रसाता (*kṣetrasātā*)—for the gain of land
+- पौरुकुत्सं (*paurukutsaṃ*)—the son of Purukutsa
+- त्रसदस्युं (*trasadasyuṃ*)—Trasadasyu
+- पूरुं च (*pūruṃ ca*)—and Pūru
+- प्र आवः (*pra āvaḥ*)—have protected completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, assailant of enemies, you, endowed with strength that destroys enemies, have protected King Sudās, who offers oblations, with all protections. In the battles that bring about the slaying of Vṛtra, while fighting for the gain of land, you have protected Trasadasyu and Pūru completely.
+
+##### English translation
+Undaunted (Indra), you have protected with all your protections Sudas, the offerer of oblations : you have protected in battles with enemies for the possession of the earth, Trasadasyu, the son of Purukusta, and Puru.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नृभि॑र्नृमणो दे॒ववी॑त्॒ भूरी॑णि वृ॒त्रा ह॑र्यश्व हंसि  
+> त्वं नि दस्युं॒ चुमु॑रिं॒ धुनिं॒ चास्वा॑पयो द॒भीत॑ये सु॒हंतु॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वं । नृभिः । नृमनः । देववीत् । भूरीणि । वृत्रा । हरिअश्व । हंसि ।  
+> त्वं । नि । दस्युं । चुमुरिं । धुनिं । च । अस्वापयः । दभीतये । सुहंतु ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 825. Ṛk 19-23 of Sūkta 18, Maṇḍala 7 (Parāśara, Vasiṣṭha, Sudās's gifts)
+**Progress note:** Done through printed p. 832. Sūkta 18 Ṛk 24-25, Sūkta 19 intro, Ṛk 1-4
