@@ -26194,6 +26194,279 @@ O Indra, the strength of the Rākṣasas, in the form of armies, stands surround
 ##### English translation
 The strength of the Rakshasas is concentrated against you : bear up well against that mighty manifested (effort) : scatter them, valiant (Indra), with your old associate, your friend, the thunderbolt.
 
+### Printed p. 749
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स तु श्रु॑धींद्र॒ नूत॑नस्य ब्रह्मण्य॒तो वी॑र कारुधायः ।  
+> त्वं ह्या॒३॒॑पिः प्र॒दिवि॑ पितृ॒णां शश्व॑द्भ॒भूथ॑ सु॒हव॒ एष्टौ॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । तु । श्रुधि । इंद्र । नूतनस्य । ब्रह्मण्यतः । वीर । कारुधायः ।  
+> त्वं । हि । आपिः । प्रदिवि । पित्त्यणां । शश्वत् । बभूथ । सुहवः । आइष्ट् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कारुधायः कारूणां स्तोत्कणां धारक हे वीरेंद्र स प्रसिद्धस्त्वं
+> नूतनस्येदानींतनस्य ब्रह्मण्यतो ब्रह्म स्तोत्रं कर्तुमिच्छतो मम स्तोत्रं तु
+> क्षिप्रं श्रुधि । शृणुहि । यस्मात्कारणात् हे इंद्र त्वमेष्टावायजनेऽभिकामने वा
+> सति सुहवः शोभनाह्वानः सन् प्रदिवि पूर्वस्मिन्नाले पितृणामंगिरसामापिर्बंधुः
+> शश्वच्चिरकालं बभूथ अभूः तस्मात्कारणान्मदीयं स्तोत्रं श्रुधीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O supporter of the praisers, O hero Indra, you, that famous one, hear quickly my praise, mine who am of the present day and wish to make a hymn of praise. For the reason that, O Indra, when you are well invoked at the sacrifice or in desire, you have for a long time, in the earlier age, been the kinsman of our forefathers, the Aṅgirases, for that reason listen to my praise: this is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कारुधायः (*kārudhāyaḥ*)—O supporter of the praisers
+- वीर (*vīra*)—and brave
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—by which favour **NOTE**
+- त्वं (*tvaṃ*)—you
+- एष्वा (*eṣvā*)—at the time of the sacrifice **NOTE**
+- सुहवः (*suhavaḥ*)—well entreated
+- प्रदिवि (*pradivi*)—in all the past
+- पित्तूणां (*pittūṇāṃ*)—to the Aṅgirases, our forefathers and grandfathers
+- आपिः (*āpiḥ*)—as a kinsman
+- शश्वत् (*śaśvat*)—always
+- बभूथ (*babhūtha*)—you have been (a helper) (by that favour)
+- सः (*saḥ*)—you, the renowned
+- नूतनस्य (*nūtanasya*)—born in this time
+- ब्रह्म ण्यतः (*brahma ṇyataḥ*)—and praising you, of me, my praise
+- तु (*tu*)—quickly
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O supporter of the praisers, O brave Indra, by the gracious thought with which you, well entreated at the time of the sacrifice, have always been in the past a kinsman and helper to our forefathers and grandfathers, the Aṅgirases, by that same favour hear quickly the praise of me, who was born in this time and praise you, you the renowned.
+
+### Printed p. 750
+
+##### English translation
+Supportor of (your) worshipers, hero, Indra, listen (to the praises) of your present adorer, for you have always attended to invocations at sacrifices in ancient times, as the kinsman of our forefathers.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रोतये॒ वरु॑णं मि॒त्रमिंद्रं॑ म॒रुतः॑ कृ॒स्वाव॑से नो अ॒द्य ।  
+> प्र पू॒षणं॒ विष्णु॑म॒ग्निं पुरं॑धिं सवि॒तार॒मोष॑धीः॒ पर्व॑तांश्च ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ऊतये । वरुणं । मित्रं । इंद्रं । मरुतः । कृष्ण । अवसे । नः । अद्य ।  
+> प्र । पूषणं । विष्णुं । अग्निं । पुरंधिं । सवितारं । ओषधीः । पर्वतान् । च ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्यामृचि विश्वे देवाः स्तूयंते । हे भरद्वाज अद्येदानीं वरुणं
+> रात्र्यभिमानिनं च मित्रमहरभिमानिनं च मित्रमहरभिमानिनं चेंद्रं च प्रसिद्धं
+> मरुतो मरुद्धणांश्च नोऽस्माकमूतये तर्पणायावसे रक्षणाय च प्र कृष्ण ।
+> अभिमुखीकुरुष्ट्व । किंच पूषणमेतत्संज्ञकं च विष्णुं सर्वव्यापिनं देवं च
+> पुरंधिं पुरुधियं पुरुकर्माणमग्निं च सवितारं सर्वस्य प्रेरकं देवमोषधीरोषध्यभिमानिनो देवान् पर्वतांश्चाद्रीनित्येतान् देवानस्माकं तर्पणाय
+> रक्षणाय च प्र कृष्ण । स्तुत्याभिमुखीकुरु ॥
+
+##### Gist of the bhāṣya
+
+In this Ṛk the Viśvedevas are praised. O Bharadvāja, today, Varuṇa, the presiding deity of the night, and Mitra, the presiding deity of the day **NOTE**, and the famous Indra, and the Maruts, the troops of Maruts, make face us for our satisfaction and protection. Moreover, Pūṣan, who bears that name, and Viṣṇu, the all-pervading deity, and Puraṃdhi, he of many thoughts and many deeds, Agni, and Savitṛ, the impeller of all, the deity, the Oṣadhīs, that is, the deities presiding over the herbs, and the mountains, the rocks: these gods, for our satisfaction and protection, make face us by praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Bharadvāja) अद्य (*adya*)—now
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- मित्रं (*mitraṃ*)—Mitra
+- इंद्रं (*iṃdraṃ*)—Indra
+- मरुतः (*marutaḥ*)—the host of Maruts
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan
+- विष्णुं (*viṣṇuṃ*)—Viṣṇu
+- पुरंधिं (*puraṃdhiṃ*)—the performer of many rites
+- अग्निं (*agniṃ*)—Agni
+- सवितारं (*savitāraṃ*)—the god Savitṛ
+- ओषधीः (*oṣadhīḥ*)—the presiding deities of the herbs
+- पर्वतांश्च (*parvatāṃśca*)—and the presiding deities of the mountains
+
+### Printed p. 751
+
+- नः (*naḥ*)—our
+- ऊतये (*ūtaye*)—for satisfaction
+- अवसे (*avase*)—for protection
+- प्र कृष्ण (*pra kṛṣṇa*)—make them face us
+
+##### भावार्थ (Bhāvārtha)
+
+O Bharadvāja, make Varuṇa, Mitra, Indra, the host of Maruts, the god Pūṣan, Viṣṇu, Agni, the performer of many rites, the god Savitṛ, the presiding deities of the herbs and the presiding deities of the mountains face us, for our satisfaction and for our protection.
+
+##### English translation
+Propitiate to-day, for our protection and preservation, Varuna, Mitra, Indra, and the Maruts, Pushan, Vishnu, Agni of many rites, Savitri, the herbs, the mountains.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer Bharadvāja, praising the Viśvedevas beginning with Varuṇa, addresses himself. That is, although he himself is the seer of this sūkta, he refers to himself by the prathama-puruṣa (third person), in the manner of addressing others.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒म उ॑ त्वा पुरुशाक प्रयज्यो जरि॒तारो॑ अ॒भ्य॑र्चंत्य॒र्कैः ।  
+> श्रु॒धी हव॒मा हु॑व॒तो हु॑वा॒नो न त्वावा॑ अ॒न्नो अ॑मृत॒  ॑
+> त्वदस्ति ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । ऊं इति । त्वा । पुरुशाक । प्रयज्यो इति प्रयज्यो । जरितारः । अभि ।  
+> अर्चंति । अकैर्ः ।  
+> श्रुधि । हवं । आ । हुवतः । हुवानः । न । त्वाऽवान् । अन्यः । अमृत । त्वत् । अस्ति ॥१०॥
+
+### Printed p. 752
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुशाक बहुशक्ते हे प्रयज्यो प्रकृष्टेन यजनीयेंद्र त्वा त्वामिमे
+> जरितारः स्तोतारोऽर्कैरर्चनीयैः स्तोत्रैरभ्यर्चंति । अभिष्णुवंति । तथा हे
+> अमृत अमरणशीलेंद्र हुवानः स्तूयमानस्त्वमा हुवतोऽभिष्णुवतो मम हवं
+> स्तोत्रं श्रुधि । शृणु । किंच त्वावान् त्वत्सदृशो देवस्त्वदन्यो नास्ति ॥
+
+##### Gist of the bhāṣya
+
+O Puruśāka, of much power, O Prayajyu, Indra, to be worshipped in an excellent manner, these praisers praise you with अर्कैः (*arkaiḥ*), that is, with hymns of praise worthy to be sung; they praise you. Likewise, O deathless Indra, you who are praised, hear the invocation, that is, the hymn, of me who praise you. Moreover, there is no other god like you, different from you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुशाक (*puruśāka*)—O Indra, of many powers
+- प्रयज्यो (*prayajyo*)—and worthy of excellent worship
+- त्वा (*tvā*)—you
+- इमे जरितारः (*ime jaritāraḥ*)—these praisers
+- अर्कैः (*arkaiḥ*)—with hymns of praise
+- अभ्यर्चंति (*abhyarcaṃti*)—worship
+- अमृत (*amṛta*)—O deathless Indra
+- हुवानः (*huvānaḥ*)—you who are praised by us
+- आ हुवतः (*ā huvataḥ*)—of me who praise you
+- हवं (*havaṃ*)—the hymn
+- श्रुधि (*śrudhi*)—hear
+- त्वावान् (*tvāvān*)—a god like you
+- त्वदन्यः (*tvadanyaḥ*)—other than you, anyone else
+- न अस्ति (*na asti*)—there is none at all
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of many kinds of power and worthy of excellent worship, these praisers worship you with hymns of praise. O deathless Indra, you who are praised by us, hear the hymn of me who praise you. There is no other god like you but you.
+
+##### English translation
+Indra, of great power, and to be devoutly worshipped, these your adorers glorify you with hymns : do you, who are invoked, hear the invocation of (him) invoking you, for there is no other divinity than you, immortal (Indra), such as you are.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू म॒ आ वाच॒मुप॑ याहि वि॒द्वान्विश्वे॑भिः सूनो सहसो॒  ॑
+> यज॑त्रैः ।  
+> ये अ॑ग्नि जि॒ह्वा ऋ॑त॒साप॑ आ॒सुर्यॆ मनुं॑ च॒क्रुरुप॑रं॒  ॑
+> दसाय ॥ ११ ॥
+
+### Printed p. 753
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मे । आ । वाचं । उप । याहि । विद्वान् । विश्वेभिः । सूनो इति । सहसः ।  
+> यजत्र्यैः ।  
+> ये । अग्निजिह्वाः । ऋत्सापः । आसुः । ये । मनुं । चक्रुः । उपरं । दसाय ॥१०॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं च वैश्वदेवीत्युक्तं । हे सहसः सूनो बलस्य पुत्रेंद्र विद्वान्
+> सर्वज्ञस्त्वं यजत्रैर्यजनीयैर्विश्वेभिः सर्वैर्देवैः सह नु क्षिप्रं मे मदीया
+> वाचः स्तुतिरूपाणि वचांस्युपाभि आ याहि । आगच्छ । एवंभूतमिंद्रं प्रार्थयत
+> ऐंद्रत्वात्तूक्तस्य । ये देवा अग्निजिह्वाः । अग्निर्जिह्वास्थानीयो येषां ते ।
+> ऋतसाप ऋतं यज्ञं स्पृशंत आसुर्भवंति ये च देवा दसाय शत्रूणामुपक्षेपणाय मनुं राजर्षिमुपरं दस्यूनामुपरिभवं चक्रुः कृतवंतः तैः सहागच्छेति
+> पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk too is Vaiśvadevī, as has been said. O son of strength, Indra, you, the all-knowing, come quickly to my words, that is, my hymns of praise, together with all the adorable gods. Indra, so described, is prayed to, because the sūkta is addressed to Indra. The gods whose tongue is Agni, for Agni is in the place of the tongue for them, who touch the rite, the sacrifice, and are present at it, and the gods who, for the casting down of enemies, made Manu, the royal seer, उपरं (*uparaṃ*), that is, superior to the Dasyus: come with them. Thus it is connected with what has gone before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O Indra, son of strength
+- विद्वान् (*vidvān*)—you, the all-knowing
+- ये (*ye*)—those gods who
+- अग्नि जिह्वाः (*agni jihvāḥ*)—have the flame of Agni as tongue
+- ऋतसापः (*ṛtasāpaḥ*)—and take a share in the sacrifice
+- आसुः (*āsuḥ*)—are (and)
+- ये (*ye*)—those gods who
+- दसाय (*dasāya*)—for the destruction of enemies
+- मनुं (*manuṃ*)—the royal seer Manu
+- उपरं (*uparaṃ*)—as superior to the enemy
+- चक्रुः (*cakruḥ*)—have made (such)
+- यजत्रैः (*yajatraiḥ*)—adorable
+- विश्वेभिः (*viśvebhiḥ*)—all the gods, together with them
+- नु (*nu*)—quickly
+- मे उप (*me upa*)—towards my hymns
+- आ याहि (*ā yāhi*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, son of strength, you, the all-knowing, be gracious and come towards my hymns of praise, together with all the gods who have fire for their tongue and take a share in the sacrifice, and who, for the destruction of enemies, made Manu superior to the enemies.
+
+##### English translation
+Come quickly, Son of strength, you who know (all things), upon my prayer; together with all the adorable (divinities): they who, with the tongue of Agni, are partakers of the sacrifice, who rendered Manu (victorious) over his adversaries.
+
+### Printed p. 754
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ बोधि पुरए॒ता सु॒गेषू॒त दु॒र्गेषु॑ पथि॒कृद्विदा॑नः ।  
+> ये अश्र॑मास उ॒रवो॒ वहि॑ष्ठा॒स्तेभि॑र्न इंद्रा॒भि व॑क्षि॒ वाजं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । बोधि । पुरःएता । सुगेषु । उत । दुगेषु । पथिकृत् । विदानः ।  
+> ये । अश्रमासः । उरवः । वहिष्ठाः । तेभिः । नः । इंद्र । अभि । वक्षि । वाजं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पथिकृद्वर्त्मनां कर्ता विदानः सर्वं विद्वान् स त्वं सुगेषु सुखेन
+> गंतव्येषूतापि च दुर्गेषु दुःखेन गंतव्येषु च मार्गेषु नोऽस्माकं पुरएता
+> पुरो गंता बोधि । भव ॥ बोधीति भवतेर्लोण्मध्यमपुरुषैकवचनस्य छांदसं
+> रूपं ॥ आश्रमासः श्रमरहिता उरवो महांतो वहिष्ठा वोढृतमास्तव येऽश्वाः
+> संति हे इंद्र तेभिस्तैरश्वैर्नोऽस्मभ्यं वाजमन्नमभि वक्षि । अभिवह ॥
+
+##### Gist of the bhāṣya
+
+O Indra, maker of paths, all-knowing, you, be our leader who goes before, in the paths that are easy to travel and also in those that are hard to travel. Whatever horses of yours are free from fatigue, great, the best bearers, with those horses, O Indra, bring us food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पथिकृत् (*pathikṛt*)—maker of paths
+- विदानः (*vidānaḥ*)—and all-knowing
+- सः (*saḥ*)—you
+- सुगेषु (*sugeṣu*)—in paths easy to travel
+- उत (*uta*)—and
+- दुर्गेषु (*durgeṣu*)—in paths hard to travel
+- नः (*naḥ*)—our
+- पुर एता (*pura etā*)—as leader
+- बोधि (*bodhi*)—be
+- ये (*ye*)—which horses of yours
+- अश्रमासः (*aśramāsaḥ*)—are free from fatigue
+- उरवः (*uravaḥ*)—of great power
+- वहिष्ठाः (*vahiṣṭhāḥ*)—and fit for bearing
+- तेभिः (*tebhiḥ*)—with them
+- नः (*naḥ*)—to us
+- वाजं (*vājaṃ*)—food
+- अभि वक्षि (*abhi vakṣi*)—bear and bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, maker of paths and all-knowing, you be our guide in all kinds of paths, whether easy to travel or hard to travel. With the horses that are free from fatigue, of great power and fit for bearing, bring us food.
+
 ---
 
-**Progress note:** Done through printed p. 748. Sūkta 21 Ṛk 3 end, Ṛks 4-7
+**Progress note:** Done through printed p. 754. Sūkta 21 Ṛks 8-12
