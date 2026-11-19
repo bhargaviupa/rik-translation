@@ -29159,6 +29159,261 @@ The wealth of others is to be avoided, that is, must not be accepted. Above all,
 > न॒हि ग्रभा॒यार॑णः सु॒शेवो॒ऽन्नोद॑र्यो॒ मन॑सा॒ मंत॒वा उ॑ ।  
 > अधा॑ चि॒दोकः॒ पुन॒रित्स ए॒त्या नो॑ वा॒ज्य॑भी॒षाळे॑तु॒ नव्यः॑ ॥ ८ ॥
 
+### Printed p. 691
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । ग्रभाय । अरणः । सुशेवः । अन्यउदयः । मनसा । मंतवै । ऊं इति ।  
+> अध । चित् । ओकः । पुनः । इत् । सः । एति । आ । नः । वाजी । अभीषाट् । एतु । नव्यः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वस्यामृच्युक्त एवार्थोऽत्र प्रपंच्यते । अरणोऽरममाणोऽन्यूदर्यः सुशेवः सुखतमः सन् ग्रभाय पुत्रत्वेन ग्रहणाय मनसा मंतवा उ
+> मनसापि मंतव्यो न भवति हि । अध चिदपि च मोऽन्योदर्य ओक इत् संस्थानमेव
+> पुनरेति । प्राप्नोति । अतो वाज्यन्नवानभीषाट् शत्रूणामभिभविता नव्यू नवजातः
+> पुत्रो नोऽस्मानैतु । आगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+The sense already stated in the preceding ṛk is elaborated here. The one who is अरणः (*araṇaḥ*), not delighting, born of another's womb, though he be most agreeable, that is, most pleasant, is not fit to be taken as a son: he is not to be thought of even in the mind. And further, he returns again to his own dwelling, that is, he reaches it. Therefore may a son who is possessed of food, a vanquisher of enemies, newly born, come to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरणः (*araṇaḥ*)—one unable to discharge the debt to the fathers, or one who does not become a source of joy **NOTE**
+- अन्नोदर्यः (*annodaryaḥ*)—one born in the womb of another
+- सुशेवः (*suśevaḥ*)—though he be in an excellent condition
+- ग्रभाय (*grabhāya*)—to accept in the form of a son
+- मनसा (*manasā*)—even in the mind
+- मंतवा उ (*maṃtavā u*)—even to think of
+- न हि (*na hi*)—he is not worthy
+- अध चित् (*adha cit*)—moreover
+- सः (*saḥ*)—he, the son of another
+- ओक इत् (*oka it*)—to the house where he was born
+- पुनः एति (*punaḥ eti*)—goes back (therefore)
+- वाजी (*vājī*)—one possessed of food
+- अभीषाट् (*abhīṣāṭ*)—a conqueror who overcomes enemies
+- नव्यः (*navyaḥ*)—new
+- नः (*naḥ*)—to us (as a source of joy)
+- आ एतु (*ā etu*)—let him be born to us also
+
+##### भावार्थ (Bhāvārtha)
+
+He who is unable to discharge the debt to the fathers, or who does not become a source of joy, and who is born in the womb of another, is not worthy even to be thought of in the mind as one to be accepted in the form of a son, though he be in an excellent condition. Moreover, that son of another goes back to the very house where he was born. Therefore may a son who is possessed of food, a conqueror who overcomes enemies, and new, be born to us also, as a source of joy.
+
+##### English translation
+One not acquitting debts, although worthy of regard, yet begotten to another, is not to be contemplated even in the mind (as fit) for accept-ance : for verily he returns to his own house : therefore let there come to us (a son) new-born, possessed of food, victorious over foes.
+
+### Printed p. 692
+
+##### विशेषविषयगळु (Special Topics)
+
+To establish clearly the very matter stated in the preceding ṛk, the ṛṣi has set out in detail, in this ṛk, his view as to what kind of son he wants. For this ṛk too Yāska has given an etymology—
+
+तस्योत्तरा भूयसे निर्वचनाय । न हि ग्रभायारणः सुशेवोऽन्योदर्यो मनसा मन्तवा उ। आधा चिदोकः पुनरित्स एत्यानो वाज्यभीषाळेतु नव्यः॥ नहि ग्रहीतव्यो अरणः सुसुखतमोऽप्यन्योदर्यो मनसापि न मंतव्यो ममायं पुत्र इति । अथ स ओकः पुनरेव तदेति यत आगतो भवति ॥ ओक इति निवासनामोच्यते । ऐतु नो वाजी वेजनवान् । अभिषहमाणः सपत्नान् । नवजातः स एव पुत्र इति ॥ (*tasyottarā bhūyase nirvacanāya | na hi grabhāyāraṇaḥ suśevo 'nyodaryo manasā mantavā u| ādhā cidokaḥ punaritsa etyāno vājyabhīṣāḷetu navyaḥ‖ nahi grahītavyo araṇaḥ susukhatamo 'pyanyodaryo manasāpi na maṃtavyo mamāyaṃ putra iti | atha sa okaḥ punareva tadeti yata āgato bhavati ‖ oka iti nivāsanāmocyate | aitu no vājī vejanavān | abhiṣahamāṇaḥ sapatnān | navajātaḥ sa eva putra iti ‖*) (Ni. 3-3)
+
+To establish the point that among the various kinds of sons mentioned in the preceding ṛk the aurasa son alone is the best, Yāska has cited this ṛk and given its etymology.
+
+However good, or however pleasing, another's son may be, he must never be accepted as a son (as an adopted one). For that son was born of the seed of another man in the womb of another woman. Such a son of another man must not be thought of even in the mind as "this is my son". For, as the proverb has it, "Does an adopted son have devotion to his father?", this son has no kind of affection or conceit towards the father who accepted him. He has attachment only in regard to the property that will come to him. Moreover, some day he will go back to the very house where he was born; that is, his conceit is for his own father. Towards the adoptive father he has no kind of affection or conceit. The word ओकः (*okaḥ*) means the house in which one dwells. Therefore we do not want a son of this kind, that is, one born of another family. The ṛṣi Vasiṣṭha has prayed to Agni that a son who causes fear to enemies and is valorous be newly born to us in our own wife, through our own bodily union.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने वनुष्य॒तो नि पा॑हि॒ त्वमु॑ नः सहसावन्नव॒द्यात् ।  
+> सं त्वा॑ ध्वस्म॒न्वद॒भ्ये॑तु॒ पाथः॒ सं र॒यिः स्पृ॑ह॒याय्यः॑ सह॒स्री॥
+
+### Printed p. 693
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । वनुष्यतः । नि । पाहि । त्वं । ऊं इति । नः । सहसावन् । अवद्यात् ।  
+> सं । त्वा । ध्वस्मन्वत् । अभि । एतु । पाथः । सं । रयिः । स्पृहयाय्यः । सहस्री ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने त्वं वनुष्यतो हिंसकान्नोऽस्मान्नि पाहि । त्वमु त्वमेवावद्यात्
+> पापात् नोऽस्मान्नि पाहि । त्वा त्वां ध्वस्मन्वत् ध्वस्तदोषं पाथोऽन्नं हविः
+> समभ्येतु । सम्यक् प्राप्नोतु । अपि चास्मान् स्पृहयाय्यः स्पृहणीयः सहस्री
+> सहस्रसंख्याको रयिरभ्येतु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect us who are harmed by the harmful; you indeed protect us from sin. May the food, the oblation, free from defect, come to you, may it reach you fully. And may wealth that is to be desired, thousandfold, come to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- वनुष्यतः (*vanuṣyataḥ*)—from the harmful enemy
+- नः (*naḥ*)—us
+- नि पाहि (*ni pāhi*)—protect completely
+- सहसावन् (*sahasāvan*)—O Agni, endowed with strength
+- त्वं उ (*tvaṃ u*)—you yourself
+- अवद्यात् (*avadyāt*)—protect us from sinful acts also
+- ध्वस्मन्वत् (*dhvasmanvat*)—free from defect
+- पाथः (*pāthaḥ*)—the food that is in the form of oblation
+- त्वा (*tvā*)—you
+- समभ्येतु (*samabhyetu*)—let it come and join
+- स्पृहयाय्यः (*spṛhayāyyaḥ*)—most worthy of regard
+- सहस्री (*sahasrī*)—counted by thousands
+- रयिं (*rayiṃ*)—wealth (let it join us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us completely from the harmful enemy. O mighty Agni, protect us yourself from sinful acts also. May food free from defect, in the form of oblation, come and join you. May wealth that is most worthy of regard and of great number come and join us.
+
+##### English translation
+Agni, defend us against the malignant; you are endowed with strength; (preserve us) from sin : may the (sacrificial) food come to you free from defect : may the riches that we desire come to us by thousands.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एता नो अग्ने सौभगा दिदीह्यपि क्रतुं सुचेतसं वतेम ।  
+> विश्वा स्तोतृभ्यो गृणते च संतु यूयं पात स्वस्तिभिः  
+> सदा नः । १० ॥
+
+### Printed p. 694
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एता । नः । अग्ने । सौभगा । दिदीहि । अपि । क्रतुं । सुचेतसं । वतेम ।  
+> विश्वा । स्तोतृभ्यः । गृणते । च । संतु । यूयं । पात । स्वस्तिभिः । सदा । नः ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने एतैतानि परिदृश्यमानानि सौभगा सौभगानि शोभनानि धनानि नोऽस्मभ्यं
+> दिदीहि । दीपय देहि वा । अप्यपि च क्रतुं कर्म यज्ञानां कर्तारं वा सुचेतसं
+> शोभनप्रज्ञानयुक्तं सुप्रज्ञानं पुत्रं वा वतेम । संभजेमहि ॥ वनतेः संभजनार्थस्य वर्णांतरागमे सति रूपं ॥ विश्वा विश्वानि धनानि स्तोतृभ्य उद्धातृभ्यो
+> गृणते शंसते च संतु । यूयं त्वत्परिवाराश्च सर्वे यूयं नोऽस्मान् स्तस्तिभिः
+> क्षेमैः सदा सर्वदा पात । रक्षत ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bestow on us these visible good fortunes, that is, good riches; make them shine, or give them. And further, may we obtain the rite, or the performer of sacrifices, one of good mind, that is, a son of good understanding; may we share in him. May all riches be to the praisers, the Udgātṛs, and to him who recites, that is, praises. You and all your retinue, protect us always, at all times, with blessings, that is, with well-being.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- एता (*etā*)—the above-described
+- सौभगा (*saubhagā*)—all auspicious riches
+- नः (*naḥ*)—to us
+- दिदीहि (*didīhi*)—provide
+- अपि (*api*)—and
+- क्रतुं (*kratuṃ*)—the performer of sacrificial rites
+- सुचेतसं (*sucetasaṃ*)—a son endowed with excellent understanding
+- वतेम (*vatema*)—may we obtain
+- विश्वा (*viśvā*)—all riches
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to the praisers
+- गृणते च (*gṛṇate ca*)—and to those who recite those praises and eulogize you
+- संतु (*saṃtu*)—let them be assigned
+- यूयं (*yūyaṃ*)—you and all your retinue
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, provide us with all the auspicious riches described above. And may we obtain a son who performs sacrificial rites and is endowed with excellent understanding. May all riches be assigned to the praisers, and to those who recite those praises and eulogize you. May you and all your retinue always protect us with blessings.
+
+##### English translation
+Illume for us, Agni, the auspicious (riches): may we possess (a son) intelligent, the celebrator of sacred rites: may all (good things) be to your praisers, and to him who eulogizes (you): and ever cherish us with blessings.
+
+### Printed p. 695
+
+## Sūkta 5 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्राग्नये तवस इति नवर्चं पंचमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं
+> वैश्वानराग्नि देवताकं । तथाचानुक्रांतं । प्राग्नये नव वैश्वानरीयं त्विति ॥
+> विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्राग्नये तवस इति (*prāgnaye tavasa iti*), of nine ṛks, is the fifth sūkta; it is the vision of Vasiṣṭha, in the Triṣṭubh metre, with Vaiśvānara Agni as its deity. So the Anukramaṇikā says: प्राग्नये नव वैश्वानरीयं त्विति (*prāgnaye nava vaiśvānarīyaṃ tviti*). The application is लैंगिकः (*laiṃgikaḥ*).
+
+##### Anuvāda
+
+This sūkta, प्राग्नये तवसे (*prāgnaye tavase*), is the fifth sūkta in the first anuvāka. In it there are nine ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Vaiśvānara Agni is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: प्राग्नये नव वैश्वानरीयं तु (*prāgnaye nava vaiśvānarīyaṃ tu*) **NOTE**. The application is laiṅgika.
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 5
+- Aṣṭaka 5; Adhyāya 2; Varga 7, 8
+- Number of ṛks in the sūkta: 9
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: वैश्वानरः (*vaiśvānaraḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्राग्नये तवसे भरध्वं गिरं दिवो अरतये पृथिव्याः ।  
+> यो विश्वेषाममृतानामुपस्थे वैश्वानरो वावृधे जागृवद्भिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अग्नये । तवसे । भरध्वं । गिरं । दिवः । आरतये । पृथिव्याः ।  
+> यः । विश्वेषां । अमृतानां । उपस्थे । वैश्वानरः । ववृधे । जागृवत्भिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारस्तवसे प्रवृद्धाय दिवोऽंतरिक्षस्य पृथिव्याश्चारतये गंत्रेऽग्नये
+> वैश्वानरसंज्ञकायाग्नये गिरं स्तुतिं प्र भरध्वं । यो वैश्वानरो विश्वनरहितोs-
+
+##### Gist of the bhāṣya
+
+O praisers, offer praise, a hymn, to Agni named Vaiśvānara, the strong, that is, the grown great, who goes between the atmosphere and the earth. This Vaiśvānara is Agni, the benefactor of all men,
+
+### Printed p. 696
+
+> ग्निर्विश्वेषां सर्वेषाममृतानां देवानामुपस्थ उपस्थाने यज्ञॆ जागृवद्भिः
+> प्रबुद्धैर्देवैः सहितः सन् ववृधे स्तुतिभिर्हविर्भिश्च वर्धते ॥
+
+##### Gist of the bhāṣya
+
+who, among all the immortals, the gods, at the upasthā, that is, at the sacrifice, together with the awakened gods, has grown; he grows by praises and by oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- वैश्वानरः (*vaiśvānaraḥ*)—Agni of the form of Vaiśvānara
+- विश्वेषां (*viśveṣāṃ*)—all
+- अमृतानां (*amṛtānāṃ*)—the gods
+- उपस्थे (*upasthe*)—in the sacrifice, which is directed to them
+- जागृवद्भिः (*jāgṛvadbhiḥ*)—together with the awakened gods
+- ववृधे (*vavṛdhe*)—grows; such a one
+- तवसे (*tavase*)—the strong
+- दिवः (*divaḥ*)—of the atmosphere
+- पृथिव्याः (*pṛthivyāḥ*)—and of the earth, between
+- अरतये (*arataye*)—the one fit to move about
+- अग्नये (*agnaye*)—to Agni
+- गिरं (*giraṃ*)—praise
+- प्र भरध्वं (*pra bharadhvaṃ*)—procure and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, the Agni of the form of Vaiśvānara, who grows in the sacrifice directed to all the gods, together with the awakened gods: to that strong Agni, who is fit to move about between the atmosphere and the earth, procure and offer praise.
+
+##### English translation
+Offer praise to the strong Agni, traversing without hindrance heaven and earth : he who (as) Vaiswanara prospers at the sacrifices of all the immortals, being associated with the awaking divinities.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृष्टो दिवि धाय्यग्निः पृथिव्यां नेता सिंधूनां वृषभः  
+> स्तियानां ।  
+> स मानुषीरभि विशो वि भाति वैश्वानरो वावृधानो वरेण॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पृष्टः । दिवि । धायि । अग्निः । पृथिव्यां । नेता । सिंधूनां । वृषभः । स्तियानां ।  
+> सः । मानुषीः । अभि । विशः ! वि । भाति । वैश्वानरः । ववृधानः । वरेण ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 690. Ṛk 5-7 and start of Ṛk 8 (pp. 685-690)
+**Progress note:** Done through printed p. 696. Ṛk 8-10, Sūkta 5 intro, Ṛk 1-2 (pp. 691-696)
