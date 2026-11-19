@@ -27547,6 +27547,170 @@ From their approach the earth trembles with fear, as a crowded boat goes quiveri
 
 When the storm wind blows with force, not only do trees and the like tremble and fall uprooted, but rain also falls in torrents, with thunder, lightning, flashes of
 
+### Printed p. 766
+
+lightning, and the like, it appears terrifying. This terrifying sight, the shaking of the earth, the seer describes by the illustration of a boat. If a boat carries more people than it should ordinarily carry, it is struck by the beating of the waves, rocks to and fro, and becomes an occasion of fear as to where it may sink. The people seated in it feel great alarm and fear. When the wind blows violently and pours down rain, such events as rain, wind, thunderbolt, lightning and trees falling uprooted are truly terrifying. It is most fitting that the seer has described this state by the illustration of a boat full of people. In both there is occasion for fear, for alarm and for agitation. Besides, it is also said here that the forewarning of the coming of the Marut deities is known from afar. It is described here that, by the gathering of clouds in the atmosphere, by the swift blowing of the wind and by the lightning flashing from time to time, the sign of the coming of the Marut deities is known from afar, that is, beforehand.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गवा॑मिव श्रि॒यसे॒ शृंग॑मुत्त॒मं सूर्यो॒ न चक्षू॒ रज॑सो  ॒॑
+> विसर्जने ।  
+> अत्या॑इव सु॒भ्व१॒ं॑श्चार॑वः स्थन॒ मर्या॑इव श्रि॒यसे॑ चेतथा  
+> नरः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गवांइव । श्रियसे । शृंगं । उत्तमं । सूर्यः । न । चक्षुः । रजसः ।  
+> विसर्जने ।  
+> अत्याइव । सुभ्वः । चारवः । स्थन । मर्याइव । श्रियसे । चेतथ । नरः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं गवां शृंगमिवोत्तममुत्कृष्टमुष्णीषपट्टादिकं
+> श्रियसे श्रिये धारयथेति शेषः । सूर्यो न सूर्य इव । स यथा रजसस्ते-
+
+### Printed p. 767
+
+> जसो विसर्जने चक्षुर्दर्शनसाधनं मंडलं धत्ते तद्वद्रजसो वृष्टेर्विसर्जने
+> विसर्जनाय चक्षुः सर्वस्य प्रकाशकं तेजो धारयथ । अत्या इवाश्वा इव सुभ्वः
+> सुष्टु सर्वत्र भवंतो वेगवंतश्चारवो दर्शनीयाः स्थन । भवथ । मर्या
+> मर्त्या यजमाना इव । ते यथा श्रियसे जानंति यज्ञादिकं तद्वच्छ्रिये
+> चेतथ हे नरो नेतारो मरुतः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Maruts. You bear, for splendour, an excellent head-ornament such as a turban-band, like the horn of cattle. Like the sun: as the sun, at the dispersal of light, bears the orb that is the means of sight, so you, at the release of rain, bear the light that illuminates everything. Like horses, being swift and everywhere present, you are graceful, pleasing to behold. Like mortals, that is, sacrificers: as they know the sacrifice and the like for their prosperity, so you, O leaders, the Maruts, know it for glory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गवां शृंगं इव (*gavāṃ śṛṃgaṃ iva*)—like the horn of cattle
+- उत्तमं (*uttamaṃ*)—excellent turbans and the like
+- श्रियसे (*śriyase*)—for the increase of your beauty (you wear them)
+- सूरो न (*sūro na*)—as the sun spreads and diffuses the light of his orb (so you also)
+- रजसः (*rajasaḥ*)—of water
+- विसर्जने (*visarjane*)—for the release
+- चक्षुः (*cakṣuḥ*)—the light visible to all (you have put on)
+- अत्या इव (*atyā iva*)—like horses
+- सुभ्वः (*subhvaḥ*)—you who are swift
+- चारवः (*cāravaḥ*)—charming
+- स्तन (*stana*)—you are
+- नरः (*naraḥ*)—O Maruts, who are leaders
+- मर्या इव (*maryā iva*)—like human sacrificers
+- श्रियसे (*śriyase*)—(knowing) that sacrifices and the like bring welfare
+- चेतथ (*cetatha*)—you have known
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you wear excellent turbans and the like, like the horn of cattle, for the increase of your beauty. As the sun spreads and diffuses the light of his orb, so you also have put on, for the release of water, a light visible to all. Swift like horses, you are charming. O Maruts, leaders, like human sacrificers you also have known that sacrifices and the like bring welfare.
+
+##### English translation
+You bear for your decoration, an excellent (diadem) like the horn of cattle : as the sun, the eye (of day, dispenses light), so (are you diligent) in the distribution of the rains : graceful are you, and rapid as horses, and, like (pious) mortals, you, leaders (of rites), consider (holy ceremo- nies) for their glory.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk **NOTE** four illustrations are stated.
+
+(1) गवामिव शृंगं श्रियसे—हे मरुतः गवां शृंगमिन उत्कृष्टमुष्टीषपटादिकं श्रिये धारयथ । (*gavāmiva śṛṃgaṃ śriyase—he marutaḥ gavāṃ śṛṃgamina utkṛṣṭamuṣṭīṣapaṭādikaṃ śriye dhārayatha |*) As the horns shine on the head of cattle, so you, O Marut deities, shine wearing a head-ornament on your heads. The horn of cattle is given as the illustration in order to describe things worn on the head for adornment.
+### Printed p. 768
+In the Ṛk अग्निभ्राजसो विद्युतो गभस्तोः शिप्राः शीर्षसु वितता हिरण्ययीः । (*agnibhrājaso vidyuto gabhastoḥ śiprāḥ śīrṣasu vitatā hiraṇyayīḥ |*) (Ṛ. Saṃ. 5-54-11) the head-ornaments of the Marut deities are described by the words शिप्राः शीर्षसु (*śiprāḥ śīrṣasu*).
+
+(2) सूर्यो न रजसः विसर्जने चक्षुः—सूर्यो यथा तेजसो विसर्जने चक्षुर्दर्शनसाधनं मंडलं धत्ते तथा मरुतः वृष्टेविसर्जने सर्वस्य प्रकाशकं तेजो धारयथ । (*sūryo na rajasaḥ visarjane cakṣuḥ—sūryo yathā tejaso visarjane cakṣurdarśanasādhanaṃ maṃḍalaṃ dhatte tathā marutaḥ vṛṣṭevisarjane sarvasya prakāśakaṃ tejo dhārayatha |*) As the sun spreads and diffuses the light (radiance) of his orb so that it is visible to all, so you also, Marut deities, spread your radiance everywhere for the pouring of rain. That the sun's radiance spreads and diffuses everywhere is within the experience of all. In the same way, the radiance of the Marut deities, that is, their lightning, spreads everywhere at the time of rain and is seen by all: this is the main purport of this illustration.
+
+(3) अत्याइव सुभ्वः चारवः— अश्वा इव सुष्टु सर्वत्र भवंतो वेगवंतश्चारवो दर्शनीयाः भवथ । (*atyāiva subhvaḥ cāravaḥ— aśvā iva suṣṭu sarvatra bhavaṃto vegavaṃtaścāravo darśanīyāḥ bhavatha |*) As horses that move swiftly are attractive by their gait, so the Marut deities are attractive to all by their swift movement and their nature of pervading everywhere: this is the main purport. It is the very nature of a horse to move swiftly; the going of the Marut deities is likewise swift. Since swift movement is a common property of horses and Maruts, the Marut deities are here described by comparison with horses.
+
+(4) मर्या इव श्रियसे चेतथ—मर्त्या यजमाना यज्ञादिकं यथा श्रियसे जानंति तद्वच्छ्रिये नेतारो मरुतः चेतथ । (*maryā iva śriyase cetatha—martyā yajamānā yajñādikaṃ yathā śriyase jānaṃti tadvacchriye netāro marutaḥ cetatha |*) As human sacrificers know that sacrifices and other rites are conducive to welfare, so the Marut deities also have obtained this kind of knowledge: this is the meaning stated here.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को वो॑ म॒हांति॑ मह॒तामुद॑श्नव॒त्कस्काव्या॑ मरुतः॒ को ह॒  ॑
+> सौंस्या ।
+
+### Printed p. 769
+
+> यूयं ह भूमिं किरणं न रेजथ प्र यद्भरध्वे सुविताय  
+> दावने ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । वः । महांति । महतां । उत् । अश्ववत् । कः । काव्या । मरुतः । कः । ह ।  
+> पौंस्या ।  
+> यूयं । ह । भूमिं । किरणं । न । रेजथ । प्र । यत् । भरध्वे । सुविताय ।  
+> दावने ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्माकं महतां पूज्यानां को यजमानो महांति
+> श्रेयांस्युदश्ववत् । उत्कृष्टं प्राप्नुयात् । कश्च तदर्थं काव्या काव्यानि कवीनां
+> युष्माकं संबंधीनि स्तोत्राण्युदश्ववत् । को ह कश्च पौंस्या पौंस्यानि पराक्रमानुदश्ववत् । आदरार्थं पुनर्वचनं । यूयं ह यूयं खलु भूमिं
+> किरणं न किरणमिव रेजथ । किरणं यथा वृष्ट्यर्थं चालयथ तद्वद्दूमिं रेजथ ।
+> यद्यस्मात् सुविताय सुष्टु प्राप्तव्याय । प्राप्तव्यस्येत्यर्थः । तादृतस्य धनस्य
+> वृष्टुदकस्य वा दावने दानाय प्र भरध्वे प्रकर्षेण संपादयथ वृष्टिं ।
+> यस्माद्यूयमेवं कुरुथ तस्मात्क एवं करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, which sacrificer among you, the great and adorable, would attain great and excellent blessings? And who, to that end, would offer your poetic praises, those of the seers? And who your manly deeds? The repetition of the question is for respect. You indeed make the earth tremble like a ray: as a ray is made to move for the sake of rain, so you make the earth tremble. Since you bring forth rain abundantly for the giving of wealth that is well to be obtained, or of water, therefore the meaning is: who else does thus?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- महतां (*mahatāṃ*)—of you who are adorable
+- वः (*vaḥ*)—your
+- महांति (*mahāṃti*)—greatness
+- कः (*kaḥ*)—which sacrificer
+- उदश्ववत् (*udaśvavat*)—can make it still more glorious
+- कः (*kaḥ*)—who
+- काव्या (*kāvyā*)—can offer praise in poetic form
+- को ह (*ko ha*)—which sacrificer indeed
+- पौंस्या (*pauṃsyā*)—can know and praise your valour
+- यत् (*yat*)—for which reason
+- सुविताय (*suvitāya*)—excellent abundance
+- दावने (*dāvane*)—in order to produce
+- प्र भरध्वे (*pra bharadhve*)—you pour rain (therefore)
+- यूयुं ह (*yūyuṃ ha*)**NOTE**—you
+- किरणं न (*kiraṇaṃ na*)—as a ray trembles
+- भूमिं (*bhūmiṃ*)—the earth
+- रेजथ (*rejatha*)—you make tremble
+### Printed p. 770
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, which sacrificer can praise well your greatness, you who are adorable? Who can offer poetic praise befitting it? Who indeed can know your valour and extol it? Because, by that greatness of yours, you pour rain to make the earth fruitful and to produce abundance in it, therefore you make the earth tremble as a ray trembles.
+
+##### English translation
+Who may exalt the great excellencies of you who are adorable ? who may (offer you fitting) praises ? who (glorify your) manly (deeds) ? for you make the earth tremble like a ray (of light) when you confer the gift (of rain) for (the diffusion of) fertility.
+
+##### विशेषविषयगळु (Special Topics)
+
+यूयं ह भूमिं किरणं न (*yūyaṃ ha bhūmiṃ kiraṇaṃ na*) Here it is described that you, O Marut deities, make the earth shake as a ray of the sun trembles. Although the ray of the sun appears to tremble, in reality it does not tremble. As that ray passes through the atmosphere it appears to tremble. Therefore the seer here describes the trembling of the earth by the illustration of the trembling of a ray.
+
+In the first half of this Ṛk the power, ability and greatness of the Marut deities are described by way of a question. को महतां वः महांति उत् (*ko mahatāṃ vaḥ mahāṃti ut*) O Marut deities, who can describe the greatness of you who are endowed with great glory? In saying this the seer asks the question in this manner, expecting the answer that no person can describe it; that your greatness is so excessive that it cannot be reached by the power and ability of any person. The questions that follow should be understood to be of the same kind.
+
+Concerning the meaning and use of the word न (*na*) Yāska has spoken thus:
+नेति प्रतिषेधार्थीयो भाषायां । उभयमन्वध्यायं । नेंद्रं देवममंसत इति प्रतिषेधार्थीयः पुरस्तादुपचारस्तस्य यत्प्रतिषेधति । दुर्मदासो न सुरायां इत्युपमार्थीयः । उपरिष्टादुपचारस्तस्य येनोपमिमीते ॥ (*neti pratiṣedhārthīyo bhāṣāyāṃ | ubhayamanvadhyāyaṃ | neṃdraṃ devamamaṃsata iti pratiṣedhārthīyaḥ purastādupacārastasya yatpratiṣedhati | durmadāso na surāyāṃ ityupamārthīyaḥ | upariṣṭādupacārastasya yenopamimīte ‖*) (Si. 1-4)**NOTE**
+### Printed p. 771
+This he has said. The particle न (*na*) has two kinds of meaning and use. In the language of ordinary usage the word is used only in the sense of prohibition or negation, that is, "not". But in the Chandas, that is, in Vedic sentences, the word न (*na*) is used both in the sense of negation and in the sense of comparison. How? In the sentence नेंद्रं देवममंसत (*neṃdraṃ devamamaṃsata*) "they did not regard Indra as a god", the word न (*na*) is used in the sense of negation (in the sense of "not"). In such a context the word न (*na*) is used before the word that is to be negated. In the example above, since it is Indra that is negated, the word न (*na*) is used before the word Indra, as नेंद्रं (*neṃdraṃ*). Next, in the sentence दुर्मदासो न सुरायां (*durmadāso na surāyāṃ*) "like those who, having drunk liquor in excess, are intoxicated", the word न (*na*) has the meaning "like" and is used in the sense of comparison. In this context the word न (*na*) is placed after the word that denotes the standard of comparison, as in दुर्मदासो न (*durmadāso na*).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वा॑ इ॒वेद॑रु॒षासः॒ सबं॑धवः॒ शूरा॑इव प्र॒युधः॒ प्रोत  ॑
+> युयुधुः ।  
+> मर्या॑ इव सु॒वृधो॑ वावृधु॒र्नरः॒ सूर्य॑स्य॒ चक्षुः॒ प्र मि॑नंति  ॒॑
+> वृष्टिभिः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वाःऽइव । इत् । अरुषासः । सबंधवः । शूराःऽइव । प्रयुधः । प्र । उत ।  
+> युयुधुः ।  
+> मर्याः इव । सुवृधः । ववृधुः । नरः । सूर्यस्य । चक्षुः । प्र । मिनंति ।  
+> वृष्टिभिः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 765. Sukta 58 Rk 8; Sukta 59 Rks 1-2
+**Progress note:** Done through printed p. 771. Sukta 59 Rk 3-5 (Marut hymn), pp. 766-771
