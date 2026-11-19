@@ -29390,6 +29390,144 @@ How?
 
 मरुत्सु तु प्रयातेषु श्वावाश्वः सुमहायशाः । प्रादुर्भूतार्षमात्मानं ज्ञात्वा त्रिकुलनंदनः ॥ रथवीतेर्दुहितरमगच्छन्मना तदा । स सत्यमृषिमात्मानं प्रवक्ष्यनथवीतये ॥ एतं मे स्तोममित्याभ्यां दौत्ये रात्रिं न्यवेदयत् । ऋषेर्नियोगमाज्ञाय देव्या रात्रा प्रचोदितः ॥ आदाय कन्यकां दातुमुपेयायार्चनानसं । पादौ तस्योपसंगृह्य स्थित्वा प्रह्वः कृतांजलिः ॥ रथवीतिरहं दार्भ्य इति नाम शशंस सः । मया संयोगमिच्छंतं त्वां प्रत्याचक्षि यत्पुरा ॥ तत्क्षमस्व नमस्तेऽस्तु मे मा स्म भगवन् क्रुद्धः । यषेः पुत्रः स्वयमृषिः पितासि भगवानृषेः । हंत प्रतिगृहाणेमां स्नुषामित्येनमब्रवीत् ॥ तस्मै ददावश्वशतं स राजा स्वलंकृतां चापि सुतां स्नुषार्थं । विवाहकालेऽपि ददौ नरेंद : शतं हयानां दुहितुः सहस्रं ॥ (*marutsu tu prayāteṣu śvāvāśvaḥ sumahāyaśāḥ | prādurbhūtārṣamātmānaṃ jñātvā trikulanaṃdanaḥ ‖ rathavīterduhitaramagacchanmanā tadā | sa satyamṛṣimātmānaṃ pravakṣyanathavītaye ‖ etaṃ me stomamityābhyāṃ dautye rātriṃ nyavedayat | ṛṣerniyogamājñāya devyā rātrā pracoditaḥ ‖ ādāya kanyakāṃ dātumupeyāyārcanānasaṃ | pādau tasyopasaṃgṛhya sthitvā prahvaḥ kṛtāṃjaliḥ ‖ rathavītirahaṃ dārbhya iti nāma śaśaṃsa saḥ | mayā saṃyogamicchaṃtaṃ tvāṃ pratyācakṣi yatpurā ‖ tatkṣamasva namaste 'stu me mā sma bhagavan kruddhaḥ | yaṣeḥ putraḥ svayamṛṣiḥ pitāsi bhagavānṛṣeḥ | haṃta pratigṛhāṇemāṃ snuṣāmityenamabravīt ‖ tasmai dadāvaśvaśataṃ sa rājā svalaṃkṛtāṃ cāpi sutāṃ snuṣārthaṃ | vivāhakāle 'pi dadau nareṃda : śataṃ hayānāṃ duhituḥ sahasraṃ ‖*)
 
+### Printed p. 823
+
+गवां सहस्रं वसु च प्रभूतं तप्तुं तपोऽन्तेऽथ वनं जगाम ॥ (*gavāṃ sahasraṃ vasu ca prabhūtaṃ taptuṃ tapo 'nte 'tha vanaṃ jagāma ‖*) Thus (it is said).
+
+Śaunaka Maharṣi has narrated in this way the account of how Śyāvāśva, son of the seer Arcanānas, who had attained the rank of a seer by praising the Marut deities, married the daughter of King Rathavīti. After Śyāvāśva had praised the Maruts with eleven sūktas, as said before, they favoured Śyāvāśva and departed to their own place. Then Śyāvāśva, knowing that he had become a seer and that three families had been sanctified through him, was delighted, and kept thinking in his mind of the daughter of King Rathavīti whom he had earlier desired. Thereupon the seer Śyāvāśva thought of sending the goddess Night as messenger to King Rathavīti, and prayed to the goddess Night that she should let that king know that he had now truly attained the rank of a seer through the grace of the Maruts. This matter is set forth in two Ṛks beginning with एतं मे स्तोमं (*etaṃ me stomaṃ*) (the 17th and 18th Ṛks of this sūkta). When the goddess Night consented to the seer Śyāvāśva's word and conveyed his errand to King Rathavīti, the king took his daughter with him and came to the presence of the seer Arcanānas, the father of Śyāvāśva. Holding his feet and bowing, with folded hands and in a humble manner, he said: "O seer Arcanānas, I am the king named Rathavīti, of the Dārbha line. Behold, I now bow to you. Formerly, that is, at the time of the sacrifice I performed, when you wished to build a bond with my house and asked that my daughter be given to your son, I refused your word, saying that it was not possible. Forgive that now; do not be angry with me. Behold, I bow to you again. You are a seer's son born in a line of seers, that is, your father too is a seer and you too are a seer, and you are the father of the (newly made) seer Śyāvāśva, that is, your son too is a seer. Therefore forgive the fault I committed formerly, and accept this my daughter as your daughter-in-law." Having prayed thus, he gave that seer a hundred horses and appeased him, and gave his daughter, adorned with divine ornaments, to that seer to be accepted as a daughter-in-law; that is, he gave his daughter in marriage to Śyāvāśva, the son of the seer Arcanānas. At the time of the wedding too, the king gave his daughter, as a gift, horses and cows by the hundred; along with these he gave much wealth and the like. Thereafter that king, having fulfilled his purpose, went to the forest to practise austerity. Śaunaka Maharṣi's description of this account is mentioned here.
+
+ऊर्मॆ मे एतं स्तोमं परा दार्भ्याय वह-हे रात्रि देवि मरुद्भः कृतं स्तोत्रमहं मंत्रदृत् भूत्वा मरुतः स्तुतवानित्येवं दार्भ्यायाभिमुखी, (*ūrmè me etaṃ stomaṃ parā dārbhyāya vaha-he rātri devi marudbhaḥ kṛtaṃ stotramahaṃ maṃtradṛt bhūtvā marutaḥ stutavānityevaṃ dārbhyāyābhimukhī,*)
+
+### Printed p. 824
+
+श्यावाश्वय पराज्मुखी सती वह! (*śyāvāśvaya parājmukhī satī vaha!*) It was said earlier that the seer Śyāvāśva attained the rank of a seer by praising the Maruts. Earlier, in the conversation held at the time of the sacrifice between King Rathavīti and his father the seer Arcanānas for the sake of the marriage **NOTE**, the king said in reply to Arcanānas's request: "You ask that my daughter be given to your son Śyāvāśva. But your son is not a seer who has seen a sūkta; in our line there is no custom of giving a maiden to one who is not a seer. Therefore it is not possible to give my daughter in marriage to Śyāvāśva." Śyāvāśva, who had been brooding in his mind over what was said, now that he had become a seer, prayed to the goddess Night that she should act as messenger and help his marriage, by making this known to King Rathavīti and telling him that the obstacles and hindrances he had mentioned earlier were now removed, so that he should give his daughter. When Night consented, saying she would fulfil his request, he sent a message to King Rathavīti through that goddess in these words: "I have now praised the Maruts with sūkta mantras and, by their grace, have become a seer who has seen mantras. The obstacle you raised, that a maiden cannot be given to one who is not a seer, has now been removed. Therefore give your daughter in marriage to me." Such was the errand he sent through the goddess Night. While sending it thus, it is described here that he said to Night, the messenger: "Set out facing Dārbhya Rathavīti and make my word known." The goddess Night, when leaving Śyāvāśva, was to go turned away from him, that is, leaving him behind with her back to him, and when going to Dārbhya, to go facing him (in front of him); so Śyāvāśva has instructed.
+
+गिरो देवि रथीरिव-हे रात्रि देवि मरुद्विषयाः स्तुतीः रथीरिव परा वह । (*giro devi rathīriva-he rātri devi marudviṣayāḥ stutīḥ rathīriva parā vaha |*) रथी यथाभिप्रेतं,वसु स्थापयित्वाभिमतं देशं प्रापयति तद्वत्। (*rathī yathābhipretaṃ,vasu sthāpayitvābhimataṃ deśaṃ prāpayati tadvat|*) O goddess Night, just as one who travels seated in a chariot loads the things he needs and goes to the place he wishes, so take the praises I have made concerning the Maruts to the king Dārbhya Rathavīti and make them known to him. Thus the seer has described the messenger Night as comparable to the chariot-rider, and the praises addressed to the Maruts as comparable to the goods carried in the chariot.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त मे॑ वोचता॒दिति॑ सु॒तसो॑मे॒ रथ॑वीतौ ।  
+> न कामो॒ अप॑ वेति मे ॥ १८ ॥
+
+### Printed p. 825
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । मे । वोचतात् । इति । सुतसोमे । रथवीत् ।  
+> न । कामः । अप । वेति । मे ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऊर्मे उतापि च मे मां वोचतात् । ब्रूहि । किमित्युच्यते ।
+> इतीत्थं । कथमिति । सुतसोमे कृतसोमयागे रथवीत् राज्जि मे कामस्तत्पूत्रीविषयो नाप वेति । नापगच्छति । न विरमत इतीत्थं वोचतात् ॥
+
+##### Gist of the bhāṣya
+
+"O Ūrmyā (Night), speak also on my behalf. What is said? Thus: in Rathavīti, who has performed the Soma sacrifice, my desire concerning his daughter does not depart, does not cease." Thus say.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and (O goddess Night)
+- मे (*me*)—my
+- कामः (*kāmaḥ*)—the love that is in Rathavīti's daughter
+- न अप वेति (*na apa veti*)—is not in the least tarnished
+- इति (*iti*)—thus
+- सुतसोमे (*sutasome*)—who has performed the Soma sacrifice
+- रथवीत् (*rathavīt*)—concerning Rathavīti
+- मे (*me*)—(in his daughter) my love
+- वोचतात् (*vocatāt*)—explain and make known
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Night, make known to Rathavīti, who has performed the Soma sacrifice, explaining to him that my love for his daughter is not in the least tarnished.
+
+##### English translation
+And say on my behalf to Rathaviti, when the libation is poured out
+my love (for your daughter) does not depart.
+
+##### विशेषविषयगळु (Special Topics)
+
+Śyāvāśva, who seeks the daughter of King Rathavīti in marriage, asks that it be made known that the affection he formerly had for that maiden, with whom he was infatuated, has not diminished in the least, and that even now his love for her is exceedingly great.
+
+### Printed p. 826
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष क्षे॑ति॒ रथ॑वीतिर्म॒घवा॒ गोम॑ती॒रनु॑ ।  
+> पर्व॑ते॒श्वप॑श्रितः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । क्षेति । रथवीतिः । मघवा । गोमतीः । अनु ।  
+> पर्वतेषु । अपश्रितः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कन्यां दत्वा कृतार्थं तं श्यावाश्वोऽथ वनं गतं । रथवीतिं तपस्यंतं
+> संप्रेक्ष्यर्षेण चक्षुषा । रम्ये हिमवतः पृष्ठ एष क्षेतीति सोऽब्रवीत् ॥ एष
+> रथवीतिर्मघवा धनवान् गोमतीरनूदकवतीर्नदीरनु अनुसृत्य नदीनां
+> तीरे क्षेति निवसति पर्वतेषु हिमवत्पर्वतप्रांतेश्वपश्रित आश्रितः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa cites a verse: Śyāvāśva, having given his daughter and so fulfilled his purpose, then went to the forest; seeing Rathavīti practising austerity, with the seer's eye, in the lovely back (ridge) of the Himavat, he said that he dwells here. He then explains the Ṛk: this Rathavīti is मघवा (*maghavā*), that is, wealthy; गोमतीरनु (*gomatīranu*) means following the rivers that have water, he dwells on the banks of the rivers; पर्वतेषु (*parvateṣu*) means on the border regions of the Himavat mountain, he has taken shelter, that is, rests.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—the wealthy
+- एषः रथवीतिः (*eṣaḥ rathavītiḥ*)—that very Rathavīti
+- गोमतीरनु (*gomatīranu*)—on the bank of the river Gomatī
+- क्षेति (*kṣeti*)—is dwelling
+- पर्वतेषु (*parvateṣu*)—in the border region of the Himavat mountain
+- अपश्रितः (*apaśritaḥ*)—has taken refuge
+
+##### भावार्थ (Bhāvārtha)
+
+The wealthy Rathavīti is dwelling on the bank of the river Gomatī. He has taken refuge in the border region of the Himavat mountain.
+
+##### English translation
+This opulent Rathaviti dwells upon the (banks of the) Gomati (river) and has his home on (the skirts of) the (Himalaya) mountains.
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator has stated a verse here concerning this Ṛk. Its explanation is as follows.
+
+### Printed p. 827
+
+कन्यां दत्वा कृतार्थं तं श्यानाश्वोऽथ वनं गतं । रथवीतिं तपस्यंतं संप्रेक्ष्यार्षण चक्षुषा ॥ (*kanyāṃ datvā kṛtārthaṃ taṃ śyānāśvo 'tha vanaṃ gataṃ | rathavītiṃ tapasyaṃtaṃ saṃprekṣyārṣaṇa cakṣuṣā ‖*) **NOTE**
+
+King Rathavīti, having given his daughter in marriage to the seer Śyāvāśva and thinking himself blessed, went to a penance-grove to practise austerity. That King Rathavīti had gone to the penance-grove and was practising austerity there, the seer Śyāvāśva knew by his austerity-vision, or by the far-seeing vision natural to a seer, which can know past, future and present; and he spoke the sentence stated in this Ṛk, that King Rathavīti dwells (practising austerity) on the skirts of the Himavat mountain, on the bank of the river named Gomatī.
+
+गोमतीः-गोमतीरनूदकवतीर्नदीः । (*gomatīḥ-gomatīranūdakavatīrnadīḥ |*) Here the plural form गोमतीः (*gomatīḥ*) is used. It means a river with abundant water. Or else it is more fitting to say that it is a river by the name of Gomatī. Concerning this river the Western scholar Wilson has said this: "गोमतीः (*gomatīḥ*) according to the comment, means, having water, rivers, being in the plural; as the name of a river it would be the Gomati river in Oudh (Ayodhya) which rises in the skirts of the first range of the Himalayas; or it may be a river of the same appellation more to the north-west, rising in Kulu, a feeder of the Beyas or Vyasa (the Beas river)".
+
+## Sūkta 62 (Maṇḍala 5)
+
+**Introduction**
+
+In all the eleven sūktas from the 6th **NOTE** sūkta up to the 2nd, Mitra and Varuṇa are praised. A brief account of these deities is given here. The association of Mitra and Varuṇa is well known. Often both are praised together. Often there is a separate hymn addressed to Varuṇa alone. But it is rare for Mitra to be praised without Varuṇa. If it is true, as the commentator explains, that Mitra is the presiding deity of the day and Varuṇa the presiding deity of the night, then the association of the two is natural. In writing his commentary on the mantra 1-89-3, Sāyaṇa says अहरभिमानिनं देवं (*aharabhimāninaṃ devaṃ*)
+
+### Printed p. 828
+
+मित्रं वा अहरिति श्रुतेः” (*mitraṃ vā ahariti śruteḥ”*) and, because there is a Vedic sentence showing the identity that Mitra is the day, he has stated that Mitra is the presiding deity of the day and that Varuṇa is renowned as the presiding deity of the night. The word Varuṇa is formed from the root meaning "to cover". This deity binds the wicked with his noose, and night belongs to Varuṇa. वृणोति पापकृतः स्वकीयैः पाशैरावृणोतीति रात्र्यभिमानिदेवो वरुणः। श्रूयते च-वारुणी रात्रिः । (*vṛṇoti pāpakṛtaḥ svakīyaiḥ pāśairāvṛṇotīti rātryabhimānidevo varuṇaḥ| śrūyate ca-vāruṇī rātriḥ |*) (Tai. Brā. 1-7-10-1)
+
+In explaining the meaning of the mantra 1-141-9 too, he gives these same derivations and also states that Aryaman is the one who stands between these two deities: अर्यमा उभयोर्मध्यवर्ति देवः (*aryamā ubhayormadhyavarti devaḥ*). In the explanation of the mantra 1-90-1 he indicates (अर्यमा अहोरात्रविभागस्य कर्ता सूर्यः (*aryamā ahorātravibhāgasya kartā sūryaḥ*)) that the name Aryaman belongs to the Sun, who makes the division of day and night. Again, in the commentary on the mantra 2.38-8 the nature of Varuṇa is described in this way.
+
+योनिं स्थानं निमिषि निमेषे सवितुरस्तमये सति विश्रमार्थं प्राणिभ्यः प्रयच्छति । वरुणस्य रात्रेर्निर्वाहकत्वात् । (*yoniṃ sthānaṃ nimiṣi nimeṣe saviturastamaye sati viśramārthaṃ prāṇibhyaḥ prayacchati | varuṇasya rātrernirvāhakatvāt |*)
+
+Varuṇa is the one who, after sunset, provides creatures with a place of rest. He is the manager of all the affairs of the night.
+
+In 1-35-1 there is an invocation of Mitra and Varuṇa along with the deities Agni, Savitṛ and Night: "For the accomplishment of our welfare I call upon Agni with prayer. For our help I call Mitra and Varuṇa. I call Night, the giver of rest to the world." Thus they are praised together with the other deities. In some places it is also stated that the Sun is what the word Mitra denotes (मित्रशब्दस्य सूरवाचित्वात् (*mitraśabdasya sūravācitvāt*), Tai. Saṃ. Bhā. 1-8-16-1 **NOTE**). In the same context, giving the derivation of the word Varuṇa as well, he says वरुणशब्दस्य अंधकारवदावर्तकवाचित्वात् । (*varuṇaśabdasya aṃdhakāravadāvartakavācitvāt |*) and explains that, because he has a nature that pervades everywhere like darkness, Varuṇa has this renowned name. He has also said: मैत्रं नां अहः । वारुणी रात्रिः ॥ (*maitraṃ nāṃ ahaḥ | vāruṇī rātriḥ ‖*) (Tai. Brā. 1-7-10 1)
+
+न ना इदं दिवा न नक्तमासीदव्याकृतं ते देवा मित्रावरुणावब्रुवन्निदं नो विवासयतमिति । (*na nā idaṃ divā na naktamāsīdavyākṛtaṃ te devā mitrāvaruṇāvabruvannidaṃ no vivāsayatamiti |*) (Tai. Saṃ. 6-4-8-3)
+
+मित्रो अहरजनयद्वरुणो रात्रिं ॥ (*mitro aharajanayadvaruṇo rātriṃ ‖*) (Tai. Saṃ. 6-4.8 3)
+
+Formerly, in the world, there was no division called day and night. Everything was unmanifest. Then the deities addressed Mitra and Varuṇa, saying "Make for us the division of day and night"; and when they had asked thus,
+
 ---
 
-**Progress note:** Done through printed p. 822. Ṛk 14-17 of Sūkta 61, pp. 817-822
+**Progress note:** Done through printed p. 828. Sūkta 61 Ṛk 17 end, Ṛk 18, 19; Sūkta 62 introduction (Mitra-Varuṇa)
