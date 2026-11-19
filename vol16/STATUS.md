@@ -70,3 +70,5 @@ Hand changes to accented text (MANUAL rows in the cumulative accent report): 24 
 
 ## Pointers
 `vol16/AGENT_BRIEF.md`, `vol16/html/HEAD_FIXES.md`, `vol16/parts/batch_costs.md`, `vol16/review/accent_report_cumulative.tsv`, `vol16/review/doubts.tsv`, the last lines of the English file.
+
+- **Nov 18 2026, glosses (T12):** 9 more labelled glosses replaced by the marker `**GLOSS**` (9 markers in the volume now; removed text in `review/glosses_removed.tsv`, 2 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).

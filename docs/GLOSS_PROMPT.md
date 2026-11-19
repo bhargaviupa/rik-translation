@@ -15,6 +15,10 @@ You continue the work on the **glosses of quoted passages** in the Rigveda trans
 - **Unlabelled glosses** are the larger part and cannot be found by pattern: in Vols 9–18 almost no quoted Ṛk has a labelled gloss (Ṛk references with a labelled gloss or marker beside them / all Ṛk references: Vol 9 15/561, 10 2/466, 11 0/679, 12 0/360, 14 2/605, 15 1/440, 16 5/206, 17 0/491, 18 0/335); the gloss is woven into the prose ("It says: …") or there is none.
 - Vol 2 was cleaned up by another session on Nov 17–18 (remarks removed, verses from the reference); its "mine and tentative" labels were removed and the glosses kept, so in Vol 2 the remaining glosses are now unlabelled. Vol 19 is in translation in another session: do not touch it. Before changing a volume, check that no other session is working on it (`git fetch`; recent commits on that volume; ask the user if unsure).
 
+## Done on Nov 18 2026 (second session)
+- Step 1 done for Vols 3–8, 10, 14, 16 (277 more; counts in `PUBLICATION_TODO.md` T12). `gloss_marker.py` has the further forms and `--list FILE.tsv` (vol, line, exact text[, replacement]) for single lines and for step 2. Left: labels that stand *after* a long quoted passage (Vols 1, 4, 5, 6: the gloss must be delimited by reading), Vol 2 (18 would match; ask whether its session is finished).
+- Step 2 trial done on Vol 12 (30 places; result in T12). **Do not continue step 2, 3 or 4 before the user has answered the four questions in T12.**
+
 ## Start
 `git fetch origin main && git merge origin/main` on the branch this session was given; `pip install indic-transliteration rapidfuzz openpyxl`; `python3 tools/rv/crossrefs.py` and `python3 tools/rv/gloss_marker.py $(seq 1 18)` (report only) for today's counts. Never force-push; no pull request; push to `main` only when the user says so.
 

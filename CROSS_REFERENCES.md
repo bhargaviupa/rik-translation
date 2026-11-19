@@ -11,8 +11,8 @@
 |---|---|---|---|---|---|
 | 1 | 73 | 20 | 223 | 316 | 0 |
 | 2 | 585 | 6049 | 478 | 7112 | 289 |
-| 3 | 144 | 2973 | 458 | 3575 | 39 |
-| 4 | 294 | 2157 | 397 | 2848 | 98 |
+| 3 | 144 | 2973 | 458 | 3575 | 44 |
+| 4 | 294 | 2157 | 397 | 2848 | 105 |
 | 5 | 95 | 1450 | 1155 | 2700 | 83 |
 | 6 | 197 | 1039 | 552 | 1788 | 121 |
 | 7 | 196 | 1452 | 594 | 2242 | 123 |
@@ -27,6 +27,9 @@
 | 16 | 230 | 1338 | 683 | 2251 | 7 |
 | 17 | 508 | 40 | 992 | 1540 | 1 |
 | 18 | 340 | 3 | 654 | 997 | 0 |
-| **all** | 5969 | 23904 | 10816 | 40689 | 895 |
+| 19 | 296 | 5 | 499 | 800 | 2 |
+| 20 | 272 | 3 | 541 | 816 | 101 |
+| 21 | 90 | 2 | 556 | 648 | 102 |
+| **all** | 6627 | 23914 | 12412 | 42953 | 1112 |
 
 **Limits.** A reference is found only where a work's abbreviation stands before a number of two or more parts; a quotation without a number, a reference written in words ("the next Ṛk", "Rik 9 of this sūkta") and a number whose abbreviation was misread beyond recognition are not listed. The kind is decided from the abbreviation as written; misread abbreviations fall under "other". Vol 13 is not translated; Vol 19 is in translation.
