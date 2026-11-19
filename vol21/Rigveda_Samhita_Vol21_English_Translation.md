@@ -29972,6 +29972,281 @@ They propitiate the wise, the manifesting, the sustaining, the enlightener of th
 
 Agni, being foremost, utterly drove down the अयज्ञान् (*ayajñān*), those without sacrifice: the prattlers, those whose speech is injurious, those without faith in sacrifices and the like, those who do not increase Agni with praises, the lacking in sacrifice. **NOTE** The same he states: Agni, being foremost, made the non-sacrificers inferior (अपरान् (*aparān*)).
 
+### Printed p. 709
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अक्रतून् (*akratūn*)—those without rites
+- ग्रथिनः (*grathinaḥ*)—those whose speech is vain
+- मृध्रवाचः (*mṛdhravācaḥ*)—those whose speech is injurious
+- पणीन् (*paṇīn*)—those named Paṇi
+- अश्रद्धान् (*aśraddhān*)—those without devotion to the gods
+- अवृधान् (*avṛdhān*)—those who do not increase Agni by praise and the like
+- आयज्ञान् (*āyajñān*)—those without sacrifice, being such
+- तान् दस्यून् (*tān dasyūn*)—those same Dasyus
+- अग्निः (*agniḥ*)—Agni
+- प्रप्र (*prapra*)—exceedingly
+- नि विवाय (*ni vivāya*)—bewilders
+- पूर्वः (*pūrvaḥ*)—Agni, the chief lord
+- आयज्यून् (*āyajyūn*)—those who are not sacrificers
+- अपरान् (*aparān*)—as inferior ones
+- चकार (*cakāra*)—made
+
+##### भावार्थ (Bhāvārtha)
+
+Agni exceedingly bewilders those same Dasyu people, who are without rites, whose speech is vain, whose speech is injurious, who are named Paṇi, who are without devotion to the gods, who do not increase Agni by praise and the like, and who are without sacrifice. Agni, the chief lord, made those who are not sacrificers inferior.
+
+##### English translation
+May Agni, utterly confound those Dasyus who perform no (sacred) rites, who are babblers defective in speech, niggards, unbelievers, not honouring (Agni), offering no sacrifices: Agni preceding, has degraded those who institute no sacred ceremonies.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॑पा॒चीने॒ तम॑सि॒ मदं॑तीः॒ प्राची॑श्च॒कार॒ नृत॑मः॒ शची॑भिः।  
+> तमीशा॑नं॒ वस्वो॑ अ॒ग्निं गृ॑णी॒षेऽना॑नतं द॒मयं॑तं पृत॒न्यून् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अपाचीने । तमसि । मदंतीः । प्राचीः । चकार । नृतमः । शचीभिः ।  
+> तं । ईशानं । वस्वः । अग्निं । गृणीषे । अनानतं । दमयंतं । पृतन्यून् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृतमो नेतृतमो योग्निरपाचीनेऽप्रकाशमाने तमसि निमग्नाः प्रजा
+> मदंतीः स्तुवंतीः कचीभिस्ताभ्यो दत्ताभिः प्रज्ञाभिः प्राचीर्यजुगामिनीश्चकार ।
+
+##### Gist of the bhāṣya
+
+Agni, the most excellent leader, made the people sunk in unlit darkness, who were praising him, go straight (प्राचीः (*prācīḥ*) is glossed *yajur-gāminī* **NOTE**), by means of the wisdom given to them.
+
+### Printed p. 710
+
+> यद्वा । नेतृतमो योग्निरपाचीने तमसि निशायां मदंतीर्माद्यंतीरुषसः
+> शचीभिः प्रज्ञाभिः प्राचीश्चकारेत्यर्थः । तं वस्वो धनस्येशानमनानतमप्रह्वं
+> पृतन्यून् युद्धकामांश्च दमयंतमग्निं गृणीषे । स्वामि ॥
+
+##### Gist of the bhāṣya
+
+Or else: Agni, the most excellent leader, in the lower darkness, that is, in the night, made the rejoicing dawns face the east by his wisdom. I praise that Agni, lord of wealth, unbowed, and the subduer of those who wish for battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृतमः (*nṛtamaḥ*)—the most excellent leader
+- यः (*yaḥ*)—which Agni
+- अपाचीने (*apācīne*)—lacking light
+- तमसि (*tamasi*)—the people sunk in pitch darkness
+- मदंतीः (*madaṃtīḥ*)—when they were praising
+- शचीभिः (*śacībhiḥ*)—by wisdom
+- प्राचीः (*prācīḥ*)—them, to be straight walkers
+- चकार (*cakāra*)—made
+- तं (*taṃ*)—such
+- वस्वः (*vasvaḥ*)—to wealth
+- ईशानं (*īśānaṃ*)—the lord
+- अनानतं (*anānataṃ*)—who bows to none
+- पृतन्यून् (*pṛtanyūn*)—the enemies who desire battle
+- दमयंतं (*damayaṃtaṃ*)—and who crushes
+- अग्निं (*agniṃ*)—Agni
+- गृणीषे (*gṛṇīṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise Agni, the most excellent leader, who made the people sunk in unlit pitch darkness, when they praised him, walk straight by the gift of wisdom; the lord of wealth, who bows to none, who crushes the enemies who desire battle.
+
+##### English translation
+The chief of leaders has, by the benefits (bestowed upon them), guided those praising (him) through the accumulated gloom (of night): I glorify that Agni, the unbending lord of wealth, the tamer of adversaries.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो दे॒ह्यो॒३॒॑ ३ अन॑मयद्वध॒स्नैर्यो अ॒र्यप॑त्नीरु॒षस॑श्च॒कार॑ ।  
+> स नि॒रुध्या॒ नहु॑षो य॒हू अ॒ग्निर्विश॑श्चक्रे बलि॒हृतः॒ सहो॑भिः ॥ ५ ॥
+
+### Printed p. 711
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । देह्यः । अनमयत् । वध्न्यैः । यः । आर्यपत्निः । उषसः । चकार ।  
+> सः । निरुध्य । नहुषः । यह्वः । अग्निः । विशः । चक्रे । बलिहृतः । सहभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्देह्यो देहीरुपचिता आसुरीर्विद्या वधस्नैर्वधैरायुधैर्वानमयन् हीना अकरोत् । यश्चार्यपत्निः । आर्यः सूर्यः पतिर्यासां ता
+> आर्यपत्नः । ता उषसश्चकार अकरोत् स यहो महानग्निर्विशः प्रजाः
+> सहोभिर्बलैनिरुध्य नहुषो राज्यो बलिहृतः करप्रदाश्चक्रे ॥
+
+##### Gist of the bhāṣya
+
+The Agni who made the embodied, grown demonic powers (देह्यः (*dehyaḥ*) is glossed as the grown demonic wisdoms) deficient, with weapons, that is, with blows or arms; and the Agni who made the dawns of which the sun is the husband (the ārya is the sun, he is their husband): that great Agni, restraining the subjects with his strengths, made them tribute-payers, tribute-bringers, to Nahuṣa the king.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- देह्यः (*dehyaḥ*)—the mighty demonic powers
+- वधस्नैः (*vadhasnaiḥ*)—with weapons that accomplish slaying
+- आनमयत् (*ānamayat*)—made powerless
+- यः (*yaḥ*)—which Agni
+- उषसः (*uṣasaḥ*)—the goddesses of dawn
+- अरपत्नीः (*arapatnīḥ*)—to be the wives of the sun
+- चकार (*cakāra*)—made
+- सः (*saḥ*)—such
+- यह्वः (*yahvaḥ*)—of great nature
+- अग्निः (*agniḥ*)—Agni
+- विशः (*viśaḥ*)—the (wicked) subjects
+- सहोभिः (*sahobhiḥ*)—by his powers
+- निरुध्य (*nirudhya*)—restraining
+- नहुषः (*nahuṣaḥ*)—to the king named Nahuṣa
+- बलहृतः (*balahṛtaḥ*)—to give tribute and presents
+- चक्रे (*cakre*)—made
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who made the mighty demonic powers powerless with weapons that accomplish slaying, and who made the goddesses of dawn the wives of the sun: that Agni, of great nature, restraining the wicked subjects with his powers, made them give tribute and presents to the king named Nahuṣa.
+
+##### English translation
+The mighty Agni, who by his fatal (weapons) has baffled the devices (of the Asuras), who has created the dawns, the brides of the sun, having coerced the people by his strength, has made them the tributaries of Nahusha.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ शर्म॒न्नुप॒ विश्वे॒ जना॑स॒ एवै॑स्त॒स्थुः सु॑म॒तिं भिक्ष॑माणाः ।  
+> वै॒श्वा॒न॒रो वर॒मा रोद॑स्यो॒राग्निः स॑साद पि॒त्रोरु॒पस्थं॑ ॥६॥
+
+### Printed p. 712
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । शर्मन् । उप । विश्वे । जनासः । एवैः । तस्थुः । सुमतिं । भिक्षमाणाः ।  
+> वैश्वानरः । वरं । आ । रोदस्कोः । आ । अग्निः । ससाद । पित्रोः । उपस्थं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वे सर्वे जनासो जनाः शर्मन् शर्मणि सुखनिमित्तं यस्य वैश्वानरस्य
+> सुमतिं भिक्षमाणाः प्रार्थमाना एवैः कर्मभिर्हविर्भिवोर्वप तस्थुः यमेवोपतिष्ठंते स वैश्वानरो विश्वनरहितोऽग्निः सूर्यः सन् पित्रोर्मातापित्रो रोदस्कोर्द्यावापृथिव्योर्वरमुत्कृष्टमुपस्थं मध्यमंतरिक्षमा ससाद । आगच्छत् ॥
+
+##### Gist of the bhāṣya
+
+All people, begging for the favour of Vaiśvānara, for the sake of happiness, stand near him with their rites (**NOTE**). That Vaiśvānara, the Agni beneficial to all men, being the sun, has come to the excellent middle place, the atmosphere, of his parents, heaven and earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे (*viśve*)—all
+- जनासः (*janāsaḥ*)—people
+- शर्मन् (*śarman*)—for the sake of happiness
+- यस्य (*yasya*)—of which Agni
+- सुमतिं (*sumatiṃ*)—the favour-bestowing mind
+- भिक्षमाणाः (*bhikṣamāṇāḥ*)—begging
+- एवैः (*evaiḥ*)—by their own rites
+- उप तस्थुः (*upa tasthuḥ*)—approach
+- सः (*saḥ*) वैश्वानरः (*vaiśvānaraḥ*)—that same Vaiśvānara
+- अग्निः (*agniḥ*)—Agni
+- पित्रोः (*pitroḥ*)—the parents
+- रोदस्योः (*rodasyoḥ*)—heaven and earth
+- वरं (*varaṃ*)—the most excellent
+- उपस्थं (*upasthaṃ*)—and middle region, the atmosphere
+- आ ससाद (*ā sasāda*)—has taken refuge in (in the form of the sun)
+
+##### भावार्थ (Bhāvārtha)
+
+All people, for the sake of happiness, begging the favour-bestowing mind of Agni, approach him with their rites; that same Vaiśvānara Agni, in the form of the sun, has taken refuge in the most excellent, middle region, the atmosphere, of his parents, heaven and earth (has adorned it).
+
+##### English translation
+Agni, Vaiswanara, whom all men approach with pious offerings, soliciting his favour for the sake of (obtaining felicity), has come to the excellent station (intermediate) between his parents, heaven and earth.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दे॒वो द॑दे बु॒ध्न्या॒३॒॑ति वसू॑नि वैश्वान॒र उदि॑ता॒ सूर्य॑स्य ।  
+> आ स॑मु॒द्रादव॑रा॒दा पर॑स्मा॒दाग्निर्द॑दे दि॒व आ पृ॑थि॒व्याः ॥ ७ ॥
+
+### Printed p. 713
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । देवः । ददे । बुध्ना । वसूनि । वैश्वानरः । उर्त् इता । सूर्यस्य ।  
+> आ । समुद्रात् । अवरात् । आ । परस्मात् । आ । अग्निः । ददे । दिवः । आ । पृथिव्याः ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वानरो विश्वनरहितोऽग्निर्देवो द्योतमानो बुध्ना बुध्न्यान्यांतरिक्षाणि । बुध्ममंतरिक्षं । तथा च यास्कः । बुध्ममंतरिक्षं बद्धा अस्मिन्कृता आप इति
+> वा । नि. १०-४४ । इति । वसून्याच्छादकानि तमांसि ॥ वस आच्छादन इति धातुः ॥
+> सूर्यस्योदितोदितावुदये सत्या ददे । समुद्रादंतरिक्षात् । सगरं समुद्र
+> इत्यंतरिक्षनामसु पाठात् । अवरात्पृथिव्यास्तमांस्या ददे । समुद्रात्परस्माद्विपोऽपि
+> तमांस्या ददे । तदेव दर्शयति । अग्निर्दिवस्तमांस्या ददे पृथिव्याश्च तमांस्या
+> ददे ॥
+
+##### Gist of the bhāṣya
+
+Vaiśvānara, the Agni beneficial to all men, the shining god, takes (ददे (*dade*)) the budhnya regions, those of the atmosphere; budhma is the atmosphere, and so Yāska says: बुध्ममंतरिक्षं बद्धा अस्मिन्कृता आप इति वा । (*budhmamaṃtarikṣaṃ baddhā asminkṛtā āpa iti vā |*) (Ni. 10-44) **GLOSS** The वसूनि (*vasūni*) are the covering darknesses. At the rising of the sun he takes them away. He takes darkness from the samudra, that is, the atmosphere, since samudra is read among the names of the atmosphere; from the lower earth he takes darkness; from the farther one also he takes darkness **NOTE**. He points to this: Agni takes the darkness from heaven and takes the darkness from the earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the shining
+- वैश्वानरः (*vaiśvānaraḥ*)—Vaiśvānara Agni
+- बुध्ना (*budhnā*)—the atmosphere
+- वसूनि (*vasūni*)—the darknesses that covered
+- सूर्यस्य (*sūryasya*)—of the sun
+- उदिता (*uditā*)—as soon as the rising had taken place
+- आ ददे (*ā dade*)—drove away
+- समुद्रात् (*samudrāt*)—from the atmosphere
+- अवरात् (*avarāt*)—from the earth
+- आ (*ā*)—drove away
+- परस्मात् (*parasmāt*)—from the heavenly world
+- आ (*ā*)—released
+- अग्निः (*agniḥ*)—Agni
+- दिवः (*divaḥ*)—from the heavenly world
+- आ ददे (*ā dade*)—released the darkness
+- पृथिव्याः (*pṛthivyāḥ*)—released from the earth
+
+##### भावार्थ (Bhāvārtha)
+
+The shining Vaiśvānara Agni drove away the darknesses that covered the atmosphere as soon as the sun rose. He made them vanish completely from the atmosphere, from the heavenly world and from the earth.
+
+##### English translation
+The divine Agni Vaiswanara has removed from the firmament the investing (glooms) at the rising of the sun : he has removed them from the lower firmament of the earth, from the upper firmament of heaven.
+
+### Printed p. 714
+
+## Sūkta 7 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वो देवमिति सप्तर्चं सप्तमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाग्नेयं । प्र वो देवमित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्दशसूक्त
+> उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र वो देवमिति (*pra vo devamiti*), of seven ṛks, is the seventh sūkta; it is the vision of Vasiṣṭha, in the Triṣṭubh metre, addressed to Agni. The Anukramaṇikā says: प्र वो देवमित्यनुक्रांतं (*pra vo devamityanukrāṃtaṃ*). The application has been stated: it is one of the ten sūktas for the Prātaranuvāka and the Āśvina-śastra.
+
+##### Anuvāda
+
+This sūkta, प्र वो देवं (*pra vo devaṃ*), is the seventh sūkta in the first anuvāka. In it there are seven ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: प्र वो देवं (*pra vo devaṃ*). This sūkta is included among the ten sūktas recited for the Prātaranuvāka and the Āśvina-śastra mantras, and its application was stated earlier. **NOTE**
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 7 **NOTE**
+- Aṣṭaka 5; Adhyāya 2; Varga 10
+- Number of ṛks in the sūkta: 7
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ दे॒वं चि॑त्सहसा॒नम॒ग्नि मश्वं॒ न वा॒जिनं॑ हिषे॒ नमो॑भिः ।  
+> भवा॑ नो दू॒तो अ॑ध्व॒रस्य॑ वि॒द्वान्मना॑ दे॒वेषु॑ विविदे  ॒॑
+> मितद्रुः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । देवं । चित् । सहसानं । अग्निं । अश्वं । न । वाजिनं । हिषे । नमःभिः ।  
+> भव । नः । दूतः । अध्वरस्य । विद्वान् । त्मना । देवेषु । विविदे । मितद्रुः ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 708. Vol 21 pp. 703-708: 7.5 Rk 7 end to Rk 9, 7.6 Rk 1-3
+**Progress note:** Done through printed p. 714. Vol 21 pp. 709-714: 7.6 Rk 3 end to Rk 7; 7.7 intro and Rk 1 (verse and pada)
