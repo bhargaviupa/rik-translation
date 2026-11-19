@@ -22,3 +22,4 @@
 | through p. 374 (pp. 357-362, 363-368, 369-374) | sonnet | 12 | 145951 | 3.1 |
 | through p. 392 (pp. 375-380, 381-386, 387-392) | sonnet | 17 | 172760 | 5.9 |
 | through p. 411 (pp. 393-398, 399-405, 406-411) | sonnet | n/a | pending | - |
+| through p. 434 (pp. 412-418, 419-424, 426-434) | sonnet | n/a | pending | - |
