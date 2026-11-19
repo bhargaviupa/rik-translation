@@ -27294,6 +27294,253 @@ Command not the fires kindled by the priests with which you are united to work u
 
 Sāyaṇa explains: O Agni of fair radiance, the mortal who offers oblation in you, who are immortal, not human but of divine nature, becomes wealthy. The mortal whom the wise man
 
+### Printed p. 642
+
+> प्राज्ञोऽर्थि९ धनादिकामः पृच्छमानोऽसावुदारः क्वास्त इति पृच्छन्नेति अभिगच्छति स
+> एव मनुष्यो देवता देवताभ्यो वसुवनिं धनपोषं ददाति । यद्वा । स
+> देवताग्निर्वसुवनिं यजमानं दधाति धारयति यमग्निं सूरिः स्तोतार्थी
+> प्रयोजनवान् पृच्छमानः कोऽसावग्निरिति पृच्छमान एति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: the mortal whom the wise petitioner, desiring wealth and the like, approaches, asking where that generous one is, that very man gives to the gods wealth and nourishment. Or else: that deity Agni sustains the sacrificer who is a winner of wealth, the Agni whom the wise praiser, having a purpose, approaches asking who that Agni is.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वनीक (*svanīka*)—of excellent radiance
+- आग्ने (*āgne*)—O Agni
+- आमर्त्ये (*āmartye*)—in you, who are of divine nature
+- हव्यं (*havyaṃ*)—the oblation
+- यः (*yaḥ*)—which sacrificer
+- आजुहोति (*ājuhoti*)—offers
+- सः मर्तः (*saḥ martaḥ*)—that very man
+- रेवान् (*revān*)—becomes wealthy
+- यं (*yaṃ*)—whom, which man
+- सूरिः (*sūriḥ*)—the wise
+- अर्थी (*arthī*)—the petitioner
+- पृच्छमानः (*pṛcchamānaḥ*)—asking whether it is in that generous one
+- एति (*eti*)—comes to obtain his help
+- सः (*saḥ*)—he
+- देवता (*devatā*)—to the gods
+- वसुवनिं (*vasuvaniṃ*)—abundance of wealth
+- दधाति (*dadhāti*)—holds (obtains the wealth in the form of oblation)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of excellent radiance, the sacrificer who offers oblation in you, who are of divine nature, that man becomes wealthy. The man whom the wise petitioner approaches to obtain his help, asking whether it is in that generous one, for him Agni provides wealth in the form of oblation to offer to the gods.
+
+##### English translation
+Radiant Agni, the mortal who offers oblations to the immortal becomes affluent: that deity (Agni) favours the presenter of (sacrificial) wealth, to whom the devout solicitant inquiring applies.
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हो नो॑ अग्ने सुवि॒तस्य॑ वि॒द्वान्र॒यिं सू॒रिभ्य॒ आ व॑हा  ॒॑
+> बृहंतं ।  
+> येन॑ व॒यं स॑हसाव॒न्मदे॒मावि॑क्षितास॒ आयु॑षा सु॒वीराः॑॥२४॥
+
+### Printed p. 643
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । नः । अग्ने । सुवितस्य । विद्वान् । रयिं । सूरिभ्यः। आ । वह । बृहंतं ।  
+> येन । वयं । सहसावन् । मदेम । अविक्षितासः । आयुषा । सुवीराः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मदीयस्य महो महतः सुवितस्य कल्याणस्य कर्मणो
+> विद्वान् । अस्मदीयं कल्याणं कर्म जानन्नित्यर्थः । त्वं सूरिध्यः स्तोतृभ्योस्मभ्यं
+> बृहंतं महांतं रयिं धनमा वह । रयिमेव विशिनष्टि । हे सहसावन् बलवन्नगे
+> येन धनेन वयं स्तोतारोऽविक्षितासोऽविक्षीणा आयुषा पूर्णायुषः सुवीराः
+> कल्याणपुत्रपौत्राश्च संतो मदेम हृष्येम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, you who know our great and auspicious rite, that is, who know our auspicious work, bring abundant great wealth to us, the praisers. He qualifies the wealth: O mighty Agni, by which wealth we, the praisers, unimpaired, with a full span of life, possessed of fine sons and grandsons, may rejoice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- महः (*mahaḥ*)—great
+- सुवितस्य (*suvitasya*)—the nature of the rite that is auspicious
+- विद्वान् (*vidvān*)—knowing
+- सूरिभ्यः (*sūribhyaḥ*)—to us, the praisers
+- बृहंतं (*bṛhaṃtaṃ*)—very abundant
+- रयिं (*rayiṃ*)—wealth
+- आ वह (*ā vaha*)—bear and bring
+- सहसावन् (*sahasāvan*)—O mighty Agni
+- येन (*yena*)—by which same wealth
+- वयं (*vayaṃ*)—we, the praisers
+- अविक्षितासः (*avikṣitāsaḥ*)—suffering no destruction
+- आयुषा (*āyuṣā*)—possessed of a full span of life
+- सुवीराः (*suvīrāḥ*)—and possessed of excellent sons and the like
+- मदेम (*madema*)—may we attain joy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, knowing the nature of our great and auspicious rite, bear and bring very abundant wealth to us, the praisers. O mighty Agni, by that same wealth may we, the praisers, suffering no destruction, possessed of a full span of life and of excellent sons and the like, attain joy.
+
+##### English translation
+Agni, you are cognizant of our solemn and auspicious (worship); bring to the worshippers abundant riches, whereby, mighty Agni, we, blessed with uncontracted life, and excellent male descendants, may be happy.
+### Printed p. 644
+**NOTE**
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू मे॒ ब्रह्मा॑ण्यग्न॒ उच्छ॑शाधि॒ त्वं दे॑व म॒घव॑द्भ्यः सुषूदः ।  
+> रा॒त् स्या॑मो॒भया॑स॒ आ ते॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मे । ब्रह्माणि । अग्ने । उत् । शशाधि । त्वं । देव । मघवत्भ्यः । सुसूदः ।  
+> रात् । स्याम । उभयासः । आ । ते । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मे मम मदर्थं ब्रह्माण्यन्नानि नु क्षिप्रमुच्छशाधि । उत्कर्षेण
+> शोधितानि कुरु ! किंच हे देव द्योतमानाग्ने मघवद्योऽस्मभ्यं सुषूदः ।
+> अन्नानि प्रेरय ! ते त्वदीयायां रात् दान उभयासः स्तोत्रिणः शस्त्रिणश्च
+> अथवा स्तुवंतो यजमानश्च वयमा स्याम । अत्यर्थं भवेम । नोऽस्मान्न्यूयं
+> त्वत्परिवाराश्च सर्वॆ स्वस्तिभिरविनाशिभिर्मंगलैः । तथा च यास्कः । स्वस्तीत्यविनाशनामास्तिरभिपूजितः स्वस्तिति । नि. ३-२१ । सदा पात । रक्षक ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, quickly make the foods for me thoroughly purified. Further, O shining Agni, impel foods to us who are possessed of wealth. In your gift may we, the praisers and the reciters of śastra, or the praisers and the sacrificer, be abundantly shared. May you and your attendants, all of you, always protect us with imperishable blessings. As Yāska says: स्वस्तीत्यविनाशनामास्तिरभिपूजितः स्वस्तिति (*svastītyavināśanāmāstirabhipūjitaḥ svastiti*) (Ni. 3-21) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मे (*me*)—for me
+- ब्रह्माणि (*brahmāṇi*)—foods
+- नु (*nu*)—quickly
+- उच्छशाधि (*ucchaśādhi*)—purify
+- देव (*deva*)—O shining Agni
+- मघवद्भः (*maghavadbhaḥ*)—to us who possess oblations
+- त्वं (*tvaṃ*)—you
+- सुषूदः (*suṣūdaḥ*)—supply food
+- ते (*te*)—given by you
+- रात् (*rāt*)—to the gift
+- उभयासः (*ubhayāsaḥ*)—both the praisers and the sacrificers
+- आ स्याम (*ā syāma*)—may we be worthy recipients
+- योयं (*yoyaṃ*)—all of you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, quickly purify the foods for me. O shining Agni, supply food to us who possess oblations. May both the praisers and the sacrificers become worthy recipients of the gift given by you. O Agni, may all of you always protect us with blessings.
+### Printed p. 647
+
+##### English translation
+Bestow upon me, Agni, quickly, abundant wholesome food : send sustenance, divine Agni, to those who are opuleut in oblations : may we, both (priests and employer), be 'comprehended in your munificence : ever cherish us with blessings.
+**NOTE**
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये पंचमाष्टके प्रथमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye paṃcamāṣṭake prathamo 'dhyāyaḥ samāptaḥ ‖*)
+
+ओं तत्त्वत् (*oṃ tattvat*) **GLOSS**
+
+Here ends the first Adhyāya in the fifth Aṣṭaka of the Ṛgveda-saṃhitā, together with the Bhāṣya of Śrī Sāyaṇa and with the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS**
+
+शुभं भूयात् (*śubhaṃ bhūyāt*) **GLOSS**
+
+मंगळं (*maṃgaḷaṃ*) **GLOSS**
+
+ओं (*oṃ*) **GLOSS**
+
+श्रीः (*śrīḥ*) **GLOSS**
+
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*) **GLOSS**
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ' निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat ' nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदाध्यायिया सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyiyā sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+Ṛgveda-saṃhitā with the Bhāṣya of Sāyaṇa (with the Kannada translation and explanation).
+
+पंचमाष्टके द्वितियोऽध्यायः (*paṃcamāṣṭake dvitiyo 'dhyāyaḥ*)—the second Adhyāya in the fifth Aṣṭaka.
+
+The second Sūkta in the seventh Maṇḍala.
+
+## Sūkta 2 (Maṇḍala 7)
+
+Introduction.
+
+In the Ṛgveda there are in all ten Āprī sūktas. Among them are the mantras having as their deities इध्मः (*idhmaḥ*) (समिद्भोग्निर्वा (*samidbhognirvā*)), नराशंसः (*narāśaṃsaḥ*), तनूनपात् (*tanūnapāt*), इळः (*iḷaḥ*), बर्हिः (*barhiḥ*), देवीर्द्वारः (*devīrdvāraḥ*), उषासानक्ता (*uṣāsānaktā*), दैवौ होतारौ प्रचेतसौ (*daivau hotārau pracetasau*), तिस्रोदेव्यः सरस्वतीळाभारत्यः (*tisrodevyaḥ sarasvatīḷābhāratyaḥ*), त्वष्टा (*tvaṣṭā*), वनस्पतिः (*vanaspatiḥ*) and स्वाहाकृतयः (*svāhākṛtayaḥ*). But with regard to the deities नराशंसः (*narāśaṃsaḥ*) and तनूनपात् (*tanūnapāt*), in some sūktas the single deity नराशंसः (*narāśaṃsaḥ*) is praised, in others the single deity तनूनपात् (*tanūnapāt*), and in still others both deities नराशंसः (*narāśaṃsaḥ*) and तनूनपात् (*tanūnapāt*). According to this meaning these Āprī sūktas have been divided into three kinds. Namely, the Āprī sūktas composed by the seers वसिष्ठ (*vasiṣṭha*), अत्रि (*atri*), वार्ध्वश्व (*vārdhvaśva*) and गृत्समद (*gṛtsamada*) are these:
+
+### Printed p. 648
+1. जुषस्व नः समिधमग्ने (*juṣasva naḥ samidhamagne*)—Ṛ. Saṃ. 7-2 (मैत्रावरुणिर्वसिष्ठः (*maitrāvaruṇirvasiṣṭhaḥ*))
+2. सुसमिद्धाय शोचिषे (*susamiddhāya śociṣe*)—Ṛ. Saṃ. 5-5 (वसुश्रुत आत्रेयः (*vasuśruta ātreyaḥ*))
+3. इमां मे अग्ने समिधं (*imāṃ me agne samidhaṃ*)—Ṛ. Saṃ. 10-70 (सुमित्रो वाध्यश्वः (*sumitro vādhyaśvaḥ*))
+4. समिद्धो अग्निर्निहितः (*samiddho agnirnihitaḥ*)—Ṛ. Saṃ. 2-3 (गृत्समदः (*gṛtsamadaḥ*))
+
+These four sūktas belong to one group. In them there is one Ṛk each having नराशंसः (*narāśaṃsaḥ*) as its deity. Therefore these four sūktas are named नराशंसवंति सूक्तानि (*narāśaṃsavaṃti sūktāni*), that is, the Āprī sūktas that praise the deity Narāśaṃsa alone.
+
+1. सुसमिद्धोन आ वह (*susamiddhona ā vaha*)—Ṛ. Saṃ. 1-13 (मेधातिथिः काण्वः (*medhātithiḥ kāṇvaḥ*))
+2. समिद्धो अग्न आ वह (*samiddho agna ā vaha*)—Ṛ. Saṃ. 1-142 (दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*))
+
+These two Āprī sūktas belong to the second group. In them there is one Ṛk each on behalf of both deities, Narāśaṃsa and Tanūnapāt. Therefore, since both deities are present in these Āprī sūktas, in the sūkta 1-142, leaving out Indra, there came to be twelve homas in place of the eleven Prayāja homas.
+
+1. समिद्धो आद्य राजसि (*samiddho ādya rājasi*)—Ṛ. Saṃ. 1-118 (आगस्तो मैत्रावरुणिः (*āgasto maitrāvaruṇiḥ*)) **NOTE**
+2. समित्समित्सुमना (*samitsamitsumanā*)—Ṛ. Saṃ. 3-4 (गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*))
+3. समिद्धो विश्वतस्पतिः (*samiddho viśvataspatiḥ*)—Ṛ. Saṃ. 9-5 (काश्यपोऽसितो देवलो वा (*kāśyapo 'sito devalo vā*))
+4. समिद्धो अद्य मनुषो (*samiddho adya manuṣo*)—Ṛ. Saṃ. 10-110 (जमदग्निर्भार्गवः (*jamadagnirbhārgavaḥ*))
+
+These sūktas belong to the third group. In them there are only Ṛks having तनूनपात् (*tanūnapāt*) as their deity. (There are no Ṛks having Narāśaṃsa as deity.) Therefore these are named तनूनपात्वंति सूक्तानि (*tanūnapātvaṃti sūktāni*), that is, Āprī sūktas that contain mantras having the deity Tanūnapāt.
+
+These Āprī sūktas are recited, when the animal offering is made, for performing the eleven (ekādaśa) Prayāja homas. There is a sentence of the Taittirīya Saṃhitā: एकादशावदानान्यवद्यति दश वै पशोः प्राणा आत्मैकादशः (*ekādaśāvadānānyavadyati daśa vai paśoḥ prāṇā ātmaikādaśaḥ*) (Tai. Saṃ. 6-3-10-3) **GLOSS** In reciting these Āprī sūktas and performing the animal offering there is one special rule: sacrificers born in the respective gotras, when performing a sacrifice, must recite only the Āprī sūktas composed by the seer of their own gotra (Ā. Sū. 3-2). The present Āprī sūkta must be recited by those born in the gotra of the seer Kaṇva.
+
+For knowing the nature of the Āprī sūktas and the places they hold in the performance of rites, the sources we have are of two kinds. The first are the Śruti sentences of the Brāhmaṇas and the like;
+
+### Printed p. 649
+the second are the sentences of explanation in the Nirukta and the like. Of these two kinds of sources, the sentences of explanation in the Nirukta and the like are more rational and are accompanied by scientific explanations.
+
+If one considers the derivation of the word āprī stated in the Aitareya and other Brāhmaṇas, one may say that all of them have understood and explained this word from the standpoint of the performance of sacrifices and similar rites. For example—
+
+तद्यदा प्रीणाति तस्मादाप्रियो नाम (*tadyadā prīṇāti tasmādāpriyo nāma*) (Kau. Brā. 10-3) **NOTE**
+
+The Kauṣītaki Brāhmaṇa says that the name is so because it is a means of gratifying;
+
+आप्रीभिराप्नु वन् । तदाप्रीणामाप्रित्वं ॥ (*āprībhirāpnu van | tadāprīṇāmāpritvaṃ ‖*) (Tai. Brā. 2-2-8-6)
+
+and, stating the same view as above, the Taittirīya Brāhmaṇa also;
+
+यदेतान्याप्रिया आज्यानि भवंति । आत्मानामेवेतैराप्रीणाति । (ता. ब्रा. १५-८-२) ऎंदु तांड्यब्राह्मणदल्लू आप्री ऎंब पदद स्वरूपवन्नु तिळिसिदॆ. ऐतरेयब्राह्मणदल्लि अग्निष्टोमयागकालदल्लि होतृवु आचरिसबेकाद कर्तव्यगळन्नु निर्देशिसुवाग आप्रिगळ विवरणॆयन्नु हेळिदॆ. अग्नियन्नू सोमवन्नू उद्देशिसि यागमाड बेकाद पशुविन वर्णनॆयादमेलॆ (२-३) हन्नॊंदु प्रयाजमंत्रगळु उक्तवागिवॆ (२-४). आ संदर्भदल्लि— आप्रीभिराप्रीणाति। तेजो वै ब्रह्मवर्चसमाप्रियस्तेजसैवेनं तद्ब्रह्मवर्चसेन समर्धयति । आप्री ऋक्कुगळु तेजोमयवादवू ब्रह्मवर्चस्सिनिंद कूडिदवू आगिवॆ. अंतह ऋक्कुगळिंद (होतृवु) तृप्तिकारणनागुत्तानॆ ऎंदु अल्लियू आत्मतृप्तिगॆ साधनवागिरुवुदन्नु तिळिसिदॆ. अनंतर समिध्, तनूनपात् इत्यादि देवतॆगळन्नु प्राणादितत्त्वगळॊडनॆ तादात्म्यवन्नु हॊंदिरुवुदागि तिळिसिदॆ ऋक्संहितॆय बेरॆ बेरॆ मंडलगळल्लि उक्तवागिरुव ई सूक्तगळन्नू इवुगळ फलवन्नू हेळुत्ता इवुगळन्नु पठिसिरुव ऋषिगळ विषयवन्नू ऐतरेयब्राह्मणदल्ले ऎल्लक्किंत मॊदलु हेळिदॆ. ताभिर्यथर्ष्वाप्रीणीयाद्यद्यधयष्या प्रीणाति य (*yadetānyāpriyā ājyāni bhavaṃti | ātmānāmevetairāprīṇāti | (tā. brā. 15-8-2) èṃdu tāṃḍyabrāhmaṇadallū āprī èṃba padada svarūpavannu tiḷisidè. aitareyabrāhmaṇadalli agniṣṭomayāgakāladalli hotṛvu ācarisabekāda kartavyagaḷannu nirdeśisuvāga āprigaḷa vivaraṇèyannu heḷidè. agniyannū somavannū uddeśisi yāgamāḍa bekāda paśuvina varṇanèyādamelè (2-3) hannòṃdu prayājamaṃtragaḷu uktavāgivè (2-4). ā saṃdarbhadalli— āprībhirāprīṇāti| tejo vai brahmavarcasamāpriyastejasaivenaṃ tadbrahmavarcasena samardhayati | āprī ṛkkugaḷu tejomayavādavū brahmavarcassiniṃda kūḍidavū āgivè. aṃtaha ṛkkugaḷiṃda (hotṛvu) tṛptikāraṇanāguttānè èṃdu alliyū ātmatṛptigè sādhanavāgiruvudannu tiḷisidè. anaṃtara samidh, tanūnapāt ityādi devatègaḷannu prāṇāditattvagaḷòḍanè tādātmyavannu hòṃdiruvudāgi tiḷisidè ṛksaṃhitèya berè berè maṃḍalagaḷalli uktavāgiruva ī sūktagaḷannū ivugaḷa phalavannū heḷuttā ivugaḷannu paṭhisiruva ṛṣigaḷa viṣayavannū aitareyabrāhmaṇadalle èllakkiṃta mòdalu heḷidè. tābhiryatharṣvāprīṇīyādyadyadhayaṣyā prīṇāti ya*) (Tā. Brā. 15-8-2) **GLOSS**
+
+thus the Tāṇḍya Brāhmaṇa also tells the nature of the word Āprī.
+
+In the Aitareya Brāhmaṇa, in prescribing the duties that the Hotṛ must perform at the time of the Agniṣṭoma sacrifice, an explanation of the Āprīs is given. After the description of the animal to be offered with Agni and Soma as the object (2-3), eleven Prayāja mantras are stated (2-4). In that context—
+
+आप्रीभिराप्रीणाति। तेजो वै ब्रह्मवर्चसमाप्रियस्तेजसैवेनं तद्ब्रह्मवर्चसेन समर्धयति । (*āprībhirāprīṇāti| tejo vai brahmavarcasamāpriyastejasaivenaṃ tadbrahmavarcasena samardhayati |*)
+
+The Āprī Ṛks are full of radiance and endowed with brahmavarcas. By such Ṛks (the Hotṛ) becomes a cause of satisfaction; thus there also the means of one's own satisfaction is told. Afterwards it is told that the deities समिध् (*samidh*), तनूनपात् (*tanūnapāt*) and the rest have identity with the principles such as the vital breath.
+
+In the Aitareya Brāhmaṇa itself, first of all, these sūktas stated in the various maṇḍalas of the Ṛk-saṃhitā, their fruit, and the matter of the seers who recited them are told.
+
+ताभिर्यथर्ष्वाप्रीणीयाद्यद्यधयष्या प्रीणाति यजमानमेव तद्बंधुताया नोत्सृजति । (*tābhiryatharṣvāprīṇīyādyadyadhayaṣyā prīṇāti yajamānameva tadbaṃdhutāyā notsṛjati |*) (Ai. Brā. 2-4)
+
+### Printed p. 650
+By the recitation of these Ṛks composed by the seers, he protects the sacrificer without releasing him from his connection with the sacrifice; thus the fruit of reciting these Ṛks is told. These sūktas were not seen by a single seer. Different seers saw these sūktas in their own personal circumstances. Even so, the nature of these sūktas and the fruit of reciting them appear the same in all of them. That a difference of opinion existed from the ancient times of the Brāhmaṇas and the like, concerning these Āprī sūktas and the deities of these sūktas, is known from the explanation of the Nirukta authors themselves.
+
+अथात अप्रियः । अप्रियः कस्मादाप्नोतेः प्रीणातीर्वा । अप्रीभिराप्रिणातीति च ब्राह्मणं । (*athāta apriyaḥ | apriyaḥ kasmādāpnoteḥ prīṇātīrvā | aprībhirāpriṇātīti ca brāhmaṇaṃ |*) (Ni. 8-4) **GLOSS**
+
+Thus the Nirukta authors have shown that, with regard to the Āprī sūktas, the opinion of the Brāhmaṇas and the like is different from their own opinion. Moreover, the opinions of seers such as कात्थक्य (*kātthakya*), शाकपूणि (*śākapūṇi*) and माध्यमिक (*mādhyamika*) are cited from time to time. Although कात्थक्य (*kātthakya*) and the others are themselves sacrificial ritualists, it is shown, in the special matters of the respective Ṛk, that in many contexts they do not accept the derivations stated in the Brāhmaṇas and the like. Having stated all these opinions, Yāska at last states his own definite opinion. For example—he first collects all the opinions that the Brāhmaṇas and the like have stated regarding the Āprī deities.
+
+इतीमा आप्रीदेवता अनुक्रांताः । अथ किं देवताः प्रयाजानुयाजाः आग्नेया इत्येके । आग्नेया वै प्रयाजा आग्नेया अनुयाजा इति च ब्राह्मणं । छंदोदेवता इत्यपरं । छंदांसि वै प्रयाजाश्चंदांस्यनुयाजा इति च ब्राह्मणं । ऋतुदेवता इत्यपरं । ऋतवो वै प्रयाजा ऋतवोऽनुयाजा इति च ब्राह्मणं । पशुदेवता इत्यपरं । पशेवो वै प्रयाजाः पशवोऽनुयाजा इति च ब्राह्मणं । प्राणदेवता इत्यपरं । प्राणावै प्रयाजा प्राणावा अनुयाजा इति च ब्राह्मणं । आत्मदेवता इत्यपरं । आत्मा वै प्रयाजाः आत्मा वा अनुयाजा इति च ब्राह्मणं । अग्नेया इति तु स्थितिः । भक्तिमात्रमितरं ॥ (*itīmā āprīdevatā anukrāṃtāḥ | atha kiṃ devatāḥ prayājānuyājāḥ āgneyā ityeke | āgneyā vai prayājā āgneyā anuyājā iti ca brāhmaṇaṃ | chaṃdodevatā ityaparaṃ | chaṃdāṃsi vai prayājāścaṃdāṃsyanuyājā iti ca brāhmaṇaṃ | ṛtudevatā ityaparaṃ | ṛtavo vai prayājā ṛtavo 'nuyājā iti ca brāhmaṇaṃ | paśudevatā ityaparaṃ | paśevo vai prayājāḥ paśavo 'nuyājā iti ca brāhmaṇaṃ | prāṇadevatā ityaparaṃ | prāṇāvai prayājā prāṇāvā anuyājā iti ca brāhmaṇaṃ | ātmadevatā ityaparaṃ | ātmā vai prayājāḥ ātmā vā anuyājā iti ca brāhmaṇaṃ | agneyā iti tu sthitiḥ | bhaktimātramitaraṃ ‖*) (Si. 8-22) **NOTE** **GLOSS**
+
+Thus, stating the respective views, at first,
+
+तव प्रयाजा अनुयाजाश्च केवल ऊर्जस्वंतो हविषः संतु भागाः । तवाग्ने यज्ञोऽयमस्तु सर्वस्तुभ्यं नमंतां प्रदिशश्च तस्रः ॥ (*tava prayājā anuyājāśca kevala ūrjasvaṃto haviṣaḥ saṃtu bhāgāḥ | tavāgne yajño 'yamastu sarvastubhyaṃ namaṃtāṃ pradiśaśca tasraḥ ‖*) (Ṛ. Saṃ. 10-51-9) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 641. Rk 17 (cont.) to 23 (part), p. 635-641
+**Progress note:** Done through printed p. 650. Rk 23 (end) to 24, repeated Rk 20 page, end of Adhyaya 1, Sukta 2 introduction pp. 642-650
