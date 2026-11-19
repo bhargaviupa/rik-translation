@@ -25157,6 +25157,228 @@ In the earlier age, when two armies fought, it was the custom for the leaders in
 
 To support the meaning "obtained" (prāpta) for the word सतः (*sataḥ*), the commentator has given Yāska's explanation: तिरः सत इति प्राप्तस्य । तिरस्तीर्णं भवति । सतः संस्कृतं भवति । तिरश्चिदर्यया परिवर्तियोत्तमदाभ्या । पात्रेव भिंदन् सत एति रक्षसः । इत्यपि निगमौ भवतः॥ (*tiraḥ sata iti prāptasya | tirastīrṇaṃ bhavati | sataḥ saṃskṛtaṃ bhavati | tiraścidaryayā parivartiyottamadābhyā | pātreva bhiṃdan sata eti rakṣasaḥ | ityapi nigamau bhavataḥ‖*) (Ni. 3-20). The two words तिरः सतः (*tiraḥ sataḥ*) are synonyms indicating one and the same meaning. For this the meaning is "prāpta", that is, obtained, attained. For the word तिरः (*tiraḥ*) the meaning of तीर्णं (*tīrṇaṃ*) is "crossed over";
 
+### Printed p. 577
+
+that is, going from one place to another means crossing even the distance that lies between two regions; for the word सतः (*sataḥ*) the meaning of संस्कृतं (*saṃskṛtaṃ*) is "joined together, being one". These two words are both derived from the root सृ (*sṛ*), which means "to go", with the sense of joining together and going. In the present Ṛk the word सतः (*sataḥ*) indicates the meaning that valour (prowess) has joined itself to these men. The two sentences तिरश्चिदर्यमा (*tiraścidaryamā*)**NOTE** and पात्रेव भिंदन् (*pātreva bhiṃdan*), given as examples in the explanation, are Vedic sentences. The chief purport of the explanation is that these sentences support for those words the meaning stated above.
+
+उरवः—महांतः (*uravaḥ—mahāṃtaḥ*). Those who are long-armed (reaching to the knees), tall and of stout, well-nourished bodies, men of great strength and valour, or those of excellent qualities.
+
+व्रातसाहाः (*vrātasāhāḥ*)—those who defeat and put to flight the host of enemy people in battles, or those who boldly face many enemies even when they come charging in a crowd.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः ति॒वे नो॒ द्यावा॑पृथि॒वी अ॑ने॒हसा॑ ।  
+> पू॒षा नः॑ पातु दुरि॒तादृ॑तावृधो॒ रक्षा॒ माकि॑र्नो अ॒घशं॑स  
+> ईशत ॥ १० ॥
+
+### Printed p. 578
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्राह्मणासः । पितरः । सोम्यासः । शिवे इति । नः । द्यावापृथिवी इति । अनेहसा ।  
+> पूषा । नः । पातु । दुःइतात् । ऋतवृधः । रक्ष । माकिः । नः । अघशंसः । ईशत ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्राह्मणासो हे ब्राह्मणाः पितर ऋतावृध ऋतस्य ऋज्ञस्य सत्यस्य वा
+> वर्धयितारः सोम्यासः सोमार्हाः सोमसंपादिनो वा । तथा च यास्कः
+> सोम्याः सोमसंपादिनः । नि. ११-१८ । इति । नोऽस्मान्रक्षत । रक्षेत्युपरितनमेकवचनांतं सत्यपि व्यवधाने बहुवचनांततया विपरिणतं सदत्र संबध्यतेऽध्याहार-
+> XXI 37
+
+##### Gist of the bhāṣya
+
+ब्राह्मणासो (*brāhmaṇāso*) means: O Brāhmaṇas. The fathers are ऋतावृध (*ṛtāvṛdha*), increasers of ṛta, that is, of the sacrifice (?)**NOTE** or of truth; सोम्यासः (*somyāsaḥ*) means worthy of Soma, or procurers of Soma. So Yāska says: सोम्याः सोमसंपादिनः (*somyāḥ somasaṃpādinaḥ*) (Ni. 11-18). "Protect us." The later word रक्ष (*rakṣa*), which is singular, although other words intervene, is here understood as plural.
+
+> स्यातिजघन्यत्वात् । किंचानेहसापापे द्यावापृथिवी द्यावापृथिव्यौ नोऽस्माकं शिवे
+> सुखकृतौ भवतां । पूषा पोषको देवोऽपि नोऽस्मान्दुरिताद्दुष्कृतात्पातु ।
+> रक्षतु । नोऽस्माकमघशंसः पापशंसः शत्रुरपि माकिरीशत । मैशिष्ट ॥
+
+##### Gist of the bhāṣya
+
+Moreover, may the faultless Heaven and Earth be auspicious to us, makers of happiness. May Pūṣan, the nourishing deity, also protect us from evil, from wrongdoing. May no enemy who speaks evil of us have power over us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितरः (*pitaraḥ*)—protectors
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—increasers of truth
+- सोम्यासः (*somyāsaḥ*)—procurers of Soma
+- ब्राह्मणासः (*brāhmaṇāsaḥ*)—O Brāhmaṇas
+- रक्ष (*rakṣa*)—protect us
+- अनेहसा (*anehasā*)—free from sin
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- नः (*naḥ*)—to us
+- शिवे (*śive*)—be bringers of auspiciousness
+- पूषा (*pūṣā*)—the god Pūṣan
+- नः (*naḥ*)—us
+- दुरितात् (*duritāt*)—from sin
+- पातु (*pātu*)—may he protect
+- नः (*naḥ*)—to us
+- अघशंसः (*aghaśaṃsaḥ*)—enemies who wish us harm
+- माकिः ईशत (*mākiḥ īśata*)—may they certainly not exercise lordship over us
+
+##### भावार्थ (Bhāvārtha)
+
+O Brāhmaṇas, protectors, increasers of truth, and procurers of Soma, protect us. May Heaven and Earth, free from sin, be bringers of auspiciousness to us. May the enemies who wish us harm certainly not exercise lordship over us.
+
+##### English translation
+May the Brahmins, the progenitors, presenters of the Soma, the observers of truth, protect us : may the faultless heaven and earth be propitious to us : may Pushan preserve us from misfortune, let no calumniator prevail over us.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the sage prays to the Brāhmaṇas engaged in the performance of sacrificial rites, to Heaven and Earth, and to the god Pūṣan, that they protect him on the battlefield from the fear of enemies and from danger.
+
+पितरः (*pitaraḥ*)—Two kinds of meaning can be given to this word. पितरः (*pitaraḥ*)—पालकाः (*pālakāḥ*): those who protect us from the violence of enemies. Or our forefathers, elders, the sage Aṅgirases, and so on.
+
+सोम्यासः (*somyāsaḥ*)—सोमसंपादिनः (*somasaṃpādinaḥ*) (Ni. 1-19)**NOTE**: those who, in sacrifices and the like, crush the soma creepers, squeeze out the juice and prepare it for the pressings and so on; or those who are engaged in the sacrificial rites in which the pressing of the soma is the chief thing; the foremost of the Brāhmaṇas.
+
+### Printed p. 579
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒प॒र्णं व॑स्ते मृ॒गो अ॑स्या॒ दंतो॒ गोभिः॒ संन॑द्धा पतति॒  ॑
+> प्रसूता ।  
+> यत्रा॒ नरः॒ सं च॒ वि च॒ द्रवं॑ति॒ तत्रा॒स्मभ्य॒मिष॑वः॒ शर्म॑ यंसन् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुपर्णं । वस्ते । मृगः । आस््याः । दंतः । गोभिः । संनद्धा । पतति । प्रसूता ।  
+> यत्र । नरः । सं । च । वि । च । द्रवंति । तत्र । अस्मभ्यं । इषवः । शर्म । यंसन्॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्यामृचेषवः स्तूयंते । सुपर्णं शोभनं वाजं वस्ते । इयमिषुर्धारयति । अस्या इषोर्मृगो मृगावयवः शृंगं दंतो भवति । इषवः
+> काश्चिद्दंतमुखा भवंति हि । अथवास्या दंतो मृगः शत्रोन्मृगयमाणो भवति ।
+> किंच गोभिर्गोविकार्कैः स्नायुभिः संनद्दा सम्यग्बद्धा । अथवा गौरिति ज्यानाम !
+> तया संबद्धा ! अत्र वचनव्यत्ययः । तथा च निगमः । वृक्षे वृक्षे नियता मीमयद्गौः । ऋग्वे. १०-२७-२२ । इति । आस्म्यायमर्थः । वृक्षे वृक्षे धनुषि धनुषि
+> गौर्जा नियता मीमयत् शब्दं करोतीति । तथा च यास्कः । वृक्षे वृक्षे धनुषि
+> धनुषि । वृक्षो व्रश्चनाद्वृत्या क्षां तिष्ठतीति ना । क्षा क्षियतेर्निवासकर्मणः ।
+> नियता मीमयद्गौः शब्दं करोति । मीमयतिः शब्द कर्मा । नि. २.-६ । इति । प्रसूता
+> प्रेरिता सती पतति । यत्र युद्धे नरः सं च सह च वि च पृथक् द्रवंति चरंति
+> तत्रास्मभ्यमिषवः शराः शर्म सुखं यंसन् । प्रयच्छंतु । तथा च यास्कः ।
+> सुपर्णं वस्त्र इति वाजानभिप्रेत्य मृगमयोऽस्या दंतो मृगयतेर्वा गोभिः
+> संनद्दा पतति प्रसूतेति व्याख्यातं । यत्र नराः संद्रवंति च विद्रवंति च तत्रास्मभ्यमिषवः शर्म शरणं प्रयच्छंतु । नि. ९-१९ । इति ॥
+
+##### Gist of the bhāṣya
+
+In this Ṛk the arrows are praised. सुपर्णं (*suparṇaṃ*): this arrow bears a good wing (feather). मृगो (*mṛgo*), a part of a deer, its horn, is the tooth (point) of this arrow; for some arrows have tooth-points. Or else the tooth of this arrow is मृगः (*mṛgaḥ*), one that hunts out the enemies. Moreover it is bound firmly with गोभिः (*gobhiḥ*), products of the cow, sinews; or else गौः (*gauḥ*) is a name of the bowstring, and it is bound with that, with a change of number here. So a Vedic passage says: वृक्षे वृक्षे नियता मीमयद्गौः (*vṛkṣe vṛkṣe niyatā mīmayadgauḥ*) (Ṛgve. 10-27-22)**NOTE**; its meaning is: on each bow the bowstring, fixed in place, makes a sound. And so Yāska says: वृक्षे वृक्षे (*vṛkṣe vṛkṣe*) means on each bow; the tree takes its name from cutting (felling), and it stands on the ground; क्षा (*kṣā*) is the earth, from the root meaning "to dwell"; नियता मीमयद्गौः (*niyatā mīmayadgauḥ*) means the bowstring makes a sound, मीमयतिः (*mīmayatiḥ*) being a word for sound (Ni. 2.-6). प्रसूता (*prasūtā*): urged forward, it falls. In the battle where men run together and run apart, there may the arrows give us happiness. And so Yāska says, in the same sense, that the arrow bears a good wing, its tooth is of deer-horn, it falls bound with sinews when sent forth, and that where men run together and run apart there the arrows give shelter (Ni. 9-19).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुपर्णं (*suparṇaṃ*)—the excellent wing (feather)
+- वस्ते (*vaste*)—this arrow wears
+- अस्याः (*asyāḥ*)—of this arrow
+- दंतः (*daṃtaḥ*)—the fore-part
+- मृगः (*mṛgaḥ*)—is the horn of a deer
+- गोभिः (*gobhiḥ*)—with bowstrings
+
+### Printed p. 580
+
+- सन्नद्धा (*sannaddhā*)—joined
+- प्रसूता (*prasūtā*)—being urged (shot)
+- पतति (*patati*)—falls upon the enemies
+- यत्र (*yatra*)—in which battle
+- नरः (*naraḥ*)—warriors
+- सं च (*saṃ ca*)—both gathered in a crowd
+- वि च (*vi ca*)—and separately
+- द्रवंति (*dravaṃti*)—run about
+- तत्र (*tatra*)—there
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- इषवः (*iṣavaḥ*)—these arrows
+- शर्म (*śarma*)—happiness
+- यंसन् (*yaṃsan*)—may they give
+
+##### भावार्थ (Bhāvārtha)
+
+This arrow bears an excellent wing (feathers). The horn of a deer is its fore-part. Joined with bowstrings and urged forth, it falls upon the enemies. In whatever battle the warriors run about, both gathered in a crowd and separately, there may these arrows bring us happiness.
+
+##### English translation
+The arrow puts on a (feathery) wing : the (horn of the) deer is its point: it is bound with the sinews of the cow : it alights where directed : whenever men assemble or disperse, there may the shafts fall for an advantage.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, in the Ṛk that follows it, and in the 15th and 16th Ṛks, there is praise of the iṣu, that is, the arrow. In this Ṛk the explanation of some words is necessary.
+
+सुपर्णं (*suparṇaṃ*)—an excellent feather or wing. The arrow that is fitted to the bow and shot at the enemy has the feathers of birds tied to it so that it may travel swiftly. Therefore, here, सुपर्णं वस्ते (*suparṇaṃ vaste*) describes that this arrow wears an excellent wing or feathers.
+
+मृगो अस्या दंतः (*mṛgo asyā daṃtaḥ*)—Here Sāyaṇa has explained the word दंत (*daṃta*) as शृंग (*śṛṃga*), that is, horn. मृगो दंतः (*mṛgo daṃtaḥ*) means the horn of a deer. It is described here that the sharp horn of a deer is used as the shaft (stick) of the arrow. Or, at the tip of some arrows they fix the pointed teeth (of certain animals) and so make the arrow sharp. Therefore it may also be said to be an arrow made sharp with the teeth of an animal. Or, if we give the word मृग (*mṛga*) the meaning मृगयमाणः (*mṛgayamāṇaḥ*), then this arrow, shot from the bow in battle, goes seeking out the enemies; that is, the purport is that it strikes the bodies of the enemies aimed at and sticks in them.
+
+### Printed p. 581
+
+गोभिः संनद्दा पतति प्रसूता (*gobhiḥ saṃnaddā patati prasūtā*)—गोभिः गोविकारैः स्नायुभिः संनद्दा सम्यक्बद्धा अथवा गौरिति ज्यानाम तया बद्धा । (*gobhiḥ govikāraiḥ snāyubhiḥ saṃnaddā samyakbaddhā athavā gauriti jyānāma tayā baddhā |*). Here the word गो (*go*) means made from the cow, that is, tightly bound with the thread-like sinews in the body of the cow; the meaning is that the feathers of birds are bound tightly to this arrow with the sinews (nerves) of the cow. Or, since the word गो (*go*) also means ज्या (*jyā*), the bowstring, it may also be understood as an arrow shot from the string (the rope of the bow). The purport is that such an arrow, urged by the warriors who fight, falls upon the enemies.
+
+For this Ṛk**NOTE** Yāska has given an explanation—
+
+सुपर्णं वस्त्र इति वाजानभिप्रेत्य मृगमयोऽस्या दंतो मृगयतीर्वा गोभिः संनद्धा पतति प्रसूतेति व्याख्यातं यत्र नराः संद्रवंति च विद्रवंति च तत्रास्मभ्यमिषवः शर्म यच्छंतु शरणं संग्रामेषु ॥ (*suparṇaṃ vastra iti vājānabhipretya mṛgamayo 'syā daṃto mṛgayatīrvā gobhiḥ saṃnaddhā patati prasūteti vyākhyātaṃ yatra narāḥ saṃdravaṃti ca vidravaṃti ca tatrāsmabhyamiṣavaḥ śarma yacchaṃtu śaraṇaṃ saṃgrāmeṣu ‖*) (Ni. 9-19).
+
+In order to indicate the wings that are tied to the arrow so that, going forth from the bow, it may travel swiftly to the enemy, the word सुपर्णं (*suparṇaṃ*) is used here. The point of that arrow is made of the horn of a deer. Or the use of the word मृग (*mṛga*) here indicates the meaning that the arrow goes seeking out the enemies. The wings of this arrow are tied tightly with the sinews of the cow. Such an arrow, urged by the warrior, falls upon the enemy. While the battle is going on, the warriors of both armies rush from this side to that and from that side to this. The chief purport of the explanation is: may our arrows give us protection in battles against the onslaught of these enemy warriors.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋजी॑ते॒ परि॑ वृज्ञ॒ नोऽश्मा॑ भवतु नस्त॒नूः ।  
+> सोमो॒ अधि॑ ब्रवीतु॒ नोदि॑तिः॒ शर्म॑ यच्छतु ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋजेते । परि । वृज्ञ । नः । अश्मा । भवतु । नः । तनूः ।  
+> सोमः । अधि । ब्रवीतु । नः । अदितिः । शर्म । यच्छतु ॥ १२ ॥
+
+### Printed p. 582
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋजेते । ऋजु गच्छतीत्यदेतिरिषुः । हे इषो नोऽस्मान्परि वृष्ठ ।
+> परितो वर्धय । नोऽस्माकं तनूः शरीरमश्मा भवतु । आत्ममवदभेद्या वृथा
+> भवतु । किंच नोऽस्मध्यं सोमोऽधि ब्रवीतु । पक्षपातेन ब्रवीतु । अदितिरपि
+> शर्म सुखं यच्छतु ॥
+
+##### Gist of the bhāṣya
+
+ऋजेते (*ṛjete*): the arrow, which goes straight. O arrow, increase us all round**NOTE**. May our bodies be like stone, unbreakable**NOTE**. Moreover, may Soma speak in our favour, speak with partiality. May Aditi also grant us happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजीते (*yajīte*)—O arrow
+- नः (*naḥ*)—us
+- परि वृंगि (*pari vṛṃgi*)—increase on all sides
+- नः (*naḥ*)—our
+- तनूः (*tanūḥ*)—bodies
+- अश्मा भवतु (*aśmā bhavatu*)—may they be strong like a stone
+- सोमः (*somaḥ*)—the god Soma
+- नः (*naḥ*)—to us
+- अधि ब्रवीतु (*adhi bravītu*)—may he speak words of affection
+- अदितिः (*aditiḥ*)—Aditi also
+- शर्म (*śarma*)—happiness
+- यच्छ्रु (*yacchru*)—may she give
+
+##### भावार्थ (Bhāvārtha)
+
+O arrow, increase us on all sides. May our bodies be strong like a stone. May the god Soma speak words of affection to us. May Aditi also give us happiness.
+
+##### English translation
+Straight-flying (arrow), defend us: may our bodies be stone : may Soma speak to us encouragement : may Aditi grant us success.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk also the arrow (iṣu) is praised: that the enemy arrows may not strike us in battle and hurt us, our bodies should be firm as stone, and the god Soma and the goddess Aditi should protect us by bringing us happiness.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ज॑ङ्भंति॒ सान्वे॑षां ज॒घना॒ उप॑ जिघ्नते ।  
+> अश्वा॑जनि॒ प्रचे॑त॒सोऽश्वा॑न्त॒मत्तु॑ चोदय ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । जंघंति । सानु । एषां । जघनान् । उप । जिघ्नते ।  
+> अश्वअजनि । प्रचेतसः । अश्वान् । समत्सु । चोदय ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 576. Sūkta 75 Ṛk 6 end, Ṛk 7-9 (horses, chariot, chariot-guards), pp. 571-576
+**Progress note:** Done through printed p. 582. Sūkta 75 Ṛk 9 end, Ṛk 10-12 (Brāhmaṇas, arrow), Ṛk 13 verse; pp. 577-582
