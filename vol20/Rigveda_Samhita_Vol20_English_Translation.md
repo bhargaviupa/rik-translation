@@ -1,5 +1,123 @@
 # Rigveda Samhita — Volume 20 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+In this part of the Ṛgveda-saṃhitā the fifth maṇḍala is completed, and 28 sūktas of the sixth maṇḍala have been expounded. Although we have already described the chief seers of the fifth maṇḍala, it is fitting to discuss here a few matters concerning the seer named Saptavadhri. The author of the Bṛhaddevatā has explained the etymology of the name Saptavadhri as follows:
+
+षळाश्विनानि गर्भार्थं पंचर्चोपनिषत् स्तुतिः । सप्त कृत्वापराधान्वै विफले दारसंग्रहे ॥ ऋषिः कृतोऽश्वमेधेन भारतेनेति वै श्रुतिः । तमष्टमेऽपराधे तु वृक्षद्रोण्यां स पार्थिवः ॥ ऋबीसे ह विनिक्षिप्य स्वन्नं रात्रौ न्यधारयत् । सोऽश्विनाविति सूक्तेन तुष्टावर्षिः शुभस्पती ॥ तौ तं तस्मात्समुद्धृत्य चक्रतुः सफलं पुनः । तृचः स्वस्यॆव गर्भार्थं स्वपतस्तस्य गर्भवत् ॥ यथा वात इति ज्ञेये त्वश्विभ्यामितरे तृच् । स्रवतामपि गर्भाणां दृष्टं तदनुमंत्रणम् ॥ भाववृत्तं तु तद्वत्सात्तथा रूपं हि दृश्यते । जरायुगर्भशब्दाभ्यामेतद्रूपं हि दृश्यते ॥ (*ṣaḷāśvināni garbhārthaṃ paṃcarcopaniṣat stutiḥ | sapta kṛtvāparādhānvai viphale dārasaṃgrahe ‖ ṛṣiḥ kṛto 'śvamedhena bhārateneti vai śrutiḥ | tamaṣṭame 'parādhe tu vṛkṣadroṇyāṃ sa pārthivaḥ ‖ ṛbīse ha vinikṣipya svannaṃ rātrau nyadhārayat | so 'śvināviti sūktena tuṣṭāvarṣiḥ śubhaspatī ‖ tau taṃ tasmātsamuddhṛtya cakratuḥ saphalaṃ punaḥ | tṛcaḥ svasyèva garbhārthaṃ svapatastasya garbhavat ‖ yathā vāta iti jñeye tvaśvibhyāmitare tṛc | sravatāmapi garbhāṇāṃ dṛṣṭaṃ tadanumaṃtraṇam ‖ bhāvavṛttaṃ tu tadvatsāttathā rūpaṃ hi dṛśyate | jarāyugarbhaśabdābhyāmetadrūpaṃ hi dṛśyate ‖*) (Bṛ. De. 5-82-86) **GLOSS**
+
+The Ṛks from the 5th to the 9th mantra of the 78th sūkta of the 5th maṇḍala, which are recited so that the foetus may flow forth and delivery may be easy, are well known as the Garbhasrāviṇī-upaniṣad. Sāyaṇa has stated that only the last three mantras, from the 7th to the 9th, belong to this group. Since the wife of the king named Aśvamedha, of the Bharata line, was childless, this seer was appointed to assist in the conception of a child in her; seven times his effort was in vain. Then he was appointed again for the eighth time. Saptavadhri means one who was seven times without potency. When his effort was in vain the eighth time also, the king put him into a wooden trough and threw it into a great pit. He himself lay in the wooden trough in the form of a foetus. Then that seer praised the Aśvin deities with the sūkta that begins with अश्विन् (*aśvin*) (5-28). Then they lifted him out of that pit and gave him the power to beget sons. The three mantras that begin with the mantra यथा वातः (*yathā vātaḥ*) (5-28-7 to 9) are mantras to be addressed in prayer to the Aśvin deities in order to provide an easy opening for the child to come out of the womb.
+
+### Printed p. ii
+
+Not only on that occasion, but also for the flowing forth of every kind of foetus and for an easy delivery, these mantras are recited. Concerning the subject-matter of this same sūkta Sāyaṇa has given the following account. According to what he states, the story is of another kind. (Ṛ. Saṃ. 5-78-5, Sā. Bhā. introduction)
+
+The kinsmen of Saptavadhri put him into a box, made him a prisoner there, and fastened the box with a lock and seal. They kept him confined in this way during the night and let him out only when it was day. Spending many nights in the box in this way, he suffered greatly. Grown thin from long suffering, he finally thought of a means of freeing himself from this confinement. Then he praised the Aśvin deities and prayed for their help. They came, opened the door of his box, made him come out, and themselves became invisible. After coming out he stayed with his wife at night, and when morning came, from fear of his kinsmen **NOTE**, he would go back into the box and sit there. Every day in this way he stayed with his wife at night and in the morning was in the box as before. Then, out of gratitude, he recited these mantras (5:6), so Sāyaṇa has stated.
+
+But the manner stated in the Bṛhaddevatā and the manner stated by Sāyaṇa differ. According to Sāyaṇa's explanation, only the 5th and 6th mantras were recited for his own release from bondage. The remaining three mantras, the 7th, 8th and 9th, became well known as "Garbhasrāviṇī mantras", and all three were recited when he prayed to the Aśvin deities that his wife's foetus might flow forth and that she might have an easy delivery; and it is said that the fourth mantra refers to the Atri of Saptavadhri **NOTE**. But there is room for the view that the subject of the fourth mantra is one thing and the subject of the 5th and 6th mantras another. On careful examination the two appear to speak of one and the same subject. How? In the fourth mantra the seer compares himself to a poor woman who is a suppliant नाधमानेव योषा (*nādhamāneva yoṣā*); moreover, in the 5th mantra he compares the box in which he was confined to the womb of a woman suffering pain at the time of delivery योनिः सूष्यंत्या इव (*yoniḥ sūṣyaṃtyā iva*). It would not be wrong to say that the woman indicated in these two mantras is one and the same. The two words अजोहवीत् (*ajohavīt*) and नाधमाना (*nādhamānā*) also can state definitely who that woman is. This point can be established on the basis of the matters set forth in some earlier passages. For example:
+
+अजोहवीन्नासत्या करा नां महे यामन्नुरुभुजा पुरंधिः । श्रुतं तच्छासुरिव वध्रिमत्या हिरण्यहस्तमश्विनावदत्तं ॥ (*ajohavīnnāsatyā karā nāṃ mahe yāmannurubhujā puraṃdhiḥ | śrutaṃ tacchāsuriva vadhrimatyā hiraṇyahastamaśvināvadattaṃ ‖*) (Ṛ. Saṃ. 1-116-13) **GLOSS**
+
+### Printed p. iii
+
+Here the occasion is stated on which a woman named Vadhrimati prayed to the Aśvin deities for the sake of a son. That the Aśvin deities granted this same Vadhrimati the gift of male offspring is stated on still other occasions also, and this matter is also well known. For example, it is stated in passages such as these:
+
+"पुत्रं नरा वध्रिमत्या अदत्तं (*putraṃ narā vadhrimatyā adattaṃ*)" (Ṛ. Saṃ. 1-117-24) **GLOSS**;
+"श्रुतं हवं वृषणा वध्रिमत्याः (*śrutaṃ havaṃ vṛṣaṇā vadhrimatyāḥ*)" (Ṛ. Saṃ. 6-62-71 **NOTE**) **GLOSS**;
+"युवं हवं वध्रिमत्या अगच्छतं (*yuvaṃ havaṃ vadhrimatyā agacchataṃ*)" (Ṛ. Saṃ. 10-39-7) **GLOSS**
+
+From the epithet नाधमाना (*nādhamānā*) it is also evident that she is a woman who is a devotee and praiser of the Aśvin deities. The meaning "praisers" for the word नाधमानाः (*nādhamānāḥ*) is well known in many places (1-18-10; 1-181-7, etc.). In all these mantras it is said only that the Aśvin deities accepted the prayer of the woman Vadhrimati; it does not appear that another man prayed on her behalf. But the two words Saptavadhri and Vadhrimati also give room for the view that these two were husband and wife. How this matter is to be supported is as follows. In the present sūkta, that is, in the 28th sūkta of the fifth maṇḍala, from the 1st to the 3rd mantra Saptavadhri prays to the Aśvin deities to take part in his sacrifice and drink the soma. From the 4th to the 6th mantra he prays that a son may be born to his wife by an easy delivery. Or else, remembering what the Aśvin deities had formerly granted to his wife, he may now himself also have prayed to the Aśvin deities for his own release. But as for who this Saptavadhri is, one might say that he is the well-known Ātri himself. How? One might say that the very Atri seer who, suffering in darkness, was released from the pit (Ṛbīsa) by the Aśvin deities is this Saptavadhri. How?
+
+युवमृबीसमुत तप्तमत्रय ओमन्वंतं चक्रथुः सप्तवध्रये ॥ (*yuvamṛbīsamuta taptamatraya omanvaṃtaṃ cakrathuḥ saptavadhraye ‖*) (Ṛ. Saṃ. 10-39-9)
+
+आवंतमत्रये गृहं कृणुतं युवमश्विना । अंति षद्भूतु वामवः ॥ (*āvaṃtamatraye gṛhaṃ kṛṇutaṃ yuvamaśvinā | aṃti ṣadbhūtu vāmavaḥ ‖*) (Ṛ. Saṃ. 8-73-7) **GLOSS**
+
+प्र सप्तवध्रिराशसा धारामग्नेरशायत । अंति षद्भूतु वामवः ॥ (*pra saptavadhrirāśasā dhārāmagneraśāyata | aṃti ṣadbhūtu vāmavaḥ ‖*) (Ṛ. Saṃ. 8-73-9) **GLOSS**
+
+In mantras such as these, the word Saptavadhri appears to be an epithet of Atri. That is, the identity of Saptavadhri and Atri has been stated. What is called the wooden trough is also stated to be the very Ṛbīsa. The statement in the Bṛhaddevatā shows the identity of these two. That is, if it is said to be a deep hollow in a tree that goes down as far as the depth of the earth, then the statement of the identity of the two becomes consistent. Then there is sense also in saying that the two qualities, darkness and heat, were present together. On this occasion room remains also for another kind of conjecture.
+
+### Printed p. iv
+
+त्यं चिदश्वं न वाजिनमरेणवो यमत्नत । दृढं ग्रंथिं न विष्यतमत्रिं यविष्ठमा रजः ॥ (*tyaṃ cidaśvaṃ na vājinamareṇavo yamatnata | dṛḍhaṃ graṃthiṃ na viṣyatamatriṃ yaviṣṭhamā rajaḥ ‖*) (Ṛ. Saṃ. 1-143-2)
+
+On the basis of the statement there that Atri, bound by a rope, was released from bondage, there is a view that the word Saptavadhri may be explained thus: because Atri was bound with a rope having seven loops (pots), Atri may be called Saptavadhri. But all these are, for the present purpose, conjectures. For saying that the meaning given above is the exact one, some more proofs are necessary.
+
+Immediately upon the conclusion of the fifth maṇḍala, the greatness of Bharadvāja, famous as the seer of the sūktas of the sixth maṇḍala, is expounded. The sūktas of this great seer set forth many spiritual matters and explain the secret of principles (tattva). Very useful matters are also contained in them. For example, in the 13th mantra of Ṛ. Saṃ. 6-16 it is stated that Atharvan churned Agni in the lotus (puṣkara). The meaning of this word puṣkara, and what is meant by saying that Agni was established in the puṣkara, have been explained clearly in the Special Topics of that same mantra. The matter of Atharvan also has been stated there concisely. In the Special Topics there, the discussion of the meanings of principles has been carried on taking only Vedic passages as proof. Because the matters expounded in Vedic passages and those expounded in Purāṇic passages differ in many instances, no conclusion at all rests on Purāṇic passages. But since the matter of Atharvan, as it is expounded in Vedic passages, is stated in the same way in the Mahābhārata, only the substance of the passages of the Mahābhārata is given here. In it is stated how Atharvāṅgiras caused the hidden Agni, who had concealed himself, to become manifest again. Its detail is stated in the 224th chapter of the Araṇyaparvan of the Mahābhārata as follows.
+
+Sahāgni is a dweller in the waters. For that very reason he has the name Avana **NOTE**. A woman named Muditā is the wife of this Sahāgni. This Sahāgni is the lord of the three worlds. He had a son named Adbhuta. All worship this Adbhutāgni as the Self of the universe. He has another name also, Satvabhuk **NOTE**. Bhūtāgni is his son. Adbhutāgni, Bhūtāgni and all these are of visible form. Only Sahāgni, who is the origin of them all, is imperceptible. This same Sahāgni is always sought by the gods. (देवास्तं नाधिगच्छंति मार्गमाणा यथातथं ॥ (*devāstaṃ nādhigacchaṃti mārgamāṇā yathātathaṃ ‖*) verse 8). This Sahāgni, seeing his grandson Śavāgni coming, entered the ocean from fear that he would touch him. However much the gods searched, they did not find him. Then Sahāgni approached Atharvan. Atharvan was then in severe austerity. Then he said to him, "O hero, I am powerless. On my behalf do you carry the oblation to the gods. Henceforth let the name Piṅgākṣa (Agni) be yours,"
+
+### Printed p. v
+
+and having said so, he hid himself in another place within the ocean. Then the fishes told the gods the place where he was. Then Sahāgni cursed the fishes. Again he pressed Atharvāṅgiras himself for the performance of that task. Even then Atharvan did not consent. Then great seers such as Bhṛgu and Aṅgiras, with great effort, raised Atharvan up from his austerity. Heightened by the power of this austerity, Atharvan began to blaze with abundant radiance. (भृशं जज्वाल तेजस्वी तपसाप्यायितश्चिखी (*bhṛśaṃ jajvāla tejasvī tapasāpyāyitaścikhī*)). Seeing this Atharvāṅgiras, Agni again took fright and hid himself in the great ocean. Seeing that, the whole world was seized with fear. Then the gods came again, worshipped Atharvan and took refuge with him. Then Atharvan **NOTE** churned the ocean in the presence of all. And he summoned Agni to come from there. Thereupon Agni, summoned by Atharvan, bore the oblations of the gods. For that very reason the name Atharvāgni also came to him. Thus the greatness of Atharvan is praised. Other qualities of Atharvan and his exceeding power are stated in many places.
+
+In the introduction to the sixth maṇḍala, when stating the personal power of Bharadvāja, the relation between Abhyāvartin and Bharadvāja was stated. But its detail was not given. In the 27th sūkta **NOTE** of the 6th maṇḍala the two names Abhyāvartin and Sṛñjaya are well known. What is the mutual relation of Abhyāvartin and Sṛñjaya here, and what is the relation they have with Bharadvāja? This has to be considered here.
+
+द्वया अग्ने रथिनो विंशतिं गा वधूमतो मघवा मह्यं सम्राट् । अभ्यावर्ती चायमानो ददाति दूणाशेयं दक्षिणा पार्थवानां ॥ (*dvayā agne rathino viṃśatiṃ gā vadhūmato maghavā mahyaṃ samrāṭ | abhyāvartī cāyamāno dadāti dūṇāśeyaṃ dakṣiṇā pārthavānāṃ ‖*) (Ṛ. Saṃ. 6-27-8)
+
+Here the fact that Abhyāvartin, the wealthy one, son of Cayamāna, the emperor, gave generously to Bharadvāja is reported to Agni. We must examine whether this Abhyāvartin is the same as the Sṛñjaya praised in the preceding mantra, or another person. In "सृंजयाय तुर्वशं परादात् (*sṛṃjayāya turvaśaṃ parādāt*)" (Ṛ. Saṃ. 6-27-7) the friendship of Sṛñjaya and Bharadvāja is stated. If this Sṛñjaya is Abhyāvartin, then he must be the lord of the people called Sṛñjayas. But whether the epithet Daivavāta in this mantra (7) is connected with Sṛñjaya, or he is someone else, that is, whether one named Daivavāta among the Sṛñjayas is to be understood as the lord:
+
+आयं यः सृंजये पुरो दैववाते समिध्यते । द्युमा अमित्रदंभनः ॥ (*āyaṃ yaḥ sṛṃjaye puro daivavāte samidhyate | dyumā amitradaṃbhanaḥ ‖*) (Ṛ. Saṃ. 4-15-4)
+
+Here the word Sṛñjaya is a personal name. Sāyaṇa has explained it as the son of one named Devavāta, a soma-sacrificer by the name of Sṛñjaya. But there also it appears more natural to explain it as a man named Daivavāta born in the line of Sṛñjaya. How? 
+
+### Printed p. vi
+
+In his commentary on the 4th mantra of Ṛ. Saṃ. 4-15, Sāyaṇa quotes a mantra of the Taittirīya-saṃhitā and states that the Sṛñjayas are well known as soma-sacrificers. The explanation of that passage of the Saṃhitā is as follows:
+
+वासिष्ठो ह सात्यहव्यो देवभागं पप्रच्छयत्सृंजयान्नहुयाजिनोऽयायजो यज्ञे यज्ञं प्रत्यतिष्ठिपासि यज्ञपता३विति स होवाच यज्ञपताविति सत्याद्वै सृंजयाः परा बभूवुरिति होवाच ॥ (*vāsiṣṭho ha sātyahavyo devabhāgaṃ papracchayatsṛṃjayānnahuyājino 'yāyajo yajñe yajñaṃ pratyatiṣṭhipāsi yajñapatā3viti sa hovāca yajñapatāviti satyādvai sṛṃjayāḥ parā babhūvuriti hovāca ‖*) (Kai Saṃ. 6-6-2-2 **NOTE**) **GLOSS**
+
+In these passages the Sṛñjayas are specified as performers of many sacrifices and as soma-sacrificers. But there also Bhaṭṭabhāskara has explained the word Sṛñjaya as the inhabitants of a country of that name. Sāyaṇa has always explained the word Sṛñjaya as a personal name. In Ṛ. Saṃ. 6-27-7, "एतन्नाम्ने राजे । (*etannāmne rāje |*)" he has stated: to the king having the name Sṛñjaya. Likewise,
+
+प्रस्तोक इन्नु राधसस्त इंद्र दश कोशयार्दश वाजिनोऽदात् । (*prastoka innu rādhasasta iṃdra daśa kośayārdaśa vājino 'dāt |*) (Ṛ. Saṃ. 6-47-22) **GLOSS**
+
+महि राधो विश्वजन्यं दधानान्भरद्वाजान्त्सार्ज्जयो आळ्वयुष्ट । (*mahi rādho viśvajanyaṃ dadhānānbharadvājāntsārjjayo āḷvayuṣṭa |*) (Ṛ. Saṃ. 6-47-25) **GLOSS**
+
+in all such places he has explained it as Prastoka, the son of Sṛñjaya. Moreover, nowhere has he shown an identity of Sṛñjaya and Abhyāvartin. Without making Daivavāta an epithet of the word Sṛñjaya, he has explained, "देववातवंशोत्पन्नाय अभ्यावर्तिनाम्ने राज्ञे । (*devavātavaṃśotpannāya abhyāvartināmne rājñe |*)", that is, to the king named Abhyāvartin, born in the line of Devavāta. Then **NOTE**
+
+देवभागः श्रौतर्षः स उभयेषां कुरूणां च सृञ्चयानां च पुरोहित आस परमता वै सा ॥ (*devabhāgaḥ śrautarṣaḥ sa ubhayeṣāṃ kurūṇāṃ ca sṛñcayānāṃ ca purohita āsa paramatā vai sā ‖*) (Śa. Brā. 2-4-4-25)
+
+Devabhāga Śrautarṣa was priest jointly of the Kurus and of the Sṛñjayas. Passages such as this support this view. Because these same Sṛñjayas committed an offence against Bhṛgu,
+
+### Printed p. vii
+
+various kinds of loss befell them, as is known from a passage of the Atharvaveda (Atha. Ve. 5-19-1). But the passage of the Taittirīya-saṃhitā quoted above (Tai. Saṃ. 6-6-2-2) states clearly that this loss befell them because the Sṛñjayas showed a certain kind of lapse in their Vedic rite. There is no room to say definitely what the country of these same Sṛñjayas was. Bhaṭṭabhāskara, in his commentary on the above passage of the Saṃhitā, has stated only that it was a particular country. Western scholars such as Hillebrandt hold the opinion that they lived with Divodāsa in the country west of the river Sindhu. Zimmer states that it was the source of the river Sindhu. But for neither opinion have exact grounds been given. But since their friends the Tṛtsus were dwellers in the middle country, there is room to say that the Sṛñjayas had occupied the region east of the river Sindhu. In the account of the history of this line there is an indication in a passage of the Śatapatha-brāhmaṇa.
+
+दुष्परीतुर्ह पौग्ंसायनः । दशपुरुषग्ंराज्यादपरुद्ध आस रेवोत्तरसमु ह पाटवं चाक्रग्ं स्थपतिग्ं सृंजया अपरुरुधुः ॥ (*duṣparīturha paugṃsāyanaḥ | daśapuruṣagṃrājyādaparuddha āsa revottarasamu ha pāṭavaṃ cākragṃ sthapatigṃ sṛṃjayā aparurudhuḥ ‖*) (Śa. Brā. 12-9-3-1)
+
+Duṣṭarītu, of the Pṛṃsāyana line **NOTE**, who had ruled the kingdom for ten generations, was driven out by the Sṛñjayas. The Sṛñjayas also drove out of the kingdom Revottara Pāṭava Cākrasthapati. Then Cākrasthapati spoke to Duṣṭarītu thus:
+
+स होवाच । दुष्टरीतुं पौग्ंसायनं सौत्रामण्या त्वा याजयानि यदिदग्ं सृंजयेषु राष्ट्रं तत्त्वयि धास्यामीति ॥ (*sa hovāca | duṣṭarītuṃ paugṃsāyanaṃ sautrāmaṇyā tvā yājayāni yadidagṃ sṛṃjayeṣu rāṣṭraṃ tattvayi dhāsyāmīti ‖*) (Śa. Brā. 12-9-3-2)
+
+"I shall have the sacrifice called Sautrāmaṇī performed for you. As its fruit, the kingdom seized by the Sṛñjayas will come to you again." He gave this assurance; thus the victory of the Sṛñjayas and their struggle with others are described.
+
+It has been stated above that Sāyaṇa's commentary gives one opinion at one time and another at another. It has also been stated above that he has explained Daivavāta once as Abhyāvartin and another time as Sṛñjaya. But it is understood that Abhyāvartin and Sāñjaya **NOTE**, of the Sṛñjaya line, are different persons.
+
+अभ्यावर्ती चायमानः प्रस्तोतश्चैव सांर्जयः । आजग्मतुर्भरद्वाजं जितौ वारशिख्ययुधि ॥ (*abhyāvartī cāyamānaḥ prastotaścaiva sāṃrjayaḥ | ājagmaturbharadvājaṃ jitau vāraśikhyayudhi ‖*) (Bṛ. De. 5-124)
+
+Abhyāvartin, son of Cayamāna, and Prastoka, son of Sṛñjaya, defeated by the Vārāśikhas (the sons of an asura named Varaśikhara), came to Bharadvāja.
+
+### Printed p. viii
+
+अभिगम्योचतुस्तौ तं प्रसाद्याख्याय नामनी । युधि वारशिखैर्ब्रह्मन्नानां विद्वि विनिर्जिता ॥ (*abhigamyocatustau taṃ prasādyākhyāya nāmanī | yudhi vāraśikhairbrahmannānāṃ vidvi vinirjitā ‖*) (Bṛ. De. 5-125)
+
+Then the two of them, reciting their names and saluting Bharadvāja, said, "O preceptor, both of us have been defeated by the Vārāśikhas."
+
+भवत्पुरोहितावानां क्षत्रबंधून् जयेवहि । क्षत्रं तदपि विज्ञेयं ब्रह्म यत्पाति शाश्वतं ॥ (*bhavatpurohitāvānāṃ kṣatrabaṃdhūn jayevahi | kṣatraṃ tadapi vijñeyaṃ brahma yatpāti śāśvataṃ ‖*) (Bṛ. De. 5-12 **NOTE**)
+
+"With you as our priest we shall conquer the other kṣatriyas. The kṣatriya duty is to protect the Brahmin priest for ever," they said. The help that Bharadvāja then gave them has been stated further on, when his matter is explained.
+
+तौ तु नारशिखान् जित्वा ततोऽभ्यावर्तिसांर्जयौ । भरद्वाजाय गुरवे ददतुर्निविधं वसु ॥ (*tau tu nāraśikhān jitvā tato 'bhyāvartisāṃrjayau | bharadvājāya gurave dadaturnividhaṃ vasu ‖*) (Bṛ. Je. 5-13 **NOTE**) **GLOSS**
+
+Then the two of them conquered the Vārāśikhas and provided many kinds of wealth for their preceptor Bharadvāja; thus the power of Bharadvāja also is stated by this means.
+
+To publish in simple Kannada, with a critical translation, such a Ṛgveda-saṃhitā, which is most ancient, most profound, most extensive, and the foundation of all the śāstras, is not an easy task. Nevertheless, with the weighty purpose that through such a great undertaking all people, from the learned to the unlettered, may gain growth of knowledge and become worthy of the grace of God, the occupant of the throne of Karnataka, the lover of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, Śrī Jayacāmarājendra Oḍeyar Bahadur, G.C.B., G.C.S.I., the Mahāprabhu, and his Government, are encouraging with their generous patronage the publication of this work, which can be accomplished only at great cost; this must be called the merit of the whole body of the people of Karnataka. For such a generous-minded lord of ours, for his family, for the princesses, for the prince bearing the auspicious name Śrīkaṇṭhadatta Nṛsiṃharāja Oḍeyar, and for the whole body of subjects as well, I pray that the Lord of all, the Veda-puruṣa, may bestow, even more abundantly, all prosperity such as long life, health and wealth, which are worldly fruits, and the spiritual knowledge that belongs to the highest good.
+
+Mysore,
+Vijaya year, Caitra Śukla Paurṇamāsī, Monday,
+30-3-1953
+Translator:
+H. P. Venkata Rao,
+
 ### Printed p. 1
 
 Om. Śrī. Homage to Śrī Gaṇādhipati.

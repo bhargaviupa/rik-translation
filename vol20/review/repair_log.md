@@ -7,3 +7,4 @@
 - 2026-11-18 w0521 (printed pp. 521-526): the agent repaired work/w0521/kn.md (Sūkta 13 Ṛk 6: stray "॥ శ్రీరామ ॥" line removed, Pratipadārtha label added, `> ` prefixes stripped) with a Python script instead of `batch.py fix`, so no fix-log entry; the window then passed all gates. Logged here after the fact.
 - 2026-11-18/19 printed pp. 676-681 (Sūkta 18 Ṛk 4 Gist): "Sāyaṇa's seer doubted" → "the seer doubted" (slip in the Gist; Sāyaṇa is not the seer); nothing else changed.
 - 2026-11-19 printed pp. 792-797 (Sūkta 24 Ṛk 7 Pratipadārtha): "make wear away, (do not)" → "do not make wear away" (the Kannada gloss is "ನ ಜರಂತಿ—ಕ್ಷಯಿಸುವಂತೆ ಮಾಡುವುದಿಲ್ಲವೋ"; the parenthetical was a remark of the agent's); nothing else changed.
+- front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 13 NOTE rows added at the top of review/notes.tsv.
