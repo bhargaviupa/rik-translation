@@ -27500,6 +27500,255 @@ Sāyaṇa says: O Indra, rejoicing (रराणः (*rarāṇaḥ*)), you take 
 - उरुं (*uruṃ*)—as a spacious one
 - कृधि (*kṛdhi*)—make
 
+### Printed p. 780
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have attained delight, know the oblation in the form of the purodāśa offered by us. Drink quickly the Soma juice mixed with curds and the like. Sit down on this seat of darbha grass prepared by the sacrificer. Make the place of the sacrificer who desires your service a spacious one.
+
+##### English translation
+Accept, Indra, who are condescending, our cakes and butter : drink the Soma mixed with curds: sit down upon this sacred grass (strewn by) the worshipper : grant ample possessions to him who depends upon you.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मं॑दस्वा॒ ह्यनु॒ जोष॑मुग्र॒ प्र त्वा॑ य॒ज्ञास॑ इ॒मे  ॑
+> अश्नु वंतु ।  
+> प्रेमे हवा॑सः पुरुहू॒तम॒स्मे आ त्वा॒यं धीरव॑स इंद्र  
+> यम्याः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मंदस्व । हि । अनु । जोषं । उग्र । प्र । त्वा । यज्ञासः । इमे । अश्नु वंतु ।  
+> प्र । इमे । हवासः । पुरुहूतं । अस्मे इति । आ । त्वा । इयं । धीः । अवसे ।  
+> इंद्र । यम्याः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रोद्धर्णबलेंद्र स त्वमनु जोषं कामानुगुणं यथा भवति तथा
+> मंदस्व । मोदस्व ॥ हिशब्दः पादपूरणः । हियोगे मंदस्वेत्याख्यातस्य व्यत्ययात्सर्वानुदात्तत्वं ॥ इमे यज्ञासो यज्ञाः सोमास्त्वा त्वां प्राश्नुवंतु । प्राप्नुवंतु । हे पुरुहूत बहुभिराहूतेंद्र त्वामस्मे अस्मदीयानीमे हवासो हवाः
+> स्तोत्राणि प्राप्रुवंतु । इयं धीः स्तुतिस्त्वा त्वामवसेऽस्माकं रक्षणाया यम्याः ।
+> आयच्छतु । नियच्छतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra of fierce strength (उग्रोद्धर्णबलेंद्र (*ugroddharṇabaleṃdra*)), rejoice (मंदस्व (*maṃdasva*), meaning मोदस्व (*modasva*)) according to your pleasure (अनु जोषं (*anu joṣaṃ*)), that is, as agrees with your desires. The word हि (*hi*) is a filler. May these sacrifices (यज्ञासः (*yajñāsaḥ*)), that is, these Somas, reach you (प्राश्नुवंतु (*prāśnuvaṃtu*), meaning प्राप्नुवंतु (*prāpnuvaṃtu*)). O Puruhūta, invoked by many, may these our invocations (हवासः (*havāsaḥ*), meaning हवाः (*havāḥ*), praises) reach you. May this praise (धीः (*dhīḥ*), glossed as "praise") draw you (यम्याः (*yamyāḥ*), meaning आयच्छतु (*āyacchatu*), नियच्छतु (*niyacchatu*)) to our protection (अवसे (*avase*)). **NOTE**
+
+### Printed p. 781
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—O Indra of exceedingly great strength
+- सः (*saḥ*)—you
+- अनु जोषं (*anu joṣaṃ*)—as much as satisfies you
+- मंदस्व (*maṃdasva*)—experience delight
+- इमे यज्ञासः (*ime yajñāsaḥ*)—these Soma juices
+- त्वा (*tvā*)—you
+- प्र अश्नुवंतु (*pra aśnuvaṃtu*)—let them pervade
+- पुरुहूत (*puruhūta*)—who are called by many
+- इंद्र (*iṃdra*)—O Indra
+- अस्मे (*asme*)—recited by us
+- इमे हवासः (*ime havāsaḥ*)—these praises
+- प्र (*pra*)—let them come and reach you
+- इयं धीः (*iyaṃ dhīḥ*)—these actions too
+- त्वा (*tvā*)—you
+- अवसे (*avase*)—to urge for our protection
+- आ याम्याः (*ā yāmyāḥ*)—let them come and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of exceedingly great strength, experience as much delight as satisfies you. May these Soma juices pervade you. O Indra, called by many, may these praises recited by us come and reach you. To urge you to our protection, may it come and join you.
+
+##### English translation
+Rejoice, fierce Indra, according to your pleasure : let these libations reach you : invoked of many, may these our invocations ascend to you : may this praise influence you for protection.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वः॑ सखायः॒ सं यथा॑ सु॒तेषु॒ सोमे॑भिरीं पृणता  ॒॑
+> भोजमिंद्रं ।  
+> कु॒वित्तस्मा॒ अस॑ति नो॒ भरा॑य॒ न सुष्टि॒मिंद्रोऽव॑से मृधाति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वः । सखायः । सं । यथा । सुतेषु । सोमेभिः । ईं । पृणत । भोजं ।  
+> इंद्रं ।  
+> कुवित् । तस्मै । असति । नः । भरायॆ । न । सुस्विं । इंद्रः । अवसे । मृधाति ॥ ९ ॥
+
+### Printed p. 782
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः स्तोतारो वो यूयं सोमेषु सुतेष्वभिषुतेषु सत्सु
+> भोजं दातारं तमीमेतमिंद्रं सोमेभिः सोमैर्यथाकामं सं पृणत ।
+> संपूरयत । तस्मा इंद्राय कुविद्बहूपकरणं । कुविदिति बहुनामैतत् । आसति ।
+> अस्तु । किमर्थं । नोऽस्माकं भराय भरणाय पोषणाय । इंद्रः सुष्टिमभिषवणशीलं यजमानमवसे तर्पणाय न मृधाति । न बाधते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O friends (सखायः (*sakhāyaḥ*)), praisers, when the Somas have been pressed (सुतेषु (*suteṣu*)), fill together (सं पृणत (*saṃ pṛṇata*), meaning संपूरयत (*saṃpūrayata*)) with Somas, as you desire, this very Indra (तमीमेतमिंद्रं (*tamīmetamiṃdraṃ*)), the bountiful one (भोजं (*bhojaṃ*)), that is, the giver. For that Indra let there be abundant provision (कुवित् (*kuvit*), which he says is a name meaning "much"; आसति (*āsati*) meaning अस्तु (*astu*)). For what purpose? For our (नः (*naḥ*)) support, that is, nourishment (भराय (*bharāya*)). Indra does not harm (न मृधाति (*na mṛdhāti*), meaning न बाधते (*na bādhate*)) the sacrificer who is inclined to press Soma (सुष्टिं (*suṣṭiṃ*)), for his satisfaction (अवसे (*avase*), meaning तर्पणाय (*tarpaṇāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O praisers
+- वः (*vaḥ*)—you
+- सुतेषु (*suteṣu*)—when the Soma juice is pressed
+- भोजं (*bhojaṃ*)—the giver
+- तं (*taṃ*)—the famous one
+- ईं इंद्रं (*īṃ iṃdraṃ*)—this same Indra
+- सोमेभिः (*somebhiḥ*)—with Soma juices
+- सं पृणत (*saṃ pṛṇata*)—satisfy
+- नः (*naḥ*)—our
+- भराय (*bharāya*)—for the nourishment
+- तस्मै (*tasmai*)—for that Indra
+- कुवित् (*kuvit*)—a very large share
+- असति (*asati*)—let there be
+- इंद्रः (*iṃdraḥ*)—Indra
+- सुष्टिं (*suṣṭiṃ*)—the sacrificer who presses and offers Soma
+- अवसे (*avase*)—for his satisfaction
+- न मृधाति (*na mṛdhāti*)—does not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, when you have pressed the Soma juice, satisfy with Soma juices this same famous Indra, the giver. For our nourishment let a very large share be prepared for that Indra. Indra does not harm, for his own satisfaction, the sacrificer who presses and offers Soma.
+
+##### English translation
+Friends, when the libations are effused, satisfy that liberal Indra with the Soma juices : let there be plenty for him, that (he may provide) for our nourishment: Indra never neglects the carc of him who presents copious libations.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वेदिंद्रः॑ सु॒ते अ॑स्तावि॒ सोमे॑ भ॒रद्वा॑जेषु॒ क्षय॒दिन्म॒घोनः॑।  
+> अस॒द्यथा॑ जरि॒त्र उ॒त सू॒रिरिंद्रो॑ रा॒यो वि॒श्ववा॑रस्य दा॒ता ॥
+
+### Printed p. 783
+
+> "पापः"  
+> एव । इत् । इंद्रः । सुते । अस्टावि । सोमे । भरत्वाजेषु । क्षयत् । इत् ।  
+> मघोनः ।  
+> असत् । यथा । जरित्रे । उत । सूरिः । इंद्रः । रायः । विश्वनारस्य । दाता ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघोनो धनवतो हविष्मतो यजमानस्य क्षयदीश्वर इंद्रः सोमे
+> सुतेऽभिषुते सति भरद्वाजेषु भरद्वाजे मय्येवैवमस्तावि। स्तुतोऽभूत्। इंद्रो
+> जरित्रे स्तोत्रे सूरिः सन्मार्गे प्रेरको यथासत् भवेत् । उतापि च विश्ववारस्य
+> विश्वैर्वर्णीयस्य रायो धनस्य दाता यथा भवेत् तथास्तावीति संबंधः ॥ इदिति
+> द्वयं पूरणं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra, the lord (क्षयत् (*kṣayat*), meaning ईश्वर (*īśvara*)) of the sacrificer who is wealthy (मघोनः (*maghonaḥ*)), that is, rich in oblations, has been praised in this very way (एव इत् (*eva it*)) in me, Bharadvāja (भरद्वाजेषु (*bharadvājeṣu*)), when the Soma has been pressed. The sense is that he has been praised so that Indra may be, for the praiser (जरित्रे (*jaritre*)), a guide (सूरिः (*sūriḥ*)) on the good path, and also the giver of the wealth (रायः (*rāyaḥ*)) that is desired by all (विश्ववारस्य (*viśvavārasya*)). **NOTE** He says that the two words as given are fillers: इदिति द्वयं पूरणं (*iditi dvayaṃ pūraṇaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in whatever manner
+- इंद्रः (*iṃdraḥ*)—Indra
+- जरित्रे (*jaritre*)—for the praiser
+- सूरिः (*sūriḥ*)—as the guide on the good path
+- असत् (*asat*)—he will become
+- उत (*uta*)—and
+- विश्ववाराय (*viśvavārāya*)—desired by all
+- रायः (*rāyaḥ*)—of wealth (of the wealth)
+- दाता (*dātā*)—as the giver (he will become in that same manner)
+- मघोनः (*maghonaḥ*)—to the sacrificer who is wealthy in the form of the oblation
+- क्षयत् इत् (*kṣayat it*)—the lord
+- इंद्रः (*iṃdraḥ*)—Indra
+- सोमे (*some*)—the Soma juice
+- सुते (*sute*)—when it is pressed
+- भरद्वाजेषु (*bharadvājeṣu*)—by me, who am Bharadvāja
+- एव इत् (*eva it*)—in this very manner
+- अस्तावि (*astāvi*)—was praised
+
+In whatever manner Indra will become the guide on the good path for the praiser, and the giver of the wealth desired by all, in that very manner Indra, the lord of the sacrificer who is wealthy in the form of the oblation, was praised in this way by me, Bharadvāja, when the Soma juice was pressed.
+
+##### English translation
+Thus has Indra, the lord of the opulent, been glorified by the Bharadwajas, upon the libation being effused, that he may be the director of his eulogist (to virtue), that Indra may be the giver of all desirable riches.
+
+### Printed p. 784
+
+## Sūkta 24 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयेऽनुवाके विंशति सूक्तानि। तत्र वृषा मद इति दशर्चं प्रथमं सूक्तं
+> भरद्वाजस्यार्षं त्रैष्टुभमैंद्रं । वृषेत्यनुक्रांतं ॥ विषुवति निष्केवल्य एतत्तूक्तं ।
+> सूत्रितं च । वृषा मदः प्र मुंहिष्ठाय ॥ आ. ८-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: in the third anuvāka there are twenty sūktas. Of these, the first is the sūkta of ten Ṛks beginning वृषा मदः (*vṛṣā madaḥ*). Its seer is Bharadvāja, its metre is Triṣṭubh, and its deity is Indra; the Anukramaṇī says वृष (*vṛṣa*). This sūkta is used in the Viṣuvat day at the niṣkevalya recitation. It is also given in the sūtra: वृषा मदः प्र मुंहिष्ठाय (*vṛṣā madaḥ pra muṃhiṣṭhāya*), Ā. 8-6. **NOTE**
+
+##### Anuvāda
+
+In the third anuvāka of the sixth maṇḍala there are twenty sūktas. Among them this sūkta beginning वृषा मदः (*vṛṣā madaḥ*) is the first. It has ten Ṛks. Bharadvāja is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. The Anukramaṇī, beginning with वृषा (*vṛṣā*), states that this sūkta is used at the Viṣuvat sacrifice for the niṣkevalya śastra mantras; it is explained by the sūtra of the Āśvalāyana Śrauta Sūtra वृषा मदः प्र मंहिष्ठाय (*vṛṣā madaḥ pra maṃhiṣṭhāya*) (Ā. 8-6).
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 3; Sūkta 24
+- Aṣṭaka 4; Adhyāya 6; Varga 17, 18
+- Number of Ṛks in the sūkta: 10
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Indra
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ मद॒ इंद्रे॒ श्लोक॑ उ॒क्था सचा॒ सोमे॑षु सुत॒पा  ॒॑
+> ऋजीषी ।  
+> अ॒र्च॒त्र्यो॑ म॒घवा॒ नृभ्य॑ उ॒क्षैर्द्यु॒क्को राजा॑ गि॒रामक्षि॑तोतिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । मदः । इंद्रे । श्लोकः । उक्ता । सचा । सोमेषु । सुतपाः । यजीषी ।  
+> अर्चत्र्यः । मघवा । नृभ्यः । उक्षैः । द्युक्षः । राजा । गिरां । अक्षितऊतिः ॥ १ ॥
+
+### Printed p. 785
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमेषु सोमवत्सु यागेष्टिंद्रे सोमपानजनितो मदो वृषा
+> यजमानस्य कामानां वर्षको भवति । यद्वा । सर्वजनाह्लादकस्य वर्षणस्य कर्ता
+> भवति । उक्कोक्षेन शस्त्रेण सचा सह श्लोकः स्तोत्ररूपः शब्दो वृषा भवति । सुतपा
+> अभिपुतस्य सोमस्य पाता ऋजीष्यजीषं गतरसमपि सोमं न परित्यजन्मघवा
+> धनवान् स चेंद्रो नृभ्यः स्तुतीनां नेतृभ्य उक्तैः स्तोत्रैरर्चत्र्योर्चनीयो
+> भवति । द्युक्षो द्युलोकनिवासो गिरां स्तुतीनां राजेश्वर इंद्रोऽक्षितोतिरक्षीणरक्षश्च भवति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: in the rites where Soma is present (सोमेषु (*someṣu*)), the exhilaration (मदः (*madaḥ*)) produced in Indra by drinking Soma is a rainer (वृषा (*vṛṣā*)), a shower of the sacrificer's desires; or else it is the maker of the rain that gladdens all people. Together with (सचा (*sacā*)) the recited śastra, the śloka, a word in the form of praise, also becomes a rainer. **NOTE** Indra is the drinker of the pressed Soma (सुतपाः (*sutapāḥ*)); he is ऋजीषी (*ṛjīṣī*), one who does not abandon even Soma whose juice has gone. **NOTE** He is wealthy (मघवा (*maghavā*)); that Indra becomes worthy of worship (अर्चत्र्यः (*arcatryaḥ*)) for the men (नृभ्यः (*nṛbhyaḥ*)), the leaders of praises, by the praises (उक्तैः (*uktaiḥ*)). He is the dweller in heaven (द्युक्षः (*dyukṣaḥ*)) and the lord (राजा (*rājā*)) of the praises (गिरां (*girāṃ*)), and he has unwasting protection (अक्षितोतिः (*akṣitotiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमेषु (*someṣu*)—in the sacrifices where Soma is offered
+- इंद्रे (*iṃdre*)—produced in Indra
+- मदः (*madaḥ*)—the delight
+- वृषा (*vṛṣā*)—becomes a rainer of desires for the sacrificers
+- उक्षा सचा (*ukṣā sacā*)—joined with the śastra mantra
+- श्लोकः (*ślokaḥ*)—the praise of Indra also (is a rainer of desires)
+- सुतपाः (*sutapāḥ*)—the drinker of Soma
+- ऋजीषी (*ṛjīṣī*)—the drinker of Soma that bears the name ऋजीव (*ṛjīva*) **NOTE**
+- मघवा (*maghavā*)—wealthy; Indra
+- नृभ्यः (*nṛbhyaḥ*)—for men who are praisers
+- उक्षैः (*ukṣaiḥ*)—by the recitation of the śastra mantras
+- अर्चत्र्यः (*arcatryaḥ*)—becomes worthy of worship
+- द्युक्षः (*dyukṣaḥ*)—dweller in the world of heaven
+- गिरां (*girāṃ*)—of the praises
+- राजा (*rājā*)—and the lord; Indra
+- अक्षितोतिः (*akṣitotiḥ*)—becomes one who has imperishable protection
+
+##### भावार्थ (Bhāvārtha)
+
+In the sacrifices where Soma is offered, the delight produced in Indra becomes a rainer of desires for the sacrificer. The praise of Indra joined with the śastra mantra also is a rainer of desires. Indra, who drinks Soma, who has the Soma named ऋजीषी (*ṛjīṣī*), and who is wealthy, becomes worthy of worship for the men who are praisers, through the recitation of the śastra mantras. Indra, who dwells in the world of heaven and is the lord of the praises, becomes also one who has imperishable protection.
+
+##### English translation
+At the rites at which the Soma (is offered) the exhilaration (produced) in Indra is a shower (of benefits to the offerer); so is the chaunted hymn with the (recited) prayer : therefore the drinker of the Soma, the partaker of the stale Soma, Maghavan, is to be propitiated by men with praises ; dweller in heaven, he is the lord of sacred songs, unwearied in the protection (of his votaries).
+
 ---
 
-**Progress note:** Done through printed p. 779. Mandala 6 sukta 23, rks 3-7 (pp. 774-779)
+**Progress note:** Done through printed p. 785. Mandala 6 sukta 23 rks 7-10; sukta 24 rk 1 (pp. 780-785)
