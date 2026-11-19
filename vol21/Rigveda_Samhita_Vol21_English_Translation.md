@@ -35127,6 +35127,269 @@ Your numerous enemies, Indra, have been reduced to subjection : effect at some t
 > मुषायत् ।  
 > अ॒जास॑श्च॒ शिग्र॑वो॒ यक्ष॑वश्च ब॒लिं शी॒र्षाणि॑ जभ्रु॒रश्वा॑नि ॥ १९ ॥
 
+### Printed p. 820
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आवत् । इंद्रं । यमुना । तृत्सवः । च । प्र । आत्र । भेदं । सर्वताता । मुषायत् ।  
+> अजासः । च । शिग्रवः । यक्षवः । च । बलिं । शीर्षाणि । जभ्रुः । अश्वानि ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन् सर्वताता सर्वतात् युद्धे य इंद्रो भेदं नास्तिकं भेदनामकं वा सुदासः शत्रुं प्र मुषायत् प्रामुष्णात् । अवधीदित्यर्थः । तमिंद्रं
+> यमुनावत् । अतोषयत् । तत्तीरवासी जनः सर्वोऽप्यतोषयदित्यर्थः ।
+> तृत्सवस्त्रत्सोः पुरुषाश्चावन् । अवदित्येकवचनं बहुवचनांततया विपरिणतं
+> सदत्र संबध्यते । किंचाजासोऽजाजनपदाः शिग्रवो जनपदा यक्षवश्च जनपदा
+> अश्वान्यश्वसंबंधीनि शीर्षाणि शिरांसि । युद्धे हतानामश्वानां शिरांसीत्यर्थः ।
+> बलिमुपहारं तस्मा इंद्रायोप जभ्रुः । उपजह्रुः । यद्वा । अश्वानि शीर्षाणि
+> युद्धे गृहीतान्मुख्यानश्वानिंद्रायोपहारं जह्रुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Here, in this battle, "sarvatātā" (that is, "sarvatāt"), Indra who slew ("pra muṣāyat", "prāmuṣṇāt") Bheda, the unbeliever, or the enemy of Sudās named Bheda: that Indra "Yamunā" gladdened; the meaning is that all the people living on its bank gladdened him. The men of Tṛtsu also gladdened him. Furthermore the Ajas, the Śigrus and the Yakṣus, who are peoples, offered to that Indra as tribute, "bali", the horse-heads, that is, the heads of horses killed in battle. Or else, the meaning is that they brought to Indra as an offering the chief horses taken in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्र सर्वताता (*atra sarvatātā*)—in this battle
+- यः (*yaḥ*)—which Indra
+- भेदं (*bhedaṃ*)—Bheda, who had fallen away from rites
+- प्र मुषायत् (*pra muṣāyat*)—slew completely
+- इंद्रं (*iṃdraṃ*)—that same Indra
+- यमुना (*yamunā*)—the Yamunā
+- आवत् (*āvat*)—gladdened
+- तृत्सवः च (*tṛtsavaḥ ca*)—the Tṛtsus also gladdened him
+- अजासः च (*ajāsaḥ ca*)—the people called Ajas
+- शिग्रवः (*śigravaḥ*)—the Śigrus
+- यक्षवश्च (*yakṣavaśca*)—and the Yakṣus
+- आश्वानि (*āśvāni*)—of the horses dead in battle
+- शीर्षाणि (*śīrṣāṇi*)—the heads
+- बलिं (*baliṃ*)—as an offering
+- जभ्रुः (*jabhruḥ*)—offered
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who in this battle completely destroyed Bheda, the enemy of Sudās, who had fallen away from rites: that same Indra the Yamunā and the Tṛtsus gladdened. The people called Ajas, the Śigrus and the Yakṣus offered the heads of the horses dead in battle as an offering (as a sacrifice).
+
+##### English translation
+The dwellers on the Yamuna and the Tritsus glorified Indra when he killed Bheda in battle : the Ajas, the Shigrus, the Yakshas, offered to him as a sacrifice the heads of the horses (killed in the cambat).
+
+### Printed p. 821
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त॑ इंद्र सुम॒तयो॒ न रायः॑ सं॒चक्षे॒ पूर्वा॑ उ॒षसो॒  ॑
+> न नूत्नाः॑ ।  
+> देव॑कं चिन्मान्यमा॒नं ज॑घं॒थाव॒ त्मना॑ बृह॒तः शंब॑रं भेत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ते । इंद्र । सुमतयः । न । रायः । संचक्षे । पूर्वाः । उषसः । न । नूत्नाः ।  
+> देवकं । चित् । मान्यमानं । जघंथ । अव । त्मना । बृहतः । शंबरं । भेत् ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव पूर्वाः पुरातनाः सुमतयः शोभनमतयो रायो
+> धनानि चोषसो न उषस इव न संचक्षे संख्यातुं न शक्याः । न नूत्ना नूतनाश्च
+> सुमतयो रायश्च न संचक्षे । किंच त्वं मान्यमानं मन्यमानस्य पुत्रं देवकं
+> देवकनामानं शत्रुं जघंथ । अवधीः । त्मना स्वयमेव बृहतो महतः शैलात्
+> शंबरं चाव भेत् । अवाभैत्सीरिति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your ancient good thoughts, "sumatayaḥ", and your riches, "rāyaḥ", cannot be counted, "na saṃcakṣe", any more than the dawns; nor can the new good thoughts and riches be counted. Furthermore you slew Devaka, the enemy of that name, the son of Manyamāna, and of your own accord, "tmanā", you split Śambara from the great mountain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- पूर्वाः (*pūrvāḥ*)—ancient
+- सुमतयः (*sumatayaḥ*)—thoughts of favour
+- रायः (*rāyaḥ*)—riches
+- उषसो न (*uṣaso na*)—just as the ever-recurring dawns cannot be counted
+- न संचक्षे (*na saṃcakṣe*)—it cannot at all be reckoned and counted
+- न नूत्नाः (*na nūtnāḥ*)—the riches that you now bestow cannot be counted either
+- मान्यमानं (*mānyamānaṃ*)—the son of Manyamāna
+- देवकं (*devakaṃ*)—Devaka also
+- जघंथ (*jaghaṃtha*)—you have slain
+- त्मना (*tmanā*)—impelled by yourself
+- बृहतः (*bṛhataḥ*)—from a great mountain
+- शंबरं च (*śaṃbaraṃ ca*)—Śambara also
+- अव भेत् (*ava bhet*)—you have split asunder
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the ever-recurring dawns cannot be counted, so your ancient thoughts of favour and your riches cannot be counted. Your present riches also cannot be counted. You have slain Devaka, the son of Manyamāna. Impelled by yourself, you have split Śambara asunder from a great mountain.
+
+### Printed p. 822
+
+##### English translation
+Your favours, Indra, and your bounties, whether old or new, cannot be counted like the (recurring) dawns ; you have slain Devaka, the son of Manyamana, and of your own will have cast down Sambara from the vast (mountain).
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये गृ॒हादम॑मदुस्त्वा॒ या प॑राश॒रः श॒तया॑तु॒र्वसि॑ष्ठः ।  
+> न ते॑ भो॒जस्य॑ स॒ख्यं मृ॑षं॒ताधा॑ सू॒रिभ्यः॑ सु॒दिना॒ व्यु॑च्छान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । गृहात् । अममदुः । त्वाया । पराशरः । शतयातुः । वसिष्ठः ।  
+> न । ते । भोजस्य । सख्यं । मृषंत । अध । सूरिभ्यः । सुदिना । वि । उच्चान् ॥ २१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पराशरः शतयातुर्बहुरक्षाः । बहूनि रक्षांसि बाधितुं यं
+> कामयंते स शतयातुर्बहूनां रक्षसां शातयिता वा । शक्तिर्वसिष्ठश्चैवमादयो
+> ये ऋषयस्त्वाया त्वदिच्छया गृहाद्गृहं प्राप्य ॥ ल्यब् लोपे द्वितीयार्थे
+> पंचमी । पा. २-३ २८-१ ॥ यद्वा । गृहात् गृहे ॥ सप्तम्यर्थे पंचमी ॥
+> प्राममदुः त्वां प्रतुष्टुवुः प्रकर्षण तर्पितवंतो वा ते पराशरप्रकृतयो
+> भोजस्य भोजकस्य पालस्य ते तव सख्यं सख्युः कर्म स्तोत्रं यजनं वा न
+> मृषंति । न विस्मरंति । मृष मर्षे । मर्षो मर्षणं । तन्न कुर्वंतीत्यर्थः ।
+> यतो न विस्मरंत्यधातो हेतोः सूरिभ्यः सूरीणां स्तोतृणामेषां ॥ [अत्र
+> विभक्तिव्यत्ययः ॥ सुदिना सुदिनानि व्युच्चान् । व्युच्चंति । निवसंति । उपगच्छंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, Parāśara, "śatayātu", is one of many rākṣasas, for those whom people desire to oppress many rākṣasas; or he is the destroyer of many rākṣasas. Śakti, Vasiṣṭha and the like, the sages who, through desire for you, having come from house to house, or else "gṛhāt" meaning "in the house", the ablative in the sense of the locative, "pra amamaduḥ", praised you, or greatly gratified you: they do not forget the friendship, that is, the act of a friend, the hymn or the sacrifice, of you, the Bhoja, the protector; "mṛṣa" is in the sense of forbearance, and they do not do that. Since they do not forget, therefore for the "sūris", the praisers, good days "vyucchān": they dwell, they approach; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतयातुः (*śatayātuḥ*)—(O Indra) the destroyer of many rākṣasas
+- पराशरः (*parāśaraḥ*)—Parāśara
+- वसिष्ठः (*vasiṣṭhaḥ*)—Vasiṣṭha (and)
+- ये (*ye*)—which sages
+- त्वाया (*tvāyā*)—from the desire to worship you
+- गृहात् (*gṛhāt*)—having entered the house
+- प्र अममदुः (*pra amamaduḥ*)—gratified you
+- भोजस्य (*bhojasya*)—(those sages) of the protector of all
+- ते (*te*)—your
+- सख्यं (*sakhyaṃ*)—friendship
+- न मृषंत (*na mṛṣaṃta*)—cannot forget
+
+### Printed p. 823
+
+- आध (*ādha*)—therefore
+- सूरिभ्यः (*sūribhyaḥ*)—for the praisers
+- सुदिना (*sudinā*)—good days
+- व्युच्छान् (*vyucchān*)—dawn
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the sages, Parāśara, the destroyer of many rākṣasas, Vasiṣṭha and others, who, from the desire to worship you, entered the house and gratified you, cannot forget the friendship of you, the protector of all. Therefore, surely, good days dawn for the praisers.
+
+##### English translation
+Parasara, the destroyer of hundreds (of Raksbasas), and Vasishtha, they who devoted to you, have glorified you in every dwelling, neglect not the friendship of you (their) benefactor : therefore :prosperous days dawn upon the pious.
+
+##### विशेषविषयगळु (Special Topics)
+
+पराशर (*parāśara*)—For this word Yāska has given the etymology:**NOTE**
+
+पराशरः पराशीर्णस्य वसिष्ठस्य स्थविरस्य जज्ञे । पराशरः शतयातुर्वसिष्ठः । इत्यपि निगमो भवति । इंद्रोऽपि पराशर उच्यते । परा शातयिता यातूनां । इंद्रो यातूनामभवत्पराशरः इत्यपि निगमो भवति ॥ (*parāśaraḥ parāśīrṇasya vasiṣṭhasya sthavirasya jajñe | parāśaraḥ śatayāturvasiṣṭhaḥ | ityapi nigamo bhavati | iṃdro 'pi parāśara ucyate | parā śātayitā yātūnāṃ | iṃdro yātūnāmabhavatparāśaraḥ ityapi nigamo bhavati ‖*) (Ni. 6-30)
+
+Parāśara is a sage, born of the sage Vasiṣṭha, whose body was worn out and slack. Vasiṣṭha had a son named Śakti. His son was Parāśara; that is, this Parāśara is a grandson of the sage Vasiṣṭha. This matter is stated in the Purāṇas and the like also. Why is "Parāśara" also a name of Indra? Because of परा शायिता यातूनां (*parā śāyitā yātūnāṃ*): since he beats down and destroys the rākṣasas, Indra also has the name Parāśara. The Śruti sentence quoted above supports this meaning.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वे नपु॑र्दे॒वव॑तः श॒ते गोर्द्वा रथा॑ व॒धूमं॑ता सु॒दासः॑ ।  
+> अर्ह॑न्नग्ने पैजव॒नस्य॒ दानं॒ होते॑व॒ सद्म॒ पर्ये॑मि॒ रेभ॑न् ॥
+
+### Printed p. 824
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वे इति । नपुः । देववतः । शते इति । गोः । द्वा । रथा । वधूमंता । सुदासः ।  
+> अर्हन् । अग्ने । पैजवनस्य । दानं । होताइव । सद्म । परि । एमि । रेभन् ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देववतो राज्यो नपुः पौत्रस्य पैजवनस्य पिजवनपुत्रस्य सुदासो राज्यो
+> गोर्गवां द्वे शते वधूमंता वधूसंयुक्तौ द्वा द्वौ रथा रथौ च देयं दानं
+> दानभूतान् रेभन् इंद्रं स्तुवन् अत एवार्हन्योग्योऽहं वसिष्ठो हे
+> अग्ने सद्म यज्ञगृहं होतेव वषट्कर्तेव पर्येमि । अत्राग्नेः संबोधनं
+> सर्वदेवमुख्यत्वप्रतिपादनार्थं न तु देवतात्वज्ञापनार्थमतद्देवताकत्वादस्य
+> सूक्तस्य ॥
+
+##### Gist of the bhāṣya
+
+Of Sudās, the king, the grandson of king Devavat, the son of Pijavana, two hundred cows and two chariots with brides, as the gift to be given, "rebhan", praising Indra:**NOTE** therefore I, Vasiṣṭha, "arhan", worthy, O Agni, go round the house of sacrifice like a hotṛ, a performer of the vaṣaṭ-call. The address to Agni here is to show that he is the chief of all the gods, not to make known that he is the deity, since this sūkta has another deity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- देववतः (*devavataḥ*)—of the king called Devavanta
+- नपुः (*napuḥ*)—the grandson
+- पैजवनस्य (*paijavanasya*)—and son of Pijavana
+- सुदासः (*sudāsaḥ*)—by Sudās
+- दानं (*dānaṃ*)—given as a gift
+- गोः (*goḥ*)—of cows
+- द्वे शते (*dve śate*)—the number two hundred
+- वधूमंता (*vadhūmaṃtā*)—furnished with brides
+- द्वा रथा (*dvā rathā*)—two chariots
+- रेभन् (*rebhan*)—praising
+- अर्हन् (*arhan*)—and being myself worthy of that gift
+- सद्म (*sadma*)—the house of sacrifice
+- होता इव (*hotā iva*)—like the performer of the vaṣaṭ-call
+- पर्येमि (*paryemi*)—I go round and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, praising the two hundred cows given as a gift by Sudās, the grandson of the king called Devavanta and son of Pijavana, and the two chariots furnished with brides, and being worthy of that gift, I go round the house of sacrifice like the performer of the vaṣaṭ-call and worship.
+
+##### English translation
+Praising the liberality of Sudas, the grandson of Devavat, the son of Paijavana, the donor of two hundred cows, and of two chariots with two wives, I, worthy (of the gift), circumambulate you Agni, like the ministrant priest in th chamber (of sacrifice).
+
+### Printed p. 825
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒त्वारो॑ मा पैजव॒नस्य॒ दानाः॒ स्मद्दि॑ष्टयः कृश॒निनो॑ निरे॒के ।  
+> ऋ॒ज्रासो॑ मा पृथिवि॒ष्ठाः सु॒दास॑स्तो॒कं तो॒काय॒ श्रव॑से  
+> वहंति ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चत्वारः । मा । पृजवनस्य । दानाः । स्मत् निर्दिष्टयः । कृशनिनः । निरेके ।  
+> यज्रासः । मा । पृथिविस्थाः । सुदासः । तोकं । तोकाय । श्रवसे । वहंति ॥ २३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पैजवनस्य पिजवनपुत्रस्य सुदासो राज्ञः स्मद्दिष्टयः प्रशस्तातिसर्जनाः
+> श्रद्धादिदानांगयुक्ताः कृशनिनो हिरण्यालंकारवंतो निरेके दुर्गतौ सत्यामृज्रास
+> यजुगामिनः पृथिविष्ठाः पृथिव्यां सुप्रतिष्ठिता दाना देयभूताश्चत्वारोऽश्वास्तोकं
+> पुत्रवत्पालनीयं मां वसिष्ठं रथे स्थितं तोकाय तोकस्य पुत्रस्य ॥ षष्ठ्यर्थे
+> चतुर्थी ॥ श्रवसेऽन्नाय यशसे वा वहंति । पुनर्मेति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+The gifts of Sudās the king, the son of Pijavana: four horses, "smaddiṣṭayaḥ", the praised bestowals, furnished with the parts of giving such as faith; "kṛśaninaḥ", adorned with gold; "ṛjrāsaḥ", going straight even in "nireke", in distress;**NOTE** "pṛthiviṣṭhāḥ", well established on the earth; "dānāḥ", fit to be given. They carry me, Vasiṣṭha, standing in the chariot, who am to be cherished like a son, "tokam", for the son, "tokāya" (the fourth case in the sense of the sixth), for food or for fame, "śravase". The words पुनर्मेति पूरणः (*punarmeti pūraṇaḥ*).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पैजवनस्य (*paijavanasya*)—of the son of Pijavana
+- सुदासः (*sudāsaḥ*)—given by Sudās
+- स्मद्धिष्टयः (*smaddhiṣṭayaḥ*)—fit for an excellent gift
+- कृशनिनः (*kṛśaninaḥ*)—filled with golden ornaments
+- निरेके (*nireke*)—in difficult regions
+- ऋज्रासः (*ṛjrāsaḥ*)—able to go straight
+- पृथिविष्ठाः (*pṛthiviṣṭhāḥ*)—established on the earth
+- दानाः (*dānāḥ*)—worthy of gift
+- चत्वारः (*catvāraḥ*)—four horses
+- तोकं (*tokaṃ*)—for our son
+- तोकाय (*tokāya*)—and for his son
+- श्रवसे (*śravase*)—for the gain of food
+- वहंति (*vahaṃti*)—carry us
+
+##### भावार्थ (Bhāvārtha)
+
+Four horses given by Sudās, the son of Pijavana, fit for an excellent gift, filled with golden ornaments, able to go straight even in difficult regions, established on the earth, worthy of gift, carry us for the sake of our son and the succession of sons and grandsons, and for the gain of food.
+
 ---
 
-**Progress note:** Done through printed p. 819. Ṛk 14-18 of Sūkta 18, Maṇḍala 7 (Anus and Druhyus, Tṛtsus, Bheda)
+**Progress note:** Done through printed p. 825. Ṛk 19-23 of Sūkta 18, Maṇḍala 7 (Parāśara, Vasiṣṭha, Sudās's gifts)
