@@ -34849,6 +34849,284 @@ Indra, in his might, quickly demolished all their strongholds, and their seven (
 > ष॒ष्टिर्वी॒रासो॒ अधि॒ षड्डु॑वो॒यु विश्वेदिंद्र॑स्य वी॒र्या॑  ॒॑
 > कृतानि ॥ १४ ॥
 
+### Printed p. 814
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । गव्यवः । अनवः । द्रुह्यवः । च । षष्टिः । शता । सुसुपुः । षट् । सहस्रा ।  
+> षष्टिः । वीरासः । अधि । षट् । दुवःऽयु । विश्वा । इत् । इंद्रस्य । वीर्या । कृतानि ॥ ४ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गव्यवो गोकामा अनवोऽनोः संबंधिनो द्रुह्यवो द्रुह्योः संबंधिनश्च
+> वीरासो वीराः षष्ठिः शता शतानि । सहस्राणीत्यर्थः । षट् सहस्रा सहस्राणि च
+> षष्टिश्चाधि षडधिकाः षट्ट दुवोयु दुवोयुवे ॥ चतुर्थी लुक् ॥ परिचरणकामाय
+> सुदासे । नमस्यति दुवस्यतीति परिचरणकर्मसु पाठात् । नि सुसुपुः । नितरां शेरते ।
+> निहता इत्यर्थः । तान्येतानि विश्वा विश्वानि कृतानि कार्याणींद्रस्येत् इंद्रस्यैव
+> वीर्या वीर्याणीति ॥
+
+##### Gist of the bhāṣya
+
+"Gavyavaḥ" are those desiring cows; "anavaḥ" are those connected with Anu, and "druhyavaḥ" those connected with Druhyu; "vīrāsaḥ" are heroes. "Ṣaṣṭiḥ śatā" is sixty hundreds, the meaning being thousands; "ṣaṭ sahasrā" is six thousands; and sixty besides, and in addition six more. "Duvoyu" is "duvoyuve", with the fourth case dropped: for Sudās, who desires service, since "namasyati" and "duvasyati" are read among the words for acts of service. "Ni susupuḥ" means they lie down utterly, that is, they were slain. All these deeds are of Indra's heroic power alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गव्यवः (*gavyavaḥ*)—desiring to carry off cattle
+- आनवः (*ānavaḥ*)—belonging to the group of Anu
+- द्रुह्यवः (*druhyavaḥ*)—belonging to the group of Druhyu
+- वीरासः (*vīrāsaḥ*)—heroic warriors
+- षष्टिः शता षट् सहह्रा षष्टिश्चाधि षट् (*ṣaṣṭiḥ śatā ṣaṭ sahahrā ṣaṣṭiścādhi ṣaṭ*)—though possessing the strength of sixty-six thousand six hundred and sixty
+- दुवोयु (*duvoyu*)—for Sudās, who is skilled in acts of service
+- नि सुषुपुः (*ni suṣupuḥ*)—were slain and laid down
+- विश्वाकृतानि (*viśvākṛtāni*)—all deeds of this kind also
+- इंद्रस्य वीर्या इत् (*iṃdrasya vīryā it*)—are possible by no one else than by the heroic powers of Indra
+
+##### भावार्थ (Bhāvārtha)
+
+The heroic warriors, belonging to the group of Anu and to the group of Druhyu, who desired to carry off the cattle of Sudās, though possessing the strength of sixty-six thousand six hundred and sixty, were slain by Indra and laid down for Sudās, who is skilled in service. All deeds of this kind are possible by no one else than by the heroic powers of Indra.
+
+##### English translation
+The warriors of the Anus and Druhyus, intending (to carry off the) cattle, (hostile) to the pious (Sudas), perished to the number of sixty-six thousand six hundred and sixty: such are all the glorious acts of Indra.
+
+### Printed p. 815
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रे॑णै॒ते तृत्स॑वो॒ वेवि॑षाणा॒ आपो॒ न सृ॒ष्टा अ॑धवंत॒ नीचीः॑ ।  
+> दु॒र्मि॒त्रासः॑ प्रकल॒विन्मिमा॑ना ज॒हुर्विश्वा॑नि॒ भोज॑ना सु॒दासे॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रेण । एते । तृत्सवः । वेविषाणाः । आपः । न । सृष्ट्वाः । अधवंत । नीचीः ।  
+> दुःमित्रासः । प्रकलवित् । मिमानाः । जहुः । विश्वानि । भोजना । सुदासे ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कदाचिदिंद्रेण रक्षिता अप्यन्यदा तेनैव बाध्यंते । एते तृत्सवो दुर्मित्रासो
+> दुष्टमित्राः प्रकलविदजानंत इंद्रेण वेविषाणा युद्धार्थं संगताः सृष्टाः
+> पलायनार्थमुद्युक्ता नीचीः नीचीना आपो न आप इवाधवंत । अधावंत । ततो
+> मिमानाः सुदासा बाध्यमाना विश्वानि भोजना भोग्यानि धनानि सुदासे राज्ञॆ जहुः ॥
+
+##### Gist of the bhāṣya
+
+Those once protected by Indra are at another time afflicted by that same Indra. These Tṛtsus, "durmitrāsaḥ", having bad friends, "prakalavit", not knowing (him), assembled with Indra for battle, "veviṣāṇāḥ", were sent forth, ready to flee, and ran down like waters, "nīcīḥ", flowing downward. Then, oppressed by Sudās, they gave up all enjoyable wealth to king Sudās.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दुर्मित्रासः (*durmitrāsaḥ*)—the untrustworthy, wicked
+- प्रकलवित् (*prakalavit*)—having a treacherous mind like merchants
+- एते तृत्सवः (*ete tṛtsavaḥ*)—these Tṛtsus
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- वेविषाणाः (*veviṣāṇāḥ*)—having striven with the obstinacy that they must fight
+- सृष्टाः (*sṛṣṭāḥ*)—(being unable) set upon flight
+- नीची (*nīcī*)—flowing downward
+- आपो न (*āpo na*)—like a flood of water
+- अधवंत (*adhavaṃta*)—ran away swiftly. (Thereafter)
+- मिमानाः (*mimānāḥ*)—the enemies harmed by Sudās
+- विश्वानि (*viśvāni*)—all
+- भोजना (*bhojanā*)—the materials of enjoyment also
+- सुदासे (*sudāse*)—into the power of Sudās
+- जहुः (*jahuḥ*)—gave up
+
+##### भावार्थ (Bhāvārtha)
+
+These Tṛtsus, unworthy of trust, of the nature of enemies, and without discernment, striven with the obstinacy that they must fight with Indra, being unable, set upon flight and ran away swiftly like a flood of water flowing downward. Thereafter the enemies, harmed by Sudās, gave up all the materials of enjoyment also into the power of Sudās.
+
+##### English translation
+These hostile Tritsus, ignorantly contending with Indra, fled routed as rapidly as rivers on a downward course, and being discomfited, abandon-ed all their possessions to Sudas.
+
+### Printed p. 816
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रकलवित् (*prakalavit*)—To explain the meaning of this word, Yāska has taken this very Ṛk as an example and given the etymology:
+
+प्रकलवित् । प्रकलविद्वणिग्भवति । कलाश्च वेद प्रकलाश्च । दुर्मित्रासः प्रकलविन्निमानाः इत्यपि निगमो भवति ॥ (*prakalavit | prakalavidvaṇigbhavati | kalāśca veda prakalāśca | durmitrāsaḥ prakalavinnimānāḥ ityapi nigamo bhavati ‖*) (Ni. 6-6)
+
+"Prakalavit" means a trading merchant, a trader. In order that profit may come in his trade, he knows well even the small matters in trade and the like, without distinction of small and great. And when trading he acts with an evil mind, paying no heed to right and wrong, keeping his eye only on his own profit; that is, he does not hesitate to cheat in trade. Therefore, when indicating unrighteous or wicked people, deceivers and the like, it is customary to give merchants as the example.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्धं वी॒रस्य॑ शृत॒पाम॑निं॒द्रं परा॒ शर्धं॑तं नुनुदे अ॒भि क्षां ।  
+> इंद्रो॑ म॒न्युं म॑न्यु॒म्यो॑ मिमाय भे॒जे प॒थो व॑र्त॒निं  ॑
+> पत्यमानः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्धं । वीरस्य । शृतपां । अनिंद्रं । परा । शर्धंतं । नुनुदे । अभि । क्षां ।  
+> इंद्रः । मन्युं । मन्युम्यः । मिमाय । भेजे । पथः । वर्तनिं । पत्यमानः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रोऽभि क्षां भूमिमभि । भूम्यामित्यर्थः । वीरस्य वीर्ययुक्तस्य
+> सुदासोऽर्धं हिंसकं ॥ अर्धर्हिंसाकर्मणोऽर्धशब्दस्य निष्पत्तिः ॥ अनिंद्रं ।
+> यस्य बुद्धाविंद्रो नास्त्यसावनिंद्रः । तं । इंद्रमगणयंतमित्यर्थः । शृतपां
+> शृतस्यक्षीरादेर्हविषः पातारं शर्धंतमुत्सहमानं परा नुनुदे । किंच मन्युम्यो
+> मन्युकर्तुर्मन्युना मिनतो हिंसतो वा शत्रोर्मन्युं क्रोधं मिमाय ।
+> बबाधे । अथ सुदासः शत्रुः पथो मार्गान् पत्यमानो गच्छन् वर्तनिं पलायनमार्गं भेजे । प्राप ॥
+
+##### Gist of the bhāṣya
+
+Indra, "abhi kṣām", on the earth; the meaning is "in the earth". Of the hero, Sudās, who is endowed with valour, he drove away the "ardham", the harmful one; "anindram" is he in whose mind there is no Indra, that is, one who takes no account of Indra; the "śṛtapām", the drinker of the oblation of cooked milk and the like, the "śardhantam", the one who is bold; he drove him away. Furthermore, he, "manyumyaḥ", making wrath, the enemy who strikes or injures in wrath, the wrath of that enemy he destroyed, he afflicted. Then the enemy of Sudās, going upon the paths, "patyamānaḥ", took the path of flight.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+### Printed p. 817
+
+- वीरस्य (*vīrasya*)—to Sudās, who is endowed with valour
+- अर्धं (*ardhaṃ*)—harmful
+- अनिंद्रं (*aniṃdraṃ*)—not worshipping Indra
+- कृतपां (*kṛtapāṃ*)—one who carries off oblations such as milk
+- शर्धंतं (*śardhaṃtaṃ*)—one who falls upon (him): the enemy
+- इंद्रः (*iṃdraḥ*)—Indra
+- क्षां अभि (*kṣāṃ abhi*)—all over the earth
+- परा नुनुदे (*parā nunude*)—caused him to tumble so as to roll about on all sides
+- मन्युम्यः (*manyumyaḥ*)—of the enemy who confronts in wrath
+- मन्युं (*manyuṃ*)—the wrath
+- मिमाय (*mimāya*)—destroyed. (Thereafter the enemy)
+- पथः (*pathaḥ*)—his paths
+- पत्यमानः (*patyamānaḥ*)—following
+- वर्तनिं (*vartaniṃ*)—the path of flight
+- भेजे (*bheje*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+For Sudās, who is endowed with valour, Indra made the enemy, who was harmful, did not worship Indra, carried off oblations such as milk, and fell upon him, fall all over the earth and roll about on all sides. Thereafter the enemy left his own road and took the path of flight.
+
+##### English translation
+Indra has scattered over the earth the hostile rival of the hero (Sudas) the senior of Indra, the appropriator of the oblation : Indra has baffled the wrath of the wrathful enemy, and the (foe) advancing on the way (against Sudas) has taken the path of flight.
+
+#### Ṛk 17
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒ध्रेण॑ चि॒त्तद्वेकं॑ चकार सिं॒ह्यं॑ चि॒त्पेत्वे॑ना जघान ।  
+> अव॑ स्र॒क्तीर्वे॒श्या॑वृश्च॒दिंद्रः॒ प्राय॑च्छ॒द्विश्वा॒ भोज॑ना सु॒दासे॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आध्रेण । चित् । तत् । ऊं इति । एकं । चकार । सिंह्यं । चित् । पेत्वेन । जघान ।  
+> अव । स्रक्तीः । वेश्या । अवृश्चत् । इंद्रः । प्र । आयच्छत् । विश्वा । भोजना । सुदासे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रस्तत्तदाध्रेण चित् दरिद्रेणापि सुदासैकं मुख्यं दानकर्म चकार ।
+> कारयामास । सिंह्यं चित् । प्रवयाः सिंहः सिंह्यः । तमपि पेत्वेन च्छागेन जघान ।
+
+##### Gist of the bhāṣya
+
+Indra, at that time, by a poor man even, made Sudās perform one chief act of giving. A lion, "siṃhyam", an aged lion, he also slew by a kid, "petvena", that is, a goat; he caused it to be killed.
+
+### Printed p. 818
+
+> घातयामास । वेश्या । वेशी सूची । तया स्रक्तियूपादेरश्रीनवावृश्चत् ।
+> अववृक्तवान् ! वेश्यादेः कृत्यं सूच्यैवाकरोदित्यर्थः । तानेतानि त्रीणि कर्माण्यसंभावितानीति नाशंकनीयानींद्रस्य महिम्मोऽधिकत्वात् । विश्वा विश्वानि भोजना
+> भोजनानि भोग्यानि धनानि सुदासे राज्ञे प्रायच्छत् । अदाच्च ॥
+
+##### Gist of the bhāṣya
+
+"Veśyā" is "veśī", a needle; with it he cut away the edges of the sacrificial post and the like; the meaning is that he did with a needle alone the work of a "veśyā" and the rest.**NOTE** These three deeds are not to be doubted as improbable, because Indra's greatness is greater. He gave all enjoyable wealth to king Sudās.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- तत् (*tat*)—at the same time
+- आध्रेण चित् (*ādhreṇa cit*)—by a poor man even
+- एकं (*ekaṃ*)—the chief act of giving
+- चकार (*cakāra*)—caused to be done
+- सिंह्यं चित् (*siṃhyaṃ cit*)—a powerful lion also
+- पेत्वेन (*petvena*)—by a kid alone
+- जघान (*jaghāna*)—caused to be killed
+- वेश्या (*veśyā*)—by a needle alone
+- प्रक्तिः (*praktiḥ*)—the sacrificial posts
+- अवावृश्चत् (*avāvṛścat*)—prepared (cut) and set right
+- विश्वा (*viśvā*)—all
+- भोजना (*bhojanā*)—the materials of enjoyment also
+- सुदासे (*sudāse*)—to the king named Sudās
+- प्रायच्छत् (*prāyacchat*)—gave
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of the heroic act mentioned above, Indra caused even a poor man to perform chief acts of giving. He caused even a powerful lion to be killed by a kid alone. With a needle alone he prepared and set right the sacrificial posts. He gave all the materials of enjoyment to the king named Sudās.
+
+##### English translation
+Indra has effected a valuable (donation) by a pauper: he has slain an old lion by a goat : he has cut the angles of the sacrificial post with a needle : he has given all the spoils (of the enemy) to Sudas.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शश्वं॑तो॒ हि शत्र॑वो रार॒धुष्टे॑ भे॒दस्य॑ चि॒च्छर्ध॑तो विंद॒  ॑
+> रंधिं ।  
+> मर्ता॒ एनः॑ सुव॒तो यः कृ॒णोति॑ ति॒ग्मं तस्मि॒न्नि ज॑हि॒ वज्र॑मिंद्र ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शश्वंतः । हि । शत्रवः । ररधुः । ते । भेदस्य । चित् । शर्धतः । विंद । रंधिं ।  
+> मर्तान् । एनः । स्तुवतः । यः । कृणोति । तिग्मं । तस्मिन् । नि । जहि । वज्रं । इंद्र ॥
+
+### Printed p. 819
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव शत्रवोऽरयः शश्वंतो बहवो ररधुः । वशमीयुः । चिदपि
+> च शर्धत उत्सहमानस्य भेदस्य । भिनत्ति मर्यादा इति भेदो नास्तिकः । तस्य ।
+> यद्वा । भेदो नाम सुदासः शत्रुः कश्चित् । तस्येत्यर्थः । रंधिं वशीकरं विंद ।
+> लभस्व । यो भेदः स्तुवतस्त्वां स्तुवतो मर्तान्नर्त्यान् प्रत्येनः पापं कृणोति
+> करोति तस्मिन् भेदे तिग्मं निशितं योद्धारमुत्साहयंतं । तथा च यास्कः । तिग्मं
+> तेजतेरुत्साहकर्मणः । नि. १०-६ । इति । वज्रं । वजति गच्छत्येव शत्रुं न प्रतिहन्यत
+> इति वज्रः । तं ॥ वज्रशब्दो वजेर्यूजेंद्राग्रवज्रविप्रेत्यादिना रन्प्रत्ययांतो
+> निपातितः ॥ तं जहि । वज्रेण भेदं प्रहरेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your enemies, "śaśvantaḥ", many, have come under your control. And of "bhedasya", the bold one: "Bheda" is he who breaks the bounds, an unbeliever; of him. Or else: Bheda is the name of some enemy of Sudās; the meaning is, of him. Obtain his "randhi", his subjugation; gain it. The Bheda who commits a sin against mortals who praise you, against that Bheda, the sharp, inciting the warrior to exertion: so Yāska says, तिग्मं तेजतेरुत्साहकर्मणः (*tigmaṃ tejaterutsāhakarmaṇaḥ*) (Ni. 10-6). "Vajra" is that which goes to the enemy and is not repelled. Hurl it: the meaning is, strike Bheda with the thunderbolt.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- शत्रवः (*śatravaḥ*)—enemies
+- शश्वंतः (*śaśvaṃtaḥ*)—completely
+- ररधुः (*raradhuḥ*)—have come under your control
+- चित् (*cit*)—along with that
+- शर्धतः (*śardhataḥ*)—who strives to fall upon us
+- भेदस्य (*bhedasya*)—of Bheda
+- रंधिं (*raṃdhiṃ*)—the subjugation also
+- विंद (*viṃda*)—obtain
+- यः (*yaḥ*)—which Bheda
+- स्तुवतः (*stuvataḥ*)—who praise you
+- मर्तान् (*martān*)—in respect of men
+- एनः (*enaḥ*)—sinful deed
+- कृणोति (*kṛṇoti*)—commits
+- तस्मिन् (*tasmin*)—upon that same Bheda
+- तिग्मं (*tigmaṃ*)—sharp
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- नि जहि (*ni jahi*)—hurl
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your enemies have completely come under your control. Along with them, take under your control Bheda, who strives to fall upon us; upon that same Bheda who commits sinful deeds in respect of men who praise you, hurl your sharp thunderbolt weapon.
+
+##### English translation
+Your numerous enemies, Indra, have been reduced to subjection : effect at some time or other the subjugation of the turbulent Bheda, who holds men praising you as guilty of wickedness : hurl, Indra, your sharp thunderbolt against him.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आव॒दिंद्रं॑ य॒मुना॒ तृत्स॑वश्च॒ प्रात्र॑ भे॒दं स॒र्वता॑ता  
+> मुषायत् ।  
+> अ॒जास॑श्च॒ शिग्र॑वो॒ यक्ष॑वश्च ब॒लिं शी॒र्षाणि॑ जभ्रु॒रश्वा॑नि ॥ १९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 813. Ṛk 9-14 of Sūkta 18, Maṇḍala 7 (waters of Paruṣṇī, Maruts, Sudās)
+**Progress note:** Done through printed p. 819. Ṛk 14-18 of Sūkta 18, Maṇḍala 7 (Anus and Druhyus, Tṛtsus, Bheda)
