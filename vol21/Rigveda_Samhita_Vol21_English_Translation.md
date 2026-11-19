@@ -14769,6 +14769,288 @@ O Aghṛṇa, Pūṣan, whose radiance has come to you: impel to give to us even
 - अदित्संतं चित् (*aditsaṃtaṃ cit*)—even a miser who has no nature of giving
 - दानाय (*dānāya*)—to give and, as a benefactor of the world,
 
+### Printed p. 338
+
+may he become so.
+- चोदय (*codaya*)—impel
+- पणेश्चित् मनः (*paṇeścit manaḥ*)—the mind also of the pani (the miser) who has a hard heart
+- वि म्रद (*vi mrada*)—make it soft with compassion
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, possessed of exceedingly great radiance, impel even the miser who has no nature of giving, so that he gives and becomes a benefactor of the world. Make the mind of the pani (the miser), whose heart is hard, soft with compassion.
+
+##### English translation
+Resplendent Pushan, instigate the niggard to liberality, soften the heart of the miser.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि प॒थो वाज॑सातये चिनु॒हि वि मृधो॑ जहि ।  
+> साधं॑तामुग्र नो॒ धियः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । पथः । वाजसातये । चिनुहि । वि । मृधः । जहि ।  
+> साधंतां । उग्र । नः । धियः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रोद्गूर्णबल पूषन् पथो मार्गान् वाजसातयेऽन्नलाभाय
+> वि चिनुहि । शोधितान्नुरु । यैः पथिभिर्गता धनं लभेमहि तादृशान्पथः पृथक्कुर्वित्यर्थः । मृधो बाधकान् तस्करादींश्च वि जहि । बाधस्व । तथा नोऽस्माकं धियः
+> कर्माण्यन्नलाभार्थं क्रियमाणानि साधंतां । सिध्यंतु । सफलानि भवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, whose strength is raised up and fierce: clear the paths for the winning of food. Make the paths purified, those by which we may go and gain wealth, that is, set such paths apart. Strike down the obstructors, thieves and the like; keep them off. And let our undertakings, the rites performed for the gaining of food, be accomplished and bear fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—O Pūṣan, whose strength is exceedingly great and terrifying to enemies
+- वाजसातये (*vājasātaye*)—so that food may come to us easily
+- पथः (*pathaḥ*)—our paths
+- वि चिनुहि (*vi cinuhi*)—make them pure, free of thieves and the like
+- मृधः (*mṛdhaḥ*)—the violent thieves and the like
+- वि जहि (*vi jahi*)—defeat and destroy
+- नः (*naḥ*)—our
+- धियः (*dhiyaḥ*)—the rites performed for the sake of food
+- साधंतां (*sādhaṃtāṃ*)—may they attain the desired object
+
+### Printed p. 339
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, whose strength is exceedingly great and terrifying to enemies, so that food may come to us easily, make our paths pure, free of thieves and the like. Defeat and destroy the violent thieves and the like. May the rites performed for our gain of food attain the fulfilment of their desired objects.
+
+##### English translation
+Fierce Pushan, select (fit) roads for the passage of provisions : drive away all obstructors, (thieves, or the like), so that our holy rites may be accomplished.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ तृंधि पणी॒नामार॑या॒ हृद॑या कवे ।  
+> अथे॑म॒स्मभ्यं॑ रंधय ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । तृंधि । पणीनां । आरया । हृदया । कवे ।  
+> आथ । ईं । आस्मभ्यं । रंधय ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे प्राज्ञ पूषन् पणीनां वणिजां लुब्धानां हृदया हृदयानि
+> कठिनान्यारया । सूक्ष्मलोहाग्रो दंडः प्रतोद इत्यारेति चाख्यायते । तया परि
+> तृंधि । परिविध्य । हृद्गतं काठिन्यमपनयेत्यर्थः । अथानंतरमीमेनान्पणीनस्मभ्यं
+> रंधय । वशीकुरु ॥
+
+##### Gist of the bhāṣya
+
+O wise Pūṣan, with the goad, the ārā, pierce the hearts of the panis, the traders and misers, which are hard. The ārā is called a rod with a fine metal point, a prod. Pierce through with it, that is, remove the hardness that lies in the heart. Then make these panis subject to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O wise Pūṣan
+- पणी नां (*paṇī nāṃ*)—of the panis, who have no nature of giving and are misers
+- हृदया (*hṛdayā*)—the hardness that lies in the heart
+- आरया (*ārayā*)—with the goad of fierce power
+- परि तृंधि (*pari tṛṃdhi*)—destroy (make their hearts soft)
+- आथ (*ātha*)—afterwards
+- ईं (*īṃ*)—these panis
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- रंधय (*raṃdhaya*)—make them submit and fulfil our prayers
+
+### Printed p. 340
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Pūṣan, destroy with the goad of fierce power the hardness in the hearts of the panis, who have no nature of giving and are misers, and make their hearts soft. Afterwards make these panis submit to us and become helpers to us.
+
+##### English translation
+Piercc with a goad the hearts of the avaricious, wise Pushan, and so render them complacent towards us.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि पू॑ष॒न्नार॑या तुद प॒णेरि॑च्छ हृ॒दि प्रि॒यं ।  
+> अथे॑म॒स्मभ्यं॑ रंधय ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । पूषन् । आरया । तुद । पणेः । इच्छ । हृदि । प्रियं ।  
+> अथ । ईं । अस्मभ्यं । रंधय ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् आरया प्रतोदेन पणेर्वणिजो हृदयं वि तुद । विविध्य । तस्य
+> पणेर्हृदि हृदये प्रियमस्मभ्यमनुकूलं धनमिच्छ । दातव्यमितीच्छां जनय ।
+> अथानंतरमस्मभ्यमीमेनान्रंधय । वशीकुरु ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, pierce with the goad, the prod, the heart of the pani, the trader. In the heart of that pani, desire for us the dear, favourable wealth; that is, produce in him the wish that it must be given. Then make these men subject to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O Pūṣan
+- आरया (*ārayā*)—with your goad of fierce power
+- पणेः (*paṇeḥ*)—the heart of the pani
+- वि तुद (*vi tuda*)—torment
+- हृदि (*hṛdi*)—in that same heart
+- प्रियं (*priyaṃ*)—the wish to do us good
+- इच्छॆ (*icchè*)—produce the desire
+- अथ (*atha*)—afterwards
+- ईं (*īṃ*)—these same panis
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- रंधय (*raṃdhaya*)—subdue them and impel them to help us
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, torment the heart of the pani with your goad of fierce power. In that same heart produce the desire to do us good. Afterwards subdue these same panis and impel them to help us.
+
+### Printed p. 341
+
+##### English translation
+Pierce with a goad. Pushan, the heart of the avaricious ; generate generosity in his heart, and so render him complacent towards us.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ रि॑ख किकि॒रा कृ॑णु पणी॒नां हृद॑या कवे ।  
+> अथे॑म॒स्मभ्यं॑ रंधय ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । रिख । किकिरा । कृणु । पणीनां । हृदया । कवे ।  
+> अथ । ईं । अस्मभ्यं । रंधय ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे प्राज्ञ पूषन् पणीनां वणिजां हृदया हृदयान्या रिख । आलिख ।
+> अलिख्य च किकिरा कीर्णानि प्रशिथिलानि कृणु । कुरु । मृदूनि कुर्वित्यर्थः । अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+O wise Pūṣan, scratch the hearts of the panis, the traders, and having scratched them make them scattered, loosened; that is, make them soft. The rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O wise Pūṣan
+- पणीनां (*paṇīnāṃ*)—of the panis
+- हृदया (*hṛdayā*)—the hard hearts
+- आ रिख (*ā rikha*)—rub them as one whets on a whetstone
+- किकिरा (*kikirā*)—so that they give up their hardness and become soft
+- कृणु (*kṛṇu*)—make
+- अथ (*atha*)—afterwards
+- ईं (*īṃ*)—these same panis
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- रंधय (*raṃdhaya*)—make them submit
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Pūṣan, rub the hard hearts of the panis as one whets on a whetstone. Make them give up their hardness and become soft. Make these same misers submit to our prayer and fulfil our desired objects.
+
+##### English translation
+Abrade, wise Pushan the hearts of the avaricious ; relax (their hardness), and so render them complacent towards us.
+
+### Printed p. 342
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यां पू॑षन्ब्रह्म॒ चोद॑नी॒मारां॒ बिभ॑र्ष्यघृणे ।  
+> तया॑ समस्य॒ॆ हृद॑य॒मा रि॑ख किकि॒रा कृ॑णु ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यां । पूषन् । ब्रह्मचोदनीं । आरां । बिभर्षि । अघृणे ।  
+> तया । समस्य । हृदयं । आ । रिख । किकिरा । कृणु ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आफृण आगतदीप्ते पूषन् ब्रह्मचोदनीं ब्रह्मणोऽन्यस्य प्रेरयित्रिं
+> यामारां बिभर्षि हस्ते धारयसि तया समस्यॆ सर्वस्य लुब्धजनस्य हृदयमा रिख ।
+> आलिण । किकिरा किकिराणि कीर्णानि प्रशिथिलानि च कृणु । कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, whose radiance has come to you: the goad that you carry in your hand, which impels the Brahman (the prayer or food), the ārā, with it scratch the heart of every miserly person, and make the scattered, loosened ones, that is, make them soft.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अघृणे (*aghṛṇe*)—O one possessed of exceedingly great radiance
+- पूषन् (*pūṣan*)—O Pūṣan
+- ब्रह्मचोदनीं (*brahmacodanīṃ*)—that impels food
+- यां (*yāṃ*)—which
+- आरां (*ārāṃ*)—goad
+- बिभर्षि (*bibharṣi*)—you possess
+- तया (*tayā*)—with that
+- समस्य (*samasya*)—of all the miserly people
+- हृदयं (*hṛdayaṃ*)—the heart
+- आ रिख (*ā rikha*)—rub it so that they become soft
+- किकिरा (*kikirā*)—so that they attain softness
+- कृणु (*kṛṇu*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, possessed of exceedingly great radiance, with the very goad that you possess, which impels food, rub the hearts of all the miserly people and make them attain softness, so that they show compassion towards us.
+
+##### English translation
+Resplendent Pushan, with that food-propelling goad which you bear, abrade the heart of every miser and render it relaxed.
+
+### Printed p. 343
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ते॒ अष्टा॒ गो॑प॒शापृ॑णे पशु॒साध॑नी ।  
+> तस्या॑स्ते सु॒म्म मी॑महे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । अष्टा । गोऽओपशा । आफृणे । पशुसाधनी ।  
+> तस्याः । ते । सुम्मं । ईमहे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आफृण आगतदीप्ते पूषन् ते त्वदीया याष्ट्रारा गोओपशा । उपशेरत
+> इत्योपशाः । गाव ओपशा यस्यास्तादृशी । आत एव पशुसाधनी पशूनां साधयित्रि
+> भवति ते त्वदीयायास्तस्याः संबंधि सुम्नं सुखमीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, whose radiance has come to you: that goad of yours, which is gopaśā. Those that lie near are the opaśāḥ; she whose opaśāḥ are cows is of that kind. Therefore she is the accomplisher of cattle, the one who brings cattle about. Of that goad of yours we beg the happiness that belongs to it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आघृणे (*āghṛṇe*)—O Pūṣan, of marvellous radiance
+- गोपशा (*gopaśā*)—that gives shelter to cows
+- पशुसाधनी (*paśusādhanī*)—that is the guide and protector of cattle
+- ते (*te*)—your
+- या अष्टा (*yā aṣṭā*)—which goad there is
+- तस्याः (*tasyāḥ*)—by that goad of yours
+- सुम्मं (*summaṃ*)—the happiness to be obtained
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, of marvellous radiance, your goad, which gives shelter to cows and is the guide and protector of cattle: from that same goad we ask the happiness that is to be obtained.
+
+##### English translation
+Resplendent Pushan, we ask of you the service of that your weapon, which is the guide of cows, the director of cattle.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॑ गो॒षणिं॒ धिय॑मश्व॒सां वा॑ज॒सामु॒त ।  
+> न्य॒वत्कृ॑णुहि वी॒तये॑ ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 337. Mandala 6 sukta 52 Rk 14-17, sukta 53 Rk 1-3 begun
+**Progress note:** Done through printed p. 343. Mandala 6 sukta 53 rks 3 (end) to 10 (start), Pushan
