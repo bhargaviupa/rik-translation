@@ -26949,6 +26949,151 @@ In many such Ṛks the word नरः (*naraḥ*) shows the nature of the Maruts
 
 Those all-pervading Maruts who impel rain, who are the carriers of water, may they come to you today, O priests and sacrificers. Now he turns to direct address: O Maruts, this well-known Agni is kindled, that is, well lit; enjoy this Agni, serve it, O wise ones, O ever-young ones, who are pervading everywhere.
 
+### Printed p. 747
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—who
+- विश्वे (*viśve*)—all-pervading
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- जुनंति (*junaṃti*)—who urge on and pour down (the rain), such
+- मरुतः (*marutaḥ*)—the Maruts
+- उदवाहासः (*udavāhāsaḥ*)—bearing waters
+- अद्य (*adya*)—now
+- वः (*vaḥ*)—to your sacrifice
+- आ यंतु (*ā yaṃtu*)—may they graciously come
+- कवयः (*kavayaḥ*)—wise
+- युवानः (*yuvānaḥ*)—ever-young
+- मरुतः (*marutaḥ*)—O Maruts
+- यः (*yaḥ*)—which
+- आयं. अग्निः (*āyaṃ. agniḥ*)—this Agni
+- समिद्धः (*samiddhaḥ*)—is kindled
+- एतं (*etaṃ*)—this (Agni), such
+- जुषध्वं (*juṣadhvaṃ*)—enjoy, serve
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, may those Maruts who, being all-pervading, urge on and pour down the rain, come to your sacrifice now, bearing waters. O Maruts, wise and ever young, enjoy this Agni which is blazing here.
+
+##### English translation
+May the universal Maruts, who urge on the rain, come to you to-day laden with water: Maruts who are wise and young, be pleased by this fire which is kindled for you.
+
+##### विशेषविषयगळु (Special Topics)
+
+अद्य—इदानीं । अस्मिन् यज्ञे । (*adya—idānīṃ | asmin yajñe |*) "Now", or at the time of this sacrifice that we are performing: that is, an invitation is stated here, "come to this sacrifice that we are performing and enjoy Agni." In this sacrifice of ours Agni is kindled and shining. A prayer is stated that you, the Marut deities, should come through such an Agni to the sacrificial ground to receive the oblations and the rest.
+
+In the first half of this Ṛk the Marut deities are praised with a sentence of the indirect kind, and in the second half with a sentence of the direct kind. Yāska has explained what परोक्षकृत, प्रत्यक्षकृत (*parokṣakṛta, pratyakṣakṛta*) mean, in the following way. Yāska, the great sage and author of the Nirukta, has spoken thus on the interpretation of the Vedic mantras.
+
+तद्यानि नामानि प्राधान्यस्तु तीनां देवतानां तद्दैवतमित्याचक्षते ॥ यत्काम ऋषियस्क्यां देवतायावार्थपत्यमिच्छन्सुतिं प्रयुं (*tadyāni nāmāni prādhānyastu tīnāṃ devatānāṃ taddaivatamityācakṣate ‖ yatkāma ṛṣiyaskyāṃ devatāyāvārthapatyamicchansutiṃ prayuṃ*)
+
+### Printed p. 748
+
+क्ते तद्दैवतः स मंत्रो भवति ॥ (*kte taddaivataḥ sa maṃtro bhavati ‖*) तास्त्रिविधा ऋचः परोक्षकृताः प्रत्यक्षकृता आध्यात्मिकाश्च । तत्र परोक्षकृताः सर्वाभिर्नामविभक्तिभिर्युज्यंतॆ, प्रथमपुरुषैश्चाख्यातस्य ॥ अथ प्रत्यक्षकृता मध्यमपुरुषोपयोगास्त्वमिति चैतेन सर्वनाम्ना ॥ अथाध्यात्मिक्य उत्त मपुरुषयोगा अहमिति चैतेन सर्वनाम्ना॥ परोक्षकृताः प्रत्यक्षकृताश्च मंत्रा भूयिष्ठा अल्पश आध्यात्मिकाः ॥ (*tāstrividhā ṛcaḥ parokṣakṛtāḥ pratyakṣakṛtā ādhyātmikāśca | tatra parokṣakṛtāḥ sarvābhirnāmavibhaktibhiryujyaṃtè, prathamapuruṣaiścākhyātasya ‖ atha pratyakṣakṛtā madhyamapuruṣopayogāstvamiti caitena sarvanāmnā ‖ athādhyātmikya utta mapuruṣayogā ahamiti caitena sarvanāmnā‖ parokṣakṛtāḥ pratyakṣakṛtāśca maṃtrā bhūyiṣṭhā alpaśa ādhyātmikāḥ ‖*) (Nirukta, the section on deities, chapter 7, sections 1-3)
+
+That is, among mantras there are many kinds: the mantra of a deity, the mantra of praise, the mantra of blessing, oath, curse, exposition of some matter, lament, censure, eulogy, दानस्तुति (*dānastuti*) and so on. A deity-mantra is one that describes the greatness of the deities; praise means a hymn, a mantra containing prayers; blessing is a mantra that wishes good; an oath is a vow; a curse is an evil wish; the exposition of some matter is the explanation of a subject or principle; lament is grief; censure is blame; eulogy is praise.
+
+Among the many kinds mentioned above, the Ṛks that are deity-mantras are of three kinds: indirect, direct and personal. The indirect kind: since the deity who is praised is not present before the speaker, the mantras that in praising that deity use third-person nouns and verbs (Third person both in subject and predicate). The direct kind: mantras in which the deity who is praised is imagined as actually present in front, and is addressed and praised with second-person words (Second person) such as "thou" and "thy". The personal kind: mantras that praise by using the first person (First person). Of these three kinds, the two kinds, indirect and direct, are the more numerous, and the personal mantras are only few.
+
+कवयः:—क्रांतदर्शिनः मेधाविनो ना (*kavayaḥ:—krāṃtadarśinaḥ medhāvino nā*) Thus Sāyaṇa has given the meaning of this word. In some other places Sāyaṇa has explained the meaning of this word in two ways: first, following the Veda sentence ये वा अनूचानास्ते कवयः (*ye vā anūcānāste kavayaḥ*), as scholars who have studied the Veda together with its limbs; second, following the Nirukta sentence कविः, मनीषी (*kaviḥ, manīṣī*) (Ni. 3-15), as a wise man. The author of the Nirukta says:
+
+मेधावी कविः क्रांतदर्शनो भवति कवतेर्ना (*medhāvī kaviḥ krāṃtadarśano bhavati kavaternā*) (2 12-13)**NOTE**
+
+### Printed p. 749
+
+Thus the author of the Nirukta has stated the derivation of the word kavi. Derived from the root क्रम् (*kram*) it can mean one possessed of far-reaching vision; or derived from the root कम् (*kam*) it can mean the praiser who is to praise: so the derivation of the Nirukta author explains. What is the nature of a kavi? What is his power? In what nature and power is the word kavi used in the Ṛk-saṃhitā? It is necessary to understand this.
+
+It may be said that the word kavi is useful for conveying the same distinctive nature that the words ऋषि, सुमेध, धीर, रेभ (*ṛṣi, sumedha, dhīra, rebha*) show. One who has the extraordinary and supernatural power of knowing all the doings of past, future and present times is the wise one; he is the seer, and he is the kavi. One who has this power is also fit for the creation of poetry in the form of hymns. Therefore the praiser also has names such as kavi and रेभ (*rebha*). In worldly literature and in treatises on poetics the words kavi and poem likewise stand for a name indicating an extraordinary power of this kind, but it is to be understood, according to the context, that the explanation there differs somewhat from this one. To make known the true nature of the kavi, the author of the Nirukta quotes the Ṛk
+
+विश्वा रूपाणि प्रति मुंचते कविः प्रासावीद्भद्रं द्विपदे चतुष्पदे । नि नाकमख्यत्सविता वरेण्योऽनु प्रयाणमुषसो वि राजति ॥ (*viśvā rūpāṇi prati muṃcate kaviḥ prāsāvīdbhadraṃ dvipade catuṣpade | ni nākamakhyatsavitā vareṇyo 'nu prayāṇamuṣaso vi rājati ‖*) (Ṛ. Saṃ. 5-8,2)**NOTE**
+
+and explains what nature of Savitṛ the word kavi, which is here an epithet of Savitṛ, shows. It is understood that this epithet belongs to Savitṛ because he brings to light all the forms of the world; that is, he has the power by his own might to light up those aspects that lie hidden and are not visible to the eye of the world, and to make them fall within the sight of the world. In this same sense the name kavi is well known also for the praiser, the one who praises. This idea is indicated in the Ṛk of the Ṛk-saṃhitā,
+
+ब्रह्मा कृणोति वरुणो गातुविदं तमीमहे । व्यूर्णोति हृदा मतिं नव्यो जायतामृतं वित्तं मे अस्य रोदसी ॥ (*brahmā kṛṇoti varuṇo gātuvidaṃ tamīmahe | vyūrṇoti hṛdā matiṃ navyo jāyatāmṛtaṃ vittaṃ me asya rodasī ‖*) (Ṛ. Saṃ. 1-105-15)
+
+and likewise in other Ṛks. In this quoted Ṛk Sāyaṇa has explained the word व्यूर्णोति (*vyūrṇoti*) as उच्चारयति, प्रकाशयति (*uccārayati, prakāśayati*). The root ऊर्णु (*ūrṇu*), meaning to cover or to veil, becomes ऊर्णोति (*ūrṇoti*). Here, joined with the prefix vi, it gives the meaning of removal of covering, that is, of taking away the veil,
+
+### Printed p. 750
+
+and the purport is: to make manifest. It is understood from this that the power to create, in the form of making manifest a thought hidden in the mind, and the power to reveal what is hidden by bringing it to light, are the special quality of the kavi or praiser. Therefore the word kavi is an epithet that conveys to both Savitṛ and the praiser the quality they have in common. Explaining this same characteristic and the work of a kavi, the Ṛk-saṃhitā says:
+
+समानं नीळं वृषणो वसानाः सं जग्मिरे महिषा अर्वतीभिः । ऋतस्य पदं कवयो नि पांति गुहा नामानि दधिरे पराणि । (*samānaṃ nīḷaṃ vṛṣaṇo vasānāḥ saṃ jagmire mahiṣā arvatībhiḥ | ṛtasya padaṃ kavayo ni pāṃti guhā nāmāni dadhire parāṇi |*) (Ṛ. Saṃ. 10-5-2)
+
+बृहस्पते प्रथमं वाचो अग्रं यत्प्रैरत नामधेयं दधानाः । यदेषां श्रेष्ठं यदरिप्रमासीत्प्रेणा तदेषां निहितं गुहाविः ॥ (*bṛhaspate prathamaṃ vāco agraṃ yatprairata nāmadheyaṃ dadhānāḥ | yadeṣāṃ śreṣṭhaṃ yadaripramāsītpreṇā tadeṣāṃ nihitaṃ guhāviḥ ‖*) (Ṛ. Saṃ. 10-71-1)
+
+This idea is expressed in all such Ṛks. It is described that the kavis, entering the path of the cosmic order, have borne in the most hidden heart the most excellent secret names, and make them manifest so that the world may know. The vision of this kavi too is possible only through the means that has the form of making manifest.
+
+यज्ञेन वाचः पदवीयमायन् तामन्वनिंदन्नृषिसु प्रविष्टां । तामाभृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवंते ॥ (*yajñena vācaḥ padavīyamāyan tāmanvaniṃdannṛṣisu praviṣṭāṃ | tāmābhṛtyā vyadadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navaṃte ‖*) (Ṛ. Saṃ. 10-71-3)
+
+The kavis obtained, by the means that has the form of sacrifice, speech that lay dormant in the seers who see beyond the senses. Afterwards, for the benefit of the people of the world, they taught it to them also. The metres such as the Gāyatrī serve this speech, which is of the nature of the principle of the universe. Thus, in some places the identity, and in others the relation of cause and effect, is shown between creation, which has the form of the manifestation of speech, and the rite, which has the form of sacrifice. The same idea is stated in this way in the Brāhmaṇas, the Śatapatha and others:
+
+आयुरेतज्योतिः प्रविशति य एतमनु ना ब्रूते भक्षयति वा तस्य व्रतचर्या या सृष्टौ ॥ (*āyuretajyotiḥ praviśati ya etamanu nā brūte bhakṣayati vā tasya vratacaryā yā sṛṣṭau ‖*) (Śa. Brā. 14-1-2-26)
+
+Here the identity of the rite accompanied by the utterance of mantras with new creation is stated. In the present Ṛk the word is an epithet that shows the extraordinary quality of the Marut deities, who are endowed with knowledge of matters beyond the senses and are all-knowing. Since this epithet is used in many places, it should be interpreted according to each context.
+
+### Printed p. 751
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं राजा॑न॒मिर्यं॒ जना॑य विभ्वत॒ष्टं ज॑नयथा  
+> यजत्राः ।  
+> यु॒ष्मदे॑ति मुष्टि॒हा बा॒हुजू॑तो यु॒ष्मत्सद॑श्चो मरुतःसु॒वीरः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । राजानं । इर्यं । जनाय । विभ्वतष्टं । जनयथ । यजत्राः ।  
+> युष्मत् । एति । मुष्टिहा । बाहुजूतः । युष्मत् । सत्अश्वः । मरुतः ।  
+> सुवीरः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं जनाय यजमानाय राजानं स्वामिनं राजमानं
+> वेर्यं शत्रूणां प्रेरकं च्यावयितारं विभ्वतष्टं। विभ्वा नाम ऋभूणां मध्यमः।
+> स कुशली । तेन निर्मितं । अत्यंतरूपवंतमित्यर्थः । तादृशं पुत्रं जनयथ ।
+> उत्पादयथ हे यजत्रा यष्टव्याः । हे मरुतो युष्मद्युष्मत्त एति गच्छति पुत्रः ।
+> कीदृशः । मुष्टिहा । मुष्टिशब्दो बाहूपलक्षकः । स्वभुजबलेनैव हंता शत्रूणां ।
+> तदेवोच्यते । बाहुजूतः । बाहुः प्रेरकः शत्रूणां यस्य तादृशः पुत्र एति । तथा
+> युष्मद्युष्मत्तः सदश्वो विद्यमानाश्वः । बह्वश्व इत्यर्थः । सुवीरः शोभनवीय्यः
+> पुत्र एति । जायत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you beget for the sacrificer a son who is a ruler, that is, a lord, shining; an urger of enemies, one who makes them fall away; and विभ्वतष्टं (*vibhvataṣṭaṃ*). Vibhvan is the middle one of the Ṛbhus; he is skilled, and the son made by him is exceedingly handsome. O worshipful ones, you bring forth, that is, produce, such a son. O Maruts, from you there comes a son. What kind of son? मुष्टिहा (*muṣṭihā*): the word "fist" stands for the arm; he is the slayer of enemies by the strength of his own arms. The same is said again: बाहुजूतः (*bāhujūtaḥ*), one whose arm is the impeller of enemies; such a son comes. Likewise, from you comes a son who has good horses, that is, an existing horse or many horses, and who is of excellent valour. That is, such a son is born.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्राः (*yajatrāḥ*)—O Maruts, worthy of worship
+- यूयं (*yūyaṃ*)—you
+- जनाय (*janāya*)—to the sacrificer
+- राजानं (*rājānaṃ*)—shining
+- इर्यं (*iryaṃ*)—destroyer of enemies
+- विभ्वतष्टं (*vibhvataṣṭaṃ*)—made by Vibhvan, such a son
+- जनयथ (*janayatha*)—you cause to be born
+- मरुतः (*marutaḥ*)—O Maruts
+- युष्मत् (*yuṣmat*)—from you
+- मुष्टिहा (*muṣṭihā*)—one who destroys enemies with blows of the fist
+- बाहुजूतः (*bāhujūtaḥ*)—one who conquers enemies with the strength of his arms, such a son
+- एति (*eti*)—is born
+- युष्मत् (*yuṣmat*)—by your favour alone
+- सदश्वः (*sadaśvaḥ*)—one who has an excellent horse
+- सुवीरः (*suvīraḥ*)—one who has excellent valour, such a son is born
+
+### Printed p. 752
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful Maruts, you cause to be born to the sacrificer a son who is shining, a destroyer of enemies, and made by Vibhvan. O Maruts, by your favour a son is born who destroys enemies by the strength of his fist, wins victory by the strength of his arms, and has an excellent horse and excellent valour.
+
+##### English translation
+Adorable Maruts, you cause (a son) to be born to the man (who worships you), a ruler, an over-comer of foes, and modelled by Vibhwan: from you, Maruts comes a valiant descendant, strong-fisted, mighty-armed; from you (he acquires) an excellent steed.
+
+##### विशेषविषयगळु (Special Topics)
+
+विभ्वतष्टं—विश्वानाम ऋभूणां मध्यमः । स कुशली । तेन निर्मितं । अत्यंतरूपवंतमित्यर्थः। (*vibhvataṣṭaṃ—viśvānāma ṛbhūṇāṃ madhyamaḥ | sa kuśalī | tena nirmitaṃ | atyaṃtarūpavaṃtamityarthaḥ|*) In former times the sage Aṅgiras had a son named Nītimañjarī. In his line the sage Sudhanvan had three sons, Ṛbhu, Vibhu and Vāja. By good works such as the performance of righteous rites and the helping of the gods, they obtained the birth of gods, or became gods, so it is traditionally held. It is the custom to call all three sons of Sudhanvan, Ṛbhu and the others, together by the name of the eldest son, the Ṛbhus. The Vibhu named in the present Ṛk is neither the eldest nor the youngest of these Ṛbhus, but the middle one. Since he is very skilled in the making of things, the son made, or given, by him is renowned as exceedingly handsome. By the use of the word विभ्वतष्टं (*vibhvataṣṭaṃ*) here, the Maruts are prayed to bring forth such a son.
+
+मुष्टिहा, बाहुजूतः—मुष्टिशब्दो बाहूपलक्षकः ॥ स्वभुजबलेनैव हंता शत्रूणां । तदेवोच्यते । बाहुजूतः बाहुः प्रेरकः शत्रूणां यस्य तादृशः पुत्र इति । (*muṣṭihā, bāhujūtaḥ—muṣṭiśabdo bāhūpalakṣakaḥ ‖ svabhujabalenaiva haṃtā śatrūṇāṃ | tadevocyate | bāhujūtaḥ bāhuḥ prerakaḥ śatrūṇāṃ yasya tādṛśaḥ putra iti |*) The word "fist" also means the arm; or else, "fist" is the name for folding the five fingers of the hand inwards and using that hand itself as a weapon. The meaning is a son who has the power to slay enemies by using the fist itself as a weapon, by the strength of his arm alone, without using any kind of weapon. To fight a wrestling bout by blows of the fist alone, without the help of weapons, much sturdiness and strength are needed in the body. In order to pray to the Marut deities to grant such an exceedingly strong and firm-limbed son, the words मुष्टिहा, बाहुजूतः (*muṣṭihā, bāhujūtaḥ*) are used in the present Ṛk.
+
 ---
 
-**Progress note:** Done through printed p. 746. hymn 5.58 Rk 1-3, pp. 741-746
+**Progress note:** Done through printed p. 752. Sukta 58 Rk 3 end (Nirukta on kavi) and Rk 4
