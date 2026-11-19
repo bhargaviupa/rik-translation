@@ -26245,7 +26245,7 @@ the 18th, is to be recited as the yājyā mantra in the Sviṣṭakṛt homa; th
 
 ##### Gist of the bhāṣya
 
-The leaders, the ṛtvijs, generate Agni, who is highly extolled, seen from afar or seeing afar, the protector of houses, the approachable one (in the printed text the words stand together: पालकमथर्युमागम्यमतनवंतं (*pālakamatharyumāgamyamatanavaṃtaṃ*)), and who exists in the two araṇis, by the going of the hands, that is, by the movement of the hands, with the fingers. The dīdhitis are the fingers; they are held in the rites. The two araṇis, प्रत्यृत एने (*pratyṛta ene*) **NOTE**, Agni; or, Agni is born from the rubbing of the two. Hastacyutī means by the going of the hands. As Yāska has it: they generate the extolled one, seen from afar, गृहपतिमतनवंतं (*gṛhapatimatanavaṃtaṃ*) (Ni. 5-10).
+The leaders, the ṛtvijs, generate Agni, who is highly extolled, seen from afar or seeing afar, the protector of houses, the approachable one, and who exists in the two araṇis, by the going of the hands, that is, by the movement of the hands, with the fingers. The dīdhitis are the fingers; they are held in the rites. The two araṇis, प्रत्यृत एने (*pratyṛta ene*) **NOTE**, Agni; or, Agni is born from the rubbing of the two. Hastacyutī means by the going of the hands. As Yāska has it: they generate the extolled one, seen from afar, गृहपतिमतनवंतं (*gṛhapatimatanavaṃtaṃ*) (Ni. 5-10).
 
 ### Printed p. 619
 
