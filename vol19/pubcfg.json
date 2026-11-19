@@ -1,6 +1,6 @@
 {
  "vol": 19,
- "range_line": "Maṇḍala 5 · Sūktas 9–62 (sample build: pages translated so far)",
+ "range_line": "Maṇḍala 5 · Sūktas 9–62",
  "adhyaya_line": "First, Second and Third Adhyāyas of the Fourth Aṣṭaka",
  "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>Mysore, 1953",
  "year": "1953",
@@ -8,6 +8,6 @@
  "english_md": "vol19/Rigveda_Samhita_Vol19_English_Translation.md",
  "kannada_md": "vol19/Rigveda_Samhita_Vol19_Kannada_Text.md",
  "supplied_md": "vol19/html/rig_19.md",
- "out": "vol19_sample",
+ "out": "vol19_full",
  "press": "Mysore"
 }
