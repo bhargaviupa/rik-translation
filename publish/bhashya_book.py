@@ -196,6 +196,7 @@ def select(lines, chosen, english=None, lean=False):
         if sec == 'bhashya' and not par[0].startswith('>') and '**NOTE**' not in par[0]:   # a remark of the volume's translator inside the block (its NOTE marks stay)
             rep['remarks'] += 1; st['page'] = False; return
         if (lean or st['eng']) and sec == 'gist' and not par[0].startswith('>'): sec = 'other'   # Gist prose not wanted
+        if st['eng'] and sec == 'grammar': st['page'] = False; return
         if lean:
             par = [l for l in par if DEVA.search(l)]          # no transliteration lines
             if not par or sec == 'grammar': st['page'] = False; return
@@ -225,7 +226,8 @@ def select(lines, chosen, english=None, lean=False):
                 st['sec'] = None; st['last'] = None; continue
             if lvl == 5:
                 st['sec'] = kind(head); st['cut'] = 'b'
-                skip = (st['sec'] == 'gist' and (lean or st['eng'])) or (lean and st['sec'] == 'grammar')
+                # where the English of the bhāṣya exists it renders Sāyaṇa's own grammar; the volume's Grammar list (made from the Kannada) is then left out
+                skip = (st['sec'] in ('gist', 'grammar') and (lean or st['eng']))
                 if st['sec'] in KEPT and not skip: rep[st['sec']] += 1; heading(f'#### {head}')
                 continue
             st['sec'] = None; continue
