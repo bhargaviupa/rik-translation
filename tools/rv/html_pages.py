@@ -54,7 +54,7 @@ def pages_md(path,heads=None):
         if VOL1_HEAD.fullmatch(h):                          # Vol 1 heads: 'ಪೂರ್ವಪೀಠಿಕೆ 3', '4 ಋಗ್ವೇದಭಾಷ್ಯದ' (and OCR variants of the second word)
             n=_head_number(h)
             if n is not None: H.append([ln,n,h]); continue
-        if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಭಾಷ್ಯಸಹಿತಾ','ಗ್ವೇದಸಂಹಿತಾ')):
+        if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಭಾಷ್ಯಸಹಿತಾ','ಗ್ವೇದಸಂಹಿತಾ','ಷ್ಯಸಂಹಿತಾ')):      # 'ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ' (OCR: anusvara) heads were missed in Vol 19 (pp. 176, 194, 236, 262, 278, 308, 366, 390, 436 …)
             n=_head_number(h)
             if n is not None: H.append([ln,n,h])
     off=[n-i for i,(ln,n,h) in enumerate(H)]; del ANOMALIES[:]; fixed=[]

@@ -2984,7 +2984,7 @@ In the second meaning, in the eastern quarter, spreading her own light that is l
 > *upo adarśi śundhyuvo na vakṣo nodhā ivāvirakṛta priyāṇi |*
 > *admasanna sasato bodhayantī śaśvattamāgātpunareyuṣīṇām ‖*
 
-(Ṛ. Saṃ. 1-124-4 — as printed; the last numeral is doubtful in my reading, and the OCR shape "n-nge-V" gives only the first two groups.) *(Verse read letter by letter from the image; the OCR agrees except for "puna-reyuṣīṇām".)* Gloss: "[She] has been seen, like the bosom of a (self-)cleansing woman; as a Nodhas-like [poet] she has made her dear [forms] manifest; waking the sleepers who lie down for food, she has come, the most continual of those who return" — mine and tentative.
+(Ṛ. Saṃ. 1-124-4 — as printed; the last numeral is doubtful in my reading, and the OCR shape "n-nge-V" gives only the first two groups.) *(Verse read letter by letter from the image; the OCR agrees except for "puna-reyuṣīṇām".)* **GLOSS**
 
 In this ṛk the word *vakṣaḥ* is explained as *rūpāṇi* ("forms"). Sāyaṇa: *vakṣāṃsi — vakṣa iti rūpanāma | vantsthānīyāni nīlapītādīni rūpāṇi*: the word *vakṣaḥ* conveys the meaning "form". As a young woman makes manifest the parts of her body, her bosom and so on, so Uṣas makes manifest the forms of the objects — blue, yellow and so on; thus the meaning is explained.
 
@@ -3158,7 +3158,7 @@ Moreover both words *kam* and *īm* are recorded among the names of water (Ni. 2
 > *saktumiva titaunā punanto yatra dhīrā manasā vācamakrata |*
 > *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīrnihitādhi vāci ‖*
 
-(Ṛ. Saṃ. 10-71-2, as printed; the image "೧೦-೭೧-೨"; the OCR is letter-shaped. *titaunā* as printed.) Gloss (the source gives none; mine and tentative): "Where the wise, purifying (speech) as with a sieve, have made speech with the mind — there friends know friendships; an auspicious mark of them is set in speech."
+(Ṛ. Saṃ. 10-71-2, as printed; the image "೧೦-೭೧-೨"; the OCR is letter-shaped. *titaunā* as printed.) **GLOSS**
 
 and in the ṛk
 

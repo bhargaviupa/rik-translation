@@ -25,3 +25,5 @@ Built with `build_vol45.py 7 full` (cleaner `vol67_clean.py`); `publish/out/vol7
 
 ## Pointers
 `vol7/numerals/README.md`.
+
+- **Nov 18 2026, glosses (T12):** 39 more labelled glosses replaced by the marker `**GLOSS**` (248 markers in the volume now; removed text in `review/glosses_removed.tsv`, 2 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).

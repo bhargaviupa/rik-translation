@@ -26,3 +26,5 @@ Not built yet. Use `publish/volbook.py` after normalising the file format (see `
 
 ## Pointers
 `vol14/README.md`, `vol14/vol14_runbook.md`, `vol14/parts/session_state.md`.
+
+- **Nov 18 2026, glosses (T12):** 3 more labelled glosses replaced by the marker `**GLOSS**` (3 markers in the volume now; removed text in `review/glosses_removed.tsv`, 2 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).

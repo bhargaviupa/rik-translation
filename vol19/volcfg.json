@@ -1,0 +1,34 @@
+{
+ "vol": 19,
+ "mandala": 5,
+ "branch": "claude/gracious-hawking-4hwvoy",
+ "source": [
+  "vol19/html/rig_19.md@1-852"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol19/Rigveda_Samhita_Vol19_Kannada_Text.md",
+  "en": "vol19/Rigveda_Samhita_Vol19_English_Translation.md"
+ },
+ "work": "vol19/work",
+ "window": 6,
+ "mandalas": [
+  5
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "layout": "subheads",
+ "printed_english_label": "English translation",
+ "branches": [
+  "claude/gracious-hawking-4hwvoy"
+ ]
+}

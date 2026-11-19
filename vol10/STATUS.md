@@ -25,3 +25,5 @@ Built (`build_vol45.py 10 full`); `publish/out/vol10_full.pdf`.
 
 ## Pointers
 `vol10/README.md`, `vol10/PHASE2_WORKER.md`.
+
+- **Nov 18 2026, glosses (T12):** 2 more labelled glosses replaced by the marker `**GLOSS**` (2 markers in the volume now; removed text in `review/glosses_removed.tsv`, 5 labelled lines left in `review/glosses_left.tsv`); see `review/repair_log.md`. Unlabelled glosses not yet looked for. No final copy while a marker remains (D9).
