@@ -10,5 +10,20 @@
  "supplied_md": "vol21/html/rig_21.md",
  "out": "vol21_full",
  "press": "Śrī Śāradā Press, Mysore",
- "assets": "publish/assets/vol21"
+ "assets": "publish/assets/vol21",
+ "front": {
+  "cover": "cover",
+  "title": "title"
+ },
+ "front_en": "vol21/frontmatter_en.json",
+ "contents_en": "vol21/contents_en.json",
+ "contents": {
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "ಋಗ್ವೇದಸಂಹಿತೆಯ ಇಪ್ಪತ್ತೊಂದನೆಯ ಭಾಗದ",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ }
 }
