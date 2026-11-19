@@ -27749,6 +27749,247 @@ In the sacrifices where Soma is offered, the delight produced in Indra becomes a
 ##### English translation
 At the rites at which the Soma (is offered) the exhilaration (produced) in Indra is a shower (of benefits to the offerer); so is the chaunted hymn with the (recited) prayer : therefore the drinker of the Soma, the partaker of the stale Soma, Maghavan, is to be propitiated by men with praises ; dweller in heaven, he is the lord of sacred songs, unwearied in the protection (of his votaries).
 
+### Printed p. 786
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ततु॑रिर्वी॒रो नर्यो॒ विचे॑ताः॒ श्रोत्रा॒ हवं॑ गृण॒त उ॒र्व्यू॑तिः ।  
+> वसुः॒ शंसो॑ न॒रां का॒रुधा॑या वा॒जी स्तु॒तो वि॒दथे॑ दाति॒  ॑
+> वाजं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ततुरिः । वीरः । नर्यः । विचेताः । श्रोता । हवं । गृणतः । उर्विऊतिः ।  
+> वसुः । शंसः । नरां । कारुधायाः । वाजी । स्तुतः । विदथे । दाति । वाजं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाज्यन्नवानिंद्रो विदथे यज्ञेऽस्माभिः स्तुतः सन् वाजमन्नं दाति । अस्मभ्यं
+> ददाति । कीदृश इंद्रः । ततुरिः शत्रूणां हिंसको वीरो विक्रांतो नर्यो
+> नरहितो विचेता विविक्तज्ञानो हवमस्मदीयं स्तोत्रं श्रोता गृणतः स्तुवतः
+> स्तोतृजनस्योर्वृतिर्विस्तृतरक्षो वसुर्वासयिता नरां नृणां स्तोतृजनानां
+> शंसः शंसनीयः कारुधायाः कारूणां स्तोतृणां धारयिता । एवंभूत इंद्रो
+> वाजं ददातीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra, the possessor of food (वाजी (*vājī*)), when he is praised by us at the sacrifice (विदथे (*vidathe*)), gives food (वाजं (*vājaṃ*)); he gives it to us. What kind of Indra? He is ततुरिः (*taturiḥ*), the destroyer of enemies; वीरः (*vīraḥ*), the valiant; नर्यः (*naryaḥ*), beneficial to men; विचेताः (*vicetāḥ*), of discerning knowledge; the hearer (श्रोता (*śrotā*)) of our invocation (हवं (*havaṃ*)), that is, our praise; the wide protector (उर्व्यूतिः (*urvyūtiḥ*)) of the praising worshipper (गृणतः (*gṛṇataḥ*)); वसुः (*vasuḥ*), one who causes men to dwell; शंसः (*śaṃsaḥ*), worthy of praise among men (नरां (*narāṃ*)), the worshippers; and कारुधायाः (*kārudhāyāḥ*), the supporter of the कारू (*kārū*), the praisers. The connection is that Indra, being such, gives food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ततुरिः (*taturiḥ*)—the destroyer of enemies
+- वीरः (*vīraḥ*)—the valiant one
+- नर्यः (*naryaḥ*)—the one beneficial to men
+- विचेताः (*vicetāḥ*)—the one who has knowledge filled with discernment
+- हवं (*havaṃ*)—our praise
+- श्रोता (*śrotā*)—the one who hears
+- गृणतः (*gṛṇataḥ*)—the sacrificer who praises
+- उर्व्यूतिः (*urvyūtiḥ*)—the one who protects abundantly
+- वसुः (*vasuḥ*)—the giver of dwellings
+- नरां (*narāṃ*)—for the men who are praisers
+- शंसः (*śaṃsaḥ*)—the one worthy of honour
+- कारुधायाः (*kārudhāyāḥ*)—the supporter of the praisers
+- वाजी (*vājī*)—Indra, who possesses food
+- विदथे (*vidathe*)—at the sacrifices
+- स्तुतः (सन्) (*stutaḥ (san)*)—having been praised
+- वाजं (*vājaṃ*)—food
+- दाति (*dāti*)—let him give to us
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the destroyer of enemies, the valiant, the one beneficial to men, the one who has knowledge filled with discernment, the one who hears our praise, the one who protects abundantly the sacrificer who praises, the giver of dwellings, the one worthy of honour among the men who are praisers, the supporter of the praisers, the possessor of food, being praised at the sacrifices, give us food.
+
+### Printed p. 787
+
+##### English translation
+The surpasser (of foes), a hero, the friend of man, the discriminator, the hearer of the invocation, the great protector of his adorers, the giver of dwellings, the ruler of man, the cherisher of his worshippers, the bestower of food, grants us, when glorified at the sacrifice, (abundant) sustenance.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अक्षो॒ न च॒क्र्योः॑ शूर बृ॒हन्प्र ते॑ म॒ह्ना रि॑रिचे॒ रोद॑स्योः।  
+> वृ॒क्षस्य॒ नु ते॑ पुरुहूत व॒या व्यू॒३॒॑शितयो॑ रुरुहुरिंद्रपू॒र्वीः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्षः । न । चक्रोः । शूर । बृहन् । प्र । ते । मह्ना । रिरिचे । रोदस्योः ।  
+> वृक्षस्य । नु । ते । पुरुहूत । वयाः । वि । ऊतयः । रुरुहुः। इंद्र! पूर्वीः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर विक्रांतेंद्र बृहन् महान् ते त्वदीयो मह्ना महिमा रोदस्योर्द्यावापृथिव्योः प्र रिरिचे । अतिरिच्यते । द्यावापृथिवीभ्यामित्यर्थः । अत्र
+> दृष्टांतः । चक्रोश्चक्रयोरक्षो न । रथसंबंध्यक्षो यथा चक्राभ्यां बहिर्गतस्तद्वत् । हे पुरुहूत बहुभिराहूतेंद्र त्वदीयाः पूर्विर्बह्व ऊतयो रक्षा वि
+> रुरुहुः । विशेषेण रोहंति । तत्र दृष्टांतः । वृक्षस्य नु । यथा वृक्षस्य वयाः
+> शाखा विरोहंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O valiant (शूर (*śūra*)) Indra, your great (बृहन् (*bṛhan*)) greatness (मह्ना (*mahnā*)) exceeds (प्र रिरिचे (*pra ririce*), meaning अतिरिच्यते (*atiricyate*)) heaven and earth (रोदस्योः (*rodasyoḥ*)); that is, it is greater than heaven and earth. The illustration here: like the axle (अक्षो न (*akṣo na*)) of a chariot that has gone out beyond the two wheels (चक्रोः (*cakroḥ*)). O Puruhūta (पुरुहूत (*puruhūta*)), Indra invoked by many, your many (पूर्विः (*pūrviḥ*)) protections (ऊतयः (*ūtayaḥ*)) spread out specially (वि रुरुहुः (*vi ruruhuḥ*)). The illustration there: like the branches (वयाः (*vayāḥ*), meaning शाखा (*śākhā*)) of a tree (वृक्षस्य नु (*vṛkṣasya nu*)) that spread out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O Indra, the valiant
+- चक्र्योः (*cakryoḥ*)—extending beyond the wheels
+- अक्षो न (*akṣo na*)—like an axle **NOTE**
+- ते (*te*)—your
+- बृहन् (*bṛhan*)—great
+- मह्ना (*mahnā*)—greatness
+- रोदस्योः (*rodasyoḥ*)—more than heaven and earth
+- प्र रिरिचे (*pra ririce*)—has exceeded and spread
+- पुरुहूत (*puruhūta*)—who are called by many
+- इंद्र (*iṃdra*)—O Indra
+- वृक्षस्य नु वयाः (*vṛkṣasya nu vayāḥ*)—the branches of a tree, in whatever manner they
+
+### Printed p. 788
+
+spread upward, so
+
+- पूर्विः (*pūrviḥ*)—exceedingly great
+- ते ऊतयः (*te ūtayaḥ*)—your protections
+- वि रुरुहुः (*vi ruruhuḥ*)—have spread out specially
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, your great greatness has spread out beyond heaven and earth, like an axle that spreads out beyond the wheels. O Indra, called by many, as the branches of a tree spread out on all sides, so your exceedingly great protections have spread out specially.
+
+##### English translation
+Mighty hero, by your magnitude, (the extant) of heaven and earth is exceeded, as the axle by the (circumference of the) wheels : invoked of many, your numerous benefits, Indra, spread out like the branches of a tree.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the sentence in this Ṛk, वृक्षस्य नु ते पुरुहूत वयाः (*vṛkṣasya nu te puruhūta vayāḥ*), Yāska has given the following etymology:
+
+वृक्षस्य नु ते पुरुहूत वयाः । वृक्षस्येव ते पुरुहूत शाखाः । वयाः शाखाः वेतेर्वातायना भवंति । शाखाः खशयाः शक्नोतेर्वा । (*vṛkṣasya nu te puruhūta vayāḥ | vṛkṣasyeva te puruhūta śākhāḥ | vayāḥ śākhāḥ vetervātāyanā bhavaṃti | śākhāḥ khaśayāḥ śaknotervā |*) (Ni. 1-4)
+
+The word वयाः (*vayāḥ*) is formed from the root वि (*vi*), "to move", and indicates the meaning "branches of a tree". These branches or boughs move by the wind. Therefore the word वयाः (*vayāḥ*) means the boughs of a tree that move (sway) by the wind. Or else the word वयाः (*vayāḥ*) or शाखाः (*śākhāḥ*) may also be formed from the root शक् (*śak*), "to stand". How? By transposing the letters of the word शाखा (*śākhā*) it becomes खशा (*khaśā*). ख (*kha*) means the atmosphere; शा (*śā*) are those that are in it or abide there. Therefore the boughs of a tree are called शाखाः (*śākhāḥ*) or वयाः (*vayāḥ*): this is the chief sense of the etymological sentence.
+
+### Printed p. 789
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शची॑वतस्ते पुरुशाक॒ शाका॒ गवा॑मिव स्रु॒तयः॑ सं॒चर॑णीः ।  
+> व॒त्सानां॒ न तं॒तय॑स्त इंद्र॒ दाम॑न्वंतो अदा॒मानः॑  
+> सुदामन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शचीवतः । ते । पुरुशाक । शाकाः । गवांइव । स्रुतयः । संचरणीः ।  
+> वत्सानां । न । तंतयः । ते । इंद्र । दामन्वंतः । आदामानः । सुदामन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुशाक बहुकर्मन्निंद्र शचीवतः प्रज्ञावतस्ते त्वदीयाः शाकाः शक्तयः
+> कर्माणि वा सर्वतः संचरंतीति शेषः । तत्र दृष्टांतः । गवामिव धेनूनां स्रुतयो
+> मार्गा यथा संचरणीः सर्वत्र संचारिणो भवंति तद्वत् । अपि च वत्सानां न
+> तंतयः । तंतिर्नाम दीर्घप्रसारिता रज्जुः यत्र नियतैर्विशाखदामभिर्बहवो
+> वत्सा बध्यंते । यथा तंतयो बहूनां वत्सानां बंधका हे सुदामन् शोभनदानेंद्र तथा ते त्वदीयाः शाका दामन्वंतो बंधनवंतो बहूनां शत्रूणां
+> बंधका अदामानः स्वयमन्वैरबद्धाः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Puruśāka (पुरुशाक (*puruśāka*)), Indra of many works, your powers or works (शाकाः (*śākāḥ*)), you who are possessed of wisdom (शचीवतः (*śacīvataḥ*)), move about everywhere; "move about" is the word to be supplied. The illustration: as the tracks (स्रुतयः (*srutayaḥ*)) of cows, of milch cows, are movable everywhere (संचरणीः (*saṃcaraṇīḥ*)). Also like the cords (तंतयः (*taṃtayaḥ*)) of calves: a तंति (*taṃti*) is a long stretched rope to which many calves are bound by fixed side-ropes. As the cords are binders of many calves, O Sudāman (सुदामन् (*sudāman*)), Indra of excellent gifts, so your powers are possessed of bonds (दामन्वंतः (*dāmanvaṃtaḥ*)), binders of many enemies, and not themselves bound (आदामानः (*ādāmānaḥ*)) by others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुशाक (*puruśāka*)—O Indra, who have many works
+- शचीवतः (*śacīvataḥ*)—who are possessed of wisdom
+- ते (*te*)—your
+- शाकाः (*śākāḥ*)—powers
+- गवां (*gavāṃ*)—of cows
+- स्रुतय इव (*srutaya iva*)—like the paths of movement
+- संचरणीः (*saṃcaraṇīḥ*)—spread everywhere and are fit for movement
+- वत्सानां (*vatsānāṃ*)—which bind calves
+- तंतयो न (*taṃtayo na*)—like ropes
+- सुदामन् (*sudāman*)—who are an excellent giver
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your powers
+- दामन्वंतः (*dāmanvaṃtaḥ*)—are such as bind enemies
+- आदामानः (*ādāmānaḥ*)—and are not themselves bound
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of many works, as the paths of movement of cows, though spread out and scattered everywhere, gather together again, so your various powers, you who are possessed of wisdom, though they spread and move everywhere, gather and unite again. O Indra, excellent giver, your powers are such as bind enemies, and are not themselves bound.
+
+### Printed p. 790
+
+##### English translation
+Accomplisher of many acts, the energies of you who are (ever) active (congregate from all directions), like the converging tracks of cattle : they are the bonds (of foes) themselves unfettered, munificent Indra, like the tethers of (many) calves.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्यद॒द्य कर्व॑रम॒न्यदु॒ श्वोऽस॑च्च॒ सन्मुहु॑राच॒क्रिरिंद्रः॑ ।  
+> मि॒त्रो नो॒ अत्र॒ वरु॑णश्च पू॒षायो वश॑स्य पर्ये॒तास्ति॑ ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्यत् । अद्य । कर्वरं । अन्यत् । ऊं इति । श्वः । असत् । च । सत् । मुहुः । आचक्रिः । इंद्रः ।  
+> मित्रः । नः । अत्र । वरुणः । च । पूषा । अर्यः । वशस्य । परिएता । अस्ति ॥ ५ ।'
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रोऽद्यास्मिन्दिवसेऽन्यत्कर्वरं । कर्मनामैतत् । कर्म करोति ।
+> अन्यदु अन्यदेवोक्तविलक्षणमेव कर्म श्वः परस्मिन्निने करोति । एतदेव विव्रियते ।
+> असच्चाशुभमशनिपातनादिकं सत् वर्षणादिकं शोभनं कर्म च । यद्वा । त्रिशिरसो
+> विश्वरूपस्य वधादिकमसत्कर्म लोकोपद्रवकारिणो वृत्रादेरसुरस्य वधादिरूपं
+> सत्कर्म च मुहुः पुनः पुनरसाविंद्र आचक्रिः कर्ता भवति । एवं परस्परविलक्षणं
+> कर्म स्वमहिम्ना पुनः पुनरावर्तयन् प्रतिदिवसमन्यदेव परेषामसाधारणं कर्म
+> करोतीत्यर्थः । एवंविध इंद्रोऽत्रास्मिन्यज्ञॆ नोऽस्माकं वशस्य कामयितव्यस्य
+> फलस्य स्वर्गादेः पर्येतास्ति । परिगमयिता भवतु ॥ अस्तेर्लेट रूपं ॥ मित्रोऽहरभिमानी देवो वरुणो रात्र्यभिमानी पूषा पोषको देवोऽर्यः प्रेरकः
+> सवितैते चेंद्रेण नियम्यमाना अस्मदीयस्य कामस्य परिगमयितारः संतु । यद्वा
+
+### Printed p. 791
+
+> मित्रादयोऽप्यत्र स्वप्रधान्येनाभिधीयंते । मित्रादय इंद्रः प्रत्येकमस्मदीयस्य
+> कामस्य पर्येतास्तु । तथा बृहद्देवतायामुक्तं । प्रोतयेऽन्यदिति त्वेते
+> वैश्वदेव्यावृचौ स्मृते इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: this Indra today (अद्य (*adya*)) does one work (कर्वरं (*karvaraṃ*), which he says is a name for work), and tomorrow (श्वः (*śvaḥ*)) another, quite different from the one stated. This is explained: असत् (*asat*) is the inauspicious work such as hurling the thunderbolt, and सत् (*sat*) is the auspicious work such as raining. Or else: the killing and the like of the three-headed Viśvarūpa is the inauspicious work, and the killing and the like of an asura such as Vṛtra, who harasses the world, is the auspicious work; again and again (मुहुः (*muhuḥ*)) this Indra is the doer (आचक्रिः (*ācakriḥ*)). The sense is that, repeating by his own greatness works that differ from one another, every day he does another work that others cannot share. Indra, such as he is, in this sacrifice, let him be the one who conducts to its end (पर्येतास्ति (*paryetāsti*), meaning परिगमयिता भवतु (*parigamayitā bhavatu*)) the fruit to be desired (वशस्य (*vaśasya*)), such as heaven, for us. Mitra (मित्रः (*mitraḥ*)) is the deity presiding over the day, Varuṇa (वरुणः (*varuṇaḥ*)) the deity presiding over the night, Pūṣan (पूषा (*pūṣā*)) the nourishing deity, and Arya the impeller, Savitṛ; these, controlled by Indra, are to be conductors of our desire. Or else Mitra and the others are also named here in their own right; each of Mitra and the others, and Indra, is to be the conductor of our desire. And so it is said in the Bṛhaddevatā: प्रोतयेऽन्यदिति त्वेते वैश्वदेव्यावृचौ स्मृते इति (*protaye 'nyaditi tvete vaiśvadevyāvṛcau smṛte iti*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अद्य (*adya*)—today (one day)
+- अन्यत् (*anyat*)—does one kind of work
+- श्वः (*śvaḥ*)—tomorrow (another day)
+- अन्यदु (*anyadu*)—does a different kind of work
+- असच्च (*asacca*)—the inauspicious work
+- सत् (*sat*)—and the good work
+- इंद्रः (*iṃdraḥ*)—Indra
+- मुहुः (*muhuḥ*)—again and again
+- आचक्रिः (*ācakriḥ*)—accomplishes (such a valiant Indra)
+- अत्र (*atra*)—in this sacrifice
+- नः (*naḥ*)—for us
+- वशस्य (*vaśasya*)—to the heaven and the like that are desired
+- पर्येतास्ति (*paryetāsti*)—let him be the one who leads
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- पूषा (*pūṣā*)—the god Pūṣan
+- आर्यः चॆ (*āryaḥ cè*)—and the venerable Savitṛ (let them, together with Indra, be our helpers) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is able for many works, does one kind of work today and another kind of work another day. Indra accomplishes all works, the auspicious and the inauspicious, again and again. May this valiant Indra, in this sacrifice, be the one who leads us to the desired heaven and the like. May Mitra, Varuṇa, the god Pūṣan and the venerable Savitṛ also, together with Indra, be helpers to us.
+
+##### English translation
+Indra achieves one act to-day, another to-morrow, evil and good repeatedly : may he, and Mitra, Varuna, Pushan, Arya, be on this occasion promoters of the desired result.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि त्वदापो॒ न पर्व॑तस्य पृ॒ष्ठादु॒क्थेभि॑रिंद्रानयंत य॒ज्ञैः ।  
+> तं त्वा॒भिः सु॑ष्टु॒तिभि॑र्वा॒जयं॑त आ॒जिं न ज॑ग्मुर्गिवार्वाहो॒  ॑
+> अश्वाः ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 785. Mandala 6 sukta 23 rks 7-10; sukta 24 rk 1 (pp. 780-785)
+**Progress note:** Done through printed p. 791. Mandala 6 sukta 24 rks 2-6 (pp. 786-791)
