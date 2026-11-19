@@ -42,7 +42,7 @@ def parse(lines, start_word, end_word, fixes=None):
     idx = [i for i, l in enumerate(lines) if start_word in l]
     s = idx[1] if len(idx) > 1 else idx[0]
     e = next(i for i, l in enumerate(lines) if end_word in l and i > s)
-    blocks, pend = [], None
+    blocks, pend, carry = [], None, None
     def flush():
         nonlocal pend
         if pend:
@@ -54,9 +54,14 @@ def parse(lines, start_word, end_word, fixes=None):
         if txt == 'ಪುಟಸಂಖ್ಯೆ': continue
         txt = re.sub(r'^ಪುಟಸಂಖ್ಯೆ\s+', '', txt)          # the column head 'page number' repeated at the top of a printed page of the contents (Vol 18)
         if txt in ('॥ ಶ್ರೀಃ ॥',) or txt.startswith('ಋಗ್ವೇದಸಂಹಿತೆಯ') or txt.replace(' ', '') == 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ': continue
+        if re.fullmatch(r'\d{1,3}', txt):                     # a bare page number printed above the '## heading' it belongs to (Vol 21: '586' before '## ಹಸ್ತಘ್ನದ ವಿವರಣೆ …'): carried to that heading
+            nxt = next((lines[j].strip() for j in range(i + 1, e) if lines[j].strip()), '')
+            if nxt.startswith('## ') and not ROMAN.match(nxt): carry = int(txt); continue
         m = re.match(rf'^([{KDIG}]+)[\.\s]+(.*ಸೂಕ್ತ.*)$', txt)
         if m:
             flush(); blocks.append({'t': 'sukta', 'no': m.group(1), 'text': m.group(2).strip(), 'src': i + 1}); continue
+        if carry is not None and raw.startswith('## '):
+            flush(); blocks.append({'t': 'item', 'text': txt.rstrip('—').strip(), 'page': carry, 'src': i + 1}); carry = None; continue
         if raw.startswith('## ') or re.search(r'(ಸಮಾಪ್ತವು|ಮಂಡಲದ—|ಮಂಡಲವು)\.?$', txt):
             flush()
             t = 'mandala' if re.search(r'ಮಂಡಲ', txt) and not raw.startswith('## ') else 'center'

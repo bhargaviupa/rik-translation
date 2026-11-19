@@ -98,7 +98,7 @@ def contents_html(cfg):
     lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
-    blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), 'ಸಂಕೇತಾಕ್ಷರಗಳ', f)
+    blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), c.get('end', 'ಸಂಕೇತಾಕ್ಷರಗಳ'), f)
     for b in blocks:
         if b['t'] == 'item' and isinstance(f.get(str(b['src'])), int): b['page'] = f[str(b['src'])]
     h = c['heading']
@@ -176,7 +176,7 @@ def contents_en_html(cfg, fe, suk_ids):
     lines = (ROOT / cfg['supplied_md']).read_text(encoding='utf-8').split('\n')
     fxp = ROOT / c['fixes'] if c.get('fixes') else None
     f = json.loads(fxp.read_text(encoding='utf8')) if fxp and fxp.exists() else {}
-    blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), 'ಸಂಕೇತಾಕ್ಷರಗಳ', f)
+    blocks = contents_parse.parse(lines, c.get('start', 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ'), c.get('end', 'ಸಂಕೇತಾಕ್ಷರಗಳ'), f)
     ov = {str(k): v for k, v in cfg.get('contents_target_overrides', {}).items()}
     h = fe['contents']['heading']
     def conv(t):
@@ -389,7 +389,7 @@ def build_eng(cfg, html_only):
     suk_ids = [h for h, l, c in toc if c == 'sukta']
     if fe and cfg.get('contents_en'):
         ch = contents_en_html(cfg, fe, suk_ids); blocks = []
-        ab = abbreviations_en(fe)
+        ab = abbreviations_en(fe) if fe.get('abbreviations') else ''      # Vol 21 has no list of abbreviations
         idx = ''
     else:
         idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
