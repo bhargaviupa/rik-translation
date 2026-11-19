@@ -25881,6 +25881,126 @@ Therefore Vasiṣṭha, and all the seers born in the family of Vasiṣṭha, us
 
 तस्माद्येऽद्यापि वासिष्ठाः सदस्याः स्युस्तु कर्हिचित् । अर्हयेद्दक्षिणाभिस्तान् भाल्लवेया श्रुतिस्त्वियं ॥ (*tasmādye 'dyāpi vāsiṣṭhāḥ sadasyāḥ syustu karhicit | arhayeddakṣiṇābhistān bhāllaveyā śrutistviyaṃ ‖*) (Bṛ. De. 5-159)
 
+### Printed p. 600
+
+Because of such power, even in the present age, in all sacrificial assemblies only those born in the family of Vasiṣṭha are to be chosen for this excellent position: so the Bhāllavī Śruti passage declares.
+
+Thus there is yet another episode that tells the greatness of Vasiṣṭha, and it praises this seer's skill in action. Its particulars are as follows.
+
+वरुणस्य गृहान्रात्रौ वसिष्ठः स्वप्न आचरत् । प्राविवेशाथ तं तत्र श्वा नदन्नभ्यधावत । क्रंदंतं सारमेयं स धावंतं दष्टुमुद्यतं ॥ (*varuṇasya gṛhānrātrau vasiṣṭhaḥ svapna ācarat | prāviveśātha taṃ tatra śvā nadannabhyadhāvata | kraṃdaṃtaṃ sārameyaṃ sa dhāvaṃtaṃ daṣṭumudyataṃ ‖*) (Bṛ. De. 6-11, 12)
+
+In the night, in a dream, Vasiṣṭha entered the house of Varuṇa. At that time a dog chased after him. As that dog, seeing him, came running barking, intending to bite, he, wishing to pacify it,
+
+यदर्जुनेति च द्वाभ्यां सांत्वयित्वा व्यसुष्वपत् । स तं प्रस्वापयामास जनमन्यं च वारुणं ॥ (*yadarjuneti ca dvābhyāṃ sāṃtvayitvā vyasuṣvapat | sa taṃ prasvāpayāmāsa janamanyaṃ ca vāruṇaṃ ‖*) (Bṛ. De. 6-13)
+
+recited the mantras beginning यदर्जुन (*yadarjuna*) (Ṛ. Saṃ. 7-55-2), well known in the Ṛk-saṃhitā, and made the dog fall asleep. In the same way he enchanted Varuṇa's other servants too, so that they slept.
+
+ततस्तु वरुणो राजा स्वैः पाशैः प्रत्यबध्यत । स बद्धः पितरं सूक्तैश्च तुर्भिरित उत्तरैः ॥ (*tatastu varuṇo rājā svaiḥ pāśaiḥ pratyabadhyata | sa baddhaḥ pitaraṃ sūktaiśca turbhirita uttaraiḥ ‖*) (Bṛ. De. 6-14)
+
+Varuṇa, seeing that the dog and the servants had thus been enchanted, came himself in person and bound Vasiṣṭha. Then Vasiṣṭha praised and extolled the father (Varuṇa) who had bound him with four sūktas.
+
+अभितुष्टाव धीरेति मुमोचैनं ततः पिता । ध्रुवासु त्वेति चोक्तायां पाशा अस्मात्पमोचिरे ॥ (*abhituṣṭāva dhīreti mumocainaṃ tataḥ pitā | dhruvāsu tveti coktāyāṃ pāśā asmātpamocire ‖*) (Bṛ. De. 6-15)
+
+Then Vasiṣṭha recited four sūktas, together with the sūkta that begins with the mantra धीरा त्वस्य महिना (*dhīrā tvasya mahinā*), and praised Varuṇa. Pleased with that, Varuṇa released Vasiṣṭha from his bonds. As soon as the mantra ध्रुवासु त्वासु (*dhruvāsu tvāsu*) (Ṛ. Saṃ. 7-88-7) was recited, the noose with which Varuṇa had bound him came undone: thus Vasiṣṭha's skill in action is praised.
+
+### Printed p. 601
+
+Thus the occasions on which Vasiṣṭha became the object of the displeasure of his father Varuṇa, and again the object of that same Varuṇa's favour, are specified in many places in the Ṛk-saṃhitā itself.
+
+उवाच मे वरुणो मेधिराय त्रिः सप्त नामाघ्न्या बिभर्ति । विद्वान् पदस्य गुह्या न वोचद्युगाय विप्र उपराय शिक्षन् ॥ (*uvāca me varuṇo medhirāya triḥ sapta nāmāghnyā bibharti | vidvān padasya guhyā na vocadyugāya vipra uparāya śikṣan ‖*) (Ṛ. Saṃ. 7-87-4)
+
+In this mantra Vasiṣṭha has told the nature of the teaching of knowledge that he received from Varuṇa. “Varuṇa has borne for me, the wise one, the Aghnyā (cow) having twenty-one (21) kinds of names; that is, he has taught me. He, the all-knowing, has also taught me, who am endowed with yoga, the most excellent secret of the world of Brahmā”: thus Vasiṣṭha has praised his father.
+
+By the mantras beginning आ यद्रुहाव वरुणश्च नावं (*ā yadruhāva varuṇaśca nāvaṃ*) (Ṛ. Saṃ. 7-88-3), the close relation of Varuṇa and Vasiṣṭha is described, as explained below.
+
+“When I (Vasiṣṭha) and Varuṇa together board the boat, launch it into the midst of the sea and move about in the midst of the water, then we enjoy the pleasure of rocking in the midst of the water. Varuṇa, from a father's affection, seated Vasiṣṭha in his boat, gave him his protection, and helped so that most excellent deeds were accomplished by him. He made all the days of that same Vasiṣṭha, his worshipper, most happy.” (7-88-3, 4)
+
+In these and many other places it is described how, by the favour of Varuṇa, Vasiṣṭha performed good deeds and enjoyed the happiness that was their fruit. All this will be told in the respective contexts. Besides this, in some situations it is also indicated that Vasiṣṭha became the object of Varuṇa's displeasure.
+
+किमाग आस वरुण ज्येष्ठं यत् स्तोतारं जिघांससि सखायं । प्र तन्ने वोचो दूळभ स्वधावोऽव नमसा तुर इयां ॥ (*kimāga āsa varuṇa jyeṣṭhaṃ yat stotāraṃ jighāṃsasi sakhāyaṃ | pra tanne voco dūḷabha svadhāvo 'va namasā tura iyāṃ ‖*) (Ṛ. Saṃ. 7-86-4)
+
+“O Varuṇa, what sin have I, your devotee, committed? For what reason do you wish to harm me, your friend? O radiant Varuṇa, tell me at least the nature of that sin. I shall beg your forgiveness for it with repentance”: thus I cry out, and so on. But this situation is described in this one place only. In all other places Vasiṣṭha is praised as a most excellent knower of Brahman and as a seer worthy of the respect of all gods, men and others. The direct realisation of the Marut principle, which was not possible for other seers, became possible for Vasiṣṭha alone,
+
+### Printed p. 602
+
+and thus the greatness of Vasiṣṭha is praised. The greatness of such a Vasiṣṭha is praised in many places in the Brāhmaṇas and other works, as seen below. For example:
+
+ऋषयो वा इंद्रं प्रत्यक्षं नापश्यंस्तं वसिष्ठ एव प्रत्यक्षमपश्यत् । सोऽबिभेदितरेभ्यो मा ऋषिभ्यः प्रवक्ष्यतीति । सोऽब्रवीद्ब्राह्मणं ते वक्ष्यामि यथा त्वत्पुरोहिताः प्रजाः प्रजनिष्यंते । अथ मा इतरेभ्य ऋषिभ्यो मा प्रवोच इति तस्मा एतान्नॊत्तमभागानब्रवीत्ततो वसिष्ठपुरोहिताः प्रजाः प्राजायंत ॥ (*ṛṣayo vā iṃdraṃ pratyakṣaṃ nāpaśyaṃstaṃ vasiṣṭha eva pratyakṣamapaśyat | so 'bibheditarebhyo mā ṛṣibhyaḥ pravakṣyatīti | so 'bravīdbrāhmaṇaṃ te vakṣyāmi yathā tvatpurohitāḥ prajāḥ prajaniṣyaṃte | atha mā itarebhya ṛṣibhyo mā pravoca iti tasmā etānnòttamabhāgānabravīttato vasiṣṭhapurohitāḥ prajāḥ prājāyaṃta ‖*) (Kāraka. 37-17) **NOTE**
+
+To none of the seers did Indra become directly visible; they could not see him. Vasiṣṭha alone was able to behold the form of Indra directly. Then Indra, from the fear “Where will this Vasiṣṭha explain my nature to the other seers?”, made a promise to Vasiṣṭha. It was this: “You must not explain my nature to others. All the men who accept you as their priest will have offspring and sons.” So he requested, and Vasiṣṭha agreed to it. Indra taught this Brāhmaṇa passage. As a result, all the people who chose Vasiṣṭha as their priest obtained the wealth of offspring. The story concerning this same friendship of Indra and Vasiṣṭha is told in the Brāhmaṇa of the Śatapatha in this manner.
+
+वसिष्ठो ह विराजं विदां चकार ताग्ं हैंद्रोऽभिदध्यौ । स होवाच । (*vasiṣṭho ha virājaṃ vidāṃ cakāra tāgṃ haiṃdro 'bhidadhyau | sa hovāca |*) (Śa. Brā. 12-6-1-38)
+
+Only Vasiṣṭha knew the nature of the Virāṭ metre. Indra too felt the wish to know it. Then he approached Vasiṣṭha and said, “You have the knowledge of the nature of the Virāṭ metre. Tell it to me also.” Then Vasiṣṭha said, “What is my reward for that?” Indra said, “In return I shall give you the power to set right all the defects that occur in the sacrifice.” Not only that, he said that he would also teach him the way of reaching heaven by means of the sacrifice. Then Vasiṣṭha taught Indra the nature of the Virāṭ metre. In return Indra told Vasiṣṭha the whole secret of the sacrifice, and told him all the vyāhṛtis. Therefore it is said that originally **NOTE** Vasiṣṭha alone held the position of Brahman in the sacrifice. This manner of teaching is told in another way in the Ṣaḍviṃśa Brāhmaṇa.
+
+### Printed p. 603
+
+इंद्रो ह विश्वामित्रायोक्तमुवाच वसिष्ठाय ब्रह्म वागुक्थमित्येव विश्वामित्राय मनो ब्रह्म वसिष्ठाय । तद्वा एतद्वासिष्ठं ब्रह्म । आपि ह एवं विधः वा वासिष्ठं वा ब्रह्माणं कुर्वीत । (*iṃdro ha viśvāmitrāyoktamuvāca vasiṣṭhāya brahma vāgukthamityeva viśvāmitrāya mano brahma vasiṣṭhāya | tadvā etadvāsiṣṭhaṃ brahma | āpi ha evaṃ vidhaḥ vā vāsiṣṭhaṃ vā brahmāṇaṃ kurvīta |*) (Pa. Brā. 1-5) **NOTE**
+
+Indra taught Viśvāmitra the uktha mantra and Vasiṣṭha brahma (devotion). The uktha is of the nature of speech. He made the whole secret of speech understood by Viśvāmitra. Brahma is the self; he made this nature of the self understood by Vasiṣṭha. Therefore spiritual power became Vasiṣṭha's. For that very reason it is explained that those of Vasiṣṭha's line alone became fit for the office of Brahman. Such occasions show that Vasiṣṭha is of greater glory than even Viśvāmitra. And it is this Vasiṣṭha, the knower of Brahman, who is praised throughout the Mahābhārata and other works.
+
+वसिष्ठं श्रेष्ठमासीनं ऋषीणां भास्करद्युतिं । पप्रच्छ जनको राजा ज्ञानं नैश्रेयसं परं ॥ परमध्यात्मकुशलं अध्यात्मगतिनिश्चयं । मैत्रावरुणिमासीनमभिवाद्य कृतांजलिः ॥ (*vasiṣṭhaṃ śreṣṭhamāsīnaṃ ṛṣīṇāṃ bhāskaradyutiṃ | papraccha janako rājā jñānaṃ naiśreyasaṃ paraṃ ‖ paramadhyātmakuśalaṃ adhyātmagatiniścayaṃ | maitrāvaruṇimāsīnamabhivādya kṛtāṃjaliḥ ‖*) (Ma. Bhā. Śā. Pa. 120-12) **NOTE**
+
+King Janaka, with joined palms, approached Vasiṣṭha, the son of Mitra and Varuṇa, and asked that he teach him the knowledge of Brahman. It is said that Vasiṣṭha, the most excellent of all the seers, possessed of a radiance equal to the sun's, and fully endowed with the knowledge of the Self, taught the knowledge of Brahman, which leads to liberation.
+
+The word Vasiṣṭha is formed from the root *vas*, which gives the meanings of shining, dwelling and covering. The epithet Vasiṣṭha, applied also to Agni, who shines exceedingly, who gives shelter, and who has the power to cover the whole world, describes these qualities of his. It would not be wrong to say that in some such passages identity of Vasiṣṭha and Agni itself is stated.
+
+The same description by which Vasiṣṭha is described as having stood on the lotus (*puṣkara*), shining with the most excellent radiance, applies to Agni also.
+
+त्वामग्ने पुष्करादध्यथर्वा निरमंथत । मूर्ध्नो विश्वस्य वाघतः ॥ (*tvāmagne puṣkarādadhyatharvā niramaṃthata | mūrdhno viśvasya vāghataḥ ‖*) (Ya. Saṃ. 6-16-13) **NOTE**
+
+### Printed p. 604
+
+This sentence, which says “O Agni, the seer Atharvāṅgirasa churned you out on the lotus and established you”, is cited also in the Taittirīya Saṃhitā (Tai. Saṃ. 4-1-3; 5-1-4). Besides, in the Ṛk-saṃhitā itself, describing the Agni of whom
+
+नि होता होतृषदने विदानस्त्वेषो दीदिवा असादत्सुदक्षः । अदब्धप्रमतिर्वसिष्ठः सहस्रंभरः शुचिजिह्वो अग्निः ॥ (*ni hotā hotṛṣadane vidānastveṣo dīdivā asādatsudakṣaḥ | adabdhapramatirvasiṣṭhaḥ sahasraṃbharaḥ śucijihvo agniḥ ‖*) (Ṛ. Saṃ. 2-9-1)
+
+it is said that Agni, who is of unhindered observances and who is Vasiṣṭha, is established on the northern altar; the same sentence is rendered again in the Taittirīya Saṃhitā. Here Sāyaṇa explains *hotṛṣadana* as the northern altar. Describing the adornment of this same northern altar, the Taittirīya Āraṇyaka states as follows.
+
+जानुदघ्नीमुत्तरवेदीं खात्वा । अपां पूरयति । अपांग्‌सर्वत्याय । पुष्करपर्णग्० रुक्मं पुरुषमित्युपदधाति । तपो वै पुष्करपर्णं । सत्यग्० रुक्मः ॥ (*jānudaghnīmuttaravedīṃ khātvā | apāṃ pūrayati | apāṃgsarvatyāya | puṣkaraparṇag0 rukmaṃ puruṣamityupadadhāti | tapo vai puṣkaraparṇaṃ | satyag0 rukmaḥ ‖*) (Trai. Ā. 1-25) **NOTE**
+
+It is laid down that after the northern altar has been dug, it is to be filled with all-pervading water and a lotus leaf spread out, and that Agni is to be established on this lotus leaf. In the Bṛhaddevatā it is said, “Vasiṣṭha, standing on the lotus, performed great austerity.” In the sentence now cited, identity of the lotus leaf and austerity is stated. (In such situations an import may be imagined merely from the similarity of the sentences, but no one can say that this is the final, precise import. Sāyaṇa and others themselves state alternative imports in such situations.)
+
+In the sentence of the Ṛk-saṃhitā (2-9-1) cited above, in which Agni is described as Vasiṣṭha, the same sentence is cited in the Aitareya Brāhmaṇa also,
+
+अग्निर्वै देवानां होता .... .... अग्निर्वै देवानां वसिष्ठः (*agnirvai devānāṃ hotā .... .... agnirvai devānāṃ vasiṣṭhaḥ*) (Ai. Brā. 1-28)
+
+and so it is explained. The meaning that is given to the word Vasiṣṭha in sentences such as आ यस्ते अग्न इधते अनेकं वसिष्ठ (*ā yaste agna idhate anekaṃ vasiṣṭha*) (Ṛ. Saṃ. 7-1-8) **GLOSS** is the very meaning that is well known in the Brāhmaṇas and other works also. The great quality of the sun and other bodies, which are endowed with the greatness of radiance, is what is indicated by this word Vasiṣṭha. This radiance is known in a threefold way in these three worlds: the earth, the atmosphere and the heaven. That there is only one Agni, specified by these three names, Agni, Vāyu and Sūrya,
+
+### Printed p. 605
+
+has been stated on many occasions earlier. The surpassing greatness of these principles of radiance could be directly realised by no one other than Vasiṣṭha, whose very nature is radiance. The same matter is praised in the Ṛk-saṃhitā in this way.
+
+त्रयः कृण्वंति भुवनेषु रेतस्ति स्रः प्रजा आर्या ज्योतिरग्राः । त्रयो घर्मास उषसं सचंते सर्वा इत्ता अनु विदुर्वसिष्ठाः ॥ (*trayaḥ kṛṇvaṃti bhuvaneṣu retasti sraḥ prajā āryā jyotiragrāḥ | trayo gharmāsa uṣasaṃ sacaṃte sarvā ittā anu vidurvasiṣṭhāḥ ‖*) (Ṛ. Saṃ. 7-33-7)
+
+In the three worlds (earth, atmosphere and heaven) Agni, Vāyu and Sūrya, by their powers, produce water, which has the property of sustaining the universe. From those three, three offspring headed by the Āditya have been produced. These three, shining, attend upon Uṣas. This principle is realised by none but the Vasiṣṭhas: such is the import of these sentences. In explaining them Sāyaṇa has also cited a Śruti sentence of Śātyāyana. Therefore,
+
+सूर्यस्येव वक्षथो ज्योतिरेषां समुद्रस्येव महिमा गभीरः ॥ (*sūryasyeva vakṣatho jyotireṣāṃ samudrasyeva mahimā gabhīraḥ ‖*) (Ṛ. Saṃ. 7-33-8)
+
+the radiance of these Vasiṣṭhas is as great as the radiance of Āditya, and their greatness is as deep as the ocean: so it is praised. Sāyaṇa has said in his bhāṣya that the plural use of वसिष्ठाः (*vasiṣṭhāḥ*) everywhere here is in the sense of honour, and that all this is to be understood as a description of Vasiṣṭha (Ṛ. Saṃ. 7-33-9).
+
+Because Vasiṣṭha is thus described, not only is his divine descent indicated, but it may be said that the special glory of Agni, who shines in many forms such as the sun, who pervades the whole universe, and who occupies the chief place in the sacrifices and other rites that are the cause of the world's continuance, arose in the form of Vasiṣṭha. This doctrine is not merely imagined; it is established on the basis of the sentences of the Ṛk-saṃhitā itself.
+
+तं इन्निण्यं हृदयस्य प्रकेतैः सहस्रवल्यमभि सं चरंति । यमेन ततं परिधिं वयंतोऽप्सरस उप सेदुर्वसिष्ठाः ॥ (*taṃ inniṇyaṃ hṛdayasya praketaiḥ sahasravalyamabhi saṃ caraṃti | yamena tataṃ paridhiṃ vayaṃto 'psarasa upa sedurvasiṣṭhāḥ ‖*) (Ṛ. Saṃ. 7-33-9)
+
+The same Vasiṣṭha (the plural use of वसिष्ठाः (*vasiṣṭhāḥ*) being in the sense of honour), moving about in saṃsāra, which has a secret beyond the knowledge of others and consists of thousands of branches, has become manifest through Urvaśī in the stream of the world spread out far and wide by Yama, the cause of the whole world. Giving up the state of being a son of Prajāpati that he had before, he is now born in the womb of an Apsaras: so his greatness is praised. That this same Vasiṣṭha gave up his own natural light in order to obtain another body is told in the sentence विद्युतो ज्योतिः परि संजिहानं (*vidyuto jyotiḥ pari saṃjihānaṃ*) (Ṛ. Saṃ. 7-33-10) cited above.
+
+### Printed p. 606
+
+**Vasiṣṭha and Sudāsa**
+
+Even Vasiṣṭha, who is thus described as sprung from a divine portion and as a divine knower, is in some places specified as sharing in sorrow. In the sentence किमाग आस वरुण (*kimāga āsa varuṇa*) (7-86-4) cited above, it is clear that Vasiṣṭha became the object of Varuṇa's displeasure and for that begged Varuṇa's forgiveness. Besides this, there are also situations in which he suffered harm from men. Sāyaṇa mentions this matter when writing the introduction to the 104th sūkta of Ṛ. Saṃ. 7, and cites a Bṛhaddevatā sentence.
+
+ऋषिर्दर्श राक्षोघ्नं पुत्रशोकपरिप्लुतः । हते पुत्रशते क्रुद्धः सौदासैर्दुःखितस्तदा ॥ (*ṛṣirdarśa rākṣoghnaṃ putraśokapariplutaḥ | hate putraśate kruddhaḥ saudāsairduḥkhitastadā ‖*) (Bṛ. De. 6-28)
+
+When Vasiṣṭha's hundred sons were slain by the followers of Sudāsa, Vasiṣṭha, scorched by extreme grief, composed this powerful sūkta for the subduing of the Rākṣasas. The mantras in this sūkta seen by the seer are called Rākṣoghna mantras: so the sentence of Sāyaṇa states. But whether only Rākṣasas are indicated here, or enemies such as Viśvāmitra are also indicated, is a matter for inquiry.
+
+That there was an exceeding friendship between Sudāsa and Vasiṣṭha, and that Sudāsa received many benefits from Vasiṣṭha, is well known throughout the Saṃhitās and other works. But how, and for what reason, the enmity that appears from the sentence सौदासैः दुःखितस्तदा (*saudāsaiḥ duḥkhitastadā*) arose cannot be known exactly. Nor can it easily be said whether Sudāsa's sons caused harm to Vasiṣṭha, or whether Sudāsa and his sons together caused it. The sentences of the Ṛk-saṃhitā praise the very friendship that existed between Vasiṣṭha and Sudāsa. In the eighteenth sūkta of the seventh maṇḍala of the Ṛk-saṃhitā it is described that Vasiṣṭha, with the aim of helping Sudāsa, praised Indra and brought it about that Indra's help reached Sudāsa. And there is also praise of Sudāna. **NOTE**
+
+अर्णांसि चित्पप्रथाना सुदास इंद्रो गाधान्यकृणोत्सुपारा । शर्धंतं शिम्युमुचथस्य नव्यः शापं सिंधूनामकृणोदशस्त्रीः ॥ (*arṇāṃsi citpaprathānā sudāsa iṃdro gādhānyakṛṇotsupārā | śardhaṃtaṃ śimyumucathasya navyaḥ śāpaṃ siṃdhūnāmakṛṇodaśastrīḥ ‖*) (Ṛ. Saṃ. 7-18-5)
+
+The venerable Indra, at Vasiṣṭha's prayer, placed his favour on Sudāsa and made it easy for Sudāsa to cross even the Paruṣṭī river, with its very deep current. He turned all the curses of the enemies so that they flowed in the form of rivers, favourable to his praiser: so it is said.
+
 ---
 
-**Progress note:** Done through printed p. 599. end of Maṇḍala 6 (Ṛk 6.75.19, colophon), Maṇḍala 7 title and introduction, Vasiṣṭha's birth
+**Progress note:** Done through printed p. 606. Vasiṣṭha introduction: Varuṇa episodes, Indra, Agni identity, Sudāsa
