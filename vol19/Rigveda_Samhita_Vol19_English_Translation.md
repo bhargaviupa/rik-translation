@@ -27297,6 +27297,256 @@ The idea stated here is that, as in the ways of the world a husband places an em
 
 स्वेदं वर्षं-स्वेदस्थानीयं वृष्टिसंत्यायं (*svedaṃ varṣaṃ-svedasthānīyaṃ vṛṣṭisaṃtyāyaṃ*)**NOTE** Here the water in the form of rain
 
+### Printed p. 759
+
+is compared to the sweat of the Marut deities. As sweat comes out of a man's body and oozes when he moves about in the sun, so, the Ṛṣi describes, when the Marut deities come, the water in the form of rain pours down upon the earth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒ये नरो॒ मरु॑तो मृ॒ळता॑ न॒स्तुवी॑मघासो॒ अमृ॑ता॒  ॑
+> ऋतज्ञाः ।  
+> सत्य॑श्रुतः॒ कव॑यो॒ युवा॑नो॒ बृह॑द्गिरयो बृ॒हदु॒क्षमा॑णाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हये । नरः । मरुतः । मृळत । नः । तुविमघासः । अमृताः । ऋतज्ञाः ।  
+> सत्यश्रुतः । कवयः । युवानः । बृहत्गिरयः । बृहत् । उक्षमाणाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हये हे नरो नेतारो मरुतो नोऽस्मान्मृळत । सुखयत । अस्मभ्यं
+> हिताय ना सुखिनो भवत । हे तुवीमघासः प्रभूतधना अमृता अमरणस्वभावा
+> ऋतज्ञा उदकस्य यज्ञस्य वा ज्ञातारः । कर्तार इत्यर्थः । सत्यश्रुतः सत्येन सत्यफलत्वेन प्रसिद्धाः कवयो मेधाविनो युवानो नित्यतरुणा बृहद्गिरयः प्रभूतस्तुतयो बृहदत्यधिकमुक्षमाणा हविर्भिः सेविता उदकं वा सिंचंतो यूयं
+> मृळत ॥
+
+##### Gist of the bhāṣya
+
+O leaders, O Maruts, make us happy; become happy for our good. O you of abundant wealth (तुवीमघासः (*tuvīmaghāsaḥ*)), you immortal ones, of deathless nature, you who know the water or the sacrifice, that is, who accomplish them; renowned for truth, that is, famed for the truth of the fruit you give; wise; ever young; of abundant praises; and, in great measure, served with oblations or sprinkling water: such as you are, make us happy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुवीमघासः (*tuvīmaghāsaḥ*)—those of abundant wealth
+- अमृताः (*amṛtāḥ*)—those without death
+- ऋतज्ञाः (*ṛtajñāḥ*)—those who know the truth
+- सत्यश्रुतं (*satyaśrutaṃ*)**NOTE**—those of true fame
+- कवयः (*kavayaḥ*)—the wise
+- युवानः (*yuvānaḥ*)—the ever-young
+- बृहद्गिरयः (*bṛhadgirayaḥ*)—worthy of abundant praises
+- बृहत् (*bṛhat*)—in great measure
+- उक्षमाणाः (*ukṣamāṇāḥ*)—those to whom oblations are offered
+- नरः (*naraḥ*)—leaders
+- हये मरुतः (*haye marutaḥ*)—O Maruts
+- नः (*naḥ*)—us
+- मृळत (*mṛḷata*)—make happy
+
+### Printed p. 760
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you of abundant wealth, deathless, knowers of the truth, of true fame, wise, ever young, worthy of abundant praises, to whom oblations are offered in great measure, and leaders: make us happy.
+
+##### English translation
+Ho, Maruts, leaders (of rites), be propitious to us, you who are infinitely opulent, immortal, shedders of rain, renowned for truth, wise, young, greatly glorified, and worshipped with copious oblations.
+
+##### विशेषविषयगळु (Special Topics)
+
+हये (*haye*): the word is used in the vocative sense, like the word हे (*he*). Therefore हये मरुतः (*haye marutaḥ*) here means O Maruts, O Marut deities. This word is found only in these three Ṛks:
+
+हये देवा यूयमिदापयः स्थ ते मृळत नाधमानाय मह्यं (*haye devā yūyamidāpayaḥ stha te mṛḷata nādhamānāya mahyaṃ*) (Ṛ. Saṃ. 2-29-4)
+
+हये नरो मरुतो मृळता नस्तुवीमघासो अमृता ऋतज्ञाः (*haye naro maruto mṛḷatā nastuvīmaghāso amṛtā ṛtajñāḥ*) (Ṛ. Saṃ. 557-8)**NOTE**
+
+हये जाये मनसा शिष्ठ घोरे वचांसि मिश्रा कृणवावहै नु (*haye jāye manasā śiṣṭha ghore vacāṃsi miśrā kṛṇavāvahai nu*) (Ṛ. Saṃ. 10-95-1)
+
+This word is not used anywhere else in the Ṛgveda. In all three places it is used in the vocative sense of हे (*he*).
+
+The fifty-ninth hymn.**NOTE**
+
+## Sūkta 59 (Maṇḍala 5)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र वः स्पळित्यष्टर्चं तृतीयं सूक्तं श्यावात्वस्यार्षं मारुतं । अष्टमी
+> त्रिष्टुप् शिष्टाः सप्त जगत्यः । प्र वः स्पट् त्रिष्टुबंतमित्यनुक्रमणिका ॥ विनियोगो
+> लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The hymn of eight Ṛks that begins with प्र वः (*pra vaḥ*) is the third hymn; its seer is Śyāvāśva**NOTE**, its deity the Maruts; the eighth Ṛk is in Triṣṭubh metre, and the remaining seven are in Jagatī metre. The Anukramaṇikā says प्र वः स्पट् त्रिष्टुबंतमित्यनुक्रमणिका (*pra vaḥ spaṭ triṣṭubaṃtamityanukramaṇikā*). The application is by indication.
+
+### Printed p. 761
+
+Translation: This hymn beginning प्र वः स्पळक्रन् (*pra vaḥ spaḷakran*) is the third hymn in the fifth Anuvāka. It has eight Ṛks. The seer of this hymn is Śyāvāśva; the deity is the Maruts; the eighth Ṛk of this hymn is in Triṣṭubh metre; the remaining seven Ṛks are in Jagatī metre. In the Anukramaṇikā it is said प्र वः स्पट् त्रिष्टुबंतं (*pra vaḥ spaṭ triṣṭubaṃtaṃ*). The application is by indication (लैंगिकवु (*laiṃgikavu*)).
+
+- Sūkta: 59
+- Maṇḍala 5; Anuvāka 5; Sūkta 59
+- Aṣṭaka 4; Adhyāya 3; Varga 24
+- Number of Ṛks in the Sūkta: 8
+- Ṛṣi: Śyāvāśva Ātreya
+- Devatā: Maruts
+- Chandas: 1-7 Jagatī; 8 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वः॒ स्पळ॑क्रन्तुसवि॒ताय॑ दा॒वनेऽर्चा॑ दि॒वे प्र पृ॑थि॒व्या  
+> ऋ॒तं भ॑रे ।  
+> उ॒क्षंते॒ अश्वा॒न्तरु॑षंत॒ आ रजोऽनु॒ स्वं भा॒नुं श्र॑थयंते  
+> अर्ण॒वैः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । स्पट् । अक्रन् । सुविताय । दावने । अर्च । दिवे । प्र । पृथिव्यै । ऋतं ।  
+> भरे ।  
+> उक्षंते । अश्वान् । तरुषंते । आ । रजः । अनु । स्वं । भानुं । श्रथयंते । अर्णवैः॥
+
+### Printed p. 762
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो वो युष्मभ्यं सुविताय सुष्टु प्राप्तन्याय दावने हविष्ट्रदानाय स्पट् स्पष्टा होता प्र प्रकर्षेणाक्रन् । क्रंदति । स्तौति । वो युष्मान् वा
+> सुष्टु प्राप्तन्याय दानायाक्रन् ॥ क्रंदतेः शब्दकर्मणो लडर्थे लुणु तिपि
+> रूपं ॥ हे होतर्दिवे द्योतमानाय द्युदेवाय प्रार्थ । प्रकर्षेण स्तुहि
+> हे आत्मन् । तथा पृथिव्यै पृथिव्याश्च ऋतं स्तोत्रं भरे । संपादयामि । द्यावापृथिव्यावपि मरुतामाधारत्वादत्र निपातभाजौ भवतः । किंच ते मरुतोऽश्वान्
+> व्यापकानुदकसंघानुक्षंते । सिंचंति । रज आ अंतरिक्षमा सर्वतस्तरुषंते । तरंति ।
+> संचरंति । स्वं भानुं स्वकीयं तेजोर्णवर्मेघैः सहानु श्रथयंते ।
+> अनुश्लेषयंति । अनुकूलं प्रापयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, for you, for the giver of oblations, who is well reached, the clear-voiced Hotṛ priest cries out aloud, that is, praises you; or he cries out for the well-reached gift to you. O Hotṛ, to the shining heaven, the deity of heaven, offer praise aloud, O my self. And to the earth I bring the hymn of praise, that is, I accomplish it; since heaven and earth are the support of the Maruts, they too come in as sharers here**NOTE**. Moreover those Maruts sprinkle the pervading hosts of water; they cross the atmosphere on all sides, that is, they roam; they cause their own light to cling together with the clouds, that is, they bring it favourably.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O Maruts)
+- स्पट् (*spaṭ*)—the Hotṛ priest
+- सुविताय (*suvitāya*)—easily reached
+- दावने (*dāvane*)—for the sake of giving
+- प्र अक्रन् (*pra akran*)—praises exceedingly (O Hotṛ)
+- दिवे (*dive*)—to the shining atmosphere
+- प्र अर्च (*pra arca*)—offer exceeding praise
+- पृथिव्यै (*pṛthivyai*)—addressed to the earth
+- ऋतं (*ṛtaṃ*)—the hymn of praise
+- भरे (*bhare*)—I compose
+- अश्वान् (*aśvān*)—the all-pervading waters
+- उक्षंते (*ukṣaṃte*)—(the Maruts) cause to pour down
+- रजः (*rajaḥ*)—the atmosphere
+- आ तरुषंते (*ā taruṣaṃte*)—go round and roam
+- स्वं भानुं (*svaṃ bhānuṃ*)—their own radiance
+- अर्णवैः (*arṇavaiḥ*)—with the clouds
+- अनु श्रथयंते (*anu śrathayaṃte*)—join and unite
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, the Hotṛ priest praises you exceedingly for the sake of a gift that he may happily obtain. O Hotṛ, offer exceeding praise to the shining atmosphere. I offer praise addressed to the earth. The Maruts cause the all-pervading waters to pour down. And they go round and roam through the whole atmosphere, uniting their own radiance with the clouds.
+
+##### English translation
+The priest glorfies you, Maruts, for the good of the donor of the oblation : offer worsip to the shining (heaven): I bring offerings to the earth : they, the Maruts, scatter the rapid (rain); they traverse the firmment ; they combine their own radiance with (that of) the clouds.
+
+### Printed p. 763
+
+##### विशेषविषयगळु (Special Topics)
+
+स्पट्—स्पष्ट होता । (*spaṭ—spaṣṭa hotā |*) Since he touches the oblations and the like at the time of the homa, the priest called Hotṛ is here called स्पट् (*spaṭ*).
+
+अश्वान् (*aśvān*): the word aśva, formed from the root अशू व्याप्तौ (*aśū vyāptau*), is explained here as the all-pervading waters. Since when rain falls water spreads everywhere, the all-pervading water is indicated by the word अश्वान् (*aśvān*).
+
+रजः (*rajaḥ*): it is explained here as the atmosphere. The word has many meanings. Yāska, on this word, says:
+
+रजो रज्यतेर्ज्योती रज उच्यते उदकं रज उच्यते । लोका रजांस्युच्यंते । (*rajo rajyaterjyotī raja ucyate udakaṃ raja ucyate | lokā rajāṃsyucyaṃte |*) (Ni. 4-19)
+
+The word रजस् (*rajas*), formed from the root रंज् (*raṃj*) which gives the sense of shining, means light, and water, and also the worlds.
+
+रजांसि चित्रा वि चरंति तन्यवो दिवः सम्राजा पयसा न उक्षतं । (*rajāṃsi citrā vi caraṃti tanyavo divaḥ samrājā payasā na ukṣataṃ |*) (Kha. Saṃ. 5-63-5)**NOTE**
+
+Quoting this Ṛk, the author of the Nirukta has said that रजांसि (*rajāṃsi*) means the worlds; in the 44th section of the 10th chapter of the Nirukta,
+
+अज्जामुक्थैरहिं गृणीषे बुद्धे नदीनां रजस्सु षीदन् (*ajjāmukthairahiṃ gṛṇīṣe buddhe nadīnāṃ rajassu ṣīdan*) (Ṛ. Saṃ. 7-34-16)
+
+in explaining this Ṛk, he says that रजस्सु (*rajassu*) means उदकेषु (*udakeṣu*), that is, in the waters; and in the 7th section of the 12th chapter,
+
+एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते । (*etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate |*) (Ṛ. Saṃ. 1-92-1)
+
+in explaining this Ṛk, he explains रजसः (*rajasaḥ*) as the atmosphere.
+
+श्रीणि भांति रजांस्यस्य यत्पदानि तु तेजसा (*śrīṇi bhāṃti rajāṃsyasya yatpadāni tu tejasā*) so the author of the Bṛhaddevatā, describing Viṣṇu's striding over the three worlds, used the word रजांसि (*rajāṃsi*) as a synonym for the three worlds.
+
+### Printed p. 764
+
+Generally रजः, रजांसि (*rajaḥ, rajāṃsi*) is a word that is a synonym of the worlds. But in Ṛks such as
+
+यन्ना सोमासो ममदन्यदुक्कोभे भयेते रजसी अपारे (*yannā somāso mamadanyadukkobhe bhayete rajasī apāre*) (Ṛ. Saṃ. 4-42-6)
+
+this word is in the dual and only the technical meaning, heaven and earth, is stated. Only in some places, that is, in a couple of Ṛks such as
+
+अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः (*ahaśca kṛṣṇamahararjunaṃ ca vi vartete rajasī vedyābhiḥ*) (Ṛ. Saṃ. 6-9-1)
+
+the original meaning of the root is primary, as in रजसी जगद्रंजयंतौ (*rajasī jagadraṃjayaṃtau*). In the present Ṛk it means the shining atmosphere.
+
+भानुं (*bhānuṃ*): the word भानु (*bhānu*) is read among the names of the day (2-20). भानु (*bhānu*) has several meanings: the sun, a ray of the sun, light, the day. Here the word is used in the sense of light.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अमा॑देषां भि॒यसा॒ भूमि॑रेजति॒ नौर्न पू॒र्णा क्ष॑रति॒व्यथि॑र्य॒ती ।  
+> दू॒रे॒दृशो॒ ये चि॒तयं॑त॒ एम॑भिरं॒तर्म॒हे वि॒दथे॑ येतिरे॒  
+> नरः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमात् । एषां । भियसा । भूमिः । एजति । नौः । न । पूर्णा । क्षरति । व्यथिः । यती।  
+> दूरेदृशः । ये । चितयंते । एमभिः । अंतः । महे । विदथे । येतिरे । नरः॥
+
+### Printed p. 765
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां ॥ अन्वादेशविषयत्वादनुदात्तः ॥ एषां मरुतां भियसा भयेन
+> भूमिरेजति । कंपते नार्न पूर्णा प्राणिभिः । सा यथोदकमध्यॆ क्षरति चलति
+> व्यथिर्व्यथिता यती गच्छंती । एतदुभयं नौविशेषणं । दूरेदृशो दूरे दृश्यमाना अपि ये मरुत एमभिर्गमनैश्चितयंते ज्ञायंते ते महांतो मरुतो
+> विदथे यज्ञे महे महते हविषे हविर्भक्षणायांतर्द्वानापृथिव्योर्मध्यॆ
+> येतिरे । यतंते । नरो नेतारो मरुतः ॥
+
+##### Gist of the bhāṣya
+
+Of these Maruts, through fear, the earth trembles, like a boat full of living beings, which, going through the midst of the water, sways and moves, being shaken; both these are epithets of the boat. Those Maruts who, though seen far away, are known by their goings: those great Maruts strive between heaven and earth in the sacrifice, for the great oblation, to eat the oblation. They are leaders: the Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्णा (*pūrṇā*)—filled with people
+- नार्न (*nārna*)—the boat
+- क्षरति (*kṣarati*)—as it trembles
+- व्यथिः (*vyathiḥ*)—being alarmed
+- यती (*yatī*)—and moving forward, so
+- एषां (*eṣāṃ*)—of these Maruts
+- भियसा (*bhiyasā*)—through fear
+- भूमिः (*bhūmiḥ*)—the earth
+- एजति (*ejati*)—trembles
+- ये (*ye*)—which Maruts
+- दूरेदृशाः (*dūredṛśāḥ*)—even though seen very far away
+- एमभिः (*emabhiḥ*)—by their goings
+- चितयंते (*citayaṃte*)—are exactly known
+- नरः (*naraḥ*)—such Maruts, the leaders
+- विदथे (*vidathe*)—in the sacrifice
+- महे (*mahe*)—to eat the great oblation
+- अंतः (*aṃtaḥ*)—in the midst of heaven and earth
+- येतिरे (*yetire*)—go about and come
+
+##### भावार्थ (Bhāvārtha)
+
+As a boat full of people trembles and, as it moves forward, is alarmed, so the earth trembles through the fear of these Maruts. The Maruts who, though seen very far away, are exactly known by their individual goings, those Maruts, the leaders, go about and come between heaven and earth to eat the great oblation in the sacrifice.
+
+##### English translation
+From their approach the earth trembles with fear, as a crowded boat goes quivering (through the water) : visible from afar, they are recog- nized by their movements : the Maruts, leaders (of rites), pass between (heaven and earth) to the solemn sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the storm wind blows with force, not only do trees and the like tremble and fall uprooted, but rain also falls in torrents, with thunder, lightning, flashes of
+
 ---
 
-**Progress note:** Done through printed p. 758. Sukta 58 Rks 5-7 (Maruts)
+**Progress note:** Done through printed p. 765. Sukta 58 Rk 8; Sukta 59 Rks 1-2
