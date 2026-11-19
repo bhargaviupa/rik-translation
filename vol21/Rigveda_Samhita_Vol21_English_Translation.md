@@ -18119,6 +18119,335 @@ With impetuous and mighty waves she breaks down the precipices of the mountains,
 
 For this ṛk Yāska has given an etymology: इयं शुष्मैः शोषणैः । शुष्ममिति बलनाम शोषयतीति सतः । बिसं बिस्मतेर्भेदनकर्मणो वृद्धिकर्मणो वा । सानु समुच्च्रितं भवति समुन्नु- (*iyaṃ śuṣmaiḥ śoṣaṇaiḥ | śuṣmamiti balanāma śoṣayatīti sataḥ | bisaṃ bismaterbhedanakarmaṇo vṛddhikarmaṇo vā | sānu samuccritaṃ bhavati samunnu-*) **GLOSS**
 
+### Printed p. 412
+
+न्नमिति वा । महद्भिरूर्मिभिः पारावतघ्नीं पारावारघातिनीं । पारं परं भवति । अवारमवरं । अवनाय सुप्रवृत्ताभिः शोभनाभिः स्तुतिभिः सरस्वतीं नदीं कर्मभिः परिचरेम ॥ (*nnamiti vā | mahadbhirūrmibhiḥ pārāvataghnīṃ pārāvāraghātinīṃ | pāraṃ paraṃ bhavati | avāramavaraṃ | avanāya supravṛttābhiḥ śobhanābhiḥ stutibhiḥ sarasvatīṃ nadīṃ karmabhiḥ paricarema ‖*) (Ni. 2-24)
+
+"Śuṣka" means strength. For the word शुष्क (*śuṣka*) is formed from the root शोषयति (*śoṣayati*), which has the sense of pressing down; since it presses down everything by its own strength, the sense "strength" has become established for the word.**NOTE**
+बिसं (*bisaṃ*) means lotus stalk. This word is formed from the root बिस्कृति (*biskṛti*), which has the sense of cutting, breaking into pieces, or growing. The word सानु (*sānu*) means a high place, an elevated place, a summit. This river Sarasvatī, with her huge, that is, great waves, breaks away and destroys her two banks, as one easily cuts through the tender lotus stalk. That is, because of the current of the river the two banks collapse and fall and become mingled with the water of the river. पारं (*pāraṃ*) means that which is different (परं (*paraṃ*)) or that which is far away. अवरं (*avaraṃ*) means that which is near. पारावारं (*pārāvāraṃ*) means the two banks, the one far away (the opposite one) and the one near. The chief purport of the etymology is: let us serve with offerings of worship the river Sarasvatī, flowing between such two banks, for our protection, with well-composed praises recited clearly and with proper accents, or with excellently performed rites of worship and the like.
+
+### Printed p. 413
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर॑स्वति देव॒निदो॒ नि ब॑र्हय प्र॒जां विश्व॑स्य॒ बृस॑यस्य मा॒यिनः॑।  
+> उ॒त क्षि॒तिभ्यो॒ऽवनी॑रविंदो वि॒षमे॑भ्यो अस्रवो वाजिनीवति॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सरस्वति । देवनिदः । बर्हय । प्रजां । विश्वस्य । बृहयस्य । मायिनः ।  
+> उत । क्षितिभ्यः । अवनीः । अविंदः । विषं । विध्यः । अस्रवः । वाजिनीवति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सरस्वति देवनिदो देवानां निंदकानसुरान्नि बर्हय । न्यबर्हयः ।
+> अवधीः । तथा विश्वस्य व्याप्तस्य मायिनो मायाविनो बृसयस्य । बृसय इति
+> त्वष्टुर्नामधेयं । त्वष्टुः प्रजां पुत्रं वृत्रासुरं च न्यवधीः । त्वत्साहाय्यादेवेंद्रो हतवानित्यर्थः । उतापि च हे वाजिनीवति अन्नवति सरस्वति त्वं क्षितिभ्यो
+> मनुष्येभ्योऽवनीरसुरैरपहृता भूमीरविंदः । अलंभयः । एभ्यो मनुष्येभ्यो
+> विषमुदकं चास्रवः । अक्षारयः । यद्वा । क्षितयोऽसुरजनाः । तेभ्यः सकाशादवनीर्भूमीरविंदः । लब्बवानसि । तान् हत्त्वैभ्यश्चासुरेभ्यो विषं मृतिहेतुभूतं
+> गरलमस्रवः ॥
+
+##### Gist of the bhāṣya
+
+"O Sarasvatī, you have destroyed the Asuras who revile the gods, and you have slain the offspring of the all-pervading Bṛsaya, the possessor of māyā." Bṛsaya is a name of Tvaṣṭṛ; you slew the offspring of Tvaṣṭṛ, that is, his son, the Asura Vṛtra. The meaning is that Indra slew him with your help. And, O Sarasvatī, possessed of food, you obtained for men the lands carried off by the Asuras, and you caused water to flow for these men. Or else: the Asura peoples are meant by क्षितयो (*kṣitayo*); from them you obtained the lands, you gained them; and having slain them, you caused to flow for these Asuras poison, a deadly venom, the cause of death.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरस्वति (*sarasvati*)—O goddess Sarasvatī
+- देवनिदः (*devanidaḥ*)—the Asuras who revile the gods
+- नि बर्हयः (*ni barhayaḥ*)—you have destroyed
+- विश्वस्य (*viśvasya*)—of the all-pervading
+- मायिनः (*māyinaḥ*)—of the one endowed with power
+- बृसयस्य (*bṛsayasya*)—of Tvaṣṭṛ
+- प्रजां (*prajāṃ*)—you have also slain the son, Vṛtra
+- उत (*uta*)—and
+- वाजिनीवति (*vājinīvati*)—O Sarasvatī, endowed with food
+- क्षितिभ्यः (*kṣitibhyaḥ*)—to men
+- अवनीः (*avanīḥ*)—the lands carried off by the Asuras
+- अविंदः (*aviṃdaḥ*)—you provided again
+- ऐभ्यः (*aibhyaḥ*)—for these men
+- विषं (*viṣaṃ*)—water
+- अस्रवः (*asravaḥ*)—you caused to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sarasvatī, you have destroyed the Asuras who revile the gods. You have slain Vṛtra, the son of Tvaṣṭṛ, who is all-pervading and endowed with power; and, O Sarasvatī, endowed with food, you have provided again to men the lands carried off by the Asuras. For these very men you have caused water to flow.
+
+##### English translation
+Destory, Saraswati the revilers of the gods, the offspring of the universal deluder, Vrisaya : giver of sustenance, you have acquired for men the lands (seized by the Asuras), and have showered water upon them.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र णो॑ दे॒वी सर॑स्वती॒ वाजे॑भिर्वा॒जनी॑वती ।  
+> धी॒नाम॑वि॒त्र्य॑वतु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नः । देवी । सरस्वती । वाजेभिः । वाजिनीवती ।  
+> धीनां । अवित्री । अवतु ॥ ४ ॥
+
+### Printed p. 414
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवी दानादिगुणयुक्ता वाजिनीवती । वाजोऽन्नं यस्यां क्रियायां सा
+> वाजिनी । तद्युक्ता । धीनां ध्यातृणां स्तोतृणामवित्री रक्षित्री । एवंभूता सरस्वती
+> वाजेभिरन्नॆर्नोऽस्मान्प्रावतु । प्रकर्षेण तर्पयतु ॥
+
+##### Gist of the bhāṣya
+
+"Devī" means she who is endowed with qualities such as generosity. वाजिनीवती (*vājinīvatī*): vāja is food; the rite in which there is food is vājinī; she is endowed with that. धीनां (*dhīnāṃ*) means of the meditators, that is, of the worshippers; अवित्री (*avitrī*) means the protectress. May Sarasvatī, so characterised, protect us with वाजेभिः (*vājebhiḥ*), that is, with foods; may she satisfy us abundantly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवी (*devī*)—divine
+- वाजिनीवती (*vājinīvatī*)—endowed with food
+- धीनां (*dhīnāṃ*)—to the worshippers
+- आवित्री (*āvitrī*)—the protectress
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- वाजेभिः (*vājebhiḥ*)—with foods
+- नः (*naḥ*)—us
+- प्र अवतु (*pra avatu*)—may she protect fully, or may she satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+May Sarasvatī, who is divine, endowed with food, and the protectress of the worshippers, protect us with foods; may she fully satisfy us.
+
+##### English translation
+May the divine Saraswati, the acceptress of (sacrificial) food, the protectress of her worshippers, sustain as with (abundant) viands.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त्वा॑ देवि सरस्वत्युपब्रू॒ते धने॑ हि॒ते ।  
+> इंद्रं॒ न वृ॑त्र॒तूर्ये॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । त्वा । देवि । सरस्वति । उपब्रूते । धने । हिते ।  
+> इंद्रं । न । वृत्रतूर्ये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवि सरस्वति यः स्तोता वृत्रतूर्ये संग्रामे धने हिते निहिते
+> निमित्तभूते सतींद्रं न इंद्रमिव त्वामुपब्रूते स्तौति तं रक्षेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"O goddess Sarasvatī, the worshipper who, in the battle for wealth, wealth being the occasion, praises you as one praises Indra, him protect": thus the sentence is to be completed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवि (*devi*)—O divine
+- सरस्वति (*sarasvati*)—O Sarasvatī
+- यः (*yaḥ*)—the worshipper who
+- वृत्रतोर्ये (*vṛtratorye*)—in battle
+- धने हिते (*dhane hite*)—for the sake of wealth
+- इंद्रं न (*iṃdraṃ na*)—as one praises Indra
+- त्वा उपब्रूते (*tvā upabrūte*)—praises you (protect such a worshipper)
+
+### Printed p. 415
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Sarasvatī, the worshipper who, in battle, for the sake of wealth, praises you just as he praises Indra, protect such a worshipper.
+
+##### English translation
+Divine Saraswati, protect him engaged in conflict for the sake of wealth, who glorifies you like Indra.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं दे॑वि सरस्व॒त्यवा॒ वाजे॑षु वाजिनि ।  
+> रदा॑ पू॒षेव॑ नः स॒निं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । देवि । सरस्वति । अव । वाजेषु । वाजिनि ।  
+> रद । पूषाइव । नः । सनिं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवि दानादिगुणयुक्ते हे वाजिनि । वाजो बलमन्नं वा । तद्युक्ते ।
+> हे सरस्वति त्वं वाजेषु संग्रामेष्टव । अस्मान्रक्ष । अपि च नोऽस्मभ्यं पूषेव
+> पोषको देव इव सनिं संभजनीयं धनं रद । विलिख । प्रयच्छेति यावत् ॥
+
+##### Gist of the bhāṣya
+
+"O goddess, endowed with qualities such as generosity; O वाजिनि (*vājini*)": vāja is strength or food, and she is endowed with that. "O Sarasvatī, protect us in the वाजेषु (*vājeṣu*), that is, in battles. And, like Pūṣan, the nourishing god, रद (*rada*) for us the wealth that is to be shared": रद (*rada*) means विलिख (*vilikha*), that is, bestow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवि (*devi*)—O one endowed with qualities such as generosity
+- वाजिनि (*vājini*)—O one endowed with power
+- सरस्वति (*sarasvati*)—O Sarasvatī
+- त्वं (*tvaṃ*)—you
+- वाजेषु (*vājeṣu*)—in battles
+- अव (*ava*)—protect us
+- नः (*naḥ*)—to us
+- पूषेव (*pūṣeva*)—like the nourishing god Pūṣan
+- सनिं (*saniṃ*)—wealth fit to be enjoyed
+- रद (*rada*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Sarasvatī, endowed with qualities such as generosity and endowed with power, protect us in battles. Like Pūṣan, the nourishing god, provide us with wealth fit to be enjoyed.
+
+##### English translation
+Divine Saraswati, abounding in food, protect us in combat, and, like Pushan, give us gifts.
+
+### Printed p. 416
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्या नः॒ सर॑स्वती घो॒रा हिर॑ण्यवर्तनिः ।  
+> वृ॒त्र॒घ्नी व॑ष्टि सुष्टु॒तिं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्या । नः । सरस्वती । घोरा । हिरण्यवर्तनिः ।  
+> वृत्रघ्नी । वष्टि । सुस्तुतिं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च स्या सा प्रसिद्धा सरस्वती घोरा शत्रोणां भयकारिणी हिरण्यवर्तनिः ।
+> वर्ततेऽनेनेति वर्तनी रथः । हिरण्यमयो वर्तनियस्याः सा तथोक्ता । वृत्रघ्नी
+> वृत्राणां शत्रोणां हंत्री । एवंभूता सा सरस्वती नोऽस्मदीयां सुष्टुतिं शोभनां
+> स्तुतिं वष्टि । कामयतां ॥
+
+##### Gist of the bhāṣya
+
+And that well-known Sarasvatī is fierce, causing fear to enemies, and हिरण्यवर्तनिः (*hiraṇyavartaniḥ*): वर्तनी (*vartanī*) is that by which one goes, a chariot; she whose chariot is of gold is so called. She is वृत्रघ्नी (*vṛtraghnī*), the slayer of the वृत्राणां (*vṛtrāṇāṃ*), that is, of enemies. May Sarasvatī, so characterised, desire and welcome our beautiful praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- स्या (*syā*)—the well-known
+- घोरा (*ghorā*)—terrible to enemies
+- हिरण्यवर्तनिः (*hiraṇyavartaniḥ*)—possessed of a chariot made of gold
+- वृत्रघ्नी (*vṛtraghnī*)—destroyer of enemies
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- नः (*naḥ*)—our
+- सुष्टुतिं (*suṣṭutiṃ*)—excellent praise
+- वष्टि (*vaṣṭi*)—may she desire
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Sarasvatī, the well-known, terrible to enemies, possessed of a chariot made of gold, the destroyer of enemies, desire our excellent praise.
+
+##### English translation
+May the fierce Saraswati, ridiing in a golden chariot, the destructress of enemies, be pleased by our earnest laudation.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्या॑ अनं॒तो अह्रु॑तस्त्वे॒षश्च॑रि॒ष्णु र॑र्ण॒वः ।  
+> अम॒श्वर॑ति॒ रोरु॑वत् ॥ ८ ॥
+
+### Printed p. 417
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्याः । अनंतः । आह्रुतः । त्वेषः । चरिष्णुः । अर्णवः ॥  
+> अमः । चरति । रोरुवत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्याः सरस्वत्या अमो बलमनंतोऽपर्यंतोऽपरिमितोऽह्रुतोऽहिंसितोऽकुटलो वा त्वेषो दीप्तश्चरिष्णुश्चरणशीलः । सर्वत्राप्रतिहतगतिरित्यर्थः ।
+> अर्णव उदकवान् । उदकप्रद इत्यर्थः । एवंभूतः सन् रोरुवत् भृशं शब्दं
+> कुर्वन् चरति वर्तते सा नो विश्वा इत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Of that Sarasvatī whose might (अमः (*amaḥ*), strength) is endless, that is, without limit and unmeasured, unharmed or not crooked, radiant (त्वेषः (*tveṣaḥ*) means shining), and चरिष्णुः (*cariṣṇuḥ*), of a moving nature; that is, its course is unobstructed everywhere. It is अर्णवः (*arṇavaḥ*), possessed of water, that is, a giver of water. Being so, it moves, makes a great sound. The connection is with the following "sā no viśvā" of the next verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्याः (*yasyāḥ*)—of which Sarasvatī
+- अमः (*amaḥ*)—the might
+- अनंतः (*anaṃtaḥ*)—being immeasurable
+- अद्रुतः (*adrutaḥ*)—unharmed by enemies
+- त्वेषः (*tveṣaḥ*)—radiant
+- चरिष्णुः (*cariṣṇuḥ*)—moving everywhere
+- अर्णवः (*arṇavaḥ*)—and full of water
+- रोरुवत् (*roruvat*)—making a great sound
+- चरति (*carati*)—moves (may that might protect us from enemies)
+
+##### भावार्थ (Bhāvārtha)
+
+May that might of Sarasvatī, which moves, immeasurable, unharmed by enemies, radiant, going everywhere, full of water and making a great sound, protect us from enemies.
+
+##### English translation
+May she whose might, infinite, undeviating, splendid, progressive, water-shedding, proceed, loud-sounding.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा नो॒ विश्वा॒ अति॒ द्विषः॒ स्वस्व॑र॒न्या ऋ॒ताव॑री ।  
+> अत॒न्न हे॑व॒ सूर्यः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । नः । विश्वाः । अति । द्विषः । स्वस्थाः । अन्याः । ऋशवरी ।  
+> अतन् । अहा इव । सूर्यः ॥ ९ ॥
+
+### Printed p. 418
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा सरस्वती नोऽस्मान्विश्वाः सर्वा द्विषो द्वेष्ट्रीः प्रजा अति नयतु ।
+> अतितारयतु । तथा स्वस्यः स्वयंसारिणीः सहोत्पन्ना वा ऋतावरीः । ऋतमित्युदकनाम । तद्युक्ता अन्याश्च नदीरस्मानति नयतु । यद्वा ॥ जस्येव ना छंदसीति पूर्वसवर्णदीर्घः ॥ उदकवत्यः स्वसारो भगिन्नोऽन्या गंगाद्या नद्यश्चास्मान् शत्रुनति
+> नयंतु । तत्र दृष्टांतः । सूर्यः सर्वस्य प्रेरक आदित्योऽतन् सततं गच्छन्
+> अहेवाहानीव । यथाहानि शीघ्रमतिनयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+May that Sarasvatī lead us across all the द्विषः (*dviṣaḥ*), the hating, that is, hostile, peoples; may she carry us beyond. Likewise may she carry us beyond the other rivers, the self-flowing or co-born ones that are ऋतावरीः (*ṛtāvarīḥ*); ऋत (*ṛta*) is a name for water, and they are endowed with it. Or else: may the water-bearing sisters, the other rivers, the Gaṅgā and the rest, carry us beyond the enemies. Here is an illustration: the sun, the impeller of all, the Āditya, constantly moving, as he swiftly leads the days across, so may they do.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सा (*sā*)—Sarasvatī, endowed with the qualities stated above
+- नः (*naḥ*)—us
+- विश्वा (*viśvā*)—all
+- द्विषः (*dviṣaḥ*)—from the hostile peoples
+- अति नयतु (*ati nayatu*)—may she carry across
+- स्वस्यः (*svasyaḥ*)—(sisters) flowing of themselves
+- यतावरीः (*yatāvarīḥ*)—endowed with water
+- अन्या (*anyā*)—the other river-goddesses
+- सूर्य (*sūrya*)—the sun
+- अतन् (*atan*)—moving
+- अहेव (*aheva*)—as he swiftly brings the day to an end
+- अति नयतु (*ati nayatu*)—may they bring the enemies to an end
+
+##### भावार्थ (Bhāvārtha)
+
+May Sarasvatī, endowed with the qualities stated above, carry us across all the hostile peoples. As the sun, moving swiftly, swiftly brings the day to an end, may the other river-goddesses too, those flowing of themselves (or the sisters of the river Sarasvatī) and endowed with water, bring our enemies to an end.
+
+##### English translation
+Overcome all our adversaries, and bring to us her other water-laden sisters, as the ever-rolling sun (leads on) the days.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नः॑ प्रि॒या प्रि॒यासु॑ स॒प्तस्व॑सा॒ सुजु॑ष्टा ।  
+> सर॑स्वती॒ स्तोम्या॑ भूत् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । प्रिया । प्रियासु । सप्तस्वसा । सुजुष्टा ।  
+> सरस्वती । स्तोम्या । भूत् ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 411. Sūkta 60 Ṛk 13 end to Ṛk 15; Sūkta 61 Ṛk 1-2, pp. 406-411
+**Progress note:** Done through printed p. 418. Mandala 6 sukta 61 rks 2 (Yaska) to 10 pada, pp. 412-418
