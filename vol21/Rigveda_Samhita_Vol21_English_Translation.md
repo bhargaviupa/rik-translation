@@ -21194,6 +21194,315 @@ O Agni, to the host of Maruts, who are praising or being praised, swift, and pos
 
 O Agni, to the host of Maruts, those who defeat the powers of enemies by their own strength, such noise-making, swift-moving, endowed with their own strength, the attractive and venerable
 
+### Printed p. 480
+
+food (oblation) that is attractive and venerable: offer it. From fear of the venerable Maruts the earth trembles.
+
+##### English translation
+Offer to the loud-sounding, quick-moving, self invigorating company of the Maruts, excellent (sacrificial) food : (to them) who overcome strength by strength : the earth trembles, Agni, at the adorable (Maruts).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्विषीमंतो अध्वरस्येव दिद्युत्तृषुच्यवसोजुहू ३ नाग्नेः  
+> अ॒र्चत्र॑यो॒ धुन॑यो॒ न वी॒रा भ्राज॑ज्जनानो म॒रुतो॒  ॑
+> अधृष्टाः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्विषिमंतः । अध्वरस्य इव । दिद्युत् । तृष्टुच्यवसः । जुह्वः । न । अग्नेः ।  
+> अर्चत्रयः । धुनयः । न । वीराः । भ्राजत् जन्मानः । मरुतः । अधृष्टाः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुतोऽध्वरस्येव यज्ञस्येव दिद्युत् द्योतमानास्तृषुच्यवसः क्षिप्रगमना
+> अग्नेर्जुहू न रश्मय इव त्रिषीमंतो दीप्तिमंतोऽर्चत्रयोऽर्चनीया
+> धुनयो न सपत्नान्कंपयंत इव वीराः शूरा भ्राजज्जनानो दीप्तशरीरा अधृष्टाः
+> परैरनभिभूताश्व भवंति ॥
+
+##### Gist of the bhāṣya
+
+The Maruts shine like a sacrifice; they are swift-moving. Like the flames of Agni they are radiant and full of splendour; they are venerable. Like shakers of rivals, causing them to tremble, they are heroes, brave ones, of shining body, and they are unassailed, not overcome by others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तैषुच्यवसः (*taiṣucyavasaḥ*)—the swift-moving
+- मरुतः (*marutaḥ*)—Maruts
+- अध्वरस्य (*adhvarasya*)—for the sacrifice
+- दिद्युदिव (*didyudiva*)—like those who give light
+- अग्नेः (*agneḥ*)—of Agni
+- जुह्वो न (*juhvo na*)—like flame-formed rays
+- त्रिषीमंतः (*triṣīmaṃtaḥ*)—endowed with lustre
+- अर्चत्रयः (*arcatrayaḥ*)—possessing a venerable form
+- धुनयो न (*dhunayo na*)—like those who make enemies tremble
+- वीराः (*vīrāḥ*)—possessed of valour
+- भ्राजज्जन्मानः (*bhrājajjanmānaḥ*)—having a body full of lustre
+- अधृष्टाः (*adhṛṣṭāḥ*)—unassailed by enemies, they shine
+
+### Printed p. 481
+
+##### भावार्थ (Bhāvārtha)
+
+The swift-moving Maruts give light to the sacrifice. They possess a venerable form. They make enemies tremble, they are possessed of valour, they have a body full of lustre, and they shine unassailed by enemies.
+
+##### English translation
+The Maruts are resplendent as if illuminators of the sacrifice,
+(bright) as the flames of Agni, entitled are they to adoration, and like
+heroes making (adversaries) tremble : brilliant are they from birth, and
+invincible.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वृ॒धंतं॒ मारु॑तं॒ भ्राज॑दृष्टिं रु॒द्रस्य॑ सू॒नुं ह॒वसा  ॑
+> विवासे ।  
+> दि॒वः शर्धा॑य॒ शुच॑यो मनी॒षा गि॒रयो॒ नाप॑ उ॒ग्रा  ॑
+> अस्पृधन् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वृधंतं । मारुतं । भ्राजत् ऽऋष्टिं । रुद्रस्य । सूनुं । हवसा । अ । विवासे ।  
+> दिवः । शर्धाय । शुचयः । मनीषाः । गिरयः । न । आपः । उग्राः । अस्पृधन् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं प्रसिद्धं वृधंतं वर्धमानं भ्राजदृष्टिं भ्राजमानऋष्टिं रुद्रस्य सूनुं
+> पुत्रं मारुतं मरुद्दणं हवसा स्तोत्रेणा विवासे । परिचरामि । किंच दिवः स्तोतुः
+> शुचयो निर्मला मनीषाः स्तुतय उग्रा उद्यूर्णाः शर्धाय मारुताय
+> बलाय । तृक्षः शर्ध इति बलनामसु पाठात् । आप आप्नुवंतो गिरयो न मेघा
+> इव । गिरिर्वृज इति मेघनामसु पाठात् । अस्पृध्रन् । अस्पर्धंत ॥
+
+##### Gist of the bhāṣya
+
+That well-known, growing host of Maruts, who are the sons of Rudra and have shining lances, I serve with praise. Moreover, the pure praises of the worshipper, fierce and uplifted, for the strength of the Maruts (it is read among the names of strength) are pervading, as clouds do (it is read among the names of cloud), and they vie with one another.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं (*taṃ*)—the well-known
+- वृधंतं (*vṛdhaṃtaṃ*)—the one that grows
+- भ्राजदृष्टिं (*bhrājadṛṣṭiṃ*)—possessing a shining weapon
+- रुद्रस्य सूनुं (*rudrasya sūnuṃ*)—the one in the form of Rudra's sons
+
+### Printed p. 482
+
+- मारुतं (*mārutaṃ*)—the host of Maruts
+- हवसा (*havasā*)—with praise
+- आ विवासे (*ā vivāse*)—I serve
+- दिवः (*divaḥ*)—of the praiser
+- शुचयः (*śucayaḥ*)—pure
+- उग्राः (*ugrāḥ*)—possessed of great strength
+- मनीषाः (*manīṣāḥ*)—praises
+- शर्धायॆ (*śardhāyè*)—offered to the host of Maruts
+- आपः (*āpaḥ*)—pervading it
+- गिरियो न (*giriyo na*)—like the clouds that cause rain
+- अस्पृधन् (*aspṛdhan*)—they vie
+
+##### भावार्थ (Bhāvārtha)
+
+I serve with praise the well-known host of Maruts, which grows, has shining weapons and is in the form of the sons of Rudra. The praiser's pure praises, possessed of great strength, offered to the host of Maruts and pervading it, vie like the clouds that cause rain.
+
+##### English translation
+I worship with oblations that exalted company of the Maruts,
+the progeny of Rudra, armed with shining lances: the pure and earnest
+praises of the devout (adorer) are emulous in the invigoration (of the
+Muruts), as the clouds (vie in the emission of the rain).
+
+## Sūkta 67 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वेषां व इत्येकादशर्चं षष्ठं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभं मैत्रावरुणं । तथा चानुक्रम्यते । विश्वेषां मैत्रावरुणमिति ॥ सूक्तविनियोगो लैंगिकः ॥
+> मैत्रावरुणे पशावा यातं मित्रावरुणेति पशुपुरोडाशस्यानुवाक्या । सूत्रितं च ।
+> आ यातं मित्रावरुणा सुशस्त्या नो मित्रावरुणा हव्यजुष्टिं । आ. ३-८ । इति ॥
+> व्यूळ्ळे दशरात्रे सप्तमेऽहनि प्रउगशस्त्रे प्र यद्वामिति मैत्रावरुणस्तृतीयश्चः ।
+> सूत्रितं च । प्र यद्वां मित्रावरुणा स्पूर्धन्ना गोमता नासत्या रथेन ।
+> आ. ८-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning विश्वेषां व (*viśveṣāṃ va*) has eleven ṛks and is the sixth sūkta. Bharadvāja is its seer, the metre is Triṣṭubh and the deity is Mitra and Varuṇa. In the Anukramaṇikā it is said: विश्वेषां मैत्रावरुणमिति (*viśveṣāṃ maitrāvaruṇamiti*) **GLOSS**. The application of the sūkta is by indication. In the animal sacrifice addressed to Mitra and Varuṇa, the ṛk beginning आ यातं मित्रावरुणा (*ā yātaṃ mitrāvaruṇā*) is the anuvākyā of the animal-cake offering; this is laid down in the sūtra beginning आ यातं मित्रावरुणा (*ā yātaṃ mitrāvaruṇā*) (Ā. 3-8). On the seventh day of the Vyūḍha Daśarātra, at the Praüga śastra, the ṛk beginning प्र यद्वां (*pra yadvāṃ*) is the third triplet for Mitra and Varuṇa; this is laid down in the sūtra beginning प्र यद्वां (*pra yadvāṃ*) (Ā. 8-9).
+
+##### Anuvāda
+
+This sūkta विश्लेषां वः (*viśleṣāṃ vaḥ*) is the sixth sūkta in the sixth anuvāka. It has eleven ṛks. Bharadvāja is the seer of this sūkta; Mitra and Varuṇa are the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: विश्लेषां मैत्रावरुणं (*viśleṣāṃ maitrāvaruṇaṃ*) **GLOSS**. The application of the sūkta is by indication. In the animal offering addressed to Mitra and Varuṇa, the third ṛk of this sūkta, beginning आ यातं मित्रावरुणा (*ā yātaṃ mitrāvaruṇā*), is to be recited as anuvākyā mantra when the animal-cakes are offered; this is set out in the Āśvalāyana Śrauta Sūtra: आ यातं मित्रावरुणा सुशस्त्या नो मित्रावरुणा हव्यजुष्टिं (*ā yātaṃ mitrāvaruṇā suśastyā no mitrāvaruṇā havyajuṣṭiṃ*) (Ā. 3-8) **GLOSS**. On the seventh day of the sacrifice called Vyūḍha Daśarātra, when the Praüga śastra mantra is recited, the three ṛks of this sūkta beginning प्र यद्वां (*pra yadvāṃ*) (ṛks 9-11) are to be recited as the third triplet addressed to Mitra and Varuṇa; this is set out in the Āśvalāyana Śrauta Sūtra: प्र यद्वां मित्रावरुणा स्पूर्धन्ना गोमता नासत्या रथेन (*pra yadvāṃ mitrāvaruṇā spūrdhannā gomatā nāsatyā rathena*) (Ā. 8-9) **GLOSS**.
+
+### Printed p. 483
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 67
+- Aṣṭaka 5; Adhyāya 1; Varga 9, 10
+- Number of ṛks in the sūkta: 11
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: मित्रावरुणौ (*mitrāvaruṇau*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑षां वः स॒तां ज्येष्ठ॑तमा गी॒र्भिर्मि॒त्रावरु॑णा वावृ॒धध्यै॑ ।  
+> सं या र॒श्मेव॑ य॒मतु॒र्यमि॑ष्णा॒ द्वा जनौ॒ अस॑मा बा॒हुभिः॒  
+> स्वैः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वेषां । वः । सतां । ज्येष्ठतमा । गीभिः । मित्रावरुणा । ववृधध्यै ।  
+> सं । या । रश्म्याइव । यमतुः । यमिष्ठा । द्वा । जनान् । असमा । बाहुभिः ।  
+> स्वैः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वेषां सतां मध्ये जेष्ठतमा जेष्ठतमौ मित्रावरुण् वो वां गीर्भिः
+> स्तुतिभिर्ववृधध्यै वर्धयितुं ग्रवृत्तोऽस्मि । या यौ द्वा द्वौ सहितावसमा विषमे ।
+> त्रिरश्रिं हंति चतुरश्रिरुग्रः । ऋग्वे. १-१५२-२ । इति निगमांतरेणासाम्यं दर्शितं ।
+> यमिषा यंतृतमौ स्वैरात्मीयैर्बाहुभी रश्मेव रश्मनेवाश्वान् जनान् सं
+> यमतुः संयच्छतः । बाहुभिरिति बहुवचनं पूजार्थं ॥
+
+##### Gist of the bhāṣya
+
+Among all existing beings, O Mitra and Varuṇa, the most senior, I have set about to increase you with praises. You two together are "uneven", that is, unequal; that your unevenness is another matter is shown by another passage: त्रिरश्रिं हंति चतुरश्रिरुग्रः (*triraśriṃ haṃti caturaśrirugraḥ*) (Ṛgve. 1-152-2) **GLOSS** **NOTE**. You two, the best restrainers, hold the people together with your own arms, as one holds horses with a rein; the plural "arms" is used for honour.
+
+### Printed p. 484
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वेषां (*viśveṣāṃ*)—of all
+- सतां (*satāṃ*)—among beings that are real
+- ज्येष्ठतमा (*jyeṣṭhatamā*)—the most excellent
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- या द्वा (*yā dvā*)—you two who
+- असमा (*asamā*)—though not of equal form
+- यमिष्णा (*yamiṣṇā*)—as the best controllers of the world
+- स्वैः (*svaiḥ*)—your
+- बाहुभिः (*bāhubhiḥ*)—with arms
+- रश्मेव (*raśmeva*)—as one keeps horses under control with bridles
+- जनान् (*janān*)—all the people
+- सं यमतुः (*saṃ yamatuḥ*)—you keep under control, such as you
+- वः (*vaḥ*)—you
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- ववृदध्यै (*vavṛdadhyai*)—I cause to increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the most excellent among all beings that are real, you two, though not of equal form, as the best controllers of the world, keep all the people under control with your arms, as one keeps horses under control with bridles. I cause you to increase with praises.
+
+##### English translation
+(I proceed) by my praises to exalt you, Mitra and Varuna, the
+eldest of all existing things : you two, though not the same, are the firmest
+restrainers with your arms, and hold men back (from evil) as they check
+(horses) with reins.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं मद्वां॒ प्र स्तृ॑णीते मनी॒षोप॑ प्रि॒या नम॑सा  ॒॑
+> ब॒र्हिरच्छ॑ ।  
+> यं॒तं नो॑ मित्रावरुणा॒वधृ॑ष्टं छ॒र्दिर्यद्वां॑ वरू॒थ्यं॑  
+> सुदानू ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । मत् । वां । प्र । स्तृणीते । मनीषा । उप । प्रिया । नमसा । बर्हिः ।  
+> अच्छ ।  
+> यंतं । नः । मित्रावरुण् । अधृष्टं । छर्दिः । यत् । वां । वरूथ्यं । सुदानू इति  
+> सुदानू ॥ २ ॥
+
+### Printed p. 485
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ वां युवां मत् ममेयं मनीषा स्तुतिः प्र स्तृणीते ।
+> प्रच्छादयति । प्रिया हे प्रियौ युवां नमसान्नेन हविषा सहोप गच्छति च ।
+> युवयोर्बर्हिर्यज्ञमच्छाभिगच्छति च । हे मित्रावरुणौ नोऽस्मभ्यमधृष्टमनभिभूतं छर्दिर्गृहं यंतं । प्रयच्छतं । हे सुदानू शोभनदान् वां युवयोः
+> संबंधि युवाभ्यां देयं यद्गृहं वरूथ्यं शीतवातातपानां वारयित्य भवति ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, this praise of mine spreads over you and covers you. O beloved ones, it goes to you with the food, the oblation, and goes to your sacrificial grass. O Mitra and Varuṇa, grant us an unassailed, unconquered house. O good givers, the house given by you is to be a protector against cold, wind and heat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणौ (*mitrāvaruṇau*)—O Mitra and Varuṇa
+- वां (*vāṃ*)—both of you
+- मत् (*mat*)—my
+- इयं मनीषा (*iyaṃ manīṣā*)—this praise
+- प्र स्तृणीते (*pra stṛṇīte*)—pervades
+- प्रिया (*priyā*)—O beloved Mitra and Varuṇa
+- नमसा (*namasā*)—together with the oblation
+- उप (*upa*)—that praise approaches you
+- बर्हिः (*barhiḥ*)—the seat of darbha grass
+- अच्छ (*accha*)—is spread for you
+- सुदानू (*sudānū*)—O Mitra and Varuṇa, excellent givers
+- नः (*naḥ*)—to us
+- आधृष्टं (*ādhṛṣṭaṃ*)—unassailed
+- वां (*vāṃ*)—given by you
+- यत् (*yat*)—which
+- वरूथ्यं (*varūthyaṃ*)—a protector against cold, wind and the like
+- छर्दिः (*chardiḥ*)—the house
+- यंतं (*yaṃtaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, this praise of mine joins you both and pervades. O beloved Mitra and Varuṇa, that same praise, together with the oblation, approaches you. The seat of darbha grass is spread out for you. O Mitra and Varuṇa, excellent givers, give us a house that is unassailed, given by you, and a protector against cold, wind and the like.
+
+##### English translation
+This my praise is addressed to you both, and proceeds, to you beloved (deities) together with the oblation : the sacred grass is spread before you : grant us, Mitra and Varuna, unassailable dwelling, that through your favour, munificent divinities, may be a (secure) shelter.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑तं मित्रावरुणा सुश॒स्तुप॑ प्रि॒या नम॑सा हू॒यमा॑ना ।
+
+### Printed p. 486
+
+> सं यावप्नःस्थो अपसेव जनाञ्छ्रधीयतश्चिद्यतथो  
+> महित्वा ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यातं । मित्रावरुणा । सुशस्ति । उप । प्रिया । नमसा । हूयमाना ।  
+> सं । यौ । अप्नःस्थः । अपसाइव । जनान् । श्रुधियतः । चित् । यतथः । महित्वा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ सुशस्ति शोभनशंसनं नमसान्नेन हविषा स्तोत्रेण वा
+> हूयमाना स्तूयमानौ प्रिया विश्वस्य प्रियावुपा यातं । उपागच्छतं । यौ
+> महित्वा महत्वेन युक्तौ युवां श्रुधीयतः श्रुधिमन्नं यशो वात्मन इच्छतो
+> जनान् अप्नःस्थः कर्मण्यधिकृतः पुरुषः । अपोऽप्न इति कर्मनामसु पाठात् ।
+> अपसेव कर्मणेव सं यतथः संयच्छथः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, invoked with good praise, with the food, the oblation, or the song of praise, beloved of the whole world, come near. You two, endowed with greatness, hold in check the people who desire food or fame for themselves, as a man engaged in a rite does by his work. The word for "rite" is read among the names of work.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- अप्पस्थः (*appasthaḥ*)—a man devoted to rites
+- अपसेव (*apaseva*)—as he obtains his position by his own work
+- महित्वा चित् (*mahitvā cit*)—by your greatness itself
+- यौ (*yau*)—you who
+- श्रुधीयतः (*śrudhīyataḥ*)—desiring food
+- जनान् (*janān*)—men
+- सं यतथः (*saṃ yatathaḥ*)—join with their accomplishments, such as you
+- प्रिया (*priyā*)—dear to all
+- सुशस्ति (*suśasti*)—with good praise
+- नमसा (*namasā*)—with a hymn of praise
+- हूयमाना (*hūyamānā*)—being invoked, you
+- उप आ यातं (*upa ā yātaṃ*)—be gracious and come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, as a man devoted to rites obtains his position by his own work, so you, by your greatness, join men who desire food with their accomplishments. You are dear to all and are invoked with a hymn of good praise; be gracious and come to us.
+
+##### English translation
+Come, Mitra and Varuna, beloved by all, and invoked with reverence to the propitious rite, you who by your bounty support men labouring for sustenance as a workman (maintains himself) by work.
+
 ---
 
-**Progress note:** Done through printed p. 479. Maruts hymn Ṛk 5-9 (Sūkta 66), pp. 474-479
+**Progress note:** Done through printed p. 486. Sūkta 66 Ṛk 10-11; Sūkta 67 Ṛk 1-3, pp. 480-486
