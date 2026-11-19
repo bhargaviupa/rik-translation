@@ -24,3 +24,6 @@ Hand repairs (all in `review/repair_log.md`, or by `batch.py fix` logs): `##` he
 1. Preface (if translated): `work/preface/en.md`, installation is a logged repair after the user's yes.
 2. For the editor: in w0645 (pp. 645–651, the Indra etymologies and Nirukta 10-8) the agent left much of the Sanskrit unquoted (its own report); check that passage against the Kannada text.
 3. Tool TODO: `merge_md.py` should accept a seam where each input's last/first page is merged or split differently (this volume).
+
+## Publication (print PDF)
+Nov 19 2026: review PDFs built (see above).
