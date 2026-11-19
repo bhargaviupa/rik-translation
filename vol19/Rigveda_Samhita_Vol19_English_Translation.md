@@ -29841,6 +29841,229 @@ In this Ṛk the greatness of Mitra and Varuṇa is described. The seer describe
 
 ईर्मा अहभिः तस्थुषीः दुदुहे तत् वां महित्वं— ईर्मा सततगंता सर्वस्य प्रेरको वादित्योऽहभिरहोभिर्वर्षतुसंबंधिभिः स्थावरभूता अपो दुदुहे दुग्धे । (*īrmā ahabhiḥ tasthuṣīḥ duduhe tat vāṃ mahitvaṃ— īrmā satatagaṃtā sarvasya prerako vādityo 'habhirahobhirvarṣatusaṃbaṃdhibhiḥ sthāvarabhūtā apo duduhe dugdhe |*) Because he is of a nature to move at all times, ईर्मा (*īrmā*) means the Āditya. Or
 
+### Printed p. 841
+
+Because he impels everything, ईर्मा (*īrmā*) means the Āditya. This Āditya, by the days, causes the motionless waters to rain. That is, the sun or Āditya spreads his sharp rays, draws up the waters that lie in motionless reservoirs such as the ocean, turns them into cloud, and through them makes rain fall on the earth in the days of the rainy season. In this way the seer describes the sun's act of raining as the very excess of greatness of you, Mitra and Varuṇa.
+
+सु स्वसरस्य धेनाः विश्वाः पिन्नथ (*su svasarasya dhenāḥ viśvāḥ pinnatha*)—It is you who nourish the world-pleasing rays of the Āditya, whose nature is to move about. This is another greatness of yours.
+
+नां एकः पविः अनु आ ववर्त (*nāṃ ekaḥ paviḥ anu ā vavarta*)**NOTE**—Yāska has given the explanation of the word पवि (*pavi*): पविरिति रथस्य नेमिः पवी रथनेमिर्भवति (*paviriti rathasya nemiḥ pavī rathanemirbhavati*) (Ni. 5-5). पवि (*pavi*) means the felly of a chariot. Here the word is used in order to denote the chariot itself. O Mitra and Varuṇa, the one chariot that is common to you both, that is the same for both, goes about everywhere at all times. That is to say, of you two, Mitra and Varuṇa, each does not have a separate chariot; there is one chariot from both. That chariot is of a nature to move in every place and at all times: thus the praise of the chariot of Mitra and Varuṇa is expressed here. This is the third greatness of Mitra and Varuṇa.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑रयतं पृथ॒ीविमु॒त द्यां मित्र॑राजाना वरुणा॒  ॑
+> महोभिः ।  
+> व॒र्धय॑त॒मोष॑धीः॒ पिन्व॑तं॒ गा अव॑ वृ॒ष्टिं सृ॑जतं जीरदानू॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधारयतं । पृथिवीं । उत । द्यां । मित्रराजाना । वरुणा । महःभिः ।  
+> वर्धयतं । ओषधीः । पिन्वतं । गाः । अव । वृष्टिं । सृजतं । जीरदानू इति जीरदानू ॥ ३ ॥
+
+### Printed p. 842
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रराजाना । मित्रभूताः स्तोतारो राजानः स्वामिन ईश्वरा भवंति
+> ययोः सकाशात्तौ मित्रराजानौ । हे वरुणा ॥ प्रतियोग्यपेक्षया द्विवचनं । अत्र
+> पादादित्वादाद्यं पदं न निहन्यते । वरुणेत्येतस्य त्वामंत्रितं पूर्वमविद्यमानवदिति पूर्वस्थ्याविद्यमानवत्वेनास्यैव पादादित्वादनिघातत्वं युक्तं! नैवं भवति ।
+> नामंत्रिते समानाधिकरणे सामान्यवचनमिति वरुणेत्येतस्यामंत्रितसमानाधिकरणत्वादस्य च सामान्यवचनत्पादविद्यमानवत्त्वाभावेन पादादित्वाभावादुत्तरस्य
+> निघातत्वं युक्तं ॥ हे देवौ महोभिस्तेजोभिः स्वसामर्थ्यैः पृथिवीमुतापि
+> च द्यामधारयतं । हे देवौ युवामोषधीर्वर्धयतं वृष्टिप्रेरणेन । गाः
+> पिन्वतं । गवाश्वादीन्वर्धयतं तदर्थं वृष्टिमव सृजतं । अवाङ्मुखं प्रेरयतं हे
+> जीरदानू क्षिप्रदानौ ॥
+
+##### Gist of the bhāṣya
+
+मित्रराजानौ (*mitrarājānau*) is explained thus: those from whose presence the praisers, who are friends, become kings, lords and masters. "O Varuṇa" is in the dual with reference to its counterpart. O two gods, by your energies, that is, by your own powers, you uphold the earth and also the heaven. O two gods, you make the plants grow by sending rain. You nourish the cows, that is, you make cattle, horses and the like thrive; for that purpose send down the rain, impel it downwards. O जीरदानू (*jīradānū*), quick givers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रराजाना वरुणा (*mitrarājānā varuṇā*)—O Mitra and Varuṇa, radiant ones and lords
+- महोभिः (*mahobhiḥ*)—by your energies
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—the heaven
+- आधारयतं (*ādhārayataṃ*)—you have upheld
+- जीरदानू (*jīradānū*)—O excellent givers
+- ओषधीः (*oṣadhīḥ*)—the plants
+- वर्धयतं (*vardhayataṃ*)—make grow
+- गाः (*gāḥ*)—the cows
+- पिन्वतं (*pinvataṃ*)—nourish
+- वृष्टिं (*vṛṣṭiṃ*)—the rain
+- अव सृजतं (*ava sṛjataṃ*)—pour down
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, radiant ones and lords, by your energies you have upheld the earth and the heaven. O excellent givers, make the plants (vegetation and the like) grow. Nourish the cows. Pour down rain.
+
+##### English translation
+Royal Mitra and Varuna, you uphold by your energies. earth and heaven: prompt benefactors cause the plant to grow, give nourishment to the cattle, send dowm**NOTE** the rain.
+
+##### विशेषविषयगळु (Special Topics)
+
+मित्रराजाना-मित्रभूताः स्तोतारो राजानाः स्वामिनः ईश्वरा भवंति ययोः सकातात्तौ मित्रराजान् । (*mitrarājānā-mitrabhūtāḥ stotāro rājānāḥ svāminaḥ īśvarā bhavaṃti yayoḥ sakātāttau mitrarājān |*). Out of friendliness the worshippers who praise you become, by your grace, kings or lords over all. Thus he explained the meaning of this word: Mitra and Varuṇa, who possess such greatness.
+
+### Printed p. 843
+
+महोभिः पृथिवीं उत द्यां आधारयतं (*mahobhiḥ pṛthivīṃ uta dyāṃ ādhārayataṃ*)—O Mitra and Varuṇa, you uphold the earth and the atmosphere or heaven by your own power. The meaning is that it is by your excess of greatness that the earth and the atmosphere perform their respective functions.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वा॒मश्वा॑सः सु॒युजो॑ वहंतु य॒तर॑श्मय॒ उप॑ यंत्व॒र्वाक् ।  
+> घृ॒तस्य॑ नि॒र्णिगनु॑ वर्तते वा॒मुप॒ सिंध॑वः प्र॒दिवि॑ क्षरंति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । अश्वासः । सुयुजः । वहंतु । यतरश्मयः । उप । यंतु । अर्वाक् ।  
+> घृतस्य । निःनिक् । अनु । वर्तते । वां । उप। सिंधवः । प्रदिवि । क्षरंति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ वां युवामश्वासोऽश्वाः सुयुजः सुष्टु रथे युक्ताः
+> संत आ वहंतु । यतरश्मयः सारथिनियतप्रग्रहास्तेऽर्वागुप यंतुं । धृतस्योदकस्य निर्णिग्रूपं वामनु वर्तते । अनुगच्छति । किंच प्रदिनि । पुराणनामैतत् ।
+> पुराणाः सिंधव उप क्षरंति । उपगच्छंति युवयोरनुग्रहात् ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, let your horses, सुयुजः (*suyujaḥ*), well yoked to the chariot, bring you hither. With reins held fast by the charioteer let them come towards us. The form of the water (the verse's ghee) follows you. Further, प्रदिवि (*pradivi*) is a name meaning ancient; the ancient rivers come to us through your favour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—your
+- अश्वासः (*aśvāsaḥ*)—horses
+- सुयुजः (*suyujaḥ*)—yoked to the chariot
+- आ वहंतु (*ā vahaṃtu*)—let them bring you here
+- यतरश्मयः (*yataraśmayaḥ*)—having reins held by the charioteer
+- अर्वात् (*arvāt*)**NOTE**—facing us
+- उप यंतु (*upa yaṃtu*)—let them come near us
+- धृतस्य (*dhṛtasya*)—of water
+- निर्णिक् (*nirṇik*)—the form
+- वां (*vāṃ*)—you
+- अनुवर्तते (*anuvartate*)—follows
+- प्रदिवि (*pradivi*)—ancient
+- सिंधवः (*siṃdhavaḥ*)—rivers
+- उप क्षरंति (*upa kṣaraṃti*)—flow (through your favour alone)
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, let your horses, yoked to the chariot, bring you here. With reins held by the charioteer, let them come near us. The form of the water follows you alone. The ancient rivers flow through your favour alone.
+
+### Printed p. 844
+
+##### English translation
+May your easily-harnessed horses bear you both (hither), and with well-guided reins come down; the embodied form of water follows you, the rivers flow as of old.
+
+##### विशेषविषयगळु (Special Topics)
+
+यतरश्मयः (*yataraśmayaḥ*)—सारथिनियतप्रग्रहाः (*sārathiniyatapragrahāḥ*). Here रश्मयः (*raśmayaḥ*) means ropes, or the reins that restrain horses. When a charioteer drives the horses of a chariot, he keeps their reins under his control and by their help urges the horses to go wherever he wishes. Therefore यतरश्मयः (*yataraśmayaḥ*) means horses whose reins are subject to the charioteer.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ श्रु॒ताम॒मतिं॒ वर्ध॑दु॒र्वीं ब॒र्हिरि॑व॒ यजु॑षा॒ रक्ष॑माणा ।  
+> नम॑स्वंता धृतद॒क्षाधि॒ गर्ते॒ मित्रासा॑धे वरु॒णेळा॑स्वं॒तः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । श्रुतां । अमतिं । वर्धत् । उर्वीं । बर्हिः इव । यजुषा । रक्षमाणा ।  
+> नमस्वंता । धृतदक्षा । अधि । गर्ते । मित्र । आसाथे इति । वरुण । इळासु । अंतरिति॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रुतां विश्रुताममतिं । रूपनामैतत् । शरीरदीप्तिमित्यर्थः । तामनु
+> वर्धदनुवर्धयंतौ । बर्हिर्यज्ञः । स इव स यथा यजुषा मंत्रेण रक्ष्यते
+> तद्वदुर्वीं रक्षमाणा पालयंतौ नमस्वंतान्नवंतौ हे धृतदक्षात्तबलौ हे मित्र हे
+> वरुण हे मित्रावरुणौ युवामुक्तलक्षणौ संताविळासु यागभूमिष्वंतर्मध्यॆ
+> गर्तेऽधि रथ आसाथे । उपविशथः । रथोऽपि गर्त उच्यते । नि-३. ५. । इति यास्कः ।
+> आ रोहथो वरुण मित्र गर्तं । ऋग्वे. ५-६२-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+श्रुतां (*śrutāṃ*) means well known. अमतिं (*amatiṃ*) is a word for form; the meaning is the splendour of the body. Increasing that, बर्हिः (*barhiḥ*) is the sacrifice; just as it is guarded by the yajus, the mantra, so you two guard and protect the broad form, नमस्वंता (*namasvaṃtā*), possessing food, O धृतदक्षा (*dhṛtadakṣā*), possessed of strength, O Mitra, O Varuṇa, O Mitra and Varuṇa. Being such as described, you sit on the गर्ते (*garte*), the chariot, in the midst of the इळासु (*iḷāsu*), the sacrificial grounds. The chariot too is called garta, says Yāska (Ni. 3-5): आ रोहथो वरुण मित्र गर्तं (*ā rohatho varuṇa mitra gartaṃ*) (Ṛgve. 5-62-8)**NOTE**.
+
+### Printed p. 845
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नमस्वंता (*namasvaṃtā*)—possessing food
+- धृतदक्षा (*dhṛtadakṣā*)—possessing acquired strength
+- मित्र, वरुण (*mitra, varuṇa*)—O Mitra and Varuṇa
+- यजुषा (*yajuṣā*)—by the mantra, protected
+- बर्हिः इव (*barhiḥ iva*)—like the sacrifice
+- श्रुतां (*śrutāṃ*)—well known
+- अमतिं (*amatiṃ*)—the form (the splendour of the body)
+- अनु वर्धत् (*anu vardhat*)—making it increase
+- उर्विं (*urviṃ*)—that same extensive form
+- रक्षमाणा (*rakṣamāṇā*)—protecting
+- इळासु अंतः (*iḷāsu aṃtaḥ*)—in the midst of the sacrificial grounds
+- गर्तॆ अधि (*gartè adhi*)—on your chariots
+- आसाथे (*āsāthe*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, possessing food and acquired strength, making your well-known form increase, like the sacrifice that is protected by the mantra, and protecting that same extensive form, sit on your chariots in the midst of the sacrificial grounds.
+
+##### English translation
+Augmenting the well-known and ample form (of man), in like manner as the sacred grass is preserved by prayer, do you, Mitra and Varuna, who are invigorated by (sacrificial) viands, and abound in food, ascend your car in the midst of the place of sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+बर्हिः (*barhiḥ*)—The word बर्हिः (*barhiḥ*) is read both among the names of the atmosphere (Ni. 2-10) and among the names of water (Ni. 2-24). Besides, Yāska says बर्हिः परिबर्हणात् (*barhiḥ paribarhaṇāt*) (Ni. 8-9). At sacrifices and the like, so that the gods may come and sit, seats are prepared that are soft with darbha grass. These seats are made of darbha grass cut to one and the same measure. Such evenly cut darbha grass, or a seat of darbha grass, is called बर्हिः (*barhiḥ*). In the present Ṛk this word is used in the sense of sacrifice.
+गर्तॆ (*gartè*)—Regarding the meaning of this word Yāska has given the explanation: रथोऽपिगर्त उच्यते गृणातेः स्तुतिकर्मणः । स्तुततमं यानं । आरोहथो वरुण मित्र गर्त० इत्यपि निगमो भवति । (*ratho 'pigarta ucyate gṛṇāteḥ stutikarmaṇaḥ | stutatamaṃ yānaṃ | ārohatho varuṇa mitra garta0 ityapi nigamo bhavati |*) (Ni. 3-5). That is, the chariot too is called garta. For this word is formed from the root meaning to praise and indicates the meaning of an excellent vehicle. An example in this matter is the scriptural sentence आरोहथो वरुण मित्र गर्त० (*ārohatho varuṇa mitra garta0*) (Ṛ. Saṃ. 5.62-8).
+
+### Printed p. 846
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अक्र॑विहस्ता सु॒कृते॑ पर॒स्पा यं त्रासा॑धे वरु॒णेळा॑स्वं॒तः ।  
+> राजा॑ना क्ष॒त्रमहृ॑णीयमाना स॒हस्र॑स्थूणं बिभृथः स॒ह द्वौ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्रविहस्ता । सुकृते । परःपा । यं । त्रासाधे इति । वरुणा । इळासु । अंतरिति ।  
+> राजाना । क्षत्रं । अहृणीयमाना । सहस्रस्थूणं । बिभृथः । सह । द्वौ ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अक्रविहस्ता अकृपणहस्तौ । दानशूरावित्यर्थः । कस्यै । सुकृते शोभनस्तुतिकर्त्रे परस्पा परस्तात्पातारौ रक्षितारौ हे वरुणा मित्रवरुणौ युवां यं यजमानमिळासु यागभूमिष्टंतर्मध्यॆ त्रासाथे रक्षथः तस्मै सुकृतेऽक्रविहस्ता परस्पा
+> च भवथ इति संबंधः । किंच युवां राजाना राजमानावहृणीयमानाक्रुद्यंतौ
+> द्वै परस्परं सह साहित्येन क्षत्रं धनं सहस्रस्थूणमनेकावष्टंभकस्तंभोपेतं
+> सौधादिरूपं गृहं च बिभृथः । धारयथः सुकृते यजमानाय । अथवा क्षत्रं
+> बलमपरिमिताभिः स्थूणाभिरुपेतं रथं चागमर्नाथं सह धारयथः ॥
+
+##### Gist of the bhāṣya
+
+अक्रविहस्ता (*akravihastā*) means those whose hands are not miserly, that is, heroes in giving. For whom? For the सुकृते (*sukṛte*), the good praiser. परस्पा (*paraspā*) means protectors from beyond, guardians. O Varuṇa, O Mitra and Varuṇa: the sacrificer whom you protect in the midst of the इळासु (*iḷāsu*), the sacrificial grounds, to that good-doer be liberal-handed and protectors; such is the construction. Further, you two, shining and not angry, both together bear क्षत्रं (*kṣatraṃ*), wealth, and a house of the palace kind furnished with a thousand pillars, with many supporting posts, for the sacrificer who does good. Or else, क्षत्रं (*kṣatraṃ*) is strength, and you two together bear a chariot furnished with countless pillars and चागमर्नाथं (*cāgamarnāthaṃ*)**NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणा (*varuṇā*)—O Mitra and Varuṇa
+- यं (*yaṃ*)—which sacrificer
+- इळासु अंतः (*iḷāsu aṃtaḥ*)—in the midst of the sacrificial grounds
+- त्रासाथे (*trāsāthe*)—you protect, to such a one
+- सुकृते (*sukṛte*)—to the sacrificer who does good deeds
+- अक्रविहस्ता (*akravihastā*)—having hands that give generously
+- परस्पा (*paraspā*)—giving excellent protection, be you
+- राजाना (*rājānā*)—lords
+- अहृणीयमाना (*ahṛṇīyamānā*)—free from anger
+- द्वौ (*dvau*)—you two
+- सह (*saha*)—together
+- सहस्रस्थूणं (*sahasrasthūṇaṃ*)—furnished with a thousand pillars, of the nature of a house
+- क्षत्रं (*kṣatraṃ*)—wealth
+- बिभृथः (*bibhṛthaḥ*)—you bear
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, the sacrificer whom you protect in the midst of the sacrificial grounds, to such a doer of good deeds be generous-handed givers and bestowers of excellent protection. You two, lords and free from anger, together bear wealth of the nature of a house furnished with a thousand pillars.
+
 ---
 
-**Progress note:** Done through printed p. 840. Sūkta 62 Ṛk 1 and Ṛk 2 (to Special Topics)
+**Progress note:** Done through printed p. 846. Mandala 5 sukta 62 Rk 3-6 (partial), pp. 841-846
