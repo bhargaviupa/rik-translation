@@ -24967,6 +24967,196 @@ Here in the first half the charioteer is praised, and in the second half the rei
 
 The excellent charioteer, seated in the chariot, drives the horses that are in front of him to wherever he wishes to go. The nooses of those horses restrain the horses yoked to the rear part of the chariot in accordance with the mind's resolve of the charioteer. O praisers, praise the greatness of these reins (bridles).
 
+### Printed p. 571
+
+##### English translation
+The skilful charioteer, standing in the car, drives his horses before him wherever he will : praise the efficacy of the reins; for the reins from the back (of the car compel the steeds) to follow the intention of the driver).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk the charioteer is praised, and in the second half the bits or reins of the horses. Yāska, giving the explanation of this Ṛk, says—अभीशवो व्याख्याताः । तेषामेषा भवति । रथे तिष्ठन्नयति वाजिनः पुरो यत्र यत्र कामयते सुषारथिः । अभीशूनां महिमानं पनायत मनः पश्चादनु यच्छंति रश्मयः ॥ रथे तिष्ठन्नयति वाजिनः पुरस्तात् सतो यत्र यत्र कामयते । सुषारथिः कल्याणसारथिः । अभीशूनां महिमानं पूजयामि मनः पश्चात् संतोऽनुयच्छंति रश्मयः ॥ (*abhīśavo vyākhyātāḥ | teṣāmeṣā bhavati | rathe tiṣṭhannayati vājinaḥ puro yatra yatra kāmayate suṣārathiḥ | abhīśūnāṃ mahimānaṃ panāyata manaḥ paścādanu yacchaṃti raśmayaḥ ‖ rathe tiṣṭhannayati vājinaḥ purastāt sato yatra yatra kāmayate | suṣārathiḥ kalyāṇasārathiḥ | abhīśūnāṃ mahimānaṃ pūjayāmi manaḥ paścāt saṃto 'nuyacchaṃti raśmayaḥ ‖*) (Ni. 9-16). The charioteer who drives the chariot, seated in the chariot itself, takes the horses yoked in front of the chariot wherever he wishes to go, that is, he urges them to go. This charioteer is skilful and clever (skilful, well-trained) in controlling and driving the horses. In the chariot the charioteer sits at the back and the horses are in front of him. This being so, how is it possible to make those horses (urged by signs or by words) go where he wants? The charioteer does not use signs or words to urge the horses. Instead of them he uses bits or reins (reins). These reins are called abhīśu or raśmi (rope). These reins, with which the horses are bound, are in the hand of the charioteer. By the movements of these reins the charioteer, although he sits behind the horses, can make them go wherever he wants. The main purport of the explanation is: "I praise greatly this kind of greatness, that is, the power and capacity, of the reins."
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ती॒व्रान्फोषा॑न्कृण्वते॒ वृष॑पाण॒योऽश्वा॒ रथे॑भिः स॒ह वा॒जयं॑तः ।  
+> अ॒व॒क्रामं॑तः॒ प्रप॑द्यैर॒मित्रा॑न् क्षी॒णंति॒ शत्रु॒रन॑पव्ययंतः ॥७॥
+
+### Printed p. 572
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तीव्रान् । घोषान् । कृण्वते । वृषपाणयः । अश्वाः । रथेभिः । सह । वाजयंतः ।  
+> अवक्रामंतः । प्रपदैः । अमित्रान् । क्षिणंति । शत्रुन् । अनपव्ययंतः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्राश्वस्तुतिः । अश्वा वृषपाणयः पांसूनां वर्षकखुरा रथेभी रथैः सह
+> वाजयंतो वेगमाचरंतस्तीव्रानुच्चतरान्फोशान् शब्दान् कृण्वते । कुर्वते ।
+> किंचानसव्ययंतोऽपलायमाना अमित्रान् हिंसकान् शत्रुन् प्रपदैः पादाग्रॆरवक्रामंतः क्षिणंति । हिंसंति ॥
+
+##### Gist of the bhāṣya
+
+Here the horses are praised. The horses, वृषपाणयः (*vṛṣapāṇayaḥ*), whose hoofs rain down dust, rush with the chariots, exerting speed, and make sharp, that is, very loud, sounds. Moreover, not fleeing, they trample with the tips of their feet the hostile enemies, the foes, and destroy them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वाः (*aśvāḥ*)—the horses
+- वृष पाणयः (*vṛṣa pāṇayaḥ*)—raising dust with their hoofs
+- रथेभिः सह (*rathebhiḥ saha*)—along with the chariots
+- वाजयंतः (*vājayaṃtaḥ*)—running
+- तीव्रान् (*tīvrān*)—exceedingly great
+- घोषान् (*ghoṣān*)—sounds
+- कृण्वते (*kṛṇvate*)—make
+- अनपव्ययंतः (*anapavyayaṃtaḥ*)—not running away, leaving their paths
+- अमित्रान् (*amitrān*)—the adversaries
+- शत्र्यन् (*śatryan*)—the enemies
+- प्रपद्यैः (*prapadyaiḥ*)—with the fore-parts of their feet (hoofs)
+- अवक्रामंतः (*avakrāmaṃtaḥ*)—trampling
+- क्षिणंति (*kṣiṇaṃti*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+The horses, raising dust with their hoofs and running along with the chariots, make exceedingly great sounds. Without running away from their paths, they destroy the adversaries and the enemies, trampling them with the fore-parts of their feet.
+
+##### English translation
+The horses raising the dust with their hoofs, rushing on with the chariots, utter loud neighings, retreating not (from the charge), but trampling with their fore feet upon the enemies, they destroy them.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is praise of horses; that is, the action of horses on the battlefield is described. At the time of battle the horses of the chariots, urged on by the charioteers, run swiftly and charge upon the enemy armies. When they charge forward thus, the dust on the earth rises up through the swiftness of their going; that is, the dust of the earth rises from the hoofs of many horses. And
+
+### Printed p. 573
+
+the horses, with great zeal, neigh loudly as though they themselves had taken an interest in the battle. Even while moving swiftly they do not go wherever they please, but charge upon the enemy army only in accordance with the charioteer's wish. The enemy soldiers, caught under their trampling, meet destruction; that is, many enemy soldiers, caught under the treading of the horses' feet, die. Such praise of horses is described in this Ṛk.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒थ॒वाह॑नं ह॒विर॑स्य॒ नाम॒ यत्रायु॑धं॒ निहि॑तमस्य॒ वर्म॑ ।  
+> तत्रा॒ रथ॒मुप॑ श॒ग्मं स॑देम वि॒श्वाहा॑ व॒यं सु॑मन॒स्यमा॑नाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथवाहनं । हविः । अस्य । नाम । यत्र । आयुधं । निहितं । अस्य । वर्म ।  
+> शत्र । रथं । उप । शग्मं । सदेम । विश्वाहा । वयं । सुमनस्यमानाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य राज्यो रथवाहनं शत्रून् जित्वा रथेनोह्यमानं धनं हविर्भवति ।
+> आग्नेर्हविरिव वर्धकं भवतीत्यर्थः । नामेति संमतिः । यत्र रथेऽस्य राज्ञ आयुधं
+> धनुःशरादिकं वर्म कवचं च निहितं भवति तत्र तं ॥ तत्रेत्यव्ययस्य सर्वविभक्तिकत्वात् ॥ शग्मं सुखकरं विश्वाहा सर्वदा सुमनस्यमानाः सुखमनसो भवंतो
+> वयं पायवो भरद्वाजा उप सदेम । उपगच्छेम ॥
+
+##### Gist of the bhāṣya
+
+The wealth of this king that is carried on the chariot after conquering the enemies becomes an oblation; it becomes, like Agni's oblation, a promoter of increase. He explains that नाम (*nāma*) is a particle of assent. In the chariot in which this king's weapons, bow, arrows and the like, and armour are placed, to that chariot, bringing happiness, at all times, with happy minds, we, the Pāyus, the Bharadvājas, would approach it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this king
+- रथवाहनं (*rathavāhanaṃ*)—the wealth brought in the chariot (after conquering the enemies)
+- हविः (*haviḥ*)—is fit for oblation
+- नाम (*nāma*)—this is certain
+- यत्र (*yatra*)—in which chariot
+- अस्य (*asya*)—of this king
+- आयुधं (*āyudhaṃ*)—the weapons such as the bow
+- वर्म (*varma*)—the armour made of metal
+- निहितं (*nihitaṃ*)—are placed
+- शग्मं (*śagmaṃ*)—bringing happiness
+- तत्र रथं (*tatra rathaṃ*)—that same chariot
+- विश्वाहा (*viśvāhā*)—on all days
+- सुमनस्यमानाः (*sumanasyamānāḥ*)—being happy in mind
+- वयं (*vayaṃ*)—we, of the Bharadvāja line
+- उप सदेम (*upa sadema*)—let us approach (worship)
+
+##### भावार्थ (Bhāvārtha)
+
+The wealth of this king, brought in the chariot after conquering the enemies, is fit for oblation. This is certain. In which chariot the weapons of this king, such as the bow, and the armour made of metal
+
+### Printed p. 574
+
+are placed, that same happiness-bringing chariot we, the descendants of Bharadvāja, would worship on all days, with joyful minds.
+
+##### English translation
+The spoil borne off in his car, in which his weapons and armour are deposited, is the appropriate oblation of the warrior ; therefore let us, exulting, daily do honour to the joy-bestowing car.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is praise of the chariot. The description of the chariot of the king who has returned victorious after fighting and winning is given here.
+
+रथवाहनं हविरस्य नाम (*rathavāhanaṃ havirasya nāma*)—रथेनोद्यमानं (*rathenodyamānaṃ*) wealth!**NOTE** In the earlier age it was the custom to conquer the enemies in battle, load the wealth and other things they had onto one's chariots and the like, and return to one's city. In the same way, when the king, victorious in battle, comes with the enemies' wealth loaded in his chariot, the sage suggests the meaning that such wealth will be used for oblations and the like in the sacrifices they perform. The commentator has explained the word नाम (*nāma*) as "it is certain".
+
+यत्र आयुधं निहितमस्य वर्म (*yatra āyudhaṃ nihitamasya varma*)—And in that chariot, besides the wealth and other things obtained from the enemies, there are placed the weapons such as the bow, taken for the sake of battle, and the armour, that is, the coat of mail worn or taken to protect the body from being struck by the enemies' weapons.
+
+तत्र रथं उप शग्मं सदेम विश्वाहा वयं सुमनस्यमानाः (*tatra rathaṃ upa śagmaṃ sadema viśvāhā vayaṃ sumanasyamānāḥ*)—Such a chariot, which has done us the service of gaining victory for us in battle, we shall always approach with joyful minds; that is, we shall look upon it with a feeling of reverence.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒दु॒षं॒सदः॑ पि॒तरो॑ वयो॒धाः कृ॑च्छ्रे॒श्रितः॒ शक्ती॑वंतो  ॒
+> गभीराः ।  
+> चि॒त्रसे॑ना॒ इषु॑बला॒ अमृ॑ध्राः स॒तोवी॑रा उ॒रवो॑ व्रातसा॒हाः॥
+
+### Printed p. 575
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वादुसंसदः । पितरः । वयःधाः । कृच्छ्रेऽश्रितः । शक्तिवंतः । गभीराः ।  
+> चित्रसेनाः । इषुबलाः । अमृध्राः । सतःवीराः । उरवः । व्रातसहाः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र रथगोपस्तुतिः । पितरो रथस्य पालयितारः स्वादुषंसदः शत्रूणां
+> स्वादुन्यन्ने संसीदंतः शत्रूणामन्नमवसादयंतो वा वयोधा अन्नस्य दातारः
+> कृच्छ्रेश्रित आपदि श्रयंतः शक्तीवंतः । शक्तिरायुधविशेषः । तद्वंतः । शक्तीवंतः
+> शक्तिहस्ता इति यावत् । यद्वा शक्तिर्बलं । तद्वंतः । गभीरा अनाधृष्याश्चित्रसेना
+> दर्शनीयसेना इषुबला बाणबला अमृध्रा हिंसितुमशक्याः सतोवीराः प्राप्तवीर्याः । तथा च यास्कः । तिरः सत इति प्राप्तस्य तिरस्तीर्णं भवति सतः संस्कृतं भवति ।
+> नि. ३-२० । इति । उरवो महांतो व्रातसाहाः समूहानामभिभवितारो भवंतीति ॥
+
+##### Gist of the bhāṣya
+
+Here the guards of the chariot are praised. The पितरो (*pitaro*) are the protectors of the chariot. They are स्वादुषंसदः (*svāduṣaṃsadaḥ*): they sit amid the sweet food of the enemies, or they cause the enemies' food to perish. They are वयोधा (*vayodhā*), givers of food; कृच्छ्रेश्रित (*kṛcchreśrita*), those who give refuge in distress; शक्तीवंतः (*śaktīvaṃtaḥ*), having the śakti, a particular weapon, that is, spear in hand; or else śakti is strength, and they possess it. They are गभीरा (*gabhīrā*), unassailable; चित्रसेना (*citrasenā*), having a beautiful army; इषुबला (*iṣubalā*), having arrows as their strength; अमृध्रा (*amṛdhrā*), incapable of being injured; सतोवीराः (*satovīrāḥ*), having attained valour. And so Yāska says that तिरः (*tiraḥ*) and सतः (*sataḥ*) are used of what has been attained: तिरः (*tiraḥ*) is "crossed over", and सतः (*sataḥ*) is "refined" (Ni. 3-20). They are उरवो (*uravo*), great, and व्रातसाहाः (*vrātasāhāḥ*), they overcome multitudes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितरः (*pitaraḥ*)—the guardians of this chariot
+- स्वादुषंसदः (*svāduṣaṃsadaḥ*)—seizing the enemies' food and keeping it in their own possession
+- वयोधाः (*vayodhāḥ*)—givers of food to all of us
+- कृच्छ्रेश्रितः (*kṛcchreśritaḥ*)—givers of refuge in time of calamity
+- शक्तिवंतः (*śaktivaṃtaḥ*)—bearers of powerful weapons
+- गभीराः (*gabhīrāḥ*)—firm of mind
+- चित्रसेनाः (*citrasenāḥ*)—having an attractive army
+- इषुबलाः (*iṣubalāḥ*)—having strength in the form of arrows
+- अमृध्राः (*amṛdhrāḥ*)—unhurt
+- सतोवीराः (*satovīrāḥ*)—possessed of the wealth of valour
+- उरवः (*uravaḥ*)—having broad bodies
+- व्रातसाहाः (*vrātasāhāḥ*)—defeaters of the entire host of enemies
+
+##### भावार्थ (Bhāvārtha)
+
+The guardians of this chariot are those who seize the enemies' food and keep it in their possession, givers of food to all of us, givers of refuge in time of calamity, bearers of powerful weapons, firm of mind, having an attractive army, having strength in the form of arrows, unhurt, possessed of the wealth of valour, having broad bodies, and defeaters of the entire host of enemies.
+
+##### English translation
+The guards (of chariot), revelling in the savoury (spoil), distributors of food, protectors in calamity, armed with spears, resolute, beautifully
+
+### Printed p. 576
+
+arranged, strong in arrows, invincible, of heroic valour, robust, and conquerors of numerous hosts.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is a description of the ratha-gopas, that is, those who look after a chariot properly and protect it so that no harm may touch it (Guards).
+
+In the earlier age, when two armies fought, it was the custom for the leaders in each army, and on many occasions even the kings of the respective countries, to fight seated in chariots. Ordinary warriors did not fight seated in chariots. Only famous men, the atirathas, mahārathas, army commanders, kings, great kings and emperors, fought seated in chariots. Therefore, for protecting the kings or the chariots in which they sat, only excellent warriors, equipped with weapons, skilled in the work of war and valiant, were appointed to this duty. Hence these chariot-guards were the bodyguards of kings (Body-Guards). To protect the king from danger to life in battle was their chief duty. For the life or death of the kings who took part in battle was the chief cause of victory or defeat in the battle. Therefore one can easily imagine how important the discharge of the duties of these chariot-guards was. These chariot-protectors too, fighting the enemies on the battlefield, seize the food and the like that the enemies have and bring it under their control. Therefore they provide the enemies' food (provisions) to their own side. Even while a terrible battle is going on, they are not in the least afraid, but with a grave bearing and a resolute mind they display their strength and capacity. Besides special army support to help them, they also have the aid of the weapons they carry, such as bow and arrow. Enemy warriors cannot harm these warriors equipped with such weapons. The main purport of this Ṛk is that they are men of great strength and valour.
+
+सतोवीराः-प्राप्तवीर्याः (*satovīrāḥ-prāptavīryāḥ*)—those who have obtained valour, or strength and capacity.
+
+To support the meaning "obtained" (prāpta) for the word सतः (*sataḥ*), the commentator has given Yāska's explanation: तिरः सत इति प्राप्तस्य । तिरस्तीर्णं भवति । सतः संस्कृतं भवति । तिरश्चिदर्यया परिवर्तियोत्तमदाभ्या । पात्रेव भिंदन् सत एति रक्षसः । इत्यपि निगमौ भवतः॥ (*tiraḥ sata iti prāptasya | tirastīrṇaṃ bhavati | sataḥ saṃskṛtaṃ bhavati | tiraścidaryayā parivartiyottamadābhyā | pātreva bhiṃdan sata eti rakṣasaḥ | ityapi nigamau bhavataḥ‖*) (Ni. 3-20). The two words तिरः सतः (*tiraḥ sataḥ*) are synonyms indicating one and the same meaning. For this the meaning is "prāpta", that is, obtained, attained. For the word तिरः (*tiraḥ*) the meaning of तीर्णं (*tīrṇaṃ*) is "crossed over";
+
 ---
 
-**Progress note:** Done through printed p. 570. Sūkta 75 Ṛk 4 end, Ṛk 5, Ṛk 6 up to Bhāvārtha
+**Progress note:** Done through printed p. 576. Sūkta 75 Ṛk 6 end, Ṛk 7-9 (horses, chariot, chariot-guards), pp. 571-576
