@@ -32783,6 +32783,308 @@ May that most adorable Agni, the bearer of oblations, accept our offering, grati
 > नि । त्वा । नक्ष्य । विश्वते । द्युमंतं । देव । धीमहि ।  
 > सुखीरों । अग्ने । आहुत ॥ ७ ॥
 
+### Printed p. 770
+
+> नक्ष्योपगंतव्य । नक्षतिव्याप्ति कर्मा । विश्वते विशां पते देव द्योशमानाहुत सर्वैर्यजमानैरभिहुत हे अग्ने द्युमंतं दीप्तिमंतं सुवीरं कल्याणस्तोतृकं त्वा त्वां वयं नि धीमहि । निहितवंतः ॥
+
+##### Gist of the bhāṣya
+
+"Nakṣya" means "to be approached"; the root "nakṣ" is in the sense of pervading. "Viśvate" is "lord of the people", "deva" is "shining", "āhuta" is "offered to by all the sacrificers". O Agni, we place you, the radiant one, possessed of good heroes, that is, having good praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नक्ष्य (*nakṣya*)—one who can be approached easily
+- विश्वते (*viśvate*)—the protector of the people
+- देव (*deva*)—the shining one
+- आहुत (*āhuta*)—one to whom all offer oblations
+- अग्ने (*agne*)—O Agni
+- द्युमंतं (*dyumaṃtaṃ*)—the radiant one
+- सुवीरं (*suvīraṃ*)—the auspicious and praiseworthy one
+- त्वा (*tvā*)—you
+- निधीमहि (*nidhīmahi*)—we establish on the northern altar
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are easily approached, the protector of the people, the shining one, to whom all offer oblations, the radiant, auspicious and praiseworthy one, we establish you on the northern altar.
+
+##### English translation
+Divine Agni, the approachable: the lord of men, the invoked of
+all, we set you down (upon the altar), the resplendent, the righteously
+glorified.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्षप॑ उ॒स्रश्च॑ दीदिहि स्व॒ग्नय॒स्त्वया॑ व॒यं ।  
+> सु॒वीर॒स्त्वम॑स्म॒युः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षपः । उस्रः । च । दीद्रिहि । सुअग्नयः । त्वया । वयं ।  
+> सुवीरः । त्वं । अस्मयुः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं क्षपो रात्रीरुस्रोऽहानि च । सर्वदेति यावत् । दीदिहि । दीप्यस्व ।
+> दीप्यमानेन त्वया वयं वसिष्ठाः स्वग्नयः शोभमानाग्नयो भवाम । अस्मयुर-
+
+##### Gist of the bhāṣya
+
+O Agni, shine through the nights and the days, that is, always. With you shining, may we, the Vasiṣṭhas, become possessed of good fires, that is, of splendid fires. "Asmayu" means one who desires us.
+
+### Printed p. 771
+
+> स्मान् कामयमानः सुप आत्मनः क्यजिति क्यचि कृते क्याच्छंदसीत्युप्रत्ययः । दकारलोपश्कांदसः ॥ तथा च यास्कः । अस्मयुरस्मान् कामयमानः । नि. ६-२१ । इति ॥
+> तं सुवीरः सुस्तोतृको भव ॥
+
+##### Gist of the bhāṣya
+
+"Asmayu" is formed from "asmān", "us", with the affix for desiring one's own wish, and the Vedic affix "u" after it, with loss of a letter in the Veda. Yāska says likewise: "Asmayu: one who desires us" (Ni. 6-21). You, then, be one who has good praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्षपः (*kṣapaḥ*)—the nights
+- उस्रः च (*usraḥ ca*)—and the days
+- दीदिहि (*dīdihi*)—make shine
+- त्वया (*tvayā*)—with your help
+- वयं (*vayaṃ*)—we, of the family of Vasiṣṭha
+- स्वग्नयः (*svagnayaḥ*)—may we become good worshippers of Agni
+- अस्मयुः (*asmayuḥ*)—desiring us
+- त्वं (*tvaṃ*)—you
+- सुवीरः (*suvīraḥ*)—become one who has good praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, make the nights and the days shine. With your help may we, of the family of Vasiṣṭha, become good worshippers of Agni. You, who desire us, become one who has good praises.
+
+##### English translation
+Blaze, Agni, night and day, that by you we may be possessed of sacred fires : may you, friendly to us, be righteously praised.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ त्वा सा॒तये॒ नरो॒ विप्रा॑सो यंति धी॒तिभिः॑ ।  
+> उपाक्ष॑रा सह॒स्रिणी॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । त्वा । सातये । नरः । विप्रासः । यंति । धीतिभिः ।  
+> उप । अक्षरा । सहस्रिणे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वा त्वां नरो नेतारो यजमाना विप्रासो विप्रा मेधाविनो
+> धीतिभिः कर्मभिः सातये धनाय कामानां लाभाय वोप यंति । उपगच्छंति ।
+> सहस्रिणे सहस्रसंख्याकाक्षरा क्षयरहिता स्तुतिरूपास्मदीया वाक् त्वामुप
+> याति च ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the leaders, the sacrificers, the wise ones, approach you with their rites for wealth, that is, for the gain of their desires. Our speech, in the form of praise, thousandfold and imperishable, also goes to you.
+
+### Printed p. 772
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you
+- नरः (*naraḥ*)—the sacrificers
+- विप्रासः (*viprāsaḥ*)—the wise ones also
+- धीतिभिः (*dhītibhiḥ*)—with rites
+- सातये (*sātaye*)—for the gain of wealth
+- उप यंति (*upa yaṃti*)—approach
+- सहस्रिणी (*sahasriṇī*)—thousandfold
+- अक्षरा (*akṣarā*)—imperishable
+- उप (*upa*)—approach (the praises)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers and the wise ones approach you with rites for the gain of wealth. Praises, thousandfold and imperishable, also approach you.
+
+##### English translation
+Wise men approach you with sacred rites for the acquirement of
+riches : perpetual, infinite (praise is addressed to you).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्नी रक्षां॑सि सेधति शु॒क्रशो॑चि॒रम॑र्त्यः ।  
+> शुचिः॑ पाव॒क ईड्यः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । रक्षांसि । सेधति । शुक्रशोचिः । अमर्त्यः ।  
+> शुचिः । पावकः । ईड्यः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुक्रशोचिः शुभ्रज्वालोऽमर्त्यो मरणरहितो देवतात्मा शुचिः स्वयं
+> शुद्धः पावकोऽन्येषामपि शोधक ईड्यः स्तुत्योऽग्नी रक्षांसि राक्षसान् सेधति ।
+> बाधतां ॥
+
+##### Gist of the bhāṣya
+
+Agni, of bright flame, immortal, that is, free from death and of divine nature, pure in himself, the purifier of others too, and adorable, that is, worthy of praise, let him drive away the Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुक्रशोचिः (*śukraśociḥ*)—one with bright flame
+- अमर्त्यः (*amartyaḥ*)—free from death
+- शुचिः (*śuciḥ*)—pure
+- पावकः (*pāvakaḥ*)—the purifier
+- ईड्यः (*īḍyaḥ*)—worthy of praise
+- अग्निः (*agniḥ*)—Agni
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- सेधति (*sedhati*)—let him destroy
+
+### Printed p. 773
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, of bright flame, free from death, pure, the purifier, worthy of praise, destroy the Rākṣasas.
+
+##### English translation
+May the bright, radiant, immortal, pure, purifying, adorable Agni,
+keep off the Rakshasas.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ राधां॒स्या भ॒रेशा॑नः सहसो यहो ।  
+> भग॑श्च दातु॒ वार्यं॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । राधांसि । आ । भर । ईशानः । सहसः । यहो इति ।  
+> भगः । च । दातु । वार्यं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसो यहो बलस्य पुत्राग्ने स प्रसिद्धस्त्वमीशान॥ सर्वस्य जगत ईश्वरः
+> सन् नोऽस्मभ्यं राधांसि धनानि । रायो राध इति धननामसु पाठात् । आ भर ।
+> आहर । भगश्च भगो देवोऽपि वार्यं धनं दातु । अस्मभ्यं ददातु ॥ अभ्यासलोपश्कांदसः ॥ भगोऽत्र सूक्ते निपातभागिनी देवता ॥
+
+##### Gist of the bhāṣya
+
+O son of strength, Agni, you, the well-known one, being lord of the whole world, bring us riches ("rādhas" are riches, since "rāyaḥ", "rādhaḥ" are read among the names of wealth). May the god Bhaga also give us desirable wealth. In this sūkta Bhaga is a deity who shares in the nipāta.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसो यहो (*sahaso yaho*)—O Agni, son of strength
+- सः (*saḥ*)—you, the well-known one
+- ईशानः (*īśānaḥ*)—being the lord of the whole world
+- नः (*naḥ*)—to us
+- राधांसि (*rādhāṃsi*)—riches
+- आ भर (*ā bhara*)—bring
+- भगच्च (*bhagacca*)—and the god called Bhaga
+- वार्यं (*vāryaṃ*)—the desired wealth
+- दातु (*dātu*)—may he give us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, you, the well-known one, being lord of the whole world, bring riches in order to give them to us. May the god called Bhaga also give us the desired wealth.
+
+### Printed p. 774
+
+##### English translation
+Son of strength, you are the lord (of all) ; bestow riches upon us : and may Bhaga give us wealth.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने वी॒रव॒द्यशो॑ दे॒वश्च॑ सवि॒ता भगः॑ ।  
+> दिति॑श्च दाति॒ वार्यं॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । वीरवत् । यशः । देवः । च । सविता । भगः ।  
+> दितिः । च । दाति । वार्य० ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं वीरवत्पुत्रपौत्रोपेतं यशोऽन्नं देहीति शेषः । देवश्च
+> सविता सविता देवोऽपि वार्यं वरणीयं धनं दाति । ददातु । भगश्च देवोऽपि
+> ददातु । दितिश्च दितिरपि देवी ददातु । सवित्रादिः सूक्ते निपातभागिनी देवता ॥
+
+##### Gist of the bhāṣya
+
+O Agni, give food together with heroic offspring, sons and grandsons. May the god Savitṛ also give choice wealth; may the god Bhaga also give; may the goddess Diti also give. Savitṛ and the others are deities who share in the nipāta in this sūkta.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- वीरवत् (*vīravat*)—together with heroic sons and others
+- यशः (*yaśaḥ*)—food (give)
+- देवश्च (*devaśca*)—the divine
+- सविता (*savitā*)—Savitṛ also
+- वार्यं (*vāryaṃ*)—the desired wealth
+- दाति (*dāti*)—may he give
+- भगः (*bhagaḥ*)—may the god Bhaga also give
+- दितिश्च (*ditiśca*)—may the goddess Diti also give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, give food together with heroic sons and others. May Savitṛ, of divine nature, also give the desired wealth. May the god Bhaga and Aditi also give it in plenty.**NOTE**
+
+##### English translation
+Agni, give us food along with male issue, and may the divine
+Savitri, Bhaga aud Diti, give us wealth
+
+### Printed p. 775
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ रक्षा॑ णो॒ अंह॑सः॒ प्रति॑ ष्म देव॒ रीष॑तः ।  
+> तपि॑ष्ठैर॒जरो॑ दह ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । रक्ष । नः । अंहसः । प्रति । स्म । देव । रिषतः ।  
+> तपिष्ठैः । अजरः । दह ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं नोऽस्मानंहसः पापाद्रक्ष । पाहि ॥ संहितायां दीर्घश्चांदसः॥
+> अपि च हे देव द्योतमानाग्ने अजरो जरारहितस्त्वं रिषतो हिंसतः शत्रून्
+> तपिष्ठैरतिशयेन तापकैस्तेजोभिर्दह । भस्मीकुरु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect us from sin ("rakṣa" for "rakṣa", with lengthening in the Veda). And, O shining Agni, you who are free from age, burn with your most heating fires the enemies who injure us; reduce them to ashes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—us
+- अंहसः (*aṃhasaḥ*)—from sin
+- रक्ष (*rakṣa*)—protect
+- देव (*deva*)—O shining Agni
+- अजरः (*ajaraḥ*)—you who are free from decay
+- रिषतः (*riṣataḥ*)—the enemies who injure us
+- तपिष्ठैः (*tapiṣṭhaiḥ*)—with your burning fires
+- दह (*daha*)—reduce to ashes
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us from sin. O shining Agni, you who are free from decay, reduce to ashes, with your fires that burn them, the enemies who injure us.
+
+##### English translation
+Preserve us, Agni, from sin: divine (Agni), you are exempt from decay; consume (our) foes with (your) hottest flames.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑ म॒ही न॒ आय॒स्यना॑धृष्टो॒ नृपी॑तये ।  
+> पूर्भ॑वा श॒तभु॑जिः ॥ १४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 769. Sūkta 15 Ṛk 1-7 (Sāyaṇa up to Ṛk 6), pp. 764-769
+**Progress note:** Done through printed p. 775. Vol 21 Ṛk 7 end to Ṛk 14 Saṃhitā, pp. 770-775
