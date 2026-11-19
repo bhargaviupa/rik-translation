@@ -32219,6 +32219,288 @@ Offer praise and worship to Agni, the enlightener of all, the accepter of pious 
 > त्वं । अग्ने । शोचिषा । शोशुचानः । आ । रोदसी इति । अपृणाः । जायमानः ।  
 > त्वं । देवान् । अभिशस्तेः । अमुंचः । वैश्वानर । जातवेदः । महित्वा ॥ २ ॥
 
+### Printed p. 758
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं शोचिषा दीप्त्या शोशुचानो दीप्यमानो जायमानो
+> जायमान एव रोदसी द्यावापृथिव्यावापृणाः । आपूरयः । आपि च जातवेदो
+> जातप्रज्ञ जातधन वा वैश्वानर विश्वनरहित हे अग्ने त्वं देवान्महित्वा महत्वेनाभिशस्तेरभिशंसकाच्छत्रोरमुंचः । अमोचयः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you, shining with radiance, as soon as you were born filled heaven and earth. And, O Jātaveda, possessed of wisdom or possessed of wealth, O Vaiśvānara, benefactor of all men, O Agni, you by your greatness freed the gods from the abhiśasti, the enemy who speaks ill of them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- शोचिषा (*śociṣā*)—with radiance
+- शोशुचानः (*śośucānaḥ*)—shining
+- जायमानः (*jāyamānaḥ*)—as soon as you were born
+- रोदसी (*rodasī*)—heaven and earth
+- आपृणाः (*āpṛṇāḥ*)—you have filled with radiance
+- जातवेदः (*jātavedaḥ*)—possessed of wisdom
+- पैश्वानर (*paiśvānara*)—O Vaiśvānara Agni
+- त्वं (*tvaṃ*)—you
+- देवान् (*devān*)—the gods
+- महित्वा (*mahitvā*)—by your greatness
+- अभिशस्तेः (*abhiśasteḥ*)—from the enemy who wishes harm
+- अमुंचः (*amuṃcaḥ*)—you freed
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, shining with radiance, as soon as you were born you filled heaven and earth with your radiance. O Vaiśvānara Agni, possessed of wisdom, you by your greatness freed the gods from the enemy who wishes harm.
+
+##### English translation
+You, Agni, radiant with lustre, fill the heaven and earth (with light) as soon as born : you, Vaishwanara, from whom wealth proceeds, have by your might liberated the gods from malevolent (foes).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जा॒तो यद॑ग्ने॒ भुव॑ना॒ व्यख्यः॑ प॒शून्न गो॒पा इर्यः॒  ॑
+> परिज्मा ।  
+> वैश्वा॑नर॒ ब्रह्म॑णे विंद गा॒तुं यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जातः । यत् । अग्ने । भुवना । वि । अख्यः । पशून् । न । गोपाः । इर्यः । परिज्मा ।  
+> वैश्वानर । ब्रह्मणे । विंद । गातुं । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ३ ॥
+
+### Printed p. 759
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जातः सूर्यात्मना जातस्त्वमिर्यः स्वामी प्रेरयन्वा परिज्जा
+> परितो गंता सन् पशून्न गोपाः । यथा गवां पालकः पशून्पश्यति तद्वत् । यद्यदा
+> भुवना भूतानि व्यख्यः रक्षार्थं पश्यसि तदा ब्रह्मणे । ब्रह्म स्तोत्रं । तदर्थं गातुं
+> गतिं फलप्राप्तिं विंद ! यद्वा । ब्रह्मणे ब्राह्मणार्थं गातुं विंद । येन ब्रह्मणोपद्रवान्निर्गच्छंति तं गातुं विंदेत्यर्थः । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who have been born in the form of the sun, being the lord, or the one who impels, and going all around, as a herdsman watches his cattle, when you survey the beings for their protection, then find for the brahman, that is, for praise, a way, that is, the attainment of its fruit. Or else: find for the brahmin a way by which brahmins go out from troubles. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैश्वानर (*vaiśvānara*)—in the form of Vaiśvānara
+- अग्ने (*agne*)—O Agni
+- जातः (*jātaḥ*)—you who were born in the form of the sun
+- इर्यः (*iryaḥ*)—impelling everything
+- परिज्मा (*parijmā*)—going around the whole world
+- गोपाः (*gopāḥ*)—herdsmen
+- पशून् न (*paśūn na*)—as they carefully look after cattle
+- यत् (*yat*)—when
+- भुवना (*bhuvanā*)—all beings
+- व्यख्यः (*vyakhyaḥ*)—you look at closely
+- ब्रह्मणे (*brahmaṇe*)—for praise
+- गातुं (*gātuṃ*)—the attainment of the fruit
+- विंद (*viṃda*)—bring about
+- यूयं (*yūyaṃ*)—all of you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni in the form of Vaiśvānara, you who were born in the form of the sun, impelling everything and going around the whole world, when you look closely at all beings, as herdsmen carefully look after cattle, then bring about the attainment of the fruit for the praises that we make. May all of you always protect us with blessings.
+
+##### English translation
+When you are born, Agni, the lord, the circumambient, you watch over all creatues as a herdsman over his cattle : be willing, Vaishwanara, to requite our praise, and cherish us ever with blessings.
+
+## Sūkta 14 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिधा जातवेदस इति तृचं चतुर्दशं सूक्तं वसिष्ठस्यार्षमाग्नेयं !
+> आद्या बृहती द्वितीयातृतीये त्रिष्टुभौ । तथा चानुक्रम्यते । समिधा बृहत्यादीति ॥
+> विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The fourteenth sūkta, beginning समिधा जातवेदसे (*samidhā jātavedase*), of three ṛks, is the vision of Vasiṣṭha, addressed to Agni. The first is in Bṛhatī, the second and third in Triṣṭubh. The Anukramaṇikā says: समिधा बृहत्यादि (*samidhā bṛhatyādi*). The application is by indication.
+
+### Printed p. 760
+
+##### Anuvāda
+
+This sūkta, समिधा जातवेदसे (*samidhā jātavedase*), is the fourteenth sūkta in the first anuvāka. In it there are three ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity. The first ṛk of this sūkta is in the Bṛhatī metre; the second and third ṛks are in the Triṣṭup metre. In the Anukramaṇikā it is said: समिधा बृहत्यादि (*samidhā bṛhatyādi*). The application is by indication.
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 14
+- Aṣṭaka 5; Adhyāya 2; Varga 17
+- Number of ṛks in the sūkta: 3
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: 1. बृहती (*bṛhatī*); 2-3. त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मिधा॑ जा॒तवे॑दसे दे॒वाय॑ दे॒वहू॑तिभिः ।  
+> ह॒विर्भिः॑ शु॒क्रशो॑चिषे नम॒स्विनो॑ व॒यं दा॑शेमा॒ग्नये॑ ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइधा । जातवेदसे । देवाय । देवहूतिभिः ।  
+> हविभिः । शुक्रशोचिषे । नमस्विनः । वयं । दाशेम । अग्नये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदसे जातवेदसं जातप्रज्ञमग्नयेऽग्निं समिधा वयं वसिष्ठा
+> दाशेम । परिचरेम । देवाय देवं स्तुत्यमग्निं देवहूतिभिर्देवस्तुतिभिर्दाशेम ।
+> शुक्रशोचिषे शुक्रशोचिषं शुभ्रदीप्तिं नमस्विनो हविष्मंतो वयं हविर्भिर्दाशेम ॥ अत्र दाशतियोगात्कर्मणि चतुर्थी । प्रायेण सर्वत्र दाशतियोगे कर्मणि
+> चतुर्थी दृश्यते ॥
+
+##### Gist of the bhāṣya
+
+We Vasiṣṭhas would serve Agni, Jātavedas, the one of born wisdom, with fuel. We would serve the god, the praiseworthy Agni, with praises of the gods. We, possessed of reverence and of oblations, would serve Agni of pure and bright flame with oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाय (*devāya*)—the one who is divine in nature
+- जातवेदसे (*jātavedase*)—who has the form of Jātavedas
+- अग्नये (*agnaye*)—to Agni
+- वयं (*vayaṃ*)—we
+- देवहूतिभिः (*devahūtibhiḥ*)—together with divine invocatory praises
+- दाशेम (*dāśema*)—may we offer the oblation
+- शुक्रशोजिषे (*śukraśojiṣe*)—to Agni who shines with radiance
+- नमस्विनः (*namasvinaḥ*)—we who possess oblations
+- हविर्भिः (*havirbhiḥ*)—may we offer praise together with oblations
+
+### Printed p. 761
+
+##### भावार्थ (Bhāvārtha)
+
+To Agni, who is divine in nature and has the form of Jātavedas, may we, together with divine invocatory praises, offer the oblation. To Agni who shines with radiance, we who possess oblations may offer praise together with oblations.
+
+##### English translation
+Let us, laden with oblations, offer worship with fuel and invocations of the gods to the divine Jatavedas, to the purely lustrous Agni.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं ते॑ अग्ने स॒मिधा॑ विधेम व॒यं दा॑शेम सुष्टु॒ती  ॑
+> यजत्र ।  
+> व॒यं घृ॒तेना॑ध्वरस्य होतर्व॒यं दे॑व ह॒विषा॑ भद्रशोचे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ते । अग्ने । संइधा । विधेम । वयं । दाशेम । सुस्तुती । यजत्र ।  
+> वयं । धृतेन । अध्वरस्य । होतः । वयं । देव । हविषा । भद्रशोचे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते त्वां वयं वसिष्ठाः समिधा विधेम । परिचरेम । हे यजत्र
+> यष्टव्याग्ने वयं सुष्टुती शोभनया स्तुत्या दाशेम । त्वां परिचरेम । अध्वरस्य
+> यज्ञस्य होतरग्ने वयं धृतेनाज्येन त्वां दाशेम । हे भद्रशोचे कल्याणज्वालदेव द्योतमानाग्ने त्वां वयं हविषा दाशेम ॥
+
+##### Gist of the bhāṣya
+
+O Agni, we Vasiṣṭhas would serve you with fuel. O adorable Agni, we would serve you with good praise. O Agni, hotṛ of the sacrifice, we would serve you with ghee. O Agni of auspicious flame, O shining god, we would serve you with oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—you
+- वयं (*vayaṃ*)—we, of the family of Vasiṣṭha
+- समिधा (*samidhā*)—with fuel
+- विधेम (*vidhema*)—we serve
+- यष्टव्य (*yaṣṭavya*)—O Agni, worthy of worship
+- वयं (*vayaṃ*)—we
+- सुष्टुती (*suṣṭutī*)—with excellent praises
+- दाशेम (*dāśema*)—we serve
+- अध्वरस्य (*adhvarasya*)—for the sacrifice
+- होतः (*hotaḥ*)—O Agni, in the form of the hotṛ
+- वयं (*vayaṃ*)—we
+### Printed p. 762
+- धृतेन (*dhṛtena*)—with ghee (we worship you)
+- भद्रशोच (*bhadraśoca*)—who have auspicious radiance
+- देव (*deva*)—and are divine in nature, O Agni
+- वयं (*vayaṃ*)—we
+- हविषा (*haviṣā*)—with oblation (we worship you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we of the family of Vasiṣṭha serve you with fuel. O Agni, worthy of worship, we serve you with excellent praises. O Agni, in the form of the hotṛ for the sacrifice, we worship you with ghee. O Agni, who have auspicious radiance and are divine in nature, we worship you also with oblation.
+
+##### English translation
+May we perform your rites, Agni, with fuel : may we offer you, adorable Agni, pious praises : may we (gratify you), ministrant of sacrifice, with clarified butter ; divine Agni, of auspicious lustre, may we (worship you) with oblations.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ दे॒वेभि॒रुप॑ दे॒वहू॑ति॒मग्ने॑ या॒हि वष॑ट्कृतिं जुषा॒णः ।  
+> तुभ्यं॑ दे॒वाय॒ दाश॑तः स्याम यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । देवेभिः । उप । देवहूतिं । अग्ने । याहि । वषट्कृतिं । जुषाणः ।  
+> तुभ्यं । देवाय । दाशतः । स्याम । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्माकं देवहूतिं स्तोत्रं यज्ञं वा देवेभिर्देवैः सार्थं
+> वषट्कृतिं हविर्जुषाणः सेवमानस्यमुपा याहि ! देवाय द्योतमानाय
+> तुभ्यं वयं दाशतः परिचरंतः स्याम ! भवेम ! सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, come to our devahūti, our praise or sacrifice, together with the gods, taking delight in the oblation offered with the vaṣaṭ-call**NOTE**. May we be your servers, serving you, the shining god. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- देवेभिः (*devebhiḥ*)—together with the gods
+- वषट् कृतिं (*vaṣaṭ kṛtiṃ*)—the oblation offered with the vaṣaṭ-call
+- जुषाणः (*juṣāṇaḥ*)—partaking of
+- नः (*naḥ*)—our
+- देवहूतिं (*devahūtiṃ*)—
+### Printed p. 763
+ to the sacrifice that has praise of the gods
+- उप आ याहि (*upa ā yāhi*)—be pleased to come
+- देवाय (*devāya*)—who are divine in nature
+- तुभ्यं (*tubhyaṃ*)—to you
+- दाशतः स्याम (*dāśataḥ syāma*)—we are the offerers of oblation
+- यूयं (*yūyaṃ*)—all of you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, together with the gods, and partaking of the oblation offered with the vaṣaṭ-call, be pleased to come to our sacrifice that has praise of the gods. To you who are divine in nature we are the offerers of oblation. May all of you always protect us with blessings.
+
+##### English translation
+Come to our sacrifice. Agni, with the gods, propitiated by the sanctified oblations : may we be the offerers (of worship) to you who are divine, and ever cherish us with blessings.
+
+## Sūkta 15 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उपसद्यायेति पंचदशर्चं पंचदशं सूक्तं वसिष्ठस्यार्षं गायत्रमाग्नेयं । तथा चानुक्रांतं । उपसद्याय पंचोना गायत्रमिति ॥ प्रातरनुवाक
+> आग्नेये क्रत्वा गायत्रे छंदस्याश्विनशस्त्रे चेदं सूक्तं । सूत्रितं च । उपसद्याय
+> त्वमग्ने यज्ञानामिति तिस्र उत्तमा उद्धरेत् । आ. ४-१३ । इति ॥ उपसदि पौर्वाहिक्यामुपसद्यायेत्याद्यास्ति सृ ऋचः सामिधेन्यः । सूत्र्यते च । उपसद्याय
+> माळ्हुष इति तिस्र एकैकां त्रिरनवानं । आ. ४-८ । इति ॥ पवित्रेष्ट्यामग्नी रक्षांसीत्येषा प्रथमाज्यभागानुवाक्या । सूत्रितं च । पावकवंतावाज्यभागावग्नी रक्षांसि
+> सेधति । आ. २-१२ । इति ॥ अन्वारंभणीयायामग्नेर्भगिनो याज्या । सूत्रितं च ।
+> आ सवं सवितुर्यथा स नो राधांस्या भर । आ. २-८ । इति.॥ स्वस्त्ययन्यामिष्टावग्ने
+> रक्षाण इति प्रथमाज्यभागानुवाक्या । सूत्रितं च । स्वस्त्ययन्यां रक्षितवंतावग्ने रक्षाणो अ०हसः । आ. २-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The fifteenth sūkta, beginning उपसद्याय (*upasadyāya*), of fifteen ṛks, is the vision of Vasiṣṭha, in the Gāyatra metre, addressed to Agni. The Anukramaṇikā says: उपसद्याय पंचोना गायत्रं (*upasadyāya paṃconā gāyatraṃ*). This sūkta is used at the Prātaranuvāka, in the Āgneya kratu, in the Gāyatra metre, and in the Āśvina-śastra. It is prescribed in the sūtra: उपसद्याय त्वमग्ने यज्ञानामिति तिस्र उत्तमा उद्धरेत् (*upasadyāya tvamagne yajñānāmiti tisra uttamā uddharet*) (Ā. 4-13). At the Upasad, in the forenoon, the three ṛks beginning उपसद्याय (*upasadyāya*) are the sāmidhenī verses. It is prescribed in the sūtra: उपसद्याय माळ्हुष इति तिस्र एकैकां त्रिरनवानं । (*upasadyāya māḷhuṣa iti tisra ekaikāṃ triranavānaṃ |*) (Ā. 4-8). At the Pavitreṣṭi, the ṛk पवित्रेष्ट्यामग्नी रक्षांसीत्येषा (*pavitreṣṭyāmagnī rakṣāṃsītyeṣā*) is the first ājyabhāga anuvākyā. It is prescribed in the sūtra: पावकवंतावाज्यभागावग्नी रक्षांसि सेधति (*pāvakavaṃtāvājyabhāgāvagnī rakṣāṃsi sedhati*) (Ā. 2-12). At the Anvārambhaṇīyā, अन्वारंभणीयायामग्नेर्भगिनो याज्या (*anvāraṃbhaṇīyāyāmagnerbhagino yājyā*) is the yājyā. It is prescribed in the sūtra: आ सवं सवितुर्यथा स नो राधांस्या भर (*ā savaṃ savituryathā sa no rādhāṃsyā bhara*) (Ā. 2-8). At the Svastyayanī iṣṭi, स्वस्त्ययन्यामिष्टावग्ने रक्षाण इति (*svastyayanyāmiṣṭāvagne rakṣāṇa iti*) is the first ājyabhāga anuvākyā. It is prescribed in the sūtra: स्वस्त्ययन्यां रक्षितवंतावग्ने रक्षाणो अ०हसः (*svastyayanyāṃ rakṣitavaṃtāvagne rakṣāṇo a0hasaḥ*) (Ā. 2-10).
+
+##### Anuvāda
+
+This sūkta, उपसद्याय (*upasadyāya*), is the fifteenth sūkta in the first anuvāka. In it there are fifteen ṛks. For this sūkta Vasiṣṭha is the ṛṣi; Agni is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: उपसद्याय पंचोना गायत्रं (*upasadyāya paṃconā gāyatraṃ*).
+
 ---
 
-**Progress note:** Done through printed p. 757. Sūkta 12 (Ṛk 1-3) and Sūkta 13 Ṛk 1-2 start, pp. 752-757
+**Progress note:** Done through printed p. 763. Sūkta 13 Ṛk 2-3, Sūkta 14, Sūkta 15 start, pp. 758-763
