@@ -29831,6 +29831,261 @@ May the cows come to our house. And may they do what is auspicious, welcome and 
 - प्रजावतीः (*prajāvatīḥ*)—with good calves
 - पूर्विः (*pūrviḥ*)—many
 
+### Printed p. 835
+
+- the cows, great in number
+- इंद्राय (*iṃdrāya*)—for the sake of Indra
+- उपसः (*upasaḥ*)—at the times of dawn
+- दुहानाः (*duhānāḥ*)—milking
+- स्युः (*syuḥ*)—may they be
+
+##### भावार्थ (Bhāvārtha)
+
+May the cows come to us and fill our place. May they bring us welfare. May they come and lie down in our cowshed. May they show affection among us and make us happy. May the cows of various colours, with good calves and great in number, yield milk for the sake of Indra at the times of dawn.
+
+##### English translation
+May the cows come and bring good fortune: let them lie down in (our) stalls and be pleased with us: may the many-coloured cows here be prolific, and yield milk for Indra on many dawns.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the following Ṛks the explanation of the meaning is very easy and clear, so that no special explanation is necessary.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॒ यज्व॑ने पृण॒ते च॑ शिक्ष॒त्युपेद्द॑दाति॒ न स्वं मु॑षायति ।  
+> भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॒न्नभि॑न्ने खि॒ल्ये नि द॑धाति  ॒
+> देवयुं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । यज्वने । पृणते । च । शिक्षति । उप । इत् । ददाति । न । स्वं । मुषायति ।  
+> भूयःऽभूयः । रयिं । इत् । अस्य । वर्धयन् । अभिन्ने । खिल्यॆ । नि । दधाति ।  
+> देवयुं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो यज्वने यजनशीलाय पृणते च स्तुतिभिः प्रीणयित्रे च स्तोत्रे
+> शिक्षति । अपेक्षितं धनं ददाति । न केवलं सकृदेव दानमपि तु सर्वदेत्याह ।
+
+### Printed p. 836
+
+> उपेद्ददाति । उपेत्य सर्वदा ददात्येव । यज्वनः स्तोतुश्च स्वं स्वभूतं धनं न
+> मुषायति । कदाचिदपि नापहरति । अपि चास्योभयविधस्य रयिं धनमात्मना दत्तं
+> भूयो भूयः पुनःपुनर्वर्धयन्नित् वृद्धिं प्रापयन्नेव देवयुं देवमिंद्रमात्मन इच्छंतं तं जनमभिन्ने शत्रुभिरभेद्ये खिल्ये । खिलमप्रतिहतं स्थानं ।
+> तदेव खिल्यं ॥ स्वार्थिको यत् ॥ अन्वैर्गंशुमशक्ये स्थले नि दधाति । निक्षिपति ।
+> निवासयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra gives to the sacrificer, one given to sacrifice, and to the praiser who pleases him with hymns, the wealth they desire. Not only once does he give, but always: approaching, he always gives. He never takes away the own wealth of the sacrificer and of the praiser. Further, increasing again and again the wealth he himself has given to either of these two, bringing it to growth, he places that person who longs for the god Indra in a khilya that cannot be broken by enemies; khila is a place that is not struck down, and khilya is the same. That is, he places him, he settles him, in a place that others cannot attack.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- यज्ञने (*yajñane*)—for one who performs sacrifice
+- पृणते (*pṛṇate*)—for the sacrificer who praises
+- शिक्षति (*śikṣati*)—gives the wealth that is desired
+- उपेत् (*upet*)—approaching him himself
+- ददाति (*dadāti*)—gives
+- स्वं (*svaṃ*)—the wealth he has given
+- न मुषायति (*na muṣāyati*)—does not take away again
+- अस्य (*asya*)—of this sacrificer
+- रयिं (*rayiṃ*)—the wealth
+- भूयोभूयः (*bhūyobhūyaḥ*)—again and again
+- वर्धयन् इत् (*vardhayan it*)—causing it to grow
+- देवयुं (*devayuṃ*)—him who worships the gods
+- अभिन्ने (*abhinne*)—that cannot be broken by enemies
+- खिल्ये (*khilye*)—in a protected region
+- नि दधाति (*ni dadhāti*)—keeps him placed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra gives the wealth that is desired to the sacrificer who performs sacrifice and praises. He himself approaches him and gives. He does not take away again the wealth he has given. Causing the wealth of this sacrificer to grow again and again, he keeps him, the worshipper of the gods, placed in a protected region that enemies cannot enter.
+
+##### English translation
+Indra grants the desires of the man who offers to him sacrifice and praise; he ever bestows upon him wealth, and deprives him not of that which is his own: again and again increasing his riches, he places the devout man in an inaccessible fortress.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ता न॑शंति॒ न द॑भाति॒ तस्क॑रो॒ नासा॑मामि॒त्रो व्यथि॒रा द॑धर्षति।  
+> दे॒वांश्च॒ याभि॒र्यज॑ते॒ ददा॑ति च॒ ज्योगित्ताभिः॑ सचते॒ गोप॑तिः  ॒
+> सह ॥ ३ ॥
+
+### Printed p. 837
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ताः । नशंति । न । दभाति । तस्करः । न । आसां । आमित्रः । व्यथिः । आ । दधर्षति ।  
+> देवान् । च । याभिः । यजते । ददाति । च । ज्योक् । इत् । ताभिः । सचते । गोऽपतिः । सह ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दैवीनां हविषु न ता नशंति न ता अर्वॆति गोदेवताया याज्यापुरोनुवाक्ये । आ. ६-१४ ॥ गोस्तोमेऽपि मरुत्वतीयनिष्केवल्ययोरेते सूक्तमुखीये । सूत्रितं च । न ता आर्वा रेणुककाटो अश्नुते न ता नशंति न दभाति तस्करः ।
+> आ. ९-५ । इति ॥
+> ता गावो न नशंति । अस्मत्सकाशान्न नश्यंतु । किंच तस्करश्चोरोऽपि न दभाति ।
+> अस्मदीया गा न हिंस्यात् । तथामित्रोऽमित्रस्य शक्रोः संबंधि व्यथिः शस्त्रमासामिमा गा ना दधर्षति । नाक्रमतु । गोपतिरेवंभूतानां गवां स्वामी यजमानो
+> याभिर्गॊभिर्देवांश्चेंद्रादीनुद्दिश्य यजते यजनं करोति । या गा इंद्रार्थं
+> ददाति च प्रयच्छति च ताभिस्तादृशीभिर्गोभिः सह ज्योगित् चिरकालमेव सचते ।
+> संगच्छतां ॥
+
+##### Gist of the bhāṣya
+
+In the offerings to the divine ones, the two Ṛks beginning न ता नशंति (*na tā naśaṃti*) and the following are the yājyā and puronuvākyā of the cow deity, Ā. Sū. 6-14. In the Gostoma also these two stand at the opening of the sūkta in the Marutvatīya and Niṣkevalya. It is also laid down in the sūtra: न ता आर्वा रेणुककाटो अश्नुते न ता नशंति न दभाति तस्करः । (*na tā ārvā reṇukakāṭo aśnute na tā naśaṃti na dabhāti taskaraḥ |*), Ā. Sū. 9-5. Those cows do not perish: may they not be lost from us. Further, a thief, a robber, does not injure: may he not harm our cows. Likewise the weapon of the enemy, that which belongs to a foe, does not assault these cows: may it not attack. The master of such cows, the sacrificer, with the cows by which he performs sacrifice to the gods, Indra and the others, and which he gives for Indra, with such cows may he be united for a long time.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ताः (*tāḥ*)—our cows
+- न नशंति (*na naśaṃti*)—may they not be lost
+- तस्करः (*taskaraḥ*)—the thief
+- न दभाति (*na dabhāti*)—may he not steal
+- आमित्रः (*āmitraḥ*)—that which belongs to an enemy
+- व्यथिः (*vyathiḥ*)—the weapon
+- आसां (*āsāṃ*)—these cows
+- न आ दधर्षति (*na ā dadharṣati*)—may it not attack
+- गोपतिः (*gopatiḥ*)—the sacrificer, the master of these cows
+- याभिः (*yābhiḥ*)—with the help of which cows
+- देवांश्च (*devāṃśca*)—with Indra and the other deities in view
+- यजते (*yajate*)—he performs sacrifice
+- ददाति च (*dadāti ca*)—and offers the oblation
+- ताभिः सह (*tābhiḥ saha*)—together with those cows
+- ज्योगित् (*jyogit*)—for a long time
+- सचते (*sacate*)—may he remain united
+
+##### भावार्थ (Bhāvārtha)
+
+May our cows not be lost. May the thief not steal them. May the weapon of an enemy not fall upon these cows. May the sacrificer, the master of these cows, remain united for a long time and be happy with those cows with whose help he performs sacrifice with Indra and the other deities in view and offers the oblation.
+
+### Printed p. 838
+
+##### English translation
+Let not the Cows be lost: let not thief carry them away: let no hostile weapon fall upon them: may the master of the cattle be long possessed of those with which he sacrifices, and which he presents to the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is explained in the Āśvalāyana Śrautasūtra (Ā. Sū. 6-14) that when the oblation called Daivī is offered, the two Ṛks न ता नशंति (*na tā naśaṃti*) (the third Ṛk) and न ता अर्वा (*na tā arvā*) (the fourth Ṛk) are to be recited as the yājyā and puronuvākyā mantras of the cow deity. And in the Gostoma also, at the beginning of the Marutvatīya and Niṣkevalya śastra mantras, these Ṛks are to be recited as the opening Ṛks of the sūkta; this is explained by the sūtra of the Āśvalāyana Śrautasūtra न ता अर्वा रेणुककाटो अश्नुते न ता नशंति न दभाति तस्करः (*na tā arvā reṇukakāṭo aśnute na tā naśaṃti na dabhāti taskaraḥ*) (Ā. Sū. 9-5).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ता अर्वा॑ रे॒णुक॑काटो अश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यंति॒  ॒
+> ता अभि ।  
+> उ॒रु॒गा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रंति॒  ॑
+> यज्वनः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ताः । अर्वा । रेणुककाटः । अश्नुते । न । संस्कृतत्रं । उप । यंति । ताः ।  
+> अभि ।  
+> उरुगायं । अभयं । तस्य । ताः । अनु । गावः । मर्तस्य । वि । चरंति । यज्वनः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रेणुककाटो रेणोः पार्थिवस्य रजस उद्भेदकः ॥ कटिर्भेदनकर्मा ॥
+> अर्वा युद्धार्थमागतोऽश्वो ता गा नाश्नुते । न प्राप्नुयात् । तथा ता गावः
+> संस्कृतत्रं विशसनादिसंस्कारं नाभ्युप यंति । नाभिगच्छंतु । अपि च ता गावो
+
+### Printed p. 839
+
+> यज्जनो यागशीलस्य तस्य मर्तस्य मनुष्यस्कोरुगायं विस्तीर्णगमनमभयं
+> भयवर्जितं प्रदेशमनूद्दिश्य वि चरंति । विशेषेण गच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+Reṇukakāṭaḥ is one who breaks up the dust, the terrestrial dust; the root kaṭi has the sense of splitting. The horse that has come for battle does not reach those cows: may it not get at them. Likewise may those cows not go to the rite of slaughter and the like: may they not approach it. Further, may those cows roam about in particular, in the wide-ranging, fearless region of the sacrificer, that mortal man given to sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेणुककाटः (*reṇukakāṭaḥ*)—that raises the dust
+- अर्वा (*arvā*)—the horse
+- ताः (*tāḥ*)—those cows
+- न अश्नुते (*na aśnute*)—may it not confront them and rush upon them
+- ताः (*tāḥ*)—the same cows
+- संस्कृतत्रं (*saṃskṛtatraṃ*)—the rite of slaughter and the like, the state of being a sacrificial animal
+- न अभ्युपयंति (*na abhyupayaṃti*)—may they not undergo
+- ताः गावः (*tāḥ gāvaḥ*)—the same cows
+- यज्वनः (*yajvanaḥ*)—of the man who performs sacrifice
+- तस्य मर्तस्य (*tasya martasya*)—of that mortal man
+- उरुगायः (*urugāyaḥ*)—fit for wide roaming
+- अभयं (*abhayaṃ*)—and free from fear
+- अनु (*anu*)—in the regions
+- वि चरंति (*vi caraṃti*)—may they roam freely
+
+##### भावार्थ (Bhāvārtha)
+
+May the stout horse that raises the dust not confront those cows of ours and fall upon them. May those same cows, though they are animals in a sacrifice, not undergo that cutting up. And may they roam freely in the regions of the sacrificer that are fit for wide roaming and free from fear.
+
+##### English translation
+Let not the dust-spurning (war)-horse reach them; nor let them fall in the way of sacrificial consecration : let the cattle of the man who offers sacrifice wander about at large and without fear.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गावो॒ भगो॒ गाव॒ इंद्रो॑ मे अच्छा॒न् गावः॒ सोम॑स्य  
+> प्रथ॒मस्य॑ भ॒क्षः ।  
+> इ॒मा या गावः॒ स ज॑नास॒ इंद्र॑ इ॒च्छामिद्धृ॒दा मन॑सा  ॒॑
+> चिदिंद्रं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गावः । भगः । गावः । इंद्रः । मे । अच्छान् । गावः । सोमस्य । प्रथमस्य । भक्षः ।  
+> इमाः । याः । गावः । सः । जनासः । इंद्रः । इच्छामि । इत् । हृदा । मनसा । चित् ।  
+> इंद्रं ॥ ५ ॥
+
+### Printed p. 840
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गान एव मह्यं भगो धनं भवंतु । इंद्रश्च मे मह्यं गावो गा अच्छान् ।
+> यच्छतु । गावः प्रथमस्य हविषां श्रेष्ठस्य सोमस्य भक्षो भक्षणं भवंतु । अभिषुतस्य हि सोमस्य गव्येनाज्यादिना संश्रयणत्वात् । हे जनासो जना इमा एवंभूता
+> या गावः संति सः । ता इत्यर्थः । ता एव गाव इंद्रो भवंति । दधिघृतादिरूपेणेंद्रस्याप्यायनत्वात् । एवंभूतमिंद्रं हृदा श्रद्धायुक्तन मनसा चित् ॥
+> चिदित्यप्यर्थे ॥ इच्छामीत् । कामय एव । साधनभूताभिर्गॊभिरेवंभूतमिंद्रं
+> यष्टुमिच्छामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+May the cows themselves be bhaga, wealth, for me. And may Indra give me cows. May the cows be the bhakṣa, the food, of the first, the best of the oblations, of Soma; for the pressed Soma is joined with the products of the cow, ghee and the like. O people, these cows that exist are those very ones, and those cows are Indra, because as curds, ghee and the like they nourish Indra. Such an Indra I desire with the heart, with a mind full of faith; the word cit has the sense of "also". Icchāmit means: I do desire. The meaning is: I wish to sacrifice to such an Indra with the cows as the means.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावः (*gāvaḥ*)—the cows
+- भगः (*bhagaḥ*)—are wealth to me
+- इंद्रः (*iṃdraḥ*)—Indra
+- मे (*me*)—to me
+- गावः (*gāvaḥ*)—the cows
+- अच्छान् (*acchān*)—may he give
+- गावः (*gāvaḥ*)—the cows
+- प्रथमस्य (*prathamasya*)—of that which is offered first
+- सोमस्य (*somasya*)—for the Soma
+- भक्षः (*bhakṣaḥ*)—may they be the food
+- जनासः (*janāsaḥ*)—O men
+- इमाः (*imāḥ*)—of this kind
+- या गावः (*yā gāvaḥ*)—the cows that there are
+- स इंद्र (*sa iṃdra*)—they are the very forms of that Indra
+- इंद्रं (*iṃdraṃ*)—such an Indra
+- हृदा (*hṛdā*)—with a mind full of faith
+- मनसा चित् (*manasā cit*)—with the mind
+- इच्छामित् (*icchāmit*)—I certainly desire
+
+##### भावार्थ (Bhāvārtha)
+
+The cows are wealth to me. May Indra give me cows. May the cows provide milk and the like for the Soma that is offered first. O men, the cows that there are of this kind are the very forms of that Indra. Such an Indra I certainly desire with a mind full of faith.
+
+##### English translation
+May the Cows be (for our) affluence : may Indra grant me cattle : may the cows yeild the food of the first libation : these Cows, oh men. are Indra, the Indra whom I desire with heart and mind.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा  ॒॑
+> सुप्रतीकं ।
+
 ---
 
-**Progress note:** Done through printed p. 834. Sukta 27 Rks 6-8, Sukta 28 Rk 1 start (pp. 829-834)
+**Progress note:** Done through printed p. 840. Sukta 28 Rks 1-5, Rk 6 start (pp. 835-840)
