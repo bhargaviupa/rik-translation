@@ -1,6 +1,6 @@
 # Publishing the volumes — the to-do list
 
-*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 17 2026** (Vol 2 clean-up).*
+*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 18 2026** (reference corrector).*
 *Kept current by every session: a finished point is ticked with its date, a new point is added where it belongs, the counts in §1 are refreshed. Counts are from commands run on the date given; estimates are called estimates. Background: `docs/REQUIREMENTS.md` (Part H), `docs/DESIGN.md`, `docs/LEGACY_VOLUMES_PLAN.md`. Other parked points of the project: `TODO.md`. State of one volume in detail: `volN/STATUS.md`.*
 
 Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you)** only the user can do it · **(script)** costs nothing · **(agents)** uses the session allowance · **(scholar)** / **(advice)** someone outside.
@@ -17,7 +17,7 @@ Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Pūrva-pīṭhikā, Bhāṣya-bhūmikā, Maṃ. 1 Sū. 1–2 | scans | 238,000 | 104 | 44 | — | yes (3 files) | text made, not in book form | A |
 | 2 | Maṃ. 1 Sū. 3–19 | scans; **read a second time by the user, in good condition**; clean-up Nov 17 (our remarks out, verses from the reference) | 322,000 → 360,640 words counted by split on Nov 17 (old figure from another count) | 429 (kept for your review: 237 on Devanagari lines, 62 after references, 57 IAST twins, 43 explaining the marks, 30 other) | `[sic]` 143 kept; ‘as printed’ about 600 left | — | no | none | A |
-| 3 | Maṃ. 1 Sū. 20–32 | scans | 233,000 | 110 | 689 | — | no | none | A |
+| 3 | Maṃ. 1 Sū. 20–32 | scans | 233,000 | 110 | 689 | — | **yes, whole volume (Nov 18)** | none | A |
 | 4 | Maṃ. 1 Sū. 33–46 | scans | 218,000 | 151 | 628 | — | no | none | A |
 | 5 | Maṃ. 1 Sū. 47–61 and the Pariśiṣṭa | scans | 270,000 | 231 | 396 | — | partly: pp. 2–468 and 486–584 (Nov 17); pp. 469–485 and 585–708 not yet | none | A |
 | 6 | Maṃ. 1 Sū. 62–80 | scans | 238,000 | 575 | 691 | — | no | none | A |
@@ -87,7 +87,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | [x] | [~] text made; verses not yet from reference | [ ] needs prose units (T1) | [~] 20 references, 12 Sanskrit corrections on 9 pages | [~] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 2 | [ ] | [ ] | [ ] | [~] **Saṃhitā verses of Sū. 3–19 now equal to the reference (93 of 176 replaced, Nov 17)**; Pada and quoted verses unaccented | [~] remarks removed by kind (Nov 17: 156+68 notes, 121 tentative, 146 `[as printed]`); `[?]`, `[sic]` kept for you; about 380 notes with first-person/reading remarks still to decide | [x] by the user, from scans | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 3 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 3 | [x] Nov 18 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 4 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 5 | [~] 5 files, pp. 2–468 and 486–584 | [ ] | [ ] | [~] pp. 1–184 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 6 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
@@ -127,6 +127,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 | T9 | The shared accent tool reads the older layouts (it finds no verse in Vol 2) | group A | [x] Nov 17 2026: `accent_compare.py` and `accent_replace.py` read the Vol 2 layout; other group-A volumes to be tried |
 | T10 | Translation step in the new form (units instead of windows) | Vols 13, 19 onwards | [ ] |
 | T12 | **Glosses of quoted Ṛks.** *Decided by the user, Nov 17 2026:* the gloss of a Ṛk quoted from elsewhere is **our own edition's translation of that Ṛk**, taken by script from one table Maṇḍala–Sūkta–Ṛk → English; where that volume is not made yet, a **placeholder** stands, filled once the translation exists; **a final copy is not printed while a placeholder remains** (requirement B3.5, gate D9). Quotations from other works stay the translator's. **Done Nov 17 2026:** `CROSS_REFERENCES.tsv` / `.md` at the root list every reference of every volume by page and line (40,746: 5,715 to Ṛks, 23,909 grammatical sūtras, 11,122 other works; `tools/rv/crossrefs.py`, run again after changes); 682 labelled glosses in Vols 2–8 replaced by the marker `**GLOSS**` (`tools/rv/gloss_marker.py`; removed text kept in `volN/review/glosses_removed.tsv`). **Left:** 427 labelled lines of Vols 2–8 and 86 of the other volumes in forms the script does not replace (`volN/review/glosses_left.tsv` for Vols 2–8; a reading is needed, some are remarks and not glosses); glosses that carry no label, as in Vols 10–18 where they are woven into the prose, cannot be found by script. Not built (user: not now): the table from the volumes made; finding the quoted Ṛks and their references in each volume (count first: how many carry a usable reference, how many glosses are incomplete); replacing glosses; the placeholder and its gate. Consequence: a volume that quotes Ṛks of later Maṇḍalas cannot go to print before those volumes are translated, unless you allow an exception. | all | [ ] |
+| T13 | **References uniform in all volumes.** The names of works before reference numbers follow the one list `rv/references.tsv` in the English, the Sanskrit lines and the Kannada text; doubtful reference numbers are settled from your numerals files | all | [~] **Names: [x] Nov 18 2026, Vols 1–18** (agent `reference-corrector`, `tools/rv/refs_apply.py`; you declared the review finished and confirmed that short forms of the print such as पा. are rewritten in every script). Every change is a row of `volN/review/refs_applied.tsv`; no digit and no `?` changed (proved by the script on each write); audits read as before (Vols 15, 16 failed before and after on their `[?]` counts, unrelated). 13 places held for you (garbled first letter before ಸಂ., `Vā. 4-1` in Vol 14, `म: उ.` in Vol 12; run `python3 tools/rv/refs_apply.py` to list them). Remarks such as `[as printed]` beside corrected names were left in place. Print PDFs of all changed volumes are now older than their text. Vols 19–21 not done (in translation). **Numbers: [~] Nov 18 2026:** numerals files of Vols 7–10 aligned again; little could be settled safely (Vol 7: `[?]` dropped on 7 numbers equal to the file, 2 numbers set to the file's value; Vol 10: 15 and 1; Vols 8, 9: nothing; Vol 14 skipped, its page shifts are not settled). The pairing of file rows with the text is not reliable enough to apply more by script: what is left is listed for your eyes in `volN/numerals/VolN_for_user_Nov18.tsv` (Vols 7–10) **(you)**. Reference numbers still marked doubtful are in `REFERENCES_OPEN_NUMBERS.tsv` (Vol 7: 327, Vol 8: 702, Vol 9: 1,040, Vol 10: 154); Vols 1–6 have no numerals file anywhere in the repository or its history **(you)** |
 | T11 | Review PDFs still in `publish/out/` moved to their volume folders | all | [ ] |
 
 ---
@@ -141,6 +142,11 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 18 2026: the two supplied HTML files (Vol 1 file 2, Vol 3 file 1) converted to markdown at the user's request; the page splitter reads pandoc's header marks. Vol 2 pp. 1–385 still wanted (the file uploaded twice as `rig_2_1.md` is of another volume: Maṇḍala 6–7, pp. 389–841).
+- Nov 18 2026: supplied text of Vol 3 (whole volume, pp. 2–647) and of Vol 2 pp. 386–808 put in the repository; Vol 2 pp. 1–385 still wanted (the file uploaded for it was from another volume).
+- Nov 18 2026: T13 numbers pass run on Vols 7–10 (3 numbers changed, 22 `[?]` dropped; lists for the user made).
+- Nov 18 2026: T13 names done for Vols 1–18 (reference corrector run); 13 places held; numbers pass still to run.
+- Nov 18 2026: T13 added: reference corrector (script and agent) built and tried on Vols 2, 4, 11, 14, 17 (audit and import proofs unchanged; the trial changes were undone, no volume is changed); list of doubtful reference numbers made.
 - Nov 18 2026: prompt for the Vol 20 translation session written (`vol20/CONTINUE_PROMPT_HTML.md`); the small tool fixes of the Vol 19 session brought to `main`.
 - Nov 18 2026: prompt for the session that continues the gloss work written: `docs/GLOSS_PROMPT.md`.
 - Nov 17 2026: cross-reference list made for all volumes; labelled glosses of Vols 2–8 replaced by `**GLOSS**` (682).

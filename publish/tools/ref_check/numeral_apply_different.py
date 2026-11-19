@@ -6,10 +6,16 @@ comma lists ('119, 124, 125'), edit distance >= 4."""
 import re, sys, openpyxl
 D2A = str.maketrans("०१२३४५६७८९", "0123456789"); A2D = str.maketrans("0123456789", "०१२३४५६७८९")
 REF = re.compile(r"(\[?[०-९0-9]+\]?(?:[ ]?[-–.,][ ]?\[?[०-९0-9]+\]?)+)(\s*\[\?\])?")
-md, xl, log = sys.argv[1:4]   # optional 4th arg --parts-ok: also apply rows whose part count differs (user confirmed Nov 4)
+md, xl, log = sys.argv[1:4]   # options: --parts-ok, --min-ctx=, --min-score=, --exclude-lines=; optional 4th arg --parts-ok: also apply rows whose part count differs (user confirmed Nov 4)
 L = open(md, encoding="utf8").read().split("\n")
 MINC = next((float(a.split("=")[1]) for a in sys.argv if a.startswith("--min-ctx=")), 0.0)   # only rows whose context score >= this
-rows = [x for x in list(openpyxl.load_workbook(xl, read_only=True).active.iter_rows(values_only=True))[1:] if x[7] == "DIFFERENT" and (x[9] or 0) >= MINC]
+MINS = next((float(a.split("=")[1]) for a in sys.argv if a.startswith("--min-score=")), 0.0)   # only rows whose overall alignment score (column 'score') >= this (Nov 18: the context score alone let two different references be joined)
+EXCL = {int(t) for a in sys.argv if a.startswith("--exclude-lines=") for t in a.split("=")[1].split(",") if t}   # md lines left alone (judged by reading)
+alld = [x for x in list(openpyxl.load_workbook(xl, read_only=True).active.iter_rows(values_only=True))[1:] if x[7] == "DIFFERENT"]
+_cnt = {}
+for x in alld: _cnt.setdefault((x[4], x[5]), set()).add(x[2])
+CONFLICT = {k for k, v in _cnt.items() if len(v) > 1}   # one md numeral paired with several different file values (neighbouring file pages overlap): never applied
+rows = [x for x in alld if (x[9] or 0) >= MINC and (x[8] or 0) >= MINS]
 def lev(a, b):
     p = list(range(len(b) + 1))
     for i, c in enumerate(a, 1):
@@ -20,6 +26,8 @@ def lev(a, b):
 f = open(log, "w", encoding="utf8"); f.write("md_line\tPDF\told\tnew\tnote\n"); done = set(); n_tok = n_skip = 0
 for x in rows:
     P, ln, new, old = x[0], x[4], x[2], x[5]
+    if (ln, old) in CONFLICT: f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED same md numeral paired with several file values\n"); n_skip += 1; continue
+    if ln in EXCL: f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED md line excluded after reading\n"); n_skip += 1; continue
     if old.endswith("-?"):   # incomplete md token '4-?' (+ 'as read' / '[?]'): replaced by the file's full value
         kp = old[:-2].split("-"); fv = new.split("-")
         if len(fv) <= len(kp) or (lev("-".join(kp), "-".join(fv[:len(kp)])) >= 2 or len("-".join(kp)) != len("-".join(fv[:len(kp)]))): f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED incomplete token, prefix differs\n"); n_skip += 1; continue
