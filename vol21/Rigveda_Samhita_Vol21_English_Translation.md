@@ -19716,6 +19716,290 @@ You have provided with these beautiful splendours, gratification for the enjoyme
 
 O Nāsatyas, let your horses, the best bearers, who are goers, bring to us the food in the form of Soma; let them convey it. Your chariot, swift as the mind.
 
+### Printed p. 448
+
+> मनोवेगो रथः पृक्षः संपर्चनीया इषिध एषणीयाः पूर्विर्बह्वरिषोऽन्नानि
+> सोमाननु प्रासर्जि । विसृष्टः ॥
+
+##### Gist of the bhāṣya
+
+The chariot, swift as the mind, has poured forth for you, one after another, the foods and the Soma drinks. Sāyaṇa glosses pṛkṣaḥ as संपर्चनीया (*saṃparcanīyā*), iṣidhaḥ as desirable, and pūrvīḥ as many; the verb prāsarji means "has been poured out".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- वयः (*vayaḥ*)—swift goers
+- वहिष्ठाः (*vahiṣṭhāḥ*)—bearing exceedingly
+- वां आश्वासः (*vāṃ āśvāsaḥ*)—your horses
+- प्रयः अभि (*prayaḥ abhi*)—toward the food in the form of Soma
+- आ वहंतु (*ā vahaṃtu*)—let them bring you
+- वां (*vāṃ*)—your
+- मनोजवाः (*manojavāḥ*)—having the speed of the mind
+- रथः (*rathaḥ*)—the chariot
+- पृक्षः (*pṛkṣaḥ*)—abundant
+- इषिधः (*iṣidhaḥ*)—desirable
+- पूर्वीः (*pūrvīḥ*)—copious
+- इषः (*iṣaḥ*)—foods
+- अनु प्र असर्जि (*anu pra asarji*)—has poured out
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, let your horses, swift goers and exceedingly strong bearers of you, bring you toward the food in the form of Soma. Your chariot, which has the speed of the mind, has poured out abundant, desirable and copious food.
+
+##### English translation
+May your rapid burden-bearing steeds bring you Nasatyas to the (sacrificial) food : your chariot swift as thought has dispensed substantial, d sirable, abundant food.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु हि वां॑ पुरुभुजा दे॒ष्णं धे॒नुं न॒ इषं॑ पिन्वत॒मस॑क्रां ।  
+> स्तुत॑श्च वां माध्वी सुष्टु॒तिश्च॒ रसा॑श्च॒ ये वा॒मनु॑ रा॒तिमग्म॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरु । हि । वां । पुरुभुजा । देष्णं । धेनुं । नः । इषं पिन्वतं । असक्रां ।  
+> स्तुतः । च । वां । माध्वी इति । सुस्तुतिः । च । रसाः । च । ये । वां । अनु ।  
+> रातिं । अग्मन् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुभुजा हे पूर्णभुजौ बहुपालकौ वा वां युवयोर्देष्टं दातव्यं
+> धनं पुरु बहु हि भवति । अतः कारणान्नोऽस्मभ्यं धेनुं प्रीणयित्रीमसक्रां
+
+##### Gist of the bhāṣya
+
+O protectors of many, or full-armed ones: the wealth to be given by you is indeed abundant. For that reason give us a nourishing cow, one that does not pass over to anyone else but me,
+
+### Printed p. 449
+
+> मत्तोऽन्यत्रासंक्रमणीं । असक्रामसंक्रमणीं । नि. ६-२९ । इति यास्केनोक्तत्वात् ।
+> इषमन्नं पिन्वतं । प्रयच्छतं । यद्वा । इषमेषणीयां धेनुमित्यन्वयः । किंच
+> नां स्तुतः । स्तुवंतीति स्तुतः स्तोतारः । संति । माध्वी मादयितारावश्विन् सुष्टुतिः
+> शोभना स्तुतिश्च स्तोतृषु भवति । रसाः सोमरसाश्च संति । ये रसा नां युवयो
+> रातिं दानमनूद्दिश्याग्मन् देवयजनं प्राप्ताः । आयं भावः । सुष्टुतिं श्रुत्वा
+> देवयजनं प्राप्तान् सोमरसान् पीत्वा स्तोतृभ्यः कामान्प्रयच्छतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Asakrā means "not passing over"; Sāyaṇa supports this by Yāska's saying असक्रामसंक्रमणीं (*asakrāmasaṃkramaṇīṃ*) (Ni. 6-29). Give us food. Or else, the construction is: give a desirable cow of food. Moreover, there are praisers; and, O delighting Aśvins, among the praisers there is an excellent praise; and there are Soma juices, which have come to the place of sacrifice in view of your gift. This is the sense: having heard the excellent praise and having drunk the Soma juices that have come to the place of sacrifice, grant the desires of the praisers; this is what is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुभुजा (*purubhujā*)—O Aśvin deities, protectors of many
+- वां (*vāṃ*)—by you
+- देष्णं (*deṣṇaṃ*)—the wealth that is to be given
+- पुरु हि (*puru hi*)—is very abundant (therefore)
+- नः (*naḥ*)—to us
+- धेनुं (*dhenuṃ*)—satisfying
+- आसक्रां (*āsakrāṃ*)—and not passing over to another
+- इषं (*iṣaṃ*)—food
+- पिन्वतं (*pinvataṃ*)—provide (or)
+- असक्रां (*asakrāṃ*)—ever giving milk
+- धेनुं न (*dhenuṃ na*)—like a cow (that is, never diminishing)
+- इषं (*iṣaṃ*)—food
+- पिन्वतं (*pinvataṃ*)—provide
+- माध्वी (*mādhvī*)—O Aśvin deities, givers of joy
+- वां (*vāṃ*)—you
+- स्तुतः (*stutaḥ*)—the praisers praise
+- सुष्टुतिः च (*suṣṭutiḥ ca*)—among the praisers there is also an excellent praise
+- ये (*ye*)—which Soma juices
+- वां (*vāṃ*)—your
+- रातिं अनु (*rātiṃ anu*)—in view of the gift
+- आग्मन् (*āgman*)—have reached the house of the gods
+- रसाः च (*rasāḥ ca*)—such Soma juices too are ready
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, protectors of many, the wealth to be given by you is very abundant. Therefore provide us food that satisfies and never diminishes. O Aśvin deities, givers of joy, the praisers praise you. Among the praisers there is also an excellent praise. The Soma juices that have reached the house of the gods in view of your gift are also ready.
+
+##### English translation
+Protectors of many, vast (wealth) is to be distributed by you : give us then nutritious and invariable food. Givers of delight, there are to you, adorers, and fit praise, and libations, which are prepared to acknowledge your liberality
+
+##### विशेषविषयगळु (Special Topics)
+
+For this word asakrām Yāska gives the etymology धेनुं न इषं पिन्वतमसक्रां । असंक्रमणीं (*dhenuṃ na iṣaṃ pinvatamasakrāṃ | asaṃkramaṇīṃ*) (Ni. 6-29). The meaning is: provide us food like a cow that never stops giving milk,
+
+### Printed p. 450
+
+that is, food that never wastes away and never diminishes.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त म॑ ऋ॒ज्रे पुर॑यस्य र॒घ्वी सु॑मि॒ळे श॒तं पे॑रु॒के च॑ प॒क्वा ।  
+> शां॒डो दा॑द्दिर॒णिनः॒ स्मद्दि॑ष्टी॒न्दश॑ व॒शासो॑ अभि॒षाच॑ ऋ॒ष्वान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । मे । ऋज्रे इति । पुरयस्य । रघ्वी इति । सुमीळे । शतं । पेरुके ।  
+> च । पक्वा ।  
+> शांडः । दात् । हिरणिनः । स्मत् निर्दिष्टीन् । दश । वशासः । अभिसाचः । यष्वान् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च पुरयस्य पुरयनामकस्य स्वभूते ऋज्रे ऋजुगमने रघ्वी
+> क्षिप्रगामिन्यौ वडवे मेऽश्विनोः स्तुतिं कुर्वतो ममाभूतां । सुमिळे राज्णि
+> विद्यमानाः संतः शतं गावो ममाभूवन् । पेरुके राज्णि विद्यमानानि पक्वा
+> पक्वान्यन्नानि ममासन् । शांडश्च राजाऽहिरणिनो हिरण्यवतः स्मद्दिष्टीन् प्रशस्तदर्शनान्रथानश्वान्वा दश दशसंख्याकान्वशासोऽनुगुणानभिषाचः शत्रुणामभिभावुकान्वृष्वान्स्पर्शनीयान्पुरुषानश्विनोः स्तोतृभ्यो दात् । ददातु ।
+
+##### Gist of the bhāṣya
+
+Moreover, the two straight-going and swift mares that belong to Puraya, a man of that name, have become mine, who praise the Aśvins. A hundred cows that were with King Sumiḷa have become mine. The cooked foods that were with King Peruka have been mine. And King Śāṇḍa should give to the praisers of the Aśvins ten golden chariots or horses of excellent appearance, ten in number, and obedient men, overcomers of enemies, men fair to look upon; let him give them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- पुरयस्य (*purayasya*)—belonging to the king named Puraya
+- ऋज्रे (*ṛjre*)—going straight
+- रघ्वी (*raghvī*)—and swift-going horses
+- मे (*me*)—let them be for me, who praise the Aśvin deities
+- सुमिळा (*sumiḷā*)—with the king named Sumiḷa
+- शतं (*śataṃ*)—let the hundred cows also be mine
+- पेरुके (*peruke*)—with Peruka
+- पक्वा (*pakvā*)—let the cooked foods be mine
+- शांडः (*śāṃḍaḥ*)—the king named Śāṇḍa
+- हिरणिनः (*hiraṇinaḥ*)—made of gold
+- स्मद्दिष्टीन् (*smaddiṣṭīn*)—and of excellent form
+- दश (*daśa*)—ten chariots and horses
+- वशासः (*vaśāsaḥ*)—obedient to us
+- अभिषाचः (*abhiṣācaḥ*)—conquerors of enemies
+- ऋष्वान् (*ṛṣvān*)—men of beautiful appearance
+- दात् (*dāt*)—let him give to us who worship you
+
+### Printed p. 451
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, let the horses that belong to the king named Puraya, going straight and swift-going, be for me, who praise the Aśvin deities. Let the hundred cows that are with Sumiḷa and the cooked foods that are with Peruka be mine. Let the king named Śāṇḍa give to us, your worshippers, ten chariots of excellent form and made of gold, and horses suited to them, and obedient men, destroyers of enemies.
+
+##### English translation
+May the two straight-going, light-moving, (mares) of Puraya be mine; may the hundred cows belonging to Sumitha, may the dressed viands prepared by Peruka be for me : may Sanda bestow upon me ten handsome golden chariots, and obedient, valiant, and well-favoured (dependants).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं वां॑ श॒ता ना॑सत्या स॒हस्राश्वा॑नां पुरु॒पंथा॑ गि॒रे दा॑त् ।  
+> भ॒रद्वा॑जाय वीर॒ नू गि॒रे दा॑द्द॒ता रक्षां॑सि पुरुदंससा स्युः ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । वां । शता । नासत्या । सहस्रा । अश्वानां । पुरुपंथाः । गिरे । दात् ।  
+> भरत्वाजाय । वीर । नु । गिरे । दात् । हता । रक्षांसि । पुरुपंससा । स्युरिति स्युः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नासत्या हे अश्विन् वां युवयोर्गिरे । गृणातीति गीः स्तोत्रा । तस्मा अश्वानां
+> शता शतानि सहस्रा सहस्राणि पुरुषंथाः पुरुषंथा नाम राजा सं दात् । संददाति ।
+> वीर हे वीरावश्विन् ॥ द्विवचनस्य लुक् ॥ गिरे युवयोः स्तोत्रे भरद्वाजाय
+> मह्यमपि नु क्षिप्रं दात् । ददातु । किंच हे पुरुदंससा बहुकर्मणावश्विन्
+> युवयोरनुग्रहाद्रक्षांसि हता हतानि स्युः ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, Aśvins: the king named Puruṣanthā should give to your praiser, gīḥ meaning one who utters praise, hundreds and thousands of horses.**NOTE** O heroic Aśvins, let him give quickly also to me, Bharadvāja, who praise you. And, O Aśvins, doers of many deeds, by your favour let the Rākṣasas be slain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- वां (*vāṃ*)—your
+- गिरे (*gire*)—to the praiser
+- पुरुपंथाः (*purupaṃthāḥ*)—the king named Puruṣanthā
+- शता (*śatā*)—numbering hundreds
+- सहस्र (*sahasra*)—and numbering thousands
+
+### Printed p. 452
+
+- अश्वानां (*aśvānāṃ*)—of horses
+- सं दात् (*saṃ dāt*)—let him give
+- वीर (*vīra*)—O mighty Aśvin deities
+- गिरे (*gire*)—who praise you
+- भरद्वाजाय (*bharadvājāya*)—to Bharadvāja too
+- नु (*nu*)—quickly
+- दात् (*dāt*)—let him give them
+- पुरुदंससा (*purudaṃsasā*)—O Aśvin deities, doers of many deeds
+- रक्षांसि (*rakṣāṃsi*)—all the Rākṣasas
+- हता स्युः (*hatā syuḥ*)—be slain
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, let the king named Puruṣanthā give to your praiser horses numbering hundreds and thousands. O mighty Aśvin deities, let him give them quickly also to Bharadvāja, who praises you. O Aśvin deities, doers of many deeds, let all the Rākṣasas be slain.
+
+##### English translation
+May Purupantha, Nasatyas, grant to him who praises you. hundreds and thousands of horses: may he give them, heroes, to Bharadwaja : achievers of great deeds, may the Rakshasas be slain.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॑ सु॒म्मे वरि॑मन्सू॒रिभिः॑ स्यां ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । सुम्मे । वरिमन् । सूरिभिः । स्यां ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् वरिमन्विस्तृते सुम्मे वां युवाभ्यां दत्ते सुखावहे धने ।
+> जलाषं सुम्ममिति सुखनामसु पाठात् । सूरिभिर्विद्वद्भिः पुत्रादिभिः सहा समंतात्सा० ।
+> भवेयं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvin, in the vast happiness, the wealth given by you two that brings happiness (he supports this by जलाषं सुम्ममिति सुखनामसु (*jalāṣaṃ summamiti sukhanāmasu*), since sumna is read among the names of happiness), may I be on every side together with the learned, my sons and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरिमन् (*variman*)—very extended
+- सुम्मे (*summe*)—in happiness
+- वां (*vāṃ*)—with the help of the wealth given by you
+- सूरिभिः (*sūribhiḥ*)—with learned sons
+- आ स्यां (*ā syāṃ*)—may we be everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, with the help of the wealth given by you, may we, with learned sons, live in very extended happiness.
+
+### Printed p. 453
+
+##### English translation
+May I be associated with the pious in the abundant felicity bestowe I by you.
+
+## Sūkta 64 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदु श्रिय इति षडृचं तृतीयं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभमुषोदेवताकं । अनुक्रम्यते च । उदु श्रिये षळुषस्यं त्विति ॥ प्रातरनुवाक उषस्ये
+> क्रता त्रैष्टुभे छंदस्याश्विनशस्त्रे चैतदादिके द्वे सूक्ते । सूत्र्यते हि । उदु श्रिय
+> इति सूक्ते । आ. ४-१४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उदु श्रिय (*udu śriya*) is the third sūkta; it has six ṛks. Its seer is Bharadvāja; its metre is Triṣṭubh; its deity is Uṣas. The Anukramaṇikā says उदु श्रिये षळुषस्यं त्विति (*udu śriye ṣaḷuṣasyaṃ tviti*) **GLOSS**. In the Prātaranuvāka, in the rite of Uṣas, in the Triṣṭubh metre, and in the Āśvina-śastra, the two sūktas beginning with this one are used. It is set out in the Sūtra: उदु श्रिय इति सूक्ते (*udu śriya iti sūkte*) (Ā. 4-14).
+
+##### Anuvāda
+
+Translation: this sūkta उदु श्रिये (*udu śriye*) is the third sūkta in the sixth anuvāka. It has six ṛks. Bharadvāja is the seer of this sūkta; the goddess Uṣas is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said उदु श्रिये षळुषस्यं तु (*udu śriye ṣaḷuṣasyaṃ tu*) **GLOSS**. At the time of reciting the Prātaranuvāka mantras, for the mantras of Triṣṭup metre connected with the rite of Uṣas**NOTE**, and for the Āśvina-śastra mantras, the use of this sūkta and the following sūkta is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, उदु श्रिय इति सूक्ते (*udu śriya iti sūkte*) (A. 4-14).**NOTE**
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 64
+- Aṣṭaka 5; Adhyāya 1; Varga 5
+- Number of ṛks in the sūkta: 6
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: उषाः (*uṣāḥ*)
+- Metre: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॑ श्रि॒य उ॒षसो॒ रोच॑माना॒ अस्थु॑र॒पां नोर्मयो॒  ॑
+> रुशंतः ।  
+> कृ॒णोति॒ विश्वा॑ सु॒पथा॑ सु॒गान्यभू॑दु॒ वस्वी॒ दक्षि॑णा म॒घोनी॑ ॥
+
 ---
 
-**Progress note:** Done through printed p. 447. Ṛ. 63.1-7 (Kva tyā), pp. 441-447
+**Progress note:** Done through printed p. 453. Ṛ. 63.7-11 and 64.1 (Udu śriye), pp. 448-453
