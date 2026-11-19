@@ -29668,6 +29668,179 @@ Sāyaṇa states that the sixth sūkta, of nine Ṛks, beginning ऋतेन �
 
 Translation: This sūkta beginning ऋतेन ऋतं (*ṛtena ṛtaṃ*) is the sixth sūkta in the fifth anuvāka. It has nine Ṛks. The seer of this sūkta is श्रुतविदात्रेयः (*śrutavidātreyaḥ*); the deity is Mitra and Varuṇa; the metre is Triṣṭubh. In the Anukramaṇī it is stated in this way. From the use in that sentence of words such as वै तत् (*vai tat*), it should be understood that this sūkta and the eleven sūktas that follow are addressed to Mitra and Varuṇa as deity. The application is by indication.
 
+### Printed p. 835
+
+- Sūkta: 62
+- Maṇḍala 5; Anuvāka 5; Sūkta 62
+- Aṣṭaka 4; Adhyāya 3; Varga 30, 31
+- Number of Ṛks in the Sūkta: 9
+- Ṛṣi: Śrutavid Ātreya
+- Devatā: Mitra and Varuṇa
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तेन॑ ऋ॒तमसि॑हितं ध्रु॒वं वां॒ सूर्य॑स्य॒ यत्र॑ विमु॒चंत्यश्वा॑न् ।  
+> दश॑ श॒ता स॒ह त॑स्थु॒स्तदेकं॑ दे॒वानां॒ श्रेष्ठं॒ वपु॑षामपश्यं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतेन । ऋतं । अपिहितं । ध्रुवं । वां । सूर्यस्य । यत्र । विमुचंति ।  
+> अश्वान् ।  
+> दश । शता । सह । तस्थुः । तत् । एकं । देवानां । श्रेष्ठं । वपुषां । अपश्यं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यस्य ऋतं सत्यभूतं मंडलमृतेनोदकेनापिहितमाच्छादितं ध्रुवं
+> शाश्वतमपश्यमिति संबंधः । यत्र नां युवाभ्यां स्थितिस्तदित्यर्थः । सूर्यमंडले
+> मित्रावरुणयोः स्थितिश्चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।
+> ऋग्वे १-११५-१ । उद्वां चक्षुर्वरुण सुप्रतीकं देवयोः । ऋग्वे ७-६१-१ । इति
+> चक्षुर्मित्रस्य वरुणस्य । ऋग्वे ७-६३-१ । इत्यादिषु प्रसिद्धा । यत्र यस्मिन्मंडले
+> स्थितानत्वान् विमुचंति विमोचयंति स्तोतारः । मंदेहादिभिर्निरुद्धानित्यर्थः ।
+
+##### Gist of the bhāṣya
+
+The connection is: I have seen the true orb of the Sun, which is covered (hidden) by water and is everlasting. "Where you two have your abode" means the abode of Mitra and Varuṇa is in the orb of the Sun. This is well known from passages such as Ṛgve. 1-115-1 **NOTE**, Ṛgve. 7-61-1 and Ṛgve. 7-63-1, which speak of the eye of Mitra and Varuṇa. "Where they release the horses" means that the praisers release the horses that stand in that orb, that is, horses held back by Mandeha and others.
+
+### Printed p. 836
+
+> अथवा श्रीघ्रधावनाय स्तुत्या प्रेरयंति । यस्मिंश्च मंडले दश शता शतानि सहस्रसंख्याका रश्मयस्तस्थुः तिष्ठंति तादृशं देवानां वपुषां वपुष्मतां तेजोवतामग्न्यादीनां श्रेष्ठं प्रशस्यं ॥ मत्त्वर्थलक्षणा अथवा व्यधिकरणषष्ठी ॥ देवानां
+> वपुषां शरीराणां श्रेष्ठं । मंडलं हि सूर्यस्य वपुःस्थानीयं । तन्नंडलमुपश्यं । अथवा नां युवयोर्मध्ये सूर्यस्य मंडलमपश्यमिति व्याख्येयं
+> मैत्रं वा अहः। तै. ब्रा. १-७-१०-१ । इति श्रुतेर्मित्रस्यॆव सूर्यत्वादित्याशयेन ॥
+
+##### Gist of the bhāṣya
+
+Or else the praisers urge the horses by praise to run swiftly. In which orb ten hundreds, that is, a thousand rays abide, of such an orb, the best and most praiseworthy among the gods who have bodies, that is, who are possessed of splendour, such as Agni and the others (the genitive is to be taken either in the sense of possession or as a genitive of different relation). Or: the best of the bodies of the gods; for the orb is, as it were, the body of the Sun; that orb I have seen. Or it is to be explained thus: between you two I have seen the orb of the Sun, since there is the Vedic statement मैत्रं वा अहः (*maitraṃ vā ahaḥ*) (Tai. Brā. 1-7-10-1): Mitra himself is the Sun, with the Āditya in view.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which orb of the sun (O Mitra and Varuṇa)
+- वां (*vāṃ*)—your (abode is)
+- यत्र (*yatra*)—where
+- अश्वान् (*aśvān*)—the horses (held back by Mandeha and others)
+- विमुचंति (*vimucaṃti*)—(the praisers) release
+- दश शता (*daśa śatā*)—(in which orb) the rays numbering a thousand
+- सह तस्थुः (*saha tasthuḥ*)—abide together, and such a one (and that which is)
+- देवानां (*devānāṃ*)—of the shining gods
+- वपुषां (*vapuṣāṃ*)—of all the bodies of the form of splendour
+- श्रेष्ठं (*śreṣṭhaṃ*)—the most excellent
+- एकं (*ekaṃ*)—the one support
+- ध्रुवं (*dhruvaṃ*)—of everlasting duration
+- ऋतु (*ṛtu*)—of the nature of truth **NOTE**
+- ऋतेन (*ṛtena*)—by water
+- अपिहितं (*apihitaṃ*)—covered
+- सूर्यस्य तत् (*sūryasya tat*)—the orb of the sun
+- अपश्यं (*apaśyaṃ*)—I have seen
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, I have seen the orb of the Sun in which your abode is, where the praisers release the horses held back by Mandeha and others, in which a thousand rays gather together, which is the most excellent of all the bodies of the form of splendour of the shining gods, the one support, of everlasting duration, of the nature of truth, and covered by water.
+
+##### English translation
+I Have beheld the permanent orb of the sun, your (dwelling place), concealed by water, where (the hymns of the pious) liberate ( his ) steeds ; where a thousand rays abide together ; the one most excellent of the (embodied) forms of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+सूर्यस्य ऋतं ऋतेन अपिहितं ध्रुवं अपश्यं-सूर्यस्य (*sūryasya ṛtaṃ ṛtena apihitaṃ dhruvaṃ apaśyaṃ-sūryasya*) सत्यभूतमुदकेना च्छादितं शाश्वतं मंडलमपश्यं । (*satyabhūtamudakenā cchāditaṃ śāśvataṃ maṃḍalamapaśyaṃ |*) The seer describes here that he saw the orb of the Sun, of the nature of truth and everlasting, covered by water, that is, by the cloud-orb,
+
+### Printed p. 837
+
+or enveloped. Why is the orb of the Sun described in this Ṛk addressed in praise to Mitra and Varuṇa? Because Mitra and Varuṇa have a relation to the orb of the Sun. The seer explains that in the following sentences. In this sentence the Sun is described by the epithets ऋतं सत्यं (*ṛtaṃ satyaṃ*), because the Sun (Āditya) is the Supreme Brahman. That this Supreme Brahman is of the nature of truth and everlasting, that is, imperishable, is described in many Vedic sentences. In the sentence असावादित्यो ब्रह्मेति (*asāvādityo brahmeti*) (Tai. Ā. 2-1-1) it is clearly stated that this very Āditya, visible to our eyes, is Brahman. On the point that the Supreme Brahman is of the nature of truth, the sentence ऋतग्ं सत्यं पररॆ ब्रह्म पुरुषं कृष्णपिंगळं (*ṛtagṃ satyaṃ pararè brahma puruṣaṃ kṛṣṇapiṃgaḷaṃ*) (Tai. U. 4-24 **NOTE**) makes this clear. Therefore it is natural that the seer, regarding the Sun as of the nature of the Supreme Brahman, praised him with epithets that describe the qualities of Brahman. In the expression ऋतेन अपिहितं (*ṛtena apihitaṃ*), for the word ऋत (*ṛta*) Yāska has given the explanation ऋतमित्युदकनाम प्रत्यतं भवति (*ṛtamityudakanāma pratyataṃ bhavati*) (Ni. 2-25). That is, the word ऋत (*ṛta*) means water. By his rays the Sun draws up (in the form of vapour) the water that is in the sea and other reservoirs. The water drawn up in this way becomes cloud and, remaining in the sky, covers, that is, hides, the orb of the Sun. Therefore here the meaning is the orb of the Sun covered by water, that is, covered by the cloud-orb made of water. The word ऋत (*ṛta*) is read among the six names of truth beginning with बट् (*baṭ*) (Ni. 3-13), and सत्यं वा यज्ञं वा (*satyaṃ vā yajñaṃ vā*) (Ni. 4-19): the word ऋत (*ṛta*) also has the meaning truth or sacrifice.
+
+यत्र वां (स्थितिः)—सूर्यमंडले मित्रावरुणयोः स्थितिः । (*yatra vāṃ (sthitiḥ)—sūryamaṃḍale mitrāvaruṇayoḥ sthitiḥ |*) In explaining what the nature of the orb of the Sun is, the seer has said यत्र वां (स्थितिः) (*yatra vāṃ (sthitiḥ)*): your dwelling, O Mitra and Varuṇa, is in the orb of the Sun. In this matter:
+
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ*) (Ṛ. Saṃ. 1-115-1)
+
+उद्वां चक्षुर्वरुण सुप्रतीकं देवयोरेति सूर्यस्ततन्वान् । (*udvāṃ cakṣurvaruṇa supratīkaṃ devayoreti sūryastatanvān |*) (Ṛ. Saṃ. 7-61-1)
+
+चक्षुर्मित्रस्य वरुणस्य देवश्चर्मेव यः समविव्यक् तमांसि । (*cakṣurmitrasya varuṇasya devaścarmeva yaḥ samavivyak tamāṃsi |*) (Ṛ. Saṃ. 7-63-1)
+
+In these and many other Ṛks the fact that Mitra and Varuṇa are stationed in the orb of the Sun is made plain.
+
+यत्र अश्वान् विमुचंति—यस्मिन्मंडले स्थितानश्वान् विमोचयंति स्तोतारः । मंदेहादिभिर्निरुद्धानित्यर्थः । अथवा शीघ्रधावनाय स्तुत्या प्रेरयंति । (*yatra aśvān vimucaṃti—yasminmaṃḍale sthitānaśvān vimocayaṃti stotāraḥ | maṃdehādibhirniruddhānityarthaḥ | athavā śīghradhāvanāya stutyā prerayaṃti |*)
+
+### Printed p. 838
+
+Sāyaṇa has given two kinds of meaning for this sentence. One meaning is that the praisers pray with praises in order to urge the horses of the Sun to run swiftly; or else that certain asuras named Mandeha hold back the horses of the Sun and obstruct the Sun's course. Who are the asuras who dwell on the island of Mandeha, and what is the reason why they obstruct the Sun's course? These and other matters are told as follows in Tai. Ā. 2-2:
+
+रक्षाग्ंसि ह वा पुरोऽनुवाके तपोऽग्रमतिष्ठंत तान्प्रजापतिर्वरेणोपामंत्रयत तानि वरमवृणीतादित्यो नो योद्धा इति तान्प्रजापतिरब्रवीद्योधयध्वमिति तस्मादुत्तिष्ठंतग्ं ह वा तानि रक्षाग्स्यादित्यं योधयंति (*rakṣāgṃsi ha vā puro 'nuvāke tapo 'gramatiṣṭhaṃta tānprajāpatirvareṇopāmaṃtrayata tāni varamavṛṇītādityo no yoddhā iti tānprajāpatirabravīdyodhayadhvamiti tasmāduttiṣṭhaṃtagṃ ha vā tāni rakṣāgsyādityaṃ yodhayaṃti*) यावदस्तमन्वगात्तानिह वा एतानि रक्षाग्ंसि गायत्रियाभिमंत्रितेनांभसा शाम्यंति तदु ह वा एते ब्रह्मवादिनः पूर्वाभिमुखास्संध्यायां गाय त्रियाभिमंत्रिता आप ऊर्ध्व० विक्षिपंति ता एता आपो वज्री भूत्वा तानि रक्षाग्ंसि मंदेहारुणे द्वीपे प्रक्षिपंति यत्पदक्षिणं प्रक्रमंति (*yāvadastamanvagāttāniha vā etāni rakṣāgṃsi gāyatriyābhimaṃtritenāṃbhasā śāmyaṃti tadu ha vā ete brahmavādinaḥ pūrvābhimukhāssaṃdhyāyāṃ gāya triyābhimaṃtritā āpa ūrdhva0 vikṣipaṃti tā etā āpo vajrī bhūtvā tāni rakṣāgṃsi maṃdehāruṇe dvīpe prakṣipaṃti yatpadakṣiṇaṃ prakramaṃti*) तेन पाप्स्नानमवधून्वंत्युद्यंतमस्तंयंतमादित्यमभिध्यायन्कुर्वन् ब्राह्मणो विद्वान्कलं भद्रमश्नुतेऽसावादित्यो ब्रह्मेति ब्रह्मैव सन् ब्रह्माप्येति य एवं वेद ॥ (*tena pāpsnānamavadhūnvaṃtyudyaṃtamastaṃyaṃtamādityamabhidhyāyankurvan brāhmaṇo vidvānkalaṃ bhadramaśnute 'sāvādityo brahmeti brahmaiva san brahmāpyeti ya evaṃ veda ‖*) (Tai. Ā. 2-2)
+
+Formerly the rākṣasas practised fierce austerity. Then the god Prajāpati appeared before them and asked what boon they wished. They then prayed: "Grant us the power and the opportunity to fight with the Sun." Prajāpati consented, saying "So be it." For that reason, as soon as the Sun rises the rākṣasas begin to fight with him, and they go on fighting until the time of his setting. But they can be driven away by water purified by the recitation of the Gāyatrī. For that reason the Brahmavādins, at the morning twilight (and at the evening twilight too), recite the Gāyatrī and offer the arghya with water purified by it. These drops of water offered as arghya turn into thunderbolts and hurl the rākṣasas into the island named Mandehāruṇa. Thereafter the Brahmavādins, by worship accompanied by circumambulation and obeisance, remove their sin. The Brāhmaṇa (the knower of Brahman) who knows this principle, if at sunrise and also at sunset he recites the Gāyatrī, offers the arghya, and thereby worships and meditates on the Āditya, obtains every kind of good (welfare). The Āditya is the Supreme Brahman. The man who, knowing that the Āditya, to be worshipped through the Gāyatrī, is Brahman, performs the worship, attains union with Brahman and becomes of the form of Brahman: thus the recitation of the Gāyatrī is praised.
+
+### Printed p. 839
+
+यत्र दश शता सह तस्थुः देवानां वपुषं श्रेष्ठं—यस्मिंश्च मंडले सहस्रसंख्याका रश्मयस्तिष्ठंति तादृशं देवानां वपुष्मतां तेजोवतामग्न्यादीनां प्रशस्यं । (*yatra daśa śatā saha tasthuḥ devānāṃ vapuṣaṃ śreṣṭhaṃ—yasmiṃśca maṃḍale sahasrasaṃkhyākā raśmayastiṣṭhaṃti tādṛśaṃ devānāṃ vapuṣmatāṃ tejovatāmagnyādīnāṃ praśasyaṃ |*) In that orb of the Sun thousands of rays dwell. And that orb of the Sun, being endowed with a mass of splendour, is of the nature of the bodies of the gods such as Agni. The bodies of the gods, unlike the bodies of men, are free of any earthly connection and are distinguished by splendour. The matter stated here is that the orb of the Sun itself is the dwelling place of the bodies of such gods. Or else the commentator has said that another kind of meaning of this sentence is also possible: मंडलं हि सूर्यस्य वपुःस्थानीयं । तन्मंडलमपश्यं । नां युवयोर्मध्यॆ सूर्यस्य मंडलमपश्यमिति व्याख्येयं । मैत्रं ना अहः । वारुणी रात्रिः (तै ब्रा. १-७-१०-१) इति श्रुतेर्मित्रसैव सूर्यत्वादित्याशयेन । (*maṃḍalaṃ hi sūryasya vapuḥsthānīyaṃ | tanmaṃḍalamapaśyaṃ | nāṃ yuvayormadhyè sūryasya maṃḍalamapaśyamiti vyākhyeyaṃ | maitraṃ nā ahaḥ | vāruṇī rātriḥ (tai brā. 1-7-10-1) iti śrutermitrasaiva sūryatvādityāśayena |*) That is, the orb of the Sun is like a body to the Sun. The seer says: "I have seen such an orb of the Sun." Or else the meaning may be given: "Between you, Mitra and Varuṇa, I have seen the orb of the Sun." How? Mitra is the presiding deity of the day and Varuṇa the presiding deity of the night. Therefore the meaning may be explained also thus: "In the midst of day and night I have seen the day, or the orb of the Sun."
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्सु नां॑ मित्रावरणा महि॒त्वमी॒र्मा त॒स्थुषी॒ रह॑भिर्दुदुहे ।  
+> विश्वाः॑ पिन्वथः॒ स्वस॑रस्य॒ धेना॒ अनु॑ वा॒मेकः॑ प॒विरा न॑वर्त ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सु । वां । मित्रावरुणा । महित्वं । ईर्मा । तस्थुषीः । अहभिः । दुदुहे ।  
+> विश्वाः । पिन्वथः । स्वसरस्य । धेनाः । अनु । वां । एकः । पविः । आ । ववर्त ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणा वांयु वसोस्तन्महित्वं महत्त्वं सु सुष्टु । अतिप्रशस्तमित्यर्थः। किं तदित्युच्यते । ईर्मा सततगंता सर्वस्य प्रेरको वादित्योऽहभिरहो-
+
+##### Gist of the bhāṣya
+
+"O Mitra and Varuṇa, that greatness of you two is excellent, that is, exceedingly praiseworthy." What is it? The Āditya, who is ever-moving or the impeller of all, through the days (the sentence continues in the next part). **NOTE**
+
+### Printed p. 840
+
+> भिर्वर्ष-तुर्संबंधिभिस्तस्थुषीः स्थावरभूता अपो दुदुह्रे । दुग्धे । किंच स्वसरस्य
+> स्वयं सर्तुरादित्यस्यविश्वाः सर्वाः धेना लोकानां प्रीणयित्रीर्द्युतीः पिन्वथः ।
+> वर्धयथः नां युवरोरेकोऽप्रतियोगी पविः । पविरिति रथस्य नेमिः पवी
+> रथनेमिर्भवति । नि. ५-५ । इति यास्कवचनात् । तथाप्यत्र लक्षितलक्षणया रथे वर्तते
+> केवलचक्रस्यावर्तनायोगात् । युवयोरेको रथोऽन्वा ववर्त । अनुक्रमेण
+> परिभ्रमति ॥
+
+##### Gist of the bhāṣya
+
+Through days connected with the rainy season he has milked the waters that stood still. Moreover, of the Sun who moves by himself (स्वसरस्य (*svasarasya*)) you two increase all the cows, that is, the lights that gladden the worlds. Of you two there is one unrivalled पविः (*paviḥ*). The word पविः (*paviḥ*) means the rim of a chariot wheel, by the statement of Yāska (Ni. 5-5). Even so, here by indirect meaning it stands for the chariot, since a wheel alone cannot revolve. The one chariot of you two goes round in succession, that is, revolves in order.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa, (by which greatness of yours)
+- ईर्मा (*īrmā*)—the ever-moving Āditya
+- अहभिः (*ahabhiḥ*)—through the days that help him
+- तस्थुषीः (*tasthuṣīḥ*)—the waters that stood motionless
+- दुदुहे (*duduhe*)—makes to pour down
+- तत् (*tat*)—such
+- नां महित्वं (*nāṃ mahitvaṃ*)—your greatness **NOTE**
+- सु (*su*)—is exceedingly praiseworthy
+- स्वसरस्य (*svasarasya*)—of the Āditya who is of the nature of moving
+- धेनाः (*dhenāḥ*)—which delight the world
+- विश्वाः (*viśvāḥ*)—all the rays
+- पिन्नथः (*pinnathaḥ*)—you nourish **NOTE**
+- नां (*nāṃ*)—to both of you
+- एकः (*ekaḥ*)—the common
+- पविः (*paviḥ*)—chariot
+- अनु आ ववर्त (*anu ā vavarta*)—goes about everywhere eternally
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, that greatness of yours, by which the ever-moving Āditya, through the days that help him, makes the waters that stood motionless pour down, is exceedingly praiseworthy. You nourish all the rays of the Āditya, whose nature is to move and which delight the world. The one chariot common to you both goes about everywhere eternally.
+
+##### English translation
+Exceeding is that your greatness, Mitra and Varuna, whereby the
+evet-moving sun has, through (succeeding, days, milked forth the stationary
+waters : you augment all the (world-illumining) rays of the self-resolving
+(sun) : the one chariot of you two (perpetually) goes round.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the greatness of Mitra and Varuṇa is described. The seer describes it in three different ways in three sentences.
+
+ईर्मा अहभिः तस्थुषीः दुदुहे तत् वां महित्वं— ईर्मा सततगंता सर्वस्य प्रेरको वादित्योऽहभिरहोभिर्वर्षतुसंबंधिभिः स्थावरभूता अपो दुदुहे दुग्धे । (*īrmā ahabhiḥ tasthuṣīḥ duduhe tat vāṃ mahitvaṃ— īrmā satatagaṃtā sarvasya prerako vādityo 'habhirahobhirvarṣatusaṃbaṃdhibhiḥ sthāvarabhūtā apo duduhe dugdhe |*) Because he is of a nature to move at all times, ईर्मा (*īrmā*) means the Āditya. Or
+
 ---
 
-**Progress note:** Done through printed p. 834. Sūkta 62 introduction (Mitra-Varuṇa) end; Sūkta 62 heading and bhāṣya
+**Progress note:** Done through printed p. 840. Sūkta 62 Ṛk 1 and Ṛk 2 (to Special Topics)
