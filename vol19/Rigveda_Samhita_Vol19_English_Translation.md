@@ -28388,6 +28388,179 @@ As is commonly the case in the last Ṛk of a sūkta, where a prayer for the ful
 > पा॒व॒केभि॑र्विश्वमि॒न्वेभि॑रा॒युभि॒र्वैश्वा॑नर प्र॒दिवा॑ के॒तुना॑  ॒
 > सजूः ॥ ८ ॥
 
+### Printed p. 792
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । मरुत्भिः । शुभयत्भिः । ऋक्वभिः । सोमं । पिब । मंदसानः ।  
+> गणश्रिभिः ।  
+> पावकेभिः । विश्वं इन्वेभिः । आयुभिः । वैश्वानर । प्रदिवा । केतुना । सजूः ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने मरुद्भिरित्यष्टम्याग्निम्यारुतस्य याज्या । अग्ने मरुद्भिः शुभयद्भिर्यक्वभिः । आ. ५ - २० । इति सूत्रितत्वात् ॥
+> हे अग्ने मरुद्भिः सह मंदसानः सन् सोमं पिब । कीदृशैर्मरुद्भिः ।
+> शुभयद्भिः शोभमानैरन्यान् शोभयद्भिर्वा ऋक्वभिः स्तुत्यैर्गणश्रिभिर्गणभावमाश्रयद्भिः पावकेभिः शोधकैर्विश्वमिन्वेभिर्विश्वं वृष्टा प्रीणयद्धिरायुभिरायुष्मद्भिः । हे वैश्वानर विश्वनरहिताग्ने प्रदिवा पुराणेन केतुना ज्वालापुंजेन सजूः
+> सहितः ॥
+
+##### Gist of the bhāṣya
+
+The eighth Ṛk, beginning अग्ने मरुद्भिः (*agne marudbhiḥ*), is the yājyā of the offering to Agni and the Maruts, since it is laid down in the sūtra अग्ने मरुद्भिः शुभयद्भिर्यक्वभिः (*agne marudbhiḥ śubhayadbhiryakvabhiḥ*) (Ā. 5 - 20). O Agni, drink the soma, rejoicing together with the Maruts. Of what kind are these Maruts? They are shining, or they make others shine; praiseworthy, worthy of hymns; those who take on the condition of a troop; purifiers; those who gratify the whole world with rain; and endowed with long life. O Vaiśvānara, Agni, benefactor of all men, you are accompanied by your ancient banner, the mass of flame.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्नि (*agni*)—O Agni
+- शुभयद्भिः (*śubhayadbhiḥ*)—shining
+- ऋक्वभिः (*ṛkvabhiḥ*)—praiseworthy
+- गणश्रिभिः (*gaṇaśribhiḥ*)—gathered together in the form of a troop
+- पावकेभिः (*pāvakebhiḥ*)—purifying
+- विश्वमिन्वेभिः (*viśvaminvebhiḥ*)—who gratify the world with rain
+- आयुभिः (*āyubhiḥ*)—long-lived Maruts
+- मरुद्भिः (*marudbhiḥ*)—together with the Maruts
+- मंदसानः (*maṃdasānaḥ*)—experiencing delight
+- सोमं (*somaṃ*)—the soma
+- पिब (*piba*)—drink
+- वैश्वानर (*vaiśvānara*)—O Agni, who are of the form of Vaiśvānara
+- प्रदिवा (*pradivā*)—ancient
+- केतुना (*ketunā*)—with your banner of the form of flame (a mass of flame)
+- सजूः (*sajūḥ*)—united; (drink)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, rejoicing together with the Maruts, who are shining, praiseworthy, gathered together in troops, purifying, gratifying the world with rain, and long-lived, drink the soma. O Agni, who are of the form of Vaiśvānara, united with your ancient banner of the form of flame, drink the soma.
+
+##### English translation
+Agni, drink the Soma-juice, rejoicing, along with the Maruts,
+### Printed p. 793
+resplendent, adorable, associated in troops, purifying all, animating and long-lived : drink, Vaiswanara, who are identified with the ancient emblem (of flame).
+
+##### विशेषविषयगळु (Special Topics)
+
+When offering oblation to the deities Agni and the Maruts, this Ṛk beginning अग्ने मरुद्भिः (*agne marudbhiḥ*) is to be recited as the yājyā mantra, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra अग्ने मरुद्भिः शुभयद्भिर्युक्वभिः (*agne marudbhiḥ śubhayadbhiryukvabhiḥ*) (Ā. 5-20).**NOTE** In this Ṛk too Agni is prayed to drink the soma, delighted, together with the Maruts.
+
+The sixty-first hymn.
+
+## Sūkta 61 (Maṇḍala 5)
+
+The commentator has told an earlier story about this hymn—
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्राश्चर्यं पुरावृत्तमाहुरागमपारगाः ।
+> अर्चनानाः पुरात्रेयो दार्भ्येण रथवीतिना ॥
+> आर्त्विज्याय वृतो यज्ञे वितते हौत्र आस्थितः ।
+> रथवीतिसुतां कन्यां ददर्श पितुरंतिके ॥
+> ययाचे स्वकुमाराय श्यावाश्वाय च तां सुतां ।
+> स प्रदानमना भार्यामपृच्छक्किं प्रयच्छसि ॥
+> इति पृष्टा पुनः प्राह कथमस्मै प्रदास्यसि ।
+> इतः पूर्वं सुता दत्ता नासीदनृषये क्वचित् ॥
+> तत्तथैवेति निश्चित्य प्रत्याचष्टार्चनानसं ।
+> श्यावाश्वः संस्थिते यज्ञे तेन राज्ञा निराकृतः ॥
+> तत्पत्याशान्वितो विप्रस्तपस्तेपे सुदारुणं ।
+> ब्रह्मचर्यरतः शांतो भिक्षार्थं पर्यटन् द्विजः ॥
+
+### Printed p. 794
+
+> तरंतमहिषीं साध्वीं बिभिक्षेऽसौ शशीयसीं !
+> सा संप्राप्यांतिके पत्युः प्रोवाचागतवानृषिः ॥
+> इत्युक्तो नृपतिर्भार्यां प्रत्याहैनं प्रपूजय ।
+> सानुज्ञाता गवां यूथं प्रादादाभरणानि च ॥
+> तरंतोऽपि पुनस्तस्मै प्रादाद्दनमपेक्षितं ।
+> दत्वा च पुरुमाळस्य स्वानुजस्यांतिकं प्रति ॥
+> प्रेरयामास तमृषिं सोऽपि त्वां मानयिष्यति ।
+> तथेति राज्यो वचनं निशम्य तद्भार्यया दर्शितसर्वमार्गः ॥
+> गच्छन् शनैरर्धपथे मरुद्धणान् समानरूपान् स्वदिदृक्षयागतान् ।
+> विलोक्य विप्रः सभयः प्रणम्य कृतांजलिः कंटकितांगसंघः ॥
+> तुष्टाव हृष्टान् मरुतो विशिष्टैरर्थैर्वचोभिः परितुष्टचित्तः ।
+> संप्रास्य सर्वं स्वमनीषितं तदा मरुद्धणेभ्यो मुदितात्मवद्ध्यः ॥
+> तदाभवदृषिः सूक्तद्रष्टा श्यावाश्वनामकः ।
+> पश्चात्सुनर्गृहं गत्वा भूयो लब्ध्वा गवां शतं ॥
+> दार्भ्यो मंत्रदृशे राज्ञा चोदितः स्वसुतां ददौ ।
+> पुरुमाळ स्तरंतश्च तद्भार्र्या च शशीयसी ॥
+> दार्भ्यो यो रथवीत्याख्यः सप्त ये मरुतां गणाः ।
+> ते तस्मै यद्ददुस्तुष्टास्तत्के श्रेत्यत्र वर्ण्यते ॥
+
+##### Gist of the bhāṣya
+
+Those versed in the Āgama tell an astonishing past event. Formerly Arcanānas, of Atri's line, was chosen by Dārbhya Rathavīti as priest for his sacrifice and, when the sacrifice was extended, took his place as Hotṛ. There he saw Rathavīti's daughter near her father and asked for the maiden for his own son Śyāvāśva. The king, willing to give her, asked his wife what she would say. Asked thus, she answered: how can you give her to him? Never before has a daughter of ours been given to one who is not a seer. Resolving that it must be so, the king refused Arcanānas, and when the sacrifice was completed Śyāvāśva was rejected by that king. Hoping to win that maiden, the brahmin practised very severe austerity, devoted to chastity and peaceful, and wandered for alms. He begged alms from Taranta's queen, the virtuous Śaśīyasī; she went to her husband and told him that the seer had come. The king told his wife to honour him; with his leave she gave a herd of cows and ornaments. Taranta too gave him again the wealth he desired, and, having given it, sent the seer to his own younger brother Purumīḷha, saying that he too would honour him. Hearing the king's word, and with the whole road shown by the queen, the brahmin went slowly, and halfway saw the hosts of the Maruts, of equal form, who had come out of a wish to see him. Seeing them, the brahmin, afraid, bowed with folded hands, his body bristling. He praised the delighted Maruts with choice words and meanings, and, with his mind well satisfied, obtained from the hosts of the Maruts everything he wished, and was glad. Then the seer, named Śyāvāśva, became the seer of the hymn. Afterwards he went home again and obtained a hundred more cows; Dārbhya, urged by the king, gave his own daughter to the seer of the mantra. Purumīḷha, Taranta and his wife Śaśīyasī, Dārbhya called Rathavīti, and the seven hosts of the Maruts: what these, being pleased, gave him is described here in the hymn के ष्ठा (*ke ṣṭhā*).**NOTE**
+
+Learned men who have mastered the Āgama-śāstra have told in this way an exceedingly wonderful earlier story. In former times a royal seer named Rathavīti Dārbhya prayed to the seer named Arcanānas, born in the family of Atri, to take up the priestly office at the sacrifice that he was performing and to conduct the sacrifice. Accepting the king's prayer, Arcanānas went with his son Śyāvāśva to the king's sacrificial hall, and there, taking the part of the priest called Hotṛ, was engaged in the sacrificial rites. While this was so, he saw the king's daughter seated near King Rathavīti, and asked the king to give this maiden in marriage to his son Śyāvāśva. Although the king agreed to this, he went into the inner apartments to ask his wife about the matter and learn her opinion, and asked her what her opinion was about giving his daughter to Arcanānas's son Śyāvāśva. His wife said: "O husband, how is it possible to give our daughter to this Śyāvāśva? He is not a seer. Until now we have never given a maiden in marriage, in our family, to one who was not a seer. Therefore it is not possible to give our daughter in marriage to Śyāvāśva." Thus she made her opinion clear. The king approved this very opinion and informed Arcanānas of the matter. When the king thus rejected his request, Śyāvāśva left that place while the sacrifice was still going on, returned to his hermitage, and performed severe austerity. Observing the vow of chastity strictly and with a peaceful mind, he practised austerity.
+### Printed p. 795
+One day, as this Śyāvāśva was going about for alms, he begged alms from the royal queen Śaśīyasī, the virtuous wife of a king named Taranta. Hearing it, the queen went to her husband and told him that a seer had come for alms, and the king said to her: "Honour that seer with fitting hospitality." By the king's leave the queen honoured the seer Śyāvāśva by giving him many cows and divine ornaments. King Taranta too gave Śyāvāśva as much wealth and other gifts as he needed, entertained him, and sent him to his younger brother, a king named Purumīḷa, saying that if he went to him he too would give him wealth and other gifts as he wished. Śyāvāśva agreed to the king's word, and while he was going by the road shown by the queen, he saw the Marut deities coming toward him on the way. Seeing all of them shining, of equal form and shape, this Śyāvāśva, with fear and devotion, with folded hands and a cheerful mind, praised those deities in many ways with words full of meaning. Pleased by that praise, the Marut deities granted that the seer's wish be fulfilled. And since he had praised the Marut deities, Śyāvāśva became a seer of the hymn. Learning this, King Rathavīti and his wife also came to Śyāvāśva's house, honoured him, the seer of the mantra, by giving him a hundred cows, and gave their daughter to him in marriage. All this, that is, whatever Purumīḷa, Taranta, his wife Śaśīyasī, King Dārbhya Rathavīti and the seven hosts of the Maruts gave to him (Śyāvāśva) and entertained him with, the seer Śyāvāśva has described in this hymn beginning के ष्ठा नरः (*ke ṣṭhā naraḥ*).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> के ष्ठा नर इत्येकोनविंशत्यृचं पंचमं सूक्तं । अत्रानुक्रमणिका । के
+> ष्ठैकोना गायत्रं श्यावाश्वोऽत्र वैधदश्वी तरंतपुरुमीळ्हा दार्भ्यं रथवीतिं
+> मरुतश्च दानतुष्टः प्रशशंस बुध्वा च तरंतमहिषीं शशीयसीं पंचम्यनुष्टुप्
+
+### Printed p. 796
+
+> नवमी सतोबृहतीति । श्वानाश्व ऋषिः । पंचम्यनुष्टुप् नवमी सतोबृहती
+> शिष्टा गायत्र्यः । आद्याश्चतस्रो मरुद्देवताकाः । सनत्सेत्यादीनां चतसृणां शशीयसी नाम तरंतस्य राज्यो भार्या देवता । उत मेऽरपदित्यस्या वैददश्विः पुरुमीळ्वो देवता । यो मे धेनूनामित्यस्या वैददश्विस्तरंतो राजा देवता । य
+> ईं वहंत इत्याद्याः षण्मारुत्यः । एतं म इत्यस्य तृचस्य दार्भ्यो रथवीतिनाम
+> राजा देवता ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The fifth hymn, of nineteen Ṛks, begins with के ष्ठा नर इत्येकोनविंशत्यृचं (*ke ṣṭhā nara ityekonaviṃśatyṛcaṃ*). The Anukramaṇikā says that it is in Gāyatrī metre; that Śyāvāśva is the seer; that, pleased with the gifts, he praised Taranta, Purumīḷha, Dārbhya Rathavīti and the Maruts, and, having learned of it, Taranta's queen Śaśīyasī; that the fifth Ṛk is in Anuṣṭubh and the ninth in Satobṛhatī. The seer is Śyāvāśva; the fifth Ṛk is Anuṣṭubh, the ninth Satobṛhatī, and the rest are Gāyatrī. The first four Ṛks have the Maruts as deity. For the four beginning सनत्सेत्यादीनां (*sanatsetyādīnāṃ*) the deity is Śaśīyasī, the wife of King Taranta. For the Ṛk मेऽरपदित्यस्या (*me 'rapadityasyā*) the deity is Purumīḷha, son of Vidadaśva. For the Ṛk यो मे धेनूनामित्यस्या (*yo me dhenūnāmityasyā*) the deity is King Taranta, son of Vidadaśva. The six beginning ईं वहंत (*īṃ vahaṃta*) are addressed to the Maruts. For the triplet एतं म इत्यस्य तृचस्य (*etaṃ ma ityasya tṛcasya*) the deity is the king named Dārbhya Rathavīti. The application is by indication.**NOTE**
+
+This hymn beginning के ष्ठा नरः (*ke ṣṭhā naraḥ*) is the fifth hymn in the fifth Anuvāka. It has nineteen Ṛks. In the Anukramaṇikā it is said: के ष्टैकोना गायत्रं श्यावाश्वोऽत्र वैददश्वी तरंतपुरुमाळ् दार्भ्यं रथवीतिं मरुतश्च दानतुष्टः प्रशशंस बुध्वा च तरंतमहिषीं शशीयसीं पंचम्यनुष्टुप् नवमी सतोबृहती (*ke ṣṭaikonā gāyatraṃ śyāvāśvo 'tra vaidadaśvī taraṃtapurumāḷ dārbhyaṃ rathavītiṃ marutaśca dānatuṣṭaḥ praśaśaṃsa budhvā ca taraṃtamahiṣīṃ śaśīyasīṃ paṃcamyanuṣṭup navamī satobṛhatī*). The seer of this hymn is Śyāvāśva. The fifth Ṛk is in Anuṣṭubh metre; the ninth Ṛk is in Satobṛhatī metre. The remaining Ṛks are in Gāyatrī metre. The first four Ṛks of this hymn have the Maruts as deity. For the four Ṛks that follow, beginning with the Ṛk सनत्साश्वं (*sanatsāśvaṃ*) (Ṛks 5-8), the deity is the woman Śaśīyasī, wife of a king named Taranta; for the Ṛk उत मेऽरपत् (*uta me 'rapat*) (Ṛk 9) the deity is Purumīḷa, son of Vidadaśva; for the Ṛk यो मे धेनूनां (*yo me dhenūnāṃ*) (Ṛk 10) the deity is the king named Taranta, son of Vidadaśva; the following six Ṛks (Ṛks 11-16), beginning with यं ई वहंतः (*yaṃ ī vahaṃtaḥ*), have the Maruts as deity; for the following three Ṛks (Ṛks 17-19), beginning with एतं मे (*etaṃ me*), the deity is the king named Dārbhya Rathavīti. The application is by indication.
+
+- Sūkta: 61
+- Maṇḍala 5; Anuvāka 5; Sūkta 61
+- Aṣṭaka 4; Adhyāya 3; Varga 26, 27, 28, 29
+- Number of Ṛks in the Sūkta: 19
+- Ṛṣi: Śyāvāśva Ātreya
+- Devatā: 1-4, 11-16, the Maruts; 5-8, Śaśīyasī, queen of Taranta; 9, Purumīḷha Vaidadaśvi; 10, Taranta Vaidadaśvi; 17-19, Rathavīti Dālbhya
+- Chandas: 1-4, 6-8, 10-19 Gāyatrī; 5 Anuṣṭubh; 9 Sadobṛhatī
+
+### Printed p. 797
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> के ष्ठा॑ नरः॒ श्रेष्ठ॑तमा॒ य एक॑एक आय॒य ।  
+> प॒र॒मस्याः॑ परा॒वतः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> के । स्थ । नरः । श्रेष्ठतमाः । ये । एकःएकः । आयय ।  
+> परमस्याः । परावतः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरो नेतारो मरुतः श्रेष्ठतमा अत्यंतं श्रेष्ठा यूयं के ष्ठ । के
+> स्थ । के भवथ । एवं स्वरूपानिश्चयात्संदिह्य ब्रवीति । ये यूयमेक एकः
+> प्रत्येकमायय आगच्छथ । कस्मादित्युच्यते । परमस्याः परावतोऽत्यंतदूरदेशात् ।
+> अंतरिक्षादित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O leaders, Maruts, most excellent, who are you? Being uncertain of their true nature, he asks in doubt: who are you? You who come one by one, each separately, from the farthest distance, from a very remote region, that is, from the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O Maruts, leaders
+- ये (*ye*)—you who
+- एकएकः (*ekaekaḥ*)—individually
+- परमस्याः (*paramasyāḥ*)—of the extreme
+- परावतः (*parāvataḥ*)—from a distant region
+- आयय (*āyaya*)—you come, such as
+- श्रेष्ठतमाः (*śreṣṭhatamāḥ*)—you who are most excellent
+- के ष्ठ (*ke ṣṭha*)—where were you? from where have you come?
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, leaders, you who come individually from a very distant region, you who are most excellent, where were you? From where have you come?
+
+##### English translation
+Who are you, most excellent leaders (of rites), who come one by one from a region exceedingly remote?
+
+##### विशेषविषयगळु (Special Topics)
+
+O Maruts, although you are separate, you have all gathered together and come here. Moreover, you have come from a very distant region. Where were you until now? From where have you now come, thus
+
 ---
 
-**Progress note:** Done through printed p. 791. Ṛks 4-8 of Sūkta 60 (Maṇḍala 5), pp. 785-791
+**Progress note:** Done through printed p. 797. Ṛk 8 of Sūkta 60 completed; Sūkta 61 introduction and Ṛk 1 begun, pp. 792-797
