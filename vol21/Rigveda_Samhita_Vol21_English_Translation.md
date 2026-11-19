@@ -13800,6 +13800,327 @@ A certain seer named Atiyāja sacrificed to the gods with the thought: "May I be
 
 I do not approve of the sacrificial act done by the seer Atiyāja as fit to be joined with the gods of the heavenly world. Nor do I approve of it as fit to approach the gods of the earth. It is certainly not equal to the sacrifice I perform. I cannot accept it as equal to the other works done by me. May the gods who are in a lofty place and are with Indra injure that seer Atiyāja. May the performer of the sacrifice, the representative of Atiyāja, meet with utter destruction.
 
+### Printed p. 317
+
+##### English translation
+I do not regard it as worthy (of the gods) of heaven, or (of those) of earth, as (fit to be compared) with the sacrifice (I offer), or with these (our) sacred rites: let, then, the mighty mountains overwhelm him; let the employer of Atiyaja be ever degraded.
+
+##### विशेषविषयगळु (Special Topics)
+
+In former times a seer named Atiyāja wished to become greater than the seer Ṛjiśva, the seer of this sūkta, and for that purpose tried to propitiate the gods with sacrifices and the like. Learning of it, Ṛjiśva became angry with that Atiyāja and reviles him and his sacrificial work. That very matter is stated in this Ṛk.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॑ वा॒ यो म॑रुतो॒ मन्य॑ते नो॒ ब्रह्म॑ वा॒ यः क्रि॒यमा॑णं॒  ॑
+> निनित्सात् ।  
+> तपूं॑षि॒ तस्मै॑ वृजि॒नानि॑ संतु ब्रह्म॒द्विष॑म॒भि तं शो॑चतु॒ द्यौः ॥  
+> ॥ पवचन ॥  
+> आति॑ । वा॒ । यः । म॑रुतः ।॒ मन्य॑ते । नः ।॒ ब्रह्म॑ । वा॒ । यः । क्रि॒यमा॑णं॒ । निनि॑त्सात् ।  
+> तपूं॑षि॒ । तस्मै॑ । वृज॒नानि॑ । संतु । ब्रह्म॒द्विषं॑ । अ॒भि । तं । शो॑चतु॒ । द्यौः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यः पुरुषो नोऽस्मानति मन्यते अतीत्य स्वस्याधिक्यं मन्यते
+> अस्मत्तोऽपि स्वयमधिक इति बुध्यते । अस्माभिः क्रियमाणं ब्रह्म स्तोत्रं वा यो
+> निनित्सात् निंदितुमिच्छेत् तस्मै पुरुषाय तपूंषि तेजांसि वृजिनानि बाधकानि संतु ।
+> भवंतु । ब्रह्मद्विषं तं शत्रुं द्यौरादित्यश्चाभिशोचतु । अभितहतु । अभिदहतु ॥
+
+##### Gist of the bhāṣya
+
+Addressing the Maruts, Sāyaṇa explains: the man who looks down on us, that is, who thinks himself superior even to us; and who would wish to disparage the hymn (or praise) that we perform — for that man let the energies (tapūṃṣi) be afflicting, harmful. As for the enemy who hates the hymn (brahmadviṣ), may Dyaus, the sun, scorch him, burn him on every side.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यः (*yaḥ*)—the man who
+- नः (*naḥ*)—us
+- अति मन्यते (*ati manyate*)—despises, and thinks himself higher than we are
+- क्रियमाणं (*kriyamāṇaṃ*)—being performed by us
+
+### Printed p. 318
+
+- ब्रह्म वा (*brahma vā*)—the hymn too
+- यः (*yaḥ*)—the man who
+- निनित्सात् (*ninitsāt*)—would slander
+- तस्मै (*tasmai*)—to that man
+- तपूंषि (*tapūṃṣi*)—your energies
+- व्यजिनानि (*vyajināni*)—as causes of harm
+- संतु (*saṃtu*)—let them be
+- ब्रह्मद्विषं (*brahmadviṣaṃ*)—who hates our hymns and the like
+- तं (*taṃ*)—that enemy
+- द्यौः (*dyauḥ*)—Āditya, the sun
+- अभि शोचतु (*abhi śocatu*)—let him cause to decay
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, may your energies prove destructive to the lot of the man who despises us and thinks himself greater than we are, and who slanders the hymn that is performed by us. May Āditya cause that enemy, who hates our hymns and the like, to decay.
+
+##### English translation
+Maruts, may the energies of that man be enfeebld : may heaven consume that impious adversary who thinks himself superior to us, and who pretends to depreciate the worhip that we offer.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमं॒ग त्वा॒ ब्रह्म॑णः सोम गो॒पां किमं॒ग त्वा॑हुरभिशस्ति॒पां नः॑ ।  
+> किमं॒ग नः॑ पश्यसि नि॒द्यमा॑नान्ब्रह्म॒द्विषे॒ तपु॑षिं हे॒तिम॑स्य ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । अंग । त्वा । ब्रह्मणः । सोम । गोपां । किं । अंग । त्वा । आहुः । अभिशस्तिपां । नः ।  
+> किं । अंग । नः । पश्यसि । निद्यमानान् । ब्रह्मद्विषे । तपुषिं । हेतिं । अस्य ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> किमंगेति प्रसिद्धिद्योतकौ निपात् । हे सोम त्वा त्वां खलु ब्रह्मणो
+> मंत्रस्य कर्मणो वा ब्रह्मजातेर्वा गोपां गोपायितारमाहुः । कथयंति
+> पुराविदः । तथा नोऽस्माकमभिशस्तिपामभिशंसकेभ्यः पालयितारं त्वामेव खल्वाहुः ।
+> यद्वा । अंगेत्यभिमुखीकरणे । अंग हे सोम किंकारणं त्वां ब्रह्मणो गोपा-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes किमंग (*kimaṃga*) as two particles expressing what is well known. O Soma, those who know of old call you the protector (gopā) of the brahman, that is, of the mantra, or of the rite, or of the Brahmin class; and likewise they call you, and no other, the guardian of us against those who denounce us. Or else: अंग (*aṃga*) is a word of addressing; "O Soma, for what reason do they call you protector of the brahman, and for what reason do they call you our protector against calumny?"
+
+### Printed p. 319
+
+> माहुः । किंकारणं वा त्वामस्माकमभिशस्तिपामाहुः । निद्यमानात् परैर्दूष्यमाणान्नोऽस्मानंग हे सोम किंकारणं पश्यसि । त्वामेव सर्वे ब्रह्मणो रक्षकं
+> शत्रुभ्यः पालकं च कथयिंति अतोऽस्मासु परैर्निंद्यमानेष्वौदासीन्यं तवानुचितं ।
+> अतो ब्रह्मद्विषे ब्राह्मणद्देष्टे तस्यॆ तपुषिं तापकं हेतिमायुधमस्य । क्षिप ।
+> प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+"For what reason do you look on us, who are reviled by others? All call you alone the guardian of the brahman and the protector against enemies; therefore indifference on your part while we are reviled by others is unbecoming. So hurl and send forth your scorching weapon (hetiṃ) against him who hates the Brahmin or the brahman."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंग सोम (*aṃga soma*)—O divine Soma
+- त्वा (*tvā*)—you
+- ब्रह्मणः (*brahmaṇaḥ*)—of the mantra or of the rite
+- गोपां (*gopāṃ*)—as the protector
+- किं आहुः (*kiṃ āhuḥ*)—why have they said
+- नः (*naḥ*)—to us
+- अभिशस्तिपां (*abhiśastipāṃ*)—as one who protects from enemies
+- किं (*kiṃ*)—why have they praised you
+- अंग (*aṃga*)—O Soma
+- निद्यमानान् (*nidyamānān*)—who are reviled by enemies
+- नः (*naḥ*)—us
+- किं (*kiṃ*)—why
+- पश्यसि (*paśyasi*)—do you look on (indifferently)
+- अंग (*aṃga*)—O Soma
+- ब्रह्मद्विषे (*brahmadviṣe*)—upon one who hates the praiser or the Brahmin
+- तपुषिं (*tapuṣiṃ*)—that burns
+- हेतिं (*hetiṃ*)—the weapon
+- अस्य (*asya*)—hurl
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, why have the praisers called you the protector of the mantras and of the rite? Why have they praised you as the one who protects us from enemies? O Soma, why do you look on us indifferently while we are reviled by enemies? O Soma, hurl your burning weapon upon the enemy who hates the praiser or the Brahmin.
+
+##### English translation
+Why have they called you, Soma, the protector of pious prayer ? why (have they called you) our defender against calumny ? why do you behold us subjected to reproach ? cast your destroying weapon upon the adversary of the Brahman.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवं॑तु॒ मामु॒षसो॒ जाय॑माना॒ अवं॑तु मा॒ सिंध॑वः॒  ॑
+> पिन्वमानाः ।  
+> अवं॑तु मा॒ पर्व॑तासो ध्रु॒वासोऽवं॑तु मा पि॒तरो॑  ॒॑
+> देवहूत् ॥ ४ ॥
+
+### Printed p. 320
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवंतु । मां । उषसः । जायमानाः । अवंतु । मा । सिंधवः । पिन्वमानाः ।  
+> अवंतु । मा । पर्वतासः । ध्रुवासः । अवंतु । मा । पितरः । देवहूत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जायमानाः प्रादुर्भवंत्य उषसो मामवंतु । रक्षंतु । तथा पिन्नमाना
+> वर्धमानाः सिंधवः स्यंदनशीला नद्यश्च मा मामवंतु । तथा ध्रुवासो निश्चलाः
+> पर्वतासः पर्वताश्च मा मामवंतु । तथा देवहूत् । देवानां हूतिराह्वानमस्मिन्निति देवहूतिर्यागः । तत्र विद्यमानाः पितरः पितृदेवताश्च मामवंतु ॥
+
+##### Gist of the bhāṣya
+
+Let the dawns, as they are born, that is, appear, protect me. Likewise let the rivers, flowing and swelling, protect me; let the firm, unmoving mountains protect me. And let the fathers, the deities of the ancestors, who are present at the devahūti, that is, the sacrifice in which the gods are invoked, protect me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जायमानाः (*jāyamānāḥ*)—that are born every day
+- उषसः (*uṣasaḥ*)—the Dawn goddesses
+- मां (*māṃ*)—me
+- अवंतु (*avaṃtu*)—let them protect
+- पिन्नमानाः (*pinnamānāḥ*)—that grow
+- सिंधवः (*siṃdhavaḥ*)—the rivers
+- मा (*mā*)—me
+- अवंतु (*avaṃtu*)—let them protect
+- ध्रुवासः (*dhruvāsaḥ*)—firm
+- पर्वतासः (*parvatāsaḥ*)—the mountains
+- मा (*mā*)—me
+- अवंतु (*avaṃtu*)—let them protect
+- देवहूत् (*devahūt*)—who are in the sacrificial place where the gods are worshipped
+- पितरः (*pitaraḥ*)—the deities of the ancestors
+- मा अवंतु (*mā avaṃtu*)—let them protect me
+
+##### भावार्थ (Bhāvārtha)
+
+May the Dawn goddesses, who are born every day, protect me. May the rivers, which grow, protect me. May the firm mountains, and the deities of the ancestors who are in the sacrificial place where the gods are worshipped, protect me.
+
+##### English translation
+May the opening dawns preserve me : may the swelling rivers preserve me ; may the firm-set mountains preserve me : may the progenitors (present) at the invocation of the gods preserve me.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒श्व॒दानीं॑ सु॒मन॑सः स्याम॒ पश्ये॑म॒ नु सूर्य॑मु॒च्चरं॑तं ।  
+> तथा॑ कर॒द्वसु॑पति॒र्वसू॑नां दे॒वा ओहा॒नोऽव॒साग॑मिष्ठः ॥ ५ ॥
+
+### Printed p. 321
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वदानीं । सुमनसः । स्याम । पश्येम । नु । सूर्यं । उत्चरंतं ।  
+> तथा । करत् । वसुपतिः । वसूनां । देवान् । ओहानः । अवसा । आगमिष्ठः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा विश्वदानीं सर्वदा वयं सुमनसः स्याम । शोभनमनस्का भवेम ।
+> नुशब्दः समुच्चये । उच्चरंतमुद्यंतं सूर्यं सर्वदा पश्येम च । वसूनां
+> वसुपतिरुत्कृष्टधनाधिपतिरग्निर्देवानवसास्मदीयेन हविषौहानो वहन् प्रापयन्
+> आगामिष्ठ आगंतृतम एवंगुणविशिष्टः सन् तथा करत् । अस्मान् तथाविधानुक्तप्रकारान्यरोतु ॥
+
+##### Gist of the bhāṣya
+
+O gods, may we at all times be of good mind. The word नु (*nu*) is used in the sense of conjunction: may we also always behold the sun as he rises. Agni, the lord of the riches, the master of excellent wealth, bringing and conveying the gods by our oblation, the one who comes most readily, being thus endowed with these qualities, तथा करत् (*tathā karat*): may he make us such as described.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) विश्वदानीं (*viśvadānīṃ*)—at all times
+- सुमनसः (*sumanasaḥ*)—of good mind (that we may be)
+- स्याम (*syāma*)—may we be
+- उच्चरंतं (*uccaraṃtaṃ*)—who rises every day
+- सूर्यं नु (*sūryaṃ nu*)—the sun also
+- पश्येम (*paśyema*)—may we see
+- वसूनां (*vasūnāṃ*)—of all riches
+- वसुपतिः (*vasupatiḥ*)—the excellent lord, Agni
+- देवान् (*devān*)—to all the gods
+- अवसा (*avasā*)—by our oblations
+- ओहानः (*ohānaḥ*)—bearing satisfaction
+- आगमिष्ठः (*āgamiṣṭhaḥ*)—coming graciously in accordance with the invocation
+- तथा करत् (*tathā karat*)—may he do as we desire
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, may we at all times be of good mind, and may we also behold the sun who rises every day. May Agni, the excellent lord of all riches, bearing satisfaction to all the gods by our oblations and coming graciously in accordance with our invocation, fulfil our desire.
+
+##### English translation
+May we at all seasons be possessed of sound minds : may we ever behold the raising sun : such may the affluent lord of riches, (Agni), render us, ever most ready to come (at our invocation), charged with our oblation to the gods.
+
+### Printed p. 322
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॒ नेदि॑ष्ट॒मव॒साग॑मिष्ठः॒ सर॑स्वती॒ सिंधु॑भिः॒ पिन्न॑माना ।  
+> प॒र्जन्यो॑ न॒ ओष॑धीभिर्मयो॒भुर॒ग्निः सु॒शंसः॑ सु॒हवः॑ पि॒तेव॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । नेदिष्टं । अवसा । आगमिष्ठः । सरस्वती । सिंधुभिः । पिन्नमाना ।  
+> पर्जन्यः । नः । ओषधीभिः । मयःभुः । अग्निः । सुशंसः । सुहवः । पिता इव ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो नेदिष्टमंतिकतमं यथा भवति तथावसा रक्षणेन सार्थमागमिष्ठ आगंतृतमोऽस्तु । सिंधुभिः स्यंदनैरुदकैः पिन्नमाना नदीरूपा सरस्वती
+> चागंतृतमा भवतु । ओषधीभिः सार्धं पर्जन्यश्च नोऽस्माकं मयोभुः सुखस्य
+> भावयिता भवतु । अग्निश्च पितेव पुत्रस्य जनक इव सुशंसः सुखेन शंसनीयः सुहवः
+> सुखेनाह्वातव्यश्च भवतु ॥
+
+##### Gist of the bhāṣya
+
+Let this Indra come nearest, that is, in the closest way, with his protection, as the one who comes most readily. Let Sarasvatī, in the form of a river, swelling with the flowing waters (sindhu), be the one who comes most readily. Let Parjanya, together with the plants, be a bringer of happiness (mayobhū) to us. And let Agni, like a father, be easily praised, that is, worthy of praise with ease, and easily invoked.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- नेदिष्टं (*nediṣṭaṃ*)—as one very near to us
+- अवसा (*avasā*)—with his protection
+- आगमिष्ठः (*āgamiṣṭhaḥ*)—let him be the one who comes
+- सिंधुभिः (*siṃdhubhiḥ*)—with the flowing waters
+- पिन्नमाना (*pinnamānā*)—that grows
+- सरस्वती (*sarasvatī*)—let the river Sarasvatī also graciously come
+- ओषधीभिः (*oṣadhībhiḥ*)—by means of the plants
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- नः (*naḥ*)—to us
+- मयोभुः (*mayobhuḥ*)—let him be a giver of happiness
+- अग्निः (*agniḥ*)—Agni
+- पितेव (*piteva*)—as a father is worthy of praise to his son
+- सुशंसः (*suśaṃsaḥ*)—worthy of excellent praise
+- सुहवः (*suhavaḥ*)—and worthy of an excellent invocation, let him be
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra come with his protection as one very near to us, and may Sarasvatī, who grows with the flowing waters, graciously come. May Parjanya be a giver of happiness to us by means of the plants. As a father is worthy of praise to his son, may Agni be worthy of our excellent praise and of our excellent invocation.
+
+##### English translation
+May Indra be most prompt to come nigh for our protection, and Saraswati dwelling with (tributary) rivers: may Parjanya, with the plants,
+
+### Printed p. 323
+
+be a giver of happiness; and may Agni, worthily praised and earnestly invoked, (be to us) like a father.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ देवास॒ आग॑त शृणु॒ता म॑ इ॒मं हवं॑ ।  
+> विदं ब॒र्हिर्नि षी॑दत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवासः । आ । गत । शृणुत । मे । इमं । हवं ।  
+> आ । इदं । बर्हिः । नि । सीदत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्रयणे वैश्वदेवस्य चरोर्विश्वे देवास आ गतेत्यनुवाक्या । सूत्रितं च ।
+> विश्वे देवासः आ गत ये के च ज्मा महिनो अहिमायाः । आ. २-९ । इति ॥
+> हे विश्वे देवासः सर्वॆ देवा आ गत । आगच्छत । आगत्य च मे मदीयमिमं
+> हवमिदमाह्वानं शृणुत । श्रुत्वा चेदमास्तीर्णं बर्हिरा नि षीदत । अस्तीर्णे
+> बर्हिषि निषण्णा भवत ॥
+
+##### Gist of the bhāṣya
+
+At the Āgrayaṇa, this Ṛk is the anuvākyā for the Vaiśvadeva caru, and it is prescribed in the sūtra: विश्वे देवासः आ गत ये के च ज्मा महिनो अहिमायाः (*viśve devāsaḥ ā gata ye ke ca jmā mahino ahimāyāḥ*) (Ā. 2-9). O all gods, come; and having come, hear this my invocation; and having heard it, sit down on this spread sacred grass, be seated on the spread barhis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे देवासः (*viśve devāsaḥ*)—O All-gods
+- आ गत (*ā gata*)—graciously come
+- मे (*me*)—my
+- इमं हवं (*imaṃ havaṃ*)—this invocation
+- शृणुत (*śṛṇuta*)—hear
+- इदं (*idaṃ*)—spread out here
+- बर्हिः (*barhiḥ*)—upon the seat of darbha grass
+- आ नि षीदत (*ā ni ṣīdata*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O All-gods, all of you graciously come here and hear our invocation. Sit down upon the seat of darbha grass spread out here.
+
+##### English translation
+Come, universal gods, hear this my invocation : sit down upon this sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the caru offering made to the All-gods at the Āgrayaṇa iṣṭi, this Ṛk, विश्वे देवास आ गत (*viśve devāsa ā gata*), is to be recited as the anuvākyā mantra, according to the Āśvalāyana-śrauta-sūtra—विश्वे (*viśve*)
+
 ---
 
-**Progress note:** Done through printed p. 316. Ṛk 13 bhāṣya to sūkta 52 Ṛk 1 (pp. 311-316)
+**Progress note:** Done through printed p. 323. Mandala 6 sukta 52 Rk 2-7 (continued)
