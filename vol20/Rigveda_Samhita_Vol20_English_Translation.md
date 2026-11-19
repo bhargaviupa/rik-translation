@@ -29094,6 +29094,263 @@ O Indra, you, the destroyer of enemies (बर्हणा (*barhaṇā*)), have
 
 O Indra, you, the destroyer of enemies, have done many praiseworthy deeds. They are these: O valiant Indra, you have torn apart hundreds and thousands of Śambara's followers. You have slain the asura named Śambara, the destroyer of rites, who came out of the mountain. With protections of many kinds you have protected the king named Divodāsa.
 
+### Printed p. 817
+
+##### English translation
+Indra, you are the subduer (of foes), you have achieved a glorious (deed), inasmuch as you have scattered, hero, the hundreds and thousands (of the host of Sambara), have slain the slave Sambara (when issuing) from the mountain, and have protected Divodasa with marvellous protections.
+
+##### विशेषविषयगळु (Special Topics)
+
+शंबरं दिवोदासं (*śaṃbaraṃ divodāsaṃ*)—see the preceding Yukti. **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं श्र॒द्धाभि॑र्मंदसा॒नः सोमै॑र्द॒भीत॑ये॒ चुमु॑रिमिंद्र  
+> सिस्वप् ।  
+> त्वं र॒जिं पिठी॑नसे दश॒स्यन्‌ष॒ष्टिं स॒हस्रा॒ शच्या॒ सचा॑हन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । श्रद्धाभिः । मंदसानः । सोमैः । दभीतये । चुमुरिं । इंद्र । सिस्वप् ।  
+> त्वं । रजिं । पिठीनसे । दशस्यन् । षष्टिं । सहस्रा । शच्या । सचा । अहन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र श्रद्धाभिः श्रद्धापुरःसरमादरातिशयेनानुष्ठितैः कर्मभिर्मंदसानो
+> मोदमानः । यच्छ्रद्धया युक्तं कर्म तत्सारवद्भवति । तथा च श्रूयते ।
+> यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति । छां. उ.
+> १-१-१० । इति । सोमैश्च मंदसानस्त्वं दभीतय एतन्नामकाय राजर्षये
+> चुमुरिमेतदाख्यमसुरं सिष्टप् । अस्वापयः । अवधीरित्यर्थः । किंच हे इंद्र त्वं
+> पिठीनस एतन्नामकाय रजिमेतदाख्यां कन्यां वा राज्यं वा दशस्यन् प्रयच्छन्
+> शच्या प्रज्ञया षष्टिं षष्टिसंख्याकानि सहस्रा भटानां सहस्राणि सचा सह युगपदेवाहन् । अवधीः ॥
+> xx 52
+
+##### Gist of the bhāṣya
+
+O Indra, you are delighted (मंदसानः (*maṃdasānaḥ*) means "rejoicing") with deeds performed with faith, that is, with deeds carried out with great regard and in a spirit of faith. For a deed joined with faith becomes substantial; and so it is heard: यदेव विद्यया करोति श्रद्धयोपनिषदा तदेव वीर्यवत्तरं भवति । (*yadeva vidyayā karoti śraddhayopaniṣadā tadeva vīryavattaraṃ bhavati |*) (Chāṃ. U. 1-1-10) **GLOSS** **NOTE**. And delighted with Soma, you put to sleep, that is, slew, the asura Chumuri for the royal sage named Dabhīti. **NOTE** Moreover, O Indra, bestowing (दशस्यन् (*daśasyan*) means "giving") on Piṭhīnasa of that name the maiden called Raji, or else the kingdom, you by your wisdom (शच्या (*śacyā*)) slew at one and the same time sixty thousands, that is, sixty thousand warriors.
+
+### Printed p. 818
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- श्रद्धाभिः (*śraddhābhiḥ*)—by deeds done with faith, and
+- सोमैः (*somaiḥ*)—by Soma juices
+- मंदसानः (*maṃdasānaḥ*)—being gratified
+- त्वं (*tvaṃ*)—you
+- दभीतये (*dabhītaye*)—for the royal sage called Dabhīti
+- चुमुरिं (*cumuriṃ*)—the asura called Chumuri
+- सिष्वप् (*siṣvap*)—you made to attain long sleep
+- त्वं (*tvaṃ*)—you
+- पिठीनसे (*piṭhīnase*)—to the one called Piṭhīnasa
+- रजिं (*rajiṃ*)—the maiden called Raji
+- दशस्यन् (*daśasyan*)—wishing to give
+- शच्या (*śacyā*)—by your wisdom
+- षष्टिं सहस्रा (*ṣaṣṭiṃ sahasrā*)—warriors numbering sixty thousand
+- सचा (*sacā*)—at one time
+- अहन् (*ahan*)—you destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, gratified by deeds done with faith and by Soma juices, you killed the asura called Chumuri for the royal sage called Dabhīti. Wishing to give the maiden called Raji to the one called Piṭhīnasa, you destroyed by your wisdom sixty thousand warriors at one time.
+
+##### English translation
+Delighted by libations offered with faith, you have consigned Chumuri to the sleep (of death) on behalf of Dabhiti, and bestowing (the maiden) Raji upon Pithinas, you have, by your contrivance, destroyed sixty thousand (warriors) at once.
+
+##### विशेषविषयगळु (Special Topics)
+
+Dabhīti: see p. 738 of this same part. Chumuri: see p. 687 of this same part. पिठीनसे रजिं (*piṭhīnase rajiṃ*)—since these names do not occur anywhere in the Ṛgveda other than in this Ṛk, nothing much can be known about them. The bhāṣyakāra has explained that Piṭhīnas is a man who was a friend of Indra, and that, in order to help them, he provided him with a maiden called Raja.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं च॒न तत्तू॒रिभि॑रानश्यां॒ तव॒ ज्याय॑ इंद्र सु॒म्ममोजः॑ ।  
+> त्वया॒ यत्स्तवं॑ते सधवीर वी॒रास्त्रि॒वरू॑थेन॒ नहु॑षा शपिष्ठ ॥७॥
+
+### Printed p. 819
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । चन । तत् । सूरिभिः । आनश्यां । तव । ज्यायः । इंद्र । सुम्नं । ओजः ।  
+> त्वया । यत् । स्तवंते । सध्ववीर । वीराः । त्रिवरूथेन । नहुषा । शविष्ठ ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सधवीर वीरैः सहित शविष्ठ बलवत्तमेंद्र वीराः स्तोतारस्त्रिवरूथेन ।
+> त्रीणि वरूथान्यावरकाणि भुवनानि यस्य तेन । नहुषा शत्रूणां बंधकेन त्वया
+> दत्तं यत्सुम्नं सुखमोजो बलं च स्तवंते स्तुवंति हे इंद्र तव त्वया दत्तं
+> ज्यायोऽतिशयेन प्रशस्यं तत्सुम्नमोजोhहं चनाहमपि भरद्वाजो सूरिभिर्मदीयैः स्तोतृभिः सहानश्यां । प्राप्नुयां ॥
+
+##### Gist of the bhāṣya
+
+O सधवीर (*sadhavīra*), accompanied by heroes, O most powerful Indra: the heroes, that is, the praisers, praise the happiness and strength given by you, who are त्रिवरूथेन (*trivarūthena*), one for whom there are three enclosing worlds, and नहुषा (*nahuṣā*), the binder of enemies. That happiness and strength given by you, O Indra, which are exceedingly praiseworthy (ज्यायः (*jyāyaḥ*)), may I too, Bharadvāja, together with my praisers, obtain (आनश्यां (*ānaśyāṃ*) means "may I attain").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सधवीर (*sadhavīra*)—one who is accompanied by heroes
+- शविष्ठ (*śaviṣṭha*)—O Indra, extremely mighty
+- त्रिवरूथेन (*trivarūthena*)—protector of the three worlds
+- नहुषा (*nahuṣā*)—binder of enemies
+- त्वया (*tvayā*)—by you
+- यत् (*yat*)—which
+- सुम्मं (*summaṃ*)—happiness
+- ओजः (*ojaḥ*)—strength
+- वीराः (*vīrāḥ*)—praisers
+- स्तवंते (*stavaṃte*)—praise
+- इंद्र (*iṃdra*)—O Indra
+- तव (*tava*)—given by you
+- ज्यायः (*jyāyaḥ*)—praiseworthy
+- तत् (*tat*)—that same happiness and strength
+- अहं चन (*ahaṃ cana*)—I also
+- सूरिभिः (*sūribhiḥ*)—with the praisers who are with me
+- आनश्यां (*ānaśyāṃ*)—may obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, accompanied by heroes and extremely mighty: the praisers praise the happiness and strength given by you, the protector of the three worlds and the binder of enemies. O Indra, that same praiseworthy happiness and strength given by you, may I and the other praisers who are with me obtain.
+
+##### English translation
+May I, with my fellow-worshippers, obtain that your most excellent felicity and vigour, which, most might Indra, associate of heroes, the pious celebrate (as bestowed) by you, who are the humiliator (of foes), the protector of the three (worlds).
+
+### Printed p. 820
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं ते॑ अ॒स्यामिं॑द्र द्यु॒म्नहू॑तौ॒ सखा॑यः स्याम महिन॒  ॑
+> प्रेष्णाः ।  
+> प्रात॑र्दनिः क्षत्र॒श्रीर॑स्तु॒ श्रेष्ठो॑ घ॒ने वृ॒त्राणां॑ स॒नये॒  ॑
+> धनानां ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ते । अस्यां । इंद्र । द्युम्नहूत् । सखायः । स्याम । महिन । प्रेष्याः ।  
+> प्रातर्दनिः । क्षत्रश्रीः । अस्तु । श्रेष्ठः । घने । वृत्राणां । सनये । धनानां ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महिन पूजनीयेंद्र ते त्वदर्थं सखायः स्तोतारो वयमस्यां
+> द्युम्नहूतावस्मिन्फननिमित्ते स्तोत्रे प्रेष्ठा अतिशयेन प्रियाः स्याम । भवेम ।
+> प्रातर्दनिः । प्रतर्दनो नाम राजा । तस्य पुत्रः क्षत्रश्रीरेतन्नामको मम
+> याज्यो राजा श्रेष्ठोऽस्तु । सर्वेषामुत्कृष्टो भवतु । किमर्थं । वृत्राणां
+> शत्रूणां घने वधाय च धनानां वसूनां सनये संभजनायच श्रेष्ठोऽस्ति
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O महिन (*mahina*), venerable Indra, may we, your friends, the praisers, be exceedingly dear to you in this praise, whose occasion is wealth (द्युम्नहूतौ (*dyumnahūtau*)). Prātardani is the son of a king named Pratardana; that son, Kṣatraśrī by name, my patron, a king, may be the best, that is, may be the most excellent of all. For what purpose? For the slaying of enemies (वृत्राणां (*vṛtrāṇāṃ*)) and for the acquiring of riches (धनानां (*dhanānāṃ*)), that is, of treasures. The connection is "may he be the best".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिन (*mahina*)—venerable
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- सखायः (*sakhāyaḥ*)—who are friends
+- वयं (*vayaṃ*)—we
+- अस्यां द्युम्नहूत् (*asyāṃ dyumnahūt*)—at this time of praise for the sake of wealth
+- प्रेष्ठाः (*preṣṭhāḥ*)—exceedingly dear to you
+- स्याम (*syāma*)—may we be
+- वृत्राणां (*vṛtrāṇāṃ*)—of enemies
+- घने (*ghane*)—for the destruction
+- धनानां (*dhanānāṃ*)—of riches
+- सनये (*sanaye*)—for the acquisition
+- प्रातर्दनिः (*prātardaniḥ*)—the son of Pratardana
+- क्षत्रश्रीः (*kṣatraśrīḥ*)—the ruler called Kṣatraśrī
+- श्रेष्ठः अस्तु (*śreṣṭhaḥ astu*)—may he be more excellent than all
+
+##### भावार्थ (Bhāvārtha)
+
+O venerable Indra, may we, your friends, be exceedingly dear to you in this time of praise that we perform for the sake of wealth. For the destruction of enemies and for the acquisition of riches, may the ruler called Kṣatraśrī, the son of Pratardana, be more excellent than all.
+
+### Printed p. 821
+
+##### English translation
+ay we, adorable Indra, your friends, at this your worship offered for (the acquirement of) wealth, be held most dear to you : may Kshatrashri, the son of Pratardana, (my patron), be most illustrious through the destruction of foes, and the attainment of riches. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रातर्दनिः क्षत्रश्रीः (*prātardaniḥ kṣatraśrīḥ*)—the son of Pratardana. It is stated in the Kauṣītaki-brāhmaṇa (Kau. Brā. 25-5) that Pratardana was a descendant of Divodāsa. In the Kāṭhaka-saṃhitā (Kā. Saṃ. 21-10) there is a statement that the sage Bharadvāja was the priest of this king. In the Kauṣītaki Upaniṣad (Kau. U. 3-1) there is mention of this king having met death in battle. Nothing much has come to be known about his son Kṣatraśrī. **NOTE**
+
+## Sūkta 27 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> किमस्य मद इत्यष्टर्चं चतुर्थं सूक्तं भरद्वाजस्यार्षं । अनुक्रांतं च ।
+> किमस्यांत्या चायमानस्याभ्यावर्तिनो दानस्तुतिः । भरद्वाज ऋषिः । त्रिष्टुप् छंदः ।
+> अंत्यायास्तु दानस्तुतिरूपत्वाद्या तेनोच्यत इति न्यायेन दानमेव देवता ।
+> विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta किमस्य मदे (*kimasya made*), of eight Ṛks, is the fourth sūkta; it is the vision of the seer Bharadvāja. It is also recorded in the Anukramaṇī that the last Ṛk is a praise of a gift (dānastuti) of Abhyāvartin Cāyamāna. The seer is Bharadvāja; the metre is Triṣṭubh. Since the last Ṛk is of the nature of a praise of a gift, by the principle तेनोच्यत इति न्यायेन (*tenocyata iti nyāyena*) the gift itself is its deity. The application is laiṅgika.
+
+##### Anuvāda
+
+This sūkta किमस्य मदे (*kimasya made*) is the fourth sūkta in the third anuvāka. There are eight Ṛks in it. Bharadvāja is the seer of this sūkta. It is said in the Anukramaṇī: किमस्यांत्या चायमानस्याभ्यावर्तिनो दानस्तुतिः (*kimasyāṃtyā cāyamānasyābhyāvartino dānastutiḥ*). Indra is the deity; for the eighth Ṛk the deity is the praise of a gift of the king named Abhyāvartin Cāyamāna. Triṣṭubh is the metre. The application is laiṅgika.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 3; Sūkta 27
+- Aṣṭaka 4; Adhyāya 6; Varga 23, 24
+- Number of Ṛks in the sūkta: 8
+- Ṛṣi: Bharadvāja Bārhaspatya
+- Devatā: Ṛks 1–7 Indra; Ṛk 8 the praise of a gift of Abhyāvartin Cāyamāna
+- Chandas: Triṣṭubh
+
+### Printed p. 822
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किम॑स्य॒ मदे॒ किम्व॑स्य पी॒ताविंद्रः॒ किम॑स्य स॒ख्ये च॑कार ।  
+> रणा॑ वा॒ ये नि॒षदि॒ किं ते अ॑स्य पु॒रा वि॑विद्रे॒ किमु॒ नूत॑नासः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । अस्य । मदे । किं । ऊं इति । अस्य । पीतौ । इंद्रः । किं । अस्य । सख्ये । चकार ।  
+> रणाः । वा । ये । निऽसदि । किं । ते । अस्य । पुरा । विविद्रे । किं । ऊं इति । नूतनासः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भरद्वाज ऋषिः फलविलंबनासहिष्णुः सन् आनयेंद्रमाक्षिपति ' अस्य सोमस्य
+> मदे सतींद्रः किं चकार । कृतवान् । किमु किंचास्य सोमस्य पीतौ पाने सति किं
+> चकार । अस्य सोमस्य सख्ये सखित्वे किं चकार । पानात्पूर्वमिंद्रः सोमेन सह
+> वसतीत्यर्थः । अस्य सोमस्य निषदि गृहे रणा वा ये स्तोतारश्च संति ते स्तोतारः
+> पुरा पूर्वं हे इंद्र ते त्वत्तः किं विविद्रे । किं लेभिरे । नूतनासो नूतना
+> इदानींतनाः स्तोतारश्च किमु लेभिरे ॥
+
+##### Gist of the bhāṣya
+
+The seer Bharadvāja, impatient of delay in the reward, reproaches Indra. **NOTE** What did Indra do in the exhilaration of this Soma? And what did he do when this Soma was drunk, that is, at its drinking? What did he do in the friendship, the companionship, of this Soma? The sense is that before the drinking Indra dwells with Soma. And in the house (निषदि (*niṣadi*)) of this Soma, whatever praisers (रणा (*raṇā*)) there are: what did those praisers of former times obtain from you, O Indra? And what did the new, present-day praisers obtain?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—from this Soma juice, obtained
+- मदे (*made*)—as the result of exhilaration
+- इंद्रः (*iṃdraḥ*)—Indra
+- किं चकार (*kiṃ cakāra*)—what did he do
+- अस्य (*asya*)—of this Soma
+- पीता (*pītā*)—as the result of drinking
+- कि मु (*ki mu*)—what did he do
+- अस्य (*asya*)—of this Soma
+- निषदि (*niṣadi*)—in the house
+- रणा (*raṇā*)—who praise
+- ये ना (*ye nā*)—among whatever praisers there are
+- पुरा (*purā*)—the praisers who were before
+- ते (*te*)—from you
+- किं विविद्रे (*kiṃ vividre*)—what did they obtain
+- नूतनासः (*nūtanāsaḥ*)—the praisers who are in the present time
+- किमु (*kimu*)—what did they obtain?
+
+##### भावार्थ (Bhāvārtha)
+
+As the result of the exhilaration obtained from this Soma juice, what reward did Indra give to the praisers? What did he do as the result of the drinking of this Soma? In the house of this Soma (the house of sacrifice), of whatever praisers there are who praise, what did the praisers who were before obtain from you? What have the praisers who are in the present time obtained?
+
 ---
 
-**Progress note:** Done through printed p. 816. Sukta 26 Rks 1-5 (pp. 811-816)
+**Progress note:** Done through printed p. 822. Sukta 26 Rks 5-8 and Sukta 27 Rk 1 (pp. 817-822)
