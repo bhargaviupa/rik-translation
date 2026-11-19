@@ -22763,6 +22763,287 @@ May the prayers that are repeated to you reach you Indra and Vishnu : may the pr
 > सं वा॑मंजंत्व॒क्तुभि॑र्मती॒नां सं स्तोमा॑सः श॒स्यमा॑नास  ॒
 > उ॒क्थैः ।
 
+### Printed p. 515
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राविष्टू इति । मदपती इति मदपती । मदानां । आ । सोमं । यातं ।  
+> द्रविणो इति । दधाना ।  
+> सं । वां । अजंतु । अक्तुभिः । मतीनां । सं । स्तोमासः । शस्यमानासः ।  
+> उक्थैः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राविष्णू मदानां सोमानां मदपती स्वामिन् । मदपती इत्यत्र
+> मदकब्दोऽनुवादः । द्रविणो द्रविणानि धनान्यपि ॥ द्रविणा उ इति पदद्वयमेकीभूय द्रविणो इति पदं निष्पन्नं ॥ दधाना ददानौ युवां सोममभ्या यातं ।
+> मतीनां स्तोतृणां स्तोमासः स्तोत्राण्युक्थैः शस्त्रैः सार्थं शस्यमानास
+> उच्चार्यमाणा वां युवामक्तुभिस्तेजोभिः समंजंतु । समर्थयंतु । सं
+> समिति द्विरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra and Viṣṇu as the lords of the exhilarations, that is, of the Somas; the word "exhilaration" in the compound meaning "lords of exhilaration" is only a restatement. The wealths are the riches that the two bestow. The two of them, bestowing wealth, are to come to the Soma. The hymns of the praisers, the stomas, being recited together with the śastras (the recitations accompanying the uktha), are to anoint you with radiance, that is, to support and strengthen you. The doubling of the prefix expresses regard.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Viṣṇu
+- मदानां (*madānāṃ*)—of all the Somas
+- मदपती (*madapatī*)—you who are the lords
+- द्रविणो (*draviṇo*)—of wealths also
+- दधाना (*dadhānā*)—you who hold, you
+- सोमं (*somaṃ*)—towards the Soma
+- आ यातं (*ā yātaṃ*)—be pleased to come
+- मतीनां (*matīnāṃ*)—of the praisers
+- स्तोमासः (*stomāsaḥ*)—the hymns
+- उत्थैः (*utthaiḥ*)—together with the śastra-mantras
+- वां (*vāṃ*)—you
+- शस्यमानासः (*śasyamānāsaḥ*)—praising
+- अक्तुभीः (*aktubhīḥ*)—with radiances
+- सं अंजंतु (*saṃ aṃjaṃtu*)—may they fill and make you grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu, you who are the lords of all the Somas and lords of wealths also: be pleased to come towards the Soma. May the hymns of the praisers, joined with the śastra-mantras, praise you, fill you with radiance and make you grow.
+
+##### English translation
+Indra and Vishnu, lords of the exhilaration, of the exhilarating
+juices, come to (drink) the Soma, bringing (with you) wealth : may the
+encomiums of the praises repeated along with the prayers anoint you
+completely with radiance.
+
+### Printed p. 516
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वा॒मश्वा॑सो अभिमाति॒षाह॒ इंद्रा॑विष्णू सध॒मादो॑  
+> वहंतु ।  
+> जु॒षेथां॒ विश्वा॒ हव॑ना मती॒नामुप॒ ब्रह्मा॑णि शृणुतं॒ गिरो॑  
+> मे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । अश्वासः । अभिमाति सहः । इंद्राविष्णू इति । सधर्मादः । वहंतु ।  
+> जुषेथां । विश्वा । हवना । मतीनां । उप ब्रह्माणि । शृणुतं । गिरः । मे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राविष्णू वां युवामभिमातिषाहोऽभिमातीनां हिंसकानामभि
+> भवितारः सधमादः सह माद्यंतोऽश्वासोऽश्वा आ वहंतु । मतीनां स्तोत्थाणां
+> विश्वा विश्वानि हवना हवनानि स्तोत्राणि जुषेथां । सेवेथां । तदर्थं मे मदीयानि
+> ब्रह्माणि स्तोत्राणि गिरः शस्त्ररूपा वाचश्चोप शृणुतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Viṣṇu, your horses, who overcome the hostile harmers (the abhimātis) and who rejoice together, are to bring you hither. Be pleased with, that is, accept, all the invocations, the hymns of the praisers. For that purpose hear my hymns and my utterances in the form of śastras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Viṣṇu deities
+- वां (*vāṃ*)—your
+- अभिमातिषाहः (*abhimātiṣāhaḥ*)—that fell the harmful enemies
+- सधमादः (*sadhamādaḥ*)—that rejoice together
+- अश्वासः (*aśvāsaḥ*)—horses
+- आ वहंतु (*ā vahaṃtu*)—may they bring you
+- मतीनां (*matīnāṃ*)—of the praisers
+- विश्वा (*viśvā*)—all
+- हवना (*havanā*)—the hymns
+- जुषेथां (*juṣethāṃ*)—be pleased to accept
+- मे (*me*)—recited by me
+- ब्रह्माणि (*brahmāṇi*)—the hymns
+- गिरः (*giraḥ*)—the utterances in the form of śastras
+- उपशृणुतं (*upaśṛṇutaṃ*)—listen and hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu deities, may your horses, which overcome the harmful enemies and rejoice together, bring you. Accept all the hymns of the praisers. Listen to the hymns recited by me and to the utterances in the form of śastras.
+
+##### English translation
+May your equally-spirited steeds. Indra and Vishnu the triumphant over enemies, bear you hither : be pleased with all the invocations of your worshippers : hear my prayers and praises
+
+### Printed p. 517
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑विष्णू॒ तत्प॑न॒याय्यं॑ वां॒ सोम॑स्य॒ मद॑ उ॒रु च॑क्रमाथे ।  
+> अकृ॑णुतमं॒तरि॑क्षं॒ वरी॒योऽप्र॑थतं जी॒वसे॑ नो॒ रजां॑सि॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राविष्णू इति । तत् । पनयाय्क्यं । वां । सोमस्य । मदे । उरु । चक्रमाथे  
+> इति ।  
+> अकृणुतं । अंतरिक्षं । वरीयः । अप्रथतं । जीवसे । नः । रजांसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रादिष्णू वां युवयोस्तत्कर्म पनयाय्यं स्तुत्यं । किं तत्कर्मेत्यत आह । सोमस्य मदे सति यदुरु विस्तीर्णं चक्रमाथे । विचक्रमाथे । यद्यपि
+> विष्णोरेव विक्रमस्तथाप्येकार्थत्वादुभयोरित्युच्यते । यच्चांतरिक्षं वरीय
+> उरुतरमकृणुतं अकुरुतं । यदपि च रजांसि लोकान् सर्वान् । लोका
+> रजांस्युच्यंत इति यास्कः । नोऽस्माकं जीवसे जीवनायाप्रथतं अप्रथयतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Viṣṇu, that deed of yours is praiseworthy. What deed? When there is exhilaration from the Soma, you strode widely and far; although the striding belongs to Viṣṇu alone, it is said of both because the two are of one purpose. And you made the atmosphere wider, and you spread out the rajas, all the worlds (Yāska says that the worlds are called rajas), for our life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Viṣṇu deities
+- सोमस्य (*somasya*)—by drinking the Soma-juice
+- मदे (*made*)—when exhilaration arose
+- उरु (*uru*)—most extensively
+- चक्रमाथे (*cakramāthe*)—you strode over the universe
+- नां (*nāṃ*)—your
+- तत् (*tat*)—that deed of striding
+- पनयाय्यं (*panayāyyaṃ*)—is most praiseworthy
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere
+- वरीयः (*varīyaḥ*)—so that it became extensive
+- अकृणुतं (*akṛṇutaṃ*)—you have made
+- रजांसि (*rajāṃsi*)—all the worlds
+- नः (*naḥ*)—to us
+- जीवसे (*jīvase*)—as fit for life
+- अप्रथतं (*aprathataṃ*)—you have manifested
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu deities, that deed of yours, that when exhilaration arose from drinking the Soma-juice you strode over the universe most extensively, is exceedingly praiseworthy. You have made the atmosphere extensive. You have manifested all the worlds as fit for our life.
+
+### Printed p. 518
+
+##### English translation
+Indra and Vishnu, that (exploit) is to be glorified, by which, in the
+exhilaration of the Soma, you have strode over the wide (space): you have
+traversed the wide fimameut : you have declared the worlds (fit) for our
+existence.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑विष्णू ह॒विषा॑ वावृधा॒नाग्रा॑द्वाना॒ नम॑सा रातहव्या ।  
+> घृता॑सुती॒ द्रवि॑णं धत्तम॒स्मे स॑मु॒द्रः स्थः॑ क॒लशः॑ सोम॒धानः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राविष्टू इति । हविषा । वावृधाना । अग्रआद्वाना । नमसा । रातहव्या ।  
+> घृतासुती इति घृतआसुती । द्रविणं । धत्तं । अस्मे इति । समुद्रः । स्थः । कलशः ।  
+> सोमधानः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> घृतासुती घृतान्नाविंद्राविष्णू युवां हविषा सोमेन वावृधाना
+> वर्धमानावग्राद्वाना सोमाग्रस्य शुक्रस्यात्तारौ नमसा नमस्कारेण रातहव्या
+> दत्तहविष्क यजमानैरस्मे अस्मभ्यं द्रविणं धनं धत्तं । प्रयच्छतं । किंच युवां
+> समुद्र उदधिरिव स्थः । भवथः । यतः सोमधानः सोमनिधानः कलशो भवथः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Viṣṇu, fed with ghee, you who grow by the oblation, that is, the Soma, who are the eaters of the first, the pure part of the Soma, to whom the sacrificers have given oblations with reverence: bestow wealth upon us. Moreover, you are like the ocean, the sea; for you are a pitcher, the receptacle of the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Viṣṇu deities
+- धृतासुती (*dhṛtāsutī*)—you who have food in the form of ghee
+- हविषा (*haviṣā*)—by the oblation in the form of Soma
+- वावृधाना (*vāvṛdhānā*)—who grow
+- आग्राद्वाना (*āgrādvānā*)—who eat the first part of the Soma
+- नमसा (*namasā*)—with reverence
+- रातहव्या (*rātahavyā*)—who have oblations offered
+- अस्मे (*asme*)—to us
+- द्रविणं (*draviṇaṃ*)—wealth
+- धत्तं (*dhattaṃ*)—give
+- समुद्रः (*samudraḥ*)—deep like the ocean
+- स्थः (*sthaḥ*)—you are
+- सोमधानः (*somadhānaḥ*)—in which the Soma is placed
+- कलशः (*kalaśaḥ*)—in the form of a pitcher vessel, you are
+
+### Printed p. 519
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu deities, you who have food in the form of ghee, who grow by the oblation in the form of Soma, who eat the first part of the Soma, and who have oblations offered with reverence: give us wealth. You two are deep like the ocean. You are also in the form of pitcher vessels in which the Soma is placed.
+
+##### English translation
+Indra and Vishnu, feeders upon clarified butter, drinking of the
+fermented Soma, thriving upon oblations, accepting them offered with
+reverence, bestow upon us wealth : for you are an ocean, a pitcher, the
+receptacle of the libation.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑विष्णू॒ पिब॑तं॒ मध्वो॑ अ॒स्य सोम॑स्य दस्रा ज॒ठरं॑  
+> पृणेथां ।  
+> आ वा॒मधां॑सि मदि॒राण्य॑ग्म॒न्नु प॒ ब्रह्मा॑णि शृणुतं॒ हवं॑ मे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राविष्णू इति । पिबतं । मध्वः । अस्य । सोमस्य । दस्रा । जठरं । पृणेथां ।  
+> आ । वां । अंधांसि । मदिराणि । अग्मन् । उप । ब्रह्माणि । शृणुतं । हवं । मे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दस्रा हे दर्शनीयाविंद्राविष्णू युवां मध्वोऽस्य मदकरमिमं सोमस्य
+> सोमं पिबतं । किंच जठरमुदरं पृणेथां । सोमेन पूरयेथां । हे इंद्राविष्णू वां युवां मदिराणि मदकराण्यंधांसि सोमात्मकान्यन्नान्याग्मन् ।
+> अभिगच्छंतु । मे मदीयानि ब्रह्माणि स्तोत्राणि हवं मदीयमाह्वानं चोप
+> कृणुतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Viṣṇu, beautiful to behold, drink this intoxicating Soma. And fill your belly, your stomach, with the Soma. O Indra and Viṣṇu, may the exhilarating foods, which are Soma in nature, come to you. Do also what concerns my hymns and my invocation.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्रा (*dasrā*)—you who have an attractive form
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Viṣṇu
+- मध्वः (*madhvaḥ*)—intoxicating
+- अस्य सोमस्य (*asya somasya*)—of this Soma-juice
+- पिबतं (*pibataṃ*)—drink
+
+### Printed p. 520
+- जठरं (*jaṭharaṃ*)—your belly
+- पृणेथां (*pṛṇethāṃ*)—fill yourselves with this juice (O Indra and Viṣṇu)
+- वां (*vāṃ*)—you
+- मदिराणि (*madirāṇi*)—intoxicating
+- अंधांसि (*aṃdhāṃsi*)—the foods in the form of Soma
+- आ अग्मन् (*ā agman*)—may they come near
+- मे (*me*)—my
+- ब्रह्माणि (*brahmāṇi*)—hymns
+- हवं (*havaṃ*)—and invocation
+- उप शृणुतं (*upa śṛṇutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Viṣṇu, of attractive form, drink this intoxicating Soma-juice. Fill your bellies with this juice. O Indra and Viṣṇu, may the intoxicating foods in the form of Soma approach you. Hear my hymns and my invocation.
+
+##### English translation
+Indra and Vishnu, agreeable of aspect, drink of this sweet Soma ;
+fill with it your bellies : may the inebriating beverage reach you : hear my
+prayers, my invocation.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भा जि॑ग्यथु॒र्न परा॑ जयेथे॒ न परा॑ जिग्ये कत॒रश्च॒न्नैनोः॑ ।  
+> इंद्र॑श्च विष्णो॒ यदप॑स्पृधेथां त्रे॒धा स॒हस्रं॒ वि तद्वै॑रयेथां ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभा । जिग्यथुः । न । परा । जयेथे इति । न । परा । जिग्ये । कतरः । चन । एनोः ।  
+> इंद्रः । च । विष्णो इति । यत् । अपस्पृधेथां । त्रेधा । सहस्रं । वि । तत् । ऐरयेथां ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राविष्णू उभोभौ युवां जिग्यथुः । शत्रूनजैष्टं । न परा जयेथे ।
+> न पुनः कदाचन पराजयेथे । एनोरेनयोर्युववयोर्मध्यॆ कतरश्चनैकशरोऽपि
+> न परा जिग्ये । न पराजैष्ट । हे विष्णो इंद्रश्च त्वं च युवां यद्यद्वस्तु प्रत्यपस्पृधेथां असुरैः सहास्पृधेथां त्रेधा लोकवेदवागात्मना त्रिधा स्थितं सहस्रममितं च वि तदैरयेथां । व्यक्रमेथामित्यर्थः ॥ तथा च ब्राह्मणं । उभा जिग्यथुरित्यच्छावाकस्योभौ हि तौ जिग्यतुर्न परा जयेथे न परा जिग्य इति न हि तयोः
+
+##### Gist of the bhāṣya
+
+O Indra and Viṣṇu, you both were victorious: you conquered the enemies. You are not defeated again, ever. Of the two of you, neither one was defeated. O Viṣṇu, and Indra, whatever thing you two contended for with the asuras, standing threefold as world, Veda and speech, and a thousand without measure, that you strode through, that is the meaning. So also the Brāhmaṇa: उभा जिग्यथुरित्यच्छावाकस्योभौ हि तौ जिग्यतुर्न परा जयेथे न परा जिग्य इति न हि तयोः (*ubhā jigyathurityacchāvākasyobhau hi tau jigyaturna parā jayethe na parā jigya iti na hi tayoḥ*)
+
 ---
 
-**Progress note:** Done through printed p. 514. Ṛk 9-11 of sūkta 68, sūkta 69 Ṛk 1-3 start
+**Progress note:** Done through printed p. 520. Mandala 6 sukta 69 Rks 3-8, Indra-Vishnu
