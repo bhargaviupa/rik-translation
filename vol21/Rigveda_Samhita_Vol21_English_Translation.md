@@ -24115,6 +24115,279 @@ This sūkta यो आद्रिभित् (*yo ādribhit*) is the twelfth s
 - Deity: बृहस्पतिः (*bṛhaspatiḥ*)
 - Metre: त्रिष्टुप् (*triṣṭup*)
 
+### Printed p. 546
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॑द्रि॒भित्र॑थम॒जा ऋ॒तावा॒ बृह॒स्पति॑रांगिर॒सो ह॒विष्मा॑न् ।  
+> द्वि॒बर्ह॑ज्मा प्राघर्म॒सत्पि॒ता न॒ आ रोद॑सी वृष॒भो रो॑रवीति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अद्र्भित् । प्रथमजाः । ऋतवा । बृहस्पतिः । अंगिरसः । हविष्मान् ।  
+> द्विबर्हज्मा । प्राघर्मसत् । पिता ! नः । आ । रोदसी इति । वृषभः । रोरवीति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो बृहस्पतिरद्रिभित्पाणिभिर्विरचितानां शिलोच्चयानां भेत्ता मेघानां
+> विदारको वा । अद्रिग्रावेति मेघनामसु पाठात् । प्रथमजाः प्रजापतीर्वीर्यात्
+> प्रथमं जात ऋतावा सत्यवान् उदकवान्नांगिरसः पश्चाज्जातः । तथा च निगमः ।
+> येऽंगारा असंस्तेऽंगिरसोऽभवन्यदंगाराः पुनरवशांता उददीप्यंत तद्बृहस्पतिरभवत् । ऐ. ब्रा. ३-३४ । इति । हविष्मान् यज्ञभागवान् द्विबर्हज्मा द्वयोर्लोकयोर्वृंहितगमनः प्राघर्मसत् प्रकर्षण दीप्तस्थाने वर्तमानो
+> नोऽस्माकं पिता पालयिता भवति स बृहस्पतिर्वृषभो वर्षकः सन् रोदसी
+> द्यावापृथिव्यावा रोरवीति । अभिगर्जति ॥
+
+##### Gist of the bhāṣya
+
+Bṛhaspati who is *adribhit*, the breaker of the masses of rock formed by the hands, or the splitter of clouds, since *adri* and *grāva* are read among the names of the cloud. *Prathamajāḥ*: born first, from the vigour of Prajāpati. *Ṛtāvā*: truthful, or possessing water. *Āṅgirasaḥ*: born afterwards. So a Vedic text says: येऽंगारा असंस्तेऽंगिरसोऽभवन्यदंगाराः पुनरवशांता उददीप्यंत तद्बृहस्पतिरभवत् । (*ye 'ṃgārā asaṃste 'ṃgiraso 'bhavanyadaṃgārāḥ punaravaśāṃtā udadīpyaṃta tadbṛhaspatirabhavat |*) (Ai. Brā. 3-34) **GLOSS**. *Haviṣmān*: possessing a share of the sacrifice. *Dvibarhajmā*: he whose going is vast in the two worlds. *Prāgharmasat*: dwelling in a place of intense brilliance. He who is our father, our protector, that Bṛhaspati, being the showerer, roars at heaven and earth; that is, he thunders.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावा (*ṛtāvā*)—the protector of truth
+- यः (*yaḥ*)—who
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- आद्रिभित् (*ādribhit*)—he who splits the clouds for the sake of rain
+- प्रथमजाः (*prathamajāḥ*)—he who was born before all beings
+- अंगिरसः (*aṃgirasaḥ*)—he who is born of the family of Aṅgiras
+- हविष्मान् (*haviṣmān*)—he who is endowed with oblations
+- द्विबर्हज्मा (*dvibarhajmā*)—he who has a path of movement in both heaven and earth
+- प्राघर्मसत् (*prāgharmasat*)—he who dwells in a place of exceeding radiance
+- नः (*naḥ*)—to us
+- पिता (*pitā*)—and is a protector (that Bṛhaspati)
+- वृषभः (*vṛṣabhaḥ*)—being the showerer of desires
+- रोदसी (*rodasī*)—between heaven and earth
+- आ रोरवीति (*ā roravīti*)—he roars
+
+##### भावार्थ (Bhāvārtha)
+
+The Bṛhaspati who is the protector of truth, who splits the clouds for the sake of rain, who was born before all beings, who is born of the family of Aṅgiras, who is endowed with oblations,
+
+### Printed p. 547
+
+who has a path of movement in both heaven and earth, and who dwells in a place of exceeding radiance, and who is a protector to us, that same Bṛhaspati, being the granter of our desires, roars between heaven and earth.
+
+##### English translation
+Brihaspati, who is the breaker of the mountain, the first-born (of Prajapati), the observer of truth, the descendant of Angiras, the partaker of the oblation, the traverser of two worlds, abiding in the region of light, is to us a father: he, the showerer, thunders loud in heaven and earth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जना॑य चि॒द्य ईव॑त उ लो॒कं बृह॒स्पति॑र्दे॒वहू॑त् च॒कार॑ ।  
+> घ्नन्वृ॒त्राणि॒ वि पुरो॑ दर्दरीति॒ जय॒ञ्छत्तू॑र॒मित्रा॑न्पृ॒त्तु  ॑
+> साहन् ॥ २
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनाय । चित् । यः । ईवते । ऊं इति । लोकं । बृहस्पतिः । देवहूत् । चकार ।  
+> घन् । वृत्राणि । वि । पुरः । दर्दरीति । जयन् । शत्रून् । अमित्रान् । पृत्सु ।  
+> सहन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपि च यो बृहस्पतिर्देवहूत् यज्ञे वर्तमानायेवत उपगच्छते
+> स्तोत्रे जनाय लोकं स्थानं चकार करोति । चिदिति पूरणः । स वृत्राण्यावरकाणि
+> तमांसि घन्निवारयन् पृत्सु युद्धेषु शत्रुन् जयन् अमित्रान् सहन् अभिभवन्
+> पुर आसुरीः पुरीर्वि दर्दरीति । भृशं विदारयति ॥
+
+##### Gist of the bhāṣya
+
+Further, Bṛhaspati who, for the worshipper who approaches, present at the sacrifice, in praise, makes a world, a place. (*Cit* is a filler.) He, destroying the *vṛtra*s, the covering darknesses, conquering enemies in battles, overcoming foes, tears apart thoroughly the cities of the asuras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- देवहूतौ (*devahūtau*)—engaged in the sacrifice
+- ईवते (*īvate*)—and approaching through praise
+- जनाय (*janāya*)—for the sacrificer
+- लोकं (*lokaṃ*)—an excellent place
+- चकार चित् (*cakāra cit*)—makes (that same Bṛhaspati)
+- वृत्राणि (*vṛtrāṇi*)—the darkness that covers the world
+
+### Printed p. 548
+
+- घन् (*ghan*)—destroying
+- पृत्सु (*pṛtsu*)—in battles
+- शत्रून् (*śatrūn*)—enemies
+- जयन् (*jayan*)—conquering
+- अमित्रान् (*amitrān*)—foes
+- सहन् (*sahan*)—defeating
+- पुरः (*puraḥ*)—the cities of the enemies
+- विदर्दरीति (*vidardarīti*)—he tears apart completely
+
+##### भावार्थ (Bhāvārtha)
+
+For the sacrificer who is engaged in the sacrifice and who obtains the presence of the gods through praise, the Bṛhaspati who makes an excellent place, that same Bṛhaspati, destroying the pitch darknesses that cover the world, conquering enemies in battles and defeating foes, completely destroys the cities of the enemies.
+
+##### English translation
+Brihaspati, who has appointed a region for the man who attends diligently at divine worship, destroying, impediments, conquering foes, overcoming enemies, demolishes various cities (of the Asuras).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॒स्पतिः॒ सम॑जय॒द्वसू॑नि म॒हो व्र॒जान् गोम॑तो दे॒व  ॒
+> एषः ।  
+> अ॒पः सिषा॑स॒न्त्स्व१॒॑ १ रप्र॑तीतो॒ बृह॒स्पति॒र्हंत्य॒मित्र॑म॒र्कैः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पतिः । सं । अजयत् । वसूनि । महः । व्रजान् । गोऽमतः । देवः । एषः ।  
+> अपः । सिसासन् । स्वः । अप्रतिइतः । बृहस्पतिः । हंति । अमित्रं । अर्कैः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतमान एष प्रसिद्धो बृहस्पतिर्वसूनि पणीनामसुराणां वलस्य
+> वा धनानि महो महतो गोमतो गोसहितान् व्रजांश्च समजयत् । तथा च
+> निगमौ । बृहस्पतिर्गॊवपुषो वलस्य निर्मज्ञानं न पर्वणो जभार । ऋ. १०-६८-९ ।
+> इति । दूरमित पणयो वरीय उद्दावो यंतु मिनतीर्युतेन । बृहस्पतिया
+> अविंदन्निगूळ्हाः सोमो ग्रावाण ऋषयश्च विप्राः । ऋग्वे. १०-१०८-११ । इति ।
+
+##### Gist of the bhāṣya
+
+This shining, well-known Bṛhaspati conquered the treasures of the Paṇis, the asuras, or of Vala, and the great herds' enclosures with cattle. So two Vedic texts say: बृहस्पतिर्गॊवपुषो वलस्य निर्मज्ञानं न पर्वणो जभार । (*bṛhaspatirgòvapuṣo valasya nirmajñānaṃ na parvaṇo jabhāra |*) (Ṛ. 10-68-9) **GLOSS** **NOTE**; and दूरमित पणयो वरीय उद्दावो यंतु मिनतीर्युतेन । बृहस्पतिया अविंदन्निगूळ्हाः सोमो ग्रावाण ऋषयश्च विप्राः । (*dūramita paṇayo varīya uddāvo yaṃtu minatīryutena | bṛhaspatiyā aviṃdannigūḷhāḥ somo grāvāṇa ṛṣayaśca viprāḥ |*) (Ṛgve. 10-108-11) **GLOSS** **NOTE**.
+
+### Printed p. 549
+
+> किंच बृहस्पतिरप्रतीतः केनाप्यप्रतिगतः सिषासन् संभक्तुकामः स्वः स्वर्गस्यामित्रमसुरमर्कैरर्चनसाधनैर्मंत्रैर्हंति । आर्को मंत्रो भवति यदेनेनार्चंति ।
+> नि. ५-४ । इति यास्कः ॥
+
+##### Gist of the bhāṣya
+
+Further, Bṛhaspati, unopposed, met by no one, wishing to share *svar*, heaven, slays the enemy, the asura, with *arka*s, mantras that are the means of worship. **NOTE** So Yāska says that an *arka* is a mantra, because with it they worship (Ni. 5-4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the radiant
+- एषः (*eṣaḥ*)—the well-known
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- वसूनि (*vasūni*)—the wealth of the enemies
+- महः (*mahaḥ*)—great
+- गोमतः (*gomataḥ*)—and full of cattle
+- व्रजान् (*vrajān*)—the enclosures (the cattle-pens)
+- समजयत् (*samajayat*)—he has taken under his own control from the enemies
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- अप्रतीतः (*apratītaḥ*)—being unopposed
+- स्वः (*svaḥ*)—of the atmosphere
+- आपः (*āpaḥ*)—all the waters
+- सिषासन् (*siṣāsan*)—wishing to bring completely under his own control
+- अमित्रान् (*amitrān*)—all the enemies
+- अर्कैः (*arkaiḥ*)—with the help of the mantras alone
+- हंति (*haṃti*)—he destroys
+
+##### भावार्थ (Bhāvārtha)
+
+The radiant and well-known Bṛhaspati took under his own control from the enemies the wealth of the enemies, and the great enclosures and cattle-pens full of cattle. Unopposed, wishing to bring completely under his own control all the waters of the atmosphere, Bṛhaspati destroys all the enemies with the help of the mantras alone.
+
+##### English translation
+This divine Brihaspati has conquered the treasures (of the enemy), and the spacious pastures with the cattle: purposing to appropriate the waters (of the firmament), he destroys with sacred prayers the adversary of heaven.
+
+## Sūkta 74 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमारुद्रेति चतुर्यचं त्रयोदशं सूक्तं भरद्वाजस्यार्षं त्रैष्टुभं
+> सोमारुद्रदेवताकं । अनुक्रम्यते च । सोमारुद्रा चतुष्कं सोमारौद्रमिति ॥
+> विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning सोमारुद्रेति (*somārudreti*) has four ṛks and is the thirteenth sūkta. Bharadvāja is its seer, its metre is Triṣṭubh, and Soma and Rudra are its deity. It is given: सोमारुद्रा चतुष्कं सोमारौद्रमिति (*somārudrā catuṣkaṃ somāraudramiti*) **GLOSS**. The use is by indication of the text.
+
+##### Anuvāda
+
+This sūkta सोमारुद्रा (*somārudrā*) is the thirteenth sūkta in the sixth anuvāka. It has four ṛks. Bharadvāja is the seer of this sūkta; Soma and Rudra are
+
+### Printed p. 550
+
+the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: सोमारुद्रा चतुष्कं सोमारौद्रं (*somārudrā catuṣkaṃ somāraudraṃ*) **GLOSS**. The use is by indication of the text.
+
+##### Particulars
+
+- Maṇḍala 6; Anuvāka 6; Sūkta 74
+- Aṣṭaka 5; Adhyāya 1; Varga 18
+- Number of ṛks in the sūkta: 4
+- Ṛṣi: भरद्वाजो बार्हस्पत्यः (*bharadvājo bārhaspatyaḥ*)
+- Deity: सोमारुद्रौ (*somārudrau*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमा॑रुद्रा धा॒रये॑थामसु॒र्यं१॒॑१ प्र ना॑मि॒ष्टयोऽर॑मश्नु वंतु ।  
+> दमे॑दमे स॒प्त रत्ना॒ दधा॑ना॒ शं नो॑ भूतं द्वि॒पदे॒ शं  ॑
+> चतुष्पदे ॥ - ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमारुद्रा । धारयेथां । आसुर्यं । प्र । वां । इष्टयः । आरं । अश्नुवंतु !  
+> दमेऽदमे । सप्त । रत्ना । दधाना । शं । नः । भूतं । द्विपदे । शं । चतुः पदे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमारुद्रा हे सोमारुद्रावसुर्यमसुरसंबंधि बलमस्मासु धारयेथां । किंचद मे दमे सर्वेष्टस्मद्गृहेष्टिष्टयो यज्ञा नां युवामरमलं
+> पर्याप्तं प्राश्नुवंतु । प्रकर्षण व्याप्नुवंतु । अपि च युवां सप्त रत्ना रत्नानि
+> दधाना धारयंतौ नोऽस्मभ्यं शं सुखकरौ सुखरूपौ वा भूतं । भवतं ।
+> द्विपदेऽस्मदीयाय पुत्रादये चतुष्पदे पश्चादये च शं भूतं । भवतं ॥
+
+##### Gist of the bhāṣya
+
+O Soma and Rudra, hold in us the strength that belongs to the asuras. Further, in each and every house of ours may the sacrifices pervade you two fully, adequately. Also you two, bearing the seven jewels, be happy-making for us, or of the nature of happiness. Be happy-making for our two-footed, our sons and others, and for our four-footed, cattle and others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमारुद्रा (*somārudrā*)—O gods Soma and Rudra
+- असुरं (*asuraṃ*)—the strength that is in the asuras
+- धारयेथां (*dhārayethāṃ*)—establish in us
+- दमेदमे (*damedame*)—in every sacrificial house
+
+### Printed p. 551
+
+- इष्टयः (*iṣṭayaḥ*)—may the sacrifices
+- नां (*nāṃ*)—you
+- आरं (*āraṃ*)—so as to satisfy
+- प्र अत्रुवंतु (*pra atruvaṃtu*)—fully approach and pervade
+- सप्त रत्ना (*sapta ratnā*)—the seven jewels
+- दधाना (*dadhānā*)—you who possess
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—as givers of happiness
+- भूतां (*bhūtāṃ*)—be
+- द्विपदे (*dvipade*)—to our sons and others
+- चतुष्पदे (*catuṣpade*)—to cattle and others
+- शं (*śaṃ*)—be givers of happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Soma and Rudra, establish in us the strength that is in the asuras. In every house may the sacrifices fully approach and pervade you so as to satisfy you. You who possess the seven jewels, be givers of happiness to us. Be givers of happiness to our sons and others and to cattle and others.
+
+##### English translation
+Soma and Rudra, confirm (in us the strength) of Asuras ; may sacrifices in every dwelling adequately reach you : possessors of the seven precious things, bestow happiness upon our bipeds and quadrupeds.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमा॑रुद्रा॒ वि वृ॑हतं॒ विषू॑चीं॒मा॑वा॒ या नो॒ गय॑मावि॒वेश॑ ।  
+> आ॒रे बा॑धेथां॒ निर्ऋ॑तिं परा॒चैर॒स्मे भ॒द्रा सौ॑श्रव॒सानि॑ संतु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमारुद्रा । वि । वृहतं । विषूचीं । अमीवा । या । नः । गयं । आविवेश ।  
+> आरे । बाधेथां । निःऋतिं । पराचैः । अस्मे इति । भद्रा । सौश्रवसानि । संतु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमारुद्रा हे सोमारुद्रौ नोऽस्माकं गयं गृहं:गृहगतं प्राणिजातं वा
+> यामीवा या रोग आविवेश तां विषूचीं विश्वक् सर्वतो गच्छंतीममीवां वि
+> वृहतं । वियोजयतं । अपि च निर्ऋतिमलक्ष्मीं पराचैः पराग्यथा भवति कथारे
+
+##### Gist of the bhāṣya
+
+O Soma and Rudra, whatever disease has entered our *gaya*, our house, or the creatures belonging to the house, that disease, going everywhere in all directions, drive apart; that is, separate it from us. Further, *nirṛti*, misfortune, *parācaiḥ*, turned away; as it becomes *parāk*,
+
 ---
 
-**Progress note:** Done through printed p. 545. Sūkta 72 Ṛk 1-5 (Indra-Soma) and start of Sūkta 73
+**Progress note:** Done through printed p. 551. Sūkta 73 (Bṛhaspati) Ṛk 1-3, Sūkta 74 (Soma-Rudra) Ṛk 1 and start of Ṛk 2
