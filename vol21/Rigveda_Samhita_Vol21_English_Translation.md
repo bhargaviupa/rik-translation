@@ -33926,6 +33926,299 @@ Let the willing doors (of the chamber of sacrifice) be thrown open ; bring hithe
 
 O Jātaveda, Agni, whose wealth is born with him, वीहि (*vīhi*): go to the gods. Sacrifice to the gods with the oblation. And make the sacrifices well performed, that is, good sacrifices.
 
+### Printed p. 794
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेद (*jātaveda*)—endowed with born wisdom
+- अग्ने (*agne*)—O Agni
+- वीहि (*vīhi*)—approach the gods
+- हविषा (*haviṣā*)—with the oblation
+- देवान् (*devān*)—the gods
+- यक्षि (*yakṣi*)—worship
+- स्वध्वरा (*svadhvarā*)—as possessors of an excellent sacrifice
+- कृणुहि (*kṛṇuhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, endowed with born wisdom, approach the gods. Worship the gods with the oblation. Make them possessors of an excellent sacrifice.
+
+##### English translation
+Agni Jatavedas, repair to the gods, worship them with the oblation, render them pleased by the sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒ध्व॒रा क॑रति जा॒तवे॑दा॒ यक्ष॑द्दे॒वा अ॒मृता॑न्पि॒ प्रय॑च्च ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुअध्वरा । करति । जातवेदाः । यक्षत् । देवान् । अमृतान् । पिप्रयत् । चॆ ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदा जातधनोऽग्निरमृतान्मरणरहितान्देवान् स्वध्वरा स्वध्वरान्
+> शोभनयज्ञान् करति । करोतु । यक्षत् । हविषा यजतु च । पिप्रयत् । स्तोत्रैः
+> प्रीणयतु च ॥
+
+##### Gist of the bhāṣya
+
+Jātaveda, Agni whose wealth is born with him, is to make the immortal gods, those free from death, possessors of good sacrifices; करति (*karati*) means "let him make". Let him sacrifice to them with the oblation, and let him please them with hymns of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदाः (*jātavedāḥ*)—Agni, endowed with born wisdom
+- अमृतान् (*amṛtān*)—free from the nature of death
+- देवान् (*devān*)—the gods
+- स्वध्वरा (*svadhvarā*)—as possessors of an excellent sacrifice
+- करति (*karati*)—let him make
+- यक्षत् (*yakṣat*)—let him worship them with the oblation
+- पिप्रयत् च (*piprayat ca*)—and let him satisfy them with hymns of praise
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, endowed with born wisdom, make the gods, who are free from the nature of death, possessors of an excellent sacrifice. May he worship them with the oblation. May he satisfy them with hymns of praise.
+
+### Printed p. 795
+
+##### English translation
+May Jatavedas render the immortal gods pleased by the sacrifice : let him sacrifice (to them), and gratify them (with praise).
+
+#### Ṛk 5
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वंस्व॒ विश्वा॒ वार्या॑णि प्रचेतः स॒त्या भ॑वंत्वा॒शिषो॑ नो अ॒द्य॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वंस्व । विश्वा । वार्याणि । प्रचेत इति प्रचेतः । सत्याः । भवंतु । आशिषः । नः । अद्य ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रचेतः प्रकृष्टमतिमन्नग्ने विश्वा विश्वानि वायर्याणि वरणीयानि धनानि
+> वंस्व । अस्मभ्यं देहि । नोऽस्माकमाशिषोऽद्य सत्या याथार्था भवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, of excellent mind, give us all desirable, that is, choice, riches. And may our blessings today be true, that is, come out as they are meant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतः (*pracetaḥ*)—O Agni, endowed with excellent knowledge
+- वायर्याणि (*vāyaryāṇi*)—desired by all
+- विश्वा (*viśvā*)—all riches
+- वंस्व (*vaṃsva*)—give to us
+- नः (*naḥ*)—in our case, the words spoken
+- आशिषः (*āśiṣaḥ*)—blessings
+- अद्य (*adya*)—now
+- सत्याः (*satyāḥ*)—truly
+- भवंतु (*bhavaṃtu*)—let them be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, endowed with excellent knowledge, give us all riches that are desired by all. May the excellent blessings spoken in our case now come true.
+
+##### English translation
+Bestow upon us, sage Agni, all desirable (riches): may the blessings: (vouchsafed) to us this day be sacrificed. **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामु॒ ते द॑धिरे हव्य॒वाहं॑ दे॒वासो॑ अग्न ऊ॒र्ज आ  ॑
+> नपातं ॥ ६ ॥
+
+### Printed p. 796
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । ऊं इति । ते । दधिरे । हव्यवाहं । देवासः । अग्ने । ऊर्जः । आ । नपातं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ऊर्जो बलस्य नपातं पुत्रं । सूनुर्नपादित्यपत्यनामसु
+> पाठात् । त्वामु त्वामेव ते प्रसिद्धा देवासो देवा हव्यवाहं हविषो वोढारमा दधिरे । अकुर्वन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength: सूनुर्नपादित्यपत्यनामसु पाठात् । (*sūnurnapādityapatyanāmasu pāṭhāt |*), since नपातं (*napātaṃ*) is read among the names of offspring and means son. You, indeed you alone, the gods who are well known have taken as the bearer of the oblation, that is, as the one who carries the oblation. This is the meaning: they have made you so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ऊर्जः (*ūrjaḥ*)—of strength
+- नपातं (*napātaṃ*)—son
+- त्वामु (*tvāmu*)—you alone
+- ते (*te*)—well-known
+- देवासः (*devāsaḥ*)—the gods
+- हव्यवाहं (*havyavāhaṃ*)—as the bearer of the oblation
+- आ दधिरे (*ā dadhire*)—have obtained (have appointed)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the well-known gods have appointed you, the son of strength, as the bearer of the oblation.
+
+##### English translation
+The gods have made you, Agni, who are the son of strength, the bearer of the oblation.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते ते॑ दे॒वाय॒ दाश॑तः स्याम म॒हो नो॒ रत्ना॒ वि द॑ध  ॒
+> इयानः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । ते । देवाय । दाशतः । स्याम । महः । न । रत्ना । वि । दधः । इयानः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने देवाय द्योतमानाय ते तुभ्यं ते प्रसिद्धा वसिष्ठा वयं
+> दाशतो हवींषि ददतः स्याम । भवेम । अतो महो महांस्त्वमियान उपगम्यमानो याच्यमानो वा नोऽस्मभ्यं रत्ना रत्नानि रमणीयानि धनानि वि दधः ।
+> विधत्स्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, to you who are shining, we, the well-known Vasiṣṭhas, may we be givers of oblations. Therefore you, the great one, approached or begged by us, bestow upon us delightful riches.
+
+### Printed p. 797
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाय (*devāya*)—(O Agni) to the shining one
+- ते (*te*)—turning to you
+- ते (*te*)—we, the well-known descendants of Vasiṣṭha
+- दाशतः (*dāśataḥ*)—as givers of the oblation
+- स्याम (*syāma*)—may we be
+- महः (*mahaḥ*)—you, the great
+- इयानः (*iyānaḥ*)—being solicited by us
+- नः (*naḥ*)—to us
+- रत्ना (*ratnā*)—delightful riches
+- वि दधः (*vi dadhaḥ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, turning to you who are shining, may we, the well-known descendants of Vasiṣṭha, be givers of the oblation. Do you, the great one, being solicited by us, provide us delightful riches.
+
+##### English translation
+May we be the presenters (of offerings) to you who are divine: and you, the mighty one, being solicited, bestow upon us treasures.
+
+## Sūkta 18 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीयेऽनुवाके षोडश सूक्तानि । तत्र त्वे ह यत्पितर इति पंचविंशत्यृचं
+> प्रथमं सूक्तं वसिष्ठास्स्यार्षं त्रैष्टुभमिंद्रदेवताकं । द्वाविंशादिभिश्चतसृभिः
+> सुदासनाम्मो राज्यो दानं स्तूयते । अतस्तास्तद्देवताकाः । अनुक्रम्यते हि । त्वे
+> ह यत्पंचाधिकैंद्रं सुदासः पैजवनस्य चतस्रोंत्या दानस्तुतिरिति ॥ महाव्रत आदितः
+> पंचदशर्चः शंसनीयाः । तथैव पंचमारण्यके सूत्रितं । त्वे ह यत्पितरश्चिन्न इंद्रेति
+> पंचदश । ऐ. आ. ५-२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the second anuvāka there are sixteen sūktas. Among them the first sūkta, त्वे ह यत्पितरः (*tve ha yatpitaraḥ*) with twenty-five ṛks, is Vasiṣṭha's, in Triṣṭubh, with Indra as deity. By four ṛks beginning with the twenty-second the gift of the king named Sudās is praised; therefore those are addressed to that as deity. For the Anukramaṇī says: त्वे ह यत्पंचाधिकैंद्रं सुदासः पैजवनस्य चतस्रोंत्या दानस्तुतिरिति (*tve ha yatpaṃcādhikaiṃdraṃ sudāsaḥ paijavanasya catasroṃtyā dānastutiriti*). In the Mahāvrata the first fifteen ṛks are to be recited. So it is laid down in the Fifth Āraṇyaka: त्वे ह यत्पितरश्चिन्न इंद्रेति पंचदश (*tve ha yatpitaraścinna iṃdreti paṃcadaśa*) (Ai. Ā. 5-2-2).
+
+##### Anuvāda
+
+In the second anuvāka of the seventh maṇḍala there are sixteen sūktas. Among them the sūkta beginning त्वे ह यत्पितरः (*tve ha yatpitaraḥ*) is the first. It has twenty-five ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭup. In this sūkta, in the four ṛks from the twenty-second ṛk up to the twenty-fifth, the praise of the gift of the king named Sudās is stated. Therefore for those four ṛks the praise of that king's gift is the deity. In the Anukramaṇikā it is said त्वे ह यत्पंचाधिकैंद्रं सुदासः पैजवनस्य चतस्रोऽन्त्या दानस्तुतिः (*tve ha yatpaṃcādhikaiṃdraṃ sudāsaḥ paijavanasya catasro 'ntyā dānastutiḥ*).
+
+### Printed p. 798
+
+In the Mahāvrata-iṣṭi the first fifteen ṛks of this sūkta are to be recited; this is indicated in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence त्वे ह यत्पितरश्चिन्न इंद्रेति पंचदश (*tve ha yatpitaraścinna iṃdreti paṃcadaśa*) (Ai. Ā. 5-2-2).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 2; Sūkta 18
+- Aṣṭaka 5; Adhyāya 2; Varga 24, 25, 26, 27, 28
+- Number of ṛks in the sūkta: 35 **NOTE**
+- Seer: Vasiṣṭha
+- Deity: 1-21 Indra; 22-25 the praise of the gift of Sudās Paijavana **NOTE**
+- Metre: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे ह॒ यत्पि॒तर॑श्चिन्न इंद्र॒ विश्वा॑ वा॒मा ज॑रि॒तारो॒ अस॑न्वन् ।  
+> त्वे गावः॑ सु॒दुघा॒स्त्वे ह्यश्वा॒स्त्वं वसु॑ देवय॒ते वनि॑ष्ठः ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । ह । यत् । पितरः । चित् । नः । इंद्र । विश्वा । वामा । जरितारः । असन्वन् ।  
+> त्वे इति । गावः । सुदुघाः । त्वे इति । हि । अश्वाः । त्वं । वसु । देवयते । वनिष्ठः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते ह त्वय्येव नोऽस्माकं पितरश्चित् पितरोऽपि जरितारः स्तोतारः
+> संतो यद्यस्मात्कारणाद्विश्वा विश्वानि वामा वामानि वननीयानि धनानि । तथा च
+> यास्कः । वामं वननीयं भवति । नि. ६-३१ । इति । असन्वन् अलभंत तस्माद्वयमपि
+> धनकामास्तां स्तुमः । तद्युक्तं । हि यस्मात्कारणात्वे त्वयि गावः सुदुघा
+> दोगुं सुशकाः संति त्वे त्वय्यश्वाः संति त्वं वसु धनं देवयते देवं त्वामिच्छते
+> यजमानाय वनिष्ठो दातृतमो भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in you alone our fathers too, being praisers, obtained all desirable riches, riches that are to be desired; so Yāska: वामं वननीयं भवति (*vāmaṃ vananīyaṃ bhavati*) (Ni. 6-31). Therefore we too, desiring wealth, praise you. That is fitting: for in you are cows that are easy to milk, in you are horses; you, to the sacrificer who desires you, the god, are the most liberal giver of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वे ह (*tve ha*)—by your favour alone
+- नः (*naḥ*)—our
+- पितरश्चित् (*pitaraścit*)—fathers also
+- जरितारः (*jaritāraḥ*)—as praisers of you
+- यत् (*yat*)—by which greatness of yours
+- विश्वा (*viśvā*)—all
+- वामा (*vāmā*)—and desired riches
+- असन्वन् (*asanvan*)—they obtained (cause us also to obtain them by that same greatness)
+
+### Printed p. 799
+
+- त्वे हि (*tve hi*)—in you alone
+- सुदुघाः (*sudughāḥ*)—that are excellent to milk
+- गावः (*gāvaḥ*)—there are cows
+- त्वे (*tve*)—in you alone
+- अश्वाः (*aśvāḥ*)—there are also horses
+- देवयते (*devayate*)—to the sacrificer who desires the worship of the gods
+- त्वं (*tvaṃ*)—you
+- वसु (*vasu*)—wealth
+- वनिष्ठः (*vaniṣṭhaḥ*)—you are one who gives in the highest degree
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your favour alone, our fathers also, as praisers of you, obtained all desired and esteemed riches by that greatness of yours; cause us also to obtain them by that same greatness. O Indra, horses and cows that are excellent to milk are in you alone. To the sacrificer who desires the worship of the gods you are one who gives wealth in the highest degree. **NOTE**
+
+##### English translation
+Our forefathers, Indra, glorifying you, have obtained all desirable (riches): in your gift are cows easy to be milked, and horses, and you are the liberal donor of wealth to the devout.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> राजे॑व॒ हि जनि॑भिः॒ क्षेष्ये॒वाव॒ द्युभि॑र॒भि वि॒दुष्क॒विः सन् ।  
+> पि॒शा गिरो॑ मघव॒न्नोभि॒रश्वै॑स्त्वाय॒तः शि॑तीहि रा॒ये  ॒
+> अस्मान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राजा इव । हि । जनिभिः । क्षेषि । एव । अव । द्युभिः । अभि । विदुः । कविः । सन् ॥  
+> पिशा । गिरः । मघवन् । गोभिः । अश्वैः । त्वायतः । शिशीहि । राये । आस्मान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं जनिभिर्जायाभी राजीव द्युभिर्दिप्तिभिः सह क्षेष्येव । निवसस्येव ।
+> हीति पूरणः । किं च हे मघवन् धनवन्निंद्र विदुर्विद्वान् कविः क्रांतकर्मा
+> क्रांतप्रज्ञो वा सन् गिरः स्तोत्थनस्मान् पिशा रूपेण हिरण्यादिना वा गोभिश्चाश्चैश्चाभि अभितो रक्ष । त्वायतस्त्वत्वामानस्मान् राये शिशीहि । धनार्थं च संस्करु॥
+
+##### Gist of the bhāṣya
+
+O Indra, you dwell with shining splendours, like a king with his wives. Moreover, O Maghavan, rich Indra, being knowing and a seer, one of surpassing deeds or of surpassing wisdom, protect us, your praisers, on every side, with beauty of form or with gold and the like, and with cows and horses. Make us, who long for you, fit for wealth. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 793. Ṛk 9 end, Ṛk 10-12 of VII.16, VII.17 Ṛk 1-3 start
+**Progress note:** Done through printed p. 799. VII.17 Ṛk 3-7 end; VII.18 intro and Ṛk 1-2
