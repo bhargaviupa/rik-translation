@@ -27094,6 +27094,209 @@ Adorable Maruts, you cause (a son) to be born to the man (who worships you), a r
 
 मुष्टिहा, बाहुजूतः—मुष्टिशब्दो बाहूपलक्षकः ॥ स्वभुजबलेनैव हंता शत्रूणां । तदेवोच्यते । बाहुजूतः बाहुः प्रेरकः शत्रूणां यस्य तादृशः पुत्र इति । (*muṣṭihā, bāhujūtaḥ—muṣṭiśabdo bāhūpalakṣakaḥ ‖ svabhujabalenaiva haṃtā śatrūṇāṃ | tadevocyate | bāhujūtaḥ bāhuḥ prerakaḥ śatrūṇāṃ yasya tādṛśaḥ putra iti |*) The word "fist" also means the arm; or else, "fist" is the name for folding the five fingers of the hand inwards and using that hand itself as a weapon. The meaning is a son who has the power to slay enemies by using the fist itself as a weapon, by the strength of his arm alone, without using any kind of weapon. To fight a wrestling bout by blows of the fist alone, without the help of weapons, much sturdiness and strength are needed in the body. In order to pray to the Marut deities to grant such an exceedingly strong and firm-limbed son, the words मुष्टिहा, बाहुजूतः (*muṣṭihā, bāhujūtaḥ*) are used in the present Ṛk.
 
+### Printed p. 753
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒राइ॒वेदच॑रमा॒ अहे॑व॒ प्रप्र॑ जायंते॒ अक॑वा॒ महो॑भिः ।  
+> पृश्नेः॑ पु॒त्रा उ॑प॒मासो॒ रभि॑ष्टाः॒ स्वया॑ म॒त्या म॒रुतः॒ सं  ॑
+> मिमिक्षुः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अराःइव । इत् । अचरमाः । अहाइव । प्रप्र । जायंते । अकवाः । महःभिः ।  
+> पृश्नेः । पुत्राः । उपमासः । रभिष्ठाः । स्वय्या । मत्या । मरुतः । सं । मिमिक्षुः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरुणप्रघासे मारुत्या आमिक्षाया अरा इवेति याज्या । सूत्रितं च । अरा
+> इवेदचरमा अहेवेमं मे वरुण श्रुधि । आ-२-१७ । इति ॥ एकादशिने मारुते पशावेषैन पशुपुरोडाशस्य याज्या । सूत्रितं च । अरा इवेदचरमा अहेव या व
+> शर्म शशमानाय संति । आ. ३-७ । इति ॥
+> अरा इवेत् रथशंकव इवाचरमा अनिकृष्टाः । सर्वसमाः सहैवोत्पन्नाश्चेत्यर्थः । अहेवाहानीव । दिवसा यथा सर्वेऽपि षष्टिघटिकात्मकास्तद्वत्सप्तसंख्योपेतसप्तगणरूपेण समा इत्यर्थः । अनेन दृष्टांतद्वयेन वैसदृश्याभावः प्रतिपादितः । एवमुक्तलक्षणा महोभिस्तेजोभिः प्रप्र जायंते । प्रकर्षेण प्रादुर्भवंति ॥
+> एकः प्रसमुपोदः पादपूरण इत्युपसर्गाभ्यासः स च पूरणः ॥ ते चाकवा अनल्पाः।
+> यद्वा महोभिरित्यस्य विशेषणं । पृश्नेर्माध्यमिकाया वाचो गोरूपाया
+> अंतरिक्षस्य ना पुत्रस्थानीया उपमासः प्रत्येकं समाना रभिष्ठाः प्रकृष्टवेगाः ।
+> एवं महानुभावा मरुतः स्वया मत्या स्वकीययैवानुग्रहबुद्ध्या संमिमिक्षुः ।
+> वृष्टा सम्यक् सिंचंति ॥
+
+##### Gist of the bhāṣya
+
+At the Varuṇa-praghāsa rite, for the Marut offering of curds (āmikṣā), "arā iva" is the yājyā verse; and the sūtra says: अरा इवेदचरमा अहेवेमं मे वरुण श्रुधि (*arā ivedacaramā ahevemaṃ me varuṇa śrudhi*) (Ā. 2-17). It is also the yājyā verse of the animal-cake offering in the Marut animal sacrifice of the eleven-stake kind**NOTE**; and the sūtra says: अरा इवेदचरमा अहेव या व शर्म शशमानाय संति । (*arā ivedacaramā aheva yā va śarma śaśamānāya saṃti |*) (Ā. 3-7).
+
+अरा इवेत् (*arā ivet*): like the spokes of a chariot wheel; अचरमाः (*acaramāḥ*): not inferior, that is, all alike, born together. अहेवाहानीव (*ahevāhānīva*): like the days; as all days consist of sixty ghaṭikās, so they are equal in the form of seven groups of seven each. By these two examples the absence of any dissimilarity is shown. Being of this nature, they are born forth with their splendours (mahas), that is, they appear in glory. The prefix is repeated to fill out the foot of the verse, and the repeated prefix is a filler. They are अकवा (*akavā*), not small. Or else it is an epithet of महोभिः (*mahobhiḥ*). Pṛśni is the middle speech in the form of a cow, that is, the atmosphere; those who stand as her sons are उपमासः (*upamāsaḥ*), each one like the other, and रभिष्ठाः (*rabhiṣṭhāḥ*), of surpassing speed. Such mighty Maruts, by their own mind, that is, by their own intention of showing favour, संमिमिक्षुः (*saṃmimikṣuḥ*): they pour down rain well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरा इवेत् (*arā ivet*)—like the spokes of a chariot wheel
+- अचरमाः (*acaramāḥ*)—none inferior to another
+- अहेव (*aheva*)—the Maruts, all equal like the days
+- अकवाः (*akavāḥ*)—not small, having greatness
+
+### Printed p. 754
+
+- महोभिः (*mahobhiḥ*)—with great splendours
+- प्रप्र जायंते (*prapra jāyaṃte*)—appear together in the same manner
+- उपमासः (*upamāsaḥ*)—those who resemble one another
+- रभिष्ठाः (*rabhiṣṭhāḥ*)—those of excellent speed
+- पृश्नेः पुत्राः (*pṛśneḥ putrāḥ*)—sons of Pṛśni
+- मरुतः (*marutaḥ*)—the Maruts
+- स्वया मत्या (*svayā matyā*)—by their own self-prompted intention of favour
+- सं मिमिक्षुः (*saṃ mimikṣuḥ*)—pour down rain
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who like the spokes of a chariot wheel are none inferior to another, and who like the days are all equal, being great appear together in the same manner with their great splendours. The Maruts, who resemble one another, are of excellent speed and are the sons of Pṛśni, pour down rain by their own self-prompted intention of favour.
+
+##### English translation
+Like the spokes of a wheel, none (of you) are inferior (to the rest), but equal as days (of like duration): the sons of Prishni are born all alike, none inferior in splendour: rapid in speed, the Maruts, of their own free favour, send down (the rains).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the rite called वरुणप्रघास (*varuṇapraghāsa*), in the offering made to the deities Āmikṣā and the Maruts, this Ṛk अरा इवेदचरमा (*arā ivedacaramā*) is to be used as the yājyā mantra, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, अरा इवेदचरमा अहेवेनुं मे वरुण श्रुधि (*arā ivedacaramā ahevenuṃ me varuṇa śrudhi*) (Ā. 2-17). In the animal sacrifice connected with the eleven-stake Marut rite also, this very Ṛk is to be used as the yājyā mantra in the offering of the animal-cake, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, अरा इवेदचरमा अहेव या वः शर्म शशमानाय संति (*arā ivedacaramā aheva yā vaḥ śarma śaśamānāya saṃti*) (Ā. 3-7).
+
+In this Ṛk two comparisons are given for the point that all the Marut deities are alike. अराइवेत् अचरमाः (*arāivet acaramāḥ*): as the spokes (spokes) of a chariot wheel are all equal, neither more nor less, and all of one kind, so each one of the Marut deities is of one kind. There is no difference whatever among them in form, in quality, in shape, in greatness or in origin. It is fitting that this has been explained by the example of the spokes of a chariot wheel. In the same way the other example, अहेव (*aheva*), is also most fitting. The days are all of one kind. As yesterday, so today; as today, so tomorrow; as tomorrow, so the day after, and so on: every day is of one kind without any difference, whether in brightness,
+
+### Printed p. 755
+
+or in measure. Therefore these two kinds of example suit the Marut deities very well.
+
+स्वया मत्या मरुतः सं मिमिक्षुः—स्वकीयैवानुग्रहबुद्ध्या वृष्टा सम्यक् सिंचंति । (*svayā matyā marutaḥ saṃ mimikṣuḥ—svakīyaivānugrahabuddhyā vṛṣṭā samyak siṃcaṃti |*) These Marut deities pour down rain by their own mind, that is, without the compulsion or prompting of others, by the good intention that they should show favour to the people: this is the meaning.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्प्राया॑सिष्ट॒ पृष॑तीभि॒रश्वै॑र्वीळुप॒विभि॑र्मरुतो॒ रथे॑भिः।  
+> क्षोदं॑त॒ आपो॑ रिण॒ते वना॒न्यवो॒स्स्रियो॑ वृष॒भः क्रं॑दतु॒  
+> द्यौः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । प्र । अयासिष्ट । पृषतीभिः । अश्वैः । वीळुपविभिः । मरुतः । रथेभिः ।  
+> क्षोदंते । आपः । रिणते । वनानि । अव । उस्रियः । वृषभः । क्रंदतु । द्यौः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यद्यदा प्रायासिष्ट प्रगच्छथ पृषतीभिः पृषत्संज्ञकैरश्वैर्वाहनसाधनैरश्वैः । अश्वशब्दोऽत्र वाहनसामान्यवचनः । अतः पुल्लिंगता । तथान्यत्र !
+> यदश्वान्सूष्टु पृषतीरयुग्ध्वं । ऋग्वे-५-५५-६ । रोहिदश्वोऽजाश्व इति समानाधिकरण्यप्रयोगः । एवंभूताश्वयुक्तैर्वीळुपविभिर्दृढरथनेमिभी रथेभिः प्रायासिष्ट। यद्वा। अश्वै रथैश्च सह मरुतो यदा प्रायासिष्ट तदापः क्षोदंते। क्षरंति!
+> वनानि वृक्षसमूहा रिणते । हिंस्यंते । वेगेन भज्यंते । उस्रियः! उस्राः सूर्यरश्मयः । तत्संबंधी पर्जन्यो वृषभोऽपां वर्षिता द्यौर्द्योतमानोऽव क्रंदतु।
+> अवाङ्मुखं शब्दयतु वृष्ट्यर्थं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, when you set out with spotted horses, horses called pṛṣat, which are the means of conveyance (the word horse here is a general word for a conveyance, hence the masculine form). So elsewhere also: यदश्वान्सूष्टु पृषतीरयुग्ध्वं (*yadaśvānsūṣṭu pṛṣatīrayugdhvaṃ*) (Ṛgve. 5-55-6)**NOTE**; रोहिदश्वोऽजाश्व (*rohidaśvo 'jāśva*) are similar usages in the same case. You set out with chariots yoked with such horses and having firm wheel-rims. Or else: when the Maruts set out together with horses and chariots, then the waters flow forth, the clusters of trees are damaged, that is, broken by the speed. उस्रियः (*usriyaḥ*) are the rays of the sun; Parjanya connected with them, the showerer of the waters, the shining heaven, let him roar downward, let him sound with his face turned down, for the sake of rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यत् (*yat*)—when
+- पृषतीभिः (*pṛṣatībhiḥ*)—with those named pṛṣat
+- अश्वैः (*aśvaiḥ*)—yoked with horses
+- वीळुपविभिः (*vīḷupavibhiḥ*)—having firm wheel-rims**NOTE**
+- रथेभिः (*rathebhiḥ*)—with chariots
+
+### Printed p. 756
+
+- प्रायासिष्ट (*prāyāsiṣṭa*)—you set out (then)
+- आपः (*āpaḥ*)—the waters
+- क्षोदंतॆ (*kṣodaṃtè*)—flow forth and run
+- वनानि (*vanāni*)—clusters of trees
+- रिणते (*riṇate*)—are damaged
+- उस्रियः (*usriyaḥ*)—one impelled by the sun's rays
+- वृषभः (*vṛṣabhaḥ*)—Parjanya, the maker of rain
+- द्यौः (*dyauḥ*)—shining
+- अवक्रंदतु (*avakraṃdatu*)—let him sound with his face turned down
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, when you set out with chariots yoked with the horses called pṛṣat and having firm wheel-rims, then the waters flow forth and run, the clusters of trees are damaged. Let Parjanya, impelled by the sun's rays and the maker of rain, shining, make a sound with his face turned down, for the sake of rain.
+
+##### English translation
+When, Maruts, you come with stout-axled cars drawn by spotted steeds, then the waters descend, the forests are damaged, and the bright showerer (of the rain), influenced by the solar rays, may emit a downward sound.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the pouring down of rain is described. When the Marut deities set out seated in their chariots, that is, when the atmosphere is covered with black clouds and the storm wind is blowing with the utmost force, the rain falls from the atmosphere upon the earth and runs in the form of floods. As the wind blows with the utmost speed, the trees shake, and sometimes are overthrown with their roots, and so suffer damage. In such a situation Parjanya, the maker of creation, produces fearful sounds such as thunder and lightning as signs of rain: this description of rain is stated here.
+
+पृषतीभिः अश्वैः— पृषत्संज्ञकैरश्वैर्वाहनसाधनैरश्वैः। अश्वशब्दोऽत्र वाहनसामान्यवचनः । (*pṛṣatībhiḥ aśvaiḥ— pṛṣatsaṃjñakairaśvairvāhanasādhanairaśvaiḥ| aśvaśabdo 'tra vāhanasāmānyavacanaḥ |*) In describing the various vehicles of the deities, Yāska has said पृषत्यो (*pṛṣatyo*): the deer with white spots are themselves the vehicles of the Marut deities (Ni. 2.28).
+
+यदश्यान्नूर्षु पृषतीरयुग्ध्वं हिरण्ययान्यत्या अमुग्धं (*yadaśyānnūrṣu pṛṣatīrayugdhvaṃ hiraṇyayānyatyā amugdhaṃ*) (Ṛ. Saṃ. 5-55-6)
+
+In this Ṛk it is said, yoke to the chariot your horses called पृषतीः (*pṛṣatīḥ*)." In the present Ṛk there are the two words पृषतीभिः (*pṛṣatībhiḥ*) and अश्वैः (*aśvaiḥ*). If पृषतीभिः (*pṛṣatībhiḥ*) means the vehicles of the Marut deities,
+
+### Printed p. 757
+
+is not the use of the word अश्वैः (*aśvaiḥ*) useless? To this: the commentator has explained the word horse here as a general word for a vehicle. That is, the meaning of these two words is to be understood as the horses (deer) called pṛṣatī that carry the Marut deities.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रथि॑ष्ट॒ याम॑न्‌पृथि॒वी चि॑देषां॒ भर्ते॑व॒ गर्भं॒ स्वमिच्छवो॑  
+> धुः ।  
+> वाता॒न्‌ह्यश्वा॑न्थु॒र्या॑युयु॒ज्रे व॒र्षं स्वेदं॑ चक्रिरेरु॒द्रिया॑सः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रथिष्ट । यामन् । पृथिवी । चित् । एषां । भर्ताऽइव । गर्भं । स्वं । इत् । शवः ।  
+> धुः ।  
+> वातान् । हि । अश्वान् । धुरि । आयुयुज्रे । वर्षं । स्वेदं । चक्रिरे । रुद्रियासः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां मरुतां यामन्यामनि गमने पृथिवी चित् भूमिः । चिदिति पूरणः ।
+> प्रथिष्ट । प्रख्याताभवत् । गर्भयोग्याभवदित्यर्थः । ते च मरुतो भर्ता लौकिकः
+> पतिर्गर्भमिव भार्यायास्तथा भूम्याः स्वमित्स्वभूतं गर्भं गर्भस्थानीयं शव
+> उदकं धुः । स्थापितवंतः । हि यस्माद्वातात् गंत्र्यनश्वान् धुरि रथसंबंधिन्यायुयुज्रे आयोजितवंतः तस्माद्वर्षं स्वेदं स्वेदस्थानीयं वृष्टिसंस्कृत्यायं
+> चक्रिरे कुर्वंति रुद्रियासो रुद्रपुत्राः ॥
+
+##### Gist of the bhāṣya
+
+In the going of these Maruts, the earth became renowned, that is, became fit for conception; चित् (*cit*) is a filler. And those Maruts, as a worldly husband places an embryo in his wife, so placed in the earth their own embryo-like water (शव (*śava*) means water). Because they have yoked to the yoke of the chariot horses swift as the wind**NOTE**, therefore they make rain, which stands in the place of sweat**NOTE**. रुद्रियासो (*rudriyāso*) means the sons of Rudra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these Maruts
+- यामन् (*yāman*)—at the time of going
+- पृथिवी (*pṛthivī*)—the earth
+- प्रथिष्ट (*prathiṣṭa*)—became fertile
+- भर्ता (*bhartā*)—a worldly husband
+- गर्भं इव (*garbhaṃ iva*)—as he places the embryo in his wife (so the Maruts also)
+- स्वमित् (*svamit*)—their own, in the form of an embryo
+- शवः (*śavaḥ*)—the water
+- धुः (*dhuḥ*)—have placed (in the earth)
+
+### Printed p. 758
+
+- हि (*hi*)—therefore
+- वातान् (*vātān*)—swift like the wind
+- अश्वान् (*aśvān*)—their horses
+- धुरि (*dhuri*)—to the yoke of the chariot
+- आ युयुज्रे (*ā yuyujre*)—have joined and tied
+- रुद्रियासः (*rudriyāsaḥ*)—the Maruts, sons of Rudra
+- स्वेदं (*svedaṃ*)—their own, in the form of sweat
+- वर्षं (*varṣaṃ*)—the rain
+- चिक्रिरे (*cikrire*)—pour down**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of the going of these Maruts the earth becomes fertile. As a worldly husband places an embryo in his wife, the Maruts also have placed in the earth their own water, which is like an embryo. Therefore they have joined and tied their horses, swift as the wind, to the yoke of the chariot. The Maruts, sons of Rudra, pour down their rain, which is like sweat.
+
+##### English translation
+On their approach the earth becomes capable of fertility, and they deposit in her water as their germ, as the husband generates the embryo of the child : they have harnessed their horses fleet as the wind: the sons of Rudra have emitted their perspiration, (the rain).
+
+##### विशेषविषयगळु (Special Topics)
+
+एषां यामन् पृथिवी प्रथिष्टा चित्—मरुतां गमने भूमिः प्रख्याताभवत् । (*eṣāṃ yāman pṛthivī prathiṣṭā cit—marutāṃ gamane bhūmiḥ prakhyātābhavat |*) It is said here that by the coming of the Marut deities the earth became fertile. With the coming of the Marut deities the rain pours down abundantly, the earth becomes wet, and this helps plants and the like to sprout. Therefore the assertion that the coming of the Marut deities is the cause of the earth's fertility is only natural. In this matter the Ṛṣi has here given an example:
+
+भर्तेव गर्भं स्वमिच्छवो धुः—ते च मरुतो लौकिकः पतिः गर्भमिव भार्यायास्तथा भूम्याः स्वमित् स्वभूतं गर्भं गर्भस्थानीयं शव उदकं धुः स्थापितवंतः । (*bharteva garbhaṃ svamicchavo dhuḥ—te ca maruto laukikaḥ patiḥ garbhamiva bhāryāyāstathā bhūmyāḥ svamit svabhūtaṃ garbhaṃ garbhasthānīyaṃ śava udakaṃ dhuḥ sthāpitavaṃtaḥ |*)
+
+The idea stated here is that, as in the ways of the world a husband places an embryo in his wife and from it a son is born, so the Marut deities, by pouring water (rain) on the earth, which stands in the place of the wife, are the cause of the birth of plants and the like.
+
+स्वेदं वर्षं-स्वेदस्थानीयं वृष्टिसंत्यायं (*svedaṃ varṣaṃ-svedasthānīyaṃ vṛṣṭisaṃtyāyaṃ*)**NOTE** Here the water in the form of rain
+
 ---
 
-**Progress note:** Done through printed p. 752. Sukta 58 Rk 3 end (Nirukta on kavi) and Rk 4
+**Progress note:** Done through printed p. 758. Sukta 58 Rks 5-7 (Maruts)
