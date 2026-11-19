@@ -31063,6 +31063,271 @@ This sūkta, अबोधि जारः (*abodhi jāraḥ*), is the ninth sūk
 
 Agni, the jāra, the one who causes all beings to age, the hotṛ and invoker of the gods, mandra, the gladdener or the praiseworthy, kavitama, the wisest, pāvaka, the purifier, has awakened in the midst of the dawns, from their lap. Further, he gives keen knowledge to the creature of both kinds, two-footed and four-footed, divine or human. And he places oblations among the gods, and wealth among the sacrificers who do good works.
 
+### Printed p. 733
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जारः (*jāraḥ*)—he who makes all beings decay
+- होता (*hotā*)—the invoker of the gods
+- मंद्रः (*maṃdraḥ*)—the praiseworthy
+- कवितमः (*kavitamaḥ*)—the exceedingly wise
+- पावकः (*pāvakaḥ*)—the purifier; such is Agni
+- उषसां (*uṣasāṃ*)—of the dawns
+- उपस्थात् (*upasthāt*)—from the midst
+- अबोधि (*abodhi*)—having become manifest, he has become visible to the world
+- उभयस्य (*ubhayasya*)—of the gods, men and others
+- जंतोः (*jaṃtoḥ*)—to all beings
+- केतुं (*ketuṃ*)—knowledge
+- दधाति (*dadhāti*)—he produces
+- देवेषु (*deveṣu*)—among the gods
+- हव्या (*havyā*)—oblations (he distributes)
+- सुकृत्तु (*sukṛttu*)—among the sacrificers who are doers of excellent works
+- द्रविणं (*draviṇaṃ*)—wealth, he fills up
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who makes all beings decay, who is the invoker of the gods, the praiseworthy, the exceedingly wise, the purifier, has become manifest from the midst of the dawns and visible to the world. He has produced knowledge for all beings, gods, men and the rest. Among the gods he distributes the oblation. Among the sacrificers, the doers of excellent works, he fills up wealth.
+
+##### English translation
+The waster away (of living creatures), the invoker (of the gods), the giver of delight, the wisest of the wise, the purifier, (Agni), has been manifested from the lap of the dawn : he gives consciousness to both classes of beings (men and animals), oblations to the gods, and wealth to the pious.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सु॒क्रतु॒र्यो वि दुरः॑ पणी॒नां पु॑ना॒नो अ॒र्कं पु॑रु॒भोज॑सं नः ।  
+> होता॑ मं॒द्रो वि॒शां दमू॑नास्ति॒रस्तमो॑ ददृशे रा॒म्याणां॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सुक्रतुः । यः । वि । दुरः । पणीनां । पुनानः । अर्कं । पुरुभोजसं । नः ।  
+> होता । मंद्रः । विशां । दमूनाः । तिरः । तमः । ददृशे । राम्याणां ॥ २ ॥
+
+### Printed p. 734
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः सुक्रतुः सुकर्मा सुप्रज्ञो वा भवति। योऽग्निः पणेनामसुराणां
+> दुरो द्वाराणि गवां पिधानानि विवृतवान्। पुरुभोजसं बहुक्षीरमर्कमर्चनीयं
+> गवां संघं नोऽस्मदर्थं पुनानः शोधयन् । हरन्नित्यर्थः होता देवानामाह्वाता मंद्रो मदयिता स्तुत्यो वा दमूना दांतमना दममना दानमना
+> वा राम्याणां रात्रिणां रमयित्रिणां वा विशां जनानां यजमानानां वा
+> तमोऽंधकारं तिरस्कुर्वन् ददृशे दृश्यते च । यद्वा । तमस्तिरो ददृशे ।
+> नाशयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+He, Agni, is sukratu: one of good works, or of good understanding. He is the Agni who opened the doors of the Paṇis, who are Asuras, that is, the coverings that held in the cows. For us he purifies, that is, carries off, a herd of cows, rich in milk and worthy of worship. He is the hotṛ, the invoker of the gods; mandra, the gladdener, or else the praiseworthy; damūnā, of a subdued mind, or of a mind bent on restraint, or of a mind bent on giving. Of the rāmyā, the nights, or those who give delight, and of the viś, the people, or the sacrificers, putting the darkness aside, he is seen. Or else the phrase may be taken as "he is seen putting the darkness away", that is, he destroys it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Agni who
+- पणीनां (*paṇīnāṃ*)—of the Paṇis
+- वि दुरः (*vi duraḥ*)—having opened the doors that held in the cows
+- पुरुभोजसं (*purubhojasaṃ*)—that gives abundant milk
+- अर्कं (*arkaṃ*)—and is worthy of worship, the herd of cows
+- नः (*naḥ*)—for us
+- पुनानः (*punānaḥ*)—setting free
+- सुक्रतुः (*sukratuḥ*)—he who is possessed of excellent works
+- सः (*saḥ*)—such
+- होता (*hotā*)—of the form of the hotṛ
+- मंद्रः (*maṃdraḥ*)—the giver of happiness
+- दमूनाः (*damūnāḥ*)—of a giving mind; such is Agni
+- राम्याणां (*rāmyāṇāṃ*)—who are in the darkness of the night
+- विशां (*viśāṃ*)—to the people
+- तमः (*tamaḥ*)—the darkness
+- तिरः (*tiraḥ*)—driving away
+- ददृशे (*dadṛśe*)—he became visible
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, having opened the doors by which the Paṇis had shut in the cows, sets free for us the herd of cows, abundant in milk and worthy of worship, and who is possessed of excellent works, he who is of the form of the hotṛ, the giver of happiness, of a giving mind, that Agni, driving away the darkness of the night, became visible to the people who were in the darkness.
+
+##### English translation
+He, the doer of great deeds who forced open the doors of the Panis, recovering for us the sacred food-bestowing (herd of cows), he who is the invoker of the gods, the giver of delight, the lowly-minded, is seen of all people dissipating the gloom of the nights.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अमू॑रः क॒विरदि॑तिर्वि॒वस्वा॑न्तुस्सं॒सन्नि॒त्रो अति॑थिः शि॒वो नः॑ ।  
+> चि॒त्रभा॑नुरु॒षसां॑ भा॒त्यग्रे॒ऽपां गर्भः॑ प्र॒स्व१॒॑१ आ वि॑वेश ॥ ३ ॥
+
+### Printed p. 735
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमूरः । कविः । अदितिः । विवस्वान् । सुसंसत् । मित्रः । अतिथिः । शिवः । नः ।  
+> चित्रभानुः । उषसां । भाति । आग्रे । अपां । गर्भः । प्रस्वः । आ । विवेश ॥-३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निरमूरोऽमूढः कविः प्राज्ञोऽदितिरदीनो विवस्वान् दीप्तिमान्
+> सुसंसत् शोभनसदनः शोभनसंवेदनो वा मित्रः प्रमीतेस्त्राता सर्वेषामतिथिरतिथिवत्तूज्यः शिवः शिवकरो जगतश्चित्रभानुश्चित्रदीप्तिरुषसामग्रे मुखे भातिसोऽयमपां गर्भः सन् प्रस्वो जायमाना ओषधीरा विवेश ॥
+
+##### Gist of the bhāṣya
+
+The Agni who is amūra, not bewildered; kavi, wise; aditi, not poor; vivasvān, radiant; susaṃsat, of a fair abode, or of fair knowledge; mitra, the protector of those who are about to die; the guest of all, to be honoured like a guest; śiva, the doer of good to the world; citrabhānu, of wondrous radiance, shines at the front, at the head, of the dawns. This same Agni, being the embryo of the waters, has entered the plants as they are born.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (यः (*yaḥ*)—the Agni who)
+- अमूरः (*amūraḥ*)—free from bewilderment
+- कविः (*kaviḥ*)—the wise
+- आदितिः (*āditiḥ*)—free from poverty
+- विवस्वान् (*vivasvān*)—endowed with radiance
+- सुसंसत् (*susaṃsat*)—possessed of an excellent abode
+- मित्रः (*mitraḥ*)—the protector of friends
+- अतिथिः (*atithiḥ*)—the worshipful
+- शिवः (*śivaḥ*)—the maker of welfare
+- चित्रभानुः (*citrabhānuḥ*)—possessed of an attractive splendour
+- उषसां (*uṣasāṃ*)—of the dawns
+- आग्रे (*āgre*)—at the time of rising
+- भाति (*bhāti*)—he who shines (that Agni)
+- अपां (*apāṃ*)—to the waters
+- गर्भः (*garbhaḥ*)—having become the embryo
+- प्रस्वः (*prasvaḥ*)—the plants that have just come into being
+- आ विवेशॆ (*ā viveśè*)—he enters
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, being free from bewilderment, wise, free from poverty, radiant, possessed of an abode, the protector of friends, worshipful, the maker of welfare, possessed of an attractive splendour, shines at the time of the rising of the dawns, that same Agni, as the embryo of the waters, enters the plants that have just come into being.
+
+##### English translation
+Unperplexed, far-seeing, elevated, resplendent, right-directing, a friend, a guest, the bestower of prosperity upon us, the wonderfully radiant, he shines before the dwans the embryo of the waters, he has entered into the nascent plants.
+
+### Printed p. 736
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒ळेन्नो॑ वो॒ मनु॑षो यु॒गेषु॑ समन॒गा अ॑शुचज्जा॒तवे॑दाः ।  
+> सु॒सं॒दृशा॑ भा॒नुना॒ यो वि॒भाति॒ प्रति॒ गावः॑ समिधा॒नं  ॑
+> बुधंत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईळेन्यः । वः । मनुषः । युगेषु । समनगाः । अशुचत् । जातवेदाः ।  
+> सुसंदृशा । भानुना । यः । विभाति । प्रति । गावः । संइधानं । बुधंत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वस्त्वं ॥ अत्र विभक्तिवचनव्यत्ययः ॥ मनुषो मनुष्यस्य युगेषु
+> यागकालेषु सर्वेष्टपि दिवसेषु वेळेन्यः स्तुत्यः । आतः परं परोक्षस्तुति ॥
+> योऽग्निर्जातवेदा जातधनः समनगा युद्धेषु संगंता सन् अशुचत् दीप्यते ।
+> सुसंदृशा सुसंदर्शनेन भानुना तेजसा विभाति च । तमग्निं समिधानं समिध्यमानं
+> गावः स्तुतयः प्रति बुधंत । प्रतिबोधयंति ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you": here there is an interchange of case ending and number.**NOTE** You are to be praised in the yugas of man, that is, at the times of sacrifice, on all days. From here on the praise is in the third person. The Agni who is jātavedas, possessed of wealth, who is present in battles, shines; and he shines with a fair-looking splendour, with radiance. That Agni, as he is kindled, the gāvaḥ, that is, the praises, awaken.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) वः (*vaḥ*)—you
+- मनुषः (*manuṣaḥ*)—of man
+- युगेषु (*yugeṣu*)—at all times of sacrifice
+- ईळेन्यः (*īḷenyaḥ*)—you are to be praised
+- यः (*yaḥ*)—the Agni who
+- जातवेदाः (*jātavedāḥ*)—being of the form of Jātavedas
+- समनगाः (*samanagāḥ*)—pressing forward in battle
+- आशुचत् (*āśucat*)—shines (and)
+- सुसंदृशा (*susaṃdṛśā*)—of excellent manifestation
+- भानुना (*bhānunā*)—with splendour
+- विभाति (*vibhāti*)—shines
+- समिधानं (*samidhānaṃ*)—(such) kindled Agni
+- गावः (*gāvaḥ*)—our praises
+- प्रति बुधंत (*prati budhaṃta*)—awaken
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are to be praised at all times of man's sacrifice. The Agni who, being of the form of Jātavedas, shines pressing forward in battle, and who shines with a splendour of excellent manifestation, such a kindled Agni our praises awaken.
+
+### Printed p. 737
+
+##### English translation
+You, Agni, are to be glorified in (all) the ages of men : you, Jatavedas, who are illustrious when engaged in battle : our praises wake up the kindling (Agni), him who shines with conspicuous splendour.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ या॒हि दू॒त्यं१॒॑ १ मा रि॑षण्यो दे॒वा अच्छा॑ ब्रह्म॒कृता॑  ॒॑
+> गणेन ।  
+> सर॑स्वतीं म॒रुतो॑ अ॒श्विना॒पो यक्षि॑ दे॒वान्र॑त्न॒धेया॑य॒  ॑
+> विश्वान् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । याहि । दूत्यं । मा । रिषण्यः । देवान् । अच्छ । ब्रह्मकृता । गणेन ।  
+> सरस्वतीं । मरुतः । अश्विना । अपः । यक्षि । देवान् । रत्नधेयाय । विश्वान् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वदेवे पशावग्ने याहीति हविषो याज्या । सूत्रितं च । अग्ने याहि
+> दूत्यं मा रिषण्य इंद्रं नरो नेमधिता हवंत इति तिस्रः । आ. ३-७ । इति ॥
+> हे अग्ने दूत्यं दूतस्य कर्म हविर्वहनादि याहि देव्वानच्छाभिगच्छ । गणेन
+> संघेन सह ब्रह्मकृता ब्रह्मकृतोऽस्मानस्मदीयांश्च तव स्तोत्थान्मा रिषण्यः । मा
+> हिंसीः । सरस्वतीं मरुतोऽश्विनाश्विनावपश्च एतान् देवान् रत्नधेयायास्मभ्यं
+> रत्नदानाय यक्षि च ॥
+
+##### Gist of the bhāṣya
+
+In the Vaiśvadeva animal sacrifice, the verse beginning "Agne yāhi" is the yājyā for the oblation. It is laid down in the sūtra: "Agne yāhi dūtyam mā riṣaṇyaḥ, Indram naro nemadhitā havante: three Ṛks" (Ā. 3-7). O Agni, go to the gods, to the office of the messenger, the carrying of the oblation and the rest, together with the assembly of those who make prayer; do not harm us and those of our own, your praisers. Sarasvatī, the Maruts, the Aśvins, the waters: worship these gods, that is, all of them, that they may give us treasure.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- दूत्यं (*dūtyaṃ*)—taking up the office of a messenger who carries the oblation
+- देवान् अच्छ (*devān accha*)—facing the gods
+- याहि (*yāhi*)—set out
+- ब्रह्मकृता (*brahmakṛtā*)—who are praisers
+- गणेन (*gaṇena*)—our assemblies
+- मा रिषण्यः (*mā riṣaṇyaḥ*)—do not harm
+- सरस्वतीं (*sarasvatīṃ*)—Sarasvatī
+- मरुतः (*marutaḥ*)—the Marut deities
+- अश्विना (*aśvinā*)—the Aśvin deities
+- अपः (*apaḥ*)—the deity of the waters
+- विश्वान् देवान् (*viśvān devān*)—and all the gods of this kind
+- रत्नधेयाय (*ratnadheyāya*)—that they may be ready to bestow wealth on us
+- यक्षि (*yakṣi*)—worship
+XXI 47
+
+### Printed p. 738
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, taking up the office of a messenger who carries the oblation, set out facing the gods. Do not harm our assemblies, who are praisers. Worship Sarasvatī, the Marut deities, the Aśvin deities, the waters**NOTE**, and all the gods of this kind, in order that they may become givers of wealth to us.
+
+##### English translation
+Rcpair, Agni, to the presence of the gods in your office of messenger, (sent) by the assembly engaged in prayer : neglect us not : offer worship to Saraswati, the Maruts, the Ashwins, the waters, the universal gods, that they may bestow treasures (upon us).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice made for the Viśvedevas, this Ṛk, "Agne yāhi", is to be recited as the yājyā mantra when the oblation is offered. This is explained by the sūtra of the Āśvalāyana Śrautasūtra, अग्ने याहि दूत्यं मा रिषण्य इंद्रं नरो नेमधिता हवंत इति तिस्रः (*agne yāhi dūtyaṃ mā riṣaṇya iṃdraṃ naro nemadhitā havaṃta iti tisraḥ*) (Ā. 3-7).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने समिधा॒नो वसि॑ष्ठो॒ जरू॑थं ह॒न्यक्षि॑ रा॒ये पुरं॑धिं।  
+> पु॒रु॒णी॒था जा॑तवेदो जरस्व यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । संइधानः । वसिष्ठः । जरूथं । हन् । यक्षि । राये । पुरंधिं ।  
+> पुरुनीथा । जात्यवेदः । जरस्व । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां वसिष्ठ ऋषिः समिधानो भवति । त्वं च जरूथं परुषभाषिणं
+> चरणीयं वा रक्षोगणं हन् । जहि । राये धनवते यजमानाय पुरंधिं
+> बहुधियं देवगणं । तथा च यास्कः । पुरंधिर्बहुधीरिति । यक्षि । यज । किंच हे
+
+##### Gist of the bhāṣya
+
+O Agni, the seer Vasiṣṭha kindles you. And you, slay the host of Rakṣas, harsh of speech, or those that go about. For the wealthy sacrificer, worship the divine host of many thoughts, the purandhi; and so Yāska says: "Purandhi is of many thoughts." Worship. And further, O
+
 ---
 
-**Progress note:** Done through printed p. 732. Sūkta 8 Ṛk 3-7, Sūkta 9 Ṛk 1 (pp. 727-732)
+**Progress note:** Done through printed p. 738. Maṇḍala 7 sūkta 9 Ṛks 1-6 (pp. 733-738)
