@@ -24426,6 +24426,267 @@ O Indra, extend towards us, facing us, your two arms, wide, doers of deeds and e
 ##### English translation
 Extend towards us your long, active, and bountiful hands, (to bring us) food : be about us, lowly-minded indra, in battle, as a herdsman (tends) the herds of cattle.
 
+### Printed p. 706
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं व॒ इंद्रं॑ च॒तिन॑मस्य शा॒कैरि॒ह नू॒नं वा॑ज॒यंतो॑ हुवेम।  
+> यथा॑ चि॒त्तूर्वे॑ जरि॒तार॑ आ॒सुरने॑द्या अनव॒द्या अरि॑ष्टाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वः । इंद्रं । चतिनं । अस्य । शाकैः । इह । नूनं । वाजयंतः । हुवेम ।  
+> यथा । चित् । पूर्वे । जरितारः । आसुः । अनेक्याः । अनवद्याः । अरिष्वाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नूनमद्येहास्मिन्यज्ञे वाजयंतोऽन्नमिच्छंतो वयं स्तोतारः शाकैः
+> शक्तैः समर्थैरस्य तव सहायैर्मरुद्भिः सहितं चतिनं शत्रूणां चातकं । नाशकमित्यर्थः । इंद्रं परमेश्वरं तं वः प्रसिद्धं त्वां हुवेम । स्तुमः । यथा चिद्यथैव
+> पूर्वे पुरातना जरितारः स्तोतारोऽनेद्या अनिंद्या अनवद्याः पापरहिता अरिष्टा
+> अहिंसिताश्चासुः बभूवुः हे इंद्र त्वत्प्रसादाद्वयमपि तथैव भवेमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Today, here at this sacrifice, we singers, desiring food, call upon Indra, the supreme lord, the well-known one, who together with his able and powerful helpers the Maruts is the destroyer of enemies; the word cātaka here means destroyer. We praise you. Just as the ancient singers were blameless, free from reproach, free from sin and unharmed, so, O Indra, by your grace may we also become the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इह (*iha*)—in this sacrifice
+- वाजयंतः (*vājayaṃtaḥ*)—we, who desire food
+- अस्य शाकैः (*asya śākaiḥ*)—together with the Maruts, the helpers of Indra
+- चतिनं (*catinaṃ*)—and the destroyer of enemies
+- तं (*taṃ*)—and the well-known
+- वः इंद्रं (*vaḥ iṃdraṃ*)—you, Indra
+- हुनेम (*hunema*)—we praise
+- यथा चित् (*yathā cit*)—in which manner
+- पूर्वे (*pūrve*)—our ancestors
+- जरितारः (*jaritāraḥ*)—were singers of praise
+- आनेद्याः (*ānedyāḥ*)—and blameless
+- अनवद्याः (*anavadyāḥ*)—and free from sin
+- अरिष्टाः (*ariṣṭāḥ*)—and non-injuring **NOTE**
+- आसुः (*āsuḥ*)—were (so may we also be)
+
+##### भावार्थ (Bhāvārtha)
+
+In this sacrifice we, who desire food, praise Indra, the destroyer of enemies and the well-known one, together with his helpers the Maruts. O Indra, in the manner in which our ancestors were singers of praise, blameless, free from sin and non-injuring, so may we also become.
+
+### Printed p. 707
+
+##### English translation
+Desiring sustenance, we invoke you, the renowned Indra, on this occasion, the destroyer (of enemies), together with his powerful allies (the Maruts): as his ancient adorers have been, (may we be), exempt from blame, irreproachable, unharmed.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धृ॒तव्र॑तो धन॒दाः सोम॑वृद्धः॒ स हि वा॒मस्य॒ वसु॑नः पुरु॒क्षुः।  
+> सं ज॑ग्मिरे प॒थ्या॒३॒॑ ३ रायो॑ अस्मिन्त्समु॒द्रॆ न सिंध॑वो॒  ॑
+> यादमानाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धृतव्रतः । धनदाः । सोमवृद्धः । सः । हि । वामस्य । वसुनः । पुरुक्षुः ।  
+> सं । जग्मिरे । पथ्याः । रायः । अस्मिन् । समुद्रॆ । न । सिंधवः । यादमानाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि स खल्विंद्रो धृतव्रतो धृतकर्मा । धनदाः स एव धनप्रदः । कीदृशस्य
+> धनस्येत्याकांक्षायामुपसर्जनीभूतस्यापि धनस्य विशेषणे वामस्य वसुन इति ।
+> वामस्य वननीयस्य वसुनः श्रेष्ठस्य । यद्वा । वसुनो धनस्य स्वामीति शेषः ।
+> सोमवृद्धः स एव सोमेन प्रवृद्धः । पुरुक्षुर्बह्वन्नः स एव । अस्मिन्निंद्र एव पथ्याः
+> स्तोत्यणां हितानि रायो धनानि सं जग्मिरे । संगच्छंते । तत्र दृष्टांतः । सिंधवो
+> नद्यः समुद्रॆ न यथा समुद्रॆ यादमाना अभिगच्छंत्यस्तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+That Indra indeed is the one who keeps his vows, that is, who bears his deeds, and he alone is the giver of wealth. Of what kind of wealth? To meet that question the qualifying words are given, even though the wealth is a subordinate member: of desirable, that is, to-be-wished-for, best wealth. Or else, the words "lord of wealth" are to be supplied. He alone is grown strong through Soma, and he alone is rich in food. In him, Indra alone, the riches that are beneficial to the singers come together. The example: as rivers, flowing together, approach the ocean, so riches come to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स हि (*sa hi*)—that well-known Indra himself
+- धृतव्रतः (*dhṛtavrataḥ*)—is one whose appointed work is regularly undertaken
+- वामस्य (*vāmasya*)—of attractive
+- वसुनः (*vasunaḥ*)—and excellent
+- धनदाः (*dhanadāḥ*)—and the giver of wealth
+- सोमवृद्धः (*somavṛddhaḥ*)—grown strong by drinking Soma
+- पुरुक्षुः (*purukṣuḥ*)—and possessed of exceeding abundance of food
+
+### Printed p. 708
+
+- समुद्रे (*samudre*)—in the ocean
+- यादमानाः (*yādamānāḥ*)—going together and uniting
+- सिंधवः न (*siṃdhavaḥ na*)—as all rivers enter together
+- अस्मिन् (*asmin*)—in this Indra himself
+- पथ्याः (*pathyāḥ*)—that do good to the singers
+- रायः (*rāyaḥ*)—riches
+- सं जग्मिरे (*saṃ jagmire*)—come together
+
+##### भावार्थ (Bhāvārtha)
+
+That well-known Indra is one whose appointed work is regularly undertaken, and the giver of attractive and excellent wealth. He is grown strong by drinking Soma and is possessed of exceeding abundance of food. As all the rivers that go into the ocean enter the ocean together and become one, so all the riches that are beneficial to the singers come together in this Indra.
+
+##### English translation
+In him who is observant of pious rites, who is a giver of wealth, who is exalted by the Soma beverage, the (lord) of desirable riches, the distributor of food, (in him) the treasures fit (for his worshippers) congregate like rivers flowing into the ocean.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शवि॑ष्ठं न॒ आ भ॑र शूर॒ शव॒ ओजि॑ष्ठ॒मोजो॑ अभिभूत उ॒ग्रं ।  
+> विश्वा॑ द्यु॒म्ना वृष्ट्वा॒ मानु॑षाणाम॒स्मभ्यं॑ दा हरिवो  ॒॑
+> मादयध्यै ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शविष्ठं । नः । आ । भर । शूर । शवः । ओजिष्ठं । ओजः । अभिभूते । उग्रं ।  
+> विश्वा । द्युम्ना । वृष्ण्या । मानुषाणां । अस्मभ्यं । दाः । हरिर्वः । मादयध्यै ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर विक्रांतेंद्र कविष्ठं बलवत्तमं कवो बलं नोऽस्मभ्यमा भर ।
+> आहर । हे अभिभूते शत्रुणामभिभावुकेंद्र उग्रमप्रसह्यनोजिष्ठमोजस्वितममोजो दीप्तिमस्मभ्यमा भर । विश्वा विश्वानि सर्वाणि वृष्ट्या वृष्ट्यानि सेचनसमर्थानि
+
+### Printed p. 709
+
+> द्युम्ना द्युम्नानि द्योतमानानि यानि धनानि मानुषाणां मनुष्याणां भोग्यतया
+> कल्पितानि हे हरिवो हरिवन्निंद्र तानि धनानि मादयध्या अस्मान्मादयितुमस्मभ्यं
+> दाः ! प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O valiant, mighty Indra, bring to us the most powerful strength. O Indra, overcomer of enemies, bring to us fierce, irresistible, most vigorous vigour, brilliance. O Indra, lord of bay horses, grant to us, for our delight, all those shining riches, able to shower their benefits, which have been appointed as the enjoyment of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- शविष्ठं (*śaviṣṭhaṃ*)—of the utmost might
+- शवः (*śavaḥ*)—strength
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—provide
+- अभिभूते (*abhibhūte*)—O Indra, subduer of enemies
+- उग्रं (*ugraṃ*)—and terrible (to enemies)
+- ओजिष्ठं (*ojiṣṭhaṃ*)—and endowed with the utmost vigour
+- ओजः (*ojaḥ*)—inner power (provide)
+- हरिवः (*harivaḥ*)—O Indra, who have the horses named Hari
+- मानुषाणां (*mānuṣāṇāṃ*)—beneficial to men
+- वृष्ण्या (*vṛṣṇyā*)—and satisfying
+- विश्वा (*viśvā*)—and all
+- द्युम्ना (*dyumnā*)—riches
+- मादयध्यै (*mādayadhyai*)—for our satisfaction
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, grant us strength of the utmost might. O Indra, subduer of enemies, provide us also with inner power that is terrible to enemies and endowed with the utmost vigour. O Indra, who have the horses named Hari, give us, for our satisfaction, all the riches that are beneficial to men and satisfying.
+
+##### English translation
+Bestow upon us, hero Indra, most vigorous vigour: subduer (of enemies, bestow upon us) most energetic and fierce energy: grant, lord of steeds, all the bright and invigorating (treasures) fit for men, to make us happy.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ मदः॑ पृतना॒षाळमृ॑ध्र॒ इंद्र॒ तं न॒ आ भ॑र शूशु॒वांसं॑ ।  
+> येन॑ तो॒कस्य॒ तन॑यस्य सा॒तौ मं॑सी॒महि॑ जिगी॒वांस॒स्त्वोताः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । मदः । पृतनाषाट् । अमृध्रः । इंद्र । तं । नः । आ । भर । शूशुवांसं।  
+> येन । तोकस्य । तनॆयस्य । सात् । मंसीमहि । जिगीवांसः । त्वाऊताः ॥ ७ ॥
+
+### Printed p. 710
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृतनाषाट् शत्रुसेनानामभिभवितामृध्रोऽहिंसितो यो मदो हर्षो
+> हे इंद्र ते त्वया देयः शूशुवांसं प्रवृद्धं तं मदं नोऽस्मभ्यमा भर ! आहर ।
+> श्वोतास्त्वया रक्षिता जिगीवांसो जितवंतो वयं शोकस्य पुत्रस्य तनयस्य
+> तत्पुत्रस्य च सात् लाभे निमित्तभूते सति येन हर्षण मंसीमहि त्वां स्तुवीमहि
+> तमा भरेति पूर्वेणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+Pṛtanāṣāṭ is the overcomer of the armies of enemies; amṛdhra is unharmed. O Indra, that joy of yours which is to be given by you, which is grown to abundance, bring to us. We, protected by you and victorious, for the winning of a son and a grandson, with which joy we may praise you, bring that: this is the connection with the earlier words. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पृतनाषाट् (*pṛtanāṣāṭ*)—that overcomes enemies
+- अमृध्रः (*amṛdhraḥ*)—and is unharmed by the enemy
+- यः मदः (*yaḥ madaḥ*)—which joy there is
+- त्वोताः (*tvotāḥ*)—we who are protected by you
+- जिगीवांसः (*jigīvāṃsaḥ*)—and desire victory
+- तोकस्य सात् (*tokasya sāt*)—for the sake of a son
+- तनयस्य (*tanayasya*)—and for the sake of a grandson
+- येन (*yena*)—with which joy
+- मंसीमहि (*maṃsīmahi*)—we shall praise you
+- ते (*te*)—which is given by you
+- शूशुवांसं (*śūśuvāṃsaṃ*)—and is of abundant measure
+- तं (*taṃ*)—that same joy
+- नः (*naḥ*)—to us also
+- आ भर (*ā bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, that joy which overcomes enemies and is unharmed by the enemy, and which is given by you and of abundant measure, that same joy provide to us also, we who, protected by you and desiring victory, with that joy shall praise you for the sake of our grandsons and the rest.
+
+##### English translation
+Impart to us, Indra, that your invigorating exultation which overcomes enemies, and is irresistible, whereby, protected by you, triumphant we may glorify you for the sake of (obtaining) sons and grandsons.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ भर॒ वृष॑णं॒ शुष्म॑िंद्र धन॒स्पृतं॑ शूशु॒वांसं॑ सु॒दक्षं॑।  
+> येन॒ वंसा॑म॒ पृत॑नासु॒ शत्रु॒न्तवो॒तिभि॑रु॒त जा॒मीरजा॑मीन् ॥ ८ ॥
+
+### Printed p. 711
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । भर । वृषणं । शुष्मं । इंद्र । धनस्पृतं । शूशुवांसं । सुदक्षं ।  
+> येन । वंसाम । पृतनासु । शत्रून् । तव । ऊतिभिः । उत । जामिन् । अजामीन् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं वृषणं वर्षितारं शुष्मं सेनालक्षणं बलं नोऽस्मभ्यमा भर ।
+> आहर । कीदृशं । धनस्पृतं धनस्य पालकं शूशुवांसं प्रवृद्धं सुदक्षं शोभनबलं ।
+> हे इंद्र तवोतिभिस्त्वदीयाभी रक्षाभिः पृतनासु संग्रामेषु ॥ पृतना इति संग्रामनाम ॥ येन बलेन शत्रून्वंसाम हनाम । उतेत्यत्र भिन्नक्रमः । जामिन्बंधूनुतापि
+> चाजामीन् शत्रूंश्च येन शुष्मेण वंसाम तं शुष्ममा भरेति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, bring to us the showering strength, which has the form of an army: of what kind? Protector of wealth, grown great, of good skill, that is, of fine strength. O Indra, with your protections, in battles (pṛtanā is a name for battle), with which strength we may slay our enemies. In the word "uta" the order is different: with which strength we may slay kinsmen and also enemies who are not kinsmen, bring that strength; the connection is with the earlier words.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तव ऊतिभिः (*tava ūtibhiḥ*)—with your protections
+- पृतनासु (*pṛtanāsu*)—in battles
+- येन (*yena*)—by which strength
+- जामिन् (*jāmin*)—whether in the form of kinsmen
+- उत (*uta*)—or
+- अजामिन् (*ajāmin*)—not kinsmen
+- शत्रून् (*śatrūn*)—enemies of every kind
+- वंसाम (*vaṃsāma*)—we are able to slay
+- धनस्पृतं (*dhanaspṛtaṃ*)—and such as protects our wealth
+- शूशुवांसं (*śūśuvāṃsaṃ*)—and is to be increased
+- सुदक्षं (*sudakṣaṃ*)—and possessed of excellent capacity
+- वृषणं (*vṛṣaṇaṃ*)—and bestows what is desired
+- शुष्मं (*śuṣmaṃ*)—strength
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with your protections, provide us in battles the strength by which we are able to slay all our enemies, that is, whether they be in the form of kinsmen or not kinsmen, all of them; and which protects our wealth, is to be increased, possesses excellent capacity and bestows what is desired.
+
+##### English translation
+Bestow upon us, Indra, vigorous strength, the realizer of wealth, great and propitious, wherewith, through your protection, we may destroy our enemies in battles, whether they be kinsmen or strangers.
+
 ---
 
-**Progress note:** Done through printed p. 705. Mandala 6 Sukta 19 Rk 1 (end) to Rk 3, pp. 700-705
+**Progress note:** Done through printed p. 711. Mandala 6 Sukta 19 Rk 4-8, pp. 706-711
