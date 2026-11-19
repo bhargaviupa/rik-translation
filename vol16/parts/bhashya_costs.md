@@ -17,3 +17,4 @@
 | 3.36 (11 Ṛks) | **Sonnet** agent | 248,894 | 2 | 82 | Nov 19 2026 |
 | 3.37 (11 Ṛks) | **Sonnet** agent | 162,079 | 5 | 34 | Nov 19 2026 |
 | 3.38 (10 Ṛks) | **Sonnet** agent | 221,534 | 9 | 48 | Nov 19 2026 |
+| 3.39 (9 Ṛks; one attachment error found by the dispatcher in Ṛk 7 after the agent's second reading, corrected) | **Sonnet** agent | 201,044 | 15 | 96 | Nov 19 2026 |
