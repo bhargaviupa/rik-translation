@@ -28146,6 +28146,248 @@ In Ṛks such as these there is a description that the Marut deities are sportin
 
 ऋष्टिमंतः मरुतः आप इव सध्रंचः (*ṛṣṭimaṃtaḥ marutaḥ āpa iva sadhraṃcaḥ*) and the verb that follows: when the Marut deities, bearing their weapons, are sporting (or moving), waters flow from various places and
 
+### Printed p. 785
+come together and flow in the form of a stream without any obstruction, in the same way the Marut deities gather together and rush forward without any hindrance or obstacle. Not even mountains and the like can check their movement. Not only that, it is described that even though a mountain is very large, it trembles through fear of the Marut deities.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒रा इ॒वे द्रै॑व॒तासो॒ हिर॑ण्यैर॒भि स्व॒धाभि॑स्त॒न्वः॑ पिपिश्रे ।  
+> श्रि॒ये श्रेयां॑सस्त॒वसो॒ रथे॑षु स॒त्रा महां॑सि चक्रिरे  ॒॑
+> तनूषु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वराः इव । इत् । रैवतासः । हिरण्यैः । अभि । स्वधाभिः । तन्वः । पिपिश्रे ।  
+> श्रिये । श्रेयांसः । तवसः । रथेषु । सत्रा । महांसि । चक्रिरे । तनूषु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरा इव विवाहयोग्या युवान इव । ते यथा रैवतासो धनवंतो
+> हिरण्यैर्हिरण्यमयैराभरणविशेषैः स्वधाभिरुदकैश्च तन्नः स्वीयानि शरीराण्यभि
+> पिपिश्रे संयोजयंति अलंकुर्वंति तद्वदेते मरुतोऽपि रैवतासो धनवंतो
+> हिरण्यैर्हिरण्यस्थानीयैर्विद्युदाख्यैराभरणैः स्वधाभिश्च तन्नः स्वीयानि शरीराणि
+> पिपिश्रे । श्रिये शोभायै श्रेयांसः श्रेष्ठास्तवसो बलवंतो मरुतो रथेषु
+> सत्रा सत्यं सह वा तनूषु महांसि चक्रिरे । कृतवंतः । सर्वाभरणैरुदकैश्चोपेता
+> रथानधिष्ठाय शरीरेषु तेजांस्यधारयन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains वरा इव (*varā iva*) as "like young men fit for marriage". Just as wealthy men adorn their own bodies with golden ornaments, that is, special ornaments made of gold, and with waters, so these Maruts too, being wealthy, adorn their own bodies with ornaments that stand in the place of gold, namely lightning, and with waters. "For splendour" means for beauty; the excellent and mighty Maruts, in their chariots, together (or truly), have made great things in their bodies. The meaning is that, furnished with all ornaments and with waters and mounted on their chariots, they bore splendours in their bodies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रैवतासः (*raivatāsaḥ*)—wealthy
+- वराः (*varāḥ*)—young men who are ready for marriage
+- हिरण्यैः (*hiraṇyaiḥ*)—with golden ornaments
+- स्वधाभिः (*svadhābhiḥ*)—with waters
+- तन्नः (*tannaḥ*)—their bodies
+### Printed p. 786
+- अभि पिपिश्रे (*abhi pipiśre*)—as they adorn
+- श्रेयांसः (*śreyāṃsaḥ*)—the excellent
+- तवसः (*tavasaḥ*)—the powerful Maruts
+- रथेषु सत्रा (*ratheṣu satrā*)—stationed in their chariots
+- श्रिये (*śriye*)—for their adornment
+- महांसि (*mahāṃsi*)—many excellent preparations
+- चक्रिरे (*cakrire*)—they made, or they make
+
+##### भावार्थ (Bhāvārtha)
+
+Just as wealthy young men, ready for marriage, adorn their bodies with golden ornaments and with the help of waters, so the excellent and powerful Maruts, stationed in their chariots, made, or make, many excellent preparations for their adornment.
+
+##### English translation
+Like wealthy bridegrooms who have decorated their persons with golden (ornaments) and purifying waters, so the noble and powerful Maruts, associated together in their chariots, have made great(preparation) in their several persons for their embellishment.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described that the Marut deities adorn their bodies with ornaments and the like and with waters, and shine seated in their chariots. Their manner of adorning themselves is compared to that of wealthy bridegrooms. Just as rich and youthful young men, at the time of their marriage, adorn themselves in many ways with golden ornaments and shine seated on vehicles and the like, so the Marut deities too adorn their bodies with ornaments such as lightning and with waters, and shine seated in their chariots. Here the lightning is the special ornament of the Marut deities. The water itself is the means of adornment. Sitting in the chariot is swift movement. That is to say, the wind blowing with great force in the time of rain, with lightning flashing now and then, is compared to the ornaments of the Marut deities. The rain-water is said to be the thing that serves as the means of adornment. That is, the seer describes the scene in which rain pours down in torrents, the wind blows with force, and rain-water falls accompanied by lightning and thunder, by comparing it to the adornment of newly grown young men ready for marriage.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ज्ये॒षासो॒ अक॑निष्ठास ए॒ते सं भ्रात॑रो वावृधुः॒ सौभ॑गाय ।
+
+### Printed p. 787
+
+> युवा पिता स्वपा रुद्र एषां सुदुघा पृश्निः सुदिना  
+> मरुद्भ्यः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अज्येष्ठासः । अकनिष्ठासः । एते । सं । भ्रातरः । ववृधुः । सौभगाय ।  
+> युवा । पिता । सुअपाः । रुद्रः । एषां । सुदुघा । पृश्निः । सुदिना ।  
+> मरुत्भ्यः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अज्येष्ठासोऽकनिष्ठासः परस्परं ज्येष्ठकनिष्ठभावरहिताः सहैवोत्पन्नाः समानबला एते मरुतो भ्रातरः परस्परं भ्रातृभूताः संतः सौभगाय सुभगत्वाय सं
+> ववृधुः । वर्धंते । युवा नित्यतरुणः स्वपाः शोभनकर्मैषां मरुतां रुद्रः पिता
+> सुदुघ्नासुष्टु दोग्ध्री पृश्निर्गोदेवता मातृभूता मरुद्भो मरुदर्थं
+> सुदिना शोभनदिनानि । अकुरुतामिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"Not elder, not younger" means that these Maruts are free of any relation of elder and younger among themselves, born together and of equal strength; being brothers to one another they grow together for good fortune. Rudra, ever young, the doer of good deeds, is the father of these Maruts; Pṛśni, the cow-deity who is their mother and yields milk well, made good days for the Maruts, that is, for the sake of the Maruts. The verb "made" is to be supplied.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अज्येष्ठासः (*ajyeṣṭhāsaḥ*)—not elder one to another
+- अकनिष्ठासः (*akaniṣṭhāsaḥ*)—not younger one to another
+- एते भ्रातरः (*ete bhrātaraḥ*)—these brothers, who are of the form of Maruts
+- सौभगाय (*saubhagāya*)—for their own welfare and growth
+- सं ववृधुः (*saṃ vavṛdhuḥ*)—grew up together
+- युवा (*yuvā*)—the ever-youthful
+- स्वपाः (*svapāḥ*)—the doer of excellent deeds
+- रुद्रः (*rudraḥ*)—Rudra
+- एषां (*eṣāṃ*)—of these Maruts
+- पिता (*pitā*)—is the father (and Rudra too)
+- सुदुघा (*sudughā*)—who yields good fruits
+- पृश्निः (*pṛśniḥ*)—their mother Pṛtni too**NOTE**
+- मरुद्भ्यः (*marudbhyaḥ*)—for these Maruts
+- सुदिना (*sudinā*)—(may they make) good days
+
+##### भावार्थ (Bhāvārtha)
+
+These brothers, of the form of Maruts, of whom none is elder to another and none younger to another, grew up together for their own welfare. May Rudra, ever young, the doer of excellent deeds, the father of the Maruts, and their mother Pṛśni, who yields excellent fruits, make good days for these Maruts.
+### Printed p. 788
+
+##### English translation
+They are brothers, of whom no one is the elder, no one the younger, but who grew up together for their mutual prosperity : may their father, Rudra, ever youthful, the doer of good deeds, and Prishni, ( their mother), easy to be milked, grant favourable days for ( the sake of ) the Maruts.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matters described in this Ṛk are these: among the Marut deities there is no feeling of higher and lower, no difference of elder and younger; all are equal and brothers of equal origin. These points, already stated before, that is, in the Ṛk ते अजेष्ठा अकनिष्ठा (*te ajeṣṭhā akaniṣṭhā*) (Ṛ. Saṃ. 5-59-6), the seer describes again. There is no difference in meaning or in description.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदु॑त्त॒मे म॑रुतो मध्य॒मे वा॒ यद्वा॑व॒मे सु॑भगासो ॒ 
+> दिविष्ठ ।  
+> अतो॑ नो रुद्रा उ॒त वा॒ नृग१॒॑स्याग्ने॑ वि॒त्ताद्ध॒विषो॒ यद्यजा॑म ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । उत्कमे । मरुतः । मध्यमे । वा । यत् । वा । अवमे । सुभगासः ।  
+> दिवि । स्थ ।  
+> अतः । नः । रुद्राः । उत । वा । नु । अस्य । अग्ने । वित्तात् । हविषः । यत् ।  
+> यजाम ॥ ६ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो यूयं यदुत्तम उत्कृष्ट उत्तमे चरमे ना दिवि
+
+### Printed p. 789
+
+> द्युलोके मध्यमे ना दिवि यद्वावमे दिवि हे सुभगासः स्थ भवथ । त्रयो वा
+> इमे त्रिवृतो लोकास्तिस्रो दिवः पृथिवीरित्यादि श्रुतेर्द्युलोकस्य त्रैविध्यं ।
+> अतोऽस्मात् स्थानत्रयान्नोऽस्मदर्थं हे रुद्रा आगच्छतेति शेषः । उत वा अथवा
+> नु अद्य यद्यजाम यद्धविः प्रक्षिपामः हे अग्ने त्वमस्य हविष एतद्ध विर्वित्तात् ।
+> विद्धि ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, whether you are in the highest heaven, that is, the topmost, in the heavenly world, or in the middle heaven, or in the lowest heaven, O fortunate ones, you are." **NOTE** By the Vedic text which says that these three worlds are threefold, that there are three heavens and three earths, and so on, the heavenly world is of three kinds. "From this, from these three places, come to us, O Rudras" (the word "come" is to be supplied). "Or else": whatever oblation we now offer, O Agni, know that oblation, that is, accept it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्राः (*rudrāḥ*)—O Maruts, sons of Rudra
+- मरुतः (*marutaḥ*)—O Maruts
+- यदुत्तमे दिवि (*yaduttame divi*)—whether you are in the best world, the heaven-world
+- मध्यमे वा (*madhyame vā*)—or in the middle world, the atmosphere
+- अवमे ना (*avame nā*)—(heaven) in the worldly earth-world**NOTE**
+- अतः (*ataḥ*)—from all those regions
+- नः (*naḥ*)—be gracious to us
+- उत वा (*uta vā*)—moreover
+- अग्ने (*agne*)—O Agni
+- नु (*nu*)—at this time of sacrifice
+- यत् यजाम (*yat yajāma*)—whatever oblation we offer
+- अस्य हविषः (*asya haviṣaḥ*)—such an oblation
+- वित्तात् (*vittāt*)—know fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, sons of Rudra, whether you are in the best world, the heaven-world, or in the middle world, the atmosphere, or in the worldly earth-world, from all those regions be gracious to us. Moreover, O Agni, know fully whatever oblation we offer at this time of sacrifice.
+
+##### English translation
+Auspicious Maruts, whether you abide in the upper, the middle, or the lower heaven, (come), Rudras, to us from thence ; and Agni, accept the oblation which this day we offer.
+
+##### विशेषविषयगळु (Special Topics)
+
+उत्तमे मध्यमे अवमे ना (*uttame madhyame avame nā*)—for these words Sāyaṇa has explained the meaning as the intermediate subdivisions of the heavenly world: the lower, the middle and the upper. In this matter, quoting the Vedic sentence त्रयो ना इमे त्रिवृतो लोकास्तिस्रो दिवः पृथिवी (*trayo nā ime trivṛto lokāstisro divaḥ pṛthivī*), he has supported the existence of three kinds of difference of position in the heavenly world.**NOTE** Or else the meaning may be said to be: the highest place, the heavenly world; the middle place, the atmospheric world; the lower place, the earth-world. In whichever region among these three worlds you may now be, you are prayed to come from there toward us.
+### Printed p. 790
+रुद्राः (*rudrāḥ*)—रुद्रपुत्रा मरुतः (*rudraputrā marutaḥ*). The Maruts, sons of Rudra, are here addressed by their father's name.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निश्च॒ यन्म॑रुतो विश्ववेदसो दि॒वो वह॑ध्व॒ उत्त॑रा॒दधि॒  ॑
+> ष्णुभिः ।  
+> ते मं॑दसा॒ना धुन॑यो रिशादसो वा॒मं ध॑त्त॒ यज॑मानाय  ॒
+> सुन्वते ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । च । यत् । मरुतः । विश्ववेदसः । दिवः । वहध्वे । उत्तरात् । अधि ।  
+> स्नुभिः ।  
+> ते । मंदसानाः। धुनयः । रिशादसः । वामं । धत्त । यजमानाय । सुन्वते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्ववेदसः सर्वस्य ज्ञातारो विश्वधना ना हे मरुतो यद्यूयमग्निश्च दिवो द्युलोकादुत्तरादुत्कृष्टतरादधि उपरि स्नुभिः सानुभिरुपरिप्रदेशे वहद्वे
+> उह्यध्वे । तत्र निवसथेत्यर्थः । यद्वा स्नुशब्देन तत्सदृशा अश्वा उच्यंते । तैर्वोह्यध्वे । ते यूयं मंदसाना मोदमाना अस्मदीयैः स्तोत्रैहविर्भिश्च धुनयः
+> शत्रूणां कंपयितारो रिशादसोऽस्मद्धिंसकानामुत्तारः संतो वामं वननीयं
+> धनं धत्त दत्तयजमानाय सुन्वतेऽभिषवं कुर्वते ॥
+
+##### Gist of the bhāṣya
+
+"O all-knowing ones", that is, knowers of everything, or else possessors of all wealth, O Maruts: since you and Agni are carried above the higher heaven, above the ridges, that is, in the region above the ridges, the meaning is that you dwell there. Or else, by the word for ridge, horses resembling ridges are meant, and you are carried by them. You, rejoicing in our hymns and oblations, shakers of your enemies and destroyers of those who harm us, bestow desirable wealth upon the sacrificer who presses the soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसः (*viśvavedasaḥ*)—O omniscient
+- मरुतः (*marutaḥ*)—Maruts
+- यत् (*yat*)—you who (and)
+- अग्निश्च (*agniśca*)—Agni too
+- दिवः (*divaḥ*)—of the heavenly world
+- उत्तरात् (*uttarāt*)—of the excellent
+- स्नुभिः अधि (*snubhiḥ adhi*)—above the summits
+- वहध्वै (*vahadhvai*)—move about
+- ते (*te*)—such you
+### Printed p. 791
+- मंदसानाः (*maṃdasānāḥ*)—those who are satisfied with our praise
+- धुनयः (*dhunayaḥ*)—who cause trembling to enemies
+- रिशादसः (*riśādasaḥ*)—who bring about the destruction of those who harm us
+- सुन्वते (*sunvate*)—who presses the soma juice and offers the oblation
+- यजमानाय (*yajamānāya*)—to the sacrificer
+- वामं (*vāmaṃ*)—attractive wealth
+- धत्त (*dhatta*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O omniscient Maruts, you and Agni who move about above the excellent summits of the heavenly world, in the loftiest region: being such, satisfied with our praise, causing enemies to tremble and destroying those who do us harm, bestow attractive wealth upon the sacrificer who presses the juice and offers the oblation.
+
+##### English translation
+Maruts, who are omniscient, since you and Agni abide above the summits of the upper (region) of the sky, you who cause (your enemies) to tremble, and are the consumers of (our) foes, being pleased, bestow upon the sacrificer who offers you oblations desirable wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+As is commonly the case in the last Ṛk of a sūkta, where a prayer for the fulfilment of wishes is stated, in this Ṛk too a prayer is stated that the sacrificer who prepares and offers soma juice to the Marut deities be favoured with the gift of wealth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ म॒रुद्भिः॑ शु॒भय॑द्भ्यि॒र्यक्व॑भिः॒ सोमं॑ पिब मंदसा॒नो  ॒॑॑
+> गणत्रिभिः ।  
+> पा॒व॒केभि॑र्विश्वमि॒न्वेभि॑रा॒युभि॒र्वैश्वा॑नर प्र॒दिवा॑ के॒तुना॑  ॒
+> सजूः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 784. Sukta 59 Rk 8; Sukta 60 Rk 1-3, pp. 778-784
+**Progress note:** Done through printed p. 791. Ṛks 4-8 of Sūkta 60 (Maṇḍala 5), pp. 785-791
