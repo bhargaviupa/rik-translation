@@ -26131,6 +26131,154 @@ According to some scholars, the explanation of the 104th sūkta of the 7th maṇ
 
 (Muir. Original Sanskrit Texts, Vol. I. P. 327-28.)
 
+### Printed p. 614
+
+As the scholar Max Müller has stated above, he has put forward the opinion that this occasion tells of the enmity between Vasiṣṭha and Viśvāmitra. The scholar Muir too has made clear, in these quoted sentences, that this opinion is the correct one. But neither Sāyaṇa nor the author of the Bṛhaddevatā has stated this opinion. They have stated only this much: when his hundred sons were slain, Vasiṣṭha prayed to Indra and the other deities and cursed thus, "Let the Yātudhāna who was the cause of the death of those hundred sons meet death."
+
+From the account of the Mahābhārata it is known that these hundred sons too were slain by Viśvāmitra, and that Vasiṣṭha was grieved at that time; but it states that he only suppressed his grief and did not curse Viśvāmitra. Only as much of that story as is useful for the present context is told here.
+
+इंद्रियाणां वशकरो वसिष्ठ इति चोच्यते । यस्तु नोच्छेदनं चक्रे कुशिकानामुदारधीः ॥ (*iṃdriyāṇāṃ vaśakaro vasiṣṭha iti cocyate | yastu nocchedanaṃ cakre kuśikānāmudāradhīḥ ‖*)
+
+विश्वामित्रापराधेन धारयन्मन्न्युमुत्तमं । पुत्रव्यसनसंतप्तः शक्तिमानप्यशक्तवत् ॥ (*viśvāmitrāparādhena dhārayanmannyumuttamaṃ | putravyasanasaṃtaptaḥ śaktimānapyaśaktavat ‖*)
+
+विश्वामित्रविनाशाय न चक्रे कर्म दारुणं । मृतांश्च पुनराहर्तुं शक्तः पुत्रान्यमक्षयात् ॥ (*viśvāmitravināśāya na cakre karma dāruṇaṃ | mṛtāṃśca punarāhartuṃ śaktaḥ putrānyamakṣayāt ‖*)
+
+यं प्राप्य विजितात्मानं महात्मानं नराधिपाः । इक्ष्वाकवो महीपाला लेभिरे पृथिवीमिमां ॥ (*yaṃ prāpya vijitātmānaṃ mahātmānaṃ narādhipāḥ | ikṣvākavo mahīpālā lebhire pṛthivīmimāṃ ‖*)
+
+(Ma. Bhā. Ā. Pa. 19-6 to 10) **NOTE**
+
+To this great sage, who kept the senses wholly under his control, the name "Vasiṣṭha" became famous. He did not try to bring about the destruction of the Kuśika line. Although Viśvāmitra, born in the Kuśika line, plotted harm against him, he restrained his anger; and although he was able to destroy him, he behaved as though powerless and did not perform the terrible rite that would have brought about the ruin of Viśvāmitra's family. And yet he was able, by another means, to bring back from the house of Yama his sons who had been slain by Viśvāmitra. Having such a self-controlled, great-souled maharṣi as their priest, all the kings of the Ikṣvāku line became protectors of the whole earth and gained victory: so it is stated.
+
+From all these authorities it is known that the enmity between Vasiṣṭha and Viśvāmitra existed from the beginning. But the story of the Rāmāyaṇa tells that the friendship they had at the start was destroyed for some reason. Although that account is necessary in the present context, for lack of room in the book
+
+### Printed p. 615
+
+it cannot be told. This point was mentioned briefly earlier, when the matter of Viśvāmitra was told.
+
+Thus the extraordinary power of Vasiṣṭha is praised in many places. The words of the Veda themselves tell that he is the most excellent sage among all the sages. The Brāhmaṇas and other texts praise him, saying that the realization of the great principle, which was not possible for other sages, was possible for him alone. On the basis of the Saṃhitā passages quoted above, this Vasiṣṭha, endowed with divine radiance, is to be understood as a special manifestation of Agni, who pervades all the worlds, the earth and the rest.
+
+The legend concerning the birth of Vasiṣṭha, who has such greatness, is very famous in the Purāṇas and other works. In the present context it is unnecessary to give the description of Vasiṣṭha's greatness as it is described in the Purāṇas and others. Only one or two passages that tell of the excellences described in the purely Vedic tradition are told here.
+
+The Manusmṛti tells that Vasiṣṭha is one of the ten maharṣis created by Svāyambhuva Manu: प्रचेतसं वसिष्ठं च (*pracetasaṃ vasiṣṭhaṃ ca*) (Manu 1-35). The Viṣṇu Purāṇa states that Vasiṣṭha is one of the nine sages beginning with Bhṛgu, the mind-born sons of Brahmā (Vi. Pu. 1-7-5). But the same Purāṇa (3-1-14) tells that he is one of the seven sages of the Vaivasvata manvantara. And:
+
+ऊर्जायां च वसिष्ठस्य सप्ताजायंत वै सुताः । रजो गात्रोर्ध्वबाहुश्च सवनश्चानघस्तथा ॥ सुतपाः शुक्र इत्येते सर्वे सप्तर्षयोऽमलाः । (*ūrjāyāṃ ca vasiṣṭhasya saptājāyaṃta vai sutāḥ | rajo gātrordhvabāhuśca savanaścānaghastathā ‖ sutapāḥ śukra ityete sarve saptarṣayo 'malāḥ |*)
+
+(Bṛ. De. 1-10) **NOTE**
+
+The same Viṣṇu Purāṇa tells that to Vasiṣṭha, by his wife named Ūrjā, seven sons were born: Rajas, Gātra, Ūrdhvabāhu, Savana, Anagha, Sutapas and Śukra. Because they were Vasiṣṭha's sons, it incidentally praises Vasiṣṭha himself, saying that all of them were sages of the utmost purity. In sum, it describes Vasiṣṭha as a great sage who, although he took human form and was born on the earth, possessed a divine form and divine brilliance and spread divine knowledge.
+
+The Viṣṇu Purāṇa tells that in this Vaivasvata manvantara the division of the Veda has taken place 28 times, and that these divisions took place mostly in the Dvāpara age.
+
+द्वापरे प्रथमे व्यस्तास्वयं वेदास्वयंभुवा । वसिष्ठ स्तप्पमे स्मृतः ॥ (*dvāpare prathame vyastāsvayaṃ vedāsvayaṃbhuvā | vasiṣṭha stappame smṛtaḥ ‖*)
+
+(Vi. Pu. 3-3--9-11) **NOTE**
+
+### Printed p. 616
+
+It tells that in the first Dvāpara the division of the Veda was made by Svayambhū, in the sixth by Mṛtyu (Yama), and in the eighth by Vasiṣṭha.
+
+The introduction is concluded.
+
+## Maṇḍala 7
+
+## Sūkta 1 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ सप्तमं मंडलमारभ्यते । तस्मिन्मंडले षडनुवाकाः । प्रथमेऽनुवाके
+> सप्तदश सूक्तानि ! तत्राग्निं नर इति पंचविंशत्यचं प्रथमं सूक्तं । अत्रेयमनुक्रमणिका । अग्निं पंचाधिका विराजोऽष्टादशाद्या इति । सप्तमं मंडलं वसिष्ठोऽपश्यदित्युक्तत्वान्मंडलद्रष्टा वसिष्ठ ऋषिः । आदिशोऽष्टादश विराजस्कृतादशकाः शिष्टा
+> अनादेशपरिभाषया त्रिष्टुभः । मंडलादिपरिभाषयाग्निर्देवता ॥ विश्वजितीदं सूक्तमाज्यशस्त्रं । सूत्रितं च । विश्वजितोऽग्निं नर इत्याज्यं । आ. ८-७ । इति ॥ अत्रेश्चतुर्विराख्यॆ चतुरात्रे चतुर्थेऽहनीदमेव सूक्तमाज्यशस्त्रं । सूत्र्यते हि । अग्निं
+> नर इति चतुर्थे । आ. १०-२ । इति ॥ व्यूल्ले दशरात्रे चतुर्थेऽहनीदं सूक्तं
+> जातवेदस्यनिविद्वानं । सूत्रितं च । अग्निं नर इत्याग्नि मारुतं । आ. ८-८ । इति ॥
+> महाव्रतेऽपीदमाज्यशस्त्रं । तथैव पंचमारण्यके सूत्र्यते । आज्यप्रउगे विश्वजितः।
+> ऐ. आ. ५-१-१ । इति ॥ अविवाक्येऽहनि प्रातरनुवाके त्वमग्ने वसूनित्यादीनामनुष्टुभां स्थान आद्यश्च प्रक्षेपणीयः । सूत्र्यते हि । दशमेऽहन्यनुष्टुभां
+> स्थानेऽग्निं नरो दीधितिभिररण्योरिति तृचमाग्निये क्रत् । आ. ८-१२ । इति ॥ आद्याः
+> षडृचस्तस्मिन्नाहन्याग्निमारुते शस्त्रे स्तोत्रियानुरूपार्थाः । सूत्रितं च । अग्निं
+> नरो दीधितिभिररण्योरिति स्तोत्रियानुरूप् । आ. ८-१२ । इति ॥ मंडलादिहोमेऽप्येषा ॥ आधाने तृतीयायामिष्टौ प्रेद्ध इति स्विष्टकृतोऽनुवाक्या । सूत्रितं च ।
+> प्रेद्यो अग्न इमो अग्न इति संयाज्ये । आ. २-१ । इति ॥ एवमन्यत्रापि दीक्षणीयादिषु स्विष्टकृतोऽनुवाक्या ॥ प्रायणीयेष्टौ सेदग्निरग्नित्यादिके द्वे स्विष्टकृतो याज्यानुवाक्ये । सूत्रितं च । सेदग्निरग्निरत्यस्तन्यानिति द्वे संयाज्ये ।
+> आ. ४-३ । इति ॥ आधाने तृतीयायामिष्टौ विमो अग्न इति स्विष्टकृतोऽया ।
+> सूत्रितं च । इमो अग्न इति संयाज्ये । आ. २-१ । इति ॥ एवमन्यत्रापि दीक्षणीयादिषेषा सौविष्टकृती याज्या ॥ प्रातरनुवाक आग्नेये क्रत् त्रैष्टुभे छंदस्याश्विनशस्त्रे च त्वमग्ने सुहव इत्याद्याः पंचर्चः । सूत्रितं च । त्वमग्ने सुहवो
+> रण्वसंदृक् । आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+Now the seventh maṇḍala is begun. In this maṇḍala there are six anuvākas. In the first anuvāka there are seventeen sūktas. Among them the first sūkta, अग्निं नरः (*agniṃ naraḥ*), has twenty-five ṛks. Here is this Anukramaṇikā: अग्निं पंचाधिका विराजोऽष्टादशाद्या इति (*agniṃ paṃcādhikā virājo 'ṣṭādaśādyā iti*). Since it is said that Vasiṣṭha saw the seventh maṇḍala, the seer of the maṇḍala, Vasiṣṭha, is the seer. The first eighteen ṛks are in Virāj; the rest, by the rule for what is not specified, are in Triṣṭubh **NOTE**. By the rule that applies to the beginning of a maṇḍala, Agni is the deity. For the Viśvajit this sūkta is the Ājya-śastra; and it is laid down in the sūtra विश्वजितोऽग्निं नर इत्याज्यं (*viśvajito 'gniṃ nara ityājyaṃ*) (Ā. Sū. 8-7). In the four-night rite of Atri called चतुर्विराख्यॆ (*caturvirākhyè*) **NOTE**, on the fourth day, this same sūkta is the Ājya-śastra. For it is laid down in the sūtra अग्निं नर इति चतुर्थे (*agniṃ nara iti caturthe*) (Ā. Sū. 10-2). In the ten-night rite व्यूल्ले (*vyūlle*) **NOTE**, on the fourth day, this sūkta is the जातवेदस्यनिविद्वानं (*jātavedasyanividvānaṃ*) **NOTE**. And it is stated in the sūtra अग्निं नर इत्याग्नि मारुतं (*agniṃ nara ityāgni mārutaṃ*) (Ā. Sū. 8-8). In the Mahāvrata too this is the Ājya-śastra; likewise in the Fifth Āraṇyaka it is stated: आज्यप्रउगे विश्वजितः (*ājyaprauge viśvajitaḥ*) (Ai. Ā. 5-1-1). On the Avivākya day, at the Prātar-anuvāka, in the place of the anuṣṭubhs beginning with त्वमग्ने वसूनि (*tvamagne vasūni*) and the rest, the first (ṛks) are to be inserted. For it is stated in the sūtra: on the tenth day, in the place of the anuṣṭubhs, the triplet अग्निं नरो दीधितिभिररण्योरिति (*agniṃ naro dīdhitibhiraraṇyoriti*), in the Āgneya kratu (Ā. Sū. 8-12). The first six ṛks serve, on that day, in the Āgnimāruta śastra, as the stotriya and the anurūpa; and it is stated: अग्निं नरो दीधितिभिररण्योरिति स्तोत्रियानुरूप् (*agniṃ naro dīdhitibhiraraṇyoriti stotriyānurūp*) (Ā. Sū. 8-12). This is also used in the Homa at the beginning of the maṇḍala. At the third iṣṭi of the Ādhāna, the ṛk beginning प्रेद्ध (*preddha*) is the anuvākyā of the Sviṣṭakṛt; and it is stated: प्रेद्यो अग्न इमो अग्न इति संयाज्ये (*predyo agna imo agna iti saṃyājye*) (Ā. Sū. 2-1). Likewise elsewhere too, in the Dīkṣaṇīya and the other iṣṭis, it is the anuvākyā of the Sviṣṭakṛt. At the Prāyaṇīya iṣṭi the two ṛks beginning सेदग्निरग्नित्यादिके (*sedagniragnityādike*) are the yājyā and the anuvākyā of the Sviṣṭakṛt; and it is stated: सेदग्निरग्निरत्यस्तन्यानिति द्वे संयाज्ये (*sedagniragniratyastanyāniti dve saṃyājye*) (Ā. Sū. 4-3). At the third iṣṭi of the Ādhāna, the ṛk beginning विमो अग्न (*vimo agna*) **NOTE** is for the Sviṣṭakṛt; and it is stated: इमो अग्न इति संयाज्ये (*imo agna iti saṃyājye*) (Ā. Sū. 2-1). Likewise elsewhere too, in the Dīkṣaṇīya and the other iṣṭis, this is the yājyā of the Sviṣṭakṛt. At the Prātar-anuvāka, for the Āgneya kratu, for the ṛks in Triṣṭubh, and for the Āśvina śastra, the five ṛks beginning त्वमग्ने सुहव (*tvamagne suhava*) are used; and it is stated: त्वमग्ने सुहवो रण्वसंदृक् (*tvamagne suhavo raṇvasaṃdṛk*) (Ā. Sū. 4-13).
+
+### Printed p. 617
+
+##### Anuvāda
+
+Now the seventh maṇḍala of the Ṛgveda-saṃhitā is begun. In this maṇḍala there are six anuvākas. In the first anuvāka there are seventeen sūktas. Among them this sūkta अग्निं नरः (*agniṃ naraḥ*) is the first. In it there are twenty-five ṛks. In the Anukramaṇikā it is said: अग्निं पंचाधिका विराजोऽष्टादशाद्याः (*agniṃ paṃcādhikā virājo 'ṣṭādaśādyāḥ*). For this seventh maṇḍala, Vasiṣṭha himself, the seer of the maṇḍala, is the seer. The first eighteen ṛks of this sūkta are in the Virāṭ metre. The remaining ṛks are in the Triṣṭup metre. Because this sūkta is the opening sūkta of the maṇḍala, Agni is its deity. That this sūkta is applied for the Ājya-śastra mantras recited on the day of the sacrifice called Viśvajit is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, विश्वजितोऽग्निं नर इत्याज्यं (*viśvajito 'gniṃ nara ityājyaṃ*) (Ā. Sū. 8-7). That on the fourth day of the four-day sacrifice called Caturvīra, first performed by the sage Atri, this sūkta also is applied for the Ājya-śastra mantras is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, अग्निं नर इति चतुर्थे (*agniṃ nara iti caturthe*) (Ā. Sū. 10-2). That in the ten-night sacrifice called Vyūḷha, on the fourth day, this sūkta is to be recited as the sūkta of the जातवेदस्यनिविद्वानसूक्तवन्नागि (*jātavedasyanividvānasūktavannāgi*) is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, अग्निं नर इत्याग्निमारुतं (*agniṃ nara ityāgnimārutaṃ*) (Ā. Sū. 8-8). That in the Mahāvratesṭi too this sūkta is to be used for the Ājya-śastra mantras is indicated, in the Fifth Āraṇyaka of the Aitareya-āraṇyaka, by the sentence आज्यप्रउगे विश्वजितः (*ājyaprauge viśvajitaḥ*) (Ai. Ā. 5-1-1). That on the day of the sacrifice called Avivākya, at the time of reciting the Prātar-anuvāka mantras, in place of the mantras in the Anuṣṭup metre that begin with त्वमग्ने वसून् (*tvamagne vasūn*), the first three ṛks of this sūkta are to be added and recited is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, दशमेऽहन्यनुष्टुभां स्थानेऽग्निं नरो दीधितिभिररण्योरिति तृचमाग्नेये क्रत् (*daśame 'hanyanuṣṭubhāṃ sthāne 'gniṃ naro dīdhitibhiraraṇyoriti tṛcamāgneye krat*) (Ā. Sū. 8-12). And that in the Āgnimāruta-śastra mantras recited on the same day the first six ṛks of this sūkta are to be recited as stotriya and anurūpa mantras is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, अग्निं नरो दीधितिभिररण्योरिति स्तोत्रियानुरूपौ (*agniṃ naro dīdhitibhiraraṇyoriti stotriyānurūpau*) (Ā. Sū. 8-12). In the Homa at the beginning of the maṇḍala, at the Utsarjana and Upākaraṇa, the first ṛk of this sūkta is to be recited and the homa performed. At the third iṣṭi of the Ādhāna, the third ṛk, प्रेद्धः (*preddhaḥ*), is to be recited as the anuvākyā mantra in the Sviṣṭakṛt homa; this is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, प्रेद्दो अग्न इमो अग्न इति संयाज्ये (*preddo agna imo agna iti saṃyājye*) (Ā. Sū. 2-1). In the same way this ṛk is to be used as the anuvākyā mantra in the Sviṣṭakṛt homas of the Dīkṣaṇīya and the other sacrifices. At the Prāyaṇīya iṣṭi, the 14th and 15th ṛks of this sūkta, beginning with सेदग्निरग्नीन् (*sedagniragnīn*), are to be used respectively as the yājyā and the anuvākyā mantras; this is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, सेदग्निरग्निरत्यस्त्वन्यासिति द्वे संयाज्ये (*sedagniragniratyastvanyāsiti dve saṃyājye*) (Ā. Sū. 4-3). At the third iṣṭi of the Ādhāna, the ṛk इमो अग्ने (*imo agne*) of this sūkta,
+
+### Printed p. 618
+
+the 18th, is to be recited as the yājyā mantra in the Sviṣṭakṛt homa; this is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, इमो अग्नि इति संयाज्ये (*imo agni iti saṃyājye*) (Ā. Sū. 2-1). In the same way, in other places too, this ṛk is to be used as the yājyā mantra in the Sviṣṭakṛt homas of the Dīkṣaṇīya and the other iṣṭis. That in the recitation of the Prātar-anuvāka mantras, for the ṛks in the Triṣṭup metre connected with the Āgneya kratu and for the Āśvina-śastra mantras, the five ṛks, the 21st to 25th, of this sūkta, beginning with त्वमग्ने सुहवः (*tvamagne suhavaḥ*), are to be recited is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, त्वमग्ने सुहवो रण्वसंदृक् (*tvamagne suhavo raṇvasaṃdṛk*) (Ā. Sū. 4-13).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 1
+- Aṣṭaka 5; Adhyāya 1; Varga 23, 24, 25, 26, 27
+- Number of ṛks in the sūkta: 25
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: 1-18. विराट् (*virāṭ*); 19-25. त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं नरो॒ दीधि॑तिभिर॒रण्यो॒र्हस्त॑च्युती जनयंत प्रश॒स्तं ।  
+> दू॒रे॒दृशं॑ गृ॒हप॑तिमथ॒र्यु० ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । नरः । दीधितिभिः । अरण्योः । हस्तच्युती । जनयंत । प्रशस्तं ।  
+> दूरेऽदृशं । गृहपतिं । अथर्युं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरो नेतार ऋत्विजः प्रशस्तं प्रकर्षेण स्तुतं दूरेदृशं दूरे दृश्यमानं
+> दूरे पश्यंतं वा गृहपतिं गृहाणां पालकमथर्युमागम्यमतनवंतं वाग्निमरण्योर्विद्यमानं हस्तच्युती हस्तप्रच्युत्या हस्तगत्या दीधितिभिरंगुलिभिर्जनयंत ।
+> दीधितयोऽंगुलयो भवंति धीयंते कर्मसु। अरणी प्रत्यृत एने अग्निः
+> समरणाज्जायत इति वा । हस्तच्युती हस्तप्रच्युत्याजनयंत प्रशस्तं दूरेदर्शनं
+> गृहपतिमतनवंतं । नि- ५-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The leaders, the ṛtvijs, generate Agni, who is highly extolled, seen from afar or seeing afar, the protector of houses, the approachable one (in the printed text the words stand together: पालकमथर्युमागम्यमतनवंतं (*pālakamatharyumāgamyamatanavaṃtaṃ*)), and who exists in the two araṇis, by the going of the hands, that is, by the movement of the hands, with the fingers. The dīdhitis are the fingers; they are held in the rites. The two araṇis, प्रत्यृत एने (*pratyṛta ene*) **NOTE**, Agni; or, Agni is born from the rubbing of the two. Hastacyutī means by the going of the hands. As Yāska has it: they generate the extolled one, seen from afar, गृहपतिमतनवंतं (*gṛhapatimatanavaṃtaṃ*) (Ni. 5-10).
+
+### Printed p. 619
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—the adhvaryus
+- प्रशस्तं (*praśastaṃ*)—the one worthy of praise
+- दूरेदृशं (*dūredṛśaṃ*)—the one who is perceived even from afar
+- गृहपतिं (*gṛhapatiṃ*)—the protector of the house
+- अथर्युं (*atharyuṃ*)—the one who is easily approached; of such a kind
+- अग्निं (*agniṃ*)—Agni
+- अरण्योः (*araṇyoḥ*)—by the fuel-woods
+- हस्तच्युती (*hastacyutī*)—having the activities of the hands
+- दीधितिभिः (*dīdhitibhiḥ*)—by the fingers
+- जनयंत (*janayaṃta*)—they produce
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who is worthy of praise, who is perceived even from afar, who is the protector of the house, and who is easily approached, they produce in the araṇis, the pieces of fuel-wood, through the activities of the hands, with the help of the fingers.
+
+##### English translation
+Men generate the excellent, far-gleaming master of the mansion, the accessible Agni, present in the two sticks, by attrition with their fingers.
+
+##### विशेषविषयगळु (Special Topics)
+
+अथर्युं (*atharyuṃ*)—To explain this word Yāska has taken this very ṛk as the example and given the etymology:
+
+अथर्युं । अग्निं नरो दीधितिभिररण्योर्हस्तच्युती जनयंत प्रशस्तं । दूरेदृशं गृहपतिमथर्युं ॥ दीधतयोऽज्जुलयो भवंति धीयंते कर्मस्वरणे प्रत्यृत एने । अग्निः समरणाज्जायत इति वा । हस्तच्युती हस्तप्रच्युत्या । जनयंत प्रशस्तं दूरे दर्शनं गृहपतिमतनवंतं ॥ (*atharyuṃ | agniṃ naro dīdhitibhiraraṇyorhastacyutī janayaṃta praśastaṃ | dūredṛśaṃ gṛhapatimatharyuṃ ‖ dīdhatayo 'jjulayo bhavaṃti dhīyaṃte karmasvaraṇe pratyṛta ene | agniḥ samaraṇājjāyata iti vā | hastacyutī hastapracyutyā | janayaṃta praśastaṃ dūre darśanaṃ gṛhapatimatanavaṃtaṃ ‖*)
+
+(Ni. 5-10)
+
+Dīdhitayaḥ means aṅgulis, fingers; whatever work or activity people have to do, they do it using the fingers, that is, only with the help of the fingers. Because Agni is latent within the araṇis (the two pieces of wood used for producing fire), that is, because by placing these araṇis one upon the other and churning them Agni comes out of the araṇis, and because Agni is produced in the araṇis, it is held that before being so produced Agni is latent in the araṇis themselves. After the araṇis are churned, Agni becomes manifest, visible to all. The ṛtviks, using their fingers and applying force to the araṇis and churning, produce Agni. Agni, who was hidden in the middle of the araṇis, becomes visible to all after the churning. The fingers of the hands, backwards and
+
 ---
 
-**Progress note:** Done through printed p. 613. Vasiṣṭha introduction: Sudāsa, Viśvāmitra, Vasiṣṭha-vidveṣiṇī mantras, Muir
+**Progress note:** Done through printed p. 619. Vol 21 Maṇḍala 6 pīṭhikā end; Maṇḍala 7 Sūkta 1 introduction, Ṛk 1
