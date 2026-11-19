@@ -26001,6 +26001,136 @@ That there was an exceeding friendship between Sudāsa and Vasiṣṭha, and tha
 
 The venerable Indra, at Vasiṣṭha's prayer, placed his favour on Sudāsa and made it easy for Sudāsa to cross even the Paruṣṭī river, with its very deep current. He turned all the curses of the enemies so that they flowed in the form of rivers, favourable to his praiser: so it is said.
 
+### Printed p. 607
+
+For Sudāsa, for whom Vasiṣṭha worshipped the gods, he has described Sudāsa's surpassing excellences in this way.
+
+द्वे नपुर्देववतः शते गोर्द्वा रथा वधूमंता सुदासः । अर्हन्नग्ने पैजवनस्य दानं होतेत सद्म पर्येमि रेभन् ॥ (*dve napurdevavataḥ śate gordvā rathā vadhūmaṃtā sudāsaḥ | arhannagne paijavanasya dānaṃ hoteta sadma paryemi rebhan ‖*) (Ṛ. Saṃ. 7-18-22)
+
+O Agni, having received as gifts from Sudāsa, grandson of Devavata and son of Pijavana, two hundred cows, two chariots and the horses suited to them, I worship you (in order to obtain for him my favour) by circumambulating your sacrificial seat.
+
+चत्वारो मा पृजवनस्य दानाः स्मद्धिष्टयः कृशनिनो निरेके । यज्रासो मा पृथिविष्ठाः सुदासस्तोकं तोकाय श्रवसे वहंति ॥ (*catvāro mā pṛjavanasya dānāḥ smaddhiṣṭayaḥ kṛśanino nireke | yajrāso mā pṛthiviṣṭhāḥ sudāsastokaṃ tokāya śravase vahaṃti ‖*) (Ṛ. Saṃ. 7-18-23)
+
+The four horses given by the son of Pijavana, radiant, able to move easily even over difficult ground, going straight, well established on the earth, carry me (Vasiṣṭha) and my sons, grandsons and others, generation after generation, for the winning of food.
+
+यस्य श्रवो रोदसी अंतरुर्वि शीर्ष्णेशीर्ष्णे विबभाजा विभक्ता । सप्तेदिंद्रं न स्रवतो गृणंति नि युध्यामधिमशिशादभीके ॥ (*yasya śravo rodasī aṃtarurvi śīrṣṇeśīrṣṇe vibabhājā vibhaktā | saptediṃdraṃ na sravato gṛṇaṃti ni yudhyāmadhimaśiśādabhīke ‖*) (Ma. Saṃ. 7-18-24) **NOTE**
+
+Sudāsa, whose fame has spread and become renowned everywhere through heaven and earth, makes gifts personally to all who are eminent. Vasiṣṭha has extolled the greatness of Sudāsa, saying that the seven worlds praise such a liberal giver Sudāsa as though he were Indra himself. Likewise, in the 83rd sūkta of the 7th maṇḍala, from beginning to end, there is praise of Sudāsa, Vasiṣṭha's prayer to Indra and Varuṇa to help Sudāsa, and the description that, in return for that prayer, Sudāsa obtained the help of those gods and won victory in various battles. There is also praise of Vasiṣṭha, who helped Sudāsa. For example:
+
+एवेन्नु कं सिंधुमेभिस्तशारेवेन्नु कं भेदमेभिर्जघान । एवेन्नु कं दाशराज्ञॆ सुदासं प्रावदिंद्रो ब्रह्मणा वो वसिष्ठाः ॥ (*evennu kaṃ siṃdhumebhistaśārevennu kaṃ bhedamebhirjaghāna | evennu kaṃ dāśarājñè sudāsaṃ prāvadiṃdro brahmaṇā vo vasiṣṭhāḥ ‖*) (Ṛ. Saṃ. 7-33-3)
+
+O Vasiṣṭhas, it was because of your priesthood that Sudāsa was able to cross the Sindhu. It was for that reason that he became able to destroy his enemies. It is said that because you, who were his priests, praised Indra,
+
+### Printed p. 608
+
+Indra alone helped and protected him in the battle fought with the ten kings. This relation of Vasiṣṭha and Sudāsa is described in the Aitareya Brāhmaṇa in this way.
+
+........इत्येतेन ह वा ऐंद्रेण महाभिषेकेण वसिष्ठः सुदासं पैजवनमभिषिषेच तस्मादु सुदाः पैजवनः समंतं सर्वतः पृथिवीं जयन्परीयायाश्वेन च मेध्येनेजे (*........ityetena ha vā aiṃdreṇa mahābhiṣekeṇa vasiṣṭhaḥ sudāsaṃ paijavanamabhiṣiṣeca tasmādu sudāḥ paijavanaḥ samaṃtaṃ sarvataḥ pṛthivīṃ jayanparīyāyāśvena ca medhyeneje*) (Ai. Brā. 8-21)
+
+Vasiṣṭha recited the mantras of the Aindra consecration and consecrated Sudāsa, son of Pijavana, as king. Therefore Sudāsa conquered the whole earth and performed the Aśvamedha sacrifice: thus it is told how Sudāsa obtained sovereignty over all with Vasiṣṭha's help.
+
+But that the son of Vasiṣṭha was slain by the Saudāsas, that Vasiṣṭha grieved on that account, and that he later conquered those sons of Sudāsa with the help of a mantra, is stated in the Saṃhitās and other works themselves. For example, the Taittirīya Saṃhitā says this.
+
+वसिष्ठो हतपुत्रोऽकामयत विंदेय प्रजामभि सौदासान्भवेयमिति स एतमेकस्मान्नपंचाशमपश्यत्तमाहरत्तेनायजत ततो वै सोऽविंदत प्रजामभि सौदासानभवत् ॥ (*vasiṣṭho hataputro 'kāmayata viṃdeya prajāmabhi saudāsānbhaveyamiti sa etamekasmānnapaṃcāśamapaśyattamāharattenāyajata tato vai so 'viṃdata prajāmabhi saudāsānabhavat ‖*) (Tai. Saṃ. 7-4-7-1)
+
+When his sons had been slain by the Saudāsas, Vasiṣṭha wished, “May I again have offspring, and with that son's help may I conquer the Sudāsas”; he realised the mantra एकस्मान्नपंचाशं (*ekasmānnapaṃcāśaṃ*) and by its power performed the sacrifice. As a result a son was born to him, and with that son's help he conquered Sudāsa.
+
+When writing the introduction to the sūkta that begins with the mantra मो षु त्वा (*mo ṣu tvā*) (Ṛ. Saṃ. 7-32), Sāyaṇa has told this situation by citing the following sentences from the Anukramaṇī.
+
+सौदासैरग्नौ प्रक्षिप्यमाणः शक्तिरन्त्यं प्रगाथमालेभे सोऽर्धर्च उक्तेऽदह्यत । तं पुत्रोक्तं वसिष्ठः समापयतेति शार्य्यायनकं वसिष्ठस्यैव हतपुत्रस्यार्षमिति शांडकम् ॥ (*saudāsairagnau prakṣipyamāṇaḥ śaktirantyaṃ pragāthamālebhe so 'rdharca ukte 'dahyata | taṃ putroktaṃ vasiṣṭhaḥ samāpayateti śāryyāyanakaṃ vasiṣṭhasyaiva hataputrasyārṣamiti śāṃḍakam ‖*)
+
+When Vasiṣṭha's son Śakti was being thrown into the fire by the sons of Sudāsa, he beheld the final pragātha of this sūkta. As soon as he had recited half of a Ṛk in it, he was burnt. Then Vasiṣṭha recited the remaining half that his son had not recited: so says a sentence of the Śāṭyāyana Brāhmaṇa. Sāyaṇa's introduction states that the Tāṇḍya Brāhmaṇa too says that Vasiṣṭha himself recited the complete Ṛk. Manu too has told this same situation in this way.
+
+### Printed p. 609
+
+महर्षिभिश्च देवैश्च कार्यार्थं शपथाः कृताः । वसिष्ठैश्चापि शपथं शेषे पैजवने नृपे ॥ (*maharṣibhiśca devaiśca kāryārthaṃ śapathāḥ kṛtāḥ | vasiṣṭhaiścāpi śapathaṃ śeṣe paijavane nṛpe ‖*) (Ṛ. Saṃ. 8-110) **NOTE**
+
+Great seers and gods too take oaths for the accomplishment of an undertaking. For example, the passage above states that Vasiṣṭha took an oath in order to take revenge on the son of Pijavana. Kullūka, the commentator on this very part, has given an account of them. But this account differs from the account given above. It is as follows.
+
+वसिष्ठोऽप्यनेन पुत्रशतं भक्षितमिति विश्वामित्रेणाक्रुष्टो स्वपरिशुद्धये सुदाम्नि राजनि शपथं चकार (*vasiṣṭho 'pyanena putraśataṃ bhakṣitamiti viśvāmitreṇākruṣṭo svapariśuddhaye sudāmni rājani śapathaṃ cakāra*)
+
+When Viśvāmitra showed displeasure toward Vasiṣṭha, saying that Vasiṣṭha himself was the cause of the killing of his hundred sons, Vasiṣṭha, for his own purification, took an oath before Sudāsa (Surāḥ) **NOTE**, that is, in his presence. This shows the friendship between Vasiṣṭha and Sudāsa, not hatred. Or else the sentence पैजवने नृपे शपथं शेपे (*paijavane nṛpe śapathaṃ śepe*) **NOTE** also can be given the meaning that he took an oath (for the purification of himself) before Sudāsa, son of Pijavana. From all these points his complete friendship is evident. But it is also clear that Vasiṣṭha and the sons of Vasiṣṭha were harmed by the Saudāsas, and that Vasiṣṭha expressed this sorrow in the deficiencies **NOTE** and grieved.
+
+**Vasiṣṭha and Viśvāmitra**
+
+When Vasiṣṭha prayed to Indra to help Sudāsa, it is said that, by Indra's command, the flood of the river Paruṣṭī subsided and made Sudāsa's journey easy. At the time of the same Sudāsa's journey, Viśvāmitra prayed to the rivers Vipāś and Śutudrī, which were flowing across and causing him an obstacle, and made their floods subside. So the history runs. The authors of the Nirukta have told this history in this way.
+
+तत्रेतिहासमाचक्षते । विश्वामित्रऋषिः सुदासः पैजवनस्य पुरोहितो बभूव ।............स वित्तं गृहीत्वा विपाट्टुतुद्रोः संभेदनाययौ । अनुययुरितरे । स विश्वामित्रो नदीस्तुष्टाव । गाधा भवत इति । (*tatretihāsamācakṣate | viśvāmitraṛṣiḥ sudāsaḥ paijavanasya purohito babhūva |............sa vittaṃ gṛhītvā vipāṭṭutudroḥ saṃbhedanāyayau | anuyayuritare | sa viśvāmitro nadīstuṣṭāva | gādhā bhavata iti |*) (Ni. 2-24)
+
+In this connection a history is related. Sudāsa, son of Pijavana, once came to the confluence of the rivers Vipāś and Śutudrī and was unable to cross. Then Viśvāmitra, the priest of that Sudāsa, in return for the many kinds of wealth he had obtained from Sudāsa, prayed to those rivers to help him
+
+### Printed p. 610
+
+and made their floods favourable for crossing. This situation is indicated by the part in the 33rd sūkta of the 3rd maṇḍala of the Ṛk-saṃhitā in which the conversation between Viśvāmitra and the rivers is described.
+
+Thus, when Vasiṣṭha and Viśvāmitra were both priests of one king, whether there was friendship or enmity between them, or whether the two were priests of this king at different times, is discussed in the introduction to the third maṇḍala of the Ṛk-saṃhitā. The intense hatred that, as described in the Purāṇas and other works, arose directly between Vasiṣṭha and Viśvāmitra is not clearly stated in the Ṛk-saṃhitā. But many occasions support this point. In writing the bhāṣya on the 9th mantra of the 112th sūkta of the 1st maṇḍala of the Ṛk-saṃhitā, the story that tells of the intense hatred between Vasiṣṭha and Viśvāmitra is related in this way. In the Ṛk-saṃhitā:
+
+याभिः सिंधुं मधुमंतमसश्चतं वसिष्ठं याभिरजरावजिन्वतं । याभिः कुत्सं श्रुतर्यं नर्यमावतं ताभिरू षु ऊतिभिरश्विना गतं ॥ (*yābhiḥ siṃdhuṃ madhumaṃtamasaścataṃ vasiṣṭhaṃ yābhirajarāvajinvataṃ | yābhiḥ kutsaṃ śrutaryaṃ naryamāvataṃ tābhirū ṣu ūtibhiraśvinā gataṃ ‖*) (Ya. Saṃ. 1-112-9) **NOTE**
+
+O imperishable Aśvins, with those protections of yours by which you made the river (Sarasvatī) with its exceedingly sweet water flow, by which you gave Vasiṣṭha contentment of mind, and by which you protected Kutsa and others, come to us with all those protections: so it is prayed. When it is said that the Aśvins made the river Sarasvatī flow, when and how the interruption of that flow came about, Skandasvāmin has told in this way.
+
+अत्रेतिहासमाचक्षते । विश्वामित्रो वसिष्ठं जिघांसुः सरस्वतीमाहूयोवाचि । मत्समीपं वसिष्ठं शीघ्रमानय इति । सा तच्छ्रुत्वा विश्वामित्रादपि वसिष्ठादपि शापात् बिभ्यती किंचिदप्यप्रतिपद्यमाना चिंताकृशा विवर्णा बभूव । अथैनामेवंरूपां ज्ञात्वा कृपाशीलतया वसिष्ठ उवाच । रक्षात्मानं सरिच्छेष्टे वह मां शीघ्रगामिनि । विश्वामित्रः शपेद्धि त्वा माकृथास्तं विचारणां ॥ (*atretihāsamācakṣate | viśvāmitro vasiṣṭhaṃ jighāṃsuḥ sarasvatīmāhūyovāci | matsamīpaṃ vasiṣṭhaṃ śīghramānaya iti | sā tacchrutvā viśvāmitrādapi vasiṣṭhādapi śāpāt bibhyatī kiṃcidapyapratipadyamānā ciṃtākṛśā vivarṇā babhūva | athaināmevaṃrūpāṃ jñātvā kṛpāśīlatayā vasiṣṭha uvāca | rakṣātmānaṃ sariccheṣṭe vaha māṃ śīghragāmini | viśvāmitraḥ śapeddhi tvā mākṛthāstaṃ vicāraṇāṃ ‖*)
+
+Viśvāmitra, from intense hatred of Vasiṣṭha, wished to kill him. Then, having summoned the river Sarasvatī, he commanded her, “Bring Vasiṣṭha to me quickly,” and
+
+### Printed p. 611
+
+so on. Sarasvatī fell into a state of perplexity. She became anxious, fearing that if she followed Viśvāmitra's command and brought Vasiṣṭha, Vasiṣṭha would be angry and curse her. Then Vasiṣṭha, knowing the cause of her anxiety, said to her with kindness, “O excellent Sarasvatī, carry me to Viśvāmitra; otherwise you will become subject to his curse.”
+
+अथ तं स्वकूले जपंतं सरस्वती महता जलौघेन विश्वामित्राश्रमं प्रत्युवाह । ऊढ्वा च विश्वामित्राय निवेदयामास । (*atha taṃ svakūle japaṃtaṃ sarasvatī mahatā jalaughena viśvāmitrāśramaṃ pratyuvāha | ūḍhvā ca viśvāmitrāya nivedayāmāsa |*)
+
+Then Sarasvatī carried Vasiṣṭha, who was reciting prayers on her bank, to Viśvāmitra, informed him that she had brought Vasiṣṭha at Viśvāmitra's command, and stood obeying his order.
+
+निवेद्य च प्रहरणान्वेषणव्याकुले विश्वामित्रे कृतं मया स्वकार्यमिति मन्यमाना ब्रह्महत्याभयात् सरस्वती वसिष्ठं ततो दूरमपोह । अथ तत् ज्ञात्वा विश्वामित्रः क्रुद्धः सरस्वतीं शशाप ॥ (*nivedya ca praharaṇānveṣaṇavyākule viśvāmitre kṛtaṃ mayā svakāryamiti manyamānā brahmahatyābhayāt sarasvatī vasiṣṭhaṃ tato dūramapoha | atha tat jñātvā viśvāmitraḥ kruddhaḥ sarasvatīṃ śaśāpa ‖*)
+
+As soon as he learned that news, Viśvāmitra made ready to kill Vasiṣṭha. Then Sarasvatī, again fearing that the sin of brahmin-slaying might fall on her, carried Vasiṣṭha far away from there and saved him from Viśvāmitra's blow. Then Viśvāmitra gave her the curse that her whole stream should be filled with blood: such is the story. The mantra that has been cited states that the Aśvins freed her from that curse. (It also states that in the same way they granted a son to Vasiṣṭha, who desired a son.)
+
+Thus the ill-will between Vasiṣṭha and Viśvāmitra is clearly described in the bhāṣyas and other works, while in the Saṃhitās it is only hinted at. Only the sentences of the Bṛhaddevatā state this matter precisely. It is said that in the Ṛk-saṃhitā the mantras 3-53-21 to 24 indicate the extreme hatred that existed between Vasiṣṭha and Viśvāmitra. The sentences of the Bṛhaddevatā that tell this matter are as follows.
+
+पराश्चतस्रो तास्तत्र वसिष्ठद्वेषिण्यः स्मृताः । विश्वामित्रेण ताः प्रोक्ता अभिशापा इति स्मृताः ॥ (*parāścatasro tāstatra vasiṣṭhadveṣiṇyaḥ smṛtāḥ | viśvāmitreṇa tāḥ proktā abhiśāpā iti smṛtāḥ ‖*) (Bṛ. De. 4-117)
+
+### Printed p. 612
+
+The next four mantras, that is, 3-53-21 to 24, are well known as mantras that hate Vasiṣṭha and that express that hatred. It is also stated clearly that these four mantras are in the form of a curse upon Vasiṣṭha.
+
+द्विषद्द्वेषास्तु ताः प्रोक्ता विद्याश्चैवाभिचारिकाः । वसिष्ठास्ता न शृण्वंति तदाचार्यकसंमतं ॥ (*dviṣaddveṣāstu tāḥ proktā vidyāścaivābhicārikāḥ | vasiṣṭhāstā na śṛṇvaṃti tadācāryakasaṃmataṃ ‖*) (Bṛ. De. 4-118)
+
+Because it is known that these are abhicāraka mantras that harm an enemy who hates oneself, those born in the line of Vasiṣṭha do not listen to those mantras even with the ear, though they are recited by the teacher. If one has ever heard them, that is,
+
+कीर्तनाच्छ्रवणाच्चापि महद्दोषश्च जायते । शतधा बिध्यते मूर्धा कीर्तनेन श्रुतेन वा । तेषां बालाः प्रमीयंते तस्मात्तास्तु न कीर्तयेत् ॥ (*kīrtanācchravaṇāccāpi mahaddoṣaśca jāyate | śatadhā bidhyate mūrdhā kīrtanena śrutena vā | teṣāṃ bālāḥ pramīyaṃte tasmāttāstu na kīrtayet ‖*) (Bṛ. De. 4-119)
+
+a great sin arises from reciting these mantras, which are well known as Vasiṣṭha-vidveṣiṇīs, or from hearing their recital **NOTE**. Or, by reciting or by hearing them, the head of such a person bursts and falls. Such persons lose their sons and others. Therefore they should not be recited and should not be heard: so it is stated. The import of those mantras is as follows.
+
+इंद्रोतिभिर्बहुलाभिनो अद्य याच्छेष्ठाभिर्मघवञ्चूर जिन्व । यो नो द्वेष्ट्यधरः सस्पदीष्ट यमु द्विष्मस्तमु प्राणो जहातु ॥ (*iṃdrotibhirbahulābhino adya yāccheṣṭhābhirmaghavañcūra jinva | yo no dveṣṭyadharaḥ saspadīṣṭa yamu dviṣmastamu prāṇo jahātu ‖*) (Ṛ. Saṃ. 3-53-21)
+
+O Indra, at this time protect us with all your kinds of protection and satisfy us. May the enemy who hates us fall below; may the vital airs within his body abandon such an enemy, that is, may he perish.
+
+परशुं चिद्वि तपति शिंबलं चिद्वि वृश्चति । उखा चिदिंद्र येषंती प्रयस्ता फेनमस्यति ॥ (*paraśuṃ cidvi tapati śiṃbalaṃ cidvi vṛścati | ukhā cidiṃdra yeṣaṃtī prayastā phenamasyati ‖*) (Ṛ. Saṃ. 3-53-22)
+
+O Indra, as a tree falls down under the stroke of an axe, so may my enemy fall down rolling. As the śālmalī flower drops down so easily, so may my enemy fall. May his body be reduced to powder, and by the power of the mantra may my enemy die, pouring froth from his mouth.
+
+### Printed p. 613
+
+न सायकस्य चिकिते जनासो लोधं नयंति पशु मन्यमानाः । नावाजिनं वाजिना हासयंति न गर्दभं पुरो अश्वान्नयंति ॥ (*na sāyakasya cikite janāso lodhaṃ nayaṃti paśu manyamānāḥ | nāvājinaṃ vājinā hāsayaṃti na gardabhaṃ puro aśvānnayaṃti ‖*) (Ṛ. Saṃ. 3-53-23)
+
+Formerly, when I (Viśvāmitra), who had taken refuge in silence for fear that my austerity might be broken, was dragged along and brought by Vasiṣṭha like an animal, he could not recognise the power of my mantra. But I too did not rise against him. As excellent horses look upon donkeys with disdain, I too did not wish to compete with him.
+
+इम इंद्र भरतस्य पुत्रा अपपित्वं चिकितुर्न प्रपित्वं । हिन्वंत्यश्वमरणं न नित्यं ज्यावाजं परि णयंत्याज् ॥ (*ima iṃdra bharatasya putrā apapitvaṃ cikiturna prapitvaṃ | hinvaṃtyaśvamaraṇaṃ na nityaṃ jyāvājaṃ pari ṇayaṃtyāj ‖*) (Ṛ. Saṃ. 3-53-24)
+
+O Indra, we, of the line of Bharata and called Viśvāmitras, look forward to being separate from the Vasiṣṭhas and certainly do not wish to associate with them. In battles our weapons are always eager to destroy them.
+
+Thus these very mantras that express hatred are specified as Vasiṣṭha-vidveṣiṇīs. Durgācārya, the commentator on the Nirukta, has refused to write a commentary on these mantras. He has stated that he is born in the Vasiṣṭha lineage and that a commentary on them would be improper.
+
+यस्मिन्निगमे एष शब्दः सा वसिष्ठद्वेषिणी ऋक् । अहं च कापिस्थलो वासिष्ठः । अतस्तान्न निर्ब्रवीमि ॥ (*yasminnigame eṣa śabdaḥ sā vasiṣṭhadveṣiṇī ṛk | ahaṃ ca kāpisthalo vāsiṣṭhaḥ | atastānna nirbravīmi ‖*)
+
+The mantra in which this word is used belongs among the mantras called Vasiṣṭha-vidveṣiṇī. I, however, belong to the Kāpisthala line, which is also the Vāsiṣṭha lineage. Therefore I do not give an explanation of it: so he has said.
+
+According to some scholars, the explanation of the 104th sūkta of the 7th maṇḍala of the Ṛk-saṃhitā also tells of the ill-will between Vasiṣṭha and Viśvāmitra. They hold the opinion that Viśvāmitra, the extreme enemy, is the one specified as यातुधान (*yātudhāna*).
+
+"The Verses may, as Professor Max-Muller supposes, have arisen out of Vasistas' Contest with Viswawitra and it may have been the latter Personage who brought these charges of heresay and of murderous and demoniacal Character against his rival '
+
+(Muir. Original Sanskrit Texts, Vol. I. P. 327-28.)
+
 ---
 
-**Progress note:** Done through printed p. 606. Vasiṣṭha introduction: Varuṇa episodes, Indra, Agni identity, Sudāsa
+**Progress note:** Done through printed p. 613. Vasiṣṭha introduction: Sudāsa, Viśvāmitra, Vasiṣṭha-vidveṣiṇī mantras, Muir
