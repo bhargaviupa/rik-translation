@@ -35699,6 +35699,298 @@ Undaunted (Indra), you have protected with all your protections Sudas, the offer
 > श्वं । नृभिः । नृमनः । देववीत् । भूरीणि । वृत्रा । हरिअश्व । हंसि ।  
 > त्वं । नि । दस्युं । चुमुरिं । धुनिं । च । अस्वापयः । दभीतये । सुहंतु ॥ ४ ॥
 
+### Printed p. 833
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृमणो नृभिर्यज्ञानां नेतृभिः स्तोतृभिर्मननीय स्तोतव्येंद्र ।
+> नृषु मनो यस्यॆति बहुव्रीहिर्वा । देववीतौ यज्ञे क्रियमाणे सति संग्रामे
+> ना । देवा विजिगीषवो यस्मिन् वियंति गच्छंतीति संग्रामो देववीतिः । नृभिर्मरुध्भिः सह भूरीणि बहूनि वृत्रा वृत्राणि शत्रून् हंसि । मारितवानसि । किंच हे
+> हर्यश्वेंद्र त्वं दभीतये दभीतिनामकाय राजर्षये । तदर्थमित्यर्थः । दस्युं
+> चुमुरिं च धुनिं च सुहंतु सुहंतुना वज्रेण नि नितरामस्थापयः । मारितवानसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, thought of and to be praised by the leaders of sacrifices, that is, by the praisers; or, as a bahuvrīhi, he whose mind is on men. When the sacrifice to the gods is being performed, or in battle (a battle is called a *devavīti* because the gods, desiring victory, go into it), together with the leaders, the Maruts, you have slain many Vṛtras, that is, enemies. Further, O Indra, lord of bay horses, for the royal sage called Dabhīti, that is, for his sake, you laid low Dasyu, Chumuri and Dhuni with the thunderbolt called Suhantu; that is, you killed them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृमणः (*nṛmaṇaḥ*)—O Indra, who are honoured by the sacrificers
+- त्वं (*tvaṃ*)—you
+- देववीत् (*devavīt*)—in the battle that brings victory to the gods
+- नृभिः (*nṛbhiḥ*)—together with the Maruts
+- भूरीणि (*bhūrīṇi*)—of exceedingly great number
+- वृत्रा (*vṛtrā*)—enemies
+- हंसि (*haṃsi*)—have slain
+- हरश्व (*haraśva*)—O Indra
+- त्वं (*tvaṃ*)—you
+- दभीतये (*dabhītaye*)—for the royal sage called Dabhīti
+- दस्युं (*dasyuṃ*)—Dasyu
+- चुमुरिं (*cumuriṃ*)—Chumuri
+- धुनिं च (*dhuniṃ ca*)—and Dhuni also
+- सुहंतु (*suhaṃtu*)—with the destructive thunderbolt
+- नि अस्वापयः (*ni asvāpayaḥ*)—struck down completely and laid low
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, honoured by the sacrificers, in the battle that brings victory to the gods, together with the Maruts, you have slain enemies of exceedingly great number. O Indra, for the sake of the royal sage called Dabhīti, you have struck down completely and laid low Dasyu, Chumuri and Dhuni also with the destructive thunderbolt.
+
+##### English translation
+You, the lord of houses, who are honoured by men, have destroyed along with the Maruts, numerous enemies at the sacrifice to the gods, you have put to sleep with the thunderbolt the Dasyus, Chamuri, and Dhuni, on behalf of Dabhiti.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ च्यौ॒त्नानि॑ वज्रहस्त॒ तानि॒ नव॒ यत्पुरो॑ नव॒तिं च॑ स॒द्यः ।  
+> नि॒वेश॑ने शतत॒मावि॑वेषी॒रह॑ञ्च वृ॒त्रं नमु॑चिम्मु॒ताह॑न् ॥ ५ ॥
+
+### Printed p. 834
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ॥ पवपारः ॥  
+> तव । च्यौत्नानि । वज्रहस्त । तानि । नव । यत् । पुरः । नवतिं । च । सद्यः ।  
+> निवेशने । शततमा । अविवेषीः । अहन् । च । वृत्रं । नमुचिं । उत । अहन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रहस्त तव च्यौत्नानि बलानि तानि तादृशानि । यद्यदा त्वं शंबरस्य नव नवतिं
+> च पुरः सद्योयुगपदेव विदारितवानसीति शेषः। तदा निवेशने निवेशनार्थं शततमा
+> शततमीं पुरमविवेषीः । व्याप्नोः । वृत्रं चाहन् । उतापि च नमुचिमहन् ॥
+
+##### Gist of the bhāṣya
+
+O wielder of the thunderbolt, such are your mighty deeds: when you split at one stroke Śambara's nine and ninety cities (this is the part to be supplied), then, to take up your abode, you pervaded the hundredth city; and you slew Vṛtra, and you also slew Namuci.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रहस्त (*vajrahasta*)—O Indra, bearer of the thunderbolt
+- यत् (*yat*)—when
+- (त्वं (*tvaṃ*)—you)
+- नव नवंति च (*nava navaṃti ca*)—in number nine and ninety
+- पुरः (*puraḥ*)—the enemy cities
+- सद्यः (*sadyaḥ*)—at once
+- (destroyed) and
+- निवेशने (*niveśane*)—for your dwelling
+- शततमा (*śatatamā*)—the hundredth city
+- आविवेषीः (*āviveṣīḥ*)—entered (and besides)
+- वृत्रं च (*vṛtraṃ ca*)—Vṛtra
+- अहन् (*ahan*)—slew
+- उत (*uta*)—and
+- नमुचिं (*namuciṃ*)—Namuci
+- अहन् (*ahan*)—slew (then)
+- तव (*tava*)—your
+- चौत्वानि (*cautvāni*)—powers
+- तानि (*tāni*)—became famous as these
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, when you destroyed at once the enemy cities, nine and ninety in number, and entered the hundredth city for your dwelling, and besides slew Vṛtra and Namuci, then your valour became famous as being of this kind.
+
+##### English translation
+Such, wielder of the thunderbolt, are your mighty powers, that when you had quickly destroyed ninety and nine cities, you have occupied the hundredth as a place of abode : you have slain Vritra : you have also slain Namuchi.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सना॒ ता त॑ इंद्र॒ भोज॑नानि रा॒तह॑व्याय दा॒शुषे॑ सु॒दासे॑ ।  
+> वृष्णे॑ ते॒ हरी॒ वृष॑णा युनज्मि॒ व्यंतु॒ ब्रह्मा॑णि पुरुशाक॒  ॑
+> वाजं ॥ ६ ॥
+
+### Printed p. 835
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सना । ता । ते । इंद्र । भोजनानि । रातहव्याय । दाशुषे । सुदासे ।  
+> वृष्णे । ते । हरी इति । वृषणा । युनज्मि । व्यंतु । ब्रह्माणि । पुरुशाक । वाजं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव रातहव्याय दत्तहव्याय दाशुषे यजमानाय सुदासे
+> ता तानि त्वया दत्तानि भोजनानि भोग्यानि धनानि सना सनानि सनातनानि बभूवुरिति
+> शेषः । हे पुरुशाक बहुकर्मन्निंद्र वृष्णे कामानां वर्षित्रे ते तुभ्यं । त्वामानेतुमित्यर्थः । वृषणा वृषणौ हरी अश्वै युनज्जि । रथे योजयामि । ब्रह्माण्यस्मदीयानि स्तोत्राणि वाजं बलिनं त्वां व्यंतु । गच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those enjoyable riches given by you to Sudās, the sacrificer who has offered oblations, have become ancient, that is, eternal (this is the part to be supplied). O Puruśāka, Indra of many works, to you, the showerer of desires, I yoke to the chariot the two showering bay horses, in order to bring you here. May our prayers, our hymns of praise, go to you, the mighty one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—to you
+- रातहव्याय (*rātahavyāya*)—who offers oblations
+- दाशुषे (*dāśuṣe*)—and is the sacrificer
+- सुदासे (*sudāse*)—to Sudās
+- ता (*tā*)—given by you, infinite
+- भोजनानि (*bhojanāni*)—enjoyable things
+- सना (*sanā*)—are everlasting
+- पुरुशाक (*puruśāka*)—O Indra, doer of many works
+- वृष्णे (*vṛṣṇe*)—showerer of desires
+- ते (*te*)—for you
+- वृषणा (*vṛṣaṇā*)—that shed seed
+- हरी (*harī*)—the horses
+- युनज्जि (*yunajji*)—I yoke to the chariot
+- ब्रह्माणि (*brahmāṇi*)—our hymns of praise
+- वाजं (*vājaṃ*)—you, who are mighty
+- व्यंतु (*vyaṃtu*)—may come and reach
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the enjoyable things given by you to Sudās, who offers oblations to you and is the sacrificer, are infinite and everlasting. O Indra, doer of many works, for you, the showerer of desires, I yoke to the chariot the horses that shed seed. May our hymns of praise come and reach you, who are mighty.
+
+##### English translation
+Your favours, Indra, to Sudas, the donor (of offerings), the presenter of oblations, infinite : showerer (of benefits), I yoke for you (your vigorous) steeds : may our prayers reach you who are mighty, to whom many rites are addressed.
+
+### Printed p. 836
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा ते॑ अ॒स्यां स॑हसाव॒न्परि॑ष्टाव॒घाय॑ भूम हरिवः परा॒द्यै ।  
+> त्राय॑स्व नोवृ॒केभि॒र्वरू॑थै॒स्तव॑ प्रि॒यासः॑ सू॒रिषु॑ स्याम ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । ते । अस्यां । सहसावन् । परिष्टौ । अघाय । भूम । हरिवः । पराद्यै ।  
+> त्रायस्व । नः । अवृकेभिः । वरूथैः । तव । प्रियासः । सूरिषु । स्याम ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसावन् बलवन् हरिवो हरिवन्निंद्र ते तवास्यां स्तोत्रेणास्माभिः
+> क्रियमाणायां परिष्टावन्वेषणायां परादै परादानायाघायाहंत्रे वयं मा
+> भूम । किंच नोऽस्मानवृकेभिरबाधैर्वरूथैः । वारयंत्युपद्रवेभ्य इति वरूथानि
+> रक्षणानि । तैस्त्रायस्व । पाहि । तव सूरिषु स्तोतृषु मध्यॆ वयं प्रियासः प्रियाः
+> स्याम । भूयास्म ॥
+
+##### Gist of the bhāṣya
+
+O mighty Indra, lord of bay horses, in this seeking made by us with praise, may we not become, for the one who gives us over, for the evil one, the slayer**NOTE**. Further, protect us with defences that cannot be broken (the *varūthas* are protections, so called because they ward off calamities); guard us with them. May we be dear to you among your praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसावन् (*sahasāvan*)—O Indra, who are endowed with strength
+- हरिवः (*harivaḥ*)—and have the horses called Hari
+- ते (*te*)—to you
+- अस्यां परिष्टौ (*asyāṃ pariṣṭau*)—in this act in which we offer praises and beseech you
+- अघाय (*aghāya*)—to the most sinful
+- पराद्यै (*parādyai*)—who plunders and devours others, to the enemy
+- मा भूम (*mā bhūma*)—may we not become subject
+- नः (*naḥ*)—us
+- अवृकेभिः (*avṛkebhiḥ*)—that are not harming
+- वरूथैः (*varūthaiḥ*)—with protections
+- त्रायस्व (*trāyasva*)—protect
+- तव (*tava*)—your
+- सूरिषु (*sūriṣu*)—among the praisers
+- प्रियासः (*priyāsaḥ*)—dear to you
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, endowed with strength and possessing the horses called Hari, in this sacrificial act in which we offer praises to you and beseech you, may we not become subject to the enemy who is most sinful and plunders and devours others. Protect us with protections that are not harming. May we be dear to you among your praisers.
+
+### Printed p. 837
+
+##### English translation
+Powerful Indra, lord of horses, let us not be exposed at this ceremony, addressed to you, to the murderous despoiler : protect us with impregnable defences: many we be held dear among your worshippers.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रि॒यास॒ इत्ते॑ मघवन्न॒भिष्टौ॒ नरो॑ मदेम शर॒णे सखा॑यः ।  
+> नि तु॒र्वशं॒ नि याद्वं॑ शितीह्यतिथि॒ग्वाय॒ शंस्यं॑ करि॒ष्यन् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रियासः । इत् । ते । मघवन् । अभिष्टौ । नरः । मदेम । शरणे । सखायः ।  
+> नि । तुर्वशं । नि । याद्वं । शिशिहि । अतिथिग्वाय । शंस्यं । करिष्यन् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र ते तवाभिष्कावभ्येषणे नरः स्तोत्राणां नेतारो
+> वयं सखायः समानख्यातयः प्रियासः प्रियाश्च संतः शरण इत् गृह एव मदेम!
+> मोदेम । किंचातिथिग्वाय । पूजयातिथीन् गच्छतीत्यतिथिग्वः । तस्मै सुदासे
+> दिवोदासाय वास्मदीयाय राजे शंस्यं शंसनीयं सुखं करिष्यन् कुर्वन्
+> तुर्वशं राजानं नि शिशिहि । वशं कुरु । याद्वं च राजानं नि शिशीहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O wealthy Indra, in your adoration, we, the leaders of the praises, friends of equal renown, being dear to you, would rejoice in our own house. Further, the *atithigva* is one who goes to guests with worship; for that Sudās, or for our king Divodāsa, doing a praiseworthy pleasure, subdue the king Turvaśa, that is, bring him under control; and subdue the king Yādva as well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- ते (*te*)—you
+- अभिष्टौ (*abhiṣṭau*)—in this time of sacrifice in which we worship
+- नरः (*naraḥ*)—we, the sacrificers
+- सखायः (*sakhāyaḥ*)—being friends to you
+- प्रियासः (*priyāsaḥ*)—and dear
+- शरणे इत् (*śaraṇe it*)—in our sacrificial house itself
+- मदेम (*madema*)—may we be contented
+- अतिथिग्वाय (*atithigvāya*)—to Sudās, who receives guests
+- शंस्यं (*śaṃsyaṃ*)—praiseworthy happiness
+- करिष्यन् (*kariṣyan*)—producing
+- तुर्वशं (*turvaśaṃ*)—the king called Turvaśa
+- नि शिशीहि (*ni śiśīhi*)—make him subject to him
+- याद्वं (*yādvaṃ*)—the son of Yadu
+- नि (शिशीहि) (*ni (śiśīhi)*)—make subject
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, in this time of sacrifice in which we worship you, may we, the sacrificers, being friends to you and dear, be contented in our own sacrificial house. Producing praiseworthy happiness for Sudās, who receives
+
+### Printed p. 838
+
+guests, make the king called Turvaśa subject to him. Make the son of Yadu subject as well.
+
+##### English translation
+May we, Maghavan, leaders in your adoration, regarded as dear friends, be happy in our homes : about to bestow felicity upon Atithigwan, humiliate Turvasa ; (humiliate) the son of Yadu.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒द्यश्चि॒न्नु ते म॑घवन्न॒भिष्टौ॒ नरः॑ शंसंत्युक्थ॒शास॑ उ॒क्षा ।  
+> ये ते॒ हवे॑भि॒र्वि प॒णीरदा॑शन्न॒स्मान्वृ॑णीष्व॒ युज्या॑य॒ तस्मै॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सद्यः । चित् । नु । ते । मघवन् । अभिष्टौ । नरः । शंसंति । उक्तशासः । उक्ता ।  
+> ये । ते । हवेभिः । वि । पणीन् । अदाशन् । अस्मान् । वृणीष्व । युज्याय । तस्मै ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र ते तव नु अद्याभिष्टावभ्येषणे ये नर उक्तशास
+> उक्तानां शंसितार उक्तोत्थानि शस्त्राणि सद्यश्चित् सद्य एव शंसंति । किंच ते तव
+> हवेभिः स्तोत्रैः पणीनप्रदानशीलान् वणिजोऽपि व्यदाशन् । धनानि विशेषेणादापयन्नित्यर्थः । तानस्मान् तस्मै युज्याय सख्याय तत्सख्यमनुवर्तयितुं वृणीष्व।
+> परिगृहाण ॥
+
+##### Gist of the bhāṣya
+
+O wealthy Indra, in your adoration today, those leaders who are reciters of the *ukthas* recite the śastras that arise from the *ukthas* at once. Further, through your invocations, your hymns, they made even the paṇis, the merchants who are not given to giving, give away their riches; that is, they caused them to give wealth. Choose us, such as we are, for that friendship, to follow that friendship; accept us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- नु (*nu*)—now
+- अभिष्टौ (*abhiṣṭau*)—in the time of your worship
+- उक्तशासः (*uktaśāsaḥ*)—reciters of the *ukta* mantras
+- ये नरः (*ye naraḥ*)—the sacrificers who
+- ते (*te*)—for you
+- उक्ता (*uktā*)—praises in the form of śastras
+- सद्यश्चित् (*sadyaścit*)—at once
+- शंसंति (*śaṃsaṃti*)—recite (and besides)
+- ते (*te*)—your
+- हवेभिः (*havebhiḥ*)—with the help of the hymns
+- पणीन् (*paṇīn*)—the miserly paṇis
+- वि आदाशन् (*vi ādāśan*)—made givers of wealth
+- अस्मान् (*asmān*)—us also, such as we are
+- तस्यॆ युज्याय (*tasyè yujyāya*)—for your famed friendship
+- वृणीष्व (*vṛṇīṣva*)—choose
+
 ---
 
-**Progress note:** Done through printed p. 832. Sūkta 18 Ṛk 24-25, Sūkta 19 intro, Ṛk 1-4
+**Progress note:** Done through printed p. 838. Sūkta 19 Ṛk 4 end, Ṛk 5-9
