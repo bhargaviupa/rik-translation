@@ -34569,6 +34569,286 @@ The enemies of Sudās, of evil intent and devoid of wisdom, crossing the river P
 ##### English translation
 The evil-disposed and stupid (enemies of Sudas), crossing the flooded Parushni river, have broken down its banks; but he by his greatness pervades the earth, and Kavi, the son of Chayamana, like a falling victim, sleeps (in death).
 
+### Printed p. 808
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒युरर्थं॒ न न्य॒र्थं परु॑ष्ठीमा॒शुश्च॒नेद॑भिपि॒त्वं ज॑गाम ।  
+> सु॒दास॒ इंद्रः॑ सु॒तुका॑ अ॒मित्रा॒नरं॑धय॒न्मानु॑षे॒ वध्रि॑वाचः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईयुः । अर्थं । न । निअर्थं । परुष्णीं । आशुः । चन । इत् । अभिपित्वं । जगाम ।  
+> सुदासे । इंद्रः । सु ऽ तुकान् । अमित्रान्, । आरंधयत् । मानुषे । वध्रिवाचः ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथेंद्रः परुष्ण्या विच्छिन्नानि पर्वाणि संदधे । ततः परुष्ण्या आपो यथापूर्वमर्थं गंतव्यमेव प्रवणदेशं प्रति परुष्ठिमीयुः । आययां चक्रुः ॥
+> इण् गताविति धातोरंतर्भावितण्यर्थात् लिटीयुरिति । अतो द्विकर्मकमाख्यातं ॥
+> न्यर्थमगंतव्यं परुष्ण्याः पार्श्वयोः स्थितं निम्मं देशं प्रति परुष्ठीं नेयुः ।
+> आशुश्चन राज्ञः सुदासोऽश्वोऽप्यभिपित्वमभिप्राप्तव्यमेव जगाम । इंद्रश्च सुदासे
+> राज्ञॆ मानुषे लोके वध्रिवाचो जल्पकानमित्रान् शत्रून् सुतुकान् सुतोकान् ।
+> शुक् तोकमित्यपत्यनामसु पाठात् । आरंधयत् । वशमानयत् ॥
+
+##### Gist of the bhāṣya
+
+Then Indra joined together again the severed joints of the Paruṣṇī. Thereupon the waters of the Paruṣṇī went, as before, to the accessible low-lying place that was to be reached; they made themselves come (to the Paruṣṇī). Those that were not to be gone to, the low-lying places on the two sides of the Paruṣṇī, they did not go to (नेयुः (*neyuḥ*)).**NOTE** Even the swift horse of king Sudās reached what was to be reached. And Indra, in the world of men, for king Sudās, brought into subjection the enemies who talk idly, "sutukān", that is "sutokān" (those with good offspring), since the word "toka" is read among the names for offspring.**NOTE** The word आरंधयत् (*āraṃdhayat*) means "brought under his control".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—the waters
+- परुष्टीं (*paruṣṭīṃ*)—in the river Paruṣṇī
+- अर्थं (*arthaṃ*)—the place to be gone to, only
+- ईयुः (*īyuḥ*)—have gone and reached
+- न्यर्थं (*nyarthaṃ*)—to the places not to be gone to
+- न (*na*)—did not go and cause trouble
+- आशुश्चन (*āśuścana*)—the horse of Sudās also
+- अभिपित्वं (*abhipitvaṃ*)—only to the place to be gone to
+- जगाम (*jagāma*)—has gone and reached
+- इंद्रः (*iṃdraḥ*)—Indra
+- मानुषे (*mānuṣe*)—in the world of men
+- वध्रिवाचः (*vadhrivācaḥ*)—having useless speech
+- अमित्रान् (*amitrān*)—the enemies
+- सुतुकान् (*sutukān*)—together with sons, grandsons and the rest
+- सुदासे (*sudāse*)—to the king named Sudās
+- आरंधयत् (*āraṃdhayat*)—made subject
+
+##### भावार्थ (Bhāvārtha)
+
+By Indra's grace the waters in the river Paruṣṇī have gone and reached only the places to be gone to. They did not rush into the places not to be gone to and cause trouble. The horse of Sudās also has gone and reached only the place to be gone to. Indra, in the world of men, made the enemies, who speak useless words, together with their sons, grandsons and the rest, subject to the king named Sudās.
+
+### Printed p. 809
+
+##### English translation
+The waters followed their regular course to the Parushni, nor (wandered) beyond it : the quick courser (of the king) came to the accessible places, and Indra made the idly-talking enemies, with their numerous progeny, subject among men (to Sudas)
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒युर्गावो॒ न यव॑सा॒दगो॑पा यथाकृ॒तम॒भि मि॒त्रं  ॒॑
+> चितासः ।  
+> पृश्नि॑गावः॒ पृश्नि॑निप्रेषितासः श्रु॒ष्टिं च॑क्रुर्नि॒युतो॒ रंत॑यश्च ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईयुः । गावः । न । यवसात् । आगोपाः । यथाकृतं । अभि । मित्रं । चितासः ।  
+> पृश्निगावः । पृश्नि निप्रेषितासः । श्रुष्टिं । चक्रुः । नियुतः । रंतयः । च ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदेंद्रः सुदासो रक्षणार्थमागच्छति तदा पृश्नि निप्रेषितासः पृश्नि निप्रेषिताः
+> पृश्न्या मात्रा नितरां प्रहिताश्चितासः संहता जानंतो वा पृश्निगावः । पृश्निवर्णा
+> गावोऽश्वा येषां ते पृश्निगावो मरुतो यथाकृतमिंद्रस्य साहाय्यं करवापेति
+> यथा पूर्वं समयः कृतस्तं समयमनतिक्रम्य मित्रमिंद्रं यवसात् ॥ निमित्तार्थे
+> पंचमी ॥ यवसं निमित्तीकृत्यागोपा गोपालेनारक्षिता गावो न गाव इवाभीयुः ।
+> अभिजग्मुः । रंतयो रममाणा नियुतो मरुतामश्वाश्च श्रुष्टिं शीघ्रप्राप्तिं चक्रुः ।
+> तस्मिन्युद्धे मरुत इंद्रं साहाय्यार्थमभ्यगच्छन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When Indra comes for the protection of Sudās, then the Maruts, "pṛśni niprēṣitāsaḥ", are those sent forth firmly by their mother Pṛśni; "chitāsaḥ" means gathered together, or else knowing; "pṛśnigāvaḥ" are those whose "gāvaḥ", that is horses, are of spotted colour, the Maruts. "Yathākṛtam": in accordance with the agreement made before, "we shall help Indra", not transgressing that agreement, they came to their friend Indra. "Yavasāt" has the fifth case in the sense of cause: having grass as the reason, like cattle unguarded by a herdsman, they ran up to him. "Ramantayaḥ" means delighting, and the horses of the Maruts, "niyutaḥ", also brought about "śruṣṭi", quick arrival. The meaning is that in that battle the Maruts came to Indra for his help.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यवसात् (*yavasāt*)—on account of abundant grass
+- अगोपाः (*agopāḥ*)—without herdsmen
+- गावः न (*gāvaḥ na*)—like cattle that run up swiftly without hindrance
+- पृश्नि निप्रेषितासः (*pṛśni nipreṣitāsaḥ*)—sent forth by Pṛśni
+- चितासः (*citāsaḥ*)—endowed with wisdom
+- पृश्निगावः (*pṛśnigāvaḥ*)—the Maruts, who have horses of varied colours
+- यथाकृतं (*yathākṛtaṃ*)—in accordance with the agreement made, that they would help Indra
+- मित्रं (*mitraṃ*)—the friend Indra
+
+### Printed p. 810
+
+- अभि ईयुः (*abhi īyuḥ*)—have run up for his help and joined him
+- रंतयः (*raṃtayaḥ*)—sportive
+- नियुतः च (*niyutaḥ ca*)—their horses also
+- श्रुष्टिं चक्रुः (*śruṣṭiṃ cakruḥ*)—made them come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+Like cattle without a herdsman that run up swiftly and unchecked on account of abundant grass, the Maruts, sent forth by Pṛśni, endowed with wisdom, having horses of varied colours, ran up in accordance with the assurance given that they would help Indra, and joined Indra. The horses of the sportive Maruts also made them come quickly.
+
+##### English translation
+They who ride on parti-coloured cattle, (the Maruts), despatched by Prisni, and recalling the engagement made by them with their friend (Indra), came like cattle from the pasturage, when left without a herdsman: the exulting Niyut steeds brought them quickly (against the foe).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एकं॑ च॒ यो विं॑श॒तिं च॑ श्रव॒स्या वै॑क॒र्णयो॒र्जना॒न्राजा॒  ॑
+> न्यस्तः ।  
+> द॒स्मो न सद्म॒न्नि शि॑शाति ब॒र्हिः शूरः॒ सर्ग॑मकृणो॒दिंद्र॑  
+> एषां ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकं । च । यः । विंशतिं । च । श्रवस्या । वैकर्णयोः । जनान् । राजा । नि । अस्तरित्यस्तः ।  
+> दस्मः । न । सद्मन् । नि । शिशाति । बर्हि । शूरः । सर्गं । आकृणोत् । इंद्रः । एषां ॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो सुदासो राजा श्रवस्या यशस्स इच्छयान्नेच्छया ना परुष्णाः
+> पार्श्वस्थयोर्नैकर्णयोर्जनपदयोर्विद्यमानानेकं च विंशतिं च जनान् न्यस्तः
+> आत्मनाहन् स राजा दस्मो न दर्शनीयो युवाध्वर्युरिव सद्मन्यज्ञगृहे
+
+##### Gist of the bhāṣya
+
+The king Sudās, "śravasyā", from the wish for fame, laid low (न्यस्तः (*nyastaḥ*)) one and twenty persons of those who were in the two countries on the sides of the Paruṣṇī, वैकर्णयोः (*vaikarṇayoḥ*).**NOTE** That king, like a handsome young adhvaryu in the house of sacrifice, who in the battle in which he cuts down the enemies thoroughly, as the sacred grass is cut,
+
+### Printed p. 811
+
+> बर्हिर्यस्मिन्युद्धे सपत्नान्नि शिशाति नितरां लुनाति तस्मिन्युद्धे शूर इंद्र एषां
+> मरुतां सर्गं प्रसवमकृणोत् सुदासः साहाय्यार्थमकरोत् ॥
+
+##### Gist of the bhāṣya
+
+in that battle the valiant Indra brought about the "sarga", the creation, of these Maruts; Sudās did it for their help.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सद्मन् (*sadman*)—in the house of sacrifice
+- दस्मः (*dasmaḥ*)—a young adhvaryu
+- बर्हिः (*barhiḥ*)—the tip of the darbha grass
+- नि शिशाति न (*ni śiśāti na*)—as he cuts off with ease
+- यः राजा (*yaḥ rājā*)—which Sudās
+- श्रवस्या (*śravasyā*)—from the wish to gain fame
+- वैकर्णयोः (*vaikarṇayoḥ*)—on both banks of the river Paruṣṇī
+- एकं च विंशतिं च (*ekaṃ ca viṃśatiṃ ca*)—numbering twenty-one
+- जनान् (*janān*)—the enemy folk
+- न्यस्तः (*nyastaḥ*)—threw down with ease (him, such a Sudās, for whom)
+- शूरः (*śūraḥ*)—the valiant
+- इंद्रः (*iṃdraḥ*)—Indra
+- एषां (*eṣāṃ*)—of the Maruts
+- सर्ग० (*sarga0*)—the origin
+- अकृणोत् (*akṛṇot*)—brought about
+
+##### भावार्थ (Bhāvārtha)
+
+As a young adhvaryu in the house of sacrifice easily cuts off the tips of the darbha grass, for that Sudās who, from the wish to gain fame, easily laid low the enemy folk, twenty-one in number, on both banks of the river Paruṣṇī, the valiant Indra brought about the origin of these Maruts.
+
+##### English translation
+The hero Indra created the Maruts (for the assistance of the Raja), who. ambitious of fame, slew one-and-twenty of the men on the two banks (of the Parushni), as a well-looking priest lops the sacred grass in the chamber of sacrifice.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ श्रु॒तं क॒वषं॑ वृ॒द्धम॒प्सनु॑ द्रु॒ह्युं नि वृ॑ण॒ग्वज्र॑बाहुः ।  
+> वृ॒णा॒ना अत्र॑ स॒ख्याय॑ स॒ख्यं त्वा॒यंतो॒ ये अम॑ुद॒न्ननु॑  
+> त्वा ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । श्रुतं । कवषं । वृद्धं । अप्सु । अनु । द्रुह्युं । नि । वृणक् । वज्रबाहुः ।  
+> वृणानाः । अत्र । सख्याय । सख्यं । त्वायंतः । ये । आमदन् । अनु । त्वा ॥ १२ ॥
+
+### Printed p. 812
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधापि च वज्रबाहुरिंद्रः श्रुतं कवषं च वृद्धं च त्रीन् तथा द्रुह्युमनु
+> अनुपूर्व्येणाप्सूदकेषु नि वृणक् । न्यमज्जयदित्यर्थः । अत्रास्मिन्नवसरे ये
+> त्वायंतस्त्वत्कामास्त्वा त्वामन्वमदन् अस्तुवन् ते सखायः सख्याय सख्यार्थं
+> त्वां वृणानाः सख्यं लेभिर इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Furthermore Indra, bolt-armed, drowned in due order in the waters Śruta, Kavaṣa and Vṛddha, these three, and likewise Druhyu; the meaning is that he made them sink. On this occasion those who, desiring you, praised you, those friends, choosing you for the sake of friendship, obtained your friendship; this last is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—thereafter
+- वज्रबाहुः (*vajrabāhuḥ*)—Indra, who holds the thunderbolt in his arms
+- श्रुतं (*śrutaṃ*)—Śruta
+- कवषं (*kavaṣaṃ*)—Kavaśa
+- वृद्धं (*vṛddhaṃ*)—Vṛddha
+- अनु (*anu*)—after that
+- द्रुह्युं (*druhyuṃ*)—Druhyu
+- अप्पु (*appu*)—in the waters
+- नि वृणक् (*ni vṛṇak*)—drowned. (O Indra)
+- अत्र (*atra*)—on this occasion
+- त्वायंतः (*tvāyaṃtaḥ*)—desiring your help
+- ये (*ye*)—whoever
+- त्वा (*tvā*)—you
+- अन्वमदन् (*anvamadan*)—praised and gladdened (all of them)
+- सख्याय (*sakhyāya*)—for friendship with you
+- वृणानाः (*vṛṇānāḥ*)—choosing you
+- सख्यं (*sakhyaṃ*)—attained friendship
+
+##### भावार्थ (Bhāvārtha)
+
+Indra of the thunderbolt arms drowned Śruta, Kavaṣa, Vṛddha and Druhyu, all of them, in the water. O Indra, on these occasions whoever, desiring your help, praised you and gladdened you, all of them, choosing you for friendship with you, attained your friendship.
+
+##### English translation
+You, the bearer of the thunderbolt, drowned Sruta, Kawasha, Vriddha, and afterwards Druhyu, in the waters : for they, Indra, who are devoted to you, and glorify you, preferring your friendship, enjoy it.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि स॒द्यो विश्वा॑ दृंहि॒तान्ये॑षा॒मिंद्रः॒ पुरः॒ सह॑सा स॒प्त द॑र्दः ।  
+> व्यान॑वस्य॒ तृत्स॑वे॒ गयं॑ भा॒ग्येष्म॑ पू॒रुं वि॒दथे॑ मृ॒ध्रवा॑चं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सद्यः । विश्वा । दृंहितानि । एषां । इंद्रः । पुरः । सहसा । सप्त । दर्दरिति दर्दः ।  
+> वि । आनवस्य । तृत्सवे । गयं । भाक् । जेष्म । पूरुं । विदथे । मृध्रवाचं ॥ १३ ॥
+
+### Printed p. 813
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां कवषादीनां विश्वा विश्वानि दृंहितानि दृढानि दुर्गाणि पुरो नगरीश्च
+> तद्रक्षासाधनभूतान् सप्त प्राकारांश्चेंद्रः सहसा बलेन सद्य एव वि दर्दः ।
+> विदारयामास ! अपि चानवस्यानोः संबंधिनो बलस्यानोः पुत्रस्य वा गयं गृहं
+> धनं वा तृत्सवे तृत्सुनामकाय राजे तृत्सूनां गणाय वा वि भाक् । व्यभजत् ।
+> अदादित्यर्थः । इत्थमिंद्रं स्तुवंतो वयं विदथे युद्धे मृध्रवाचं बाधवाचं
+> पूरुं मनुष्यं जेष्म । जयेम ॥
+
+##### Gist of the bhāṣya
+
+Indra, by his might, at once split asunder all the firm strongholds of these, Kavaṣa and the others, and the cities, and the seven ramparts that were the means of their protection. And he divided, that is, gave, the "gaya", the house or the wealth, of Ānava, connected with Anu, of Bala, or of the son of Anu,**NOTE** to Tṛtsu, the king of that name, or to the host of the Tṛtsus. Thus praising Indra, may we conquer in battle Pūru, the man of injurious speech.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these, Kavaṣa and the others
+- विश्वा (*viśvā*)—all
+- दृढितानि (*dṛḍhitāni*)—and firm
+- पुरः (*puraḥ*)—the cities
+- सप्त (*sapta*)—their seven ramparts (forts)
+- इंद्रः (*iṃdraḥ*)—Indra
+- सहसा (*sahasā*)—by his strength
+- सद्यः (*sadyaḥ*)—at once
+- वि दर्दः (*vi dardaḥ*)—split asunder
+- आनवस्य (*ānavasya*)—of Balana, the son of Anu
+- गयं (*gayaṃ*)—the house
+- तृत्सवे (*tṛtsave*)—to Tṛtsu
+- विभाक् (*vibhāk*)—caused to be given
+- विदथे (*vidathe*)—in battle (we also)
+- मृध्रवाचं (*mṛdhravācaṃ*)—speaking injurious words
+- पूरुं (*pūruṃ*)—the enemy folk
+- जेष्ठ (*jeṣṭha*)—may we conquer
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, by his strength, at once split asunder all the firm cities of the aforesaid Kavaṣa and the others, and their seven ramparts (forts). He caused the house of Balana, the son of Anu, to be given to Tṛtsu. May we also conquer in battle the enemy folk who speak injurious words.
+
+##### English translation
+Indra, in his might, quickly demolished all their strongholds, and their seven (kinds of) cities : he has given the dwelling of the son of Anu to Tritsu : may we, (by propitiating Indra), conquer in battle the ill-speak-ing man
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि ग॒व्यवोऽन॑वो द्रु॒ह्यव॑श्च ष॒ष्टिः श॒ता सु॑षुपुः॒ षट् स॒हस्रा॑ ।  
+> ष॒ष्टिर्वी॒रासो॒ अधि॒ षड्डु॑वो॒यु विश्वेदिंद्र॑स्य वी॒र्या॑  ॒॑
+> कृतानि ॥ १४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 807. VII.18 Ṛk 2 end, Ṛk 3-8
+**Progress note:** Done through printed p. 813. Ṛk 9-14 of Sūkta 18, Maṇḍala 7 (waters of Paruṣṇī, Maruts, Sudās)
