@@ -35,3 +35,4 @@
 | through p. 625 (three windows in one agent: pp. 606–625) | sonnet | 13 | 161551 | 4.3 |
 | through p. 638 (two windows, pp. 626–638; agent stopped by the 5-hour usage limit before the third window) | sonnet | n/a | n/a | n/a |
 | through p. 644 (one window, pp. 639–644; agent stopped by the 5-hour usage limit) | sonnet | n/a | n/a | n/a |
+| through p. 663 (three windows in one agent: pp. 645–663) | sonnet | 15 | 172870 | 5.2 |
