@@ -11743,6 +11743,309 @@ O ever-young, wise Maruts, worthy of the sacrifice, such as you are, come to the
 
 O Maruts, ever-young, wise, worthy of the sacrifice, be so kind as to come towards the venerable praise of the praiser. O Maruts, leaders, you who grow in this manner, pervading all regions and swift like the rays, gladden with rain even the regions devoid of herbs and the rest.
 
+### Printed p. 271
+
+##### English translation
+Ever youthful, wise, and adorable Muruts, come to the praise of your adorer : thus augmenting, leaders (of rites), and spreading (through the firmament), like rays (of light) refresh the scanty woods (with rain).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वी॒राय॒ प्र त॒वसे॑ तु॒रायाजा॑ यू॒थेव॑ पशु॒रक्षि॒रस्तं॑ ।  
+> स पि॑स्पृशति त॒न्वि॑ श्रु॒तस्य॒ स्तृभि॒र्न नाकं॑ वच॒नस्य॒ विपः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वीराय । प्र । तवसे । तुराय । अज । यूथाइव । पशुरक्षिः । अस्तं ।  
+> सः । पिस्पृशति । तन्वि । श्रुतस्य । स्तृभिः । न । नाकं । वचनस्य । विपः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वीराय विक्रांताय विविधं शत्रूणामीरकाय ना मरुद्दणाय प्राज ।
+> हे स्तोतः स्तुतिं प्रगमय । तथा तवसे बलिने तुराय क्षिप्रगमनाय च तस्मै
+> गणाय प्राज । तत्र दृष्टांतः । पशुरक्षिः पशुपालको यूथेव । स यथा
+> गोयूथानि सायंकालेस्तं गृहं शीघ्रं गमयति तद्वत् शीघ्रं स्तुतिं प्रेरयेत्यर्थः । स च मरुद्दणो वचनस्य वक्तुर्विपो विप्रस्य मेधाविनः स्तोतुः श्रुतस्य ॥
+> क्रियाग्रहणमपि कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी ॥ श्रुतं
+> श्रोतव्यं स्तोत्रं तन्वात्मीये शरीरे पिस्पृशति । स्पर्शयतु । संश्लेषयतु ।
+> तत्सोत्रं हृद्धतं भवत्त्व्यर्थः । स्पर्शने दृष्टांतः । स्तृभिर्न नाकं । यथा
+> नक्षत्रैर्नाकमंतरिक्षं स्पर्शयति संश्लेषयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"Vīra" is the valiant one, the one who in various ways drives out enemies: to the host of the Maruts of this kind, O praiser, send forth the praise. So too to the mighty one, and to the swift one, the quick-going: to that host send it. An illustration follows: as a herdsman drives herds, and as he at evening time makes the herds go quickly to the stall, to the house, so send the praise quickly: this is the meaning. And may that host of the Maruts, of the speaker, the sage, the praiser, the praise that is heard, the praise that is to be heard, touch his own body, cling to it; may that praise reach the heart. An illustration of the touching: "as the stars the firmament": as the stars touch the firmament, cling to it, so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीराय (*vīrāya*)—(O praiser) to the host of the valiant Maruts
+- प्र अज (*pra aja*)—offer the praise
+- तवसे (*tavase*)—to the host of the Maruts that is mighty
+- तुराय (*turāya*)—and swift-going
+- पशुरक्षिः (*paśurakṣiḥ*)—the herdsman
+- अस्तं (*astaṃ*)—to the cattle-shed
+- यूथेव (*yūtheva*)—as he sends the cattle
+- प्र (अज) (*pra (aja)*)—offer the praises quickly
+- नाकं (*nākaṃ*)—the firmament
+- स्तृभिः न (*stṛbhiḥ na*)—as, reached by the stars, it shines
+
+### Printed p. 272
+
+- सः (*saḥ*)—that same host of the Maruts
+- वचनस्य (*vacanasya*)—of the reciter of praise
+- विपः (*vipaḥ*)—and wise, of the praiser
+- श्रुतस्य (*śrutasya*)—the praiseworthy hymn
+- तन्नि (*tanni*)—throughout his own body
+- विस्पृशति (*vispṛśati*)—may it touch and be fully delighted
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, offer praise to the host of the valiant Maruts. To the host of the Maruts, mighty and swift-going, offer praises quickly, as a herdsman sends the cattle to the cattle-shed. As the firmament shines, reached by the stars, so may that same host of the Maruts touch throughout its body the praiseworthy hymn of the praiser, who is a reciter of praise and wise, and be fully delighted.
+
+##### English translation
+Offer adoration to the valiant, powerful, swift-moving (company of the Maruts), as the herdsman (drives his) herd to their stall ; may that company appropriate to its own body the praises of the pious worshipper, as the firmament (is studded) with stars.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो रजां॑सि विम॒मे पार्थि॑वानि॒ त्रिश्चि॒द्विष्णु॒र्मन॑वे बाधि॒ताय॑ ।  
+> तस्य॑ ते॒ शर्म॑न्नुपद॒द्यमा॑ने रा॒या म॑देम त॒न्वा॒३॒॑शि तना॑ च ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । रजांसि । विममे । पार्थिवानि । त्रिः । चित् । विष्णुः । मनवे । बाधिताय ।  
+> तस्य । ते । शर्मन् । उपदद्यमाने । राया । मदेम । तन्वा । तना । च ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो विष्णुर्बाधितायासुरैर्हिंसिताय मनवे प्रजापतये तदर्थं पार्थिवानि
+> पृथिव्या संबद्धानि रजांसि लोकान् त्रील्लोकानिति यावत् । त्रिर्विममे । चिदित्यवधारणे । त्रिभिरेव विक्रमणैः परिमितवान् हे विष्णो तस्य तादृशस्य ते तव ॥ तृतीयार्थे षष्ठी ॥ ईदृशेन त्वयोपपदद्यमानेऽस्मभ्यं दीयमाने शर्मन् शर्मणि
+
+##### Gist of the bhāṣya
+
+Viṣṇu, for the sake of Manu, the Prajāpati, who was harassed, injured, by the Asuras, measured the "terrestrial", earth-connected regions, that is, the three worlds, thrice; the word "cit" is for emphasis: he measured with three strides only. O Viṣṇu, of you, of such a kind
+
+### Printed p. 273
+
+> गृहे सुखे वा वर्तमानाः संतो वयं राया धनेन तन्ना रोगादिरहितेन शरीरेण
+> च तना तनयेन पुत्रेण च मदेम । मोदेम । हृष्टा भवेम ॥
+
+##### Gist of the bhāṣya
+
+While we dwell in the house or in happiness that is being given to us by you, may we rejoice with wealth, with a body free of disease and the like, and with offspring, a son: may we be delighted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः विष्णुः (*yaḥ viṣṇuḥ*)—(O Viṣṇu) you, the all-pervading, who
+- बाधिताय (*bādhitāya*)—harassed by the Asura
+- मनवे (*manave*)—for Manu
+- पार्थिवानि (*pārthivāni*)—connected with the earth
+- रजांसि (*rajāṃsi*)—all the worlds
+- त्रिः विममे चित् (*triḥ vimame cit*)—have measured in three parts
+- तस्य ते (*tasya te*)—by you, such as you are
+- उपदद्यमाने (*upadadyamāne*)—which is given to us
+- शर्मन् (*śarman*)—we who dwell in the houses
+- राया (*rāyā*)—with wealth
+- तन्ना (*tannā*)—with bodies free of disease and the like
+- तना चॆ (*tanā cè*)—and with sons, grandsons and the rest
+- मदेम (*madema*)—may we attain joy
+
+##### भावार्थ (Bhāvārtha)
+
+O Viṣṇu, you, the all-pervading, who for Manu harassed by the Asura measured in three parts all the worlds connected with the earth: dwelling in the houses given to us by you, may we attain joy, with wealth, with bodies free of disease and the like, and with sons, grandsons and the rest.
+
+##### English translation
+May we be happy in home, in riches, in person, in children, bestowed upon us by you, Vishnu, who with three (steps) made the terrestrial regions for Manu when harrassed (by the Asuras).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्नोऽहि॑र्बु॒ध्न्यो॑ अ॒द्भिर॒र्कॆस्तत्पर्व॑त॒स्तत्स॑वि॒ता चनो॑ धात् ।  
+> तदोष॑धीभिर॒भि रा॑ति॒षाचो॒ भगः॒ पुरं॑धिर्जिन्वतु॒ प्र रा॒ये ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । अहिः । बुध्न्यः । आर्क्भिः । अर्कैः । तत् । पर्वतः । तत् । सविता । चनः ।  
+> धात् ।  
+> तत् । ओषधीभिः । अभि । रातिऽसाचः । भगः । पुरंऽधिः । जिन्वतु । प्र । राये ॥ १४ ॥
+
+### Printed p. 274
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बुध्न्यः । बुध्नमंतरिक्षं । तत्र भवोऽहिः । एत्यंतरिक्ष इत्यहिः । उक्तं च ।
+> अहिरयनादेत्यंतरिक्षे । नि. २-१७ । इति । एतत्पदद्वयाभिधेयो देवोऽर्कैरर्डनसाधनैर्मंत्रैः स्तूयमानः सन् नोऽस्मभ्यं तत् लोके प्रसिद्धं चनोऽन्नमद्भिरुदकैः सार्धं धात् । दधातु । विदधातु । प्रयच्छतु । पर्वतः पूरयिता ॥
+> पर्व पूरण इति धातुः ॥ यद्वा । पर्ववद्वज्रं पर्वतः । तद्वान् । पर्वतस्य गिरीः
+> शत्रुरिति वा पर्वतः । स च तच्चनो दधातु । तथा सविता प्रेरको देवश्च तच्चनो
+> दधातु । अपि च रातिषाचः । रातिं दानं सचंते सेवंत इति रातिषाचो विश्वे देवाः ।
+> ते चौषधीभिः । ओषः पाक आसु धीयत इत्योषधयस्तिलमाषाद्याः । ताभिः सार्धं
+> तदन्नमभि प्रयच्छंतु । तथा पुरंधिर्बहुधीर्बहुप्रज्ञो वा बहुकर्मा वा भगो
+> भजनीय एतत्संज्ञो देवश्च राये धनार्थं प्र जिन्वतु । अस्मान्मेरयतु ॥
+
+##### Gist of the bhāṣya
+
+"Budhnya": "budhna" is the firmament, and he who is born there is "ahi"; he who goes in the firmament is "ahi". It is said also: अहिरयनादेत्यंतरिक्षे (*ahirayanādetyaṃtarikṣe*) (Ni. 2-17) **GLOSS**. The god denoted by these two words, being praised with hymns, the means of worship, may give us the food well known in the world, together with the waters. "Parvata" is the filler; or else the one who has the joint-like thunderbolt, or the enemy of mountains. **NOTE** He too may give that food. So too Savitṛ, the impelling god, may give that food. Further, "rātiṣācaḥ" are the Viśvedevas, the gods who attend upon gifts; may they with the herbs, the sesame, beans and the rest, in which the ripening (oṣa) is placed, give that food. So too Purandhi, of much wisdom or of many works, Bhaga, the one to be shared, the god so called, may he urge us on towards wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—the god Ahirbudhnya
+- अर्कैः (*arkaiḥ*)—being praised with our hymns
+- नः (*naḥ*)—to us
+- तत् (*tat*)—the well-known
+- चनः (*canaḥ*)—food
+- अद्भिः (*adbhiḥ*)—together with waters
+- धात् (*dhāt*)—may he give
+- पर्वतः (*parvataḥ*)—and the god Parvata
+- तत् (*tat*)—may he give that food
+- सविता (*savitā*)—and the god Savitṛ
+- तत् (*tat*)—may he give that food
+- रातिषाचः (*rātiṣācaḥ*)—all the gods who give generously
+- ओषधीभिः (*oṣadhībhiḥ*)—that which is joined with herbs, trees and the rest
+- तत् (*tat*)—that food
+- अभि (*abhi*)—may they favour us
+- पुरंधिः (*puraṃdhiḥ*)—of much wisdom
+- भगः (*bhagaḥ*)—the god Bhaga
+- राये (*rāye*)—for wealth
+- प्र जिन्वतु (*pra jinvatu*)—may he urge us on
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Ahirbudhnya, praised with our hymns, give us the well-known food together with waters. May the god Parvata too give that food. May the god Savitṛ too favour us with it. May all the gods who give generously give us that food, joined with herbs, trees and the rest. May the god Bhaga, of much wisdom, urge us on towards wealth.
+
+##### English translation
+May Ahirbudhnya (propitiated) by (our) hymns, and Parvata and Savitri give us food with water: may the bountiful (gods supply us), in addition, with vegetable (grains); and may the all-wise Bhaga be propitious (to us) for (acquirement of) riches.
+
+### Printed p. 275
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नूनो॑ र॒यिं र॒थ्यं॑ चर्षणि॒प्रां पु॑रु॒वीरं॑ म॒ह ऋ॒तस्य॑  ॒
+> गोपां ।  
+> क्षयं॑ दाता॒जरं॒ येन॒ जना॒न्त्सृधो॒ अदे॑वीर॒भि च॒ क्रमा॑म॒ विश॒ आदे॑वीर॒भ्य१॒ं॑श्नवा॑म ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । रयिं । रथ्यं । चर्षणिप्रां । पुरुवीरं । महः । ऋतस्य । गोपां ।  
+> क्षयं । दात । अजरं । येन । जनान् । स्पृध ॥ अदेवीः । अभि । च । क्रमाम । विशः ।  
+> आदेवीः । अभि । अश्ववाम ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सर्वॆ देवा नोऽस्मभ्यं रयिं धनं क्षयं गृहं च दात । प्रयच्छत ।
+> कीदृशं रयिं । रथ्यं रथसंबंधिनं । रथयुक्तमित्यर्थः । चर्षणिप्रां । चर्षणयो
+> मनुष्याः । तेषां पूरयितारं पुरुवीरं । वीर्याज्जायंत इति वीराः पुत्रादयः ।
+> बहुभिर्विरैरुपेतं । महो महत ऋतस्य यज्ञस्य गोपां रक्षकं । दक्षिणारूपेण
+> धनेन हि यज्ञो रक्ष्यते । मृतो यज्ञस्त्वदक्षिण इति वचनात् । कीदृशं क्षयं ।
+> अजरं जरारहितं । येन रयिणा क्षयेण च जनान् शत्रून् स्पृधः स्पर्धमाना
+> अदेवीरदेवसंबंधिनीरासुरीः सेनाश्चाभि क्रमाम अभिभवेम । तथादेवीः । अगता
+> देवा यासु हविस्वीकारार्थं ता अदेव्यः । तादृशीश्च विशः प्रजा यज्ञानुष्ठायिनीर्येन धनेन गृहेण चाभ्यश्चनाम अभिप्राप्नवाम तादृशं धनं गृहं च
+> दातेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O all gods, give us wealth and a dwelling. What kind of wealth? "Rathya": connected with the chariot, that is, furnished with chariots. "Carṣaṇiprā": the "carṣaṇayaḥ" are men; it is the filler of them. "Puruvīra": "vīrāḥ" are those born of virility, sons and the rest; so, accompanied by many heroes. It is the protector of the great "ṛta", the sacrifice; for the sacrifice is protected by wealth in the form of the fee, on the saying मृतो यज्ञस्त्वदक्षिण (*mṛto yajñastvadakṣiṇa*) **GLOSS**. What kind of dwelling? Ageless, free of old age. By which wealth and dwelling we may overcome the enemies, the rivals, and the hosts of the Asuras, who are "adevī", not belonging to the gods; and likewise the "ādevī", those among whom the gods have come to accept the oblation **NOTE**, that is, the peoples who perform the sacrifice, which we may reach, attain, by which wealth and dwelling: give such wealth and dwelling. So the construction runs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—(O Viśvedevas) by which wealth
+- जनान् (*janān*)—our enemy folk
+- स्पृधः (*spṛdhaḥ*)—who fight with us
+- अदेवी॥ च (*adevī‖ ca*)—and the Asura folk
+- अभि क्रमाम (*abhi kramāma*)—may we become able to defeat
+- आदेवी॥ (*ādevī‖*)—likewise, who worship the gods with oblations and the like
+- विशः (*viśaḥ*)—all the peoples
+- अभ्यश्चनाम (*abhyaścanāma*)—may we satisfy; such
+- रथ्यं (*rathyaṃ*)—furnished with chariots
+
+### Printed p. 276
+
+- चर्षणिप्रां (*carṣaṇiprāṃ*)—nourishing all our people
+- पुरुवीरं (*puruvīraṃ*)—accompanied by abundant heroes
+- महः (*mahaḥ*)—great
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- गोपां (*gopāṃ*)—a protector
+- अजरं (*ajaraṃ*)—free of decay
+- रयिं (*rayiṃ*)—wealth
+- क्षयं (*kṣayaṃ*)—and a dwelling
+- नः (*naḥ*)—to us
+- नु (*nu*)—certainly
+- दात (*dāta*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Viśvedevas, certainly give us such wealth and dwelling, furnished with chariots, nourishing all our people, accompanied by abundant heroes, a protector of the great sacrifice, free of decay, by which we shall be able to defeat our enemy folk and the Asura folk who fight with us, and likewise satisfy the peoples who worship the gods with oblations and the like.
+
+##### English translation
+Grant us, (universal gods), riches, comprehending chariots, numerous dependants, many male offspring, (wealth) the giver of efficiency to the solemn rite. and a dwelling free from decay. wherewith we may overcome malevolent man and unrighteous (spirits), and afford support to those people who are devoted to the gods.
+
+## Sūkta 50 (Maṇḍala 6)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेऽनुवाके द्वादश सूक्तानि । तत्र हुवे व इति पंचदशर्चं प्रथमं
+> सूक्तमृजिश्वन आर्षं बहुदेवताकं त्रैष्टुभं । हुवे व इत्यनुक्रांतं ॥ गतः
+> सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the fifth anuvāka there are twelve sūktas. Of these, the first sūkta, of fifteen Ṛks, beginning हुवे व (*huve va*), has Ṛjiśvā as its seer, many deities, and the metre Triṣṭubh. The Anukramaṇī says: हुवे व (*huve va*). The use of the sūkta in ritual has been stated.
+
+##### Anuvāda
+
+In the fifth anuvāka of the sixth maṇḍala there are twelve sūktas. Of them, this sūkta "Huve vaḥ" is the first. It has fifteen Ṛks. The seer of this sūkta is Ṛjiśvā. The deities are the Viśvedevas. The metre is Triṣṭup. In the Anukramaṇī it is stated as beginning "Huve vaḥ". The use of the sūkta in ritual has been stated before.
+
+### Printed p. 277
+
+- Sūkta 50
+- Maṇḍala 6; Anuvāka 5; Sūkta 50
+- Aṣṭaka 4; Adhyāya 8; Varga 8, 9, 10
+- Number of Ṛks in the sūkta: 15
+- Ṛṣi: Ṛjiśvā
+- Devatā: Viśvedevas
+- Chandas: Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हु॒वे वो॑ दे॒वीमदि॑तिं॒ नमो॑भिर्मृळी॒काय॒ वरु॑णं मि॒त्रम॒ग्निं ।  
+> अ॒भि॒क्ष॒दाम॑र्य॒मणं॑ सु॒शेवं॑ त्रा॒त्माने॒वान्तस॑वि॒तारं॒ भगं॑ च ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हुवे । वः । देवीं । अदितिं । नमःभिः । मृळीकाय । वरुणं । मित्रं । अग्निं ।  
+> अभिस्सदां । अर्यमणं । सुशेवं । त्रात्मन । देवान् । सवितारं । भगं । च ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा वो युष्माकं मातरं देवीं द्योतमानामदितिमखंडनीयामदीनां वा एतत्संज्ञां देवतां मृळीकाय सुखार्थं नमोभिर्नमस्कारैः स्तोत्रैर्वा
+> हुवे । ह्वयामि । सौमि । तथा वरुणं वारकं मित्रं प्रमीतेस्त्रायकं देवमग्निं
+> चैतांश्च देवान्नमोभिर्हुवे । तथाभिक्षदां । क्षदिर्हिंसाकर्मा । अभिक्षत्तारं
+> शत्रुणां हिंसितारं सुशेवं सुसुखमर्यमणं च नमोभिर्हुवे । सवितारं
+> भगं च नमोभिर्हुवे । किं बहुना त्रात्यन् पालयित्यन् सर्वान्देवान्नमोभिः
+> स्तोत्रैर्हुवे । सौमि ॥
+
+##### Gist of the bhāṣya
+
+O gods, I invoke your mother, the shining Aditi, the one not to be broken, or the deity so named, "of the not poor", for happiness, with salutations or with hymns. So too I invoke Varuṇa, the one who restrains, Mitra, the protector from death, and the god Agni; and these gods I invoke with salutations. So too "abhikṣad": the root "kṣad" has the sense of injuring; he is the one who injures enemies; and Aryaman, very happy: I invoke him with salutations. I invoke Savitṛ and Bhaga with salutations. What need of more? I invoke all the gods, the protecting, guarding ones, with salutations, with hymns.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—to you (the mother)
+- देवीं (*devīṃ*)—the venerable
+- अदितिं (*aditiṃ*)—the goddess Aditi
+- वरुणं (*varuṇaṃ*)—the god Varuṇa
+- मित्रं (*mitraṃ*)—Mitra
+- अग्निं (*agniṃ*)—Agni
+- मृळीकाय (*mṛḷīkāya*)—for our happiness
+- नमोभिः (*namobhiḥ*)—with praises accompanied by salutation
+- हुवे (*huve*)—I call, praying
+- अभिक्षदां (*abhikṣadāṃ*)—the one who injures enemies
+- सुशेवं (*suśevaṃ*)—the very happy-making
+
 ---
 
-**Progress note:** Done through printed p. 270. Sukta 49: Rks 7-11 (pp. 264-270)
+**Progress note:** Done through printed p. 277. Sukta 49 Rks 12-15 and Sukta 50 Rk 1 begun (pp. 271-277)
