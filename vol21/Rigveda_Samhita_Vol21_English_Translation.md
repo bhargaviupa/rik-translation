@@ -13208,6 +13208,330 @@ Subject us not, adorable (deities), to the robber or his wife ; nor to any one d
 
 O gods, we are yours; may we not partake of the sin, the evil, that has been done by others, that is, produced by enemies. O Vasus, gods who cause (men) to dwell, may we not partake of that sin by which, once done, you harm and afflict us; and may we not do that deed. O Viśvedevas, **NOTE**
 
+### Printed p. 304
+
+> सर्वे देवा विश्वस्य सर्वस्य जगतो यूयं हि क्षयथ । ईश्वरा भवथ । अतः
+> कारणादस्मदीयो रिपुः शत्रुस्तन्वं स्वशरीरं स्वयमेव रिरिषीष्ट । हिंस्यात् । यथैवं
+> भवति कथा कुरुतेति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Viśvedevas, all gods, you indeed hold sway over the whole world; you are its lords. For this reason may our enemy injure his own body himself. The meaning is: act in such a way that this comes about.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) वः (*vaḥ*)—we who belong to you
+- अन्यकृतं (*anyakṛtaṃ*)—done by enemies
+- एनः (*enaḥ*)—the fruit of sin
+- मा भुजेम (*mā bhujema*)—may we not experience
+- वसवः (*vasavaḥ*)—O gods called Vasus
+- यत् (*yat*)—by which sin
+- चयध्वे (*cayadhve*)—you might punish us
+- तत् (*tat*)—such a sin
+- मा कर्म (*mā karma*)—may we not commit
+- विश्वदेवाः (*viśvadevāḥ*)—O Viśvedevas
+- (you) हि (*hi*)—you alone
+- विश्वस्य (*viśvasya*)—of the whole world
+- क्षयथ (*kṣayatha*)—are the lords
+- रिपुः (*ripuḥ*)—our enemy
+- तन्नं (*tannaṃ*)—his own body
+- स्वयं (*svayaṃ*)—of himself
+- रिरिषीष्ट (*ririṣīṣṭa*)—may he injure
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, may we, who belong to your protection, not experience the fruit of sin done by our enemies. O gods called Vasus, may we not commit any sin by which you might punish us. O Viśvedevas, you alone are the lords of the whole world. May our enemy injure his own body of himself.
+
+##### English translation
+Let us not suffer for the sin committed by another : let us not do that which, Vasus, you prohibit : you rule, universal gods, over the universe : (so provide that) my enemy may inflict injury on his own person.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नम॒ इदु॒ग्रं नम॒ आ वि॑वासे॒ नमो॑ दाधार पृथि॒वीमु॒त द्यां।  
+> नमो॑ दे॒वेभ्यो॒ नम॑ ईश एषां कृ॒तं चि॒देनो॒ नम॒सा  ॑
+> विवासे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नमः । इत् । उग्रं । नमः । आ । विवासे । नमः । दाधार । पृथिवीं । उत । द्यां ।  
+> नमः । देवेभ्यः । नमः । ईशे । एषां । कृतं । चित् । एनः । नमसा । आ । विवासे ॥
+
+### Printed p. 305
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आस्तां तावद्देवानां माहात्म्यं तदीयो नमस्कारोऽपीत्थंमहाभाग इति
+> ब्रुवाणः कैमुतिकन्यायेन देवान् स्तौति । नम इत् नमस्कार एवोग्रमुद्दूर्णबलं
+> सर्वोत्कृष्टं । तेन हि सर्वं लभ्यते । अतो नमो नमस्कारमा विवासे । परिचरामि !
+> नमो नमस्कार एव पृथिवीमुत द्यां द्युलोकं च दाधार । धारयति । द्यावापृथिव्य प्राणिभिर्नमस्क्रियमाणे सत्यौ तदुपभोगाय चिरकालमवतिष्ठेते । अतो
+> देवेभ्य ईदृशं नमः करोमि । एषां देवानां नमो नमस्कार ईशे । ईष्टे ।
+> अतस्तेन ते वशीकृताः । कृतं चित्कृतमप्याचरितमप्येनः पापं नमसा नमस्कारेणा
+> विवासे । विवासो वर्जनं । वर्जयामि । विनाशयामि ॥
+
+##### Gist of the bhāṣya
+
+Let the greatness of the gods themselves rest; even the reverence paid to them is so highly magnificent. Saying this, he praises the gods by the argument of the greater from the lesser. Reverence alone is mighty, of surging strength, the highest; for by it everything is obtained. Therefore I serve reverence. Reverence alone sustains the earth and the heavenly world: when reverence is paid by living beings, heaven and earth remain for a long time for their enjoyment. Therefore I do such reverence to the gods. Reverence rules over these gods; therefore they are brought under control by it. Even a sin that has been committed I avert and destroy by reverence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नम इत् (*nama it*)—reverence alone (offered to the gods)
+- उग्रं (*ugraṃ*)—is of exceedingly great power
+- नमः (*namaḥ*)—that very reverence
+- आ विवासे (*ā vivāse*)—I resort to and worship
+- नमः (*namaḥ*)—that rite which is of the form of reverence
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—the heavenly world also
+- दाधार (*dādhāra*)—sustains
+- (therefore) देवेभ्यः (*devebhyaḥ*)—to the gods
+- नमः (*namaḥ*)—I offer reverence
+- एषां (*eṣāṃ*)—offered to these gods
+- नमः (*namaḥ*)—reverence
+- ईशे (*īśe*)—rules the whole world
+- कृतं चित् (*kṛtaṃ cit*)—done through ignorance
+- एनः (*enaḥ*)—also sin
+- नमसा (*namasā*)—by the act which is of the form of reverence
+- आ विवासे (*ā vivāse*)—I am able to cause to be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+The reverence offered to the gods is of exceedingly great power. I resort to that reverence and worship. That rite, which is of the form of reverence, sustains the earth and the heavenly world. Therefore I offer reverence to the gods. The reverence offered to these gods rules the whole world. Even sin committed through ignorance I am able to cause to be destroyed by the act which is of the form of reverence.
+
+##### English translation
+Reverence be to the potent (company of universal gods) : I offer (them) reverence : reverence sustains both earth and heaven : reverence be to the gods : reverence is sovereign over them : I expiate by reverence whatever sin may have been committed.
+
+### Printed p. 306
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॑ वो र॒थ्यः॑ पू॒तद॑क्षानृ॒तस्य॑ पस्त्य॒सदो॒ अद॑ब्धान् ।  
+> ता आ नमो॑भिरुरु॒चक्ष॑सो॒ न्यान्विश्वा॑न्व॒ आ न॑मे म॒हो  
+> य॑जत्राः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । वः । रथ्यः । पूतदक्षान् । ऋतस्य । पस्यसदः । अदब्धान् ।  
+> तान् । आ । नमःभिः । उरुचक्षसः । नृन् । विश्वान् । वः । आ । नमे । महः ।  
+> यजत्राः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजत्रा यष्टव्या देवा वो युष्मदीयस्य ऋतस्य यज्ञस्य रथ्यो
+> रंहितृन्नेत्वान् पूतदक्षान् शुद्धबलानृतस्य यज्ञस्य पस्त्यसदो यज्ञसंबंधिनि
+> पस्त्ये देवयजनलक्षणे गृहे सीदतो निषण्णानदब्धान्रक्षःप्रभृतिभिरहिंसितानुरुचक्षसो बहुद्रष्टवन्नेत्वान्महो महतस्तान्विश्वान् सर्वान् वो युष्मानाभिमुख्येन क्रियामाणैर्नमोभिर्नमस्कारैरा नमे । आनतोऽस्मि ॥
+
+##### Gist of the bhāṣya
+
+O worshipful gods, you are the swift leaders of your ṛta, that is, of the sacrifice; of pure strength; seated in the house of the sacrifice, the place of the gods' worship; unharmed by Rākṣasas and others; far-seeing, that is, seeing much; leaders; great. To all of you I bow with the reverential salutations made towards you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्राः (*yajatrāḥ*)—O gods, worthy of sacrifice
+- वः (*vaḥ*)—who are worshipped (by us)
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- रथ्यः (*rathyaḥ*)—the leaders
+- पूतदक्षान् (*pūtadakṣān*)—those of pure strength
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पत्स्यसदः (*patsyasadaḥ*)—those who sit in the house
+- अदब्धान् (*adabdhān*)—the unharmed
+- उरुचक्षसः (*urucakṣasaḥ*)—those of far-reaching sight
+- नृन् (*nṛn*)—the leaders
+- महः (*mahaḥ*)—those of mighty nature
+- तान् विश्वान् वः (*tān viśvān vaḥ*)—all of you
+- आ नमोभिः (*ā namobhiḥ*)—with all acts of reverence
+- आ नमे (*ā name*)—I honour and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, worthy of sacrifice, you who are the leaders of the sacrifice in which you are worshipped, of pure strength, seated in the house of the sacrifice, unharmed, far-seeing, leaders, of mighty nature: all of you I honour and worship with all acts of reverence.
+
+### Printed p. 307
+
+##### English translation
+Adorable (deities), I venerate with reverential salutations all you who are mighty, the regulators of your sacrifice, of pure vigour, dwellers in the chamber of worship, unsubdued, far-seeing, leaders (of rites).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि श्रेष्ठ॑वर्चस॒स्त उ॑ नस्ति॒रो विश्वा॑नि दुरि॒ता नयं॑ति ।  
+> सु॒क्ष॒त्रासो॒ वरु॑णो मि॒त्रो अ॒ग्निर्ऋ॒तधी॑तयो वक्म॒राज॑सत्याः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हि । श्रेष्ठवर्चसः । ते । ऊं इति । नः । तिरः । विश्वानि । दुःइता । नयंति ।  
+> सुक्षत्रासः । वरुणः । मित्रः । अग्निः । ऋतधीतयः । वक्मराजसत्याः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये देवा वक्ष्यमाणगुणास्ते हि ते खलु श्रेष्ठवर्चसः प्रशस्यतमदीप्तयो
+> भवंति । अशस्त उ त एव नोऽस्माकं विश्वानि सर्वाणि दुरिता पापानि तिरस्तिरोहितानि
+> यथा भवंति कथा नयंति । नयंतु । विनाशयंत्वित्यर्थः । ये वरुणादयो देवाः
+> सुक्षत्रासः शोभनबलाः शोभनधना वा ऋतधीशयः सत्यकर्माणो वक्मराजसत्याः ।
+> वक्मवचनं स्तोत्रं । तस्य राजान ईशाना वक्मराजानः स्तोतारः । तेषु सत्या
+> अवितथाः । एवंभूता ते हीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The gods whose qualities will be stated are indeed of most excellent splendour, that is, of most praiseworthy radiance. Those very gods lead away all our sins so that they become hidden; that is, may they destroy them. Those gods, Varuṇa and the others, are of good strength or of good wealth, of true works. Vakma means speech, praise; its lords are the praisers; to them the gods are true, that is, unfailing. Such are they; that is the construction. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुक्षत्रासः (*sukṣatrāsaḥ*)—those of excellent strength
+- ऋतधीशयः (*ṛtadhīśayaḥ*)—those whose works are of the nature of truth
+- वक्ष् राजसत्याः (*vakṣ rājasatyāḥ*)—those who are lords of all praises
+- वरुणः, मित्रः, अग्निः (*varuṇaḥ, mitraḥ, agniḥ*)—who are of the forms of Varuṇa, Mitra and Agni
+- ते हि (*te hi*)—those gods indeed
+- श्रेष्ठवर्चसः (*śreṣṭhavarcasaḥ*)—are of most excellent radiance
+- ते उ (*te u*)—those same gods
+- नः (*naḥ*)—our
+- विश्वानि (*viśvāni*)—all
+- दुरिता (*duritā*)—sins
+- तिरः नयंति (*tiraḥ nayaṃti*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+Those gods, of the forms of Varuṇa, Mitra and Agni, who are of excellent strength, whose works are of the nature of truth, and who are lords of all praises, are of most excellent radiance. Those same gods destroy all our sins.
+
+### Printed p. 308
+
+##### English translation
+May they, exceeding in splendour, so guide us, that all iniquities may disappear : they, the very powerful Varuna, Mitra, Agni, practisers of truth, and faithful to those who are prominent in (their) praise.
+
+#### Ṛk 11
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते न॒ इंद्रः॑ पृथि॒वी क्षाम॑ वर्धन्पू॒षा भगो॒ अदि॑तिः॒ पंच॒  ॑
+> जनाः ।  
+> सु॒शर्मा॑णः॒ स्वव॑सः सुनी॒था भवं॑तु नः सुत्रा॒त्रासः॑ सुगो॒पाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । इंद्रः । पृथिवी । क्षाम । वर्धन् । पूषा । भगः । अदितिः । पंच । जनाः ।  
+> सुशर्माणः । सुअवसः । सुनीथाः । भवंतु । नः । सुत्रात्रासः । सुगोपाः ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते देवा नोऽस्माकं क्षाम निवासभूमिं वर्धन् । वर्धयंतु । के ते ।
+> इंद्रः पृथिवी च पूषा च भगश्चादितिरदीना देवमाता च पंच जना देवमनुष्याणां
+> गंधर्वाप्सरसां । ऐ. ब्रा. ३-३१ । इत्यादिब्राह्मणोक्ता देवमनुष्यादयश्च ते च
+> नोऽस्मदर्थं सुशर्माणः सुसुखाः स्ववसः शोभनान्नाः सुनीथाः सुप्रापणाश्च
+> भवंतु । अस्मभ्यं शोभनसुखादिकं प्रयच्छंतिति भावः । तथा सुत्रात्रासः सुष्टु
+> त्रातारः सुगोपाः शोभनगोपायितारश्च भवंतु । उपस्थितेभ्यः शत्रुभ्यो रक्षणं
+> त्राणं । तेषामुत्पत्तिनिरोधेन रक्षणॆं गोपनं ॥
+
+##### Gist of the bhāṣya
+
+May those gods make our abode, our dwelling-place, grow. Who are they? Indra, Earth, Pūṣan, Bhaga, Aditi the mother of the gods, and the five peoples, the gods, men, Gandharvas and Apsarases and the rest declared in the Brāhmaṇa (Ai. Brā. 3-31). May they be for our sake of good happiness, of good food, and good leaders; that is, may they give us good happiness and the rest. And may they be good protectors and good guardians. Protection is the defence from enemies that have come near; guarding is protection by preventing their coming into being.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—all the gods
+- नः (*naḥ*)—our
+- क्षाम (*kṣāma*)—dwelling-places
+- वर्धन् (*vardhan*)—let them cause to grow
+- इंद्रः (*iṃdraḥ*)—Indra
+- पृथिवी (*pṛthivī*)—Earth
+- पूषा (*pūṣā*)—the god Pūṣan
+- भगः (*bhagaḥ*)—Bhaga
+- अदितिः (*aditiḥ*)—Aditi
+- पंच जनाः (*paṃca janāḥ*)—the five peoples, the gods, Gandharvas and the rest
+- नः (*naḥ*)—for our good
+- सुशर्माणः (*suśarmāṇaḥ*)—may they be endowed with excellent happiness
+- स्ववसः (*svavasaḥ*)—with excellent food
+
+### Printed p. 309
+
+- सुनीथाः (*sunīthāḥ*)—excellent guides
+- भवंतु (*bhavaṃtu*)—may they be
+- सुत्राश्रासः (*sutrāśrāsaḥ*)—excellent protectors
+- सुगोपाः (*sugopāḥ*)—excellent givers of shelter
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods cause our dwelling-places to grow. May Indra, Earth, Pūṣan, Bhaga, Aditi and the five peoples, the gods, Gandharvas and the rest, be for our good endowed with excellent happiness, endowed with excellent food, and excellent guides. May they be excellent protectors and excellent givers of shelter.
+
+##### English translation
+May they, Indra, Earth, Pushan, Bhaga, Aditi, and the five orders of beings, give increase to our habitations: may they be to us granters of happiness, bestowers of food, guides to good, our gracious defenders end preservers.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू स॒द्मानं॑ दि॒व्यं नंति॑ देवा॒ भार॑द्वाजः सुम॒तिं या॑ति॒  ॑
+> होता ।  
+> आ॒सा॒नेभि॒र्यज॑मानो मि॒येधै॑र्दे॒वानां॒ जन्म॑ वसू॒युर्व॑वंद ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । सद्मानं । दिव्यं । नंशि । देवाः । भारत् ऽवाजः । सुमतिं । याति । होता ।  
+> आसानेभिः । यजमानः । मियेध्यैः । देवानां । जन्म । वसुयुः । ववंद ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया ऋषरात्मानं परोक्षवदाह । हे देवा भारद्वाजो भरद्वाजगोत्रजो होता स्तोतायमृषिर्दिव्यं दिवि भवं सद्मानं सदनं स्थानं नु क्षिप्रं
+> नंति । व्याप्नोतु । तथा सुमतिं शोभनां मतिं युष्मदीयामनुग्रहबुद्धिं च
+> याति । याचते । यातियार्ज्ञाकर्मा । तदर्थमासानेभिरासीनैः सत्रासनं
+
+##### Gist of the bhāṣya
+
+With this verse the seer speaks of himself in the third person. O gods, may this Bhāradvāja, born in the line of Bharadvāja, the hotṛ, the praiser, this seer, quickly reach the heavenly abode, the dwelling-place in heaven; and he asks for your good thought, that is, your gracious mind. To that end, together with other sacrificers seated and performing a long sacrificial session,
+
+### Printed p. 310
+
+> कुर्वद्भिर्मियेधैर्मेधैर्मेधार्थैरन्ययजमानैः सार्धं यजमानो यागं
+> कुर्वन्नयमृषिर्वसूयुर्वसूनि धनान्यात्मन इच्छन् देवानां जन्म जनं संघं
+> ववंद । वंदते । स्तुति ॥
+
+##### Gist of the bhāṣya
+
+with fellow sacrificers who are fit for the sacrifice, the sacrificer, performing the rite, this seer, desiring wealth for himself, has praised the host of the gods; that is, he adores them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- भारद्वाजः (*bhāradvājaḥ*)—born in the line of Bharadvāja
+- होता (*hotā*)—this seer, who praises and calls the gods
+- दिव्यं (*divyaṃ*)—in the heavenly world
+- सद्मानं (*sadmānaṃ*)—the abode
+- नु (*nu*)—quickly
+- नंति (*naṃti*)—may he obtain
+- सुमतिं (*sumatiṃ*)—your excellent gracious mind
+- याति (*yāti*)—he asks
+- आसनेभिः (*āsanebhiḥ*)—who sit at the sacrificial altar
+- मियेधैः (*miyedhaiḥ*)—who are fit for the sacrificial rite; with other sacrificers
+- यजमानः (*yajamānaḥ*)—this seer, the performer of the sacrifice
+- वसूयुः (*vasūyuḥ*)—desiring wealth
+- देवानां (*devānāṃ*)—of the gods
+- जन्म (*janma*)—to the host
+- ववंद (*vavaṃda*)—offers reverence
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, may this seer, born in the line of Bharadvāja, who praises and calls the gods, quickly obtain the abode in the heavenly world. He asks for your excellent gracious mind. This seer, the performer of the sacrifice, together with other sacrificers who sit at the sacrificial altar and are fit for the sacrificial rite, desiring wealth, offers reverence to the host of the gods.
+
+##### English translation
+May the presenter of the oblation, Bharadwaja, quickly obtain, gods, a celestial abode, as he solicits your good-will : the institutor of the ceremony, together with pious associates, desirous of riches, glorifies the assembly of the gods.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॒ त्यं वृ॑जि॒नं रि॒पुं स्ते॒नम॑ग्ने दुरा॒ध्यं॑ ।  
+> द॒वि॒ष्ठम॑स्य सत्पते कृ॒धी सु॒गं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । त्यं । वृजिनं । रिपुं । स्तेनं । अग्ने । दुःआध्यं ।  
+> दविष्ठं । अस्य । सत्पते । कृधि । सुगं ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 303. Ṛk 2 end to Ṛk 7 start of sūkta 51 (pp. 298-303)
+**Progress note:** Done through printed p. 310. Ṛk 7 end to Ṛk 13 pada of sūkta 51 (pp. 304-310)
