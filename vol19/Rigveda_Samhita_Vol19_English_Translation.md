@@ -28760,6 +28760,220 @@ She, Śaśīyasī, who extended her arm for the embrace of Taranta, who was prai
 
 In this Ṛk the great seer Śyāvāśva has described the praise of Śaśīyasī, the queen of King Taranta, for her gift, saying that she gave him cows, horses and goats. श्यावाश्वस्तुताय वीराय उपबर्बृहत् सा मह्यं (*śyāvāśvastutāya vīrāya upabarbṛhat sā mahyaṃ*) ... the queen of Taranta gave him wealth of cattle such as cows; in describing the praise of that royal wife for her gift, the seer has praised her qualities. Who is the woman who gave him cows? She is the wife of King Taranta, who was praised by him (by Śyāvāśva) and who is valiant,**NOTE**
 
+### Printed p. 804
+
+that queen herself. And this woman extended her arms to the embrace of her husband, King Taranta, and so helped him; that is, when her husband embraced her with affection, she too, in return for his embrace and out of mutual affection, offered her arms, that is, embraced him in turn, and showed the love that each had for the other. From the seer's description it becomes evident that the king behaved with the greatest affection towards this wife of his, Śaśīyasī, and that the loving couple had a mutual attachment. The chief meaning is that his wife was worthy of the embraces and the like that show a husband's love. Such a queen, worthy of her husband's affection and regard, with the king's permission gave the seer many horses, cattle, cows and goats, by the hundred; thus the seer has praised the generosity of the king's wife.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वा॒ स्त्री शशी॑यसी पुं॒सो भ॑वति॒ वस्य॑सी ।  
+> अदे॑वत्रादरा॒धसः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वा । स्त्री । शशीयसी । पुंसः । भवति । वस्यसी ।  
+> अदेवत्रात् । आराधसः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च त्वैका शशीयसी । शशीयसीत्येतनमहिष्या नाम । सैव स्त्री । यद्वा।
+> उतेत्ययमेवकारार्थे । स्त्रीषु सैव प्रशस्येत्यर्थः ॥ त्वसमसिमनेमेत्यनुच्चानीति
+> वचनात् त्वेति निघातः ॥ सैव पुंसः पुरुषाद्वस्यसी वसीयसी भवति । कस्मात्पुंस
+> इत्युच्यते । आदेवत्रात् । देवा न येन त्रायंते स्तुत्यादिना सोऽदेवत्रः ।
+> तस्मादराधसः । राधो धनं । दानार्हधनरहितात् । लुब्धकादित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+उत (*uta*) means "and also": and that one Śaśīyasī. Śaśīyasī is the name of the king's chief queen; she alone is the woman. Or else उत (*uta*) is used in the sense of emphasis: among women she alone is to be praised. She is more excellent than a man. Than what kind of man? Than one by whom the gods are not protected, since he does not please them with praise and the like, and who therefore lacks राधो धनं (*rādho dhanaṃ*), that is, wealth: one without wealth fit for giving, a miser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदेवत्रात् (*adevatrāt*)—from not worshipping the gods, one who is not fit for their protection
+- अराधसः (*arādhasaḥ*)—one who has no wealth useful for giving
+- पुंसः (*puṃsaḥ*)—than a man
+
+### Printed p. 805
+
+- उत त्वा शशीयसी (*uta tvā śaśīyasī*)—Śaśīyasī alone
+- स्त्री (*strī*)—though a woman
+- उत्कृष्टळागि (*utkṛṣṭaḷāgi*)—she is excellent
+
+##### भावार्थ (Bhāvārtha)
+
+Than a man who, by not worshipping the gods, is not fit for their protection and who has no wealth useful for giving, Śaśīyasī, though a woman, is the more excellent.
+
+##### English translation
+Sasiyasi, though a female, is more excellent than a man who reverences not the gods, nor bestows wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is the common notion that men are superior to women in strength, ability and the like, in valour and in qualities. But even among men, those who do not worship the gods, that is, who perform no sacrifices and the like, who practise no charity or righteous conduct, who do no kind of good to people, and who behave only with miserliness, are not excellent, though they belong to the class of men. People feel no respect or regard for them. A woman whose mind is set on charity, righteous conduct and doing good to others is better than men of such bad nature. The seer has described that Śaśīyasī, wife of King Taranta, though a woman, is endowed with such good qualities that she is far superior to many men who are men only in name and who perform neither worship of the gods nor charity and righteous conduct. Here the special statement is made plain that, contrary to the general rule that men are superior to women, Taranta's queen is superior to many men.
+
+उत (*uta*)—"also" and "and". The word उत (*uta*) is used in the sense of conjunction (the meaning "and") and in the sense of emphasis. In the present Ṛk either meaning may be given.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि या जा॒नाति॒ जसु॑रिं॒ वि तृष्यं॑तं॒ वि का॒मिनं॑ ।  
+> दे॒व॒त्रा कृ॑णु॒ते मनः॑ ॥ ७ ॥
+
+### Printed p. 806
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । या । ज्ञानाति । जसुरिं । वि । तृष्णंतं । वि । कामिनं ।  
+> देवत्रा । कृणुते । मनः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या शशीयसी जसुरिं व्यथितं ॥ जसिस्ताडनकर्मोपक्षेपणकर्मा ना ॥ तं वि
+> जानाति । तथा तृष्यंतं वि जानाति । कामिनं धनाद्यभिलाषवंतं वि जानाति । अनुकंपयाभिमतं दत्तवतीत्यर्थः । देवत्रा देवेषु मनः कृणते कुरुते देवप्रीत्यर्थं
+> प्रदानबुद्धिं करोति या सैव स्त्रीति पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Śaśīyasī who "discerns" the afflicted, that is, the troubled man. The root जसि (*jasi*) is used in the sense of striking and casting out. She discerns that one; likewise she discerns the thirsty one, and she discerns the desirous one, that is, one who longs for wealth and the like; the meaning is that out of compassion she gives what is wished for. देवत्रा (*devatrā*): she turns her mind towards the gods, that is, she forms the intention of giving for the gods' pleasure. The woman who does this alone is excellent; the connection is with what went before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the Śaśīyasī who
+- जसुरिं (*jasuriṃ*)—the suffering of one who is distressed; she is able to discern it
+- वि (*vi*)—discerns (the verb understood)
+- तृष्यंतं (*tṛṣyaṃtaṃ*)—the need of a man who wants wealth
+- वि (*vi*)—discerns (the verb understood)
+- कामिनं (*kāminaṃ*)—the condition of a man who has other wishes
+- वि (*vi*)—is able to understand (and)
+- देवत्रा (*devatrā*)—in the worship of the gods
+- मनः (*manaḥ*)—the mind
+- कृणुते (*kṛṇute*)—places (she alone is excellent)
+
+##### भावार्थ (Bhāvārtha)
+
+The Śaśīyasī who is able to discern the suffering of one who is distressed, who, knowing the need of a man who wants wealth, can help so that his other wishes too are fulfilled, and whose mind is devoted to the worship of the gods, she alone is excellent.
+
+##### English translation
+For she discerns one who suffers pain, one who is in want, or one desirous (of any thing), and directs her mind towards the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too there is a description of the qualities of Śaśīyasī, queen of Taranta. This king's wife is not only of a nature to give gifts with a generous mind. She understands the sorrows of others, that is, the grief of people who are in distress, shows pity towards them and is of a nature to help them: she gives wealth to those who have none and other kinds of help to those who need help, and so does good to others; knowing the condition of poor people who suffer from lack of wealth and the like, she helps them by giving wealth and so on.
+
+### Printed p. 807
+
+Besides these qualities, her mind also turns towards worshipping the gods; that is, she is also devoted to the worship of the gods (to sacrifices and the like). Thus the seer has described the qualities of Śaśīyasī.
+
+जसुरिं (*jasuriṃ*)—For the word जसुरि (*jasuri*) Yāska gives an explanation, citing the Ṛk स्मैनं वस्त्रमथिं न तायुमनु क्रोशंति क्षितयो भरेषु । नीचायमानं जसुरिं श्येनं श्रवश्चाच्छा पशुमच्च यूथं ॥ (*smainaṃ vastramathiṃ na tāyumanu krośaṃti kṣitayo bhareṣu | nīcāyamānaṃ jasuriṃ śyenaṃ śravaścācchā paśumacca yūthaṃ ‖*) **NOTE** (Ṛ. Saṃ. 4-38-5), and he explains the meaning of this word. There जसुरिं (*jasuriṃ*) means one oppressed by hunger, hungry. In the present Ṛk one may give that meaning, and also the general meaning "oppressed, suffering": that is, one who is in agony from the pain of hunger for want of food, or who grieves from falling into some other kind of trouble.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त घा॒ नेमो॒ अस्तु॑तः॒ पुमा॒ इति॑ ब्रुवे प॒णिः ।  
+> स वैर॑देय॒ इत्स॒मः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । घ । नेमः । अस्तुतः । पुमान् । इति । बुवे । पणिः ।  
+> सः । वैरदेये । इत् । समः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत घापि च । फेति पूरणः । नेमः । त्वो नेम इत्यर्थस्यॆति निरुक्तं ।
+> ३-२०. । नेमोऽर्धः । जायापत्योर्मिलित्वैककार्यकर्तृत्वादेक एव पदार्थः ।
+> अर्धं शरीरस्य भार्येत्यादि स्मृतेः । शशीयस्या अर्धभूतस्तरंतः पुमानस्तुत इति
+> ब्रुवे । बहुधा स्तुतोऽपि गुणस्यातिबाहुल्यादस्तुत एवेति ब्रुवे पणिः स्तोताहं ।
+> स च तरंतो वैरदेये । वीरा धनानां प्रेरयितारो दानशीलाः । तैर्दातव्यं
+> धनं देयं । तस्मिन्थने समः । सर्वेभ्यो दातेत्यर्थः । इदिति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+उत (*uta*) means "and also"; घा (*ghā*) is a filler. The word नेमः (*nemaḥ*) means half, as in the Nirukta (Ni. 3-20): it is explained as "half". Wife and husband, doing one work in union, are one and the same thing, according to the smṛti saying that the wife is half of the body. So Taranta, who is half of Śaśīyasī, is called "a man". The speaker says: "I, the praiser, say that he is unpraised"; though he has been praised in many ways, because of the great abundance of his qualities he is still unpraised. And that Taranta is "equal" in the giving of wealth by such givers: heroes are those who impel wealth, the generous; the wealth to be given by them is what is to be given; in that wealth he is equal, that is, a giver to all. इत् (*it*) is a filler.
+
+### Printed p. 808
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—moreover
+- नेमः (*nemaḥ*)—the other half of Śaśīyasī (her husband)
+- पुमान् (*pumān*)—Taranta
+- अस्तुत इति (*astuta iti*)—(though he is praised in many ways) as unpraised
+- पणिः (*paṇiḥ*)—I, the praiser
+- ब्रुवे (*bruve*)—say
+- सः (*saḥ*)—that Taranta
+- वैरदेये (*vairadeye*)—in the giving of abundant wealth
+- समः इत् (*samaḥ it*)—is the same to all, at all times
+
+##### भावार्थ (Bhāvārtha)
+
+Though I praise Śaśīyasī's husband Taranta in many ways, my feeling is that he is still unpraised. His qualities are endless; however much one praises, it remains little. When that Taranta gives wealth he shows no difference to anyone; he is the same to all, at all times.
+
+##### English translation
+And, eulogizing (him), I proclaim that the man, her ( other ) half is (as it were), uncommended, for he is ever the same in munificent donations.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the description of Śaśīyasī's qualities is made indirectly, that is, by praising her husband. The commentator, saying अर्धं शरीरस्य भार्येत्यादि स्मृतेः (*ardhaṃ śarīrasya bhāryetyādi smṛteḥ*), points out that husband and wife share the body in equal parts, that to describe one of them is to describe only half, and that the description of the qualities of the husband, King Taranta, is therefore to be taken as a description of the qualities of the wife Śaśīyasī (the other half). So it should be understood that the praise of the qualities of King Taranta in this Ṛk applies also to Śaśīyasī.
+
+घ (*gha*)—This word is used here as a filler, that is, to complete the number of syllables that a foot must have. It has no fixed meaning. Still, if one wishes, the sense of emphasis may be given. This word is customarily used in the Saṃhitā text with a long vowel as घा (*ghā*) and in the Pada text with a short vowel as घ (*gha*).
+
+नेमः (*nemaḥ*)—The word नेमः (*nemaḥ*) is read among the twenty-six द्विशनामगळल्लि (*dviśanāmagaḷalli*) beginning with प्रपित्वे, अभीके (*prapitve, abhīke*) (Ni. 320) **NOTE**. That is, this word is used when only an incomplete or half portion of a matter is described.
+
+### Printed p. 809
+
+त्वो नेम इत्यर्धस्य । त्वोऽपततः । नेमोऽपनीतः । अर्धं हरतीर्वि परीताद्धारयतेर्वा स्यादुद्धृतं भवति । ऋध्नोतेर्वा स्यादृद्धमो विभागः । पीयति त्वो अनु त्वो गृणाति । नेमे देवा नेमेऽसुराः । इत्यपि निगमौ भवतः ॥ (*tvo nema ityardhasya | tvo 'patataḥ | nemo 'panītaḥ | ardhaṃ haratīrvi parītāddhārayatervā syāduddhṛtaṃ bhavati | ṛdhnotervā syādṛddhamo vibhāgaḥ | pīyati tvo anu tvo gṛṇāti | neme devā neme 'surāḥ | ityapi nigamau bhavataḥ ‖*) (Ni. 3-20). In this way Yāska has given the explanation of the word नेमः (*nemaḥ*). That is: the words त्वः (*tvaḥ*) and नेमः (*nemaḥ*) are words that indicate the meaning "half". त्वः (*tvaḥ*) means what is not wholly spread out, that is, what is half and half. नेमः (*nemaḥ*) means what is not wholly carried off, that is, what is only a half portion. The word for "half" (अर्ध (*ardha*)) may be formed (1) from the root हृ (*hṛ*) (हरति (*harati*)) meaning to carry off, take away, or (2) from the root धृ (*dhṛ*), meaning to hold, bear, or (3) from the root ऋथ् (*ṛth*), meaning to prosper, increase. If the letters of the root हरति (*harati*) or the root meaning "bears" are changed or transposed, the word for "half" is formed; or it may be formed from the root ऋध्योति (*ṛdhyoti*) as well. For example, in the sentence पीयति त्वो अनु त्वो गृणाति (*pīyati tvo anu tvo gṛṇāti*) ("one half reviles, the other half praises") the word त्व (*tva*) is used in the sense of "one half, the other half". In the same way, in the sentence नेमे देवा नेमेऽसुराः (*neme devā neme 'surāḥ*) ("half of them gods, the other half asuras") the word नेम (*nema*) is used in the sense of "half".
+
+अस्तुतः पुमान् इति ब्रुवे पणि (*astutaḥ pumān iti bruve paṇi*)—The seer Śyāvāśva has said of himself: "I, who am praising King Taranta, say that however much I praise him he is अस्तुतः (*astutaḥ*), not fully praised." Since the generosity and other qualities of King Taranta are endless, I have described only some small part here and there; because I am not able, I could not describe his qualities in full. Therefore "not praised", not described; thus the seer has spoken of the greatness of King Taranta and of his own smallness.
+
+वैरदेये इत् समः (*vairadeye it samaḥ*)—स च तरुंतो वैरदेये! वीरा धनानां प्रेरयितारो दानशीलाः । तैर्दातव्यं धनं देयं । तस्मिन्थनॆ: समः । सर्वेभ्यो दातेत्यर्थः । इदिति पूरणः । (*sa ca taruṃto vairadeye! vīrā dhanānāṃ prerayitāro dānaśīlāḥ | tairdātavyaṃ dhanaṃ deyaṃ | tasminthanè: samaḥ | sarvebhyo dātetyarthaḥ | iditi pūraṇaḥ |*). Describing the generosity and other qualities of that King Taranta, the seer has said वैरदेये इत् समः (*vairadeye it samaḥ*). Heroes are those who urge that gifts be given, that is, the generous. The wealth that such generous people give is called the hero-gift. Among such givers of wealth King Taranta is the foremost. He gives wealth to all alike, without partiality, that is, without saying "no" to anyone; in this way the seer praises King Taranta's generosity. The word इत् (*it*) is used here to fill the foot; it has no fixed meaning here.
+
+#### Ṛk 9
+### Printed p. 810
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त मे॑ऽरपद्युव॒तिर्म॑मं॒दुषी॒ प्रति॑ श्या॒वाय॑ वर्त॒निं ।  
+> वि रोहि॑ता पुरुमी॒ळ्हाय॑ येमतु॒र्विप्रा॑य दी॒र्घय॑शसे॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । मे । अरपत् । युवतिः । ममंदुषी । प्रति । श्यावाय । वर्तनिं ॥ -  
+> वि । रोहिता । पुरुमीळ्छाय । येमतुः । विप्राय । दीर्घयशसे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च श्यावाय श्यावाश्वाय मे मह्यमरपत् । अलपत् । स्पष्टमाचष्टे
+> किं । वर्तनिं मार्गं । कीदृशी सा । युवतिः । प्रवृत्तयौवना प्रति मनुंदुषि।
+> प्रतिमोदमाना । कस्मै । दीर्घयशसे प्रभूतान्नाय प्रभूतकीर्तये वा पुरुमीळ्हाय्कॆतन्नामकाय प्रभूतगृहाय विप्राय ॥ क्रियार्थोपपदस्य च कर्मणि
+> स्थानिनः । पा. २.३-१४ । इति चतुर्थी ॥ पुरुमीळ्हं प्राप्तमित्यर्थः । तदर्थं ।
+> रोहिता रोहितवर्णावश्वा शशीयस्या दत्ता वि येमतुः । धृतवंतावित्यर्थः।
+> याश्वाभ्यां युक्ते रथे स्थापयित्वा पुरमीळ्गृहस्य मार्गं प्रदर्शयंती
+> पुरतो गता सैव पुंसो भवति वस्यसीति पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+उत (*uta*) means "and also". To Śyāva, that is, to me, Śyāvāśva, she अरपत् (*arapat*), that is, अलपत् (*alapat*), declared clearly the way. What kind of woman is she? Young, one whose youth has set in, and rejoicing in return, delighting. For whom did she do this? For the one of long fame, or of abundant food, called Purumīḷha, a man of wisdom and of abundant possessions. The dative is said to be used here after a word that serves the purpose of an action, with the meaning "who has reached Purumīḷha". For that purpose the two red horses given by Śaśīyasī "held", that is, bore him; she, setting him in a chariot yoked with those two horses and going ahead of him, showing the way to Purumīḷha's house, is the one who is more excellent than a man; the connection is with what went before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- युवतिः (*yuvatiḥ*)—Śaśīyasī, the young woman
+- प्रति ममंदुषी (*prati mamaṃduṣī*)—being full of kindness
+- श्यावाश्वाय मे (*śyāvāśvāya me*)—to me, Śyāvāśva
+- वर्तनिं (*vartaniṃ*)—the way
+- अरपत् (*arapat*)—explained and told
+- रोहिता (*rohitā*)—the horses (given by her)
+- विप्राय (*viprāya*)—to the wise one
+- दीर्घयशसे (*dīrghayaśase*)—of widespread fame
+- पुरुमीळ्हाय (*purumīḷhāya*)—to Purumīḷha, as I went
+- वि येमतुः (*vi yematuḥ*)—carried me
+
+##### भावार्थ (Bhāvārtha)
+
+The young Śaśīyasī, full of kindness, explained and told the way to me, Śyāvāśva. The horses given by her carried me to Purumīḷha, who is wise and of widespread fame.
+
 ---
 
-**Progress note:** Done through printed p. 803. Ṛks 2-5 of Sūkta 61, pp. 798-803
+**Progress note:** Done through printed p. 810. Ṛk 6-9 of Sūkta 61 (Śaśīyasī), pp. 804-810
