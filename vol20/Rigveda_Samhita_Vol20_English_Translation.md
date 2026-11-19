@@ -24229,6 +24229,203 @@ The Anuvāda: this sūkta महा इंद्रः (*mahā iṃdraḥ*) is t
 > सहोभिः ।  
 > अ॒स्म॒द्र्य॑ग्वावृधे वी॒र्या॑यो॒रुः पृ॒थुः सुकृ॑तः क॒र्तृभि॑र्भूत्॥
 
+### Printed p. 700
+
+> ॥ पदगार्ति ॥
+> महान् । इंद्रः । नृवत् । आ । चर्षणिप्राः । उत । द्विबर्हाः । अमिनः । सहभिः ।
+> अस्मद्र्यक् । ववृधे । वीर्याय । उरुः । पृथुः । सुकृतः । कर्तृभिः । ९२५ ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृवत्' यथा नेता राजा भूत्यादीनां कामानां पूरयिता तद्वत् चर्षणिप्राश्चर्यणीनां स्तोत्सजनानां कामानां पूरको महान्प्रभूत इंद्र आ गच्छतु !
+> आ इत्युपसर्गदर्शनाद्दच्छतिख्यातस्याध्याहारः । उतापि च द्विबर्हा द्वयोर्लोकयोः परिवृढः सहोभिः शत्रुबल्रैरमिनोऽहिंसनीय इंद्रोऽस्मद्र्यगस्मदभिमुखं
+> यथा भवति तथा वीर्याय वीरकर्मकरणाय ववृधे ! वर्धते ! उरुः शरीरेण
+> विस्तीर्णः पृथुर्गुणैः प्रथितः कर्तृभिर्यजमानैः सुकृतो भूत् । सुष्टु
+> परिचरितो भवति ॥
+
+##### Gist of the bhāṣya
+
+Like a leader, a king, who fulfils wishes such as prosperity, so may Indra, the fulfiller of the wishes of the people who praise him, the great and mighty one, come here. The word "ā" is seen as a preverb, and so the verb "come" is to be supplied. Moreover, Indra, who surpasses in both worlds and who cannot be injured by the forces of his enemies, grows towards us, facing us, for the doing of heroic deeds. He is wide in body and renowned for his qualities, and is well served by the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृवत् (*nṛvat*)—as a king fulfils the wishes of his subjects
+- चर्षणिप्राः (*carṣaṇiprāḥ*)—fulfiller of the wishes of created beings
+- महान् (*mahān*)—and great-souled
+- इंद्रः (*iṃdraḥ*)—Indra
+- आ (*ā*)—may he be gracious **NOTE**
+- उत (*uta*)—and
+- द्विबर्हाः (*dvibarhāḥ*)—grown great in both worlds
+- सहोभिः (*sahobhiḥ*)—by the forces of enemies
+- अमिनः (*aminaḥ*)—and unharmed
+- अस्मद्रक् (*asmadrak*)—facing us
+- वीर्याय (*vīryāya*)—to increase our heroism (strength)
+- ववृधे (*vavṛdhe*)—attains growth
+- उरुः (*uruḥ*)—of vast form
+- पृथुः (*pṛthuḥ*)—of very abundant qualities
+- कर्तृभिः (*kartṛbhiḥ*)—by the sacrificers
+- सुकृतः भूत् (*sukṛtaḥ bhūt*)—is honoured
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who as a king fulfils the wishes of his subjects, is the fulfiller of the wishes of those who praise him, and is great-souled, be gracious. Grown great in heaven and earth and unharmed by the forces of his enemies, he attains growth, facing us, so as to increase our strength. Of vast form and of very abundant qualities, he is honoured by the sacrificer.
+
+##### English translation
+May the great Indra, who is as a monarch, the fulfiller (of the desires) of men, come hither: may he who is mighty over the two (realms
+
+### Printed p. 701
+
+of space), uninjurable by (hostile) efforts, increase (in capacity) for heroism in our presence : may he who is great (in body). eminent (in qualities), be honoured by the performers (of pious acts)
+
+##### विशेषविषयगळु (Special Topics)
+
+अमिनः (*aminaḥ*)—one who is unharmed. Since the strength and valour of Indra are very great, the meaning is that however powerful an enemy may be, he cannot injure Indra. Concerning this word Yāska has given the etymology:
+
+अमिनः । अमिनोऽमितमात्रो महान् भवत्यभ्यमितो वा । अमिनः सहोभिः इत्यपि निगमो भवति ॥ (*aminaḥ | amino 'mitamātro mahān bhavatyabhyamito vā | aminaḥ sahobhiḥ ityapi nigamo bhavati ‖*)
+
+(Ni. 6-16)
+
+This word अमिनः (*aminaḥ*) is derived from the root माज् माने (*māj māne*) and gives the meaning "one whose strength and valour cannot be measured (immeasurable)". It also means "great", or "one who cannot be injured (invulnerable)". To explain the meaning of this word he has given as example the very Ṛk in hand, अमिनः सहोभिः (*aminaḥ sahobhiḥ*). No one can measure, that is, state definitely and exactly, that the strength and valour of Indra are only so much. His power and capacity are unfathomable. Therefore the chief meaning is that no enemy, of whatever kind, can injure Indra.
+
+द्विबर्हाः (*dvibarhāḥ*)—द्वि (*dvi*) means two, बर्ह (*barha*) means big. Therefore this word means one who has grown exceedingly great in two places, that is, in heaven and in the atmosphere. For this word Yāska has given the etymology:
+
+द्विबर्हाः द्वयोः स्थानयोः परिवृढो मध्यमे च स्थान उत्तमे च । उत द्विबर्हा अमिनः सहोभिः इत्यपि निगमो भवति ॥ (*dvibarhāḥ dvayoḥ sthānayoḥ parivṛḍho madhyame ca sthāna uttame ca | uta dvibarhā aminaḥ sahobhiḥ ityapi nigamo bhavati ‖*)
+
+(Ni. 6-17)
+
+"In two places" means: in the atmosphere, the middle place, in the form of lightning, and in heaven in the form of the sun, he pervades and shines; this is the meaning. That is, the chief meaning is that the sun shining in the world of heaven and the lightning seen in the atmosphere are both forms of Indra. Here the Ṛk in hand itself, उत द्विबर्हा अमिनः सहोभिः (*uta dvibarhā aminaḥ sahobhiḥ*), is given as the example.
+
+### Printed p. 702
+
+महा इंद्रः (*mahā iṃdraḥ*)—महान् इंद्रः (*mahān iṃdraḥ*). As to how Indra obtained the title Mahān (great), there is an ancient story in the Aitareya Brāhmaṇa:
+
+इंद्रो वै वृत्रं हत्वा सर्वा विजितीर्विजित्याब्रवीत्प्रजापतिमहमेतदसानि यत्त्वमहं महानसानीति स प्रजापतिरब्रवीदथ कोऽहमिति यद्यैवैतदवोच इत्यब्रवीत्ततो वै को नाम प्रजापतिरभवत्को वै नाम प्रजापतिर्यन्महानिंद्रोऽभवत्तन्महेंद्रस्य महेंद्रत्वं । (*iṃdro vai vṛtraṃ hatvā sarvā vijitīrvijityābravītprajāpatimahametadasāni yattvamahaṃ mahānasānīti sa prajāpatirabravīdatha ko 'hamiti yadyaivaitadavoca ityabravīttato vai ko nāma prajāpatirabhavatko vai nāma prajāpatiryanmahāniṃdro 'bhavattanmaheṃdrasya maheṃdratvaṃ |*)
+
+(Ai. Brā. 12-21)
+
+In the past, after Indra had slain Vṛtra, he conquered all the regions of the earth and said to Prajāpati: "O Prajāpati, you have now gained a position of greatness and are venerable. From now on I want your position of greatness." When Prajāpati asked: "If you take my position, then who (kaḥ) am I? What is my standing?", Indra said: "O Prajāpati, as you yourself have just said, your name from now on will be Ka (who); that is, you will be denoted by the word ka." Therefore from that time Prajāpati became denoted by the word ka. This matter is well known. For that reason it is stated in the pratigraha mantras, which are to be recited when one accepts any gift. That is, there is a Brāhmaṇa sentence of the other Vedas:
+
+क इदं कस्मा अदादित्याह । प्रजापतिर्वै कः । प्रजापतॆय एव तद्ददाति (*ka idaṃ kasmā adādityāha | prajāpatirvai kaḥ | prajāpatèya eva taddadāti*) **GLOSS**
+
+Since the word ka has the meaning "happiness", in the usages and matters connected with Prajāpati he is said to be of the nature of happiness. Because Indra thus took over the greatness of Prajāpati, the appellation Mahān came to Indra; that is, Indra became Mahān Indra. This matter is told in the other Vedas also:
+
+इंद्रो वृत्रमहन्तं देवा अब्रुवन्महान्ना अयमभूद्यो वृत्रमवधीदिति तन्महेंद्रस्य महेंद्रत्वं । (*iṃdro vṛtramahantaṃ devā abruvanmahānnā ayamabhūdyo vṛtramavadhīditi tanmaheṃdrasya maheṃdratvaṃ |*)
+
+The gods, praising Indra's slaying of Vṛtra, said: "Because this Indra slew Vṛtra, he has become Mahendra (has gained greatness)"; that is, he became the best of all the gods. It is said that this is the reason why the name Mahendra came to Indra.
+
+स महून्भूत्वा देवता अब्रवीदुद्धारं म उद्धरतेति यथाप्येतर्हिच्छति यो वै भवति यः श्रेष्ठतामश्नुते स महान्भवति तं देवा अब्रुवन् स्वयमेव ब्रूष्ट यत्ते भविष्यतीति स एतं माहेंद्रं ग्रहमब्रूत माध्यंदिनं सवनानां निष्केवल्यमुक्थानां त्रिष्टुभं छंदसां पृष्ठं साम्नां तमस्मा उद्धारमुदहरन् उदस्मा उद्धारं हरंति य एवं वेद । (*sa mahūnbhūtvā devatā abravīduddhāraṃ ma uddharateti yathāpyetarhicchati yo vai bhavati yaḥ śreṣṭhatāmaśnute sa mahānbhavati taṃ devā abruvan svayameva brūṣṭa yatte bhaviṣyatīti sa etaṃ māheṃdraṃ grahamabrūta mādhyaṃdinaṃ savanānāṃ niṣkevalyamukthānāṃ triṣṭubhaṃ chaṃdasāṃ pṛṣṭhaṃ sāmnāṃ tamasmā uddhāramudaharan udasmā uddhāraṃ haraṃti ya evaṃ veda |*)
+
+### Printed p. 703
+
+Then Indra, having gained the position of greatness as stated above, called the gods and spoke thus: "O gods, since I have gained a position of greatness, arrange on this account, that is, to felicitate me, some honourable reception." In worldly usage also, when a man obtains incomparable prosperity, or distinction in learning and the like, or royal honour, such a man is famed as esteemed among people, and so it is the custom that people arrange a reception to felicitate him. In the same way Indra put this question to the gods. The gods also approved Indra's word and said: "O Indra, how should this reception be arranged? How would you be pleased? You yourself must say it; we shall act accordingly." To this Indra said: "Among the grahas (a graha is a special vessel for drinking soma), the Mahendra graha (the soma-drinking vessel offered to me, Mahendra) must be the best of all grahas. In the same way, among the three savanas, the Prātaḥ-savana, the Mādhyandina savana and the third savana, the Mādhyandina savana; among the śastras (mantras) such as the Āśvina śastra and the Marutvatīya, the Niṣkevalya śastra; among the metres such as Gāyatrī, the Triṣṭup metre; among the sāmans, the Bṛhad-rathantara sāman which produces the Pṛṣṭha stotra, must be the best; you must approve this. For all of these are dear to me. This is the honour you will do me." The gods agreed that it should be so, and approved the pre-eminence of the Māhendra graha and the others in sacrifices. This matter is said in the other Vedas also:
+
+स एतं माहेंद्रमुदहरत वृत्रं हत्वान्यासु देवतास्वधीति यन्माहेंद्रो गृह्यत उद्धारमेव तं यजमान उद्धरते न प्रजास्वधि । (*sa etaṃ māheṃdramudaharata vṛtraṃ hatvānyāsu devatāsvadhīti yanmāheṃdro gṛhyata uddhārameva taṃ yajamāna uddharate na prajāsvadhi |*)
+
+The sacrificer who knows this matter will gain pre-eminence among people and an esteemed position.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑मे॒व धि॒षणा॑ सा॒तये॑ धाद्बृ॒हंत॑मृ॒ष्टम॒जरं॒ युवा॑नं।  
+> अषा॑ळ्हेन॒ शव॑सा शूशु॒वांसं॑ स॒द्यश्चि॒द्यो वा॑वृ॒धे असा॑मि ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । एव । धिषणा । सातये । धात् । बृहंतं । ऋष्वं । अजरं । युवानं ।  
+> अषाळ्छेन । शवसा । शूतुवांसं । सद्यः । चित् । यः । ववृधे । असामि ॥ २ ॥
+
+### Printed p. 704
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धिषणास्मदीया स्तुतिः सातये दानायेंद्रमेव धात् । धारयति । कीदृशं।
+> बृहंतं महांतमृष्टं गंतारमजरं जरारहितं युवानं नित्यतरुणमषाळ्छेन
+> शत्रुभिरनभिभूतेन शवसा बलेन शूशुवांसं प्रवृद्धं ॥ श्वयतेरिदं रूपं ॥ य
+> इंद्रः सद्यश्चित्सद्य एव जातमात्रः सन् असाम्यनल्पमधिकं यथा भवति तथा ववृधे
+> वर्धते ॥
+
+##### Gist of the bhāṣya
+
+Dhiṣaṇā is our praise. For the sake of giving it holds Indra alone, Indra of this kind: great, going (quick-moving), ageless, free from old age, ever young, grown great with unsurpassed strength that is not overcome by enemies. Indra, as soon as he was born, grew mightily, in a way that is not small.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यॆः (*yèḥ*)—the Indra who
+- सद्यश्चित् (*sadyaścit*)—immediately on being born
+- असामि (*asāmi*)—exceedingly
+- ववृधे (*vavṛdhe*)—grew (such an Indra)
+- बृहंतं (*bṛhaṃtaṃ*)—of great form
+- ऋष्ट्वं (*ṛṣṭvaṃ*)—swift-moving
+- अजरं (*ajaraṃ*)—free from old age
+- युवानं (*yuvānaṃ*)—ever young
+- अषाह्नेन (*aṣāhnena*)—unobstructed
+- शवसा (*śavasā*)—by strength
+- शूशुवांसं (*śūśuvāṃsaṃ*)—attaining greatness
+- इंद्रमेव (*iṃdrameva*)—Indra alone
+- धिषणा (*dhiṣaṇā*)—our praise
+- सातये (*sātaye*)—for giving
+- धात् (*dhāt*)—holds
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who grew exceedingly as soon as he was born, is of great form, swift-moving, free from old age, ever young, and attains greatness by his unobstructed strength. Our praise approaches that Indra alone, for the sake of giving.
+
+##### English translation
+Our praise encourages Indra to munificence, the vast, quick-moving, undecaying, ever-youthful Indra, mighty with unsurpassable strength, who rapidly grows to greatness.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृ॒थू क॒रस्ना॑ बहु॒ला गभ॑स्ती अस्म॒द्र्य१॒॑ग्नं मि॑मीहि॒ श्रवां॑सि ।  
+> यू॒थेव॑ प॒श्वः प॑शु॒पा दमू॑ना अ॒स्मा इं॑द्रा॒भ्या व॑वृत्स्वा॒जौ ॥
+
+### Printed p. 705
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पृथू इति । करस्ना । बहुला । गभस्ति इति । अस्मद्र्यक् । सं । मिमीहि । श्रवांसि ।  
+> यूथाइव । पश्वः । पशुपाः । दमूनाः । अस्मान् । इंद्र । अभि । आ । ववृत्स्व ।  
+> आजौ ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पृथू विस्तीर्ण् करस्ना कर्मणां कर्तारौ बहुला बहुप्रदौ
+> गभस्ती त्वदीयौ बाहू श्रवांस्यन्नानि । दातुमिति शेषः । अस्मद्र्यगस्मदभिमुखं सं
+> मिमाहि । कुरु । किंच हे इंद्र दमूना दांतमनास्त्वमाजौ संग्रामेऽस्थानभ्या
+> ववृत्स्व । अभ्यावर्तस्व । तत्र दृष्टांतः । पशुपाः पशूनां पालकः पश्वः पशूनां
+> यूथेव यूथानि यथावर्तयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, extend your two arms, wide, doers of deeds and bountiful, towards us, facing us, to give food; the word "to give" is to be supplied, and by श्रवांसि (*śravāṃsi*) foods are meant. Further, O Indra, with a tamed mind, turn towards us in battle, as an example, as a herdsman, the protector of cattle, turns round the herds of cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृथू (*pṛthū*)—wide
+- करस्ना (*karasnā*)—doers of deeds
+- बहुला (*bahulā*)—bountiful in giving
+- गभस्ती (*gabhastī*)—your two arms, O Indra
+- श्रवांसि (*śravāṃsi*)—foods, to give to us
+- अस्मद्रश्यक् (*asmadraśyak*)—facing us
+- सं मिमीहि (*saṃ mimīhi*)—extend
+- पशुपाः (*paśupāḥ*)—a herdsman
+- पश्वः (*paśvaḥ*)—of cattle
+- यूथेव (*yūtheva*)—as he surrounds and protects the herds
+- इंद्र (*iṃdra*)—O Indra
+- दमूनाः (*damūnāḥ*)—you of tamed mind
+- आजौ (*ājau*)—in battle
+- आस्मान् (*āsmān*)—us
+- अभि आ ववृत्स्व (*abhi ā vavṛtsva*)—stand around us and protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, extend towards us, facing us, your two arms, wide, doers of deeds and exceedingly bountiful, so as to give us food. O Indra, as a herdsman surrounds and protects the herds of cattle, so do you, of tamed mind, stand around us in battle and protect us.
+
+##### English translation
+Extend towards us your long, active, and bountiful hands, (to bring us) food : be about us, lowly-minded indra, in battle, as a herdsman (tends) the herds of cattle.
+
 ---
 
-**Progress note:** Done through printed p. 699. Ṛk 13 end, Kutsa/Ārjuneya discussion, Ṛk 14-15 of sūkta 18, sūkta 19 intro and Ṛk 1 saṃhitā
+**Progress note:** Done through printed p. 705. Mandala 6 Sukta 19 Rk 1 (end) to Rk 3, pp. 700-705
