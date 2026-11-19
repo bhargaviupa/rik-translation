@@ -28824,6 +28824,276 @@ This sūkta beginning श्रुधी न इंद्र (*śrudhī na iṃd
 
 O Indra, we, the praisers, sprinkling you with Soma, call upon you for the gain of great food, that is, of food in abundance.
 
+### Printed p. 811
+
+> त्वं नोऽस्माकं तदाह्वानं श्रुधि । शृणु । यद्यदा विशो जनाः शूरसात् युद्धे
+> समयंत संगच्छ्यंते तदा पार्येऽंतिमेऽहन्नहनि दिवसे नोऽस्मभ्यमुग्रमुद्गूर्णमवो रक्षणं दाः । अदाः । प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+You, Indra, hear that call of ours (श्रुधि (*śrudhi*) means "listen"). When, on a later day, in battle, the people assemble together, then grant us fierce protection, that is, protection that is raised aloft; "grant" is the sense of दाः (*dāḥ*) (अदाः (*adāḥ*)), "bestow".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ववृषाणाः (*vavṛṣāṇāḥ*)—we who offer Soma
+- महः (*mahaḥ*)—great
+- वाजस्य (*vājasya*)—of food
+- सातौ (*sātau*)—for the gain
+- त्वा (*tvā*)—you
+- ह्वयामसि (*hvayāmasi*)—we call, praying
+- नः (*naḥ*)—our praise
+- श्रुधि (*śrudhi*)—hear
+- पारे अहन् (*pāre ahan*)—on the days ahead
+- यत् (*yat*)—when
+- विशः (*viśaḥ*)—men
+- शूरसातौ (*śūrasātau*)—in battle
+- सं आयंत (*saṃ āyaṃta*)—will assemble together, then
+- नः (*naḥ*)—to us
+- उग्रं (*ugraṃ*)—exceedingly great power
+- अवः (*avaḥ*)—and protection
+- दाः (*dāḥ*)—grant
+
+O Indra, we who offer Soma call upon you, praying, for the gain of great food. Hear our praise. When, on the days ahead, men assemble together in battle, then grant us exceedingly great power and protection.
+
+##### English translation
+Hear us, Indra, when, offering libations, we call upon you for obtaining abundant food : grant us decided protection when on a future day men are assembling for battle.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां वा॒जी ह॑वते वाजिने॒यो म॒हो वाज॑स्य॒ गध्य॑स्य सा॒त् ।  
+> त्वां वृ॒त्रेष्विं॑द्र॒ सत्प॑तिं॒ तरु॑त्रं॒ त्वां च॑ष्टे मुष्टि॒हा गोषु॒  ॑
+> युध्यन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । वाजी । हवते । वाजिनेयः । महः । वाजस्य । गध्यस्य । सात् ।  
+> त्वां । वृत्रेषु । इंद्र । सत्‌पतिं । तरुत्रं । त्वां । चष्टे । मुष्टिहा । गोषु ।  
+> युध्यन् ॥
+
+### Printed p. 812
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजी हविर्लक्षणान्नवान्वाजिनेयो वाजिन्याः पुत्रो भरद्वाजो हे इंद्र
+> त्वां गध्यस्य सर्वैः प्राप्यस्य महो महतो वाजस्यान्नस्य सातौ लाभे निमित्ते
+> हवते । स्तोति । अपि च हे इंद्र सत्पतिं सज्जनानां पालकं तरुत्रं दुर्जनानां
+> तारकं त्वां वृत्रेषूपद्रवेषु निमित्तेषु भरद्वाजे हवते । मुष्टिहा मुष्टिबलेन
+> शत्रूणां हंता गोषु निमित्तभूतासु युध्यन् शत्रुभिः सह युद्धं कुर्वन्
+> भरद्वाजस्तां चष्टे पश्यति । प्रतिपालयते ॥
+
+##### Gist of the bhāṣya
+
+वाजी (*vājī*) is one who has food in the form of oblations; वाजिनेयः (*vājineyaḥ*) is the son of Vājinī, Bharadvāja. O Indra, he invokes, that is, praises, you for the gain (सातौ (*sātau*)) of great food, food that is to be obtained by all (गध्यस्य (*gadhyasya*)). Moreover, O Indra, you are the protector of the good and the deliverer of the wicked; Bharadvāja calls upon you in the वृत्रेषु (*vṛtreṣu*), that is, in troubles and occasions of need. मुष्टिहा (*muṣṭihā*) is one who slays enemies by the strength of his fist; he who fights with enemies on account of cattle, Bharadvāja, looks upon you, that is, guards you. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजी (*vājī*)—possessed of food in the form of oblation
+- वाजिनेयः (*vājineyaḥ*)—Bharadvāja, the son of one called Vājinī
+- त्वां (*tvāṃ*)—you
+- गध्यस्य (*gadhyasya*)—desired by all
+- महः (*mahaḥ*)—great
+- वाजस्य (*vājasya*)—of food
+- सातौ (*sātau*)—for the gain
+- हवते (*havate*)—praises, and
+- इंद्र (*iṃdra*)—O Indra
+- सत्पतिं (*satpatiṃ*)—protector of the good
+- शरुत्रं (*śarutraṃ*)—one who overcomes the wicked
+- त्वां (*tvāṃ*)—you
+- वृत्रेषु (*vṛtreṣu*)—in the battle that destroys enemies
+- मुष्टिहा (*muṣṭihā*)—one who kills the enemy with blows of the fist
+- गोषु युध्यन् (*goṣu yudhyan*)—one who fights for the sake of cows, Bharadvāja
+- त्वां (*tvāṃ*)—you
+- चष्टे (*caṣṭe*)—keeps looking to
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, Bharadvāja, who is possessed of food in the form of oblation and is the son of one called Vājinī, praises you for the gain of food that is desired by all and is great. O Indra, you are the protector of the good and the one who overcomes the wicked; Bharadvāja, who kills the enemy with blows of the fist in the battle that destroys enemies and who fights for the sake of cows, keeps looking to you.
+
+##### English translation
+The son of Vajini, (Bharadwaja), offering (sacrificial) viands, invokes you for (the sake of) acquiring obtainable and abundant food : (he invokes) you, Indra, the preserver of the good, the defender (from the wicked), when enemies (assail him): he depends upon you when, lifting up his fist, he is fighting for (his) cattle. **NOTE**
+
+### Printed p. 813
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं क॒विं चो॑दयो॒ऽर्कसा॑त्॒ त्वं कुत्सा॑य॒ शुष्णं॑ दा॒शुषे॑  
+> वर्क् ।  
+> त्वं शिरो॑ अम॒र्मणः॒ परा॑हन्न तिथि॒ग्वाय॒ शंस्यं॑ करि॒ष्यन् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । कविं । चोदयः । अर्कसात् । त्वं । कुत्साय । शुष्णं । दाशुषे । वर्क् ।  
+> त्वं । शिरः । आमर्मणः । परा । अहन् । अतिथिग्वाय । शंस्यं । करिष्यन् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमर्कसातावन्नलाभार्थं कविं भार्गवमृषिं चोदयः । अचोदयः । प्रेरय । किंच हे इंद्र त्वं दाशुषे हविर्दत्तवते कुत्साय शुष्णमसुरं
+> वर्क् । छेदितवानसि ॥ वर्गिति वृणक्तेश्वेदनार्थस्य लुजि रूपं ॥ तथा त्वमतिथिग्वायातिथीनामभिगंत्रे दिवोदासाय शंस्यं स्तुत्यं सुखं करिष्यन् अमर्मणो
+> मर्महीनमात्मानं मन्यमानस्य शंबरस्य शिरः शीर्षं पराहन् । अवधीः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for the gain of food (अर्कसात् (*arkasāt*)) you urged on, that is, impelled, the sage Kavi, the Bhārgava seer. Moreover, O Indra, for Kutsa, who gave oblations, you cut down the asura Śuṣṇa (वर्क् (*vark*) means "you cut"). Likewise, wishing to bring about praiseworthy happiness for Atithigva, that is, for Divodāsa who goes to meet guests, you struck off the head of Śambara, who thought himself without a vital spot (अमर्मणः (*amarmaṇaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you
+- अर्कसात् (*arkasāt*)—in the battle that is for the gain of food
+- कविं (*kaviṃ*)—the Bhārgava seer
+- चोदयः (*codayaḥ*)—you urged on
+- त्वं (*tvaṃ*)—you
+- दाशुषे (*dāśuṣe*)—who offered oblation
+- कुत्साय (*kutsāya*)—for Kutsa
+- शुष्णं (*śuṣṇaṃ*)—the asura named Śuṣṇa
+- वर्क् (*vark*)—you cut
+- त्वं (*tvaṃ*)—you
+- अतिथिग्वाय (*atithigvāya*)—for Divodāsa, who honours guests
+- शंस्यं (*śaṃsyaṃ*)—praiseworthy happiness
+- करिष्यन् (*kariṣyan*)—wishing to bring about
+- अमर्मणः (*amarmaṇaḥ*)—of the asura Śambara, possessed of the conceit that he is invulnerable
+- शिरः (*śiraḥ*)—the head
+- पराहन् (*parāhan*)—you cut off
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the battle that is for the gain of food you urged on the Bhārgava seer. For Kutsa, who offered oblation, you cut down the asura named Śuṣṇa. Wishing to bring about praiseworthy happiness for Divodāsa, who honours guests, you cut off the head of the asura Śambara, who was possessed of the arrogant conceit that he is invulnerable.
+
+### Printed p. 814
+
+##### English translation
+You have animated the sage with (the hope of) obtaining food : you have cut to pieces Sushna for Kutsa, the donor of the oblation : you have struck off the head (of Sambara), imagining himself invulnerable, intending to give pleasure to Atithigvan.
+
+##### विशेषविषयगळु (Special Topics)
+
+Kutsa is explained on pp. 694–696 of this same part; Śuṣṇa on pp. 636 and 724; Divodāsa in Part 9, p. 467; Śambara on p. 687 of this part and in Part 5, p. 694; Part 8, p. 274; Part 10, p. 550.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं रथं॒ प्र भ॑रो यो॒धमृ॒ष्टमावो॒ युध्यं॑तं वृष॒भं  ॑
+> दशद्युं ।  
+> त्वं तुग्रं॑ वेत॒सवे॒ सचा॑ह॒न्त्वं तुजिं॑ गृ॒णंत॑मिंद्र तूतोः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । रथं । प्र । भरः । योधं । ऋष्टं । आवः । युध्यंतं । वृषभं । दशद्युं ।  
+> त्वं । तुग्रं । वेतसवे । सचा । अहन् । त्वं । तुजिं । गृणंतं । इंद्र । तूतोरिति  
+> तूतोः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं वृषभसंज्ञकाय राजे योधं युद्धसाधनमृष्टं महांतं
+> रथं प्र भरः । प्रापयः । अपि च युध्यंतं शत्रुभिः सह युद्धं कुर्वंतं दशद्युं
+> दश दिवसा युध्यतो यस्य गतास्तं वृषभमेतदाख्यं राजानमावः । युद्धादहीपलः । किंच त्वं वेतसव एतन्नाम्मे राज्ञे सचा सहायभूतः सन् तुग्रमसुरमहन् ।
+> हतवानसि । वेतसुर्नाम कश्चिदसुरः । अत्र तस्मादन्योऽसावुच्यते । यद्वा । वेतसव
+> इति तृतीयार्थे चतुर्थी । वेतसुनासुरेण सहितं तुग्रं हतवानसि । तथा च
+
+##### Gist of the bhāṣya
+
+O Indra, you brought (प्र भरः (*pra bharaḥ*), "you caused to reach") to the king called Vṛṣabha a great chariot, the means of battle (योधं (*yodhaṃ*)). Moreover, you protected the king named Vṛṣabha, who was fighting with enemies and for whom ten days of fighting had passed (दशद्युं (*daśadyuṃ*)). **NOTE** Further, you, being a helper to the king called Vetasu, slew the asura Tugra. Vetasu is the name of a certain asura; here the one spoken of is another than he. Or else, वेतसवे (*vetasave*) is a dative used in the sense of the instrumental: you slew Tugra together with the asura Vetasu. And so it is heard in another mantra:
+
+### Printed p. 815
+
+> मंत्रांतरे श्रूयते । अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च
+> रंधयं । ऋग्वे. १०-४९-४ । इति ॥ हे इंद्र त्वं गृणंतं त्वां स्तुवंतं तुजमेतदाख्यं राजानं तूतोः । अवर्धयः ॥
+
+##### Gist of the bhāṣya
+
+The mantra is quoted: अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रंधयं । (*ahaṃ piteva vetasūrabhiṣṭaye tugraṃ kutsāya smadibhaṃ ca raṃdhayaṃ |*) (Ṛgve. 10-49-4) **GLOSS** **NOTE**. O Indra, you made Tuja, the king of that name, who praises you, to grow (तूतोः (*tūtoḥ*) means "you made grow").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you
+- योधं (*yodhaṃ*)—that which is the means of battle
+- ऋष्ट्यं (*ṛṣṭyaṃ*)—and great
+- रथं (*rathaṃ*)—chariot
+- प्र भरः (*pra bharaḥ*)—provided, to the king named Vṛṣabha
+- दशद्युं (*daśadyuṃ*)—for ten days
+- युध्यंतं (*yudhyaṃtaṃ*)—fighting
+- वृषभं (*vṛṣabhaṃ*)—that same Vṛṣabha
+- आवः (*āvaḥ*)—you protected
+- त्वं (*tvaṃ*)—you
+- वेतसवे (*vetasave*)—to the king named Vetasu
+- सचा (*sacā*)—being a helper
+- तुग्रं (*tugraṃ*)—the asura named Tugra
+- आहन् (*āhan*)—you have slain
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- गृणंतं (*gṛṇaṃtaṃ*)—praising you
+- तुजं (*tujaṃ*)—the king named Tuja
+- तूतोः (*tūtoḥ*)—you made exalted
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you provided to the king named Vṛṣabha a chariot that is the means of battle and is great. You protected that same Vṛṣabha, who fought for ten days. Being a helper to the king named Vetasu, you slew for him the asura named Tugra. O Indra, you made exalted the king named Tuja, who praises you.
+
+##### English translation
+You have brought to Vrishabha a great war-chariot; you have protected him warring for ten days: you have slain Tugra along with Vetasu: you have exalted Tuji glorifying you.
+
+##### विशेषविषयगळु (Special Topics)
+
+वृषभं (*vṛṣabhaṃ*)—if the bhāṣyakāra explains it as the king named Vṛṣabha, who is this king? What is his story cannot be made out. शंबरं (*śaṃbaraṃ*)—his story is explained on p. 687 and in 5-694, 8-274, 10-550. दिवोदासं (*divodāsaṃ*)—his story too is explained in Ṛ. Saṃ. Part 9, p. 467.
+
+### Printed p. 816
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं तदु॒क्कमिं॑द्र ब॒र्हणा॑ कः॒ प्र यच्छ॒ता स॒हस्रा॑ शूर॒दर्षि॑ ।  
+> अव॑ गि॒रेर्दासं॒ शंब॑रं ह॒न्रावो॒ दिवो॑दासं चि॒त्राभि॑रू॒ती॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । तत् । उकथं । इंद्र । बर्हणा । करिति कः । प्र । यत् । शता । सहस्रा । शूर । दर्षि ।  
+> अव । गिरेः । दासं । शंबरं । हन् । प्र । अवः । दिवःसदासं । चित्राभिः । ऊती ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र बर्हणा बर्हणः शत्रूणां हिंसकस्त्वमुक्थं प्रशस्यं तत्कर्म कः ।
+> अकरोः । किं तत्कर्मेत्युच्यते । हे शूर वीरेंद्र त्वं शता शतानि सहस्रा सहस्राणि
+> च शंबरस्यानुचरान् भटान्द्र दर्षि। विदारितवानसि । तथा च निगमांतरे । अध्वर्यवो
+> यः शतं शंबरस्य । ऋग्वे. २-१४-६ । इति ॥ तथा त्वं दासं यज्ञादिकर्मणामुपक्षपयितारं गिरेः पर्वतान्निर्गतं शंबरमसुरमव हन् । अवावधीः । तथापि
+> श्रूयते । यः शंबरं पर्वतेषु क्षियंतं । ऋग्वे. २-१२-११ । इति । किंच
+> चित्राभिर्विचित्राभिरूती ऊतिभी रक्षाभिर्दिवोदासं राजानं प्रावः । प्रकर्षेण
+> पालयसि स्म ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, the destroyer of enemies (बर्हणा (*barhaṇā*)), have done that praiseworthy deed. What is that deed? O hero, you have torn apart hundreds and thousands of Śambara's followers, his warriors. **NOTE** So in another Nigama: अध्वर्यवो यः शतं शंबरस्य । (*adhvaryavo yaḥ śataṃ śaṃbarasya |*) (Ṛgve. 2-14-6) **GLOSS**. Likewise you slew the asura Śambara, the दासं (*dāsaṃ*), the destroyer of sacrifices and other rites, who had come out of the mountain. So it is also heard: यः शंबरं पर्वतेषु क्षियंतं । (*yaḥ śaṃbaraṃ parvateṣu kṣiyaṃtaṃ |*) (Ṛgve. 2-12-11) **GLOSS**. Moreover, with manifold protections you protected, that is, cherished in an excellent manner, the king Divodāsa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- बर्हणा (*barhaṇā*)—you, destroyer of enemies
+- त्वं (*tvaṃ*)—you
+- उक्तं (*uktaṃ*)—praiseworthy
+- तत् (*tat*)—many deeds
+- कः (*kaḥ*)—you have done
+- यत् (*yat*)—namely
+- शूर (*śūra*)—O valiant Indra
+- शता (*śatā*)—hundreds in number
+- सहस्रा (*sahasrā*)—thousands in number, of Śambara's followers
+- प्र दर्षि (*pra darṣi*)—you have torn apart
+- दासं (*dāsaṃ*)—the destroyer of rites, and
+- गिरेः (*gireḥ*)—one who came out of the mountain
+- शंबरं (*śaṃbaraṃ*)—the asura named Śambara
+- अवा हन् (*avā han*)—you have slain
+- चित्राभिः (*citrābhiḥ*)—of many kinds
+- ऊती (*ūtī*)—by protections
+- दिवोदासं (*divodāsaṃ*)—the king named Divodāsa
+- प्रावः (*prāvaḥ*)—you have protected
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the destroyer of enemies, have done many praiseworthy deeds. They are these: O valiant Indra, you have torn apart hundreds and thousands of Śambara's followers. You have slain the asura named Śambara, the destroyer of rites, who came out of the mountain. With protections of many kinds you have protected the king named Divodāsa.
+
 ---
 
-**Progress note:** Done through printed p. 810. Sūkta 25 Ṛks 5-9, Sūkta 26 intro and Ṛk 1 start (pp. 804-810)
+**Progress note:** Done through printed p. 816. Sukta 26 Rks 1-5 (pp. 811-816)
