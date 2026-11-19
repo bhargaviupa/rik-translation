@@ -29528,6 +29528,146 @@ In 1-35-1 there is an invocation of Mitra and Varuṇa along with the deities Ag
 
 Formerly, in the world, there was no division called day and night. Everything was unmanifest. Then the deities addressed Mitra and Varuṇa, saying "Make for us the division of day and night"; and when they had asked thus,
 
+### Printed p. 829
+
+Mitra created the day and Varuṇa the night, the sentence of the Taittirīya Saṃhitā declares. In the Ṛk-saṃhitā, at the time of praising Varuṇa:
+
+स क्षपः परिषस्वजे न्यु १ स्क्रो मायया दधे स विश्वं परि दर्शतः । (*sa kṣapaḥ pariṣasvaje nyu 1 skro māyayā dadhe sa viśvaṃ pari darśataḥ |*) (Ṛ. Saṃ. 8-41-3)
+
+This same Varuṇa, of beautiful form, embraces the night. By his power of māyā he creates the day and establishes everything in its own appointed place and time; thus he is praised. In the commentary on the mantra Ṛ. Saṃ. 7-87-1:
+
+"अस्तं गच्छन् सूर्य एव वरुण इत्युच्यते । स हि स्वगमनेनरात्रीर्ज (*astaṃ gacchan sūrya eva varuṇa ityucyate | sa hi svagamanenarātrīrja*)" Sāyaṇa explains that the name Varuṇa belongs to the Sun who has gone to his setting, and that he creates the night by his very going.
+
+अयं वै लोको मित्रः । आसौ वरुणः । (*ayaṃ vai loko mitraḥ | āsau varuṇaḥ |*) (Śa. Brā. 12-9-2-12)
+
+The Śatapatha Brāhmaṇa declares that this earth is Mitra and the heavenly world is Varuṇa. Thus the description of their qualities takes many forms.
+
+**The excellences of Mitra and Varuṇa**
+
+The special qualities of Mitra and Varuṇa, as described in the Ṛk-saṃhitā, are briefly set forth here. Of these two deities, Varuṇa is praised as one who at times can come within the sight of the sacrificer.
+
+"I saw with my own eyes Varuṇa, who is visible to all. I also saw with my own eyes his chariot standing on the earth." (Ṛ. Saṃ. 1-25-18)
+
+"When I obtained the sight of Varuṇa, his radiance was like the radiance of Agni." (7-88-2)
+
+"Varuṇa, of firm resolve and of great form, exercising sovereignty, sits at ease in his dwelling." (1-25-10)
+
+"While he stands clad in a golden mantle exercising sovereignty, his attendants or other deities stand all around him." (1-25-13)
+
+### Printed p. 830
+
+"The house that the sacrificers, the performers of sacrifice, enter and in which they worship Varuṇa in person has a thousand doors." (7-85-5)
+
+"In the firm house with a thousand supporting pillars the radiant Varuṇa dwells with Mitra. Both of them are of irresistible splendour" (राजाना (*rājānā*); अहृणीयमाना (*ahṛṇīyamānā*)) (2-41-5; 5-62-6)
+
+"These two, Mitra and Varuṇa, lords of the world, mount the excellent chariot drawn by horses, which at sunrise takes on a golden hue and at sunset changes to the form of iron, and set out on their journey." (5-62-8)
+
+"Mounting this chariot and travelling in the highest sky, the two survey all the heaven and earth completely." (5-62-4, 8; 5-62-1)
+
+"Varuṇa has wide-ranging eyes; therefore he is far-sighted." (1-25-5, 16.;8-90-2)
+
+"This same Varuṇa has a thousand eyes (सहस्रचक्षस् (*sahasracakṣas*))." (7-34-10)
+
+In some places Varuṇa is praised as having a golden-coloured messenger (हिरण्यपक्षं वरुणस्य दूतं (*hiraṇyapakṣaṃ varuṇasya dūtaṃ*)). (10-123-6)
+
+In some other places the Sun is described as the eye of Mitra and Varuṇa (चक्षुर्मित्रस्य वरुणस्य (*cakṣurmitrasya varuṇasya*)). (1-115-1; 7-63-1; 7-61-1; 10-37-1)
+
+Aryaman, who belongs to the group of Ādityas, and Mitra and Varuṇa together are in many places described as सूरचक्षसः (*sūracakṣasaḥ*). (For example 7-66-10)
+
+"Mitra and Varuṇa have hands fit for the most skilful action.
+
+"Varuṇa is designated in many places by the epithet राजा (*rājā*). He is lord of gods, men and all; the sovereign of the whole world." (1-24-7, 8; 4-1-2; 5-40-7; 7-64-1; 10-103-9; 10-173-5; 10-132-4)
+
+"त्वं विश्वेषां वरुणासि राजा ये च देवा असुर ये च मर्ताः (*tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ*)" (2-27-10)
+
+"Varuṇa is king of all the worlds (विश्वस्य भुवनस्य राजा (*viśvasya bhuvanasya rājā*))." (5-85-2)
+
+### Printed p. 831
+
+"Not only that, he is the emperor of all beings, moving and unmoving." (7-87-6; 1-25-10; 2-28-6; 5-85-1; 6-68-9; 8-42-1)
+
+"Just as epithets such as king and emperor are applied to Varuṇa individually, there are also many contexts in which they are applied to Mitra and Varuṇa both together." (1-70-9, 1-136-1, 4, 1-137-1, 5-62-6, 5-63-2, 3,5 ; 5-65-2, 5-68-2, 7-64-2, 8-23-30 ; 8-25-4, 7, 8 ; 8-101-2 ; 10-65-5).
+
+Extraordinary qualities such as power, warrior vigour and sovereignty are praised as the special qualities of Mitra and Varuṇa. Mitra and Varuṇa, together with the Ādityas, are renowned as Kṣatriyas. (1-24-6, 1-25-5, 1-10-6-1, 5-66-2, 5-67-1, 5-68-1, 7; 6-49-1, 6-51-10, 6-63-5,6 ; 7-34-11, 7-64-2, 8-25-8 ; 8-67-1, 8-101-2)
+
+Because they have these qualities they are also designated by the epithets रुद्राः असुराः (*rudrāḥ asurāḥ*) (असुरा तानार्या (*asurā tānāryā*)). Though they have divine qualities they are terrible. (5-70-2, 3 ; 7-36-2, 8-25-4, 8-27-20, 7-65-2.)
+
+The epithet असुर (*asura*), which denotes divine power, is applied mostly to Varuṇa (1-24-14, 2-27-10, 5-85.5, 6 ; 8-42-1), and in some places it is applied also to other deities.
+
+More than all the other epithets, the word माया (*māyā*) shows the most extraordinary quality of Varuṇa. In some places Varuṇa is denoted by the very word मायिन् (*māyin*) (6-48-14; 7-28-4 ; 10-90-10; 10-147-5). In one or two contexts Mitra and Varuṇa both are addressed as माया (*māyā*). (3-61-7 ; 5-63-4)
+
+By this asura power and by these powers of māyā the two send down rain and are upholders of their ordinances.
+
+**The nature of the association of Mitra and Varuṇa and their actions**
+
+The epithets that are used to show the greatness of Varuṇa are the very ones with which Mitra and Varuṇa are praised together.
+
+### Printed p. 832
+
+These two, Mitra and Varuṇa, hold up heaven and earth and are lords over them. As masters of the radiant heaven and earth, they have established the Sun in the sky." (5-62-3, 5-69-1, 4 ; 5-63-7, 6-67-5, 7-61-4, 10-132.2)
+
+These two, Mitra and Varuṇa, are protectors of all the worlds (विश्वस्य भुवनस्य गोपा (*viśvasya bhuvanasya gopā*)). (2-27-4, 5-62-9, 7-51-2, 8-25-1, 10-126-4)
+
+Obedient to the command of these two, Mitra and Varuṇa, the great sky also shines. (10-65-5)
+
+They themselves, as causers of rain, do good to the whole world. (5-62-3, 6-63-1 to 3)
+
+Their divinity surpasses the expanse of the heavenly world and the length of the rivers. (1-151-9)
+
+These two deities (together with Aryaman), just as they are attractive to the doers of good deeds, so, being opposed to evil deeds and an untruthful life, are of exceedingly terrible form to men who are of evil mind and speak untruth. (1-152-1, 7-66-13)
+
+They carry out their works in accordance with their firm resolves, which even the immortal gods cannot obstruct. (5-63-7, 5-69-4)
+
+These two, Mitra and Varuṇa, make even a man who is unwise and foolish become endowed with discernment. They are omniscient. (7-60-6, 7)
+
+As a herdsman watches his cattle, Mitra and Varuṇa survey all men from the sky and know their doings. (7-60-3, 9, 16)
+
+In many places they are described as true in nature, pure in spirit, and helpers of holy sacrificial acts. (ऋतावृधा, ऋतजाता, ऋतस्य गोपौ, ऋतावाना (*ṛtāvṛdhā, ṛtajātā, ṛtasya gopau, ṛtāvānā*)) (1-2-8; 1-23-5; 1-136-4; 2-27-4; 5-63-1, 5-65-2; 5-66-4; 7-64-2; 7-66-13; 8-23-30; 8-25-9)
+
+The two of them are lords of truth and masters of lights (यतस्य च्योतिषस्पती (*yatasya cyotiṣaspatī*)). (6-23-5)
+
+### Printed p. 833
+
+Mitra and Varuṇa, together with the other Ādityas, destroy sinful deeds and untruth. (2-27-4 ; 7.60-5)
+
+A man who neglects them without reciting their praise suffers in distress. (1-122-9)
+
+They are entreated, together with Aditi, for forgiveness of the sin committed through ignorance by the praisers. (2-27-14)
+
+They are prayed to, together with Aryaman, to make one free from sin. (10-12-6)
+
+The opinion of the German scholar Roth concerning the greatness of Mitra and Varuṇa.
+
+In the Journal of the German Oriental Society this scholar has stated his opinion concerning Mitra and Varuṇa in this way.
+
+"In the group of deities reckoned as the Ādityas, the relation of Mitra and Varuṇa is mutually close. The contexts in which Mitra and Varuṇa are praised together are more prominent than those in which Varuṇa alone is praised separately. There is only one sūkta praising Mitra. (3-59). Whichever of the two has his quality described, the epithets used are the same for both. But in some sentences of the Saṃhitā and other texts there are also contexts that explain the subtle difference between the two. Mitra is of the nature of light, shining in the sky as the source of the day. Varuṇa, though he shines as lord of all worlds and of all times in the form of radiance, is praised mostly as the presiding deity of the night. For example, in a mantra composed by the seer Vasiṣṭha he is praised thus: 'O Varuṇa, one of you two (you) are of irresistible power and a guide excellent for all. Mitra gives vigour to all creatures and impels them to their duty.'" (7—36—2)
+
+That is, the capacity and the sovereignty to bring delight and activity to the world, as the radiance of the day and giver of vigour to all beings, belong to Mitra. This is a limited authority. Even though Varuṇa is described as the presiding deity of the night, his sovereignty is all-pervading and for all time.
+
+"Even though there is a limited description of his nature such as 'Varuṇa is of the nature of the Sun that has gone to his setting' (7-87-1, Sā. Bhā. **NOTE**), there is truth in that as well. As his very name indicates, he is a special radiance pervading the sky. All existence in the world is contained within him, who is all-pervading.
+
+### Printed p. 834
+
+His nature is infinite. Neither the human eye nor mental imagination can comprehend such an infinite nature. This radiance, spread out most widely, cannot be reached by the eye in the time of the day. At night the veil that covered Varuṇa vanishes and his nature becomes known to some extent. Moreover, the other radiances pervading the sky, the cloud, and the space between heaven and earth also disappear. Therefore at this time Varuṇa alone, shining as the only one, becomes visible even to the eye."
+
+In the Taittirīya Saṃhitā the relation between the waters and Varuṇa is stated thus.
+
+अपो वरुणस्य पत्नय असन्ता अग्निरभ्यध्यायत्तास्समभवत्तस्य रेतः परापतत्तदियमभवद्यद्वितीयं परापतत्तदसावभवदियं वै विराडसौ स्वराट् । (*apo varuṇasya patnaya asantā agnirabhyadhyāyattāssamabhavattasya retaḥ parāpatattadiyamabhavadyadvitīyaṃ parāpatattadasāvabhavadiyaṃ vai virāḍasau svarāṭ |*) (Tai. Saṃ. 5-5-4-1.)
+
+The waters are the wives of Varuṇa. Agni desired them and also obtained union with them; his seed was shed; as a result of the first shedding, this earth came into being. As a result of the second shedding the sky came into being. It says that this earth is the Virāṭ and the sky is the Svarāṭ. In the Purāṇas and elsewhere Varuṇa is praised as the lord of the oceans.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतेन ऋतमिति नवर्चं षष्ठं सूक्तमात्रेयस्य श्रुतविद आर्षं त्रैष्टुभं
+> मैत्रावरुणं । तथा चानुक्रम्यते । ऋतेन नव श्रुतविन्मैत्रावरुणं वै तदिति ।
+> वै तदित्युभयोः प्रयोगात्तुह्यादिपरिभाषयैतदादीन्ैकादश सूक्तानि मित्रावरुणदेवत्यानि ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa states that the sixth sūkta, of nine Ṛks, beginning ऋतेन ऋतं (*ṛtena ṛtaṃ*), has Śrutavid Ātreya as seer, the metre Triṣṭubh, and Mitra and Varuṇa as deities. He then cites the Anukramaṇī: तथा चानुक्रम्यते । ऋतेन नव श्रुतविन्मैत्रावरुणं वै तदिति । (*tathā cānukramyate | ṛtena nava śrutavinmaitrāvaruṇaṃ vai taditi |*) By the use of the words वै तदिति (*vai taditi*) in both, and by a rule of interpretation (paribhāṣā), the eleven sūktas beginning with this one are addressed to Mitra and Varuṇa as deity. The application is by indication (लैंगिकः (*laiṃgikaḥ*)).
+
+Translation: This sūkta beginning ऋतेन ऋतं (*ṛtena ṛtaṃ*) is the sixth sūkta in the fifth anuvāka. It has nine Ṛks. The seer of this sūkta is श्रुतविदात्रेयः (*śrutavidātreyaḥ*); the deity is Mitra and Varuṇa; the metre is Triṣṭubh. In the Anukramaṇī it is stated in this way. From the use in that sentence of words such as वै तत् (*vai tat*), it should be understood that this sūkta and the eleven sūktas that follow are addressed to Mitra and Varuṇa as deity. The application is by indication.
+
 ---
 
-**Progress note:** Done through printed p. 828. Sūkta 61 Ṛk 17 end, Ṛk 18, 19; Sūkta 62 introduction (Mitra-Varuṇa)
+**Progress note:** Done through printed p. 834. Sūkta 62 introduction (Mitra-Varuṇa) end; Sūkta 62 heading and bhāṣya
