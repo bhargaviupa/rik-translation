@@ -142,6 +142,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 19 2026: supplied text of Vol 2 complete (file 1, pp. 2–385, added; whole volume pp. 2–808).
 - Nov 19 2026: supplied text of Vol 6, files 2 and 3 (pp. 83–619), put in `vol6/html/`; file 1 (pp. 1–82) still wanted.
 - Nov 19 2026: supplied text of Vol 4 (whole volume, pp. 2–608) put in `vol4/html/`.
 - Nov 18 2026: the two supplied HTML files (Vol 1 file 2, Vol 3 file 1) converted to markdown at the user's request; the page splitter reads pandoc's header marks. Vol 2 pp. 1–385 still wanted (the file uploaded twice as `rig_2_1.md` is of another volume: Maṇḍala 6–7, pp. 389–841).
