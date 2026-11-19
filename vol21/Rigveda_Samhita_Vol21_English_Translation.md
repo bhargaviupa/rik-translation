@@ -26279,6 +26279,335 @@ Men generate the excellent, far-gleaming master of the mansion, the accessible A
 
 Dīdhitayaḥ means aṅgulis, fingers; whatever work or activity people have to do, they do it using the fingers, that is, only with the help of the fingers. Because Agni is latent within the araṇis (the two pieces of wood used for producing fire), that is, because by placing these araṇis one upon the other and churning them Agni comes out of the araṇis, and because Agni is produced in the araṇis, it is held that before being so produced Agni is latent in the araṇis themselves. After the araṇis are churned, Agni becomes manifest, visible to all. The ṛtviks, using their fingers and applying force to the araṇis and churning, produce Agni. Agni, who was hidden in the middle of the araṇis, becomes visible to all after the churning. The fingers of the hands, backwards and
 
+### Printed p. 620
+
+forwards, making them move and churning, is called हस्तच्युती (*hastacyutī*) or हस्तप्रच्युत्या (*hastapracyutyā*). This Agni, visible to all from afar, is praised. He is the lord of the house, or of the house of sacrifice, and exceedingly swift, that is, he has the power to spread everywhere in a moment. Or else he is one who is easily approached by priests and other people: this is the main purport of the etymology.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॒ग्नि मस्ते॒ वस॑वो॒ न्यृ॑ण्वन्तु प्रति॒ चक्ष॒मव॑से॒ कुत॑श्चित् ।  
+> द॒क्षायो॒ यो दम॒ आस॒ नित्यः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अग्निं । आस्ते । वसवः । नि । ऋण्वन् । सुप्रतिचक्षं । अवसे । कुतः । चित् ॥  
+> दक्षाय्यः । यः । दमे । आस । नित्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योग्निर्दमे गृहे दक्षाय्यः पूजनीयो हविर्भिः समर्धनीयो वा
+> नित्योऽजस्र आस बभूव तं सुप्रतिचक्षं सुप्रतिदर्शनमग्निं कुतश्चित् सर्वस्मादपि
+> भयहेतोरवसे रक्षणाय वसवो वासका ये वसिष्ठा आस्ते गृहे नृण्वन् ।
+> न्यदधुः ॥
+
+##### Gist of the bhāṣya
+
+The Agni who, in the house, दमे (*dame*), is दक्षाय्यः (*dakṣāyyaḥ*), to be honoured, or to be made to grow by oblations, and who is नित्यः (*nityaḥ*), constant, unceasing, who has been so (आस (*āsa*), that is, बभूव (*babhūva*)): that Agni, सुप्रतिचक्षं (*supraticakṣaṃ*), of fair appearance, the Vasus, वसवः (*vasavaḥ*), the dwellers, who are the Vasiṣṭhas, have set in their house, आस्ते (*āste*), नृण्वन् (*nṛṇvan*), that is, they placed him, for protection, अवसे (*avase*), against any cause of fear whatever, कुतश्चित् (*kutaścit*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- दमे (*dame*)—in the house of sacrifice
+- दक्षाय्यः (*dakṣāyyaḥ*)—venerable
+- नित्यः (*nityaḥ*)—of everlasting state, being such
+- आस (*āsa*)—is
+- सुप्रतिचक्षं (*supraticakṣaṃ*)—of attractive appearance
+- तं अग्निं (*taṃ agniṃ*)—that Agni
+- कुतश्चित् (*kutaścit*)—from all the dangers that may occur
+- अवसे (*avase*)—for protection
+- वसवः (*vasavaḥ*)—the dwelling Vasiṣṭhas
+- अस्ते (*aste*)—in their house
+- नृण्वन् (*nṛṇvan*)—have established
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who is venerable in the house and of everlasting state, that same Agni of attractive form, the dwelling Vasiṣṭhas have established in their house in order to protect themselves from all the dangers that may befall them.
+
+##### English translation
+The dwellers have placed in the mansion, for its constant protection, that visible Agni, who has been from ever, who is to be honoured in every house.
+
+### Printed p. 621
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेद्धो॑ अग्ने दीदिहि पु॒रो नोऽज॑स्रया सू॒र्य्या॑ यविष्ठ ।  
+> त्वां शश्वं॑त॒ उप॑ यंति॒ वाजाः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रइद्धः । अग्ने । दीदिहि । पुरः । नः । अजस्रया । सूर्य्या । यविष्ठ ।  
+> त्वा । शश्वंतः । उप । यंति । वाजाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यविष्ठ युवतम हे अग्ने प्रेद्धः प्रकर्षेण समिद्धस्त्वमजस्रयाशरणशीलया सूर्मा ज्वालाया नोऽस्मदर्थं पुरः पुरस्तादाहवनीयायातने दीदिहि ।
+> दीप्यस्व । त्वां शश्वंतो बहवो वाजा अन्नानि हवींष्टुप यंति । उपगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+O यविष्ठ (*yaviṣṭha*), youngest, युवतम (*yuvatama*), Agni, you who are kindled intensely, प्रेद्धः (*preddhaḥ*), with a flame सूर्मा (*sūrmā*), that is, ज्वालाया (*jvālāyā*), which is त्वमजस्रयाशरणशीलया (*tvamajasrayāśaraṇaśīlayā*), shine, दीदिहि (*dīdihi*), that is, blaze, for us, नोऽस्मदर्थं (*no 'smadarthaṃ*), in front, पुरः (*puraḥ*), at the Āhavanīya site, पुरस्तादाहवनीयायातने (*purastādāhavanīyāyātane*). To you many, शश्वंतो बहवो (*śaśvaṃto bahavo*), वाजाः (*vājāḥ*), foods, that is, oblations, approach, उप यंति (*upa yaṃti*), go near.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—exceedingly youthful
+- अग्ने (*agne*)—O Agni
+- प्रेद्ध? (*preddha?*)—you who are exceedingly kindled
+- अजस्रया (*ajasrayā*)—undecaying, constant
+- सूर्मान्य (*sūrmānya*)—with flame
+- नः (*naḥ*)—for us
+- पुरः (*puraḥ*)—in the Āhavanīya pit established in front
+- दीदिहि (*dīdihi*)—shine
+- शश्वंतः (*śaśvaṃtaḥ*)—of many kinds
+- वाजाः (*vājāḥ*)—foods
+- त्वां (*tvāṃ*)—you
+- उपयंति (*upayaṃti*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, exceedingly youthful, you who are exceedingly kindled, shine for us, with undecaying, constant flame, in the Āhavanīya pit established in front. Many kinds of oblations approach you.
+
+##### English translation
+Well-kindled, youthful Agni, shine before us with undecaying radiance : to you abundant sacrificial viands proceed.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते अ॒ग्नयो॒ऽग्निभ्यो॒ वरं॒ निः सु॒वीरा॑सः शोशुचंत  ॒॑
+> द्युमंतः ।  
+> यत्रा॒ नरः॑ स॒मास॑ते सुजा॒ताः ॥ ४ ॥
+
+### Printed p. 622
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । अग्नयः । अग्निभ्यः । वरं । निः । सुवीरासः । शोशुचंत । द्युमंतः ।  
+> यत्र । नरः । संआसते । सुजाताः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निभ्यो लौकिकेभ्योऽग्निभ्यो वरमत्यंतं द्युमंतो दीप्तिमंतः सुवीरासः कल्याणपुत्रपौत्रप्रदास्तेऽग्नयो प्र निः शोशुचंत । प्रकर्षण नितरां
+> दीप्यंते । यत्र येष्वग्निषु सुजाताः सुजन्मानो नरः कर्मणां नेतारो यजमाना ऋत्विजो वा समासते सहासते ॥
+
+##### Gist of the bhāṣya
+
+Than the ordinary fires, लौकिकेभ्योऽग्निभ्यो (*laukikebhyo 'gnibhyo*), exceedingly, वरमत्यंतं (*varamatyaṃtaṃ*), radiant, द्युमंतो दीप्तिमंतः (*dyumaṃto dīptimaṃtaḥ*), bestowers of good sons and grandsons, सुवीरासः (*suvīrāsaḥ*), those fires shine forth, प्र निः शोशुचंत (*pra niḥ śośucaṃta*), that is, they blaze exceedingly. यत्र (*yatra*), in which fires, the well-born, सुजाताः (*sujātāḥ*), those of good birth, the leaders, नरः (*naraḥ*), of the rites, that is, the sacrificers or the priests, sit together, समासते (*samāsate*), that is, are seated together.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in front of which fires
+- सुजाताः (*sujātāḥ*)—of excellent birth
+- नरः (*naraḥ*)—the sacrificers and the priests
+- समासते (*samāsate*)—(for worship) assemble together
+- ते आग्नयः (*te āgnayaḥ*)—those sacrificial fires
+- अग्निभ्यः (*agnibhyaḥ*)—than ordinary fires
+- वरं (*varaṃ*)—exceedingly
+- द्युमंतः (*dyumaṃtaḥ*)—radiant
+- सुवीरासः (*suvīrāsaḥ*)—as bestowers of excellent sons
+- प्र निः शोशुचंत (*pra niḥ śośucaṃta*)—shine exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificial fires in front of which the sacrificers and priests of excellent birth assemble together for worship shine exceedingly, more radiant and more bountiful as bestowers of excellent sons than the ordinary fires.
+
+##### English translation
+Those radiant fires, at which the well-born sacrificers assemble, shine more brightly, and are more bountiful bestowers of progeny (and other blessings), than the fires (of common life).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दा नो॑ अग्ने धि॒या र॒यिं सु॒वीरं॑ स्वप॒त्यं स॑हस्य प्रश॒स्तं ।  
+> न यं यावा॒ तर॑ति यातु॒मावा॑न् ॥ ५ ॥
+
+### Printed p. 623
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दाः । नः । अग्ने । धिया । रयिं । सुवीरं । सुअपत्यं । सहस्य । प्रशस्तं ।  
+> न । यं । यावा । तरति । यात्युमावान् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहास्याभिभवकुशल हे अग्ने सुवीरं शोभनपुत्रपौत्रोपेतं स्वपत्यं शोभनपौत्रोपेतं प्रशस्तं श्रेष्ठं रयिं धनं धिया स्तोत्रेण नोऽस्मभ्यं दाः । देहि ।
+> यं रयिं यावाभिगंता शत्रुर्यातुमावान् हिंसाया निर्गतः ॥ नलोपाभावश्चांदसः ॥ यद्वा । हिंसायुक्तः ॥ परो वतिर्मत्पर्थीयः पूरकः ॥ न तरति न बाधते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, सहस्य (*sahasya*), skilled in overcoming, give, दाः (*dāḥ*), that is, देहि (*dehi*), to us, नोऽस्मभ्यं (*no 'smabhyaṃ*), through praise, धिया स्तोत्रेण (*dhiyā stotreṇa*), wealth, रयिं धनं (*rayiṃ dhanaṃ*), सुवीरं (*suvīraṃ*), accompanied by good sons and grandsons, स्वपत्यं (*svapatyaṃ*), accompanied by good grandsons, प्रशस्तं (*praśastaṃ*), excellent, which wealth, यं रयिं (*yaṃ rayiṃ*), an enemy who comes against us, यावाभिगंता शत्रुर्यातुमावान् (*yāvābhigaṃtā śatruryātumāvān*), given to violence, does not overcome, न तरति (*na tarati*), that is, न बाधते (*na bādhate*), does not obstruct.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्य (*sahasya*)—possessed of the power to defeat enemies
+- आग्ने (*āgne*)—O Agni
+- यं (*yaṃ*)—which wealth
+- यातुमावान् (*yātumāvān*)—violent
+- यावा (*yāvā*)—and attempting to carry off, the enemy
+- न तरति (*na tarati*)—cannot carry off, such
+- सुवीरं (*suvīraṃ*)—accompanied by heroic sons
+- स्वपत्यं (*svapatyaṃ*)—accompanied by excellent grandsons and others
+- प्रशस्तं (*praśastaṃ*)—excellent
+- रयिं (*rayiṃ*)—wealth
+- धिया (*dhiyā*)—as a reward for our praises
+- नः (*naḥ*)—to us
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, possessed of the power to defeat enemies, give us, as a reward for our praises, wealth which a violent enemy who tries to carry it off cannot carry off, wealth accompanied by heroic sons, accompanied by excellent grandsons and others, and excellent.
+
+##### English translation
+Vigorous Agni, graut to us, (in requital) of our praises, excellent riches, worthy male offspring, and descendants : (wealth), which an enemy attempting to assail, may not despoil.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॒ यमेति॑ युव॒तिः सु॒दक्षं॑ दो॒षा वस्तो॑र्ह॒विष्म॑ती  ॒॑
+> घृताची ।  
+> उप॒ स्वैन॑म॒रम॑तिर्वसू॒युः ॥ ६ ॥
+
+### Printed p. 624
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । यं । एति । युवतिः । सुदक्षं । दोषा । वस्तोः । हविष्मती । घृताची ।  
+> उप । स्वा । एनं । अरमतिः । वस्तुयुः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुदक्षं सुबलं यमग्निं हविष्मती हविषा युक्ता घृताची । घतमंचतीति
+> घृताची जुहूः । युवतिरग्निना नित्ययुक्ता दोषा वस्तो रात्रावहनि चोपैति
+> उपगच्छति तमेनं स्वा स्वकीयारमतिर्दिप्तिर्वसूयुः स्तोत्थणां धनमिच्छंत्युपैति ॥
+
+##### Gist of the bhāṣya
+
+The youthful (ladle), युवतिः (*yuvatiḥ*), constantly joined to Agni, which is हविष्मती (*haviṣmatī*), provided with oblation, and घृताची (*ghṛtācī*), that is, the Juhū, approaches, चोपैति (*copaiti*), by night and by day, दोषा वस्तो (*doṣā vasto*), that Agni, सुदक्षं (*sudakṣaṃ*), of good strength; and his own radiance, स्वा स्वकीयारमतिर्दिप्तिर्वसूयुः (*svā svakīyāramatirdiptirvasūyuḥ*), which desires wealth for the praisers, also approaches him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदक्षं (*sudakṣaṃ*)—exceedingly powerful
+- यं (*yaṃ*)—which Agni
+- हविष्मती (*haviṣmatī*)—provided with oblation
+- धृताची (*dhṛtācī*)—full of ghee
+- युवतिः (*yuvatiḥ*)—youthful, the Juhū vessel
+- दोषा वस्तोः (*doṣā vastoḥ*)—throughout night and day
+- उप एति (*upa eti*)—approaches to offer oblation
+- एनं (*enaṃ*)—that same Agni
+- स्वा (*svā*)—own
+- अरमतिः (*aramatiḥ*)—radiance
+- वसूयुः (*vasūyuḥ*)—with the desire to provide wealth for the praisers
+- उप (एति) (*upa (eti)*)—approaches
+
+##### भावार्थ (Bhāvārtha)
+
+The exceedingly powerful Agni whom the Juhū vessel, provided with oblation, full of ghee, and youthful, approaches throughout night and day to offer oblation, that same Agni his own radiance approaches, with the desire to provide wealth for the praisers.
+
+##### English translation
+Whom vigorous, the young damsel (the ladle) chargad with the oblation, presenting the melted butter, day and night approaches; him his own lustre approaches, favourable to (the bestowal of) wealth.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑ अ॒ग्नेऽप॑ द॒हारा॑ती॒येभि॒स्तपो॑भि॒रद॑हो॒ जरू॑थं ।  
+> प्र नि॑स्व॒रं चा॑तय॒स्वामी॑वां ॥ ७ ॥
+
+### Printed p. 625
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वाः । अग्ने । अप । दह । अरातीः । येभिः । तपःऽभिः । अदहः । जरूथं ।  
+> प्र । निस्वरं । चातॆयस्व । अमीवां ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विश्वा विश्वासरातीः शत्रुन् तपोभिस्तेजोभिरप दह । येभिर्य्यस्तपोभिर्जरूथं परुषशब्दकारिणं राक्षसं ॥ गृणातेरूथन्प्रत्यये सति जरूथशब्दनिष्पत्तिः ॥ अदहः दहसि । किंचामिमावां रोगं निस्वरं न्यकृतोपतापं यथा भवति
+> तथा ॥ स्वृ शब्दोपतापयोरिति धातुः ॥ प्र चातयस्व । प्रकर्षेण नाशय ॥ चततिर्गत्यर्थो वेति भट्टभास्करमिश्रः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, burn away, अप दह (*apa daha*), all, विश्वा (*viśvā*), the enemies, विश्वासरातीः शत्रुन् (*viśvāsarātīḥ śatrun*), with the glowing fires, तपोभिस्तेजोभिरप (*tapobhistejobhirapa*), with which you burned, अदहः (*adahaḥ*), the जरूथं (*jarūthaṃ*), the demon who makes a harsh sound, परुषशब्दकारिणं राक्षसं (*paruṣaśabdakāriṇaṃ rākṣasaṃ*). Further, destroy the disease, किंचामिमावां रोगं (*kiṃcāmimāvāṃ rogaṃ*), in such a way that its affliction is brought low, निस्वरं (*nisvaraṃ*). प्र चातयस्व (*pra cātayasva*) means: destroy thoroughly, प्रकर्षेण नाशय (*prakarṣeṇa nāśaya*); or, says Bhaṭṭabhāskara Miśra, the root in चततिर्गत्यर्थो (*catatirgatyartho*) has the sense of going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- येभिः (*yebhiḥ*)—by which of your radiances
+- जरूथं (*jarūthaṃ*)—the asura who makes a distorted sound
+- अदहः (*adahaḥ*)—you burned
+- तपोभिः (*tapobhiḥ*)—by those same radiances
+- विश्वाः (*viśvāḥ*)—all
+- आरातीः (*ārātīḥ*)—enemies too
+- अप दह (*apa daha*)—burn
+- अमीवां (*amīvāṃ*)—disease
+- निस्वरं (*nisvaraṃ*)—so that all its strength shrinks
+- प्र चातयस्व (*pra cātayasva*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, with those same radiances of yours with which you burned the asura who makes a distorted sound, burn all the enemies too. Destroy the disease so that all its strength shrinks.
+
+##### English translation
+Consume, Agni, all enemies ; with the same flames with which you have consumen Jarutha, drive away febrile disease.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यस्ते॑ अग्न इध॒ते अने॑कं॒ वसि॑ष्ठ॒ शुक्र॒ दीदि॑वः॒ पाव॑क ।  
+> उ॒तो न॑ ए॒भिः स्त॒वथै॑रि॒ह स्याः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 626
+
+> आ । यः । ते । अग्ने । इधते । अनेकं । वसिष्ठ । शुक्र । दीदिवः । पावक ।  
+> उतो इति । नः । एभिः । स्तवथैः । इह । स्याः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसिष्ठ श्रेष्ठ शुक्र शुभ्र दीदिवो दीप्त पावक शोधक हे अग्ने ते तवानीकं
+> तेजो य एधते समेधयति तस्येव नोऽस्माकमुतो अपि चैभिः स्तवथैः स्तोत्रैरिहास्मिन्यज्ञे स्याः । भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, वसिष्ठ (*vasiṣṭha*), most excellent, शुक्र (*śukra*), bright, दीदिवः (*dīdivaḥ*), radiant, पावक (*pāvaka*), purifier: whoever kindles, एधते (*edhate*), that is, समेधयति (*samedhayati*), your blaze, तेजो (*tejo*), for him, and also for us, with these praises, in this sacrifice, नोऽस्माकमुतो अपि चैभिः स्तवथैः स्तोत्रैरिहास्मिन्यज्ञे (*no 'smākamuto api caibhiḥ stavathaiḥ stotrairihāsminyajñe*), be present, स्याः (*syāḥ*), that is, भव (*bhava*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसिष्ठ (*vasiṣṭha*)—most excellent
+- शुक्र (*śukra*)—of bright hue
+- दीदिवः (*dīdivaḥ*)—radiant
+- पावक (*pāvaka*)—purifier
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- अनेकं (*anekaṃ*)—blaze
+- यः (*yaḥ*)—the sacrificer who
+- आ इधते (*ā idhate*)—makes blaze up, for him also
+- उतो (*uto*)—and
+- विभिःस्तवथैः (*vibhiḥstavathaiḥ*)—who praise with these praises
+- नः (*naḥ*)—for us
+- इह (*iha*)—in this sacrifice
+- स्याः (*syāḥ*)—be established
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, most excellent, of bright hue, radiant, purifier: for the sacrificer who makes your blaze burn up, and for us who praise you with these praises, be established in this sacrifice.
+
+##### English translation
+Eminent, pure, radiating purifier, Agni, be present (at the sacrifice) of him who lights up your blaze, and at ours, (who address you) with these praises.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि ये ते॑ अग्ने भेजि॒रे अने॑कं॒ मर्ता॒ नरः॒ पित्र्या॑सः पुरु॒त्रा ।  
+> उ॒तो न॑ ए॒भिः सु॒मना॑ इ॒ह स्याः॑ ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 619. Vol 21 Maṇḍala 6 pīṭhikā end; Maṇḍala 7 Sūkta 1 introduction, Ṛk 1
+**Progress note:** Done through printed p. 626. Vol 21 Maṇḍala 7 Sūkta 1, Ṛks 2-9 (saṃhitā of 9)
