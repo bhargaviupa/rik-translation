@@ -26980,6 +26980,320 @@ This is the Agni invoked in many places: whom the prince, presenting oblations t
 > त्वे अ॑ग्न आ॒हव॑नानि॒ भूरी॑शा॒नास॒ आ जु॑हुयाम॒ नित्या॑ ।  
 > उ॒भा कृ॒ण्वंतो॑ वह॒तू मि॒येधे॑ ॥ १७ ॥
 
+### Printed p. 635
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । अग्ने । आहवनानि । भूरि । ईशानासः । आ । जुहुयाम । नित्या ।  
+> उभा । कृण्वंतः । वहतू इति । मियेधे ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वे त्वयीशानासो धनानामीश्वराः संतो नित्या नित्यान्यग्निहोत्रादीन्युभोभौ वहतू वहनहेतू स्तोत्रं शस्त्रं च कृण्वंतः कुर्वंतो मियेधे
+> यज्ञे भूरि बहून्याहवनानि हवींष्या जुहुयाम । आजुहवाम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, we who are lords of wealth, performing in you the stotra and the śastra, the two means of bearing you to the sacrifice, shall offer many oblations in the sacrifice, along with the perpetual rites such as the Agnihotra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ईशानासः (*īśānāsaḥ*)—we, the lords of wealth
+- नित्या (*nityā*)—constantly, the Agnihotra and the other rites
+- वहतू (*vahatū*)—fit to bear you
+- उभा (*ubhā*)—the praises in the form of śastra and stotra
+- कृण्वंतः (*kṛṇvaṃtaḥ*)—offering
+- मियेधे (*miyedhe*)—in the sacrifice
+- त्वे (*tve*)—in you alone
+- भूरि (*bhūri*)—abundant
+- आहवनानि (*āhavanāni*)—oblations
+- आ जुहुयाम (*ā juhuyāma*)—we shall offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we, the lords of wealth, offering every day in the Agnihotra and the other rites the praises in the form of śastra and stotra that are fit to bear you, shall offer abundant oblations in the sacrifice in you alone.
+
+##### English translation
+To you, Agni. may we, who are of exalted rank, offer many perpetual oblations. (employing) means, (prayer and praise), attracting you to the sacrifice.
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मो अ॑ग्ने वी॒तत॑मानि ह॒व्याज॑स्रो वक्षि दे॒वता॑ति॒मच्छ॑ ।  
+> प्रति॑ न ईं सुर॒भीणि॑ व्यंतु ॥ १८ ॥
+
+### Printed p. 636
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमो इति । अग्ने । वीततमानि । हव्या । अजस्रः । वक्षि । देवतातिं । अच्छ ।  
+> प्रति । नः । ईं । सुरभीणि । व्यंतु ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमजस्रोऽनवरतः सन् इमो इमानि वीततमान्यतिशयेन कांतानि
+> हव्या हह्यानि देवतातिं देवानां समूहमभि वक्षि । वह । अच्छ गच्छ च । नोऽस्मदीयानि सुरभीणि शोभनानीमेतानि हव्यानि देवाः प्रति व्यंतु । प्रत्येकं
+> कामयंतां ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, you, being unceasing, carry these most delightful oblations to the assemblage of the gods and go to them. May the gods each desire these fragrant, excellent oblations of ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अजस्रः (*ajasraḥ*)—you, the eternal
+- वीततमानि (*vītatamāni*)—exceedingly radiant
+- इमो हव्या (*imo havyā*)—these oblations
+- देवतातिं अच्छ (*devatātiṃ accha*)—to the assemblage of the gods
+- वक्षि (*vakṣi*)—carry
+- नः (*naḥ*)—offered by us
+- सुरभीणि (*surabhīṇi*)—fragrant
+- ईं (*īṃ*)—these oblations
+- प्रति व्यंतु (*prati vyaṃtu*)—may all the gods partake of them severally
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you, the eternal, carry these most radiant oblations to the assemblage of the gods. May all the gods severally partake of these fragrant oblations offered by us.
+
+##### English translation
+Do you, who are imperishable, bear these most acceptable oblations to the presence of the assembly of the gods ; and may our fragrant (offering) gratify them severally.
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ अग्ने॒ऽवीर॑ते॒ परा॑ दा दु॒र्वास॒सेऽम॑तये॒ मा नो॑  ॒
+> अस्मै ।  
+> मा नः॑ क्षु॒धे मा र॒क्षस॑ ऋतावो॒ मा नो॒ दमे॒ मा वन॒  ॑
+> आ जुहूर्थाः ॥ १९ ॥
+
+### Printed p. 637
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । अग्ने । अवीरते । परा । दाः । दुःवाससे । अमतये । मा । नः । अस्मै  
+> मा । नः । क्षुधे । मा । रक्षसे । ऋतवः । मा । नः । दमे । मा । वने । आ ।  
+> जुहूर्थाः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मानवीरतेऽपुत्रताय्कॆ मा परा दाः । मा देहि । दुर्वाससे
+> दुष्टवस्त्राय च नो मा परा दाः। अस्या अमतयेऽभिहानै नोऽस्मान्मा परा दाः।
+> क्षुधेशनायाय्कॆ नोऽस्मान्मा च परा दाः । रक्षसे बलिने चास्मान्मा परा दाः । हे
+> ऋतावः सत्यवन्नग्ने नोऽस्मान् दमे गृहे मा जुहूर्थाः मा हिंसीः ॥ हुर्भा
+> कौटिल्य इति धातुः ॥ वने चास्मान्मा जुहूर्थाः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, do not give us over to childlessness, nor to wretched clothing, nor to this want; the word he glosses is damaged here. **NOTE** Do not give us over to hunger, nor to the strong one, the Rakṣas. O truthful Agni, do not harm us in the house, nor in the forest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—us
+- अवीरते (*avīrate*)—to the state of being without sons
+- मा परा दाः (*mā parā dāḥ*)—do not give up
+- दुर्वाससे (*durvāsase*)—do not make us wear worn-out garments
+- नः (*naḥ*)—us
+- अस्यॆ अमतये (*asyè amataye*)—also to the destructive state
+- मा (*mā*)—do not give occasion
+- क्षुधे (*kṣudhe*)—to the distress of hunger
+- नः (*naḥ*)—us
+- मा (*mā*)—do not give up
+- रक्षसे (*rakṣase*)—to this Rākṣasa
+- मा (*mā*)—do not give up
+- ऋतावः (*ṛtāvaḥ*)—O truthful Agni
+- नः (*naḥ*)—us
+- दमे (*dame*)—in the house
+- मा आ जुहूर्थाः (*mā ā juhūrthāḥ*)—do not harm
+- वने (*vane*)—in the forest also
+- मा (*mā*)—do not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, do not give us up to the state of being without sons. Do not make us wear worn-out garments. Do not put us in a destructive state, and do not make us fall into the distress of hunger. Do not give us up to this Rākṣasa either. O truthful Agni, do not harm us, whether in the house or in the forest.
+
+##### English translation
+Relinquish us not, Agni. to the want of male offspring : nor to deficient clothing : nor to such destruction : leave us not to hunger, nor to the Rakshasas : expose us not, observer of truth, to evil, whether in the house or in the forest.
+### Printed p. 638
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू मे॒ ब्रह्मा॑ण्यग्न॒ उच्छ॑शाधि॒ त्वं दे॑व म॒घव॑द्भ्यः सुषूदः ।  
+> रा॒त् स्या॑मो॒भया॑स॒ आ ते॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मे । ब्रह्माणि । अग्ने । उत् । शशाधि । त्वं । देव । मघवत्भ्यः । सुसूदः ।  
+> रातौ । स्याम । उभयासः । आ । ते । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मे मम मदर्थं ब्रह्माण्यन्नानि नु क्षिप्रमुच्छशाधि । उत्कर्षेण
+> शोधितानि कुरु । किंच हे देव द्योतमानाग्ने मघवद्योऽस्मभ्यं सुषूदः ।
+> अन्नानि प्रेरय । ते त्वदीयायां रात् दान उभयासः स्तोत्रिणः, शस्त्रिणश्च
+> अथवा स्तुवंतो यजमानश्च वयमा स्याम । अत्यर्थं भवेम । नोऽस्मान्न्यूयं
+> त्वत्परिवाराश्च सर्वॆ स्वस्तिभिरविनाशिभिर्मंगलैः । तथा च यास्कः । स्वस्तीत्यविनाशनामास्तिरभिपूजितः स्वस्तिति । नि. ३-२१ । सदा पात । रक्षश ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, quickly make the foods for me thoroughly purified. Further, O shining Agni, impel foods to us who are possessed of wealth. In your gift may we, the praisers and the reciters of śastra, or the praisers and the sacrificer, be abundantly shared. May you and your attendants, all of you, always protect us with imperishable blessings. As Yāska says: स्वस्तीत्यविनाशनामास्तिरभिपूजितः स्वस्तिति (*svastītyavināśanāmāstirabhipūjitaḥ svastiti*) (Ni. 3-21) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मे (*me*)—for me
+- ब्रह्माणि (*brahmāṇi*)—foods
+- नु (*nu*)—quickly
+- उच्छशादि (*ucchaśādi*)—purify
+- देव (*deva*)—O shining Agni
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to us who possess oblations
+- त्वं (*tvaṃ*)—you
+- सुषूदः (*suṣūdaḥ*)—supply food
+- ते (*te*)—given by you
+- रात् (*rāt*)—to the gift
+- उभयासः (*ubhayāsaḥ*)—both the praisers and the sacrificers
+- आ स्याम (*ā syāma*)—may we be worthy recipients
+- योयं (*yoyaṃ*)—all of you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, quickly purify the foods for me. O shining Agni, supply food to us who possess oblations. May both the praisers and the sacrificers become worthy recipients of the gift given by you. O Agni, may all of you always protect us with blessings.
+### Printed p. 639
+
+##### English translation
+Bestow upon me, Agni. quickly, abundant wholesome food : send sustenance, divine Agni, to those who are opuleut in oblations : may we, both (priests and employer). be comprehended in your munificence : ever cherish us with blessings.
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने सु॒हवो॑ र॒ण्वसं॑दृक्सुदी॒ति सू॑नो सहसो दिदीहि ।  
+> मा त्वे सचा॒ तन॑ये॒ नित्य॒ आ ध॒ज्मा वी॒रो अ॒स्मन्नर्यो॒ वि  ॑
+> दासीत् । २ ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । सुहवः ! रण्यसंदृक् । सुदीती । सूनो इति । सहसः । दिदीहि ।  
+> मा । त्वे इति । सचा । तनये । नित्ये । आ । धक् । मा । वीरः । अस्मत् । नर्यः । वि ।  
+> दासीत् ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहसः सूनो सहसः सुत हे आग्ने सुहवः स्वाह्वानो रण्वसंदृक् रमणीयसंदर्शनस्त्वं सुदीती शोभनया दीप्ता दिदिहि । दीप्यस्व । किंच तनये नित्य
+> औरसे पुत्रे त्वे त्वं सचा सहायभूतो मा आ धक् । माभिधाक्षीः । अपि चास्मात्
+> पृथग्यूतोऽस्माकं वा ॥ षष्ठ्यर्थे पंचमी ॥ वीरः पुत्रो नर्यो नरहितो मा
+> वि दासीत् । नोपक्षीयेत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, son of strength, well invoked and of delightful appearance, shine with fair radiance. Further, being an ally, do not burn the true son, born of the body. **NOTE** Let not our son, the hero who is beneficial to men, perish; he explains that the word for us is to be taken in the sense of "ours".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- सुहवः (*suhavaḥ*)—worthy of excellent invocation
+- रण्वसंदृक् (*raṇvasaṃdṛk*)—of delightful appearance
+- त्वं (*tvaṃ*)—you
+- सुदीती (*sudītī*)—with the most excellent radiance
+- दीदिहि (*dīdihi*)—shine
+- नित्ये तनये (*nitye tanaye*)—in regard to the son born of the body
+- त्वं (*tvaṃ*)—you
+- सचा (*sacā*)—being his helper
+- मा आ धक् (*mā ā dhak*)—do not harm (burn) him
+- नर्यः (*naryaḥ*)—beneficial to other men
+- वीरः (*vīraḥ*)—a hero
+- अस्मत् (*asmat*)—our son
+- मा वि दासीत् (*mā vi dāsīt*)—may he not perish
+### Printed p. 640
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, you who are worthy of excellent invocation and of delightful appearance, shine with most excellent radiance. In regard to the son born of the body, being his helper, do not harm him. May our son, who is beneficial to other men and a valiant one, not perish.
+
+##### English translation
+Shine with bright lustre, Agni, son of strength, you who are earnestly invoked, and of pleasant aspect : consume not the begotten son with whom you are associated : let not our male offspring, beneficial to man, perish.
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ अग्ने दुर्भृ॒तये॒ सच्चै॒षु दे॒वेद्ध॑ष्ट॒ग्निषु॒ प्र  ॑
+> वोचः ।  
+> मा ते॑ अ॒स्मान्दु॑र्म॒तयो॑ भृ॒माच्चि॑द्दे॒वस्य॑ सूनो सहसो  
+> नशंत ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । अग्ने । दुःभृतये । सचा । एषु । देवइद्देषु । अग्निषु । प्र । वोचः ।  
+> मा । ते । आस्मान् । दुःमतयः । भृमात् । चित् । देवस्य । सूनो इति । सहसः ।  
+> नशंत ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सचा सहायभूतस्त्वं देवेद्धेष्वत्विभिः समिद्धेष्वत्विषि दुर्भृतये
+> कृच्छभरणाय नोऽस्मान्मा प्र वोचः । न ब्रूहि । त्वत्सहायभूता अग्नयो यथा
+> मामकृच्छेण बिभृयुस्तथा ब्रूहीत्यर्थः । किंच सहसः सूनो हे बलस्य पुत्राग्ने
+> देवस्य द्योतमानस्य ते तव दुर्मतयोनिग्रहबुद्धयोbभ्रमाच्चित् भ्रमादपि ॥
+> अत संप्रसारणं छांदसं ॥ प्रमादादपीत्यर्थः । आस्मान्मा नशंत । मा व्याप्पुवंतु ।
+> नशदिति व्याप्ति कर्मसु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni, being an ally, do not speak to us, among these fires kindled by the priests, for the sake of hard maintenance; the meaning is that you should speak so that the fires, your allies, may bear us without hardship. **NOTE** Further, O Agni, son of strength, shining one, may your punitive intentions not reach us, even through error, that is, even through inadvertence; the root he cites for the verb is read among those meaning "to pervade".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सचा (*sacā*)—you, who are our helper
+- देवेद्देषु (*deveddeṣu*)—kindled by the priests
+- एषु अग्निषु (*eṣu agniṣu*)—in these fires
+- दुर्भृतये (*durbhṛtaye*)—so that a hard circumstance may befall us
+- नः (*naḥ*)—us
+- मा प्र वोचः (*mā pra vocaḥ*)—do not curse (or: do not tell them to cause me hardship)
+- सहसः सूनो (*sahasaḥ sūno*)—O Agni, son of strength
+- देवस्य (*devasya*)—divine in nature
+- ते (*te*)—your
+- दुर्मतयः (*durmatayaḥ*)—punitive intention
+- भृमाच्चित् (*bhṛmāccit*)—even at a time of your forgetfulness
+- आस्मान् (*āsmān*)—us
+- मा नशंत (*mā naśaṃta*)—may it not approach
+### Printed p. 641
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, among these fires kindled by the priests, do not tell them to bring about a hard circumstance for us. Or do not give us a curse in that manner. O Agni, son of strength, may your punitive intention, you who are divine in nature, not approach us even at a time of forgetfulness.
+
+##### English translation
+Command not the fires kindled by the priests with which you are united to work us evil : let not the displeasure, even in error, of you, the son of strength, who are divine, fall upon us.
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मर्तो॑ अग्ने स्वनीक रे॒वानम॑र्त्ये॒ य आ॑जु॒होति॑ ह॒व्यं ।  
+> स दे॒वता॑ वसु॒वनिं॑ दधाति॒ यं सू॒रिर॒र्थी पृ॒च्छमा॑न॒ एति॑॥२३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मर्तः । अग्ने । सुअनेक । रेवान् । अमत्ये । यः । आजुहोति । हव्यं ।  
+> सः । देवता । वसुवनं । दधाति । यं । सूरिः । अर्थी । पृच्छमानः । एति ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वनीक सुतेजस्क हे अग्ने अमत्येऽमनुष्ये देवतात्मनि त्वयि हव्यं
+> हविर्यॆ आजुहोति स मर्तो मनुष्यो रेवान् धनवान्भवति । यं मर्त्यं सूरिः
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Agni of fair radiance, the mortal who offers oblation in you, who are immortal, not human but of divine nature, becomes wealthy. The mortal whom the wise man
+
 ---
 
-**Progress note:** Done through printed p. 634. Vol 21 Maṇḍala 7 Sūkta 1, Ṛks 9-17 (saṃhitā of 17)
+**Progress note:** Done through printed p. 641. Rk 17 (cont.) to 23 (part), p. 635-641
