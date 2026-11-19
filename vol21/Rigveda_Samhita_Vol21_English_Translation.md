@@ -31328,6 +31328,285 @@ In the animal sacrifice made for the Viśvedevas, this Ṛk, "Agne yāhi", is to
 
 O Agni, the seer Vasiṣṭha kindles you. And you, slay the host of Rakṣas, harsh of speech, or those that go about. For the wealthy sacrificer, worship the divine host of many thoughts, the purandhi; and so Yāska says: "Purandhi is of many thoughts." Worship. And further, O
 
+### Printed p. 739
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदोग्ने पुरुणीथा पुरुनीथेन बहुना स्तोत्रेण जरस्व । देवान् स्तुहि ।
+> यद्वा । पुरुणीथानेकमार्गाणि रक्षांसि जरयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas Agni, praise with a purunītha, that is, with much praise: praise the gods. Or else: the purunīthā are the Rakṣas of many paths: let them be worn away; such is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वां (*tvāṃ*)—you
+- वसिष्ठः (*vasiṣṭhaḥ*)—the seer Vasiṣṭha
+- समिधानः (*samidhānaḥ*)—causes to blaze up
+- जरूथं (*jarūthaṃ*)—the host of Asuras of harsh speech
+- हन् (*han*)—destroy
+- राये (*rāye*)—for the sake of the wealthy sacrificer
+- पुरंधिं (*puraṃdhiṃ*)—the host of gods possessed of manifold wisdom
+- यक्षि (*yakṣi*)—worship
+- जातवेद? (*jātaveda?*)—O Agni, who are of the form of Jātavedas
+- पुरुणीथा (*puruṇīthā*)—with manifold praises
+- जरस्व (*jarasva*)—praise the gods
+- यूयं (*yūyaṃ*)—all of you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the seer Vasiṣṭha causes you to blaze up. Destroy the host of Asuras of harsh speech. For the sake of the wealthy sacrificer, worship the host of gods possessed of manifold wisdom. O Agni, who are of the form of Jātavedas, praise the gods with manifold praises. May all of you protect us always with blessings.
+
+##### English translation
+Vasistha is kindling you, Agni : destory the malignant : worship the object of many rites, (the company of the gods), on behalf of the wealthy (institutor of the sacrifice), praise (the gods), Jatavedas, with manifold praises, and ever cherish us with blessings.
+
+## Sūkta 10 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषो न जार इति पंचर्चं दशमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमाग्नेयं।
+> तथा चानुक्रांतं । उषो न पंचेति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उषो न जार (*uṣo na jāra*), of five ṛks, is the tenth sūkta; it is the vision of Vasiṣṭha, in the Triṣṭubh metre, addressed to Agni. The Anukramaṇikā says: उषो न पंचेति (*uṣo na paṃceti*). The application for the Prātaranuvāka and the Āśvina-śastra has been stated.
+
+##### Anuvāda
+
+This sūkta, उषो न जारः (*uṣo na jāraḥ*), is the tenth sūkta in the first anuvāka. In it there are five ṛks. For this sūkta Vasiṣṭha**NOTE** is the ṛṣi; Agni is the deity; Triṣṭup
+
+### Printed p. 740
+
+is the metre. In the Anukramaṇikā it is said: उषो न पंच (*uṣo na paṃca*). It has been stated earlier that this sūkta has its application for the Prātaranuvāka and the Āśvina-śastra mantras.
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 1; Sūkta 10**NOTE**
+- Aṣṭaka 5; Adhyāya 2; Varga 13
+- Number of ṛks in the sūkta: 5
+- Ṛṣi: वसिष्ठः (*vasiṣṭhaḥ*)
+- Deity: अग्निः (*agniḥ*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒षो न जा॒रः पृ॒थु पाजो॑ आश्रे॒द्द वि॑द्युत॒द्दीद्य॒च्छोशु॑चानः ।  
+> वृषा॒ हरिः॒ शुचि॒रा भा॑ति भा॒सा धियो॑ हिन्वा॒न उ॑श॒तीर॑जीगः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषः । न । जारः । पृथु । पाजः । आश्रेत् । दविद्युतत् । दीद्यत् । शोशुचानः ।  
+> वृषा । हरिः । शुचिः । आ । भाति । भासा । धियः । हिन्वानः । उशतीः । अजीगरिति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निरुषो न जार उषसो जारः सूर्यस्तद्वत् पृथु विस्तीर्णं पाजस्तेजोऽश्रेत् । श्रयति । किंच दविद्युतत् दीद्यत् शोशुचान इति त्रयोऽपि शब्दा
+> यद्यपि दीप्तिकर्माणस्तथापि दीप्तेर्भूयस्त्वज्ञापनाय प्रयुक्ता इति न पुनरुक्तिः।
+> अत्यंतं दीप्यमान इत्यर्थः । वृषा कामानां वर्षिता हरिर्हविषां प्रेरकः शुचिः
+> शुद्धिकृदग्निर्धियः कर्माणि हिन्वानः प्रेरयन् भासा दीप्त्या आ भाति । प्रकाशते । अपि
+> चोशतीः कामयमाना अजीगः । जागरयति । तमसा तिरोहिताः प्रजा उद्दिरति वा॥
+
+##### Gist of the bhāṣya
+
+Agni, like the lover of the dawn, that is, the sun, has taken to himself a wide power, splendour. And "davidyutat", "dīdyat" and "śośucānaḥ": although all three words denote shining, they are used to show the greater degree of the shining, so there is no repetition; the meaning is "shining exceedingly". Agni, the showerer of desires, the impeller of oblations, the purifier, impelling the rites, shines with brightness. And he awakens those who desire him; or else he raises up the people hidden by darkness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (अग्निः (*agniḥ*)—Agni)
+- उषः (*uṣaḥ*)—of the dawn
+- जारः न (*jāraḥ na*)—like the sun, her lord
+- पृथु (*pṛthu*)—extensive
+- पाजः (*pājaḥ*)—splendour
+- अश्रेत् (*aśret*)—he has attained
+- दविद्युतत् (*davidyutat*)—exceedingly radiant
+
+### Printed p. 741
+
+- दीद्यत् (*dīdyat*)—shining with flames
+- शोशुचानः (*śośucānaḥ*)—blazing with his own splendour
+- वृषा (*vṛṣā*)—the showerer of desires
+- हविः (*haviḥ*)—the carrier of oblations
+- शुचिः (*śuciḥ*)—the purifier, Agni
+- धियः (*dhiyaḥ*)—the rites
+- हिन्वानः (*hinvānaḥ*)—impelling
+- भासा (*bhāsā*)—with splendour
+- आ भाति (*ā bhāti*)—he shines
+- उशतीः (*uśatīḥ*)—the people who look for his help
+- अजीगः (*ajīgaḥ*)—he awakens
+
+##### भावार्थ (Bhāvārtha)
+
+Agni has attained a wide splendour, like the sun, the lord of the dawn. Exceedingly radiant, shining with flames, blazing with his own splendour, the showerer of desires, the carrier of oblations, the purifier, Agni shines with splendour, impelling the rites. He awakens the people who look for his help.
+
+##### English translation
+Agni, like the lover of the dawn (the sun), radiant, bright, resplend-ant, displays extensive lustre, the showerer (of benefits), the receiver (of oblations), he shines with splendour, encouraging holy rites : he arouses (mankind), desiring (his presence).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व१॒॑र्ण वस्तो॑रु॒षसा॑मरोचि य॒ज्ञं त॑न्वा॒ना उ॒शिजो॒ न  ॑
+> मन्म ।  
+> अ॒ग्निर्जन्मा॑नि दे॒व आ वि वि॒द्वान्द्र॒वद्दू॒तो दे॑व॒यावा॒  ॑
+> वनिष्ठः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वः । न । वस्तोः । उषसां । आरोचि । यज्ञं । तन्नानाः । उशिजः । न । मन्म ।  
+> अग्निः । जन्मानि । देवः । आ । वि । विद्वान् । द्रवत् । दूतः । देवयावा । वनिष्ठः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्वस्तोरहनि । वस्तोर्द्युरित्यहर्नामसु पाठात् । उषसामग्रे स्वर्ण
+> आदित्य इव । तथाच यास्कः । स्वरादित्यो भवति सुअरणः सुईरणः । नि. २-१४ । इति ।
+
+### Printed p. 742
+
+> अरोचि । दीप्यते । उशिजो न ऋत्विजश्च यज्ञं तन्वाना विस्तारयंतो मन्म
+> मन्मानि मननीयानि स्तोत्राणि पठंतीति शेषः । नेति संप्रत्यर्थे । अपि च विद्वान्
+> जानन् दूतो देवानां देवयावा देवान् प्रति गच्छन् वनिष्ठो दातृतमोऽग्निर्वा द्रवत् । विविधमाद्रवति ॥
+
+##### Gist of the bhāṣya
+
+Agni shines in the day (the word for day is among the names of day in the list "vastor dyuḥ"), at the front of the dawns, like svar, the sun. And so Yāska says: svar is the sun, that is, su-araṇa or su-īraṇa (Ni. 2-14). He shines. And like the uśijaḥ, the priests, extending the sacrifice, they recite manma, that is, thoughtful praises; this is to be supplied. The word "na" is in the sense of "now". And further, the knowing one, the messenger of the gods, going to the gods, the greatest giver, Agni, runs about in manifold ways.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (अग्निः (*agniḥ*)—Agni)
+- वस्तोः (*vastoḥ*)—in the day
+- उषसां (*uṣasāṃ*)—at the rising of the dawns
+- स्वः न (*svaḥ na*)—like the sun
+- अरोचि (*aroci*)—he shines
+- उशिजो न (*uśijo na*)—the priests also
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- तन्वानाः (*tanvānāḥ*)—extending and performing
+- मन्म (*manma*)—recite thoughtful praises
+- जन्मानि विद्वान् (*janmāni vidvān*)—knowing all that is born
+- दूतः (*dūtaḥ*)—the messenger of the gods
+- देवयावा (*devayāvā*)—who goes to the gods
+- वसिष्ठः (*vasiṣṭhaḥ*)—the generous giver**NOTE**
+- देवः अग्निः (*devaḥ agniḥ*)—the god Agni
+- वि आ द्रवत् (*vi ā dravat*)—he moves about in many ways
+
+##### भावार्थ (Bhāvārtha)
+
+Agni shines at the time of the rising of the dawns like the sun. The priests also, extending and performing the sacrifice, recite thoughtful praises. The god Agni, who knows all that is born, the messenger of the gods, who goes to the gods, the generous giver, moves about in many ways.
+
+##### English translation
+Agni, preceding the dawn, is radiant by day as the sun, and the priests celebrating the sacrifice repeat his praise : the divine, munificent Agni, the messenger (of the gods), cognizant of their birth, repairing to the deities, hastens in various directions.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॒ गिरो॑ म॒तयो॑ देव॒यंती॑र॒ग्निं यं॑ति॒ द्रवि॑णं॒ भिक्ष॑माणाः ।  
+> सु॒सं॒दृशं॑ सु॒प्रती॑कं॒ स्वंचं॑ हव्य॒वाह॑मर॒तिं मानु॑षाणां ॥
+
+### Printed p. 743
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । गिरः । मशयः । देवयंतीः । अग्निं । यंति । द्रविणं । भिक्षमाणाः ।  
+> सुसंदृशं । सुप्रतीकं । सुअंचं । हव्यवाहं । अरतिं । मानुषाणां ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मतयः स्तुतिरूपा देवयंतीर्देवानिच्छंत्यो द्रविणं धनं भिक्षमाणा
+> याचमाना गिरो वाचः सुसंदृशं कल्याणसंदर्शनं सुप्रतीकं सुरूपं शोभनांगं
+> वा स्वंचं सुष्टु गच्छंतं हव्यवाहं हव्यानां वोढारं मानुषाणामरतिं स्वामिनमग्निमच्चाभि यंति । अभिगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The matayaḥ, the praises, desiring the gods and begging wealth, the speeches, go towards Agni: of fair appearance, of good form or fair limbs, going well, the bearer of oblations, the lord of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतयः (*matayaḥ*)—of the nature of thought
+- देवयंतीः (*devayaṃtīḥ*)—those that worship the gods
+- द्रविणं (*draviṇaṃ*)—wealth
+- भिक्षमाणाः (*bhikṣamāṇāḥ*)—those that beg for it
+- गिरः (*giraḥ*)—words in the form of praise
+- सुसंदृशं (*susaṃdṛśaṃ*)—of auspicious appearance
+- सुप्रतीकं (*supratīkaṃ*)—of excellent form
+- स्वंचं (*svaṃcaṃ*)—of excellent movement
+- हव्यवाहं (*havyavāhaṃ*)—the bearer of oblations
+- मानुषाणां (*mānuṣāṇāṃ*)—of men
+- अरतिं (*aratiṃ*)—the lord
+- अग्निं अच्छ (*agniṃ accha*)—towards Agni
+- यंति (*yaṃti*)—go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+Words in the form of praise, which are of the nature of thought, worship the gods and beg for wealth, go and reach Agni, who is of auspicious appearance, of excellent form, of excellent movement, the bearer of oblations, the lord of men.
+
+##### English translation
+Devout praises and hymns, soliciting riches, proceed to Agni, who is of pleasing aspect, agreeable form of graceful movement, the bearer of oblations, the ruler of men.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॑ नो अग्ने॒ वसु॑भिः स॒जोषा॑ रु॒द्रं रु॒द्रेभि॒रा व॑हा  ॒॑
+> बृहंतं ।  
+> आ॒दि॒त्येभि॒रदि॑तिं वि॒श्वज॑न्मां॒ बृह॒स्पति॒मृक्व॑भिर्वि॒श्ववा॑रं ॥ ४ ।
+
+### Printed p. 744
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । नः । अग्ने । वसुभिः । सजोषाः । रुद्रं । रुद्रेभिः । आ । वह । बृहंतं ।  
+> आदित्येभिः । अदितिं । विश्वजन्यां । बृहस्पतिं । ऋक्वभिः । विश्ववारं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वसुभिर्देवैः सजोषाः संगतस्त्वं नोऽस्मदर्थमिंद्रमा वह ।
+> रुद्रेभी रुद्रैर्देवैः संगतो बृहंतं महांतं रुद्रं चा वह । आदित्येभिरादित्यैर्देवैः संगतो विश्वजन्यां विश्वजनहितामदितिं चा वह । ऋक्वभिः स्तुत्यैरंगिरोभिर्देवैः संगतो विश्ववारं विश्वैः संभजनीयं बृहस्पतिं चा वह ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in union with the Vasus, the gods, bring Indra for us. In union with the Rudras, the gods, bring also the great Rudra. In union with the Ādityas, the gods, bring also Aditi, who is beneficent to all people. In union with the praiseworthy Aṅgirases, the gods, bring also Bṛhaspati, to be shared in by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वसुभिः (*vasubhiḥ*)—with the deities called Vasus
+- सजोषाः (*sajoṣāḥ*)—united
+- नः (*naḥ*)—for us
+- इंद्रं (*iṃdraṃ*)—Indra
+- आ वह (*ā vaha*)—bring
+- रुद्रेभिः (*rudrebhiḥ*)—together with the Rudras (the eleven Rudras)
+- बृहंतं (*bṛhaṃtaṃ*)—of a great form
+- आदित्येभिः (*ādityebhiḥ*)—together with the Ādityas
+- विश्वजन्यां (*viśvajanyāṃ*)—beneficent to all
+- अदितिं (*aditiṃ*)—bring Aditi
+- ऋक्वभिः (*ṛkvabhiḥ*)—together with the praiseworthy Aṅgira deities
+- विश्ववारं (*viśvavāraṃ*)—desired by all
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati (bring)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, united with the deities called Vasus, bring Indra for our benefit. Together with the Rudras, bring Rudra, who is of a great form. Together with the Ādityas, bring Aditi, who is beneficent to all. Together with the praiseworthy Aṅgira and other deities, bring Bṛhaspati, who is desired by all.
+
+##### English translation
+Consentient with the Vasus, Agni, bring hither Indra, with the Rudras, the benevolent Aditi, with the Adityas and Brihaspati, the desired of all, with the adorable (Angirasas).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒द्रं होता॑रमु॒तिजो॒ यवि॑ष्ठम॒ग्निं विश॑ ईळते अध्व॒रेषु॑।  
+> स हि क्षपा॑वा॒ अभ॑वद्रयी॒णामतं॑द्रो दू॒तो य॒जथा॑य  ॒
+> देवान् ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 738. Maṇḍala 7 sūkta 9 Ṛks 1-6 (pp. 733-738)
+**Progress note:** Done through printed p. 744. Maṇḍala 7 sūkta 9 end, sūkta 10 Ṛks 1-4 (pp. 739-744)
