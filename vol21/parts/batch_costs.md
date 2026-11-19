@@ -37,3 +37,4 @@
 | through p. 678 (pp. 658-663, 664-670, 672-678) | sonnet | n/a | pending | - |
 | through p. 696 (pp. 679-684, 685-690, 691-696) | sonnet | n/a | pending | - |
 | through p. 714 (pp. 697-702, 703-708, 709-714) | sonnet | n/a | pending | - |
+| through p. 732 (pp. 715-720, 721-726, 727-732) | sonnet | n/a | pending | - |
