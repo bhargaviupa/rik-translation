@@ -29,3 +29,4 @@
 | through p. 514 (pp. 494-500, 501-507, 508-514) | sonnet | 23 | 180248 | 5.0 |
 | through p. 532 (pp. 515-520, 521-526, 527-532) | sonnet | n/a | pending | - |
 | through p. 551 (pp. 533-539, 540-545, 546-551) | sonnet | n/a | pending | - |
+| through p. 570 (pp. 552-557, 558-564, 565-570) | sonnet | n/a | pending | - |
