@@ -16,3 +16,4 @@
 | 3.35 (11 Ṛks; second reading as two questions: about 17 changes before commit) | **Sonnet** agent | 210,017 | 11 | 86 | Nov 19 2026 |
 | 3.36 (11 Ṛks) | **Sonnet** agent | 248,894 | 2 | 82 | Nov 19 2026 |
 | 3.37 (11 Ṛks) | **Sonnet** agent | 162,079 | 5 | 34 | Nov 19 2026 |
+| 3.38 (10 Ṛks) | **Sonnet** agent | 221,534 | 9 | 48 | Nov 19 2026 |
