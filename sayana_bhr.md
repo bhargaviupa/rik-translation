@@ -73,6 +73,36 @@ Build the reader from the existing files by script; Fable agents, one volume at 
 ## 10. Found when this record was merged into `main` (Nov 20 2026)
 `main` had moved by 782 commits while this branch was worked on; only `PUBLICATION_TODO.md` was changed on both sides (merged by hand; my item there was renamed **T14**, because `main` already used T13 for the reference corrector). The merged tree was then checked again:
 
-- **43 of the 55 English files now fail `publish/bhashya_check.py`, with 139 faults, and 139 of them are citations of references** (for example `⟦पा. ६-३-९-१⟧`, `⟦ऋग्वे. २-१२ २⟧`, `⟦उ. १-५२⟧`) **that are no longer in the unit letter for letter.** The cause is the reference corrector of the other session: it has since corrected the reference abbreviations and numbers in the supplied volume text (`main`, T13 lines of `PUBLICATION_TODO.md`), and the agents had copied the references as they stood then, as the brief told them to. The English itself is not changed by this and is not known to be wrong; the check is simply comparing against a source that moved.
+- **43 of the 55 English files now fail `publish/bhashya_check.py`, with 139 faults, every one of them a citation of a reference** (132 plain ones, 7 longer ones such as `छां. उ.`, `शत. ब्रा.` or a rule with its reference) (for example `⟦पा. ६-३-९-१⟧`, `⟦ऋग्वे. २-१२ २⟧`, `⟦उ. १-५२⟧`) **that are no longer in the unit letter for letter.** The cause is the reference corrector of the other session: it has since corrected the reference abbreviations and numbers in the supplied volume text (`main`, T13 lines of `PUBLICATION_TODO.md`), and the agents had copied the references as they stood then, as the brief told them to. The English itself is not changed by this and is not known to be wrong; the check is simply comparing against a source that moved.
 - This is the "copy it later" step the user spoke of: **the references in `bhashya_en/` have to be brought to the corrected forms** (re-copy each `⟦…⟧` reference from the corrected block, or convert them all by script from the uniform abbreviation list). No fix has been made; the 55 files are merged as they were, last passing against the source of Nov 19.
 - Until that is done `python3 tools/rv/bhashya_run.py verify VOL M.S` will fail for those files, and a reader built with `publish/bhashya_book.py` still builds (its own line-match check passes), printing the references as the English files have them.
+
+## 11. Open question, put by the user on Nov 20 2026: take the Sāyaṇa-bhāṣya out of the English volumes?
+**Not decided. The user is thinking about it. Nothing was changed, built or started for it.**
+
+**The user's idea (their words, shortened):** revamp all volumes as to the Sāyaṇa-bhāṣya part. The original Kannada files only quote the bhāṣya, with no meaning or analysis, so remove it completely from the translation files and only refer to the bhāṣya book(s). The bhāṣya books should of course not have totally conflicting meaning compared with the Kannada files. *What do you think?*
+
+**My answer in this session (the arguments, so that they need not be reconstructed):**
+
+*For it*
+- The Kannada edition does not translate Sāyaṇa; Venkata Rao's word meanings (Pratipadārtha) and sense (Bhāvārtha) are for the Ṛk. Our own English Gist in the volumes is only a stopgap, and the Devanagari blocks are the machine-read text with many misreadings.
+- One home for Sāyaṇa is better than two: shorter volumes, less damaged Sanskrit carried twice.
+- Keep each volume's **Kannada text file complete**; only the English volumes would drop the blocks, so the print stays recorded faithfully.
+
+*A correction to the premise.* It is mostly right, with one exception: the **Special Topics** sections do analyse the bhāṣya (in Vol 17 3.40 the Indra etymologies are quoted from Sāyaṇa with Venkata Rao's explanation of each). They should stay in the volumes.
+
+*On "not totally conflicting".* For Sūkta 3.40 (9 Ṛks) the comparison of Venkata Rao's word meanings and sense with the direct English found nine differences: four were errors of the first Sonnet draft, five were Venkata Rao rearranging, softening or leaving out; none was a flat contradiction and the user judged them fine. That is one sūkta. A real check would be an agent comparing each Ṛk's word meanings with the book (a separate cost; a sample on Vol 11 first would show how often they differ). The volumes remain Venkata Rao's voice and the book is Sāyaṇa's own; agreement cannot be promised everywhere.
+
+*What stands in the way*
+1. The book is built **from** the volumes: `publish/bhashya_book.py` reads the Sanskrit blocks out of the English volume files. They must be copied into the book's own data (checked line by line) before they are removed anywhere.
+2. Coverage: 55 of 143 sūktas in four volumes have English; the script cannot yet read Vols 1–10, 12, 14, 15 (older layouts). A volume that points to the book needs its part finished first.
+3. References: 43 of the 55 English files fail the check since the reference corrector changed the supplied references (§10); that has to be settled first.
+4. The page-based audit and gates (`tools/rv/batch.py`) expect the bhāṣya blocks and would need changing in the shared tools, not per volume.
+5. Cost: what was measured is about 11,000 tokens per Ṛk (second readings included, lost reports excluded: 5.3 million recorded tokens for 465 Ṛks). If the whole Saṃhitā has about 10,500 Ṛks (from memory, not checked), the whole book is of the order of **100 million tokens**. An extrapolation, but it decides how many volumes can ever be revamped.
+
+*What I proposed*
+- Give every Ṛk a stable address (Maṇḍala.Sūkta.Ṛk). A volume then carries one line per Ṛk ("Sāyaṇa: bhāṣya book 3.40.1"); the book maps each Ṛk back to the volume's printed page.
+- Remove the blocks per volume by script, only once that volume's part of the book is verified.
+- A trial on Vol 11 (where both exist): a **copy** of Vol 11 without the blocks and with the cross-references, built as a PDF to look at, no original touched. **The user declined the trial for now** ("let me think about it a bit more").
+
+**To resume:** if the user decides yes, the first step is item 1 above (give the book its own copy of the Sanskrit blocks), then the Ṛk address, then the trial copy. If no, nothing here needs undoing.
