@@ -77,3 +77,25 @@ The result table with the Kannada evidence is in `vol12/review/gloss_trial_Nov18
 - `30ea383f` publication list T12, volume status files, lesson, prompt and cross-reference list updated
 
 Also updated: `PUBLICATION_TODO.md` (T12, last-updated line, change log), `docs/LESSONS.md` (a replacement by pattern is written only after every change has been listed with its text before and after), `docs/GLOSS_PROMPT.md` (a "Done" section and a stop before steps 2–4).
+
+## Reference list consolidation (session of Nov 17–20 2026, branch `claude/gallant-albattani-or0sqt`)
+
+### Aim
+One work is referenced in ONE way only, in every volume and every script (English, Devanagari, Kannada). The user gives meanings; the session records them, checks each against the quoted line (column I of the lists), and produces lists for approval.
+
+### What was done
+1. **Vol 2 clean-up** (`vol2/CLEANUP_PROMPT.md`): our remarks removed by `tools/rv/cleanup_remarks.py` (log `vol2/review/removed_remarks.tsv`, `repair_log.md`); 93 Ṛk Saṃhitā blocks replaced from `refs/mandala/rv_mandala1.html` by `publish/tools/accents/accent_replace.py` (`verse_corrections.tsv`, `accent_report.tsv`). Kept for the user's review: `[?]` (413), `[sic]` (142), "tentative" (23). Merged to main.
+2. **Vol 17 abbreviations**: forms such as ಭಾ. ಉ. (= Chā. U.), ಶಾ. ಭಾ./ಶ. ಭಾ. (Śaṅkara-bhāṣya) settled one by one; 20 repairs by the new `replace_sub` step of `rv/importer.py` (`vol17/data/import_fixes.json`), 8 notes decided (`decisions.tsv`).
+3. **The one list** `rv/references.tsv` (legend / extra / mistake rows) with `rv/reference_approvals.tsv`, `reference_pending.tsv`, `reference_retain.tsv` (Roman numerals, Maṃ.); printed as `docs/REFERENCES.md`.
+4. **Extraction and review files** in the root: `CROSS_REFERENCES.tsv/.md` (`tools/rv/crossrefs.py`), `REFERENCES_MASTER.tsv/.md` (`refs_master.py`), `REFERENCES_THREE_SCRIPTS.tsv`, `REFERENCES_KANNADA_FORMS.tsv`, `REFERENCES_GUESSES.tsv` (`refs_guess.py`, `refs_guess_checks.py`, 284 forms checked), `REFERENCES_NONE_PLACES.tsv`, `REFERENCES_CAPITAL_SAM_PLACES.tsv`, `REFERENCES_SU_PROPOSALS.tsv`, `REFERENCES_SU_DECIDED.tsv`, `REFERENCES_PA_OTHER.tsv`.
+5. **Misreading patterns confirmed by the user**: Ṛ.→Pu./Ma./Mi./Mu./Kh.; De.→Je./Pe./Be./Se./Me./Ve.; Sū.→Rū./Dū./Sā.; Tai. ← Trai./Kṛ./Śai./Te./Tri.; Śa. Brā. ← Ka./Ta./Śat./Śr.; four-part numbers are Śatapatha-style; Mahābhāṣya numbers carry a vārttika part. Many forms decided from column I (e.g. Ma. Saṃ./Saṃ./Mi. Saṃ./Pu. Saṃ. = Ṛ. Saṃ.; M./म./Pā. Ma. = Mahābhāṣya; सू./Vā. Sū./P. sū. = Pāṇini sūtra; सि. = Nirukta; Kā. = Kātyāyana-vārttika; Anu. = Anukramaṇī; Dhā. = Dhātupāṭha; Vāl. = Vālakhilya; Piṅ. = Piṅgala; Ṛgvi. = Ṛgvidhāna).
+6. **Per-volume legends** read from page images supplied by the user (not kept in the repo): `rv/legends_by_volume.tsv` and `_README.md`. Five volumes print no legend (4, 7, 8, 11, 14); Vol 1 has one in the supplied text.
+7. **Prompt for the session that changes the volume files**: `docs/LEGEND_UNIFY_PROMPT.md` (one form per work; one generated Kannada legend per volume; shared tool with preview and proof; final check on REFERENCES_MASTER).
+8. **Final list** (`tools/rv/refs_final.py` → `REFERENCES_FINAL.tsv/.md`): 71 works, one form each, with Devanagari (by script) and a full Kannada work name. Decisions applied: Jai. Sū.→Jai. Pū. Sū.; Ā. Sū. only; Phi. Sū. only; Ath. Saṃ. only (A. Ve. dropped); Pa. Brā. merged into Tā. Brā. (my choice, to confirm); Uṇ. Sū.→U. Sū.; Īśa.→Īśa U.; Śā. Bhā.→Śa. Bhā.
+
+### Still open
+- 20 Kannada forms are my guesses (Kau. Brā., Ka. U., Mā. Gṛ. Sū., Ya Saṃ., Kā., M., Sāṃ. Gṛ. Sū., Vāl., Anu., Dhā., Ṛgvi., Piṅ., Pā. Gṛ. Sū., Pā. Sū. Vā., the Bhāṣya forms, etc.); 11 more come from an earlier unconfirmed list. The full Kannada names are mine and need checking.
+- Tā. Brā. vs Pa. Brā.; Vol 1 legend vs "six volumes without a legend"; whether legends list all works or only cited ones, and where the legend goes in the five volumes without one.
+- Devanagari full stop after a bare consonant (`Ya Saṃ.`, `Īśa U.`, `Piṅ.`) is dropped by the transliteration: shared tool to fix.
+- Places `Tai. U. U. 4-12-3`, `Śat. 25-7`; Vol 17 `A. U. 3-17-2` (looks like Chā. U. 3-12-2).
+- Nothing in `rv/references.tsv` or in any volume text has been changed by the final list yet; that is the other session's job.
