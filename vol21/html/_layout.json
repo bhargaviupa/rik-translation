@@ -1,0 +1,8 @@
+{
+ "title_pages_lines": [1, 70],
+ "publisher_dedication_lines": [71, 100],
+ "preface_lines": [101, 210],
+ "contents_lines": [211, 362],
+ "body_first_line": 366,
+ "note": "Vol 21: no abbreviations list. Printed p. 1 (title of the text, 'ॐ || ಶ್ರೀಃ ||') has no running head: marker '<!-- page 1 -->' inserted at line 366. Line numbers are approximate for the front matter (to be fixed when the front matter is built)."
+}

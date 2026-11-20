@@ -1,6 +1,6 @@
 # The bhāṣya-English run: dispatcher's runbook
 
-The by-product book "Sāyaṇa's Ṛgveda-bhāṣya in English" (PUBLICATION_TODO T13). One agent renders one sūkta of Sāyaṇa's Sanskrit into English; the dispatcher (the main session) starts agents, checks and commits their files. All state is in the repository: a sūkta is done when its file `volN/bhashya_en/M<m>_S<sss>.md` exists and passes the check.
+The by-product book "Sāyaṇa's Ṛgveda-bhāṣya in English" (PUBLICATION_TODO T14). One agent renders one sūkta of Sāyaṇa's Sanskrit into English; the dispatcher (the main session) starts agents, checks and commits their files. All state is in the repository: a sūkta is done when its file `volN/bhashya_en/M<m>_S<sss>.md` exists and passes the check.
 
 User decisions (Nov 18 2026): direct translation from Sāyaṇa's Sanskrit; **Fable agents**; web search allowed for misread words, damaged passages and references; no API budget; references are copied in Devanagari and get the series' uniform abbreviations later, from the list another session is consolidating; run through all volumes, restarting whenever credits allow.
 
@@ -17,7 +17,7 @@ User decisions (Nov 18 2026): direct translation from Sāyaṇa's Sanskrit; **Fa
 
 - When the agent reports: `python3 tools/rv/bhashya_run.py status`; `verify N m.s` for each sūkta it names; confirm its commits in `git log`. Append one line per agent to `volN/parts/bhashya_costs.md` (sūktas, model, total agent tokens, NOTE and readings counts). A file that is not VERIFIED is removed (`git rm`) so `next` gives the sūkta out again.
 - Never report a commit not seen in `git log`.
-- After each volume: `python3 publish/bhashya_book.py N --notes` (questions and logged readings to `volN/review/`), commit; update PUBLICATION_TODO T13.
+- After each volume: `python3 publish/bhashya_book.py N --notes` (questions and logged readings to `volN/review/`), commit; update PUBLICATION_TODO T14.
 - Reference text: `tools/rv/sayana_ref.py M S` prints Sāyaṇa's bhāṣya from vishvasa.github.io (only his sections). The environment allows `vishvasa.github.io`, `gretil.sub.uni-goettingen.de`, `sanskritdocuments.org`, `ashtadhyayi.com` (added Nov 18 2026 with the user's approval); pages open with `curl`, not with the WebFetch tool.
 
 ## Spot checks (the form check cannot judge meaning)

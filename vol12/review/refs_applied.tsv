@@ -1,0 +1,297 @@
+date	file	line	script	as written	number	becomes	rule	check	text
+2026-11-18	en	105	latin	Bṛ. Pe.	4-11	Bṛ. De.	list		(Bṛ. Pe. 4-11 to 15) *[reference as supplied; "ಪೇ" as printed, the earlier ref
+2026-11-18	en	171	latin	Trai. U.	4-16-5	Tai. U.	list	remark	(Trai. U. 4-16-5) *[abbreviation "ತ್ರೈ. ಉ." as supplied, not expanded]*
+2026-11-18	en	250	deva	पा.	७-२-८१	पा. सू.	list	one-word	> छंदसीति विकरणस्य लुक् । धातोर्ह्रस्वत्वं । आतो जितः । पा. ७-२-८१ । इतीयादेशः ॥ यस्मादेवं तस्मादस्मे अस्मभ्यं रेवतीः क्षीरादिधनव
+2026-11-18	en	260	latin-twin	pā.	7-2-81	pā. sū.	list		chaṃdasīti vikaraṇasya luk | dhātorhrasvatvaṃ | āto jitaḥ | pā. 7-2-81 | itīyādeśaḥ ‖ yasmādevaṃ tasmādasme asmabhyaṃ revatīḥ kṣīrādi
+2026-11-18	en	462	deva	ऋ.	१-११७-१५	ऋ. सं.	list	one-word	त्य तमुत्तार्यापालयतामिति । अयमर्थोऽजोहवीदश्विना तौग्र्यः । ऋ. १-११७-१५ । इत्यादिमंत्रांतरे
+2026-11-18	en	467	latin	Ṛ.	1-117-15	Ṛ. Saṃ.	list		e bhāṣya says that this story is known from another mantra (Ṛ. 1-117-15) and is referred to here.]*
+2026-11-18	en	1084	kannada	ಕೃ. ಸಂ.	7-1-5-1	ತೈ. ಸಂ.	list	remark	(ಕೃ. ಸಂ. 7-1-5-1) *[abbreviation "ಕೃ. ಸಂ." as printed, not expanded; probably 
+2026-11-18	en	1365	kannada	ಭಾ. ಉ.	8-6-2	ಛಾ. ಉ.	list	remark	(ಭಾ. ಉ. 8-6-2) *[abbreviation "ಭಾ. ಉ." as printed, not expanded]*
+2026-11-18	en	1880	deva	ऋ.	६-५१-५	ऋ. सं.	list	one-word	> ऋ. ६-५१-५ । इत्यादिश्रुतेर्मातापितृरूपत्वं । किंच सुधृष्टमे अतिशयेन दृष्
+2026-11-18	en	2371	kannada	ಇ ಬ್ರ.	7-20	ಐ. ಬ್ರಾ.	letters	remark	(ಇ ಬ್ರ. 7-20) *[printed so; abbreviation not expanded]*
+2026-11-18	en	2651	deva	ऋ.	४-३३-५	ऋ. सं.	list	one-word	ेतीत्युपक्रम्य कनिष्ठ आह चतुरस्करेतीति चतुष्कं निर्धारितं । ऋ. ४-३३-५ । न केवलमहमेव ब्रवीमि किंतु वो युष्मान्प्रति तदुक्तं
+2026-11-18	en	3052	deva	ऋ.	४-३३-८	ऋ. सं.	list	one-word	> ऋ. ४-३३-८ । इतिवक्षमाणत्वाच्च विश्वरूपा गौरीत्येवाध्यवसीयते । अत एव
+2026-11-18	en	3241	deva	पा.	७-३-९३	पा. सू.	list	one-word	> पित्त्वाद्रुव ईट् । पा. ७-३-९३ ॥ एतत्पातःसवनिकाभिप्रायं । वाथवा । घेत्यनर्थकः
+2026-11-18	en	3253	latin-twin	pā.	7-3-93	pā. sū.	list		> *pittvādruva īṭ | pā. 7-3-93 ‖ etatpātaḥsavanikābhiprāyaṃ | vāthavā | ghetyanarthakaḥ*
+2026-11-18	en	3345	kannada	ಇ. ಬ್ರ.	6-10	ಐ. ಬ್ರಾ.	letters	remark	(ಇ. ಬ್ರ. 6-10) *[the abbreviation "ಇ. ಬ್ರ." is printed so, without the long ā;
+2026-11-18	en	3408	deva	मनु.	१-८	म. स्मृ.	list		> ससर्जादौ । मनु. १-८ । इत्यादिशास्त्रात् । तथान्योऽग्निर्भूयिष्ठ इत्यब्रवीत् ।
+2026-11-18	en	4142	kannada	ಬೃ. ಪೇ.	4-28	ಬೃ. ದೇ.	letters	remark	ीर्तिताः ॥ (*niyuktāścāniyuktāśca prasaṃgādanukīrtitāḥ ‖*) (ಬೃ. ಪೇ. 4-28) *[abbreviation "ಬೃ. ಪೇ." as printed]*
+2026-11-18	en	4232	kannada	ಶೈ. ಬ್ರಾ.	3-9-5	ತೈ. ಬ್ರಾ.	list	remark	ejasā vā viṣa .... .... .... brahmavarcasamevāvaruṃdhe |*) (ಶೈ. ಬ್ರಾ. 3-9-5) *[abbreviation "ಶೈ. ಬ್ರಾ." as printed; the line has printed do
+2026-11-18	en	4602	deva	पा.	६-३-७०-६	पा. सू.	list	one-word	ुपसर्गयोरित्यल्लोपः ॥ अग्निमिंधोऽग्नीत् ॥ भ्राषाग्नोरिंधे । पा. ६-३-७०-६ । इति मुम् ॥
+2026-11-18	en	4921	deva	सा.	६-१-६१	पा. सू.	list	one-word	ीनरज्जुरस्ति ॥ शिरः शब्दाद्भवे छंदसीति यत् । ये च तद्धिते । सा. ६-१-६१ । इति शीर्षन्भावः।
+2026-11-18	en	5337	kannada	ಕೃ. ಸಂ.	5-2-11	ತೈ. ಸಂ.	list	remark	iṣāṃ kṛṇuta bhojanāni ye barhiṣo namovyaktiṃ na jagmuḥ ‖*) (ಕೃ. ಸಂ. 5-2-11) *[reference as printed, "ಕೃ. ಸಂ."]*
+2026-11-18	en	5460	latin	Trai. Saṃ.	5-1-11	Tai. Saṃ.	list	remark	(Trai. Saṃ. 5-1-11) *[as supplied: the abbreviation is printed ತ್ರೈ. ಸಂ.]*
+2026-11-18	en	5497	deva	पा.	३-१-५१	पा. सू.	list	one-word	> भांडभंगः स्यात् ॥ नोनयतीत्यादिना चज्‌प्रतिषेधः । पा. ३-१-५१ । ह्म्यंतक्षणेति
+2026-11-18	en	5502	latin-twin	pā.	3-1-51	pā. sū.	list		> *bhāṃḍabhaṃgaḥ syāt ‖ nonayatītyādinā cajpratiṣedhaḥ | pā. 3-1-51 | hmyaṃtakṣaṇeti*
+2026-11-18	en	5863	deva	पा.	७-४-५	पा. सू.	list	one-word	> मा कार्षित् ॥ स्थापयतेर्लुजि तिष्ठते रित् । पा. ७-४-५. । इतीत्वं ॥ तथा ते तव
+2026-11-18	en	5949	deva	पा.	७-१- ७१	पा. सू.	list	one-word	ि च निरुक्तं ॥ युजेर्युत्विगित्यादिना क्विन् । युजेरसमासे । पा. ७-१- ७१ । इति नुम् । सुपां सुलुगित्याकारः । तथा रासभस्याश्विवाहनस्यॆत
+2026-11-18	en	5998	latin	Bhā. U.	4-15-5	Chā. U.	list		(Bhā. U. 4-15-5)
+2026-11-18	en	6353	latin	Kṛ. Saṃ.	5-8.25	Tai. Saṃ.	list	remark	(Kṛ. Saṃ. 5-8.25) *[reference as supplied]*
+2026-11-18	en	6542	latin	Śai. Brā.	3-9-16-1	Tai. Brā.	list	remark	(Śai. Brā. 3-9-16-1) *[abbreviation as printed: ಶೈ. ಬ್ರಾ-]*
+2026-11-18	en	6919	latin	Trai. Saṃ.	7-8-19	Tai. Saṃ.	list	remark	(Trai. Saṃ. 7-8-19) *[as supplied: abbreviation "ತ್ರೈ. ಸಂ."]*
+2026-11-18	en	7041	latin	Trai. Saṃ.	7-5-12-2	Tai. Saṃ.	list	remark	(Trai. Saṃ. 7-5-12-2, 3) *[as supplied: abbreviation "ತ್ರೈ ಸಂ."]*
+2026-11-18	en	7416	latin	Kṛ. Saṃ.	5-5-11	Tai. Saṃ.	list	remark	(Kṛ. Saṃ. 5-5-11) *[as supplied: the abbreviation is printed कृ. सं. (*kṛ. saṃ.
+2026-11-18	en	7431	latin	Kṛ. Saṃ.	4-6-6	Tai. Saṃ.	list		(Kṛ. Saṃ. 4-6-6) *[as supplied: so printed]*
+2026-11-18	en	7438	latin	Kṛ. Saṃ.	9-15-7	Tai. Saṃ.	list		(Kṛ. Saṃ. 9-15-7) *[as supplied: so printed]*
+2026-11-18	en	8225	deva	छां उ.	८-४-१	छा. उ.	list	dotless	> अथ य आत्मा स सेतुर्विधृतिरेषां लोकानामसंभेदाय । छां उ. ८-४-१ । इति
+2026-11-18	en	8235	deva	ऋ.	२-२७-८	ऋ. सं.	list	one-word	> ऋ. २-२७-८ । इति निगमः । तस्याजस्य परब्रह्मणो रूपे नानाविकारभाजि जगति किम
+2026-11-18	en	8790	latin	Bhā. U.	3-19-3	Chā. U.	list	remark	(Bhā. U. 3-19-3, 4) *[as supplied: "ಭಾ. ಉ."]*
+2026-11-18	en	9243	latin	Mu.	2-2-6	Mu. U.	list	remark	(Mu. 2-2-6 *[as supplied: "ಮು."]*)
+2026-11-18	en	9451	latin	Bhā. U.	4-3-8	Chā. U.	list	remark	(Bhā. U. 4-3-8) *[as supplied: the abbreviation "ಭಾ. ಉ." is kept as printed]*
+2026-11-18	en	9511	latin	Kaṭha.	5-11	Ka. U.	list		(Kaṭha. 5-11)
+2026-11-18	en	9629	latin	Vā. Sū.	3-2-101	Pā. Sū.	list		पि दृश्यते (*anyeṣṭapi dṛśyate*) *[as supplied: so spelt]* (Vā. Sū. 3-2-101) the suffix ḍa. By the force of the ḍit-ness the ṭi is elided
+2026-11-18	en	9719	latin	Praśna U.	1-6	Pra. U.	list	dotless	(Praśna U. 1-6)
+2026-11-18	en	9783	latin	Praśna.	4-2	Pra. U.	list		(Praśna. 4-2) *[as supplied: the reference is printed so; it is not changed.]*
+2026-11-18	en	9803	latin	Praśna. U.	6-8	Pra. U.	list		(Praśna. U. 6-8) *[as supplied: परमयषिभ्यः (*paramayaṣibhyaḥ*) as printed.]*
+2026-11-18	en	9874	deva	मनु.	३-७६	म. स्मृ.	list		्रत्युतिष्ठति । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । मनु. ३-७६ । इति स्मृतेः ।
+2026-11-18	en	9879	deva	मुं उ.	१-२-५	मु. उ.	list	dotless	तं नयंत्येताः सूर्यस्य रश्मयो यत्र देवानां पतिरेकोऽधिवासः । मुं उ. १-२-५ । इति श्रुतेः । तथा कृत्वा च क्व स्वित्तूते। कस्मिन्निंद्रादिलो
+2026-11-18	en	9944	deva	मुं. उं.	१-२-६	मु. उ.	list	remark	(मुं. उं. १-२-६ (*muṃ. uṃ. 1-2-6*)) *[as supplied: the abbreviation as printed.
+2026-11-18	en	9944	latin-twin	muṃ. uṃ.	1-2-6	mu. u.	letters	remark	(मुं. उं. १-२-६ (*muṃ. uṃ. 1-2-6*)) *[as supplied: the abbreviation as printed.]*
+2026-11-18	en	10087	deva	कठ.	१-१-१४	क. उ.	list		(कठ. १-१-१४ (*kaṭha. 1-1-14*))
+2026-11-18	en	10087	latin-twin	kaṭha.	1-1-14	ka. u.	letters		(कठ. १-१-१४ (*kaṭha. 1-1-14*))
+2026-11-18	en	10102	latin	Praśna.	2-5	Pra. U.	list		(Praśna. 2-5)
+2026-11-18	en	10115	deva	मुं. उ.	३-२-५	मु. उ.	list		(मुं. उ. ३-२-५ (*muṃ. u. 3-2-5*)) *[as supplied: नमृषयो (*namṛṣayo*) as printe
+2026-11-18	en	10115	latin-twin	muṃ. u.	3-2-5	mu. u.	letters		(मुं. उ. ३-२-५ (*muṃ. u. 3-2-5*)) *[as supplied: नमृषयो (*namṛṣayo*) as printed.]*
+2026-11-18	en	10258	deva	मुं. उ.	३-१-२	मु. उ.	list		ुह्यमानः । जष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः । मुं. उ. ३-१-२ । इति । अस्यायमर्थः ।
+2026-11-18	en	10277	latin-twin	muṃ. u.	3-1-2	mu. u.	letters		| jaṣṭaṃ yadā paśyatyanyamīśamasya mahimānamiti vītaśokaḥ | muṃ. u. 3-1-2 | iti | asyāyamarthaḥ |*
+2026-11-18	en	10327	latin	Mu. U. Śaṃ. Bhā.	3-1-1	Mu. U. Śa. Bhā.	list		(Mu. U. Śaṃ. Bhā. 3-1-1)
+2026-11-18	en	10330	latin	Mu. U. Śaṃ. Bhā.	3-1-1	Mu. U. Śa. Bhā.	list		(Mu. U. Śaṃ. Bhā. 3-1-1)
+2026-11-18	en	10333	latin	Mu. U. Śaṃ. Dhā.	3-1-1	Mu. U. Śa. Bhā.	list	remark	(Mu. U. Śaṃ. Dhā. 3-1-1) *[as supplied: the abbreviation reads "ಶಂ. ಧಾ" here; kept as p
+2026-11-18	en	10336	latin	Mu. U. Śaṃ. Bhā.	3-1-1	Mu. U. Śa. Bhā.	list	remark	(Mu. U. Śaṃ. Bhā. 3-1-1) *[as supplied: the reference is printed "ಮ:೦. ಉ ಶಂ. ಭಾ. ೩-೧-೧"
+2026-11-18	en	10447	latin	Kaṭha.	2-2	Ka. U.	list		(Kaṭha. 2-2)
+2026-11-18	en	10632	latin	Bhā. U.	3-19-1	Chā. U.	list	remark	(Bhā. U. 3-19-1 and 4) *[as supplied: reference printed "ಭಾ. ಉ. ೩-೧೯-೧ ಮತ್ತು ೪
+2026-11-18	en	10699	latin	Kaṭha. U.	2-2-12	Ka. U.	list		(Kaṭha. U. 2-2-12)
+2026-11-18	en	10704	latin	Kaṭha.	2-2-13	Ka. U.	list		(Kaṭha. 2-2-13)
+2026-11-18	en	10820	latin	Śat. Brā.	1-4-1-34	Śa. Brā.	list		(Śat. Brā. 1-4-1-34)
+2026-11-18	en	10834	latin	Bhā. U.	3-12-1	Chā. U.	list	remark	(Bhā. U. 3-12-1 to 3) *[as supplied: "ಭಾ. ಉ." although the passage is introduc
+2026-11-18	en	10849	latin	Śat. Brā.	1-3-5-4	Śa. Brā.	list	remark	(Śat. Brā. 1-3-5-4) *[as supplied: "ಶ. ಬ್ರಾ."; "ಗಾಯತ್ರಂ ನಾ" and "ಸ್ವೇನ್ನೈವೈನಮ" i
+2026-11-18	en	10856	latin	Śat. Brā.	8-7-3-12	Śa. Brā.	list	remark	(Śat. Brā. 8-7-3-12) *[as supplied: "ಶ. ಪ್ರಾ." in the reference]*
+2026-11-18	en	10975	latin	Śat. Brā.	10-3-4-5	Śa. Brā.	list		(Śat. Brā. 10-3-4-5)
+2026-11-18	en	11000	latin	Śat. Brā.	9-1-2-35	Śa. Brā.	list		(Śat. Brā. 9-1-2-35)
+2026-11-18	en	11012	latin	Śat. Brā.	9-1-2-36	Śa. Brā.	list	remark	(Śat. Brā. 9-1-2-36) *[as supplied: "ಶ. ಬ್ರಾ"]*
+2026-11-18	en	11017	latin	Śat. Brā.	9-1-2-27	Śa. Brā.	list		(Śat. Brā. 9-1-2-27) *[as supplied: the verse number "೨೭" after the preceding "೩
+2026-11-18	en	11114	latin	Śat. Brā.	10-2-3-2	Śa. Brā.	list	remark	(Śat. Brā. 10-2-3-2) *[as supplied: "ಶ. ಬ್ರಾ."]*
+2026-11-18	en	11246	deva	ऋ.	७-३२-२२	ऋ. सं.	list	one-word	्यं पर्यपश्यत् । परिदृष्टवान्स्रजापतिः । तदाधारभूतायामृचि । ऋ. ७-३२-२२।
+2026-11-18	en	11280	latin	Śat. Brā.	8-1-2-2	Śa. Brā.	list		tsaptadaśa iti śukrādgrahātsaptadaśagg stomaṃ niramimita*) (Śat. Brā. 8-1-2-2)
+2026-11-18	en	11437	latin	Pā.	7-1-39	Pā. Sū.	list		- महित्वा (*mahitvā*)—by सुपां सुलुक् (*supāṃ suluk*) (Pā. 7-1-39) the substitution डा (*ḍā*) for the instrumental ending. Becau
+2026-11-18	en	11620	latin	Śat. Brā.	4-1-5-16	Śa. Brā.	list		āvāpṛthivī pratyakṣamaśvināvime hīdaṃ sarvamaśnu vātāṃ |*) (Śat. Brā. 4-1-5-16)
+2026-11-18	en	11796	deva	ऋ.	१०-८८-१०	ऋ. सं.	list	one-word	> कं । ऋ. १०-८८-१० । इति वक्ष्यमाणत्वात् । स्तनितस्य विद्युद्धावो मेघविद्युत्सन
+2026-11-18	en	11900	latin	Āśv. Śrau.	4-7	Ā. Sū.	list		धेनुमेतामिति द्वे (*upa hvaye sudughāṃ dhenumetāmiti dve*) (Āśv. Śrau. 4-7), since it is set out so in the sūtra. प्रवर्ग्येभिष्टवे दोहनसमये
+2026-11-18	en	11900	latin	Āśv. Śrau.	4-7	Ā. Sū.	list		धेनुमेतामिति द्वे (*upa hvaye sudughāṃ dhenumetāmiti dve*) (Āśv. Śrau. 4-7), since it is set out so in the sūtra. प्रवर्ग्येभिष्टवे दोहनसमये
+2026-11-18	en	12023	deva	छां- उ.	६-११-३	छा. उ.	list	dotless	ोऽमरणस्वभावः । जीवोपेतं नाव किलेदं म्रियते न जीवो म्रियते । छां- उ. ६-११-३. । इति श्रुतेः । उक्तस्वभावो जीवः स्वधाभिश्चरति । पुत्रकृतैः स
+2026-11-18	en	12023	latin-twin	chāṃ- u.	6-11-3	chā. u.	list	dotless	vabhāvaḥ | jīvopetaṃ nāva kiledaṃ mriyate na jīvo mriyate | chāṃ- u. 6-11-3. | iti śruteḥ | uktasvabhāvo jīvaḥ svadhābhiścarati | putrakṛt
+2026-11-18	en	12047	latin	Kaṭh.	9-2-9	Ka. U.	list		(Kaṭh. 9-2-9, as supplied)
+2026-11-18	en	12062	latin	Bhā. U.	6-11-3	Chā. U.	list	remark	(Bhā. U. 6-11-3, as supplied) *[as supplied: the print gives "ಭಾ. ಉ." for the 
+2026-11-18	en	12130	latin	Āśv. Śrau.	4-6	Ā. Sū.	list		 द्रप्सस्य (*apaśyaṃ gopāmanipadyamānaḥ srakṣè drapsasya*) (Āśv. Śrau. 4-6) and stated the application of this mantra. It is a mantra to be 
+2026-11-18	en	12135	latin	Ś. Brā.	8-7-2-7	Śa. Brā.	list		(Ś. Brā. 8-7-2-7)
+2026-11-18	en	12140	latin	Kṛ. Ā.	5-6-4	Tai. Ā.	list		(Kṛ. Ā. 5-6-4)
+2026-11-18	en	12155	latin	Trai. Ā.	5-6-5	Tai. Ā.	list		(Trai. Ā. 5-6-5)
+2026-11-18	en	12158	latin	Bhā. U.	8-6-2	Chā. U.	list		(Bhā. U. 8-6-2, as supplied)
+2026-11-18	en	12317	latin	Mu.	1-2-9	Mu. U.	list	remark	(Mu. 1-2-9) *[as supplied: printed "ಮು. ೧-೨-೯)" with the opening bracket m
+2026-11-18	en	12678	latin	Bh. Gī.	3-11	Bha. Gī.	list		tu vaḥ | parasparaṃ bhāvayaṃtaḥ śreyaḥ paramavāpsyatha ‖*) (Bh. Gī. 3-11 [as supplied: printed भ. गी- ३-११ (*bha. gī- 3-11*)])
+2026-11-18	en	12710	latin	Bh. Gī.	3-12	Bha. Gī.	list		iṣaiḥ | te tvaghaṃ bhuṃjate pāpā ye pacaṃtyātmakāraṇāt ‖*) (Bh. Gī. 3-12, 13 [as supplied: printed भ. गी. (*bha. gī.*)])
+2026-11-18	en	13055	latin	Kaṭha. U.	1-3-10	Ka. U.	list		(Kaṭha. U. 1-3-10, 11)
+2026-11-18	en	13201	latin	Bhā. U.	7-25-1	Chā. U.	list	remark	(Bhā. U. 7-25-1) *[as supplied: the abbreviation printed is ಭಾ. ಉ.]*
+2026-11-18	en	13218	latin	Kaṭha U.	2-3-17	Ka. U.	list	dotless	(Kaṭha U. 2-3-17)
+2026-11-18	en	13227	latin	Muṇḍ. U.	3-1-8	Mu. U.	list		(Muṇḍ. U. 3-1-8)
+2026-11-18	en	13229	latin	Muṇḍ.	3-2-3	Mu. U.	list		(Muṇḍ. 3-2-3-) *[as supplied: the reference is printed with a trailing hyphe
+2026-11-18	en	13233	latin	Muṇḍ.	3-1-5	Mu. U.	list		(Muṇḍ. 3-1-5)
+2026-11-18	en	13240	latin	Bhā. U.	7-1-3	Chā. U.	list	remark	(Bhā. U. 7-1-3) *[as supplied: the abbreviation printed is ಭಾ. ಉ.]*
+2026-11-18	en	13256	latin	Muṇḍ. U.	1-2-9	Mu. U.	list		(Muṇḍ. U. 1-2-9)
+2026-11-18	en	13269	latin	Muṇḍ. U.	3-2-5	Mu. U.	list		(Muṇḍ. U. 3-2-5)
+2026-11-18	en	13353	latin	Trai. U.	2-6	Tai. U.	list	remark	(Trai. U. 2-6) *[as supplied: the abbreviation printed is ತ್ರೈ. ಉ.]*
+2026-11-18	en	13378	latin	Praśna U.	2-7	Pra. U.	list	dotless	(Praśna U. 2-7)
+2026-11-18	en	13425	latin	Muṇḍ. U.	1-11	Mu. U.	list		(Muṇḍ. U. 1-11)
+2026-11-18	en	13436	latin	Bh. Gī.	2-12	Bha. Gī.	list	remark	(Bh. Gī. 2-12) *[as supplied: the abbreviation printed is ಭ. ಗೀ.]*
+2026-11-18	en	13459	latin	Kaṭh.	1-3-15	Ka. U.	list		(Kaṭh. 1-3-15)
+2026-11-18	en	13501	deva	मुं. उ.	१-१-५	मु. उ.	list		> प्रकाशने गार्गि । बृ. उ. ३-८. । यया तदक्षरमधिगम्यते । मुं. उ. १-१-५ ।
+2026-11-18	en	13502	deva	मुं. उ.	१-२-१३	मु. उ.	list		> येनाक्षरं पुरुषं वेद सत्यं । मुं. उ. १-२-१३ । इत्यादिश्रुतिषु प्रसिद्धं ।
+2026-11-18	en	13503	deva	शत.	१४-६-९-२८	श. ब्रा.	letters		र्वेदैः खलु ब्रह्माधिगम्यते तं त्वापनिषदं पुरुषं सृच्छामि । शत. १४-६-९-२८. । इत्यादिश्रुतेः । ननूपनिषद्भागानां तथास्तु । इतरेषां तु क
+2026-11-18	en	13515	latin-twin	muṃ. u.	1-1-5	mu. u.	letters		rakāśane gārgi | bṛ. u. 3-8. | yayā tadakṣaramadhigamyate | muṃ. u. 1-1-5 |*
+2026-11-18	en	13516	latin-twin	muṃ. u.	1-2-13	mu. u.	letters		> *yenākṣaraṃ puruṣaṃ veda satyaṃ | muṃ. u. 1-2-13 | ityādiśrutiṣu prasiddhaṃ |*
+2026-11-18	en	13517	latin-twin	śata.	14-6-9-28	śa. brā.	list		 khalu brahmādhigamyate taṃ tvāpaniṣadaṃ puruṣaṃ sṛcchāmi | śata. 14-6-9-28. | ityādiśruteḥ | nanūpaniṣadbhāgānāṃ tathāstu | itareṣāṃ t
+2026-11-18	en	13609	latin	Bhā. U.	3-12-5	Chā. U.	list	remark	at the greatness of this Supreme Person is praised in a ṛk (Bhā. U. 3-12-5) *[as supplied: the abbreviation "ಭಾ. ಉ."]*. But in the Ṛk-saṃ
+2026-11-18	en	13629	latin	Pra.	1-7	Pra. U.	list		e can be seen in the Muṇḍaka and the others (Mu. U. 3-2-10; Pra. 1-7).
+2026-11-18	en	13639	latin	Mu.	1-1-5	Mu. U.	list		(Mu. 1-1-5)
+2026-11-18	en	13645	latin	Mu.	1-1-6	Mu. U.	list		(Mu. 1-1-6)
+2026-11-18	en	13650	latin	Praśna.	4-10	Pra. U.	list		(Praśna. 4-10)
+2026-11-18	en	13699	latin	Kaṭh.	1-3-15	Ka. U.	list		(Kaṭh. 1-3-15)
+2026-11-18	en	13705	latin	Bhā. U.	4-10-5	Chā. U.	list	remark	(Bhā. U. 4-10-5) *[as supplied: the abbreviation "ಭಾ. ಉ"]*
+2026-11-18	en	13723	latin	Muṇḍaka.	2-1-6	Mu. U.	list		(Muṇḍaka. 2-1-6)
+2026-11-18	en	13789	latin	Trai. U.	2-9	Tai. U.	list	remark	(Trai. U. 2-9) *[as supplied: the abbreviation "ತ್ರೈ. ಉ."]*
+2026-11-18	en	13797	latin	Kaṭh.	2-2-12	Ka. U.	list		(Kaṭh. 2-2-12)
+2026-11-18	en	13895	latin	Kṛ. U.	1-8	Tai. U.	list	remark	(Kṛ. U. 1-8) *[as supplied: the abbreviation "ಕೃ. ಉ."; the quotation has "ಅಪ್
+2026-11-18	en	13907	latin	Chā.	1-4	Chā. U.	list		eans to immortality, the Chāndogya Upaniṣad tells a story. (Chā. 1-4)
+2026-11-18	en	14009	latin	Āś.	3-11	Ā. Sū.	list		amānāykè yavasaṃ prayacchet sūyavasādbhagavatī hi bhūyāḥ*) (Āś. 3-11). And in the sacrifice called Pravargya, at the time of the abhi
+2026-11-18	en	14009	latin	Āś.	4-7	Ā. Sū.	list		amānāykè yavasaṃ prayacchet sūyavasādbhagavatī hi bhūyāḥ*) (Āś. 3-11). And in the sacrifice called Pravargya, at the time of the abhi
+2026-11-18	en	14010	latin	Āśv. Śrā.	3-11	Ā. Sū.	list		mānāykè yavasaṃ prayacchet sūyavasādbhagavatī hi bhūyāḥ*)" (Āśv. Śrā. 3-11): so the Āśvalāyana-śrauta-sūtra states the application (viniyog
+2026-11-18	en	14135	latin	Chā.	8-1-3	Chā. U.	list		 must search for it and there see the principle of Brahman (Chā. U. 8-1-1). The nature of this subtle inner space, which holds within 
+2026-11-18	en	14416	latin	Bṛ. Je.	1-94	Bṛ. De.	list	remark	(Bṛ. Je. 1-94 *[as supplied: printed "ಬೃ ಜೇ ೧-೯೪", the abbreviation without fu
+2026-11-18	en	14466	latin	Bṛ. Je.	1-7-1	Bṛ. De.	list		(Bṛ. Je. 1-7-1 *[as supplied: ಬೃ. ಜೇ.; the verse is printed with "ಜೈನ", "ಯವನೇಕ
+2026-11-18	en	14958	deva	पा.	६-१-१२-६	पा. सू.	list	one-word	> चरिचलिपतिवदीनामच्याक्वाभ्यासस्य । पा. ६-१-१२-६ । इति द्विर्वचनमागागमश्च ।
+2026-11-18	en	14959	deva	शत.	९-१	श. ब्रा.	letters		 षष्टिश्च ह वै त्रीणि च शतानि संवत्सरस्याहानीति ब्राह्मणं । शत. ९-१-
+2026-11-18	en	14994	latin	Śat. Brā.	9-1-1-43	Śa. Brā.	list		 । (*ṣaṣṭiśca ha vai trīṇi ca śatāni saṃvatsarasvāhāni |*) (Śat. Brā. 9-1-1-43) *[as supplied: ಸಂವತ್ಸರಸ್ವಾಹಾನಿ as printed; the bhāṣya block
+2026-11-18	en	15161	latin	Bhā. U.	7-2-1	Chā. U.	list	remark	(Bhā. U. 7-2-1; abbreviation as supplied.)
+2026-11-18	en	15180	latin	Bhā. U.	3-12-1	Chā. U.	list	remark	(Bhā. U. 3-12-1; abbreviation as supplied.)
+2026-11-18	en	15334	latin	Trai. Saṃ.	6-2-1-7	Tai. Saṃ.	list	remark	(Trai. Saṃ. 6-2-1-7; abbreviation as supplied.)
+2026-11-18	en	15365	latin	Ś. Brā.	6-2-1-1	Śa. Brā.	list		(Ś. Brā. 6-2-1-1)
+2026-11-18	en	15373	latin	Ś. Brā.	6-2-1-2	Śa. Brā.	list		(Ś. Brā. 6-2-1-2) *[as supplied: the reference is printed twice, second time w
+2026-11-18	en	15504	latin	Bhā. U.	3-10-2	Chā. U.	list	remark	(Bhā. U. 3-10-2, 3; abbreviation as supplied.)
+2026-11-18	en	15514	latin	Ś. Brā.	10-2-2-1	Śa. Brā.	list		(Ś. Brā. 10-2-2-1)
+2026-11-18	en	15518	latin	Ś. Brā.	6-1-1-3	Śa. Brā.	list		e the seven persons into one person has been stated before (Ś. Brā. 6-1-1-3). This unique Person is Prajāpati. This Prajāpati created cre
+2026-11-18	en	15521	latin	Ś. Brā.	10-2.2-2	Śa. Brā.	list		(Ś. Brā. 10-2.2-2)
+2026-11-18	en	15615	latin	Bhā. U.	5-5-1	Chā. U.	list	remark	(Bhā. U. 5-5-1; abbreviation as supplied)
+2026-11-18	en	15623	latin	Bhā. U.	5-23-2	Chā. U.	list	remark	(Bhā. U. 5-23-2; abbreviation as supplied)
+2026-11-18	en	15688	latin	Trai. Saṃ.	2-6-5	Tai. Saṃ.	list	remark	(Trai. Saṃ. 2-6-5; abbreviation as supplied; the print shows an opening quotation
+2026-11-18	en	15706	latin	Ś. Brā.	12-9-3-10	Śa. Brā.	list		(Ś. Brā. 12-9-3-10)
+2026-11-18	en	15786	latin	Āśv. Śau.	3-8	Ā. Sū.	list	remark	ा (*sarasvaddevatāke paśau divyaṃ suparṇaṃ iti vaṣāyājyā*) (Āśv. Śau. 3-8; abbreviation as supplied) states the application of this mantra 
+2026-11-18	en	15826	latin	Ś. Brā.	11-2-4-9	Śa. Brā.	list		(Ś. Brā. 11-2-4-9)
+2026-11-18	en	15836	latin	Ś. Brā.	7-5-1-8	Śa. Brā.	list		(Ś. Brā. 7-5-1-8)
+2026-11-18	en	15841	latin	Ś. Brā.	7-1-1-24	Śa. Brā.	list		(Ś. Brā. 7-1-1-24) *[as supplied: a row of dots stands in the print inside the
+2026-11-18	en	15882	latin	Ṛ.	1-164-52	Ṛ. Saṃ.	list		above, “ये ते सरस्व (*ye te sarasva*) .... .... .... ....” (Ṛ. Saṃ. 7-95-5 *[as supplied: so printed; above it is 7-96-5]*), and the
+2026-11-18	en	16033	latin	Ś. Brā.	4-3-3-6	Śa. Brā.	list		( Ś. Brā. 4-3-3-6 )
+2026-11-18	en	16492	latin	Vā. Sū.	7-2-64	Pā. Sū.	list		बभूथ (*babhūtha*)—by (Vā. Sū. 7-2-64) "babhūthātatanthajagṛmbhavavartheti nigame" the form arises i
+2026-11-18	en	16492	latin	Vā. Sū.	6-1-164	Pā. Sū.	list		बभूथ (*babhūtha*)—by (Vā. Sū. 7-2-64) "babhūthātatanthajagṛmbhavavartheti nigame" the form arises i
+2026-11-18	en	17062	latin	Bṛ. Pe.	2-22	Bṛ. De.	list		(Bṛ. Pe. 2-22, as supplied)
+2026-11-18	kn	117	kannada	ಬೃ. ಪೇ.	೪-೧೧	ಬೃ. ದೇ.	letters		(ಬೃ. ಪೇ. ೪-೧೧ರಿಂದ ೧೫)
+2026-11-18	kn	301	kannada	ಪಾ.	೭-೨-೮೧	ಪಾ. ಸೂ.	letters	one-word	> ಛಂದಸೀತಿ ವಿಕರಣಸ್ಯ ಲುಕ್ । ಧಾತೋರ್ಹ್ರಸ್ವತ್ವಂ । ಆತೋ ಜಿತಃ । ಪಾ. ೭-೨-೮೧ । ಇತೀಯಾದೇಶಃ ॥ ಯಸ್ಮಾದೇವಂ ತಸ್ಮಾದಸ್ಮೇ ಅಸ್ಮಭ್ಯಂ ರೇವತೀಃ ಕ್ಷೀರಾದಿಧನವ
+2026-11-18	kn	495	kannada	ವಾ ಸೂ.	೬-೨-೧೭೨	ಪಾ. ಸೂ.	letters		ಸುಮತಯೇ—ಶೋಭನಾ ಮತಿಃ ಯಸ್ಯ ಸಃ ತಸ್ಮೈ. ನಞ್ ಸುಭ್ಯಾಮ್ (ವಾ ಸೂ. ೬-೨-೧೭೨)
+2026-11-18	kn	547	kannada	ಋ.	೧-೧೧೭-೧೫	ಋ. ಸಂ.	letters	one-word	ತ್ಯ ತಮುತ್ತಾರ್ಯಾಪಾಲಯತಾಮಿತಿ । ಅಯಮರ್ಥೋಽಜೋಹವೀದಶ್ವಿನಾ ತೌಗ್ರ್ಯಃ । ಋ. ೧-೧೧೭-೧೫ । ಇತ್ಯಾದಿಮಂತ್ರಾಂತರೇ
+2026-11-18	kn	775	kannada	ನಿರು.	೫-೨೩	ನಿ.	letters	one-word	ಉರುಷ್ಯೇತ್— ಉರುಷ್ಯತೀ ರಕ್ಷಾ ಕರ್ಮಾ. (ನಿರು. ೫-೨೩) ಎಂದು ಯಾಸ್ಕರು ಹೇಳಿರುತ್ತಾರೆ. ಲಿಜ್
+2026-11-18	kn	1011	kannada	ಪಾ ಸೂ. ಮ.	೨-೨-೧೮-೪	ಪಾ. ಸೂ.	letters		(ಪಾ ಸೂ. ಮ. ೨-೨-೧೮-೪) ಎಂಬ ವಚನದಿಂದ ಸಮಾಸವಾದಾಗ ತತ್ಪುರುಷೇ ತುಲ್ಯಾರ್ಥ—(ಪಾ.ಸೂ. ೬-೨
+2026-11-18	kn	1289	kannada	ಕೃ. ಸಂ.	೭-೧-೫-೧	ತೈ. ಸಂ.	list		(ಕೃ. ಸಂ. ೭-೧-೫-೧)
+2026-11-18	kn	1625	kannada	ಭಾ. ಉ.	೮-೬-೨	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೮-೬-೨)
+2026-11-18	kn	2197	kannada	ಋ.	೬-೫೧-೫	ಋ. ಸಂ.	letters	one-word	> ಋ. ೬-೫೧-೫ । ಇತ್ಯಾದಿಶ್ರುತೇರ್ಮಾತಾಪಿತೃರೂಪತ್ವಂ । ಕಿಂಚ ಸುಧೃಷ್ಟಮೇ ಅತಿಶಯೇನ ದೃಷ್
+2026-11-18	kn	2779	kannada	ಇ ಬ್ರ.	೭-೨೦	ಐ. ಬ್ರಾ.	letters		(ಇ ಬ್ರ. ೭-೨೦)
+2026-11-18	kn	3122	kannada	ಋ.	೪-೩೩-೫	ಋ. ಸಂ.	letters	one-word	ೇತೀತ್ಯುಪಕ್ರಮ್ಯ ಕನಿಷ್ಠ ಆಹ ಚತುರಸ್ಕರೇತೀತಿ ಚತುಷ್ಕಂ ನಿರ್ಧಾರಿತಂ । ಋ. ೪-೩೩-೫ । ನ ಕೇವಲಮಹಮೇವ ಬ್ರವೀಮಿ ಕಿಂತು ವೋ ಯುಷ್ಮಾನ್ಪ್ರತಿ ತದುಕ್ತಂ
+2026-11-18	kn	3640	kannada	ಋ.	೪-೩೩-೮	ಋ. ಸಂ.	letters	one-word	> ಋ. ೪-೩೩-೮ । ಇತಿವಕ್ಷಮಾಣತ್ವಾಚ್ಚ ವಿಶ್ವರೂಪಾ ಗೌರೀತ್ಯೇವಾಧ್ಯವಸೀಯತೇ । ಅತ ಏವ
+2026-11-18	kn	3876	kannada	ಪಾ.	೭-೩-೯೩	ಪಾ. ಸೂ.	letters	one-word	> ಪಿತ್ತ್ವಾದ್ರುವ ಈಟ್ । ಪಾ. ೭-೩-೯೩ ॥ ಏತತ್ಪಾತಃಸವನಿಕಾಭಿಪ್ರಾಯಂ । ವಾಥವಾ । ಘೇತ್ಯನರ್ಥಕಃ
+2026-11-18	kn	3990	kannada	ಇ. ಬ್ರ.	೬-೧೦	ಐ. ಬ್ರಾ.	letters		(ಇ. ಬ್ರ. ೬-೧೦)
+2026-11-18	kn	4036	kannada	ನಿರು.	೨-೬-೧೦	ನಿ.	letters	one-word	ದಲ್ಲಿ ಇಲ್ಲಿ ಪ್ರಯುಕ್ತವಾಗಿದೆ. ಹರ್ಯತಿ ಉಶಿಕ್ (ನಿರು. ೨-೬-೧೦) ಎಂದು ಯಾಸ್ಕರು ಹೇಳಿರುತ್ತಾರೆ.
+2026-11-18	kn	4070	kannada	ಮನು.	೧-೮	ಮ. ಸ್ಮೃ.	list	one-word	> ಸಸರ್ಜಾದೌ । ಮನು. ೧-೮ । ಇತ್ಯಾದಿಶಾಸ್ತ್ರಾತ್ । ತಥಾನ್ಯೋಽಗ್ನಿರ್ಭೂಯಿಷ್ಠ ಇತ್ಯಬ್ರವೀತ್ ।
+2026-11-18	kn	5035	kannada	ಬೃ. ಪೇ.	೪-೨೮	ಬೃ. ದೇ.	letters		(ಬೃ. ಪೇ. ೪-೨೮)
+2026-11-18	kn	5169	kannada	ಶೈ. ಬ್ರಾ.	೩-೯-೫	ತೈ. ಬ್ರಾ.	list		(ಶೈ. ಬ್ರಾ. ೩-೯-೫)
+2026-11-18	kn	5653	kannada	ಪಾ.	೬-೩-೭೦-೬	ಪಾ. ಸೂ.	letters	one-word	ುಪಸರ್ಗಯೋರಿತ್ಯಲ್ಲೋಪಃ ॥ ಅಗ್ನಿಮಿಂಧೋಽಗ್ನೀತ್ ॥ ಭ್ರಾಷಾಗ್ನೋರಿಂಧೇ । ಪಾ. ೬-೩-೭೦-೬ । ಇತಿ ಮುಮ್ ॥
+2026-11-18	kn	6128	kannada	ಸಾ.	೬-೧-೬೧	ಪಾ. ಸೂ.	letters	one-word	ೀನರಜ್ಜುರಸ್ತಿ ॥ ಶಿರಃ ಶಬ್ದಾದ್ಭವೇ ಛಂದಸೀತಿ ಯತ್ । ಯೇ ಚ ತದ್ಧಿತೇ । ಸಾ. ೬-೧-೬೧ । ಇತಿ ಶೀರ್ಷನ್ಭಾವಃ।
+2026-11-18	kn	6736	kannada	ಕೃ. ಸಂ.	೫-೨-೧೧	ತೈ. ಸಂ.	list		(ಕೃ. ಸಂ. ೫-೨-೧೧)
+2026-11-18	kn	6900	kannada	ತ್ರೈ. ಸಂ.	೫-೧-೧೧	ತೈ. ಸಂ.	letters		(ತ್ರೈ. ಸಂ. ೫-೧-೧೧)
+2026-11-18	kn	6945	kannada	ಪಾ.	೩-೧-೫೧	ಪಾ. ಸೂ.	letters	one-word	> ಭಾಂಡಭಂಗಃ ಸ್ಯಾತ್ ॥ ನೋನಯತೀತ್ಯಾದಿನಾ ಚಜ್‌ಪ್ರತಿಷೇಧಃ । ಪಾ. ೩-೧-೫೧ । ಹ್ಮ್ಯಂತಕ್ಷಣೇತಿ
+2026-11-18	kn	7518	kannada	ಪಾ.	೭-೪-೫	ಪಾ. ಸೂ.	letters	one-word	> ಮಾ ಕಾರ್ಷಿತ್ ॥ ಸ್ಥಾಪಯತೇರ್ಲುಜಿ ತಿಷ್ಠತೇ ರಿತ್ । ಪಾ. ೭-೪-೫. । ಇತೀತ್ವಂ ॥ ತಥಾ ತೇ ತವ
+2026-11-18	kn	7659	kannada	ಪಾ.	೭-೧- ೭೧	ಪಾ. ಸೂ.	letters	one-word	ಿ ಚ ನಿರುಕ್ತಂ ॥ ಯುಜೇರ್ಯುತ್ವಿಗಿತ್ಯಾದಿನಾ ಕ್ವಿನ್ । ಯುಜೇರಸಮಾಸೇ । ಪಾ. ೭-೧- ೭೧ । ಇತಿ ನುಮ್ । ಸುಪಾಂ ಸುಲುಗಿತ್ಯಾಕಾರಃ । ತಥಾ ರಾಸಭಸ್ಯಾಶ್ವಿವಾಹನಸ್ಯೆತ
+2026-11-18	kn	7745	kannada	ಭಾ. ಉ.	೪-೧೫-೫	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೪-೧೫-೫)
+2026-11-18	kn	7749	kannada	ಮುಂ. ಉ.	೨-೧೧	ಮು. ಉ.	letters		(ಮುಂ. ಉ. ೨-೧೧)
+2026-11-18	kn	8240	kannada	ಕೃ. ಸಂ.	೫-೮.೨೫	ತೈ. ಸಂ.	list		(ಕೃ. ಸಂ. ೫-೮.೨೫)
+2026-11-18	kn	9027	kannada	ತ್ರೈ. ಸಂ.	೭-೮-೧೯	ತೈ. ಸಂ.	letters		(ತ್ರೈ. ಸಂ. ೭-೮-೧೯)
+2026-11-18	kn	9211	kannada	ತ್ರೈ ಸಂ.	೭-೫-೧೨-೨	ತೈ. ಸಂ.	letters		(ತ್ರೈ ಸಂ. ೭-೫-೧೨-೨, ೩)
+2026-11-18	kn	9238	kannada	ಪಾ. ಸವ.	೮-೧-೬೬	ಪಾ. ಸೂ.	letters		ರೂಪ. ಯಚ್ಛಬ್ದಸಂಬಂಧವಿರುವುದರಿಂದ ಯದ್ವೃತ್ತಾಂತಿತ್ಯಮ್ (ಪಾ. ಸವ. ೮-೧-೬೬) ಎಂಬುದರಿಂದ ನಿಘಾತ
+2026-11-18	kn	9842	kannada	ಕೃ. ಸಂ.	೫-೫-೧೧	ತೈ. ಸಂ.	list		(ಕೃ. ಸಂ. ೫-೫-೧೧)
+2026-11-18	kn	9866	kannada	ಕೃ. ಸಂ.	೪-೬-೬	ತೈ. ಸಂ.	list		(ಕೃ. ಸಂ. ೪-೬-೬)
+2026-11-18	kn	9886	kannada	ಕೃ. ಸಂ.	೯-೧೫-೭	ತೈ. ಸಂ.	list		(ಕೃ. ಸಂ. ೯-೧೫-೭)
+2026-11-18	kn	10411	kannada	ಭಾ. ಉ.	೨-೨೪-೯	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೨-೨೪-೯)
+2026-11-18	kn	10414	kannada	ಭಾ. ಉ.	೪-೧೭-೧	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೪-೧೭-೧)
+2026-11-18	kn	10855	kannada	ಇ. ಆ.	೯-೪-೧	ಐ. ಆ.	list		(ಇ. ಆ. ೯-೪-೧)
+2026-11-18	kn	11013	kannada	ಕಠ.	೫-೧೫	ಕ. ಉ.	letters	one-word	(ಕಠ. ೫-೧೫)
+2026-11-18	kn	11022	kannada	ಕಠ.	೬-೯	ಕ. ಉ.	letters	one-word	(ಕಠ. ೬-೯)
+2026-11-18	kn	11107	kannada	ಛಾಂ. ಉ.	೪-೧೧-೧	ಛಾ. ಉ.	letters		(ಛಾಂ. ಉ. ೪-೧೧-೧)
+2026-11-18	kn	11116	kannada	ಭಾ ಉ.	೩-೧೯-೪	ಛಾ. ಉ.	list		(ಭಾ ಉ. ೩-೧೯-೪)
+2026-11-18	kn	11165	kannada	ಛಾಂ ಉ.	೮-೪-೧	ಛಾ. ಉ.	letters	dotless	> ಅಥ ಯ ಆತ್ಮಾ ಸ ಸೇತುರ್ವಿಧೃತಿರೇಷಾಂ ಲೋಕಾನಾಮಸಂಭೇದಾಯ । ಛಾಂ ಉ. ೮-೪-೧ । ಇತಿ
+2026-11-18	kn	11175	kannada	ಋ.	೨-೨೭-೮	ಋ. ಸಂ.	letters	one-word	> ಋ. ೨-೨೭-೮ । ಇತಿ ನಿಗಮಃ । ತಸ್ಯಾಜಸ್ಯ ಪರಬ್ರಹ್ಮಣೋ ರೂಪೇ ನಾನಾವಿಕಾರಭಾಜಿ ಜಗತಿ ಕಿಮ
+2026-11-18	kn	11307	kannada	ಕಠ.	೧-೨-೬	ಕ. ಉ.	letters	one-word	(ಕಠ. ೧-೨-೬)
+2026-11-18	kn	11312	kannada	ಕಠ.	೨-೩-೧೩	ಕ. ಉ.	letters	one-word	(ಕಠ. ೨-೩-೧೩)
+2026-11-18	kn	11435	kannada	ಭಾ. ಉ.	೩-೨	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೩-೨-)
+2026-11-18	kn	11443	kannada	ಭಾ. ಉ.	೩-೪	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೩-೪)
+2026-11-18	kn	11465	kannada	ಭಾ. ಉ.	12-೬	ಛಾ. ಉ.	list		(ಭಾ. ಉ. 12-೬ ರಿಂದ ೧೦)
+2026-11-18	kn	11497	kannada	ಭಾ. ಉ.	೮-೪-೨	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೮-೪-೨)
+2026-11-18	kn	12055	kannada	ಭಾ. ಉ.	೩-೧೯-೩	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೩-೧೯-೩, ೪)
+2026-11-18	kn	12272	kannada	ಇ ಆ.	೩-೨-೧	ಐ. ಆ.	list		(ಇ ಆ. ೩-೨-೧)
+2026-11-18	kn	12809	kannada	ಮು.	೨-೨-೬	ಮು. ಉ.	letters	one-word	(ಮು. ೨-೨-೬)
+2026-11-18	kn	12812	kannada	ಪ್ರಶ್ನ.	೨-೬	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ೨-೬)
+2026-11-18	kn	13084	kannada	ಭಾ. ಉ.	೪-೩-೮	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೪-೩-೮)
+2026-11-18	kn	13156	kannada	ಕಠ.	೫-೧೧	ಕ. ಉ.	letters	one-word	(ಕಠ. ೫-೧೧)
+2026-11-18	kn	13279	kannada	ತ್ರೈ. ಆ.	೧-೨-೧	ತೈ. ಆ.	list		(ತ್ರೈ. ಆ. ೧-೨-೧)
+2026-11-18	kn	13309	kannada	ವಾ ಸೂ.	೩-೨-೧೦೧	ಪಾ. ಸೂ.	letters		ಸಾಕಂಜಾನಾಮ್—ಜನೀ ಪ್ರಾದುರ್ಭಾವೇ ಧಾತು. ಅನ್ಯೇಷ್ಟಪಿ ದೃಶ್ಯತೇ (ವಾ ಸೂ. ೩-೨-೧೦೧)
+2026-11-18	kn	13433	kannada	ಪ್ರಶ್ನ. ಉ.	೧-೬	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ಉ. ೧-೬)
+2026-11-18	kn	13439	kannada	ಪ್ರಶ್ನ.	೧-೮	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ೧-೮)
+2026-11-18	kn	13475	kannada	ಪ್ರಶ್ನ.	೧-೪	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ೧-೪)
+2026-11-18	kn	13482	kannada	ಪ್ರಶ್ನ.	೧-೧೨	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ೧-೧೨ ರಿಂದ ೧೫)
+2026-11-18	kn	13518	kannada	ಪ್ರಶ್ನ.	೪-೨	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ೪-೨)
+2026-11-18	kn	13545	kannada	ಪ್ರಶ್ನ. ಉ.	೬-೮	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ಉ. ೬-೮)
+2026-11-18	kn	13626	kannada	ಮನು.	೩-೭೬	ಮ. ಸ್ಮೃ.	list	one-word	್ರತ್ಯುತಿಷ್ಠತಿ । ಅಗ್ನೌ ಪ್ರಾಸ್ತಾಹುತಿಃ ಸಮ್ಯಗಾದಿತ್ಯಮುಪತಿಷ್ಠತೇ । ಮನು. ೩-೭೬ । ಇತಿ ಸ್ಮೃತೇಃ ।
+2026-11-18	kn	13631	kannada	ಮುಂ ಉ.	೧-೨-೫	ಮು. ಉ.	letters	dotless	ತಂ ನಯಂತ್ಯೇತಾಃ ಸೂರ್ಯಸ್ಯ ರಶ್ಮಯೋ ಯತ್ರ ದೇವಾನಾಂ ಪತಿರೇಕೋಽಧಿವಾಸಃ । ಮುಂ ಉ. ೧-೨-೫ । ಇತಿ ಶ್ರುತೇಃ । ತಥಾ ಕೃತ್ವಾ ಚ ಕ್ವ ಸ್ವಿತ್ತೂತೇ। ಕಸ್ಮಿನ್ನಿಂದ್ರಾದಿಲೋ
+2026-11-18	kn	13731	kannada	ಮುಂ. ಉಂ.	೧-೨-೬	ಮು. ಉ.	letters		(ಮುಂ. ಉಂ. ೧-೨-೬)
+2026-11-18	kn	13921	kannada	ಕಠ.	೧-೧-೧೪	ಕ. ಉ.	letters	one-word	(ಕಠ. ೧-೧-೧೪)
+2026-11-18	kn	13938	kannada	ಪ್ರಶ್ನ.	೨-೫	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ೨-೫)
+2026-11-18	kn	13962	kannada	ಮುಂ. ಉ.	೩-೨-೫	ಮು. ಉ.	letters		(ಮುಂ. ಉ. ೩-೨-೫)
+2026-11-18	kn	14136	kannada	ಮುಂ. ಉ.	೩-೧-೨	ಮು. ಉ.	letters		ುಹ್ಯಮಾನಃ । ಜಷ್ಟಂ ಯದಾ ಪಶ್ಯತ್ಯನ್ಯಮೀಶಮಸ್ಯ ಮಹಿಮಾನಮಿತಿ ವೀತಶೋಕಃ । ಮುಂ. ಉ. ೩-೧-೨ । ಇತಿ । ಅಸ್ಯಾಯಮರ್ಥಃ ।
+2026-11-18	kn	14417	kannada	ಕಠ.	೨-೨	ಕ. ಉ.	letters	one-word	(ಕಠ. ೨-೨)
+2026-11-18	kn	14706	kannada	ತ್ರೈ. ಆ.	೩-೧೧-೬	ತೈ. ಆ.	list		(ತ್ರೈ. ಆ. ೩-೧೧-೬)
+2026-11-18	kn	14717	kannada	ತ್ರೈ. ಆ.	೩-೧೧-೭	ತೈ. ಆ.	list		(ತ್ರೈ. ಆ. ೩-೧೧-೭)
+2026-11-18	kn	14724	kannada	ತ್ರೈ. ಆ.	೩-೧೧-೯	ತೈ. ಆ.	list		(ತ್ರೈ. ಆ. ೩-೧೧-೯)
+2026-11-18	kn	14803	kannada	ಭಾ. ಉ.	೩-೧೯-೧	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೩-೧೯-೧ ಮತ್ತು ೪)
+2026-11-18	kn	14927	kannada	ಕಠ. ಉ.	೨-೨-೧೨	ಕ. ಉ.	letters		(ಕಠ. ಉ. ೨-೨-೧೨)
+2026-11-18	kn	14933	kannada	ಕಠ.	೨-೨-೧೩	ಕ. ಉ.	letters	one-word	(ಕಠ. ೨-೨-೧೩)
+2026-11-18	kn	15096	kannada	ಭಾ. ಉ.	೩-೧೨-೧	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೩-೧೨-೧ ರಿಂದ ೩)
+2026-11-18	kn	15704	kannada	ತ್ರೈ. ಸಂ.	೨-೫-೧೦-೩	ತೈ. ಸಂ.	letters		(ತ್ರೈ. ಸಂ. ೨-೫-೧೦-೩, ೪)
+2026-11-18	kn	15792	kannada	ಋ.	೭-೩೨-೨೨	ಋ. ಸಂ.	letters	one-word	್ಯಂ ಪರ್ಯಪಶ್ಯತ್ । ಪರಿದೃಷ್ಟವಾನ್ಸ್ರಜಾಪತಿಃ । ತದಾಧಾರಭೂತಾಯಾಮೃಚಿ । ಋ. ೭-೩೨-೨೨।
+2026-11-18	kn	15864	kannada	ಕೃ. ಆ.	೧-೨೩-೧	ತೈ. ಆ.	list		(ಕೃ. ಆ. ೧-೨೩-೧)
+2026-11-18	kn	16042	kannada	ಪಾ.	೭-೧-೩೯	ಪಾ. ಸೂ.	letters	one-word	ಮಹಿತ್ವಾ—ಸುಪಾಂ ಸುಲುಕ್—(ಪಾ. ೭-೧-೩೯) ಎಂಬುದರಿಂದ ತೃತೀಯಾವಿಭಕ್ತಿಗೆ ಡಾದೇಶ.
+2026-11-18	kn	16503	kannada	ಋ.	೧೦-೮೮-೧೦	ಋ. ಸಂ.	letters	one-word	> ಕಂ । ಋ. ೧೦-೮೮-೧೦ । ಇತಿ ವಕ್ಷ್ಯಮಾಣತ್ವಾತ್ । ಸ್ತನಿತಸ್ಯ ವಿದ್ಯುದ್ಧಾವೋ ಮೇಘವಿದ್ಯುತ್ಸನ
+2026-11-18	kn	16739	kannada	ತ್ರೈ. ಆ.	೫-೧-೬	ತೈ. ಆ.	list		(ತ್ರೈ. ಆ. ೫-೧-೬, ೭)
+2026-11-18	kn	16807	kannada	ತ್ರೈ. ಆ.	೪-೨	ತೈ. ಆ.	list		ವಾದ ಮಂತ್ರಗಳನ್ನು ಪಠಿಸುವ ಕಥಾ ಪ್ರಕರಣದಲ್ಲಿ (ತ್ರೈ. ಆ. ೪-೨),
+2026-11-18	kn	16818	kannada	ಕೃ. ಆ.	೪-೩-೧	ತೈ. ಆ.	list		(ಕೃ. ಆ. ೪-೩-೧)
+2026-11-18	kn	16831	kannada	ಕೃ. ಆ.	೪-೬-೨	ತೈ. ಆ.	list		(ಕೃ. ಆ. ೪-೬-೨)
+2026-11-18	kn	16968	kannada	ಕಠ.	9-2-9	ಕ. ಉ.	letters	one-word	( ಕಠ. 9-2-9 )
+2026-11-18	kn	16997	kannada	ಭಾ. ಉ.	೬-೧೧-೩	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೬-೧೧-೩)
+2026-11-18	kn	17118	kannada	ಕೃ. ಆ.	೫-೬-೪	ತೈ. ಆ.	list		(ಕೃ. ಆ. ೫-೬-೪)
+2026-11-18	kn	17141	kannada	ತ್ರೈ. ಆ.	೫-೬-೫	ತೈ. ಆ.	list		(ತ್ರೈ. ಆ. ೫-೬-೫)
+2026-11-18	kn	17152	kannada	ಭಾ. ಉ.	೮-೬-೨	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೮-೬-೨)
+2026-11-18	kn	17413	kannada	ಮು.	೧-೨-೯	ಮು. ಉ.	letters	one-word	ಮು. ೧-೨-೯)
+2026-11-18	kn	17762	kannada	ತ್ರೈ ಆ.	೫-೩-೫	ತೈ. ಆ.	list		(ತ್ರೈ ಆ. ೫-೩-೫, ೬)
+2026-11-18	kn	18610	kannada	ಕಠ. ಉ.	೧-೩-೧೦	ಕ. ಉ.	letters		(ಕಠ. ಉ. ೧-೩-೧೦, ೧೧)
+2026-11-18	kn	18815	kannada	ಭಾ. ಉ.	೭-೨೫-೧	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೭-೨೫-೧)
+2026-11-18	kn	18850	kannada	ಕಠ. ಉ.	೨-೩-೧೭	ಕ. ಉ.	letters		(ಕಠ. ಉ. ೨-೩-೧೭)
+2026-11-18	kn	18874	kannada	ಮು.	೩-೨-೩	ಮು. ಉ.	letters	one-word	(ಮು. ೩-೨-೩-)
+2026-11-18	kn	18900	kannada	ಭಾ. ಉ.	೭-೧-೩	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೭-೧-೩)
+2026-11-18	kn	18939	kannada	ಮುಂ. ಉ.	೧-೨-೯	ಮು. ಉ.	letters		(ಮುಂ. ಉ. ೧-೨-೯)
+2026-11-18	kn	18959	kannada	ಕಠ.	೧-೨-೭	ಕ. ಉ.	letters	one-word	(ಕಠ. ೧-೨-೭ ರಿಂದ ೯)
+2026-11-18	kn	18980	kannada	ಕಠ.	೧-೨-೧೨	ಕ. ಉ.	letters	one-word	(ಕಠ. ೧-೨-೧೨)
+2026-11-18	kn	19146	kannada	ತ್ರೈ. ಉ.	೨-೬	ತೈ. ಉ.	list		(ತ್ರೈ. ಉ. ೨-೬)
+2026-11-18	kn	19224	kannada	ಪ್ರಶ್ನ. ಉ.	೨-೭	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ಉ. ೨-೭)
+2026-11-18	kn	19410	kannada	ಕಠ.	೧-೩-೧೫	ಕ. ಉ.	letters	one-word	(ಕಠ. ೧-೩-೧೫)
+2026-11-18	kn	19462	kannada	ಮುಂ. ಉ.	೧-೧-೫	ಮು. ಉ.	letters		> ಪ್ರಕಾಶನೇ ಗಾರ್ಗಿ । ಬೃ. ಉ. ೩-೮. । ಯಯಾ ತದಕ್ಷರಮಧಿಗಮ್ಯತೇ । ಮುಂ. ಉ. ೧-೧-೫ ।
+2026-11-18	kn	19463	kannada	ಮುಂ. ಉ.	೧-೨-೧೩	ಮು. ಉ.	letters		> ಯೇನಾಕ್ಷರಂ ಪುರುಷಂ ವೇದ ಸತ್ಯಂ । ಮುಂ. ಉ. ೧-೨-೧೩ । ಇತ್ಯಾದಿಶ್ರುತಿಷು ಪ್ರಸಿದ್ಧಂ ।
+2026-11-18	kn	19464	kannada	ಶತ.	೧೪-೬-೯-೨೮	ಶ. ಬ್ರಾ.	letters	one-word	ರ್ವೇದೈಃ ಖಲು ಬ್ರಹ್ಮಾಧಿಗಮ್ಯತೇ ತಂ ತ್ವಾಪನಿಷದಂ ಪುರುಷಂ ಸೃಚ್ಛಾಮಿ । ಶತ. ೧೪-೬-೯-೨೮. । ಇತ್ಯಾದಿಶ್ರುತೇಃ । ನನೂಪನಿಷದ್ಭಾಗಾನಾಂ ತಥಾಸ್ತು । ಇತರೇಷಾಂ ತು ಕ
+2026-11-18	kn	19598	kannada	ಭಾ. ಉ.	೩-೧೨-೫	ಛಾ. ಉ.	list		ಮಹಿಮೆಯು ಋಕ್ಕಿನಲ್ಲಿ ಪ್ರಶಂಸಿದೆಯೆಂದು ತಿಳಿಸಿದೆ. (ಭಾ. ಉ. ೩-೧೨-೫) ಆದರೆ ಋಕ್ಸಂಹಿತೆಯಲ್ಲಿ ಈ
+2026-11-18	kn	19620	kannada	ಪ್ರ.	೧-೭	ಪ್ರ. ಉ.	letters	one-word	ಕಾದಿಗಳಲ್ಲಿಯೂ ನೋಡಬಹುದು. (ಮು. ಉ. ೩-೨-೧೦ ; ಪ್ರ. ೧-೭)
+2026-11-18	kn	19638	kannada	ಮು.	೧-೧-೫	ಮು. ಉ.	letters	one-word	( ಮು. ೧-೧-೫)
+2026-11-18	kn	19642	kannada	ಮು.	೧-೧-೬	ಮು. ಉ.	letters	one-word	(ಮು. ೧-೧-೬)
+2026-11-18	kn	19647	kannada	ಪ್ರಶ್ನ.	೪-೧೦	ಪ್ರ. ಉ.	letters		(ಪ್ರಶ್ನ. ೪-೧೦)
+2026-11-18	kn	19709	kannada	ಕಠ.	೧-೩-೧೫	ಕ. ಉ.	letters	one-word	(ಕಠ. ೧-೩-೧೫)
+2026-11-18	kn	19832	kannada	ತ್ರೈ. ಉ.	೨-೯	ತೈ. ಉ.	list		(ತ್ರೈ. ಉ. ೨-೯)
+2026-11-18	kn	19844	kannada	ಕಠ.	೨-೨-೧೨	ಕ. ಉ.	letters	one-word	(ಕಠ. ೨-೨-೧೨)
+2026-11-18	kn	19969	kannada	ಕೃ. ಉ.	೧-೮	ತೈ. ಉ.	list		(ಕೃ. ಉ. ೧-೮)
+2026-11-18	kn	19985	kannada	ಛಾ.	೧-೪	ಛಾ. ಉ.	letters	one-word	ಕಥೆಯನ್ನು ಹೇಳಿದೆ. (ಛಾ. ೧-೪)
+2026-11-18	kn	20921	kannada	ಬೃ. ಜೇ.	೧-೭-೧	ಬೃ. ದೇ.	letters		(ಬೃ. ಜೇ. ೧-೭-೧)
+2026-11-18	kn	21731	kannada	ಪಾ.	೬-೧-೧೨-೬	ಪಾ. ಸೂ.	letters	one-word	> ಚರಿಚಲಿಪತಿವದೀನಾಮಚ್ಯಾಕ್ವಾಭ್ಯಾಸಸ್ಯ । ಪಾ. ೬-೧-೧೨-೬ । ಇತಿ ದ್ವಿರ್ವಚನಮಾಗಾಗಮಶ್ಚ ।
+2026-11-18	kn	21732	kannada	ಶತ.	೯-೧	ಶ. ಬ್ರಾ.	letters	one-word	 ಷಷ್ಟಿಶ್ಚ ಹ ವೈ ತ್ರೀಣಿ ಚ ಶತಾನಿ ಸಂವತ್ಸರಸ್ಯಾಹಾನೀತಿ ಬ್ರಾಹ್ಮಣಂ । ಶತ. ೯-೧-
+2026-11-18	kn	21948	kannada	ಇ. ಆ.	೧-೧-೪	ಐ. ಆ.	list		(ಇ. ಆ. ೧-೧-೪)
+2026-11-18	kn	22027	kannada	ಭಾ. ಉ.	೭-೨-೧	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೭-೨-೧)
+2026-11-18	kn	22043	kannada	ಭಾ. ಉ.	೩-೧೨-೧	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೩-೧೨-೧)
+2026-11-18	kn	22241	kannada	ತ್ರೈ ಸಂ.	೬-೨-೧-೭	ತೈ. ಸಂ.	letters		(ತ್ರೈ ಸಂ. ೬-೨-೧-೭)
+2026-11-18	kn	22454	kannada	ಭಾ- ಉ.	೩-೧೦-೨	ಛಾ. ಉ.	list		(ಭಾ- ಉ. ೩-೧೦-೨, ೩)
+2026-11-18	kn	22616	kannada	ಭಾ. ಉ.	೫-೫-೧	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೫-೫-೧)
+2026-11-18	kn	22624	kannada	ಭಾ. ಉ.	೫-೨೩-೨	ಛಾ. ಉ.	list		(ಭಾ. ಉ. ೫-೨೩-೨)
+2026-11-18	kn	22704	kannada	ತ್ರೈ. ಸಂ.	೨-೬-೫	ತೈ. ಸಂ.	letters		(ತ್ರೈ. ಸಂ. ೨-೬-೫)
+2026-11-18	kn	22868	kannada	ಬೃ. ಪೇ.	೪-೩೯	ಬೃ. ದೇ.	letters		(ಬೃ. ಪೇ. ೪-೩೯)
+2026-11-18	kn	22872	kannada	ಬೃ. ಪೇ.	೪-೪೨	ಬೃ. ದೇ.	letters		(ಬೃ. ಪೇ. ೪-೪೨)
+2026-11-18	kn	22957	kannada	ಋ.	೧-೧೬೪-೫೨	ಋ. ಸಂ.	letters	one-word	 ಋಕ್ಕನ್ನೂ ಪ್ರಕೃತವಾದ “ ದಿವ್ಯಂ ಸುಪರ್ಣಂ .... .... .... .... ” (ಋ. ೧-೧೬೪-೫೨) ಎಂಬ ಋಕ್ಕನ್ನೂ
+2026-11-18	kn	23739	kannada	ವಾ. ಸೂ.	೭-೨-೬೪	ಪಾ. ಸೂ.	letters		ಬಭೂಥ—ಬಭೂಥಾತತಂಥಜಗೃಂಭವವರ್ಥೇತಿ ನಿಗಮೇ (ವಾ. ಸೂ. ೭-೨-೬೪) ಎಂಬುದರಿಂದ
+2026-11-18	kn	23741	kannada	ವಾ. ಸೂ.	೬-೧-೧೬೪	ಪಾ. ಸೂ.	letters		ಬರುತ್ತದೆ. ಥಲ್ ಲಿತ್ತಾದುದರಿಂದ ಲಿತಿ ( ವಾ. ಸೂ. ೬-೧-೧೬೪) ಎಂಬುದರಿಂದ ಪ್ರತ್ಯಯದ ಪೂರ್ವಕ್ಕೆ ಉದಾತ್ತ
+2026-11-18	kn	24088	kannada	ಪಾ. ಸಾ.	೨-೪-೪೩	ಪಾ. ಸೂ.	letters		ವಧೀಮ್—ಹನ ಹಿಂಸಾಗತ್ಯೋಃ ಧಾತು ಲುಜಿನಲ್ಲಿ ಲುಜಿಚ (ಪಾ. ಸಾ. ೨-೪-೪೩) ಎಂಬುದರಿಂದ
+2026-11-18	kn	24689	kannada	ಬೃ. ಪೇ.	೨-೨೨	ಬೃ. ದೇ.	letters		(ಬೃ. ಪೇ. ೨-೨೨)
+2026-11-18	en	6844	place	Pā Sū. 6-1-168		Pā. Sū. 6-1-168	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		
+2026-11-18	en	6852	place	Pā Sū. 6-1-7		Pā. Sū. 6-1-7	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		
+2026-11-18	en	7398	place	Āpastamba, Sū. 20-5-2		Āp. Sū. 20-5-2	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		
+2026-11-18	en	7680	place	Pā, Sū. 6-2-199		Pā. Sū. 6-2-199	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		
+2026-11-18	en	9298	place	Pā Sū. 6-1-70		Pā. Sū. 6-1-70	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		
+2026-11-18	en	9631	place	Pā Sū. 3-2-98		Pā. Sū. 3-2-98	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		

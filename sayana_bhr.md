@@ -1,9 +1,9 @@
 # Sāyaṇa-bhāṣya reader: the session of Nov 18–20 2026 (for BHR)
 
-*A record of what this session did, found and left open, written at the user's request when the session was closed. It is a record, not a rule: the rules are in `tools/rv/BHASHYA_BRIEF.md` and `docs/BHASHYA_RUN.md`, the item is T13 in `PUBLICATION_TODO.md`. This file can be deleted once those carry everything the user still wants.*
+*A record of what this session did, found and left open, written at the user's request when the session was closed. It is a record, not a rule: the rules are in `tools/rv/BHASHYA_BRIEF.md` and `docs/BHASHYA_RUN.md`, the item is T14 in `PUBLICATION_TODO.md`. This file can be deleted once those carry everything the user still wants.*
 
 ## 1. Where it began
-The user asked whether a proper English translation of Sāyaṇa's bhāṣya exists. From memory (not checked on the web in this session) none exists for the whole Ṛgveda: Wilson follows Sāyaṇa's interpretation of the mantras but does not translate the commentary; Max Müller printed the Sanskrit commentary without translating it; Griffith, Geldner and Jamison–Brereton translate independently of Sāyaṇa. The user then proposed a by-product book: **Saṃhitā-pāṭha, Pada-pāṭha, Sāyaṇa-bhāṣya, IAST, and an English understanding of the bhāṣya, nothing else** (no Kannada commentary, no Wilson, no Special Topics). That is "the Sāyaṇa-bhāṣya reader", item T13.
+The user asked whether a proper English translation of Sāyaṇa's bhāṣya exists. From memory (not checked on the web in this session) none exists for the whole Ṛgveda: Wilson follows Sāyaṇa's interpretation of the mantras but does not translate the commentary; Max Müller printed the Sanskrit commentary without translating it; Griffith, Geldner and Jamison–Brereton translate independently of Sāyaṇa. The user then proposed a by-product book: **Saṃhitā-pāṭha, Pada-pāṭha, Sāyaṇa-bhāṣya, IAST, and an English understanding of the bhāṣya, nothing else** (no Kannada commentary, no Wilson, no Special Topics). That is "the Sāyaṇa-bhāṣya reader", item T14.
 
 ## 2. What was built (all shared tools, no per-volume ones)
 | File | Purpose |
@@ -65,7 +65,14 @@ Build the reader from the existing files by script; Fable agents, one volume at 
 4. How misread words inside citations should print (they print as supplied, with the intended word only in the Readings list).
 5. Extending the reader to the older layouts (Vols 1–10, 12, 14, 15). Until then the reader covers only Vols 11, 16, 17 and 18; the other volumes (Maṇḍala 1 Sūktas 1–136 and 158 onward, Maṇḍala 2) are not counted in the 143 sūktas above.
 6. The check's two known gaps (short citations, Roman sūtra names), and a measure of Sonnet's remaining error rate that does not depend on Sonnet reading itself.
-7. Publication: rights and the 1949–52 edition's commentary stay out of the reader; the decision on rights is in `publish/release.json` (T13 is in `PUBLICATION_TODO.md`).
+7. Publication: rights and the 1949–52 edition's commentary stay out of the reader; the decision on rights is in `publish/release.json` (T14 is in `PUBLICATION_TODO.md`).
 
 ## 9. How to resume
 `python3 tools/rv/bhashya_run.py status`, then `next K VOL`; agent prompt in `docs/BHASHYA_RUN.md`; the hourly check-in used in this session ("Bhāṣya run check-in", a scheduled task of that session) is disabled and will not exist in a new session. `pip install indic-transliteration rapidfuzz openpyxl`, and `weasyprint` with `fonts-lohit-deva fonts-noto-core` for the PDFs (HANDBOOK §8). Quote counts only from commands run.
+
+## 10. Found when this record was merged into `main` (Nov 20 2026)
+`main` had moved by 782 commits while this branch was worked on; only `PUBLICATION_TODO.md` was changed on both sides (merged by hand; my item there was renamed **T14**, because `main` already used T13 for the reference corrector). The merged tree was then checked again:
+
+- **43 of the 55 English files now fail `publish/bhashya_check.py`, with 139 faults, and 139 of them are citations of references** (for example `⟦पा. ६-३-९-१⟧`, `⟦ऋग्वे. २-१२ २⟧`, `⟦उ. १-५२⟧`) **that are no longer in the unit letter for letter.** The cause is the reference corrector of the other session: it has since corrected the reference abbreviations and numbers in the supplied volume text (`main`, T13 lines of `PUBLICATION_TODO.md`), and the agents had copied the references as they stood then, as the brief told them to. The English itself is not changed by this and is not known to be wrong; the check is simply comparing against a source that moved.
+- This is the "copy it later" step the user spoke of: **the references in `bhashya_en/` have to be brought to the corrected forms** (re-copy each `⟦…⟧` reference from the corrected block, or convert them all by script from the uniform abbreviation list). No fix has been made; the 55 files are merged as they were, last passing against the source of Nov 19.
+- Until that is done `python3 tools/rv/bhashya_run.py verify VOL M.S` will fail for those files, and a reader built with `publish/bhashya_book.py` still builds (its own line-match check passes), printing the references as the English files have them.

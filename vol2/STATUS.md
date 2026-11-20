@@ -8,6 +8,9 @@ Maṇḍala 1 Sūktas 3–19 (First Adhyāya of the First Aṣṭaka).
 ## Source and inputs
 Old single-file scan (printed = PDF − 15); better scans in `vol2/scans/` have their own page maps (see `vol2/vol2_runbook.md`).
 
+## Supplied machine-read text (user, Nov 18–19 2026)
+`vol2/html/rig_2_1.md` (front matter and printed pp. 2–385, Maṇḍala 1 Sūktas 3–10; supplied Nov 19) and `vol2/html/rig_2_2.md` (pp. 386–808, Sūktas 10–19). **Together the whole volume, pp. 2–808.** Page numbers without a running head of their own (first pages of a sūkta or section, lesson 67): 9, 98, 123, 178, 194, 222 in file 1; 415, 420, 551, 628, 662, 679, 735 in file 2. The 4 embedded pictures of file 1 were moved to `vol2/html/figures/`; nothing else changed. (A file uploaded on Nov 18 under the name `rig_2_1.md` was of another volume, Maṇḍala 6–7, and was not kept.)
+
 ## Outputs
 `vol2/Rigveda_Samhita_Vol2_English_Translation.md` (+ docx/pdf).
 
