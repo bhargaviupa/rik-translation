@@ -54,7 +54,7 @@ A Sonnet agent read 30 quoted-Ṛk references spread over Vol 12 against the Kan
 - **22 where the English translates the edition's own Kannada** (keep). Ten of them are an explanation after the verse, not a rendering of it.
 - **7 with no rendering** (Sanskrit and reference only).
 
-The result table with the Kannada evidence was kept in the session's scratchpad only; it is not in the repository. If 1 in 30 holds, Vol 12 has about a dozen glosses of ours among its 360 quoted Ṛks. Steps 3 and 4 were not started.
+The result table with the Kannada evidence is in `vol12/review/gloss_trial_Nov18.tsv` (line numbers are those of the English file on Nov 18 2026 and move if the file is edited; the printed page and reference do not). If 1 in 30 holds, Vol 12 has about a dozen glosses of ours among its 360 quoted Ṛks. Steps 3 and 4 were not started.
 
 ## Facts to keep in mind
 - **A marker stands after the reference, in the place of our gloss.** It is not placed before each reference.
