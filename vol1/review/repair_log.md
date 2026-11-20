@@ -38,3 +38,4 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 482 | `ಸಪ್ತ ಹವೀಂಷಿ = सप्त हवींषि` → `ಪಂಚ ಹವೀಂಷಿ = पंच हवींषि` | UNMARKED panca havimsi; Kannada reads ಪಂಚ twice, English prose also says pañca [1 Devanagari line(s) changed; IAST line(s) updated: 1] |
 | 556 | `; first word not certain in the print [?])` → `)` | QMARK-SETTLED first word; Kannada reads ರಿಚ್ಯತ ಇವ clearly |
 | 421 | `paras-sākaruṇiḥ syāt` → `parapākarucirna syāt` | UNMARKED IAST line brought in line with the corrected Devanagari line above it (IAST made by script from that line; the first call had left the old reading) |
+- 2026-11-18: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 21, en latin 14, en latin-twin 7; every change is a row of review/refs_applied.tsv.

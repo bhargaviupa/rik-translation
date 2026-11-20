@@ -8,6 +8,9 @@ Maṇḍala 1 Sūktas 33–46 (Third Adhyāya of the First Aṣṭaka).
 ## Source and inputs
 Scan `vol4/scans/`; printed page = PDF − 14.
 
+## Supplied machine-read text (user, Nov 19 2026)
+`vol4/html/rig_4_1.md` (front matter and printed pp. 2–286; heads read Maṇḍala 1 Sūktas 33–37) and `vol4/html/rig_4_2.md` (pp. 287–608, to Sūkta 46; ends with the closing lines "ಶುಭಂ ಭೂಯಾತ್ / ಮಂಗಳಂ"). Together the whole volume, pp. 2–608; 15 page numbers have no running head of their own (first pages of a sūkta or section, lesson 67). Changes made: the 38 embedded pictures moved to `vol4/html/figures/` (`tools/rv/extract_figures.py`); nothing else.
+
 ## Outputs
 `vol4/Rigveda_Samhita_Vol4_English_Translation.md` (+ docx/pdf).
 

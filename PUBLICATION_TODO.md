@@ -1,6 +1,6 @@
 # Publishing the volumes — the to-do list
 
-*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 18 2026** (gloss session).*
+*The one file to open for the state of publication of **all volumes (1–19)**. Last updated: **Nov 19 2026**.*
 *Kept current by every session: a finished point is ticked with its date, a new point is added where it belongs, the counts in §1 are refreshed. Counts are from commands run on the date given; estimates are called estimates. Background: `docs/REQUIREMENTS.md` (Part H), `docs/DESIGN.md`, `docs/LEGACY_VOLUMES_PLAN.md`. Other parked points of the project: `TODO.md`. State of one volume in detail: `volN/STATUS.md`.*
 
 Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you)** only the user can do it · **(script)** costs nothing · **(agents)** uses the session allowance · **(scholar)** / **(advice)** someone outside.
@@ -17,8 +17,8 @@ Marks: `[ ]` open · `[~]` begun · `[x]` done · `—` does not apply · **(you
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Pūrva-pīṭhikā, Bhāṣya-bhūmikā, Maṃ. 1 Sū. 1–2 | scans | 238,000 | 104 | 44 | — | yes (3 files) | text made, not in book form | A |
 | 2 | Maṃ. 1 Sū. 3–19 | scans; **read a second time by the user, in good condition**; clean-up Nov 17 (our remarks out, verses from the reference) | 322,000 → 360,640 words counted by split on Nov 17 (old figure from another count) | 429 (kept for your review: 237 on Devanagari lines, 62 after references, 57 IAST twins, 43 explaining the marks, 30 other) | `[sic]` 143 kept; ‘as printed’ about 600 left | — | no | none | A |
-| 3 | Maṃ. 1 Sū. 20–32 | scans | 233,000 | 110 | 689 | — | no | none | A |
-| 4 | Maṃ. 1 Sū. 33–46 | scans | 218,000 | 151 | 628 | — | no | none | A |
+| 3 | Maṃ. 1 Sū. 20–32 | scans | 233,000 | 110 | 689 | — | **yes, whole volume (Nov 18)** | none | A |
+| 4 | Maṃ. 1 Sū. 33–46 | scans | 218,000 | 151 | 628 | — | **yes, whole volume (Nov 19)** | none | A |
 | 5 | Maṃ. 1 Sū. 47–61 and the Pariśiṣṭa | scans | 270,000 | 231 | 396 | — | partly: pp. 2–468 and 486–584 (Nov 17); pp. 469–485 and 585–708 not yet | none | A |
 | 6 | Maṃ. 1 Sū. 62–80 | scans | 238,000 | 575 | 691 | — | no | none | A |
 | 7 | Maṃ. 1 Sū. 81–94 | scans | 229,000 | 1,958 | 416 | — | no | none | A |
@@ -87,8 +87,8 @@ One route for all volumes (the approved design): the Kannada book and the struct
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | [x] | [~] text made; verses not yet from reference | [ ] needs prose units (T1) | [~] 20 references, 12 Sanskrit corrections on 9 pages | [~] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 2 | [ ] | [ ] | [ ] | [~] **Saṃhitā verses of Sū. 3–19 now equal to the reference (93 of 176 replaced, Nov 17)**; Pada and quoted verses unaccented | [~] remarks removed by kind (Nov 17: 156+68 notes, 121 tentative, 146 `[as printed]`); `[?]`, `[sic]` kept for you; about 380 notes with first-person/reading remarks still to decide | [x] by the user, from scans | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 3 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| 4 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 3 | [x] Nov 18 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
+| 4 | [x] Nov 19 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 5 | [~] 5 files, pp. 2–468 and 486–584 | [ ] | [ ] | [~] pp. 1–184 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 6 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 7 | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
@@ -141,6 +141,19 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 19 2026: supplied text of Vol 6 complete (p. 82 added as its own file; whole volume pp. 2–619).
+- Nov 19 2026: supplied text of Vol 5 complete (file 5, pp. 468–485, added; whole volume pp. 2–708).
+- Nov 19 2026: supplied text of Vol 5, file 7 (pp. 584–708) added; only pp. 468–485 are still missing.
+- Nov 19 2026: supplied text of Vol 6, file 1 (pp. 2–81) added; the volume is complete except printed p. 82, which is in none of the three files.
+- Nov 19 2026: supplied text of Vol 2 complete (file 1, pp. 2–385, added; whole volume pp. 2–808).
+- Nov 19 2026: supplied text of Vol 6, files 2 and 3 (pp. 83–619), put in `vol6/html/`; file 1 (pp. 1–82) still wanted.
+- Nov 19 2026: supplied text of Vol 4 (whole volume, pp. 2–608) put in `vol4/html/`.
+- Nov 18 2026: the two supplied HTML files (Vol 1 file 2, Vol 3 file 1) converted to markdown at the user's request; the page splitter reads pandoc's header marks. Vol 2 pp. 1–385 still wanted (the file uploaded twice as `rig_2_1.md` is of another volume: Maṇḍala 6–7, pp. 389–841).
+- Nov 18 2026: supplied text of Vol 3 (whole volume, pp. 2–647) and of Vol 2 pp. 386–808 put in the repository; Vol 2 pp. 1–385 still wanted (the file uploaded for it was from another volume).
+- Nov 18 2026: T13 numbers pass run on Vols 7–10 (3 numbers changed, 22 `[?]` dropped; lists for the user made).
+- Nov 18 2026: T13 names done for Vols 1–18 (reference corrector run); 13 places held; numbers pass still to run.
+- Nov 18 2026: T13 added: reference corrector (script and agent) built and tried on Vols 2, 4, 11, 14, 17 (audit and import proofs unchanged; the trial changes were undone, no volume is changed); list of doubtful reference numbers made.
+- Nov 18 2026: prompt for the Vol 20 translation session written (`vol20/CONTINUE_PROMPT_HTML.md`); the small tool fixes of the Vol 19 session brought to `main`.
 - Nov 18 2026 (gloss session): 277 more labelled glosses replaced by `**GLOSS**` in Vols 3–8, 10, 14, 16 (959 markers in all); trial reading of 30 quoted Ṛks of Vol 12; four questions wait for the user (T12).
 - Nov 18 2026: prompt for the session that continues the gloss work written: `docs/GLOSS_PROMPT.md`.
 - Nov 17 2026: cross-reference list made for all volumes; labelled glosses of Vols 2–8 replaced by `**GLOSS**` (682).
@@ -148,3 +161,5 @@ One route for all volumes (the approved design): the Kannada book and the struct
 - Nov 17 2026: Vol 5 supplied text, files 1, 2, 3, 45 and 6, put in `vol5/html/`.
 - Nov 17 2026: file created for Vols 1–3; the user's assessment of Vol 2 recorded and the prompt for its clean-up session written; the same day extended to all volumes (1–19), with counts taken from the repository on that day.
 - Nov 17 2026 (Vol 2 clean-up): remarks removed by kind and logged (`vol2/review/removed_remarks.tsv`, `repair_log.md`); `[?]`, `[sic]` kept by your decision (lists: `open_readings.tsv`, `refs_marked.tsv`); the Saṃhitā text of all 176 Ṛks of Sū. 3–19 now equals the reference (93 replaced, `verse_corrections.tsv`); T9 done.
+- Nov 19 2026: Vol 21 (Maṇḍala 6 Sūktas 29–75, Maṇḍala 7 Sūktas 1–19): English translation finished through printed p. 841 (`vol21/`, branch `claude/elegant-rubin-ivuybj`); open: 372 NOTEs, 164 GLOSS markers, preface, front matter, print PDF.
+- Nov 19 2026: **Vol 20 translated** (Maṇḍala 5 Sūktas 63–87 with the Pariśiṣṭa, Maṇḍala 6 Sūktas 1–28; pp. 1–844; 399 NOTE, 139 GLOSS; preface translated and installed, 13 notes) and merged to `main`. Review PDFs built with `publish/volbook.py 20` (`publish/out/vol20_full_Eng.pdf` 1,450 pp., `vol20_full_Kan.pdf` 937 pp.; no ◌ in `pdftotext`): front matter = title page and credits only, no cover, board, contents or abbreviations; `vol20/pubcfg.json` has the year/imprint copied from Vol 18's pattern and the Vol 20 preface's date (30-3-1953) — placeholders until the user confirms (`publish/release.json` stays the only place for rights/ISBN). Not done: finishing checklist (docs/HANDBOOK.md §11), QA sample, second reading, accent report, front-matter translation (`api_frontmatter.py` needs the API; agents could do it), Pariśiṣṭa/preface notes.

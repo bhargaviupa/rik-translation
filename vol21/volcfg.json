@@ -1,0 +1,35 @@
+{
+ "vol": 21,
+ "mandala": 6,
+ "branch": "claude/elegant-rubin-ivuybj",
+ "source": [
+  "vol21/html/rig_21.md@1-841"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol21/Rigveda_Samhita_Vol21_Kannada_Text.md",
+  "en": "vol21/Rigveda_Samhita_Vol21_English_Translation.md"
+ },
+ "work": "vol21/work",
+ "window": 6,
+ "mandalas": [
+  6,
+  7
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "layout": "subheads",
+ "printed_english_label": "English translation",
+ "branches": [
+  "claude/elegant-rubin-ivuybj"
+ ]
+}
