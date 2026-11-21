@@ -47,12 +47,12 @@ Every volume has the same structure, section names, layout and abbreviations. A 
 
 | No. | Page | What it shows | Taken from |
 |---|---|---|---|
-| 1 | Cover | Cover picture with **this volume's number in Kannada**. One English line below: volume number, Maṇḍala, Aṣṭaka (as in Vol 15). | the volume's supplied file |
-| 2 | King | Portrait of the king. | Vol 1, p. 4 — for all volumes |
-| 3 | Guru | Portrait of the guru, with the English translation of its text. | Vol 1, p. 5 — for all volumes |
-| 4 | Scholars | List of the board of scholars. | as Vol 15, p. 6 |
+| 1 | Cover | The real scan of the volume's cover picture, which carries **this volume's number in Kannada**. One English line below it gives the range of the volume (Maṇḍalas and sūktas) and a second the chapters it holds (adhyāyas and aṣṭaka), for example "Maṇḍala 2 · Sūktas 24–43 and Maṇḍala 3 · Sūktas 1–6" and "Seventh and Eighth Adhyāyas of the Second Aṣṭaka". | the volume's supplied file; `pubcfg.json` |
+| 2 | King | Portrait of the king. | the portrait page of the first volume of the edition (p. 4); the same in every volume |
+| 3 | Guru | Portrait of the guru, with the English translation of its text. | the guru's page of the first volume of the edition (p. 5); the same in every volume |
+| 4 | Scholars | One page headed "The Board of Vedic Scholars (Veda-vimarśana-vidvan-maṇḍali) constituted for the work of publishing the Veda". The translator and editor stand first ("Translator & Editor: …"), then "Assisting Board of Scholars": one entry per member, with his title and his field. Names are given in English with transliteration. | the volume's supplied file |
 | 5 | Present day | Present king and present guru: placeholders. | — |
-| 6 | Translation credentials | **New layout: half page picture, half page text** (like Vol 15, p. 2). | new design |
+| 6 | Translation credentials | **One page in two halves: the upper half a picture, the lower half text.** The picture and the text are supplied by the user (F8). | the user |
 | 7 | Copyright | Copyright, ISBN and the like. **No reference to Claude in the copyright.** A **Thank-you section**. (F8) | `publish/release.json` |
 | 7a | Title page | The English-typeset title page: title, volume, the range of the volume (cover line, below), the translator-editor. | the volume's supplied file; `pubcfg.json` |
 | 7b | Permission page | The original's page of permission, reproduced and marked as the original's. | the volume's supplied file |
@@ -61,7 +61,7 @@ Every volume has the same structure, section names, layout and abbreviations. A 
 | next | Preface / Introduction of the original | As the volume has it. No Kannada headings. | supplied file |
 | next | Abbreviations | The legend of B3.7, generated from the one list; it stands after the prefaces and immediately before the first Maṇḍala heading. | `rv/references.tsv` |
 
-Vol 15 was built in another order (preface before the guru's portrait); it is to be corrected.
+The order of this table is the same in every volume.
 The cover is the real scan of the cover of that volume; a reconstructed cover is a stop-gap only and is marked as such in the working files. The cover or title line carries the range of the volume (for example "Maṇḍala 3 · Sūktas 40–62; Maṇḍala 4 · Sūktas 1–18") and the line of its chapters ("Third, Fourth and Fifth Adhyāyas of the Third Aṣṭaka"). The imprint, press and year of the original are kept in the volume's `pubcfg.json`; the publisher, ISBN and rights only in `publish/release.json` (E).
 The front matter also holds the English-typeset **title page** and the original's **permission page**; the cover is the real scan (HANDBOOK §8). A colophon at the end of an adhyāya's last sūkta is given in three layers, with the Kannada closing line.
 **This layout may change again** (user, Nov 13 2026); it is one setting of the printer and is listed in `TODO.md`.
@@ -92,7 +92,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 ### B1. Which source governs
 1. **The user's supplied text of the volume** is the base for everything, with the two exceptions below (B1.2 and B1.3). The sources of the front-matter pages are those named in the last column of A2.
 2. **Exception — the verse:** the Saṃhitā-pāṭha always comes from the reference text. **NEW**
-3. **Exception — portraits:** from Vol 1, for all volumes.
+3. **Exception — portraits:** from the first volume of the edition, in every volume.
 4. Outside these exceptions, no letter and no number is corrected from memory or from another edition.
 5. **No number where the print has none.** A printed number (Pāṇini, Uṇādi, Nirukta, a verse number) is copied as printed, even if another edition numbers differently; where the print has none, none is written.
 6. **A departure from the supplied text is a record, not an edit.** The supplied text is never edited. Every place where the book differs from it (a garbled label, "si" for "ni", a stray figure, a missing page mark, a misread word with a certain reading) is a row of the volume's list: place, as supplied, as printed, reason, who decided (`volN/data/source_fixes.tsv`; for a word, supplied letters → reading → basis). The Kannada book is printed with that list applied.
@@ -102,7 +102,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 10. **Confidence is honest.** The formatting of a place (clean citation, bold, tidy layout) never suggests more certainty than the reading has; an inference is never presented as a reading.
 
 ### B2. Sanskrit
-1. Sanskrit is given in three layers: Devanagari, transliteration (IAST), English. In the **working files** the Sāyaṇa-bhāṣya block is stored in Devanagari only (user, Nov 11 2026; `no_iast_blocks` in `volcfg.json`), followed by its Summary in English; its transliteration is made when the book is printed (B2.2), so **the printed book shows all three layers** for the bhāṣya too. The full English of Sāyaṇa's text, with its transliteration, belongs in the Sāyaṇa-bhāṣya reader (Part K; user, Nov 21 2026). Vols 12, 14 and 15 keep their earlier form, and Vol 16 is transitional, until brought into line (G, L).
+1. Sanskrit is given in three layers: Devanagari, transliteration (IAST), English. In the **working files** the Sāyaṇa-bhāṣya block is stored in Devanagari only (user, Nov 11 2026; `no_iast_blocks` in `volcfg.json`), followed by its Summary in English; its transliteration is made when the book is printed (B2.2), so **the printed book shows all three layers** for the bhāṣya too. The full English of Sāyaṇa's text, with its transliteration, belongs in the Sāyaṇa-bhāṣya reader (Part K; user, Nov 21 2026). A volume not yet in this form is brought into line as G and L say.
 2. Devanagari and transliteration are made by script from the supplied text. The translator does not type them.
    **Transliteration is made when the book is printed and is not stored in the volume files** (user decision, Nov 11 2026, recorded on the branch `claude/dreamy-cerf-z4h3f4`; it now covers the Sāyaṇa-bhāṣya too, by the comment of Nov 12).
 3. No Kannada script in the English book: not in headings, references or abbreviations.
@@ -149,7 +149,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 
 ### C1. Saṃhitā-pāṭha
 - Text from the reference (B1.2), with accents.
-- Every akṣara set apart, in every volume (the look piloted in Vol 17).
+- Every akṣara (syllable) of the verse is set apart from the next by a small fixed space, in the Devanagari and in the transliteration, in every volume.
 - The Ṛk number is checked against the reference: none missing, none misplaced.
 - Where the edition's verse differs from the reference: stated under the verse (B5.1), once confirmed (B5.2).
 - The Kannada book's verse has its own akṣara-spacing pattern.
@@ -179,7 +179,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 - English. Every Sanskrit quotation in three layers, in full, never summarised or shortened; its closing daṇḍa and abridgement dots belong to it; with its reference in the text (B3.1). A quotation the Kannada does not translate is glossed only as B3.5 says (F18).
 
 ### C8. Grammar
-- (F6, decided Nov 13 2026 as "I think"): Sanskrit rendering as begun in Vol 17. Complete: one word per line, headword first, then the derivation; roots, affixes, sūtra texts and references copied letter for letter; nothing added or dropped; no English inside it. The Sanskrit is composed by the translator from the Kannada (written in Kannada script inside `⟪ ⟫`, shown in Devanagari only); no script can check it, so it is read under HR3 and by reader R2. A derivation step the translator cannot follow gets a `NOTE` after its line, outside the `⟪ ⟫`; the Kannada connecting words (such as ಎಂಬುದರಿಂದ) become the Sanskrit connectives (इति, भवति, the ablative of cause); the translator does not improve the grammar of the original.
+- (F6, decided Nov 13 2026 as "I think"): Sanskrit rendering. Complete: one word per line, headword first, then the derivation; roots, affixes, sūtra texts and references copied letter for letter; nothing added or dropped; no English inside it. The Sanskrit is composed by the translator from the Kannada (written in Kannada script inside `⟪ ⟫`, shown in Devanagari only); no script can check it, so it is read under HR3 and by reader R2. A derivation step the translator cannot follow gets a `NOTE` after its line, outside the `⟪ ⟫`; the Kannada connecting words (such as ಎಂಬುದರಿಂದ) become the Sanskrit connectives (इति, भवति, the ablative of cause); the translator does not improve the grammar of the original.
 
 ### C9. Contents
 - In English; the page numbers shown are those of our book, and the contents says so ("Page numbers are the pages of this book"). A chapter entry names the chapter; a sūkta entry reads "N. The Nth sūkta, beginning ⟦words⟧" (Arabic figure, the ordinal in words, the first words of the sūkta copied from the source). Names are given in English with transliteration (Brahmaśrī, not the Kannada letters); the list of the board of scholars names the editor first, then the members.
@@ -198,7 +198,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 | No. | Check | Covers |
 |---|---|---|
 | D1 | The structure of Part A is produced by script, not written by the translator. | A2, A3 |
-| D2 | Every page is read a second time by the readers of Part I (R1–R6; R2 only where a unit has a grammar section, R4 from Vol 17 on; Part I is a draft, F34 records an earlier exception): numbers and references, names, negations, omissions, additions; the Sanskrit of the grammar section; the Sanskrit and the Kannada words of the supplied text. | B1, B6, C3, C8, Part I |
+| D2 | Every page is read a second time by the readers of Part I (R1–R6; R2 only where a unit has a grammar section, R4 only where the volume has a Summary of the bhāṣya; Part I is a draft, F34 records an earlier exception): numbers and references, names, negations, omissions, additions; the Sanskrit of the grammar section; the Sanskrit and the Kannada words of the supplied text. | B1, B6, C3, C8, Part I |
 | D3 | Ṛk numbers against the reference: every Ṛk present once, in order. | C1, B6 |
 | D4 | Every Sanskrit block under the heading of its own part. | A3 |
 | D5 | Same number of verses in the English and the Kannada book; no page without its mark; the Saṃhitā labels of the Kannada equal the Saṃhitā sub-headings and the Ṛk headings of the English; the `NOTE` marks of the English equal the rows of the volume's question list; the page marks of the two files are the same set. | B6 |
