@@ -262,7 +262,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F21 | **Size of the QA sample.** The Handbook: 12 stratified pages plus 12 Special Topics pages. F13: 48 pages. REPO_REVIEW: about 5% of pages. One rule to be chosen. | D8, H2.2 |
 | F22 | **Word files.** The Handoff says a Word file is regenerated on request; E says none are kept. Proposed: made on request, not committed. | E |
 | F23 | **Spelling of the printed verse** (इन्द्र or इंद्र): the reference and the edition differ. | C1 |
-| F24 | **Take the Sāyaṇa-bhāṣya out of the English volumes?** Open (user, Nov 20 2026, thinking; trial declined). Proposed meanwhile: a per-volume setting (K7) with the blocks kept as the default. | A3, C3, K7 |
+| F24 | **Take the Sāyaṇa-bhāṣya out of the English volumes?** *Decided in principle Nov 21 2026 (user):* whenever a few sūktas are finished in the reader, they are applied to the corresponding volume; **a tool that makes this switch is required** (K7). *Still open:* the setting's design (K7, "I will think about it"). | A3, C3, K7 |
 | F25 | **Uṇādi numbering.** The supplied text and the reference edition number the Uṇādi-sūtras differently; which is printed in the reader? | K3 |
 | F26 | **Older volumes.** Open: order of the supplied texts; whether to run the free reader measurement first; Vol 13 re-translation or a two-way experiment on 30 pages; whether the old wording is kept where a reader finds nothing; what happens to the old scan-based Vol 11. | Part M |
 
@@ -476,15 +476,18 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 - K5.4 The book is a reading copy until the release standard (H2) is met for it, and carries the rights position of H1; it holds none of the 1949–52 edition's commentary (K1.2), but the supplied Sanskrit and the accented verses fall under H1.2.
 
 ### K6. The reader needs, to be complete
-A stable address for every Ṛk (Maṇḍala.Sūkta.Ṛk), shown in the reader and used by the volumes; the reader's own copy of the Sanskrit blocks, checked line by line against the volume; support for the older layouts (Vols 1–10, 12, 14, 15), which the script cannot read yet; the two known gaps of the check (K4.1).
+**The switch tool of K7**; a stable address for every Ṛk (Maṇḍala.Sūkta.Ṛk), shown in the reader and used by the volumes; the reader's own copy of the Sanskrit blocks, checked line by line against the volume; support for the older layouts (Vols 1–10, 12, 14, 15), which the script cannot read yet; the two known gaps of the check (K4.1).
 
-### K7. How a volume refers to the reader — a setting per volume (proposed)
+### K7. How a volume refers to the reader — the switch
+*Principle decided Nov 21 2026 (user, F24): as sūktas are finished in the reader they are applied to the corresponding volume; the tool for this switch is a requirement. The design below is a proposal; the user will return to it (not decided).*
+
 - K7.1 `volcfg.json` gets a setting, **`bhashya`**: `block` (the volume prints Sāyaṇa's Devanagari block with its Gist, as now) or `reference` (the volume prints one line per Ṛk, "Sāyaṇa: bhāṣya reader M.S.R", with the page of the reader).
 - K7.2 **The data are never deleted.** The blocks and Gist stay in the units and files, which the audits and gates (`tools/rv/batch.py`) expect; the setting changes only what is printed. The Kannada book is unchanged either way.
 - K7.3 **Per-sūkta fallback.** `reference` takes effect for a sūkta only where the reader holds that sūkta's English, checked (K4.1) and second-read (K4.3). Elsewhere the block and Gist are printed.
 - K7.4 The Special Topics stay in the volume; they analyse the bhāṣya in Venkata Rao's voice.
 - K7.5 The default is `block`. Whether any volume is set to `reference` is F24. A trial is a **copy** of one volume (Vol 11, where both exist) built as a review PDF, with no original changed.
-- K7.6 *Not built:* the printer (`rv/printer.py`) has no such setting today; the section is identified in the units by its label, so a print-time filter is small. The cost of making the whole reader is not known; the measured figure is about 11,000 tokens per Ṛk (second readings included), which for the whole Saṃhitā would be of the order of 100 million tokens (an extrapolation that uses an unverified count of Ṛks).
+- K7.6 *Requirement of the tool (user, Nov 21 2026):* it takes the sūktas finished in the reader (K4.1 and K4.3 passed) and switches exactly those in the corresponding volume, reports which sūktas it switched and which it left, and can switch a sūkta back; it works from the data and never deletes them (K7.2).
+- K7.7 *Not built:* the printer (`rv/printer.py`) has no such setting today; the section is identified in the units by its label, so a print-time filter is small. The cost of making the whole reader is not known; the measured figure is about 11,000 tokens per Ṛk (second readings included), which for the whole Saṃhitā would be of the order of 100 million tokens (an extrapolation that uses an unverified count of Ṛks).
 
 ### K8. State (Nov 20 2026, from `sayana_bhr.md`)
 55 of 143 sūktas of the volumes the script can read have English (Vol 11: 21 of 21; Vol 16: 33 of 33; Vol 17: 1 of 41, the pilot 3.40; Vol 18: none). 43 of the 55 files fail the check (K4.6). The other 88 sūktas of Vols 17 and 18 are not started. Counts live in `volN/review/` and `volN/parts/`, not here.
