@@ -22,7 +22,7 @@ Until it is approved, the rules in force remain `CLAUDE.md`, `docs/HANDBOOK.md` 
 | M. Older volumes (1–10) | The method for bringing the scan-based volumes to these requirements. |
 | N. The form of a volume, stated completely | Exactly how a volume reads, from the first page to the last, in rules that refer to no other volume. |
 
-Marks used: **NEW** = differs from the volumes made so far (in Parts I–N: the part is new in Draft 4). **(F3)** = see open question 3 in Part F. The source of every requirement is listed in the appendix; the user's review comments of Nov 12 are kept verbatim in `docs/review/USER_REVIEW_2026-11-12.md`.
+Marks used: **(F3)** = see open question 3 in Part F. Which volumes already meet a requirement and which do not is not marked in the clauses; it is in Part G (conformance) and Part L. The source of every requirement is listed in the appendix; the user's review comments of Nov 12 are kept verbatim in `docs/review/USER_REVIEW_2026-11-12.md`.
 
 
 **Terms used throughout.** *Summary* = the printed name of the English summary of Sāyaṇa's commentary (working-file label "Gist of the bhāṣya"); *Gist* = the printed name of the sense of the verse (working-file label Bhāvārtha). *Word-to-word meaning* = Pratipadārtha. *Reader* alone means: in Part I a model reader (R1–R6); in Part J a person; in Part K "the reader" is the Sāyaṇa-bhāṣya book. *T12, T14, U12* and the like are items of `PUBLICATION_TODO.md`. *Working file* = a volume's `.md` files; *review copy* = a PDF marked REVIEW COPY; *the published book* = a release PDF.
@@ -43,7 +43,7 @@ Marks used: **NEW** = differs from the volumes made so far (in Parts I–N: the 
 
 Every volume has the same structure, section names, layout and abbreviations. A volume that differs is brought into line or listed as not conforming.
 
-### A2. Front matter — the same order in every volume **NEW**
+### A2. Front matter — the same order in every volume
 
 | No. | Page | What it shows | Taken from |
 |---|---|---|---|
@@ -79,8 +79,8 @@ The credits of the original edition are either marked clearly as taken from the 
 
 ### A4. The page (print)
 - **Footer:** the page number of the Kannada original and its Maṇḍala–Anuvāka–Varga line, so a reader can find the place in the Kannada book. (F3)
-- **Body:** no page numbers of the original. **NEW** (They are now printed as "p. N" marks in the text.)
-- **Footnotes:** not used for references. **NEW**
+- **Body:** no page numbers of the original. 
+- **Footnotes:** not used for references.
 
 ### A5. Kannada book
 The text of the original, page by page, with its Sanskrit in Kannada script. Nothing of ours stands in it beyond what is needed to find a page, a sūkta or a Ṛk. (F9)
@@ -91,7 +91,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 
 ### B1. Which source governs
 1. **The user's supplied text of the volume** is the base for everything, with the two exceptions below (B1.2 and B1.3). The sources of the front-matter pages are those named in the last column of A2.
-2. **Exception — the verse:** the Saṃhitā-pāṭha always comes from the reference text. **NEW**
+2. **Exception — the verse:** the Saṃhitā-pāṭha always comes from the reference text.
 3. **Exception — portraits:** from the first volume of the edition, in every volume.
 4. Outside these exceptions, no letter and no number is corrected from memory or from another edition.
 5. **No number where the print has none.** A printed number (Pāṇini, Uṇādi, Nirukta, a verse number) is copied as printed, even if another edition numbers differently; where the print has none, none is written.
@@ -110,11 +110,11 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 5. **Rendering:** no missing glyph or dotted circle (◌) in a PDF; the accent mark stands after the visarga or anusvāra; the Pada-pāṭha is unaccented; the svarita stroke is set in a font that draws it (Lohit Devanagari, decided Oct 2026).
 
 ### B3. References and abbreviations
-1. References stand **in the text**, where the original has them, written with **English abbreviations**. **NEW** (Many were moved to footnotes.)
+1. References stand **in the text**, where the original has them, written with **English abbreviations**.
 2. **One list for all volumes** gives every work cited: the Kannada form in the print, the English form we use, the full title. It starts from the bibliography of Vol 1 (PDF p. 39), which is to be checked for completeness.
 3. The same list records the **known mistakes**: misprints of the original, misreadings of the machine text (for example the letter read "si" is "ni" = Nirukta), and mistakes of the translation.
 4. Every volume uses exactly the abbreviations of that list.
-5. **A Ṛk quoted from elsewhere in the Saṃhitā is glossed with our own edition's translation of that Ṛk** (user, Nov 17 2026): the English that stands under the verse in the volume where the edition comments on it, taken by script from one table Maṇḍala–Sūkta–Ṛk → English; never a gloss composed on the spot and never another translator's. Where that volume is not made yet, the gloss is a **placeholder**, filled by script once the Ṛk's translation exists. Quotations from other works are glossed by the translator. *Decided in principle; its detail is open (F18, F32).* **NEW**
+5. **A Ṛk quoted from elsewhere in the Saṃhitā is glossed with our own edition's translation of that Ṛk** (user, Nov 17 2026): the English that stands under the verse in the volume where the edition comments on it, taken by script from one table Maṇḍala–Sūkta–Ṛk → English; never a gloss composed on the spot and never another translator's. Where that volume is not made yet, the gloss is a **placeholder**, filled by script once the Ṛk's translation exists. Quotations from other works are glossed by the translator. *Decided in principle; its detail is open (F18, F32).*
 6. **One form per work.** One work has one abbreviation in every volume and every script, with no "or" forms (decided Nov 19–20 2026: for example Ā. Sū. only, Ath. Saṃ. only). The list (`rv/references.tsv`) is made by the references review; about 31 Kannada forms and full names in it are proposals still to be confirmed (`reference_bhr.md`).
 7. **The legend** (the list of abbreviations printed in the volume) is generated from that one list, in the same order, in the Kannada, Devanagari and English forms, and printed in **every** volume, including those whose print has none. *Proposed (LEGEND_UNIFY_PROMPT; C10 and F19):* whether it shows all works or only those the volume cites is open.
 8. **Reference numbers are never changed by the names step**, and the script proves it. A number marked `[?]` is corrected only from the user's numerals file; no reference is corrected by hand. Every change of a name is a row of `volN/review/refs_applied.tsv`. A printed number that differs from the standard one is kept; a concordance is used only after the user is asked.
@@ -125,7 +125,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 
 ### B4. Nothing of ours in the text
 1. **No text about the making of the file:** no status lines at page breaks, no "the Sāyaṇa-bhāṣya from p. 235 continues here", no remarks on how the print looks.
-2. **Stray letters and words** of the supplied text (loose figures, page signatures, fragments) are removed. **NEW** (They were kept and noted.) (F4)
+2. **Stray letters and words** of the supplied text (loose figures, page signatures, fragments) are removed. (F4)
 3. **One mark only** for a place that needs the editor's decision: `NOTE`, **in the working files only**. Its question is in the volume's review list. No `[?]`, no `[sic]`, no "as supplied". The published book shows none of it (A1). (F7) *Exception for the time being:* `**GLOSS**` marks a quoted Ṛk whose gloss is still a placeholder (B3.5); the release gate refuses while one remains (D9). Whether quotations from other works are marked too is open (F18).
 4. **When a `NOTE` is used.** Only for a real doubt. Not for a certain machine slip, a garbled label or a stray line (those are B1.6 records). A misprint of the print is translated by its best reading and gets a `NOTE`; it is never silently put right. A `NOTE` is also used for a printed number that does not fit (the number stays as printed and the note says so; a note is never written about a number that was changed, because none is changed), for missing text, and for an abbreviation that cannot be expanded. Its question is short, factual and without apology; it names the Kannada words concerned in Kannada letters inside the braces `**NOTE**{…}` (the only place Kannada script may stand in the working English file; it is moved to the review list and is not in the published book). How a misprint shows in the published book is open (F20).
 5. **Removing a remark or turning it into a `NOTE`** is done by script, removes words only, adds none, logs the original in a list so that no information is lost, and is checked afterwards by reading a sample before and after. (The removal of "as supplied" from Vol 16 on Nov 12 2026 broke about 70 sentences.)
@@ -294,11 +294,27 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | Original page numbers out of the body, into the footer (A4) | to change in the print build | to change in the print build |
 | Front-matter order (A2) | Vol 15 built in the old order | not built yet |
 
+### Conformance by family of the requirements that older volumes may lack
+
+Families are those of Part L: **L1** legacy scan (Vols 1–10), **L2** older html form (12, 14, 15), **L3** transitional (16), **L4** the current form (11, 17–21; 13 to be re-translated into it). "Not checked" means no record says; it is not a pass. A tool that reports this per volume does not exist and is wanted; until it does these entries come from the status files and the surveys of Nov 21 2026.
+
+| Requirement | L1 | L2 | L3 | L4 |
+|---|---|---|---|---|
+| Front matter in the order of A2 (A2) | not built | Vol 15 built in the old order; Vols 12, 14 not built | not built | Vol 18 partly built; Vols 11, 17, 20 title and credits only; Vols 19, 21 none |
+| Original page numbers out of the body and into the footer (A4) | print build to change | print build to change | print build to change | done in the review build of Vol 17; not checked in the others |
+| No footnotes for references (A4) | not checked | Vol 15 moved remarks to footnotes; others not checked | not checked | not checked |
+| The verse printed from the reference (B1.2) | Vol 2 Sūktas 3–19 only; others to change | to change | to change | Vol 17 done; the reference verses of Maṇḍalas 6–7 are not in the repository yet (Vol 21 cannot meet it) |
+| References in the text with the one list's abbreviations (B3.1, B3.6) | to change; not checked | to change in the print build | to change in the print build | mostly done in Vols 17, 18, 11; Vols 19–21 not checked |
+| Quoted Ṛk glossed from our own edition (B3.5) | `**GLOSS**` markers in Vols 2–8; none elsewhere | not checked | not checked | placeholder everywhere: the table of Ṛk translations does not exist; `**GLOSS**` in Vols 20, 21 |
+| Stray letters and words removed (B4.2) | not checked | kept or noted | kept or noted | done |
+| Nothing of ours in the text (B4.1, B4.3) | `[?]`, `[sic]`, "as supplied" remain | many remarks remain | remarks remain | done (a `NOTE` list instead) |
+| Sāyaṇa-bhāṣya reader available (K) | no | no | Vol 16 done (33 of 33) | Vol 11 done (21 of 21); Vol 17: 1 of 41; others none |
+
 **The scan-based volumes (1–10, 13)** need all of the above and, first, the correction of their reading errors and a Kannada book each (none exists for Vols 2–10 and 13). What goes wrong in them is in `docs/ERROR_KINDS.md`, Part 2; a proposal for doing it at low cost is in `docs/LEGACY_VOLUMES_PLAN.md`. It depends on the supplied machine-read text of those volumes.
 
 ---
 
-## H. Publication readiness — what is missing before a volume can be published **NEW**
+## H. Publication readiness — what is missing before a volume can be published
 
 Parts A–G describe the book. This part lists what a *published* book needs beyond that. It was added on Nov 12 2026 at the user's request ("think carefully as to what we are missing if we want to actually publish these documents soon"). Facts marked *(to verify)* were looked up on the web on Nov 12 2026 from secondary sources and must be confirmed before anyone relies on them; nothing here is legal advice.
 
@@ -363,7 +379,7 @@ Parts A–G describe the book. This part lists what a *published* book needs bey
 
 ---
 
-## I. Second reading **NEW**
+## I. Second reading
 
 *Draft Nov 21 2026, from `docs/ERROR_KINDS.md` (kind codes H1–H43, S1–S26 are those of that file) and `docs/DESIGN.md` §5.4. Not yet decided by the user.*
 
@@ -420,7 +436,7 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 ### I7. Not built yet
 The packets, the findings file, the marks of I3.4, the instructions for R2–R6, and the measurements of I5. Until they are, D2 is carried out by hand or by the Vol 12 method.
 
-## J. Human reading **NEW**
+## J. Human reading
 
 *Draft Nov 21 2026. Gathers what Parts B, D, F, H and I say about the people who read; adds nothing the user has not decided except where marked "proposed".*
 
@@ -449,7 +465,7 @@ The packets, the findings file, the marks of I3.4, the instructions for R2–R6,
 - J3.4 *Proposed:* the editor's decision is final for its place; a finding of the scholar or the proof reader is a proposal until the editor accepts it.
 - J3.5 *Proposed:* a sample that finds an error is followed by a sample twice its size (the checklist asks for it; it was not run for Vol 18 or the new Vol 11).
 
-## K. The Sāyaṇa-bhāṣya reader **NEW**
+## K. The Sāyaṇa-bhāṣya reader
 
 *Drafted Nov 21 2026 from `sayana_bhr.md`, `tools/rv/BHASHYA_BRIEF.md`, `docs/BHASHYA_RUN.md` and the user's statement of Nov 21 2026 that the bhāṣya in Devanagari, transliteration and full English meaning is to be a separate book, made in its own session. Item T14 of `PUBLICATION_TODO.md`. The facts of the state are those of the record of Nov 18–20 2026 and are not recounted.*
 
@@ -503,7 +519,7 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 
 ---
 
-## L. The volumes **NEW**
+## L. The volumes
 
 *One row per volume. Stable facts only: counts of open items live in each `volN/STATUS.md`. From the status files of Nov 21 2026; figures are theirs. Families: **L1** legacy scan (read from images, older layouts); **L2** older html form (agent flow, remarks kept); **L3** transitional (Vol 16); **L4** the Vol 17 form (`NOTE`, bhāṣya block in Devanagari only, grammar in Sanskrit, sub-headings).*
 
@@ -537,7 +553,7 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 
 ---
 
-## M. Older volumes (1–10) **NEW**
+## M. Older volumes (1–10)
 
 *From `docs/LEGACY_VOLUMES_PLAN.md`, `docs/LEGACY_SCAN_WORKFLOW.md` and `docs/DESIGN.md` §7. A proposal, not decided; the open points are F26.*
 
@@ -550,7 +566,7 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 - M7 **Rules of the scan period** that hold for any volume still read from images: where a printed page number repeats, the second page is a scan duplicate: it is skipped and noted; if an image view returns no image, stop and report, never write that page; the Kannada digit key (2/3/7, 3/5, 6/7, 8/9); the numeral method of Oct 2026 (two machine readers agreeing; the eye only where they differ).
 - M8 **Vol 13** is not corrected but re-translated (decided Nov 11 2026); its old text is kept in `vol13/legacy/`. **Old Vol 11** (scan-based) is replaced by the re-translation.
 
-## N. The form of a volume, stated completely **NEW**
+## N. The form of a volume, stated completely
 
 *Nov 21 2026. This part describes, without reference to any other volume, exactly what a volume of the current form contains and in what order. It was written from the Vol 17 files (the pilot of the form) and states what those files show; Parts A and C give the same matter in outline and are to be brought into line with it. Names in the working files (the "data names") differ in some places from the names printed in the book; both are given. Anything the original print does not have is not made up: "where the original has it" means the part is present only then.*
 
