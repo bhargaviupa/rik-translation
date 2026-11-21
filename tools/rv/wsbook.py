@@ -65,8 +65,8 @@ def cut(par):
     return res
 
 
-def units(m, s):
-    """[(ref, n, deva)] in Sāyaṇa's order, and the list of moved paragraphs."""
+def units_v1(m, s):
+    """First cut (paragraph and ॥ pieces): [(ref, n, deva)] in Sāyaṇa's order, and the moved paragraphs."""
     d = load(m, s)
     ref = lambda n, k: f'{m}.{s}.{n}.{k}'
     out, moved, pre = [], [], []
@@ -94,6 +94,66 @@ def units(m, s):
             moved.append((f'{m}.{s}', r['n'], r['n'] + 1, p[:70]))
         pre = nxt
     return out, moved, d
+
+
+TAIL = re.compile(r'[\s"“”‘’\'()\[\]०-९0-9.,:;*°]+$')
+WEAK = ('यद्वा', 'अथवा', 'किंच', 'किञ्च', 'तथा')
+
+
+def ends_open(u):
+    """True if the unit stops before the end of a sentence: no ।/॥ at the end, a line-end hyphen, or a lone connective."""
+    x = TAIL.sub('', u)
+    if x.endswith('-'):
+        return True
+    if not (x.endswith('।') or x.endswith('॥')):
+        return True
+    w = TAIL.sub('', x.rstrip('।॥ ')).split()
+    return bool(w) and w[-1] in WEAK
+
+
+def regroup(us):
+    """Join consecutive first-cut units of one Ṛk where the earlier one stops mid-sentence (not above 150 words).
+    Returns [(ref, n, deva, [old refs])]; a line-end hyphen is dropped with the join."""
+    out = []
+    for ref, n, u in us:
+        if out and out[-1][1] == n and ends_open(out[-1][2]) and len(out[-1][2].split()) + len(u.split()) <= 150:
+            prev = out[-1]
+            a = prev[2].rstrip()
+            joined = (a[:-1].rstrip() + u.lstrip()) if TAIL.sub('', a).endswith('-') else a + ' ' + u
+            out[-1] = (prev[0], n, joined, prev[3] + [ref])
+        else:
+            out.append((ref, n, u, [ref]))
+    k, res = {}, []
+    for ref, n, u, olds in out:                                   # renumber within each Ṛk
+        k[n] = k.get(n, 0) + 1
+        res.append((ref.rsplit('.', 1)[0] + f'.{k[n]}', n, u, olds))
+    return res
+
+
+def units(m, s):
+    """[(ref, n, deva)] in Sāyaṇa's order (units cut at sentence ends), the moved paragraphs, the page data."""
+    us, moved, d = units_v1(m, s)
+    return [(r, n, u) for r, n, u, _ in regroup(us)], moved, d
+
+
+def cmd_regroup(m, s):
+    """One-off: bring an English file written for the first cut over to the sentence-end units, by joining the
+    sections that were joined in the Sanskrit (nothing else changes)."""
+    vol = volume_for(m, s)
+    us1, _, _ = units_v1(m, s)
+    grp = regroup(us1)
+    _, ep = paths(m, s, vol)
+    pre, got = read_en(ep)
+    have = dict(got)
+    if [h for h, _ in got] == [f'SBh {g[0]}' for g in grp]:
+        print(f'{m}.{s}: already in the sentence-end units'); return 0
+    out = []
+    for ref, n, u, olds in grp:
+        parts = [have[f'SBh {o}'] for o in olds]
+        out.append(f'## SBh {ref}\n\n' + '\n\n'.join(parts) + '\n')
+    ep.write_text('\n'.join(out), encoding='utf-8')
+    print(f'{m}.{s}: {len(got)} sections → {len(grp)}')
+    return 0
 
 
 def vol_of(m):
@@ -244,7 +304,7 @@ def cmd_build(vol):
                 body += ['**Saṃhitā**', '', '> ' + '  \n> '.join(r['samhita'].split('\n')), '',
                          '> *' + '*  \n> *'.join(deva_to_iast(x) for x in r['samhita'].split('\n')) + '*', '',
                          '**Pada**', '', '> ' + '  \n> '.join(r['pada'].split('\n')), '',
-                         '> *' + '*  \n> *'.join(deva_to_iast(x) for x in r['pada'].split('\n')) + '*', '']
+                         '> *' + '*  \n> *'.join(deva_to_iast(x.replace('ऽ', '-')) for x in r['pada'].split('\n')) + '*', '']
             for ref, _, u in byn[n]:
                 h = f'SBh {ref}'
                 e = en.get(h, '').strip()
@@ -287,6 +347,7 @@ def main(a):
         for r in us: print(f'SBh {r[0]}  ({len(r[2].split())} words)  {r[2][:110]}')
         print(f'{len(us)} units; moved: {moved}'); return 0
     if a[0] == 'task': return cmd_task(m, s)
+    if a[0] == 'regroup': return cmd_regroup(m, s)
     if a[0] == 'check': return check(m, s)
     sys.exit(__doc__)
 
