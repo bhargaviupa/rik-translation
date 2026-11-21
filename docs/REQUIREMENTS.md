@@ -16,6 +16,7 @@ Until it is approved, the rules in force remain `CLAUDE.md`, `docs/HANDBOOK.md` 
 | G. Effect on existing volumes | What each finished volume would need. |
 | H. Publication readiness | What is still missing before any volume can actually be published. |
 | I. Second reading | What the second reading must find, which kinds of error need which reader, how each reader is measured, and what it cannot do. |
+| J. Human reading | Which readings only a person can do, who does them, and where each decision is recorded. |
 
 Marks used: **NEW** = differs from the volumes made so far. **(F3)** = see open question 3 in Part F. The source of every requirement is listed in the appendix; the user's review comments of Nov 12 are kept verbatim in `docs/review/USER_REVIEW_2026-11-12.md`.
 
@@ -361,6 +362,35 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 ### I7. Not built yet
 The packets, the findings file, the marks of I3.4, the instructions for R2–R5, and the measurements of I5. Until they are, D2 is carried out by hand or by the Vol 12 method.
 
+## J. Human reading **NEW**
+
+*Draft Nov 21 2026. Gathers what Parts B, D, F, H and I say about the people who read; adds nothing the user has not decided except where marked "proposed".*
+
+### J1. Readers
+| Role | Who | Reads |
+|---|---|---|
+| Editor | the user | the `NOTE` list; places where the supplied text and the print may differ; the composed Sanskrit of the grammar sections; the release PDF |
+| Scholar | a reader of Sanskrit and Kannada, not yet named (H2.3) | a sample of every volume |
+| Proof reader | the editor, or a person the editor names (H3.5) | the printed proof of one volume |
+
+### J2. Readings
+| No. | Reading | Reader | Produces | Source |
+|---|---|---|---|---|
+| HR1 | Decide every `NOTE` question | Editor | a decision per question in `volN/review/notes.tsv`, carried out as a logged repair | B4.3, H2.1 |
+| HR2 | Settle places a model reader flagged and only the print can settle (shared misreads, verse differences, damaged source) | Editor | decision: reading, "edition differs" (`verse_decisions.tsv`), or "text damaged in the source" | B5.2, F14, I6.1 |
+| HR3 | Read the composed Sanskrit of each grammar section against the Kannada | Editor, or a Sanskrit reader the editor names | accepted, or a correction with its reason | C8, I6.3 |
+| HR4 | Mark a sample of a model reader's findings real or false | Editor | the answer key for that reader | I5.2 |
+| HR5 | Scholar's sample | Scholar | a list of errors by kind code | H2.3, F13 |
+| HR6 | Proof the printed book | Proof reader | a list of faults of layout and script | H3.5 |
+| HR7 | Release reading | Editor | approval, or a list of faults | A1, D9 |
+
+### J3. Recording
+- J3.1 A reading counts only if it is recorded in a file of the volume's folder, with the reader's role, the date and the number of items compared. A unit nobody read is "not read", never "clean" (Part D).
+- J3.2 A decision never alters the supplied text; it is carried out as a logged repair (`volN/review/repair_log.md`, E).
+- J3.3 Every finding carries a kind code of `docs/ERROR_KINDS.md` and a basis (the Kannada words, the print page, the Ṛk or the Pada-pāṭha); without a basis it is a question.
+- J3.4 *Proposed:* the editor's decision is final for its place; a finding of the scholar or the proof reader is a proposal until the editor accepts it.
+- J3.5 *Proposed:* a sample that finds an error is followed by a sample twice its size (the checklist asks for it; it was not run for Vol 18 or the new Vol 11).
+
 ## Appendix: where each requirement comes from
 
 | Requirement | Source |
@@ -375,3 +405,4 @@ The packets, the findings file, the marks of I3.4, the instructions for R2–R5,
 | D3–D8 | existing checks and the lessons of Vols 17, 18, 11 (`docs/LESSONS.md`) |
 | H | added Nov 12 2026 at the user's request; facts marked *(to verify)* from a web search of that day |
 | I (second reading) | user, Nov 21 2026 (Sanskrit errors are the glaring ones); `docs/ERROR_KINDS.md`; `docs/DESIGN.md` §5.4; F13 |
+| J (human reading) | Parts B, D, F, H, I as cited; J3.4 and J3.5 proposed Nov 21 2026 |

@@ -25,6 +25,7 @@
 
 ## Before anything is published
 
+- **Human reading** (requirement Part J): decide who the scholar is and the size of the scholar's sample; who reads the composed Sanskrit of the grammar sections (HR3: the editor alone, or a named Sanskrit reader); whether J3.4 (the editor's decision is final, the scholar's and proof reader's findings are proposals) and J3.5 (doubled sample after an error) are accepted; how many questions a week the editor can answer, which sets the release date.
 12. **Rights** (requirement H1): the Kannada edition; the reference text of the verses ("personal study only"); portraits and cover; the statement of how the translation was made.
 13. **A scholar's sample** of every volume; the release standard of requirement H2.
 
