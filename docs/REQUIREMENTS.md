@@ -175,7 +175,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 | No. | Check | Covers |
 |---|---|---|
 | D1 | The structure of Part A is produced by script, not written by the translator. | A2, A3 |
-| D2 | Every page is read a second time by the readers of Part I (R1–R5): numbers and references, names, negations, omissions, additions; the Sanskrit of the grammar section; the Sanskrit of the supplied text. | B1, B6, C3, C8, Part I |
+| D2 | Every page is read a second time by the readers of Part I (R1–R6): numbers and references, names, negations, omissions, additions; the Sanskrit of the grammar section; the Sanskrit and the Kannada words of the supplied text. | B1, B6, C3, C8, Part I |
 | D3 | Ṛk numbers against the reference: every Ṛk present once, in order. | C1, B6 |
 | D4 | Every Sanskrit block under the heading of its own part. | A3 |
 | D5 | Same number of verses in the English and the Kannada book; no page without its mark. | B6 |
@@ -327,6 +327,7 @@ One reader is one instruction with one input and one list of error kinds. They a
 | **R3 Sanskrit sense** | the Devanagari of the supplied bhāṣya, quotations, Pada-pāṭha and word meanings | itself, the Ṛk, the Pada-pāṭha, the reference text (for settling only) | a word that is not a word (misread letters such as त्म/त्र); a letter pattern of a known typeface trap; a proposed reading with its basis | H24, S7, S9 (and S11 where text was completed from memory) |
 | **R4 Gist** (Vol 17 onwards) | the English Gist | the Devanagari bhāṣya block | "does the block say this?" and "is everything in the block rendered?" for each sentence; the grammatical tail is not required | H30 for the Gist form |
 | **R5 Words** | the word-to-word meanings and the deviations noted | the Kannada word meanings, the Pada-pāṭha | a meaning that differs from the Kannada; a deviation of the Pada-pāṭha not mentioned (user, Nov 12) | H29, S7 |
+| **R6 Kannada text** | the Kannada of each unit as supplied (prose, names, word meanings, Pada-pāṭha in Kannada script where present) | itself in context: the sentence, the Ṛk, the Sanskrit beside it | a word that is not a Kannada word (broken conjunct, stray vowel sign); a real word that makes no sense where it stands; a name or term misread for a look-alike (for example Lāgākṣi read Laugākṣi); Kannada vowel signs carried into Devanagari; a proposed reading with its basis | H24, S7, S9, S13 |
 
 The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for example "si" for "ni") is a **script** check (D6); a reader may report one it sees, but is not relied on for it.
 
@@ -334,7 +335,7 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 - I3.1 Work is cut into **packets** (DESIGN §4): a numbered list of units with their text. The answer is a file of findings with the same numbers.
 - I3.2 A finding has: unit number; **kind code** from `ERROR_KINDS.md`; the words concerned, quoted from the unit; what the reader would write instead; and its **basis** (the Kannada words, the Ṛk, the Pada-pāṭha). A finding without a basis is a question, not an error.
 - I3.3 Two questions per sentence for R1 and R4: does the source say this? is everything in the source rendered?
-- I3.4 A reader that finds nothing marks the unit "read by R*n*, model, date". A volume is "second-read" only when every unit carries the mark of every reader that applies to it (R2 only where the unit has a grammar section, R4 only from Vol 17).
+- I3.4 A reader that finds nothing marks the unit "read by R*n*, model, date". A volume is "second-read" only when every unit carries the mark of every reader that applies to it (R2 only where the unit has a grammar section, R4 only from Vol 17; R6 every unit).
 - I3.5 Every packet reports how many units it compared (D, last line). Unread units are "not read", never "clean".
 
 ### I4. What is done with a finding (DESIGN §5.4, extended)
@@ -344,23 +345,25 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 | R2: wrong or missing Sanskrit | the grammar section of that unit is composed again with the finding as a hint; read once more by R2. One round only. |
 | R3: a misread word with a certain reading | recorded as a reading (supplied letters → reading → basis, as in `bhashya_readings.tsv`); the supplied text is **not** altered |
 | R3: not certain | `**NOTE**{question}` for the editor |
+| R6: a corrupted Kannada word with a certain reading | recorded as a reading (supplied letters → reading → basis); the supplied text is **not** altered, and the Kannada book is changed only by a logged repair after the editor decides (HR2) |
+| R6: not certain, or a name or term that may be a valid look-alike | `**NOTE**{question}` for the editor, settled against the print |
 | Still disagreed, or a question of judgement | a question for the editor, with both wordings |
 | A fault of the supplied text | list for the editor (H34–H37) |
 
 ### I5. Measurement before a reader is trusted
 - I5.1 Each reader is **measured on pages with known errors**, as was done for R1 on 72 pages of Vol 12 (18 known errors: Sonnet found 10, Haiku 7, about 13,500 agent tokens a page). The share of known errors found is the reader's score, written into the design.
-- I5.2 **R2 and R3 have never been measured.** There is no answer key for them. First step: the user marks real and false findings on a sample (one sūkta with grammar sections, one volume of supplied bhāṣya); the real ones become the key.
+- I5.2 **R2, R3 and R6 have never been measured.** There is no answer key for them. First step: the user marks real and false findings on a sample (one sūkta with grammar sections, one volume of supplied bhāṣya, a sample of Kannada pages for R6); the real ones become the key.
 - I5.3 A cheaper model is used only if its score is as good. Models are compared on the same sample, with cost, before any volume is run.
 - I5.4 The release standard (F13, H2.2) stays: second reading of every page, then 48 pages read by a different model and a sample by a scholar.
 
 ### I6. Limits (stated so that nobody relies on more than the reader can give)
 - I6.1 **A reader sees only the supplied text.** A misreading shared by the Kannada and the Sanskrit of the supplied text is invisible unless it makes a non-word. Only the user, with the print, can settle such a place.
 - I6.2 **One reading finds about half.** Where a kind matters (I1.2), two readers of different models are used.
-- I6.3 **A reader's Sanskrit is not authority.** R2 and R3 findings are proposals; the composed Sanskrit of the grammar remains the editor's to read before release (CLAUDE.md rule 1).
-- I6.4 **Cost is estimated, not measured.** About a third to a half of translation for R1 (DESIGN §7). No figure for R2–R5. Nothing is sent to the API before the user has seen the estimate; every reader must be runnable by agents as well.
+- I6.3 **A reader's Sanskrit and Kannada are not authority.** R6 finds non-words and words that do not fit; it cannot see a misread that gives another valid name or term.  R2, R3 and R6 findings are proposals; the composed Sanskrit of the grammar remains the editor's to read before release (CLAUDE.md rule 1).
+- I6.4 **Cost is estimated, not measured.** About a third to a half of translation for R1 (DESIGN §7). No figure for R2–R6. Nothing is sent to the API before the user has seen the estimate; every reader must be runnable by agents as well.
 
 ### I7. Not built yet
-The packets, the findings file, the marks of I3.4, the instructions for R2–R5, and the measurements of I5. Until they are, D2 is carried out by hand or by the Vol 12 method.
+The packets, the findings file, the marks of I3.4, the instructions for R2–R6, and the measurements of I5. Until they are, D2 is carried out by hand or by the Vol 12 method.
 
 ## J. Human reading **NEW**
 
