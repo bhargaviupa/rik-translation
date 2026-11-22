@@ -13,6 +13,14 @@ REFERENCE POINTS (one scheme for all volumes; M = maṇḍala, S = sūkta, R = �
   M.S.R.P      one paragraph of Sāyaṇa's bhāṣya, as the page has it (R = 0: the introduction before Ṛk 1)
 A volume can pick any layers per Ṛk: `get 1.137.2` returns them all, the caller chooses.
 
+HOW THE PAGES ARE READ. Ṛks are found from the page's own plain Saṃhitā (the <poem> blocks): Ṛk n has k lines there, and
+the template holds its accented Saṃhitā, accented Pada and plain Pada, k lines each (some pages give the Saṃhitā of several
+Ṛks first, then Pada pairs; some lack the accented Pada). When that fails a second reader goes by the shape of the lines.
+`rik.bh_at` = the Ṛk whose section holds Sāyaṇa's text for this Ṛk (Sāyaṇa often comments on two or three Ṛks together; the
+text stands after the last of them). Footnotes (<ref>) become a marker [१] in the paragraph and a row in `extra`. A second
+template name, भाष्यम्, holds Sāyaṇa for the Vālakhilya sūktas (8.49–8.59) and some extra blocks. `sukta.layout` = per-rik
+or partial (some Ṛk could not be placed: 10.27 Ṛk 1, whose first accented Pada line is missing on the page).
+
 TABLES  sukta · rik · para · extra · meta. Every Devanagari column has a `*_s` twin with accents, quotation marks,
 danda, digits and spacing removed (used by `search`). Nothing is corrected; markup of the wiki ([[links]], '''bold''',
 HTML tags) is removed and nothing else is changed. What is not understood is kept in `extra` or listed in `checks.tsv`.
@@ -81,7 +89,7 @@ def template_spans(t):
 def parse_sukta(m, s, wt):
     chk, extras = [], []
     spans = template_spans(wt)
-    hdr, bh, body_parts, last = {}, None, [], 0
+    hdr, bh, bh_alt, body_parts, last = {}, None, None, [], 0
     for a, b in spans:
         tpl = wt[a:b]
         nm = re.match(r'\{\{+\s*([^|\n}]+)', tpl)
@@ -90,65 +98,163 @@ def parse_sukta(m, s, wt):
             for k, v in re.findall(r'^\s*\|\s*(\w+)\s*=(.*)$', tpl, flags=re.M): hdr[k] = unwiki(v).strip()
         elif name == 'सायणभाष्यम्':
             bh = tpl[tpl.index('|') + 1:-2]
+        elif name == 'भाष्यम्':
+            bh_alt = tpl[tpl.index('|') + 1:-2]                 # Sāyaṇa under another template name (the Vālakhilya sūktas)
+            extras.append((name, unwiki(tpl)))
         elif re.fullmatch(r'ऋग्वेदः मण्डल [०-९]+', name):
             pass
         else:
             extras.append((name, unwiki(tpl)))
         body_parts.append(wt[last:a]); last = b
     body_parts.append(wt[last:])
+    if bh is None and bh_alt is not None:
+        bh = bh_alt; extras[:] = [x for x in extras if x[0] != 'भाष्यम्']; chk.append('info: Sāyaṇa is under the template भाष्यम् (running text)')
     rest = ''.join(body_parts)
     cats = re.findall(r'\[\[(?:Category|वर्गः|श्रेणी):[^\]]*\]\]', rest)
     for c in cats: extras.append(('category', c))
-    # plain Saṃhitā: lines of the poem block, grouped at ॥N॥
-    pm = re.search(r'<poem[^>]*>(.*?)</poem>', rest, flags=re.S)
+    # plain Saṃhitā: every <poem> block of the page, lines grouped at ॥N॥ (the last group may lack its mark)
+    pms = re.findall(r'<poem[^>]*>(.*?)</poem>', rest, flags=re.S)
     plain, buf = [], []
-    for line in unwiki(pm.group(1) if pm else '').split('\n'):
+    for line in unwiki('\n'.join(pms)).split('\n'):
         line = line.strip()
         if not line: continue
         buf.append(line)
-        if re.search(r'[॥।]+\s*[०-९0-9]+\s*[॥।]+\s*$', line):
+        mm = list(re.finditer(r'[॥।]+\s*[०-९0-9]+\s*[॥।]+', line))
+        if mm and len(line) - mm[-1].end() <= 45:                 # closing ॥N॥, possibly followed by a mark like * or a short note
             plain.append('\n'.join(buf)); buf = []
-    if buf: chk.append(f'plain Saṃhitā: {len(buf)} lines after the last Ṛk end')
-    if not pm: chk.append('no <poem> block')
+    if buf and re.search('[॥।]', ' '.join(buf)):
+        plain.append('\n'.join(buf)); chk.append(f'plain Saṃhitā: the last Ṛk ({len(plain)}) has no closing number; taken as a Ṛk')
+    elif buf:
+        chk.append(f'info: text after the last Ṛk of the plain Saṃhitā ignored: {" ".join(buf)[:40]!r}')
+    if not pms: chk.append('no <poem> block')
     paras = []
     if bh is not None:
+        fn = []
+        def _fn(mm):
+            fn.append(unwiki(mm.group(1)).strip())
+            return '[' + str(len(fn)).translate(str.maketrans('0123456789', '०१२३४५६७८९')) + ']'
+        bh = re.sub(r'<ref>(.*?)</ref>', _fn, bh, flags=re.S)          # footnotes: a marker [१] in the text, the note in `extra`
+        for k_, f_ in enumerate(fn, 1): extras.append((f'footnote {k_}', f_))
         for line in unwiki(bh).split('\n'):
+            if re.fullmatch(r'[A-Za-z ]+', line.strip() or '-'):
+                chk.append(f'info: editor label {line.strip()!r} dropped (the raw text keeps it)'); continue
+            if len(line.strip()) <= 3 and not re.search('[॥।]|[०-९0-9]', line):
+                if line.strip(): chk.append(f'info: stray fragment line {line.strip()!r} dropped (the raw text keeps it)')
+                continue
             if line.strip(): paras.append(line.strip())
     else:
         chk.append('no सायणभाष्यम् template')
     def mk(i):
         mm = MARK.search(paras[i]); return int(mm.group(1).translate(DEV)) if mm else None
-    riks, i = [], 0
-    while i < len(paras):
+    def kind(i):
         l = paras[i]
-        if mk(i) is not None and ACC.search(l) and ' । ' not in l and len(l) < 300:
-            n, a = mk(i), i
-            b = next((j for j in range(a + 1, min(a + 6, len(paras))) if mk(j) == n and ACC.search(paras[j])), None)
-            c = next((j for j in range(b + 1, min(b + 6, len(paras))) if mk(j) == n and not ACC.search(paras[j])), None) if b else None
-            if b is None or c is None:
-                chk.append(f'Ṛk {n}: Pada lines not found after paragraph {a}'); i += 1; continue
-            st = a
-            while st - 1 >= 0 and ACC.search(paras[st - 1]) and ' । ' not in paras[st - 1] and len(paras[st - 1]) < 200 \
-                    and mk(st - 1) is None and (not riks or st - 1 > riks[-1]['c']):
-                st -= 1
-            riks.append({'n': n, 'a0': st, 'a': a, 'b': b, 'c': c}); i = c + 1
-        else:
-            i += 1
+        if ACC.search(l) and len(l) < 500:
+            return 'PA' if re.search(r'।\s+[^\s॥।]', l) else 'S'      # a danda between words: a Pada line
+        return 'O'
+    def dcount(l): return l.replace('।।', '॥').count('।')
+    def like_pada(x, y):
+        """paragraph x (no accents) is the plain twin of the accented Pada line y: same words, about as long, same danda count"""
+        a, b = paras[x], paras[y]
+        return (kind(x) == 'O' and 0.45 * len(b) <= len(a) <= 1.1 * len(b)
+                and dcount(a) >= max(1, 0.6 * dcount(b)) and dcount(a) <= 1.5 * dcount(b) + 1)
+    def find_old():
+        """Ṛks found by the shape of the lines: accented Saṃhitā run, accented Pada run, plain Pada lines."""
+        riks, i, last_n = [], 0, 0
+        notes = []
+        while i < len(paras):
+            if kind(i) == 'S' and (i == 0 or kind(i - 1) != 'S'):
+                j = i
+                while j < len(paras) and kind(j) == 'S': j += 1
+                k = j
+                while k < len(paras) and kind(k) == 'PA' and k - j < j - i: k += 1       # as many Pada lines as Saṃhitā lines
+                while k < len(paras) and kind(k) == 'PA' and len(ACC.findall(paras[k])) >= 0.05 * len(paras[k]):   # more only if clearly accented
+                    k += 1
+                pa = list(range(j, k))
+                ok, plain_ix = False, []
+                if pa:
+                    tot_len = sum(len(paras[y]) for y in pa); tot_d = sum(dcount(paras[y]) for y in pa)
+                    x, acc_d, acc_len = k, 0, 0
+                    while x < len(paras) and acc_d < 0.85 * tot_d and len(paras[x]) < 500 and '।' in paras[x]:
+                        plain_ix.append(x); acc_d += dcount(paras[x]); acc_len += len(paras[x]); x += 1
+                    ok = bool(plain_ix) and 0.4 * tot_len <= acc_len <= 1.15 * tot_len and acc_d <= 1.3 * tot_d + 1
+                if not ok:
+                    notes.append(f'Ṛk after Ṛk {last_n}: Saṃhitā at paragraph {i}, its Pada lines not recognised'); i = j; continue
+                n = next((mk(x) for x in (j - 1, k - 1, plain_ix[-1]) if mk(x) is not None), None)
+                if n is None: n = last_n + 1
+                if n != last_n + 1: notes.append(f'Ṛk number {n} follows {last_n}')
+                riks.append({'n': n, 'a0': i, 'a': j - 1, 'b': k - 1, 'c': plain_ix[-1]}); last_n = n; i = plain_ix[-1] + 1
+            else:
+                i += 1
+        return riks, notes
+
+    def find_anchored():
+        """Ṛks found by the plain Saṃhitā of the page. Ṛk n has k lines there; on the page come its accented Saṃhitā,
+        accented Pada and plain Pada, k lines each. Some pages put the Saṃhitā of several Ṛks first and then
+        (accented Pada, plain Pada) for each of them, or give no accented Pada; both are tried."""
+        import difflib
+        riks, pos, notes, n0 = [], 0, [], 1
+        dups = set()
+        L = [len(pl.split('\n')) for pl in plain]
+        acc = lambda x: bool(ACC.search(paras[x]))
+        light = lambda x: len(ACC.findall(paras[x])) <= 3 or len(ACC.findall(paras[x])) < 0.08 * len(paras[x])
+        def attempt(q, m):
+            ks = L[n0 - 1:n0 - 1 + m]
+            K = sum(ks)
+            if len(ks) < m or q + K > len(paras) or not all(acc(x) for x in range(q, q + K)): return None
+            items, p2, s_off = [], q + K, q
+            for idx, k in enumerate(ks):
+                sl = '\n'.join(paras[s_off:s_off + k])
+                if difflib.SequenceMatcher(None, squash(sl), squash(plain[n0 - 1 + idx]), autojunk=False).ratio() < 0.8: return None
+                s = (s_off, s_off + k); s_off += k
+                if p2 + 2 * k <= len(paras) and all(acc(x) for x in range(p2, p2 + k)) and all(light(x) for x in range(p2 + k, p2 + 2 * k)):
+                    pa, pl = (p2, p2 + k), (p2 + k, p2 + 2 * k); p2 += 2 * k
+                elif p2 + k <= len(paras) and all(not acc(x) for x in range(p2, p2 + k)) and idx == 0 and m == 1:
+                    pa, pl = (p2, p2), (p2, p2 + k); p2 += k
+                else:
+                    return None
+                items.append({'n': n0 + idx, 's': s, 'pa': pa, 'pl': pl})
+            return items, p2
+        while n0 <= len(plain):
+            hit = None
+            for q in range(pos, len(paras)):
+                if not acc(q): continue
+                if (q + 1 < len(paras) and acc(q + 1) and len(paras[q]) > 20 and
+                        difflib.SequenceMatcher(None, squash(paras[q]), squash(paras[q + 1]), autojunk=False).ratio() >= 0.9):
+                    dups.add(q); continue                    # a line printed twice: the first copy is set aside
+                for m in range(1, 7):
+                    r = attempt(q, m)
+                    if r: hit = r; break
+                if hit: break
+            if not hit:
+                notes.append(f'Ṛk {n0}: not found by its plain Saṃhitā'); n0 += 1; continue
+            items, pos = hit
+            riks += items; n0 += len(items)
+        for q in sorted(dups):
+            if q < pos: notes.append(f'info: a line of the accented Saṃhitā is printed twice on the page (paragraph {q}); the first copy is set aside')
+        return riks, notes, dups
+
+    def as_slices(old):
+        return [{'n': r['n'], 's': (r['a0'], r['a'] + 1), 'pa': (r['a'] + 1, r['b'] + 1), 'pl': (r['b'] + 1, r['c'] + 1)} for r in old]
+
+    riks, notes_a, dups = find_anchored() if plain else ([], [], set())
+    if len(riks) < len(plain) or not plain:
+        riks_o, notes_o = find_old()
+        if len(riks_o) > len(riks): riks, notes_a, dups = as_slices(riks_o), notes_o, set()
+    for x in notes_a: chk.append(x)
     out = []
-    first = riks[0]['a0'] if riks else len(paras)
-    intro = paras[:first]
-    for j, r in enumerate(riks):
-        nxt = riks[j + 1]['a0'] if j + 1 < len(riks) else len(paras)
-        out.append({'n': r['n'], 'samhita_acc': '\n'.join(paras[r['a0']:r['a'] + 1]), 'pada_acc': '\n'.join(paras[r['a'] + 1:r['b'] + 1]),
-                    'pada': '\n'.join(paras[r['b'] + 1:r['c'] + 1]), 'paras': paras[r['c'] + 1:nxt]})
-    # checks
+    first = min((r['s'][0] for r in riks), default=len(paras))
+    intro = [x for k, x in enumerate(paras[:first]) if k not in dups]
+    starts = sorted({x for r in riks for x in (r['s'][0], r['pa'][0], r['pl'][0])})
+    for r in riks:
+        st = r['pl'][1]
+        nxt = min((x for x in starts if x >= st), default=len(paras))
+        out.append({'n': r['n'], 'samhita_acc': '\n'.join(paras[r['s'][0]:r['s'][1]]), 'pada_acc': '\n'.join(paras[r['pa'][0]:r['pa'][1]]),
+                    'pada': '\n'.join(paras[r['pl'][0]:r['pl'][1]]), 'paras': paras[st:nxt]})
     if [r['n'] for r in out] != list(range(1, len(out) + 1)): chk.append(f'Ṛk numbers {[r["n"] for r in out]}')
     if plain and len(plain) != len(out): chk.append(f'{len(plain)} plain Ṛks, {len(out)} Ṛks with Pada and bhāṣya')
-    for r, pl in zip(out, plain):
-        if squash(pl) != squash(r['samhita_acc']):
-            chk.append(f'Ṛk {r["n"]}: accented Saṃhitā differs from the plain Saṃhitā of the page (spelling of nasals/sandhi)')
     for r in out:
-        if not r['paras']: chk.append(f'Ṛk {r["n"]}: no bhāṣya paragraph')
+        if 0 < r['n'] <= len(plain) and squash(plain[r['n'] - 1]) != squash(r['samhita_acc']):
+            chk.append(f'info: Ṛk {r["n"]}: accented Saṃhitā spells nasals/sandhi otherwise than the plain Saṃhitā of the page')
     return hdr, plain, intro, out, extras, chk
 
 
@@ -157,7 +263,7 @@ CREATE TABLE meta(k TEXT PRIMARY KEY, v TEXT);
 CREATE TABLE sukta(ref TEXT PRIMARY KEY, m INT, s INT, title TEXT, revid INT, timestamp TEXT, fetched TEXT,
   rishi TEXT, note TEXT, prev TEXT, next TEXT, n_rik INT, n_plain INT, layout TEXT, has_bhashya INT, intro TEXT, intro_i TEXT);
 CREATE TABLE rik(ref TEXT PRIMARY KEY, m INT, s INT, r INT, samhita TEXT, samhita_acc TEXT, pada_acc TEXT, pada TEXT,
-  samhita_i TEXT, pada_i TEXT, n_para INT, has_sayana INT);
+  samhita_i TEXT, pada_i TEXT, n_para INT, has_sayana INT, bh_at INT);
 CREATE TABLE para(ref TEXT PRIMARY KEY, m INT, s INT, r INT, p INT, deva TEXT, iast_s TEXT, prelude INT);
 CREATE TABLE extra(m INT, s INT, kind TEXT, text TEXT);
 CREATE INDEX rik_ms ON rik(m, s); CREATE INDEX para_ms ON para(m, s, r);
@@ -200,8 +306,9 @@ def build():
                 paras_n = rk['paras'] if rk else []
                 sa, pa, pd = (rk['samhita_acc'], rk['pada_acc'], rk['pada']) if rk else ('', '', '')
                 bh = '\n'.join(paras_n)
-                con.execute('INSERT INTO rik VALUES (?,?,?,?,?,?,?,?,?,?,?,?)',
-                            (f'{m}.{s}.{n}', m, s, n, pl, sa, pa, pd, isq(sa or pl), isq(pd), len(paras_n), int(rk is not None)))
+                bh_at = n if paras_n else next((x['n'] for x in riks if x['n'] > n and x['paras']), None)    # Sāyaṇa on several Ṛks together stands with the last
+                con.execute('INSERT INTO rik VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)',
+                            (f'{m}.{s}.{n}', m, s, n, pl, sa, pa, pd, isq(sa or pl), isq(pd), len(paras_n), int(rk is not None), bh_at))
                 for p, tx in enumerate(paras_n, 1):
                     con.execute('INSERT INTO para VALUES (?,?,?,?,?,?,?,?)',
                                 (f'{m}.{s}.{n}.{p}', m, s, n, p, tx, isq(tx), int(p > 1 and bool(USE.search(tx)))))
