@@ -284,7 +284,7 @@ Of the seventeen questions, eleven are decided (Nov 13 2026), and all but one of
 
 ## 14. Decisions of Nov 21–22 2026 (the user's comments on the requirements)
 
-Recorded as the user gave them, in the user's order. **Status:** *decided* = stated by the user as a requirement or confirmed ("yes"); *leaning* = the user said "I think" or "might"; *proposed* = suggested by the assistant and not yet confirmed; *later* = for a later time. Nothing here is built. The matching requirements are not yet written into `REQUIREMENTS.md` (the user asked to finish all comments first).
+Recorded as the user gave them, in the user's order. **Status:** *decided* = stated by the user as a requirement or confirmed ("yes"); *leaning* = the user said "I think" or "might"; *proposed* = suggested by the assistant and not yet confirmed; *later* = for a later time. Nothing here is built. The matching requirements are written into `REQUIREMENTS.md` Draft 5 (A2, B1, B6.6, C3, K7, K9, I2 R7, I6a, O, F24, F35–F44).
 
 | No. | Decision | Status | Design consequence |
 |---|---|---|---|
@@ -300,6 +300,9 @@ Recorded as the user gave them, in the user's order. **Status:** *decided* = sta
 | 14.10 | **A separate document of tags and notes** will let information scattered in the preface (Pīṭhike) and the Special Topics be found across volumes, for a later book of Ṛgveda stories or a documentary on Agni or Indra. | later | A separate layer pointing to passages by address (down to the paragraph, so paragraphs need numbers); one controlled vocabulary for the whole series; tags proposed by a model reader and confirmed by a person; the deity, seer and metre of the sūkta particulars are a free start. |
 | 14.11 | **At Ṛk level every section can be extracted separately.** The assistant recommended JSON: the canonical data stays `volN/data/units.jsonl` (JSON Lines, one unit per section of a Ṛk, with `m`, `s`, `rk`, `kind`, `id`); by-products are views of it; Markdown and PDF are renderings, never sources. | proposed (the user asked "JSON?", not yet confirmed) | One address scheme for all by-products; Devanagari only in the data, transliteration derived at print (B2.2). |
 | 14.12 | **All of 14.6–14.11 concern the English translation. The Kannada document remains similar to the original.** | decided | The Kannada book is unchanged by these decisions except for 14.4 and 14.5 (corrections of its text). |
+
+| 14.13 | **The copyright line carries no reference to Claude** (the user's lawyer); the account of how the translation was made stands in the "Note on this translation" of every volume (acceptable to the lawyer); answers to retailers' and registration questions about AI-generated material are truthful and agree with the Note, and are recorded in `publish/release.json`. | decided (the truthfulness rule is the assistant's wording, confirmed "Right") | `publish/release.json` gains a record of those answers with their dates; the Note is a front-matter file common to the volumes (H2.4). |
+| 14.14 | **A volume's Sāyaṇa-bhāṣya document replaces the bhāṣya in its English file;** the PDF builder reads it. There is no per-volume setting and no switch tool. | decided | The earlier proposal of a switch (K7 of Draft 4) is withdrawn; the build step is the switch (D15). |
 
 **Sections of this document that these decisions change when they are built:** §3.3 (14.4); §4 (the second reading gains the wiki bhāṣya, the Sāyaṇa book and, perhaps, the scan check: 14.5, 14.7); §3.1 (units: the bhāṣya, summary and intro kinds leave the English data, `pratipada` becomes word lines: 14.6, 14.8); §6 (the front matter from root-directory files, the bhāṣya added at build: 14.1, 14.2, 14.6); §9 (new by-products: the dictionary, the tag document, the Sāyaṇa book).
 

@@ -1,6 +1,6 @@
 # Requirements — Ṛgveda-saṃhitā (Kannada edition) in English
 
-**Draft 4, Nov 21 2026 — for the user's review.** Draft 3 (Nov 12) was extended on Nov 21 with Parts I–N and with requirements gathered from the other documents of the repository (a survey of the rules, design, to-do and status files). `docs/DESIGN.md` was approved by the user on Nov 13. Nothing in the tools or volumes has been changed to match this document; where a requirement is not yet decided by the user it is marked *proposed* or listed in Part F.
+**Draft 5, Nov 22 2026 — for the user's review.** Draft 3 (Nov 12) was extended on Nov 21 with Parts I–N and with requirements gathered from the other documents of the repository; on Nov 22 the user's comments on Draft 4 were written in (front matter, the bhāṣya reference model, the Sāyaṇa book, the dictionary and search, the tag document, the scan check, the copyright statement) and Part O was added. `docs/DESIGN.md` was approved by the user on Nov 13; its §14 records the decisions of Nov 21–22. Nothing in the tools or volumes has been changed to match this document; a requirement not yet decided by the user is marked *leaning*, *proposed* or *later*, or is listed in Part F.
 Until it is approved, the rules in force remain `CLAUDE.md`, `docs/HANDBOOK.md` and `tools/rv/BRIEF.md`. Once approved, this is the one place that says *what* a volume must be; the other files say only *how* it is made and point here.
 
 **How to read it**
@@ -21,11 +21,12 @@ Until it is approved, the rules in force remain `CLAUDE.md`, `docs/HANDBOOK.md` 
 | L. The volumes | One row per volume: scope, source, layout family, standing deviations. Replaces the table of Part G. |
 | M. Older volumes (1–10) | The method for bringing the scan-based volumes to these requirements. |
 | N. The form of a volume, stated completely | Exactly how a volume reads, from the first page to the last, in rules that refer to no other volume. |
+| O. By-product documents | The dictionary of the words of the Ṛgveda, its search, the tag document across volumes, and the data format they are made from. |
 
 Marks used: **(F3)** = see open question 3 in Part F. Which volumes already meet a requirement and which do not is not marked in the clauses; it is in Part G (conformance) and Part L. The source of every requirement is listed in the appendix; the user's review comments of Nov 12 are kept verbatim in `docs/review/USER_REVIEW_2026-11-12.md`.
 
 
-**Terms used throughout.** *Summary* = the printed name of the English summary of Sāyaṇa's commentary (working-file label "Gist of the bhāṣya"); *Gist* = the printed name of the sense of the verse (working-file label Bhāvārtha). *Word-to-word meaning* = Pratipadārtha. *Reader* alone means: in Part I a model reader (R1–R6); in Part J a person; in Part K "the reader" is the Sāyaṇa-bhāṣya book. *T12, T14, U12* and the like are items of `PUBLICATION_TODO.md`. *Working file* = a volume's `.md` files; *review copy* = a PDF marked REVIEW COPY; *the published book* = a release PDF.
+**Terms used throughout.** *Summary* = in the volumes made so far, the printed name of the English summary of Sāyaṇa's commentary (working-file label "Gist of the bhāṣya"); it is replaced by the full English of the Sāyaṇa-bhāṣya document (C3); *Gist* = the printed name of the sense of the verse (working-file label Bhāvārtha). *Word-to-word meaning* = Pratipadārtha. *Reader* alone means: in Part I a model reader (R1–R6); in Part J a person; in Part K "the reader" is the Sāyaṇa-bhāṣya book. *T12, T14, U12* and the like are items of `PUBLICATION_TODO.md`. *Working file* = a volume's `.md` files; *review copy* = a PDF marked REVIEW COPY; *the published book* = a release PDF.
 ---
 
 ## A. Volume structure
@@ -47,22 +48,25 @@ Every volume has the same structure, section names, layout and abbreviations. A 
 
 | No. | Page | What it shows | Taken from |
 |---|---|---|---|
-| 1 | Cover | The real scan of the volume's cover picture, which carries **this volume's number in Kannada**. One English line below it gives the range of the volume (Maṇḍalas and sūktas) and a second the chapters it holds (adhyāyas and aṣṭaka), for example "Maṇḍala 2 · Sūktas 24–43 and Maṇḍala 3 · Sūktas 1–6" and "Seventh and Eighth Adhyāyas of the Second Aṣṭaka". | the volume's supplied file; `pubcfg.json` |
-| 2 | King | Portrait of the king. | the portrait page of the first volume of the edition (p. 4); the same in every volume |
-| 3 | Guru | Portrait of the guru, with the English translation of its text. | the guru's page of the first volume of the edition (p. 5); the same in every volume |
-| 4 | Scholars | One page headed "The Board of Vedic Scholars (Veda-vimarśana-vidvan-maṇḍali) constituted for the work of publishing the Veda". The translator and editor stand first ("Translator & Editor: …"), then "Assisting Board of Scholars": one entry per member, with his title and his field. Names are given in English with transliteration. | the volume's supplied file |
-| 5 | Present day | Present king and present guru: placeholders. | — |
-| 6 | Translation credentials | **One page in two halves: the upper half a picture, the lower half text.** The picture and the text are supplied by the user (F8). | the user |
-| 7 | Copyright | Copyright, ISBN and the like. **No reference to Claude in the copyright (on the advice of the user's lawyer); the account of the method is in the Note on this translation (H1.5, H2.4).** A **Thank-you section**. (F8) | `publish/release.json` |
-| 7a | Title page | The English-typeset title page: title, volume, the range of the volume (cover line, below), the translator-editor. | the volume's supplied file; `pubcfg.json` |
-| 7b | Permission page | The original's page of permission, reproduced and marked as the original's. | the volume's supplied file |
-| 8 … | Contents | Contents in English: one entry per chapter and sūkta, our page numbers (C9). | supplied file |
+| 1 | Title-page picture | Picture 1 of the volume's supplied file: the printed title page, with the series emblem, the Kannada title, the volume number and the press. It is the first page of the PDF. | the volume's supplied file |
+| 2 | Cover picture | Picture 2 of the volume's supplied file: the ornate cover, which carries **this volume's number in Kannada** and the chapters it holds. It is the second page of the PDF. | the volume's supplied file |
+| 3 | King | Portrait of the king. | the portrait page of the first volume of the edition (p. 4); one file for every volume, kept in the directory of uniform pages (A2 note) |
+| 4 | Guru | Portrait of the guru, with the English translation of its text. | the guru's page of the first volume of the edition (p. 5); the directory of uniform pages |
+| 5 | Thank-you page of the original | The thank-you page of the first volume of the edition. | the first volume of the edition; the directory of uniform pages |
+| 8 | Scholars | One page headed "The Board of Vedic Scholars (Veda-vimarśana-vidvan-maṇḍali) constituted for the work of publishing the Veda". The translator and editor stand first ("Translator & Editor: …"), then "Assisting Board of Scholars": one entry per member, with his title and his field. Names are given in English with transliteration. | the volume's supplied file |
+| 6 | Present day | Pictures of the present guru and the present king. | supplied by the user; the directory of uniform pages |
+| 7 | Thank-you page of the translator-editor | The translator-editor's thank-you page. | supplied by the user; the directory of uniform pages |
+| 9 | Translation credentials | **One page in two halves: the upper half a picture, the lower half text.** The picture and the text are supplied by the user (F8). | the user |
+| 10 | Copyright | Copyright, ISBN and the like. **No reference to Claude in the copyright (on the advice of the user's lawyer); the account of the method is in the Note on this translation (H1.5, H2.4).** A **Thank-you section**. (F8) | `publish/release.json` |
+| 11 | Typeset title page | The English-typeset title page: title, volume, the range of the volume (cover line, below), the translator-editor. | the volume's supplied file; `pubcfg.json` |
+| 12 | Permission page | The original's page of permission, reproduced and marked as the original's. | the volume's supplied file |
+| 13 | Contents | Contents in English: one entry per chapter and sūkta, our page numbers (C9). | supplied file |
 | next | **Preface to the English edition** | By the translator-editor (the user). **A placeholder page in every volume until the text is written.** (F15) | the user |
 | next | Preface / Introduction of the original | As the volume has it. No Kannada headings. | supplied file |
 | next | Abbreviations | The legend of B3.7, generated from the one list; it stands after the prefaces and immediately before the first Maṇḍala heading. | `rv/references.tsv` |
 
-The order of this table is the same in every volume.
-The cover is the real scan of the cover of that volume; a reconstructed cover is a stop-gap only and is marked as such in the working files. The cover or title line carries the range of the volume (for example "Maṇḍala 3 · Sūktas 40–62; Maṇḍala 4 · Sūktas 1–18") and the line of its chapters ("Third, Fourth and Fifth Adhyāyas of the Third Aṣṭaka"). The imprint, press and year of the original are kept in the volume's `pubcfg.json`; the publisher, ISBN and rights only in `publish/release.json` (E).
+The order of this table is the same in every volume. **Everything before the preface has one format in every volume** (user, Nov 22 2026): pictures 1 and 2 of the volume (rows 1–2) are the only volume-specific pages among rows 1–7; rows 3–7 (the king, the guru, the thank-you pages, the present guru and king) are the same files in every volume, kept in **one directory at the root of the repository** (name not yet chosen, F35), and the abbreviations list that follows the preface is uniform too (B3.7). Rows 8–13 (scholars, credentials, copyright, typeset title page, permission page, contents) are kept as before; whether any of them also moves to the directory is F36.
+The cover pictures (rows 1–2) are the real scans of that volume's pictures; a reconstructed cover is a stop-gap only and is marked as such in the working files. The English lines giving the range of the volume (for example "Maṇḍala 3 · Sūktas 40–62; Maṇḍala 4 · Sūktas 1–18") and its chapters ("Third, Fourth and Fifth Adhyāyas of the Third Aṣṭaka") appear on the typeset title page (row 11); whether they also stand below the cover picture is F36. The imprint, press and year of the original are kept in the volume's `pubcfg.json`; the publisher, ISBN and rights only in `publish/release.json` (E).
 The front matter also holds the English-typeset **title page** and the original's **permission page**; the cover is the real scan (HANDBOOK §8). A colophon at the end of an adhyāya's last sūkta is given in three layers, with the Kannada closing line.
 **This layout may change again** (user, Nov 13 2026); it is one setting of the printer and is listed in `TODO.md`.
 The credits of the original edition are either marked clearly as taken from the original or combined with our own credits page. (F8)
@@ -83,26 +87,26 @@ The credits of the original edition are either marked clearly as taken from the 
 - **Footnotes:** not used for references.
 
 ### A5. Kannada book
-The text of the original, page by page, with its Sanskrit in Kannada script. Nothing of ours stands in it beyond what is needed to find a page, a sūkta or a Ṛk. (F9)
+The text of the original, page by page, with its Sanskrit in Kannada script. Nothing of ours stands in it beyond what is needed to find a page, a sūkta or a Ṛk. (F9) **The changes of Parts C, K and O (the bhāṣya as a reference, the Sāyaṇa book, the dictionary, the tags) concern the English translation only; the Kannada book remains similar to the original and keeps the bhāṣya as the original has it** (user, Nov 22 2026).
 
 ---
 
 ## B. Generic rules (hold everywhere in a volume)
 
 ### B1. Which source governs
-1. **The user's supplied text of the volume** is the base for everything, with the two exceptions below (B1.2 and B1.3). The sources of the front-matter pages are those named in the last column of A2.
+1. **The user's supplied text of the volume** is the base for everything, with the exceptions below: the verse (B1.2), the uniform pages before the preface and the abbreviations list (B1.3) and the corrections of B1.6. The sources of the other front-matter pages are those named in the last column of A2.
 2. **Exception — the verse:** the Saṃhitā-pāṭha always comes from the reference text.
-3. **Exception — portraits:** from the first volume of the edition, in every volume.
+3. **Exception — the pages before the preface.** The portraits of the king and the guru and the thank-you page come from the first volume of the edition; the pictures of the present guru and king and the translator-editor's thank-you page are supplied by the user; pictures 1 and 2 of each volume are the title-page picture and the cover picture. All pages before the preface have the same format in every volume, and all files that do not belong to one volume are kept in one directory at the root of the repository (F35). The abbreviations list that follows the preface is likewise uniform (B3.7).
 4. Outside these exceptions, no letter and no number is corrected from memory or from another edition.
 5. **No number where the print has none.** A printed number (Pāṇini, Uṇādi, Nirukta, a verse number) is copied as printed, even if another edition numbers differently; where the print has none, none is written.
-6. **A departure from the supplied text is a record, not an edit.** The supplied text is never edited. Every place where the book differs from it (a garbled label, "si" for "ni", a stray figure, a missing page mark, a misread word with a certain reading) is a row of the volume's list: place, as supplied, as printed, reason, who decided (`volN/data/source_fixes.tsv`; for a word, supplied letters → reading → basis). The Kannada book is printed with that list applied.
+6. **The second pass applies the departures to the source** (*leaning*, user, Nov 22 2026: "not sure about this anymore; the Kannada file should be as error free as possible; the second pass should handle these records and edit the source"). Every place where the book differs from the supplied text (a garbled label, "si" for "ni", a stray figure, a missing page mark, a misread word with a certain reading) is a row of the volume's list: place, as supplied, as corrected, reason, basis, who decided (`volN/data/source_fixes.tsv`; for a word, supplied letters → reading → basis); the second pass carries the rows out in the source file, so that the Kannada text is as free of errors as can be made. The original supplied file is kept beside the corrected one (to be confirmed, F37); an edit is made only where the intended reading is certain, and every other place stays a `NOTE` for the editor. Until the user confirms, the earlier rule holds: the supplied text is not edited and the Kannada book is printed with the list applied.
 7. **A reading may be settled from another text, never altered by it.** The reference text and a clean edition of Sāyaṇa may be consulted to settle a misread word; other people's translations are not read. What was consulted is the basis of the logged reading.
 8. **An editor's decision is stored beside its unit** and applied at every printing, so that it survives a rebuild (DESIGN §3.1).
 9. **A printed form is never changed to make a check pass.** A roman numeral, a reference or a punctuation mark stays as printed even when a tool rejects it; a check that rejects printed text is faulty and is repaired, not obeyed.
 10. **Confidence is honest.** The formatting of a place (clean citation, bold, tidy layout) never suggests more certainty than the reading has; an inference is never presented as a reading.
 
 ### B2. Sanskrit
-1. Sanskrit is given in three layers: Devanagari, transliteration (IAST), English. In the **working files** the Sāyaṇa-bhāṣya block is stored in Devanagari only (user, Nov 11 2026; `no_iast_blocks` in `volcfg.json`), followed by its Summary in English; its transliteration is made when the book is printed (B2.2), so **the printed book shows all three layers** for the bhāṣya too. The full English of Sāyaṇa's text, with its transliteration, belongs in the Sāyaṇa-bhāṣya reader (Part K; user, Nov 21 2026). A volume not yet in this form is brought into line as G and L say.
+1. Sanskrit is given in three layers: Devanagari, transliteration (IAST), English. In the **English translation files** Sāyaṇa's bhāṣya is not stored at all (C3); it is added to the PDF at generation, with all three layers, from the volume's Sāyaṇa-bhāṣya document (Part K). Transliteration is made at print (B2.2).
 2. Devanagari and transliteration are made by script from the supplied text. The translator does not type them.
    **Transliteration is made when the book is printed and is not stored in the volume files** (user decision, Nov 11 2026, recorded on the branch `claude/dreamy-cerf-z4h3f4`; it now covers the Sāyaṇa-bhāṣya too, by the comment of Nov 12).
 3. No Kannada script in the English book: not in headings, references or abbreviations.
@@ -142,6 +146,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 3. A sentence cut by a page or window break is complete. A picture (`[figure: …]`) that holds a verse the text lacks is transcribed; one that only repeats a block is dropped. A large embedded table or index is flagged to the editor, never silently transcribed or skipped. Small hook or division marks inside a Pada line of a figure are not transcribed.
 4. A page with no running head is generally the first page of a sūkta, a Maṇḍala or a chapter, not a missing page. Only absent text is missing (lesson 67). A sūkta introduction or a bhāṣya that the supplied text lacks is marked with a `NOTE`; nothing is added (H2.6).
 5. Dvipada Ṛks are counted by printed units: a four-pāda Ṛk printed "5 (10)" counts as two reference verses, so that the Ṛk-number check gives no false alarm.
+6. **Pictures of the supplied file.** Pictures 1 and 2 (the title page and the cover) are the first two pages of the PDF (A2). Every other picture (verse blocks, ornaments, graphics) is a record: it is kept with its page and machine reading in `volN/review/VolN_pictures.pdf` (`tools/rv/figures_sheet.py`) and is not printed. A picture that holds a verse the text lacks is transcribed only where the verse is not supplied by the reference text (B1.2) and is not Sāyaṇa's bhāṣya (C3); whether verse pictures are transcribed at all is *leaning*: no (F38).
 
 ---
 
@@ -160,11 +165,13 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 - A deviation is mentioned (B5).
 
 ### C3. Sāyaṇa-bhāṣya — Sāyaṇa's Explanation
-- The Sanskrit as supplied. Its transliteration is made at print (B2.2); the working file holds Devanagari only (B2.1).
-- Followed by an **elaborate summary in English** that covers most of the commentary. The grammatical tail need not be explained. The Summary (working label "Gist of the bhāṣya") states: the viniyoga with its sūtra; who is addressed and what is asked; the gloss of each word; every alternative ("ಯದ್ವಾ"); each authority with its reference; for an introduction, seer, deity and metre.
-- The Summary works from Sāyaṇa's Sanskrit, not from the Kannada word list. Its length follows the block (usually 60–200 words), it is not padded, adds nothing Sāyaṇa does not say and does not explain him. A block that continues from the previous window or page gets a Summary of its own part only. A sentence of Sāyaṇa that cannot be construed because the supplied Sanskrit is damaged is not guessed: the Summary says what is clear and places a `NOTE` with the words concerned.
-- The full English of Sāyaṇa's text, with the grammar, is the work of the reader of Part K, not of the volume. How a volume refers to it is K7.
-- A deviation is mentioned (B5).
+- **The English translation files carry no Sāyaṇa-bhāṣya** (user, Nov 22 2026): not the Devanagari block, not the English Summary, not Sāyaṇa's introduction to the sūkta. Each Ṛk and each sūkta keeps only **a reference** to the volume's Sāyaṇa-bhāṣya document, by its address (Maṇḍala.Sūkta.Ṛk).
+- At final PDF generation the relevant information is added from that document: Sāyaṇa's Sanskrit in Devanagari with its transliteration (B2.2), and its full English, under the heading "Sāyaṇa-bhāṣya — Sāyaṇa's Explanation", in the place of A3 and N3 where the bhāṣya stood. The printed volume therefore prints the bhāṣya in full, as before.
+- The volume's Sāyaṇa-bhāṣya document is made in the second pass of that volume from the wiki source (K9); it is also published as the volume's Sāyaṇa-bhāṣya book (Part K).
+- Special Topics and the word-to-word meanings are unchanged, including their quotations of Sāyaṇa.
+- The Kannada book keeps the bhāṣya as the original has it (A5).
+- A deviation of Sāyaṇa from the Pada-pāṭha or the Kannada word meanings is mentioned (B5); where Sāyaṇa and the Kannada gloss differ, the Gist of the verse follows Sāyaṇa and the place gets a `NOTE` (B5.4).
+- *Until the volumes are changed:* the volumes made so far still hold the Devanagari block and its Summary (Part G conformance, Part L). The Summary is replaced by the full English of the Sāyaṇa-bhāṣya document; the rules that stood here for the Summary (length of 60–200 words, no padding, a damaged sentence gets a `NOTE`) lapse with it, and the rules of K3 govern the English.
 
 ### C4. Word-to-word meaning
 - Each word on its own line, with its meaning.
@@ -211,6 +218,8 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 | D12 | No character of another script (B2.4); `[?]` counts equal in both files; page marks are monotonic; no `XXX` placeholder (a printed roman numeral XXX is not one), no empty `⟦⟧`. | B2 |
 | D13 | A correction made to one language file is made to the other. | A5 |
 | D14 | The built PDF is looked at as the reader sees it: the first 20 pages and one body page of each book, cover and title together, no ◌. | A4, B2.5 |
+| D15 | Every reference to the Sāyaṇa-bhāṣya document in the English file resolves to a bhāṣya (or a `NOTE`) in the document; no bhāṣya block stands in the English file; the PDF carries the bhāṣya of every Ṛk. | C3, K7 |
+| D16 | The pages before the preface are the same files in every volume; pictures 1 and 2 are the first two pages of the PDF; the abbreviations list is the generated legend. | A2, B3.7 |
 
 Each check reports how many items it compared. A volume that was not checked is "not checked", never "clean".
 D1 and D2 are agreed in principle; how they work is for the design document.
@@ -261,7 +270,7 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F21 | **Size of the QA sample.** F13 fixed 48 pages and stands until changed. The Handbook gives 12 stratified pages plus 12 Special Topics pages; REPO_REVIEW gives about 5% of pages. Keep 48, or choose another rule? | D8, H2.2 |
 | F22 | **Word files.** The Handoff says a Word file is regenerated on request; E says none are kept. Proposed: made on request, not committed. | E |
 | F23 | **Spelling of the printed verse** (इन्द्र or इंद्र): the reference and the edition differ. | C1 |
-| F24 | **Take the Sāyaṇa-bhāṣya out of the English volumes?** *Decided in principle Nov 21 2026 (user):* whenever a few sūktas are finished in the reader, they are applied to the corresponding volume; **a tool that makes this switch is required** (K7). *Still open:* the setting's design (K7, "I will think about it"). | A3, C3, K7 |
+| F24 | **Take the Sāyaṇa-bhāṣya out of the English volumes?** *Decided Nov 22 2026 (user):* yes. The English translation files hold no bhāṣya and only a reference to the volume's Sāyaṇa-bhāṣya document; the PDF adds it at generation. The per-volume switch of the earlier proposal is withdrawn. | A3, C3, K7 |
 | F25 | **Uṇādi numbering.** The supplied text and the reference edition number the Uṇādi-sūtras differently; which is printed in the reader? | K3 |
 | F26 | **Older volumes.** Open: order of the supplied texts; whether to run the free reader measurement first; Vol 13 re-translation or a two-way experiment on 30 pages; whether the old wording is kept where a reader finds nothing; what happens to the old scan-based Vol 11. | Part M |
 | F27 | **Set-aside material of the pilot volume.** Three duplicate grammar lists were set aside: keep them out, or print them? The word meanings of one Ṛk (4.17.7) were supplied and not yet second-read. | N6 |
@@ -272,6 +281,16 @@ D1 and D2 are agreed in principle; how they work is for the design document.
 | F32 | **No English gloss after a Sanskrit word** unless the Kannada gives one, and a quotation the Kannada does not translate is not translated (the translator's brief). This differs from B3.5. | B3.5, C7 |
 | F33 | **The abbreviations table of the front matter** has a column of the printed Kannada forms; B2.3 forbids Kannada script in the English book and B3.7 makes the legend from the list. | B2.3, B3.7, C10 |
 | F34 | **Second reading of every page against the earlier decision for Vol 18** (Nov 12 2026: no further correction and no agent second reading; the user scans the Gists herself). | D2, Part I, L |
+| F35 | **The root directory of uniform files.** Name and contents: the pages before the preface (king, guru, thank-you pages, present guru and king) and the abbreviations list. | A2, B1.3 |
+| F36 | **Rows 8–13 of A2** (scholars, credentials, copyright, typeset title page, permission page, contents): do any of them also move to the directory of uniform files? Does our typeset title page still follow pictures 1 and 2? Do the English range lines also stand below the cover picture? Is there one thank-you page of the original and one of the translator-editor (rows 5 and 7), as written? Must a volume without these pictures in its supplied file supply them? | A2 |
+| F37 | **Editing the source** (B1.6, *leaning*): is the original supplied file kept beside the corrected one? Edits only where the reading is certain? This reverses the rule in `CLAUDE.md` ("the supplied text is the base. Never correct a letter or number from memory or from another edition") and DESIGN §3.3. | B1, D |
+| F38 | **The other pictures** (B6.6): confirm that verse pictures are not transcribed and that the others stay records; the syringe and logo pictures of Vol 18 (pp. 136 and 247) to be looked at. | B6.6 |
+| F39 | **The wiki source:** which one exactly (Wikisource is assumed from the branch of the Vol 11 experiment), how its text is fetched, which Maṇḍalas it covers, and what is done where it lacks a Ṛk's bhāṣya (K9.3). | K9 |
+| F40 | **The scan check** (R7, *leaning*): are the scans supplied again for the volumes whose scans were removed, and is the repository rule on page scans changed? | I2, I6a |
+| F41 | **The dictionary** (O1): entry level (the form as printed, or the lemma), the rule for when two meanings differ, the authority shown (Venkata Rao's word meanings, or Sāyaṇa's gloss), and the order in which volumes are included. | Part O |
+| F42 | **The search medium** (O2): a local page, a database or a search tool; which scripts are indexed (Devanagari, transliteration, English); whether Latin-letter search is wanted. | Part O |
+| F43 | **The tag document** (O3, *later*): the vocabulary of tags, who proposes them, who confirms them, and the paragraph numbering of the prefaces and Special Topics it needs. | Part O |
+| F44 | **The data format** (O4, *proposed*): JSON Lines as canonical data, with the by-products as views. Confirm. | Part O |
 
 ---
 
@@ -309,6 +328,9 @@ Families are those of Part L: **L1** legacy scan (Vols 1–10), **L2** older htm
 | Stray letters and words removed (B4.2) | not checked | kept or noted | kept or noted | done |
 | Nothing of ours in the text (B4.1, B4.3) | `[?]`, `[sic]`, "as supplied" remain | many remarks remain | remarks remain | done (a `NOTE` list instead) |
 | Sāyaṇa-bhāṣya reader available (K) | no | no | Vol 16 done (33 of 33) | Vol 11 done (21 of 21); Vol 17: 1 of 41; others none |
+| No bhāṣya in the English file, only a reference (C3) | all hold the block | all hold the block | holds the block | hold the block (Vols 11, 17–21) |
+| The volume's Sāyaṇa-bhāṣya document from the wiki source (K9) | none | none | the reader of Vol 16 exists (made another way) | the Vol 11 experiment exists on a branch; Vol 17: pilot of 1 sūkta |
+| Pages before the preface from the directory of uniform files (A2) | not built | not built | not built | not built |
 
 **The scan-based volumes (1–10, 13)** need all of the above and, first, the correction of their reading errors and a Kannada book each (none exists for Vols 2–10 and 13). What goes wrong in them is in `docs/ERROR_KINDS.md`, Part 2; a proposal for doing it at low cost is in `docs/LEGACY_VOLUMES_PLAN.md`. It depends on the supplied machine-read text of those volumes.
 
@@ -396,9 +418,10 @@ One reader is one instruction with one input and one list of error kinds. They a
 | **R1 Meaning** | the English of a unit | the Kannada of the unit | reversed roles or wrong attribution; wrong word or term; opposite sense; addition (a gloss or fact the Kannada does not have); omission of words, a sūtra or a closing line inside a piece; a misprint silently put right; the bhāṣya summarised against Sāyaṇa; a printed number missing or supplied from memory; words lost at a page break; an odd reference kept without a note; a quotation given in English only or shortened; a leftover remark or a missing `NOTE` | H8, H14, H16 (English part), H25–H30, H33, S2, S3, S14–S16 |
 | **R2 Grammar** | the Sanskrit of the grammar section (composed from the Kannada) | the Kannada grammar section | a word that is not a real form; a word that does not match the Kannada word it renders; derivation, root, suffix or sūtra dropped or invented; sūtras left out | H31, S18 |
 | **R3 Sanskrit sense** | the Devanagari of the supplied bhāṣya, quotations, Pada-pāṭha and word meanings | itself, the Ṛk, the Pada-pāṭha, the reference text (for settling only) | a word that is not a word (misread letters such as त्म/त्र); a letter pattern of a known typeface trap; a proposed reading with its basis | H24, S7, S9 (and S11 where text was completed from memory) |
-| **R4 Summary** (Vol 17 onwards) | the English Summary of the bhāṣya (working label "Gist of the bhāṣya") | the Devanagari bhāṣya block | "does the block say this?" and "is everything in the block rendered?" for each sentence; the grammatical tail is not required | H30 for the Gist form |
+| **R4 English of the bhāṣya** | the English of Sāyaṇa's bhāṣya in the volume's Sāyaṇa-bhāṣya document (and, for volumes still holding it, the Summary) | the Devanagari bhāṣya of the document | "does the block say this?" and "is everything in the block rendered?" for each sentence; the grammatical part is included | H30 |
 | **R5 Words** | the word-to-word meanings and the deviations noted | the Kannada word meanings, the Pada-pāṭha | a meaning that differs from the Kannada; a deviation of the Pada-pāṭha not mentioned (user, Nov 12) | H29, S7 |
 | **R6 Kannada text** | the Kannada of each unit as supplied (prose, names, word meanings, Pada-pāṭha in Kannada script where present) | itself in context: the sentence, the Ṛk, the Sanskrit beside it | a word that is not a Kannada word (broken conjunct, stray vowel sign); a real word that makes no sense where it stands; a name or term misread for a look-alike (for example Lāgākṣi read Laugākṣi); Kannada vowel signs carried into Devanagari; a proposed reading with its basis | H24, S7, S9, S13 |
+| **R7 Scan** (*leaning*, user, Nov 22 2026: the second reading "might be checking against the scan copies") | the supplied text of one page | the image of the printed page | letters and numbers where the text and the image differ, including a misreading shared by the Kannada and the Sanskrit of the supplied text, which the other readers cannot see; a finding is a proposal and is settled against the print (HR2); numbers stay with the user's numeral files where there are any | S1, S7, S9, S13 |
 
 The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for example "si" for "ni") is a **script** check (D6); a reader may report one it sees, but is not relied on for it.
 
@@ -432,6 +455,13 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 - I6.2 **One reading finds about half.** Where a kind matters (I1.2), two readers of different models are used.
 - I6.3 **A reader's Sanskrit and Kannada are not authority.** R6 finds non-words and words that do not fit; it cannot see a misread that gives another valid name or term.  R2, R3 and R6 findings are proposals; the composed Sanskrit of the grammar remains the editor's to read before release (CLAUDE.md rule 1).
 - I6.4 **Cost is estimated, not measured.** About a third to a half of translation for R1 (DESIGN §7). No figure for R2–R6. Nothing is sent to the API before the user has seen the estimate; every reader must be runnable by agents as well.
+
+### I6a. The second pass of a volume — what it comprises
+1. The readers R1–R6, as marked in I2 (R2 where a unit has a grammar section).
+2. R7 against the scan copies, if adopted (*leaning*): needs the scans, which are not in the repository for the newer volumes (F40), and a measurement first (I5).
+3. The departures of B1.6 are carried out in the source (*leaning*).
+4. The bhāṣya from the wiki source is placed in the volume's Sāyaṇa-bhāṣya document and the Sāyaṇa-bhāṣya book is made (K9).
+5. The human readings of Part J that belong to this stage (HR1–HR3).
 
 ### I7. Not built yet
 The packets, the findings file, the marks of I3.4, the instructions for R2–R6, and the measurements of I5. Until they are, D2 is carried out by hand or by the Vol 12 method.
@@ -472,7 +502,7 @@ The packets, the findings file, the marks of I3.4, the instructions for R2–R6,
 ### K1. What the book is
 - K1.1 A by-product book, **"Sāyaṇa's Ṛgveda-bhāṣya in English: reader"**. For each Ṛk it holds: the Saṃhitā-pāṭha, the Pada-pāṭha, Sāyaṇa's bhāṣya in **Devanagari**, its **transliteration**, and the **full English** of Sāyaṇa's text.
 - K1.2 It holds nothing else: no Kannada commentary of Venkata Rao, no word meanings, no printed English, no Special Topics. The volumes remain Venkata Rao's voice; the reader is Sāyaṇa's own.
-- K1.3 It is **built from the volumes by script**: Sanskrit layers are selected by line, never rewritten, and the output is checked line by line against the volume. The English of the bhāṣya is the only text written for the book.
+- K1.3 It is **built by script**: the Saṃhitā-pāṭha and Pada-pāṭha come from the volume, Sāyaṇa's Sanskrit from the wiki source (K9), and the English of the bhāṣya is the only text written for the book. Layers are selected by line, never rewritten, and the output is checked line by line against its sources.
 
 ### K2. Content and order of a Ṛk
 Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in this order: Saṃhitā-pāṭha (from the reference, B1.2), Pada-pāṭha, bhāṣya in Devanagari, its transliteration (made at print, B2.2), English of the bhāṣya. The grammatical part at the end of the bhāṣya is translated too, in Sāyaṇa's order. An optional `## Readings` section lists misread words and the reading translated (B1.6).
@@ -495,27 +525,31 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 - K4.6 References copied before the reference corrector changed the supplied text must be brought to the corrected forms by script, not by hand (the check currently fails 139 citations in 43 of 55 files for this reason).
 
 ### K5. Building
-- K5.1 `publish/bhashya_book.py` writes the reader as Markdown, HTML or PDF, for one sūkta, some, or a volume. Where the English of the bhāṣya exists it is printed; where it does not, the book **says so** and shows the volume's Summary, never presenting an unfinished sūkta as finished.
+- K5.1 `publish/bhashya_book.py` writes the reader as Markdown, HTML or PDF, for one sūkta, some, or a volume. Where the English of the bhāṣya exists it is printed; where it does not yet exist, the book **says so** and prints the Sanskrit only, never presenting an unfinished sūkta as finished.
 - K5.2 The volume's own Grammar list (made from the Kannada) is left out where Sāyaṇa's grammar is translated.
 - K5.3 The book carries a coverage statement: which sūktas have English, which are made, read and checked.
 - K5.4 The book is a reading copy until the release standard (H2) is met for it, and carries the rights position of H1; it holds none of the 1949–52 edition's commentary (K1.2), but the supplied Sanskrit and the accented verses fall under H1.2.
 
 ### K6. The reader needs, to be complete
-**The switch tool of K7**; a stable address for every Ṛk (Maṇḍala.Sūkta.Ṛk), shown in the reader and used by the volumes; the reader's own copy of the Sanskrit blocks, checked line by line against the volume; support for the older layouts (Vols 1–10, 12, 14, 15), which the script cannot read yet; the two known gaps of the check (K4.1).
+**the reference line, the build step that adds the bhāṣya and the removal script of K7**; a stable address for every Ṛk (Maṇḍala.Sūkta.Ṛk), shown in the reader and used by the volumes; the reader's own copy of the Sanskrit blocks, checked line by line against the volume; support for the older layouts (Vols 1–10, 12, 14, 15), which the script cannot read yet; the two known gaps of the check (K4.1).
 
-### K7. How a volume refers to the reader — the switch
-*Principle decided Nov 21 2026 (user, F24): as sūktas are finished in the reader they are applied to the corresponding volume; the tool for this switch is a requirement. The design below is a proposal; the user will return to it (not decided).*
-
-- K7.1 `volcfg.json` gets a setting, **`bhashya`**: `block` (the volume prints Sāyaṇa's Devanagari block with its Summary, as now) or `reference` (the volume prints one line per Ṛk, "Sāyaṇa: bhāṣya reader M.S.R", with the page of the reader).
-- K7.2 **The data are never deleted.** The blocks and Summary stay in the units and files, which the audits and gates (`tools/rv/batch.py`) expect; the setting changes only what is printed. The Kannada book is unchanged either way.
-- K7.3 **Per-sūkta fallback.** `reference` takes effect for a sūkta only where the reader holds that sūkta's English, checked (K4.1) and second-read (K4.3). Elsewhere the block and Gist are printed.
+### K7. How a volume refers to the book — decided Nov 22 2026
+- K7.1 The English translation file of a volume holds **no bhāṣya**; it holds a reference to each Ṛk's and sūkta's place in the volume's Sāyaṇa-bhāṣya document, by the Maṇḍala.Sūkta.Ṛk address (C3).
+- K7.2 The PDF builder adds the bhāṣya from the document at generation (A3, N3). There is no per-volume setting and no switch: the build step is the switch. A volume whose Sāyaṇa document does not yet exist cannot be built for release (D15).
+- K7.3 The bhāṣya blocks and Summaries that the volumes made so far hold (Vols 11 and 17–21) are removed by script once the volume's document exists; each removal is logged, and the Kannada file is not touched.
 - K7.4 The Special Topics stay in the volume; they analyse the bhāṣya in Venkata Rao's voice.
-- K7.5 The default is `block`. Whether any volume is set to `reference` is F24. A trial is a **copy** of one volume (Vol 11, where both exist) built as a review PDF, with no original changed.
-- K7.6 *Requirement of the tool (user, Nov 21 2026):* it takes the sūktas finished in the reader (K4.1 and K4.3 passed) and switches exactly those in the corresponding volume, reports which sūktas it switched and which it left, and can switch a sūkta back; it works from the data and never deletes them (K7.2).
-- K7.7 *Not built:* the printer (`rv/printer.py`) has no such setting today; the section is identified in the units by its label, so a print-time filter is small. The cost of making the whole reader is not known; the measured figure is about 11,000 tokens per Ṛk (second readings included), which for the whole Saṃhitā would be of the order of 100 million tokens (an extrapolation that uses an unverified count of Ṛks).
+- K7.5 The audits and gates of the shared tool (`tools/rv/batch.py`) stop counting bhāṣya blocks in the English file and count the references instead. This is a change to the shared tool, not to a volume.
+- K7.6 The earlier proposal of a per-volume setting (`bhashya: block | reference`) and of a separate switch tool is withdrawn.
+- K7.7 *Not built:* the reference line, the build step that adds the bhāṣya, and the removal script.
 
 ### K8. State (Nov 20 2026, from `sayana_bhr.md`)
 55 of 143 sūktas of the volumes the script can read have English (Vol 11: 21 of 21; Vol 16: 33 of 33; Vol 17: 1 of 41, the pilot 3.40; Vol 18: none). 43 of the 55 files fail the check (K4.6). The other 88 sūktas of Vols 17 and 18 are not started. Counts live in `volN/review/` and `volN/parts/`, not here.
+
+### K9. The source of the bhāṣya and the second pass (decided Nov 22 2026)
+- K9.1 In the second pass of every volume, Sāyaṇa's bhāṣya is taken from **the wiki source** (Wikisource; to be confirmed, F39) and placed in that volume's Sāyaṇa-bhāṣya document, from which the volume's PDF takes it (K7) and from which the volume's Sāyaṇa-bhāṣya book is made, like the one made for Vol 11.
+- K9.2 The wiki text is the base for the Sanskrit of the bhāṣya, in the place of the machine-read blocks. A spelling variant between the wiki text and the volume's supplied text is not an error; a final consonant without virāma is not an error (user, on the Vol 11 experiment, branch `claude/focused-planck-d2g9yw`). A difference of content between them gets a `NOTE`.
+- K9.3 Where the wiki source lacks the bhāṣya of a Ṛk, or a sūkta introduction, nothing is invented: the machine-read block stands in the document with a `NOTE` (F39).
+- K9.4 The sūkta and Ṛk addresses of the wiki text are mapped to the volume's addresses by script and checked: every Ṛk of the volume has its bhāṣya or a `NOTE`, none twice.
 
 ---
 
@@ -568,7 +602,7 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 
 ## N. The form of a volume, stated completely
 
-*Nov 21 2026. This part describes, without reference to any other volume, exactly what a volume of the current form contains and in what order. It was written from the Vol 17 files (the pilot of the form) and states what those files show; Parts A and C give the same matter in outline and are to be brought into line with it. Names in the working files (the "data names") differ in some places from the names printed in the book; both are given. Anything the original print does not have is not made up: "where the original has it" means the part is present only then.*
+*Nov 21 2026, adjusted Nov 22 2026. This part describes, without reference to any other volume, what a volume of the current form contains and in what order. **Rows 3 and 4 of N3, N2.1 and N4.2–N4.3 are stated in the target form of C3** (a reference line instead of the bhāṣya); the volumes made so far still hold the Devanagari block and its Summary at those places (Part L). The rest was written from the Vol 17 files (the pilot of the form) and states what those files show; Parts A and C give the same matter in outline. Names in the working files (the "data names") differ in some places from the names printed in the book; both are given. Anything the original print does not have is not made up: "where the original has it" means the part is present only then.*
 
 ### N1. The order of a volume
 1. **Front matter** (A2): cover, portraits, scholars, credits, copyright, contents, the translator-editor's preface.
@@ -582,7 +616,7 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 
 ### N2. A sūkta
 A sūkta begins with its heading, "Sūkta N (Maṇḍala M)", which appears once and only where the Kannada shows a sūkta beginning; its introductory parts stand under the sub-headings "Anuvāda" (the Kannada introduction) and "Particulars" (the line of N2.3). It holds, in this order:
-1. **Sāyaṇa's introduction to the sūkta**, where the original has it: his Sanskrit block in Devanagari (the label "॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)"), followed by its **Gist of the bhāṣya** in English.
+1. **A reference to Sāyaṇa's introduction to the sūkta**, where the original has one: a single line giving the address in the volume's Sāyaṇa-bhāṣya document (C3). The introduction itself is added at PDF generation.
 2. **The Kannada introduction** of the sūkta ("Anuvāda"), in English, where the original has it.
 3. **The particulars** of the sūkta, in one line, in this form: Maṇḍala; Anuvāka; Sūkta; Aṣṭaka; Adhyāya; Varga(s); number of Ṛks in the sūkta; seer; deity; metre. A sentence in the original that states the same is kept as translated. The facts are read from the running heads of the original: ಮಂ. = Maṇḍala; ಅ. between ಮಂ. and ಸೂ. = Anuvāka (not Aṣṭaka); ಸೂ. = Sūkta; ಅ. and ವ. on the other side of the page = Adhyāya and Varga.
 4. **The Ṛks**, in order (N3).
@@ -595,20 +629,20 @@ A Ṛk begins with its heading, "Ṛk N", and holds these parts, each under its 
 |---|---|---|---|---|
 | 1 | Verse | ॥ संहितापाठः ॥ (Saṃhitā-pāṭha) | Saṃhitā-pāṭha | the verse, accented, from the reference text (B1.2): Devanagari, then its transliteration in italics, one line per pāda, the closing "॥ N ॥" with the Ṛk number |
 | 2 | Word-text | ॥ पदपाठः ॥ (Pada-pāṭha) | Pada-pāṭha | the words of the verse separated by "।", ending "॥ N ॥", Devanagari then transliteration; unaccented |
-| 3 | Commentary | ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya) | Sāyaṇa-bhāṣya — Sāyaṇa's Explanation | Sāyaṇa's Sanskrit for this Ṛk in Devanagari, as supplied, set as a quotation; **no transliteration stored in the working file**; the printed book adds it (B2.2); the full English is in the reader of Part K |
-| 4 | Summary of the commentary | Gist of the bhāṣya | Summary | English: an elaborate summary that covers most of the block (the grammatical tail need not be explained); it states who is addressed, the use (viniyoga) with its sūtra, the gloss of each word, every alternative, each authority with its reference |
+| 3 | Commentary | Sāyaṇa-bhāṣya (reference line) | Sāyaṇa-bhāṣya — Sāyaṇa's Explanation | in the working file only a reference to the Ṛk's bhāṣya in the volume's Sāyaṇa-bhāṣya document (C3); in the printed book Sāyaṇa's Sanskrit in Devanagari with its transliteration (made at print, B2.2), set as a quotation |
+| 4 | Summary of the commentary | (none in the working file) | Summary | the English of Sāyaṇa's text from the Sāyaṇa-bhāṣya document, added at PDF generation; its rules are in K3 |
 | 5 | Word meanings | प्रतिपदार्थ (Pratipadārtha) | Word-to-word meaning | one word per line: the Sanskrit word in Devanagari, its transliteration in italics in brackets, a dash, its meaning in English |
 | 6 | Sense | भावार्थ (Bhāvārtha) | Gist | the sense of the verse in English, from the Kannada |
 | 7 | English of the edition | English translation (label as decided, F5) | English translation | the English the original prints under the verse, reproduced |
 | 8 | Special topics | विशेषविषयगळु (Special Topics) | Special Topics | the original's notes on the Ṛk, in English; see N5 |
 | 9 | Grammar | Grammar | Grammar (Vyākaraṇa-prakriyā) | where the original has it; see N6 |
 
-If the commentary of one Ṛk is long, parts 3 and 4 may alternate: a block of the commentary, then its summary, then the next block, then its summary; the order of the blocks is the order of the original.
+In the printed book the commentary of a long Ṛk may alternate between parts 3 and 4: a block of the commentary, then its English, then the next block; the order of the blocks is the order of the original.
 
 ### N4. Rules for the parts
 1. **Verse (1) and Pada-pāṭha (2):** every akṣara is set apart in the printed book (C1); the verse and the Pada-pāṭha are never merged into the text of another part; a verse quoted in running text is not printed as a verse block and carries no accents of its own.
-2. **Commentary (3):** the Sanskrit is copied letter for letter from the supplied text by script; the translator never types it. Where the supplied text holds a misread letter, the book prints it as supplied and the intended reading is logged (B1.6).
-3. **Summary (4):** follows C3 (length, damaged sentences, continuation). A Sanskrit word cited in it is copied from the commentary block, printed in Devanagari with its transliteration in italics in brackets, followed by its sense. A paragraph states what Sāyaṇa says, not what the translator thinks. The summary of a block that holds only grammar says so in one sentence and does not repeat the grammar.
+2. **Commentary (3):** the Sanskrit is taken from the Sāyaṇa-bhāṣya document, where it comes from the wiki source (K9) and is copied letter for letter by script; the translator never types it.
+3. **Summary (4):** see K3 for its rules (length, damaged sentences, what it states). A Sanskrit word cited in it is copied from the commentary block, printed in Devanagari with its transliteration in italics in brackets, followed by its sense.
 4. **Word meanings (5):** one word per line, as a list, in the order the original prints them; the words are those the original lists, none added and none dropped.
 5. **Sense (6):** follows the Kannada; where Sāyaṇa and the Kannada differ it follows Sāyaṇa and the place gets a `NOTE` (B5.4).
 6. **English of the edition (7):** reproduced as printed, in the original's English, with its own spelling and punctuation; it is never altered to agree with the Sense.
@@ -647,6 +681,31 @@ Working-file levels: `##` for a Maṇḍala, a sūkta and the Preface only; `###
 2. The Kannada file holds the text of the original with its Sanskrit in Kannada script and the headings and page marks of A5, and no more.
 3. Every Ṛk of the original appears once, in order, and the Saṃhitā of each is the reference's (B1.2, D3).
 
+## O. By-product documents **NEW**
+
+*Decided or leaning as marked, Nov 22 2026 (user's comments; DESIGN §14). All concern the English translation; the Kannada book remains similar to the original (A5).*
+
+### O1. The dictionary of the words of the Ṛgveda (decided)
+1. It is made from the **word-to-word meanings (Pratipadārtha)** of every Ṛk, one entry per word line: the word in Devanagari, its transliteration (derived, B2.2), its meaning in English, and the Maṇḍala.Sūkta.Ṛk address where it occurs.
+2. **A second purpose:** to find words that mean different things in different contexts. The dictionary therefore lists, for each word, all its occurrences with their meanings, and a separate report lists the words with more than one meaning. The report is read by a model reader first (a finding is a proposal) and by a person after (Part J); a difference may be a real change of sense or an error in a volume.
+3. The word lines of a Ṛk are separate fields, not one block of text (the present `pratipada` unit is one block and is split by script).
+4. Open (F41): the entry is the form as printed or the lemma; when two meanings count as different; whose meaning is shown; which volumes are included first.
+
+### O2. Search (decided)
+1. The dictionary is **searchable in Devanagari or in English, at word level or at Ṛk level.**
+2. A Devanagari search matches the spellings इंद्र and इन्द्र alike (F23); an English search matches inflected English words. The transliteration is indexed too, so that a search in Latin letters is possible (F42).
+3. At Ṛk level the search covers the sections of a Ṛk (verse, word meanings, Gist, English of the edition, Special Topics) and returns the Ṛk address.
+4. The searchable file is built from the units and is never edited by hand. Its medium (a local page, a database or a search tool) is open (F42).
+
+### O3. The tag document (later)
+1. A separate document of tags and notes will let the information scattered in the prefaces (Pīṭhike) and the Special Topics be found across volumes, for later work such as a book of Ṛgveda stories or a documentary on Agni or Indra.
+2. It points to passages by address, down to the paragraph (so the prefaces and Special Topics need numbered paragraphs); it is not part of the volumes.
+3. One controlled vocabulary for the whole series (with H2.5). The deity, seer and metre of each sūkta, from its particulars line, are the first tags. Other tags are proposed by a model reader and confirmed by a person (F43).
+
+### O4. Data format (proposed)
+1. The canonical data of a volume is `volN/data/units.jsonl` (JSON Lines, one unit per section of a Ṛk: `m`, `s`, `rk`, `kind`, `id`, `kn`, `en`, `notes`, `state`). At Ṛk level every section can be extracted separately by `kind`.
+2. The dictionary, the search file, the tag document and the Sāyaṇa book are **views** of this data; Markdown and PDF are renderings, never sources. Devanagari only is stored; transliteration is derived at print (B2.2). One address scheme serves all by-products (F44).
+
 ## Appendix: where each requirement comes from
 
 | Requirement | Source |
@@ -659,6 +718,7 @@ Working-file levels: `##` for a Maṇḍala, a sūkta and the Preface only; `###
 | A1, B1.1, B1.4, B2.2, B6, E | standing rules (`CLAUDE.md`, `docs/HANDBOOK.md` §2, §7, §8, §11) |
 | D1, D2 | agreed in principle in the session of Nov 12 2026 |
 | D3–D8 | existing checks and the lessons of Vols 17, 18, 11 (`docs/LESSONS.md`) |
+| A2 (pages before the preface), B1.3, B1.6, B6.6, C3, K7, K9, I2 R7, I6a, O, F24, F35–F44 | the user's comments of Nov 21–22 2026 (DESIGN §14) |
 | N | the Vol 17 files (`vol17/Rigveda_Samhita_Vol17_English_Translation.md`, `volcfg.json`, `rv/printer.py`), read Nov 21 2026 |
 | K, L, M; additions to B–F | survey of the repository's documents, Nov 21 2026 (`CLAUDE.md`, `HANDBOOK`, `LESSONS`, `BRIEF`, `BHASHYA_BRIEF`, `DESIGN`, `LEGACY_*`, `TODO`, `PUBLICATION_TODO`, `sayana_bhr.md`, `reference_bhr.md`, volume `STATUS.md` files); user, Nov 21 2026 (bhāṣya in Devanagari, transliteration and full English belongs in a separate book) |
 | H | added Nov 12 2026 at the user's request; facts marked *(to verify)* from a web search of that day |
