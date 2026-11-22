@@ -27,7 +27,7 @@ def words(t):
     t = t.replace('ऽ', '')
     t = re.sub(r'[^ऀ-ॿ]+|[०-९।॥]+', ' ', t)             # keep Devanagari letters only
     t = re.sub(r'[०-९।॥]', ' ', t)
-    return t.split()
+    return [w.rstrip('्') or w for w in t.split()]       # a final virāma is not printed in this edition: not a difference
 
 
 def supplied(vol, s):

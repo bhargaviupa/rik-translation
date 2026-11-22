@@ -9,6 +9,8 @@ Read `tools/rv/BHASHYA_BRIEF.md` rules 1, 2, 4, 5, 6 and 8 (everything in Sāya�
 4. **An earlier English draft** of each sūkta exists in `vol11/bhashya_en/M1_S<sss>.md`, made from the volume's machine-read text (which has many misread letters) and by the Ṛk, not by the unit. You may read it as a help. You may keep a sentence of it only after you have checked that sentence against the Wikisource unit, word by word, and it says what the unit says; where the draft differs from the unit, the unit wins. Do not copy its `## Readings` or its remarks. If the draft and the unit disagree in a way that matters, that is not a NOTE: the unit is the base.
 5. The English is for a reader who knows English, not Sanskrit, and wants to follow everything Sāyaṇa says, the grammar included (BHASHYA_BRIEF rule 1): say which word is derived, from which root in which sense, by which suffix or rule.
 
+6. **A final consonant printed without virāma** (`चित`, `धृतत्वात`, `तदाश्रयत्वात`) is how this edition prints, not an error (user, Nov 22 2026): translate the word, put no NOTE and make no remark. Other missing letters (a final nasal, a whole syllable) are still typos for a NOTE.
+
 ## The steps for each sūkta of your task (M and S as numbers, e.g. `1 137`)
 1. `python3 tools/rv/wsbook.py task M S` writes the task file and prints its path and the path of your English file.
 2. Read the task file; write the English file.

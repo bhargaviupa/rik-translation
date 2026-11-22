@@ -6438,7 +6438,7 @@ To विष्णवे (*viṣṇave*), to the pervading one, who has the said
 
 *saṃkīrtayet| “sedu | uśabdo 'piśabdārthaḥ | so 'pi dātā stotā ca “śravobhiḥ annaiḥ kīrtibhirvā yuktaḥ san “yujyaṃ “cita sarvairgantavyameva tatpadam “abhi ābhimukhyena “asat gacchati prāpnoti ‖*
 
-He should proclaim it. सेदु (*sedu*): the word u has the sense of the word api. He too, the giver and the praiser, being joined with श्रवोभिः (*śravobhiḥ*), with foods or with fames, अभि (*abhi*), facing it, असत् (*asat*), goes to, reaches, the युज्यं (*yujyaṃ*) चित (*cita*) **NOTE**, that station which is indeed to be gone to by all.
+He should proclaim it. सेदु (*sedu*): the word u has the sense of the word api. He too, the giver and the praiser, being joined with श्रवोभिः (*śravobhiḥ*), with foods or with fames, अभि (*abhi*), facing it, असत् (*asat*), goes to, reaches, the युज्यं (*yujyaṃ*) चित (*cita*), that station which is indeed to be gone to by all.
 
 <a id="SBh-1.156.3"></a>
 ### SBh 1.156.3 · Ṛk 3 — Volume 11, printed p. 650
