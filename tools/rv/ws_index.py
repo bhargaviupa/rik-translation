@@ -13,6 +13,8 @@ REFERENCE POINTS (one scheme for all volumes; M = maṇḍala, S = sūkta, R = �
   M.S.R.P      one paragraph of Sāyaṇa's bhāṣya, as the page has it (R = 0: the introduction before Ṛk 1)
 A volume can pick any layers per Ṛk: `get 1.137.2` returns them all, the caller chooses.
 
+Spelling conventions (न्त्स, nasals, accent-mark place), known defects of the pages and what was checked: docs/WIKISOURCE_NOTES.md.
+
 HOW THE PAGES ARE READ. Ṛks are found from the page's own plain Saṃhitā (the <poem> blocks): Ṛk n has k lines there, and
 the template holds its accented Saṃhitā, accented Pada and plain Pada, k lines each (some pages give the Saṃhitā of several
 Ṛks first, then Pada pairs; some lack the accented Pada). When that fails a second reader goes by the shape of the lines.
