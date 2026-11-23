@@ -204,6 +204,7 @@ def parse_sukta(m, s, wt):
             items, p2, s_off = [], q + K, q
             for idx, k in enumerate(ks):
                 sl = '\n'.join(paras[s_off:s_off + k])
+                if sum(len(re.findall(r'।\s+[^\s॥।]', paras[x])) for x in range(s_off, s_off + k)) >= 3 * k: return None   # these are Pada lines
                 if difflib.SequenceMatcher(None, squash(sl), squash(plain[n0 - 1 + idx]), autojunk=False).ratio() < 0.8: return None
                 s = (s_off, s_off + k); s_off += k
                 if p2 + 2 * k <= len(paras) and all(acc(x) for x in range(p2, p2 + k)) and all(light(x) for x in range(p2 + k, p2 + 2 * k)):
@@ -218,7 +219,8 @@ def parse_sukta(m, s, wt):
             hit = None
             for q in range(pos, len(paras)):
                 if not acc(q): continue
-                if (q + 1 < len(paras) and acc(q + 1) and len(paras[q]) > 20 and
+                mid = lambda x: len(re.findall(r'।\s+[^\s॥।]', paras[x]))          # a Pada line has a danda between most words
+                if (q + 1 < len(paras) and acc(q + 1) and len(paras[q]) > 20 and mid(q) <= 1 and mid(q + 1) <= 1 and
                         difflib.SequenceMatcher(None, squash(paras[q]), squash(paras[q + 1]), autojunk=False).ratio() >= 0.9):
                     dups.add(q); continue                    # a line printed twice: the first copy is set aside
                 for m in range(1, 7):
