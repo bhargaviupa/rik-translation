@@ -282,7 +282,7 @@ The design does not wait for these. Each has an assumed answer, and the last col
 
 Of the seventeen questions, eleven are decided (Nov 13 2026), and all but one of the answers are print settings or lists. Still open: F1 (second half), F11 (rights), F15 (the user's preface), F17 (who confirms a verse difference), and the wording parts of F8. That is the design working as intended: what a volume *says* is made once; how it *looks* can be decided, and changed, at any time.
 
-## 14. Decisions of Nov 21–22 2026 (the user's comments on the requirements)
+## 14. Decisions of Nov 21–23 2026 (the user's comments on the requirements)
 
 Recorded as the user gave them, in the user's order. **Status:** *decided* = stated by the user as a requirement or confirmed ("yes"); *leaning* = the user said "I think" or "might"; *proposed* = suggested by the assistant and not yet confirmed; *later* = for a later time. Nothing here is built. The matching requirements are written into `REQUIREMENTS.md` Draft 5 (A2, B1, B6.6, C3, K7, K9, I2 R7, I6a, O, F24, F35–F44).
 
@@ -307,4 +307,4 @@ Recorded as the user gave them, in the user's order. **Status:** *decided* = sta
 
 **Sections of this document that these decisions change when they are built:** §3.3 (14.4); §4 (the second reading gains the wiki bhāṣya, the Sāyaṇa book and, perhaps, the scan check: 14.5, 14.7); §3.1 (units: the bhāṣya, summary and intro kinds leave the English data, `pratipada` becomes word lines: 14.6, 14.8); §6 (the front matter from root-directory files, the bhāṣya added at build: 14.1, 14.2, 14.6); §9 (new by-products: the dictionary, the tag document, the Sāyaṇa book).
 
-**Open points from these comments, each to be settled before it is built:** the name of the root directory; whether our own typeset English title page still follows pictures 1 and 2 (A2 row 7a) and whether the English range lines stay below the cover; whether volumes without such pictures must supply them; whether there is one thank-you page or two; the wiki source, how its text is fetched and what happens where it lacks a Ṛk; the dictionary's entry level and meaning rule; the search medium; the tag vocabulary; and the data format.
+**Open points from these comments, each to be settled before it is built:** the name of the root directory; whether our own typeset English title page still follows pictures 1 and 2 (A2 row 11) and whether the English range lines stay below the cover; whether volumes without such pictures must supply them; whether there is one thank-you page or two; the wiki source, how its text is fetched and what happens where it lacks a Ṛk; the dictionary's entry level and meaning rule; the search medium; the tag vocabulary; and the data format.
