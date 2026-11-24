@@ -1,0 +1,1 @@
+- 2026-11-24: rig_23.md: 66 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.
