@@ -31703,6 +31703,288 @@ May the sweet-flavoured Soma be grateful to you, who are munificent; (may it be 
 
 > अयं । ऊं इति । त्वा । विचर्षणे । जनीःइव । अभि । संवृतः ।
 
+### Printed p. 753
+#### Ṛk 7 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोमः । इंद्र । सर्पतु ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचर्षणे विद्रष्टरिंद्र जनीरिव जनयो जाया इव ता यथा शुक्लैर्वस्त्रैः संवृता भवंति एवं संवृतः पयःप्रभृतिभिः श्रयणद्रव्यैरावृतोऽयं
+> सोमोऽभि प्र सर्पतु । अभिगच्छतु । उ इति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra as विचर्षणे (*vicarṣaṇe*), "O seer". As wives (*janīḥ*) are covered with white garments, so this Soma, covered (संवृतः (*saṃvṛtaḥ*)) with milk and the other mixing substances, should approach (अभि प्र सर्पतु (*abhi pra sarpatu*)), that is, go towards, Indra. The word उ (*u*) is only an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचर्षषे (*vicarṣaṣe*)—you who have a discerning eye
+- इंद्र (*iṃdra*)—O Indra
+- जनीरिव (*janīriva*)—as a wife comes dressed in fine garments
+- संवृतः (*saṃvṛtaḥ*)—mixed with milk and the other mixing substances
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma
+- त्वा (*tvā*)—you
+- अभि प्र सर्पतु (*abhi pra sarpatu*)—let it approach
+
+##### भावार्थ (Bhāvārtha)
+
+O discerning Indra, as a wife comes dressed in fine garments, so may this Soma, mixed with milk and the other mixing substances, approach you.
+
+##### English translation
+May this Soma, invested (with milk), approach you, observant Indra, like a bride (clad in white apparel).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तु॒वि॒ग्रीवो॑ व॒पोद॑रः सुबा॒हुरंध॑सो॒ मदे॑ ।  
+> इंद्रो॑ वृ॒त्राणि॑ जिघ्नते ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुविग्रीवः । वपाउदरः । सुबाहुः । अंधसः । मदे ।  
+> इंद्रः । वृत्राणि । जिघ्नते ॥ ८ ॥
+
+### Printed p. 754
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुविग्रीवो विस्तीर्णकंधरो वपोदरः पीवरोदरः । यथा बहवः सोमा
+> पीता अंतर्भवंति तथा विस्तृतजठर इत्यर्थः । सुबाहुः शोभनबाहुः एवंगुणक
+> इंद्रोऽंधसोऽन्नस्य सोमात्मकस्य मदे हर्षे सति वृत्राणि शत्रुजातानि जिघ्नते ।
+> हिनस्ति ॥
+
+##### Gist of the bhāṣya
+
+तुविग्रीवः (*tuvigrīvaḥ*) means one with a broad neck; वपोदरः (*vapodaraḥ*) means one with a stout belly, that is, a belly so distended that many draughts of Soma drunk are held within it. सुबाहुः (*subāhuḥ*) means one with fine arms. Indra, possessing these qualities, when he is exhilarated by the food (अंधसः (*aṃdhasaḥ*)) that is Soma, slays (जिघ्नते (*jighnate*), he strikes) the hosts of enemies (वृत्राणि (*vṛtrāṇi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविग्रीवः (*tuvigrīvaḥ*)—one with a long neck
+- वपोदरः (*vapodaraḥ*)—one with a stout belly
+- सुबाहुः (*subāhuḥ*)—one with excellent arms
+- इंद्रः (*iṃdraḥ*)—Indra
+- अंधसः (*aṃdhasaḥ*)—by the food and drink that is Soma
+- मदे (*made*)—when exhilaration arises
+- वृत्राणि (*vṛtrāṇi*)—all the enemies
+- जिघ्नते (*jighnate*)—he slays
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, long-necked, stout-bellied and excellent-armed, slays all his enemies when he is exhilarated by the food and drink that is Soma.
+
+##### English translation
+Long-necked, large-bellied, strong-armed Indra, in the exhilaration of the (sacrificial) food, destroys his enemies.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ प्रेहि॑ पु॒रस्त्वं विश्व॒स्येशा॑न॒ ओज॑सा ।  
+> वृ॒त्राणि॑ वृत्रहञ्जहि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । प्र । इहि । पुरः । त्वं । विश्वस्य । ईशानः । ओजसा ।  
+> वृत्राणि । वृत्रहन् । जहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ओजसा बलेन विश्वस्य सर्वस्य जगत ईशानः स्वामी भवंस्त्वं पुरोऽस्माकं पुरस्तात्प्रेहि । प्रगच्छ । प्रापुहि । हे वृत्रहन् वृत्राणामावरकाणां
+> शत्रूणां हंतः वृत्राण्यस्मदीयानि शत्रुजातानि जहि । विनाशय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, being by your might (ओजसा (*ojasā*), strength) lord (ईशानः (*īśānaḥ*)) of the whole world, go forth (प्रेहि (*prehi*)), that is, advance and arrive, before us (पुरः (*puraḥ*)). O slayer of Vṛtras, that is, of enemies who obstruct, destroy (जहि (*jahi*)) the hosts of our enemies.
+
+### Printed p. 755
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ओजसा (*ojasā*)—by your strength
+- विश्वस्य (*viśvasya*)—of the entire world
+- ईशानः (*īśānaḥ*)—being the lord
+- त्वं (*tvaṃ*)—you
+- पुरः (*puraḥ*)—to our front
+- प्रेहि (*prehi*)—be pleased to come
+- वृत्रहन् (*vṛtrahan*)—O Indra, destroyer of enemies
+- वृत्राणि (*vṛtrāṇi*)—the enemies
+- जहि (*jahi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are lord of the entire world by your strength, be pleased to come to our front. O Indra, destroyer of enemies, destroy the enemies.
+
+##### English translation
+Indra, who by your strength are the lord over all, come to us : slayer of Vritra, subdue our foes.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दी॒र्घस्ते॑ अस्त्वंकु॒शो येना॒ वसु॑ प्र॒यच्छ॑सि ।  
+> यज॑मानाय सुन्व॒ते ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दीर्घः । ते । अस्तु । अंकुशः । येन । वसु । प्रयच्छसि ।  
+> ।  
+> यजमानाय । सुन्वते ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्युदयेष्टाविंद्रस्य प्रदातुर्दीर्घस्ते अस्त्वंकुश इत्यनुवाक्या । सूत्रते
+> हि । दीर्घस्ते अस्त्वंकुशो भद्रा ते हस्ता सुकृतोत पाणी । आ. ३-१३. । इति ॥
+> हे इंद्र ते तवांकुशः सृणिराकर्षणसाधनमायुधं दीर्घोऽस्तु ।
+> आयतो भवतु । यथा दूरस्थमपि वस्तु व्याप्नोति तथायामवान् भवत्वित्यर्थः ।
+> येनांकुशेन सुन्वते सोमाभिषवं कुर्वते यजमानाय वसु धनमाहृत्य
+> प्रयच्छसि ददासि ॥
+
+##### Gist of the bhāṣya
+
+In the abhyudaya-iṣṭi addressed to Indra the Giver, the verse दीर्घस्ते अस्त्वंकुश (*dīrghaste astvaṃkuśa*) is the anuvākyā. It is prescribed in the sūtra: दीर्घस्ते अस्त्वंकुशो भद्रा ते हस्ता सुकृतोत पाणी । (*dīrghaste astvaṃkuśo bhadrā te hastā sukṛtota pāṇī |*) (Ā. Sū. 3-13).
+O Indra, may your goad (अंकुशः (*aṃkuśaḥ*)), the weapon that is the instrument of drawing things to oneself, be long (दीर्घः (*dīrghaḥ*)), that is, extended, so that it reaches even a distant object; this is the meaning. With that goad you bring wealth (वसु (*vasu*)) and bestow (प्रयच्छसि (*prayacchasi*)) it on the sacrificer who presses Soma.
+
+### Printed p. 756
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) येन (*yena*)—with which goad
+- सुन्वते (*sunvate*)—to the one who presses and offers Soma
+- यजमानाय (*yajamānāya*)—to the sacrificer
+- वसु (*vasu*)—having taken away wealth
+- प्रयच्छसि (*prayacchasi*)—you give
+- ते अंकुशः (*te aṃkuśaḥ*)—that goad of yours, furnished with a hook
+- दीर्घः (*dīrghaḥ*)—long
+- अस्तु (*astu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may that goad of yours, furnished with a hook, with which you take wealth away from the enemy and give it to the sacrificer who presses and offers Soma, be long.
+
+##### English translation
+Long be your goad, wherewith you bestow wealth upon the sacrificer offering libations.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the abhyudaya-iṣṭi, in the oblation made to the deity Indra the Giver, this Ṛk दीर्घस्ते आस्त्वंकुशः (*dīrghaste āstvaṃkuśaḥ*) is to be recited as the anuvākyā mantra. This is set out in the sūtra of the Āśvalāyana Śrauta-sūtra, दीर्घस्ते आस्त्वंकुशो भद्रा ते हस्ता सुकृतोत पाणी (*dīrghaste āstvaṃkuśo bhadrā te hastā sukṛtota pāṇī*) (Ā. 3-13).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं त॑ इंद्र॒ सोमो॒ निपू॑तो॒ अधि॑ ब॒र्हिषि॑ ।  
+> एही॑म॒स्य द्रवा॒ पिब॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ते । इंद्र । सोमः । निपूतः । अधि । बर्हिषि ।  
+> आ । इहि । ईं । अस्य । द्रव । पिब ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीये पर्याये होतुः शस्त्रेयं त इंद्रेति स्तोत्रियस्तृचः ।
+> सूत्रितं च । अयं त इंद्र सोमोऽयं ते मानुषे जने । आ. ६ ८. । इति ॥
+
+##### Gist of the bhāṣya
+
+In the second paryāya, in the Hotṛ's recitation (śastra), the three verses beginning अयं त इंद्र (*ayaṃ ta iṃdra*) form the stotriya tṛca. It is prescribed in the sūtra: अयं त इंद्र सोमोऽयं ते मानुषे जने (*ayaṃ ta iṃdra somo 'yaṃ te mānuṣe jane*) (Ā. Sū. 6 8).**NOTE**
+
+### Printed p. 757
+
+> हे इंद्र ते तुभ्यं त्वदर्थमयं सोमो बर्हिष्यधि वेद्यामास्तीर्णे दर्भे
+> निपूतो नितरां दशापवित्रेण शोधितः । अभिषवादिसंस्कारैः संस्कृत इत्यर्थः ।
+> ईमिदानीमस्यॆमं सोमं प्रत्येहि । आगच्छ । अगत्य यत्र रसात्मकः सोमो हूयते तं देशं प्रति द्रव । शीघ्रं गच्छ । तदनंतरं तं सोमं पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this Soma is for you. On the barhis (बर्हिषि (*barhiṣi*)), the darbha grass spread on the altar, it has been thoroughly purified (निपूतः (*nipūtaḥ*)) with the ten-stranded filter, that is, prepared by the rites beginning with pressing. Come now (एहि (*ehi*)) towards this Soma; having come, run (द्रव (*drava*)), go quickly, to the place where the Soma juice is offered. After that, drink (पिब (*piba*)) that Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—for you
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma
+- बर्हिषि अधि (*barhiṣi adhi*)—on the seats of darbha grass
+- निपूतः (*nipūtaḥ*)—has been purified and placed
+- ईं (*īṃ*)—now
+- अस्य (*asya*)—towards this Soma juice
+- एहि (*ehi*)—be pleased to come
+- द्रव (*drava*)—approach quickly
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma has been purified for you and placed on the seats of darbha grass. Be pleased to come now towards this Soma juice. Approach quickly and drink.
+
+##### English translation
+This Soma juice, purified (by filtering) and placed on the sacred grass, is for you Indra ; come to it ; hasten ; drink.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the second paryāya, of the śastra mantras recited by the Hotṛ, the three Ṛks beginning अयं त इंद्र (*ayaṃ ta iṃdra*) are to be recited as the stotriya tṛca. This is set out in the sūtra of the Āśvalāyana Śrauta-sūtra, अयं त इंद्र सोमोऽयं ते मानुषे जने (*ayaṃ ta iṃdra somo 'yaṃ te mānuṣe jane*) (Ā. 6-4).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शाचि॑गो॒ शाचि॑पूजना॒यं रणा॑य ते सु॒तः ।  
+> आखं॑डल॒ प्र हू॑यसे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शाचिगो इति शाचिगो । शाचिपूजन । अयं । रणाय । ते । सुतः ।  
+> ।  
+> आखंडल । प्र । हूयसे ॥ १२ ॥
+
+### Printed p. 758
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शाचिगो । शाचयः शक्ता गावो यस्यासौ शाचिगुः । यद्वा ॥ शच
+> व्यक्तायां वाचि । आस्मादौणादिक इज् प्रत्ययः ॥ शाचयो व्यक्ता प्रख्याता गावो
+> रश्मयो गाव एव ना यस्य तादृश । हे शाचिपूजन । पूज्यतेऽनेनेति पूजनं
+> स्तोत्रादि । प्रख्यातपूजन ते तव रणाय रमणाय सुखजननायायं सोमः
+> सुतोऽभिषुतः । यतः कारणात् हे आखंडल शत्रूणामाखंडयितः प्र हूयसे
+> प्रकृष्णाभिः स्तुतिभिराहूयसे । अत आगत्येमं सोमं पिबेति भावः ॥
+
+##### Gist of the bhāṣya
+
+O शाचिगो (*śācigo*): one whose cows (गाव (*gāva*)) are शाचयः (*śācayaḥ*) (powerful) is a शाचिगुः (*śāciguḥ*). Or else: from the root शच (*śaca*) in the sense of "clear speech" comes शाचयः (*śācayaḥ*) by the Uṇādi affix इज् (*ij*); शाचयः (*śācayaḥ*) then means evident, renowned. The गाव (*gāva*) are the rays, "cows" being the rays themselves; so the word means one who has such renowned rays. O शाचिपूजन (*śācipūjana*): पूजनं (*pūjanaṃ*) is that by which one is honoured, such as a hymn of praise; so it means one of renowned honour. For your delight (रणाय (*raṇāya*)), that is, to produce pleasure, this Soma has been pressed (सुतः (*sutaḥ*)). Because of this, O आखंडल (*ākhaṃḍala*), breaker of enemies, you are invoked (प्र हूयसे (*pra hūyase*)) with excellent praises. Therefore come and drink this Soma; such is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शाचिगो (*śācigo*)—one with renowned rays
+- शाचिपूजन (*śācipūjana*)—O Indra, one of renowned worship
+- ते (*te*)—your
+- रणाय (*raṇāya*)—for delight
+- अयं (*ayaṃ*)—this Soma
+- सुतः (*sutaḥ*)—has been pressed
+- आखंडल (*ākhaṃḍala*)—O Indra, destroyer of enemies
+- प्र हूयसे (*pra hūyase*)—you are invoked with excellent praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of renowned rays and renowned worship, this Soma has been pressed for your delight. O Indra, destroyer of enemies, you are invoked with excellent praises.
+
+##### English translation
+Renowned for radiance, renowned for adoration, this libation is for your gratification ; destroyer of foes, you are earnestly invoked.
+
+##### विशेषविषयगळु (Special Topics)
+
+आखंडल (*ākhaṃḍala*)—for this word Yāska has given the etymology आखंडल प्र हूयसे । आखंडयितः खंडं खंडयतेः ॥ (*ākhaṃḍala pra hūyase | ākhaṃḍayitaḥ khaṃḍaṃ khaṃḍayateḥ ‖*) (Ni. 3-10). आखंडल (*ākhaṃḍala*) means Indra. खंड (*khaṃḍa*) means a piece, a fragment; the root खंडयति (*khaṃḍayati*) means to cut into pieces, to break into fragments. Because Indra cuts the clouds (with his thunderbolt) into pieces, scatters them and makes rain pour down, Indra is named आखंडल (*ākhaṃḍala*); thus the word is explained.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ शृंगवृषो नपा॒त्पण॑पात्कुंड॒पाय्यः॑ ।  
+> न्य॑स्मिन्दध्र॒ु आ मनः॑ ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 752. pp. 746-752 (batch API)
+**Progress note:** Done through printed p. 758. pp. 753-758 (batch API)
