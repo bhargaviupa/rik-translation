@@ -18401,6 +18401,314 @@ Holy Agni, to whom oblations are offered, we worship you in like manner (as you 
 > त्वं । हि । आग्ने । अग्निना । विप्रः । विप्रेण । सन् । सता ।  
 > सखा । सख्या । संइध्यसे ॥ १४ ॥
 
+### Printed p. 408
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विप्रो मेधावी सन् विद्यमानः सखा च त्वं विप्रेण सता सख्याग्निना
+> समिध्यसे । तथा च ब्राह्मणं । त्वं ह्यग्ने अग्निना विप्रो विप्रेण सन्त्सतेति विप्र
+> इतरो विप्र इतरः सन्नितरः सन्नितरः सखा सख्या समिध्यस इत्येष ह वा अस्य स्वः सखा ।
+> ऐ. ब्रा. १-१६ । इति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are a sage and a friend, and you are kindled by another Agni who is likewise a sage and a friend. Sāyaṇa supports this with the Brāhmaṇa: त्वं ह्यग्ने अग्निना विप्रो विप्रेण सन्त्सतेति विप्र इतरो विप्र इतरः सन्नितरः सन्नितरः सखा सख्या समिध्यस इत्येष ह वा अस्य स्वः सखा । (*tvaṃ hyagne agninā vipro vipreṇa santsateti vipra itaro vipra itaraḥ sannitaraḥ sannitaraḥ sakhā sakhyā samidhyasa ityeṣa ha vā asya svaḥ sakhā |*) (Ai. Brā. 1-16). The one is a sage and the other is a sage; the one is good and the other is good; the one is a friend and the other is a friend. This, the Brāhmaṇa says, is Agni's own friend.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- विप्रः (*vipraḥ*)—being wise
+- सखा च (*sakhā ca*)—and a friend
+- सन् (*san*)—being
+- विप्रेण (*vipreṇa*)—by one who is wise
+- सख्या (*sakhyā*)—who is a friend
+- सका (*sakā*)—being
+- अग्निना (*agninā*)—by another Agni
+- समिध्यसे हि (*samidhyase hi*)—you are kindled
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are wise and a friend are kindled by another Agni who is also wise and a friend.
+
+##### English translation
+You, Agni, are kindled by Agni: a sage by a sage, a saint by a saint, a friend by a friend.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं विप्रा॑य दा॒शुषे॑ र॒यिं दे॑हि सह॒स्रिणं॑ ।  
+> अग्ने॑ वी॒रव॑ती॒मिषं॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । विप्राय । दाशुषे । रयिं । देहि । सहस्रिणं ।  
+> अग्ने । वीरवतीं । इषं ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स प्रसिद्धस्त्वं विप्राय मेधाविने दाशुषे हविषां प्रदात्रे
+> यजमानाय सहस्रिणं सहस्रसंख्याकमपरिमितं रयिं धनं वीरवतीं पुत्रपौत्रादिसहितमिषमन्नं च देहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you, the well-known one, give to the wise sacrificer who offers oblations a thousandfold, measureless wealth, and food together with sons, grandsons and the like.
+
+### Printed p. 409
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—the renowned
+- त्वं (*tvaṃ*)—you
+- विप्राय (*viprāya*)—to the wise
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblations
+- सहस्रिणं (*sahasriṇaṃ*)—consisting of thousands
+- रयिं (*rayiṃ*)—wealth
+- वीरवतीं (*vīravatīṃ*)—accompanied by valiant sons
+- इषं (*iṣaṃ*)—food
+- देहि (*dehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you, the renowned one, give to the sacrificer, who is wise and offers oblations, wealth by the thousand and food accompanied by sons of valour.
+
+##### English translation
+Do you, Agni, bestow upon the pious donor (of the oblation) infinite riches and food with male progany.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ भ्रातः॒ सह॑स्कृत॒ रोहि॑दश्व॒ शुचि॑व्रत ।  
+> इ॒मं स्तोमं॑ जुषस्व मे ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । भ्रातरिति । सहःकृत । रोहित्आश्व । शुचित्व्रत ।  
+> इमं । स्तोमं । जुषस्व । मे ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने भ्रातभ्रातृवद्यजमानानां मित्रभूत सहस्कृत सहसा बलेन कृत
+> रोहिदश्व लोहितवर्णाश्व शुचिव्रत शुद्धकर्मन्नग्ने म अंगिरसस्य ममेमंस्तोमं जुषस्व । सेवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, brother-like friend of the sacrificers, born of strength, with red horses and of pure rites, accept this hymn of mine, the Āṅgirasa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भ्रातः (*bhrātaḥ*)—affectionate like a brother
+- सहस्कृत (*sahaskṛta*)—born of strength
+- रोहिदश्व (*rohidaśva*)—possessing golden-coloured horses
+- शुचिव्रत (*śucivrata*)—possessing pure rites
+- अग्ने (*agne*)—O Agni
+- मे (*me*)—of me, named Aṅgiras
+- इमं स्तोमं (*imaṃ stomaṃ*)—this hymn
+- जुषस्व (*juṣasva*)—accept
+
+### Printed p. 410
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, affectionate like a brother, born of strength, possessing golden-coloured horses and pure rites, listen to this hymn of mine, named Aṅgiras.
+
+##### English translation
+Agni, (our) brother, who are clicited by strength, who have red horses, and are (the performer) of pure rites, be propitiated by this my praise.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वा॑ग्ने॒ मम॒ स्तुतो॑ वा॒श्राय॑ प्रति॒हर्य॑ते ।  
+> गो॒ष्णं गाव॑ इवाशत ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वा । अग्ने । मम । स्तुतः । वाश्राय । प्रतिहर्यते ।  
+> गोऽस्थं । गावःऽइव । आशतॆ ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे अग्ने त्वा त्वां ममांगिरसस्य स्तुतः स्तुतयो वाश्राय
+> वाशनशीलाय वत्साय प्रतिहर्यते पयॆः कामयमानाय दोग्नुं गोष्ठं गाव
+> इव यथा गावः प्रविशंति तथाशते । प्राप्न्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+And, O Agni, my praises, I the Āṅgirasa, reach you, as cows enter the stall for the calf that cries and longs for milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अग्ने (*agne*)—O Agni
+- वाश्राय (*vāśrāya*)—to the calves bleating with hunger
+- प्रतिहर्यते (*pratiharyate*)—in order to give milk
+- गावः (*gāvaḥ*)—cows
+- गोष्ठं इव (*goṣṭhaṃ iva*)—as they enter the stall eagerly
+- मम (*mama*)—my
+- स्तुतः (*stutaḥ*)—praises
+- त्वा (*tvā*)—you
+- आशत (*āśata*)—approach (in order to please you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as cows eagerly enter the stall to give milk to calves bleating with hunger, so my praises approach you to please you.
+
+### Printed p. 411
+
+##### English translation
+My praises hasten to you, Agni. as cows enter their stalls (to give milk) to the thirsting calves.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्यं॒ ता अं॑गिरस्तम॒ विश्वाः॑ सुक्षि॒तयः॒ पृथ॑क् ।  
+> अग्ने॒ कामा॑य येमिरे ॥ ८ ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यं । ताः । अंगिरतम । विश्वाः । सुक्षितयः । पृथक् ।  
+> अग्ने । कामाय । येविरे ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरस्तमांगिरसां श्रेष्ठाग्ने तुभ्यं विश्वाः सर्वास्ताः प्रसिद्धाः सुक्षितयः
+> प्रजाः कामायात्मनः कामासिद्ध्यर्थं पृथग्गैमिरे । नियच्छंति ।
+
+##### Gist of the bhāṣya
+
+O Agni, best of the Aṅgirases, all those well-known good people, the subjects, restrain themselves severally for you, for the fulfilment of their own desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरस्तम (*aṃgirastama*)—O best among the Aṅgirases
+- आग्ने (*āgne*)—O Agni
+- ताः (*tāḥ*)—the renowned
+- विश्वाः (*viśvāḥ*)—all
+- सुक्षितयः (*sukṣitayaḥ*)—the people
+- कामाय (*kāmāya*)—for the accomplishment of their desires
+- तुभ्यं (*tubhyaṃ*)—to you
+- पृथक् (*pṛthak*)—severally
+- येमिरे (*yemire*)—offer worship and take refuge in you
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, best among the Aṅgirases, all the renowned people, for the fulfilment of their desires, offer worship to you severally and take refuge in you.
+
+##### English translation
+To you, Agni, who are the chief of the Angirasa, all people have severally recourse for the attainment of their desires.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं धी॒भिर्म॑नी॒षिणो॒ मेधि॑रासो विप॒श्चितः॑ ।  
+> अ॒द्म॒सद्या॑य हिन्विरे ॥ १९ ॥
+
+### Printed p. 412
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । धीभिः । मनीषिणः । मेधिरासः । विपःचितः ।  
+> अद्मसद्याय । हिन्विरे ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनीषिणो मनस ईश्वरा मेधिरासो मेधाविनो विपश्चितः प्राज्ञा
+> यजमाना धीभिः कर्मभिरद्मसद्यायान्नस्य भजनायाग्निं हिन्निरे । प्रीणयंति ॥
+
+##### Gist of the bhāṣya
+
+The thoughtful, who are masters of their minds, the intelligent and the wise sacrificers please Agni with their rites, for the enjoyment of food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनीषिणि (*manīṣiṇi*)—possessing firm resolve
+- मेधिरासः (*medhirāsaḥ*)—the intelligent
+- विपश्चितः (*vipaścitaḥ*)—the wise
+- धीभिः (*dhībhiḥ*)—by their rites
+- अव्यसद्याय (*avyasadyāya*)—for the attainment of food
+- अग्निं (*agniṃ*)—Agni
+- हिन्विरे (*hinvire*)—worship and gratify
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers, who have firm resolve, are intelligent and wise, worship and gratify Agni by their rites for the attainment of food.
+
+##### English translation
+The wise, the intelligent, the sagacious, propitiate Agni with sacrifices for the attainment of food.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वामज्मे॑षु वा॒जिनं॑ तन्वा॒ना अ॑ग्ने अध्व॒रं ॥  
+> वह्निं॒ होता॑रमीळते ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । त्वां । अज्मेषु । वाजिनं । तन्वानाः । अग्ने । अध्वरं ।  
+> वह्निं । होतारं । ईळते ॥ २० ॥
+
+### Printed p. 413
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वाजिनं बलिनं वह्निं हविषां वोढारं होतारं देवानामहात्वातारु तं प्रसिद्धं त्वामज्मेषु गृहेष्वध्वरं यज्ञं तन्नाना विस्तारयंतो
+> यजमाना ईळते । स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the sacrificers, extending the sacrifice in their houses, praise you, the well-known one, the strong, the carrier of oblations, the Hotṛ who invokes the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अध्वरं (*adhvaraṃ*)—the sacrifice
+- तन्वानाः (*tanvānāḥ*)—performing extensively
+- वाजिनं (*vājinaṃ*)—possessing strength
+- वह्निं (*vahniṃ*)—the bearer of the oblation
+- होतारं (*hotāraṃ*)—the invoker of the gods to the sacrifice
+- तं (*taṃ*)—the renowned
+- त्वां (*tvāṃ*)—you
+- अज्मेषु (*ajmeṣu*)—in the sacrificial houses
+- ईळत्ते (*īḷatte*)—they praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers who perform the sacrifice extensively praise you in the sacrificial houses, you who are strong, bear the oblation, invoke the gods to the sacrifice and are renowned.
+
+##### English translation
+Preparing the sacrifice in their mansions, (the worshippers) adore you, Agni, the powerful, the bearer (of the obation), the invoker of the gods.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒त्रा हि स॒दृज्जसि॒ विशो॒ विश्वा॒ अनु॑ प्र॒भुः ।  
+> स॒मत्सु॑ त्वा हवामहे ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुत्रा । हि । सद्यज् । असि । विशः । विश्वाः । अनु । प्रभुः ।  
+> समत्सु । त्वा । हवामहे ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं हि यतः प्रभु प्रभुः । सुलोपश्कांदसः ॥ पुरुत्रा बहुषु
+> प्रदेशेषु विश्वाः सर्वा विशः प्रजा अनु सदृज् समानदर्श्यसि आतस्त्वा त्वां समत्तु
+> संग्रामेषु हवामहे । ह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, since you are the lord, you look equally upon all the peoples in many places; therefore we call you, the well-known one, in battles.
+
 ---
 
-**Progress note:** Done through printed p. 407. Mandala 8 sukta 43 rks 7-14
+**Progress note:** Done through printed p. 413. Mandala 8 Sukta 43 Rk 14-21
