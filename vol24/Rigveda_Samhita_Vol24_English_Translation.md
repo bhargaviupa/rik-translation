@@ -21522,6 +21522,303 @@ When the Soma is effused. I pour out the libation to you, Showerer (of blessings
 > मा त्वा॑ मू॒रा अ॑वि॒ष्यवो॒ मोप॒हस्वा॑न॒ आ द॑भन् ।  
 > मार्कीं॑ ब्रह्म॒द्विषो॑ वनः ॥ २३ ॥
 
+### Printed p. 471
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वः ' त्वा । मूराः । अविष्यवः । मा ! उपहस्वानः । आ । दभन् ।  
+> मार्कें । ब्रह्मद्विषः । वनः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां मूरा मूरका मूढा मनुष्या अविष्यवः पालनकामा
+> मा दभन् । मा हिंसंतु । उपहस्वान उपदसनपराश्च मा भवंतु । ब्रह्मद्विषो
+> ब्राह्मणानां द्वेष्टन् माकीं वनः । मा भजेथाः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, let not fools (मूरा (*mūrā*): foolish men) who desire protection (अविष्यवः (*aviṣyavaḥ*)) harm you (मा दभन् (*mā dabhan*): let them not injure); let them not be given to mockery (उपहस्वान (*upahasvāna*)). Do not favour (माकीं वनः (*mākīṃ vanaḥ*): do not take to yourself) the haters of Brahmans (ब्रह्मद्विषः (*brahmadviṣaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you
+- अविष्यवः (*aviṣyavaḥ*)—desiring protection
+- मूराः (*mūrāḥ*)—the unwise
+- मा आ दभन् (*mā ā dabhan*)—let them not harm
+- उपहस्वानः (*upahasvānaḥ*)—those who mock you
+- मा (*mā*)—let them not harm
+- ब्रह्मद्विषः (*brahmadviṣaḥ*)—the Asuras who hate Brahmans
+- माकीं वनः (*mākīṃ vanaḥ*)—by no means favour
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let the unwise who desire protection not harm you. Let mockers not harm you. Do not favour the Asuras who hate Brahmans.
+
+##### English translation
+Let not fools, seeking protection, nor mockers trouble you; favour not the enemies of the Brahmans.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह त्वा॒ गोप॑रीणसा म॒हे मं॑दंतु॒ राध॑से ।  
+> सरो॑ गौ॒रो यथा॑ पिब ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । त्वा । गोपरीणसा । महे । मंदंतु । राधसे ।  
+> सरः । गौरः । यथा । पिब ॥ २४ ॥
+
+### Printed p. 472
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वामिह यज्ञे गोपरीणसा गव्येन पयसा संमिश्रितेन
+> सोमेन महे महते राधसे धनाय मंदंतु । मनुष्या मादयंतु । त्वं च
+> तं सोमं यथा गौरो मृगः सरः पिबति तथा पिब ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, here in the sacrifice let men gladden you (मंदंतु (*maṃdaṃtu*): delight you) with Soma mixed with cow's milk (गोपरीणसा (*goparīṇasā*)), for great wealth (महे (*mahe*) राधसे (*rādhase*)). And you drink that Soma as the gaur, the wild animal, drinks at a lake (सरः (*saraḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इह (*iha*)—in this sacrifice
+- महे (*mahe*)—great
+- राधसे (*rādhase*)—for wealth
+- त्वा (*tvā*)—you
+- गोपरीणसा (*goparīṇasā*)—with Soma mixed with milk
+- मंदंतु (*maṃdaṃtu*)—let the sacrificers satisfy
+- यथा (*yathā*)—as
+- गौरः (*gauraḥ*)—the gaur
+- सरः (*saraḥ*)—drinks the water of a lake in thirst, so
+- पिब (*piba*)—drink this Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for the gain of great wealth let the sacrificers satisfy you in this sacrifice with Soma mixed with milk. As the gaur drinks the water of a lake in thirst, so drink this Soma.
+
+##### English translation
+Let (the worshippers) gladden you here with the Soma mixed with milk, for the attainment of great wealth; drink it as the buffalo a lake.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या वृ॑त्र॒हा प॑रा॒वति॒ सना॒ नवा॑ च चुच्यु॒वे ।  
+> ता सं॒सत्तु॒ प्र वो॑चत ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । वृक्रहा । परावति । सना । नवा । च । चुच्युवे ।  
+> ता । संसत्सु । प्र । वोचत ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृत्रहेंद्रः परावति दूरे या यानि सना सनातनानि नवा नवानि नूतनानि च
+> धनानि चुच्युवे षेरिशवान् तानि धनानि संसत्तु यज्ञेषु सभासु वा प्रवोचत ।
+> प्रब्रूते विद्वज्जनः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Those wealths, ancient (सना (*sanā*)) and new (नवा (*navā*)), which Indra the slayer of Vṛtra (वृत्रहा (*vṛtrahā*)) sends (चुच्युवे (*cucyuve*)) from afar (परावति (*parāvati*)), those wealths let the learned people proclaim (प्रवोचत (*pravocata*): speak forth) in sacrifices or in assemblies (संसत्तु (*saṃsattu*)). **NOTE**
+
+### Printed p. 473
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहा (*vṛtrahā*)—Indra, the slayer of Vṛtra
+- परावति (*parāvati*)—from a very distant region
+- या (*yā*)—which
+- सना (*sanā*)—ancient
+- नवा च (*navā ca*)—and new, the riches
+- चुच्युवे (*cucyuve*)—he sends
+- ता (*tā*)—such riches
+- संसत्तु (*saṃsattu*)—in the sacrificial assemblies
+- प्र वोचत (*pra vocata*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+Praise in the sacrificial assemblies those riches, ancient and new, which Indra the slayer of Vṛtra sends from a very distant region.
+
+##### English translation
+Proclaim in our assemblies those perpetual and ever new riches which the slayer of Vritra sends from afar.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असि॑बत्क॒द्रुवः॑ सु॒तमिंद्रः॑ स॒हस्र॑बाह्वे ।  
+> अत्रा॑देदिष्ट॒ पौंस्यं॑ ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपिबत् । कद्रुवः । सुतं । इंद्रः । सहस्रऽबाह्वे ।  
+> अत्र । अदेदिष्ट । पौंस्यं ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः कद्रुवः कद्रुनामकस्यर्षेः संबंधिनं सुतमभिषुतं सोममपिबत् ।
+> पीतवान् । सहस्रबाह्वे सहस्रबाहोः शत्रूंश्चाहन्नितिशेषः । आत्रास्मिन्नवसरे
+> पौंस्यमिंद्रस्य वीर्यमदेदिष्ट । आदीप्यत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra drank the Soma pressed (सुतं (*sutaṃ*)) by or belonging to the seer named Kadru (कद्रुवः (*kadruvaḥ*)). For the thousand-armed (सहस्रबाह्वे (*sahasrabāhve*)), "he slew the enemies" is to be supplied. Here, on this occasion, Indra's manly power (पौंस्यं (*pauṃsyaṃ*)) blazed forth (अदेदिष्ट (*adediṣṭa*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- कद्रुवः (*kadruvaḥ*)—by the seer named Kadru
+- सुतं (*sutaṃ*)—the pressed Soma
+- अपिबत् (*apibat*)—drank
+- सहस्रबाहुः (*sahasrabāhuḥ*)—destroyed the Asura with a thousand arms
+- अत्र (*atra*)—on this occasion
+- पौंस्यं (*pauṃsyaṃ*)—Indra's valour
+- अदेदिष्ट (*adediṣṭa*)—shone
+
+### Printed p. 474
+
+##### भावार्थ (Bhāvārtha)
+
+Indra drank the Soma pressed by the seer named Kadru. He destroyed the Asura who had a thousand arms. On this occasion Indra's valour shone forth.
+
+##### English translation
+Indra drank the Soma offering of Kadru, (he smote the enemies) of the thousand-armed ; there did his might shine forth.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यं तत्तु॒र्वशे॒ यदौ॒ विदा॑नो अहूवा॒य्यं ।  
+> व्या॑नट् तु॒र्वणे॒ शमि॑ ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यं । तत् । तुर्वशे । यदौ । विदानः । अहूवाय्यं ।  
+> वि । अनट् । तुर्वणे । शमि ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुर्वशे राज्ञि यदौ च यदुनामके च राज्ञि तत्प्रसिद्धं यागादिलक्षणं शमि
+> कर्म । शची शमाति कर्मनामसु पाठात् । सत्यं परमार्थं विदानो जानंस्तयोः
+> प्रीत्यर्थमहूवाय्यमहूवाय्यनामकं तयोः शत्रुं तुर्वणे संग्रामे
+> व्यानट् । व्याप्तवान् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: To the king Turvaśa (तुर्वशे (*turvaśe*)) and to the king named Yadu (यदौ (*yadau*)) belongs that well-known act (शमि (*śami*): karma) consisting of sacrifice and the like; शमि (*śami*) is cited as a name of action from the list of names of action. Indra, knowing (विदानः (*vidānaḥ*)) the truth, the real matter, for the pleasure of those two, overcame (व्यानट् (*vyānaṭ*): pervaded) their enemy named Ahūvāyya in battle (तुर्वणे (*turvaṇe*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुर्वशे (*turvaśe*)—in the king named Turvaśa
+- यदौ (*yadau*)—and in the king named Yadu
+- तत् (*tat*)—well-known
+- शमि (*śami*)—the sacrificial act
+- सत्यं (*satyaṃ*)—and the dealing of truth
+- विदानः (*vidānaḥ*)—Indra, who knew
+- अह्नवाय्यं (*ahnavāyyaṃ*)—their enemy named Ahnavāyya
+- तुर्वणे (*turvaṇe*)—in battle
+- व्यानट् (*vyānaṭ*)—destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who knew the sacrificial act well known in the king named Turvaśa and in the king named Yadu, and the dealing of truth, destroyed their enemy named Ahnavāyya in battle.
+
+### Printed p. 475
+
+##### English translation
+Well knowing those (sacrificial) deeds of Turvasa and Yadu, he overcame Ahnavayya in battle.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त॒रणिं॑ वो॒ जना॑नां त्र॒दं वाज॑स्य॒ गोम॑तः ।  
+> स॒मा॒नमु॒ प्र शं॑सिषं ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तरणं । वः । जनानां । त्रदं । वाजस्य । गोऽमतः ।  
+> समानं । ऊं इति । प्र । शंसिषं ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अस्मदीयाः पुरुषाः वो युष्माकं जनानां पुत्रपौत्रादीनां तरणिं
+> तारकं त्रयं शत्रुणां तर्दयितारं गोमतः पशुमतोऽन्नस्य दातारं चेंद्रं
+> समानमु साधारणमेव प्रशंसिषं । स्तौमि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O our men, I praise Indra, who is common to all (समानमु (*samānamu*): साधारणमेव (*sādhāraṇameva*)), the deliverer (तरणिं (*taraṇiṃ*): तारकं (*tārakaṃ*)) of you, of your people, sons, grandsons and the rest, the one who त्रयं (*trayaṃ*) the enemies, and the giver of food (वाजस्य (*vājasya*)) rich in cattle (गोमतः (*gomataḥ*): possessed of animals). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—your
+- जनानां (*janānāṃ*)—for sons, grandsons and the rest
+- तरणिं (*taraṇiṃ*)—the protector
+- त्रदं (*tradaṃ*)—the destroyer of enemies
+- गोमतः (*gomataḥ*)—possessed of cattle
+- वाजस्य (*vājasya*)—giver of food
+- समानं उ (*samānaṃ u*)—the kinsman common to all of us, Indra
+- प्र शंसिषं (*pra śaṃsiṣaṃ*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers and the rest, I praise Indra, the protector of your sons, grandsons and the rest, the destroyer of enemies, the giver of food rich in cattle, the kinsman common to all of us.
+
+##### English translation
+I praise our common (Indra), the deliverer of your families, the (of your enemies, the bestower) of riches in cattle.
+
+### Printed p. 476
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒भु॒क्षणं॒ न वर्त॑न उ॒क्फेषु॑ तुग्रा॒वृधं॑ ।  
+> इंद्रं॒ सोमे॒ सचा॑ सु॒ते ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋभुक्षणं । न । वर्तवे । उक्षेषु । तुग्र्यवृधं ।  
+> इंद्रं । सोमे । सचा । सुते ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभुक्षणं महांतं तुग्रावृधमुदकस्य वर्धयितारं । तुग्रा बुर्बुरमित्यदकनामसु पाठात् । इंद्रं सोमे सचा स्तोत्रेण सह सुतेऽभिषुते
+> सत्युक्थेषु शस्त्रेषु वर्तवे धनं वरितुं प्रशंसामीति शेषः । नेति संप्रत्यर्थे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: I praise the great Ṛbhukṣan (ऋभुक्षणं (*ṛbhukṣaṇaṃ*)), Tugrāvṛdh (तुग्रावृधं (*tugrāvṛdhaṃ*)), the augmenter of water; तुग्रा (*tugrā*) and बुर्बुर (*burbura*) are read among the names of water. Indra, when Soma has been pressed (सुते (*sute*)) with praise (सचा (*sacā*)), I praise in the recitations (the shastras) in order to win (वर्तवे (*vartave*)) wealth; "I praise" is to be supplied. न (*na*) is in the sense of "now". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यभुक्षणं (*yabhukṣaṇaṃ*)—the great one
+- तुग्रावृधं (*tugrāvṛdhaṃ*)—and the increaser of water
+- इंद्रं (*iṃdraṃ*)—Indra
+- सोमे (*some*)—when the Soma juice
+- सचा (*sacā*)—with praise
+- सुते (*sute*)—has been pressed
+- वर्तवे (*vartave*)—for the gaining of wealth
+- उक्षेषु (*ukṣeṣu*)—in the shastra mantras **NOTE**
+- न (*na*)—I now praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise with shastra mantras, for the gain of wealth, Indra, the great one and the increaser of water, when the Soma juice has been pressed with praise.
+
+##### English translation
+(I praise) in hymns the mighty Indra, the augmenter of waters, for the attainment of wealth, when the Soma is effused with (song).
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः कृं॒तदिद्वि यो॒न्यं त्रि॒शोका॑य गि॒रिं पृ॒थुं ।  
+> गोभ्यो॑ गा॒तुं निरे॑तवे ॥ ३० ॥
+
 ---
 
-**Progress note:** Done through printed p. 470. Ṛk 16-23 of 8.45 (pp. 465-470)
+**Progress note:** Done through printed p. 476. Ṛk 23-30 of 8.45 (pp. 471-476)
