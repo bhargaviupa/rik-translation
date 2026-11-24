@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 190 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181)
-- **Findings:** 390 — applied 264, questions 126; edits ok 274, failed 0
-- **Reader tokens (batches so far):** 1770k; per page 9.3k
-- **Last commit:** 7998fe1
+- **Pages read:** 220 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211)
+- **Findings:** 442 — applied 304, questions 138; edits ok 314, failed 0
+- **Reader tokens (batches so far):** 1770k; per page 8.0k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -18,24 +18,25 @@
 | 4 | 92–121 | 50 | 35 | 35 / 0 | 15 | 204k | 26ecee4 | 22 S2 removals; one edit (p. 95) needed a rerun after sp_apply.py learned two headings for one page |
 | 5 | 122–151 | 67 | 52 | 52 / 0 | 15 | 272k | 823a12c | 20 S2 removals, 7 S7 quotation repairs; English p. 141 carries the first lines of Kannada p. 142 |
 | 7 | 152–181 | 43 | 35 | 35 / 0 | 8 | 223k | 7998fe1 | 19 S1 + 8 S2 number repairs, 2 S7 quotation repairs; two English headings each for pp. 154 and 179 (handled) |
+| 8 | 182–211 | 52 | 40 | 40 / 0 | 12 | TOK7 | @C@ | 18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
-| H29 | 1 | 107 | 108 |
-| S2 | 100 | 0 | 100 |
-| S1 | 59 | 3 | 62 |
-| S14 | 38 | 5 | 43 |
-| S7 | 31 | 5 | 36 |
-| S16 | 17 | 1 | 18 |
+| H29 | 1 | 114 | 115 |
+| S2 | 110 | 1 | 111 |
+| S1 | 70 | 3 | 73 |
+| S14 | 43 | 6 | 49 |
+| S7 | 38 | 6 | 44 |
+| S16 | 21 | 3 | 24 |
 | S13 | 5 | 3 | 8 |
-| S3 | 7 | 0 | 7 |
-| S17 | 4 | 0 | 4 |
+| S3 | 8 | 0 | 8 |
+| S17 | 6 | 0 | 6 |
 | R3 | 0 | 2 | 2 |
 | S15 | 1 | 0 | 1 |
 | S18 | 1 | 0 | 1 |
 
-By reader: R1 247, R3 90, R6 53
+By reader: R1 285, R3 102, R6 55
 
 ## 4. Open items (not findings)
 - **marker** (pages 65-66): The text of p. 66 stands inside the p. 65 block of the Kannada book (head missing): the page marker needs a fix; the English p. 66 matches that text
@@ -46,7 +47,7 @@ By reader: R1 247, R3 90, R6 53
 - **findings-row-stale** (pages 95): The p. 95 row for Ā. 7-7 says question; the edit was applied afterwards (7-3)
 
 ## 5. Questions for the editor
-125 rows in `questions.tsv`; by kind: H29 107, R3 2, S1 3, S13 3, S14 5, S16 1, S7 5
+137 rows in `questions.tsv`; by kind: H29 114, R3 2, S1 3, S13 3, S14 6, S16 3, S2 1, S7 6
 
 ## 6. Files
 `vol6/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
