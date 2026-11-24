@@ -24080,6 +24080,284 @@ Give, Nasatyas, food of many kinds dripping with butter to him, the Rishi Vatsa,
 
 **NOTE**
 
+### Printed p. 582
+
+> यः । वां । सुम्नाय । तुस्तवत् । वसुयात् । दानुनः । पती इति ॥१६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् अस्मै स्तोत्रे धृतश्चुतं धृतधारया युक्तामूर्जं बलकरमन्नरसं युवं युवां प्र यच्छतं । दत्तं । हे दानुनस्पती दानस्याधिपती वां
+> युवां सुम्नाय सुखार्थं यस्तुष्टवत् स्तुयात् । यश्च वसूयात् वसु धनमात्मन इच्छेत् । अस्मा इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Aśvins. "O Aśvins, give to this praiser food-essence (*ūrjaṃ*), strength-giving and accompanied by a stream of ghee. O lords of giving (दानुनस्पती (*dānunaspatī*), lords of gift), (give it to the one) who praises you for happiness, and who desires wealth for himself." The construction is with अस्मै (*asmai*) ("to this one").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दानुनस्पती (*dānunaspatī*)—O (Aśvins), lords of generous giving
+- अश्विना (*aśvinā*)—O Aśvin deities
+- सुम्नाय (*sumnāya*)—for happiness
+- यः (*yaḥ*)—which praiser
+- तुष्टवत् (*tuṣṭavat*)—praises
+- यः (*yaḥ*)—who
+- वसूयत् (*vasūyat*)—desires wealth, such a one
+- अस्मै (*asmai*)—to this praiser
+- घृतशु तं (*ghṛtaśu taṃ*)—flowing like ghee
+- ऊर्जc (*ūrjac*)—and strength-giving food-essence
+- युवं (*yuvaṃ*)—you
+- प्र यच्छतं (*pra yacchataṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, lords of generous giving, to this praiser, who praises you out of desire for happiness and for wealth, give food-essence that flows like ghee and gives strength.
+
+##### English translation
+Give, Aswins, invigorating food, dripping with butter, to him who praises you, the lords of liberality, to obtain happiness; who desires affluence.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ गंतं रिशादसे॒मं स्तोमं॑ पुरुभुजा ।  
+> कृ॒तं नः॑ सु॒श्रियो॑ नरे॒मा दा॑तम॒भिष्ट॑ये ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । गंतं । रिशादसा । इमं । स्तोमं । पुरुभुजा ।
+
+### Printed p. 583
+
+> कृतं । नः । सुश्रियः । नरा । इमा । दातं । अभिष्टये ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रिशादसा रिशतां हिंसतां निरसितारौ यद्वा रिशानां हिंसकानामत्तारौ
+> भक्षितारौ हे पुरुभुजा बहुलस्य हविषो भोक्तारौ बहूनां पालकौ ना हे
+> अश्विनौ नोऽस्माकमिमं स्तोमं स्तोत्रमा गंतु । अभिगच्छतं । अगत्य च हे
+> नरा नेतारौ नोऽस्मान् सुश्रियः सुश्रीकाञ्छोभनया संपदा युक्तान् कृतं ।
+> कुरुतं । तदर्थमिमेमानि पुरो वर्तमानानि पार्थिवान्यभिष्टयेऽभिप्राप्तये
+> दातं । दत्तं ॥ ददातेर्लोटि च्छांदसः शपो लुक् ॥
+
+##### Gist of the bhāṣya
+
+O रिशादसा (*riśādasā*)—destroyers of those who harm (रिशतां (*riśatāṃ*)), or else eaters, devourers, of the harmful रिशानां (*riśānāṃ*); O पुरुभुजा (*purubhujā*)—enjoyers of abundant oblation, protectors of many; O Aśvins, come to this our praise (स्तोमं (*stomaṃ*)). Having come, O leaders, make us सुश्रियः (*suśriyaḥ*), endowed with fair prosperity. For that purpose give these earthly goods that lie before us, for the attainment of what we wish (अभिष्टये (*abhiṣṭaye*)). दातं (*dātaṃ*) means "give"; it is the imperative of the root *dadāteḥ*, with Vedic elision of *śap*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रिशादसा (*riśādasā*)—destroyers of harmful enemies
+- पुरुभुः (*purubhuḥ*)—protectors of many; O Aśvin deities
+- नः (*naḥ*)—our
+- इमं स्तोमं (*imaṃ stomaṃ*)—towards this praise
+- आ गंतं (*ā gaṃtaṃ*)—graciously come
+- नरा (*narā*)—O Aśvin deities, leaders
+- नः (*naḥ*)—us
+- सुश्रियः (*suśriyaḥ*)—as possessing excellent prosperity
+- कृतं (*kṛtaṃ*)—make
+- इमा (*imā*)—these earthly riches before us
+- अभिष्टये (*abhiṣṭaye*)—in accordance with our desired end
+- दातं (*dātaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, destroyers of harmful enemies and protectors of many, graciously come towards this our praise. O Aśvin deities, leaders, make us possessors of excellent prosperity. Give the earthly riches that lie before us in accordance with what we desire.
+
+##### English translation
+Confounders of the malignant, partakers of many (oblations), come to this our adoration ; render us prosperous, leaders (of rites) ; give these (good things of earth) to our desires.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नां॒ विश्वा॑भिरू॒तिभिः॑ प्रि॒यमे॑धा अहूषत ।  
+> राजं॑तावध्व॒राणा॒मश्वि॑ना॒ याम॑हूतिषु ॥ १८ ॥
+
+### Printed p. 584
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । विश्वाभिः । ऊतिभिः । प्रियमेधाः । अहूषत ।  
+> राजंतौ । अध्वराणां । अश्विना । यामहूतिषु ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् यामहूतिषु यामानां यात्कृणां देवानां हूतिराह्वानं येषु यागेषु तेषु प्रियमेधा प्रिययज्ञा एतत्संज्ञा ऋषयोऽध्वराणां यज्ञानां राजंतावीश्वरौ । राजतिरैश्वर्यकर्मा । अश्विनौ हि देवानामध्वयू आस्तामिति हि ब्राह्मणं।ईदृशौ विश्वाभिः सर्वाभिरूतिभी रक्षाभिः सहितौ वां
+> युवामाहूषत । आह्वयन । अस्तुवन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, in the sacrifices (यामहूतिषु (*yāmahūtiṣu*)) in which the यामानां (*yāmānāṃ*), the gods who go (to the sacrifice), are invoked, the ṛṣis named Priyamedha, "lovers of sacrifice", invoke you, who are lords of the rites (राजंतौ (*rājaṃtau*): राजति (*rājati*) is a verb of lordship). Sāyaṇa cites the Brāhmaṇa: अश्विनौ हि देवानामध्वयू आस्तामिति हि ब्राह्मणं (*aśvinau hi devānāmadhvayū āstāmiti hi brāhmaṇaṃ*). Such as you are, accompanied by all protections (ऊतिभिः (*ūtibhiḥ*)), they have invoked you, that is, praised you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यामहूतिषु (*yāmahūtiṣu*)—in the sacrifices
+- प्रियमेधाः (*priyamedhāḥ*)—the ṛṣi named Priyamedha
+- अध्वराणां (*adhvarāṇāṃ*)—of the sacrifices
+- राजंतौ (*rājaṃtau*)—who are lords
+- नां (*nāṃ*)—you
+- विश्वाभिः (*viśvābhiḥ*)—with all
+- ऊतिभिः (*ūtibhiḥ*)—protections
+- आ अहूषत (*ā ahūṣata*)—has praised and invoked
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, in the sacrifices the ṛṣi named Priyamedha has praised and invoked you, the lords of the sacrifices, together with all protections.
+
+##### English translation
+The Priyamedhas at the sacrifices to the gods invoke you, Aswins, who rule over religious rites, together with your protections.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ गंतं मयो॒भुवाश्वि॑ना शं॒भुवा॑ यु॒वं ।  
+> यो वां॑ विपन्यू धी॒तिभि॑र्गि॒र्भिर्व॒त्सो अवी॑वृधत् ॥
+
+### Printed p. 585
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । गंतं । मयःभुवा । अश्विना । शंभुवा । युवं ।  
+> यः । वां । विपन्यू इति । धीतिभिः । ग्रीभिः । वत्सः । अवीनृधत् ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् मयोभुवा मयसः सुखस्य भावयितारौ शंभुवा रोगाणां शमस्य भावयितारौ युवं युवां नोऽस्माना गंतं । अगच्छतं । हे विपन्यू
+> स्तुत्यावश्विन् यो वत्सः स्तोता नां युवां धीतिभिः कर्मभिः परिचरणैर्गिर्भि
+> स्तुतिभिश्चावीवृधत् अवर्धयत् तानस्मानिति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, causers of मयसः (*mayasaḥ*) (happiness) and causers of the quieting of diseases (शमस्य (*śamasya*)), come to us. O adorable (विपन्यू (*vipanyū*)) Aśvins, the Vatsa, the praiser, who has magnified you with धीतिभिः (*dhītibhiḥ*) (rites, services) and with praises (*girbhiḥ*) — to such as us (come); this is the construction with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मयोभुवा (*mayobhuvā*)—bringers of happiness
+- शंभुवा (*śaṃbhuvā*)—destroyers of disease
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you
+- नः (*naḥ*)—to favour us
+- आ गंतं (*ā gaṃtaṃ*)—graciously come
+- विपन्यू (*vipanyū*)—O Aśvin deities worthy of praise
+- यः (*yaḥ*)—which praiser
+- वर्स् (*vars*)—Vatsa
+- वां (*vāṃ*)—you
+- धीतिभिः (*dhītibhiḥ*)—with sacrificial rites
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- अवीवृथत् (*avīvṛthat*)—has magnified you (come to such a one as I)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, bringers of happiness and destroyers of disease, graciously come to favour us. O Aśvin deities worthy of praise, come to me, the praiser Vatsa, who have magnified you with sacrificial rites and with praises.
+
+##### English translation
+Come to us, Aswins, sources of happiness, sources of health; (come) adorable (Aswins), to that Vatsa, who has magnified you with sacrifices and with praises.
+
+### Printed p. 586
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याभिः॒ कण्वं॒ मेधा॑तिथिं॒ याभि॒र्वशं॒ दश॑व्रजं ।  
+> याभि॒र्गॊ॑र्शय॒माव॑तं॒ ताभि॑नोर्नवतं नरा ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याभिः । कण्वं । मेध्य अतिथिं । याभिः । वशं : दशव्रजं ।  
+> याभिः । गोऽश्चर्यं । आवतं । ताभिः । नः । अवतं । नरा ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ याभिरूतिभिः कण्वमृषिं मेधातिथिं चावतं अरक्षतं । याभिश्च
+> वशमेतत्संज्ञं चावतं । याभिश्च गोर्शर्यं । शीर्षा गौर्यस्य स गोर्शर्यः
+> शयुः । तथा चाम्नातं । शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गा० ।
+> ऋ. १.११६-२२ । इति । ईदृशं गोर्शर्यं शयुमावतं अरक्षतं । हे नरा नेतारौ
+> ताभिरूतिभिर्नोऽस्मानवतं । रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, with the protections with which you protected the ṛṣi Kaṇva and Medhātithi, and with which you protected Vaśa (so named), and with which you protected Gorśarya — he whose head is that of a cow is गोर्शर्यः (*gorśaryaḥ*), शयुः (*śayuḥ*). So it is recorded: शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गा० । (*śayave cinnāsatyā śacībhirjasuraye staryaṃ pipyathurgā0 |*) (Ṛ. 1.116-22). Such a Gorśarya, Śayu, you protected. O leaders, with those protections protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याभिः (*yābhiḥ*)—(O Aśvin deities) with which protections
+- कण्वं (*kaṇvaṃ*)—Kaṇva (the ṛṣi)
+- दशव्रजं (*daśavrajaṃ*)—Daśavraja
+- मेधातिथिं (*medhātithiṃ*)—Medhātithi
+- अवतं (*avataṃ*)—you protected
+- याभिः (*yābhiḥ*)—with which protections
+- वशं (*vaśaṃ*)—you protected the ṛṣi named Vaśa
+- याभिः (*yābhiḥ*)—with which protections
+- गोशरं (*gośaraṃ*)—you protected Śayu, accompanied by cows
+- नरा (*narā*)—O Aśvins, leaders
+- ताभिः (*tābhiḥ*)—with all those protections
+- नः (*naḥ*)—us
+- अवतं (*avataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, with the protections with which you protected the ṛṣis Kaṇva, Medhātithi and Daśavraja, with which you protected the ṛṣi Vaśa and Śayu accompanied by cows — O Aśvins, leaders, with all those protections protect us.
+
+**NOTE**
+
+##### English translation
+Leaders (of rites), protect us with those protections with which you have protected Kanwa and Medhatithi, Vasa and Dasavraja; with which you have protected Gosharya;
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याभि॑र्नरा त्र॒सद॑स्यु॒माव॑तं॒ कृत्वे॒ धने॑ ।  
+> ताभिः॒ स्व१॒॑गस्मा अ॑श्विना॒ प्राव॑तं॒ वाज॑सातये ॥ २१ ॥
+
+### Printed p. 587
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याभिः । नरा । त्रसदस्युं । आवतं । कृत्वे । धनेः ।  
+> ताभिः । सु । अस्मान् । अश्विना । प्र । अवतं । वाजसातये ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारावश्विन् धने कृत्वे कर्तव्ये प्राप्तव्ये सति त्रसदस्युमेतत्संज्ञं पुरुकुत्सपुत्रमृषिं याभिरूतिभिरावतं अरक्षतं हे अश्विनौ ताभिरूतिभिः सु
+> सुष्टस्मान् प्रावतं । प्ररक्षतं । किमर्थं । वाजसातये वाजस्यान्नस्य बलस्य वा
+> सातये संभजनार्थं ॥
+
+##### Gist of the bhāṣya
+
+O leaders, Aśvins: when wealth was to be done or obtained (कृत्वे (*kṛtve*)), with the protections with which you protected the ṛṣi so named, Trasadasyu, son of Purukutsa, with those same protections protect us well (प्रावतं (*prāvataṃ*), protect fully). For what purpose? वाजसातये (*vājasātaye*): for the sharing in (सातये (*sātaye*)) food, or strength (वाजस्य (*vājasya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Aśvin deities, leaders
+- धने (*dhane*)—wealth
+- कृत्वे (*kṛtve*)—at the time when it is to be obtained
+- त्रसदस्युं (*trasadasyuṃ*)—the king named Trasadasyu
+- याभिः (*yābhiḥ*)—with which protections
+- आवतं (*āvataṃ*)—you preserved
+- अश्विना (*aśvinā*)—O Aśvin deities
+- ताभिः (*tābhiḥ*)—with all those protections
+- सु (*su*)—exceedingly
+- अस्मान् (*asmān*)—us
+- वाजसातये (*vājasātaye*)—to obtain the wealth of food
+- प्रावतं (*prāvataṃ*)—protect fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders, with the protections with which you preserved the king Trasadasyu at the time when wealth was to be obtained, with all those protections protect us fully, that we may obtain the wealth of food.
+
+##### English translation
+(And) with which, leaders (of rites), you protected Trasadasyu when wealth was to be acquired: you, with the same graciously protect us, Aswins, for the acquirement of food.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वां॒ स्तोमाः॑ सुवृ॒क्तयो॒ गिरो॑ वर्धंत्वश्विना ।  
+> पुरु॑त्रा॒ वृत्र॑हंतमा॒ ता नो॑ भूतं पुरु॒स्पृहा॑ ॥२२॥
+
 ---
 
-**Progress note:** Done through printed p. 581. pp. 575-581 (batch API)
+**Progress note:** Done through printed p. 587. pp. 582-587 (batch API)
