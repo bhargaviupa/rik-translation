@@ -35656,6 +35656,356 @@ Those Maruts, of fearsome form, showerers of desires and exceedingly long-armed,
 ##### English translation
 Fierce, vigorous, strong-armed, they need not exert (the energy of their) persons: bows and arrows are ready in your chariots; the glory (of conquest) over (hostile) armies is yours.
 
+### Printed p. 841
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येषा॒मर्णो॒ न स॒प्रथो॒ नाम॑ त्वे॒षं शश्व॑ता॒मेक॒मिद्भु॒जे ।  
+> वयो॒ न पित्र्यं॒ सहः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येषां । अर्णः । न । सप्रथः । नाम । त्वेषु । शश्वतां । एकं । इत् ।  
+> भुजे ।  
+> वयः । न । पित्र्यं । सहः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्णो नोदकमिव सप्रथः सर्वतः पृथु विस्तीर्णं त्वेषं दीप्तं शश्वतां
+> बहूनां येषां मरुतामिदृशं नाम मरुत इति नामधेयमेकमिदेकमेवासहायमेव सद्भजे स्तोत्यूणां भोगाय भवति । तत्र दृष्टांतः । सहः
+> प्रसहनशीलं पित्र्यं पितुरागतं वयो नान्नमिव । यथा तद्विस्प्रंभेण भोगाय भवति
+> तथेत्यर्थः । तानित्युत्तरत्रैकवाक्यता ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the name "Marut" of those Maruts is like water, spread wide (सप्रथः (*saprathaḥ*)) on every side, and bright. Although the Maruts are many (शश्वतां (*śaśvatāṃ*) = बहूनां (*bahūnāṃ*)), the one name alone, without any other helper, serves for the enjoyment of the worshippers. An illustration follows: as ancestral food (*pitryaṃ vayaḥ*), which comes down from the father and is powerful (सहः (*sahaḥ*)), serves for enjoyment without anxiety, so does the name. The word तान् (*tān*) of the next verse is construed as one sentence with this one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्णो न (*arṇo na*)—as water spreads widely
+- सप्रथः (*saprathaḥ*)—famous, pervading everywhere
+- तैषुं (*taiṣuṃ*)—radiant
+- येषां (*yeṣāṃ*)—of which Maruts
+- शश्वतां (*śaśvatāṃ*)—although they are many
+- एकमित् नाव (*ekamit nāva*)—the one name "Marut", common to all
+- सहः (*sahaḥ*)—nourishing
+- पित्र्यं (*pitryaṃ*)—come down from fathers, grandfathers and others
+- वयो न (*vayo na*)—like food
+- भुजे (*bhuje*)—is a means of enjoyment for the worshippers
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts are famous, pervading everywhere as water spreads widely, and radiant. Though their number is great, the single name "Marut", common to all of them, is a means of enjoyment for the worshippers, like food that is nourishing and has come down from fathers and grandfathers.
+
+### Printed p. 842
+
+##### English translation
+One illustrious name is given to them all, as widely diffused as water for the gratification (of their worshippers), like invigorating paternal food.
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तान्॑नंदस्व म॒रुत॒स्ता उप॑ स्तुहि॒ तेषां॒ हि धुनी॑नां ।  
+> अ॒राणां॒ न च॑र॒मस्तदे॑शां दा॒ना म॒ह्ना तदे॑षां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तान् । वंदस्व । मरुतः । तान् । उप । स्तुहि । तेषां । हि । धुनीनां ।  
+> अराणां । न । चरमः । तत् । एषां । दाना । मह्ना । तत् । एषां ॥ १४ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंतरात्मन् तान्पूर्वोक्तगुणान्मरुतो वंदस्व । प्रणम । तानेवोपेत्य
+> स्तुहि । हि यस्माद्दुनीनां कंपयित्कृणां तेषां मरुतां वयं शेषभूताः स्म ।
+> आराणामर्याणां स्वामिनां यथा चरमो हीनः सेवकः शेषभूतस्तद्वत् ।
+> तत्तस्मादेषां मरुतां दाना दानानि मह्ना महत्त्वेन युक्तान्यस्माकं भवंति ।
+> तदेषामिति द्विरुक्तिरादरार्था पदपूरणार्था वा ॥
+
+##### Gist of the bhāṣya
+
+"O inner self, bow to those Maruts of the qualities described, approach them and praise them. For we belong to those Maruts, the shakers, as the lowest servant (चरमः (*caramaḥ*)) belongs to his lords (अराणां (*arāṇāṃ*) = *aryāṇāṃ svāmināṃ*). Therefore their gifts are accompanied by greatness (मह्ना (*mahnā*)) for us." The doubled तदेषां (*tadeṣāṃ*) is for respect or for filling out the line.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O inner self) तान् मरुतः (*tān marutaḥ*)—those Maruts
+- वंदस्व (*vaṃdasva*)—bow to
+- तान् (*tān*)—them alone
+- उप स्तुहि (*upa stuhi*)—praise
+- हि (*hi*)—because
+- अराणां (*arāṇāṃ*)—to the lords
+- चरमः न (*caramaḥ na*)—as a servant is obedient
+- धुनीनां (*dhunīnāṃ*)—of those who make the whole world tremble
+- तेषां (*teṣāṃ*)—to those Maruts we are all servants
+- तत् (*tat*)—therefore
+- एषां (*eṣāṃ*)—of these Maruts
+- दाना (*dānā*)—the gifts and the like
+- मह्ना (*mahnā*)—are full of greatness
+- तत् (*tat*)—therefore
+- एषां (*eṣāṃ*)—let us become worthy of their favour
+
+##### भावार्थ (Bhāvārtha)
+
+O inner self, bow to the Maruts alone and praise them alone. For we are all servants of those Maruts who make the whole world tremble, as servants are obedient to their lords. Therefore the gifts and the like of these Maruts are full of greatness. Therefore let us become worthy of their favour.
+
+### Printed p. 843
+
+##### English translation
+Praise them, praise the Maruts, for we are (dependent) upon those agitators (of all things) as a menial is upon his lords ; therefore are their donations (charactarized) by munificence ; such are their (gifts)-
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒भगः॒ स व॑ ऊ॒तिष्वास॒ पूर्वा॑सु मरुतो॒ व्यु॑ष्टिषु।  
+> यो वा॑ नू॒नमु॒तास॑ति ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुभगः । सः । वः । ऊतिषु । आस । पूर्वासु । मरुतः । विउष्टिषु ।  
+> यः । वा । नूनं । उत । असति ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्माकमूतिषु रक्षासु सतीषु स स्तोता सुभग आस ।
+> शोभनधनो भवति ॥ अस्तेश्चांदसो भूभूनाभावः ॥ यद्वा सुभग आस । दीप्यते ॥
+> अस गतिदीप्यादानेषु॥ कदेति चेत् उच्यते । पूर्वासु व्युष्टिषु पूर्वेष्टतीतेषु
+> विवासितेषु दिवसेषु । यद्वा । पूर्वास्यागामिनीषु व्युष्टिषूषतु । उषःकालोपलक्षितेषु दिवसेषु । उतापि च यो मनुष्यः स्तोता यष्टा वा नूनमवश्यमसति
+> युष्माकं भवति ॥ अस्तेश्चांदसः शपो लुगभावः ॥ स सुभग इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, the worshipper who is in your protections (ऊतिषु (*ūtiṣu*)) was fortunate (सुभगः (*subhagaḥ*)), possessed of fine wealth." आस (*āsa*) is from असति (*asati*) in the Vedic idiom, in the sense of being. Alternatively आस (*āsa*) is from अस (*asa*) in the sense of shining, so "he shines". If one asks when, it is said: in former dawnings (पूर्वासु व्युष्टिषु (*pūrvāsu vyuṣṭiṣu*)), in days past and illumined. Or else "in coming dawnings", in days marked by the time of dawn. And whatever man, worshipper or sacrificer, certainly (नूनं (*nūnaṃ*)) is yours (असति (*asati*)), he is fortunate; so the construction runs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—your
+- ऊतिषु (*ūtiṣu*)—in the protections
+- यः वा (*yaḥ vā*)—whichever man (worshipper)
+- नूनं (*nūnaṃ*)—certainly
+- असति (*asati*)—is indeed yours
+- सः (*saḥ*)—he (that worshipper)
+- पूर्वासु व्युष्टिषु (*pūrvāsu vyuṣṭiṣu*)—in all the former days
+- सुभगः (*subhagaḥ*)—possessing excellent wealth
+- आस (*āsa*)—was
+
+### Printed p. 844
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, the worshipper who is in your protections and is certainly yours was, in all former days, possessed of excellent wealth.
+
+##### English translation
+Fortunate was he, Maruts, who, in former days, was secure in your protections, as is he who now enjoys them.
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ वा यू॒यं प्रति॑ वा॒जिनो॑ नर॒ आ ह॒व्या ॒॑ ॒
+> वी॒तये॑ ग॒थ ।  
+> अ॒भि ष द्यु॒म्मॆरु॒त वाज॑सातिभिः सु॒म्मा वो॑ धूतयो  
+> नशत् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । वा । यूयं । प्रति । वाजिनः । नरः । आ । हव्या । वीतये । गथ ।  
+> अभि । सः । द्युम्मॆः । उत । वाजसातिभिः । सुम्मा । वः । धूतयः । नशत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरो नेतारो मरुतः यूयं यस्य वा यस्य च वाजिनो हविष्मतो
+> यजमानस्य हव्या हव्यानि हवींषि प्रति वीतये भक्षणाया गथ आगच्छथ स
+> यजमानो हे धूतयः कंपयितारो मरुतः द्युन्मैर्दोतमानैरन्नैर्यशोभिर्वा उतापि च वाजसातिभिर्वाजानां संभजनैश्च वो युष्माकं संबंधीनि
+> सुखान्यभि नशत् । अभितो व्याप्पोति ॥
+
+##### Gist of the bhāṣya
+
+"O leaders (नरः (*naraḥ*)), Maruts, whichever sacrificer who offers oblations (वाजिनः (*vājinaḥ*) = हविष्मतो (*haviṣmato*)) you come to, for the eating of his oblations, that sacrificer, O shakers (धूतयः (*dhūtayaḥ*)), obtains on every side (अभि नशत् (*abhi naśat*)) your pleasures (सुम्मा (*summā*) = *sukhāni*), together with shining (द्युम्नैः (*dyumnaiḥ*)) food or glories, and with वाजसातिभिः (*vājasātibhiḥ*), the sharings of food."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धूतयः (*dhūtayaḥ*)—O Maruts, who make the world tremble
+- नरः (*naraḥ*)—and who are leaders
+- यूयं (*yūyaṃ*)—you
+- वाजिनः (*vājinaḥ*)—possessing oblations
+- यस्य वा (*yasya vā*)—of whichever sacrificer
+- हव्या प्रति (*havyā prati*)—with regard to the oblations
+
+### Printed p. 845
+- वीतये (*vītaye*)—for eating
+- आ गथ (*ā gatha*)—you come
+- सः (*saḥ*)—that sacrificer
+- वः (*vaḥ*)—what is given by you
+- द्युम्नैः (*dyumnaiḥ*)—shining, glorious
+- उत (*uta*)—and
+- वाजसातिभिः (*vājasātibhiḥ*)—accompanied by food and enjoyments
+- सुम्मा (*summā*)—pleasures
+- अभि नशत् (*abhi naśat*)—obtains fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, who make the world tremble and are leaders, the sacrificer, possessing oblations, to whose oblations you come for eating, obtains fully the pleasures given by you, glorious and shining and accompanied by food and enjoyments.
+
+##### English translation
+The sacrificer, to partake of whose oblations you approach, leaders of rites, enjoys, agitators of all things, the felicity you bestow, together with abundant viands and the gift of strength.
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ रु॒द्रस्य॑ सू॒नवो॑ दि॒वो वशं॒त्यसु॑रस्य वे॒धसः॑ ।  
+> युवा॑न॒स्तथेद॑सत् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । रुद्रस्य । सूनवः । दिवः । वशंति । असुरस्य । वेधसः ।  
+> युवानः । तथा । इत् । असत् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रुद्रस्य दुःखद्रावयितुरीश्वरस्य सूनवः पुत्रा असुरस्योदकानां क्षेपुर्मेघस्य वेधसो विधातारः । यद्वा । असवः प्राणाः । तान्राति ददातीत्यसुरं वृष्टिजलं ।
+> तस्य कर्तारः । युवानो नित्यतरुणाः ईवृशा मरुतो दिवोऽंतरिक्षादागत्य यथा
+> येन प्रकारेण वशंति अस्मान् कामयंते तथेत्तेन्नैव प्रकारेणासत् । इदं स्तोत्रं
+> भवतु ॥ वृष्टेश्चांदसः शपो लुगभावः ॥
+
+##### Gist of the bhāṣya
+
+The sons of Rudra, the lord who drives away sorrow, are makers (वेधसः (*vedhasaḥ*)) of the असुर (*asura*), the cloud that casts down waters. Or else: असवः (*asavaḥ*) are the vital breaths; he who gives them (राति (*rāti*)) is *asuraḥ*, the rain-water, and the Maruts are its makers. Ever-youthful, such Maruts come from the sky and desire us (वशंति (*vaśaṃti*)). In just that manner (तथेत् (*tathet*)) may this praise be (असत् (*asat*)).
+
+### Printed p. 846
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्रस्य (*rudrasya*)—to Rudra
+- सूनवः (*sūnavaḥ*)—sons
+- असुरस्य (*asurasya*)—of clouds
+- वेधसः (*vedhasaḥ*)—producers (makers of rain)
+- युवानः (*yuvānaḥ*)—the ever-youthful Maruts
+- दिवः (*divaḥ*)—coming from the sky
+- यथा (*yathā*)—in which manner
+- वशंति (*vaśaṃti*)—they will favour us
+- तथेत् (*tathet*)—in just that manner
+- असत् (*asat*)—may this praise attract them
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, sons of Rudra, producers of clouds and of rain, ever-youthful, come here from the sky; may this praise attract them to do as they favour us.
+
+##### English translation
+May this (our praise) take effect, so that the ever-youthful sons of Rudra, creators of the cloud, (coming) from heaven, may be pleased with us.
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये चार्हं॑ति म॒रुतः॑ सु॒दान॑वः॒ स्मन्मी॒ळु ष॒श्चरं॑ति॒ ये।  
+> अत॑श्चि॒दा न॒ उप॒ वस्य॑सा हृ॒दा युवा॑न॒ आ व॑वृध्वं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । च । अर्हंति । मरुतः । सुदानवः । स्मत् । माळ्हुषः । चरंति । ये  
+> अतः । चित् । आ । नः । उप । वस्यसा । हृदा । युवानः । आ । ववृध्वं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुदानवः शोभनदाना ये च यजमाना मरुतो देवानर्हंति पूजयंति ।
+> ये च माळ्हुषः सेक्त्र्यन्मरुतः स्मत् प्रशस्तं चरंति हविर्भिः प्रचरंति यजंति । यत ।
+> एवमतोऽपि कारणात्तानुभयविधानोऽस्मानाभिलक्ष्य वस्यसा वसीयसा वसुमत्तमेन हृदा हृदयेन हे युवानो मरुतः उपा ववृध्वं । उपेत्याभिसंभजत ॥
+
+##### Gist of the bhāṣya
+
+"Those sacrificers who are liberal givers (सुदानवः (*sudānavaḥ*)) and honour (अर्हंति (*arhaṃti*)) the Maruts, and those who worship (चरंति (*caraṃti*)) with oblations the Maruts, the showerers (माळ्हुषः (*māḷhuṣaḥ*)), in a praiseworthy way (स्मत् (*smat*)): for this reason, too, O youthful Maruts, with a heart most rich in wealth (वस्यसा हृदा (*vasyasā hṛdā*)), come to us and grant us increase (उपा ववृध्वं (*upā vavṛdhvaṃ*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवानः (*yuvānaḥ*)—O ever-youthful Maruts
+- सुदानवः (*sudānavaḥ*)—who make offerings of oblations well
+
+### Printed p. 848
+(the sentence of सोभरे (*sobhare*), begun at the end of p. 847, continues)
+
+Let me restate the p. 847 text first in its proper place.
+
+**Pratipadārtha (continued)**
+- ये च (*ye ca*)—whichever sacrificers
+- मरुतः (*marutaḥ*)—you (with praises)
+- अर्हंति (*arhaṃti*)—honour
+- ये (*ye*)—who
+- माळ्हुषः (*māḷhuṣaḥ*)—you, the makers of rain
+- स्मत् (*smat*)—in a praiseworthy way
+- चरंति (*caraṃti*)—worship with oblations
+- अतः चित् (*ataḥ cit*)—for the very reason that they possess both these rites
+- नः आ (*naḥ ā*)—with regard to us
+- वस्यसा (*vasyasā*)—wealthy
+- हृदा (*hṛdā*)—with a heart
+- उप आ ववृध्वं (*upa ā vavṛdhvaṃ*)—come here and make us grow rich
+
+##### भावार्थ (Bhāvārtha)
+
+O ever-youthful Maruts, because we possess both kinds of rites, those of sacrificers who make offerings well and honour you, and of those who worship you, makers of rain, with praiseworthy oblations, regard us, come here with a wealthy heart and make us grow rich.
+
+##### English translation
+Youthful (Maruts), approaching us with benevolent hearts, grant prosperity to those liberal men who worship you, who zealously propitiate you, the showerers of rain, with oblations.
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यून॑ ऊ॒ षु नवि॑ष्ठया॒ वृष्णः॑ पाव॒का अ॒भि सो॑भरे  ॒
+> गिरा ।  
+> गाय॒ गाइ॑व॒ चर्कृ॑षत् ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूनः । ऊं इति । सु । नविष्ठया । वृष्णः । पावकान् । अभि । सोभरे ।  
+> गिरा ।  
+> गाय । गाःइव । चर्कृषत् ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोभरे यूनो नित्यतरुणान् वृष्णो वर्षिष्ठान् पावकांस्तान्मरुतो
+
+[
+
+> नविष्ठयातिशयेनाभिनवया गिरा वाचा स्तुतिरूपया सु शोभनमभि गाय ।
+> अभिष्टुहि। चर्कृषत् पुनःपुनः कृषन् कृषीवलो गा इव । स यथा यूनः शक्ताननडुहः स्तौति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"O Sobhari, sing well (सु (*su*) = *śobhanaṃ*) to those ever-youthful, most showering, purifying Maruts with a most new (नविष्ठया (*naviṣṭhayā*)) song of praise. As a ploughman, ploughing again and again (चर्कृषत् (*carkṛṣat*)), praises his oxen (गा इव (*gā iva*)), so he praises the strong young oxen."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोभरे (*sobhare*)—O sage Sobhari
+- चर्कृषत् (*carkṛṣat*)—as a farmer ploughing the field again and again
+- गा इव (*gā iva*)—urges on his oxen
+- यूनः (*yūnaḥ*)—ever-youthful
+- वृष्णः (*vṛṣṇaḥ*)—makers of rain
+- पावकान् (*pāvakān*)—purifying Maruts
+- नविष्ठया (*naviṣṭhayā*)—most new
+- गिरा (*girā*)—with a word of praise
+- सु (*su*)—greatly
+- अभिगाय (*abhigāya*)—praise and attract
+
+##### भावार्थ (Bhāvārtha)
+
+O sage Sobhari, as a farmer ploughing the field again and again urges on his oxen, so praise and attract the ever-youthful, rain-making, purifying Maruts greatly, with a most new word of praise.
+
+##### English translation
+Praise, Sobhari, (and attract hither) by a new song the youthful purifying showerers, as (a ploughman) repeatedly urges his oxen.
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒हा ये संति॑ मुष्टी॒हेव॒ हव्यो॒ विश्वा॑सु पृ॒त्सु  ॑
+> होतृषु ।  
+> वृष्ण॑श्चं॒द्रान्न सु॒श्रव॑स्तमान् गि॒रा वंद॑स्व म॒रुतो॒  ॑
+> अह ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहाः । ये । संति । मुष्टिहा इव । हव्यः । विश्वासु । पृत्ऽसु । होतृषु ।  
+> वृष्णः । चंद्रान् । न । सुश्रवःतमान् । गिरा । वंदस्व । मरुतः । अह ॥
+
 ---
 
-**Progress note:** Done through printed p. 840. pp. 835-840 (batch API)
+**Progress note:** Done through printed p. 848. pp. 841-848 (batch API)
