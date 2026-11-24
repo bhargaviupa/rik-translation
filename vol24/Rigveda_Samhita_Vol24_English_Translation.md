@@ -12999,6 +12999,310 @@ Come to listen to our praises, when they are being recited,—bestow upon us del
 > सरूपैः । आ । सु । नः । गहि । संभृतैः । संभृत अश्वः ।  
 > दिवः । अमुष्य । शासतः । दिवं । ययॆ । दिवावसो इति दिवावसो ॥ १२ ॥
 
+### Printed p. 288
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रः संभृताश्वः पुष्टाश्वस्त्वं सु संभृतैः सरूपैः समानरूपैरश्वै
+> र्नोस्माना गहि । आगच्छ । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are Saṃbhṛtāśva, one with well-nourished horses, come to us with your well-reared horses of like form. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra)
+- संभृताश्वः (*saṃbhṛtāśvaḥ*)—you who have well-nourished horses
+- सु संभृतैः (*su saṃbhṛtaiḥ*)—with those well reared
+- सरूपैः (*sarūpaiḥ*)—and of one form, your horses
+- नः (*naḥ*)—to us
+- आ गहि (*ā gahi*)—be pleased to come
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—heaven
+- शासतः (*śāsataḥ*)—while he rules (we shall be in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- यय (*yaya*)—set out again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have well-nourished horses, be pleased to come to us with your horses, which are well reared and of one form. While this Indra rules heaven, we are in comfort. O Indra, shining with oblations, set out again for heaven.
+
+##### English translation
+Indra, you are possessed of h rished steeds, come to us with (your) well-fed and like-shaped horses : do you, ruling yonder heaven, O radiant with oblations, return thither.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑हि॒ पर्व॑तेभ्यः समु॒द्रस्याधि॑ वि॒ष्टपः॑ ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । पर्वतेभ्यः । समुद्रस्य । अधि । विष्टपः ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिदावसो ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पर्वतेभ्य आ याहि । आगच्छ । समुद्रस्यांतरिक्षस्य विष्टपो
+> विष्टपाच्चाध्यायाहीत्यर्थः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come from the mountains. Come also from the viṣṭapa (the upper region) of the samudra, that is, of the firmament; this is the meaning. The rest is well established.
+
+### Printed p. 289
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra)
+- पर्वतेभ्यः (*parvatebhyaḥ*)—from the mountain regions
+- आ याहि (*ā yāhi*)—be pleased to come
+- समुद्रस्य (*samudrasya*)—belonging to the firmament
+- विष्टपः अधि (*viṣṭapaḥ adhi*)—from the upper world also (come here)
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- यय (*yaya*)—set out again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be pleased to come here from the mountain regions and from the upper world that belongs to the firmament. While this Indra rules heaven, we are in comfort. O Indra, shining with oblations, set out again for heaven.
+
+##### English translation
+Come from the mountains, from above the region of the firmament:
+do you, ruling yonder heaven, O radiant with oblations, return hither.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ गव्या॒न्यश्वा॑ स॒हस्रा॑ शूर दर्दृहि ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । गव्यानि । आश्वा । सहस्रा । शूर । दर्दृहि ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूरेंद्र त्वं नोऽस्मभ्यं सहस्रा सहस्राणि सहस्रसंख्यानि गव्यानि गोहितानि
+> गोरूपाणि वाश्वान्यश्वहितान्यश्वात्मकानि ना दर्दृहि । आविवृणु । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O hero Indra, to us, सहस्रा (*sahasrā*) thousands in number, cattle-related and horse-related possessions, that is, of the form of cattle and of horses, open out. The rest is well established. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- नः (*naḥ*)—to us
+- सहस्रा (*sahasrā*)—numbering thousands
+- गव्यानि (*gavyāni*)—cattle (and what pertains to them)
+- अश्वा (*aśvā*)—horses and the like
+- आ ददृहि (*ā dadṛhi*)—provide and give
+
+### Printed p. 290
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- यय (*yaya*)—return again
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, provide and give us cattle and horses numbering thousands. While this Indra rules heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
+
+##### English translation
+Bestow upon us, hero, thousands of herds of cattle and horses: do you, ruling yondr heaven, O radiant with oblations, return thither.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ सहस्र॒शो भ॑रा॒युता॑नि श॒तानि॑ च ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । सहस्रशः । भर । आयुतानि । शतानि । च ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मभ्यं सहस्रशः सहस्रधायुतानि शतानि चाभीष्टानि वस्तून्या
+> भर । आहर । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, bring to us by thousands, in thousandfold measure, tens of thousands and hundreds of desired goods. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra)
+- नः (*naḥ*)—to us
+- सहस्रतः (*sahasrataḥ*)—in thousands
+- अयुतानि (*ayutāni*)—in tens of thousands
+- शतानि च (*śatāni ca*)—and in hundreds
+- आ भर (*ā bhara*)—bring and provide what we desire
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- ययॆ (*yayè*)—set out
+
+### Printed p. 291
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bring and provide for us what we desire, in thousands, in tens of thousands and in hundreds. While this Indra rules heaven, we are in comfort. O Indra, shining with oblations, set out again for heaven.
+
+##### English translation
+Bring to us, by thousands, tens of thousands and hundreds (of good things): do you, ruling yonder heaven, O radiant with oblations, return thither.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यदिंद्र॑श्च॒ दद्व॑हे स॒हस्रं॒ वसु॑रोचिषः ।  
+> ओजिष्ठमश्वं पशुं ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । इंद्रः । च । दद्वहे इति । सहस्रं । वसुरोचिषः ।  
+> ओजिष्ठं । अश्वं । पशुं ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसुरोचिषो वसुदीप्तयो वयं सहस्रमस्माकं नेतेंद्रश्चाजिष्ठं
+> बलवत्तरमश्वमश्वात्मकं पशुं च यद्यदा दद्वहे पारावतादादद्महे । उत्तरत्र
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+We, the Vasurociṣaḥ, shining with wealth, a thousand in number, and Indra, our leader, when from Pārāvata we receive the most vigorous horse and the horse-natured cattle; the connection is with the following verse. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रं (*sahasraṃ*)—we, who are a thousand in number
+- वसुरोचिषः (*vasurociṣaḥ*)—shining with wealth (renowned as Vasurociṣaḥ)
+- इंद्रश्च (*iṃdraśca*)—and Indra
+- ओजिष्ठं (*ojiṣṭhaṃ*)—the most vigorous
+- अश्वं (*aśvaṃ*)—and horse-natured
+- पशुं (*paśuṃ*)—herd of animals
+- यत् (*yat*)—when
+- आ दद्वहे (*ā dadvahe*)—we obtain (then)
+
+##### भावार्थ (Bhāvārtha)
+
+When we, a thousand persons renowned as Vasurociṣaḥ, and Indra also, obtain the most vigorous herd of animals, of the nature of horses (then we set out for the forest).
+
+### Printed p. 292
+
+##### English translation
+We, the thousand Vasurochishas, and Indra (our leader), when we obtain vigorous herds of horses,—
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ऋ॒ज्रा वात॑रंहसोऽरु॒षासो॑ रघु॒ष्यदः॑ ।  
+> भ्राजं॑ते॒ सूर्या॑ इव ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ऋज्राः । वात्सरंहसः । अरुषासः । रघुस्यदः ।  
+> भ्राजंते । सूर्याः इव ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तदा य ऋज्रा ऋजुगामिनो वातरंहसो वायुसदृशवेगा अरुषास
+> अरोचमाना रघुष्यदो लघु स्यंदमाना अश्वाः सूर्या इव यथा सूर्यस्तथा
+> भ्राजंते ॥
+
+##### Gist of the bhāṣya
+
+Then those horses that are straight-going, of speed like the wind, shining, and swift-running with light gait, shine as the suns shine. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which horses
+- ऋज्राः (*ṛjrāḥ*)—go straight
+- वातरंहसः (*vātaraṃhasaḥ*)—go swiftly like the wind
+- अरुषासः (*aruṣāsaḥ*)—are shining
+- रघुष्यदः (*raghuṣyadaḥ*)—and have a light gait
+- सूर्या इव (*sūryā iva*)—like the sun
+- भ्राजंते (*bhrājaṃte*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+The horses which go straight, go swiftly like the wind, are shining and have a light gait, and shine like the sun (when such horses were given to us, we set out for the forest).
+
+##### English translation
+Such as are straight-going, fleet as the wind, bright-coloured, light-
+footed, and shine like the sun,—
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पारा॑वतस्य रा॒तिषु॑ द्र॒वच्च॑क्रेष्टा॒शुषु॑ ।  
+> तिष्ठं॒ वन॑स्य॒ मध्य॒ आ ॥ १८ ॥
+
+### Printed p. 293
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पारावतस्य । रातिषु । द्रवत्चक्रेषु । अशुषु ।  
+> तिष्ठं । वनस्य । मध्ये । आ ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तेषु पारावतस्य रातिषु देयेषु द्रवच्चक्रेषु द्रवद्रथचक्रेष्वाशुष्पश्वेषु ।
+> तार्क्ष्य आशुरित्यश्वनामसु पाठात् । प्रतिगृहितेषु सत्तु वनस्य मध्य आ तिष्ठमिति
+> वसुरोचिषां सहस्रं वदति ॥
+
+##### Gist of the bhāṣya
+
+In those gifts from Pārāvata, in the horses with swiftly rolling chariot wheels (आशुषु (*āśuṣu*) being a name of horses, as the reading of the Tārkṣya and Āśu in the lists of horse names shows), when they have been accepted, we go to the middle of the forest; so says the thousand of the Vasurociṣaḥ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पारावतस्य (*pārāvatasya*)—from a very distant country
+- रातिषु (*rātiṣu*)—given
+- द्रवच्चक्रेषु (*dravaccakreṣu*)—with chariot wheels that turn easily
+- आशुषु (*āśuṣu*)—when the horses have been accepted by us
+- वनस्य (*vanasya*)—of the forest
+- मध्यॆ (*madhyè*)—to the middle
+- आ तिष्ठम् (*ā tiṣṭham*)—we set out
+
+##### भावार्थ (Bhāvārtha)
+
+When the horses given from a very distant country, with chariot wheels that turn easily, have been accepted by us, we set out for the middle of the forest.
+
+##### English translation
+Then (having received) the horses, attached to the rolling-wheeled chariot, given from afar, we depart to the middle of the forest.
+
+## Sūkta 35 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निनेंद्रेणेति चतुर्विंशत्यृचं पंचमं सूक्तं श्यावश्वस्यात्रेयस्यार्षं ।
+> अत्रानुक्रमणिका । अग्निना चतुर्विंशतिः श्यावाश्व आश्विनमौपरिष्टाज्योतिषं पंक्तिमहाबृहतीपंक्त्यंतमिति । उपरिष्टाज्योतिश्चंदः चतुर्थपादस्याष्टाक्षरत्वात् ।
+> यतोऽष्टकस्ततो ज्योतिः । अनु. ९-८ । इति तल्लक्षणं । द्वाविंशी पंक्तिः ।
+> त्रयोविंशी महाबृहती चत्वारोऽष्टका जागतश्च महाबृहती । अनु. ९-९ ।
+
+##### Gist of the bhāṣya
+
+This is the fifth sūkta, beginning अग्निनेंद्रेण (*agnineṃdreṇa*), of twenty-four Ṛks; its seer is Śyāvāśva Ātreya. As the Anukramaṇī says: अग्निना चतुर्विंशतिः श्यावाश्व आश्विनमौपरिष्टाज्योतिषं पंक्तिमहाबृहतीपंक्त्यंतमिति । (*agninā caturviṃśatiḥ śyāvāśva āśvinamaupariṣṭājyotiṣaṃ paṃktimahābṛhatīpaṃktyaṃtamiti |*). The metre is Upariṣṭāj-jyotis, because the fourth pāda has eight syllables; its definition is यतोऽष्टकस्ततो ज्योतिः (*yato 'ṣṭakastato jyotiḥ*), Anu. 9-8. The twenty-second Ṛk is a Paṅkti; the twenty-third is a Mahābṛhatī, with four octosyllabic pādas and a Jagatī pāda, Anu. 9-9. The deity is the Aśvins. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 287. Vol 24 pp. 282-287: Sūkta 8.34 Ṛks 5 (end) to 12 (Pada)
+**Progress note:** Done through printed p. 293. Vol 24 pp. 288-293: Sūkta 8.34 Ṛks 12-18, start of Sūkta 8.35
