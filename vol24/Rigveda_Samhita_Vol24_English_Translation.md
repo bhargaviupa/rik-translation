@@ -29993,6 +29993,266 @@ Indra and Varuna, it is true that for you Saptavani is effusing the Soma of Kris
 
 Where are those true words? In answer to this question he says: in the seat, the place, of ṛta, the sacrifice, there are seven words, "sisters", that is, flowing of themselves. What are they like? घृतपुरुषः (*ghṛtapuruṣaḥ*) **NOTE**: घृतं (*ghṛtaṃ*) is a name for water, and by it the Soma juice is indicated. Thus the meaning is that they are streaming with the Soma juice.
 
+### Printed p. 661
+
+> सोम्याः सोमार्हाः जीरदानवः क्षिप्रदानाः । किंच हे इंद्रावरुणा इंद्रावरुणौ
+> या वाण्यः वां युवामुद्दिश्य धृतश्चुतः सोमरसस्राविण्यो भवंति अथवा
+> आज्यस्राविण्यो भवंति । हेति प्रसिद्धं । ताभिर्हेतुभूताभिः धत्तं यजमानं
+> पुष्टीतं । तदर्थं च यजमानाय शिक्षतमभिमतं दत्तं ॥
+
+##### Gist of the bhāṣya
+
+The seven words are worthy of Soma and are quick givers. Further, O Indra and Varuṇa, those words which, addressed to you, drip Soma juice, or else drip ghee: the particle in the verse means that this is well known. By those words as the cause, support the sacrificer; and for that purpose give the sacrificer what he desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृतपुरुषः (*dhṛtapuruṣaḥ*)—those that pour the Soma juice in the form of water
+- सौम्याः (*saumyāḥ*)—worthy of Soma
+- जीरदानवः (*jīradānavaḥ*)—those that give quickly
+- सप्त स्वसारः (*sapta svasāraḥ*)—the seven words
+- ऋतस्य (*ṛtasya*)—of the sacrifice, which is of the nature of truth
+- सदने (*sadane*)—are in the place
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O deities Indra and Varuṇa
+- धृतश्चुतः (*dhṛtaścutaḥ*)—which press the Soma juice
+- याः (*yāḥ*)—which words of praise
+- वां (*vāṃ*)—praise you
+- ताभिः (*tābhiḥ*)—with them
+- धत्तं (*dhattaṃ*)—be a support to the sacrificer
+- यजमानाय (*yajamānāya*)—to the sacrificer
+- शिक्षतं (*śikṣataṃ*)—give what he desires
+
+##### भावार्थ (Bhāvārtha)
+
+The seven words, which pour the Soma juice in the form of water, are worthy of Soma and give quickly, are in the place of the sacrifice, which is of the nature of truth. O deities Indra and Varuṇa, with those words of praise that press the Soma juice and praise you, be a support to the sacrificer. Give the sacrificer what he desires.
+
+##### English translation
+The amiable seven sisters in the house of rite, are become giver of abundance. Indra and Varuna those who drop ghee for you, uphold them, give them gifts.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवो॑चाम मह॒ते सौभ॑गाय स॒त्यं त्वे॒षाभ्यां॑ महि॒मान॑मिंद्रि॒यं ।  
+> अ॒स्मान्ति॑न्नंद्रावरुणा धृत॒श्चुत॒स्त्रिभिः॑ सा॒प्तेभि॑रवतं शुभस्पती ॥
+
+### Printed p. 662
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवोचाम । महते । सौभगाय । सत्यं । त्वेषाभ्यां । महिमानं । इंद्रियं ।  
+> अस्मान् । सु । इंद्रावरुणा । धृतश्चुतः । त्रिभिः । साप्तेभिः । अवतं । शुभः । पती  
+> इति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणा इंद्रावरुणौ त्वेषाभ्यां दीप्ताभ्यां भवद्भा० संपादितं
+> महिमानं कीर्तिविशेषं वयं महते बृहते सौभगाय ऐश्वर्याय अवोचाम
+> वर्णयेम । कीदृशं महिमानं । सत्यमवितथं । युष्मत्स्वरूपानुकूलमित्यर्थः ।
+> इंद्रियं इंद्रयोः परमेश्वरयोर्भवतोर्ज्ञापकं । तस्मात् हे शुभस्पती
+> उदकस्य पालयिताराविंद्रावरुणौ युवां धृतश्चुतः सोमरसस्राविणोऽस्मान्
+> यजमानान् त्रिभिः साप्तेभिः । सप्तयोऽश्वाः तेषां समूहः । सप्तयूथैस्तैः
+> त्रिसंख्याकैरश्वसमूहैः सोतं (? सु अवतं] सुतरां पालयतं । इंद्रावरुणयोरैश्वर्ययोगात् अश्वैरस्मत्पालनं समंजसमिति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, we would describe, for great good fortune, that is, prosperity, the greatness, the special renown, brought about by you two, the radiant ones. What sort of greatness? True, unfailing, that is, in accord with your nature; and making known you two, the two supreme lords. Therefore, O Śubhaspatī, protectors of water, Indra and Varuṇa, you who stream Soma juice, protect us, the sacrificers, well with three sevens: sapti are horses, and their company; with those three companies of horses protect us exceedingly **NOTE**. Since Indra and Varuṇa are lords, protection of us by horses is fitting: such is the sense. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O deities Indra and Varuṇa
+- त्वेषाभ्यां (*tveṣābhyāṃ*)—brought about by you, the shining ones
+- सत्यं (*satyaṃ*)—of the nature of truth
+- इंद्रियं (*iṃdriyaṃ*)—and making known your nature
+- महिमानं (*mahimānaṃ*)—the greatness
+- महते (*mahate*)—for great
+- सौभगाय (*saubhagāya*)—well-being
+- अवोचाम (*avocāma*)—we praise
+- शुभस्पती (*śubhaspatī*)—O deities Indra and Varuṇa, protectors of water
+- धृतश्चुतः (*dhṛtaścutaḥ*)—who press and offer the Soma juice
+- अस्मान् (*asmān*)—us
+- त्रिभिः साप्तेभिः (*tribhiḥ sāptebhiḥ*)—with the three horses
+- सु (*su*)—exceedingly
+- अवतं (*avataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O deities Indra and Varuṇa, we praise, for great well-being, the greatness brought about by you, the shining ones, which is of the nature of truth and makes known your nature. O deities Indra and Varuṇa, protectors of water, protect exceedingly us, who press and offer the Soma juice, together with the three horses.
+
+##### English translation
+Desirous of good fortune we are praising the nobleness of brilliant
+Indra and Varuna. We are dropping ghee, Indra and Varuna are the lords of
+righteous works. May they protect us by thrice seven.
+
+### Printed p. 663
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑वरुणा॒ यदृ॒षिभ्यो॑ मनी॒षां वा॒चो म॒तिं श्रु॒तम॑दत्त॒मग्रे॑ ।  
+> यानि॒ स्थाना॑न्यसृजंत॒ धीरा॑ य॒ज्ञं त॑न्वा॒नास्तप॑सा॒भ्य॑पश्यं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंद्रावरुणा । यत् । ऋषिभ्यः । मनीषां । वाचः । मतिं । श्रुतं । अदत्तं । अग्रे ।  
+> यानि । स्थानानि । असृजंत । धीराः । यज्ञं । तन्वानाः । तपसा । अभि । अपश्यं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणा इंद्रावरुणौ यत् ये ऋषयः यज्ञं तन्वानाः कर्मविशेषं विस्तारयंतः अत एव धीराः शुद्धांतःकरणत्वेन धीमंतः संतः अग्रे
+> अंतःकरणशुद्धेः प्राक् यानि स्थानानि गृहक्षेत्रादीनि स्थितानि तानि असृजंत विसृष्टवंतः । तत्यजिरिति (? तत्यजुरिति) यावत् । तेभ्य ऋषिभ्यः मंत्रदृग्भ्यः मनीषादिश्रुशांतं सर्वं युवां आदत्तं दत्तवंतौ इत्यहं तपसा आलोचनात्मकेन ज्ञानेन
+> अभ्यपश्यं सर्वतो दृष्टवानस्मि । मनीषा अत्र चिज्जडविवेकवती बुद्धिः । वाचः
+> उपनिषल्लक्षणा गिरः । मतिर्मननं तर्कसामर्थ्यं । श्रुतं शास्त्रमीमांसालक्षणं ।
+> एतत्सर्वं भवद्भा० तेभ्यो दत्तमिति श्रीमच्चरणप्रसादाल्लब्धज्ञानेन मया
+> ज्ञातमित्यर्षेवक्तुरभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, those seers who, extending the sacrifice, that is, spreading out a particular rite, and for that very reason wise through a purified mind, gave up, before the purification of the mind, whatever places, houses, fields and the like, they possessed; that is, they abandoned them **NOTE**. To those seers, the beholders of the mantras, you two gave all this, beginning with manīṣā and ending with śruta; thus I have seen on every side through austerity, that is, knowledge consisting of reflection. Here manīṣā is the intellect that discriminates the conscious from the inert; vācaḥ are words characterised as Upaniṣads; mati is reflection, the power of reasoning; śruta is what is characterised by the śāstras and by Mīmāṃsā. All this was given by you two to them, and this has been known by me through knowledge obtained by the grace of your venerable feet: such is the intention of the seer who speaks.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O deities Indra and Varuṇa
+- यज्ञं तन्वानाः (*yajñaṃ tanvānāḥ*)—performing the sacrifice at length
+- धीराः (*dhīrāḥ*)—being wise
+- आग्रे (*āgre*)—prior to their renunciation
+- यानि स्थानानि (*yāni sthānāni*)—whatever places there were, such as houses and fields, all of them
+- यत् (*yat*)—which seers
+- आसृजंत (*āsṛjaṃta*)—gave up
+- ऋषिभ्यः (*ṛṣibhyaḥ*)—to such seers
+- मनीषां (*manīṣāṃ*)—discriminating intellect
+- वाचः (*vācaḥ*)—the words of truth, such as the Upaniṣads
+- मतिं (*matiṃ*)—the power of reflection and the like
+- श्रुतं (*śrutaṃ*)—knowledge of the śāstras and the like
+- अदत्तं (*adattaṃ*)—that you graciously gave
+- तपसा (*tapasā*)—by the power of my austerity
+- अभ्यपश्यं (*abhyapaśyaṃ*)—I have found out
+
+### Printed p. 664
+
+##### भावार्थ (Bhāvārtha)
+
+O deities Indra and Varuṇa, I have found out by the power of my austerity that you graciously gave discriminating intellect, the words of truth such as the Upaniṣads, the power of reflection and the like, and knowledge of the śāstras and the like to those seers who, performing the sacrifice at length and being wise, gave up, prior to their renunciation, whatever houses, fields and other possessions they had.
+
+##### English translation
+Indra and Varuna what you did grant to the Rishis wise-worded hymns,
+Sruti and the Lokas : we are being engaged in rite, shall engage them.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑वरुणा सौमन॒समदृ॑प्तं रा॒यस्पोषं॒ यज॑मानेषु  
+> धत्तं ।  
+> प्र॒जां पु॒ष्टिं भू॑तिम॒स्मासु॑ धत्तं दीर्घायु॒त्वाय॒ प्र ॑ ॒॑
+> तिरतं न आयुः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रावरुणा । सौमनसं । अदृप्तं । रायः । पोषं । यजमानेषु । धत्तं ।  
+> प्रजां । पुष्टिं । भूतिं । अस्मासु । धत्तं । दीर्घायुत्वाय । प्र । शिरतं । नः ।  
+> अयुः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणा इंद्रावरुणौ युवां सौमनसं प्रसन्नमनस्कत्वं तथा
+> अदृप्तं अनुद्धतं । मोहशून्यमिति यावत् । रायः धनस्य पोषं पुष्टिं च
+> यजमानेषु धत्तं धारयतं । किंचास्मासु स्तोतृषु प्रजां पुत्रपौत्रादिरूपा
+> पुष्टिं धनादेः समृद्धिं भूतिं गवाश्वादिगजांतसंपदं च धत्तं धारयतं । अथ च
+> दीर्घायुत्वाय चिरजीवनाय नोऽस्माकमायुः जीवितकालं प्र तिरतं प्रवर्धयतं । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, grant to the sacrificers cheerfulness of mind, and freedom from arrogance, that is, from delusion, and the increase and nourishment of wealth. Further, grant to us, the praisers, offspring, in the form of sons, grandsons and the like, prosperity in the form of the growth of wealth and the rest, and well-being, that is, riches from cows and horses up to elephants. And increase our span of life, our time of living, for long life; the root तिरति (*tirati*) with the prefix has the sense of increasing.
+
+### Printed p. 665
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O deities Indra and Varuṇa
+- यजमानेषु (*yajamāneṣu*)—among the sacrificers
+- सौमनसं (*saumanasaṃ*)—a cheerful mind
+- अदृप्तं (*adṛptaṃ*)—freedom from pride
+- रायः (*rāyaḥ*)—wealth
+- पोषं (*poṣaṃ*)—and nourishment
+- धत्तं (*dhattaṃ*)—establish
+- अस्मासु (*asmāsu*)—in us (the praisers)
+- प्रजां (*prajāṃ*)—the wealth of offspring
+- पुष्टिं (*puṣṭiṃ*)—the prosperity of wealth
+- भूतिं (*bhūtiṃ*)—the riches of cows and the like
+- धत्तं (*dhattaṃ*)—fill
+- नः (*naḥ*)—our
+- आयुः (*āyuḥ*)—life
+- दीर्घायुत्वाय (*dīrghāyutvāya*)—to live for a long time
+- प्र तिरतं (*pra tirataṃ*)—increase
+
+##### भावार्थ (Bhāvārtha)
+
+O deities Indra and Varuṇa, establish among the sacrificers a cheerful mind, freedom from pride, wealth and nourishment. Fill us, the praisers, with the wealth of offspring, the prosperity of wealth and the riches of cows and the like. Increase our life so that we may live for a long time.
+
+##### English translation
+Indra and Varuna the wealth which pleases the might, but does not make vain, give the worshippers such wealth ; give us sons, nourishment and cover, preserve our longevity, that we may live long
+
+## Sūkta 60 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्तमेऽनुवाके दश सूक्तानि । तत्राग्न आ याहीति विंशत्यृचं प्रथमं
+> सूक्तं प्रगाथपुत्रस्य भर्गस्यार्षमाग्नेयं । प्रथमातृतीयाद्ययुजो बृहत्क्यो
+> द्वितीयाचतुर्थादियुजः सतोबृहत्यः । तथा चानुक्रांतं । अग्न आ विंशतिभर्गः
+> प्रागाथ आग्नेयं प्रागाथं त्विति ॥ प्रातरनुवाक आग्नेये क्रत् बार्हते छंदस्याश्विनशस्त्रे चेदं सूक्तं । तथा च सूत्रितं । आयमग्निरग्न आ याहि । आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the seventh anuvāka there are ten sūktas. Among them the first sūkta, तत्राग्न आ याहीति (*tatrāgna ā yāhīti*), of twenty Ṛks, has as its seer Bharga, the son of Pragātha; its deity is Agni. The first, third and the other odd Ṛks are Bṛhatī, the second, fourth and the other even ones are Satobṛhatī. So it is stated in the Anukramaṇikā: अग्न आ विंशतिभर्गः प्रागाथ आग्नेयं प्रागाथं त्विति (*agna ā viṃśatibhargaḥ prāgātha āgneyaṃ prāgāthaṃ tviti*) **GLOSS**. At the morning recitation this sūkta serves for the Āgneya kratu, for the Ṛks in the Bṛhatī metre, and for the Āśvina śastra. So it is aphorised: आयमग्निरग्न आ याहि (*āyamagniragna ā yāhi*) (Ā. 4-13) **GLOSS**.
+
+##### Anuvāda
+
+In the seventh anuvāka of the eighth maṇḍala of the Ṛgvedasaṃhitā there are ten sūktas. Among them this sūkta, अग्न आ याहि (*agna ā yāhi*), is the first. It has twenty Ṛks. The seer of this sūkta is Bharga, the son of Pragātha; the deity is Agni. The odd Ṛks of this sūkta, the first, third and so on, are in the Bṛhatī metre. The even Ṛks
+
+### Printed p. 666
+are in the Satobṛhatī metre. In the Anukramaṇikā it is said: अग्न आ विंशतिर्भर्गः प्रागाथ आग्नॆयं प्रागाथं तु (*agna ā viṃśatirbhargaḥ prāgātha āgnèyaṃ prāgāthaṃ tu*) **GLOSS**. At the time of reciting the mantras of the morning recitation, this sūkta is applied for the Ṛks in the Bṛhatī metre connected with the Āgneya kratu and for the mantras of the Āśvina śastra, as set out in the Āśvalāyana Śrauta Sūtra, in the sūtra अयमग्निरग्न आ याहि (*ayamagniragna ā yāhi*) (Ā. 4-13).
+
+##### Particulars
+
+Sūkta 60. Maṇḍala 8. Anuvāka 7. Aṣṭaka 6. Adhyāya 4. Varga 32, 33, 34, 35. Number of Ṛks in the sūkta: 20. Seer: Bhargaḥ Prāgāthaḥ. Deity: Āgniḥ **NOTE**. Metre: Prāgāthaṃ.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्न॒ आ या॑ह्य॒ग्निभि॒र्होता॑रं त्वा वृणीमहे ।  
+> आ त्वाम॑नक्तु॒ प्रय॑ता ह॒विष्म॑ती॒ यजि॑ष्ठं ब॒र्हिरा॒सदे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । आ । याहि । अग्निभिः । होतारं । त्वा । वृणीमहे ।  
+> आ । त्वां । आनक्तु । प्रयता । हविष्मती । यजिष्यं । बर्हिः । आसदे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अग्निभिर्यष्टवैः सहा याहि । आगच्छ । तदर्थं होतारं देवानामाह्वातारं त्वा त्वां वृणीमहे । त्वा त्वामागतं प्रयताध्वर्युहस्ताभ्यां
+> नियता हविष्मती धृतवती यजिष्ठं त्वां बर्हिर्बर्हिष्यासद आसाद्या सर्वतोऽनक्तु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, come with the agnis fit to be worshipped. For that purpose we choose you as hotṛ, the caller of the gods. May the ladle, held in the adhvaryu's hand, filled with the oblation, anoint you on every side, you, the most worthy of worship, as you come, when you are seated on the sacred grass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अग्निभिः (*agnibhiḥ*)—with your other special glories
+- आ याहि (*ā yāhi*)—be pleased to come
+- होतारं (*hotāraṃ*)—who are of the nature of the hotṛ
+- त्वा (*tvā*)—you
+- वृणीमहे (*vṛṇīmahe*)—we choose
+- प्रयता (*prayatā*)—offered by the hand of the adhvaryu
+- हविष्मती (*haviṣmatī*)—and possessed of the oblation, this ladle (the ghee)
+- यजिष्ठं (*yajiṣṭhaṃ*)—the most worshipful
+- त्वा (*tvā*)—you
+- बर्हिः (*barhiḥ*)—on the seat of sacred grass
+- आसदे (*āsade*)—to sit
+- आ अनस्तु (*ā anastu*)—may it perform the anointing everywhere
+
 ---
 
-**Progress note:** Done through printed p. 660. Mandala 8, sukta 58 Rks 2-3, sukta 59 Rks 1-4 (start)
+**Progress note:** Done through printed p. 666. Mandala 8, sukta 59 Rks 4-7, sukta 60 Rk 1
