@@ -22562,6 +22562,289 @@ O Maruts with the well-prepared darbha seat, for the reason that you formerly in
 
 In the Pravargya, when the two milks have been poured into the Mahāvīra, this verse समु त्ये महतीरप (*samu tye mahatīrapa*) is to be recited. It is prescribed by the sūtra: आसिक्तयोः समु त्ये महतीरप इति महावीरवादायोत्तिष्ठत्सु । अ. ४-७ । इति ॥ (*āsiktayoḥ samu tye mahatīrapa iti mahāvīravādāyottiṣṭhatsu | a. 4-7 | iti ‖*). Those Maruts of the qualities stated before join together the great waters, the rain-waters, that is, they unite them with plants and the rest; or else in the hot season they pour down well, above, the waters drawn up by the sun's rays. Likewise the Maruts hold together the two earths (heaven and earth), so that each stays in its own place. By the wind that is the thread the whole world is held; and so it is heard: वायुर्वै गोतम तत्सूत्रं वायन. वै गोतम सूत्रेणायं च लोकः सर्वाणि च भूतानि संदृब्धानि भवंति । बृ. उ. ३-७-२ । इति । (*vāyurvai gotama tatsūtraṃ vāyana. vai gotama sūtreṇāyaṃ ca lokaḥ sarvāṇi ca bhūtāni saṃdṛbdhāni bhavaṃti | bṛ. u. 3-7-2 | iti |*). Likewise they hold the sun, the impeller of all, in the atmosphere. उ (*u*) is in the sense of conjunction.
 
+### Printed p. 551
+
+> पर्वशः पर्वणि पर्वणि वृत्रस्य सर्वेष्टवयवसंबंधिसु हननार्थं सं दधुः ।
+> समयूयुजन् ॥
+
+##### Gist of the bhāṣya
+
+The block completes the bhāṣya on the preceding verse: the Maruts joined (सं दधुः (*saṃ dadhuḥ*)) the vajra to Vṛtra at every joint (पर्वशः (*parvaśaḥ*)), that is, at each limb-joint connected with all his limbs, for the purpose of slaying him. The last word printed is समयूयुजन् (*samayūyujan*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्ये (*tye*)—the well-known Maruts
+- महतीः (*mahatīḥ*)—abundant
+- अपः (*apaḥ*)—the waters of rain
+- समु दधुः (*samu dadhuḥ*)—they join them with the plants and the like
+- क्षोणी (*kṣoṇī*)—heaven and earth
+- सं (दधुः) (*saṃ (dadhuḥ)*)—they bring together
+- सूर्यं (*sūryaṃ*)—the sun (in the firmament)
+- समु (*samu*)—they have established
+- वज्रं (*vajraṃ*)—their thunderbolt weapon
+- पर्वशः (*parvaśaḥ*)—at each joint of the limbs of the demon Vṛtra
+- सं दधुः (*saṃ dadhuḥ*)—they have joined it (and cut him with it)
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Maruts join the abundant waters of rain with the plants and the like. They bring heaven and earth together. They have established the sun in the firmament. They have applied their thunderbolt at each joint of the limbs of the demon Vṛtra and have cut him through completely.
+
+##### English translation
+They have concentrated the abundant waters, they have held together the heaven and earth, they have sustained the sun, they have divided (Vritra) joint by joint with the thunderbolt.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Āśvalāyana Śrauta Sūtra (Ā. 4-7) explains that in the Pravargya rite this Ṛk, समु त्ये महतीरपः (*samu tye mahatīrapaḥ*), is to be recited, by the sūtra आसिक्तयोः समु त्ये महतीरप इति महावीरवादायोत्तिष्ठत्सु (*āsiktayoḥ samu tye mahatīrapa iti mahāvīravādāyottiṣṭhatsu*).
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि वृ॒त्रं प॑र्व॒शो य॑यु॒र्वि पर्व॑ता आरा॒जिनः॑ ।  
+> चक्राणा वृष्टि सौंस्यं ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । वृत्रं । पर्वशः । ययुः । वि । पर्वतान् । अराजिनः ।
+
+### Printed p. 552
+
+> चक्राणाः । वृष्टि । पौंस्यं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अराजिनो राज्ञा केनचित्स्वामिनानधिष्ठिताः । यद्वा । राजा स्वाम्यस्य न
+> विद्यत इत्यराजेंद्रः । तद्युक्ताः । वृष्टि वीर्यवत्पौंस्यं बलं चक्राणाः कुर्वाणा
+> मरुतो वृत्रमावरकमसुरं मेघं वा पर्वशः पर्वणि पर्वणि भेदेन वि ययुः ।
+> विशिष्टं वधमगमयन् । तथा पर्वतान् गिरींश्च विशिष्टं वधं प्रापयन् ॥
+
+##### Gist of the bhāṣya
+
+अराजिनः (*arājinaḥ*) means those not governed by any king or master; or else, those who have no king or master other than Indra, and are united with him. Displaying (चक्राणाः (*cakrāṇāḥ*)) vigorous, rain-giving manly strength, the Maruts split Vṛtra, the demon who covers, or the cloud, joint by joint (पर्वशः (*parvaśaḥ*)), bringing him to a special kind of destruction; likewise they brought the mountains to a special kind of destruction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अराजिनः (*arājinaḥ*)—those who, subject to no one's lordship, are themselves self-ruling
+- वृष्टि (*vṛṣṭi*)—vigorous
+- पौंस्यं (*pauṃsyaṃ*)—their strength
+- चक्राणाः (*cakrāṇāḥ*)—the Maruts who manifest it
+- वृत्रं (*vṛtraṃ*)—the demon Vṛtra
+- पर्वशः (*parvaśaḥ*)—at each joint of his limbs
+- वि ययुः (*vi yayuḥ*)—they have cut and killed
+- पर्वतान् (*parvatān*)—the mountains
+- वि (*vi*)—they have cut
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who are subject to no one's lordship but are themselves self-ruling, and who manifest their vigorous strength, have cut and killed the demon Vṛtra at each joint of his limbs. They have cut the mountains.
+
+##### English translation
+Independent of a ruler, they have divided Vritra joint by joint: they have shattered the mountains, manifesting manly vigour.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ त्रि॒तस्य॒ युध्य॑तः॒ शुष्म॑ावन्नु॒त क्रतुं॑ ।  
+> =न्विंद्रं॑ वृत्र॒तूर्ये॑ ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । त्रितस्य । युध्यतः । शुष्मं । आवन् । उत । क्रतुं ।  
+> अनु । इंद्रं । वृत्रतूर्ये ॥ २४ ॥
+
+### Printed p. 553
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रितस्याप्त्यस्यैतत्संज्ञस्य युध्यतः शत्रून् संप्रहरतो राजर्षेः शुष्मं
+> परेषां शोषकं बलं मरुतोऽन्वावन् । साहाय्यार्थमन्वगच्छन् । यद्वा ।
+> अनुगुणमरक्षण् । उतापि च क्रतुं तदीयं कर्म चारक्षण् । अपि च वृत्रतूर्ये
+> वृत्रवधार्थे संग्राम इंद्रं चान्यावन् । अरक्षन् ॥
+
+##### Gist of the bhāṣya
+
+The Maruts followed (*anvāvan*) to help the strength (शुष्मं (*śuṣmaṃ*)), which dries up others, of the royal sage Trita, son of Āpti, as he fought and struck his enemies; or else, they protected it in accordance with him. Moreover they protected his work (क्रतुं (*kratuṃ*)), and they also protected Indra in the battle for the slaying of Vṛtra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युध्यतः (*yudhyataḥ*)—who was fighting with enemies
+- त्रितस्य (*tritasya*)—of the royal sage named Trita
+- शुष्मं (*śuṣmaṃ*)—the strength
+- अनु आवन् (*anu āvan*)—the Maruts followed and protected
+- उत (*uta*)—and
+- क्रतुं (*kratuṃ*)—they protected his work too
+- वृत्रतूर्ये (*vṛtratūrye*)—in the battle
+- इंद्रं (*iṃdraṃ*)—Indra too
+- अनु (आवन्) (*anu (āvan)*)—they helped and protected
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts followed and protected the strength of the royal sage Trita, who was fighting with enemies. And they protected his work too. In the battle they helped and protected Indra also.
+
+##### English translation
+They have come to the aid of the warring Trita, invigorating his strength, and (animating) his acts ; they have come to the aid of Indra, for the destruction of Vritra,
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्युद्ध॑स्ता अ॒भिद्य॑वः॒ शिप्राः॑ शी॒र्षन्हि॑र॒ण्ययोः॑ ।  
+> शु॒भ्रा व्यं॑जत श्रि॒ये ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्युत्हस्ताः । अभिद्यवः । शिप्राः । शीर्षन् । हिरण्ययोः ।  
+> शुभ्राः । वि । अंजत । श्रिये ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विद्युद्धस्ता विद्योतमानायुधबाहवोऽभिद्यवोऽभिगत दीप्तयः शुभ्राक
+> शोभमाना मरुतः शीर्षञ्र्षि शिरस्यात्मीयेषु शिरःसु हिरण्ययोर्हिरण्मयीः
+
+##### Gist of the bhāṣya
+
+The Maruts have lightning-weapons shining in their arms (विद्युद्धस्ताः (*vidyuddhastāḥ*)), are of surrounding radiance (अभिद्यवः (*abhidyavaḥ*)) and are brilliant (शुभ्राः (*śubhrāḥ*)). On their heads they display golden (हिरण्ययीः (*hiraṇyayīḥ*)) helmets (शिप्राः (*śiprāḥ*)) for beauty; the sentence continues on the next page.
+
+### Printed p. 554
+
+> स्वर्णमयानि शिप्राः शिरस्त्राणानि श्रिये शोभार्थं व्यंजत । व्यंजयंति । व्यक्तिकुर्वंति । धारयंतीत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+व्यंजत (*vyaṃjata*) means they manifest, they make visible, that is, they wear them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्युद्धस्ताः (*vidyuddhastāḥ*)—those who hold a lightning-form weapon in the hand
+- अभिद्यवः (*abhidyavaḥ*)—those who bear radiance
+- शुभ्राः (*śubhrāḥ*)—the Maruts who are shining
+- शीर्षन् (*śīrṣan*)—on their heads
+- हिरण्ययीः (*hiraṇyayīḥ*)—made of gold
+- शिप्राः (*śiprāḥ*)—crowns
+- श्रिये (*śriye*)—for splendour
+- व्यंजत (*vyaṃjata*)—they display
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who hold a lightning-form weapon in the hand, bear radiance and are shining, wear and display on their heads crowns made of gold, for splendour.
+
+##### English translation
+The brilliant (Maruts), bearing the lightning in their hands, radiant above all, gloriously display their golden helmets on their heads.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒शना॒ यत्प॑रा॒वत॑ उ॒क्ष्णो रंध्र॒मया॑तन ।  
+> द्यान् चक्रदद्धिया ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उशना । यत् । परावतः । उक्ष्णः । रंध्रं । आयातन ।  
+> द्याः । न । चक्रदत् । भिया ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः उशनाः ॥ व्यत्ययेन प्रथमा ॥ उशनसा काव्येनर्षिणा स्तूयमाना यूयं । यद्वा ॥ उशनःशब्दात्सुपां सुलुगिति जसः सुः ॥ उशनसः स्तोत्थन्
+> कामयमाना यूयं। उक्ष्णः सेक्तुः कामानां वर्षितुरात्मीयस्य रथस्य वृष्टिहेतोरंतरिक्षस्य वा रंध्रं मध्यं परावतो दूरदेशाद्यद्यदायातन अगच्छत ॥ यातेर्लजि मध्यमबहुवचनस्य तप्तनप्तनथनाश्चेति तनादेशः ॥ तदानीं दौर्न । अत्र
+
+##### Gist of the bhāṣya
+
+"O Maruts, उशनाः (*uśanāḥ*)": the nominative is by interchange of case; you who are praised by the seer Uśanas Kāvya; or else, you who desire (उशनसः (*uśanasaḥ*)) the hymns. When you come (आयातन (*āyātana*)) from a far place (परावतः (*parāvataḥ*)) to the opening, the middle, of your own chariot, which sprinkles and showers desires, or of the firmament which is the cause of rain, then द्यौर्न (*dyaurna*); the sentence continues on the next page.
+
+### Printed p. 555
+
+> द्युशब्देन तत्रत्यो जनसंघो लक्ष्यते । द्युलोके वर्तमानो जनसंघ इव पार्थिवमपि सर्वं भूतजातं भिया युष्मद्वेगजनितया भीत्या चक्रदत् । अशब्दयत्
+> अकंपत वा ॥
+
+##### Gist of the bhāṣya
+
+By the word द्यु (*dyu*) the multitude of people there is meant. Like the multitude dwelling in heaven, the whole earthly creation also, through fear (भिया (*bhiyā*)) born of your speed, cried out (चक्रदत् (*cakradat*)) or trembled.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts), उशनाः (*uśanāḥ*)—you who are praised by the seer Uśanas
+- उक्ष्णः (*ukṣṇaḥ*)—of the firmament that pours rain
+- रंध्रं (*raṃdhraṃ*)—the middle part
+- परावतः (*parāvataḥ*)—from a very distant place
+- यत् (*yat*)—when
+- अयातन (*ayātana*)—you come and enter, then
+- द्यौर्न (*dyaurna*)—just as you make the world of heaven tremble
+- भिया (*bhiyā*)—by your threatening
+- चक्रदत् (*cakradat*)—you make (the earth also) tremble
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you who are praised by the seer Uśanas: when you come from a very distant place and enter the middle part of the firmament that pours rain, then, just as you make the world of heaven tremble, you make the earth also tremble by your threatening.
+
+##### English translation
+Glorified, (Maruts), by Usanas, when you approach from afar to the opening of the rainy (firmament), then (the dwellers on earth), like those in heaven, are clamorous through fear.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ म॒खस्य॑ दा॒वनेश्वै॒र्हिर॑ण्यपाणिभिः ।  
+> देवा॑स॒ उप॑ गंतन ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । मखस्य । दावने । अश्वैः । हिरण्यपाणिभिः ।  
+> देवासः । उप । गंतन ॥ २७ ॥
+
+### Printed p. 556
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासो दानादिगुणयुक्ता मरुतः नोऽस्माकं मुखस्य यज्ञस्य
+> दावने दानाय !! ददातेरौणादिको भावे वनिः ॥ हिरण्यपाणिभिः स्वर्णमयपादैः
+> स्वर्णालंकृतैर्हितरमणीयपादैर्वाश्वैरोप गंतन । उपागच्छत । प्राप्नुत ॥
+> गमेर्लोटि च्छांदसः शपो लुक् । तप्तनप्तनथनाश्चति तनबादेशः । अत एव
+> जित्त्वाभावादनुनासिकलोपो न क्रियते ॥
+
+##### Gist of the bhāṣya
+
+"O gods, Maruts endowed with qualities such as generosity, come (गंतन (*gaṃtana*)) to our sacrifice (मखस्य (*makhasya*)) for giving (दावने (*dāvane*))", with horses (अश्वैः (*aśvaiḥ*)) that are golden-footed, or adorned with gold, or with beautiful, pleasing feet. दावने (*dāvane*) is derived from the root *dadāti* with an Uṇādi affix in the sense of the action.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O Maruts, endowed with qualities such as generosity
+- नः (*naḥ*)—our
+- मखस्य (*makhasya*)—to the sacrifice
+- दावने (*dāvane*)—to give generously
+- हिरण्यपाणिभिः (*hiraṇyapāṇibhiḥ*)—golden-footed
+- अश्वैः (*aśvaiḥ*)—with horses
+- आ उप गंतन (*ā upa gaṃtana*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, endowed with qualities such as generosity, be pleased to come to our sacrifice with golden-footed horses, to give to us generously.
+
+##### English translation
+Come, gods, to (show your) liberality at our sacrifice with your golden-footed steeds.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदे॑षां॒ पृष॑ती॒ रथे॒ प्रष्टि॒र्वह॑ति॒ रोहि॑तः ।  
+> यांति॑ शु॒भ्रा रि॒णन्न॒पः ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । एषां । पृषतीः । रथे । प्रष्टिः । वहति । रोहितः ।  
+> यांति । शुभ्राः । रिणन् । अपः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां मरुतां रथे पृषतीः पृषद्भिः श्वेतबिंदुभिर्युक्ता मृग्यो यद्यदा
+> वहंति यदा च प्रष्टिः प्राशुः शीघ्रगामी । यद्वा । प्रमुखे युज्यमानः सन् ।
+
+##### Gist of the bhāṣya
+
+When the spotted mares (पृषतीः (*pṛṣatīḥ*)), that is, deer marked with white spots, draw the chariot of these
+
 ---
 
-**Progress note:** Done through printed p. 550. pp. 542-550 (batch API)
+**Progress note:** Done through printed p. 556. pp. 551-556 (batch API)
