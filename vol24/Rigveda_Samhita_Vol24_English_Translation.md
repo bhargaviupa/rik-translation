@@ -22421,6 +22421,226 @@ The fourth chapter in the sixth aṣṭaka. In the eighth maṇḍala, the forty
 
 The sūkta beginning त्वावत (*tvāvata*) has thirty-three Ṛks and is the fourth sūkta; its seer is Vaśa, the son of Aśva. As before, the first and the next two Ṛks are Gāyatrī. Of these the first is Pādanicṛt, since it has the stated mark of three heptasyllabic pādas, as the Anukramaṇī (Anu. 4-4) says. The fifth Ṛk, दधानो गोमदश्ववदित्येषा (*dadhāno gomadaśvavadityeṣā*), is Kakubh, being furnished with pādas of eight, twelve and eight syllables; the rule is "if the middle one is of twelve, Kakubh" (Anu. 5-3). The sixth, तमिंद्रमिति (*tamiṃdramiti*), is Gāyatrī. The seventh, तस्मिन् हि संतीति (*tasmin hi saṃtīti*), is Bṛhatī. The eighth, यस्ते मद (*yaste mada*), is Anuṣṭubh. The ninth, यो दुष्टर (*yo duṣṭara*), is Satobṛhatī; for it is said that the odd and even Jagatī pādas make Satobṛhatī (Anu. 8-4). The tenth, गव्यो शु ण (*gavyo śu ṇa*), is Gāyatrī. The eleventh, नहि ते शूर (*nahi te śūra*), is Bṛhatī. The twelfth, य ऋष्व (*ya ṛṣva*), is the reversed Satobṛhatī, with the first and third pādas of eight syllables and the second and fourth of twelve. The block breaks off in the middle of the next statement. **NOTE**
 
+### Printed p. 490
+
+> रीता । अनु. ८-५ । इत्युक्तत्वात् । स नो वाजेष्टिति त्रयोदशी चतुर्विंशत्यक्षरा
+> द्विपदा । अभि वो वीरमिति चतुर्दशी पिपीलिकमध्या बृहती । त्रयोदशिनोर्मध्यॆऽष्टकः पिपीलिकमध्या । अनु. ७-७ । इत्युक्तत्वात् । ददी रेक्च इति पंचदरी
+> ककुम्न्यंकुशिरा त्रैष्टुभजागतचतुष्काः ककुम्न्यंकुशिरा । अनु. ५-४ । इत्युक्तत्वात् ।
+> विश्वेषामिति षोडशी विराट् । महः सु व इति सप्तदशी जगती । ये पातॆयंत
+> इत्यष्टादश्युपरिष्टाद्बृहती चतुर्थपादस्य द्वादशाक्षरत्वात् । प्रभंगमित्येकोनविंशी
+> बृहती । सनितः सुसनितरिति विंशी विषमपदा बृहती नवकाष्ठैकादश्यष्टिनो विषमपदा ।
+> अनु. ७-८ । इत्युक्तत्वात् । आ स एतु पष्टिं सहस्रेत्येकविंशीद्वाविंशौ पंक्ति । दश
+> श्यावा इति त्रयोविंशी गायत्रि। दानास इति चतुर्विंशी पंक्तिः । पंचविंशीसप्तविंशौ
+> बृहत्यौ । षड्विंशष्टाविंशौ सतोबृहत्यौ । एकोनत्रिंशी गायत्रि । गावो न
+> यूथमिति त्रिंशी विंशत्यक्षरा द्विपदा विराट् । एकत्रिंश्युष्टिक् । द्वात्रिंशी पंक्तिः ।
+> त्रयस्त्रिंशी गायत्रि । आ स एतित्यादिभिश्चतसृभिः कनीतपुत्रस्य पृथुश्रवसो दानं
+> सूयते । अतस्तद्देवताकाः । आ नो वायवित्यादीनां चतसृणां द्वात्रिंश्याश्च
+> वायुर्देवता । शिष्टा अनादेशपरिभाषयेंद्रदेवताकाः ॥ एतत्सर्वमनुक्रमण्यामुक्तं । त्वावतस्त्रयस्त्रिंशद्वशोऽश्व आ स आदि कानीतस्य पृथुश्रवसो दानस्तुतिराद्या
+> हादनिच्छत् पंचम्यादि ककुब्गायत्रि बृहत्यनुष्टुप् सतोबृहती गायत्रि
+> विपरीतोत्तरः प्रगाथो द्विपदा चतुर्विंशिका बृहती पिपीलिकमध्या ककुम्न्यंकुशिरा
+> विराड्डगत्युपरिष्टाद्दृहतीबृहत्यौ विषमपदोत्तरे पंक्ति गायत्रि पंक्तिः प्रगाथौ
+> च वायव्यौ गायत्रि द्विपदोष्णिक् पंक्तिर्वायव्या गायत्रिति ॥ महाव्रते
+> निष्केवल्ये सनितः सुसनितरित्यंतमेव सूक्तं ! तथा च पंचमारण्यके शौनकेन
+> सूत्रितं । त्वावतः पूरूवसविति वशः सनितः सुसनितरित्येतदंतः । ऐ. आ. ५-२-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The rest of the statement on the metres, as the preceding window left it: the twelfth Ṛk is the reversed Satobṛhatī, as the Anukramaṇī says (Anu. 8-5). The thirteenth, स नो वाजेष्टि (*sa no vājeṣṭi*), is a Dvipadā of twenty-four syllables. The fourteenth, अभि वो वीरं (*abhi vo vīraṃ*), is a Bṛhatī with an ant-waisted middle (Pipīlikamadhyā): between the thirteen-syllabled pādas the middle one has eight syllables (Anu. 7-7). The fifteenth, ददी रेक्च (*dadī rekca*), is Kakumnyaṅkuśirā, having four pādas of Triṣṭubh and Jagatī measure (Anu. 5-4). The sixteenth, विश्वेषां (*viśveṣāṃ*), is Virāj. The seventeenth, महः सु व (*mahaḥ su va*), is Jagatī. The eighteenth, ये पातॆयंत (*ye pātèyaṃta*), is Upariṣṭādbṛhatī, because its fourth pāda has twelve syllables. The nineteenth, प्रभंगं (*prabhaṃgaṃ*), is Bṛhatī. The twentieth, सनितः सुसनितः (*sanitaḥ susanitaḥ*), is Viṣamapadā Bṛhatī, with the unequal pādas as stated (Anu. 7-8). The twenty-first and twenty-second, beginning आ स एतु (*ā sa etu*) and पष्टिं (*paṣṭiṃ*), are Paṅkti. The twenty-third, दश श्यावा (*daśa śyāvā*), is Gāyatrī. The twenty-fourth, दानास (*dānāsa*), is Paṅkti. The twenty-fifth and twenty-seventh are Bṛhatī; the twenty-sixth and twenty-eighth are Satobṛhatī; the twenty-ninth is Gāyatrī. The thirtieth, गावो न यूथं (*gāvo na yūthaṃ*), is a Dvipadā Virāj of twenty syllables. The thirty-first is Uṣṇik, the thirty-second Paṅkti, the thirty-third Gāyatrī. By the four Ṛks beginning आ स एति (*ā sa eti*) the gift of Pṛthuśravas, son of Kanīta, is praised, so they have that gift as deity; the four beginning आ नो वायवित्यादीनां (*ā no vāyavityādīnāṃ*) and the thirty-second have Vāyu as deity; the remaining Ṛks, by the rule for what is not specified, have Indra as deity. All this is said in the Anukramaṇī: त्वावतस्त्रयस्त्रिंशद्वशोऽश्व आ स आदि कानीतस्य पृथुश्रवसो दानस्तुतिराद्या हादनिच्छत् पंचम्यादि ककुब्गायत्रि बृहत्यनुष्टुप् सतोबृहती गायत्रि विपरीतोत्तरः प्रगाथो द्विपदा चतुर्विंशिका बृहती पिपीलिकमध्या ककुम्न्यंकुशिरा विराड्डगत्युपरिष्टाद्दृहतीबृहत्यौ विषमपदोत्तरे पंक्ति गायत्रि पंक्तिः प्रगाथौ च वायव्यौ गायत्रि द्विपदोष्णिक् पंक्तिर्वायव्या गायत्रिति ॥ (*tvāvatastrayastriṃśadvaśo 'śva ā sa ādi kānītasya pṛthuśravaso dānastutirādyā hādanicchat paṃcamyādi kakubgāyatri bṛhatyanuṣṭup satobṛhatī gāyatri viparītottaraḥ pragātho dvipadā caturviṃśikā bṛhatī pipīlikamadhyā kakumnyaṃkuśirā virāḍḍagatyupariṣṭāddṛhatībṛhatyau viṣamapadottare paṃkti gāyatri paṃktiḥ pragāthau ca vāyavyau gāyatri dvipadoṣṇik paṃktirvāyavyā gāyatriti ‖*). In the Mahāvrata, in the Niṣkevalya śastra, the sūkta is used up to सनितः सुसनितः (*sanitaḥ susanitaḥ*); so Śaunaka states in the Fifth Āraṇyaka: त्वावतः पूरूवसविति वशः सनितः सुसनितरित्येतदंतः । (*tvāvataḥ pūrūvasaviti vaśaḥ sanitaḥ susanitarityetadaṃtaḥ |*) (Ai. Ā. 5-2-5). **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning त्वावतः (*tvāvataḥ*) is the fourth sūkta in the sixth Anuvāka of the eighth Maṇḍala. It has thirty-three Ṛks. The seer of this sūkta is one named Vaśa, the son of Aśva; the first four Ṛks of this sūkta are in the Gāyatrī metre. But the first Ṛk is of the metre called Pādanicṛt. If a Ṛk has three pādas and every pāda has seven syllables each, it is called the Pādanicṛt metre: this is the mark of this metre (Chaṃ. Anu. 4-4). **NOTE** The fifth Ṛk, beginning दधानो गोमदश्ववत् (*dadhāno gomadaśvavat*), is in the Kakup metre. If a Ṛk has three pādas and in those pādas there are, in order, eight, twelve and eight syllables, it is called the Kakup metre (Anu. 5-3). The sixth Ṛk, beginning तमिंद्रं (*tamiṃdraṃ*), is in the Gāyatrī metre; the seventh Ṛk, beginning तस्मिन् हि संति (*tasmin hi saṃti*), is in the Bṛhatī metre; the eighth Ṛk, beginning यस्ते मदः (*yaste madaḥ*), is in the Anuṣṭup metre;
+
+### Printed p. 491
+
+the ninth Ṛk, beginning ये दुष्टरः (*ye duṣṭaraḥ*), is in the Satobṛhatī metre. If in a Ṛk the first and the third pādas are in the Jagatī metre, it is called the Satobṛhatī metre (Anu. 8-4). The tenth Ṛk, beginning गव्यो षु णः (*gavyo ṣu ṇaḥ*), is in the Gāyatrī metre; the eleventh Ṛk, beginning नहि ते शूर (*nahi te śūra*), is in the Bṛhatī metre; the twelfth Ṛk, beginning य ऋष्टः (*ya ṛṣṭaḥ*), is of the metre called Viparītā Satobṛhatī. In this metre the first and third pādas have eight syllables each, and the second and fourth pādas have twelve syllables each. This is the mark of this metre (Anu. 8-5). The thirteenth Ṛk, beginning स नो वाजेषु (*sa no vājeṣu*), is of the metre called Dvipadā of twenty-four syllables. The fourteenth Ṛk, beginning अभि वो वीरं (*abhi vo vīraṃ*), is of the metre called Pipīlikamadhyamā Bṛhatī. If a Ṛk has three pādas, the middle pāda has eight syllables and the other two pādas have thirteen and sixteen syllables, it is of the metre called Pipīlikamadhyā Bṛhatī (Anu. 7-7). The fifteenth Ṛk, beginning ददी रेक्षः (*dadī rekṣaḥ*), is of the metre called Kakumnyaṅkuśirā. If a Ṛk has three pādas, and in the first pāda there are eleven syllables as in the Triṣṭup metre, in the second pāda twelve syllables as in the Jagatī metre, and in the third pāda four syllables, it is called the Kakumnyaṅkuśirā metre (Anu. 5-4). The sixteenth Ṛk, beginning विश्वेषां (*viśveṣāṃ*), is in the Virāṭ metre; the seventeenth Ṛk, beginning महः सु वः (*mahaḥ su vaḥ*), is in the Jagatī metre; because the fourth pāda of the eighteenth Ṛk, beginning ये पातॆयंते (*ye pātèyaṃte*), has twelve syllables, it is of the metre called Upariṣṭādbṛhatī; the nineteenth Ṛk, beginning प्रभंगं (*prabhaṃgaṃ*), is in the Bṛhatī metre; the twentieth Ṛk, beginning सनितः सुसनितः (*sanitaḥ susanitaḥ*), is of the metre called Viṣamapadā Bṛhatī. In this Ṛk the first pāda has nine syllables, the second pāda eight syllables, the third pāda eleven syllables and the fourth pāda eight syllables. This is the mark of this metre (Anu. 7-8). The twenty-first and twenty-second Ṛks, beginning आ स एतु (*ā sa etu*) and षष्ठिं सहस्रा (*ṣaṣṭhiṃ sahasrā*), are in the Paṅkti metre. The twenty-third Ṛk, beginning पर श्यावाः (*para śyāvāḥ*), is in the Gāyatrī metre; the twenty-fourth Ṛk, beginning दानासः (*dānāsaḥ*), is in the Paṅkti metre; the twenty-fifth and twenty-seventh Ṛks are in the Bṛhatī metre; the twenty-sixth and twenty-eighth Ṛks are in the Satobṛhatī metre; the twenty-ninth Ṛk is in the Gāyatrī metre; the thirtieth Ṛk, beginning गावो न यूथं (*gāvo na yūthaṃ*), is in the Dvipadā Virāṭ metre of twenty syllables; the thirty-first Ṛk is in the Uṣṇik metre; the thirty-second Ṛk is in the Paṅkti metre; the thirty-seventh Ṛk is in the Gāyatrī metre. **NOTE** In the four Ṛks beginning आ स एतु (*ā sa etu*) (21-24, the praise of the gift of Pṛthuśravas, the son of Kṛta, is stated, so for those Ṛks the praise of the gift of Pṛthuśravas is the deity. **NOTE** For the four Ṛks beginning आ नो वायो (*ā no vāyo*) (25-28 and 32), and for the thirty-second Ṛk, Vāyu is the deity; the remaining Ṛks have Indra as deity. All this is said in the Anukramaṇī in this way: श्यावतस्त्रयस्त्रिंशद्वशोऽश्वत् आ स आदि कानीतस्य पृथुश्रवसो दानस्तुतिराद्या पादनिच्छत् पंचम्यादि ककुब्गायत्री बृहत्यनुष्टुप् सतोबृहती गायत्री विपरीतोत्तरः प्रगाथो द्विपदा चतुर्विंशिका बृहती पिपीलिकमध्या ककुम्न्यंकुशिरा विराड्डगत्युपरिष्वादृहतीबृहत्या विषमपदोत्तरे पंक्ति गायत्री पंक्तिः प्रगाथौ च वायव्य् गायत्री द्विपदोष्णिक् पंक्तिर्वायव्या गायत्री (*śyāvatastrayastriṃśadvaśo 'śvat ā sa ādi kānītasya pṛthuśravaso dānastutirādyā pādanicchat paṃcamyādi kakubgāyatrī bṛhatyanuṣṭup satobṛhatī gāyatrī viparītottaraḥ pragātho dvipadā caturviṃśikā bṛhatī pipīlikamadhyā kakumnyaṃkuśirā virāḍḍagatyupariṣvādṛhatībṛhatyā viṣamapadottare paṃkti gāyatrī paṃktiḥ pragāthau ca vāyavy gāyatrī dvipadoṣṇik paṃktirvāyavyā gāyatrī*)
+
+### Printed p. 492
+
+is what is said. In the Mahāvrateṣṭi, for the mantras of the Niṣkevalya śastra, the twenty Ṛks (1-20) from the beginning of this sūkta up to the Ṛk beginning सनितः सुसनितः (*sanitaḥ susanitaḥ*) are to be applied, and this is indicated in the Aitareya Āraṇyaka, in the Fifth Āraṇyaka, by the sentence त्वावतः पुरूवसविति वशः सुनितः सुसनितरित्येतदंतः (*tvāvataḥ purūvasaviti vaśaḥ sunitaḥ susanitarityetadaṃtaḥ*) (Ai. A. 5-2-5). **NOTE**
+
+##### Particulars
+
+Sūkta 46. Maṇḍala 8; Anuvāka 6; Sūkta 46. Aṣṭaka 6; Adhyāya 4; Varga 1, 2, 3, 4, 5, 6. Number of Ṛks in the hymn: 33. Seer: Vaśo 'śvaḥ. Deity: 1 20, 29-31, 33. Indraḥ; 21-24. Pṛthuśravasaḥ Kānītasya dānastutiḥ; 25-28, 32. Vāyuḥ. Metre: 1. Pādanicchat; 2 4, 6, 10, 23, 29, 33. Gāyatri; 5. Kakup; 7, 11, 19, 25, 27. Bṛhatī; 8. Anuṣṭup; 9, 26, 28. Satobṛhatī; 12. Viṣarītā; 13. Dvipādā Bṛhatī; 14. Pipilīkamadhyā; 15. Kakumnyaṅkuśirā; 16. Virāṭ; 17. Jagatī; 18. Upariṣvādahatī; 20. Viṣamapadā; 21, 22, 24, 32. Saṃktiḥ; 30. Dvipadā Virāṭ; 31. Usṭik. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाव॑तः पुरूवसो व॒यमिं॑द्र प्रणेतः ।  
+> स्मसि॑ स्थातर्हरीणां ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वावतः । पुरूवसो इति पुरुषसो । वयं । इंद्र । प्रनेतरिति प्रनेतः ।  
+> स्मसि । स्थातः । हरीणां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरूवसो बहुधनेंद्र प्रणेतः कर्मणां पारं प्रकर्षेण प्रापयितरिंद्र त्वावतस्त्वत्सदृशस्य । इंद्रसमानस्यान्य स्याभावात्तवेत्यर्थः । तव स्वभूता वयं
+> स्मसि । स्मः । हे हरीणामेतत्संज्ञकानामश्वानां स्थातरधिष्ठातः ॥
+
+##### Gist of the bhāṣya
+
+O Purūvasu, rich in wealth, O Indra, Praṇetṛ, who brings rites to their end with full effect: of one like you (त्वावतः (*tvāvataḥ*)), that is, of you, since there is no other equal to Indra; we are yours, belonging to you. स्मसि (*smasi*) stands for स्मः (*smaḥ*). O Sthātṛ, the presiding lord over the horses called Hari.
+
+### Printed p. 493
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरूवसो (*purūvaso*)—one who has abundant wealth
+- प्रणेतः (*praṇetaḥ*)—one who helps in carrying out the rites
+- हरीणां (*harīṇāṃ*)—of the horses called Hari
+- स्थातः (*sthātaḥ*)—the controller; O
+- इंद्र (*iṃdra*)—Indra
+- वयं (*vayaṃ*)—we
+- त्वा वतः (*tvā vataḥ*)—as belonging to you
+- स्मसि (*smasi*)—we are
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have abundant wealth, who help in carrying out the rites, who are the controller of the horses called Hari, we belong to you.
+
+##### English translation
+O wealthy Indra, the leader (of rites), we belong to one like you, ruler of horses.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां हि स॒त्यम॑द्रिवो वि॒द्म दा॒तार॑मि॒षां ।  
+> वि॒द्म दा॒तारं॑ रया॒णां ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । हि । सत्यं । अद्रिवः । विद्म । दातारं । इषां ।  
+> विद्म । दातारं । रयाणां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः । अत्ति शत्रुमित्यद्रिर्वज्रः । तद्वन्निंद्र त्वां सत्यं निश्चयमिषामन्नानां दातारं विद्म । जानीमः । तथा रयीणां धनानां दातारं विद्म ॥
+
+##### Gist of the bhāṣya
+
+O Adrivaḥ: अत्ति शत्रुमित्यद्रिर्वज्रः (*atti śatrumityadrirvajraḥ*), he eats the enemy, so adri is the thunderbolt; O Indra, possessor of it. We know you for certain (सत्यं (*satyaṃ*)) as the giver of food (इषां (*iṣāṃ*)), and likewise we know you as the giver of riches (रयीणां (*rayīṇāṃ*), wealth).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, wielder of the thunderbolt
+- त्वां हि (*tvāṃ hi*)—you alone
+- सत्यं (*satyaṃ*)—certainly
+- इषां (*iṣāṃ*)—of foods
+- दातारं (*dātāraṃ*)—as the giver
+- विद्म (*vidma*)—we have known
+- रयाणां (*rayāṇāṃ*)—of riches
+- दातारं (*dātāraṃ*)—as the giver also
+- विद्म (*vidma*)—we have known
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt, we have known you alone, for certain, as the giver of food, and we have known you as the giver of wealth.
+
+### Printed p. 494
+
+##### English translation
+You, thunderer, we verily know to be the giver of food, you, we know to be the giver of riches.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यस्य॑ ते महि॒मानं॒ शत॑मूते॒ शत॑क्रतो ।  
+> गी॒र्भिर्गृ॒णंति॑ का॒रवः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यस्य । ते । महिमानं । शतंऊते । शतक्रतो इति शतक्रतो ।  
+> गीर्भिः । गृणंति । कारवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतमूतेऽपरिमितरक्षण हे शतक्रतो बहुकर्मयुक्तेंद्र यस्य ते
+> महिमानं माहात्म्यं कारवः स्तोतारो गीर्भिः स्तुतिभिर्गृणंति स्तुवंति
+> स्वाभीष्टायॆ ॥
+
+##### Gist of the bhāṣya
+
+O Śatamūte, of limitless protection; O Śatakratu, Indra, endowed with many deeds: the greatness of you, of whom (यस्य (*yasya*)) it is said, the Kāravas, that is, the worshippers, praise with hymns, for the sake of their own desired aim.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतमूते (*śatamūte*)—one who has protection of many kinds
+- शतक्रतो (*śatakrato*)—one who has works of many kinds; O Indra
+- यस्य (*yasya*)—you who are famous, such
+- ते (*te*)—your
+- महिमानं (*mahimānaṃ*)—greatness
+- कारवः (*kāravaḥ*)—the worshippers
+- गीर्भिः (*gīrbhiḥ*)—with hymns
+- आ गृणंति (*ā gṛṇaṃti*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have protection of many kinds and works of many kinds, the worshippers praise the greatness of you, who are famous, with hymns.
+
+##### English translation
+O Shatakratu, wielding a hundred protections, whose greatness the worshippers praise with their hymns.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒नी॒थो घा॒ स मर्त्यो॒ यं म॒रुतो॒ यम॑र्य॒मा ।  
+> मि॒त्रः पांत्य॒द्रुहः॑ ॥ ४ ॥
+
+### Printed p. 495
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुनीधः । घ । सः । मर्त्यः । यं । मरुतः । यं । आर्यमा ।  
+> मित्रः । पांति । अद्रुहः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स मर्त्यो मनुष्यो यजमानः सुनीथः सुयज्ञः सुनयनो वा भवति ।
+> घेति प्रसिद्धौ । स इत्युक्तं कमित्याह । यं यजमानं मरुतो देवाः पांति
+> रक्षंत्यद्रुहोऽद्रोहकर्तारः । तथा यमर्यमा पाति । यं च मित्रः पाति ।
+> स एवं भवतीति ॥
+
+##### Gist of the bhāṣya
+
+That mortal, the human sacrificer, becomes सुनीथः (*sunīthaḥ*), a good sacrificer or a good leader. घ (*gha*) is a well-known particle. He is spoken of as "that"; who is meant? The sacrificer whom the Maruts, gods who do no harm, protect; likewise the one whom Aryaman protects, and the one whom Mitra protects: he becomes so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—which sacrificer
+- अद्रुहः (*adruhaḥ*)—who wish no harm
+- मरुतः (*marutaḥ*)—the Maruts
+- पांति (*pāṃti*)—protect
+- यं (*yaṃ*)—which man
+- आर्यमा (*āryamā*)—Aryaman
+- मित्रः (*mitraḥ*)—and Mitra protect
+- सति मर्त्यः (*sati martyaḥ*)—that same sacrificer in human form
+- सुनीथः घु (*sunīthaḥ ghu*)—certainly becomes an excellent manager of the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer whom the Maruts, who wish no harm, protect, whom Aryaman and Mitra protect, that same sacrificer in human form certainly becomes an excellent manager of the sacrifice.
+
+##### English translation
+Fortunate in sacrifice is that mortal whom the guileless Maruts, whom Aryaman and Mitra, protect.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दधा॑नो॒ गोम॒दश्व॑वत्सु॒वीर्य॑मादि॒त्यजू॑त विधते ।  
+> सदा॑ रा॒या पु॑रु॒स्पृहा॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधानः । गोमत् । अश्ववत् । सुवीर्यं । आदित्यजूतः । विधतॆः ।  
+> सदा । राया । पुरुस्पहा ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 488. Mandala 8 sukta 45 Rks 37-42 and the start of sukta 46
+**Progress note:** Done through printed p. 495. Mandala 8 sukta 46: metre notes, Anuvada, particulars, Rks 1-4 and start of Rk 5
