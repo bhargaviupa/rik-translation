@@ -18383,6 +18383,279 @@ O नरा (*narā*), leaders of the praisers' wealth, O Aśvins: the wise prai
 - अश्विना (*aśvinā*)—O Aśvins
 - मनीषिणः (*manīṣiṇaḥ*)—
 
+### Printed p. 457
+*Pratipadārtha (continued)*
+- *manīṣiṇaḥ*—worshippers given to meditation
+- वां (*vāṃ*)—you
+- पुरुत्रा चिद्दि (*purutrā ciddi*)—in many places
+- विह्वयंते (*vihvayaṃte*)—they pray to and call (you) in many ways (therefore)
+- वाघद्धिः (*vāghaddhiḥ*)—with the horses that carry you
+- आ गतं (*ā gataṃ*)—be gracious enough to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders of all worshippers, the worshippers who compose meditative hymns pray to you and call you in many places and in many ways. Therefore be pleased to come with the horses that carry you.
+
+##### English translation
+Leaders (of rites), wise men worship you in many places: come to us with your steeds.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जना॑सो वृ॒क्तब॑र्हिषो ह॒विष्मं॑तो अरं॒कृतः॑ ।  
+> यु॒वां ह॑वंते आश्विना ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनासः । वृक्तबर्हिषः । हविष्मंतः । अरंकृतः ।  
+> युवां । हवंते । अश्विना ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृक्तबर्हिषः । वृक्तं छिन्नं बर्हिय्यैस्ते तथोक्ताः । हविष्मंतो हविर्भिर्युक्ता अरंकृतः पर्याप्तकारिणः यद्वा हविरादीनामलंकर्तारो जनास
+> ऋत्विग्लक्षणा जना हे अश्विनाश्विनौ युवां हवंते । आह्वयंति । अत आगच्छतमिति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+वृक्तबर्हिषः (*vṛktabarhiṣaḥ*) are those by whom the sacred grass has been clipped (वृक्तं (*vṛktaṃ*) = cut). हविष्मंतः (*haviṣmaṃtaḥ*) are those provided with oblations. अरंकृतः (*araṃkṛtaḥ*) are those who do what is sufficient; or else they are those who adorn the oblations and the like. The जनासः (*janāsaḥ*), that is, people in the character of priests, call you, O Aśvins. Hence the supplement: "therefore come".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*)—those who offer the sacred-grass seat that has been cut and prepared
+- हविस्मंतः (*havismaṃtaḥ*)—those who possess oblations
+- अरंकृतः (*araṃkṛtaḥ*)—those who have oblations and the like enough to satisfy you (or those who adorn the oblations with ghee and the like)
+- जनासः (*janāsaḥ*)—priests and others
+- युवां (*yuvāṃ*)—you
+- हवंते (*havaṃte*)—pray to and call
+
+### Printed p. 458
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the priests and others, who offer the cut and prepared sacred-grass seat, who possess oblations, who have oblations and the like enough to satisfy you (who adorn the oblations with ghee and the like), pray to you and call you.
+
+##### English translation
+Men bearing the clipped sacred grass, presenting oblations, and completely fulfilling (their functions), worship you, Aswins.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑म॒द्य वा॑म॒यं स्तोमो॒ वाहि॑ष्टो॒ अंत॑मः ।  
+> यु॒वाभ्यां॑ भूत्वश्विना ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । अद्य । नां । अयं । स्तोमः । वाहिष्ठः । अंतमः ।  
+> युवाभ्यां । भूतु । अश्विना ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्येदानीमस्माकमयं स्तोमोऽस्मदीयं स्तोत्रं हे अश्विनौ नां
+> युवयोर्वाहिष्ठो वाहयित्यृतमः प्रापयितृतमः सन् युवाभ्यामंतमोऽंतिकतमोऽतिशयेन समीपवर्ति भूतु । भवतु ॥ तमे तादेश्व । पा. ६-४-१४९-९ ।
+> इत्यंतिकशब्दस्य तादिर्लुप्यते । भवतेश्छांदसः शपो लुक् ॥
+
+##### Gist of the bhāṣya
+
+Today, now, this our praise, our hymn, O Aśvins, becoming the best conveyer to you, the one that reaches you best, is to be the nearest to you, exceedingly close. भूतु (*bhūtu*) means "let it be". The rest is grammatical: the तादि (*tādi*) of *aṃtika* is elided, and the *śap* of भवति (*bhavati*) is dropped in the Vedic language. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अद्य (*adya*)—now
+- अस्माकं (*asmākaṃ*)—recited by us
+- अयं स्तोमः (*ayaṃ stomaḥ*)—this hymn
+- नां (*nāṃ*)—you
+- वाहिष्ठः (*vāhiṣṭhaḥ*)—possessing the fitness to approach (you) best
+- युवाभ्यां (*yuvābhyāṃ*)—of you two
+- अंतमः (*aṃtamaḥ*)—attaining nearness
+- भूतु (*bhūtu*)—let it be
+
+### Printed p. 459
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, may this hymn now recited by us, possessing the fitness to approach you best, attain your presence.
+
+##### English translation
+May this our praise to-day be conveyed successfully to you, Aswins and be most nigh to you.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो ह॑ वां॒ मधु॑नो॒ दृति॒राहि॑तो रथ॒चर्ष॑णे ।  
+> ततः॑ पिबतमश्विना ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ह । वां । मधुनः । दृतिः । आहितः । रथचर्षणॆः ।  
+> ततः । पिबितं । अश्विना ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् रथचर्षणे रथस्य चर्षणे द्रष्टव्ये मध्ये देशे यो दृतिर्मधुनो मधुरस्यास्माभिर्दत्तस्य सोमस्य संबंधी तेन मधुना पूर्ण आहितः
+> स्थापितो वर्तते ततो दृतेः सकाशात्सोमं पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, in the middle place of the chariot, where the chariot is to be seen, there is placed a दृतिः (*dṛtiḥ*) (skin bag) filled with sweet Soma juice given by us. From that skin bag drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- रथचर्षणे (*rathacarṣaṇe*)—in the middle region of the chariot, visible to all
+- वां ह (*vāṃ ha*)—for you indeed
+- यः (*yaḥ*)—which
+- दृतिः (*dṛtiḥ*)—leather bag
+- मधुनः (*madhunaḥ*)—with sweet Soma, fully
+- आहितः (*āhitaḥ*)—is placed
+- ततः (*tataḥ*)—from that same leather bag
+- पिबतं (*pibataṃ*)—drink the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, in the middle region of the chariot, visible to all, the leather bag that has been placed there for you, full of sweet Soma—from that same leather bag drink the Soma.
+
+### Printed p. 460
+
+##### English translation
+Drink, Aswins, from the skin (filled) with the sweet (Soma juice) which is suspended in view of your car.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तेन॑ नो वाजिनीवसू॒ पश्वे॑ तो॒काय॒ शं गवे॑ ।  
+> वह॑तं॒ पीव॑री॒रिषः॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तेन । नः । वाजिनीवसू इति वाजिनीऽवसू । पश्वे । तोकाय । शं । गवे ।  
+> वहतं । पीवरीः । इषः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू । वाजोऽन्नं बलं वा । तद्युक्तधनौ नोऽस्माकं पश्वे
+> पशवेऽश्वादिलक्षणाय॥ जसादिषु च्छंदसि वावचनमिति फेर्जुतीति गुणस्य विकल्पितत्वाद्यण् ॥ तोकाय पुत्राय गवे च ॥ जात्यभिप्रायं सर्वत्रैकवचनं ॥ पशुप्रभृतिभ्यः
+> शं सुखं यथा भवति तथा पीवरीः प्रवृद्धानीषोऽन्नानि तेन भवदीयेन रथेन
+> वहतं । आवहतं । प्रापयतं । दत्तमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O वाजिनीवसू (*vājinīvasū*): वाज (*vāja*) is food or strength; they are possessors of wealth joined with it. For our पश्वे (*paśve*), that is, for livestock in the form of horses and the like (a Vedic form: in जसादिषु (*jasādiṣu*) cases the guṇa is optional, hence the यण् (*yaṇ*)). For तोकाय (*tokāya*), a son, and for the cow; the singular everywhere is meant for the class. So that there may be well-being शं (*śaṃ*) for livestock and the rest, bring पीवरीः (*pīvarīḥ*), abundant इषः (*iṣaḥ*) (foods), with that chariot of yours: वहतं (*vahataṃ*) means bring, convey, give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—O Aśvin deities who possess wealth in the form of strength
+- नः (*naḥ*)—to us
+- पश्वे (*paśve*)—for livestock in the form of horses and the like
+- तोकाय (*tokāya*)—for the sake of sons
+- गवे (*gave*)—for cows
+- शं (*śaṃ*)—for a state of well-being (needed to obtain these)
+- पीवरीः (*pīvarīḥ*)—abundant
+- इषः (*iṣaḥ*)—foods
+- तेन (*tena*)—in your chariot
+- वहतं (*vahataṃ*)—bring them, carrying
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, possessors of wealth in the form of strength, in order to place us in the good state by which we may obtain livestock such as horses, sons, and cows and the like, bring abundant food in your chariot.
+
+### Printed p. 461
+
+##### English translation
+Affluent in oblations, bring to us with that (chariot) abundant food, so that there may be prosperity in horses, progeny, and cattle.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॑ दि॒व्या इष॑ उ॒त सिंधू॑रहर्विदा ।  
+> अप॒ द्वारे॑व वर्षथः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । दिव्याः । इषः । उत ! सिंधून् । अहः विदा ।  
+> अप । द्वारा इव । वर्षथः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे अहर्विदाह्नो लंभयितार् । यद्वा । अह्नि प्रभातसमये
+> वेदितव्या स्तोतव्यावश्विनौ । दिव्या दिवि भवा इष इष्टमाणा अपो नोऽस्मदर्थं
+> द्वारेव द्वारेणेव चैद्रेणेवाप वर्षथः । मेघादपकृष्य युवां सिंचथः । उतापि
+> च सिंधून् स्यंदनशीला नदीर्वृष्टैश्चैरुदकैरस्माकं स्नानपानादिकार्याय कृतवंतावित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"And also, O अहर्विदा (*aharvidā*)", those who cause the day to be obtained; or else, the Aśvins who are to be known and praised at the day, at dawn. You rain down for us the heavenly इषः (*iṣaḥ*), the desired waters born in heaven, as if through a door (द्वारेव (*dvāreva*)), drawing them from the cloud and sprinkling. And also you have made the flowing rivers with the rained waters, for our bathing, drinking and other uses: this is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहर्विदा (*aharvidā*)—O Aśvin deities, worthy of praise at dawn
+- उत (*uta*)—besides the deeds described above
+- दिव्याः (*divyāḥ*)—born in the heavenly world
+- इषः (*iṣaḥ*)—desired by us
+- नः (*naḥ*)—for us
+- द्वारेव (*dvāreva*)—through the clouds that are like a door
+- अपवर्षयः (*apavarṣayaḥ*)—you have poured down as rain
+- उत (*uta*)—and
+- सिंधून् (*siṃdhūn*)—you have also made flowing rivers for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, worthy of praise at dawn, besides the deeds described above, you have poured down for us, in the form of rain, through the clouds that are like a door of the atmosphere, the waters born in heaven and desired by us. And you have also made flowing rivers for us.
+
+### Printed p. 462
+
+##### English translation
+Bringers of the day, you rain upon us by the (open) door (of the clouds) the waters of heaven, or (with them fill) the rivers.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒दा वां॑ तौ॒ग्रो वि॑धत्समु॒द्रे ज॑हि॒तो न॑रा ।  
+> यद्वां॒ रथो॒ विभि॒ष्पता॑त् ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कदा । वां । तौग्र्यः । विधत् । समुद्रे । जहितः । नरा ।  
+> यत् । वां । रथः । विभिः । पतात् ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नरौ नेतारावश्विनौ तौग्रस्तुग्रपुत्रो भुज्युः समुद्रे जलधौ जहितोऽसुरैः प्रक्षिप्तः सन् कदा कस्मिन्काले वां युवां विधत् । अविधत् । स्तुतिभि
+> पर्यचरत् । यद्यदा वां युवयोर्विभिर्गंतृभिरश्वैरुपेतो रथः पतात् तं
+> भुज्युमानेतुं पतेत् गच्छेत् तदानीं भुज्यरस्त्यादिति पूर्वणार्थेन पृष्टस्य
+> प्रतिवचनं ॥
+
+##### Gist of the bhāṣya
+
+O leaders, Aśvins: Bhujyu, the son of Tugra, thrown into the ocean by the Asuras, when did he serve you? विधत् (*vidhat*) means "served", worshipped with praises. When your chariot, yoked with flying (विभिः (*vibhiḥ*)) horses, went down to bring that Bhujyu, then (is the answer): this is the reply to the question asked in the earlier half. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Aśvin deities, the leaders
+- तौग्र्यः (*taugryaḥ*)—Bhujyu, son of Tugra
+- समुद्रे (*samudre*)—in the ocean
+- जहितः (*jahitaḥ*)—having been thrown by the Asuras
+- कदा (*kadā*)—when
+- पां (*pāṃ*)—you both
+- विधत् (*vidhat*)—served
+- यत् (*yat*)—then
+- पां (*pāṃ*)—your
+- विभिः (*vibhiḥ*)—yoked with horses
+- रथः (*rathaḥ*)—the chariot
+- पतात् (*patāt*)—came down to protect that Bhujyu
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders, when Bhujyu, son of Tugra, thrown into the ocean by the Asuras, served you both, then your chariot, yoked with horses, came down to protect that Bhujyu.
+
 ---
 
-**Progress note:** Done through printed p. 456. pp. 451-456 (batch API)
+**Progress note:** Done through printed p. 462. pp. 457-462 (batch API)
