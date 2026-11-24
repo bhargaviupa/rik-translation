@@ -333,3 +333,17 @@
 - p. 410 (English line 7544) [R1]: `**mahān**: *mahat*` → `**mahām**: *mahat*` — ಮಹಾಮ್—ಮಹಚ್ಛಬ್ದ (second pass S3, findings.tsv)
 - p. 410 (English line 7549) [R1]: `*kṛsṛbhṛvṛstudru…*: *iṭ* is allowed here because of *kṛsṛ…* limit — so *iṭ*` → `*krādiniyama*: though *aniṭ*, it takes *iṭ* in *liṭ*` — ಕ್ರಾದಿನಿಯಮದಿಂದ ಅನಿಟ್ಟಾದರೂ ಲಿಟ್ಟಿನಲ್ಲಿ ಇದಕ್ಕೆ ಇಟ್ ಬರುತ್ತದೆ (second pass S3, findings.tsv)
 - p. 411 (English line 7551) [R6]: `ಐವತ್ತೇಳನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು` → `ಐವತ್ತ ಏಳನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು` — ಐವತ್ತ ಏಳನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು. (kn.md l.14166) (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 418 (English line 7695) [H26]: `*caṅ*; *ṇeraniṭi*; *caṅi*` → `*caṅ*; *caṅi*` — Kannada acikradat prakriyā (p. 418) goes ಚಜಾದೇಶ then ಚಜಿ (ಪಾ. ಸೂ. ೬-೧-೧೧) ದ್ವಿತ್ವ; no ṇeraniṭi step (second pass S3, findings.tsv)
+- p. 419 (English line 7729) [H26]: `the conqueror, who wins the wealth of enemies` → `the conqueror, who wins and distributes the wealth of enemies` — ರಯಿಷಾಟ್—(ಶತ್ರುಗಳ) ಧನವನ್ನು ಜಯಿಸಿ ಹಂಚುವವನೂ (second pass S3, findings.tsv)
+- p. 419 (English line 7731) [H26]: `conqueror of the wealth of enemies, deathless` → `conqueror and distributor of the wealth of enemies, deathless` — ಶತ್ರುಧನಗಳನ್ನು ಜಯಿಸಿ ಹಂಚುವವನೂ (second pass S3, findings.tsv)
+- p. 420 (English line 7748) [H1]: `(Ni. 2-3-12)` → `(Ni. 2-3-17)` — ನಿರುಕ್ತದಲ್ಲಿ ಪಠಿತವಾಗಿದೆ (ನಿರು. ೨-೩-೧೭) (second pass S3, findings.tsv)
+- p. 421 (English line 7756) [H1]: `(Ni. 2-3-12); *iṇ gatau*` → `(Ni. 2-3-17); *iṇ gatau*` — ಆಯವಃ ಇತಿ ಮನುಷ್ಯನಾಮ (ನಿರು. ೨-೩-೧೭) (second pass S3, findings.tsv)
+- p. 421 (English line 7755) [H1]: `(U. Sū. 2-84)` → `(U. Sū. 2-244)` — ಋಞ್ಚಿವೃಧಿಮಂದಿ ಸಹಿಭ್ಯಃ ಕಿತ್ (ಉ. ಸೂ. ೨-೨೪೪) (second pass S3, findings.tsv)
+- p. 421 (English line 7757) [H1]: `(Pā. Sū. 3-1-124)` → `(Pā. Sū. 3-1-125)` — ಋಹಲೋರ್ಣ್ಯತ್ (ಪಾ. ಸೂ. ೩-೧-೧೨೫) (second pass S3, findings.tsv)
+- p. 421 (English line 7754) [H26]: `*vānasaṃsaneyā*… optional` → `*vā 'vasāne*: optional` — ವಾವಸಾನೇ ಎಂಬುದರಿಂದ ವಿಕಲ್ಪವಾಗಿ ಚರ್ತ್ವ (second pass S3, findings.tsv)
+- p. 423 (English line 7800) [H1]: `a *bhaṭabhaṭa* sound` → `a *chaṭachaṭa* sound` — ಛಟಛಟಾತ್ಕಾರದಿಂದ ಶಬ್ದ ಮಾಡುತ್ತಿರುವನು (second pass S3, findings.tsv)
+- p. 424 (English line 7810) [H1]: `(U. Sū. 2-21[?], the last digit not settled)` → `(U. Sū. 2-218)` — ಹುವಃ ಶ್ಲುವಚ್ಚ (ಉ. ಸೂ. ೨-೨೧೮) (second pass S3, findings.tsv)
+- p. 424 (English line 7811) [H1]: `(U. Sū. 4-49)` → `(U. Sū. 4-489)` — ಸೃವೃಷಿಭ್ಯಾಂಕಿತ್ (ಉ. ಸೂ. ೪-೪೮೯) (second pass S3, findings.tsv)
+- p. 427 (English line 7868) [H26]: `same pāda (*nṝn pe*…); *ato roraplutād aplute*: *u*;` → `same pāda; *āto 'ṭi nityam*: nasalisation of the preceding *a*;` — ಆತೋಟಿ ನಿತ್ಯಮ್ ಎಂಬುದರಿಂದ ಪೂರ್ವದಲ್ಲಿರುವ ಅಕಾರಕ್ಕೆ ಅನುನಾಸಿಕತ್ವ (second pass S3, findings.tsv)

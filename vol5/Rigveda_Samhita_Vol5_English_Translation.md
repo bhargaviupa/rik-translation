@@ -7692,7 +7692,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **yuvamānaḥ**: *yu miśraṇe*; *vyatyayo bahulam*: *ātmanepada* *śānac*; *kartari śap*: *vyatyaya*: *śa* [= *śap*]; *bahulaṃ chandasi*: no *luk*; *aci śnudhātubhruvāṃ…*: *uvaṅ* (no *guṇa*, the *śa* being *ṅit*); *āne muk* (Pā. Sū. 7-2-82): *muk* to the *ajanta* stem; *tāsyanudātteṇ…* (Pā. Sū. 6-1-186): *anudātta*; the root's accent stays; the vowel after *v* is acute.
 - **ajaraḥ**: bahuvrīhi, *nañi jaramaramitramṛtāḥ* (Pā. Sū. 6-2-116): initial-acute of the last member.
 - **tiṣṭhati**: *ṣṭhā gatinivṛttau*; *pāghrādhmā…*: *tiṣṭha*; *nighāta*.
-- **acikradat**: *kadi kradi kladi āhvāne rodane ca*; *āgamānuśāsanam anityam*: no *num* though the root is *idit*; *hetumati ca*: *ṇic*; *luṅ* (Vedic), *tip*; *itaś ca*; *ṇiśridrusrubhyaḥ kartari caṅ* (Pā. Sū. 3-1-48): *caṅ*; *ṇeraniṭi*; *caṅi* (Pā. Sū. 6-1-11): doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*; *sanvallaghuni caṅpare 'nogloṕe*: *i* for the reduplicative (*sanyataḥ*); *saṃyogāt-para*: no lengthening; *nighāta*. **|| 2 ||**
+- **acikradat**: *kadi kradi kladi āhvāne rodane ca*; *āgamānuśāsanam anityam*: no *num* though the root is *idit*; *hetumati ca*: *ṇic*; *luṅ* (Vedic), *tip*; *itaś ca*; *ṇiśridrusrubhyaḥ kartari caṅ* (Pā. Sū. 3-1-48): *caṅ*; *caṅi* (Pā. Sū. 6-1-11): doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*; *sanvallaghuni caṅpare 'nogloṕe*: *i* for the reduplicative (*sanyataḥ*); *saṃyogāt-para*: no lengthening; *nighāta*. **|| 2 ||**
 
 ---
 
@@ -7726,9 +7726,9 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Translation of the bhāṣya:** "*Krāṇā*, doing the carrying of oblations; *rudrebhiḥ vasubhiḥ puro-hitaḥ*, placed in front by the Rudras and Vasus; *hotā*, the invoker of the gods; *niṣattaḥ*, seated at the sacrifice to receive the oblations; *rayiṣāṭ*, conqueror of the wealth of enemies; *amartyaḥ*, deathless; such the god, shining Agni, *vikṣu*, among the people, in worldly folk, *ratho na*, like a chariot, *āyuṣu*, among men, the sacrificers, *ṛñjasānaḥ*, being praised, *vi ṛṇvati*, attains in special measure *vāryā*, desirable wealth, *ānuṣak*, in succession; or: he himself receives the choice oblations."
 
-**Pratipadārtha** *(p. 419)* — "**krāṇā** — (the oblation) bearer; **rudrebhiḥ** — by Rudras; **vasubhiḥ** — by Vasus; **purohitaḥ** — honoured; **hotā** — the invoker of gods; **niṣattaḥ** — seated (at the sacrifice, taking the first place); **rayiṣāṭ** — the conqueror, who wins the wealth of enemies; **amartyaḥ** — deathless and; **devaḥ** — shining Agni; **vikṣu** — among people; **rathaḥ na** — as chariots are honoured; **āyuṣu** — among men who are sacrificers; **ṛñjasānaḥ** — praised; **vāryā** — desired oblations; **ānuṣak** — in succession; **vi ṛṇvati** — obtains in abundance, or he gives the desired wealth to the sacrificers."
+**Pratipadārtha** *(p. 419)* — "**krāṇā** — (the oblation) bearer; **rudrebhiḥ** — by Rudras; **vasubhiḥ** — by Vasus; **purohitaḥ** — honoured; **hotā** — the invoker of gods; **niṣattaḥ** — seated (at the sacrifice, taking the first place); **rayiṣāṭ** — the conqueror, who wins and distributes the wealth of enemies; **amartyaḥ** — deathless and; **devaḥ** — shining Agni; **vikṣu** — among people; **rathaḥ na** — as chariots are honoured; **āyuṣu** — among men who are sacrificers; **ṛñjasānaḥ** — praised; **vāryā** — desired oblations; **ānuṣak** — in succession; **vi ṛṇvati** — obtains in abundance, or he gives the desired wealth to the sacrificers."
 
-**Bhāvārtha** *(p. 419)* — "Agni, the carrier of oblations, honoured by the Rudras and Vasus, the invoker of the gods, who takes the first seat at the sacrifice, conqueror of the wealth of enemies, deathless and shining, is praised by sacrificers as chariots are honoured by people, and receives in abundance the oblations offered to him in succession and the desired ones."
+**Bhāvārtha** *(p. 419)* — "Agni, the carrier of oblations, honoured by the Rudras and Vasus, the invoker of the gods, who takes the first seat at the sacrifice, conqueror and distributor of the wealth of enemies, deathless and shining, is praised by sacrificers as chariots are honoured by people, and receives in abundance the oblations offered to him in succession and the desired ones."
 
 **English Translation (the source's own, p. 419)** — "The immortal and effulgent Agni, the bearer of oblations, placed in front of all by the Rudras and Vasus, the invoker (of the gods) who is present at a sacrifice and conquers the wealth (of the enemies), lauded by his worshippers, and admired like a chariot amongst mankind, accepts the oblations that are successively presented."
 
@@ -7745,16 +7745,16 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **niṣattaḥ** — "*Haviḥsvīkaraṇāya devayajane niṣaṇṇaḥ*: Agni is seated, ready to accept the oblation in all the sacrificial acts performed for the sake of the deities."
 - **rayiṣāṭ** — "From the root *saha abhibhave* [*sah*, with the sense of overcoming] comes *ṣāṭ*, 'one who overcomes'; here *rayi* is wealth of enemies: one who wholly destroys, wins and brings the property of enemies."
 - **vikṣu ratho na** — "As a chariot is the means of accomplishing wishes for people engaged in worldly transactions, so Agni is specially helpful to sacrificers in offering the share of the sacrifice to the deities they desire."
-- **āyuṣu** — "*Yajamānalakṣaṇeṣu manuṣyeṣu*: here the word *āyus* means 'man'; it is read so in the Nirukta (Ni. 2-3-12)."
+- **āyuṣu** — "*Yajamānalakṣaṇeṣu manuṣyeṣu*: here the word *āyus* means 'man'; it is read so in the Nirukta (Ni. 2-3-17)."
 - **vi ṛṇvati** — "From the root *ṛvi gatau*: it means 'obtains in a special way'."
 
 **Vyākaraṇa-prakriyā** *(pp. 420–421 — grammar pages, noted briefly)*
 - **krāṇā**: *ḍukṛñ karaṇe*; *śānac*; *bahulaṃ chandasi*: *u* of the characteristic dropped; being *apit sārvadhātuka*, *ṅit*: no *guṇa*; *yaṇ*; *āṭ kupvāṅ…*: *ṇatva*; *citaḥ*: end-acute; *supāṃ suluk*: lengthening of the vibhakti: *krāṇā*.
 - **niṣattaḥ**: *ṣadḷ viśaraṇagatyavasādaneṣu*; *kta*; *natva* barred by *nasattaniṣatta…* (Pā. Sū. 8-2-61) given by *nipāta*; *upasargāt sunoti…*: *ṣatva*; *gatir anantaraḥ*: prefix accent.
-- **rayiṣāṭ**: *saha abhibhave*; *chandasi sahaḥ* (Pā. Sū. 3-2-63): *ṇvi*; *ata upadhāyāḥ*: *vṛddhi*; *hoḍhaḥ*, *jhalāṃ jaśo 'nte*; *vānasaṃsaneyā*… optional *ṭ* or *ḍ*; *saheḥ sāḍaḥ saḥ* (Pā. Sū. 8-3-56): *ṣatva*: *rayiṣāṭ*.
-- **ṛñjasānaḥ**: *ṛji* in the sense of praise; *asānac*; *ṛñjivṛdhimandi sahibhyaḥ kit* (U. Sū. 2-84): *asānac* in the object sense; *kit*; *citaḥ*: end-acute.
-- **āyuṣu**: *āyavaḥ iti manuṣyanāma* (Ni. 2-3-12); *iṇ gatau*; *chandasīṇaḥ* (U. Sū. 1-2): *uṇ*; *ṇit*: *vṛddhi*; *ay*: *āyu*; suffix-accent: end-acute; locative plural.
-- **vāryā**: *vṛñ saṃbhaktau*; *ṛhalor ṇyat* (Pā. Sū. 3-1-124): *ṇyat*; *ṇit*: *vṛddhi*; *titsvaritam*: *svarita* is obtained, but *īḍavandavṛśaṃsa…* (Pā. Sū. 6-1-214): initial-acute; in the neuter plural *śi*, dropped by *śeś chandasi bahulam*.
+- **rayiṣāṭ**: *saha abhibhave*; *chandasi sahaḥ* (Pā. Sū. 3-2-63): *ṇvi*; *ata upadhāyāḥ*: *vṛddhi*; *hoḍhaḥ*, *jhalāṃ jaśo 'nte*; *vā 'vasāne*: optional *ṭ* or *ḍ*; *saheḥ sāḍaḥ saḥ* (Pā. Sū. 8-3-56): *ṣatva*: *rayiṣāṭ*.
+- **ṛñjasānaḥ**: *ṛji* in the sense of praise; *asānac*; *ṛñjivṛdhimandi sahibhyaḥ kit* (U. Sū. 2-244): *asānac* in the object sense; *kit*; *citaḥ*: end-acute.
+- **āyuṣu**: *āyavaḥ iti manuṣyanāma* (Ni. 2-3-17); *iṇ gatau*; *chandasīṇaḥ* (U. Sū. 1-2): *uṇ*; *ṇit*: *vṛddhi*; *ay*: *āyu*; suffix-accent: end-acute; locative plural.
+- **vāryā**: *vṛñ saṃbhaktau*; *ṛhalor ṇyat* (Pā. Sū. 3-1-125): *ṇyat*; *ṇit*: *vṛddhi*; *titsvaritam*: *svarita* is obtained, but *īḍavandavṛśaṃsa…* (Pā. Sū. 6-1-214): initial-acute; in the neuter plural *śi*, dropped by *śeś chandasi bahulam*.
 - **ṛṇvati**: *ṛvi gatau*; *idito num dhātoḥ*; *vyatyaya*: *saṃprasāraṇa*; *saṃprasāraṇāc ca*: earlier form; *laṭ*; *kartari śap*; *ṛvarṇān nasya ṇatvaṃ vācyam*; *nighāta*. **|| 3 ||**
 
 ---
@@ -7797,7 +7797,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 423**
 - **vātajūtaḥ** — "*Vātena jūtaḥ*: urged on by the wind. *Jū* is a mere Sautra root; it is not often seen in ordinary usage."
-- **tuviṣvaṇiḥ** — "*Mahāsvanaḥ*: at the time of receiving oblations Agni is making a *bhaṭabhaṭa* sound; therefore here Agni is called 'endowed with sound', and the wind is said to be the cause of that sound."
+- **tuviṣvaṇiḥ** — "*Mahāsvanaḥ*: at the time of receiving oblations Agni is making a *chaṭachaṭa* sound; therefore here Agni is called 'endowed with sound', and the wind is said to be the cause of that sound."
 - **sṛṇyā** — "*Saratīti sṛṇiḥ*: this word, from the root *sṛ gatau*, shows that Agni pervades and burns everything."
 - **vṛthā** — "Here the word *vṛthā* means 'without effort'."
 - **vanino vṛṣāyase** — "In burning the forest trees you advance like a bull, that is, rush forward: whatever you want to burn, you advance with only a little strength, without effort; for no accomplishment is your whole strength needed — this is the sense."
@@ -7807,8 +7807,8 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **Vyākaraṇa-prakriyā** *(pp. 423–424 — grammar pages, noted briefly)*
 - **vātajūtaḥ**: *jū* is a Sautra root; *kta*; *tṛtīyā karmaṇi* (Pā. Sū. 6-2-48): the first member's accent.
 - **vi tiṣṭhate**: *samavapravibhyaḥ sthaḥ* (Pā. Sū. 1-3-22): *ātmanepada* because of the prefix *vi*; *laṭ*; *ṭita ātmanepadānāṃ ṭer e*; *pāghrādhmā…*: *tiṣṭha*; *nighāta*.
-- **juhūbhiḥ**: *hu dānādanayoḥ*; *huvaḥ śluvac ca* (U. Sū. 2-21[?], the last digit not settled): *kvip*; the *ca* gives lengthening; *śluvad bhāva*: doubling; *hrasva*; *kuhoś cuḥ*: *j*; the suffix is wholly lost: *dhātoḥ*: end-acute.
-- **sṛṇyā**: *sṛ gatau*; *sṛvṛṣibhyāṃ kit* (U. Sū. 4-49): *ni*; *kit*: no *guṇa*; after *ṛ*: *ṇatva*.
+- **juhūbhiḥ**: *hu dānādanayoḥ*; *huvaḥ śluvac ca* (U. Sū. 2-218): *kvip*; the *ca* gives lengthening; *śluvad bhāva*: doubling; *hrasva*; *kuhoś cuḥ*: *j*; the suffix is wholly lost: *dhātoḥ*: end-acute.
+- **sṛṇyā**: *sṛ gatau*; *sṛvṛṣibhyāṃ kit* (U. Sū. 4-489): *ni*; *kit*: no *guṇa*; after *ṛ*: *ṇatva*.
 - **vṛṣāyase**: *upamānād ācāre*: *kyaṅ* after *vṛṣa* in the sense of behaving like; *ṅit*: *ātmanepada*; *yat* connected: no *nighāta*; the accent of *kyaṅ* remains, the *lasārvadhātuka* being anudātta.
 - **ema**: *iṇ gatau*; Uṇādi *manin* in the sense of instrument; *guṇa*; *eman*; neuter *su*: *svamor napuṃsakāt*: *su* lost; *nalopaḥ prātipadikāntasya*; *nit*: initial-acute. **|| 4 ||**
 
@@ -7865,7 +7865,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **sthātuḥ caratham ca** — "*Sthāvara* means trees and the like that stand without moving; *caratha*, the animals that move. Here it is also praised: 'having first burnt the stationary things, afterwards I shall burn the moving things'. In the word *caratham* the root *car* has the sense of motion. In this Rik a forest fire (*dāvāgni*) is described."
 
 **Vyākaraṇa-prakriyā** *(pp. 426–427 — grammar pages, noted briefly)*
-- **sāhvān**: *dāśvān sāhvān mīḍhvāṃś ca* (Pā. Sū. 6-1-12): irregularly formed ending in *kvasu*; *sāhvān + ava*: *dīrghād aṭi samānapāde* (Pā. Sū. 8-3-9): *n* becomes *ru* before the following *a* in the same pāda (*nṝn pe*…); *ato roraplutād aplute*: *u*; *bhobhago…*: *yatva*; *lopaḥ śākalyasya*.
+- **sāhvān**: *dāśvān sāhvān mīḍhvāṃś ca* (Pā. Sū. 6-1-12): irregularly formed ending in *kvasu*; *sāhvān + ava*: *dīrghād aṭi samānapāde* (Pā. Sū. 8-3-9): *n* becomes *ru* before the following *a* in the same pāda; *āto 'ṭi nityam*: nasalisation of the preceding *a*; *bhobhago…*: *yatva*; *lopaḥ śākalyasya*.
 - **vāti**: *vā gatigandhanayoḥ*, *adādi*; *laṭ*; *nighāta*.
 - **sthātuḥ**: *ṣṭhā gatinivṛttau*; Uṇādi *tu* by *kamimanijani…* (U. Sū. 1-73), by *bahula*; or *tṛc*: *sthātṛ*; then "after the stationary the moving one is afraid" is construed; the print calls *sthātuḥ* the ablative singular (*pañcamī*).
 - **caratham**: *cara gatibhakṣaṇayoḥ*; here in the sense of motion; Uṇādi *atha*; suffix-accent: middle-acute.
