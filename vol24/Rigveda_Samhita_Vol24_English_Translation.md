@@ -15732,7 +15732,7 @@ Metre: Mahāsaṃkti **NOTE**.
 
 ##### Gist of the bhāṣya
 
-I praise Agni, who is worthy of praise; I also praise Agni with a hymn in order to sacrifice. May Agni at our sacrifice anoint the gods with the oblations. The seer-like Agni, far-seeing, carries on between the two, heaven and earth, the messenger's work of carrying the oblations. May all our enemies be destroyed together, for नभंतां (*nabhaṃtāṃ*) is from the root of injury, and means that they are to be injured by Agni. The ending of the verse on page 347 is printed with the number 2 **NOTE**.
+I praise Agni, who is worthy of praise; I also praise Agni with a hymn in order to sacrifice. May Agni at our sacrifice anoint the gods with the oblations. The seer-like Agni, far-seeing, carries on between the two, heaven and earth, the messenger's work of carrying the oblations. May all our enemies be destroyed together, for नभंतां (*nabhaṃtāṃ*) is from the root of injury, and means that they are to be injured by Agni. **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 

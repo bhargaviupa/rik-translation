@@ -1,1 +1,2 @@
 - 2026-11-24 w0220: inserted missing `## Sūkta 32 (Maṇḍala 8)` heading (OCR head line ಸೂಕ್ತ-೨೨; the line below and the announcement print 32); dispatcher repair in volume file and work/w0220/en.md.
+- 2026-11-24 w0344 (p. 347, Sūkta 39 Ṛk 1 Gist): removed the translator remark 'The ending of the verse on page 347 is printed with the number 2', keeping the NOTE mark (dispatcher repair).
