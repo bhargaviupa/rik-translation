@@ -31108,6 +31108,301 @@ When riches are lodged with enemies, the praisers praise Indra and call upon tha
 
 > तमिच्चौ॒त्नैरार्यं॑ति॒ तं कृ॒तेभि॑श्चर्ष॒णयः॑ ।
 
+### Printed p. 740
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष इंद्रो॑ वरिव॒स्कृत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । च्यौत्नैः । आर्यंति । तं । कृतेभिः । चर्षणयुः ।  
+> विषः । इंद्रः । वरिवःकृत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमित्तमेवेंद्रं च्यौत्नैर्बलकरैः स्तोत्रैरार्यंति । आर्युमभिज्ञमीश्वरं कुर्वंति । चर्षणयो मनुष्याः कृतैः कर्मभिश्चार्यंति । एष एवंगुणक
+> इंद्रो वरिवस्कृद्धनस्य कर्ता भवति स्तोतृणां ॥
+
+##### Gist of the bhāṣya
+
+Men honour that very Indra with strengthening hymns (च्यौत्नैः (*cyautnaiḥ*) = बलकरैः (*balakaraiḥ*), "strength-giving"); they make him आर्यं (*āryaṃ*), one who is knowing and lord. The चर्षणयः (*carṣaṇayaḥ*) are men, and they honour him with कृतैः (*kṛtaiḥ*), rites. This Indra, so endowed, is वरिवस्कृत् (*varivaskṛt*), the maker of wealth for the worshippers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चर्षणयः (*carṣaṇayaḥ*)—human beings
+- तमित् (*tamit*)—that very Indra
+- च्यौत्नैः (*cyautnaiḥ*)—with strength-giving praises
+- कृतेभिः (*kṛtebhiḥ*)—with rites
+- आर्यंति (*āryaṃti*)—they worship and make (him) lord
+- एषः (*eṣaḥ*)—this one, possessed of such greatness
+- इंद्रः (*iṃdraḥ*)—Indra
+- वरिवस्कृत् (*varivaskṛt*)—is the accomplisher of wealth
+
+##### भावार्थ (Bhāvārtha)
+
+Human beings worship that very Indra with rites accompanied by strength-giving praises and make him lord. This Indra, possessed of such greatness, is the accomplisher of wealth.
+
+##### English translation
+They honour him with animating (hymns); men (honour) him with sacred rites, for Indra is the giver of wealth.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ ब्र॒ह्मेंद्र॒ ऋषि॒रिंद्रः॑ पु॒रू पु॑रुहू॒तः ।  
+> म॒हान्म॒ैहिभिः॒ शची॑भिः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । ब्रह्मा । इंद्रः । ऋषिः । इंद्रः । पुरु । पुरुहूतः ।
+
+### Printed p. 741
+
+> महान् । महीभिः । शचीभिः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो ब्रह्मा परिवृढः सर्वेभ्योऽधिकः । स एवेंद्र ऋषिर्द्रषा
+> सर्वस्यार्यजातस्य । स इंद्रः पुरु बहुलं पुरुहूतो बहुभिराहूतश्च महीभिर्महतीभिः शचीभिः क्रियाभिर्वत्रवधादिरूपाभिर्महान्प्रभूतो भवति ॥
+
+##### Gist of the bhāṣya
+
+This Indra is ब्रह्मा (*brahmā*), परिवृढः (*parivṛḍhaḥ*), superior to all. He is the ऋषिः (*ṛṣiḥ*), the seer of the whole Āryan race. That Indra is पुरु (*puru*), abundantly, and पुरुहूतः (*puruhūtaḥ*), invoked by many; and with great (महीभिः (*mahībhiḥ*)) शचीभिः (*śacībhiḥ*), deeds such as the slaying of Vṛtra, he is महान् (*mahān*), mighty.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—this Indra
+- ब्रह्मा (*brahmā*)—is the chief deity of exceedingly vast form
+- इंद्रः (*iṃdraḥ*)—this Indra
+- ऋषिः (*ṛṣiḥ*)—is the seer of all
+- इंद्रः (*iṃdraḥ*)—Indra
+- पुरु (*puru*)—exceedingly
+- पुरुहूतः (*puruhūtaḥ*)—one called by many
+- महीभिः (*mahībhiḥ*)—great
+- शचीभिः (*śacībhiḥ*)—endowed with deeds such as the slaying of Vṛtra
+- महान् (*mahān*)—endowed with greatness
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra is the chief deity, named Brahmā and of vast form. This Indra is the seer with supernatural knowledge. He is exceedingly worthy of the invocation of many, endowed with great deeds such as the slaying of Vṛtra, and possessed of greatness.
+
+##### English translation
+Indra is Brahma, Indra is the Rishi: Indra is the much-invoked of
+of many, mighty with mighty deeds.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सः स्तोम्यः॒ स हव्यः॑ स॒त्यः सत्वा॑ तुविकू॒र्मिः ।  
+> एक॑श्चि॒त्सन्न॒भिभू॑तिः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । स्तोम्यः । सः । हव्यः । सत्यः । सत्वा । तुविऽकूर्मिः ।  
+> एकः । चित् । सन् । अभिभूतिः ॥ ८ ॥
+
+### Printed p. 742
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स पूर्वोक्त इंद्रः स्तोम्यः स्तोमार्हः स्तुत्यर्हः । स एव हवो
+> ह्वातव्यश्च सत्यः सत्सु साधुरवितथस्वभावः सत्वा शत्रूणामवसादयिता तुविकूर्मिर्बहुकर्मा । यत एवातः कारणादेकश्चित्सन्नसहायोऽपि भवन्नभिभूतिः शत्रूणामभिभविता तिरस्कर्ता भवति ॥
+
+##### Gist of the bhāṣya
+
+That previously mentioned Indra is स्तोम्यः (*stomyaḥ*), worthy of praise. He is also हव्यः (*havyaḥ*), to be invoked; सत्यः (*satyaḥ*), good among the good, of unfailing nature; सत्वा (*satvā*), the one who brings down enemies; तुविकूर्मिः (*tuvikūrmiḥ*), of many deeds. For this reason, though एकश्चित्सन् (*ekaścitsan*), being alone and without helper, he is अभिभूतिः (*abhibhūtiḥ*), the overcomer and subduer of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that Indra
+- स्तोम्यः (*stomyaḥ*)—is worthy of praise
+- सः (*saḥ*)—he
+- हव्यः (*havyaḥ*)—is also worthy of invocation
+- सत्यः (*satyaḥ*)—of true nature
+- सत्वा (*satvā*)—destroyer of enemies
+- तुविकूर्मिः (*tuvikūrmiḥ*)—doer of abundant deeds, Indra
+- एकश्चित्सन् (*ekaścitsan*)—being without a second
+- अभिभूतिः (*abhibhūtiḥ*)—is the vanquisher of enemies
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra is worthy of praise by all. He is also worthy of invocation. Indra, true in nature, destroyer of enemies and doer of abundant deeds, is, without a second, the vanquisher of enemies.
+
+##### English translation
+He is to be praised, he is to be invoked, he is true, powerful, the doer
+of many deeds ; he, being single, is the overcomer (of his foes),
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॒र्केभि॒स्तं साम॑भि॒स्तं गा॑य॒त्रैश्च॑र्ष॒णयः॑ ।  
+> इंद्रं॑ वर्धंति क्षि॒तयः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अर्केभिः । तं । सामभिः । तु । गायत्रैः । चर्षणयः ।  
+> इंद्रं । वर्धंति । क्षितयः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चर्षणयो द्रष्टारो मंत्राणां क्षितयो मनुष्यास्तमिंद्रमर्केभिरर्चन-
+
+##### Gist of the bhāṣya
+
+The चर्षणयः (*carṣaṇayaḥ*), the seers of the mantras, and the क्षितयः (*kṣitayaḥ*), men, strengthen that Indra with अर्केभिः (*arkebhiḥ*), mantras
+### Printed p. 743
+
+> साधनैर्यजूरूपैर्मंत्रैर्वर्धंति । वर्धयंति । तथोद्घातारः सामभिर्गानविशिष्टैर्मंत्रैस्तं वर्धयंति । तथा गायत्रैर्गायत्रादिछंदोयुक्तैः शस्त्ररूपैरप्रगीतैर्मंत्रैस्तमेवेंद्रं हॊतारो वर्धयंति ॥
+
+##### Gist of the bhāṣya
+
+in the form of Yajus, which are instruments of worship. Likewise the Udgātṛs strengthen him with सामभिः (*sāmabhiḥ*), mantras distinguished by song; and the Hotṛs strengthen that same Indra with गायत्रैः (*gāyatraiḥ*), unsung mantras in the form of śastras, furnished with metres such as Gāyatrī.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चर्षणयः (*carṣaṇayaḥ*)—the seers of mantras
+- क्षितयः (*kṣitayaḥ*)—men
+- तं (*taṃ*)—that Indra
+- अर्केभिः (*arkebhiḥ*)—with worshipful mantras
+- वर्धंति (*vardhaṃti*)—they cause to flourish
+- सामभिः (*sāmabhiḥ*)—with Sāma songs
+- तं (*taṃ*)—that same Indra the Udgātṛs cause to flourish
+- गायत्रैः (*gāyatraiḥ*)—with Sāmans such as the Gāyatra
+- तं इंद्रं (*taṃ iṃdraṃ*)—that same Indra the Hotṛs praise and cause to flourish
+
+##### भावार्थ (Bhāvārtha)
+
+Men who are seers of mantras cause that Indra to flourish with worshipful mantras. With Sāma songs the Udgātṛs make that same Indra flourish. With Gāyatra and other Sāmans the Hotṛs praise that same Indra and make him flourish.
+
+##### English translation
+Men who are cognizant (of sacred texts) magnify Indra with pious precepts, with sacred songs, and with prayers.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒णे॒तारं॒ वस्यो॒ अच्छा॒ कर्ता॑रं॒ ज्योतिः॑ स॒मत्सु॑ ।  
+> सा॒स॒ह्वांसं॑ यु॒धामित्रा॑न् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रऽनेतारं । वस्यः । अच्छ । कर्तारं । ज्योतिः । समत्सु ।  
+> सासह्वांसं । युधा । अमित्रान् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वस्यो वसीयः प्रशस्तं वसु धनमच्छाभिमुख्येन प्रेणेतारं प्रापयितारं
+> समत्सु संग्रामेषु शत्रुनिरसनेन ज्योतिः प्रकाशं जयलक्षणं कर्तारं करणशीलं ॥
+
+##### Gist of the bhāṣya
+
+वस्यः (*vasyaḥ*) means better, excellent wealth. (They strengthen Indra) who is प्रणेतारं (*praṇetāraṃ*), the bringer of it अच्छ (*accha*), directly toward them; who in समत्सु (*samatsu*), battles, by driving off enemies is कर्तारं (*kartāraṃ*), the maker, by nature, of ज्योतिः (*jyotiḥ*), light in the form of victory
+### Printed p. 744
+
+> करोतेस्ताच्छिलिकस्तृन् ॥ कुत इत्यत आह, युधायुधेनामित्राञ्छत्रून् ससह्यांसमभिभूतवंतं । एवं गुणकमिंद्रं वर्धयंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+(कर्तारं (*kartāraṃ*) is from the root कृ (*kṛ*) with the affix of habitual action). Whence? He answers: with युधा (*yudhā*), battle, he has overcome the अमित्रान् (*amitrān*), enemies. The words "they strengthen Indra so endowed" are to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वस्यः (*vasyaḥ*)—praiseworthy wealth
+- अच्छ (*accha*)—directly
+- प्रणेतारं (*praṇetāraṃ*)—the one who brings
+- समत्सु (*samatsu*)—in battles
+- ज्योतिः (*jyotiḥ*)—the light in the form of victory
+- कर्तारं (*kartāraṃ*)—the one who produces
+- युधा (*yudhā*)—by battle
+- अमित्रान् (*amitrān*)—enemies
+- ससह्यांसं (*sasahyāṃsaṃ*)—the one who defeats; Indra, such as he, (they strengthen)
+
+##### भावार्थ (Bhāvārtha)
+
+The worshippers strengthen Indra, who brings praiseworthy wealth directly, who produces the light of victory in battle, and who defeats enemies in battle.
+
+##### English translation
+Him (they magnify) who brings before them the spoil, who gives
+lustre in combats, who overcomes enemies in battle.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॒ पप्रिः॑ पारयाति स्व॒स्ति ना॒वा पु॑रुहू॒तः ।  
+> इंद्रो॒ विश्वा॒ अति॒ द्विषः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । पप्रिः । पारयाति । स्वस्ति । नावा । पुरुहूतः ।  
+> इंद्रः । विश्वाः । अति । द्विषः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पप्रिः प्राता पूरयिता पुरुहूतो बहुभिराहूतः स इंद्रो विश्वाः सर्वा
+> द्विषो द्वेष्ट्रीः प्रजा नोऽस्मान्नाना तरणसाधनेन स्वस्ति क्षेमेणाति पारयाति ।
+> अतिपारयतु ॥
+
+##### Gist of the bhāṣya
+
+पप्रिः (*papriḥ*) is the protector and fulfiller; पुरुहूतः (*puruhūtaḥ*) is one invoked by many. That Indra carries us across विश्वाः (*viśvāḥ*), all द्विषः (*dviṣaḥ*), hostile peoples, to welfare (स्वस्ति (*svasti*), safety), by a means of crossing, as by a boat (नावा (*nāvā*)). पारयाति (*pārayāti*) is to be understood as "let him carry across".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नाना (*nānā*)—like crossing the sea by a ship
+- पप्रिः (*papriḥ*)—fulfiller of desires
+- पुरुहूतः (*puruhūtaḥ*)—
+### Printed p. 745
+ worthy of the invocation of many
+- सः इंद्रः (*saḥ iṃdraḥ*)—that same Indra
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—from enemies
+- स्वस्ति (*svasti*)—in safety
+- नः (*naḥ*)—us
+- अति पारयति (*ati pārayati*)—may he carry across
+
+##### भावार्थ (Bhāvārtha)
+
+As one crosses the sea by a ship, may that same Indra, fulfiller of desires and worthy of the invocation of many, carry us safely across all enemies.
+
+##### English translation
+May Indra, the fulfiller (of desires), the invoked of many, bear us beyond (the reach of) all our enemies, to welfare, as if by a ship (acrosss the sea).
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं न॑ इंद्र॒ वाजे॑भिर्दश॒स्या च॑ गातु॒या च॑ ।  
+> अच्छा॑ च नः सु॒म्मं ने॑षि ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । नः । इंद्र । वाजेभिः । दशस्य । च । गातुऽय । च ।  
+> अच्छ । च । नः । सुम्मं । नेषि ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स तादृशस्त्वं नोऽस्मभ्यं वाजेभिर्बलैर्दशस्य च ! धनं प्रयच्छ च
+> दशस्यतिर्दानकर्मा । गातुय च । गातुं मार्गमस्मभ्यमिच्छ च ॥ गातुशब्दांच्छदसि
+> परेछ्छायामिति क्यच् । न छंदस्यपुत्रस्येति दीर्घनिषेधः ॥ तथा नोऽस्मान् सुम्मं;
+> सुखं चाच्छ नेषि । अभिप्रायय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, such as you are, give us (दशस्य (*daśasya*)) wealth with वाजेभिः (*vājebhiḥ*), strengths; दशस्यति (*daśasyati*) is a root meaning giving. And गातुय (*gātuya*): desire for us गातुं (*gātuṃ*), the path. (Grammatical remarks on गातु (*gātu*) omitted here.) Likewise lead us fully (*accha neṣi*) to सुम्मं (*summaṃ*), happiness; अभिप्रायय (*abhiprāyaya*) is the gloss.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—well-known
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- वाजेभिः (*vājebhiḥ*)—wealth together with food
+- दशस्य च (*daśasya ca*)—give
+- गातुय च (*gātuya ca*)—make us also adherents of the right path
+- नः (*naḥ*)—to us
+- सुम्मं च (*summaṃ ca*)—happiness also
+- अच्छ (*accha*)—fully
+- नेषि (*neṣi*)—provide
+
 ---
 
-**Progress note:** Done through printed p. 739. pp. 734-739 (batch API)
+**Progress note:** Done through printed p. 745. pp. 740-745 (batch API)
