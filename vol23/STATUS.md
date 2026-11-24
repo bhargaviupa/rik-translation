@@ -13,10 +13,13 @@ Supplied by the user (Nov 24 2026) as two machine-read markdown files, `rig_23_1
 ## Word-meaning check (Nov 24 2026; REQUIREMENTS C4/D18)
 `pratipada_check.py 23 --source`: Pratipadārtha words ok 3,624; `fix-certain` 101 (66 pass the apply filters, 28 are not one letter / change an ending, 7 not found once); Ṛks not matched to the reference ('noref'): 253 of the Pratipadārtha words, 624 of the Pada words (< a third: layout fine). **Not applied yet**: waiting for the user's yes (`python3 tools/rv/pratipada_apply.py 23`, then `--write`).
 
+## Preface
+Translated by `api_front.py 23 2 94 preface` (one request, $0.040, checks PASS, 0 NOTE) and installed Nov 24 2026 (logged in `review/repair_log.md`). Word-meaning corrections: 66 applied Nov 24 (user's yes), check re-run: 3,690 ok (+66), no new mismatch.
+
 ## Plan (free)
 `api_batch.py plan 23 --windows 150`: 129 windows, about 849 pages, 2,774,590 input tokens, estimate **$9.7–19.4** (input $2.77 + output $6.94–16.65). Not submitted.
 
 ## Open items
-1. (user) yes to apply the 66 certain word-meaning corrections; budget answers (what expires Nov 25, amount left, ceiling).
-2. (dispatcher) preface (`api_front.py 23 …`), then the body in stages.
+1. (user) budget stated Nov 24: API $25 and the agent budget (66%) both expire Nov 25; yes to the body estimate not given yet.
+2. (dispatcher) the body in few, large stages.
 3. (dispatcher) check the 86 printed numbers without a page of their own.

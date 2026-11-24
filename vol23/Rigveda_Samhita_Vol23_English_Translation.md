@@ -1,5 +1,32 @@
 # Rigveda Samhita — Volume 23 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+Although many deities are praised in the Vedas, and especially in the Ṛgveda, the chief among them are Indra, Agni, the Viśvedevas, the Aśvins, Dyāvāpṛthivī, Uṣas, the Maruts, Mitra, Varuṇa and Āditya. Even among these deities, no other deity has the position that Indra has. The position that Śiva and Viṣṇu hold in the Purāṇas and the like, and the rank and standing that Brahman (Parabrahman) holds in Vedānta, belong to Indra in the Ṛgveda. Indra is praised in many ways, for his qualities and his deeds of valour, as one who protects the good and also punishes the wicked. When the seers praise Indra, they pray that he grant them, as the reward for their praise and for sacrifices and other good rites, food and the like, wealth, a house, heroic sons and protection from the wicked; and that he destroy the Asuras, who are wicked and who create obstacles to the performance of good rites.
+
+There are many ancient accounts that, when destroying the Asuras, he kills those Asuras who fight with deceit, fraud and crooked means by fighting them with the very same kind of means. To give an example, the cleverness Indra used when he had to destroy the Asura named Namuci is a delight. We shall relate it here briefly. Namuci was a demon. Many Ṛks of the Ṛgveda indicate that he was a renowned chief among the early inhabitants of this land who are called Dāsas. Since he was extremely strong, it was very hard for Indra to fight and conquer him. On this subject the destruction of Namuci is indicated in the Ṛks Ṛ. Saṃ. 1-53-7; 2-14-5; 7-19-5; 10-23-7; 5-30-7; 5-30-8; 6-20-6; 8-14-13, and in addition the Taittirīya Brāhmaṇa (Kṛṣṇa Yajurveda) gives a somewhat fuller account of it. That is what we have written here.
+
+इंद्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । तौ समलभेतां । सोऽस्मादभितुनतरोऽभवत् । सोऽब्रवीत् । संधाग्ं संदधावहै । अथ त्वावप्रक्ष्यामि । न मा शुष्केण नार्द्रॆण हनः । न दिवा न नक्तमिति । स एतमपां फेनमसिंचत् । न वा एष शुष्को नार्दो व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तं । तस्यैतस्मिन् लोके । अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तत । मित्रद्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग् स्यपाहत । यदपामार्गहोमो भवति । रक्षसामपहत्यै ॥ (*iṃdro vṛtragṃ hatvā | asurān parābhāvya | namucimāsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tau samalabhetāṃ | so 'smādabhitunataro 'bhavat | so 'bravīt | saṃdhāgṃ saṃdadhāvahai | atha tvāvaprakṣyāmi | na mā śuṣkeṇa nārdrèṇa hanaḥ | na divā na naktamiti | sa etamapāṃ phenamasiṃcat | na vā eṣa śuṣko nārdo vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etaddivā na naktaṃ | tasyaitasmin loke | apāṃ phenena śira udavartayat | tadenamanvavartata | mitradrugiti | sa etānapāmārgānajanayat | tānajuhot | tairvai sa rakṣāg syapāhata | yadapāmārgahomo bhavati | rakṣasāmapahatyai ‖*) (Tai. Brā. 1-7-1-6, 7)
+
+### Printed p. ii
+
+Formerly, after Indra had killed the Asura Vṛtra, he also destroyed other demons. But he could not conquer the demon Namuci. This one was extremely powerful and yielded to no kind of weapon. So Indra thought that he must conquer him by his own bodily strength and began a wrestling-fight with him. Yet the more they fought, the more Namuci's strength grew. Indra could not escape his grip. Then Indra asked Namuci to release him, and the Asura addressed Indra: "O Indra, if I am to release you, you must do as I say. Let us now make a pact with each other. You may again wish to fight me by some stratagem and kill me. On such an occasion the weapon you use to kill me must be neither wet nor dry. You must not kill me by day, nor by night. If you agree to these conditions, I shall release you." Indra agreed, "So be it", freed himself from his grip, and began to think how he might conquer him.
+
+After some time, when Indra was wandering on the seashore, a device occurred to his mind: the foam of the sea fell within his sight. This foam is neither wet nor dry. "Therefore I shall make this my weapon and destroy Namuci. When the night has passed and the dawn begins, before the sun rises it is fully bright. That time, since it is not dark, is not night, and since the sun has not risen, is not day. If I fight Namuci at such a time and kill him with a weapon made of water-foam, I shall not have broken my word." Having resolved thus, he fought Namuci accordingly and cut off his head with that foam. Even so the demon did not die, and came chasing Indra in order to kill him. "O Indra, betrayer of a friend, stop, stop! You gave your word that you would not kill me, and now you have done such a deed of betrayal of a friend. Even now I shall not leave you unkilled," he said. Then Indra, frightened, created a special tree called the apāmārga and, for the increase of his vigour, made an offering in the fire with its sticks. By that Indra's strength increased and he destroyed that Namuci. Therefore it is said that those who wish to escape the afflictions of demons should make offerings with apāmārga sticks. Such delightful ancient accounts and episodes are abundant in the Vedas. The same, with slight variations, are described at length in the Purāṇas and the like.
+
+To publish such a Ṛgveda Saṃhitā — most ancient, most profound, most vast, and the foundation of all the śāstras — in simple Kannada, together with a critical translation, is no easy task. Nevertheless, with the weighty purpose that through such a great undertaking all people, from scholars to the unlearned, may gain growth of knowledge
+
+### Printed p. iii
+
+and become worthy of God's grace, His Highness Śrī Jayacāmarājendra Oḍeyar Bahadur, G.C.B., G.C.S.I., sovereign of the throne of Karnāṭaka, patron of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, and his Government, are encouraging this publication, which demands great expense, with their generous patronage; this must be called the good fortune of the multitude of the people of Karnāṭaka. I pray that Sarveśvara, the Vedapuruṣa, grant to our generous-minded sovereign, his family, the princesses, the prince bearing the auspicious name Śrīkaṇṭhadatta Nṛsiṃharāja Oḍeyar, and all the people as well, all worldly fruits — long life, health, prosperity and every kind of wealth — and also spiritual knowledge of the highest kind, ever more abundantly.
+
+Mysore,
+Vijaya year, Śrāvaṇa Śukla Ekādaśī, Friday
+Dated 21-8-1953
+Translator,
+H. P. Venkata Rao,
+Āsthāna Mahāvidvān
+
 ---
 
 **Progress note:** Done through printed p. 0; nothing translated yet.
