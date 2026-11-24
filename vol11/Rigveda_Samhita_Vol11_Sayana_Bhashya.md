@@ -2029,9 +2029,9 @@ He abides having heaven as his station. Or else: of this showerer, the well-know
 <a id="SBh-1.141.3.2"></a>
 **SBh 1.141.3.2**
 
-> करोतेश्छान्दसे लुङि : मन्त्रे घस० ) इति च्लेर्लुक् । व्यत्ययेन अन्तादेशः ॥
+> करोतेश्छान्दसे लुङि : मन्त्रे घस० ) इति च्लेर्लुक् । व्यत्ययेन अन्तादेशः ॥
 
-*karoteśchāndase luṅi : mantre ghasa0 ) iti clerluk | vyatyayena antādeśaḥ ‖*
+*karoteśchāndase luṅi : mantre ghasa0 ) iti clerluk | vyatyayena antādeśaḥ ‖*
 
 From the root kṛ, in the Vedic luṅ, by the rule मन्त्रे घस० (*mantre ghasa0*), the one beginning "in a mantra, after ghas", there is elision of cli. By transposition there is the substitution of ant.
 
