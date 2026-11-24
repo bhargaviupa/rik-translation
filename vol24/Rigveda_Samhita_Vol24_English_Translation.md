@@ -29156,6 +29156,274 @@ Maṇḍala 8, Anuvāka 6, Sūkta 56; Aṣṭaka 6, Adhyāya 4, Varga 27. Number
 
 O Vṛka, cutter of enemies, Indra, your own wealth has been seen hostile to the dasyu, the harasser, the enemy. Taken away by an enemy, it does not serve for his benefit but arises for a return injury. That is the meaning. What kind of wealth? अह्वयं (*ahvayaṃ*), shameless, that is, bold in slaying the enemy. Further, your strength, by its vastness, is like the heaven, the sky. Therefore, you, the most excellent, I **NOTE**.
 
+### Printed p. 641
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृक (*vṛka*)—O Indra, cutter of enemies
+- ते (*te*)—your
+- अह्रयं (*ahrayaṃ*)—not afraid of the enemy
+- राधः (*rādhaḥ*)—wealth
+- दस्यवे (*dasyave*)—to the violent enemy
+- प्रत्यदर्शि (*pratyadarśi*)—has appeared hostile
+- शवः (*śavaḥ*)—your strength also
+- प्रथिना (*prathinā*)—by its growth
+- द्यौः न (*dyauḥ na*)—spreads as far as the sky and is extended
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, cutter of enemies, your wealth, which is not afraid of the enemy, has appeared hostile to the violent enemy. Your strength also, by its growth, spreads as far as the sky and is extended.
+
+##### English translation
+You are a bull to the Dashus, your inexhaustible wealth has been perceived. Your forces spread to the Heaven.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दश॒ मह्यं॑ पौतक्र॒तः स॒हस्रा॒ दस्य॑वे॒ वृकः॑ ।  
+> नित्या॑द्रा॒यो अ॑मंहत ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दश । मह्यं । पौतक्रतः । सहस्रा । दस्यवे । वृकः ।  
+> नित्यात् । रायः । अमंहत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पौतक्रतः पवित्रकर्मवन्निंद्र मह्यं मदर्थं दश सहस्रा अयुतसंख्याकान् दस्यून् उपक्षयित्थन् शत्रून् वृकः निवृत्तवान् छिन्नवानसि । अत एव नित्यात्
+> शाश्वतात् त्वत्तः भीताः संतस्ते शत्रवः रायः धनानि अमंहत अदुः मह्यं ।
+> मंहतिर्दानकर्मा तत्र तस्य पाठात् ॥
+
+##### Gist of the bhāṣya
+
+O Indra of pure deeds, for me, for my sake, you have cut down and destroyed ten thousand, that is, a number of ten thousand, दस्यून् (*dasyūn*), destroyers, enemies. Therefore, being afraid of you, the eternal one, those enemies gave to me रायः (*rāyaḥ*), riches. The verb maṃh has the sense of giving, since it is so read in that place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पौतक्रतः (*pautakrataḥ*)—O Indra of purified deeds
+- मह्यं (*mahyaṃ*)—for me
+- दश सहस्रा (*daśa sahasrā*)—ten thousand in number
+- दस्यवे (*dasyave*)—violent enemies
+- वृकः (*vṛkaḥ*)—you have cut down and destroyed
+- नित्यात् (*nityāt*)—the enemies who feared you, who are of eternal state
+- रायः (*rāyaḥ*)—all the riches
+- अमंहत (*amaṃhata*)—offered to me
+
+### Printed p. 642
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of purified deeds, for me you have cut down and destroyed ten thousand violent enemies. The enemies who feared you, who are of eternal state, offered all their riches to me.
+
+##### English translation
+You are a bull to the Dashus, give me ten thousand from your permanent wealth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं मे॑ गर्द॒भानां॑ श॒तमूर्णा॑वतीनां ।  
+> श॒तं दा॒सा अति॒ स्रजः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । मे । गर्दभानां । शतं । ऊर्णावतीनां ।  
+> शतं । दासान् । अति । स्रजः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> किंच हे इंद्र त्वत्तो भीतास्ते मे मह्यमृषये पृषध्रिनाम्ने (पृषध्र)
+> गर्दभानां रासभानां शतं । अमंहत अदुः इति पूर्वमंत्रगतेनान्वयः सर्वत्र !
+> अथ च ऊर्णावतीनां मेषीनां शतमदुः । तथा शतान् शतसंख्याकान् दासान्
+> भृत्यान् अति अतिशयिताः स्रजो मालाश्च अदुः । एवंप्रभावस्त्वां (प्रभावं श्वां)
+> सौमात्यर्थः । यद्वा उभयोर्मंत्रयोरयमर्थः । पौतक्रतः । पूते पवित्रॆ
+> स्थाने क्रतः पादविक्षेपो यस्याः सा पूतक्रता अदितिः । पवित्रदेशे पादन्यासः
+> आदितेरुचित एव । दृष्टिपूतं न्यसेत् पादं इति वचनात् । तस्या अपत्यं पौतक्रत
+> इंद्रः । दस्यवे । दस्युः कर्मोपक्षयिता तमःसंघः । तं हंतुं वृकश्चंद्रमाः सन
+> (सन्) नित्यात् अनुपक्षीणात् स्वकोशात् सकाशात् दश सहस्रा आयुतसंख्याकानि
+> रायः धनानि मह्यं पृषध्रनाम्ने अमंहत प्रादात् । किंच गर्दभमेषीदासमालाशतान्यपि मे मह्यं स एव प्रादात् इति । वृकश्चंद्रमा भवति (निरु. ५-२०)
+> इति यास्कः ॥
+
+##### Gist of the bhāṣya
+
+Further, O Indra, those afraid of you gave to me, the seer named Pṛṣadhri **NOTE**, a hundred asses. The connection with "gave" in the previous mantra holds everywhere. And they gave a hundred ewes, sheep with wool, likewise a hundred servants, and excellent garlands. Such is your power; this is the meaning **NOTE**.
+
+Or else the meaning of the two mantras is this. पौतक्रतः (*pautakrataḥ*): Pūtakratā is Aditi, the one whose step, kratu, is set in a pure, holy place. The setting of the foot in a holy place is fitting for Aditi, by the saying दृष्टिपूतं न्यसेत् पादं (*dṛṣṭipūtaṃ nyaset pādaṃ*) **GLOSS**. Her offspring is Pautakrata, Indra. दस्यवे (*dasyave*): the dasyu is the mass of darkness that harms ritual action. To slay it, Indra, being the Vṛka, the moon, gave to me, the one named Pṛṣadhra, from his eternal, undiminished own treasury ten thousand, that is, a number of ten thousand, riches. Further, he alone gave to me also hundreds of asses, sheep, servants and garlands. So Yāska says: वृकश्चंद्रमा भवति (*vṛkaścaṃdramā bhavati*) (Ni. 5-20) **GLOSS**.
+
+### Printed p. 643
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—(O Indra, the enemies who feared you) to me
+- शतं (*śataṃ*)—a hundred in number
+- गर्दभानां (*gardabhānāṃ*)—gave asses (mules)
+- शतं (*śataṃ*)—a hundred in number
+- ऊर्णावतीनां (*ūrṇāvatīnāṃ*)—gave sheep full of wool
+- शतं (*śataṃ*)—a hundred in number
+- दासान् (*dāsān*)—gave servants
+- अति स्रजः (*ati srajaḥ*)—gave excellent garlands too
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the enemies who feared you gave me a hundred asses. They gave a hundred sheep with wool. They gave a hundred servants. They offered excellent garlands too.
+
+##### English translation
+Give me oue hunbred asses, one hundred worthy sheep and one hundred slaves.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्रो॒ अपि॒ प्राणी॑यत पू॒तक्र॑ताय्कॆ॒ व्य॑क्ता ।  
+> अश्वा॑ना॒मिन्न यू॒थ्यां॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत्रो इति । अपि । प्र । अनीयत । पूतक्रताय्कॆ । विअक्ता ।  
+> अश्वानां । इत् । न । यूथ्यां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> किंच व्यक्ता विविधं गंता नानादेशेषु प्रचलन् इंद्रः तत्र स्वर्गे वर्तमानैः
+> (? वर्तमानाय्कॆ) पूतक्रताय्कॆ एतन्नाम्ने ( ? न्नाम्नै ) समात्रॆऽपि (स्वमात्रॆऽपि)
+> प्रानीयत प्रापितवान् । किमित्युच्यते । अश्वानां वडबानां यूथ्यां संहतिं । न
+> केवलं मह्यमेव प्रादादपि तु स्वजनन्या अपि वडवावृंदं प्रापितवान् । इतीयानिंद्रः समर्थ इति भावः । इत् न इति निपातद्वयमनर्थकं ॥
+
+### Printed p. 644
+
+##### Gist of the bhāṣya
+
+Further, व्यक्ता (*vyaktā*), one who goes variously, Indra, moving about in different regions, brought, प्रानीयत (*prānīyata*), in heaven, to Pūtakratā, one of this name, and also to his own mother **NOTE**, a herd of mares. He says what it was: the herd, the multitude, of mares. Not only to me did he give; he also brought a herd of mares to his own mother. Thus Indra is capable; this is the sense. The two particles इत् (*it*) and न (*na*) are without meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- व्यक्ता (*vyaktā*)—Indra, who has various wanderings
+- तत्र (*tatra*)—who is in heaven
+- पूतक्रताय्कॆ (*pūtakratāykè*)—to the one called Pūtakratā
+- अपि (*api*)—and also to his own mother
+- अश्वानां (*aśvānāṃ*)—of horses
+- यूथ्यां (*yūthyāṃ*)—the herd
+- प्रानीयत (*prānīyata*)—brought and gave
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who has various wanderings, brought and gave a herd of horses to the one called Pūtakratā who is in heaven, and also to his own mother.
+
+##### English translation
+To the Putakrita has been brought mare, well-crested one unlike any in the herd.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अचे॑त्य॒ग्निश्चि॑कि॒तुर्ह॑व्य॒वाट्स सु॒मद्र॑थः ।  
+> अ॒ग्निः शु॒क्रेण॑ शो॒चिषा॑ बृ॒हत्सूरो॑ अरोचत दि॒वि सूर्यो॑  
+> अरोचत ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अचेति । अग्निः । चिकितुः । हव्यवाट् । सः । सुमत् ९रथः ।  
+> अग्निः । शुक्रेण । शोचिषा । बृहत् । सूरः । आरोचत । दिवि । सूर्यः । आरोचत॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आथानयाग्नि सूर्यौ स्तूयेते । स प्रसिद्धोऽग्निः चिकिशुः चेतनावतो
+> यजमानस्य । कर्मणि षष्ठि । चेतनावंतं यजमानं अचेति जानाति । कीद्वतः सः ।
+> हव्यवाट् हविषां वोढा सुमद्रथः स्वयमेव रंहणस्वभावः । ७मत् स्वयमित्यर्थः (निरु. ६-२२) इति यास्कः । असहायगमनशील इत्यर्थः । किंच बृहत् महान्
+> योऽग्निः शुक्रेण शुक्लेन शोचिषा तेजसा सूरः सुष्टु ईरयिता प्रेरकः सन् रात्रौ
+> भुवि अरोचत दीप्यते । आथ च दिवा दिवि (?) द्योतमाने स्वर्लोके सूर्यः
+> सुष्टु प्रेरयितादित्यः अरोचत दीप्यते । उभाभ्यामहोरात्रात्मकः सर्वः कालः
+> आक्रांत इत्यभिप्रायः ॥
+
+### Printed p. 645
+
+##### Gist of the bhāṣya
+
+Now by this Ṛk Agni and Sūrya are praised. That well-known Agni चिकिशुः (*cikiśuḥ*), of the sacrificer who is endowed with consciousness (the genitive is in the sense of the accusative), knows, अचेति (*aceti*), the sacrificer who is endowed with consciousness. What kind of one is he? हव्यवाट् (*havyavāṭ*), the carrier of oblations, and सुमद्रथः (*sumadrathaḥ*), of the nature of speeding by himself. Yāska says that the word means "by himself" (Ni. 6-22) **NOTE**. That is, one inclined to go without a helper. Further, the great Agni, with white, bright splendour, सूरः (*sūraḥ*), being the good impeller, shines at night on the earth. And by day, in the shining world of heaven **NOTE**, Sūrya, the good impeller, the Āditya, shines. By the two the whole time, of the nature of day and night, is pervaded. This is the intention.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हव्यवाह् (*havyavāh*)—he who carries the oblation to the gods
+- सुमद्रथः (*sumadrathaḥ*)—he who has an auspicious chariot
+- स. (*sa.*)—he who is well known
+- अग्निः (*agniḥ*)—Agni
+- चिकितुः (*cikituḥ*)—the sacrificer who has attained knowledge of the rite
+- अचेति (*aceti*)—knows
+- बृहत् (*bṛhat*)—of great form
+- अग्निः (*agniḥ*)—Agni
+- शुक्रेण (*śukreṇa*)—radiant
+- शोचिषा (*śociṣā*)—with splendour
+- सूरः (*sūraḥ*)—as the impeller of all
+- आरोचित (*ārocita*)—shines (at night on the earth)
+- दिवि (*divi*)—by day
+- सूर्यः (*sūryaḥ*)—in the form of Sūrya
+- आरोचित (*ārocita*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who carries the oblation to the gods, who has an auspicious chariot and is well known, knows the sacrificer who has attained knowledge of the rite. Agni, of great form, endowed with radiant splendour, as the impeller of all, shines at night on the earth. By day he shines in the form of Sūrya.
+
+##### English translation
+Agni has appeared, is wise and has beautiful chariot and carries sacrifices. He is moving with white and brilliant rays, he is looking irate ; he appears in the heaven like Surja.
+
+## Sūkta 57 (Maṇḍala 8)
+
+##### Gist of the bhāṣya
+
+The sūkta of four Ṛks beginning युवं देवा (*yuvaṃ devā*) is the ninth, the vision of Kāṇva Medhya, addressed to the Aśvins, in the Triṣṭubh metre. It is listed in the Anukramaṇikā: युवं देवा चतुष्कं मेध्य आश्विनं त्रैष्टुभं (*yuvaṃ devā catuṣkaṃ medhya āśvinaṃ traiṣṭubhaṃ*). The ritual application is to be learnt from the Sūtra.
+
+##### Anuvāda
+
+This sūkta beginning युवं देवा (*yuvaṃ devā*) is the ninth among the Vālakhilya sūktas. It has four Ṛks. The seer of this sūkta is one called Medhyaḥ Kāṇvaḥ; the deities are the Aśvin deities; the metre is Triṣṭubh. In the Anukramaṇikā it is said: युवं देवा चतुष्कं मेध्य आश्विनं त्रैष्टुभं (*yuvaṃ devā catuṣkaṃ medhya āśvinaṃ traiṣṭubhaṃ*). The ritual application is to be learnt from the Sūtra.
+
+### Printed p. 646
+
+##### Particulars
+
+Maṇḍala 8, Anuvāka 6, Sūkta 57; Aṣṭaka 6, Adhyāya 4, Varga 28. Number of Ṛks in the sūkta: 4. Seer: Medhyaḥ Kāṇṇaḥ **NOTE**. Deity: Āśvinau. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं दे॑वा॒ क्रतु॑ना पू॒र्वेण॑ यु॒क्ता रथे॑न तवि॒षं य॑जत्रा ।  
+> आग॑च्छतं नासत्या॒ शची॑भिरि॒दं तृ॒तीयं॒ सव॑नं पिबाथः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । देवा । क्रतुना । पूर्व्येण । युक्ता । रथेन । तविषं । यजत्रा ।  
+> आ । अगच्छतं । नासत्या । शचीभिः । इदं । तृतीयं । सवनं । पिबाधः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजत्रा यजनीयौ पूज्यौ देवौ द्योतमानावश्विनौ पूर्वेण पुरा
+> भवेन क्रतुना कर्मणा अनुग्रहबुद्ध्या ना उपेत् युवं युवां प्रति रथेन
+> रंहणस्वभावेन स्यंदनेन संयुक्ता अश्वाः तविषं बलं यथा भवति तथा वहंतीति
+> शेषः । तस्मात् हे नासत्या सत्यभूतौ युवां शचीभिः अनुग्रहलक्षणैः कर्मभिः
+> सह इदं तृतीयं सवनमुद्दिश्य आगच्छतमागच्छतं । आगत्य च पिबाथः पिबतं
+> सोममिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O worshipful, यजत्रा (*yajatrā*), shining Aśvins, by an ancient rite, that is, an action of former times, with a thought of favour towards you **NOTE**, horses yoked to a chariot, a speeding car, carry you with force; "carry" is to be supplied. Therefore, O नासत्या (*nāsatyā*), true ones, come together with your deeds of favour to this third libation, and having come drink the Soma; "Soma" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्रा (*yajatrā*)—worshipful
+- देवा (*devā*)—divine
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you two
+- पूर्वेण (*pūrveṇa*)—ancient
+- क्रतुना (*kratunā*)—being endowed with rites
+- शविषं (*śaviṣaṃ*)—powerfully
+- रथेन (*rathena*)—with a chariot
+- युक्ताः (*yuktāḥ*)—having yoked horses
+- शचीभिः (*śacībhiḥ*)—together with your deeds of favour
+- इदं तृतीयं सवनं (*idaṃ tṛtīyaṃ savanaṃ*)—with regard to this third libation
+- आ गच्छतं (*ā gacchataṃ*)—be pleased to come
+- पिबाधः (*pibādhaḥ*)—drink this Soma
+
 ---
 
-**Progress note:** Done through printed p. 640. 8.55 Ṛk 1 bhāṣya, Ṛk 2-5; sūkta 8.56 intro, Ṛk 1
+**Progress note:** Done through printed p. 646. 8.56 Ṛk 1 end, Ṛk 2-5; sūkta 8.57 intro, Ṛk 1
