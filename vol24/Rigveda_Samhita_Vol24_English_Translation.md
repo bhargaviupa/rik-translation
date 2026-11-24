@@ -5834,6 +5834,308 @@ Among bay horses these two are pre-eminently the destroyers (of foes), and of th
 
 The seer now says, "I have taken those two horses." They are furnished with fine reins, or with fine bodily lustre; they are provided with whips; they are intelligent. As a wise praiser pleases the god he praises with praises, so they give satisfaction. They belong to the great Sauṣāmaṇa Varu.
 
+### Printed p. 130
+
+> वाजिनौ शीघ्रगमनवंतावर्वंतार्वं द्वावश्च सचा सह युगपदेव नविष्ठया
+> नवतरया मती मत्या स्तुत्या मित्रादीन् स्तुवन्नसनं । विश्वमना अहं समभजं ।
+> प्रत्यग्रहीषमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The two horses are swift-going, and together, at one and the same time, with a newer praise, praising Mitra and the others, I, Viśvamanas, accepted them, that is, received them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नविष्ठया (*naviṣṭhayā*)—by a most newly composed
+- मती (*matī*)—praise, as the fruit of praise (by the favour of Mitra and Varuṇa)
+- स्मदभीशू (*smadabhīśū*)—having excellent bridles
+- कशावंता (*kaśāvaṃtā*)—and provided with excellent whips
+- विप्रा (*viprā*)—fit for a wise praiser
+- महः (*mahaḥ*)—belonging to the great Varu
+- वाजिनौ (*vājinau*)—and swift-going
+- अर्वंता (*arvaṃtā*)—the two horses
+- सजा (*sajā*)—together
+- आसनं (*āsanaṃ*)—I have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+As the fruit of having praised Mitra and Varuṇa with a newly composed praise, and by their favour, I have obtained together the two horses which have excellent bridles, are provided with excellent whips, are fit for a wise praiser, belong to the great Varu, and are swift-going.
+
+##### English translation
+Through this new praise (of mitra and Varuna) I have obtained at
+the same moment of the mighty prince, two fast-going sagacious, steeds,
+with whip and reins.
+
+## Sūkta 26 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युवोरु ष्टिति पंचविंशत्यचं षष्ठं सूक्तं । अत्रानुक्रमणिका ! युवोः
+> पंचाधिका व्यश्वो वांगिरस आश्विनं विंश्याद्या वायव्यास्तत्पूर्वाश्चतस्रो
+> गायत्र्योऽंतैकविंश्यौ च विंश्यनुष्टुबिति । अंगिरसो व्यश्वो वैयश्वो विश्वमना
+> वा ऋषिः । षोडश्याद्याश्चतस्रो गायत्र्यो विंश्यनुष्टुबेकविंशी पंचविंशी च
+> गायत्र्यौ शिष्टाः पूर्ववदुष्टिहः । अश्विनौ देवता । विंश्याद्याः पंचर्चो
+> वायुदेवताकाः ॥ प्रातरनुवाक आश्विने क्रतावौष्ठिहे छंदस्याश्विनशस्त्रे जादितः
+> पंचर्चः । सूत्रितं च । युवोरु शू रथं हुव इति पंचदशेत्कृष्णिहं ।
+> आ. ४-२५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning युवोरु ष्टिति (*yuvoru ṣṭiti*) has twenty-five Ṛks and is the sixth sūkta. On it he cites the Anukramaṇikā: the Ṛks beyond the twentieth (five) are Vāyavya, the four before them are Gāyatrī, the last and the twenty-first are Gāyatrī, the twentieth is Anuṣṭubh, and the rest are Uṣṇih as before. The seer is Vyaśva, an Āṅgirasa, or Viśvamanas, the son of Vyaśva. The deity is the Aśvins; the five Ṛks beginning with the twentieth have Vāyu as deity. In the morning recitation (prātaranuvāka), in the Āśvina rite, the Uṣṇih Ṛks are used, and in the Āśvina-śastra the first five are used. It is stated in the sūtra: युवोरु शू रथं हुव इति पंचदशेत्कृष्णिहं (*yuvoru śū rathaṃ huva iti paṃcadaśetkṛṣṇihaṃ*) (Ā. 4-25) **NOTE**.
+
+### Printed p. 131
+
+##### Anuvāda
+
+This sūkta beginning युवोरु षू (*yuvoru ṣū*) is the sixth sūkta in the fourth anuvāka. It has twenty-five Ṛks. In the Anukramaṇikā it is said: the five Ṛks beyond the twentieth belong to Vāyu, and the four before them, the last and the twenty-first are Gāyatrī, the twentieth Anuṣṭubh. The seer of this sūkta is the seer Vyaśva, son of the seer Aṅgiras, or Viśvamanas, the son of the seer Vyaśva. The deities are the Aśvins; the five Ṛks from the twentieth onward (20-25) have Vāyu as deity. The four Ṛks from the sixteenth Ṛk of this sūkta, and the twenty-first and twenty-fifth Ṛks, are in the Gāyatrī metre. The twentieth is in the Anuṣṭubh metre. The remaining Ṛks are in the Uṣṇih metre. It is explained in the Āśvalāyana Śrauta Sūtra, in the sūtra युवोरु षू रथु हुव इति पंचदशेत्यौष्ठिहं (*yuvoru ṣū rathu huva iti paṃcadaśetyauṣṭhihaṃ*) (Ā. 4-15), that the first fifteen Ṛks of this sūkta (Ṛks 1-15) are applied, at the time of the recitation of the morning-anuvāka mantras, to the Uṣṇih Ṛks of the Āśvina kratu and to the Āśvina-śastra mantras.
+
+##### Particulars
+
+Sūkta 26. Maṇḍala 8, Anuvāka 4, Sūkta 26. Aṣṭaka 6, Adhyāya 2, Vargas 26, 27, 28, 29, 30. Number of Ṛks in the sūkta: 25. Seer: Viśvamanas Vaiyaśva, Vyaśva Āṅgirasa **NOTE**. Deity: 1-19 Aśvins; 20-25 Vāyu. Metre: 1-15, 22 24 Uṣṇih; 16-19, 21, 25 Gāyatrī; 20 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वोरु॒ षू रथं॑ हुवे स॒धस्तु॑त्याय सू॒रिषु॑ ।  
+> अतू॑र्तदक्षा वृषणा वृषण्वसू ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । ऊं इति । सु । रथं । हुवे । सधस्तुत्याय । सूरिषु ।  
+> आतोर्तदक्षा । वृषणा । वृषण्यसू इति वृषण्वसू ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अतूर्तदक्षा ॥ त्वा प्लवनतरणयोरित्यस्य निष्ठायां नसत्तेति सूत्रेण
+> निपातितः ॥ परैरहिंसितबल् वृषणा वृषणौ कामानां सेक्तारौ आत एव वृषण्वसू
+
+### Printed p. 132
+
+> वर्षणशीलधनवंतावश्विनौ युवोर्युवयोरर्थं सु हुवे । सुष्टु स्तोत्रादिभिराह्वयामि । किमर्थं । सूरिषु प्राज्ञेषु स्तोतृषु मध्यॆ सधस्तुत्याय ॥
+> स्तौतेर्भावे क्यप् ॥ सह भवंतौ स्तोतुं । तस्माद्युवयोः शीघ्रगत्यै युष्मद्दमनसाधनरथमेवाह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+O you of unharmed strength, unhurt by others; showerers of desires and therefore having raining wealth, O Aśvins, for you I call, with praises and the like, well. For what? In order that together with you I may praise among the wise praisers, who are praisers together, those who are present. Therefore, for your swift going, I call that chariot itself, the means of your riding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आतूर्तदक्षा (*ātūrtadakṣā*)—you who have unobstructed strength
+- वृषणा (*vṛṣaṇā*)—showerers of desires
+- वृषण्वसू (*vṛṣaṇvasū*)—who have wealth in the form of rain, O Aśvins
+- सूरिषु (*sūriṣu*)—among the wise
+- सधस्तुत्यायॆ (*sadhastutyāyè*)—in order to praise you, who are together
+- युवोः रथं (*yuvoḥ rathaṃ*)—the chariot of you two
+- सु हुवे (*su huve*)—I call with the best praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, of unobstructed strength, showerers of desires, having wealth in the form of rain, in order to praise you who are together among the wise, I call your chariot with the best praise.
+
+##### English translation
+(Aswins) of irresistible strength, affluent showerers (of benefits),
+I invoke your chariot amidst the pious, who are assembled to celebrate
+your presence.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं व॑रो सु॒षाम्ने॑ म॒हे तने॑ नासत्या ।  
+> अवो॑भिर्यार्थो वृषणा वृषण्वसू ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । वरो इति । सुसामन्ने । महे । तने । नासत्या ।  
+> अवभिः । याथः । वृषणा । वृषण्वसू इति वृषण्वसू ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिर्वरुं राजानं संबोध्याह । हे नासत्या नासत्यौ । न विद्यतेऽसत्यमनयोरिति नासत्यौ । वृषणा कामानां वर्षितार् वृषण्वसू वर्षणशीलवसुमंता-
+
+### Printed p. 133
+
+> वश्विन् युवं युवां सुषाम्ने सुषामाख्यराज्ञे मम पित्रेऽस्मै महे महते
+> तने । तनोतीति तनं धनं । धनाय । क्रियार्थोपपदस्येति चतुर्थि ॥ तस्मै
+> धनं दातुंःपुरा यथागच्छतं तद्वनृह्यमपि धनं दातुमवोभिः पालनैः सह याथः
+> युवामायातमिति हे वरो वरुनामक राजन्नेवं ब्रूहीत्यृषिर्वदति ॥
+
+##### Gist of the bhāṣya
+
+The seer addresses the king Varu: "O Nāsatyas, in whom there is no untruth, showerers of desires, who have raining wealth, O Aśvins, to Suṣāman, the king of that name, my father, for great wealth, to give him wealth, as you came formerly, so come also now to give me wealth, together with your protections. O king named Varu, say so", thus says the seer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvins
+- वृषणा (*vṛṣaṇā*)—showerers of desires
+- वृषण्वसू (*vṛṣaṇvasū*)—having wealth in the form of rain
+- युवं (*yuvaṃ*)—you
+- सुषाण्ने (*suṣāṇne*)—to my father Suṣāman
+- महे (*mahe*)—great
+- तने (*tane*)—for the gift of wealth (as you came formerly, so also to give wealth to me)
+- अवोभिः (*avobhiḥ*)—with your protections
+- यथः (*yathaḥ*)—come, thus
+- वरो (*varo*)—O king named Varu (pray to them)
+
+##### भावार्थ (Bhāvārtha)
+
+O king named Varu, pray to the Aśvins thus: "O Aśvins, showerers of desires, having wealth in the form of rain, as you came formerly to give great wealth to my father Susāman, so also now come with your protections to help me."
+
+##### English translation
+(Say), Varu (you), Nasatyas, senders of rain, affluent showerers
+(of benefits). as you came to Sushaman with your protections to (grant him)
+great riches. (so come to me);
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वा॑म॒द्य ह॑वामहे ह॒व्येभि॑र्वाजनीवसू ।  
+> पू॒र्विरि॒ष इ॒षयं॑ता॒वति॑ क्ष॒पः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । अद्य । हवामहे । हव्येभिः । वाजिनीवसू इति वाजिनीऽवसू ।  
+> पूर्विः । इषः । इषयंतौ । अति । क्षपः ॥ ३ ॥
+
+### Printed p. 134
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू अन्नयुक्तधनवंतावश्विन् पूर्वीर्बहूनीषोऽन्नानीपयंतौ ॥ इषु इच्छायां ॥ इच्छंतौ ता तौ प्रसिद्धौ वां युवामद्यास्मिन्यागदिनेऽति
+> क्षपः क्षपाया अतिक्रमे । उषःकाल इत्यर्थः ! तस्मिन्नुषःकाले हव्येभिर्हविर्लक्षणैरन्नॆः सह वयं हवामहे । आह्वयामः । आश्विनशस्त्रस्य तत्र शस्यमानत्वादुषःकाल
+> एवाह । याग इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, who have wealth in the form of food, desiring many foods: those well-known you two, today, on this day of the sacrifice, at the passing of the night, that is, at the time of dawn, with oblations in the form of food, we invoke, we call. Because the Āśvina-śastra is recited then, he says it is the time of dawn, that is, the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—O Aśvins, who have wealth in the form of food
+- पूर्वीति (*pūrvīti*)—abundant
+- इषः (*iṣaḥ*)—foods
+- इषयंतौ (*iṣayaṃtau*)—desiring
+- ता (*tā*)—and well-known
+- वां (*vāṃ*)—you
+- आद्य (*ādya*)—at this time of the sacrifice
+- अति क्षपः (*ati kṣapaḥ*)—at this dawn, when the night has passed
+- हव्येभिः (*havyebhiḥ*)—with foods in the form of oblations (we, joined with them)
+- हवामहे (*havāmahe*)—pray to and call you
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, who have wealth in the form of food, we, together with foods in the form of oblations, pray to and call you, who desire abundant foods and are well known, at this time of the sacrifice, at this dawn when the night has passed.
+
+##### English translation
+Affluent in nourishment, we invoke you, who are desirous of
+(sacrificial) food, on this occasion at dawn with oblations.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ वाहि॑ष्टो अश्विना॒ रथो॑ यातु श्रु॒तो न॑रा ।  
+> उप॒ स्तोमा॑न्तु॒रस्य॑ दर्शथः श्रि॒ये ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । वाहिष्ठः । अश्विना । रथः । यातु । श्रुतः । नरा ।  
+> उप । स्तोमान् । तुरस्य । दर्शथः । श्रिये ॥ ४ ॥
+
+### Printed p. 135
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा सर्वस्य नेतारावश्विनाश्विन् वां युवयोर्वाहिष्ठो वोढृतमः
+> श्रुतो विश्रुतः सर्वत्र प्रसिद्धो रथ आ यातु । अस्मदीयं यज्ञं प्रत्यागच्छतु ।
+> तेन रथेन युवामागत्य तुरस्य क्षिप्रं स्तोत्रं कुर्वतस्तस्य स्तोमांस्त्रिवृत्पंचदशादिस्तोमाञ्र्यये तस्यैश्वर्यप्रदानायोप दर्शथः । पश्यतिर्ज्ञानकर्मा ।
+> जानीतं ॥ दृशेर्लट व्यत्ययेनाजादेशः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, leaders of all, may your chariot, the best bearer, widely renowned, come to our sacrifice. Having come by that chariot, for the sake of bestowing prosperity on the worshipper who quickly offers praise, you two recognise his stomas, the trivṛt, pañcadaśa and the like. The verb "to see" has the sense of knowing: know them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O leaders
+- अश्विना (*aśvinā*)—Aśvins
+- वां (*vāṃ*)—you
+- वाहिष्ठः (*vāhiṣṭhaḥ*)—the best bearer
+- श्रुतः (*śrutaḥ*)—and renowned
+- रथः (*rathaḥ*)—chariot
+- आ यातु (*ā yātu*)—may come to our sacrifice
+- तुरस्य (*turasya*)—of the sacrificer who praises you eagerly
+- स्तोमान् (*stomān*)—the trivṛt and other stomas
+- श्रिये (*śriye*)—to fill him with prosperity
+- उप दर्शथः (*upa darśathaḥ*)—understand and be pleased
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, leaders, may your chariot, the best bearer of you and renowned, come to our sacrifice. Understand and be pleased with the trivṛt and other stomas of the sacrificer who praises you eagerly, so as to fill him with prosperity.
+
+##### English translation
+Leaders (of rites), let your renowned all-conveying chariot come to us, and (do you) recognize the praises of the zealous (worshipper) for his prosperity.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जु॒हु॒रा॒णा चि॑दश्वि॒ना म॑न्येथां वृषण्वसू ।  
+> यु॒वं हि रु॑द्रा॒ पर्ष॑थो॒ अति॒ द्विषः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुहुराणा । चित् । अश्विना । आ । मन्येथां । वृषण्वसू इति वृषण्वसू ।  
+> युवं । हि । रुद्रा । पर्षथः । अति । द्विषः ॥ ५ ॥
+
+### Printed p. 136
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषण्वसू वर्षणशीलधनवंतावश्विनाश्विनौ जुहुराणा चित् ॥ हुर्छा
+> कौटिल्ये । हुर्छेः सनो लुक् छलोपश्च ॥ उ. २-९२ । इत्यानच् प्रत्ययः ॥
+> कुटलान्कर्मविघ्नकारिणो मायाविनोऽपि शत्रूना अभिमुख्येन मन्येथां ।
+> जानीतं । ततो हे रुद्रा संग्रामे रोदनशीलौ रुवंत् वाश्विनौ युवं ।
+> हिरवधारणे । युवामेव द्विषो द्वेषकारिणस्ताङ्घातूनति पर्षथः । अतीत्य
+> संक्लेशयतं । हतमित्यर्थः ॥ पृषु हिंसासंक्लेशनयोरिति भौवादिकः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, with raining wealth, recognise face to face the crooked enemies, even those who, deceitful, hinder the rite. Then, O Rudras, you who are given to weeping in battle, you alone strike and afflict beyond measure those who hate, your hating enemies; this means, kill them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्वसू (*vṛṣaṇvasū*)—having wealth in the form of rain
+- अश्विना (*aśvinā*)—O Aśvins
+- जुहुराणा चित् (*juhurāṇā cit*)—also the enemies who, without appearing before you, hinder the rite by deceit
+- आ मन्येथां (*ā manyethāṃ*)—search out and recognise who they are
+- रुद्रा (*rudrā*)—O Aśvins, who roar in battle
+- युवं (*yuvaṃ*)—you
+- द्विषः (*dviṣaḥ*)—those enemies who spew hatred
+- अति पर्षथः (*ati parṣathaḥ*)—strike completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, having wealth in the form of rain, search out and find even the enemies who hinder the rite by deceit without appearing before you. O Aśvins, who roar in battle, strike completely those enemies who spew hatred.
+
+##### English translation
+Aswins, affluent showerers (of benefits), detect the guileful ; verily,
+Rudras, vex your adversaries.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒स्रा हि विश्व॑मानु॒षङ्म॒क्षूभिः॑ परि॒दीय॑थः ।  
+> धि॒यं॒जि॒न्वा मधु॑वर्णा शु॒भस्पती॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दस्रा । हि । विश्वं । आनुषक् । मक्षुभिः । परिदीयथः ।  
+> धियंजिन्वा । मधुवर्णा । शुभः । पती इति ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 129. Ṛk 17 end to Ṛk 24 start, pp. 123-129
+**Progress note:** Done through printed p. 136. Ṛk 24 end; Sūkta 26 Ṛks 1-6 start, pp. 130-136
