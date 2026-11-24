@@ -11120,6 +11120,279 @@ O Indra, pass beyond the one who presses Soma in anger. Likewise, in a place cal
 
 O Indra, do not go there to drink the Soma juice pressed by one who is always filled with anger. And do not drink the Soma pressed in a place without brahmans, that is, in a place where no sacrifice is performed. But this Soma that we have prepared has been pressed in a good place by brahmans, hallowed with mantras, and made ready. Drink such Soma juice.
 
+### Printed p. 248
+
+##### English translation
+Indra, pass by the man who offers the libation in anger, him who pours it out upon a spot disapproved of ; drink this presented Soma.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒हि ति॒स्रः प॑रा॒वत॑ इ॒हि पंच॒ जना॒ अति॑ ।  
+> धेना॑ इंद्राव॒चाक॑शत् ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इहि । तिस्रः । परावतः । इहि । पंच । जनान् । अति ।  
+> धेनाः । इंद्र । अव्यचाकशत् ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र धेना अस्मदीयाः स्तुतीरवचाकशद्योऽपश्यत् स त्वं पारावतो
+> दूरात् । आरे परावत इति दूरनामसु पाठात् । तिस्रोऽग्रपृष्ठ पार्श्वदिश इहि ।
+> गच्छ । अनेनाग्रतः पृष्ठतः पार्श्वतश्चेंद्रस्यागमनमाशास्त्रे । अपि च पंच जनान्
+> मनुष्यानतीहि । अतिगच्छ । यद्वा। गंधर्वाः पितरो देवा असुरा रक्षांसि च पंच
+> जनाः । तानतीहीत्यर्थः । तथा च यास्कः । गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः । नि. ३-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who have seen our praises (धेना (*dhenā*) means our praises), come from far away; "far" because परावत (*parāvata*) is read among the names of distance. Come from the three directions, front, back and side; by this the coming of Indra from in front, from behind and from the side is wished for. Further, pass beyond the five peoples, that is, men. Or else: Gandharvas, fathers, gods, asuras and rākṣasas are the five peoples; pass beyond them. So Yāska says: "Gandharvas, fathers, gods, asuras and rākṣasas, say some; the four classes and the Niṣāda as the fifth, say the followers of Upamanyu" (Ni. 3-8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- धेनाः (*dhenāḥ*)—our praises
+- अवचाकशत् (*avacākaśat*)—you who see and know
+- परावतः (*parāvataḥ*)—from a distant region
+- तिस्रः (*tisraḥ*)—from three sides, that is, from the front, the back and the sides
+- इहि (*ihi*)—come here
+- पंच जनान् (*paṃca janān*)—the five peoples, Gandharvas and the rest
+- अति (*ati*)—passing beyond
+- इहि (*ihi*)—come here
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who see and know from afar the words of praise we make, come to us from the distant region, from the front, from behind or from the sides. Or, disregarding the five peoples beginning with the Gandharvas, or the people of five tribes, who are on the way, pass beyond them and come to us.
+
+### Printed p. 249
+
+##### English translation
+Indra, you have beheld our praises; proceed in three directions from a distance. pass beyond the five orders of beings.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूर्यो॑ र॒त्मिं यथा॑ सृ॒जा त्वा॑ यच्छंतु मे॒ गिरः॑ ।  
+> नि॒म्म मापो॒ न स॒ध्र्य॑क् ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्यः । रश्मिं । यथा । सृज । आ । त्वा । यच्छंतु । मे । गिरः ।  
+> निम्मं । आपः । न । सध्र्यक् ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सूर्यो यथा रश्मिं रश्मीन्किरणानश्वप्रग्रहान्वा विसृजति तथा मह्यं
+> धनं विसृज । अपि च मे मदीया गिरः स्तुतयः सध्यक् सह त्वामा यच्छंतु ।
+> निम्ममापो न । यथा निम्मदेशमापः सह परिगृह्णंति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, as the sun lets go his rays (that is, his beams, or else the reins of his horses), so let go wealth for me. And may my praises together reach you; as the waters together take hold of a low place, so, is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यः (*sūryaḥ*)—(O Indra) the sun
+- यथा (*yathā*)—in the way in which
+- रश्मिं (*raśmiṃ*)—spreads his rays all around, like that
+- सृज (*sṛja*)—give me wealth and the like
+- निम्मं (*nimmaṃ*)—in a low region
+- आपो न (*āpo na*)—as water flows and comes to rest
+- मे (*me*)—my
+- गिरः (*giraḥ*)—words of praise
+- सध्र्यक् (*sadhryak*)—joining together as one
+- त्वा (*tvā*)—you
+- यच्छंतु (*yacchaṃtu*)—may they reach
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the sun spreads his rays around himself, make wealth and the like come and gather near me. As flowing water goes to a low place and comes to rest, may the words of praise that I make go to you and join you.
+
+##### English translation
+As the sun disperses his rays, so you disperse (wealth upon me):-may my praises rapidly draw you, as waters (reach) the low ground.
+
+### Printed p. 250
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध्व॑र्य॒वा तु हि षिं॒च सोमं॑ वी॒राय॑ शि॒प्रिणे॑ ।  
+> भरा॑ सु॒तस्य॑ पी॒तये॑ ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वयो इति । आ । तु । हि । सिंच । सोमं । वीराय । शिप्रिणे ।  
+> भर । सुतस्य । पीतये ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवः शिप्रिणे हनूमते वीराय शूरायेंद्राय सोमं तु
+> हि क्षिप्रमेवा सिंच । सुतस्य सुतं सोमं पीतये पानाय च भर । आहर च ॥
+
+##### Gist of the bhāṣya
+
+O adhvaryus, to Indra the hero, the brave one, who is शिप्रिणे (*śipriṇe*) (possessed of jaws), pour the Soma quickly. And bring the pressed Soma for his drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वयो (*adhvayo*)—O adhvaryu
+- शिप्रिणे (*śipriṇe*)—shining with attractive cheeks
+- वीराय (*vīrāya*)—for the brave Indra
+- सोमं तु (*somaṃ tu*)—the Soma juice
+- हि (*hi*)—quickly
+- आ सिंच (*ā siṃca*)—press and make ready
+- सुतस्य (*sutasya*)—the pressed Soma juice
+- पीतये (*pītaye*)—for Indra's drinking
+- भर (*bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryu, quickly make ready the Soma juice for the brave Indra, who shines with attractive cheeks. And bring that pressed Soma juice for the drinking of Indra.
+
+##### English translation
+Adhwaryu, quickly pour forth the soma to the hero Indra with the goodly jaws; bring the Soma for his drinking.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒द्दः फ॑लि॒गं भि॒नन्नृ १ १॒॑क्सिंधू॑र॒वासृ॑जत् ।  
+> यो गोषु॑ प॒क्वं धा॒रय॑त् ॥ २५ ॥
+
+### Printed p. 251
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उद्द्नः । फलिगं । भिनत् । न्यक् । सिंधून् । अव्यअसृजत् ।  
+> यः । गोषु । पक्वं । धारयत् । २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उदन्' उदकार्थं फलिगं मेघं । रैवतः फलिग इति मेघनामसु
+> पाठात् । भिनत् अभिनत् । सिंधूनपश्चांतरिक्षान्यगर्वागवासृजत् । यश्च गोषु
+> पक्वं पयो धारयत् आधारयत् । स इंद्र इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+He who, for the sake of water, split the cloud; फलिग (*phaliga*) is read among the names of cloud, the passage being "raivata is phaliga". He let the waters of the atmosphere, called सिंधून् (*siṃdhūn*), flow down; and he who has placed ripe milk in the cows: that is Indra. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who, for the sake of water
+- फलिगं (*phaligaṃ*)—the cloud
+- भिनत् (*bhinat*)—split
+- सिंधून् (*siṃdhūn*)—the waters that were in the cloud
+- न्यत् (*nyat*)—downward from the atmosphere
+- अवासृजत् (*avāsṛjat*)—made pour
+- यः (*yaḥ*)—the Indra who
+- गोषु (*goṣu*)—in the cows
+- पक्वं (*pakvaṃ*)—the ripe milk
+- धारयत् (*dhārayat*)—placed; for the drinking of such an Indra, bring the Soma juice
+
+##### भावार्थ (Bhāvārtha)
+
+For the drinking of Indra of such greatness, who split the cloud in order to pour down rain, who made the water that was in the atmosphere pour down as rain, and who established milk in the cows, O adhvaryu, bring the Soma juice.
+
+##### English translation
+Who clove the cloud for (the issue of) the rain, who sent down the waters, who placed the mature (milk) in thc cattle.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अह॑न्व॒त्रमृचे॑षम और्णवा॒भम॑ही॒शुवं॑ ।  
+> हि॒मेना॑विध्य॒दर्बु॑दं ॥ २६ ॥
+
+### Printed p. 252
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहन् । वृत्रं । यजीषमः । और्णवाभं । अहीशुवं ।  
+> हिमेन । अविध्यत् । अर्बुदं ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋचीषम ऋचा दीप्त्या सम इंद्रो वृत्रं वृत्रनामकं शत्रुमहन् ।
+> जघान । तथार्णवाभमौर्णवाभनामकमहीशुवमहीशुवनामकं च शत्रुमहन् ।
+> तथा हिमेन तुषारेणोदकेन वार्बुदं मेघमविध्यत् ॥
+
+##### Gist of the bhāṣya
+
+Indra, equal in brilliance, killed the enemy named Vṛtra; likewise he killed the enemies named Aurṇavābha and Ahīśuva. And with frost, that is, with snow-water, he pierced the cloud called Arbuda.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋचीषमः (*ṛcīṣamaḥ*)—the shining Indra
+- वृत्रं (*vṛtraṃ*)—the asura called Vṛtra
+- अहन् (*ahan*)—killed (and)
+- और्णवाभं (*aurṇavābhaṃ*)—the asura called Aurṇavābha
+- अहीशुवं (*ahīśuvaṃ*)—and the asura called Ahīśuva he killed
+- अर्बुदं (*arbudaṃ*)—the cloud
+- हिमेन (*himena*)—with cold water or with frost
+- अविध्यत् (*avidhyat*)—he pierced
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, whose body shines exceedingly, killed the asura called Vṛtra and the asuras Aurṇavābha and Ahīśuva. And with frost he split the cloud so that it was torn open.
+
+##### English translation
+The brilliant Indra slew Vritra, Aurnavabha, Ahishuva; he smote Arbuda with frost.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र व॑ उ॒ग्राय॑ नि॒ष्टुरेऽषा॑ळ्हाय प्रस॒क्षिणे॑ ।  
+> दे॒वत्तं॒ ब्रह्म॑ गायत ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । उग्राय । निःतुरे । अषाळ्याय । प्रसक्षिणे ।  
+> देवत्तं । ब्रह्म । गायत ॥ २७ ॥
+
+### Printed p. 253
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उद्गातारः वो ययमुग्रायोद्दूर्णाय निष्टुरे शत्रून्निस्तरतेऽषाळ्दाय शत्रूणामभिभवित्रे प्रसक्षिणे प्रसहनशीलायेंद्राय देवत्तं देवप्रसादलब्धं ब्रह्म स्तोत्रं प्र गायत ॥
+
+##### Gist of the bhāṣya
+
+O Udgātṛs, to Indra, fierce, that is, exceedingly strong; the अषाळ्हाय (*aṣāḷhāya*), the overcomer of enemies; the प्रसक्षिणे (*prasakṣiṇe*), of an overpowering nature; sing forth the hymn that is gift of the gods, that is, obtained through the favour of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—(O Udgātṛs who sing the Sāman) you
+- उग्राय (*ugrāya*)—to the fierce
+- निस्तुरे (*nisture*)—who disregards enemies
+- अषाळ्हाय (*aṣāḷhāya*)—who defeats enemies
+- प्रसक्षिणे (*prasakṣiṇe*)—who is able to bear the violence of enemies in battle, to Indra
+- देवत्तं (*devattaṃ*)—obtained through the favour of the gods
+- ब्रह्म (*brahma*)—the hymn
+- प्र गायत (*pra gāyata*)—recite with song
+
+##### भावार्थ (Bhāvārtha)
+
+O priests called Udgātṛs, who sing the Sāman, to Indra, who is terrible to enemies, who in battles and the like disregards the enemies and defeats them, and who is able to bear their violence, sing and recite the Sāman mantras (hymns) obtained through the favour of the gods.
+
+##### English translation
+Sing aloud (priests) to the fierce, Victorious (Indra) the overpowerer, the subduer (of foes), the praise inspired by the gods.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो विश्वा॑न्य॒भि व्र॒ता सोम॑स्य॒ मदे॒ अंध॑सः ।  
+> इंद्रो॑ दे॒वेषु॒ चेत॑ति ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । विश्वानि । अभि । व्रता । सोमस्य । मदे । अंधसः ।  
+> इंद्रः । देवेषु । चेतति ॥ २८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 247. Mandala 8 sukta 32 rks 16-21
+**Progress note:** Done through printed p. 253. Mandala 8 sukta 32 rks 22-28
