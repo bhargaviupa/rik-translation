@@ -2373,6 +2373,337 @@ What has that great wickedness been, Varuna, you should seek to destroy the wors
 > त॒नूभिः॑ । ॑ 
 > अव॑ राजन्पशु॒तृपं॒ न ता॒यं सृ॒जा व॒त्सं न दाम्नो॒ वसि॑ष्ठं ॥
 
+### Printed p. 59
+
+#### Ṛk 5 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । द्रुग्धानि ' पित्रा । सृज । नः । अव । या । वयं । चक्रम । तनूभिः ।  
+> अव । राजन् । पशुतृपं । न । तायुं । सृज । वत्सं । न । दाम्नः । वसिष्ठं॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण पित्रा पितृतः प्राप्तानि नोऽस्मदीयानि द्रुग्धानि द्रोहान्बंधनहेतुभूतानव सृज । विमुंच । अस्मत्तो विश्लेषय । वयं च या यानि द्रोहजातानि तनूभिः शरीरैश्च कृनु कृतवंतः स्म तानि चाव सृज । हे राजन्राजमान वरुण
+> पशुतृपं न तायुं स्तैन्यप्रायश्चित्तं कृत्वावसाने घासादिभिः पशूनां तर्पयितारं स्तेनमिव दाम्नो रज्जोर्वत्सं न वत्समिव च वसिष्ठं मां बंधकात्पापादव
+> सृज । विमुंच ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Varuṇa. He asks Varuṇa to release the द्रुग्धानि (*drugdhāni*), that is, the offences that have come down to us from our fathers (पित्रा (*pitrā*)) and that are the cause of bondage, and to separate them from us. He asks him also to release the offences born of wrongdoing that we ourselves have committed with our bodies. "Royal" (राजन् (*rājan*)) means the shining Varuṇa. The phrase पशुतृपं न तायुं (*paśutṛpaṃ na tāyuṃ*) is explained as a thief who, after performing expiation for his theft, satisfies the cattle with grass and the like in the end. Varuṇa is to release Vasiṣṭha (the poet himself) from the binding sin as he would release such a thief, and as he would release a calf (वत्सं (*vatsaṃ*)) from its tether (दाम्नः (*dāmnaḥ*), a rope).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पित्रा (*pitrā*)—(O Varuṇa) clinging to us from the past, down the family line
+- नः (*naḥ*)—our
+- द्रुग्धानि (*drugdhāni*)—from sins (from the bonds that are the fruit of sin)
+- अव सृज (*ava sṛja*)—release
+- या (*yā*)—which sinful deeds
+- वयं (*vayaṃ*)—we too
+- तनूभिः (*tanūbhiḥ*)—with our own bodies
+- चक्रम (*cakrama*)—have done
+- आव (*āva*)—release (from those also)
+- राजन् (*rājan*)—O Varuṇa, shining and lord
+- पशुतृपं (*paśutṛpaṃ*)—who, after making expiation for thievery, gives grass and the like to the cattle and satisfies them
+- तायुं न (*tāyuṃ na*)—as one releases a thief from bondage
+- दाम्नुः (*dāmnuḥ*)—from the bond of the rope
+- वत्सं न (*vatsaṃ na*)—as one releases a calf
+- वसिष्ठं (*vasiṣṭhaṃ*)—me, named Vasiṣṭha
+- अव सृज (*ava sṛja*)—release from bondage
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, release us from our sins that have clung to us from the past down the family line, that is, from the bonds that are the fruit of sin. Release us also from the bondage that is the fruit of the sins we ourselves have done with our own bodies. O shining and sovereign Varuṇa, release me, Vasiṣṭha, from bondage, as one releases a thief who, after expiation for his theft, satisfies the cattle with grass and the like; and as one releases from the rope's bond a calf eager to go to its mother.
+
+##### English translation
+Relax (the bonds) imposed by the ill deeds of our forefathers, and those incurred (by the sins) which we have committed in our persons.
+
+### Printed p. 60
+
+##### English translation
+liberate, royal Varuna, like a calf from its tether, Vasishtha, like a thief nourishing the animal (he has stolen).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न स स्वो दक्षो॑ वरुण॒ ध्रुतिः॒ सा सुरा॑ म॒न्युर्वि॒भीद॑को॒  ॑
+> अचि॑त्तिः ।  
+> अस्ति॒ ज्याया॒न्ननी॑यस उपा॒रे स्वप्न॑श्च॒नेदनृ॑तस्य प्रयो॒ता ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । सः । स्वः । दक्षः । वरुण । ध्रुतिः । सा । सुरा । मन्युः । विभीदकः । अचित्तिः ।  
+> आस्ति । ज्यायान् । कनीयसः । उपअरे । स्वप्नः । चन । इत् । अनृतस्य ।  
+> प्रयोता ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण स स्वो दक्षः पुरुषस्य स्वभूतं तद्बलं पापप्रवृत्तौ कारणं न भवति ।
+> किं तर्हि ध्रुतिः स्थिरोत्पत्तिसमय एव निर्मिता दैवगतिः कारणं ॥ ध्रु गतिस्थैर्ययोरिति धातुः ॥ सा च ध्रुतिर्वक्ष्यमाणरूपा । सुरा प्रमादकारिणी मन्युः
+> क्रोधश्च गुर्वादिविषयः सन्ननर्थहेतुः । विभीदको द्यूतसाधनोऽक्षः । स च
+> द्यूतेषु पुरुषं प्रेरयन्ननर्थहेतुर्भवति । अचित्ति रज्ञानमविनेककारणं । अत
+> ईदृशी दैवक्लृप्तिरेव पुरुषस्य पापप्रवृत्तौ कारणं। अपि च कनीयसोऽल्पस्य हीनस्य
+> पुरुषस्य पापप्रवृत्तावुपार उपागते समीपे नियंतृत्वेन स्थितो ज्यायानधिक
+> ईश्वरोऽस्ति । स एव तं पापे प्रवर्तयति । तथा चाम्नातं । एष ह्येवासाधु कर्म
+> कारयति तं यमधोनिनीषते । कौ. उ. ३-८ । इति ॥ एवं च सति स्वप्नश्चन स्वप्नोऽप्यनृतस्य पापस्य प्रयोता प्रकर्षेण मिश्रयिता भवति । इदिति पूरकः । स्वष्टे कृतैरपि
+> कर्मभिर्बहूनि पापानि जायंते किमु वक्तव्यं जाग्रति कृतैः कर्मभिः पापानुत्पद्यंत इति । अतो ममापराधो दैवागत इति हे वरुण त्वया क्षंतव्य इति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa, a man's own strength (स्वः दक्षः (*svaḥ dakṣaḥ*)) is not the cause of his inclination to sin. The cause is ध्रुतिः (*dhrutiḥ*), the course of destiny fixed at the time of birth (the root ध्रु (*dhru*) in the sense of going and of firmness). That ध्रुतिः (*dhrutiḥ*) takes the forms now to be named: सुरा (*surā*) (liquor), which makes one heedless; मन्युः (*manyuḥ*) (anger), which, directed at elders and the like, becomes a cause of harm; विभीदकः (*vibhīdakaḥ*) (the dice, the instrument of gambling), which drives a man on in gambling and causes harm; and अचित्तिः (*acittiḥ*) (ignorance, the cause of non-discrimination). So it is this kind of divine ordering that is the cause of a man's engaging in sin. Moreover, for the small, lowly man (कनीयसः (*kanīyasaḥ*)) engaging in sin, there stands near (उपारे (*upāre*)), as controller, a greater Lord (ज्यायान् (*jyāyān*)), and it is he who drives him to sin. Sāyaṇa quotes the scripture to that effect: एष ह्येवासाधु कर्म कारयति तं यमधोनिनीषते । (*eṣa hyevāsādhu karma kārayati taṃ yamadhoninīṣate |*) (Kau. U. 3-8)**NOTE**. This being so, even a dream (स्वप्नश्चन (*svapnaścana*)) is a प्रयोता (*prayotā*), one who mixes in sin (अनृतस्य (*anṛtasya*)) intensely; इत् (*it*) is a filler. If many sins arise even from deeds done in a dream, what need be said of sins arising from deeds done awake? Hence the meaning is: "My offence came by fate; therefore, O Varuṇa, you should forgive it."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- सः (*saḥ*)—that which is in us
+- स्वः दक्षः (*svaḥ dakṣaḥ*)—our own strength
+- न (*na*)—is not the cause of our sin (but)
+- ध्रुतिः (*dhrutiḥ*)—the ordinance that shows its lordship over us is the cause
+
+### Printed p. 61
+- सा (*sā*)—what is that? 
+- सुरा (*surā*)—liquor that causes dullness
+- मन्युः (*manyuḥ*)—anger
+- विभीदकः (*vibhīdakaḥ*)—the harmful instrument of gambling (the dice)
+- अचित्तिः (*acittiḥ*)—ignorance and non-discrimination; these are the causes of sin
+- कनीयसः (*kanīyasaḥ*)—for my engaging in action, I of little strength
+- उपाति: (*upāti:*)—which is right near
+- ज्यायान् (*jyāyān*)—and of greater strength, the ordinance
+- अस्ति (*asti*)—exists
+- स्वप्नश्चन (*svapnaścana*)—a dream too
+- अनृतस्य (*anṛtasya*)—for sin
+- प्रयोता इत् (*prayotā it*)—is an impeller and a cause
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, neither our own strength nor our own intelligence is the direct cause of our sin. The cause is the ordinance that shows its lordship over us. What is it? Liquor that causes dullness of mind, anger, the harmful instrument of gambling, ignorance and non-discrimination: these are the causes of sin. Close to me, of little strength, there is an ordinance of greater power. A dream, too, is an impeller and cause of sin.
+
+##### English translation
+It is not our own choice, Varuna, but our condition, (that is the cause of our sinning); It is that which is intoxication, wrath, gambling, ignorance; there is a senior in the proximity of the junior: even a dream is a provocative to sin.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरं॑ दा॒सो न मा॒ळ्हुषे॑ कराण्य॒हं दे॒वाय॒ भूर्ण॒येऽना॑गाः ।  
+> अचे॑तयद॒चितो॑ दे॒वो अ॒र्यो गृत्सं॑ रा॒ये क॒वित॑रो  
+> जुनाति ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरं । दासः । न । माळ्हुषे । कराणि । अहं । देवाय । भूर्णये । अनागाः ।  
+> अचेतयत् । अचितः । देवः । अर्यः । गृत्सं । राये । कवितरः । जुनाति ॥ ७ ॥
+
+### Printed p. 62
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वीळ्हुषे सेक्त्रे कामानां वर्षित्रे भूर्णये जगतो भर्त्रॆ देवाय दानादिगुणयुक्ताय वरुणायानागास्ततृसादादपापः सन्नहमरमलं पर्याप्तं कराणि ।
+> परिचरणं करवाणि । दासो न यथा भृत्यः स्वामिने सम्यक् परिचरिति तद्वत् ।
+> अर्यः स्वामी स च देवोऽचितोऽजानतोऽस्मानचेतयत् । चेतयतु । प्रज्ञापयतु । गृत्सं स्तोतारं च कवितरः प्राज्ञतरो देवो राये धनाय धनप्राप्त्यर्थं जुनोति । जुनातु । प्रेरयतु ॥
+
+##### Gist of the bhāṣya
+
+To the मीळ्हुषे (*mīḷhuṣe*) (the sprinkler, the one who rains down desires) भूर्णये (*bhūrṇaye*) (the sustainer of the world), the god (देवाय (*devāya*)) Varuṇa, who is endowed with the quality of generosity and the like, I, being free from sin (अनागाः (*anāgāḥ*)) through his grace, would do service sufficient and complete (अरं (*araṃ*)), as a servant (दासो न (*dāso na*)) serves his master well. The master (अर्यः (*aryaḥ*)), that same god, should awaken (अचेतयत् (*acetayat*): let him make aware, let him instruct) us who are ignorant (अचितः (*acitaḥ*)). The more wise god should impel (जुनाति (*junāti*), read as an imperative) the worshipper (गृत्सं (*gṛtsaṃ*)) toward wealth (राये (*rāye*)), that is, for the attainment of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मीळ्हुषे (*mīḷhuṣe*)—to the rainer of desires
+- भूर्णये (*bhūrṇaye*)—the supporter and sustainer of the whole world
+- देवाय (*devāya*)—to Varuṇa, who is divine in nature
+- अनागाः (*anāgāḥ*)—freed from sin
+- अहं (*ahaṃ*)—I
+- आरं (*āraṃ*)—fully
+- दासो न (*dāso na*)—as a servant renders service to his master
+- कराणि (*karāṇi*)—I offer attendance
+- अर्यः (*aryaḥ*)—the lord
+- देवः (*devaḥ*)—Varuṇa, divine in nature
+- अचितः (*acitaḥ*)—us who are ignorant
+- अचेतॆयत् (*acetèyat*)—let him awaken
+- कविततः (*kavitataḥ*)—the god who is exceedingly wise
+- गृत्सं (*gṛtsaṃ*)—me, the worshipper
+- राये (*rāye*)—for the gain of wealth
+- जुनाति (*junāti*)—let him impel
+
+##### भावार्थ (Bhāvārtha)
+
+To Varuṇa, the rainer of desires, supporter and sustainer of the whole world, divine in nature, I, freed from sin, offer full attendance, as a servant renders service to his master. May the lord Varuṇa, divine in nature, give knowledge to us who are ignorant and awaken us. May the god Varuṇa, who possesses exceeding wisdom, impel me, the worshipper, toward the gain of wealth.
+
+##### English translation
+Liberated from sin, I may perform diligent service, like a slave. to the divine showerer (of benefits), the sustainer of the world: may he, the divine lord, give intelligence to us who are devoid of understanding : may he who is most wise, guide the worshipper to wealth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं सु तुभ्यं॑ वरुण स्वधावो हृ॒दि स्तोम॒ उप॑श्रितश्चिदस्तु ।
+
+### Printed p. 63
+
+> शं नः क्षेमे शमु योगे नो अस्तु यूयं पात स्वस्तिभिः सदा नः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । सु । तुभ्यं । वरुण।स्वधावः । हृदि । सोमः । उपश्रितः । चित् । अस्तु ।  
+> शं । नः । क्षेमे । शं । ऊं इति । योगे । नः । अस्तु । यूयं । पात । स्वस्तिभिः।  
+> सदा । नः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकादशिने वारुणे पशावयमिति पुरोडाशस्त्यानुवाक्या । सूत्रितं च । अयं
+> सु तुभ्यं वरुण स्वधाव एवा वंदस्व वरुणं बृहंतं ॥ आ. ३-७ । इति ॥
+> हे स्वधावोऽन्नवन्वरुण तुभ्यं त्वदर्थं क्रियमाणोऽयमेतत्तूक्तात्मकं
+> स्तोमः स्तोत्रं हृदि त्वदीये हृदये सु सुषूपश्रित उपगतः समवेतोऽस्तु ।
+> चिदिति पूरकः । अप्राप्तस्य प्रापणं योगः प्राप्तस्य रक्षणं क्षेमः । नोऽस्मदीये
+> क्षेमे रक्षणे शमुपद्रवाणां शमनमस्तु । योगे च नोऽस्मदीये प्रापणे
+> शमु शमनमेवास्तूपद्रवाणां । हे वरुणादयो देवाः नोऽस्मान्सर्वदा स्वस्तिभिरविनाशैः पात । रक्षत ॥
+
+##### Gist of the bhāṣya
+
+In the Ekādaśinī animal offering to Varuṇa, this Ṛk, beginning अयं (*ayaṃ*), is the anuvākyā for the purodāśa (cake) offering. The sūtra says so: the Ṛk beginning अयं सु तुभ्यं (*ayaṃ su tubhyaṃ*) followed by एवा वंदस्व वरुणं बृहंतं (*evā vaṃdasva varuṇaṃ bṛhaṃtaṃ*) (Ā. Sū. 3-7).
+
+O Varuṇa, possessor of food (स्वधावः (*svadhāvaḥ*)), may this स्तोमः (*stomaḥ*), this hymn of praise, made for you, be well (सु (*su*)) lodged (उपश्रितः (*upaśritaḥ*): approached, united) in your heart; चित् (*cit*) is a filler. योगः (*yogaḥ*) is the attainment of what has not been obtained; क्षेमः (*kṣemaḥ*) is the protection of what has been obtained. In our क्षेमे (*kṣeme*) (protection) let there be शं (*śaṃ*), the calming of calamities; and in our योगे (*yoge*) (attainment) let there be the same calming of calamities. O Varuṇa and the other gods, always protect us (पात (*pāta*)) with स्वस्तिभिः (*svastibhiḥ*), with imperishable blessings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधावः (*svadhāvaḥ*)—O one who has food
+- वरुण (*varuṇa*)—O god Varuṇa
+- तुभ्यं (*tubhyaṃ*)—made with you in view
+- अयं स्तोमः (*ayaṃ stomaḥ*)—this hymn, in the form of a sūkta
+- हृदि (*hṛdi*)—within your heart
+- सु (*su*)—in an excellent manner
+- उपश्रितः (*upaśritaḥ*)—lodged within
+- अस्तु चित् (*astu cit*)—may it be fruitful
+- नः (*naḥ*)—our
+- क्षेमे (*kṣeme*)—for protection
+- शं (*śaṃ*)—calming of calamities
+- अस्तु (*astu*)—let there be
+- नः (*naḥ*)—our
+- योगेच (*yogeca*)—our connection with happiness
+- शमु (*śamu*)—let it be auspicious (O Varuṇa and the other gods)
+- यूयं (*yūyaṃ*)—all of you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, possessor of food, may this hymn in the form of a sūkta, made with you in view, lodge in an excellent manner within your heart and be fruitful. For our protection, let there be the calming of calamities.
+
+### Printed p. 64
+Let our connection with happiness also be auspicious. O Varuṇa and the other gods, protect us always with blessings.
+
+##### English translation
+May this laudation, food-conferring Varuna, be taken to your heart: may success be ours in retaining what we have, and in acquiring more : and you, (deities), ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ekādaśinī offering, in the animal sacrifice made to the deity Varuṇa, this Ṛk beginning अयं (*ayaṃ*) is to be recited as the anuvākyā mantra of the purodāśa offering. This is set forth by the sūtra of the Āśvalāyana Śrautasūtra, अयं सु तुभ्यं वरुण स्वधाव एवा वंदस्व वरुणं बृहंतं (*ayaṃ su tubhyaṃ varuṇa svadhāva evā vaṃdasva varuṇaṃ bṛhaṃtaṃ*) (Ā. 3-7).
+
+## Sūkta 87 (Maṇḍala 7)
+The eighty-seventh sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रदत्पथ इति सप्तर्चं सप्तदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वारुणं । अनुक्रांतं च । रदत्सप्तेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning रदत्पथः (*radatpathaḥ*) has seven Ṛks and is the seventeenth sūkta. Its seer is Vasiṣṭha, its deity Varuṇa, its metre Triṣṭubh. The Anukramaṇī says रदत्सप्त (*radatsapta*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta beginning रदत्पथः (*radatpathaḥ*) is the seventeenth sūkta in the fifth anuvāka. It contains seven Ṛks. Its seer is Vasiṣṭha; its deity is Varuṇa; its metre is Triṣṭubh. In the Anukramaṇī it is said: रदत्सप्त (*radatsapta*). The viniyoga has been stated earlier.
+
+Sūkta—87
+Maṇḍala—7; Anuvāka—5; Sūkta—8
+Aṣṭaka—5; Adhyāya—6; Varga—9
+Number of Ṛks in the sūkta—7
+Ṛṣi—Vasiṣṭha
+Devatā—Varuṇa
+Chandas—Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रद॑त्प॒थो वरु॑णः॒ सूर्या॑य॒ प्रार्णां॑सि समु॒द्रिया॑  ॒॑
+> नदीनां ।  
+> सर्गो॒ न सृ॒ष्टो अर्व॑तीऋता॒यन् च॒कार॑ म॒हीर॒वनी॒रह॑भ्यः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रदत् । पथः । वरुणः । सूर्याय । प्र । अर्णांसि । समुद्रिया । नदीनां ।  
+> सर्गः । न । सृष्टः । अर्वतीः । ऋत्ययन् । चकार । महीः । अवनीः । अहभ्यः ॥ १॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं वरुणो देवः सूर्याय सर्वस्य प्रेरकायादित्याय पथो मार्गानंतरिक्षप्रदेशान् रदत् । प्रायच्छत् । समुद्रिया समुद्र उदधौ भवानि । यद्वा।
+> समुद्धवंत्यस्मादाप इति समुद्रमंतरिक्षं । तत्र भवानि । अर्णांस्युदकानि नदीनां
+> प्रासृजत् । सर्गो न । सृज्यते युद्धभूमौ सादिना प्रेय्यत इति सर्गोऽश्वः ।
+> स यथार्वतीर्वडवाः प्रति शीघ्रं गच्छति तद्वदृतायन्नृतं शीघ्रं गमनमात्मन
+> इच्छन्महीर्महतीरवनी रात्रीरहभ्योऽहोभ्य सकाशाच्चकार । भेदेन कृतवान् ।
+> अस्तं गच्छन्सौर्य एव वरुण इत्युच्यते । स हि स्वगमनेन रात्रीर्जनयति ॥
+
+##### Gist of the bhāṣya
+
+This god Varuṇa gave (रदत् (*radat*): प्रायच्छत् (*prāyacchat*)) to Sūrya, the impeller of all, that is, to the Āditya, the paths (पथः (*pathaḥ*)), the regions of the atmosphere. समुद्रिया (*samudriyā*) means those that are in the sea, the ocean; or else, "from which the waters well up" is समुद्र (*samudra*), the atmosphere, and the waters are those that are in it. He sent forth (प्रासृजत् (*prāsṛjat*)) the waters (अर्णांसि (*arṇāṃsi*)) of the rivers. सर्गो न (*sargo na*): सर्गः (*sargaḥ*) is a horse, which is "sent forth" by its rider on the battlefield; as it goes swiftly to the mares (अर्वतीः (*arvatīḥ*)), so, desiring for himself swift going (ऋतायन् (*ṛtāyan*): *ṛtaṃ* is swift motion), he made (चकार (*cakāra*): he made by separation) the great (महीः (*mahīḥ*)) nights (अवनीः (*avanīḥ*)) distinct from the days (अहभ्यः (*ahabhyaḥ*)). Sūrya going to his setting is himself called Varuṇa, for by his own going he brings the nights into being.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणः (*varuṇaḥ*)—the god Varuṇa
+- सूर्याय (*sūryāya*)—for Sūrya
+- पथः (*pathaḥ*)—the paths that travel in the atmosphere
+- प्र रदत् (*pra radat*)—arranged and gave
+- समुद्रिया (*samudriyā*)—those situated in the atmosphere
+- अर्णांसि (*arṇāṃsi*)—the waters
+- नदीनां (*nadīnāṃ*)—pouring swiftly into the rivers
+- सर्गो न (*sargo na*)—swiftly, like horses on the battlefield
+- सृष्टिः (*sṛṣṭiḥ*)—he made them flow
+- अर्वतीः (*arvatīḥ*)—like a swift-going horse
+- ऋतायन् (*ṛtāyan*)—engaged in the performance of his own work
+- महीः (*mahīḥ*)—great
+- अवनीः (*avanīḥ*)—the nights
+- अहभ्यः (*ahabhyaḥ*)—from the days
+- चकार (*cakāra*)—made separate
+
+### Printed p. 65
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa arranged for Sūrya the paths on which he travels in the atmosphere. He poured the waters of the atmosphere into the rivers and made them flow swiftly, like horses on the battlefield. Like a swift-going horse, engaged in the performance of his own work, he made the great nights separate from the days.
+
+##### English translation
+Varuna prepared a path for the sun : he set free the waters of the rivers generated in the firmement : hastaning (to his task), as a horse let loose rushes to (a flock of) mares, he divided the great nights from the days.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒त्मा ते॒ वातो॒ रज॒ आ न॑वीनोत्प॒शुर्न भूर्णी॒र्यव॑से  ॒
+> ससवान् ।  
+> अं॒तर्म॒ही बृ॑ह॒ती रोद॑सी॒मे विश्वा॑ ते॒ धाम॑ वरुण  ॒॑
+> प्रियाणि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत्मा । ते । वातः । रजः । आ । नवीनोत् । पशुः । न । भूर्णिः । यवसे । ससवान् ।  
+> अंतः । मही इति । बृहती इति । रोदसी इति । इमे इति । विश्वा । ते । धाम ।  
+> वरुण । प्रियाणि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण ते त्वदीयस्त्वयांतरिक्षे प्रेर्यमाणो वातो वायुरात्मा
+> सर्वस्य प्राणिजातस्य प्राणरूपेण धारयिता । स च रज उदकमा नवीनोत् ।
+> समंतात्प्रेरयति । वातेन हि वृष्टिर्जायते ' भूर्णिर्जगतो भर्ता स वायुर्यवसे घासे प्रक्षिप्ते सति यथा पशुरन्नवान्भवति तद्वत्ससवान् । ससमित्यन्ननाम ।
+> तद्वान्भवति । हविर्लक्षणमन्नमपि तस्मै प्रयच्छंतीत्यर्थः । यद्वा ॥ सनोतेः क्वसौ
+
+##### Gist of the bhāṣya
+
+O Varuṇa, your वातः (*vātaḥ*), the wind, impelled by you in the atmosphere, is the आत्मा (*ātmā*) of all living beings, sustaining them in the form of the vital breath. It stirs (आ नवीनोत् (*ā navīnot*)) the रजः (*rajaḥ*), the water, on all sides; for rain is produced by the wind. भूर्णिः (*bhūrṇiḥ*) is the sustainer of the world; that wind, as an animal becomes possessed of food when fodder (यवसे (*yavase*)) is thrown to it, is likewise ससवान् (*sasavān*) (*sasaṃ* is a name for food; he becomes possessed of it); the meaning is that they give him also food in the form of oblations. Or else (यद्वा (*yadvā*)) he derives it from the root सनोतेः (*sanoteḥ*) with the affix *kvasu* … **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 58. pp. 53-58 (batch API)
+**Progress note:** Done through printed p. 65. pp. 59-65 (batch API)
