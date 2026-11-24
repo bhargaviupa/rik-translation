@@ -3857,6 +3857,267 @@ Verily, impeller (of men), you are to be worshipped by praise; I apply to no oth
 
 O priests, pour (सिंचत (*siṃcata*)) the flowing (इंदुं (*iṃduṃ*)) Soma for Indra, that is, perform the sprinkling with the vessel material; the meaning is, press the Soma. Then let him drink (पिबाति (*pibāti*), that is, let him drink) the Soma-made honey, the Soma juice. Having drunk, Indra, by his own greatness (महित्वना (*mahitvanā*)), together with राधसा (*rādhasā*), that is, food, impels (चोदयाते (*codayāte*), that is, urges forcefully) wealth and the like towards the reciters. Or else: the sacrificer, by greatness (महित्वना (*mahitvanā*)), that is, the greatness of what is being given to Indra, together with food endowed with greatness, urges the reciters on; the meaning is that he impels the reciters, saying "an oblation has been given to Indra". **NOTE**
 
+### Printed p. 86
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राय (*iṃdrāya*)—(O priests) with Indra as the object
+- इंदुं (*iṃduṃ*)—the flowing Soma
+- आ सिंचतॆ (*ā siṃcatè*)—have it sprinkled together with the receiving substances
+- सोम्यं (*somyaṃ*)—that which is made of Soma
+- मधु (*madhu*)—and honey-making, the Soma juice
+- पिबाति (*pibāti*)—let Indra drink
+- महित्वना (*mahitvanā*)—joined with his own majesty
+- राधसा (*rādhasā*)—with food
+- प्र चोदयाते (*pra codayāte*)—he gives encouragement to the reciters
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, have the flowing Soma sprinkled with the receiving substances, with Indra as the object. Let Indra drink the Soma juice, which is made of Soma and honey-making. With food joined with his own majesty, Indra gives encouragement to the reciters.
+
+##### English translation
+Effuse the Soma juice for Indra, let him quaff the Soma beverage he by his might rewards (the donor) with wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator states that the meaning यजमानो महित्वना (*yajamāno mahitvanā*) is also possible. The purport is that the sacrificer, with food joined with his own greatness, urges the reciters on for the worship of Indra.
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उपो॒ हरी॑णां॒ पतिं॒ दक्षं॑ पृं॒चंत॑मब्रुवं ।  
+> नू॒नं श्रु॑धि स्तुव॒तो अ॒श्वस्य॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपो इति । हरीणां । पतिं । दक्षं । पृंचंतं । अब्रवं ।  
+> नूनं । श्रुधि । स्तुवतः । अश्वस्य ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरीणां हरितवर्णानामश्वानां पतिं पालयितारं दक्षं वर्धकं स्वबलं
+> पृंचंतं ॥ पृची संपर्के ॥ मरुत्सु योजयंतं । यद्वा । शत्रुषु स्वबलमा-
+
+##### Gist of the bhāṣya
+
+Indra is the lord and protector of the tawny-coloured horses (हरीणां (*harīṇāṃ*)), the increaser (दक्षं (*dakṣaṃ*)) of strength, who joins (पृंचंतं (*pṛṃcaṃtaṃ*), from the root meaning "to connect") his own strength with the Maruts. Or else, he is one who ranges, with his own strength, against the enemies
+### Printed p. 87
+
+> युधादिभिः संचर्यंतं । एतादृशमिंद्रं त्वामुपो अब्रवं । विश्वमना अहं
+> स्तोत्रं करवाणि । अश्वस्य । व्यश्वो नामर्षिरश्वशब्देनोच्यते । तस्य पुस्रस्य स्तुवतः
+> स्तोत्रं कुर्वतो मम संबंधिनीं त्वद्विषयां स्तुतिं नूनं संप्रति श्रुधि । शृणु ॥
+
+##### Gist of the bhāṣya
+
+with weapons and the like. To you, such an Indra, I, Viśvamanas, address (उपो अब्रवं (*upo abravaṃ*)): let me make praise. अश्वस्य (*aśvasya*): the seer named Vyaśva is spoken of by the word aśva; of his son, who am praising and making a hymn, hear now (नूनं (*nūnaṃ*), that is, at present) my praise concerning you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरीणां (*harīṇāṃ*)—to the horses of tawny colour
+- पतिं (*patiṃ*)—the protector
+- दक्षं (*dakṣaṃ*)—the increaser of strength
+- पृंचंतं (*pṛṃcaṃtaṃ*)—Indra, who joins his strength with the Maruts
+- उपो अब्रवं (*upo abravaṃ*)—I praise and extol (O Indra)
+- स्तुवतः (*stuvataḥ*)—the praiser
+- अश्वस्य (*aśvasya*)—my praise, who am the son of Vyaśva and named Viśvamanas
+- नूनं (*nūnaṃ*)—now
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+I praise and extol Indra, the protector of the tawny-coloured horses, the increaser of strength, who joins his strength with the Maruts. O Indra, hear at this time the praise of me, the praiser, the son of Vyaśva, named Viśvamanas.
+
+##### English translation
+Let me address the lord of steeds, who associates his strength (with the Maruts) : now hear the words of the son of Vyashwa praising you.
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒ह्य१॒ं॑ १ ग पु॒रा च॒न ज॒ज्ञे वी॒रत॑र॒स्त्वत् ।  
+> नकी॑ रा॒या नैवथा॒ न भं॒दना॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । अंग । पुरा । चन । जज्ञे । वीरतरः । त्वत् ।  
+> नकिः । राया । न । एवथा । न । भंदना ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वत्त्वत्तः पुरा पूर्वं वीरतरः सामर्थ्यवान् कश्चिन्नहि जज्ञे ।
+> जातः खलु । अंग प्रसिद्धौ । त्वमेव सामर्थ्यवाञ्चित इत्यर्थः । किंच त्वत्तोऽपि
+> राया धनेन समर्थो नकिर्न कश्चिदस्ति । तथैवथा शत्रुपुराणि संग्रामं वा प्रति
+
+##### Gist of the bhāṣya
+
+O Indra, no one more heroic, that is, more capable, than you was born before (पुरा (*purā*)); अंग (*aṃga*) is used in the sense of "well known". The meaning is that you alone are capable. Moreover, no one is as competent as you in wealth (राया (*rāyā*)). Likewise, with regard to एवथा (*evathā*), towards the enemies' cities or towards battle
+### Printed p. 88
+
+> गमनेन त्वत्तोऽधिको न जातः । यद्वा । एवथा ॥ अव रक्षणादिषु । अकारस्यॆकारश्नांदसः । औणादिकोऽथप्रत्ययः ॥ शरणागतानां स्तोत्कृणां चावनेन त्वत्तोऽधिको नास्ति । किंच बंधना । भंदतिः स्तुतिकर्मा । स्तुत्या च त्वदधिको न जातः ।
+> धनवान्रक्षकः स्तुत्यश्च त्वत्तोऽन्नो न जज्ञ इति ॥
+
+##### Gist of the bhāṣya
+
+in going, no one superior to you has been born. Or else, एवथा (*evathā*) is from the root अव (*ava*) in the senses of protecting and the like; the change of a to e is Vedic; the suffix is one of the Uṇādi kind. In protecting those who have come for refuge and the reciters, there is none greater than you. Moreover, बंधना (*baṃdhanā*): the root भंदतिः (*bhaṃdatiḥ*) has the sense of praise; in praise also no one greater than you has been born. The meaning is that no other, wealthy, protecting and praiseworthy, has been born than you. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वत् (*tvat*)—(O Indra) than you
+- पुरा चन (*purā cana*)—before
+- वीरतरः (*vīrataraḥ*)—one of greater capacity
+- न हि जज्ञे (*na hi jajñe*)—was not born at all
+- अंग (*aṃga*)—this is certain
+- राया (*rāyā*)—one more excellent than you in wealth
+- नकिः (*nakiḥ*)—there is surely no one
+- एवथा (*evathā*)—one who rushes upon the enemies
+- न (*na*)—there is no one equal to you
+- भंदना (*bhaṃdanā*)—one worthy of praise
+- न (*na*)—there is no one equal to you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, no one of greater capacity than you was born before. This is certain. Surely there is no one more excellent than you in wealth. There is no one as valiant as you in rushing upon the enemies. There is no one like you even in being worthy of praise.
+
+##### English translation
+No one, Indra, has ever been born more mighty than you; no one (surpassing you) in riches; no one (more powerful) in protection; no one (more entitled) to praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning "intent on the protection of those who have come for refuge" is also possible for एवथा (*evathā*). The commentary explains that to the root अव (*ava*), which has the sense of protecting, the Vedic letter e is added, and that एवथा (*evathā*) has come in place of अवथा (*avathā*).
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एदु॒ मध्यो॑ म॒दिंत॑रं सिं॒च वा॑ध्वयो॒ अंध॑सः ।  
+> ए॒वा हि वी॒रः स्तव॑ते स॒दावृ॑धः ॥ १६ ॥
+
+### Printed p. 89
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इत् । ऊं इति । मध्वः । मदिन्तरं । सिंच । वा । अध्वयो इति ।  
+> अंधसः ।  
+> एव । हि । वीरः । स्तवते । सदावृधः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऐदु मध्व इति तृचः पूर्वोक्ते ब्राह्मणाच्छंसिशस्त्रे वैकल्पिकोऽनुरूपः ।
+> सूत्रितं च । ऐदु मध्वो मदिंतरमेतो न्विंद्रं स्तवाम सखायः । आ. ७-८ । इति ॥
+> हे अध्वर्यो अध्वरस्य नेतर्यत्विक् सदावृधः सर्वदा वृद्धिमतो मध्वो
+> मदकरस्यांधसः सोमलक्षणस्यान्नस्य मदिंतरमत्यर्थं मादयितृतमं सोमरसमेवा सिंचेंद्रार्थं । आयमेवेंद्रः स्तवते हि । स्तोत्रशस्त्रादिभिः स्तूयते खलु ।
+> स्तुतायेंद्राय सोमो दाशव्यः । तस्मादा सिंचेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The tṛca beginning ऐदु मध्व (*aidu madhva*) is the alternative anurūpa in the śastra of the Brāhmaṇācchaṃsin spoken of before. It is also laid down in the sūtra: ऐदु मध्वो मदिंतरमेतो न्विंद्रं स्तवाम सखायः । (*aidu madhvo madiṃtarameto nviṃdraṃ stavāma sakhāyaḥ |*) (Ā. 7-8). O Adhvaryu, priest, leader of the sacrifice: pour (सिंच (*siṃca*)) for Indra the Soma juice itself, the most exhilarating (मदिंतरं (*madiṃtaraṃ*), that is, the greatest gladdener) of the intoxicating (मध्वः (*madhvaḥ*)) food (अंधसः (*aṃdhasaḥ*)) that has the nature of Soma, for him who is ever growing (सदावृधः (*sadāvṛdhaḥ*)). This very Indra is praised (स्तवते (*stavate*)) with stotras, śastras and the like. The Soma is to be given to Indra who is praised; therefore the connection is "pour".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वयो (*adhvayo*)—O Adhvaryu
+- वीरः (*vīraḥ*)—the capable
+- सदावृधः (*sadāvṛdhaḥ*)—he who always grows by oblations
+- एव हि (*eva hi*)—this very Indra
+- स्तवते (*stavate*)—is praised (therefore)
+- मध्वः (*madhvaḥ*)—intoxicating
+- अंधसः (*aṃdhasaḥ*)—of the Soma form
+- मदिंतरं (*madiṃtaraṃ*)—the joy-producing juice
+- आ सिंचॆ (*ā siṃcè*)—press for the sake of Indra
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu: this very Indra, the capable, who always grows by oblations, is praised by all. Therefore press, for the sake of Indra, the joy-producing juice of the intoxicating Soma.
+
+##### English translation
+Pour out, priest, the most exhilarating (draught) of the sweet (sacrificial) beverage, for he, the ever-mighty hero, alone is praised.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk इदु मध्वः (*idu madhvaḥ*) is to be recited as the alternative anurūpa tṛca in the śastra mantras recited by the priest called Brāhmaṇācchaṃsin, mentioned before; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, ऐदु मध्यो मदिंतरमेतोन्विंद्रं स्तवाम सखायः (*aidu madhyo madiṃtarametonviṃdraṃ stavāma sakhāyaḥ*) (Ā. 7-8).
+### Printed p. 90
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ स्थातर्हरीणां॒ नकि॑ष्टे पू॒र्वस्तु॑तिं ।  
+> उदा॑नंश॒ शव॑सा॒ न भं॒दना॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । सातः । हरीणां । नकिः । ते । पूर्व्यस्तुतिं ।  
+> उत् । आनंश । शवसा । न । छंदना ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरीणां स्थातरश्वानामधिष्ठातरिंद्र ते त्वदीयां पूर्वस्तुतिं पूर्वर्यषिभिः कृतां स्तुतिं । उपलक्षणं । इदानींतनैः क्रियमाणामपि स्तुतिं नकिर्न
+> कश्चिच्छवसा बलेनोदानंश । व्याप्प्नोति ॥ अशू व्याप्तौ । लिट्यश्नोतेश्वेति नुट् ।
+> छांदसो मुम् ॥ कश्चिन्नातिक्रामतीत्यर्थः । किंच भंदना सर्वैः प्रार्थनीयत्वात्
+> पूजनीयेन धनेन स्तुत्या वा त्वदीयां स्तुतिं न कश्चिदतिक्रामति । त्वत्तो बलवान्
+> धनी स्तुत्यो वान्यो नास्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, lord (स्थातर् (*sthātar*)) of the horses, the ancient praise of yours made by the earlier seers, which is a mere indication: no one (नकिः (*nakiḥ*)) surpasses by strength (शवसा (*śavasā*)) even the praise being made by present-day people; it pervades (उदानंश (*udānaṃśa*)); the meaning is that no one goes beyond it. Moreover, with भंदना (*bhaṃdanā*), that is, with wealth worthy of worship because it is sought by all, or with praise, no one goes beyond your praise. The meaning is that there is no other than you who is more powerful, wealthy or praiseworthy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरीणां (*harīṇāṃ*)—to the horses named Hari
+- स्थातः (*sthātaḥ*)—lord
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- पूर्वस्तुतिं (*pūrvastutiṃ*)—the praise made by the former seers (and likewise the modern praise)
+- शवसा (*śavasā*)—by strength
+- नकिः उदानंश (*nakiḥ udānaṃśa*)—no one can surpass
+- भंदना (*bhaṃdanā*)—either by worshipful wealth or by praise
+- न (*na*)—no one can surpass
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of the horses named Hari: no one can surpass your praise made by the former seers, and likewise the modern praise, either by strength, by wealth or by praise.
+
+##### English translation
+Indra, ruler of horses, no one surpasses your ancient praise, either for force or for fame.
+### Printed p. 91
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं प्रो॒ वाजा॑नां॒ पति॒महू॑महि श्रव॒स्यवः॑ ।  
+> अप्रा॑युभिर्य॒ज्ञेभि॑र्वावृ॒धेन्यं॑ ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वः । वाजानां । पतिं । अहूमहि । श्रवस्यवः ।  
+> अप्रायुभिः । यज्ञेभिः । ववृधेन्यं ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्रायुभिः कमस्वप्रमाद्यन्मनुष्ययुक्तैः । अथवा । अप्रमत्ता एकत्र स्थितैव
+> कर्म कुर्वंति । कर्म प्रारभ्य नान्यं देशं गच्छंतीत्यर्थः । एवंविधमनुष्ययुक्तैर्यज्ञेभिर्यज्ञैः । एतादृशमनुष्यैर्यज्ञैर्वा नावृधेन्यं वर्धनीयं
+> वाजानामन्नानां पतिं स्वामिनं वो यष्टयष्टव्यसंबंधेन युष्मदीयं तं
+> तादृशमिंद्रं श्रवस्यवो वयमन्नकामाः संतोऽहूमहि । आह्वयामः ॥ ह्वयतेर्लुजि बहुलं छंदसीति संप्रसारणं ॥
+
+##### Gist of the bhāṣya
+
+अप्रायुभिः (*aprāyubhiḥ*): by men endowed with unfailing attention. **NOTE** Or else, those who are not careless stay in one place and perform the rite; having begun the rite, they go to no other place. By the sacrifices (यज्ञेभिः (*yajñebhiḥ*)) of men so endowed, or of such men, Indra is to be magnified (वावृधेन्यं (*vāvṛdhenyaṃ*)), the lord (पतिं (*patiṃ*)) of foods (वाजानां (*vājānāṃ*)), yours (वः (*vaḥ*)) through the relation of sacrificer and what is to be sacrificed. We, desirous of food (श्रवस्यवो (*śravasyavo*)), invoke (अहूमहि (*ahūmahi*), that is, call) that Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्रायुभिः (*aprāyubhiḥ*)—having sacrificers endowed with a single-minded attention, free from heedlessness
+- यज्ञेभिः (*yajñebhiḥ*)—by sacrifices
+- वावृधेन्यं (*vāvṛdhenyaṃ*)—one who grows
+- वाजानां (*vājānāṃ*)—of foods
+- पतिं (*patiṃ*)—the lord
+- वः (*vaḥ*)—and belonging to all of you
+- तं (*taṃ*)—that same Indra
+- अवस्यवः (*avasyavaḥ*)—as seekers of protection **NOTE**
+- अहूमहि (*ahūmahi*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+Through sacrifices whose sacrificers are free from heedlessness and endowed with single-minded attention, that same Indra, who grows, the lord of foods, who belongs to all of you, is called by us with prayer, as seekers of protection.
+
+##### English translation
+Desirous of food, we invoke your lord of viands, who is to be magnified by sacrifices (offered) by attentive (worshippers).
+
 ---
 
-**Progress note:** Done through printed p. 85. Ṛk 7 (end) to Ṛk 13 of Sūkta 24 (pp. 80-85)
+**Progress note:** Done through printed p. 91. Ṛk 13 (end) to Ṛk 18 of Sūkta 24 (pp. 86-91)
