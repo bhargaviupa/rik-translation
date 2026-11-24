@@ -3943,6 +3943,304 @@ In the second Chandoma day, in the Prauga-śastra, of the Vāyavya tṛca, this 
 - सुदिनाः (*sudināḥ*)—as the cause of excellent days
 - उच्छन् (*ucchan*)—appeared
 
+### Printed p. 96
+
+*(The Pratipadārtha of Ṛk 4 continues:)*
+- the Aṅgirases
+- दीध्यानाः (*dīdhyānāḥ*)—shining
+- उरु (*uru*)—vast
+- ज्योतिः (*jyotiḥ*)—the light of the sun
+- विविदुः (*vividuḥ*)—obtained
+- उशिजः (*uśijaḥ*)—the same Aṅgirases, who desired to obtain the cows
+- गव्यं चित् (*gavyaṃ cit*)—in the form of a herd of cows
+- ऊर्वं (*ūrvaṃ*)—wealth
+- वि ववुः (*vi vavuḥ*)—obtained (from the Paṇis who had stolen them)
+- तेषां (*teṣāṃ*)—for these Aṅgirases themselves
+- प्रदिवः (*pradivaḥ*)—ancient
+- आपः (*āpaḥ*)—waters
+- अनु सस्रुः (*anu sasruḥ*)—flowed
+
+##### भावार्थ (Bhāvārtha)
+
+For the Aṅgirases, worshippers of Vāyu, the blameless dawns appeared as the cause of good days. The same Aṅgirases, shining, obtained the vast light of the sun. The same Aṅgirases, desiring to obtain cows, obtained from the Paṇis who had stolen them their wealth in the form of a herd of cows. For these Aṅgirases themselves the ancient waters flowed.
+
+##### English translation
+The blameless dawns (ushering) bright days have broken, and, shining radiantly, (the Angirasas) have obtained the vast light (the sun): desirous (to recover it) they have obtained their wealth of cattle, and the ancient waters have subsequently issued for their good.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of reciting the mantras of the second chandoma day, while the Praüga-śastra mantras are recited, this Ṛk beginning उच्छन्नुषसः (*ucchannuṣasaḥ*) is to be recited as the third Ṛk in the Vāyavya tṛca (the three Ṛks addressed to Vāyu). This is explained by the Āśvalāyana Śrauta-sūtra in the sūtra उच्छन्नुषसः सुदिना अरिद्रा इत्येकषातिन्यः (*ucchannuṣasaḥ sudinā aridrā ityekaṣātinyaḥ*) (Ā. Sū. 8.10).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते स॒त्येन॒ मन॑सा॒ दीध्या॑नाः॒ स्वेन॑ यु॒क्तासः॒ क्रतु॑ना वहंति ।  
+> इंद्र॑वायू वीर॒वाहं॒ रथं॑ नामीता॒नयो॑र॒भि पृक्षः॑  
+> सचंते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> के । सत्येन । मनसा । दीध्यानाः । स्वेन । युळ्तासः । क्रतुना । वडंति ।  
+> इंद्रवायू इति । वीरवाहं । रथं । नां । ईशानयोः । अभि । पृक्षः । सचंते ॥
+
+### Printed p. 97
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीये छंदोमे प्रउगशस्त्रे ते सत्येनेत्यैंद्रवायवस्त्रचः। सूत्रितं च।
+> ते सत्येन मनसा दीध्याना दिवि क्षयंता रजसः पृथिव्यां । आ. ८-११ । इति ॥
+> ते प्रसिद्धाः सत्येन यथार्थेन मनसा मननीयेन स्तोत्रेण युक्ता
+> दीध्याना दीप्यमानाः स्वेन स्वकीयत्वे विहितेन क्रतुना कर्मणा नित्यनैमित्तिकात्मना
+> युक्तासो युक्ता एवंभूता यजमाना हे इंद्रवायू वीरवाहं वीरैर्विशेषेणेरयितृभिः स्तोतृभिर्वहनीयं प्रापणीयं । यद्वा । वीरैरश्वैर्वहनीयं । तमीशानयोरीश्वरयोर्वां युवयोः स्वभूतं रथं वहंति । स्वं
+> स्वं यज्ञं प्रापयंति । तत्र च वृक्षोऽन्नानि हविर्लक्षणान्यभि सचंते । युवामभिसेवंते ॥
+
+##### Gist of the bhāṣya
+
+In the Praüga-śastra of the third chandoma day, the Aindravāya tṛca begins with ते सत्येन (*te satyena*). The sūtra says so too, beginning with the verse "ते सत्येन मनसा दीध्याना (*te satyena manasā dīdhyānā*)" (Ā. Sū. 8-11). "Those well-known (worshippers), joined with true, that is, factual, mind, that is, a hymn fit to be meditated upon, shining, and joined with the rite (kratu) prescribed for their own, whether obligatory or occasional — such sacrificers, O Indra and Vāyu, convey the chariot of you two lords, which is hero-borne: to be borne by singers who impel it specially; or else, to be borne by heroic horses. They bring each his own sacrifice. And there the foods in the form of oblations attend you." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu, deities
+- ते (*te*)—the well-known
+- सत्येन (*satyena*)—true, in essence
+- मनसा (*manasā*)—joined with praise that is of the nature of meditation
+- दीध्यानाः (*dīdhyānāḥ*)—shining
+- स्वेन (*svena*)—prescribed for themselves
+- क्रतुना (*kratunā*)—by the obligatory rites
+- युक्तासः (*yuktāsaḥ*)—joined with; the sacrificers
+- ईशानयोः (*īśānayoḥ*)—of you, the lords of all
+- वां (*vāṃ*)—your
+- वीरवाहं (*vīravāhaṃ*)—borne by vigorous horses
+- रथं (*rathaṃ*)—the chariot
+- वहंति (*vahaṃti*)—convey to their own sacrifices
+- पृक्षः (*pṛkṣaḥ*)—foods in the form of oblations
+- अभि सचंते (*abhi sacaṃte*)—(in that sacrifice) attend you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, sacrificers who are shining, joined with praise that is true and meditative, and joined with the obligatory rites prescribed for them, convey to their own sacrifices your chariot, borne by vigorous horses, you who are lords of all. In that sacrifice the foods in the form of oblations attend you.
+
+##### English translation
+Those (worshippers) illustrious by sincere adoration, assiduous in the discharge of their own duties, bring to you, Indra and Vayu, a hero-bearing chariot, and present to you, two sovereigns, (sacrificial) food.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of reciting the mantras of the third chandoma day, for the Praüga-śastra mantras, the three Ṛks beginning ते सत्येन (*te satyena*) are to be recited as the Aindravāya tṛca (the three Ṛks addressed to Indra and Vāyu). This is explained by the Āśvalāyana Śrauta-sūtra in the sūtra ते सत्येन मनसा दीध्याना दिवि क्षयंता रजसः पृथिव्यां (*te satyena manasā dīdhyānā divi kṣayaṃtā rajasaḥ pṛthivyāṃ*)
+
+### Printed p. 98
+
+(Ā. Sū. 8.11).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒शा॒नासो॒ ये दध॑ते॒ स्व॑र्णो॒ गोभि॒रश्वे॑भि॒र्वसु॑भि॒र्हिर॑ण्यैः ।  
+> इंद्र॑वायू सू॒रयो॒ विश्व॒मायु॒रर्व॑द्भिर्वी॒रैः पृत॑नासु  
+> सह्युः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईशानासः । ये । दधते । स्वः । नः । गोभिः । अश्वेभिः । वसुभिः । हिरण्यैः ।  
+> इंद्रवायू इति । सूरयः । विश्वं । आयुः । आर्वत्भिः । वीरैः । पृतनासु ।  
+> सह्युः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रवायू ईशानास ईश्वराः प्रभवो ये जना नोऽस्मभ्यं गोभिरश्वेभिरश्वैर्वसुभिर्निवासकैर्हिरण्यैश्च सहितं स्वः सुष्परणीयं सुखं दधते ददति
+> प्रयच्छंति । यद्वा । हिरण्यव्यतिरिक्तानि धनानि वसूनि । तैर्हिरण्यैश्च सहेत्यर्थः । ते
+> सूरयो दातारो विश्वं व्याप्तमायुरन्नं जीवनं वा शत्रूणां स्वभूतं पृतनासु
+> संग्रामेश्वर्वद्धि रश्वैर्विरैः सूरभटैश्च साधनभूतैः सह्युः। अभिभवेयुः । यद्वा ।
+> सहार्थे तृतीया । अर्वद्धिर्वीरैः पुत्र्यैश्च सहितं शत्रूणामायुरभिभवेयुरित्यर्थः॥
+
+##### Gist of the bhāṣya
+
+"O Indra and Vāyu, those people who are lords, masters, and who give, bestow upon us स्वः (*svaḥ*), a happiness to be desired, together with cows, horses, वसुभिः (*vasubhiḥ*) (that is, dwellings) and gold." Or else: वसूनि (*vasūni*) are riches other than gold; the sense is "together with those and with gold". "Those donors (sūris) in battles — with horses and heroes, the brave warriors, as their means — may overcome the whole, extended आयुः (*āyuḥ*) of their enemies, that is, their food or their life." Or else: the instrumental has the sense of accompaniment; the meaning is that, together with horses, heroes and sons, they may overcome the life of the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu, deities
+- ईशानासः (*īśānāsaḥ*)—the lords
+- ये (*ye*)—those sacrificers who
+- नः (*naḥ*)—for us
+- गोभिः (*gobhiḥ*)—endowed with cows
+- अश्वेभिः (*aśvebhiḥ*)—endowed with horses
+- वसुभिः (*vasubhiḥ*)—endowed with dwelling-places
+- हिरण्यैः (*hiraṇyaiḥ*)—made of gold
+- स्वः (*svaḥ*)—a life of happiness
+- दधते (*dadhate*)—provide
+- सूरयः (*sūrayaḥ*)—such donors
+- पृतनासु (*pṛtanāsu*)—in battles
+- अर्वद्भिः (*arvadbhiḥ*)—accompanied by horses
+- वीरैः (*vīraiḥ*)—accompanied by heroic sons and others
+- विश्वं (*viśvaṃ*)—all-pervading
+- आयुः (*āyuḥ*)—food and life
+- सह्युः (*sahyuḥ*)—may they win, conquering from their enemies
+
+### Printed p. 99
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, those lordly sacrificers who provide for us a happy life endowed with cows, horses, dwelling-places and wealth of gold — may such donors, in battles, conquer from their enemies the all-pervading food and life, accompanied by horses and by heroic sons and others.
+
+##### English translation
+May those munificent princes who confer upon us prosperity by gifts of cattle, horses, treasure, gold, overcome, Indra and Vayu, the entire existence (of their enemies) in contests with horses and with heroes.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्वं॑तो॒ न श्रव॑सो॒ भिक्ष॑माणा इंद्रवा॒यू सु॑स्तु॒तिभि॒र्वसि॑ष्ठाः ।  
+> वा॒ज॒यंतः॒ स्वव॑से हुवेम यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वंतः । न । श्रवसः । भिक्षमाणाः । इंद्रवायू इति । सुस्तुतिभिः । वसिष्ठाः ।  
+> वाजयंतः । सु । अवसे । हुवेम । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्वंतो नाश्वा इव हविषां वोढारः श्रवसोऽन्नस्य । द्वितीयार्थे षष्ठी ।
+> अन्नं भिक्षमाणा याचमाना वाजयंतो वाजं बलमात्मन इच्छंतो वसिष्ठा
+> वयं स्ववसे शोभनरक्षणाय सुष्टुतर्पणाय वा सुष्टुतिभिः शोभनाभिः स्तुतिभिरिंद्रवायू इंद्रं वायुं च हुवेम । आह्वयेमहि । अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+"Like horses, bearers of oblations — श्रवसः (*śravasaḥ*) is a genitive in the sense of the accusative, so 'food' — begging food, desiring वाजं (*vājaṃ*), that is, strength for ourselves, we Vasiṣṭhas call upon Indra and Vāyu with good praises, for good protection or for good satisfaction. The rest has been dealt with already."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रवसः (*śravasaḥ*)—food
+- भिक्षमाणाः (*bhikṣamāṇāḥ*)—begging
+- वाजयंतः (*vājayaṃtaḥ*)—desiring strength
+- वसिष्ठाः (*vasiṣṭhāḥ*)—we, of the Vasiṣṭha line
+- अर्वंतो न (*arvaṃto na*)—as horses bear a burden, so we too, bearing the oblation
+
+### Printed p. 100
+
+- स्ववसे (*svavase*)—for good protection
+- सुष्टुतिभिः (*suṣṭutibhiḥ*)—with good praises
+- इंद्रवायू (*iṃdravāyū*)—Indra and Vāyu
+- हुवेम (*huvema*)—we call, praying (O Indra and the other deities)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+We, who beg for food, desire strength and are of the Vasiṣṭha line, bearing the oblation as horses bear a burden, call upon Indra and Vāyu in prayer with good praises for good protection. O Indra and the other deities, protect us always with blessings.
+
+##### English translation
+We, Vasishthas, (bearing oblations) like horses (bearing burdens) soliciting food, desiring strength, invoke with praises Indra and Vayu for (our) sure defence : ever cherish us with blessings.
+
+## Sūkta 91 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कुविदंगेति सप्तर्चं द्वितीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं नायव्यं ।
+> कुविदंगेत्यनुक्रांतं ॥ गतः सूक्तविनियोगः ॥ नायव्ये पशौ कुविदंगेति वपाया
+> याज्या । सूत्रितं च । कुविदंग नमसा ये वृधास ईशानाय प्रहुतिं यस्त
+> आनट् । आ. ३-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, कुविदंग (*kuvidaṃga*), of seven Ṛks; the seer is Vasiṣṭha, the metre Triṣṭubh, the deity Vāyu. The Anukramaṇī says कुविदंग (*kuvidaṃga*). The use of the sūkta has been stated already. In the animal sacrifice addressed to Vāyu, the Ṛk कुविदंग (*kuvidaṃga*) is the yājyā for the vapā offering. The sūtra says so too, with the verse beginning कुविदंग (*kuvidaṃga*) (Ā. Sū. 3-8).
+
+##### Anuvāda
+
+This sūkta, कुविदंग (*kuvidaṃga*), is the second sūkta in the sixth anuvāka. It has seven Ṛks. The seer of this sūkta is Vasiṣṭha; the deity is Vāyu; the metre is Triṣṭubh. In the Anukramaṇī it is indicated by कुविदंग (*kuvidaṃga*). The use of the sūkta was stated earlier. In the animal sacrifice performed for the deity Vāyu, this Ṛk कुविदंग (*kuvidaṃga*) is to be used as the yājyā mantra of the vapā offering, as explained by the Āśvalāyana Śrauta-sūtra in the sūtra कुविदंग नमसा ये वृधास ईशानाय प्रहुतिं यस्त आनट् (*kuvidaṃga namasā ye vṛdhāsa īśānāya prahutiṃ yasta ānaṭ*) (Ā. Sū. 3-8).
+
+### Printed p. 101
+
+Maṇḍala 7; Anuvāka 6; Sūkta 91.
+Aṣṭaka 5; Adhyāya 6; Varga 13.
+Number of Ṛks in the sūkta: 7.
+Ṛṣi: Vasiṣṭha.
+Devatā: 1-3 Vāyu; 2, 4-7 Indra and Vāyu. **NOTE**
+Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒विदं॒ग नम॑सा॒ ये वृ॒धासः॑ पु॒रा दे॒वा अ॑नव॒द्यास॒ आस॑न् ।  
+> ते वा॒यवे॒ मन॑वे बाधि॒तायावा॑सयन्नु॒षसं॒ सूर्ये॑ण ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । अंग । नमसा । ये । वृधासः । पुरा । देवाः । अनवद्यासः । आसन् ।  
+> ते । वायवे । मनवे । बाधिताय । अवासयन् । उषसं । सूर्येण ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दीवंति स्तुवंतीति देवाः स्तोतारः । पुरा पूर्वस्मिन्काले ये वृधासो
+> वृद्धा देवाः स्तोतारः । कुविदिति बहुनाम । अंगेति क्षिप्रनाम । कुविद्बहुशोऽज्ञ
+> क्षिप्रं कृतेन नमसा वायुविषयेण स्तोत्रेण नमस्कारेण वानवद्यासोऽवद्यरहिता आसन् तेऽद्वापि वायवे हवींषि दातुं सूर्येण संतोषसमवासयन् ।
+> उषसो व्युष्टिं सूर्योदयं च वायुयागार्थं कुर्वंतीत्यर्थः । किमर्थं ।
+> मनवे । मनष्याणां बाधिताय बाधितानां पुत्रादीनां रक्षणार्थमित्यर्थः। यद्वा।
+> मनवे बाधितायेति षष्ठ्यर्थे चतुर्थ्यौ । बाधितस्य मनोः प्रजापतेर्यागे
+> वायवे हवींषि दातुमित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+"देवाः (*devāḥ*) are those who दीवंति (*dīvaṃti*), that is, praise: the praisers. Those praisers who formerly, in an earlier time, were वृधासः (*vṛdhāsaḥ*), that is, aged. कुवित् (*kuvit*) is a word for 'much'; अंग (*aṃga*) is a word for 'quickly'. Through a homage (नमसा (*namasā*)) done frequently and quickly, a hymn or act of reverence addressed to Vāyu, they were अनवद्यासः (*anavadyāsaḥ*), free from fault. Those same praisers now too, in order to give oblations to Vāyu, together with the sun, संतोषसमवासयन् (*saṃtoṣasamavāsayan*): they bring about the dawning of Uṣas and the rising of the sun for Vāyu's sacrifice." **NOTE** "For what purpose? मनवे बाधिताय (*manave bādhitāya*): for the protection of afflicted humans, that is, of afflicted sons and others." Or else: मनवे (*manave*) and बाधिताय (*bādhitāya*) are datives in the sense of the genitive; the construction is "in the sacrifice of the afflicted Manu Prajāpati, to give oblations to Vāyu".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरा (*purā*)—in former time
+- वृधासः (*vṛdhāsaḥ*)—aged
+- ये देवाः (*ye devāḥ*)—which praisers
+- कुवित् (*kuvit*)—frequently
+- अंग (*aṃga*)—performed quickly
+- नमसा (*namasā*)—by the hymn praising Vāyu
+- अनवद्यासः (*anavadyāsaḥ*)—free from sin
+- आसन् (*āsan*)—were
+- ते (*te*)—those same praisers (now too)
+- वायवे (*vāyave*)—to offer oblations to Vāyu
+- सूर्येण (*sūryeṇa*)—together with the sun
+
+### Printed p. 102
+
+- उषसं (*uṣasaṃ*)—Uṣas
+- बाधिताय (*bādhitāya*)—afflicted by enemies
+- मनवे (*manave*)—for the protection of the sons of Manu (humans)
+- आवासयन् (*āvāsayan*)—made to appear with radiance
+
+##### भावार्थ (Bhāvārtha)
+
+The aged praisers who in all former times were freed from sin by a hymn that was performed in many ways, according to rule, and that praised Vāyu — those same praisers now too, in order to offer oblations to Vāyu for the protection of the sons of Manu afflicted by enemies, have caused Uṣas, together with the sun, to appear with radiance.
+
+##### English translation
+Those venerable worshippers, who by promptly and frequently (adoring Vayu) with reverence were formerly free from reproach, have now illumined Ushas and the sun for sacrificing to Vayu and (the preservation of) embarrassed mankind.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒शंता॑ दू॒ता न दभा॑य गो॒पा मा॒सश्च॑ पा॒थः श॒रद॑श्च  ॒
+> पूर्वीः ।  
+> इंद्र॑वायू सुष्टु॒तिर्वा॑मिया॒ना मा॑र्डि॒कमि॑ट्टे सुवि॒तं ॒ ॑
+> च नव्यं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उशंता । दूता । न । दभाय । गोपा । मासः । च । पाथः । शरदः । च । पूर्वीः ।  
+> इंद्रवायू इति । सुस्तुतिः । वां । इयाना । मार्डिकं । ईट्टे ' सुवितं । च ।  
+> नव्यं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीये छंदोमे प्रलुगशस्त्र ऐंद्रवायवतृचस्योशंतेत्येषा प्रथमा ।
+> सूत्रितं च । उशंता दूता न दभाय गोपा यावत्तरस्तन्वो यावदोज इत्येका
+> द्वे च । आ. ८-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Praüga-śastra of the second chandoma day, this उशंता (*uśaṃtā*) is the first Ṛk of the Aindravāya tṛca. The sūtra says so too: उशंता दूता न दभाय गोपा यावत्तरस्तन्वो यावदोज इत्येका द्वे च । (*uśaṃtā dūtā na dabhāya gopā yāvattarastanvo yāvadoja ityekā dve ca |*) (Ā. Sū. 8-10).
+
 ---
 
-**Progress note:** Done through printed p. 95. pp. 84-95 (batch API)
+**Progress note:** Done through printed p. 102. pp. 96-102 (batch API)
