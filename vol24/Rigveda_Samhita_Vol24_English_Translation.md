@@ -31630,6 +31630,302 @@ O Indra, you approve the giving to the performer of the sacrifice of herds of co
 ##### English translation
 You grant many hundreds and thousands of herds as a gift (to the offerer). Uttering long praises, we, hymning Indra, the destroyer of cities, bring him before us for our protection.
 
+### Printed p. 697
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वि॒प्रो वा॒ यदवि॑ध॒द्विप्रो॑ वेंद्र ते॒ वचः॑ ।  
+> स प्र म॑मंदत्वा॒ या श॑तक्रतो॒ प्राचा॑मन्यो॒ अहं॑सन ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अविप्रः । वा । यत् । अविधत् । विप्रः । वा । इंद्र । ते । वचः ।  
+> सः । प्र । ममंदत् । त्वाया । शतक्रतो इति शतक्रतो । प्राचामन्यो इति  
+> प्राचामन्यो । अहंसन ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव वचः स्तोत्रं यद्योऽविप्रो वामेधाव्यस्तुतिकुशलो
+> वा विप्रो मेधावी स्तुतिकुशलो वाविधत् कुर्यात् । त्वां स्तौतीत्यर्थः । स स्तोता
+> त्वाया त्वयाच्छया साधनेन प्र ममंदत् । प्रकर्षण मोदते । हे शतक्रतो
+> बहुकर्मन् हे प्राचामन्यो प्राचीनक्रोध । अप्रतिहतक्रोधेत्यर्थः । न
+> हींद्रक्रोधं प्रतिहंति कश्चित् । हे अहंसन । संग्रामेऽहमित्यात्मनो महत्त्वं
+> प्रकाशयन्यः शत्रुं संभजते स तथोक्तः । तादृशेंद्र ॥
+
+##### Gist of the bhāṣya
+
+O Indra, whoever it may be who performs your vacas, your hymn of praise, whether he is avipra, not intelligent and not skilled in praise, or vipra, intelligent and skilled in praise, that is, whoever praises you, that praiser rejoices exceedingly, pra mamandat, through you, by your favour as the means. O Śatakratu, doer of many works; O Prācāmanyu, of ancient anger, that is, of anger that is never checked, for no one checks Indra's anger. O Ahaṃsana: one who, in battle, proclaiming his own greatness with the words "I am the one", comes to grips with the enemy is so called. Such is Indra. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O doer of many works
+- प्राचामन्यो (*prācāmanyo*)—O one whose anger is eternal
+- अहंसन (*ahaṃsana*)—O one who proclaims, boasting, his own prowess in battles
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—directed to you
+- वचः (*vacaḥ*)—the hymn
+- यत् (*yat*)—which
+- अविप्रः वा (*avipraḥ vā*)—whether a praiser of dull intelligence
+- विप्र वा (*vipra vā*)—or a praiser who is intelligent
+- आविधत् (*āvidhat*)—recites
+- सः (*saḥ*)—that praiser
+- त्वया (*tvayā*)—by your favour
+- प्र ममंदत् (*pra mamaṃdat*)—attains joy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many works, whose anger is eternal, who proclaim your prowess in battles with boasting, the praiser who recites a hymn directed to you, whether he be of dull intelligence or intelligent, attains only joy by your favour.
+
+### Printed p. 698
+
+##### English translation
+Indra, whether it be the unskilled or the skilled who celebrates your praise, each rejoices in his desire for you, O Shatakratu, whose wrath presses ever forwards, who meet the foe, proclaiming " it is I "
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ग्रबा॑हुर्मुर्क्ष॒कृत्वा॑ पुरंद॒रो यदि॑ मे शृ॒णव॒द्धवं॑ ।  
+> व॒सू॒यवो॒ वसु॑पतिं श॒तक्र॑तुं॒ स्तोमै॒रिंद्रं॑ हवामहे॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उग्रबाहुः । म्रक्षकृत्वा । पुरंदरः । यदि । मे । शृणवत् । हवं ।  
+> वसुयवः । वसुपतिं । शतक्रतुं । स्तोमैः । इंद्रं । हवामहे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उग्रबाहुरुद्गर्णभुजो म्रुकृत्वा वधकर्ता शत्रोणां पुरंदरः पुराणां
+> दारयितेंद्रो यदि मे हवं शृणवत् शृणुयात् तर्हि वसूयावो वसुकामा
+> वयं वसुपतिं बहुधनस्वामिनं शतक्रतुमसरिमितप्रज्ञमिंद्रं स्तोमैः स्तोत्रै
+> र्हवामहे । आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+Ugrabāhu is one whose arms are mighty; the slayer of enemies; Purandara, the splitter of cities. If Indra hears my call, then we, desiring wealth, call with stomas, with hymns, Indra, the lord of wealth, the owner of much riches, Śatakratu, of immeasurable wisdom.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रबाहुः (*ugrabāhuḥ*)—he who has arms of exceeding strength
+- म्रुकृत्वा (*mrukṛtvā*)—the destroyer of enemies
+- पुरंदरः (*puraṃdaraḥ*)—Indra, the destroyer of enemy cities
+- यदि (*yadi*)—if
+- मे (*me*)—my
+- हवं (*havaṃ*)—hymn
+- शृणवत् (*śṛṇavat*)—he hears (then)
+- वसूयवः (*vasūyavaḥ*)—we, who desire wealth
+- वसुपतिं (*vasupatiṃ*)—the lord of wealth
+- शतक्रतुं (*śatakratuṃ*)—the doer of many works
+- इंद्रं (*iṃdraṃ*)—Indra
+- स्तोमैः (*stomaiḥ*)—with hymns
+- हवामदे (*havāmade*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+If Indra, who has arms of exceeding strength, the destroyer of enemies, the destroyer of enemy cities, hears my hymn, then we, who desire wealth, call with hymns Indra, the lord of wealth, the doer of many works.
+
+### Printed p. 699
+
+##### English translation
+If the strong-armed slayer of enemies, the destroyer of cities, will but hear my invocation, we, desiring wealth, will with our praises call on Indra Shatakratu, the lord of wealth.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न पा॒पासो॑ मनामहे॒ नारा॑यासो॒ न जळ्ह॑वः ।  
+> यदिन्निंद्रं॒ वृष॑णं॒ सचा॑ सु॒ते सखा॑यं कृ॒णवा॑महै ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । पापासः । मनामहे । न । अरायाः । न । जळ्हवः ।  
+> यत् । इत् । नु । इंद्रं । वृषणं । सचा । सुते । सखायं । कृणवामहै ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमिंद्रं पापासः पापा अकृतपुण्या ब्रह्मचर्यव्रतादिरहिता न मनामहे । न
+> मन्यामहे । तथारायासोऽराया अधना वाहविष्का वा न मनामहे । न जळ्हवोऽज्वलना अनग्नयो न मनामहे । कृतव्रतनियमादिपुण्या दानवंतोऽग्नि सहितास्तं स्तुम इत्यृषिरात्मानमाह । यदिद्यस्मादेव कारणान्विदानीं वृषणं वर्षकमिंद्रं सुते सोमेऽभिषुते सचा सहिताः सखायं कृणवामहै कुर्मः तस्मात्पापादिरहिता मनामहे । पापादिविशिष्टानामिंद्रसाहाय्यकरणासंभवात् । अत्र न
+> पापा मन्यामहे । नि. ६-२५ । इत्यादिनिरुक्तं द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+We are not pāpāsaḥ, sinners, that is, without merit and without the vows of brahmacarya and the like; na manāmahe, we do not think so. Likewise we do not think ourselves arāyāsaḥ, without wealth or without oblations; nor jalhavaḥ, without blaze, without fires. We have performed vows and observances and have merit, we are givers, and we are accompanied by fire: so the seer says of himself. Since now, when the Soma is pressed, we together make Indra, the showerer of rain, our friend, therefore, free of sin and the rest, we think so; for those marked by sin and the like cannot be Indra's helpers. Here the Nirukta beginning न पापा मन्यामहे (*na pāpā manyāmahe*) (Ni. 6-25) and so on is to be consulted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पापासः (*pāpāsaḥ*)—being of a stained mind
+- न मनामहे (*na manāmahe*)—we do not meditate on Indra
+- अरायासः न (*arāyāsaḥ na*)—not lacking oblations
+- न (*na*)—we do not worship
+- न जल्लवः (*na jallavaḥ*)—we do not worship Indra without the sacrificial fire
+- यदित् (*yadit*)—for that very reason
+- नु (*nu*)—now
+- वृषणं (*vṛṣaṇaṃ*)—the giver of what is wished
+- इंद्रं (*iṃdraṃ*)—Indra
+- सुते (*sute*)—when the Soma juice is pressed
+- सचा (*sacā*)—being assembled together
+- सखायं (*sakhāyaṃ*)—as our friend
+- कृणवामहै (*kṛṇavāmahai*)—we make
+
+### Printed p. 700
+
+##### भावार्थ (Bhāvārtha)
+
+When we meditate on Indra we are not of a stained mind; when we worship we worship offering oblations that we possess; and we do not worship Indra without the sacrificial fire. For that very reason, now that the Soma juice is pressed and ready, all of us assembled together make Indra, the giver of what is wished, our friend.
+
+##### English translation
+We are not evil who worship him, nor too poor to offer gifts, nor destitute of sacred fires,— since assembled together, when the Soma is diffused, we make Indra, the showerer, our friend.
+
+##### विशेषविषयगळु (Special Topics)
+
+Jalhavaḥ: Yāska has given the etymology of this word in this way: न पापासो मनामहे नारायासो न जल्हवः । न पापा मन्यामहे नाधना न ज्वलनेन हीनाः । अस्त्यस्मासु ब्रह्मचर्यमध्ययनं तपो दानकर्मेत्यृषिरवोचत् (*na pāpāso manāmahe nārāyāso na jalhavaḥ | na pāpā manyāmahe nādhanā na jvalanena hīnāḥ | astyasmāsu brahmacaryamadhyayanaṃ tapo dānakarmetyṛṣiravocat*) (Ni. 6-25). Jalvavaḥ means those who are free from sin. The sense of the sentence in the present Ṛk is: we are not sinful, not poor and not lacking brilliance; in us there are all these qualities, brahmacarya, study, austerity, charity and performance of rites; so the seer has said. This is the chief intention of the explanation.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ग्रं यु॑युज्म॒ पृत॑नासु सास॒हिमृ॒णका॑ति॒मदा॑भ्यं ।  
+> वेदा॑ भृ॒मं चि॒त्सनि॑ता र॒थीत॑मो वा॒जिनं॒ यमिदू॒ नश॑त्॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उग्रं । युयुज्म । पृशनासु । ससहिं । ऋणकातिं । अदाभ्यं ।  
+> वेद । भ्रमं । चित् । सनिशा । रथितमः । वाजिनं । यं । इत् । ऊं इति । नशत् । १२॥
+
+### Printed p. 701
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उग्रमुद्दूर्णबलमिंद्रं युयुज्म । योजयामः । केदृशमिंद्रं ।
+> पृतनासु संग्रामेषु सासहिं शत्रूणामभिभवितारमृणकातिमृणभूतस्तुतिं । यस्मै
+> स्तुतिर्यणवदवश्यं क्रियते तं तादृशं । अथवा ऋणवदवश्यफलप्रदस्तुतिकं ।
+> आदाभ्यं केनाप्यहिंस्यं । य इंद्रो भ्रमं चिद्बहुष्वेषु भ्रमणशीलमेव
+> वाजिनं बलवंतमश्वं रथीतमो रथस्वामी वेद वेत्ति गृहाति तद्वत् सनितेंद्रो
+> वाजिनं हविष्मंतं यमिद्यमेव जनं बहूनां यजमानानां मध्यॆ नशत्
+> व्याप्नोति तमिंद्रमिति । ते वयमिति ना योज्यं ! वयं युयुज्मेति पक्षे
+> व्यत्ययेन बहुवचनं ॥
+
+##### Gist of the bhāṣya
+
+We yoke, that is, we join, Indra who is ugra, of surging strength. Of what kind is Indra? Sāsahi, the overcomer of enemies in battles; ṛṇakāti, one whose praise is like a debt, that is, to whom praise is necessarily made as a debt is paid; or else, one whose praise unfailingly gives its fruit like a debt. Ādābhya, not to be injured by anyone. Just as a ratheṣṭha, the owner of a chariot, knows, that is, takes, a strong horse that roams, bhramaṃ cit, even among many horses, so the winner, Indra, pervades, naśat, whatever man, among many sacrificers, is the offerer of oblations. The words "te vayam" are not to be construed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथीतमः (*rathītamaḥ*)—the best of charioteers
+- भ्रमं चित् (*bhramaṃ cit*)—even though many horses are moving about
+- वाजिनं (*vājinaṃ*)—the strong horse alone
+- वेद (*veda*)—just as he selects and recognises it
+- सनिता (*sanitā*)—Indra
+- वाजिनं (*vājinaṃ*)—among many sacrificers, the best giver of oblations
+- यं इत् (*yaṃ it*)—whichever sacrificer
+- नशत् (*naśat*)—he reaches, such a one
+- उग्रं (*ugraṃ*)—who has exceeding strength
+- पृतनासु (*pṛtanāsu*)—in battles
+- सासहिं (*sāsahiṃ*)—who defeats enemies
+- ऋणकातिं (*ṛṇakātiṃ*)—who is praised as an absolute necessity
+- अदाभ्यं (*adābhyaṃ*)—who does not injure; Indra
+- युयुज्म (*yuyujma*)—we join (we cause him to join in our sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+Just as the best of charioteers, even when many horses are moving about together, selects and recognises the strong horse, so Indra easily recognises, even among many sacrificers, the sacrificer who offers oblations best. Such a powerful one, of exceeding strength, who defeats enemies in battles, who is praised as an absolute necessity, who does not injure, Indra, we join (we yoke him to our sacrifice).
+
+##### English translation
+We join (to our rite) the mighty Indra, the subduer of enemies in battles, the inviolate, him to whom praise is due as a debt ; he the best of charioteers, knows (among steeds) the strong racer and (among men) he, the bounteous (knows) the offerer whom he is to reach.
+
+### Printed p. 702
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत॑ इंद्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि ।  
+> मघ॑वङ्॒ग्धि तव॒ तन्न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यतः । इंद्र । भयामहे । ततः । नः । अभयं । कृधि ।  
+> मघवन् । शग्नि । तव । तत् । नः । ऊतिभिः । वि । द्विषः । वि । मृधः । जहि ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि माध्यंदिनसवनेऽच्छावाकस्य यत इंद्रेति वैकल्पिकः स्तोत्रियस्तृचः । सूत्रितं च । यत इंद्र भयामहे यथा गौरो अपा कृतं । आ. ७-४ ।
+> इति ॥ दुःस्वप्नदर्शनेऽप्येतदादिसूक्तशेषो जप्यः । आ. गृ. ३-११-२ ॥
+> हे इंद्र यतो हिंसकाद्भयामहे वयं ततो नोऽस्मभ्यमभयं कृधि ।
+> कुरु । हे मघवन् शग्नि शक्तो भवसि नोऽस्मभ्यमभयं कर्तुं तव तत्त्वैरूतिभी
+> रक्षणै रक्षकैः पुरुषैः ! किंच वि जहि द्विषोऽस्मद्वेष्टवान् । वि जहि मृधोऽस्मद्धिंसकान् ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the midday pressing, for the Acchāvāka, the tṛca beginning यत इंद्र (*yata iṃdra*) is an optional stotriya. It is aphorised: यत इंद्र भयामहे यथा गौरो अपा कृतं (*yata iṃdra bhayāmahe yathā gauro apā kṛtaṃ*) (Ā. 7-4). On seeing a bad dream, too, the rest of the sūkta beginning with this Ṛk is to be muttered (Ā. Gṛ. 3-11-2) **NOTE**. O Indra, from whatever destroyer we are afraid, from him make us fearless. O Maghavan, शग्नि (*śagni*): you are able to make us fearless with your protections, with your protectors, men. And further: smite away the haters of us, smite away those who harm us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यतः (*yataḥ*)—from whatever destroyer
+- भयामहे (*bhayāmahe*)—we become afraid
+- ततः (*tataḥ*)—from him
+- नः (*naḥ*)—for us
+- अभयं (*abhayaṃ*)—so that there is no fear
+- कृधि (*kṛdhi*)—make
+- मघवन् (*maghavan*)—O Indra
+- तव (*tava*)—your
+- तत् ऊतिभिः (*tat ūtibhiḥ*)—together with all protections
+- नः (*naḥ*)—for us
+- शग्गि (*śaggi*)—become strong
+- द्विषः (*dviṣaḥ*)—the enemies
+- वि जहि (*vi jahi*)—conquer
+- मृधः (*mṛdhaḥ*)—the destroyers
+- वि (जहि) (*vi (jahi)*)—conquer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, from whatever destroyer we are afraid, make us fearless of him. O Indra, together with all your protections become strong for us. Conquer the enemies. Defeat the destroyers.
+
+### Printed p. 703
+
+##### English translation
+Indra, give us security from him of whom we are afraid; Maghavan, be strong for us with your protections ; destroy our enemies, destroy those who harm us.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśika, at the midday pressing, in the śastra mantras recited by the priest called Acchāvāka, these three Ṛks beginning यत इंद्र (*yata iṃdra*) are to be recited as the optional stotriya tṛca, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra यत इंद्र भयामहे यथा गौरो अपाकृतं (*yata iṃdra bhayāmahe yathā gauro apākṛtaṃ*) (Ā. 7-4); and when a bad dream has occurred, the mantras from this Ṛk to the end of the sūkta are to be muttered, as is explained in the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. 3-11-2).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि रा॑धस्पते॒ राध॑सो म॒हः क्षय॒स्यासि॑ विध॒तः ।  
+> तं त्वा॑ व॒यं म॑घवन्निंद्र गिर्वणः सु॒तावं॑तो हवामहे॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । राधःपते । राधसः । महः । क्षयस्य । असि । विधतः ।  
+> शं । त्वा । वयं । मघवन् । इंद्र । गिर्वणः । सुतवंतः । हवामहे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राधस्ससते धनस्वामिन् त्वं हि त्वं खलु महो महतो राधसो धनस्य
+> क्षयस्य च गृहस्य च वर्धयितासि हि खलु । सामर्थ्यादेवं लभ्यते ! तस्व राधसो
+> गृहस्य च वर्धक इति उच्यते । विधतः परिचरतो यजमानस्य । तं तादृशं त्वा त्वां
+> वयं हे मघवन्निंद्र गिर्वणो गीर्भिर्वननीय सुतावंतोऽभिषुतसोमा
+> हवामहे । आह्वयाम ॥
+
+##### Gist of the bhāṣya
+
+O Rādhaspati, lord of wealth, you indeed are the increaser of great rādhas, wealth, and of kṣaya, the house, of the vidhat, the sacrificer who serves you. This is gained from the sense: you are said to be the increaser of that wealth and house. You, such as you are, O Maghavan Indra, girvaṇas, one to be served with hymns, we who have pressed Soma call. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राधस्पते (*rādhaspate*)—O Indra, lord of wealth
+- त्वं हि (*tvaṃ hi*)—you alone
+- विधतः (*vidhataḥ*)—to the sacrificer who worships you
+- महः (*mahaḥ*)—great
+- राधसः (*rādhasaḥ*)—for the increase of wealth
+- क्षयस्य (*kṣayasya*)—
+
 ---
 
-**Progress note:** Done through printed p. 696. Sūkta 61 Ṛk 3 end, Ṛk 4-8
+**Progress note:** Done through printed p. 703. Sūkta 61 Ṛk 9-14
