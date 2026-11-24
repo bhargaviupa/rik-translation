@@ -434,9 +434,9 @@ Gaining knowledge of historical matters, however, is not the only benefit of suc
 
 ### Page 2
 
-The Rigveda holds this distinction for a further reason as well. Ordinarily, over the course of several centuries, even a single text tends to undergo gradual alteration, absorbing differences through interpolation, and it is common for material from later texts to become mixed into it, both in content and in literary style — in many instances even a poet's personal opinion creeps in unnoticed, quietly shifting the very purpose for which the text was composed. With the Veda, this has simply not happened. Even in that most ancient era, before any written script existed, the Veda was transmitted — strictly according to tradition — orally from father to son, from teacher to disciple, without corruption of any kind. In every generation, whether the one doing the teaching or the one doing the learning, it has been the practice, out of great vigilance, to preserve the pronunciation with a precision as unyielding as if fixed in stone, so that not even the smallest deviation could creep into the recitation. Because this discipline has been followed so meticulously across generations, whatever variant readings existed even when the ancient sages first composed the Vedic mantras have come down to us with those same variations intact, unaltered. Not even a single syllable of this Veda has ever been changed — nothing added to restore a supposed loss, nothing removed, nothing combined in from elsewhere. It has been considered improper, even in this modern age, to rearrange or reinterpret it for convenience, deriving whatever meaning one wishes according to context. Even where the opinions of ancient sages differed from one another regarding the Veda, both the wording and the pronunciation received from the ancients have been recorded without distortion. Even where a word's meaning was doubtful, or a different meaning seemed more fitting to a particular scholar, no one altered the received wording to suit personal judgment. No reciter, merely on the strength of private opinion, carelessly altered even a single word and thereby broke with tradition. Because of this, it has remained possible for us to know with precision exactly what the ancient sages themselves intended. Both in ancient times and today, countless eminent scholars, pandits, and learned families have devoted their considerable intellectual powers to Vedic scholarship, putting this to use across innumerable texts.
+The Rigveda holds this distinction for a further reason as well. Ordinarily, over the course of several centuries, even a single text tends to undergo gradual alteration, absorbing differences through interpolation, and it is common for material from later texts to become mixed into it, both in content and in literary style — in many instances even a poet's personal opinion creeps in unnoticed, quietly shifting the very purpose for which the text was composed. With the Veda, this has simply not happened. Even in that most ancient era, before any written script existed, the Veda was transmitted — strictly according to tradition — orally from father to son, from teacher to disciple, without corruption of any kind. In every generation, whether the one doing the teaching or the one doing the learning, it has been the practice, out of great vigilance, to preserve the pronunciation with a precision as unyielding as if fixed in stone, so that not even the smallest deviation could creep into the recitation. Because this discipline has been followed so meticulously across generations, the Vedic mantras stand today exactly as they were when the ancient sages first composed and recited them, subject to no change whatever. Not even a single syllable of this Veda has ever been changed — nothing added to restore a supposed loss, nothing removed, nothing combined in from elsewhere. It has been considered improper, even in this modern age, to rearrange or reinterpret it for convenience, deriving whatever meaning one wishes according to context. Even where the opinions of ancient sages differed from one another regarding the Veda, both the wording and the pronunciation received from the ancients have been recorded without distortion. Even where a word's meaning was doubtful, or a different meaning seemed more fitting to a particular scholar, no one altered the received wording to suit personal judgment. No reciter, merely on the strength of private opinion, carelessly altered even a single word and thereby broke with tradition. Because of this, it has remained possible for us to know with precision exactly what the ancient sages themselves intended. Both in ancient times and today, countless eminent scholars, pandits, and learned families have devoted their considerable intellectual powers to Vedic scholarship, putting this to use across innumerable texts.
 
-However, owing to the sheer difficulty of the subject, Sanskrit education — and serious engagement with Vedic study in particular — has not received the attention it deserves from Indians. Because many mistakenly regard Sanskrit as a "dead language," it is often dismissed without a second thought, and no importance is given either to the trouble of properly studying and understanding it, or to preserving accurate manuscript copies. Yet no other language possesses a literary treasury as rich as that of Sanskrit. Disciplines such as logic, literature, Vedanta, history, and the arts exist in Sanskrit in a way unmatched by any other tongue. For many thousands of years, great scholars, expending extraordinary intellectual effort, have composed innumerable unrivaled works in this language. All of these texts are original and of the highest excellence — and, ancient as they are, none surpasses the Vedic scriptures themselves in antiquity. For this reason, scholars from Western countries such as Germany, England, and America have, for many years, applied themselves with dedication to studying this language — foreign to them — in a rigorous, scholarly manner...
+However, owing to the sheer difficulty of the subject, Sanskrit education — and serious engagement with Vedic study in particular — has not received the attention it deserves from Indians. Because many mistakenly regard Sanskrit as a "dead language," it is often dismissed without a second thought, and many say carelessly, "What is there in it?". Yet no other language possesses a literary treasury as rich as that of Sanskrit. Disciplines such as drama, literature, Vedanta, history, and the arts exist in Sanskrit in a way unmatched by any other tongue. For many thousands of years, great scholars, expending extraordinary intellectual effort, have composed innumerable unrivaled works in this language. All of these texts are original and of the highest excellence — and, ancient as they are, none surpasses the Vedic scriptures themselves in antiquity. For this reason, scholars from Western countries such as Germany, England, and America have, for many years, applied themselves with dedication to studying this language — foreign to them — in a rigorous, scholarly manner...
 
 *(paragraph continues onto the next page)*
 
@@ -467,12 +467,12 @@ Beyond this, in our own country, many scholars, learned assemblies, and royal pa
 > उत त्वः पश्यन् न ददर्श वाचम् उत त्वः शृण्वन् न शृणोत्य् एनाम् ।
 > *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvan na śṛṇoty enām |*
 > उतो त्वस्मै तन्वं विसस्रे जायेव पत्य उशती सुवासाः ॥
-> *uto tvasmai tanvaṃ visasre jāyeva patya uśatī suvāsāḥ || (Rigveda 10-71-4)*
+> *uto tvasmai tanvaṃ visasre jāyeva patya uśatī suvāsāḥ ||*
 >
 > उत त्वं सख्ये स्थिरपीतमाहुर्नैनं हिन्वन्त्यपि वाजिनेषु । अधेन्वा चरति माययैष वाचं शुश्रुवाँ अफलामपुष्पाम् ॥
 > *uta tvaṃ sakhye sthirapītam āhur nainaṃ hinvanty api vājineṣu | adhenvā carati māyayaiṣa vācaṃ śuśruvām̐ aphalām apuṣpām ||* (verse re-read from the print in the [?] pass)
 
-**Meaning:** One who undertakes Vedic study without understanding its meaning is, so to speak, merely carrying a burden like a piece of wood — deriving no real benefit from it at all. The second verse states this directly with its own image: a hymn recited by rote, without being understood, never blazes forth — like dry firewood set down with no fire, it never ignites. The third verse (RV 10-71-4) makes a related point about Speech (Vac) herself: one man, though he can see, has not truly seen Speech; another, though he can hear, has not truly heard her; but to another she reveals her very form, as an eager, beautifully adorned wife reveals herself to her husband — that is, her true meaning is disclosed only to the one who is genuinely receptive to it.
+**Meaning:** One who undertakes Vedic study without understanding its meaning is, so to speak, merely carrying a burden like a piece of wood — deriving no real benefit from it at all. The second verse states this directly with its own image: a hymn recited by rote, without being understood, never blazes forth — like dry firewood set down with no fire, it never ignites. The third verse makes a related point about Speech (Vac) herself: one man, though he can see, has not truly seen Speech; another, though he can hear, has not truly heard her; but to another she reveals her very form, as an eager, beautifully adorned wife reveals herself to her husband — that is, her true meaning is disclosed only to the one who is genuinely receptive to it.
 
 There is no end to the difficulty involved in a genuine critical study of Vedic meaning. As already noted, even a person highly accomplished in Sanskrit will not find the Veda's own language easy to understand. Alongside linguistic knowledge, one also needs the help of Mimamsa, grammar, Jyotisha (astronomy/astrology), and Vedanta. The meter and structure of Vedic mantras are not like the shlokas and verse-forms of later, more familiar poetry. Without understanding the Shrauta portion — that is, the actual procedure for performing yajnas and similar rites — the meaning of many words cannot be coherently grasped at all. For many words, interpreting them the way one would interpret classical or modern Sanskrit is simply not appropriate...
 
@@ -484,7 +484,7 @@ There is no end to the difficulty involved in a genuine critical study of Vedic 
 
 ...does not apply in the same way [to Vedic mantras]. Case-endings, gender-forms, and similar features found in the mantras are not always strictly bound by grammatical rule. Because of these and other complicating factors, arriving at a critical interpretation of the Vedic mantras is not an easy task.
 
-Given how much difficulty is involved, what benefit is actually gained by undertaking Vedic study? Is it merely to become familiar with imaginative stories? Or to learn descriptions of matters like time and place, as found in the works of great poets? Or is it rather to inquire into subjects concerning the self and ultimate reality, as Vedanta does? Whatever it may be — does it even exist within the Rigveda, and how did the Rigveda come to hold such scriptural authority? To answer this properly one must actually undertake the study, because the Rigveda is an extremely ancient text. Since that era, it has shaped how the people of that time worshipped their gods, performed yajnas, and conducted their society; it helps us understand how people lived, what they valued, and the hardships they faced. Understanding the ancient history of that society is a task worthy of every serious-minded person. For this reason, the Veda is, for us in India, an invaluable, all-encompassing text worth studying. It is held that the Veda is not human-authored (apaurusheya), and has come down uninterrupted from the mouth of Ishvara himself. Sayanacharya, at the very start of his commentary, argues this point at length with logical proof, so there is no need to elaborate on it further here. It is not possible, in this space, to discuss every subject contained in the Vedas — but those undertaking Vedic study should, as a preliminary matter, reflect carefully on a few essential topics.
+Given how much difficulty is involved, what benefit is actually gained by undertaking Vedic study? Is it merely to become familiar with imaginative stories? Or to learn descriptions rich in the nine sentiments (navarasa), as found in the works of great poets such as Kalidasa, Bhavabhuti and Dandi? Or is it rather to inquire into subjects concerning the self and ultimate reality, as Vedanta does? Whatever it may be — does it even exist within the Rigveda, and how did the Rigveda come to hold such scriptural authority? To answer this properly one must actually undertake the study, because the Rigveda is an extremely ancient text. Since that era, it has shaped how the people of that time worshipped their gods, performed yajnas, and conducted their society; it helps us understand how people lived, what they valued, and the hardships they faced. Understanding the ancient history of that society is a task worthy of every serious-minded person. For this reason, the Veda is, for us in India, an invaluable, all-encompassing text worth studying. It is held that the Veda is not human-authored (apaurusheya), and has come down uninterrupted from the mouth of Ishvara himself. Sayanacharya, at the very start of his commentary, argues this point at length with logical proof, so there is no need to elaborate on it further here. It is not possible, in this space, to discuss every subject contained in the Vedas — but those undertaking Vedic study should, as a preliminary matter, reflect carefully on a few essential topics.
 
 ## Chapter One
 
@@ -494,12 +494,12 @@ What does "Veda" mean? To answer this, we look first at its etymology. The word 
 
 ### The Etymology of the Word "Veda"
 
-How did the word "Veda" come about? To trace this, one looks to the Samhita and Brahmana texts. The Charaka, Maitrayaniya, and Taittiriya Samhitas describe its derivation as follows:
+How did the word "Veda" come about? To trace this, one looks to the Samhita and Brahmana texts. The Kathaka, Maitrayaniya, and Taittiriya Samhitas describe its derivation as follows:
 
-> वेदेन वै देवा असुराणां नित्यं वेद्यनुविन्दन्त तद्देवस्य वेदत्वम् ।
+> वेदेन वै देवा असुराणां वित्तं वेद्यमविंदंत तद्वेदस्य वेदत्वं ।
 >
-> वेदेन वै देवा असुराणां नित्यं वेद्यम् अनुविन्दन्त तद् देवस्य वेदत्वम्
-> *vedena vai devā asurāṇāṃ nityaṃ vedyam anuvindanta tad devasya vedatvam*
+> वेदेन वै देवा असुराणां वित्तं वेद्यम् अविंदंत तद् वेदस्य वेदत्वं
+> *vedena vai devā asurāṇāṃ vittaṃ vedyam aviṃdaṃta tad vedasya vedatvaṃ*
 >
 > "By the Veda, the gods repeatedly discovered/came to know the [hidden] nature of the Asuras — that indeed is the 'Veda-ness' belonging to the gods."
 
@@ -507,7 +507,7 @@ How did the word "Veda" come about? To trace this, one looks to the Samhita and 
 
 The Taittiriya Brahmana states the same. Words appearing in its authoritative passages — *anvinda* (knew/obtained), *avindan*, *avindata*, and *vividuḥ* — all derive, per Panini's grammar, from the root *vidḷ*, meaning "to obtain" or "to find." Bhatta Bhaskara, writing on the Taittiriya Samhita, indicates the same view, with a technical grammatical note explaining the word as formed with the instrumental-sense suffix *ghañ*, carrying an acute accent on the final syllable — "that by which something is obtained." A similarly worded citation is found in the Taittiriya Brahmana as well: *vividuḥ* = *labdhavantaḥ*, "those who have obtained."
 
-**From works of the Atharvana tradition:** Anandatirtha, in a text on the nature of the ultimate reality, cites an authority to show the word's derivation — its gist being: the senses cannot know the Self (Atman), nor can inference know it; only the Vedas make it known. For this reason, they came to be called "Vedas."
+**Authorities from the Atharvana, Pippalada and other shrutis:** Anandatirtha, in his work Vishnu-tattva-nirnaya, cites an authority to show the word's derivation — its gist being: the senses cannot know the Self (Atman), nor can inference know it; only the Vedas make it known. For this reason, they came to be called "Vedas."
 
 **From Ayurveda:** An authority is found here too. The Sushruta Samhita states:
 
@@ -522,11 +522,11 @@ That is: longevity resides within it, or one obtains longevity by means of it �
 
 ### Page 6
 
-A certain consistency emerges from this. According to Sushruta and his commentator Chakrapani, the word is formed with the suffix *ghañ*, used both in an instrumental sense and in a locative sense. Dallana notes that the root *vid* carries four meanings: "to exist," "to know," "to gain," and "to deliberate" — and it is from these that Sushruta's commentators derive the etymology of "Veda." The Charaka Samhita similarly holds that because one comes to know longevity through it, it is Ayurveda; its commentator Chakrapani explains *āyu vindati* ("obtains longevity") as "reveals longevity" — hence Ayurveda. In short: *vid* means "to know," and "Veda" derives from this root.
+A certain consistency emerges from this. According to Sushruta and his commentator Dallana, the word is formed with the suffix *ghañ*, used both in an instrumental sense and in a locative sense. Dallana notes that the root *vid* carries four meanings: "to exist," "to know," "to gain," and "to deliberate" — and it is from these that Sushruta's commentators derive the etymology of "Veda." The Charaka Samhita similarly holds that because one comes to know longevity through it, it is Ayurveda; its commentator Chakrapani explains *āyu vindati* ("obtains longevity") as "reveals longevity" — hence Ayurveda. In short: *vid* means "to know," and "Veda" derives from this root.
 
-In the Nāṭyaveda too, Abhinavaguptācārya writes: नाट्यस्य वेदनं सत्ता लाभो विचारश्च यत्र तन्नाट्यवेदशब्देनोच्यते (*nāṭyasya vedanaṃ sattā lābho vicāraś ca yatra tan nāṭyaveda-śabdenocyate*) — "that in which there is the knowing of drama, its existence, its attainment and its deliberation is called by the word Nāṭyaveda." So in Abhinavagupta's view too the word *veda* comes from the root *vid*. *(Re-read from the print in the [?] pass; the earlier text here was a misreading.)* Kshirasvamin, commentator on the Amarakosha, writes: *vidanty anena dharmaṃ vedaḥ* — "they know dharma through this; hence, Veda" (1-5-3) — and other commentators similarly gloss it as "that by which one knows dharma and related matters." The Jain scholar Hemachandra, in his *Abhidhana-chintamani*, gives an equivalent formula. Thus, several scholars argue that "Veda" arises from the root *vid* in the sense "to know."
+In the Nāṭyaveda too, Abhinavaguptācārya writes: नाट्यस्य वेदनं सत्ता लाभो विचारश्च यत्र तन्नाट्यवेदशब्देनोच्यते (*nāṭyasya vedanaṃ sattā lābho vicāraś ca yatra tan nāṭyaveda-śabdenocyate*) — "that in which there is the knowing of drama, its existence, its attainment and its deliberation is called by the word Nāṭyaveda." So in Abhinavagupta's view too the word *veda* comes from the root *vid*. *(Re-read from the print in the [?] pass; the earlier text here was a misreading.)* Kshirasvamin, commentator on the Amarakosha, writes: *vidanty anena dharmaṃ vedaḥ* — "they know dharma through this; hence, Veda" (1-5-3) — and Sarvananda likewise glosses it as "that by which one knows dharma and related matters." The Jain scholar Hemachandra, in his *Abhidhana-chintamani*, gives an equivalent formula. Thus, several scholars argue that "Veda" arises from the root *vid* in the sense "to know."
 
-Medhatithi, commenting on the Manu-smriti, explains along similar lines: that the meaning of dharma, unknowable by any other means, is known through this text — hence it is called "Veda." Elsewhere, it is explained that the Veda makes known the bliss of liberation (moksha-sukha) that comes through the relinquishing of action; and Haradatta likewise glosses it simply as *vedayati iti vedaḥ* — "that which makes known is called Veda."
+Medhatithi, commenting on the Manu-smriti, explains along similar lines: that the meaning of dharma, unknowable by any other means, is known through this text — hence it is called "Veda." In the commentary on the Apastamba-paribhasha, Kapardisvami explains that the Vedas are so called because they make known the rites that give the bliss of liberation (moksha-sukha); and Haradatta likewise glosses it simply as *vedayati iti vedaḥ* — "that which makes known is called Veda."
 
 ### Page 7
 
@@ -550,7 +550,7 @@ In any case, "Veda" has consistently been used to refer to the Vedic Samhitas th
 >
 > "The word 'Veda' [applies to] the complete, traditionally-transmitted corpus of those rites whose word and meaning are set forth."
 
-That is: whatever rites are established by valid means and enjoined through verbal authority — the word "Veda" denotes the complete corpus of such injunctions. Yadavaprakasha, author of the *Vaijayanti* lexicon, holds a similar view — that "Veda" applies collectively to mantra, Brahmana, and Kalpa together — though this definition is broad and rather formal.
+That is: whatever rites are not established by perception and the other means of knowledge are enjoined through verbal authority — the word "Veda" denotes the complete corpus of such injunctions. Mahadeva, author of the *Vaijayanti*, holds a similar view — that "Veda" applies collectively to mantra, Brahmana, and Kalpa together — though this definition is broad and rather formal.
 
 It is, in truth, impossible to give a fully satisfactory single definition of "Veda." Even Sayanacharya, in the introduction to his own great commentary, acknowledges the difficulty of stating the Veda's defining characteristic with precision, concluding in the end that "Veda" means the collective totality of mantra and Brahmana together...
 
@@ -564,7 +564,7 @@ In the most ancient period, only the Rigveda existed; the Yajurveda and other Ve
 
 ### Page 9
 
-...were at first recited independently on each occasion rather than existing in a fixed form. Over time, these statements became systematized into what we now know as Yajurveda mantras — this is the most plausible account of its origin. In the Rigveda, verses beyond what the Hotr needs serve little purpose, and the same is true of the Samaveda; but the Yajurveda contains numerous statements clearly showing its dependence on both — for instance, phrases like *"ṛcā́ me dve"* ("two Rig-mantras are mine") and *"ayam u ṣya vā eṣa yaḥ sāma"* ("this indeed is what is Sama") explicitly acknowledge this dependence. This is also why the Yajurveda's literary style is markedly less refined than the Rigveda's.
+...were at first recited independently on each occasion rather than existing in a fixed form. Over time, these statements became systematized into what we now know as Yajurveda mantras — this is the most plausible account of its origin. Apart from one or two places, the word yajus is not used anywhere in the Rigveda, and the same is true of the word sama. But there are many proofs that the Samaveda is earlier than the Yajurveda: the names of the Rigveda and the Samaveda are mentioned in many places in the Yajurveda itself. Sentences such as *"ṛksāme vai devebhyaḥ"* and *"ayajño vā eṣa yo 'sāma"* make clear that the Samaveda is earlier than the Yajurveda. This is also why the Yajurveda's literary style is markedly less refined than the Rigveda's.
 
 During the fire-offering, the Hotr priest invokes the deities using Rigveda mantras — typically two per deity: the *purōnuvākya*, to invoke, and the *yājyā*, to direct the offering. But it is not the Hotr who actually pours the oblation into the fire — that task belongs to the Adhvaryu, who performs many other duties in the yajna as well and must be thoroughly versed in its procedures. It is for this that the Yajurveda is essential to him. The Udgatr performs the Samagana (chanting); it is said the deities are pleased by this chant and thereby accept their due share in the yajna — without it, the yajna is considered incomplete. The Brahma priest must oversee that every part of the yajna proceeds correctly according to rule, and for this must be familiar with all four Vedas. Accordingly, the Hotr is expected to have studied the Rigveda, the Adhvaryu the Yajurveda, and the Udgatr the Samaveda; the Brahma alone must know all four. These four are the principal ritviks (officiants) of a yajna.
 
@@ -593,7 +593,7 @@ There are four Vedas: Rigveda, Yajurveda, Samaveda, and Atharvaveda. Let us exam
 > तस्माद्यज्ञात्सर्वहुतः ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत ॥
 >
 > तस्माद् यज्ञात् सर्वहुतः ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद् यजुस् तस्माद् अजायत ॥*
-> *tasmād yajñāt sarvahutaḥ ṛcaḥ sāmāni jajñire | chandāṃsi jajñire tasmād yajus tasmād ajāyata ||* (from the Purusha-sukta, Rigveda 10-90-9)
+> *tasmād yajñāt sarvahutaḥ ṛcaḥ sāmāni jajñire | chandāṃsi jajñire tasmād yajus tasmād ajāyata ||* (from the Purusha-sukta)
 >
 > "From that all-oblation sacrifice were born the Rig verses and the Sama chants; from it were born the meters, and from it the Yajus came into being."
 
@@ -649,9 +649,9 @@ In total, the Rigveda contains 10,552 mantras. In Max Müller's printed edition 
 
 ### Page 13
 
-Counted this way, the suktas mentioned above have 64 mantras. Max Müller, however, taking "Dvipada" to be only the name of a meter, joined 2 half-mantras into one mantra so as to have 4 padas, and so reduced the 64 mantras to 32. This is not right, and he must later have realised that his method was not right: further on, the 10 mantras of sukta 29 of the eighth Mandala and the 4 mantras of sukta 172 of the tenth Mandala he printed correctly, not as before, treating each half-mantra as one mantra. Combining single mantras of one meter under a different classification (or the reverse) is not something traditional scholarship readily accepts. For this reason, the more defensible count is that the Rigveda contains 10,552 mantras, as given above.
+Counted this way, the suktas mentioned above have 64 mantras. Max Müller, however, taking "Dvipada" to be only the name of a meter, joined 2 half-mantras into one mantra so as to have 4 padas, and so reduced the 64 mantras to 32. This is not right, and he must later have realised that his method was not right: further on, the 10 mantras of sukta 29 of the eighth Mandala and the 4 mantras of sukta 172 of the tenth Mandala he printed correctly, not as before, treating each half-mantra as one mantra. Combining single mantras of one meter under a different classification (or the reverse) is not something traditional scholarship readily accepts. For this reason, the more defensible count is that the Rigveda contains 10,052 mantras, as given above.
 
-To restate: the Rigveda's ten Mandalas are divided into Anuvakas, and these into Suktas. Some suktas contain only a single mantra; others contain many. Generally, all mantras addressed uniformly to one deity are grouped as one sukta. For any Vedic mantra, one should be able to state its rishi, deity, and meter. Each sukta has one rishi (though a single rishi may be credited across many suktas). Apart from Mandalas 8 and 9, every other Mandala belongs to a single family/lineage of rishis.
+To restate: the Rigveda's ten Mandalas are divided into Anuvakas, and these into Suktas. Some suktas contain only a single mantra; others contain many. Generally, all mantras addressed uniformly to one deity are grouped as one sukta. For any Vedic mantra, one should be able to state its rishi, deity, and meter. Each sukta has one rishi (though a single rishi may be credited across many suktas). Apart from Mandalas 9 and 10, every other Mandala belongs to a single family/lineage of rishis.
 
 In Mandala 1, mantras are mostly attributed to roughly a hundred different rishis, each linked to only one or a few mantras — hence this Mandala's name, "Shatarshina" ("of a hundred seers"). For example: in Mandala 1, mantras 1–102 belong to the rishi Madhuchhandas Vaishvamitra; mantras 111–253 to Medhatithi Kanva; and mantras 254–350 to Ajigarti Shunahshepa — illustrating why this Mandala carries that name.
 
@@ -661,13 +661,13 @@ A fixed order governs how the suktas are arranged: within a Mandala, among the s
 
 family/lineage in question. In Mandala 9 alone, since every sukta shares the single deity Soma-Pavamana, the usual practice of ordering by meter (Gayatri first, etc.) and grouping by sukta size is not followed.
 
-Ordinarily, one sukta has one deity, but in some cases a sukta addresses several deities, or one deity is spread across multiple suktas. In Mandala 1, Sukta 2 (9 mantras), three consecutive mantras are addressed respectively to Vayu, Indra-Vayu, and Mitra-Varuna. In Mandala 6, one sukta has Indra as the deity for its first three mantras, then shifts to the Maruts, then Indra-Maruts jointly, then the Maruts again, in sequence. In another sukta, two middle mantras are grouped under the Vishvedevas even though the sukta's overall deity is Agni. In one Mandala-10 sukta, three deities — Sarasvati, Ila, and Bharati — are invoked together across its mantras. Such patterns occur elsewhere too, though a single deity per sukta remains the norm.
+Ordinarily, one sukta has one deity, but in some cases a sukta addresses several deities, or one deity is spread across multiple suktas. In Mandala 1, Sukta 2 (9 mantras), each of three groups of three mantras is addressed respectively to Vayu, Indra-Vayu, and Mitra-Varuna. In Mandala 1, Sukta 6 (10 mantras) has Indra as the deity for its first three mantras, then shifts to the Maruts, then Indra-Maruts jointly, then the Maruts again, in sequence. In Sukta 14 (12 mantras) the deity is Agni together with the Vishvedevas. In the thirteenth Mandala, the ninth mantra has three deities, Sarasvati, Ila and Bharati. Such patterns occur elsewhere too, though a single deity per sukta remains the norm.
 
-The Rigveda's principal deities are Agni, Indra, the Maruts, the Vishvedevas, the Ashvins, Soma-Pavamana, and others. Of these, mantras to Agni and Indra are the most numerous. Taken as a whole, the largest share of the Rigveda's mantras is devoted to Indra; after Indra, the next largest share goes to Agni; then the remaining deities follow.
+The Rigveda's principal deities are Agni, Indra, the Maruts, the Vishvedevas, the Ashvins, Soma-Pavamana, and others. Of these, mantras to Agni and Indra are the most numerous. Taken as a whole, about a quarter of the Rigveda's mantras is devoted to Indra; after Indra, the next largest share goes to Agni; then the remaining deities follow.
 
-Each Mandala has its own distinguishing feature. Except for Mandalas 1 and 8, every other Mandala's first sukta is dedicated to Agni; Mandala 8 instead opens with a mantra to Indra. Mandala 9 alone has Soma-Pavamana as the deity of the entire Mandala, and unlike the other Mandalas, its rishis are not confined to one family — rishis from every other Mandala also appear here. Mandala 10 likewise draws on rishis from many different families and addresses many different deities.
+Each Mandala has its own distinguishing feature. Except for Mandalas 8 and 9, every other Mandala's first sukta is dedicated to Agni; Mandala 8 instead opens with a mantra to Indra. Mandala 9 alone has Soma-Pavamana as the deity of the entire Mandala, and unlike the other Mandalas, its rishis are not confined to one family — rishis from every other Mandala also appear here. Mandala 10 likewise draws on rishis from many different families and addresses many different deities.
 
-As already noted, the Rigveda has 1,028 suktas. Beyond these, there are also 11 additional suktas called "Valakhilya," not included in that count of 1,028 — bringing the total, including the Valakhilyas, to 1,039 (this is the sukta-count according to the Shakala recension). Beyond even these, certain further suktas called "Khila-suktas" are also found within various recensions; well-known examples include the Shri-sukta and the Ratri-sukta.
+As already noted, the Rigveda has 1,017 suktas. Beyond these, there are also 11 additional suktas called "Valakhilya," not included in that count of 1,017 — bringing the total, including the Valakhilyas, to 1,028 (this is the sukta-count according to the Shakala recension). Beyond even these, thirty-six further suktas called "Khila-suktas" are also found within various recensions; well-known examples include the Shri-sukta and the Ratri-sukta.
 
 > परशाखीयं स्वशाखायाम् अनुपेक्ष्णावशात् कृष्णे तत्खिलम् उच्यते ।
 >
@@ -683,15 +683,15 @@ The book lists the Khila-suktas by their opening words (pratika), each with its 
 |---|---|---|---|
 | 1 | शन्नैष्टिदद्य *(śannaiṣṭidadya)* | 3 | after Maṃ. 1, Sūkta 50 |
 | 2 | माबिभेर्न *(mābibherna)* | 10 | at the end of the first Maṇḍala |
-| 3 | कुहूनमहम् *(kuhūnamaham)* | 8 | after Maṃ. 2-32 |
+| 3 | कुहूमहं *(kuhūmahaṃ)* | 8 | after Maṃ. 2-32 |
 | 4 | भद्रं वद *(bhadraṃ vada)* | 6 | at the end of the second Maṇḍala |
 | 5 | जागर्षितम् *(jāgarṣitam)* | 1 | after Maṃ. 5-44 |
 | 6 | सूक्तान्तेऽस्यैतत् *(sūktānte'syaitat)* | 2 | after Maṃ. 5-49 |
 | 7 | स्वस्त्ययनम् *(svastyayanam)* | 2 | after Maṃ. 5-51 |
 | 8 | वर्षन्तु ते विभावरि *(varṣantu te vibhāvari)* | 1 | after Maṃ. 5-84 |
 | 9 | आ ते गर्भो *(ā te garbho)* | 5 | at the end of the fifth Maṇḍala |
-| 10 | अग्निरृतु *(agnir-ṛtu)* | 5 | at the end of the fifth Maṇḍala |
-| 11 | हिरण्यवर्णम् *(hiraṇyavarṇam)* — the **Shri-sukta** | 29 | at the end of the fifth Maṇḍala |
+| 10 | अग्निरैतु *(agniraitu)* | 5 | at the end of the fifth Maṇḍala |
+| 11 | हिरण्यवर्णां *(hiraṇyavarṇāṃ)* — the **Shri-sukta** | 29 | at the end of the fifth Maṇḍala |
 | 12 | चक्षुश्च श्रोत्रम् *(cakṣuś ca śrotram)* | 3 | after Maṃ. 6-44 |
 | 13 | सूक्तान्ते *(sūktānte)* | 2 | after Maṃ. 6-48 |
 | 14 | शंवतीः पारयन्ति *(śaṃvatīḥ pārayanti)* | 6 | after Maṃ. 7-35 |
@@ -700,21 +700,21 @@ The book lists the Khila-suktas by their opening words (pratika), each with its 
 | 17 | उपप्लवत *(upaplavata)* | 1 | after Maṃ. 7-103 |
 | 18 | पावमानीः *(pāvamānīḥ)* | 21 | after Maṃ. 9-67 |
 | 19 | इळ-एव-वामनु *(iḷa-eva-vāmanu)* | 2 | after Maṃ. 9-3-5 |
-| 20 | यत्र तक्ष्वरम् *(yatra takṣvaram)* | 6 | at the end of the ninth Maṇḍala |
+| 20 | यत्र तत्परमं *(yatra tatparamaṃ)* | 6 | at the end of the ninth Maṇḍala |
 | 21 | सस्रुषीस्तदपसो *(sasruṣīstadapaso)* | 1 | after 10-9 |
 | 22 | सितासीते *(sitāsīte)* | 1 | after 1-75-5 |
 | 23 | अविधवा भव *(avidhavā bhava)* | 6 | after 10-85 |
 | 24 | असौ या सेना *(asau yā senā)* | 2 | after 10-103 |
-| 25 | हविर्भरेषे *(havir-bhareṣe)* | 1 | after 10-106 |
-| 26 | आरात्री पार्थिवम् *(ārātrī pārthivam)* — the **Ratri-sukta** | 23 | after 10-107 |
+| 25 | हविर्भिरेके *(havirbhireke)* | 1 | after 10-106 |
+| 26 | आरात्रि पार्थिवं *(ārātri pārthivaṃ)* — the **Ratri-sukta** | 23 | after 10-127 |
 | — | उलूकयातुम् *(ulūkayātum)* | 1 | (Ṛgveda mantra 7-104-22) |
 | — | पिशंगभृष्टि *(piśaṅga-bhṛṣṭi)* | 1 | (Ṛgveda mantra 1-133-5) |
 | 27 | आयुष्यं वर्चस्यम् *(āyuṣyaṃ varcasyam)* | 11 | after Maṃ. 10-128 |
 | 28 | अर्वांचमिन्द्रम् *(arvāñcam indram)* | 1 | after Maṃ. 10-128 |
 | 29 | यां कल्पयन्ति *(yāṃ kalpayanti)* | 48 | after Maṃ. 10-128 |
 | 30 | हिमस्य त्वा *(himasya tvā)* | 13 | after Maṃ. 10-142 |
-| 31 | मेधां मुख्यम् *(medhāṃ mukhyam)* — the **Medha-sukta** | 11 | after Maṃ. 10-151 |
-| 32 | ऊर्ध्वरेख *(ūrdhvarekha)* | 1 | after Maṃ. 10-161 |
+| 31 | मेधां मह्यं *(medhāṃ mahyaṃ)* — the **Medha-sukta** | 11 | after Maṃ. 10-151 |
+| 32 | ऊर्ध्वरेखा *(ūrdhvarekhā)* | 1 | after Maṃ. 10-161 |
 | 33 | येनेदं भूतम् *(yenedaṃ bhūtam)* — the **Shiva-sankalpa** hymn | 26 | after Maṃ. 10-166 |
 | 34 | नेजमेष *(nejameṣa)* | 3 | after Maṃ. 10-184 |
 | 35 | अनीकवन्त *(anīkavanta)* | 1 | after Maṃ. 10-187 |
@@ -761,11 +761,11 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 | 7 | 119 |
 | 8 | 59 |
 
-**Looking at this table, it is clear that Vargas containing 5 Riks occur far more frequently than any other size.** Even if a sukta has only a small number of Riks, the whole sukta is still counted as a single Varga. Where a sukta's Rik-count exceeds eight, the convention groups them accordingly into successive Vargas, following the rule already given above.
+**Looking at this table, it is clear that Vargas containing 5 Riks occur far more frequently than any other size.** Even if a sukta has as many as 8 Riks, the whole sukta is still counted as a single Varga. Where a sukta has more than eight, 5 Riks make one Varga and the remaining Riks a second Varga.
 
 **This division into Ashtakas, Adhyayas, and Vargas exists purely for the convenience of study and recitation.** Taken as a whole, the eight Ashtakas are kept roughly equal in overall extent. The number of Vargas and mantras in each may vary somewhat — but since mantras occur in a variety of meters, Adhyayas with fewer mantras tend to contain mantras in the longer meters, while Adhyayas with more mantras tend to contain mantras in the shorter ones, so that the overall bulk balances out across the whole. **This division follows the text's sheer extent — its syllable-count — rather than paying close attention to sense or subject matter.**
 
-**Where the shortest-syllabled meter, Gayatri, predominates, an Adhyaya accordingly has more Vargas; where longer meters such as Jagati predominate, the Varga-count is correspondingly lower.** Since the sixth Ashtaka is especially rich in Gayatri-meter verses, its Adhyayas have more Vargas than elsewhere. By this measure, the fourth Adhyaya of the eighth Ashtaka has the largest number of Vargas of any Adhyaya in the whole Samhita; the third Adhyaya of the third Ashtaka has the fewest, making it the smallest Adhyaya by this same measure. *(The exact Varga-counts for these two specific Adhyayas are not fully legible at this resolution and are not asserted as precise figures here.)*
+**Where the shortest-syllabled meter, Gayatri, predominates, an Adhyaya accordingly has more Vargas; where longer meters such as Jagati predominate, the Varga-count is correspondingly lower.** Since the sixth Ashtaka is especially rich in Gayatri-meter verses, its Adhyayas have more Vargas than elsewhere. By this measure, the fourth Adhyaya of the sixth Ashtaka has 54 Vargas and is the largest Adhyaya of the whole Samhita; the second Adhyaya of the eighth Ashtaka has 24 Vargas and is the smallest.
 
 ---
 
@@ -787,14 +787,14 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 
 **The Yajurveda is divided into two parts: the Shukla Yajurveda and the Krishna Yajurveda.** On this matter, the authority of Smriti runs as follows —
 
-> शुक्लं कृष्णमिति द्वेधा यजुः स समुदाह्यतम् । शुक्लं वाजसनं ज्ञेयं कृष्णं तु तैत्तिरीयकम् ॥
-> *śuklaṃ kṛṣṇam iti dvedhā yajuḥ sa samudāhyatam | śuklaṃ vājasanaṃ jñeyaṃ kṛṣṇaṃ tu taittirīyakam ||*
+> शुक्लं कृष्णम् इति द्वेधा यजुश्च समुदाहृतं । शुक्लं वाजसनं ज्ञेयं कृष्णं तु तैत्तिरीयकं ॥
+> *śuklaṃ kṛṣṇam iti dvedhā yajuśca samudāhṛtaṃ | śuklaṃ vājasanaṃ jñeyaṃ kṛṣṇaṃ tu taittirīyakaṃ ||*
 > "That Yajus is declared to be of two kinds: Shukla and Krishna. Shukla should be known as Vajasaneya; Krishna, as Taittiriya."
 
 **And:**
 
-> व्यवस्थितप्रकरणं तद्यजुः शुक्लमित्युच्यते । बुद्धिमालिन्यहेतुत्वात्तद्यजुः कृष्णमित्युच्यते ॥
-> *vyavasthita-prakaraṇaṃ tad yajuḥ śuklam ity ucyate | buddhi-mālinya-hetutvāt tad yajuḥ kṛṣṇam ity ucyate ||*
+> व्यवस्थितप्रकरणं तद्यजुः शुक्लमीर्यते । बुद्धिमालिन्यहेतुत्वात्तद्यजुः कृष्णमीर्यते ॥
+> *vyavasthitaprakaraṇaṃ tadyajuḥ śuklamīryate | buddhimālinyahetutvāttadyajuḥ kṛṣṇamīryate ||*
 > "That Yajus whose arrangement of subject matter is orderly is called Shukla; that which, being the cause of confusion to the understanding, [is disorderly] is called Krishna."
 
 **And, in the Charaṇa-vyūha:**
@@ -823,7 +823,7 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 
 **However, Bhaṭṭabhāskara, the commentator on the Taittirīya Saṃhitā, writes in his own introduction that this Yajurveda was, through a lineage of transmission, learned by one named Tittiri** — so it is possible the name "Taittirīya Saṃhitā" for the Krishna Yajurveda arose this way instead of from the bird-legend.
 
-**The Krishna Yajurveda Saṃhitā has shakhas such as Āpastamba and Baudhāyana. It comprises seven Kāṇḍas and a corresponding number of Adhyāyas** *(the exact Adhyāya-count is not fully legible at this resolution)*. **The subjects treated in this Saṃhitā are, more or less, the same as those found in the Shukla Yajurveda.**
+**The Krishna Yajurveda Saṃhitā has shakhas such as Āpastamba and Baudhāyana. It comprises seven Kāṇḍas and 44 Adhyāyas**. **The subjects treated in this Saṃhitā are, more or less, the same as those found in the Shukla Yajurveda.**
 
 **The Shukla Yajurveda has principal shakhas such as Kāṇva and Mādhyandina — named after the disciples who first learned the text from Yajnavalkya.** The shakha-divisions themselves are explained at length in a separate section of this work.
 
@@ -847,19 +847,19 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 
 **Of these, many shakhas are now extinct.**
 
-**The Vājasaneya Saṃhitā comprises 40 Adhyāyas. Within each Adhyāya there are small portions called "Kaṇḍikās." Across all 40 Adhyāyas together, there are 1,980 such Kaṇḍikās in total. Within the 40 Adhyāyas...**
+**The Vājasaneya Saṃhitā comprises 40 Adhyāyas. Within each Adhyāya there are small portions called "Kaṇḍikās." Across all 40 Adhyāyas together, there are 1,971 such Kaṇḍikās in total. Within the 40 Adhyāyas...**
 
 ### Page 20
 
 **The first 25 Adhyayas discuss the Darśapūrṇamāsa, Soma, Vājapeya, Aśvamedha, Rājasūya and other yajnas, together with the sequence for building the fire-pit and other structures required in the sacrificial hall.** The next 15 Adhyayas — called the "Khila-bhāga" (supplementary section) — describe further rites connected with the Shrauta-karmas already discussed, along with newer rites such as the Puruṣamedha and Pravargya. **The final Adhyāya is unrelated to yajna at all — this is itself the Īśāvāsyopaniṣad.**
 
-**The Krishna Yajurveda has seven Aṣṭakas, or Kāṇḍas, comprising in total a certain number of Prapāṭhakas (Adhyāyas)** *(the exact figure is not fully legible)*. Within each Adhyāya are portions called Anuvākas, further subdivided, for ease of study, into small sections — a division resembling the Rigveda's own Varga-scheme. **The same subjects found in the Shukla Yajurveda occur here as well. But where the Shukla Yajurveda Saṃhitā gathers together only the mantra-portions recited in yajnas** — properly called a "Mantra-Saṃhitā," with the mantras' own explanation given at length separately in the Śatapatha Brāhmaṇa — **the Krishna Yajurveda does not follow this arrangement: mantras and their Brāhmaṇa-style explanations are interspersed throughout, mixed together in many places.** For example, the Soma-yāga's mantras occur in the first Kāṇḍa's second Prapāṭhaka, while the Brāhmaṇa explaining those very mantras appears in the sixth Kāṇḍa of the same Saṃhitā. **In this way, within the Krishna Yajurveda Saṃhitā itself, mantra and Brāhmaṇa material lie mixed together throughout.**
+**The Krishna Yajurveda has seven Aṣṭakas, or Kāṇḍas, comprising in total 44 Prapāṭhakas (Adhyāyas)**. Within each Adhyāya are portions called Anuvākas, further subdivided, for ease of study, into small sections of fifty words each, called Pañcāśat — a division resembling the Rigveda's own Varga-scheme. **The same subjects found in the Shukla Yajurveda occur here as well. But where the Shukla Yajurveda Saṃhitā gathers together only the mantra-portions recited in yajnas** — properly called a "Mantra-Saṃhitā," with the mantras' own explanation given at length separately in the Śatapatha Brāhmaṇa — **the Krishna Yajurveda does not follow this arrangement: mantras and their Brāhmaṇa-style explanations are interspersed throughout, mixed together in many places.** For example, the Soma-yāga's mantras occur in the first Kāṇḍa's second Prapāṭhaka, while the Brāhmaṇa explaining those very mantras appears in the sixth Kāṇḍa of the same Saṃhitā. **In this way, within the Krishna Yajurveda Saṃhitā itself, mantra and Brāhmaṇa material lie mixed together throughout.**
 
 ---
 
 **The Krishna Yajurveda has 86 shakhas. The Vāyu and Brahmāṇḍa Purāṇas state this as follows:**
 
-> वैशंपायनगोत्रोत्सौ यजुर्वेदं व्यकल्पयत् । षडशीतिस्तु येनोक्ता संहिता यजुषां शुभाः ॥ षडशीतिस्तथा शिष्याः संहितानां विकल्पकाः । सर्वेषामेव तेषां वै त्रिधा भेदाः प्रकीर्तिताः । वैशंपायनलोहित्या कठकालापशावधः । श्यामायनिः पलङ्गश्च ह्यालम्बिः कामलायनिः । तेषां शिष्याः प्रशिष्याश्च षडशीतिः श्रुतर्षयः ॥
+> वैशंपायनगोत्रोऽसौ यजुर्वेदं व्यकल्पयत् । षडशीतिस्तु येनोक्ता संहिता यजुषां शुभाः ॥ षडशीतिस्तथा शिष्याः संहितानां विकल्पकाः । सर्वेषामेव तेषां वै त्रिधा भेदाः प्रकीर्तिताः । वैशंपायनलौहित्यौ कठकालापशावधः । श्यामायनिः पलङ्गश्च ह्यालम्बिः कामलायनिः । तेषां शिष्याः प्रशिष्याश्च षडशीतिः श्रुतर्षयः ॥
 > *(this dense enumerative verse, naming the founder-teachers of the 86 Krishna Yajurveda sub-branches, remains a genuinely compressed best-effort reading)*
 >
 > "One of the Vaiśampāyana gotra arranged the Yajurveda; by him eighty-six auspicious Saṃhitās of the Yajus were declared. Likewise, eighty-six disciples became the variant-makers of these Saṃhitās; of all of these, a threefold division is proclaimed — [Vaiśampāyana, Lohitya], Kaṭha, Kālāpa, Śāvadhi(?), Śyāmāyani, Palaṅga, Hyālambi, Kāmalāyani [among them] — their disciples and grand-disciples, eighty-six in number, are the renowned seers [of this tradition]."
@@ -875,30 +875,30 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 5. Aruṇina-śākhā
 6. Tāṇḍina-śākhā
 7. Śyāmāyana-śākhā
-8. Kala or Kāṭhaka-śākhā
+8. Kaṭha or Kāṭhaka-śākhā
 
 ### Page 21
 
-*(Continuing the list of Krishna Yajurveda shakhas, entries 9–40, given here as legible; several names are proper nouns transcribed with the same care as elsewhere in this project:)*
+*(Continuing the list of Krishna Yajurveda shakhas, entries 9–41, given here as legible; several names are proper nouns transcribed with the same care as elsewhere in this project:)*
 
 9. Kālāpa-śākhā — Vārāha-śākhā
 10. Hāridravīya-śākhā — Dundubha-śākhā
-11. Bhāgaleya-śākhā — Aikeya-śākhā
+11. Chāgaleya-śākhā — Aikeya-śākhā
 12. Tumburu-śākhā — Taittirīya-śākhā
 13. Ulapa-śākhā — Aukheya-śākhā
-14. Āsvaraka-śākhā — Ātreya-śākhā
-15. Prācyakala-śākhā — Vaikhānasa-śākhā
+14. Āhvaraka-śākhā — Ātreya-śākhā
+15. Prācyakaṭha-śākhā — Vaikhānasa-śākhā
 16. Kapiṣṭhala-śākhā — Khāṇḍikīya-śākhā
 17. Cārāyaṇīya-śākhā — Āpastamba-śākhā
 18. Vārāyaṇīya-śākhā — Bodhāyana-śākhā
-19. Vārkantavīya-śākhā — Satyāṣāḍha-śākhā
+19. Vārtantavīya-śākhā — Satyāṣāḍha-śākhā
 20. Śvetāśvatara-śākhā — Hiraṇyakeśīya-śākhā
-21. Aupamanyava-śākhā — Audheya-śākhā
-22. Pātāṇḍaśrīya-śākhā — Kauṇḍinya-śākhā
+21. Aupamanyava-śākhā — Audheyi-śākhā
+22. Pātāṇḍanīya-śākhā — Kauṇḍinya-śākhā
 23. Maitrāyaṇīya-śākhā — Āgniveśa-śākhā
 24. Mānava-śākhā — Hārīta-śākhā
 
-**Of these 40 shakhas, the remaining 46 are no longer found today** — they may survive only as sub-branches subsumed within the shakhas already named. The names of these sub-branches, and the regions where they were current, are explained at length in the following section.
+**Besides these 41 shakhas, the remaining 45 are no longer found today** — they may survive only as sub-branches subsumed within the shakhas already named. The names of these sub-branches, and the regions where they were current, are explained at length in the following section.
 
 ---
 
@@ -912,7 +912,7 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 2. Jaiminīyāḥ — 11. Śāṭyāyaninaḥ
 3. Rāṇāyanīyāḥ — 12. Raurukiṇaḥ
 4. Sātyamugrāḥ — 13. Kāpeyāḥ
-5. Svaigeyāḥ *(?)* — 14. Mānaśarāvyaḥ
+5. Naigeyāḥ *(?)* — 14. Māṣaśarāvyaḥ
 6. Śārdūlāḥ — 15. Karadviṣaḥ
 7. Vārṣagaṇyāḥ — 16. Śāṇḍilyāḥ
 8. Gautamāḥ — 17. Tāṇḍyāḥ
@@ -920,9 +920,9 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 
 ### Page 22
 
-**This Veda [Samaveda] is divided into two parts: Ārcika and Uttarārcika.** The earlier part, the Ārcika, contains a substantial body of mantras, and the Uttarārcika a larger body still *(the exact totals given in the source are not fully legible at this resolution)*. Of these mantras, apart from a small number, all the rest are also found within the Rigveda Samhita itself. These mantras are generally composed in meters suited for chanting — chiefly Gāyatrī and the Pragātha-type meters. Among the Rigveda's own mantras, [the Samaveda's borrowings] are generally drawn from Maṇḍalas 1 and 10; the remaining mantras belong to other Samhitas.
+**This Veda [Samaveda] is divided into two parts: Ārcika and Uttarārcika.** The earlier part, the Ārcika, contains 585 mantras, and the Uttarārcika 964, 1,549 in all. Of these 1,549 mantras, apart from 75, all the rest are also found within the Rigveda Samhita itself. These mantras are generally composed in meters suited for chanting — chiefly Gāyatrī and the Pragātha-type meters. Among the Rigveda's own mantras, [the Samaveda's borrowings] are generally found in Maṇḍalas 8 and 9; the remaining 75 mantras belong to other Samhitas.
 
-**The Samaveda has seven svaras (musical accents).** The accents used for reciting the Samaveda differ from those used for the other three Vedas. In the Rigveda, Yajurveda, and Atharvaveda, there are three accent-types: Udātta, Anudātta, and Svarita. In Sāmagāna, however, corresponding to the musical notes Pañcama, Madhyama, Gāndhāra, Ṛṣabha, Ṣaḍja, Dhaivata, and Niṣāda, there are seven distinct accent-registers, numbered First through Seventh *(the specific naming convention for these seven is not fully legible)*. **There are many different styles of chanting (gāna), each bearing its own distinct name. It is said that this Sāmagāna is itself the very root of the science of music.**
+**The Samaveda has seven svaras (musical accents).** The accents used for reciting the Samaveda differ from those used for the other three Vedas. In the Rigveda, Yajurveda, and Atharvaveda, there are three accent-types: Udātta, Anudātta, and Svarita. In Sāmagāna, however, corresponding to the musical notes Pañcama, Madhyama, Gāndhāra, Ṛṣabha, Ṣaḍja, Dhaivata, and Niṣāda, there are seven distinct accent-registers, named Kruṣṭa, Prathama, Dvitīya, Tṛtīya, Caturtha, Pañcama and Ṣaṣṭha. **There are many different styles of chanting (gāna), each bearing its own distinct name. It is said that this Sāmagāna is itself the very root of the science of music.**
 
 ---
 
@@ -941,16 +941,16 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 > "There, the Brahmaveda has nine divisions, as follows —"
 
 1. Paippalādāḥ — 6. Jaladāḥ
-2. Stauḍāḥ *(?)* — 7. Brahmavadāḥ
+2. Staudāḥ *(?)* — 7. Brahmavadāḥ
 3. Maudāḥ — 8. Devadarśāḥ
 4. Śaunakīyāḥ — 9. Cāraṇavaidyāḥ
 5. Jājalāḥ
 
-**The Atharvaveda Saṃhitā has 20 sections (kāṇḍas).** Across these 20 sections there are, in total, a large number of suktas and roughly 6,000 mantras *(the precise totals given in the source are not fully legible)*. **Many of its portions — the 20th section entirely — consist of mantras drawn directly from the Rigveda, with only minor variations here and there.** The first section has small suktas of one-verse mantras; the second, suktas of five verses; the third, suktas of six verses; the fourth, suktas of seven verses. The fifth section has suktas ranging from eight to eighteen verses. The sixth section has some 133 suktas, generally of three verses each, arranged in groups of six. The seventh section has some 118 suktas, several containing only one or three mantras. The eighth through the nineteenth sections *(the exact breakdown of verse-counts across this stretch is not fully legible at this resolution)*...
+**The Atharvaveda Saṃhitā has 20 sections (kāṇḍas).** Across these 20 sections there are, in total, 731 suktas and roughly 12,000 mantras. **Many of its portions — the 20th section entirely — consist of mantras drawn directly from the Rigveda, with only minor variations here and there.** The first section has small suktas of four verses each; the second, suktas of five verses; the third, suktas of six verses; the fourth, suktas of seven verses. The fifth section has suktas ranging from eight to eighteen verses. The sixth section has 142 suktas, generally small suktas of three verses each. The seventh section has 118 suktas, some containing only one or two mantras. The eighth, ninth, tenth, eleventh, twelfth, thirteenth, fourteenth, seventeenth and eighteenth sections have large suktas of more than 21...
 
 ### Page 23
 
-**...the sections above contain progressively larger suktas.** In the fifteenth and sixteenth sections, much of the content is in prose form. The nineteenth and twentieth sections generally consist of Rigveda mantras.
+**...verses each.** In the fifteenth and sixteenth sections, much of the content is in prose form. The nineteenth and twentieth sections generally consist of Rigveda mantras.
 
 **This Veda's mantras closely resemble Rigveda mantras in language, style, and meter, and its subject matter is similar as well — though no strict rule governing meter is evident here.**
 
@@ -966,17 +966,17 @@ As for how the Vargas are divided: suktas of 1 to 8 mantras are generally counte
 
 **Of the two Brahmanas connected with the Rigveda, the Aitareya Brāhmaṇa belongs to the Śākala shakha, and the Kauśītakī Brāhmaṇa to the Bāṣkala shakha.** The reason for the name "Aitareya Brāhmaṇa" is this: Mahīdāsa, son of a woman named Itarā, once, at a yajna performed by his father, was not permitted to sit upon his father's lap alongside his other brothers. Grieved by this, he performed austerities directed to the Earth-goddess (Bhūdevī), and as the fruit of that penance obtained this Brāhmaṇa and its accompanying Āraṇyaka. **For this reason, these texts came to bear the names "Aitareya Brāhmaṇa" and "Aitareya Āraṇyaka" [after his mother Itarā].**
 
-**This Brāhmaṇa is divided into 5 Pañcikās, each containing 8 Adhyāyas** *(cf. the 40-Adhyaya total already given above)*. The first several Adhyāyas concern the Agniṣṭoma-yāga; further Adhyāyas cover the Ukthya, Ṣoḍaśī, and Atirātra sacrifices, and so on. Other Adhyāyas describe the duties of the Hotṛ, the Yajamāna, the Grāvastut, the Subrahmaṇya, and six further officiants. **The final ten Adhyāyas describe the yajnas a Kṣatriya may perform, and explain the mutual relationship between Brāhmaṇas and Kṣatriyas.**
+**This Brāhmaṇa is divided into 8 Pañcikās, each containing 5 Adhyāyas** *(cf. the 40-Adhyaya total already given above)*. The first fourteen Adhyāyas concern the Agniṣṭoma-yāga; Adhyāyas 15, 17 cover the Ukthya, Ṣoḍaśī, and Atirātra sacrifices, and so on. Other Adhyāyas describe the duties of the Hotṛ, the Yajamāna, the Grāvastut, the Subrahmaṇya, and six further officiants. **The final ten Adhyāyas describe the yajnas a Kṣatriya may perform, and explain the mutual relationship between Brāhmaṇas and Kṣatriyas.**
 
 ### Page 24
 
-**Yajurveda Brahmanas** — for the Shukla Yajurveda, there is the **Śatapatha Brāhmaṇa**. Just as this Veda's Samhita has the Kāṇva and Mādhyandina shakhas, so too does this Brāhmaṇa. It comprises [several] Kāṇḍas and 100 Adhyāyas — and, having 100 Adhyāyas, bears the name "Śatapatha" ("Hundred-Path") Brāhmaṇa. **Its final portion is known as the Bṛhadāraṇyakopaniṣad.**
+**Yajurveda Brahmanas** — for the Shukla Yajurveda, there is the **Śatapatha Brāhmaṇa**. Just as this Veda's Samhita has the Kāṇva and Mādhyandina shakhas, so too does this Brāhmaṇa. It comprises 14 Kāṇḍas and 100 Adhyāyas — and, having 100 Adhyāyas, bears the name "Śatapatha" ("Hundred-Path") Brāhmaṇa. **Its final portion is known as the Bṛhadāraṇyakopaniṣad.**
 
 **For the Krishna Yajurveda, there is the Taittirīya Brāhmaṇa.** This Brāhmaṇa explains many matters not covered in the Samhita, and so may be regarded as a later portion of the Samhita itself. It comprises three Kāṇḍas and twenty-eight Adhyāyas.
 
-**Besides these, this Veda has several further Brahmanas, now extinct and found nowhere. Only their names survive:** Caraka-brāhmaṇa, Kāṭhaka-brāhmaṇa, Śvetāśvatara-brāhmaṇa, Maitrāyaṇī-brāhmaṇa, Jābāla-brāhmaṇa, Khāṇḍikīya-brāhmaṇa, Aukheya-brāhmaṇa, Hāridravika-brāhmaṇa, Āpsaraka-brāhmaṇa, Kaṅkati-brāhmaṇa, Gālava-brāhmaṇa.
+**Besides these, this Veda has several further Brahmanas, now extinct and found nowhere. Only their names survive:** Caraka-brāhmaṇa, Kāṭhaka-brāhmaṇa, Śvetāśvatara-brāhmaṇa, Maitrāyaṇī-brāhmaṇa, Jābāla-brāhmaṇa, Khāṇḍikīya-brāhmaṇa, Aukheya-brāhmaṇa, Hāridravika-brāhmaṇa, Āhvaraka-brāhmaṇa, Kaṅkati-brāhmaṇa, Gālava-brāhmaṇa.
 
-**Samaveda Brahmanas** — this Veda has three principal Brahmanas: **Tāṇḍya-brāhmaṇa, Ṣaḍviṃśa-brāhmaṇa**, and **Jaiminīya-brāhmaṇa** (also called Talavakāra-brāhmaṇa). Besides these, it has further Brahmanas: Mantra-brāhmaṇa, Daivata-brāhmaṇa, Sāmavidhāna-brāhmaṇa, Saṃhitopaniṣad-brāhmaṇa, Vaṃśa-brāhmaṇa, Jaiminīyārṣeya-brāhmaṇa, and Gopatha-brāhmaṇa. **A further, now-extinct set — Bhallavi, Śāṭyāyana, Kālabavi, Raurukī, Tumburu, Āruṇeya, Svaigi, Saulabha, Ailāli, Saṃśara, Māṣaśarāvi, Kāpeya, and Annākhyāna Brāhmaṇas — are known only by name, from mentions in the Sutra-literature, showing they were once current.** The Tāṇḍya-brāhmaṇa has 25 sections and so also bears the name "Pañcaviṃśa-brāhmaṇa"; the Ṣaḍviṃśa-brāhmaṇa is a later portion of this same text. **The Jaiminīya-brāhmaṇa is considered more ancient than the Tāṇḍya-brāhmaṇa.** Among these, there is yet another Samaveda Brahmana called "Śāḍyāyana" — the last two mentioned have not survived in complete form.
+**Samaveda Brahmanas** — this Veda has three principal Brahmanas: **Tāṇḍya-brāhmaṇa, Ṣaḍviṃśa-brāhmaṇa**, and **Jaiminīya-brāhmaṇa** (also called Talavakāra-brāhmaṇa). Besides these, it has further Brahmanas: Mantra-brāhmaṇa, Daivata-brāhmaṇa, Sāmavidhāna-brāhmaṇa, Saṃhitopaniṣad-brāhmaṇa, Vaṃśa-brāhmaṇa, Jaiminīyārṣeya-brāhmaṇa, and Gopatha-brāhmaṇa. **A further, now-extinct set — Bhallavi, Śāṭyāyana, Kālabavi, Raurukī, Tumburu, Āruṇeya, Paiṅgi, Saulabha, Śailālī, Parāśara, Māṣaśarāvi, Kāpeya, and Anvākhyāna Brāhmaṇas — are known only by name, from mentions in the Sutra-literature, showing they were once current.** The Tāṇḍya-brāhmaṇa has 25 sections and so also bears the name "Pañcaviṃśa-brāhmaṇa"; the Ṣaḍviṃśa-brāhmaṇa is a later portion of this same text. **The Jaiminīya-brāhmaṇa is considered more ancient than the Tāṇḍya-brāhmaṇa.** Among these, there is yet another Samaveda Brahmana called "Śāṭyāyana" — the last two mentioned have not survived in complete form.
 
 **Atharvaveda Brahmanas** — this Veda has only a single Brahmana, the **Gopatha-brāhmaṇa**.
 
@@ -1007,17 +1007,17 @@ The word "Upanishad" literally suggests "sitting near" (upa + ni + sad) — a di
 > इदं वाव तच्छ्रेष्ठाय पुत्राय पिता ब्रह्म प्रब्रूयात्प्रणाय्याय वा चान्तेवासिने ।
 >
 > इदं वाव तच् छ्रेष्ठाय पुत्राय पिता ब्रह्म प्रब्रूयात् प्रणाय्याय वा चान्तेवासिने
-> *idaṃ vāva tac chreṣṭhāya putrāya pitā brahma prabrūyāt praṇāyyāya vā cāntevāsine*
+> *idaṃ vāva tac chreṣṭhāya putrāya pitā brahma prabrūyāt praṇāyyāya vā cāntevāsine* (Chāndogya Up. 3-11-5)
 >
 > "This indeed should a father teach to his most worthy son, or to a devoted resident-disciple."
 
-The point: sacred knowledge should be imparted to a humble, deserving son or disciple. One who studies the Upanishads must be of refined character, well-disciplined, and genuinely eager to learn; the teacher, when a disciple comes to him, should examine him thoroughly before teaching. The dialogue between Nachiketas and Yama in the Katha Upanishad, and between Prajapati and Indra in the Chandogya Upanishad, both illustrate the qualities expected of a true disciple.
+The point: sacred knowledge should be imparted to a humble, deserving son or disciple. One who studies the Upanishads must be of refined character, well-disciplined, and genuinely eager to learn; the teacher, when a disciple comes to him, should examine him thoroughly before teaching. The dialogue between Nachiketas and Yama in the Katha Upanishad, and between Pratardana and Indra in the Kaushitaki Brahmana Upanishad, both illustrate the qualities expected of a true disciple.
 
-The Veda as a whole is one; among the Upanishads found within it, some belong to the Rigveda, some to the Kaushitaki tradition, some to the Samaveda, and others to the Chandogya, Kena, Taittiriya, Katha, and Shvetashvatara traditions, and to the Shukla Yajurveda's
+Each branch of the Veda has an Upanishad. Among those now extant, the Aitareya and Kaushitaki Upanishads belong to the Rigveda; the Chandogya to the Samaveda; the Taittiriya, Katha and Shvetashvatara Upanishads to the Krishna Yajurveda; and to the Shukla Yajurveda, the
 
 ### Page 26
 
-Brihadaranyaka and Isha Upanishads; and to the Atharvaveda's Mundaka, Mandukya, and Prashna Upanishads. Thus the Brihadaranyaka, Aitareya, Chandogya, Taittiriya, Isha, Kena, Katha, Prashna, Mundaka, and Mandukya — these ten Upanishads — are the celebrated ones. They are not easy to understand: "What is this world? Who am I? What is the nature of the self? Where does ultimate truth reside?" — such questions are addressed across their various sections. Schools of thought such as Sankhya, Yoga, Vaisheshika, and Nyaya have all, in their own ways, drawn on and interpreted the Upanishads to support their own doctrines — worth noting, since each school's interpretation often stands opposed to another's, with authors frequently writing against rival schools. Still, one truth that emerges from the Upanishads beyond doubt [is affirmed, though the specific claim is not spelled out further here].
+Brihadaranyaka and Isha Upanishads; and to the Atharvaveda's Mundaka, Mandukya, and Prashna Upanishads. Thus the Brihadaranyaka, Aitareya, Chandogya, Taittiriya, Isha, Kena, Katha, Prashna, Mundaka, and Mandukya — these ten Upanishads — are the celebrated ones. They are not easy to understand: "What is this world? Who am I? What is the nature of the self? Where does ultimate truth reside?" — such questions are addressed across their various sections. Schools of thought such as Sankhya, Yoga, Vaisheshika, and Nyaya have all, in their own ways, drawn on and interpreted the Upanishads to support their own doctrines — worth noting, since each school's interpretation often stands opposed to another's, with authors frequently writing against rival schools. What truth is to be learned from the Upanishads is itself a matter of dispute.
 
 **The Aranyakas and Upanishads presently available, by Veda:**
 
@@ -1056,10 +1056,10 @@ Listing every individual title is not essential here, so they are omitted.
 
 Shiksha is the discipline teaching the correct pronunciation, accent, and clarity of Vedic mantras. Sayanacharya defines it:
 
-> शिक्ष्यन्ते वेदमन्त्राणाम् उद्दिश्यन्ते स्वरवर्णादयो यत्रासौ शिक्षा ।
+> शिक्ष्यंते वेदनायोपदिश्यंते स्वरवर्णादयो यत्रासौ शिक्षा ।
 >
-> शिक्ष्यन्ते वेद-मन्त्राणाम् उद्दिश्यन्ते स्वर-वर्णादयो यत्रासौ शिक्षा
-> *śikṣyante veda-mantrāṇām uddiśyante svara-varṇādayo yatrāsau śikṣā*
+> शिक्ष्यंते वेदनायोपदिश्यंते स्वरवर्णादयो यत्रासौ शिक्षा
+> *śikṣyaṃte vedanāyopadiśyaṃte svaravarṇādayo yatrāsau śikṣā*
 >
 > "That [text] in which the accents, sounds, and related features of Vedic mantras are taught — that is Shiksha."
 
@@ -1071,11 +1071,11 @@ At the start of the first chapter of the Taittiriya Upanishad (of the Krishna Ya
 
 For the Rigveda's Shakala recension, the Pratishakhya author is Shaunaka (who also authored the Atharvaveda's Chaturadhyayika Pratishakhya); for the Yajurveda, Katyayana. The Shakala Pratishakhya has 3 adhyayas, each made up of six patalas: 18 patalas in all. The first patala is the Paribhasha-patala, describing letters, accent, consonants and the like. The second is the Samhita-patala, on the combination of letters and, within it, the combination of 2-3 vowels. The third is the Svara-patala, which teaches the manner of pronunciation. Patalas 4, 5 and 6 explain the sandhi and changes of consonants; patalas 7 to 9 deal with the svarita accent; and the remaining patalas with the origin and power of letters, meter and similar topics.
 
-For Shukla Yajurveda, the Vajasaneyi Pratishakhya (8 chapters) was composed by the sage Katyayana, citing earlier Pratishakhya authors of the Shaunaka and Kashyapa lineages. For Krishna Yajurveda, the Taittiriya Pratishakhya names about 20 such authors. For the Samaveda, there are the Sama-Pratishakhya, the Pushpa-sutra, and the Sanchi-vidhi-sutra. For the Atharvaveda, the Atharva-Pratishakhya.
+For Shukla Yajurveda, the Vajasaneyi Pratishakhya (8 chapters) was composed by the sage Katyayana, citing earlier Pratishakhya authors of the Shaunaka and Kashyapa lineages. For Krishna Yajurveda, the Taittiriya Pratishakhya names about 20 such authors. For the Samaveda, there are the Sama-Pratishakhya, the Pushpa-sutra, and the Panchavidha-sutra. For the Atharvaveda, the Atharva-Pratishakhya.
 
 ### 2. Vyakarana (Grammar)
 
-The grammar tradition specifically tied to the Veda survives today only in scattered fragments. Among the earliest grammarians, Shakatayana, Gargya, Shakalya, and Yaska are the principal figures; Panini came after them. The prevailing view among grammarians is that all words ultimately derive from verbal roots (dhatus) denoting action. Panini composed his own grammar largely building on the views of these earlier authorities, addressing, among the Vedic material then in current use...
+The grammar tradition specifically tied to the Veda survives today only in scattered fragments. Among the earliest grammarians, Shakatayana, Gargya, Shakalya, and Yaska are the principal figures; Panini came after them. According to Shakatayana, all words ultimately derive from verbal roots (dhatus) denoting action. Panini composed his own grammar largely building on the views of these earlier authorities, addressing, among the Vedic material then in current use...
 
 
 ### Page 29
@@ -1094,19 +1094,19 @@ Chandas-shastra explains the metrical patterns of Vedic mantras. Pingala's treat
 
 The Nirukta-shastra was composed by the sage Yaska, in two parts: the Nighantu and the Nirukta proper. The Nighantu gathers together Vedic words that share a common or synonymous meaning; the Nirukta then explains the form and derivation of these words, tracing their meaning in context and setting it out in connected, coherent form. This work is specifically and solely tied to the Veda.
 
-The Nighantu (also called "Samamnaya") has three sections. The first section has three chapters; the remaining two sections together form one further chapter. The first section, the "Naighantuka-kanda," lists synonyms for various objects and concepts in its first chapter; earth, sky, and heaven in its second; and the qualities and epithets of living beings in its third.
+The Nighantu (also called "Samamnaya") has three sections. The first section has three chapters; each of the remaining two sections has one chapter. The first section, the "Naighantuka-kanda," lists the names of objects and words of several meanings in its first chapter; living beings and their limbs in its second; and the qualities of the things and living beings of the first two chapters in its third.
 
 ### Page 30
 
 The next section is the "Naigama-kanda": words that, though found only in the Veda, share their form with ordinary words but carry a different meaning there — these are gathered here. The final section is the "Daivata-kanda," listing the names of the various deities.
 
-The Nirukta proper is the major work explaining the Nighantu's contents, and modern Sanskrit lexicography effectively begins from it — it is the earliest surviving text specifically devoted to explaining Vedic meaning. Yaska explains meaning independently, by his own method, though never in a way that would contradict the Veda's own intent; he states himself that his interpretations generally rest on the authority of the Brahmanas and the Aranyaka tradition.
+The Nirukta proper is the major work explaining the Nighantu's contents, and the modern Sanskrit style begins from it — it is the earliest surviving text specifically devoted to explaining Vedic meaning. Yaska explains meaning independently, by his own method, though never in a way that would contradict the Veda's own intent; he states himself that his interpretations generally rest on the authority of the Brahmanas and the Aranyaka tradition.
 
-The Nirukta has 12 chapters, plus two further supplementary chapters. The first three chapters explain the Naighantuka-kanda; chapters 4–6 explain the Naigama-kanda; from chapter 7 onward, the Daivata-kanda is explained. For Vedic study, the first and last chapters carry particular importance.
+The Nirukta has 12 chapters, plus two further supplementary chapters. The first three chapters explain the Naighantuka-kanda; chapters 4–6 explain the Naigama-kanda; from chapter 7 onward, the Daivata-kanda is explained. For Vedic study, the first chapter and half of the second chapter are especially interesting and useful.
 
-At the very outset, Yaska defines nouns, verbs, prepositions, and particles. The prevailing view — held even before Yaska — was that every noun derives from a verbal root; Yaska adopts this position too, deriving nominal forms from roots by showing a fitting semantic connection between them, wherever the explanation comes easily and naturally, and deciding between competing senses on the strength of the best-supported reading. Against this view, the grammarian Gargya is known to have dissented. Yaska also acknowledges that one and the same object may carry several names, or several objects may share one name (i.e., synonymy and homonymy both occur), and that not every word's origin can be traced to a clear founding principle — some function as mere conventional labels, a point grammar itself does not claim to fully resolve, and Yaska addresses this candidly in his own introduction.
+At the very outset, Yaska defines nouns, verbs, prepositions, and particles. Some hold that words are naturally nouns and the like; others hold that every word derives from a verbal root; Yaska belongs to this second group, deriving nominal forms from roots by showing a fitting semantic connection between them, wherever the explanation comes easily and naturally, and deciding between competing senses on the strength of the best-supported reading. Yaska also acknowledges that one and the same object may carry several names, or several objects may share one name (i.e., synonymy and homonymy both occur), and that not every word's origin can be traced to a clear founding principle — some function as mere conventional labels, a point grammar itself does not claim to fully resolve, and Yaska addresses this candidly in his own introduction.
 
-Yaska then states the Nirukta's purpose: to help ascertain the Veda's meaning. This raises an objection some have posed — if words have no inherent, fixed connection to the things they denote, how can we even claim particular words correspond to particular meanings? The answer given is that the word–meaning relationship is established simply through convention (rudhi) and long usage. Ascertaining the Veda's true meaning is genuinely difficult, and only through sustained effort can one hope to grasp it...
+Yaska then states the Nirukta's purpose: to help ascertain the Veda's meaning. This raises an objection: if the mantras have no meaning, explaining their meaning is a senseless thing. Yaska answers that the objects are there before us; a blind man not seeing them is no reason to say the objects do not exist, and such talk is the talk of the ignorant. Ascertaining the Veda's true meaning is genuinely difficult, and only through sustained effort can one hope to grasp it...
 
 ### Page 31
 
