@@ -19427,6 +19427,291 @@ In the second anuvāka there are seven sūktas. Of them, the first, beginning �
 
 In the second anuvāka of the eighth Maṇḍala there are seven sūktas. Among them the sūkta beginning महा इंद्रः (*mahā iṃdraḥ*) is the first. In it there are forty-eight ṛks. The seer of this sūkta is Vatsa, born in the Kaṇva line. Except for one tṛca at the end (three ṛks), Indra is the deity of the other ṛks. In the last three ṛks there is praise of the gift made by the king's son Tirindira, son of the king Paraśu. Therefore the deity of those three ṛks is the praise of Tirindira's gift. The metre is Gāyatrī. In the Anukramaṇī it is said accordingly. In the Mahāvrata, for the recitation of the ṛks of Gāyatrī metre, leaving out the last three ṛks of this sūkta
 
+### Printed p. 481
+
+> उळिद ऋक्कुगळ विनियोगविरुवुदॆंदु ऐतरेयारण्यकद पंचमारण्यकदल्लि—महा इंद्रो
+> य ओजसेति तिस्र उत्तमा उद्दरति ऎंब वाक्यदिंद (ऐ. आ. ५-२-३) निर्दिष्टवागिरुवुदु.
+> मत्तु प्रातस्सवनकालदल्लि सोमातिरेकसंदर्भदल्लि महान् ऎंदु मॊदलागुव ई सूक्तद्ध
+> ऋक्कुगळन्नु सोमातिशंसनार्थवागि पठिसबेकॆंदु आश्वलायनशौतसूत्रद-महा इंद्रो य
+> ओजसातो देवा अवंतु न इत्यैंद्रीभिर्वृष्णवीभिश्च स्तोममतिशस्य ऎंब सूत्रदिंद
+> (आ. ६-७) विवृतवागिरुवुदु. तृतीयपर्यायदल्लि होतृवु पठिसबेकाद शस्त्रमंत्रगळल्लि महा
+> इंद्रः ऎंब तृचवन्नु (मूरु ऋक्कुगळन्नु) अनुरूपतृचवन्नागि पठिसबेकॆंदु आश्वलायनशौत
+> सूत्रद—महा इंद्रो य ओजसा समस्यॆ मन्यवे विश इति ऎंब सूत्रदिंद (आ. ६-४)
+> विवृतवागिरुवुदु. अप्पोर्यामवॆंब यागदल्लि ब्रह्मनॆंब ऋत्विजनु पठिसबेकाद अतिरिक्तोक
+> मंत्रगळल्लि महा इंद्रः ऎंब ई तृचवन्ने अनुरूपतृचवन्नागि पठिसबेकॆंदु आश्वलायनशौत
+> सूत्रद—महा इंद्रो य ओजसा नूनमश्विना ऎंब सूत्रदिंद (आ. ९-११) विवृतवागिरु
+> वुदु. दर्शयागदल्लियू सह महेंद्रदेवतॆयन्नुद्देशिसि माडुव सान्नायहोमदल्लि
+> महान् ऎंब ऋक्कन्नु अनुवाक्यामंत्रवना गि पठिसबेकॆंदु आश्वलायनशौतसूत्रद—महा
+> इंद्रो य ओजसा भुवस्त्वमिंद्र ब्रह्मणा महान् ऎंब सूत्रदिंद (आ. १-६) विवृत
+> वागिरुवुदु.
+> सूक्त—६
+> मंडल—८ ॥ अनुवाक—२ ॥ सूक्त—६ ॥
+> अष्टक—५ ॥ अध्याय—८ ॥ वर्ग—९, १०, ११, १२, १३, १४, १५, १६, १७ ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—४८ ॥
+> ऋषिः—वत्सः काण्वः ॥
+> देवता—१-४५. इंद्रः । ४६-४८. तिरिंदिरस्य पारशव्यस्य दानस्तुतिः ॥
+> छंदः— गायत्री ॥
+
+##### Gist of the bhāṣya
+
+The block completes the use of the sūkta. Except for its last three Ṛks, the remaining Ṛks are to be recited at the Mahāvrata, and the Aitareya Āraṇyaka (fifth Āraṇyaka) designates this in the sentence महा इंद्रो य ओजसेति तिस्र उत्तमा उद्दरति (*mahā iṃdro ya ojaseti tisra uttamā uddarati*) (Ai. Ā. 5-2-3). At the morning pressing, in the context of the Soma surplus, the Ṛks of this sūkta beginning with महान् (*mahān*) are to be recited for the praise of the Soma surplus; the Āśvalāyana Śrauta Sūtra explains this in महा इंद्रो य ओजसातो देवा अवंतु न इत्यैंद्रीभिर्वृष्णवीभिश्च स्तोममतिशस्य (*mahā iṃdro ya ojasāto devā avaṃtu na ityaiṃdrībhirvṛṣṇavībhiśca stomamatiśasya*) (Ā. 6-7). Among the Śastra mantras to be recited by the Hotṛ in the third round, the triplet महा इंद्रः (*mahā iṃdraḥ*) is to be recited as the Anurūpa triplet, as explained in महा इंद्रो य ओजसा समस्यॆ मन्यवे विश इति (*mahā iṃdro ya ojasā samasyè manyave viśa iti*) (Ā. 6-4). In the Aptoryāma sacrifice, among the Atirikta mantras to be recited by the priest called Brahman, this same triplet is to be recited as the Anurūpa triplet, as explained in महा इंद्रो य ओजसा नूनमश्विना (*mahā iṃdro ya ojasā nūnamaśvinā*) (Ā. 9-11). In the Darśa sacrifice too, in the Sānnāyya offering made to Mahendra, the Ṛk महान् (*mahān*) is to be recited as the Anuvākyā, as explained in महा इंद्रो य ओजसा भुवस्त्वमिंद्र ब्रह्मणा महान् (*mahā iṃdro ya ojasā bhuvastvamiṃdra brahmaṇā mahān*) (Ā. 1-6).
+
+Sūkta 6. Maṇḍala 8; Anuvāka 2; Sūkta 6. Aṣṭaka 5; Adhyāya 8; Vargas 9, 10, 11, 12, 13, 14, 15, 16, 17. Number of Ṛks in the sūkta: 48. Ṛṣi: Vatsa Kāṇva. Deity: 1-45 Indra; 46-48 the praise of the gift of Tirindira Pārśavya. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हा इंद्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माइ॑व ।  
+> स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महान् । इंद्रः । यः । ओजसा । पर्जन्यः । वृष्टिमान् ऽइव ।  
+> स्तोमैः । वत्सस्य । ववृधे ॥ १ ।  
+> [ 31 ]                                                                 [ Vol. 23 ]
+
+### Printed p. 482
+#### Ṛk 1 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्र ओजसा बलेन महान् सर्वेभ्योऽधिकः । क इव । वृष्टिमानिव ।
+> यथा वृष्ट्या युक्तः पर्जन्यो रसानां पार्जयिता देवो महान् स इवेश्यर्थः ।
+> स इंद्रो वत्सस्य पुत्रस्थानीयस्य स्तोतुर्वत्सनाम्न एवर्षेः स्तोत्रैर्ववृधे ।
+> प्रवर्धते ॥
+
+##### Gist of the bhāṣya
+
+Indra, who by his might (ojas) is great, superior to all, like Parjanya, the divine bestower of rain-juices when joined with rain, that Indra is magnified (ववृधे (*vavṛdhe*): he grows) by the hymns of the seer named Vatsa, his worshipper, who stands in the place of a son.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृष्टिमान् इव (*vṛṣṭimān iva*)—endowed with rain
+- पर्जन्यः (*parjanyaḥ*)—like the god Parjanya
+- यः (*yaḥ*)—which
+- इंद्रः (*iṃdraḥ*)—Indra
+- ओजसा (*ojasā*)—by his might
+- महान् (*mahān*)—is exceedingly great (that same Indra)
+- वत्सस्य (*vatsasya*)—of the seer Vatsa, who is like his son
+- स्तोमैः (*stomaiḥ*)—by the hymns
+- ववृधे (*vavṛdhe*)—attains increase
+
+##### भावार्थ (Bhāvārtha)
+
+Like the god Parjanya endowed with rain, the Indra who by his might is exceedingly great attains increase through the hymns of the seer Vatsa, who is like a son.
+
+##### English translation
+Indra, who is great in might like Parjanya the distributor of rain, is magnified by the praises of Vatsa.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒जामृ॒तस्य॒ पिप्र॑तः॒ प्र यद्भरं॑त॒ वह्न॑यः ।  
+> विप्रा॑ ऋ॒तस्य॒ वाह॑सा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रजां । ऋतस्य । पिप्रतः । प्र । यत् । भरंत । वह्नयः ।  
+> विप्राः । ऋतस्य । वाहसा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य यज्ञस्य सत्यस्य वा प्रजां प्रकर्षेण जातमिंद्रं पिप्रतो नभसः
+> प्रदेशान् पूरयंतो वह्नयो वाहका अश्वा यद्यदा प्र भरंत प्रकर्षेण भरंति
+
+##### Gist of the bhāṣya
+
+When the horses, the bearers, filling the regions of the sky, bear forward Indra, the offspring (प्रजां (*prajāṃ*)), the one born forth, of the sacrifice or of truth (ऋतस्य (*ṛtasya*)), …
+
+### Printed p. 483
+
+> पहंति तदा विप्रा मेधाविन ऋतस्य यज्ञस्य वाहसा प्रापकेण स्तोत्रेण तमिंद्रं
+> स्तुवंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+… then the wise (विप्राः (*viprāḥ*), the intelligent) praise that Indra with a hymn that carries (वाहसा (*vāhasā*): brings to its goal) the sacrifice; "they praise" is the supplied remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—to the sacrifice
+- प्रजां (*prajāṃ*)—Indra, who is as a son
+- पिप्रतः (*piprataḥ*)—pervading the whole atmosphere
+- वह्नयः (*vahnayaḥ*)—the horses, Indra's bearers
+- यत् (*yat*)—when
+- प्र भरंत (*pra bharaṃta*)—they bear exceedingly (then)
+- विप्राः (*viprāḥ*)—the wise priests
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- वाहसा (*vāhasā*)—with the carrying hymn they praise Indra
+
+##### भावार्थ (Bhāvārtha)
+
+When the horses, which pervade the whole atmosphere and are Indra's bearers, bear exceedingly Indra, who is as a son to the sacrifice, then the wise priests praise Indra with the hymn that carries the sacrifice.
+
+##### English translation
+When his steeds filling (the heavens) bear onwards the progeny of the sacrifice, then the pious (magnify him) with the hymns of the rite.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कण्वा॒ इंद्रं॒ यदक्र॑त॒ स्तोमै॑र्य॒ज्ञस्य॒ साध॑नं ।  
+> जा॒मि ब्रु॑वत॒ आयु॑धं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कण्वाः । इंद्रं । यत् । आक्रत । स्तोमैः । यज्ञस्य । साधनं ।  
+> जामि । ब्रुवते । आयुधं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कण्वाः । स्तोतृनामैतत् । स्तोतारः कण्वगोत्रा वेंद्रं स्तोमैः स्तोतृर्यज्ञस्य यागस्य साधन ०साधयितारं निष्पादकं यद्यदाक्रत आकृषत॥ करोतेर्लुजु
+> मंत्रे घसेति चेर्लुक् ॥ तदानीमायुधं शत्रूणां हिंसकं बाणादिकं जामि ।
+> अतिरेकनामैतत् । अतिरिक्तमहितं प्रयोजनरहितं ब्रुवते । कथयंति । आयुधसा-
+
+##### Gist of the bhāṣya
+
+कण्वाः (*kaṇvāḥ*) is a name for worshippers: the worshippers of the Kaṇva line, when with hymns they have made (आक्रत (*ākrata*), drawn to themselves) Indra the accomplisher, the completer, of the sacrifice, then they declare the weapon (आयुधं (*āyudhaṃ*)), the arrow and the like that harm enemies, to be जामि (*jāmi*). जामि (*jāmi*) is a name for "excess": superfluous, useless, they say.
+
+### Printed p. 484
+
+> ध्यस्य सर्वकार्यस्येंद्रेण कृतत्वादायुधं निष्प्रयोजनमित्यर्थः । यद्वा। आयुधमायोधनशीलमीद्रं जामि जामिं भ्रातरं ब्रुवते । वदंति । सर्वकार्येषु
+> भ्रातृवद्वर्तते इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Since all that is to be accomplished by weapons is done by Indra, the weapon is useless. Or else: they call the weapon, that is, Indra who is given to fighting, जामि (*jāmi*), a brother; that is, he behaves like a brother in all undertakings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- कण्वाः (*kaṇvāḥ*)—the seers born in the Kaṇva line
+- इंद्रं (*iṃdraṃ*)—Indra
+- स्तोमैः (*stomaiḥ*)—with hymns
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- साधनं (*sādhanaṃ*)—as the accomplisher
+- अकृत (*akṛta*)—made (then)
+- आयुधं (*āyudhaṃ*)—the weapons to be used against enemies
+- जामि (*jāmi*)—as useless
+- ब्रुवते (*bruvate*)—they say
+
+##### भावार्थ (Bhāvārtha)
+
+When the seers born in the Kaṇva line have made Indra by their hymns the accomplisher of the sacrifice, they regard the weapons to be used against enemies as useless. When Indra himself is there to help, there is no need at all of other weapons.
+
+##### English translation
+When the Kanwas by their praises have made Indra the accomplisher of the sacrifice, they declare all weapons needless.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॑स्य म॒न्यवे॒ विशो॒ विश्वा॑ नमंत कृ॒स्टयः॑ ।  
+> स॒मु॒द्राये॑व॒ सिंध॑वः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अस्य । मन्यवे। विशः । विश्वाः। नमंत । कृष्टयः ।  
+> समुद्राय इव । सिंधवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीये पर्याये होतुः शस्त्रे समस्यॆ मन्यव इत्याद्या द्विचत्वारिंशदृचः ।
+> सूत्र्यते हि । समस्यॆ मन्यवे विश इति द्विचत्वारिंशद्विश्वजिते । आ. ६-४ । इति ॥
+> विशो विशंत्यो विश्वाः सर्वाः कृष्टयः प्रजाः अस्येंद्रस्य मन्यवे क्रोधाय।
+
+##### Gist of the bhāṣya
+
+In the third round, in the Hotṛ's Śastra, the forty-two Ṛks beginning समस्यॆ मन्यवे (*samasyè manyave*) are used. It is stated in the Sūtra: समस्यॆ मन्यवे विश इति द्विचत्वारिंशद्विश्वजिते (*samasyè manyave viśa iti dvicatvāriṃśadviśvajite*) (Ā. 6-4). The विशः (*viśaḥ*), the entering ones, all (विश्वाः (*viśvāḥ*)) the कृष्टयः (*kṛṣṭayaḥ*), the people, bow to the wrath (मन्यवे (*manyave*)) of this Indra.
+
+### Printed p. 485
+
+> यद्वा । मन्युर्मननसाधनं स्तोत्रं । तदर्थं । सं नमंत । सम्यक् स्वत एव
+> नमंति ॥ नमतेः कर्मकर्तरि च्छांदसो लज् । न दुहस्नुनमामिति यक्षिणोः प्रतिषेधः ॥ प्रह्वीभवंति । तत्र दृष्टांतः । समुद्रायेव यथा समुद्रमब्धिं प्रति
+> सिंधवः स्यंदनशीला नद्यः स्वयमेव नमंते तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Or else: *manyuḥ* is the hymn, the means of thinking; for its sake they bow (सं नमंत (*saṃ namaṃta*)) well, of themselves. They bend down. An illustration: just as rivers, flowing ones, bend of themselves toward the sea.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्राय इव (*samudrāya iva*)—as, when going to the sea
+- सिंधवः (*siṃdhavaḥ*)—the rivers bend humbly and so join
+- अस्य (*asya*)—of this Indra
+- मन्यवे (*manyave*)—fearing the wrath
+- विशः (*viśaḥ*)—those who approach Indra
+- विश्वाः (*viśvāḥ*)—all
+- कृष्टयः (*kṛṣṭayaḥ*)—the people
+- सं नमंत (*saṃ namaṃta*)—bow, and humbly approach
+
+##### भावार्थ (Bhāvārtha)
+
+As rivers bend humbly and so join when they go to the sea, so all the people who approach Indra, fearing his wrath, bow and humbly approach Indra.
+
+##### English translation
+All people, (all) men bow down before his anger, as rivers (decline) towards the sea.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the Śastra mantras recited by the priest called Hotṛ in the third round, the forty-two Ṛks of this sūkta, from the Ṛk समस्य मन्यवे (*samasya manyave*) onward, are used, as the Āśvalāyana Śrauta Sūtra explains in the Sūtra समस्य मन्यवे विश इति द्विचत्वारिंशद्विश्वजिते (*samasya manyave viśa iti dvicatvāriṃśadviśvajite*) (Ā. 6-4).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओज॒स्तद॑स्य तित्विष उ॒भे यत्स॒मव॑र्तयत् ।  
+> इंद्र॒श्चर्मे॑व॒ रोद॑सी ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओजः । तत् । अस्य । तित्विषे । उभे इति । यत् । संअवर्तयत् ।  
+> इंद्रः । चर्म इव । रोदसी इति ॥ ५ ॥
+
+### Printed p. 486
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य तदोजो बलं तित्विषे । दिदीपे ॥ त्वष दीप्तौ ॥ यद्येनौजसायमिंद्र उभे रोदसी द्यावापृथिव्य चर्मेव समवर्तयत् सम्यग्वर्तयति । यथा
+> कश्चित्किंचिच्चर्म कदाचिद्विस्तारयति कदाचित्संकोचयति एवं तदधीने अभूतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That might (ओजः (*ojaḥ*)) of this Indra shines (तित्विषे (*titviṣe*): दिदीपे (*didīpe*); the root त्वष (*tvaṣa*) is in the sense of shining), the might by which this Indra rolls both heaven and earth (रोदसी (*rodasī*)) together like a skin. As someone at one time spreads out some skin and at another contracts it, so the two came to be subject to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—by which might
+- इंद्रः (*iṃdraḥ*)—Indra
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- चर्मेव (*carmeva*)—as one easily folds a skin and, when needed, spreads it out and keeps it
+- समवर्तयत् (*samavartayat*)—makes, as he pleases, extended or contracted; such
+- अस्य (*asya*)—of this Indra
+- तत् (*tat*)—the renowned
+- ओजः (*ojaḥ*)—valour
+- तित्विषे (*titviṣe*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+As one easily folds a skin and spreads it out when needed, so Indra, by the might by which he makes heaven and earth extended or contracted as he pleases, has this renowned valour (brilliance) of his shining.
+
+##### English translation
+His might is manifest, for Indra folds and unfolds both heaven and earth, as (one spreads or rolls up) a skin.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि चि॑द्वृ॒त्रस्य॒ दोध॑तो॒ वज्रे॑ण श॒तप॑र्वणा ।  
+> शिरो॑ बिभेद वृ॒ष्णिना॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । चित् । वृत्रस्य । दोधतः । वज्रेण । शतपर्वणा ।  
+> शिरः । बिभेद । वृष्टिना ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 480. pp. 475-480 (batch API)
+**Progress note:** Done through printed p. 486. pp. 481-486 (batch API)
