@@ -13930,6 +13930,302 @@ O Aśvin deities, destroy your enemies. Come to your friends. Give us offspring 
 ##### English translation
 Destroy your foes, repair to your friends, grant progeny, give wealth, and, united with the dawn and with Surya, give us. Aswins strength.
 
+### Printed p. 307
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रावरु॑णवंता उ॒त धर्म॑वंता म॒रुत्वं॑ता जरि॒तुर्ग॑च्छथो॒ हवं॑ ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण चादि॒त्यैर्या॑तमश्विना ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रावरुणवंता । उत । धर्मवंता । मरुत्वंता । जरितुः । गच्छथः । हवं ।  
+> सजोषस् । उषसा । सूर्येण । च । आदित्यै । यातं । अश्विना ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे अश्विन् युवां मित्रावरुणवंता मित्रावरुणयुक्तौ धर्मवंतौ
+> धर्मयुक्तौ च मरत्वंता मरुद्धिर्युक्तौ च जरितुः स्तोतुर्हवमाह्वानं गच्छथः ।
+> आगच्छतं । उषसा सूर्येण चादित्यैश्च यातं । गच्छतं ;
+
+##### Gist of the bhāṣya
+
+Further, O Aśvins, you who are accompanied by Mitra and Varuṇa, endowed with Dharma, and accompanied by the Maruts, go to the invocation of the worshipper (jaritṛ), that is, of the praiser; come to it. Come also with Uṣas, Sūrya and the Ādityas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- मित्रावरुणवंतौ (*mitrāvaruṇavaṃtau*)—being accompanied by Mitra and Varuṇa
+- उत (*uta*)—and
+- धर्मवंता (*dharmavaṃtā*)—being accompanied by righteousness
+- मरुत्वंता (*marutvaṃtā*)—being accompanied by the Maruts
+- जरितुः (*jarituḥ*)—of the praiser
+- दवं (*davaṃ*)—hearing the prayer
+- गच्छथः (*gacchathaḥ*)—come to him
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण चॆ (*sūryeṇa cè*)—and with Sūrya
+- आदित्यैः (*ādityaiḥ*)—with the Ādityas
+- सजोषसा (*sajoṣasā*)—being united
+- यातं (*yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, being accompanied by Mitra and Varuṇa, being accompanied by the deity Dharma, and being accompanied by the Maruts, hear the prayer of the praiser and come to him. Being united with Uṣas, with Sūrya and with the Ādityas, come.
+
+##### English translation
+Associated with Mitra and Varuna, with Dharma, with the Maruts, repair to the invocation of the adorer; repair (to him), Aswins, united with the dawn, with Surya, and with Adityas.
+
+### Printed p. 308
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंगि॑रस्वंता उ॒त विष्णु॑वंता म॒रुत्वं॑ता जरि॒तुर्ग॑च्छथो॒  ॑
+> हवं ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण चादि॒त्यैर्या॑तमश्विना ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंगिरस्वंतौ । उत । विष्णुवंता । मरुत्वंता । जरितुः । गच्छथः । हवं ।  
+> सजोषसौ । उषसा । सूर्येण । च । आदित्यैः । यातं । अश्विना ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे अश्विनौ युवामंगिरस्वंतावंगिरोभिर्युक्तौ विष्णुवंता
+> विष्णुना च सहितौ मरुद्धिश्च सहितौ स्तोतुराह्वानं गच्छतं । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Further, O Aśvins, you who are accompanied by the Aṅgirases, accompanied by Viṣṇu, and accompanied by the Maruts, go to the invocation of the praiser. The rest is as before. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- उत (*uta*)—and
+- अंगिरस्वंतौ (*aṃgirasvaṃtau*)—being accompanied by the Aṅgirases
+- विष्णुवंता (*viṣṇuvaṃtā*)—being accompanied by Viṣṇu
+- मरुत्वंता (*marutvaṃtā*)—being accompanied by the Maruts
+- जरितुः (*jarituḥ*)—of the praiser
+- हवं (*havaṃ*)—hearing the invocation
+- गच्छथः (*gacchathaḥ*)—go to him
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- आदित्यैः (*ādityaiḥ*)—with the Ādityas
+- सजोषसा (*sajoṣasā*)—being united
+- यातं (*yātaṃ*)—come to the praiser
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, being accompanied by the Aṅgirases, by Viṣṇu and by the Maruts, hear the invocation of the praiser and go to him. Being united with Uṣas, with Sūrya and with the Ādityas, come to the praiser.
+
+##### English translation
+Associated with the Angirasas, with Vishnu, with the Maruts, repair to the invocation of the adorer; repair (to him), Aswins, united with the dawn, with Surya, and with the Aditya.
+
+### Printed p. 309
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒भु॒मंता॑ वृषणा॒ वाज॑वंता म॒रुत्वं॑ता जरि॒तुर्ग॑च्छथो॒  ॑
+> हवं ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण चादि॒त्यैर्या॑तमश्विना ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋभुमंता । वृषणा । वाजवंता । मरुत्वंता । जरितुः । गच्छथः । हवं ।  
+> सजोषसा । उषसा । सूर्येण । च । आदित्यैः । यातं । अश्विना ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनावृभुमंता ऋभुसहितौ वृषणा कामानां वर्षितारौ वाजवंतौ
+> वाजयुक्तौ मरुत्वंतौ च स्तोतुराह्वानं गच्छतं । ऋभुमंता वाजवंतेति
+> ज्येष्ठकनिष्ठाभ्यां व्यपदेशः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, accompanied by the Ṛbhus, showerers of desires, endowed with food (vāja), and accompanied by the Maruts, go to the invocation of the praiser. The words "accompanied by the Ṛbhus" and "endowed with food" are designations in terms of the elder and the younger. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणा (*vṛṣaṇā*)—bestowers of what is desired
+- अश्विना (*aśvinā*)—O Aśvin deities
+- ऋभुमंता (*ṛbhumaṃtā*)—being accompanied by the Ṛbhus
+- वाजवंता (*vājavaṃtā*)—being endowed with food
+- मरुत्वंता (*marutvaṃtā*)—being accompanied by the Maruts
+- जरितुः (*jarituḥ*)—of the praiser
+- हवं (*havaṃ*)—hearing the invocation
+- गच्छधः (*gacchadhaḥ*)—go to him
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- आदित्यैः (*ādityaiḥ*)—with the Ādityas
+- सजोषसा (*sajoṣasā*)—being united
+- यातं (*yātaṃ*)—come to the praiser
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, bestowers of what is desired, being accompanied by the Ṛbhus, endowed with food, and accompanied by the Maruts, hear the invocation of the praiser and go to him. Being united with Uṣas, with Sūrya and with the Ādityas, come to the praiser.
+
+##### English translation
+Associated with the Ribhus, and with the Maruts, repair, showerers (of benefits), dispensers of food, to the invocation of the adorer; repair (to him), Aswins, united with the dawn, with Surya, and with the Adityas.
+
+### Printed p. 310
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्म॑ जिन्वतमु॒त जि॑न्वतं॒ धियो॑ ह॒तं रक्षां॑सि॒ सेध॑त॒ममी॑वाः।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण च॒ सोमं॑ सुन्व॒तो अ॑श्विना ॥  
+> ॥ पदसापति ॥  
+> ब्रह्म । जिन्वतं । उत । जिन्वतं । धियः ! हतं । रक्षांसि । सेधतं । अमीनाः ।  
+> स॒जोष॑सौ । उ॒षसा॒ । सूर्ये॑ण । च॒ । सोमं॑ । सुन्व॒तः । अ॑श्विना ॥ १६ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां ब्रह्म ब्राह्मणं जिन्वतं । प्रीणयतं । उतापि च धियः
+> कर्माणि जिन्वतं । हंत च रक्षांसि । अवीना राक्षसांश्च सेधतं ! उषसा सूर्येण
+> च संगत् सुन्वतो यजमानस्य सोमं पिबतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, gratify the brahma, that is, the Brāhmaṇa; and further, make the rites (dhiyaḥ) fruitful. Slay the Rākṣasas and drive away the diseases. United with Uṣas and Sūrya, drink the Soma of the sacrificer who presses it, that is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- ब्रह्म (*brahma*)—hearing our praises
+- जिन्वतं (*jinvataṃ*)—be gratified
+- उत (*uta*)—and
+- धियः (*dhiyaḥ*)—our rites
+- जिन्वतं (*jinvataṃ*)—make fruitful
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- हतं (*hataṃ*)—destroy
+- अमीवाः (*amīvāḥ*)—diseases and the like
+- सेधतं (*sedhataṃ*)—drive away
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- सुन्वतः (*sunvataḥ*)—of the sacrificer who presses the Soma
+- सोमं (*somaṃ*)—drink the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, make our praises and our rites fruitful. Destroy the Rākṣasas; drive away diseases and the like. Being united with Uṣas and with Sūrya, drink the Soma of the sacrificer who presses the Soma.
+
+##### English translation
+Be propitious to prayer, be propitious to sacred rites, slay the Rakshasas remedy diseases; united with the dawn and with Surya, (drink) Aswins, the Soma of the offerer.
+
+### Printed p. 311
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्ष॒त्रं जि॑न्नतमु॒त जि॑न्नतं॒ नृन्ह॒तं रक्षां॑सि॒ सेध॑त॒ममी॑वाः ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण च॒ सोमं॑ सुन्व॒तो अ॑श्विना ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षत्रं ! जिन्वतं । उत । जिन्वतं । नृन् । हतं । रक्षांसि । सेधतं । अमीवाः ।  
+> सजोषसौ । उषसा । सूर्येण । च । सोमं । सुन्वतः । अश्विना ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां क्षत्रं क्षत्रियं जिन्वतं । उतापि च न्नन्योद्धर् इज्जिन्वतं ।
+> सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, gratify the kṣatra, that is, the Kṣatriya; and further, gratify the men. The rest is as before. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- क्षत्रं (*kṣatraṃ*)—the one possessing the power of a Kṣatriya
+- जिन्वतं (*jinvataṃ*)—gratify
+- उत (*uta*)—and
+- नृन् (*nṛn*)—the warriors
+- जिन्वतं (*jinvataṃ*)—make satisfied
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- हतं (*hataṃ*)—destroy
+- अमीवाः (*amīvāḥ*)—diseases and the like
+- सेधतं (*sedhataṃ*)—drive away
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- सुन्वतः (*sunvataḥ*)—of the sacrificer
+- सोमं (*somaṃ*)—drink the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, gratify the sacrificer who possesses the power of a Kṣatriya. Gratify the warriors. Destroy the Rākṣasas. Drive away diseases and the like. Being united with Uṣas and with Sūrya, drink the Soma of the sacrificer.
+
+##### English translation
+Be propitious to the strong, beneficial to men, slay the Rakshasas, remedy diseases: united with the dawn and with Surya, (drink), Aswins, the Soma of the offerer.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धे॒नूर्जि॑न्वतमु॒त जि॑न्वतं॒ विशो॑ह॒तं रक्षां॑सि॒ सेध॑त॒ममी॑वाः।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण च॒ सोमं॑ सुन्व॒तो अ॑श्विना ॥
+
+### Printed p. 312
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धेनूः । जिन्वतं । उत । जिन्वतं । विशः । हतं । रक्षांसि । सेधतं । अमीवाः ।  
+> सजोषसौ । उषसा । सूर्येण । च । सोमं । सुन्वतः । अश्विना ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् धेनूर्जिन्वतं । उतापि च विशो वैश्यांश्च जिन्वतं । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, gratify the cows; and further, gratify the Vaiśyas, that is, the people. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- धेनूः (*dhenūḥ*)—to our cows
+- जिन्वतं (*jinvataṃ*)—be gratifying
+- उत (*uta*)—and
+- विशः (*viśaḥ*)—our people
+- जिन्वतं (*jinvataṃ*)—gratify
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- हतं (*hataṃ*)—destroy
+- अमीवाः (*amīvāḥ*)—diseases and the like
+- सेधतं (*sedhataṃ*)—drive away
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- सुन्वतः (*sunvataḥ*)—of the sacrificer
+- सोमं (*somaṃ*)—drink the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, be gratifying to our cows. Gratify our people. Destroy the Rākṣasas. Drive away diseases and the like. Being united with Uṣas and with Sūrya, drink the Soma of the sacrificer.
+
+##### English translation
+Be propitious to the cows b- prcpitious to the people, slay the Rakshasas, remedy diseases : united with the dawn and with Surya, (drink), Aswins, the Soma of the offerer.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्रे॑रिव शृणुतं पू॒र्व्यस्तु॑तिं श्या॒वाश्व॑स्य सुन्व॒तो म॑दच्युता।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चाश्वि॑ना ति॒रो अ॑ह्न्यं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्रेऽइव ! शृणुतं । पूर्व्यस्तुतिं । श्याव अश्वस्य । सुन्वतः । मदच्युता ।  
+> सजोषसौ । उषसा ! सूर्येण । च । अश्विना । तिरःअह्न्यं ॥ १९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 306. Vol 24 Mandala 8 sukta 35 rks 6-12, pp. 300-306
+**Progress note:** Done through printed p. 312. Vol 24 Mandala 8 sukta 35 rks 13-19, pp. 307-312
