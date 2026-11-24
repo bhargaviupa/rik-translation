@@ -52,3 +52,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 44 | 47–61 | 15 | 14 | 1 question | see git log |
 | 45 | 62–76 | 22 | 19 | 3 questions; 8-4-19 → 8-1-4 at one grammar entry while the bhāṣya block cites 8-4-19: look | see git log |
 | 46 | 77–91 | 13 | 11 | 3 questions | see git log |
+| 47 | 92–106 | 17 | 16 | 1 question; two judgement calls flagged by the reader (L1792 Ni. 1-15, L1800 U. Sū. numbers) | see git log |
