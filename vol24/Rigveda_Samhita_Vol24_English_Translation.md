@@ -15245,6 +15245,317 @@ O Indra, hear the praise of me, Śyāvāśva, the praiser, as you heard that of 
 
 O Indra, as you heard the praises of the great seer Atri, who performs excellent sacrificial rites, so hear also my praises, mine, the praiser, known as Śyāvāśva. And increasing Trasadasyu's strength in battle, you, unequalled and without the help of others, protected Trasadasyu completely.
 
+### Printed p. 337
+
+##### English translation
+Hear the praises of Shayavashwa eulogizing you, as you have heard those of Atri engaged in pious rites ; you alone have protected Trasadasyu in battle, augmenting his vigour.
+
+## Sūkta 38 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्य हीति दशर्चमष्टमं सूक्तं श्वावाश्वस्यार्षं प्राग्वत्सप्रपरिभाषया
+> गायत्रमिंद्राग्नि देवताकं । तथा चानुक्रांतं । यज्ञस्य दशैंद्राग्नमिति ॥ पृष्ठ्याभिप्लवषडहयोः प्रातःसवनेच्छावाकशस्त्र आवापार्थमेतसूक्तं । सूत्रितं च ।
+> यज्ञस्य हि स्थ इत्यच्छावाकस्य । आ. ७-५ । इति ॥ चातुर्विंशिकेऽहनि प्रातःसवने
+> यज्ञस्य हि स्थ इति षळहस्तोत्रियसंज्ञ कस्त्रचः । सूत्रितं च । इंद्राग्नी युवामिमे
+> यज्ञस्य हि स्थ ऋज्जिजेत्यच्छावाकस्य । अ. ७-२ । इति ॥ अग्निष्टोमे प्रातःसवनेच्छावाकस्य प्रातर्यावभिरिति प्रातःसवनीयस्य प्रस्थितयाज्या । सूत्रितं च । प्रातर्यावभिरिति यजति । आ. ५-७ । इति ॥ चातुर्विंशिके प्रातःसवनेच्छावाकशस्त्रे श्यावाश्वस्येत्ययं पर्यासस्तृचः । अन्यत्राप्यहर्गणेषु द्वितीयादिष्टहःसु । सूत्र्यते हि ।
+> श्यावाश्वस्य सुन्वत इति तृजाः पर्यासाः । आ. ७-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning यज्ञस्य हि (*yajñasya hi*) is the eighth hymn, of ten verses. Its seer is Śyāvāśva, as before; its metre is Gāyatra; its deity is Indra and Agni. The Anukramaṇī says that the ten verses beginning with this are addressed to Indra and Agni. At the morning pressing of the Pṛṣṭhya and Abhiplava ṣaḍahas this hymn is for the Acchāvāka's insertion into the Stomas, as the sūtra यज्ञस्य हि स्थ इत्यच्छावाकस्य (*yajñasya hi stha ityacchāvākasya*) (Ā. 7-5) shows. On the Cāturviṃśika day, at the morning pressing, the triplet beginning with this verse is the Ṣaḷahastotriya triplet, as the sūtra on the Acchāvāka (Ā. 7-2) shows. In the Agniṣṭoma, at the morning pressing, the Acchāvāka's offering-verse of the morning pressing is the verse प्रातर्यावभिः (*prātaryāvabhiḥ*) (Ā. 5-7). In the Acchāvāka's Śastra at the morning pressing of the Cāturviṃśika day, the triplet beginning श्यावाश्वस्य (*śyāvāśvasya*) is the Paryāsa triplet; likewise in the other aggregates of days, from the second day onward, as the sūtra श्यावाश्वस्य सुन्वत इति तृचाः पर्यासाः (*śyāvāśvasya sunvata iti tṛcāḥ paryāsāḥ*) (Ā. 7-2) says.
+
+##### Anuvāda
+
+This hymn beginning यज्ञस्य हि (*yajñasya hi*) is the eighth hymn in the fifth Anuvāka. It has ten Ṛks. As for the preceding hymn, Śyāvāśva is the seer of this hymn; Indra and Agni are the deities; the metre is Gāyatrī. In the Anukramaṇī it is said: ten verses beginning यज्ञस्य (*yajñasya*) are addressed to Indra and Agni. It is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra यज्ञस्य हि स्थ इत्यच्छावाकस्य (*yajñasya hi stha ityacchāvākasya*) (Ā. 7-5), that at the morning pressing of the sacrifices called Pṛṣṭha and Abhiplavaṣaḍaha the priest called Acchāvāka should recite this hymn for the insertion of the Stomas. It is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra beginning इंद्राग्नी युवामिमे (*iṃdrāgnī yuvāmime*) (Ā. 7-2), that at the morning pressing on the day called Cāturviṃśika the triplet यज्ञस्य हि स्थः (*yajñasya hi sthaḥ*) should be recited as the Ṣaḷahastotriya triplet. It is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra प्रातर्यानभिरिति यजति (*prātaryānabhiriti yajati*) (Ā. 5-7), that in the Agniṣṭoma sacrifice, at the morning pressing, the priest called Acchāvāka should recite the seventh Ṛk of this hymn, beginning प्रातर्यावभिः (*prātaryāvabhiḥ*), as the Prasthitayājyā mantra of the morning pressing.
+
+### Printed p. 338
+And in the Śastra mantras recited by the priest called Acchāvāka at the morning pressing on the day of the sacrifice called Cāturviṃśika, the eighth Ṛk of this hymn, श्यावाश्वस्य (*śyāvāśvasya*), should be recited as the Paryāsa triplet. In other places also, such as the Ahargaṇa, from the second day onward, this mantra should be recited as the Paryāsa triplet, as explained by the Āśvalāyana Śrauta Sūtra in the sūtra श्यावाश्वस्य सुन्वत इति तृचाः पर्यासाः (*śyāvāśvasya sunvata iti tṛcāḥ paryāsāḥ*) (Ā. 7-2).
+
+Maṇḍala 8; Anuvāka 5; Sūkta 38 **NOTE**.
+Aṣṭaka 6; Adhyāya 3; Varga 20, 21.
+Number of Ṛks in the hymn: 10.
+Seer: Śyāvāśva.
+Deity: Indra and Agni.
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञस्य॒ हि स्थ ऋ॒त्विजा॒ सस्नी॒ वाजे॑षु॒ कर्म॑सु ।  
+> इंद्रा॑ग्नी॒ तस्य॑ बोधतं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञस्य । हि । स्थः । ऋत्विजा । सस्नी इति । वाजेषु । कर्मसु ।  
+> इंद्राग्नी इति । तस्य । बोधतं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी सस्नि शुद्धौ युवां यजस्यर्त्विजा ऋत्विजौ स्थः । भवथः ।
+> वाजेषु कर्मसु युद्देषु वोपतिष्ठंताविंद्राग्नी तस्य तं मां तस्य मम स्तुतिं
+> ना बोधतं । जानीतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, pure ones, you are the priests of the sacrifice. In battles and in rites, being present, know me and my praise. The rest is established. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- सस्नी (*sasnī*)—you who are perfectly pure
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- ऋत्विजा (*ṛtvijā*)—in the form of priests
+- स्थः हि (*sthaḥ hi*)—you are, are you not
+- वाजेषु (*vājeṣu*)—in battles
+- कर्मसु (*karmasu*)—and in sacrificial rites
+- तस्य (*tasya*)—this praise of mine
+- बोधतं (*bodhataṃ*)—know
+
+### Printed p. 339
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, you who are perfectly pure, you are, are you not, in the form of priests for the sacrifice. In the sacrifices also, know his praise. **NOTE**
+
+##### English translation
+Indra and Agni, you are the pure ministrants (encouragers) in offerings and sacred rites,—hear (the praise) of this (your worshipper).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तो॒शासा॑ रथ॒यावा॑ना वृत्र॒हणाप॑राजिता ।  
+> इंद्रा॑ग्नी॒ तस्य॑ बोधतं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तोशासा । रथयावाना । वृत्रहना । अपराजिता ।  
+> इंद्राग्नी इति । तस्य । बोधतं i: २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी शोशासा शत्रून् हिंसंत् रथयावाना रथेन गच्छंतौ
+> वृत्रहणा वृत्रस्य हंतारापराजिता केनाप्यपराजितौ तस्य तं मां बोधतं !!
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, destroying enemies, travelling by chariot, slayers of Vṛtra, unconquered by anyone, know me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O gods Indra and Agni
+- तोरासा (*torāsā*)—destroyers of enemies
+- रथयावाना (*rathayāvānā*)—who travel in a chariot
+- वृत्रहणा (*vṛtrahaṇā*)—slayers of enemies
+- अपराजिता (*aparājitā*)—not defeated by anyone, you
+- तस्य (*tasya*)—this praise of mine
+- बोधतं (*bodhataṃ*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Indra and Agni, destroyers of enemies, travelling in a chariot, slayers of Pṛtra (the enemy) **NOTE**, defeated by no one, know this my praise.
+
+##### English translation
+Destroyers (of foes), riding in one chariot, slayers of Vritra, invincible; hear, Indra and Agni, (the praise) of this (your worshipper).
+
+### Printed p. 340
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं वां॑ मदि॒रं मध्वधु॑क्ष॒न्नद्रि॑भि॒र्नरः॑ ।  
+> इंद्रा॑ग्नी॒ तस्य॑ बोधतं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । वां । मदिरं । मधु । अधुक्सन् । अद्रिभिः । नरः ।  
+> इंद्राग्नी इति । तस्य । बोधतं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी वां युवामुद्दिश्य नरो यज्ञस्य नेतारोऽद्रिभिग्र्रावभिर्मदिरं मदकरं मधु सोमात्मकममृतमधुक्षन् । अपूरयन् । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, for you the leaders of the sacrifice have pressed out with the stones the intoxicating honey, that is, the nectar consisting of Soma; they have filled it up. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O gods Indra and Agni
+- वां (*vāṃ*)—for you
+- नरः (*naraḥ*)—the priests, leaders of the sacrifice
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- मदिरं (*madiraṃ*)—intoxicating
+- इदं मधु (*idaṃ madhu*)—this Soma
+- अधुक्सन् (*adhuksan*)—have pressed out and prepared
+- तस्य (*tasya*)—of this worshipper of yours, the praise
+- बोधतं (*bodhataṃ*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Indra and Agni, for you the priests, leaders of the sacrifice, have pressed out and prepared this intoxicating Soma with the pressing stones. Know this my praise.
+
+##### English translation
+The leaders of rites have effused by the stones this sweet exhilarating (beverage) for you ; hear, Indra and Agni, (the praise) of this (your worshipper).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जु॒षेथां॑ य॒ज्ञमि॒ष्टये॑ सु॒तं सोमं॑ सधस्तु ती ।  
+> इंद्रा॑ग्नी॒ आ ग॑तं नरा ॥ ४ ॥
+
+### Printed p. 341
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुषेथां । यज्ञं । इष्टये । सुतं । सोमं ! सधस्तुती इति सधस्तुती ।  
+> इंद्राग्नी इति । आ । गतं । नरा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सधस्तुती सहभूतस्तुती नरा नेताराविंद्राग्नी यज्ञं जुषेथां ।
+> सेवेथां । इष्टये यागाय सुतमभिषुतं सोमं चा गतं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, who are praised together, leaders, enjoy the sacrifice. For the rite, come also to the Soma that has been pressed. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सधस्तुती (*sadhastutī*)—you who are praised together
+- नरा (*narā*)—you who are leaders of the sacrifice
+- इंद्राग्नी (*iṃdrāgnī*)—O gods Indra and Agni
+- यज्ञं (*yajñaṃ*)—our sacrifice
+- जुषेथां (*juṣethāṃ*)—enjoy
+- इष्टये (*iṣṭaye*)—for the sacrifice
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—towards the Soma
+- आ गतं (*ā gataṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Indra and Agni, who are praised together and are leaders of the sacrifice, enjoy this our sacrifice. Come towards the Soma pressed for the sacrifice.
+
+##### English translation
+Associated in praise, accept the sacrifice; leaders of rites, Indra and Agni, come hither to the Soma effused for this solemnity.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा जु॑षेथां॒ सव॑ना॒ येभि॑र्ह॒व्यान्यू॒हथुः॑ ।  
+> इंद्रा॑ग्नी॒ आ ग॑तं नरा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमा । जुषेथां । सवना । येभिः । हव्यानि । ऊहथुः ।  
+> इंद्राग्नी इति । आ । गतं । नरा ॥ ५ ॥
+
+### Printed p. 342
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी नरा नेतारौ युवां येभिर्य्यैः सवनैर्हव्यान्यूहथुः वहथः
+> तानीमेमानि सवना सवनानि जुषेथां । सेवेथां । आ गतं च ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, leaders, accept these pressings, the very ones by which you carry the oblations, and come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—you who are leaders of the sacrifice
+- इंद्राग्नी (*iṃdrāgnī*)—O gods Indra and Agni
+- योभिः (*yobhiḥ*)—by which pressings
+- हव्यानि (*havyāni*)—oblations
+- ऊहथुः (*ūhathuḥ*)—you carry
+- इमा सवना (*imā savanā*)—these pressings
+- जुषेथां (*juṣethāṃ*)—accept
+- आ गतं (*ā gataṃ*)—come here
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Indra and Agni, leaders of the sacrifice, accept these pressings by which you carry the oblations. Come here.
+
+##### English translation
+Accept these sacrifices whereby you have borne away the oblations ; leaders of rites, Indra and Agni come hither.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां गा॑य॒त्रव॑र्तनिं जु॒षेथां॑ सुष्टु॒तिं मम॑ ।  
+> इंद्रा॑ग्नी॒ आ ग॑तं नरा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । गायत्रवर्तनिं । जुषेथां । सुस्तुतिं । मम ।  
+> इंद्राग्नी इति । आ । गतं । नरा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी नरौ युवां मम गायत्रवर्तनिं गायत्रमार्गामिमां
+> सुष्टुतिं शोभनां स्तुतिं जुषेथां । सेवेथां । आ गतं च ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, leaders, accept this good praise of mine, which follows the Gāyatra path, and come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O leaders
+- इंद्राग्नी (*iṃdrāgnī*)—O gods Indra and Agni
+- मम (*mama*)—by me
+- गायत्रवर्तनिं (*gāyatravartaniṃ*)—following the measure of the Gāyatrī
+- इमां सुष्टुतिं (*imāṃ suṣṭutiṃ*)—this excellent praise
+
+### Printed p. 343
+- जुषेथां (*juṣethāṃ*)—accept
+- आ गतं (*ā gataṃ*)—be gracious and come here
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Indra and Agni, leaders, accept this excellent praise, recited by me and following the measure of the Gāyatrī. Be gracious and come here.
+
+##### English translation
+Accept this my earnest praise, following the path of the Gayatri ; leaders of rites, Indra and agni, come hither.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒त॒र्याव॑भि॒रा ग॑तं दे॒वेभि॑र्जेन्यावसू ।  
+> इंद्रा॑ग्नी॒ सोम॑पीतये ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रातर्याव्यभिः । आ । गतं । देवेभिः । जेन्यावसू इति ।  
+> इंद्राग्नी इति । सोमपीतये ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जेन्यावसू जीतव्यशत्रुधनाविंद्राग्नी प्रातर्यावभिर्देवैः सह सोमपीतये सोमस्य पानाया गतं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, whose wealth is to be won from enemies, come together with the gods who come in the morning, for the drinking of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जेन्यावसू (*jenyāvasū*)—possessing wealth taken from enemies
+- इंद्राग्नी (*iṃdrāgnī*)—O gods Indra and Agni
+- प्रातर्यावभिः (*prātaryāvabhiḥ*)—who come to the morning pressing
+- देवेभिः (*devebhiḥ*)—with the gods
+- सोमपीतॆये (*somapītèye*)—for the drinking of Soma
+- आ गतं (*ā gataṃ*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Indra and Agni, possessing wealth taken from enemies, be gracious and come, with the gods who come to the morning pressing, for the drinking of Soma.
+
 ---
 
-**Progress note:** Done through printed p. 336. Maṇḍala 8 Sūkta 37 Ṛks 2-7, pp. 331-336
+**Progress note:** Done through printed p. 343. Maṇḍala 8 Sūkta 38 introduction, Ṛks 1-7, pp. 337-343
