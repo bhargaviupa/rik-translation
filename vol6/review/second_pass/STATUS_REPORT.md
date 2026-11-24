@@ -4,7 +4,7 @@
 ## 1. State
 - **Stage:** S2 reading in page batches
 - **Pages read:** 488 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489)
-- **Findings:** 833 — applied 601, questions 232; edits ok 611, failed 0
+- **Findings:** 835 — applied 603, questions 232; edits ok 611, failed 0
 - **Reader tokens (batches so far):** 4167k; per page 8.5k
 - **Last commit:** e0252e0
 
@@ -32,7 +32,7 @@
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
-| H29 | 1 | 198 | 199 |
+| H29 | 3 | 198 | 201 |
 | S2 | 195 | 1 | 196 |
 | S7 | 104 | 9 | 113 |
 | S1 | 103 | 3 | 106 |
@@ -45,7 +45,7 @@
 | R3 | 8 | 4 | 12 |
 | S15 | 3 | 0 | 3 |
 
-By reader: R1 511, R3 220, R6 102
+By reader: R1 512, R3 221, R6 102
 
 ## 4. Open items (not findings)
 - **marker** (pages 65-66): The text of p. 66 stands inside the p. 65 block of the Kannada book (head missing): the page marker needs a fix; the English p. 66 matches that text
@@ -74,7 +74,7 @@ By reader: R1 511, R3 220, R6 102
 - **other** (pages 475-476): Kannada p. 476 has its own mark and head; English pp. 475/476 divide exactly as the Kannada (p. 476 starts at ಮಹೇ)
 
 ## 5. Questions for the editor
-231 rows in `questions.tsv`; by kind: H29 198, R3 4, S1 3, S13 7, S14 6, S16 3, S17 1, S2 1, S7 9
+229 rows in `questions.tsv`; by kind: H29 198, R3 4, S1 3, S13 7, S14 6, S16 3, S17 1, S2 1, S7 9
 
 ## 6. Files
 `vol6/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)

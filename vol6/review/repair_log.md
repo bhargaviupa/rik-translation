@@ -735,3 +735,8 @@
 | page | old → new | why |
 |---|---|---|
 | 469 | `— strength; *pari āpa*` → `— growth (strength); *pari āpa*` | SECOND-PASS S17: Kannada ಏಳಿಗೆಯನ್ನು (ಬಲವನ್ನು) |
+
+### 2026-11-24 second pass, batch e_user_resolved.tsv
+| page | old → new | why |
+|---|---|---|
+| 5 | `ceremoney [sic]` → `ceremony` | SECOND-PASS H29: the supplied text (Kannada book, p. 5, printed English) reads ceremony; the supplied text is the base, so the [sic] mark of the earlier reading is dropped |

@@ -168,7 +168,7 @@
 
 **English Translation** *(printed in English in the source)*:
 
-> "We meditate, like Angiras, an acceptable prayer to that powerful and praise-deserving Indra, who is to be adored by his worshippers with prayers of efficacy to bring him to the ceremoney [sic]; let us recite a prayer to the celebrated leader (Indra) of all."
+> "We meditate, like Angiras, an acceptable prayer to that powerful and praise-deserving Indra, who is to be adored by his worshippers with prayers of efficacy to bring him to the ceremony; let us recite a prayer to the celebrated leader (Indra) of all."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*)** *(Kannada, rendered; the Nirukta numbers are read from small Kannada numerals and are marked [?] where uncertain)*
 
