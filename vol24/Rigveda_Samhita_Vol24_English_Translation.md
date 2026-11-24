@@ -26177,6 +26177,264 @@ Indra, Lord of food, the gifts you offered to us are making the Soma sweet, the 
 > उग्रं । न । वीरं । नमसा । उप । सेदिम । विभूतिं । अक्षितवसुं ।  
 > उद्रीऽइव । वज्रिन् । अवतः । न । सिंचते । क्षरंति । इंद्र । धीतयः ॥ ६ ॥
 
+### Printed p. 575
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दे इंद्र वीरं विशेषेण शत्रुभटान् प्रेरयंतं त्वां नमसा हविर्लक्षणेन्नान्नेन सह । यद्वा नमसा प्रह्वीभावेन सह उप सेदिम शरणं प्राप्पुनो
+> वयं । कमिव । उग्रं न उद्धूर्णबलमिव । तं यथा केचन दीनाः शरणं प्राप्पुवंति तद्वत् । कीदृशं त्वां । विभूतिं विविधैश्वर्योपेतं । अथवा विविधभवनस्वभावं ।
+> इंद्रो मायाभिः पुरुरूप ईयत इति श्रुतेः । रूपंरूपं प्रतिरूपो
+> बभूव इति श्रुत्यंतरात् । अक्षितवसुं आक्षेणधनं । किंच हे वज्रिन् वज्रवन्निंद्र
+> सिंचते स्वर्गादिफलसेक्रे शुभ्यं त्वदर्थं धीतयः अस्मदंगुलयः क्षरंति स्रवंति
+> सोमरसं । क इव, उद्रीव । उदकान् ( ? उदकवान्) अवतो न कूप इव । स
+> यथा सस्यादिसेक्रे जलं क्षरति तद्वत् । अत्र इवशब्दोऽनर्थकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, we approach you, the hero who drives the enemy warriors apart, with a salutation, that is, with an offering of food, or else with humble bowing, and take refuge, as helpless people go for refuge to one of exceeding strength. You are Vibhūti, possessed of manifold lordship, or else of the nature of becoming manifold; he supports this with the śruti that Indra goes about in many forms through his magic powers, and with another śruti that he became a counterpart to each form. Akṣitavasu is one whose wealth does not decay. Further, O wielder of the thunderbolt, our fingers pour the Soma juice for you, for the sprinkling that yields heaven and the other fruits, as water flows from a well when it is used for watering plants and the like. The word *iva* here has no meaning of its own. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरं (*vīraṃ*)—the valiant one
+- विभूतिं (*vibhūtiṃ*)—the possessor of lordship
+- अक्षितवसुं (*akṣitavasuṃ*)—the one with imperishable wealth, Indra
+- उग्रं न (*ugraṃ na*)—as the powerless approach one of exceeding strength with humility
+- नमसा (*namasā*)—with salutation (with humility)
+- उप सेदिम (*upa sedima*)—approaching, we take refuge
+- वज्रिन् (*vajrin*)—O wielder of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- अवतः (*avataḥ*)—a well (a spring)
+- उद्री इव (*udrī iva*)—as it makes water well up and flow
+- धीतयः (*dhītayaḥ*)—our fingers
+- सिंचते (*siṃcate*)—for you, the giver of the fruit of heaven and the like
+- क्षरंति (*kṣaraṃti*)—press out the Soma and make it flow
+
+##### भावार्थ (Bhāvārtha)
+
+As the powerless approach one of exceeding strength with humility, so we approach Indra, the valiant, the possessor of lordship, the owner of imperishable wealth, with salutation and humility, and take refuge in him. O Indra, wielder of the thunderbolt, as a spring makes water well up and flow, so our fingers press out the Soma and make it flow towards you, the giver of the fruit of heaven and the like.
+
+##### English translation
+We shall now go to Indra with salute he is covered with Vibhuti, Lord of inexhaustible wealth ; ferocious hero, wielder of thunder-bolt as a gushing fountain rushes forth so do our prayers spring forth.
+
+### Printed p. 576
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्ध॑ नू॒नं यद्वा॑ य॒ज्ञे यद्वा॑ पृथि॒व्यामधि॑ ।  
+> अतो॑ नो य॒ज्ञमा॒शुभि॑र्महेमत उ॒ग्र उ॒ग्रेभि॒रा  ॑
+> गहि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ह । नूनं । यत् । वा । यज्ञे । यत् । वा । पृथिव्यां । अधि ।  
+> अतः । नः । यज्ञं । आशुभिः । महेमते । उग्रः । उग्रेभिः । आ । गहि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महेमते पूजासक्तबुद्धे इंद्र यद्ध यत्र क्वचित् स्थानविशेषे नूनं
+> निश्चितं वर्तसे । यत् यत्र वा यज्ञे अध्वरे वर्तसे । यत् यत्र वा पृथिव्यां
+> अधि अधिकं वर्तसे । अतः अस्मात्स्थानविशेषात् उग्रः उद्धूर्णबलत्वं उग्रेभिः
+> उद्धूर्णबलैः आशुभिः शीघ्रगामिभिरश्वैः नोऽस्माकं यज्ञं आ गहि आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, of reverent mind, wherever you may be at present, whether in some particular place, or at a sacrifice, or somewhere over the earth, from that place come to our sacrifice, you who are strong, with strong and swift-going horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महेमते (*mahemate*)—O Indra, of reverent mind
+- उग्रः (*ugraḥ*)—you who are of exceeding strength
+- यत् ह (*yat ha*)—wherever you may be
+- नूनं (*nūnaṃ*)—surely
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—to the place of sacrifice
+- आशुभिः (*āśubhiḥ*)—swift-going
+- उग्रेभिः (*ugrebhiḥ*)—and very strong horses
+- यद्वा (*yadvā*)—or, if
+- यज्ञे (*yajñe*)—you are at the sacrifice of others
+- पृथिव्यां अधि (*pṛthivyāṃ adhi*)—in whatever other place on the earth
+- आतः (*ātaḥ*)—from there
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of reverent mind, being of exceeding strength, wherever you may be, graciously come to our place of sacrifice with swift and very strong horses. Whether you are at the sacrifice of others, or in any other place on the earth, come from there towards our sacrifice.
+
+##### English translation
+Wherever you may be now, ferocious, noble Indra, whether in ther ite or in the earth, do come from there to this our rite with speedy and ferocious horses.
+
+### Printed p. 577
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒जि॒रासो॒ हर॑यो॒ ये त॑ आ॒शवो॒ वाता॑ इव प्रस॒क्षिणः॑ ।  
+> येभि॒रप॑त्यं॒ मनु॑षः प॒रीय॑से॒ येभि॒र्विश्वं॒ स्व॑र्दृ॒शे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अणिरासः । हरयः । ये । ते । आशवः । वाताः इव । प्रसक्षिणः ।  
+> येभिः । अ सत्यं । मनुषः । परिईयसे । येभिः । विश्वं । स्वः । दृशे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव स्वभूताः ये हरयः आश्वाः वाता इव नायव इव प्रसक्षिणः
+> प्रकर्णेण संगच्छमानाः संति । कीदृशास्ते पुनः । अजिरासः शत्रून् क्षिपंतः आशवः
+> तीघ्रगामिनश्च । येभिः यैरश्वैः मनुषः मनोः अपत्यं अपतनहेतुं यजमानं
+> परीयसे सर्वत आगच्छसि येभिः यैश्चाश्वैः विश्वं स्वः सर्वं स्वर्लोकं दृशे
+> व्रष्टुमिच्छसि शैरा गहि इति पूर्वेणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, those horses of yours, the Haris, are as winds, moving swiftly together. They throw down the enemies and are swift-going. With these horses you come all round to the sacrificer, the offspring of Manu, who is the cause of no falling, and with them you wish to see the whole heaven. The connection is with the preceding verse: come with them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—belonging to you
+- ये (*ye*)—which
+- हरयः (*harayaḥ*)—horses called Hari
+- अजिरासः (*ajirāsaḥ*)—throwing down enemies
+- आशवः (*āśavaḥ*)—swift-going
+- वाता इव (*vātā iva*)—like winds
+- प्रसक्षिणः (*prasakṣiṇaḥ*)—of exceeding movement
+- येभिः (*yebhiḥ*)—with which horses
+- मनुषः (*manuṣaḥ*)—of Manu
+- अपत्यं (*apatyaṃ*)—to the sacrificer, who is as his son
+- परिईयसे (*pariīyase*)—you go
+- येभिः (*yebhiḥ*)—with which horses
+- विश्वं (*viśvaṃ*)—the whole
+- स्वः (*svaḥ*)—heaven
+- दृशे (*dṛśe*)—you wish to see (come to our sacrifice with such horses)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the horses called Hari that belong to you throw down enemies, are swift-going, and move exceedingly like winds. With whichever horses you wish to see the whole heaven, with such horses come to our sacrifice.
+
+##### English translation
+Your horses named Hari have the speed of winds and are vanquishers of enemies, with that help you go to men and go to the earth overgrown with many things born.
+
+### Printed p. 578
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ताव॑तस्त ईमह॒ इंद्र॑ सु॒म्नस्य॒ गोम॑तः ।  
+> यथा॒ प्रावो॑ मघव॒न्मेध्या॑तिथिं॒ यथा॒ नीपा॑तिथिं॒ धने॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतावशः । ते । ईमहे । इंद्र । सुम्मस्य । गोऽमतः ।  
+> यथा । प्र । आवः । मघवन् । मेध्य अतिथिं । यथा । नीप अतिथिं । धने ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र धने निमित्तभूते सति यथा येन प्रकारेण
+> मेध्यातिथिं एतन्नामकऋषिं प्रावः प्रकर्षेण रक्षितवानसि यथा येन च प्रकारेण
+> नीपातिथिं एतन्नामानमृषिं प्रावः एतावतः इयदेव ते तव स्वभूतं गोमतः
+> गवाश्वाद्युपेतं सुम्मस्य सुखं ईमहे याचामहे वयं कण्वाः । सर्वत्र
+> कर्मणि षष्ठ्यः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Maghavan, the wealthy Indra, as you protected well the seer named Medhyātithi, and as you protected the seer named Nīpātithi, when wealth was the occasion, so we, the Kaṇvas, ask of you this much of your own: happiness together with cattle. In every such case the genitive stands in the sense of the object.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy one
+- इंद्र (*iṃdra*)—O Indra
+- धने (*dhane*)—for the sake of wealth
+- यथा (*yathā*)—in what manner
+- मेधातिथिं (*medhātithiṃ*)—the seer named Medhātithi
+- प्रावः (*prāvaḥ*)—you protected
+- यथा (*yathā*)—in what manner
+- नीपातिथिं (*nīpātithiṃ*)—the seer named Nīpātithi, you protected
+- एतावतः (*etāvataḥ*)—of the same kind
+- गोमतः (*gomataḥ*)—and accompanied by cattle
+- सुम्मस्य (*summasya*)—happiness
+- ईमहे (*īmahe*)—we ask **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, as you protected the seer named Medhātithi and the seer named Nīpātithi by giving them wealth when they strove for wealth, in the same manner we ask of you happiness, in the form of wealth, accompanied by cattle.
+
+##### English translation
+Give us wealth, cattle, we solicit of you Maghavan, because you did help Medhatithi and Nipatithi in their obtaining of wealth.
+
+### Printed p. 579
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ कण्वे॑ मघवन्द्र॒सद॑स्यवि॒ यथा॑ प॒क्वे दश॑व्रजे ।  
+> यथा॒ गोश॑र्ये॒ अस॑नोर्ऋ॒जिश्व॒नींद्र॒ गोम॒द्धिर॑ण्यवत् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । कण्णे । मघवन् । त्रसदस्यवि । यथा । पक्थॆ । दशव्रजे ।  
+> यथा । गो९शर्ये९ । आसनोः । ऋजिश्वनि । इंद्र । गोमत् । हिरण्यवत् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र यथा येन प्रकारेण कण्णे एतन्नामि मत्तितरि
+> गोमत् गवोपेतं हिरण्यवत् कांचनोपेतं च सुम्मं असनोः दत्तवानसि ।
+> यथा च त्रसदस्यवि एतन्नामके राज्णि यथा च पक्के एतस्संज्ञे राज्णि यथा चि
+> दशव्रजे एतस्संज्ञके नृपे यथा च गोशर्ये एतन्नामि क्षत्रिये यथा च ऋजिश्वनि
+> एतस्संज्ञके राजनि गवाद्युपेतं सुम्ममसनोः एतावदीमहे इति पूर्वेण
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Maghavan, the wealthy Indra, as you gave happiness together with cattle and with gold to Kaṇva, and likewise to the king Trasadasyu, to the king Pakva, to the king Daśavraja, to the Kṣatriya Gośarya, and to the king Ṛjiśvan, so we ask exactly this much; the connection is with the preceding verse. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy one
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—in what manner
+- कण्वे (*kaṇve*)—to the seer Kaṇva
+- त्रसदस्यवि (*trasadasyavi*)—to the king Trasadasyu
+- यथा (*yathā*)—in what manner
+- पक्के (*pakke*)—to the king named Pakva
+- दशव्रजे (*daśavraje*)—to the king named Daśavraja
+- यथा (*yathā*)—in what manner
+- गोशर्यॆ (*gośaryè*)—to the Kṣatriya named Gośarya
+- ऋजिश्वनि (*ṛjiśvani*)—to the king named Ṛjiśvan
+- गोमत् (*gomat*)—accompanied by cattle
+- हिरण्यवत् (*hiraṇyavat*)—and made of gold, such wealth
+- आसनोः (*āsanoḥ*)—you gave (we ask for that same)
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, as you gave wealth accompanied by cattle and made of gold to the seer Kaṇva and to the kings Trasadasyu, Pakva, Daśavraja, Gośarya and Ṛjiśvan, so we ask you to give to us also. **NOTE**
+
+### Printed p. 580
+
+##### English translation
+Maghavan because you gave wealth in gold and cattles, to Kanwas Trasadasyu, Paktha, Dasavraja, Gosarya and Rijiswan.
+
+## Sūkta 50 (Maṇḍala 8)
+
+**Introduction**
+
+The fiftieth sūkta (Vālakhilya sūkta 2). प्र सु श्रुतं इति दशर्चं द्वितीयं सूक्तं काण्वस्य पुष्टिगोरार्षमैंद्रं । अनुक्रम्यते च—प्र सु श्रुतं पुष्टिगुः इति । कण्वस्य पुत्रः पुष्टिगुः ऋषिः । इंद्रो देवता । आयुजां बृहती छंदः । युजां सतो बृहती छंदः । विनियोगः सूत्रादवगंतव्यः ॥ (*pra su śrutaṃ iti daśarcaṃ dvitīyaṃ sūktaṃ kāṇvasya puṣṭigorārṣamaiṃdraṃ | anukramyate ca—pra su śrutaṃ puṣṭiguḥ iti | kaṇvasya putraḥ puṣṭiguḥ ṛṣiḥ | iṃdro devatā | āyujāṃ bṛhatī chaṃdaḥ | yujāṃ sato bṛhatī chaṃdaḥ | viniyogaḥ sūtrādavagaṃtavyaḥ ‖*)
+
+Anuvāda: This sūkta beginning *pra su śrutam* is the second among the Vālakhilya sūktas. It has ten Ṛks. Its seer is Puṣṭigu Kāṇva. In the Anukramaṇikā it is said: *pra su śrutam puṣṭiguḥ*. Indra is the deity. The seer is Puṣṭigu, the son of Kaṇva. The odd-numbered Ṛks of this sūkta are in the Bṛhatī metre; the even-numbered Ṛks are in the Bṛhatī metre. The ritual application is to be learnt from the Sūtra. **NOTE**
+
+##### Particulars
+
+Maṇḍala 8, Anuvāka 6, Sūkta 50; Aṣṭaka 6, Adhyāya 4, Varga 16, 17. Number of Ṛks in the sūkta: 10. Seer: Puṣṭiguḥ Kāṇvaḥ. Deity: Indraḥ. Metre: Prāgātha (odd Ṛks Bṛhatī, even Ṛks Satobṛhatī).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु श्रु॒तं सु॒राध॑स॒मर्चा॑ श॒क्रम॒भिष्ट॑ये ।  
+> यः सु॑न्व॒ते स्तु॑व॒ते काम्यं॒ वसु॑ स॒हस्रे॑णेव॒ मंह॑ते ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 574. Sūkta 49 (Vālakhilya 1) Ṛk 1-6 (pp. 569-574)
+**Progress note:** Done through printed p. 580. Maṇḍala 8 sūkta 49 Ṛks 6-10; sūkta 50 intro and Ṛk 1 Saṃhitā
