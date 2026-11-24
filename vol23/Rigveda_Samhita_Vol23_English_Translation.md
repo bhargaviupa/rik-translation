@@ -29388,6 +29388,287 @@ When the ceremony is being prepared in the hall of sacrifice, this (Indra), havi
 > वृषा । अयं । इंद्र । ते । रथः । उतो इति । ते । वृषणा । हरी इति ।  
 > वृषा । त्वं । शतक्रतो इति शतक्रतो । वृषा । हवः ॥ ३१ ॥
 
+### Printed p. 703
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयोऽयं रथो वृषा कामानां वर्षिता । उतो अपि च
+> ते तव हरी अश्वा वृषणा वृषणौ वर्षितारौ । हे शतक्रतो बहुकर्मन्
+> बहुप्रज्ञेंद्र त्वं च वृषा वर्षिता कामानां। तथा हवस्त्वद्विषयमाह्वानं च वृषा
+> वर्षिता । त्वद्विषयमाह्वानमपि कामान्वर्षति । किमु वक्तव्यं त्वदीया रथादयो
+> वर्षंतीति भावः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Indra, this chariot of yours is a showerer (वृषा (*vṛṣā*)), a rainer-down of desires. Likewise your two horses are showerers. O Śatakratu (one of many acts, or of much wisdom), you too are a showerer of desires. And the invocation (हवः (*havaḥ*)) addressed to you is a showerer too; even the call to you rains down desires, so what need is there to say that your chariot and the rest rain them? That is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- अयं रथः (*ayaṃ rathaḥ*)—this chariot
+- वृषा (*vṛṣā*)—is a showerer of desires
+- उतो (*uto*)—and
+- ते (*te*)—your
+- हरी (*harī*)—horses
+- वृषणा (*vṛṣaṇā*)—are givers of what is desired
+- शतक्रतो (*śatakrato*)—O Indra, possessed of many acts
+- त्वं (*tvaṃ*)—you
+- वृषा (*vṛṣā*)—are a giver of what is desired
+- हवः (*havaḥ*)—your praise also
+- वृषा (*vṛṣā*)—fulfils desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this chariot of yours showers desires. Your horses too supply the things that are wished for. You, possessed of many acts, are a giver of what is desired. Your praise also fulfils desire.
+
+##### English translation
+Your chariot, Indra, is a showerer (of benefits), showerers (of benefits) are your horses: you also, Satakratu, are the showerer (of benefits), the invocation (addressed to you) is the showerer (of benefits).
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ ग्रावा॒ वृषा॒ मदो॒ वृषा॒ सोमो॑ अ॒यं सु॒तः ।  
+> वृषा यज्ञो यमिन्वसि वृषा हवः ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । ग्रावा । वृषा । मदः । वृषा । सोमः । अयं । सुतः ।  
+> वृषा । यज्ञः । यं । इन्वसि । वृषा । हवः ॥ ३२ ॥
+
+### Printed p. 704
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ग्रावाभिषवसाधनपाषाणो वृषा वर्षिता कामानां । हे इंद्र त्वदीयः
+> सोमपानजन्यो मदश्चवृषा वर्षिता। सुतस्त्वदर्थमभिषुतोऽयं सोमश्च वृषा
+> वर्षिता । यं यज्ञमिन्वसि त्वं प्राप्नोषि स च यज्ञो वृषाभीष्टफलस्य वर्षिता
+> त्वदीयो हवश्च वृषा ॥
+
+##### Gist of the bhāṣya
+
+The ग्रावा (*grāvā*), the stone that serves for pressing the Soma, is a showerer of desires. O Indra, the exhilaration that comes from drinking Soma is a showerer, and so is this Soma pressed for you. The sacrifice that you, Indra, attain (इन्वसि (*invasi*)) is a showerer of the desired fruit, and your invocation is also a showerer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ग्रावा (*grāvā*)—this stone that crushes and presses the Soma
+- वृषा (*vṛṣā*)—is a showerer of desires
+- मदः (*madaḥ*)—the satisfaction of your Soma-drinking
+- वृषा (*vṛṣā*)—is a giver of what is desired
+- सुतः (*sutaḥ*)—pressed and made ready
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma juice
+- वृषा (*vṛṣā*)—is a showerer of desires
+- यं (*yaṃ*)—which sacrifice
+- इन्वसि (*invasi*)—you enter
+- यज्ञः (*yajñaḥ*)—that sacrifice also
+- वृषा (*vṛṣā*)—is a showerer of desires
+- हवः (*havaḥ*)—your praise also
+- वृषा (*vṛṣā*)—is a giver of what is desired
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this stone that presses the Soma showers desires. The satisfaction of your Soma-drinking also grants desires. This pressed Soma also fulfils wishes. The sacrifice you favour fulfils desires. Your praise also grants desires.
+
+##### English translation
+The stone (that bruises the Soma) is the showerer (of benefits), so is your exhilaration and this Soma juice that is effused : the sacrifice that you accept is the showerer (of benefits), such also is your invocation.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ त्वा॒ वृष॑णं हुवे॒ वज्र॑ञ्चि॒ताभि॑रू॒तिभिः॑ ।  
+> वावंथ हि प्रतिष्टुतिं वृषा हवः ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । त्वा । वृषणं । हुवे । वज्रिन् । चित्राभिः । ऊतिभिः ।  
+> ववंथ । हि । प्रतिस्तुतिं । वृषा । हवः ॥ ३३ ॥
+
+### Printed p. 705
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिन् वज्रवन्निंद्र वृषणं वृषाणं वर्षितारं त्वां वृषा वर्षिता
+> हविषामासेक्ताहं चित्राभिश्चायनीयाभिर्नानाविधाभिर्वोतिभिस्तृप्तिकरीभिः स्तुतिभिर्हुवे । आह्वये । हि यस्मात्त्वं प्रतिष्टुतिं त्वामभिलक्ष्य कृतं स्तोत्रं ववंथ वनसि
+> संभजसि आतस्त्वदीयो हव आह्वानं वृषा वर्षिता । यद्वा । हवो ह्वातव्यो वृषा
+> वर्षिता त्वं यस्मात्स्तुतिं वनसि तस्मात्त्वां हुव इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O thunderer (वज्रिन् (*vajrin*)), Indra, I, the showerer, the pourer of oblations, invoke you, the showerer, with manifold (चित्राभिः (*citrābhiḥ*)) praises that gratify (ऊतिभिः (*ūtibhiḥ*)). I invoke because you accept (ववंथ (*vavaṃtha*)) the eulogy made with you in view; therefore your invocation is a showerer. Or else: the one to be invoked, you, is the showerer; since you accept praise, I call you. That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt
+- वृषा (*vṛṣā*)—I who offer the oblation
+- वृषणं (*vṛṣaṇaṃ*)—who are a giver of what is desired
+- त्वा (*tvā*)—you
+- चित्राभिः (*citrābhiḥ*)—attractive
+- ऊतिभिः (*ūtibhiḥ*)—and gratifying praises
+- हुवे (*huve*)—I call
+- हि (*hi*)—because
+- प्रतिष्टुतिं (*pratiṣṭutiṃ*)—the hymn that praises you
+- ववंथ (*vavaṃtha*)—you desire
+- वृषा (*vṛṣā*)—you, the showerer of desires
+- हवः (*havaḥ*)—also hear our invocation
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, I who offer the oblation call you, the giver of what is desired, with attractive and gratifying praises. You desire and accept the hymn that praises you. You, the showerer of desires, hear our invocation.
+
+##### English translation
+The showerer (of the oblation) I invoke with manifold and gratifying (praises) you, O thunderer, the showrer (of benefits); inasmuch as you acknowledge the eulogy addressed to you, your invocation is the showerer (of benefits).
+
+## Sūkta 14 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदिंद्राहमिति पंचदशर्चं द्वितीयं सूक्तं गोषूक्त्यश्वसूक्तिनोः काण्वागोत्रयोरार्षं गायत्रमैंद्रं । तथा चानुक्रांतं । यदिंद्र पंचोना
+> गोषूक्त्यश्वसूक्तिनौ काण्वायनाविति ॥ महाव्रते निष्केवल्य एतत्तूक्तं । तथैव
+> [ 45 ] [ Vol. 23 ]
+
+##### Gist of the bhāṣya
+
+The hymn यदिंद्राहं (*yadiṃdrāhaṃ*), of fifteen Ṛks, is the second hymn. Its seers are Goṣūktin and Aśvasūktin of the Kāṇva line; the deity is Indra; the metre Gāyatra. As the Anukramaṇī says: यदिंद्र पंचोना गोषूक्त्यश्वसूक्तिनौ काण्वायनाविति (*yadiṃdra paṃconā goṣūktyaśvasūktinau kāṇvāyanāviti*). The hymn is used in the Mahāvrata for the Niṣkevalya recitation, and the text continues in the next block.
+
+### Printed p. 706
+
+> पंचमारण्यके सूत्रते । यदिंद्राहं यथा त्वं प्र सम्राजं चर्षणीनामिति
+> सूक्ते । ऐ. आ. ५-२-५. । इति ॥ तृतीये पर्याये ब्रह्मशस्त्रेऽपीदं सूक्तं ।
+> सूत्रितं च । यदिंद्राहं प्र ते महे । अ. ६-४. । इति ॥
+
+##### Gist of the bhāṣya
+
+So it is taught in the fifth Āraṇyaka: यदिंद्राहं यथा त्वं प्र सम्राजं चर्षणीनामिति सूक्ते । ऐ. आ. ५-२-५. । इति ॥ (*yadiṃdrāhaṃ yathā tvaṃ pra samrājaṃ carṣaṇīnāmiti sūkte | ai. ā. 5-2-5. | iti ‖*) (Ai. Ā. 5-2-5). In the third paryāya also this hymn is used for the Brahmaśastra, and the sūtra says: यदिंद्राहं प्र ते महे । अ. ६-४. । इति ॥ (*yadiṃdrāhaṃ pra te mahe | a. 6-4. | iti ‖*) (Ā. 6-4).
+
+##### Anuvāda
+
+This hymn beginning यदिंद्राहं (*yadiṃdrāhaṃ*) is the second hymn in the third anuvāka. It has fifteen Ṛks. Its seers are two, Goṣūkti and Aśvasūkti, born in the Kaṇva lineage. Indra is the deity; the metre is Gāyatrī. The Anukramaṇī says: यदिंद्र पंचोना गोषूक्त्यश्वसूक्तिनौ काण्वायनौ (*yadiṃdra paṃconā goṣūktyaśvasūktinau kāṇvāyanau*). That the hymn is used in the Mahāvrata rite for the Niṣkevalya śastra mantras is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence यदिंद्राहं यथा त्वं प्र सम्राजं चर्षणीनामिति सूक्ते (*yadiṃdrāhaṃ yathā tvaṃ pra samrājaṃ carṣaṇīnāmiti sūkte*) (Ā. 5-2-5). That it is also used in the third paryāya for the śastra mantras recited by the priest called Brahman is made clear by the Āśvalāyana Śrauta Sūtra, यदिंद्राहं प्र ते महे (*yadiṃdrāhaṃ pra te mahe*) (Ā. 6-4).
+
+Sūkta 14. Maṇḍala 8. Anuvāka 3. Sūkta 14. Aṣṭaka 6. Adhyāya 1. Vargas 14, 15, 16. Number of Ṛks in the sūkta: 15.
+Ṛṣi: Goṣūktin and Aśvasūktin, of the Kāṇva line. Deity: Indra. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिंद्राहं यथा त्वमीशीय वस्व एक इत् ।  
+> स्तोता मे गोषखा स्यात् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । अहं । यथा । त्वं । ईशीय । वस्वः । एकः । इत् ।  
+> स्तोता । मे । गोऽसखा । स्यात् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यथा त्वमेक इदेक एव केवलं वस्वो वसुनो धनस्येशिषे
+
+##### Gist of the bhāṣya
+
+O Indra, as you alone (एक इत् (*eka it*)) are lord of wealth (वस्वः (*vasvaḥ*)), the sentence continues in the next block.
+
+### Printed p. 707
+
+> एवमपि यद्यदीशीय ऐश्वर्ययुक्तः स्यां तदानीं मे मम स्तोता गोसखा
+> स्त्यात् । गोभिः सहितो भवेत् । ईश्वरस्य तव स्तोता कुतो हेतोर्गोसहितो न
+> भवेत् अपि तु भवेदित्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+Thus, if I were (ईशीय (*īśīya*)) endowed with lordship, my worshipper would be a companion of cattle (गोसखा (*gosakhā*)), that is, possessed of cows. Why should the worshipper of you, the Lord, not be possessed of cows? Rather he would be. That is the intention.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—in the way that
+- त्वं (*tvaṃ*)—you
+- वस्वः (*vasvaḥ*)—of all wealth
+- एक इत् (*eka it*)—are the sole lord (so too)
+- अहं (*ahaṃ*)—I also
+- यत् (*yat*)—if
+- ईशीय (*īśīya*)—I were lord of all that wealth
+- मे (*me*)—my
+- स्तोता (*stotā*)—praiser
+- गोसखा (*gosakhā*)—would be endowed with wealth of cattle
+- स्यात् (*syāt*)—would be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the way that you are the sole lord of all wealth, if I too were lord of all that wealth, my praiser would be endowed with wealth of cattle.
+
+##### English translation
+If Indra, I were, as you are, sole lord over wealth, then should my eulogist be possessed of cattle.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शीक्षेयमस्मै दित्सेयं शचीपते मनीषिणे ।  
+> यदहं गोपतिः स्यां ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिक्षेयं । अस्मै । दित्सेयं । शचीपते । मनीषिणे ।  
+> यत् । अहं । गोपतिः । स्यां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शचीपते शक्तिमन्निंद्र अस्मै मनीषिणे मनस ईशित्रे स्तोत्रे दित्सेयं ।
+> दातुमिच्छेयं । तदनंतरं शिक्षेयं । प्रार्थितं धनं दद्यां च। यद्यद्वहरि गोपतिर्गवामधिपतिः स्यां भवेयं त्वत्प्रसादादिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Śacīpati, Indra the mighty, I would wish to give (दित्सेयं (*ditseyaṃ*)) to this wise (मनीषिणे (*manīṣiṇe*)) worshipper, the master of his mind, and thereafter I would give (शिक्षेयं (*śikṣeyaṃ*)) the wealth he asks for, if I were (स्यां (*syāṃ*)) lord of cattle (गोपतिः (*gopatiḥ*)), by your favour. The last words are to be supplied.
+
+### Printed p. 708
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीपते (*śacīpate*)—O Indra, possessed of might
+- यत् (*yat*)—if
+- अहं (*ahaṃ*)—I
+- गोपतिः (*gopatiḥ*)—as lord of wealth of cattle
+- स्यां (*syāṃ*)—were
+- अस्मै मनीषिणे दित्सेयं (*asmai manīṣiṇe ditseyaṃ*)—I would wish to fulfil that man's desire
+- शिक्षेयं (*śikṣeyaṃ*)—and I would give it
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, if I were lord of wealth in cattle, then I would wish to fulfil the desire of my praiser, and I would also give him what he wishes.
+
+##### English translation
+Lord of might, I would give to that intelligent worshipper that which I should wish to give, if I were the possessor of cattle.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धेनुष्ट इंद्र सूनृता यजमानाय सुन्वते ।  
+> गामश्वं पिप्युषी दुहे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धेनुः । ते । इंद्र । सूनृता । यजमानाय । सुन्वते ।  
+> गां । अश्वं । पिप्युषे । दुहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव सूनृता स्तुतिरूपा वाग्धेनुर्दोग्धि गौर्भूत्वा सुन्वते
+> सोमाभिषवं कुर्वते यजमानाय गामश्वं च । उपलक्षणमेतत् । गवाश्वादिकं
+> सर्वमभिलषितं दुहे । दुग्धे । किं कुर्वती । पिप्युषी तमेव प्रवर्धयित्रि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your सूनृता (*sūnṛtā*), speech in the form of praise, is a milch cow (धेनुः (*dhenuḥ*)). Becoming a cow, she milks (दुहे (*duhe*)) for the sacrificer who presses Soma a cow and a horse. This is only an indication: she milks every desired thing, cattle, horses and the rest. How? Swelling (पिप्युषी (*pipyuṣī*)), that is, increasing that very sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—directed to you
+- सूनृता (*sūnṛtā*)—speech in the form of praise
+
 ---
 
-**Progress note:** Done through printed p. 702. pp. 696-702 (batch API)
+**Progress note:** Done through printed p. 708. pp. 703-708 (batch API)
