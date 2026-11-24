@@ -12707,6 +12707,298 @@ O Indra, I offer to you the pressed Somas. Here the genitive is used in the sens
 
 O Indra, as the Soma that is fit to be drunk before all the gods in the sacrifice is offered to Vāyu, so I offer to you the Soma that has been pressed and made ready. While this Indra rules the world of heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
 
+### Printed p. 282
+
+##### English translation
+I make offering to you of the libations as the first drink is presented
+to the showerer ; do you, ruling yonder heaven, O radiant with oblations,
+return thither.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्मत्पु॑रंधिर्न॒ आ ग॑हि वि॒श्वतो॑धीर्न ऊ॒तये॑ ।  
+> वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्यत्पुरंधिः । नः । आ । गहि । विश्वतःथीः । नः । ऊतये ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स्मत्पुरंधिः स्वर्गकुटंबी नोऽस्माना गहि । तथा विश्वतोधीः
+> सर्वजगतो धारकस्त्वं नोऽस्माकमूतये रक्षणाया गहि । आगच्छ ।
+
+##### Gist of the bhāṣya
+
+O Indra, you who are the householder of heaven (the one with the family of heaven), come to us. Likewise you who are the supporter of the whole world, come to us for our protection; come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra)
+- स्मत्पुरंधिः (*smatpuraṃdhiḥ*)—you, the master of the family called heaven
+- नः (*naḥ*)—to us
+- आ गहि (*ā gahi*)—be pleased to come
+- विश्वतोधीः (*viśvatodhīḥ*)—you, the sustainer of the whole world
+- नः (*naḥ*)—for our
+- ऊतये (*ūtaye*)—protection (come to us)
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—the world of heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- विवावसो (*vivāvaso*)—O Indra, shining with oblations
+- दिवः (*divaḥ*)—to heaven
+- यय (*yaya*)—return again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the master of the family called heaven, be pleased to come to us. You, the sustainer of the whole world, come to us for our protection. While Indra rules the world of heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
+
+### Printed p. 283
+
+##### English translation
+(Indra) master of the family of heaven, come to us : do you, who
+are the sustainer of the universe, (come) for our protection : do you, ruling
+yonder heaven, O radiant with oblations, return thither.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ याहि महेमते॒ सह॑स्रोते॒ शता॑मघ ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । याहि । महेऽमते । सहस्रऊते । शतमघ ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महेमते महाबुद्धे सहस्रोते सहस्ररक्षण शतामघ बहुधनेंद्र त्वं
+> नोऽस्माना याहि । आगच्छ । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Mahemati, of great understanding, O Sahasrūti, of a thousand protections, O Śatāmagha, Indra of much wealth, come to us. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महेमते (*mahemate*)—you who have a venerable understanding
+- सहस्रोते (*sahasrote*)—you who are endowed with protections of many kinds
+- शतमघ (*śatamagha*)—O Indra, who have abundant wealth
+- नः (*naḥ*)—to us
+- आ याहि (*ā yāhi*)—be pleased to come
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- यय (*yaya*)—return
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have a venerable understanding, who are endowed with protections of many kinds, who have abundant wealth, be pleased to come to us. While this Indra rules heaven, we are in comfort. O Indra, shining with oblations, return to heaven.
+
+##### English translation
+Sagacious (Indra) bestower of numerous protections, granter of infinite wealth, come unto us : do you, ruling yonder heaven, O radiant with oblations, return thither.
+
+### Printed p. 284
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॒ होता॒ मनु॑र्हितो देव॒त्रा व॑क्ष॒दीड्यः॑ ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । होता । मनुःहितः । देवत्रा । वक्षत् । ईड्यः ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां देवत्रा देवानां मध्य ईड्यः स्तुत्यो होता देवानामाह्वाताग्निर्मनुर्हितो मनुष्यैर्गृहेषु निहित आ वक्षत् । वहतु । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, among the gods, Agni, the adorable one, the Hotā, the invoker of the gods, and Manurhita, he who is placed in the houses by men, brings you hither; let him carry you. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra)
+- देवत्रा (*devatrā*)—among the gods
+- ईड्यः (*īḍyaḥ*)—worthy of worship
+- होता (*hotā*)—the one who calls the gods to the sacrifice
+- मनुर्हितः (*manurhitaḥ*)—and beneficial to mankind, Agni
+- त्वा (*tvā*)—you
+- आ वक्षत् (*ā vakṣat*)—let him bring to our sacrifice
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—the world of heaven
+- शासतः (*śāsataḥ*)—while he protects (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- यय (*yaya*)—return
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may Agni, who is worthy of worship among the gods, who calls the gods to the sacrifice, and who is beneficial to mankind, bring you to the sacrifice. While this Indra protects the world of heaven, we are in comfort. O Indra, shining with oblations, return to heaven.
+
+##### English translation
+May (Agni) the invoker, adorable among the gods, the benefactor
+of man, bring you hither : do you, ruling yonder heaven, O radiant with
+oblations, return thither.
+
+### Printed p. 285
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑ मद॒च्युता॒ हरी॑ श्ये॒नं प॒क्षेव॑ वक्षतः ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । मद्यच्युता । हरी इति । श्येनं । पक्षाइव । वक्षतः ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां मदच्युता मदच्युतौ शत्रोणां मदस्य च्यावयितारौ
+> हरी अश्व श्वेनं श्येनाख्यं पक्षिणं पक्षेवात्मीयपक्षाविना वक्षतः । आवहतां ।
+> सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your two horses, which dislodge the pride of enemies, bring you here, as the two wings of the bird named Śyena, the falcon, carry it along. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra)
+- श्येनं (*śyenaṃ*)—the falcon
+- पक्षेव (*pakṣeva*)—as its two wings bear it along
+- त्वा (*tvā*)—you
+- मदच्युता (*madacyutā*)—those that destroy the pride of enemies
+- हरी (*harī*)—your two horses
+- आ वक्षतः (*ā vakṣataḥ*)—let them bring to us
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—heaven
+- शासतः (*śāsataḥ*)—while he protects (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- यय (*yaya*)—set out again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the two wings of the falcon bear it along, so may your two horses, which destroy the pride of enemies, bring you to us. While this Indra protects heaven, we are in comfort. O Indra, shining with oblations, set out again to heaven.
+
+##### English translation
+Let your two steeds, humiliators of the pride (of foes), bring you as
+(his) two wings (bear) along) the falcon : do you, ruling yonder heaven,
+O radiant with oblations, return thither.
+
+### Printed p. 286
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑ह्र्य॒र्य आ परि॒ स्वाहा॒ सोम॑स्य पी॒तये॑ ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । अर्यः । आ । परि । स्वाहा । सोमस्य । पीतये ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिनावसो ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अर्येश्वर त्वमा परि सर्वत आ याहि । आगच्छ । पीतये तव पानार्थं
+> सोमस्य सोमं स्वाहा करोमि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O lord, come hither from all sides. For your drinking I make the offering of the Soma with the call svāhā. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्य (*arya*)—O revered Indra
+- स्वाहा (*svāhā*)—offered with the call svāhā
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for drinking
+- आ परि (*ā pari*)—from all directions
+- आ याहि (*ā yāhi*)—be pleased to come
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- यय (*yaya*)—set out again
+
+##### भावार्थ (Bhāvārtha)
+
+O revered Indra, be pleased to come from all directions to drink the Soma juice offered with the call svāhā. While this Indra rules heaven, we are in comfort. O Indra, shining with oblations, set out again to heaven.
+
+##### English translation
+Come, lord, from whatever direction, to drink the Soma offered with Swaha: do you, ruling yondr heaven, O radiant with oblations, return thither.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ या॒ह्युप॑श्रुत्यु॒क्षेषु॑ रणया इ॒ह ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ ११ ॥
+
+### Printed p. 287
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । योहि । उपश्रुति । उक्केषु । रणय । इह :  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नोऽस्माकमिह यज्ञ उक्षेषु शस्त्रेषु पठ्यमानेषूपश्रुत्युपश्रुत् समीपमा याहि । आगच्छ । आस्मान्रणय च । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in this sacrifice of ours, while the recitations (the उक्षेषु (*ukṣeṣu*), the praise-hymns) are being recited, come near us to hear them; come. And delight us. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra)
+- नः (*naḥ*)—our
+- इह (*iha*)—at the time of this sacrifice
+- उक्षेषु (*ukṣeṣu*)—at the time of reciting the hymns of praise
+- उपश्रुति (*upaśruti*)—to hear them, near us
+- आ याहि (*ā yāhi*)—be pleased to come
+- रणय (*raṇaya*)—make us glad
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवं (*divaṃ*)—to heaven
+- यय (*yaya*)—return again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be pleased to come near us at the time of this our sacrifice, at the time of reciting the hymns of praise, to hear them. Make us glad. While this Indra rules heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
+
+##### English translation
+Come to listen to our praises, when they are being recited,—bestow upon us delight: do you, ruling yondor heaven, O radiant with oblations, return thither.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सरू॑पै॒रा सु नो॑ गहि॒ संभृ॑तैः॒ संभृ॑ताश्वः ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सरूपैः । आ । सु । नः । गहि । संभृतैः । संभृत अश्वः ।  
+> दिवः । अमुष्य । शासतः । दिवं । ययॆ । दिवावसो इति दिवावसो ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 281. Vol 24 pp. 275-281: Ṛk 18-19 of 8.33 end, Sūkta 8.34 Ṛks 1-5
+**Progress note:** Done through printed p. 287. Vol 24 pp. 282-287: Sūkta 8.34 Ṛks 5 (end) to 12 (Pada)
