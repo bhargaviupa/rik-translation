@@ -385,6 +385,7 @@ page	kind	english	supplied	status
 214	ref	67-3		manual: no anchored one-digit candidate
 215	ref	67-3		manual: no anchored one-digit candidate
 215	ref	67-4		manual: no anchored one-digit candidate
+216	ref	6-1-106		manual: no anchored one-digit candidate
 217	ref	67-4		manual: no anchored one-digit candidate
 218	ref	67-4		manual: no anchored one-digit candidate
 218	ref	67-5		manual: no anchored one-digit candidate
@@ -607,6 +608,7 @@ page	kind	english	supplied	status
 372	ref	72-8		manual: no anchored one-digit candidate
 372	ref	72-9		manual: no anchored one-digit candidate
 373	ref	72-9		manual: no anchored one-digit candidate
+374	ref	72-9		manual: no anchored one-digit candidate
 375	ref	72-9		manual: no anchored one-digit candidate
 376	ref	1-1-57		manual: no anchored one-digit candidate
 376	ref	5-1-119		manual: no anchored one-digit candidate
@@ -632,6 +634,9 @@ page	kind	english	supplied	status
 392	ref	73-3		manual: no anchored one-digit candidate
 394	ref	73-3		manual: no anchored one-digit candidate
 395	ref	73-3		manual: no anchored one-digit candidate
+396	ref	6-2-172		manual: no anchored one-digit candidate
+396	ref	73-3		manual: no anchored one-digit candidate
+396	ref	73-4		manual: no anchored one-digit candidate
 397	ref	73-4		manual: no anchored one-digit candidate
 399	ref	6-1-198		manual: no anchored one-digit candidate
 399	ref	6-4-24		manual: no anchored one-digit candidate
@@ -736,6 +741,8 @@ page	kind	english	supplied	status
 456	ref	75-1		manual: no anchored one-digit candidate
 457	ref	75-1		manual: no anchored one-digit candidate
 457	ref	75-2		manual: no anchored one-digit candidate
+458	ref	74-5		manual: no anchored one-digit candidate
+458	ref	75-2		manual: no anchored one-digit candidate
 459	ref	3-1-86		manual: no anchored one-digit candidate
 459	ref	6-3-136		manual: no anchored one-digit candidate
 459	ref	75-2		manual: no anchored one-digit candidate
@@ -770,6 +777,8 @@ page	kind	english	supplied	status
 474	ref	76-2		manual: no anchored one-digit candidate
 475	ref	3-4-87		manual: no anchored one-digit candidate
 475	ref	76-2		manual: no anchored one-digit candidate
+476	ref	76-2		manual: no anchored one-digit candidate
+476	ref	76-3		manual: no anchored one-digit candidate
 477	ref	76-3		manual: no anchored one-digit candidate
 478	ref	76-3		manual: no anchored one-digit candidate
 479	ref	3-3-94		manual: no anchored one-digit candidate
