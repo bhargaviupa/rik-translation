@@ -17024,6 +17024,355 @@ O Indra, like the deer called ऋश्य (*ṛśya*), thirsty, come to the अ
 - मघवन् (*maghavan*)—O wealthy Indra
 - दिवेदिवे (*divedive*)—every day
 
+### Printed p. 425
+
+(continuation of the Pratipadārtha of the previous Ṛk)
+
+- घमानः (*ghamānaḥ*)—(the stray fragment of the previous entry) driving down rain from the clouds
+- ओजिष्ठं (*ojiṣṭhaṃ*)—of exceedingly great vigour
+- सहि (*sahi*)—(your) strength
+- दधिषे (*dadhiṣe*)—you possess
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as a deer, called ṛśya, when thirsty comes to a watering place and drinks, so you, being thirsty, come towards the Soma brought in vessels such as the camasa. Drink the Soma as much as you wish. O wealthy Indra, every day, driving down rain from the clouds, you possess (manifest) your strength, of exceedingly great vigour.
+
+##### English translation
+Come like a thirsty deer to the watering place, drink at will of the Soma, whence, daily driving down the clouds, you sustain, Maghavan, most vigorous strength.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध्व॑यो द्रा॒वया॒ त्वं सोम॒मिंद्रः॑ पिपासति ।  
+> उप॑ नू॒नं यु॑युजे॒ वृष॑णा॒ हरी॒ आ च॑ जगाम वृत्र॒हा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वयो इति । द्रवय । त्वं । सोमं । इंद्रः । पिपासति ।  
+> उप । नूनं । युयुजे । वृषणा । हरी इति । आ । च । जगाम । वृत्तहा ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यो अध्वरस्य नेतः त्वं सोमं द्रावय । उत्तरवेदिलक्षणं स्थानु
+> प्रापय । यद्वा । रसात्मना द्रवणशीलं कुरु । अभिषुण्वैत्यर्थः । किं कारणमिति
+> चेत् । इंद्रः पिपासति । इमं सोमं पातुमिच्छति । त्वयैतत्कथमवगतमिति चेत्
+> तत्राह । वृषणा वर्षितारौ युवान् वा हरी अश्वा नूनमद्य युयुजे । उपगम्य सारथियोर्जितवान्रथे । वृत्रहा वृत्रस्य हतेंद्रश्चा जगाम । आगतवान् ॥
+
+##### Gist of the bhāṣya
+
+O adhvaryu, leader of the sacrifice, make the Soma run: bring it to the place called the uttaravedi; or else, make it flow as juice, that is, press it. If it is asked why: Indra wishes to drink; he desires to drink this Soma. If it is asked how you know this, he says: Indra, the slayer of Vṛtra, has this very day yoked to his chariot his two horses, which are showerers (or youthful), and has come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यो (*adhvaryo*)—O adhvaryu
+- त्वं (*tvaṃ*)—you
+- सोमं (*somaṃ*)—the Soma
+- द्रावय (*drāvaya*)—offer in the form of an oblation
+- इंद्रः (*iṃdraḥ*)—Indra
+- पिपासति (*pipāsati*)—wishes to drink
+- वृषणा (*vṛṣaṇā*)—possessing youth
+- हरी (*harī*)—the horses
+- नूनं (*nūnaṃ*)—just now
+- उप युयुजे (*upa yuyuje*)—has yoked to his chariot
+- वृत्रहा च (*vṛtrahā ca*)—and Indra, the slayer of Vṛtra
+- आ जगाम (*ā jagāma*)—has come
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryu, Indra, who desires to drink Soma, has yoked to his chariot his ever-youthful horses. For that very reason Indra, the slayer of Vṛtra, has come here. Offer him the Soma juice in a stream, in the form of an oblation.
+
+##### English translation
+Quickly, priest, pour forth the Soma, for Indra is thirsty; verily he has harnessed his vigorous steeds, the slayer of Vritra has arrived.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒यं चि॒त्स म॑न्यते॒ दाशु॑रि॒र्जनो॒ यत्रा॒ सोम॑स्य तृं॒पसि॑ ।  
+> इ॒दं ते॒ अन्नं॒ युज्यं॒ समु॑क्षितं॒ तस्यॆहि॒ प्र द्र॑वा॒ पिब॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वयं । चित् । सः । मन्यते । दाशुरिः । जनः । यत्र । सोमस्य । त्वंपसि ।  
+> इदं । ते । अन्नं । युज्यं । संउक्षितं । तस्य । आ । इहि । प्र । द्रव । पिब ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दाशुरिर्दाश्वान् ॥ दाशतेरौणादिक उरिन् ॥ हविषां दाता स यजमानलक्षणो जनः स्वयं चित् स्वयमेवात्मनैव मन्यते । सर्वं जानाति । परायत्तप्रज्ञो न भवतीत्यर्थः । यत्र यस्मिञ्जने सोमस्य पानेन हे इंद्र त्वं तृंपसि
+> तृप्यसि ॥ तृप तृप्न तृप्तौ । तौदादिकः । शे तृप्नादीनां । पा. ७-१-५९-१ । इति
+> नुम् ॥ ते त्वदीयं युज्यं योग्यमिदमस्मदीयं सोमलक्षणमन्नं समुक्षितं
+> सम्यक् पात्रेष्दासिक्तं ॥ उक्ष सेचने । कर्मणि निष्ठा । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥ अतस्तं तादृशं सोममेहि । अभिगच्छ । प्र द्रव । शीघ्रं प्राप्नुहि । तदनंतरं पिब ! पानं कुरु ॥
+
+##### Gist of the bhāṣya
+
+Dāśuri means dāśvān, the giver of oblations (the Uṇādi suffix uri after the root dāś). That man, the sacrificer who gives the oblations, thinks of himself, by his own self alone; he knows everything, that is, his understanding is not dependent on another. O Indra, in whom (that man) you are satisfied by the drinking of Soma. This your fitting food, in the form of Soma, which is ours, has been well sprinkled into the vessels. Therefore come to such Soma, approach it; run forth, reach it quickly; and then drink, perform the drinking.
+
+### Printed p. 426
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—(O Indra) in whichever sacrificer
+- सोमस्य (*somasya*)—by the drinking of Soma
+- तृंपसि (*tṛṃpasi*)—you attain satisfaction
+- दाशुरिः (*dāśuriḥ*)—who offers oblations
+- सः जनः (*saḥ janaḥ*)—that same sacrificer
+- स्वयं चित् (*svayaṃ cit*)—by self-prompting alone
+- मन्यते (*manyate*)—has knowledge of what is to be done
+- ते (*te*)—to you
+- युज्यं (*yujyaṃ*)—fitting
+- इदं अन्नं (*idaṃ annaṃ*)—this food, in the form of Soma
+- सुमुक्षितं (*sumukṣitaṃ*)—poured into the vessel and made ready
+- एहि (*ehi*)—be pleased to come
+- प्र द्रव (*pra drava*)—hasten
+- तस्य (*tasya*)—it
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the sacrificer in whom you attain satisfaction by the drinking of Soma, that same sacrificer who offers oblations has knowledge of what is to be done by his own self-prompting. The food, in the form of Soma, fitting for you, has been poured into the vessel and made ready. Be pleased to come; come in haste and drink it.
+
+##### English translation
+The man who is the donor (of the oblation), he with (the gift of whose) libation you are satisfied, possesses of himself understanding; this your appropriate food is ready; come, hasten, drink of it.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒थे॒ष्ठाया॑ध्वर्यवः॒ सोम॒मिंद्रा॑य सोतन ।  
+> अधि॑ ब्र॒धन्स्याद्र॑यो॒ वि च॑क्षते सु॒न्वंतो॑ दा॒श्व॑ध्वरं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथेऽस्थाय । अध्वर्यवः । सोमं । इंद्राय । सोतन ।  
+> अधि । ब्रधन्स्य । अद्रयः । वि । चक्षते । सुन्वंतः । दातुऽअध्वरु ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथेष्ठाय । रथे तिष्ठतीति रथेष्ठः ॥ सुपि स्थ इति कप्रत्ययः । तत्पुरुषे कृति
+> बहुलमिति सप्तम्या अलुक् ॥ एवंलक्षडायेंद्राय दे अध्वर्यवः सोमं सोतन।
+
+##### Gist of the bhāṣya
+
+Ratheṣṭha is one who stands on a chariot (formed with the suffix ka after a locative, the locative not being dropped). O adhvaryus, press Soma for Indra, who is so (standing on his chariot).
+
+### Printed p. 427
+
+> अभिषुणुत ॥ षुञ् अभिषवे । सप्तनप्तनथनाश्वेति तनबादेशः ॥ ब्रधन्स्य बुधन्स्य
+> मूलस्याभिषवार्थं चर्मणि स्थापितस्कोपराख्यस्य विस्तृतस्याश्मनोऽध्युपर्यद्रयोऽन्ये ग्रावाणश्चतसृषु दिक्षु वर्तमाना दाश्वध्वरं दाशोर्दातुर्यजमानस्याध्वरो यागो येन निष्पद्यते तादृशं सोमं सुन्वंत ऋत्विज्नुरपेक्षं स्वयमेवाभिषुण्वंतो वि चक्षते । विशेषेण प्रकाशंते । सोमाभिषवेऽतिशयेनानुकूला
+> वर्तंत इत्यर्थः।आथवाद्रयस्त्यैरद्रिभिर्हे अध्वर्यवः सोममभिषुणुतेति योज्यं॥
+
+##### Gist of the bhāṣya
+
+Sotana means "press" (root ṣuñ, in pressing). Bradhna is the root (budhna): above the broad stone called upara, which is set on a hide for the pressing, the other stones (grāvāṇas), stationed in the four directions, pressing the Soma, by which the sacrifice (adhvara) of the giver, the sacrificer, is accomplished, shine forth specially, without needing the priests, pressing on their own; that is, they are exceedingly favourable to the pressing of Soma. Or else it is to be construed: O adhvaryus, press the Soma with the stones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यवः (*adhvaryavaḥ*)—O adhvaryus
+- रथेष्ठाय (*ratheṣṭhāya*)—seated in the chariot
+- इंद्राय (*iṃdrāya*)—to Indra
+- सोमं (*somaṃ*)—the Soma juice
+- सोतन (*sotana*)—press and offer
+- ब्रध्नस्य (*bradhnasya*)—of the pressing stone placed on a hide for the pressing rite
+- अधि (*adhi*)—above
+- अद्रयः (*adrayaḥ*)—the other stones that help it
+- दाश्वध्वरं (*dāśvadhvaraṃ*)—Soma, the chief means of the sacrificer's sacrifice
+- सुन्वंतः (*sunvaṃtaḥ*)—pressing
+- वि चक्षते (*vi cakṣate*)—are seen
+
+##### भावार्थ (Bhāvārtha)
+
+O adhvaryus, press and offer the Soma juice to Indra, who sits in the chariot. Above the pressing stone placed on a hide for the pressing rite, the other stones that help it are seen pressing the Soma, the chief means of the sacrificer's sacrifice.
+
+##### English translation
+Pour out, priests, the Soma libation to Indra in his chariot: the stones, placed upon their bases, are, behold effusing the Soma for the sacrifice of the offerer.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ ब्र॒ध्नं वा॒नाता॒ वृष॑णा॒ हरी॒ इंद्र॑म॒पसु॑ वक्षतः ।  
+> अ॒र्वांचं॑ त्वा॒ सप्त॑योऽध्वर॒श्रियो॒ वहं॑तु॒ सव॒नेदुप॑ ॥१४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । ब्रध्नं । ववाता । वृषणा । हरी इति । इंद्रं । अपसु । वक्षतः ।
+
+### Printed p. 428
+
+> आर्वांचं। त्वा । सप्तयः । अध्वरश्रियः । वहंतु । सवना । इत् । उप ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रध्नमंतरिक्षं नावाता संभक्तवंतौ ॥ वनतेर्निष्ठायां छांदसं द्विर्वचनमिडभाव आत्वं धातुस्वरश्च । अन्येषामपि दृश्यत इति साहितिकोऽभ्यासदीर्घः ॥
+> यद्वा । नावाता पुनःपुनर्गत् ॥ वा गतिगंधनयोः । अस्माद्यज् लुगंतात्कर्तरि
+> निष्ठा ॥ वृषणा वृषणौ स्तेकार् हरी हरणशीलावश्वावुक्तगुणौ संतावपस्वस्मदीयेषु
+> कर्मसु ॥ अपस्कब्दः सकारांतः कर्मवचनः । पीवोपवसनानां छंदसि लोपो
+> वक्तव्यः । म. ६-३-१०९-६ । इतीह सकारो लुप्यते ॥ तत्रेमनिंद्रमुप वक्षतः ।
+> उपवहतां । उपानयतां ॥ वहतेर्लॆट्यडागमः । सिब्बहुलमिति सिप् ॥ अ पि
+> चाध्वरश्रियोऽध्वरं सेवमानाः सप्तयः सर्पणशीला अन्येऽपि त्वदीया अश्वाः सवना
+> सवनानि प्रातःसवनादीन्यस्मद्यागसंबंधीनि प्रति हे इंद्र त्वामर्वांचमभिमुखमुप
+> वहंतु । उपगमयंतु । इदिति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+Bradhna is the antarikṣa (firmament); vāvātā means "having resorted to" (from the root van, the Vedic reduplication, loss of the augment iṭ, ā-substitution and root accent; the lengthening of the reduplicate is by usage in other cases too). Or else, vāvātā means "going again and again" (root vā, motion and smelling; an affix with luk, in the sense of the agent). Those two horses, showerers and "bearers", being of the qualities stated, in our rites (apas means rite; the s is dropped in the Veda) may bring Indra: let them bring up, let them lead up. Moreover, other swift horses of yours, serving the sacrifice (adhvara), may bring you, O Indra, facing us, to our savanas, the morning pressings and the rest, which belong to our sacrifice; the word *id * is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रध्नं (*bradhnaṃ*)—everywhere in the firmament
+- वावाता (*vāvātā*)—moving about
+- वृषणा (*vṛṣaṇā*)—and causing rain
+- हरी (*harī*)—the horses of Indra
+- अपसु (*apasu*)—to our rites
+- इंद्रं (*iṃdraṃ*)—Indra
+- उप वक्षतः (*upa vakṣataḥ*)—let them bring (O Indra)
+- अध्वरश्रियः (*adhvaraśriyaḥ*)—serving the sacrifice
+- सप्तयः (*saptayaḥ*)—your other horses also
+- सवना (*savanā*)—to our morning pressings and the rest
+- अर्वांचं (*arvāṃcaṃ*)—facing us
+- त्वा (*tvā*)—you
+- उप वहंतु (*upa vahaṃtu*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+May the horses of Indra, which move about everywhere in the firmament and cause rain, bring Indra to our rites. O Indra, may your other horses also, which serve the sacrifice, bring you facing our morning pressings and the rest.
+
+##### English translation
+May his vigorous horses, repeatedly traversing the firmament, bring Indra to our rites; may your steeds, glorious through sacrifice, bring you down indeed to the (daily) ceremonies-
+
+### Printed p. 429
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र पू॒षणं॑ वृणीमहे॒ युज्या॑य पुरू॒वसुं॑ ।  
+> स श॑क्र शिक्ष पुरुहूत नो धि॒या तुजे॑ रा॒ये वि॑मोचन ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । पूषणं । वृणीमहे । युज्याय । पुरुर्वसुं ।  
+> सः । शक्र । शिक्ष । पुरुहूत । नः । धिया । तुजे । राये । विमोचन ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमाद्यासु चतसृषु पूष्ण इंद्रस्य च लिंगसद्भावादेता उभयथा व्याख्यायंते । पुरूवसुं बहुधनं पूषणं पोषकमिंद्रं यद्वैतत्संज्ञं देवं प्र
+> वृणीमहे । प्रकर्षेण संभजामहे । किमर्थं । युज्याय । युंक्त इति युज्
+> सखा । तस्य भावाय ! सखित्वायेत्यर्थः । हे शक्र शक्त पुरुहूत बहुभिराहूत हे
+> विमोचन पापाद्विमोचयितरिंद्र पूषन्वास त्वं नोऽस्मान् धियात्मीयया बुद्धा
+> शिक्ष । शक्तान् कर्तुमिच्छ । किमर्थं । राये धनाय धनप्राप्त्यर्थं तुजे शत्रूंस्तोजयितुं हिंसितुं ॥ तुज हिंसायां । अस्मात्यत्यार्थे केन्प्रत्ययः ॥ यद्वा ।
+> राय इति क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्च तुर्थि । जातावेकवचनं॥
+> रायो धनानि धिया स्तुत्या प्रीतः सन्नोऽस्मभ्यं शिक्ष । देहि ॥ शिक्षतिर्दानर्मा ।
+> ऊडिदमिति रायो विभक्तिरुदात्ता ॥
+
+##### Gist of the bhāṣya
+
+In the first four verses there are marks of gender suited both to Pūṣan and to Indra, so these verses are explained in both ways. We choose, that is, specially resort to, Pūṣan, of much wealth (puruvasu), the nourisher, or Indra, or the deity of this name. For what? For yujya: one who joins (yuṅkte) is a friend; for the state of being his, that is, for friendship. O Śakra, powerful one, Puruhūta, called by many, Vimocana, liberator from sin, Indra or Pūṣan, desire to make us able by your own intelligence. For what purpose? For wealth, to obtain wealth, and tuje, to overcome, to harm enemies (root tuj, in the sense of harming; the affix ken in the sense of purpose). Or else: rāye (rāyaḥ) is to be taken as the object of the action, and because the object is a recipient, the dative applies; the singular is by class. "Give us wealths, pleased by our praise (dhiyā)"; śikṣati is a root of giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरूवसुं (*purūvasuṃ*)—having abundant wealth
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan (or Indra, the nourisher of the world)
+- युज्याय (*yujyāya*)—for the attainment of friendship with him
+- प्र वृणीमहे (*pra vṛṇīmahe*)—we worship, praying
+- शक्र (*śakra*)—O powerful one
+- पुरुहूत (*puruhūta*)—worthy of the invocation of many
+- विमोचन (*vimocana*)—O god who releases from sin
+- सः (*saḥ*)—such as you are
+- नः (*naḥ*)—us
+- धिया (*dhiyā*)—by your excellent understanding
+- राये (*rāye*)—for the gaining of wealth
+- तुजे (*tuje*)—for harming enemies
+- शिक्ष (*śikṣa*)—make us able
+
+### Printed p. 430
+
+##### भावार्थ (Bhāvārtha)
+
+We worship Pūṣan, who has abundant wealth, praying for the attainment of friendship with him. O god, powerful, worthy of the invocation of many, releaser from sin, such a famous one as you, make us, by your excellent understanding, able to gain wealth and to harm enemies.
+
+##### English translation
+We have recourse to the opulent Pushan for his alliance; you Shakra, the adored of many, the liberator (from iniquity), enable us to acquire by our intelligence, wealth and victory.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं नः॑ शिशीहि भु॒रिजो॑रिव क्षु॒रं रास्व॑ रा॒यो: वि॑मोचन ।  
+> त्वे तन्नः॑ सु॒वेद॑मु॒स्रियं॒ वसु॒ यं त्वं हि॒नोषि॒ मर्त्यं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । नः । शिशीहि । भुरिजोःऽइव । क्षुरं । रास्व । रायः । विमोचन ।  
+> त्वे इति । तत् । नः । सुवेदं । उस्रियं । वसु । यं । त्वं । हिनोषि । मर्त्यं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पूषन्वा नोऽस्मान् सं शिशीहि । सम्यज्नुश्य । तीक्ष्णबुद्धीन् कुरु ।
+> भुरिजोरिव । बाहुनामैतत् । नापितस्य बाह्वरिव स्थितं क्षुरमिव । अपि च हे
+> विमोचन पापाद्विमोचन पापाद्विमोचयितः रायो धनानि रास्व । आस्मभ्यं देहि ॥
+> रा दाने ॥ तत्कस्य होतोः । त्वे त्वयि खलूस्रियं । उस्रा गावः । तत्संबद्धं तद्वसु
+> निवासकं धनं नोऽस्माकं सुवेदं सुलभं नान्येषु देवेषु । यं धनसमूहं
+> मर्त्यं मनुष्यं स्तोतारं प्रति त्वं हिनोषि प्रेरयसि तद्वसु त्वयात्यन्वयः ॥ यत
+> एवं तस्माद्रास्वेति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, or Pūṣan, sharpen us well (sam śiśīhi): make us keen-minded, as a razor is by the arms of a barber (bhurij is a name for the arm; like a razor held in the barber's arms). Moreover, O Vimocana, releaser from sin, give wealths (rāyaḥ) to us (root rā, in giving). Why? In you, indeed, is the usriya wealth (usrāḥ are cows), that dwelling-wealth connected with them, easily obtainable by us (suveda), not in other gods. The mass of wealth which you send, impel, towards the mortal, the praiser, that wealth is by you: so the construction. Since it is so, therefore give it: thus it is to be construed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुरिजोः (*bhurijoḥ*)—(O Pūṣan) of the barber
+- क्षुरं इव (*kṣuraṃ iva*)—as the razor is extremely sharp
+- नः (*naḥ*)—us
+- सं शिशीहि (*saṃ śiśīhi*)—make keen-minded
+- विमोचन (*vimocana*)—O god who releases from sin
+- यं (*yaṃ*)—which mass of wealth
+- मर्त्यं (*martyaṃ*)—to the human praiser
+- त्वं (*tvaṃ*)—you
+- हितोषि (*hitoṣi*)—send out
+- तत् (*tat*)—such
+- उस्रियं (*usriyaṃ*)—connected with cows
+- वसु (*vasu*)—wealth
+- नः (*naḥ*)—to us
+- त्वे (*tve*)—in you alone
+- सुवेदं (*suvedaṃ*)—easily obtainable
+- रायः (*rāyaḥ*)—those same wealths
+- रास्व (*rāsva*)—provide to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, as the razor of a barber is extremely sharp, make us keen-minded. O god, releaser from sin, the wealth connected with cows, which you send to the human praiser, is easily obtainable by us in you alone. Provide us those same wealths.
+
+##### English translation
+Sharpen us like a razor in the hands (of a barber) : grant us riches, liberator (from iniquity), the wealth of cattle easily obtained by us from you, such wealth as you bestow upon the (pious) mortal.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेमि॑ त्वा पूषन्नृं॒जसे॒ वेमि॒ स्तोत॑व आघृणे ।  
+> न तस्य॑ वे॒म्यर॑णं॒ हि तद्व॑सो स्तु॒षे प॒ज्राय॒ साम्ने॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेमि । श्वा । पूषन् । यंजसे । वेमि । स्तोतवे । अघृणे ।  
+> न । तस्य । वेमि । अरणं । हि । तत् । वसो इति । स्तुषे । पज्राय । साम्मे ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन् पोहळेंद्र एतत्संज्ञ वा देव त्वा त्वामृंजसे प्रसाधयितुं
+> वेमि । कामये । अघृणे आगतदीप्ते स्तोतवे त्वां स्तोतुं वेमि । कामये ।
+> यत्त्वद्वतिरिक्तं देवतांतरं तस्य स्तोत्रं न वेमि । न कामये । तत्कुत इति
+> जेत् । हि यस्मादरणमरणमसुखकरं । अतस्त्वामेव स्तोतुं कामय इत्यर्थः ।
+> हे वसो वासक स्तुषे स्तुवते सज्राय प्रार्जकाय स्तोत्राणां साम्मे । साम
+> स्तोत्रं । सामर्थ्यादत्र तद्वाल्मीक्ये । तद्वते । यद्वा । पज्र इति कक्षीवत आख्या
+
+##### Gist of the bhāṣya
+
+O Pūṣan, nourisher, Indra, or the deity of this name, I desire (vemi) to propitiate you (ṛñjase, to accomplish); O aghṛṇe, of unfailing brilliance, I desire to praise you. I do not desire the praise of any deity other than you. If it is asked why, then: because it is araṇa, unpleasant. So the sense is: I desire to praise you alone. O Vasu, dweller, for the praiser, pajra, the offerer of praises, for sāman (sāman is praise; by implication here the possessor of it). Or else, pajra is the name of Kakṣīvat. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 422. pp. 416-422 (batch API)
+**Progress note:** Done through printed p. 430. pp. 425-430 (batch API)
