@@ -29669,6 +29669,329 @@ O Indra, your सूनृता (*sūnṛtā*), speech in the form of praise, i
 - ते (*te*)—directed to you
 - सूनृता (*sūnṛtā*)—speech in the form of praise
 
+### Printed p. 709
+#### Ṛk 3 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनुः (*dhenuḥ*)—giving abundant fruit
+- सुन्वते (*sunvate*)—to the one who presses and offers Soma
+- यजमानाय (*yajamānāya*)—to the sacrificer
+- पिप्युषी (*pipyuṣī*)—nourishing him
+- गां (*gāṃ*)—cows
+- अश्वं (*aśvaṃ*)—horses
+- दुहे (*duhe*)—milks (gives abundantly)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the speech in the form of praise addressed to you, having the power to give abundant fruit, nourishes the sacrificer who presses and offers Soma, and gives him cows and horses abundantly.
+
+##### English translation
+Your praise, Indra, is a milch cow to the worshipper offering the libations ; it milks him in abundance cattle and horses.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ते॑ व॒र्तास्ति॒ राध॑स॒ इंद्र॑ दे॒वो न मर्त्यः॑ ।  
+> यद्दित्स॑सि स्तु॒तो म॒घं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ते । वर्ता । अस्ति । राधसः । इंद्र । देवः । न । मर्त्यः ।  
+> यत् । दित्ससि । स्तुतः । मघं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव राधसो धनस्य स्तोतृभ्यो दातव्यस्य वर्ता निवारको देवो
+> नास्ति । न विद्यते । न मर्त्यो मनुष्योऽपि निवारको नास्ति । स्तुतः स्तोतृभिः
+> प्रख्यापितगुणः सन् यन्मह्यं मघं महनीयं धनं दित्ससि त्वं दातुमिच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, there is no obstructor of your bounty (rādhas), the wealth to be given to the praiseworthy singers: no god obstructs, and no mortal, a man, obstructs either. Being praised, with your qualities proclaimed by the singers, you wish to give the glorious wealth (maghaṃ) that I ask for.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्तुतः (*stutaḥ*)—praised by the singers
+- यत् (*yat*)—which
+- मघं (*maghaṃ*)—venerable wealth
+- दित्ससि (*ditsasi*)—you wish to give to the praiser
+- ते (*te*)—your
+- राधसः (*rādhasaḥ*)—of such wealth
+
+### Printed p. 710
+- वर्ता (*vartā*)—an obstructor
+- देवः (*devaḥ*)—among the gods, any
+- न अस्ति (*na asti*)—there is not
+- मर्त्यः (*martyaḥ*)—among men, any
+- न (*na*)—there is not
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by the singers, the venerable wealth that you give to the praiser—to such giving of wealth by you there is no obstructor among the gods, and none among men either.
+
+##### English translation
+Neither god nor man, Indra, is the obstructor of your affluence, (of) the wealth which you, when praised, designe to bestow.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञ इंद्र॑मवर्धय॒द्यद्भूमिं॒ व्यव॑र्तयत् ।  
+> च॒क्रा॒ण ओ॑प॒शं दि॒वि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञः । इंद्रं : अवर्धयत् । यत् । भूमिं । वि । अवर्तयत् ।  
+> चक्राणः । ओपशं । दिवि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञो यजमानैरनुष्ठीयमानो याग इंद्रं देवमवर्धयत् ।
+> श्रूयते हि । इंद्र इदं हविरजुषतावीवृधत महो ज्यायोऽकृतेति । स इंद्रो
+> यद्यस्माद्भूमिं पृथिवीं व्यवर्तयत् वृष्टा दिप्रदानेन विशेषेण वर्तमानामकरोत् । किं कुर्वन् । दिव्यंतरिक्षे मेघमोपशमुपेत्य शयानं चक्राणः कुर्वन् ।
+> यद्वा । आत्मनि समवेतो वीर्यविशेष ओपशः । तमंतरिक्षे कुर्वन् ॥
+
+##### Gist of the bhāṣya
+
+The sacrifice, performed by the sacrificers, strengthened the god Indra. It is heard: "Indra enjoyed this oblation, grew strong, made himself greater." Since Indra made the earth turn about specially, by the gift of rain and so on, he did so making the cloud lie quiescent (ōpaśa) in the sky, having approached it. Or else: ōpaśa is a special power inherent in oneself; he does this in the firmament.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- दिवि (*divi*)—in the firmament
+- ओपशं (*opaśaṃ*)—as spreading the cloud
+- चक्राणः (*cakrāṇaḥ*)—making
+- भूमिं (*bhūmiṃ*)—the earth
+
+### Printed p. 711
+- व्यवर्तयत् (*vyavartayat*)—made it be drenched by rain
+- यज्ञः (*yajñaḥ*)—the sacrifice
+- इंद्रं (*iṃdraṃ*)—Indra
+- अवर्धयत् (*avardhayat*)—made grow
+
+##### भावार्थ (Bhāvārtha)
+
+For the reason that Indra, spreading clouds all over the firmament, made the earth be drenched with rain, for that very reason the sacrifice made Indra grow.
+
+##### English translation
+Sacrifice has magnified Indra, so that he has supported the earth (with rain), making (the cloud) quiescent in the firmament.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒वृ॒धा॒नस्य॑ ते व॒यं विश्वा॒ धना॑नि जि॒ग्युषः॑ ।  
+> ऊ॒तिमिं॒द्रा वृ॑णीमहे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववृधानस्य । ते । वयं । विश्वा ! धनानि । जिग्युषः ।  
+> ऊतिं । इंद्र । आ । वृणीमहे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वावृधानस्य वर्धमानस्य विश्वा विश्वानि सर्वाणि धनानि शत्रुसंबंधीनि
+> जिग्युषो जितवतस्ते तवोतिं रक्षां वयमा वृणीमहे। अभिमुख्येन संभजामहे॥
+
+##### Gist of the bhāṣya
+
+O Indra, of you who are growing and have conquered all the enemy's riches, we seek the protection (ūti), taking it to ourselves face to face.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वावृधानस्य (*vāvṛdhānasya*)—of you who are growing
+- विश्वा (*viśvā*)—all
+- धनानि (*dhanāni*)—the enemy's riches
+- जिग्युषः (*jigyuṣaḥ*)—who conquer and take possession
+- ते (*te*)—your
+- ऊतिं (*ūtiṃ*)—protection
+- वयं (*vayaṃ*)—we
+- आ वृणीमहे (*ā vṛṇīmahe*)—we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we ask for the protection of you who grow and conquer and take possession of all the enemy's riches.
+
+### Printed p. 712
+
+##### English translation
+We solicit, Indra, the protection of you who are ever being magnified, the conqueror of all the riches (of the enemy).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य१॒ं॑नरि॑क्षमतिर॒न्मदे॒ सोम॑स्य रोच॒ना ।  
+> इंद्रो॒ यदभि॑नद्व॒लं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अंतरिक्षं । अतिरत् । मदे । सोमस्य । रोचना ।  
+> इंद्रः । यत् । अभिनत् । वलं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि प्रातःसवने ब्रह्मशस्त्रे व्यंतरिक्षमतिरदित्ययं पर्यासस्तृचः । सूत्र्यते हि । व्यंतरिक्षमतिरच्छा वाश्वस्य सुन्वत इति तृचाः पर्यासाः ।
+> आ. ७-२. इति ॥ अहर्गणेषु द्वितीयाद्विष्वहःस्वपि तस्यैव तस्निन्नेव शस्त्रेयं
+> पर्यासस्तृचः । सूत्रितं च । पर्यासान्कद्वतोऽहरहःशस्यानीति होत्रका द्वितीयादिष्टेव । आ. ७-१. । इति ॥
+> सोमस्य पानेन मदे हर्षे सति रोचना रोचमानमंतरिक्षमयमिंद्रो
+> व्यतिरत् । व्यवर्धयत् । यद्यस्मात्कारणाद्वलमावृत्य स्थितमसुरं मेघं नाभिनत्
+> व्यदारयत् ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the morning pressing, in the Brahmaśastra, the triplet beginning व्यंतरिक्षमतिरत् (*vyaṃtarikṣamatirat*) is a paryāsa triplet. It is stated in the sūtra: व्यंतरिक्षमतिरच्छा वाश्वस्य सुन्वत इति तृचाः पर्यासाः । (*vyaṃtarikṣamatiracchā vāśvasya sunvata iti tṛcāḥ paryāsāḥ |*) (Ā. 7-2). In the ahargaṇa sacrifices, from the second day on, this triplet is a paryāsa in the śastra of those days; it is stated: पर्यासान्कद्वतोऽहरहःशस्यानीति होत्रका द्वितीयादिष्टेव । (*paryāsānkadvato 'harahaḥśasyānīti hotrakā dvitīyādiṣṭeva |*) (Ā. 7-1). Exhilarated by drinking Soma, this Indra expanded the shining firmament, since he split the Asura Vala, the cloud that stood enveloping.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमस्य (*somasya*)—by drinking the Soma juice
+- मदे (*made*)—when exhilaration arose
+- इंद्रः (*iṃdraḥ*)—Indra
+- रोचना (*rocanā*)—shining
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- व्यतिरत् (*vyatirat*)—made it extend
+- यत् (*yat*)—for that very reason
+- वलं (*valaṃ*)—the cloud lying spread out
+- अभिनत् (*abhinat*)—split (for rain)
+
+##### भावार्थ (Bhāvārtha)
+
+When exhilaration arose from drinking the Soma juice, Indra made the shining firmament extend. For that very reason he split the clouds that lay spread out, for the sake of rain.
+
+### Printed p. 713
+
+##### English translation
+In the exhilaration of the Soma, Indra has traversed the radiant firmament that he might pierce (the Asura) Vala.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the morning pressing of the day called Cāturviṃśika of the sacrifice, among the śastra mantras recited by the priest called Brahman, the three Ṛks beginning व्यंतरिक्षमतिरत् (*vyaṃtarikṣamatirat*) are to be recited as a paryāsa triplet; this is set out in the Āśvalāyana Śrautasūtra by the sūtra व्यंतरिक्षमतिरच्छावाश्वस्य सुन्वत इति तृचाः पर्यासाः (*vyaṃtarikṣamatiracchāvāśvasya sunvata iti tṛcāḥ paryāsāḥ*) (Ā. 7-2). In the sacrifices called ahargaṇa also, from the second day onward, these three Ṛks are to be recited as a paryāsa triplet in the śastra mantras recited on each day; this is set out in the Āśvalāyana Śrautasūtra by the sūtra पर्यासान्कद्वतोऽहरहःशस्यानीति होत्रका द्वितीयादिष्टेव (*paryāsānkadvato 'harahaḥśasyānīti hotrakā dvitīyādiṣṭeva*) (Ā. 7-1).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्गा आ॑ज॒दंगि॑रोभ्य आ॒विष्कृ॒ण्वन्गुहा॑ स॒तीः ।  
+> अ॒र्वांचं॑ नुनुदे व॒लं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । गाः । आजत् । अंगिरःभ्यः । आविः । कृण्वन् । गुहा । सतीः ।  
+> अर्वांचं । नुनुदे । वलं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगिरोभ्य ऋषिभ्यो वलानुचरैः पणिभिरपहृता गा उदाजत् । उदगमयत् । किं कुर्वन् । गुहा गुहायां बिले सतीर्विद्रमाना यथा न दृश्यंते तथा
+> पणिभिर्गूढास्ता गा आविष्कृण्वन् प्रकाशयन् । अपि च पणीनामधिपतिं वलमसुरमष्यर्वांचमधोमुखं नुनुदे । प्रेरितवान् !!
+
+##### Gist of the bhāṣya
+
+For the Aṅgiras seers he drove up the cows carried off by the Paṇis, Vala's followers, making them manifest, though they were in the cave, hidden by the Paṇis so that they could not be seen. Moreover he drove Vala, the Asura lord of the Paṇis, headlong, face downward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- गुहा (*guhā*)—in dark places
+- सतीः (*satīḥ*)—the cows that were hidden
+
+### Printed p. 714
+- आविष्कृण्वन् (*āviṣkṛṇvan*)—bringing them to light
+- अंगिरोभ्यः (*aṃgirobhyaḥ*)—for the Aṅgiras seers
+- गाः (*gāḥ*)—the cows
+- उदाजत् (*udājat*)—made rise again and come together
+- वलं (*valaṃ*)—the Asura named Vala
+- अर्वांचं (*arvāṃcaṃ*)—laying him face downward
+- नुनुदे (*nunude*)—afflicted
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, bringing to light the cows hidden in dark places, made them go and rejoin the Aṅgiras seers. Laying the Asura Vala face downward, he afflicted him.
+
+##### English translation
+He liberated the cows for the Angirasas, making manifest those that had been hidden in the cave, hurling Vala headlong down.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रे॑ण रोच॒ना दि॒वो दृ॒ळ्हानि॑ दृंहि॒तानि॑ च ।  
+> स्थि॒राणि॒ न प॑रा॒णुदे॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रेण । रोचना । दिवः । दृळ्हानि । दृंहितानि । च ।  
+> स्थिराणि । न । परानुदे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्य संबंधीनि रोचना रोचमानानि देवगृहात्मकानि
+> नक्षत्राणींद्रेण दृळ्हानि दृढावयवानि बलवंति कृतानि दृंहितानि च दृढीकृतानि ।
+> यथैकत्र नैश्चल्येनावतिष्ठंते तथा कृतानीत्यर्थः । यद्वा ॥ वृह दृहि वृहि वृद्धौ ।
+> दृंहितानि वर्धितानि चेत्यर्थः । अपि च स्थिराणि स्थासूनि दृढानि तानि न पराणुदे ।
+> परानोदनीयानि न भवंति । न केनापि स्थानात्प्रच्यावयितुं शक्यानीत्यर्थः ॥ नुद
+> प्रेरणे । अस्मात्कृतार्थ इति केन्प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+The shining stars belonging to heaven, which are the houses of the gods, were made firm, with strong parts, by Indra, and were strengthened; that is, they were made so that they stand fixed in one place without moving. Or else: from the root वृह दृहि वृहि वृद्धौ (*vṛha dṛhi vṛhi vṛddhau*), दृंहितानि (*dṛṃhitāni*) means "increased". Moreover, being steady and firm, they are not to be pushed away: they cannot be dislodged from their place by anyone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—belonging to heaven
+- रोचना (*rocanā*)—the stars and so on, endowed with radiance
+
+### Printed p. 715
+- इंद्रेण (*iṃdreṇa*)—by Indra
+- दृळ्हानि (*dṛḷhāni*)—firmly
+- दृढितानि (*dṛḍhitāni*)—have been established
+- स्थिराणि (*sthirāṇi*)—those luminous spheres standing securely
+- न पराणुदे (*na parāṇude*)—are so firm that they cannot be moved by others
+
+##### भावार्थ (Bhāvārtha)
+
+The stars and so on, belonging to heaven and radiant, have been firmly established by Indra in the firmament. No one is able to make those securely standing luminous spheres move.
+
+##### English translation
+By Indra, the constellations were made stable and firm and stationary, so that they could not be moved by any.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पामू॒र्मिर्मद॑न्निव॒ स्तोम॑ इंद्राजिरायते ।  
+> वि ते॒ मदा॑ अराजिषुः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपां । ऊर्मिः । मदन् इव । स्तोमः । इंद्र । अजिरयते ।  
+> वि । श्वे । मदाः । अराजिषुः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपां समुद्राणामूर्मिस्तरंगो मदन्निव यथा माद्यन्नु पर्युपरि जायते । हे इंद्र स्तोमस्त्वदीयं स्तोत्रं तथाजिरायते । अजिरः क्षिप्रगामी । स
+> इवाचरति । अपि च ते त्वदीया मदाः स्तोत्रजन्याश्च व्यराजिषुः ।
+> विशेषेण राजंते । दीप्यंते ॥
+
+##### Gist of the bhāṣya
+
+As a wave of the waters, of the seas, rises up one upon another as if exhilarated, so, O Indra, your praise (stoma) acts like अजिर (*ajira*), the swift-going one. Moreover your exhilarations (madas), born of praise, shine forth specially, are brilliant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अपां (*apāṃ*)—of the seas
+- ऊर्मिः (*ūrmiḥ*)—the waves
+- मदन्निव (*madanniva*)—as they swell abundantly one upon another
+- स्तोमः (*stomaḥ*)—the hymns that praise you
+- अजिरायते (*ajirāyate*)—arise in abundance
+- ते (*te*)—your
+- मदाः (*madāḥ*)—joys
+- व्यराजिषु (*vyarājiṣu*)—shine forth **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 708. pp. 703-708 (batch API)
+**Progress note:** Done through printed p. 715. pp. 709-715 (batch API)
