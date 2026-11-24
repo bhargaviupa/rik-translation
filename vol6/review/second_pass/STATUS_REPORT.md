@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 280 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271)
-- **Findings:** 530 — applied 373, questions 157; edits ok 383, failed 0
-- **Reader tokens (batches so far):** 2467k; per page 8.8k
-- **Last commit:** e5f80e2
+- **Pages read:** 308 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299)
+- **Findings:** 582 — applied 412, questions 170; edits ok 422, failed 0
+- **Reader tokens (batches so far):** 2467k; per page 8.0k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -21,24 +21,25 @@
 | 8 | 182–211 | 52 | 40 | 40 / 0 | 12 | 265k | 24b7437 | 18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question |
 | 9 | 212–241 | 42 | 37 | 37 / 0 | 5 | 212k | 4a72102 | 22 S2, 4 S3 number repairs, R3 quotation repairs (Taittirīya, Skandasvāmin); English pp. 232–235 shifted against the Kannada (see open items); duplicate removed from English p. 213/214 |
 | 10 | 242–271 | 46 | 32 | 32 / 0 | 14 | 220k | e5f80e2 | 24 S2 number repairs, 5 S7 quotation repairs; no '### Page 259' heading in the English; English p. 256/257 shifted (see open items) |
+| 11 | 272–299 | 52 | 39 | 39 / 0 | 13 | TOK10 | @C@ | 11 S1 + 14 S3 (five running heads Varga [?] → 14) number repairs, 5 S7 quotation repairs; no page shifts |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
-| S2 | 148 | 1 | 149 |
-| H29 | 1 | 129 | 130 |
-| S1 | 70 | 3 | 73 |
-| S14 | 49 | 6 | 55 |
-| S7 | 46 | 7 | 53 |
-| S16 | 24 | 3 | 27 |
-| S3 | 12 | 0 | 12 |
+| S2 | 149 | 1 | 150 |
+| H29 | 1 | 142 | 143 |
+| S1 | 80 | 3 | 83 |
+| S14 | 54 | 6 | 60 |
+| S7 | 50 | 7 | 57 |
+| S16 | 27 | 3 | 30 |
+| S3 | 28 | 0 | 28 |
 | S13 | 5 | 5 | 10 |
 | R3 | 8 | 2 | 10 |
 | S17 | 7 | 1 | 8 |
 | S15 | 2 | 0 | 2 |
 | S18 | 1 | 0 | 1 |
 
-By reader: R1 339, R3 129, R6 62
+By reader: R1 374, R3 133, R6 75
 
 ## 4. Open items (not findings)
 - **marker** (pages 65-66): The text of p. 66 stands inside the p. 65 block of the Kannada book (head missing): the page marker needs a fix; the English p. 66 matches that text
@@ -53,9 +54,11 @@ By reader: R1 339, R3 129, R6 62
 - **boundary-shifted** (pages 256-257): English p. 256 holds the pratipadārtha of Ṛk 69.5 that is on Kannada p. 257
 - **block-not-read** (pages 268): bhāṣya block (Devanagari and IAST) still has tai. brā. [1-1-9-2?], [1-1-9-10?], ni. [1-11?]; the Kannada prints 2-1-2-7, 2-1-2-10, 2-11 (corrected in the Meaning and Special Topics paragraphs only)
 - **block-not-read** (pages 252, 255): Kannada grammar tails print ६-७ / ८-९ while its own Saṃhitā/Pada blocks print ५-६ / ७-८; English follows the blocks (a question row)
+- **block-not-read** (pages 280, 284, 293): bhāṣya-tail characterisations still have [?] numerals (Uṇ. [2-28?] on p. 280; Uṇ. 2-97, 4-73, Phiṭ., Pā. 5-2-122 on pp. 284, 293); they come from the bhāṣya, not from the Kannada numerals; for the editor
+- **other** (pages 283): The Kannada heading prints "ಸೂಕ್ತ-೨೧" where the English gives 71 (question row)
 
 ## 5. Questions for the editor
-156 rows in `questions.tsv`; by kind: H29 129, R3 2, S1 3, S13 5, S14 6, S16 3, S17 1, S2 1, S7 7
+169 rows in `questions.tsv`; by kind: H29 142, R3 2, S1 3, S13 5, S14 6, S16 3, S17 1, S2 1, S7 7
 
 ## 6. Files
 `vol6/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)

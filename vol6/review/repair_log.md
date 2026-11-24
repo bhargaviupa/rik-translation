@@ -464,3 +464,46 @@
 | 270 | `Pā. [6-1-15]` → `Pā. 6-1-15` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೬-೧-೧೫ (brackets removed) |
 | 270 | `Pā. [6-2-139]` → `Pā. 6-2-145` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೬-೨-೧೪೫ |
 | 270 | `Pā. [8-3-1]` → `Pā. 8-3-1` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೮-೩-೧ (brackets removed) |
+
+### 2026-11-24 second pass, batch e272-299.tsv
+| page | old → new | why |
+|---|---|---|
+| 272 | `(the material of the sacrifice)` → `(because they are things to be burned)` | SECOND-PASS S14: Kannada ವೃಕ್ಷಾದಿಗಳಿಂದ (ದಹ್ಯಪದಾರ್ಥಗಳಾದುದರಿಂದ) |
+| 272 | `(the creatures)` → `(by worship and the like)` | SECOND-PASS S14: Kannada ಮನುಷ್ಯಾದಿಗಳಿಂದ (ಪೂಜಾದಿಗಳಿಂದ) |
+| 272 | `grown by water` → `abiding in the water` | SECOND-PASS S14: Kannada ಉದಕಸ್ಥನಾದ ಅಗ್ನಿಯು (abiding in water, not grown by it) |
+| 273 | `Aṣṭaka 1, Adhyāya 5, Varga [?]` → `Aṣṭaka 1, Adhyāya 5, Varga 14` | SECOND-PASS S3: Kannada running head ವ. ೧೪ |
+| 273 | `(bright and dark, different from the preceding)` → `(different from darkness and light)` | SECOND-PASS S14: Kannada ಕತ್ತಲೆ ಮತ್ತು ಬೆಳಕು ಇವುಗಳಿಂದ ಬೇರೆಯದಾದ ರೂಪ |
+| 274 | `(Pā. [6-1-15])` → `(Pā. 6-1-56)` | SECOND-PASS S1: Kannada ಪಾ. ಸೂ. ೬-೧-೫೬ |
+| 274 | `*saṃprasāraṇasya saṃprasāraṇam*` → `*na saṃprasāraṇe saṃprasāraṇam*` | SECOND-PASS S7: Kannada ನ ಸಂಪ್ರಸಾರಣೇ ಸಂಪ್ರಸಾರಣಮ್ (letters: na, e for asya) |
+| 275 | `Aṣṭaka 1, Adhyāya 5, Varga [?]` → `Aṣṭaka 1, Adhyāya 5, Varga 14` | SECOND-PASS S3: Kannada running head ವ. ೧೪ |
+| 277 | `Aṣṭaka 1, Adhyāya 5, Varga [?]` → `Aṣṭaka 1, Adhyāya 5, Varga 14` | SECOND-PASS S3: Kannada running head ವ. ೧೪ |
+| 277 | `hundred names of water (Ni. [1-12?]; as read, ?)` → `hundred and one names of water (Ni. 2-24)` | SECOND-PASS S1: Kannada ನೂರೊಂದು ಉದಕನಾಮಗಳಲ್ಲಿ (ನಿ. ೨-೨೪) |
+| 277 | `eighteen [as read, ?] names of wealth (Ni. [2-10?])` → `twenty-eight names of wealth (Ni. 3-9)` | SECOND-PASS S1: Kannada ಇಪ್ಪತ್ತೆಂಟು ಧನನಾಮಗಳಲ್ಲಿ ... (ನಿ. ೩-೯) |
+| 277 | `*rekṇaḥ*, *iṇaḥ* and the rest` → `*rekṇaḥ* and the rest` | SECOND-PASS S16: Kannada ಮಘಂ, ರೇಕ್ಲಃ, ಇವೇ ಮೊದಲಾದ: no iṇaḥ |
+| 277 | `(Ṛk. Saṃ. [8-?]; as read, ?)` → `(Ṛk. Saṃ. 1-12-1)` | SECOND-PASS S3: Kannada (ಋ. ಸಂ. ೧-೧೨-೧) |
+| 278 | `*ādeśapratyayayoḥ* (Pā. [8-3-59])` → `*ādeśapratyayayoḥ*` | SECOND-PASS S2: Kannada ಆದೇಶ ಪ್ರತ್ಯಯಯೋಃ ಎಂಬುದರಿಂದ prints no number; number not from the supplied text |
+| 278 | `(Kā. [6-1-8-1?])` → `(Kā. 6-1-8-1)` | SECOND-PASS S3: Kannada (ಕಾ. ೬-೧-೮-೧) |
+| 278 | `(Uṇ. [4-54?])` → `(Uṇ. 4-494)` | SECOND-PASS S1: Kannada ಉ. ಸೂ. ೪-೪೯೪ |
+| 278 | `(Kā. [8-2-76?])` → `(Kā. 8-2-78)` | SECOND-PASS S1: Kannada ಕಾ. ೮-೨-೭೮ |
+| 279 | `Aṣṭaka 1, Adhyāya 5, Varga [?]` → `Aṣṭaka 1, Adhyāya 5, Varga 14` | SECOND-PASS S3: Kannada running head ವ. ೧೪ |
+| 280 | `carefully accepts everything` → `quickly accepts everything` | SECOND-PASS S14: Kannada ಜಾಗ್ರತೆಯಾಗಿ ಸ್ವೀಕರಿಸುವನು (jāgrate = quickly; Sāyaṇa āśu) |
+| 281 | `Aṣṭaka 1, Adhyāya 5, Varga [?]` → `Aṣṭaka 1, Adhyāya 5, Varga 14` | SECOND-PASS S3: Kannada running head ವ. ೧೪ |
+| 281 | `*yotir itra vadhārthaḥ*` → `*yātir atra vadhārthaḥ*` | SECOND-PASS S7: Kannada ಯಾತಿರತ್ರ ವಧಾರ್ಥಃ (letters yo→yā, i→a) |
+| 281 | `(Ṛk. Saṃ. [1-32-14?], as read)` → `(Ṛk. Saṃ. 1-32-14)` | SECOND-PASS S3: Kannada (ಋ. ಸಂ. ೧-೩೨-೧೪) |
+| 281 | `(Ni. [2-17?], as read) among the seventy-odd [as read, ?] names of battle` → `(Ni. 3-9) among the forty-six names of battle` | SECOND-PASS S1: Kannada ಸಮತ್ಸು ಎಂಬ ಶಬ್ದವು (ನಿ. ೩-೯) ನಲವತ್ತಾರು ಸಂಗ್ರಾಮನಾಮಗಳಲ್ಲಿ |
+| 281 | `Uṇ. [2-28?]` → `Uṇ. 2-183` | SECOND-PASS S1: Kannada ಶುಷಿಚಿಮಾನಾಂ ದೀರ್ಘಶ್ಚ (ಉ. ಸೂ. ೨-೧೮೩) |
+| 282 | `(Pā. [3-1-134])` → `(Pā. 3-1-154)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೩-೧-೧೫೪) |
+| 285 | `*gayaḥ*, *kṣayaḥ*, *durāḥ* and so on` → `*gayaḥ*, *kṛdaraḥ* and so on` | SECOND-PASS S7: Kannada ಗಯಃ, ಕೃದರಃ, ಇತ್ಯಾದಿ ೨೨ ಗೃಹನಾಮಗಳಲ್ಲಿ |
+| 285 | `Ṛk. Saṃ. [9-72-2?]` → `Ṛk. Saṃ. 9-72-2` | SECOND-PASS S3: Kannada ಋ. ಸಂ. ೯-೭೨-೨ |
+| 285 | `[1-165-1; 7-56-1?]` → `1-165-1; 7-56-1` | SECOND-PASS S3: Kannada ೧-೧೬೫-೧ ; ೭-೫೬-೧ |
+| 286 | `*saha janayaḥ — jāyāḥ*` → `*janayaḥ — jāyāḥ*` | SECOND-PASS S16: Kannada ಇಲ್ಲಿಯೂ ಸಹ ಜನಯಃ-ಜಾಯಾಃ ಎಂದು ... (no saha in the Sanskrit) |
+| 287 | `Pā. [6-1-173]` → `Pā. 6-6-173` | SECOND-PASS S1: Kannada ಶತುರನುಮೋನದ್ಯಜಾದೀ (ಪಾ. ಸೂ. ೬-೬-೧೭೩) |
+| 287 | `*tyab-bhedhruve* in the sense` → `*tyab-bhedhruve* (Vā. 2780) in the sense` | SECOND-PASS S3: Kannada ತ್ಯಭೇಧ್ರುವ ಇತಿ ವಕ್ತವ್ಯಮ್ (ವಾ. ೨೭೮೦) |
+| 287 | `Uṇ. [2-253?]` → `Uṇ. 2-253` | SECOND-PASS S3: Kannada ಉ. ಸೂ. ೨-೨೫೩ |
+| 287 | `Uṇ. [4-513?]` → `Uṇ. 4-513` | SECOND-PASS S3: Kannada ಉ. ಸೂ. ೪-೫೧೩ |
+| 290 | `twenty-two names of strength` → `twenty-eight names of strength` | SECOND-PASS S1: Kannada ಇತ್ಯಾದಿ ೨೮ ಬಲನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೯) |
+| 294 | `fix their minds on him` → `turn towards him` | SECOND-PASS S16: Kannada ಅಗ್ನಿಗಭಿಮುಖರಾಗಿ (turned towards Agni); no 'fix their minds' |
+| 295 | `among the names of 'work' (Ni. 3-1)` → `among the twenty-six names of 'work' (Ni. 3-1)` | SECOND-PASS S3: Kannada ಇತ್ಯಾದಿ ೨೬ ಕರ್ಮನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೧) |
+| 295 | `among the names of food (Ni. 3-9)` → `among the twenty-eight names of food (Ni. 3-9)` | SECOND-PASS S3: Kannada ಇತ್ಯಾದಿ ೨೮ ಅನ್ನನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೯) |
+| 296 | `*ko* affix` → `*kū* affix` | SECOND-PASS S7: Kannada ಕೂಪ್ರತ್ಯಯ (the sūtra list kūpa-jambū... is kū-affix) |
+| 296 | `Phiṭ. [17?]` → `Phiṭ. 17` | SECOND-PASS S3: Kannada (ಫಿ. ಸೂ. ೧೭) |

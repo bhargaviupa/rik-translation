@@ -5443,7 +5443,7 @@ arādhi hotā svar niṣattaḥ kṛṇvan viśvāny apāṃsi satyā ||7||8||*
 
 **॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
 
-May Agni, grown by the many dawns of white and dark colours and by the nights, grown by the standing things such as trees (the material of the sacrifice) and the moving men and the rest (the creatures), grown by water; propitiated by the priests in the sacrificial hall, calling the other gods to the sacrifice, make all the deeds done by the sacrificer bear true fruits.
+May Agni, grown by the many dawns of white and dark colours and by the nights, grown by the standing things such as trees (because they are things to be burned) and the moving men and the rest (by worship and the like), abiding in the water; propitiated by the priests in the sacrificial hall, calling the other gods to the sacrifice, make all the deeds done by the sacrificer bear true fruits.
 
 *(The page ends with the Bhāvārtha; the source's English and Special Topics of Rik 70.4 follow on p. 273.)*
 
@@ -5451,7 +5451,7 @@ May Agni, grown by the many dawns of white and dark colours and by the nights, g
 
 ### Page 273 (PDF 291)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 18".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14"; foot signature "VI 18".)*
 
 **English Translation** *(the source's own, as printed):*
 
@@ -5459,7 +5459,7 @@ May Agni, grown by the many dawns of white and dark colours and by the nights, g
 
 **॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
 
-- **पूर्वीः विरूपाः क्षपः यं वर्धान्** — "*bahvya uṣasaḥ niśāś ca śuklakṛṣṇatayo vividharūpāḥ*": "Because the oblation is made to Agni both in the dawns, which take on forms of various kinds (bright and dark, different from the preceding), and in the nights, the dawns and the night too make Agni grow — thus Sāyaṇa's bhāṣya says, ascribing the agency [of 'increasing'] to them. Skandasvāmin takes the word *kṣapā* in two senses: night, and praise."
+- **पूर्वीः विरूपाः क्षपः यं वर्धान्** — "*bahvya uṣasaḥ niśāś ca śuklakṛṣṇatayo vividharūpāḥ*": "Because the oblation is made to Agni both in the dawns, which take on forms of various kinds (different from darkness and light), and in the nights, the dawns and the night too make Agni grow — thus Sāyaṇa's bhāṣya says, ascribing the agency [of 'increasing'] to them. Skandasvāmin takes the word *kṣapā* in two senses: night, and praise."
 - **ऋतप्रवीतम्** — *ṛtena udakena satyena yajñena vā prakarṣeṇa veṣṭitam* — "The word *ṛta* means water, truth, and deeds in the form of sacrifice; the meaning is that Agni is joined with them. Skandasvāmin says the word *ṛta* denotes sacrifice; he explains the word *ṛtapravīta* as 'one who is much known to the sacrificers in the sacrifice'; or 'one who is born of the *araṇi* for those who perform the sacrifice'; or 'one who is firmly appointed to receive the oblation-portions in the sacrificial rites'. He also gives the meaning that Agni is seated comfortably on the altar in all the sacrificial rites and serves the gods with the oblation-portions."
 - **सः निषत्तः होता अराधि** — "*araṇīye devayajane suṣṭhu niṣaṇṇa upaviṣṭaḥ san devānām āhvātā saṃsiddho 'bhūt* — born in the *araṇi*, seated on the altar where oblations are offered to the gods, he is established as the one who invokes the gods to receive the oblation-portions. Or Sāyaṇa explains: he is served by the priests in the sacrifices (*ṛtvigbhir arādhi, ārādhita*)."
 
@@ -5475,13 +5475,13 @@ May Agni, grown by the many dawns of white and dark colours and by the nights, g
 
 **Grammar page of Rik 70.4 (continued; noted briefly, not transcribed)**
 
-*vardhān* — after the ṇijanta, *leṭ* third person plural, *jhi*; *antādeśa* by *jho 'ntaḥ*; loss of the final *i* of the ending by *iteś ca lopaḥ parasmaipadeṣu*; the *aḍāgama* by *leṭo 'ḍāṭau*; *chandasy ubhayathā* (Pā. [3-4-117]) gives *śap* the ārdhadhātuka designation, hence loss of *ṇi* by *ṇeraniṭi* (Pā. [6-4-51]); loss of the final *t* by *saṃyogāntasya lopaḥ*; the form is *vardhān*; nighāta accent because it is not at the head of a pāda; the root accent makes the first syllable acute. *ṛtapravītam* — root *vyeñ* ("to cover"); *kta* in the passive; samprasāraṇa by *vacisvapiyajādīnāṃ kiti* (Pā. [6-1-15]); the *saṃprasāraṇasya saṃprasāraṇam* prohibition of a second samprasāraṇa is met by the rule that the *i* gained in place of *y* takes the former form (*saṃprasāraṇāc ca*); lengthening by *halaḥ* (Pā. [6-4-2]); *ṛtena prakarṣeṇa vītam* — by the paribhāṣā *kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇam* ("a kṛt-affix includes one preceded by a prefix or a kāraka"), *pravītam* with the prefix *pra* is included; by *tṛtīyā karmaṇi* (Pā. [6-2-48]) in the compound the first member keeps its natural accent. *arādhi* — root *rādh/sādh* "to accomplish"; *luṅ* in the active; *tip*, singular; *cli* replaced by *ciṇ* by *vyatyayo bahulam*; *ciṇo luk* (Pā. [6-4-104]) deletes the *ta* following *ciṇ*; the augment *aṭ* on the base; nighāta not applied at the pāda's head; the *aṭ*-augment being udātta the word has its first syllable acute. *niṣattaḥ* — root *sad* with *ni* and *vi*…, *kta*; by *radābhyāṃ niṣṭhāto naḥ* (Pā. [8-2-42]) the *n* would be due; the absence of *na* is by the nipāta *nasatta niṣattānuttā* (Pā. [8-2-61]) — read with doubt [?]. *kṛṇvan* — root *kṛvi* in the sense of injury, with the many senses of roots, here "doing"; *num* because *it*; *śatṛ* in the present; or the root *ḍukṛñ* "to do", with *śatṛ* … *śnu*-vikaraṇa by *vyatyaya*; nominative singular. Ends "॥ ७–८ ॥" (as read). *Grammar page, noted briefly; the sūtra numerals and several readings are doubtful [?].*
+*vardhān* — after the ṇijanta, *leṭ* third person plural, *jhi*; *antādeśa* by *jho 'ntaḥ*; loss of the final *i* of the ending by *iteś ca lopaḥ parasmaipadeṣu*; the *aḍāgama* by *leṭo 'ḍāṭau*; *chandasy ubhayathā* (Pā. [3-4-117]) gives *śap* the ārdhadhātuka designation, hence loss of *ṇi* by *ṇeraniṭi* (Pā. [6-4-51]); loss of the final *t* by *saṃyogāntasya lopaḥ*; the form is *vardhān*; nighāta accent because it is not at the head of a pāda; the root accent makes the first syllable acute. *ṛtapravītam* — root *vyeñ* ("to cover"); *kta* in the passive; samprasāraṇa by *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-56); the *na saṃprasāraṇe saṃprasāraṇam* prohibition of a second samprasāraṇa is met by the rule that the *i* gained in place of *y* takes the former form (*saṃprasāraṇāc ca*); lengthening by *halaḥ* (Pā. [6-4-2]); *ṛtena prakarṣeṇa vītam* — by the paribhāṣā *kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇam* ("a kṛt-affix includes one preceded by a prefix or a kāraka"), *pravītam* with the prefix *pra* is included; by *tṛtīyā karmaṇi* (Pā. [6-2-48]) in the compound the first member keeps its natural accent. *arādhi* — root *rādh/sādh* "to accomplish"; *luṅ* in the active; *tip*, singular; *cli* replaced by *ciṇ* by *vyatyayo bahulam*; *ciṇo luk* (Pā. [6-4-104]) deletes the *ta* following *ciṇ*; the augment *aṭ* on the base; nighāta not applied at the pāda's head; the *aṭ*-augment being udātta the word has its first syllable acute. *niṣattaḥ* — root *sad* with *ni* and *vi*…, *kta*; by *radābhyāṃ niṣṭhāto naḥ* (Pā. [8-2-42]) the *n* would be due; the absence of *na* is by the nipāta *nasatta niṣattānuttā* (Pā. [8-2-61]) — read with doubt [?]. *kṛṇvan* — root *kṛvi* in the sense of injury, with the many senses of roots, here "doing"; *num* because *it*; *śatṛ* in the present; or the root *ḍukṛñ* "to do", with *śatṛ* … *śnu*-vikaraṇa by *vyatyaya*; nominative singular. Ends "॥ ७–८ ॥" (as read). *Grammar page, noted briefly; the sūtra numerals and several readings are doubtful [?].*
 
 ---
 
 ### Page 275 (PDF 293)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.5** *(printed Ṛk "9 || 10 ||", as read)* *(accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)*
 
@@ -5542,14 +5542,14 @@ O Agni! May (through your grace) the best cattle and the like, and the wealth br
 
 ### Page 277 (PDF 295)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14".)*
 
 **॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
 
 - **जिव्रेः पितुर्न वेदः वि भरंते** — "*jīrṇāt vṛddhāt pitur iva tvatto viśeṣeṇa dhanaṃ gṛhṇanti; yathā putrāḥ vṛddhāt pituḥ sakāśāt dhanaṃ haranti*" — "Agni, being the one who is favoured by sacrificers, priests and all, shows grace to them all; therefore they obtain from Agni wealth of many kinds. In the world, when the father has grown old the sons receive all his wealth, willingly. Like this, the priests and others receive wealth through the service of Agni — such is the meaning."
 - *Skandasvāmin's commentary* explains the word *veda* as wealth in the form of oblations, and describes it thus: "Just as for an aged father the sons bring a variety of pleasing foods and the like, so to Agni those who sacrifice offer many kinds of oblations."
-- **वनेषु** — *vananīyeṣu cāśvādiṣu | udakanāma vā vanaśabdaḥ udakeṣu* (Skandasvāmin) — "The word *vana* is read among the hundred names of water (Ni. [1-12?]; as read, ?). In the sense of horses and the like, the word is used by transfer to mean moving animals of extreme speed; the sense is that Agni grants this ability to them."
-- **वेदः** — *vidyate labhyate iti vedaḥ* | *veda iti dhananāma* — "It exists and is obtained by all; hence *veda* means wealth. *Veda* is read among the eighteen [as read, ?] names of wealth (Ni. [2-10?]), together with *maghaṃ*, *rekṇaḥ*, *iṇaḥ* and the rest. In the exposition of the Nirukta, the word *veda* — formed from the root *vid* "to obtain" — is explained: 'by this are obtained *dharma* and the like'; the example given is '*hotāraṃ viśvavedasam*' (Ṛk. Saṃ. [8-?]; as read, ?)."
+- **वनेषु** — *vananīyeṣu cāśvādiṣu | udakanāma vā vanaśabdaḥ udakeṣu* (Skandasvāmin) — "The word *vana* is read among the hundred and one names of water (Ni. 2-24). In the sense of horses and the like, the word is used by transfer to mean moving animals of extreme speed; the sense is that Agni grants this ability to them."
+- **वेदः** — *vidyate labhyate iti vedaḥ* | *veda iti dhananāma* — "It exists and is obtained by all; hence *veda* means wealth. *Veda* is read among the twenty-eight names of wealth (Ni. 3-9), together with *maghaṃ*, *rekṇaḥ* and the rest. In the exposition of the Nirukta, the word *veda* — formed from the root *vid* "to obtain" — is explained: 'by this are obtained *dharma* and the like'; the example given is '*hotāraṃ viśvavedasam*' (Ṛk. Saṃ. 1-12-1)."
 - **गोषु** — *asmadīyeṣu paśuṣu* — "The word *go* is read in the Nirukta among the meanings 'heaven, sun, horse, speech, plough-furrow, ray' (in the middle of the *āyāyā* words, ?); here it is used in the sense of animal (*paśu*). The sacrificers pray to Agni that the excellent cattle that are suited to sacrifices and the like may be obtained by us."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 70.5, noted briefly; begun at the foot of p. 277)*
@@ -5564,13 +5564,13 @@ O Agni! May (through your grace) the best cattle and the like, and the wealth br
 
 **Grammar page of Rik 70.5 (continued; noted briefly, not transcribed)**
 
-*dhiṣe* (continued): *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; the non-doubling in the *liṭ* by the Kāśikā statement *dvirvacanaprakaraṇe chandasi vā vaktavyam* (Kā. [6-1-8-1?]); by *asaṃyogāl liṭ kit* (Pā. [1-2-5]) the affix is *kit*, hence loss of the *ā* of the root by *āto lopa iṭi ca* (Pā. [6-4-64]); *ṣatva* of the affix's *s* by *ādeśapratyayayoḥ* (Pā. [8-3-59]); the nighāta accent by *tiṅ ati-ṅaḥ* (Pā. [8-1-28]) as read, since a tiṅanta word *dhiṣe* is not at the head of a pāda. *bharante* — root *hṛñ* "to carry"; though a root shows a special sense through a prefix, here the sense is conveyed by the root alone, the prefix being just an addition; the Vedic *laṅ* in the present sense; *jhi*→*jho 'ntaḥ*, with *anta*; *śap*; guṇa of *i*; *rūpa* by *ato guṇe*; no *aḍ* augment by *bahulaṃ chandasy āmāṅyoge 'pi* (Pā. [6-4-73]); *bha* for the *ha* of the root by *hṛgrahor bhaś chandasi*; because of the prohibition *atijaḥ*, no nighāta; the root accent remains. *purutrā* — *trā* by *devamanuṣyapuruṣapurumartyebhyo dvitīyā…* (Pā. [5-4-56]), in the sense of the locative. *jivreḥ* — root *jyāṣ* "to lose strength"; *kvin* by *jyaśvasvyāṃ…* (Uṇ. [4-54?]); *ṛta id dhātoḥ* (Pā. [7-1-100]) gives *i* for *ṛ*; *uraṇ raparaḥ*; the lengthening by *halica* is not applicable, as the Kāśikā statement "Uṇādi words are underived stems; with *jivri*, *kiri*, *giri* the long is not made" (Kā. [8-2-76?]) explains; the transposition of *r* and *v* is Vedic; *kvin* being *nit*, the first syllable is acute (*ñnityādir nityam*). *vedaḥ* — *veda* a name for wealth; root *vidḷ* "to obtain", *asun* on the object *… (page ends here; the rest on p. 279).* *Grammar pages, noted briefly; sūtra numerals read as printed and doubtful [?].*
+*dhiṣe* (continued): *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; the non-doubling in the *liṭ* by the Kāśikā statement *dvirvacanaprakaraṇe chandasi vā vaktavyam* (Kā. 6-1-8-1); by *asaṃyogāl liṭ kit* (Pā. [1-2-5]) the affix is *kit*, hence loss of the *ā* of the root by *āto lopa iṭi ca* (Pā. [6-4-64]); *ṣatva* of the affix's *s* by *ādeśapratyayayoḥ*; the nighāta accent by *tiṅ ati-ṅaḥ* (Pā. [8-1-28]) as read, since a tiṅanta word *dhiṣe* is not at the head of a pāda. *bharante* — root *hṛñ* "to carry"; though a root shows a special sense through a prefix, here the sense is conveyed by the root alone, the prefix being just an addition; the Vedic *laṅ* in the present sense; *jhi*→*jho 'ntaḥ*, with *anta*; *śap*; guṇa of *i*; *rūpa* by *ato guṇe*; no *aḍ* augment by *bahulaṃ chandasy āmāṅyoge 'pi* (Pā. [6-4-73]); *bha* for the *ha* of the root by *hṛgrahor bhaś chandasi*; because of the prohibition *atijaḥ*, no nighāta; the root accent remains. *purutrā* — *trā* by *devamanuṣyapuruṣapurumartyebhyo dvitīyā…* (Pā. [5-4-56]), in the sense of the locative. *jivreḥ* — root *jyāṣ* "to lose strength"; *kvin* by *jyaśvasvyāṃ…* (Uṇ. 4-494); *ṛta id dhātoḥ* (Pā. [7-1-100]) gives *i* for *ṛ*; *uraṇ raparaḥ*; the lengthening by *halica* is not applicable, as the Kāśikā statement "Uṇādi words are underived stems; with *jivri*, *kiri*, *giri* the long is not made" (Kā. 8-2-78) explains; the transposition of *r* and *v* is Vedic; *kvin* being *nit*, the first syllable is acute (*ñnityādir nityam*). *vedaḥ* — *veda* a name for wealth; root *vidḷ* "to obtain", *asun* on the object *… (page ends here; the rest on p. 279).* *Grammar pages, noted briefly; sūtra numerals read as printed and doubtful [?].*
 
 ---
 
 ### Page 279 (PDF 297)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14".)*
 
 **Grammar page of Rik 70.5 (concluded; noted briefly):** *vedaḥ* — guṇa of the light penultimate by the affix; *vedas* is a neuter stem in *s*, here the accusative singular. *bharante* — the process was explained earlier; because of the prohibition *atijaḥ* (as read) the nighāta accent is applied by *tiṅ atiṅaḥ*. Ends "॥ ९–१० ॥" (as read). *Grammar page, noted briefly.*
 
@@ -5625,24 +5625,24 @@ May Agni — able to accomplish the undertaken works; who, as a warrior drives a
 **॥ विशेषविषयगळು ॥ — Special Topics** *(Kannada)*
 
 - *Note on the metre:* "As in the Ṛks of the *dvipadā-virāṭ* metre told up to here, this Ṛk too is to be read [so]. In the earlier sūktas of the *dvipadā-virāṭ* metre there are ten Ṛks each [ten + ten half-Ṛks as read, ?]. In this sūkta, with this Ṛk, there are eleven Ṛks. This is the last Ṛk." *(The source's count of "eleven" refers to the eleven half-Ṛks, printed as six Ṛks.)*
-- **साधुर्न गृध्नुः** — *sādhakaḥ sādhyaphalamāśu yathā gṛhṇāti tathā ayam agnir api sarvaṃ svīkarotīty arthaḥ* — "The word *na* is a particle of comparison. As a man who has accomplished a work quickly obtains the fruit that is to be obtained, so Agni carefully accepts everything that is offered to him."
+- **साधुर्न गृध्नुः** — *sādhakaḥ sādhyaphalamāśu yathā gṛhṇāti tathā ayam agnir api sarvaṃ svīkarotīty arthaḥ* — "The word *na* is a particle of comparison. As a man who has accomplished a work quickly obtains the fruit that is to be obtained, so Agni quickly accepts everything that is offered to him."
 
 ---
 
 ### Page 281 (PDF 299)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14".)*
 
 **Special Topics of Rik 70.6 (continued)**
 
 - *Skandasvāmin* on **गृध्नुः** — "*abhikāṅkṣitā*" — "one who desires. As a worthy man seeks only the aims that are justly his, so Agni too justly desires praises and oblations. A good man, accomplishing works in the right way, desires the benefits; thus Agni also desires from the sacrificers, in the right manner, the praises and the oblations."
 - **अस्तेव शूरः** — *astā kṣepaṇaśīlaḥ* — "*Astā* is formed from the root *as kṣepaṇe* ('to cast'), meaning 'one who throws'. As a hero throws arrows and other weapons in order to kill the enemies, so Agni too, it is said, restrains the enemies."
-- **यातेव भीमः** — "Sāyaṇa says the root *yā* is used in the sense of harming. Skandasvāmin says '*yotir itra vadhārthaḥ*' [as read, ?] and quotes '*aher yātāram*' (Ṛk. Saṃ. [1-32-14?], as read). *Yātā* means 'one who harms'; so Agni, like a harmful man, causes fear at the very sight."
-- **समत्सु** — *saṃgrāmeṣu* — "In the battles. The word *samatsu* is read (Ni. [2-17?], as read) among the seventy-odd [as read, ?] names of battle."
+- **यातेव भीमः** — "Sāyaṇa says the root *yā* is used in the sense of harming. Skandasvāmin says '*yātir atra vadhārthaḥ*' [as read, ?] and quotes '*aher yātāram*' (Ṛk. Saṃ. 1-32-14). *Yātā* means 'one who harms'; so Agni, like a harmful man, causes fear at the very sight."
+- **समत्सु** — *saṃgrāmeṣu* — "In the battles. The word *samatsu* is read (Ni. 3-9) among the forty-six names of battle."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 70.6, noted briefly; not transcribed)*
 
-Words treated: *gṛdhnuḥ* (root *gṛdhu* "to desire"; affix *knu* by *trasigṛdhidhṛṣikṣipeḥ knuḥ*, Pā. [3-2-140]; kit, so no guṇa; accent on the affix); *astā* (root *asu kṣepaṇe*; *tṛn* in the agent sense; nit, so first-syllable acute; *su* after it, *anaṅ* by *ṛdusanas…*; lengthening of the penultimate by *apṛkta…*; *halṅyābbhyo* removes the *su*; *nalopaḥ prātipadikāntasya*); *śūraḥ* (root *śu* "to go", the causative sense included; *kran* by *ṛṣicimīnāṃ dīrghaś ca*, Uṇ. [2-28?]; the initial *k* of the affix dropped by *lashakvataddhite*; lengthening of the root; nit, so first-syllable acute by *ñnityādir nityam*). *(The page ends with *śūraḥ*; the grammar of *yātā*, *bhīmaḥ* and *tveṣaḥ*, and the sūkta's closing line, follow on p. 282.) Grammar page, noted briefly; the sūtra numerals are doubtful [?].*
+Words treated: *gṛdhnuḥ* (root *gṛdhu* "to desire"; affix *knu* by *trasigṛdhidhṛṣikṣipeḥ knuḥ*, Pā. [3-2-140]; kit, so no guṇa; accent on the affix); *astā* (root *asu kṣepaṇe*; *tṛn* in the agent sense; nit, so first-syllable acute; *su* after it, *anaṅ* by *ṛdusanas…*; lengthening of the penultimate by *apṛkta…*; *halṅyābbhyo* removes the *su*; *nalopaḥ prātipadikāntasya*); *śūraḥ* (root *śu* "to go", the causative sense included; *kran* by *ṛṣicimīnāṃ dīrghaś ca*, Uṇ. 2-183; the initial *k* of the affix dropped by *lashakvataddhite*; lengthening of the root; nit, so first-syllable acute by *ñnityādir nityam*). *(The page ends with *śūraḥ*; the grammar of *yātā*, *bhīmaḥ* and *tveṣaḥ*, and the sūkta's closing line, follow on p. 282.) Grammar page, noted briefly; the sūtra numerals are doubtful [?].*
 
 ---
 
@@ -5650,7 +5650,7 @@ Words treated: *gṛdhnuḥ* (root *gṛdhu* "to desire"; affix *knu* by *trasig
 
 *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71" as read [the Kannada numerals are small].)*
 
-**Grammar page of Rik 70.6 (concluded; noted briefly):** *tveṣaḥ* — root *tviṣ* "to shine"; affix *ac* by *nandigrahipacādibhyaḥ…* (Pā. [3-1-134]); guṇa of the light penultimate for the sake of the affix; the affix being *cit*, the final syllable is acute by *cito 'ntodāttaḥ* (Pā. [6-1-163]). *Grammar page, noted briefly.*
+**Grammar page of Rik 70.6 (concluded; noted briefly):** *tveṣaḥ* — root *tviṣ* "to shine"; affix *ac* by *nandigrahipacādibhyaḥ…* (Pā. 3-1-154); guṇa of the light penultimate for the sake of the affix; the affix being *cit*, the final syllable is acute by *cito 'ntodāttaḥ* (Pā. [6-1-163]). *Grammar page, noted briefly.*
 
 **Closing line of the sūkta** *(printed large, Kannada)*:
 
@@ -5751,7 +5751,7 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
 **॥ विशेषविषयगळು ॥ — Special Topics** *(Kannada)*
 
 - The source says that this Ṛk describes the ever-necessary and most excellent connection of the fingers, with devotion and faith, with the worship that is done to Agni. It compares this connection to the attentions a wife full of excessive love pays to her husband, and to the service which the rays pay to the dawn, which is shining by its own radiance and still increases in beauty by the rays. **यथा रश्मयः उषसा नित्यसंबद्धाः इति तात्पर्यार्थः** — "In the way the dawn and the rays are always connected, so the fingers and Agni are always connected, as the offerings and attentions in the sacrifices are being given always to Agni": thus Sāyaṇa explains the purport.
-- **सनीळाः** — "The word *nīḷa* means 'house', as it is read among the twenty-two names of the house, *gayaḥ*, *kṣayaḥ*, *durāḥ* and so on (Ni. 3-13); and the word *nīḷa* itself is used in many places as a word for sections of a house. Here *sanīḷāḥ* — those having a common dwelling — is used as an adjective for the fingers: the meaning is that all of them lie together in one common hand. So also in Ṛks like Ṛk. Saṃ. [9-72-2?] the words *sanīḷābhiḥ*, *sanīḷāḥ* are used as adjectives for the fingers. Ordinarily the *Maruts*, who always live together, are likewise given the epithet, in the places [1-165-1; 7-56-1?] where the Maruts are described."
+- **सनीळाः** — "The word *nīḷa* means 'house', as it is read among the twenty-two names of the house, *gayaḥ*, *kṛdaraḥ* and so on (Ni. 3-13); and the word *nīḷa* itself is used in many places as a word for sections of a house. Here *sanīḷāḥ* — those having a common dwelling — is used as an adjective for the fingers: the meaning is that all of them lie together in one common hand. So also in Ṛks like Ṛk. Saṃ. 9-72-2 the words *sanīḷābhiḥ*, *sanīḷāḥ* are used as adjectives for the fingers. Ordinarily the *Maruts*, who always live together, are likewise given the epithet, in the places 1-165-1; 7-56-1 where the Maruts are described."
 - **स्वसारः** — "As *agruvaḥ*, *aṇvyaḥ* and so on, it is read among the twenty-two names of the fingers (Ni. 3-9); hence it means 'fingers' (*svayam eva sarantī aṅgulayaḥ* — 'they go of themselves'). Because they move of their own accord for the work of Agni, they are *svasāraḥ* ('sisters' [i.e., 'self-going']). *Sanīḷāḥ* and *svasāraḥ* are epithets that commonly occur together for the fingers." *(Continued on p. 286.)*
 
 ---
@@ -5770,7 +5770,7 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
   > अनश्रवोऽनमीवाः सुरत्ना आ रोहंतु जनयो योनिमग्रे ।
   > *anaśravo 'namīvāḥ suratnā ā rohantu janayo yonim agre |* (Ṛ. Saṃ. 10-18-7)
 
-  In places like these, the word *janayaḥ* is used as a synonym of human women; here also *saha janayaḥ — jāyāḥ* means generally 'wives'." **GLOSS**
+  In places like these, the word *janayaḥ* is used as a synonym of human women; here also *janayaḥ — jāyāḥ* means generally 'wives'." **GLOSS**
 - **जिन्वन्** — *jinvatiḥ prītikarmā* (Ni. 6-22) — "It is used in the sense of 'to please'. As a wife pleases her husband and, attending him with love, serves him, so the fingers, with devotion, attend Agni and serve him. But this is not merely common pleasing; it includes the sense of nourishing. For this the Nirukta-writer gives a very apt example of a pleasing that causes joy and nourishment (Ni. 6-22), the Ṛk Saṃhitā's
   > भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः ।
   > *bhūmiṃ parjanyā jinvanti divaṃ jinvanty agnayaḥ |* (Ṛ. Saṃ. 1-164-51)
@@ -5787,7 +5787,7 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.1, noted briefly; not transcribed)*
 
-Words treated: *jinvan* (root *jivi* in the sense of pleasing; *num* by *idito num dhātoḥ*; *leṭ*, third person plural, *jhi*→*anta* by *jho 'ntaḥ*; loss of the final *i* by *iteś ca lopaḥ*, loss of the final *t* by *saṃyogāntalopa*; nighāta accent, not being at the head of a pāda); *uśatīḥ* (root *vaś* "to desire"; *śatṛ*; *ṅīp* in the feminine by *ugitaś ca*; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*; the *ī* of the *nadī*-designated ending acute by *śatur anumo nadyajādī*, Pā. [6-1-173]); *nityam* (*tyap* on the indeclinable *ni* by *avyayāt tyap*, Pā. [4-2-104], with the statement *tyab-bhedhruve* in the sense of "perpetual"; being *pit*, anudātta, so the indeclinable keeps its accent); *svasāraḥ* (root *asu kṣepaṇe*, Divādi; *ṛn* after the upapada *su* by *suñsyaser ṛn*, Uṇ. [2-253?], giving *svasṛ*; the *ṅīp* that the feminine would take is prohibited by *na ṣaṭsvasrādibhyaḥ*, Pā. [4-1-10]; first syllable acute by *ñnityādir nityam*; in the nominative plural, *jas* following, guṇa by *ṛto ñi sarvanāmasthānayoḥ*, Pā. [7-3-110]; lengthening of the penultimate by *apṛkta…*; *ru*, visarga); *aruṣīm* (*aruṣam* is a name of form; root *ṛ* "to go"; *uṣac* by *ṛhanibhyām uṣac*, Uṇ. [4-513?]; in the sense "possessing *aruṣa*" the possessive *ī* by *chandasīvanipau*; the affix gives final acute, but *vyatyayo bahulam* gives initial acute). Continued on p. 288. *Grammar page, noted briefly; numerals [?].*
+Words treated: *jinvan* (root *jivi* in the sense of pleasing; *num* by *idito num dhātoḥ*; *leṭ*, third person plural, *jhi*→*anta* by *jho 'ntaḥ*; loss of the final *i* by *iteś ca lopaḥ*, loss of the final *t* by *saṃyogāntalopa*; nighāta accent, not being at the head of a pāda); *uśatīḥ* (root *vaś* "to desire"; *śatṛ*; *ṅīp* in the feminine by *ugitaś ca*; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*; the *ī* of the *nadī*-designated ending acute by *śatur anumo nadyajādī*, Pā. 6-6-173); *nityam* (*tyap* on the indeclinable *ni* by *avyayāt tyap*, Pā. [4-2-104], with the statement *tyab-bhedhruve* (Vā. 2780) in the sense of "perpetual"; being *pit*, anudātta, so the indeclinable keeps its accent); *svasāraḥ* (root *asu kṣepaṇe*, Divādi; *ṛn* after the upapada *su* by *suñsyaser ṛn*, Uṇ. 2-253, giving *svasṛ*; the *ṅīp* that the feminine would take is prohibited by *na ṣaṭsvasrādibhyaḥ*, Pā. [4-1-10]; first syllable acute by *ñnityādir nityam*; in the nominative plural, *jas* following, guṇa by *ṛto ñi sarvanāmasthānayoḥ*, Pā. [7-3-110]; lengthening of the penultimate by *apṛkta…*; *ru*, visarga); *aruṣīm* (*aruṣam* is a name of form; root *ṛ* "to go"; *uṣac* by *ṛhanibhyām uṣac*, Uṇ. 4-513; in the sense "possessing *aruṣa*" the possessive *ī* by *chandasīvanipau*; the affix gives final acute, but *vyatyayo bahulam* gives initial acute). Continued on p. 288. *Grammar page, noted briefly; numerals [?].*
 
 ---
 
@@ -5865,7 +5865,7 @@ The sages called Aṅgirasas, who belong to the company of our ancestors, praise
   > *nyakratūn grathino mṛdhravācaḥ paṇīṃr aśraddhāṃ avṛdhāṃ ayajñān | prapra tān dasyūṃr agnir vivāya pūrvaś cakārāparāṃ ayajyūn ||* (Ṛ. Saṃ. 7-6-3)
 
   In this Ṛk the valour that destroyed the Paṇis is described, and then the benefit that the destruction brought to the sacrificing sages. The praise in this Ṛk is of the same context." *(The Sanskrit of this citation was re-read from the better scan (first word "nyakratūn", candrabindus as printed); the source leaves it untranslated; **GLOSS**.)*
-- **वीळु** — "*ojaḥ*, *pājaḥ*, *śavaḥ* …" — "since *vīḷu* is read among the twenty-two names of strength (Ni. 3-9), the word *vīḷu* has the name 'strength'."
+- **वीळु** — "*ojaḥ*, *pājaḥ*, *śavaḥ* …" — "since *vīḷu* is read among the twenty-eight names of strength (Ni. 3-9), the word *vīḷu* has the name 'strength'."
 - **दृळ्हा** — *dṛḍhaḥ sthūlabalayoḥ* — "firm, and in the general sense 'thick' and 'strong'. *Vīḷu dṛḷhā cit* means: though exceedingly strong, even so, with the help of Agni our fathers destroyed the demons."
 - **अद्रिम्** — *adrir ādṛṇāty anena, api vā atteḥ syāt* (Ni. 4-4) — "the Nirukta-writer explains that the word *adri* may come from the root *ad* 'to eat'. On the basis of this etymology the bhāṣyakāra also explains *adriṃ* as *attāraṃ paṇināmānam asuram*, 'the devourer, the *asura* named Paṇi, the eater of everything'. In the same sense, in the Ṛk
 
@@ -5953,7 +5953,7 @@ Words treated: *vīḷu* (the accusative ending lost by *supāṃ sulug…*); *d
 
 **॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
 
-After the Aṅgirases, in the sacrificial hall, had established Agni and performed the rites of Agnihotra and the rest, the sacrificers — the lords of wealth — establish Agni, and, without attachment in other matters, fix their minds on him, nourish the gods and men with the food in the form of the oblation, and perform the rites of Agnihotra and the rest which belong to him.
+After the Aṅgirases, in the sacrificial hall, had established Agni and performed the rites of Agnihotra and the rest, the sacrificers — the lords of wealth — establish Agni, and, without attachment in other matters, turn towards him, nourish the gods and men with the food in the form of the oblation, and perform the rites of Agnihotra and the rest which belong to him.
 
 **English Translation** *(the source's own, as printed):*
 
@@ -5986,8 +5986,8 @@ After the Aṅgirases, in the sacrificial hall, had established Agni and perform
 - **धनयन्** — "They practised — they performed the rite. Or: they meditated."
 - **अर्यः** — "*rāṣṭrī*, *aryaḥ*, *niyutvān*, *inaina* [as printed] — these four are names of the lord (Ni. 3-11). *Īśvara* means master, ruler, owner. This epithet is used again and again for Indra and for the other gods. The epithet is used not merely to show lordship but, in many places, to suggest honour and favour to the master. Here, however, *dhanasya svāminyaḥ* is taken, with reference to the sacrificers, as 'masters of wealth'. (In a few places, as Ṛ. Saṃ. 1-73-5, *aryaḥ* means 'belonging to the enemy', *areḥ saṃbandhinaḥ*; belonging to the foe.)"
 - **अतृष्यन्तीः** — *viṣayāntare tṛṣṇārahitāḥ* — "free from thirst for other objects; not attached to other matters apart from the worship of Agni, with the mind fixed on that alone."
-- **अपसः** — "*apaḥ*, *apnaḥ*, *daṃsaḥ* and so on — since it is read among the names of 'work' (Ni. 3-1), it means work. *Apasaḥ* means *apasā karmaṇā yuktāḥ yajamānalakṣaṇāḥ prajāḥ* — the people, the sacrificers, engaged in rites such as sacrifice."
-- **प्रयसा** — "*andhaḥ*, *vājaḥ*, *payaḥ*, *prayaḥ* and so on — since it is read among the names of food (Ni. 3-9), *prayaḥ* means food. *Prayasā* — with the food in the form of the oblation."
+- **अपसः** — "*apaḥ*, *apnaḥ*, *daṃsaḥ* and so on — since it is read among the twenty-six names of 'work' (Ni. 3-1), it means work. *Apasaḥ* means *apasā karmaṇā yuktāḥ yajamānalakṣaṇāḥ prajāḥ* — the people, the sacrificers, engaged in rites such as sacrifice."
+- **प्रयसा** — "*andhaḥ*, *vājaḥ*, *payaḥ*, *prayaḥ* and so on — since it is read among the twenty-eight names of food (Ni. 3-9), *prayaḥ* means food. *Prayasā* — with the food in the form of the oblation."
 - **देवान् जन्म प्रयसा वर्धयन्तीः** — "They serve Agni in such a way that the gods and born human beings may prosper."
 
 ---
@@ -6008,7 +6008,7 @@ After the Aṅgirases, in the sacrificial hall, had established Agni and perform
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.3, noted briefly; not transcribed)*
 
-Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*, third person plural, *jhi* by *vyatyayo bahulam*; *antādeśa*; loss; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; no nighāta since at the head of a pāda; the root accent remains since *śap* and the *ārdhadhātuka*-like *laṅ* are anudātta); *dhanayan* (from the noun *dhana*, *ṇic* in the sense "he does that" by the vārttika *tat karoti tad ācaṣṭe*; by *iṣṭhavat prātipadikasya* the operations of *iṣṭha* are extended; here *ṭi*-loss; the *ṇijanta* *dhani* is a root by *sanādyantā dhātavaḥ*, and after it *laṅ* behaves as with *dadhan*; no *aḍ*; the accent on the middle by *ṇic*'s accent); *aryaḥ* (*aryaḥ svāmivaiśyayoḥ*, Pā. [3-1-103], by nipāta in the sense "master"; here the feminine and plural are required by the context, and the gender-change is by *vyatyaya*, the masculine singular having come; *āryaḥ svāmyākhyā cet*, Phiṭ. [17?], final acute); *didhiṣvaḥ* (root *ḍudhāñ* "to hold, to nourish"; *ko* affix by the Uṇādi sūtra *kūpa-jambū-karkandhū-didhiṣū*, U. Sū. 1-93; final acute by the affix accent; before *jas*, *yaṇ* in place of the udātta and *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. [8-2-4], gives svarita). Continued on p. 297. *Grammar page, noted briefly; sūtra numerals [?].*
+Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*, third person plural, *jhi* by *vyatyayo bahulam*; *antādeśa*; loss; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; no nighāta since at the head of a pāda; the root accent remains since *śap* and the *ārdhadhātuka*-like *laṅ* are anudātta); *dhanayan* (from the noun *dhana*, *ṇic* in the sense "he does that" by the vārttika *tat karoti tad ācaṣṭe*; by *iṣṭhavat prātipadikasya* the operations of *iṣṭha* are extended; here *ṭi*-loss; the *ṇijanta* *dhani* is a root by *sanādyantā dhātavaḥ*, and after it *laṅ* behaves as with *dadhan*; no *aḍ*; the accent on the middle by *ṇic*'s accent); *aryaḥ* (*aryaḥ svāmivaiśyayoḥ*, Pā. [3-1-103], by nipāta in the sense "master"; here the feminine and plural are required by the context, and the gender-change is by *vyatyaya*, the masculine singular having come; *āryaḥ svāmyākhyā cet*, Phiṭ. 17, final acute); *didhiṣvaḥ* (root *ḍudhāñ* "to hold, to nourish"; *kū* affix by the Uṇādi sūtra *kūpa-jambū-karkandhū-didhiṣū*, U. Sū. 1-93; final acute by the affix accent; before *jas*, *yaṇ* in place of the udātta and *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. [8-2-4], gives svarita). Continued on p. 297. *Grammar page, noted briefly; sūtra numerals [?].*
 
 ---
 
