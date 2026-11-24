@@ -243,6 +243,269 @@ O Indra, we, kinless and wise, shall choose as our kinsman you alone, who are ac
 ##### English translation
 Intelligent, but destitute of kin, let us connect ourselves, Indra, with you, who abound with kinsmen : come, showerer (of benefits), with all your glories, to drink the Soma.
 
+### Printed p. 7
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सीदं॑तस्ते॒ वयो॑ यथा॒ गोश्री॑ते॒ मधौ॑ मदि॒रे वि॒वक्ष॑णे ।  
+> अ॒भि त्वामिं॑द्र नोनुमः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सीदंतः । ते । वयः । यथा । गोश्रीते । मधौ । मदिरे । विवक्षणे ।  
+> अभि । त्वां । इंद्र । नोनुमः ॥ ५ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र गोश्रीते ॥ शीज् पाके ॥ गोविकारे दधिपयसी गोशब्देनोच्यते ।
+> दध्ना पयसा च श्रीतेन श्रयणद्रव्येण मिश्रिते मदिरे मदकरे विवक्षणे स्वर्गप्रापणशीले त्वदीये मधौ सोमे सीदंतो निवसंतः । सदने दृष्टांतः । वयो यथा
+> पक्षिणो यथैकत्र संघीभूय तिष्ठंति तद्वत् सीदंतो वयं त्वामभ्याभिमुख्येन
+> नोनुमः । पुनःपुनर्भृशं वा स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the word "go" here stands for the products of the cow, curds and milk. Your Soma is mixed with curds and milk as the mixing substance, it is intoxicating and leads to heaven. Seated and dwelling in that Soma of yours, like birds that settle together in one place in a flock, we turn toward you and praise you again and again, or exceedingly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वयो यथा (*vayo yathā*)—as birds all gather together in one place in a flock
+- गोश्रीते (*gośrīte*)—mixed with curds and the like
+- ते मदिरे (*te madire*)—intoxicating for you
+- विवक्षणे (*vivakṣaṇe*)—and leading to heaven
+- मधौ (*madhau*)—before the Soma
+- सीदंतः (*sīdaṃtaḥ*)—we who sit around it
+- त्वां अभि (*tvāṃ abhi*)—directed to you alone
+- नोनुमः (*nonumaḥ*)—we praise again and again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as birds all gather together in one place in a flock, we sit around the Soma, which is mixed with curds and the like, intoxicating for you and leading to heaven, and we praise you alone again and again.
+
+##### English translation
+Gathering like (a flock of) birds round your exhilarating heaven-bestowing Soma beverage mixed with curds, we repeatedly glorify you, Indra.
+
+### Printed p. 8
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ च त्त्वै॒ना नम॑सा॒ वदा॑मसि॒ किं मुहु॑श्चि॒द्वि दी॑धयः ।  
+> संति॒ कामा॑सो हरिवो द॒दिष्ट्वं स्मो व॒यं संति॑ नो॒  ॑
+> धियः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । च । त्वा । एना । नमसा । वदामसि । किं । मुहुः । चित् । वि । दीधयः ।  
+> संति । कामासः । हरिऽवः । ददिः । त्वं । स्मः । वयं । संति । नः । धियः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अच्छ चापि चाभिमुख्येन वैनैनेन नमसा स्तोत्रेण हविर्लक्षणेनान्नेन
+> वा सह त्वा त्वां वदामसि ! अभिवदामः ॥ चवायोगे प्रथमेति न निघातः ॥ त्वं तु
+> मुहुश्चिन्मुहुर्मुहुः किं कस्माद्धेतोर्वि दीधयः । विपूर्वो दीधितिश्चिंतने ।
+> विचिंतयसि ॥ दीधीज् दीप्ति देवनयोः । व्यत्ययेन परस्मैपदं लुगभावश्च ॥ किमर्थं
+> यूयं वदथेति चेत् हरिवो हरिताश्ववन् हे इंद्र आस्माकं कामासः पुत्रपश्वादिविषयाः कामाः संति । कामाः संतु । अहं न प्रयच्छा मिति चेत् । त्वं तु
+> ददिर्धनादिदाता खलु । तस्माद्वयं त्वत्सन्निधौ स्मः । भवामः । किंच नोऽस्माकं धियः
+> कर्माणि च तव समीपे संति । तिष्ठंति । ततो धनादिलाभार्थं त्वां वदाम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we address you face to face with this praise, or with food in the form of an oblation. But you, why do you ponder again and again? The verb "vi dīdhayaḥ" is the root of thinking with the prefix vi, so that it means "you reflect". If you ask why we speak: O Indra, lord of bay horses, we have desires concerning sons, cattle and the like; let the desires be fulfilled. If you say "I do not give", yet you are the giver of wealth and the rest; therefore we are in your presence. Moreover our rites are with you, they stand near you; hence we address you for the gain of wealth and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) अच्छ च (*accha ca*)—turned toward you
+- एना नमसा (*enā namasā*)—with this praise
+- त्वा (*tvā*)—you
+- वदामसि (*vadāmasi*)—I praise
+- मुहुश्चित् (*muhuścit*)—again and again
+- किं (*kiṃ*)—for what reason
+- वि दीधयः (*vi dīdhayaḥ*)—are you absorbed in thought?
+- हरिवः (*harivaḥ*)—O Indra, possessor of horses called Hari
+- कामासः (*kāmāsaḥ*)—our desired objects
+- संति (*saṃti*)—let them be fulfilled
+- त्वं (*tvaṃ*)—you
+- ददिः (*dadiḥ*)—are the giver of wealth
+- वयं (*vayaṃ*)—we
+- स्मः (*smaḥ*)—remain in your presence
+- नः (*naḥ*)—our
+- धियः (*dhiyaḥ*)—rites
+- संति (*saṃti*)—are only for your worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, turned toward you we praise you with this praise. Why are you absorbed in thought again and again? O Indra, possessor of the horses called Hari, let our desired objects be fulfilled
+
+### Printed p. 9
+
+. You are the giver of wealth. We are always in your presence. Our rites are only for your worship.
+
+##### English translation
+We salute you with this adoration: why do you so often meditate (upon our requests)? master of bay steeds, let our desires be granted. You are their bestower, we are your (suppliants), and our sacred rites are (addressed to you).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नूत्ना॒ इदिं॑द्र ते व॒यमू॒ती अ॑भूम न॒हि नू ते॑ अद्रिवः ।  
+> वि॒द्वा पु॒रा परी॑णसः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नूत्नाः । इत् । इंद्र । ते । वयं । ऊती । अभूम । नहि । नु । ते । अद्र्िवः ।  
+> विद्म । पुरा । परीणसः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तवोत्कृत्यै रक्षणॆ वयं नूत्ना इन्नूतना एव भवामः ।
+> अद्रिवो वज्रन् हे इंद्र पुरा पूर्वं त्वां परीणसः ॥ सुब्व्यत्ययः ॥ परीणसं
+> परितो व्याप्तं महांतं वेति नहि विद्म । न जानीमः । नु संप्रति तु ते त्वां
+> महांतमिति जानंतो वयं भवता रक्ष्या इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in your protection we remain ever new. O wielder of the thunderbolt, before this we did not know of a being pervading all around, or great, like you (pariṇasaḥ). Now, knowing you to be great, we are to be protected by you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- ऊती (*ūtī*)—in protection
+- वयं (*vayaṃ*)—we
+- नूत्ना इत् (*nūtnā it*)—have remained new
+- अभूम (*abhūma*)—we have become
+- अद्रिवः (*adrivaḥ*)—O Indra, wielder of the thunderbolt
+- पुरा (*purā*)—before you
+- परीणसः (*parīṇasaḥ*)—those possessed of greatness like yours
+- नहि विद्म (*nahi vidma*)—we have not known
+- नु (*nu*)—at present
+- ते (*te*)—we have taken refuge in you alone
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in your protection we have remained new. O Indra, wielder of the thunderbolt, we have not known anywhere before you one possessed of greatness like yours. At present we take refuge in you alone.
+
+### Printed p. 10
+
+##### English translation
+We verily are the most recent (objects) of your protection. Indra, wielder of the thunderbolt; we have not known of old one greater than you.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्मा स॑खि॒त्वमु॒त शू॑र भो॒ज्य१॒॑१ मा ते॒ ता व॑ज्रिन्निमहे ।  
+> उ॒तो स॑मस्मि॒न्ना शि॑शीहि नो वसो॒ वाजे॑ सुशिप्र॒ गोम॑ति ॥  
+> ॥ हसिवार ॥  
+> विद्म । सखित्वं । उत । शूर । भोज्यं । आ । ते । ता । वज्रिन् । ईमहे ।  
+> उतो इति । समस्मिन् । आ । शिशिहि । नः । वसो इति । वाजे । सुशिप्र । गोऽमति !! ८ ॥  
+> ः सूर्यभाष्यं ॥  
+> शूर शत्रूणां शातयितर्बलवन् हे इंद्र सखित्वं तव सखिभावं वयं विद्म ।  
+> जानीमः । उतापि च भोज्यमभ्यवहारार्थं धनं च विद्म । वज्रिन् हे इंद्र ते  
+> त्वदीये ता ते सख्यधने आ अभिमुख्येनेमहे । वयं याचामहे । उतो अपि च  
+> वसो सर्वस्य वासयितः सुशिप्र शोभनहनो यद्वा शोभनशिरस्त्राण हे इंद्र  
+> गोमति गवादियुक्ते समस्मिन् सर्वस्मिन् वाजेऽन्ने नोऽस्माना शिशीहि । तीक्ष्णीकुरु ।  
+> उपलक्षणं । प्रदानेनास्मान् प्रसिद्धान् कुर्वित्यर्थः । शिञ् निशान इत्यस्य छांदसः श्लुः ॥
+
+##### Gist of the bhāṣya
+
+O hero, destroyer of enemies, mighty Indra, we know your friendship, and we also know the wealth to be enjoyed, that is, to be eaten. O wielder of the thunderbolt, Indra, we ask of you those two things that are yours, your friendship and your wealth. And, O Indra, who makes all dwell, O Suśipra, fair-jawed, or else wearing a fair helmet, in all food rich in cattle and the rest, sharpen us (āśiśīhi), that is, make us keen; this is a figure, the meaning being: make us famous by giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- सखित्वं (*sakhitvaṃ*)—your friendship
+- विद्म (*vidma*)—we know
+- उत (*uta*)—and
+- भोज्यं (*bhojyaṃ*)—we know the wealth that is the means of enjoyment
+- वज्रिन् (*vajrin*)—O Indra, wielder of the thunderbolt
+- ते (*te*)—from you
+- ता (*tā*)—that friendship and that wealth
+- आ ई महे (*ā ī mahe*)—we ask with reverence
+- उतो (*uto*)—and
+- वसो (*vaso*)—O giver of dwellings
+- सुशिप्र (*suśipra*)—O Indra, of excellent jaws
+- नः (*naḥ*)—us
+- गोमति (*gomati*)—possessed of cattle
+- समस्मिन् (*samasmin*)—and entire
+- वाजे (*vāje*)—in food
+- आ शिशीहि (*ā śiśīhi*)—make us full
+
+### Printed p. 11
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, we know your friendship. And we know also the wealth in you that is the means of enjoyment. O Indra, wielder of the thunderbolt, we ask with reverence for that friendship of yours and for the wealth. O giver of dwellings, O Indra of excellent jaws, make us full of food that is possessed of cattle and entire.
+
+##### English translation
+We acknowledge, hero, your friendship, (the wealth) to be enjoyed through you. and solicit both, thunderer. of you : giver of dwellings, Indra of the handsome jaws, sustain us in all abundance and in (store of) cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+समस्मिन् (*samasmin*). Explaining the word samasya, Yāska has said सममिति परिग्रहार्थीयं सर्वनामानुदात्तं (*samamiti parigrahārthīyaṃ sarvanāmānudāttaṃ*). That is, the word samam is a pronoun; samam means "all". This word is generally used in the sense of inclusion, and it is wholly unaccented. He says that this word is used in various cases and numbers, and to support this he has given some examples.
+
+मा नः समस्यॆ दूढ्यर्णपरिद्वेषसो अंहतिः (*mā naḥ samasyè dūḍhyarṇaparidveṣaso aṃhatiḥ*) (Ṛ. Saṃ. 8-75-9). In this Ṛk the word is used in the genitive case. Here samasyai means "of all".
+
+उतो समस्मिन्नाशीहि नो वसो (*uto samasminnāśīhi no vaso*) (Ṛ. Saṃ. 8-21-8). In this Ṛk, the present one, the word is used in the locative case. For the verb śiśīhi in this sentence Yāska has said शिशीतिर्दानकर्मा (*śiśītirdānakarmā*), that is, the meaning is giving, bestowing.
+
+उरुष्याणो अघायतः समस्मात् (*uruṣyāṇo aghāyataḥ samasmāt*) (Ṛ. Saṃ. 5-24-3). Here the ablative case is used.
+
+नभंतामन्यके समे (*nabhaṃtāmanyake same*) (Ṛ. Saṃ. 8-39-1 to 10). In these Ṛks the word is used in the nominative plural.
+
+### Printed p. 12
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो न॑ इ॒दमि॑दं पु॒रा प्र वस्य॑ आनि॒नाय॒ तमु॑ वः स्तुषे ।  
+> सखा॑य॒ इंद्र॑मू॒तये॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । इदं इदं । पुरा । प्र । वस्यः । आनिनाय । तं । ऊं इति । वः । स्तुषे ।  
+> सखायः । इंद्रं । ऊतये ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्थे ब्राह्मणाच्छंसिशस्त्रे यो न इदमिदमित्ययं प्रगाथोऽनुरूपः ।
+> यो न इदमिदं पुरेति प्रगाथौ सर्वाः ककुभः । आ. ६-१ । इति सूत्रितं ॥
+> आभिप्लविकेषूक्ष्यैपि ब्राह्मणाच्छंसिशस्त्रेयं वैकल्पिकोऽनुरूपः । आ. ७-८ ॥
+> अभिप्लविकेषूक्ष्येषु तृतीयसवने ब्राह्मणाच्छंसिशस्त्रे त्वं न इंद्रा भरेति प्रगाथे
+> स्तोत्रिये सत्यनुरूपतृचः समाहार्यः । तत्रेयं यो न इदमिदमिति द्वितीया ।
+> सूत्रितं च । यो न इदमिदं पुरा याहीम इंदव इति समाहार्योऽनुरूपः ।
+> आ. ७-८ । इति ॥
+> सखायः समानख्याना हे ऋत्विग्यजमाना य इंद्रः पुरा पूर्वमिदं
+> दर्शनीयतया विद्यमानं वस्यो वसीयः ॥ वसोरीयसुनीकारलोपश्कांदसः ॥
+> प्रशस्तं वसु नोऽस्मान् प्राणिनाय प्रकर्षणानीतवान् तमु तमेव धनानामानेतारमिंद्रं वो युष्माकं धनलाभार्थमूतये रक्षणाय च स्तुषे । सोभरिरहं
+> स्तौमि ॥
+
+##### Gist of the bhāṣya
+
+In the Ukthya rite, in the recitation of the Brāhmaṇācchaṃsin, this Prāgātha beginning "yo na idam idam" is the Anurūpa; the sūtra says that the pair of Prāgāthas beginning "yo na idam idaṃ purā" are all Kakubh (Ā. 6-1). In the Abhiplava Ukthya rites also, in the Brāhmaṇācchaṃsin's recitation, this is an optional Anurūpa (Ā. 7-8). When in the Abhiplava Ukthya rites at the third pressing, in the Brāhmaṇācchaṃsin's recitation, the Prāgātha "tvaṃ na indrā bhara" is the Stotriya, the Anurūpa triplet is to be put together, and in it this verse "yo na idam idam" is the second; the sūtra states that the Anurūpa is put together from "yo na idam idaṃ purā" and "yāhīma indavaḥ" (Ā. 7-8). Meaning: O friends, that is, priests and sacrificers of the same repute, that Indra who formerly brought to us this excellent wealth, present and visible, namely that bringer of riches, I, Sobhari, praise for you, for the gain of wealth and for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O friends
+- यः (*yaḥ*)—which Indra
+- पुरा (*purā*)—that which is before you
+- वस्यः (*vasyaḥ*)—and excellent
+- इदमिदं (*idamidaṃ*)—all this wealth
+- नः (*naḥ*)—to us
+- प्राणिनाय (*prāṇināya*)—has furnished
+- तमु इंद्रं (*tamu iṃdraṃ*)—that same Indra
+- वः (*vaḥ*)—your
+- ऊतये (*ūtaye*)—for protection
+- स्तुषे (*stuṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O friends, that Indra who has furnished to us all this wealth, which is before you and excellent, I praise for your protection.
+
 ---
 
-**Progress note:** Done through printed p. 6. Sukta 21 intro, Rk 1-4 (pp. 1-6)
+**Progress note:** Done through printed p. 12. Rk 5-9 (pp. 7-12)
