@@ -13589,6 +13589,347 @@ Be gratified by our praise as youths are delighted (by the voices) of maidens : 
 > गच्छतं ।  
 > स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चेषु॑ नो वोळ्हमश्विना ॥ ६ ॥
 
+### Printed p. 300
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरः । जुषेथां । अध्वरं । जुषेथां । विश्वा । इह । देवौ । सवना । अव । गच्छतं ।  
+> सजोषसौ । उषसा । सूर्येण । च । आ । इषं । नः । वोळ्हं । अश्विना ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवावश्विन् नोऽस्माकं गिरः स्तुतीर्जुषेथां । सेवेथां । तथाध्वरं
+> यज्ञं च जुषेथां । इह यज्ञे विश्वानि सवनान्यव गच्छतं । प्राप्नुतं ॥
+
+##### Gist of the bhāṣya
+
+O divine Aśvins, enjoy our praises; likewise enjoy the sacrifice. In this sacrifice attain all the libations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—being of divine nature
+- अश्विना (*aśvinā*)—O Aśvin deities
+- गिरः (*giraḥ*)—our praises
+- जुषेथां (*juṣethāṃ*)—enjoy
+- अध्वरं (*adhvaraṃ*)—our sacrifice
+- जुषेथां (*juṣethāṃ*)—enjoy
+- इह (*iha*)—in this sacrifice
+- विश्वा (*viśvā*)—all
+- सवना (*savanā*)—our rites
+- अव गच्छतं (*ava gacchataṃ*)—knowing them, accept them
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- नः (*naḥ*)—to us
+- इषं (*iṣaṃ*)—food
+- आ वोळ्हं (*ā voḷhaṃ*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, being of divine nature, enjoy our praises. Enjoy our sacrifice. In this sacrifice, knowing all our rites, accept them. Being united with Uṣas and with Sūrya, bring and provide us with food.
+
+##### English translation
+Be gratified, deities, by our praises, be gratified by the sacrifice, recognize, deities, all the offerings in this ceremony; united with the dawn and with Surya, bring us, Aswins, food.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हा॒रि॒द्र॒नेव॑ पतथो॒ वनेदुप॒ सोमं॑ सु॒तं म॑हि॒षेवाव॑  
+> गच्छथः ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण च॒ त्रिर्व॒र्तिर्या॑तमश्विना ॥ ७ ॥
+
+### Printed p. 301
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हारिद्रवाइव । पतथः । वना । इत् । उप । सोमं । सुतं । महिषाइव । अव ।  
+> गच्छथः ॥  
+> सजोषसौ । उषसा । सूर्येण । च । त्रिः । वर्तिः । यातं । अश्विना ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां सुतमभिषुतं सोममुप पतथो हारिद्रनाविव यथा
+> हारिद्रवौ पक्षिण् वना वनान्युदकानि वा । वनमित्युवकनामसु पाठात् । उपपततः ।
+> तद्वदित्यर्थः । महिषाविव यथा पिपासितौ महिषावुदकान्युपगच्छतः तथा सुतं
+> सोममव गच्छथः । उषसा सूर्येण च संगतौ त्रिर्वतिर्स्रिमार्गं यातं च ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you fly to the pressed Soma as two Haridrava birds fly to the waters (vana, since it is read among the names of water); that is the meaning. As two thirsty buffaloes go to the waters, so you go to the pressed Soma. United with Uṣas and Sūrya, come also by the threefold path. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वना (*vanā*)—towards the water
+- हारिद्रवाविव (*hāridravāviva*)—as water-fowl run up
+- महिषाविव (*mahiṣāviva*)—as buffaloes, scorched by the sun, run up towards the water
+- युवां (*yuvāṃ*)—you
+- सुतं (*sutaṃ*)—pressed
+- सोमं इत् (*somaṃ it*)—towards the Soma
+- उप पतथः (*upa patathaḥ*)—run up
+- अव गच्छथः (*ava gacchathaḥ*)—knowing our offering, accept it
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- त्रिवर्तिः (*trivartiḥ*)—by the three paths
+- यातं (*yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as water-fowl run up towards the water, and as buffaloes scorched by the sun run up towards the water, so you run up towards the Soma pressed by us. Knowing our offering, accept it. Being united with Uṣas and with Sūrya, come by the three paths.
+
+##### English translation
+You alight upon the effused Soma as the Haridrava plunges into the water: you fall upon it like two buffalos (plunging into a pool) ; united with the dawn and with Surya, come, Aswins, by the triple path.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हं॒सावि॑न पतथो अध्व॒गावि॑न॒ सोमं॑ सु॒तं म॑हि॒षेवान॑  
+> गच्छथः ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण च॒ त्रिर्व॒र्तिर्या॑तमश्विना ॥ ८ ॥
+
+### Printed p. 302
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हंसौ इव । पतथः । अध्वगौ इव । सोमं । सुतं । महिषा इव अव । गच्छथः ।  
+> सजोषसौ । उषसा । सूर्येण । च । त्रिः । वर्तिः । यातं । अश्विना ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां हंसाविव यथा हंसावध्वगाविव यथा च पथिकावुदकं
+> गच्छतः तथा वेगेन सुतं सोमं पतथः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, as two swans, and as two thirsty travellers go to water, so you fly swiftly to the pressed Soma. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- हंसाविव (*haṃsāviva*)—as swans run up towards the water
+- अध्वगाविव (*adhvagāviva*)—as thirsty travellers run up towards the water
+- महिषा इव (*mahiṣā iva*)—as buffaloes weary with the sun run up towards the water
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—towards our Soma
+- पतथः (*patathaḥ*)—run up
+- अव गच्छथः (*ava gacchathaḥ*)—knowing our Soma-offering, accept it
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- त्रिर्वर्तिः (*trirvartiḥ*)—by the three paths
+- यातं (*yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as swans run up towards the water, as thirsty travellers run up towards the water, and as buffaloes weary with the sun run up towards the water, so run up towards our pressed Soma. Knowing our Soma-offering, accept it. Being united with Uṣas and with Sūrya, come by the three paths.
+
+##### English translation
+As two geese, as two travellers, as two buffalose (hasten to water) you alight, Aswins, upon the effused Soma ; united with the dawn and with Surya, come Aswins, by the triple path.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शै॒नासि॑व पतथो ह॒व्यदा॑तये॒ सोमं॑ सु॒तं म॑हि॒षेवाव॑  
+> गच्छथः ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्य॑ण च॒ त्रिर्व॒र्तिया॑तमश्विना ॥ ९ ॥
+
+### Printed p. 303
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रीन्व । पतथः । हव्यदातये । सोमं । सुतं । महिषा इव । अव । गच्छथः ।  
+> सः शोषसा । उषसा । सूर्येण । च । त्रिः । वर्तिः । यातं । अश्विना ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कन्नड साहित्य परिषत्तु
+> हे अश्विनौ युवां श्येनाविव यथा श्लेन् गगणं गच्छतः तथा वेगेन सुतं
+> सोमं दव्यदातॆये यजमानार्थं पतथः । गच्छथः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, as two falcons go to the sky, so you hasten swiftly to the pressed Soma for the sake of the sacrificer who offers the oblation; you go. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- शैनाविव (*śaināviva*)—as falcons fly swiftly to the sky
+- महिषाविव (*mahiṣāviva*)—as buffaloes run up towards the water
+- युवां (*yuvāṃ*)—you
+- सुकं (*sukaṃ*)—pressed
+- सोमं (*somaṃ*)—towards the Soma
+- हव्यदातये (*havyadātaye*)—to favour the sacrificer who offers the oblation
+- पतथः (*patathaḥ*)—come swiftly
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण चॆ (*sūryeṇa cè*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- त्रिवर्ति (*trivarti*)—by the three paths
+- यातं (*yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as falcons fly swiftly to the sky, and as buffaloes run up towards the water, so you come swiftly towards the Soma pressed by us, to favour the sacrificer who offers the oblation. Being united with Uṣas and with Sūrya, come by the three paths.
+
+##### English translation
+You hasten like two falcons to the offerer of the libation, you alight upon the effused Soma as two buffeloes (hasten to water); united with the dawn and with Surya come, Aswins. by the triple path.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिब॑तं च तृप्नु॒तं चा च॑ गच्छतं प्र॒जां च॑ ध॒त्तं द्रवि॑णं च  
+> धत्तं ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चोर्जं॑ नो धत्तमश्विना ॥१०॥
+
+### Printed p. 304
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिबतं । च । तृप्लुतं । च । आ । च । गच्छतं । प्रजां । च । धत्तं । द्रविणं । च । धत्तं ।  
+> सजोषसौ । उषसा । सूर्येण । च । ऊर्ज० । नः । धत्तं । अश्विना ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां सोमं पिबतं च । तृप्तुतं च । तृप्यतं च । पानार्थं
+> तृप्त्यर्थं चा गच्छतं । सोमं पीत्वा तृप्तौ संतौ युवामस्मभ्यं प्रजां च धत्तं।
+> धारयतं । द्रविणं धनं च धत्तं । उषसा सूर्येण च संगतौ नोस्मभ्यमूर्जं
+> बलं च धत्तं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, drink the Soma and be satisfied; come for the drinking and for the satisfaction. Having drunk the Soma and being satisfied, bestow on us offspring and bestow wealth. United with Uṣas and Sūrya, bestow on us vigour, that is, strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- पिबतं च (*pibataṃ ca*)—drink our Soma
+- तृप्तुतं च (*tṛptutaṃ ca*)—and obtain satisfaction
+- आ च गच्छतं (*ā ca gacchataṃ*)—and come to our sacrifice
+- प्रजां च (*prajāṃ ca*)—offspring and the like to us
+- धत्त (*dhatta*)—give
+- द्रविणं च (*draviṇaṃ ca*)—and wealth
+- धत्त (*dhatta*)—give
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- नः (*naḥ*)—to us
+- ऊर्जं च (*ūrjaṃ ca*)—and strength
+- धत्तं (*dhattaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, drink our Soma. Obtain satisfaction. Favour our sacrifice. Give us offspring and the like. Give us wealth. Being united with Uṣas and with Sūrya, give us strength.
+
+##### English translation
+Drink, Aswins, the Soma, and satiate yourselves; come hither; give us progeny; give us wealth; united with the dawn and with Surya, give us, Aswins, strength.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जय॑तं च॒ प्र स्तु॑तं च॒ प्र चा॑वतं प्र॒जां च॑ ध॒त्तं द्रवि॑णंच धत्तं ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चोर्जं॑ नो धत्तमश्विना ॥१०॥
+
+### Printed p. 305
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जयतं । च । प्र । स्तुतं । च । प्र । च । अवतं । प्रजां । च । धत्तं । द्रविणं । च ।  
+> धत्तं ।  
+> सजोषसौ । उषसा । सूर्येण । च । ऊर्जं । नः । धत्तं । अश्विना ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां जयतं । शत्रुंश्च जयतं । प्र स्तुतं स्तोत्थांश्च प्र
+> चावतमस्मांश्च प्ररक्षतं । अन्यत्तिद्दं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, conquer; conquer the enemies, and protect the praised ones, that is, protect us. The rest is as before. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- जयतं च (*jayataṃ ca*)—conquer also your enemies
+- प्र स्तुतं (*pra stutaṃ*)—praise the devotion of your worshippers
+- प्रावतं च (*prāvataṃ ca*)—protect us
+- प्रजां च (*prajāṃ ca*)—and offspring
+- धत्तं (*dhattaṃ*)—give
+- द्रविणं च (*draviṇaṃ ca*)—and wealth
+- धत्त (*dhatta*)—give
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- नः (*naḥ*)—to us
+- ऊर्जं (*ūrjaṃ*)—strength
+- धत्तं (*dhattaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, conquer your enemies. Praise the devotion of your worshippers. Protect us. Give us offspring and give wealth. Being united with Uṣas and with Sūrya, give us strength.
+
+##### English translation
+Conquer (Aswins) your foes; protect and praise (your worshipper), grant pr geny, give wealth, and unite! with the dawn and with Surya, give us, Aswins strength.
+
+### Printed p. 306
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒तं च॒ शत्रू॒न्यत॑तं च मि॒त्रिणः॑ प्र॒जां च॑ ध॒त्तं द्रवि॑णं चधत्तं ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चोर्जं॑ नो धत्तमश्विना॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हतं । च । शत्रून् । यततं । च । मित्रिणः । प्रजां । च । धत्तं । द्रविणं । च ।  
+> धत्तं ।  
+> सजोषसौ । उषसा । सूर्येण । च । ऊर्जं । नः । धत्तं । अश्विना ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां शत्रुंश्च हतं' उतापि च यततं मित्रिणः । मैत्रीयुक्तांश्च
+> गच्छतं । सिद्धमन्यत् ॥
+> . कृतिपरिषत् ।
+> अश्विना—ऎलै अश्विनीदेवतॆगळे शत्रून् —निम्म शत्रुगळन्नु । हतं च—नाशमाडिरि ।
+> मित्रिणः—निम्म मित्ररल्लिगॆ । यततं च—दयमाडिरि प्रजां च—पुत्रादिगळन्नु । धत्त—
+> कॊडिरि । द्रविणं च—धनवन्नू । धत्त—कॊडिरि । उषसा—उषस्सिनॊडनॆयू । सूर्येण
+> च—सूर्यनॊडनॆयू । सजोषसा—ऒंदुगूडिदवरागि । नः—नमगॆ । ऊर्जं—
+> बलवन्नु ! धत्तं—कॊडिरि.
+
+##### Gist of the bhāṣya
+
+O Aśvins, destroy the enemies, and strive towards the friends, that is, go to those who are bound in friendship. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- शत्रून् (*śatrūn*)—your enemies
+- हतं च (*hataṃ ca*)—destroy
+- मित्रिणः (*mitriṇaḥ*)—to your friends
+- यततं च (*yatataṃ ca*)—be gracious
+- प्रजां च (*prajāṃ ca*)—offspring and the like
+- धत्त (*dhatta*)—give
+- द्रविणं च (*draviṇaṃ ca*)—and wealth
+- धत्त (*dhatta*)—give
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- नः (*naḥ*)—to us
+- ऊर्जं (*ūrjaṃ*)—strength
+- धत्तं (*dhattaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, destroy your enemies. Come to your friends. Give us offspring and the like, and wealth. Being united with Uṣas and with Sūrya, give us strength.
+
+##### English translation
+Destroy your foes, repair to your friends, grant progeny, give wealth, and, united with the dawn and with Surya, give us. Aswins strength.
+
 ---
 
-**Progress note:** Done through printed p. 299. Vol 24 Mandala 8 sukta 35 rks 1-6 start, pp. 294-299
+**Progress note:** Done through printed p. 306. Vol 24 Mandala 8 sukta 35 rks 6-12, pp. 300-306
