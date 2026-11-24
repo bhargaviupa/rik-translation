@@ -5,8 +5,8 @@ You carry out the **second pass of Volume 6** of the Rigveda translation (repo `
 ## The volume
 - **Scope:** Maṇḍala 1 Sūktas 62–80 (Fifth Adhyāya of the First Aṣṭaka): printed pp. 2–619.
 - **Supplied text:** `vol6/html/rig_6_1.md` (front matter and pp. 2–81), `rig_6_1_0.md` (**p. 82 alone**: it joins p. 81 and p. 83 without a gap; the word-meaning list of Sūkta 63 Ṛk 6 ends on p. 81, p. 82 opens with its Bhāvārtha, and its last sentence runs on into p. 83), `rig_6_2.md` (pp. 83–382) and `rig_6_3.md` (pp. 383–619, to the printer's line). 60 pictures in `vol6/html/figures/`.
-- **English:** `vol6/Rigveda_Samhita_Vol6_English_Translation.md`. 115 `**GLOSS**` markers; 17 labelled glosses left. **183 numeral rows await the user** (`vol6/numerals/` or the file named in `vol6/STATUS.md`).
-- **Numerals:** where the user's numeral file has a value, it is final (it is the user's reading); where it is missing, the supplied text is taken. Never settle a number from memory.
+- **English:** `vol6/Rigveda_Samhita_Vol6_English_Translation.md`. 115 `**GLOSS**` markers; 17 labelled glosses left.
+- **Numerals (user, Nov 24 2026): the supplied Kannada documents of this volume have correct numerals; the user does not verify them.** Take every number and reference from the supplied text; the 183 numeral rows that earlier awaited the user are not needed. A difference between the English and the supplied text is therefore settled in favour of the supplied text, with a logged repair; no question to the user. Never settle a number from memory.
 
 Read first: `CLAUDE.md`, `vol6/STATUS.md`, `docs/REQUIREMENTS.md` Parts B, I, J, K9, L, M, `docs/DESIGN.md` §14, `docs/LESSONS.md`, `docs/ERROR_KINDS.md` (the kind codes you will use). `pip install indic-transliteration rapidfuzz openpyxl`.
 
