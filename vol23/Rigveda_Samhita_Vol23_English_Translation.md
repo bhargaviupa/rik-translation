@@ -33916,6 +33916,287 @@ O Agni, bring that splendour (dyumna) to us. Bring that which, dwelling in the h
 - यत् (*yat*)—which power
 - सदने (*sadane*)—entering our house
 
+### Printed p. 802
+*Gist continues from the previous window; the Kannada Pratipadārtha continues:*
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कंचित् (*kaṃcit*)—any whatever
+- अत्रिणं (*atriṇaṃ*)—the rākṣasas and the like
+- सासहत् (*sāsahat*)—may defeat and drive away
+- दूढ्यः (*dūḍhyaḥ*)—of evil mind
+- जनस्य (*janasya*)—of the enemy
+- मन्युं (*manyuṃ*)—the anger
+- तत् (*tat*)—such
+- द्युम्नं (*dyumnaṃ*)—the radiant power
+- आ भर (*ā bhara*)—bring, provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, create in us that radiant power which can defeat and drive away any rākṣasas and the like that have entered our house, and can remove the anger of an enemy of evil mind.
+
+##### English translation
+Bestow upon us, Agni, that power which may overcome any cannibal (entering) into our abode, the wrath of any malignant (being).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन चष्टे वरुणो मित्रो अर्यमा येन  
+> नासत्या भगः ।  
+> व॒यं तत्ते॒ शव॑सा गातु॒वित्त॑मा॒ इंद्र॑त्वोता विधेमहि ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । चष्टे । वरुणः । मित्रः । अर्यमा । येन । नासत्या । भगः ।  
+> वयं । तत् । ते । शवसा । गातुवित्ऽतमाः । इंद्रत्वाऊताः ।  
+> विधेमहि ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येनाग्नेयेन तेजसा वरुणो देवश्चष्टे प्रकाशयति । येन च मित्रोऽर्यमा च चष्टे । येन च नासत्याश्विन् च चक्षाते । भगो भजनीय एतत्संज्ञो
+> देवश्च चष्टे । शवसा बलेन गातुवित्तमा गातोर्गातव्यस्य स्तोत्रस्य ज्ञातृतमाः।
+
+##### Gist of the bhāṣya
+
+By the fiery splendour with which the god Varuṇa shines (चष्टे (*caṣṭe*), "illumines"), and by which Mitra and Aryaman shine, and by which the two Nāsatyas (Aśvins) look, and by which Bhaga, the adorable god of that name, shines; शवसा (*śavasā*) is "by strength"; गातुवित्तमा (*gātuvittamā*) means the best knowers of the गातु (*gātu*), the praise to be sung.
+
+### Printed p. 803
+
+> यद्वा । गंतव्यस्य प्राप्तव्यस्य लब्धृतमाः । इंद्रत्वोता इंद्रेणेश्वरेण त्वयोता
+> रक्षिताः संतो वयं हे अग्ने ते त्वदीयं तत्तेजो विधेमहि । परिचरेमहि ॥
+
+##### Gist of the bhāṣya
+
+Or else, the best obtainers of what is to be gone to or reached. Protected by Indra, the Lord, that is by you, we, O Agni, serve that splendour of yours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन शवसा (*yena śavasā*)—by which fiery splendour (O Agni)
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अरमा (*aramā*)—Aramu-deva
+- चष्टे (*caṣṭe*)—shine
+- येन (*yena*)—by which splendour
+- नासत्या (*nāsatyā*)—the Aśvin deities
+- भगः (*bhagaḥ*)—Bhaga shines
+- ते तत् (*te tat*)—that splendour of yours
+- गातुवित्तमाः (*gātuvittamāḥ*)—knowers of the path of good conduct
+- इंद्रत्वोताः (*iṃdratvotāḥ*)—protected by Indra
+- वयं (*vayaṃ*)—we
+- विधेमहि (*vidhemahi*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, that fiery splendour by which Varuṇa, Mitra and Aramu-deva shine, by which the Aśvin deities and Bhaga shine, that splendour of yours we worship, we who know the course of the good path and are protected by Indra.
+
+##### English translation
+Protected by Indra, well knowing the path that through your power (Agni), we should follow, we adore that (radiance) of yours, by which Varuṇa, Mitra, Aryaman, the Nasatyas, and Bhaga shine.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते घेद॑ग्ने स्वा॒ध्यो॒३॒॑३ ये त्वा॑ विप्र निदधि॒रे नृ॒चक्ष॑सं ।  
+> विप्रा॑सो देव सु॒क्रतुं॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । घु । इत् । अग्ने । सुआध्यः । ये । त्वा । विप्र । निरधिरे । नृचक्षसं ।  
+> विप्रासः । देव । सुक्रतुं ॥ १७ ॥
+
+### Printed p. 804
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते घेत्त एव खलु स्वाध्यः शोभनाध्याना भवंति । हे विप्र
+> मेधाविन देव द्योतमानाग्ने ये विप्रासो विप्रा मेधाविन ऋत्विजो नृचक्षसं
+> नृणां चष्टारं सुक्रतुं सुकर्माणं शोभनप्रज्ञं वा त्वा त्वां निदधिरे निदधति
+> यागार्थं गार्हपत्यादिस्था नेष्वाधानसंस्कारेण स्थापयंति ते फेदित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, they alone are स्वाध्यः (*svādhyaḥ*), of good meditation. O sagacious, shining god Agni, the sages (विप्रासः (*viprāsaḥ*)), the wise priests, who establish (निदधिरे (*nidadhire*)) you for the sacrifice, you the beholder of men (नृचक्षसं (*nṛcakṣasaṃ*)), of good works or of good wisdom (सुक्रतुं (*sukratuṃ*)), placing you in the Gārhapatya and other fires by the rite of fire-establishment: they alone (ते घेत् (*te ghet*)) — such is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—O wise one
+- देव (*deva*)—O shining one
+- अग्ने (*agne*)—O Agni
+- ये (*ye*)—which
+- विप्रासः (*viprāsaḥ*)—priests
+- नृचक्षसं (*nṛcakṣasaṃ*)—one who can see the doings of men
+- सुक्रतुं (*sukratuṃ*)—the excellent performer of rites
+- त्वा (*tvā*)—you
+- निदधिरे (*nidadhire*)—have established for the sacrifice
+- ते घेत् (*te ghet*)—they alone
+- स्वाध्यः (*svādhyaḥ*)—are worthy of excellent meditation
+
+##### भावार्थ (Bhāvārtha)
+
+O wise and shining Agni, the priests who have established you for the sacrifice, you who can see the doings of men and are the excellent performer of rites, they alone are worthy of excellent meditation.
+
+##### English translation
+Those verily, Agni, are of approved peity who as your worshippers, sagacious deity, have established you as the contemplator of men, the performer of good works.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त इद्देदिं॑ सुभग॒ त आहु॑तिं॒ ते सोतुं॑ चक्रिरे दि॒वि ।  
+> त इद्वाजे॑भिर्जिग्युर्म॒हद्धनं॒ ये त्वे कामं॑ नैरि॒रे॥  
+> , पदरातु ,  
+> ते । इत् । वेदिं । सुभग । ते । आहुतिं । ते । सोतुं । चक्तिरे । दिवि ।  
+> ते । इत् । वाजेभिः । जिग्गुः । महत् । धनं । ये । त्वे इति । कामं ।  
+> निऽएरिरे ॥ १८ ॥
+
+##### Gist of the bhāṣya
+
+Not applicable here; the block contains the Saṃhitā and Pada texts of the verse together.
+
+### Printed p. 805
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुभग शोभनधनाग्ने त इत्त एव यजमानास्तद्यागाय वेदिं चक्रिरे ।
+> कुर्वंति । तदनंतरं ते यजमाना आहुतिं चरुपुरोडाशादिसाध्यां दीक्षणीयादिषु कुर्वंति । ततो दिवि द्योतमाने स्तोत्यैहनि सोतुं सोममभिषोतुं
+> चक्रिरे । उद्योगं कुर्वंति । अनुष्ठितयज्ञास्त इत्त एव वाजेभिर्वाजैर्बलैर्महत्पभूतं धनं जिग्युः । जयंति । शत्रुभ्यो लभंते । कुत इत्यत आह। ये यजमाना
+> हे अग्ने त्वै त्वयि काममभिलाषं नैरिरे नितरां गच्छंति । त्वामादरातिशयेन
+> स्तुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni of good fortune (good wealth), those sacrificers alone make the altar for his sacrifice. Afterwards those sacrificers make the oblation (आहुतिं (*āhutiṃ*)), to be accomplished with cooked grain (caru), cakes (puroḍāśa) and the like, in the Dīkṣaṇīyā and other rites. Then on the shining day of praise they undertake (चक्रिरे (*cakrire*)) to press Soma. Having performed the sacrifice, they alone win with strengths (वाजेभिः (*vājebhiḥ*)) abundant wealth (जिग्युः (*jigyuḥ*)), obtaining it from enemies. Why? He says: the sacrificers who, O Agni, direct their desire in you (नैरिरे (*nairire*)), that is, praise you with great devotion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुभग (*subhaga*)—O Agni, possessed of excellent wealth
+- ये (*ye*)—which sacrificers
+- त्वे (*tve*)—in you
+- कामं (*kāmaṃ*)—desire
+- नैरिरे (*nairire*)—have fixed
+- त इत् (*ta it*)—they alone
+- वेदिं (*vediṃ*)—the sacrificial altar
+- चक्रिरे (*cakrire*)—establish
+- ते (*te*)—those sacrificers
+- आहुतिं (*āhutiṃ*)—offer oblations of caru, puroḍāśa and the like
+- ते (*te*)—they
+- दिवि (*divi*)—on the excellent days
+- सोतुं (*sotuṃ*)—perform the pressing of Soma
+- त इत् (*ta it*)—they
+- वाजेभिः (*vājebhiḥ*)—together with strength
+- महत् (*mahat*)—abundant
+- धनं (*dhanaṃ*)—wealth
+- जिग्गुः (*jigguḥ*)—win
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni of excellent wealth, those sacrificers who have fixed their desire in you alone, they establish the altar. Those sacrificers offer oblations of caru, puroḍāśa and the like. They perform the Soma pressing on the excellent days. They win abundant wealth together with strength.
+
+##### English translation
+Auspicious (Agni), they have set up the altar, have presented the oblations, have expressed the libation on a (fortunate) day ; they have won by their efforts infinite wealth who have placed their affection upon you.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रो नो॑ अ॒ग्निराहु॑तो भ॒द्रा रा॒तिः सु॑भग भ॒द्रो  ॒॑
+> अध्वरः ।
+
+### Printed p. 806
+
+> भद्रा उत प्रशस्तयः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रः । नः । अग्निः । आहुतः । भद्रा । रातिः । सुभग । भद्रः । अध्वरः ।  
+> भद्राः । उत । प्रशस्तयः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आभिप्लविकेषूक्ष्येषु तृतीयसवने प्रशास्तुः शस्त्रे भद्रो न इति प्रगाथो
+> वैकल्पिकः स्तोत्रियः । सूत्र्यते हि । भद्रो नो अग्निराहुतो यदी घृतेभिराहुतः।
+> आ. ७-८. । इति ॥
+> आहुतो हविर्भिस्तर्पितोग्निर्नोऽस्माकं भद्रः कल्याणो भवतु । हे सुभग
+> शोभनधनाग्ने भद्रा कल्याणी रातिर्दानं चास्माकं भवतु । भद्रः कल्याणोऽध्वरो
+> यागश्च भवतु । उतापि च भद्राः कल्याण्यः प्रशस्तयः प्रशंसाः स्तुतयश्च भवंतु ॥
+
+##### Gist of the bhāṣya
+
+In the Ābhiplavika ukthya rites, at the third pressing, the verse-pair (pragātha) भद्रो न (*bhadro na*) is an optional stotriya for the Praśāstṛ's śastra. It is prescribed in the sūtra: भद्रो नो अग्निराहुतो यदी घृतेभिराहुतः। (*bhadro no agnirāhuto yadī ghṛtebhirāhutaḥ|*) (Ā. 7-8). May Agni, gratified with oblations, be auspicious to us. O Agni of good wealth, may our gift also be auspicious; may the sacrifice be auspicious; and may the praises be auspicious.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आहुतः (*āhutaḥ*)—worshipped with oblations
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—to us
+- भद्रः (*bhadraḥ*)—be propitious
+- सुभग (*subhaga*)—O Agni of excellent wealth
+- रातिः (*rātiḥ*)—the gift given to us
+- भद्रा (*bhadrā*)—be a means of welfare
+- अध्वरः (*adhvaraḥ*)—our sacrifice
+- भद्रः (*bhadraḥ*)—give an auspicious fruit
+- उत (*uta*)—and
+- प्रशस्तयः (*praśastayaḥ*)—our praises
+- भद्राः (*bhadrāḥ*)—produce blessing
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, worshipped with oblations, be propitious to us. O Agni of excellent wealth, may the gift given to us be a means of welfare. May our sacrifice yield an auspicious fruit. And may our praises produce blessing.
+
+##### English translation
+May Agni, to whom burnt-offerings have been made, be propitious to us: auspicious (Agni), may your gifts be blessings, may the sacrifice (we offer) be beneficial, may our praises yield us happiness.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ābhiplava-related ukthya sacrifices, at the time of the third pressing, among the śastra mantras recited by the priest called Praśāstṛ, the three Ṛks beginning भद्रो नः (*bhadro naḥ*) are to be recited as an optional stotriya triplet (tṛca)
+
+### Printed p. 807
+. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra भद्रो नो अग्निराहुतो यदी धृतेभिराहुतः (*bhadro no agnirāhuto yadī dhṛtebhirāhutaḥ*) (Ā. 7-8).
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रं मनः॑ कृणुष्व वृत्र॒तूर्ये॒ येना॑ स॒मत्सु॑  ॒॑
+> सासहः ।  
+> अव॑ स्थि॒रा त॑नुहि॒ भूरि॒ शर्ध॑तां व॒नेमा॑ ते अ॒भिष्टि॑भिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रं । मनः । कृणुष्व । वृत्रतूर्ये । येन । समत्सु । सहः ।  
+> अव । स्थिरा । तनुहि । भूरि । शर्धतां । वनेम । ते । अभिष्टिभिः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वृत्रतूर्ये संग्रामे भद्रं शोभनं मनः कृणुष्ट! अस्माकं कुरु।
+> येन मनसा त्वं समत्सु संग्रामेषु सासहः भृशं शत्रूनभिभवसि । अपि च शर्धतामभिभवतां शत्रूणां भूरि भूरीणि बहूनि स्थिराणि दृढान्यप्यव तनुहि। अवांचि कुरु।
+> पराजितानि कुर्वित्यर्थः । वयं चाभिष्टिभिरभ्येषणसाधनैर्हविर्भि: स्तोत्रैश्च ते त्वां
+> वनेम । संभजेमहि । यद्वा । ते तव प्रसादादभिष्टिभिरभीष्टै: फलैर्वनेम ।
+> संगच्छेमहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, make for us a good mind in the battle (वृत्रतूर्ये (*vṛtratūrye*)). With that mind you overcome enemies mightily in battles (समत्सु (*samatsu*)). Moreover, lay low (अव तनुहि (*ava tanuhi*)) the many firm (strong) forces of the assailing enemies; make them bent down, that is, defeated. And we serve (वनेम (*vanema*)) you with अभिष्टिभिः (*abhiṣṭibhiḥ*), with oblations and praises that are means of approach. Or else, by your grace we obtain (वनेम (*vanema*)) desired fruits (अभिष्टिभिः (*abhiṣṭibhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- येन (*yena*)—by which firm resolve
+- समत्सु (*samatsu*)—in battles
+- सासहः (*sāsahaḥ*)—you defeat enemies
+- भद्रं (*bhadraṃ*)—auspicious
+- मनः (*manaḥ*)—mental power
+- वृत्रतूरै (*vṛtratūrai*)—in battle
+- कृणुष्ट्व (*kṛṇuṣṭva*)—create in us
+- शर्धतां (*śardhatāṃ*)—of the enemies who confront
+- भूरि (*bhūri*)—numerous
+- स्थिरा (*sthirā*)—and firm armies
+- अवतनुहि (*avatanuhi*)—defeat
+- ते (*te*)—you
+- वनेम (*vanema*)—we worship
+- अभिष्ठिभिः (*abhiṣṭhibhiḥ*)—make us united with desired objects
+
 ---
 
-**Progress note:** Done through printed p. 801. pp. 796-801 (batch API)
+**Progress note:** Done through printed p. 807. pp. 802-807 (batch API)
