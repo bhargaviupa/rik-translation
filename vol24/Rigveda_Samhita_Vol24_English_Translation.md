@@ -34499,6 +34499,322 @@ Chandas: 1-14. Prāgātha; 15. Anuṣṭubh. **NOTE**
 > तरो॑भिर्वो वि॒दद्व॑सु॒मिंद्रं॑ स॒बाध॑ ऊ॒तये॑ ।  
 > बृ॒हद्दायं॑तः सु॒तसो॑मे अध्व॒रे हु॒वे भरं॒ न का॒रिणं॑ ॥१॥
 
+### Printed p. 759
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तरभिः । वः । विदत्वसुं । इंद्रं । सबाधः । ऊतये ।  
+> बृहत् । गायंतः । सुतसोमे । अध्वरे । कुवे । भरं । न । कारिणं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः वो यूयं तरोभिर्वेगैरश्वैरुपेतं वेगैरेव ना विदद्वसुं
+> वेदयद्वसुं धनावेदकमिंद्रं सबाधो बाधासहिता ऊतये रक्षणाय बृहत्सामैतत्संज्ञं गायंशः संतः परिचरतेति शेष । कुत्रेति तमच्यते । सुतसोमे सुतसोमकेऽध्वरे यज्ञे सोमयागे । आदं च तमिंद्रं हुवे । आह्वयामि । कमिव ।
+> भरं भर्तारं कुटुंबपोषकं कारिणं हितकरणशीलं यथा स्वहितकरणायाह्वयंति
+> पुत्रादयस्तद्वत्तथाभूतमिंद्रं हुव इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the priests: "O priests, you (worship) Indra, who is endowed with swift horses (तरोभिर्वेगैरश्वैरुपेतं (*tarobhirvegairaśvairupetaṃ*)), who is the revealer of wealth (विदद्वसुं (*vidadvasuṃ*) is explained as one who causes wealth to be known, the finder of wealth), being सबाधः (*sabādhaḥ*), accompanied by oppression or pressure, for protection, chanting the sāman called Bṛhat; the words 'worship him' are to be supplied." **NOTE** Where? At the sacrifice, the Soma sacrifice, in which the Soma has been pressed. "And that Indra I invoke." Like whom? As sons and others invoke the supporter of the family, the doer of good, for their own benefit, so I invoke Indra of that kind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O priests)
+- सुतसोमे (*sutasome*)—in the Soma-filled, pressed
+- अध्वरे (*adhvare*)—in the sacrifice
+- तरोभिः (*tarobhiḥ*)—possessed of swift-moving horses
+- विदद्वसुं (*vidadvasuṃ*)—who knows the secret of wealth
+- इंद्रं (*iṃdraṃ*)—Indra
+- सबाधः (*sabādhaḥ*)—all gathered together
+- ऊतये (*ūtaye*)—for protection
+- बृहत् (*bṛhat*)—the Bṛhat-sāman
+- गायंतः (*gāyaṃtaḥ*)—chanting in song, worship him
+- भरं (*bharaṃ*)—the supporter of the family
+- कारिणं न (*kāriṇaṃ na*)—as sons and others call for help a father who does good to the family
+- हुवे (*huve*)—I too invoke Indra, who is like a father
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, in the sacrifice filled with pressed Soma, all gathered together, worship, for your protection, by chanting the Bṛhat-sāman, Indra, who is endowed with swift horses and who knows the secret of wealth. As sons and others call for help a father who supports the family and does good to it, so I too invoke Indra, who is like a father.
+
+##### English translation
+Thronging together, (worship) for your protection Indra full of might and the revealer of wealth; (worship him), chanting the Brihat-Saman at his sacrifice where the Soma is effused; I invoke him as (men invoke) a beneficent master of a household.
+
+### Printed p. 760
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यं दु॒ध्रा वरं॑ते॒ न स्थि॒रा मुरो॒ मदे॑ सुशि॒प्रमंध॑सः ।  
+> य आ॒दृत्या॑ शशमा॒नाय॑ सुन्व॒ते दाता॑ जरि॒त्र उ॒क्ष्यं॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यं । दुध्राः । वरंते । न । स्थिराः । मुरः । मदे । सुशिप्रं । अंधसः ।  
+> यः । आदृत्य । शशमानाय । सुन्वते । दाता । जरित्रे । उक्ष्यं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यं सुशिप्रमिंद्रं दुध्रा दुर्धरा असुरादयो न वरंते न वारयंति
+> संग्रामे । तथा स्थिरा देवा न वरंते । किंच मुरो मरणस्वभावा मनुष्या न
+> वरंते । अंधसोऽन्नस्य सोमस्य मदे मदाय सोमपानजनितायादृत्य यः
+> शशमानाय शंसमानाय सुन्वतेऽभिषवं कुर्वते जरित्रे स्तोत्रे च दाता भवति ।
+> किं । उक्त्यं स्तुत्यं धनं । स रेजयतीत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Indra, the fair-jawed (सुशिप्रं (*suśipraṃ*)), is one whom the irresistible ones (दुध्रा (*dudhrā*)), the asuras and others, do not hold back in battle; so too the firm ones, the gods, do not hold him back; and moreover the mortal ones, men, do not hold him back. He, in the exhilaration (मदे (*made*)) produced by drinking the Soma, the food, honouring the one who praises and presses the Soma, becomes the giver to the praiser (जरित्रे (*jaritre*)) of praiseworthy wealth (उक्त्यं (*uktyaṃ*)). The sentence is connected with the following "he shakes" (स रेजयतीत्युत्तरत्र (*sa rejayatītyuttaratra*)) in the next ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंधसः (*aṃdhasaḥ*)—from Soma-drinking
+- मदे (*made*)—when joy arises
+- सुशिप्रं (*suśipraṃ*)—having fine cheeks
+- यं (*yaṃ*)—whom, which Indra
+- दुध्राः (*dudhrāḥ*)—the unopposed asuras and others
+- न वरंते (*na varaṃte*)—cannot hold back
+- स्थिराः (*sthirāḥ*)—the gods of lasting station
+- न (*na*)—cannot hold back
+- मुरः (*muraḥ*)—men subject to death cannot hold back; such a one
+- यः (*yaḥ*)—which Indra
+- आदृत्य (*ādṛtya*)—honouring himself
+- शशमानाय (*śaśamānāya*)—who praises
+- सुन्वते (*sunvate*)—who presses and offers Soma
+- जरित्रे (*jaritre*)—to the praiser
+- उक्ष्यं (*ukṣyaṃ*)—to praiseworthy wealth
+- दाता (*dātā*)—becomes the giver; such an Indra makes the cow-stations move
+
+### Printed p. 761
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who has fine cheeks, whom, when joy arises from Soma-drinking, neither the unopposed asuras and others can hold back, nor the gods of lasting station, nor men subject to death, and who, honouring the praiser who presses and offers Soma, becomes the giver of praiseworthy wealth to him: that Indra makes the place where the cows are hidden move. That is, he releases the cows and sends them forth.
+
+##### English translation
+He, the handsome-jawed, whom, in the intoxication of the Soma, the fierce (demons) withstand not, nor the firm gods, nor mortal (men),-- who confers glorious wealth on him who reverently praises him, offers the Soma, and sings hymns ;
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः श॒क्रो मृ॒क्षो अश्वो॒ यो वा॒ कीजो॑ हिर॒ण्ययः॑ ।  
+> स ऊ॒र्वस्य॑ रेजय॒त्यपा॑वृति॒मिंद्रो॒ गव्य॑स्य वृत्र॒हा ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । शक्रः । मृक्षः । अश्वः । यः । वा । कीजः । हिरण्ययः ।  
+> सः । ऊर्वस्य । रेजयति । अपवृतिं । इंद्रः । गव्यस्य । वृत्रहा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः शक्र इंद्रः स्तोत्कृणां मृक्षः शोधकः परिचरणीयो ना । यश्चाश्वः ।
+> अश्वकुशलोऽश्वः । अथवाश्व इति स्वार्थिको यत् । मृक्षोऽश्वः प्रक्षालितोऽश्व इव
+> वर्तते । यो वा कीजः । कीज इत्यद्भुतमाह । किमस्य कथं जात इति व.................. ।
+> यश्च हिरण्ययो हिरण्मयशरीरः स एवमाश्चर्यभूत इंद्रो वृत्रहा गव्यस्य
+> गोसमूहस्य । कीदृशस्य । ऊर्वस्य बहुलस्यापावृतिमपवर्णीयं रेजयति ।
+> कंपयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra is the purifier (मृक्षः शोधकः (*mṛkṣaḥ śodhakaḥ*)) of the praisers, one to be served. He is अश्वः (*aśvaḥ*), skilled in horses; or else अश्व (*aśva*) is with a pleonastic suffix, and he is like a washed horse. He who is कीजः (*kījaḥ*): कीज (*kīja*) means "wonderful"; "what is his, how is he born" **NOTE**. And he who is golden (हिरण्ययः (*hiraṇyayaḥ*)), golden-bodied: that Indra, so wonderful, the slayer of Vṛtra, shakes the enclosure (अपावृतिं (*apāvṛtiṃ*)) of the abundant herd of cows (गव्यस्य (*gavyasya*)), that is, makes it tremble.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्रः (*śakraḥ*)—the mighty
+- यः (*yaḥ*)—which Indra
+- मृक्षः (*mṛkṣaḥ*)—is the purifier of the sacrificer
+- अश्वः (*aśvaḥ*)—who is skilled in testing horses
+- यो वा (*yo vā*)—who
+- कीजः (*kījaḥ*)—is of wonderful might
+- हिरण्ययः (*hiraṇyayaḥ*)—is golden-bodied
+- वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra
+- स इंद्रः (*sa iṃdraḥ*)—that same Indra
+- ऊर्वस्य (*ūrvasya*)—extensive
+- गव्यस्य (*gavyasya*)—of the herd of cows
+- अपावृतिं (*apāvṛtiṃ*)—the confining place
+- रेजयति (*rejayati*)—makes tremble
+
+### Printed p. 762
+
+##### भावार्थ (Bhāvārtha)
+
+The mighty Indra who is the purifier of the sacrificer, who is skilled in testing horses, who is of wonderful might and golden-bodied, that same Indra, the slayer of Vṛtra, makes the confining place of the extensive herd of cows tremble. That is, he opens the door and sets the cows free.
+
+##### English translation
+He, Shakra, who is the purifier (of his worshippers), and well-skilled
+in horses, who is wonderful and golden-bodied,—He, Indra, the slayer of
+Vritra, shakes the hilding-place of the numerous herd of cows.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निखा॑तं चि॒द्यः पु॑रुसंभृ॒तं वसूदिद्वप॑ति दा॒शुषे॑ ।  
+> व॒ज्री सु॑शि॒प्रो हर्य॑श्व॒ इत्क॑र॒दिंद्रः॒ क्रत्वा॒ यथा॒ वश॑त् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निखातं । चित् । यः । पुरुसंभृतं । वसु । उत् । इत् । वपति । दाशुषे ।  
+> वज्री । सुशिप्रः । हरिअश्वः । इत् । करत् । इंद्रः । क्रत्वा । यथा । वशत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> निखातं चिद्भूमौ खात्वा स्थापितमपि संभृतं संगृहीतं यागदानादिकं
+> कृत्तेदृशं पुरु बहु वसु धनमुदिद्वपति उद्वपत्येव दाशुषे यजमानाय । एवं
+> यो देवः करोति स वज्री सुशिप्रः सुहनुर्हर्यश्च इद्दरितवर्णाश्वयुक्त इंद्र
+> एव करोति । केनोपाधिना । क्रत्वा कर्मणा यागेनोपाधिना । यथा वरत् येन
+> प्रकारेण कामयते तथा स एव करोति ॥
+
+##### Gist of the bhāṣya
+
+Even wealth buried in the earth (निखातं चित् (*nikhātaṃ cit*)), collected by sacrifice, gifts and the like, abundant wealth, he scatters up for the offerer, the sacrificer. The god who does thus is the thunderer, fair-jawed, with bay horses, Indra himself. By what means? By the work, by the sacrifice. As he wishes, in that way he alone does. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्रत्वा (*kratvā*)—by the sacrificial act
+- यथा (*yathā*)—in the manner
+- यः वशत् (*yaḥ vaśat*)—in which he is satisfied, in that same manner (as its fruit)
+- वज्री (*vajrī*)—the bearer of the thunderbolt
+- सुशिप्रः (*suśipraḥ*)—having fine cheeks
+- हर्यश्व इत् (*haryaśva it*)—endowed with horses of bay colour, that same
+- इंद्रः (*iṃdraḥ*)—Indra
+- दाशुषे (*dāśuṣe*)—to the sacrificer who gives the oblation
+- निखातः चित् (*nikhātaḥ cit*)—digging up even the earth
+- संभृतं (*saṃbhṛtaṃ*)—accumulated by others
+- पुरु वसु (*puru vasu*)—abundant wealth
+- उदिद्वपति (*udidvapati*)—brings and pours out
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the bearer of the thunderbolt, fair-jawed, endowed with horses of bay colour, who is satisfied by the sacrificial act, that same Indra, in return for his satisfaction, gathers all the wealth that other rich men have buried by digging the earth, and brings and pours out abundant wealth for the sacrificer who offers oblations to him.
+
+##### English translation
+He who verily pours forth to the offerer the buried wealth accumulated
+by many, he, Indra, the thunderer, handsome-jawed, borne on bay steeds,
+does as he pleases, (when propitiated) with sacrifice.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॒वंथ॑ पुरुष्टुत पु॒रा चि॑च्छूर नृ॒णां ।  
+> व॒यं तत्त॑ इंद्र॒ सं भ॑रामसि य॒ज्ञमु॒क्थं तु॒रं वचः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ववंथ । पुरुस्तुत । पुरा । चित् । शूर । नृणां ।  
+> वयं । तत् । ते । इंद्र । सं । भरामसि । यज्ञं । उक्तं । तुरं । वचः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुष्टुत बहुभिः स्तुतेंद्र शूर विक्रांत नृणां नेतृणां स्तोतृणां
+> सकाशात् पुरा । चिदित्युपमार्थे । तथेदानीमपि यद्ववंथ अचीकमथाः तदेव
+> वयं तुरं तूर्णं ते तुभ्यमिंद्र सं भरामसि । संभरामः । किं तदिति उच्यते ।
+> यज्ञं यागयोग्यं हविरुक्थं शस्त्रं वचो वाच्यं । तव प्रियतमं हविः स्तोत्रं
+> च संभराम इत्यर्थः
+
+##### Gist of the bhāṣya
+
+O Indra, praised by many, hero, valiant: as of old from the leaders, the praisers (नृणां (*nṛṇāṃ*)), so now also, whatever you desired (ववंथ (*vavaṃtha*) is explained as अचीकमथाः (*acīkamathāḥ*)), that we quickly bring together for you. The word चित् (*cit*) is in the sense of comparison. What is it? The sacrifice, the oblation fit for the sacrifice; the ukthā, the recitation (śastra); the speech, what is to be spoken. The meaning is: we bring together your dearest oblation and praise.
+
+### Printed p. 764
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—praised by many
+- शूर (*śūra*)—and valiant
+- इंद्र (*iṃdra*)—O Indra
+- नृणां (*nṛṇāṃ*)—from former sacrificers
+- पुरा चित् (*purā cit*)—of old
+- यद्ववंथ (*yadvavaṃtha*)—whatever you desired
+- तत् यज्ञं (*tat yajñaṃ*)—that same sacrifice (oblation)
+- उक्तं (*uktaṃ*)—that same śastra-mantra
+- वचः (*vacaḥ*)—that same praise-speech
+- वयं (*vayaṃ*)—we
+- तुरं (*turaṃ*)—quickly
+- ते (*te*)—for you
+- सं भरामसि (*saṃ bharāmasi*)—acquire and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by many and valiant, whatever you desired of old from former sacrificers, that same sacrificial oblation, that same śastra-mantra and that same praise-speech we too quickly acquire and offer to you.
+
+##### English translation
+Hero, praised of many, what of old time you desired from your
+votaries, that, Indra, we hasten to bring to you,—oblation and recited
+praise.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सचा॒ सोमे॑षु पुरुहूत वज्रिवो॒ मदा॑य द्युक्ष सोमपाः ।  
+> त्वमिद्दि ब्र॑ह्म॒कृते॒ काम्यं॒ वसु॒ देष्ठः॑ सुन्व॒ते भुवः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सचा । सोमेषु । पुरुहूत । वज्रिवः । मदाय । द्युक्ष । सोमपाः ।  
+> त्वं । इत् हि । ब्रह्मकृते । काम्यं । वसु । देष्यः । सुन्वते । भुवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूत हे वज्रिवो वज्रवन् द्युक्ष द्युमन् सोमपाः
+> सोमस्य पातः त्वं सोमेष्टभिषुतेषु मदाय सचा सह भवेति शेषः । त्वमित्त्वमेव
+> ब्रह्मकृते स्तोत्रकर्त्रॆ सुन्नते च काम्यं कमनीयं वसु धनं देष्टो दातृतमो
+> भुवः । भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many, bearer of the thunderbolt, radiant, drinker of the Soma: you, at the pressed Soma-offerings, be together (with us) for exhilaration; "be" is to be supplied. You alone, to the maker of the prayer, the praiser, and to the presser of the Soma, are the most generous giver (देष्टो दातृतमो (*deṣṭo dātṛtamo*)) of desirable wealth; भुवः (*bhuvaḥ*) means "you are".
+
+### Printed p. 765
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—worthy of the invocation of many
+- वज्रिवः (*vajrivaḥ*)—bearer of the thunderbolt
+- द्युक्ष (*dyukṣa*)—radiant
+- सोमपाः (*somapāḥ*)—one who drinks the Soma, O Indra
+- सोमेषु (*someṣu*)—when the Soma juices are pressed and ready
+- मदाय (*madāya*)—for your joy
+- सचा (*sacā*)—be with us
+- त्वमित् हि (*tvamit hi*)—you alone
+- ब्रह्मकृते (*brahmakṛte*)—to the praiser
+- सुन्वते (*sunvate*)—to the sacrificer
+- काम्यं (*kāmyaṃ*)—attractive
+- वसु (*vasu*)—wealth
+- देष्ठः (*deṣṭhaḥ*)—as one who gives most abundantly
+- भुवः (*bhuvaḥ*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the invocation of many, bearer of the thunderbolt, radiant, drinker of the Soma, when the Soma juices are pressed and ready, be with us for your joy. You alone are one who gives most abundantly attractive wealth both to the praiser and to the sacrificer.
+
+##### English translation
+Bearer of the thunderbolt, be present at our libations for your exhilaration; for you are an abundant giver of desirable wealth to him who utters your praises and effuses the Soma.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमे॑नमि॒दा ह्योऽपी॑पेमे॒ह व॒ज्रणं॑ ।  
+> तस्मा॑ उ अ॒द्य स॑म॒ना सु॒तं भ॒रा नू॒नं भू॑षत श्रु॒ते ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । एनं । इदा । ह्यः । अपीपेम । इह । वज्रिणं ।  
+> तस्मै । ऊं इति । अद्य । समना । सुतं । भर । आ । नूनं । भूषत । श्रुते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्निंशिकेऽहनि माध्यंदिनसवनेच्छावाकशस्त्रे वयमेनमिति वैकल्पिकोऽनुरूपः । तथा च सूत्रितं । वयमेनमिदा ह्यो यो राजा चर्षणीनां ।
+> आ. ७.४ । इति ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, in the midday pressing, in the śastra of the Acchāvāka, वयमेनमिति (*vayamenamiti*) is an optional anurūpa. So it is laid down in the sūtra: वयमेनमिदा ह्यो यो राजा चर्षणीनां (*vayamenamidā hyo yo rājā carṣaṇīnāṃ*) (Ā. 7.4).
+
 ---
 
-**Progress note:** Done through printed p. 758. Mandala 8 sukta 65 rks 8-12, sukta 66 introduction and rk 1 samhita
+**Progress note:** Done through printed p. 765. Maṇḍala 8 Sūkta 66 ṛks 1-7, pp. 759-765
