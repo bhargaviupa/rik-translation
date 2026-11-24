@@ -5162,6 +5162,320 @@ In the new-moon iṣṭi (Darśa), when the oblation is offered to Indra and Agn
 > सं । यत् । मही इति । मिथती इति । स्पर्धमाने इति । तनूरुचा । शूरसाता ।  
 > यतैते इति ।
 
+### Printed p. 126
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अथाध्यायं । विदथे । देवयुभिः । सत्रा । हतं । सोमसुता । जनेन । ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मही महत्यौ मिथती परस्परं हिंसंत्यौ । यद्वा । मेधतिराक्रोशकर्मा ।
+> परस्परमाक्रोशंत्यौ । स्पर्धमाने स्पर्धां कुर्वंत्यौ तनूरुचा.... .... ....हतं ।
+> हिंस्तं । तथा सोमसुता सोममभिषुण्वता जनेन यजमानसंघेनासोमसुतं
+> जनं हिंस्तं ॥
+
+##### Gist of the bhāṣya
+
+मही (*mahī*) means "great" (the two great ones). मिथती (*mithatī*) means "injuring each other". Or else मेधति (*medhati*) is a verb of shouting, so the word means "shouting at each other". स्पर्धमाने (*spardhamāne*) means "vying with each other". The sentence then goes on to हतं (*hataṃ*), "destroy" (the printed text abridges it with dots). The verb is completed as: destroy the man who presses no Soma, through the man who presses Soma, that is, through the body of sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूरसाता (*śūrasātā*)—in battle
+- मही (*mahī*)—of great form
+- मिथती (*mithatī*)—injuring one another
+- स्पर्धमाने (*spardhamāne*)—and vying: the two armies
+- तनूरुचा (*tanūrucā*)—by the lustre of their bodies
+- यत् (*yat*)—in what manner
+- सं यतैते (*saṃ yataite*)—as they fight and become destructive (in the same way)
+- विदथे (*vidathe*)—on the sacrificial ground
+- अदेवयुं (*adevayuṃ*)—the one fallen from his rites, who has worshipped the gods **NOTE**
+- देवयुभिः (*devayubhiḥ*)—by the worshippers of the gods
+- सत्रा (*satrā*)—in the sacrifice
+- सोमसुता (*somasutā*)—who press and offer Soma
+- जनेन (*janena*)—also through the sacrificers
+- हतं (*hataṃ*)—have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+As two armies, great in form, injuring one another and vying, fight in battle and become destructive by the lustre of their bodies, in the same way have the one fallen from his rites, who does not worship the gods, destroyed on the sacrificial ground by the worshippers of the gods, and also through the sacrificers who press and offer Soma in the sacrifice.
+
+##### English translation
+As two large, mutually defiant armies), emulous in corporal vigour, may contend in war, so you destroy, by the devout, those who are not devoted to the gods in sacrifices, and, by the man who presents libations, (him who does not offer).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मामु॒ षु सोम॑सुति॒मुप॑ न॒ एंद्रा॑ग्नी सौमन॒साय॑  
+> यातं ।  
+> नू चि॒द्दि प॑रिम॒न्नाथे॑ अ॒स्माना वां॒ शश्व॑द्भिर्ववृतीय॒ वाजैः॑॥
+
+### Printed p. 127
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । ऊं इति । सु । सोमसुतिं । उप । नः । आ । इंद्राग्नी इति । सौमनसाय।  
+> यातं ।  
+> नु । चित् । हि । परिमन्नाथे इति परिमन्नाथे । अस्मान् । आ । वां । शश्वत्भिः ।  
+> ववृतीय । वाजैः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी इमामु इमामेव नोऽस्मदीयां सोमसुतिं सोमाभिषवक्रियां सौमनसाय सुमनसो भानाय सु सुष्ठूपा यातं । उपागच्छतं ।
+> अपि च युवामस्मान् परित्यज्य नू चिन्नैव मन्माथे । अन्यान्न मन्येथे । अस्मानेव सर्वदा बुध्येथे । हि यस्मादेवं तस्माद्वां युवां शश्वद्भिर्बहुभिर्वाजैरन्नॆर्हविलक्षणैरा नवृतीय । आवर्तयामि ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, come well to this our Soma-pressing, for your favour (सौमनसाय (*saumanasāya*), the goodwill of a kindly mind). Further, you two do not abandon us and think of others; you always take heed of us alone. Since that is so, I (ववृतीय (*vavṛtīya*)) bring you here with many constant वाजैः (*vājaiḥ*), that is, with offerings of food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- नः (*naḥ*)—our
+- सोमसुतिं (*somasutiṃ*)—the act of pressing Soma
+- सौमनसाय (*saumanasāya*)—to show favour
+- इमां उ (*imāṃ u*)—to this very sacrifice of ours
+- सु (*su*)—exceedingly
+- उप आ यातं (*upa ā yātaṃ*)—come graciously
+- युवां (*yuvāṃ*)—you two
+- आस्मान् (*āsmān*)—abandoning us
+- नू चित् (*nū cit*)—ever
+- परिमन्नाथे (*parimannāthe*)—you have never honoured others
+- हि (*hi*)—therefore
+- वां (*vāṃ*)—you
+- शश्वद्भिः (*śaśvadbhiḥ*)—with abundant
+- वाजैः (*vājaiḥ*)—oblations
+- आ ववृतीय (*ā vavṛtīya*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, come exceedingly graciously to this very sacrifice of ours, to favour our Soma-pressing. You two have never abandoned us and honoured others. Therefore we call you with abundant oblations.
+
+##### English translation
+Come with gracious minds, Indra and Agni, to this our Soma
+libation: you are never regardless of us, therefore I propitiate you with
+constant (sacrificial, viands.
+
+### Printed p. 128
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो अ॑ग्न ए॒ना नम॑सा॒ समि॒द्धोच्छा॑ मि॒त्रं वरु॑ण॒मिंद्रं॑  
+> वोचेः ।  
+> यत्सी॒माग॑श्च कृ॒मा तत्सु मृ॑ळ॒ तद॑र्य॒मादि॑तिः शिश्रथंतु ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अग्ने । एना । नमसा । संइद्धः । अच्छ । मित्रं । वरुणं । इंद्रं । वोचेः ।  
+> यत् । सीं । अगः । चक्रम । तत् । सु । मृळ । तत् । अर्यमा ' अदितिः । शिश्रथंतु!!
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स त्वमेनैनेन नमसान्नेनास्मदीयेन हविषा समिद्धः संदीप्तः
+> सन्नित्रं वरुणमिंद्रं चाच्छ वोचेः । अभिबूयाः । अयमस्मदीयो रक्षणीय इति
+> कथय । वयं यदागोऽपराधं । सीवि ति परिग्रहार्थियः । सीं सर्वतो वाज्मनःकायैश्चकृम कृतवंतो वयं तत्तस्मादागसः सु मृळ । आस्मान् सुष्टु रक्ष । तच्चागोऽर्यमादितिर्मित्रादयश्च शिश्रथंतु । अस्मत्तो वियोजयंतु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you, kindled by this our offering of food (नमसा (*namasā*) = *annena*), speak (वोचेः (*voceḥ*), "declare") to Mitra, Varuṇa and Indra: "This man is ours, to be protected." Whatever offence (आगः (*āgaḥ*)) we have committed everywhere (सीं (*sīṃ*) has the sense of "all round") by speech, mind and body, from that offence protect us well (सु मृळ (*su mṛḷa*)). And may Aryaman, Aditi and Mitra and the others loosen it, that is, detach it from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—you, the renowned
+- एना नमसा (*enā namasā*)—with the oblation now offered
+- समिद्धः (*samiddhaḥ*)—blazing
+- मित्रं (*mitraṃ*)—to Mitra
+- वरुणं (*varuṇaṃ*)—to Varuṇa
+- इंद्रं (*iṃdraṃ*)—to Indra
+- अच्छ (*accha*)—on our behalf
+- वोचेः (*voceḥ*)—speak words of praise
+- वयं (*vayaṃ*)—we
+- सीं (*sīṃ*)—by all these means, body, speech and mind
+- यत् आगः (*yat āgaḥ*)—whatever offence
+- चक्रम (*cakrama*)—we have committed
+- तत् (*tat*)—from all those sins
+- सु मृळ (*su mṛḷa*)—protect fully
+- अरमा (*aramā*)—Aryaman **NOTE**
+- अदितिः (*aditiḥ*)—and Aditi
+- तत् (*tat*)—that same sin
+- शिश्रथंतु (*śiśrathaṃtu*)—let them destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you, the renowned, blazing with the oblation now offered, speak words of praise to Mitra, to Varuṇa and to Indra on our behalf. Whatever offences we have committed by all these means, body, speech and mind, from all those sins protect us fully. May Aryaman and Aditi also destroy that same sin completely.
+
+### Printed p. 129
+
+##### English translation
+Kindled, Agni, by this adoration, you recommend us to Mitra,
+Varuna and Indra : whatever sin we may have committed, you expiate,
+and may Aryaman, Aditi (and Mitra) remove it (from us).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता अ॑ग्न आशुषा॒णास॑ इ॒ष्टीयु॒र्वोः सचा॒भ्य॑श्याम॒ वाजा॑न् ।  
+> मेंद्रो॑ नो॒ विष्णु॑र्म॒रुतः॒ परि॑ ख्यन्यू॒यं पा॑त स्व॒स्तिभिः॒ ॑ 
+> सदा नः ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एताः । अग्ने । आशुषाणासः । इष्टीः । युवोः । सचा । अभि । अश्याम । वाजान् ।  
+> मा । इंद्रः । नः । विष्णुः । मरुतः । परि । ख्यन् । यूयं । पात । स्वस्तिभिः ।  
+> सदा । नः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने । उपलक्षणमेतत् । हे इंद्राग्नी एता इष्टीरिमान्यज्ञानाशुषाणास
+> आशु शीघ्रं संभजमाना वयं युवोर्युवयोः स्वभूतान्वाजानन्नानि सचा सह
+> युगपदेवाभ्यश्याम । अभिप्राप्नुयाम । अपि चेंद्रो विष्णुर्मरुतश्च नोऽस्मान्
+> मा परिख्यन् । अस्मान्परित्यज्यान्यान् मा द्राक्षुः । सर्वदास्मानेव पश्यंतु । अन्यद्गतं॥
+
+##### Gist of the bhāṣya
+
+"O Agni" is a mere indication (उपलक्षण (*upalakṣaṇa*)): the address is to Indra and Agni. We, quickly (आशु (*āśu*)) resorting to these sacrifices, would obtain together, at one time, your वाजान् (*vājān*), that is, the foods that are yours. And may Indra, Viṣṇu and the Maruts not look past us (मा परिख्यन् (*mā parikhyan*)): not abandoning us and seeing others, let them always look on us alone. The rest is as already explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Indra and Agni
+- एताः इष्टीः (*etāḥ iṣṭīḥ*)—these sacrifices
+- आशुषाणासः (*āśuṣāṇāsaḥ*)—we who perform them quickly
+- युवोः (*yuvoḥ*)—granted by you
+- वाजान् (*vājān*)—the foods
+- सचा (*sacā*)—together
+- अभ्यश्याम (*abhyaśyāma*)—may we enjoy
+- इंद्रः (*iṃdraḥ*)—Indra
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- मरुतः (*marutaḥ*)—and the Maruts
+- नः (*naḥ*)—us
+- मा परि ख्यन् (*mā pari khyan*)—let them not abandon (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, may we, who quickly perform these sacrifices, enjoy together the foods granted by you. May Indra, Viṣṇu and the Maruts not abandon us. O Indra and the other gods, protect us always with blessings.
+
+##### English translation
+Diligently celebrating these rites, may we, Agni (and Indra), at once arrive at your food : let not Indra, Vishnu, the Maruts, abandon us; and you (gods) ever cherish us with blessings,
+
+## Sūkta 94 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं वामिति द्वादशर्च० पंचमं सूक्तं वसिष्ठस्यार्षमैंद्राग्नं। द्वादश्यनु.
+> ष्टुप् शिष्टा गायत्रः । तथा चानुक्रांतं । इयं वां द्वादश गायत्रमंत्यानुष्टुबिति ॥ ज्योतिष्टोमे प्रातःसवनेच्छावाकशस्त्र आदितो नवर्चः शस्यंते ।
+> सूत्र्यते हि । इयं वामस्य मन्मन इति नव । आ ५.१० । इति ॥ अभिप्लविकेषूक्ष्येषु
+> स्तोमेषु वृद्धावच्छावाकस्य प्रातःसवन इद सूक्तमावापार्थमुत्तमावर्ज० ।
+> सूत्रितं च । इयं वामस्य मन्मन इत्येकादश । आ. ७-५ । इति ॥ चातुर्विंशिकेऽहनि
+> प्रातःसवने तस्यॆवाद्यस्तृचः । सूत्रितं च । इयं वामस्य मन्मन इंद्राग्नी युवामिमे ॥ आ. ७-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The Sūkta इयं वां (*iyaṃ vāṃ*) has twelve Ṛks and is the fifth Sūkta (of the anuvāka). Its seer is Vasiṣṭha and its deity Indra-Agni. The twelfth Ṛk is anuṣṭubh, the remainder gāyatrī. So the Anukramaṇī: इयं वां द्वादश गायत्रमंत्यानुष्टुप् (*iyaṃ vāṃ dvādaśa gāyatramaṃtyānuṣṭup*). In the Jyotiṣṭoma, at the morning pressing, the first nine Ṛks are recited in the śastra of the Acchāvāka; the sūtra says इयं वामस्य मन्मन इति नव (*iyaṃ vāmasya manmana iti nava*) (Ā. 5-10). In the Abhiplava Ukthya rites, when the stomas are increased, this Sūkta is inserted in the morning pressing of the Acchāvāka for the purpose of āvāpa, omitting the last Ṛk. The sūtra: इयं वामस्य मन्मन इत्येकादश (*iyaṃ vāmasya manmana ityekādaśa*) (Ā. 7-5). On the Cāturviṃśika day, at the morning pressing, its first three Ṛks are used. The sūtra: इयं वामस्य मन्मन इंद्राग्नी युवामिमे (*iyaṃ vāmasya manmana iṃdrāgnī yuvāmime*) (Ā. 7-2).
+
+##### Anuvāda
+
+This Sūkta beginning इयं वां (*iyaṃ vāṃ*) is the fifth Sūkta in the sixth anuvāka. It has twelve Ṛks. Its seer is Vasiṣṭha and its deity Indra-Agni. The twelfth Ṛk of this Sūkta is in the anuṣṭubh metre; the remaining Ṛks are in gāyatrī. In the Anukramaṇī it is said: इयं वां द्वादश गायत्रमंत्यानुष्टुप् (*iyaṃ vāṃ dvādaśa gāyatramaṃtyānuṣṭup*). In the Jyotiṣṭoma sacrifice, among the śastra mantras recited by the priest called Acchāvāka at the morning pressing, the first nine Ṛks of this Sūkta are recited. This is explained by the Āśvalāyana Śrautasūtra इयं वामस्य मन्मन इति नव (*iyaṃ vāmasya manmana iti nava*) (Ā. 5-10). In the Ukthya sacrifices connected with the Abhiplava, when the stomas are increased, the priest called Acchāvāka is to recite this Sūkta at the morning pressing, omitting the last Ṛk, for the purpose of āvāpa; this is explained by the Āśvalāyana Śrautasūtra इयं वामस्य मन्मन इत्येकादश (*iyaṃ vāmasya manmana ityekādaśa*) (Ā. 7-5). And on the day of the sacrifice called Cāturviṃśika, at the morning pressing, the first three Ṛks of this Sūkta are to be recited, as the Āśvalāyana Śrautasūtra explains by इयं वामस्य मन्मन इंद्राग्नी युवामिमे (*iyaṃ vāmasya manmana iṃdrāgnī yuvāmime*) (Ā. 7-2).
+
+### Printed p. 131
+
+##### Particulars
+
+Sūkta 94. Maṇḍala 7, Anuvāka 6, Sūkta 94. Aṣṭaka 5, Adhyāya 6, Vargas 17, 18. Number of Ṛks in the Sūkta: 12. Seer: Vasiṣṭha. Deity: Indra-Agni. Metre: 1-11 gāyatrī; 12 anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं वा॑म॒स्य मन्म॑न॒ इंद्रा॑ग्नी पू॒र्व्यस्तु॑तिः ।  
+> अ॒भ्राद्वृ॒ष्टिरि॑वाजनि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । नां । अस्य । मन्मनः । इंद्राग्नी इति । पूर्व्यस्तुतिः ।  
+> अभ्रात् । वृष्टिःइव । अजनि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी इयं पूर्वस्तुतिः पूर्व्या मुख्या स्तुतिरस्य मन्मनः स्तोतुरस्माद्वसिष्ठाद्दां युवाभ्यां युवयोरर्थमभ्रान्मेघाद्वृष्टिरिव बह्वी सत्यजनि ।
+> प्रादुर्भूता । तां शृणुतमित्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, this chief praise (पूर्व्या (*pūrvyā*) = मुख्या (*mukhyā*)) has been brought forth for you two from this praiser, this Vasiṣṭha, copiously like rain from a cloud. The connection is with what follows: "hear it".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- अभ्रात् (*abhrāt*)—from the rain-making cloud
+- वृष्टिः इव (*vṛṣṭiḥ iva*)—as rain pours in a stream
+- मन्मनः (*manmanaḥ*)—who composes meditative praise
+- अस्य (*asya*)—from the mouth of this Vasiṣṭha
+- इयं पूर्वस्तुतिः (*iyaṃ pūrvastutiḥ*)—this most chief praise
+- वां (*vāṃ*)—for your praise
+- अजनि (*ajani*)—has been composed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, as rain pours in a stream from the rain-making cloud, so from the mouth of this Vasiṣṭha, who composes meditative praise, this most chief praise has been composed for your praise.
+
+### Printed p. 132
+
+##### English translation
+This chief praise, Indra and Agni, proceeds (copiously) from me
+your worshipper, like rain from a cloud.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शृ॒णु॒तं ज॑रि॒तुर्हव॒मिंद्रा॑ग्नी॒ वन॑तं॒ गिरः॑ ।  
+> ई॒शा॒ना पि॑प्यतं॒ धियः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शृणुतं । जरितुः । हवं । इंद्राग्नी इति । वनतं । गिरः ।  
+> ईशाना । पिप्यतं । धियः ॥ २ :
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी जरितुः स्तोतुर्हवमाह्वानं युवां शृणुतं । श्रुत्वा च
+> गिरस्तदीयाः स्तुतीर्वनतं । संभजतं । तथेशानेश्वरौ युवां धियोऽनुष्ठितानि
+> कर्माणि पिप्यतं । तत्स्थैः फलैः पूरयतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, hear the invocation (हवं (*havaṃ*) = *āhvānaṃ*) of the praiser, and having heard, accept (वनतं (*vanataṃ*) = संभजतं (*saṃbhajataṃ*)) his praises. And as lords (ईशाना (*īśānā*) = *īśvarau*), fill (पिप्यतं (*pipyataṃ*)) the rites he has performed (धियः (*dhiyaḥ*)) with the fruits that belong to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- जरितुः (*jarituḥ*)—of this Vasiṣṭha, the praiser
+- हवं (*havaṃ*)—the invocation
+- शृणुतं (*śṛṇutaṃ*)—hear
+- गिरः (*giraḥ*)—his words of praise
+- वनतं (*vanataṃ*)—honour
+- ईशाना (*īśānā*)—you who are lords
+- धियः (*dhiyaḥ*)—his rites
+- पिप्यतं (*pipyataṃ*)—honour with fruits
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, hear the invocation of this Vasiṣṭha, the praiser. Honour his words of praise. You, who are lords, honour his rites with good fruits.
+
+##### English translation
+Hear, Indra and Agni, the invocation of the worshipper ; accept his
+adoration ; recompense, lords, his pious acts.
+
 ---
 
-**Progress note:** Done through printed p. 125. pp. 119-125 (batch API)
+**Progress note:** Done through printed p. 132. pp. 126-132 (batch API)
