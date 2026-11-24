@@ -28900,6 +28900,262 @@ Maṇḍala 8, Anuvāka 6, Sūkta 55; Aṣṭaka 6, Adhyāya 4, Varga 26. Number
 > भूरि । इत् । इंद्रस्य । वीर्यं । वि । अख्यं । अभि । आ । अयति ।  
 > राधः । ते । दस्यवे । वृक ॥ १ ॥
 
+### Printed p. 635
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रस्य समर्थस्य प्रस्कण्वस्य वीर्यं दानल क्षणसामर्थ्यं भूरीत् प्रचुरमेव सत् अभि अभितः आ आयति अभिमुख्येन प्राप्नोतीति व्यख्यं व्यज्ञासिषमहं ।
+> ईश्वरेणाल्पमपि कृतं कर्म बहु भवत् प्रसिद्ध्यतीत्यर्थः । इदानीमृषिः प्रत्यक्षीकृत्याह । हे वृक शत्रुविकर्तन प्रस्कण्व ते तव संबंधि राधो धनं दस्युवे दस्युं
+> हंतुं समर्थं भवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The prowess of Indra, that is, of the capable Praskaṇva, his capacity of the nature of giving, being abundant, भूरीत् (*bhūrīt*), reaches me from every side, turned towards me. This I have come to know, व्यख्यं (*vyakhyaṃ*). That is, a deed done even in a small way by the Lord becomes great and is renowned. Now the seer, making it present before him, says: O Vṛka, cutter of enemies, Praskaṇva, your wealth is able to slay the dasyu; "is able" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रस्य (*iṃdrasya*)—of Indra (or of Praskaṇva, who is capable of everything)
+- वीर्यं (*vīryaṃ*)—the capacity (the power of giving and the like)
+- भूरि इत् (*bhūri it*)—being exceedingly abundant
+- अभ्यायति (*abhyāyati*)—the matter that it pervades everywhere
+- व्यख्यं (*vyakhyaṃ*)—I have fully understood
+- वृक (*vṛka*)—O Indra, who cut down the enemy
+- ते (*te*)—your
+- राधः (*rādhaḥ*)—wealth
+- दस्यवे (*dasyave*)—helps for the destruction of the enemy
+
+##### भावार्थ (Bhāvārtha)
+
+I have understood that the capacity of Indra is exceedingly strong and pervades everywhere. O Indra, who cut down the enemy, your wealth helps for the destruction of the enemy.
+
+##### English translation
+We know the works of Indra as various; he is a bull unto the Dashys, his wealth is coming to us.
+
+##### विशेषविषयगळु (Special Topics)
+
+Take the word Indra to mean the seer. The word इंद्रस्य (*iṃdrasya*) is explained as of Praskaṇva, who is capable in all deeds, and वीर्यं (*vīryaṃ*) as a special capacity for giving and the like.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं श्वे॒तास॑ उ॒क्षणो॑ दि॒वि तारो॒ न रो॑चंते ।  
+> म॒ह्ना दिवं॒ न त॑स्तभुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । श्वेतासः । उक्षणः । दिवि । तारः । न । रोचंते ।  
+> मह्ना । दिवं । न । तस्तभुः ॥ २ ॥
+
+### Printed p. 636
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रस्कण्व त्वया दत्ताः शतसंख्याकाः श्वेतासः श्वेताः शुक्लवर्णाः उक्षणः
+> उक्षाणः रेतःसेचनसमर्था बलीवर्दा रोचंते दीप्यंते । क इव । दिवि द्युलोके
+> तारो न तारा इव । ता यथा दिवि रोचंते तद्वदेते भुवीत्यर्थः । किंच मह्ना
+> तेजसो महत्वे (महत्वेन) दिवं न तारा यथा द्युलोकं तस्तभुः व्याप्नुवंति
+> तद्वदेते मह्ना यशसो महत्वेन भुवं व्याप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+O Praskaṇva, the hundred white bulls given by you, श्वेतासः (*śvetāsaḥ*) white, of a bright colour, उक्षणः (*ukṣaṇaḥ*) bulls capable of shedding seed, shine, that is, glitter. Like what? Like stars in the heaven, the sky. As these shine in the heaven, so do these on the earth. That is the meaning. Further, by the greatness of their brilliance, as the stars pervade the sky, so these pervade the earth by the greatness of their fame.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतं (*śataṃ*)—(O Praskaṇva) a hundred in number (given by you)
+- श्वेतासः (*śvetāsaḥ*)—of a bright colour
+- उक्षणः (*ukṣaṇaḥ*)—and vigorous bulls
+- दिवि (*divi*)—in the sky
+- तारा न (*tārā na*)—as the stars shine
+- रोचंते (*rocaṃte*)—shine
+- मह्ना (*mahnā*)—by their greatness
+- दिवं न (*divaṃ na*)—as the stars pervade the whole sky
+- तस्तंभुः (*tastaṃbhuḥ*)—these bulls can pervade the whole earth
+
+##### भावार्थ (Bhāvārtha)
+
+O Praskaṇva, the hundred bulls given by you, of a bright colour and vigorous, shine as the stars shine in the sky. As the stars pervade the whole sky by their greatness, these bulls too pervade the whole earth.
+
+##### English translation
+As the stars shining in the sky so hundreds of bulls are looking beautiful thus beautifying the heaven with their grandeur.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं वे॒णूञ्चि॒तं शुनः॑ श॒तं चर्मा॑णि म्ला॒तानि॑ ।  
+> श॒तं मे॑ बल्बजस्तु॒का अरु॑षीणां॒ चतुः॑शतं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । वेणून् । शतं । शुनः । शतं । चर्माणि । म्लातानि ।  
+> शतं । मे । बल्बजस्तुकाः । अरुषीणां । चतुःशतं ॥ ३ ॥
+
+### Printed p. 637
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रस्कण्वः शतमपरिमितान् वेणून् मस्करान् । प्रादादिति सर्वत्र शेषः । शतं
+> शतसंख्याकान् शुनः सारमेयान् प्रादात् । तथा शतं बहूनि म्लातानि मृदूकृतानि
+> चर्माणि अजिनानि प्रादात् । किंच शतमपरिमिताः बल्बजस्तुताः तृणपूलाः मे
+> मह्यं कृशनाम्ने ऋषये प्रादात् । अथ च अरुषीणामारोचमानानां गवां
+> चतुःशतं प्रादात् ॥
+
+##### Gist of the bhāṣya
+
+Praskaṇva gave a hundred, that is, countless, bamboo staffs. "He gave" is to be supplied everywhere. He gave a hundred dogs, hounds. Likewise he gave a hundred softened hides, antelope skins. Further, he gave a hundred, that is, countless, bundles of balbaja grass **NOTE** to me, the seer named Kṛśa. And he gave four hundred shining cows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रस्कण्वः (*praskaṇvaḥ*)—Praskaṇva
+- मे (*me*)—to me
+- शतं (*śataṃ*)—countless
+- वेणान् (*veṇān*)—gave staffs of bamboo
+- शतं (*śataṃ*)—a hundred in number
+- शुनः (*śunaḥ*)—gave dogs (hounds)
+- शतं (*śataṃ*)—a hundred in number
+- म्लातानि (*mlātāni*)—made soft
+- चर्माणि (*carmāṇi*)—gave black antelope skins and the like
+- शतं (*śataṃ*)—many in number
+- बल्बजस्तुकाः (*balbajastukāḥ*)—gave bundles of the grass called balbaja
+- चुतुः शतं (*cutuḥ śataṃ*)—four hundred
+- अरुषीणां (*aruṣīṇāṃ*)—gave herds of attractive cows
+
+##### भावार्थ (Bhāvārtha)
+
+Praskaṇva gave me countless bamboo staffs, a hundred hounds (dogs of a good breed), many antelope skins and the like made soft, a great number of bundles of the grass called balbaja, and four hundred herds of attractive cows.
+
+##### English translation
+Praskanwa gave me one hundred sticks, one hundred dogs, hides, fodder and four hundred cows.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒दे॒वाः स्थ॑ॆ काण्वायना॒ वयो॑वयो विच॒रंतः॑ ।  
+> अश्वा॑सो॒ न चं॑क्रमत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुदेवाः । स्थ । काण्वायनाः । वयैवयः । विचरंतः ।  
+> आश्वासः । न । चंक्रमत ॥ ४ ॥
+
+### Printed p. 638
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे काण्वायनाः कण्वगोत्राः प्रस्कण्वा वयोवयः अतिशयेन पक्षिण इव ।
+> लुप्तोपमेयं । विचरंतः विहायसि चरंतः यूयं सुदेवाः स्थ कल्याणदेवाः
+> भवथ । अतोऽस्मदाशिषा अश्वा इव चंक्रमत विहरत यूयं ॥
+
+##### Gist of the bhāṣya
+
+O Kāṇvāyanas, Praskaṇvas of the lineage of Kaṇva, you who move exceedingly like birds through the sky are सुदेवाः (*sudevāḥ*), that is, you have good gods. Therefore, by our blessing, you move about, roam, like horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- काण्वायनाः (*kāṇvāyanāḥ*)—O sages Praskaṇva, born in the lineage of Kaṇva
+- वयोवयः (*vayovayaḥ*)—like birds with most excellent wings
+- विचरंतः (*vicaraṃtaḥ*)—moving through the whole sky
+- सुदेवाः (*sudevāḥ*)—becoming recipients of the grace of excellent gods
+- स्थ (*stha*)—you are renowned (and likewise)
+- अश्वासः न (*aśvāsaḥ na*)—in the manner in which horses move everywhere
+- चंक्रमत (*caṃkramata*)—move about, swift and strong
+
+##### भावार्थ (Bhāvārtha)
+
+O sage Praskaṇvas, born in the lineage of Kaṇva, moving through the whole sky like birds with most excellent wings, and becoming recipients of the grace of excellent gods, you are renowned. Likewise, in the manner in which horses move everywhere over the earth, move about swift and possessed of mighty strength in our regions too.
+
+##### English translation
+Sons of Kanwas, traversing the sky like birds, you are mightily wandering like horses.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदित्सा॒प्तस्य॑ चर्किर॒न्नानू॑नस्य॒ महि॒ श्रवः॑ ।  
+> श्यावी॑रतिध्व॒सन्प॒थश्चक्षु॑षा च॒न सं॒नशे॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । इत् । साप्तस्य । चर्किरन् । आ । अनूनस्य । महि । श्रवः ।  
+> श्यावीः । अतिध्वसन् । पथः । चक्षुषा । चन । संनशे ॥ ५ ॥
+
+### Printed p. 639
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित् दानानंतरमेव अनूनस्य अन्यूनस्य । सर्वोत्कृष्टस्येति यावत् ।
+> साप्तस्य एवंनाम्मः कण्वपुत्रस्य संबंधि महि महत् श्रवः यशः न चर्किरन् न
+> कर्तुमिच्छंति । तद्यशः संपादयितुं केचित् नेशते इत्यर्थः । किंच पथः धर्ममार्गात् सकाशात् अतिध्वसन् अतिशयेनाधः पतन् कृपणः पुमान् श्यावीः कपिला गाः
+> चक्षुषा जन नेत्रेणापि संनशे सम्यक् व्याप्तुं संद्रष्टुं नेष्टे । किमुत वक्तव्यं
+> तद्यशःसंपादने नेष्टे इति ॥
+
+##### Gist of the bhāṣya
+
+आदित् (*ādit*), immediately after the gift, of अनूनस्य (*anūnasya*), the unreduced, that is, the most excellent, साप्तस्य (*sāptasya*), of the son of Kaṇva so named, the great fame, महि श्रवः (*mahi śravaḥ*): they did not wish to make it, न चर्किरन् (*na carkiran*). That is, none are able to acquire that fame. Further, a miserly man who falls far down from the path of dharma cannot fully obtain, that is, cannot see, the tawny cows even with the eye **NOTE**. How much less, it need not be said, can he acquire that fame.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित् (*ādit*)—immediately after this gift described above
+- अनूनस्य (*anūnasya*)—of the giver who is flawless and most excellent
+- साप्तस्य (*sāptasya*)—the descendants of Sāpta, who was the son of Kaṇva
+- महि श्रवः (*mahi śravaḥ*)—in this very manner, exceeding fame
+- न चर्किरन् (*na carkiran*)—did not wish to acquire
+- पथः (*pathaḥ*)—from the path of dharma
+- अतिध्वसन् (*atidhvasan*)—the miserly, who slip and fall into the lower way
+- श्यावीः (*śyāvīḥ*)—attractive cows
+- चक्षुषा चन (*cakṣuṣā cana*)—even with the eyes
+- संनशे (*saṃnaśe*)—(do not) let them be seen
+
+##### भावार्थ (Bhāvārtha)
+
+Immediately after this gift described above, the descendants of Sāpta, the son of Kaṇva, an unblemished and most excellent giver, did not wish to acquire exceeding fame in this very manner. The miserly, who leave the path of dharma and fall into the lower way, do not let attractive cows be seen even with the eyes. For them there is no earning of fame at all, even before that.
+
+##### English translation
+Let the seven yolk team be praised. The young lives are of mighty strength. The deep ground makes go gallopping baffling the idle fellow.
+
+## Sūkta 56 (Maṇḍala 8)
+
+##### Gist of the bhāṣya
+
+The sūkta of five Ṛks beginning प्रति ते (*prati te*) is the eighth, the vision of Kāṇva Pṛṣadhra, in the Gāyatra metre. It is listed in the Anukramaṇikā: प्रति ते पृषध्रोऽंत्या अग्निसूर्यदेवत्या पंक्तिशृंदस्का । शेषा इंद्रदेवत्या गायत्रीछंदस्काः (*prati te pṛṣadhro 'ṃtyā agnisūryadevatyā paṃktiśṛṃdaskā | śeṣā iṃdradevatyā gāyatrīchaṃdaskāḥ*). The last Ṛk has Agni and Sūrya as deity and is in the Paṅkti metre; the others have Indra as deity and are in the Gāyatrī metre. The ritual application is to be learnt from the Sūtra.
+
+### Printed p. 640
+
+##### Anuvāda
+
+This sūkta beginning प्रति ते (*prati te*) is the eighth among the Vālakhilya sūktas. It has five Ṛks. In the Anukramaṇikā it is said: प्रति ते पृषध्रोऽन्त्या अग्निसूर्यदेवत्या पंक्तिश्चंदस्का (*prati te pṛṣadhro 'ntyā agnisūryadevatyā paṃktiścaṃdaskā*). The seer of this sūkta is one called Pṛṣadhraḥ Kāṇvaḥ. The praise of Praskaṇva's gift is the deity of the first four Ṛks of this sūkta; or else Indra is the deity. The fifth Ṛk has Agni and Sūrya as deity; the fifth Ṛk is in the Paṅkti metre. The remaining Ṛks are in the Gāyatrī metre. The ritual application is to be learnt from the Sūtra.
+
+##### Particulars
+
+Maṇḍala 8, Anuvāka 6, Sūkta 56; Aṣṭaka 6, Adhyāya 4, Varga 27. Number of Ṛks in the sūkta: 5. Seer: Pṛṣadhraḥ Kāṇvaḥ. Deity: 1-4 Praskaṇvasya dānastutiḥ (Indro vā); 5 Agnisūryau. Metre: 1-4 Gāyatrī; 5 Paṅktiḥ.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ ते दस्यवे वृक॒ राधो॑ अद॒र्श्यह्र॑यं ।  
+> द्यौर्न प्र॑थि॒ना शवः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । ते । दस्यवे । वृक । राधः । आदर्शि । अह्रयं ।  
+> द्याः । न । प्रथिना । शवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृक शत्रुविकर्तनेंद्र ते तव स्वभूतं राधो धनं दस्यवे उपक्षपयित्रे
+> शक्रवे प्रति प्रतिकूलं आदर्शि दृष्टं । शत्रुनापहृतं सन् (शत्रुणापहृतं सत्) न तस्य
+> उपकाराय भवति प्रत्युपकारायैव जायत इत्यर्थः । कीदृशं राधः । अह्वयं
+> लज्जारहितं । शत्रुहनने प्रगल्भमिति यावत् । किंच ते शवः बलं प्रथिना पृथुत्वेन
+> द्यौर्न द्युलोक इवास्ति । अतः सर्वोत्कृष्टं त्वामहं सौमात्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+O Vṛka, cutter of enemies, Indra, your own wealth has been seen hostile to the dasyu, the harasser, the enemy. Taken away by an enemy, it does not serve for his benefit but arises for a return injury. That is the meaning. What kind of wealth? अह्वयं (*ahvayaṃ*), shameless, that is, bold in slaying the enemy. Further, your strength, by its vastness, is like the heaven, the sky. Therefore, you, the most excellent, I **NOTE**.
+
 ---
 
-**Progress note:** Done through printed p. 634. 8.54 Ṛk 4 end, Ṛk 5-8; sūkta 8.55 intro, Ṛk 1
+**Progress note:** Done through printed p. 640. 8.55 Ṛk 1 bhāṣya, Ṛk 2-5; sūkta 8.56 intro, Ṛk 1
