@@ -7714,6 +7714,300 @@ At the animal sacrifice with Viṣṇu as deity mentioned earlier, while offerin
 
 At the same animal sacrifice, इरावती (*irāvatī*) is the yājyā for the havis. It is laid down in the sūtra: इरावती धेनुमती हि भूतं विश्वकर्मन्ह विषा नावृधान इति द्वे (*irāvatī dhenumatī hi bhūtaṃ viśvakarmanha viṣā nāvṛdhāna iti dve*) (Ā. 3-8). O heaven and earth, for the man (मनुषे (*manuṣe*)), the worshipper, who is desirous of giving (दशस्या (*daśasyā*) = दित्सया (*ditsayā*)), you two have become rich in food (इरावती (*irāvatī*)), rich in cows (धेनुमती (*dhenumatī*)) and possessed of good pasture (सूयवसिनी (*sūyavasinī*)); हि (*hi*) is the word of well-known fact. Because of Viṣṇu's striding, you two were formerly just so. O Viṣṇu, you propped apart (व्यस्तभ्नाः (*vyastabhnāḥ*) = विविधमधारयः (*vividhamadhārayaḥ*)) these two worlds (रोदसी (*rodasī*)), the earth with its face upward and heaven with its face downward, hence "variously". And you held (दाधर्थ (*dādhartha*)) the broad earth (पृथिवीं (*pṛthivīṃ*)) all around with the mountains (मयूखैः (*mayūkhaiḥ*) = *parvataiḥ*), making it firm so that it does not move. The mountains are Viṣṇu's own, by the Śruti विष्णुः पर्वतानामधिपतिरिति (*viṣṇuḥ parvatānāmadhipatiriti*) (Tai. Saṃ. 3-4-5-1).
 
+### Printed p. 186
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनुषे (*manuṣe*)—to the man who praises you (O heaven and earth)
+- दशस्या (*daśasyā*)—with the wish to give
+- इरावती (*irāvatī*)—possessing food
+- धेनुमती (*dhenumatī*)—accompanied by cows
+- सूयवसिनी (*sūyavasinī*)—filled with the finest grass and the like
+- भूतं हि (*bhūtaṃ hi*)—you are
+- विष्णो (*viṣṇo*)—O Vishnu
+- एते रोदसी (*ete rodasī*)—these two, heaven and earth
+- व्यस्तभ्नाः (*vyastabhnāḥ*)—you have held up separately
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- अभितः (*abhitaḥ*)—all around
+- मयूख्यैः (*mayūkhyaiḥ*)—with mountains
+- दाधर्थ (*dādhartha*)—you have supported
+
+##### भावार्थ (Bhāvārtha)
+
+O heaven and earth, with the wish to give to the man who praises you, you are possessed of food, accompanied by cows, and filled with the finest grass and the like. O Vishnu, you have held these two, heaven and earth, up separately. You have made the earth surrounded by mountains and so support it.
+
+##### English translation
+Heaven and earth, abounding with food, abounding with cattle, yielding abundant fodder, you are disposed to be liberal to the man (who praises you : you, Vishnu, have upheld these two, heaven and earth, and have secured the earth around with mountains.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Viṣṇu-deity animal sacrifice mentioned earlier, this Ṛk beginning इरावती (*irāvatī*) is to be recited as the yājyā mantra while the oblation is offered. This is explained by Āśvalāyana's Śrauta Sūtra: इरावती धेनुमती हि भूतं विश्वकर्मन् हविषा वावृधान इति द्वे (*irāvatī dhenumatī hi bhūtaṃ viśvakarman haviṣā vāvṛdhāna iti dve*) (Ā. 3-8).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रुं य॒ज्ञाय॑ चक्रथुरु लो॒कं ज॒नयं॑ता॒ सूर्य॑मु॒षास॑म॒ग्निं ।  
+> दास॑स्य चिद्वृषति॒प्रस्य॑ मा॒या ज॒घ्नथु॑र्नरा पृत॒नाज्ये॑षु ॥ ४ ॥
+
+### Printed p. 187
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुं । यज्ञाय । चक्रथुः । ऊं इति । लोकं । जनयंता । सूर्यं । उषसं।  
+> अग्निं ।  
+> दासस्य । चित् । वृषशिप्रस्य । मायाः । जघ्नधुः । नरा । पृतनाज्येषु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राविष्णू यज्ञाय यजमानायोरुं विस्तीर्णं लोकं स्वर्गाख्यं
+> चक्रथुरु । कृतवंतौ खलु युवां । किं कुर्वंतौ । सूर्यं सर्वस्य प्रेरकमादित्यमुषसं तमोनिवारकमुषःकालमग्निं चासुरैरावृतं जनयंतौ पुनः प्रादुर्भावयंतौ । हे नरा नेताराविंद्राविष्णू वृषशिप्रस्यॆतत्संज्ञस्य दासस्य चिदुपक्षपयितुरसुरस्य मायाः पृतनाज्येषु संग्रामेषु जघ्नथुः । जिहिंसथुः । युवां
+> सूर्यादिकं जनयंतावित्युच्यते ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Vishnu, you have made for the sacrificer (yajña) a broad world called heaven, generating the sun, the impeller of all, the dawn, the dispeller of darkness, and Agni, who had been enveloped by the Asuras; you bring them forth again. O leaders, you have destroyed in battles the deceits of the slave (dāsa) named Vṛṣaśipra, who harasses. The sense is that the two of you are said to generate the sun and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञाय (*yajñāya*)—for the sacrificer
+- सूर‍्यं (*sūryaṃ*)—the sun, impeller of all
+- उषसं (*uṣasaṃ*)—the dawn, dispeller of darkness
+- अग्निं (*agniṃ*)—Agni
+- जनयंता (*janayaṃtā*)—generating
+- उरु (*uru*)—very broad
+- लोकं (*lokaṃ*)—the world of heaven
+- चक्रथुः उ (*cakrathuḥ u*)—you have made, have you not!
+- नरा (*narā*)—O leaders, Indra and Vishnu
+- वृषशिप्रस्य (*vṛṣaśiprasya*)—of the one named Vṛṣaśipra
+- दासस्य चित् (*dāsasya cit*)—of the harassing Asura
+- मायाः (*māyāḥ*)—deceitful acts
+- पृतनाज्येषु (*pṛtanājyeṣu*)—in battles
+- जघ्नतुः (*jaghnatuḥ*)—you have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vishnu, generating for the sacrificer the sun, the impeller of all, the dawn, the dispeller of darkness, and Agni, you have made the very broad world of heaven. O leaders, Indra and Vishnu, you have destroyed in battles the deceitful acts of the harassing Asura named Vṛṣaśipra.
+
+##### English translation
+You two, Indra and Vishnu, have made the spacious world for the sake of sacrifice, generating the sun, the dawn, Agni: you leaders (of rites) have baffled the devices of the slave Vrishasipra in the conflicts of hosts.
+
+### Printed p. 188
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑विष्णू दृंहि॒ताः शंब॑रस्य॒ नव॒ पुरो॑ नव॒तिं च॑ श्यथिष्टं ।  
+> श॒तं व॒र्चिनः॑ स॒हस्रं॑ च सा॒कं ह॒थो अ॑प्र॒त्यसु॑रस्य वी॒रान् ॥ ५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राविष्णू इति । द्वंहिताः । शंबरस्य । नव । पुरः । नवतिं । च । श्नथिष्टं ।  
+> शतं । वर्चिनः । सहस्रं । च । साकं । हथः । अप्रति । असुरस्य । वीरान् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राविष्णू दृंहिता दृढीकृता नव नवतिं च नवोत्तरनवतिसंख्याकाः
+> पुरः पुराणि शंबरस्य स्वभूतानि शथिष्टं । अहिंसिष्टं ॥ शथ हिंसायां ॥ अपि च शतं
+> सहस्रं च वर्चिनोऽसुरस्य वीरानप्रति प्रतिद्वंद्विनो यथा न भवंति तथा साकं सह
+> सद्य एव हथः । अहिंसिष्टं । यो वर्चिनः शतमिंद्रः सहस्रं । ऋ. २-१४-६ । इति हि
+> निगमांतरं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Vishnu, you have destroyed the ninety-nine strengthened cities belonging to Śambara (शथ हिंसायां (*śatha hiṃsāyāṃ*) is the root). Further, you have at once slain together, in such a way that they have no opponent, the hundred and the thousand heroes of the Asura Varcin. He cites another Vedic passage: यो वर्चिनः शतमिंद्रः सहस्रं (*yo varcinaḥ śatamiṃdraḥ sahasraṃ*) (Ṛ. 2-14-6).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राविष्णू (*iṃdrāviṣṇū*)—O Indra and Vishnu
+- शंबरस्य (*śaṃbarasya*)—belonging to the Asura Śambara
+- दृंहिताः (*dṛṃhitāḥ*)—strongly built
+- नव नवतिं च (*nava navatiṃ ca*)—ninety-nine in number
+- पुरः (*puraḥ*)—cities
+- शृथिष्टं (*śṛthiṣṭaṃ*)—you destroyed
+- अर्चिनः (*arcinaḥ*)—of the one named Arci
+- असुरस्य (*asurasya*)—of the Asura
+- शतं सहस्रं च (*śataṃ sahasraṃ ca*)—a hundred thousand in number
+- वीरान् (*vīrān*)—warrior heroes
+- अप्रति (*aprati*)—unopposed
+- साकं (*sākaṃ*)—all
+- हथः (*hathaḥ*)—you have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vishnu, you destroyed the ninety-nine cities belonging to the Asura Śambara, strongly built. You destroyed together, unopposed, all the hundred thousand warrior heroes of the Asura named Arci.
+
+##### English translation
+Indra and Vishnu, you have demolished the ninety-nine strong cities of Sambara: you have slain at once, without resistance, the hundred thousand heroes of the Asura Varchin.
+
+### Printed p. 189
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं म॑नी॒षा बृ॑ह॒ती बृ॒हंतो॑रुक्र॒मा त॒वसा॑ व॒र्धयं॑ती।  
+> र॒रे नां॒ स्तोमं॑ वि॒दथे॑षु विष्णो॒ पिन्व॑त॒मिषो॑ वृ॒जने॑ष्विंद्र॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । मनीषा । बृहती । बृहंता । उरुुक्रमा । तवसा । वर्धयंती ।  
+> ररे । वां । स्तोमं । विदथेषु । विष्णो इति । पिन्नतं । इषः । वृजनेषु । इंद्र ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहती महतीयं मनीषा मननीया स्तुतिर्बृहंता बृहंतौ महांतावुरुक्रमा विस्तीर्णविक्रमौ । विष्णुना सहैकार्थिभावादिंद्रस्याप्युरुक्रमत्वं । तवसा ।
+> तव इति बलस्य बुद्धेर्वा नामधेयं । तद्वंतौ एवंभूत् युवां वर्धयंती
+> प्रवृदौ कुर्वत्यस्माभिः कृता। हे विष्णो हे इंद्रविदथेषु यज्ञेषु नां युवाभ्यां
+> स्तोममुक्तलक्षणं स्तोत्रं ररे। ददे ॥ रा दान इति धातुः॥ तौ युवां वृजनेष्विषोऽन्नानि पिन्नतं । अस्मभ्यं वर्धयतं ॥
+
+##### Gist of the bhāṣya
+
+This great, reflective praise (manīṣā) is offered to the two great, wide-striding ones. Indra's wide-striding comes from his joint purpose with Vishnu. तव (*tava*) is a name for strength or for intelligence; the two of you possess it, and the praise, made by us, magnifies you. O Vishnu, O Indra, at sacrifices I have offered you this praise (रा दान (*rā dāna*) is the root). May you two fill up for us food in times of struggle (वृजनेषु (*vṛjaneṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहंता (*bṛhaṃtā*)—of great form
+- उरुक्रमा (*urukramā*)—of wide stride
+- तवसा (*tavasā*)—endowed with strength, you
+- वर्धयंती (*vardhayaṃtī*)—causing to grow
+- बृहती (*bṛhatī*)—of great form
+- इयं मनीषा (*iyaṃ manīṣā*)—this praise has been composed
+- विष्णो (*viṣṇo*)—O Vishnu
+- इंद्र (*iṃdra*)—O Indra
+- विदथेषु (*vidatheṣu*)—at sacrifices
+- नां (*nāṃ*)—to you
+- स्तोमं (*stomaṃ*)—praise
+- ररे (*rare*)—I offer
+- वृजनेषु (*vṛjaneṣu*)—in times of hardship
+- इषः (*iṣaḥ*)—foods
+- पिन्नतं (*pinnataṃ*)—fill up for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vishnu, this praise of great majesty, which makes you, who are of great form and endowed with strength, grow, has been composed. O Vishnu, O Indra, at sacrifices I offer praise to you. In times of hardship, fill up for us abundant food.
+
+### Printed p. 190
+
+##### English translation
+This ample laudation is magnifying you two, who are mighty, wide-striding, endowed with strength : to you two, Vishnu and Indra, I offer praise at sacrifices ; grant us food (won) in battles.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वष॑ट्ते विष्णवा॒स आ कृ॑णोमि॒ तन्ने॑ जुषस्व शिपिविष्ट ह॒व्यं ।  
+> वर्धं॑तु त्वा सुष्टु॒तयो॒ गिरो॑ मे यू॒यं पा॑त स्व॒स्तिभिः॒ ॑ 
+> सदा नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वषट् । ते । विष्णो इति । आसः । आ । कृणोमि । तत् । मे । जुषस्व । शिपिऽविष्ट ।  
+> हव्यं ।  
+> वर्धंतु । त्वा । सुस्तुतयः । गिरः । मे । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्युदयेष्टौ विष्णोः शिपिविष्टस्य वषट् इत्येषानुवाक्या । सूत्रितं च ।
+> भद्रा ते हस्ता सुकृतोत पाणी वषट् विष्णवास आ कृणोमि । आ. ३-१३ । इति ॥
+> हे विष्णो ते तुभ्यमास आस्त्यादाभिमुखं वषट् कृणोमि । करोमि । वषट्कारेण हविर्हावयामि । हे शिपिविष्ट । शिपयो रश्मयः । तैराविष्ट विष्णो तद्वषट्कृतं मे मदीयं हव्यं हविर्जुषस्व । सेवस्व । सुष्टुतयः शोभनस्तु त्यात्मिका
+> गिरो वाचश्च त्वां वर्धंतु । वर्धयंतु । अन्यद्धतं ॥
+
+##### Gist of the bhāṣya
+
+In the Abhyudayeṣṭi, the verse वषट् ते (*vaṣaṭ te*) is the anuvākyā for Vishnu Śipiviṣṭa. It is stated in the Sūtra: भद्रा ते हस्ता सुकृतोत पाणी वषट् विष्णवास आ कृणोमि (*bhadrā te hastā sukṛtota pāṇī vaṣaṭ viṣṇavāsa ā kṛṇomi*) (Ā. 3-13). O Vishnu, I make the vaṣaṭ toward your face, that is, I cause the oblation to be offered with the vaṣaṭ-call. O Śipiviṣṭa (*śipayaḥ* are rays, Vishnu being pervaded by them), enjoy that oblation of mine made with the vaṣaṭ. May my well-praising words magnify you. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विष्णो (*viṣṇo*)—O Vishnu
+- ते (*te*)—addressed to you
+- आ (*ā*)—all around
+- आसः (*āsaḥ*)—with the mouth
+- वषट् कृणोमि (*vaṣaṭ kṛṇomi*)—I recite the mantra with the vaṣaṭ-call and offer the oblation
+- शिपिविष्ट (*śipiviṣṭa*)—O Vishnu, surrounded by rays
+- मे (*me*)—offered by me
+- तत् (*tat*)—that, made with the vaṣaṭ-call
+- हव्यं (*havyaṃ*)—oblation
+- जुषस्व (*juṣasva*)—enjoy
+- सुष्टुतयः (*suṣṭutayaḥ*)—endowed with excellent praises
+
+### Printed p. 191
+- मे गिरः (*me giraḥ*)—my words
+- त्वा (*tvā*)—you
+- वर्धंतु (*vardhaṃtu*)—may they make great (O Vishnu and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Vishnu, addressing you, I recite from my mouth, around you, the mantra with the vaṣaṭ-call and offer the oblation. O Vishnu, surrounded by rays, enjoy the oblation offered by me with the vaṣaṭ-call. May my words, endowed with excellent praises, make you great. O Vishnu and the other gods, always protect us with blessings.
+
+##### English translation
+I offer, Vishnu, the oblation placed before you with the exclamation Vashat: be pleased, Shipivishta, with my offering: may my laudatory hymns magnify you ; and you (gods) ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Abhyudayeṣṭi, this Ṛk वषट् ते (*vaṣaṭ te*) is to be recited as the anuvākyā mantra addressed to the deity Viṣṇu Śipiviṣṭa. This is explained by Āśvalāyana's Śrauta Sūtra: भद्रा ते हस्ता सुकृतोत पाणी वषट् ते विष्णवास आ कृणोमि (*bhadrā te hastā sukṛtota pāṇī vaṣaṭ te viṣṇavāsa ā kṛṇomi*) (Ā. 3.13).
+
+## Sūkta 100 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नू मर्त इति सप्तर्चमेकादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वैष्णवं । नू
+> मर्त इत्यनुक्रांतं ॥ उक्थेऽच्छावाकशस्त्र इदं शंसनीयं । सूत्रितं च । ऋतुर्जनिश्री नू मर्तो भवा मित्रः । आ. ६-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn नू मर्त (*nū marta*) is the eleventh sūkta, of seven Ṛks. Its seer is Vasiṣṭha, the deity Vishnu, the metre Triṣṭubh. The Anukramaṇī says नू मर्त (*nū marta*). It is to be recited in the Ukthya rite in the śastra of the Acchāvāka. The Sūtra states: ऋतुर्जनिश्री नू मर्तो भवा मित्रः (*ṛturjaniśrī nū marto bhavā mitraḥ*) (Ā. 6-1).
+
+##### Anuvāda
+
+This sūkta नू मर्तः (*nū martaḥ*) is the eleventh sūkta in the sixth anuvāka. It has seven Ṛks. Its seer is Vasiṣṭha; the deity is Vishnu; the metre is Triṣṭup. The Anukramaṇikā says नू मर्तः (*nū martaḥ*). The use of this sūkta for the śastra mantras recited by the priest called Acchāvāka in the Ukthya sacrifice is explained by Āśvalāyana's Śrauta Sūtra: ऋतुर्जनित्रि नू मर्शो भवा मित्रः (*ṛturjanitri nū marśo bhavā mitraḥ*) (Ā. 6-1). **NOTE**
+
+### Printed p. 192
+Sūkta 100.
+Maṇḍala 7; Anuvāka 6; Sūkta 100.
+Aṣṭaka 5; Adhyāya 6; Varga 25.
+Number of Ṛks in the sūkta: 7.
+Ṛṣi: Vasiṣṭha. Devatā: Vishnu. Chandas: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू मर्तो॑ दयते सनि॒ष्यन्नो विष्ण॑व उरुगा॒याय॒ दाश॑त् ।  
+> प्र यः स॒त्राचा॒ मन॑सा॒ यजा॑त ए॒तावं॑तं॒ नर्य॑मा॒विना॑सात् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मर्तः । दयते । सनिष्यन् । यः । विष्णवे । उरुगायाय । दाशत् ।  
+> प्र । यः । सत्राचा । मनसा । यजाते । एतावंतं । नर्यं । आविवासात् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स मर्तो मनुष्यः सनिष्यन्दनमिच्छन्नु क्षिप्रं दयते । धनमादत्ते ॥ दयतिराज्‌पूर्वार्थे द्रष्टव्यः ॥ यो मनुष्य उरुगायाय बहुभिः कीर्तनीयाय
+> विष्णवे दाशत् हवींषि दद्यात् । यश्च सत्राचा सहांचता मनसा मननेन स्तोत्रेण
+> प्र यजाते प्रकर्षण पूजयेत् एतावंतमेतावत्परिमाणं महांतं नर्यं
+> नरेभ्यो हितं विष्णुमानिवासात् नमस्कारादिभिः परिचरेत् । स मर्तो दयत
+> इत्यन्वयः । यद्वा॥ सनिष्यन्निति सनतेर्लाभार्थस्य ल्वटि रूपं॥ स मर्तः सनिष्यन् धनादीनि लप्स्यमानो भवन्नेव हविरादिकं नु क्षिप्रं दयते विष्णवे वदातीति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+That mortal man, desiring wealth, quickly takes (दयते (*dayate*): he receives wealth; the root दय (*daya*) is to be seen in the sense of taking). The man who gives oblations to Vishnu Urugāya, who is to be praised by many; and who, with a concentrated mind and praise, worships him intensely, and serves Vishnu, such a great one, beneficial to men, with homage and the like: the construction is "that mortal takes". Or else: सनिष्यन् (*saniṣyan*) is a form of the root सन (*sana*) in the sense of gaining, in the future participle; that mortal, about to obtain wealth and the like, quickly gives oblations and the like to Vishnu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- उरुगायाय (*urugāyāya*)—praised by many
+- विष्णवे (*viṣṇave*)—addressing Vishnu
+- दाशत् (*dāśat*)—offers oblation
+- यः (*yaḥ*)—the man who
+- सत्राचा (*satrācā*)—abiding in Vishnu **NOTE**
+- मनसा (*manasā*)—with meditative praise
+- प्रयजाते (*prayajāte*)—worships exceedingly
+
 ---
 
-**Progress note:** Done through printed p. 185. pp. 178-185 (batch API)
+**Progress note:** Done through printed p. 192. pp. 186-192 (batch API)
