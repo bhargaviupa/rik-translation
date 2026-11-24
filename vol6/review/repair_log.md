@@ -974,3 +974,56 @@
 | 597 | ` (Pā. Sū. 7-2-68)` → `` | SECOND-PASS S2: Kannada ವಿಭಾಷಾಗಮಹನವಿದ-ವಿಶಾಂ prints no number; English number not in the print |
 | 598 | `, Pā. Sū. 6-4-14)` → `)` | SECOND-PASS S2: Kannada ಅತ್ವಸಂತಸ್ಯ—ಎಂಬುದರಿಂದ prints no number; English number not in the print |
 | 594 | `*na* (the *nṛ* of *naḥ*) 'for us'` → `*naḥ* 'our'` | SECOND-PASS S13: Kannada ನಃ-ನಮ್ಮ, ಅಥವಾ ನಮಗಾಗಿ: the word is naḥ; 'nṛ' is not in the Kannada |
+
+### 2026-11-24 second pass, batch e600-619.tsv
+| page | old → new | why |
+|---|---|---|
+| 600 | `(लोपो व्योर्वलि, Pā. Sū. 6-1-66)` → `(लोपो व्योर्वलि)` | SECOND-PASS S2: Kannada ಲೋಪೋವ್ಯೋರ್ವಲಿ prints no number; English number not in the print |
+| 600 | `(अत इनिठनौ, Pā. Sū. 5-2-115)` → `(अत इनिठनौ)` | SECOND-PASS S2: Kannada ಆತಇನಿರನೌ prints no number; English number not in the print |
+| 600 | `(नङिसम्बुद्ध्योः, Pā. Sū. 8-2-8)` → `(नङिसम्बुद्ध्योः)` | SECOND-PASS S2: Kannada ನಜಿಸಂಬುದ್ಧ್ಯೋಃ prints no number; English number not in the print |
+| 600 | `by "āmantritasya ca" the nighāta` → `by "āmantritasya ca" (Pā. Sū. 8-1-19) the nighāta` | SECOND-PASS S3: Kannada ಆಮಂತ್ರಿತಸ್ಯಚ (ಪಾ. ಸೂ. ೮-೧-೧೯) prints the number; English omits it |
+| 602 | `with great restraint` → `with great respect` | SECOND-PASS S14: Kannada ಬಹಳ ಮರ್ಯಾದೆಯಿಂದ = with great respect/dignity, not restraint |
+| 603 | `Uṇ. Sū. 4-188` → `Uṇ. Sū. 4-628` | SECOND-PASS S2: Kannada ಉ. ಸೂ. ೪-೬೨೮ |
+| 603 | `by "supāṃ suluk…" it receives` → `by "supāṃ suluk…" (Pā. Sū. 7-1-39) it receives` | SECOND-PASS S3: Kannada ಸುಪಾಂಸುಲುಕ್—(ಪಾ ಸೂ. ೭-೧-೩೯) prints the number; English omits it |
+| 603 | `"hetumati ca"` → `"hetumati ca" (Pā. Sū. 3-1-26)` | SECOND-PASS S3: Kannada ಹೇತುಮತಿ ಚ (ಪಾ. ಸೂ. ೩-೧-೨೬) prints the number; English omits it |
+| 603 | `"ṇer aniṭi"` → `"ṇer aniṭi" (Pā. Sū. 6-4-51)` | SECOND-PASS S3: Kannada ಣೇರನಿಟಿ (ಪಾ. ಸೂ. ೬-೪-೫೧) prints the number; English omits it |
+| 603 | `(तद्धितेष्वचामादेः, Pā. Sū. 7-2-117)` → `(तद्धितेष्वचामादेः)` | SECOND-PASS S2: Kannada ತದ್ಧಿತೇಷ್ಟಚಾಮಾದೇಃ prints no number; English number not in the print |
+| 603 | `*āya paya gatau*` → `*aya paya gatau*` | SECOND-PASS S13: Kannada ಅಯ ಪಯ ಗತ್ (aya, not āya); IAST letter changed: āya -> aya |
+| 603 | `(आय पय गतौ)` → `(अय पय गतौ)` | SECOND-PASS S13: Kannada ಅಯ ಪಯ ಗತ್; Devanagari letter changed: आय -> अय |
+| 606 | `(Pā. Sū. 7-3-55)` → `(Pā. Sū. 7-4-79)` | SECOND-PASS S2: Kannada ಅಭ್ಯಾಸಾಚ್ಚ (ಪಾ. ಸೂ. ೭-೪-೭೯) |
+| 606 | `(Pā. Sū. 6-1-189)` → `(Pā. Sū. 6-1-179)` | SECOND-PASS S2: Kannada ಅಭ್ಯಸ್ತಾನಾಮಾದಿಃ (ಪಾ. ಸೂ. ೬-೧-೧೭೯) |
+| 606 | `ūḍidaṃ padādi…"` → `ūḍidaṃ padādi…" (Pā. Sū. 6-1-171)` | SECOND-PASS S3: Kannada ಊಡಿದಂಪದಾದಿ-(ಪಾ. ಸೂ. ೬-೧-೧೭೧) prints the number; English omits it |
+| 606 | `Pā. Sū. 3-4-81)` → `Pā. Sū. 3-3-71)` | SECOND-PASS S2: Kannada ಲಿಟಸ್ತಝಯೋರೇಶಿರೇಚ್ (ಪಾ. ಸೂ. ೩-೩-೭೧) |
+| 608 | `(कृत्तद्धितसमासाश्च, Pā. Sū. 1-2-46)` → `(कृत्तद्धितसमासाश्च)` | SECOND-PASS S2: Kannada ಕೃತ್ತದ್ಧಿತಸಮಾಸಾಶ್ಚ prints no number; English number not in the print |
+| 608 | `dhātor ekāco…" the affix` → `dhātor ekāco…" (Pā. Sū. 3-1-22) the affix` | SECOND-PASS S3: Kannada ಧಾತೋರೇಕಾಚೋ—(ಪಾ. ಸೂ. ೩-೧-೨೨) prints the number; English omits it |
+| 611 | `आहेयातारं` → `अहेयातारं` | SECOND-PASS S7: Kannada ಅಹೇಯಾರ್ತಾರಂ has short a (ಅಹೇ); Devanagari letter changed: आहे -> अहे |
+| 611 | `*āhe yātāraṃ` → `*ahe yātāraṃ` | SECOND-PASS S7: Kannada ಅಹೇಯಾರ್ತಾರಂ has short a (ಅಹೇ); IAST letter changed: āhe -> ahe |
+| 611 | `वयमिन्द्रविषयं` → `वयमिन्द्रविषये` | SECOND-PASS S7: Kannada ವಯಮಿಂದ್ರವಿಷಯೇ; Devanagari letters changed: यं -> ये |
+| 611 | `indraviṣayaṃ` → `indraviṣaye` | SECOND-PASS S7: Kannada ವಯಮಿಂದ್ರವಿಷಯೇ; IAST letters changed: yaṃ -> ye |
+| 611 | `समुस्थानि [?]` → `समस्तानि` | SECOND-PASS S7: Kannada ಸಮಸ್ತಾನಿ (samastāni); Devanagari letters changed: समुस्थानि -> समस्तानि |
+| 611 | `samusthāni [?]` → `samastāni` | SECOND-PASS S7: Kannada ಸಮಸ್ತಾನಿ (samastāni); IAST letters changed: samusthāni -> samastāni |
+| 612 | `(Pā. Sū. 7-1-46 [?])` → `(Pā. Sū. 7-1-46)` | SECOND-PASS S2: Kannada ಇದಂತೋಮಸಿಃ (ಪಾ. ಸೂ. ೭-೧-೪೬) prints the number without doubt |
+| 612 | `*laṭ* [as printed; the *liṭ*-like form *dadhuḥ* is Vedic for the *laṅ*/*liṭ*] third person` → `*liṭ*, third person plural` | SECOND-PASS S13: Kannada ದಧುಃ—ಲಿಟ್ ಪ್ರಥಮಪುರುಷ ಬಹುವಚನರೂಪ prints liṭ |
+| 615 | `*utsāha* (energy), *mantra* (counsel) and *prabhu* (authority) [*utsāhādi-śakti-traya*]` → `*utsāha* (energy) and the rest [*utsāhādi-śakti-traya*]` | SECOND-PASS S16: Kannada ಉತ್ಸಾಹಾದಿಶಕ್ತಿತ್ರಯ names only utsāha; mantra and prabhu are not in the Kannada |
+| 616 | `Ṛ. Saṃ. 1-84-13 [?]` → `Ṛ. Saṃ. 1-84-13` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೧-೮೪-೧೩ |
+| 616 | `Ṛ. Saṃ. 1-116-12 [?]` → `Ṛ. Saṃ. 1-117-22` | SECOND-PASS S2: Kannada ಕಕ್ಷೀವಾನ್ ... ಋ. ಸಂ. ೧-೧೧೭-೨೨ |
+| 616 | `1-139-4 [?]` → `1-119-9` | SECOND-PASS S2: Kannada ೧-೧೧೯-೯ |
+| 616 | `(5-1-4-4; 3-2-?-?)` → `(5-1-4-4; 5-6-6-3)` | SECOND-PASS S2: Kannada ತೈತ್ತಿರೀಯ ಸಂಹಿತಾ ೫-೧-೪-೪ ; ೫-೬-೬-೩ |
+| 616 | `(19-4?)` → `(19-4)` | SECOND-PASS S2: Kannada ಕಾರಕ ಸಂಹಿತಾ ೧೯-೪ |
+| 616 | `(14-1-1-18; 6-4-2-3; 14-1-1-10; 14-1-1-?)` → `(4-1-5-18; 6-4-2-3; 14-1-1-18; 14-1-1-20; 14-1-1-25; 14-1-4-13)` | SECOND-PASS S2: Kannada ಶತಪಥ ಬ್ರಾಹ್ಮಣ ೪-೧-೫-೧೮ ; ೬-೪-೨-೩ ; ೧೪-೧-೧-೧೮ ; ೧೪-೧-೧-೨೦ ; ೧೪-೧-೧-೨೫ ; ೧೪-೧-೪-೧೩ |
+| 616 | `(2-5-22?)` → `(2-5-22; 4-5-28)` | SECOND-PASS S2: Kannada ಬೃಹದಾರಣ್ಯಕೋಪನಿಷತ್ ೨-೫-೨೨ : ೪-೫-೨೮ |
+| 616 | `lying on the edge of a mountain` → `lying behind a mountain` | SECOND-PASS S14: Kannada ಪರ್ವತದ ಮರೆಯಲ್ಲಿ = behind (in the shelter of) a mountain |
+| 617 | `गा आथर्वणेभ्यः` → `गा अथर्वभ्यः` | SECOND-PASS S7: Kannada ಗಾ ಅಥರ್ವಭ್ಯಃ; Devanagari letters changed: आथर्वणेभ्यः -> अथर्वभ्यः |
+| 617 | `gā ātharvaṇebhyaḥ` → `gā atharvabhyaḥ` | SECOND-PASS S7: Kannada ಗಾ ಅಥರ್ವಭ್ಯಃ; IAST letters changed: ātharvaṇebhyaḥ -> atharvabhyaḥ |
+| 617 | `Ṛ. Saṃ. 6-47-24` → `Ṛ. Saṃ. 6-47-28` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೬-೪೭-೨೮ |
+| 617 | `Ṛ. Saṃ. 9-11-2` → `Ṛ. Saṃ. 7-11-5` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೭-೧೧-೫ |
+| 617 | `10-[120] [?]` → `10-120` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೧೦-೧೨೦ |
+| 618 | `(14-2-41 [?])` → `(14-2-41)` | SECOND-PASS S2: Kannada ಅಥರ್ವವೇದ (೧೪-೨-೪೧) |
+| 618 | `(1-5-1-3 [?]; 2-5-1-3; 3-1-9-4; …)` → `(1-5-1-3; 7-5-15-3; 2-5-9-1; 2-6-7-1; 3-3-2-1; 5-4-10-5; 6-6-6-1)` | SECOND-PASS S2: Kannada ತೈತ್ತಿರೀಯಸಂಹಿತಾ (೧-೫-೧-೩ ; ೭-೫-೧೫-೩ ; ೨-೫-೯-೧ ; ೨-೬-೭-೧ ; ೩-೩-೨-೧ ; ೫-೪-೧೦-೫ ; ೬-೬--೬-೧) |
+| 618 | `Kāṭhaka Saṃhitā (…)` → `Kāṭhaka Saṃhitā (8-15)` | SECOND-PASS S2: Kannada ಕಾಠಕಸಂಹಿತಾ (೮-೧೫) |
+| 618 | `(1-1-4-14 [?])` → `(1-1-4-14)` | SECOND-PASS S2: Kannada ಶತಪಥಬ್ರಾಹ್ಮಣ (೧-೧-೪-೧೪) |
+| 618 | `(3-12-1 [?])` → `(3-15-2)` | SECOND-PASS S2: Kannada ಜೈಮಿನೀಯ ಉಪನಿಷದ್ಬ್ರಾಹ್ಮಣ (೩-೧೫-೨) |
+| 618 | `(Ṛ. Saṃ. 8-52-1 [?])` → `(Ṛ. Saṃ. 8-52-1)` | SECOND-PASS S2: Kannada ವಿವಸ್ವಾನ್ (ಋ. ಸಂ. ೮-೫೨-೧) |
+| 618 | `(Ath. Saṃ. 8-10-24 [?]; Śat. Br. 13-4-3-3 [?])` → `(Ath. Saṃ. 8-10-24; Śat. Br. 13-4-3-3)` | SECOND-PASS S2: Kannada (ಅಥ. ೮-೧೦-೨೪ ; ಶ. ಬ್ರಾ. ೧೩-೪-೩-೩) |
+| 618 | `(Ṛ. Saṃ. 8-51-1 [?])` → `(Ṛ. Saṃ. 8-51-1)` | SECOND-PASS S2: Kannada ಸಾಂವರಣಿ (ಋ. ಸಂ. ೮-೫೧-೧) |
+| 618 | `by "ātmanepadeṣv anataḥ" the *at* for the affix *jha*` → `by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5) the *at* for the affix *jha*` | SECOND-PASS S3: Kannada ಆತ್ಮನೇಪದೇಷ್ಟನತಃ (ಪಾ. ಸೂ. ೭-೧-೫) prints the number in ಸಮಗ್ಮತ; English omits it |

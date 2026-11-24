@@ -13959,10 +13959,10 @@ yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam |
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.11)** *(grammar page, noted briefly)*
 
-- **वेपेते** — the root *ṭuvepṛ kampane* (टुवेपृ कम्पने); *laṭ*, third person dual, the affix *ātām*; by "ṭita ātmanepadānāṃ ṭer e" the *ṭi* (*ām*) becomes *e*; the *ā* becomes *iy* by "āto ṅitaḥ" (आतो ङितः, Pā. Sū. 7-2-81); the *y* is dropped by "lopo vyor vali" (लोपो व्योर्वलि, Pā. Sū. 6-1-66); *śap* by "kartari śap"; guṇa because the *i* follows; since it is at the head of the pāda there is no nighāta; the root's accent remains.
+- **वेपेते** — the root *ṭuvepṛ kampane* (टुवेपृ कम्पने); *laṭ*, third person dual, the affix *ātām*; by "ṭita ātmanepadānāṃ ṭer e" the *ṭi* (*ām*) becomes *e*; the *ā* becomes *iy* by "āto ṅitaḥ" (आतो ङितः, Pā. Sū. 7-2-81); the *y* is dropped by "lopo vyor vali" (लोपो व्योर्वलि); *śap* by "kartari śap"; guṇa because the *i* follows; since it is at the head of the pāda there is no nighāta; the root's accent remains.
 - **भियसा** — the root *ñibhī bhaye*, of the *juhotyādi* group; the Uṇādi affix *kasi*; as it is *k*-marked there is no guṇa of the root; by "aci śnudhātubhruvāṃ…" the *iy* replacement; the form *bhiyas*; by the accent of the affix the vowel after *y* (*a*) is udātta; third-case singular.
 - **अवधीः** — explained in the seventh Ṛk of this sūkta (80.7).
-- **वज्रिन्** — *vajraḥ asyāsti iti vajrī*: in the sense of *matup*, by "ata ini-ṭhanau" (अत इनिठनौ, Pā. Sū. 5-2-115) the affix *ini*; in the vocative, by "na ṅi-sambuddhyoḥ" (नङिसम्बुद्ध्योः, Pā. Sū. 8-2-8) the elision of the *n* is prohibited; by "āmantritasya ca" the nighāta accent. ||11||
+- **वज्रिन्** — *vajraḥ asyāsti iti vajrī*: in the sense of *matup*, by "ata ini-ṭhanau" (अत इनिठनौ) the affix *ini*; in the vocative, by "na ṅi-sambuddhyoḥ" (नङिसम्बुद्ध्योः) the elision of the *n* is prohibited; by "āmantritasya ca" (Pā. Sū. 8-1-19) the nighāta accent. ||11||
 
 *Grammar page, noted briefly; sūtra numerals tentative [?].*
 
@@ -14030,7 +14030,7 @@ abhy enaṃ vajra āyasaḥ sahasrabhṛṣṭir āyatārcann anu svarājyam ||1
 
 - **तन्यता** — "from the root *stana śabde* this word gives the sense 'sound or noise'. Since here it qualifies the word *vṛtra*, the bhāṣyakāra explains it as *ghoreṇa garjanaśabdena*: 'the roaring sound that creates fear', 'dreadful thundering sound'."
 - **सहस्रभृष्टिः** — "though the word *sahasra* conveys the sense 'a thousand in number', here it indicates 'many, much'; the sense is 'a thunderbolt with many edges'."
-- *Skandasvāmin* — "he explains the phrase *arcan anu svarājyam* too as an epithet of the thunderbolt: because the sovereignty which Indra has come to have is seen with great restraint through the greatness of the thunderbolt, the 'display of sovereignty' (*svarājyārcana*) is attributed figuratively (*aupacārika*) to the thunderbolt; or, to Indra who rules his sovereignty with dignity, the thunderbolt is all his own — so he explains."
+- *Skandasvāmin* — "he explains the phrase *arcan anu svarājyam* too as an epithet of the thunderbolt: because the sovereignty which Indra has come to have is seen with great respect through the greatness of the thunderbolt, the 'display of sovereignty' (*svarājyārcana*) is attributed figuratively (*aupacārika*) to the thunderbolt; or, to Indra who rules his sovereignty with dignity, the thunderbolt is all his own — so he explains."
 
 ### Page 603 (PDF 621)
 
@@ -14038,11 +14038,11 @@ abhy enaṃ vajra āyasaḥ sahasrabhṛṣṭir āyatārcann anu svarājyam ||1
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.12)** *(grammar page, noted briefly)*
 
-- **वेपसा** — the root *ṭuvepṛ kampane*; the affix *asun* by "sarvadhātubhya asun" (Uṇ. Sū. 4-188); the word *vepas*; by "ñnityādir nityam" the initial udātta; third-case singular.
-- **तन्यता** — the root *stana śabde*; since "*bahulam*" is read in the Uṇādi, the affix *yatuc* prescribed for the root *tan* by "ṛtanyañjivanyaja…" (Uṇ. Sū. 3-442) occurs by the word *bahulam* here also; hence also the loss of *s*; the form *tanyatu*; since the third case follows this *u*-ending word, by "supāṃ suluk…" it receives the *ḍā* substitute; because of the mark *ḍ*, the *ṭi* part is dropped; since the affix with udātta *u* is lost because it is followed by the anudātta case-ending, by "anudāttasya ca yatrodāttalopaḥ" (Pā. Sū. 6-1-161) the case-ending takes the udātta.
-- **बीभयत्** — the root *ñibhī bhaye*; since the sense is the action of the instigator, the affix *ṇic* by "hetumati ca"; though here, because the fear is shown by no cause of quaking and thundering but from Vṛtra (the instigator), by "bibheter hetubhaye" (बिभेतेर्हेतुभये, Pā. Sū. 6-1-56) the root does not take *ā* because of *ṇic*; after the *ṇic*-ending stem, *luṅ*, third person singular, *tip*; the *i* dropped by "iteś ca"; by "ṇiśri-druzubhyaḥ kartari caṅ" (णिश्रिद्रुस्रुभ्यः कर्तरि चङ्, Pā. Sū. 3-1-48) *caṅ* for *cli*; by "caṅi" (चङि, Pā. Sū. 6-1-11) reduplication of the root because of it; the reduplicative is shortened; *cutva*, *jastva*; the guṇa of the *ī* of the root because of the *ṇic*; *ay* replacement; the *ṇi* dropped by "ṇer aniṭi" because of *caṅ*; by "sanvallaghuni…" (सन्वल्लघुनि चङ्परेऽनग्लोपे, Pā. Sū. 7-4-93) *sanvadbhāva*; "dīrgho laghoḥ" (दीर्घो लघोः, Pā. Sū. 7-4-94) lengthens the reduplicative; by "bahulaṃ chandasy amāṅyoge 'pi" the augment *aṭ* does not come; nighāta accent since *atiṅanta* in the pāda.
-- **आयसः** — *ayasaḥ vikāraḥ* = *āyasaḥ*: by "tasya vikāraḥ" (Pā. Sū. 4-3-134) the affix *aṇ*; "taddhiteṣv acām ādeḥ" (तद्धितेष्वचामादेः, Pā. Sū. 7-2-117) the vṛddhi of the first vowel; by the accent of the affix it is final-udātta.
-- **आयत** — the root *āya paya gatau* (आय पय गतौ), *bhvādi*, *ātmanepadin*; *laṅ*, third person singular, the affix *ta*; *śap* by "kartari śap"; "āḍ ajādīnām" (आडजादीनाम्, Pā. Sū. 6-4-72) gives the augment *āṭ*; nighāta accent for the *tiṅanta*. ||12||
+- **वेपसा** — the root *ṭuvepṛ kampane*; the affix *asun* by "sarvadhātubhya asun" (Uṇ. Sū. 4-628); the word *vepas*; by "ñnityādir nityam" the initial udātta; third-case singular.
+- **तन्यता** — the root *stana śabde*; since "*bahulam*" is read in the Uṇādi, the affix *yatuc* prescribed for the root *tan* by "ṛtanyañjivanyaja…" (Uṇ. Sū. 3-442) occurs by the word *bahulam* here also; hence also the loss of *s*; the form *tanyatu*; since the third case follows this *u*-ending word, by "supāṃ suluk…" (Pā. Sū. 7-1-39) it receives the *ḍā* substitute; because of the mark *ḍ*, the *ṭi* part is dropped; since the affix with udātta *u* is lost because it is followed by the anudātta case-ending, by "anudāttasya ca yatrodāttalopaḥ" (Pā. Sū. 6-1-161) the case-ending takes the udātta.
+- **बीभयत्** — the root *ñibhī bhaye*; since the sense is the action of the instigator, the affix *ṇic* by "hetumati ca" (Pā. Sū. 3-1-26); though here, because the fear is shown by no cause of quaking and thundering but from Vṛtra (the instigator), by "bibheter hetubhaye" (बिभेतेर्हेतुभये, Pā. Sū. 6-1-56) the root does not take *ā* because of *ṇic*; after the *ṇic*-ending stem, *luṅ*, third person singular, *tip*; the *i* dropped by "iteś ca"; by "ṇiśri-druzubhyaḥ kartari caṅ" (णिश्रिद्रुस्रुभ्यः कर्तरि चङ्, Pā. Sū. 3-1-48) *caṅ* for *cli*; by "caṅi" (चङि, Pā. Sū. 6-1-11) reduplication of the root because of it; the reduplicative is shortened; *cutva*, *jastva*; the guṇa of the *ī* of the root because of the *ṇic*; *ay* replacement; the *ṇi* dropped by "ṇer aniṭi" (Pā. Sū. 6-4-51) because of *caṅ*; by "sanvallaghuni…" (सन्वल्लघुनि चङ्परेऽनग्लोपे, Pā. Sū. 7-4-93) *sanvadbhāva*; "dīrgho laghoḥ" (दीर्घो लघोः, Pā. Sū. 7-4-94) lengthens the reduplicative; by "bahulaṃ chandasy amāṅyoge 'pi" the augment *aṭ* does not come; nighāta accent since *atiṅanta* in the pāda.
+- **आयसः** — *ayasaḥ vikāraḥ* = *āyasaḥ*: by "tasya vikāraḥ" (Pā. Sū. 4-3-134) the affix *aṇ*; "taddhiteṣv acām ādeḥ" (तद्धितेष्वचामादेः) the vṛddhi of the first vowel; by the accent of the affix it is final-udātta.
+- **आयत** — the root *aya paya gatau* (अय पय गतौ), *bhvādi*, *ātmanepadin*; *laṅ*, third person singular, the affix *ta*; *śap* by "kartari śap"; "āḍ ajādīnām" (आडजादीनाम्, Pā. Sū. 6-4-72) gives the augment *āṭ*; nighāta accent for the *tiṅanta*. ||12||
 
 *Grammar page, noted briefly; sūtra numerals tentative [?].*
 
@@ -14125,9 +14125,9 @@ ahim indra jighāṃsato divi te badbadhe śavo 'rcann anu svarājyam ||13||*
 
 *Grammar of Rik 80.13, continued from p. 605:*
 
-- **जिघांसतः** — the root *han hiṃsāgatyoḥ*; since the sense of wishing is present, by "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā" (धातोः कर्मणः समानकर्तृकादिच्छायां वा, Pā. Sū. 3-1-7) the affix *san*; by "sanyaṅoḥ" (Pā. Sū. 6-1-9) reduplication of the one-syllabled root; the *hal*-initial remains in the reduplicative; *cutva*; by "sani" the reduplicative takes *i* (Pā. Sū. 7-4-79); by "ajjhanagamāṃ sani" (अज्झनगमां सनि, Pā. Sū. 6-4-16) the penultimate of the root is lengthened; by "abhyāsāc ca" (Pā. Sū. 7-3-55) the *h* of the root after the reduplicative becomes *kutva* (*gh*); by "naś cāpadāntasya jhali" the *n* gets anusvāra; by "sanādyantā dhātavaḥ" (Pā. Sū. 3-1-32) the *san*-ending *jighāṃsa* gets the root-designation; after it, in the sense of *laṭ*, the affix *śatṛ*; *śap*; by "ato guṇe" the following form; sixth-case singular; by "abhyastānām ādiḥ" (Pā. Sū. 6-1-189) the initial udātta.
-- **दिवि** — the stem *div*; seventh-case singular; by "ūḍidaṃ padādi…" the case-ending takes the udātta.
-- **बद्बधे** — the root *badha bandhane*; in the passive *liṭ*, third person singular; by "liṭas tajhayor eśirec" (लिटस्तझयोरेशिरेच्, Pā. Sū. 3-4-81) the substitute *eś*; reduplication of the root; by "vyatyayo bahulam" the rule "halādiḥ śeṣaḥ" does not apply; nighāta accent since *atiṅanta* in the pāda. ||13||
+- **जिघांसतः** — the root *han hiṃsāgatyoḥ*; since the sense of wishing is present, by "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā" (धातोः कर्मणः समानकर्तृकादिच्छायां वा, Pā. Sū. 3-1-7) the affix *san*; by "sanyaṅoḥ" (Pā. Sū. 6-1-9) reduplication of the one-syllabled root; the *hal*-initial remains in the reduplicative; *cutva*; by "sani" the reduplicative takes *i* (Pā. Sū. 7-4-79); by "ajjhanagamāṃ sani" (अज्झनगमां सनि, Pā. Sū. 6-4-16) the penultimate of the root is lengthened; by "abhyāsāc ca" (Pā. Sū. 7-4-79) the *h* of the root after the reduplicative becomes *kutva* (*gh*); by "naś cāpadāntasya jhali" the *n* gets anusvāra; by "sanādyantā dhātavaḥ" (Pā. Sū. 3-1-32) the *san*-ending *jighāṃsa* gets the root-designation; after it, in the sense of *laṭ*, the affix *śatṛ*; *śap*; by "ato guṇe" the following form; sixth-case singular; by "abhyastānām ādiḥ" (Pā. Sū. 6-1-179) the initial udātta.
+- **दिवि** — the stem *div*; seventh-case singular; by "ūḍidaṃ padādi…" (Pā. Sū. 6-1-171) the case-ending takes the udātta.
+- **बद्बधे** — the root *badha bandhane*; in the passive *liṭ*, third person singular; by "liṭas tajhayor eśirec" (लिटस्तझयोरेशिरेच्, Pā. Sū. 3-3-71) the substitute *eś*; reduplication of the root; by "vyatyayo bahulam" the rule "halādiḥ śeṣaḥ" does not apply; nighāta accent since *atiṅanta* in the pāda. ||13||
 
 *Grammar page, noted briefly; sūtra numerals tentative [?].*
 
@@ -14201,9 +14201,9 @@ tvaṣṭā cit tava manyava indra vevijyate bhiyārcann anu svarājyam ||14||*
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.14)** *(grammar page, noted briefly; runs to p. 609)*
 
 - **अद्रिवः** — explained in the seventh Ṛk of this sūkta (80.7).
-- **स्थाः** — the root *ṣṭhā gatinivṛttau*; by "dhātvādeḥ ṣaḥ saḥ" the initial *ṣ* becomes *s*; by "kvip ca" (क्विप् च, Pā. Sū. 3-2-76) the affix *kvip*; by "kṛttaddhitasamāsāś ca" (कृत्तद्धितसमासाश्च, Pā. Sū. 1-2-46) it has the designation *prātipadika*; first-case singular; by the accent of the root it is udātta.
+- **स्थाः** — the root *ṣṭhā gatinivṛttau*; by "dhātvādeḥ ṣaḥ saḥ" the initial *ṣ* becomes *s*; by "kvip ca" (क्विप् च, Pā. Sū. 3-2-76) the affix *kvip*; by "kṛttaddhitasamāsāś ca" (कृत्तद्धितसमासाश्च) it has the designation *prātipadika*; first-case singular; by the accent of the root it is udātta.
 - **रेजते** — the root *reji kampane* (रेज्ञ् [?] कम्पने); *laṭ*, third person singular; nighāta accent for the *tiṅanta*.
-- **वेविज्यते** — the root *ovijī bhayacalanayoḥ*; in the sense of intensity, by "dhātor ekāco…" the affix *yaṅ* [sic: the print says "*yaj*" for the *yaṅ*]; by "sanyaṅoḥ" (Pā. Sū. 6-1-9) the reduplication of the root; the *hal*-initial remains in the reduplicative; by "guṇo yaṅluk-oḥ" (Pā. Sū. 7-4-82) the guṇa of the reduplicative; by "sanādyantā dhātavaḥ" the *yaṅ*-ending *vevijya* has the root-designation; after it, in the sense of the present, *laṭ*, third person singular, the affix *ta*; by "ṭita ātmanepadānāṃ…" *e* *(continued on p. 609)*
+- **वेविज्यते** — the root *ovijī bhayacalanayoḥ*; in the sense of intensity, by "dhātor ekāco…" (Pā. Sū. 3-1-22) the affix *yaṅ* [sic: the print says "*yaj*" for the *yaṅ*]; by "sanyaṅoḥ" (Pā. Sū. 6-1-9) the reduplication of the root; the *hal*-initial remains in the reduplicative; by "guṇo yaṅluk-oḥ" (Pā. Sū. 7-4-82) the guṇa of the reduplicative; by "sanādyantā dhātavaḥ" the *yaṅ*-ending *vevijya* has the root-designation; after it, in the sense of the present, *laṭ*, third person singular, the affix *ta*; by "ṭita ātmanepadānāṃ…" *e* *(continued on p. 609)*
 
 ### Page 609 (PDF 627)
 
@@ -14281,17 +14281,17 @@ tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājy
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.15)**
 
-> अत्रेदमुक्तं भवति — यत् किमपि वयमिन्द्रविषयं जानीमस्तस्यात्यल्पत्वात् वयमिन्द्रं नैव जानीम इति वक्तव्यम् । को वा इन्द्रं जानीयात् । तस्य हि वीर्यकर्माणि अनुत्तमानि तेभ्यः श्रेष्ठानि कोऽपि न जानीते । तस्मिंश्च सर्वे देवाः शौर्यं प्रज्ञां बलानि च समुस्थानि [?] स्थापयामासुरिति कृत्वा स महान्ति वीर्यकर्माणि करोति तेषां च महीयस्त्वादल्पमतयो वयं तं न जानीम इति सम्बन्धः ॥
+> अत्रेदमुक्तं भवति — यत् किमपि वयमिन्द्रविषये जानीमस्तस्यात्यल्पत्वात् वयमिन्द्रं नैव जानीम इति वक्तव्यम् । को वा इन्द्रं जानीयात् । तस्य हि वीर्यकर्माणि अनुत्तमानि तेभ्यः श्रेष्ठानि कोऽपि न जानीते । तस्मिंश्च सर्वे देवाः शौर्यं प्रज्ञां बलानि च समस्तानि स्थापयामासुरिति कृत्वा स महान्ति वीर्यकर्माणि करोति तेषां च महीयस्त्वादल्पमतयो वयं तं न जानीम इति सम्बन्धः ॥
 
-*atredam uktaṃ bhavati — yat kim api vayam indraviṣayaṃ jānīmas tasyātyalpatvāt vayam indraṃ naiva jānīma iti vaktavyam | ko vā indraṃ jānīyāt | tasya hi vīryakarmāṇi anuttamāni tebhyaḥ śreṣṭhāni ko 'pi na jānīte | tasmiṃś ca sarve devāḥ śauryaṃ prajñāṃ balāni ca samusthāni [?] sthāpayām āsur iti kṛtvā sa mahānti vīryakarmāṇi karoti teṣāṃ ca mahīyastvād alpamatayo vayaṃ taṃ na jānīma iti sambandhaḥ ||*
+*atredam uktaṃ bhavati — yat kim api vayam indraviṣaye jānīmas tasyātyalpatvāt vayam indraṃ naiva jānīma iti vaktavyam | ko vā indraṃ jānīyāt | tasya hi vīryakarmāṇi anuttamāni tebhyaḥ śreṣṭhāni ko 'pi na jānīte | tasmiṃś ca sarve devāḥ śauryaṃ prajñāṃ balāni ca samastāni sthāpayām āsur iti kṛtvā sa mahānti vīryakarmāṇi karoti teṣāṃ ca mahīyastvād alpamatayo vayaṃ taṃ na jānīma iti sambandhaḥ ||*
 
 "Here this is what is said: whatever we may know of Indra is so very little that it should be said 'we do not know Indra at all'. Who indeed could know Indra? His deeds of prowess are unsurpassed; no one knows (deeds) greater than those. And since all the gods established (*sthāpayām āsuḥ*) valour, wisdom and strength in him, he performs great deeds of prowess; and because of their greatness, we of little understanding do not know him — so the connection runs." The Kannada explains: "that is, what we know about Indra is extremely little. Who, by himself, knows Indra well? No one. His deeds of daring are of the highest; no one has seen deeds that surpass them. Since in that Indra all the gods have established valour, wisdom, strength and similar powers and abilities, his deeds, full of valour, are exceedingly great, and so men of small understanding like us are not able to understand them — that is the chief sense."
 
 - **न यात् अधीमसि** — "the word *yāt*, formed from the root *yā*, is used in the sense of killing (*vadha*) —
 
-> आहेयातारं कमपश्य इन्द्र हृदि यत्ते जघ्नुषो भीरगच्छत् ।
+> अहेयातारं कमपश्य इन्द्र हृदि यत्ते जघ्नुषो भीरगच्छत् ।
 
-*āhe yātāraṃ kam apaśya indra hṛdi yat te jaghnuṣo bhīr agacchat |* (Ṛ. Saṃ. 1-32-4) — *the opening words are read with doubt [?].* **GLOSS**
+*ahe yātāraṃ kam apaśya indra hṛdi yat te jaghnuṣo bhīr agacchat |* (Ṛ. Saṃ. 1-32-4) — *the opening words are read with doubt [?].* **GLOSS**
 
 — in the word *yātāram* in this Ṛk, as the example: 'Indra confronts all enemies; there is no one who can confront Indra, fight him and make him bow.' So Skandasvāmin explains the sense. *Sarvatra vyāpya vartamānam indram*: 'we, small people, cannot know Indra, who dwells pervading all places, in all quarters' — so Sāyaṇa explains."
 - **परः वीर्या** — "'Indra, by his own strength, dwells in a very distant place, which men cannot reach' is the sense. The word *paraḥ* is an indeclinable ending in *s*; it indicates 'very far'.
@@ -14313,9 +14313,9 @@ tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājy
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.15)** *(grammar page, noted briefly)*
 
 - **यात्** — the root *yā prāpaṇe*; the affix *śatṛ* in the sense of *laṭ*; by "adiprabhṛtibhyaḥ śapaḥ" the *luk* of *śap*; the form *yāt*; since the second-case singular follows, by "supāṃ suluk…" (Pā. Sū. 7-1-39) the *luk* of it; the root's accent remains.
-- **अधीमसि** — *adhi* is a preposition; the root *iṇ gatau*; *laṭ*, first person plural, the affix *masi* [Vedic]; by "adiprabhṛtibhyaḥ śapaḥ" the *luk* of *śap*; by "ido mase" [sic: "iden mases" as printed] (Pā. Sū. 7-1-46 [?]) the augment *i* for *masi*; by "hi ca" (Pā. Sū. 8-1-34) the nighāta is prohibited; by the initial udātta of the affix, the *ma* and the *a* following are udātta; by "tiṅ codāttavati" (तिङ्ङोदात्तवति, Pā. Sū. 8-1-71) the *gati* (*adhi*) takes anudātta.
+- **अधीमसि** — *adhi* is a preposition; the root *iṇ gatau*; *laṭ*, first person plural, the affix *masi* [Vedic]; by "adiprabhṛtibhyaḥ śapaḥ" the *luk* of *śap*; by "ido mase" [sic: "iden mases" as printed] (Pā. Sū. 7-1-46) the augment *i* for *masi*; by "hi ca" (Pā. Sū. 8-1-34) the nighāta is prohibited; by the initial udātta of the affix, the *ma* and the *a* following are udātta; by "tiṅ codāttavati" (तिङ्ङोदात्तवति, Pā. Sū. 8-1-71) the *gati* (*adhi*) takes anudātta.
 - **वीर्या** — the third-case singular of *vīrya*; "supāṃ suluk…" (Pā. Sū. 7-1-39) gives the substitute *ā*.
-- **दधुः** — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ* [as printed; the *liṭ*-like form *dadhuḥ* is Vedic for the *laṅ*/*liṭ*] third person plural; nighāta accent since *atiṅanta* in the pāda. ||15||
+- **दधुः** — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*, third person plural; nighāta accent since *atiṅanta* in the pāda. ||15||
 
 *Grammar page, noted briefly; sūtra numerals tentative [?].*
 
@@ -14399,7 +14399,7 @@ tasmin brahmāṇi pūrvathendra ukthā samagmatārcann anu svarājyam ||16||*
 
 *The legend of Dadhyañc (the bhāṣyakāra's* upākhyāna *— summarized from the Kannada):*
 
-"*Dadhyañc* or *Dadhīci* is a ṛṣi famous in the Purāṇas and elsewhere. The bhāṣyakāra gives here an *upākhyāna*: when the ṛṣi called Dadhyañc, son of Atharvan, was alive, the asuras, terrified at the mere sight of him, fled. After he died and went to heaven, the asuras spread fearlessly over the whole earth. Then Indra, who was not able to fight these asuras, searched for that ṛṣi, and came to know that the ṛṣi had gone to heaven. Then Indra asked those who were near whether any part of his limbs remained; then they said: 'The ṛṣi Dadhīci, at one time taught the Aśvin deities the *madhuvidyā*, with the head of a horse; only that horse's head remains; and where it is, we do not know.' Indra told them to search for it; they found it lying in the lake called *Śaryaṇāvat* near Kurukṣetra, and brought it. Indra conquered the asuras with the bones of that head. The text says that he destroyed the *māyā*-webs of the asuras *nava navatim* — 'nine times ninety', that is, eight hundred and ten. In explaining the number 'nine times ninety' the bhāṣyakāra says: the asuras had three kinds of *māyā*-types for conquering the deities of the three worlds; each of these existed in the three modes — present, past, future — making nine kinds in all. Those nine *māyā*s, joined with the three powers *utsāha* (energy), *mantra* (counsel) and *prabhu* (authority) [*utsāhādi-śakti-traya*], amount to **9 × 3 = 27**; and joined with the three qualities beginning with *sattva* [*sāttvikādi-guṇa-traya*], **27 × 3 = 81** (the numerals as read: "೯×೩=೨೭", "೨೭×೩=೮೧"). Since these eighty-one *māyā*s are practised in the ten directions, the total is **81 × 10 = 810** — or *nine times ninety*, **9 × 90 = 810** (as read). Thus, he explains, Indra rendered fruitless the *māyā*-webs of the asuras in the form of Vṛtra."
+"*Dadhyañc* or *Dadhīci* is a ṛṣi famous in the Purāṇas and elsewhere. The bhāṣyakāra gives here an *upākhyāna*: when the ṛṣi called Dadhyañc, son of Atharvan, was alive, the asuras, terrified at the mere sight of him, fled. After he died and went to heaven, the asuras spread fearlessly over the whole earth. Then Indra, who was not able to fight these asuras, searched for that ṛṣi, and came to know that the ṛṣi had gone to heaven. Then Indra asked those who were near whether any part of his limbs remained; then they said: 'The ṛṣi Dadhīci, at one time taught the Aśvin deities the *madhuvidyā*, with the head of a horse; only that horse's head remains; and where it is, we do not know.' Indra told them to search for it; they found it lying in the lake called *Śaryaṇāvat* near Kurukṣetra, and brought it. Indra conquered the asuras with the bones of that head. The text says that he destroyed the *māyā*-webs of the asuras *nava navatim* — 'nine times ninety', that is, eight hundred and ten. In explaining the number 'nine times ninety' the bhāṣyakāra says: the asuras had three kinds of *māyā*-types for conquering the deities of the three worlds; each of these existed in the three modes — present, past, future — making nine kinds in all. Those nine *māyā*s, joined with the three powers *utsāha* (energy) and the rest [*utsāhādi-śakti-traya*], amount to **9 × 3 = 27**; and joined with the three qualities beginning with *sattva* [*sāttvikādi-guṇa-traya*], **27 × 3 = 81** (the numerals as read: "೯×೩=೨೭", "೨೭×೩=೮೧"). Since these eighty-one *māyā*s are practised in the ten directions, the total is **81 × 10 = 810** — or *nine times ninety*, **9 × 90 = 810** (as read). Thus, he explains, Indra rendered fruitless the *māyā*-webs of the asuras in the form of Vṛtra."
 
 ### Page 616 (PDF 634)
 
@@ -14409,11 +14409,11 @@ tasmin brahmāṇi pūrvathendra ukthā samagmatārcann anu svarājyam ||16||*
 
 "Skandasvāmin tells another *itihāsa*: in the old days there were asuras called *Kālakañja*. They were very powerful, and were killing the deities and giving them great trouble. Then the deities went to Brahmā and prayed that they should be informed of a means to destroy these asuras. Brahmā said: 'O gods, there is a ṛṣi called Dadhyañc. Go to him; he will tell you a fitting means for the destruction of the asuras.' As Brahmā said, the gods went to the ṛṣi Dadhīci and told him that Brahmā had sent them. The ṛṣi, understanding by his yogic vision the work for which they had come, gave up his life by *yogasamādhi*. Then Indra destroyed the asuras with the bones. Skandasvāmin says that this matter itself is described in this Ṛk.
 
-It is also believed that the head of the ṛṣi Dadhīci was the head of a horse, and that it had been given to him by the Aśvin deities. After Dadhīci's death Indra found his head, the head of the horse, which was lying on the edge of a mountain in a lake called Śaryaṇāvatī; this is described in Ṛ. Saṃ. 1-84-13 [?].
+It is also believed that the head of the ṛṣi Dadhīci was the head of a horse, and that it had been given to him by the Aśvin deities. After Dadhīci's death Indra found his head, the head of the horse, which was lying behind a mountain in a lake called Śaryaṇāvatī; this is described in Ṛ. Saṃ. 1-84-13.
 
-On the question of how the horse's head came to the ṛṣi Dadhīci, Skandasvāmin tells another story: Indra taught Dadhīci, the son of Atharvan, the nature of the supreme Brahman, called *Madhu*, and said that if he told it to anyone his head would fall off. After some time the Aśvin deities came to the ṛṣi Dadhīci and, when asked of the Brahman-nature that Indra had taught him, Dadhīci told them that Indra had said his head would fall off if he spoke of this matter. From fear he said he would not tell. The Aśvins said: 'Do not worry about that; if your head falls off, we will give you ours;' Dadhīci agreed. So when Dadhīci's head fell off, the Aśvins cut off the head of a horse, fitted it on and joined it to the body of the ṛṣi Dadhīci; therefore it is described that the ṛṣi Dadhīci's head became the head of a horse. This matter is described in Ṛ. Saṃ. 1-116-12 [?] by the ṛṣi called Kakṣīvān.
+On the question of how the horse's head came to the ṛṣi Dadhīci, Skandasvāmin tells another story: Indra taught Dadhīci, the son of Atharvan, the nature of the supreme Brahman, called *Madhu*, and said that if he told it to anyone his head would fall off. After some time the Aśvin deities came to the ṛṣi Dadhīci and, when asked of the Brahman-nature that Indra had taught him, Dadhīci told them that Indra had said his head would fall off if he spoke of this matter. From fear he said he would not tell. The Aśvins said: 'Do not worry about that; if your head falls off, we will give you ours;' Dadhīci agreed. So when Dadhīci's head fell off, the Aśvins cut off the head of a horse, fitted it on and joined it to the body of the ṛṣi Dadhīci; therefore it is described that the ṛṣi Dadhīci's head became the head of a horse. This matter is described in Ṛ. Saṃ. 1-117-22 by the ṛṣi called Kakṣīvān.
 
-The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 1-84-14; 1-116-12; 1-117-22; 1-139-4 [?] and so on, and in the Taittirīya Saṃhitā (5-1-4-4; 3-2-?-?), Kāṭhaka Saṃhitā (19-4?), Śatapatha Brāhmaṇa (14-1-1-18; 6-4-2-3; 14-1-1-10; 14-1-1-?) and the Bṛhadāraṇyaka Upaniṣad (2-5-22?) and other places." *(All these reference numerals, in Kannada numerals in the print, are given as read and are uncertain [?]; I have not verified them.)*
+The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 1-84-14; 1-116-12; 1-117-22; 1-119-9 and so on, and in the Taittirīya Saṃhitā (5-1-4-4; 5-6-6-3), Kāṭhaka Saṃhitā (19-4), Śatapatha Brāhmaṇa (4-1-5-18; 6-4-2-3; 14-1-1-18; 14-1-1-20; 14-1-1-25; 14-1-4-13) and the Bṛhadāraṇyaka Upaniṣad (2-5-22; 4-5-28) and other places." *(All these reference numerals, in Kannada numerals in the print, are given as read and are uncertain [?]; I have not verified them.)*
 
 ---
 
@@ -14425,17 +14425,17 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 
 - **अथर्वा** — "*Atharvā* — a well-known ṛṣi, the primal ancestor of a group of ṛṣis. In the places where this word is used in the plural, the sense is 'the descendants of this ṛṣi'. In some places —
 
-> दश रथान्प्रष्टिमतः शतं गा आथर्वणेभ्यः ।
+> दश रथान्प्रष्टिमतः शतं गा अथर्वभ्यः ।
 > अश्वथः पायवे ददात् ॥
 
-*daśa rathān praṣṭimataḥ śataṃ gā ātharvaṇebhyaḥ | aśvathaḥ pāyave dadāt ||* (Ṛ. Saṃ. 6-47-24) — **GLOSS**
+*daśa rathān praṣṭimataḥ śataṃ gā atharvabhyaḥ | aśvathaḥ pāyave dadāt ||* (Ṛ. Saṃ. 6-47-28) — **GLOSS**
 
 — in this and other Ṛks there is the praise of a gift (*dānastuti*): King Aśvatha gave chariots, cows and so on to those of the Atharvan line.
 
 > अभि ते मधुना पयोऽथर्वाणो अशिश्रयुः ।
 > देवं देवाय देवयु ॥
 
-*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ||* (Ṛ. Saṃ. 9-11-2) — **GLOSS**
+*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ||* (Ṛ. Saṃ. 7-11-5) — **GLOSS**
 
 — in this Ṛk it is mentioned that these of the Atharvan line offered Soma juice mixed with milk to Soma. The name of this ṛṣi is also found in —
 
@@ -14451,7 +14451,7 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 
 *[the third citation printed at the foot of this group is garbled at this resolution and I do not reproduce it]* (Ṛ. Saṃ. 10-120-9).
 
-— in these Ṛks the word occurs. In the tenth *maṇḍala* of the Ṛgveda (Ṛk. Saṃ. 10-[120] [?]) there is a sūkta addressed to Indra, seen by the ṛṣi Bṛhaddiva, of the lineage of this ṛṣi Atharvan."
+— in these Ṛks the word occurs. In the tenth *maṇḍala* of the Ṛgveda (Ṛk. Saṃ. 10-120) there is a sūkta addressed to Indra, seen by the ṛṣi Bṛhaddiva, of the lineage of this ṛṣi Atharvan."
 - **मनुः** — "In the Ṛgveda the name of Manu occurs in many places, but nowhere is there much detail. Manu is known to be the primal man (*mūlapuruṣa*) of the human race and also the guide in the order of procedure of sacrifices and the like. When he was distributing his property among his sons, his youngest son, Nābhānediṣṭha, who was studying in the *gurukula* as a *brahmacārin*, received no share; having finished his studies he came and asked his father for his inheritance (*dāyabhāga*). *(the passage runs on to p. 618)*
 
 ### Page 618 (PDF 636)
@@ -14460,16 +14460,16 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 
 *Special Topics of Rik 80.16, continued:*
 
-"Manu told him: 'Go to the place where the Aṅgirasa ṛṣis are performing a sacrifice and teach them some mantras; they will give you wealth as you wish.' This story is related in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā. Because the sacrifice performed by this Manu is famous, the matter of Manu's sacrifice is also mentioned there in the Ṛgveda. The matter of this Manu is stated, besides the Ṛgveda, in the Atharvaveda (14-2-41 [?]), the Taittirīya Saṃhitā (1-5-1-3 [?]; 2-5-1-3; 3-1-9-4; …), the Kāṭhaka Saṃhitā (…), the Śatapatha Brāhmaṇa (1-1-4-14 [?]), the Jaiminīya Upaniṣad Brāhmaṇa (3-12-1 [?]) and other places." *(All reference numerals in this paragraph are printed in Kannada numerals, and are given as read and uncertain [?].)*
+"Manu told him: 'Go to the place where the Aṅgirasa ṛṣis are performing a sacrifice and teach them some mantras; they will give you wealth as you wish.' This story is related in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā. Because the sacrifice performed by this Manu is famous, the matter of Manu's sacrifice is also mentioned there in the Ṛgveda. The matter of this Manu is stated, besides the Ṛgveda, in the Atharvaveda (14-2-41), the Taittirīya Saṃhitā (1-5-1-3; 7-5-15-3; 2-5-9-1; 2-6-7-1; 3-3-2-1; 5-4-10-5; 6-6-6-1), the Kāṭhaka Saṃhitā (8-15), the Śatapatha Brāhmaṇa (1-1-4-14), the Jaiminīya Upaniṣad Brāhmaṇa (3-15-2) and other places." *(All reference numerals in this paragraph are printed in Kannada numerals, and are given as read and uncertain [?].)*
 
-"Because Manu is the son of Vivasvān (Ṛ. Saṃ. 8-52-1 [?]), the Sun-god, he is called *Vaivasvata* (Ath. Saṃ. 8-10-24 [?]; Śat. Br. 13-4-3-3 [?]); because he is of the lineage of the woman (*Savarṇā*) he is *Sāvarṇi*; and because he is of the lineage of Saṃvaraṇa he is *Sāṃvaraṇi* (Ṛ. Saṃ. 8-51-1 [?]) — he has many names."
+"Because Manu is the son of Vivasvān (Ṛ. Saṃ. 8-52-1), the Sun-god, he is called *Vaivasvata* (Ath. Saṃ. 8-10-24; Śat. Br. 13-4-3-3); because he is of the lineage of the woman (*Savarṇā*) he is *Sāvarṇi*; and because he is of the lineage of Saṃvaraṇa he is *Sāṃvaraṇi* (Ṛ. Saṃ. 8-51-1) — he has many names."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.16)** *(grammar page, noted briefly; begins here, runs to p. 619)*
 
 - **अत्नत** — the root *tanu vistāre* (तनु विस्तारे); *laṅ*, third person plural, *jha*; by "bahulaṃ chandasi" the *luk* of the stem-marker (*vikaraṇa*); by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5) *at* for the affix *jha*; by "tanipatyoś chandasi" (तनिपत्योश्छन्दसि, Pā. Sū. 6-4-99) the loss of the penultimate of the root in the Veda; the augment *aṭ* for the stem; *atnata*. Since *yām* in the preceding connection is related, by "yadvṛttān nityam" (Pā. Sū. 8-1-66) the nighāta is prohibited; as the augment *aṭ* is udātta, it is *ādyudātta*.
 - **पूर्वथा** — *pūrvam iva pūrvathā*: after the word *pūrva*, by "pratnapūrvaviśvemāt thāl chandasi" (प्रत्नपूर्वविश्वेमात्थाल् छन्दसि, Pā. Sū. 5-3-111) the affix *thāl* in the sense 'like'; since it is *l*-marked, by "liti" (Pā. Sū. 6-1-193) the syllable before the affix is udātta.
 - **उक्था** — in the neuter, the substitute *śi* (*ukthā*) arises; by "śeś chandasi bahulam" (Pā. Sū. 6-1-70) the *śi* is dropped.
-- **समग्मत** — the root *gamḷ gatau* (गम्ऌ गतौ); because *sam* precedes, by "samo gamyṛcchi-prachi-…" (समो गम्यृच्छिप्रच्छिस्वरत्यर्तिश्रुविदिभ्यः, Pā. Sū. 1-3-29) the *ātmanepada*; *luṅ*, third person plural; by "ātmanepadeṣv anataḥ" the *at* for the affix *jha*; when *cli* arises *(continued on p. 619)*
+- **समग्मत** — the root *gamḷ gatau* (गम्ऌ गतौ); because *sam* precedes, by "samo gamyṛcchi-prachi-…" (समो गम्यृच्छिप्रच्छिस्वरत्यर्तिश्रुविदिभ्यः, Pā. Sū. 1-3-29) the *ātmanepada*; *luṅ*, third person plural; by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5) the *at* for the affix *jha*; when *cli* arises *(continued on p. 619)*
 
 ### Page 619 (PDF 637)
 
