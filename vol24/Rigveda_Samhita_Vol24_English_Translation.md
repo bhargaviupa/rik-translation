@@ -10234,6 +10234,348 @@ Celebrate with songs the great deeds of Indra, the drinker of the stale Soma, wh
 
 ऋजीषिणः सोमस्य (*ṛjīṣiṇaḥ somasya*)—Ṛjīṣa means the crushed plants that remain like husk after the soma juice has been pressed out. At the time of the third pressing, together with the juice obtained by crushing once more the plants already crushed once, any one of milk, curds and barley flour is mixed
 
+### Printed p. 228
+
+and offered to Indra. Therefore, at the time of the third pressing, when Indra has been gladdened by soma juice of this kind, the seer, addressing the seers of the Kaṇva lineage who are his own descendants, has said: praise well the surpassing qualities of that soma juice, which produce his gladness (mada).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः सृबिं॑द॒मन॑र्शनिं॒ पिपुं॑ दा॒सम॑ही॒शुवं॑ ।  
+> वधी॑दु॒ग्रो रि॒णन्न॒ पः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । सृबिंदं । आनर्शनिं । पिपुं । दासं । अहीशुवं ।  
+> वधीत । उग्रः । रिणन् । अपः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्र उग्र उद्धूर्णस्तेजस्वी वा सोऽप उदकानि रिणन् प्रेरयन्
+> सृबिंदनामकं शत्रुमनर्शनिमनर्शनिनामकं पिपुं पिपुनामकं च दासं जाहीशुवं च शत्रुं वधीत् । अवधीत् । जघान ॥
+
+##### Gist of the bhāṣya
+
+Indra, who is fierce, that is, mighty or glorious, sending forth the waters, slew the enemy named Sṛbinda, the one named Anarśani, the one named Pipu, and the servile enemy Ahīśuva. The verb used means he slew, he killed. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- उग्रः (*ugraḥ*)—who is fierce and valiant, that same Indra
+- अपः (*apaḥ*)—the waters
+- रिणन् (*riṇan*)—sending forth
+- सृबिंदं (*sṛbiṃdaṃ*)—the enemy named Sṛbinda
+- अनर्शनिं (*anarśaniṃ*)—the one called Anarśani
+- पिपुं (*pipuṃ*)—the one called Pipu
+- दासं (*dāsaṃ*)—the servant
+- अहीशुवं (*ahīśuvaṃ*)—the one called Ahīśuva
+- वधीत् (*vadhīt*)—killed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is cruel and valiant, pouring down rain-waters in abundance, killed the enemies called Sṛbinda, Anarśani, Pipu, Dāsa and Ahīśuva.
+
+##### English translation
+The fierce (deity) who, liberating the waters, has slain Sribinda, Anarshani, Pipru and the slave Ahishuva.
+
+### Printed p. 229
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्यर्बु॑दस्य वि॒ष्टपं॑ व॒र्ष्णाणं॑ बृह॒तस्ति॑र ।  
+> कृ॒षे तदिं॑द्र॒ पौंस्यं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । अर्बुदस्य । विष्टपं । वर्ष्णाणं । बृहतः । तिर ।  
+> कृषे । तत् । इंद्र । पौंस्यं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र बृहतो महतोऽर्बुदस्य मेघस्य वर्ष्णाणमुदकस्य वारकं
+> विष्टपं स्थानं नि तिर । विध्य । तत्प्रसिद्धं पौंस्यं व्रतं च कृषे । कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, pierce the place of the great Arbuda, that is, of the cloud, the place that holds back the water. And perform that famous manly deed, and the vow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- बृहतः (*bṛhataḥ*)—very great
+- अर्बुदस्य (*arbudasya*)—of the cloud
+- वर्षाणं (*varṣāṇaṃ*)—that holds back the water
+- विष्टपं (*viṣṭapaṃ*)—the place
+- नितिर (*nitira*)—break open
+- तत् (*tat*)—that famous
+- पौंस्यं (*pauṃsyaṃ*)—deed of daring
+- कृषे (*kṛṣe*)—do
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, split the cloud that has spread out in vast form and holds back the water without pouring it down, and pour out rain. Do this deed of daring yourself.
+
+##### English translation
+Pierce the rain-holding domain of the vast Arbuda : achieve, Indra, this manly exploit.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ श्रु॒ताय॑ वो धृ॒षत्तूर्णा॑शं॒ न गि॒रेरधि॑ ।  
+> हु॒वे सु॑शि॒प्रमू॒तये॑ ॥ ४ ॥
+
+### Printed p. 230
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । श्रुताय । वः । धृषत् । तोर्णाशं । न । गिरेः । अधि ।  
+> हुवे । सुशिप्रं । ऊतये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः वो युष्माकं श्रुताय स्तुतीनां श्रवणाय रक्षणाय च
+> धृषच्छत्रून् धृषंतं सुशिप्रं सुहनुमिंद्रं प्रति हुवे । ह्वयामि । तूर्णाशं न
+> यथा घर्मेऽभितस्तः पुमांस्तूर्णाशमुदकं । तथा च यास्कः । तूर्णाशमुदकं
+> भवति तूर्णमश्नुते । नि. ५-१६ । इति । गिरेरधि मेघं प्रति ह्वयति । पर्वतो
+> गिरिरिति मेघनामसु पाठात् । तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O praisers, for the hearing of your praises and for your protection, I call upon Indra, who overcomes enemies and has a handsome jaw. He is called as a man tormented by the heat in the hot season calls for tūrṇāśa, water. Yāska says, in the Nirukta, that tūrṇāśa is water, because it quickly pervades (Ni. 5-16). He calls to the cloud from the mountain, since mountain and giri are read among the names of the cloud. The meaning is that he calls Indra in the same way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praisers) गिरेः अधि (*gireḥ adhi*)—from the cloud, as people tormented by the heat of the sun in summer
+- शूर्णाशं न (*śūrṇāśaṃ na*)—desire water
+- धृषत् (*dhṛṣat*)—the one who overcomes enemies
+- सुशिप्रं (*suśipraṃ*)—Indra, who has an attractive cheek
+- वः (*vaḥ*)—your
+- श्रुताय (*śrutāya*)—for hearing the praises
+- अवसे (*avase*)—and for protection
+- प्रति हुवे (*prati huve*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, as people exhausted by the heat of the summer sun desire water from the cloud, I pray and call upon Indra, who overcomes enemies and has an attractive cheek, for your protection and for the hearing of your praises.
+
+##### English translation
+I invoke the victorious handsome-jawed Indra for your protection, and to hear (your praises), as (a traveller invokes) the water from the cloud.
+
+##### विशेषविषयगळु (Special Topics)
+
+तूर्णाशं (*tūrṇāśaṃ*)—Tūrṇāśa means water. Yāska has explained this word: तूर्णाशं न यथा घर्मेऽभितस्तः पुमांस्तूर्णाशमुदकं । तथा च यास्कः । तूर्णाशमुदकं भवति तूर्णमश्नुते । नि. ५-१६ । इति । गिरेरधि मेघं प्रति ह्वयति । पर्वतो गिरिरिति मेघनामसु पाठात् । तद्वदित्यर्थः ॥ (ऎलै स्तोतृजनरे) गिरेः अधि—बेसिगॆयल्लि बिसिलिनिंद संतप्तराद जनरु मेघदिंद । शूर्णाशं न—उदकवन्नु बयसुवंतॆ । धृषत्—शत्रुधर्षकनू । सुशिप्रं—आकर्षक वाद कॆन्नॆयुळ्ळवनू आद इंद्रनन्नु । वः—निम्म । श्रुताय—स्तोत्रगळन्नु केळुवु दक्कागियू । अवसे—रक्षणार्थवागियू । प्रति हुवे—प्रार्थिसि करॆयुत्तेनॆ. ऎलै स्तोतृजनरे, बेसिगॆय बिसिलिनिंद बळलिद जनरु मेघदिंद उदकवन्नु अपेक्षिसु वंतॆ, शत्रुधर्षकनू, आकर्षकवाद कॆन्नॆयुळ्ळवनू आद इंद्रनन्नु रक्षणार्थवागियू निम्म स्तुति गळन्नु केळुवुदक्कागियू प्रार्थिसि करॆयुत्तेनॆ. I invoke the victorious handsome-jawed Indra for your protection, and to hear (your praises), as (a traveller invokes) the water from the cloud. तूर्णाशं—तूर्णाशवॆंदरॆ उदकवु. ई शब्दक्कॆ यास्करु अर्थविवरणॆमाडिद्दारॆ— तूर्णाशं । तूर्णाशमुदकं भवति तूर्णमश्नुते । तूर्णाशं न गिरेरधि इत्यपि निगमो भवति । (*tūrṇāśaṃ na yathā gharme 'bhitastaḥ pumāṃstūrṇāśamudakaṃ | tathā ca yāskaḥ | tūrṇāśamudakaṃ bhavati tūrṇamaśnute | ni. 5-16 | iti | gireradhi meghaṃ prati hvayati | parvato giririti meghanāmasu pāṭhāt | tadvadityarthaḥ ‖ (èlai stotṛjanare) gireḥ adhi—besigèyalli bisiliniṃda saṃtaptarāda janaru meghadiṃda | śūrṇāśaṃ na—udakavannu bayasuvaṃtè | dhṛṣat—śatrudharṣakanū | suśipraṃ—ākarṣaka vāda kènnèyuḷḷavanū āda iṃdranannu | vaḥ—nimma | śrutāya—stotragaḷannu keḷuvu dakkāgiyū | avase—rakṣaṇārthavāgiyū | prati huve—prārthisi karèyuttenè. èlai stotṛjanare, besigèya bisiliniṃda baḷalida janaru meghadiṃda udakavannu apekṣisu vaṃtè, śatrudharṣakanū, ākarṣakavāda kènnèyuḷḷavanū āda iṃdranannu rakṣaṇārthavāgiyū nimma stuti gaḷannu keḷuvudakkāgiyū prārthisi karèyuttenè. I invoke the victorious handsome-jawed Indra for your protection, and to hear (your praises), as (a traveller invokes) the water from the cloud. tūrṇāśaṃ—tūrṇāśavèṃdarè udakavu. ī śabdakkè yāskaru arthavivaraṇèmāḍiddārè— tūrṇāśaṃ | tūrṇāśamudakaṃ bhavati tūrṇamaśnute | tūrṇāśaṃ na gireradhi ityapi nigamo bhavati |*) (Ni. 5-16). Tūrṇāśa means water; this water flows swiftly, or quickly spreads and extends all around. Therefore tūrṇāśa means water. In this matter there is also the example of the Vedic sentence तूर्णाशं न गिरेरधि (*tūrṇāśaṃ na gireradhi*).
+
+### Printed p. 231
+
+तूर्णाशं (*tūrṇāśaṃ*)—water. Tūrṇaśa means water. For this word Yāska has given the explanation तूर्णाशमुदकं भवति तूर्णमश्नुते (*tūrṇāśamudakaṃ bhavati tūrṇamaśnute*) (Ni. 5-16). Tūrṇa means eating very quickly; that is, because water, unlike solid food, need not be chewed and eaten but can easily be drunk, water is named tūrṇaśa: this is the meaning.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स गोरश्व॑स्य॒ वि व्र॒जं मं॑दा॒नः सो॒म्येभ्यः॑ ।  
+> पुरं॒ न शू॑र दर्षसि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । गोः । अश्वस्य । वि । व्रजं । मंदानः । सोम्येभ्यः ।  
+> पुरं । न । शूर । दर्षसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूरेंद्र स प्रसिद्धस्त्वं मंदानो मोदमानो गोरश्वस्य च व्रजं
+> निवासस्थानं सोम्येभ्यः सोमार्हेभ्यः पुरं न शत्रूणां नगरमिव वि दर्षसि ।
+> विवृतद्वारं करोषि ॥
+
+##### Gist of the bhāṣya
+
+O hero Indra, you, the famous one, rejoicing, open for those who are worthy of soma the dwelling place of cattle and horses, the pen, as one lays open a city of enemies; that is, you make its door open.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- सः (*saḥ*)—you, the famous one
+- मंदानः (*maṃdānaḥ*)—delighted by our praises
+- सोम्येभ्यः (*somyebhyaḥ*)—for us, who have prepared soma juice for you
+- पुरं न (*puraṃ na*)—as one opens the gates of the towns of enemies
+- गोः (*goḥ*)—of cows
+- अश्वस्य (*aśvasya*)—and of horses
+- व्रजं (*vrajaṃ*)—the door of the pen
+- विदर्षसि (*vidarṣasi*)—keep open
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, you who are pleased by our praises, open the door of the pen filled with cows and horses, as the gates of the towns of enemies are opened by force, in order to give to us, who have prepared soma juice for you.
+
+##### English translation
+Exhilarated by the Soma draughts, you, hero, throw open the pastures of the cattle and horses like a (hostile) city.
+
+### Printed p. 232
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदि॑ मे रा॒रणः॑ सु॒त उ॒क्थे वा॒ दध॑से॒ चनः॑ ।  
+> आ॒रादुप॑ स्व॒धा ग॑हि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । मे । ररणः । सुते । उक्ते । वा । दधसे । चनः ।  
+> आरात् । उप । स्वधा । आ । गहि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मे मम सुतेऽभिषुते सोम उक्ते स्तोत्रे वा यदि रारणः
+> रमसे चनोऽन्नं यदि च दधसे मह्यं प्रयच्छसि तर्ह्यारूद्दूरात् स्वधान्नेनोपा गहि । उपागच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, if you take delight in my pressed soma or in my praise, and if you give me food, then come near from afar with food of your own.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) मे (*me*)—pressed by me
+- सुते (*sute*)—in the soma juice
+- वा (*vā*)—or
+- उक्ते (*ukte*)—in the praises that I recite
+- यदि रराणिः (*yadi rarāṇiḥ*)—if you have found delight
+- चनः (*canaḥ*)—food
+- दधसे (*dadhase*)—if you give to me
+- आरात् (*ārāt*)—even if you are in a distant region, from there
+- स्वधा (*svadhā*)—together with the food that is to be given to us
+- उप आ गहि (*upa ā gahi*)—graciously come near to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, if you find delight in the soma juice that I have pressed and prepared for you, or in the praises that I recite, and if you give me food, then, even if you are in a distant region, come near to us from there, bringing the food that is to be given to us.
+
+##### English translation
+If you are propitiated by my libation and praise. bestow food (upon me), come with viands from afar.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं घा॑ ते॒ अपि॑ ष्मसि स्तो॒तार॑ इंद्र गिर्वणः ।  
+> त्वं नो॑ जिन्व सोमपाः ॥ ७ ॥
+
+### Printed p. 234
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । घ । ते । अपि । स्मसि । स्तोतारः । इंद्र । गिर्वणः ।  
+> त्वं । नः । जिन्व । सोमपाः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणो गीर्भिर्वननीयेंद्र ते तवापि वयं घ वयं खलु स्तोतारः
+> स्मसि । भवामः । हे सोमपाः सोमस्य पातरिंद्र त्वं नोऽस्माञ्जिन्व । प्रीणयसि ॥
+
+##### Gist of the bhāṣya
+
+O Girvaṇas, Indra, who are to be served with songs, we indeed are your praisers. O Somapa, Indra, drinker of soma, please us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—attracted by words of praise
+- इंद्र (*iṃdra*)—O Indra
+- वयं घ (*vayaṃ gha*)—we also
+- ते अपि (*te api*)—addressing you
+- स्तोतारः (*stotāraḥ*)—as praisers
+- स्मसि (*smasi*)—we are
+- सोमपाः (*somapāḥ*)—O Indra, drinker of soma
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- जिन्व (*jinva*)—gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are attracted by words of praise, we too praise you alone. O Indra, drinker of soma, gladden us.
+
+##### English translation
+Indra, you are pleased by praise, we are your adorers; do you therefore, who are the drinker of the Soma, be generous unto us.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नः॑ पि॒तुमा भ॑र संररा॒णो अवि॑क्षितं ।  
+> मघ॑व॒न्भूरि॑ ते॒ वसु॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । पितुं । आ । भर । संरराणः । अविक्षितं ।  
+> मघवन् । भूरि । ते । वसु ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे मघवन् संरराणः संरममाणस्त्वमविक्षितमविक्षीणं पितुतुन्नं । सृक्षः पितुरित्यन्ननामसु पाठात् । नोऽस्मभ्यमा भर । अहर- । ते.शव वसुधनं भूर्यधिकं हि ॥
+
+##### Gist of the bhāṣya
+
+And moreover, O Maghavan, you, delighting in us, bring to us undiminished food; pitu is read among the names of food. Your wealth is abundant, indeed greater. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- हे मघवन् (*he maghavan*)—O wealthy Indra
+- संरराणः (*saṃrarāṇaḥ*)—pleased by our praises
+- अविक्षितं (*avikṣitaṃ*)—that does not perish
+- पितुं (*pituṃ*)—food
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring
+- ते (*te*)—your
+- वसु (*vasu*)—wealth
+- भूरि (*bhūri*)—is abundant
+
+##### भावार्थ (Bhāvārtha)
+
+Moreover, O wealthy Indra, you who are pleased by our praises, bring us food that does not perish. The wealth that you have is boundless.
+
+##### English translation
+Gratified by us, bring us undiminished food, Maghavan, for vast is your wealth.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॒ गोम॑तस्कृधि॒ हिर॑ण्यवतो अ॒श्विनः॑ ।  
+> इळा॑भिः॒ सं र॑भेमहि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । गोऽमतः । कृधि । हिरण्यवतः । आश्विनः ।  
+> इळाभिः । सं । रभेमहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र नोऽस्मान् गोमतो गोमिनः कृधि । कुरु । अश्विनोऽश्वयुक्तान् कृधि । हिरण्यवतो धनवतश्च कृधि । इळाभिरन्नैश्च सं रभेमहि । वयं
+> संरब्धा भवेम ॥
+
+##### Gist of the bhāṣya
+
+And moreover, O Indra, make us possessors of cattle, possessors of horses, and possessors of gold, that is, of wealth. May we be well provided with iḷā, that is, with foods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and, O Indra
+- नः (*naḥ*)—us
+- गोमतः (*gomataḥ*)—possessors of cattle
+- अश्विनः (*aśvinaḥ*)—possessors of horses
+- हिरण्यवतः (*hiraṇyavataḥ*)—possessors of wealth
+- कृधि (*kṛdhi*)—make (and may we)
+- इळाभिः (*iḷābhiḥ*)—with foods (obtain foods)
+- सं रभेमहि (*saṃ rabhemahi*)—may we possess
+
+##### भावार्थ (Bhāvārtha)
+
+And, O Indra, give us cattle and horses and make us possessors of wealth. And may we always have foods.
+
 ---
 
-**Progress note:** Done through printed p. 227. end of Mandala 8 Sukta 31 (Rks 16-18), colophon, Sukta 32 introduction and Rk 1 (pp. 220-227)
+**Progress note:** Done through printed p. 234. Mandala 8 Sukta 32 Rks 2-9 (pp. 228-234)
