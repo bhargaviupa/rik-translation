@@ -19023,6 +19023,306 @@ O Agni, you who are born in the world of the gods, or born in the atmosphere, or
 ##### English translation
 We worship with praises you, Agni, who are born in heaven or in the waters, elicited by strength.
 
+### Printed p. 420
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्यं॒ घेत्ते जना॑ इ॒मे विश्वाः॑ सुक्षि॒तयः॒ पृथ॑क् ।  
+> धा॒सिं हि॑न्वं॒त्यत्त॑वे ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यं । घ । इत् । ते । जनाः । इमे । विश्वाः । सुक्षितयः । पृथक् ।  
+> धासिं । हिन्वंति । अत्तवे ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तुभ्यं घ त्वदर्थमेव त इमे मया दृश्यमाना जना विश्वाः सर्वाः
+> सुक्षितयः प्रजाश्च धासिमन्नं हविरत्तवेदनाय पृथग्हिन्वंति । प्रेरयंतिच
+
+##### Gist of the bhāṣya
+
+O Agni, for you alone these people whom I see here, all the good people, severally send forth food and oblation to be eaten by you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वाः (*viśvāḥ*)—all
+- सुक्षितयः (*sukṣitayaḥ*)—dwellers on the earth
+- ते (*te*)—the renowned
+- इमे जनाः (*ime janāḥ*)—all these human beings
+- तुभ्यं घेश् (*tubhyaṃ gheś*)—directed to you alone
+- अत्तवे (*attave*)—for your eating
+- धासिं (*dhāsiṃ*)—food
+- पृथक् (*pṛthak*)—severally
+- हिन्वंति (*hinvaṃti*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, all these human beings who are before us, dwellers on the earth, directed to you alone, offer food to you severally for your eating.
+
+##### English translation
+All these people, the inhabitants (of the earth), offer severally to you (sacrificial) food for your eating and enjoyment.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते घेद॑ग्ने स्वा॒ध्योऽहा॒ विश्वा॑ नृ॒चक्ष॑सः ।  
+> तरं॑तः स्याम दु॒र्गहा॑ ॥ ३० ॥
+
+### Printed p. 421
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते ' इत् । अग्ने । सुजव्यः । आहा । विश्वा । नृचक्षसः ।  
+> तरंशः ! स्याम : दुःखहा ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते घेत्त्वदर्थमेव खलु वयं स्वाध्यः सुकर्माणः संतो विश्वा
+> विश्वान्यहाहानि नृचक्षसो द्रष्टारश्च दुर्गहा दुःखेन गाहयितव्यानि तरंतः स्याम ।
+> भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Agni, for you alone may we, doers of good works and seers of men, pass through all days over the hard-to-cross places of sorrow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आग्ने (*āgne*)—O Agni
+- ते फेत् (*te phet*)—for your worship alone
+- वयं (*vayaṃ*)—we
+- स्वाध्यः (*svādhyaḥ*)—possessing excellent works
+- विश्वा (*viśvā*)—all
+- अहा (*ahā*)—in the days
+- नृ चॆक्षसः (*nṛ cèkṣasaḥ*)—possessing the excellent human power of sight
+- दुर्गहा (*durgahā*)—the hard situations of sorrow
+- तरंतः (*taraṃtaḥ*)—crossing
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for your worship alone, may we, possessing excellent works and, in all days, the excellent human power of sight, be crossing the hard situations of sorrow.
+
+##### English translation
+Agni, through you, may we, skilled in sacrifices and beholding men all our days, pass through (all) difficulties.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं मं॒द्रं पु॑रुप्रि॒यं शी॒रं पा॑व॒कशो॑चिषं ।  
+> हृ॒द्भिमं॒द्रेभि॑रीमहे ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । मंद्रं । पुरुप्रियं । शीरं । पावकशोचिषं ।  
+> हृत्भिः । मंद्रेभिः । ईमहे ॥ ३० ॥
+
+**NOTE**
+
+### Printed p. 422
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंद्रं मादनं पुरुप्रियं बहुप्रियं शीरं यज्ञेषु शयनशीलं पावकशोचिषं पावकदीप्तिमग्निं हृद्भिर्मनोहरैर्मंद्रॆर्मादनैः स्तोत्रैरीमहे ।
+> यचामहे ॥
+
+##### Gist of the bhāṣya
+
+Agni is gladdening, dear to many, reclining at sacrifices and of purifying brightness; with heart-pleasing, gladdening hymns we beg of him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंद्रं (*maṃdraṃ*)—the delighter
+- पुरुप्रियं (*purupriyaṃ*)—dear to many
+- शीरं (*śīraṃ*)—pervading the sacrificial places
+- पावकशोचिषं (*pāvakaśociṣaṃ*)—possessing purifying radiance
+- अग्निं (*agniṃ*)—Agni
+- हृद्भिः (*hṛdbhiḥ*)—recited wholeheartedly
+- मंद्रेभिः (*maṃdrebhiḥ*)—causing delight, with praises
+- ईमहे (*īmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+We praise with hymns recited wholeheartedly and causing delight Agni, who is the delighter, dear to many, pervading the sacrificial places and possessed of purifying radiance.
+
+##### English translation
+We invoke with cheerful and delightful (hymns) the gladdening Agni, dear to many, who abides in the sacrifice with purifying brilliance.
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the words शीरं पावकशोचिषं । (*śīraṃ pāvakaśociṣaṃ |*) Yāska says in his Nirukta: शीरं पावकशोचिषं । हृद्भिमंद्रेभिरीमहे ॥ ३१ ॥ अग्निं । मंद्रं । पुरुप्रियं । शीरं । पावकशोचिषं । हृत्भिः । मंद्रेभिः । ईमहे ॥ ३० ॥ मंद्रं मादनं पुरुप्रियं बहुप्रियं शीरं यज्ञेषु शयनशीलं पावकशोचिषं पावकदीप्तिमग्निं हृद्भिर्मनोहरैर्मंद्रॆर्मादनैः स्तोत्रैरीमहे । यचामहे ॥ मंद्रं—हर्षकारकनू । पुरुप्रियं—अनेकरिगॆ प्रियनू । शीरं—यज्ञप्रदेश गळल्लि व्यापिसिरुववनू । पावकशोचिषं—शुद्धिकारकवाद प्रभॆयुळ्ळवनू आद । अग्निं— अग्नियन्नु । हृद्भिः—मनःपूर्वकवागि पठितवादवू । मंद्रेभिः—हर्षवन्नुंटुमाडुवुवू आद स्तुतिगळिंद । ईमहे—स्तुतिसुत्तेवॆ. हर्षकारकनू, अनेकरिगॆ प्रियनू, यज्ञप्रदेशगळल्लि व्यापिसिरुववनू, शुद्धिकारकवाद प्रभॆयुळ्ळवनू आद अग्नियन्नु मनःपूर्वकवागि पठितवादवू, हर्षवन्नुंटुमाडुवुवू आद स्तुतिगळिंद स्तुतिसुत्तेवॆ. We invoke with cheerful and delightful (hymns) the gladdening Agni, dear to many, who abides in the sacrifice with purifying brilliance. शीरं पावकशोचिषं—ई शब्दगळ अर्थविवरणॆयन्नु माडुत्ता यास्करु तम्म निरुक्तदल्लि— शीरं पावकशोचिषं । पावकदीप्तिं । अनुशायिनमिति नाशिनमिति ना (*śīraṃ pāvakaśociṣaṃ | hṛdbhimaṃdrebhirīmahe ‖ 31 ‖ agniṃ | maṃdraṃ | purupriyaṃ | śīraṃ | pāvakaśociṣaṃ | hṛtbhiḥ | maṃdrebhiḥ | īmahe ‖ 30 ‖ maṃdraṃ mādanaṃ purupriyaṃ bahupriyaṃ śīraṃ yajñeṣu śayanaśīlaṃ pāvakaśociṣaṃ pāvakadīptimagniṃ hṛdbhirmanoharairmaṃdrèrmādanaiḥ stotrairīmahe | yacāmahe ‖ maṃdraṃ—harṣakārakanū | purupriyaṃ—anekarigè priyanū | śīraṃ—yajñapradeśa gaḷalli vyāpisiruvavanū | pāvakaśociṣaṃ—śuddhikārakavāda prabhèyuḷḷavanū āda | agniṃ— agniyannu | hṛdbhiḥ—manaḥpūrvakavāgi paṭhitavādavū | maṃdrebhiḥ—harṣavannuṃṭumāḍuvuvū āda stutigaḷiṃda | īmahe—stutisuttevè. harṣakārakanū, anekarigè priyanū, yajñapradeśagaḷalli vyāpisiruvavanū, śuddhikārakavāda prabhèyuḷḷavanū āda agniyannu manaḥpūrvakavāgi paṭhitavādavū, harṣavannuṃṭumāḍuvuvū āda stutigaḷiṃda stutisuttevè. We invoke with cheerful and delightful (hymns) the gladdening Agni, dear to many, who abides in the sacrifice with purifying brilliance. śīraṃ pāvakaśociṣaṃ—ī śabdagaḷa arthavivaraṇèyannu māḍuttā yāskaru tamma niruktadalli— śīraṃ pāvakaśociṣaṃ | pāvakadīptiṃ | anuśāyinamiti nāśinamiti nā*) (2-4-14) **NOTE**
+
+Here शीरं (*śīraṃ*) is a name of Agni; since it describes the qualities of Agni, it is the word used to indicate Agni as शीरं (*śīraṃ*). Because he enters all beings (creatures) and abides in the form of heat, or because he pervades all creatures, it is natural to designate Agni by the word शीरं (*śīraṃ*). पावकशोचिषं (*pāvakaśociṣaṃ*) means पावकदीप्तिं (*pāvakadīptiṃ*), one who shines with an exceedingly brilliant radiance.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वम॑ग्ने वि॒भाव॑सुः सृ॒जन्तस्यो॒ न र॒श्मिभिः॑ ।  
+> शर्ध॒न्तमां॑सि जिघ्नसे ॥ ३२ ॥
+
+### Printed p. 423
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । तैः । अग्ने । विभावसुः । सृजन् । सूर्यति । न । रश्मिभिः ।  
+> शर्धन् । तमांसि । जिघ्नसे ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विभावसुर्दिप्तिरोचनः स प्रसिद्धस्तं क्रिजन्नुद्यन् सूर्यो न
+> यथा सूर्यस्तथा रश्मिभिः शर्धन् बलं कुर्वंस्तमांसि जिघ्नसे । नाशयसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the radiant and renowned, like the rising sun, exerting strength with your rays, you destroy the darknesses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विभावसुः (*vibhāvasuḥ*)—having radiance for wealth
+- सः (*saḥ*)—the renowned
+- त्वं (*tvaṃ*)—you
+- सूर्यो न (*sūryo na*)—like the sun
+- सृजन् (*sṛjan*)—rising
+- रश्मिभिः (*raśmibhiḥ*)—with your rays
+- शर्धन् (*śardhan*)—gaining strength
+- तमांसि (*tamāṃsi*)—darknesses
+- जिह्वसे (*jihvase*)—you destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, having radiance for wealth and renowned, you, rising like the sun and gaining strength from your rays, destroy the darknesses.
+
+##### English translation
+Shining forth, Agni, like the rising sun displaying your strength by your beams, you destroy the darkeess.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्ते॑ सहस्व ईमहे दा॒त्रं यन्नोप॒दस्य॑ति ।  
+> त्वद॑ग्ने॒ वार्यं॒ वसु॑ ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । ते । सहस्वः । ईमहे । दात्रं । यत् । न । उपसदस्यति ।  
+> त्वत् । अग्ने । वार्यं । वसु ॥ ३३ ॥
+
+### Printed p. 424
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहस्वो बलवन्नग्ने ते तव यद्वसु नोपदस्यति नोपक्षीयते तद्दात्रं
+> दातव्यं वार्यं वरणेयं च वसु धनं त्वत्त्वत्त ईमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O strong Agni, the wealth of yours that is not exhausted, that is to be given and desirable, we beg from you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्वः (*sahasvaḥ*)—possessing strength
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- यत् (*yat*)—which wealth
+- नोपदस्यति (*nopadasyati*)—is not destroyed
+- तत् (*tat*)—such
+- दात्रं (*dātraṃ*)—fit to be given
+- वार्यं (*vāryaṃ*)—desired
+- वसु (*vasu*)—wealth
+- त्वत् (*tvat*)—from you
+- ई महे (*ī mahe*)—we beg
+
+##### भावार्थ (Bhāvārtha)
+
+O strong Agni, we beg from you that wealth of yours, fit to be given and desired, which is not destroyed.
+
+##### English translation
+We solicit from you, strong Agni. that desirable wealth which is in your gift and which decays not.
+
+## Sūkta 44 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिधाग्निमिति त्रिंशदृचं द्वितीयं सूक्तमांगिरसस्य विरूपस्यार्षं प्राग्वत्वप्रपरिभाषया गायत्रमाग्नेयं । तथा चानुक्रम्यते । समिधाग्निं त्रिंशदिति ॥
+> प्रातरनुवाके गायत्रे छंदस्याश्विनशस्त्रे चेदं विनियुक्तं ॥ महाव्रते समिधाग्निमित्याद्याश्चतस्रः सामिधेन्यः । तथा च पंचमारण्यके सूत्रितं । समिधाग्नमिति
+> चतस्रो वैश्वकर्मण ऋषभः । ऐ. आ. ५-१-१ । इति ॥ आतिथ्यायां समिधाग्निमित्येषा
+> प्रथमाज्यभागस्यानुवाक्या । सूत्रितं च । समिधाग्निं दुवस्यता प्यायस्तॆ समेतु
+> ते । आ. ४-५ । इति ॥ अमावास्यायां प्रथमाज्यभागस्यानुवाक्या । सूत्तिके च ।
+> वृधन्वंतावमावास्यायामग्निः प्रश्नेन मन्मना । आ १-५ । इति ॥ दर्शपूर्णमासॆयोराग्नॆयस्यानुवाक्याग्निर्मूर्धेत्येषा । सूत्रितं च । अग्निमूर्धा भुवो यज्ञस्य।
+
+##### Gist of the bhāṣya
+
+The hymn beginning समिधाग्निं (*samidhāgniṃ*) has thirty Ṛks and is the second sūkta of this Anuvāka; its seer is Virūpa the Āṅgirasa, its deity Agni, its metre Gāyatrī, by the rule that the metre is as before. So it is said in the Anukramaṇī: समिधाग्निं त्रिंशदिति (*samidhāgniṃ triṃśaditi*). It is used in the Prātaranuvāka, for the Gāyatrī metre and in the Āśvina-śastra. In the Mahāvrata the first four Ṛks, beginning समिधाग्निं (*samidhāgniṃ*), are the Sāmidhenī verses; and so it is laid down in the fifth Āraṇyaka: समिधाग्नमिति चतस्रो वैश्वकर्मण ऋषभः । (*samidhāgnamiti catasro vaiśvakarmaṇa ṛṣabhaḥ |*) (Ai. Ā. 5-1-1). In the Ātithya rite the Ṛk समिधाग्निं (*samidhāgniṃ*) is the anuvākyā of the first ājyabhāga, and the sūtra says: समिधाग्निं दुवस्यता प्यायस्तॆ समेतु ते । (*samidhāgniṃ duvasyatā pyāyastè sametu te |*) (Ā. 4-5). On the new-moon day it is the anuvākyā of the first ājyabhāga, and it is said in the sūtra: वृधन्वंतावमावास्यायामग्निः प्रश्नेन मन्मना (*vṛdhanvaṃtāvamāvāsyāyāmagniḥ praśnena manmanā*) (Ā. 1-5). In the Darśa and Pūrṇamāsa rites the Ṛk beginning Agni-mūrdhā is the anuvākyā of the Āgneya offering, and the sūtra says: अग्निमूर्धा भुवो यज्ञस्य (*agnimūrdhā bhuvo yajñasya*)
+
+### Printed p. 425
+
+> आ. १-६ । इति ॥ मूर्धन्वद्गुणस्याग्नेरप्येपैवानुवाक्या । सूत्रितं च । नित्ये मूर्धन्व
+> इति ॥ पवमानेष्टिषु द्वितीयस्यामिष्टावग्नेः शुचेरनुवाक्याग्निः शुचिव्रततम
+> इत्येषा । सूत्रितं च । अग्निः शुचिव्रततम उदग्ने शुचयस्तव । आ. २-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+(Ā. 1-6). The same Ṛk is the anuvākyā for Agni in the character of Mūrdhanvat, and the sūtra says: नित्ये मूर्धन्व इति (*nitye mūrdhanva iti*). In the Pavamāneṣṭis, in the second offering, for Agni Śuci, the Ṛk beginning Agniḥ Śucivratatama is the anuvākyā, and the sūtra says: अग्निः शुचिव्रततम उदग्ने शुचयस्तव (*agniḥ śucivratatama udagne śucayastava*) (Ā. 2-1).
+
+This sūkta beginning समिधाग्निं (*samidhāgniṃ*) is the second sūkta in the sixth Anuvāka. It has thirty Ṛks. Its seer is Virūpa Āṅgirasaḥ; the deity is Agni; the metre is Gāyatrī. In the Anukramaṇī it is said: समिधाग्निं त्रिंशत् (*samidhāgniṃ triṃśat*). At the time of reciting the Prātaranuvāka mantras, for the Ṛks of Gāyatrī metre and for the Āśvina-śastra mantras, this sūkta has its application. In the Mahāvrateṣṭi the first four Ṛks of this sūkta beginning समिधाग्निं (*samidhāgniṃ*) are to be recited as Sāmidhenī mantras; this is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence समिधाग्निमिति चतस्रो वैश्वकर्मणि ऋषभः (*samidhāgnimiti catasro vaiśvakarmaṇi ṛṣabhaḥ*) (Ai. Ā. 5-1-1). In the Ātithyeṣṭi the Ṛk beginning समिधाग्निं (*samidhāgniṃ*) is to be recited as the anuvākyā mantra of the first ājyabhāga; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra समिधाग्निं दुवस्यताप्त्याय समेतु ते (*samidhāgniṃ duvasyatāptyāya sametu te*) (Ā. 4-5). In the Amāvāsyeṣṭi (Darśeṣṭi) also this Ṛk is to be recited as the anuvākyā mantra of the first ājyabhāga; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra वृधन्वंतावमावास्यायामग्निः प्रश्नेन मन्मना (*vṛdhanvaṃtāvamāvāsyāyāmagniḥ praśnena manmanā*) (Ā. 1-5). In the Darśa-pūrṇamāseṣṭis the sixteenth Ṛk of this sūkta beginning अग्निमूर्धा (*agnimūrdhā*) is to be recited as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अग्निमूर्धा भुवो यज्ञस्य (*agnimūrdhā bhuvo yajñasya*) (Ā. 1-6). In the homa addressed to Agni in the character of Mūrdhanvat this Ṛk also is to be recited as the anuvākyā mantra; this is explained by the sūtra नित्ये मूर्धन्य (*nitye mūrdhanya*). In the Pavamāneṣṭis, in the second iṣṭi, in the homa addressed to the deity Agni Śuci, the twenty-first Ṛk of this sūkta beginning अग्निः शुचिव्रततमः (*agniḥ śucivratatamaḥ*) is to be recited as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अग्निः शुचिव्रततम उदग्ने शुचयस्तव (*agniḥ śucivratatama udagne śucayastava*) (Ā. 2-1).
+
+Sūkta 44. Maṇḍala 8; Anuvāka 6; Sūkta 44. Aṣṭaka 6; Adhyāya 3; Varga 36, 37, 38, 39, 40, 41. Number of Ṛks in the hymn: 30. Seer: Virūpa Aṅgirasaḥ. Deity: Agniḥ. Metre: Gāyatriḥ.
+
+### Printed p. 426
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मिधा॒ग्निं दु॑वस्यत घृ॒तैर्बो॑धय॒ताति॑थिं ।  
+> आस्मि॑न्ह॒व्या जु॑होतन ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइधा । अग्निं । दुवस्यत । घृतैः । बोधयत । अतिथिं ।  
+> आ । अस्मिन् । हव्या । जुहोतन ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः अतिथिमतिथिवत्प्रियमग्निं समिधा दुवस्यत । परिचरत । धृतैर्दीप्तिसाधनैराज्यैर्बोधयत च । अस्मिन्समिद्देऽग्नौ हव्या हवींष्या जुहोतन ।
+> आजुहुत च ॥
+
+##### Gist of the bhāṣya
+
+O priests, serve Agni, who is dear like a guest, with fuel; awaken him with ghee, the means of kindling; and offer the oblations in him when he is kindled.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अतिथिं (*atithiṃ*)—worthy of honour like a guest
+- अग्निं (*agniṃ*)—Agni
+- समिधा (*samidhā*)—with fuel sticks
+- दुवस्यत (*duvasyata*)—worship
+- घृतैः (*ghṛtaiḥ*)—with ghee, the means of kindling
+- बोधयत (*bodhayata*)—cause him to blaze
+- अस्मिन् (*asmin*)—in this kindled Agni
+- हव्या (*havyā*)—oblations
+- आ जुहोतन (*ā juhotana*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, worship with fuel sticks Agni, who is worthy of honour like a guest. Cause him to blaze with ghee, the means of kindling. Offer oblations in this kindled Agni.
+
+##### English translation
+Honour Agni with fuel, awaken him, the guest, with (libations of) butter ; offer the oblations in him.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ स्तोमं॑ जुषस्व मे॒ वर्ध॑स्वा॒ नेन॒ मन्म॑ना ।  
+> प्रति॑ सू॒क्तानि॑ हर्य नः ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 419. Mandala 8 Sukta 43 Rk 21-28
+**Progress note:** Done through printed p. 426. Mandala 8 Sukta 43 Rk 29-33, Sukta 44 intro and Rk 1-2
