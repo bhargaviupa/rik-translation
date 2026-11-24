@@ -27128,6 +27128,269 @@ O Indra, if you drink Soma together with Viṣṇu, who has come to drink at ano
 - इंदुभिः (*iṃdubhiḥ*)—with our Soma-juices
 - सं (माद्य) (*saṃ (mādya)*)—obtain full satisfaction
 
+### Printed p. 654
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, just as you drink the Soma when Viṣṇu is near, or as you drink it when Trita, the son of the waters, is with you, or as you attain full satisfaction when the Maruts are with you, so drink our Soma juices as well and be satisfied with them.
+
+##### English translation
+Inasmuch as you are exhilarated by the Soma shared with Vishnu or when (offered) by Trita, the son of the waters, or along with the Maruts, so now (be gratified) by (our) libations,
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॑ शक्र परा॒वति॑ समु॒द्रे अधि॒ मंद॑से ।  
+> अ॒स्माक॒मित्सु॒ते र॑णा॒ समिंदु॑भिः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । शक्र । परावति । समुद्रे । अधि । मंदसे ।  
+> अस्माकं । इत् । सुते । रण । सं । इंदुभिः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शक्र शक्तेंद्र परावति परागते दूरदेशे समुद्रे समुंदनशीले सोमे!
+> अधि सप्तम्यर्थानुवादी । यद्वा यदि ना मंदसे माद्यसि तथाप्यस्माकमिदस्माकमेव सोमेऽभिषुते सतींदुभिः सोमरसैः सं रण । सम्यग्रमस्व ॥
+
+##### Gist of the bhāṣya
+
+O Śakra, Indra the mighty: in a far-off place (परावति (*parāvati*)), in the Soma that flows like the sea (समुद्रे (*samudre*)), where अधि (*adhi*) merely restates the sense of the locative, you are gladdened (मंदसे (*maṃdase*)). Even so, when our own Soma has been pressed, rejoice fully (सं रण (*saṃ raṇa*), "delight well") with the Soma juices (इंदुभिः (*iṃdubhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्र (*śakra*)—O mighty Indra
+- परावति (*parāvati*)—in the very distant place
+- समुद्रे अधि (*samudre adhi*)—with the Soma juice that flows
+- यद्वा (*yadvā*)—in whatever manner
+- मंदसे (*maṃdase*)—you attain satisfaction, so also
+- अस्माकमित् (*asmākamit*)—offered by us also
+- सुते (*sute*)—pressed
+- इंदुभिः (*iṃdubhiḥ*)—with the Soma juices
+- सं रण (*saṃ raṇa*)—attain abundant delight
+
+### Printed p. 655
+
+##### भावार्थ (Bhāvārtha)
+
+O all-powerful Indra, just as you are satisfied by the Soma juice that is in a very distant place and flows, so attain abundant delight from the Soma juices offered and pressed by us also.
+
+##### English translation
+Inasmuch Shakra, as you are exhilarated (by the Soma) on the far-distant ocean, so be gratified now, when the Soma is effused by our libations.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वासि॑ सुन्व॒तो वृ॒धो यज॑मानस्य सत्पते ।  
+> उ॒क्के वा॒ यस्य॒ रण्य॑सि॒ समिंदु॑भिः ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । असि । सुन्वतः । वृधः । यजमानस्य । सत् 5 पते ।  
+> उक्के । वा । यस्य । रण्यसि । सं । इंदु 5 भिः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सत्वते सतां पालयितरिंद्र सुन्वतः सोमाभिषवं कुर्वतो यजमानस्य
+> यद्वा यदि वा वृधोऽसि वर्धयिता भवसि ॥ वृधेरंतर्णीतण्यर्थादिगुपधलक्षणः कः ॥
+> यस्य च यजमानस्कोक्षे शस्त्रे वा शंसिते सति रण्यसि रमसे । एवमपींदुभिरस्मदीयैरेव सोमैः सम्यग्रमस्व ॥
+
+##### Gist of the bhāṣya
+
+O protector of the good, Indra: you are the one who makes the sacrificer who presses Soma prosper (वृधः (*vṛdhaḥ*), "increaser"; the word is formed from the root वृध (*vṛdha*) with the sense of the causative). And for whichever sacrificer you delight when a recital (*ukthe*) or a śastra is recited — even so, rejoice fully with our own Soma juices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्पते (*satpate*)—O Indra, protector of the good
+- सुन्वतः (*sunvataḥ*)—who presses and offers Soma juice
+- यजमानस्य (*yajamānasya*)—to the sacrificer
+- यद्वा (*yadvā*)—in whatever manner
+- वृधः (*vṛdhaḥ*)—as the one who increases
+- असि (*asi*)—you are
+- वा (*vā*)—or
+- यस्य (*yasya*)—by whichever sacrificer
+- उक्ते (*ukte*)—when the śastra-mantra is offered
+- रण्यसि (*raṇyasi*)—you rejoice (so also)
+- इंदुभिः (*iṃdubhiḥ*)—with these Soma juices offered by us
+- सं (रण) (*saṃ (raṇa)*)—attain full satisfaction
+
+### Printed p. 656
+
+##### भावार्थ (Bhāvārtha)
+
+O protector of the good, Indra: just as you are the increaser of the sacrificer who presses and offers Soma juice, or as you rejoice when the śastra-mantra is offered by a sacrificer, so attain full satisfaction with these Soma juices offered by us also.
+
+##### English translation
+Inasmuch, protector of the virtuous, as you are the benefactor of the worshipper offering you libations, or by whose prayers you are propitiated, so now (be gratified) by our libations.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वंदे॑वं॒ वोऽव॑स॒ इंद्र॑मिंद्रं गृणी॒षणि॑ ।  
+> अधा॑ य॒ज्ञाय॑ तु॒र्वणे॒ व्या॑नशुः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवं देवं । वः । अवसे । इंद्रं इंद्रं । गृणीषणि ।  
+> अध । यज्ञाय । तुर्वणे । वि । आनशुः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विग्यजमानाः वो युष्माकमवसे रक्षणाय देवं देवमिंद्रमिंद्रं
+> दानादिगुणयुक्तं । इंद्रो बहुषु देशेषु युगपत्रवृत्तेषु यागेषु तत्र तत्र
+> हविःस्वीकरणायबहूनि शरीराण्याददानः स्वयमेकोऽप्यनेकः संस्तत्र तत्रसंनिधत्ते।
+> तथा च निगमांतरं । इंद्रो मायाभिः पुरुरूप ईयते । ऋ. ६-४७-१८ । इति ।
+> तदपेक्षयेयं वीप्सा । बहु विभज्य वर्तमानं सर्वं तमिंद्रं गृणीषणि । अहं
+> सौमि ॥ गृणातेर्लिजु छांदसमेतद्रूपं ॥ यद्वा । कारकमेवैतत् । गृणीषणि
+> स्तवनेच्छायां सत्यां । आधानंतरं सर्वमिंद्रं मदीयाः स्तुतयो व्यानशुः ।
+> व्याप्पुवंति । किमर्थं । तुर्वणे तूर्णं सुभजनाय यज्ञाय यागार्थं ।
+> यद्वा ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थि ॥ यज्ञं यष्टव्यं
+> तुर्वणे शत्रूणां हिंसितारं तूर्णसंभजनं वा ॥
+
+##### Gist of the bhāṣya
+
+O priests and sacrificers, for your protection I praise Indra, each god and each Indra, endowed with the quality of giving and the like. At many sacrifices going on simultaneously in many places, Indra takes many bodies to receive the oblation in each place; though one, he becomes many and is present at each. Another Vedic passage says this: इंद्रो मायाभिः पुरुरूप ईयते । (*iṃdro māyābhiḥ pururūpa īyate |*) (Ṛ. Saṃ. 6-47-18). The repetition (देवंदेवं (*devaṃdevaṃ*), इंद्रमिंद्रं (*iṃdramiṃdraṃ*)) refers to this: I praise every Indra who exists divided into many. गृणीषणि (*gṛṇīṣaṇi*) is a Vedic form of the root गृ (*gṛ*) ("I praise"). Alternatively it is a noun of agency, "when there is a desire to praise". Thereafter my praises pervade (व्यानशुः (*vyānaśuḥ*)) every Indra. For what purpose? For the sacrifice (यज्ञाय (*yajñāya*)) that quickly (तुर्वणे (*turvaṇe*)) bestows its fruit, for the sake of the rite. Or else, because the act to be undertaken is the object, the dative is used: the sacrifice that is to be performed; तुर्वणे (*turvaṇe*) means the destroyer of enemies, or one who quickly shares out (benefits).
+
+### Printed p. 657
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests and sacrificers) वः (*vaḥ*)—your
+- अवसे (*avase*)—for protection
+- देवंदेवं (*devaṃdevaṃ*)—having the divine form everywhere
+- इंद्रमिंद्रं (*iṃdramiṃdraṃ*)—Indra, who has the form of Indra at all places of sacrifice
+- गृणीषणि (*gṛṇīṣaṇi*)—I praise
+- अध (*adha*)—thereafter
+- तुर्वणे (*turvaṇe*)—that gives its fruit quickly
+- यज्ञाय (*yajñāya*)—for the sacrifice
+- व्यानशुः (*vyānaśuḥ*)—my praises reach Indra
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, for your protection I praise Indra, who takes the divine form everywhere and has the form of Indra at all places of sacrifice.
+
+##### English translation
+I glorify the divine Indra wherever worshippped for your protection: (my praises) have reached him for the prompt (fulfilment) of the (objects of the) sacrifice,
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञेभि॑र्य॒ज्ञवा॑हसं॒ सोमे॑भिः सोम॒पात॑मं ।  
+> होत्रा॑भि॒रिंद्रं॑ वावृधु॒र्वान्य॑नशुः ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञेभिः । यज्ञवाहसं । सोमेभिः । सोमपातमं ।  
+> होत्राभिः । इंद्रं । ववृधुः । वि । आनशुः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञेभिर्यज्ञैर्यजमानसाधनैर्हविर्भिर्यज्ञवाहसं यज्ञे वोढव्यं
+> प्रापणीयं यज्ञैर्यागैर्यज्ञानां यजमानानां फलस्य प्रापयितारं वा ।
+> अथवा यज्ञवाहसं यज्ञेन प्राप्यं । न केवलमेकेन यज्ञेनापि तु सर्वैरित्याह
+> यज्ञेभिरिति । एवं सोमेभिः सोमपातमं सर्वेषां सोमानां पातृतम-
+> அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்
+> [ 42]                                                                 [ Vol. 23 ]
+
+##### Gist of the bhāṣya
+
+यज्ञेभिः (*yajñebhiḥ*) means with sacrifices, i.e. with oblations, the means of the sacrificers. Indra is यज्ञवाहसं (*yajñavāhasaṃ*): the one who is to be carried to the sacrifice, to be brought there by sacrifices; or the one who brings the fruit to the sacrificers. Or else यज्ञवाहसं (*yajñavāhasaṃ*) means one to be reached through sacrifice. Not by one sacrifice only but by all: this is what यज्ञेभिः (*yajñebhiḥ*) says. Likewise सोमपातमं (*somapātamaṃ*) is the greatest drinker of all the Somas, [the text continues in the next block].
+
+### Printed p. 658
+
+> मिंद्रं होत्राभिः स्तुतिभिर्वावृधुः । स्तोतारो वर्धयंति । ताश्च क्रियमाणाः
+> स्तुतयो व्यानशुः । तमिंद्रं व्याप्नुवंति च ॥ अश्नोतेर्व्यत्ययेन परस्मैपदं॥
+
+##### Gist of the bhāṣya
+
+Indra is magnified (वावृधुः (*vāvṛdhuḥ*)) with होत्राभिः (*hotrābhiḥ*), i.e. with praises; the praisers make him grow. And these praises, as they are made, reach (व्यानशुः (*vyānaśuḥ*)) that Indra. The parasmaipada form comes from the root *aśnoteḥ* by vyatyaya (interchange).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञवाहसं (*yajñavāhasaṃ*)—Indra, who carries and brings the fruit of the sacrifice
+- यज्ञेभिः (*yajñebhiḥ*)—with the oblations that are the means of sacrifice also
+- सोमपातमं (*somapātamaṃ*)—Indra, who drinks Soma exceedingly
+- सोमेभिः (*somebhiḥ*)—with Soma juices also
+- इंद्रं (*iṃdraṃ*)—that same Indra
+- होत्राभिः (*hotrābhiḥ*)—with praises also
+- वावृधुः (*vāvṛdhuḥ*)—the sacrificers and others have made him grow strong
+- व्यानशुः (*vyānaśuḥ*)—all these praises and the like offered to him have filled and pervaded him
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers and others have worshipped Indra, who carries and brings the fruit of the sacrifice, with the oblations that are the means of sacrifice, Indra the great drinker of Soma with Soma juices, and that same Indra with praises, and have made him grow strong. All these praises and the like offered to him have filled and pervaded him.
+
+##### English translation
+(His worshippers) have magnified with many sacrifices him to whom the sacrifice is offered, and with many libations the eager quaffer of the Soma: (they have magnified) Indra with hymns, (their praises) have attained him.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हीर॑स्य॒ प्रणी॑तयः पू॒र्विरु॒त प्रश॑स्तयः ।  
+> विश्वा॒ वसू॑नि दा॒शुषे॒ व्या॑नशुः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महीः । अस्य । प्रनीतयः । पूर्विः । उत । प्रशस्तयः ।  
+> विश्वा । वसूनि । दाशुषे । वि । आनशुः ॥ २१ ॥
+
+### Printed p. 659
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य प्रणीतयः प्रणयनानि धनानां प्रकृष्टप्रापणानि महीर्महत्यो
+> महांति भवंति । उतापि चास्य प्रशस्तयः प्रशंसनीयाः कीर्तयः पूर्विर्बहो
+> विस्तृतमा भवंति । ता उभयविधा दाशुषे चरुपुरोडाशादीनि दत्तवते यजमानाय दातुं विश्वा विश्वानि सर्वाणि वसूनि धनानि व्यानशुः । व्याप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+The प्रणीतयः (*praṇītayaḥ*) of this Indra, his leadings, i.e. his bestowals that bring wealth, are great (महीः (*mahīḥ*)). And his प्रशस्तयः (*praśastayaḥ*), his praiseworthy glories, are many (पूर्वीः (*pūrvīḥ*)), very extensive. Both kinds reach (व्यानशुः (*vyānaśuḥ*)) all (विश्वा (*viśvā*)) the riches (वसूनि (*vasūni*)), so as to give them to the sacrificer who has given (दाशुषे (*dāśuṣe*)) the cooked offering, the cake and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Indra
+- प्रणीतयः (*praṇītayaḥ*)—gifts of wealth and the like
+- महीः (*mahīḥ*)—great ones
+- उत (*uta*)—and
+- प्रशस्तयः (*praśastayaḥ*)—his praiseworthy glories
+- पूर्वीः (*pūrvīḥ*)—are exceedingly many
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblation
+- विश्वा (*viśvā*)—all
+- वसूनि (*vasūni*)—riches
+- व्यानशुः (*vyānaśuḥ*)—come to the sacrificer and pervade him
+
+##### भावार्थ (Bhāvārtha)
+
+The gifts of wealth and the like of this Indra are great. His praiseworthy glories are exceedingly many. All the riches that Indra gives to the sacrificer who offers oblation come to the sacrificer and pervade him.
+
+##### English translation
+Infinite are his bounties, many are his glories: ample treasures have reached the donor (of oblations).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॑ वृ॒त्राय॒ हंत॑वे दे॒वासो॑ दधिरे पु॒रः ।  
+> इंद्रं॒ वाणी॑रनूषता॒ समोज॑से ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । वृत्राय । हंतवे ! देवासः । दधिरे । पुरः ।  
+> इंद्रं । वाणीः । अनूषत । सं । ओजसे ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवासो देवा वृत्राय हंतवे वृत्रमावरकमसुरं हंतुं ॥ हंतेस्तु-
+
+##### Gist of the bhāṣya
+
+The gods (देवासः (*devāsaḥ*)) placed Indra in front, to slay Vṛtra (वृत्राय हंतवे (*vṛtrāya haṃtave*)), the asura who obstructs.
+
 ---
 
-**Progress note:** Done through printed p. 653. pp. 648-653 (batch API)
+**Progress note:** Done through printed p. 659. pp. 654-659 (batch API)
