@@ -33638,6 +33638,284 @@ Agni, may he who the offerer of sacrifice obtain his reward: he, auspicious Agni
 > यस्य॒ त्वमू॒र्धोऽ॑ध्व॒राय॒ तिष्ठ॑सि क्ष॒यद्वी॑रः॒ स  ॑
 > साधते ।
 
+### Printed p. 796
+
+> सो अर्वद्भिः सनिता सः विपन्युभिः स शूरैः सनिता
+> कृतं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । त्वं । ऊर्ध्वः । अध्वराय । तिष्ठसि । क्षयत्वीरः । सः । साधते '  
+> सः । अर्वत्भिः । सनिता । सः । विपन्युभिः । सः । शूरैः । सनिता ।  
+> कृतं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यस्य यजमानस्याध्वराय यागनिष्पादनाय त्वमूर्ध्व उद्युक्तः
+> संस्तिष्ठसि अवतिष्ठसे स यजमानः क्षयद्वीरो निवसद्धिरित्वरैर्वा वीरैः पुत्रादिभिरुपेतः सन् साधते । सर्वकर्तव्यं साधयति । तदेव विवृणोति । स तादृशो
+> जनोऽर्वद्धिरश्वैः कृतं निष्पादितं जयादिकं सनिता संभजनशीलो भवति । स
+> तादृशो जनो विपन्युभिर्मेधाविभिः स शूरैश्च सनिता भवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the sacrificer for whose sacrifice, for the accomplishing of the rite, you stand ready (ūrdhva, "upright", that is, prepared) and take your place, that sacrificer lives in a dwelling filled with heroes, that is, with sons and others who go forth swiftly, and he accomplishes all that is to be done. Sāyaṇa then explains this. Such a man comes to share in what has been achieved through horses, namely victory and the like. Such a man also gains through the wise and through the valiant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यस्य (*yasya*)—of whichever sacrificer
+- अध्वराय (*adhvarāya*)—for the sacrifice
+- त्वं (*tvaṃ*)—you
+- ऊर्ध्वः (*ūrdhvaḥ*)—in an excellent place
+- तिष्ठसि (*tiṣṭhasi*)—take a seat
+- सः (*saḥ*)—that same sacrificer
+- क्षयद्वीरः (*kṣayadvīraḥ*)—with houses filled with heroic sons and others
+- साधते (*sādhate*)—accomplishes all his duties
+- सः (*saḥ*)—that same sacrificer
+- अर्वद्भिः (*arvadbhiḥ*)—with horses
+- कृतं (*kṛtaṃ*)—the victories won
+- सनिता (*sanitā*)—comes to possess
+- सः (*saḥ*)—that same sacrificer
+- विपन्युभिः (*vipanyubhiḥ*)—with the wise
+- सः (*saḥ*)—he
+- शूरैः (*śūraiḥ*)—with the valiant
+- सनिता (*sanitā*)—is joined
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer at whose sacrifice you take a seat in an excellent place (that is, adorn the office of president) accomplishes all his duties, together with houses filled with heroic sons and others. That same sacrificer wins victory with horses and enjoys it. That same sacrificer is joined with the wise, and he with the valiant.
+
+##### English translation
+He over whose sacrifice you preside prospers, having his dwelling
+
+### Printed p. 797
+
+filled with male offspring: he is the effecter of his purposes through his horses, through his wise (counsellors), his valiant adherents.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्या॒ग्निर्वपु॑र्गृ॒हे स्तोमं॒ चनो॒ दधी॑त वि॒श्वना॑र्यः ।  
+> ह॒व्या वा॒ वेवि॑ष॒द्विषः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । अग्निः । वपुः । गृहे । स्तोमं । चनः । दधीत । विश्ववार्यः ।  
+> हव्या । ना । पेविषत् । विषः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य यजमानस्य गृहे विश्ववार्यो विश्वैर्वर्णीयो वपुः । रूपनामैतत् ।
+> रूपवान् दीप्तिमानग्निः स्तोमं स्तोत्रं चनोऽन्नं च हविर्लक्षणं दधीत धारयेत् । यस्य च हव्या । नाशब्दः समुच्चये । हव्यानि हवीषि च विषो व्याप्तान्
+> देवान् वेविषत् प्रापयेत् ॥ विष्णु व्याप् । अस्माल्लेटि रूपमेतत् ॥ स
+> यजमान इति पूर्वत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+In the house of whichever sacrificer Agni, desired by all (viśvavārya) and embodied (वपुः (*vapuḥ*) is a word for form), radiant, receives praise and food in the shape of oblation, and in whose house he conveys (वेविषत् (*veviṣat*)) the oblations to the all-pervading gods, ना (*nā*) being a particle of conjunction: that sacrificer, the construction connects it with what precedes, prospers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of whichever sacrificer
+- गृहे (*gṛhe*)—in the house
+- विश्ववार्यः (*viśvavāryaḥ*)—desired by all
+- वपुः (*vapuḥ*)—embodied
+- अग्निः (*agniḥ*)—Agni
+- स्तोमं (*stomaṃ*)—praise
+- चनः (*canaḥ*)—food
+- दधीत (*dadhīta*)—receives
+- वा (*vā*)—or
+- हव्या (*havyā*)—the oblations
+- विषः (*viṣaḥ*)—to the all-pervading gods
+- नेविषत् (*neviṣat*)—conveys (that sacrificer will obtain all his desires)
+
+##### भावार्थ (Bhāvārtha)
+
+In the house of whichever sacrificer Agni, desired by all and embodied, receives praise and food, or conveys oblations to the all-pervading gods, that sacrificer will obtain all his desires.
+
+### Printed p. 798
+
+##### English translation
+(So is he) in whose dwelling the all-desired and embodied Agni receives praise and food, and conveys oblations to the all-pervading deities.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विप्र॑स्य वा स्तुव॒तः स॑हसो यहो म॒क्षूत॑मस्य  ॒॑
+> रातिषु ।  
+> अ॒वोदे॑वमु॒परि॑मर्त्यं कृधि॒ वसो॑ विवि॒दुषो॒ वचः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विप्रस्य । वा । स्तुवतः । सहसः । यहो इति । मक्षुतमस्य । रातिषु ।  
+> अर्वदेवं । उपरिमर्त्यं । कृधि । वसो इति । विविदुषः । वचः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसो यहो बलस्य पुत्राग्ने विप्रस्य मेधाविनः स्तुवतः स्तोतुर्वा
+> रातिषु हविर्दानेषु मक्षुतमस्य शीघ्रतमस्य यष्टुर्वा विविदिषो ज्ञातव्यस्याभिज्ञस्य वचो वचनं हे वसो वासकाग्ने अवोदेवं देवानामवस्तादुपरिमर्त्यं
+> मर्त्यानामुपरिष्टाच्च । कृधि । कुरु । सर्व नभःप्रदेशं व्यापयेति यावत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength (sahasaḥ yaho), make the speech of the wise one who praises, or of the sacrificer who is most swift in the giving of oblations and is a knowing one, to be below the gods and above mortals; that is, make it pervade the whole region of the sky. O Vasu, Agni the giver of dwellings, so do.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—giver of dwellings
+- सहसो यहो (*sahaso yaho*)—son of strength, O Agni
+- विप्रस्य (*viprasya*)—of the wise
+- स्तुवतः (*stuvataḥ*)—of the praiser
+- वा (*vā*)—or
+- रातिषु (*rātiṣu*)—in the gifts of oblations
+- मक्षुतमस्य (*makṣutamasya*)—of him who has exceedingly swift performance of rites
+- विविदुषः (*vividuṣaḥ*)—and is possessed of knowledge, of the sacrificer
+- वचः (*vacaḥ*)—the praise
+- अवोदेवं (*avodevaṃ*)—in the lower part of the world of the gods
+- उपरिमर्त्यं (*uparimartyaṃ*)—in the upper part of the world of men
+- कृधि (*kṛdhi*)—make it spread widely
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwellings and son of strength, make the praise of the wise praiser, or of the sacrificer who is exceedingly swift in the rites of oblation-giving and possessed of knowledge,
+
+### Printed p. 799
+
+pervade and spread, from the worlds of gods and men, through the whole interval between heaven and earth.
+
+##### English translation
+Son of strength, giver of dwellings, place the prayer of the devout intelligent worshipper, who is most prompt in offerings, below the gods and above mortals.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॒ग्निं ह॒व्यदा॑तिभि॒र्नमो॑भिर्वा सु॒दक्ष॑मा॒विवा॑सति ।  
+> गि॒रा वा॑जि॒रशो॑चिषं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अग्निं । हव्यदातिभिः । नमःभिः । वा । सुदक्षं । अविवासति ।  
+> गिरा । वा । अजिर्यशोचिषं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानो हव्यदातिभिर्हविषां दानैर्नमोभिर्नमस्कारैर्वा सुदक्षं
+> शोभनबलमग्निमाविवासति परिचरति गिरा वा स्तुत्या वाजिरशोचिषं क्षिप्रगामितेजस्कं
+> तमग्निं परिचरति स समृद्धो भवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who serves Agni, of good strength, with gifts of oblations and with obeisances, or with praise, Agni whose radiance moves swiftly (अजिरशोचिषं (*ajiraśociṣaṃ*)), becomes prosperous; this is what is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—whichever sacrificer
+- सुदक्षं (*sudakṣaṃ*)—possessed of excellent strength
+- अजिरशोचिषं (*ajiraśociṣaṃ*)—possessed of radiance that spreads swiftly
+- अग्निं (*agniṃ*)—Agni
+- हव्यदातिभिः (*havyadātibhiḥ*)—with gifts of oblations and the like
+- वा (*vā*)—or
+- नमोभिः (*namobhiḥ*)—with obeisances
+- वा (*vā*)—and
+- गिरा (*girā*)—with praises
+- आ विवासति (*ā vivāsati*)—attends and worships (he becomes endowed with prosperity)
+
+##### भावार्थ (Bhāvārtha)
+
+He who attends and worships Agni, who has excellent strength and swiftly spreading radiance, with gifts of oblations and the like,
+
+### Printed p. 800
+
+with obeisances and with praises, becomes endowed with prosperity.
+
+##### English translation
+He who propitiates the powerful and quick-radiating Agni with offerings of oblations, with reverential adorations and with praise (is prosperous).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मिधा॒ यो निशि॑ती॒ दाश॒ददि॑तिं॒ धाम॑भिरस्य॒ मर्त्यः॑ ।  
+> विश्वेत्स धी॒भिः सु॒भगो॒ जना॒ अति॑ द्यु॒म्नैरु॒द्न इ॑व  
+> तारिषत् ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइधा । यः । निशिती । दाशत् । अदितिं । धामभिः । अस्य । मर्त्यः  
+> विश्वा । इत् । सः । धीभिः । सुभगः । जनान् । अति । द्युम्नैः । उदृः इव ।  
+> तारिषत् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मर्त्यो मनुष्योऽस्याग्नेर्धामभिः शरीरैर्गार्हपत्यादिरूपेण विभज्य
+> वर्तमानैः सार्धमदितिमखंडनीयं तमेवाग्निं निशिती निशित्या निशानसाधनया
+> प्रज्वलनहेतुभूतया समिधा दाशत् परिचरेत् धीभिः कर्मभिर्बुद्धिविशेषैर्वा
+> सुभगः सन् विश्वेत् सर्वानेव जनान्युमैर्दोतमानैरन्नैर्यशोभिर्वोद्न
+> इवोदकानीवाति तारिषत् । अतितरेत् । अतिक्रामेत् ॥
+
+##### Gist of the bhāṣya
+
+The mortal who, together with the bodies of this Agni, existing divided in the form of the Gārhapatya and the rest, serves Aditi, the indivisible one, that is, that same Agni, with the kindling stick (samidh) that is sharpened, that is, serves as the cause of kindling, and who, being fortunate through his rites or special insights (धीभिः (*dhībhiḥ*)), surpasses all people with shining foods or renown (द्युम्नैः (*dyumnaiḥ*)), as if he crossed waters (*udnaḥ*); he would pass beyond, would excel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—whichever
+- मर्त्यः (*martyaḥ*)—man
+- अस्य (*asya*)—of this Agni
+- धामभिः (*dhāmabhiḥ*)—with the bodies in the forms of Gārhapatya and the rest
+- अदितिं (*aditiṃ*)—Aditi
+- निशिती (*niśitī*)—serving as fuel
+- समिधा (*samidhā*)—with kindling sticks
+- धीभिः (*dhībhiḥ*)—with rites
+- दाशत् (*dāśat*)—serves
+- सः (*saḥ*)—he
+- सुभगः (*subhagaḥ*)—being possessed of excellent wealth
+- विश्वेत् (*viśvet*)—all
+- जनान् (*janān*)—people
+- द्युम्नैः (*dyumnaiḥ*)—together with radiant foods
+
+### Printed p. 801
+
+- उद्दइव (*uddaiva*)—as one crosses rivers full of water
+- अति तारिषत् (*ati tāriṣat*)—surpasses
+
+##### भावार्थ (Bhāvārtha)
+
+The man who, with the bodies of this Agni in the forms of Gārhapatya and the rest, serves Aditi with kindling sticks, the means of fuel, and with rites, becomes possessed of excellent wealth, and together with radiant foods surpasses all people, as one crosses rivers full of water (he becomes more esteemed than all).
+
+##### English translation
+The mortal who propitiates Aditi with his (Agni's) many forms by blazing fuel, prospering through his pious rites, shall surpass all men in renown as (if he had crossed over) the waters.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद॑ग्ने द्यु॒म्नमा भ॑र॒ यत्सा॒सह॒त्सद॑ने॒ कं चि॑द॒त्रिणं॑ ।  
+> म॒न्युं जन॑स्य दू॒ढ्यः॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । अग्ने । द्युम्नं । आ । भर । यत् । ससहत् । सदने । कं । चित् ।  
+> अत्रिणं ।  
+> मन्युं । जनस्य । दुःध्यः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तद्दुम्नमा भर । अस्मभ्यमाहर । यत्सदने गृहे वर्तमानं कं
+> चित्कमपृत्रिणमत्तारं राक्षसादिकं सासहत् अत्यर्थमभिभवेत् । तथा दूढ्यो दुर्धियः पापबुद्धेः शत्रुजनस्य मन्युं क्रोधं यच्च द्युम्नमभिभवेत् तदाहरेत्यन्वयः॥ धै चेति पृषोदरादिपाठाद्दुरो रेफस्कोत्वं उत्तरपदादेष्टुत्वंच ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bring that splendour (dyumna) to us. Bring that which, dwelling in the house, would greatly overpower any devourer (atrin), any Rākṣasa and the like; and likewise that splendour which would overcome the wrath (manyu) of the hostile folk of evil mind (दूढ्यः (*dūḍhyaḥ*)). This is the construction. The rest of the block is grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—which power
+- सदने (*sadane*)—entering our house
+
 ---
 
-**Progress note:** Done through printed p. 795. pp. 789-795 (batch API)
+**Progress note:** Done through printed p. 801. pp. 796-801 (batch API)
