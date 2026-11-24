@@ -14456,6 +14456,272 @@ He who most cognisant of (the merit) of those who give him no annoyance, bestows
 > पन्यं पन्यं । इत् । सोतारः । आ । धावत । मद्याय ।  
 > सोमं । वीराय । शूराय ॥ २५ ॥
 
+### Printed p. 361
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहीनांतर्गतेऽतिरात्रे प्रथमे पर्याये होतुः शस्त्रे पन्यंपन्यमिति
+> स्तोत्रियस्तृचः छंदोगैरस्य तृचस्य स्तूयमानत्वात् । छंदोगप्रत्ययं स्तोमः
+> स्तोत्रियः । आ. ८-१३ । इति हि स्मर्यते ॥
+> हे सोतारोऽभिषोतारोऽध्वर्यवः मद्याय मादयितव्याय वीराय
+> विक्रांताय शूराय शौर्यवत इंद्राय पन्यं पन्यमित् सर्वत्र स्तुत्यमेव
+> सोममा धावत । अभिगमयत । प्रयच्छतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the first round (paryāya) of the Atirātra, which belongs to the Ahīna rites, the three Ṛks beginning पन्यंपन्यं (*panyaṃpanyaṃ*) are the stotriya tṛca in the Hotṛ's śastra, because the Chandogas (Sāman singers) chant this tṛca. He cites the smṛti: छंदोगप्रत्ययं स्तोमः स्तोत्रियः । आ. ८-१३ । (*chaṃdogapratyayaṃ stomaḥ stotriyaḥ | ā. 8-13 |*) Meaning: O pressers, the Adhvaryus, bring Soma, always praiseworthy, to Indra, who is to be gladdened (मद्याय (*madyāya*)), valiant (वीराय (*vīrāya*), vikrānta) and a hero (शूराय (*śūrāya*), possessing heroism). आ धावत (*ā dhāvata*) means: make it approach, present it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोतारः (*sotāraḥ*)—O Adhvaryus who press the Soma juice
+- वीराय (*vīrāya*)—to the one endowed with valour
+- शूराय (*śūrāya*)—to the mighty one
+- मद्याय (*madyāya*)—to Indra, who is worthy of exhilaration
+- पन्यंपन्यमित् (*panyaṃpanyamit*)—the most excellent, worthy of praise
+- सोमं (*somaṃ*)—the Soma juice
+- आ धावत (*ā dhāvata*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus who press the Soma juice, offer the highly praiseworthy Soma juice to Indra, who is endowed with valour, mighty, and worthy of exhilaration.
+
+##### English translation
+Hasten, offerers of the libation, (to present) the glorious Soma to the valiant, the hero (Indra), for (his) exhilaration.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first round of the sacrifice called Atirātra, among the śastra mantras recited by the priest called Hotṛ, the three Ṛks beginning with पन्यंपन्यं (*panyaṃpanyaṃ*) (Ṛks 25–27) are to be recited as the stotriya tṛca, since the Sāman singers chant these three Ṛks in the middle of the Ahīna sūkta. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, छंदोगप्रत्ययं स्तोमः स्तोत्रियः (*chaṃdogapratyayaṃ stomaḥ stotriyaḥ*) (Ā. 8-13).
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पाता॑ वृत्र॒हा सु॒तमा घा॑ गम॒न्नारे अ॒स्मत् ।
+
+### Printed p. 362
+
+> नि यमते शतमूतिः ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पाता । वृत्रहा । सुतं । आ । घ । गमत् । न । आरे । अस्मत् ।  
+> नि । यमते । शतंऊतिः ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतमभिषुतुं सोमं पाता पानशीलः ॥ ताच्छीलिकस्तृन् । न लोकाव्ययेति
+> कर्मणि षष्ठ्याः प्रतिषेधः ॥ वृत्रहा वृत्रस्यासुरस्य हंतेंद्र आ गमत् । घेत्यवधारणे । आगच्छत्वेव । अस्मदस्मत्त आरे दूरदेशे मा भवतु । अगत्य च शतमूतिर्बहुविधरक्षण इंद्रो नि यमते । अस्मदीयाञ्छत्तून्नियच्छतु । तिरस्करोतु । यद्वा ।
+> धनान्यस्सभ्यं नियच्छतु । ददातु ॥
+
+##### Gist of the bhāṣya
+
+सुतं (*sutaṃ*) is the pressed Soma; पाता (*pātā*) is "one given to drinking" (affix tṛn, with the rule that the genitive is not used for the object). वृत्रहा (*vṛtrahā*) is Indra, the slayer of the asura Vṛtra; let him come (आ गमत् (*ā gamat*)). घ (*gha*) is for emphasis: let him certainly come. Let him not be far from us. Having come, Indra, शतमूतिः (*śatamūtiḥ*), the protector in many ways, नि यमते (*ni yamate*): let him restrain and subdue our enemies. Or else: let him bestow riches on us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतं (*sutaṃ*)—the pressed, prepared Soma
+- पाता (*pātā*)—the drinker
+- वृत्रहा (*vṛtrahā*)—Indra, the slayer of Vṛtra
+- घ (*gha*)—certainly
+- आ गमत् (*ā gamat*)—let him come here
+- अस्मत् (*asmat*)—from us
+- आरे न (*āre na*)—let him not stay in a distant place
+- शतमूतिः (*śatamūtiḥ*)—Indra, endowed with many kinds of protection
+- नि यमते (*ni yamate*)—let him keep our enemies under control
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the drinker of the pressed Soma and the slayer of Vṛtra, certainly come here. Let him not stay in a place far from us. May Indra, endowed with many kinds of protection, keep our enemies under control.
+
+##### English translation
+May the drinker of the Soma libation, the slayer of Vritra, approach, let him not be far form us ; let the granter of many protections keep in check (our enemies).
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एह हरी॑ ब्रह्म॒युजा॑ श॒ग्मा व॑क्षतः॒ सखा॑यं ।
+
+### Printed p. 363
+
+> गीर्भिः श्रुतं गीर्वणसं ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इह । हरी इति । ब्रह्मयुजा । शग्मा । वक्षतः । सखायं ।  
+> गीःभिः । श्रुतं । गीर्वणसं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मयुजा ब्रह्मणा मंत्रेण स्तोत्रेण हविषा वा युज्यमानौ शग्मा शग्मौ
+> सुखकरौ शक्तौ ना ईदृशौ हरी अश्वाविहास्मिन्यज्ञे सखायं समानख्यानं मित्रभूतमिंद्रमा वक्षतः । आवहतां । कीदृशमिंद्रं । गीर्भिः स्तुतिभिः श्रुतं प्रख्यापितमाहात्म्यं गिर्वणसं गिरां संभक्तारं स्तुतिभिः संभजनीयं वा ॥
+
+##### Gist of the bhāṣya
+
+ब्रह्मयुजा (*brahmayujā*): yoked with brahman, i.e. a mantra, a hymn or an oblation. शग्मा (*śagmā*): the two (steeds) that give happiness, are capable. Let such two steeds (हरी (*harī*)) bring here, to this sacrifice, Indra, the सखायं (*sakhāyaṃ*) (of the same renown, a friend). What kind of Indra? One whose greatness is proclaimed by praises (गीर्भिः (*gīrbhiḥ*)), the गिर्वणसं (*girvaṇasaṃ*), the sharer of (receiver of) hymns, or one to be shared (served) with praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मयुजा (*brahmayujā*)—those that are yoked to the chariot with praise
+- शग्मा (*śagmā*)—and that bring happiness
+- हरी (*harī*)—Indra's two horses
+- गीर्भिः (*gīrbhiḥ*)—by praises
+- श्रुतं (*śrutaṃ*)—the one famously praised
+- गिर्वणसं (*girvaṇasaṃ*)—the one worthy of worship through praises
+- सखायं (*sakhāyaṃ*)—Indra, the friend
+- इह (*iha*)—to this sacrifice
+- आ वक्षतः (*ā vakṣataḥ*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra's horses, which are yoked to the chariot with praise and bring happiness, bring to this sacrifice Indra, who is worthy of worship through praises and is a friend.
+
+##### English translation
+May the delightful steeds who are harnessed by prayer bring hither (our) friend (Indra), magnified by praises, deserving of laudation.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒दवः॒ सोम॒ आ या॑हि श्री॒ताः सोमा॒ आ या॑हि ।  
+> शिप्रि॒न्नृषी॑वः॒ शजी॑वो॒ नायपुच्छा॑ सध॒मादं॑ ॥ २८ ॥
+
+### Printed p. 364
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वादवः । सोमाः । आ । याहि । श्रीताः । सोमाः । आ । याहि ।  
+> शिप्रिन् । ऋषिवः । शचीवः । न । अयं । अच्छ । सध्वमादं ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शिप्रिन् । शिप्रं शिरस्त्राणं । यद्वा । शिप्रे हनू नासिके वा । तद्वन् हे
+> यषीव ऋषिभिः स्तोतृभिर्युक्त शचीवः शक्तिमन् एवंभूत हे इंद्र अस्मदीया
+> इमे सोमाः स्वादवः । अभिषवादिभिः संस्कृतत्वेनास्वादनार्हा जाताः । अतस्त्वमा
+> याहि । आगच्छ । तथा ते सोमाः श्रीताः । पयआदिभिः श्रयणद्रव्यैर्मिश्रिताः
+> संस्कृताः । अतोऽप्या याहि । आगच्छ । नेति संप्रत्यर्थे । न संप्रत्ययं स्तोता सधमादं सह मादयितव्यं त्वामच्छाभिमुखं स्तौतीति शेषः । अतोऽप्यायाहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O शिप्रिन् (*śiprin*): शिप्रं (*śipraṃ*) is a helmet; or else, the jaws or the nose; he who has it. O ऋषीवः (*ṛṣīvaḥ*), accompanied by Ṛṣis, the praisers; O शचीवः (*śacīvaḥ*), powerful: O Indra, these Soma juices of ours are स्वादवः (*svādavaḥ*), having become fit to be tasted through being prepared by pressing and so on; therefore come (आ याहि (*ā yāhi*)). Likewise these Somas are श्रीताः (*śrītāḥ*), mixed and prepared with milk and other mixing substances; therefore also come. न (*na*) is used in the sense of "now" (samprati). The praiser now (praises) you, who are to be gladdened together (सधमादं (*sadhamādaṃ*)), facing you (अच्छ (*accha*)): this is to be supplied. Therefore come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषीवः (*ṛṣīvaḥ*)—O one worshipped by the Ṛṣis
+- शिप्रिन् (*śiprin*)—O one with attractive cheeks
+- शचीवः (*śacīvaḥ*)—O Indra, extremely powerful
+- सोमाः (*somāḥ*)—these Soma juices pressed by us
+- स्वादवः (*svādavaḥ*)—are tasty
+- आ याहि (*ā yāhi*)—come to drink them
+- सोमाः (*somāḥ*)—these same Soma juices
+- श्रीताः (*śrītāḥ*)—are mixed with milk and other mixing substances
+- आ याहि (*ā yāhi*)—therefore come to drink them
+- न (*na*)—now
+- अयं (*ayaṃ*)—this praiser
+- सधमादं (*sadhamādaṃ*)—you, who enjoy delight together with the other gods
+- अच्छ (*accha*)—facing you (he praises)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worshipped by the Ṛṣis, with attractive cheeks, extremely powerful: these Soma juices pressed by us are tasty. Come to drink them. These same Soma juices are mixed with milk and other mixing substances. Therefore come to drink them. Now this praiser, facing you, praises you, who enjoy वर्ष (*varṣa*) together with the other gods.**NOTE**
+
+##### English translation
+Handsome-chinned (Indra), the honoured of sages, the doer of great deeds, come, for well-flavoured are the Soma juices; come, for the libations are ready mixed: this (your worshipper) now (invites you) to be present at this social exhilarating rite.
+
+### Printed p. 365
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तुत॑श्च॒ यास्त्वा॒ वर्धं॑ति म॒हे राध॑से नृ॒ण्णाय॑ ।  
+> इंद्र॑ का॒रिणं॑ पृ॒थंतः॑ ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुतः । च । याः त्वा । वर्धंति । महे । राधसे । नृण्णाय ।  
+> इंद्र । कारिणं । वृधंतः ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र कारिणं कर्मणां कर्तारं वृधंतो वर्धयंतो ये स्तुतः
+> स्तोतारः याश्च तदीयाः स्तुतयस्त्वा त्वां वर्धंति वर्धयंति । किमर्थं । महे
+> महते राधसे धनाय नृण्णाय बलाय च । उभयोर्लाभार्थं । ते तदुभयं
+> लभंत इत्यध्याहारः । यद्वा । उत्तरत्र ते सत्रा दधिरे शवांसीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those praisers who magnify (वृधंतः (*vṛdhaṃtaḥ*)) you, the doer (कारिणं (*kāriṇaṃ*)) of rites, and those praises of theirs which magnify you: for what purpose? For great wealth (राधसे (*rādhase*)) and for strength (नृण्णाय (*nṛṇṇāya*)): for the gaining of both. "They obtain both" is to be supplied. Or else, it is connected with the following ते सत्रा दधिरे शवांसीति (*te satrā dadhire śavāṃsīti*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- महे (*mahe*)—great
+- राधसे (*rādhase*)—for wealth
+- नृण्णाय (*nṛṇṇāya*)—and for strength
+- कारिणं (*kāriṇaṃ*)—you, the doer of rites
+- स्तुतः (*stutaḥ*)—those praisers
+- वृधंतः (*vṛdhaṃtaḥ*)—who are the cause of your growth
+- याः च (*yāḥ ca*)—and which praises of yours
+- त्वा (*tvā*)—you
+- वर्धंति (*vardhaṃti*)—make grow (all of them obtain wealth and strength)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those praisers who, for great wealth and for abundant strength, are the cause of your growth through praiseworthy praises, all of them also obtain wealth and strength.
+
+##### English translation
+They who praising you magnify you, Indra, the institutor of rites, and those (hymns which glorify) you have (for their object) great riches and strength.
+
+### Printed p. 366
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गिर॑श्च॒ यास्ते॑ गिर्वाह उ॒क्षा च॒ तुभ्यं॒ तानि॑ ।  
+> स॒त्रा द॑धि॒रे शवां॑सि ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरः । च । याः । ते । गिर्वाहः । उक्ता । च । तुभ्यं । तानि ।  
+> सत्रा । दधिरे । शवांसि ॥ ३८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वाहो गीर्भिः स्तुतिभिर्वहनीयेंद्र ते तुभ्यं क्रियमाणा गिरश्च
+> स्तुतिरूपाश्च वाचो याः संति । उक्था चोत्कानि च शस्त्ररूपाणि च वचांसि तुभ्यं
+> त्वदर्थं क्रियमाणानि यानि संति । तानि सर्वाणि सत्रा सहैन तवांसि बलानि दधिरे ।
+> तव विदधिरे ॥
+
+##### Gist of the bhāṣya
+
+O गिर्वाहः (*girvāhaḥ*), Indra, to be borne by praises: the words in the form of praises that are made for you, and the उक्था (*ukthā*), the recited words in the form of śastras, that are made for you: all of these together (सत्रा (*satrā*)) hold (दधिरे (*dadhire*)) your powers (शवांसि (*śavāṃsi*)), i.e. they sustain your strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वाहः (*girvāhaḥ*)—O Indra, to be borne by praises
+- ते (*te*)—recited with you as their object
+- गिरश्च (*giraśca*)—the words in the form of praise
+- याः (*yāḥ*)—which there are
+- तुभ्यः (*tubhyaḥ*)—offered to you
+- उक्था च (*ukthā ca*)—whatever praises there are, in recited form and in the form of śastras
+- तानि (*tāni*)—all of them
+- सत्रा (*satrā*)—gathered together
+- शवांसि (*śavāṃsi*)—your powers
+- दधिरे (*dadhire*)—sustain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to be borne by praises: whatever words of praise are recited with you as their object, and whatever praises, in recited form and in the form of śastras, are offered to you, all of them, gathered together, sustain your powers (increase them).
+
+##### English translation
+Upborne by hymns, those your praises and those prayers which are addressed to you, all combined, sustain your energies.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वेदे॒ष तु॑विकू॒र्मिर्वाजा॒ एको॒ वज्र॑हस्तः ।
+
 ---
 
-**Progress note:** Done through printed p. 360. pp. 355-360 (batch API)
+**Progress note:** Done through printed p. 366. pp. 361-366 (batch API)
