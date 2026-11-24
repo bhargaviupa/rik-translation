@@ -6,7 +6,7 @@
 - **Pages read:** 368 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369)
 - **Findings:** 655 — applied 473, questions 182; edits ok 483, failed 0
 - **Reader tokens (batches so far):** 2933k; per page 8.0k
-- **Last commit:** @C@
+- **Last commit:** bf12e26
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -23,7 +23,7 @@
 | 10 | 242–271 | 46 | 32 | 32 / 0 | 14 | 220k | e5f80e2 | 24 S2 number repairs, 5 S7 quotation repairs; no '### Page 259' heading in the English; English p. 256/257 shifted (see open items) |
 | 11 | 272–299 | 52 | 39 | 39 / 0 | 13 | 216k | 0acd82d | 11 S1 + 14 S3 (five running heads Varga [?] → 14) number repairs, 5 S7 quotation repairs; no page shifts |
 | 12 | 310–339 | 35 | 29 | 29 / 0 | 6 | 250k | 06cf9df | 8 S1 + 5 S2 number repairs, 5 S7 quotation repairs, 7 S14 sense; English pp. 315/316 and 324/325 shifted (see open items) |
-| 13 | 340–369 | 38 | 32 | 32 / 0 | 6 | TOK12 | @C@ | 6 S1 + 3 S2 number repairs, 6 S7 quotation repairs, 12 S18 grammar sūtra repairs; no page shifts; English grammar pages omit several numbers the Kannada prints (not added) |
+| 13 | 340–369 | 38 | 32 | 32 / 0 | 6 | TOK12 | bf12e26 | 6 S1 + 3 S2 number repairs, 6 S7 quotation repairs, 12 S18 grammar sūtra repairs; no page shifts; English grammar pages omit several numbers the Kannada prints (not added) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
