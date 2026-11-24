@@ -30253,6 +30253,281 @@ O Agni, come with the agnis fit to be worshipped. For that purpose we choose you
 - आसदे (*āsade*)—to sit
 - आ अनस्तु (*ā anastu*)—may it perform the anointing everywhere
 
+### Printed p. 667
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, come with your other special glories; we choose you, who are of the nature of the hotṛ. May the ghee, offered by the ladle in the adhvaryu's hand and having the nature of an oblation, perform the anointing everywhere, so that you may be seated on the seat of sacred grass.
+
+##### English translation
+Agni, come hither with the fires, we choose you as our invoking priest ; let the presented offering anoint you, the chief sacrificer, to sit down on the sacred grass.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॒ हि त्वा॑ सहसः सूनो अंगिरः॒ स्रुच॒श्चरं॑त्यध्व॒रे ।  
+> ऊ॒र्जो नपा॑तं धृ॒तके॑शमीमहे॒ग्निं य॒ज्ञेषु॑ पू॒र्व्यं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । हि । त्वा । सहसः । सूनो इति । अंगिरः । स्रुचः । चरंति । अध्वरे ।  
+> ऊर्जः । नपातं । घृतकेशं । ईमहे । अग्निं । यज्ञेषु । पूर्व्यं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनो बलस्य पुत्र । बलेन मध्यमानत्वात् । हे अंगिरोऽंगिरसां मध्य एक । अथवांगतिर्गतिकर्मा । सर्वत्र संगत । त्वा त्वामध्वरे यागेऽच्छाभिप्राप्तं स्रुचश्चरंति । गच्छंति । आत ऊर्जोऽन्नस्य नपातं न पातयितारं रक्षकं बलस्य
+> नप्तारं ना धृतकेशं प्रदीप्तकलशस्थानीयज्वालं पूर्व्यं पुरातनं पूरकं वाग्निं
+> यज्ञेष्वस्मदीयेष्टिमहे । सौमि ॥
+
+##### Gist of the bhāṣya
+
+O son of strength, because Agni is produced by churning with strength; O Aṅgiras, the chief one among the Aṅgirases, or else (the root is of the sense of motion) the one who goes everywhere: the ladles move toward you, who have been brought near at the sacrifice. Therefore we pray, at our sacrifices, to Agni, the protector of food (or the one who does not let it fall), or the grandson of strength, who is butter-haired, whose flame is like a kindled vessel, and who is ancient or the fulfiller. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अंगिरः (*aṃgiraḥ*)—chief among the Aṅgirases
+- त्वा (*tvā*)—you
+- अध्वरे (*adhvare*)—in the sacrifice
+- अच्छ (*accha*)—to bring you toward us
+- स्रुचः (*srucaḥ*)—the ladles
+- चरंति हि (*caraṃti hi*)—are striving
+- ऊर्जः (*ūrjaḥ*)—of food
+- नपातं (*napātaṃ*)—the protector
+- घृतकेशं (*ghṛtakeśaṃ*)—who has blazing flames
+- पूर्व्यं (*pūrvyaṃ*)—the ancient
+- अग्निं (*agniṃ*)—Agni
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- ईमहे (*īmahe*)—we praise
+
+### Printed p. 668
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, chief among the Aṅgirases, the ladles are striving to bring you before us in the sacrifice. We praise in the sacrifices Agni, the protector of food, the one with blazing flames, the ancient.
+
+##### English translation
+Angiras, son of strength, the ladles go to find you in the sacrifice ; we praise the ancient Agni in our offerings, the grandson of food, butter-haired.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ क॒विर्वे॒दा अ॑सि॒ होता॑ पावक॒ यक्ष्यः॑ ।  
+> मं॒द्रो यजि॑ष्ठो अध्व॒रेष्वीड्यो॒ विप्रे॑भिः शुक्र॒ मन्म॑भिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । कविः । वेधाः । असि । होता । पावक । यक्ष्यः ।  
+> मंद्रः । यजिष्ठः । अध्वरेषु । ईड्यः । विप्रेभिः । शुक्र । मन्मभिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने कविर्मेधावी त्वं वेधा विधातासि फलानां । हे पावक होता
+> देवानामाह्वाता होमनिष्पादको वा यक्ष्यो यष्टव्योऽसि हे शुक्र दीप्त
+> मंद्रो मोदनीयो यजिष्ठो यष्टृतमस्त्वमध्वरेषु यज्ञेषु विप्रेभिर्म
+> धाविभिर्युत्विग्भिर्मन्मभिर्मननीयैः स्तोत्रैरीड्यः स्तुत्योऽसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are wise, you are the ordainer of the fruits. O purifier, you are the hotṛ, the caller of the gods, or the accomplisher of the oblation, and you are the one to be worshipped. O bright one, you are delightful and the best of worshippers; in the sacrifices you are to be praised by the wise priests with hymns worthy of meditation. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- कविः (*kaviḥ*)—you who are wise
+- वेधाः (*vedhāḥ*)—as the creator
+- असि (*asi*)—you are
+- पावक (*pāvaka*)—O Agni, the purifier
+- होता (*hotā*)—the caller of the gods to the sacrifice
+- यक्ष्यः (*yakṣyaḥ*)—and the most worshipful, you are
+- शुक्र (*śukra*)—O Agni, the radiant
+- मंद्रः (*maṃdraḥ*)—the delightful
+- यजिष्ठः (*yajiṣṭhaḥ*)—the most worshipful, you
+- विप्रेभिः (*viprebhiḥ*)—by the wise priests
+- मन्मभिः (*manmabhiḥ*)—by means of hymns of meditation
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- ईड्यः (*īḍyaḥ*)—you are praised
+
+### Printed p. 669
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are wise are the creator. O purifier, you are the caller of the gods to the sacrifice and the most worshipful. O radiant Agni, you who are delightful and most worshipful are praised in the sacrifices by the wise priests by means of hymns of meditation.
+
+##### English translation
+Agni, you, wise, are the creator (of consequences) ; O purifier, you are the invoking priest, worthy of worship ; bright one, you are to be praised in our sacrifices by the priests with hymns, yourself the chief ministrant worthy to be rejoiced in.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद्रो॑घ॒मा व॑होश॒तो य॑विष्ठ्य दे॒वा अ॑जस्र वी॒तये॑ ।  
+> अ॒भि प्रयां॑सि॒ सुधि॒ता व॑सो गहि॒ मंद॑स्व धी॒तिभि॑र्हि॒तः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्रोघं । आ । वह । उशतः । यविष्य । देवान् । अजस्र । वीतये ।  
+> आभि । प्रयांसि । सुधिता । वसो इति । गहि । मंदस्व । धीतिभिः । हितः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्रोघमद्रोग्द्धारं मां प्रति हे यविष्ठ्य युवतमाजस्र नित्य आ वह ।
+> आनय । कान् । उशतोऽस्मदर्थं कामयमानान्देवान् । किमर्थं । वीतयेहविर्भक्षणाय । हे वसो वासकाग्ने सुधिता सुनिहितानि प्रयांस्यन्नान्यभि गहि ।
+> अभिगच्छ । अगत्य च धीतिभिः स्तुतिभिर्हितो निहितः सन्मंदस्व । यद्वा । धीतिभिर्मंदस्पेति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O ever-youthful, constant Agni, bring to me, who do not injure, the gods who desire (the oblation) on our behalf, so that they may eat the oblation. O Vasu, dweller-giving Agni, go to the well-placed foods; having come, and being set in place with praises, rejoice. Or else the construction is: rejoice with the praises. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ्य (*yaviṣṭhya*)—O Agni, the most youthful
+- अजस्र (*ajasra*)—the eternal
+- उशतः (*uśataḥ*)—who desire the oblation
+- देवान् (*devān*)—the gods
+- वीतये (*vītaye*)—to eat the oblation
+- अद्रोघं (*adroghaṃ*)—to me, who am without blemish
+- आ वह (*ā vaha*)—bring
+- वसो (*vaso*)—O Agni, giver of dwelling
+
+### Printed p. 670
+
+- सुधिता (*sudhitā*)—well offered
+- प्रयांसि अभि (*prayāṃsi abhi*)—toward the foods
+- आ गहि (*ā gahi*)—be pleased to come
+- हितः (*hitaḥ*)—you who are well established
+- धीतिभिः (*dhītibhiḥ*)—with praises
+- मंदस्व (*maṃdasva*)—rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, most youthful and eternal, bring the gods who desire the oblation to me, who am without blemish, to eat the oblation. O Agni, giver of dwelling, be pleased to come toward the well-offered foods. You who are well established, rejoice with the praises.
+
+##### English translation
+Most youthful, eternal one, bring the longing gods to me guileless, to eat (the oblation) ; giver of dwellings, approach the well-placed food ; rejoice, being set in your place with praises.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमित्स॒प्रथा॑ अ॒स्यग्ने॑ त्रातर्ऋ॒तस्क॒विः ।  
+> त्वां विप्रा॑सः समिधान दीदिव॒ आ वि॑वासंति वे॒धसः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । इत् । सप्रथाः । असि । आग्ने । त्रातः । ऋतः । कविः ।  
+> त्वां । विप्रासः । संइधान । दीदिवः । आ । विवासंति । वेधसः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने त्राता रक्षक ऋतः सत्यभूतः कविः क्रांतप्रज्ञस्त्वमित्त्वमेव सप्रथाः
+> सर्वतः पृथुरसि । भवसि । हे समिधान समिध्यमान हे दीदिवो दीप्त त्वां विप्रासो
+> विप्रा मेधाविनो वेधसो विधातारः स्तोतारो विवासंति । परिचरंति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protector, truthful, wise: you alone are widely extended on every side. O kindled and shining one, the wise, the ordainers, that is, the praisers, serve you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्रातः (*trātaḥ*)—the protector
+- यतः (*yataḥ*)—the one who is truthful **NOTE**
+- कविः (*kaviḥ*)—the one of surpassing wisdom
+- त्वं इत् (*tvaṃ it*)—you alone
+- सप्रथः (*saprathaḥ*)—extended everywhere
+- आसि (*āsi*)—you pervade
+- समिधान (*samidhāna*)—O well-kindled
+- दीदिवः (*dīdivaḥ*)—O radiant Agni
+- त्वां (*tvāṃ*)—you
+- विप्रासः (*viprāsaḥ*)—the wise
+- वेधसः (*vedhasaḥ*)—the praisers
+- आ विवासंति (*ā vivāsaṃti*)—serve everywhere
+
+### Printed p. 671
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are the protector, the truthful and the one of surpassing wisdom, are extended and pervade everywhere. O well-kindled and radiant Agni, the wise and the praisers serve you everywhere.
+
+##### English translation
+Deliverer Agni, you, the truthful and the seer, are widely spread ; O kindled blazing one, the wise praisers wait on you.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शोचा॑ शोचिष्ठ दीदि॒हि वि॒शे मयो॒ रास्व॑ स्तो॒त्रे म॒हा  ॑
+> असि ।  
+> दे॒वानां॒ शर्म॒न्मनु॑ संतु सू॒रयः॑ शत्रू॒षाहः॑ स्व॒ग्नयः॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शोचॆ । शोचिष्ठ । दीदिहि । विशे । मयः । रास्वः । स्तोत्रे । महान् । असि ।  
+> देवानां । शर्मन् । मम । संतु । सूरयः । शत्रुसहः । सुअग्नयः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शोचिष्ठातिशयेन शोचयितरग्ने शोच । दीप्यस्व । दीदिहि । दीपयास्मान् । विशे प्रजायै स्तोत्रे मयः सुखं रास्व । देहि । त्वं महानसि । देवानां
+> संबंधिनि शर्मञ्छर्मणि सुखे मम सूरयः स्तोतारो मेधाविनोऽस्माकंपुत्रादयो वा संतु । भवंतु । शत्रुषाहः शत्रुणामभिभवितारः स्वग्नयः शोभनाग्नयश्च संतु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, most radiant, who cause to shine to the utmost: shine, and make us shine. Give happiness to the people and to the praiser; you are great. May my praisers, the wise ones, or my sons and the rest, be in the happiness that belongs to the gods; may they be overcomers of enemies and possessors of good fires. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शोचिष्ठ (*śociṣṭha*)—O Agni, most radiant
+- शोच (*śoca*)—shine further
+- दीदिहि (*dīdihi*)—make us shine too
+- विशे (*viśe*)—to your people
+- स्तोत्रे (*stotre*)—to the praiser
+- मयः (*mayaḥ*)—happiness
+- रास्व (*rāsva*)—give
+- महान् आसि (*mahān āsi*)—you are great
+- मम (*mama*)—belonging to me
+
+### Printed p. 672
+
+- सूरयः (*sūrayaḥ*)—the praisers (my sons and the rest)
+- देवानां (*devānāṃ*)—given by the gods
+- शर्मन् (*śarman*)—in the happiness
+- संतु (*saṃtu*)—may they be
+- शत्रुषाहः (*śatruṣāhaḥ*)—overcomers of enemies
+- स्वग्नयः (*svagnayaḥ*)—and good worshippers of fire, may they be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, most radiant, shine still more brightly. Make us shine too. Give happiness to the praisers, who are your people. You are great. May my sons and the rest, your praisers, enjoy the happiness given by the gods. May they be overcomers of their enemies and good worshippers of fire.
+
+##### English translation
+Most resplendent (Agni), shine forth and illuminate (us); give happiness to your people, to your worshipper, for you are great ; may my priests abide in the bliss of the gods, subduing their enemies, possessing bright fires.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ चिद्वृ॒द्धम॑त॒समग्ने॑ सं॒जूर्व॑सि॒ क्षमि॑ ।  
+> ए॒वा द॑ह मित्रमहो॒ यो अ॑स्म॒ध्रुग्दु॒र्मन्मा॒ कश्च॒ वेन॑ति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । चित् । वृद्धं । अतसं । अग्ने । संजूर्वसि । क्षमि ।  
+> एव । दह । मित्रमहः । यः । अस्मध्रुक् । दुःमन्मा । कः । च । वेनति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने क्षमि क्षमायां वर्तमानं वृद्धमतसं शुष्कं काष्ठं यथा येन
+> प्रकारेण संजूर्वसि । जर्वतिर्हिंसाकर्मा । सम्यग्दहसीत्यर्थः । एवैवं दह हे
+> मित्रमहो मित्राणामस्माकं पूजक तेजो ना । कं । योऽस्मध्रुगस्माकं द्रोग्धा
+> कश्च कश्चिद्दुर्मन्मा दुर्मतिर्वेनति कामयतेऽस्मान्द्रोग्धुं तं दहेति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, just as you burn thoroughly dry wood lying on the earth (the root is of the sense of injury, and the meaning is that you burn it well), so burn, O Mitramahas, whoever among those hostile to us, an evil-minded one, desires to harm us; burn him. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 666. Mandala 8, sukta 59 Rks 4-7, sukta 60 Rk 1
+**Progress note:** Done through printed p. 672. Mandala 8 Sukta 60 rks 1-7 (pp. 667-672)
