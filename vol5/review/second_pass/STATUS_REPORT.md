@@ -9,4 +9,5 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 1 | 185–199 | 20 | 16 | 4 questions (one set from applied by me: L3657 'your sacrifices', a misprinted Kannada word); agent tokens 197k | see git log |
 | 2 | 200–214 | 16 | 15 | 1 question (p. 206 stopāsakānām); agent tokens: see notification | see git log |
 | 3 | 215–229 | 29 | 23 | 8 questions (6 R1, 1 R3, 1 R6) | see git log |
-| 4 | 230–244 | 16 | 14 | 2 questions. **Correction of the S0 note:** the pages without a head of their own (e.g. 232, 233) are empty in the Kannada book but their text stands inside the previous page's block (p. 231 holds ~2 pages); the reader of batch 4 did not know this, so pp. 232–233 are re-read as batch 4b | see git log |
+| 4 | 230–244 | 16 | 14 | 2 questions. pp. 232–233 are **absent from the supplied text** (the S0 note that such text stands in the neighbour page was wrong for them; batch 4b, a re-read on that assumption, found nothing to read). Their English comes from the older scan, per its own note: **unchecked, needs the user's text or scan** | see git log |
+| 4b | 232–233 | 0 | 0 | not readable: no supplied text | see git log |

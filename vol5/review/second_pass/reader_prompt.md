@@ -4,7 +4,7 @@ You read printed pages A–B of Vol 5 (Kannada → English Rigveda translation, 
 
 Your sheet: the path given in your task (made by tools/rv/second_pass_page.py: supplied Kannada of pp. A-1…B+1, then the English segments with English-file line numbers; sieve hints of numbers on each segment line). Pages A-1 and B+1 are context only. The Saṃhitā, Pada and Sāyaṇa-bhāṣya blocks are not to be read ("[block not read]"). Pages from 531 on are continuous prose (no Ṛks).
 
-Pages the sheet shows as "(not in the supplied text: stands in the neighbour page)" are pages without a running head: their text is NOT missing, it stands inside the previous page's block (that block is then about twice as long). Read it there.
+Pages the sheet shows as "(not in the supplied text …)" have no text in the supplied files (some are pages without a running head whose text may stand inside the neighbour page, some are really missing: pp. 232–233 are missing and the English there came from an older scan). Do not read them; say which pages of your range could not be checked.
 
 Read the supplied Kannada against the English once, page by page, looking for, in this order:
 R1: a number or reference missing, changed or supplied from memory; a name or term wrong; roles reversed; an addition the Kannada does not have; an omission inside a paragraph; a misprint silently put right.
