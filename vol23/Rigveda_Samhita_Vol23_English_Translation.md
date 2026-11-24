@@ -18656,6 +18656,274 @@ O leaders, Aśvins: Bhujyu, the son of Tugra, thrown into the ocean by the Asura
 
 O Aśvin deities, leaders, when Bhujyu, son of Tugra, thrown into the ocean by the Asuras, served you both, then your chariot, yoked with horses, came down to protect that Bhujyu.
 
+### Printed p. 463
+
+##### English translation
+When the son of Tugra, thrown into the ocean glorified you, leaders, (of rites), then your chariot and horses descended.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं कण्वा॑य नासत्या॒पि॑रिप्ताय ह॒र्म्ये ।  
+> शश्व॑दू॒तीर्द॑शस्यथः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । कण्वाय । नासत्या । अपिरिप्ताय । हर्म्ये ।  
+> शश्वत् । ऊतीः । दशस्यथः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या । सत्सु साधू सत्यौ । न सत्यावसत्यौ । न असत्यौ नासत्यौ ॥ नभ्राण्नपादिति नञः प्रकृतिभावः ॥ यद्वा । सत्यस्य नेतारौ नासिकाप्रभवौ वा । उक्तं च
+> भगवता यास्केन। सत्यावेव नासत्यावित्यार्णवाभः । सत्यस्य प्रणीतारावित्याग्रायणः।
+> नासिकाप्रभवौ बभूवतुरिति वा । नि. ६-१३ । इति । तौ युवां कण्णाय्तत्संज्ञायर्षये हर्म्ये हर्म्यतलेपिरिप्तायासुरैर्बाधिताय शश्वच्छश्वतीर्बहीरूती रक्षा
+> दशस्यथः । दत्तवंतौ । युवं कण्णायापिरिप्ताय चक्षुः प्रत्यधत्तं । ऋ. १-१०८-७ ।
+> इत्यत्रेतिहास उक्तः । सोऽत्र द्रष्टव्यः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Nāsatyas and explains the name. It means "good among the good ones", that is, true, and "not untrue". In नासत्यौ (*nāsatyau*) the negative keeps its original form. Alternatively, they are the leaders of truth, or they were born from the nose. He cites Yāska: the Ārṇavābhas say that the Nāsatyas are simply true ones, the Āgrāyaṇa says they are the leaders of truth, or else they came into being from the nose (Ni. 6-13). The two are said to have given to the seer named Kaṇva, at his dwelling, many protections: Kaṇva was harassed by the Asuras. He refers to the story told at Ṛ. Saṃ. 1-108-7, युवं कण्णायापिरिप्ताय चक्षुः प्रत्यधत्तं (*yuvaṃ kaṇṇāyāpiriptāya cakṣuḥ pratyadhattaṃ*), and says that this story is to be seen here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvins
+- युवं (*yuvaṃ*)—you
+- हर्म्ये (*harmye*)—in his house
+- अपिरिप्ताय (*apiriptāya*)—who was harmed by the Asuras
+- कण्णाय (*kaṇṇāya*)—to the seer Kaṇva
+- शश्वत् (*śaśvat*)—many
+- ऊती (*ūtī*)—protections
+- दशस्यथः (*daśasyathaḥ*)—you have given
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, when the Asuras tore out Kaṇva's eyes and harmed him as a guest in his own house, you gave that Kaṇva protections of many kinds.
+
+### Printed p. 464
+
+##### English translation
+To Kanwa when blinded (by the Asuras) in his dwelling, you rendered, Nasatyas, effectual aid.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताभि॒रा या॑तमू॒तिभि॒र्नव्य॑सीभी सुश॒स्तिभिः॑ ।  
+> यद्वां॑ वृषण्वसू हु॒वे ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताभिः । आ । यातं । ऊतिभिः । नव्यसीभि । सुशस्तिभिः ।  
+> यत् । वां । वृषण्वसू इति वृषण्वसू । हुवे ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषण्वसू वर्षणधनौ ॥ वृषण्वस्वक्षयोरुपसंख्यानं । पा. १-४-१८-४ ।
+> इति वृषण्भावो निपात्यते ॥ तादानीं ताभिः पूर्वोक्ताभिर्नव्यसीभिर्नवतराभिः सुशस्तिभिः सुप्रशस्याभिरूतिभी रक्षाभिः सार्धमा यातं । आगच्छतं । यद्यदा वां हुवे
+> स्तुतिभिराह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+Addressing the Aśvins as वृषण्वसू (*vṛṣaṇvasū*), bestowers of wealth like rain, Sāyaṇa says: come then together with those protections spoken of before, which are newer and highly praiseworthy, when I call you with praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्वसू (*vṛṣaṇvasū*)—O Aśvins, who provide the wealth that is desired
+- ताभिः (*tābhiḥ*)—with those, described and famous from of old
+- नव्यसीभिः (*navyasībhiḥ*)—new
+- सुशस्तिभिः (*suśastibhiḥ*)—praiseworthy
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- यत् (*yat*)—when
+- वां (*vāṃ*)—you
+- हुवे (*huve*)—I call with praise (then)
+- आ यातं (*ā yātaṃ*)—be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, who provide the wealth that is desired, be gracious at every time that I praise and call you, with protections that have been described and famed from of old, and are new and praiseworthy.
+
+### Printed p. 465
+
+##### English translation
+Rich in showers, come with your newest and most excellent protections when I call upon you.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ चि॒त्कण्व॒माव॑तं प्रि॒यमे॑धमुपस्तु॒तं ।  
+> अत्रिं॑ शिं॒जार॑मश्विना ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । चित् । कण्व । आवतं । प्रियमेधं । उपस्तुतं ।  
+> अत्रिं । शिंजारं । अश्विना ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् यथा चिद्येन खलु प्रकारेण कण्वमेतत्संज्ञमृषिमावतं
+> अरक्षतं प्रियमेधं प्रिययज्ञमेतत्संज्ञं चोपस्तुतमेतदाख्यं च शिंजारं
+> शब्दयंतं स्तुवंतमत्रिमेतान्यषींश्च येन प्रकारेणारक्षतं तथास्मानपि रक्षतमिति
+> शेषः । यद्वा । एतावद्वां वृषण्वसू इत्यनय्यैकवाक्यता ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, just as you protected the seer Kaṇva, Priyamedha, Upastuta, and Atri who sounds forth, that is, praises, so protect us also; this is the understood completion of the sentence. Or else, the verse forms a single sentence with एतावद्वां वृषण्वसू (*etāvadvāṃ vṛṣaṇvasū*) (Ṛk 27).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- यथा चित् (*yathā cit*)—in what manner
+- कण्वं (*kaṇvaṃ*)—the seer Kaṇva
+- प्रियमेधं (*priyamedhaṃ*)—the seer named Priyamedha
+- उपस्तुतं (*upastutaṃ*)—Upastuta
+- शिंजारं (*śiṃjāraṃ*)—who makes the sound of praise
+- अत्रिं (*atriṃ*)—the seer Atri
+- आवतं (*āvataṃ*)—you protected (protect us also in the same way)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, with whatever protections of yours you protected the seer Kaṇva, the seer named Priyamedha, Upastuta, and the seer Atri who recites praise, protect us also in the same way.
+
+##### English translation
+In like manner, as you protected Kanwa, Priyamedha, Upastuta, and the praise-repeating Atri.
+
+### Printed p. 466
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथोत कृत्वे धनेंशुं गोष्टगस्यं ।  
+> यथा॒ वाजे॑षु॒ सोभ॑रिं ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । उत । कृत्वे । धने । अंशुं । गोषु । अगस्त्यं ।  
+> यथा । वाजेषु । सोभरिं ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च यथा येन प्रकारेण धने कृत्वे कर्तव्ये प्राप्तव्ये सत्यंशुमेतत्संज्ञं स्तोतारमावतं अरक्षतं ' गोषु च लब्धव्यासु यथागस्त्यमृषिमरक्षतं ।
+> वाजेष्वन्नेषु लब्धव्येषु यथा येन प्रकारेण सोभरिमेतत्संज्ञमृषिं चारक्षतं ।
+> अत्रापि पूर्ववद्वाक्यशेष उत्तरयैकवाक्यता वा ॥
+
+##### Gist of the bhāṣya
+
+And in the way in which, when wealth was to be won, you protected the praiser named Aṃśu; when cattle were to be obtained, the seer Agastya; and when food was to be obtained, the seer named Sobhari. Here too, as before, the rest of the sentence is to be supplied, or the verse is one sentence with the following one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and (O Aśvins)
+- यथा (*yathā*)—in what manner
+- धने (*dhane*)—wealth
+- कृत्वे (*kṛtve*)—on an occasion when it was to be obtained
+- अंशुं (*aṃśuṃ*)—you protected the praiser called Aṃśu
+- गोषु (*goṣu*)—on an occasion when cattle were to return
+- यथा (*yathā*)—in what manner
+- अगस्त्यं (*agastyaṃ*)—you protected Agastya
+- वाजेषु (*vājeṣu*)—at a time when food was to be obtained
+- सौभरिं (*saubhariṃ*)—the seer called Saubhari, in whatever way you protected him (give that protection to us also)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, give us also the same protection in the same manner: as you protected the praiser Aṃśu when wealth was to be obtained, Agastya when cattle were to return, and the seer Saubhari when food was to be obtained.
+
+##### English translation
+And in like manner as (you protected) Anshu when wealth was to be bestowed, and Agastya when his cattle (were to be recovered), and Sobhari when food (was to be supplied to him).
+
+### Printed p. 467
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ताव॑द्वां वषण्वसू॒ अतो॑ वा॒ भूयो॑ अश्विना ।  
+> गृ॒णंतः॑ सु॒म्ममी॑महे ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतावत् । वां । वृषण्वसू इति वृषण्वसू । अतः । वा । भूयः । अश्विना।  
+> गृणंतः । सुम्मं । ईमहे ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषण्वसू वर्षणधनावश्विनाश्विन् गृणंतः स्तुवंतो वयमेतावत् यथा
+> चित् कण्वमित्यादिना यावदनुक्रांतमेतत्परिमाणं सुम्मं सुखमतो वास्माद्वा
+> भूयो बहुतरमधिकं सुम्मं वा युवामीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, bestowers of wealth like rain, we who praise you ask of you happiness of this measure, namely as much as has been enumerated beginning with *yathā cit kaṇvaṃ*, or even more, greater happiness than that.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्वसू (*vṛṣaṇvasū*)—who give the wealth that is desired
+- अश्विना (*aśvinā*)—O Aśvins
+- गृणंतः (*gṛṇaṃtaḥ*)—we who praise you in this manner
+- एतावत् (*etāvat*)—such as was given to the earlier seers
+- सुम्मं (*summaṃ*)—happiness
+- अतो वा (*ato vā*)—or than that
+- भूयः (*bhūyaḥ*)—greater happiness
+- वां (*vāṃ*)—from you
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, who give the wealth that is desired, we who praise you in this manner ask of you the happiness that you granted to the earlier seers, or even greater happiness than that.
+
+##### English translation
+So praising you, Aswins, rich in showers, we solicit of you happiness as great or greater than that (which they obtained).
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथं॒ हिर॑ण्यवंधुरं॒ हिर॑ण्याभीशुमश्विना ।
+
+### Printed p. 468
+
+> आ हि स्थाधो दिविस्पृशं ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथं । हिरण्यवंधुरं । हिरण्यअभीशुं । अश्विना ।  
+> आ । हि । स्थाथः । दिविस्पृशं ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् हिरण्यवंधुरं । सारथिस्थानं वंधुरं । हिरण्मयसारथिस्थानं
+> हिरण्याभीशुं हिरण्मयप्रग्रहं दिविस्पृशमत्युन्नतत्वाद्दिवं स्पृशंतं ॥ स्पृशेः क्विन् ।
+> दिव्‌शब्दाद्वितीयार्थे सप्तमी । हृद्दुभ्यां जतीरुपसंख्यानमित्यलुक् ॥ ईदृशं
+> रथमा हि स्थाथः । युवामातिष्ठथ एव । हिरवधारणे । अस्मदीयां स्तुतिं श्रोतुं
+> शीघ्रं रथमास्थायागतमिति भावः ॥ ष्ठा गतिनिवृत्तौ । लटि छांदसः शपो लुक् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you ascend a chariot with a golden driver's seat (वंधुरं (*vaṃdhuraṃ*) is the driver's place), golden reins, and so lofty that it touches the sky. दिविस्पृशं (*divispṛśaṃ*) is explained as a form in which the locative of दिव् (*div*) stands in the sense of the accusative. The word हि (*hi*) expresses emphasis: you do indeed ascend. The sense is that you come quickly, having mounted the chariot, to hear our praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- हिरण्यवंधुरं (*hiraṇyavaṃdhuraṃ*)—having a seat made of gold
+- हिरण्याभीशुं (*hiraṇyābhīśuṃ*)—having golden reins (bridle)
+- दिविस्पृशं (*divispṛśaṃ*)—touching the sky (able to travel in the sky)
+- रथं (*rathaṃ*)—the chariot
+- आ हि स्थाधः (*ā hi sthādhaḥ*)—mount and be seated
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, mount and be seated on the chariot that has a seat made of gold, golden bridles, and the power to travel in the sky.
+
+##### English translation
+Ascend, Aswins, your sky-touching chariot with a golden seat and golden reins.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒र॒ण्ययी॑ वां॒ रभि॑री॒षा अक्षो॑ हिर॒ण्ययः॑ ।  
+> उ॒भा च॒क्रा हि॑र॒ण्यया॑ ॥ २९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 462. pp. 457-462 (batch API)
+**Progress note:** Done through printed p. 468. pp. 463-468 (batch API)
