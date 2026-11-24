@@ -903,6 +903,304 @@ O Indra and Varuṇa, whose strength (ओजः (*ojaḥ*)) draws in (*karṣaka
 
 O Indra and Varuṇa, who have the power to seize and drag in the enemies: you two whom the former singers, and likewise the present singers, invoke in battle, and also invoke for the protection of their sons, grandsons and the like: such as you are, be in every battle fighters standing in front of us.
 
+### Printed p. 24
+
+##### English translation
+Indra and Varuna, of irresistible strength, be our preceders in every encounter, for both (past and present) worshippers invoke you to defend them in war, or for the acquirement of sons and grandsons.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे इंद्रो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा द्यु॒न्नुं य॑च्छंतु॒ ॒ ॒॑॑
+> महि॒ शर्म॑ स॒प्रथः॑ ।  
+> अ॒व॒ध्रं ज्योति॒रदि॑तेर्ऋता॒वृधो॑ दे॒वस्य॒ शोकं॑ सवि॒तुर्म॑नामहे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । इंद्रः । वरुणः । मित्रः । अर्यमा । द्युम्नं । यच्छंतु । महि ।  
+> शर्म । सप्रथः ।  
+> अवध्रं । ज्योतिः । अदितेः । ऋतवृधः । देवस्य । श्लोकं । सवितुः । मनामहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मे अस्मभ्यमिंद्रादयो द्युम्नं द्योतमानं धनं यच्छंतु । प्रयच्छंतु।
+> तथा महि महत्सप्रथः सर्वतः पृथु विस्तीर्णं शर्म गृहं च प्रयच्छंतु । अपि
+> चर्तावृध ऋतस्य यज्ञस्य वर्धयित्र्या अदितेरदीनाया देवमातुर्ज्योतिस्तेजश्च
+> नोऽस्माकमवध्रमहिंसकमस्तु । वयं च देवस्यदानादिगुणयुक्तस्य सवितुः सर्वस्य
+> प्रेरकस्य श्लोकं स्तोत्रं मनामहे । जानीमः । कुर्म इत्यर्थः । यद्वा। देवेन
+> सवित्रास्मभ्यं देयं श्लोकं यशो मनामहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+May Indra and the other deities grant us shining wealth, and also a great, widely extended house. May the radiance of Aditi, the mother of the gods, who makes the sacrifice (ṛta) grow, be unharmed for us, that is, harmless. We on our part मनामहे (*manāmahe*) the praise of the god Savitṛ, who is endowed with qualities such as generosity and is the impeller of all. The word means "we know", that is, "we make". Alternatively: we ask for the fame (श्लोकं (*ślokaṃ*) = glory) that the god Savitṛ is to give us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- अस्मे (*asme*)—to us
+- द्युम्नं (*dyumnaṃ*)—wealth
+- यच्छंतु (*yacchaṃtu*)—may they give
+- महि (*mahi*)—great
+- सप्रथः (*saprathaḥ*)—very extensive
+
+### Printed p. 25
+- शर्म (*śarma*)—a house, may they give
+- ऋता वृधः (*ṛtā vṛdhaḥ*)—of Aditi, who makes the sacrifice grow
+- अदितेः (*aditeḥ*)—of Aditi
+- ज्योतिः (*jyotiḥ*)—the radiance
+- अवध्रं (*avadhraṃ*)—may it be unharmed for us
+- देवस्य (*devasya*)—of the one whose self is divine
+- सवितुः (*savituḥ*)—of Savitṛ
+- श्लोकु (*śloku*)—the praise
+- मनामहे (*manāmahe*)—we meditate on and compose
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, Varuṇa, Mitra and Aryaman give us wealth. May they also give a great and very extensive house. May the radiance of Aditi, who makes the sacrifice grow, be unharmed for us. We meditate on and compose the praise of Savitṛ, whose self is divine, and we recite it.
+
+##### English translation
+May Indra, Varuna, Mitra, and Aryaman grant us wealth and a large and spacious habitation; may the lustre of Aditi, the augmentress of sacrifice, be innocuous to us: we recite the praise of the divine Savitri.
+
+## Sūkta 83 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युवां नरेति दशर्चं त्रयोदशं सूक्तं वसिष्ठस्यार्षं जागतमैंद्रावरुणं । युवां नरेत्यनुक्रांतं ॥ अभिप्लविकेषूक्ष्येषु स्तोमवृद्धौ प्रशास्तुरिदं
+> सूक्तमावापार्थं । सूत्रितं च । युवां नरा पुनीषे वां । आ. ७.९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning युवां नरा (*yuvāṃ narā*) has ten ṛks and is the thirteenth sūkta of the anuvāka. Its seer is Vasiṣṭha, its deity Indra and Varuṇa, its metre Jagatī; the Anukramaṇī says युवां नरेति (*yuvāṃ nareti*). In the Abhiplava-related Ukthya rites, when the stoma is to be increased, the priest called Praśāstṛ recites this sūkta, and the Sūtra (Āśvalāyana) prescribes it: युवां नरा पुनीषे वां (*yuvāṃ narā punīṣe vāṃ*) (Ā. 7-9).
+
+##### Anuvāda
+
+This sūkta, "Yuvaṃ narā", is the thirteenth sūkta in the fifth anuvāka. It has ten ṛks. Vasiṣṭha is the seer of this sūkta; Indra and Varuṇa are the deity; the metre is Jagatī. In the Anukramaṇī it is said: "Yuvaṃ narā". The Aśvalāyana Śrauta Sūtra, in the sūtra "Yuvaṃ narā punīṣe vāṃ" (Ā. 7-9), explains that the priest called Praśāstṛ must recite this sūkta for the increase of the stoma in the Ukthya sacrifice connected with the Abhiplava.
+
+Sūkta—83
+Maṇḍala—7; Anuvāka—5; Sūkta—83
+Aṣṭaka—5; Adhyāya—6; Varga—4, 5
+Number of ṛks in the sūkta—10
+Ṛṣi—Vasiṣṭha
+Devatā—Indra and Varuṇa
+Chandas—Jagatī
+
+### Printed p. 26
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां न॑रा॒ पश्य॑मानास॒ आप्यं॑ प्रा॒चा ग॒व्यंतः॑ सृथु॒पर्श॑वो ययुः ।  
+> दासा॑ च वृ॒त्रा ह॒तमार्या॑णि च सु॒दास॑मिंद्रावरु॒णाव॑सावतं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । नरा । पश्यमानासः । आप्यं । प्राचा । गव्यंतः । पृथुपर्शवः । ययुः ।  
+> दासा ! च । वृत्रा । हतं । आर्याणि । च । सुदासं । इंद्रावरुणा । अवसा ।  
+> अवतं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेताराविंद्रावरुणौ युवां । षष्ठ्यर्थे द्वितीया । युवयोराप्यं बंधुभावं पश्यमानासः पश्यंतो युष्मद्वांधवलाभार्थिनो गव्यंतो गा
+> आत्मन इच्छंतो यजमानाः पृथुपर्शनः । पृथुर्विस्तीर्णः पर्शुः पार्श्वास्थि
+> येषां ते तथोक्ताः । विस्तीर्णाश्वपर्शुहस्ताः संतः प्राचा प्राचीनं ययुः ।
+> बर्हिराहरणार्थं गच्छंति । पर्श्वा हि बर्हिराच्छिद्यते । तथा च तैत्तिरीयकं । अश्वपर्श्वा बर्हिराच्छ्यतीति । हे इंद्रावरुणौ युवां दासा दासान्युपक्षपयित्रिणि च
+> वृत्राण्यावरकाणि शत्रुजातान्यार्याणि च कर्मानुष्ठानपराणि च शत्रुजातानि हतं ।
+> हिंस्तं । अपि च सुदासमस्मद्याज्यमेतत्संज्ञं राजानमवसा रक्षणेन सार्धमवतं ।
+> आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O leaders Indra and Varuṇa, युवां (*yuvāṃ*) stands in the accusative for the genitive sense, "of you". The sacrificers, seeing (पश्यमानासः (*paśyamānāsaḥ*)) your kinship, desiring your friendship and wishing cattle for themselves, are पृथुपर्शवः (*pṛthuparśavaḥ*): पृथु (*pṛthu*) is broad, पर्शुः (*parśuḥ*) is a rib-bone (a hatchet-like tool); they have broad horse-rib hatchets in hand, and go प्राचा (*prācā*), to the east, to fetch the sacrificial grass, since the grass is cut with a hatchet. So the Taittirīya: अश्वपर्श्वा बर्हिराच्छ्यतीति (*aśvaparśvā barhirācchyatīti*). O Indra and Varuṇa, kill the enemy hosts, both of the Dāsas, who destroy the people, and of the Āryas who are intent on performing rites, which are the obstructing (वृत्रा (*vṛtrā*)) enemy groups. Come also with protection to Sudāsa, the king, my patron of that name.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Indra and Varuṇa, leaders
+- युवां (*yuvāṃ*)—your
+- आप्यं (*āpyaṃ*)—kinship
+- पश्यमानासः (*paśyamānāsaḥ*)—having looked to
+- गव्यंतः (*gavyaṃtaḥ*)—the sacrificers who desire cattle
+- पृथुपर्शवः (*pṛthuparśavaḥ*)—holding big hatchets
+- प्राचा (*prācā*)—in the eastern direction
+- ययुः (*yayuḥ*)—have set out
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- दासा च आर्याणि च वृत्रा (*dāsā ca āryāṇi ca vṛtrā*)—the enemies belonging to the group of Dāsas and the enemies belonging to the group of Ātmas
+- हतं (*hataṃ*)—destroy
+- सुदासु (*sudāsu*)—to the king named Sudāsa
+- अवसा (*avasā*)—together with protection
+- अवतं (*avataṃ*)—come
+
+### Printed p. 27
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, leaders, the sacrificers, who look for your kinship and help and desire cattle, have set out to the east with big hatchets to cut the darbha grass. O Indra and Varuṇa, destroy the enemies belonging to the group of Dāsas and those belonging to the group of Āryas. Come with your protection to the king named Sudāsa.
+
+##### English translation
+Indra and Varuna, leaders (of rites), contemplating your affinity, and desirous of cattle, the worshippers, armed with large sickles, have proceeded to the east (to cut the sacred grass): destroy, Indra and Varuna your enemies, whether Dasas or Aryas and defend Sulas with your protection **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रा॒ नर॑ स॒मयं॑ते कृ॒तध्व॑जो॒ यस्मि॑न्ना॒जा भव॑ति॒ किं ॒ ॒
+> चन प्रियं ।  
+> यत्रा॒ भयं॑ते॒ भुव॑ना स्व॒र्दृश॒स्तत्रा॑ न इंद्रावरु॒णाधि॑  
+> वोचतः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । नरः । संआयंते । कृतध्वजः । यस्मिन् । आजा । भवति । किं । जन ।  
+> प्रियं ।  
+> यत्र । भयंते । भुवना । स्वःदृशः । तत्र । नः । इंद्रावरुणा । अधि । वोचतः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्संग्रामे नरो मनुष्याः कृतध्वज उच्छ्रतध्वजाः समयंते
+> युद्धार्थं संगच्छंते । यस्मिंश्चाजाजौ युद्दे । चनेति निपातद्वयसमुदायो
+> विभज्य योजनीयः । किंच किमपि प्रियमनुकूलं न भवति अपि तु सर्वं दुष्करं
+> भवति । यत्र च युद्धे भुवना भुवनानि भूतजातानि स्वर्दृशः शरीरपातादूर्द्ध्वं
+> स्वर्गस्य द्रष्टारो वीराश्च भयंते बिभ्यति । तत्र तादृशे संग्रामे हे इंद्रावरुणौ
+> नोऽस्मासधि वोचतं । अस्मत्पक्षपातवचनौ भवतं ॥
+
+##### Gist of the bhāṣya
+
+In whatever battle the men, with raised banners, assemble for fighting, and in whatever combat nothing whatever is favourable (चन (*cana*) and किं (*kiṃ*) are two particles to be divided and construed separately), but everything becomes hard; and in which battle the beings, and the heroes who see heaven after the body falls, are afraid: in such a battle, O Indra and Varuṇa, speak on our behalf, that is, be speakers who side with us.
+
+### Printed p. 28
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O gods Indra and Varuṇa
+- यत्र (*yatra*)—in which battle
+- नरः (*naraḥ*)—men
+- कृतद्वजः (*kṛtadvajaḥ*)—raising their banners aloft
+- समयंते (*samayaṃte*)—assemble for battle
+- यस्मिन् (*yasmin*)—in which
+- आजा चन (*ājā cana*)—in the very battle
+- किंचन (*kiṃcana*)—even a little
+- प्रियं (*priyaṃ*)—favourable circumstance
+- भवति (*bhavati*)—there is (not)
+- यत्र (*yatra*)—in which battle
+- भुवना (*bhuvanā*)—all beings
+- स्वर्दृशः (*svardṛśaḥ*)—turning their faces towards the sky
+- भयंते (*bhayaṃte*)—are afraid
+- तत्र (*tatra*)—in such a battle
+- नः (*naḥ*)—to us
+- अधि वोचतं (*adhi vocataṃ*)—speak encouraging words
+
+##### भावार्थ (Bhāvārtha)
+
+O gods Indra and Varuṇa, in the battle where men assemble for fighting with banners held aloft, in which there is not even a little favourable circumstance, and in which all beings turn their faces to the sky and are afraid, in such a battle speak encouraging words to us.
+
+##### English translation
+Where men assemble with uplifted banners, in whatever conflict, there is something unfavourable; where living beings, looking to heaven, are in fear, there, Indra and Varuna, speak to us (encouragement).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं भूम्या॒ अंता॑ ध्वसि॒रा अ॑दृक्ष॒तेंद्रा॑वरुणा दि॒वि घोष॒  ॑
+> आरुहत् ।  
+> अस्तु॒र्जना॑ना॒मुप॒ मामरा॑तयो॒ऽर्वागव॑सा हवनश्रु॒ता  ॑
+> गतं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । भूम्याः । अंताः । ध्वसिराः । अदृक्षत । इंद्रावरुणा । दिवि । घोषः । आ ।  
+> अरुहत् ।
+
+### Printed p. 29
+
+> अस्थुः । जनानां । उप । मां । अरातयः । अर्वाक् । अवसा । हवनश्रुता । आ ।  
+> गतं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ भूम्या अंताः पर्यंता ध्वसिराः सैनिकैर्ध्वस्ताः समदृक्षत ।
+> संदृश्यंते । तथा दिवि द्युलोके घोषः सैनिकानां शब्दश्चारुहत् । अरूढोऽभूत् । जनानामस्मदीयानां भटानामरातयः शत्रवो मामुपास्थुः । उपस्थिताः ।
+> एवं प्रवर्तमानेऽस्मिन्युद्धे हे हवनश्रुताह्वानशीलाविंद्रावरुणौ अर्वागस्मदभिमुखमवसा रक्षणेन सहा गतं । अगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, the ends of the earth are seen laid waste by the soldiers; the clamour of the soldiers has risen to the heaven-world. The enemies of our people, of our warriors, have stood near me. While the battle goes on thus, O Indra and Varuṇa, you who hear the call (हवनश्रुता (*havanaśrutā*) = of calling nature), come towards us with protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- भूम्याः (*bhūmyāḥ*)—of the earth
+- अंताः (*aṃtāḥ*)—all the ends
+- ध्वसिराः (*dhvasirāḥ*)—as if laid waste by soldiers
+- समदृक्षत (*samadṛkṣata*)—are seen
+- घोषः (*ghoṣaḥ*)—the clamour of soldiers
+- दिवि (*divi*)—up to the heaven-world
+- आरुहत् (*āruhat*)—has risen
+- जनानां (*janānāṃ*)—of our people
+- अरातयः (*arātayaḥ*)—all the enemies
+- मां (*māṃ*)—me
+- उपास्यः (*upāsyaḥ*)—have approached
+- हवनश्रुता (*havanaśrutā*)—O Indra and Varuṇa, who hear our entreaty
+- अर्वाक् (*arvāk*)—towards us
+- अवसा (*avasā*)—with protection
+- आ गतं (*ā gataṃ*)—be so kind as to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, all the ends of the earth appear as if laid waste by soldiers. The clamour of the soldiers has risen up to the heaven-world. All the enemies of our people have approached me. O Indra and Varuṇa, who hear our entreaty, come towards us with protection.
+
+##### English translation
+The ends of the earth are beheld laid waste; the clamour has ascended, Indra and Varuna, to heaven: the adversaries of my people approach me : having heard my invocation, come for my defence.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑वरुणा व॒धना॑भिरप्र॒ति भे॒दं व॒न्वंता॒ प्र सु॒दास॑मावतं ।
+
+### Printed p. 30
+
+> ब्रह्माण्येषां शृणुतं हवीमनि सत्या तृतूनामभवत्पुरोहितिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रावरुणा । वधनाभिः । अप्रति । भेदं । वन्वंता । प्र । सुदासं । अवतं।  
+> ब्रह्माणि । एषां । शृणुतं । हवीमनि । सत्या । तृतूनां । अभवत् । पुरःसहितिः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणेंद्रावरुणौ वधनाभिर्वधकरैरायुध्यॆरप्रतिगतमप्राप्तं भेधमेतत्संज्ञं सुदासः शत्रुं वन्वंता हिंसंतौ युवां सुदासं । शोभनं ददातीति
+> सुदाः। एतत्संज्ञं मम याज्यं राजानं प्रावतं। प्रकर्षणारक्षतं । एषां तृत्तूनां
+> मम याज्यानां ब्रह्माणि सोत्राणि शृणुतं । अशृणुतं । कदा । हवीमनि । आह्वयंतेऽस्मिन्युद्धार्थं परस्परमिति हवीमा संग्रामः ' तस्मिन् । यस्मादेवं तस्मात्तृतूनामेतत्संज्ञानां मम याज्यानां पुरोहितिमम पुरोधानं सत्या सत्यफलमभवत् । तेषु यन्मम पौरोहित्यं तत्सफलं जातमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, with the weapons that kill you were slaying the enemy named Bheda, who had not been overcome (अप्रति (*aprati*): unattained, unreached), and you protected Sudāsa fully, my patron the king; Sudāsa is "one who gives well". Hear the praises of these Tṛtsus, my patrons, in the battle; हवीमनि (*havīmani*) is the battle, where they call each other out for fighting. Since it is so, the priestly office I hold for these Tṛtsus has proved true, that is, has borne fruit. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- अप्रति (*aprati*)—not yet defeated
+- भेदं (*bhedaṃ*)—Bheda, the enemy of Sudāsa
+- वधनाभिः (*vadhanābhiḥ*)—with weapons that serve for killing
+- वन्वंता (*vanvaṃtā*)—you who struck
+- सुदासं (*sudāsaṃ*)—the king named Sudāsa
+- प्र आवतं (*pra āvataṃ*)—protected fully
+- हवीमनि (*havīmani*)—in battle
+- एषां (*eṣāṃ*)—of these Tṛttus
+- ब्रह्माणि (*brahmāṇi*)—the praises
+- शृणुतं (*śṛṇutaṃ*)—you heard (therefore)
+- तृत्सूनां (*tṛtsūnāṃ*)—for these Tṛttus, the sacrificers
+- पुरोहितः (*purohitaḥ*)—my priestly office
+- सत्या (*satyā*)—bearing true fruit
+- अभवत् (*abhavat*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, you who struck with weapons that serve for killing Bheda, the enemy of Sudāsa, who could not be defeated without your help, protected the king named Sudāsa fully. In battle you heard the praises of the Tṛttu people; therefore my priestly office for these Tṛttus, the sacrificers, became one bearing true fruit.
+
 ---
 
-**Progress note:** Done through printed p. 23. pp. 16-23 (batch API)
+**Progress note:** Done through printed p. 30. pp. 24-30 (batch API)
