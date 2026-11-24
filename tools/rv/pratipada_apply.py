@@ -68,7 +68,7 @@ def main():
         start = int(r['line']) - 1
         end = start
         while end < len(lines) and (end == start or not lines[end].startswith('#')) and end - start < 80: end += 1
-        pat = re.compile(r'(?<![ಀ-೿])' + re.escape(old) + r'(?=\s*(?:\([^)]*\))?\s*[—–\-])')
+        pat = re.compile(r'(?<![ಀ-೿])' + re.escape(old) + r'(?![ಀ-೿])(?=[^|।!\n—–\-]*[—–\-])')      # a word of an entry key (the key may have several words, 'ಆಮಿತಾ ವಸೂನಿ—'): a dash follows in the same entry
         hits = [(k, m) for k in range(start, end) for m in pat.finditer(lines[k])]
         if len(hits) != 1: skipped['not found once'] += 1; continue
         k, m = hits[0]
