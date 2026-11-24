@@ -32481,6 +32481,295 @@ Indra, who is well-deserving of the hymn, looks down (with favour) upon us as a 
 > विश्वे॑ त इंद्र वी॒र्यं॑ दे॒वा अनु॒ क्रतुं॑ ददुः ।  
 > भुवो॒ विश्व॑स्य॒ गोप॑तिः पुरुष्टुत भ॒द्रा इंद्र॑स्य रा॒तयः॑ ॥ ७ ॥
 
+### Printed p. 716
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । ते । इंद्र । वीर्यं । देवाः । अनु । क्रतुं । ददुः ।  
+> भुवः । विश्वस्य । गोऽपतिः । पुरुस्तुत । भद्राः । इंद्रस्य । रातयः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव वीर्यं सामर्थ्यं क्रतुं प्रज्ञां चान्वनुसृत्य विश्वे सर्वॆ
+> देवा ददुः । दधुः । धारयंति वीर्यं प्रज्ञां च । तव बलेन प्रज्ञया च तेऽपि
+> बलिनः प्रज्ञावंतश्च भवंतीत्यर्थः । तादृशस्त्वं गोपतिः प्रसिद्धानां गवामुदकानां
+> स्तुतिवचसो वा पतिर्भुवः । भवसि । विश्वस्येतत्पदांतर्गतस्यापि गोशब्दस्य विशेषः ।
+> हे पुरुष्टुत बहुभिः स्तुतेंद्र भवसीति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, all the gods, following your वीर्यं (*vīryaṃ*), your capacity, and your क्रतुं (*kratuṃ*), your wisdom, ददुः (*daduḥ*), hold them; that is, they hold both capacity and wisdom. The meaning is that by your strength and wisdom they too become strong and possessed of wisdom. Such as you are, you become the lord of the well-known cows, that is, the waters, or the lord of the speech of praise. The word विश्वस्य (*viśvasya*) qualifies the word for "cow" that lies within the compound. O Indra, praised by many, you become this; so the construction runs. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- वीर्यं (*vīryaṃ*)—capacity
+- क्रतुं (*kratuṃ*)—wisdom
+- विश्वे (*viśve*)—all
+- देवाः (*devāḥ*)—the gods
+- अनु ददुः (*anu daduḥ*)—following, obtain that same capacity and wisdom
+- पुरुषुत (*puruṣuta*)—O Indra, worthy of the praise of many
+- विश्वस्य (*viśvasya*)—of all
+- गोपतिः (*gopatiḥ*)—as lord also of the waters
+- भुवः (*bhuvaḥ*)—you are
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- भद्राः (*bhadrāḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, all the gods, following your capacity and your wisdom, obtain that same capacity and wisdom. O Indra, worthy of the praise of many, you are the lord of all the waters. The gifts of Indra are auspicious.
+
+##### English translation
+Indra, by the example of your power and knowledge the gods attain the same ; O hymned by many, you are the herdsman of the universe ; Indra's gifts are worthy of praise.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गृ॒णे तदिं॑द्र ते॒ शव॑ उप॒मं दे॒वता॑तये ।  
+> यद्धंसि॑ वृ॒त्रमोज॑सा शचीपते भ॒द्रा इंद्र॑स्य रा॒तयः॑ ॥ ८ ॥
+
+### Printed p. 717
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गृणे । तत् । इंद्र । ते । शवः । उपमं । देवतातये ।  
+> यत् । हंसि । वृत्रं । ओजसा । शचीऽपते । भद्राः । इंद्रस्य । रातयः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव तच्छवो बलमुपममंतिकं देवतातये यजमानाय
+> यज्ञार्थं वा गृणे । स्तुवे । यद्यस्माद्दे शचीपते वृत्रमोजसा बलेन हंसि
+> शस्मात्ते शवो गृणे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, that strength of yours, which is उपमं (*upamaṃ*), near, I praise for the sacrificer, देवतातये (*devatātaye*), or for the sake of the sacrifice. Because, O lord of Śacī, you slay Vṛtra with ojas, with strength, therefore I praise your strength. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीपते (*śacīpate*)—O Indra, protector of rites
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—by which power of yours
+- ओजसा (*ojasā*)—and by which heroism
+- वृत्रं (*vṛtraṃ*)—the asura Vṛtra
+- हंसि (*haṃsi*)—you slay
+- ते तत् शवः (*te tat śavaḥ*)—that same heroism of yours
+- देवतातये (*devatātaye*)—to the sacrificer
+- उपमं (*upamaṃ*)—as if exceedingly near
+- गृणे (*gṛṇe*)—we praise
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- भद्रा (*bhadrā*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of rites, that heroism of yours by which you slay the asura Vṛtra, that same heroism, as if exceedingly near to the sacrificer, I praise. The gifts of Indra are beneficent and auspicious.
+
+##### English translation
+Indra, I laud that might of yours which is near at hand to the worshipper,— (I laud you) that you slew Vritra, O lord of rites, by your strength ; Indra's gifts are worthy of praise.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॑नेन वपुष्य॒तः कृ॒णव॒न्मानु॑षा यु॒गा ।  
+> वि॒दे तदिंद्र॒श्चेत॑न॒मध॑ श्रु॒तो भ॒द्रा इंद्र॑स्य रा॒तयः॑ ॥ ९ ॥
+
+### Printed p. 718
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> षमना इव । वपुष्यतः । कृणवत् । मानुषा । युगा ।  
+> विदे । तत् । इंद्रः । चेतनं । अध । श्रुतः । भद्राः । इंद्रस्य । रातॆयः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समनेव समानमनस्का योषिदिव सा यथा वपुष्यतो वपुरिच्छतः पुरुषान्
+> कृणवत् करोति स्ववशान् एवमयमिंद्रो मानुषा मनुष्यान् युगा युगानि
+> कालान् संवत्सरायनर्तुमासादीन्विदे । लंभयति । तद्युगनिर्माणात्मकं कर्मेद्रश्चेतनं सर्वस्य प्रज्ञापकं कृतवानिति शेषः । आधाधैवं कृत्वा श्रुतः सर्वत्र
+> ख्यातोऽभूत् !
+
+##### Gist of the bhāṣya
+
+As a woman of like mind makes men who desire a body कृणवत् (*kṛṇavat*) her own, so this Indra causes men to obtain the युगा (*yugā*), the periods of time, years, solstices, seasons, months and so forth. The words "Indra has made that act of making the periods, a thing that makes everyone aware" are to be supplied. Having done so, he became renowned everywhere. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समना (*samanā*)—a woman who shows equal affection
+- वपुष्यतः (*vapuṣyataḥ*)—men who are infatuated with her body
+- कृणवत् (*kṛṇavat*)—as one who makes them her own subjects
+- इंद्रः (*iṃdraḥ*)—Indra
+- मानुषा (*mānuṣā*)—all men
+- युगा (*yugā*)—so that they come under the rules of time such as the year
+- विदे (*vide*)—he arranges
+- तत् (*tat*)—that work of making the periods and so forth
+- चेतनं (*cetanaṃ*)—he made so that it comes within the sight of all
+- आध (*ādha*)—afterwards
+- श्रुतः (*śrutaḥ*)—he became renowned
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- भद्राः (*bhadrāḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+As a woman who shows equal affection makes men who are infatuated with her body her own subjects, so Indra arranges all men so that they come under the rules of time such as the year. He made that work of making the periods and so forth come within the sight of all. Afterwards he became renowned. The gifts of Indra are auspicious and praiseworthy.
+
+##### English translation
+As a woman who shows no partiality wins her lovers to her, so Indra confers periods of time on mankind : it is Indra, who has perfomed that knowledge-giving achievement, therefore he is renowned ; Indra' gifts are worthy of praise.
+
+#### Ṛk 10
+
+### Printed p. 719
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उज्जा॒तमीं॑द्र ते॒ शव॒ उत्तामुत्तव॒ क्रतुं॑ ।  
+> भूरि॑गो॒ भूरि॑ वावृधु॒र्मघ॑व॒न्तव॒ शर्म॑णि भ॒द्रा इंद्र॑स्य  ॒॑
+> रातयः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । जातं । इंद्र । ते । शवः । उत् । त्वां । उत् । तव । क्रतुं ।  
+> भूरिगो इति भूरिगो । भूरि । ववृधुः । मघवन् । तव । शर्मणि । भद्राः ।  
+> इंद्रस्य । रातयः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र उत् । आयं व्यवहितेनापि वावृधुरित्यनेन संबध्यते । उद्वर्धयंति सोमेन । किं । ते शवो बलं । न केवलं बलं किंतु त्वामुद्वर्धयंति
+> स्तुत्यादिना । पश्चात्तव क्रतुं प्रज्ञां स्नानुकूलामुद्वर्धयंति । भूरीत्येतत्पत्याख्यातं संबध्यते । अतिप्रभूतमुद्वर्धयंतीत्यर्थः । क एवं कुर्वंतीति उच्यते ।
+> हे भूरिगो बहुपशो हे मघवन्थनवन्निंद्र तव शर्मणि त्वदीये सुखे ये
+> वर्तंते ते च कुर्वंतीति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, उत् (*ut*), though separated, is joined with ववृधुः (*vavṛdhuḥ*): they make grow, with Soma. What? Your śavas, strength. Not only strength: they make you grow also by praise and the like. Afterwards they make your kratu, wisdom, grow. The word भूरि (*bhūri*) is joined with the verb: the meaning is that they make it grow exceedingly. Who do this? It is said: O भूरिगो (*bhūrigo*), owner of many cattle, O मघवन् (*maghavan*), wealthy Indra, those who abide in शर्मणि (*śarmaṇi*), your happiness, do this. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भूरिगो (*bhūrigo*)—O Indra, owner of abundant cattle
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- तव (*tava*)—your
+- शर्मणि (*śarmaṇi*)—the sacrificers who abide in the happiness that takes the form of your favour
+- ते (*te*)—your
+- शवः (*śavaḥ*)—strength
+- जातं (*jātaṃ*)—as soon as it is born
+- भूरि (*bhūri*)—exceedingly
+- वावृथः (*vāvṛthaḥ*)—(ut) cause to grow exceedingly
+- त्वां (*tvāṃ*)—you too
+- उत् (*ut*)—cause to grow
+- तव (*tava*)—your
+- क्रतुं (*kratuṃ*)—wisdom
+- उत् (*ut*)—cause to grow abundantly
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- भद्राः (*bhadrāḥ*)—are praiseworthy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, owner of abundant cattle and wealthy, the sacrificers who abide in the happiness given by you, as soon as you are born, cause your strength, yourself, and the rite that has wisdom as its nature, to grow exceedingly. The gifts of Indra are praiseworthy.
+
+### Printed p. 720
+
+##### English translation
+Maghavan, rich in cattle, (those who abide) in your happiness have greatly augmented your might when it was born, (they have greatly augmented) you, Indra, and your knowledge ; Indras's gifts are worthy of praise.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं च॒ त्वं च॑ वृत्रह॒न्तं यु॑ज्याव स॒निभ्य॒ आ ।  
+> अ॒रा॒ती॒ना चि॑दद्रि॒वोऽनु॑ नौ शूर मंसते भ॒द्रा इंद्र॑स्य  ॒॑
+> रातयः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । च । त्वं । च । वृत्रहन् । सं । युज्याव । सनिभ्यः । आ ।  
+> अरातिवा । चित् । अद्रिवः । अनु । नौ । शूर । मंसते । भद्राः । इंद्रस्य । रातयः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन्निंद्र त्वं चाहं च सं युज्याव । संगतौ भवाव । कियदवधीति
+> उच्यते । सनिभ्य आ यावता कालेन धनानि लभ्यंते तावत्कालं । नौ संगतयोश्चाव
+> योर्हे अद्रिवो वज्रवन्निंद्र अरातीवादानोऽपि जनस्त्वद्दत्तधनस्यानु मंसते ।
+> अनुमतिं करोति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slayer of Vṛtra, may you and I be united, may we be joined together. For how long? It is said: सनिभ्य आ (*sanibhya ā*), for as long a time as wealth is obtained. O अद्रिवः (*adrivaḥ*), Indra who wields the thunderbolt, even a person who does not give approves of the wealth given by you to the two of us who are joined; he gives his consent. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- वृत्रहन् (*vṛtrahan*)—slayer of Vṛtra
+- त्वं च (*tvaṃ ca*)—you
+- अहं च (*ahaṃ ca*)—and I
+- सनिभ्य आ (*sanibhya ā*)—until wealth is obtained
+- सं युज्याव (*saṃ yujyāva*)—let us remain united together
+- अद्रिवः (*adrivaḥ*)—O Indra, wielder of the thunderbolt
+- अरातीवा चित् (*arātīvā cit*)—even a non-giver who has no generosity
+- नौ (*nau*)—our union
+- अनु मंसते (*anu maṃsate*)—regards as bringing wealth
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- भद्राः (*bhadrāḥ*)—are praiseworthy
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, slayer of Vṛtra, let you and me remain united until wealth is obtained. O Indra, wielder of the thunderbolt, even a non-giver who has no generosity regards our union as bringing wealth. The gifts of Indra are praiseworthy.
+
+### Printed p. 721
+
+##### English translation
+May I and you, slyer of Vritra, be closely united until wealth is obtained ; hero, wielding the thunderbolt, even the niggared concedes (that our union gives wealth); Indra's gifts are worthy of praise.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यमिद्वा उ॒ तं व॒यमिंद्रं॑ स्तवाम॒ नानृ॑तं ।  
+> म॒हा असु॑न्वतो व॒धो भूरि॒ ज्योतीं॑षि सुन्व॒तो भ॒द्रा  
+> इंद्र॑स्य रा॒तयः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यं । इत् । वै । ऊं इति । तं । वयं । इंद्रं । स्तवाम । न । अनृतं ।  
+> महान् । असुन्वतः । वधः । भूरि । ज्योतींषि । सुन्वतः । भद्राः । इंद्रस्य ।  
+> रातयः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं प्रगाथास्तमिंद्रं सत्यमित्सत्यमेव स्तवाम । नानृतमसत्यं न
+> स्तवाम । अस्माभिरुक्ता गुणाः सत्या एव संतु नानृता इत्यर्थः । स्तुत्यस्येंद्रस्य
+> संबंध्यसुन्वतोऽयष्टुर्वधो महान्प्रभूतो भवति । भूरि ज्योतींषि
+> बहून्सोमान्सुन्वतोऽभिषवं कुर्वतो यजमानस्येंद्रकृतोऽनुग्रहो
+> महान्भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We, the Pragāthas, praise that Indra truly, only truly; we do not praise untruly, falsely. The meaning is that the qualities spoken by us may be true and not untrue. Of the praised Indra, the slaying of the one who does not press Soma, who does not sacrifice, is great, abundant. भूरि ज्योतींषि (*bhūri jyotīṃṣi*): for the sacrificer who presses, who performs the pressing of, many Somas, the favour done by Indra is great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we
+- तं इंद्रं (*taṃ iṃdraṃ*)—that well-known Indra
+- सत्यमिद्वै (*satyamidvai*)—in truth
+- स्तवाम (*stavāma*)—let us praise
+- अनृतं (*anṛtaṃ*)—in an untrue manner
+- न (*na*)—it must not be praised
+- असुन्वतः (*asunvataḥ*)—for one who is not a sacrificer
+- वधः (*vadhaḥ*)—destruction
+- महान् (*mahān*)—is great
+- भूरि (*bhūri*)—abundantly
+- ज्योतींषि (*jyotīṃṣi*)—the Soma juice
+- सुन्वतः (*sunvataḥ*)—obtained by the sacrificer who presses and offers
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- धद्राः (*dhadrāḥ*)—are auspicious
+
 ---
 
-**Progress note:** Done through printed p. 715. Mandala 8 sukta 62 rks 1 (end) to 7 (samhita)
+**Progress note:** Done through printed p. 721. Mandala 8 sukta 62 rks 7 to 12 (up to pratipadartha)
