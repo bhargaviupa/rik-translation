@@ -6694,6 +6694,298 @@ The four Ṛks beginning वाहिष्ठो वां हवानां (
 
 O Aśvins, अदः (*adaḥ*) stands for "yonder": in yonder ocean, the place of the waters, of the heaven (the world of heaven), if (यद्यदि (*yadyadi*)) you two rejoice (मदथः (*madathaḥ*)); or also you who desire the food (इषः (*iṣaḥ*)) (the sentence continues in the next window).
 
+### Printed p. 149
+
+> यजमानस्य गृहे यदि माद्यथः । एवं चेत् हे अमर्त्या मरणधर्मरहितावमनुष्य वाश्विन् मे मदीयं स्तोत्रं श्रुतमित् । युवां शृणुतमेव । ममैव
+> स्तोत्रं श्रुत्वा युवां माद्यतमित्यर्थः । यद्वा । अदः स्तोत्रमिति संबध्यते ॥
+
+##### Gist of the bhāṣya
+
+If you two rejoice in the house of the sacrificer, then, O immortal (अमर्त्या (*amartyā*), free from the nature of mortality) Aśvins, you must hear (श्रुतमित् (*śrutamit*)) my hymn of praise; the meaning is that, having heard my hymn alone, you two should rejoice. Or else, अदः (*adaḥ*) is construed with the hymn of praise. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्त्या (*amartyā*)—O Aśvins, free from the nature of mortality
+- अदः (*adaḥ*)—of the upper part
+- दिवः (*divaḥ*)—of the world of heaven
+- अर्णवे (*arṇave*)—in the place of water
+- यत् (*yat*)—if perhaps
+- मदथः (*madathaḥ*)—you rejoice
+- वा (*vā*)—or
+- इषः (*iṣaḥ*)—of the sacrificer who desires you
+- गृहे (*gṛhe*)—in the house of sacrifice, you rejoice
+- मे (*me*)—my hymn of praise
+- श्रुतमित् (*śrutamit*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, free from the nature of mortality, whether you perhaps rejoice in the place of water of the upper world of heaven, or rejoice in the house of sacrifice of the sacrificer who desires you, hear this my hymn of praise.
+
+##### English translation
+Whether, immortal (Ahwins), you rejoice in the water of the firmament, or in the dwelling of the worshipper, hear this my (invocation).
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्या श्वे॑त॒याव॑री॒ वाहि॑ष्ठा वां न॒दीनां॑ ।  
+> सिंधु॒र्हिर॑ण्यवर्तनिः ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्या । श्वेतयावरी । वाहिष्ठा । नां । नदीनां ।  
+> सिंधुः । हिरण्यवर्तनिः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वमना ऋषिः श्वेतयावरीनाम्मो नद्यास्तीरेवश्विनावस्तौत् । अनया
+> नद्यपि स्तुतवतीत्याह । उतापि च श्वेतयावरी । श्वेतजला यातीति श्वेतयावरी ।
+> कीद्वृशी । सिंधुः स्यंदमाना हिरण्यवर्तनिर्हिरण्मयस्वीयमार्गा हिरण्मयोभयकूला । सैषा श्वेतयावरीनामिका नदीनामन्यासां नदीनां मध्यॆ वां युवां-
+
+##### Gist of the bhāṣya
+
+The seer Viśvamanas praised the Aśvins on the bank of the river named Śvetayārī (श्वेतयावरी (*śvetayāvarī*)). He says that by this verse the river too has praised. उत (*uta*) means "and also". श्वेतयावरी (*śvetayāvarī*) is she who goes with white water. Of what kind is she? सिंधुः (*siṃdhuḥ*), flowing; हिरण्यवर्तनिः (*hiraṇyavartaniḥ*), having a golden path of her own, with golden banks on both sides. This river named Śvetayāvarī, among the other rivers, to you two
+
+### Printed p. 150
+
+> वाहिष्ठा स्तुत्यातिशयेनागंत्रि भवति । एषापि युवां स्तोतीत्यर्थः । यद्वा । एषा
+> नदी युवयो रथस्य वाहिष्ठा वोडृतमा सती प्रियकरी भवति । यस्मादहमस्यास्तीरे युवामस्तुवमिति ॥
+
+##### Gist of the bhāṣya
+
+is the best bearer (वाहिष्ठा (*vāhiṣṭhā*)) of praise: in the highest degree she comes with praise; the meaning is that she too praises you two. Or else: this river, being the best bearer of the chariot of you two, becomes pleasing to you, because I praised you two on her bank.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- सिंधुः (*siṃdhuḥ*)—that which flows
+- हिरण्यवर्णनिः (*hiraṇyavarṇaniḥ*)—that which has a path made of gold
+- स्या (*syā*)—and that which is famous
+- श्वेतॆयावरी (*śvetèyāvarī*)—this river called Śvetayāvarī
+- नदीनां (*nadīnāṃ*)—among all rivers
+- वां (*vāṃ*)—your chariot
+- वाहिष्ठा (*vāhiṣṭhā*)—can bear most comfortably
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, this famous river called Śvetayāvarī, which flows well and has a path made of gold, can, among all rivers, bear your chariot most comfortably.
+
+##### English translation
+Verily this Shwetayavari, the golden-pathed river, is of all rivers the especial bearer of your (praises).
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्मदे॒तया॑ सुकी॒र्त्याश्वि॑ना श्वे॒तया॑ धि॒या ।  
+> वहे॑थे शुभ्रयावाना ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्मत् । एतया । सुकीर्त्या । अश्विना । श्वेतया । धिया ।  
+> वहेथे इति । शुभ्रयावाना ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुभ्रयावाना शोभनशीलगमनवंतौ हे अश्विनाश्विन् सुकीर्त्या
+> शोभनस्तुत्या श्वेतया श्वेतजलया धिया धारयित्र्या हिरण्मयकूलवत्योभयकूलस्थितानां प्राणिनां धनदानेन पोषयित्र्यैतया नद्या स्मत्समच्छोभनं
+> वहेथे । युवां स्तुतिं प्राप्नुथः । एषा युवामस्तौदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, शुभ्रयावाना (*śubhrayāvānā*), whose going is fair. By this river, which is सुकीर्त्या (*sukīrtyā*), of fine praise, श्वेतया (*śvetayā*), with white water, धिया (*dhiyā*), supporting, having golden banks and nourishing by gifts of wealth the beings that stand on both banks, you two are borne well (स्मत् (*smat*)): you obtain praise. The meaning is that this river has praised you two.
+
+### Printed p. 151
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभ्रयावाना (*śubhrayāvānā*)—of auspicious going
+- अश्विना (*aśvinā*)—O Aśvins
+- सुकीर्त्या (*sukīrtyā*)—that which is full of excellent praise
+- श्वेतया (*śvetayā*)—that which has water of white colour
+- धिया (*dhiyā*)—that which supports and nourishes all the beings on its bank
+- एतया (*etayā*)—by this river called Śvetayāvarī
+- स्मत् (*smat*)—in an auspicious manner
+- वहेथे (*vahethe*)—you obtain your praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, of auspicious going, by this river called Śvetayāvarī, which is full of excellent praise, has water of white colour, and supports and nourishes all the beings on its bank, you obtain your praise in an auspicious manner.
+
+##### English translation
+Aswins, following a brilliant course, you acquire celebrity by the white river worthily praising you, the richer (of the people on its banks).
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒क्षा हि त्वं र॑था॒सहा॑ यु॒वस्व॒ पोष्या॑ वसो ।  
+> आन्नो॑ वायो॒ मधु॑ पिबा॒स्माकं॒ सव॒ना ग॑हि ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युक्ष । हि । त्वं । रथसहा । युवस्व । पोष्या । वसो इति ।  
+> आत् । नः । वायो इति । मधु । पिब । आस्माकं । सवना । आ । गहि ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदाद्या वायव्यः । हे वायो रथसहा रथसहौ रथवहनसमर्थावश्वा ।
+> हिरवधारणे । त्वमेव युक्ष । संयोजय । हे वसो वासयितः शत्रोणां
+> पोष्या पोष्य कंठेषु करशलास्थालनैराश्वास्य पोषणीयौ तावश्वा युवस्व ।
+> संग्रामेषु शत्रुवधार्थं मिश्रय । यद्वा अस्मद्यज्ञेषु संमिश्रय । ताभ्यां
+> युक्तः सन् यज्ञं प्रत्यागच्छेत्यर्थः । हे वायो आदनंतरं नोऽस्मदीयं मधु
+> मदकरं सोमं त्वं पिब । अत एनास्माकं यज्ञेषु सवना त्रिषु सवनेष्वा गहि ।
+> सोमपानार्थवागच्छ ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk and the following ones are addressed to Vāyu. O Vāyu, रथसहा (*rathasahā*) are two horses able to draw a chariot; the particle हि (*hi*) is for emphasis. You yourself yoke them (युक्ष (*yukṣa*), join them together). O वसो (*vaso*), who cause (enemies) to dwell **NOTE**: पोष्या (*poṣyā*) are the two horses to be fostered, comforted by pats of the palm on their necks **NOTE**; join (युवस्व (*yuvasva*)) those two horses; mingle them in battles for the slaying of enemies; or else mingle them in our sacrifices. The meaning is: yoked with them, come to the sacrifice. O Vāyu, after that drink our intoxicating (मधु (*madhu*)) Soma. Therefore come to our sacrifices, to the three libations, for drinking Soma.
+
+### Printed p. 152
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- रथसहा (*rathasahā*)—the horses fit to draw your chariot
+- त्वं (*tvaṃ*)—you
+- युक्षु (*yukṣu*)—yoke to the chariot
+- वसो (*vaso*)—O Vāyu, who overcome enemies
+- पोष्या (*poṣyā*)—the horses that deserve your fostering
+- युवस्व (*yuvasva*)—bring together in our houses of sacrifice
+- आत् (*āt*)—after that
+- नः (*naḥ*)—offered by us
+- मधु (*madhu*)—the sweet-making Soma
+- पिब (*piba*)—drink
+- अस्माकं (*asmākaṃ*)—in our sacrifices
+- सवना (*savanā*)—in all three times of sacrifice
+- आ गहि (*ā gahi*)—be gracious, come for drinking Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, yoke to your chariot the horses fit to draw it. O Vāyu, who overcome enemies, bring together in our houses of sacrifice the horses that deserve your fostering. After that drink this sweet-making Soma offered by us. Be gracious, come to our sacrifices, at all three times of sacrifice, for drinking Soma.
+
+##### English translation
+Yoke your chariot-drawing horses, Vayu; bring them, Vasu, encouraged (to the sacrifice); then drink our Soma; come to our daily libations.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ वायवृतस्पते॒ त्वष्टु॑र्जामातरद्भुत ।  
+> अवां॒स्या वृ॑णीमहे ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । वायो इति । ऋतःपते । त्वष्टुः । जामातः । अद्भुत ।  
+> ।  
+> अवांसि । आ । वृणीमहे ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वायव्ये पशौ वपायास्तव वायवित्येषा वानुवाक्या । सूत्रितं च । प्र
+> वायुमच्छा बृहती मनीषा तव वायुवृतस्पते । आ. ३-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+Use: in the animal sacrifice to Vāyu, at the offering of the omentum (vapā), the verse beginning तव वायवित्येषा (*tava vāyavityeṣā*) is the anuvākyā. It is laid down in the sūtra (Ā. 3-8), which cites the verse beginning "pra vāyum" together with this one.
+
+### Printed p. 153
+
+> हे ऋतस्पत ऋतपते यज्ञानां पते ॥ सर्वप्रातिपदिकेभ्यो लालसायां
+> सुक् । का. ७-१-५१-४ । इति सुगागमः ॥ त्वष्टुर्जामाशर्ब्रह्मणो जामातः । एषा
+> कथेतिहासादिभिरवगंतव्या । तादृशाद्भुत महन् विचित्रकर्मन् हे वायो तव
+> त्वदीयान्यवांसि पालनान्या वृणीमहे । वयमस्मिन्शुयागे संभजामहे ॥
+
+##### Gist of the bhāṣya
+
+O ऋतस्पत (*ṛtaspata*), lord of sacrifices; son-in-law of Tvaṣṭṛ, that is of Brahmā: this is to be understood from tales, legends and the like. Such being the case, O wonderful (अद्भुत (*adbhuta*)), great one of marvellous deeds, Vāyu, we choose (वृणीमहे (*vṛṇīmahe*)) your protections (अवांसि (*avāṃsi*), acts of protecting); we partake of them in this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतस्पते (*yataspate*)—protector of sacrifice
+- त्वष्टुः (*tvaṣṭuḥ*)—to Tvaṣṭṛ
+- जामातः (*jāmātaḥ*)—son-in-law
+- अद्भुत (*adbhuta*)—of wonderful prowess
+- वायो (*vāyo*)—O Vāyu
+- तव (*tava*)—your
+- अवांसि (*avāṃsi*)—protections
+- आ वृणीमहे (*ā vṛṇīmahe*)—we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, protector of sacrifice, son-in-law of Tvaṣṭṛ, of wonderful prowess, we ask for your protections.
+
+##### English translation
+We solicit your protection, Vayu, lord of sacrifice, wonderful son-in-law of Twashtri.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the offering of the omentum in the animal sacrifice made to the deity Vāyu, this Ṛk beginning तव वयो (*tava vayo*) is to be used as the anuvākyā mantra, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra प्र वायुमच्छा बृहती मनीषा तव नायवृतस्पते (*pra vāyumacchā bṛhatī manīṣā tava nāyavṛtaspate*) (Ā. 3-8).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वष्टु॒र्जामा॑तरं व॒यमीशा॑नं रा॒य ई॑महे ।  
+> सु॒तावं॑तो वा॒युं द्यु॒म्ना जना॑सः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वष्टुः । जावातरं । वयं । ईशानं । रायः । ईमहे ।  
+> सुतवंतः । वायुं । द्युम्ना । जनासः ॥ २२ ॥
+
+### Printed p. 154
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे जनासो जना वयं त्वष्टुर्ब्रह्मणो जामातरमीशानं सर्वस्येश्वरं
+> एतादृशं वायं सुतवंतोऽभिषुतसोमा रायो धनमीमहे ! याचामहे ।
+> तेन दत्तेन वयं द्युम्ना धनवंतः स्यामेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+We, these people (जनासः (*janāsaḥ*)), having Soma pressed (सुतवंतः (*sutavaṃtaḥ*)), ask (ईमहे (*īmahe*), beg) for wealth (रायः (*rāyaḥ*)) from such a Vāyu, the son-in-law of Tvaṣṭṛ, that is of Brahmā, the ruler (ईशानं (*īśānaṃ*)) of all. The remainder to be supplied is: by what he gives, may we be possessed of wealth (द्युम्ना (*dyumnā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतवंतः (*sutavaṃtaḥ*)—those who have Soma pressed and ready for offering
+- जनासः वयं (*janāsaḥ vayaṃ*)—we, the sacrificers
+- श्वष्टुः (*śvaṣṭuḥ*)—to Brahmā
+- जामातरं (*jāmātaraṃ*)—the son-in-law
+- ईशानं (*īśānaṃ*)—and the lord of all
+- वायुं (*vāyuṃ*)—from the god Vāyu
+- रायः (*rāyaḥ*)—wealth
+- ई महे (*ī mahe*)—we ask
+- द्युम्ना (*dyumnā*)—may we obtain shining wealth
+
+##### भावार्थ (Bhāvārtha)
+
+We, the sacrificers who have Soma pressed and ready for offering, ask for wealth from the god Vāyu, the son-in-law of Brahmā and lord of all. May we obtain shining wealth.
+
+##### English translation
+We, the offerers of Soma, solicit riches from the sovereign, the son-in-law of Twashtri ; (may we become) wealthy.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वायो॑ या॒हि शि॒वा दि॒वो वह॑स्वा॒ सु स्वश्वं ॑।  
+> वह॑स्व म॒हः पृ॑थु॒पक्ष॑सा॒ रथे॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वायो इति । याहि । शिव । आ । दिवः । वहस्व । सु । सुऽश्वं ।  
+> वहस्व । महः । पृथुपक्षसा । रथे ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वायव्यतृचे वायो याहि शिवा दिव इत्यादिके द्वे ऋचौ द्वितीयातृतीये।
+> सूत्रितं च । वायो याहि शिवा दिव इति द्वे । आ. ७-१८ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Vāyavya triplet, the two Ṛks beginning वायो याहि शिवा दिव (*vāyo yāhi śivā diva*), the second and the third, are used; and so it is laid down in the sūtra (Ā. 7-18): the two beginning thus.
+
 ---
 
-**Progress note:** Done through printed p. 148. Rk 12 end to Rk 17 start, pp. 143-148
+**Progress note:** Done through printed p. 154. Rk 17 end to Rk 23 start, pp. 149-154
