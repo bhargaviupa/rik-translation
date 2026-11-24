@@ -24902,6 +24902,274 @@ O Nāsatyas, now, in whatever manner we bring you here with *uktha* recitations 
 
 O Aśvin deities of true nature, in whatever manner we now bring you to us with śastra mantras, and in whatever way we bring you with our other praises, for that to be accomplished understand these praises and the rest of me, the son of Kaṇva.
 
+### Printed p. 601
+
+##### English translation
+Acknowledge, Nasatyas, that we may bring you down to-day by the prayers and the praises of the son of Kanwa.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वां॑ क॒क्षीवा॑ उ॒त यद्व॑श्व॒ ऋषि॒र्यद्वां॑ दी॒र्घत॑मा जु॒हाव॑ ।  
+> पृथी॒ यद्वां॑ वै॒न्यः साद॑नेष्टे॒वेदतो॑ अश्विना  
+> चेतयेथां ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वां । कक्षीवान् । उत । यत् । विअश्वः । ऋषिः । यत् । वां ।  
+> दीर्घतमाः । जुहाव ।  
+> पृथी । यत् । वां । वैन्यः । सदनेषु । एव । इत् । अतः । अश्विना ।  
+> चेतयेथां ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ नां युवां कक्षीवानृषिर्यद्यथा जुहाव तुष्टाव । उतापि च
+> व्यश्व एतत्संज्ञ ऋषिश्च यद्यथा जुहाव । यद्यथा च नां युवां दीर्घतमा
+> ऋषिर्जुहाव । सदनेषु यज्ञगृहे वैनो वेनस्य पुत्रः पृथ्येतत्संज्ञो राजर्षिर्नां युवां यद्यथा जुहाव तुष्टाव । एवेदेवमेव स्तुवतो ममात इदं
+> स्तोत्रं ॥ इदंशब्दाद्वितीयार्थे तसिः ॥ हे अश्विनौ चेतयेथां । जानीतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, as the sage Kakṣīvān invoked (praised) you, and as the sage named Vyaśva invoked you, and as the sage Dīrghatamas invoked you; and as Pṛthī, the royal sage, son of Vena, praised you in the sacrificial houses (सदनेषु (*sadaneṣu*))—in just that way this stotra of mine, who am praising you, is addressed to you. Sāyaṇa takes अतः (*ataḥ*) as formed from the word इदं (*idaṃ*) with the suffix in the sense of the accusative. "O Aśvins, take notice, know (this)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नां (*nāṃ*)—you
+- कक्षीवान् (*kakṣīvān*)—named Kakṣīvān
+- ऋषिः (*ṛṣiḥ*)—the sage
+- यत् (*yat*)—in what manner
+- जुहाव (*juhāva*)—praised
+- उत (*uta*)—and
+- व्यश्वः (*vyaśvaḥ*)—the sage named Vyaśva
+- यत् (*yat*)—in what manner he praised
+- यत् (*yat*)—in what manner
+
+### Printed p. 602
+
+- वां (*vāṃ*)—you
+- दीर्घतमाः (*dīrghatamāḥ*)—the sage named Dīrghatamas praised
+- सदनेषु (*sadaneṣu*)—in the sacrificial houses
+- वैन्यः (*vainyaḥ*)—the son of Vena
+- पृथी (*pṛthī*)—the royal sage named Pṛthi
+- वां (*vāṃ*)—you
+- यत् (*yat*)—in what manner he praised
+- एवेत् (*evet*)—in the same manner, praising, my
+- आर्तः (*ārtaḥ*)—this stotra **NOTE**
+- चेतयेथां (*cetayethāṃ*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, in whatever manner the sage Kakṣīvān praised you, in whatever manner the sage Vyaśva praised you, in whatever manner the sage Dīrghatamas praised you, and moreover in whatever manner the royal sage Pṛthi, son of Vena, praised you in the sacrificial houses—in that same manner, know this stotra of mine, who am praising you.
+
+##### English translation
+Consider (my praises) in the same manner as (you have considered) when Kaksivat praised you, when the Rishi Vyaswa, when Dirghatamas or Prithin, the son of Vena, glorified you in the chambers of sacrifice.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या॒तं छ॑र्दि॒ष्पा उ॒त नः॑ पर॒स्पा भू॒तं ज॑ग॒त्पा उ॒त  ॒॑
+> न॑स्तनू॒पा ।  
+> व॒र्तिस्तो॒काय॒ तन॑यायि यातं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यातं । छर्दिःपा । उत । नः । परःपा । भूतं । जगत्पा । उत !  
+> नः । तनूपा ।  
+> वर्तिः । तोकाय । तनयायि । यातं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ छर्दिष्पौ । छर्दिरिति गृहनाम । तस्यास्मदीयस्य पालकौ संतौ युवां
+> यातं । आगच्छतं । उतापि च नोऽस्माकं परस्पा परमतिशयेन पालकौ भूतं ।
+
+##### Gist of the bhāṣya
+
+O Aśvins, protectors of the house (छर्दिरिति गृहनाम (*chardiriti gṛhanāma*)—"chardis" is a name for house): being guardians of this house of ours, come. And also be our supreme, exceedingly great protectors.
+
+### Printed p. 603
+
+> भवतं ॥ पारस्करादित्वात्सुट् ॥ तथा जगत्पौ सर्वस्य जगतो जंगमस्य प्राणिजातस्यास्मदीयस्य पालकौ भवतं । उतापि च नोऽस्माकं तनूपा तनूनां शरीराणां
+> तनयानां वा पालकौ भवतं । एतत्सर्वार्थं तोकाय तोकस्य पुत्रस्य तनयाय
+> तनयस्य पौत्रस्य चास्मदीयस्य वर्तिर्गृहं यातं । गच्छतं ॥
+
+##### Gist of the bhāṣya
+
+(Continuing, the form परस्पा (*paraspā*) is explained by the augment suṭ, as in the Pāraskara-class words.) Likewise be protectors of all our moving creatures, the whole living world (जगत्पौ (*jagatpau*)). And be protectors of our bodies, or of our descendants. For all this, for the son (तोकाय (*tokāya*)) and for the grandson (तनयाय (*tanayāya*)) of ours, come to our house (वर्तिः (*vartiḥ*) = house); go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) छर्धिष्पौ (*chardhiṣpau*)—to be the protectors of our house
+- यातं (*yātaṃ*)—come
+- उत (*uta*)—and
+- नः (*naḥ*)—to us
+- परस्पा भूतं (*paraspā bhūtaṃ*)—be excellent protectors
+- जगत्पौ (*jagatpau*)—be protectors of the whole world
+- उत (*uta*)—and
+- नः (*naḥ*)—our
+- तनूपा (*tanūpā*)—be guardians of our bodies
+- तोकायु (*tokāyu*)—for the welfare of our son
+- तनयाय (*tanayāya*)—for the welfare of our grandson
+- छर्दिः (*chardiḥ*)—to our house
+- यातं (*yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come to be the protectors of our house. Be excellent protectors to us. Be protectors of the whole world. Be guardians of our bodies. Come to our house for the welfare of our son and of our grandson.
+
+##### English translation
+Come (to us as) guardians of our dwelling, become our defenders, qe protectors of our dependants, cherishers of our persons: come to the dwelling for (the good of) our sons and grandsons, **NOTE**
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिंद्रे॑ण स॒रथं॑ या॒थो अ॑श्विना॒ यद्वा॑ वा॒युना॒ ॒॑ ॑
+> भव॑थः॒ समो॑कसा ।  
+> यदा॑दि॒त्येभि॑र्ऋ॒भुभिः॑ स॒जोष॑सा॒ यद्वा॒ विष्णो॑र्वि॒क्रम॑णेषु॒ तिष्ठ॑थः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्रेण । सरथं । याथः । अश्विना । यत् । वा । वायुना ।  
+> भवथः । संओकसा ।
+
+### Printed p. 604
+
+> यत् । आदित्येभिः । ऋभुभिः । सजोषसा ; यत् । वा । विष्णोः ।  
+> विक्रमणेषु । तिष्ठधः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ इंद्रेण सह संथं समानमेकं रथमास्थाय यद्यदि याथः
+> गच्छथः । यद्वा यदि ना वायुना सह समोकसा समाननिवासौ भवथः । यद्यदि
+> वादित्येभिरदितिपुत्रैर्मित्रादिभिर्यभुभिश्च सजोषसा सह प्रीयमाणौ वर्तेथे ।
+> यद्वा यदि ना विष्णोर्विक्रमणेषु विष्णुना देवेन।विक्रांतेषु त्रिषु लोकेषु
+> तिष्ठथः । अतः सर्वास्मादपि स्थानादागच्छतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, if you go (याथः (*yāthaḥ*)) together with Indra, mounted on one and the same chariot (सरथं (*sarathaṃ*) = same, one chariot) **NOTE**; or if you dwell together with Vāyu in a common abode; or if you abide in affection together with the Ādityas, the sons of Aditi—Mitra and the others—and with the Ṛbhus **NOTE**; or if you stay in the three worlds, traversed by the god Viṣṇu in his strides—therefore come from every place; "come" is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- यत् (*yat*)—if perchance
+- सरथं (*sarathaṃ*)—seated in one chariot
+- याथः (*yāthaḥ*)—you are going
+- यद्वा (*yadvā*)—or
+- वायुना (*vāyunā*)—with Vāyu
+- समोकसा (*samokasā*)—in one dwelling-place
+- भवथः (*bhavathaḥ*)—you are
+- यत् (*yat*)—or
+- आदित्येभिः (*ādityebhiḥ*)—with the Ādityas
+- ऋभुभिः (*ṛbhubhiḥ*)—and with the Ṛbhus
+- सजोषसा (*sajoṣasā*)—being possessed of equal affection
+- यद्वा (*yadvā*)—or if perchance
+- विष्णोः (*viṣṇoḥ*)—of Viṣṇu
+- विक्रमणेषु तिष्ठथः (*vikramaṇeṣu tiṣṭhathaḥ*)—you stay in the three worlds covered by his strides (come to us from all those places)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, even if you are going with Indra seated in one chariot, or are in one dwelling with Vāyu, or are with the Ādityas and the Ṛbhus in equal affection, or if you are in the three worlds covered by Viṣṇu's strides—come from all those places to us.
+
+##### English translation
+Although, Aswins, you should be riding in the same chariot with Indra, although you should be domiciled with Vayu, although you should be enjoying gratification along with the Adityas and Ribhus, although you be proceeding on the tracks of Vishnu, (nevertheless come hither).
+
+### Printed p. 605
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्याश्विना॑व॒हं हु॒वेय॒ वाज॑सातये ।  
+> यत्पृ॒त्सु तु॒र्वणे॒ सह॒स्तच्छेष्ठ॑म॒श्विनो॒रवः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । अश्विनौ । अहं । हुवेय । वाजसातये ।  
+> यत् । पृत्सु । तुर्वणे । सहः । तत् । श्रेष्ठं । अश्विनोः । अवः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदाहमश्विनौ वाजसातये संग्रामार्थं हुवेय आह्वयेय अद्येदानीं तावागच्छतमिति शेषः। पृत्सु पृतनासु संग्रामेषु तुर्वणे शत्रूणां हिंसने
+> यत्सहः शत्रूणामभिभवितृ रक्षणमश्विनोः तदवो रक्षणॆ श्रेष्ठं प्रशस्यतमं। अतस्तावाह्वयामीति भावः ॥
+
+##### Gist of the bhāṣya
+
+When (यत् (*yat*)) I today call the two Aśvins for the winning of spoil (वाजसातये (*vājasātaye*) = for battle), "let those two come" is to be supplied. In the battles, in the smiting of enemies, the strength (सहः (*sahaḥ*))—the overpowering protection that vanquishes enemies—of the Aśvins, that protection (अवः (*avaḥ*)) is the best, the most praiseworthy. Therefore, he says, I call them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विनौ (*aśvinau*)—the Aśvin deities
+- यत् (*yat*)—when
+- अहं (*ahaṃ*)—I
+- वाजसातये (*vājasātaye*)—for victory in battle
+- हुवेय (*huveya*)—call
+- अद्य (*adya*)—at such a time as this (let them come to help)
+- पृत्सु (*pṛtsu*)—in battles
+- तुर्वणे (*turvaṇe*)—in the work of destroying enemies
+- अश्विनोः (*aśvinoḥ*)—of the Aśvin deities
+- यत् सहः (*yat sahaḥ*)—whatever protection in the form of strength there is
+- तत् अवः (*tat avaḥ*)—that very protection
+- श्रेष्ठं (*śreṣṭhaṃ*)—is the most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+When I call the Aśvin deities in battle to help me, at such a time let them come to my help. In battles, in the work of destroying enemies, whatever protection in the form of strength the Aśvin deities have, that protection is the most excellent.
+
+##### English translation
+Inasmuch as I invoke you, Aswins, to-day for success in war (therefore grant it), for the triumphant protection of the Aswins is most excellent for the destruction (of enemies) in battle.
+
+### Printed p. 606
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नू॒नं या॑तमश्विने॒मा ह॒व्यानि॑ वां हि॒ता ।  
+> इ॒मे सोमा॑सो॒ अधि॑ तु॒र्वशे॒ यदा॑वि॒मे कण्णे॑षु  ॒॑
+> वामथ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नूनं । यातं । अश्विना । इमा । हव्यानि । वां । हिता ।  
+> इमे । सोमासः । अधि । तुर्वशे । यदौ । इमे । कण्वेषु । वां । अथ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ नूनमवश्यमा यातं । आगच्छतं । इमेमानि पुरोहर्तीनि
+> हव्यानि हवींषि नां युवाभ्यां हिता हितानि । यद्वा । युवयोरर्थं विहितानि
+> कृतानि । इमे च सोमासः सोमास्तुर्वशे यदौ च वर्तमानाः । नां युवाभ्यां
+> युवयोरर्थे संस्कृता ना ॥ अधिः सप्तम्यर्थानुवादकः ॥ अथापि च कण्वेषु कण्वपुत्रेष्वस्मासु चेमे सोमा नां युवाभ्यां दत्ताः । अत आयातमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, surely come. These oblations (हव्यानि (*havyāni*), हवींषि (*havīṃṣi*)), पुरोहर्तीनि (*purohartīni*) **NOTE**, are set (हिता (*hitā*)) for you; or else, they are prepared and made for you two. And these Soma juices, which were present in Turvaśa and in Yadu, were prepared for you two. (अधि (*adhi*) merely repeats the sense of the locative.) And moreover, among the Kaṇvas, the sons of Kaṇva, that is, among us, these Somas are given to you two. Therefore come—such is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नूनं (*nūnaṃ*)—surely
+- आ यातं (*ā yātaṃ*)—graciously come
+- इमा (*imā*)—the ready-made here
+- हव्यानि (*havyāni*)—oblations
+- वां (*vāṃ*)—for you alone
+- हिता (*hitā*)—are placed
+- इमे सोमासः (*ime somāsaḥ*)—these very Soma juices
+- तुर्वशे (*turvaśe*)—in Turvaśa
+- यदौ अधि (*yadau adhi*)—and in Yadu (were prepared)
+- अथ (*atha*)—moreover
+- इमे (*ime*)—these same juices
+- कण्वेषु (*kaṇveṣu*)—among us, the sons of Kaṇva
+- वां (*vāṃ*)—are prepared for you (therefore, graciously come)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, surely come here graciously. The oblations made ready here are set for you alone. These same Soma juices were prepared in Turvaśa and in Yadu. Moreover, these same juices are again prepared and ready for you among us, the sons of Kaṇva. Therefore, graciously come.
+
 ---
 
-**Progress note:** Done through printed p. 600. pp. 595-600 (batch API)
+**Progress note:** Done through printed p. 606. pp. 601-606 (batch API)
