@@ -9413,6 +9413,268 @@ One of these two congratulates the other as they are both delighting in the fort
 - वदथन (*vadathana*)—produce sound
 - तत् (*tat*)—then
 
+### Printed p. 234
+(Pratipadārtha continued)
+- एषां (*eṣāṃ*)—your
+- सर्वं पर्व (*sarvaṃ parva*)—the whole body
+- समृधेव (*samṛdheva*)—as if grown, developed
+
+##### भावार्थ (Bhāvārtha)
+
+O frogs, when, as a pupil learning his lesson imitates the words of his teacher, one frog among you imitates the sound of another frog, and when all of you, who make a fine sound, float in the rain-water and make your noise, then your whole body seems as if it had grown.
+
+##### English translation
+When one of you imitates the croaking of another as a learner (imitates) his teacher, when, loud crying, you converse (leaping) upon the waters, then the entire body is as it were developed.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोमा॑यु॒रेको॑ अ॒जमा॑यु॒रेकः॒ पृश्नि॒रेको॒ हरि॑त॒ एक॑  
+> एषां ।  
+> स॒मा॒नं नाम॒ बिभ्र॑तो॒ विरू॑पाः पुरु॒त्रा वाचं॑ पिपिशु॒र्वदं॑तः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽमायुः । एकः । अजऽमायुः । एकः । पृश्निः । एकः । हरितः । एकः । एषां ।  
+> समानं । नाम । बिभ्रतः । विरूपाः । पुरुत्रा । वाचं । पिपिशुः । वदंतः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां मंडूकानां मध्य एको मंडूको गोमायुर्गोर्मायुरिन
+> मायुः शब्दो यस्य तादृशो भवति । एकोऽनोऽ मंडूकोऽजमायुरजस्य
+> मायुरिन मायुर्यस्य तादृशो भवति । एकः पृश्निः पृश्निवर्णः । एकोऽपरो
+> हरितो हरितवर्णः । एवं विरूपा नानारूपा अपि समानमेकं मंडूका इति
+
+##### Gist of the bhāṣya
+
+Among these frogs, one is गोमायुः (*gomāyuḥ*): its cry (मायुः (*māyuḥ*)) is like that of a cow. Another is अजमायुः (*ajamāyuḥ*): its cry is like that of a goat. One is पृश्निः (*pṛśniḥ*), speckled in colour; another is हरितः (*haritaḥ*), green. Thus, though विरूपाः (*virūpāḥ*), of various forms, they all bear one common name, "frogs".
+
+### Printed p. 235
+
+> नाम बिभ्रतो धारयंतः पुरुत्रा बहुषु देशेषु वाचं वदंतः शब्दं कुर्वंतः
+> पिपिशुः । अवयवीभवंति । प्रादुर्भवंति ॥ पिश अवयवे । पुरुषब्दाद्देवमनुष्येत्यादिना त्राप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Bearing (बिभ्रतः (*bibhrataḥ*), "holding") the name, they utter sound (वाचं वदंतः (*vācaṃ vadaṃtaḥ*)) in many places (पुरुत्रा (*purutrā*)), and पिपिशुः (*pipiśuḥ*) means "they take shape, they appear".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—in the midst of these frogs
+- एकः (*ekaḥ*)—one
+- गोमायुः (*gomāyuḥ*)—one that cries like a cow
+- एकः (*ekaḥ*)—another
+- अजमायुः (*ajamāyuḥ*)—one that imitates the cry of a goat
+- एकः (*ekaḥ*)—yet another
+- पृश्निः (*pṛśniḥ*)—one of many colours
+- एकः (*ekaḥ*)—another
+- हरितः (*haritaḥ*)—one of green colour
+- विरूपाः (*virūpāḥ*)—although having different forms in this way
+- समानं नाम (*samānaṃ nāma*)—the one name "frog"
+- बिभ्रतः (*bibhrataḥ*)—bearing
+- पुरुत्रा (*purutrā*)—in many places
+- वाचं वदंतः (*vācaṃ vadaṃtaḥ*)—making sound
+- पिपिशुः (*pipiśuḥ*)—they appear
+
+##### भावार्थ (Bhāvārtha)
+
+Among these frogs one cries like a cow; another imitates the cry of a goat; one is of many colours; another is green. Although they have different forms in this way, they bear the one name "frog", and they appear in many places, making their sound.
+
+##### English translation
+One frog has the bellowing of a cow, another the bleating of a goat; one of them speckled, one is green; designated by a common appellation, they are of various colours, and, croaking, show themselves in numerous places.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रा॒ह्म॒णासो॑ अतिरा॒त्रे न सोमे॒ सरो॒ न पू॒र्णम॒भितो॒  ॑
+> नदंतः ।  
+> सं॒व॒त्स॒रस्य॒ तदहः॒ परि॑ ष्ठ॒ यन्मं॑डूकाः प्रावृ॒षीणं॑ ब॒भूव॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्राह्मणासः । अतिरात्रे । न।सोमे । सरः । न । पूर्णं । अभितः । वदंतः ।
+
+### Printed p. 236
+
+> संवत्सरस्य । तत् । अहरिति । परि । स्थ । यत् । मंडूकाः । प्रावृषीणं । बभूव ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रात्रिमतीत्य वर्तत इत्यतिरात्रः । अतिरात्रे न सोमे । यथातिरात्राख्ये
+> सोमयागे ब्राह्मणासो ब्राह्मणा रात्ौ स्तुतशस्त्राणि पर्यायेण शंसंति हे
+> मंडूकाः । द्वितीयो नशब्दः संप्रत्यर्थे । न संप्रति पूर्णं सरोऽभितः सर्वतो
+> वदंतो रात्र्य शब्दं कुर्वाणा यूयं तदहस्तद्दिनं परि ष्ठ । परितः सर्वतो
+> भवथ । यदहः प्रावृषीणं पावृषेण्यं प्रावृषि भवं बभूव तस्मिन्नहनि सर्वतो
+> वर्तमाना भवथेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+अतिरात्रे (*atirātre*) is so called because it passes beyond the night. "As at the Soma sacrifice called Atirātra, the Brahmins recite stuti and śastra verses in turns during the night", so, O frogs, do you. The second न (*na*) has the sense of "now". Now, croaking on all sides of the full lake, making noise at night, you are about on every side on that day, the day that has come to belong to the rains (प्रावृषीणं (*prāvṛṣīṇaṃ*), "arising in the rainy season"). That is, on that day you are present everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंडूकाः (*maṃḍūkāḥ*)—O frogs
+- ब्राह्मणासः (*brāhmaṇāsaḥ*)—Brahmins
+- अतिरात्रे (*atirātre*)—in the (sacrifice) named Atirātra
+- सोमे न (*some na*)—as in the Soma sacrifice they make sound reciting the śastra mantras in turns
+- न (*na*)—now
+- यत् (*yat*)—which day
+- संवत्सरस्य (*saṃvatsarasya*)—of the year
+- प्रावृषीणं (*prāvṛṣīṇaṃ*)—to the rainy season
+- बभूव (*babhūva*)—has become attached
+- तदहः (*tadahaḥ*)—in those days
+- पूर्णं सरः (*pūrṇaṃ saraḥ*)—of the lake filled with water
+- अभितः (*abhitaḥ*)—all around
+- वदंतः (*vadaṃtaḥ*)—making sound
+- परि ष्ठ (*pari ṣṭha*)—you stand filling it all round
+
+##### भावार्थ (Bhāvārtha)
+
+O frogs, as Brahmins in the Soma sacrifice called Atirātra make sound reciting the śastra mantras in turns, so on these days of the rainy season you fill the surroundings of the lake full of water, making noise all around.
+
+##### English translation
+Like Brahmans at the Soma libation, at the Atiratra sacrifice, you are now croaking around the replenished lake (throughout the night), for on that day of the year you frogs are everywhere about, when it is the day of the setting in of the rains.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रा॒ह्म॒णासः॑ सो॒मिनो॒ वाच॑मक्रत॒ ब्रह्म॑ कृ॒ण्वंतः॑ परिवत्स॒रीणं॑ ।
+
+### Printed p. 237
+
+> अध्वर्यवो घर्मिणः सिष्टिदाना आविर्भवंति गुह्या न के  
+> चित् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्राह्मणासः । सोमिनः । वाचं । अक्रत । ब्रह्म । कृण्वंतः । परिवत्सरीणं ।  
+> अध्वर्यवः । घर्मिणः । सिस्विदानाः । आविः । भवंति । गुह्याः । न । के । चित् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमिनः सोमयुक्ताः परिवत्सरीणं सांवत्सरिकं गवामयनिकं ब्रह्म
+> स्तुतशस्रात्मकं कृण्णंतः कुर्वंतो ब्राह्मणासः । लुप्तोपममेतत् । ब्राह्मणा इव
+> वाचं शब्दमक्रत । अकृषतेमे मंडूकाः । अपि च घर्मिणो घर्मेण प्रवर्गेण
+> चरंतोऽध्वर्यवोऽध्वरस्य नेतार ऋत्विज इव सिष्टिदानाः स्विद्यद्गात्रा गुह्या
+> घर्मकाले बिलेऽभिगूढाः के चित् केचन मंडूका न संप्रति वृष्टौ सत्यामाविर्भवंति । जायंते ॥
+
+##### Gist of the bhāṣya
+
+सोमिनः (*sominaḥ*) means "connected with Soma". परिवत्सरीणं (*parivatsarīṇaṃ*) means annual, belonging to the Gavāmayana; ब्रह्म (*brahma*) is the stuti-śastra. The words ब्राह्मणासः (*brāhmaṇāsaḥ*) ("Brahmins who do this") contain an elided comparison: like Brahmins these frogs have made (अक्रत (*akrata*)) a वाचं (*vācaṃ*), a sound. Moreover, घर्मिणः (*gharmiṇaḥ*) are those who go about with the gharma, the Pravargya; like adhvaryus, the leading priests of the sacrifice, sweating (सिस्विदानाः (*sisvidānāḥ*), with perspiring limbs), some frogs (के चित् (*ke cit*)) that were hidden (गुह्याः (*guhyāḥ*)) in burrows in the hot season, now, when rain has come, appear (आविर्भवंति (*āvirbhavaṃti*)), that is, are born.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमिनः (*sominaḥ*)—those connected with Soma
+- परिवत्सरीणं (*parivatsarīṇaṃ*)—relating to the Gavāmayana
+- ब्रह्म (*brahma*)—the śastra mantras
+- कृण्वंतः (*kṛṇvaṃtaḥ*)—reciting
+- ब्राह्मणासः (*brāhmaṇāsaḥ*)—like Brahmins
+- वाचं (*vācaṃ*)—sound
+- अक्रत (*akrata*)—these frogs make
+- घर्मिणः (*gharmiṇaḥ*)—going about in the Pravargya sacrifice
+- अध्वरुवः (*adhvaruvaḥ*)—like adhvaryus
+- सिस्विदानाः (*sisvidānāḥ*)—sweating, with bodies that have undergone toil
+- गुह्याः (*guhyāḥ*)—hiding in burrows in the summer
+- के चित् (*ke cit*)—some frogs
+- न (*na*)—in this rainy season
+- आविर्भवंति (*āvirbhavaṃti*)—appear outside
+
+##### भावार्थ (Bhāvārtha)
+
+These frogs make sound like Brahmins who are connected with Soma and recite the śastra mantras of the Gavāmayana. Some of the frogs, which, like adhvaryus moving about in the Pravargya sacrifice, had sweated and become wearied in body, and hidden in burrows in summer, now come out and appear in this rainy season.
+
+##### English translation
+They utter a loud cry, Like Brahmans when bearing the Soma libation, and reciting the perennial prayer : like ministrant priests with the gharma offering, they hid (in the hot weather) perspiring (in their holes), but now some of them appear.
+
+### Printed p. 238
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वहि॑तिं जुगुपुद्र्वाद॒शस्य॑ ऋ॒तुं नरो॒ न प्र मि॑नंत्ये॒ते ।  
+> सं॒व॒त्स॒रे प्रा॒वृष्ट्याग॑तायां त॒प्ता घ॒र्मा अ॑श्नुवते विस॒र्ग० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवहितिं । जगुपुः । द्वादशस्य । ऋतुं । नरः । न । प्र । मिनंति । एते ।  
+> संवत्सरे । प्रावृषि । आगतायां । तप्ताः । घर्माः । अश्नुवते । विसर्गं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरो नेतार एते मंडूका देवहितिं देवैः कृतं विधानमस्यर्तोरयं
+> धर्म इत्येवंरूपं जुगुपुः । गोपायंति । काले काले रक्षंति । अत एव द्वादशस्य
+> द्वादशमासात्मकस्य संवत्सरस्यर्तुं तं तं वसंतादिकं न प्र मिनंति । न हिंसंति ।
+> पर्जन्यस्तु तेरनुमोदनेन तत्तत्काले वृष्टिहेतवो भवंतीत्यर्थः । संवत्सरे संपूर्णे प्रावृषि वर्षर्तानागतायामागते सति घर्माः पूर्वं घर्मकाले वर्तमानास्तप्तास्तापेन पीडिताः संप्रति विसर्गं विसर्जनं बिलान्नोचनमश्नुवते। प्राप्न्नुवंति॥
+
+##### Gist of the bhāṣya
+
+These नरः (*naraḥ*), leaders, the frogs, guard (जुगुपुः (*jugupuḥ*)) the देवहितिं (*devahitiṃ*), the ordinance made by the gods, namely "this is the law of this season"; they protect it in season after season. Therefore they do not violate (न प्र मिनंति (*na pra minaṃti*), do not injure) the season (ऋतुं (*ṛtuṃ*)), spring and the rest, of the year of twelve months (द्वादशस्य (*dvādaśasya*)). Parjanya, however, with their approval becomes the cause of rain in the proper season **NOTE**. When the year has come full circle and the rains (प्रावृषि (*prāvṛṣi*)) have arrived, the घर्माः (*gharmāḥ*), those that were before in the hot season and tormented by heat (तप्ताः (*taptāḥ*)), now obtain विसर्गं (*visargaṃ*), release, emergence from their holes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—leaders
+- एते (*ete*)—these frogs
+- देवहितिं (*devahitiṃ*)—the ṛtu and other laws ordained by the gods
+- जुगुपुः (*jugupuḥ*)—guard
+- द्वादशस्य (*dvādaśasya*)—of the year of twelve months
+- ऋतुं (*ṛtuṃ*)—the rule
+- न प्र मिनंति (*na pra minaṃti*)—do not transgress
+- संवत्सरे (*saṃvatsare*)—the revolution of the year being complete
+- प्रावृषि (*prāvṛṣi*)—the rainy season
+- आगतायां (*āgatāyāṃ*)—when it has begun
+- घर्माः (*gharmāḥ*)—having been before this in the summer
+- तप्ताः (*taptāḥ*)—tormented by that heat (now)
+- विसर्गं (*visargaṃ*)—release from the heat
+- अश्नुवते (*aśnuvate*)—obtain
+
+##### भावार्थ (Bhāvārtha)
+
+These frogs, the leaders, guard the laws of the seasons ordained by the gods. They do not transgress the seasonal rules of the year of twelve months. When the revolution of the year is complete
+
+### Printed p. 239
+and the rainy season begins again, the frogs that were before tormented by the summer heat now obtain release from the heat.
+
+##### English translation
+These leaders of rites observe the institutes of the gods, and disregard not the (appropriate) season of the twelvemonth; as the year revolves, and the rains return, then, scorched and heated, they obtain freedom (from their hiding-places).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोमा॑युरदाद॒जमा॑युरदा॒त्पृश्न॑रदा॒द्धरि॑तो नो॒ वसू॑नि।  
+> गवां॑ मं॒डूका॒ दद॑तः श॒तानि॑ सहस्रसा॒वे प्र ति॑रंत॒ आयुः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽमायुः । आदात् । अजऽमायुः । आदात् । पृश्निः । आदात् । हरितः । नः ।  
+> वसूनि ।  
+> गवां । मंडूकाः । ददतः । शतानि । सहस्रसावे । प्र । तिरंते । आयुः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गोमायुर्गॊरिव मायुः शब्दो यस्य तादृशो मंडूको वसूनि
+> धनानि नोऽस्मभ्यमदात् । ददातु । अजमायुश्चादात् । ददातु । हरितो हरितवर्णश्चादात् । ददातु । पृश्निः पृश्निवर्णश्चादात् । ददातु । तथा सहस्रसावे सहस्रसंख्याका ओषधयः सूयंत उत्पद्यंत इति वर्षर्तुः सहस्रसावः । तस्मिन् सति सर्वे
+> मंडूका गवां शतान्यपरिमिता गा ददतोऽस्मभ्यं प्रयच्छंत आयुर्जीवनं प्र
+> तिरंते । प्रवर्धयंतु ॥
+
+##### Gist of the bhāṣya
+
+May the frog गोमायुः (*gomāyuḥ*), whose cry is like a cow's, give (अदात् (*adāt*), "let him give") us (नः (*naḥ*)) riches (वसूनि (*vasūni*)). May अजमायुः (*ajamāyuḥ*) give, and the green हरितः (*haritaḥ*) give, and the speckled पृश्निः (*pṛśniḥ*) give. Likewise सहस्रसावे (*sahasrasāve*): the rainy season is called सहस्रसावः (*sahasrasāvaḥ*) because in it thousands of plants are brought forth (सूयंत (*sūyaṃta*)), arise. When that season is present, may all the frogs give us hundreds of cows, countless in number, and prolong (प्र तिरंते (*pra tiraṃte*), "let them increase") our life (आयुः (*āyuḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोमायुः (*gomāyuḥ*)—the frog that cries like a cow
+- नः (*naḥ*)—to us
+- वसूनि (*vasūni*)—riches
+- अदात् (*adāt*)—may he give
+- अजमायुः (*ajamāyuḥ*)—the frog that cries like a goat
+- अदात् (*adāt*)—may he give us riches
+- पृश्निः (*pṛśniḥ*)—the frog that has variety of colours
+- हरितः (*haritaḥ*)—
+
 ---
 
-**Progress note:** Done through printed p. 233. pp. 227-233 (batch API)
+**Progress note:** Done through printed p. 239. pp. 234-239 (batch API)
