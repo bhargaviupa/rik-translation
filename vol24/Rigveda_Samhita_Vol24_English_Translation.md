@@ -1578,6 +1578,289 @@ O Aśvins, showerers, viśvapsu: psu is a word for form; having manifold forms, 
 - शाभिः (*śābhiḥ*)—with all those protections
 - आ गतं (*ā gataṃ*)—graciously come
 
+### Printed p. 37
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, causers of rain, come with those same protections towards my praise, which has manifold forms and is dear to all. O leaders of the rite, desirous of oblations, liberal givers of wealth, attaining manifold manifestation, O Aśvin gods, with whatever protections you made the well grow and protected Vandana, with all those same protections graciously come.
+
+##### English translation
+Then, showerers, come to my manifold all-propitiating invocation
+with those (protections), with which, leaders (of rites), you, who are
+gratified (by oblation), munificent (in gifts), and the overcomers of
+numerous (foes), gave augmentation to the well ; with such (protections)
+come hither.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तावि॒दा चि॒दहा॑नां॒ ताव॒श्विना॒ वंद॑मान॒ उप॑ ब्रुवे ।  
+> ता ऊ॒ नमो॑भिरीमहे ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शौ । इदा । चित् । अहानां । शौ । अश्विना । वंदमानः । उप । ब्रुवे ।  
+> शौ । ऊं इति । नमःभिः । ईमहे ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तौ संग्राम आयुधानि स्तोतृभ्यो धनानि वा विस्तारयंतौ पूर्वोक्तावश्विनाश्विनावहानामह्नामिदा चिदिदानीमेव प्रातःकाले वंदमानोऽभिवादनं
+> कुर्वन् सन्नुप ब्रुवे । तयोः समीपे सौमि । ततस्ता उ तावेव नमोभिर्हविर्भिः
+> स्तोत्रैर्वेमहे । वयं धनादिकं याचामहे ॥
+
+##### Gist of the bhāṣya
+
+Those two previously mentioned Aśvins, who spread out weapons in battle or riches for the praisers: at this very time of the day, that is, in the morning, I, offering homage, address them, sitting near them. Then, with oblations and with praises, we call just those two; we ask for riches and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—the well-known
+- ता (*tā*)—possessing the qualities described before
+- अश्विना (*aśvinā*)—the Aśvin gods
+- अहानां (*ahānāṃ*)—of the day
+- इदा चित् (*idā cit*)—at this very time, that is, in the morning
+
+### Printed p. 38
+
+- वंदमानः (*vaṃdamānaḥ*)—saluting
+- उप ब्रुवे (*upa bruve*)—sitting near them, I praise
+- ता उ (*tā u*)—those very Aśvin gods
+- नमोभिः (*namobhiḥ*)—with salutations
+- ईमहे (*īmahe*)—I ask for riches and the like
+
+##### भावार्थ (Bhāvārtha)
+
+The Aśvin gods, who have the qualities described before and are well known, I praise in this very morning of the day, saluting them and sitting near them. Those very Aśvin gods I ask for riches and the like.
+
+##### English translation
+I address the Aswins, glorifying them at break of day; we solicit
+them with oblations.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताविद्दो॒षा ता उ॒षसि॑ शु॒भस्पती॒ ता याम॑नु॒द्रव॑र्तनी ।  
+> मा नो॒ मर्ता॑य रि॒पवे॑ वाजिनीवसू प॒रो रु॑द्रा॒वति॑ ख्यतं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । इत् । दोषा । ता । उषसि । शुभः । पती इति । ता । यामन् । रुद्रवर्तनी इति  
+> रुद्रवर्तनी ।  
+> मा । नः । मर्ताय । रिपवे । वाजिनीवसू इति वाजिनीवसू । परः । रुद्रौ । अति ।  
+> ख्यातं ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुभस्पती उदकस्य पालयितार् रुद्रवर्तनी युद्धे रोदनशीलमार्गौ
+> सूयमानमार्गौ वा तावित्तावेवाश्विनौ दोषा दोषायां रात्र्य तावेवोषस्युषःकाले तावश्विनौ यामन्यामन्यहनि च सर्वेषु कालेषु वयमश्विनावाह्वयामः । एवं सति वाजनीवसू अन्नधन् रुद्रौ हे अश्विनौ मर्ताय मनुष्याय
+> रिपवे शत्रवे नोऽस्मत्परः परस्तान्माति ख्यतं । मा ब्रूतं । शत्रवेऽस्मान्मा
+> कुरुतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those two Aśvins are lords of water, and their paths in battle are paths of weeping, or paths that are praised. Just those two Aśvins we call by night, at dawn, and on every day and at all times. This being so, O Aśvins, Rudras rich in food, do not hand us over to a mortal enemy; the sense is: do not make us belong to the enemy. **NOTE**
+
+### Printed p. 39
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभस्पती (*śubhaspatī*)—protectors of water
+- रुद्रवर्तनी (*rudravartanī*)—who range over the battlefield full of weeping
+- तानित् (*tānit*)—those very Aśvin gods
+- दोषा (*doṣā*)—also in the night
+- ता (*tā*)—them
+- उषसि (*uṣasi*)—also at dawn
+- ता (*tā*)—them
+- यामन् (*yāman*)—also in the remaining (middle) time of the day, we pray and call
+- वाजिनीवसू (*vājinīvasū*)—possessing wealth in the form of food
+- रुद्रौ (*rudrau*)—O Aśvin gods
+- मर्ताय (*martāya*)—to the human
+- रिपवे (*ripave*)—enemy
+- नः (*naḥ*)—us
+- परः (*paraḥ*)—so that we become dependent on him
+- मा अति ख्यतं (*mā ati khyataṃ*)—do not give up
+
+##### भावार्थ (Bhāvārtha)
+
+The Aśvin gods, protectors of water, who range over the battlefield full of weeping, we pray and call by night, those same at dawn, and those same at the middle time of the day. O Aśvin gods, possessing wealth in the form of food, do not give us up to the enemy in human form, so that we become dependent on him.
+
+##### English translation
+We adore those lords of water, leaders on the road of battle, in the evening, at dawn, and at mid-day; therefore, Rudras who are rich in food, give us not up hereafter to a mortal adversary.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सुग्म्या॑य॒ सुग्म्यं॑ प्रा॒ता रथे॑ना॒श्विना॑ वा स॒क्षणी॑ ।  
+> हु॒वे पि॒तेव॒ सोभ॑री ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सुग्म्याय । सुग्म्यं । प्रातरिति । रथेन । अश्विना । वा । सक्षणी इति ।  
+> हुवे । पिताइव । सोभरी ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वापि च सक्षणी सेवनीयशीलावश्विनाश्विन् युवां सुग्म्याय सुखार्हाय
+> मह्यं सुग्म्यं सुखं प्रातःकाले रथेनावहतं । ततः सोभरी सोभरिरहर
+
+##### Gist of the bhāṣya
+
+Or else, O Aśvins, of a nature to be served, you bring to me, who am worthy of happiness, happiness in the morning by chariot. Then Sobhari **NOTE**
+
+### Printed p. 40
+
+> हुवे । युवामाह्वयामि । तत्र दृष्टांतः ! पितेव यथा मम पिताजुहाव
+> तद्वदहमाह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+I call you. An example is given: as my father called you, so I call. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वा (*vā*)—and
+- सक्षणी (*sakṣaṇī*)—of adorable nature
+- अश्विना (*aśvinā*)—O Aśvin gods
+- सुग्म्याय (*sugmyāya*)—to me, who am worthy of happiness
+- सुग्मं (*sugmaṃ*)—happiness
+- प्रातः (*prātaḥ*)—in this morning
+- रथेन आ (*rathena ā*)—bring in your chariot
+- पितेव (*piteva*)—just as our father praised you
+- सोभरी (*sobharī*)—I, named Sobhari
+- हुवे (*huve*)—praise and call you
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods of adorable nature, bring happiness to me, who am worthy of happiness, in this morning in your chariot. Just as our father praised you, I, named Sobhari, praise and call you.
+
+##### English translation
+Adorable Aswins, bring in your chariot at early dawn, happiness to
+me, soliciting happiness : I Sobhari, invoke you as (did my) father-
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनो॑जवसा वृषणा मदच्युता मक्षुंग॒माभि॑रू॒तिभिः॑ ।  
+> आ॒रात्ता॑च्चिद्भूतम॒स्मे अव॑से पू॒र्विभिः॑ पुरुभोजसा ॥ १६ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मनःजवसा । वृषणा । मदच्युता । मक्षुंगमाभिः । ऊतिभिः ।  
+> आरात्तात् । चित् । भूतं । अस्मे इति । अवसे । पूर्विभिः । पुरुभोजसा ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मनोजवसा मनोवच्छीघ्रं गच्छंतौ वृषणा वृषणौ धनानां वर्षितारौ
+> मदच्युता । माद्यंतीति मदाः शत्रवः । तेषां च्यावयितारौ पुरुभोजसा
+> बहूनां भोक्तारौ रक्षकौ यद्वा बहून् स्तोत्थन् धनादिभिर्भोजयंतौ
+> हे अश्विन् मक्षुंगमाभिः शीघ्रं गच्छद्भिरूतिभी रक्षाभिः पूर्विभिर्बहुभिस्मे
+> अस्माकमवसे रक्षणायारात्तादंतिक एव भूतं । भवतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, going swiftly like the mind, showerers of riches; madacyutā: the mādas are enemies, who become intoxicated, and you make them fall; purubhojasā: enjoyers or protectors of many, or those who cause many praisers to enjoy through riches and the like. With your swift-going protections, which are many, be near, just near, for our protection. **NOTE**
+
+### Printed p. 41
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनोजवसा (*manojavasā*)—swift as the speed of thought
+- वृषणा (*vṛṣaṇā*)—showerers of desires
+- मदच्युता (*madacyutā*)—destroyers of the arrogance of enemies
+- पुरुभोजसा (*purubhojasā*)—protectors of many devotees, O Aśvin gods
+- मक्षुंगमाभिः (*makṣuṃgamābhiḥ*)—which approach us quickly
+- पूर्विभिः (*pūrvibhiḥ*)—and are many in number
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- अस्मे (*asme*)—our
+- अवसे (*avase*)—for protection
+- आरात्ताच्चित् (*ārāttāccit*)—very near
+- भूतं (*bhūtaṃ*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, swift as the speed of thought, showerers of desires, destroyers of the arrogance of enemies, protectors of many devotees, be very near us for our protection, with protections that approach us quickly and are many in number.
+
+##### English translation
+(Asvins), who are swift as thought, the showerers:(of benefits)
+prostrators of thc arrogant, the givers of enjoyment to many, be ever nigh
+unto us, for our security, with many and prompt protection.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ अश्वा॑नदश्विना व॒र्तिया॑सिष्टं मधुपातमा नरा ।  
+> गोम॑द्दस्रा॒ हिर॑ण्यवत् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । अश्ववत् । आश्विना । वर्तिः । यासिष्टं । मध्पुपातमा । नरा ।  
+> गोऽमत् । दस्रा । हिरण्यवत् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मधुपातमातिशयेन मधोः सोमस्य पातारौ नरा नेतारौ दस्रा
+> सर्वैर्दर्शनीयौ हे अश्विनौ नोऽस्माकं वर्तिः । वर्तंतेऽत्रेति वर्तिर्गृहं ।
+> तदश्वावदश्वयुक्तं गोमद्गवादियुक्तं हिरण्यवत्सुवर्णकनकादियुक्तं कृत्वा आ
+> यासिष्टं । आगच्छतं । यद्वा । आस्मान्प्रति वर्तियज्ञमार्गमश्वादियुक्तं
+> कृत्वागच्छतं ॥ यातेर्लुजि रूपं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, supreme drinkers of the honey, that is Soma, leaders, to be seen by all: our house is called a place where people dwell. Making it provided with horses, with cattle and with gold and the like, come. Or else: come to us, making the path of the sacrifice provided with horses and the like.
+
+### Printed p. 42
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुपातमा (*madhupātamā*)—drinkers of the exceedingly sweet Soma
+- नरा (*narā*)—leaders
+- दस्रा (*dasrā*)—of attractive form
+- अश्विना (*aśvinā*)—O Aśvin gods
+- नः (*naḥ*)—our
+- वर्तिः (*vartiḥ*)—house
+- आश्वावत् (*āśvāvat*)—provided with horses
+- गोमत् (*gomat*)—provided with cattle
+- हिरण्यवत् (*hiraṇyavat*)—provided with gold, making it so
+- आ यासिष्टं (*ā yāsiṣṭaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, drinkers of the exceedingly sweet Soma juice, leaders, of attractive form, come here, making our house provided with horses, with cattle and with gold.
+
+##### English translation
+Aswins, of goodly aspect, leaders (of rites), deep drinkers of the
+Soma juice, come to our dwelling, abounding with horses, with cattle
+with gold.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒प्रा॒व॒र्गं सु॒वीर्यं॑ सु॒ष्टु वार्य॒मना॑धृष्टं रक्ष॒स्विना॑ ।  
+> अ॒स्मिन्ना वा॑मा॒याने॑ वाजिनीवसू॒ विश्वा॑ वा॒मानि॑ धीमहि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुप्रावर्गं । सुवीर्यं । सुष्टु । वार्यं । अनाधृष्टं । रक्षस्विना ।  
+> अस्मिन् । आ । वां । आयाने । वाजिनीवसू इति वाजिनीऽवसू । विश्वा । वामानि ।  
+> धीमहि ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुप्रावर्गं शोभनं प्रवर्जनं यस्य तत् । स्तोतृभ्यः स्वयमेव
+> प्रयच्छतीत्यर्थः । तथाविधं सुवीर्यं शोभनवीर्यं सुष्टु शोभनं यथा
+> भवति तथा वार्यं सर्वैर्वणीयं रक्षस्विना बलवताप्यनाधृष्टमनभिभवनीयं
+> धनमा धीमहि । त्वत्तो वयं धारयामः । तदेवाह । वाजिनीवसू बलयुक्त-
+
+##### Gist of the bhāṣya
+
+Supravargam: that whose giving is good, that is, which it gives of itself to the praisers. Of that kind, suvīryam: of good strength; suṣṭu: so that it is good; vāryam: to be chosen by all; anādhṛṣṭam: unassailable even by the mighty. Such wealth we take up; we hold it from you. That very thing he says: vājinīvasū, endowed with strength
+
 ---
 
-**Progress note:** Done through printed p. 36. pp. 31-36: Sukta 22 Rk 7-12 (Rk 12 pratipadartha)
+**Progress note:** Done through printed p. 42. Sukta 22 Rk 12 end, Rk 13-18
