@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-"""Sāyaṇa-bhāṣya book from the Wikisource text (experiment, Vol 11): units, task files, English check, document.
+"""Sāyaṇa-bhāṣya book from the Wikisource text, for every maṇḍala: units, task files, English check, queue, document.
 
     python3 tools/rv/wsbook.py units M S          # the numbered units of a sūkta (what the translator renders)
-    python3 tools/rv/wsbook.py task M S           # writes vol<N>/sayana_book/task/M<m>_S<sss>.md, prints its path
-    python3 tools/rv/wsbook.py check M S          # checks vol<N>/sayana_book/en/M<m>_S<sss>.md against the units
-    python3 tools/rv/wsbook.py build VOL          # writes vol<VOL>/Rigveda_Samhita_Vol<VOL>_Sayana_Bhashya.md
+    python3 tools/rv/wsbook.py task M S           # writes sayana_book/task/M<m>_S<sss>.md, prints its path
+    python3 tools/rv/wsbook.py check M S          # checks sayana_book/en/M<m>_S<sss>.md against the units
+    python3 tools/rv/wsbook.py queue [GROUPS [WORDS]]   # the next sūktas still without verified English, grouped for translators
+    python3 tools/rv/wsbook.py build VOL          # writes vol<VOL>/Rigveda_Samhita_Vol<VOL>_Sayana_Bhashya.md (a volume's own sūktas)
 
-Source: refs/wikisource/M<mm>_S<sss>.json (tools/rv/wikisource_sayana.py). Nothing is corrected.
+Source: refs/wikisource/index/ws.sqlite (tools/rv/ws_index.py; rebuild it first on a new checkout). M = 0 is Sāyaṇa's Ṛgveda-bhāṣya-bhūmikā
+(his general introduction) in four parts S = 1–4; its "Ṛks" are the printed pages 89–137 of the compilation edition. Nothing is corrected.
 
 REFERENCE NUMBERS. Every unit has one: SBh M.S.R.U = Sāyaṇa-bhāṣya, maṇḍala M, sūkta S, Ṛk R (0 = Sāyaṇa's
 introduction to the sūkta), unit U in Sāyaṇa's order within it. A Ṛk's reference is SBh M.S.R. The volumes cite
@@ -31,12 +33,28 @@ import bhashya_check as bc                        # form rules of the older read
 from add_iast import deva_to_iast
 
 WS = ROOT / 'refs' / 'wikisource'
+SB = ROOT / 'sayana_book'
+DB = WS / 'index' / 'ws.sqlite'
 USE = re.compile('सूत्रितं|इत्येषा|इत्यृच|सवने|शस्त्रे|याज्या|पशौ|प्रस्थित|षष्ठेऽहनि|सोमातिरेके')
 SQ = bc.SQUEEZE
 
 
 def load(m, s):
-    return json.loads((WS / f'M{int(m):02d}_S{int(s):03d}.json').read_text(encoding='utf-8'))
+    """{'revision', 'intro', 'rks': [{'n', 'samhita', 'pada', 'bhashya'}]} from the index. For m = 0 the "Ṛks" are printed pages."""
+    import sqlite3
+    if not DB.exists():
+        sys.exit('no index: run  python3 tools/rv/ws_index.py build')
+    con = sqlite3.connect(DB)
+    row = con.execute('select revid from sukta where m=? and s=?', (m, s)).fetchone()
+    if not row: sys.exit(f'{m}.{s}: not in the index')
+    paras = {}
+    for r, d in con.execute('select r, deva from para where m=? and s=? order by r, p', (m, s)):
+        paras.setdefault(r, []).append(d)
+    if m == 0:
+        return {'revision': row[0], 'intro': '', 'rks': [{'n': r, 'samhita': '', 'pada': '', 'bhashya': '\n'.join(v)} for r, v in sorted(paras.items())]}
+    rks = [{'n': r, 'samhita': a or b, 'pada': pl or '', 'bhashya': '\n'.join(paras.get(r, []))}
+           for r, a, b, pl in con.execute('select r, samhita_acc, samhita, pada from rik where m=? and s=? order by r', (m, s))]
+    return {'revision': row[0], 'intro': '\n'.join(paras.get(0, [])), 'rks': rks}
 
 
 def cut(par):
@@ -85,7 +103,7 @@ def units_v1(m, s):
         pars = [p for p in r['bhashya'].split('\n') if p.strip()]
         own, nxt, flag = [], [], False
         for i, p in enumerate(pars):
-            if i > 0 and (flag or USE.search(p)) and r['n'] < d['rks'][-1]['n']:
+            if m != 0 and i > 0 and (flag or USE.search(p)) and r['n'] < d['rks'][-1]['n']:
                 flag = True; nxt.append(p)
             else:
                 own.append(p)
@@ -136,62 +154,34 @@ def units(m, s):
     return [(r, n, u) for r, n, u, _ in regroup(us)], moved, d
 
 
-def cmd_regroup(m, s):
-    """One-off: bring an English file written for the first cut over to the sentence-end units, by joining the
-    sections that were joined in the Sanskrit (nothing else changes)."""
-    vol = volume_for(m, s)
-    us1, _, _ = units_v1(m, s)
-    grp = regroup(us1)
-    _, ep = paths(m, s, vol)
-    pre, got = read_en(ep)
-    have = dict(got)
-    if [h for h, _ in got] == [f'SBh {g[0]}' for g in grp]:
-        print(f'{m}.{s}: already in the sentence-end units'); return 0
-    out = []
-    for ref, n, u, olds in grp:
-        parts = [have[f'SBh {o}'] for o in olds]
-        out.append(f'## SBh {ref}\n\n' + '\n\n'.join(parts) + '\n')
-    ep.write_text('\n'.join(out), encoding='utf-8')
-    print(f'{m}.{s}: {len(got)} sections → {len(grp)}')
-    return 0
-
-
-def vol_of(m):
-    return {1: None}.get(m)
-
-
 def volume_for(m, s):
+    """The volume whose English file has this sūkta (only the volume document needs it)."""
     for v in sorted(ROOT.glob('vol*/volcfg.json')):
         c = json.loads(v.read_text(encoding='utf-8'))
-        if m in c.get('mandalas', []) and (WS / f'M{m:02d}_S{s:03d}.json').exists():
-            lo = re.search(r'Sūkta (\d+) ', (ROOT / c['out']['en']).read_text(encoding='utf-8')) if (ROOT / c['out']['en']).exists() else None
-            txt = (ROOT / c['out']['en']).read_text(encoding='utf-8') if (ROOT / c['out']['en']).exists() else ''
-            if re.search(rf'^## Sūkta {s} ', txt, flags=re.M):
-                return c['vol']
+        f = ROOT / c.get('out', {}).get('en', '')
+        if m in c.get('mandalas', []) and f.is_file() and re.search(rf'^## Sūkta {s} ', f.read_text(encoding='utf-8'), flags=re.M):
+            return c['vol']
     return None
 
 
-def paths(m, s, vol):
-    b = ROOT / f'vol{vol}' / 'sayana_book'
-    return b / 'task' / f'M{m}_S{s:03d}.md', b / 'en' / f'M{m}_S{s:03d}.md'
+def paths(m, s, vol=None):
+    return SB / 'task' / f'M{m}_S{s:03d}.md', SB / 'en' / f'M{m}_S{s:03d}.md'
 
 
 def cmd_task(m, s):
-    vol = volume_for(m, s)
-    if vol is None:
-        sys.exit(f'{m}.{s}: no volume has this sūkta')
     us, moved, d = units(m, s)
-    tp, ep = paths(m, s, vol)
+    tp, ep = paths(m, s)
     tp.parent.mkdir(parents=True, exist_ok=True)
-    L = [f'# Task: English of Sāyaṇa\'s bhāṣya on {m}.{s} (volume {vol}); text of sa.wikisource.org rev. {d["revision"]}', '',
+    what = 'the Ṛgveda-bhāṣya-bhūmikā, part ' + str(s) + ' (printed pages ' + str(min(r['n'] for r in d['rks'])) + '–' + str(max(r['n'] for r in d['rks'])) + '; each "Ṛk" below is a printed page)' if m == 0 else f'{m}.{s}'
+    L = [f'# Task: English of Sāyaṇa\'s bhāṣya on {what}; text of sa.wikisource.org rev. {d["revision"]}', '',
          f'Write your English to `{ep.relative_to(ROOT)}` — one section `## SBh M.S.R.U` for each unit below, in this order, '
          'nothing else (rules: tools/rv/BHASHYA_BRIEF.md 1, 2, 4, 5, 6, 8 and docs/WSBOOK_BRIEF.md).', '']
     byn = {}
     for r in us: byn.setdefault(r[1], []).append(r)
     rks = {r['n']: r for r in d['rks']}
     for n in sorted(byn):
-        L.append(f'## {"Introduction" if n == 0 else "Ṛk " + str(n)}')
-        if n:
+        L.append(f'## {"Introduction" if n == 0 and m else ("Page " + str(n)) if m == 0 else "Ṛk " + str(n)}')
+        if n and m:
             L += ['', '> Saṃhitā: ' + rks[n]['samhita'].replace('\n', ' / '), '> Pada: ' + rks[n]['pada'].replace('\n', ' / ')]
         for ref, _, u in byn[n]:
             L += ['', f'### SBh {ref}', '', '> ' + u]
@@ -218,9 +208,8 @@ def read_en(path):
 
 
 def check(m, s, quiet=False):
-    vol = volume_for(m, s)
     us, _, _ = units(m, s)
-    _, ep = paths(m, s, vol)
+    _, ep = paths(m, s)
     if not ep.exists():
         print(f'{m}.{s}: no English file yet ({ep.relative_to(ROOT)})'); return 2
     pre, got = read_en(ep)
@@ -279,14 +268,14 @@ def volume_pages(vol):
 def cmd_build(vol):
     c = json.loads((ROOT / f'vol{vol}' / 'volcfg.json').read_text(encoding='utf-8'))
     m = c['mandalas'][0]
-    ss = sorted(int(p.stem.split('_S')[1]) for p in WS.glob(f'M{m:02d}_S*.json') if volume_for(m, int(p.stem.split('_S')[1])) == vol)
     pg, spg = volume_pages(vol)
+    ss = sorted(spg)
     out, notes, moved_all, cover = [], [], [], []
     body = []
     for s in ss:
         us, moved, d = units(m, s)
         moved_all += moved
-        _, ep = paths(m, s, vol)
+        _, ep = paths(m, s)
         en = dict(read_en(ep)[1]) if ep.exists() else {}
         have = sum(1 for r in us if f'SBh {r[0]}' in en and en[f'SBh {r[0]}'].strip())
         cover.append((s, len(d['rks']), len(us), have, d['revision']))
@@ -338,16 +327,49 @@ def cmd_build(vol):
     return 0
 
 
+def cmd_queue(ngroups=6, maxwords=3000):
+    """Next sūktas (in order: the bhūmikā parts first, then maṇḍala 1…) whose English is missing or does not pass `check`, and that are not
+    listed in sayana_book/in_progress.txt (one "M S" per line, kept by the dispatcher). Grouped for translators up to MAXWORDS Sanskrit words."""
+    import sqlite3, io, contextlib
+    con = sqlite3.connect(DB)
+    busy = set()
+    f = SB / 'in_progress.txt'
+    if f.exists():
+        for l in f.read_text(encoding='utf-8').split('\n'):
+            if l.split(): busy.add(tuple(int(x) for x in l.split()[:2]))
+    allsk = con.execute('select m, s from sukta order by m, s').fetchall()
+    groups, cur, w = [], [], 0
+    for m, s in allsk:
+        if (m, s) in busy: continue
+        ep = paths(m, s)[1]
+        if ep.exists():
+            with contextlib.redirect_stdout(io.StringIO()) as buf:
+                rc = check(m, s)
+            if rc == 0: continue
+        nw = sum(len(x[2].split()) for x in units(m, s)[0])
+        if cur and (w + nw > maxwords or cur[-1][0] != m):
+            groups.append((cur, w)); cur, w = [], 0
+            if len(groups) >= ngroups: break
+        cur.append((m, s)); w += nw
+    else:
+        if cur: groups.append((cur, w))
+    for g, w in groups[:ngroups]:
+        print(' '.join(f'{m}.{s}' for m, s in g), f'  ({w} Sanskrit words)')
+    return 0
+
+
 def main(a):
+    if not a: sys.exit(__doc__)
+    if a[0] == 'queue': return cmd_queue(*(int(x) for x in a[1:3]))
     if len(a) < 2: sys.exit(__doc__)
     if a[0] == 'build': return cmd_build(int(a[1]))
+    if a[0] == 'queue': return cmd_queue(*(int(x) for x in a[1:3]))
     m, s = int(a[1]), int(a[2])
     if a[0] == 'units':
         us, moved, _ = units(m, s)
         for r in us: print(f'SBh {r[0]}  ({len(r[2].split())} words)  {r[2][:110]}')
         print(f'{len(us)} units; moved: {moved}'); return 0
     if a[0] == 'task': return cmd_task(m, s)
-    if a[0] == 'regroup': return cmd_regroup(m, s)
     if a[0] == 'check': return check(m, s)
     sys.exit(__doc__)
 
