@@ -1201,6 +1201,280 @@ O Indra and Varuṇa, with the weapons that kill you were slaying the enemy name
 
 O Indra and Varuṇa, you who struck with weapons that serve for killing Bheda, the enemy of Sudāsa, who could not be defeated without your help, protected the king named Sudāsa fully. In battle you heard the praises of the Tṛttu people; therefore my priestly office for these Tṛttus, the sacrificers, became one bearing true fruit.
 
+### Printed p. 31
+
+##### English translation
+Indra and Varuna, you protected Sudas, overwhelming the yet unassailed Bheda with your fatal weapons: hear the prayers of these Tritsus in time of battle, so that my ministration may have borne them fruit.
+
+##### विशेषविषयगळु (Special Topics)
+
+Tṛtsus, Bheda—We have written at length about the Tṛtsus and the king Bheda in Ṛ. Saṃ. Part 21, in the introduction to Sūkta 18 of Maṇḍala 7. Or see what has been written on this subject in the Special Topics of Ṛk 6 of this same sūkta.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑वरुणाव॒भ्या त॑पंति मा॒घान्य॒र्यो व॒नुषा॒मरा॑तयः।  
+> यु॒वं हि वस्व॑ उ॒भय॑स्य॒ राज॒थोऽध॑ स्मा नोऽवतं॒ पार्ये॑  ॒
+> दिवि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रावरुणौ । अभि । आ । तपंति । मा । अघानि । अर्यः । वनुषां । अरातयः ।  
+> युवं । हि । वस्वः । उभयस्य । राजथः । अध । स्म । नः । अवतं । पार्ये । दिवि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ आर्योऽरेः शत्रोः संबंधीन्यघान्याहंत्यण्यायुधानि मा
+> मामभ्या तपंति । अभितो बाधंते । अपि च वनुषां हिंसकानां मध्येऽरातयोऽभिगमनशीलाः शत्रवश्च मामभितपंति । युवं हि युवां खलूभयस्य पार्थिवस्य
+> दिव्यस्य वसो वसुनो धनस्य राजथः । ईशाथे । राजतिरैश्वर्यकर्मा । अध स्मातः
+> कारणात् पार्ये तरणीये दिवि दिवसे युद्धदिने नोऽस्मानवतं । रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra and Varuṇa. The weapons (अघानि (*aghāni*), "that which strikes") belonging to the enemy अर्यः (*aryaḥ*) (the foe) afflict me on every side. Moreover, among the harmful (वनुषां (*vanuṣāṃ*)) the hostile attackers (अरातयः (*arātayaḥ*), those who come against one) also afflict me. You two are lords (राजथः (*rājathaḥ*), "you rule"; the root राजति (*rājati*) denotes lordship) over the wealth of both kinds, earthly and heavenly. Therefore, on the day of battle, the day that has to be got across, protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- आर्यः (*āryaḥ*)—belonging to the enemy
+- अघानि (*aghāni*)—weapons
+- मा (*mā*)—me
+- अभ्यातपंति (*abhyātapaṃti*)—afflict completely
+
+### Printed p. 32
+- वनुषां (*vanuṣāṃ*)—among the harmful enemies
+- अरातयः (*arātayaḥ*)—enemies who fall upon (me) afflict me
+- युवं हि (*yuvaṃ hi*)—you, however
+- उभयस्य (*ubhayasya*)—of both heaven and earth
+- वस्वः (*vasvaḥ*)—of the wealth
+- राजथः (*rājathaḥ*)—you are lords
+- अध स्म (*adha sma*)—therefore
+- पार्ये (*pārye*)—in which hardship is to be crossed
+- दिवि (*divi*)—on this day of battle
+- नः (*naḥ*)—us
+- अवतं (*avataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, the enemy's weapons afflict me completely. Those among the harmful enemies who fall upon me afflict me too. You, however, are lords of the wealth of both heaven and earth. On this day of battle, in which hardship has to be crossed, protect us.
+
+##### English translation
+Indra and Varuna, the murderous (weapons) of my enemy distress me : foes amongst the malignant (assail me): you two are sovereigns over both (celestial and terrestrial) wealth : protect us therefore on the day of battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+Divi—on the day, that is, on the day when the battle is going on. The battle here is the one that took place between Sudāsa and his enemies, the ten kings beginning with Śimyu. For the description of this battle, see what has been written in the Special Topics of Ṛk 6 of this same sūkta.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां ह॑वंत उ॒भया॑स आ॒जिष्विंद्रं॑ च॒ वस्वो॒ वरु॑णं च  ॒॑
+> सातये ।  
+> यत्र॒ राज॑भिर्द॒शभि॒र्निबा॑धितं॒ प्र सु॒दास॒माव॑तं॒ तृत्सु॑भिः स॒ह॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । हवंते । उभयासः । अजिषु । इंद्रं । च । वस्वः । वरुणं । च ।  
+> सातये ।  
+> यत्र । राजभिः । दशभिः । निबाधितं । प्र । सुदासं । आवतं । तृत्सुभिः । सह ॥
+
+### Printed p. 33
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उभयास उभयविधाः सुदाः संज्ञो राजा तत्सहायभूतास्तत्सवश्चैवं
+> द्विप्रकारा जना आजिषु संग्रामेष्ट्विंद्रं च वरुणं च युवां हवंते । आह्वयंते ।
+> किमर्थं । वस्वो धनस्य सातये संभजनार्थं । यत्र येष्वाजिषु दशभिर्दशसंख्याकै
+> राजभिः शत्रुभूतैनृपैन्रिबाधितं नितरां हिंसितं सुदासं तृप्सुभिः सह वर्तमानं
+> प्रावतं युवां प्रकर्षणारक्षतं । तेष्णाजिष्टित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+उभयासः (*ubhayāsaḥ*) means "of two kinds": the king named Sudās, and his helpers the Tṛtsus. People of these two kinds call upon (हवंते (*havaṃte*), "invite") you, Indra and Varuṇa, in battles. For what purpose? For the sharing (सातये (*sātaye*)) of wealth. The construction is "in those battles in which you protected Sudās, who was hard pressed by ten kings, hostile kings, together with the Tṛtsus, you protected him excellently" (प्रावतं (*prāvataṃ*), "protect forth").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra and Varuṇa) यत्र (*yatra*)—in which battles
+- दशभिः (*daśabhiḥ*)—by ten
+- राजभिः (*rājabhiḥ*)—by enemy kings
+- निबाधितं (*nibādhitaṃ*)—completely harassed
+- सुदासं (*sudāsaṃ*)—the king Sudāsa
+- तृत्सुभिः सह (*tṛtsubhiḥ saha*)—together with the Tṛtsus
+- प्र आवतं (*pra āvataṃ*)—you protected completely, in such
+- आजिषु (*ājiṣu*)—battles
+- उभयासः (*ubhayāsaḥ*)—all on the side of Sudāsa and of the Tṛtsus
+- इंद्रं च (*iṃdraṃ ca*)—Indra by name
+- वरुणं च (*varuṇaṃ ca*)—and Varuṇa by name
+- युवां (*yuvāṃ*)—you two alone
+- वस्वः (*vasvaḥ*)—of wealth
+- सातये (*sātaye*)—for the gain
+- हवंते (*havaṃte*)—invite with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, in those battles in which you protected completely, together with the Tṛtsus, the king Sudāsa who was completely harassed by ten enemy kings, in such battles all on the side of Sudāsa and the Tṛtsus invite you two, Indra and Varuṇa, with prayer, for the gain of wealth.
+
+##### English translation
+Both (Sudas and the Tritsus) call upon you two, (Indra and Varuna), in combats for the acquirement of wealth, when you defend Sudas, together with the Tritsus, when attacked by the ten Rajas.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next two Ṛks there is mention of the battle between the king Sudāsa and his enemies, the ten kings. This matter is also stated in Sūktas 18 and 33 of this same maṇḍala. It is necessary to give a detailed account of it here.
+
+At one time the king Sudāsa had to fight with ten kings who were his opponents: Śimyu, Turvaśa, Druhyu, Kavaṣa, Pūru, Anu, Bheda, Śambara, and two kings named Vaikarṇa, ten kings in all.
+
+### Printed p. 34
+This battle seems to have been very fierce and terrible. Sūkta 18 of this same maṇḍala describes how a people called the Tṛtsus helped Sudāsa in this battle, and how, as a result of this help, Sudāsa defeated the ten kings mentioned above. Besides, this battle is mentioned in Sūkta 33 of this same maṇḍala and in the present sūkta (83). It is understood that this battle took place on the bank of the river Paruṣṇī (in the Punjab). On Sudāsa's side the king Yadu is also said to have helped, bringing his followers, the peoples called the Matsyas, Sakthas, Bhalānas, Alinas, Viṣāṇins, Śivas, Ajas, Yakṣus and Śigrus. Another such battle is understood to have taken place on the bank of the river Yamunā with an enemy king called Bheda. This Bheda is understood to have been the leader of the Dasyu people, the earlier inhabitants of this country. The seer of this maṇḍala, Vasiṣṭha, must have had a special relationship with the king of the Tṛtsu people, and chiefly with Sudāsa. Vasiṣṭha may have been the priest of the king of the Tṛtsus. It is understood that Viśvāmitra had earlier been the priest of Sudāsa, king of the Tṛtsus, and that Viśvāmitra was with him when this king was fighting enemy kings in the river regions of the Vipāś (Beas) and the Śutudrī (Sutlej). But in the Aitareya Brāhmaṇa (Ai. Brā. 7-34-9) it is said that Sudāsa was a very famous king and that Vasiṣṭha was his priest. Since it is customary to call Sudāsa Paijavana, it may be said that he was the son or descendant of Pijavana, and the grandson of Divodāsa.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दश॒ राजा॑नः॒ समि॑ता॒ अय॑ज्यवः सु॒दास॑मिंद्रावरुणा॒ न  ॑
+> युयुधुः ।  
+> स॒त्या नृ॒णाम॑द्म॒सदा॒मुप॑स्तुतिर्दे॒वा ए॑षामभवन्दे॒वहू॑तिषु॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दश । राजानः । संइताः । अयज्यवः । सुदासं । इंद्रावरुणा । न । युयुधुः ।  
+> सत्या । नृणां । अद्मसदां । उपस्तुतिः । देवाः । एषां । अभवन् । देवहूतिषु॥
+
+### Printed p. 35
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ दशसंख्याका राजानः सुदासः शत्रवः समिताः संगताः परस्परं समवेता अयज्यवोऽयजमानाः एवंभूतास्ते सुदासमेतत्संज्ञमेकमपि
+> राजानं न युयुधुः । न संप्रजह्रुः । युवाभ्यामनुगृहीतं तं प्रहर्तुं न
+> शेकुः । तदानीमद्मदसां । अदम्यन्ने हविषि सीदंतीत्यद्मद ऋत्विजः । हविर्भियुक्तानां नृणां यज्ञस्य नेतृणामृत्तिजामुपस्तुतिः स्तोत्रं सत्या सफलाभूत् । अपि
+> चैषां देवहूतिषु । देवा हूयंते एश्विति देवहूतयो यज्ञाः । तेषु सर्वॆ
+> च देवा अभवन् । युष्ठदनुग्रहात्पादुर्भवंति ।
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, the ten kings, the enemies of Sudās, assembled and united with one another, अयज्यवः (*ayajyavaḥ*), that is, non-sacrificers (irreligious), did not fight (न युयुधुः (*na yuyudhuḥ*)) even one king named Sudās; they did not attack him together. Favoured by you two, they were unable to strike him. At that time the praise (उपस्तुतिः (*upastutiḥ*)) of the leaders of the sacrifice, the priests, who are provided with oblations, was सत्या (*satyā*), fruitful. अद्मसदां (*admasadāṃ*): those who sit at the eaten offering are the priests. Moreover, in their देवहूतिषु (*devahūtiṣu*) (the sacrifices, in which gods are invoked) all the gods came to be present (अभवन् (*abhavan*)): they appear by your favour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- अयज्यवः (*ayajyavaḥ*)—devoid of rites
+- दश राजानः (*daśa rājānaḥ*)—the ten enemy kings
+- समिताः (*samitāḥ*)—though they gathered together
+- सुदासं (*sudāsaṃ*)—against Sudāsa
+- न युयुधुः (*na yuyudhuḥ*)—were not able to fight
+- अद्मसदां (*admasadāṃ*)—provided with oblations
+- नृणां (*nṛṇāṃ*)—of the priests
+- उपस्तुतिः (*upastutiḥ*)—the praise
+- सत्या (*satyā*)—became fruitful
+- एषां (*eṣāṃ*)—performed by these priests
+- देवहूतिषु (*devahūtiṣu*)—in the sacrifices
+- देवाः (*devāḥ*)—all the gods
+- अभवन् (*abhavan*)—by your favour become manifest
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, the ten enemy kings, devoid of rites, though they gathered together, were not able to fight against Sudāsa. The praise of the priests, provided with oblations, became fruitful. In the sacrifices performed by these priests all the gods become manifest by your favour.
+
+##### English translation
+The ten confederated irreligious Rajas did not prevail, Indra and Varuna, against Sudas: the praise of the leaders (of rites), the offerers of sacrificial food, was fruitful : the gods were present at their sacrifices.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दा॒श॒रा॒ज्ञे परि॑यत्ताय वि॒श्वतः॑ सु॒दास॑ इंद्रावरुणावशिक्षतं।
+
+### Printed p. 36
+
+> श्वित्यंचो यत्र नमसा कपर्दिनो धिया धीवंतो असपंत  
+> तृत्सवः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दाशराज्ञे । परियत्ताय । विश्वतः । सुदासे । इंद्रावरुणौ । अशिक्षतं ।  
+> श्वित्यंचः । यत्र । नमसा । कपर्दिनः । धिया । धीवंतः । असपंत । तृत्सवः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ दाशराज्ञे ॥ दशशब्दस्य च्छांदसो दीर्घः । विभक्तिव्यत्ययः ॥
+> दशभी राजभिः शत्रुभूतैर्विश्वतः सर्वतः परियत्ताय परिवेष्टिताय सुदासे राज्ञेऽशिक्षितं । बलं प्रायच्छतं । यत्र यस्मिन्देशे श्वित्यंचः श्वितं श्वैत्यं नैर्मल्यमंचंतो गच्छंतः कपर्दिनो जटिला धीवंतः कर्मभिर्युक्तास्तत्सवो वसिष्ठशिष्या
+> एतत्संज्ञा ऋत्विजो नमसा हनिर्लक्षणेनान्नेन धिया स्तुत्यासपंत पर्यचरन् ।
+> तस्मिन्देशे युवां तस्मै राज्ञे बलं प्रायच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, दाशराज्ञे (*dāśarājñe*): the lengthening in the word दश (*daśa*) is Vedic, and there is an interchange of case endings. To Sudās the king, surrounded (परियत्ताय (*pariyattāya*)) on all sides by ten kings who were enemies, you gave strength (अशिक्षतं (*aśikṣataṃ*)). In the country where the Tṛtsus, disciples of Vasiṣṭha, priests of that name, श्वित्यंचः (*śvityaṃcaḥ*) (going in whiteness, that is purity), कपर्दिनः (*kapardinaḥ*) (wearing matted hair), धीवंतः (*dhīvaṃtaḥ*) (engaged in rites), served you with नमसा (*namasā*) (food in the form of oblation) and with धिया (*dhiyā*) (praise), in that country you gave strength to that king. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- यत्र (*yatra*)—in which place
+- श्वित्यंचः (*śvityaṃcaḥ*)—those who move about in purity
+- कपर्दिनः (*kapardinaḥ*)—wearing matted hair
+- धीवंतः (*dhīvaṃtaḥ*)—engaged in rites
+- तृत्सवः (*tṛtsavaḥ*)—the priests named Tṛtsus
+- नमसा (*namasā*)—with oblations
+- धिया (*dhiyā*)—with praises
+- असपंत (*asapaṃta*)—worshipped you, in that place
+- दाशराज्ञे (*dāśarājñe*)—by ten enemy kings
+- विश्वतः (*viśvataḥ*)—all round
+- परियत्ताय (*pariyattāya*)—though surrounded
+- सुदासे (*sudāse*)—to the king Sudāsa (to face and defeat them all)
+- अशिक्षतं (*aśikṣataṃ*)—you gave strength
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, in the place where the priests named Tṛtsus, who move about in purity, wear matted hair and are engaged in rites, worshipped you with oblations and praises, in that place you gave to the king Sudāsa, though he was surrounded on all sides by ten enemy kings, the strength to face and defeat them all.
+
+### Printed p. 37
+
+##### English translation
+You gave vigour, Indra and Varuna, to Sudas when surrounded on all sides by the ten Rajas (in the country) where the pious Tritsus, walking in whiteness, and wearing braided hair, worshipped with oblations and praise.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒त्राण्य॒न्यः स॑मि॒थेषु॒ जिघ्न॑ते व्र॒तान्य॒न्यो अ॒भि र॑क्षते॒ सदा॑ ।  
+> हवा॑महे वां वृषणा सुवृ॒क्तिभि॑र॒स्मे इं॑द्रावरुणा॒ शर्म॑  
+> यच्छतं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृत्राणि । अन्यः । संइथेषु । जिघ्नते । व्रतानि । अन्यः । अभि । रक्षते । सदा ।  
+> हवामहे । वां । वृषणा । सुवृक्तिभिः । अस्मे इति । इंद्रावरुणा । शर्म ।  
+> यच्छतं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुण् युवयोरन्य एक इंद्रो वृत्राणि शत्रून् समिधेषु
+> संग्रामेषु जिघ्नते । हंति । अन्य एको वरुणः सदा सर्वदा व्रतानि कर्माण्यभि रक्षते । अभितः सर्वतो रक्षति । हे वृषणा कामानां वर्षिताराविंद्रावरुणौ तथाविधौ नां युवां सुवृक्तिभिः सुप्रवृत्ताभिः स्तुतिभिर्हवामहे ।
+> आह्वयामहे । आहूत् च युवामस्मे अस्मभ्यं शर्म सुखं यच्छतं । दत्तं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, of you two the one, Indra, slays the enemies (वृत्राणि (*vṛtrāṇi*)) in battles (समिथेषु (*samitheṣu*)). The other, Varuṇa, always guards the rites (व्रतानि (*vratāni*)) on every side. O showerers of desires, Indra and Varuṇa, such as you are, we call you with well-directed praises (सुवृक्तिभिः (*suvṛktibhiḥ*)); and, being called, give us (अस्मे (*asme*)) happiness (शर्म (*śarma*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- अन्यः (*anyaḥ*)—Indra, one of you two
+- वृत्राणि (*vṛtrāṇi*)—the enemies
+- समिधेषु (*samidheṣu*)—in battles
+- जिघ्नते (*jighnate*)—kills
+- अन्यः (*anyaḥ*)—the other, Varuṇa
+- सदा (*sadā*)—always
+- व्रतानि (*vratāni*)—the sacrificial rites
+- अभि रक्षते (*abhi rakṣate*)—guards completely
+- वृषणा (*vṛṣaṇā*)—O showerers of desires, Indra and Varuṇa
+- नां (*nāṃ*)—you
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with excellent praises
+- हवामहे (*havāmahe*)—we invite with prayer
+- अस्मे (*asme*)—to us
+- शर्म (*śarma*)—happiness
+- यच्छतं (*yacchataṃ*)—give
+
 ---
 
-**Progress note:** Done through printed p. 30. pp. 24-30 (batch API)
+**Progress note:** Done through printed p. 37. pp. 31-37 (batch API)
