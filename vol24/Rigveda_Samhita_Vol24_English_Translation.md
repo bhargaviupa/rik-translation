@@ -7255,6 +7255,283 @@ O Agni, be gracious facing the animal belonging to Agni and Soma, this sacrifici
 ##### English translation
 You come (Agni), to the dwelling (of the worshipper), to the touch-wood, to the Soma, at dawn and the night: Universal deities, givers of wealth, knowing all things, be the defenders of our pious acts.
 
+### Printed p. 161
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सू न॑ एतध्व॒रो॒३॒॑३ग्ना दे॒वेषु॑ पू॒र्व्यः ।  
+> आ॒दि॒त्येषु॒ प्र वरु॑णे धृ॒तव्र॑ते म॒रुत्सु॑ वि॒श्वभा॑नुषु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सु । नः । एतु । अध्वरः । अग्ना । देवेषु । पूर्व्यः ।  
+> आदित्येषु । प्र । वरुणे । धृतव्रते । मरुत्सु । विश्वभानुषु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्व्यः पुरातनः । पूर्वान् पुरातनानिंद्रादीन् देवान्प्रति क्रियमाणत्वाद्यज्ञोऽपि पूर्व इत्युच्यते । तादृशो मुख्यो नोऽस्मदीयोऽध्वरो
+> यज्ञोऽग्ना ॥ सुपां सुलुगिति सप्तम्या डादेशः ॥ अग्नौ । अग्निर्देवानां मुख्यत्वात्पथममभिहितः । तस्मिन्नग्नौ सर्वॆष्टन्येषु देवेषु च सु सुष्टु प्रैतु ।
+> प्रकर्षण गच्छतु । देवान् विशिनष्टि । आदित्येष्टदितेः पुत्रेष्ट्विंद्रादिषु धृतव्रते
+> धृतकर्मणि वरुणे च विश्वभानुषु सर्वतो व्याप्ततेजस्केषु मरुत्तु च प्रैतु ॥
+
+##### Gist of the bhāṣya
+
+Pūrvya means ancient. Since the sacrifice is performed with reference to the ancient gods, Indra and the others, the sacrifice too is called ancient. Such a principal sacrifice of ours (adhvara is the sacrifice) is addressed to Agni (the locative अग्ना (*agnā*) stands for अग्नौ (*agnau*)). Agni is named first because he is the chief of the gods. May the sacrifice go well, exceedingly well, to him and to all the other gods as well. Sāyaṇa then specifies the gods: among the Ādityas, the sons of Aditi, Indra and the others; to Varuṇa, who is dhṛtavrata, one who upholds rites; and among the Viśvabhānus, those whose radiance is spread on all sides, namely the Maruts. May the sacrifice go to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- पूर्वः (*pūrvaḥ*)—ancient and principal
+- अध्वरः (*adhvaraḥ*)—the sacrifice
+- अग्ना (*agnā*)—facing Agni
+- सु (*su*)—in the best manner
+- प्र एतु (*pra etu*)—may it go and reach
+- देवेषु (*deveṣu*)—among the remaining gods also
+- आदित्येषु (*ādityeṣu*)—among the Ādityas also
+- धृतवते (*dhṛtavate*)—in Varuṇa, the regulator of rites
+- वरुणे (*varuṇe*)—in Varuṇa also
+- विश्वभानुषु (*viśvabhānuṣu*)—those whose radiance spreads everywhere
+- मरुत्तु (*maruttu*)—in the Maruts also
+- प्र (*pra*)—may it go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+May our ancient and principal sacrifice go and reach Agni in the best manner. May it go and reach the remaining gods also, that is, the Ādityas, Varuṇa the regulator of rites, and the Maruts whose radiance spreads everywhere.
+
+##### English translation
+Let the ancient sacrifice proceed first to Agni, then to the gods,—to the Adityas, to Varuna, observant of obligations, to the all-resplendent Maruts.
+
+### Printed p. 162
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॒ हि ष्मा॒ मन॑वे वि॒श्ववे॑दसो॒ भुव॑न्वृ॒धे रि॒शाद॑सः ।  
+> अरि॑ष्टेभिः पा॒युभि॑र्विश्ववेदसो॒ यंता॑ नोवृ॒कं छ॒र्दिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । हि । स्म । मनवे । विश्ववेदसः । भुवन् । वृधे । रिशादसः ।  
+> अरिष्टेभिः । पायुभिः । विश्ववेदसः । यंत । नः । अवृकं । छर्दिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्ववेदसः सर्वशो व्याप्तधनाः । बहुधना इत्यर्थः । तादृशा रिशादसो
+> रिशतां हिंसतां शत्रूणामसितार उपक्षपयितारो वा विश्वे हि ष्म सर्वॆ खलु देवा
+> मनवे । षष्ठ्यर्थे चतुर्थी । मनोर्वृधे वर्धनाय भुवन् । भवंतु । स्तोत्रे
+> मनुष्याय धनं दत्वा तं वधयंतित्याशास्त्रे । ततो हे विश्ववेदसः सर्वधनाः
+> सर्वज्ञा वा देवाः अरिष्टेभिः परैरहिंसितैः पायुभिः पालनैः सहावृकं । व्यकः
+> स्तेनः । तद्रहितं । बाधारहितमित्यर्थः । तादृशं छर्दिगृहं नोऽस्मभ्यं यंत ।
+> प्रयच्छत । शत्रून्हत्वा गृहेष्टस्माभिः कर्माणि कारयतेश्यर्थः ॥ यंतेति यमेर्लोटि छांदसो विकरणस्य लुक् । तस्य तबादेशः । तेनानुनासिकलोपाभावः ॥
+
+##### Gist of the bhāṣya
+
+Viśvavedasaḥ are those whose wealth is spread on all sides, that is, those of much wealth. Such are the rishādasaḥ, the devourers or those who destroy the enemies who do harm. All the gods, for Manu (the dative has the sense of the genitive), be for the increase of Manu. Having given wealth to a man who praises them, they make him prosper, so the text says. **NOTE** Then, O gods, all-wealthy or all-knowing, together with unharmed protections, that is, guardians not injured by others, give us a chardis, a house, that is avṛka. A vṛka is a thief, so the word means free from him, free from hindrance. The meaning is: having slain the enemies, cause rites to be performed by us in our house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसः (*viśvavedasaḥ*)—those who possess all wealth
+- रिशादसः (*riśādasaḥ*)—destroyers of enemies
+- विश्वे हि ष्म (*viśve hi ṣma*)—all the gods
+- मनवे (*manave*)—of Manu
+- वृधे (*vṛdhe*)—for the increase
+- भुवन् (*bhuvan*)—may they be close beside him **NOTE**
+- विश्ववेदसः (*viśvavedasaḥ*)—O gods who know all things
+- अरिष्टेभिः (*ariṣṭebhiḥ*)—not harmed by others
+- पायुभिः (*pāyubhiḥ*)—with protections
+- अवृकं (*avṛkaṃ*)—free from harm
+- छर्दिः (*chardiḥ*)—a house
+- नः (*naḥ*)—to us
+- यंत (*yaṃta*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods, who possess all wealth and destroy enemies, be close beside Manu for his increase. O gods who know all things, give us a house free from harm, together with protections that no one has harmed.
+
+##### English translation
+May the universal deities possessors of all opulence, destroyers of foes, be (nigh) to Manu for his prosperity : do you, who know all things,
+
+### Printed p. 163
+secure to us an abode safe from robbers through your unassailable protections.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ अ॒द्य सम॑नसो॒ गंता॒ विश्वे॑ स॒जोष॑सः ।  
+> ऋ॒चा गि॒रा मरु॑तो॒ देव्यदि॑ते॒ सद॑ने॒ पस्यॆ॑ महि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । अद्य । समनसः । गंत । विश्वे । सजोषसः ।  
+> ऋचा । गिरा । मरुतः । देवि । आदिते । सदने । पस्यॆ । महि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समनसः सर्वेषु स्तोत्रेषु समानमनस्का विश्वे सर्वॆ देवा यूयं
+> सजोषसः परस्परं संगताः संतो गिरा । शुशूषुतया 'प्राप्तव्ययेत्यर्थः ।
+> तयर्चा सहाद्यास्मिन्यागदिने नो यष्टनस्माना गंते । आगच्छत । अनंतरं हे
+> मरुतो देवि द्योतमाने महि महति देवानां मातृत्वान्महत्त्वयुक्ते हे
+> आदितेऽदीन एतन्नामिके देवि सदने स्थाने पस्यॆऽस्मदीये गृहे स्तोतव्यतयोपविशत ॥ मरुत इत्यादर्वाक्यभेदादनिघातः ! उत्तरत्र पूर्वस्यामंत्रितस्याविद्यमानवत्त्वेन वाक्यादित्वादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O all gods, of one mind in all the stotras and united with one another, come to us today with the praise, that is, with the ṛc, to this sacrifice (the words explaining the praise are damaged). **NOTE** Then, O Maruts; O shining one, the great one, who are endowed with greatness because she is the mother of the gods; O Aditi, goddess so named: sit in the place, in our house, as those who are to be praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समनसः (*samanasaḥ*)—of one mind with regard to the praiser
+- विश्वे (*viśve*)—O Viśve Devāḥ
+- सजोषसः (*sajoṣasaḥ*)—you who have come together
+- गिरा (*girā*)—in the form of praise
+- ऋचा (*ṛcā*)—with the Ṛk
+- अद्य (*adya*)—at this time of the sacrifice
+- नः (*naḥ*)—to us
+- आ गंत (*ā gaṃta*)—be pleased to come
+- मरुतः (*marutaḥ*)—O Maruts
+- देवि (*devi*)—who are divine in nature
+- महि (*mahi*)—who are of great nature
+- अदिते (*adite*)—O goddess Aditi
+- सदसे (*sadase*)—in the place of the sacrifice
+- पस्यॆ (*pasyè*)—be seated in our house
+
+##### भावार्थ (Bhāvārtha)
+
+O Viśve Devāḥ, of one mind with regard to the praiser, come together to us at this time of the sacrifice with the Ṛk, which is in the form of praise. O Maruts, and O goddess Aditi, divine in nature and of great nature, be seated in our house, the place of the sacrifice.
+
+### Printed p. 164
+
+##### English translation
+Universal deities, united together and of one mind, come this day to us, (attracted) by the sacred praise addressed to you ; and do you, Maruts, and the mighty goddess Aditi, (come) to the dwelling, (our) abode
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्रि॒या म॑रुतो॒ या वो॒ अश्वा॑ ह॒व्या मि॑त्र प्रया॒थन॑ ।  
+> आ ब॒र्हिरिंद्रो॒ वरु॑णस्तु॒रा नर॑ आदि॒त्यासः॑ सदंतु नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्रिया । मरुतः । या । वः । आश्वा । हव्या । मित्र । प्रयार्थन ।  
+> आ । बर्हिः । इंद्रः । वरुणः । तुराः । नरः । आदित्यासः । सदंतु । नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः प्रिया प्रियाणि या यानि वो युष्माकमश्वाश्च्यानि प्रियानश्वसंघानभि प्रयाथन । अस्मद्यज्ञं प्रति प्रापयत । यूयमश्वैर्युक्ताः संत
+> आगच्छतेत्यर्थः । आथ हे मित्र । मित्रशब्देनान्ये वरुणादयोऽप्युच्यंते । हे
+> मित्रादयो देवाः हव्या हव्यानि हवनयोग्यानि हवींषि स्वीकर्तुमागच्छतेत्यर्थः।
+> सूयमाना आगच्छत ॥ प्रपूर्वाद्यातेर्लोटि तप्तनप्तनथनाश्चति धनादेशः ॥ अगत्य
+> चेंद्रो वरुण इंद्रावरुणौ तुराः संग्रामे शत्रुवधार्थं त्वरमाणा नरो नेतार
+> आदित्यासोऽदितेः पुत्रा मरुदादयो देवाश्च नोऽस्मदीये यज्ञॆ बर्हिबर्हिप्यासादित आ सदंतु । आसीदंतु । प्रविशंतु ॥ सदेः सीदादेशाभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, the horses of yours that are dear, those teams of horses, bring them to our sacrifice; come yoked to your horses. Then, O Mitra: by the word Mitra the others, Varuṇa and the rest, are also addressed. O gods, Mitra and the others, come to accept the oblations that are fit for the offering (the words that follow, beginning सूयमाना (*sūyamānā*), are unclear). **NOTE** Further, Indra and Varuṇa (the Indra-Varuṇa pair), who hasten in battle to slay the enemies, the leaders, the Ādityas, the sons of Aditi, and the Maruts and the other gods, sit on the sacred grass that has been laid in our sacrifice; enter it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- या (*yā*)—which horses
+- वः (*vaḥ*)—to you
+- प्रिया (*priyā*)—are dear, such
+- अश्वा (*aśvā*)—horses
+- अभि प्रयाथन (*abhi prayāthana*)—urge on to our sacrifice
+- मित्र (*mitra*)—O Mitra
+- हव्या (*havyā*)—be pleased to accept our oblations
+- इंद्रः (*iṃdraḥ*)—Indra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- तुराः (*turāḥ*)—those who are skilled in battle **NOTE**
+- नरः (*naraḥ*)—leaders
+- आदित्यासः (*ādityāsaḥ*)—the Ādityas
+- नः (*naḥ*)—in this sacrifice of ours
+- बर्हिः (*barhiḥ*)—on the sacred grass
+- आ सदंतु (*ā sadaṃtu*)—let them sit
+
+### Printed p. 165
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, urge the horses that are dear to you to come to our sacrifice. O Mitra, be pleased to accept our oblations. May Indra and Varuṇa, and the Ādityas, who are skilled in battle and are leaders, sit on the sacred grass in this sacrifice of ours.
+
+##### English translation
+Direct, Maruts, your beloved horses (to our rite) : Mitra, (come to our) oblations; and may Indra, and Varuna and the swift leaders, the the Adityas, sit down on our sacred grass.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं वो॑ वृ॒क्तब॑र्हिषो हि॒तप्र॑यस आनु॒षक् ।  
+> सु॒तसो॑मासो वरुण हवामहे मनु॒ष्पदि॒द्दाग्न॑यः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । वः । वृक्तबर्हिषः । हितप्रयसः । अनुषक् ।  
+> सुतसोमासः । वरुण । हवामहे । मनुष्यत् । इद्दआग्नयः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण वरुणादयो हे देवाः व्यक्तबर्हिष ऋत्विजो वयमानुषक्
+> सुगादिष्पनुषक्तं यथा भवति तथा हितप्रयसः । प्रीणातीति प्रयोऽन्नं । तेषु
+> निहितहविष्काः संतो वो युष्मान् हवामहे । एतानि हवींप्यादातुमाह्वयामः।
+> कीदृशाः । सुतसोमासोऽभिषुतसोमा इद्दाग्नय आहुतिभिः समिद्धाग्नयो
+> वयमाह्वयामः । तत्र दृष्टांतः । मनुष्वत् । मनुर्यथा यज्ञे युष्मानाजुहाव तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa and the other gods, we priests, with the sacred grass trimmed, in due order and with foods set out (prayas is food, that which pleases), having laid oblations in those foods, call you to take these oblations. What kind of priests? Those who have pressed the Soma and those who have kindled the fires with oblations. We invite you; the example is manuṣvat: as Manu called you in the sacrifice, so do we. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa and the other gods
+- व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*)—those who prepare and make ready the sacred grass seat
+- आनुषक् (*ānuṣak*)—in due order
+- हितप्रयसः (*hitaprayasaḥ*)—who have the oblations that are offered
+- सुतसोमासः (*sutasomāsaḥ*)—who have pressed and prepared the Soma
+- इद्दाग्नयः (*iddāgnayaḥ*)—who have caused the fire to blaze with oblations
+
+### Printed p. 166
+- वयं (*vayaṃ*)—we (the priests)
+- वः (*vaḥ*)—you
+- मनुष्वत् (*manuṣvat*)—as Manu in former times prayed to you and called you
+- हवामहे (*havāmahe*)—we also call
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa and the other gods, we priests, who have prepared the sacred grass seat, who have the oblations to offer to you in due order, who have pressed and prepared the Soma and who have caused the fire to blaze with oblations, call you to our sacrifice as Manu in former times praised and called you.
+
+##### English translation
+Bearing the clipped sacred grass, offering in due order the(sacrificial) food, presenting the effused Soma, and having the fires kindled, we invoke you, Varuna, (and the rest), as did Manu.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प्र या॑त॒ मरु॑तो॒ विष्णो॒ अश्वि॑ना॒ पूष॒न्माकी॑नया धि॒या ।  
+> इंद्र॒ आ या॑तु प्रथ॒मः स॑नि॒ष्युभि॒र्वृषा॒ यो वृ॑त्र॒हा गृ॒णे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । प्र । यात । मरुतः । विष्णो इति । अश्विना । पूषन् । माकीनया । धिया ।  
+> इंद्रः । आ । यातु । प्रथमः । सनिष्युभिः । वृषा । यः । वृत्रहा । गृणे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वे देवाः प्र यात । प्रकर्षणास्मदीयकर्माण्यागच्छत । हे मरुतो
+> हे विष्णो स्वबलेन सर्वतो व्याप्तैतन्नामक देव हे अश्विनाश्विन् पूषन् ।
+> स्तोत्थानादिना पोषयतीति पूषा । एतन्नामक देव मरुदादयो देवाः
+> माकीनया ॥ अस्मच्छब्दाद्युष्मदस्मदोः । पा. ४-३-१ । इति खञ् शैषिकः । ऐकदचने
+> तवकममकाविति ममकादेशः । वर्णलोपश्रांदसः ॥ मया क्रियमाणया धिया
+> स्तुत्या सहास्मद्यज्ञं प्रत्यागच्छत ॥ मरुदादेरामंत्रितस्य वाक्यभेदादनिघातः ॥
+> किंच प्रथमो देवानां मुख्यः स इंद्रश्चा यातु । वृषा कामानां सेक्ता य
+> इंद्रः सनिष्युभिः । सनिः संभजनं । तदात्मन इच्छद्भिः स्तोतृभिर्वत्रहापामावरकस्य
+> वृत्रासुरस्य हंतेति गृणे स्तूयते ॥ गृ शब्द इत्यस्य कर्मणि लिट छांदसो विकरणः ॥
+
+##### Gist of the bhāṣya
+
+O Viśve Devāḥ, come forth; come to our rites. O Maruts; O Viṣṇu, the deity so named, who pervades everywhere by his own strength; O Aśvins; O Pūṣan, who nourishes by praise and the like, the deity so named: and the Maruts and the other gods, come to our sacrifice with the praise made by me, माकीनया (*mākīnayā*) (that is, made by me). Further, Indra also, first, that is, chief among the gods, let him come: he is the showerer, the one who pours out the desires. Sanisyubhiḥ means by praisers who desire the sharing (sani is partaking) of that. He is the slayer of Vṛtra, the demon who covers the waters, and so he is praised.
+
 ---
 
-**Progress note:** Done through printed p. 160. Mandala 8 Sukta 26 Rks 23-25 end; Sukta 27 Rks 1-2
+**Progress note:** Done through printed p. 166. Mandala 8 Sukta 27 Rks 3-8 (8 in part)
