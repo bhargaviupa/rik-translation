@@ -21650,6 +21650,273 @@ O Maruts, groups of gods of the middle realm, so named for measured sound or mea
 - पर्वतेषु (*parvateṣu*)—on the mountain regions
 - वि राजथ (*vi rājatha*)—you shine
 
+### Printed p. 530
+#### Ṛk 1 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, when the wise worshipper offers to you the food in the form of Soma, praised at the three pressing-times, then you shine, exercising lordship over the mountain regions.
+
+##### English translation
+When the pious worshipper offers you, Maruts, food at the three diurnal rites, then you have sovereignty over the mountains.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदं॒ग त॑विषीयवो॒ यामं॑ शुभ्र॒ अचि॑ध्वं ।  
+> नि पर्व॑ता अहासत ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अंग । तविषीयवः । यामं । शुभ्राः । अचिध्वं ।  
+> नि । पर्वताः । अहासत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तविषीयवः ] तविषीति बलनाम । तां कामयमानाः । यद्वा ।
+> बलियुक्ताः । हे शुभ्राः । शोभमाना अंग हे मरुतः यामं । याति गच्छतीति
+> यामो रथः । तं यद्यदाचिध्वं समचिनुध्वं अश्वादिभिः साधनैः संचितं संश्लिष्टं
+> कुरुथ गमनार्थं तदानीं पर्वता गिरयोऽपि न्यहासत । नितरां गच्छंति ।
+> युष्मद्रथवेगाद्भीताः संतः स्वस्थानात्पचलंति ॥ ओहाज् गत् । छांदसो लुज् ॥
+
+##### Gist of the bhāṣya
+
+"O you who desire strength": तविषी (*taviṣī*) is a name for strength, so the Maruts are those who desire it; or else they are endowed with strength. O shining Maruts, "dear ones" (अंग (*aṃga*)). यामं (*yāmaṃ*) is the chariot, that which goes. When you harness it, joining it with horses and other means for the journey, then even the mountains न्यहासत (*nyahāsata*), that is, they move away, frightened by the speed of your chariot, and shift from their places.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तविषीयवः (*taviṣīyavaḥ*)—you who have abundant strength
+- शुभ्राः (*śubhrāḥ*)—you who shine
+- अंग (*aṃga*)—O Maruts
+- यामं (*yāmaṃ*)—your chariot, the means of going
+- यत् (*yat*)—when
+- अचिध्वं (*acidhvaṃ*)—you yoke with horses and the like, then
+- पर्वताः (*parvatāḥ*)—even the mountains
+- नि अहासत (*ni ahāsata*)—move to make way for you
+
+### Printed p. 531
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, of abundant strength and shining, when you yoke your chariot, the means of going, with horses and the like, then even the mountains move to make way for you.
+
+##### English translation
+When, glorious and powerful (Maruts), you fit out your chariot, the mountains depart (from their places).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॑रयंत वा॒यभि॑र्वा॒श्रासः॒ पृश्नि॑मातरः ।  
+> धु॒क्षंत॑ पि॒प्युषी॒मिषं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईरयंत । नायुभिः । वाश्रासः । पृश्निमातरः ।  
+> धुक्षंत । पिप्युषीं । इषं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाश्रासो वाशनशीलाः शब्दकारिणः पृश्निमातरः । पृश्निर्माध्यमिका वाक् ।
+> सा माता जननी येषां ते तथोक्ताः ॥ ऋतश्चंदसीति कपः प्रतिषेधः ॥ ईदृशा
+> मरुतो वायुभिः । वांति गच्छंतीति वायवः पृषत्यः । पृषतीभिर्वाहनभूताभिः
+> स्वायवयभूतैर्वायुभिरेव वोदीरयंत । उद्गमयंति मेघादिकं । तथा
+> पिप्युषीं वर्धयित्रीवि. षमन्नं च स्तोतृभ्यो धुक्षंत । दुहंति ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are वाश्रासः (*vāśrāsaḥ*), given to sounding, makers of noise; पृश्निमातरः (*pṛśnimātaraḥ*): Pṛśni is the middle (atmospheric) speech, she is their mother. Such Maruts, with the winds (those that go, the spotted mares that serve as their vehicles, being their own parts), set the clouds and the like in motion upward. Likewise they milk out for the worshippers the swelling, nourishing food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाश्रासः (*vāśrāsaḥ*)—makers of noise
+- पृश्निमातरः (*pṛśnimātaraḥ*)—the Maruts, sons of Pṛśni
+- वायुभिः (*vāyubhiḥ*)—with the winds that are their own parts
+- उदीरयंत (*udīrayaṃta*)—make a sound in the form of thunder
+- पिप्युषीं (*pipyuṣīṃ*)—nourishing
+- इषं (*iṣaṃ*)—food
+- धुक्षंत (*dhukṣaṃta*)—give to the worshippers
+
+##### भावार्थ (Bhāvārtha)
+
+### Printed p. 532
+The Maruts, makers of noise and sons of Pṛśni, make a sound in the form of thunder with the winds that are their own parts. And they give the nourishing food to the worshippers.
+
+##### English translation
+The loud-sounding sons of Prishni drive with their breezes (the clouds), they milk forth nutritious sustenance.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वपं॑ति म॒रुतो॒ मिहं॒ प्र वे॑पयंति॒ पर्व॑तान् ॥  
+> यद्यामं॒ यांति॑ वा॒युभिः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वपंति । मरुतः । मिहं । प्र । वेपयंति । पर्वतान् ।  
+> यत् । यामं । यांति । वायुभिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत एतत्संज्ञा देवा मिहं वृष्टिं वसंति । विकिरंति । विक्षिपंति । तथा
+> पर्वतान् गिरीन् प्र वेपयंति । प्रकंपयंति । अयमर्थः कदेति चेत् ।
+> यद्यदा वायुभिः सार्धं यामं रथं गमनं वा यांति प्राप्नुवंति तदानीमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The gods called Maruts scatter and shed the rain (मिहं (*mihaṃ*)), and they shake the mountains. If it is asked when this happens: when they go with the winds in their chariot, or on their journey, that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वायुभिः (*vāyubhiḥ*)—together with the winds
+- यामं (*yāmaṃ*)—their chariot
+- यांति (*yāṃti*)—they mount (then)
+- मरुतः (*marutaḥ*)—the Maruts
+- मिहं (*mihaṃ*)—rain
+- वपंति (*vapaṃti*)—pour down
+- पर्वतान् (*parvatān*)—the mountains
+- प्र वेपयंति (*pra vepayaṃti*)—make tremble
+
+##### भावार्थ (Bhāvārtha)
+
+When the Maruts, together with the winds, mount their chariot, they pour down rain and make the mountains tremble.
+
+### Printed p. 533
+
+##### English translation
+The Maruts scatter the rain, they shake the mountains, when they mount their chariot, with the winds.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि यद्यामा॑य वो गि॒रिर्नि सिंध॑वो॒ विध॑र्मणे ।  
+> म॒हे शुष्म्या॑य येमि॒रे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि ! यत् । यामाय । वः । गिरिः । नि । सिंधवः । विधर्मणे ।  
+> महे । शुष्म्याय । येमिरे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्माकं यामाय रथाय गमनाय वा गिरिः ॥ सुपां
+> सुलुगिति जसः सुः ॥ गिरयः पर्वता यद्यदा नि येमिरे स्वयमेव नियम्यंते
+> तथा सिंधवः स्यंदनशीलाः समुद्रा नद्यो वा विधर्मणे विधरणाय महे
+> महते शुष्माय शोषकाय युष्मदीयाय बलाय नि येमिरे स्वयमेव नियम्यंते । गिरयो नद्यश्च युष्मद्यामाद्बलाच्च भीत्यैकत्रैकस्थाने
+> नियता वर्तंत इत्यर्थः । तदानीं वपंति मरुतो मिहमिति शेषः ॥ यमेः
+> कर्मकर्तरि लिट् । यद्वृत्तान्निमिति निघातप्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, when the mountains are restrained of themselves for your journey (or your chariot), and likewise the rivers, flowing seas or streams, are restrained of themselves for the upholding of your great, parching strength: the mountains and rivers, out of fear of your going and your strength, remain confined, each in a single place. Then, the remainder to be supplied: "the Maruts shed rain." The verb येमिरे (*yemire*) comes from यम (*yama*) in the perfect, with the object as agent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) वः (*vaḥ*)—your
+- यामाय (*yāmāya*)—for the journey
+- यत् (*yat*)—in what manner
+- गिरिः (*giriḥ*)—the mountains
+- नि येमिरे (*ni yemire*)—bow down (in the same manner)
+- महे (*mahe*)—great
+- शुष्माय (*śuṣmāya*)—of your strength
+- विधर्मणे (*vidharmaṇe*)—for the upholding
+- सिंधवः (*siṃdhavaḥ*)—the rivers also
+- नि (*ni*) (येमिरे (*yemire*))—come to have restrained currents
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, in the manner in which the mountains bow down for your going, in the same manner the rivers also have restrained currents for the upholding of your great strength.
+
+### Printed p. 534
+
+##### English translation
+The mountains are curbed, the rivers are restrained at your coming, for the upholding of your great strength
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ष्मा उ॒ नक्त॑मू॒तये॑ यु॒ष्मान्दिवा॑ हवामहे ।  
+> यु॒ष्मान्प्र॑य॒त्य॑ध्व॒रे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युष्मान् । ऊं इति । नक्तं । ऊतये । युष्मान् । दिना । हवामहे ।  
+> युष्मान् । प्रयति । अध्वरे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः युष्मा उ युष्मानेव नक्तं रात्रावूतये रक्षणार्थं हवामहे । दिवाह्नि च युष्मानेवाह्वयामहे । अध्वरे । ध्वरो नास्त्यस्मिन्नित्यध्वरो
+> यागः ॥ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं ॥ यागे प्रयति प्रगच्छति प्रवर्तमाने सति रक्षणार्थं युष्मानेवाह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, it is you alone that we call by night for protection, and by day too we call you alone. अध्वरे (*adhvare*): the sacrifice, in which there is no ध्वर (*dhvara*) (crookedness, harm). When the sacrifice is going on, in progress, we call you alone for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) युष्मान् उ (*yuṣmān u*)—you alone
+- नक्तं (*naktaṃ*)—in the night too
+- ऊतये (*ūtaye*)—for protection
+- हवामहे (*havāmahe*)—we call
+- युष्मान् (*yuṣmān*)—you alone
+- दिना (*dinā*)—we call in the daytime also
+- अध्वरे (*adhvare*)—the sacrifice
+- प्रयति (*prayati*)—even at the time when it is begun and going on
+- युष्मान् (*yuṣmān*)—you alone (we call)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, we call you alone for protection by night. We call you alone by day too. We call you alone also when the sacrifice has begun and is in progress.
+
+##### English translation
+We invoke you for protection by night, (we invoke) you by day, (we invoke) you when the sacrifice is in progress.
+
+### Printed p. 535
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ तै अ॑रु॒णप्स॑वश्चि॒त्रा यामे॑भिरीरते ।  
+> वा॒श्रा अधि॒ ष्टुना॑ दि॒वः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । त्ये । अरुणप्सवः । चित्राः । यामेभिः । ईरते ।  
+> वाश्राः । अधि । स्नुना । दिवः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्ये ते पूर्वोक्तगुणा अरुणप्सवोऽरुणवर्णरूपाश्चित्राश्चायनीया
+> आश्चर्यभूता ना वाश्राः शब्दकारिणः एवंभूता मरुतो यामेभिर्यामैर्यानैर्दिवोऽधि द्युलोकस्योपरि स्नुना सानुना समुच्चित्तप्रदेशेनोदीरते ।
+> उद्गच्छंति । उ इति पूरणः ॥ पदादिषु मांस्पृत्स्नानापहसंख्या नमिति सानुशब्दस्य स्नुभावः ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts of the qualities described before, ruddy in colour, wonderful and astonishing, noisy, rise up with their chariots above the sky, on its summit (स्नुना (*snunā*) for सानुना (*sānunā*)), the lofty region. उ (*u*) is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्ये (*tye*)—the renowned
+- अरुणप्सवः (*aruṇapsavaḥ*)—of golden-coloured form
+- चित्राः (*citrāḥ*)—attractive
+- वाश्राः (*vāśrāḥ*)—the Maruts who make a sound
+- यामेभिः (*yāmebhiḥ*)—with their chariots
+- दिवः अधि (*divaḥ adhi*)—in the upper part of the atmosphere
+- स्नुना (*snunā*)—in the very lofty regions
+- उदीरते उ (*udīrate u*)—set out for a journey
+
+##### भावार्थ (Bhāvārtha)
+
+The renowned Maruts, of golden-coloured form, attractive and noisy, set out for a journey with their chariots in the very lofty regions in the upper part of the atmosphere.
+
+##### English translation
+Truly these purple-hued, wonderful, clamorous Maruts proceed with their chariots in the height above the sky.
+
 ---
 
-**Progress note:** Done through printed p. 529. pp. 524-529 (batch API)
+**Progress note:** Done through printed p. 535. pp. 530-535 (batch API)
