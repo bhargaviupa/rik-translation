@@ -9993,6 +9993,247 @@ The chariot of the devout worshipper quickly (prevails), as the hero (prevails) 
 
 O sacrificer, you who wish to honour the mind of the gods will not be harmed; you do not become one who is harmed, but you grow with sons, grandsons and the rest. **NOTE** O soma-presser, you who perform the pressing of soma
 
+### Printed p. 220
+
+> सुन्वंस्तेषां मन इयक्षति स त्वमपि न रिष्यसि । हे देवयो देवान् काव यमान
+> यो देवानियक्षति तादृशस्त्वमपि न रिष्यसि । किंतु धनादिभिर्वर्धने । देवानं
+> मनो यो यजमानो यष्टुमिच्छति स यागमकुर्वतो जनानभिभवति ॥
+
+##### Gist of the bhāṣya
+
+O soma-presser, you who press soma and wish to honour the mind of the gods will also not be harmed. O devayu, you who are such that you wish to worship the gods, you too will not be harmed; rather you grow with wealth and the like. **NOTE** The sacrificer who wishes to worship the mind of the gods overcomes the people who perform no sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजमान (*yajamāna*)—O sacrificer
+- यः (*yaḥ*)—you who
+- देवानां (*devānāṃ*)—of the gods
+- मनः (*manaḥ*)—the mind
+- इयक्षति (*iyakṣati*)—you who wish to worship and satisfy, such as you
+- न रिष्यसि (*na riṣyasi*)—do not meet with destruction
+- सुन्वान (*sunvāna*)—O sacrificer who press soma and offer it
+- न (*na*)—for you there is no destruction
+- देवयो (*devayo*)—O worshipper of the gods
+- न (*na*)—you do not meet with destruction
+- सः (*saḥ*) यजमानः (*yajamānaḥ*)—that same sacrificer
+- अयज्वनः (*ayajvanaḥ*)—also the people fallen from rites
+- अभि भुवत् इत् (*abhi bhuvat it*)—certainly overcomes
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificer, you who worship and satisfy the mind of the gods will not meet with destruction. O sacrificer who press soma and offer it, there is no destruction for you. O worshipper of the gods, you will not meet with destruction. The sacrificer who worships and gladdens the very mind of the gods certainly overcomes the people fallen from rites.
+
+##### English translation
+Devoted to the gods, pouring out to them libations, you, worshipper, shall not perish : the clebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who are no sacrificers.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकि॒ष्टं कर्म॑णा नश॒न्न प्र यो॑ष॒न्न यो॑षति ।  
+> दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो  
+> भुवत् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । तं । कर्मणा । नशत् । न । प्र । योषत् । न । योषति ।  
+> देवानां । यः । इत् । मनः । यजमानः । इयक्षति । अभि । इत् । आयज्वनः ।  
+> भुवत् ॥ १७ ॥
+
+### Printed p. 221
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानो देवानां मनो यष्टुमिच्छति तं नकिर्न कश्चिदपि नशत् ।
+> स्वकीयॆन कर्मणा न व्याप्नोति । नशतिर्वाप्तिकर्मा । किंच स यष्टा न प्र योषत् ।
+> स्वस्मात्स्थानान्न विभक्तः पृथक्कृतो न भवति । किंच न योषति । पुत्रादिभिर्धनादिभिश्च
+> न विभक्तो भवति ॥ यु मिश्रणामिश्रणयोरित्यस्योभयत्र लेट्यडागमः ॥ शिष्टं
+> व्याख्यातं ॥
+
+##### Gist of the bhāṣya
+
+Whatever sacrificer wishes to worship the mind of the gods, no one at all can reach him by his own act; the root used here has the sense of reaching. Moreover, that sacrificer is not driven from his place; he is not separated or set apart. And he is not separated from sons and the rest, or from wealth and the rest. The remainder has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- देवानां (*devānāṃ*)—of the gods
+- मनः इत् (*manaḥ it*)—the mind itself, aiming at it
+- इयक्षति (*iyakṣati*)—will satisfy
+- तं (*taṃ*)—that sacrificer
+- कर्मणा (*karmaṇā*)—by his own deeds
+- नकिः (*nakiḥ*)—no one at all
+- नशत् (*naśat*)—can overpower
+- न प्र योषत् (*na pra yoṣat*)—such a sacrificer does not fall from his place
+- न योषति (*na yoṣati*)—he is not separated from sons and the rest
+- सः (*saḥ*) यजमानः (*yajamānaḥ*)—that same sacrificer
+- अयज्जनः (*ayajjanaḥ*)—the people fallen from rites
+- अभि भुवत् इत् (*abhi bhuvat it*)—certainly overcomes
+
+##### भावार्थ (Bhāvārtha)
+
+No one can overpower the sacrificer who satisfies the very mind of the gods by worship. He does not fall from his place and is not separated from sons and the rest. That same sacrificer certainly overcomes the people fallen from rites.
+
+##### English translation
+No one obstructs him by his acts, he is never driven (from his station), he is never separated (from his family): the celebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who are no sacrificers.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॒दत्र॑ सु॒वीर्य॑मु॒त त्यदा॒श्वश्वं ॑।  
+> दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्जनो  
+> भुवत् ॥ १८ ॥
+
+### Printed p. 222
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आसत् । अत्र । सुवीर्यं । उत । त्यत् । आशुअश्वं ।  
+> देवानां । यः । इत् । मनः । यजमानः । इयक्षति । अभि । इति । आयज्वनः ।  
+> भुवत् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानो देवानां मनो यष्टुमिच्छति अत्रास्मिन्यजमाने सुवीर्यं
+> शोभनवीर्योपेतं पुत्रादिकमसत् । भवत्येव । उतापि चाश्वश्वमाशुगमनाश्वसंघयुक्तं त्यत्तद्धनादिकं तस्मिन्यजमाने भवति । देनानां मनो यो जनो
+> हविर्भिर्यष्टुमिच्छति यद्वा पूजयितुमिच्छति स जनोऽयज्वनः सर्वानभिभवत्येव ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who wishes to worship the mind of the gods will certainly have in him sons and the rest endowed with fine strength. And that famous wealth and the like, together with troops of swift-going horses, will be with that sacrificer. The man who wishes to worship the mind of the gods with oblations, or else to honour it, overcomes all who perform no sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- देवानां (*devānāṃ*)—of the gods
+- मन इत् (*mana it*)—the mind itself
+- इयक्षति (*iyakṣati*)—worships and satisfies
+- अत्र (*atra*)—in that same sacrificer
+- सुवीर्यः (*suvīryaḥ*)—sons and the rest endowed with excellent strength
+- आसत् (*āsat*)—are certain to be
+- उत (*uta*)—and
+- त्यत् (*tyat*)—famous
+- आश्वश्वं (*āśvaśvaṃ*)—wealth provided with swift-going horses is also there
+- सः (*saḥ*) यजमानः (*yajamānaḥ*)—that same sacrificer
+- आयज्वनः (*āyajvanaḥ*)—those without rites
+- अभि भुवत् इत् (*abhi bhuvat it*)—certainly overcomes
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who worships and satisfies the very mind of the gods will certainly have in him sons and the rest endowed with excellent strength. And he will have famous wealth, accompanied by swift-going horses. That same sacrificer certainly overcomes the people fallen from rites.
+
+##### English translation
+To him in this life is a valiant progeny, to him are swift herds of horses; the celebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who are no sacrificers.
+
+### Printed p. 223
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये पष्माष्टके द्वितीयोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye paṣmāṣṭake dvitīyo 'dhyāyaḥ samāptaḥ ‖*)
+
+ओं तत्त्वत् (*oṃ tattvat*)
+
+Here ends the second adhyāya in the sixth aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and with the Karnāṭaka-language translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+ओं (*oṃ*) **NOTE**
+
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ |*)
+
+ं । यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं । (*ṃ | yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ |*)
+
+ं । वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*ṃ | vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda-saṃhitā with the bhāṣya of Sāyaṇa (with the explanation of the meaning in the Karnāṭaka language). The third adhyāya in the sixth aṣṭaka. The third adhyāya in the sixth aṣṭaka; the thirty-second sūkta in the eighth maṇḍala.
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ षष्ठस्य तृतीयोऽध्याय आरभ्यते ॥ प्र कृतानीति त्रिंचदृचं द्वितीयं
+> सूक्तं । तत्रेयमनुक्रमणिका । प्र कृतानि त्रिंशन्मेधातिथिरिति । काणो मेधातिथिर्यषिः । परं गायत्रं प्राग्वत्सप्रेरिति परिभाषया गायत्री छंदः । अनादेशपरिभाषयेंद्रो देवता ॥ महाव्रते निष्केवल्ये गायत्रतृचाशीतावेतत्सूक्तं । तथैव
+> पंचमारण्यके शौनकेन सूत्रितं । प्र कृतान्यजीषिण आ घा ये अग्निमिंधते ।
+> ऐ. आ. ५-२-३ । इति ॥ अतिरात्रे प्रथमे पर्याये मैत्रावरुणशस्त्रे प्र कृतानीति
+> तृचोऽनुरूपः । सूत्रितं च । प्र व इंद्राय मादनं प्र कृतान्यजीषणः । आ. ६-४ ।
+
+##### Gist of the bhāṣya
+
+Now the third adhyāya of the sixth aṣṭaka begins. The second sūkta, beginning प्र कृतानि (*pra kṛtāni*), has thirty Ṛks. The Anukramaṇikā says प्र कृतानि त्रिंशन्मेधातिथिरिति (*pra kṛtāni triṃśanmedhātithiriti*): Medhātithi Kāṇva is the seer. The metre is Gāyatrī by a rule of the Anukramaṇikā, and the deity is Indra by the rule of no specification. In the Mahāvrata, in the Niṣkevalya rite, this sūkta is used for the Gāyatra tṛcas. **NOTE** Likewise Śaunaka, in the fifth Āraṇyaka, has given the rule प्र कृतान्यजीषिण आ घा ये अग्निमिंधते (*pra kṛtānyajīṣiṇa ā ghā ye agnimiṃdhate*) (Ai. Ā. 5-2-3). In the Atirātra, in the first paryāya, in the Maitrāvaruṇa śastra, the tṛca beginning प्र कृतानि (*pra kṛtāni*) is the anurūpa; and it is given in the rule प्र व इंद्राय मादनं प्र कृतान्यजीषणः (*pra va iṃdrāya mādanaṃ pra kṛtānyajīṣaṇaḥ*) (Ā. 6-4).
+
+### Printed p. 226
+
+> इति ॥ तस्मिन्नेव शस्त्रे प्रति श्रुतायेत्याद्याः पंचदशर्चः । सूत्र्यते हि । प्रति
+> श्रुताय वो धृषदिति पंचदश । आ. ६-४ । इति ॥ दशमेऽहनि प्रातःसवनेऽच्छावाकनादे पत्नीयजमानस्थाने प्रति श्रुतायेति तृचः । सूत्रितं च । प्रति श्रुताय
+> वो धृषदिति तृचौ । आ. ८-१२ इति ॥ अहीनांतर्गतस्यातिरात्रस्य प्रथमे पर्याये
+> होतुः पन्य इदुप गायतेत्यनुरूपः ॥
+
+##### Gist of the bhāṣya
+
+In that same śastra, fifteen Ṛks beginning प्रति श्रुताय (*prati śrutāya*) are used; it is given in the rule प्रति श्रुताय वो धृषदिति पंचदश (*prati śrutāya vo dhṛṣaditi paṃcadaśa*) (Ā. 6-4). On the tenth day, at the morning pressing, in the place of the wife of the sacrificer in the Acchāvāka's recitation, the tṛca beginning प्रति श्रुताय (*prati śrutāya*) is used; and it is given in the rule प्रति श्रुताय वो धृषदिति तृचौ (*prati śrutāya vo dhṛṣaditi tṛcau*) (Ā. 8-12). In the first paryāya of the Atirātra that belongs among the Ahīnas, for the Hotṛ, the anurūpa is पन्य इदुप गायतेत्यनुरूपः (*panya idupa gāyatetyanurūpaḥ*).
+
+##### Anuvāda
+
+Now the third adhyāya in the sixth aṣṭaka is begun. This sūkta beginning प्र कृतानि (*pra kṛtāni*) is the second sūkta in the fifth anuvāka of the eighth maṇḍala. It has thirty Ṛks. As the Anukramaṇikā says प्र कृतानि त्रिंशन्मेधातिथिः (*pra kṛtāni triṃśanmedhātithiḥ*): for this sūkta Medhātithi Kāṇva is the seer, Indra is the deity, and the metre is Gāyatrī. In the Mahāvrata rite, at the time of reciting the mantras of the Niṣkevalya śastra, this sūkta has its use for the Ṛks of the Gāyatrī metre; this is pointed out in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence प्र कृतान्वयजीषिण आ घा ये अग्निमिंधते (*pra kṛtānvayajīṣiṇa ā ghā ye agnimiṃdhate*) (Ai. Ā. 5-2-3). In the first paryāya of the sacrifice called Atirātra, in the śastra mantras recited by the priest called Maitrāvaruṇa, the three Ṛks beginning प्र कृतानि (*pra kṛtāni*) are to be recited as the anurūpa tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra प्र व इंद्राय मादनं प्र कृतान्वयजीषिणः (*pra va iṃdrāya mādanaṃ pra kṛtānvayajīṣiṇaḥ*) (Ā. 6-4). And the use, in the śastra mantras mentioned above, of the fifteen Ṛks of this sūkta beginning प्रति श्रुताय (*prati śrutāya*) (4-18) is explained by the sūtra of the Āśvalāyana Śrauta Sūtra प्रति श्रुताय वो धृषदिति पंचदश (*prati śrutāya vo dhṛṣaditi paṃcadaśa*) (Ā. 6-4). And on the tenth day of the sacrifice, at the time of the morning pressing, the three Ṛks beginning प्रति श्रुताय (*prati śrutāya*) (Ṛks 4-6) are to be recited for the Ṛk which the priest called Acchāvāka recites on behalf of the wife of the sacrificer; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra प्रति श्रुताय वो धृषदिति तृचौ (*prati śrutāya vo dhṛṣaditi tṛcau*) (Ā. 8-12). And in the middle of the Ahīna sūkta recited in the sacrifice called Atirātra, in the first paryāya, the priest called Hotṛ is to recite as the anurūpa tṛca the three Ṛks (Ṛks 17-19) beginning पन्य इदुप गायत (*panya idupa gāyata*); this is pointed out.
+
+##### Particulars of the sūkta
+
+- Maṇḍala 8; Anuvāka 5; Sūkta 32
+- Aṣṭaka 6; Adhyāya 3; Vargas 1, 2, 3, 4, 5, 6
+- Number of Ṛks in the sūkta: 30
+- Seer: मेधातिथिः काण्णः (*medhātithiḥ kāṇṇaḥ*)
+- Deity: इंद्रः (*iṃdraḥ*)
+- Metre: गायत्री (*gāyatrī*)
+
+### Printed p. 227
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र कृ॒तान्य॑जी॒षिणः॒ कण्वा॒ इंद्र॑स्य॒ गाथ॑या ।  
+> मदे॒ सोम॑स्य वोचत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । कृतानि । ऋजीषिणः । कण्वाः । इंद्रस्य । गाथया ।  
+> मदे । सोमस्य । वोचत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कण्वाः ऋजीषिण ऋजीषवतः सोमस्य कृतानि कर्माणेंद्रस्य गाथयेंद्रस्य वाचा मदेऽस्य मदे संजाते सति प्र वोचत । प्रब्रूत ॥
+
+##### Gist of the bhāṣya
+
+O Kaṇvas, proclaim the deeds of the soma that has residue, the deeds of the soma, with the song of Indra, that is, with speech about Indra, when his exhilaration has arisen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कण्वाः (*kaṇvāḥ*)—O seers of the Kaṇva lineage
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- मदे (*made*)—when joy has arisen from the drinking of soma
+- यजीषिणः (*yajīṣiṇaḥ*)—pressed again from soma plants already crushed and pressed once
+- सोमस्य (*somasya*)—of the soma juice
+- कृतानि (*kṛtāni*)—the qualities such as the power to gladden
+- गाथया (*gāthayā*)—with a sentence in the form of praise
+- प्रवोचक (*pravocaka*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O seers born in the lineage of Kaṇva, when Indra has been gladdened by drinking soma, praise well the surpassing qualities of the soma juice drawn by crushing yet once more the same soma plants that were crushed and pressed before.
+
+##### English translation
+Celebrate with songs the great deeds of Indra, the drinker of the stale Soma, when in his exhilaration.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋजीषिणः सोमस्य (*ṛjīṣiṇaḥ somasya*)—Ṛjīṣa means the crushed plants that remain like husk after the soma juice has been pressed out. At the time of the third pressing, together with the juice obtained by crushing once more the plants already crushed once, any one of milk, curds and barley flour is mixed
+
 ---
 
-**Progress note:** Done through printed p. 219. Mandala 8 Sukta 31 Rks 10-16 (pp. 214-219)
+**Progress note:** Done through printed p. 227. end of Mandala 8 Sukta 31 (Rks 16-18), colophon, Sukta 32 introduction and Rk 1 (pp. 220-227)
