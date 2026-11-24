@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Check the Pratipadārtha (word-meaning) words of a volume against the Wikisource Pada-pāṭha, Ṛk by Ṛk. Edits NOTHING.
 
+  python3 tools/rv/pratipada_check.py N --source   # the volume's SUPPLIED file (before translation) → review/pratipada_check_source.tsv
   python3 tools/rv/pratipada_check.py N            # volume N: its Kannada text, mandalas from volcfg.json, report volN/review/pratipada_check.tsv
   python3 tools/rv/pratipada_check.py FILE.md --mandala 7[,8] [--out X.tsv]     # any file (e.g. a merged OCR file, or a window kn.md)
 
@@ -13,7 +14,8 @@ compared with the words of THAT Ṛk (Pada-pāṭha words, and the Saṃhitā wo
 what the sources differ in: accents, ZWNJ/ZWJ, avagraha/hyphen, final virama, visarga, nasal + consonant = anusvāra.
 Status per word:  ok            found among the Ṛk's words
                   fix           not found; exactly ONE Ṛk word is within one edit (the proposal) → a candidate for `batch.py fix` (certain readings only)
-                  fix-certain   as 'fix', and the supplied Pada block of the same Ṛk already has the proposed word: only the Pratipadārtha entry is off
+                  fix-certain   as 'fix', the supplied Pada block of the same Ṛk already has the proposed word, AND the word as supplied is no word of the
+                                mandalas at all (a real word of another Ṛk, e.g. a Saṃhitā form with sandhi, is never 'certain'): only the Pratipadārtha entry is off
                   near          not found; several or farther candidates (listed) → the editor's decision / **NOTE**
                   absent        no candidate near → editor
                   noref         the Ṛk could not be matched to the reference
@@ -111,38 +113,43 @@ def main():
     if not a: sys.exit(__doc__)
     if a[0].isdigit():
         cfg = json.load(open(ROOT / f'vol{a[0]}' / 'volcfg.json'))
-        path = ROOT / cfg['out']['kn']; mand = cfg.get('mandalas') or [cfg['mandala']]
-        out = pathlib.Path(opt.get('--out') or ROOT / f'vol{a[0]}' / 'review' / 'pratipada_check.tsv')
+        src = '--source' in sys.argv      # the SUPPLIED file (volcfg source), the one pratipada_apply.py corrects, before translation
+        path = ROOT / (cfg['source'][0].split('@')[0] if src else cfg['out']['kn']); mand = cfg.get('mandalas') or [cfg['mandala']]
+        out = pathlib.Path(opt.get('--out') or ROOT / f'vol{a[0]}' / 'review' / ('pratipada_check_source.tsv' if src else 'pratipada_check.tsv'))
     else:
         path = pathlib.Path(a[0]); mand = [int(x) for x in opt['--mandala'].split(',')]
         out = pathlib.Path(opt.get('--out') or path.with_suffix('.pratipada_check.tsv'))
     if not DB.exists(): sys.exit('missing refs/wikisource/index/ws.sqlite: run  python3 tools/rv/ws_index.py build')
     ref = load_ref(mand)
     choices = [r[3] for r in ref]
+    vocab = set()                                   # every word form of the volume's mandalas (Pada and Saṃhitā)
+    for r in ref: vocab |= set(r[1]) | r[2]
     lines = path.read_text(encoding='utf8').split('\n')
     rows = []; stat = {}
     for pl, ptxt, prl, ents in sections(lines):
-        pw = [norm(w) for w in words(kn2dev(ptxt))]
+        pk = words(DROP.sub('', ptxt)); pw = [norm(kn2dev(w)) for w in pk]
         if not pw: continue
+        kn_of = {}                                          # normalised Pada word -> the Kannada spelling the supplied Pada block has
+        for k, w in zip(pk, pw): kn_of.setdefault(w, k)
         best = process.extractOne(' '.join(pw), choices, scorer=fuzz.ratio)
         rk, score = (ref[best[2]], best[1]) if best else (None, 0)
         trusted = rk is not None and score >= 75
-        rw = (set(rk[1]) | rk[2]) if trusted else set()
         rid = rk[0] if trusted else ''
-        for kind, ln, ws in (('pada', pl, pw), ('prat', prl, [norm(x) for e in ents for x in words(kn2dev(e))])):
-            orig = pw if kind == 'pada' else None
-            for idx, w in enumerate(ws):
+        prk = [x for e in ents for x in words(DROP.sub('', e))]
+        for kind, ln, ws in (('pada', pl, list(zip(pk, pw))), ('prat', prl, [(x, norm(kn2dev(x))) for x in prk])):
+            for ko, w in ws:
                 if not w: continue
                 if not trusted: st, pr = 'noref', []
                 else:
                     st, pr = judge(w, set(rk[1]) | rk[2] if kind == 'prat' else set(rk[1]))
-                    if kind == 'prat' and st == 'fix' and pr[0] in set(pw): st = 'fix-certain'   # the supplied Pada block of this Ṛk has the reference word
+                    if kind == 'prat' and st == 'fix' and pr[0] in kn_of and w not in vocab: st = 'fix-certain'   # the supplied Pada block of this Ṛk has the reference word
                 stat[(kind, st)] = stat.get((kind, st), 0) + 1
                 if st != 'ok':
-                    rows.append((kind, ln, rid, f'{score:.0f}', w, st, ' / '.join(pr)))
+                    rep = kn_of[pr[0]] if st == 'fix-certain' else ''
+                    rows.append((kind, ln, rid, f'{score:.0f}', w, st, ' / '.join(pr), ko, rep))
     out.parent.mkdir(parents=True, exist_ok=True)
     with open(out, 'w', encoding='utf8') as f:
-        f.write('kind\tline\tref\tmatch\tword(devanagari,normalised)\tstatus\tproposal\n')
+        f.write('kind\tline\tref\tmatch\tword(devanagari,normalised)\tstatus\tproposal\tkannada_as_supplied\tkannada_replacement\n')
         for r in rows: f.write('\t'.join(map(str, r)) + '\n')
     print(f'{path.name}: mandalas {mand}; report {out} ({len(rows)} rows not ok)')
     for k in sorted(stat): print(' ', k[0], k[1], stat[k])
