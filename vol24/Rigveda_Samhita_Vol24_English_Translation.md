@@ -36184,6 +36184,65 @@ O Ādityas, let this net, made by Yama, the son of Vivasvān, and like a harming
 ##### English translation
 Let not this weapon of Vivaswat, this net made with hands, Adityas, destroy us before old age.
 
+### Printed p. 796
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि सु द्वेषो॒ व्यं॑ह॒तिमादि॑त्यासो॒ वि संहि॑तं ।  
+> विश्व॒ग्वि वृ॑हता॒ रसः॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सु । द्वेषः । वि । अंहतिं । आदित्यासः । वि । संहितं ।  
+> विश्वक् । वि । वृहत । रपः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्यास आदित्याः द्वेषो द्वेष्टून सु सुष्टु वि वृहत । उन्मूलयत ।
+> नाशयतेत्यर्थः । तथांहतिं पातकं पापं वि वृहत ॥ हंतेरंह च । उ. ४-६२ ।
+> इत्यतिप्रत्ययः ॥ तथा संहितं जालं वि वृहत । तथा रपः पापं सर्वं विष्ण्वीषूचीनं वि वृहत । रपो रिप्रमिति पापनामनी भवतः । नि. ४-२१ । इति यास्कः ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, uproot well the haters, the hating ones; destroy them, this is the sense. In the same way uproot अंहतिं (*aṃhatiṃ*), the sin that is a fault. Likewise uproot the net that is bound together, and likewise uproot रपः (*rapaḥ*), all sin, everywhere. "रपो रिप्रमिति (*rapo ripramiti*): these are two names of sin," says Yāska (Ni. 4-21).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- द्वेषः (*dveṣaḥ*)—our enemies
+- सु (*su*)—completely
+- वि वृहत (*vi vṛhata*)—uproot
+- अंहतिं (*aṃhatiṃ*)—our sin
+- वि (*vi*)—uproot
+- संहितं (*saṃhitaṃ*)—this net that is bound together
+- वि (*vi*)—destroy
+- रपः (*rapaḥ*)—our sins
+- विष्टक् (*viṣṭak*)—completely
+- वि (*vi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, uproot our enemies completely. Uproot our sin. Destroy this net that is bound together, and destroy our sin completely.
+
+##### English translation
+Adityas, utterly destroy our enemies, destroy wickedness, destroy the closely drawn net, destroy evil everywhere.
+
+### Printed p. 797
+
+May Maheśvara Vidyātīrtha, dispelling the darkness of the heart by the light of the meaning of the Veda, grant the four aims of human life.
+
+Thus ends the fourth chapter, in the sixth Aṣṭaka, of the Ṛk-saṃhitā-bhāṣya, in the Vedārthaprakāśa of Mādhava, composed by Sāyaṇācārya, who bears the burden of the empire of the illustrious Vīra Bukka, king of kings, supreme lord, promoter of the Vedic path.
+
+Om, that is the truth.
+
+Here ends the fourth chapter, in the sixth Aṣṭaka, of the Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya and the Kannada translation.
+
+Whatever is lacking in letter or word, or whatever is defective in measure, let all that be forgiven, O God, Lord of Speech; salutation to you.
+
+May there be auspiciousness.
+
 ---
 
-**Progress note:** Done through printed p. 795. Ṛk 14-20, pp. 790-795
+**Progress note:** Done through printed p. 797. Ṛk 21, colophon, pp. 796-797
