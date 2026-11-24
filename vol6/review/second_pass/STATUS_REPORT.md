@@ -6,7 +6,7 @@
 - **Pages read:** 598 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–599)
 - **Findings:** 1125 — applied 821, questions 304; edits ok 829, failed 0
 - **Reader tokens (batches so far):** 4909k; per page 8.2k
-- **Last commit:** @C@
+- **Last commit:** 72888b7
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -31,7 +31,7 @@
 | 18 | 490–519 | 66 | 47 | 47 / 0 | 19 | 253k | f10e549 | 31 S1 + 11 S2 number repairs, 2 S7; Pāṇini adhyāya 9 printed on p. 507, and 6-2-55 vs 5-3-55 on p. 515 (open items); English from p. 490 is a condensed rendering; no page shifts |
 | 19 | 520–549 | 100 | 84 | 84 / 0 | 16 | 243k | 369af22 | 84 edits: 21 S1, about 40 S2 removals of sūtra numbers the Kannada does not print, 33 S7 quotation edits (IAST + Devanagari pairs); no page shifts; p. 540 prints 6-1-167 vs p. 521 6-1-197 (each page's own number applied); findings.tsv/questions.tsv p. 532 rows were trimmed by hand by the reader |
 | 20 | 550–579 | 78 | 56 | 56 / 0 | 22 | 246k | 5fbbab4 | 46 number repairs (16 S1/S3, 13 sūtra numbers, 18 removals), 7 R3 quotation edits; pp. 559 and 571 have no head in the supplied text (inside 558 and 570); English pp. 570/571 shifted (open items) |
-| 21 | 580–599 | 46 | 31 | 31 / 0 | 15 | TOK20 | @C@ | 4 S1 + 17 S2 + 2 S3 number repairs, 3 S13, 3 S14; no page shifts |
+| 21 | 580–599 | 46 | 31 | 31 / 0 | 15 | TOK20 | 72888b7 | 4 S1 + 17 S2 + 2 S3 number repairs, 3 S13, 3 S14; no page shifts |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
