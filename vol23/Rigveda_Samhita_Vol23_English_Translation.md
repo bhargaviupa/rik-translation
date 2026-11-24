@@ -289,6 +289,287 @@ Mighty goddess, who, scattering darkness, are endowed with power to arouse the w
 
 O Uṣas, bring (आ भर (*ā bhara*)) that wonderful (चित्रं (*citraṃ*)), desirable wealth (राधः (*rādhaḥ*)); give it to us — the wealth which is most renowned (दीर्घश्रुत्तमं (*dīrghaśruttamaṃ*)), to be heard of in the highest degree even across distance of place and time. And, O daughter of heaven, whatever food of yours, to be given by you, is fit for the enjoyment of mortals (humans), give (रास्व (*rāsva*)) that to us; and may we enjoy (भुनजामहै (*bhunajāmahai*)) the wealth and food given by you.
 
+### Printed p. 8
+#### Ṛk 5 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O Uṣas, goddess of dawn
+- यत् (*yat*)—which wealth
+- दीर्घश्रुतमं (*dīrghaśrutamaṃ*)—is renowned for a very long time
+- तत् (*tat*)—such
+- चित्रं (*citraṃ*)—and attractive
+- राधः (*rādhaḥ*)—wealth
+- आभर (*ābhara*)—bring
+- दिवः (*divaḥ*)—to the heavenly world
+- दुहितः (*duhitaḥ*)—O Uṣas, daughter
+- ते (*te*)—by you
+- मर्त भोजनं (*marta bhojanaṃ*)—such as may be given, and fit for the enjoyment of humans
+- यत् (*yat*)—whatever food there is
+- तत् (*tat*)—that food
+- रास्व (*rāsva*)—give to us
+- भुनजामहै (*bhunajāmahai*)—may we enjoy it
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, bring wealth that is renowned for a very long time, such wealth as is also attractive. O Uṣas, daughter of the heavenly world, give us whatever food there is that may be given by you and is fit for the enjoyment of humans. May we enjoy it.
+
+##### English translation
+Bring Ushas, such wondrous wealth as may be long renowned
+bestow, daughter of heaven, that sustenance which is fit for mortals, such
+as we may enjoy.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रवः॑ सू॒रिभ्यो॑ अ॒मृतं॑ वसुत्व॒नं वाजा॑ अ॒स्मभ्यं॒ गोम॑तः ।  
+> चो॒द॒यि॒त्रि म॒घोनः॑ सू॒नृता॑वत्यु॒षा उ॑च्छ॒दप॒ स्रिधः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रवः । सूरिभ्यः । अमृतं । वसुत्वनं । वाजान् । अस्मभ्यं । गोमतः ।  
+> चोदयित्रि । मघोनः । सूनृतावती । उषाः । उच्छत् । अप । स्रिधः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः सूरिभ्यः स्तोतृभ्योऽस्मभ्यममृतं मरणरहितं नित्यं वसुत्वनु
+> वासकं वसुत्वयुक्तं वा श्रवः श्रवणीयं यशो रास्वत्यनुषंगः । तथा गोमत्तो
+
+##### Gist of the bhāṣya
+
+O Uṣas, give to us, the praisers (सूरिभ्यः (*sūribhyaḥ*) means "to the praisers"), fame (श्रवः (*śravaḥ*), that which is to be heard) that is immortal, that is, deathless and eternal, and that is wealth-bringing (वसुत्वनु (*vasutvanu*)) or wealth-endowed. The verb रास्व (*rāsva*) is carried on from the previous verse. Likewise give us foods (वाजा (*vājā*)) joined with many cows. The remaining persons are in the third person.
+### Printed p. 9
+
+> बहुभिर्गोभिर्युक्तान्नाजानन्नानि चास्मभ्यं रास्व । शिष्टः परोक्षकृतः । मघोनो
+> हविष्मतो यजमानस्य चोदयित्रि प्रेरयित्रि सूनृतावती । प्रियसत्यात्मिका
+> वाक्सूनृता । तद्वत्रुषाः स्त्रिधः शोषकाञ्छत्रूनपोचच्छत् । अपगमयतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the gloss. The rest of the verse is spoken in the third person, as an indirect address. मघोनो (*maghono*) is the sacrificer who has the oblation. चोदयित्रि (*codayitri*) is she who impels, and सूनृतावती (*sūnṛtāvatī*) is she who has सूनृता (*sūnṛtā*), speech that is by nature pleasant and true. May Uṣas, endowed with such speech, drive away the enemies called स्रिधः (*sridhaḥ*), that is, those who parch or wither, by the verb *apocacchat* (अपगमयतु (*apagamayatu*), "may she make them go away").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरिभ्यः (*sūribhyaḥ*)—to us, who are praisers (O goddess Uṣas)
+- अमृतं (*amṛtaṃ*)—that which is eternal
+- वसुत्वनं (*vasutvanaṃ*)—and that which is endowed with wealth
+- श्रवः (*śravaḥ*)—give fame
+- गोमतः (*gomataḥ*)—accompanied by cows
+- वाजान् (*vājān*)—foods
+- अस्मभ्यं (*asmabhyaṃ*)—give to us
+- मघोनः (*maghonaḥ*)—to the sacrificer who has the oblation
+- चोदयित्री (*codayitrī*)—she who is the impeller
+- सूनृतावती (*sūnṛtāvatī*)—and an excellent guide
+- उषाः (*uṣāḥ*)—the goddess Uṣas
+- स्रिधः (*sridhaḥ*)—the enemies who do harm
+- अप उच्छत् (*apa ucchat*)—may she drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Uṣas, give us, the praisers, fame that is eternal and endowed with wealth. Give us food accompanied by cows. May the goddess Uṣas, the impeller of the sacrificer who has the oblation and his excellent guide, drive far away the enemies who do harm.
+
+##### English translation
+Grant to the pious immortal fame, conjoined with affluence: grant
+to us food and cattle: and may Ushas, the encourager of the wealthy
+(sacrificer), the speaker of truth, drive away our foes.
+## Sūkta 82 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रावरुणेति दशर्चं द्वादशं सूक्तं वसिष्ठस्यार्षं जागतं । इदमादीनि
+> चत्वारि सूक्तानींद्रावरुणदेवतानि । तथा चानुक्रांतं । इंद्रावरुणा दश्येंद्रावरुणं ह जागतं त्विति ॥ तृतीये सवन उक्थ्ये प्रशास्तुः शस्त्र एतत्तूक्तं । सूत्रितं च।
+> इंद्रावरुणा युवमा नां राजान् । आ ६-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+The twelfth sūkta, of ten Ṛks, beginning इंद्रावरुणेति (*iṃdrāvaruṇeti*), belongs to Vasiṣṭha as seer and is in the Jagatī metre. This sūkta and the three that follow it have Indra and Varuṇa as deity. So the Anukramaṇī says: इंद्रावरुणा दश्येंद्रावरुणं ह जागतं त्विति (*iṃdrāvaruṇā daśyeṃdrāvaruṇaṃ ha jāgataṃ tviti*). This sūkta is used in the Praśāstṛ's śastra at the third savana of the Ukthya rite, and the sūtra confirms it: इंद्रावरुणा युवमा नां राजान् (*iṃdrāvaruṇā yuvamā nāṃ rājān*) (Ā. 6-1).
+
+##### Anuvāda
+
+This sūkta beginning "इंद्रावरुणा (*iṃdrāvaruṇā*)" is the twelfth sūkta in the fifth anuvāka. It has ten Ṛks. Vasiṣṭha is the seer of this sūkta, Indra and Varuṇa are the deities, and the metre is Jagatī. The four sūktas from this one onward have Indra and Varuṇa as deity. The Anukramaṇī says: इंद्रावरुणा दश्येंद्रावरुणं ह जागतं (*iṃdrāvaruṇā daśyeṃdrāvaruṇaṃ ha jāgataṃ*). The use of this sūkta is for the śastra mantras recited by the ṛtvij called the Praśāstṛ at the time of the savana of the sacrifice named Ukthya, and this is explained in Āśvalāyana's Śrautasūtra by the sūtra "इंद्रावरुणा युवमा नां राजान् (*iṃdrāvaruṇā yuvamā nāṃ rājān*)" (Ā. 6-1). **NOTE**
+
+##### Particulars
+
+Maṇḍala 7. Anuvāka 5. Sūkta 82. Aṣṭaka 5. Adhyāya 6. Varga 2, 3. Number of Ṛks in the sūkta: 10. Ṛṣi: Vasiṣṭha. Deity: Indra and Varuṇa. Metre: Jagatī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ वरुणा यु॒वम॑ध्व॒राय॑ नो वि॒शे जना॑य॒ महि॒ ॑ 
+> शर्म यच तं ।  
+> दी॒र्घप्र॑यज्यु॒मति॒ यो व॑नु॒ष्यति॑ व॒यं ज॑येम॒ पृत॑नासु  ॒॑
+> दूढ्यः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रावरुणा। युवं । अध्वराय । नः । विशे । जनाय । महि । शर्म । यच्छतं ।  
+> दीर्घप्रयज्युं । अति । यः । वनुष्यति वयं।जयेम । पृतनासु । दुःध्यः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणेंद्रावरुणौ युवं युवां नोऽस्माकं विशे निवेशयित्रे
+> परिचारकाय जनाय पुत्रपौत्रादिलक्षणायाध्वराय यज्ञानुष्ठानार्थं महि महच्छर्म गृहं सुखं वा यच्छतं । प्रयच्छतं । अपि च दीर्घप्रयज्युं दीर्घप्रततयज्ञमस्मदीयं जनं यः शत्रुरति वनुष्यति अतिजिघांसति पृतनासु संग्रामेषु
+> दूढ्यो दुर्धियो दुष्टाभिसंधींस्ताङ्छत्रून्वयं जयेम । अभिभवेम ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, grant to our servant person (विशे जनाय (*viśe janāya*), one who settles us in comfort), that is, sons, grandsons and the like, for the sacrifice (अध्वराय (*adhvarāya*)), for the performance of the sacrificial rite, a great शर्म (*śarma*), that is, a house or happiness (यच्छतं (*yacchataṃ*), "give"). Moreover, whatever enemy overly desires to kill (अति वनुष्यति (*ati vanuṣyati*)) our man whose sacrifice is long extended (दीर्घप्रयज्युं (*dīrghaprayajyuṃ*)), may we conquer in battles (पृतनासु (*pṛtanāsu*)) such enemies, who are दूढ्यः (*dūḍhyaḥ*), of evil mind and hostile design (जयेम (*jayema*), "may we overpower").
+### Printed p. 12
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- युवं (*yuvaṃ*)—you
+- नः (*naḥ*)—for our sake
+- विशे (*viśe*)—to the man who worships
+- जनाय (*janāya*)—to the person
+- अध्वराय (*adhvarāya*)—so as to be favourable to the sacrifice
+- महि (*mahi*)—great
+- शर्म (*śarma*)—a house
+- यच्छतं (*yacchataṃ*)—give
+- दीर्घप्रयज्युं (*dīrghaprayajyuṃ*)—our man who is engaged in sacrifice for a long time
+- यः (*yaḥ*)—whichever enemy
+- अति वनुष्यति (*ati vanuṣyati*)—harms excessively
+- पृतनासु (*pṛtanāsu*)—in battles
+- दूड्यः (*dūḍyaḥ*)—such enemies who show an evil mind
+- वयं (*vayaṃ*)—we
+- जयेम (*jayema*)—may we conquer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, give a great house, favourable to the sacrifice, to the man who worships for our sake. May we conquer in battles those enemies who show an evil mind, whichever enemy harms excessively our man who has long been engaged in sacrifice.
+
+##### English translation
+Indra and Varuna, bestow upon this man, our employer, a spacious chamber for (the celebration of) the sacrifice; and may we subdue in conflicts such evil-minded persons as may seek to injure him who has been long engaged (in your adoration).
+
+##### विशेषविषयगळु (Special Topics)
+
+वनुष्यति (*vanuṣyati*)—In giving the nirvacana of this word, Yāska takes the present Ṛk itself as the example and states the nirvacana for the second half of the Ṛk.
+वनुष्यति । वनुष्यतिर्हंतिकर्मानवगतसंस्कारो भवति । वनुयाम वनुष्यतः इत्यपि निगमो भवति । दीर्घप्रयुज्युमति यो वनुष्यति वयं जयेम पृतनासु दूढ्यः । दीर्घप्रततयज्ञमभिजिघांसति यो वयं तं जयेम पृतनासु दूढ्यं दुर्धियं पापधियं । पापः पातापेयानां पापत्यमानोऽवाजीव पततीति वा पापत्यतेर्वा स्यात्॥ (*vanuṣyati | vanuṣyatirhaṃtikarmānavagatasaṃskāro bhavati | vanuyāma vanuṣyataḥ ityapi nigamo bhavati | dīrghaprayujyumati yo vanuṣyati vayaṃ jayema pṛtanāsu dūḍhyaḥ | dīrghapratatayajñamabhijighāṃsati yo vayaṃ taṃ jayema pṛtanāsu dūḍhyaṃ durdhiyaṃ pāpadhiyaṃ | pāpaḥ pātāpeyānāṃ pāpatyamāno 'vājīva patatīti vā pāpatyatervā syāt‖*) (Ni. 5-2)
+The word वनुष्यति (*vanuṣyati*) means to harm, to kill. How this word is formed cannot be understood in accordance with grammar. "वनुयाम वनुष्यतः (*vanuyāma vanuṣyataḥ*)" is an example from a śruti sentence; that is, this word is stated in the Ṛks
+त्वया वयं मघवन् पूर्वे धन इंद्रत्वोताः सासह्याम पृतन्यतो वनुयाम वनुष्यतः । (*tvayā vayaṃ maghavan pūrve dhana iṃdratvotāḥ sāsahyāma pṛtanyato vanuyāma vanuṣyataḥ |*) (Ṛ. Saṃ. 1-132-1)
+अस्माकेभिर्नृभिर्वयं सासह्याम पृतन्यतो वनुयाम वनुष्यतो नभंतामन्यके समे । (*asmākebhirnṛbhirvayaṃ sāsahyāma pṛtanyato vanuyāma vanuṣyato nabhaṃtāmanyake same |*) (Ṛ. Saṃ. 8-40-7)
+The meaning of this sentence is: may we kill those who wish to harm us. As for the sentence in the present Ṛk,
+दीर्घप्रयुज्युमति यो वनुष्यति वयं जयेम पृतनासु दूढ्यः (*dīrghaprayujyumati yo vanuṣyati vayaṃ jayema pṛtanāsu dūḍhyaḥ*) (Ṛ. Saṃ. 7-82-1)
+the meaning is: may we conquer in battle the man who wishes to harm us, who are engaged in sacrifice for a long time. For the word दीर्घप्रयुज्युं (*dīrghaprayujyuṃ*), the gloss दीर्घप्रततयज्ञं (*dīrghapratatayajñaṃ*) means one engaged in a sacrifice that goes on for a long time, extended. May we conquer in battle the man of such evil mind, of sinful mind, who desires to harm us such as we are. दूढ्यं (*dūḍhyaṃ*) means दुर्धियं पापदियं (*durdhiyaṃ pāpadiyaṃ*), one of evil mind, one given to sinful deeds. As for पापः (*pāpaḥ*): because he drinks beverages not fit for drinking (liquors and the like), such a man is called पापः (*pāpaḥ*). Or, because a man who does evil deeds goes down into a lower state again and again, he is called पापः (*pāpaḥ*). Or the word पाप (*pāpa*) may be derived from the root पत् (*pat*) "to fall". This is the main sense of the nirvacana.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म्राळ॒न्यः स्व॒राळ॒न्य उ॑च्यते वां म॒हांता॒विंद्रा॒वरु॑णा  ॒॑
+> महावसू ।  
+> विश्वे॑ दे॒वासः॑ पर॒मे व्यो॑मनि॒ सं वा॒मोजो॑ वृषणा॒ सं ॑ 
+> बलं दधुः ॥ २ ॥
+
+### Printed p. 13
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संराट् । अन्यः । स्वराट् । अन्यः । उच्यते । वां । महांतौ । इंद्रावरुणा ।  
+> महावसू इति महावसू ।  
+> विश्वे । देवासः । परमे । विओमनि । सं । वां । ओजः । वृषणा । सं । बलं । दधुः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीयः पादः वरोक्षकृतः शिष्टाः प्रत्यक्षकृताः । हे इंद्रावरुणौ नां
+> युवयोर्मध्येऽन्य एको वरुणः सम्राट् सम्यग्राजमान इत्युच्यते । ता सम्राजा धृतासुती । ऋ. २-४१-६ । इत्यादिषु कीर्त्यते । अन्य इंद्रः स्वराट् स्वयमेवान्यनिरपेक्षयैव राजमान इत्युच्यते । स्वराळिंद्रो दमे । ऋ. १-६१-९ । इत्यादिषु
+> कीर्त्यते । तथाविधामिद्रावरुणेंद्रावरुणौ महांतौ गुणैरधिकौ महावसू
+> महाधनौ च भवतः । हे वृषणा कामानां वर्षिताराविंद्रावरुणौ नां युवां
+> परमे व्योमन्युत्कृष्ट आकाशे विश्वे देवासः सर्वॆ देवा ओजः सं दधुः। समयोजयन् । शरीरदाढ्याय । तद्धेतुभूतं तदोज इत्युच्यते । स्मर्यते च । ओजः
+> साष्टमी दशेति । तथा बलं वृत्रवधादेः कार्यस्य हेतुभूतं सामर्थ्यं च युवाभ्यां सं दधुः । समयोजन् ॥
+
+##### Gist of the bhāṣya
+
+The second pāda is in the third person (indirect address); the rest are in the direct address. O Indra and Varuṇa, of you two, one, Varuṇa, is called सम्राट् (*samrāṭ*), one who shines fully. He is so celebrated in passages such as ता सम्राजा धृतासुती (*tā samrājā dhṛtāsutī*) (Ṛ. 2-41-6). The other, Indra, is called स्वराट् (*svarāṭ*), one who shines of himself, independent of others. He is so celebrated in passages such as स्वराळिंद्रो दमे (*svarāḷiṃdro dame*) (Ṛ. 1-61-9). **NOTE**
+Such Indra and Varuṇa are great (महांतौ (*mahāṃtau*)), greater in qualities, and have great wealth (महावसू (*mahāvasū*)). O showerers (वृषणा (*vṛṣaṇā*)) of desires, Indra and Varuṇa, in the highest sky (परमे व्योमनि (*parame vyomani*)) all the gods united ओजः (*ojaḥ*) for you (सं दधुः (*saṃ dadhuḥ*), "they joined"), for bodily firmness. The cause of that firmness is called ओजः (*ojaḥ*). It is also remembered: ओजः साष्टमी दशेति (*ojaḥ sāṣṭamī daśeti*). Likewise they united strength (बलं (*balaṃ*)), the capacity that is the cause of acts such as the slaying of Vṛtra, in you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—among you (O Indra and Varuṇa)
+- अन्यः (*anyaḥ*)—one, Varuṇa
+- सम्राट् (*samrāṭ*)—as a most radiant lord
+- उच्यते (*ucyate*)—is celebrated
+- अन्यः (*anyaḥ*)—the other, Indra
+- स्वराट् (*svarāṭ*)—is celebrated as a self-luminous lord
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—such celebrated Indra and Varuṇa
+- महांता (*mahāṃtā*)—are those of great qualities
+- महावसू (*mahāvasū*)—and those of very abundant wealth
+- वृषणा (*vṛṣaṇā*)—O Indra and Varuṇa, showerers of desires
+- वां (*vāṃ*)—with you
+- परमे व्योमनि (*parame vyomani*)—in the excellent sky
+- विश्वे देवासः (*viśve devāsaḥ*)—all the gods
+- ओजः (*ojaḥ*)—heroic vigour
+- सं दधुः (*saṃ dadhuḥ*)—have united
+- बलं (*balaṃ*)—and strength fit for slaying enemies
+- सं (दधुः) (*saṃ (dadhuḥ)*)—have united
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, one of you, Varuṇa, is celebrated as a most radiant lord. The other, Indra, is celebrated as a self-luminous lord. Such celebrated Indra and Varuṇa are those of great qualities and of very abundant wealth. O Indra and Varuṇa, showerers of desires,
+### Printed p. 14
+all the gods too, in the excellent sky, have united with you vigour and strength fit for slaying enemies.
+
+##### English translation
+One of you is titled supreme monarch, so is the other : mighty and most opulent are you, Indra and Varuna : all the gods in the highest heaven, showerers (of benefits), have combined your united strength, (your) united vigour.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, in praising Indra and Varuṇa, they are praised by the words अन्यः सम्राट् अन्यः स्वराट् (*anyaḥ samrāṭ anyaḥ svarāṭ*). In this matter the commentator makes it clear by two examples: that Varuṇa is praised by the word सम्राट् (*samrāṭ*) in the Ṛk
+ता सम्राजा धृतासुती आदित्या दानुनस्पती । सचेते अनवह्वरं ॥ (*tā samrājā dhṛtāsutī ādityā dānunaspatī | sacete anavahvaraṃ ‖*) (Ṛ. Saṃ. 2-42-6)
+and that Indra is praised by the word स्वराट् (*svarāṭ*) in the Ṛk
+स्वराळिंद्रो दम आ विश्वगूर्तः स्वरिरमत्तो ववक्षे रणाय । (*svarāḷiṃdro dama ā viśvagūrtaḥ svariramatto vavakṣe raṇāya |*) (Ṛ. Saṃ. 1-61-9)
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अन्व॒पां खान्य॑तृंत॒मोज॒सा सूर्य॑मैरयतं दि॒वि प्र॒भुं ।  
+> इंद्रा॑वरुणा॒ मदे॑ अस्य मा॒यिनोपि॑न्वतम॒पितः॒ पिन्व॑तं॒  ॑
+> धियः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । अपां । खानि । अतृंतं । ओजसा । आ । सूर्यं । ऐरयतं । दिवि । प्रभुं ।  
+> इंद्रावरुणा । मदे । अस्य । मायिनः । अपिन्वतं । अपितः । पिन्वतं । धियः ॥ ३ ॥
+
+### Printed p. 15
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुण् अपामुदकानां खानि द्वाराणि वृत्रेण पिहितान्योजसा
+> बलेनान्वत्यंतं । अन्वविध्यतं । अवरकस्य वृत्रस्य वधेन वृष्टिप्रतिबंधं निराकृतवंतावित्यर्थः । तथा सूर्यं सर्वस्य प्रेरकमादित्यं दिव्यंतरिक्षे प्रभुं प्रभूतं संतमैरयतं । अभ्यगमयतु । स्वर्भानुनावृतं सूर्यं तद्वधेन प्रकाशितवंतावित्यर्थः । हे इंद्रावरुणेंद्रावरुणौ मायिनः प्रज्ञाकरस्यास्य सोमस्य पानेन
+> मदे हर्ष सत्यपितो जलरहिता नदीरपिन्वतं । जलेनापूरयतं । तथा च निवित्वदमाम्नायते । अस्य मदे जरितरिंद्रोऽजिन्वदजुवोऽपिन्वदपित इति । अपि च धियः
+> कर्माण्यस्माभिरनुष्ठितानि कर्माणि पिन्वतं । सिंचतं । फलेन पूरयतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, the doors (खानि (*khāni*)) of the waters, closed by Vṛtra, you pierced through (*anvatṛṃtaṃ*, अन्वविध्यतं (*anvavidhyataṃ*)) with your strength (ओजसा (*ojasā*)). The sense is that by slaying the base Vṛtra you removed the obstruction to rain. Likewise you caused (ऐरयतं (*airayataṃ*), अभ्यगमयतु (*abhyagamayatu*)) Sūrya, the impeller of all, Āditya, to be a lord (प्रभुं (*prabhuṃ*)) in the heavenly sky. The sense is that Sūrya, who had been covered by Svarbhānu, you made to shine by slaying him. O Indra and Varuṇa, in the exhilaration (मदे (*made*)) arising from drinking this wisdom-giving (मायिनः (*māyinaḥ*)) Soma, you filled with water the rivers that were waterless (अपितः (*apitaḥ*); अपिन्वतं (*apinvataṃ*)). So the nivid text is recited: अस्य मदे जरितरिंद्रोऽजिन्वदजुवोऽपिन्वदपित इति (*asya made jaritariṃdro 'jinvadajuvo 'pinvadapita iti*). Moreover, the rites performed by us (धियः (*dhiyaḥ*) means rites), do you पिन्वतं (*pinvataṃ*), that is, sprinkle, and fill with fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां (*apāṃ*)—of the waters (O Indra and Varuṇa)
+- खानि (*khāni*)—the doors (closed by Vṛtra)
+- ओजसा (*ojasā*)—by your vigour
+- अनु अतृंतं (*anu atṛṃtaṃ*)—you opened out completely
+- सूर्यं (*sūryaṃ*)—Sūrya
+- दिवि (*divi*)—in the sky
+- प्रभुं (*prabhuṃ*)—as lord
+- आ ऐरयतं (*ā airayataṃ*)—you have established
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- मायिनः (*māyinaḥ*)—life-giving
+- अस्य (*asya*)—of this, arising from the drinking of Soma
+- मदे (*made*)—as the result of the exhilaration
+- अपितः (*apitaḥ*)—the waterless rivers
+- अपिन्वतं (*apinvataṃ*)—you made full of water
+- धियः (*dhiyaḥ*)—our rites
+- पिन्वतं (*pinvataṃ*)—you made full of fruit
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, you opened out completely, by your vigour, the doors of the waters closed by Vṛtra. It is you who regulated and established Sūrya as lord in the sky. O Indra and Varuṇa, as the result of the exhilaration arising from drinking this life-giving Soma, you made the waterless rivers full of water. You made our rites full of fruit.
+
+##### English translation
+Indra and Varuna, you have forced open by your strength the barriers of the waters: you have established Surya as the lord in heaven : in the exhilaration of the inspiring (Soma) you have replenished the dry (beds of the rivers) : do you also fulfil the objects of our sacred rites.
+
 ---
 
-**Progress note:** Done through printed p. 6. pp. 1-6 (batch API)
+**Progress note:** Done through printed p. 15. pp. 8-15 (batch API)
