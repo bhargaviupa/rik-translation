@@ -27544,6 +27544,309 @@ O Śakra, mighty Indra, as you drank the pressed Soma standing in Manu Vaivasvat
 - यथा (*yathā*)—in what manner
 - विवस्वति (*vivasvati*)—in the son of Vivasvat
 
+### Printed p. 605
+
+- मन् (*man*)—in Manu
+- सोमं (*somaṃ*)—the pressed Soma
+- अपिबः (*apibaḥ*)—you drank
+- यथा (*yathā*)—in what manner
+- त्रिते (*trite*)—made in Trita
+- छंदः (*chaṃdaḥ*)—the praise formed of metre
+- जुजोषसि (*jujoṣasi*)—you served, in the same way
+- आयौ (*āyau*)—in me, called Āyu
+- सचा (*sacā*)—being one with me
+- मादयसे (*mādayase*)—be satisfied with my Soma and praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, endowed with ability, in the manner in which you drank the Soma that was in Manu, the son of Vivasvat, in the manner in which you served the praise formed of metre made in Trita, in the same way, being with me, called Āyu, may the Soma offered by me serve me and the praise, and may you be satisfied.
+
+##### English translation
+Indra, as you drunk the Soma of Manu as you fulfilled the wishes of Triti as you were exhilarated.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृष॑ध्रॆः॒ मेध्ये॑ मात॒रिश्व॒नींद्र॑ सुवा॒ने अमं॑दथाः ।  
+> यघा॒ सोमं॒ दश॑शिप्रे॒ दशो॑ण्ये॒ स्यूम॑रश्मा॒वृजू॑नसि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सृषध्रे । मेध्ये । मातरिश्वनि । इंद्र । सुवाने । अमंदथाः ।  
+> मथा । सोमं । दशशिप्रे । दशओण्ये । स्यूमरश्मा । ऋजूनसि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुवाने सोमाभिषवं कुर्वाणे पृषध्रे एतन्नामके ऋषौ
+> वर्तमानं सोमं पीत्वा यथा अमंदथाः हृष्टपानसि। यथा च मेध्यॆ मातरिश्वनि
+> दशशिप्रे दशोण्ये सूमरश्मौ ऋजूनसि च एतेषु सर्वेष्टृषिसु वर्तमानं सोमं
+> पीत्वा अमंदथाः । तदा मां मादयसे इति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, as you rejoiced (अमंदथाः (*amaṃdathāḥ*)) after drinking the Soma standing in the seer named Pṛṣadhra, who was pressing Soma; and as, in the case of all these seers, Medhya, Mātariśvan, Daśaśipra, Daśonya, Sūmaraśmi and Ṛjūnas, you rejoiced after drinking the Soma standing in them, then delight me: this connects with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सुवाने (*suvāne*)—who performs the pressing of Soma
+- पृषध्रे (*pṛṣadhre*)—in the seer called Pṛṣadhra
+- सोमं (*somaṃ*)—having drunk the Soma
+- यथा (*yathā*)—in what manner
+
+### Printed p. 606
+
+- अमंदथाः (*amaṃdathāḥ*)—you attained delight (so also)
+- मेध्यॆ (*medhyè*)—in Medhya
+- मातरिश्वनि (*mātariśvani*)—in Mātariśvan
+- दशशिप्रे (*daśaśipre*)—in Daśaśipra
+- दशोण्ये (*daśoṇye*)—in Daśonya
+- स्यूमरश्मि (*syūmaraśmi*)—in Syumaraśmi
+- ऋजूनसि (*ṛjūnasi*)—in Ṛjūna; having drunk the Soma that was prepared there, in the manner in which you attained delight, in the same way drink the Soma offered by me and attain delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, having drunk the Soma offered by all these seers who performed the pressing of Soma, Pṛthu, Medhya, Mātariśvan, Daśaśipra, Daśonya, Sūmaraśmi and Ṛjūna, in the manner in which you attained delight, in the same way drink the Soma offered by me and attain delight. **NOTE**
+
+##### English translation
+As you become exhilarated with Prishadra when Matararishva effuses Soma at the rite. As you did drink the radiant Soma with Dasashipra and Dashonya.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒क्ता केव॑ला द॒धे यः सोमं॑ धृषि॒तापि॑बत् ।  
+> यस्मै॒ विष्णु॒स्त्रीणि॑ प॒दा वि॑चक्र॒म उप॑ मि॒त्रस्य॒ धर्म॑भिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उक्ता । केवला । दधे । यः । सोमं । धृषिता । अपिबत् ।  
+> यस्मै । विष्णुः । त्रीणि । पदा । विचक्रमे । उप । मित्रस्य । धर्मभिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः केवला केवलानि आत्मस्वामिकानि उक्था उक्थानि शस्त्राणि दधे अवधारयति । शृण्वतीत्यर्थः (? शृणोति) । यश्चेंद्रः धृषितः शत्रूणां धर्षकः अभिभविता
+> सन् सोममपिबत् पीतवान् । यस्मै इंद्राय तदर्थं विष्णुर्वापक उपेंद्रः
+> मित्रस्य । मित्रोऽहरभिमानी देवः । अहर्वै मित्रो रात्रिर्वरुणः (ऐ. ब्रा. ४-१०)
+> इति श्रुतेः । तस्य धर्मभिः धर्मैः उवयास्तमय्यैन्व्यापारैरुपलक्षितः सन् त्रीणि
+
+##### Gist of the bhāṣya
+
+The Indra who holds (दधे (*dadhe*)), that is, attends to **NOTE**, the exclusive (केवला (*kevalā*)) recitations (उक्था (*ukthā*)), the śastras that belong to him alone; and the Indra who, bold, an assailant and overcomer of enemies, drank Soma; for whom Viṣṇu, the pervader, Upendra, marked by the functions of Mitra (Mitra is the deity presiding over the day, according to the Śruti अहर्वै मित्रो रात्रिर्वरुणः (*aharvai mitro rātrirvaruṇaḥ*), Ai. Brā. 4-10), that is, by the activities of rising and setting, strode with three steps
+
+### Printed p. 607
+
+> पदा त्रिभिः पादैः विचक्रमे विशेषेण आक्रांतवान् त्रिलोकीं । स इंद्रोऽस्मान्
+> मादयत्वति आशीः ॥
+
+##### Gist of the bhāṣya
+
+across the three worlds in particular. May that Indra delight us: this is a blessing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- केवला (*kevalā*)—that gives self-satisfaction
+- उक्था (*ukthā*)—the praises in the form of śastras
+- दधे (*dadhe*)—obtained
+- धृषिता (*dhṛṣitā*)—who assails enemies
+- यः (*yaḥ*)—who
+- सोमं (*somaṃ*)—Soma
+- अपिबत् (*apibat*)—drank
+- यस्मै (*yasmai*)—for whom
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu, the pervader
+- मित्रस्य (*mitrasya*)—of the god Mitra
+- धर्मभिः (*dharmabhiḥ*)—by the qualities of rising and setting
+- उप (*upa*)—being indicated
+- त्रीणि पदा (*trīṇi padā*)—his three steps
+- विचक्रमे (*vicakrame*)—spread and pervaded; may such an Indra drink our Soma and be satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+May that Indra who has obtained the praises in the form of śastras that give self-satisfaction, that Indra, the assailant of enemies, who drank the Soma, for whom the all-pervading Viṣṇu, indicated by the qualities of the god Mitra, which consist of rising and setting, spread and pervaded with his three steps, drink our Soma and be satisfied.
+
+##### English translation
+He who has taken for himself the hymns, who has dared heroically drink Soma, in whose presence Vishnu put three steps as directed by Mitra.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ त्वमिं॑द्र॒ स्तोमे॑षु चा॒कनो॒ वाजे॑ वाजिञ्चितक्रतो ।  
+> तं त्वा॑ व॒यं सु॒दुघा॑मिव गो॒दुहो॑ जुहू॒मसि॑ श्रव॒स्यवः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । त्वं । इंद्र । स्तोमेषु । चाकनः । वाजे । वाजिन् । शतक्रतो इति शतक्रतो ।  
+> तं । त्वा । वयं सुदुघां इव । गोदुहः । जुहूमसि । श्रवस्यवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिन् अन्नवन् हे शतक्रतो बहुकर्मवन्निंद्र त्वं यस्य यजमानस्य
+> स्तोमेषु स्तोत्रेषु निमित्तेषु वाजे हविर्लक्षणे अन्ने च निमित्तभूते सति चाकनः
+
+##### Gist of the bhāṣya
+
+O Vājin, possessor of food, O Śatakratu, possessor of many rites, Indra, you take delight (चाकनः (*cākanaḥ*)) in the sacrificer whose praises are the occasion, and when the food of the oblation is the occasion
+
+### Printed p. 608
+
+> तृप्यसि तं तादृशं त्वा त्वामिंद्रं श्रवस्यवः । श्रव इत्यन्ननाम । अन्नकामा वयं
+> यजमानाः जुहुमः हविर्दद्मः । तत्र दृष्टांतः । सुदुघामिव गोदुहः ।
+> गोदोग्धारः सुदोग्धिं गां प्रति यथा हरिततृणादिकं ददति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+such as you are, Indra, we, who desire food (श्रवस्यवः (*śravasyavaḥ*); श्रव (*śrava*) is a name for food), sacrificers, make offering of oblation (जुहुमः (*juhumaḥ*)). An illustration: as milkers of cows give green grass and the like to a good milch cow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—doer of many rites
+- वाजिन् (*vājin*)—possessor of food
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- यस्य (*yasya*)—of which sacrificer
+- स्तोमेषु (*stomeṣu*)—at the time of praise
+- वाजे (*vāje*)—for his food
+- चाकनः (*cākanaḥ*)—you show your satisfaction
+- तं त्वा (*taṃ tvā*)—you, who belong to that same sacrificer
+- श्रवस्यवः (*śravasyavaḥ*)—desirous of food
+- वयं (*vayaṃ*)—we
+- गोदुहः (*goduhaḥ*)—those who wish to milk a cow
+- सुदुघां इव (*sudughāṃ iva*)—as one approaches and calls an excellent milch cow
+- जुहूमसि (*juhūmasi*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many rites and possessor of food, in the sacrificer at whose praises you show your satisfaction for the sake of his food, you who belong to that same sacrificer we, who desire food, call with prayer, as those who wish to milk a cow approach and call an excellent milch cow.
+
+##### English translation
+Indra of great speed who desires praises in the rite, we are invoking you desirous of food like milkers calling cows giving milk.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नो॑ दा॒ता स नः॑ पि॒ता म॒हा उ॒ग्र ई॑शान॒कृत् ।  
+> अया॑मन्नु॒गो म॒घवा॑ पुरू॒वसु॒र्गॊरश्व॑स्य॒ प्र दा॑तु नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । दाता । सः । नः । पिता । महान् । उग्रः । ईशानकृत् ।  
+> आयामन् । उग्रः । मघवा । पुरुवसुः । गोः । अश्वस्य । प्र । दातु । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यॆ इंद्रः नोऽस्मभ्यं दाता धनादेर्ददति (? ददाति) सः इंद्रः नोऽस्माकं
+> पिता पालको भवतु । कीदृशः सः । महान् प्रौढः उग्रः उद्धूर्णबलः ईशानकृत् ।
+
+##### Gist of the bhāṣya
+
+The Indra who is our giver of wealth and the like, may that Indra be our father, our protector. What is he like? Great, mature; mighty (उग्रः (*ugraḥ*)), of surging strength; ईशानकृत् (*īśānakṛt*),
+
+### Printed p. 609
+
+> दीनमहानां प्रभुं करोतीति तथा । दीनदयालुरित्यर्थः । तादृशः स मघवा
+> धनवानिं व्रति नोऽस्मभ्यं गोः गामश्वस्य अश्वं च । उभयत्र कर्मणि षष्ठि । प्रदातु
+> प्रकर्षण वदातु । कीदृशो मघवा । आयामन् । यांत्यनेनेति यामा मार्गः ।
+> स न विवृते यस्यासावयामा । तस्मिन्नयामनि । सुपां सुलुक् इति सप्तम्या लुक् ।
+> मार्गदर्शिते पाधिनि पुंसि उग्रः उद्दूर्णबलः तस्मिन् आविष्कृतप्रभुशक्तिरित्यर्थः ।
+> पुरुषसुश्च प्रभूतगवाश्वादिधनोपेतः ॥
+
+##### Gist of the bhāṣya
+
+one who makes lords of the poor **NOTE**; the meaning is that he is compassionate to the poor. May such a Maghavan, a wealthy one, give to us (प्रदातु (*pradātu*), give forth) a cow and a horse. What is the Maghavan like? आयामन् (*āyāman*): यामा (*yāmā*) is a path, that by which one goes; the sense is that, in a man who has been shown the way, he is mighty, of surging strength, and has made manifest his lordly power; and he is पुरुवसुः (*puruvasuḥ*), possessed of abundant wealth in cattle, horses and the like. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महान् (*mahān*)—the great
+- उग्रः (*ugraḥ*)—of exceeding strength
+- ईशानकृत् (*īśānakṛt*)—who makes even the powerless a lord
+- यः (*yaḥ*)—which Indra
+- नः (*naḥ*)—to us
+- दाता (*dātā*)—is an excellent giver
+- सः (*saḥ*)—he
+- नः (*naḥ*)—to us
+- पिता (*pitā*)—may be a protector
+- अयामन् (*ayāman*)—free of the path of sin
+- उग्रः (*ugraḥ*)—terrible
+- पुरूवसुः (*purūvasuḥ*)—possessed of abundant wealth
+- मघवा (*maghavā*)—Indra
+- नः (*naḥ*)—to us
+- गोः (*goḥ*)—cows
+- अश्वस्य (*aśvasya*)—horses
+- प्र दातु (*pra dātu*)—may he supply and give
+
+##### भावार्थ (Bhāvārtha)
+
+May that Indra, who is great, of exceeding strength, one who makes the powerless a lord, and who is an excellent giver to us, be our protector. May Indra, free of the path of sin, terrible, and possessed of abundant wealth, supply and give us cows and horses.
+
+##### English translation
+He is our giver, he is our father, he is noble, ferocious, Lord of wealth. Ferocious Maghavan, May Indra Lord of abnndance grant us cattle and horses.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मै॒ त्वं व॑सो दा॒नाय॒ मंह॑से॒ स रा॒यस्पोष॑मिन्वति ।  
+> व॒सू॒यवो॒ वसु॑पतिं श॒तक्र॑तुं॒ स्तोमै॒रिंद्रं॑ हवामहे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मै । त्वं । वसो इति । दानाय । मंहसे । सः । रायः । पोषं । इन्वति ।  
+> वसुयवः । वसुपतिं । शतक्रतुं । स्तोमैः । इंद्रं । हवामहे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 610
+
+> हे वसो वासयितरिंद्र त्वं यस्मै यजमानाय दातव्यं धनादिकं मंहसे
+> ददासि स तादृशो यजमानः रायः धनस्य पोषं पुष्टिं इन्वति व्याप्नोति ! धनसमृद्धिं प्राप्नोतीत्यर्थः । आतो हे इंद्र वसूयवः धनकामा वयं यजमाना
+> वसुपतिं धनपालकं शतक्रतुं बहुकर्माणं इंद्र परमेश्वर ( ? इंद्रं परमेश्वरं)
+> त्वां स्तोत्रैः हवामहे आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, Indra, who causes to dwell, the sacrificer to whom you give (मंहसे (*maṃhase*)) the wealth and the like that is to be given obtains (इन्वति (*invati*)) the increase of wealth; that is, he attains abundance of wealth. Therefore, O Indra, we sacrificers who desire wealth (वसूयवः (*vasūyavaḥ*)) call with praises you, the lord of wealth, protector of wealth, doer of many rites, Indra, the Supreme Lord. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Indra, giver of a dwelling
+- त्वं (*tvaṃ*)—you
+- यस्मै (*yasmai*)—to which sacrificer
+- दानाय (*dānāya*)—things fit to be given
+- मंहसे (*maṃhase*)—you give
+- सः (*saḥ*)—he
+- रायः (*rāyaḥ*)—of wealth
+- पोषं (*poṣaṃ*)—the increase
+- इन्वति (*invati*)—obtains
+- वसुयवः (*vasuyavaḥ*)—we who are desirous of wealth
+- वसुपतिं (*vasupatiṃ*)—the lord of wealth
+- शतक्रतुं (*śatakratuṃ*)—the doer of many rites
+- इंद्रं (*iṃdraṃ*)—Indra
+- स्तोमैः (*stomaiḥ*)—with praises
+- हवामहे (*havāmahe*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of a dwelling, the sacrificer to whom you give things fit to be given obtains the increase of wealth. We, who are desirous of wealth, call with prayer with praises Indra, the lord of wealth and the doer of many rites.
+
+##### English translation
+Indra, whom you wishes to give, his wealth goes increasing Desirous of wealth we invoke Vasumati and Satakritu with praises.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒दा च॒न प्र यु॑च्छस्यु॒भे नि पा॑सि॒ जन्म॑नी ।  
+> तुरी॑यादित्य॒ हव॑नं त इंद्रि॒यमा त॑स्थाव॒मृतं॑ दि॒वि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कडा । चन । प्र । युच्छसि । उभे इति । नि । पासि । जन्मनी इति ।  
+> शुरीय । आदित्य । हवनं । ते । इंद्रियं । आ । तस्थौ । अमृतं । दिवि ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 604. Sūkta 51 Ṛks 6-10, Sūkta 52 Ṛk 1, pp. 599-604
+**Progress note:** Done through printed p. 610. Sūkta 52 Ṛks 1-7, pp. 605-610
