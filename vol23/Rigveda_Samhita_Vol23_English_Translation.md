@@ -34197,6 +34197,259 @@ O Agni, make for us a good mind in the battle (वृत्रतूर्ये
 - वनेम (*vanema*)—we worship
 - अभिष्ठिभिः (*abhiṣṭhibhiḥ*)—make us united with desired objects
 
+### Printed p. 808
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, create in us that auspicious strength of mind, that firm resolve, by which you defeat enemies in battles. Defeat the many and firm armies of the enemies who come against us. We worship you. Fill us completely with the things we desire.
+
+##### English translation
+Give us that resolute mind in conflict by which you conquer in combats ; humble the many firm (resolves) of our foes : may we propitiate you by our sacrifices.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईळे॑ गि॒रा मनु॑र्हितं॒ यं दे॒वा दू॒तम॑र॒तिं  ॒॑
+> न्ये॑रि॒रे ।  
+> यजि॑ष्ठं हव्य॒वाह॑नं ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईळे । गिरा । मनुःहितं । यं । देवाः । दूतं । अरतिं । निएरिरे ।  
+> यजिष्ठं । हव्यवाहनं ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गिरा वाचा स्तुतिरूपया मनुर्हितं मनुना प्रजापतिना यजमानेनाहितं
+> तमग्निमीळे । सौमि । कीदृशं । यजिष्ठं यष्टृतमं हव्यवाहनं हविषां वोढारमरतिमर्यमीश्वरं ना दूतं देवानां द्योते वर्तमानं । यमग्निं देवा
+> न्येरिरे नितरां प्रेरयंति ॥
+
+##### Gist of the bhāṣya
+
+I praise that Agni, placed (established) by Manu, i.e. by Prajāpati the sacrificer, with the word of praise. How is he described? Most worthy of sacrifice, bearer of the oblations, ruler (arati), and messenger of the gods, present in the shining of the gods. The gods impel him constantly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजिष्ठं (*yajiṣṭhaṃ*)—the most worshipful
+- हव्यवाहनं (*havyavāhanaṃ*)—the bearer of oblations to the gods
+- अरतिं (*aratiṃ*)—the lord
+- दूतं (*dūtaṃ*)—the messenger of the gods
+- यं (*yaṃ*)—which Agni
+- देवाः (*devāḥ*)—the gods
+
+### Printed p. 809
+- न्येरिरे (*nyerire*)—have impelled, such a one
+- मनुर्हितं (*manurhitaṃ*)—established by Manu in the form of the sacrificer
+- गिरा (*girā*)—with words of praise
+- ईळे (*īḷe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise with hymns that same Agni, who is the most worshipful, bearer of oblations to the gods, lord and messenger of the gods, whom the gods have impelled, and who was established by Manu in the form of the sacrificer.
+
+##### English translation
+I worship Agni, who has been established by Manu with praise, whom the gods have appointed their royal messenger, who is the most adorable, the bearer of oblations.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒ग्मजं॑भाय॒ तरु॑णाय॒ राज॑ते॒ प्रयो॑ गायस्य॒ग्नये॑ ।  
+> यः पिं॒शते॑ सू॒नृता॑भिः सु॒वीर्य॑म॒ग्निर्घृ॒तेभि॒राहु॑तः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिग्मजंभाय । तरुणाय । राजते । प्रयः । गायसि । अग्नये ।  
+> यः । पिंशते । सूनृताभिः । सुवीर्यं । अग्निः । घृतेभिः । आहुतः ॥२२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तिग्मजंभाय तीक्ष्णज्वालाय तरुणाय नित्ययूने जरामरणरहिताय
+> राजते राजमानायाग्नये प्रयो हविर्लक्षणमन्नं गायसि हे स्तोतः । प्रवृद्धिं
+> प्रयच्छेत्यर्थः । योऽग्निः सूनृताभिः प्रियसत्यात्मिकाभिर्वाग्भिः स्तुतो धृतेभिर्घृतैराज्यैराहुतोऽभिहुतश्च सन् सुवीर्यं शोभनवीर्यं पिंशते आश्लेषयति
+> स्तोतृभिः संयोजयति ॥ पिश अवयवे ॥ तस्मा अग्नय इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+To Agni of sharp flames, ever young, free from old age and death, shining: "give (gāyasi) food (prayas) in the form of the oblation", O praiser; that is, grant increase. The Agni who, praised with pleasant and true words and offered with ghee, binds (piṃśate) excellent heroism, i.e. unites it with the praisers. Root पिश (*piśa*) in the sense of limb. The construction is "to that Agni".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) यः अग्निः (*yaḥ agniḥ*)—which Agni
+- सूनृताभिः (*sūnṛtābhiḥ*)—praised with excellent hymns
+- धृतेभिः (*dhṛtebhiḥ*)—with ghee
+- आहुतः (*āhutaḥ*)—having been offered the oblation
+- सुवीर‍्यः (*suvīryaḥ*)—a son of excellent virility
+- पिंशते (*piṃśate*)—who provides to the sacrificer and others
+- तिग्मजंभाय (*tigmajaṃbhāya*)—having sharp flames
+- तरुणाय (*taruṇāya*)—ever young
+- राजते (*rājate*)—resplendent
+- अग्नये (*agnaye*)—to Agni
+- प्रयः (*prayaḥ*)—the oblation
+- गायसि (*gāyasi*)—offer with song
+
+### Printed p. 810
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, to that Agni who, praised with excellent hymns and offered oblation with ghee, provides the sacrificer and others with a son of excellent virility, who has sharp flames, is ever young and resplendent, offer the oblation with song.
+
+##### English translation
+Offer (sacrificial) food to that bright-shining, ever-youthful, royal Agni, who, (when gratified) by sincere praises, aud worshipped with oblations, bestows excellent male offspring.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदी॑ घृ॒तेभि॒राहु॑तो॒ वाशी॑म॒ग्निर्भर॑त॒ उच्चाव॑ च ।  
+> असु॑रइव नि॒र्णिजं॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । धृतेभिः । आहुतः। वाशीं । अग्निः । भरते । उत् । च । अव । च ।  
+> असुरःऽइव । निःऽनिजं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिप्लविकेषूक्ष्येषु प्रशास्तुः शस्त्रे यवा भद्रो नः । आ. ८-१९-१९ । इति
+> प्रगाथः स्तोत्रियः तदानीं यदी घृतेभिरिति प्रगाथोऽनुरूपः। सूत्रं तु पूर्वमेवोदाहृतं ॥
+> घृतेभिर्घृतैराहुतोऽभिहुतोऽयमग्निर्यदि यदा यस्मिन्काले वाशीं ।
+> वाज्ञामैतत् । वाचं शब्दमुच्चोर्ध्वं चाव चावाक्च भरते संपादयति । यद्वा ।
+
+##### Gist of the bhāṣya
+
+In the Abhiplava ukthya rites, in the śastra of the Praśāstṛ, the pragātha यवा भद्रो नः (*yavā bhadro naḥ*) (Ā. 8-19-19) is the stotriya; then the pragātha यदी घृतेभिः (*yadī ghṛtebhiḥ*) is the anurūpa. The sūtra was quoted earlier. When this Agni, offered with ghee, produces (bharate) his voice, upward and downward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- घृतेभिः (*ghṛtebhiḥ*)—with ghee
+- आहुतः (*āhutaḥ*)—having been offered the oblation
+- अग्निः (*agniḥ*)—Agni
+- यदि (*yadi*)—when
+
+### Printed p. 811
+
+> वाशीं नाशनशीलां शब्दकारिणीं ज्वालामुद्भरते उद्धरति उद्गमयत्यूर्ध्वमुखमव
+> च भरते अवाङ्मुखं च हरति उपसंहरति। असुर इव रश्मीनां क्षेप्ता सूर्यो यथा
+> निर्णिजमात्मीयं रूपमुपरितनेषु लोकेषु प्रकाशतयोद्गमयति अधस्तनेषु
+> चावाङ्मुखं गमयति तद्वदुच्चनीचभावनयाग्निस्तेज उद्गमयति । तं स्तुम इति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+Or else: he raises the destructive, noisy flame upward and draws another downward, withdrawing it. Like the Asura, the caster of rays, the sun, who makes his own form shine in the upper worlds and sends it downward in the lower ones, so Agni sends forth his light with the notion of high and low. "We praise him" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुर इव (*asura iva*)—like the sun
+- निर्णिजं (*nirṇijaṃ*)—spreading his radiance to every direction
+- वाशीं (*vāśīṃ*)—his sound
+- उच्च (*ucca*)—upward
+- अव च (*ava ca*)—and downward
+- भरते (*bharate*)—spreads (then we shall praise him)
+
+##### भावार्थ (Bhāvārtha)
+
+When Agni, offered with ghee, spreads his sound upward and downward as the sun spreads his radiance in all directions, then we shall praise him.
+
+##### English translation
+When Agni, worshipped with oblations, sends his voice upwards and downwords as the sun disperses his rays, (we praise him).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the ukthya sacrifices connected with the Abhiplava, in the śastra mantras recited by the priest called Praśāstṛ, the three Ṛks beginning भद्रो नः (*bhadro naḥ*) are to be recited as the stotriya tṛca, as was said earlier. Corresponding to that stotriya tṛca, the three Ṛks beginning यदी घृतेभिः (*yadī ghṛtebhiḥ*) are to be recited as the anurūpa tṛca. The sūtra sentence concerning this was stated earlier.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो ह॒व्यास्यैर॑यता॒ मनु॑र्हितो दे॒व आ॒सा  
+> सु॑गं॒धिना॑ ।  
+> विवा॑सते॒ वार्या॑णि स्वध्व॒रो होता॑ दे॒वो अम॑र्त्यः॥
+
+### Printed p. 812
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । हव्यानि । ऐरयत । मनुःहितः । देवः । आसा । सुगंधिना ।  
+> विवासते । वार्याणि । सुआध्वरः । होता । देवः । अमर्त्यः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मनुर्हितो मनुना प्रजापतिनाहितो देवो द्योतमानोऽग्निः
+> सुगंधिना शोभनगंधयुक्तेनासास्येन हव्यान्यस्मदीयानि हवींष्यैरयत देवान्प्रति
+> प्रेरयति स्वध्वरः शोभनयज्ञो होता देवानामाह्वाता देवो दीप्यमानोऽमर्त्यो मरणरहितः सोऽग्निर्वार्याणि वरणीयानि धनानि विवासते । परिचरते ।
+> यजमानाय प्रयच्छतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The shining Agni, established by Manu (Prajāpati), with his fragrant mouth sends our oblations to the gods; of good sacrifice, the invoker of the gods, shining, immortal, he serves (vivāsate) the desirable riches; "gives them to the sacrificer" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- मनुर्हितः (*manurhitaḥ*)—established by Manu
+- सुगंधिना (*sugaṃdhinā*)—with excellent fragrance
+- आसा (*āsā*)—with the mouth
+- हव्यानि (*havyāni*)—oblations
+- ऐरयत (*airayata*)—offers to the gods, such a one
+- देवः (*devaḥ*)—divine in nature
+- स्वध्वरः (*svadhvaraḥ*)—having a good sacrifice
+- होता (*hotā*)—who invites the gods to the sacrifice
+- देवः (*devaḥ*)—shining
+- अमर्त्यः (*amartyaḥ*)—free from mortality, Agni
+- वार्याणि (*vāryāṇi*)—desired riches
+- विवासते (*vivāsate*)—gives to the sacrificer who worships him
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, established by Manu, offers oblations to the gods with his excellently fragrant mouth, such a one of divine nature, of good sacrifice, invoker of the gods, shining and immortal, gives desired wealth to the sacrificer who worships him.
+
+##### English translation
+The divine (Agni), established by Manu, the offerer of the sacrifice, the invoker (of the gods), the divine, the immortal, who conveys the oblations in his fragrant mouth, bestows (upon his adorers) desirable (riches).
+
+### Printed p. 813
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑ग्ने॒ मर्त्य॒स्त्वं स्याम॒हं मि॑त्रमहो॒ अम॑ूर्तः ।  
+> सह॑सः सूनवाहुत ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अग्ने । मर्त्यः । त्वं । स्यां । अहं । मित्रमहः । अमर्त्यः ।  
+> सहसः । सूनो इति । आहुत ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनो बलस्य पुत्राहुत घृतैरभिहुत हे मित्रमहोऽनुकूलदीप्तिमन्नग्ने मर्त्यो मरणधर्माहं यद्यदि त्वं स्यां त्वदुपासनया त्वद्रूपमापन्नो भवेयं । ये यथायथोपासते ते तदेव भवंतीति श्रुतेः । तर्ह्यहममर्त्यो मरणरहितो देव एव भवेयमिति ॥
+
+##### Gist of the bhāṣya
+
+O son of strength (sahas), offered with ghee, O Mitramahas, Agni of favourable brilliance: if I, a mortal, were you, having attained your form by worshipping you (for the Śruti says those who worship in a certain way become that), then I, the immortal, free from death, would become a god indeed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- आहुत (*āhuta*)—worshipped with ghee and the like
+- मित्रमहः (*mitramahaḥ*)—having favourable brilliance
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—in the way in which
+- त्वं (*tvaṃ*)—you
+- स्यां (*syāṃ*)—are immortal (in the same way)
+- मर्त्यः (*martyaḥ*)—mortal
+- अहं (*ahaṃ*)—I also
+- अमर्त्यः (*amartyaḥ*)—free from mortality (grant that I become so)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, worshipped with ghee and the like, of favourable brilliance: in the way you are immortal, grant that I too, who am mortal, become free from mortality.
+
+##### English translation
+Agni, son of strength, shining with friendly radiance, and worship-ped with oblations, may I, who, although mortal, am as you are, become immortal.
+
 ---
 
-**Progress note:** Done through printed p. 807. pp. 802-807 (batch API)
+**Progress note:** Done through printed p. 813. pp. 808-813 (batch API)
