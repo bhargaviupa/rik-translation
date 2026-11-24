@@ -3070,6 +3070,405 @@ The seer, making himself present, urges himself in praise. O Vasiṣṭha, bring
 - बृहंतं (*bṛhaṃtaṃ*)—of great nature
 - ईं (*īṃ*)—
 
+### Printed p. 76
+- …—this sun
+- अर्वांचं (*arvāṃcaṃ*)—facing us
+- यः (*yaḥ*)—which Varuṇa
+- करते (*karate*)—establishes in the atmosphere (such a Varuṇa)
+- मीळ्हुषे (*mīḷhuṣe*)—to the showerer of desires
+- वरुणाय (*varuṇāya*)—addressing Varuṇa
+- शुंध्युवं (*śuṃdhyuvaṃ*)—pure in itself
+- प्रेष्ठां (*preṣṭhāṃ*)—dearest to him
+- मतिं (*matiṃ*)—hymn of praise
+- प्र भरस्व (*pra bharasva*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O sage Vasiṣṭha, offer a hymn of praise that is pure in itself and dearest to him, addressed to Varuṇa, the showerer of desires, who establishes in the atmosphere, facing us, this Sun, who is worshipful, possessed of abundant wealth, a sender of rain, and of great form.
+
+##### English translation
+Offer pure and acceptable praise, Vasishta, to the showerer, Varuna, he who makes the adorable (sun), the donor of thousands, the showerer (of benefits), the vast, manifest before (us).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ न्व॑स्य सं॒दृशं॑ जग॒न्वान॒ग्नेरनी॑कं॒ वरु॑णस्य मंसि ।  
+> स्व१॒॑गर्यदश्म॑न्नधि॒पा उ॒ आंधो॒ भि मा॒ वपु॑र्दृ॒शये॑ निनीयात् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । नु । अस्य । संदृशं । जगन्वान् । अग्नेः । अनीकं । वरुणस्य । मंसि ।  
+> स्वः । यत् । अश्मन् । अधिपाः । ऊं इति । अंधः । अभि । मा । वपुः । दृशये ।  
+> निनीयात् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाधुनास्य वरुणस्य संदृशं संदर्शनं नु क्षिप्रं जगन्वान् गतवानहमग्नेरनीकं ज्वालासंघं मंसि । स्तवानि । तं वरुणं यष्टुमिति शेषः । यद्यदा वरुणः
+> स्वः सुखकरमश्मनश्चन्यभिषवार्थे पाषाणेवस्थितं । अभिषुतमित्यर्थः । ईदृशमंधः
+
+##### Gist of the bhāṣya
+
+"Now" (अधाधुना (*adhādhunā*)), I have quickly come to the sight (संदृशं (*saṃdṛśaṃ*)) of this Varuṇa, and I praise the mass of flames of Agni (*agneranīkaṃ*); the words "in order to worship that Varuṇa" are to be supplied. "When" (यद्यदा (*yadyadā*)) Varuṇa… स्वः (*svaḥ*) is the pleasant (*sukhakaraṃ*), that which lies on the stone (अश्मन् (*aśman*)) used for pressing, that is, the pressed Soma. The sentence is completed in the next block.
+
+### Printed p. 77
+
+> सोमलक्षणमन्नमधिपा अधिकं पाता भवेत् ॥ छांदसः षष्ठ्यभावः ॥ उ इति पूरकः।
+> तदानीं मा मां वपुः शरीरं स्वकीयं । वपुरिति रूनाम । प्रशस्तं रूपं वा
+> दृशये दर्शनार्थमभि निनीयात् । अभिप्राययेत् ॥
+
+##### Gist of the bhāṣya
+
+The अंधः (*aṃdhaḥ*) is Soma-food. Varuṇa would be its "greater drinker" (*adhipā adhikaṃ pātā bhavet*); the absence of the genitive is Vedic usage. उ (*u*) is a filler. Then may he lead my own body (वपुः (*vapuḥ*)—"vapus" is a name for form, or else an excellent form) towards being seen (दृशये (*dṛśaye*)), that is, may he bring it to view. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—in the present context
+- अस्य वरुणस्य (*asya varuṇasya*)—of this same Varuṇa
+- संदृशं (*saṃdṛśaṃ*)—the most excellent form
+- नु (*nu*)—quickly
+- जगन्वान् (*jaganvān*)—I who have approached
+- अग्नेः (*agneḥ*)—of his flame-form
+- अनेकं (*anekaṃ*)—the mass
+- मंसि (*maṃsi*)—I praise (or: I praise the flames of Agni for the worship of Varuṇa)
+- यत् (*yat*)—when
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- स्वः (*svaḥ*)—the pleasant
+- आश्मन् (*āśman*)—pressed by stones
+- अंधः (*aṃdhaḥ*)—the food in the form of Soma
+- अधिपाः (*adhipāḥ*)—drinks (then)
+- मां (*māṃ*)—my
+- वपुः (*vapuḥ*)—body
+- दृशये (*dṛśaye*)—with attractive splendour
+- अभि निनीयात् (*abhi ninīyāt*)—may he join
+
+##### भावार्थ (Bhāvārtha)
+
+In the present context, I who have at once beheld in person the most excellent form of this same Varuṇa, further praise the mass of radiance in the form of flame. When Varuṇa drinks the pleasant Soma-food, crushed and pressed by stones, then may he join my body with attractive splendour.
+
+##### English translation
+Hastening into his sight, may I (worthily) glorify the aggregated radiance of Varuna, when he is the imbiber of the exhilarating beverage (expressed) by the stones: may he render my person of goodly aspect.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यद्रु॒हाव॒ वरु॑णश्च॒ नावं॒ प्र यत्स॑मु॒द्रमी॒रया॑व॒  ॑
+> मध्यं ।  
+> अधि॒ यद॒पां स्नुभि॒श्चरा॑व॒ प्र प्रें॒ख ईं॑खयावहै शु॒भे कं॥
+
+### Printed p. 78
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । रुहाव । वरुणः । च । नावं । प्र । यत् । समुद्रं । ईरयाव ।  
+> मध्यं ।  
+> अधि । यत् । अपां । स्मृभिः । चराव । प्र । प्रकंखे । ईंखयावहै । शुभे कं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा वरुणे प्रसन्ने सत्यहं वरुणश्चोभौ नावं द्रुममयिां तेणसाधनभूतामा रुहाव उभवारूढावभूव । तां च नावं यद्यदा समुद्रं मध्यं
+> समुद्रस्य मध्यं प्रति प्रेरयाव प्रकर्षण गमयाव । यद्यदा चापामुदकानामध्युपरि स्नुभिर्गंत्रीभिरन्याभिरपि नौभिश्चराव वर्तावहै । तदानीं शुभे शोभार्थं
+> प्रेंखे नौरूपाया. दोलायावॆ (व प्रेंख ० र्वास्य निम्मोन्नतैस्तरंगैरितश्चतश्च
+> प्रविचलंतौ संक्रीडावहै । कमिति पूरकः । यद्वा । क्रियाविशेषणं । कं सुखं यथा
+> भवति तथेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"When" Varuṇa is pleased, I and Varuṇa, both of us, board the ship (नावं (*nāvaṃ*)) made of wood, the means of crossing; and "when" we drive it forward into the middle of the sea; and "when" we move over the waters (अपां (*apāṃ*)) with other swift (स्नुभिः (*snubhiḥ*), glossed *gaṃtrībhiḥ*) ships, then, for splendour, we sport together in the swing (प्रेंखे (*preṃkhe*)) that is the ship, moving hither and thither on the low and high waves. कं (*kaṃ*) is a filler; or else it is an adverb: "in such a way that there is happiness."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- वरुणश्च (*varuṇaśca*)—(I) and Varuṇa, both together
+- नावं (*nāvaṃ*)—the ship made of wood
+- आ रुहाव (*ā ruhāva*)—we two board
+- यत् (*yat*)—when
+- समुद्रं मध्यं (*samudraṃ madhyaṃ*)—in the middle of the ocean that is the atmosphere
+- प्र ईरयाव (*pra īrayāva*)—we go forward greatly
+- यत् (*yat*)—when
+- अपां (*apāṃ*)—of the waters
+- अधि (*adhi*)—upon the surface
+- स्नुभिः (*snubhiḥ*)—with ships that move about
+- चराव (*carāva*)—we two move about, then
+- शुभे (*śubhe*)—in the auspicious
+- प्रेंखे (*preṃkhe*)—in the swing in the form of a ship
+- कं (*kaṃ*)—happily
+- प्र ईंखयावहै (*pra īṃkhayāvahai*)—we make a sportive oscillation (we swing)
+
+##### भावार्थ (Bhāvārtha)
+
+When I (Vasiṣṭha) and Varuṇa together board the ship made of wood, when we go forward greatly in the middle of the ocean that is the atmosphere, when we move about for sport with ships that move on the surface of the waters, then in the auspicious swing in the form of a ship we happily make a sportive oscillation.
+
+##### English translation
+Waen (I Vasishtha) and Varuna, ascend the ship together, when we send it forth into the midst of the ocean, when we proceed over the
+
+### Printed p. 80
+waters with swift (sailing vessels), then may we both undulate happily in the prosperous swing.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वसि॑ष्ठं ह॒ वरु॑णो ना॒व्याधा॒दृषिं॑ चकार॒ स्वपा॒ महो॑भिः ।  
+> स्तो॒तारं॒ विप्रः॑ सुदिन॒त्वे अह्नां॒ यान्नु द्याव॑स्त॒तन॒न्यादु॒षासः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वसिष्ठं । ह । वरुणः । नावि । आ । अधात् । ऋषिं । चकार । सुअपाः । महःभिः ।  
+> स्तोतारं । विप्रः । सुदिनत्वे । अह्नां । यात् । नु । द्यावः । ततनन् । यात् ।  
+> उषसः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवं वसिष्ठेनात्मनोक्ते यद्वरुणेन कृतं तद्दर्शयति । वसिष्ठं ह वसिष्ठं खलु
+> वरुणो नावि स्वकीयायामाधात् । अरोहयत् । तथा तम्मृषिमवोभी रक्षणैः
+> स्वपां स्वपसं शोभनकर्माणं चकार । वरुणः कृतवान् । अपि च विप्रो मेधावी
+> वरुणोऽह्नां दिवसानां मध्यॆ सुदिनत्वे यत्पलत्वेन शोभनदिनत्वं तत्र स्तोतारमस्थापयदिति शेषः । किं कुर्वन् । याद्यातो गच्छतो द्यावो दिवसान् याद्यातीरुषास उषसोपलक्षिता रात्रीश्च नु क्षिप्रं ततनन् सूर्यात्मना विस्तारयन् ॥
+
+##### Gist of the bhāṣya
+
+Vasiṣṭha having thus spoken of himself, Sāyaṇa shows what Varuṇa did. Varuṇa placed Vasiṣṭha in his own ship (नावि (*nāvi*)), made him board it. Likewise he made that seer स्वपां (*svapāṃ*), one of good works, through protections (*avobhī rakṣaṇaiḥ*). And the wise Varuṇa, among the days, set the worshipper in a "good day" (सुदिनत्वे (*sudinatve*)), that is, a day that is good by its fruit. How? By quickly extending, in the form of the sun, the passing days and the passing nights marked by dawns.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- वसिष्ठं ह (*vasiṣṭhaṃ ha*)—Vasiṣṭha
+- नावि (*nāvi*)—in his own ship
+- आधात् (*ādhāt*)—seated, having made him board
+- महोभिः (*mahobhiḥ*)—with great protections
+- ऋषिं (*ṛṣiṃ*)—that same seer Vasiṣṭha
+- स्वपां (*svapāṃ*)—as one with excellent works
+- चकार (*cakāra*)—made
+- विप्रः (*vipraḥ*)—the wise Varuṇa
+- यात् (*yāt*)—passing
+- द्यावः (*dyāvaḥ*)—days
+- यात् (*yāt*)—passing
+- उषासः (*uṣāsaḥ*)—nights marked by dawns
+- नु (*nu*)—quickly
+- ततनन् (*tatanan*)—making extended
+- अह्नां (*ahnāṃ*)—among all the days
+- सुदिनत्वे (*sudinatve*)—on the most auspicious days
+- स्तोतारं (*stotāraṃ*)—the praiser Vasiṣṭha he placed
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa made Vasiṣṭha board his own ship and be seated, and made that same seer one of excellent works through his great protections. The wise Varuṇa, extending the passing days and the passing nights marked by dawns, placed the praiser Vasiṣṭha among the most auspicious of all days.
+
+##### English translation
+So Varuna placed Vasishtha in the ship, and by his mighty protection made the Rishi a doer of good works: the wise Varuna placed his worshipper in a fortunate day of days, he extended the passing days, the passing nights.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व१॒ं॑ त्यानि॑ नौ स॒ख्या ब॑भूवुः॒ सचा॑वहे॒ यद॑वृ॒कं पु॒रा चि॑त् ।  
+> बृ॒हंतं॒ मानं॑ वरुण स्वधावः स॒हस्र॑द्वारं जगमा गृ॒हं ते॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । त्यानि । नौ । सख्या । बभूवुः । सचावहे इति । यत् । अवृकं । पुरा । चित् ।  
+> बृहंतं । मानं । वरुण । स्वध्वावः । सहस्रद्वारं । जगम । गृहं । ते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण त्यानि तानि पुरातनानि नावावयोः सख्या सख्यानि सखित्वानि क्व कुत्र
+> बभूवुः । पुरा पूर्वस्मिन्कालेऽवृकमहिंस्यमात्यंतिकं यत्सख्यमस्ति तत्सचावहे ।
+> आवां सेवावहे । चिदिति पूरकः । अपि च हे स्वधावोऽन्नवन्नवरुण ते त्वदीयं गृहं
+> जगम । गच्छानि ॥ लोडर्थे लिट् ॥ कीदृशं गृहं । बृहंतं महांतं मानं ।
+> मांत्यस्मिन्सर्वाणि भूतानि मानु । सर्वस्य भूतजातस्य परिच्छेदकमित्यर्थः । सहस्रद्वारं बहुद्वारं ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa, where have those ancient friendships of us two (सख्या (*sakhyā*)) gone? The unhurt, lasting friendship that existed in an earlier time, सचावहे (*sacāvahe*): we two serve it (चित् (*cit*) is a filler). And, O Varuṇa, possessor of food (स्वधावः (*svadhāvaḥ*)), may I go to your house (जगम (*jagama*), a perfect in the sense of the imperative). What house? Great (बृहंतं (*bṛhaṃtaṃ*)); मानं (*mānaṃ*) because in it all beings are measured, that is, it defines all creatures; thousand-doored, that is, many-doored.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Varuṇa) नौ (*nau*)—between us two
+- त्यानि (*tyāni*)—those formerly well known
+- सख्या (*sakhyā*)—friendship
+- क्व (*kva*)—where
+- बभूवुः (*babhūvuḥ*)—has it gone into hiding
+- पुरा चित् (*purā cit*)—all of old
+- अवृकं (*avṛkaṃ*)—between us two, very
+
+### Printed p. 81
+- …—intimate
+- यत् (*yat*)—whatever friendship there was, that
+- सचावहे (*sacāvahe*)—let us enjoy again
+- स्वधावः (*svadhāvaḥ*)—possessor of food
+- वरुण (*varuṇa*)—O Varuṇa
+- बृहतं (*bṛhataṃ*)—great
+- मानं (*mānaṃ*)—the support of all beings
+- सहस्रद्वारं (*sahasradvāraṃ*)—having a thousand doors
+- ते गृहं (*te gṛhaṃ*)—to your house
+- जगम (*jagama*)—may I come and arrive
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, where has our friendship, formerly so well known, gone now? Let us now again enjoy that very intimate friendship that was between us two of old. O Varuṇa, possessor of food, may I come and arrive at your house, which is great, the support of all beings, and has a thousand doors.
+
+##### English translation
+What has become of those our ancient friendships? let us preserve them unimpaired as of old: food-bestowing Varuna, may I repair to your vast comprehensive thousand-doored dwelling.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य आ॒पिर्नित्यो॑ वरुण प्रि॒यः सन्त्वामागां॑सि कृ॒णव॒त्सखा॑ ते ।  
+> मा त॒ एन॑स्वंतो यक्षिन्भुजेम यं॒धि ष्मा॒ विप्रः॑ स्तुव॒ते  ॑
+> वरूढं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । आपिः । नित्यः । वरुण । प्रियः । सन् । त्वां । आगांसि । कृणवत् । सखा । ते ।  
+> मा । ते । एनस्वंतः । यक्षिन् । भुजेम । यंधि । स्म । विप्रः । स्तुवते । वरूथं ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण यो वसिष्ठो नित्यो ध्रुव आपिर्बंधुः । औरसः पुत्र इत्यर्थः ।
+> यः पूर्वं प्रियः संस्तां प्रत्यागांस्य पराधान् कृणवत् अकरोत् स इदानीं ते
+> तव सखा समानख्यानः प्रियोऽस्तु । हे यक्षिन्यजनीय वरुण ते तव स्वभूता
+> वयमेनस्वंत एनसा पापेन युक्ताः संतो मा भुजेम । मा भुज्महि । त्वत्प-
+> [ 6 ]                                                                 [ Vol. 23 ]
+
+##### Gist of the bhāṣya
+
+O Varuṇa, the Vasiṣṭha who is your constant, lasting kinsman (आपिः (*āpiḥ*): a relative, that is, a son of your own body), who, though formerly dear, committed offences (आगांसि (*āgāṃsi*)) against you, let him now be your dear friend, of the same fame. O adorable Varuṇa, we who are your own, being afflicted with sin (एनस्वंतः (*enasvaṃtaḥ*)), may we not enjoy (मा भुजेम (*mā bhujema*)). The next words of the block are damaged and the sentence continues in the following block. **NOTE**
+
+### Printed p. 82
+
+> साधात्वा परहिता एव संतो भोगान् भुनजामहृ । विप्रो मेधावी त्वं च स्तुवते
+> कुर्वते वसिष्ठाय वरूथमनिप्पनिवारकं वरणीयं वा गृहं यंधि ।
+> प्रयच्छ + स्वेति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+And you, the wise (विप्रः (*vipraḥ*)), give (यंधि (*yaṃdhi*), that is प्रयच्छ (*prayaccha*); स्म (*sma*) is a filler) to Vasiṣṭha, who praises (स्तुवते (*stuvate*)), a house (वरूथं (*varūthaṃ*)), a warder-off of what is undesired, or else a house to be chosen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O god Varuṇa
+- यः (*yaḥ*)—the Vasiṣṭha who
+- त्वां (*tvāṃ*)—in regard to you
+- आगांसि (*āgāṃsi*)—offences
+- कृणवत् (*kṛṇavat*)—though he has committed
+- ते (*te*)—to you
+- नित्यः (*nityaḥ*)—eternal
+- आपिः सन् (*āpiḥ san*)—being a kinsman
+- सखा (*sakhā*)—let him be your friend
+- प्रियः (*priyaḥ*)—and an object of your love
+- यक्षिन् (*yakṣin*)—O worshipful Varuṇa
+- ते (*te*)—we who belong to you
+- एनस्वंतः (*enasvaṃtaḥ*)—being sinful
+- मा भुजेम (*mā bhujema*)—do not wish to enjoy happiness
+- विप्रः (*vipraḥ*)—you, the wise
+- स्तुवते (*stuvate*)—to the praiser Vasiṣṭha
+- वरूधं (*varūdhaṃ*)—a house that destroys what is undesired
+- यंधि (*yaṃdhi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, let that Vasiṣṭha who has committed offences in regard to you, being your eternal kinsman, be your friend and an object of your love. O worshipful Varuṇa, we who belong to you do not wish to enjoy happiness while being sinful. You, the wise one, give to the praiser Vasiṣṭha a house that destroys what is undesired.
+
+##### English translation
+May he your unvarying kin, who was ever dear, though committing offences against you, still be your friend; adorable Varuna, offending you let us not enjoy (happiness); but do you, who are wise, bestow on your worshipper a secure abode.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध्रु॒वासु॑ त्वा॒सु क्षि॒तिषु॑ क्षि॒यंतो॒ व्य१॒ं॑स्मत्पाशं॒ वरु॑णो  
+> मुमोचत् ।  
+> अवो॑ वन्वा॒ना अदि॑तेरु॒पस्था॑द्य॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ध्रुवासु । त्वा । आसु । क्षितिषु । क्षियंतः । वि । अस्मत् । पाशं । वरुणः । मुमोचत् ।  
+> अवः । वन्वानाः । आदितेः । उपस्थात् । ययं । पात । स्वस्तिभिः । सदा । नः ॥७॥
+
+### Printed p. 83
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र ऋग्विधानं । ध्रुवासु त्वासु क्षितिषु जपन् बंधात्पमुच्यते । तिष्ठनात्मा
+> जपेदेतां विशाचस्तं न गच्छति । ऋग्वि. २-२८ । इति ॥
+> ध्रुवासु नित्यास्वासु दृश्यमानासु क्षितिषु भूमिषु क्षियंतो निवसंतो
+> वयं हे वरुण त्वा त्वां स्तुम इति शेषः । स च वरुणोऽस्मदस्मत्तः पाशं बंधकं
+> पापु नि मुमोचत् । मोचयेत् तथादितेरखंडनीयायाः पृथिव्या उपस्थादुपस्थानादवो रक्षणं वरुणेन दत्तं वन्वानां संभजमाना वयं स्याम।
+> अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+Here is the Ṛgvidhāna rule: one who mutters the verse beginning with "ध्रुवासु (*dhruvāsu*)" is freed from bondage; one who mutters it standing, with his mind (collected), is not approached by a piśāca. (Ṛgvi. 2-28) **NOTE**
+We who dwell in these constant earths that are seen, O Varuṇa, praise you (to be supplied). May that Varuṇa release from us the binding noose. Likewise may we, being sharers in the protection (अवः (*avaḥ*)) given by Varuṇa from the lap (उपस्थात् (*upasthāt*)) of Aditi, the undivided earth, be so. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Varuṇa) ध्रुवासु (*dhruvāsu*)—in these eternally abiding
+- आसु क्षितिसु (*āsu kṣitisu*)—earths
+- क्षियंतः (*kṣiyaṃtaḥ*)—we who dwell
+- त्वा (*tvā*)—praise you
+- वरुणः (*varuṇaḥ*)—that same Varuṇa
+- अस्मत् (*asmat*)—from us
+- पाशं (*pāśaṃ*)—the bond
+- वि मुमोचत् (*vi mumocat*)—let him release
+- अदितेः (*aditeḥ*)—of the earth
+- उपस्थात् (*upasthāt*)—from the neighbourhood
+- अवः (*avaḥ*)—the protection given by Varuṇa
+- वन्वानाः (*vanvānāḥ*)—may we enjoy (O Varuṇa and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, we who dwell in these eternally abiding earths praise you. May that same Varuṇa release the bond from us. May we enjoy the protection given by Varuṇa from the neighbourhood of the earth. O Varuṇa and the other gods, protect us always with blessings.
+
+##### English translation
+Whilst dwelling in these durable worlds, may Varuna loose our bonds: may we be enjoyers of the protection (which has been given by him) from the lap of Aditi, and you (gods), ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ṛgvidhāna, a work attributed to Śaunaka, it is said as follows about this verse-part: ध्रुवासु त्वासु क्षितिषु जपन् बंधात्पमुच्यते । शिष्ठनात्रौ जपेदेतां पिशाचस्तं न गच्छति ॥ (*dhruvāsu tvāsu kṣitiṣu japan baṃdhātpamucyate | śiṣṭhanātrau japedetāṃ piśācastaṃ na gacchati ‖*) (Ṛgvidhāna 2-319). If one mutters this verse-part beginning प्रभाशु श्वासु (*prabhāśu śvāsu*) he becomes freed from bondage. **NOTE**  If this verse-part is muttered, piśācas and the like do not come near him; that is, he suffers no harm from piśācas and the like.
+
+## Sūkta 89 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मो षु वरुणेति पंचर्चमेकोनविंशं सूक्तं वारुणं । अंत्या जगती
+> शिष्टाश्चतस्रो गायत्रः। तथा चानुक्रांतं । मो षु पंच गायत्रं जगत्त्यंतमिति ॥
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The hymn मो षु वरुणेति (*mo ṣu varuṇeti*) has five ṛks, is the nineteenth hymn (of the anuvāka), and is addressed to Varuṇa. The last verse is in Jagatī metre; the remaining four are in Gāyatrī. So the Anukramaṇī says: मो षु पंच गायत्रं जगत्त्यंतमिति (*mo ṣu paṃca gāyatraṃ jagattyaṃtamiti*). The use in ritual has been given.
+
+##### Anuvāda
+
+This hymn मोषु वरुण (*moṣu varuṇa*) is the nineteenth hymn in the fifth anuvāka. It has five ṛks. Vasiṣṭha is the seer of this hymn, Varuṇa the deity. The last ṛk of this hymn is in the Jagatī metre; the other four ṛks are in the Gāyatrī metre. In the Anukramaṇī it is said मोषु पंच गायत्रं जगत्त्यंतं (*moṣu paṃca gāyatraṃ jagattyaṃtaṃ*). The use in ritual has already been stated.
+
+- Maṇḍala 7; Anuvāka 5; Sūkta 89
+- Aṣṭaka 5; Adhyāya 6; Varga 11
+- Number of ṛks in the sūkta: 5
+- Seer: Vasiṣṭha
+- Deity: Varuṇa
+- Metre: 1–4 Gāyatrī; 5 Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मो षु व॑रुण मृ॒न्मयं॑ गृ॒हं रा॑जन्न॒हु ग॑मं ।  
+> मृ॒ळा सु॑क्षत्र मृ॒ळय॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । सु । वरुण । मृत्मयं । गृहं । राजन् । अहं । गमं ।  
+> मृळ । सुक्षत्र । मृळय ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 75. pp. 67-75 (batch API)
+**Progress note:** Done through printed p. 83. pp. 76-83 (batch API)
