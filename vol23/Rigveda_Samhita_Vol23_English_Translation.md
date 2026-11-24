@@ -21917,6 +21917,281 @@ The renowned Maruts, of golden-coloured form, attractive and noisy, set out for 
 ##### English translation
 Truly these purple-hued, wonderful, clamorous Maruts proceed with their chariots in the height above the sky.
 
+### Printed p. 536
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सृ॒जंति॑ र॒श्मिमोज॑सा॒ पंथां॒ सूर्या॑य॒ यात॑वे ।  
+> ते भा॒नुभि॒र्वि त॑स्थिरे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सृजंति । रश्मिं । ओजसा । पंथां । सूर्याय । यातवे ।  
+> ते । भानुभिः । वि । तस्थिरे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारीर्यां सौर्यस्य हविषः सृजंति रश्मिमित्येषानुवाक्या । सूत्र्यते हि ।
+> सृजंति रश्मिमोजसा वहिष्ठेभिर्विहरन्यासि तंतुं । आ. २. १३ । इति ॥
+> तच्छब्दश्रुतेर्यच्छब्दाध्याहारः । ये मरुतः सूर्याय सूर्यस्य ॥
+> पष्ठ्यर्थे चतुर्थी वक्तव्येति चतुर्थी ॥ यातने गंतुं रश्मिं व्याप्तं ॥ अशे रश
+> चेत्यश्नोतेरौणादिको मिप्रत्ययो रशादेशश्च ॥ यद्वा । रश्मिभिस्तेजोभिर्युक्तं
+> पंथां पंथानमोजसा बलेन सृजंति उत्पादयंति । वृत्रादिभिरावृतं सूर्यपथमावरकस्य वृत्रादेरपनयनेन जनयंतीत्यर्थः । ते मरुतो भानुभिस्तेजोभिर्वि तस्थिरे । कृत्स्नं जगद्व्याप्यावतिष्ठंते ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk, सृजंति रश्मिं (*sṛjaṃti raśmiṃ*), is the anuvākyā for the Kārīrī offering to Sūrya. It is prescribed in the sūtra सृजंति रश्मिमोजसा वहिष्ठेभिर्विहरन्यासि तंतुं (*sṛjaṃti raśmimojasā vahiṣṭhebhirviharanyāsi taṃtuṃ*) (Ā. 2. 13). Because the word "they" (tat) is heard, the word "who" (yat) is supplied: the Maruts who, for Sūrya (the dative being used for the genitive), for his going, create a path. रश्मिं (*raśmiṃ*) means "pervaded"; it is derived from the root अश (*aśa*) with the Uṇādi affix मि (*mi*) and the substitution of रश (*raśa*). Or else: by their strength (ojas) they produce a path endowed with rays, i.e. radiant; they bring forth the sun's path, obstructed by Vṛtra and others, by removing the obstructing Vṛtra and the like. Those Maruts, with their splendours, stand spread through the whole world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts
+- ओजसा (*ojasā*)—by their valour
+- सूर्याय (*sūryāya*)—of the sun
+- यातवे (*yātave*)—for going
+- रश्मिं (*raśmiṃ*)—radiant
+- पंथां (*paṃthāṃ*)—path
+- सृजंति (*sṛjaṃti*)—create
+- ते (*te*)—those same Maruts
+- भानुभिः (*bhānubhiḥ*)—with their splendours
+- वि तस्थिरे (*vi tasthire*)—pervade the whole world
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts who by their valour create a radiant path for the sun to travel, those same Maruts pervade the whole world with their splendours.
+
+##### English translation
+They, who by their might open a radiant path for the sun to travel, they pervade (the world) with lustre.
+
+### Printed p. 537
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Kārīrī iṣṭi, in the oblation offering to Sūrya, this Ṛk सृजंति रश्मिं (*sṛjaṃti raśmiṃ*) is to be recited as the anuvākyā mantra; this is set out by the Āśvalāyana Śrauta Sūtra, in the sūtra सृजंति रश्मिमोजसा वहिष्ठेभिर्विहरन्यासि तंतुं (*sṛjaṃti raśmimojasā vahiṣṭhebhirviharanyāsi taṃtuṃ*) (Ā. 2-13).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां मे॑ मरुतो॒ गिर॑मि॒मं स्तोम॑मृभुक्षणः ।  
+> इ॒मं मे॑ वनता॒ हवं॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । मे । मरुतः । गिरं । इमं । स्तोमं । ऋभुक्षणः ।  
+> इमं । मे । वनत । हवं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः इमां पुरोवर्तिनीं मे मम गिरं शस्त्ररूपां वाचं वनत ।
+> संभजत । हे ऋभुक्षणः । महन्नामैतत् । महांतः ॥ जसीतोऽत्सर्वनामस्थान
+> इत्यकारः । वा षपूर्वस्य निगम इति दीर्घाभावः ॥ ते यूयमिमं स्तोमं
+> स्तोत्रं प्रगीतमंत्रसाध्यं मे ममेमं पुरोवर्तिनं हवमाह्वानरूपं च
+> याजुषं मंत्रं वनत । संभजत । सेवध्वं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, accept (vanata, "enjoy") this speech of mine before you, in the form of a praise. O ऋभुक्षणः (*ṛbhukṣaṇaḥ*): this is a name for "great"; i.e. great ones. This stotra, accomplished by sung mantras, and this invocation of mine before you, the yajus mantra in the form of a call, accept and attend to.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- मे (*me*)—my
+- इमां गिरं (*imāṃ giraṃ*)—this speech in the form of praise
+- वनत (*vanata*)—enjoy
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O great Maruts
+- इमं स्तोमं (*imaṃ stomaṃ*)—this praise
+- मे (*me*)—my
+- इमं हवं (*imaṃ havaṃ*)—this invocation; accept it
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, enjoy these my words of praise, in the form of a hymn. O great Maruts, accept this my stotra and my invocation.
+
+### Printed p. 538
+
+##### English translation
+Accept, Maruts, this my praise, (accept), mighty ones, this my adoration, (accept) this my invocation.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रीणि॒ सरां॑सि॒ पृश्न॑यो दुदु॒ह्रे व॒ज्रिणे॒ मधु॑ ।  
+> उत्सं॒ कवं॑धमु॒द्रिणं॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रीणि । सरांसि । पृश्नयः । दुदुहे । वज्रीणे । मधु ।  
+> उत्सं । कवंधं । उद्रिणं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृश्नयो मरुन्मातृभूता गावो वज्रिणे वज्रवत इंद्राय ॥ तादर्थ्ये
+> चतुर्थी ॥ इंद्रार्थं मधु मधुरं क्षीरादिकमाश्रयणद्रव्यं त्रीणि सरांसि सर इव
+> सोमैः पूरितानि त्रीणि सवनानि तिष्टपि सवनेषु श्रयणार्थं दुदुहे । दुदुहिरे ।
+> यद्वा । मधु मधुरं सोमं वज्रिणे वज्रयुक्ताय मरुद्धणाय त्रीणि सरांसि
+> द्रोणकलशाधवनीयपूतभृल्लक्षणानि प्रति पृश्नयो माध्यमिका वाचो दुदुहे ।
+> वृष्टिद्वारा दुहंति । यद्वा । पृश्नय इति मातृवाचिना शब्देन पुत्रा उच्यंते ।
+> पृश्चिमातरो मरुत इंद्रार्थं त्रीणि सरांसि द्रोणकलशादीनि मधु मधुना
+> सोमेन पूरयितुमुत्समुत्सवणशीलं कवंधमुदकमुद्रिणमुदकवंतं मेघं
+> दुदुहे । दुहते ॥ दुहेश्छांदसो लिट् । इरयो र इति रेभावः । पादादित्वादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+The पृश्नयः (*pṛśnayaḥ*), the cows who are mothers of the Maruts, for the wielder of the thunderbolt, Indra (the dative expresses "for the sake of"), have milked for Indra sweet milk and the like, a substance for mixing, filling three "lakes", i.e. the three savanas filled with soma as a lake with water, for support in the savanas. दुदुहे (*duduhe*) stands for दुदुहिरे (*duduhire*).
+Or else: the middle-region speeches, the पृश्नयः (*pṛśnayaḥ*), have milked sweet soma for the Marut host, who bear the thunderbolt, toward the three "lakes" characterised as the droṇakalaśa, the ādhavanīya and the pūtabhṛt; they milk it by way of rain.
+Or else: by the word meaning "mother", sons are meant. The Maruts, whose mothers are Pṛśni, for Indra, to fill the three lakes, droṇakalaśa and the rest, with sweet soma, milk the gushing (utsa) कवंधं (*kavaṃdhaṃ*), water, the water-laden (udrin) cloud.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृश्नयः (*pṛśnayaḥ*)—the Pṛśnis (cows), mothers of the Maruts
+- वज्रिणे (*vajriṇe*)—for Indra, bearer of the thunderbolt
+- मधु (*madhu*)—sweet milk
+- त्रीणि सरांसि (*trīṇi sarāṃsi*)—enough to fill three lakes
+- दुदुहे (*duduhe*)—have milked
+- उत्सं (*utsaṃ*)—flowing
+- कवंधं (*kavaṃdhaṃ*)—water
+- उद्रिणं (*udriṇaṃ*)—the water-laden cloud; they have milked these also
+
+### Printed p. 539
+
+##### भावार्थ (Bhāvārtha)
+
+The Pṛśnis, mothers of the Maruts, have milked for Indra, wielder of the thunderbolt, sweet milk enough to fill three lakes (they have milked so as to suffice for all three savana times). They have milked the flowing water and the water-laden cloud.
+
+##### English translation
+The milch cows have filled for the thunderer three lakes of the sweet (beverage) from the dripping water-bearing cloud,
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मरु॑तो॒ यद्ध॑ वो दि॒वः सु॑म्ना॒यंतो॒ हवा॑महे।  
+> आ तू न॒ उप॑ गंतन ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुतः । यत् । ह । वः । दिवः । सुम्नयंतः । हवामहे ।  
+> आ । तु । नः । उप । गंतन ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यद्ध यदा खलु वो युष्मान् सुम्नायंतः सुम्मं सुखमात्मन इच्छंतो वयं दिवोः द्युलोकाद्धवामहे । स्तुतिभिराह्वयामहे
+> आ त्वनंतरमेव शीघ्रं नोऽस्म्यानुप गंतन । उपगच्छत ॥ गमेर्लोटि तप्तनप्तनथनाश्चेति तनबादेशः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, when we, desiring comfort (sumna, happiness) for ourselves, call you from the heaven-world, invoking with praises, then immediately come quickly to us; draw near.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- सुम्मायंतः (*summāyaṃtaḥ*)—we who desire comfort
+- यद्ध (*yaddha*)—when
+- वः (*vaḥ*)—you
+- हवामहे (*havāmahe*)—we call
+- आ तु (*ā tu*)—then at once
+- दिवः (*divaḥ*)—from the heaven-world
+- नः (*naḥ*)—toward us
+- उप गंतन (*upa gaṃtana*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, when we, desiring comfort, call you, then at once graciously come from the heaven-world to our neighbourhood.
+
+### Printed p. 540
+
+##### English translation
+When, maruts, desirous of felicity, we invoke you from heaven, come unto us quickly.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं हि ष्ठा सु॑दानवो॒ रुद्रा॑ ऋभुक्षणो॒ दमे॑।  
+> उ॒त प्रचे॑तसो॒ मदे॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । हि । स्थ । सुदानवः । रुद्राः । ऋभुक्षणः । दमे ।  
+> उत । प्रचेतसः । मदे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे सुदानवः शोभनदाना हे रुद्रा रुद्रपुत्राः॥ पादादित्वादामंत्रित निघाताभावः ॥ हे ऋभुक्षणो महांत उरुतेजस्का वा ईदृशा हे
+> मरुतः यूयं हि खलु दमे यज्ञगृहे मदे मदकरे सोमे पीते सति
+> प्रचेतसः स्थ । प्रकृष्टज्ञाना भवथ ॥
+
+##### Gist of the bhāṣya
+
+And further, O liberal givers, O Rudras, sons of Rudra (there is no lowering of the accent of the vocative, since it stands at the start of a pāda), O ऋभुक्षणः (*ṛbhukṣaṇaḥ*), great or of mighty brilliance: you, in the sacrificial house, when the exhilarating soma has been drunk, are of excellent knowledge.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- सुदानवः (*sudānavaḥ*)—generous givers
+- रुद्राः (*rudrāḥ*)—sons of Rudra
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—O Maruts of exceeding brilliance
+- दमे (*dame*)—in the sacrificial house
+- यूयं हि (*yūyaṃ hi*)—you indeed
+- मदे (*made*)—when satisfaction arises from drinking soma
+- प्रचेतसः (*pracetasaḥ*)—possessed of excellent knowledge
+- स्थ (*stha*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, liberal givers, sons of Rudra, of exceeding brilliance: in the sacrificial house, when joy arises from drinking soma, you are the ones of excellent knowledge.
+
+##### English translation
+Munificent mighty Rudras, you in the sacrificial hall are wise (even) in the exhilaration (of the Soma)
+
+### Printed p. 541
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ र॒यिं म॑द॒च्युतं॑ पुरु॒क्षुं वि॒श्वधा॑यसं ।  
+> इय॑र्ता मरुतो दि॒वः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । रयिं । मद्वच्युतं । पुरुक्षुं । विश्वधायसं ।  
+> । इयर्त । मरुतः । दिवः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः नोऽस्माकं रयिं धनं दिवो द्युलोकादेयर्त । आगमयत ॥
+> ऋ गतावित्यस्मादंतर्भावितण्यर्थाज्जु होत्यादिकाल्लोटि तस्य तप्तनप्तनेति तबादेशः ।
+> अनुदात्ते चेत्यभ्यस्ताद्दुदात्तत्वं ॥ कीदृशं रयिं । मदच्युतं मदं स्रवंतं
+> यद्वा शास्त्रवस्य मदस्य च्यावयितारं पुरुक्षुं बहुनिवासं बहुभिः स्तूयमानं
+> ना विश्वधायसं विश्वेषां सर्वॆषामस्मदीयानां धारणाय पोषणाय
+> पर्याप्तं ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, bring to us wealth from the heaven-world; make it come. (The verb is from the root ऋ (*ṛ*) in the sense of going, with an included causative.) What kind of wealth? मदच्युतं (*madacyutaṃ*): streaming exhilaration; or, causing the fall of the exhilaration of the foe. पुरुक्षुं (*purukṣuṃ*): of wide dwelling, praised by many. विश्वधायसं (*viśvadhāyasaṃ*): sufficient for the support and nourishment of all that is ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- नः (*naḥ*)—to us
+- मदच्युतं (*madacyutaṃ*)—that which produces joy
+- पुरुक्षुं (*purukṣuṃ*)—praised by many
+- विश्वधायसं (*viśvadhāyasaṃ*)—able to support all
+- रयिं (*rayiṃ*)—wealth
+- दिवः (*divaḥ*)—from the heaven-world
+- आ इयर्ता (*ā iyartā*)—send
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, send us from the heaven-world wealth that produces joy, is praised by many, and is able to support all.
+
+##### English translation
+Send us, Maruts, from heaven exhilarating, many-lauded, all-sustaining riches.
+
 ---
 
-**Progress note:** Done through printed p. 535. pp. 530-535 (batch API)
+**Progress note:** Done through printed p. 541. pp. 536-541 (batch API)
