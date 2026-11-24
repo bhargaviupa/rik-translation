@@ -8512,6 +8512,359 @@ the west, from the north, from the south, from the east.
 
 The gods, all the shining gods, as they wish, as they desire: so it will be; that comes to pass. He says that very thing: of these gods that desire no one at all injures. If it is asked how the wish of the gods thus comes to pass, he says: arāvā, a non-giver. If the gods were to desire any man who is a non-giver, then he would be a non-giver; cana is an indeclinable in the sense of "even".
 
+### Printed p. 188
+
+> मर्त्यो मनुष्य उशद्भ्यो देवेभ्यो हवींषि प्रयच्छति । तस्मात्तेषां यत्कामनं
+> तत्तथा भवत्येवेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The mortal, the man, offers oblations to the gods who desire them; therefore what they desire comes to pass indeed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—all the shining gods
+- यथा (*yathā*)—in whatever manner
+- वशंति (*vaśaṃti*)—they wish
+- तथेत् (*tathet*)—exactly as that wish
+- असत् (*asat*)—everything comes to pass
+- एषां (*eṣāṃ*)—of these gods
+- तत् (*tat*)—that same wish
+- नकिः (*nakiḥ*)—no one at all
+- मिनत् (*minat*)—can obstruct
+- अरावा चन मर्त्यः (*arāvā cana martyaḥ*)—even a man who is exceedingly miserly will assuredly offer oblations if the gods wish it
+
+##### भावार्थ (Bhāvārtha)
+
+In whatever manner all the shining gods wish, everything comes to pass exactly so (happens so). No one can obstruct the wish of these gods. Even a man who is exceedingly miserly will assuredly offer oblations if the gods wish it.
+
+##### English translation
+Whatever the the gods desire, that assuredly comes to pass : no one can resist their (will), no mortal withholds (their) offerings.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्ता॒नां स॒प्त ऋ॒ष्टयः॑ स॒प्त द्यु॒म्नान्ये॑षां ।  
+> स॒प्तो अधि॒ श्रियो॑ धिरे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्तानां । सप्त । यष्टयः । सप्त । द्युम्नानि । एषां ।  
+> सप्तो इति । अधि । श्रियः । धिरे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र पुरातनी कथा । इंद्रसमानं पुत्रमिच्छंत्या आदितेर्गर्भस्य केनचित्कारणेनेंद्रेण सप्तधा भिन्नत्वात्सगर्भः सप्तगणात्मकोऽभवत् । ततो मरुतः संपन्नाः ।
+> सप्तगणा वै मरुतः । तै. सं. २-२-११-१ । इति श्रुतेः । एषा कथेदं पित्रॆ मरुतामुच्यते वचः । ऋ. १-११४-६ । इत्यस्मिन्वर्गे सप्रपंचेनाभ्यधायि । तथा चास्या
+> ऋचोऽयमर्थः । सप्तानां मरुतां गणानां सप्त सप्तसंख्याका ऋष्टय
+
+##### Gist of the bhāṣya
+
+Here is an old story. Aditi, who wished for a son equal to Indra, had her embryo, for some reason, divided sevenfold by Indra, so that the embryo, divided, became of seven groups. From it the Maruts came into being. This accords with the Vedic text सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*) (Tai. Saṃ. 2-2-11-1). This story was told at length in the varga of the Ṛk beginning एषा कथेदं पित्रॆ मरुतामुच्यते वचः (*eṣā kathedaṃ pitrè marutāmucyate vacaḥ*) (Ṛ. 1-114-6) **GLOSS**. The meaning of this Ṛk is as follows: of the seven groups of the Maruts, seven in number are the ṛṣṭis,
+
+### Printed p. 189
+
+> आयुधविशेषा विभिन्नाः संति । तथा सप्त सप्तसंख्याकानि द्युम्नानि द्योतमानानि
+> कुंडलादीन्याभरणानि । द्युम्नान्यन्नानि वा । एषां गणानां विभिन्नानि संति । ततः
+> सप्त मरुतां गणाः सप्नो सप्नैव सप्तविधाः श्रियः सकला दीप्तीरधि धिरे । परस्परमधिकं दधिरे ॥
+
+##### Gist of the bhāṣya
+
+special weapons, which are distinct. So also seven in number are the shining ornaments, earrings and the rest (or dyumna may mean foods); these are distinct for these groups. Therefore the seven groups of the Maruts wear seven kinds of splendours, all their lights, one above another.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सप्तानां (*saptānāṃ*)—of the seven groups of Maruts
+- ऋष्टयः (*ṛṣṭayaḥ*)—the special weapons
+- सप्त (*sapta*)—are of seven kinds
+- द्युम्नानि (*dyumnāni*)—their shining ornaments also
+- सप्त (*sapta*)—of seven kinds
+- एषां (*eṣāṃ*)—these groups of Maruts have
+- सप्तो (*sapto*)—of seven kinds
+- श्रियः (*śriyaḥ*)—splendours also
+- अधि धिरे (*adhi dhire*)—these Maruts wear
+
+##### भावार्थ (Bhāvārtha)
+
+The special weapons of the seven groups of Maruts are of seven kinds. Their shining ornaments also are of seven kinds. These Maruts wear splendours of seven kinds also.
+
+##### English translation
+Seven are the lances of the seven (troops of the Maruts), seven are
+their ornaments, they wear seven surpassing glories.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Maruts have seven groups (a group means a company). As to how these seven groups came about, the birth of the Maruts was explained at length earlier, that is, in the commentary on the Ṛk Ṛ. Saṃ. 1-114-6; and in this matter there is the Taittirīya Vedic text सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*) as authority (Tai. Saṃ. 2-2-11-2), as the commentator indicates here. We too have given a detailed explanation of this matter in Ṛ. Saṃ. Part 9, p. 126. **NOTE**
+
+## Sūkta 29 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बभ्रुरेक इति दशर्चं नवमं सूक्तं । मरीचिपुत्रः कश्यपो वैवस्वतो
+> मनुर्वा ऋषिः । तथा चानुक्रम्यते । बभ्रुर्दश कश्यपो वा मारीचो द्वैपदमिति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning with बभ्रुरेक (*babhrureka*) is the ninth, of ten Ṛks. Its seer is Kaśyapa, son of Marīci, or Manu Vaivasvata. The Anukramaṇikā says so: बभ्रुर्दश कश्यपो वा मारीचो द्वैपदमिति (*babhrurdaśa kaśyapo vā mārīco dvaipadamiti*).
+
+### Printed p. 190
+
+> हशापि द्विपदा विंशत्यक्षरा विराजः । पूर्ववद्विश्वे देवा देवता ॥ तृतीये
+> छंदोमे वैश्वदेवसूक्तात्पूर्वमेव दैपदं सूक्तं शंसनीयं । सूत्र्यते हि ।
+> बभ्रुरेक इति द्विपदासूक्तानि पुरस्ताद्वैश्वदेवसूक्तानां । आ. ८-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The metre of all of them is the dvipadā virāj of twenty syllables. As before, the Viśve Devāḥ are the deity. In the third Chandoma day the dvipadā sūkta is to be recited before the Vaiśvadeva sūkta, for this is laid down in the sūtra (Ā. 8-7).
+
+##### Anuvāda
+
+This sūkta, बभ्रुरेकः (*babhrurekaḥ*), is the ninth sūkta in the fourth anuvāka. There are ten Ṛks in it. The seer of this sūkta is Kaśyapa, son of Marīci, or Manu, son of Vivasvat; in the Anukramaṇikā it is said: बभ्रुर्दश कश्यपो वा मारीचो द्वैपदं (*babhrurdaśa kaśyapo vā mārīco dvaipadaṃ*). All ten Ṛks of this sūkta are in the metre called dvipadā virāj, of twenty syllables. As in the preceding sūkta, the Viśve Devāḥ are the deity; in the third Chandoma, at the time of reciting the mantras of the Vaiśvadeva-śastra, this sūkta in the dvipadā virāj metre is to be recited before the Vaiśvadeva sūkta addressed to the Viśve Devāḥ; this is elucidated by the sūtra of the Āśvalāyana Śrauta Sūtra, बभ्रुरेक इति द्विपदासूक्तानि पुरस्ताद्वैश्वदेवसूक्तानां (*babhrureka iti dvipadāsūktāni purastādvaiśvadevasūktānāṃ*) (Ā. 8-7).
+
+##### Particulars
+
+Sūkta 29. Maṇḍala 8, Anuvāka 4, Sūkta 29. Aṣṭaka 6, Adhyāya 2, Varga 36. Number of Ṛks in the sūkta: 10. Seer: Manu Vaivasvata or Kaśyapa Mārīca. Deity: the Viśve Devāḥ. Metre: Dvipadā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब॒भ्रुरेको॒ विष्णु॑णः सू॒नरो॒ युवा॒ञ्ज्यं॑क्तेहिर॒ण्ययं॑ ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बभ्रुः । एकः । विषुणः । सूनरः । युवा । अंजि । अंक्ते । हिरण्ययं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र दशानामृचां किंचित्पदं लिंगात्पथग्देवतं । अत्र प्रथमायां बभ्रुरित्यनेन सोमोऽभिदीयते । सौम्यं बभ्रुमा लभीत । तै. स. २-१-३-३ । इत्यादिषु
+> दृष्टत्वात् । बभ्रुर्बभ्रुवर्णः शबलतादिषु परिपक्वः । यद्वा ॥ डुभृञ् धारणपोषणयोः । कुभ्रश्च । उ. १-२३ । इति कुप्रत्ययः ॥ सर्वस्य सुधामय्यैः किरणैस्तापदुद्धते चंद्रमसि दुःखोपशमनानि पुष्टानि खलु । तादृशो विष्णुणो विश्वगंचनः
+
+##### Gist of the bhāṣya
+
+Here, among the ten Ṛks, a certain word in each, by its indication, has a separate deity. In the first Ṛk, by the word babhru Soma is meant, because this is seen in texts such as सौम्यं बभ्रुमा लभीत (*saumyaṃ babhrumā labhīta*) (Tai. Sa. 2-1-3-3) **GLOSS** **NOTE**. Babhru is brown in colour, matured in variegated hue and the like. Or else, babhru is one who holds and nourishes. For the moon, with rays full of nectar, soothes the sorrows of everyone scorched by heat, and so nourishes. Such a one is viṣṇuṇaḥ **NOTE**
+
+### Printed p. 191
+
+> सूनरः सुष्टु रात्रीणां नेता । रात्रयश्चंद्रनेतृकाः खलु । एतादृशो युवा
+> प्रतिदिवसमाविर्भूतत्वात्तरुण एको देवः सोमो हिरण्ययं हिरण्मयमंजि ।
+> अभिव्यज्यते प्रकाश्यतेऽनेनेत्यंज्याभरणं । अभिव्यक्तिसाधनं कुंडलमुकुटादिकं
+> स्वशरीरमंक्ते । अभिव्यंजयति ॥
+
+##### Gist of the bhāṣya
+
+Sūnara is the good leader of the nights, for the nights have the moon as their leader. Such a one, young because he appears afresh every day, the one god Soma, adorns his own body with golden ornaments. Anji means the ornament, that by which one is made manifest, made visible: earrings, crown and the like, the means of manifestation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बभ्रुः (*babhruḥ*)—golden-brown in colour
+- विषुणः (*viṣuṇaḥ*)—all-pervading
+- सूनरः (*sūnaraḥ*)—leader of the night
+- युवा (*yuvā*)—ever young
+- एकः (*ekaḥ*)—the god Soma
+- हिरण्ययं (*hiraṇyayaṃ*)—made of gold
+- अंजि (*aṃji*)—ornaments
+- अंक्ते (*aṃkte*)—puts on
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, golden-brown in colour, all-pervading, leader of the night and ever young, puts on ornaments made of gold.
+
+##### English translation
+One (Soma) brown of hue, all-pervading, leader of the nights, ever
+young, decorates (himself) with golden ornaments.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> योनि॒मेक॒ आ स॑साद॒ द्यूत॑नो॒ऽन्तर्दे॒वेषु॒ मेधि॑रः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> योनिं । एकः । आ । ससाद । द्योतनः । अंतः । देवेषु । मेधिरः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र योनिरिति लिंगादग्निरुच्यते । आग्नये गृहपतय इत्यादिषु दृष्टत्वात् ।
+> देवेषु देवानामंतर्मध्यॆ द्योतनः स्वतेजसा दीप्यमानो मेधिरो मेधावी।
+> अथवा मेधाकांक्षिणां स्तोतृणां मेधादातृत्वेन मेधायुक्तः । एवंविध
+> एकोऽग्निर्योनिं स्थानभूतमावहनीयादिकमा ससाद । हविःस्वीकरणार्थमासीदति ॥
+
+##### Gist of the bhāṣya
+
+Here, by the word yoni, by its indication, Agni is meant, because this is seen in texts such as आग्नये गृहपतय (*āgnaye gṛhapataya*) **GLOSS**. Among the gods, in their midst, shining with his own lustre, he is medhira, possessed of understanding; or else, being the giver of understanding to the praisers who seek understanding, he is endowed with understanding. Such a one, the one Agni, has sat down in the yoni, the place, the Āhavanīya and the rest, to receive the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेषु अंतः (*deveṣu aṃtaḥ*)—in the midst of the gods
+- द्योतनः (*dyotanaḥ*)—shining
+- मेधिरः (*medhiraḥ*)—and intelligent
+- एकः (*ekaḥ*)—Agni alone
+- योनिं (*yoniṃ*)—that place, the Āhavanīya and the rest
+- आ ससाद (*ā sasāda*)—has taken and sits in
+
+### Printed p. 192
+
+##### भावार्थ (Bhāvārtha)
+
+Agni alone, shining and intelligent in the midst of the gods, has taken the Āhavanīya and the rest as his place and sits there.
+
+##### English translation
+One (Agni) intelligent, resplendent among the gods, is seated in his place (the altar).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाशी॒मेको॑ बिभर्ति॒ हस्त॑ आय॒सीमं॒तर्दे॒वेषु॒ निध्रु॑विः ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाशीं । एकः । बिभर्ति । हस्ते । आयसीं । अंतः । देवेषु । निध्रुविः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवेष्टंतर्देवानां मध्यॆ द्योतमानो निध्रुविर्निश्चले स्थाने वर्तमानः ।
+> यद्वा । नितरां गमनमस्यास्तीति निध्रुविः सर्वदा गच्छन् । अथवा संग्रामेषु
+> शत्रूणां पुरतोऽतिशयेन स्थैर्यवान् । एतादृश एकस्त्वष्टनामको देव
+> आयसीमयोमयधारां वाशीं ॥ वाश्य शब्दे ॥ शब्दयत्याक्रंदयति शत्रूननयेति
+> वाशी तक्षणसाधनं कुठारः । तं स्वकीये हस्ते बिभर्ति । धारयति ॥
+
+##### Gist of the bhāṣya
+
+Among the gods, in their midst, shining, nidhruvi: abiding in an immovable place. Or else, he who has constant going is nidhruvi, always going; or, in battles, exceedingly firm before the enemies. Such a one, the one god named Tvaṣṭṛ, holds in his hand the vāśī, the axe made of iron (āyasī, with an iron edge): vāśī is so called because it makes the enemies cry out, an instrument of cutting.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेषु अंतः (*deveṣu aṃtaḥ*)—in the midst of the gods
+- निध्रुविः (*nidhruviḥ*)—seated unmoving
+- एकः (*ekaḥ*)—Tvaṣṭṛ
+- आयसीं (*āyasīṃ*)—having an edge made of iron
+- वाशीं (*vāśīṃ*)—the weapon in the form of an axe
+- हस्ते (*haste*)—in his hand
+- बिभर्ति (*bibharti*)—holds
+
+##### भावार्थ (Bhāvārtha)
+
+Tvaṣṭṛ, seated unmoving in the midst of the gods, holds in his hand his weapon, made of steel, with a shining edge, in the form of an axe.
+
+##### English translation
+One (Twashtri) immoveably stationed among the gods, holds his
+iron axe in his hand.
+
+### Printed p. 193
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वज्र॒मेको॑ बिभर्ति॒ हस्त॒ अहि॑तं॒ तेन॑ वृ॒त्राणि॑ जिघ्नते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वज्रं । एकः । बिभर्ति । हस्ते । आहितं । तेन । वृत्राणि । जिघ्नते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र वज्रलिंगादिंद्रो देवता । एक इंद्र आहितं स्वकीयहस्ते निहितं
+> वज्रमेतन्नामकमायुधं बिभर्ति । धत्ते । स एवेंद्रस्तेन निहितेन वज्रेण
+> वृत्राण्यावरकाणि रक्षांसि पापानि वा जिघ्नते । भृशं हंति ॥
+
+##### Gist of the bhāṣya
+
+Here, by the indication of the word vajra, Indra is the deity. The one Indra holds the weapon named vajra, placed in his own hand; the same Indra, with that placed vajra, slays violently the vṛtras, the enveloping rākṣasas or sins.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एकः (*ekaḥ*)—the one, unequalled Indra
+- हस्ते (*haste*)—in his own hand
+- अहितं (*ahitaṃ*)—that is placed
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- बिभर्ति (*bibharti*)—holds
+- तेन (*tena*)—with that thunderbolt weapon
+- वृत्राणि (*vṛtrāṇi*)—the enemies, the rākṣasas and the rest
+- जिघ्नते (*jighnate*)—he slays
+
+##### भावार्थ (Bhāvārtha)
+
+The one, unequalled Indra holds the thunderbolt weapon in his own hand. With that thunderbolt weapon he slays the enemies, the rākṣasas and the rest.
+
+##### English translation
+One (Indra) holds his thuuderbolt wielded in his hand, by which he slays the Vritras.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒ग्ममेको॑ बिभर्ति॒ हस्त॒ आयु॑धं॒ शुचि॑रु॒ग्रो जला॑षभेषजः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिग्मं । एकः । बिभर्ति । हस्ते । आयुधं । शुचिः । उग्रः । जलापभेषजः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र जलाषभेषज इत्यनेन रुद्रोऽभिधीयते । शुचिः ॥ शुच दीप्ता ॥ सर्वतः
+> स्वतेजसा दीप्यमानः । यद्वा ॥ शुच शोके ॥ शत्रुणां शोचयिता दुःखयिता ।
+> XXIV 13
+
+##### Gist of the bhāṣya
+
+Here, by the word jalāṣabheṣaja Rudra is meant. Śuci (the root śuc in the sense of shining): shining on every side with his own lustre; or else (the root śuc in the sense of grief): one who makes the enemies grieve, who causes them pain.
+
+### Printed p. 194
+
+> अत एवोऽग्र उद्धूर्णबलो जलापभेषजो रोगादनयनेन सुखकरभैषज्यवान् ।
+> यद्वा ! स्तोतृणां दुःखरूपसंसारोच्छेदेन सुखकारिभिषग्रूपः । प्रथमो
+> दैव्यो भिषगित्यादिश्रुतिभिरस्य भिषक्त्वं श्रूयते । तादृश एको रुद्रस्तिग्मं तीक्ष्णधारमायुधं । आयुध्यति संप्रहरति शत्रूननेनेत्यायुधं पिनाकः । तं स्वकीये
+> हस्ते बिभर्ति ॥
+
+##### Gist of the bhāṣya
+
+For that very reason he is ugra, of surging strength, and jalāṣabheṣaja, possessing remedies that give happiness by removing disease; or else he is a physician who gives happiness to the praisers by cutting off the sorrowful cycle of existence. His being a physician is heard from Vedic texts such as प्रथमो दैव्यो भिषगित्यादिश्रुतिभिरस्य (*prathamo daivyo bhiṣagityādiśrutibhirasya*) **GLOSS**. Such a one, the one Rudra, holds in his own hand the sharp-edged weapon, the āyudha, that with which one strikes enemies: the Pināka.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचिः (*śuciḥ*)—shining with his own lustre
+- उग्रः (*ugraḥ*)—of exceeding strength
+- जलाषभेषजः (*jalāṣabheṣajaḥ*)—providing medicines that destroy disease
+- एकः (*ekaḥ*)—Rudra
+- तिग्मं (*tigmaṃ*)—with a keen edge
+- आयुधं (*āyudhaṃ*)—his weapon called Pināka
+- हस्ते (*haste*)—in his hand
+- बिभर्ति (*bibharti*)—holds
+
+##### भावार्थ (Bhāvārtha)
+
+Rudra, who shines with his own lustre, is of exceeding strength and provides medicines that destroy disease, holds in his hand his weapon called Pināka, with a keen edge.
+
+##### English translation
+One (Rudra) brilliant and fierce, (yet) the distributor of healing
+medicines, holds his sharp weapon in his hand.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒थ एकः॑ पीपाय॒ तस्क॑रो यथा ए॒ष वे॑द निधी॒नां ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पथः । एकः । पीपाय । तस्करः । यथा । एषः । वेद । निधीनां ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पथ इति लिंगेन पूषा निगद्यते ! सं पूषन्नध्वनस्तिय । ऋ. १-४२-१ । इत्यादिषु
+> दृष्टत्वात् ! एकः पूषनामको देवः पथो मार्गान् पीपाय । प्यायतिर्वर्धनकर्माप्यत्र रक्षणार्थः । येऽग्निहोत्रादि कर्म कुर्वंति तेषां स्वर्गमार्गं ये
+> दुष्कृतं कर्म कुर्वंति तेषां यातनामार्गं च रक्षति ! उभयेषां मार्गविपर्ययो यथा न भवति तथा पालयतीत्यर्थः । एष सोऽयं पूषा निधीनां
+> पृथिव्यां निहितानि धनानि वेद । वेत्ति ! ज्ञात्वा स्तोतृ णां तानि ददाशीत्यर्थः । तत्र
+
+##### Gist of the bhāṣya
+
+By the indication of the word pathaḥ, Pūṣan is meant, because this is seen in texts such as सं पूषन्नध्वनस्तिय (*saṃ pūṣannadhvanastiya*) (Ṛ. 1-42-1) **GLOSS**. The one god named Pūṣan has made the paths, the roads, to grow; the root pyāy has the sense of increase, but here the sense is protection. He protects the path to heaven of those who perform rites such as the Agnihotra, and the path of torment of those who perform evil deeds; the meaning is that he guards them so that the paths of both are not reversed. This Pūṣan knows the treasures, the riches laid down on the earth; knowing them, he gives them to the praisers: this is the meaning.
+
 ---
 
-**Progress note:** Done through printed p. 187. Mandala 8 Sukta 27 Rks 21-22, Sukta 28 Rks 1-4 (in part)
+**Progress note:** Done through printed p. 194. Mandala 8 Sukta 28 Rks 4-5, Sukta 29 Rks 1-6 (in part)
