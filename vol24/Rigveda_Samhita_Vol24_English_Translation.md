@@ -779,6 +779,248 @@ O Indra, you do not approach for friendship the wealthy man who is without givin
 ##### English translation
 You acknowledge no friendship for the wealthy man (who makes no offerings); those who are puffed up with wine offend you; when you
 
+### Printed p. 19
+
+institute (the sacrifice), you expel niggardliness, and you are invoked as a protector.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू ते॑ अमा॒जुरो॑ यथा मू॒रास॑ इंद्र स॒ख्ये त्वाव॑तः ।  
+> नि ष॑दाम॒ सचा॑ सु॒ते ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । ते । अम्याजुरः । यथा । मूरासः । इंद्र । सख्ये । त्वावतः ।  
+> नि । सदाम । सचा । सुते ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव स्वभूता वयं तथा मा भूम मा भवाम यथा त्वावतस्त्यादृशस्त्वत्सदृशस्य देवस्य सख्ये मूरासो मूराः । सोमप्रदानादिंद्रेण सह
+> सख्यं कुर्म इत्येतदजानंतो मूढा जनाः । अमाजुरः सोमाभिषवमकुर्वंतस्ते
+> गृहैः पुत्रैः पौत्रैर्धनादिभिश्च सह जीर्णा भवंति । तथा वयममाजुरो न भवाम।
+> कथं । सचा ऋत्विग्निः सह सुतेऽभिषुते सोमे वयं तु नि षदाम । निवसाम ।
+> तस्मात्तोमदानेन त्वया सह सखिभावं कुर्म इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we who are yours must not become such as the fools (mūrāsaḥ) who, in the friendship of a god like you, a god equal to you, do not know that friendship with Indra is made by the offering of Soma. Such persons, who do not press Soma, are called अमाजुरः (*amājuraḥ*): they decay together with their houses, sons, grandsons, wealth and the rest. Let us not be so. How then? Together with the priests, when the Soma has been pressed, we sit down, that is, we dwell. Therefore, by the gift of Soma, we make friendship with you. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—in what manner
+- त्वावतः (*tvāvataḥ*)—of a god such as you
+- सख्ये (*sakhye*)—though there is friendship
+- मूरासः (*mūrāsaḥ*)—being fools
+- अमाजुरः (*amājuraḥ*)—possessed of wealth that wastes away through neglecting you, as they may become
+- ते (*te*)—in regard to you
+- मा (*mā*)—we shall not be without faith
+- सचा (*sacā*)—together with the priests
+- सुते (*sute*)—at the time when the Soma juice is pressed
+- नि षदाम (*ni ṣadāma*)—we shall all sit down together
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, though there is the friendship of a god such as you, we shall not be without faith in you, in the manner in which fools, by neglecting you, may become possessed of wealth that wastes away. Together with the priests, at the time when the Soma juice is pressed, we shall all sit down together.
+
+### Printed p. 20
+
+##### English translation
+Let us not, like fools, Indra, be regardless of the friendship of such as you are; let us assemble together when the libation is effused.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा ते॑ गोदत्र॒ निर॑राम॒ु राध॑स॒ इंद्र॒ मा ते॑ गृहामहि ।  
+> दृ॒ळ्ता चि॑द॒र्यः प्र मृ॑शा॒भ्या भ॑र॒ न ते॑ दा॒मान॑ आ॒दभे॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । ते । गोऽदत्र । निः । अराम । राधसः । इंद्र । मा । ते । गृहामहि ।  
+> दृळ्हा । चित् । अर्यः । प्र । मृश । अभि । आ । भर । न । ते । दामानः । आदभे ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गोदत्र स्तोत्कृणां गवादिदानशील हे इंद्र ते तव स्वभूता वयं
+> राधसो धनान्मा निरराम । मा निर्गमाम ॥ आर्तेर्लुज सर्तिशास्त्रृतिभ्यश्चेत्यजादेशः । युदृशोऽजीति गुणः ॥ सर्वदा त्वत्तो धनाढ्या भवाम । किंच ते तव
+> स्वभूता वयं धनं प्रयच्छाम । कस्माच्चिन्मा गृहामहि । तस्मादन्यन्न गृह्णिमः ।
+> अपि तु त्वत्त एव धनं गृह्मीम इत्यर्थः ॥ गृहेर्लुज बहुलं छंदसीति शः ।
+> जत्त्वात्संप्रसारणं ॥ अर्यः स्वामी त्वं दृळ्ता चिद्वृढान्यपि विनश्वराणि धनानि प्र मृश।
+> प्रकर्षणास्मासु स्थापय । किंचाभ्याभिमुख्येना भर । धनादिभिः समंतादस्मान्पोषय । ते तव दामानस्तानि दानानि नादभे न कैश्चिदप्यादंभितुं शक्यंते ।
+> तस्माद्वानादियुक्तानस्मान् कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, giver of cattle and the like to your praisers, we who are yours must not go out from, that is, must not depart from, your wealth; may we always be rich through you. Further, we who are yours give wealth, and let us not take it from anyone; therefore we take nothing from another, but take wealth from you alone. You are the lord: establish in us, strongly, wealth even though it be firm. **NOTE** Further, bring it towards us, that is, nourish us all round with wealth and the like. Your gifts cannot be restrained by anyone; therefore make us possessed of gifts and the like. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोदत्र (*godatra*)—giver of cattle and the like
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—we who belong to you
+- राधसः (*rādhasaḥ*)—that wealth
+- मा निरराम (*mā nirarāma*)—we shall not lose
+- ते (*te*)—we who are your devotees
+- मा गृहामहि (*mā gṛhāmahi*)—we shall certainly not accept (from others)
+- आर्यः (*āryaḥ*)—you who are the lord
+- दृढाचित् (*dṛḍhācit*)—even the most firm wealth
+- प्र मृश (*pra mṛśa*)—establish in us
+- अभ्याभर (*abhyābhara*)—nourish us with wealth and the like
+- ते (*te*)—your
+- दावानः (*dāvānaḥ*)—gifts of wealth and the like
+- न आदभे (*na ādabhe*)—cannot be restrained by anyone
+
+### Printed p. 21
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of cattle and the like, we who belong to you shall not lose that wealth of cattle and the like. We, your devotees, shall certainly not accept gifts from others. You who are the lord, establish in us the most firm wealth. Nourish us with wealth and the like. No one is able to restrain your gifts of wealth and the like.
+
+##### English translation
+Let us never, Indra, giver of cattle, cease (to benefit) from your wealth ; let us not accept it (from another than) you : do you, who are the lord, confirm to us permanent (riches), bestow them upon us ; your benefactions cannot be arrested.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ वा॒ घेदिय॑न्म॒घं सर॑स्वती वा सु॒भगा॑ द॒दिर्वसु॑ ।  
+> त्वं वा॑ चित्र दा॒शुषे॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । वा । घ । इत् । इयत् । मघं । सरस्वती । वा । सुभगा । ददिः । वसु ।  
+> शृं । वा । चित्र । दाशुषे ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र चित्रस्य दानं स्तौति । चित्रो नाम राजा सरस्वतीतीर इंद्रार्थं
+> यागमकृत । तत्र मंत्रद्रष्टर्षिर्बहुधनलाभान्मह्यमेतावद्धनं को वा प्रायच्छदिति
+> विकल्पयते । दाशुष इंद्राय हवींषि दत्तवते मह्यमिंद्रो वा घेदिंद्र एव किं
+> खल्वेतावन्मघं मंहनीयं धनं ददिः प्रायच्छत् । यद्वा सुभगा शोभनधना
+> सरस्वती नदी वसु धनं ददिः किं प्रायच्छत् । अथवा चित्र एतन्नामक हे राजन् त्वं
+> वैतावद्दनं मह्यं प्रादा इति ॥
+
+##### Gist of the bhāṣya
+
+Here he praises Citra's gift. A king named Citra performed a sacrifice for Indra on the bank of the Sarasvatī. There the seer of the mantra, having received much wealth, wonders aloud: who gave me so much wealth? To me, who have given oblations to Indra, did Indra himself give this much wealth, worthy of praise? Or else did Sarasvatī, the river of good fortune, give the wealth? Or, O king, of this name, Citra, was it you who gave me so much wealth?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दारुषे (*dāruṣe*)—to me who offered oblation to Indra
+- इयत् मघं (*iyat maghaṃ*)—so much worshipful wealth
+- इंद्रो वा (*iṃdro vā*)—Indra himself
+- घेत् (*ghet*)—certainly
+- ददिः (*dadiḥ*)—did he give
+### Printed p. 22
+
+- सुभगा (*subhagā*)—possessed of excellent wealth
+- सरस्वती (*sarasvatī*)—the river Sarasvatī
+- वसु (*vasu*)—did she give so much wealth
+- चित्र (*citra*)—O king named Citra
+- त्वं वा (*tvaṃ vā*)—or can it be you who gave so much wealth
+
+##### भावार्थ (Bhāvārtha)
+
+Who gave me, who offered oblation to Indra, so much abundant wealth? If such worshipful and abundant wealth is to be given, can it be Indra? Or did the river-goddess Sarasvatī, possessed of excellent wealth, give so much wealth? O king named Citra, or can it be you who gave so much wealth?
+
+##### English translation
+Is it Indra who has given to the donor (of the oblation) so much affluence? is it the auspicious Saraswati (who has given) the treasure? or, Chitra, is it you?
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चित्र॒ इद्राजा॑ राज॒का इद॑न्य॒के य॒के सर॑स्वती॒मनु॑ ।  
+> प॒र्जन्य॑ इव त॒तन॒द्धि वृ॒ष्ट्या स॒हस्र॑म॒युता॒ दद॑त् ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चित्रः । इत् । राजा । राजकाः । इत् । अन्यके । यके । सरस्वतीं । अनु ।  
+> पर्जन्यः इव । ततनत् । हि । वृष्टा । सहस्रं । आयुता । ददत् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया चित्र एव प्रादादिति निश्चयमकार्षित् । सहस्रं सहस्रसंख्याकं धनम
+> युतायुतानि च धनानि च ददत् प्रयच्छंश्चित्र इच्चित्रनामैव राजा । अन्यके यके ॥
+> अल्प इत्यर्थे कः ॥ आल्पा येऽन्ये राजका इद्राजान एव सरस्वतीमनु सरस्वत्यास्तीरे
+> वर्तंते । तान् सर्वान्याचमानानयमेव चित्रो राजा ततनत् धनैस्तनोति ॥
+> शनोतेर्लुज् चजि रूपं । चज्यन्यतरस्यामिति स्वरः ॥ तत्र दृष्टांतः । पर्जन्य इव
+> यथा पर्जन्यः पृथिवीं वृष्टा त्वतनोति प्रीणयति तथायं चित्रः सर्वान् धनैः
+> प्रीणयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+By this verse he made the determination that Citra alone gave. Citra, the very king of that name, giving wealth numbering a thousand and tens of thousands, spreads wealth over all those petty kings, whoever they are, who live by the Sarasvatī, begging of him. The illustration: as Parjanya, by rain, spreads over and delights the earth, so this Citra delights all with wealth. This is the meaning.
+
+### Printed p. 23
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चित्र इत् राजा (*citra it rājā*)—this king named Citra
+- सहस्रं (*sahasraṃ*)—that which numbers a thousand
+- अयुता (*ayutā*)—and that which numbers ten thousand, wealth of these kinds
+- ददत् (*dadat*)—giving
+- अन्यके यके (*anyake yake*)—whichever other petty
+- राजका इत् (*rājakā it*)—kings
+- सरस्वतीं मनु (*sarasvatīṃ manu*)—live on the bank of the river Sarasvatī, more than all of them
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- वृष्ट्या (*vṛṣṭyā*)—by rain
+- ततनत् (*tatanat*)—as he satisfies the whole earth, so he satisfies with gifts of wealth
+
+##### भावार्थ (Bhāvārtha)
+
+Under the protection of the king named Citra, many petty kings live on the bank of the river Sarasvatī. More than all of them, Citra, giving wealth numbering a thousand and ten thousand, satisfies them with gifts of wealth, as Parjanya satisfies the whole earth with rain. (Therefore he must be the very one who made the gift of wealth to us.)
+
+##### English translation
+Verily the Raja Chitra, giving his thousands and tens of thousands, has overspread (with his bounty) those other petty princes, who rule along the Saraswati, as Parjanya (overspreads the earth) with rain.
+
+## Sūkta 22 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ओ त्यमद्व इत्यष्टादशर्चं द्वितीयं सूक्तं काण्वस्य सोभरेरार्षं ।
+> आद्यातृतीयापंचम्यो बृहत्यो द्वितीयाचतुर्थीषष्ठः सतोबृहत्यः सप्तमी
+> बृहत्यष्टम्यनुष्टुप् । काकुभं प्रागाधं हेत्युक्तस्यानुवृत्तेः शिष्टाश्चत्वारः काकुभाः
+> प्रगाथाः । अश्विनौ देवता । तथा चानुक्रांतं। ओ त्यमाश्विनं त्रिप्रगाथादि बृहत्यनुष्टुबेकादशाद्वे ककुम्मध्येजोतिषी इति ॥ प्रातरनुवाक आश्विने क्रत्वा बार्हते
+> छंदस्माश्विनशस्त्रे चाद्याः सप्तर्चः । सूत्रितं च । ओ त्यमद्व आ रथमिति सप्त ।
+> आ. ४-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning ओ त्यमद्व इत्यष्टादशर्चं (*o tyamadva ityaṣṭādaśarcaṃ*), of eighteen Ṛks, is the second sūkta; its seer is Sobhari Kāṇva. Of its verses, the first, third and fifth are Bṛhatī; the second, fourth and sixth are Satobṛhatī; the seventh is Bṛhatī; the eighth is Anuṣṭubh. By the continuation of what was said, "Kākubha Prāgātha", the remaining four are Kākubha Pragāthas. The deity is the Aśvins. Accordingly the Anukramaṇikā: ओ त्यमाश्विनं त्रिप्रगाथादि बृहत्यनुष्टुबेकादशाद्वे ककुम्मध्येजोतिषी (*o tyamāśvinaṃ tripragāthādi bṛhatyanuṣṭubekādaśādve kakummadhyejotiṣī*) **GLOSS**. In the Prātaranuvāka, in the Āśvina rite, in the Bārhata metre and in the Āśvina-śastra, the first seven Ṛks are used. This is laid down by the sūtra ओ त्यमद्व आ रथमिति सप्त (*o tyamadva ā rathamiti sapta*) (Ā. 4-15).
+
+In the Kannada: this sūkta beginning "o tyam ahve" is the second sūkta in the fourth anuvāka. It has eighteen Ṛks. Its seer is Sobhari Kāṇva; the Aśvins
+
+### Printed p. 24
+
+are its deity. Its first, third and fifth Ṛks are in the Bṛhatī metre; the second, fourth and sixth Ṛks in the Satobṛhatī metre; the seventh in the Bṛhatī metre; the eighth in the Anuṣṭubh metre; the remaining four Ṛks are in the metre called Prāgātha Kākubha. In the Anukramaṇikā it is said: ओ त्यमाश्विनं त्रिप्रगाथादि बृहत्यनुष्टुबेकादश्याद्ये ककुम्मध्येज्योतिषी (*o tyamāśvinaṃ tripragāthādi bṛhatyanuṣṭubekādaśyādye kakummadhyejyotiṣī*) **GLOSS**. The first seven Ṛks of this sūkta are used, at the time of reciting the Prātaranuvāka mantras, for the Ṛks of Bṛhatī metre connected with the Āśvina rite and for the mantras of the Āśvina-śastra, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, "o tyam ahva ā ratham iti sapta" (Ā. 4-15).
+
+Sūkta 22. Maṇḍala 8. Anuvāka 4. Sūkta 22. Aṣṭaka 6. Adhyāya 2. Vargas 5, 6, 7, 8. Number of Ṛks in the sūkta: 18. Seer: Sobhari Kāṇva. Deity: the Aśvins. Metre: 1-6, Prāgātha (the odd verses Bṛhatī, the even verses Satobṛhatī); 3, Bṛhatī **NOTE**; 8, Anuṣṭubh; 9, 10, 13-18, Prāgātha Kākubha; 11, Kakubh; 12, Madhye Jyotiḥ.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ त्यम॑ह्व॒ आ रथ॑म॒द्या दंसि॑ष्ठमू॒तये॑ ।  
+> यम॑श्विना सुहवा रुद्रवर्तनी॒ आ सू॒र्यायै॑ त॒स्थथुः॑॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओ इति । त्यं । अह्वे । आ । रथं । आद्य । दंसिष्ठं । ऊतये ।  
+> यं । अश्विना । सुहवा । रुद्रवर्तनी इति रुद्रवर्तनी । आ । सूर्यायै । तस्थथुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् दंसिष्ठ मत्यंतदर्शनीयं यद्वातिशयेन शत्रूणामुपक्षपयितारं
+> त्यं तं युवयो रथमूतये रक्षणायाद्यास्मिन्यागदिनेऽह्ये ! सोभरिरहमाह्वयामि । सुहवा स्तोत्रशस्त्रादिभिः शोभनाह्वान् रुद्रवर्तनी संग्रामे रोधनशील-
+
+##### Gist of the bhāṣya
+
+O Aśvins, that chariot of yours, हे अश्विन् दंसिष्ठ (*he aśvin daṃsiṣṭha*), exceedingly beautiful to see, or else the one that exceedingly brings down enemies: that chariot of yours I, Sobhari, call today, on this day of sacrifice, for protection. You are suhavā, well invoked with stotras, śastras and the like; and he begins to gloss rudravartanī as having a nature of obstructing in battle (the sentence continues in the next window).
+
 ---
 
-**Progress note:** Done through printed p. 18. Rk 9 end, Rk 10-14 (pp. 13-18)
+**Progress note:** Done through printed p. 24. pp. 19-24: Rk 14 end, Rk 15-18, Sukta 22 intro, Rk 1
