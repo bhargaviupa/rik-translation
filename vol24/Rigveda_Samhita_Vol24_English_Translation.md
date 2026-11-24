@@ -7805,6 +7805,438 @@ On the fifth day, in the प्रउगशस्त्रे (*praugaśastre*),
 - वः (*vaḥ*)—who are among you
 - देवंदेवं (*devaṃdevaṃ*)—each god
 
+### Printed p. 173
+
+- अवसे (*avase*)—for our protection we call
+- देवंदेवं (*devaṃdevaṃ*)—each deity
+- अभिष्टये (*abhiṣṭaye*)—for the accomplishment of our desires also we call
+- वाजसाकये (*vājasākaye*)—for the gain of food also
+- देवंदेवं (*devaṃdevaṃ*)—each god
+- हुवेम (*huvema*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, praising with shining praise, we call each deity among you for our protection. We call each deity also for the accomplishment of our desires. We call each deity also for the gain of food.
+
+##### English translation
+We would invoke each deity among you (gods) for protection, each
+deity for the attianment of our desires, each deity for the acquisition of
+food, glorifying you with divine praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the fifth day of the sacrifice, at the time of reciting the mantras of the Prauga-śastra, the three Ṛks beginning with देवंदेवं (*devaṃdevaṃ*) are to be recited as the Vaiśvadeva triplet; this is elucidated by the sūtra of the Āśvalāyana Śrauta Sūtra, देवंदेवं बृहदु गायिषे वचः (*devaṃdevaṃ bṛhadu gāyiṣe vacaḥ*) (Ā. 7-12).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वासो॒ हि ष्मा॒ मन॑वे॒ सम॑न्यवो॒ विश्वे॑ सा॒कं सरा॑तयः ।  
+> ते नो॑ अ॒द्य ते अ॑प॒रं तु॒चे तु नो॒ भवं॑तु वरिवो॒विदः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवासः । हि । स्म । मनवे । समन्यवः । विश्वे । साकं । सरातयः ।  
+> ते । नः । आद्य । ते । अपरं । तुचे । तु । नः । भवंतु । वरिवःविदः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समन्वयः समानमनसः यद्वा संग्रामेषु शत्रुहननार्थं समानक्रोधयुक्ता विश्वे सर्व एव देवासो हि ष्म मरुदादयो देवाः खलु मनव एतन्नामकार्यार्षये मह्यं साकं सह युगपदेव सरातयो धनादिदानेन सहिता भवंतु ॥
+
+##### Gist of the bhāṣya
+
+Samanyavaḥ means of one mind; or, in battles, possessed of the same anger for the slaying of enemies. All the gods, the Maruts and the rest, being such, may be together, at one and the same time, givers of wealth and the like to me, Manu, the Ārya seer of that name.
+
+### Printed p. 174
+
+> पुनरपि प्रार्थयते । ते देवा नोऽस्माकमद्यास्मिन्निनेऽपरं च किं बहुना सर्वॆषु
+> दिवसेषु धनदातारो भवंतु । न केवलमस्माकमेव किंतु तुचे । तुगित्युपत्यनाम॥
+> तुजि पिजि हिंसादाननिकेतनेषु ॥ तोजयति हिनस्ति पितुर्दुःखादिकमिति तुक् पुत्रः ।
+> तस्मै नोऽस्माकं पुत्राय वरिवोविदो वरणीयस्य धनस्य लंभयितारो
+> भवंतु ॥
+
+##### Gist of the bhāṣya
+
+He prays again. May those gods, today and afterwards (what need of more words: on all days), be givers of wealth to us. Not to us alone, but also to our offspring. Tuc is a name for offspring; the root tuj and the root pij have the senses of injuring, giving and dwelling; he who injures, that is, removes, his father's sorrow and the like, is tuk, a son. To that son of ours may they be procurers of the choicest wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समन्यवः (*samanyavaḥ*)—possessed of one mind
+- विश्वे (*viśve*)—all
+- देवासो हि ष्म (*devāso hi ṣma*)—the gods also
+- साकं (*sākaṃ*)—together, united
+- मनने (*manane*)—to me, named Manu
+- सरातयः (*sarātayaḥ*)—be givers of wealth
+- ते (*te*)—those same gods
+- अद्य (*adya*)—today
+- अपरं (*aparaṃ*)—on the remaining days
+- नः (*naḥ*)—to us also
+- नः (*naḥ*)—our
+- तुचे (*tuce*)—to sons and the like also
+- वरिवोविदः (*varivovidaḥ*)—as givers of abundant wealth
+- भवंतु (*bhavaṃtu*)—may they be
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods, of one mind, together be givers of wealth to me, who am named Manu. May those same gods, today and on the remaining days, be givers of abundant wealth to us and to our sons and the rest.
+
+##### English translation
+May the universal gods with one consent be together the givers (of riches) to Manu ; may they, both to-day and hereafter, be the bestowers of wealth upon us and upon our posterity.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वः॑ शंसाम्यद्रुहः सं॒स्थ उप॑स्थुतीनां ।  
+> न तं धू॒र्तिर्व॑रुण मित्र॒ मर्त्यं॒ योवो॒ थाम॒भ्योऽवि॑धत्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । शंसामि । अद्रुहः । संस्थे । उपस्तुतीनां ।  
+> न । तं । धूर्तिः । वरुण । मित्रे । मर्त्यं । यः । वः । धामभ्यः । अविधत् ॥ १५ ॥
+
+### Printed p. 175
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रुहोऽद्रोग्धारोऽहिंस्या वा मरुदादयः उपस्तुतीनामुपस्तोत्राणां संस्थॆ तासां यज्ञे क्रियमाणत्वादस्मत्स्थानभूतेऽस्मिन्यज्ञे वो
+> युष्मान् प्र शंसामि । प्रकर्षेण सौमि । हे वरुण मित्र मित्रावरुणौ तं मर्त्यं
+> मनुष्यं धूर्तिः ॥ धुर्वी हिंसार्थः ॥ शत्रुभ्यो हिंसा: तं न बाधते यो
+> मनुष्यो वो युष्माकं धामभ्यस्तेजोभ्यः । धीयतेऽस्मिन्निति धाम शरीरं वा ।
+> तेभ्योऽविधत् ॥ विध विधाने ॥ हवींषि विदधाति प्रयच्छति । एतेन तेजसामपि
+> हविर्भक्षणमस्तीति ज्ञायते ॥
+
+##### Gist of the bhāṣya
+
+O non-hostile (or inviolable) Maruts and others, in the sacrifice, which is the place of the praises (since those praises are made in it) and is therefore our own place, I praise you, I extol you excellently. O Varuṇa and Mitra, that mortal, that man, no affliction (dhūrti, from the root dhurv, injuring: injury from enemies) harms, who offers to your lustres; dhāma is the lustre, or else the body, since the self is placed in it. He offers, that is, gives, oblations to them. From this it is known that even lustres have a taking of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रुहः (*adruhaḥ*)—O Maruts and others, free from injury
+- उपस्तुतीनां (*upastutīnāṃ*)—joined with praises
+- संस्थॆ (*saṃsthè*)—in the sacrifice
+- वः (*vaḥ*)—you
+- प्र शंसामि (*pra śaṃsāmi*)—I praise
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- यः (*yaḥ*)—which man
+- वः (*vaḥ*)—your
+- धामभ्यः (*dhāmabhyaḥ*)—to the lustres
+- अविधत् (*avidhat*)—offers worship
+- तं मर्त्यं (*taṃ martyaṃ*)—that man
+- धूर्तिः (*dhūrtiḥ*)—the affliction of the enemy
+- न (*na*)—does not injure
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts and others, free from injury, in this sacrifice joined with praises I praise you. O Varuṇa, O Mitra, the affliction of the enemy does not injure that man who offers worship to your lustres.
+
+##### English translation
+I glorify you, innocuous deities, in the place of praises : no harm befalls the man who, Mitra and Varuna, offers (oblations) to your glories.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स क्षयं॑ तिरते॒ वि म॒हीरिषो॒ यो वो॒ वरा॑य॒ दाश॑ति ।  
+> प्र प्र॒जाभि॑र्जायते॒ धर्म॑ण॒स्पर्यरि॑ष्टः॒ सर्व॑ एधते ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सः । क्षयं । तिरते । वि । महीः । इषः । यः । वः । वराय । दाशति ।  
+> प्र । प्रजाभिः । जायते । धर्मणः । परि । अरिष्टः । सर्वः । विधते ॥ १६ ॥
+
+### Printed p. 176
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुदादयः स मनुष्यः क्षयं । क्षियंति निवसंत्यत्रेति क्षयो गृहः ।
+> तत्स मनुष्यः प्र तिरते । प्रकर्षण वर्धयति । तिरतिर्वृद्धिकर्मा । स एव महीर्महांतीषोऽन्नानि च वि वर्धयति यो मनुष्यो वराय वरणीयाय धनाय
+> तदर्थं वो युष्मभ्यं दाशति हवींषि प्रयच्छति । धनादिभिर्वर्धयतीत्यन्वयः ।
+> किंच धर्मणः । ध्रियत ऋत्विग्निरिति धर्म कर्म । युष्मद्विषयात्कर्मणः सकाशात्स
+> मनुष्यः प्रजाभिः पुत्रपौत्रादिभिः परि परितः सर्वतः प्र जायते । प्रकर्षणाविर्भवति ।
+> आत्मा वै पुत्रनामासि । शत. १४-९-४-२६ । इति श्रुतेः । ततोऽरिष्टोऽन्यैरहिंसितः
+> सर्वो युष्माकं हविष्पदानात्सकलो जन विधते । धनादिभिर्वर्धते ॥
+
+##### Gist of the bhāṣya
+
+O Maruts and others, that man makes his kṣaya grow; kṣaya is the house, where people dwell (the root kṣi). He makes it grow excellently; tirati has the sense of growth. The same man makes great foods also grow, the man who gives, that is, offers oblations to you for the sake of choice wealth (vara, that which is to be chosen). The construction is: he makes them grow with wealth and the like. Further, from dharman: the priest bears the rite (dhriyate), and dharma means the rite. From the rite directed to you, that man is born forth on every side with offspring, with sons, grandsons and the rest, that is, he appears excellently. The Vedic text is आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*) (Śata. 14-9-4-26) **GLOSS** **NOTE**. Then, unharmed by others, every person prospers by the giving of oblations to you, increases with wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- O Maruts and the other gods
+- यः (*yaḥ*)—which man
+- वराय (*varāya*)—as one seeking excellent wealth
+- वः (*vaḥ*)—to you
+- दाशति (*dāśati*)—offers oblations
+- सः (*saḥ*)—that man
+- क्षयं (*kṣayaṃ*)—the house
+- प्रतीरते (*pratīrate*)—makes to grow
+- सः (*saḥ*)—he himself
+- महीः (*mahīḥ*)—abundant
+- इषः (*iṣaḥ*)—foods also
+- वि (*vi*) (supply: makes to grow)—increases greatly for himself
+- धर्मणः (*dharmaṇaḥ*)—as the fruit of his rite
+- प्रजाभिः (*prajābhiḥ*)—with sons, grandsons and the rest
+- परि (*pari*)—surrounded
+- प्रजायते (*prajāyate*)—attains prosperity
+- सर्वः (*sarvaḥ*)—all people, your worshippers
+- अरिष्टः (*ariṣṭaḥ*)—without falling to the injury of enemies
+- विधते (*vidhate*)—attain increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts and the other gods, the man who, seeking excellent wealth, offers oblations to you makes his house grow. He makes abundant foods also grow for himself. As the fruit of his sacrificial and other rites he attains prosperity, surrounded by sons, grandsons and the rest.
+
+##### English translation
+He enlarges his dwelling, he has abundant food who offers you
+(oblations) to obtain a blessing : through his pious acts he is born on every
+side in his children ; all prosper (through your favour) unharmed (by
+enemies).
+
+### Printed p. 177
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ते स विं॑दते यु॒धः सु॒गेभि॑र्या॒त्यध्व॑नः ।  
+> अ॒र्य॒मा मि॒त्रो वरु॑णः॒ सरा॑तयो॒ यं त्रायं॑ते  ॒॑
+> सजोषसः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यते । सः । विंदते । युधः । सुगेभिः । याति । अध्वनः ।  
+> अर्यमा । मित्रः । वरुणः । सरातयः । यं । त्रायंते । सजोषसः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽर्यमार्दीनां हविर्दाता मनुष्यो युधः ॥ युध संप्रहारे ।
+> भावे क्विप् ॥ युद्धादृते विनापि विंदते । धनानि लभते । किंच सुगेभिः शोभनगमनैः
+> सुष्टु गंतृभिर्वाश्वैः सहाध्वनो मार्गान् । गंतव्यान्देशानित्यर्थः । तान् याति ।
+> गच्छति । यं जनमर्यमा सततं गच्छन् मित्रः स्तोत्कृणां यष्टृणां च धनप्रदानेन मित्रभूतो वरुणो निवारयिता शत्रूणां यद्वा वरणीयः संभजनीय
+> एतन्नामकाः सरातयः समानदानास्त्रयो देवाः सजोषसः परस्परं संगताः संतो
+> यं हव्यप्रदाशारं त्रायंते स्वरक्षणैः पालयंति स धनादीनि विंदतीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+That man, the giver of oblations to Aryaman and the others, obtains wealth even without battle (yudh, from the root yudh in the sense of combat; the form is kvip in the sense of the action), that is, apart from war. Further, with horses of good going, that is, which travel well, he travels along the roads, that is, the lands to be travelled. The man whom Aryaman, who goes constantly, Mitra, who is a friend by the giving of wealth to praisers and sacrificers, and Varuṇa, the restrainer of enemies (or the one to be chosen and resorted to), the three gods of those names, sarātayaḥ, that is, of equal gifts, and sajoṣasaḥ, that is, united with one another, protect, guard with their protections, that giver of oblations obtains wealth and the rest: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—whom, the man
+- अर्यमा (*aryamā*)—Aryaman
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- सराशयः (*sarāśayaḥ*)—as givers of constant gifts
+- सजोषसः (*sajoṣasaḥ*)—as united together
+- त्रायंते (*trāyaṃte*)—protect
+- सः (*saḥ*)—that man
+- युधः ऋते (*yudhaḥ ṛte*)—without war
+- विंदते (*viṃdate*)—obtains wealth and the rest
+- सुगेभिः (*sugebhiḥ*)—with horses that run well
+- अध्वनः (*adhvanaḥ*)—the roads
+- याति (*yāti*)—travels
+
+##### भावार्थ (Bhāvārtha)
+
+The man whom Aryaman, Mitra and Varuṇa, as givers of constant gifts and as united together, protect, that man obtains wealth and the rest without war. He travels along the roads with horses that run well.
+
+### Printed p. 178
+
+##### English translation
+He gains (wealth) without war, he travels along the roads with quick
+(horses), whom Aryaman, Mitra and Varuna, alike munificent, and acting
+in concert, protect.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अज्रे॑ चिदस्मै कृणुथा॒ न्यंच॑नं दु॒र्गे चि॒दा सु॑सर॒णं ।  
+> ए॒षा चि॑दस्माद॒शनिः॑ प॒रोनु सास्रे॑धंती॒ वि न॑श्यतु ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अज्रे । चित् । अस्मै । कृणुथ ! निअंचनं । दुर्गे । चित् । आ । सुसरणं ।  
+> एषा । चित् । आस्मात् । अशनिः । परः । नु । सा । अस्रेधंती । वि । नश्यतु ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः अज्रे चित् ॥ ज्रि अभिभवे ॥ परैरनभिभवनीयेऽपि परपुरे न्यंचनं
+> नितरां गमनमस्मै मनवे कृणुथ । यूयं कुरुत । यद्वा । अज्र ऋजुगमने
+> प्रस्थे गमनं कुरुत । तथा दुर्गे चिदगंतव्येऽपि स्थले सुसरणं ॥ सृ गतौ ॥ शोभनगमनमा समंतात्कुरुत । एवं सति सैषाशनिः शत्रूणां तदेतदायुधमस्मात्सर्वतो
+> गंतुर्मनोर्नु क्षिप्रं परः परस्ताद्भवेत् । पश्चात्साशनिरस्रेधंती कांश्चिदप्यहिंसती
+> वि नश्यतु । विनष्टा भवेत् ॥
+
+##### Gist of the bhāṣya
+
+O gods, even in an ajra (from the root jri in the sense of overpowering), that is, an enemy's city that cannot be overpowered by others, you make for this Manu a nyañcana, a going down thoroughly. Or else, ajra from the sense of straight going: make for him going on a straight road. So also even in a durga, a place that cannot be traversed, make good going, susaraṇa (the root sṛ in the sense of going), on every side. This being so, may this weapon, the aśani of the enemies, be quickly far beyond Manu as he goes on every side. Afterwards, injuring none (asredhantī), may that weapon perish, that is, be destroyed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- O gods
+- अस्मै (*asmai*)—to this Manu
+- अज्रे चित् (*ajre cit*)—even on a straight road
+- न्यंचनं (*nyaṃcanaṃ*)—so that there is good travelling
+- कृणुथ (*kṛṇutha*)—you help
+- दुर्गॆ चित् (*durgè cit*)—even on a hard road
+- सुसरणं (*susaraṇaṃ*)—so that there is easy travelling
+- आ (*ā*) (supply: make)—you make
+- एषा अशनिः (*eṣā aśaniḥ*)—this weapon discharged by the enemy
+- नु (*nu*)—quickly
+- अस्मत् (*asmat*)—than this Manu
+- परः (*paraḥ*)—may it pass far away
+- सा (*sā*)—that same weapon
+- अस्रेधंती (*asredhaṃtī*)—without injuring in the least
+- वि नश्यतु (*vi naśyatu*)—may it be utterly destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, you help this Manu so that there is good travelling even on a straight road. You make easy travelling for him even on a hard road.
+
+### Printed p. 179
+
+May this weapon discharged by the enemy pass fiercely far away from this man. May that same weapon, without injuring even one who kills, be utterly destroyed.
+
+##### English translation
+You enable him (Manu) to proceed by an unobstructed road ; you grant him easy access to difficult passes : may the weapon (of the foe) be far from him, and inflicting no injury, perish.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य सूर्य॑ उद्य॒ति प्रिय॑क्षत्रा ऋ॒तं द॒ध ।  
+> यन्नि॒म्रुचि॑ प्र॒बुधि॑ विश्ववेदसो॒ यद्वा॑ म॒ध्यंदि॑ने दि॒वः ॥१९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । सूर्ये । उत्यति । प्रियक्षत्राः । ऋतं । दध ।  
+> यत् । निम्रुचि । प्रबुधि । विश्ववेदसः । यत् । वा । मध्यंदिने । दिवः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रियक्षत्राः प्रीणयितृबला देवाः सूर्ये सर्वस्य स्वस्वकर्मणि प्रेरके
+> सवितर्युद्यत्युद्धच्छति सत्यद्यास्मिन्निने यद्यदा ऋतं कल्याणभूतं गृहं दध
+> धारयत ॥ दधातेर्लिट मध्यमबहुवचने रूपं ॥ यद्यदा हे विश्ववेदसः सर्वधना देवाः निम्मुचि । म्रुचिर्गत्यर्थः । सूर्यस्य निम्मोचने नितरां गमने ।
+> सायमित्यर्थः । तस्मिन् धारयथ । यद्वा प्रबुधि तस्य प्रबोधने प्रातःकाले ।
+> यद्वा दिवः सूर्यतेजसा दीप्यमानस्याहो मध्यंदिने मध्यॆ धनं मनवे
+> धत्तेत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O gods of pleasing power (priyakṣatra, whose strength gratifies), when today the sun, the impeller of everyone to his own work, is rising, when you hold the ṛta, the auspicious house (dadha is the perfect, second person plural, of the root dhā); when, O gods of all wealth, at nimruc (mruc has the sense of going) that is, at the sun's setting, his going down thoroughly, in the evening, you hold it; or else at prabudh, at his awakening, in the morning; or else at the midday, the middle, of the day (diva) shining with the sun's light, then give wealth to Manu: this is the connection with what follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसः (*viśvavedasaḥ*)—possessed of all wealth
+- प्रियक्षत्राः (*priyakṣatrāḥ*)—possessed of a power agreeable to the world, O gods
+- सूर्ये (*sūrye*)—when the sun
+- उद्यति (*udyati*)—is rising
+- अद्य (*adya*)—at this time
+- यत् (*yat*)—when
+- ऋतं (*ṛtaṃ*)—the auspicious sacrificial house
+- दध (*dadha*)—you hold
+- यत् (*yat*)—when
+- निम्रुचि (*nimruci*)—at the time of sunset also (or)
+
+### Printed p. 180
+
+- प्रबुधि (*prabudhi*)—in the morning also
+- यद्वा (*yadvā*)—or
+- दिवः (*divaḥ*)—of the shining day
+- मध्यंदिने (*madhyaṃdine*)—at midday also
+
+When you hold this sacrificial house, then you give wealth to Manu.
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, possessed of all wealth and of a power agreeable to the world, whether at this time when the sun rises, or at the time of sunset, or in the morning, or in the middle of the shining day, whenever you hold this sacrificial house, then you give wealth to Manu.
+
+##### English translation
+Divinities of benevolent vigour, since you preside over the rite to-day, at the rising of the sun. since, possessors of all wealth, (you are present) at his setting, or at his waking, or at the meridian of the day ;
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॑भिपि॒त्वे अ॑सुरा ऋ॒तं य॒ते छ॒र्दिर्ये॒म वि दा॒शुषे॑ ।  
+> व॒यं तद्यो॑ वसवो विश्ववेदस॒ उप॑ स्थेयाम॒ मध्य॒ आ ॥२०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । अभिपित्वे । असुराः । ऋतं । यते । छर्दिः । येम । वि । दाशुषे ।  
+> वयं । तत् । वः । वसवः । विश्ववेदसः । उप । स्थेयाम । मध्ये । आ ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुराः प्राज्ञाः संग्राम आप्तानां क्षेप्तारो वा देवाः यद्वाभिपित्वेऽस्मद्यज्ञं प्रति युष्माकमभिप्राप्तावृतं सत्यभूतं यज्ञं यते ॥ इणः शतरि
+> रूपं ॥ गच्छते दाशुषे हवींषि दत्तवते यजमानाय छर्दिः ॥ छर्दिर्दिप्ति देवनयोः ॥ दीप्यतेऽनेनेति छर्दिस्तेजः । यद्वा । छर्दंति दीव्यंतेऽत्रेति छर्दिर्गृहं ।
+> तद्गृहं तेजो वा वि येम प्रयच्छथ । यद्येवं यूयं कुरुथ तर्हि वयं
+> हे वसवः स्तोतृणां धनादिभिराच्छादयितारः यद्वा शत्रूणां विवासयितारो
+> विश्ववेदसः सर्वधनाः सर्वज्ञाना वा हे देवाः वो युष्मत्संबंधि तत्कल्याणं गृहं।
+
+##### Gist of the bhāṣya
+
+O asuras, that is, wise gods, or throwers of those reached in battle: or else, at your approach, abhipitva, toward our sacrifice, the true sacrifice (ṛta) going (yate, the form of the root i with the affix śatṛ), to the sacrificer who has given oblations, the house (chardis; the root chard has the senses of shining and playing; that by which it shines is chardis, a lustre; or else, in which they shine, a house), that house or lustre you give (vi yema). If you do so, then we, O vasus (who cover the praisers with wealth and the like, or who drive away enemies), O gods of all wealth or of all knowledge, your auspicious house (the accusative is in the sense of the genitive)
+
+### Printed p. 181
+
+> षष्ठर्थे द्वितीया । भुद्धिः प्रत्यस्य गृहस्य मध्य उपस्थेयाम । उपतिष्ठेम ।
+> युष्मान्वविर्भिः पूजयेम ॥ तिष्यतेराशीर्लिज् लिङ्माशिष्यज्जत्यज्‌प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+in the middle of this house may we stand near, may we approach; may we worship you with oblations. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुराः (*asurāḥ*)—O wise gods
+- यद्वा (*yadvā*)—or
+- अभिपित्वे (*abhipitve*)—at the time when you come to the sacrificial house
+- यते (*yate*)—who goes there
+- दाशुषे (*dāśuṣe*)—to the sacrificer
+- छर्दिः (*chardiḥ*)—the house
+- वि येम (*vi yema*)—whenever you give, then
+- वसवः (*vasavaḥ*)—who reveal enemies **NOTE**
+- विश्ववेदसः (*viśvavedasaḥ*)—possessed of all wealth, O gods
+- वयं (*vayaṃ*)—we also
+- वः (*vaḥ*)—belonging to you
+- तत् (*tat*)—that same auspicious house
+- मध्यॆ (*madhyè*)—in the middle
+- उपस्थेयाम (*upastheyāma*)—we shall come and gather for your worship
+
+##### भावार्थ (Bhāvārtha)
+
+O wise gods, when you give the house to the sacrificer who goes there for worship at the time when you come to the sacrificial house, then, O gods, possessed of all wealth and subduers of enemies, we shall come and gather for your worship in the middle of that same auspicious house that belongs to you.
+
+##### English translation
+Or since all-wise deities, you accept the sacrifice, bestowing on the
+zealous donor (of the oblation) a dwelling (such as we may worship in),
+then, possessors of all wealth, distributors of riches, may we worship you
+in the midst (of that dwelling).
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य सूर॒ उदि॑ते॒ यन्म॒ध्यंदि॑न आ॒तुचि॑ ।  
+> वा॒मं ध॒त्थ मन॑वे विश्ववेदसो॒ जुह्वा॑नाय॒ प्रचे॑तसे ॥२१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । सूरे । उत् इते । यत् । मध्यंदिने । आतुचि ।  
+> वामं । धत्थ । मनवे । विश्ववेदसः । जुह्वानाय । प्रचेतसे ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्ववेदसः सर्वतो व्याप्तधना हे देवाः यद्यदाद्येदानीं । यद्वा
+> सूर्य उदिते सति । यद्यदा मध्यंदिने दिवसस्य मध्यॆ । यद्वातुचि । आतुचिर्गम-
+
+##### Gist of the bhāṣya
+
+O gods, possessed of all wealth, that is, pervaded on all sides with wealth: when today, now; or else when the sun has risen; when at midday, in the middle of the day; or else at ātuc, ātuc being.
+
 ---
 
-**Progress note:** Done through printed p. 172. Mandala 8 Sukta 27 Rks 8-13 (13 in part)
+**Progress note:** Done through printed p. 181. Mandala 8 Sukta 27 Rks 13 (end)-21 (in part)
