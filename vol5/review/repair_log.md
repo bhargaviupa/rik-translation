@@ -247,3 +247,16 @@
 - p. 347 (English line 6482) [R1]: `to destroy Vṛtra, who in the form of water lay in the atmosphere, Indra went to the atmosphere.` → `to destroy the Asura Vṛtra, Indra went to the atmosphere and destroyed Vṛtra, who was in the form of water.` — Kannada: ವೃತ್ರಾಸುರನನ್ನು ಧ್ವಂಸಮಾಡಲು ಇಂದ್ರನು ಅಂತರಿಕ್ಷಗತನಾಗಿ ಜಲರೂಪದಿಂದಿದ್ದ ವೃತ್ರನನ್ನು ಧ್ವಂಸಮಾಡಿದನು (second pass S3, findings.tsv)
 - p. 348 (English line 6497) [R6]: `Uṇādi *īmasin*; *guṇa*; *sit*:` → `Uṇādi *īmanin*; *guṇa*; *nit*:` — Kannada: ಉಣಾದಿಸಿದ್ಧವಾದ ಈಮನಿನ್ ಪ್ರತ್ಯಯ … ನಿತ್ತಾದುದರಿಂದ ಇತ್ಯಾದಿರ್ನಿತ್ಯಂ (second pass S3, findings.tsv)
 - p. 348 (English line 6500) [R1]: `*panaṃ panaḥ icchati*` → `*pananaṃ panaḥ, tad icchati*` — Kannada: ಪನನಂ ಪನಃ ತತ್ ಇಚ್ಛತಿ (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 363 (English line 6720) [R1]: `(Pā. Sū. 6-1-200)` → `(Pā. Sū. 6-1-208)` — Kannada p.363 prints ಅಂತಶ್ಚ ತನೈಯುಗಪತ್ (ಪಾ. ಸೂ. ೬-೧-೨೦೮); the English has 6-1-200 (the number of the bhāṣya on p.361, not of this passage) (second pass S3, findings.tsv)
+- p. 363 (English line 6719) [R1]: `the *kṛdanta*-final accent is set aside` → `the final-acute of the last member is set aside` — ಉತ್ತರಪದಾಂತೋದಾತ್ತವು ಬಾಧಿತವಾಗಿ ಉತ್ತರಪದ ಆದ್ಯುದಾತ್ತಸ್ವರ ಬರುತ್ತದೆ (final-acute of the latter member set aside; the Kannada does not say kṛdanta) (second pass S3, findings.tsv)
+- p. 365 (English line 6756) [R3]: `bhītās trasnavaḥ śatravas` → `bhītās tīkṣṇāḥ śatravas` — Kannada p.365 (end of p.364 bhāṣya): ಭೀತಾಸ್ತೀಕ್ಷ್ಣಾಃ ಶತ್ರವಸ್ತ್ವಾ ತ್ವಾಂ ನಾ ದಭ್ನುವಂತಿ (second pass S3, findings.tsv)
+- p. 365 (English line 6756) [R1]: `or: the frightened, fearful enemies` → `or: the frightened, fierce enemies` — ಭೀತಾಸ್ತೀಕ್ಷ್ಣಾಃ (tīkṣṇāḥ = sharp, fierce); bhāvārtha has ಕ್ರೂರಿಗಳು (second pass S3, findings.tsv)
+- p. 365 (English line 6756) [R1]: `or the frightened, fearful enemies —` → `or the frightened, fierce enemies —` — ಭೀತಾಸ್ತೀಕ್ಷ್ಣಾಃ ಶತ್ರವಃ (second pass S3, findings.tsv)
+- p. 365 (English line 6762) [R1]: `the cruel ones who rely on your strength` → `the cruel ones who know your strength` — ನಿನ್ನ ಶಕ್ತಿಯನ್ನು ಅರಿತವರೂ ಕ್ರೂರಿಗಳೂ ಆದ ನಿನ್ನ ಶತ್ರುಗಳು (ಅರಿತವರು = those who know) (second pass S3, findings.tsv)
+- p. 367 (English line 6776) [R1]: `*tuk*; vocative.` → `*tuk*; vocative; *āmantritasya ca*: *nighāta*.` — ಆಮಂತ್ರಿತಸ್ಯಚ ಎಂಬುದರಿಂದ ನಿಘಾತಸ್ವರ ಬರುತ್ತದೆ (second pass S3, findings.tsv)
+- p. 367 (English line 6779) [R1]: `Pā. Sū. 6-4-87` → `Pā. Sū. 6-4-82` — ಹುಶ್ನುವೋಃ ಸಾರ್ವಧಾತುಕೇ (ಪಾ. ಸೂ. ೬-೪-೮೨) (second pass S3, findings.tsv)
+- p. 367 (English line 6780) [R1]: `4-492 [?], third digit doubtful` → `4-492` — ಫೃಣಪೃಶ್ನಿಪಾರ್ಷ್ಟಿ—(ಪಾ. ಸೂ. ೪-೪೯೨) printed in full (second pass S3, findings.tsv)
+- p. 367 (English line 6780) [R1]: `*kṛtyalyuṭo bahulam*: *kranin*` → `*kṛtyalyuṭo bahulam*: *ktin*` — ಬಹುಲಗ್ರಹಣವಿರುವುದರಿಂದ ಕರ್ತರಿಯಲ್ಲಿ ಕ್ತಿನ್ ಪ್ರತ್ಯಯ (second pass S3, findings.tsv)
+- p. 367 (English line 6780) [R1]: `krin niṣṭhāvad bhavati` → `ktin niṣṭhāvad bhavati` — ಋಕಾರಲ್ವಾದಿಭ್ಯಃ ಕ್ತಿನ್ನಿಷ್ಠಾವದ್ಭವತಿ (second pass S3, findings.tsv)

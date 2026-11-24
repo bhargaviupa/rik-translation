@@ -6716,8 +6716,8 @@
 - **vṛdhānaḥ**: *vṛdhu vṛddhau*; *tācchīlyavayoḥ…cānaś*; *śap* → *luk* (*bahulaṃ chandasi*); *cānaś* being *jit*… no *laghūpadha guṇa*; *citaḥ*: end-acute.
 - **avṛkāṇi**: *vṛñ varaṇe*; *sṛvṛbhūśuṣimuṣibhyaḥ kak* (U. Sū. 3-321, as printed): *kak*, *kit*, no *guṇa*; *na vidyante vṛkāṇi yeṣām*: *nañsubhyām*: end-acute.
 - **yajyave**: *yaja devapūjāsaṅgatikaraṇadāneṣu*; *yajimaniśundhidasijanibhyo yuḥ* (U. Sū. 2-300, as printed): *yu*; dative singular; *vṛṣādi* (*ākṛtigaṇa*; *vṛṣādīnāṃ ca*, Pā. Sū. 6-1-203): initial-acute.
-- **sukratuḥ**: bahuvrīhi; *kratvādayaś ca* (Pā. Sū. 6-2-118): the *kṛdanta*-final accent is set aside; initial-acute of the last member.
-- **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ…* (Pā. Sū. 3-4-14): *tavai*; *guṇa* by *ārdhadhātuka*; *antaś ca tavai yugapat* (Pā. Sū. 6-1-200): initial and final both acute at once.
+- **sukratuḥ**: bahuvrīhi; *kratvādayaś ca* (Pā. Sū. 6-2-118): the final-acute of the last member is set aside; initial-acute of the last member.
+- **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ…* (Pā. Sū. 3-4-14): *tavai*; *guṇa* by *ārdhadhātuka*; *antaś ca tavai yugapat* (Pā. Sū. 6-1-208): initial and final both acute at once.
 - **apaḥ**: accusative plural of *ap*; *ūḍidam…* (Pā. Sū. 6-1-171): *śas* acute.
 - **sṛjat**: *sṛja visarge*, *tudādi*; *laṅ* third singular; *itaś ca*: *i* dropped; *tudādibhyaḥ śaḥ*; *śa* is *pit*, so *anudātta*; no *laghūpadha guṇa* (*sārvadhātukam apit*); no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); no *nighāta* in this position. **|| 6 ||**
 
@@ -6753,13 +6753,13 @@
 
 **Rik 55.7, continued** *(pp. 365–367, PDF 381–383)*
 
-**Sāyaṇa-bhāṣya, end of the main sense** *(p. 365)* — "… *bhītās trasnavaḥ śatravas tvā tvāṃ nā dabhnuvanti | na hiṃsanti ||*" — "or: the frightened, fearful enemies *do not harm* you (*dabhnuvanti*)." *(The first sentence of the bhāṣya on p. 364 is thus: "O Indra, drinker of soma, may your mind be for giving what we desire; hearer of praises, make your two horses turn towards our sacrifice; your own charioteers are most skilled controllers of the horses; therefore your *ketāḥ*, adversaries who know hostility, *bhūrṇayaḥ*, bearers of their own weapons — or the frightened, fearful enemies — do not harm you.")*
+**Sāyaṇa-bhāṣya, end of the main sense** *(p. 365)* — "… *bhītās tīkṣṇāḥ śatravas tvā tvāṃ nā dabhnuvanti | na hiṃsanti ||*" — "or: the frightened, fierce enemies *do not harm* you (*dabhnuvanti*)." *(The first sentence of the bhāṣya on p. 364 is thus: "O Indra, drinker of soma, may your mind be for giving what we desire; hearer of praises, make your two horses turn towards our sacrifice; your own charioteers are most skilled controllers of the horses; therefore your *ketāḥ*, adversaries who know hostility, *bhūrṇayaḥ*, bearers of their own weapons — or the frightened, fierce enemies — do not harm you.")*
 
 *(The grammatical tail, p. 365, is characterized: on* somapāvan *(*pā pāne*, *vanip*; the lengthening in the vocative is prevented, since the vocative of such words is read as* asambuddhau*),* arvāñcā *(*añc* with the dual *au* → *ā*),* vandanaśrut *(*vadi abhivādanastutyoḥ*, *num*, *lyuṭ*; *śru*, *kvip*, *tuk*),* yamiṣṭhāsaḥ *(*yam uparame*, *tṛc*; *tuś chandasi*: *iṣṭhan*; *turiṣṭhemeyaḥsu*: loss of *tṛ*),* ketāḥ *(*kita jñāne*; *ac*, *guṇa*; initial-acute by *vṛṣādi*),* dabhnuvanti *(*dabhu dambhe*, *svādi*, *śnu*; *uvaṅ*),* bhūrṇayaḥ *(*bhṛñ bharaṇe*, *ṇi*: *dhṛṇiḥ pṛśniḥ pārṣṇiḥ*, an irregular formation with *u* and lengthening; or *bhī bhaye*) — compare the Kannada notes.)*
 
 **Pratipadārtha** *(p. 365)* — "**somapāvan** — O Indra, who drink the soma juice; **te** — your; **manaḥ** — mind; **dānāya** — to give (our desires); **astu** — be; **vandanaśrut** — O hearer of our hymns; **harī** — your horses; **arvāñcā** — facing our sacrifice; **ā kṛdhi** — make come; **indra** — O Indra; **te** — your; **ye sārathayaḥ** — whichever charioteers; **yamiṣṭhāsaḥ** — those who are able to run the horses under control; **ketāḥ** — the adversaries or deceivers who understand (your strength); **bhūrṇayaḥ** — the cruel ones bearing weapons, or the ones frightened of your strength, being enemies; **tvā** — you; **na ā dabhnuvanti** — cannot harm (cannot conquer)."
 
-**Bhāvārtha** *(p. 365)* — "O Indra, drinker of the soma, may your mind be inclined to favour us with our desires. O hearer of our hymns, make your horses come facing our sacrifice. Your charioteers are skilled in controlling the horses. Your enemies, the cruel ones who rely on your strength [sic], cannot conquer you."
+**Bhāvārtha** *(p. 365)* — "O Indra, drinker of the soma, may your mind be inclined to favour us with our desires. O hearer of our hymns, make your horses come facing our sacrifice. Your charioteers are skilled in controlling the horses. Your enemies, the cruel ones who know your strength [sic], cannot conquer you."
 
 **English Translation (the source's own, p. 366)** — "Drinker of the soma-juice, may your mind be disposed to grant our desires; hearer of praises, let your horses be present (at our sacrifice); your charioteers are experts in restraining your horses; therefore, (your enemies) cherishing malevolent feelings against you and carrying arms cannot injure you."
 
@@ -6773,11 +6773,11 @@
 **Vyākaraṇa-prakriyā** *(pp. 366–367 — grammar pages, noted briefly)*
 - **somapāvan**: *pā pāne*; *ātomanin kvanipvanipaś ca* (Pā. Sū. 3-2-74): *vanip*; the vocative: *sarvanāmasthāne cāsambuddhau* does not lengthen, because *asambuddhau* is stated; *halṅyābbhyo…* drops *su*; *nalopaḥ*: no loss since *na ṅisambuddhyoḥ*; *āmantritasya ca*: *nighāta*.
 - **arvāñcā**: *arvāñc + au*: *supāṃ suluk…*: *ā* for the ending.
-- **vandanaśrut**: *vadi abhivādanastutyoḥ*; *idito num dhātoḥ*; *lyuṭ* in the action sense, *yuvor anākau*: *ana*; *śru śravaṇe*, *kvip ca*; *hrasvasya piti kṛti tuk*: *tuk*; vocative.
+- **vandanaśrut**: *vadi abhivādanastutyoḥ*; *idito num dhātoḥ*; *lyuṭ* in the action sense, *yuvor anākau*: *ana*; *śru śravaṇe*, *kvip ca*; *hrasvasya piti kṛti tuk*: *tuk*; vocative; *āmantritasya ca*: *nighāta*.
 - **yamiṣṭhāsaḥ**: *yam uparame*; *tṛc* in the agent sense: *yantṛ*; *tuś chandasi* (Pā. Sū. 5-3-59): *iṣṭhan*; *turiṣṭhemeyaḥsu* (Pā. Sū. 5-3-59 [as printed; for 6-4-154]): *tṛ* lost; *yamiṣṭha*; *nit*: initial-acute; *ājjaser asuk* (Pā. Sū. 7-1-50): *asuk* for *jas*: *yamiṣṭhāsaḥ*.
 - **ketāḥ**: *kita jñāne*; *nandigrahipacādibhyaḥ* (*ac*); *pugantalaghūpadhasya ca*: *guṇa*; *citaḥ* would give end-acute, but since *vṛṣādi* is an *ākṛtigaṇa* the initial-acute holds; or *ghañ* in the passive: *ñnityādir nityam*.
-- **dabhnuvanti**: *dabhu dambhe*, *svādi*; *laṭ* third plural, *jhoʼntaḥ*: *ant*; *svādibhyaḥ śnuḥ*; *śnu* is *ṅit*-like (*sārvadhātukam apit*), so *anidatāṃ halaḥ…*: loss of *n* of the root; no *yaṇ* since *śnu* follows a conjunct (*huśnuvoḥ sārvadhātuke*, Pā. Sū. 6-4-87); *āciśnudhātubhruvāṃ…*: *uvaṅ*; *nighāta*.
-- **bhūrṇayaḥ**: *bhṛñ bharaṇe*; *dhṛṣṇipṛśniparṣṇi…* (labelled "Pā. sū." in the print: 4-492 [?], third digit doubtful): *ni* with *u* and lengthening by the *nipāta*; or from *bhī bhaye*; *kṛtyalyuṭo bahulam*: *kranin*; *udoṣṭhyapūrvasya* (Pā. Sū. 7-1-102): *u*; *halica*: lengthening; *ṛkārālādibhyaḥ krin niṣṭhāvad bhavati* (a *vārttika*, Pā. Sū. 8-2-44-1): treated as *niṣṭhā*, so *ṇatva*: *bhūrṇi*; initial-acute. **|| 7 ||**
+- **dabhnuvanti**: *dabhu dambhe*, *svādi*; *laṭ* third plural, *jhoʼntaḥ*: *ant*; *svādibhyaḥ śnuḥ*; *śnu* is *ṅit*-like (*sārvadhātukam apit*), so *anidatāṃ halaḥ…*: loss of *n* of the root; no *yaṇ* since *śnu* follows a conjunct (*huśnuvoḥ sārvadhātuke*, Pā. Sū. 6-4-82); *āciśnudhātubhruvāṃ…*: *uvaṅ*; *nighāta*.
+- **bhūrṇayaḥ**: *bhṛñ bharaṇe*; *dhṛṣṇipṛśniparṣṇi…* (labelled "Pā. sū." in the print: 4-492): *ni* with *u* and lengthening by the *nipāta*; or from *bhī bhaye*; *kṛtyalyuṭo bahulam*: *ktin*; *udoṣṭhyapūrvasya* (Pā. Sū. 7-1-102): *u*; *halica*: lengthening; *ṛkārālādibhyaḥ ktin niṣṭhāvad bhavati* (a *vārttika*, Pā. Sū. 8-2-44-1): treated as *niṣṭhā*, so *ṇatva*: *bhūrṇi*; initial-acute. **|| 7 ||**
 
 ---
 
