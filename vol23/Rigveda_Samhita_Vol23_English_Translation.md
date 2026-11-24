@@ -13657,6 +13657,265 @@ On the third day of the Daśarātra, in the Marutvatīya, त्रय इंद
 - सुतासः (*sutāsaḥ*)—pressed
 - संतु (*saṃtu*)—let them be ready
 
+### Printed p. 343
+
+##### भावार्थ (Bhāvārtha)
+
+##### भावार्थ (Bhāvārtha)
+
+Because Indra drinks only the pressed Soma, for the sake of the divine Indra's drinking, may the three kinds of Soma juice, which take different forms at the times of the three pressings, be pressed in his own sacrificial house and be kept ready.
+
+##### English translation
+May the three libations be effused for the divine Indra in his own dwelling, (for he is) the drinker of the effused juice.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the third day of the sacrifice called Daśarātra, when the mantras of the Marutvatīya śastra are recited, the three Ṛks beginning त्रय इंद्रस्य (*traya iṃdrasya*) (Ṛks 7–9) are to be recited as the anucara tṛca. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra तं तमिद्राधसे महे त्रय इंद्रस्य सोमा इति मरुत्वतीयस्य प्रतिपदनुचर् (*taṃ tamidrādhase mahe traya iṃdrasya somā iti marutvatīyasya pratipadanucar*) (Ā. 7-10).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रयः॒ कोशा॑सः श्चोतंति त्रि॒श्रश्च॒म्व१॒ः॑ सुपू॑र्णाः ।  
+> स॒मा॒ने अधि॒ भार्म॑न् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रयः । कोशासः । श्चोतंति । तिस्रः । चम्वः । सुपूर्णाः ।  
+> समाने । अधि । भार्मन् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रयस्त्रिसंख्याकाः कोशासः कोशाः सोमस्याश्रयभूता द्रोणकलशपूतभृदाधवनीयाख्याः श्चोतंति । क्षरंति । इंद्रार्थं सोमं स्रावयंति । तिस्रस्त्रिविधाः
+> सवनत्रये वर्तमानाश्चम्वश्चमसाश्चसुपूर्णा इंद्रयागाय सोमैः सुपूरिता
+> आसन् । एतत्सर्वं कुत्रॆति चेत् उच्यते । समान एकस्मिन्नेव भार्मन् भर्मणि भर
+> ऋत्विग्भिर्भियमाणे यज्ञे । अधि सप्तम्यर्थानुवादी ॥
+
+##### Gist of the bhāṣya
+
+The three Kośas, the vessels that hold the Soma, named Droṇakalaśa, Pūtabhṛt and Ādhavanīya, stream, that is, they let the Soma flow for Indra. The three kinds of ladles (camasas) present at the three pressings are well filled with Soma for the sacrifice to Indra. Where is all this? In one and the same sacrifice, carried on by the officiating priests. अधि (*adhi*) merely restates the sense of the locative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समाने (*samāne*)—in the sacrifice directed to a single deity
+- भार्मन् अधि (*bhārman adhi*)—in the sacrifice
+- त्रयः कोशासः (*trayaḥ kośāsaḥ*)—the three vessels that hold the Soma juice, Droṇakalaśa, Pūtabhṛt and Ādhavanīya
+
+### Printed p. 344
+- श्चोतंति (*ścotaṃti*)—pour out the Soma
+- तिस्रः (*tisraḥ*)—those kept ready at the times of the three pressings
+- चम्वः (*camvaḥ*)—the camasa vessels
+- सुपूर्णाः (*supūrṇāḥ*)—are filled with Soma juice
+
+##### भावार्थ (Bhāvārtha)
+
+In a sacrifice directed to a single deity, the three vessels that hold the Soma juice, Droṇakalaśa, Pūtabhṛt and Adhavanīya, pour out the Soma juice. The camasa vessels, kept ready at the times of the three pressings, are filled with Soma juice.
+
+##### English translation
+Three purifying vessels prop (the Soma), three ladles are well filled (for the libation), the whole is furnished for the common sacrifice.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुचि॑रसि पुरुनि॒ष्ठाः क्षी॒रैर्म॑ध्य॒त आशी॑र्तः ।  
+> द॒ध्ना मंदि॑ष्ठः॒ शूर॑स्य ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुचिः । असि । पुरुनिःस्थाः । क्षीरैः । मध्यतः । आशीर्तः ।  
+> दध्ना । मंदिष्ठः । शूरस्य ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं शुचिरसि । दशापवित्रेण शोधितो भवसि । स त्वं पुरुनिष्ठाः
+> पुरुषु बहुषु पात्रेषु ग्रहचमसादिषु निःशेषेण स्थाता मध्यतो मध्ये मैत्रावरुणग्रहादौ क्षीरैः पयःप्रभृतिभिः श्रयणद्रव्यैराशीर्तो मिश्रणेन संस्कृतः ।
+> तृतीये सवने दध्ना चाशीर्तः । एवंभूतस्त्वं शूरस्य विक्रांतस्येंद्रस्य मंदिष्टो
+> मादयित्कृतमो भव ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are pure, being cleansed by the ten-fold filter. You stand completely in many vessels, the grahas, camasas and the rest. In the middle, in the Maitrāvaruṇa graha and others, you are prepared by being mixed with milk and similar admixture substances; at the third pressing you are mixed also with curds. Being such, be the most exhilarating to Indra the hero, the valiant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचिः असि (*śuciḥ asi*)—(O Soma) you are purified, cleansed by the ten-fold filter
+- पुरुनिष्ठाः (*puruniṣṭhāḥ*)—you are filled into many vessels
+- मध्यतः (*madhyataḥ*)—in the middle ones, the Maitrāvaruṇa graha and the rest
+- क्षीरैः (*kṣīraiḥ*)—with milk and other admixture substances
+- आशीर्तः (*āśīrtaḥ*)—you are mixed and prepared (at the time of the third pressing)
+
+### Printed p. 345
+- धध्ना (*dhadhnā*)—you are mixed with curds (you who have such an attractive form)
+- शूरस्य (*śūrasya*)—to the valiant Indra
+- मंदिष्ठः (*maṃdiṣṭhaḥ*)—become the most gratifying
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you are purified, cleansed by the ten-fold filter. You are filled into many vessels. In the middle ones, the Maitrāvaruṇa graha and the rest, you are mixed with milk and other admixture substances and prepared. At the third pressing you are mixed with curds. You who have such an attractive form, be the most gratifying to the valiant Indra.
+
+##### English translation
+You (Soma) are pure, distributed in many vessels, mixed at the mid-day sacrifice with milk, and (at the third sacrifice) with curds, the most exhilarating (beverage) of the hero (Indra).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे त॑ इंद्र॒ सोमा॑स्ती॒व्रा अ॒स्मे सु॒तासः॑ ।  
+> शु॒क्रा आ॒शिरं॑ याचंते ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । ते । इंद्र । सोमाः । तीव्राः । अस्मे इति । सुतासः ।  
+> शुक्राः । आशिरं । याचंते ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीया इमे सोमास्तीव्रास्तीव्रमदा अस्मै अस्माभिरध्वर्युभिः सुतासोऽभिसुताः शुक्राः शुद्धाः संत आशिरं क्षीरादिकं श्रयणद्रव्यं त्वां
+> याचंते । ताङ्घ्रीणहीत्युत्तरत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, these Soma juices of yours, of sharp intoxicating power, pressed by us the Adhvaryus, and pure, ask you for the admixture substance, milk and the like. The connection is with the next Ṛk, *tāṅghrīṇahi*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—belonging to you
+- इमे सोमाः (*ime somāḥ*)—these Soma juices
+- तीव्रा: (*tīvrā:*)—being sharp intoxicants
+- अस्मे (*asme*)—by our priests and others
+- सुतासः (*sutāsaḥ*)—pressed
+
+### Printed p. 346
+- शुक्राः (*śukrāḥ*)—and pure
+- आशिरं (*āśiraṃ*)—the admixture substance, milk and the like
+- याचंते (*yācaṃte*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these Soma juices of yours, being sharp intoxicants, pressed by our priests and others, and pure, desire from you the admixture substances, milk and the like.
+
+##### English translation
+These sharp and pure Soma libations effused by us for you, solicit you for admixture.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता आ॒शिरं॑ पुरो॒ळाश॒मिंद्रे॒मं सोमं॑ श्रीणीहि ।  
+> रे॒वंतं॒ हि त्वा॑ शृ॒णोमि॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तान् । आशिरं । पुरोळाशं । इंद्र । इमं । सोमं । श्रीणीहि ।  
+> रेवंतं । हि । त्वा । शृणोमि ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तान् पूर्वोक्तान् सोमानाशिरं श्रयणद्रव्यं च क्षीरादिकं
+> श्रीणीहि । मिश्रय यागार्थं । तदनंतरं पुरोळाशं धानाकरंभादिलक्षणं सवनीयपुरोडाशमिममस्मदीयं सोमं च श्रीणीहि । मिश्रय । प्रथमं भक्षितं पुरोळाशं पश्चात्तीतेन सोमेन संयोजयेत्यर्थः । तव प्रार्थने को हेतुरिति चेत् ।
+> हि यस्माद्रेवंतं रयिमंतं ॥ रयेर्मतौ बहुलमिति संप्रसारणं ॥ बहुलधनं
+> त्वां शृणोमि त्वं बहुधन इति सर्वत्र श्रूयते आतः कारणात् त्वामेव प्रार्थयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, mix those Soma juices mentioned before with the admixture substance, milk and the like, for the sacrifice. After that, mix the Savanīya cake (puroḍāśa), consisting of parched grain, karambha and so on, and this Soma of ours. That is, first partake of the cake, and afterwards join it with the pressed Soma. If it is asked what the reason for this prayer is: because we hear everywhere that you are rich (रेवंतं (*revaṃtaṃ*)), possessed of wealth, abundantly wealthy. For that reason we pray to you alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तान् (*tān*)—with the Soma juices described before
+- आशिरं (*āśiraṃ*)—the admixture substances, milk and the like
+- श्रीणीहि (*śrīṇīhi*)—mix
+- पुरोडाशं (*puroḍāśaṃ*)—with the cakes
+- इमं (*imaṃ*)—offered by us
+- सोमं (*somaṃ*)—mix the Soma (drink it and join it with them)
+
+### Printed p. 347
+- हि (*hi*)—because
+- त्वा (*tvā*)—you
+- रेवंतं (*revaṃtaṃ*)—as wealthy
+- शृणोमि (*śṛṇomi*)—I have heard
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, join the admixture substances, milk and the like, with the Soma juices described before. Having partaken of the cakes and other things offered before, drink the Soma offered by us and join it with them. O Indra, I have heard that you alone are possessed of the greatest wealth.
+
+##### English translation
+Mix, Indra, the milk and Soma, (add) the cakes to this libation. I hear that you are possessed of riches.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हृ॒त्सु पी॒तासो॑ युध्यंते दु॒र्मदा॑सो॒ न सुरा॑यां ।  
+> ऊध॒र्न न॒ग्ना ज॑रंते ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हृत्सु । पीतासः । युध्यंते । दुःमदासः । न । सुरायां ।  
+> ऊधः । न । नग्नाः । जरंते ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पीतासस्त्वया पीताः सोमा हृत्सु हृदयेषु त्वदियेषु
+> युध्यंते । परस्परं संप्रहारं कुर्वते । तत्र दृष्टांतः । सुरायां पीतायां
+> जायमाना दुर्मदासो न । दुष्टमदा यथा पातारं मादयंति तद्वत्वां
+> मादयितुं परस्परं युध्यंत इत्यर्थः । अपि च । ग्नाश्चंदांसि । तानि न जहतीति
+> नग्नाः स्तोतारः । ते चोधर्न पयसा पूर्णं गवादेरूध इव सोमपूर्णं
+> त्वां जरंते । स्तुवंति ॥ जरतिः स्तुतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the Soma juices drunk by you contend with one another in your hearts. The illustration: like the evil intoxications that arise when liquor has been drunk, they intoxicate the drinker; likewise, to delight you, they fight one another. Further, ग्नाः (*gnāḥ*) are the metres; those who do not abandon them are नग्नाः (*nagnāḥ*), the praisers. They praise you, filled with Soma, like the udder of a cow and the like, full of milk. जरतिः (*jaratiḥ*) has the sense of praising.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुरायां (*surāyāṃ*)—produced by drinking liquor (O Indra)
+- दुर्मदासो न (*durmadāso na*)—as maddened disorders of mind fight one another
+- पीतासः (*pītāsaḥ*)—these Soma juices drunk by you
+
+### Printed p. 348
+- हृत्सु (*hṛtsu*)—entering your heart
+- युध्यंते (*yudhyaṃte*)—fight one another
+- नग्नाः (*nagnāḥ*)—the praisers
+- ऊधः न (*ūdhaḥ na*)—as one praises the udder of a cow, abundant with milk
+- जरंते (*jaraṃte*)—praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as maddened disorders of mind produced by drinking liquor fight one another, so these Soma juices drunk by you enter your heart and fight one another. As one praises the udder of a cow, abundant with milk, the praisers praise you.
+
+##### English translation
+The potations (of Soma) contend in your interior (for your exhilaration) like the cbriety caused by wine: your worshippers praise you (filled full of Soma) like the udder (of a cow with milk).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रे॒वा इद्रे॒वतः॑ स्तो॒ता स्यात्वाव॑तो म॒घोनः॑ ।  
+> प्रेदु॑ हरिवः श्रु॒तस्य॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रेवान् । इत् । रेवतः । स्तोता । स्यात् । त्वावतः । मघोनः ।  
+> प्र । इत् । ऊं इति । हरिऽवः । श्रुतस्य ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षष्ठेऽहनि यदि रैवतसामसाध्यं पृष्ठस्तोत्रं तदा निष्केवल्ये रेवा इदित्यनुरूपस्तृचः । सूत्र्यते हि । रेवतीर्नः सधमादे रेवा इद्रेवतः स्तोतेति स्तोत्रियानुरूपौ । आ. ८-१ । इति ॥
+> हे हरिवो हरिवन् ॥ मतुवसो रुरिति नकारस्य रुत्वं ॥ हरी अश्वा । तद्वन्निंद्र
+> रेवतो रयिमतो बहुधनोपेतस्य तव स्तोता रेवान् स्यात् । रयिमान्
+> भवेत् । इच्छब्दोऽवधारणे । धनवान् भवेदेव न तु दारिद्रं प्राप्नोति ।
+> उक्तमेवार्थं कैमुतिकन्यायेन दृढयति । त्वावतस्त्वत्सदृशस्य ॥ युष्मदस्मद्भा०
+> छंदसि सादृश्य उपसंख्यानमिति वतुप् ॥ मघोनो मघवतो धनाड्यस्य श्रुतस्य
+
+##### Gist of the bhāṣya
+
+On the sixth day, if the Pṛṣṭha stotra is to be accomplished with the Raivata sāman, then at the Niṣkevalya the anurūpa tṛca is रेवा इद् (*revā id*). It is so laid down in the sūtra: रेवतीर्नः सधमादे रेवा इद्रेवतः स्तोतेति स्तोत्रियानुरूपौ । आ. ८-१ । इति ॥ (*revatīrnaḥ sadhamāde revā idrevataḥ stoteti stotriyānurūpau | ā. 8-1 | iti ‖*) (Ā. 8-1). O हरिवः (*harivaḥ*), lord of bay horses (हरी (*harī*) are the horses): the praiser of you, Indra, who are rich and possessed of abundant wealth, would be wealthy; the word इत् (*it*) is for emphasis: he would be wealthy and never fall into poverty. He confirms the same sense by the kaimutika argument. त्वावतः (*tvāvataḥ*) means one like you; मघोनः (*maghonaḥ*) means the possessor of wealth, the rich; the block breaks off at श्रुतस्य (*śrutasya*).
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
+**Progress note:** Done through printed p. 348. pp. 343-348 (batch API)
