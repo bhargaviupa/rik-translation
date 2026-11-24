@@ -640,3 +640,103 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 118 | `sapta-dvīpa-vaśī-bhūmir` → `sapta-dvīpa-vatī-bhūmir` | SECOND-PASS S7: IAST partner |
 | 118 | `the earth in one's power, with its seven dvīpas` → `the earth with its seven dvīpas` | SECOND-PASS S14: Kannada ಸಪ್ತದ್ವೀಪವತೀಭೂಮಿ |
 | 119 | `3?th khaṇḍa` → `23rd khaṇḍa` | SECOND-PASS S3: Kannada p.119 ೨೩ನೆಯ ಖಂಡ |
+
+### 2026-11-24 second pass, batch e121-150.tsv
+| page | old → new | why |
+|---|---|---|
+| 121 | `6900 − 2823` → `6900 − 2523` | SECOND-PASS S1: Kannada p.121 prints ೬೯೦೦—೨೫೨೩ (2523) |
+| 121 | `marker in the print: [15]` → `marker in the print: [05]` | SECOND-PASS S1: Kannada p.121 stray line prints [ ೦೫ ] |
+| 122 | `According to the 15th khaṇḍa` → `According to the 11th khaṇḍa` | SECOND-PASS S1: Kannada p.122 ಪ್ರತಿಜ್ಞಾಪರಿಶಿಷ್ಟದ ೧೧ನೆಯ ಖಂಡದ |
+| 122 | `was a younger brother of Vaiśampāyana` → `was an elder brother of Vaiśampāyana` | SECOND-PASS S14: Kannada p.122 ವೈಶಂಪಾಯನರ ಅಣ್ಣಂದಿರಾಗಿದ್ದರು (elder brother) |
+| 123 | `षडशीतिस्तु योनोक्ताः` → `षडशीतिस्तु येनोक्ताः` | SECOND-PASS S7: Kannada p.123 ಯೇನೋಕ್ತಾಃ (yonoktāḥ -> yenoktāḥ) (Devanagari) |
+| 123 | `ṣaḍaśītistu yonoktāḥ` → `ṣaḍaśītistu yenoktāḥ` | SECOND-PASS S7: Kannada p.123 ಯೇನೋಕ್ತಾಃ (yonoktāḥ -> yenoktāḥ) (IAST partner) |
+| 124 | `कठकलापिनौ` → `कठकलापिनोः` | SECOND-PASS S7: Kannada p.124 ಕಠಕಲಾಪಿನೋಃ (Devanagari) |
+| 124 | `udīcyeṣu uktaḥ kaṭhakalāpinau` → `udīcyeṣu uktaḥ kaṭhakalāpinoḥ` | SECOND-PASS S7: Kannada p.124 ಕಠಕಲಾಪಿನೋಃ (IAST partner) |
+| 124 | `आलंबिश्च रकः` → `आलंबिश्चरकः` | SECOND-PASS S7: Kannada p.124 ಆಲಂಬಿಶ್ಚರಕಃ (Devanagari) |
+| 124 | `āliṃbiś ca rakaḥ` → `ālaṃbiścarakaḥ` | SECOND-PASS S7: Kannada p.124 ಆಲಂಬಿಶ್ಚರಕಃ (IAST partner) |
+| 124 | `Laukhikya [as printed in the Kannada prose: Lauhikya]` → `Lauhikya` | SECOND-PASS S13: Kannada p.124 prose ಲೌಹಿಕ್ಯ ... (as printed) |
+| 125 | `quotes in great number the Carakādhvaryus' (Caraka Adhvaryu priests') sections` → `contains in great number refutations of the Carakādhvaryus (Caraka Adhvaryu priests)` | SECOND-PASS S14: Kannada p.125 ಚರಕಾಧ್ವರ್ಯುಗಳ ಖಂಡನೆಯು ... ದೊರೆಯುವುದು (refutation) |
+| 125 | `Kāmulāyanaḥ` → `Kāmalāyanaḥ` | SECOND-PASS S7: Kannada p.125 prints ಕಾಮಲಾಯನಃ twice; no Kāmulāyana in the Kannada |
+| 126 | `सत्यकामो जाबाले` → `सत्यकामे जाबाले` | SECOND-PASS S7: Kannada p.126 ಸತ್ಯಕಾಮೇ ಜಾಬಾಲೇ (Devanagari) |
+| 126 | `satyakāmo jābāle` → `satyakāme jābāle` | SECOND-PASS S7: Kannada p.126 ಸತ್ಯಕಾಮೇ ಜಾಬಾಲೇ (IAST partner) |
+| 126 | `आलंबिश्च रकः` → `आलंबिश्चरकः` | SECOND-PASS S7: Kannada p.126 ಆಲಂಬಿಶ್ಚರಕಃ (Devanagari) |
+| 126 | `āliṃbiś ca rakaḥ` → `ālaṃbiścarakaḥ` | SECOND-PASS S7: Kannada p.126 ಆಲಂಬಿಶ್ಚರಕಃ (IAST partner) |
+| 127 | `In verse 59 [?] of a chapter of the first (Ādi-)parvan of the Mahābhārata (the chapter num` → `In verse 229 of the 8th chapter of the first (Ādi-)parvan of the Mahābhārata` | SECOND-PASS S3: Kannada p.127 ಆದಿಪರ್ವದ ೮ನೆಯ ಅಧ್ಯಾಯದ ೨೨೯ನೆಯ ಶ್ಲೋಕದಲ್ಲಿ |
+| 128 | `To the north-east of the Kumaon region` → `To the north of the Kumaon region` | SECOND-PASS S14: Kannada p.128 ಕುಮಾಲೂನ್ ಪ್ರದೇಶಕ್ಕೆ ಉತ್ತರದಿಕ್ಕಿನಲ್ಲಿ |
+| 129 | `read as "[97?]"` → `read as "[82]"` | SECOND-PASS S1: Kannada p.129 stray line prints [ ೮೨ ] |
+| 129 | `Śrauta scholars have printed` → `Śraudara had printed` | SECOND-PASS S13: Kannada p.129 ಶೌಡರರು ಮುದ್ರಿಸಿದ್ದರು (the editor named on p.128) |
+| 130 | `स्ततश्छगलितुंबुरू` → `स्ततश्चगलितुंबुरू` | SECOND-PASS S7: Kannada p.130 ಸ್ತತಶ್ಚಗಲಿತುಂಬುರೂ (ಚ not ಛ) (Devanagari) |
+| 130 | `tataś chagalituṃburū` → `tataś cagalituṃburū` | SECOND-PASS S7: Kannada p.130 ಸ್ತತಶ್ಚಗಲಿತುಂಬುರೂ (ಚ not ಛ) (IAST partner) |
+| 130 | `Aikheya` → `Aikeya` | SECOND-PASS S13: Kannada p.130 ಐಕೇಯ (also p.135 Aikeya) |
+| 130 | `Bhagali [as printed; i.e., Chagali?] occurs. These Haridru and Bhagali` → `Chagali occurs. These Haridru and Chagali` | SECOND-PASS S13: Kannada p.130 ಛಗಲಿ twice (not Bhagali) |
+| 130 | `but there are differences of reading` → `without differences of reading` | SECOND-PASS S14: Kannada p.130 ಪರಸ್ಪರ ಹೊಂದಿಕೊಂಡು ಪಾಠವ್ಯತ್ಯಾಸಗಳಿಲ್ಲದೆ ಇವೆ |
+| 131 | `the sage Bhagali` → `the sage Chagalī` | SECOND-PASS S13: Kannada p.131 ಛಗಲೀ ಎಂಬ ಋಷಿಯ ಶಿಷ್ಯರು |
+| 132 | `स्त्रेत्रीव` → `स्फीयेव` | SECOND-PASS S7: Kannada p.132 ಸ್ಫೀಯೇವ ನಶ್ವರಃ (Devanagari) |
+| 132 | `strētrīva` → `sphīyeva` | SECOND-PASS S7: Kannada p.132 ಸ್ಫೀಯೇವ ನಶ್ವರಃ (IAST partner) |
+| 133 | `In the (?) chapter` → `In the 93rd chapter` | SECOND-PASS S3: Kannada p.133 ಕೌಟಿಲ್ಯ ಅರ್ಥಶಾಸ್ತ್ರದ ೯೩ನೆಯ ಪ್ರಕರಣದಲ್ಲಿ |
+| 134 | `Tumburu and the Aulaṃbāyanas` → `Tumburu and the Aulaṃpāyanas` | SECOND-PASS S7: Kannada p.134 ತುಂಬುರು ಔಲಂಪಾಯನಾಃ |
+| 135 | `गार्गिशाक्त्वर` → `गार्गिशाक्वर` | SECOND-PASS S7: Kannada p.135 ಗಾರ್ಗಿಶಾಕ್ವರ (Devanagari) |
+| 135 | `gārgiśāktvara` → `gārgiśākvara` | SECOND-PASS S7: Kannada p.135 ಗಾರ್ಗಿಶಾಕ್ವರ (IAST partner) |
+| 135 | `Gārgi, Śāktvara` → `Gārgi, Śākvara` | SECOND-PASS S7: Kannada p.135 ಶಾಕ್ವರ |
+| 135 | `शालंकायनांतर्कर्मंतकायिनः` → `शालंकायनांतर्कमंतकायिनाः` | SECOND-PASS S7: Kannada p.135 ಶಾಲಂಕಾಯನಾಂತರ್ಕಮಂತಕಾಯಿನಾಃ (?) (Devanagari) |
+| 135 | `śālaṃkāyanāṃtarkarmaṃtakāyinaḥ` → `śālaṃkāyanāṃtarkamaṃtakāyināḥ` | SECOND-PASS S7: Kannada p.135 ಶಾಲಂಕಾಯನಾಂತರ್ಕಮಂತಕಾಯಿನಾಃ (?) (IAST partner) |
+| 135 | `a Yajñeśvara-dīkṣita [as printed: "Yajñeśvarajī"]` → `Yajñeśvaradājī` | SECOND-PASS S13: Kannada p.135 ಯಜ್ಞೇಶ್ವರದಾಜೀ (no dīkṣita) |
+| 137 | `॥ ३८ ॥` → `॥ ५ ॥` | SECOND-PASS S1: Kannada p.137 verse number ॥ ೫ ॥ (Devanagari) |
+| 137 | `|| 38 ||` → `|| 5 ||` | SECOND-PASS S1: Kannada p.137 verse number ॥ ೫ ॥ (IAST partner) |
+| 137 | `प्रत्यष्टं` → `प्रत्युष्टं` | SECOND-PASS S7: Kannada p.137 ಪ್ರತ್ಯುಷ್ಟಂ (Devanagari) |
+| 137 | `pratyaṣṭaṃ` → `pratyuṣṭaṃ` | SECOND-PASS S7: Kannada p.137 ಪ್ರತ್ಯುಷ್ಟಂ (IAST partner) |
+| 137 | `read as "[18?]"` → `read as "[18]"` | SECOND-PASS S1: Kannada p.137 stray line prints [೧೮] |
+| 138 | `**342**` → `**324**` | SECOND-PASS S1: Kannada p.138 kanda 1 total ೩೨೪ (column sums to 342; recorded in open.tsv) |
+| 138 | `|  | 5 | 11 | 36 |` → `|  | — | — | — |` | SECOND-PASS S16: Kannada p.138 kanda 3 has only four rows; the fifth row (5, 11, 36) is not printed |
+| 138 | `|  | 2 | 21 | 51 |` → `|  | 2 | 20 | 51 |` | SECOND-PASS S1: Kannada p.138 kanda 7 row 2 prints ೨೦ ೫೧ |
+| 138 | `**5** | **108** | **252**` → `**—** | **107** | **252**` | SECOND-PASS S1: Kannada p.138 kanda 7 total row prints — ೧೦೭ ೨೫೨ |
+| 139 | `44 + 6 + 4 + 28 = 82 adhyāyas (the arithmetic is the source's own and is correct as read: ` → `44 + 6 + 4 + 25 = 82 adhyāyas` | SECOND-PASS S1: Kannada p.139 prints 44+6+4+25=82 (recorded in open.tsv) |
+| 139 | `| 8 | 10 | 37 |` → `| 8 | 11 | 67 |` | SECOND-PASS S1: Kannada p.139 first kanda adhyaya 8 prints ೧೧ ೬೭ |
+| 139 | `| 12 | 9 | 56 |` → `|  |  | 56 |` | SECOND-PASS S16: Kannada p.139 third kanda: last row has no adhyaya number and no anuvaka count, only ೫೬ |
+| 140 | `the pupils of Ukhā are called Aukheyas` → `the pupils of Ukhā are called Aukhīyas` | SECOND-PASS S13: Kannada p.140 ಉಖಾವಿನ ಶಿಷ್ಯರಿಗೆ ಔಖೀಯರೆಂದು |
+| 140 | `Particulars of the Aukheya and Aukheyas` → `Particulars of the Aukhīya and Aukheyas` | SECOND-PASS S13: Kannada p.140 ಔಖೀಯ ಮತ್ತು ಔಖೇಯರುಗಳ |
+| 142 | `## 31. Vaikhānasa branch` → `## 32. Vaikhānasa branch` | SECOND-PASS S1: Kannada p.142 prints ೩೨ (and ೩೨ again for the next); recorded in open.tsv |
+| 142 | `Paṇḍika` → `Ṣaṇḍika` | SECOND-PASS S13: Kannada p.142 ಖಂಡಿಕ ಅಥವಾ ಷಂಡಿಕ |
+| 142 | `कालीता` → `कालेता` | SECOND-PASS S7: Kannada p.142 ಕಾಲೇತಾ ಶಾಟ್ಯಾಯನೀ (Devanagari) |
+| 142 | `kālītā śāṭyāyanī` → `kāletā śāṭyāyanī` | SECOND-PASS S7: Kannada p.142 ಕಾಲೇತಾ ಶಾಟ್ಯಾಯನೀ (IAST partner) |
+| 142 | `Kālītā, Śāṭyāyanī, Hiraṇyakeśī, Bhāradvājī, Āpastambī` → `Kāletā, Śāṭyāyanī, Hiraṇyakeśī, Bhāradvājī, Āpastambī` | SECOND-PASS S7: Kannada p.142 ಕಾಲೇತಾ |
+| 142 | `names Kālītā, Śāṭyāyanī, Hiraṇyakeśī, Bhāradvājī and Āpastambī` → `names Kāletā, Śāṭyāyanī, Hiraṇyakeśī, Bhāradvājī and Āpastambī` | SECOND-PASS S7: Kannada p.142 ಕಾಲೇತಾ |
+| 142 | `The names Kālītā, Śāṭyāyanī and Aukheyī` → `The names Kāletā, Śāṭyāyanī and Aukheyī` | SECOND-PASS S7: Kannada p.142 ಕಾಲೇತಾ |
+| 145 | `read as "[19?]"` → `read as "[19]"` | SECOND-PASS S1: Kannada p.145 stray line prints [ ೧೯ ] |
+| 145 | `गोर्गुजनीर्` → `गोर्गुजवीर्` | SECOND-PASS S7: Kannada p.145 ಗೋರ್ಗುಜವೀರ್ಭಗವಾನೌಪಮನ್ಯವಃ (Devanagari) |
+| 145 | `gorgujanīr` → `gorgujavīr` | SECOND-PASS S7: Kannada p.145 ಗೋರ್ಗುಜವೀರ್ಭಗವಾನೌಪಮನ್ಯವಃ (IAST partner) |
+| 145 | `गार्ग्यसावर्णी` → `गार्ग्यसावर्णि` | SECOND-PASS S7: Kannada p.145 ಗಾರ್ಗ್ಯಸಾವರ್ಣಿ (Devanagari) |
+| 145 | `gārgyasāvarṇī` → `gārgyasāvarṇi` | SECOND-PASS S7: Kannada p.145 ಗಾರ್ಗ್ಯಸಾವರ್ಣಿ (IAST partner) |
+| 145 | `शटः । भाल्लविः` → `शटिः । भाल्लविः` | SECOND-PASS S7: Kannada p.145 ಶಟಿಃ । (Devanagari) |
+| 145 | `śaṭaḥ | bhāllaviḥ` → `śaṭiḥ | bhāllaviḥ` | SECOND-PASS S7: Kannada p.145 ಶಟಿಃ । (IAST partner) |
+| 145 | `Śaṭa, Bhāllavi` → `Śaṭi, Bhāllavi` | SECOND-PASS S7: Kannada p.145 ಶಟಿಃ |
+| 145 | `Śaṭa and the rest` → `Śaṭi and the rest` | SECOND-PASS S7: Kannada p.145 ಶಟಿ ಮೊದಲಾದ |
+| 145 | `कराटः । मशको` → `कराटिः । मशको` | SECOND-PASS S7: Kannada p.145 ಕರಾಟಿಃ । ಮಶಕೋ (Devanagari) |
+| 145 | `karāṭaḥ | maśako` → `karāṭiḥ | maśako` | SECOND-PASS S7: Kannada p.145 ಕರಾಟಿಃ । ಮಶಕೋ (IAST partner) |
+| 145 | `Karāṭa, Maśaka` → `Karāṭi, Maśaka` | SECOND-PASS S7: Kannada p.145 ಕರಾಟಿಃ |
+| 147 | `Sakyaiputra [as printed]` → `Sakaitiputra` | SECOND-PASS S7: Kannada p.147 ಸಕೈತಿಪುತ್ರ |
+| 147 | `Śaurdya` → `Śauriyyu` | SECOND-PASS S13: Kannada p.147 ಶೌರಿಯ್ಯು |
+| 147 | `called Jaila, Prācīnayogya and Surāla` → `called Caila, Prācīnayogya and Surāla` | SECOND-PASS S13: Kannada p.147 ಚೈಲ, ಪ್ರಾಚೀನಯೋಗ, ಸುರಾಲ |
+| 147 | `वारुरुज-नूशकानुपसंगृह्य` → `वाररुच-माशकानुपसंगृह्य` | SECOND-PASS S7: Kannada p.147 ವಾರರುಚ-ಮಾಶಕಾನುಪಸಂಗೃಹ್ಯ (Devanagari) |
+| 147 | `vārurūja-nūśakān upasaṃgṛhya` → `vāraruca-māśakān upasaṃgṛhya` | SECOND-PASS S7: Kannada p.147 ವಾರರುಚ-ಮಾಶಕಾನುಪಸಂಗೃಹ್ಯ (IAST partner) |
+| 147 | `Vārurūja and Nūśaka` → `Vāraruca and Māśaka` | SECOND-PASS S7: Kannada p.147 ವಾರರುಚ-ಮಾಶಕ |
+| 148 | `कालिकः — राजकः — गौतमः — अजबस्त्य — सोमराजायनः` → `कालिकः — राजिकः — गौतमः — अजबस्त — सोमराजायनः` | SECOND-PASS S7: Kannada p.148 Vayu list ರಾಜಿಕಃ (Devanagari) |
+| 148 | `kālikaḥ — rājakaḥ — gautamaḥ — ajabastya — somarājāyanaḥ` → `kālikaḥ — rājikaḥ — gautamaḥ — ajabasta — somarājāyanaḥ` | SECOND-PASS S7: Kannada p.148 Vayu list ರಾಜಿಕಃ (IAST partner) |
+| 148 | `कालिकः — राजकः — गौतमः — अजबस्त्य — सोमराजा —` → `कालिकः — राजिकः — गौतमः — अजबस्त — सोमराजा —` | SECOND-PASS S7: Kannada p.148 Brahmanda list ರಾಜಿಕಃ (Devanagari) |
+| 148 | `kālikaḥ — rājakaḥ — gautamaḥ — ajabastya — somarājā —` → `kālikaḥ — rājikaḥ — gautamaḥ — ajabasta — somarājā —` | SECOND-PASS S7: Kannada p.148 Brahmanda list ರಾಜಿಕಃ (IAST partner) |
+| 148 | `सालिमंजरी` → `सालिमंजरि` | SECOND-PASS S7: Kannada p.148 ಸಾಲಿಮಂಜರಿ (Devanagari) |
+| 148 | `sālimaṃjarī` → `sālimaṃjari` | SECOND-PASS S7: Kannada p.148 ಸಾಲಿಮಂಜರಿ (IAST partner) |
+| 148 | `प्रांजलिद्वैर्नभृताः` → `प्रांजलिर्द्वैनभृताः` | SECOND-PASS S7: Kannada p.148 ಪ್ರಾಂಜಲಿರ್ದ್ವೈನಭೃತಾಃ (Devanagari) |
+| 148 | `prāṃjalidvairnabhṛtāḥ` → `prāṃjalirdvainabhṛtāḥ` | SECOND-PASS S7: Kannada p.148 ಪ್ರಾಂಜಲಿರ್ದ್ವೈನಭೃತಾಃ (IAST partner) |
+| 148 | `Prāṃjali-Dvairnabhṛtas` → `Prāṃjali-Dvainabhṛtas` | SECOND-PASS S7: Kannada p.148 ದ್ವೈನಭೃತಾಃ |
+| 149 | `In 1889 an edition` → `In 1899 an edition` | SECOND-PASS S1: Kannada p.149 ೧೮೯೯ರಲ್ಲಿ ಗ್ರಂಥಾಕ್ಷರದಲ್ಲಿ |
+| 150 | `**2722**` → `**222**` | SECOND-PASS S1: Kannada p.150 ಒಟ್ಟು ೨೨೨ (rows sum to 2722; recorded in open.tsv) |
+| 150 | `number of Sāma mantras is 1869` → `number of Sāma mantras is 189` | SECOND-PASS S1: Kannada p.150 ಸಂಖ್ಯೆ ೧೮೯ (recorded in open.tsv) |
+| 150 | `पत्नी जुहुयात्` → `पत्नि जुहुयात्` | SECOND-PASS S7: Kannada p.150 ಪತ್ನಿ ಜುಹುಯಾತ್ (Devanagari) |
+| 150 | `patnī juhuyāt` → `patni juhuyāt` | SECOND-PASS S7: Kannada p.150 ಪತ್ನಿ ಜುಹುಯಾತ್ (IAST partner) |
+| 150 | `सायंप्रातरौ होमौ` → `सायंप्रातरा होमौ` | SECOND-PASS S7: Kannada p.150 ಸಾಯಂಪ್ರಾತರಾ ಹೋಮೌ (Devanagari) |
+| 150 | `sāyaṃprātarau homau` → `sāyaṃprātarā homau` | SECOND-PASS S7: Kannada p.150 ಸಾಯಂಪ್ರಾತರಾ ಹೋಮೌ (IAST partner) |
+| 150 | `पत्नीगृह्य एषोग्निर्भवति` → `पत्निगृह्य एषोग्निर्भवति` | SECOND-PASS S7: Kannada p.150 ಪತ್ನಿಗೃಹ್ಯ ಏಷೋಗ್ನಿರ್ಭವತಿ (Devanagari) |
+| 150 | `patnīgṛhya eṣo 'gnir bhavati` → `patnigṛhya eṣognir bhavati` | SECOND-PASS S7: Kannada p.150 ಪತ್ನಿಗೃಹ್ಯ ಏಷೋಗ್ನಿರ್ಭವತಿ (IAST partner) |
+| 150 | `इन्द्रस्य त्रिशतं` → `ऐंद्रस्य त्रिशतं` | SECOND-PASS S7: Kannada p.150 ಐಂದ್ರಸ್ಯ ತ್ರಿಶತಂ (Devanagari) |
+| 150 | `indrasya triśataṃ` → `aiṃdrasya triśataṃ` | SECOND-PASS S7: Kannada p.150 ಐಂದ್ರಸ್ಯ ತ್ರಿಶತಂ (IAST partner) |
