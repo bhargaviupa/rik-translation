@@ -119,6 +119,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 | T1 | Units for continuous prose with chapters (Vol 1 pp. 1–605; the Pariśiṣṭa of Vol 5) | Vols 1, 5 | [ ] |
 | T2 | Import of the older English layouts into units | groups A, B | [ ] |
 | T3 | Replacement of scan-read Sanskrit and numbers from the supplied text, with a list of what could not be settled | group A | [ ] (a first script exists for references in Vol 1) |
+| T4a | **Word-meaning check in the second pass of every volume** (`pratipada_check.py N --source`, then `pratipada_apply.py N`, REQUIREMENTS I6a 1a). Reports made Nov 24 2026 for Vols 12, 14–21 (`volN/review/pratipada_check_source.tsv`); nothing applied yet; Vol 13 has no `html/rig_13.md` (not checked) | all | [ ] |
 | T4 | The second reading as a regular step, runnable by agents or by the API | all | [ ] |
 | T5 | Question list out to a spreadsheet and answers back in | all | [~] by hand for Vol 17 |
 | T6 | Release gate: no final copy while a question or known fault is open | all | [ ] |

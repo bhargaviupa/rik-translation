@@ -472,6 +472,7 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 
 ### I6a. The second pass of a volume — what it comprises
 1. The readers R1–R6, as marked in I2 (R2 where a unit has a grammar section).
+1a. **The word-meaning check (C4, D18), for every volume:** `pratipada_check.py N --source`, then `pratipada_apply.py N` (preview, the user's yes, `--write`), then the check again. For volumes not yet translated (Vols 22, 23) it runs before the first `plan`; for translated volumes the corrections are made in the source and reach the book at the next build (the English file is not re-translated for them). The rows left over go to the editor. Vols 12, 14, 15, 16 have older layouts: many Ṛks come out `noref`; their report is read with that in mind.
 2. R7 against the scan copies, if adopted (*leaning*): needs the scans, which are not in the repository for the newer volumes (F40), and a measurement first (I5).
 3. The departures of B1.6 are carried out in the source (*leaning*).
 4. The bhāṣya from the wiki source is placed in the volume's Sāyaṇa-bhāṣya document and the Sāyaṇa-bhāṣya book is made (K9).
