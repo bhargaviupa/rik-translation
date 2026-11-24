@@ -26447,6 +26447,424 @@ O Indra, by which exhilaration arising from Soma-drinking you protected (आव�
 - (O Indra) येन (*yena*)—by which exhilaration of the Soma juice
 - दशग्वं (*daśagvaṃ*)—him who completed (the sattra) in ten months
 
+### Printed p. 639
+- अध्रिगुं (*adhriguṃ*)—Adhrigu also
+- वेपयंतं (*vepayaṃtaṃ*)—who dispersed the darkness
+- स्वर्णरं (*svarṇaraṃ*)—the sun too
+- आविथ (*āvitha*)—you protected
+- येन (*yena*)—by which exhilaration
+- समुद्रं (*samudraṃ*)—the atmosphere (you protected)
+- तं (*taṃ*)—that satisfaction
+- ईमहे (*īmahe*)—we meditate on and worship
+
+(The first words of this list complete the gloss begun on the previous page: the one "whose sacrifice is performed over ten months".)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by the exhilaration of which Soma juice you protected Adhrigu, whose sacrifice is carried out over ten months, and the sun who dispersed the darkness—that satisfaction we meditate on and worship.
+
+##### English translation
+We solicit that (exhilaration) whereby you have defended Adhrigu,
+the accomplisher of the ten (months' rite), and the trembling leader of
+heaven, (the sun), and the ocean.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॒ सिंधुं॑ म॒हीर॒पो रथा॑इव प्रचो॒दयः॑ ।  
+> पंथा॑मृ॒तस्य॒ यात॑वे॒ तमी॑महे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । सिंधुं । महीः । अपः । रथान् इव । प्रचोदयः ।  
+> पंथां । ऋतस्य । यातने । तं । ईमहे ॥ ३ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महीर्महतीरपो वृष्ट्युदकानि सिंधुं स्यंदनशीलां नदीं
+> समुद्रं वा प्रति येन सोमपानजन्येन मदेन प्रचोदयः प्रेरयसि । तत्र
+> दृष्टांतः । रथानिव । यथा रथिनो रथान् स्वाभिलषितदेशगमनाय प्रेरयंति
+> तद्वत् । ऋतस्य यज्ञस्य पंथां पंथानं मार्गं यातवे यातुं प्राप्तं तं
+> मदमीमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by which exhilaration born of drinking Soma you urge on the great waters—the rain-waters—toward the flowing river or the sea. The illustration: as charioteers drive their chariots to the places they desire to reach. We ask for that exhilaration, that we may travel the path of ṛta, the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by which exhilaration
+- महीः (*mahīḥ*)—great
+- अपः (*apaḥ*)—having waters
+- सिंधु (*siṃdhu*)—the river
+- थानिव (*thāniva*)—as a charioteer drives his chariot
+
+### Printed p. 640
+- प्रचोदयः (*pracodayaḥ*)—you have impelled it to flow to the sea
+- तं (*taṃ*)—that exhilaration
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पंथां (*paṃthāṃ*)—the path
+- यातवे (*yātave*)—to follow
+- ईमहे (*īmahe*)—we meditate on
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as a charioteer drives his chariot and brings it to its appointed place, so by whatever exhilaration you cause the river of great waters to flow to the sea—that exhilaration we meditate on, in order to follow the path of the sacrifice.
+
+##### English translation
+We solicit that (exhilaration) whereby you urge on the mighty
+waters to the sea, in like manner as (charioteers drive) their cars (to the
+goal), and (whereby) to travel the paths of sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं स्तोम॑म॒भिष्ट॑ये घृ॒तं न पू॒तम॑द्रिवः ।  
+> येना॒ नु स॒द्य ओज॑सा व॒वक्षि॑थ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । स्तोमं । अभिष्टये । घृतं । न । पूतं । अद्रिवः ।  
+> येन । नु । सद्यः । ओजसा । ववक्षिथ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो वज्रवन्निंद्र घृतं न धृतमिव मंत्रपूतमाज्यमिव पूतं
+> शुद्धमिममस्मदीयं स्तोमं स्तोत्रं बुध्यस्येति शेषः । किमर्थ० । अभिष्टयेऽभिप्राप्त्यै । इष्टस्य धनादेरस्माकं लाभायेत्यर्थः । येन स्तोत्रेण स्तूयमानः
+> सन्नोजसात्मीयेन बलेन सद्यस्तदानीमेव स्तुतिसमय एव नु क्षिप्रं ववक्षिथ
+> अस्मान्वहसि अभिलषितं प्रापयसि इमं स्तोममित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O thunderbolt-bearer Indra, accept this our praise, pure like ghee purified by mantra ("understand: be aware of it"). For what purpose? For अभिष्टये (*abhiṣṭaye*), for attainment: for our obtaining the desired wealth and the rest. Praised by which hymn you at once, at the very time of the praise, quickly carry us by your own strength—bring us what we desire. The construction is "this stoma … by which …".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt weapon
+- येन (*yena*)—joined with which praise
+
+### Printed p. 641
+- ओजसा (*ojasā*)—by your strength
+- सद्यः (*sadyaḥ*)—at the very time of the praise
+- नु (*nu*)—quickly
+- अभिष्टये (*abhiṣṭaye*)—so that our desired object is accomplished
+- ववक्षिथ (*vavakṣitha*)—you help (with such praise)
+- धृतं न (*dhṛtaṃ na*)—like ghee purified by mantra
+- पूतं (*pūtaṃ*)—pure
+- इमं स्तोमं (*imaṃ stomaṃ*)—accept this praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, joined with whatever praise you help us by your strength, quickly and at the very time of praising, so that our desired object is accomplished—accept this our praise, pure like ghee purified by mantra.
+
+##### English translation
+Accept, thunderer, this praise (offered) for the attainment of our desires, like consecrated butter; (induced) by which, you promptly bear us by your might (to our objects).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं जु॑षस्व गिर्वणः समु॒द्रइ॑न पिन्वते ।  
+> इंद्र॒ विश्वा॑भिरू॒तिभि॑र्व॒वक्षि॑थ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । जुषस्व । गिर्वणः । समुद्रः इव । पिन्नते ।  
+> इंद्र । विश्वाभिः । ऊतिभिः । ववक्षिथ ॥ ५ !
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणो गिरां स्तुतीनां संभक्तः यद्वा स्तुतिभिः संभजनीयेंद्र इमं
+> स्तोमं मया क्रियमाणं जुषस्व । सेवस्व । स च स्तोमः समुद्र इव
+> सुमुद्रो यथा चंद्रोदयं प्राप्य पिन्नते । वर्धते । अभिदेयस्येंद्रगुणगणस्याधिक्येन तत्पतिपादिका स्तुतिरपि विस्तृत्या भवतीत्यर्थः ॥ पूर्वस्यामृचि ववक्षिथेत्यनेन युक्तो येनेति शब्दोऽत्रापि सामर्थ्यत्तेन संबध्यते । अत एवास्य
+> तिज्जतिज इति निघाताभावः ॥ हे इंद्र येन स्तोमेन हेतुना विश्वाभिर्वाप्ता-
+> [ 41 ] [ Vol. 23 ]
+> [ 41 ]                                     [ Vol. 23 ]
+
+##### Gist of the bhāṣya
+
+O गिर्वणः (*girvaṇaḥ*)—either one who is the partaker (lover) of songs of praise, or one to be served with praises—Indra, enjoy this stoma that I offer. That stoma swells (grows) like the sea on the rising of the moon: because the host of Indra's qualities to be described is abundant, the praise that sets them forth also becomes extended. The word येन (*yena*) of the previous ṛk, which has ववक्षिथ (*vavakṣitha*), is connected here too by implication. Then: O Indra, by which stoma, as the cause, you with all the protections that pervade (everything) carry us—bring us blessings.
+
+**NOTE**
+
+### Printed p. 642
+**Sāyaṇa-bhāṣya (continued)**
+
+> भिरूतिभी रक्षाभिवर्वक्षिथ वहसि श्रेयांस्यस्मान्प्रापयसि ॥ वहेः सनंताल्लिट्यमंत्र
+> इति निषेधादामभावे थलि लिटि रूपमेतत् ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) ववक्षिथ (*vavakṣitha*) means "you carry"—you bring us what is better. The remainder of the block is the explanation of the verb form.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—O Indra, worshipped with praise
+- इंद्र (*iṃdra*)—O Indra
+- (येन (*yena*)—joined with which praise)
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- ववक्षिथ (*vavakṣitha*)—you bring about our desired objects, and such (praise)
+- इमं (*imaṃ*)—this Soma offered by us
+- जुषस्व (*juṣasva*)—enjoy
+- (that same Soma)
+- समुद्र इव (*samudra iva*)—as the sea swells at the time of the moon's rising
+- पिन्वते (*pinvate*)—grows
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worshipped with praise, joined with whatever praise you bring about our desired objects with all protections—enjoy such a Soma, offered by us. That same Soma grows as the sea swells at the rising of the moon.
+
+##### English translation
+Be pleased, you who are gratified by praise, with this our eulogy swelling like the ocean; (induced by which), Indra, you bear us with all your protections (to our objects).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नो॑ दे॒वः प॑रा॒वतः॑ सखित्व॒नाय॑ माम॒हे ।  
+> दि॒वो न वृ॒ष्टिं प्र॒थय॑न्व॒वक्षि॑थ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । देवः । परावतः । सखित्वनाय । ममहे ।  
+> दिवः । न । वृष्टिं । प्रथयन् । ववक्षिथ ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो नो देवो दानादिगुणयुक्त इंद्रः परावतः परावताद्दुर्यलो-
+
+##### Gist of the bhāṣya
+
+The deity Indra, endowed with qualities such as generosity, who from परावतः (*parāvataḥ*) (a distant world)
+
+### Printed p. 643
+
+> कादागत्य नोऽस्माकं सखित्वनाय सखित्वाय मामहे धनानि प्रददौ ॥ मंहतेर्दानकर्मणः एतद्रूपं ॥ यद्वा । अस्माभिः पूज्यते ॥ मह पूजायां । अस्माच्छांदसः कर्मणि लिट्॥ उत्तरार्धर्चः प्रत्यक्षकृतः। हे इंद्र दिवो न वृष्टिं दिवः सकाशाद्वृष्टिमिन प्रथयन्नस्मदीयानि धनानि विस्तारयन् यस्त्वं ववक्षिथ अस्मान्
+> वोढुमिच्छसि तादृशं त्वां स्तौमीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) … coming to us, gave wealth for friendship: मामहे (*māmahe*) is this form from the root *maṃhateḥ* in the sense of giving. Or else: he is worshipped by us (root मह पूजायां (*maha pūjāyāṃ*); in the Vedic idiom लिट् (*liṭ*) is used in the passive sense). The latter half of the ṛk is addressed directly: O Indra, like rain from heaven, spreading our wealth, you who desire to carry us—such a you I praise (this is to be supplied).
+
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- देवः (*devaḥ*)—Indra, endowed with generosity and other qualities
+- परावतः (*parāvataḥ*)—even from a very distant place
+- नः (*naḥ*)—to us
+- सखित्वनाय (*sakhitvanāya*)—for a token of friendship
+- मामहे (*māmahe*)—gave wealth (such Indra we praise); (O Indra)
+- दिवः (*divaḥ*)—from the heavenly world
+- वृष्टिं न (*vṛṣṭiṃ na*)—like pouring rain
+- प्रथयन् (*prathayan*)—increasing our wealth
+- ववक्षिथ (*vavakṣitha*)—you fulfilled our desired objects (such you we praise)
+
+##### भावार्थ (Bhāvārtha)
+
+We praise that Indra, endowed with generosity and other qualities, who, even from a very distant place, gave us wealth as a token of friendship. O Indra, we praise you who, as rain is poured from the heavenly world, increasing our wealth in heaps, fulfilled our desired objects.
+
+##### English translation
+(I glorify Indra) the deity, who, coming from afar, has given us, through friendship, (riches); heaping (them upon us) like rain from heaven, you have borne us (to our objects).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒व॒क्षुर॑स्य के॒तव॑ उ॒त वज्रो॒ गभ॑स्त्योः ।  
+> यत्सूर्यो॒ न रोद॑सी॒ अव॑र्धयत् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववक्षुः । अस्य । केतवः । उत । वज्रः । गभस्तोः ।  
+> यत् । सूर्यः । न । रोदसी इति । अवर्धयत् ॥ ७ ॥
+
+### Printed p. 644
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य केतवः प्रज्ञानान्यस्मत्सुतिविषयाणि । यद्वा । रथ उत्कृष्टाः
+> पताकाः केतवः । ववक्षुः । अवहन् । अस्माइच्छेयांसि प्रापयन् । उतापि च
+> गभस्तोः । बाहुनामैतत् । इंद्रस्य हस्तयोरवस्थितो वज्रश्चावहत् । यद्यदायमिंद्रः सूर्यो न सर्वस्य प्रेरक आदित्य इव रोदसी द्यावापृथिव्यौ वृष्टादिप्रदानेनावर्धयत् तदानीमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The केतवः (*ketavaḥ*) of this Indra are the cognitions concerning our praise; or else, the excellent banners on his chariot. ववक्षुः (*vavakṣuḥ*): they carried—brought us blessings. And also the thunderbolt held in the two गभस्तोः (*gabhastoḥ*) (a name for the arms), that is, in Indra's hands, carried. Meaning: when this Indra, like the sun, the impeller of all, increased heaven and earth (रोदसी (*rodasī*)) by giving rain and the like—then.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when (Indra)
+- सूर्यो न (*sūryo na*)—like the sun
+- रोदसी (*rodasī*)—both heaven and earth
+- अवर्धयत् (*avardhayat*)—caused to expand (then)
+- अस्य (*asya*)—of this Indra
+- केतवः (*ketavaḥ*)—the chariot banners
+- ववक्षुः (*vavakṣuḥ*)—brought about our desired objects
+- उत (*uta*)—and
+- गभस्त्योः (*gabhastyoḥ*)—in his arms
+- वज्रः (*vajraḥ*)—the thunderbolt weapon too fulfilled our wishes
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra, like the sun, caused heaven and earth both to expand, then the banners of this Indra's chariot brought about our desired objects; and the thunderbolt weapon in his arms also fulfilled our wishes.
+
+##### English translation
+The banners of Indra, the thunderbolt (he bears) in his hands have brought (us benefits), when, like the sun, he has expanded heaven and earth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदि॑ प्रवृद्ध सत्पते स॒हस्रं॑ महि॒षा अघः॑ ।  
+> आदित्त॑ इंद्रि॒यं महि॒ प्र ना॑वृधे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । प्रवृद्ध । सत्पते । सहस्रं । महिषान् । अघः ।  
+> आत् । इत् । ते । इंद्रियं । महि । प्र । ववृधे ॥ ८ ॥
+
+### Printed p. 645
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रवृद्ध प्रकर्षेण महन् हे सत्पते सतामनुष्ठात्काणां पालयितरिंद्र
+> सहस्रं सहस्रसंख्याकान्महिषान् । महन्नामैतत् । महतोऽसुरान् वृत्रादीन्
+> यदि यदाघः अवधीः ॥ हंतेश्छांदसमेतद्रूपं । यद्वा। घस्ल अदने! लुजि सिपि
+> मंत्रे घसेति चेर्लुक् ॥ आदिदनंतरमेव हे इंद्र ते तवेंद्रियं वीर्यं महि
+> महद्बहुलं सत्प, नावृधे । प्रकर्षेण वर्धते ॥
+
+##### Gist of the bhāṣya
+
+O प्रवृद्ध (*pravṛddha*), exceedingly great, O सत्पते (*satpate*), protector of the good who perform rites, Indra: when you slew a thousand महिषान् (*mahiṣān*) (महत् (*mahat*) is a name for "great"), the great asuras, Vṛtra and the rest—अघः (*aghaḥ*) is this Vedic form of the verb "to slay"; or else it is from the root घस्ल अदने (*ghasla adane*) (to eat). Immediately after that, O Indra, your vigour, great and abundant, grew forth greatly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रवृद्ध (*pravṛddha*)—O Indra, endowed with greatness
+- सत्पते (*satpate*)—protector of the good
+- सहस्रं (*sahasraṃ*)—a thousand
+- महिषान् (*mahiṣān*)—mighty asuras
+- यदि (*yadi*)—when
+- आघः (*āghaḥ*)—you took (slew)
+- आदित् (*ādit*)—immediately after that
+- ते (*te*)—your
+- इंद्रियं (*iṃdriyaṃ*)—vigour
+- महि (*mahi*)—most wonderfully
+- प्र वावृधे (*pra vāvṛdhe*)—grew
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, endowed with greatness and protector of the good, immediately after you slew thousands of mighty asuras, your vigour grew most wonderfully.
+
+##### English translation
+Great Indra, protector of the good, when you have slain thousands
+of mighty (foes ), then your vast and special energy has been augmented.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॒ सूर्य॑स्य र॒श्मिभि॒र्न्य॑र्शसा॒नमो॑षति ।  
+> अ॒ग्निर्वने॑व सास॒हिः प्र ना॑वृधे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । सूर्यस्य । रश्मिभिः । नि । अर्शसानं । ओषति ।  
+> अग्निः । वनाइव । ससहिः । प्र । ववृधे ॥ ९ ॥
+
+### Printed p. 646
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः सूर्यस्य सर्वस्य प्रेरकस्यादित्यस्य रश्मिभिः किरणैः करणभूतैरर्शसानं ॥ आर्तेर्गुणः शुट्ट । उ. २-८८ । इत्य गतावित्यस्मादसानच् प्रत्ययः
+> शुडागमश्च । अयं केवलोऽप्यतिराज् पूर्वार्थो द्रष्टव्यः । अज्‌पूर्वश्च
+> बाधने वर्तते । यथा आर्तिमार्तोः । शत. १-३१-२-४ ॥ अर्शसानं बाधमानं
+> मंदेहादिकमसुरं न्यूषति । नितरां दहति ॥ उष दाहे ॥ तत्र दृष्टांतः । अग्निर्वनेव । यथा वनारण्यानि दावानलो भस्मसात्करोति तद्वत् । एवं सासहिः शत्रूणामभिभवनशील इंद्रः प्र नावृधे ! प्रकर्षण वर्धते ॥
+
+##### Gist of the bhāṣya
+
+This Indra, by the rays—the instruments—of the sun, the impeller of all, नि ओषति (*ni oṣati*) burns up completely अर्शसानं (*arśasānaṃ*), the oppressing asura, Mandeha and the like. (The word अर्शसानं (*arśasānaṃ*) is explained from the root *ārteḥ* in the sense of going, with the affix *asānac*; its prefix is understood in the sense of oppressing, and as an example he quotes आर्तिमार्तोः (*ārtimārtoḥ*), with a reference given as शत. १-३१-२-४ (*śata. 1-31-2-4*).) The illustration: as a forest fire reduces forests to ashes, so Indra, सासहिः (*sāsahiḥ*), the overcomer of enemies, grows forth greatly.
+
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- सूर्यस्य (*sūryasya*)—of the sun
+- रश्मिभिः (*raśmibhiḥ*)—with the rays
+- अर्शसानं (*arśasānaṃ*)—the harmful asura
+- अग्निः (*agniḥ*)—as a forest fire
+- वना इव (*vanā iva*)—reduces forest trees and the like to ashes
+- नि ओषति (*ni oṣati*)—burns completely
+- सासहिः (*sāsahiḥ*)—Indra, having power to defeat enemies
+- प्र वावृधे (*pra vāvṛdhe*)—grows greatly
+
+##### भावार्थ (Bhāvārtha)
+
+As a forest fire burns forest trees and the like completely, Indra destroys the harmful asura by the rays of the sun. Indra, who has power to defeat enemies, grows greatly.
+
+##### English translation
+Indra, with the rays of the sun, utterly consumes his adversary :
+like fire (burning) the forests, he spreads victorious.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं त॑ ऋ॒त्विया॑वती धी॒तिरे॑ति॒ नवी॑यसी ।  
+> स॒प॒र्यंती॑ पुरुप्रि॒या मिमी॑ात॒ इत् : १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । ते । ऋत्वियवती । धीतिः । एति । नवीयसी ।  
+> सपर्यंती । पुरुप्रिया । मिमाते । इत् ॥ १० ॥
+
+### Printed p. 647
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वामियं पुरोवर्तिनी मया क्रियमाणा धीतिः स्तुतिरेति । गच्छति ।
+> कीदृशी । ऋत्वियावती । ऋतौ वसंतादिकालेऽनुष्ठेयं यज्ञकर्म ऋत्तियं ।
+> तद्वती नवीयस्यतिशयेनाभिनवा स्तुतिः । सपर्यंती पूजयंती पुरुप्रिया पुरु
+> बहुलं प्रीणयिती सती मिमित इत् । इंद्रगतान् गुणान् परिछिनत्येव । माहात्म्यं प्रख्यापयत्येव सेयमित्यन्वयः ॥ अनुमायमाननेन यच्छब्देन च
+> योगान्मिमित इत्यस्य निघाताभावः । यद्वा । सपर्यंती पुरुप्रियेतेदमपेतीत्यनेन संबंधनीयं । अतः पूर्वपदस्य भिन्नवाक्यस्थत्वात् समानवाक्ये युष्मदस्मदादेशा वक्तव्या इति वचनात्तदपेक्षया निघाताभावे सत्यभ्यस्तानामादिरित्याद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this praise made by me, standing before you, एति (*eti*) goes to you. Of what kind? ऋत्वियावती (*ṛtviyāvatī*): ऋत्तियं (*ṛttiyaṃ*) is the sacrificial rite to be performed in a season (spring and the rest); the praise possesses it. नवीयसी (*navīyasī*): exceedingly new. सपर्यंती (*saparyaṃtī*): worshipping; पुरुप्रिया (*purupriyā*): greatly pleasing (पुरु (*puru*) meaning abundant); being so, it मिमित इत् (*mimita it*) measures the qualities that belong to Indra, and proclaims his greatness—this is the construction. The remainder of the block deals with the accent. He also gives an alternative: सपर्यंती पुरुप्रिया (*saparyaṃtī purupriyā*) is to be connected with another word, a different clause.
+
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ऋत्वियावती (*ṛtviyāvatī*)—being in keeping with the seasons, spring and the rest
+- नवीयसी (*navīyasī*)—being very new
+- इयं धीतिः (*iyaṃ dhītiḥ*)—this praise
+- ते (*te*)—to you
+- एति (*eti*)—approaches
+- सपर्यंती (*saparyaṃtī*)—worshipping you
+- पुरुप्रिया (*purupriyā*)—being pleasing to many
+- मिमित इत् (*mimita it*)—describes your surpassing qualities, distinguishing them
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this praise, in keeping with the seasons of spring and the rest and very new, approaches you; worshipping you and being pleasing to many, it describes your surpassing qualities, distinguishing them.
+
+##### English translation
+This new praise, suited to the season, approaches, (Indra), to you; offering adoration and greatly delighting (you), it verily proclaims the measure (of your merits).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गर्भो॑ य॒ज्ञस्य॑ देव॒युः क्रतुं॑ पुनीत आनु॒षक् ।  
+> स्तोमै॒रिंद्र॑स्य वानृधे॒ मिमि॑त॒ इत् ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 638. pp. 631-638 (batch API)
+**Progress note:** Done through printed p. 647. pp. 639-647 (batch API)
