@@ -11,3 +11,4 @@ REVIEW 1.4	sonnet (independent reader)	VERIFIED (form)	43 units read; 11 changes
 REVIEW 1.2	sonnet (independent reader)	VERIFIED (form)	45 units read; 15 changes: 4 wrong sense, 1 wrong attachment, 3 dropped, 2 additions removed, 5 wording		142858
 VERIFY vs Vol 1: 0.2	sonnet	39 rows covering all 63 units: 32 consistent, 5 differs in detail, 2 contradicts (both were our errors, now fixed: verify/M0_S002_fixes.tsv), 0 not found			136848
 1.5	sonnet	VERIFIED (form)	3	yes (agent: separate pass, 1 sense correction + 16 citation fixes)	130240
+VERIFY vs Vol 1: 0.3	sonnet	37 rows covering units 114.1–125.7: 27 consistent, 10 differs in detail (mostly reference numbers; wording of damaged places), 0 contradicts, 0 not found			
