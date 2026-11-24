@@ -22121,6 +22121,306 @@ Wealthy (Indra), may I never have to tell you of the destitution of my friend or
 > कः । नु । मर्याः । अमिथितः । सखा । सखायं । अब्रवीत् ।  
 > जहा । कः । अस्मत् । ईषते ॥ ३७ ॥
 
+### Printed p. 483
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> को नुकः खलु हे मर्या मनुष्याः अमिथितः । मेधतिराक्रोशकर्मा ।
+> अनाकृश्च इंद्रादन्यः सखा सखायं प्रति जहा अहं कं जघान कः को वास्यदस्मत्तो
+> भीत ईषदे पलायत इत्यब्रवीत् । वदति । इंद्र एवैतादृशस्य वचनस्य वक्तेत्यभिप्रायतः । भा च यास्कः । मेधतिराक्रोशकर्मा । अपापकं जघान कमहं जातु
+> कोऽस्मद्भूते पलायते । नि. ४-२ । इति । मा न एकस्मिन्नागसीत्यादिकया श्रुत्या
+> नूनमृषिमिंद्र आजहारेत्यत्रर्षिविस्मयत इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa construes the verse as the words of Indra. "O men (मर्या (*maryā*) means human beings), what friend, not enraged (the root मेधति (*medhati*) has the sense of abuse or anger), a friend other than Indra, has slain his friend? Or who is it that, afraid of me, runs away?" So Indra spoke. The intention is that Indra alone is the speaker of such a word. Sāyaṇa cites Yāska (Ni. 4-2) for the sense of the words, and refers to the Vedic text that begins "not for a single offence" and to a passage on the seer's astonishment, with Indra bringing the seer. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्याः (*maryāḥ*)—O men
+- अमिथितः (*amithitaḥ*)—who has not become enraged
+- को नु सखा (*ko nu sakhā*)—what friend indeed
+- सखायं (*sakhāyaṃ*)—his own friend
+- जहा (*jahā*)—has killed
+- कः (*kaḥ*)—who indeed
+- अस्मत् (*asmat*)—from me, being afraid
+- ईषते (*īṣate*)—has run away (thus)
+- अब्रवीत् (*abravīt*)—Indra said
+
+##### भावार्थ (Bhāvārtha)
+
+"O men, what friend, not given to rage, has killed his own friend? Who indeed has run away in fear of me?" Thus Indra has asked. The purport is that none of his friends has any fear of him.
+
+##### English translation
+"Who, O mortals," said (Indra), "unprovoked, has ever, as a friend, slain his friend? Who flees from me?"
+
+##### विशेषविषयगळु (Special Topics)
+
+For this verse Yāska has given the following explanation: मर्या इति मनुष्यनाम । मर्यादाभिधानं ना स्यात् । मर्यादा मर्य्यरादीयते । मर्यादामर्यादिनोर्विभागः ॥ मेथतिराक्रोशकर्मा । अपापकं जघान कमहं जातु । कोऽस्मद्भीतः पलायते ॥ (*maryā iti manuṣyanāma | maryādābhidhānaṃ nā syāt | maryādā maryyarādīyate | maryādāmaryādinorvibhāgaḥ ‖ methatirākrośakarmā | apāpakaṃ jaghāna kamahaṃ jātu | ko 'smadbhītaḥ palāyate ‖*) (Ni. 4-2). मर्याः (*maryāḥ*) means men. The word मर्या (*maryā*) also has the meaning of a limit or border: the line between one region and another; the line that separates two different parts and divides them from each other is called मर्या (*maryā*) (Boundary). For the root मेथति (*methati*), to show anger
+
+### Printed p. 484
+
+is the meaning. In the present sentence Indra asks: what man who has done no wrong have I ever killed? What man, seeing me, would run away in fear? Such is the sense of Indra's words. That is, Indra does not kill any man who has done no wrong. Indra's anger acts only against the wicked and those who do wrong. Therefore who would run away in fear on seeing Indra? No one runs away. Those who are not sinners have no need to fear Indra or Indra's anger. This is the main purport.
+
+#### Ṛk 38
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वारे॑ वृषभा सु॒तेऽसि॑न्व॒न्भूर्या॑वयः ।  
+> श्व॒घ्नीव॑ नि॒वता॒ चर॑न् ॥ ३८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एवारे । वृषभ । सुते । असिन्वन् । भूरि । अवयः ।  
+> श्वघ्नीऽइव । निवता । चरन् ॥ ३८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषभ कामानां वर्षकेंद्र एवारे । एवारो नाम कश्चित् । तस्मिन्
+> सुतेऽभिषुते सोमे सति भूरि बहूनि धनान्यसिन्नन्न बध्नञ्घ्नी । श्वंघ्नी कितवः ।
+> तथा च यास्कः । श्वंघ्नी कितवो भवति स्वं हंति.... । नि. ५-२२.... ॥
+
+##### Gist of the bhāṣya
+
+"O Vṛṣabha," that is, Indra, showerer of desires. Evāra is the name of a certain person; when Soma has been pressed (सुते (*sute*)) in his case, abundant wealth (भूरि (*bhūri*) means much) was bound or collected (असिन्वन् (*asinvan*)). श्वंघ्नी (*śvaṃghnī*) is a gambler; Sāyaṇa cites Yāska (Ni. 5-22) for this, with the words श्वंघ्नी कितवो भवति स्वं हंति (*śvaṃghnī kitavo bhavati svaṃ haṃti*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—O Indra, showerer of desires
+- एवारे (*evāre*)—the seer Evāra
+- सुते (*sute*)—when the Soma was pressed
+- भूरि (*bhūri*)—the abundant Soma
+- श्वघ्नीव (*śvaghnīva*)—like a hunter
+- असिन्वन् (*asinvan*)—joined you alone
+- आवयः (*āvayaḥ*)—all the other gods who were there
+- निवता (*nivatā*)—with faces turned downward
+- हरन् (*haran*)—went out
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, when the seer Evāra pressed the Soma, the abundant Soma joined you alone, like a hunter. All the other gods who were there went out with faces turned downward.
+
+##### English translation
+Showerer (of benefits), when the ready Soma was effused, you devoured much, without stint, rushing down like a gamester.
+
+### Printed p. 485
+
+#### Ṛk 39
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त एता वज्रोयुजा हरे गृज्ञे समुद्रथा ।  
+> यदीं॑ ब्र॒ह्मभ्य॒ इद्ददः॑ ॥ ३९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । एता । वचस्ययुजा । हरी इति । गृब्बे । सुमत् 5 रथा ।  
+> यत् । ईं । ब्रह्मभ्यः । इत् । ददः ॥ ३९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते तव सुमद्रथा कल्याणरथौ वचोयुजा मंत्रेण युज्यमानावेतैतौ
+> हरी अश्वाना गृब्बे । अस्मदभिमुखं यातुं हस्ताभ्यामाकर्षामीत्यर्थः ।
+> यद्यस्मात्त्वं ब्रह्मभ्य इद्दाह्मणेभ्य एवेमिदं धनं ददः ददासि ॥
+
+##### Gist of the bhāṣya
+
+Your (ते (*te*)) two horses, Hari, with beautiful chariots, yoked by a mantra (वचोयुजा (*vacoyujā*)), these two, I seize (गृब्बे (*gṛbbe*)): I draw them with my hands to come towards us. This is because (यत् (*yat*)) you give this wealth to Brahmans alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- ब्रह्मभ्यः इत् (*brahmabhyaḥ it*)—to Brahmans alone
+- ईं (*īṃ*)—wealth
+- ददः (*dadaḥ*)—you give; therefore
+- ते (*te*)—your
+- सुमद्रथा (*sumadrathā*)—having a beautiful chariot
+- वचोयुजा (*vacoyujā*)—joined by mantras
+- एता (*etā*)—those well-known
+- हरी (*harī*)—horses
+- आ गृभ्वे (*ā gṛbhve*)—I draw to this side
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for which reason you give wealth only to the knowers of Brahman, therefore I draw to this side your well-known horses, which have a beautiful chariot and are joined by mantras. **NOTE**
+
+##### English translation
+I draw hither your two steeds, harnessed to a beautiful chariot and yoked by hymns, since you give wealth to the Brahmans.
+
+#### Ṛk 40
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भिं॒धि विश्वा॒ अप॒ द्विषः॒ परि॒ बाधो॑ ज॒ही मृधः॑ ।  
+> वसु॑ स्पा॒र्हं तदा भ॑र ॥ ४० ॥
+
+### Printed p. 486
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भिंधि । विश्वाः । अप । द्विषः । परि । बाधः । जहि । मृधः ।  
+> वसु । स्पार्हं । तत् । आ । भर ॥ ४० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं विश्वाः सर्वा द्विषो द्वेष्ट्रीः शत्रुसेना अप भिंधि । विदारय ।
+> बाधो हिंसित्रीर्मृधः संग्रामान् । स्पृधो मृध इति संग्रामनामसु पातात् ।
+> परि जहि । हिंधि । अतस्तासां स्पार्हं स्पृहणीयं तत्पसिद्धं वस्वा भर । अस्मभ्यमाहर ॥
+
+##### Gist of the bhāṣya
+
+O Indra, split apart and tear all hostile (द्विषः (*dviṣaḥ*), that is, hating) armies of enemies. Strike all around the injuring (बाधः (*bādhaḥ*)) मृधः (*mṛdhaḥ*), that is, battles; Sāyaṇa notes that the words for battle are listed together, with the passage beginning स्पृधो मृध इति (*spṛdho mṛdha iti*). Therefore bring to us their desirable, well-known wealth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—the armies of enemies
+- अप भिंधि (*apa bhiṃdhi*)—destroy
+- बाधः (*bādhaḥ*)—the injuring
+- मृधः (*mṛdhaḥ*)—their deeds of battle and the like
+- परि जहि (*pari jahi*)—destroy completely
+- स्पार्हं (*spārhaṃ*)—the attractive
+- तत् (*tat*)—the well-known
+- वसु (*vasu*)—wealth
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroy all the armies of enemies. Destroy completely their injuring deeds of battle and the like. Provide us with the attractive and well-known wealth.
+
+##### English translation
+Cleave asunder all the hostile hosts, frustrate their destructive attacks, and bestow on us their desirable wealth.
+
+#### Ṛk 41
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वी॒ळाविं॑द्र॒ यत्स्थि॒रे यत्पर्शा॑ने॒ परा॑भृतं ।  
+> वसु॑ स्पा॒र्हं तदा भ॑र ॥ ४१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वीळ् । इंद्र । यत् । स्थिरे । पर्शाने । पराभृतं ।  
+> वसु । स्पार्हं । तत् । आ । भर ॥ ४१ ॥
+
+### Printed p. 487
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र त्वया च वीळ्य दृधे परैः कंपयितुमशक्ये यद्धनं पराभृतं
+> निन्यस्तं यच्चि स्थिर स्वयमणिले पराभृतं यज्ञापि निर्वाणे विमर्शनक्षमे पराभृतं
+> तत्स्वाद्यं वस्वा भर ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the wealth that has been deposited by you in a firm place that others cannot shake (वीळ्य (*vīḷya*)), the wealth deposited in a steady place, and the wealth deposited in a place able to withstand an attack, that desirable wealth bring to us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वीळ्य (*vīḷya*)—in a firm secret place
+- यत् (*yat*)—which wealth
+- पराभृतं (*parābhṛtaṃ*)—is to be kept in trust
+- यत् (*yat*)—which wealth
+- स्थिरे (*sthire*)—in an unshakeable region is guarded
+- यत् (*yat*)—which wealth
+- सर्शासनॆ (*sarśāsanè*)—is in a place that does not yield to opposition
+- तत् (*tat*)—such
+- स्वाह्यं (*svāhyaṃ*)—attractive
+- वसु (*vasu*)—wealth
+- आ भर (*ā bhara*)—provide to us
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the wealth that is deposited in a firm secret place, the wealth that is guarded in an unshakeable region, the wealth that is in a place that does not yield to opposition, such attractive wealth provide to us.
+
+##### English translation
+Bestow on us, Indra. that desirable wealth, which is deposited in strongholds, in fastnesses, and in places which stand an attack.
+
+#### Ṛk 42
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ ते वि॒श्वमा॑नुषो॒ भूरे॑र्द॒त्तस्य॒ वेद॑ति ।  
+> वसु॑ स्पा॒र्हं तदा भ॑र ॥ ४२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । ते । विश्वमानुषः । भूरेः । दत्तस्य । वेदति ।  
+> वसु । स्पार्हं । तत् । आ । भर ॥ ४२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वया ॥ विभक्तिव्यत्ययः ॥ दत्तस्य दत्तं भूरेर्बहु यस्य
+> यद्धनं ॥ कर्मणि षष्ठी ॥ विश्वमानुषः सर्वो मनुष्यो वेदति जानाति तत्सार्हं
+> स्पृहणीयं वस्वा भर ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the wealth that has been given abundantly by you, which every man knows, that desirable wealth bring to us.
+
+### Printed p. 488
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—by you
+- दत्तस्य (*dattasya*)—given
+- भूरेः (*bhūreḥ*)—abundant
+- यस्य (*yasya*)—which wealth
+- विश्वमानुषः (*viśvamānuṣaḥ*)—all men
+- वेदति (*vedati*)—know
+- तत् (*tat*)—such
+- स्पार्हं (*spārhaṃ*)—attractive
+- वसु (*vasu*)—wealth
+- आ भर (*ā bhara*)—provide to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the abundant wealth given by you, which all men know, such attractive wealth provide to us.
+
+##### English translation
+Bestow on us, Indra, that desirable wealth which all men recognize as given abundantly by you.
+
+**Colophon**
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे यक्संहिताभाष्ये षष्ठाष्टके तृतीयोऽध्यायः समाप्तः । (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe yaksaṃhitābhāṣye ṣaṣṭhāṣṭake tṛtīyo 'dhyāyaḥ samāptaḥ |*)
+
+Here ends the third chapter in the sixth aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and the Kannada translation.
+
+यवक्षरदनभ्रष्टं मात्र हीनं तु यद्वृतेत् तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yavakṣaradanabhraṣṭaṃ mātra hīnaṃ tu yadvṛtet tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS**
+
+**Sixth Aṣṭaka, Fourth Adhyāya**
+
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*) **GLOSS**
+
+नागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं । यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं । वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*nāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ | yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ | vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+**Ṛgveda-saṃhitā with the bhāṣya of Sāyaṇa (with the Kannada translation and explanation)**
+
+The fourth chapter in the sixth aṣṭaka. In the eighth maṇḍala, the forty-sixth sūkta.
+
+## Sūkta 46 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्र त्वावत इति त्रयस्त्रिंशदृचं चतुर्थं सूक्तमश्वपुत्रस्य वशाख्यस्यार्षं ।
+> प्राग्वत्सप्रपरिभाषयाद्याश्च तस्रो गायत्र्यः । तत्राद्या पादनिच्छत् त्रयः सप्तकाः
+> पादनिच्छत् । अनु. ४-४ । इत्युक्तलक्षणोपेतत्वात् । दधानो गोमदश्ववदित्येषा
+> पंचमी ककुबष्टकद्वादशाष्टकैः पादैरुपेतत्वात् । मध्यमश्वेत्ककुप् । अनु. ५-३ ।
+> इति हि तल्लक्षणं । तमिंद्रमिति षष्ठी गायत्री । तस्मिन् हि संतीति सप्तमी बृहती ।
+> यस्ते मद इत्यष्टम्यनुष्टुप् । यो दुष्टर इति नवमी सतोबृहती ! आयुजौ
+> जागतौ सतोबृहती । अनु. ८-४ । इति ह्युक्तं । गव्यो शु ण इति दशमी गायत्री ।
+> नहि ते शूरेत्येकादशी बृहती । य ऋष्व इति द्वादशी विपरीता सतोबृहती
+> प्रथमतृतीययोरष्टाक्षरा द्वितीयॆचतुर्थयोर्द्वादशाक्षरा च । युजौ चेद्विप_
+
+##### Gist of the bhāṣya
+
+The sūkta beginning त्वावत (*tvāvata*) has thirty-three Ṛks and is the fourth sūkta; its seer is Vaśa, the son of Aśva. As before, the first and the next two Ṛks are Gāyatrī. Of these the first is Pādanicṛt, since it has the stated mark of three heptasyllabic pādas, as the Anukramaṇī (Anu. 4-4) says. The fifth Ṛk, दधानो गोमदश्ववदित्येषा (*dadhāno gomadaśvavadityeṣā*), is Kakubh, being furnished with pādas of eight, twelve and eight syllables; the rule is "if the middle one is of twelve, Kakubh" (Anu. 5-3). The sixth, तमिंद्रमिति (*tamiṃdramiti*), is Gāyatrī. The seventh, तस्मिन् हि संतीति (*tasmin hi saṃtīti*), is Bṛhatī. The eighth, यस्ते मद (*yaste mada*), is Anuṣṭubh. The ninth, यो दुष्टर (*yo duṣṭara*), is Satobṛhatī; for it is said that the odd and even Jagatī pādas make Satobṛhatī (Anu. 8-4). The tenth, गव्यो शु ण (*gavyo śu ṇa*), is Gāyatrī. The eleventh, नहि ते शूर (*nahi te śūra*), is Bṛhatī. The twelfth, य ऋष्व (*ya ṛṣva*), is the reversed Satobṛhatī, with the first and third pādas of eight syllables and the second and fourth of twelve. The block breaks off in the middle of the next statement. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 482. Ṛk 30-37 of 8.45 (pp. 477-482)
+**Progress note:** Done through printed p. 488. Mandala 8 sukta 45 Rks 37-42 and the start of sukta 46
