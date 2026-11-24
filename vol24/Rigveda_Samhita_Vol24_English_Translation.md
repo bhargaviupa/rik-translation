@@ -17543,6 +17543,309 @@ The sūkta beginning अस्तभ्यात् (*astabhyāt*) is the twelft
 
 The sūkta beginning अस्तभ्नात् (*astabhnāt*) is the twelfth sūkta in the fifth Anuvāka. It has six Ṛks. The seer of this sūkta is one named Arcanānā, or the one named Nābhāka of the Kaṇva lineage is the seer; or it may also be said that for the first three Ṛks the seer is Nābhāka Kāṇva, and for the last three Ṛks the seer is Nābhāka Kāṇva or Arcanānā. For the first three Ṛks of the sūkta Varuṇa is the deity and the metre is Triṣṭup; for the last three Ṛks the Aśvin deities are the deity and the metre is Anuṣṭup. In the Anukramaṇī it is said: अस्तभ्नात् षळर्चनाना वा त्रैष्टुभमंत्यं वा तृचमाश्विनमानुष्टुभमपश्यत् ऎ (*astabhnāt ṣaḷarcanānā vā traiṣṭubhamaṃtyaṃ vā tṛcamāśvinamānuṣṭubhamapaśyat è*). The application of the sūkta is by inference. In the animal offering made addressed to the deity Varuṇa, when the oblation is offered, the first Ṛk of this sūkta beginning अस्तभ्नात् (*astabhnāt*) is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अस्तभ्नाद्दामसुरो विश्ववेदा इत्यैकादशिनाः (*astabhnāddāmasuro viśvavedā ityaikādaśināḥ*) (Ā. 3-2) **NOTE**. In the ritual act called Agniṣoma-praṇayana too this Ṛk or the following Ṛk is to be recited as the paridhānīyā, that is, the last mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अस्तभ्नाद्दामसुरो विश्ववेदा इति परिदध्यादुत्तरया वा (*astabhnāddāmasuro viśvavedā iti paridadhyāduttarayā vā*) (Ā. 4-10). In the offering of the oblation in the animal sacrifice addressed to the deity Varuṇa, the second Ṛk of this sūkta, beginning एवा वंदस्व (*evā vaṃdasva*), is to be recited as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra एवा वंदस्व वरुणं बृहंतं तत्त्वा यामि ब्रह्मणा वंदॆमाना (*evā vaṃdasva varuṇaṃ bṛhaṃtaṃ tattvā yāmi brahmaṇā vaṃdèmānā*)
 
+### Printed p. 389
+
+इति द्वे (*iti dve*) (Ā. 3-7). In the ancillary rite called Soma-pravahaṇa, the third Ṛk of this sūkta, beginning इमां धियं (*imāṃ dhiyaṃ*), is to be recited as the last mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra इमां धियं शिक्षमाणस्य देवेति निहिते परिदध्यात् (*imāṃ dhiyaṃ śikṣamāṇasya deveti nihite paridadhyāt*) (Ā. 4-4).
+
+Sūkta 42. Maṇḍala 8; Anuvāka 5; Sūkta 42. Aṣṭaka 6; Adhyāya 3; Varga 28. Number of Ṛks in the hymn: 6. Seer: 1-6. Nābhākaḥ Kāṇva Arcanānā vā. Or 1-3. Nābhākaḥ Kāṇvaḥ. 4-6. Nābhākaḥ Kāṇvaḥ Arcanānā vā. Deity: 1-3. Varuṇaḥ. 4-6. Āśvinau. Metre: 1-3. Triṣṭup. 4-6. Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्त॑भ्ना॒द्दामसु॑रो वि॒श्ववे॑दा॒ अमि॑मित वरि॒माणं॑ पृथि॒व्याः ।  
+> आसी॑द॒द्विश्वा॒ भुव॑नानि स॒म्राड्विश्वेत्तानि॒ वरु॑णस्य व्र॒तानि॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आस्तभ्नात् । द्यां । असुरः । विश्ववेदाः । अमिमात । वरिमाणं । पृथिव्या ॥  
+> आ । असीदत् । विश्वा । भुवनानि । संराट् । विश्वा । इत् । तानि । वरुणस्य । व्रतानि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्ववेदा विश्वधनोऽसुरो बलवान्वरुणो द्यामस्तभ्नात् । तथा पृथिविश्च
+> वरिमाणं परिमाणममिमात । चक्रे । एवं निर्मितानि विश्वा सर्वाणि भुवनानि सम्राड्भूत्वासीदच्च । अध्यतिष्ठच्च । वरुणस्य तान्येतानि व्रतानि कर्माणि विश्वेद्विस्वान्येव ।
+> अतो वर्णयितुमशक्यानीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa, who is the lord of all wealth (विश्ववेदा (*viśvavedā*)) and mighty (असुरः (*asuraḥ*)), has propped up the heaven. In the same way he has measured out the extent of the earth. Having become the sovereign of all the worlds thus fashioned, he has taken possession of them and presides over them. All these deeds of Varuṇa, without exception, are such that they cannot be described; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदाः (*viśvavedāḥ*)—lord of all wealth
+- असुरः (*asuraḥ*)—and possessed of power, Varuṇa
+- द्यां (*dyāṃ*)—the firmament
+- अस्तभ्नात् (*astabhnāt*)—has made to stand firm
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- परिमाणं (*parimāṇaṃ*)—the measure
+- अमिमात (*amimāta*)—has fashioned
+- सम्राट् (*samrāṭ*)—Varuṇa, the universal sovereign
+
+### Printed p. 390
+
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—the worlds
+- आसीदत् (*āsīdat*)—has encompassed and stands over
+- विश्वेत् (*viśvet*)—all
+- तानि व्रतानि (*tāni vratāni*)—those well-known deeds, all of them
+- वरुणस्य (*varuṇasya*)—are none other than the glory of Varuṇa
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa, the lord of all wealth and possessed of power, has made the firmament stand firm. He has fashioned the measure of the earth. Varuṇa, the universal sovereign, has encompassed and stands over all the worlds. All those well-known deeds are none other than the glory of Varuṇa.
+
+##### English translation
+The possessor of all wealth, the powerful Varuna has fixed the heaven ; he has meted the measure of the earth ; he presides as supreme monarch over all worlds ; these all are the functions of Varuna.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा वं॑दस्व॒ वरु॑णं बृ॒हंतं॑ नम॒स्या धीर॑म॒मृत॑स्य गो॒पां।  
+> स नः॒ शर्म॑ त्रि॒वरू॑थं॒ वि यं॑सत्पा॒तं नो॑ द्यानाष्कथिवी  ॒॑
+> उपस्थे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । वंदस्व । वरुणं । बृहंतं । नमस्य । धीरं । अमृतस्य । गोपां ।  
+> सः । नः ! शर्म । त्रिवरूथं । वि । यंसत् । पातं । नः । द्यावापृथिवी इति ।  
+> उपस्थे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः बृहंतं महांतं वरुणमेवैवं वंदस्व । स्तुहि । अमृतस्य
+> गोपां गोपयितारं धीरं प्राज्ञं वरुणं नमस्य । नमस्कुरु च । स वरुणो
+> नोऽस्मभ्यं त्रिवरूथं त्रिस्थानं शर्म गृहं वि यंसत् । प्रयच्छतु । उपस्थ उपस्थाने
+> वर्तमानानोऽस्मान्दावापृथिवी द्यावापृथिप्या पातं । रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+O praiser, thus praise the great Varuṇa. Reverence Varuṇa, the wise one, the guardian of the immortal. May that Varuṇa grant us a house of threefold protection, one that stands in three places. May Heaven and Earth, while we abide in their proximity, protect us.
+
+### Printed p. 391
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) बृहंतं (*bṛhaṃtaṃ*)—the great one
+- वरुणं एव (*varuṇaṃ eva*)—Varuṇa himself
+- वंदस्व (*vaṃdasva*)—praise
+- अमृतस्य (*amṛtasya*)—of the immortal
+- गोपां (*gopāṃ*)—the guardian
+- धीरं (*dhīraṃ*)—the wise one
+- वरुणनन्नॆ (*varuṇanannè*)—Varuṇa himself
+- नमस्य (*namasya*)—reverence
+- सः (*saḥ*)—that same Varuṇa
+- नः (*naḥ*)—to us
+- त्रिवरूथं (*trivarūthaṃ*)—the threefold protection, standing in three places
+- शर्म (*śarma*)—a house
+- वि यंसत् (*vi yaṃsat*)—may he provide and give
+- उपस्थे (*upasthe*)—who are in his very proximity
+- नः (*naḥ*)—us
+- द्यावापृथिवी (*dyāvāpṛthivī*)—both Heaven and Earth
+- पातं (*pātaṃ*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise the great Varuṇa himself. Reverence that same Varuṇa, the guardian of the immortal and the wise one. May that same Varuṇa provide and give us a house with threefold protection. May Heaven and Earth always protect us who are in their proximity.
+
+##### English translation
+Glorify then the mighty Varuna : reverence the wise guardian of ambrosia ; may he bestow upon us a thrice sheltering habitation : may heaven and earth preserve us abiding in their proximity
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां धियं॒ शिक्ष॑माणस्य देव॒ क्रतुं॒ दक्षं॑ वरुण॒ सं शि॑शाधि ।  
+> ययाति॒ विश्वा॑ दुरि॒ता तरे॑म सु॒तर्मा॑ण॒मधि॒ नावं॑ रुहेम॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । धियं । शिक्षमाणस्य । देव । क्रतुं । दक्षं । वरुण । सं । शिशाधि ।  
+> यया । अति । विश्वा । दुः५इता । तरेम । सतर्माणं ! अधि ! नावं । रुहेम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान वरुण इमां धियमिदं कर्म शिक्षमाणस्यानुतिष्ठतो
+> मम क्रतुं प्रज्ञानं दक्षं च सं शिशाधि । तीक्ष्णीकुरु । यया नाना यज्ञरूपया
+> विश्वा सर्वाणि दुरिता दुरितान्यति तरेम तां सुतर्माणं सुष्टु तारयित्रीं यज्ञरूपां नावमधि रुहेम । वयमारुहेम ! दुःखसागरतरणे हेतुत्पाद्यज्यो
+> नौरित्यत्र व्यपदिश्यते ॥
+
+##### Gist of the bhāṣya
+
+O shining Varuṇa, sharpen the understanding and the skill of me who am performing this rite. By means of that which is of the form of the sacrifice we may cross all sorrows; that well-ferrying boat which is of the form of the sacrifice, may we mount it. The sacrifice is here spoken of as a boat, being the means of crossing the ocean of sorrow. **NOTE**
+
+### Printed p. 392
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining
+- वरुण (*varuṇa*)—O Varuṇa
+- इमां धियं (*imāṃ dhiyaṃ*)—this rite
+- शिक्षमाणस्य (*śikṣamāṇasya*)—of me who am performing
+- क्रतुं (*kratuṃ*)—the knowledge
+- दक्षं (*dakṣaṃ*)—and the strength
+- सं शिशाधि (*saṃ śiśādhi*)—make them full of vigour
+- यया (*yayā*)—by which
+- विश्वा (*viśvā*)—all
+- दुरिता (*duritā*)—the afflictions that cause sorrow
+- अति तरेम (*ati tarema*)—we may cross
+- सुतर्माणं (*sutarmāṇaṃ*)—that which brings safely to the shore
+- नावं (*nāvaṃ*)—this boat, of the form of the sacrifice
+- अधि रुहेम (*adhi ruhema*)—help us to mount it (to perform it)
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Varuṇa, make the knowledge and the strength of me, who am performing this sacrificial rite, full of vigour. Help us to mount this boat of the form of the sacrifice, which brings safely to the shore, by which we may cross all the afflictions that cause sorrow (to carry it out).
+
+##### English translation
+Divine Varuna, animate the sacred acts of me engaging in this your worship : may we ascend the safebearing vessel by which we may cross over all difficulties.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ ग्रावा॑णो अश्विना धी॒भिर्विस्रा॑ अचुच्यवुः ।  
+> नास॑त्या॒ सोम॑पीतये॒ नभं॑तामन्य॒के स॑मे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ ! वां । ग्रावाणः । अश्विना । धीभिः । विप्राः । अचुच्यवुः ।  
+> नासत्या । सोमपीतये । नभंतां । अन्यके । समे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या सत्यौ सत्यप्रणीतारौ वा । तथा च यास्कः । सत्यावेव वासत्यावित्यार्णवाभः सत्यस्य प्रणीतारौ । नि. ६-१३ । इति । अश्विनाश्विनौ वां युवां सोमपीतये सोमस्य पानाय विप्राः प्राज्ञा ऋत्विजो ग्रावाणः सोमाभिषवपाषाणाश्च
+> धीभिः कर्मभिः स्वस्वव्यापारैरचुच्यवुः । अभिगच्छंति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, that is, the true ones, or the leaders of truth. So Yāska says: सत्यावेव वासत्यावित्यार्णवाभः सत्यस्य प्रणीतारौ (*satyāveva vāsatyāvityārṇavābhaḥ satyasya praṇītārau*) (Ni. 6-13). O Aśvins, for your drinking of the Soma the wise priests and the pressing stones with which the Soma is pressed come up with their respective functions (धीभिः (*dhībhiḥ*), by acts). The rest is established.
+
+### Printed p. 393
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O inciters of truth
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—your
+- सोमपीतये (*somapītaye*)—for the drinking of the Soma
+- विप्राः (*viprāḥ*)—the wise priests
+- ग्रावाणः (*grāvāṇaḥ*)—the pressing stones
+- धीभिः (*dhībhiḥ*)—with their respective prescribed acts
+- आ अचुच्यवु (*ā acucyavu*)—gather (are engaged)
+- अन्यके समे (*anyake same*)—all our enemies
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, inciters of truth, for your drinking of the Soma the wise priests and the pressing stones too are engaged in their respective prescribed acts. May all our enemies perish.
+
+##### English translation
+The sacred stones. Aswins, the picus worshippers, Nasatyas, have fallen upon their sacred functics. (to induce you) to drink the Soma : may all our enemies perish. **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ वा॒मत्रि॑रश्विना गी॒र्भिर्विप्रो॒ अजो॑हवीत् ।  
+> नास॑त्या॒ सोम॑पीतये॒ नभं॑तामन्य॒के स॑मे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । वां । अत्रिः । अश्विना । गीर्भिः । विप्रः । अजोहवीत् ।  
+> नासत्या । सोमपीतये । नभंतां । अन्यके । समे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्यावश्विन् वां युवां विप्रः प्राज्ञोऽत्रिर्यथा गीर्भिः स्तुतिभिः
+> सोमपीतयेऽजोहवीत् तथाहमपि जोहवीमि ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, O Aśvins: as the wise Atri invoked you with songs of praise for the drinking of the Soma, so do I too invoke you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O you of the nature of truth
+- अश्विना (*aśvinā*)—O Aśvin deities
+- विप्रे (*vipre*)—the wise
+- अत्रिः (*atriḥ*)—the seer Atri
+- वां (*vāṃ*)—you
+- सोमपीतये (*somapītaye*)—for the drinking of the Soma
+
+### Printed p. 394
+
+- यथा (*yathā*)—in what manner
+- गीर्भिः (*gīrbhiḥ*)—with songs of praise
+- अजोहवीत् (*ajohavīt*)—invoked with prayer (in that same manner I too invoke)
+- अन्यके समे (*anyake same*)—all our enemies
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, of the nature of truth, in the manner in which the wise seer Atri invoked you with songs of praise for the drinking of the Soma, in that same manner I too invoke you. May all our enemies perish.
+
+##### English translation
+In like manner as the pious Atri. Aswins, invoked you with hymns, so (I invoke you), Nasatyas, to drink the Soma : may all our enemies perish.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा ना॑मह्व ऊ॒तये॒ यथाहु॑वंत॒ मेधि॑राः ।  
+> नास॑त्या॒ सोम॑पीतये॒ नभं॑तामन्य॒के स॑मे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । वां । अह्वे । ऊतये । यथा । आहुवंत । मेधिराः ।  
+> नासत्या । सोमपीतये । नभंतां । अन्यके । समे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> (इयं व्याख्यातचरा ॥) हे नासत्या वां युवां यथा मेधिराः प्राज्ञा
+> अहुवंत आहूतवंतः एवमहमूतये रक्षणाय सोमस्य पीतये चाह्वे ।
+> ह्वयामि ।
+
+##### Gist of the bhāṣya
+
+This Ṛk is one that has been explained before. O Nāsatyas, as the wise ones invoked you, so do I invoke you for protection and for the drinking of the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities, of the nature of truth
+- यथा (*yathā*)—in what manner
+- मेधिराः (*medhirāḥ*)—the wise seers
+- वां (*vāṃ*)—you
+- ऊतये (*ūtaye*)—for protection
+- अहुवंत (*ahuvaṃta*)—invoked
+- एव (*eva*)—in that same manner
+- (अहं (*ahaṃ*)—I)
+- सोमपीतये (*somapītaye*)—for your drinking of the Soma
+- (वां (*vāṃ*)—you)
+- अह्वे (*ahve*)—invoke
+- अन्यके समे (*anyake same*)—all our enemies
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+### Printed p. 395
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, of the nature of truth, in the manner in which the wise seers invoked you for protection, in that same manner I too invoke you for the drinking of the Soma. May all our enemies perish.
+
+##### English translation
+In like manner as the wise invoke you for protection, so do I invoke you: Nasatyas to drink the Soma : may all our enemies perish.
+
+## Sūkta 43 (Maṇḍala 8)
+
+**NOTE**
+
+In the sixth Anuvāka there are six sūktas. Among them the first, beginning इमे विप्रस्येति (*ime viprasyeti*), has thirty-three Ṛks and has Agni as its deity; the seer is of the Aṅgirasa line **NOTE**. So it is said in the Anukramaṇī, and the metre is Gāyatrī; in the Āśvina-śastra, and in the Agni-related rite, two sūktas beginning with this one are recited. The sūtra says: इमे विप्रस्येति सूक्ते (*ime viprasyeti sūkte*) (Ā. 4-13). **NOTE**
+
+In the Kārīrī and Avabhṛtha sacrifices the Ṛk of this sūkta beginning स्याप्सग्न (*syāpsagna*) **NOTE** is the anuvākyā of the first ājyabhāga offering (Ā. 2-13). For the Āgnīdhra priest at the morning pressing it is the yājyā of the prasthita offering; and it is heard in the Brāhmaṇa: उक्षान्नाय वशान्नायेत्याग्निध्रो यजति (*ukṣānnāya vaśānnāyetyāgnidhro yajati*) (Ai. Brā. 6-10). In the Agnimatī offering the Ṛk त्वं ह्यग्न (*tvaṃ hyagna*) is the yājyā (Ā. 3-13). It is used also at the kindling of the fire by friction (Ā. 2-16). In the Āgneya offering on eight potsherds for a desired object, the Ṛk beginning तुभ्यं ता अंगिरस्तम (*tubhyaṃ tā aṃgirastama*) is the anuvākyā (Ā. 2-10). When the consecrated fire departs, it is to be offered as a single oblation on the alternative of mounting the fire (Ā. 3-10). In the Agni offering on the union of lightning fire and other fires, the Ṛk beginning यदग्ने दिविजा (*yadagne divijā*) is the yājyā (Ā. 3-13). **NOTE**
+
+In the sixth Anuvāka of the eighth Maṇḍala there are six sūktas. Among them the sūkta beginning विप्रस्य (*viprasya*) is the first. It has thirty-three Ṛks. For this sūkta Virūpa **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 388. Mandala 8 sukta 41 rks 7-10, sukta 42 start
+**Progress note:** Done through printed p. 395. Mandala 8 sukta 42 rks 1-6 (continued from p.388), start of sukta 43 intro
