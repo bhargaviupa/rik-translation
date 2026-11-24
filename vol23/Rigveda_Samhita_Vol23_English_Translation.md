@@ -27391,6 +27391,301 @@ Infinite are his bounties, many are his glories: ample treasures have reached th
 
 The gods (देवासः (*devāsaḥ*)) placed Indra in front, to slay Vṛtra (वृत्राय हंतवे (*vṛtrāya haṃtave*)), the asura who obstructs.
 
+### Printed p. 660
+
+> मर्थे तवेन्प्रत्ययः । इममिंद्रं पुरो दधिरे । पुरस्तात्स्वामित्वेनाधारयन् ।
+> वाणीर्वाण्यः स्तुतिरूपा वाचश्चेममेवेंद्रमनूषत । स्तुवंति । किमर्थं । सं
+> समीचीनायौजसे बलार्थं । यथा वृत्रवधानुगुणमुत्कृष्टं बलमस्य जायते
+> तथा स्तुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss of the verse. The gods placed this Indra in front, holding him up as their lord. The speeches, that is the praises, also praise this same Indra. For what purpose? सं (*saṃ*) is joined with ओजसे (*ojase*): for strength. The sense is that they praise in such a way that an excellent strength, suited to the slaying of Vṛtra, arises in him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—the gods
+- वृत्राय (*vṛtrāya*)—of Vṛtra the Asura
+- हंतवे (*haṃtave*)—for the destruction
+- इंद्रं (*iṃdraṃ*)—Indra
+- पुरः (*puraḥ*)—as their leader
+- दधिरे (*dadhire*)—have placed
+- वार्णी (*vārṇī*)—their praises also **NOTE**
+- इंद्रं (*iṃdraṃ*)—Indra himself
+- सं (*saṃ*)—complete
+- ओजसे (*ojase*)—for the increase of strength
+- अनूषत (*anūṣata*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+For the destruction of Vṛtra the Asura the gods have placed Indra himself as their leader. Their praises also praise Indra himself, to increase his strength.
+
+##### English translation
+The gods have placed Indra (foremost) for the destruction of Vritra ; their praise has been addressed to him to enhance his vigour.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हांतं॑ महि॒ना व॒यं स्तोमे॑भिर्हवन॒श्रुतं॑ ।  
+> अ॒र्कैर॒भि प्र णो॑नुमः॒ समोज॑से ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महांतं । महिना । वयं । स्तोमेभिः । हवनश्रुतं ।  
+> अर्कैः । अभि । प्र । नोनुमः । सं । ओजसे ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महिना महिम्मा महांतं सर्वेभ्योऽधिकं हवनश्रुतं हवनस्याह्वानस्य
+> शोतारमिंद्रं वयं स्तोमेभिः स्तोमैस्त्रिवृत्पंचदशादिभिरर्कैरर्चनसाधनैः
+> शस्त्रैश्चाभि प्र णोनुमः । अभिमुख्येन प्रकर्षेण पुनः पुनः स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+महिना (*mahinā*) means by greatness. Indra is great, greater than all, and हवनश्रुतं (*havanaśrutaṃ*) is the hearer of the invocation. We praise him with स्तोमेभिः (*stomebhiḥ*), the stomas such as the trivṛt and pañcadaśa, and with अर्कैः (*arkaiḥ*), the instruments of worship, and with the śastras. अभि प्र णोनुमः (*abhi pra ṇonumaḥ*) means we praise him facing him, intensely, again and again.
+
+### Printed p. 661
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिना (*mahinā*)—by greatness
+- महांतं (*mahāṃtaṃ*)—him who is exceedingly great
+- हवनश्रुतं (*havanaśrutaṃ*)—Indra, who hears our invocation
+- वयं (*vayaṃ*)—we
+- स्तोमेभिः (*stomebhiḥ*)—with the stomas such as the trivṛt
+- अर्कैः (*arkaiḥ*)—with the venerable śastra mantras
+- सं (*saṃ*)—complete
+- ओजसे (*ojase*)—for the increase of strength
+- अभि प्रणो नुमः (*abhi praṇo numaḥ*)—worship fully (the Kannada has the singular "I worship")
+
+##### भावार्थ (Bhāvārtha)
+
+We worship Indra, who is great in majesty and hears our invocation, with the stomas such as the trivṛt and with the venerable śastra mantras, for the increase of his full strength.
+
+##### English translation
+We repeatedly glorify with praises and adorations him who is great with greatness, who hears our invocations, (to enhance) his vigour.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यं वि॑वि॒क्तो रोद॑सी॒ नांतरि॑क्षाणि व॒ज्रणं॑ ।  
+> अमा॒दिद॑स्य तित्विषे॒ समोज॑सः ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यं । विविक्तः । रोदसी इति । न । अंतरिक्षाणि । वज्रिणं ।  
+> अमात् । इत् । अस्य । तिश्विषे । सं । ओजसः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यं वज्रीणं वज्रवंतमिंद्रं रोदसी द्यावापृथिव्यौ न विविक्तः न पृथक्कुरुतः
+> स्वसमीपात्पृथक्कर्तुं न शक्नुतः । व्यावापृथिव्यौ व्याप्य य इंद्रो वर्तत इत्यर्थः ॥
+> विचिर् पृथग्भावे॥ अंतरिक्षाण्यंतरा क्षांतानि द्यावापृथिव्योर्वर्तमानानि गंधर्वादीनां स्थानानि-च यं न पृथक्कुर्वंति । अस्येंद्रस्यामादित् । अमति रुजति
+> शत्रूननेनेत्यमो बलं । बलवादेव तित्विषे । सर्वं जगद्दीप्यते । किमर्थं । ओजसो
+> बलस्य संगमाय ॥ यद्वा । ओजःशब्दाद्विहितस्य विनो बहुलं छंदसीति लुक् ॥
+
+##### Gist of the bhāṣya
+
+The thunderbolt-bearing Indra is one whom रोदसी (*rodasī*), heaven and earth, do not separate: they cannot make him separate from their vicinity. The sense is that Indra abides pervading heaven and earth. The अंतरिक्षाणि (*aṃtarikṣāṇi*) also, the places of the Gandharvas and others lying between heaven and earth, do not separate him. अमात् (*amāt*): अम (*ama*) is strength, since by it one afflicts enemies. By strength alone तित्विषे (*titviṣe*): the whole world shines. For what purpose? For the union with ओजसः (*ojasaḥ*), strength. Or else, the *vin* affix ordained after the word ओजस् (*ojas*) is dropped (बहुलं छंदसीति लुक् (*bahulaṃ chaṃdasīti luk*)).
+
+### Printed p. 662
+
+> ओजस्विनो बलवतोऽस्येंद्रस्येति योज्यं । समित्युपसर्गः स तित्विष इत्यनेन
+> संबध्यते ॥
+
+##### Gist of the bhāṣya
+
+So it is to be construed as "of this Indra, who is mighty and strong". सं (*saṃ*) is a preverb and is connected with तित्विषे (*titviṣe*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिणं (*vajriṇaṃ*)—the bearer of the thunderbolt
+- यं (*yaṃ*)—which Indra
+- रोदसी (*rodasī*)—heaven and earth
+- न विविक्तः (*na viviktaḥ*)—cannot separate (cannot remove)
+- अंतरिक्षाणि (*aṃtarikṣāṇi*)—the atmospheres also
+- न (*na*)—cannot stay apart having removed him; such
+- ओजसः (*ojasaḥ*)—mighty
+- अस्य (*asya*)—of this Indra
+- अमात् इत् (*amāt it*)—by strength alone
+- सं तित्विषे (*saṃ titviṣe*)—the whole world shines
+
+##### भावार्थ (Bhāvārtha)
+
+The thunderbolt-bearing Indra is one whom heaven and earth cannot remove so as to stand apart, and whose lordship the atmosphere cannot remove and escape. By the strength of this mighty Indra the whole world shines.
+
+##### English translation
+The thunderer, from whom neither the heaven and earth nor the firmament are separated : from the strength of whom, the mighty one, ( the world ) derives lustre.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र पृत॒नाज्ये॑ दे॒वास्ता॑ दधि॒रे पु॒रः ।  
+> आदित्ते॑ हर्य॒ता हरी॑ ववक्षतुः ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । पृतनाज्ये । देवाः । त्वा । दधिरे । पुरः ।  
+> आत् । इत् । ते । हर्यता । हरी इति । ववक्षुतुः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षोडशशस्त्रे यदिंद्र पृतनाज्य इति तृचः । सूत्र्यते हि । यदिंद्र पृतनाज्येयं ते अस्तु हर्यत इत्यौष्ठिहबार्हतौ तृचौ । आ. ६-२. । इति ॥
+> हे इंद्र पृतनाज्ये । संग्रामनामैतत् ॥ पृतनाः सेना अजंति गच्छंत्यस्मिन्निति
+
+##### Gist of the bhāṣya
+
+In the Ṣoḍaśin śastra the triplet beginning यदिंद्र पृतनाज्ये (*yadiṃdra pṛtanājye*) is used. For it is stated in the sūtra: यदिंद्र पृतनाज्येयं ते अस्तु हर्यत इत्यौष्ठिहबार्हतौ तृचौ । आ. ६-२. । इति॥ (*yadiṃdra pṛtanājyeyaṃ te astu haryata ityauṣṭhihabārhatau tṛcau | ā. 6-2. | iti‖*) (Ā. Sū. 6-2). "O Indra, in पृतनाज्ये (*pṛtanājye*)": this is a name for battle. It is the place where armies go, or where armies are conquered.
+
+### Printed p. 663
+
+> वा पृतना जीयतेऽत्रेति वा पृतनाज्यं संग्रामः ॥ तत्र त्वा त्वां यद्यदा देवाः
+> पुरो दधिरे वृत्रहननाय पुरतोऽधारयन् आदिदनंतरमेव हर्यता हर्यता
+> कांतौ ॥ हर्य गतिकांत्योः । भ्रमृदृशीत्यादिनौणादिकोऽतच् प्रत्ययः ॥ ईदृशौ
+> हरी अश्वा ते त्वां ववक्षतुः । अवहतां ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+In that battle, when the gods placed you in front for the slaying of Vṛtra, immediately after that your two हर्यता (*haryatā*), beloved, हरी (*harī*), horses, bore you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पृतनाज्ये (*pṛtanājye*)—in battle
+- त्वा (*tvā*)—you
+- यत् (*yat*)—when
+- देवाः (*devāḥ*)—the gods
+- पुरः दधिरे (*puraḥ dadhire*)—placed in front
+- आदित् (*ādit*)—immediately thereafter
+- हर्यता (*haryatā*)—radiant
+- हरी (*harī*)—your horses
+- ते (*te*)—you
+- नवक्षतुः (*navakṣatuḥ*)—bore **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the gods placed you in front in battle, immediately thereafter your radiant horses bore you.
+
+##### English translation
+When, Indra, the gods placed you foremost in the battle, then your beloved horses bore you.
+
+##### विशेषविषयगळु (Special Topics)
+
+The three Ṛks beginning यदिंद्र पृतनाज्ये (*yadiṃdra pṛtanājye*) in the Ṣoḍaśi śastra mantras are to be recited for the Ṛks of the Uṣṇih metre, as explained by the Āśvalāyana Śrauta Sūtra यदिंद्र पृतनाज्येयं ते अस्तु हर्यत इत्यौष्णिहबार्हत् तृचौ (*yadiṃdra pṛtanājyeyaṃ te astu haryata ityauṣṇihabārhat tṛcau*) (Ā. Sū. 6-2).
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा वृ॒त्रं न॑दी॒वृतं॒ शव॑सा वज्रि॒न्नव॑धीः ।  
+> आदित्ते॑ हर्य॒ता हरिः॑ नवक्षतुः ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । वृत्रं । नदीऽवृतं । शवसा । वज्रिन् । अवधीः ।  
+> आत् । इत् । ते । हर्यता । हरी इति । ववक्षतुः ॥ २६ ॥
+
+### Printed p. 664
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिन् वज्रवन्निंद्र नदीवृतं । नदनान्नद्य आपः । श्रूयते हि । अहावनदता हते तस्मादा नद्यो नाम स्थ । तै. सं. ५-६-१-२. । इति । ता आवृण्वंतं
+> वृत्रमवर्षणशीलं मेघमसुरं वा यदा यस्मिन्काले शवसा बनेनावधीः अहिंसीः।
+> शिष्टं समानं ॥
+
+##### Gist of the bhāṣya
+
+O thunderbolt-bearer Indra, नदीवृतं (*nadīvṛtaṃ*): *nadyaḥ* are waters, from नदन (*nadana*) (roaring). It is heard: अहावनदता हते तस्मादा नद्यो नाम स्थ । तै. सं. ५-६-१-२. (*ahāvanadatā hate tasmādā nadyo nāma stha | tai. saṃ. 5-6-1-2.*) (Tai. Saṃ. 5-6-1-2). Vṛtra, the non-raining cloud or the Asura, who encloses them, whom you slew when, by strength. The rest is the same as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt
+- नदीवृतं (*nadīvṛtaṃ*)—who lay across, covering the flowing rivers
+- वृत्रं (*vṛtraṃ*)—Vṛtra the Asura
+- यदा (*yadā*)—when
+- शवसा (*śavasā*)—by your strength
+- अवधीः (*avadhīḥ*)—you slew
+- आदित् (*ādit*)—immediately thereafter
+- ते (*te*)—you
+- हर्यता (*haryatā*)—radiant
+- हवी (*havī*)—your horses **NOTE**
+- ववक्षतुः (*vavakṣatuḥ*)—bore
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, immediately after you slew with your strength Vṛtra the Asura, who lay blocking and covering the flowing rivers, your radiant horses bore you.
+
+##### English translation
+When, thunderer, by your strength you slew Vritra, the obstructer of the waters, then your beloved horses bore you.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा ते॒ विष्णु॒रोज॑सा॒ त्रीणि॑ स॒दा वि॑चक्र॒मे ।  
+> आदित्ते॑ हर्य॒ता हरी॑ ववक्षतुः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । ते। विष्णुः । ओजसा । त्रीणि । पदा । विचक्रमे ।  
+> आत् । इत् । ते । हर्यता । हरी इति । ववक्षतुः ॥ २७ ॥
+
+### Printed p. 665
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तवानुजो विष्णुर्व्यापनशीलो देव ओजसा बलेन यदा
+> यस्मिन्काले त्रीणि पदानि पदत्रयरूपेण त्रील्लोकान् विचक्रमे विक्रांतवान्
+> परिभिन्नवान् । गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your younger brother Viṣṇu, the pervading god, when by ओजसा (*ojasā*), strength, he strode the three worlds in the form of three steps, विचक्रमे (*vicakrame*), he advanced and traversed them. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ते (*te*)—your younger brother
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- ओजसा (*ojasā*)—by his prowess
+- यदा (*yadā*)—when
+- त्रीणि (*trīṇi*)—his three steps
+- विचक्रमे (*vicakrame*)—spread over the three worlds and strode
+- आदित् (*ādit*)—immediately thereafter
+- हर्यता (*haryatā*)—radiant
+- हरी (*harī*)—your horses
+- ते (*te*)—you
+- ववक्षतुः (*vavakṣatuḥ*)—bore
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, immediately after your younger brother Viṣṇu, by his prowess, spread his three steps over the three worlds and strode them, your radiant horses bore you.
+
+##### English translation
+When your (younger brother) Vishnu by (his) strength stepped his three paces, then verily your beloved horses bore you.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा ते॑ हर्य॒ता हरी॑ वावृ॒धाते॑ दि॒वेदि॑वे ।  
+> आदित्ते॒ विश्वा॒ भुव॑नानि येमिरे ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । ते । हर्यता । हरी इति । ववृधाते इति । दिनेऽदिने ।  
+> आत् । इत् । ते । विश्वा । भुवनानि । येमिरे ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वदीयौ हर्यता हर्यतौ कांतौ हरी हरणशीलावश्वौ दिवे दिवे
+
+##### Gist of the bhāṣya
+
+O Indra, your two हर्यता (*haryatā*), beloved, हरी (*harī*), horses, which carry you, दिवे दिवे (*dive dive*).
+
 ---
 
-**Progress note:** Done through printed p. 659. pp. 654-659 (batch API)
+**Progress note:** Done through printed p. 665. pp. 660-665 (batch API)
