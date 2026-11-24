@@ -34450,6 +34450,327 @@ O Agni, son of strength, worshipped with ghee and the like, of favourable brilli
 ##### English translation
 Agni, son of strength, shining with friendly radiance, and worship-ped with oblations, may I, who, although mortal, am as you are, become immortal.
 
+### Printed p. 814
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त्वा॑ रासीया॒भिश॑स्तये वसो॒ न पा॑प॒त्वाय॑ संत्य ।  
+> न मे॑ स्तो॒ताम॑ती॒वा न दुर्हि॑तः॒ स्याद॑ग्ने॒ न  ॒॑
+> पापया ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । त्वा । रासीय ! अभिशस्त्रये । वसो इति । न । पापत्वाय । संत्य ।  
+> न । मे । स्तोता । अमत्रिवा । न । दुःहितः । स्यात् ! अग्ने । न ।  
+> पापया ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासकाग्ने त्वा त्वामभिशस्तयेऽभिशंसनाय मिथ्यापवादाय
+> हिंसाय्कॆ च न रासीय । नाक्रोशयेयं ॥ रासृ शब्दे ॥ हे संत्य संभजनीयाग्ने
+> पापत्वाय त्वां न रासीय । मे मदीयः स्तोता चानभिमतवचनेन त्वां नाक्रोशयतु । अत एनामतीना । अमतिरशोभना बुद्धिः । तद्वान् अपि च दुर्हितः शत्रुर्हे
+> अग्ने अस्माकं न स्यात् । न भवतु । आत एव पापयाशोभनया बुद्धा स न
+> बाधतां ॥
+
+##### Gist of the bhāṣya
+
+"O Vasu, Agni the giver of dwellings, may I not रासीय (*rāsīya*) you, that is, cry out against you, for अभिशस्तये (*abhiśastaye*): for false calumny and for injury." The root रासृ (*rāsṛ*) means "to sound". "O Santya, worthy of being served, may I not (cry out against you) for sinfulness. Let my praiser too not cry out against you with unwelcome speech. Therefore अमतीवा (*amatīvā*): अमति (*amati*) is an unlovely, bad intellect, and one who has it. May no enemy of ours, O Agni, exist; let him not be. And so let him not afflict us with that evil intellect."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Agni, giver of dwellings
+- त्वा (*tvā*)—you
+- अभिशस्तये (*abhiśastaye*)—so as to curse us
+- न रासीय (*na rāsīya*)—I cannot do the act of becoming angry
+- संत्य (*saṃtya*)—O revered Agni
+- पापत्वाय (*pāpatvāya*)—the act of committing sin in regard to you
+- न (*na*)—I cannot do
+- मे (*me*)—my
+- स्तोता (*stotā*)—praiser (you)
+- न (*na*)—cannot make angry
+- अग्ने (*agne*)—O Agni
+- अमतीवा (*amatīvā*)—of evil mind
+- दुर्हितः (*durhitaḥ*)—enemy
+- न स्यात् (*na syāt*)—let him not come to be
+- पापया (*pāpayā*)—through sinful intent
+- न (*na*)—let him not harm us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwellings, I cannot do the act of becoming angry so as to curse us
+
+### Printed p. 815
+
+##### भावार्थ (Bhāvārtha)
+
+(O Agni) — I cannot do it. O revered Agni, I cannot commit sin in regard to you. My praiser too will not make you wrathful. O Agni, let an enemy of evil mind not befall us. Let him not harm us with sinful intent.
+
+##### English translation
+May I not be accused, Vasu, of calumniating you, nor, gracious (Agni), of sinfulness (against you); let not (the priest) the reciter of my praises be dull of intellect or ill-disposed; (may he not err). Agni, through wickedness.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पि॒तुर्न पु॒त्रः सुभृ॑तो दुरो॒ण आ दे॒वा ए॑तु॒ प्र णो॑  ॒
+> हविः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पितुः । न । पुत्रः । सुभृतः । दुरोणेः । आ । देवान् । एतु । प्र । नः ।  
+> हविः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पितुर्न पुत्रः पितुः पुत्र इवास्माकं सुभृतः सुष्टु भर्ता । यद्वा । पित्रा पुत्र
+> इवास्माभिः सम्यग्कृतो हविर्भिः पोषितः । अयमग्निः पुत्र इवास्माकं सुभृतो
+> दुरोणे यज्ञगृहे देवानामभिलक्ष्य नोऽस्माकं हविः प्रैतु । प्रगमयतु ।
+> यद्वा । अग्नैरैतु । आगच्छतु । अस्मदीयं हविश्च देवान् प्राप्नोतु ॥
+
+##### Gist of the bhāṣya
+
+"Like a son of a father": like a father's son, he is our सुभृतः (*subhṛtaḥ*), well-supporter. Or else: like a son by a father, he has been well made by us, nourished with oblations. This Agni, like a son well cherished by us, in the sacrificial house (दुरोणे (*duroṇe*)) directed towards the gods, let him carry forward our oblation. Or else: let Agni come; and let our oblation reach the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितुः (*pituḥ*)—by the father
+- पुत्रः न (*putraḥ na*)—as a son is nourished
+- सुभृतः (*subhṛtaḥ*)—Agni, reared by us with reverence
+- दुरोणे (*duroṇe*)—in the sacrificial house
+- देवान् आ (*devān ā*)—facing the gods
+- नः (*naḥ*)—our
+- हवी (*havī*)—oblation
+- प्र एतु (*pra etu*)—let him take it and present it
+
+##### भावार्थ (Bhāvārtha)
+
+As a son is nourished by his father, let Agni, reared by us with reverence, in the sacrificial house, facing the gods, take our oblation and present it.
+
+### Printed p. 816
+
+##### English translation
+Cherished by us as a son by a father, let him (Agni) in our dwelling convey promptly our oblation to the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+For देवान् प्र एतु (*devān pra etu*) one may also give this meaning: Agni (brings) the gods facing our oblation.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवा॒हम॑ग्न ऊ॒तिभि॒र्नेदि॑ष्ठाभिः सचेय॒ जोष॒मा  ॑
+> वसो ।  
+> सदा॑ दे॒वस्य॒ मर्त्यः॑ ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । अहं । अग्ने । ऊतिभिः । नेदिष्ठाभिः । सचेय । जोषं । आ ।  
+> वसो इति ।  
+> सदा । देवस्य । मर्त्यः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासकाग्ने नेदिष्टाभिरंतिकतमाभिर्ऋजुगामिनीभिर्वा देवस्य
+> तवोतिभी रक्षाभिर्मर्तो मनुष्योऽहं स्तोता सदा सर्वदा जोषमा सचेय ।
+> प्रीतिमभिसेवेय ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, Agni the giver of dwellings, through the नेदिष्टाभिः (*nediṣṭābhiḥ*) protections of you the god, that is, the nearest ones, or those that go straight, may I, a mortal man and praiser, always enjoy जोषं (*joṣaṃ*), your favour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O giver of dwellings
+- अग्ने (*agne*)—O Agni
+- देवस्य (*devasya*)—of the god-natured
+- तन (*tana*)—your
+- नेदिष्टाभिः (*nediṣṭābhiḥ*)—very near to us
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- मर्त्यः (*martyaḥ*)—a mortal
+- अहं (*ahaṃ*)—I
+- सदा (*sadā*)—always
+- जोषं (*joṣaṃ*)—your favour
+- आ सचेय (*ā saceya*)—may I enjoy
+
+### Printed p. 817
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwellings, may I, a mortal, always enjoy your favour, you who are of the nature of a god, with your protections that are very near to us.
+
+##### English translation
+Agni, granter of dwellings, may I, who am mortal, ever enjoy pleasure through your proximate protections.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ क्रत्वा॑ सनेयं॒ तव॑ रा॒तिभि॒रग्ने॒ तव॒ प्रश॑स्तिभिः ।  
+> त्वामिदा॑हुः॒ प्रम॑तिं वसो॒ ममाग्ने॒ हर्ष॑स्व॒  ॑
+> दातवे ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । क्रत्वा । सनेयं । तव । रातिभिः । अग्ने । तव । प्रशस्तिभिः ।  
+> त्वां । इत् । आहुः । प्रमतिं । वसो इति । . ६ । अग्ने । हर्षस्व ।  
+> दातवे । २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तव क्रत्वा त्वदीयेन परिचरणरूपेण कर्मणा सनेयं । त्वां
+> संभजेयं । एतदेव विशदयति । तव रातिभिस्त्वदीयैर्हविर्दानैश्च सनेयं । तथा
+> तव प्रशस्तिभिः प्रशंसनैः स्तोत्रैश्च त्वां संभजेयं । अस्यॆव संभजने किं कारणं
+> तदाह । हे वसो वासकाग्ने मम स्तोतुः प्रमतिं प्रकृष्टबुद्धिं रक्षकं त्वामित्तामेवाहुः । ब्रह्मवादिनः कथयंति । अतो हे अग्ने दातवे दातुं हर्षस्व । हृष्टो
+> भव । हर्षयुक्तः सन् बहु धनं प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, may I सनेयं (*saneyaṃ*) you, that is, partake of you, through क्रत्वा (*kratvā*), your own work of the form of service. He makes this very thing clear: through your gifts of oblations may I partake of you, and likewise through your praises, your laudations and hymns. What is the reason for this partaking? He says: O Vasu, enlivener Agni, Brahma-speakers declare you alone to be प्रमतिं (*pramatiṃ*), of excellent mind, the protector of me the praiser. Therefore, O Agni, rejoice to give; be glad; being joyful, bestow much wealth. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—you
+- क्रत्वा (*kratvā*)—by acts of service
+
+### Printed p. 818
+- सनेयं (*saneyaṃ*)—I shall worship
+- तव (*tava*)—you
+- रातिभिः (*rātibhiḥ*)—by gifts of oblations too I shall worship
+- तव (*tava*)—you
+- प्रशस्तिभिः (*praśastibhiḥ*)—by excellent praises (I shall worship)
+- वसो (*vaso*)—O Agni, giver of dwellings
+- मम (*mama*)—of me, the praiser
+- प्रमतिं (*pramatiṃ*)—the protector of excellent mind
+- त्वां इत् (*tvāṃ it*)—you alone
+- आहुः (*āhuḥ*)—the Brahma-speakers too praise
+- अग्ने (*agne*)—O Agni
+- दातवे (*dātave*)—to provide us wealth
+- हर्षस्व (*harṣasva*)—be joyful
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I worship you with acts of service. I shall worship you with gifts of oblations too. I shall worship you with excellent praises too. O Agni, giver of dwellings, the Brahma-speakers too praise you alone as the excellent protector of me, the praiser. O Agni, be joyful, to provide me wealth.
+
+##### English translation
+May I propitiate you, Agni by worshipping you, by the gifts presented to you, by your praises: verily, Vasu, they have called you the benevolent-minded: delight, Agni, to give me wealth,
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सो अ॑ग्ने॒ तवो॒तिभिः॑ सु॒वीरा॑भिस्तिरते॒ वाज॑भर्मभिः ।  
+> यस्य॒ त्वं स॒ख्यमा॒वरः॑ ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सः । अग्ने । तव । ऊतिभिः । सुवीराभिः । तिरते । वाजभर्मभिः ।  
+> यस्य । त्वं । सख्यं । आवरः ॥ ३८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एव प्रशास्तुः शस्त्रे प्र स इति प्रगाथो वैकल्पिकोऽनुरूपः ।
+> सूत्र्यते हि । प्र सो अग्ने तवोतिभिरग्निं वो वृधंतं । ७-८. । इति ॥
+> हे अग्ने तपोभिभी रक्षाभिः स यजमानः प्र शिरते ! प्रवर्धते ऊतयो
+
+##### Gist of the bhāṣya
+
+In the same sacrifice mentioned before, in the śastra of the Praśāstṛ, the pragātha beginning प्र स (*pra sa*) is an optional anurūpa. It is stated in the sūtra: प्र सो अग्ने तवोतिभिरग्निं वो वृधंतं । ७-८. । (*pra so agne tavotibhiragniṃ vo vṛdhaṃtaṃ | 7-8. |*) O Agni, through your protections that sacrificer प्र तिरते (*pra tirate*), prospers. The protections (ūti) are qualified
+
+### Printed p. 819
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विशेष्यंते । सुवीराभिः । शोभना वीराः पुत्रादयो यासु तास्तथोक्ताः । वाजभर्मभिः । वाजानामन्नानां बलानां ना भर्म भरणं यासु तादृशीभिः । हे अग्ने
+> त्वं यस्य यजमानस्य सख्यं सखित्वं मित्रत्वमावरः अभिवृणोषि स तिरत इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+सुवीराभिः (*suvīrābhiḥ*): those in which there are excellent heroes, sons and others, are so called. वाजभर्मभिः (*vājabharmabhiḥ*): those in which there is the bearing (भर्म (*bharma*)) of वाज (*vāja*), foods and strengths. O Agni, the sacrificer whose सख्यं (*sakhyaṃ*), friendship, you आवरः (*āvaraḥ*) choose, he prospers; that is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- यस्य (*yasya*)—of whichever sacrificer
+- सख्यं (*sakhyaṃ*)—the friendship
+- आवरः (*āvaraḥ*)—you have attained
+- सः (*saḥ*)—that same sacrificer
+- सुवीराभिः (*suvīrābhiḥ*)—granting excellent heroic sons
+- वाजभर्मभिः (*vājabharmabhiḥ*)—increasing strength
+- तव ऊतिभिः (*tava ūtibhiḥ*)—accompanied by your protections
+- प्र तिरते (*pra tirate*)—attains growth
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer whose friendship you have attained prospers, accompanied by your protections that grant excellent heroic sons and increase strength.
+
+##### English translation
+He, Agni, whose friendship you accept, prospers through your favours granting male progeny and ample food.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifices mentioned before (the Ukthya sacrifices), among the śastra mantras recited by the priest called Praśāstṛ, the three Ṛks beginning with प्र सः (*pra saḥ*) are to be recited as an optional anurūpa triplet. This is set out by the Āśvalāyana Śrauta Sūtra with the sūtra प्र सो अग्ने तवोतिभिः सुवीराभिस्तिरते वाजभर्मभिः (*pra so agne tavotibhiḥ suvīrābhistirate vājabharmabhiḥ*) (Ā. 7-8).
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ द्र॒प्सो नील॑वान्वा॒श ऋ॒त्विय॒ इंधा॑नः सिष्ण॒वा  ॑
+> ददे ।  
+> त्वं म॑ही॒नामु॒षसा॑मसि प्रि॒यः क्ष॒पो वस्तु॑षु  
+> राजसि ॥ ३१ ॥
+
+### Printed p. 820
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । द्रप्सः । नीलऽवान् । वाशः । ऋत्वियः । इंधानः । सिष्णोइति । अ ।  
+> ददे ।  
+> त्वं । महीनां । उषसां । असि । प्रियः । क्षपः । वस्तुषु । राजसि ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सिष्णो ॥ सिषिः सेचनार्थः ॥ सोमेनासिच्यमानाग्ने द्रप्पो द्रवणशीलो
+> नीलवान् शकटनीडेऽवस्थानात् तद्वान् वाशः कांतः शब्दायमानो ना ऋत्विय
+> ऋतौ वसंतादिकालविशेषे भव इंधानः संदीपयन् एवंभूतस्तव सोम आ ददे ।
+> तुभ्यं होमायाध्वर्युणादीयते । अपि च त्वं महीनां महतीनामुषसां
+> प्रियो मित्रभूतोऽसि । उषसि ह्यग्नयो होमाय प्रज्वाल्यंते । तथा क्षपः
+> क्षपाया रात्रेः संबंधिसु वस्तुषु राजसि । प्रकाशसे । यद्वा । रात्रिसंबंधीनि
+> वस्तूनिपदार्थजातानि त्वं प्रकाशयसि ॥
+
+##### Gist of the bhāṣya
+
+O सिष्णो (*siṣṇo*) (the root सिषिः (*siṣiḥ*) has the sense of sprinkling), Agni sprinkled with Soma: Soma is द्रप्पः (*drappaḥ*), of flowing nature; नीलवान् (*nīlavān*), because it rests in the nest of the cart, having that; वाशः (*vāśaḥ*), lovely, sounding; ऋत्वियः (*ṛtviyaḥ*), occurring in the season, at a particular time such as spring; इंधानः (*iṃdhānaḥ*), kindling. Such a Soma is आ ददे (*ā dade*) taken for you: it is taken by the Adhvaryu and others for you, for the homa. And you are dear, a friend, to the great dawns, for at dawn the fires are kindled for homa. Likewise you shine in the things belonging to क्षपः (*kṣapaḥ*), the night. Or else: you illumine the objects connected with the night.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिष्णो (*siṣṇo*)—O Agni, sprinkled with Soma
+- द्रप्पः (*drappaḥ*)—that which should flow
+- नीलवान् (*nīlavān*)—that which is borne in the cart
+- वाशः (*vāśaḥ*)—that which is lustrous
+- ऋत्वियः (*ṛtviyaḥ*)—that which is offered in the seasons such as spring
+- इंधानः (*iṃdhānaḥ*)—that which makes you blaze: the Soma
+- तव (*tava*)—for you
+- आ ददे (*ā dade*)—is brought
+- त्वं (*tvaṃ*)—you
+- महीनां (*mahīnāṃ*)—of the great
+- उषसां (*uṣasāṃ*)—all the dawns
+- प्रियः (*priyaḥ*)—as the beloved
+- आसि (*āsi*)—you are
+- क्षपः (*kṣapaḥ*)—connected with the night
+- वस्तुषु (*vastuṣu*)—in the things
+- राजसि (*rājasi*)—you shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, sprinkled with Soma, the Soma that should flow, that is borne in the cart, that is lustrous, that is offered in the seasons such as spring, and that makes you blaze, is brought for you. You are the beloved of all the great dawns. You shine in all the things connected with the night.
+
+##### English translation
+Sprinkled, (Agni, with the libation), the dripping (juices), car-borne, agreeable, offered in due season, resplendent, have been presented
+
 ---
 
-**Progress note:** Done through printed p. 813. pp. 808-813 (batch API)
+**Progress note:** Done through printed p. 820. pp. 814-820 (batch API)
