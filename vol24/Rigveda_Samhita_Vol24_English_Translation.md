@@ -506,6 +506,279 @@ In the Ukthya rite, in the recitation of the Brāhmaṇācchaṃsin, this Prāg�
 
 O friends, that Indra who has furnished to us all this wealth, which is before you and excellent, I praise for your protection.
 
+### Printed p. 13
+
+##### English translation
+I glorify, friends, for your protection, that Indra who has brought to us of old this or that excellent (wealth).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ukthya sacrifice, among the recitation verses of the priest called Brāhmaṇācchaṃsin, this triplet beginning yo na idam idam is to be recited as the Prāgātha Anurūpa triplet, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra यो न इदमिदं पुरेति प्रगाथा सर्वाः ककुभः (*yo na idamidaṃ pureti pragāthā sarvāḥ kakubhaḥ*) (Ā. 6-1). In the Ukthya sacrifices connected with the Abhiplava also, in the recitation verses of the Brāhmaṇācchaṃsin, this triplet is to be recited as the optional Anurūpa triplet, as explained in the Āśvalāyana Śrauta Sūtra (Ā. 7-8). And in the above Ukthya sacrifices, at the third pressing, when the Prāgātha Stotriya triplet त्वं न इंद्रा भर (*tvaṃ na iṃdrā bhara*) is recited in the recitation verses of the Brāhmaṇācchaṃsin, the Ṛk yo na idam idam is to be recited as the second Ṛk of the triplet, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra यो न इदमिदं पुरा याहीम इंदव इति समाहार्योऽनुरूपः (*yo na idamidaṃ purā yāhīma iṃdava iti samāhāryo 'nurūpaḥ*) (Ā. 7-8).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हर्य॑श्वं॒ सत्प॑तिं चर्षणी॒सहं॒ स हि ष्मा॒ यो अ॑नंदत ।  
+> आ तु नः॒ स व॑यति॒ गव्य॒मश्वं॑ स्तो॒तृभ्यो॑ म॒घवा॑ श॒तं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरिऽश्वं । सत्पतिं । चर्षणिसहं । सः । हि । स्म । यः । अमंदत ।  
+> आ । तु । नः । सः । वयति । गव्यं । अश्वं । स्तोतृभ्यः । मघवा । शतं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हर्यश्वं हरितवर्णाश्चोपेतं सत्पतिं स्वप्रकाशाधिक्येन सतां नक्षत्राणां
+> पतिं सतां श्रेष्ठानां पतिं वा चर्षणीसहं चर्षणीनां शत्रुभूतानां मनुष्याणामभिभवितारं स हि ष्म स खलु जनः स्तौति । यो जनो आमंदत ततो लब्धधनः
+> संस्कृप्तो भवति स एनं तुष्टूषति । एवं सति मघवा धनवान् स इंद्रः शतं
+> गव्यमश्यमनेकं गवाश्वसंघं स्तोतृभ्यो नोऽस्मभ्यं तु क्षिप्रमा वयति
+
+##### Gist of the bhāṣya
+
+Indra is haryaśva, possessed of bay horses; satpati, lord of the existing stars because of the excess of his own radiance, or lord of the good, the best; carṣaṇīsaha, overcomer of the carṣaṇīs, men who are enemies. That man praises him indeed who rejoices (āmandata) and so, having obtained wealth, is prosperous: he wishes to praise him. This being so, may the wealthy Indra quickly bring to us, his praisers, a hundred, a great number, of cattle and horses
+
+### Printed p. 14
+
+> अप्रापयतु ॥ वी गत्यादिषु । अस्माल्लेट्यडागमः ॥ ततो लब्धगवादिका वयं
+> चैनं स्तुम इति ॥
+
+##### Gist of the bhāṣya
+
+may he bring them, that is, let him cause them to arrive. Having obtained cattle and the rest, we too will praise him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- अमंदत (*amaṃdata*)—rejoices in the wealth given by Indra
+- स हि ष्म (*sa hi ṣma*)—that sacrificer indeed
+- हरस्वं (*harasvaṃ*)—possessed of horses called Hari
+- सत्पतिं (*satpatiṃ*)—protector of good people
+- चर्षणीसहं (*carṣaṇīsahaṃ*)—and overcomer of enemy folk, praises Indra
+- मघवा (*maghavā*)—wealthy
+- सः (*saḥ*)—that same Indra
+- शतं (*śataṃ*)—a hundred
+- गव्यमश्वं (*gavyamaśvaṃ*)—herds of cattle and herds of horses
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to the praisers
+- नः (*naḥ*)—to us
+- तु (*tu*)—quickly
+- आ वयति (*ā vayati*)—brings
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who rejoices in the wealth given by Indra praises Indra, who is possessed of horses called Hari, protector of good people, and overcomer of enemy folk. That same Indra quickly brings to us, his praisers, hundreds of herds of horses and herds of cattle.
+
+##### English translation
+That man glorifies Indra, the lord of bay steeds, the protector of the good, the overcomer of enemies, who rejoices (in the fulfilment of his wishes); may Maghavan bestow upon us, his worshippers, hundreds of cattle and horses.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॑ ह स्विद्यु॒जा व॒यं प्रति॑ श्व॒संतं॑ वृषभ ब्रुवीमहि ।  
+> सं॒स्थे जन॑स्य॒ गोम॑तः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । ह । स्वित् । युजा । वयं । प्रति । श्वसंतं । वृषभ । ब्रुवीमहि ।  
+> संस्थे । जनस्य । गोऽमतः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषभ वर्षितर्हे इंद्र गोमतो गवादियुक्तस्य जनस्य संस्थे स्थाने
+> युद्धे श्वसंतमस्मान्प्रति क्रोधातिशयेन श्वासकारिणं शत्रुं युजा सहायेन
+
+##### Gist of the bhāṣya
+
+O showerer, O Indra, in the saṃstha, the place, that is, the battle, of the man possessed of cattle and the like, with you as ally (yujā)
+
+### Printed p. 15
+
+> त्वया ह स्वित्त्वयैव खलु वयं प्रतिब्रवीमहि । प्रतिवचनं कुर्मः । निराकरिष्याम
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+we, with you alone indeed, shall answer the enemy who breathes hard against us with excess of rage; that is, we shall give the reply, we shall drive him away.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—O Indra, causer of rain
+- गोमतः (*gomataḥ*)—possessed of cattle
+- जनस्य (*janasya*)—of friendly men
+- संस्थॆ (*saṃsthè*)—at the time of battle
+- श्वसंतं (*śvasaṃtaṃ*)—the enemy who burns with rage
+- युजा (*yujā*)—who are with us
+- त्वया ह स्वत् (*tvayā ha svat*)—by your power alone
+- वयं (*vayaṃ*)—we
+- प्रति ब्रूवीमहि (*prati brūvīmahi*)—can scorn and confront
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, causer of rain, at the time of battle of friendly men who possess cattle, by your power alone, you who are with us, we can scornfully confront the enemy who burns with rage.
+
+##### English translation
+With you, showerer (of benefits), for our ally, we bid defiance to one assailing us in a contest (on behalf) of a man possessing herds of cattle.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जये॑म का॒रे पु॑रुहूत का॒रिणो॒भि ति॑ष्ठेम दू॒ढ्यः॑ ।  
+> नृभि॑र्वृ॒त्रं ह॒न्याम॑ शूशु॒याम॒ चावे॑रिंद्र॒ प्र णो॒ धियः॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जयेम । कारे । पुरुहूत । कारिणः । अभि । तिष्ठेम । दुःध्यः ।  
+> वृभः । वृत्रं । हन्याम । शूशुयाम । च । अवेः । इंद्र । प्र । नः । धियः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुहूत बहुभिराह्वातव्य हे इंद्र अस्माकं विविधाः शत्रव उपद्रवकारिणो
+> बाधां मनसा स्मरंतश्चेति । तत्र कारिणो हिंसां कुर्वतः शत्र्यन् कारे । कीर्यंत
+> आयधान्यत्रेति कारो युद्धं । तस्मिंस्तान्वयं जयेम । दूढ्यो दुर्धियः
+> पापबुद्दीनप्यभि तिष्ठेम । अभितः स्थास्यामः । किंच वृत्रं गवामावरकं शत्रुं
+> स्वभिरायुधनेतृभिर्मरुद्भिः सह हन्याम । हिंस्याम । हत्वा शूशुयाम च । शत्रु-
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many, our various enemies are troublesome, they are kārins, doers of harm. In the kāra, that is, the battle, the place where weapons are scattered, may we conquer them. We shall stand over, on every side, even the evil-minded (dūḍhyaḥ, durdhiyaḥ). Moreover, with the Maruts, the leaders of the sacrifice, may we slay Vṛtra, the enemy who obstructs the cattle; having slain him, may we grow
+
+### Printed p. 16
+
+> राहित्येन पुत्रपौत्रैरग्निष्टोमादिकर्मभिश्च वर्धयेमहि । यद्वा । श्वयतिरत्रांतर्णीतण्यर्थः । शत्रुभ्यो बाधाभावात्सोमलक्षणैरन्नैस्त्वां वर्धयेम । ततस्त्वं
+> नोऽस्माकं धियः कर्माणि प्रावेः । प्रकर्षेण रक्ष ॥
+
+##### Gist of the bhāṣya
+
+free of enemies, with sons and grandsons and with rites such as the Agniṣṭoma. Or else, the verb śvayati has here the sense of the causative: free of trouble from enemies, we would make you grow with food in the form of Soma. Then do you protect our rites (dhiyaḥ) fully.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—worthy of the invocation of many
+- इंद्र (*iṃdra*)—O Indra
+- कारिणः (*kāriṇaḥ*)—the enemies who do us harm
+- कारे (*kāre*)—in battle
+- जयेम (*jayema*)—may we conquer
+- दूढ्यः (*dūḍhyaḥ*)—the enemies of evil mind
+- अभि तिष्ठेम (*abhi tiṣṭhema*)—may we stop and hold on every side
+- वृत्रं (*vṛtraṃ*)—the enemy
+- नृभिः (*nṛbhiḥ*)—together with the Maruts, the leaders
+- हन्याम (*hanyāma*)—may we slay
+- शूशुयाम च (*śūśuyāma ca*)—(through the absence of enemies) may we attain growth
+- नः (*naḥ*)—our
+- धियः (*dhiyaḥ*)—rites
+- प्र अवेः (*pra aveḥ*)—protect fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the invocation of many, may we conquer in battle the enemies who do us harm. May we stop and hold on every side the enemies of evil mind. May we slay the enemy together with the Maruts, the leaders. May we also attain growth through the absence of enemies. O Indra, protect our rites fully.
+
+##### English translation
+Indra, invoked of many, may we conquer in battle those contending against us; may we resist the malignant; may we, aided by the leaders (of rites, the Maruts), slay Vritra: may we be prosperous, and do you protect our pious works.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्रा॒तृ॒व्यो अ॒ना त्वमना॑पिरिंद्र ज॒नुषा॑ स॒नाद॑सि ।  
+> यु॒धेदा॑पि॒त्वमि॑च्छसे ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभ्रातृव्यः । अना । त्वं । अनापिः । इंद्र । जनुषा । सनात् । असि ।  
+> युधा । इत् । आपित्वं । इच्छसे ॥ १३ ॥
+
+### Printed p. 17
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिप्लविकेषूक्ष्येषु तृतीयसवने ब्राह्मणाच्छंसिशस्त्रेऽभ्रातृव्य इत्यादिकौ
+> द्वै प्रगाथौ वैकल्पिक् स्तोत्रियानुरूपौ । सूत्रितं च । अभ्रातृव्यो अना त्वं मा
+> ते अमाजुरो यथा । आ. ७-८ । इति ॥
+> हे इंद्र त्वं जनुषा जन्मनैवाभ्रातृव्यः ॥ व्यन् सपत्ने । पा. ४-१-१४५ । इति
+> व्यन्प्रत्ययः ॥ अनानेतृकः ॥ ऋतश्चंदसीति कपः प्रतिषेधः ॥ अनियंतृक इत्यर्थः ।
+> अनापिर्बंधुवर्जितश्च सनादसि । चिरादेव भ्रातृव्यादिवर्जितोऽसि । यच्च त्वयापित्वं
+> बांधवमिच्छसे इच्छिसि तत्र यथेद्युद्धेनैव । युद्धं कुर्वन्नेव स्तोतृणां
+> सखा भवसीति ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava Ukthya rites, at the third pressing, in the recitation of the Brāhmaṇācchaṃsin, the two Prāgāthas beginning abhrātṛvyaḥ are the optional Stotriya and Anurūpa. The sūtra says: abhrātṛvyo anā tvam, mā te amājuro yathā (Ā. 7-8). O Indra, you are by birth without a rival (bhrātṛvya), without a leader, that is, without a controller, and without kin, and since long you are free of rivals and the rest. And the kinship that you desire with anyone, you desire only through battle: only by fighting do you become the friend of your praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- जनुषा (*januṣā*)—from birth
+- अभ्रातृव्यः (*abhrātṛvyaḥ*)—are without an enemy
+- अना (*anā*)—without a controller
+- अनापिः (*anāpiḥ*)—without kin
+- सनादसि (*sanādasi*)—you have been so from a long time
+- युधेत् (*yudhet*)—only by fighting
+- आपित्वं (*āpitvaṃ*)—kinship
+- इच्छसे (*icchase*)—you seek
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have been without an enemy from birth, without a controller and without kin, and so you have been from a long time. Only by fighting do you seek kinship.
+
+##### English translation
+You, Indra, are by your birth brotherless (without enemy): from ever are you without a kinsman: the kindred you desire is (that of him) who engages in war.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ukthya sacrifices connected with the Abhiplava, at the third pressing, in the recitation verses of the priest called Brāhmaṇācchaṃsin, two Prāgāthas beginning with abhrātṛvyaḥ (the Ṛks 13, 14, 15 and 16) are to be recited as the Stotriya and Anurūpa Ṛks in the optional Prāgātha triplet, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra अभ्रातृव्यो अना त्वं मा ते आमाजुरो यथा (*abhrātṛvyo anā tvaṃ mā te āmājuro yathā*) (Ā. 7-8).
+
+### Printed p. 18
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकी॑ रे॒वंतं॑ स॒ख्याय॑ विंदसे॒ पीयं॑ति ते सुरा॒श्वः॑ ।  
+> य॒दा कृ॒णोषि॑ नद॒नुं समू॑ह॒स्यादित्पि॒तेव॑ हूयसे ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । रेवंतं । सख्याय । विंदसे । पीयंति । ते । सुराश्वः ।  
+> यदा । कृणोषि । नदनुं । सं । ऊहसि । आत् । इत् । पिताइव । हूयॆसे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र रेवंतं धनवंतं केवलधनवंतं दानादिरहितमयष्टारमाढ्यं
+> मानवं सख्याय सखिभावाय नकिर्विंदसे । न भजसे । नाश्रयसीत्यर्थः ।
+> अयष्टारो जनाः किं संतीत्यत आह । सुराश्वः ॥ टु ओश्वि गतिवृद्ध्योः ॥ सुरया
+> वृद्धास्तद्वत् प्रमत्ता नास्तिकास्ते त्वां पीयंति ॥ पीयतिर्हिंसाकर्मा । हिंसंति ।
+> तान्नश्रयसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you do not find, that is, you do not resort to or rely upon, for friendship a man who is merely wealthy (revant), a rich man devoid of giving and the like, who does not sacrifice. He then asks what those who do not sacrifice are, and says: surāśvaḥ, swollen with wine; being thus careless, atheists, they harm you; the verb pīyati has the sense of harming. You do not resort to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra, you) रेवंतं (*revaṃtaṃ*)—the wealthy man who is without giving and the like
+- सख्यायॆ (*sakhyāyè*)—for friendship
+- नकिः विंदसे (*nakiḥ viṃdase*)—do not approach
+- सुराश्वः (*surāśvaḥ*)—those intoxicated with drinking wine (atheists)
+- ते (*te*)—you
+- पीयंति (*pīyaṃti*)—harm
+- यदा (*yadā*)—when
+- नदनुं (*nadanuṃ*)—a sound indicating satisfaction
+- तृणोषि (*tṛṇoṣi*)—you make, then
+- समूहसि (*samūhasi*)—you bring and fill the sacrificer with wealth
+- आदित् (*ādit*)—immediately thereafter
+- पितेव (*piteva*)—like a father
+- हूयसे (*hūyase*)—you are called
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you do not approach for friendship the wealthy man who is without giving and the like. Atheists intoxicated with drinking wine harm you. When you make a sound indicating satisfaction, you bring and fill the sacrificer with wealth. Immediately thereafter you are called with prayer, like a protecting father.
+
+##### English translation
+You acknowledge no friendship for the wealthy man (who makes no offerings); those who are puffed up with wine offend you; when you
+
 ---
 
-**Progress note:** Done through printed p. 12. Rk 5-9 (pp. 7-12)
+**Progress note:** Done through printed p. 18. Rk 9 end, Rk 10-14 (pp. 13-18)
