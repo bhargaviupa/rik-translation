@@ -20851,6 +20851,277 @@ O Indra, all the seers of the Kaṇva lineage cause your discerning intelligence
 ##### English translation
 All the Kanwas, Indra, magnify your wisdom, your manhood, and, most mighty one, your strength.
 
+### Printed p. 512
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां म॑ इंद्र सुष्टु॒तिं जु॒षस्व॒ प्र सु माम॑व ।  
+> उ॒त प्र व॑र्धया म॒तिं ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । मे । इंद्र । सुस्तुतिं- । जुषस्व । प्र । सु । मां । अव ।  
+> उत । प्र । वर्धय । मतिं ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इमां पुरोवर्तिनीं मे मदीयां सुष्टुतिं शोभनां स्तुतिं
+> जुषस्व । सेवस्व । सेवित्वा च स्तोतारं मां सु शोभनं प्राव । प्रकर्षेण रक्ष ।
+> उतापि च मतिमस्मदीयां बुद्धिं प्र वर्धय । प्रवृद्धां कुरु । यथा बह्वर्थदर्शिनी भवति तथा कुर्वित्यर्थः ।
+
+##### Gist of the bhāṣya
+
+O Indra, accept this praise of mine that lies before you, this fine praise, and having accepted it, protect me, the singer, well and thoroughly. Also make our understanding grow: make it increase so that it becomes one that sees many things.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- इमां (*imāṃ*)—this, offered here
+- मे (*me*)—my
+- सुष्टुतिं (*suṣṭutiṃ*)—excellent praise
+- जुषस्व (*juṣasva*)—accept
+- मां (*māṃ*)—me
+- सु (*su*)—well
+- प्र अव (*pra ava*)—protect fully
+- उत (*uta*)—and
+- मतिं (*matiṃ*)—good understanding in us
+- प्र वर्धय (*pra vardhaya*)—make grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, accept my excellent praise that is offered here. Protect me well and fully. And increase good understanding in us.
+
+##### English translation
+Be propitiated, Indra, by this my praise; carefully protect me, and give increase to my understanding.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त ब्र॑ह्म॒ण्या व॒यं तुभ्यं॑ प्रवृद्ध वज्रिनः ।
+
+### Printed p. 513
+
+> विप्रा आतक्ष्म जीवसे ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । ब्रह्मण्या । वयं । तुभ्यं । प्रवृद्ध । वज्रिवः ।  
+> विप्राः । आतक्ष्मि । जीवसे ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे प्रवृद्ध स्तुतिभिः प्रकृष्टां बुद्धिं प्राप्त हे वज्रिवो वज्रवन्निंद्र ॥ एको मत्त्वर्थियोनुवादः । यद्वा । वज्रोऽस्यास्तीति वज्री हस्तः ।
+> तद्वान् । छंदसीर इति मतुपो वत्वं । मतुवसो रुरिति मकारस्य रुत्वं ॥ ईदृकेंद्र तुभ्यं त्वदर्थं विप्रा मेधाविनो ब्रह्मण्या ब्रह्माणि स्तोत्राणि हविर्लक्षणान्यन्नानि वा ॥ सुपां सुलुगिति सुपो याजादेशः ॥ जीवसे जीवनार्थमतक्ष्म । अकार्ष ॥ तक्षू त्वक्षू तनूकरणे । लजि च्छांदसः शपो लुक् ॥
+
+##### Gist of the bhāṣya
+
+And, O Indra, you who are grown great through praises and have attained a lofty mind, O wielder of the vajra. The suffix in वज्रिवः (*vajrivaḥ*) is only a repetition of the sense of the possessive suffix. Or else: वज्रोऽस्यास्तीति वज्री हस्तः (*vajro 'syāstīti vajrī hastaḥ*), "वज्री (*vajrī*)" is the hand, and he is the possessor of it. For such a you, the wise ones (विप्रा (*viprā*)) have made ब्रह्मण्या (*brahmaṇyā*), that is, praises, or foods in the form of oblations, for the sake of living (जीवसे (*jīvase*)): अतक्ष्म (*atakṣma*) means "we have made", from the root तक्षू (*takṣū*) in the sense of making thin.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- प्रवृद्ध (*pravṛddha*)—you whose mind has been increased by our praises
+- वज्रिवः (*vajrivaḥ*)—O Indra, holder of the vajra weapon
+- तुभ्यं (*tubhyaṃ*)—addressed to you
+- विप्राः (*viprāḥ*)—wise
+- वयं (*vayaṃ*)—we
+- ब्रह्मण्या (*brahmaṇyā*)—excellent praises
+- जीवसे (*jīvase*)—for our protection
+- अतक्ष्म (*atakṣma*)—have fashioned
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you whose mind has been increased by our praises and who hold the vajra weapon, we the wise have fashioned excellent praises addressed to you, for our protection.
+
+##### English translation
+Wielder of the thunderbolt, magnified (by our praises), we your worshippers have offered to you these prayers for our existence.
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि कण्वा॑ अनूष॒तापो॒ न प्र॒वता॑ य॒तीः ।  
+> [ 33 ]                                     [ Vol. 23 ]
+
+### Printed p. 514
+
+> इंद्रं वनन्वती मतिः ॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । कण्वाः । अनूषत । आपः । न । प्रवता । यतीः ।  
+> इंद्रं । वनन्वती । मतिः ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कण्वाः कण्वगोत्रा ऋषयोऽभ्यनूषत । इंद्रमभिष्टु वंति ॥ नू स्तुता ।
+> कुटादिः ॥ प्रवता प्रवणेन मार्गेण यतीर्गच्छंत्य आपो नाप इव मतिर्मननीया
+> कण्वैः क्रियमाणा स्तुतिः स्तुत्यमिंद्रं वनन्वती स्वयमेव संभजनवती भवति ॥
+
+##### Gist of the bhāṣya
+
+The Kaṇvas, the ṛṣis of the Kaṇva line, praise Indra (अभ्यनूषत (*abhyanūṣata*); the root नू (*nū*) means to praise, of the Kuṭādi class). The मतिः (*matiḥ*), the praise to be reflected on that is made by the Kaṇvas, becomes of its own accord devoted (वनन्वती (*vananvatī*)) to Indra, who is worthy of praise, like waters going along a downward path.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कण्वाः (*kaṇvāḥ*)—the ṛṣis born in the Kaṇva line
+- अभ्यनूषत (*abhyanūṣata*)—praise Indra exceedingly
+- प्रवता (*pravatā*)—in low-lying places
+- यतिः (*yatiḥ*)—flowing
+- आपो न (*āpo na*)—as swiftly as streams of water go
+- मतिः (*matiḥ*)—the meditative praises of Kaṇva
+- इंद्रं (*iṃdraṃ*)—towards Indra
+- वनन्वती (*vananvatī*)—rushes forward, for voluntary service
+
+##### भावार्थ (Bhāvārtha)
+
+The ṛṣis born in the Kaṇva line praise Indra exceedingly. As swiftly as streams of water flow in low-lying places, the meditative praises of Kaṇva rush forward towards Indra for voluntary service.
+
+##### English translation
+The Kanwas glorify Indra; like waters rushing down a declivity, praise spontaneously seeks Indra.
+
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑मु॒क्थानि॑ वावृधुः समु॒द्रमि॑व॒ सिंध॑वः ।  
+> अनु॑त्तमन्युम॒जरं॑ ॥ ३५ ॥
+
+### Printed p. 515
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । उक्तानि । ववृधुः । समुद्रंऽइव । सिंधवः ।  
+> अनुक्तमन्युं । अजरं ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तानि शस्त्राण्यस्माभिः शस्यमानानींद्रं ववृधुः । वर्धयंति । सिंधवः
+> स्यंदनशीला नद्यः समुद्रमिव समुद्रं जलधिं यथा वर्धयंति तद्वत् । कीदृशमिंद्रं । अनुत्तमन्युं । अनुत्तोऽप्रेरितः परैरनभिभूतो मन्युः क्रोधो यस्य
+> तादृशं ॥ नुदविदोंदत्रेत्यादिना । पा. ८-२-५६ । विकल्पितत्वान्निष्ठानत्वाभावः ॥
+> अजरं जरारहितं ॥ बहुव्रीहौ नइषो जरमरमित्रमृता इत्युत्तरपदाद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+The उक्तानि (*uktāni*), the recitations (śastras) recited by us, make Indra grow, as the flowing rivers make the ocean (समुद्रं (*samudraṃ*), the water-holder) grow. What kind of Indra? अनुत्तमन्युं (*anuttamanyuṃ*): one whose wrath (मन्युः (*manyuḥ*)) is not driven back (*anuttaḥ*), not overcome, by others. Because of the option allowed by नुदविदोंदत्रेत्यादिना (*nudavidoṃdatretyādinā*) (Pā. Sū. 8-2-56), the ending न (*na*) of the participle does not apply. अजरं (*ajaraṃ*): free from old age.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधवः (*siṃdhavaḥ*)—flowing rivers
+- समुद्रमिव (*samudramiva*)—as they fill the ocean
+- अनुत्तमन्युं (*anuttamanyuṃ*)—one whose anger cannot be faced by others
+- अजरं (*ajaraṃ*)—free from old age
+- इंद्रं (*iṃdraṃ*)—Indra
+- उक्तानि (*uktāni*)—the śastra-mantras recited by us
+- ववृधुः (*vavṛdhuḥ*)—cause to grow
+
+##### भावार्थ (Bhāvārtha)
+
+As flowing rivers fill the ocean, the śastra-mantras recited by us cause to grow Indra, whose anger cannot be faced by others and who is free from old age.
+
+##### English translation
+Holy praises magnify Indra, the imperishable, the implacable, as rivers (swell) the ocean.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ याहि परा॒वतो॒ हरि॑भ्यां हर्य॒ताभ्यां॑ ।  
+> इ॒ममिं॑द्र सु॒तं पि॑ब ॥ ३६ ॥
+
+### Printed p. 516
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । याहि । परावतः । हरिभ्यां । हर्यताभ्यां ।  
+> इमं । इंद्र । सुतं । पिब ॥ ३६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र परावतः परागताद्दूरे वर्तमानाद्भुलोकाद्धर्यताभ्यां
+> कांताभ्यां हरिभ्यामश्वाभ्यां नोऽस्माना याहि । आगच्छ । अगत्य चेममस्मदीयं
+> सुतमभिषुतं सोमं पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come to us from afar (परावतः (*parāvataḥ*)), from the earth-world lying far away, with your two beloved horses (*haryatābhyāṃ haribhyāṃ*). Having come, drink this soma of ours, pressed out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- परावतः (*parāvataḥ*)—from the very distant region, the heavenly world
+- हर्यताभ्यां (*haryatābhyāṃ*)—of attractive form
+- हरिभ्यां (*haribhyāṃ*)—together with the horses
+- नः (*naḥ*)—to us
+- आ याहि (*ā yāhi*)—graciously come
+- इमं (*imaṃ*)—this, offered by us
+- सुतं (*sutaṃ*)—pressed and made ready, the soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, graciously come to us even from the very distant heavenly world, together with horses of attractive form. Drink the soma that is offered by us and prepared by pressing.
+
+##### English translation
+Come to us from afar with your beloved horses: drink, Indra, this libation.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिद्वृ॑त्रहंतम॒ जना॑सो वृ॒क्तब॑र्हिषः ।  
+> हवं॑ते॒ वाज॑सातये ॥ ३७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । इत् । वृत्रहन्तम । जनासः । वृक्तबर्हिषः ।  
+> हवंते । वाजसातये ॥ ३७ ॥
+
+### Printed p. 517
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहंतमातिशयेन वृत्राणामावृण्वतां शत्रूणां हंतः त्वामित्वामेव
+> वृक्तबर्हिषो व्यक्तं यागार्थं छिन्नं बर्हिर्येषां तथाविधोक्ताः प्रवृत्तयज्ञा
+> जनासो जना ऋत्विग्ललक्षणा हवंते । आह्वयंति ॥ हैञ्ञः शपि बहुलं छंदसीति
+> संप्रसारणं ॥ किमर्थं । वाजसातये वाजस्यान्नस्य बलस्य, वा सातये लाभाय ।
+> यद्वा । संग्रामनामैतत् । वाजस्य सातिर्यस्मिन् संग्रामे तत्र साहाय्याय
+> त्वामाह्वयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, supreme slayer of the Vṛtras, the enemies who encompass, it is you alone that the people (जनासः (*janāsaḥ*)), the priests who have cut the sacrificial grass (वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)) for the rite and have begun the sacrifice, invoke (हवंते (*havaṃte*)). For what? वाजसातये (*vājasātaye*): for the winning of food or of strength. Or else: वाज (*vāja*) is a name of battle; they call you for help in the battle in which there is winning of वाज (*vāja*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतम (*vṛtrahaṃtama*)—O Indra, who completely destroy Vṛtra
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—who have prepared and made ready the seat of darbha grass
+- जनासः (*janāsaḥ*)—priests and others
+- वाजसातये (*vājasātaye*)—for the gaining of food
+- त्वां इत् (*tvāṃ it*)—you alone
+- ह्वयंते (*hvayaṃte*)—invoke with praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who completely destroy Vṛtra, the priests and others who have prepared the seat of darbha grass invoke you alone with praise, for the gaining of food.
+
+##### English translation
+Destroyer of Vritra, men strewing the clipped secred grass invoke you for the obtaining of food.
+
+#### Ṛk 38
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ त्वा॒ रोद॑सी उ॒भे च॒क्रं न व॒र्त्यत॑शं ।  
+> अनु॑ सुवा॒नास॒ इंद॑वः ॥ ३८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । त्वा । रोदसी इति । उभे इति । चक्रं । न । वर्ति । एतशं ।  
+> अनु । सुवानासः । इंदवः ॥ ३८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 511. pp. 505-511 (batch API)
+**Progress note:** Done through printed p. 517. pp. 512-517 (batch API)
