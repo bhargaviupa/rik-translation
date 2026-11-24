@@ -3257,6 +3257,342 @@ O Agni, you are glorious among the gods; for that very reason bring to this rite
 - ऋतावाना (*ṛtāvānā*)—the two who are truthful
 - सम्राजा (*samrājā*)—exceedingly
 
+### Printed p. 72
+- who shine exceedingly
+- पूतदक्षसा (*pūtadakṣasā*)—who have exceedingly pure strength
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- आ वह (*ā vaha*)—bring to our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are exceedingly glorious among the gods. For that very reason, bring to our sacrifice Mitra and Varuṇa, who are truthful, who shine exceedingly, and who have exceedingly pure strength.
+
+##### English translation
+You, Agni, are renowned; bring hither the veracious, the purely vigourous, the resplendent deities Mitra and Varuna.
+
+## Sūkta 24 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सखाय आ शिषामहीति त्रिंशदृचं चतुर्थं सूक्तं । अत्रेयमनुक्रमणिका ।
+> सखायस्तृचोऽंत्यः सौषाम्मस्य. वरोर्दानस्तुतिरंत्यानुष्टुबिति । व्यश्वपुत्रो
+> विश्वमना ऋषिः । औष्ठिहं हेत्युक्तक्त्वादेतदादीनि त्रीणि सूक्तान्युष्टि कृंदस्कानि ।
+> अनुक्तत्वादिंद्रो देवता । अंत्यासु तिसृसु सुषामाख्यस्य राज्यः पुत्रस्य वरुनाम्नो
+> राज्ञो दानं स्तूयते । अतस्तास्तद्वेवताकाः ॥ महाव्रते निष्केवल्य औष्ठि हतृचाशीतावेतत्तूक्तं । तथैव पंचमारण्यके शौनकेन सूत्र्यतॆ । सखाय आ शिषामहि य
+> एक इद्दिदयते । ऐ. आ. ५-२-५ । इति ॥ दशमेऽहनि मरुत्वतीयशस्त्रे सखाय इति तिस्त्र
+> यचः । सूत्र्यते च । सखाय आ शिषामहीति तिस्त्र उष्णिहः । आ. ८-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The fourth sūkta, beginning सखाय आ शिषामहीति (*sakhāya ā śiṣāmahīti*), has thirty Ṛks. Here is the Anukramaṇikā, which he quotes. The seer is Viśvamanas, the son of Vyaśva. Since the Aupṭhiha is mentioned **NOTE**, these three sūktas beginning with this one are in the Uṣṇih metre. Since no deity is stated, Indra is the deity. In the last three Ṛks the gift of the king named Varu, son of the king Suṣāman, is praised; hence they have that for their deity. In the Mahāvrata, at the Niṣkevalya recitation, this sūkta is used for the Uṣṇih Ṛks; so also in the fifth Āraṇyaka it is stated by Śaunaka: सखाय आ शिषामहि य एक इद्दिदयते (*sakhāya ā śiṣāmahi ya eka iddidayate*) (Ai. Ā. 5-2-5) **GLOSS**. On the tenth day, in the Marutvatīya recitation, three Ṛks beginning with सखाय (*sakhāya*) are recited; and it is stated in the sūtra: सखाय आ शिषामहीति तिस्त्र उष्णिहः (*sakhāya ā śiṣāmahīti tistra uṣṇihaḥ*) (Ā. 8-12) **GLOSS**.
+
+In the Kannada: this sūkta beginning सखाय आ शिषामहि (*sakhāya ā śiṣāmahi*) is the fourth sūkta in the fourth anuvāka. It has thirty Ṛks. In the Anukramaṇikā it is said: सखायस्तृचोऽन्यः सौषाम्नस्य वरोर्दानस्तु तिरंत्यानुष्टुप् (*sakhāyastṛco 'nyaḥ sauṣāmnasya varordānastu tiraṃtyānuṣṭup*) **GLOSS**. The seer of this sūkta is Viśvamanas, the son of the seer Vyaśva; Indra is the deity; this sūkta and the next two sūktas are in the Uṣṇih metre. In the last three Ṛks of this sūkta the praise of the gift of the king named Varu, son of the king named Suṣāma, is stated, so for those Ṛks the praise of the gift of that king is the deity. At the Mahāvrata sacrifice, at the time of reciting the mantras of the Niṣkevalya recitation, the use of this sūkta is for the Ṛks in the Uṣṇih metre, as it is pointed out by the great seer Śaunaka in the fifth
+
+### Printed p. 73
+Āraṇyaka of the Aitareya Āraṇyaka in the sentence सखाय आ शिषामहि य एक इद्दिदयते (*sakhāya ā śiṣāmahi ya eka iddidayate*) (Ai. Ā. 5-6-5) **GLOSS** **NOTE**. And on the tenth day of the sacrifice, when the Marutvatīya recitation mantras are recited, it is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, सखाय आ शिषामहीति तिस्र उष्णिहः (*sakhāya ā śiṣāmahīti tisra uṣṇihaḥ*) (Ā. 8-12) **GLOSS**, that three Ṛks beginning with सखायः (*sakhāyaḥ*) are to be recited.
+
+Sūkta 24. Maṇḍala 8. Anuvāka 4. Sūkta 24. Aṣṭaka 6. Adhyāya 2. Vargas 15, 16, 17, 18, 19, 20. Number of Ṛks in the sūkta: 30. Seer: Viśvamanas Vaiyaśva. Deity: Ṛks 1-27 Indra; 28-30 the praise of the gift of Varu Sauṣāmya **NOTE**. Metre: Ṛks 1-29 Uṣṇik; 30 Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखा॑य॒ आ शि॑षामहि॒ ब्रह्मेंद्रा॑य व॒ज्रणे॑ ।  
+> स्तु॒ष ऊ॒ सु वो॒ नृत॑माय धृ॒ष्णवे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखायित । आ । शिषामहि । ब्रह्म ! इंद्राय । वज्रिणे ।  
+> स्तुषे : ऊं इति । सु । वः । नृतमाय । धृष्णवे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सखायो मित्रभूता हे ऋत्विजः वज्रिणे वज्रहस्तायेंद्राय ब्रह्म
+> कर्तव्यमेतत्तूक्तरूपं स्तोत्रमा शिषामहि । वयमाशास्मि ॥ शासु अनुशिष्टौ ।
+> लुजः क्लेरबादेशः । इत्त्वपत्वे । व्यत्ययेनात्मनेपदं ॥ तत्र वः सर्वेषामेव
+> युष्माकमर्थाय नृतमाय सर्वेषां नेतृतमाय यद्वा संग्रामेष्वायुधादीनां नेतृतमाय धृष्णवे शत्रोणां धर्षणशीलाय तस्मा इंद्रायाहमेव
+> सु सुष्टु स्तुषे । सौमि ॥
+
+##### Gist of the bhāṣya
+
+O friends, fellow priests, to Indra the thunderbolt-bearer, the one with the thunderbolt in his hand, this praise in the form of this sūkta is to be made; we recite it. There, for the sake of all of you, to him who is the best of leaders, or else the best leader of weapons and the like in battles, to the bold one, who is given to overpowering enemies, to that Indra I myself praise well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O priests, who are friends
+- वज्रणे (*vajraṇe*)—who holds the thunderbolt weapon
+- इंद्राय (*iṃdrāya*)—addressing Indra
+- ब्रह्म (*brahma*)—the praise
+- आ शिषामहि (*ā śiṣāmahi*)—we shall recite with love (let us recite)
+
+### Printed p. 74
+- वः (*vaḥ*)—for the good of all of you
+- नृतमाय (*nṛtamāya*)—who is the best among leaders
+- धृष्णवे (*dhṛṣṇave*)—who overpowers enemies, concerning that Indra
+- सु (*su*)—exceedingly
+- स्तुषे (*stuṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, who are friends, we recite with love the praise addressed to Indra, who holds the thunderbolt weapon in his hand. For the good of all of you I praise exceedingly Indra, who is the best among leaders and who overpowers enemies.
+
+##### English translation
+Let us earnestly, friends, address our prayer to Indra, the wielder of the thunderbolt; for you I praise the chief leader (in battles), the resolute (opposer of foes).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शव॑सा॒ ह्यसि॑ श्रु॒तो वृ॑त्र॒हत्ये॑न वृत्र॒हा ।  
+> म॒घैर्म॒घोनो॒ अति॑ शूर दाशसि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शवसा । हि । असि । श्रुतः । वृत्रहत्येन । वृत्रहा ।  
+> मघैः । मघोनः । अति । शूर । दाशसि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं शवसा बलेन श्रुतः प्रसिद्धोऽसि । भवसि । हि प्रसिद्धौ । तदेवाह ।
+> वृत्रहत्येन वृत्रासुरहनेन वृत्रहा वृत्रहेति प्रसिद्धो भवसि । शूर शौर्यवन्
+> हे इंद्र मघोनो मघवतो धनवतः पुरुषान्मघैस्त्वदीयैर्धनैरत्यतिक्रम्य
+> दाशसि । स्तोतृभ्योऽस्मभ्यं प्रयच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are famous for strength, for your might. The particle expresses what is well known. He states just that: through the slaying of Vṛtra, the asura Vṛtra, you are well known as Vṛtrahan. O hero, O heroic Indra, going beyond the wealthy men with your riches, you give; you give to us, the reciters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसा (*śavasā*)—by strength
+- श्रुतः (*śrutaḥ*)—famous
+- असि हि (*asi hi*)—you are
+- वृत्रहत्येन (*vṛtrahatyena*)—through killing Vṛtra
+- वृत्रहा (*vṛtrahā*)—(the destroyer of Vṛtra) you are famous also as such
+- शूर (*śūra*)—O Indra, endowed with valour
+- मघैः (*maghaiḥ*)—with your riches
+- मघोनः (*maghonaḥ*)—than other men who are wealthy
+
+### Printed p. 76
+- अति (*ati*)—being of surpassing generosity
+- दाशसि (*dāśasi*)—you give wealth to the reciters
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are famous for strength. You are also famous as the destroyer of Vṛtra, since you killed Vṛtra. O Indra, endowed with valour, with your riches you give wealth to the reciters, being of more generosity than the other wealthy men.
+
+##### English translation
+You are renowned for strength ; from the slaying of Vritra, you are (famed as) Vritrahan : you surpass, hero, the opulent in the donation of your riches.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॒ स्तवा॑न॒ आ भ॑र र॒यिं चि॒त्रश्र॑वस्तमं ।  
+> नि॒रे॒के चि॒द्यो ह॑रिवो॒ वसु॑र्द॒दिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । स्तवानः । आ । भर । रयिं । चित्रश्रवःतमं ।  
+> निरेके । चित् । यः । हरिर्वः । वसुः । ददिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स तथाविधस्त्वं स्तवानोऽस्माभिः स्तूयामानः संश्चित्रश्रवस्तममतिशयेन नानाविधान्नोपेतं रयिं पुत्रं धनं ना नोऽस्मभ्यमा भर । संपादय ।
+> देहीत्यर्थः । हरिवः । हरी अश्वौ । तद्वन् हे इंद्र यस्त्वं निरेके चिन्निर्गमन एव
+> वसुः शत्रुणां वासयिता भवसि । तवायुधनिर्गमनादेव शत्रवः पलायंते खलु ।
+> किंच त्वं ददिर्धनानां दाता भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, such as you are, being praised by us, bring to us wealth, a wealth of the most wonderful kind, accompanied in the highest degree by many kinds of food; accomplish it; the meaning is "give". O possessor of bay horses (harivat), O Indra: you who at the very going out of your weapon become the one who makes the enemies dwell (vasu). For the enemies flee simply from the going forth of your weapon. Moreover, you are a giver, the giver of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—you who are famous
+- स्तवानः (*stavānaḥ*)—being praised by us
+- चित्रश्रवस्तमं (*citraśravastamaṃ*)—of many kinds
+- रयिं (*rayiṃ*)—wealth in the form of sons and the like
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—accomplish and give
+- हरिवः (*harivaḥ*)—O Indra, who have horses called Hari
+- यः (*yaḥ*)—you who
+- निरेके चित् (*nireke cit*)—by the discharge of arrows alone
+- वसुः (*vasuḥ*)—make the enemies flee, such as you are
+- ददिः (*dadiḥ*)—are the giver of wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are famous, being praised by us, in return accomplish for us wealth in the form of sons and the like, of many kinds. O Indra, who have horses called Hari, you who make the enemies flee by the discharge of arrows alone, such as you are, you are generously the giver of wealth.
+
+##### English translation
+Praised by us, betow upon us riches of wonderful variety; you the lord of steeds, who, at the issue (of your weapons) put your enemies to flight, are the donor (of treasures).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नि॑रे॒कमु॒त प्रि॒यमिंद्र॒ दर्षि॒ जना॑नां ।  
+> धृ॒ष॒ता धृ॑ष्टो॒ स्तव॑मान॒ आ भ॑र ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । निरेकं । उत । प्रियं । इंद्र । दर्षि । जनानां ।  
+> धृषता । धृष्टो इति । स्तवमानः । आ । भर ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र उतापि च प्रियं प्रीणनात् प्रियतमं निरेकं । निरेकं धनं भवति
+> विरेचनान्निर्गमनाद्वेति । तद्वनं जनानां स्तोतृणामस्माकमा दर्षि । अविदारय ।
+> विवृतं कुरु ॥ दृ विदारणे छांदसो विकरणस्य लुक् ॥ विवृत्य च धृष्टो धर्षणशील
+> हे इंद्र स्तवमानः स्तोतृभिरस्माभिः स्तूयमानः सन् धृषता धृष्टेन मनसा सहा
+> भर । तद्वनमस्मभ्यं देहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, and moreover: the dearest, more beloved than anything that pleases, niraeka. Wealth is called niraeka, from emptying out or from going out. That wealth, to us the reciters, burst open; make it uncovered. Having uncovered it, O bold Indra, of overpowering nature, being praised by us the reciters, bring that wealth with a bold mind; give it to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- उत (*uta*)—and
+- प्रियं (*priyaṃ*)—the pleasing
+- निरेकं (*nirekaṃ*)—wealth
+- जनानां (*janānāṃ*)—before us the reciters
+- आ दर्षि (*ā darṣi*)—make manifest
+- धृष्ट्णो (*dhṛṣṭṇo*)—O Indra, who overpower enemies
+
+### Printed p. 77
+- स्तवमानः (*stavamānaḥ*)—being praised by us
+- धृषरा (*dhṛṣarā*)—with a firm mind
+- आ भर (*ā bhara*)—bring and provide that wealth for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, make manifest the pleasing wealth before us the reciters. O Indra, who overpower enemies, being praised by us, bring wealth to us with a firm mind.
+
+##### English translation
+Burst open to your worshippers, Indra, the highly prized wealth : glorified by us, you who are endowed with resolution, bring (us wealth) with resolution, bring (us wealth) with a resolute (mind).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ते॑ स॒व्यं न दक्षि॑णं॒ हस्तं॑ वरंत आ॒मुरः॑ ।  
+> न प॑रि॒बाधो॑ हरिवो॒ गवि॑ष्टिषु । ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ते । सव्यं । न दक्षिणं । हस्तं । वरंते । अमुरः ।  
+> न । परिजधः । हरिणः । गोकइष्वषु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दे हरिवोऽश्ववन्निंद्र आमुरः संग्राम अभिमुख्यन कर्तारः प्रतियोद्धारो
+> गविष्टिषु पणिभिरपहृतानामंगिरसां गवामन्वेषणेषु ते तव सव्यं हस्तं न वरंते ।
+> न निवारयंति । तेषामायुधादिभिर्न निवार्यत इत्यर्थः । शथा दक्षिणं हस्तं च न
+> निवारयंति । किंच परिबाधः परितो बाधमाना वृत्रादयोऽसुराश्च तव सव्यदक्षिणहस्तौ न निवारयंति । संग्रामेषु त्वया सर्वे शत्रवश्चिन्नहस्ताः सर्वतो गच्छंतु ।
+> त्वं तु तैरबाधितो वर्तस इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, with bay horses, the āmuras, the doers of what faces them in battle, the opponents in the quest for the cows, the search for the cows of the Aṅgirases carried off by the Paṇis, do not restrain your left hand; they do not hold it back; the meaning is that you are not held back by their weapons and the like. Likewise they do not restrain your right hand. Moreover the pari-bādhas, the asuras Vṛtra and others who afflict on every side, do not restrain your left and right hands. May all enemies go in all directions, with hands cut off by you in battles; but you remain unharmed by them. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, who have horses called Hari
+- आ मुरः (*ā muraḥ*)—the warriors engaged in battle (the enemies)
+- गविष्टिषु (*gaviṣṭiṣu*)—at the time when you seek the cows
+- ते (*te*)—your
+- सव्यं (*savyaṃ*)—left
+
+### Printed p. 78
+- हस्तं (*hastaṃ*)—the hand on the left side
+- न वरंते (*na varaṃte*)—cannot forbid
+- दक्षिणं (*dakṣiṇaṃ*)—the hand on the right side
+- न (*na*)—cannot stop
+- परिबाधः (*paribādhaḥ*)—any of the enemies who tried to harm you
+- न (*na*)—cannot stop you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have horses called Hari, your enemy warriors engaged in battle cannot forbid your left hand at the time when you seek the cows. They cannot stop your right hand either. None of the enemies who try to harm you can stop you.
+
+##### English translation
+Lord of steeds, in the recovery of the cattle the opponents resist not your left hand nor your right, your enemies (resist you) not.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॒ गोभि॑रिव व्र॒जं गी॒र्भिर्ऋ॑णोम्यद्रिवः ।  
+> आ स्मा॒ कामं॑ जरि॒तुरा मनः॑ पृण ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । गोभिः इव । व्रजं । गीभिः । ऋणोमि । आद्रिवः ।  
+> आ । स्म । कामं । जरितुः । आ । मनः । पृण ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो वज्रवन्निंद्र गीर्भिः स्तुतिलक्षणाभिर्वाग्भिस्ता त्वामा ऋणोमि ।
+> प्राप्नोमि ॥ ऋणु गतौ । तनादिः ॥ तत्र दृष्टांतः । गोभिरिव । यथा गोपालो
+> गोभिर्व्रजं गोष्ठं गच्छति तद्वत्त्वां स्तुतिभिः प्राप्नोमीत्यर्थः । ततस्त्वं जरितुः
+> स्तोतुर्मम कामं धनादिविषयमा पृण । आपूरय । तथा मनो मदीयं
+> मानसं धनादिप्रदानेनापूरय ॥
+
+##### Gist of the bhāṣya
+
+O wielder of the thunderbolt (adrivat), O Indra, with praises, with words in the form of praise, I approach you; I reach you. The example: as a cowherd comes with the cows to the cow-pen, to the pasture, so I reach you with praises. This is the meaning. Then fulfil the desire of me, the reciter, concerned with wealth and the like; and likewise fill my mind with the giving of wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, who wield the thunderbolt weapon
+- गोभिः (*gobhiḥ*)—a cowherd accompanied by cows
+- व्रजं इव (*vrajaṃ iva*)—as he joins the cow-pen
+- गीर्भिः (*gīrbhiḥ*)—with words in the form of praise
+
+### Printed p. 79
+- त्वा (*tvā*)—you
+- आ ऋणोमि (*ā ṛṇomi*)—I approach with devotion
+- जरितुः (*jarituḥ*)—of me the praiser
+- कामं (*kāmaṃ*)—the desire concerned with wealth and the like
+- आ पृण (*ā pṛṇa*)—fulfil
+- मनः आ (*manaḥ ā*)—also my mind, gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who wield the thunderbolt weapon, as a cowherd with his cows joins the cow-pen, so with words in the form of praise I approach you with devotion. Fulfil the desire of me the praiser, concerned with wealth and the like. Gladden my mind too.
+
+##### English translation
+I approach you, thunderer, with praises, as (a cowherd goes) with cattle to the pasture; gratify the desire, satisfy the mind of your adorer.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑नि वि॒श्वम॑नसो धि॒या नो॑ वृत्रहंतम ।  
+> उग्र॑ प्रणेत॒रधि॒ षू व॑सो गहि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वानि । विश्वमनसः । धिया । नः । वृत्रहन्तम ।  
+> उग्र । प्रनेतरिति प्रनेशः । अधि । सु । वसो इति । गहि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहंतमातिशयेन वृत्रासुरस्योपद्रवाणां वा हंतः । नाद्भस्यॆति
+> तमपो नुडागमः ॥ कीदृश । उग्रोद्गर्णबल प्रणेतः स्तोत्कृणां प्रकर्षण
+> धनादेर्नेतः ॥ आमंत्रित इत्युग्रेत्यस्याविद्यमानवद्भावप्रतिषेधः ॥ तथाविध वसो
+> शक्रूणां वासयितरिंद्र नः । पूजायां बहुवचनं । विश्वमनस एतन्नाम्यो मम
+> विश्वानि सर्वाणि स्तोत्राणि कर्माणि वा धिया मनसा सु सुष्पधि गहि । अधिगच्छ ।
+> स्तुत्यतया यष्टव्यतया वा मनोवेगेन गच्छेत्यर्थः ॥ गमेर्लोटि छांदसः
+> शपो लुक् । हेर्जिद्वद्भावादनुदात्तोपदेशेत्यनुनासिकलोपः ॥
+
+##### Gist of the bhāṣya
+
+O foremost slayer of Vṛtra, that is, the greatest slayer of the asura Vṛtra or of troubles. Of what kind? O fierce one (ugra), possessed of formidable strength, O praṇetaḥ, one who leads forward wealth and the like to the reciters. Such as you are, O vasu, O Indra, who make enemies dwell (vāsayitṛ): the plural "us" (naḥ) is used in honour. All praises or rites of me, named Viśvamanas, come near with the mind, well; come to them. The meaning is: as one to be praised or as one to be worshipped, come with the speed of the mind.
+
 ---
 
-**Progress note:** Done through printed p. 71. Sukta 23 Rk 24-30, pp. 66-71
+**Progress note:** Done through printed p. 79. Sukta 23 Rk 30 end, Sukta 24 Rk 1-7 bhashya, pp. 72-79
