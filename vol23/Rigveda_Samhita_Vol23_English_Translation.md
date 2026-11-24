@@ -11411,6 +11411,212 @@ An account of the seers in the eighth Maṇḍala and of the sūktas and Ṛks s
 
 **NOTE**
 
+### Printed p. 288
+
+| No. | Seer | Maṇḍala | Sūkta | Ṛks | Total ṛks |
+|---|---|---|---|---|---|
+| 34 | मेध्यः काण्वः (*medhyaḥ kāṇvaḥ*) | 8 | 53 | 8 | |
+| | | 8 | 57 | 4 | |
+| | | ,, | 58 | 3 | (15) |
+| 35 | मातरिश्वा काण्वः (*mātariśvā kāṇvaḥ*) | 8 | 54 | 8 | (8) |
+| 36 | कृशः काण्वः (*kṛśaḥ kāṇvaḥ*) | 8 | 55 | 5 | (5) |
+| 37 | पृषध्रः काण्वः (*pṛṣadhraḥ kāṇvaḥ*) | 8 | 56 | 5 | (5) |
+| 38 | सुपर्णः काण्वः (*suparṇaḥ kāṇvaḥ*) | 8 | 59 | 3 | (7) |
+| 39 | भर्गः प्रागाथः (*bhargaḥ prāgāthaḥ*) | 8 | 60 | 20 | |
+| 40 | प्रगाथः काण्वः (*pragāthaḥ kāṇvaḥ*) | ,, | 61 | 18 | (38) |
+| | | ,, | 63 | 12 | |
+| 41 | कलिः प्रागाथः (*kaliḥ prāgāthaḥ*) | ,, | 64 | 12 | |
+| | | ,, | 95 | 12 | (36) |
+| | | 8 | 66 | 15 | (15) |
+| 42 | मत्स्यः सामदः (*matsyaḥ sāmadaḥ*) | 8 | 67 | 21 | (21) |
+| 43 | मान्यो मैत्रावरुणिः (*mānyo maitrāvaruṇiḥ*) | 8 | 67 | 21 | (21) |
+| 44 | पुरुहन्मा (*puruhanmā*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 70 | 15 | (15) |
+| 45 | सुदीतिः (*sudītiḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 71 | 15 | (15) |
+| 46 | पुरुमिळः (*purumiḷaḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 71 | 15 | (15) |
+| 47 | हर्यतः प्रागाथः (*haryataḥ prāgāthaḥ*) | 8 | 72 | 18 | (18) |
+| 48 | गोपवन आश्रेयः (*gopavana āśreyaḥ*) | 8 | 73 | 18 | |
+| 49 | कुरुसुतिः काण्वः (*kurusutiḥ kāṇvaḥ*) | ,, | 74 | 15 | (33) |
+| | | ,, | 76 | 12 | |
+| | | ,, | 78 | 10 | (33) |
+| 50 | कृत्नुर्भार्गवः (*kṛtnurbhārgavaḥ*) | 8 | 79 | 9 | (9) |
+| 51 | एकद्यूः नौधसः (*ekadyūḥ naudhasaḥ*) | 8 | 80 | 10 | (10) |
+| 52 | कुसीदी काण्वः (*kusīdī kāṇvaḥ*) | 8 | 81 | 9 | |
+| | | ,, | 82 | 9 | |
+| | | ,, | 83 | 9 | (27) |
+| 53 | उशना काव्यः (*uśanā kāvyaḥ*) | 8 | 84 | 9 | |
+| | | 9 | 87 | 9 | |
+| | | ,, | 88 | 8 | |
+| | | ,, | 89 | 7 | (33) |
+| 54 | कृष्णः (*kṛṣṇaḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 85 | 9 | |
+| | | ,, | 86 | 5 | |
+
+### Printed p. 289
+
+| No. | Seer | Maṇḍala | Sūkta | Ṛks | Total ṛks |
+|---|---|---|---|---|---|
+| | | 8 | 83 | 6 | |
+| | | 10 | 42 | 11 | |
+| | | ,, | 43 | 11 | |
+| | | ,, | 44 | 11 | (53) |
+| 55 | विश्वकः कार्ष्टीः (*viśvakaḥ kārṣṭīḥ*) | 8 | 86 | 5 | (5) |
+| 56 | द्युम्नाकः (*dyumnākaḥ*) | 8 | 77 | 6 | (6) |
+| 57 | नोधाः (*nodhāḥ*) (गौतनुः (*gautanuḥ*)) | 1 | 58 | 9 | |
+| | | ,, | 59 | 7 | |
+| | | ,, | 60 | 5 | |
+| | | ,, | 61 | 16 | |
+| | | ,, | 62 | 13 | |
+| | | ,, | 63 | 9 | |
+| | | ,, | 64 | 15 | |
+| | | 8 | 88 | 6 | |
+| | | 9 | 93 | 5 | (85) |
+| 58 | नृमेधः (*nṛmedhaḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 89 | 7 | |
+| | | ,, | 90 | 6 | |
+| | | ,, | 98 | 12 | |
+| | | ,, | 99 | 8 | |
+| | | 9 | 26 | 6 | (45) |
+| 59 | पुरुमेधः (*purumedhaḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 89 | 7 | |
+| | | ,, | 90 | 6 | (83) |
+| 60 | अपाला आत्रेयिा (*apālā ātreyiā*) | 8 | 91 | 7 | (7) |
+| 61 | श्रुतक्षः (*śrutakṣaḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 92 | 33 | (33) |
+| 62 | सुकक्षः (*sukakṣaḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 93 | 33 | |
+| | | | 93 | 34 | (67) |
+| 63 | बिंदुः (*biṃduḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 94 | 12 | |
+| | | 9 | 30 | 6 | (88) |
+| 64 | पूतदक्षः (*pūtadakṣaḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 94 | 12 | (12) |
+| 65 | तिरश्चिः (*tiraściḥ*) (आंगिरसः (*āṃgirasaḥ*)) | 8 | 95 | 9 | |
+| | | ,, | 96 | 21 | (30) |
+| 66 | द्युतानः मारुतः (*dyutānaḥ mārutaḥ*) | 8 | 96 | 21 | (21) |
+| 67 | रेचः (*recaḥ*) (आंगिरसः (*āṃgirasaḥ*)) **NOTE** | 8 | 97 | 24 | (24) |
+
+### Printed p. 290
+
+| No. | Seer | Maṇḍala | Sūkta | Ṛks | Total ṛks |
+|---|---|---|---|---|---|
+| 68 | नेमो भार्गवः (*nemo bhārgavaḥ*) | 8 | 100 | 1–3 = 3 | |
+| | | ,, | | 6–12 = 7 | (10) |
+| | | 8 | 100 | 4–5 = 2 | (2) |
+| 70 | जमदग्निर्भार्गवः (*jamadagnirbhārgavaḥ*) | 8 | 100 | 16 | |
+| | | 9 | 62 | 30 | |
+| | | ,, | 65 | 30 | |
+| | | ,, | 67 | 16–18 = 3 | (79) |
+| | | 8 | 102 | 22 | (22) |
+| 71 | प्रयोगो भार्गवः (*prayogo bhārgavaḥ*) | 8 | 102 | 22 | |
+| 72 | अग्निः पावकः बाहस्पत्यः (*agniḥ pāvakaḥ bāhaspatyaḥ*) | 8 | 102 | 22 | |
+| | | 10 | 140 | 6 | (28) |
+| 73 | गृहपतिः सहसस्पुत्रः (*gṛhapatiḥ sahasasputraḥ*) | 8 | 102 | 22 | (22) |
+| 74 | यविष्ठः सहसस्पुत्रः (*yaviṣṭhaḥ sahasasputraḥ*) | 8 | 102 | 22 | (22) |
+
+In this eighth maṇḍala there are 10 anuvākas, 103 sūktas and 1716 ṛks (including the Vālakhilya sūktas).
+
+## Maṇḍala 8
+
+## Sūkta 1 (Maṇḍala 8)
+
+The first sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अष्टमे मंडले दशानुवाकाः । तत्र प्रथमेऽनुवाके पंच सूक्तानि ।
+> तेषु मा चिदन्यदिति चतुस्त्रिंशदृचं प्रथमं सूक्तं । अत्रानुक्रम्यते । मा
+> चिच्चतुस्त्रिंशन्नेधातिथिमेध्यातिथी ऐंद्रं बार्हतं द्विप्रगाथादि द्वित्रिष्टुबंतमाद्यं
+> द्वचं प्रगाथोऽपश्यत्स घौरः सन्भातुः कण्वस्य पुत्रतामगात् प्लायोगिश्वासंगो
+> यः स्त्रीभूत्वा पुमानभूत्स मेध्यातिथये दानं दत्वा स्तुहि स्तुहीति चतसृभिरात्मानं तुष्टाव पत्नि चास्यांगिरसी शश्वती पुंत्वमुपलभ्यैनं प्रीतांत्यया तुष्टावेति । अस्यायमर्थः । अस्य सूक्तस्य मेधातिथिमेध्यातिथिनामाना द्वावृषी ता
+> च कण्वगोत्रौ । ऋषिश्चानुक्तगोत्रः प्राङ्मत्सात्काण्व इति परिभाषितत्वात् । आद्यस्य
+> द्वचस्य तु घोरस्य पुत्रः स्वकीयभ्रातुः कण्वस्य पुत्रतां प्राप्तत्वात्काण्वः प्रगाथाख्य
+> ऋषिः । प्लयोगनान्नो राज्ञः पुत्र आसंगाभिदानो राजा देवशापात् स्त्रीत्वमनुभूय पश्चात्तपोबलेन मेधातिथेः प्रसादात्पुमान् भूत्वा तस्मै बहु धनं
+> दत्वा स्वकीयमंतरात्मानं दत्तदानं स्तुहि स्तुहीत्यादिभिश्चतसृभिर्यग्निरस्तात् ।
+> अतस्तासामासंगाख्यो राजा ऋषिः । अस्यासंगस्य भार्यांगिरसः सुता शश्वत्याख्या
+
+##### Gist of the bhāṣya
+
+The eighth maṇḍala has ten anuvākas; in the first anuvāka there are five sūktas, and of these the first is the one of thirty-four ṛks beginning मा चिदन्यत् (*mā cidanyat*). Sāyaṇa quotes the Anukramaṇī: मा चिच्चतुस्त्रिंशन्नेधातिथिमेध्यातिथी ऐंद्रं बार्हतं द्विप्रगाथादि द्वित्रिष्टुबंतमाद्यं द्वचं प्रगाथोऽपश्यत्स घौरः सन्भातुः कण्वस्य पुत्रतामगात् प्लायोगिश्वासंगो यः स्त्रीभूत्वा पुमानभूत्स मेध्यातिथये दानं दत्वा स्तुहि स्तुहीति चतसृभिरात्मानं तुष्टाव पत्नि चास्यांगिरसी शश्वती पुंत्वमुपलभ्यैनं प्रीतांत्यया तुष्टावेति । (*mā ciccatustriṃśannedhātithimedhyātithī aiṃdraṃ bārhataṃ dvipragāthādi dvitriṣṭubaṃtamādyaṃ dvacaṃ pragātho 'paśyatsa ghauraḥ sanbhātuḥ kaṇvasya putratāmagāt plāyogiśvāsaṃgo yaḥ strībhūtvā pumānabhūtsa medhyātithaye dānaṃ datvā stuhi stuhīti catasṛbhirātmānaṃ tuṣṭāva patni cāsyāṃgirasī śaśvatī puṃtvamupalabhyainaṃ prītāṃtyayā tuṣṭāveti |*). He explains it. The sūkta has two seers, Medhātithi and Medhyātithi, both of the Kaṇva gotra (a seer whose gotra is not stated is Kāṇva, by the established rule प्राङ्मत्सात्काण्व (*prāṅmatsātkāṇva*)). For the first two ṛks the seer is Praġātha, son of Ghora, who became the son of his own brother Kaṇva and so is called Kāṇva. Āsaṅga, son of the king Plāyoga, having by the curse of the gods experienced womanhood and afterwards, by the power of Medhātithi's austerity and by his grace, become a man again, gave him much wealth and praised his own inner self, who had made the gift, with the four ṛks beginning स्तुहि स्तुहि (*stuhi stuhi*). So King Āsaṅga is the seer of those four. His wife, Śaśvatī, daughter of Aṅgiras, delighted on finding her husband a man, praised him with the ṛk *anvasya sphuraṃ* (the last); she is the seer of that ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+##### भावार्थ (Bhāvārtha)
+
+##### विशेषविषयगळु (Special Topics)
+
+### Printed p. 291
+
+> भर्तुः पुंस्त्वमुपलभ्य प्रीता सती स्वभर्तारमन्वस्य स्फुरमित्यनया स्तुतवती ।
+> आतस्तस्या ऋचः शश्वत्यृषिका । अंत्ये द्वे त्रिष्टुभौ द्वितीयाचतुर्थ्य सतोबृहत्कौ
+> शिष्टा बृहत्यः । कृत्सन्य सूक्तस्येंद्रो देवता । स्तुहि स्तुहीत्याद्याश्चतस्र आत्मकृतस्य
+> दानस्य स्फूयमानत्वात्तद्देवताकाः । अन्वस्येत्यस्या असंगाख्यो राजा देवता ।
+> या तेनोच्यते सा देवतेति न्यायात् ॥ महाव्रते निष्केवल्ये बार्हततृचाशीतावादित एकोनत्रिंशद्विनियुक्ताः । तथैव पंचमारण्यके सूत्रितं । मा चिदन्यद्वि शंसतेत्येकया न त्रिंशत् । ऐ. आ. ५-२-४ । इति ॥ चातुर्विंशिकेऽहनि माध्यंदिनसवने
+> मैत्रावरुणस्य मा चिदन्यदिति वैकल्पिकः स्तोत्रियः प्रगाथः । सूत्रितं च । मा
+> चिदन्यद्वि शंसत यच्चिद्दि त्वा जना इम इति स्तोत्रियानुरूपौ । आ. ७-४ । इति ॥
+> ग्रावस्तोत्रेऽप्याद्या विनियुक्ता । सूत्रितं च । आ तू न इंद्र क्षुमंतं मा
+> चिदन्यद्वि शंसत । आ. ५-१२ । इति ॥ उपाकरणोत्सर्जनयोर्मंडलादिहोमेऽप्येषा । सूत्र्यते हि । मा चिदन्यदाग्ने याहि स्वादिष्ठयेति ॥
+
+##### Gist of the bhāṣya
+
+The last two ṛks are in Triṣṭubh; the second and fourth are Satobṛhatī; the rest are Bṛhatī. Indra is the deity of the whole sūkta; the four beginning स्तुहि स्तुहि (*stuhi stuhi*) have the praise of the gift (dāna) as deity, since the gift made by oneself is praised in them. The ṛk अन्वस्य (*anvasya*) has King Āsaṅga as deity, by the rule या तेनोच्यते सा देवता (*yā tenocyate sā devatā*). Application: in the Mahāvrata, in the Niṣkevalya, twenty-nine ṛks from the beginning are employed for the Bṛhatī-tṛca-recitation; the fifth Āraṇyaka lays down: मा चिदन्यद्वि शंसतेत्येकया न त्रिंशत् (*mā cidanyadvi śaṃsatetyekayā na triṃśat*) (Ai. Ā. 5-2-4). On the Cāturviṃśika day, at the midday pressing, मा चिदन्यत् (*mā cidanyat*) is the optional stotriya pragātha of the Maitrāvaruṇa priest, as the sūtra says: मा चिदन्यद्वि शंसतेत्येकया न त्रिंशत् । ऐ. आ. ५-२-४ । इति ॥ चातुर्विंशिकेऽहनि माध्यंदिनसवने मैत्रावरुणस्य मा चिदन्यदिति वैकल्पिकः स्तोत्रियः प्रगाथः । सूत्रितं च । मा चिदन्यद्वि शंसत यच्चिद्दि त्वा जना इम इति स्तोत्रियानुरूपौ । (*mā cidanyadvi śaṃsatetyekayā na triṃśat | ai. ā. 5-2-4 | iti ‖ cāturviṃśike 'hani mādhyaṃdinasavane maitrāvaruṇasya mā cidanyaditi vaikalpikaḥ stotriyaḥ pragāthaḥ | sūtritaṃ ca | mā cidanyadvi śaṃsata yacciddi tvā janā ima iti stotriyānurūpau |*) (Ā. 7-4). The first ṛk is also applied in the Grāvastotra: आ तू न इंद्र क्षुमंतं मा चिदन्यद्वि शंसत (*ā tū na iṃdra kṣumaṃtaṃ mā cidanyadvi śaṃsata*) (Ā. 5-12). It is also used in the Upākaraṇa and Utsarjana, in the Maṇḍala and other homas, as the sūtra says: मा चिदन्यदाग्ने याहि स्वादिष्ठयेति (*mā cidanyadāgne yāhi svādiṣṭhayeti*).
+
+##### Anuvāda
+
+The eighth maṇḍala has ten anuvākas. In the first of them there are five sūktas, and of these five this sūkta beginning मा चिदन्यत् (*mā cidanyat*) is the first. It has thirty-four ṛks. In the Anukramaṇī: मा चिच्चतुस्त्रिंशन्नेधातिथिमेध्यातिथी इंद्रं बार्हतं द्विप्रगाधादि द्वितिष्टुबुतमाद्यं दृचं प्रगाथोऽपश्यत्स घौरः सन्भातुः । कण्वस्य पुत्रतामगात् प्लायोगिश्चासंगो यः स्त्री भूत्वा पुमानभूत्स मेध्यातिथये दानं दत्वा स्तुहि स्तुहीति चतसृभिरात्मानं तुष्टाव पत्नि चास्यांगिरसी शश्वती पुंत्वमुपलभ्यैनं प्रीतांत्यया तुष्टाव (*mā ciccatustriṃśannedhātithimedhyātithī iṃdraṃ bārhataṃ dvipragādhādi dvitiṣṭubutamādyaṃ dṛcaṃ pragātho 'paśyatsa ghauraḥ sanbhātuḥ | kaṇvasya putratāmagāt plāyogiścāsaṃgo yaḥ strī bhūtvā pumānabhūtsa medhyātithaye dānaṃ datvā stuhi stuhīti catasṛbhirātmānaṃ tuṣṭāva patni cāsyāṃgirasī śaśvatī puṃtvamupalabhyainaṃ prītāṃtyayā tuṣṭāva*), is what is said. The main sense is this: the seers of this sūkta are two, Medhātithi and Medhyātithi, both born in the Kaṇva gotra. There is a custom that when a seer's gotra is not known, he is said to be of the Kaṇva gotra. For the first two ṛks of this sūkta the seer is Praġātha, son of Kaṇva. He was the son of Ghora and obtained the sonship of Kaṇva, Ghora's brother, that is, he became famous as Kaṇva's son. Āsaṅga, a prince, son of a king named Plāyoga, by the curse of the gods was for some time a woman, and then through the austerity and favour of the seer Medhātithi regained manhood. For that service he gave much wealth and so on to Medhātithi, and addressing himself he praised that matter, namely the praise of the gift he had made, with four ṛks beginning स्तुहि स्तुहि (*stuhi stuhi*) (ṛks 30–33 of this sūkta), saying "praise it". Therefore King Āsaṅga is the seer of those four ṛks. The wife of this King Āsaṅga, Śaśvatī, daughter of the seer Aṅgiras, delighted that her husband had regained manhood,
+
+### Printed p. 292
+
+praised her husband King Āsaṅga with the ṛk अन्वस्य स्थूरं (*anvasya sthūraṃ*) (ṛk 34). Therefore Śaśvatī, wife of King Āsaṅga, is the seer of that ṛk. The last two ṛks of this sūkta are in the Triṣṭubh metre. The second and fourth ṛks are in the Satobṛhatī metre. The remaining ṛks are in the Bṛhatī metre. Indra is the deity of the whole sūkta. Since the four ṛks beginning स्तुहि स्तुहि (*stuhi stuhi*) (ṛks 30–33) contain praise of the gift made by oneself, the praise of the gift is the deity of those four. For the ṛk अन्वस्य (*anvasya*) (ṛk 34) King Āsaṅga is the deity; the deities are assigned according to the principle या तेनोच्यते सा देवता (*yā tenocyate sā devatā*): the matter that is expounded (praised) in the ṛk is the deity of that ṛk. In the Mahāvratesṭi, when the Niṣkevalya mantra-recitations (śastras) are recited, the first twenty-nine ṛks of this sūkta are employed for the ṛks in the Bṛhatī metre; this is stated in the Aitareya Āraṇyaka, in the fifth Āraṇyaka, by the sentence मा चिदन्यद्वि शंसतेत्येकया न त्रिंशत् (*mā cidanyadvi śaṃsatetyekayā na triṃśat*) (Ai. Ā. 5-2.4). And at the midday pressing of the day of the sacrifice called Cāturviṃśika, the priest named Maitrāvaruṇa may optionally recite the tṛca (three ṛks) beginning मा चिदन्यत् (*mā cidanyat*) as the stotriya pragātha tṛca; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra मा चिदन्यद्वि शंसत यच्चिद्दि त्वा जना इम इति स्तोत्रीयानुरूपौ (*mā cidanyadvi śaṃsata yacciddi tvā janā ima iti stotrīyānurūpau*) (Ā. 5-12). **NOTE**. This ṛk is also to be recited at the beginning of the Grāvastuti mantras, which praise the stones called ग्रावाणः (*grāvāṇaḥ*) that crush the soma plants; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra आ तून इंद्र क्षुमंतं मा चिदन्यद्वि शंसत (*ā tūna iṃdra kṣumaṃtaṃ mā cidanyadvi śaṃsata*) (Ā. 5-12). In the Maṇḍala and other homas performed in the Upākaraṇa and Utsarjana rites, this ṛk is to be recited as one of the ṛks of the principal oblation; this is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra मा चिदन्यदाग्ने याहि स्वादिष्टया (*mā cidanyadāgne yāhi svādiṣṭayā*).
+
+Sūkta—1
+Maṇḍala—8. Anuvāka—1. Sūkta—1.
+Aṣṭaka—5. Adhyāya—7. Vargas—10, 11, 12, 13, 14, 15, 16.
+Number of ṛks in the sūkta—34.
+Seer: 1, 2. प्रगाथो घौरः काण्वो वा (*pragātho ghauraḥ kāṇvo vā*). 3–29. मेधातिथिमेध्यातिथी काण्वा (*medhātithimedhyātithī kāṇvā*). 30–33. असंगः प्लायोगिः (*asaṃgaḥ plāyogiḥ*). 34. शश्वत्यांगिरस्यासंगस्य पत्नि (*śaśvatyāṃgirasyāsaṃgasya patni*).
+Deity: 1–29. इंद्रः (*iṃdraḥ*). 30–33. असंगस्य दानस्तुतिः (*asaṃgasya dānastutiḥ*). 34. असंगः (*asaṃgaḥ*).
+Metre: 1, 3, 5–32. बृहती (*bṛhatī*). 2, 4. सतोबृहती (*satobṛhatī*). 33, 34. त्रिष्टुप् (*triṣṭup*).
+
+### Printed p. 293
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा चि॑द॒न्यद्वि शं॑सत॒ सखा॑यो॒ मा रि॑षण्यत ।  
+> इंद्र॒मित्सो॑त्ता॒ वृष॑णं॒ सचा॑ सु॒ते मुहु॑रु॒क्था च॑ शंसत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । चित् । अन्यत् । वि । शंसत । सखायः । मा । रिषण्यत ।  
+> इंद्रं । इत् । स्तोत । वृषणं । सचा । सुते । मुहुः । उक्ता । च । शंसत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः समानख्यानाः स्तोतारः इंद्रस्तोत्रादन्यत्सोत्रं मा चिद्वि
+> शंसत । मैवोच्चारयत । मा रिषण्यत । मा हिंसितारो भवत । अन्यदीयस्तोत्रोच्चारणेन वृथोपक्षेणा मा भवत । सुतेऽभिषुते सोमे वृषणं
+> कामानां वर्षितारमिंद्रमिदिंद्रमेव हे प्रस्तोत्रादयः सचा सह संघीभूय
+> स्तोत । स्तुत । हे प्रशस्त्रादयः उक्ता चोत्कानि शस्त्राणि चंद्रविषयाणि यूयं
+> मुहुः पुनःपुनः शंसत ॥
+
+##### Gist of the bhāṣya
+
+O friends, fellow-singers, do not recite any praise other than the praise of Indra; do not become injurers, do not be harmful to yourselves by uttering another's praise to no purpose. When soma has been pressed, O Prastotṛ and the others, praise together Indra alone, the showerer of desires. O Praśāstṛ and the others, you recite again and again the uktha-śastras that are directed to Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O friends
+- अन्यत् (*anyat*)—any praise other than praise of Indra
+- मा चित् वि शंसत (*mā cit vi śaṃsata*)—do not recite at all
+- मा रिषण्यत (*mā riṣaṇyata*)—do not bring trouble upon yourselves
+- सुते (*sute*)—when the soma juice has been pressed
+- वृषणं (*vṛṣaṇaṃ*)—the showerer of desires
+- इंद्रमित् (*iṃdramit*)—Indra alone
+- सचा (*sacā*)—together, united
+- स्तोत (*stota*)—praise
+- उक्था च (*ukthā ca*)—and the uktha mantras directed to Indra
+- मुहुः (*muhuḥ*)—again and again
+- शंसत (*śaṃsata*)—recite
+
+##### भावार्थ (Bhāvārtha)
+
+O friends, do not recite at all any praise other than the praise of Indra. Do not bring trouble upon yourselves. When the soma juice has been pressed, praise together Indra alone, the showerer of desires. Recite again and again the ukthas directed to Indra.
+
+##### English translation
+Repeat, friends, no other praise, be not hurtful (to yourselves):
+
 ---
 
-**Progress note:** Done through printed p. 287. pp. 281-287 (batch API)
+**Progress note:** Done through printed p. 293. pp. 288-293 (batch API)
