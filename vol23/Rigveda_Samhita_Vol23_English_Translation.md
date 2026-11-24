@@ -24358,6 +24358,297 @@ O Aśvin deities, leaders, with the protections with which you preserved the kin
 > प्र वां॒ स्तोमाः॑ सुवृ॒क्तयो॒ गिरो॑ वर्धंत्वश्विना ।  
 > पुरु॑त्रा॒ वृत्र॑हंतमा॒ ता नो॑ भूतं पुरु॒स्पृहा॑ ॥२२॥
 
+### Printed p. 588
+#### Ṛk 22 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वां । स्तोमाः । सुवृक्तयः । गिरः । वर्धंतु । अश्विना ।  
+> पुरुत्रा । वृत्रहन्तमा । ता । नः । भूतं । पुरुस्पृहा ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ स्तोमाः प्रगीतमंत्ररूपाः स्तुतयः सुवृक्तयः सुप्रवृत्ताः
+> सुष्टु दोषवर्जिता वा गिरः शस्त्ररूपा वाचश्च वां युवां प्र वर्धंतु । प्रवर्धयंतु । अपि च हे पुरुत्रा बहूनां त्रातारौ हे वृत्रहंतमा वृत्राणां शत्रुणां हंतृतमौ ईदृशौ हे अश्विनौ ता तौ युवां नोऽस्माकं पुरुषस्पृहा पुरु
+> बहुलं स्पृहणीयावीप्सितव्या भूतं । भवतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, may the hymns (stomas), which are praises in the form of sung mantras, and the well-made, faultless words (girah) in the form of recitations (śastra), magnify you. Further, O protectors of many (पुरुत्रा (*purutrā*)), O supreme slayers of foes (वृत्रहंतमा (*vṛtrahaṃtamā*)), such as you are, be to us greatly desirable, to be longed for.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- स्तोमाः (*stomāḥ*)—praises in the form of song
+- सुवृक्तयः (*suvṛktayaḥ*)—composed without fault
+- गिरः (*giraḥ*)—words in the form of recitation
+- वां (*vāṃ*)—you
+- प्र वर्धंतु (*pra vardhaṃtu*)—may they make you fully strong
+- पुरुत्वा (*purutvā*)—protectors of many
+- वृत्रहंतमा (*vṛtrahaṃtamā*)—destroyers of foes, O Aśvin deities
+- ता (*tā*)—you, the renowned
+- नः (*naḥ*)—to us
+- पुरुस्पहा (*puruspahā*)—being objects of great regard
+- भूतं (*bhūtaṃ*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, may the praises in the form of song, and the words composed without fault in the form of recitation, make you fully strong. O Aśvins, protectors of many and destroyers of foes, you, the renowned, be objects of our great regard.
+
+##### English translation
+May (perfect) hymns and holy praises magnify you, Aswins: protectors of many, exterminators of foes, greatly are you desired of us.
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रीणि॑ प॒दान्य॒श्विनो॑रा॒विः सांति॒ गुहा॑ प॒रः ।  
+> क॒वी ऋ॒तस्य॒ पत्स॑भिर॒र्वाग्जी॒वेभ्य॒स्परि॑ ॥ २३ ॥
+
+### Printed p. 589
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रीणि । पदानि । अश्विनोः । आविः । संति । गुहा । परः ।  
+> कवी इति । ऋतस्य । पत्मभिः । अर्वाक् । जीवेभ्यः । परि ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रीणि त्रिसंख्याकान्य नयोरश्विनोर्दॆवयो रथस्य संबंधीनि पदानि चक्राणि
+> गुहायां वर्तमानान्येतावंतं कालमदृश्यमानानि परो गुहायाः परस्ताद्दष्टिगोचरे देश आविः संति । आविर्भवंति ॥ सांहितिकश्चांदसो धीर्घः । व्यत्ययेन
+> निघाताभावः । यद्वा । संतीत्येतदस्तेः शतरि जसि रूपं ॥ आविर्भूतानि दृश्यंते ।
+> आश्विनस्य रथस्य चक्रत्रयोपेतत्वं च रथस्त्रिचक्रः परि वर्तते । ऋ. ४-३६-१ । इत्यादिनि
+> गमांतरे प्रसिद्धं । कवी क्रांतदर्शिनावश्विनावृतस्य सत्यस्योदकस्य यज्ञस्य वा हेतुभूतैः पत्रभिर्य्यैः पदैर्जीवेभ्यस्परि । परिरुपर्यर्थः ॥ पंचम्याः परावध्यर्थ इति
+> सत्वं ॥ जीवानामःपरि जीवेष्वस्मास्वर्नागभिमुखं । आगच्छतमिति शेषः । तानि
+> पदानीदानीमुपलभ्यंत इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Three footprints (पदानि (*padāni*)), that is, the three wheels of the chariot of these two deities, the Aśvins, which were hidden in a secret place and so unseen till now, have become visible beyond the secret place, in a place within sight. Sāyaṇa gives the accentual and sandhi explanation of संति (*saṃti*), or else takes it as a form of the root *asteḥ* with the participle; the three wheels of the Aśvins' chariot are well known from another passage: रथस्त्रिचक्रः परि वर्तते (*rathastricakraḥ pari vartate*) (Ṛ. Saṃ. 4-36-1). The two seers (कवी (*kavī*)), far-sighted Aśvins, by those paths that are the means of ṛta (truth, water or sacrifice), turn toward the living beings, that is, toward us; "come" is to be supplied. Those paths are now seen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विनोः (*aśvinoḥ*)—of the Aśvin deities
+- गुहा (*guhā*)—hidden in a secret place
+- त्रीणि (*trīṇi*)—three in number
+- पदानि (*padāni*)—the chariot wheels
+- पुरः (*puraḥ*)—so as to come into sight
+- आविः संति (*āviḥ saṃti*)—have become manifest
+- कवी (*kavī*)—far-sighted Aśvin deities
+- ऋतस्य (*ṛtasya*)—of truth
+- पत्महिः (*patmahiḥ*)—by the paths
+- जीवेभ्यः परि (*jīvebhyaḥ pari*)—in front of the worlds of the living
+- अर्वाक् (*arvāk*)—stand facing them (stand so as to be visible to us)
+
+##### भावार्थ (Bhāvārtha)
+
+The chariot wheels of the Aśvins, three in number, hidden till now in a secret place, have appeared so as to be visible to all. O far-sighted Aśvin deities, coming by the paths of truth, come and stand facing us, all of us who belong to the world of the living, so that we may see you.
+
+##### English translation
+The three wheels (of the chariot) of the Aswins, which were invisible, have become manifest: you two, who are cognizant of the past, (come) by the paths of truth to the presence of living beings.
+
+### Printed p. 590
+## Sūkta 9 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+##### Gist of the bhāṣya
+
+The sūkta आ नूनं (*ā nūnaṃ*) has twenty-one ṛks, seer Śaśakarṇa (of the Kaṇva line), deity the Aśvins. Ṛks 20, 21, 2 and 3 are Gāyatrī; 1, 4, 6, 14, 15 are Bṛhatī; 5 is Kakubh; 10 Triṣṭubh; 11 Virāṭ; 12 Jagatī; the rest Anuṣṭubh. The Anukramaṇī is quoted. The sūkta is used in the Aptoryāma for the atiriktokthya mantras recited by the Brāhmaṇācchaṃsin, as stated in Āśvalāyana's Sūtra आ नूनमश्विना तं वां रथं (*ā nūnamaśvinā taṃ vāṃ rathaṃ*) (Ā. 9-11).
+
+##### Anuvāda
+
+This sūkta आ नूनं (*ā nūnaṃ*) is the fourth sūkta in the second anuvāka. It has twenty-one ṛks. Its seer is Śaśakarṇa of the Kaṇva gotra; its deity the Aśvin deities. In this sūkta the ṛks twenty, twenty-one, and the second and third, four ṛks in all, are in the Gāyatrī metre; one, four, six, fourteen and fifteen, these five, are in the Bṛhatī metre. The fifth ṛk is in the Kakubh metre; the characteristic of the Kakubh metre, that a ṛk has three pādas, with eight syllables each in the first and last pādas and twelve in the middle pāda, is stated in the Chando-'nukramaṇikā (Anu. 5-3). The tenth ṛk is in Triṣṭubh, the eleventh in Virāṭ, the twelfth in Jagatī; the remaining ṛks in Anuṣṭubh. The Anukramaṇī says: आ नूनं सैका शशकर्णोऽन्ते गायत्रावुपादे आद्या चतुर्थि, षष्टि चतुर्द. श्याद्ये च बृहत्यः पंचमी ककुब्बशम्याद्यास्तिष्टुब्बिराड्डगत्यः (*ā nūnaṃ saikā śaśakarṇo 'nte gāyatrāvupāde ādyā caturthi, ṣaṣṭi caturda. śyādye ca bṛhatyaḥ paṃcamī kakubbaśamyādyāstiṣṭubbirāḍḍagatyaḥ*). The use of this sūkta is for the atiriktokthya mantras to be recited by the priest called Brāhmaṇācchaṃsin in the sacrifice called Aptoryāma, as explained in Āśvalāyana's Śrauta Sūtra by the sūtra आ नूनमश्विना तं वां रथं (*ā nūnamaśvinā taṃ vāṃ rathaṃ*) (Ā. 9-11).
+
+##### Particulars
+
+- Maṇḍala 8; Anuvāka 2; Sūkta 9
+- Aṣṭaka 5; Adhyāya 8; Vargas 30, 31, 32, 33
+- Number of ṛks in the sūkta: 21
+- Seer: Śaśakarṇa Kāṇva
+- Deity: the Aśvins
+- Metre: 1, 4, 6, 14, 15 Bṛhatī; 2, 3, 20, 21 Gāyatrī; 5 Kakubh; 7-9, 13, 16-19 Anuṣṭubh; 10 Triṣṭubh; 11 Virāṭ; 12 Jagatī
+
+### Printed p. 591
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नू॒नम॑श्विना यु॒वं व॒त्सस्य॑ गंत॒मव॑से ।  
+> प्रास्मै॑ यच्छतमवृ॒कं पृ॒थु च्छ॒र्दिर्यु॑यु॒तं या  ॑
+> अरातयः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नूनं । अश्विना । युवं । वत्सस्य । गतं । अवसे ।  
+> प्र । अस्मै । यच्छतं । अवृकं । पृथु । छर्दिः । युयुतं । याः ।  
+> अरातयः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् युम युवां वत्सस्य स्तोतुर्ममावसे रक्षणार्थं नूनमवश्यमा गुतं । आगच्छतं । अगत्य चास्मा ऋषयेऽवृकं भाधकरहितं पृथु
+> विस्तीर्णं छर्दिर्गृहं प्र यच्छतं । प्रदत्तं । तथा या आरातयोऽदानशीलाः शत्रुभूताः प्रजास्ता युयुतं । स्तोतृभ्यः पृथक्कुरुतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come surely for the protection of me, the worshipper Vatsa. Having come, grant to this seer a spacious house free from harm. And those hostile, ungenerous people, separate them from the worshippers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you
+- वत्सस्य (*vatsasya*)—of me, named Vatsa
+- अवसे (*avase*)—for protection
+- नूनं (*nūnaṃ*)—surely
+- आ गंतं (*ā gaṃtaṃ*)—be gracious to come
+- अस्मै (*asmai*)—to me, the praiser
+- अवृकं (*avṛkaṃ*)—free from trouble
+- पृथु (*pṛthu*)—and spacious
+- छर्दिः (*chardiḥ*)—a house
+- प्र यच्छतं (*pra yacchataṃ*)—give
+- अरातयः (*arātayaḥ*)—being without generosity
+- याः (*yāḥ*)—whatever hostile people there are (them)
+- युयुतुं (*yuyutuṃ*)—separate from us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come surely for the protection of me, named Vatsa. Give me, the praiser, a house free from trouble and spacious. Whatever hostile people there are who give nothing, separate them from us.
+
+##### English translation
+Come Aswins, without fail, for the protection of the worshipper;
+
+### Printed p. 592
+
+##### English translation
+confer upon him a secure and spacious dwelling; drive away those who make no offerings.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदं॒तरि॑क्षे॒ यद्दि॒वि यत्पंच॒ मानु॑षा॒ अनु॑ ।  
+> न्नम्मं तद्धत्तमश्विना ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अंतरिक्षे । यत् । दिवि । यत् । पंच । मानुषान् । अनु ।  
+> नृम्मं । तत् । धत्तं । अश्विना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंतरिक्षे गंधर्वादिभिः सेविते मध्यमे लोके यन्नृम्मं धनमस्ति । दिवि
+> द्युलोके च यदस्ति । पंच पंचसंख्याकान्मानुषान्मनुष्या ननु ॥ लक्षणेऽनोः
+> कर्मप्रवचनीयत्वं । कर्मप्रवचनीययुक्त इति द्वितीया ॥ पंचविधा मनुष्या
+> निषादपंचमाश्चत्वारो वर्णा यत्र वर्तंते तत्र चेह लोके यन्नृम्मं
+> धनमस्ति । हे अश्विनौ तत्तिविधं नृम्मं धनं धत्तं । अस्मभ्यं प्रयच्छतं ॥
+
+##### Gist of the bhāṣya
+
+Whatever wealth (नृम्मं (*nṛmmaṃ*)) there is in the atmosphere, the middle world frequented by Gandharvas and others, and whatever there is in heaven; and in पंच मानुषान् अनु (*paṃca mānuṣān anu*), among the five kinds of men (the four varṇas with the Niṣādas as fifth), wherever they live, in this world: that threefold wealth, O Aśvins, bestow on us. Sāyaṇa notes that अनु (*anu*) here has the status of a karmapravacanīya, hence the accusative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अंतरिक्षे (*aṃtarikṣe*)—in the atmosphere
+- यत् (*yat*)—whatever
+- नृम्मं (*nṛmmaṃ*)—wealth there is
+- दिवि (*divi*)—in heaven
+- यत् (*yat*)—whatever wealth there is
+- पंच मनुष्यान् अनु (*paṃca manuṣyān anu*)—on the earth where the fivefold men, Niṣādas and others, live
+- यत् (*yat*)—whatever wealth there is
+- तत् (*tat*)—all that wealth of every kind
+- धत्तं (*dhattaṃ*)—give to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whatever wealth there is in the atmosphere, whatever wealth in heaven, whatever wealth on the earth where the fivefold men, Niṣādas and others, dwell: all that wealth of every kind, give to us.
+
+##### English translation
+Whatever wealth may be in the firmament, in heaven, or among the five (classes) of men, bestow, Aswins, (upon us).
+
+### Printed p. 593
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये वां॒ दंसां॑स्यश्विना॒ विप्रा॑सः परिमामृ॒शुः ।  
+> ए॒वेत्का॒ण्वस्य॑ बोधतं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । वां । दंसांसि । अश्विना । विप्रासः । परिममृशुः ।  
+> एव । इत् । काण्वस्य । बोधतं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् वां युवयोः संबंधीनि दंसांसि कर्माणि परिचरणात्मकानि ये
+> विप्रासो विप्रा मेधाविनो यजमानाः परिमामृशुः परिमृशंति पुनः पुनः
+> स्पृशंति । अनुतिष्ठंतीत्यर्थः । यथा तदीयानि परिचरणानि युवां जानीथः एनेदेवमेव काण्वस्य कण्वपुत्रस्य मम परिचरणं बोधतं । अवगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, the wise (विप्रासः (*viprāsaḥ*)) sacrificers, who repeatedly touch (परिमामृशुः (*parimāmṛśuḥ*)), that is, perform, your works (दंसांसि (*daṃsāṃsi*)) of service: as you know their services, so, in just that way, know the service of me, the son of Kaṇva.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- ये विप्रासः (*ye viprāsaḥ*)—those wise sacrificers who
+- वां (*vāṃ*)—directed to you
+- दंसांसि (*daṃsāṃsi*)—rites
+- परिमामृशुः (*parimāmṛśuḥ*)—performed again and again, serving you (as you came to know of it)
+- एनेत् (*enet*)—in the same way
+- काण्वस्य (*kāṇvasya*)—the services of me, the son of Kaṇva
+- बोधता (*bodhatā*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as you came to know how the wise sacrificers of former times performed again and again the rites directed to you and served you, in the same way know the services of me, the son of Kaṇva.
+
+##### English translation
+Recognize, Aswins, ( the devotions ) of the son of Kanwa, as (you have recognized) those former sages who have repeatedly addressed pious works to you.
+
+### Printed p. 594
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं वां॑ घ॒र्मो अ॑श्विना॒ स्तोमे॑न॒ परि॑ षिच्यते ।  
+> अ॒यं सोमो॒ मधु॑मान्वाजिनीवसू॒ येन॑ वृ॒त्रं  ॑
+> चिकेतथः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । वां । घर्मः । अश्विना । स्तोमेन । परि । सिच्यते ।  
+> अयं । सोमः । मधुमान् । वाजिनीवसू इति वाजिनीवसू । येन ।  
+> वृत्रं । चिकेतथः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां युवयोः संबंध्ययं घर्मः प्रवर्ग्यं स्तोमेन
+> स्तोत्रेण ऋक्समरूपेण परि पिच्यते । आर्द्रीक्रियते । यथा युवयोस्तृप्तिकरो भवति तथा क्रियत इत्यर्थः । यद्वा । घर्मस्य हविष आधारभूतो महावीरो घर्मः । स स्तोमेन स्तोतव्येन पयसा परि पिच्यते । आसिच्यते वां
+> युवयोरर्थं । अपि च हे वाजिनीवसू अन्नवद्धना अयं सोमस्तार्तियसवनिको मधुमान्माधुर्यवान् युवाभ्यां दीयते । येन युवां वृत्रमावरकं
+> शत्रुं चिकेतथः हंतव्यतया जानीथः । अयं घर्मः सोमश्चेत्युभयत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, this gharma (the Pravargya) is moistened (परि पिच्यते (*pari picyate*)) with the stoma, a praise in the form of ṛks and sāmans, that is, it is made so as to give you satisfaction. Or else: the Mahāvīra vessel, the container of the gharma oblation, is moistened with the stoma, namely the milk to be praised, poured for you. And further, O you who have wealth of food (वाजिनीवसू (*vājinīvasū*)), this Soma of the third pressing, full of sweetness (मधुमान् (*madhumān*)), is offered to you, by which you know Vṛtra, the obstructing enemy, as one to be slain. "This gharma and Soma" connects with both clauses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—directed to you
+- अयं घर्मः (*ayaṃ gharmaḥ*)—this Soma in the form of the Pravargya
+- स्तोमेन (*stomena*)—together with praise
+- परिषिच्यते (*pariṣicyate*)—is poured
+- वाजिनीवसू (*vājinīvasū*)—O Aśvin deities, possessors of wealth of food
+- येन (*yena*)—by which Soma-drinking
+- वृत्रं (*vṛtraṃ*)—Vṛtra the demon
+- चिकेतथः (*ciketathaḥ*)—you know to be one to be slain, such
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma juice
+- मधुमान् (*madhumān*)—is sweet
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, possessors of wealth of food, directed to you, this Soma in the form of the Pravargya
+
 ---
 
-**Progress note:** Done through printed p. 587. pp. 582-587 (batch API)
+**Progress note:** Done through printed p. 594. pp. 588-594 (batch API)
