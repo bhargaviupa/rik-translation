@@ -6136,6 +6136,308 @@ Rudras, vex your adversaries.
 > दस्रा । हि । विश्वं । आनुषक् । मक्षुभिः । परिदीयथः ।  
 > धियंजिन्वा । मधुवर्णा । शुभः । पती इति ॥ ६ ॥
 
+### Printed p. 137
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दस्रा दसौ सर्वैर्दर्शनीयौ । यद्वा ॥ दसु उपक्षये ॥ शत्रूणामुपक्षपयितारावश्विन् । कीदृशौ । धियंजिन्वा धियंजिन्वौ । जिविः प्रीणनार्थः । कर्माणि
+> प्रीणयंतौ मधुवर्णा मधुवर्णौ सर्वेषां मादनशीलशरीरकांती । ये
+> युवयो रूपं पश्यंति ते तत्रैव हृष्टा भवंतीत्यर्थः । तादृशौ शुभस्पती उदकस्य
+> पालयितार् तादृशौ युवां मक्षुभिः शीघ्रगमनैरश्वैरानुषगनुषक्तं यथा भवति
+> तथा विश्वमृत्विग्निर्हविर्भिश्च व्याप्तं । हिरवधारणे । अस्मदीयं यज्ञमेव प्रति
+> परिदीयथः । दीयतिर्गतिकर्मा । परित आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains the vocative दस्रा (*dasrā*) as the two who are to be seen by all, the Aśvins; or, from the root meaning "to destroy", as the two who destroy enemies. He then describes them: धियंजिन्वा (*dhiyaṃjinvā*) means those who gratify (the root has the sense of pleasing) the rites; मधुवर्णा (*madhuvarṇā*) means those whose bodily lustre delights everyone, so that those who see their form are filled with joy at that very sight; शुभस्पती (*śubhaspatī*) means the two protectors of water. Such as you are, he says, with your swift-going horses (मक्षुभिः (*makṣubhiḥ*)), in close succession (आनुषक् (*ānuṣak*)), as the whole world is pervaded by the priests, the fire and the oblations, you come round (परिदीयथः (*paridīyathaḥ*)) to our sacrifice alone; the particle हि (*hi*) is for emphasis, and the root of परिदीयथः (*paridīyathaḥ*) denotes going. The meaning is: come from all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्रा (*dasrā*)—those who are destructive to enemies
+- धियंजिन्वा (*dhiyaṃjinvā*)—who obtain satisfaction through the rites
+- मधुवर्णा (*madhuvarṇā*)—of attractive complexion
+- शुभस्पती (*śubhaspatī*)—protectors of water, O Aśvins
+- मक्षुभिः (*makṣubhiḥ*)—with swift horses
+- आनुषक् (*ānuṣak*)—swiftly
+- विश्वं (*viśvaṃ*)—round our sacrificial ground
+- परदीयथः (*paradīyathaḥ*)—come and gather
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, destructive to enemies, gaining satisfaction through the rites, of attractive complexion and protectors of water, come and gather swiftly, with your swift horses, round our sacrificial ground.
+
+##### English translation
+Dasras, who are gratified by sacred rites, of fascinating complexion lords of rain, pass with your fleet (horses) completely round our entire (sacrifice).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ नो यातमश्विना रा॒या वि॑श्व॒पुषा॑ स॒ह ।  
+> म॒घवा॑ना सु॒वीरा॒वन॑पच्युता ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । नः । यातं । अश्विना । राया । विश्वपुषा । सह ।  
+> मघवाना । सुवीरौ । अनपच्युता ॥ ७ ॥
+
+### Printed p. 138
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् विश्वपुषा विश्वस्य सर्वस्य पोषकेण राया धनेन सह
+> नोऽस्मदीयं यज्ञमुप यातं । उपागच्छतं । यज्ञमागत्य धनमस्मभ्यं
+> प्रयच्छतमिति भावः । किमनयोर्धनमस्तीत्यत आह । मघवाना मघवानौ मंहनीयधनवंतौ सुवीरौ शोभनसामर्थोपेता । यद्वा । वीराः समर्थाः शत्रवः ।
+> तद्वंतौ । तथाप्यनपच्युता त्रैरपच्यावनीयौ न भवतः । ता यज्ञं प्रत्यागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come to our sacrifice together with riches (राया (*rāyā*), wealth) that nourish all (विश्वपुषा (*viśvapuṣā*)); having come to the sacrifice, give wealth to us: this is the sense. To the question what wealth these two have, he answers: मघवाना (*maghavānā*) means those who possess praiseworthy wealth, and सुवीरौ (*suvīrau*) means those endowed with excellent capacity. Or else, the "heroes" (वीराः (*vīrāḥ*)) are capable enemies, and the two are possessed of them. Even so they are अनपच्युता (*anapacyutā*), not to be dislodged by others. Such as you are, come to the sacrifice. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- मघवाना (*maghavānā*)—possessors of wealth
+- सुवीरौ (*suvīrau*)—possessed of excellent valour
+- अनपच्युता (*anapacyutā*)—unassailed by enemies, you
+- विश्वपुषा (*viśvapuṣā*)—all-nourishing
+- राया सह (*rāyā saha*)—together with wealth
+- नः (*naḥ*)—to our sacrifice
+- उप यातं (*upa yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, possessors of wealth, possessed of excellent valour, unassailed by enemies, come to our sacrifice with all-nourishing wealth.
+
+##### English translation
+Come to us, Aswins, with all-supporting riches for you are opulent, heroic, overthrown of none.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मे॑ अ॒स्य प्र॑ती॒व्य१॒॑ १ मिंद्र॑नासत्या गतं ।  
+> दे॒वा दे॒वेभि॑र॒द्य स॒चन॑स्तमा ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मे । अस्य । प्रतीव्यं । इंद्रनासत्या । गतं ।  
+> देवा । देवेभिः । अद्य । सचनःतमा ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रनासत्येंद्राश्विनौ सचनस्तमा ॥ षच समवाये । कृत्यल्युट इति
+> कर्मणि ल्युट् ॥ अतिशयेन सर्वैः समवेतव्यौ सेव्यमानौ युवां प्रतीव्यं ॥ वी
+> गश्यादिषु । अधिकरण औणादिकः क्विप् ॥ प्रतिशब्दस्य वीप्सार्थोऽस्ति । पुनःपुनर्वियंति
+
+##### Gist of the bhāṣya
+
+He addresses इंद्रनासत्येंद्राश्विनौ (*iṃdranāsatyeṃdrāśvinau*), Indra and the Aśvins, as सचनस्तमा (*sacanastamā*): the two who are in the highest degree to be attended and served by all. The word प्रतीव्यं (*pratīvyaṃ*) is explained thus: the word प्रति (*prati*) has the sense of repetition, and the gods again and again
+
+### Printed p. 139
+
+> भक्षयंति हवींषि देवा अत्रेति प्रतीवीर्यज्ञः । तमस्य पुरोवर्तिनो मे मम
+> संबंधिनं यज्ञमद्यास्मिन्निने देवेभिर्देवैः सार्धमा गतं । आगच्छतं । यद्वा ।
+> मे ममास्य क्रियमाणस्य स्तोत्रस्य प्रतीव्यं प्रतिगतं यथा भवति कथाभिमुख्येनायातं ॥
+
+##### Gist of the bhāṣya
+
+... consume the oblations here; therefore प्रतीवी (*pratīvī*) is the sacrifice. Come, together with the gods, to that sacrifice of mine which lies before you, today, here. Or else: come in such a way that you turn towards, and come in front of, this hymn of praise that is being made by me. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—divine in nature
+- सचनस्तमा (*sacanastamā*)—worthy of everyone's service
+- इंद्रनासत्या (*iṃdranāsatyā*)—O Indra and Aśvins
+- अस्य (*asya*)—of the one who worships you
+- मे (*me*)—my
+- प्रतीव्यं (*pratīvyaṃ*)—facing the sacrifice
+- अद्य (*adya*)—today
+- देवेभिः (*devebhiḥ*)—with the gods
+- आ गतं (*ā gataṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Aśvins, divine in nature and worthy of everyone's service, come today, together with the gods, facing my sacrifice, I who worship you.
+
+##### English translation
+Indra and Nasatyas, who are most accessible, come to this my sacrifice : come, gods, to-day, with (other) divinities.
+
+##### विशेषविषयगळु (Special Topics)
+
+For प्रतीव्यं (*pratīvyaṃ*) it can also be said: come facing my praise.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं हि वां॒ हवा॑मह उक्ष॒ण्यंतो॑ व्यश्व॒वत् ।  
+> सु॒म॒तिभि॒रुप॑ विप्रावि॒हा ग॑तं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । हि । नां । हनामहे । उक्षण्यंतः । व्यश्ववत् ।  
+> सुमतिभिः । उप । विप्रौ । इह । आ । गतं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्षण्यंतो धनादिसेक्तारावात्मन इच्छंतो वयं वां हि धनादीनां
+> प्रत्तारौ युवामेव हवामहे । तल्लाभार्थमाह्वयामः । शत्र दृष्टांतः । व्यश्ववत्
+
+##### Gist of the bhāṣya
+
+Desiring for ourselves (उक्षण्यंतः (*ukṣaṇyaṃtaḥ*)) those who shower wealth and the like, we call you, who are the givers of wealth and the rest; for the sake of obtaining it we invite you; the particle हि (*hi*) is for emphasis. Here is an example: व्यश्ववत् (*vyaśvavat*),
+
+### Printed p. 140
+
+> यथास्माकं पिता युवामेव स्तुत्वा धनमलभत तद्वत् । हे विप्रौ मेधाविनावश्विनौ
+> सुमतिभिरस्माभिः क्रियमाणैः कल्याणैः स्तोत्रैः सह । यद्वा । सुमतिभिः शोभनाभिरनुग्रहबुद्धिभिः सह । इहास्मिन्यागदिन उपा गतं । उपागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+as our father Vyaśva praised you and gained wealth, so do we. O wise Aśvins (विप्रौ (*viprau*)), come here, to this sacrifice, with the good hymns of praise made by us; or else with gracious thoughts of favour (सुमतिभिः (*sumatibhiḥ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रौ (*viprau*)—wise Aśvins
+- उक्षण्यंतः (*ukṣaṇyaṃtaḥ*)—desiring you, the givers of wealth
+- वयं (*vayaṃ*)—we
+- वां हि (*vāṃ hi*)—you alone
+- व्यश्ववत् (*vyaśvavat*)—as Vṛśva formerly prayed to you and called you
+- हवामहे (*havāmahe*)—we call
+- सुमतिभिः (*sumatibhiḥ*)—with your thoughts of favour
+- इह (*iha*)—to this sacrifice
+- उप आ गतं (*upa ā gataṃ*)—come
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Aśvins, we who desire you, the givers of wealth, pray to you as Vṛśva formerly prayed. Come to this sacrifice with your thoughts of favour.
+
+##### English translation
+Desirous of you who are bestowers of wealth, we invoke you, as did (our father) Vyashwa : come, sagacious Aswins, hither with favourable intentions.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒श्विना॒ स्व॑षे स्तुहि कु॒वित्ते॒ श्रव॑तो॒ हनं ॑।  
+> नेदी॑यसः कूळयातः प॒णेरु॒त ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । सु । ऋषे । स्तुहि । कुनित् । ते । श्रवतः । हवं ।  
+> नेदीयसः । कूळयातः । पणीन् । उत ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋषे विश्वमनः अश्विनाश्विन् देवौ सु ष्टुहि । शोभनं स्तुहि ।
+> ततस्तावश्विन् ते स्तोतुस्तव हवमाह्वानं कुवित् । कुविदिति बहुनाम । बहुवारं
+> श्रवतः । शृणुतां ॥ श्रु श्रवणे । लेट्यडागमः ॥ एवं त्वया स्तुतावश्विन् नेदीय
+
+##### Gist of the bhāṣya
+
+O seer Viśvamanas, praise the two Aśvins well. Then, he says, the Aśvins will hear your call, the call of you the praiser, many times (कुवित् (*kuvit*) is a word meaning "much"; so, many times); श्रवतः (*śravataḥ*) means "let them hear". Thus, praised by you, the Aśvins
+
+### Printed p. 141
+
+> सोऽन्तिकतमाञ्छत्रून् कूळयातः । हिंस्तां । उतापि च पणीनेतन्नामकानंगिरोगवामपनेत्वनसुरानपि हिंस्तां ॥ कुडि दाहे । ण्यंतस्य लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+will destroy (कूळयातः (*kūḷayātaḥ*), "let them harm") the enemies who are nearest (नेदीयसः (*nedīyasaḥ*)). And also the Paṇis, those of that name, who carried off the cows of the Aṅgirases: they will remove them and will harm even those Asuras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषे (*ṛṣe*)—O sage named Viśvamanas
+- अश्विना (*aśvinā*)—the Aśvins
+- सुष्टुहि (*suṣṭuhi*)—praise exceedingly (those Aśvins)
+- ते (*te*)—of you, the praiser
+- हवं (*havaṃ*)—the call
+- कुवित् (*kuvit*)—many times
+- श्रवतः (*śravataḥ*)—they hear (then)
+- नेदीयसः (*nedīyasaḥ*)—the enemies who are very near
+- उत (*uta*)—and
+- पणीन् (*paṇīn*)—the Paṇis who steal cows
+- कूळयातः (*kūḷayātaḥ*)—they destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O sage named Viśvamanas, praise the Aśvins exceedingly. Those Aśvins hear your call, the call of the praiser, many times. Then they destroy the enemies who are very near and the Paṇis who steal cows.
+
+##### English translation
+Praise the Aswins devoutly, Rishi, that they may repeatedly hear your Invocation, and destroy the nearest (approaching enemies) and the Panis.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वै॒य॒श्वस्य॑ श्रुतं नरो॒तो मे॑ अ॒स्य वे॑दथः ।  
+> स॒जोष॑सा॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वैयश्वस्य । श्रुतं । नरा । उतो इति । मे । अस्य । वेदथः ।  
+> सजोषसा । वरुणः । मित्रः । आर्यवा ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारावश्विन् वैयश्वस्य व्यश्वपुत्रस्य विश्वमनसो ममाह्वानं श्रुतं।
+> शृणुतं । उतापि च मे मदीयमस्य तदाह्वानं वेदथः । अत्वायत्ततया
+> जानीथः । अथ वरुणो मित्रो मित्रावरुणौ च सजोषसा संगतावर्यमैतन्नामको देवश्च मदीयमाह्वानं श्रुत्वा मह्यं धनादिकं प्रयच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+O leading Aśvins, hear the call of me, Vaiyaśva, the son of Vyaśva, Viśvamanas. And you know this call of mine, understanding it as dependent on you. Then Varuṇa, Mitra, that is Mitra and Varuṇa, united (सजोषसा (*sajoṣasā*)), and the god named Aryaman, having heard my call, are to give me wealth and the like. **NOTE**
+
+### Printed p. 142
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O leading Aśvins
+- वैयश्वस्य (*vaiyaśvasya*)—of me, the son of Vyaśva, my praise
+- श्रुतं (*śrutaṃ*)—hear
+- उत (*uta*)—and
+- मे (*me*)—my
+- अस्य (*asya*)—this call
+- वेदथः (*vedathaḥ*)—understand (know it to be your praise)
+- स जोषसः (*sa joṣasaḥ*)—united together
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अरमा (*aramā*)—Aryaman, having heard my praise, may he give me wealth as its fruit **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O leading Aśvins, hear my praise, mine the son of Vyaśva. Understand this call of mine to be your praise and give wealth. May Varuṇa, Mitra and Aryaman, united together, hear my praise and give me wealth.
+
+##### English translation
+Hear, leaders (of rites), (the invocation) of me the son of Vyashwa, and understand its (purport); and may Varuna, Mitra, and Aryaman concurrently (grant me wealth).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वाद॑त्तस्य धिष्ण्या यु॒वानी॑तस्य सू॒रिभिः॑ ।  
+> अह॑रहर्वृषण॒ा मह्यं॑ शिक्षतं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवाऽदत्तस्य । धिष्णा । युवानीतस्य । सूरिभिः ।  
+> अहः अहः । वृषणा । मह्यं । शिक्षतं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धिष्णा धिष्णौ धिषणार्हौ स्तुत्यौ वृषणौ कामानां सेक्तारावश्विनौ सूरिभिः ॥
+> सुपां सुपो भवंतीति चतुर्थास्तृतीया ॥ सूरिभ्यः स्तोतृभ्यो युवादत्तस्य
+> युवाभ्यां यत्सोतृभ्यो दीयते तत् तथा युवानीतस्य युवाभ्यां
+> यत्सोतृभ्यो नीयते तच्च धनादिकमहरहरहन्यहनि मह्यं विश्वमनसे स्तोत्रं
+> कुर्वाणाय युवां शिक्षतं । प्रयच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O praiseworthy (धिष्णा (*dhiṣṇā*), worthy of praise) Aśvins, showerers (वृषणा (*vṛṣaṇā*)) of desires: सूरिभिः (*sūribhiḥ*) stands for सूरिभ्यः (*sūribhyaḥ*), to the praisers. Whatever wealth and the like is given by you to the praisers (युवादत्तस्य (*yuvādattasya*)) and whatever is brought by you to the praisers (युवानीतस्य (*yuvānītasya*)), that, day after day, grant to me, Viśvamanas, who offer praise.
+
 ---
 
-**Progress note:** Done through printed p. 136. Ṛk 24 end; Sūkta 26 Ṛks 1-6 start, pp. 130-136
+**Progress note:** Done through printed p. 142. Rk 6 end to Rk 12 start, pp. 137-142
