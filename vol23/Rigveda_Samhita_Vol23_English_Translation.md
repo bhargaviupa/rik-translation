@@ -32528,6 +32528,286 @@ May the two divine physicians, the Aswins, grant us health: may they drive away 
 > शमग्निरग्निभिः करच्छं नस्तपतु सूर्यः ।  
 > शं वातो वात्वरसा अप स्रिधः ॥ ९ ॥
 
+### Printed p. 771
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । अग्निः । अग्निभिः । करत् । शं । नः । तपतु । सूर्यः ।  
+> शं । वातः । वातु । अरपाः । अप । स्रिधः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निभिः स्वविभूत्या विभिन्नैर्गार्हपत्यादिभिरग्निर्देवः शं करत् । अस्माकं
+> रोगशांतिं सुखं वा करोतु । सूर्यः सर्वस्य प्रेरक आदित्यश्च नोऽस्माकं शं
+> सुखं यथा भवति तथा तपतु । प्रदीप्यतां । वातो वायुश्चारपा अपापः सन् शं
+> यथा भवति तथा च वातु । अनुवर्ततां । स्त्रिधः शशूंश्चैतेऽग्न्यादयोऽपगमयंतु ॥
+
+##### Gist of the bhāṣya
+
+The god Agni, with his various fires such as the Gārhapatya, which are manifestations of his own power, is to bring us शं (*śaṃ*), the quieting of disease or happiness. Sūrya, the impeller of all, the Āditya, is to shine upon us so that there is happiness for us. Vāta, the wind, being free of evil, is to blow so that it is happiness. May these, Agni and the others, drive away स्रिधः (*sridhaḥ*), our enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निभिः (*agnibhiḥ*)—with the Gārhapatya and other fires, his own special manifestations
+- अग्निः (*agniḥ*)—the god Agni
+- शं (*śaṃ*)—happiness
+- करत् (*karat*)—may he produce for us
+- सूर्यः (*sūryaḥ*)—the Sun
+- नः (*naḥ*)—for us
+- शं (*śaṃ*)—so that happiness arises
+- तपतु (*tapatu*)—may he shine
+- वातः (*vātaḥ*)—the wind
+- अरपाः (*arapāḥ*)—free of evil
+- शं (*śaṃ*)—so that there is happiness for us
+- वातु (*vātu*)—may he blow
+- स्त्रिधः (*stridhaḥ*)—our enemies who injure us
+- अप (*apa*)—may they drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Agni, together with the other fires that are his special manifestations, such as the Gārhapatya, bring us happiness. May the Sun shine so that happiness arises for us. May the wind, free of evil, blow so that happiness arises for us. May they drive far away our enemies who injure us.
+
+##### English translation
+May Agni with his fires grant us happiness : may the sun beam upon us felicity : may the unoffending wind blow us happiness : (may they all drive) away our foes.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपामि॑वाना॒मप॒ स्रिध॒मप॑ सेधत दुर्म॒तिं ।  
+> आदि॑त्यासो यु॒योत॑ना नो॒ अंह॑सः ॥ १० ॥
+
+### Printed p. 772
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । अमीवां । अप । स्रिधं । अप । सेधत ! दुःमतिं ।  
+> आदित्यासः । युयोतन । नः । अंहसः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः अमीवां रोगमप सेधत । अस्मत्तोऽपगमयत । स्रिधं
+> चापसेधकं शत्रुं चाप सेधत दुर्मतिमस्माकं दुःखस्य मंतारं चाप सेधत । अपि
+> च हे आदित्यास आदित्याः नोऽस्मानंहसः पापाद्युयोतन । पृथक्कुरुत ॥ यौतेर्लोटि छांदसः शपः श्लुः । तप्तनप्तनथनाश्चेति तस्य तनबादेशः । पित्त्वादनुदात्तत्वे
+> धातुस्वरः शिष्यते । आमंत्रितं पूर्वमविद्यमानवदिति पूर्वस्याविद्यमानत्वेन
+> पदादपरत्वान्नि घातो न भवति ॥
+
+##### Gist of the bhāṣya
+
+"O Ādityas, drive disease away from us. Drive away also the enemy who injures, and the ill-minded one who thinks of our harm. And, O Ādityas, separate us from sin." युयोतन (*yuyotana*) means "separate". Sāyaṇa adds that it is a Vedic Loṭ form of the root *yauti* and explains the accent and the absence of nighāta in the vocative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- अमीवां (*amīvāṃ*)—disease
+- अप सेधत (*apa sedhata*)—drive away from us
+- स्रिधं (*sridhaṃ*)—the enemy who injures
+- अप (*apa*)—drive away
+- दुर्मतिं (*durmatiṃ*)—evil-mindedness
+- अप (*apa*)—make it not come near us
+- नः (*naḥ*)—us
+- अंहसः (*aṃhasaḥ*)—from sin
+- युयोतन (*yuyotana*)—release
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, drive disease away from us. Drive far away the enemy who injures. Make evil-mindedness not come near us. Release us from sin.
+
+##### English translation
+Adityas, remove (from us) disease, enemies, malignity ; keep us afar from sin.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒योता॒ शरु॑म॒स्मदा आदि॑त्यास उ॒ताम॑तिं ।  
+> युद्ध॒ग्द्वेषः॑ कृणुत विश्ववेदसः ॥ ११ ॥
+
+### Printed p. 773
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युयोत । शरुं । अस्मत् । आ । आदित्यासः । उत । अनुतिं ।  
+> ऋधक् । द्वेषः । कृणुत ! विश्ववेदसः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अदित्याः शरुं हिंसकमस्मदास्मत्तश्च युयोत । पृथक्कुरुत । उतापि
+> चामतिं दुर्बुद्धिं च पृथक्कुरुत । हे विश्ववेदसः सर्वधनाः सर्वज्ञा वा द्वेषो
+> द्वेष्ट्वाञ्छत्रूनृधक् पृथक् कृणुत । कुरुत । अस्मत्तो वियोजयत ॥
+
+##### Gist of the bhāṣya
+
+"O Ādityas, separate from us the enemy, the injurer; and separate also ill-will, bad-mindedness. O विश्ववेदसः (*viśvavedasaḥ*), possessors of all wealth or all-knowing ones, make those who hate us, our enemies, separate; remove them from us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदित्यासः (*adityāsaḥ*)—O Ādityas
+- शरुं (*śaruṃ*)—the injurer
+- अस्मदा (*asmadā*)—from us
+- युयोत (*yuyota*)—separate
+- उत (*uta*)—and
+- अमतिं (*amatiṃ*)—also separate the one who has lost his wits and has an evil mind
+- विश्ववेदसः (*viśvavedasaḥ*)—O Ādityas, possessed of all wealth
+- द्वेषः (*dveṣaḥ*)—those who hate us
+- ऋधक् (*ṛdhak*)—separately
+- कृणुत (*kṛṇuta*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, separate the injurer from us. Separate also the one who has lost his wits and has an evil mind. O Ādityas, possessed of all wealth, separate from us those who hate us.
+
+##### English translation
+Keep afar from us, Adityas, malignity, ill-will ; you who are all wise keep afar those who hate us.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्सु नः॒ शर्म॑ यच्छ॒तादि॑त्या॒ यन्नुमो॑चति ।  
+> एन॑स्वंतं चि॒देन॑सः सुदानवः ॥ १२ ॥
+
+### Printed p. 774
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सु । नः । शर्म । यच्छ्रत । आदित्याः । यत् । मुमोचति ।  
+> एनस्वंतं । चित् । एनसः । सुदानवः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः तच्छर्म सुखं नोऽस्मभ्यं सु सुष्टु यच्छत । दत्त । हे सुदानवः
+> शोभनदानाः युष्मदीयं यच्छर्मॆनस्वंतं चित् पापिनमपि स्तोतारमेनसः
+> पापान्मुमोचति मोचयति तद्यच्छतेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+"O Ādityas, grant us well that happiness. O सुदानवः (*sudānavaḥ*), good givers, that happiness of yours which releases from sin even a sinful worshipper, give that." This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—who give most generously
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- यत् (*yat*)—which happiness
+- एनस्वंतं चित् (*enasvaṃtaṃ cit*)—even if the worshipper is a sinner
+- एनसः (*enasaḥ*)—from sin
+- मुनोचति (*munocati*)—releases
+- तत् (*tat*)—such
+- शर्म (*śarma*)—happiness
+- नः (*naḥ*)—to us
+- सु (*su*)—abundantly
+- यच्छत (*yacchata*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, most generous givers, give us abundantly that happiness which destroys the sin of the worshipper even if he is a sinner.
+
+##### English translation
+Grant freely to us, generous Adityas, that happiness which liberates even the offending (worshipper) from sin.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नः॒ कश्चि॒द्रिरि॑क्षति रक्ष॒स्त्येन॒ मर्त्यः॑ ।  
+> स्वैः ष एवै॑ रिरिषीष्ट॒ युर्जनः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । कः । चित् । रिरिक्षति । रक्षःत्वेन । मर्त्यः ।
+
+### Printed p. 775
+
+> स्वैः । सः । एवैः । रिरिषीष्ट । युः । जनः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः कश्चिन्मर्तो मनुष्यो नोऽस्मान् रक्षस्तेन रक्षोभावेन पिशाचाद्यात्मना रिरिक्षति जिहिंसिषति ॥ रिष हिंसायामिति धातुः ॥ स मनुष्यः स्वैरेवैरात्मीयैरेव
+> चेष्टितै रिरिषीष्ट । हिंसितो भूयात् । स जनो युर्यातापगमनशीलश्च भवतु ।
+> यद्वा । स जनः स्वैरेव गमनैर्यर्दुःखं गच्छन् हिंसितो भवतु !!
+
+##### Gist of the bhāṣya
+
+Any mortal, any man, who wishes to harm us in the form of a demon, a piśāca and the like; the root is *riṣa hiṃsāyāṃ*. May that man be harmed by his own doings. May that person also be one who goes away, or else: may that person, going to sorrow by his own goings, be injured.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः कश्चित् (*yaḥ kaścit*)—any sinful one
+- मर्त्यः (*martyaḥ*)—man
+- नः (*naḥ*)—us
+- रक्षस्त्वेन (*rakṣastvena*)—in the forms of piśācas and the like
+- रिरिक्षति (*ririkṣati*)—seeks to injure
+- सः (*saḥ*)—that same man
+- स्वैः (*svaiḥ*)—his own
+- एवैः (*evaiḥ*)—by doings
+- रिरिषीष्ट (*ririṣīṣṭa*)—may he injure himself
+- जनः (*janaḥ*)—that same person
+- युः (*yuḥ*)—may he go far away
+
+##### भावार्थ (Bhāvārtha)
+
+Whatever sinful man seeks to injure us in the forms of piśācas and the like, may that same man come to injure himself by his own doings. May that same person go far away from us.
+
+##### English translation
+May that man who, from his diabolical nature, seeks to do us evil— may he, injuring himself by his own devices, incur that evil-
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समित्तम॒घम॑श्नवद्दुः॒शंसं॒ मर्त्यं॑ रि॒पुं ।  
+> यो अ॑स्म॒त्रा दु॒र्हणा॑वा॒ उप॑ द्व॒युः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । इत् । तं । अघं । अश्ववत् । दुःशंसं । मर्त्यं । रिपुं ।  
+> यः । अस्मत्रा । दुःहनावान् । उप । द्वयुः ॥ १४ ॥
+
+### Printed p. 776
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दुःशंसं दुष्कीर्तिं रिपुं शत्रुं तं मर्त्यमिन्मनुष्यमेवाघं पापं
+> समश्नवत् । सम्यग्वाप्नोतु । यो मर्तोऽस्मत्रास्मास्वद्विषये दुर्हणावान्दुष्टहननवानुपजायते द्वयुर्द्वाभ्यां प्रकाराभ्यां युक्तश्च भवति । अयमर्थः ।
+> प्रत्यक्षकृतो हितं वदति परोक्षकृतस्त्वहितं । तादृशः कपटो द्वयुरित्युच्यते ।
+> यश्चस्माद्विषये कपटो भवति शमपि पापं व्याप्पोत्स्थिति ॥
+
+##### Gist of the bhāṣya
+
+May sin fully pervade that mortal, that enemy of ill fame. The mortal who in regard to us is दुर्हणावान् (*durhaṇāvān*), one who is inclined to evil killing, and द्वयुः (*dvayuḥ*), double, endowed with two ways. The meaning: he speaks what is good to one's face and what is bad behind one's back; such a deceiver is called द्वयुः (*dvayuḥ*). May sin pervade the man who is thus deceitful towards us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- अस्मत्रा (*asmatrā*)—towards us
+- दुर्हणावान् (*durhaṇāvān*)—wishing us evil
+- द्वयुः (*dvayuḥ*)—double-dealing
+- उप (*upa*)—(deceitful) is
+- दुःशंसं (*duḥśaṃsaṃ*)—of ill fame
+- रिपुं (*ripuṃ*)—an enemy
+- तं मर्त्यं इत् (*taṃ martyaṃ it*)—that very man
+- अघं (*aghaṃ*)—sin
+- समश्नवत् (*samaśnavat*)—may it pervade and afflict
+
+##### भावार्थ (Bhāvārtha)
+
+The man who towards us wishes evil and is double-dealing (deceitful), such a man of ill fame and an enemy, may sin pervade and afflict him.
+
+##### English translation
+May inquiry pervade that calumniating and hostile mortal who wishes to do us harm, and is treacherous towards us.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒क॒त्रा स्थ॑न देवा हृ॒त्सु जा॑नीथ॒ मर्त्यं॑ ।  
+> उप॑ द्व॒युं चाद्व॑युं च वसवः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पाकत्रा । स्तन । देवाः । हृत्सु । जानीथ । मर्त्यं ।  
+> उप । द्वयुं । च । अद्वयुं । च । वसवः ॥ १५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 770. pp. 765-770 (batch API)
+**Progress note:** Done through printed p. 776. pp. 771-776 (batch API)
