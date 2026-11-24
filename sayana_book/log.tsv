@@ -5,4 +5,5 @@ sūkta	agent model	check	NOTEs	second reading by the agent	tokens
 1.3	sonnet	VERIFIED (form)	6	yes (agent says every unit re-read)	146665
 0.3 (bhūmikā part 3)	sonnet	VERIFIED (form)	45 (OCR)	NO (agent: one pass, fixed rejected citations only)	146737
 0.4 (bhūmikā part 4)	sonnet	VERIFIED (form)	20 (OCR)	yes (agent: against each unit)	155026
-1.1	sonnet	VERIFIED (form)	7	partly (agent: while drafting, no separate pass)	
+1.1	sonnet	VERIFIED (form)	7	partly (agent: while drafting, no separate pass)	167487
+REVIEW 1.4	sonnet (independent reader)	VERIFIED (form)	43 units read; 11 changes in 10 units: 3 wrong sense, 2 wrong attachment, 1 dropped, 1 addition, 2 citation, 1 wording		128989
