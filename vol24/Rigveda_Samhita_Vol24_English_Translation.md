@@ -19323,6 +19323,317 @@ Honour Agni with fuel, awaken him, the guest, with (libations of) butter ; offer
 > अग्ने॒ स्तोमं॑ जुषस्व मे॒ वर्ध॑स्वा॒ नेन॒ मन्म॑ना ।  
 > प्रति॑ सू॒क्तानि॑ हर्य नः ॥ २ ॥
 
+### Printed p. 427
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । स्तोमं । जुषस्व । मे । वर्धस्व । आनेन । मन्मना ।  
+> प्रति । सुउक्तानि । हर्य । नः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने म अंगिरसस्य मम स्तोमं स्तोत्रं जुषस्व । सेवस्व । अनेन
+> मन्मना मननीयेन स्तोत्रेण वर्धस्व च । नोऽस्माकं सूक्तानि प्रति हर्य ।
+> कामय च !!
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni: accept (जुषस्व (*juṣasva*), "serve") my hymn of praise, and grow strong through this prayer, which is worthy of meditation. He also asks Agni to take pleasure in our hymns and to desire them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मे (*me*)—my
+- स्तोमं (*stomaṃ*)—praise
+- जुषस्व (*juṣasva*)—accept
+- आनेन मन्मना (*ānena manmanā*)—by this prayer, full of meditation
+- वर्धस्व (*vardhasva*)—grow strong
+- नः (*naḥ*)—our
+- सूक्तानि (*sūktāni*)—hymns
+- प्रति हर्य (*prati harya*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, accept my praise; grow strong through this prayer full of meditation. Desire our hymns.
+
+##### English translation
+Agni, accept my praise, be invigorated by this prayer; be favourable to our hymns.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं दू॒तं पु॒रो द॑धे हव्य॒वाह॒मुप॑ ब्रुवे ।  
+> दे॒वा आ सा॑दयादि॒ह ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । मूतं । पुरः । दधे । हव्यवाहं । उप । ब्रुवे ।  
+> देवान् । आ । सादयात् । इह ॥ ३ ॥
+
+### Printed p. 428
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दूतं देवानां हव्यवाहं हविषां वोढारं चाग्निं पुरो दधे । पुरस्करोमि । उप ब्रुवे । उपस्तौमि च । सोऽग्निरिह यज्ञे देवाना सादयत् ।
+> आसादयतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: I place in front (पुरो दधे (*puro dadhe*), "I put forward") Agni, the messenger of the gods and the bearer of the oblations, and I also praise him. May that Agni cause the gods to be seated here at the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दूतं (*dūtaṃ*)—the messenger of the gods
+- हव्यवाहं (*havyavāhaṃ*)—the bearer of the oblations
+- अग्निं (*agniṃ*)—Agni
+- पुरः (*puraḥ*)—in front
+- दधे (*dadhe*)—I set up
+- उप ब्रुवे (*upa bruve*)—I praise
+- सः (*saḥ*)—that same Agni
+- इह (*iha*)—in this sacrifice of ours
+- देवान् (*devān*)—the gods
+- आ सादयत् (*ā sādayat*)—may he cause to sit down
+
+##### भावार्थ (Bhāvārtha)
+
+I set in front Agni, the messenger of the gods and the bearer of the oblations, and I praise him. May that same Agni cause the gods to sit down in this sacrifice of ours.
+
+##### English translation
+I set Agni in the front as the messager, I adore him as the bearer of the oblations ; may he cause the gods to sit down here.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ते॑ बृ॒हंतो॑ अ॒र्चयः॑ समिधा॒नस्य॑ दीदिवः ।  
+> अग्ने॑ शु॒क्रास॑ ईरते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ते । बृहंतः । अर्चयः । संइधानस्य । दीदिवः ।  
+> अग्ने । शुक्रासः । ईरते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दीदिवो दीप्ताग्ने समिधानस्य समिध्यमानस्य ते तव बृहंतो महांतः
+> शुक्रासो ज्वलंतोर्चयो दीप्तय उदीरते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the radiant Agni: when you are kindled, your great, bright, blazing flames and rays rise up.
+
+### Printed p. 429
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीदिवः (*dīdivaḥ*)—O radiant one
+- अग्ने (*agne*)—O Agni
+- समिधानस्य (*samidhānasya*)—who are kindled
+- ते (*te*)—your
+- बृहंतः (*bṛhaṃtaḥ*)—of great form
+- शुक्रासः (*śukrāsaḥ*)—bright
+- अर्जयः (*arjayaḥ*)—flames
+- उदीरते (*udīrate*)—rise up
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Agni, your great and bright flames rise up as you are kindled.
+
+##### English translation
+Brilliant Agni, as you are kindled, your great flames start blazing up .
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ त्वा जु॒हूत्वा॒३॒॑ मम॑ धृ॒ताची॑र्यंतु हर्यत ।  
+> अग्ने॑ ह॒व्या जु॑षस्व नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । त्वा । जुह्वः । मम । घृताचीः । यंतु । हर्यत ।  
+> अग्ने । हव्या । जुषस्व । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हर्यत कामयमानाग्ने मम मदीया धृताचीर्घृतमंचंत्यो
+> जुह्वः स्रुचस्त्वा त्वामुप यंतु । नोऽस्माकं हव्या हव्यानि जुषस्व । सेवस्व च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni, the desired one: may my ladles, which carry ghee, come to you; and do you accept and enjoy our oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हर्यत (*haryata*)—propitious
+- अग्ने (*agne*)—O Agni
+- मम (*mama*)—my
+- धृताचीः (*dhṛtācīḥ*)—that offer ghee
+- जुह्वः (*juhvaḥ*)—ladles
+- त्वा (*tvā*)—you
+- उपयॆंतु (*upayèṃtu*)—may they approach
+- नः (*naḥ*)—our
+- हव्या (*havyā*)—oblations
+- जुषस्व (*juṣasva*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O propitious Agni, may my ladles that offer ghee come near you. Accept our oblations.
+
+### Printed p. 430
+
+##### English translation
+Let my ladles, filled with butter, come near you, O propitious one; Agni, recive our oblations.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒द्रं होता॑रमृ॒त्विजं॑ चि॒त्रभा॑नुं वि॒भाव॑सुं ।  
+> अ॒ग्निमा॑ळे॒ स उ॑ श्रवत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंद्रं । होतारं । ऋत्विजं । चित्रभानुं । विभावसुं ।  
+> अग्निं । ईळे । सः । ऊं इति । श्रवत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंद्रं मादनं होतारं देवानामाह्वातारमृत्विजमृतौ यष्टव्यं
+> चित्रभानुं चित्रदीप्तिं विभावसुं दीप्तिधनमग्निमीळे । स्तौमि । सोऽग्निः श्रवत् ।
+> अस्मदीयां स्तुतिं शृणोत्वेव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: I praise Agni, who gladdens, the Hotṛ who calls the gods, the priest to whom offering is made at the proper season, of wonderful radiance, whose wealth is brilliance. May that Agni indeed hear our praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंद्रं (*maṃdraṃ*)—who causes delight
+- होतारं (*hotāraṃ*)—who calls the gods
+- ऋत्विजं (*ṛtvijaṃ*)—worthy of worship at the times of sacrifice
+- चित्रभानुं (*citrabhānuṃ*)—of attractive lustre
+- विभावसुं (*vibhāvasuṃ*)—whose wealth is radiance
+- अग्निं (*agniṃ*)—Agni
+- ईळे (*īḷe*)—I praise
+- सः (*saḥ*)—that same Agni
+- श्रवत् (*śravat*)—may he hear our praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise Agni, who causes delight, who calls the gods, who is worthy of worship at the times of sacrifice, of attractive lustre, whose wealth is radiance. May that same Agni hear our praise.
+
+##### English translation
+I worship Agni, the exhilarating invoker (of the gods), the priest. him who shines forth with various lustre, and is rich in brilliance; may he give ear.
+
+### Printed p. 431
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रत्यं दोतारविपद्यं जुष्टमग्निं कविक्रतुं ।  
+> अ॒ध्व॒राणा॑मभि॒त्रियं॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रत्नं । होतारं । ईद्यं । जुष्टं । अग्निं । कविक्रतुं ।  
+> अध्वराणां । अभिश्रियं ॥ ६ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रश्नः पुराणं होतारं देवानामाह्वातारमीड्यं स्तुत्यं जुष्टं प्रीतं
+> सेवितं वा कविक्रतुं क्रांतकर्माणमध्वराणां यज्ञानामभिश्रियमभिश्रयितारमीड्यमग्निमीळे । सौमि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: I praise Agni, the ancient Hotṛ who calls the gods, the praiseworthy, the beloved or served, of wise action, the guest-like resort of the sacrifices (अध्वराणां (*adhvarāṇāṃ*), "of the sacrifices"). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रश्नं (*praśnaṃ*)—the ancient one
+- होतारं (*hotāraṃ*)—in the form of the Hotṛ
+- ईड्यं (*īḍyaṃ*)—praiseworthy
+- जुष्टं (*juṣṭaṃ*)—beloved
+- कविक्रतुं (*kavikratuṃ*)—whose action is endowed with wisdom
+- अध्वराणां (*adhvarāṇāṃ*)—for the sacrifices
+- अभिश्रियं (*abhiśriyaṃ*)—the chief guest (the worshipful one)
+- अग्निं (*agniṃ*)—Agni (I praise)
+
+##### भावार्थ (Bhāvārtha)
+
+I praise Agni, the ancient, in the form of the Hotṛ, praiseworthy, beloved, whose action is endowed with wisdom, the chief guest of the sacrifices.
+
+##### English translation
+(I worship) the beloved Agni, the ancient adorable invoker (of the gods), the wise, the frequenter of sacrifices.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जु॒षा॒णो अं॑गिरस्तमे॒मा ह॒व्यान्या॑नु॒षक् ।  
+> अग्ने॑ य॒ज्ञं न॑य ऋतु॒था ॥ ८ ॥
+
+### Printed p. 432
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुषाणः । अंगिरःतम । इमा । हव्यानि । आनुषक् ।  
+> अग्ने । यज्ञं । नय । ऋतुथा ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरस्तमांगिरसां श्रेष्ठाग्ने इमेमान्यस्मदीयानि हव्यानि हवींष्यानुषगनुषक्तं यथा भवति तथा जुषाणः सेवमानो भव । ऋतुथा काले काले
+> यज्ञं च नय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni, best of the Aṅgirasas: accept these our oblations continually, and conduct the sacrifice at the due seasons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरस्तम (*aṃgirastama*)—best among all the Aṅgirasas
+- अग्ने (*agne*)—O Agni
+- इमा हव्यानि (*imā havyāni*)—these our oblations
+- आनुषक् (*ānuṣak*)—continually
+- जुषाणः (*juṣāṇaḥ*)—accepting
+- ऋतुथा (*ṛtuthā*)—at the due seasons
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- नय (*naya*)—be a helper to carry it through
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, best among all the Aṅgirasas, continually accepting these our oblations, be a helper in conducting the sacrifice at the due seasons.
+
+##### English translation
+Agni, best of the Angirasas, do you, continually accepting these our oblations, conduct the sacrifice at the due seasons.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मि॒धा॒न उ॑ संत्य॒ शुक्र॑शोच इ॒हा व॑ह ।  
+> चि॒कि॒त्वान्दैव्यं॒ जनं॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइधानः । ऊं इति । संत्य । शुक्रशोचे । इह । आ । वह ।  
+> चिकित्वान् । दैव्यं । जनं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे संत्य भजनशील शुक्रशोचे ज्वलदीप्ते त्वं समिधान उ समिध्यमान एव
+> दैव्यं देवसंबंधिनं जनं चिकित्वाञ्चानन्निह यज्ञ आ वह ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, worthy of being resorted to, of bright radiance, being kindled, bring here to this sacrifice the people belonging to the gods, knowing them well.
+
 ---
 
-**Progress note:** Done through printed p. 426. Mandala 8 Sukta 43 Rk 29-33, Sukta 44 intro and Rk 1-2
+**Progress note:** Done through printed p. 432. Mandala 8 sukta 44 rks 2-9
