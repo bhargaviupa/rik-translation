@@ -3560,7 +3560,6 @@ When, Varuna, I am throbbing as if (with awe) like an inflated skin, grant me ha
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> अ. ५. अ. ६. व- ११.] ऋग्वेदसंहिता '87
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -4560,7 +4559,7 @@ Sāyaṇa says this Ṛk has already been explained. The meaning of the words is
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
-- *śvavasaḥ*—food
+- श्रवसः (*śravasaḥ*)—food
 - भिक्षमाणाः (*bhikṣamāṇāḥ*)—begging
 - वाजयंतः (*vājayaṃtaḥ*)—desiring strength
 - वसिष्ठाः (*vasiṣṭhāḥ*)—we, of the line of Vasiṣṭha
@@ -6867,7 +6866,7 @@ May that best beloved Brihaspati, who is the desired of all, sit down in our hal
 
 ##### Gist of the bhāṣya
 
-"That" food, famous everywhere as what is to be enjoyed, sufficient (जुष्टं (*juṣṭaṃ*)) for immortality, that is for life, the "arka", the food that is the means of worship. These immortal (deathless) gods, born of old (पुराजाः (*purājāḥ*)), [the sentence continues on the next page].
+"That" food, famous everywhere as what is to be enjoyed, sufficient (जुष्टं (*juṣṭaṃ*)) for immortality, that is for life, the "arka", the food that is the means of worship. These immortal (deathless) gods, born of old (पुराजाः (*purājāḥ*)).
 
 ### Printed p. 166
 
@@ -8307,7 +8306,7 @@ Yāska has given an explanation of these words:
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa says that formerly Viṣṇu, abandoning his own form and assuming an artificial other form, helped Vasiṣṭha in battle. The seer, knowing him, addresses him with this Ṛk. On this the Nirukta says: Śipiviṣṭa is Viṣṇu; Viṣṇu has two names. The former (Śipiviṣṭa) has a deprecatory sense, says Aupamanyava. "What is this of you, Viṣṇu? This is unfamed, not to be proclaimed, that you declare to us, 'I am enveloped like a snake'…" (the quotation continues on the next page).
+Sāyaṇa says that formerly Viṣṇu, abandoning his own form and assuming an artificial other form, helped Vasiṣṭha in battle. The seer, knowing him, addresses him with this Ṛk. On this the Nirukta says: Śipiviṣṭa is Viṣṇu; Viṣṇu has two names. The former (Śipiviṣṭa) has a deprecatory sense, says Aupamanyava. "What is this of you, Viṣṇu? This is unfamed, not to be proclaimed, that you declare to us, 'I am enveloped like a snake'…".
 
 ### Printed p. 200
 
@@ -9414,7 +9413,6 @@ One of these two congratulates the other as they are both delighting in the fort
 - तत् (*tat*)—then
 
 ### Printed p. 234
-(Pratipadārtha continued)
 - एषां (*eṣāṃ*)—your
 - सर्वं पर्व (*sarvaṃ parva*)—the whole body
 - समृधेव (*samṛdheva*)—as if grown, developed
@@ -10426,10 +10424,9 @@ The god Soma surely does not release (हिनोति (*hinoti*), "sends fort
 - वृजिनं (*vṛjinaṃ*)—the sinful demon
 - न वा उ हिनोति (*na vā u hinoti*)—surely does not release
 - क्षत्रियं (*kṣatriyaṃ*)—even though he is powerful
-- मिथुया (*mithuyā*)—(continues on the next page)
 
 ### Printed p. 259
-- धारयंतं (*dhārayaṃtaṃ*)—the man who fosters untruthful speech
+- मिथुया धारयंतं (*mithuyā dhārayaṃtaṃ*)—the man who fosters untruthful speech
 - न (*na*)—surely does not release
 - असत् (*asat*)—untruth
 - वदंतं (*vadaṃtaṃ*)—the man who speaks
@@ -10468,7 +10465,7 @@ Soma instigates not the wicaked ; he instigates not the strong man dealing in fa
 
 ##### Gist of the bhāṣya
 
-"If I am one whose gods are false (अनृतदेवः (*anṛtadevaḥ*)), that is, one whose gods are unreal, or if I approach (अप्यूहे (*apyūhe*)) vain gods, then, Agni, I am of the stated kind…" (continues on the next page).
+"If I am one whose gods are false (अनृतदेवः (*anṛtadevaḥ*)), that is, one whose gods are unreal, or if I approach (अप्यूहे (*apyūhe*)) vain gods, then, Agni, I am of the stated kind…".
 
 ### Printed p. 260
 
@@ -13047,7 +13044,6 @@ The sūtra statement that verses 29–31 of this sūkta, beginning मम त्
 > आसंगो राजर्षिर्मेध्यातिथये बहु धनं दत्वा तमृषिं दत्तदानस्य स्वस्य
 > स्तुतौ प्रेरयति । हे मेध्यातिथे यज्ञा र्हातिथ एतत्संज्ञर्षे स्तुहि स्तुहीत् । पुनःपुनरस्मान् प्रशंसैव । मोदास्व । औदासीन्यं मा कार्षिः । एते घृते खलु वयं
 > मघोनां धनवतां मध्ये ते तुभ्यं मघस्य धनस्य मुंहिष्ठासो दातृतमाः ।
-> आ. ५. ८. ७. व. १६:] ऋग्वेदसंहिता 827 .
 > अतोऽस्मान् स्तुहीत्यर्थः । कासौ स्तुतिः तामाह । निंदिताश्वः । यस्य वीर्येण
 > परेषामश्वा निंदिताः कुत्सिता भवंति तादृशः । प्रपथी । प्रकृष्टः पंथाः प्रपथः ।
 > तद्वान् । सन्मार्गवर्तित्यर्थः । परमज्या उत्कृष्टज्यः । अनेन धनुरादिकं लक्ष्यते ।
@@ -14007,7 +14003,7 @@ Indra, the enemy of one who is not a praiser, knows and accepts even the śastra
 
 ##### Gist of the bhāṣya
 
-O Indra, do not give us up (परा दाः (*parā dāḥ*)) to the slayer (पीयत्नवे (*pīyatnave*); the root पीयति (*pīyati*) means killing), the violent, harmful enemy. Nor give us up to the overpowering one (शर्धते (*śardhate*)), as the sentence continues on the next page.
+O Indra, do not give us up (परा दाः (*parā dāḥ*)) to the slayer (पीयत्नवे (*pīyatnave*); the root पीयति (*pīyati*) means killing), the violent, harmful enemy. Nor give us up to the overpowering one (शर्धते (*śardhate*)).
 
 ### Printed p. 351
 
@@ -15616,7 +15612,7 @@ Indra, by the might of his strength, has spread out the heaven and earth : Indra
 ##### Gist of the bhāṣya
 
 If the Jyotiṣṭoma is Rathantara-pṛṣṭha, then at the Niṣkevalya the Pragātha अभि त्वा पूर्वपीतये (*abhi tvā pūrvapītaye*) is the Anurūpa. It is enjoined: अभि त्वा पूर्वपीतय इति प्रगाथौ स्तोत्रियानुरूपौ (*abhi tvā pūrvapītaya iti pragāthau stotriyānurūpau*) (Ā. Sū. 5-15). At the Mahāvrata also, at the Niṣkevalya on the southern side, this is the Pragātha; it is prescribed: अभि त्वा पूर्वपीतय इति रथंतरस्य स्तोत्रियानुरूपौ प्रगाथौ (*abhi tvā pūrvapītaya iti rathaṃtarasya stotriyānurūpau pragāthau*) (Ai. Ā. 5-2-2).
-"O Indra, the आयवः (*āyavaḥ*), men who are praisers, praise you with stotras. For what? पूर्वपीतये (*pūrvapītaye*): for the drinking of Soma first, before all the gods." (The bhāṣya continues on the next page.)
+"O Indra, the आयवः (*āyavaḥ*), men who are praisers, praise you with stotras. For what? पूर्वपीतये (*pūrvapītaye*): for the drinking of Soma first, before all the gods."
 ### Printed p. 388
 
 > पानाय । सवनमुखे हि चमसगणैरिंद्रस्यॆव सोमो हूयते । तथा समीचीनासः संगता ऋभवः । प्रथमवाचकेन शब्देन त्रयोऽप्युपलक्ष्यंते । ऋभुर्विभ्वा
@@ -22794,7 +22790,7 @@ They have come to the aid of the warring Trita, invigorating his strength, and (
 
 ##### Gist of the bhāṣya
 
-The Maruts have lightning-weapons shining in their arms (विद्युद्धस्ताः (*vidyuddhastāḥ*)), are of surrounding radiance (अभिद्यवः (*abhidyavaḥ*)) and are brilliant (शुभ्राः (*śubhrāḥ*)). On their heads they display golden (हिरण्ययीः (*hiraṇyayīḥ*)) helmets (शिप्राः (*śiprāḥ*)) for beauty; the sentence continues on the next page.
+The Maruts have lightning-weapons shining in their arms (विद्युद्धस्ताः (*vidyuddhastāḥ*)), are of surrounding radiance (अभिद्यवः (*abhidyavaḥ*)) and are brilliant (शुभ्राः (*śubhrāḥ*)). On their heads they display golden (हिरण्ययीः (*hiraṇyayīḥ*)) helmets (शिप्राः (*śiprāḥ*)) for beauty.
 
 ### Printed p. 554
 
@@ -22841,7 +22837,7 @@ The brilliant (Maruts), bearing the lightning in their hands, radiant above all,
 
 ##### Gist of the bhāṣya
 
-"O Maruts, उशनाः (*uśanāḥ*)": the nominative is by interchange of case; you who are praised by the seer Uśanas Kāvya; or else, you who desire (उशनसः (*uśanasaḥ*)) the hymns. When you come (आयातन (*āyātana*)) from a far place (परावतः (*parāvataḥ*)) to the opening, the middle, of your own chariot, which sprinkles and showers desires, or of the firmament which is the cause of rain, then द्यौर्न (*dyaurna*); the sentence continues on the next page.
+"O Maruts, उशनाः (*uśanāḥ*)": the nominative is by interchange of case; you who are praised by the seer Uśanas Kāvya; or else, you who desire (उशनसः (*uśanasaḥ*)) the hymns. When you come (आयातन (*āyātana*)) from a far place (परावतः (*parāvataḥ*)) to the opening, the middle, of your own chariot, which sprinkles and showers desires, or of the firmament which is the cause of rain, then द्यौर्न (*dyaurna*).
 
 ### Printed p. 555
 
@@ -23300,7 +23296,7 @@ Horses that quickly pervade all the firmament and travel, bearing food to the pr
 
 ##### Gist of the bhāṣya
 
-Agni, by his splendour (अर्चिषा (*arciṣā*)), was born (जानि (*jāni*) = अजायत (*ajāyata*)) first, chief among all the gods. The form is the aorist (luṅ) in the active, with the substitution of ciṅ-type ending as explained. The illustration: like the sun (सूरः (*sūraḥ*)), who is to be sought out and pleasing (छंदः (*chaṃdaḥ*)). After that, the Maruts, of the qualities spoken of before, stood about in various ways (वि तस्थिरे (*vi tasthire*)) with their rays (भानुभिः (*bhānubhiḥ*)). (The text continues on the next page.)
+Agni, by his splendour (अर्चिषा (*arciṣā*)), was born (जानि (*jāni*) = अजायत (*ajāyata*)) first, chief among all the gods. The form is the aorist (luṅ) in the active, with the substitution of ciṅ-type ending as explained. The illustration: like the sun (सूरः (*sūraḥ*)), who is to be sought out and pleasing (छंदः (*chaṃdaḥ*)). After that, the Maruts, of the qualities spoken of before, stood about in various ways (वि तस्थिरे (*vi tasthire*)) with their rays (भानुभिः (*bhānubhiḥ*)).
 
 ### Printed p. 565
 
@@ -24734,7 +24730,7 @@ Doers of many deeds, Aswins, preserve me with that (healing virtue) deposited (b
 
 ##### Gist of the bhāṣya
 
-O Nāsatyas, Aśvins of true nature, whether you nourish the whole world — the root भुरण् (*bhuraṇ*) is in the sense of holding and nourishing, and belongs to the Kaṇḍvādi class — O Devas, endowed with the qualities of generosity and the like (the short vowel is Vedic); or else you who work a cure, relieving the disease of every living being. (The text continues on the next page.)
+O Nāsatyas, Aśvins of true nature, whether you nourish the whole world — the root भुरण् (*bhuraṇ*) is in the sense of holding and nourishing, and belongs to the Kaṇḍvādi class — O Devas, endowed with the qualities of generosity and the like (the short vowel is Vedic); or else you who work a cure, relieving the disease of every living being.
 
 ### Printed p. 597
 
@@ -33411,7 +33407,6 @@ Agni, the great grandson of (sacrificial) food, the possessor of opulence, the i
 > परिचरति । यश्च स्वध्वरः शोभनेनाध्वरेण ज्योतिष्टोमादिना युक्तः सन्नमसान्नेन
 > चरुपुरोडाशादिनाग्नये ददाश अग्न्यर्थं परिचरति । तस्येदर्वंत इत्युत्तरत्र
 > संबंधः ॥
-> आ. ६. आ. १. व. ३०.] ऋग्वेदसंहिता 791.
 
 ##### Gist of the bhāṣya
 
@@ -35033,11 +35028,9 @@ The magnificent lord, the protector of the virtuous, Trasadasyu, the son of Puru
 
 - दियानां पतिः (*diyānāṃ patiḥ*)—the best among givers
 - प्रनेता (*pranetā*)—a leader for the sacrifice
-- श्यावः (*śyāvaḥ*)—(continues on the next page)
+- श्यावः (*śyāvaḥ*)—Śyāva
 
 ### Printed p. 827
-*Pratipadārtha continued from the previous Ṛk*
-- *śyāvaḥ*—Śyāva
 - मे (*me*)—to me
 - सुवास्ताः (*suvāstāḥ*)—of the river Suvāstu
 - तुग्वनि अधि (*tugvani adhi*)—on the bank
