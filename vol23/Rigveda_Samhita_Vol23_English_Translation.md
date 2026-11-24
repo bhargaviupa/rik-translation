@@ -11617,6 +11617,265 @@ O friends, do not recite at all any praise other than the praise of Indra. Do no
 ##### English translation
 Repeat, friends, no other praise, be not hurtful (to yourselves):
 
+### Printed p. 294
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒व॒क्र॒क्षिणं॑ वृष॒भं य॑था॒जुरं॒ गां न च॑र्षणी॒सहं॑ ।  
+> वि॒द्वेष॑णं सं॒वन॑नोभयंक॒रं मुंहि॑ष्ठमुभया॒विनं॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवक्रक्षिणं । वृषभं । यथा । अजुरु । गां । न । चर्षणिसहं ।  
+> द्वेषणं । संवनना । उभयंकरु । मंहिष्ठं । उभयाविनं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषभु यथा वृषभमिवावक्रक्षिणमवकर्षणशीलं शत्रूणां हिंसितारमजुरं
+> जरारहितमहिंसितं वा गां न गामिव वृषमिव चर्षणीसहं चर्षणीनां मनुष्याणां
+> शत्रुभूतानामभिभवितारं विद्वेषणु विद्वेष्टारं शत्रूणां सुवनना सुवननं सम्यक्संभजनीयं स्तोतृभिरुभयंकरं विग्रहानुग्रहयोरुभयोः कर्तारं महिष्ठं
+> दातृतममुभयाविनं दिव्यपार्थिवलक्षणेनोभयविधधनेनोपेतं । यद्वा ।
+> स्थावरजंगमरूपेण द्विप्रकारेण रक्षितव्येनोपेतं । अथवोभयविधैः स्तोतृभिर्यष्टृभिश्चोपेतं । एवंविधमिंद्रमित् स्तोतृत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Like a bull, Indra is *avakrakṣiṇa*, given to dragging down and destroying his enemies; "ajura", free from old age, or unharmed. Like an ox (or bull) he overcomes the *carṣaṇī*, the human beings who are enemies. He is the hater of enemies, "संवनना (*saṃvananā*)", to be well served by worshippers; *ubhayaṅkara*, the maker of both attack and favour; *maṃhiṣṭa*, the most generous giver; *ubhayāvin*, endowed with two kinds of wealth, heavenly and earthly. Alternatively: possessed of a twofold, to-be-protected wealth in the form of the immovable and the moving; or accompanied by two kinds of worshippers and sacrificers. Indra, so described, is the one to be praised; this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभं यथा (*vṛṣabhaṃ yathā*)—like a bull
+- अवक्रक्षिणं (*avakrakṣiṇaṃ*)—the one who harms enemies
+- अजुरं (*ajuraṃ*)—free from old age
+- गां न (*gāṃ na*)—like an ox
+- चर्षणीसहं (*carṣaṇīsahaṃ*)—the one who defeats enemies
+- विद्वेषणं (*vidveṣaṇaṃ*)—the one who hates enemies
+- संवनना (*saṃvananā*)—revered by worshippers
+- उभयंकरं (*ubhayaṃkaraṃ*)—capable of both, restraining the wicked and favouring the good
+- मंहिष्ठं (*maṃhiṣṭhaṃ*)—the generous giver
+- उभयाविनं (*ubhayāvinaṃ*)—possessed of two kinds of wealth, heavenly and earthly (praise Indra alone)
+
+##### भावार्थ (Bhāvārtha)
+
+Serve Indra alone: the one who harms enemies like a bull, free from old age, who defeats enemies like an ox, who hates enemies, who is revered by worshippers, who restrains the wicked and favours the good, the generous giver, possessed of two kinds of wealth, heavenly and earthly.
+
+##### English translation
+A bull rushing (upon his foes), undecaying, like an ox, the overcomer of (hostile) men, the hater (of adversaries), the venerable, the displayer of both (enmity and favour), the munificent, the distributor of both (celestial and terrestrial riches).
+
+### Printed p. 295
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्चि॒द्धि त्वा॒ जना॑ इ॒मे नाना॒ हवं॑त ऊ॒तये॑ ।  
+> अ॒स्माकं॒ ब्रह्म॒दमिं॑द्र भूतु॒ तेऽहा॒ विश्वा॑ च॒ वर्ध॑नं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । चित् । हि । त्वा । जनाः । इमे । नाना । हवंते । ऊतये ।  
+> अस्माकं । ब्रह्म । इदं । इंद्र । भूतु । ते । आहा । विश्वा । च । वर्धनं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने यच्चिद्धि त्वेति प्रशास्तुर्वैकल्पिकोऽनुरूपः प्रगाथः । सूत्रं तूदाहृतं ॥
+> इमे दृश्यमानाः सर्वे जना हे इंद्र त्वामूतये रक्षणाय तर्पणाय वा
+> नाना पृथक्पृथक् यच्चिद्यद्यपि हवंते स्तुवंति । हीति पूरणः । तथाप्यस्माकमिदं
+> ब्रह्म स्तोत्रमेव हे इंद्र ते तव वर्धनं वर्धकं भूतु । भवतु। न केवलमिदानीमेव अपि तु विश्वाहा सर्वाण्यहानि सर्वेष्टवहःसु चेदमेव स्तोत्रं त्वां
+> वर्धयत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the midday pressing, यच्चिद्धि त्वा (*yacciddhi tvā*) is the optional anurūpa pragātha of the Praśāstṛ; the sūtra has been cited already. O Indra, all these people you see here call on (praise) you severally, for protection or for satisfaction; "hi" is a filler. Yet may this our prayer (brahma, praise) alone be your strengthener, O Indra; not only now, but on all days: may this very praise make you grow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- इमे जनाः (*ime janāḥ*)—the others here also
+- ऊतये (*ūtaye*)—for their protection
+- नाना (*nānā*)—in many ways
+- यच्चित् (*yaccit*)—if perhaps
+- त्वा (*tvā*)—you
+- हवंते (*havaṃte*)—they praise
+- अस्माकं (*asmākaṃ*)—recited by us
+- इदं ब्रह्म (*idaṃ brahma*)—this praise
+- विश्वाहा च (*viśvāhā ca*)—on all days
+- ते (*te*)—your
+- वर्धनं (*vardhanaṃ*)—as the means of growth
+- भूतु (*bhūtu*)—may it be
+
+### Printed p. 296
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, it is natural that the other people here, desiring their own protection, praise you in many ways. Even so, may this praise recited by us be, on all days, the direct means of your growth (may it be pleasing to you).
+
+##### English translation
+Although these people worship you, Indra, in many ways to (secure) your protection, (yet) may this our prayer be throughout all days your magnification.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the midday pressing of the day of the sacrifice called Cāturviṃśika, the priest called Praśāstṛ is to recite this Ṛk यच्चिद्दित्वा (*yaccidditvā*) as an optional anurūpa pragātha mantra; the Āśvalāyana Śrauta Sūtra stating this has been quoted before.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि त॑तूर्यंते मघवन्विप॒श्चित्रो॒ऽर्यो विपो॒ जना॑नां ।  
+> उप॑ क्रमस्व पुरु॒रूप॒मा भ॑र॒ वाजं॒ नेदि॑ष्टमू॒तये॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । तर्तूर्यंते । मघवन् । विपृचितः । अर्यः । विपः । जनानां ।  
+> उप । क्रमस्व । पुरुरूपं । आ । भर । वाजं । नेदिष्टं । ऊतये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र विपश्चितो विद्वांसस्त्वदीयाः स्तोतारोऽर्योऽभिगंतारो जनानां शत्रूणां विपो वेषयितारः संतो वि तर्तूर्यंते ।
+> भृशमापदो वितरंति । अतिक्रामंति । तादृशस्त्वमुप क्रमस्व । उपगच्छास्मान् ।
+> पुरुरूपं बहुरूपं नेदिष्टमंतिकतमं वाजमन्नमूतये तर्पणाया
+> भरास्मभ्यं ॥
+
+##### Gist of the bhāṣya
+
+O wealthy Indra, your wise worshippers, being "arya" (advancers against enemies) and "vipa" (makers-tremble of enemy people), cross over, "vi tartūryante", many dangers; they surmount them. Such as you are, come to us; bring us near at hand much and varied food for our satisfaction.
+
+### Printed p. 297
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- विपश्चितः (*vipaścitaḥ*)—your discerning praisers
+- अरः (*araḥ*)—being conquerors of enemies
+- जनानां (*janānāṃ*)—enemy people
+- विपः (*vipaḥ*)—and makers of them tremble
+- वि तर्तूर्यंतॆ (*vi tartūryaṃtè*)—(by your favour) cross over many dangers
+- उप क्रमस्व (*upa kramasva*)—be gracious to us, come near
+- पुरुरूपं (*pururūpaṃ*)—of many kinds
+- नेदिष्टं (*nediṣṭaṃ*)—always staying close to us
+- वाजं (*vājaṃ*)—food
+- ऊतये (*ūtaye*)—for our satisfaction
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, your discerning praisers, being conquerors of enemies and makers of enemy people tremble, become able to cross many dangers. All this is your favour. Being so capable, be gracious to us. For our satisfaction bring us food that is of many kinds and always stays with us.
+
+##### English translation
+The sages (your worshippers), Maghavan, the overcomers (of foes) the terrifiers of (hostile) people, pass over various (calamities by your aid): come nigh and bring many sorts of food, and available for our preservation.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हे च॒न त्वाम॑द्रिवः॒ परा॑ शु॒ल्काय॑ देयां ।  
+> न स॒हस्रा॑य॒ नायुता॑य वज्रवो॒ न श॒ताय॑ शतामघ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महे । चन । त्वां । अद्रिवः । परा । शुल्काय । देयां ।  
+> न । सहस्राय ' न । अयुताय । वज्रिवः । न । शताय । शतमघ ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो वज्रवन्निंद्र त्वां । चनेति निपातद्वयसमुदायो विभज्य
+> योजनीयः । महे च महतेऽपि शुल्काय मूल्याय न परा देयां । न विक्री-
+
+##### Gist of the bhāṣya
+
+O Indra, wielder of the bolt (adrivān), "cana" is a pair of particles to be divided and construed: I would not give you away ("परा देयां (*parā deyāṃ*)") to others even for a great price; not sold off for…
+
+### Printed p. 298
+
+> हानि । हे वज्रिवो वज्रहस्तेंद्र सहस्राय सहस्रसंख्याय च धनाय न परा
+> देयां । अयुताय दशसहस्राय च शुल्काय न परा देयां । हे शतामघ
+> बहुधनेंद्र शताय । बहुनामैतत् । अपरिमिताय च धनाय न परा देयां । न
+> विक्रीणानि । उक्तसंख्याद्धनादपि त्वं मम प्रियतमोऽसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+…O bolt-handed Indra, not for a thousand in wealth; not for ten thousand ("ayuta") in price would I give you away; O Indra of the hundred bounties, rich in wealth, not for *śata* (a hundred; this is a word for "many"), that is, unmeasured wealth, would I give you away, nor sell you. The sense: you are dearer to me than wealth of the numbers stated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- त्वां च (*tvāṃ ca*)—as for you
+- महे (*mahe*)—for great
+- शुल्काय (*śulkāya*)—price
+- न परा देयां (*na parā deyāṃ*)—I will not give up to others
+- वज्रिवः (*vajrivaḥ*)—O Indra, bearer of the thunderbolt
+- सहस्राय (*sahasrāya*)—for wealth of a thousand
+- न (*na*)—I will not give up
+- आयुताय (*āyutāya*)—for ten thousand
+- न (*na*)—I will not place you in another's power
+- शतामघ (*śatāmagha*)—O Indra, of abundant wealth
+- शताय (*śatāya*)—for unmeasured wealth, you
+- न (*na*)—I will not abandon
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, you are greater than limitless wealth. Therefore, even if others give any amount of wealth, a hundred-fold, a thousandfold or beyond measure, as your price, O Indra of abundant wealth, I will not, longing for a price lower than you, give you up to others.
+
+##### English translation
+Wielder of the thunderbolt, I would not sell you for a large price, not for a thousand, nor for ten thousand, nor, opulent bearer of the thunderbolt, for a hundred.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वस्य॑ इंद्रासि मे पि॒तुरु॒त भ्रातु॒रभुं॑जतः ।  
+> मा॒ता च॑ मे छदयथः स॒मा व॑सो वसुत्व॒नाय॒ राध॑से ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वस्यान् । इंद्र । असि । मे । पितुः । उत । भ्रातुः । अभुंजतः ।  
+> माता । च । मे । छदयथः । समा । वसो इति । वसुत्वनाय । राधसे ॥ ६ ॥
+
+### Printed p. 299
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं मे मदीयात्पितुर्जनकादपि वस्यान् वसीयान् वसुमत्तरोऽसि । उतापि चाभुंजतोऽपालयतो मम भ्रातुरपि वसीयांस्त्वमधिकोऽसि!
+> हे वसो वासकेंद्र मे मदीया माता च त्वं च समा समौ समानौ संतौ ॥
+> पुमान् स्त्रिया । पा. १-२.६७. । इति पुंसः शेषः ॥ छधयथः । अर्चतिकर्मायं ।
+> मां पूजितं कुरुथः । किमर्थं । वसुत्वनाय व्यापनाय राधसे धनाय च ।
+> उभयोर्लाभायेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are "वस्यान् (*vasyān*)", richer, more possessed of wealth, than my father, my begetter; and also than my brother who does not protect me you are more excellent. O Vasu, giver of dwelling, Indra, my mother and you being equal ("समा (*samā*)" for "samau"; by Pā. Sū. 1-2.67 the masculine remains), you two ("छदयथः (*chadayathaḥ*)", a verb of honouring) make me honoured. For what? For "vasutvana", pervasion (distinction), and for *rādhas*, wealth; the sense is: for the gain of both.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मे (*me*)—my
+- पितुः (*pituḥ*)—than father
+- वस्यान् (*vasyān*)—you are greater
+- असि (*asi*)—you are
+- उत (*uta*)—and
+- अभुंजतः (*abhuṃjataḥ*)—who does not protect me
+- भ्रातुः (*bhrātuḥ*)—than a brother you are greater
+- वसो (*vaso*)—O Indra, giver of dwelling
+- मे (*me*)—my
+- माता च (*mātā ca*)—mother and you also
+- समा (*samā*)—are equal (because)
+- वसुत्वनाय (*vasutvanāya*)—for my excellent condition
+- राधसे (*rādhase*)—and for gain of wealth
+- छदयथः (*chadayathaḥ*)—you make me worthy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are greater than my father. You are greater than a brother who does not protect me. O Indra, giver of dwelling, my mother and you are equal; because you make me worthy of an excellent condition and of gain of wealth.
+
+##### English translation
+You are more precious, Indra, than my father, or than my brother, who is not affectionate: you, giver of dwellings, are equal to my mother, for you both render me distinguished on account of celebrity and riches.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्वे॑यथ॒ क्वेद॑सि पुरु॒त्रा चि॒द्धि ते॒ मनः॑ ।  
+> अल॑र्षि युध्ध खजकृत्पुरंदर॒ प्र गा॑य॒त्रा . अ॑गासिषुः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । इयथ । क्व । इत् । असि । पुरुत्रा । चित् । हि । ते । मनः ।
+
 ---
 
-**Progress note:** Done through printed p. 293. pp. 288-293 (batch API)
+**Progress note:** Done through printed p. 299. pp. 294-299 (batch API)
