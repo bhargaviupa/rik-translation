@@ -171,3 +171,18 @@
 - p. 284 (English line 5254) [R1]: `trāmau dvitīyāyāḥ` → `tvāmau dvitīyāyāḥ` — Kannada: 'ತ್ವಾಮೌ ದ್ವಿತೀಯಾಯಾಃ (ಪಾ. ಸೂ. ೮-೧-೨೩)' (second pass S3, findings.tsv)
 - p. 287 (English line 5314) [R1]: `You must not wish to kill me by any weapon and any fighting. You must not use a weapon that is dry or wet;` → `You may again wish to kill me by fighting with me by some trick. On such an occasion the weapon you use to kill me must not be wet or dry;` — Kannada: 'ನೀನು ಮತ್ತೆ ನನ್ನೊಡನೆ ಯಾವುದಾದರೂ ತಂತ್ರದಿಂದ ಯುದ್ಧ ಮಾಡಿ ನನ್ನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದು ಇಚ್ಛಿಸಬಹುದು. ಅಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ... ಆಯುಧವು ಹಸಿಯಾಗಿರಕೂಡದು. ಒಣಗಿರಲೂಕೂಡದು' (second pass S3, findings.tsv)
 - p. 288 (English line 5323) [R1]: `11-73-7 [as printed; for 10-73-7]` → `11-23-7` — Kannada: '(ಋ. ಸಂ. ೧೧-೨೩-೭)' (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 293 (English line 5424) [R1]: `*ṭeḥ* (Pā. Sū. 6-4-155)` → `*ṭeḥ* (Pā. Sū. 6-4-143)` — ಟೇಃ (ಪಾ. ಸೂ. ೬-೪-೧೪೩) ಎಂಬುದರಿಂದ ತೇಜಸಿನ ಟಿಗೆ ಲೋಪ (second pass S3, findings.tsv)
+- p. 295 (English line 5469) [R1]: `Suśravas is said to be the son of Upagu` → `Suśravas is said to be the father of Upagu Suśravasa` — ಸುಶ್ರವಸ್ ಎಂಬುವನು ಉಪಗು ಸುಶ್ರವಸ ಎಂಬುವನ ತಂದೆಯೆಂದೂ (tande = father) (second pass S3, findings.tsv)
+- p. 296 (English line 5469) [R1]: `Suśravā Kauṣya is spoken of` → `Suśravā Kausya is spoken of` — ಸುಶ್ರವಾಃ ಕೌಸ್ಯಃ ಎಂಬುವನು ಶತಪಥ ಬ್ರಾಹ್ಮಣದಲ್ಲಿ (second pass S3, findings.tsv)
+- p. 296 (English line 5469) [R1]: `Suśravā Vārṣagaṇya is told` → `Suśravā Varṣagaṇya is told` — ಸುಶ್ರವಾಃ ವರ್ಷಗಣ್ಯಃ ಎಂಬುವನು (second pass S3, findings.tsv)
+- p. 296 (English line 5469) [R1]: `pupil of one named Prātaraha Kauhala` → `pupil of one named Prātarahna Kauhala` — ಪ್ರಾತರಹ್ನ ಕೌಹಲನೆಂಬುವನ ಶಿಷ್ಯನೂ (second pass S3, findings.tsv)
+- p. 296 (English line 5469) [R1]: `(10-75-5 [? 7/2])` → `(10-75-5)` — ವಂಶಬ್ರಾಹ್ಮಣದಲ್ಲಿ (೧೦-೭೫-೫) (second pass S3, findings.tsv)
+- p. 296 (English line 5480) [R1]: `*liṅ*-nimitta reduplication` → `reduplication on that account` — ತನ್ನಿಮಿತ್ತವಾಗಿ ಧಾತುವಿಗೆ ದ್ವಿತ್ವ (after kvasu; no liṅ) (second pass S3, findings.tsv)
+- p. 299 (English line 5534) [R1]: `10-20-7 [? 7/2].` → `10-20-7.` — ೧೦-೨೦-೭ ಎಂಬ ಋಕ್ಕುಗಳಲ್ಲಿ ಪಠಿತವಾಗಿದೆ (second pass S3, findings.tsv)
+- p. 299 (English line 5546) [R1]: `*akaś ca ādeḥ*` → `*ata ādeḥ*` — ಅತಆದೇಃ ಎಂಬುದರಿಂದ ಅದಕ್ಕೆ ದೀರ್ಘ (second pass S3, findings.tsv)
+- p. 302 (English line 5607) [R1]: `*loṭ* in the sense of the *liṅ*` → `*loṭ* in the sense of *luṅ*` — ವ್ಯತ್ಯಯೋಬಹುಲಂ ಎಂಬುದರಿಂದ ಲುಜರ್ಥದಲ್ಲಿ ಲೋಟ್ (and bhāṣya ಲುಣರ್ಥೇ ಲೋಟ್) (second pass S3, findings.tsv)
+- p. 302 (English line 5608) [R1]: `*sip* also comes in the *leṭ*` → `*sip* also comes in the *loṭ*` — ಬಹುಲಗ್ರಹಣಮಾಡಿರುವುದರಿಂದ ಲೋಟಿನಲ್ಲಿಯೂ ಸಿಪ್ ಬರುತ್ತದೆ (second pass S3, findings.tsv)
+- p. 304 (English line 5651) [R1]: `Varga 16, 18 (as printed, "ವರ್ಗ—೧೬, ೧೮")` → `Varga 17, 18 (as printed, "ವರ್ಗ-೧೭, ೧೮")` — ವರ್ಗ-೧೭, ೧೮ ॥ (second pass S3, findings.tsv)
+- p. 304 (English line 5685) [R1]: `roaring for your own sake` → `roaring, making an exceedingly loud sound` — ರೋರುವತ್ ಅತ್ಯರ್ಥಂ ಶಬ್ದಂ ಕುರ್ವನ್; pratipada ಗರ್ಜಿಸುವ ಶಬ್ದವನ್ನು ಮಾಡುತ್ತ (second pass S3, findings.tsv)
