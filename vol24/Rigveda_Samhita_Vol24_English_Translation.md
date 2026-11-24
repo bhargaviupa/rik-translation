@@ -34235,6 +34235,270 @@ O Indra, since you are common to many sacrificers, चित् (*cit*) being a 
 
 O Indra, by whatever greatness of yours you are worshipped alike by all the many sacrificers, you, who have such greatness and are worshipped alike by all, we call.
 
+### Printed p. 753
+
+##### English translation
+Because you are common to many worshippers, therefore, Indra, we invoke you.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं ते॑ सो॒म्यं मध्वधु॑क्ष॒न्नद्रि॑भि॒र्नरः॑ ।  
+> जु॒षा॒ण इं॑द्र॒ तत्पि॑ब ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । ते । सोम्यं । मधु । अधुक्षन् । अद्रिभिः । नरः ।  
+> जुषाणः । इंद्र । तत् । पिब ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातःसवन इदं ते सोम्यमिति होतुः प्रस्थितयाज्या । सूत्रितं च । इदं
+> ते सोम्यं मधु मित्रं वयं हवामहे । आ. ५-५ । इति ॥
+> हे इंद्र ते त्वदर्थमिदं सोम्यं सोमसंबंधि मध्वधुक्षन्नद्रिभिर्ग्रावभिरभिषवसाधनैर्नरोऽस्मदीया अध्वर्यादयः । हे इंद्र तन्नधु जुषाणः
+> प्रीयमाणः पिब ॥
+
+##### Gist of the bhāṣya
+
+At the morning pressing, the ṛk इदं ते सोम्यं (*idaṃ te somyaṃ*) is the Hotṛ's prasthitayājyā. It is also laid down in the sūtra इदं ते सोम्यं मधु मित्रं वयं हवामहे (*idaṃ te somyaṃ madhu mitraṃ vayaṃ havāmahe*) (Ā. Sū. 5-5). O Indra, for you our men, the adhvaryu and the others, have milked this sweet drink belonging to the Soma with the stones, the pressing-stones that are the instruments of pressing. O Indra, being pleased with that sweet drink, drink it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—for you
+- नरः (*naraḥ*)—our priests, the adhvaryu and the others
+- सोम्यं (*somyaṃ*)—belonging to the Soma
+- इदं मधु (*idaṃ madhu*)—this sweet juice
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- आधुक्षन् (*ādhukṣan*)—have pressed
+- शत् (*śat*)—this sweet juice
+- जुषाणः (*juṣāṇaḥ*)—partaking of
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for you our priests, the adhvaryu and the others, have pressed with the pressing stones this sweet juice belonging to the Soma. Partaking of this sweet juice, drink it.
+
+##### English translation
+The priests have milked for you with their stones this nectar of the Soma; drink it, Indra, well pleased.
+
+### Printed p. 754
+
+##### विशेषविषयगळु (Special Topics)
+
+At the morning pressing, the Hotṛ is to recite the ṛk इदं ते सोम्यं (*idaṃ te somyaṃ*) as the prasthitayājyā mantra; this is explained by the sūtra इदं ते सोम्यं मधु मित्रं वयं हवामहे (*idaṃ te somyaṃ madhu mitraṃ vayaṃ havāmahe*) of the Āśvalāyana Śrauta Sūtra (Ā. Sū. 5-5).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑ अ॒र्यो वि॑प॒श्चितोऽति॑ ख्य॒स्तूय॒मा ग॑हि ।  
+> अ॒स्मे धे॑हि॒ श्रवो॑ बृ॒हत् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वान् । अर्यः । विपःचितः । अति । ख्यः । तूयं । आ । गहि ।  
+> अस्मे इति । धेहि । श्रवः । बृहत् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आर्यः स्वामिा त्वं विश्वान्विपश्चितः स्तोत्यनति ख्यः । अतिक्रम्य पश्य ।
+> तदर्थं तूयं क्षिप्रमा गहि । अगत्य चास्मे आस्मासु बृहच्छ्रवोऽन्नं यशो
+> वा धेहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, the lord, pass over all the wise, the praisers; overlook them. For that purpose come quickly; and having come, bestow upon us abundant food or fame.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) आर्यः (*āryaḥ*)—you, the lord
+- विश्वान् (*viśvān*)—all
+- विपश्चितः (*vipaścitaḥ*)—the praisers
+- अति ख्यः (*ati khyaḥ*)—leaving behind
+- तूयं (*tūyaṃ*)—quickly
+- आ गहि (*ā gahi*)—come to us
+- आस्मे (*āsme*)—in us
+- बृहत् (*bṛhat*)—abundant
+- श्रवः (*śravaḥ*)—food
+- धेहि (*dhehi*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the lord, leaving behind all the praisers (that is, not going to them), come quickly to us. Establish abundant food in us.
+
+##### English translation
+Do you, the lord, pass by all other worshippers and come quickly to us, and bestow on us abundant food.
+
+### Printed p. 755
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दा॒ता मे॒ पृष॑तीनां॒ राजा॑ हिरण्य॒वीनां॑ ।  
+> मा दे॑वा म॒घवा॑ रिषत् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दाता । मे । पृषतीनां । राजा । हिरण्यवीनां ।  
+> मा । देवाः । मघवा । रिषत् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्यवीनां हिरण्यवीतानां पृषतीनां राजेंद्रो मे दाता भवतु । हे
+> देवाः मघवेंद्रो मा रिषत् । रिष्टो मा भवतु ॥
+
+##### Gist of the bhāṣya
+
+Let Indra, the king of the speckled cows that are adorned with gold, be my giver. O gods, let Maghavan, Indra, not be harmed; let him not become injured.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजा (*rājā*)—Indra, the lord
+- हिरण्यवीनां (*hiraṇyavīnāṃ*)—adorned with ornaments made of gold
+- पृषतीनां (*pṛṣatīnāṃ*)—horses (or cows)
+- मे (*me*)—to me
+- दाता (*dātā*)—let him be the giver
+- देवाः (*devāḥ*)—O gods
+- मघवा (*maghavā*)—Indra
+- मा रिषत् (*mā riṣat*)—let him not be harmed
+
+##### भावार्थ (Bhāvārtha)
+
+Let Indra, the lord, be the giver to us of horses, or cows, adorned with ornaments made of gold. O gods, let Indra not be harmed. **NOTE**
+
+##### English translation
+May (Indra) the king give me cows adorned with gold ; O gods, let not Maghavan be harmed.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्रे॒ पृष॑तीना॒मधि॑ श्चं॒द्रं बृ॒हत्पृ॒थु ।  
+> शु॒क्रं हिर॑ण्य॒मा द॑दे ॥ ११ ॥
+
+### Printed p. 756
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रे । पृषतीनां । अधि । चंद्रं । बृहत् । पृथु ।  
+> शुक्रं । हिरण्यं । आ । ददे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं पृषतीनां गवां सहस्रेऽध्युपरि धारितं बृहन्महत्पृथु विस्त्रतं
+> चंद्रमाह्लादकं शुक्रं निर्मलं हिरण्यमा ददे । स्वीकरोमींद्रेणानीतं ॥
+
+##### Gist of the bhāṣya
+
+I accept the gold brought by Indra, which is carried above a thousand speckled cows: great, vast, delightful and pure.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रे (*sahasre*)—numbering a thousand
+- पृषतीनां आधि (*pṛṣatīnāṃ ādhi*)—upon the cows given by Indra
+- बृहत् (*bṛhat*)—of great form
+- पृथु (*pṛthu*)—and extensive
+- चंद्रं (*caṃdraṃ*)—delightful
+- शुक्रं (*śukraṃ*)—and pure
+- हिरण्यं (*hiraṇyaṃ*)—the ornaments of gold
+- आ ददे (*ā dade*)—I accept
+
+##### भावार्थ (Bhāvārtha)
+
+I accept the ornaments of gold, great in form, extensive, delightful and pure, which lie upon the thousand cows given by Indra.
+
+##### English translation
+Upon a thousand cows I obtain gold, abundant, delightful, wide-spread, and pure.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नपा॑तो दु॒र्गह॑स्य मे स॒हस्रे॑ण सु॒राध॑सः ।  
+> श्रवो॑ दे॒वेष्ट॑क्रत ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नपातः । दुःगहस्य । मे । सहस्रेण । सुराधसः ।  
+> श्रवः । देवेषु । अक्रत ॥ १२ ॥
+
+### Printed p. 757
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नपातोऽरक्षितस्य दुर्गहस्य दुःखं गाहमानस्य मे संबंधिनो जनाः
+> सहस्रेणापरिमितेनेंद्रदत्तेन गवादिधनेन सुराधसः सुधनाः संतो देवेषु
+> प्रीतेषु । इंद्रे प्रीत इत्यर्थः । श्रवोऽन्नं यशो वाक्रत । अलभंतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The people belonging to me, unprotected and struggling in sorrow, having become well endowed with a thousand, that is, unlimited, wealth such as cows, given by Indra, obtained food or fame when the gods were pleased, that is, when Indra was pleased.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नपातः (*napātaḥ*)—my children and grandchildren, who are without protection
+- दुर्गहस्य (*durgahasya*)—and are sunk in sorrow
+- मे (*me*)—my
+- देवेषु (*deveṣu*)—when the gods are pleased
+- सहस्रेण (*sahasreṇa*)—with the wealth, unlimited in number, given by Indra
+- सुराधसः (*surādhasaḥ*)—having become excellently prosperous
+- श्रवः (*śravaḥ*)—food (and fame)
+- आक्रत (*ākrata*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+My children and grandchildren, who had fallen without protection and were sunk in the sorrow of poverty, became worthy of the favour of the gods, became excellently prosperous with the unlimited wealth given by Indra, and obtained food and fame.
+
+##### English translation
+Plunged as I am in sorrow, my children, by the favour of the gods, obtain food, and are blessed with abundance in a thousand cattle.
+
+## Sūkta 66 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तरोभिर्व इति पंचदशर्चं सप्तमं सूक्तं प्रगाथपुत्रस्य कलेरार्षं ।
+> प्रथमातृतीयाद्ययुजो बृहत्यो द्वितीयाचतुर्थ्यादियुजः सतोबृहत्यः
+> पंचदशी त्वनुष्टुप् । तथा चानुक्रमणिका । तरोभिः पंचोना कलिः प्रागाथः
+> प्रागाथमंत्यानुष्टुबिति ॥ महाव्रते निष्केवल्ये बार्हततृचाशीतावेतत्तूक्तं । तथा
+> च पंचमारण्यके सूत्रितं । तरोभिर्वो विदद्वसुमित्युत्तमामुद्धरति । ऐ. आ.
+> ५-२-४ । इति ॥ अग्निष्टोमेच्छावाकशस्त्रेयं प्रगाथः स्तोत्रियः । तथा च सूत्रितं ।
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, beginning तरोभिर्व (*tarobhirva*), has fifteen ṛks and is the vision of Kali, the son of Pragātha. The first, third and other odd ṛks are Bṛhatī, the second, fourth and other even ṛks are Satobṛhatī, and the fifteenth is Anuṣṭubh. So the Anukramaṇikā says: तरोभिः पंचोना कलिः प्रागाथः प्रागाथमंत्यानुष्टुबिति (*tarobhiḥ paṃconā kaliḥ prāgāthaḥ prāgāthamaṃtyānuṣṭubiti*). In the Mahāvrata, in the Niṣkevalya śastra, this sūkta is used for the Bārhata tṛcas. **NOTE** So it is laid down in the fifth Āraṇyaka: तरोभिर्वो विदद्वसुमित्युत्तमामुद्धरति (*tarobhirvo vidadvasumityuttamāmuddharati*) (Ai. Ā. 5-2-4). In the Agniṣṭoma, in the Acchāvāka's śastra, this pragātha is the stotriya. As is laid down in the sūtra:
+
+### Printed p. 758
+
+> शरोभिर्वो विदद्वसुं तरणिरित्सिषासतीति प्रगाथौ स्तोत्रियानुरूपौ । आ. ५-१६ । इति ॥
+> चातुर्विंशिकेऽहन्ययमेव प्रगाथः स्तोत्रियः । सूत्रितं च । शरोभिर्वो
+> विदद्वसुं तरणिरित्सिषासति । आ. ७-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The two pragāthas beginning शरोभिर्वो विदद्वसुं तरणिरित्सिषासतीति (*śarobhirvo vidadvasuṃ taraṇiritsiṣāsatīti*) are the stotriya and the anurūpa (Ā. Sū. 5-16). **NOTE** On the Cāturviṃśika day this very pragātha is the stotriya, as is laid down: शरोभिर्वो विदद्वसुं तरणिरित्सिषासति (*śarobhirvo vidadvasuṃ taraṇiritsiṣāsati*) (Ā. Sū. 7-4).
+
+##### Anuvāda
+
+This sūkta beginning तरोभिर्वः (*tarobhirvaḥ*) is the seventh sūkta in the seventh anuvāka. It has fifteen ṛks. In this sūkta the odd-numbered ṛks, one, three and so on, are in the Bṛhatī metre; the even-numbered ṛks, two, four and so on, are in the Satobṛhatī metre; but the last ṛk, the fifteenth, is in the Anuṣṭubh metre. In the Anukramaṇikā it is said: तरोभिः पंचोना कलिः प्रागाथः प्रागाथमंत्यानुष्टुप् (*tarobhiḥ paṃconā kaliḥ prāgāthaḥ prāgāthamaṃtyānuṣṭup*). In the Mahāvrata sacrifice, at the time of reciting the Niṣkevalya śastra mantras, the ṛks of this sūkta, except the last, are used for the mantras of the Bṛhatī metre, as is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence तरोभिर्वो विदद्वसुमित्युत्तमामुद्धरति (*tarobhirvo vidadvasumityuttamāmuddharati*) (Ai. Ā. 5-2-4). In the Agniṣṭoma sacrifice, among the śastra mantras recited by the priest called Acchāvāka, the first two ṛks of this sūkta are to be recited as the stotriya pragātha, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra तरोभिर्वो विदद्वसुं तरणिरित्सिषासतीति प्रगाथौ स्तोत्रियानुरूपौ (*tarobhirvo vidadvasuṃ taraṇiritsiṣāsatīti pragāthau stotriyānurūpau*) (Ā. Sū. 5-16). On the day of the sacrifice called Cāturviṃśika these two ṛks are to be recited as the stotriya pragātha, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तरोभिर्वो विदद्वसुं तरणिरित्सिषासति (*tarobhirvo vidadvasuṃ taraṇiritsiṣāsati*) (Ā. Sū. 7-4).
+
+Sūkta 66.
+Maṇḍala 8; Anuvāka 7; Sūkta 66.
+Aṣṭaka 6; Adhyāya 4; Varga 48, 49, 50.
+Number of ṛks in the sūkta: 15.
+Ṛṣi: Kaliḥ Prāgāthaḥ.
+Devatā: Indra.
+Chandas: 1-14. Prāgātha; 15. Anuṣṭubh. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तरो॑भिर्वो वि॒दद्व॑सु॒मिंद्रं॑ स॒बाध॑ ऊ॒तये॑ ।  
+> बृ॒हद्दायं॑तः सु॒तसो॑मे अध्व॒रे हु॒वे भरं॒ न का॒रिणं॑ ॥१॥
+
 ---
 
-**Progress note:** Done through printed p. 752. Mandala 8 sukta 65 rks 1-7
+**Progress note:** Done through printed p. 758. Mandala 8 sukta 65 rks 8-12, sukta 66 introduction and rk 1 samhita
