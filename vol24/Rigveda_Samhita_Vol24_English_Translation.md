@@ -15556,6 +15556,331 @@ O Indra and Agni, whose wealth is to be won from enemies, come together with the
 
 O gods Indra and Agni, possessing wealth taken from enemies, be gracious and come, with the gods who come to the morning pressing, for the drinking of Soma.
 
+### Printed p. 344
+
+##### English translation
+Rich with the spoils of victory, come, Indra and Agni, to drink of the Soma, with the deities astir in the morning.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्या॒वाश्व॑स्य सुन्व॒तोऽत्री॑णां शृणुतं॒ हवं॑ ।  
+> इंद्रा॑ग्नी॒ सोम॑पीतये ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्यावअश्वस्य । सुन्वतः । अत्रीणां । शृणुतं । हवं ।  
+> इंद्राग्नी इति । सोमपीतॆये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी युवां सुन्वतः सोमाभिषवं कुर्वतो यजमानस्य
+> श्वावाश्वस्य ममात्रीणामृत्विजां हवं ह्वानं सोमस्य पानाय शृणुतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, for the drinking of Soma hear the invocation of me, Śyāvāśva, the sacrificer who is pressing the Soma, and of the Atris, the priests.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- सुन्नतः (*sunnataḥ*)—who press and offer the Soma
+- श्यावाश्वस्य (*śyāvāśvasya*)—of me, called Śyāvāśva
+- हवं (*havaṃ*)—the prayer
+- अत्रीणां (*atrīṇāṃ*)—and the prayer of the priests of the Atri family
+- सोमस्य (*somasya*)—of the Soma
+- पीतये (*pītaye*)—for the drinking
+- शृणुतं (*śṛṇutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, hear, for the drinking of the Soma, the prayer of me, called Śyāvāśva, who press and offer the Soma, and also the prayer of the priests of the Atri family.
+
+##### English translation
+Hear the invocation, Indra and Agni, of Shyavasha pouring out the effused juice, (and) the Atris to drink of the Soma.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा वा॑मह्व ऊ॒तये॒ यथाहु॑वंत॒ मेधि॑राः ।  
+> इंद्रा॑ग्नी॒ सोम॑पीतये ॥ ९ ॥
+
+### Printed p. 345
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । वां । अद्वे । ऊतये । यथा । अहुवंत । मेधिराः ।  
+> इंद्राग्नी इति । सोमपीतये ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी नां युवां यथा मेधिराः प्राज्ञा अहुवंत आहूतवंतः
+> एवमहमूतये रक्षणाय सोमस्य पीतये चाह्वे । ह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, as the wise ones have invoked you, so I invoke you for protection and for the drinking of Soma. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- वां (*vāṃ*)—you
+- यथा (*yathā*)—in what manner
+- मेधिरः (*medhiraḥ*)—all the wise seers
+- आहुवंत (*āhuvaṃta*)—invoked
+- एव (*eva*)—in the same manner
+- ऊतये (*ūtaye*)—for protection
+- सोमपीतये (*somapītaye*)—and for the drinking of Soma
+- अह्वेनानू (*ahvenānū*)—I too invoke **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, as the wise seers all invoked you, in the same way I also invoke you, for protection and for the drinking of Soma.
+
+##### English translation
+I invoke you both, Indra and Agni, as the sages have invoked you, for your protection, (and) to drink of the Soma.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आहं सर॑स्वतीवतोरिंद्रा॒ग्योरवो॑ वृणे ।  
+> याभ्यां॑ गाय॒त्रमृ॒च्यते॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अहं । सरस्वतीऽवतोः । इंद्राग्नोः । अवः । वृणे ।  
+> याभ्यां । गायत्रं । ऋच्यते ॥ १० ॥
+
+### Printed p. 346
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> याभ्यां ययोरिंद्राग्नोर्यर्थं गायत्रं सामर्च्यते स्तूयते तयोः
+> सरस्वतीवतोः स्तुतिमतोरिंद्राग्नोर्य संबंध्यवो रक्षणमहमा वृणे ॥ २१ ॥
+
+##### Gist of the bhāṣya
+
+I choose the protection of those two, Indra and Agni, who are accompanied by praise, and in whose honour the Gāyatra Sāman is praised. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरस्वतीवतोः (*sarasvatīvatoḥ*)—possessed of praise
+- याभ्यां (*yābhyāṃ*)—in whose honour, to whichever Indra and Agni
+- गायत्रं (*gāyatraṃ*)—the Sāman of Gāyatra form
+- यच्यते (*yacyate*)—is recited, of such
+- इंद्राग्न्योः (*iṃdrāgnyoḥ*)—of Indra and Agni
+- अवः (*avaḥ*)—the protection
+- अहं (*ahaṃ*)—I
+- आ वृणे (*ā vṛṇe*)—pray for
+
+##### भावार्थ (Bhāvārtha)
+
+I pray for the protection of those Indra and Agni, possessed of praise, in whose honour the Sāman of Gāyatra form is recited.
+
+##### English translation
+I solicit the protection of Indra and Agni, associated with Saraswati, to whom this Gayatri hymn is addressed.
+
+## Sūkta 39 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निमस्तोषीति दशर्चं नवमं सूक्तं काण्वस्य नाभाकस्यार्षं । षडष्टका ।
+> महापांक्तिश्चंदः । अग्निर्देवता । अनुक्रांतं च । अग्निमस्तोषि नाभाक आग्नेयं
+> महापांक्तं हीति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning अग्निमस्तोषि (*agnimastoṣi*) is the ninth hymn, of ten verses. Its seer is Nābhāka of the Kaṇva line; its deity is Agni; its metre is Mahāpaṅkti, of six eights (eight-syllable pādas). The Anukramaṇī says that Nābhāka, in the hymn beginning अग्निमस्तोषि (*agnimastoṣi*), composed an Agni hymn in Mahāpaṅkti. The use is by indication (liṅga).
+
+##### Anuvāda
+
+This hymn beginning अग्निमस्तोषि (*agnimastoṣi*) is the ninth hymn in the fifth Anuvāka. It has ten Ṛks. The seer of this hymn is Nābhāka, born in the Kaṇva line; Agni is the deity; the metre is Mahāpaṅkti with six pādas of eight syllables. In the Anukramaṇī it is said: अग्निमस्तोषि नाभाक आग्नेयं महापांक्तं हि (*agnimastoṣi nābhāka āgneyaṃ mahāpāṃktaṃ hi*). The use is by indication.
+
+### Printed p. 347
+Sūkta 39 **NOTE**.
+Maṇḍala 8; Anukāṇḍa 5 **NOTE**; Sūkta 39.
+Aṣṭaka 6; Adhyāya 3; Varga 22, 23.
+Number of Ṛks in the hymn: 10.
+Seer: Nābhāka Kāṇṇa **NOTE**.
+Deity: Agni.
+Metre: Mahāsaṃkti **NOTE**.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निम॑स्तोऽश्य॒ग्निय॑म॒ग्निमी॒ळा य॒जध्यै॑ ।  
+> अ॒ग्निर्दे॒वा अ॑नक्तु न उ॒भे हि वि॒दथे॑ क॒विरं॒तश्चर॑ति दू॒त्यं१॒॑ १  
+> नभं॑तामन्य॒के स॑मे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । अस्तोषि । ऋग्नियं । अग्निं । ईळा । यजध्यै ।  
+> अग्निक । देवान् । अनक्तु । नः । उभे इति । हि । विदथे इति । कविः । अंतरिति । चरति ।  
+> दूत्यं । नभंतां । अन्यके । समे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋग्नियमृगर्हमग्निमस्तोषि । स्तौमि । अपि जाग्निं यजध्यै यॆष्टुमीळा
+> स्तुत्या स्तौमात्यर्थः । अपि जाग्निर्नोऽस्माकं विदथे यज्ञे देवान् हविर्भिरनक्तु ।
+> कविः क्रांतदर्शग्निरुभे द्यावापृथिव्यावंतर्दूत्यं हविर्वहनादिलक्षणं दूतकर्म
+> चरति । अन्यके शत्रवोऽपि समे सर्वे नभंतां । नभतिर्हिंसाकर्मा । अग्निना
+> हिंस्यंतां ॥
+
+##### Gist of the bhāṣya
+
+I praise Agni, who is worthy of praise; I also praise Agni with a hymn in order to sacrifice. May Agni at our sacrifice anoint the gods with the oblations. The seer-like Agni, far-seeing, carries on between the two, heaven and earth, the messenger's work of carrying the oblations. May all our enemies be destroyed together, for नभंतां (*nabhaṃtāṃ*) is from the root of injury, and means that they are to be injured by Agni. The ending of the verse on page 347 is printed with the number 2 **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋग्नियं (*ṛgniyaṃ*)—worthy of worship
+- अग्निं (*agniṃ*)—Agni
+- अस्तोषि (*astoṣi*)—I praise
+- अग्निं (*agniṃ*)—Agni
+- यजध्यै (*yajadhyai*)—in order to sacrifice
+- ईळा (*īḷā*)—I extol with praise
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—our
+- विदथे (*vidathe*)—in the sacrifice
+- देवान् (*devān*)—the gods
+- अनक्तु (*anaktu*)—may he make them shine
+- कवि (*kavi*)—Agni, the far-seeing
+- उभे हि (*ubhe hi*)—of both heaven and earth
+
+### Printed p. 348
+- अंतः (*aṃtaḥ*)—in the middle
+- दूत्यं (*dūtyaṃ*)—the messenger's work of carrying the oblation
+- चरति (*carati*)—he performs
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—together
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+I praise Agni, who is worthy of worship. In order to sacrifice I extol Agni with praise. May Agni make the gods shine at our sacrifice. The far-seeing Agni performs, in the middle of heaven and earth, the messenger's work of carrying the oblation. May all our enemies be destroyed together.
+
+##### English translation
+I glorify the adorable Agni, (1 invite) Agni with praise to the acrifice, may Agni brighten the gods with the oblations at our sacrifice : the sage Agni traverses both (worlds, discharging his function) as messenger of the gods ; may all our adversaries perish.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्य॑ग्ने॒ नव्य॑सा॒ वच॑स्त॒नूषु॒ शंस॑मेषां ।  
+> न्यरा॑ती॒ ररा॑व्णां॒ विश्वा॑ अ॒र्यो अरा॑तीरि॒तो यु॑च्छंत्वा॒मुरो॒ नभं॑तामन्य॒के स॑मे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । अग्ने । नव्यसा । वचः । तनूषु । शंसं । एषां ।  
+> नि । अरातीः । रराव्नां । विश्वाः । अर्यः । अरातीः । इतः । युच्छंतु । आमुरः ।  
+> नभंतां । अन्यके । समे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तनूष्वस्माकमंगेषु नव्यसा नवतरेण वचो वचसा स्तोत्रेणैषां
+> शत्रुणां शंसं शंसनं नि दहेत्यर्थः । रराव्नां हविः प्रयच्छतामरातीः शत्रुंश्च
+> निदह । अपि च विश्वाः सर्वेऽर्योऽभिगच्छंत आमुर आमूढा अरातीः शत्रव इतो
+> युच्छंतु । गच्छंतु । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, with a newer praise, in our bodies, that is, our limbs, burn down the boasting of these enemies. Burn also the enemies of those who give oblations. And may all the enemies who approach us, deluded, go away from here. The rest is established.
+
+### Printed p. 349
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नव्यसा (*navyasā*)—new
+- वचः (*vacaḥ*)—by our praise (delighted)
+- तनूषु (*tanūṣu*)—who lay hands upon us
+- विषां (*viṣāṃ*)—of these enemies
+- शंसं (*śaṃsaṃ*)—the evil desire
+- रराव्हां (*rarāvhāṃ*)—of those who offer oblations (the sacrificers)
+- अरातीः (*arātīḥ*)—the enemies
+- आर्यः (*āryaḥ*)—those who fall before us
+- आमुरः (*āmuraḥ*)—and are unwise
+- विश्वाः अरातीः (*viśvāḥ arātīḥ*)—all our enemies
+- इतः (*itaḥ*)—from this place
+- यच्छंतु (*yacchaṃtu*)—let them run far away
+- अन्यके (*anyake*)—all our enemies **NOTE**
+- समे (*same*)—at one time
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, delighted by our new praise, utterly destroy the evil desire of these enemies who lay hands upon us. Utterly destroy the enemies of the sacrificers who offer oblations. May all our enemies who fall before us and are unwise run far away from this place. May all our enemies be destroyed at one time.
+
+##### English translation
+(Propitiated). Agni, by our new praise, baffle the hostile attempts of these against our persons, consume the enemies of those who are liberal (at sacred rites); may all our foolish assailants depart from hence, may all our adversaries perish.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ मन्मा॑नि॒ तुभ्यं॒ कं घृ॒तं न जु॑ह्व आ॒सनि॑ ।  
+> स दे॒वेषु॒ प्र चि॑कित्सिद्दि॒ त्वं ह्यसि॑ पू॒र्व्यः शि॒वो दू॒तो वि॒वस्व॑तो॒  
+> नभं॑तामन्य॒के स॑मे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । मन्मानि । तुभ्यं । कं । घृतं । जुह्वे । आसनि ।  
+> सः । देवेषु । प्र । चिकिद्दि । त्वं । हि । असि । पूर्व्यः । शिवः । दूतः । विवस्वतः ।  
+> नभंतां । अन्यके । समे ॥ ३ ॥
+
+### Printed p. 350
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने शुभ्यं त्वदर्थमासन्यास्ये कं धृतं न यथा सुखकरं धृतं
+> जुह्वत्यन्ये तद्वदहमपि तवास्ये मन्मानि मननीयानि स्तोत्राणि जुह्वे । जुहोमि ।
+> स त्वं देवेषु देवानां मध्ये प्र चिकिद्धि । अस्मदीयाः स्तुतीर्जानीहि । अपि
+> च त्वं पूर्व्यः प्रत्नोऽसि । शिवः सुखकरश्चासि । विवस्वतो दूतश्चासि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, for you, in your mouth, as others offer pleasant ghee, so I too offer pleasing praises. Among the gods, know our praises. You are ancient and beneficent, and you are the messenger of Vivasvat. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तुभ्यं (*tubhyaṃ*)—addressed to you
+- आसनि (*āsani*)—in your mouth
+- कं (*kaṃ*)—pleasant
+- धृतं न (*dhṛtaṃ na*)—as others offer ghee
+- मन्मानि (*manmāni*)—meditative praises
+- जुह्वे (*juhve*)—I offer
+- देवेषु (*deveṣu*)—among the gods
+- सः (*saḥ*)—you, the well known
+- प्र चिकिद्दि (*pra cikiddi*)—fully know our praises
+- त्वं हि (*tvaṃ hi*)—you yourself
+- पूर्वः (*pūrvaḥ*)—ancient
+- असि (*asi*)—you are
+- शिवः (*śivaḥ*)—auspicious
+- विवस्वतः (*vivasvataḥ*)—to Vivasvat
+- दूतः (*dūtaḥ*)—a messenger as well
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—together
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as others offer pleasant ghee into your mouth in your honour, so I offer meditative praises. You, well known among the gods, fully know our praises. You are ancient. You are auspicious, and a messenger to Vivasvat. May all our enemies be destroyed together.
+
+##### English translation
+I pour into your mouth, Agni, praises as others (fill it) with delicious butter ; do you amidst the gods acknowledge (them), for you are ancient, the giver of happiness, the messenger of Vivaswat ; may all our enemies perish.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्त॑द॒ग्निर्वयो॑ दधे॒ यथा॑यथा कृप॒ण्यति॑ ।  
+> ऊ॒र्जाहु॑ति॒र्वसू॑नां॒ शं च॒ योश्च॒ मयो॑ दधे॒ विश्व॑स्यॆ  
+> दे॒वहू॑त्यै॒ नभं॑तामन्य॒के स॑मे ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 343. Maṇḍala 8 Sūkta 38 introduction, Ṛks 1-7, pp. 337-343
+**Progress note:** Done through printed p. 350. Maṇḍala 8 Sūkta 38 Ṛks 8-10, Sūkta 39 Ṛks 1-4 (up to Saṃhitā), pp. 344-350
