@@ -57,3 +57,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 49 | 122–136 | 17 | 14 | 4 questions; Uṇādi sūtra numbers come in two numberings (bhāṣya vs. the Kannada commentary): editor to decide | see git log |
 | 50 | 137–151 | 27 | 21 | 6 questions (first try lost to the usage limit, re-run) | see git log |
 | 51 | 152–166 | 28 | 22 | 6 questions | see git log |
+| 52 | 167–184 | 24 | 18 | 6 questions; p. 180 not in the supplied text | see git log |
