@@ -14195,6 +14195,267 @@ him) sleep, thence they, unslothful obtain the inebriating Soma.
 > ओ इति । सु । प्र । याहि । वाजेभिः । मा । हृणीथाः । अभि । अस्मान् ।  
 > महान् ऽइव । युवजानिः ॥ १९ ॥
 
+### Printed p. 355
+#### Ṛk 19 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वाजेभिर्वाजैरस्कभ्यं दातवैरन्नैः सार्धमस्मानभ्याभिमुख्येन सु
+> सुष्टु प्र प्रकर्षेण ओ आ उ याहि । शीघ्रमायाह्येव । आगच्छेव । मा हृणीथाः ।
+> मा क्रुद्धस्व । हृणीयतिः क्रुद्धतिकर्मा । यद्वा । मा लज्जां प्राप्नुहि ॥ हृणीज्
+> लज्जायामिति कंड्वादौ पठ्यते ॥ तत्र दृष्टांतः । महानिव युवजानिः । युवतिर्जाया यस्य स तथोक्तः ॥ जायाया निज्ञति समासांतो निजादेशः ॥ ईदृशो
+> महान् गुणैरधिकोऽपि यथा स्वभार्यां प्रति निर्लज्जः सन् शीघ्रं गच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, come to us with the *vājaiḥ*, the foods to be given to us, turned towards us, well and with full force; ओ (*o*) is आ उ (*ā u*). Come quickly. Do not be angry: हृणीयति (*hṛṇīyati*) means to be angry. Or else: do not feel shame; the root हृणीज् (*hṛṇīj*) is read in the Kaṇḍvādi class in the sense of shame." The illustration: like a great man whose wife is young (युवजानिः (*yuvajāniḥ*), with the निज् (*nij*) substitution at the end of the compound). Though superior in qualities, such a man goes quickly to his own wife without shame; so come to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजेभिः (*vājebhiḥ*)—with the foods that are to be given to us
+- अस्मान् अभि (*asmān abhi*)—facing us
+- सु प्र ओ याहि (*su pra o yāhi*)—come with exceeding speed
+- युवजानिः (*yuvajāniḥ*)—one having a young wife
+- महानिव (*mahāniva*)—as even a great man approaches his wife without shame, out of fondness for her
+- मा हृणीथाः (*mā hṛṇīthāḥ*)—though they are inferior to you in qualities, come to us without shame
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come to us with the foods that are to be given to us, turned towards us, with exceeding speed. As a great man who has a young wife goes to her out of fondness, without feeling shame at going to one younger than himself, so come to us without shame, even though we are inferior to you in qualities.
+
+##### English translation
+Come to us quickly with excellent viands, be not bashful, like the ardent husband of a new bride.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मो ष्व१॒॑गद्य दु॒र्हणा॑वान्या॒यं क॑रदा॒रे अ॒स्मत् ।  
+> अ॒श्री॒र इ॑व॒ जामा॑ता ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । सु । अद्य । दुःहनावान् । सायं । करत् । अरे । अस्मत् ।  
+> अश्रीरःइव । जामाता ॥ २० ॥
+
+### Printed p. 356
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दुर्हणावान् । परैर्दुःसहहननं दुर्हणं । तद्वानिंद्रोऽद्येदानीमस्मदारेऽस्माकं समीप आगच्छतु । सु सुष्कृतिशयेन सायं दिवसस्यावसानं सायंकालं मो करत् । मा कार्षित् ॥ करोतेर्माजि लुजु कृमृदृरुहिभ्य इति
+> चेरजादेशः ॥ जामाता । जायत इति जा अपत्यं । तस्य निर्माता दुहितुः पतिः ।
+> अश्रीर इव । न श्रीरश्रीः । तदस्यास्तीत्यश्रीरः ॥ मत्त्वर्थीयो रः ॥ गुणैर्विहीनः
+> कुत्सितो जामातासकृदाहूयमानोऽप्यासायंकालं विलंबते । तद्वत्त्वं कालविलंबं मा कृथा इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+दुर्हणावान् (*durhaṇāvān*): दुर्हणं (*durhaṇaṃ*) is smiting that others cannot withstand; Indra, possessing it, should come to our neighbourhood today, now. सु (*su*) is "exceedingly". सायं (*sāyaṃ*) is the end of the day, evening time; मो करत् (*mo karat*) means "let him not make" (do not do). जामाता (*jāmātā*): जा (*jā*) is offspring (what is born); the maker of it is the husband of the daughter. अश्रीर इव (*aśrīra iva*): अश्री (*aśrī*) is lack of श्री (*śrī*); one who has it is अश्रीरः (*aśrīraḥ*). A son-in-law devoid of qualities, a wretch, lingers till evening even when called repeatedly; like him, do not delay.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दुर्हणावान् (*durhaṇāvān*)—Indra, who has a power that others cannot resist
+- अद्य (*adya*)—at this time of the sacrifice
+- अस्मत् आरे (*asmat āre*)—to our neighbourhood
+- सु (*su*)—may he come exceedingly
+- अश्रीर इव (*aśrīra iva*)—like an ill-natured
+- जामाता (*jāmātā*)—son-in-law who, however much he is called, does not come but delays
+- सायं (*sāyaṃ*)—until evening
+- मो करत् (*mo karat*)—may Indra not make delay in coming to us
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, whose power others cannot resist, come to us exceedingly at this time of the sacrifice. As an ill-natured son-in-law, however much he is called, does not come but delays, let Indra not delay in coming to us until evening.
+
+##### English translation
+Let not Indra, the insuperable, delay (coming to us) to-day until the evening, like an unlucky son-in-law.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्या ह्य॑स्य वी॒रस्य॑ भूरि॒दाव॑रीं सुम॒तिं ।  
+> त्रि॒षु जा॒तस्य॒ मनां॑सि ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्म । हि । अस्य । वीरस्य । भूरिदावरीं । सुमतिं ।  
+> त्रिषु । जातस्य । मनांसि ॥ २१ ॥
+
+### Printed p. 357
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य वीरस्य विक्रांतस्य भूरिदावरीं बहुधनस्य दात्रीं सुमतिं
+> कल्याणीं मतिमनुग्रहबुद्धिं विद्या हि । जानीमः खलु । तथा त्रिषु भूम्यादिषु
+> त्रिषु लोकेषु जातस्य तत्कार्यार्थं प्रादुर्भूतस्य मनांसि हृदयानि च जानीमः । अतस्तस्येंद्रस्य यथा प्रीतिर्जनिष्यते तथा स्तोत्रं कुर्म इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We know the सुमति (*sumati*) of this heroic, valiant Indra: his gracious mind, his benevolent intention, which gives much wealth (भूरिदावरीं (*bhūridāvarīṃ*)). Likewise we know the hearts of him who was born in the three worlds, earth and the rest, who appeared for their work. Therefore we make a hymn so that his pleasure may arise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरस्य (*vīrasya*)—of the valiant
+- अस्य (*asya*)—this Indra's
+- भूरिदावरीं (*bhūridāvarīṃ*)—that which bestows wealth in great abundance
+- सुमतिं (*sumatiṃ*)—and is auspicious, the mind (we have surely known it)
+- विद्म हि (*vidma hi*)—have we not surely known
+- त्रिषु (*triṣu*)—in the three worlds, earth and the rest
+- जातस्य (*jātasya*)—of that same Indra who is born
+- मनांसि (*manāṃsi*)—also his resolves and the like (we have known)
+
+##### भावार्थ (Bhāvārtha)
+
+We have known the mind of this valiant Indra, which is most liberal in giving wealth and is auspicious. We have also known the resolves and the like of that same Indra who is born in the three worlds, earth and the rest.
+
+##### English translation
+We know the munificent generosity of the hero (Indra): of the purposes of him who is manifest in the three worlds (we are aware).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तू षिं॑च॒ कण्व॑मंतं॒ न घा॑ विद्म शवसा॒नात् ।  
+> य॒शस्त॑रं श॒तमू॑तेः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । सिंच । कण्वमंतं । न । घ । विद्म । शवसानात् ।  
+> यशःतरं । शतंऊतेः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यो कण्वमंतं । कणतिः शब्दकर्मा । कण्वाः स्तोतारः । यद्वा ।
+> कण्वगोत्रा ऋषयः । तैर्युक्तमिंद्रमुद्दिश्य तु क्षिप्रमा सिंच । सोमं जुहुधि ।
+
+##### Gist of the bhāṣya
+
+"O Adhvaryu, कण्वमंतं (*kaṇvamaṃtaṃ*): the root कण (*kaṇa*) means sound; कण्वाः (*kaṇvāḥ*) are praisers. Or else, the ṛṣis of the Kaṇva lineage. Quickly pour (आ सिंच (*ā siṃca*)), offer Soma, for Indra who is joined with them."
+
+### Printed p. 358
+
+> शवसानात् । शवो बलं । तदिवाचरतोऽतिबलाच्छतमूतेः । शतं बहुनामैतत् ।
+> बह्व्य ऊतयो रक्षा यस्मिन् स शतमूतिः । तादृशादस्मादिंद्राद्यशस्तरं यशस्वितरं
+> पुरुषं न घ नैव विद्म । जानीमः । अतस्तमेवोद्दिश्य सोमं जुहुधीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+*śavaḥ* is strength; from one who acts like it, very strong, शतमूतेः (*śatamūteḥ*): शतं (*śataṃ*) is a word for "many"; he in whom are many *ūtayaḥ*, protections, is शतमूतिः (*śatamūtiḥ*). Than such an Indra we know no more renowned (यशस्तरं (*yaśastaraṃ*)) man. Therefore offer Soma for him alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कण्वमंतं (*kaṇvamaṃtaṃ*)—addressing Indra, who is connected with the ṛṣis born in the Kaṇva lineage (O Adhvaryu)
+- तु (*tu*)—quickly
+- आ सिंच (*ā siṃca*)—offer Soma in the form of an oblation
+- शवसानात् (*śavasānāt*)—than the one who has exceedingly great strength
+- शतमूतेः (*śatamūteḥ*)—and has many kinds of protection, than Indra
+- यशस्तरु (*yaśastaru*)—a man exceedingly renowned
+- न घ विद्म (*na gha vidma*)—we surely do not know
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, quickly offer Soma as an oblation, addressing Indra, who is connected with the ṛṣis born in the Kaṇva lineage. We do not know that there is a man more renowned than Indra, who has exceedingly great strength and many kinds of protection.
+
+##### English translation
+Pour out the libation to him who is associated with the Kanwa (race): we know not any one more celebrated than the very powerful bestower of numerous protections.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज्येष्ठे॑न सोत॒रिंद्रा॑य॒ सोमं॑ वी॒राय॑ श॒क्राय॑ ।  
+> भरा॒ पिब॒न्नर्या॑य ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ज्येष्ठेन । सोतः । इंद्राय । सोमं । वीराय । शक्राय ।  
+> भर । पिबत् । नर्याय ॥ २३ ॥
+
+### Printed p. 359
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोतरभिषोतरध्वयो वीराय विक्रांताय शक्राय शक्तियुक्ताय
+> नर्याय नृभ्यो हितायेंद्राय ज्येष्ठेन मुख्येनैंद्रवायवग्रहेण। स हि धाराग्रहाणां मध्ये ज्येष्ठः । तेन सोमं भर । हर । आहर । वीर्यं प्रापय । स
+> चेंद्रः पिबत् । तं सोमं पिबतु ॥
+
+##### Gist of the bhāṣya
+
+"O presser, Adhvaryu, for Indra, who is valiant, powerful and beneficial to men, bring (भर (*bhara*): carry, fetch, bring strength) Soma with the ज्येष्ठ (*jyeṣṭha*), the chief ऐंद्रवायवग्रह (*aiṃdravāyavagraha*); for it is the eldest among the धाराग्रह (*dhārāgraha*) cups. And may Indra drink (पिबत् (*pibat*)) that Soma."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोतः (*sotaḥ*)—O Adhvaryu, who presses the Soma
+- वीराय (*vīrāya*)—for the valiant
+- शक्राय (*śakrāya*)—the powerful
+- नर्याय (*naryāya*)—and beneficial to all men
+- इंद्राय (*iṃdrāya*)—addressing Indra
+- ज्येष्ठेन (*jyeṣṭhena*)—with the Aindravāyava cup, chief of all
+- सोमं (*somaṃ*)—Soma
+- भर (*bhara*)—offer
+- पिबत् (*pibat*)—may Indra drink that Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, who performs the pressing of the Soma, offer Soma, addressing Indra who is valiant, powerful and beneficial to all men, with the Aindravāyava cup, which is chief of all the cups. May Indra drink that Soma.
+
+##### English translation
+Offer, worshipper, the libation in the first place to the hero, the powerful Indra, the benefactor of man : may he drink (of it),—
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वेदि॑ष्टो अव्य॒थिष्वश्वा॑वंतं जरि॒तृभ्यः॑ ।  
+> वाजं॑ स्तो॒तृभ्यो॒ गोमं॑तं ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वेदिष्ठः । अव्यथिषु । अश्ववंतं । जरित्कृभ्यः ।  
+> वाजं । स्तोतृभ्यः । गोमंतं ॥ २४ !!
+
+### Printed p. 360
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रोऽव्यथिष्टव्यथयितृषु सुखकरेषु सोतृषु वेदिष्टोऽतिशयेन
+> वेदिता कृतस्य स्तोत्रस्य ज्ञाता स इंद्रो जरितृभ्यः शंसितृभ्यो होत्रादिभ्यः स्तोतृभ्यः प्रस्तोत्रादिभ्यश्चाश्वावंतं बहुभिरश्वैरुपेतं गोमंतं बहुभिर्गॊभिरुपेतं
+> संतं वाजमन्नं बलं ना ददातीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is वेदिष्ठः (*vediṣṭhaḥ*), most knowing, among the अव्यथिषु (*avyathiṣu*), those who cause no distress, the gladdening Soma-pressers, that is, knower of the hymns made, gives food, strength (वाजं (*vājaṃ*)), furnished with many horses (अश्वावंतं (*aśvāvaṃtaṃ*)) and many cattle (गोमंतं (*gomaṃtaṃ*)), to the जरितृभ्यः (*jaritṛbhyaḥ*), praisers, the hotṛ priests and others, and to the स्तोतृभ्यः (*stotṛbhyaḥ*), the prastotṛ priests and others. "He gives" is the supplied remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- अव्यथिषु (*avyathiṣu*)—among praisers who give pleasure
+- वेदिष्ठः (*vediṣṭhaḥ*)—knows the nature of their hymns and rites, such an Indra
+- जरितृभ्यः (*jaritṛbhyaḥ*)—to praisers in the form of hotṛs
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—and to praisers in the form of prastotṛs
+- अश्वावंतं (*aśvāvaṃtaṃ*)—that which has many horses
+- गोमंतं (*gomaṃtaṃ*)—and is joined with cattle
+- वाजं (*vājaṃ*)—food (he gives)
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who knows the nature of the hymns and rites of the praisers who give pleasure gives food, furnished with many horses and joined with cattle, to the praisers who are hotṛs and to the praisers who are prastotṛs.
+
+##### English translation
+He who most cognisant of (the merit) of those who give him no annoyance, bestows upon his adorers and praisers food with horses and cattle.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पन्यं॑पन्य॒मित्सो॑तार॒ आ धा॑वत॒ मद्या॑य ।  
+> सोमं॑ वी॒राय॒ शूरा॑य ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पन्यं पन्यं । इत् । सोतारः । आ । धावत । मद्याय ।  
+> सोमं । वीराय । शूराय ॥ २५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 354. pp. 349-354 (batch API)
+**Progress note:** Done through printed p. 360. pp. 355-360 (batch API)
