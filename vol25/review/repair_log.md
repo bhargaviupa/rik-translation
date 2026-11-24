@@ -7,3 +7,4 @@
 - 2026-11-24 PDF 350: the head shows '339' (last digit set in a Kannada ೯ type, p-0350a.jpg) where the sequence has 338: a misprint of the edition, kept as 339, [?] removed. scan_check.py reports FAIL for it (known).
 - 2026-11-24 PDF 376: head page number read 304[?] by the agent; the image (p-0376a.jpg) shows an old-style 6 (reads 364, as the sequence requires); written 364 with [?] kept (digit shape, not the sequence, decides; to be settled at the second pass).
 - 2026-11-24 PDF 411: the agent put the second Ṛk's saṃhitā and pada text under ONE marker pair (not one pair per Ṛk); check the block counts per sūkta against the Wikisource index at assembly and repair (the agent said it was unsure where the bhāṣya block of p. 406 begins).
+- 2026-11-24 batch PDF 442–447: the agent reported 'None is a careful letter-by-letter read' (against the rule); the batch is sent again (second reading replaces the first).
