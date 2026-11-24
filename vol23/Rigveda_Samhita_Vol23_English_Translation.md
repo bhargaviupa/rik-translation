@@ -6647,6 +6647,275 @@ Sūkta 97. Maṇḍala 7; Anuvāka 6; Sūkta 93. Aṣṭaka 5; Adhyāya 6; Varga
 
 (Breaks off at the end of the window.) In the sacrifice in which the leaders (नरः (*naraḥ*)), the priests who desire the gods (देव्ययवः (*devyayavaḥ*)), rejoice, and in which the soma-juices to be pressed at the pressings (सवनानि (*savanāni*)) for Indra are …
 
+### Printed p. 161
+
+> सुन्वे अभिषूयंते पृथिव्याः संबंधिनि नृषदने नृणां नेतृणां सदनभूते तस्मिन्यज्ञे प्रथमं सर्वेभ्यो देवेभ्यः पूर्वं दिवोः द्युलोकाद्दमत् । आगच्छतु ।
+> किमर्थं । मदाय मदार्थं । सोमं पातुमित्यर्थः । तथा वयश्च गंतारस्तदीया अश्वाश्च गमत् । आगच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss. The soma-juices are pressed (सुन्वे (*sunve*)) in that sacrifice, which belongs to the earth and is the seat of the leaders (the officiating priests). In that sacrifice may Indra come first, before all the gods, from the heavenly world. Why? "For exhilaration", that is, to drink the soma. And may the "vayas", the goers, which means his horses, come as well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which sacrifice
+- देवयवः (*devayavaḥ*)—desirous of the gods' favour
+- नरः (*naraḥ*)—the priests
+- मदंति (*madaṃti*)—rejoice
+- यत्र (*yatra*)—in which sacrifice
+- सवनानि (*savanāni*)—the soma-juices
+- इंद्राय (*iṃdrāya*)—for Indra
+- सुन्वे (*sunve*)—are pressed
+- पृथिव्याः (*pṛthivyāḥ*)—belonging to the earth
+- नृषदने (*nṛṣadane*)—which is the seat of the sacrificers
+- यज्ञे (*yajñe*)—in the sacrifice
+- प्रथमं (*prathamaṃ*)—Indra first, before the other gods
+- दिवः (*divaḥ*)—from the heavenly world
+- मदाय (*madāya*)—for the exhilaration of drinking soma
+- गमत् (*gamat*)—may he come
+- वयश्च (*vayaśca*)—and may his horses come
+
+##### भावार्थ (Bhāvārtha)
+
+In the sacrifice where the priests, desirous of the gods' favour, rejoice, where the soma-juices are pressed for Indra, and which is the seat of the sacrificers who belong to the earth: in such a sacrifice may Indra come first, before the other gods, from the heavenly world to enjoy the exhilaration of drinking soma, and may he also bring his horses.
+
+##### English translation
+At the sacrifice in the dwellings of men upon earth, where the devout leaders of (rites) rejoice, where the libations to Indra are poured out, there may he descend before (other gods) from heaven for his exhilaration: (may his) swift (horses approach).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दैव्या॑ वृणीम॒हेऽवां॑सि॒ बृह॒स्पति॑र्नो मह॒ आ स॑खायः ।  
+> यथा॒ भवे॑म मा॒ळ्हुषॆः॒ अना॑गा॒ यो नो॑ दा॒ता प॑रा॒वतः॑  ॒॑
+> पितेव ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 162
+
+> आ । दैव्या । वृणेमहे । अवांसि । बृहस्पतिः । नः । महे । आ ! सखायः ।  
+> यथा । भवेम । मीळ्हुषे । अनागाः । यः । नः । दाता । परावतः । पिताइव ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः समानख्यानाः स्तोतारः वयं दैव्या दैव्यानि देवसंबंधीन्यवांसि रक्षणान्या वृणीमहे । अभिभजामहे । प्रार्थयामहे । नोऽस्माकं हविर्बृहस्पतिर्बृहतां पालयिता देव आ महे । महतिर्दानार्थः । आ महते । आदत्ते ॥
+> लोपस्त आत्मनेपदेष्टिति तलोपः ॥ यो बृहस्पतिः परावतो दूरदेशाद्दनान्याहृत्य
+> पुत्रेभ्यः पितेव नोऽस्मभ्यं दाता भवति तस्यॆ मीळ्षषे सेक्रे बृहस्पतयेऽनागा
+> अनागस अनपराधा यथा वयं भवेम हे सखायः तथा यूयं परिचरतेशि
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+"Friends", fellow-praisers, we choose and ask for the divine protections, those that belong to the gods. Bṛhaspati, the god who protects the great, accepts (आ महे (*ā mahe*)) our oblation. Here महति (*mahati*) has the sense of giving, and आ महते (*ā mahate*) means "takes". Bṛhaspati comes from a far country, brings wealth, and gives to us as a father gives to his sons. Towards him, the showerer (of boons), may we be free from offence. Therefore, friends, serve him: "you serve" is the supplied remainder of the sentence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O friends
+- दैव्या (*daivyā*)—belonging to the gods
+- अवांसि (*avāṃsi*)—protections
+- आ वृणीमहे (*ā vṛṇīmahe*)—let us ask for
+- नः (*naḥ*)—our oblation
+- बृहस्पतिः (*bṛhaspatiḥ*)—the god Bṛhaspati
+- आ महे (*ā mahe*)—accepts
+- परावतः (*parāvataḥ*)—wealth acquired and brought from a very distant place
+- पितेव (*piteva*)—as a father gives to his sons
+- यः (*yaḥ*)—which Bṛhaspati
+- नः (*naḥ*)—to us
+- दाता (*dātā*)—is the giver
+- मीळ्हुषे (*mīḷhuṣe*)—towards such Bṛhaspati, the showerer of desires
+- यथा (*yathā*)—in whatever way
+- अनागाः (*anāgāḥ*)—free from sin
+- भवेम (*bhavema*)—we may be, in that way (let us worship him)
+
+##### भावार्थ (Bhāvārtha)
+
+Friends, let us ask Bṛhaspati for the divine protections. Bṛhaspati accepts our oblation. As a father gives to his sons wealth acquired and brought from a very distant place, so does Bṛhaspati give to us. Towards him, the showerer of desires, let us worship in such a way that we remain free from sin.
+
+##### English translation
+Let us solicit, friends, divine protections, for Brihaspati accepts our (oblations) : so may we be without offence towards that showerer (of benefits) who is our benefactor from afar, as a father (of a son).
+
+### Printed p. 163
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॒ ज्येष्ठं॒ नम॑सा ह॒विर्भिः॑ सु॒शेवं॒ ब्रह्म॑ण॒स्पतिं॑ गृणीषे ।  
+> इंद्रं॒ श्लोको॒ महि॒ दैव्यः॑ सिषक्तु॒ यो ब्रह्म॑णो दे॒वकृ॑तस्य॒ राजा॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । ज्येष्ठं । नमसा । हविःभिः । सुशेवं । ब्रह्मणः । पतिं । गृणीषे ।  
+> इंद्रं । श्लोकः । महि । दैव्यः । सिसक्तु । यः । ब्रह्मणः । देवकृतस्य । राजा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ज्येष्ठं प्रशस्यतमं सुशेवं सुसुखं ब्रह्मणो मंत्रस्य पतिं पालयितारमेतत्संज्ञं तमु तमेव देवं नमसा नमस्कारेण हविर्भिश्चरुपुरोडाशादिभिश्च
+> सार्धं गृणीषे । गृणे । स्तुवे । अपि च महि महांतमिंद्रं दैव्यो देवार्हः
+> श्लोकोऽस्मदीयः स्तावको मंत्रः सिषक्तु । सेवतां । ब्रह्मणोऽन्नस्य मंत्रस्य
+> वा देवकृतस्य देवैः स्तोतृभिः कृतस्य य इंद्रोब्रह्मणस्पतिर्वा राजेश्वरो भवति ।
+> तमिंद्रं तं ब्रह्मणस्पतिमिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses ज्येष्ठं (*jyeṣṭhaṃ*) as "most praiseworthy" and सुशेवं (*suśevaṃ*) as "of good happiness". The lord of Brahman (the mantra), its protector, bears this name Brahmaṇaspati. That very god I praise with homage and with oblations such as the cooked offering (caru) and the cake (puroḍāśa). Also, may our praise, "श्लोकः (*ślokaḥ*)", which is a mantra worthy of the god, attend the great Indra. Indra, or Brahmaṇaspati, is the sovereign lord of the "brahman", meaning the food or the mantra, made by the gods, that is by the praisers. The construction is: that Indra, that Brahmaṇaspati.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ज्येष्ठं (*jyeṣṭhaṃ*)—most praiseworthy
+- सुशेवं (*suśevaṃ*)—the bringer of excellent happiness
+- ब्रह्मणः (*brahmaṇaḥ*)—of the mantras
+- पतिं (*patiṃ*)—the lord
+- तमु (*tamu*)—that same Bṛhaspati
+- नमसा (*namasā*)—with homage
+- हविर्भिः (*havirbhiḥ*)—and with oblations
+- गृणीषे (*gṛṇīṣe*)—I praise
+- यः (*yaḥ*)—which Indra
+- देवकृतस्य (*devakṛtasya*)—made by the praisers
+- ब्रह्मणः (*brahmaṇaḥ*)—of the mantras
+- राजा (*rājā*)—is the lord, such
+- महि (*mahi*)—the great
+- इंद्रं (*iṃdraṃ*)—Indra
+- दैव्यः (*daivyaḥ*)—worthy of worshipping the gods
+- श्लोकः (*ślokaḥ*)—my praise
+- सिषक्तु (*siṣaktu*)—may it attend
+
+##### भावार्थ (Bhāvārtha)
+
+That same Bṛhaspati, most praiseworthy, bringer of excellent happiness, lord of the mantras, I praise with homage and with oblations. The Indra who is the lord of the mantras made by the praisers, that great Indra may my praise, fit for the worship of the gods, attend.
+
+### Printed p. 164
+
+##### English translation
+I glorify with homage and with oblations that most excellent and beneficent Brahmanaspati: may my praise, worthy of the deity, attain to the mighty Indra, who is the lord of the prayers offered by the devout.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स आ नो॒ योनिं॑ सदतु॒ प्रेष्टो॒ बृह॒स्पति॑र्वि॒श्ववा॑रो॒ यो  ॑
+> अस्ति ।  
+> कामो॑ रा॒यः सु॒वीर्य॑स्य॒ तं दा॒त्पर्ष॑न्नो॒ अति॑ स॒श्चतो॒  ॑
+> अरिष्टान् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । आ । नः । योनिं । सदतु । प्रेष्ठः । बृहस्पतिः । विश्ववारः । यः । अस्ति ।  
+> कामः । रायः । सुवीर्यस्य । तं । दात् । पर्षत् । नः । अति । सश्चतः । अरिष्टान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रेष्ठः प्रियतमः स बृहस्पतिर्नोऽस्माकं योनिं स्थानं वेदिलक्षणमा सदतु ।
+> आसीदतु । आगत्योपविशतु । यो बृहस्पतिर्विश्ववारो विश्वैर्वर्णनीयोऽस्ति भवति ।
+> अपि च रायो धनस्य सुवीर्यस्य शोभनवीय्यस्य च यः कामोऽस्माकमभिलाषोऽस्ति तं काममस्मभ्यं दात् । ददातु । काम्यमानं प्रयच्छत्वित्यर्थः । तथा
+> सश्चत उपद्रवैः संसक्तानोऽस्मानरिष्टानहिंसितान् कृत्वाति वर्षत् । अतिपारयति
+> शत्रून् ॥
+
+##### Gist of the bhāṣya
+
+That dearest Bṛhaspati, may he sit down on our "womb" (योनिं (*yoniṃ*)), our place, which is the sacrificial altar; may he come and be seated. He is "विश्ववारः (*viśvavāraḥ*)", to be chosen by all. Also, whatever desire we have for wealth and for good heroic power, may he grant us that desire; the sense is "may he give what is desired". Likewise, may he make us, beset with troubles (सश्चतः (*saścataḥ*)), unharmed (अरिष्टान् (*ariṣṭān*)), and carry us across: he brings us across the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Bṛhaspati
+- विश्ववारः (*viśvavāraḥ*)—desired by all
+- अस्ति (*asti*)—is
+- प्रेष्ठः (*preṣṭhaḥ*)—the most dear
+- सः (*saḥ*)—that
+- बृहस्पतिः (*bṛhaspatiḥ*)—the god Bṛhaspati
+- नः (*naḥ*)—our
+
+### Printed p. 165
+
+- योनिं (*yoniṃ*)—in the sacrificial altar
+- आ सदतु (*ā sadatu*)—may he come and sit
+- सुवीरस्य (*suvīrasya*)—possessed of excellent strength
+- रायः (*rāyaḥ*)—for wealth
+- (यः) कामः (*(yaḥ) kāmaḥ*)—whatever desire of ours there is
+- तं (*taṃ*)—that desire
+- दात् (*dāt*)—may he fulfil
+- सश्चतः (*saścataḥ*)—beset with many troubles
+- नः (*naḥ*)—us
+- अरिष्टान् (*ariṣṭān*)—making unharmed
+- अति पर्षत् (*ati parṣat*)—may he carry us across from the grasp of enemies
+
+##### भावार्थ (Bhāvārtha)
+
+That Bṛhaspati who is desired by all, that same most dear god Bṛhaspati, may he come and sit on our sacrificial altar. Whatever desire we have for wealth of excellent strength, may he fulfil that desire. May he make us, beset with many troubles, unharmed, and carry us across from the grasp of enemies.
+
+##### English translation
+May that best beloved Brihaspati, who is the desired of all, sit down in our hall of sacrifice: may he gratify our desire of riches and of male posterity, transporting us, (at present) embarrassed, uninjured beyond (the assaults of enemies).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमा नो॑ अ॒र्कम॒मृता॑य॒ जुष्ट॑मि॒मे धा॑सुर॒मृता॑सः  ॒
+> पुराजाः ।  
+> शुचि॑क्रंदं यज॒तं प॒स्ता॑नां॒ बृह॒स्पति॑मन॒र्वाणं॑ हुवेम॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । आ । नः । अर्कं । अमृताय । जुष्टं । इमे । धासुः । अमृतासः । पुराजाः ।  
+> शुचिक्रंदं । यजतं । पस्तानां । बृहस्पतिं । अनर्वाणं । हुवेम ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं सर्वत्र भोक्तव्यतया प्रसिद्धममृतायामरणत्वाय जीवनाय जुष्टं
+> पर्याप्तमर्कमर्चि नसाधनमन्नं पुराजाः पुरा जाता इमेऽमृतासोऽमरणा
+
+##### Gist of the bhāṣya
+
+"That" food, famous everywhere as what is to be enjoyed, sufficient (जुष्टं (*juṣṭaṃ*)) for immortality, that is for life, the "arka", the food that is the means of worship. These immortal (deathless) gods, born of old (पुराजाः (*purājāḥ*)), [the sentence continues on the next page].
+
+### Printed p. 166
+
+> देवा बृहस्पतेशाज्ञया नोऽस्मभ्यमा धासुः । प्रदद्युः । वयं च शुचिक्रंदं
+> शुद्धस्तोत्रं पस्यानां । पस्यमिति गृहनाम । तेन तद्वंतो लक्ष्यंते । गृहिणां
+> यजतं यष्टव्यमनर्वाणमप्रत्यृतं केनाप्यप्रतिगतं बृहस्पतिं बृहतां पालकं
+> देवं हुवेम । आह्वयाम । स्तुयेम वा ॥
+
+##### Gist of the bhāṣya
+
+The gods, by the command of Bṛhaspati, may bestow it on us. And we invoke or praise the god Bṛhaspati, protector of the great, the one whose praise is pure, the one to be worshipped, the unresisted, who is not opposed by anyone. "Pastya" means a house, and by it those who have houses are meant; so he is worshipped by householders.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं (*taṃ*)—that which is famous as the means of enjoyment
+- अमृताय (*amṛtāya*)—for eternal life
+- जुष्टं (*juṣṭaṃ*)—sufficient
+- अर्कं (*arkaṃ*)—the venerable food
+- पुराजाः (*purājāḥ*)—the ancient
+- इमे अमृतासः (*ime amṛtāsaḥ*)—these gods, free from the nature of death
+- नः (*naḥ*)—to us
+- आ धासुः (*ā dhāsuḥ*)—may they give (according to Bṛhaspati's command)
+- शुचिक्रंदं (*śucikraṃdaṃ*)—who is worthy of pure praise
+- पस्त्यानां (*pastyānāṃ*)—for all householders
+- यजतं (*yajataṃ*)—venerable
+- अनर्वाणं (*anarvāṇaṃ*)—unresisted
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- हुवेम (*huvema*)—let us praise
+
+##### भावार्थ (Bhāvārtha)
+
+The food, famous in the world as the means of enjoyment, sufficient for eternal (everlasting) life, and venerable: may the ancient gods, free from the nature of death, give it to us according to Bṛhaspati's command. Bṛhaspati, worthy of pure praise, venerable to all householders, and unresisted, let us praise.
+
+##### English translation
+May the first-born immortals (by his command) bestow upon us the food that is necessary for existence : let us invoke the unresisted Brihaspati, to whom pure praises are addressed, the adored of householders.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं श॒ग्मासो॑ अरु॒षासो॒ अश्वा॒ बृह॒स्पतिं॑ सह॒वाहो॑ वहंति ।  
+> सह॑श्चि॒द्यस्य॒ नील॑वत्स॒धस्थं॒ नभो॒ न रू॒पम॑रु॒षं वसा॑नाः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । शग्मासः । अरुषासः । अश्वाः । बृहस्पतिं । सहवाहः । वहंति ।  
+> सहः । चित् । यस्य । नीलवत् । सधस्थं । नभः । न । रूपं । अरुषं । वसानाः ॥६॥
+
 ---
 
-**Progress note:** Done through printed p. 160. pp. 154-160 (batch API)
+**Progress note:** Done through printed p. 166. pp. 161-166 (batch API)
