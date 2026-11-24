@@ -12041,6 +12041,346 @@ Verily (Indra), in this manner you are the showerer (of benefits), brought by vi
 > वृषा । रथः । मघवन् । वृषणा । हरीइति । वृषा । त्वं । शतक्रतो इति  
 > शतक्रतो ॥ ११ ॥
 
+### Printed p. 268
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् ते तवाभीशवो रश्मयोऽश्वरशना वृषणो वर्षितारः ।
+> हिरण्ययी हिरण्मयी कशापि वृषा । रथोऽपि दृष्टा वर्षिता । हरी अश्वावपि वृषणा
+> वृषणौ वर्षितारौ । हे शतक्रतो बहुप्रज्ञेंद्र त्वं च वृषा वर्षिता ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, your reins (glossed as the rays, that is, the bridle-straps of the horses) are showerers, givers of the rain of desires. The golden whip too is a showerer; the chariot too is seen to be a showerer. Your two horses too are showerers. O Śatakratu, of many kinds of wisdom, you too are a showerer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, who are wealthy
+- ते (*te*)—your
+- अभीशवः (*abhīśavaḥ*)—the bridles of the horses (the reins)
+- वृषणः (*vṛṣaṇaḥ*)—are bestowers of desires
+- हिरण्यया (*hiraṇyayā*)—made of gold
+- कता (*katā*)—the whip
+- वृषा (*vṛṣā*)—is a bestower of what is wished for
+- रथः (*rathaḥ*)—your chariot too
+- वृषा (*vṛṣā*)—is a bestower of what is wished for
+- हरी (*harī*)—your horses too
+- वृषणा (*vṛṣaṇā*)—are bestowers of what is wished for
+- शतक्रतो (*śatakrato*)—O Indra, who perform many kinds of rites
+- त्वं (*tvaṃ*)—you too
+- वृषा (*vṛṣā*)—are a bestower of what is wished for
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, the bridles (reins) of your horses are bestowers of desires. The golden whip too is a bestower of what is wished for. Your horses too are bestowers of what is wished for. O Indra, who perform many kinds of rites, you too are a bestower of what is wished for.
+
+##### English translation
+Showerers (of benefits) are your reins, such also is your golden whip; your chariot, Maghavan, is a showerer (of benefits), so are your two horses; and you, too, Sathakratu, are the showerer (of benefits).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ सोता॑ सुनोतु ते॒ वृष॑न्नृजीपि॒न्ना भ॑र ।  
+> वृषा॑ दधन्वे॒ वृष॑णं न॒दीष्वा तुभ्यं॑ स्थातर्हरीणां ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । सोता । सुनोतु । ते । वृषन् । ऋजीपिन् । आ । भर ।  
+> वृषा । दधन्ने । वृषणं । नदीषु । आ । तुभ्यं । स्थातः । हरीणां ॥ १२ ॥
+
+### Printed p. 269
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् वर्षितरिंद्र ते तव सोशाभिषवकर्ता वृषा वर्षिता सन् सुनोतु ।
+> सोममभिषुणोतु । हे ऋजीपिन्नजुगमनेंद्र आ भर ! धनमस्मभ्यमाहर ।
+> हरीणामश्वानामाभिमुख्येन हे स्नातरिंद्र तुभ्यं नदीपूदकेषु वृषणं वर्षितारं
+> सोमं वृषा वर्षिता दधन्वे । धारितवानभिषवार्थं ॥
+
+##### Gist of the bhāṣya
+
+O showering Indra, may the performer of the Soma-pressing for you, himself a showerer, press the Soma. O Indra, straight-going, bring (आ भर (*ā bhara*)) wealth to us. O Indra, who stand **NOTE** before the horses, facing them: the showerer (the sacrificer) has held, for you, for the pressing, the Soma that showers, among the waters of the rivers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—O Indra, giver of rain
+- ते (*te*)—for you
+- सोता (*sotā*)—the one who presses the Soma
+- वृषा (*vṛṣā*)—as a bestower of desires
+- सुनोतु (*sunotu*)—let him press the Soma
+- ऋजीपिन् (*ṛjīpin*)—O Indra, of straight course
+- आ भर (*ā bhara*)—come bringing wealth for us
+- हरीणां (*harīṇāṃ*)—the horses
+- आ (*ā*)—facing us
+- स्थातः (*sthātaḥ*)—O Indra, who make them stand
+- नदीषु (*nadīṣu*)—in the waters
+- वृषणं (*vṛṣaṇaṃ*)—the Soma that is to be mixed
+- वृषा (*vṛṣā*)—the sacrificer, bestower of desires
+- शुभ्यं (*śubhyaṃ*)—for you
+- दधन्ने (*dadhanne*)—stands holding it
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of rain, let the sacrificer who presses the Soma for you, as a bestower of desires, press the Soma. O Indra, of straight course, come bringing wealth for us. O Indra, who make the horses stand facing me, the sacrificer, the bestower of desires, holds for you the Soma that is to be mixed with the waters.
+
+##### English translation
+Showerer (of benefits), may the offerer of the libation to you effuse the soma as a showerer ; straight-going (Indra), bring (us wealth) : arrester of your horses, the showerer (of the oblation) has prepared the bountiful Soma to be mixed with the waters for you.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एंद्र॑ याहि पी॒तये॒ मधु॑ शविष्ठ सो॒म्यं ।  
+> नायमच्छा॑ म॒घवा॑ शृ॒णव॒द्दिरो॒ ब्रह्मो॒क्षा च॑ सु॒क्रतुः॑ ॥
+
+### Printed p. 270
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंद्र । याहि । पीतये । मधु । शविष्ठ । सोम्यं ।  
+> न । अयं । अच्छ । मघवा । शृणवत् । गिरः । ब्रह्म । उक्था । च । सुक्रतुः ॥१३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शविष्ठ बलवत्तमेंद्र सोम्यं सोमात्मकं मध्वमृतं पीतये
+> पानाया याहि । आगच्छ । किमर्थमागमनमित्यत आह । यत आगमनमंतरेण
+> मघवा धनवान् सुक्रतुः सुकर्मा शोभनप्रज्ञो वायमिंद्रो गिरः स्तुतीर्ब्रह्म
+> स्तोत्राणुक्थानि च नाच्छ शृणवत् नाभिशृणोति । अत आगमनमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Śaviṣṭha, most powerful Indra, come to drink the Soma, the sweet ambrosia of the nature of Soma. Why is the coming for this purpose? He answers: because without your coming, this wealthy Indra, of good deeds or of good understanding, does not hear fully the praises, the hymns and the chants. Therefore the coming is needed, is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठ (*śaviṣṭha*)—who have exceeding strength
+- इंद्र (*iṃdra*)—O Indra
+- सोम्य (*somya*)—in the form of Soma
+- मधु (*madhu*)—the ambrosia
+- पीतये (*pītaye*)—to drink
+- आ याहि (*ā yāhi*)—be pleased to come (if there is no coming of yours)
+- मघवा (*maghavā*)—wealthy
+- सुक्रतुः (*sukratuḥ*)—who has excellent deeds
+- आयं (*āyaṃ*)—this Indra
+- गिरः (*giraḥ*)—the praises
+- उक्ता ब्रह्म चॆ (*uktā brahma cè*)—and our hymns in the form of utterances
+- अच्छ (*accha*)—fully
+- न शृणवत् (*na śṛṇavat*)—cannot hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of exceeding strength, be pleased to come to drink the ambrosia in the form of Soma. If you do not come, this Indra, who is wealthy and has excellent deeds, cannot fully utter the praises and our hymns in the form of utterances.
+
+##### English translation
+Come, most powerful Indra, to drink of the Soma ambrosia, (for without coming) this Maghavan, the achiever of many exploits, hears not our praises, our chaunts, our hymns.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वहं॑तु त्वा रथे॒ष्ठा मा हर॑यो रथ॒युजः॑ ।  
+> ति॒रश्चि॑द॒र्यं सव॑नानि वृत्रहन्न॒न्येषां॒ या श॑तक्रतो ॥ १४ ॥
+
+### Printed p. 271
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वहंतु । त्वा । रथेऽस्थां । आ । हरयः । रथयुजः ।  
+> तिर, । टित् । आर्यं । सवनानि । वृत्रहन् । अन्येषां । या । शतक्रतो इति  
+> शतक्रतो ॥ १४ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहञ्चितक्रतो बहुप्रज्ञ रथेषां रथस्थामर्यमीश्वरं त्वा त्वां
+> रथयुजो रथे युक्ता हरयोऽश्वा अन्येषां या यानि सवनानि संति तानि
+> तिरस्तिरस्कुर्वंतः सवनान्यस्मदीयानि सवनान्या वहंतु ॥
+
+##### Gist of the bhāṣya
+
+O slayer of Vṛtra, Śatakratu of many kinds of wisdom, the horses yoked to your chariot are to bring you, who stand in the chariot, the lord, to our pressings, putting aside whatever pressings there are of others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—slayer of enemies
+- शतक्रतो (*śatakrato*)—O Indra, who have many kinds of sacrificial rites
+- रथेष्ठां (*ratheṣṭhāṃ*)—who sit in the chariot
+- अर्यं (*aryaṃ*)—the lord
+- त्वा (*tvā*)—you
+- रथयुजः (*rathayujaḥ*)—yoked to the chariot
+- हरयः (*harayaḥ*)—the horses
+- अन्वेषां (*anveṣāṃ*)—that are carried out by others
+- या (*yā*)—whatever rites there are
+- तिरश्चित् (*tiraścit*)—pushing them back
+- सवनानि (*savanāni*)—to our sacrifice
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of enemies, who have many kinds of sacrificial rites, may the horses yoked to the chariot bring you, who sit in the chariot and are the lord, pushing back the sacrificial rites that are carried out by others, that is, without going there, to our sacrifice.
+
+##### English translation
+Satakrutu, slayer of Vritra, let your horses, yoked to your car. bring you, the lord, riding in your chariot, (to our sacrifices), avoiding those sacrifices (offered) by others.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑म॒द्यांत॑मं॒ स्तोमं॑ धिष्ट महामह ।  
+> अ॒स्माकं॑ ते॒ सव॑ना संतु॒ शंत॑मा॒ मदा॑य द्युक्ष सोमपाः ॥
+
+### Printed p. 272
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । अद्य । अंतमं । स्तोमं । धिष्व । महामह ।  
+> अस्माकं । ते । सवना । संतु । शंतमा । मदाय । द्युक्ष । सोमपाः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महामह महतामपि महन् महापूज वाद्यांतममंतिकतममस्माकं
+> मेध्यातिथीनां स्तोमं धिष्ट । धारय । हे द्युक्ष दीप्त सोमपाः सोमस्य
+> पातरिंद्र ते तव मदाय मदार्थं सवना सवनान्यस्माकं शंतमा शंतमानि संतु ।
+> भवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Mahāmaha, great even among the great, of great worship, or: nearest (glossed as "nearest"), accept the praise of us, the Medhyātithis. O shining Soma-drinker Indra, may the pressings be most auspicious for us, for your exhilaration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महामह (*mahāmaha*)—O Indra, worthy of exceeding worship
+- अद्य (*adya*)—at this time of the sacrifice
+- अंतमं (*aṃtamaṃ*)—that is nearest to you
+- अस्माकं (*asmākaṃ*)—of us, who belong to the family of Medhyātithi
+- स्तोमं (*stomaṃ*)—the praises
+- धिष्ट्व (*dhiṣṭva*)—accept
+- द्युक्ष (*dyukṣa*)—who are shining
+- सोमपाः (*somapāḥ*)—who drink the Soma, O Indra
+- ते (*te*)—your
+- मदाय (*madāya*)—performed for your delight
+- सवना (*savanā*)—the sacrifices
+- अस्माकं (*asmākaṃ*)—for us
+- शंतमा (*śaṃtamā*)—bringing happiness
+- संतु (*saṃtu*)—let them be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of exceeding worship, at this time of the sacrifice accept (hear) the praises of us, who belong to the family of Medhyātithi and are nearest to you. O shining Indra, who drink the Soma, may our sacrifices, performed for your delight, bring happiness to us.
+
+##### English translation
+Greatest of the great, brilliant drinker of the Soma, accept to-day this our present praise; may our sacrifices be most successful in exciting your exhilaration.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि षस्तव॒ नो मम॑ शा॒स्त्रे अ॒न्यस्य॒ रण्य॑ति ।  
+> यो अ॒स्मान्वी॒र आन॑यत् ॥ १६ ॥
+
+### Printed p. 273
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । सः । तव । नो इति । मम । शास्त्रे । अन्यस्य । रण्यति ।  
+> यः । आस्मान् । वीरः । आ । आनयत् ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वीरः शूरोऽस्मानानयत् स इंद्रस्तव शास्त्रे शासने नहि रण्यति । न
+> रमते । ममापि शास्त्रे शासने नो रण्यति । अन्यस्यापि शासने न रण्यति । किंतु रक्षण
+> एव रमत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The hero who has led us here, that Indra, does not delight in your rule (शास्त्रे (*śāstre*), glossed शासने (*śāsane*)); he does not delight in my rule either, nor in another's rule; he delights only in protection, is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरः (*vīraḥ*)—the hero
+- यः (*yaḥ*)—which Indra
+- आस्मान् (*āsmān*)—us
+- आनयत् (*ānayat*)—brought on the right path
+- सः (*saḥ*)—that same Indra
+- तव (*tava*)—for you
+- शास्त्रे (*śāstre*)—in the giving of harmful punishment
+- नहि रण्यति (*nahi raṇyati*)—certainly takes no delight
+- मम (*mama*)—in my harmful punishment
+- नो (*no*)—takes no delight
+- अन्यस्य (*anyasya*)—nor in injuring others who belong to us
+
+##### भावार्थ (Bhāvārtha)
+
+That heroic Indra who has brought us on the right path certainly takes no delight in giving you a harmful punishment. He takes no delight either in a punishment that brings me harm or in a punishment that injures others who belong to us.
+
+##### English translation
+The hero (Indra) who has (ever) guided us delights not in your punishment, nor in my, nor in that of any other.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑श्चिद्घा॒ तद॑ब्रवीत्स्त्रि॒या अ॑शा॒स्यं मनः॑ ।  
+> उ॒तो अह॒ क्रतुं॑ र॒घुं ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । चित् । घ । तत् । अब्रवीत् । स्त्रियाः । आशास्यं । मनः ।  
+> उतो इति । आह । क्रतुं । रघुं ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 274
+
+> यो मेध्यातिथेर्धनप्रदाता प्लायोगिरासंगः स पुमान् भूत्वा स्त्र्यभवत् ।
+> तदा यदिंद्र उवाच तदिदमाह । तथा चाहुः ॥ प्लायोगिश्चासंगो यः स्त्री
+> भूत्वा पुमानभूत् स मेध्यातिथये दानं दत्वेति । इंद्रश्चिद्देंद्रः खलु
+> तदब्रवीत् । स्त्रिया मनश्चित्तमशाद्यं पुरुषेणाशिष्यं शासितुमशक्यं प्रबलत्वादिति ।
+> उतो अपि च स्त्रीयाः क्रतुं प्रज्ञां रघुं लघुमाह ॥
+
+##### Gist of the bhāṣya
+
+Plāyogi Āsaṅga, the giver of wealth to Medhyātithi, having been a man, became a woman. Then Indra spoke what is said here. And so they say: प्लायोगिश्चासंगो यः स्त्री भूत्वा पुमानभूत् स मेध्यातिथये दानं दत्वेति । (*plāyogiścāsaṃgo yaḥ strī bhūtvā pumānabhūt sa medhyātithaye dānaṃ datveti |*) **GLOSS** Indra indeed said that: the mind of a woman cannot be ruled by a man, because of its strength **NOTE**. And he said also that her understanding is light.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्त्रियाः (*striyāḥ*)—of a woman
+- मनः (*manaḥ*)—the mind
+- अशास्यं (*aśāsyaṃ*)—is not to be brought under control
+- इंद्रश्चित् घ (*iṃdraścit gha*)—Indra himself
+- तदब्रवीत् (*tadabravīt*)—has himself said this
+- उतो (*uto*)—and not only that
+- क्रतुं अह (*kratuṃ aha*)—he has said also that her understanding
+- रघुं (*raghuṃ*)—is of a low level
+
+##### भावार्थ (Bhāvārtha)
+
+Indra himself has declared that a woman's mind is not to be brought under a man's control. Not only that, he has declared also that her understanding (intelligence) is of a low level.
+
+##### English translation
+Verily Indra said that the mind of woman is not to be controlled he declared also that her intellect was small.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सप्ति॑ चिद्वा मद॒च्युता॑ मिथु॒ना व॑हतो॒ रथं॑ ।  
+> ए॒वेद्दूर्वृष्ण॒ उत्त॑रा ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्ति इति । चित् । घ । मदच्युता । मिथुना । वहतः । रथं ।  
+> एव । इत् । धूः । वृष्णः । उत्करा ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्ति चिद्वेंद्रस्याश्वापि खलु मदच्युता सोमं प्रति गंताराविंद्रस्यैव रथं
+> मिथुनौ वहतः । एवेदेवमेव वृष्ण इंद्रस्य रथो धूरुत्तराश्वयोरुत्तरा भवति ॥
+
+##### Gist of the bhāṣya
+
+Indra's two horses, going to the Soma with delight, as a pair carry the chariot of Indra alone. In the same way the yoke of the chariot of the showerer Indra is the higher one of the two horses.
+
 ---
 
-**Progress note:** Done through printed p. 267. Sūkta 33 Ṛk 5 (Pratipadārtha) to Ṛk 11 (pp. 262-267)
+**Progress note:** Done through printed p. 274. Sūkta 33 Ṛk 11 (p. 268) to Ṛk 18 (pp. 268-274)
