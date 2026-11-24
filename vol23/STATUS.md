@@ -19,10 +19,18 @@ Translated by `api_front.py 23 2 94 preface` (one request, $0.040, checks PASS, 
 ## Plan (free)
 `api_batch.py plan 23 --windows 150`: 129 windows, about 849 pages, 2,774,590 input tokens, estimate **$9.7–19.4** (input $2.77 + output $6.94–16.65). Not submitted.
 
-## Batch
-Submitted Nov 24 2026 (user's yes): ONE batch of 129 windows, id in `vol23/work/api_batch.json` (`msgbatch_01AgqnECQJUJP2opjNg62PHJ`), estimate $9.7–19.4, ceiling $25. Next: `api_batch.py status 23` until ended, then `collect 23` (no commits by hand while it runs).
+## Status
+Done through printed p. 856 (the whole volume; one API batch of 129 windows submitted Nov 24 2026, collected the same day; `batch.py audit 23` passes; `rkheads 23 --dry-run`: nothing to change; `kn_headings.py 23 --write` run: 44 sūktas, 699 Ṛk headings). Sūktas present in order: Maṇḍala 7 Sūktas 81–104, Maṇḍala 8 Sūktas 1–20. Preface translated and installed. Cost: batch $7.17 (real usage) + preface $0.04 + three direct requests ($0.092 + $0.024 + earlier none) = about $7.33 of the $25. 173 `**NOTE**` marks in the English text (175 rows in `review/notes.tsv`), 0 `**GLOSS**`.
+
+## What was repaired by hand or by script (all in `review/repair_log.md`)
+Printed pp. 372–373 (Maṇḍala 8 Sūkta 2, Ṛks 36–38) had running heads misread as 572/573 in the supplied text: corrected in `html/rig_23.md` (`data/source_fixes.tsv`), translated by one direct request (`tools/rv/api_window.py`) and INSERTED before p. 374 (a logged exception to append-only); w0569 re-translated the same way. 66 Pratipadārtha words corrected from the Pada reference (`data/source_fixes.tsv`; `tools/rv/pratipada_check.py`/`pratipada_apply.py`). Windows stopped by gates and were repaired: w0008, w0016, w0045, w0067, w0140, w0206, w0264, w0337, w0389, w0396, w0524, w0588, w0631, w0740, w0802, w0835, w0841 (kinds: Sanskrit typed in Latin letters inside quotes, translator remarks about window breaks, a second Saṃhitā heading for the second line of a verse, blocks counted one off because of a stray label or a Kannada line set as a block, a page without a running head). The first two kinds are now settled by script in `tools/rv/api_batch.py` (lessons for `docs/LESSONS.md`).
 
 ## Open items
-1. (user) budget stated Nov 24: API $25 and the agent budget (66%) both expire Nov 25; yes to the body estimate not given yet.
-2. (dispatcher) the body in few, large stages.
-3. (dispatcher) check the 86 printed numbers without a page of their own.
+1. (user) 173 `**NOTE**` questions in `review/notes.tsv`.
+2. (dispatcher) 84 printed page numbers have no running head in the supplied text (`html_pages.py` "missing numbers"); the text of such a page stands inside the preceding page, so the Kannada and English files carry no page mark for them (p. 843 was added by hand). Page 372/373 were the only ones found to be misread heads; the others look like genuine missing heads (the preceding page is unusually long).
+3. (user) `kn_headings.py` warning: Kannada line 29716 reads Sūkta 18 (as supplied) where the English order has Sūkta 17 (Maṇḍala 8): the heading follows the English order; check the supplied sūkta number.
+4. (user) the accent report has NOMATCH lines (`--api` with `RIK_API_KEY`).
+5. (user) word-meaning rows not applied (35 `fix-certain` that failed the one-letter filter, `fix`, `near`, `absent`): `review/pratipada_check_source.tsv`.
+6. Finishing checklist (accent report, QA, PDFs, front matter jsons) not done.
+
+## Metrics
