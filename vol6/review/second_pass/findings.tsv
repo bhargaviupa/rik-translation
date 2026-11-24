@@ -279,3 +279,70 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 120	H29	R6	ರಘುಷ್ಯದಃ (pp. 120-121); ಆಯುಗ್ತ್ವಂ (p. 120)	raghusyadaḥ; ayugdhvam	raghusyadaḥ; ayugdhvam	Kannada misprints; English silently corrected.	question	
 121	S14	R1	Kannada pratipadārtha ಹಸ್ತಿನಃ—ಸೊಂಡಲುಳ್ಳ । ಮೃಗಾ ಇವ—ಗಜಗಳಂತೆ	hastinaḥ — those with a trunk; mṛgā iva — like elephants	hastinaḥ — those with a trunk; mṛgā iva — like elephants	Kannada pratipadārtha is explicit, but the Kannada prose below renders mṛgāḥ as ಮೃಗಗಳು (animals) and hastinaḥ as ಆನೆಗಳು.	question	
 95	S1	R1	Ā. 7-7 (Āśvalāyana sūtra, anuvāda lower part of p. 95)	(Ā. 7-7, as printed)	(Ā. 7-3)	Edit could not be placed (second "### Page 95" section unreachable by sp_apply); earlier row for this place is superseded: now a question, see questions.tsv	question	
+122	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 5-2-115, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಆತ ಇನಿರನೌ ಎಂಬುದರಿಂದ)	applied	
+122	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 6-3-137, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಅನ್ಯೇಷಾಮಪಿ ದೃಶ್ಯತೇ ಎಂಬುದರಿಂದ)	applied	
+126	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 7-1-4, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಅದಭ್ಯಸ್ತಾತ್ ಎಂಬುದರಿಂದ)	applied	
+126	S1	R1	sūtra/reference number	(Uṇ. Sū. 2-[84], as read)	(Uṇ. Sū. 2-241)	Kannada grammar prints (ಉ. ಸೂ ೨-೨೪೧)	applied	
+129	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 3-4-101, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ತಸ್ಥಸ್ಥಮಿಸಾಂ ತಾಂತಂತಾಮಃ ಸೂತ್ರದಿಂದ)	applied	
+129	S1	R1	sūtra/reference number	(Uṇ. Sū. 4-[48], as read)	(Uṇ. Sū. 4-499)	Kannada prints (ಉ. ಸೂ. ೪-೪೯೯)	applied	
+129	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 3-1-3)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಆದ್ಯುದಾತ್ತಶ್ಚ ಎಂಬುದರಿಂದ)	applied	
+130	S1	R1	sūtra/reference number	(Uṇ. Sū. 1-7 [?], the digit after the dash partly cut)	(Uṇ. Sū. 1-7)	Kannada prints (ಉ. ಸೂ. ೧-೭); printed [?] replaced by the Kannada number	applied	
+130	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 7-1-34, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಆತ ಔಣಲಃ ಎಂಬುದರಿಂದ)	applied	
+130	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 7-4-61, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಶರ್ಪೂರ್ವಾಃ ಖಯಃ ಎಂಬುದರಿಂದ)	applied	
+132	S14	R1	sense of Kannada	having Indra as their weapon-in-hand	having Indra in the place of a weapon	Kannada ಇಂದ್ರನನ್ನೇ ಆಯುಧಸ್ಥಾನದಲ್ಲಿ ಹೊಂದಿರುವವರೂ (bhāṣya āyudhasthānīyaḥ)	applied	
+132	S14	R1	sense of Kannada	those who give rise to the praises of the singers	those who are the object of the praises of the singers	Kannada ಸ್ತೋತ್ರಮಾಡುವವರ ಸ್ತುತಿಗಳಿಗೆ ವಿಷಯರಾಗಿ ಇರುವವರು	applied	
+133	S14	R1	sense of Kannada	'those who make many kinds of sounds', and in the second way 'those fit to be spoken of in many ways'	'those who make various sounds, accompanied by those who praise', and in the second way 'that which makes various sounds'	Kannada ನಾನಾಶಬ್ದ ಮಾಡುವ. ಸ್ತುತಿಮಾಡುವವರಿಂದ ಕೂಡಿದುದು ... ಎರಡನೇ ರೀತಿಯಲ್ಲಿ ನಾನಾ ಶಬ್ದಮಾಡತಕ್ಕದ್ದು	applied	
+134	S1	R1	sūtra/reference number	(Uṇ. Sū. 4-[117], as read)	(Uṇ. Sū. 4-557)	Kannada prints (ಉ. ಸೂ. ೪-೫೫೭)	applied	
+134	S2	R1	sūtra number not printed in Kannada	, Pā. Sū. 6-4-11]	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಅಪ್‌ತೃನ್‌ತೃಚ್—ಸೂತ್ರದಿಂದ); stray bracket also goes	applied	
+137	S7	R3	Sanskrit quotation in commentary	anvapathāḥ	antaspathāḥ	Kannada quotation ಅಂತಸ್ಪಥಾ ಅನುಪಥಾಃ (and prose ಅನ್ತಸ್ಪಥಾಃ, ಅನುಪಥಾಃ); letters copied: antaspathāḥ	applied	
+137	S7	R3	Sanskrit quotation in commentary	duṣprāḥ lakṣyante | duṣprāṇāṃ dhārayitāram	duṣṭāḥ lakṣyante | duṣṭānāṃ dhārayitāram	Kannada ಅತ್ರ ದುಃಶಬ್ದೇನ ದುಷ್ಟಾಃ ಲಕ್ಷ್ಯಂತೇ । ದುಷ್ಟಾನಾಂ ಧಾರಯಿತಾರಮ್ and prose ದುಷ್ಟರು; letters pra→ṭā changed	applied	
+137	S14	R1	sense of Kannada	the meaning 'hard to hold' is to be taken. One who keeps [himself] in readiness to hold the hard-to-hold is *dudhra*	the meaning 'wicked' is to be taken. One who keeps the wicked under control is *dudhra*	Kannada ದುಃ ಎಂಬ ಶಬ್ದದಿಂದ ದುಷ್ಟರು ... ದುಷ್ಟರನ್ನು ಹತೋಟಿಯಲ್ಲಿ ಇರಿಸಿರುವವನು ದುಧ್ರನೆನಿಸಿರುವನು	applied	
+138	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 7-3-103)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಬಹುವಚನೇ ಝಲ್ಯೇತ್ ಎಂಬುದರಿಂದ)	applied	
+138	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 7-3-54, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಹೋಹಂತೇರ್ಣಿಣ್ಣೇಷು)	applied	
+138	S1	R1	sūtra/reference number	(Pā. Sū. 5-2-[109], as read)	(Pā. Sū. 5-2-112-2)	Kannada prints (ಪಾ. ಸೂ. ೫-೨-೧೧೨-೨)	applied	
+139	S1	R1	sūtra/reference number	(Pā. Sū. 5-2-[109], as read)	(Pā. Sū. 5-2-112-2)	Kannada prints (ಪಾ. ಸೂ. ೫-೨-೧೧೨-೨) at the same place on p. 138-139	applied	
+139	S1	R1	sūtra/reference number	(Vārttika on Pā. Sū. 3-2-5, as read)	(Pā. Sū. 3-2-5-2)	Kannada prints (ಪಾ. ಸೂ. ೩-೨-೫-೨)	applied	
+139	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 8-2-4, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಉದಾತ್ತಸ್ವರಿತಯೋರ್ಯಣಃ ಸ್ವರಿತೋನುದಾತ್ತಸ್ಯ)	applied	
+139	S14	R1	sense of Kannada	*duṣprāḥ* ('the hard to hold'); "he who holds the hard-to-hold"	*duṣṭāḥ* ('the wicked'); "he who holds the wicked"	Kannada ದುಷ್ಟರು ಎಂದು ... ದುಷ್ಟಾನ್ ಧಾರಯತಿ ದುಧ್ರಃ	applied	
+139	S7	R3	Sanskrit quotation in commentary	*dhṛdhra* [as printed]	*dadhra* [as printed]	Kannada prints ದಧ್ರಂ ಕುರ್ವಂತಿ ಇತಿ ದಧ್ರಕೃತಃ; the English gave a form the Kannada does not have	applied	
+141	S7	R3	Sanskrit quotation in commentary	ātes tadvantam	ātas tadvantam	Kannada ಆತಸ್ತದ್ವಂತಂ (ātas tadvantam); also bhāṣya reads atas tadvantam	applied	
+142	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 5-2-115, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಆತ ಇನಿರನ್ ಎಂಬುದರಿಂದ)	applied	
+142	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 6-1-34, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಬಹುಲಂ ಛಂದಸಿ ಎಂಬುದರಿಂದ ಸಂಪ್ರಸಾರಣ)	applied	
+142	S2	R1	sūtra number not printed in Kannada	, Pā. Sū. 7-3-80]	]	Kannada prints the sūtra name without a number; number not in the supplied text (ಪ್ವಾದೀನಾಂ ಹ್ರಸ್ವಃ)	applied	
+143	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 4-2-37, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ತಸ್ಯ ಸಮೂಹಃ ಎಂಬುದರಿಂದ)	applied	
+143	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 7-2-117)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ತದ್ಧಿತೇಷ್ವಚಾಮಾದೇಃ)	applied	
+143	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 6-4-77, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಅಚಿಶ್ನು ಧಾತುಭ್ರುವಾಂ ಸೂತ್ರದಿಂದ)	applied	
+144	S14	R1	sense of Kannada	worthy of being asked for	to be done (required)	Kannada pratipadārtha ಅಪೃಚ್ಛ್ಯಂ—ಕರ್ತವ್ಯವಾದ; the English bhāvārtha also has "required"	applied	
+145	S14	R1	sense of Kannada	in the sense of 'carefully' (Ni. 3-9, as printed)	in the sense of 'quickly' (Ni. 3-9, as printed)	Kannada ಜಾಗ್ರತೆಯಾಗಿ ... ಇಪ್ಪತ್ತಾರು ಕ್ಷಿಪ್ರ ಪದಗಳ ಮಧ್ಯದಲ್ಲಿ: the word is listed among the kṣipra (quick) words, so the sense is quickly	applied	
+145	S14	R1	sense of Kannada	excellent position, carefully	excellent position, quickly	as above: ಜಾಗ್ರತೆಯಾಗಿ ಹೊಂದುವನು, with nu = kṣipra	applied	
+145	S16	R1	addition	being born, surpasses all other men, even those like himself, and obtains	surpasses all other men who have been born, those other than himself, and obtains	Kannada ಜನ್ಮವನ್ನು ಹೊಂದಿರುವ, ತನಗಿಂತಲೂ ಬೇರೆಯಾಗಿ ಇರುವ ಇತರ ಮನುಷ್ಯರೆಲ್ಲರನ್ನೂ ಮೀರಿ ... ("even those like himself" not in Kannada)	applied	
+145	S7	R3	Sanskrit quotation in commentary	āprastavyāṃ prajñām	āpraśnārhāṃ ca prajñām	Kannada ಸರ್ವಾರ್ಥೇಷು ಸರ್ವಮನುಷ್ಯೈರಾಪ್ರಶ್ನಾರ್ಹಾಂ ಚ ಪ್ರಜ್ಞಾಂ; gloss ಪ್ರಶ್ನೆಯನ್ನು ಮಾಡಿ ತಿಳಿಯದೆ ಇರುವಂತೆ; letters copied from the Kannada	applied	
+145	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 7-1-34, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಆತ ಔ ಣಲಃ ಎಂಬುದರಿಂದ)	applied	
+145	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 8-2-5, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಏಕಾದೇಶ ಉದಾತ್ತೇನೋದಾತ್ತಃ)	applied	
+146	S1	R1	sūtra/reference number	(Pā. Sū. 6-1-184)	(Pā. Sū. 6-1-174)	Kannada prints (ಪಾ. ಸೂ. ೬-೧-೧೭೪)	applied	
+146	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 6-1-16)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಗ್ರಹಿಜ್ಯಾವಯಿವ್ಯಧಿ ಸೂತ್ರದಿಂದ)	applied	
+149	S7	R3	Sanskrit quotation in commentary	dhīyeti	dhiṣīyeti	Kannada ಧಿಷೀಯೇತಿ; letter ṣ dropped in English	applied	
+149	S7	R3	Sanskrit quotation in commentary	sadbhyo balaṃ	sadyo balaṃ	Kannada ತತೋ ಧನವದ್ಭ್ಯಃ ಸದ್ಯೋ ಬಲಂ; letters copied from the Kannada	applied	
+149	S1	R1	sūtra/reference number	prints 93-2	prints 93-7	Kannada bhāṣya prints ಪರಿ. ೯೩-೭	applied	
+150	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 6-4-112, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ಶ್ನಾಭ್ಯಸ್ತಯೋರಾತಃ)	applied	
+150	S2	R1	sūtra number not printed in Kannada	(Pā. Sū. 3-4-99, as read)	(removed)	Kannada prints the sūtra name without a number; number not in the supplied text (ನಿತ್ಯಂ ಜಿತಃ)	applied	
+125	S7	R3	Sanskrit quotation in commentary	mṛgya itihāsikāḥ	mṛgya aitihāsikāḥ	Kannada ಮೃಗ್ಯ ಇತಿ ಐತಿಹಾಸಿಕಾಃ (aitihāsikāḥ)	applied	
+125	S7	R3	Sanskrit quotation in commentary	śvetair bindubhir aṅkitā	śveta bindvaṅkitā	Kannada ಶ್ವೇತ ಬಿಂದ್ವಂಕಿತಾ; letters copied from the Kannada	applied	
+125	S17	R1	omission	avinaṣṭadīptayaḥ	avinaṣṭā dīptir etebhyaḥ	Kannada ಅವಿನಷ್ಟಾ ದೀಪ್ತಿರೇತೇಭ್ಯಃ । ದೀಪ್ತಿಮಂತಃ	applied	
+125	S7	R3	Sanskrit quotation in commentary	udakaṃ meghāt saṃsrāvayantaḥ	udakaṃ meghāt saṃkṣārayantaḥ	Kannada ಉದಕಂ ಮೇಘಾತ್ ಸಂಕ್ಷಾರಯಂತಃ; a real word, so not a misprint; English had a different word	applied	
+125	S7	R3	Sanskrit quotation in commentary	क्षपः जिन्वन्तः नानदति	क्षपः संजिन्वन्तः नानदति	Kannada ಕ್ಷಪಃ ಸಂಜಿನ್ವಂತಃ ನಾನದತಿ; letters sam added from the Kannada	applied	
+124	S13	R6	pratipadārtha ಸಿಹಗಳಂತೆ (p. 124); ವಾಹಾತ್ಮರಾದ (p. 131)	like lions; the great	Kannada non-words ಸಿಹ-, ವಾಹಾತ್ಮ- silently read as ಸಿಂಹ, ಮಹಾತ್ಮ	Kannada misprints put right in the English without a note; editor to decide whether to mark them.	question	
+125	H29	R3	Special Topics quotation: ಬಾಧಿರ್ತಾನ್ ಯಜಮಾನಾ; ಮಾನನಂ; ಅಸುರೋನಾ	bādhitān yajamānān; mananaṃ; asuro vā	same	Kannada Sanskrit misprints silently corrected in the English quotations (also ನ್ಯನ್ for nṝn on p. 128; ರಿಷ್ಟಯೋ for ṛṣṭayaḥ p. 132; ಋತೋಜಿ for ṅi, ಯಜೋಽಚಿ/ಸನ್ಯಜೋಃ for yañ/sanyaṅ p. 126; ಲೋಟೋ ಲಜ್ಜತ್ p. 129; ಅಶಚ್ for atac p. 130; ಬಹನ್ಮಹಜ್ಜ p. 126).	question	
+122	H29	R3	"ata ini-ṭhanau" (p. 122, 142): Kannada ಆತ ಇನಿರನೌ / ಇನಿರನ್	ata ini-ṭhanau	ata ini-ṭhanau	Kannada misprint (ರ for ಠ) silently corrected; p. 133 prints ಇನಿಠನ್.	question	
+126	H29	R3	nighāta sūtra names completed beyond the Kannada: kṅiti (p. 122), makṣutaṅkutroruṣyāṇām (p. 129), the long list of Pā. 3-1-123 (p. 146), tāsyanudātt… (p. 126)	full sūtra names	as printed in Kannada (shorter)	English completes abbreviated sūtra names, which the Kannada does not print (kind S16).	question	
+128	H29	R6	English translation printed "nnd" for "and"	and	nnd	Printed English OCR/typo put right silently.	question	
+129	H29	R3	Nirukta list: Kannada ವಪ್ರಿಃ; ಗಣಶ್ರಿಯಃ—ಶ್ರೂಯಮಾಣಾಃ	nirṇik, vapuḥ; śrayamāṇāḥ	nirṇik, vapriḥ; śrūyamāṇāḥ	Kannada prints ವಪ್ರಿಃ and ಶ್ರೂಯಮಾಣಾಃ; English silently gives vapuḥ and śrayamāṇāḥ.	question	
+133	H29	R3	Skandasvāmin quotation: Kannada ತೇಷಂ ಗಣಂ ತನಸಂ ಖಾದಿಹಸ್ತಂ (Ṛ. Saṃ. 5-58-2)	triṣaptaṃ gaṇaṃ tavasaṃ khādihastam	teṣaṃ gaṇaṃ tanasaṃ khādihastam	English gives a Ṛgveda text where the Kannada has a different, garbled reading.	question	
+137	S14	R1	Special Topics ಆಪಥ್ಯಃ ನ: ದಾರಿಕಾರನು ಆಚರಿಸುವ ಹಾಗೆ	as drivers do	as a wayfarer (traveller) does?	ದಾರಿಕಾರ is not a clear word; English "drivers" may not be right.	question	
+141	H29	R3	ರಜಸ್ತುರಂ quotation: Kannada ಪಾಂಸೋಸ್ವರಯಿತಾರಂ	tvarayitāraṃ	svarayitāraṃ	Kannada misprint of tvarayitāram silently corrected.	question	
+142	H29	R1	गृणीमसि: Kannada ಲಟ್ ಮಧ್ಯಮಪುರುಷ ಬಹುವಚನ	laṭ, first person plural	laṭ, second person plural	English says first person (correct for masi), Kannada says madhyama.	question	
+143	H29	R3	सश्चत: root Kannada ಗ್ಲುಚ್ ಷಸ್ಜ ಗತ್ ... ಸಶ್ಚ	saśca gatau; some say saścu	glucu ṣasja gat ... saśca	English reconstructs the root reading; Kannada has a garbled root name and says "saśca", English says "saścu".	question	
+144	H29	R6	pratipadārtha ಜರ್ನಾ; ಪುಷ್ಪನಾಗುತ್ತಾನೆ	janān; he prospers	ಜರ್ನಾ; ಪುಷ್ಪನಾಗುತ್ತಾನೆ (puṣpa)	Kannada non-words silently read as ಜನಾನ್ and ಪುಷ್ಟನಾಗುತ್ತಾನೆ.	question	
+145	H29	R3	Special Topics ಅಪ್ರಷ್ಟವ್ಯಂ ಶೋಭನಂ vs English āprastavyaṃ	āprastavyaṃ	apraṣṭavyaṃ	English letters differ from Kannada ಅಪ್ರಷ್ಟವ್ಯಂ (the bhāṣya has āpraṣṭavyaṃ).	question	
+148	S1	R1	Paribhāṣā number in bhāṣya block: Devanagari परि. ९३-२, IAST 93-7, Kannada ೯೩-೭	९३-२	९३-७	Inside the Sāyaṇa block (not read); Devanagari and IAST disagree with each other; Kannada prints ೯೩-೭.	question	
+149	H29	R3	Taittirīya quotation: Kannada ನಾ ವೈತದಾಹ	vā vaitad āha	nā vaitad āha	Kannada ನಾ silently read as vā.	question	

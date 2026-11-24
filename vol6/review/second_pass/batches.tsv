@@ -1,0 +1,7 @@
+batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
+pilot	300	309	24	15	17	0	9	248k	b7ae9b6	2026-11-24	read 139k + apply 109k; the English reading notes on pp. 304 and 309 translate the bhāṣya and were not read
+1	2	31	86	35	43	0	51	304k	2a611eb	2026-11-24	most questions are Kannada misprints the English had silently put right (H29); pp. 7–8 are one English section (p. 7 edits filed under page 6)
+2	32	61	44	37	37	0	7	208k	fed3619	2026-11-24	24 S2: sūtra numbers the English had and the Kannada does not print were removed
+3	62	91	76	55	55	0	21	311k	96960c4	2026-11-24	30 S2 removals; English pp. 72/73 boundary shifted by about a paragraph
+4	92	121	50	35	35	0	15	204k	26ecee4	2026-11-24	22 S2 removals; one edit (p. 95) needed a rerun after sp_apply.py learned two headings for one page
+5	122	151	67	52	52	0	15	272k	823a12c	2026-11-24	20 S2 removals, 7 S7 quotation repairs; English p. 141 carries the first lines of Kannada p. 142

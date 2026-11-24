@@ -1,0 +1,7 @@
+kind	pages	text
+marker	65-66	The text of p. 66 stands inside the p. 65 block of the Kannada book (head missing): the page marker needs a fix; the English p. 66 matches that text
+boundary-shifted	72-73	English p. 72 already carries about a paragraph of Kannada p. 73
+boundary-shifted	141-142	English p. 141 carries the first lines of Kannada p. 142
+page-absent	8, 559, 571	Not in the supplied text (no head); p. 66 is found inside p. 65, p. 8 inside p. 7 per the batch 1 reader (to be confirmed)
+block-not-read	148	bhāṣya block: Devanagari paribhāṣā digit ९३-२ disagrees with IAST 93-7 and the Kannada ೯೩-೭ (blocks are not read in this pass)
+findings-row-stale	95	The p. 95 row for Ā. 7-7 says question; the edit was applied afterwards (7-3)
