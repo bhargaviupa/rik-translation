@@ -124,14 +124,14 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 148	yes	1	1	0	0	0	0	0	0	0
 149	yes	1	0	0	0	0	0	0	0	0
 150	yes	1	0	0	0	0	0	1	0	0
-151	yes	3	0	0	1	0	0	0	0	0
+151	yes	2	0	0	0	0	0	0	0	0
 154	NO	1	1	0	0	0	0	0	0	0
 155	yes	0	0	0	0	3	3	5	0	0
 157	yes	1	0	0	0	0	0	0	0	0
 159	yes	1	1	0	0	0	0	0	0	0
-160	yes	1	4	0	0	1	3	1	0	0
+160	yes	1	3	0	0	1	2	1	0	0
 161	yes	0	3	0	0	0	0	1	15	0
-162	yes	3	0	0	0	0	2	0	0	0
+162	yes	1	0	0	0	0	0	0	0	0
 163	yes	2	3	0	0	0	0	0	0	0
 164	yes	1	1	0	0	0	2	1	0	0
 165	yes	1	0	0	0	0	0	0	0	0
