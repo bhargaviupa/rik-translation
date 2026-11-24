@@ -10578,6 +10578,276 @@ And moreover, O Indra, make us possessors of cattle, possessors of horses, and p
 
 And, O Indra, give us cattle and horses and make us possessors of wealth. And may we always have foods.
 
+### Printed p. 235
+
+##### English translation
+Make us (Indra) possessed of cattle, of gold, and horses: may we prosper with abundant viands.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒बदु॑क्थं हवामहे सृ॒प्रक॑रस्नमू॒तये॑ ।  
+> साधु॑ कृ॒ण्वंत॒मव॑से ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृबत् 5 उक्कं । हवामहे । सृप्रकरस्नं । ऊतये ।  
+> साधु । कृण्वंतं । अवसे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊतये लोकस्य रक्षणाय सृप्रकरस्नं प्रसृतबाहुं । करसौ बाहू कर्मणां
+> प्रस्नातार्ः । नि. ६-१७ । इति यास्कवचनात् । अवसे लोकस्य पालनाय साधु
+> कृण्वंतं साधु कुर्वंतं बृबदुक्थं महदुक्थमिंद्रं हवामहे । ह्ययामः ।
+> तथा च यास्कः । बृबदुक्थो महदुक्थो वक्तव्यमस्मा उक्धं । नि. ६-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+For the protection of the world, Indra is the one whose arms are stretched out (सृप्रकरस्नं (*sṛprakarasnaṃ*)). Sāyaṇa supports this with Yāska's statement that the two arms are the ones that accomplish actions (Ni. 6-17). **NOTE** For the safeguarding of the world, we invoke Indra, who does good deeds and is of great praise (बृबदुक्थं (*bṛbadukthaṃ*) means one of great praise). Accordingly Yāska says that a great praise is to be spoken for him (Ni. 6-4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊतये (*ūtaye*)—for the protection of the world
+- सृप्रकरस्नं (*sṛprakarasnaṃ*)—who holds up his arms
+- अवसे (*avase*)—for protecting the world
+- साधु (*sādhu*)—good deeds alone
+- कृण्वंतं (*kṛṇvaṃtaṃ*)—who does
+- बृबदुक्कं (*bṛbadukkaṃ*)—Indra, who is praised with great hymns
+- हवामहे (*havāmahe*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+We pray to and call Indra, who for the protection of the world has lifted up and stretched out his arms, who performs excellent and manifold deeds of valour to save the people of the world from distress, and who is praised with great hymns.
+
+##### English translation
+We invoke Indra, who is greatly to be praised, whose arm is stretched out for the protection (of the world), acting nobly for our defence.
+
+### Printed p. 236
+
+##### विशेषविषयगळु (Special Topics)
+
+While explaining the derivation of the word सृप्रः (*sṛpraḥ*), Yāska has also given the derivation of the word सृप्रकरस्नं (*sṛprakarasnaṃ*) that occurs in this ṛk.
+सृप्रः सर्पणात् । इदमपीतरत् सृप्रमेतस्मादेव सर्पिर्वा तैलं वा । सृप्रकरस्नमूतये इत्यपि निगमो भवति । करस्य बाहू कर्मण ० प्रस्नातारौ ॥ (*sṛpraḥ sarpaṇāt | idamapītarat sṛprametasmādeva sarpirvā tailaṃ vā | sṛprakarasnamūtaye ityapi nigamo bhavati | karasya bāhū karmaṇa 0 prasnātārau ‖*) (Ni. 6-17)
+That is: the word सृप्रः (*sṛpraḥ*) is derived from the root सृप् (*sṛp*), which means to slip away or glide. When the word सृप्र (*sṛpra*) means ghee or oil, it too is derived from this same root. सृप्रकरस्नमूतये (*sṛprakarasnamūtaye*) is an example from the Veda. करस्य (*karasya*) means the two stretched-out hands. In the present ṛk the meaning is that Indra has raised and stretched out his two hands in order to protect the people.
+बृबदुक्कं (*bṛbadukkaṃ*): to explain this word also Yāska has given its derivation:
+बृबदुक्कं । बृबदुक्को महदुक्को वक्तव्यमस्मा उक्षमिति बृबदुक्को वा । बृबदुक्कं हवामहे इत्यपि निगमो भवति ॥ (*bṛbadukkaṃ | bṛbadukko mahadukko vaktavyamasmā ukṣamiti bṛbadukko vā | bṛbadukkaṃ havāmahe ityapi nigamo bhavati ‖*) (Ni. 6-4)
+बृबदुक्क (*bṛbadukka*) means a great hymn composed in an excellent manner. The meaning of the word is: Indra, who is praised with such excellent praises. Taking the very sentence बृबदुक्कं हवामहे (*bṛbadukkaṃ havāmahe*) from the present ṛk as the example, he has explained the meaning.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः सं॒स्थॆ चि॑च्छ॒तक्र॑तु॒रादीं॑ कृ॒णोति॑ वृत्र॒हा ।  
+> ज॒रि॒तृभ्यः॑ पुरू॒वसु॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । संस्थे । चित् । शतक्रतुः । आत् । ईं । कृणोति । वृत्रहा ।  
+> जरितृभ्यः । पुरुषसुः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः प्रसिद्ध इंद्रः संस्थॆ संग्रामे शतुक्रतुर्बहुकर्मा भवति अपि चादनंतरमीमिदं शत्रुवधादिकं कृणोति करोति चिदेव आयमिंद्रो वृत्रहा शत्रूणां
+
+### Printed p. 237
+
+> हंता भवति । किंच जरितृभ्यः स्तोतृणामर्थे पुरूवसुर्बहुधनो भवति । न
+> स्वार्थमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The well-known Indra becomes a doer of many deeds in battle, and thereafter he performs this slaying of enemies and the like. This Indra, the slayer of Vṛtra, is the killer of enemies. Further, for the sake of the praisers he is rich in much wealth, that is, not for his own sake.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the well-known Indra who
+- संस्थॆ (*saṃsthè*)—in battle
+- शतक्रतुः (*śatakratuḥ*)—does many deeds of valour
+- आत् (*āt*)—thereafter
+- ईं (*īṃ*)—the deeds of slaying enemies and the like
+- कृणोति (*kṛṇoti*)—does
+- चित् (*cit*)—that same Indra
+- वृत्रहा (*vṛtrahā*)—destroys enemies, and also
+- जरितृभ्यः (*jaritṛbhyaḥ*)—to give to the people who praise him
+- पुरुवसुः (*puruvasuḥ*)—possesses much wealth
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Indra who, performing many deeds of valour in battle, destroys enemies, that same Indra kills the enemies. In order to give to the people who praise him, Indra has much wealth with him.
+
+##### English translation
+The slayer of Vritra, the occomplisher of a hundred exploits in war, achieves them that he may be the giver of much wealth to his worshippers.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॑ श॒क्रश्चि॒दा श॑क॒द्दान॑वा अंतराभ॒रः ।  
+> इंद्रो॒ विश्वा॑भिरू॒तिभिः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । शक्रः । चित् । आ । शकत् । दानवान् । अंतरआभरः ।  
+> इंद्रः । विश्वाभिः । ऊतिभिः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शक्रः शक्तः स इंद्रो नश्चिदस्मानप्या शकत् । शक्तान् करोतु । अपि चेंद्रो
+> दानवान् विश्वाभिः सर्वैरूतिभिः पालनैरंतराभरोऽंतराहरश्चित्राणामापूरकः ।
+> छिद्रापिधायीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+May that capable Indra make us also capable. And Indra, with all protections, that is, with all guardings, is the one who fills up the gaps. **NOTE** That is, he is the one who closes openings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्रः (*śakraḥ*)—the capable
+- सः (*saḥ*)—that Indra
+- नः चित् (*naḥ cit*)—us also
+- आ शकत् (*ā śakat*)—may he make capable, and
+- दानवान् (*dānavān*)—who gives liberally
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वाभिः (*viśvābhiḥ*)—all
+
+### Printed p. 238
+
+- ऊतिभिः (*ūtibhiḥ*)—with his protections, our
+- अंतराभरः (*aṃtarābharaḥ*)—will protect the regions that are exposed to danger
+
+##### भावार्थ (Bhāvārtha)
+
+May the capable Indra make us also powerful. May that Indra, who is of a liberal, giving nature, with all his protections guard us, who are exposed to danger.
+
+##### English translation
+May Sakra give us strength, may the liberal Indra with all protections be the supplier of our deficiencies.
+
+##### विशेषविषयगळु (Special Topics)
+
+अंतराभरः—अंतराहरश्चित्राणामापूरकः (*aṃtarābharaḥ—aṃtarāharaścitrāṇāmāpūrakaḥ*) ।  When fighting, the enemies rush in at whatever place they find an opening. Not every region is impregnable. The same is true of soldiers. Even though they wear armour and the like to protect the body, there will always remain some part or limb that is exposed to danger. The idea suggested here is that Indra should protect, by his own power and capacity, such parts that may be exposed to danger (vulnerable points).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो रा॒यो॒३॒॑ ३ वनि॑र्म॒हान्तु॑सपा॒सः सु॑न्व॒तः सखा॑ ।  
+> तमिंद्र॑म॒भि गा॑यत ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । रायः ! अवनिः । महान् । सुपारः । सुन्वतः । सखा ।  
+> तं । इंद्रं । अभि । गायत ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो रायो धनस्यावनिः पालको महान् सर्वोत्तमः सुपारः
+> शोभनपारणश्च भवति । यश्च सुन्वतः सोमाभिषवं कुर्वतो यजमानस्य सखा
+> प्रियो भवति । तमिंद्रमभि गायत । अभिष्टुत ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is the protector of wealth, great, that is, the best of all, and a good ferryman across, and who is the friend of the sacrificer who presses the Soma, that Indra, sing to, that is, praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- रायः (*rāyaḥ*)—for wealth
+- अवनिः (*avaniḥ*)—is the protector
+- महान् (*mahān*)—the best of all
+- सुपारः (*supāraḥ*)—who is easily approached by those who praise him, and who is
+
+### Printed p. 239
+
+- सुन्वतः (*sunvataḥ*)—of the sacrificer who performs the pressing of Soma
+- सखा (*sakhā*)—who is a dear friend
+- तं इंद्रं (*taṃ iṃdraṃ*)—that same Indra
+- अभि गायत (*abhi gāyata*)—praise with songs and the like **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who is the protector of wealth, who is the best of all, who is easily accessible to those who praise him, who is a friend to the sacrificer who presses the Soma and performs the sacrifice, sing the praise of that very Indra and extol him.
+
+##### English translation
+Glorify that Indra who is the preserver of riches, the mighty, the conveyer beyond (calamity), the friend of offerer of the libation.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒यं॒तारं॒ महि॑ स्थि॒रं पृत॑नासु श्रवो॒जितं॑ ।  
+> भूरे॒रीशा॑न॒मोज॑सा ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आयंतारं । महि । स्थिरं । पृतनासु । श्रवःजितं ।  
+> भूरेः । ईशानं । ओजसा ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयंतारमागंतारं महि महांतं पृतनासु संग्रामेषु स्थिरमचलं
+> श्रवोजितं श्रवसो जीतारमोजसा बलेन भूरेर्बहोर्धनस्येशानमीश्वरमभिगायत ॥
+
+##### Gist of the bhāṣya
+
+Sing to Indra, who is the one who comes, great, firm and immovable in battles, the conqueror of fame, and by his strength the lord of much wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयंकारं (*āyaṃkāraṃ*)—who comes near those who praise him
+- महि (*mahi*)—of great glory
+- पृथनासु (*pṛthanāsu*)—in battles
+- स्थिरं (*sthiraṃ*)—who stands firm against the enemy without fleeing
+- श्रवोजितं (*śravojitaṃ*)—who wins the food of the enemies, or who wins fame
+- ओजसा (*ojasā*)—by his own power
+- भूरेः (*bhūreḥ*)—of abundant wealth
+- ईशानं (*īśānaṃ*)—and the lord (praise Indra)
+
+### Printed p. 240
+
+##### भावार्थ (Bhāvārtha)
+
+Praise Indra, who comes near to those who praise him in order to favour them, who is of great glory, who in battles does not lose and flee but stands firm against the enemies, who seizes food from the enemies in battle or wins fame, and who by his own power is lord of an immeasurable mass of wealth.
+
+##### English translation
+Him who comes nigh, the mighty, the firm in battles, the acquirer of fame, the lord of the vast riches through his prowess.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकिरस्य शचीनां नियंता सून्मत्तानां ।  
+> नकि॑र्व॒क्ता न दा॒दिति॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । अस्य । शचीनां । नियंता । सूनृतानां ।  
+> नकिः । वक्ता । न । दात् । इति ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य सूनृतानां शोभनानां शचीनां कर्मणां । धीः शचीति कर्मनामसु पाठात् । नकिर्न कश्चिन्नियंता नियामकः । अयमिंद्रो न दादिति न
+> प्रयच्छतीति नकिर्वक्ता न कश्चिद्वदति । किंतु सर्वोऽपि जनोऽयं प्रदातेत्येव
+> ब्रवीतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Of this Indra, of the good deeds called शचीनां (*śacīnāṃ*), that is, of actions, for it is read so among the names of action, there is no controller, no regulator. And no one says that this Indra does not give, that he does not bestow; rather, everyone says only that he is a giver.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Indra
+- सूनृतानां (*sūnṛtānāṃ*)—of the excellent or auspicious
+- शचीनां (*śacīnāṃ*)—for the deeds
+- नियंता (*niyaṃtā*)—one who controls
+- नकिः (*nakiḥ*)—there is no one
+- न दात् इति (*na dāt iti*)—(and that this Indra) gives nothing to the people who praise him
+- नकिः वक्ता (*nakiḥ vaktā*)—there is no one who says so
+
+##### भावार्थ (Bhāvārtha)
+
+There is no one who controls Indra, saying that he should perform his excellent deeds only so far. Indra is not subject to anyone. And there is no man who says that this Indra gives nothing to the people who praise him. That is, everyone says that Indra gives those who praise him whatever they need.
+
 ---
 
-**Progress note:** Done through printed p. 234. Mandala 8 Sukta 32 Rks 2-9 (pp. 228-234)
+**Progress note:** Done through printed p. 240. Mandala 8 sukta 32 rks 10-15
