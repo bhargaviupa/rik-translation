@@ -7179,6 +7179,541 @@ The ninth sūkta, अध्वर्यवः (*adhvaryavaḥ*), has seven Ṛks
 
 This sūkta, अध्वर्यवः (*adhvaryavaḥ*), is the ninth sūkta in the sixth anuvāka. It has seven Ṛks. Vasiṣṭha is the seer of this sūkta, and its metre is Triṣṭubh. The deity of the seventh Ṛk is Indra-Bṛhaspati; for the remaining Ṛks the deity is Indra. The Anukramaṇī says अध्वर्यवः सप्तोक्तदेवतांत्या (*adhvaryavaḥ saptoktadevatāṃtyā*). The viniyoga of this sūkta has also been stated in the preceding sūkta.
 
+### Printed p. 178
+Maṇḍala 7; Anuvāka 6; Sūkta 98; Aṣṭaka 5; Adhyāya 6; Varga 23. Number of ṛks in the sūkta: 7. Ṛṣi: Vasiṣṭha. Deity: 1–6 Indra; 7 Indra and Bṛhaspati. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध्व॑र्यवोरु॒णं दु॒ग्धमं॒शुं जु॒होत॑न वृष॒भाय॑  ॒
+> क्षितीनां ।  
+> गौ॒राद्वेदी॑या अव॒पान॒मिंद्रो॑ वि॒श्वाहेद्या॑ति सु॒तसो॑ममि॒च्छन् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वर्यवः । अरुणं । दुग्धं । अंशुं । जुहोतन । वृषभाय । क्षितीनां ।  
+> गौरात् । वेदीयान् । अवपानं । इंद्रः । विश्वाहा । इत् । याति । सुतसोमं ।  
+> इच्छन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवोऽध्वरस्य नेतारऋत्विजः क्षितीनां जनानां मध्ये वृषभाय
+> श्रेष्ठायेंद्रायारुणमारोचमानं दुग्धमभिषुतमंशुं सोमं जुहोतन ।
+> जुहुत । अवपानमवक्रम्य स्थितं दूरस्थं पातव्यं सोमं गौराद्गौरमृगादपि
+> वेदीयानतिशयेन विद्वानिंद्रः सुतसोममभिषुतसोमं यजमानमिच्छन्नन्विच्छन्
+> विश्वाहा विश्वान्यहानीदेव सर्वदैव याति । गच्छति । अतस्तस्मा इंद्राय सोमं
+> जुहुतेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the adhvaryus, the priests who lead the sacrifice. They are to offer into the fire (जुहोतन (*juhotana*), i.e. जुहुत (*juhuta*)) the Soma-shoot (अंशुं (*aṃśuṃ*)) that has been pressed and is shining red (अरुणं (*aruṇaṃ*), दुग्धं (*dugdhaṃ*)). The offering is for Indra, who is the "bull", the best (वृषभाय (*vṛṣabhāya*)), among the people (क्षितीनां (*kṣitīnāṃ*)). Indra, knowing even better than the गौर (*gaura*) (the gaura deer) where a Soma-drink (अवपानं (*avapānaṃ*)) stands far off, goes always, on every day (विश्वाहा (*viśvāhā*)), to the sacrificer who has pressed Soma, desiring him. For this reason the Soma is to be offered to him. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यवः (*adhvaryavaḥ*)—O adhvaryus
+- इंद्रः (*iṃdraḥ*)—Indra
+- अवपानं (*avapānaṃ*)—the distant Soma-drinking place
+- गौरात् (*gaurāt*)—like the gaura deer, by the scent alone
+- वेदीयान् (*vedīyān*)—knowing
+- सुतसोमं (*sutasomaṃ*)—the Soma that has been pressed and made ready
+- इच्छन् (*icchan*)—desiring
+- विश्वाहा इत् (*viśvāhā it*)—on all days
+- याति (*yāti*)—comes (therefore)
+- क्षितीनां (*kṣitīnāṃ*)—among all the people
+- वृषभाय (*vṛṣabhāya*)—addressed to Indra, the most excellent
+- अरुणं (*aruṇaṃ*)—of attractive golden colour
+- दुग्धं (*dugdhaṃ*)—pressed
+- अंशुं (*aṃśuṃ*)—the Soma **NOTE**
+- जुहोतन (*juhotana*)—offer as an oblation
+
+##### भावार्थ (Bhāvārtha)
+
+Knowing, by the scent alone, like the gaura deer, even a distant Soma-drink, and desiring the Soma that has been pressed and made ready, Indra comes on all days. Therefore, among all the people, offer as an oblation to Indra, the most excellent, the Soma that is of attractive golden colour and has been pressed.
+
+##### English translation
+Offer, priests, the shining effused Soma to him who is eminent (among) men : knowing better than the Gaura where his distant drinking place (is to be found), Indra comes daily seeking for the offerer of the libation.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युद्ध॑धि॒षे प्र॒दिवि॒ चार्वन्नं॑ दि॒वेदि॑वे प्री॒तिमिद॑स्य वक्षि ।  
+> उ॒त हृ॒दोत मन॑सा जुषा॒ण उ॒शन्निं॑द्र॒ प्रस्थि॑तान्पाहि॒  ॑
+> सोमान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । दधिषे । प्रदिवि । चारु । अन्नं । दिवेदिवे । प्रीतिं । इत् । अस्य । वक्षि ।  
+> उत । हृदा । उत । मनसा । जुषाणः । उशन् । इंद्र । प्रस्थितान् । पाहि ।  
+> सोमान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इ. द्र प्रदिवि प्रगतेषु दिवसेषु पूर्वस्मिन्काले चारु शोभनं यत्सोमलक्षणमन्नं दधिषे पानेनोदरे धारयसि अस्य सोमस्य प्रीतिमित् पानमेव दिवे
+> दिवे प्रतिदिवसमिदानीमपि वक्षि । कामयसे ॥ वश कांतावित्यस्य सिपि शपो लुकि षत्वकत्वषत्वेष्टेतद्रूपं ॥ उतापि च हे इंद्र हृदा हृदयेन । उतशब्दश्चार्थे ।
+> अ. ५. अ. ६. व. २३ ]	मुग्रेदसंहिता	175
+> मनसा च जुषाणः सेवमान उशन्न स्मान्कामयमानस्त्वं प्रस्थितान् पुरस्तान्नीतानुत्तरवेदिस्थान् सोमान्पाहि । पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in days gone by, in earlier time (प्रदिवि (*pradivi*) = प्रगतेषु दिवसेषु (*pragateṣu divaseṣu*)), you took into your belly by drinking the fair "food" (चारु अन्नं (*cāru annaṃ*)) in the form of Soma; and of this same Soma you still desire the drink (प्रीतिमित् (*prītimit*)) every day, even now. वक्षि (*vakṣi*) means "you desire". Further, O Indra, enjoying it with heart and with mind (उत (*uta*) is here in the sense of "and"), and desiring us (उशन् (*uśan*)), drink the Soma-juices that have been carried forward and placed on the northern altar (प्रस्थितान् (*prasthitān*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) प्रदिवि (*pradivi*)—in all the former days
+- चारु (*cāru*)—charming
+- यत् (*yat*), अन्नं (*annaṃ*)—which food in the form of Soma
+- दधिषे (*dadhiṣe*)—you have drunk and held in the belly
+- दिवेदिवे (*divedive*)—now too, every day
+- अस्य (*asya*)—of that same Soma-juice
+- प्रीतिमित् (*prītimit*)—the drinking itself
+- वक्षि (*vakṣi*)—you desire
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- हृदा (*hṛdā*)—with the heart
+- उत (*uta*)—and
+- मनसा (*manasā*)—with satisfaction of mind
+- जुषाणः (*juṣāṇaḥ*)—enjoying
+- उशन् (*uśan*)—desiring us
+- प्रस्थितान् (*prasthitān*)—offered before you
+- सोमान् (*somān*)—the Soma-juices
+- पाहि (*pāhi*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the charming food in the form of Soma that you drank and held in your belly in all the former days, the drinking of that same Soma-juice you desire even now, every day. O Indra, enjoying it with heart and with satisfaction of mind, and desiring us, drink the Soma-juices offered before you.
+
+##### English translation
+The pleasant beverage that you, Indra, have quaffed in former days, you still desire to drink of daily: gratified in heart and mind, and wishing (our good), drink, Indra, the Soma, that is placed before (you)
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒ज्ञा॒नः सोमं॒ सह॑से पपाथ॒ प्र ते॑ मा॒ता म॑हि॒मान॑मुवाच ।  
+> एंद्र॑ पप्राथो॒र्व१॒ं॑१तरि॑क्षं यु॒धा दे॒वेभ्यो॒ वरि॑वश्चकर्थ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जज्ञानः । सोमं । सहसे । पपाथ । प्र । ते । माता । महिमानं । उवाच ।  
+> आ । इंद्र । पप्राथ। उरु । अंतरिक्षं । युधा । देवेभ्यः । वरिवः । चकर्थ ॥  
+> सायणभाष्यसहिता [ मं. ७. अ. ६. सू. ९८.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं जज्ञानो जायमान एव सहसे बलाय सोमं पपाथ । पीतवानसि । ते तव महिमानं महत्त्वं माता त्वदीया जनन्यदितिः प्रोवाच । प्रोक्तवती । संवादसूक्तेयं पंथा इत्यादिके नही स्वस्य । ऋ. ४-१८-४ । इत्यर्धर्चादारभ्यादित्येंद्रमहत्त्वस्योक्तत्वात् । आतः कारणात् हे इंद्र त्वमुरु विस्तीर्णमंतरिक्षमा पप्राथ । स्वतेजसापूरितवानसि । अपि च युधा यद्धेन देवेभ्यः स्तोतृभ्यो
+> देवेभ्य एव वा वरिवो धनं चकर्थ । कृतवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, as soon as you were born you drank Soma for strength (सहसे (*sahase*) = बलाय (*balāya*)). Your mother Aditi proclaimed your greatness (महिमानं (*mahimānaṃ*)); Sāyaṇa supports this by saying that Indra's greatness is spoken of from the half-verse beginning नही स्वस्य (*nahī svasya*) onwards, in the sūkta that is a dialogue (Ṛ. Saṃ. 4-18-4) **NOTE**. Therefore, O Indra, you have filled the vast (उरु (*uru*)) firmament with your own brilliance (पप्राथ (*paprātha*)). And by battle (युधा (*yudhā*)) you have made (चकर्थ (*cakartha*)) wealth (वरिवः (*varivaḥ*) = धनं (*dhanaṃ*)) for the gods, that is, for the worshippers, or for the gods themselves.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- (you)
+- जज्ञानः (*jajñānaḥ*)—as soon as born
+- सहसे (*sahase*)—for gaining your strength
+- सोमं (*somaṃ*)—the Soma-juice
+- पपाथ (*papātha*)—you have drunk **NOTE**
+- ते (*te*)—your
+- महिमानं (*mahimānaṃ*)—greatness
+- माता (*mātā*)—your mother Aditi
+- प्र (*pra*), उवाच (*uvāca*)—has proclaimed to the world
+- (you)
+- उरु (*uru*)—exceedingly vast
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- पप्राथ (*paprātha*)—you have pervaded with your brilliance **NOTE**
+- युधा (*yudhā*)—by way of battle
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- वरिवः (*varivaḥ*)—wealth
+- चकर्थ (*cakartha*)—you have gained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as soon as you were born you drank the Soma-juice for gaining your strength; your mother Aditi has proclaimed your greatness to the world. You have pervaded the exceedingly vast firmament with your brilliance, and by fighting you have gained wealth for the gods.
+
+##### English translation
+As soon as born, Indra, you have drunk the Soma for your invigoration : your mother (Aditi) proclaimed your greatness ; hence you have filled the vast firmament, Indra, you have gained in battle treasure for the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्यो॒धया॑ मह॒तो मन्य॑माना॒न्ताक्षा॑म॒ तान्बा॒हुभिः॒  ॑
+> शाश॑दानान् ।
+
+### Printed p. 179
+
+> यद्वा नृभिर्वृत इंद्राभियुध्यास्तं त्वयाजिं सौश्रवसं  
+> जयेम ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यःत् । योधयाः । महतः । मन्यमानान् । साक्षाम । तान् । बाहुभिः । शाकदानान् ।  
+> यत् । वा । नृभिः । वृतः । इंद्र । अभियुध्याः । तं । त्वया । आजिं । सौश्रवसु ।  
+> जयेम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महतः प्रभूतान् मन्यमानाञ्छत्रून्यद्यदा योधयाः अस्माभिर्योधयेः । तैः सह योद्दुं बलं प्रयच्छेरित्यर्थः । तदानीं शास्त्रदानान्
+> हिंसतस्ताञ्छत्रून्बाहुभिरायुधनिरपेक्षैर्हस्तैरेव त्वत्पसादात्साक्षाम । सहेम ।
+> अभिभवेम । यद्वा यदि वा हे इंद्र नृभिर्नेतृभिर्मरुद्धिर्वृतः परिवृतस्त्वमेवाभि
+> युध्याः अस्मदीयाञ्छत्रूनभियुध्यॆश्च सौश्रवसं । श्रवोऽन्नं यशो वा । शोभनस्य श्रवसो हेतुं तमाजिं संग्रामं त्वया सहायेन वयुं जयेम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you make us fight (योधयाः (*yodhayāḥ*)) enemies who are many (महतः (*mahataḥ*)) and think themselves great (मन्यमानान् (*manyamānān*)), that is, when you give us strength to fight them, then by your favour we shall overcome (साक्षाम (*sākṣāma*)) those harmful (शाशदानान् (*śāśadānān*)) enemies with our arms (बाहुभिः (*bāhubhiḥ*)) alone, needing no weapons. Or else (यद्वा (*yadvā*)): if you, surrounded by the leaders, the Maruts (नृभिः (*nṛbhiḥ*)), fight (अभियुध्याः (*abhiyudhyāḥ*)) against our enemies, then with you as helper we shall win that battle, which is the cause of fair fame or food (सौश्रवसं (*sauśravasaṃ*); *śravaḥ* = food or glory).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यत् (*yat*)—when
+- महतः (*mahataḥ*)—of many in number
+- मन्यमानान् (*manyamānān*)—who think themselves the greater, enemies
+- योधयाः (*yodhayāḥ*)—you make us fight, as our helper
+- then शाशदानान् (*śāśadānān*)—harmful
+- तान् (*tān*)—those same enemies
+- बाहुभिः (*bāhubhiḥ*)—with the arms alone, without weapons
+- साक्षाम (*sākṣāma*)—we shall be able to conquer
+- यद्वा (*yadvā*)—or
+- इंद्र (*iṃdra*)—O Indra
+- नृभिः (*nṛbhiḥ*)—with the Maruts, the leaders
+- वृतः (*vṛtaḥ*)—you, surrounded
+- अभियुध्याः (*abhiyudhyāḥ*)—if you fight against the enemies
+- सौश्रवसं (*sauśravasaṃ*)—the cause of excellent food
+- तं आजिं (*taṃ ājiṃ*)—that battle
+- त्वया (*tvayā*)—with your help
+- जयेम (*jayema*)—we shall be able to win
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when we fight enemies who are many and who think themselves the mighty ones, and you stand as our helper and make us fight, then we are able to conquer those same harmful enemies by the strength of our arms alone, without weapons. Or else, if you, surrounded by the Maruts, the leaders, fight the enemies, then in that battle, the cause of excellent food, we shall be able to win with your help.
+
+##### English translation
+When you enable us to encounter mighty and arrogant (enemies) we are competent to overcome the malignants by our (unarmed) hands alone; and when you, Indra, surrounded by your attendant (Maruts), fight against them, we shall triumph, aided by you, (in) that glorious war.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेंद्र॑स्य वोचं प्रथ॒मा कृ॒तानि॒ प्र नूत॑ना म॒घवा॒ या  ॒॑
+> चकार ।  
+> य॒ुदेददे॑वी॒रस॑हिष्ट मा॒या अथा॑भव॒त्केव॑लः॒ सोमो॑ अस्य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । इंद्रस्य । वोचं । प्रथमा । कृतानि । प्र । नूतना । मघवा । या । चकार ।  
+> यदा । इत् । अदेवीः । असहिष्ट । मायाः । अथ । अभवत् । केवलः । सोमः ।  
+> अस्य ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रस्य कृतानि वीर्यकर्माणि प्रथमा प्रथमानि पुरातनानि प्र वोचं ।
+> प्रब्रवीमि । मघवा मघवानिंद्रो या यानि चकार कृतवान् नूतना नूतनान्यभिनवानि च तानि प्र वोचं । यदेद्यदैवादेवीरासुरीर्मायास्तैः कृतान्यसहिष्ट ।
+> अभ्यभूत् अथानंतरमेवास्येंद्रस्य सोमः केवलोऽसाधारणोऽभवत् । तदाप्रभृत्येव सोमस्येंद्रस्य चासाधारणः संबंधो जाता इत्यर्थ: ॥
+
+##### Gist of the bhāṣya
+
+"I proclaim (प्र वोचं (*pra vocaṃ*)) the first, that is the ancient, heroic deeds (कृतानि (*kṛtāni*)) of Indra; and I proclaim also the new (नूतना (*nūtanā*)), recent ones that Maghavan Indra has done." When (यदा इत् (*yadā it*)) he overcame the undivine (अदेवीः (*adevīḥ*)), that is, demoniac, illusions (मायाः (*māyāḥ*)) wrought by them, then immediately afterwards the Soma became exclusively (केवलः (*kevalaḥ*) = *asādhāraṇaḥ*) Indra's. The meaning is that from that time the connection between Soma and Indra has been exclusive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- प्रथमा (*prathamā*)—ancient
+- कृतानि (*kṛtāni*)—heroic deeds
+- प्र वोचं (*pra vocaṃ*)—I praise
+- मघवा (*maghavā*)—Indra, the wealthy
+- नूतना (*nūtanā*)—new
+- या (*yā*)—which
+### Printed p. 181
+heroic deeds
+- चकार (*cakāra*)—he did, those also
+- प्र (*pra*) (वोचं (*vocaṃ*))—I praise
+- यदा इत् (*yadā it*)—when
+- अदेवीः (*adevīḥ*)—wrought by the asuras
+- मायाः (*māyāḥ*)—deceitful acts **NOTE**
+- असहिष्ट (*asahiṣṭa*)—Indra destroyed and conquered
+- अथ (*atha*)—immediately thereafter
+- अस्य (*asya*)—to this Indra
+- सोमः (*somaḥ*)—the Soma-juice
+- केवलः (*kevalaḥ*)—exceedingly dear
+- अभवत् (*abhavat*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+I praise the ancient heroic deeds of Indra. I also praise the new heroic deeds that the wealthy Indra has done. When Indra destroyed and conquered the deceitful acts wrought by the asuras, immediately thereafter the Soma-juice became an exceedingly dear thing to Indra.
+
+##### English translation
+I proclaim the ancient exploits of Indra, the recent deeds that Maghavan has achieved: when indeed he had overcome the undivine illusion, thenceforth the Soma became his exclusive (beverage).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवे॒दं विश्व॑म॒भितः॑ पश॒व्यं१॒॑गि यत्पश्य॑सि॒ चक्ष॑सा॒ सूर्य॑स्य ।  
+> गवा॑मसि॒ गोप॑ति॒रेक॑ इंद्र भक्षी॒महि॑ ते॒ प्रय॑तस्य॒ वस्वः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । इदं । विश्वं । अभितः । पशव्यं । यत् । पश्यसि । चक्षसा । सूर्यस्य ।  
+> गवां । असि । गोःऽपतिः । एकः । इंद्र । भक्षीमहि । ते । प्रयतस्य । वस्वः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पशव्यं । पशवो द्विविधा द्विपादश्चतुष्पादश्च । तेभ्यो हितमभितः
+> सर्वतो विद्यमानमिदं विश्वं सर्वं जगत्तवेत्तवैव स्वभूतं । सूर्यस्य प्रेरकस्यादित्यस्य चक्षसा तेजसा यद्विश्वं पश्यसि त्वं प्रकाशयसि । अपि च हे इंद्र एक एव
+> त्वं गोपतिरसि । न केवलमेकस्या एव गोपतिरसि तु सर्वासामित्याह गवामिति ।
+> अतः कारणात्ते त्वया प्रयतस्य प्रत्यस्य । द्वितीयार्थे षष्ठी । प्रत्तं वस्वो धनं
+> भक्षीमहि । भजेमहि !
+> कलु	सारथ्यभाष्यसहिता	[ मं. ७. अ. ६. सू. ४८.
+
+##### Gist of the bhāṣya
+
+O Indra, this whole world, existing on all sides (अभितः (*abhitaḥ*)) and good for (*hitaṃ*) animals (पशव्यं (*paśavyaṃ*)) — animals being of two kinds, two-footed and four-footed — is your own. By the light (चक्षसा (*cakṣasā*) = तेजसा (*tejasā*)) of the sun, the impeller, you illumine whatever you look upon (पश्यसि (*paśyasi*)). Moreover you alone are lord of cows (गोपतिः (*gopatiḥ*)); not of one cow only but of all, which is what गवां (*gavāṃ*) says. Therefore may we enjoy (भक्षीमहि (*bhakṣīmahi*) = भजेमहि (*bhajemahi*)) the wealth (वस्वः (*vasvaḥ*)) given (प्रयतस्य (*prayatasya*) = प्रत्यस्य (*pratyasya*)) by you; the genitive stands in the sense of the accusative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) पशव्यं (*paśavyaṃ*)—that which belongs to all animals
+- अभितः (*abhitaḥ*)—pervading everywhere
+- इदं विश्वं (*idaṃ viśvaṃ*)—this whole world
+- तवेत् (*tavet*)—is yours alone
+- सूर्यस्य (*sūryasya*)—of the sun
+- चक्षसा (*cakṣasā*)—by the brilliance
+- यत् (*yat*)—which same whole world
+- पश्यसि (*paśyasi*)—you cause to shine
+- इंद्र (*iṃdra*)—O Indra
+- गवां (*gavāṃ*)—of all cows
+- एकः (*ekaḥ*)—you alone
+- गोपतिः (*gopatiḥ*)—as herdsman
+- असि (*asi*)—you are
+- ते (*te*)—by you
+- प्रयतस्य (*prayatasya*)—given
+- वस्वः (*vasvaḥ*)—the wealth
+- भक्षीमहि (*bhakṣīmahi*)—cause us to enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this whole world, which belongs to all animals and pervades everywhere, is yours alone. It is you who cause this whole world to shine by the brilliance of the sun. O Indra, you alone are the herdsman of all cows. Cause us also to enjoy the wealth given by you.
+
+##### English translation
+Yours is all this animal world around you, which you illume with the light of the sun : you, Indra, are the one lord of cattle, thence may we possess wealth bestowed by you.
+
+### Printed p. 182
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॑स्पते यु॒वमिंद्र॑श्च॒ वस्वो॑ दि॒व्यस्ये॑शाथे उ॒त पार्थि॑वस्य ।  
+> ध॒त्तं र॒यिं स्तु॑व॒ते की॒रिये॑ चिद्र्यु॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पते । युवं । इंद्रः । च । वस्वः । दिव्यस्य । ईशाथे इति । उत । पार्थिवस्य ।  
+> धत्तं । रयिं । स्तुवते । कीरये । चित् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्याख्यातेयं । अक्षरार्थस्तु । हे बृहस्पते त्वं चेंद्रश्च युवां दिव्यस्य.
+> पार्थिवस्य चोभयविधस्य धनस्येश्वरौ भवथः । तौ युवां स्तुवते स्तोत्रे धनु
+> दत्तमिति ॥
+
+##### Gist of the bhāṣya
+
+This ṛk has been explained already (व्याख्यातेयं (*vyākhyāteyaṃ*)). The word-meaning is as follows: O Bṛhaspati, you and Indra, you two, are lords of both kinds of wealth, celestial and terrestrial. Give wealth to the worshipper who praises you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati (you)
+- इंद्रश्च (*iṃdraśca*)—and Indra
+- युवं (*yuvaṃ*)—you two
+- दिव्यस्य (*divyasya*)—of what is born of the world of the gods
+- उत (*uta*)—and
+- पार्थिवस्य (*pārthivasya*)—of what is born of the earth
+- वस्वः (*vasvaḥ*)—of all wealth
+- ईशाथे (*īśāthe*)—you are the lords
+- स्तुवते (*stuvate*)—who praises you
+- कीरये (*kīraye*)—to the praiser
+- रयिं (*rayiṃ*)—wealth
+- धत्तं (*dhattaṃ*)—give
+- यूयं (*yūyaṃ*)—all of you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, you and Indra together are owners of all wealth, whether born of the world of the gods or born of the earth. Give wealth to the praiser who praises you. May all of you always protect us with blessings.
+
+##### English translation
+You two, Brihaspati and Indra, are lords of both celestial and terrestrial treasure: grant riches to the worshipper who praises you: and you (gods) ever cherish us with blessings.
+
+## Sūkta 99 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परो मात्रयेति सप्तर्चं दशमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं । उरुं
+> यज्ञायेत्याद्यास्तिस्र ऐंद्रावैष्णव्यः शिष्टाः केवलविष्णुदेवताकाः । तथा चानुक्रांतं । परो वैष्णवं तूरुमित्यैंद्रश्च तिस्र इति ॥ गतः सूक्तविनियोगः ॥ विष्णुदेवताके पशौ परो मात्रयेति पुरोडाशस्य याज्या । सूत्रितं च । परो
+> मात्रया तन्ना वृधानेरावती धेनुमती हि भूतं । आ. ३-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, परो मात्रया (*paro mātrayā*), of seven ṛks, is the ārṣa of Vasiṣṭha, in the Triṣṭubh metre. The first three ṛks beginning उरुं यज्ञाय (*uruṃ yajñāya*) **NOTE** are addressed to Indra and Viṣṇu; the remaining ones have Viṣṇu alone as deity. So the Anukramaṇī: परो वैष्णवं तूरुमित्यैंद्रश्च तिस्र इति (*paro vaiṣṇavaṃ tūrumityaiṃdraśca tisra iti*). The use of the sūkta has been stated. At the animal sacrifice with Viṣṇu as deity, परो मात्रया (*paro mātrayā*) is the yājyā for the purodāśa. It is laid down in the sūtra: परो मात्रया तन्ना वृधानेरावती धेनुमती हि भूतं (*paro mātrayā tannā vṛdhānerāvatī dhenumatī hi bhūtaṃ*) (Ā. 3-8) **NOTE**.
+
+##### Anuvāda
+
+This sūkta beginning परो मात्रया (*paro mātrayā*) is the tenth sūkta in the sixth anuvāka. It has seven ṛks. Vasiṣṭha is the ṛṣi of this sūkta; the metre is Triṣṭubh. The three ṛks beginning उरुं (*uruṃ*) have Indra and Viṣṇu as deity; the remaining ṛks have Viṣṇu alone as deity. In the Anukramaṇī it is said: परो वैष्णवं तूरुमित्यैंद्रश्च तिस्रः (*paro vaiṣṇavaṃ tūrumityaiṃdraśca tisraḥ*). The use of the sūkta has been explained earlier. At the animal sacrifice with Viṣṇu as deity, while offering the purodāśa, the ṛk परो मात्रया (*paro mātrayā*) is to be recited as the yājyā mantra; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra (Ā. 3-8): परो मात्रया तन्ना वृधानेरावरी धेनुमती हि भूतं (*paro mātrayā tannā vṛdhānerāvarī dhenumatī hi bhūtaṃ*).
+
+Maṇḍala 7; Anuvāka 6; Sūkta 99; Aṣṭaka 5; Adhyāya 6; Varga 24. Number of ṛks in the sūkta: 7. Ṛṣi: Vasiṣṭha. Deity: 1–3, 7 Viṣṇu; 4–6 Indra and Viṣṇu. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रो मात्र॑या त॒न्वा॑ वृधान॒ न ते॑ महि॒त्वमन्॑श्नुवंति ।  
+> उ॒भे ते॑ विद्म॒ रज॑सी पृथि॒व्या विष्णो॑ देव॒ त्वं प॑र॒मस्य॑ वित्से ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परः । मात्रया । तन्वा । व धान । न । ते । महित्वं । अनु । अश्नुवंति ।  
+> उभे इति । ते । विद्म । रजसी इति । पृथिव्याः । विष्णो इति । देव । त्वं । परमस्य ।  
+> वित्से ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर इति सकारांतं परस्तादित्यस्यार्थे ॥ परशब्दाच्छांदसोऽसिप्रत्ययः परो
+> दिवा पर एना पृथिव्या । ऋ. १०-८२-५ । इति यथा । मात्रयेति व्यत्ययेन तृतीया ॥
+> मात्रया परः परस्ताद्वर्तमानयापरिमितया तन्ना शरीरेण वृधान वर्धमान हे
+> विष्टो ते तव महित्वं महत्त्वं नान्वश्नुवंति । नानुव्याप्नुवंति । त्रैविक्रमसमये
+> यत्तव माहात्म्यं तत्सर्वैरपि जनैर्ज्ञातुं न शक्यत इत्यर्थः । ते तवोभे रजसी
+> उभौ लोकौ पृथिव्या आरभ्य पृथिवीमंतरिक्षं च विद्म । जानीमः । वयं चक्षुषोपलभामहे नान्यत् । हे देव द्योतमान विष्टो त्वमेव परमस्य स्वर्गादेरुतृष्टलोकस्य । द्वितीयार्थे षष्ठी। परमं लोकं वित्से जानासि । अतस्तव महत्त्वं
+> न केनापि व्याप्त्रुं शक्यमिति भावः ॥
+
+##### Gist of the bhāṣya
+
+परः (*paraḥ*) ends in s and has the sense of *parastāt* ("beyond"); the affix असि (*asi*) after पर (*para*) is Vedic, as in परो दिवा पर एना पृथिव्या (*paro divā para enā pṛthivyā*) (Ṛ. Saṃ. 10-82-5). मात्रया (*mātrayā*) is an instrumental by vyatyaya. O Viṣṇu, growing (वृधान (*vṛdhāna*)) with a body that lies beyond measure, men do not attain your greatness (महित्वं (*mahitvaṃ*)). At the time of the three strides, the glory that is yours cannot be known by any people. We know both your worlds (रजसी (*rajasī*)), beginning from the earth, the earth and the atmosphere, as we perceive them with the eye, and no other. O shining god Viṣṇu, you alone know the highest (परमस्य (*paramasya*)), the supreme world such as heaven; the genitive stands in the sense of the accusative. Therefore your greatness cannot be encompassed by anyone.
+### Printed p. 184
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मात्रया परः (*mātrayā paraḥ*)—beyond measure (that cannot be measured)
+- तन्वा (*tanvā*)—with the body
+- वृधान (*vṛdhāna*)—O Viṣṇu, who have attained growth
+- ते (*te*)—your
+- महित्वं (*mahitvaṃ*)—greatness
+- न अन्वश्नु वंति (*na anvaśnu vaṃti*)—none among men can know
+- पृथिव्याः (*pṛthivyāḥ*)—beginning from the earth
+- ते (*te*)—your
+- उभे रजसी (*ubhe rajasī*)—the two worlds only, earth and atmosphere
+- विद्म (*vidma*)—we have known
+- देव (*deva*)—shining
+- विष्णो (*viṣṇo*)—O Viṣṇu
+- त्वं (*tvaṃ*)—you alone
+- परमस्य (*paramasya*)—the most excellent other world
+- वित्से (*vitse*)—have known
+
+##### भावार्थ (Bhāvārtha)
+
+O Viṣṇu, who have attained growth with a body that cannot be measured, none among men can know your greatness. Only your two worlds, the earth and the atmosphere, beginning from the earth, have we known. O shining Viṣṇu, you alone have known the most excellent other world.
+
+##### English translation
+Expanding with a body beyond all measure, Vishnu, men comprehend not your magnitude: we know these your two worlds (computing) from the earth, but you, divine Vishnu, are cognisant of the highest.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ते॑ विष्णो॒ जाय॑मानो॒ न जा॒तो देव॑ महि॒म्नः पर॒मंत॑माप ।  
+> उद॑स्तभ्ना॒ नाक॑मृ॒ष्टं बृ॒हंतं॑ दा॒धर्थ॒ प्राची॑ क॒कुभं॑  ॒
+> पृथिव्याः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ते । विष्णो इति । जायमानः । न । जातः । देव । महिम्नः । परं । अंतं ।  
+> आप ।  
+> उत् । अस्तभ्नाः । नाकं । ऋष्वं । बृहंतं । दादर्थ । प्राचीं । ककुभं । पृथिव्याः॥  
+> 184 सायणभाव्यसहिता [ मं. ७. अ. ६. सू. ९९.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एव पशौ न ते विष्णो इति वपाया अनुवाक्या । सूत्रितं च । न ते
+> विष्णो जायमानो न जातस्त्वं विष्णो सुमतिं विश्वजन्यां । आ. ३-८ । इति ॥
+> हे देव दानादिगुणयुक्त विष्णो ते तव महिम्मो महत्त्वस्य परं विप्रकृष्टमंतमवसानं जायमानः प्रादुर्भवञ्जनो नाप । न प्रापोति । तथा जातः
+> प्रादुर्भूतोऽपि जनो नैव प्राप्नोति । तव महत्त्वस्यावसानं नास्ति । अत एव
+> सर्वैर्न ज्ञायत इति भावः । कोऽसौ महिमा तमाह । ऋष्टं दर्शनीयं बृहंतं
+> महांतं नाकं द्युलोकमुदस्तभ्नाः । त्वमूर्ध्वमधारयः । यथाधो न पतति
+> तथा । पृथिव्या भूमेः संबंधिनीं प्राचीं ककुभं च दाधर्थ । धारितवानसि । उपलक्षणमेतत् सर्वस्य भूतजातस्य । तथा च मंत्रांतरं । य उ त्रिधातु पृथिवीमुत
+> द्यामेको दाधार भुवनानि विश्वा । ऋ. १-१५४.४ । इति ॥
+
+##### Gist of the bhāṣya
+
+At the same animal sacrifice mentioned before, न ते विष्णो (*na te viṣṇo*) is the anuvākyā for the vapā. It is laid down in the sūtra: न ते विष्णो जायमानो न जातस्त्वं विष्णो सुमतिं विश्वजन्यां (*na te viṣṇo jāyamāno na jātastvaṃ viṣṇo sumatiṃ viśvajanyāṃ*) (Ā. 3-8). O god Viṣṇu, endowed with qualities such as generosity, no person, whether being born (जायमानः (*jāyamānaḥ*)) or already born (जातः (*jātaḥ*)), reaches (आप (*āpa*)) the far end (परं अंतं (*paraṃ aṃtaṃ*)) of your greatness (महिम्नः (*mahimnaḥ*)). Your greatness has no end; therefore it is not known by all. What is that greatness? You propped up (उदस्तभ्ना (*udastabhnā*)) the beautiful (ऋष्वं (*ṛṣvaṃ*)), vast (बृहंतं (*bṛhaṃtaṃ*)) heaven (नाकं (*nākaṃ*)), holding it upwards so that it does not fall down; and you also held (दाधर्थ (*dādhartha*)) the eastern region (प्राचीं ककुभं (*prācīṃ kakubhaṃ*)) of the earth. This is an indication of all that has come into being. So another mantra: य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा (*ya u tridhātu pṛthivīmuta dyāmeko dādhāra bhuvanāni viśvā*) (Ṛ. Saṃ. 1-154.4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—endowed with qualities such as generosity
+- विष्णो (*viṣṇo*)—O Viṣṇu
+- ते (*te*)—your
+- महिम्मः (*mahimmaḥ*)—of greatness
+- परं (*paraṃ*)—excessive
+- अंतं (*aṃtaṃ*)—the end
+- जायमानः (*jāyamānaḥ*)—no man who will be born hereafter
+- न आप (*na āpa*)—can approach
+- जातः (*jātaḥ*)—no man who has been born
+- न (*na*)—can approach
+- (you)
+- ऋष्टं (*ṛṣṭaṃ*)—of attractive form **NOTE**
+- बृहंतं (*bṛhaṃtaṃ*)—of vast nature
+- नाकं (*nākaṃ*)—heaven
+- उदस्तभ्ना (*udastabhnā*)—you have lifted and held up **NOTE**
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- प्राचीं ककुभं (*prācīṃ kakubhaṃ*)—the eastern quarter
+- दाधर्थ (*dādhartha*)—you have held
+
+##### भावार्थ (Bhāvārtha)
+
+O Viṣṇu, endowed with qualities such as generosity, no man, whether now born or to be born hereafter, can approach the excessive end of your greatness. That greatness is this: you have lifted and held up heaven, of attractive form and vast nature. You have also held the eastern quarter of the earth.
+
+##### English translation
+No being that is or that has been born, divine Vishnu, has attained the utmost limit of your magnitude, by which you have upheld the vast and beautiful heaven, and sustained the eastern horizon of the earth.
+
+### Printed p. 185
+
+##### विशेषविषयगळु (Special Topics)
+
+At the animal sacrifice with Viṣṇu as deity mentioned earlier, while offering the vapā, this ṛk न ते विष्णो (*na te viṣṇo*) is to be recited as the anuvākyā mantra; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra (Ā. 3-8): न ते विष्णो जायमानो न जातस्त्वं विष्णो सुमतिं विश्वजन्यां (*na te viṣṇo jāyamāno na jātastvaṃ viṣṇo sumatiṃ viśvajanyāṃ*).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इरा॑वती धेनु॒मती॒ हि भू॒तं सू॑यव॒सिनी॒ मनु॑षे दश॒स्या ।  
+> व्य॑स्तभ्ना॒ रोद॑सी विष्णवे॒ते दा॒दर्थ॑ पृथि॒वीम॒भितो॑  ॒॑
+> मयूखैः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इरावती इतीरावती । धेनुमती इति धेनुमती । हि । भूतु । सुयवसिनी  
+> इति सुयवसिनी । मनुषे । दशस्या ।  
+> वि । अस्तभ्नाः । रोदसी इति । विष्णो इति । एते इति । दादर्थ । पृथिवीं । अभितः ।  
+> मयूखैः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एव पशाविरावती इति हविषो याज्या । सूत्रितु च । इरावती
+> धेनुमती हि भूतं विश्वकर्मन्ह विषा नावृधान इति द्वे । आ. ३-८ । इति ॥
+> हे द्यावापृथिव्यौ मनुषे स्तवते मनुष्याय दशस्या दित्सया युक्ते
+> युवामिरावती अन्नवत्यौ धेनुमती गोमत्यौ सूयवसिनी शोभनयवसे च
+> भूतं । अभूतं । हिशब्दः प्रसिद्धौ । विष्णुना विक्रांतत्वाद्युवामेवमेव खलु पूर्वमभूतमित्यर्थः । हे विष्णो एते इमे रोदसी द्यावापृथिव्यौ व्यस्तभ्नाः । विविधमधारयः । पृथिवीमूर्ध्वमुखत्वेन द्यामधोमुखत्वेनेति विविधत्वं । अपि च
+> पृथीविं प्रथितामिमां भूमिमभितः सर्वत्र स्थितैर्मयूख्यैः पर्वतैर्दाधर्थ ।
+> धारितवानसि । यथा न चलति तथा दृढीकृतवानित्यर्थः । पर्वता हि विष्णोः स्वभूताः । विष्णुः पर्वतानामधिपतिरिति श्रुतेः । तै. सं. ३-४-५-१ ॥
+
+##### Gist of the bhāṣya
+
+At the same animal sacrifice, इरावती (*irāvatī*) is the yājyā for the havis. It is laid down in the sūtra: इरावती धेनुमती हि भूतं विश्वकर्मन्ह विषा नावृधान इति द्वे (*irāvatī dhenumatī hi bhūtaṃ viśvakarmanha viṣā nāvṛdhāna iti dve*) (Ā. 3-8). O heaven and earth, for the man (मनुषे (*manuṣe*)), the worshipper, who is desirous of giving (दशस्या (*daśasyā*) = दित्सया (*ditsayā*)), you two have become rich in food (इरावती (*irāvatī*)), rich in cows (धेनुमती (*dhenumatī*)) and possessed of good pasture (सूयवसिनी (*sūyavasinī*)); हि (*hi*) is the word of well-known fact. Because of Viṣṇu's striding, you two were formerly just so. O Viṣṇu, you propped apart (व्यस्तभ्नाः (*vyastabhnāḥ*) = विविधमधारयः (*vividhamadhārayaḥ*)) these two worlds (रोदसी (*rodasī*)), the earth with its face upward and heaven with its face downward, hence "variously". And you held (दाधर्थ (*dādhartha*)) the broad earth (पृथिवीं (*pṛthivīṃ*)) all around with the mountains (मयूखैः (*mayūkhaiḥ*) = *parvataiḥ*), making it firm so that it does not move. The mountains are Viṣṇu's own, by the Śruti विष्णुः पर्वतानामधिपतिरिति (*viṣṇuḥ parvatānāmadhipatiriti*) (Tai. Saṃ. 3-4-5-1).
+
 ---
 
-**Progress note:** Done through printed p. 175. pp. 167-175 (batch API)
+**Progress note:** Done through printed p. 185. pp. 178-185 (batch API)
