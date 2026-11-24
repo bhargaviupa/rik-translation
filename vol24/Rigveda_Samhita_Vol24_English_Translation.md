@@ -29671,6 +29671,328 @@ Of him who is variously conceived by the noble minded priests engaged
 in this rite who do not atter any word, are engaged as a priest, how little do
 the worshippers know of him.
 
+### Printed p. 653
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एक॑ ए॒वाग्निर्ब॑हु॒धा समि॑द्ध॒ एकः॒ सूर्यो॒ विश्व॒मनु॒ प्रभू॑तः ।  
+> एकै॒वोषाः सर्व॑मि॒दं वि भा॒त्येकं॒ वा इ॒दं वि ब॑भूव॒  ॑
+> सर्वं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकः । एव । अग्निः । बहुधा । संइद्दः । एकः । सूर्यः । विश्वं । अनु । प्रभूतः ।  
+> एका । एव । उषाः । सर्वं । इदं । वि । भाति । एकं । वै । इदं । वि । बभूव । सर्वं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकः केवल एनाग्निः दानादिगुणयुक्तो देवः बहुधा बाडववैद्युताद्यनेकप्रकारेण समिद्धः सम्यक् दीपो भवति । यथा एकः एकाकी सूर्यः प्राणिनां
+> सुष्टु कर्मस्वीरयिता देवः विश्वं सर्वं जगदनु अनुप्रविश्य । तत्सृष्टा तदेवानुप्राविशत् (तै. उ. २-६) इति श्रुतेः । प्रभूतः अनेकात्मकया प्रादुर्भूतोऽस्ति ।
+> सूर्य आत्मा जगतस्तस्थुषश्च (ऋ. सं. १-११५-१) इति श्रुतेः । किंच एका एकाकिन्नेव
+> उषाः तमो विवासयंती देवी सर्वं समस्तमिदं दृश्यमानं जगत् वि भाति
+> विशेषेण दीपयति । तस्मादेकं वै एकमेवाद्वितीयं ब्रह्म इदमाब्रह्मस्तंबपर्यंतं जगत् वि बभूव विशेषेणाभवदिति युक्तमिति शेषः । यदाग्न्यादयो
+> देवा अष्टेकाकिनः संतोऽनेकभवनसमर्थास्तदा परं ब्रह्म एकं सदनेकं भवेदिति
+> किमु वक्तव्यमित्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+Only one Agni, a god endowed with qualities such as bounty, is kindled well in many ways, as the submarine fire, as lightning and in other manifold forms. As the one, lone Sun, the god who rouses beings well to action, having entered into the whole world, as the Śruti says तत्सृष्टा तदेवानुप्राविशत् (*tatsṛṣṭā tadevānuprāviśat*) (Tai. U. 2-6) **NOTE** **GLOSS**, has appeared in many forms; for the Śruti says सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*) (Ṛ. Saṃ. 1-115-1) **GLOSS**. Further, the one Dawn alone, the goddess who drives away the darkness, makes all this visible world shine forth in particular. Therefore it is fitting (this is to be supplied) that the one, non-dual Brahman became this world, from Brahmā down to a blade of grass, in particular forms. When gods such as Agni, although single, are able to become many, what need is there to say that the supreme Brahman, being one, should become many: such is the intention.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एक एवाग्निः (*eka evāgniḥ*)—the one Agni, of the nature of truth
+- बहुधा (*bahudhā*)—in many forms, such as lightning
+- समिद्धः (*samiddhaḥ*)—is kindled
+- एकः सूर्यः (*ekaḥ sūryaḥ*)—the one Sun
+- विश्वं अनु (*viśvaṃ anu*)—having entered the whole world
+- प्रभूतः (*prabhūtaḥ*)—is produced in different forms
+- एक एव उषाः (*eka eva uṣāḥ*)—the one goddess Dawn
+- इदं सर्वं (*idaṃ sarvaṃ*)—all this world
+- वि भाति (*vi bhāti*)—illumines
+- एकं ना इदं (*ekaṃ nā idaṃ*)—this one principle, of the nature of truth
+- सर्वं (*sarvaṃ*)—in all the forms of the world
+- वि बभूव (*vi babhūva*)—has been transformed
+
+### Printed p. 654
+
+##### भावार्थ (Bhāvārtha)
+
+The one Agni, of the nature of truth, is kindled in many forms such as lightning. The one Sun, having entered the whole world, is produced in different forms. The one goddess of dawn illumines this whole world. This one principle, of the nature of truth, has been transformed into all the forms of the world.
+
+##### English translation
+Sage Agni appears kindled in many forms; one Sun lords over the whole world ; one Dawn reveal every thing. One is in various forms.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज्योति॑ष्मंतं केतु॒मंतं॑ त्रिच॒क्रं सु॒खं रथं॑ सु॒षदं॒ भूरि॑वारं ।  
+> चि॒त्राम॑घा॒ यस्य॒ योगे॑ऽधिजज्ञे॒ तं वां॑ हु॒वे अति॑ रिक्तं॒  ॑
+> पिबध्यॆ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ज्योतिष्मंतं । केतुमंतं । त्रिचक्रं । सुखं । रथं । सुसदं । भूरिवारं ।  
+> चित्रमघा । यस्य । योगे । अधिजज्ञे । तं । वां । हुवे । अति । रिक्तं । पिबध्यै ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वेदेवाः वां । वचनव्यत्ययश्चादसः । वो युष्माकं मध्यॆ अतिरिक्तं
+> निरतिशयं तं तच्छब्दवाच्यं परमात्मानं पिबध्यॆ सोमं पातुं हुवे आह्वयामि ।
+> तं कं । यस्य परमात्मनः योगे सेव्यसेवकभावसंबंधे सति चित्रमघा । चित्रं
+> चायनीयं मघं गवाश्वादिलक्षणं धनं यस्याः सा चित्रमघा । पूजनीयानेकधनोपेता लक्ष्मीः अधि जज्ञे अधिकं प्रादुरभूत् युधिष्ठिरादेस्तं । केदृशं तं ।
+> ज्योतिष्मंतं ज्योतींषि सूर्यादीनि प्रकाश्यत्वेन संति यस्य तं । तस्य भासा
+> सर्वमिदं विभाति इति श्रुतेः । केतुमंतं । केतवः प्रज्ञाः विषयाः संति यस्य तं ।
+> यः सर्वज्ञः सर्ववित् (मु. उ. १-१-९) इति श्रुतेः । केतुरिति प्रज्ञानाम । केतुः
+> केत इति तन्नामसु पाठात् । त्रिचक्रं त्रिषु भूरादिलोकेषु चक्रं चंक्रमणं
+
+##### Gist of the bhāṣya
+
+O Viśvedevas, "among you" (the change of number is Vedic): I call that unsurpassed one, the Supreme Self, indicated by the word "that", to drink Soma. Which one? He in union with whom, that is, in the relation of served and servant, Lakṣmī, endowed with wonderful, desirable wealth in the form of cows, horses and the like, arose in abundance, as to Yudhiṣṭhira and others **NOTE**. What is he like? ज्योतिष्मंतं (*jyotiṣmaṃtaṃ*): he who has lights such as the Sun as things to be illumined; for the Śruti says तस्य भासा सर्वमिदं विभाति (*tasya bhāsā sarvamidaṃ vibhāti*) **GLOSS**. केतुमंतं (*ketumaṃtaṃ*): he who has cognitions, that is, cognitions, as his objects; for the Śruti says यः सर्वज्ञः सर्ववित् (*yaḥ sarvajñaḥ sarvavit*) (Mu. U. 1-1-9) **NOTE** **GLOSS**; केतुः (*ketuḥ*) is a name for cognition, since केतुः केत (*ketuḥ keta*) are read among its names. त्रिचक्रं (*tricakraṃ*): he who has a striding, that is, a striding, in the three worlds, Bhūḥ and the rest,
+
+### Printed p. 655
+
+> त्रिविक्रमावतारे यस्य तं । इदं विष्णुर्विचक्रमे (ऋ. सं. १-१३-१७) इत्यादि श्रुतेः ।
+> यद्वा त्रिषु लोकेषु अप्रतिहतं चक्रं सुदर्शनाख्यं यस्य तं । सुखं निरतिशयानंदात्मकं । ओं कं ब्रह्म खं इति श्रुतेः । रथं रंहणस्वभावं । गमनशीलमिति
+> यावत् । अपाणिपादो जवनो ग्रहीता (श्वे. उ. ३-१९) इति श्रुतेः । सुषदं ।
+> शोभने आत्मस्वरूपे सीदति तिष्ठतीति सुषत् सुप्रतिष्ठः तं । प्रज्ञा प्रतिष्ठा प्रज्ञानं
+> ब्रह्म इति श्रुतेः । भूरिवारं भूरिभिर्बहुभिः प्राणिभिः वारो वरणेयस्तं ।
+> सर्वात्मकत्वात् सर्वप्रियत्वमुचितमस्य । आत्मनः कामाय सर्वं प्रियं भवति
+> (बृ उ. २-४-५) इति श्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+in the Trivivikrama incarnation, as the Śruti and so on say इदं विष्णुर्विचक्रमे (*idaṃ viṣṇurvicakrame*) (Ṛ. Saṃ. 1-13-17) **NOTE** **GLOSS**. Or else, he whose discus, called Sudarśana, is unobstructed in the three worlds. सुखं (*sukhaṃ*): of the nature of unsurpassed bliss; for the Śruti says ओं कं ब्रह्म खं (*oṃ kaṃ brahma khaṃ*) **GLOSS**. रथं (*rathaṃ*): of the nature of swiftness, that is, given to moving; for the Śruti says अपाणिपादो जवनो ग्रहीता (*apāṇipādo javano grahītā*) (Śve. U. 3-19) **NOTE** **GLOSS**. सुषदं (*suṣadaṃ*): he who abides, that is, stands, in his own beautiful nature of the Self, well established; for the Śruti says प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म (*prajñā pratiṣṭhā prajñānaṃ brahma*) **GLOSS**. भूरिवारं (*bhūrivāraṃ*): he who is to be chosen by many beings. Since he is of the nature of all, being dear to all is fitting for him; for the Śruti says आत्मनः कामाय सर्वं प्रियं भवति (*ātmanaḥ kāmāya sarvaṃ priyaṃ bhavati*) (Bṛ. U. 2-4-5) **GLOSS**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—(O Viśvedevas) of which Supreme Self
+- योगे (*yoge*)—there being connection
+- चित्रामघा (*citrāmaghā*)—the worshipful goddess of wealth
+- अधिजज्ञॆ (*adhijajñè*)—is born, such a one
+- वां (*vāṃ*)—among all of you
+- अति रिक्तं (*ati riktaṃ*)—one of surpassing glory
+- ज्योतिष्मंतं (*jyotiṣmaṃtaṃ*)—one possessed of radiance, who causes light even to the Sun and the rest
+- केतुमंतं (*ketumaṃtaṃ*)—one who has cognition as his object
+- त्रिचक्रं (*tricakraṃ*)—one whose nature is to move in the three worlds
+- सुखं (*sukhaṃ*)—the giver of unsurpassed bliss of the Self
+- रथं (*rathaṃ*)—one given to moving
+- सुषदं (*suṣadaṃ*)—one whose state in the Self is excellent
+- भूरिवारं (*bhūrivāraṃ*)—one who is worthy of the search of all
+- तं (*taṃ*)—that Supreme Self
+- पिबध्यै (*pibadhyai*)—to drink Soma
+- हुवे (*huve*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O Viśvedevas, I pray and call that Supreme Self, to drink Soma: he in connection with whom the worshipful goddess of wealth is born; one of surpassing glory among all of you; one possessed of radiance, who causes light even to the Sun and the rest; one who has cognition as his object; one whose nature is to move in the three worlds; the giver of unsurpassed bliss of the Self; one given to moving; one whose state in the Self is excellent; and one who is worthy of the search of all.
+
+##### English translation
+Dazzling chariot moving quickly on its three wheels, sending out brilliance with easy seat and abundance with his approach the dawn came out with wounderful abundance ; come here and drink in your charit.
+
+### Printed p. 656
+## Sūkta 59 (Maṇḍala 8)
+
+##### Anuvāda
+
+This sūkta, इमानि वां (*imāni vāṃ*), is the eleventh and last among the Vālakhilya sūktas. It has seven Ṛks. The seer of this sūkta is Suparṇa Kāṇva; the deity is Indra and Varuṇa; the metre is Jagatī. In the Anukramaṇikā it is said: इमानि वां सप्त सुपर्ण ऐंद्रावरुणं जागतं (*imāni vāṃ sapta suparṇa aiṃdrāvaruṇaṃ jāgataṃ*). The use in ritual is to be learnt from the Sūtra.
+
+##### Particulars
+
+Sūkta 59 (Vālakhilya sūkta 11). Maṇḍala 8. Anuvāka 6. Sūkta 59. Aṣṭaka 6. Adhyāya 4. Varga 30, 31. Number of Ṛks in the sūkta: 7. Seer: Suparṇaḥ Kāṇvaḥ. Deity: Indrāvaruṇā. Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मानि॑ वां भाग॒धेया॑नि सिस्रत॒ इंद्रा॑वरुणा॒ प्र म॒हे ॒॑ 
+> सुतेषु वां ।  
+> य॒ज्ञेय॑ज्ञे ह॒ सव॑ना भुर॒ण्यथो॒ यत्सु॑न्व॒ते यज॑मानाय॒  ॑
+> शिक्षथः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमानि । वां । भागधेयानि । सिस्त्रते । इंद्रावरुणा । प्र । महे । सुतेषु । वां ।  
+> यज्ञेयज्ञे । ह । सवना । भुरण्यथः । यत् । सुन्वते । यजमानाय । शिक्षथः ॥
+
+### Printed p. 657
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणा इंद्रावरुणौ इमानि इदानीं कृतानि भागधेयानि भवदंशभूतानि चरुपुरोडाशादिहवींषि वां युवां प्रति सिस्रते प्राप्तुमिच्छंति । अतः
+> सुतेषु अभिषुतेषु सोमेषु सत्सु महे महते पूजनाय वां युवां प्र
+> प्रार्चये । उपसर्गवशाद्योग्यक्रियाध्याहारः । यत् यस्मात् यज्ञेयज्ञे
+> प्रतियज्ञं सवना त्रिष्टपि सवनेषु भुरण्यथो ह गच्छथः खलु । किंच सुन्वते
+> सोमाभिषवं कुर्वते यजमानाय शिक्षथः अभिमतं प्रयच्छथः। शिक्षतिर्दानकर्मा।
+> पृणाति शिक्षति इति दानकर्मगु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, these portions that have now been made, your shares, that is, oblations such as caru and puroḍāśa that have become your part, desire to reach you. Therefore, when the Soma has been pressed, I honour you two forth for great worship; the verb that suits the preposition is to be supplied. Because at every sacrifice you two go to the three savanas, and further give what he desires to the sacrificer who presses Soma. The root the verb शिक्षति (*śikṣati*) has the sense of giving, since it is read among the verbs of giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O deities Indra and Varuṇa
+- यत् (*yat*)—by whose power of yours
+- यज्ञॆ यज्ञे ह (*yajñè yajñe ha*)—to each and every sacrifice
+- सवना (*savanā*)—at all three times of pressing
+- भुरण्यथः (*bhuraṇyathaḥ*)—you go (and)
+- सुन्वते (*sunvate*)—to the sacrificer who presses the Soma juice
+- यजमानाय (*yajamānāya*)—to the performer of the sacrifice
+- शिक्षथः (*śikṣathaḥ*)—you give what he desires (therefore)
+- वां (*vāṃ*)—offered with you in view
+- इमानि भागधेयानि (*imāni bhāgadheyāni*)—these caru and puroḍāśa, which belong to your share
+- सिस्रते (*sisrate*)—approach, desiring you alone
+- सुतेषु (*suteṣu*)—when the Soma juice has been pressed and made ready
+- वां (*vāṃ*)—your
+- महे (*mahe*)—for worship
+- प्र (*pra*)—I pray
+
+##### भावार्थ (Bhāvārtha)
+
+O deities Indra and Varuṇa, by your power you go at the three times of pressing to each and every sacrifice, and give to the sacrificer who presses the Soma juice what he desires. Therefore the caru, puroḍāśa and the like, which are offered with you in view and belong to your share, approach you alone, desiring you. When the Soma juice has been pressed and made ready, I pray to you for your worship.
+
+##### English translation
+Agni, Indra, Varuna in the chief rite we invoke you to drink Soma. This is your portion; come following it, in every rite, nourish the sacrifices and libations, make gift to the worshipper offering Soma libations.
+
+### Printed p. 658
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निः॒षिध्व॑री॒रोष॑धी॒राप॑ आस्ता॒मिंद्रा॑वरुणा महि॒मान॒माश॑त ।  
+> या सिस्र॑तू॒ रज॑सः पा॒रे अध्व॑नो॒ ययोः॒ शत्रु॒र्नकि॒रादे॑व॒  ॑
+> ओहते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निःसिद्धरीः । ओषधीः । आपः । आस्तां । इंद्रावरुणा । महिमानं । आतत ।  
+> या । सिस्रतुः । रजसः । पारे । अध्वनः । ययोः । शत्रुः । नकिः । अदेवः । ओहते ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणा इंद्रावरुण् भवंतो यदा आस्तां ओषध्यादिकर्तृत्वेनाभूतां तदा निःसिद्धरीः नितरां मंगलस्वभावा ओषधीः व्रीह्याद्या ओषधयः आपः
+> उदकानि च महिमानं भवतो माहात्म्यं आशत व्याप्नुवंति । किंच या यौ
+> भवंतौ रजसोऽंतरिक्षलोकस्य संबंधिनः अध्वनो मार्गस्य पारे परतीरे सिस्रतुः
+> यथेच्छं सरणं कुरुतः। ययोर्भवतोः शत्रुः शातयिता अदेवः देवप्रतियोगी
+> असुरादिः नकिः ओहते न कोऽपि तर्कगोचरो भवति । स्वेच्छया । विहरतोर्भवतोः
+> गतिप्रतिघातकः शत्रुः न कोऽप्यस्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, when you two became the makers of herbs and the like, then the highly auspicious herbs, rice and the other plants, and the waters attain your greatness. Further, you two who move at will on the far shore of the path of the rajas, the atmospheric world: of you two no enemy, a destroyer, an the word अदेवः (*adevaḥ*), that is, one opposed to the gods, such as an Asura, is conceivable. The meaning is that there is no enemy at all to obstruct the going of you two as you roam at your own will.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O deities Indra and Varuṇa
+- आस्तां (*āstāṃ*)—(when) you are the makers of herbs and the like, then
+- निः सिध्वरिः (*niḥ sidhvariḥ*)—of auspicious nature
+- ओषधीः (*oṣadhīḥ*)—the herbs, rice and so on
+- आपः (*āpaḥ*)—the waters
+- महिमानं (*mahimānaṃ*)—your greatness itself
+- आशत (*āśata*)—attain
+- या (*yā*)—you who
+- रजसः (*rajasaḥ*)—of the atmosphere
+- अध्वनः पारे (*adhvanaḥ pāre*)—in all the shore regions of the paths
+- सिस्रतुः (*sisratuḥ*)—move, such as you are
+- ययोः (*yayoḥ*)—to you two
+- शत्रुः (*śatruḥ*)—one who is an enemy
+- आदेवः (*ādevaḥ*)—and is opposed to the gods
+- नकिः ओहते (*nakiḥ ohate*)—no Asura is able to withstand you
+
+##### भावार्थ (Bhāvārtha)
+
+O deities Indra and Varuṇa, when you are the makers of herbs and the like, the auspicious herbs, rice and so on, and the waters attain your greatness itself. No Asura, an enemy and opponent of the gods, is able to withstand you two, who move in all the shore regions of the paths of the atmosphere.
+
+### Printed p. 659
+
+##### English translation
+Indra and Varuna are here, walking by a path leading to beyond the sky ; no god-fearing men can be their enemy. The vegetable and water attain their powers ;
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यं तदिं॑द्रावरुणा कृ॒शस्य॑ वां॒ मध्व॑ ऊ॒र्मिं दु॑हते स॒प्त  ॑
+> वाणीः ।  
+> ताभि॑र्दा॒श्वांस॑मवतं शुभस्पती॒ यो वा॒मद॑ब्बो अ॒भि पाति॒  ॑
+> चित्तिभिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यं । तत् । इंद्रावरुणा । कृशस्य । वां । मध्वः । ऊर्मिं । दुहते । सप्त । वाणीः ।  
+> ताभिः । दाश्वांसं । अवतं । शुभः । पती इति । यः । वां । आदब्धः । अभि । पाति ।  
+> चित्तिभिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणा इंद्रावरुणौ याः सप्तसंख्याकाः सर्पणस्वभावा वा वाणीः
+> वाण्यः सप्तहोत्रकाणां स्तुतिरूपा वाचः कृशस्य एतन्नान्नो यजमानस्य संबंधिनः
+> मध्वः मधुरस्य सोमस्य ऊर्मिं तदुपलक्षितं रसं प्रति वां युवां हवते
+> प्रपूरयंतीति यत् तत्सत्यमवितथमेव । तस्मात्ताभिर्वाणीभिर्हेतुभूताभिः युवां
+> दाश्वांसं हविर्दत्तवंतं यजमानं अवतं रक्षतं । यजमानं विशिनष्टि । हे
+> शुभस्पती उदकस्य पालयिताराविंद्रावरुणौ यो यजमानः अदब्धः केनाप्यहिंसितः
+> सन् चित्तिभिः प्रज्ञोपलक्षितैः कर्मभिः वां युवामभि पाति सर्वतो रक्षति ।
+> तमवतमिति पूर्वणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, the seven words, which are seven in number or of a flowing nature, the speeches in praise of the seven hotṛs, fill you two, in the direction of the wave of the sweet Soma, that is, the juice that is marked by it, of the sacrificer called Kṛśa: that is true, unfailing. Therefore, by those words as the cause, protect the sacrificer who has given the oblation. He describes the sacrificer: O Śubhaspatī, protectors of water, Indra and Varuṇa, the sacrificer who, unharmed by anyone, guards you two on every side with actions marked by understanding, protect him; the construction is with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O deities Indra and Varuṇa
+- सप्त वाणीः (*sapta vāṇīḥ*)—the speeches in praise of the seven hotṛs
+- कृशस्य (*kṛśasya*)—of the sacrificer called Kṛśa
+- मध्वः (*madhvaḥ*)—of the sweet Soma juice
+
+### Printed p. 660
+- ऊर्मिं (*ūrmiṃ*)—towards the juice
+- वां (*vāṃ*)—you two
+- दुहते (*duhate*)—bring and fill: that which is said
+- तत् (*tat*)—that
+- सत्यं (*satyaṃ*)—is indeed of the nature of truth
+- शुभस्पती (*śubhaspatī*)—O deities Indra and Varuṇa, protectors of water
+- अदब्धः (*adabdhaḥ*)—unharmed by anyone
+- यः (*yaḥ*)—the sacrificer who
+- चित्तिभिः (*cittibhiḥ*)—with his own actions done with understanding
+- वां (*vāṃ*)—you two
+- अभि पाति (*abhi pāti*)—guards on every side
+- दाश्वांसं (*dāśvāṃsaṃ*)—that same sacrificer, the giver of oblation
+- शाभिः (*śābhiḥ*)—in return for those same praises
+- अवतं (*avataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O deities Indra and Varuṇa, that which is said, that the speeches in praise of the seven hotṛs bring you and fill you two towards the juice of the sweet Soma of the sacrificer called Kṛśa, is indeed of the nature of truth. O Indra and Varuṇa, protectors of water, protect that same sacrificer, the giver of oblation, in return for those same praises, who, unharmed by anyone, guards you on every side with his own actions done with understanding.
+
+##### English translation
+Indra and Varuna, it is true that for you Saptavani is effusing the Soma of Krisha ; you are the supporter of good works. The men without enemy who worship you wih good works, protect him your worshipper.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒त॒पुषः॒ सौम्या॑ जी॒रदा॑नवः स॒प्त स्वसा॑रः॒ सद॑न ऋ॒तस्य॑ ।  
+> या ह॑ वामिंद्रावरुणा घृत॒श्चुत॒स्ताभि॑र्धत्तं॒ यज॑मानाय  
+> शिक्षतं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतंपुषः । सौम्याः । जीरदानवः । सप्त । स्वसारः । सदने । ऋतस्य ।  
+> याः । ह । वां । इंद्रावरुणा । घृतश्चुतः । ताभिः । धत्तं । यजमानाय । शिक्षतं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ताः सत्यवाण्यः क्व संतीत्यपेक्षायामाह । ऋतस्य यज्ञस्य सदने स्थाने सप्त
+> सप्तसंख्याकाः स्वसारः स्वयंसारिण्यो वाण्यः संति । कीदृश्यस्ताः । घृतपुरुषः ।
+> घृतमित्युदकनाम । तेन सोमरसो लक्ष्यते । तथा च सोमरसस्राविण्य इत्यर्थः
+
+##### Gist of the bhāṣya
+
+Where are those true words? In answer to this question he says: in the seat, the place, of ṛta, the sacrifice, there are seven words, "sisters", that is, flowing of themselves. What are they like? घृतपुरुषः (*ghṛtapuruṣaḥ*) **NOTE**: घृतं (*ghṛtaṃ*) is a name for water, and by it the Soma juice is indicated. Thus the meaning is that they are streaming with the Soma juice.
+
 ---
 
-**Progress note:** Done through printed p. 652. Mandala 8, sukta 57 Rks 2-4, sukta 58 Rk 1
+**Progress note:** Done through printed p. 660. Mandala 8, sukta 58 Rks 2-3, sukta 59 Rks 1-4 (start)
