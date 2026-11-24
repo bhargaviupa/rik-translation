@@ -21819,6 +21819,308 @@ I praise with shastra mantras, for the gain of wealth, Indra, the great one and 
 > यः कृं॒तदिद्वि यो॒न्यं त्रि॒शोका॑य गि॒रिं पृ॒थुं ।  
 > गोभ्यो॑ गा॒तुं निरे॑तवे ॥ ३० ॥
 
+### Printed p. 477
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । कृंतत् । इत् । ए । योन्यं । त्रिशोकाय । गिरिं । पृथुं ।  
+> गोभ्यः । गातुं । निःसितवे ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इव्य एनेंद्रो योन्यमुदकनिर्गमनद्वारं पृथुं विस्तीर्णं गिरिं
+> मेघं ! गिरिव्रज इति मेघनामसु पातात् । त्रिशोकाय त्रिशोकनामर्ष्यर्थं
+> वि कृंतत् व्यच्छिनत् स गोभ्यो गमनवद्भ्य उदकेभ्यो निरेतवे निर्गमनाय गातुं
+> भूमिं भूमिर्गातुरिति तन्नामसु पातात् । मार्गमित्यर्थः । करोतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: That Indra split for Triśoka (त्रिशोकाय (*triśokāya*): for the seer named Triśoka) the broad (पृथुं (*pṛthuṃ*): extensive) cloud (गिरिं (*giriṃ*)), the womb (योन्यं (*yonyaṃ*)), the door of the outflow of the waters; गिरिव्रज (*girivraja*) is read among the names of cloud. He makes a path (गातुं (*gātuṃ*): the earth; भूमिर्गातुरिति (*bhūmirgāturiti*) is read among the names of earth) for the waters (गोभ्यः (*gobhyaḥ*): those that flow) to go out (निरेतवे (*niretave*)); "he makes" is to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इत् (*it*)—that same Indra who
+- योन्यं (*yonyaṃ*)—the womb of the waters
+- पृथुं (*pṛthuṃ*)—and broad
+- गिरिं (*giriṃ*)—the cloud
+- त्रिशोकाय (*triśokāya*)—for the seer named Triśoka
+- वि कृंतत् (*vi kṛṃtat*)—split
+- गोभ्यः (*gobhyaḥ*)—for the waters
+- निरेतवे (*niretave*)—for flowing out
+- गातुं (*gātuṃ*)—also made room
+
+##### भावार्थ (Bhāvārtha)
+
+That same famous Indra split the broad cloud, the womb of the waters, for the seer named Triśoka, and made a path for the flowing of the waters. **NOTE**
+
+##### English translation
+Who clove for Trishoka the broad womb-like cloud, (and made) a path for the cows to issue forth.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्द॑धि॒षे म॑न॒स्यसि॑ मंदा॒नः प्रेदिय॑क्षसि ।  
+> मा तत्क॑रिंद्र मृ॒ळय॑ ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यॆत् । वधिषे । मनस्यसि । मंदानः । प्र । इत् । इयक्षसि ।  
+> मा । तत् । कः । इंद्र । मृळय ॥ ३१ ॥
+
+### Printed p. 478
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मंदानो मोदमानस्त्वं यच्चुभं वस्तु दधिषे धारयसि यच्च
+> मनस्यसि पूजयसि यदपि च प्रेदियक्षसि प्रयच्छस्येव तत्सर्वं मा कः । किं
+> नाकार्षिः । आस्माकं कृतवानेव । किंचास्मान्मृळॆय । सुखय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, rejoicing (मंदानः (*maṃdānaḥ*)), whatever good thing you hold (दधिषे (*dadhiṣe*)), whatever you honour in mind (मनस्यसि (*manasyasi*)), and whatever you give forth (प्रेदियक्षसि (*prediyakṣasi*)), all that, do not (मा कः (*mā kaḥ*): do not do; "have you not done it?" — you have indeed done it for us). And bless us (मृळय (*mṛḷaya*): make us happy). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मंदानः (*maṃdānaḥ*)—you who are joyful
+- यत् (*yat*)—whatever feeling
+- दधिषे (*dadhiṣe*)—you hold
+- मनस्यसि (*manasyasi*)—whatever resolve of mind you hold
+- प्रेदियक्षसि (*prediyakṣasi*)—whatever you wish to give
+- तत् (*tat*)—all that
+- मा कः (*mā kaḥ*)—need not be given to us
+- मृळॆयु (*mṛḷèyu*)—only make us happy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are joyful, whatever feeling you hold in mind, whatever resolve you hold, whatever you wish to give, all that need not be given to us. Only make us happy.
+
+##### English translation
+Whatever you undertake in your exhilaration, whatever you purpose in your mind or are thinking to bestow,—O Indra, do it not but bless us.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒भ्रं चि॒द्दि त्वाव॑तः कृ॒तं शृ॒ण्वे अधि॒ क्षमि॑ ।  
+> जिगा॑त्त्विंद्र ते॒ मनः॑ ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दभ्रं । चित् । हि । त्वावतः । कृतं । शृण्वे । अधि । क्षमि ।  
+> जिगातु । इंद्र । ते । मनः ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वावतस्त्वत्सदृशस्य दभ्रं चिदल्पमपि कृतं कर्माधि क्षमि क्षमायां ॥
+> अधीति सप्तम्यर्थानुवादः ॥ शृण्वे । विश्रुतं भवति हि । तथा सति ते तव मनो
+> जिगातु । मयि गच्छतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, even a small (दभ्रं चित् (*dabhraṃ cit*)) deed done by one like you (त्वावतः (*tvāvataḥ*)) is renowned (शृण्वे (*śṛṇve*)) upon the earth (क्षमि (*kṣami*)); अधि (*adhi*) is a repetition of the sense of the locative. That being so, let your mind (मनः (*manaḥ*)) come (जिगातु (*jigātu*)) to me.
+
+### Printed p. 479
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वावतः (*tvāvataḥ*)—of a great person like you
+- कृतं (*kṛtaṃ*)—the deed
+- दव्रं चित् (*davraṃ cit*)—even if small
+- अधि क्षमि (*adhi kṣami*)—upon the earth
+- शृण्वे हि (*śṛṇve hi*)—is renowned
+- मनः (*manaḥ*)—your gracious mind
+- जिगातु (*jigātu*)—let it turn towards me
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, even if the deed done by a great person like you is small, it is renowned upon the earth. Let your gracious mind turn towards me.
+
+##### English translation
+Indra, the least deeds of one like you are renowned in the earth; may your care visit me.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवेदु॒ ताः सु॑की॒र्तयोऽस॑न्नु॒त प्रश॑स्तयः ।  
+> यदिं॑द्र मृ॒ळया॑सि नः ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शव । इत् । ऊं इति । ताः । सुकीर्तयः । आसन् । उतॆ । प्रशस्तयः ।  
+> यत् । इंद्र । मृळयासि । नः ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नोऽस्मान्यद्याभिर्मृळयासि सुखयसि ताः सुकीर्तयः
+> शोभनाख्यातयस्तवेत्तनैवासन् । भवेयुः । उतापि च ताः प्रशस्तयः स्तुतयश्च
+> तवैव भवेयुः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, those good fame-giving praises (सुकीर्तयः (*sukīrtayaḥ*): beautiful renown) through which (यत् (*yat*)) you bless us (मृळयासि (*mṛḷayāsi*): make us happy) would be yours alone (तवेत् (*tavet*)); and those eulogies (प्रशस्तयः (*praśastayaḥ*): praises) would be yours alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—us
+- यत् (*yat*)—by which praises, being pleased
+- मृळॆयासि (*mṛḷèyāsi*)—you make us happy
+- ताः (*tāḥ*)—such
+- सुकीर्तयः (*sukīrtayaḥ*)—excellent praise-acts
+- तवेत् (*tavet*)—dedicated to you alone
+- आसन् (*āsan*)—are
+- उत (*uta*)—and
+- प्रशस्तयः (*praśastayaḥ*)—those excellent praises are made for you alone
+
+### Printed p. 480
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those excellent praise-acts, by which, being pleased, you make us happy, are dedicated to you alone. Those excellent praises are made for you alone.
+
+##### English translation
+Yours be those ascriptions of praise, yours those hymns, through which, Indra, you bless us.
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा न॒ एक॑स्मि॒न्नाग॑सि॒ मा द्वयो॑रु॒त त्रि॒षु ।  
+> वधी॒र्मा शू॑र॒ भूरि॑सु ॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । एकस्मिन् । आगसि । मा । द्वयोः । उत । त्रिषु ।  
+> वधीः । हू । शूर । भूरिषु ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूरेंद्र नोऽस्मानेकस्मिन्नागस्यपराधे मा वः     मा हिंसीः ।
+> द्वयोरागसोरपि मा वधीः । उतापि च त्रिष्वागःस्वपि मा हिंसीः । भूरिष्टस्यसंख्यातेश्वागःसु मा च वधीः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O heroic Indra, do not strike us (मा वधीः (*mā vadhīḥ*): do not injure) for one offence (एकस्मिन् आगसि (*ekasmin āgasi*)); do not strike us for two offences either, and also not for three. Do not strike us for many (भूरिषु (*bhūriṣu*)) offences. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- नः (*naḥ*)—us
+- एकस्मिन् आगसि (*ekasmin āgasi*)—for one fault
+- मा वधीः (*mā vadhīḥ*)—do not injure
+- द्वयोः (*dvayoḥ*)—for two faults also
+- मा (*mā*)—do not injure
+- उत (*uta*)—and
+- त्रिषु (*triṣu*)—for three faults also
+- मा (*mā*)—do not injure
+- भूरिषु (*bhūriṣu*)—even if for exceedingly many sins, do not injure us
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, do not injure us for one fault. Do not injure us for two or three faults either. Even if we have committed exceedingly many faults, do not injure us.
+
+### Printed p. 481
+
+##### English translation
+Slay us not for one sin, not for two, not for three; O hero, slay us not for many.
+
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बि॒भया॒ हि त्वाव॑त उ॒ग्राद॑भिप्रभं॒गिणः॑ ।  
+> द॒स्माद्॒हमृ॑ती॒षहः॑ ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बिभयः । हि । त्वावतः । उग्रात् । अभिप्रभंगिनः ।  
+> दस्मात् । अहं । ऋत्तिसहः ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वावतस्त्वत्सदृशामग्रामद्रूर्ध्गादभिस्प्रभंगिणः शत्रोणामभिप्रहर्तुर्दस्मात्पानामुपक्षपयितुर्यतीषदः शत्रुकृतां हिंसां सहतोऽहं बिभय हि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, I am afraid (बिभय (*bibhaya*)) of one like you (त्वावतः (*tvāvataḥ*)), formidable (उग्रात् (*ugrāt*)), the smiter of enemies (अभिप्रभंगिणः (*abhiprabhaṃgiṇaḥ*)), the destroyer (दस्मात् (*dasmāt*); he glosses it as one who wastes away the sinful), who endures the violence done by enemies (ऋतीषहः (*ṛtīṣahaḥ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रात् (*ugrāt*)—of one of exceedingly great strength
+- अभिप्रभंगिणः (*abhiprabhaṃgiṇaḥ*)—the smiter of enemies
+- दस्मात् (*dasmāt*)—the destroyer of sin
+- ऋतीषहः (*ṛtīṣahaḥ*)—who can withstand the violence of enemies
+- त्वावतः (*tvāvataḥ*)—of a great person like you
+- अहं (*ahaṃ*)—I
+- बिभय हि (*bibhaya hi*)—surely fear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I surely fear a great person like you, of exceeding strength, the smiter of enemies, the destroyer of sin, who can withstand the violence of enemies.
+
+##### English translation
+I am afraid of one like you, terrible, the smiter of enemies, the destroyer, who endures hostile attacks.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा सख्युः॒ शून॒मा वि॑दे॒ मा पु॒त्रस्य॑ प्रभूवसो ।  
+> आ॒वृत्व॑द्भूतु ते॒ मनः॑ ॥ ३६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 482
+
+> मा । सख्युः । शूनं । आ । विदे । मा । पुत्रस्य । प्रभुवसो इति प्रभुवसो ।  
+> आवृत्वत् । भूतु । ते । मनः ॥ ३६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रभूवसो प्रभूतधनेंद्र ते तव सख्युः शूनं वृद्धं मा विदे ।
+> मावेदयामि । पुत्रस्यापि शूनं मा विदे । तव मनोऽस्मास्वावृत्त्वदावर्तनवद्भूतु ।
+> भवतु । पुनःपुनः सुखं करोत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, rich in wealth (प्रभूवसो (*prabhūvaso*): of abundant wealth), may I not come to know (मा विदे (*mā vide*): let me not report) the distress (शूनं (*śūnaṃ*): वृद्धं (*vṛddhaṃ*) in the text) of your friend (सख्युः (*sakhyuḥ*)), nor the distress of his son. Let your mind (मनः (*manaḥ*)) turn towards us (आवृत्वत् (*āvṛtvat*): be of the nature of turning); the sense is: may it do us good again and again. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रभूवसो (*prabhūvaso*)—O Indra of abundant wealth
+- ते (*te*)—your
+- सख्युः (*sakhyuḥ*)—friend's
+- शूनं (*śūnaṃ*)—distress
+- मा आ विदे (*mā ā vide*)—let me not know
+- पुत्रस्य (*putrasya*)—a son's distress too
+- मा (*mā*)—let me not know
+- मनः (*manaḥ*)—your gracious mind
+- आवृत्वत् (*āvṛtvat*)—turned towards us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of abundant wealth, let me not know of any distress of your friend, nor the distress of his son. Let your gracious mind be turned towards us.
+
+##### English translation
+Wealthy (Indra), may I never have to tell you of the destitution of my friend or my son; may your mind be favourable towards me.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को नु म॑र्या॒ अमि॑थितः॒ सखा॒ सखा॑यमब्रवीत् ॥  
+> ज॒हा को अ॒स्मदी॑षते ॥ ३७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । नु । मर्याः । अमिथितः । सखा । सखायं । अब्रवीत् ।  
+> जहा । कः । अस्मत् । ईषते ॥ ३७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 476. Ṛk 23-30 of 8.45 (pp. 471-476)
+**Progress note:** Done through printed p. 482. Ṛk 30-37 of 8.45 (pp. 477-482)
