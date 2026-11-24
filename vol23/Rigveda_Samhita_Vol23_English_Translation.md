@@ -20280,6 +20280,272 @@ O Indra, among the restrained Aṅgirases who have praised you and the Bhṛgus,
 
 O Indra, of strength that causes fear to enemies, the self-restrained Aṅgirases who
 
+### Printed p. 499
+#### Ṛk 18 (continued)
+Amidst those restrained Aṅgirases who praised you, and amidst the Bhṛgu sages who praised you, hear my own invocation in the form of praise.
+
+##### English translation
+Amidst those pious sages, amidst these Brigus, who have glorified you, hear also, fierce Indra, my Invocation.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मास्त॑ इंद्र॒ पृश्न॑योघृ॒तं दु॑हत आ॒शिरं॑ ।  
+> ए॒नामृ॒तस्य॑ पि॒प्युषीः॑ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ते । इंद्र । पृश्नयः । धृतं । दुहते । आशिरं ।  
+> एनां । ऋतस्य । पिप्युषीः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीया इमाः पृश्नयः प्राष्टवर्णा गावो धृतं क्षरणशीलमेनामाशिरमाश्रयणद्रव्यं पयो दुहते । दुहंति । क्षारयंति। कीदृश्यः पृश्नयः।
+> ऋतस्य सत्यस्यावितथस्येंद्रस्य यज्ञस्य वा पिप्युषीर्वर्धयित्र्यः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, these spotted (variegated) cows of yours yield ghee, the flowing thing, and this mixture, the milk that serves as an admixture (āśira). They yield it, they make it flow. What kind of cows are they? They are the increasers of ṛta: of truth, of the unfailing Indra, or of the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- पिप्युषीः (*pipyuṣīḥ*)—increasers
+- ते (*te*)—belonging to you
+- इमे (*ime*)—well-known
+- पृश्नयः (*pṛśnayaḥ*)—the cows of mixed colour
+- धृतं (*dhṛtaṃ*)—in the form of a stream
+- एनां आशिरं (*enāṃ āśiraṃ*)—this milk, which is the admixture substance
+- दुहते (*duhate*)—they milk
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these well-known cows of yours, of mixed colour and increasers of the sacrifice, yield milk in the form of a stream, which is the admixture substance.
+
+### Printed p. 500
+
+##### English translation
+These, your spotted cows, the nourishers of the sacrifice, yield, Indra, their butter, and this mixture (of milk and curds).
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या इं॑द्र प्र॒स्व॑स्त्वा॒सा गर्भ॒मच॑क्रिरन् ।  
+> परि॒ धर्मे॑व॒ सूर्यं॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । इंद्र । प्रस्वः । त्वा । आसा । गर्भं । अचक्रिरन् ।  
+> परि । धर्म इव । सूर्यं ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्रस्वः । प्रसुवते गर्भं विमुंचंतीति प्रस्वः ॥ सूतेः सत्सौद्विषेति
+> क्विप् ॥ ईदृश्यो या गाव आसास्येन त्वा त्वदीयं वीर्यं वृत्रवधानंतरमोषध्यादिरूपेण परिणतं भक्षयित्वा गर्भमचक्रिरन् अकुर्वन् त्वदीयं वीर्यमंतरधारयन् । तत्र दृष्टांतः । सूर्यं परितः सूर्यमंडलस्कोपरि धर्मेव धारकं
+> पोषकमुदकं यथा रश्मयो गर्भरूपेण बिभ्रति तद्वत् । यद्वा । परि धर्मेव
+> परितो धारयितारं सूर्यमिव । यथा । सूर्यः परितः सर्वं जगद्धत्ते तद्वत् ।
+> कृत्सस्य जगतो धारकमिंद्रस्य वीर्यमित्यर्थः । ओषध्यादिरूपेण परिणतस्येंद्रवीर्यस्य गोभिरात्मनि धारणमिंद्रस्य वृत्रं जघ्नष इत्यारभ्य तैत्तरीयके विस्पष्टमाम्मातं । तत्पशव ओषधीभ्योऽध्यात्मसमनयन् तत्प्रत्यदुहन् । तै. सं. २-५-३-३ ।
+> इति । पयोरूपेण परिणतु तद्वीर्यमिमा गाव आशिरार्थं दुहत इति पूर्वस्यामृच्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the prasvaḥ are those that bring forth, that release the foetus. The cows of this kind took in through their mouths your vigour, which after the slaying of Vṛtra had been transformed into plants and the like, and so bore a foetus; they held your vigour within them. The illustration: just as the nourishing water that sustains round the orb of the sun is held by the rays in the form of a foetus, so it is here. Or else: like the sun that sustains all around, as the sun upholds the whole world on every side, so Indra's vigour upholds the whole world. That the cows hold in themselves Indra's vigour, transformed into plants and the like, is clearly taught in the Taittirīya, beginning *iṃdrasya vṛtraṃ jaghnaṣa* and तत्पशव ओषधीभ्योऽध्यात्मसमनयन् तत्प्रत्यदुहन् (*tatpaśava oṣadhībhyo 'dhyātmasamanayan tatpratyaduhan*) (Tai. Saṃ. 2-5-3-3). That vigour, transformed into the form of milk, these cows yield for the āśira: thus the construction connects with the preceding Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- प्रस्वः (*prasvaḥ*)—those fit for offspring
+- याः (*yāḥ*)—whichever cows there are, they
+- आसा (*āsā*)—with their mouths
+- सूर्यं परि (*sūryaṃ pari*)—around the orb of the sun
+- धर्मेव (*dharmeva*)—like the nourishing water
+- त्वा (*tvā*)—having eaten your vigour
+- गर्भं (*garbhaṃ*)—the foetus
+- आचक्रिरन् (*ācakriran*)—they bore in the womb
+
+### Printed p. 501
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the cows fit for offspring, having taken in through their mouths your vigour, which is like the world-nourishing water around the orb of the sun, bore the foetus in their wombs.
+
+##### English translation
+These prolific cattle became pregnant, having taken into their mouths, Indra, (the products of your vigour) like the all-sustaining sun.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिच्छ॑वसस्पते॒ कण्वा॑ उ॒क्तेन॑ वावृधुः ।  
+> त्वां सु॒तास॒ इंद॑वः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । इत् । शवसः । पते । कण्वाः । उक्तेन । ववृधुः ।  
+> त्वां । सुतासः । इंदवः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजपेयेऽतिरिकोक्के त्वामिच्छवसस्पत इत्येषा । सूत्रितं च । त्वामिच्छवसस्पते तं प्रत्नथा । आ. ९-९ । इति ॥
+> हे शवसस्पते बलस्य स्वामिन्निंद्र त्वामेव कण्वाः स्तोतारः कण्वगोत्रा
+> वर्षय उक्तेन शस्त्रेण ववृधुः । वर्धयंति । सुतासोऽध्वर्यभिरभिषुता इंदवः
+> सोमाश्च त्वामेव वर्धयंति ॥
+
+##### Gist of the bhāṣya
+
+In the Vājapeya, among the additional recitations (atirikta-ukta), this Ṛk त्वामिच्छवसस्पते (*tvāmicchavasaspate*) is used. It is also prescribed in the sūtra: त्वामिच्छवसस्पते तं प्रत्नथा (*tvāmicchavasaspate taṃ pratnathā*) (Ā. 9-9). O Indra, lord of strength, the Kaṇva praisers, sages of the Kaṇva line, increase you alone by the recited praise, the śastra. The Soma juices pressed by the Adhvaryus also increase you alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसस्पते (*śavasaspate*)—O Indra, lord of all powers
+- त्वां इत् (*tvāṃ it*)—you alone
+- कण्वाः (*kaṇvāḥ*)—the sages born in the Kaṇva line
+- उक्तेन (*uktena*)—with praise in the form of recitation
+- ववृधुः (*vavṛdhuḥ*)—they cause to grow
+- सुतासः (*sutāsaḥ*)—pressed and ready
+- इंदवः (*iṃdavaḥ*)—these Soma juices
+- त्वां (*tvāṃ*)—you alone they cause to grow
+
+### Printed p. 502
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of all powers, the sages born in the Kaṇva line praise you alone with a hymn in the form of recitation and cause you to grow. These Soma juices, pressed and ready, also cause you alone to grow.
+
+##### English translation
+Lord of strength, the Kanwas verily invigorate you by praise : the effused Soma juices (invigorate) you.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Vājapeya, among the additional recitations (atirikta-ukta), the Ṛk त्वामिच्छवसस्पते (*tvāmicchavasaspate*) is to be added and recited; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra त्वामिच्छवसस्पते तं प्रत्नथा (*tvāmicchavasaspate taṃ pratnathā*) (Ā. 9-9).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवेदिं॑द्र॒ प्रणी॑तिषू॒त प्रश॑स्तिरद्रिवः ।  
+> य॒ज्ञो वि॑तंत॒साय्कः॑ ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । इत् । इंद्र । प्रनीतिषु । उत । प्रशस्तिः । अद्रिवः ।  
+> यज्ञः । वितंतसाय्कः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे अद्रिवः । आदृणात्यनेनेत्यद्रिर्वज्रः । तद्वन्निंद्र तवेत्तवैव
+> प्रणीतिषु प्रकृष्टेषु नयनेषु धनप्रदानेषु सत्सु प्रशस्तिः प्रकृष्टा स्तुतिः क्रियते ।
+> तथा वितंतसाय्ज्यो विस्तृततमः ॥ तनोतेश्छांदसमेतद्रूपं । यद्वा । तंतसिः
+> कंड्वादिद्वृद्ध्यर्थः । तस्मादौणादिक आय्यप्रत्ययः॥ प्रवृद्धो यज्ञश्च तवैव क्रियते ॥
+
+##### Gist of the bhāṣya
+
+And, O Adrivaḥ (adri is the vajra, that with which one shatters): O Indra, wielder of it, when your excellent leadings, your gifts of wealth, are in progress, excellent praise is made to you alone. Likewise the sacrifice is most extended; this form from the root *tanoteḥ* is Vedic. Or else, it comes from तंतसिः (*taṃtasiḥ*) with an Uṇādi suffix. And the swelling sacrifice too is performed for you alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अद्रिवः (*adrivaḥ*)—O wielder of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- प्रणीतिषु (*praṇītiṣu*)—by the giving of wealth, fit for excellent guidance
+- तवेत् (*tavet*)—directed to you alone
+
+### Printed p. 503
+- प्रशस्तिः (*praśastiḥ*)—excellent praise is recited
+- वितंतसाय्कः (*vitaṃtasāykaḥ*)—having extended rites
+- यज्ञः (*yajñaḥ*)—the sacrifice too (is performed with you as its object)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt, because you give wealth fit for excellent guidance, praise directed to you alone is recited. The sacrifice, with its extended rites, is also performed with you as its object.
+
+##### English translation
+Indra, wielder of the thunderbolt, excellent praise (is addressed to you) on account of your good guidance, as is most extended sacrifice.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॑ इंद्र म॒हीमिषं॒ पुरं॒ न द॑र्षि॒ गोम॑तीं ।  
+> उ॒त प्र॒जां सु॒वीर्यं॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । इंद्र । महीं । इषं । पुरं । न । दर्षि । गोऽमतीं ।  
+> उत । प्रजां । सुवीर्यं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मभ्यमस्मदर्थं महीं महतीं गोमतीं गोभिर्युक्तामिषमन्नमा दर्षि । आद्रियस्व । दातुं कामयस्व । नशब्दश्चार्थे । पुरं न । पालनं
+> पूः । पालनं रक्षणं चास्मभ्यं कर्तुमाद्रियस्व ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for us, on our behalf, bestow great food, abounding in cattle, that is, accompanied by cows: आ दर्षि (*ā darṣi*), be pleased, desire to give. The word न (*na*) has the sense of "and". पुरं न (*puraṃ na*): पूः (*pūḥ*) is protection; be pleased to give us protection and guard.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—to us
+- महीं (*mahīṃ*)—of great power
+- गोमतीं (*gomatīṃ*)—accompanied by cattle
+- इषं (*iṣaṃ*)—food
+- आ दर्षि (*ā darṣi*)—fill and give
+- पुरं न (*puraṃ na*)—give also protection and guard
+- उत (*uta*)—and
+- सुवीरं (*suvīraṃ*)—endowed with exceeding strength
+- प्रजां (*prajāṃ*)—give offspring
+
+### Printed p. 504
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, fill and give us food of great power and accompanied by cattle. Give protection and guard. And give also offspring endowed with exceeding strength.
+
+##### English translation
+Be willing to grant us abundant food with cattle: (to grant us) protection, progeny, and vigour.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्यदा॒श्वश्वं॒ यदिं॑द्र॒ नाहु॑षी॒स्वा ।  
+> अग्रे॑ वि॒क्षु प्र॒दीद॑यत् ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्यत् । आशुअश्वं । यत् । इंद्र । नाहुषेषु । आ ।  
+> अग्रे । विक्षु । प्रदीदयत् ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नाहुषीषु । नहुषा इति मनुष्यनाम । तत्संबंधिनीषु । यद्वा ।
+> नाहुषो नाम कश्चिद्राजा । तदीयासु । विक्षु प्रजास्वग्रे पुरस्ताद्यदाश्वश्वं शीघ्रगाम्यश्वसंघात्मकं बलं प्रदीदयत् प्रादीप्यत उतापि च त्यत्तदप्यस्मभ्यं देहीति
+> शेषः । आकारः पूरकः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, नाहुषीषु (*nāhuṣīṣu*): नहुषा (*nahuṣā*) is a name for men, so "belonging to men". Or else, Nāhuṣa is the name of a certain king, so "belonging to him". Among the subjects (विक्षु (*vikṣu*)), in former times, the power consisting of a host of swift horses was kindled (प्रदीदयत् (*pradīdayat*)); and त्यत् (*tyat*), that too, give to us: this is the word to be supplied. The syllable आ (*ā*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- नाहुषीषु (*nāhuṣīṣu*)—belonging to men
+- विक्षु (*vikṣu*)—among the subjects
+- अग्रे (*agre*)—formerly
+- यत् (*yat*)—which
+- आश्वश्वं (*āśvaśvaṃ*)—the power consisting of a host of swift horses
+- प्रदीदयत् (*pradīdayat*)—you filled and gave
+- त्यत् (*tyat*)—that very thing provide for us also
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the power consisting of a host of swift horses that you formerly filled and gave among the subjects belonging to men, give that very thing to us also.
+
 ---
 
-**Progress note:** Done through printed p. 498. pp. 493-498 (batch API)
+**Progress note:** Done through printed p. 504. pp. 499-504 (batch API)
