@@ -28394,6 +28394,256 @@ O Indra, the group of ours that is the most excellent for protection, belonging 
 - होत्राभिः (*hotrābhiḥ*)—with praise-speeches **NOTE**
 - मनामहे (*manāmahe*)—I praise you
 
+### Printed p. 623
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, among the groups of sacrificers who belong to you, it is we who are the most excellent. Grant that we, such as we are, may be under your shelter in battles for our protection. And we, who possess the oblation, praise you with praise-words fit for calling the gods.
+
+##### English translation
+May we have all that are best of you, we shall seek your protection and we shall invoke you. We shall sing hymns in invocation of you we shall worship you and praise you.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं हि ते॑ हरिवो॒ ब्रह्म॑ वाज॒युरा॒जिं यामि॒ सदो॒तिभिः॑ ।  
+> त्वामिदे॒व तममे॒ सम॑श्व॒युर्ग॒व्युरग्रे॑ मथी॒नां ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आहं । हि । ते । हरिऽवः । ब्रह्म । वाजययुः । आजिं । यामि । सदा । ऊतिऽभिः ।  
+> त्वां । इत् । एव । तं । अमे । सं । अश्वययुः । गव्युः । अग्रे । मथीनां ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिवः हरिसंज्ञकाश्वोपेतेंद्र ते त्वदीयः योऽहं मेध्य ऋषिः
+> पाजयुः अन्नकामः सन् ब्रह्म अन्नमुद्धिश्य सदा सर्वदा ऊतिभिः त्वत्कृताभिः
+> रक्षाभिः सह आजिं संग्रामं यामि प्राप्नोमि । हीति प्रसिद्धं । त्वामेव सं अमे
+> संगतो भवामि । संग्रामे त्वामेषाश्रयामि । नेतरं कंचनेत्यर्थः । एवेत्यनर्फको निपातः ॥
+
+##### Gist of the bhāṣya
+
+O Harivas, Indra, you who have the horses named Hari, I, who belong to you, the seer Medhya, desiring food, always go to battle for the sake of food together with the protections made by you. The word "hi" means "as is well known". I unite myself with you alone; in battle I take refuge in you alone, in no other. That is the meaning. The word "eva" is a meaningless particle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, who have horses named Hari
+- वाजयुः (*vājayuḥ*)—desiring food
+- अहं (*ahaṃ*)—I
+- ब्रह्म (*brahma*)—in order to obtain food
+- सदा हि (*sadā hi*)—always
+- ते (*te*)—your
+- ऊतिभिः (*ūtibhiḥ*)—together with the protections
+- आजिं (*ājiṃ*)—to battle
+- यामि (*yāmi*)—I go
+- अश्वयुः (*aśvayuḥ*)—desiring horses
+- गव्युः (*gavyuḥ*)—and desiring cows, I who am such
+- मथीनां अग्रे (*mathīnāṃ agre*)—before the terrible enemies
+
+### Printed p. 624
+
+- तं (*taṃ*)—renowned
+- त्वां एव (*tvāṃ eva*)—you alone
+- सममे (*samame*)—taking refuge in you, I face them with you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have horses named Hari, I, desiring food, always go to battle together with your protections in order to obtain food. I, desiring horses and desiring cows, face the terrible enemies, taking with me you alone, the renowned, and fighting together with you **NOTE**.
+
+##### English translation
+Indra Lord of the horse named Hari, desirous of food, horse and cattle we are invoking you and under your protection go to you; when we are overtaken with fear, place you before the enemies.
+
+## Sūkta 54 (Maṇḍala 8)
+
+##### Gist of the bhāṣya
+
+The sūkta of eight Ṛks beginning एतत्ते (*etatte*) is the sixth, the vision of Kāṇva Mātariśvān **NOTE**, addressed to Indra. It is listed in the Anukramaṇikā: एतत्ते मातरिश्वा नो विश्व इति वैश्वदेवः (*etatte mātariśvā no viśva iti vaiśvadevaḥ*), a Prāgātha. The third and fourth Ṛks have the Viśve Devāḥ as deity; of the other six the deity is Indra. The metre of the odd-numbered Ṛks is Bṛhatī and that of the even-numbered is Satobṛhatī. The ritual application is to be learnt from the Sūtra.
+
+##### Anuvāda
+
+This sūkta beginning एतत्ते (*etatte*) is the sixth among the Vālakhilya sūktas **NOTE**. It has eight Ṛks. Its seer is one called Mātariśvā Kāṇvaḥ; the third and fourth Ṛks of this sūkta have the Viśve Devāḥ as deity. The remaining six Ṛks have Indra as deity. The odd-numbered Ṛks are in the Bṛhatī metre; the even-numbered Ṛks are in the Satobṛhatī metre. In the Anukramaṇikā it is said: एतत्ते मातरिश्वा नो विश्व इति वैश्वदेवः प्रगाथः (*etatte mātariśvā no viśva iti vaiśvadevaḥ pragāthaḥ*). The ritual application is to be learnt from the Sūtra.
+
+### Printed p. 625
+
+##### Particulars
+
+Maṇḍala 8, Anuvāka 6, Sūkta 54; Aṣṭaka 6, Adhyāya 4, Varga 24, 25. Number of Ṛks in the sūkta: 8. Seer: Mātariśvā Kāṇvaḥ. Deity: 1, 2, 5-8 Indraḥ; 3, 4 Viśve Devāḥ. Metre: Prāgāthaṃ (odd Ṛks Bṛhatī; even Ṛks Satobṛhatī).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तत्त॑ इंद्र वी॒र्यं॑ गी॒र्भिर्गृ॒णंति॑ का॒रवः॑ ।  
+> ते स्तोभं॑त॒ ऊर्ज॑मावन्घृत॒श्चुतं॑ पौ॒रासो॑ नक्षन्थि॒तिभिः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतत् । ते । इंद्र । वीर्यं । गीःभिः । गृणंति । कारवः ।  
+> ते । स्तोभंतः । ऊर्जं । अवन् । घृतश्चुतं । पौरासः । नक्षन् । धीतिभिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ये कारवः स्तोतारः ते तव संबंधि एतत् दृश्यमानं वृष्ट्यादिलक्षणसामर्थ्यं गीर्भिः स्तुतिरूपाभिर्वाग्भिः गृणंति स्तुवंति ते स्तोभंतः स्तोतारः
+> ऊर्ज० अन्नं आवन् प्राप्नुवंति । किंच ते पौरासः पुरे भवाः स्तोतारः धीतिभिरंगुलीभिः धृतश्चुतं धृतस्राविणं गवादिगणं नक्षन् व्याप्नुवंति । त्वदनुग्रहात्
+> गवादिपशून् अंगुलीभिः सर्वदा दुहंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those singers, the praisers, praise with songs, that is, with words in the form of praise, this visible power of yours, which has the form of rain and the like. Those praisers, praising you, obtain strength, that is, food. Moreover those praisers who dwell in the city reach with their fingers the herd of cows and other animals that streams ghee. By your favour they always milk cows and other animals with their fingers. That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- कारवः (*kāravaḥ*)—the praisers
+- एतत् ते वीर्यं (*etat te vīryaṃ*)—this your prowess
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- गृणंति (*gṛṇaṃti*)—they praise
+- ते (*te*)—they
+- स्तोभंतः (*stobhaṃtaḥ*)—praising you
+- ऊर्जं (*ūrjaṃ*)—food
+- आवन् (*āvan*)—obtain
+- पौरासः (*paurāsaḥ*)—the sacrificers who dwell in the city
+- धीशिभिः (*dhīśibhiḥ*)—with their fingers
+- धृतश्चुतं (*dhṛtaścutaṃ*)—the cows that yield ghee and the like
+- नक्षन् (*nakṣan*)—obtain
+
+### Printed p. 626
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the praisers extol your prowess with praises. Praising you, they obtain food. They obtain cows that yield, through their fingers, milk and ghee and the like. (Or: by their rites, the dhīti, they accomplish the sacrifice that is filled with ghee and the like.)
+
+##### English translation
+Indra, the worshippers are singing the praise of your heroism, and by praising you attain strength. They have brought you sacrifices dropping ghee.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नक्षं॑त॒ इंद्र॒मव॑से सुकृ॒त्यया॒ येषां॑ सु॒तेषु॒ मंद॑से ।  
+> यथा॑ संव॒र्ते अम॑दो॒ यथा॑ कृ॒श ए॒वास्मे इं॑द्र मत्स्व ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नक्षंते । इंद्रं । अवसे । सुकृत्यया । येषां । सुतेषु । मंदसे ।  
+> यथा । संवर्ते । आमदः । यथा । कृशे । एव । अस्मे इति । इंद्र । मत्स्य ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र येषां यजमानानां संबंधिषु सुतेष्टभिषुतेषु सोमेषु
+> निभातेषु (? निपीतेषु) त्वं मंदसे हृष्यसि ते यजमानाः अवसे अन्नाय रक्षणाय
+> वा सुकृत्यया शोभनेन सोमाभिषवकर्मणा इंद्रं परमेश्वरं त्वां नक्षंते
+> व्याप्नुवंती । नक्षतिर्वाप्तिकर्मा इन्वति नक्षति इति व्याप्तिकर्मसु पाठात् । अन्नाद्यर्थं
+> त्वामाश्रयंत इत्यर्थः । अतो हे इंद्र यथा येन प्रकारेण संवर्ते एतन्नामके
+> यषौ यजमाने सति आमदः हृष्टवानसि यथा च कृशे एतन्नाम्यि यजमाने
+> आमदः एव एवमनेन प्रकारेण अस्मै अस्मासु काण्वेषु मत्स्य हृष्टो भव
+> सोमपानादिनेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those sacrificers in whose pressed Somas **NOTE** you rejoice, those sacrificers reach you, the Supreme Lord, for food or for protection, by the good rite of the Soma-pressing. The verb for reaching has the sense of pervading, for it is read among words of pervading: इन्वति नक्षति इति व्याप्तिकर्मसु पाठात् (*invati nakṣati iti vyāptikarmasu pāṭhāt*). The meaning is that they take refuge in you for food and the like. Therefore, O Indra, as you rejoiced when the seer called Saṃvarta was the sacrificer, and as you rejoiced when the sacrificer was the one called Kṛśa, in this way rejoice in us, the Kāṇvas, by the drinking of Soma and the like; that is the supplement.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येषां (*yeṣāṃ*)—of which sacrificers
+- सुतेषु (*suteṣu*)—with the pressed Somas
+- मंदसे (*maṃdase*)—you attain satisfaction (those same sacrificers)
+- सुकृत्यया (*sukṛtyayā*)—by their excellent rites
+
+### Printed p. 627
+
+- इंद्रं (*iṃdraṃ*)—you, who are the Lord
+- अवसे (*avase*)—for protection
+- नक्षंते (*nakṣaṃte*)—they approach
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—in what manner
+- संवर्ते (*saṃvarte*)—by the Soma-drinking in the seer called Saṃvarta
+- आमदः (*āmadaḥ*)—you attained delight
+- यथा (*yathā*)—in what manner
+- कृशे (*kṛśe*)—you delighted by the Soma-drinking in the sacrificer called Kṛśa
+- एव (*eva*)—in the same way
+- आस्मे (*āsme*)—by the drinking of the Soma that is in us also
+- मत्स्य (*matsya*)—attain delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those sacrificers by whose offered Soma-drinking you attain satisfaction approach you, the Lord, for protection, by their excellent rites. O Indra, in the manner in which you attained delight by the Soma-drinking in the seer called Saṃvarta, and delighted by the Soma-drinking in the sacrificer called Kṛśa, in the same way attain delight by the drinking of the Soma that is in us also.
+
+##### English translation
+Indra, whose Soma exhilarates you, their righteous actions are reaching you; as you were favourably disposed to Samvarta and Krisa so be towards us.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ विश्वे॑ स॒जोष॑सो॒ देवा॑सो॒ गंत॒नोप॑ नः ।  
+> वस॑वो रु॒द्रा अव॑से न॒ आ ग॑मञ्छृ॒ण्वंतु॑ म॒रुतो॒ हवं॑ ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । विश्वे । सजोषसः । देवासः । गंतन । उप । नः ।  
+> वसवः । रुद्राः । अवसे । नः । आ । गमन् । शृण्वंतु । मरुतः । हवं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सजोषसः सह जुषमाणाः विश्वे देवासः सर्वॆ देवाः नोऽस्माकं यज्ञमुद्दिश्येति शेषः । नोऽस्माकमुप समीपे आ गंतन आगच्छंतु । किंच वसवोऽष्टौ
+> रुद्रा एकादश च नोऽस्माकमवसे रक्षणाय आ गमन् आगच्छंतु । मरुतः एकोनपंचाशत्संख्याका देवास्तु हवमस्मत्कृतं स्तोत्रं शृण्वंतु ॥
+
+##### Gist of the bhāṣya
+
+May all the gods, delighting together, come near to us, to our sacrifice; "to our sacrifice" is the supplement. Moreover, may the eight Vasus and the eleven Rudras come for our protection. May the Maruts, the gods numbering forty-nine, hear the praise made by us.
+
+### Printed p. 628
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सजोषसः (*sajoṣasaḥ*)—showing delight together
+- विश्वे देवासः (*viśve devāsaḥ*)—all the gods
+- नः (*naḥ*)—for our sacrifice
+- नः उप (*naḥ upa*)—to us
+- आ गंतन (*ā gaṃtana*)—let them come
+- वसवः (*vasavaḥ*)—the gods called Vasus
+- रुद्राः (*rudrāḥ*)—the Rudras
+- नः अवसे (*naḥ avase*)—for our protection
+- आ गमत् (*ā gamat*)—let them come
+- मरुतः (*marutaḥ*)—the Maruts
+- हवं (*havaṃ*)—our praise
+- शृण्वंतु (*śṛṇvaṃtu*)—let them hear
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods, who show delight together, come to us to take part in our sacrifice. May the Vasus and the Rudras come for our protection. May the Maruts hear our praise.
+
+##### English translation
+May all the gods come to us being equally delighted. May Vashus and Rudras come for our protection, may Maruths hear our invocation ;
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒षा विष्णु॒ र्हव॑नं मे॒ सर॑स्व॒त्यवं॑तु स॒प्त सिंध॑वः ।  
+> आपो॒ वातः॒ पर्व॑तासो॒ वन॒स्पतिः॑ शृ॒णोतु॑ पृथि॒वी हवं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषा । विष्णुः । हवनं । मे । सरस्वती । अवंतु । सप्त । सिंधवः ।  
+> आपः । वातः । पर्वतासः । वनस्पतिः । शृणोतु । पृथिवी । हवं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूषा पोषको देवः विष्णुर्वापको देवः सरस्वती । सर इत्युदकनाम ।
+> तद्वती देवी च एते सर्वॆ मे मम मातरिश्वानस्य (मातरिश्वनः) ऋषेः हवनमाह्वानं । स्तोत्रमिति यावत् । अवंतु शृण्वंतु । अवतिरत्र श्रवणकर्मा । अव रक्षणगति
+> इत्यस्मिन् सूत्रे (?) तस्य श्रवणाभिधानात् । किंच सप्त सप्तसंख्याकाः सिंधवो
+> गंगाद्या नद्य आपः जलाभिमानिन्यो देवताः वातो वायुः पर्वतास॥ पर्ववतां
+> मेर्वादीनामभिमानिनो देवाश्च मे हवनं अवंतु शृण्वंतु । अथ च वनस्पतिः
+> वनानां पातारः पालको (पालका) देवाः पृथिवी च देवी मे हवं स्तोत्रं
+> शृणोतु ॥
+
+##### Gist of the bhāṣya
+
+Pūṣan, the nourishing god; Viṣṇu, the pervading god; and the goddess Sarasvatī, for the word for water is सर इत्युदकनाम (*sara ityudakanāma*), so she is the goddess who has it: all these, may they hear my invocation, that is, my praise, mine, the seer Mātariśvān **NOTE**. The verb for protecting is used here in the sense of hearing, since in that Sūtra its meaning of hearing is given **NOTE**. Moreover the seven rivers, the Gaṅgā and the rest, the waters, that is, the deities who preside over water, the wind, and the mountains, that is, the gods who preside over mountains such as Meru, may they hear my invocation. And further the lords of the forests, the protecting gods, and the goddess Earth, may they hear my invocation, my praise.
+
 ---
 
-**Progress note:** Done through printed p. 622. Ṛk 2 to Ṛk 7 (to Pratipadārtha) of 8.53
+**Progress note:** Done through printed p. 628. 8.53 Ṛk 7 end, Ṛk 8; sūkta 8.54 Ṛk 1-4
