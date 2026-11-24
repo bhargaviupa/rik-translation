@@ -5476,6 +5476,324 @@ O Indra and Agni, hear the invocation of this Vasiṣṭha, the praiser. Honour 
 Hear, Indra and Agni, the invocation of the worshipper ; accept his
 adoration ; recompense, lords, his pious acts.
 
+### Printed p. 133
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा पा॑प॒त्वाय॑ नो न॒रेंद्रा॑ग्नी॒ माभिश॑स्तये ।  
+> मा नो॑ रीरधतं नि॒दे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । पापत्वायु । नः । नरा । इंद्राग्नी इति । मा । अभिशस्त्रये ।  
+> मा । नः । रीरधतं । निदे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेताराविंद्राग्नी नोऽस्मान् पापत्वाय हीनभावायु मा रीरधतं।
+> तथाभिशस्तये शत्रुभिः कृतायाभिशंसनाय मा रीरधतं । तथा निदे निंदकाय
+> जनाय नोऽस्मान् मा रीरधतं । मा वशीकुरुतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, leaders (नरा (*narā*)), do not hand us over to lowness of state, to wickedness (पापत्वायु (*pāpatvāyu*)). Likewise do not hand us over to the abuse (अभिशस्तये (*abhiśastaye*)) practised by enemies. Likewise do not hand us over to the reviler (निदे (*nide*)), the person who censures. मा रीरधतं (*mā rīradhataṃ*) means "do not subject us".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- नः (*naḥ*)—us
+- पापत्वायु (*pāpatvāyu*)—to contemptible sins and the like
+- मा रीरधतं (*mā rīradhataṃ*)—do not subject
+- अभिशस्तये (*abhiśastaye*)—to the treacherous acts of the enemy
+- मा (रीरधतं) (*mā (rīradhataṃ)*)—do not give up
+- नः (*naḥ*)—us
+- निदे (*nide*)—to people who revile
+- मा (रीरधतं) (*mā (rīradhataṃ)*)—do not subject
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, leaders, do not subject us to contemptible sins and the like. Do not give us up to the treacherous acts of the enemy. Do not let us fall into the hands of those who revile us and suffer.
+
+##### English translation
+Leaders of (rites), Indra and Agni, subject us not to wickedness, nor to calumny, nor to the reviler.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रे॑ अ॒ग्ना नमो॑ बृ॒हत्स्॑व व्य॒क्ति मेर॑यामहे ।
+
+### Printed p. 134
+
+> धिया धेना अवस्यवः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रे । अग्ना । नमः । बृहत् । सुवृक्तिं । आ । ईरयामहे ।  
+> धिया । धेनाः । अवस्यवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि प्रातःसवनेऽच्छावाकस्येंद्रे अग्नेत्ययं षडहस्तोत्रियसंज्ञकस्तृचः । सूत्रितं च । इंद्रे आग्ना नमो बृहत्ता हुवे ययोरिदं ।
+> आ. ७-२ । इति ॥
+> अवस्यवो रक्षणकामा वयमिंद्रे देवेऽग्नाग्ना च बृहद्बृंहणं वर्धकं
+> नमो हविर्लक्षणमन्नं सुवृक्तिं सुप्रवृत्तां स्तुतिं चेरयामहे । अभिप्रेरयामः ।
+> तथा धिया कर्मणा युक्ता धेनाः । वाज्ञामैतत् । अप्रगीताः स्तुतिवाचश्चाभिप्रेरयामः ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the morning pressing, this ṛk इंद्रे अग्ना (*iṃdre agnā*) belongs to the Acchāvāka's tṛca called Ṣaḍahastotriya. It is stated in the sūtra: इंद्रे आग्ना नमो बृहत्ता हुवे ययोरिदं (*iṃdre āgnā namo bṛhattā huve yayoridaṃ*) (Ā. 7-2). We, desiring protection, direct towards Indra and Agni great, strengthening नमः (*namaḥ*)—food in the form of oblation—and well-directed praise. Likewise, along with the rite (धिया (*dhiyā*)), we direct towards them the धेनाः (*dhenāḥ*), which are speech, namely unsung words of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवस्यवः (*avasyavaḥ*)—we who desire protection
+- इंद्रे (*iṃdre*)—towards Indra, the deity
+- अग्ना (*agnā*)—and towards Agni
+- बृहत् (*bṛhat*)—their strengthening
+- नमः (*namaḥ*)—food in the form of oblation
+- सुवृक्ति (*suvṛkti*)—excellent praise
+- आ ईरयामहे (*ā īrayāmahe*)—we offer
+- धिया (*dhiyā*)—joined with the rite
+- धेनाः (*dhenāḥ*)—we offer also the most excellent words of praise
+
+##### भावार्थ (Bhāvārtha)
+
+We, desiring protection, offer to Indra the deity and to Agni their strengthening food in the form of oblation and excellent praise. Joined with the rite, we also offer most excellent words of praise.
+
+##### English translation
+Desiring protection, we offer copious oblations and praise to Indra and Agni, and prayers with holy rites.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice, on the day called Cāturviṃśika, at the time of the morning pressing, the priest called Acchāvāka is to recite this ṛk इंद्रे अग्ना (*iṃdre agnā*) as part of the tṛca called Ṣaḍahastotriya; this is explained by the sūtra इंद्रे अग्ना नमो बृहत्ता हुवे ययोरिदं (*iṃdre agnā namo bṛhattā huve yayoridaṃ*) of the Āśvalāyana Śrauta Sūtra (Ā. 7-2).
+
+### Printed p. 135
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता हि शश्वं॑त॒ ईळ॑त इ॒त्था विप्रा॑स ऊ॒तये॑ ।  
+> स॒बाधो॒ वाज॑सातये ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता हि । शश्वंतः । ईळते । इत्था । विप्रासः । ऊतये ।  
+> सऽबाधः । वाजसातये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता हि ता खल्विंद्राग्नी शश्वंतो बहवो विप्रासो मेधाविनो जना ऊतये
+> रक्षणायेत्थमनेन प्रकारेणेळते । स्तुवंति । तथा सबाधः समानं बाधमानाः
+> परस्परं बाध्यमाना जना वाजसातयेऽन्नलाभाय तावेवेंद्राग्नी ईळते । स्तुवंति।
+> यद्वा । वाजसातिरिति संग्रामनाम । संग्रामार्थ० ॥
+
+##### Gist of the bhāṣya
+
+Those very Indra and Agni are praised by many wise (विप्रासः (*viprāsaḥ*)) people for protection, in this manner. Likewise people, mutually afflicting one another (सबाधः (*sabādhaḥ*)), praise those same two for the gain of food (वाजसातये (*vājasātaye*)). Or else: वाजसाति (*vājasāti*) is a name for battle; so, for the sake of battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इत्था (*itthā*)—in this very manner
+- विप्रासः (*viprāsaḥ*)—wise sacrificers
+- शश्वंतः (*śaśvaṃtaḥ*)—in many numbers
+- ऊतये (*ūtaye*)—for their own protection
+- ता हि (*tā hi*)—those famous Indra and Agni
+- ईळते (*īḷate*)—they praise
+- सबाधः (*sabādhaḥ*)—people also who experience the same kinds of afflictions such as hunger
+- वाजसातये (*vājasātaye*)—for the gain of food (they praise these same)
+
+##### भावार्थ (Bhāvārtha)
+
+In the same manner in which we praise, wise sacrificers in many numbers praise those famous Indra and Agni for their own protection; people who experience the same kinds of afflictions such as hunger also praise these same for the gain of food.
+
+##### English translation
+Many are the sages who propitiate (Indra and Agni) in this manner for (their) protection, mutually striving for the acquirement of food.
+
+### Printed p. 136
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वां॑ गी॒र्भिर्पि॑ प॒न्यवः॒ प्रय॑स्वंतो हवामहे ।  
+> मे॒धसा॑ता सनि॒ष्यवः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । गीःभिः । विपन्यवः । प्रयस्वंतः । हवामहे ।  
+> मेधसाता । सनिष्यवः । ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विपन्यवः स्तोत्रमिच्छंतः प्रयस्वंतो हविर्लक्षणेनान्नेनोपेताः सनिष्यवः
+> सनि धनमात्मन इच्छंतो वयं मेधसाता मेधानां यागानां सात् संभजने
+> निमित्तभूते सति हे इंद्राग्नी ता तौ वां युवां गीर्भिः स्तुतिभिर्हवामहे । आह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+We, desiring to offer praise (विपन्यवः (*vipanyavaḥ*)), furnished with food in the form of oblation (प्रयस्वंतः (*prayasvaṃtaḥ*)), and desiring wealth for ourselves (सनिष्यवः (*saniṣyavaḥ*)), invoke you two, O Indra and Agni, with praises, when there is occasion for the sharing (सात् (*sāt*)) of the sacrifices (मेधानां (*medhānāṃ*)), which is the cause.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra and Agni) विपन्यवः (*vipanyavaḥ*)—those who wish to offer praises
+- प्रयस्वंतः (*prayasvaṃtaḥ*)—those joined with food in the form of oblation
+- सनिष्यवः (*saniṣyavaḥ*)—we who desire wealth
+- मेधसाता (*medhasātā*)—at the time of performing this sacrifice
+- ता वां (*tā vāṃ*)—you, the famous ones
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- हवामहे (*havāmahe*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, we who wish to offer praises, are joined with food in the form of oblation, and desire wealth, call you, the famous ones, with praises at the time of performing this sacrifice.
+
+##### English translation
+Eager to offer praise, bearing (sacrificial) food, desirous of wealth we invoke you, Indra and Agni, with praises, in the celebration of holy acts.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी॒ अव॒सा ग॑तम॒स्मभ्यं॑ चर्षणीसहा ।  
+> मा नो॑ दुः॒शंस॑ ईशत ॥ ७ ॥
+
+### Printed p. 137
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । अवसा । आ । गतं । अस्मभ्यं । चर्षणिसहा ।  
+> मा । सः । दुःशंसः । ईशत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमावास्यायामैंद्राग्नस्य हविष इंद्राग्नी अवसेत्यनुवाक्या । सूत्रितं च ।
+> इंद्राग्नी अवसा गतं गीर्भिर्निप्रः प्रमतिमिच्छमानः । आ. १-६ । इति ॥
+> हे चर्षणीसह चर्षणीनां ममष्याणां शत्रुभूतानामभिभवितारौ हे
+> इंद्राग्नी अस्मभ्यं स्तोतृभ्यो देयेनावसान्नेन सहा गतं । आगच्छतं । दुःशंसो
+> दुष्टाभिशंसनः पारुष्यवादी शत्रुश्च नोऽस्मान्मेशत । ईशिष्ट । अस्मान्बाधितुं मा
+> शक्नोतु ॥
+
+##### Gist of the bhāṣya
+
+At the New-Moon sacrifice, for the oblation to Indra and Agni, इंद्राग्नी अवसा (*iṃdrāgnī avasā*) is the anuvākyā. It is stated in the sūtra: इंद्राग्नी अवसा गतं गीर्भिर्निप्रः प्रमतिमिच्छमानः (*iṃdrāgnī avasā gataṃ gīrbhirnipraḥ pramatimicchamānaḥ*) (Ā. 1-6). O Indra and Agni, overcomers (चर्षणीसहा (*carṣaṇīsahā*)) of men who are enemies, come to us, the praisers, with food (अवसा (*avasā*)) to be given. Let the ill-wisher (दुःशंसः (*duḥśaṃsaḥ*))—the one who speaks harshly, the enemy—not have power over us; let him not be able to harm us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चर्षणीसहा (*carṣaṇīsahā*)—having the power to defeat enemy people
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- अस्मभ्यं (*asmabhyaṃ*)—fit to be given to us
+- अवसा (*avasā*)—with food
+- आ गतं (*ā gataṃ*)—graciously come
+- दुःशंसः (*duḥśaṃsaḥ*)—enemies with treacherous intent
+- नः (*naḥ*)—over us
+- मा ईशत (*mā īśata*)—let them not exercise lordship
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, who have the power to defeat enemy people, graciously come with food fit to be given to us. May enemies with treacherous intent not exercise lordship over us.
+
+##### English translation
+Overcomers of (hostile) men, Indra and Agni, come with food (to be bestowed) upon us : let not the malevolent have power over us.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the New-Moon (darśa) sacrifice, in the oblation made to Indra and Agni, this ṛk इंद्राग्नी अवसा (*iṃdrāgnī avasā*) is to be recited as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra इंद्राग्नी अवसा गतं गीर्भिर्विप्रः प्रमतिमिच्छमानः (*iṃdrāgnī avasā gataṃ gīrbhirvipraḥ pramatimicchamānaḥ*) (Ā. 1-6).
+
+### Printed p. 138
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा कस्य॑ नो॒ अर॑रुषो धू॒र्तिः प्रण॒ङ्मर्त्य॑स्य ।  
+> इंद्रा॑ग्नी॒ शर्म॑ यच्छतं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । कस्य । नः । अररुषः । धूर्तिः । प्रणक् । मर्त्यस्य ।  
+> इंद्राग्नी । शर्म । यच्छतं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी कस्य कस्यचिदप्यररुषोऽरेर्मर्त्यस्य मनुष्यस्य संबंधिनी धूर्तिर्हिंसा नोऽस्मान्मा प्रणक् । मा प्राप्नोतु । शर्म सुखं चास्मभ्यं यच्छतं ।
+> दत्तं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, may the violence (धूर्तिः (*dhūrtiḥ*)) belonging to any (कस्य (*kasya*)) mortal, a man who is a niggard or enemy (अररुषः (*araruṣaḥ*)), not reach (प्रणक् (*praṇak*)) us; and grant (यच्छतं (*yacchataṃ*)) us happiness (शर्म (*śarma*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- अररुषः (*araruṣaḥ*)—who is an enemy
+- कस्य (चित्) मर्त्यस्य (*kasya (cit) martyasya*)—instigated by any human being
+- धूर्तिः (*dhūrtiḥ*)—violence
+- नः (*naḥ*)—us
+- मा प्रणक् (*mā praṇak*)—let it not approach
+- शर्म (*śarma*)—happiness
+- यच्छतं (*yacchataṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, may violence instigated by any human being who is an enemy not approach us. Give us happiness.
+
+##### English translation
+Let not the malice of any hostile mortal reach us; grant us Indra and Agni, felicity.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोम॒द्धिर॑ण्यव॒द्वसु॒ यद्वा॒मश्वा॑न॒दीम॑हे ।  
+> इंद्रा॑ग्नी॒ तद्व॑नेमहि ॥ ९ ॥
+
+### Printed p. 139
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽमत् । हिरण्यवत् । वसु । यत् । नां । अश्ववत् । ईमहे ।  
+> इंद्राग्नी इति । तत् । वनेमहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी गोमद्गोभिर्युक्तं हिरण्यवद्धिरण्यैः सुवर्णैर्युक्तमश्वावदश्वैश्चोपेतं यद्वसु नां युवामीमहे याचामहे तद्वसु युवयोः
+> प्रसादाद्वयं वनेमहि । संभजेमहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, the wealth (वसु (*vasu*)) that we two-by-two beg of you, accompanied by cattle (गोमत् (*gomat*)), by gold (हिरण्यवत् (*hiraṇyavat*)) and by horses (अश्वावत् (*aśvāvat*)), that wealth may we, through your favour, obtain (वनेमहि (*vanemahi*)), that is, share in.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- गोमत् (*gomat*)—that which is accompanied by cattle
+- हिरण्यवत् (*hiraṇyavat*)—that which has gold
+- अश्वावत् (*aśvāvat*)—that which has horses
+- यत् वसु (*yat vasu*)—which wealth
+- नां (*nāṃ*)—from you
+- ईमहे (*īmahe*)—we beg
+- तत् (*tat*)—that same wealth
+- वनेमहि (*vanemahi*)—may we obtain from you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, may we obtain from you that wealth, accompanied by cattle, gold and horses, which we beg of you.
+
+##### English translation
+We solicit you both for wealth, comprising cattle, gold and horses: may we obtain it of you, Indra and Agni.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्सोम॒ आ सु॒ते नर॑ इंद्रा॒ग्नी अजो॑हवुः ।  
+> सप्ती॑वंता सप॒र्यवः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । सोमे । आ । सुते । नरः । इंद्राग्नी इति । अजोहवुः ।  
+> सप्तिवंता । सपर्यवः ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 132. pp. 126-132 (batch API)
+**Progress note:** Done through printed p. 139. pp. 133-139 (batch API)
