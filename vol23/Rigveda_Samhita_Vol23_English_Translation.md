@@ -15262,6 +15262,309 @@ Drink, Indra, of our sapid libation mixed with milk, and be satisfied : regard y
 
 > भूयाम । ते । सुमौ । वाजिनः । वयं । मा । नः । स्तः । अभिमातये ।
 
+### Printed p. 382
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मान् । चित्राभिः । अवतात् । अभिष्टिभिः । आ । नः । सुम्नेषु । यमय ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव सुमतौ शोभनायां मतावनुग्रहबुद्धौ वाजिनो
+> हविष्मंतो वयं भूयाम । वर्तमाना भवाम । अभिमातये । अभिमन्यत
+> इत्यभिमातिः शत्रुः । तस्मै तदर्थं नोऽस्मान्मा स्तः । मा हिंसीः ॥ स्त्रैज् हिंसायां।
+> माजु लुजि छांदसश्चॆर्लुक् ॥ अपि त्वभिष्टिभिरभ्येषणीयाभिः प्रार्थनीयाभिश्चित्ताभिश्चायनीयाभिर्बहुविधाभिर्वा त्वदीयाभिरूतिभिरस्मानवतात् । अव । रक्ष । तथा
+> नोऽस्मान् सुम्मेषु सुखेश्वा यामय । आयतान् कुरु । सर्वदा सुखिन एव
+> कुरु ॥
+
+##### Gist of the bhāṣya
+
+Addressing Indra, Sāyaṇa explains: "may we, the offerers of oblations (वाजिनः (*vājinaḥ*) = हविष्मंतो (*haviṣmaṃto*)), be (भूयाम (*bhūyāma*) = remain) in your good, gracious disposition (सुमतौ (*sumatau*))." *abhimātiḥ* is the enemy, one who is hostile; "do not (मा स्तः (*mā staḥ*) = मा हिंसीः (*mā hiṃsīḥ*)) harm us for his sake." Further, "protect (अवतात् (*avatāt*) = रक्ष (*rakṣa*)) us with your wondrous aids, अभिष्टिभिः (*abhiṣṭibhiḥ*) being those to be sought, prayed for, desired, or of many kinds. And यामय (*yāmaya*) means: make us extended (आयतान् कुरु (*āyatān kuru*)) in comforts (सुम्नेषु (*sumneṣu*) = pleasures); make us happy always."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your (O Indra)
+- सुमतौ (*sumatau*)—in the most excellent gracious disposition
+- वाजिनः (*vājinaḥ*)—possessed of oblations
+- वयं (*vayaṃ*)—we
+- भूयाम (*bhūyāma*)—may we be
+- अभिमातये (*abhimātaye*)—for our enemy
+- नः (*naḥ*)—us
+- मा स्तः (*mā staḥ*)—do not harm
+- अभिष्टिभिः (*abhiṣṭibhiḥ*)—by protections prayed for by us
+- चित्राभिः (*citrābhiḥ*)—and of many kinds
+- अस्मान् (*asmān*)—us
+- अवतात् (*avatāt*)—protect
+- नः (*naḥ*)—us
+- सुम्मेषु (*summeṣu*)—in comforts
+- आ यामय (*ā yāmaya*)—keep for a very long time
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may we, the offerers of oblations, remain in your most excellent gracious disposition. Do not harm us for the sake of our enemy. Protect us with protections that we have prayed for, of many kinds. Keep us for a very long time in comforts.
+
+##### English translation
+May we be offerers of oblations (to enjoy) your favour; harm us not for the sake of the enemy ; protect us with your wondrous solicited (protections), maintain us ever in felicity.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा उ॑ त्वा पुरूवसो॒ गिरो॑ वर्धंतु॒ या मम॑ ।  
+> पा॒व॒कव॑र्णाः॒ शुच॑यो विप॒श्चितो॒ऽभि स्तोमै॑रनूषत ॥ ३ ॥
+
+### Printed p. 383
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ऊं इति । त्वा । पुरुवसो इति पुरुवसो । गिरः । वर्धंतु । याः ।  
+> मम ।  
+> पावकवर्णाः । शुचयः । विपर्चितः । अभि । स्तोमैः । अनूषत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरूवसो बहुधनेंद्र मम मदीया इमा गिरः शस्त्ररूपा वाचस्ता
+> त्वां वर्धंतु । वर्धयंतु । तथा पावकवर्णा अग्निसमानतेजस्काः अत एव शुचयः
+> शुद्धा विपश्चितो विद्वांस उद्घातारश्च स्तोमैः स्तोत्रैर्बहिष्पवमानादिभिरभ्यनूषत।
+> त्वामभिष्णुवंति ॥ नू स्तुता क.टादिः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra of abundant wealth (पुरूवसो (*purūvaso*)), may these my praises, speeches in the form of śastras, magnify you. Likewise the sages (विपश्चितः (*vipaścitaḥ*)), the learned Udgātṛs, who are fire-coloured (पावकवर्णाः (*pāvakavarṇāḥ*) = of brilliance like fire's) and therefore pure (शुचयः (*śucayaḥ*)), glorify you (अभ्यनूषत (*abhyanūṣata*) = त्वामभिष्णुवंति (*tvāmabhiṣṇuvaṃti*)) with stotras (स्तोमैः (*stomaiḥ*)), the Bahiṣpavamāna and others."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरूवसो (*purūvaso*)—O Indra, possessed of wealth of many kinds
+- मम (*mama*)—offered by me
+- या इमा गिरः (*yā imā giraḥ*)—these words of praise
+- त्वा उ (*tvā u*)—you
+- वर्धंतु (*vardhaṃtu*)—may they magnify
+- पावकवर्णाः (*pāvakavarṇāḥ*)—those of brilliance equal to fire's
+- शुचयः (*śucayaḥ*)—pure
+- विपश्चितः (*vipaścitaḥ*)—wise, namely the Udgātṛs
+- स्तोमैः (*stomaiḥ*)—with stotras such as the Bahiṣpavamāna
+- अभ्यनूषत (*abhyanūṣata*)—they praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of wealth of many kinds, may these words of praise offered by me magnify you. The Udgātṛs, who have brilliance equal to fire's, who are pure and wise, praise you with stotras such as the Bahiṣpavamāna.
+
+##### English translation
+(Indra), abounding in wealth, may these my praises magnify you; the brilliant pure sages glorify you with hymns.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं स॒हस्र॒मृषि॑भिः॒ सह॑स्कृतः समु॒द्र इ॑व पप्रथे ।
+
+### Printed p. 384
+
+> सत्यः सो अस्य महिमा गृणे शवो यज्ञेषु विप्रराज्ये ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । सहस्रं । ऋषिभिः । सहकृतः । समुद्रैः इव । पप्रथे ।  
+> सत्यः । सः । अस्य । महिमा । गृणे । शवः । यज्ञेषु । विप्रराज्ये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः सहस्रं सहस्रसंख्याकैर्यषिभिरतींद्रियार्थदर्शिभिः स्तोतृभिः
+> सहस्कृतः सहसा बलेन युक्तः कृतः । स्तुत्या हि देवताया बलं वर्धते । स चैवंभूतः सन् समुद्र इवोदधिरिव पप्रथे । प्रथितो विस्तीर्णो बभूव । अस्य चेंद्रस्य
+> सत्योऽवितथः स प्रसिद्धो महिमा महत्त्वं शवो बलं च यज्ञेषु यागेषु विप्रराज्ये । राज्यः कर्म राज्यं । विप्राणां स्तोतृणां राज्ये स्तुतशस्त्रसंघे
+> गृणे । स्तूयते ॥
+
+##### Gist of the bhāṣya
+
+This Indra has been made सहस्कृतः (*sahaskṛtaḥ*), that is, endowed with strength (सहसा (*sahasā*)), by a thousand ṛṣis, the praisers who see what is beyond the senses; for a deity's strength increases through praise. Being so, he has become extended like the ocean (समुद्र इव (*samudra iva*) = *udadhiriva*). His true, unfailing (सत्योऽवितथः (*satyo 'vitathaḥ*)) and famous greatness (महिमा (*mahimā*)) and strength (शवः (*śavaḥ*)) are praised (गृणे (*gṛṇe*) = स्तूयते (*stūyate*)) at the sacrifices, in the विप्रराज्ये (*viprarājye*). राज्यः (*rājyaḥ*) is the activity of ruling (राज्यं (*rājyaṃ*)); विप्रराज्ये (*viprarājye*) means in the assembly of the praisers, in the company of stotras and śastras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Indra
+- सहस्रं (*sahasraṃ*)—numbering a thousand
+- ऋषिभिः (*ṛṣibhiḥ*)—by the ṛṣis who are praisers
+- सहस्कृतः (*sahaskṛtaḥ*)—praised, and having increased his power
+- समुद्रइव (*samudraiva*)—like the ocean
+- पप्रथे (*paprathe*)—he has grown extended
+- अस्य (*asya*)—of this Indra
+- सत्यः (*satyaḥ*)—true
+- सः (*saḥ*)—and famous
+- महिमा (*mahimā*)—greatness
+- शवः (*śavaḥ*)—strength
+- यज्ञेषु (*yajñeṣu*)—at the sacrifices
+- विप्रराज्ये (*viprarājye*)—in the assemblies of the praisers
+- गृणे (*gṛṇe*)—is praised
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra, praised by a thousand ṛṣis who are praisers, and having increased his power, has grown extended like the ocean. His true and famous greatness and strength are praised at the sacrifices, in the assemblies of the praisers.
+
+##### English translation
+Invigorated by (the praises of) a thousand Rishis, this (Indra) is as vast as the ocean : the true mightiness and strength of him are glorified at sacrifices, and in the realm of the devout.
+### Printed p. 385
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒मिद्दे॒वता॑तय॒ इंद्रं॑ प्रय॒त्य॑ध्व॒रे ।  
+> इंद्र॑ समी॒के व॒निनो॑ हवामह॒ इंद्रं॒ धन॑स्य सा॒तये॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । इत् । देवतातये । इंद्रं । प्रयति । अध्वरे ।  
+> इंद्रं । संईके । वनिनः । हवामहे । इंद्रं । धनस्य । सातये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि निष्केवल्य इंद्रमिद्देवतातय इति रैवतसामप्रगाथः शंसनीयः पृष्ट्येऽहनि निष्केवल्ये त्वयं प्रगाथः । सूत्र्यते हि । इंद्रमिद्देवतातय
+> इतीतरेषां पृष्ट्य एवैकैकमन्वहं । आ. ७-३ । इति ॥
+> देवतातये । देवैः स्तोतृभिस्तायते विस्तार्यत इति देवतातिर्यज्ञः ।
+> तदर्थमिंद्रमिद्देवेषु मध्यॆ इंद्रमेवाह्वयामहे । अध्वरे यज्ञे प्रयति
+> प्रगच्छत्युपक्रांते सतींद्रं हवामहे । तथा समीके सम्यग्गते संपूर्णे च यागे
+> वनिनः संभजमाना वयमिंद्रमेवाह्वयामहे । यद्वा । समीकमिति संग्रामनाम । समीके संग्राम इंद्रमाह्वयामहे । धनस्य सातये लाभयेंद्रमेवाह्वयामहे । अतः शीघ्रमिंद्र आगच्छत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the Niṣkevalya, the Raivata-sāman Pragātha इंद्रमिद्देवतातये (*iṃdramiddevatātaye*) is to be recited; on the Pṛṣṭya day, however, this Pragātha is at the Niṣkevalya. It is enjoined in the sūtra इंद्रमिद्देवतातय इतीतरेषां पृष्ट्य एवैकैकमन्वहं (*iṃdramiddevatātaya itītareṣāṃ pṛṣṭya evaikaikamanvahaṃ*) (Ā. Sū. 7-3).
+देवतातये (*devatātaye*): *devatātiḥ* is the sacrifice, which is spread out (तायते (*tāyate*)) by the gods, the praisers. For that, among the gods, we invoke Indra alone. When the sacrifice (अध्वरे (*adhvare*)) is under way (प्रयति (*prayati*) = begun), we invoke Indra. Likewise, when the sacrifice is well advanced and complete (समीके (*samīke*)), we who are devotees (वनिनः (*vaninaḥ*) = those who attend, संभजमाना (*saṃbhajamānā*)) invoke Indra alone. Or else *samīkaṃ* is a name of battle: in battle we invoke Indra. For the gain of wealth (धनस्य सातये (*dhanasya sātaye*)) we invoke Indra alone; so let Indra come quickly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवतातये (*devatātaye*)—for the sacrifice, the means of worshipping the gods
+- इंद्रमित् (*iṃdramit*)—Indra alone (we invoke)
+- अध्वरे (*adhvare*)—the sacrifice
+- प्रयति (*prayati*)—when it begins
+- इंद्रं (*iṃdraṃ*)—Indra
+- हवामहे (*havāmahe*)—we invoke
+- समीके (*samīke*)—in battle
+- वनिनः (*vaninaḥ*)—we who seek help
+- इंद्रं (*iṃdraṃ*)—Indra alone we invoke
+- धनस्य (*dhanasya*)—of wealth
+- सातये (*sātaye*)—for the gain
+- इंद्रं (*iṃdraṃ*)—Indra alone we invoke
+
+##### भावार्थ (Bhāvārtha)
+
+For the sacrifice, the means of worshipping the gods, we invoke Indra alone. When the sacrifice begins also we invoke Indra alone. In battle, we who seek help invoke Indra alone. For the gain of wealth also we invoke Indra alone.
+### Printed p. 386
+
+##### English translation
+We invoke Indra for the worship of the gods, and when the sacrifice is proceeding; adoring him, we call upon Indra at the close of the rite; we invoke him for the acquirement of wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśika, when the Niṣkevalya śastra mantras are recited, the Ṛk इंद्रमिद्देवतातये (*iṃdramiddevatātaye*) is to be recited together with the Raivata-sāman Pragātha mantras; and on the day called Pṛṣṭya also it is to be recited together with the Pragātha mantras. This is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, इंद्रमिद्देवतातय इतीतरेषां पृष्ट्य एवैकैकमन्वहं (*iṃdramiddevatātaya itītareṣāṃ pṛṣṭya evaikaikamanvahaṃ*) (Ā. Sū. 7.3).
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ म॒ह्ना रोद॑सी पप्रथ॒च्छव॒ इंद्रः॒ सूर्य॑मरोचयत् ।  
+> इंद्रे॑ ह॒ विश्वा॒ भुव॑नानि येमिर॒ इंद्रे॑ सुवा॒नास॒ इंद॑वः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> “ पदपाठि ”  
+> इंद्रः । मह्ना । रोदसी इति । पप्रथत् । शवः । इंद्रः । नूर्यं । अरोचयत्  
+> इंद्रे । ह । विश्वा । भुवनानि । येमिरे । इंद्रे । सुवानासः । इंदवः । ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः शवः शवस आत्मीयस्य बलस्य मह्ना महिम्मा महत्वेन रोदसी
+> द्यावापृथिव्यौ पप्रथत् । अप्रथयत् ! विस्तारितवान् ! तथा स्वर्भानुनावृतं सूर्यमयमेवेंद्रोऽरोचयत् । अदीपयत् ! तस्यासुरस्य वधेन प्रकाशितवान् ।
+> आपि चेंद्रे हास्मिन्नेवेंद्रे विश्वा विश्वानि व्याप्तानि भुवनानि भूतजातानि येमिरे !
+> उपरमंते । इंद्रेण नियम्यंत इत्यर्थः । तथा सुवानासः सूयमाना अभिषूय.
+> माणा इंदवः सोमाश्चास्मिन्नेवेंद्रे नियम्यंते । अंतर्भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Indra, by the greatness (मह्ना (*mahnā*) = महिम्मा (*mahimmā*), महत्वेन (*mahatvena*)) of his own strength (शवः (*śavaḥ*) = शवः (*śavaḥ*)), spread out (पप्रथत् (*paprathat*) = अप्रथयत् (*aprathayat*), extended) heaven and earth (रोदसी (*rodasī*)). Likewise the sun, which had been covered by Svarbhānu, this same Indra made shine (अरोचयत् (*arocayat*) = अदीपयत् (*adīpayat*)): by slaying that Asura he made it bright. Moreover, in this very Indra all beings (विश्वा भुवनानि (*viśvā bhuvanāni*), pervaded creatures) are restrained (येमिरे (*yemire*) = उपरमंते (*uparamaṃte*), rest); the meaning is that they are controlled by Indra. And the Soma drops (इंदवः (*iṃdavaḥ*)) that are being pressed (सुवानासः (*suvānāsaḥ*) = सूयमाना (*sūyamānā*), अभिषूय. माणा (*abhiṣūya. māṇā*)) are likewise held within this very Indra; the meaning is that they are included in him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- शवः (*śavaḥ*)—of his strength
+- मह्ना (*mahnā*)—by the greatness
+- रोदसी (*rodasī*)—both heaven and earth
+- पप्रथत् (*paprathat*)—has spread out widely
+- इंद्रः (*iṃdraḥ*)—this same Indra
+- सूर्यं (*sūryaṃ*)—the sun
+### Printed p. 387
+- अरोचयत् (*arocayat*)—has made it shine
+- इंद्रे ह (*iṃdre ha*)—in this very Indra
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- येमिरे (*yemire*)—range about
+- सुवानासः (*suvānāsaḥ*)—streaming when pressed
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- इंद्रे (*iṃdre*)—are united in Indra alone
+
+##### भावार्थ (Bhāvārtha)
+
+By the greatness of his strength Indra has spread out heaven and earth widely. This same Indra has made the sun shine. In this very Indra all beings range about. The Soma juices that stream when pressed are united in Indra alone.
+
+##### English translation
+Indra, by the might of his strength, has spread out the heaven and earth : Indra has lighted up the sun : in Indra are all beings aggregated ; the distilling drops of the Soma flow to Indra.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्वा॑ पू॒र्वपी॑शय॒ इंद्र॒ स्तोमे॑भिरा॒यवः॑ ।  
+> स॒मी॒ची॒नास॑ ऋ॒भवः॒ सम॑स्वरन्नु॒द्रा गृ॑णंत॒ पूर्व्यं॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्वा । पूर्वपीतये । इंद्र । स्तोमेभिः । आयवः ।  
+> संईचीनासः । ऋभवः । सं । अस्वरन् । रुद्राः । गृणंत । पूर्व्यं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ज्योतिष्टोमो यदि रथंतरपृष्ठस्तदा निष्केवल्येऽभि त्वा पूर्वपीतय इति
+> प्रगाथोऽनुरूपः । सूत्र्यते हि । अभि त्वा पूर्वपीतय इति प्रगाथौ स्तोत्रियानुरूपौ । आ. ५-१५ । इति ॥ महाव्रतेऽपि निष्केवल्ये दक्षिणपक्षेऽप्ययं प्रगाथः ।
+> सूत्रितं च । अभि त्वा पूर्वपीतय इति रथंतरस्य स्तोत्रियानुरूपौ प्रगाथौ । ऐ.
+> आ. ५-२. २. । इति ॥
+> हे इंद्र आयवो मनुष्याः स्तोतारः स्तोमेभिः स्तोत्रैस्त्वामभिष्टवंति!
+> किमर्थं । पूर्वपीतॆये सर्वेभ्यो देवेभ्यः पूर्वं प्रथमत एव सोमस्य
+
+##### Gist of the bhāṣya
+
+If the Jyotiṣṭoma is Rathantara-pṛṣṭha, then at the Niṣkevalya the Pragātha अभि त्वा पूर्वपीतये (*abhi tvā pūrvapītaye*) is the Anurūpa. It is enjoined: अभि त्वा पूर्वपीतय इति प्रगाथौ स्तोत्रियानुरूपौ (*abhi tvā pūrvapītaya iti pragāthau stotriyānurūpau*) (Ā. Sū. 5-15). At the Mahāvrata also, at the Niṣkevalya on the southern side, this is the Pragātha; it is prescribed: अभि त्वा पूर्वपीतय इति रथंतरस्य स्तोत्रियानुरूपौ प्रगाथौ (*abhi tvā pūrvapītaya iti rathaṃtarasya stotriyānurūpau pragāthau*) (Ai. Ā. 5-2-2).
+"O Indra, the आयवः (*āyavaḥ*), men who are praisers, praise you with stotras. For what? पूर्वपीतये (*pūrvapītaye*): for the drinking of Soma first, before all the gods." (The bhāṣya continues on the next page.)
+### Printed p. 388
+
+> पानाय । सवनमुखे हि चमसगणैरिंद्रस्यॆव सोमो हूयते । तथा समीचीनासः संगता ऋभवः । प्रथमवाचकेन शब्देन त्रयोऽप्युपलक्ष्यंते । ऋभुर्विभ्वा
+> वाज इत्येते च समस्वरन् । त्वामेव सम्यगस्तुवन् ॥ स्वृ शब्दोपतापयोः ॥
+> रुद्रा रुद्रपुत्रा मरुतश्च पूर्व्यं पुरातनं वृद्धं त्वामेव गृणंत । अभ्यस्तुवन् ।
+> वृत्रवधसमये प्रहर भगवो जहि वीरयस्वेत्येवंरूपया वाचा त्वां स्तुतवंत
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+At the opening of a pressing, Soma is offered to Indra alone by the sets of cups (चमस (*camasa*)). Likewise the समीचीनासः (*samīcīnāsaḥ*), the assembled Ṛbhus: by the first-named word the three are indicated, namely Ṛbhu, Vibhvan and Vāja; they united (समस्वरन् (*samasvaran*)) in praising you alone. The Rudras, the sons of Rudra, that is the Maruts, praised (गृणंत (*gṛṇaṃta*)) you alone, the ancient (पूर्व्यं (*pūrvyaṃ*) = पुरातनं (*purātanaṃ*)), the elder. The meaning is that at the time of the slaying of Vṛtra they praised you in words of this kind: "Strike, O Lord, slay, show your valour."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आयवः (*āyavaḥ*)—men who are praisers
+- पूर्वपीतये (*pūrvapītaye*)—so that (Indra) may drink before all the other gods
+- त्वा (*tvā*)—you alone
+- स्तोमेभिः अभि (*stomebhiḥ abhi*)—they praise with stotras
+- समीचीनासः (*samīcīnāsaḥ*)—those who are gathered together
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus (all three)
+- समस्वरन् (*samasvaran*)—have been praising you alone
+- रुद्राः (*rudrāḥ*)—the sons of Rudra
+- the Maruts also
+- पूर्वं (*pūrvaṃ*)—you alone, the ancient
+- गृणंत (*gṛṇaṃta*)—have praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, men who are praisers praise you alone with stotras, so that you may drink first, before all the other gods. The Ṛbhus, who are assembled together, also have praised you alone. The Maruts, the sons of Rudra, also have praised you alone.
+
+##### English translation
+Men glorify you, Indra, with hymns that you may drink the first (of the gods): the associated Ribhus unite in your praise, the Rudras glorify the ancient (Indra).
+
+##### विशेषविषयगळु (Special Topics)
+
+When the Jyotiṣṭoma sacrifice is performed in its modified form called Rathantara-pṛṣṭha, then among the Niṣkevalya śastra mantras the three Ṛks beginning अभि त्वा पूर्वपीतये (*abhi tvā pūrvapītaye*) (Ṛks 7–9) are to be recited as the Anurūpa tṛca among the Pragātha mantras. This is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, अभि त्वा पूर्वपीतय इति प्रगाथौ स्तोत्रियानुरूप् (*abhi tvā pūrvapītaya iti pragāthau stotriyānurūp*) (Ā. Sū. 5-15). Also, in the Mahāvrata rite, when the Niṣkevalya śastra mantras are recited, this tṛca is to be recited on the southern side as a Pragātha mantra. This is stated by the sentence of the Aitareya Āraṇyaka, अभि त्वा पूर्वपीतय इति रथंतरस्य स्तोत्रियानुरूप् प्रगाथौ (*abhi tvā pūrvapītaya iti rathaṃtarasya stotriyānurūp pragāthau*) (Ai. Ā. 5-2-2).
+
 ---
 
-**Progress note:** Done through printed p. 381. pp. 375-381 (batch API)
+**Progress note:** Done through printed p. 388. pp. 382-388 (batch API)
