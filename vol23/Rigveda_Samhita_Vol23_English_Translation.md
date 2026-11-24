@@ -27686,6 +27686,281 @@ When your (younger brother) Vishnu by (his) strength stepped his three paces, th
 
 O Indra, your two हर्यता (*haryatā*), beloved, हरी (*harī*), horses, which carry you, दिवे दिवे (*dive dive*).
 
+### Printed p. 666
+
+> प्रतिदिवसं यदा यस्मिन्काले नावृधाते प्रेवृदौ बभूवतुः आदिदनंतरमेव त्वया
+> विश्वा विश्वानि सर्वाणि भुवनानि भूतजातानि येमिरे । नियम्यंते स्म ॥
+
+##### Gist of the bhāṣya
+
+(Continuing the comment on verse 28.) Each day, when the two horses grow strong, then at once all beings are restrained by you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हर्यता (*haryatā*)—having a form attractive through their lustre
+- ते (*te*)—your
+- हरी (*harī*)—horses
+- दिवेदिवे (*divedive*)—every day
+- यदा (*yadā*)—at what time
+- वावृधाते (*vāvṛdhāte*)—they grow
+- आदित् (*ādit*)—at once
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- ते (*te*)—your
+- येमिरे (*yemire*)—come under your control
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, at whatever time your horses, attractive in form through their lustre, grow strong day by day, at once all beings come under your control.
+
+##### English translation
+When your beloved horses had augmented day by day, then all existent beings were subject unto you.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा ते॒ मारु॑ती॒र्विश॒स्तुभ्य॑मिंद्र नियेमि॒रे ।  
+> आदित्ते॒ विश्वा॒ भुव॑नानि येमिरे ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । ते । मारुतीः । विशः । तुभ्यं । इंद्र । नियेमिरे ।  
+> आत् । इत् । ते । विश्वा । भुवनानि । येमिरे ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तुभ्यं त्वदर्थं मारुतीर्मारुत्यो मरुद्रूपास्ते त्वदीया विशः
+> प्रजा यदा यस्मिन्काले नियेमिरे नियच्छंति भूतजातानि! अन्यद्धतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when your subjects, the Maruts (the Mārutī people), restrain the beings for you, at that time all beings are restrained by you. The rest as before. **NOTE**
+
+### Printed p. 667
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तुभ्यं (*tubhyaṃ*)—for you
+- मारुतीः (*mārutīḥ*)—called the Marut deities
+- ते (*te*)—your
+- विशः (*viśaḥ*)—subjects
+- यदा (*yadā*)—when
+- नियेमिरे (*niyemire*)—they regulate the worlds
+- आदित् (*ādit*)—at once
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- ते (*te*)—your
+- येमिरे (*yemire*)—come under your regulation
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when your subjects, in the form of the Maruts, regulate the worlds for you, at once all beings come under your sway.
+
+##### English translation
+When Indra, your people, the Maruts, were regulated by you, then all existent beings were subject unto you.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा सूर्य॑म॒मुं दि॒वि शु॒क्रं ज्योति॒रधा॑रयः ।  
+> आदित्ते॒ विश्वा॒ भुव॑नानि येमिरे ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । सूर्यं । अमुं । दिवि । शुक्रं । ज्योतिः । आधारयः ।  
+> आत् । इत् । ते । विश्वा । भुवनानि । येमिरे ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अमुं विप्रकृष्टं शुक्रं निर्मलं ज्योतिर्दोतमानं सूर्यं सर्वस्य
+> प्रेरकं शोभनवीर्यं वादित्यं दिवि द्युलोके जगतः प्रकाशनाय यदा यस्मिन्कालेऽधारयः धारितवानसि । समानमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when you set in heaven, the world of Dyu, that distant, pure, shining light, the sun, the impeller of all (or the one of excellent valour, the Āditya), to illumine the world, at that time all beings are restrained by you. The rest is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमुं (*amuṃ*)—him who is visible to all
+- शुक्रं (*śukraṃ*)—pure
+- ज्योतिः (*jyotiḥ*)—shining
+- सूर्यं (*sūryaṃ*)—the sun
+- दिवि (*divi*)—in the world of Dyu
+- यदा (*yadā*)—when
+- अधारयः (*adhārayaḥ*)—you set
+
+### Printed p. 668
+- आदित् (*ādit*)—at once
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- ते (*te*)—your
+- येमिरे (*yemire*)—come under your regulation
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, at once, when you set in the world of Dyu the sun, visible to all, pure and shining, all beings come under your regulation.
+
+##### English translation
+When you had placed yonder pure light, the sun, in the sky, then all existing beings were subject unto you.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां त॑ इंद्र सुष्टु॒तिं विप्र॑ इयर्ति धी॒तिभिः॑ ।  
+> जा॒मिं प॒देव॒ पिप्र॑तीं॒ प्राध्व॒रे ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । ते । इंद्र । सुस्तुतिं । विप्रः । इयर्ति । धीतिभिः ।  
+> जामिं । पदाइव । पिप्रतीं । प्र । अध्वरे ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र विप्रो मेधावी स्तोताध्वरे यज्ञ इमां पुरोवर्तिनीं पिप्रतीं
+> पूजयंतीं प्रीणयंतीं ना सुष्टुतिं शोभनां स्तुतिं धीतिभिः कर्मभिः परिचरणैः
+> सार्धं ते त्वां प्रेरयति । प्रगमयति । जामिं पदेव यथा बंधुभूतं पुरुषमुत्कृष्टानि पदानि स्थानानि प्रापयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the wise worshipper at the sacrifice sends forth to you this praise that lies before him, gratifying and honouring, a good praise, together with his acts of service (dhītis). He does so as one who conveys a kinsman to exalted places.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- विप्रः (*vipraḥ*)—the wise praiser
+- जामिं (*jāmiṃ*)—his kinsman
+- पदेव (*padeva*)—as one places in a most exalted position
+- अध्वरे (*adhvare*)—at the sacrifice
+- इमां (*imāṃ*)—this, now offered
+- पिप्रतीं (*pipratīṃ*)—gratifying
+- सुष्टुतिं (*suṣṭutiṃ*)—excellent praise
+- धीतिभिः (*dhītibhiḥ*)—joined with acts of service
+- ते (*te*)—to you
+- प्र इयर्ति (*pra iyarti*)—offers abundantly
+
+### Printed p. 669
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as one places a kinsman in a most exalted position, the wise praiser at the sacrifice offers you in an excellent manner this excellent praise, now offered and gratifying, joined with his acts of service.
+
+##### English translation
+The wise (worshipper), Indra, offers you this gratifying sincere praise along with pious rites at the sacrifice, as (a man places) a kinsman in (a prominent) position.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑स्य॒ धाम॑नि प्रि॒ये स॑मीची॒नासो॒ अस्व॑रन् ।  
+> नाभा॑ य॒ज्ञस्य॑ दो॒हना॒ प्राध्व॒रे ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अस्य । धामनि । प्रिये । संऽईचीनासः । अस्वरन् ।  
+> नाभा । यज्ञस्य । दोहना । प्र । अध्वरे ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध्वरे यज्ञेऽस्येंद्रस्य धामनि स्थाने तेजसि ना प्रिये प्रीणयितव्ये सति
+> समीचीनासः संगताः स्तोतारो यद्यदा प्रास्वरन् प्रकर्षणास्तुवन् ॥ स्वृ
+> शब्दोपतापयोः ॥ अयाळिंद्रस्य प्रिया धामानीति हि निगमः । कस्मिन्देशे । नाभा
+> नाभौ पृथिव्या नाभिस्थानीये मध्यॆ यज्ञस्य यजनसाधनस्य सोमस्य दोहना
+> दोहने दोहनाधिकारणेऽभिषवस्थाने । वेद्यामित्यर्थः । तदानीं धनं प्रदेहीत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+At the sacrifice, when this Indra's place or radiance is to be gratified, the assembled praisers praise loudly (प्रास्वरन् (*prāsvaran*) means "they praise strongly"; the root स्वृ (*svṛ*) is in the sense of sound and heat). The Nirukta-like text says: *iṃdrasya priyā dhāmāni* ("Indra's dear places"). In which region? नाभा (*nābhā*) means at the navel of the earth, i.e. the middle, at the milking-place (दोहना (*dohanā*)) of the soma, the means of sacrifice, the place of pressing, that is, on the altar. The construction goes with the later words: "then give wealth."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरे (*adhvare*)—at the sacrifice
+- अस्य (*asya*)—of this Indra
+- धामनि (*dhāmani*)—in the place
+- प्रिये (*priye*)—for the sake of what is dear
+- नाभा (*nābhā*)—on the sacrificial altar, the navel of the earth
+- यज्ञस्य (*yajñasya*)—of the soma, the means of sacrifice
+- दोहना (*dohanā*)—for the sake of the offering
+- समीचीनासः (*samīcīnāsaḥ*)—the praisers gathered together
+
+### Printed p. 670
+- यत् (*yat*)—when
+- प्र अस्वरन् (*pra asvaran*)—they praise abundantly; (then may Indra give us wealth)
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra has taken his place at the sacrifice, and the praisers gathered together, for the sake of what is dear to him and for the offering of soma, the means of sacrifice, on the altar that is the navel of the earth, praise abundantly, then may Indra give us wealth.
+
+##### English translation
+When the congregated (worshippers) praise him aloud in a place that pleases (him) on the navel (of the earth), in the spot where the libation is effused at the sacrifice, (then).
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒वीर्यं॒ स्वश्वं॑ सु॒गव्य॑मिंद्र दद्धि नः ।  
+> होते॑व पू॒र्वचि॑त्तये॒ प्राध्व॒रे ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्ववीर्यं । स्वअश्व्यं । स्वगव्यं । इंद्र । दद्धि । नः ।  
+> होताइव । पूर्वचित्तये । प्र । अध्वरे ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवीर्यं शोभनवीर्योपेतं स्वश्वं शोभनेनाश्वसंघेन च युक्तं
+> सुगव्यं शोभनगोसंघयुक्तं च धनं हे इंद्र नोऽस्मभ्यं दद्धि । ददस्व ॥ दद
+> दाने । अनुदात्तेत् । व्यत्ययेन परस्मैपदं । छांदसः शपो लुक् ॥ अहं ॥
+> चाध्वरे यागे होतेव यथा मानुषो होतर्त्विक् स्तौति एवमेव पूर्वचित्तये पूर्वप्रज्ञानायानेभ्यः स्तोतृभ्यः पूर्वमेवास्मत्सोत्रपरिज्ञानाय
+> प्राशंसिषमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, give us wealth endowed with good valour, with good horses (a good troop of horses) and with good cattle (a good herd of cows). दद्धि (*daddhi*) means "give" (root दद (*dada*) in the sense of giving). And at the sacrifice, as a human hotṛ priest praises, so I have praised, for the sake of prior knowledge, that is, so that you may know our praise before that of the other praisers (the verb *prāśaṃsiṣaṃ* is to be supplied).
+
+### Printed p. 671
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अध्वरे (*adhvare*)—at the sacrifice
+- होताइव (*hotāiva*)—as the hotṛ praises you
+- पूर्वचित्तये (*pūrvacittaye*)—to make it known to you before you learn the praises of others
+- प्र (*pra*)—I offer abundantly
+- नः (*naḥ*)—to us
+- सुवीरं (*suvīraṃ*)—endowed with good valour
+- स्वश्वं (*svaśvaṃ*)—endowed with good horses
+- सुगव्यं (*sugavyaṃ*)—accompanied by excellent cows
+- दद्धि (*daddhi*)—grant graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the hotṛ praises you at the sacrifice, I offer abundantly, so that my praise may become known to you before you learn the praises of others. Grant us graciously wealth endowed with good valour, with horses and with excellent cows.
+
+##### English translation
+Bestow upon us, Indra, (wealth) comprising worthy male offspring, excellent horses, and good cattle : like the ministrant priest (I worship you), at the sacrifice, (to secure) your prior consideration.
+
+## Sūkta 13 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयेऽनुवाकेऽष्ट सूक्तानि । तत्रेंद्रः सुतेष्विति त्रयस्त्रिंशदृचं प्रथमं
+> सूक्तं काण्वस्य नारदस्यार्षमौष्ठिहमैंद्रं । तथा चानुक्रांतं । इंद्रः सुतेषु नारद
+> इति ॥ महाव्रते निष्केवल्य औष्ठिहतृचाशीतौ पूर्वसूक्तेन सहोक्तो विनियोगः ॥
+> तृतीये पर्यायेऽच्छावाकशस्त्र इंद्रः सुतेष्विति तृचः स्तोत्रियः । सूत्र्यते हि ।
+> इंद्रः सुतेषु सोमेषु य इंद्र सोमपातमः । आ ६-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The third anuvāka has eight sūktas. Of these the first, इंद्रः सुतेषु (*iṃdraḥ suteṣu*), of thirty-three Ṛks, has as seer Nārada of the Kaṇva line, as deity Indra, and is of the auṣṭiha type (as the text has it). So the Anukramaṇī says: इंद्रः सुतेषु नारद (*iṃdraḥ suteṣu nārada*). In the Mahāvrata, in the Niṣkevalya recitation, the use for the auṣṭiha triplets together with the preceding sūkta has already been stated. In the third paryāya, in the Acchāvāka's śastra, the triplet इंद्रः सुतेषु (*iṃdraḥ suteṣu*) is the stotriya; for it is taught in the sūtra: इंद्रः सुतेषु सोमेषु य इंद्र सोमपातमः (*iṃdraḥ suteṣu someṣu ya iṃdra somapātamaḥ*) (Ā. 6-4).
+
+##### Anuvāda
+
+In the third anuvāka of the eighth maṇḍala there are eight sūktas. Among them the sūkta इंद्रः सुतेषु (*iṃdraḥ suteṣu*) is the first. It has thirty-three Ṛks. The seer of this sūkta is Nārada, born in the Kaṇva line; the deity is Indra; the metre is Uṣṇik. In the Anukramaṇī it is said: इंद्रः सुतेषु नारदः (*iṃdraḥ suteṣu nāradaḥ*). In the Mahāvrata sacrifice, when the Niṣkevalya śastra mantras are recited, the use of this sūkta together with the preceding sūkta, for the Ṛks of the Uṣṇik metre, has been stated in the use of the preceding sūkta itself. In the third paryāya
+
 ---
 
-**Progress note:** Done through printed p. 665. pp. 660-665 (batch API)
+**Progress note:** Done through printed p. 671. pp. 666-671 (batch API)
