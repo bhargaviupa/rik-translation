@@ -15881,6 +15881,281 @@ I pour into your mouth, Agni, praises as others (fill it) with delicious butter 
 > ऊ॒र्जाहु॑ति॒र्वसू॑नां॒ शं च॒ योश्च॒ मयो॑ दधे॒ विश्व॑स्यॆ  
 > दे॒वहू॑त्यै॒ नभं॑तामन्य॒के स॑मे ॥ ४ ॥
 
+### Printed p. 351
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत्त्वतः । अग्निः । वयः । दधे ! यथायथा । कृपण्यति ।  
+> ऊर्जा आहुतिः । वसूनां । शं । च । योः । च । मयः । दधे । विश्वस्यै । देवहूत्यै । नभंतां । अन्यके । समे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा यथा यद्यदन्नं कृपण्यति स्तोतृभिर्याच्यते तत्तद्वयोऽग्निर्दधे !
+> स्तोतृभ्यः । प्रयच्छति । आपि चोर्जाहुतिरन्नेनाहूयमानोऽग्निर्वसूनां हविषां
+> वासकानां यजमानानां शं शांतिनिमित्तं योर्विषययोगजनितं च मयः सुखं
+> दधे । करोति । विश्वस्यॆ देवहूत्यै सर्वस्मै देवानां ह्वानाय च भवति । यः
+> कश्चनापि देवो यदि हूयते अग्निरेव सर्वं करोतीत्यर्थः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Whatever food the worshippers ask of Agni in whatever way, Agni grants to them. Invoked with the oblation of food, he bestows on the sacrificers, who dwell with their offerings, happiness: that which comes from tranquillity and that which comes from the enjoyment of objects of sense. He is the means for the invocation of all the gods; whatever god is invoked, Agni alone does everything. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथायथा (*yathāyathā*)—in whatever manner
+- कृपण्यति (*kṛpaṇyati*)—(Agni) is asked for food
+- तत्तत् (*tattat*)—all such kinds of
+- वयः (*vayaḥ*)—food
+- अग्निः (*agniḥ*)—Agni
+- दधे (*dadhe*)—gives to the worshippers
+- ऊर्जाहुतिः (*ūrjāhutiḥ*)—Agni, who has food for his oblation
+- वसूनां (*vasūnāṃ*)—to the sacrificers who offer oblations
+- शं च (*śaṃ ca*)—that which is a cause of tranquillity
+- योः च (*yoḥ ca*)—and that which removes sorrow
+- मयः (*mayaḥ*)—happiness
+- दधे (*dadhe*)—he produces
+- विश्वस्यॆ (*viśvasyè*)—all
+- देवहूत्यै (*devahūtyai*)—he is also the means for the invocation of the gods
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—all alike
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+In whatever manner Agni is asked for food, he gives all such food to the worshippers. Agni, who has food for his oblation, produces for the sacrificers who offer oblations happiness that is a cause of tranquillity and a remover of sorrow. He is the means for the invocation of all the gods. May all our enemies be destroyed all alike.
+
+##### English translation
+Agni grants whatever food is solicited : invoked with offerings, he bestows on the worshippers happiness springing from tranquillity and the
+
+### Printed p. 352
+
+enjoymet (of objects of sense) ; he is requisite for all invocation of the gods : may all our adversaries perish.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स चि॑केत॒ सही॑यसा॒ग्निश्चि॒त्रेण॒ कर्म॑णा ।  
+> स होता॒ शश्व॑तीनां॒ दक्षि॑णाभिर॒भीवृ॑त इ॒नोति॑ च प्रती॒व्यं१॒॑ग ॒॑ ॑
+> नभंतामन्यके समे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । चिकेत । सहीयसा । अग्निः । चित्रेण । कर्मणा ।  
+> सः । होता । शश्वतीनां । दक्षिणाभिः । अभिवृतः । इनोति । च । प्रतीव्यं । नभंतां ।  
+> अन्यके । समे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोऽग्निः सहीयसाभिभावुकेन चित्रेण नानाविधेन कर्मणा व्यापारेण चिकेत ।
+> ज्ञायते । सोऽग्निः शश्वतीनां बह्वीनां देवातानां होता ह्वाता दक्षिणाभिः
+> पशुभिश्चाभीवृतः प्रतीव्यं प्रत्येकव्यं शत्रुमिनोति च । गच्छति च । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+That Agni is known by his most powerful and manifold deeds, his varied activity. That Agni is the invoker of the many gods, and, surrounded by the victims given as sacrificial gifts, he goes against the foe and attacks him. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- सहीयसा (*sahīyasā*)—with power to overcome enemies
+- चित्रेण (*citreṇa*)—and manifold
+- कर्मणा (*karmaṇā*)—by deed
+- चिकेत (*ciketa*)—is renowned
+- सः (*saḥ*)—that same Agni
+- शश्वतीनां (*śaśvatīnāṃ*)—to many gods
+- होता (*hotā*)—is the one who gives the invocation
+- दक्षिणाभिः (*dakṣiṇābhiḥ*)—together with the cattle
+- अभीवृतः (*abhīvṛtaḥ*)—surrounded
+- प्रतीव्यं (*pratīvyaṃ*)—the foe
+- इनोति च (*inoti ca*)—he withstands
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—all alike
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+That renowned Agni is known by his manifold deeds, which have the power to overcome enemies. That same Agni is the one who gives invocation to many gods. Surrounded by cattle, he withstands the enemies. May all our enemies be destroyed all alike.
+
+### Printed p. 353
+
+##### English translation
+Agni is known by his most powerful and manifold deeds : he is the invoker of the eternals: surrounded by victims he proceeds against the foe ; may all our adversaries perish.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्जा॒ता दे॒वाना॑म॒ग्निर्वे॑द॒ मर्ता॑नामपी॒च्यं॑ ।  
+> अ॒ग्निः स द्र॑विणो॒दा अ॒ग्निर्द्वारा॒ व्य॑र्णुते॒ स्वा॑हुतो॒  
+> नवी॑यसा॒ नभं॑तामन्य॒के स॑मे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । जाता । देवानां । अग्निः । वेद । मर्तानां । अपीच्यं ।  
+> अग्निः । सः । प्रविणःवाः । अग्निः । द्वारा । वि । ऊर्णते । सुआहुतः । नवीयसा ।  
+> नभंतां । अन्यके । समे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां जाता जातानि जन्मान्यग्निर्वेत्ति मर्तानां मनुष्याणां
+> चापीच्यं गुह्यमग्निर्वेद । वेत्ति । सोऽग्निर्द्वनिहोदा धनस्य दाता । नवीयसा
+> नवतरेण हविषा स्वाहुतः सम्यग्गुतोऽग्निर्दार्वा धनस्य द्वाराणि व्यूर्णुते च ।
+> सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Agni knows the births of the gods and likewise the secrets of mortals, men. That same Agni is the giver of wealth. Duly offered to with a newer oblation, Agni opens the doors of wealth. The rest is established. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- देवानां (*devānāṃ*)—of the gods
+- जाता (*jātā*)—the births
+- वेद (*veda*)—knows
+- मर्तानां (*martānāṃ*)—of men
+- अपीज्यं (*apījyaṃ*)—he also knows the secrets
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- द्रविणोदाः (*draviṇodāḥ*)—is also the giver of wealth
+- नवीयसा (*navīyasā*)—by a new oblation
+- स्वादुतः (*svādutaḥ*)—well worshipped
+- अग्निः (*agniḥ*)—Agni
+- द्वारा (*dvārā*)—the doors of wealth
+- व्यूर्णुते (*vyūrṇute*)—opens fully
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—together
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+### Printed p. 354
+
+##### भावार्थ (Bhāvārtha)
+
+Agni knows the births of the gods. He also knows the secrets of men. That same Agni is also the giver of wealth. Agni, well worshipped with a new oblation, opens fully the doors of wealth. May all our enemies be destroyed together.
+
+##### English translation
+Agni knows the births of the gods; Agni knows the secrets of mankind: Agni is the giver of riches; Agni, duly worshipped with a new (oblation), sets open the doors (of opulence): may all our adversaries perish.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्दे॒वेषु॒ संव॑सुः॒ स वि॒क्षु य॒ज्ञिया॒स्वा ।  
+> स मु॒दा काव्या॑ पु॒रु विश्वं॒ भूमे॑व पुष्यति दे॒वो दे॒वेषु॑  
+> य॒ज्ञियो॒ नभं॑तामन्य॒के स॑मे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । देवेषु । संवसुः । सः । विक्षु । यज्ञियासु । आ ।  
+> सः । मुदा । काव्या । पुरु । विश्वं । भूमइव । पुष्यति । देवः । देवेषु । यज्ञियः ।  
+> नभंतां । अन्यके । समे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवेषु मध्येऽग्निः संवसुः । संवसति । सोऽग्निर्यज्ञियासु यज्ञार्हासु
+> विक्षु प्रजास्वपि संवसुः । किंच सोऽग्निः पुरु बहूनि काव्या कर्माणि भूमेव यथा
+> भूमिर्विश्वं तथा मुदा मोदेन पुष्यति । देवेषु मध्ये देवोऽग्निर्यज्ञियो
+> यज्ञार्हश्च भवति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Among the gods Agni dwells together with them; that same Agni dwells also among the peoples who are fit for sacrifice. Further, that Agni cherishes with pleasure many deeds, as the earth cherishes the whole world. Among the gods, the god Agni is worthy of sacrifice. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- देवेषु (*deveṣu*)—among the gods
+- संवसुः (*saṃvasuḥ*)—dwells happily
+- सः (*saḥ*)—that same Agni
+- यज्ञियासु (*yajñiyāsu*)—among the peoples fit for sacrifice
+- विक्षु आ (*vikṣu ā*)—(he dwells)
+- भूमेव विश्वं (*bhūmeva viśvaṃ*)—as the earth nourishes all
+- सः (*saḥ*)—that same Agni
+- पुरु (*puru*)—of many kinds
+- काव्या (*kāvyā*)—deeds
+- मुदा (*mudā*)—with joy
+- पुष्यति (*puṣyati*)—he nourishes
+
+### Printed p. 355
+
+- देवेषु (*deveṣu*)—among the gods
+- देवः (*devaḥ*)—Agni, who is of the nature of a god
+- यज्ञियः (*yajñiyaḥ*)—is worthy of sacrifice
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+Agni dwells happily among the gods. That same Agni dwells among the peoples fit for sacrifice. As the earth nourishes all, that same Agni joyfully nourishes many kinds of deeds. Agni, who is of the nature of a god, is worthy of sacrifice among the gods. May all our enemies be destroyed at the same time.
+
+##### English translation
+Agni has his abode among the gods; he (dwells) among pious people: he cherishes with pleasure many pious acts, as the earth all (beings); a god adorable among the gods : may all our adversaries perish.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॒ग्निः स॒प्तमा॑नुषः त्रि॒तो एश्वे॑षु॒ सिंधु॑षु ।  
+> तमाग॑न्न त्रिप॒स्यं मं॑धा॒तुद॑स्यु॒हंत॑मम॒ग्निं य॒ज्ञेषु॑  
+> पू॒र्व्यं नभं॑तामन्य॒के स॑मे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यति । अग्निः । सप्तमानुषः । श्रितः । विश्वेषु । सिंधुषु ।  
+> तं । आ । अगन्म । त्रिपस्यं । मंधातुः ! दस्युहन्तमं । अग्निं । यज्ञेषु ।  
+> पूर्व्यं । नभंतां । अन्यके । समे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निः सप्तमानुषो विश्वेषु सर्वॆषु सिंधुषु नदीषु श्रितस्त्रिपस्यं
+> त्रिस्थानं मंधातुर्यौवनाश्वस्य मांधातुर्गस्युहंतमं दस्यूनां हंतारं
+> यज्ञेषु पूर्व्यं मुख्यं तमग्निं वयमागन्म । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Agni, served by seven priests, who has taken refuge in all the rivers, who has a triple abode, who is the slayer of the Dasyus for Māndhātṛ, the son of Yuvanāśva, and who is chief in the sacrifices: that Agni we approach. The rest is established. **NOTE**
+
+### Printed p. 356
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः अग्निः (*yaḥ agniḥ*)—the Agni who
+- सप्तमानुष (*saptamānuṣa*)—has seven kinds of priests
+- विश्वेषु (*viśveṣu*)—in all
+- सिंधुषु (*siṃdhuṣu*)—the rivers
+- श्रितः (*śritaḥ*)—has taken refuge, such a one
+- त्रिपस्यं (*tripasyaṃ*)—who has three abodes
+- मांधातुः (*māṃdhātuḥ*)—for Māndhātṛ
+- दस्युहंतमं (*dasyuhaṃtamaṃ*)—who destroyed the demons
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- पूर्व्यं (*pūrvyaṃ*)—and chief
+- तं अग्निं (*taṃ agniṃ*)—that same Agni
+- आ अगन्म (*ā aganma*)—let us approach
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+Let us approach that same Agni, who has seven kinds of priests, who has taken refuge in all the rivers, who has three abodes, who destroyed the demons for Māndhātṛ, and who is chief in the sacrifices. May all our enemies be destroyed at the same time.
+
+##### English translation
+Let us approach that Agni who is ministered to by seven priests: who takes refuge in all rivers, who has a triple dwelling place, the slayer of the Dasya for Mandhatri, who is foremost in sacrifices : may all our adversaries perish.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निस्त्रीणि॑ त्रि॒धातू॒न्या क्षे॑ति वि॒दथा॑ क॒विः ।  
+> स त्रीरे॑काद॒शा इ॒ह यक्ष॑च्च पि॒प्रय॑च्च नो॒ विप्रो॑ दू॒तः  
+> परि॑ष्कृतो॒ नभं॑तामन्य॒के स॑मे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । त्रीणि । त्रिधातूनि । आ । क्षेति । विदथा । कविः ।  
+> सः । त्रीन् । एकादशान् । इह । यक्षत् । च । पिप्रयत् । जि । नः । विप्रः । दूतः ।  
+> परिकृतः । नभंतां । अन्यके ! समे ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 350. Maṇḍala 8 Sūkta 38 Ṛks 8-10, Sūkta 39 Ṛks 1-4 (up to Saṃhitā), pp. 344-350
+**Progress note:** Done through printed p. 356. Sukta 39 Rk 4-9 (pp. 351-356)
