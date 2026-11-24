@@ -6656,8 +6656,6 @@ He who knows Agni hidden in the cave; he who approaches him
 who is the maintainer of sacrifice, those who,after performing a sacrifice,
 praise him, to them he, forsooth, promises affluence.
 
-<!-- printed 216: NOT IN THE SUPPLIED TEXT -->
-
 <!-- printed 217 -->
 *[ಆ. ೧. ಆ. ೫. ವ. ೧೧. ] ಋಗ್ವೇದಸಂಹಿತಾ 217]*
 
@@ -11582,8 +11580,6 @@ magnitude to uphold (the world), along with her mighty sons.
 ಇಪ್ಪತ್ತು ನಾಲ್ಕು ದ್ಯಾವಾಪೃಥಿವೀನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ. ೩-೨೨) ಪಠಿತವಾಗಿ ಇರುತ್ತದೆ ಮತ್ತು ಅದಿತಿ ಶಬ್ದವು
 ಅದೀನಾ ದೇವಮಾತಾ (ನಿ. ೪-೨೩) ಇತಿಹಾಸಕಪಕ್ಷದಲ್ಲಿ ದೇವತೆಗಳ ಜನನಿಯು ಎಂದು ಅರ್ಥವು.
 
-<!-- printed 374: NOT IN THE SUPPLIED TEXT -->
-
 <!-- printed 375 -->
 *[ಅ. ೧. ಅ. ೫. ವ. ೧೮. ] ಋಗ್ವೇದಸಂಹಿತಾ 375]*
 
@@ -12251,8 +12247,6 @@ resembles) an irreproachable and beloved wife.
 > ತಂ ತ್ವಾ ನರೋ ದಮ ಆ ನಿತ್ಯಮಿದ್ದ ಮಗ್ನೇ ಸಚಂತ ಕ್ಷಿತಿಷು
 > ಧ್ರುವಾಸು ।
 > ಅಧಿ ದ್ಯುಮ್ನಂ ನಿ ದಧುರ್ಭೂರ್ಯಸ್ಮಿನ್ಭವಾ ವಿಶ್ವಾಯುರ್ಧರುಣೋ ರಯಾಣಾಂ ॥ ೪ ॥
-
-<!-- printed 396: NOT IN THE SUPPLIED TEXT -->
 
 <!-- printed 397 -->
 *[ಅ. ೧ ಅ. ೫ ವ. ೧೯.] ಋಗ್ವೇದಸಂಹಿತಾ 397]*
@@ -14215,8 +14209,6 @@ And then, most wise Agent, chief of the Angirasas, may we address
 ಪಠಿತವಾಗಿರುವುದರಿಂದ (ನಿ. ೩-೧೯) ವೇಧಸ್ ಎಂದರೆ ಮೇಧಾವಿಯು, ಬುದ್ಧಿವಂತನು, ವಿವೇಕಿಯು. ವೇಧಸ್ತಮ
 ಎಂದರೆ ಅತಿಶಯವಾದ ಬುದ್ಧಿವಂತನು ಎಂದರ್ಥವು.
 
-<!-- printed 458: NOT IN THE SUPPLIED TEXT -->
-
 <!-- printed 459 -->
 *[ಅ. ೧. ಆ. ೫. ವ. ೨೩. ] ಋಗ್ವೇದಸಂಹಿತಾ 459]*
 
@@ -14767,8 +14759,6 @@ defend you, that you may worship the Gods to their great satisfaction.
 > ಪ್ರ । ಸು । ವಿಶ್ವಾನ್ । ರಕ್ಷಸಃ । ಧಕ್ಷಿ । ಅಗ್ನೇ । ಭವ । ಯಜ್ಞಾನಾಂ । ಅಭಿಶಸ್ತಿ 5 ಪಾವಾ ।
 > ಅಥ । ಆ । ವಹ । ಸೋಮ 5 ಪತಿಂ । ಹರಿ 5 ಭ್ಯಾಂ । ಆತಿಥ್ಯಂ । ಅಸ್ಮೈ ।
 > ಚಕ್ರಮ । ಸು 5 ದಾನ್ವೇ ॥ ೩ ॥
-
-<!-- printed 476: NOT IN THE SUPPLIED TEXT -->
 
 <!-- printed 477 -->
 *[ಆ. ೧. ಅ. ೫. ವ. ೨೪. ] ಋಗ್ವೇದಸಂಹಿತಾ 477]*

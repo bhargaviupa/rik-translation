@@ -71,3 +71,6 @@ Full table: `vol6/review/recheck/summary.tsv` (per page); detail per page in `vo
 
 ## e. Size of S2
 About 560 of 609 pages carry at least one flagged place; the pilot (10 pages from the middle) and the 30-page batches are therefore a full read of the volume, not a read of flagged pages only.
+
+## S1 addendum (Nov 24 2026)
+The Kannada book was remade after fixing `html_to_kn.kn_pages` (a "NOT IN THE SUPPLIED TEXT" mark was written for a page that the script had already found inside the page before: pp. 216, 374, 396, 458, 476). Now: 618 page marks, pp. 2–619 each once, in order; still without text: **8, 66, 559, 571** (their text, if any, is inside the page before). 47 stray lines (image descriptions, "Pages: N/N", ornament signs) stay as the shared tool writes them, italic notes `*[stray line as supplied: …]*`. 0 Devanagari letters (danda excepted) and 0 Telugu in the file. Sanskrit blocks stand as supplied (Kannada script).
