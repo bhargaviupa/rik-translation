@@ -14941,6 +14941,96 @@ He whom, adoring, and desirous of cattle, the protector (Indra) defends against 
 > सनि॑ताः॒ विप्रो॒ अर्व॑द्भि॒र्हंता॑ वृ॒त्रं नृभिः॒ शूरः॑ ।  
 > स॒त्यो॑ऽवि॒ता वि॒धंतं॑ ॥ ३६ ॥
 
+### Printed p. 372
+#### Ṛk 36 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनिता । विप्रः । आर्वत्भिः । हंता । वृत्रं । नृभिः । शूरः ।  
+> सत्यः । अविता । विधंतं ॥ ३६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रो मेधावी स इंद्रोऽर्वद्भिरश्वैर्वाहनभूतैः सनिता गंतव्यं
+> संभक्ता । तथा शूरः शौर्योपेतः सन्नृभिर्नेतृभिर्मरुद्भिः सार्धं वृत्रमावरकमसुरं हंता साधुघाती । अपि च विधंतं परिचरंतं यजमानं सत्यः साधुरवितथस्तभावो ना स इंद्रोऽविता परिचरतो यजमानस्य रक्षिता भवति ॥ सर्वविधीनां
+> छंदसि विकल्पितत्वादत्र कर्मणि षष्ठि न प्रवर्तते ॥
+
+##### Gist of the bhāṣya
+
+The wise one (vipra), that Indra, is the one who shares and bestows (sanitā) through his steeds (arvadbhiḥ), which serve as his vehicles. Likewise, being a hero endowed with valour, he is the slayer of Vṛtra, the enveloping Asura, together with the Maruts, the leaders (nṛbhiḥ); he is a good smiter. Moreover, that Indra is true (satyaḥ), good, of unfailing nature, and is the protector of the sacrificer who serves (vidhantam) him. Because all rules are optional in the Veda, the genitive does not apply here in the object relation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रः (*vipraḥ*)—the wise one
+- शूरः (*śūraḥ*)—the valiant Indra
+- अर्वद्भिः (*arvadbhiḥ*)—by his own horses
+- सनिता (*sanitā*)—being borne
+- नृभिः (*nṛbhiḥ*)—together with the Maruts, the leaders
+- वृत्रं (*vṛtraṃ*)—Vṛtra the Asura
+- हंता (*haṃtā*)—he slays
+- सत्यः (*satyaḥ*)—the same Indra, whose nature is truth
+- विधंतं (*vidhaṃtaṃ*)—the sacrificer who serves him
+- अविता (*avitā*)—he protects
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, wise and valiant, borne by his own horses, slays the Asura Vṛtra together with the Maruts, the leaders. That same Indra, whose nature is truth, protects the sacrificer who serves him.
+
+##### English translation
+Liberal, wise, (borne by his own) steeds, a hero, the slayer of Vritra, (aided) by the Maruts, truthful, he is the protector of the performer of holy rites.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यज॑ध्वैनं प्रियमेधा॒ इंद्रं॑ स॒त्राचा॒ मन॑सा ।  
+> यो भूत्सोमैः॑ स॒त्यम॑द्वा ॥ ३७ ॥
+
+### Printed p. 373
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यजध्व । एनं । प्रियमेधाः । इंद्रं । सत्राचा । मनसा ।  
+> यः । भूत् । सोमैः । सत्यमद्वा ॥ ३७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रियमेधाः । प्रियोऽनुकूलो मेधो यज्ञो येषां ते तथोक्ताः। आत्मनि पूजार्थं बहुवचनं। प्रियमेधा अस्य। ऋषिरात्मानं संबोध्य ब्रूते।
+> हे प्रियमेधाः सत्राचा सहांचता स्तोतव्येनेंद्रेण सह वर्तमानेन मनसा
+> चित्तेनैनमिंद्रं यजध्व । यजध्वं । बुद्धिपूर्वकं यजेत्यर्थः ॥ यजध्वैनं ।
+> पा. ७ १-४३ । इति निपातनाद्दर्णलोपः ॥ य इंद्रः सोमैः करणभूतैः सत्यमद्वा
+> भूत् सत्यमदोऽवितथमदो भवति ॥
+
+##### Gist of the bhāṣya
+
+"O Priyamedhas": those for whom the sacrifice (medha) is dear, i.e. favourable, are so called; the plural is for honour, applied to himself. The seer Priyamedha addresses himself. O Priyamedhas, worship this Indra with a mind (manasā) that is united (satrācā), accompanying the Indra who is to be praised, that is, with heart; "worship" means: sacrifice with deliberate intent. In यजध्वैनं (*yajadhvainaṃ*) the loss of the letter (ra/na) is by nipātana, according to Pā. 7-1-43 **NOTE**. Worship that Indra who becomes truly exhilarated (satyamadvā) through the Soma offerings, the instruments, that is, whose exhilaration is unfailing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रियमेधाः (*priyamedhāḥ*)—O Priyamedha
+- यः (*yaḥ*)—which Indra
+- सोमैः (*somaiḥ*)—by drinking the Soma juice
+- सत्यमद्वा (*satyamadvā*)—truly and full of joy
+- भूत् (*bhūt*)—becomes (with such an Indra)
+- सत्राचा (*satrācā*)—united
+- मनसा (*manasā*)—with a mind (a mind fixed on Indra alone)
+- एनं इंद्रं (*enaṃ iṃdraṃ*)—this Indra
+- यजध्व (*yajadhva*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Priyamedha, worship this same Indra, who becomes truly full of joy through drinking the Soma juice, with a mind fixed on that very Indra, that is, with unshakable devotion.
+
+##### English translation
+Worship, priyamedha, with mind intent upon him, that Indra, who is truthful when exhilarated by the Soma potations.
+
+#### Ṛk 38
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गा॒थश्र॑वसं॒ सत्प॑तिं॒ श्रव॑स्कामं पुरु॒त्मानं॑ ।  
+> कण्वा॑सो गा॒त वा॒जिनं॑ ॥ ३८ ॥
+
 ### Printed p. 374
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
