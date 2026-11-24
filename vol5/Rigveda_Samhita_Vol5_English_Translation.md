@@ -6531,7 +6531,7 @@
 
 **Translation of the bhāṣya:** "O Indra, you did not [strike] the cloud (*parvatam*, the cloud with its joints) *bhojase*, for eating — for one who is struck does not eat; Indra strikes the cloud with the thunderbolt for the sake of rain. And you *irajyasi*, are lord, of *dharmaṇām*, the holders — Kubera and the others — of *mahaḥ nṛmṇasya*, great wealth; *irajyati* is a verb of lordship. That Indra, as a deity, surpasses all by valour: so *pra cekite*, he has come to be well known to us. And he is *ugraḥ*, fierce, uplifted, *viśvasmai karmaṇe*, for every deed such as the slaying of Vṛtra, *purohitaḥ*, placed in front by the gods."
 
-**Pratipadārtha** *(pp. 350–351)* — "**indra** — O Indra; **tvam** — you; **bhojase** — for your own enjoyment; **tam parvatam** — that cloud; **na** — you did not strike with the thunderbolt (you struck the cloud to make rain for men); **mahaḥ** — great; **nṛmṇasya** — of wealth; **dharmaṇām** — of the lords, Kubera and the others; **irajyasi** — you are the lord (you break); **devatā** — Indra in the form of a deity; **vīryeṇa** — by valour; **ati** — he surpasses all; **pra cekite** — he has been known to us well; **ugraḥ** — the proud Indra (valiant); **viśvasmai karmaṇe** — for all deeds (such as the slaying of Vṛtra); **purohitaḥ** — has been put first (among the gods)."
+**Pratipadārtha** *(pp. 350–351)* — "**indra** — O Indra; **tvam** — you; **bhojase** — for your own enjoyment; **tam parvatam** — that cloud; **na** — you did not strike with the thunderbolt (you struck the cloud to make rain for men); **mahaḥ** — great; **nṛmṇasya** — of wealth; **dharmaṇām** — of the lords, Kubera and the others; **irajyasi** — you are the lord; **devatā** — Indra in the form of a deity; **vīryeṇa** — by valour; **ati** — he surpasses all; **pra cekite** — he has been known to us well; **ugraḥ** — the proud Indra (valiant); **viśvasmai karmaṇe** — for all deeds (such as the slaying of Vṛtra); **purohitaḥ** — has been put first (among the gods)."
 
 **Bhāvārtha** *(p. 351)* — "O Indra, you did not strike the cloud with the thunderbolt for your own enjoyment, but struck it to cause rain. You are the master of Kubera and the other lords of great wealth. We have come to know that Indra, in the form of a deity, surpasses all by his valour. The valiant Indra stands first among the gods in all deeds of valour."
 
@@ -6541,20 +6541,20 @@
 - **bhojase** — "*Bhojanāya*: the word *bhojas*, ending in *s*, gives in the Veda the sense of eating."
 - **parvatam** — "*Parvavantaṃ megham*: it gives satisfaction; it gladdens people by giving water and the like. The Nirukta says '*parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā; ardhamāsaparva devān asmin prīṇantīti*' (Ni. 1-20, printed "ನಿರು. ೧-೨೦")".
 - **nṛmṇasya** — "This word means wealth (Ni. 3-9, as printed "ನಿ. ೩-೯")."
-- **irajyasi** — "*Apekṣisuttīye*: 'you wish for' — though this is the sense, for the verb *irajyati* of the sense of jealousy (*īrṣyāyām*) some have given the sense of lordship from '*aiśvarye ity eke*'; the commentator takes the sense 'you hold lordship'."
+- **irajyasi** — "*Apekṣisuttīye*: 'you wish for' — though this is the sense, for the verb *irajyati* of the sense of jealousy (*īrṣyāyām*) some have given the sense of lordship from '*aiśvarye ity eke*'; therefore the explanation of the word is given as 'you desire lordship (wealth)'."
 - **pra cekite** — "*Prakarṣeṇa asmābhir jñāto babhūva*: he has come to be especially known to us. This word is formed from the root *kita jñāne*."
-- **ugraḥ** — "*Udgūrṇa indraḥ*: the Indra who rises against enemies is its sense."
+- **ugraḥ** — "*Udgūrṇa indraḥ*: the Indra who rises against enemies is its contextual (prākaraṇika) sense."
 
 **Vyākaraṇa-prakriyā** *(pp. 352–353 — grammar pages, noted briefly)*
 - **dharmaṇām**: *dhṛñ dhāraṇe*; *manin* (*anyebhyo 'pi dṛśyante*); *guṇa*, *uraṇ raparaḥ*: *dharman*; genitive plural; *nit*, initial-acute.
-- **irajyasi**: *irajyatir aiśvaryakarmā*; *īrṣyāyām* the root *īraj*, in the *kaṇḍvādi* list: *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-27); *sanādyantā dhātavaḥ*; *laṭ* second singular; *nighāta*.
+- **irajyasi**: the root *iraj* (*īrṣyāyām*), in the *kaṇḍvādi* list; some give the sense *aiśvarye*: *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-27); *sanādyantā dhātavaḥ*; *laṭ* second singular; *nighāta*.
 - **vīryeṇa**: *vīra* (*śūra vīra vikrāntau*, *curādi*) with *satyāpapāśa…*: *ṇic*; *ac*… *yat* (*aco yat*, Pā. Sū. 3-1-97); *ṇeraniṭi*: loss of *ṇic*; *vīrya*; instrumental. By *yato 'nāvaḥ* (Pā. Sū. 6-1-213) initial-acute would arise, but since *vīravīryau ca* (Pā. Sū. 6-2-120) restates the initial-acute for compounds, the Kannada reasons that *yat*'s accent does not come here, and *tit svaritam* (Pā. Sū. 6-1-185) gives *svarita*; "if *yato 'nāvaḥ* gave the initial acute, *vīravīryau ca* would be needless, since *ādyudāttaṃ dvyac chandasi* (Pā. Sū. 6-2-119) already gives it in compounds — so it would be useless; therefore the *svarita* comes here."
 - **devatā**: *deva eva devatā*; *devāt tal* (Pā. Sū. 5-4-27): *tal* in the self-sense; *talantaṃ strīyām*: feminine; *liti* (Pā. Sū. 6-1-193): the acute before the suffix.
 - **cekite**: *kita jñāne*; *yaṅ* in the sense of intensity; *sanyaṅoḥ* reduplication; *guṇo yaṅluk…*; *cekitya*; *liṭ* with *te* → *e*… (details as before).
 
 ---
 
-**Rik 55.3, grammar (end)** *(p. 353, PDF 369)*: **cekite** — *liṭ* after *yaṅ*-ending root (*liṭ* is *ārdhadhātuka* by *liṭi*…); *ato lopaḥ* drops the *a* of *yaṅ*; *yasya halaḥ* (Pā. Sū. 6-4-49) drops *y*; *liṭas tajhayor eśirec* gives *e* for *ta*: *cekite*; following an *atiṅ*, *nighāta*. **purohitaḥ** — *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. Sū. 5-3-39): *asi* with *pur* for the base: *puras*; being read as an *avyaya* (*taddhitaś cāsarvavibhaktiḥ*, Pā. Sū. 1-1-38), *purorvyayam* (Pā. Sū. 1-4-67) gives it the *gati*-name, so *gatir anantaraḥ* (Pā. Sū. 6-2-49) keeps the first member's accent. **|| 3 ||**
+**Rik 55.3, grammar (end)** *(p. 353, PDF 369)*: **cekite** — *liṭ* after *yaṅ*-ending root (*liṭ* is *ārdhadhātuka* by *liṭi*…); *ato lopaḥ* drops the *a* of *yaṅ*; *yasya halaḥ* (Pā. Sū. 6-4-49) drops *y*; *liṭas tajhayor eśirec* gives *e* for *ta*: *cekite*; following an *atiṅ*, *nighāta*. **purohitaḥ** — *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. Sū. 5-3-39): *asi* with *pur* for the base: *puras*; being read as an *avyaya* (*taddhitaś cāsarvavibhaktiḥ*, Pā. Sū. 1-1-38), *purovyayam* (Pā. Sū. 1-4-67) gives it the *gati*-name, so *gatir anantaraḥ* (Pā. Sū. 6-2-49) keeps the first member's accent. **|| 3 ||**
 
 ---
 
@@ -6586,24 +6586,24 @@
 
 **Translation of the bhāṣya:** "That very Indra, *vane*, in the forest, is *vacasyate*, praised by the *namasyubhiḥ*, the sages who worship with reverence and hymn; or he himself wishes a *vacas*, a hymn. And Indra, *janeṣu*, among his own people, *prabruvāṇaḥ*, proclaiming *indriyam*, his own valour, abides *cāru*, beautifully. Further, he is *vṛṣā*, the shower of desires, *chanduḥ*, the one who brings pleasure (*upacchandayitā*) to *haryataḥ*, one who wishes to sacrifice: he creates a liking, in men who wish to sacrifice, for the sacrifice. *Vṛṣā* is also the one who showers the oblations, i.e. the giver of oblations; *maghavā*, the wealthy one. When such a sacrificer, endowed with *kṣema*, the protection given by Indra, *invati*, sends out *dhenām*, a speech of praise — then Indra becomes *chandu* (connect with the first). Or: *maghavā vṛṣā* Indra, because he fills with his mind — *kṣemeṇa*, which dispels [trouble] — the *dhenā*, the praise made by the sacrificers, therefore (he becomes a pleasing one)."
 
-**Pratipadārtha** *(p. 354)* — "**saḥ it** — that Indra; **vane** — in the forest; **namasyubhiḥ** — by the sages who worship with salutation; **vacasyate** — is praised, or wishes to be praised; **janeṣu** — among [his own] people; **indriyam** — his own valour; **prabruvāṇaḥ** — revealing; **cāru** — he is beautiful; **vṛṣā** — the giver of oblations, and; **maghavā** — wealthy; such a sacrificer; **kṣemeṇa** — with [Indra-given] protection; **yat** — when; **dhenām** — a praise in the form of speech; **invati** — offers; **vṛṣā** — Indra, who protects the desires; **haryataḥ** — to the sacrificer who wishes to sacrifice; **chanduḥ** — the giver of joy (satisfaction); **bhavati** — becomes."
+**Pratipadārtha** *(p. 354)* — "**saḥ it** — that Indra; **vane** — in the forest; **namasyubhiḥ** — by the sages who worship with salutation; **vacasyate** — is praised, or wishes to be praised; **janeṣu** — among [his own] people; **indriyam** — his own valour; **prabruvāṇaḥ** — revealing; **cāru** — he is beautiful; **vṛṣā** — the giver of oblations, and; **maghavā** — wealthy; such a sacrificer; **kṣemeṇa** — with [Indra-given] protection; **yat** — when; **dhenām** — a praise in the form of speech; **invati** — offers; **vṛṣā** — Indra, who grants (bestows) the desired things; **haryataḥ** — to the sacrificer who wishes to sacrifice; **chanduḥ** — the giver of joy (satisfaction); **bhavati** — becomes."
 
 **Bhāvārtha** *(pp. 354–355)* — "That Indra is praised in the forest by the sages who worship him; he proclaims his beautiful valour among his own people. The sacrificer, wealthy and a giver of oblations, protected by Indra, offers him a praise in speech; then Indra, who grants desires, becomes the giver of satisfaction to the sacrificer who wishes to sacrifice."
 
 **English Translation (the source's own, p. 355)** — "He is praised by adoring (sages) in the forest, he stands beautifully by anouncing his own strength amongst men, when protected by Indra, a wealthy sacrificer, the offerer of oblation, recites laudatory verses, Indra, the showerer of desires, engages him who is desirous of performing a sacrifice in that rite." *(Printed "anouncing" [sic]; heading "Engish Transation" [sic].)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 355**
-- **namasyubhiḥ** — "*Namasā stotreṇa pūjayitṛbhiḥ ṛṣibhiḥ*: by sages who are satisfied by hymn alone. Indra, who loves praise, is satisfied by the praise of the sages in the forest."
-- **vacasyate** — "*Vaca icchati vacasyati*: those sages, who make him *vacasya*, one who wishes hymns. The sense that sages cause Indra to be fond of praise is also fitting."
+- **namasyubhiḥ** — "*Namasā stotreṇa pūjayitṛbhiḥ ṛṣibhiḥ*: by sages who satisfy (him) by hymn alone. Indra, who loves praise, is satisfied by the praise of the sages in the forest."
+- **vacasyate** — "*Vaca icchati vacasyati*: those sages, who make him *vacasya*, one who wishes hymns. Here the word *vacas* is taken to mean hymn, and the meaning 'one who desires hymn' is given. The sense that sages cause Indra to be fond of praise is also implied (*upātta*) here."
 - **haryataḥ** — "*Prepsāvato yiyakṣataḥ*: one who sacrifices of his own wish."
-- **chanduḥ bhavati** — "*Upacchandayitā bhavati*: Indra makes the sacrificers fond of the sacrificial act."
+- **chanduḥ bhavati** — "*Upacchandayitā bhavati*: Indra makes the sacrificers fond of the sacrificial act; this sense is clear here."
 - **vṛṣā** — "Here the word *vṛṣā* refers to Indra, as the giver of desired things, and to the sacrificer, as the one who offers oblations."
 - **dhenām** — "Speech that displays praise: the word is used here in the context that 'one who speaks praise-words dear to Indra gives delight to the sacrificing people'."
 
 **Vyākaraṇa-prakriyā** *(pp. 355–356 — grammar pages, noted briefly)*
 - **namasyubhiḥ**: *namas* is an *avyaya* ending in *s*; *namovarivaścitraṅaḥ kyac* (Pā. Sū. 3-1-19) gives *kyac* in the sense of worship; *namasya* is a root; *kyāc chandasi* (Pā. Sū. 3-2-170) gives *u* after *kyac*-ending in the Veda; *ato lopaḥ*; by the suffix-accent *namasyu* is end-acute; instrumental plural.
 - **vacasyate**: *vacaḥ icchati vacasyati*; *supa ātmanaḥ kyac*; *taṃ vacasyantaṃ kurvanti munayo vacasyayanti*: *hetumati ca* gives *ṇic* after *kyac*; *ṇer aniṭi* drops it before *yat* …; *yasya halaḥ*, *ato lopaḥ*; or with mere *kyac*, *vacasya*; *vyatyayo bahulam* gives *ātmanepada*; *nighāta*.
-- **prabruvāṇaḥ**: *brūñ vyaktāyāṃ vāci*; *laṭaḥ śānac*; *ādādikāc chapo luk*; *sārvadhātukam apit*: no *guṇa*; *brū + śānac*: *āciśnudhātubhruvāṃ…*: *uvaṅ*; *aṭkupvāṅnum…*: *ṇatva*; *citaḥ*: end-acute; with *pra*, *gatikārakopapadāt kṛt*.
+- **prabruvāṇaḥ**: *brūñ vyaktāyāṃ vāci*; *laṭaḥ śānac*; *adiprabhṛtibhyaḥ śapaḥ*, loss (*luk*) of *śap*; the root being *ñit* is ubhayapadī, *śānac* in the sense of *laṭ*; *sārvadhātukam apit*: no *guṇa*; *brū + śānac*: *āciśnudhātubhruvāṃ…*: *uvaṅ*; *aṭkupvāṅnum…*: *ṇatva*; *citaḥ*: end-acute; with *pra*, *gatikārakopapadāt kṛt*.
 - **indriyam**: *indrasya liṅgam indriyam*; *indriyam indraliṅgam indradṛṣṭam indrasṛṣṭam indrajuṣṭam indradattam iti vā* (Pā. Sū. 5-2-93): *gha* is irregularly given; *gha* → *iya*; *citaḥ*: end-acute.
 - **invati**: *ivi vyāptau*; *idito num dhātoḥ*; *laṭ* third singular; *kartari śap*; *śap* and *tip* being *pit*, anudātta; the root's accent remains; since *yat* stands before, no *nighāta*. **|| 4 ||**
 
@@ -6637,9 +6637,9 @@
 
 **Translation of the bhāṣya:** "That very Indra, *yudhmaḥ*, the warrior, *mahāni samithāni*, great battles, *majmanā*, with strength that purifies everything, *ojasā*, with might, *kṛṇoti*, does — for what? *janebhyaḥ*, for the sake of the praising people — when Indra *vadhaṃ vajram*, the killing thunderbolt, the weapon, *nighanighnate*, strikes down on the clouds. *Adhā cana*, immediately, *tviṣīmate*, to the radiant Indra, all people *śraddadhati*: *śrat* is a name for truth; what is said, 'Indra is mighty', is true — thus all believe."
 
-**Pratipadārtha** *(p. 358)* — "**yudhmaḥ** — the warrior; **saḥ it** — that Indra; **mahāni** — wonderful; **samithāni** — battles; **majmanā** — (that purify everything) that uproot enemies; **ojasā** — with strength; **janebhyaḥ** — for the good of his worshippers; **kṛṇoti** — does (when Indra); **vadham** — the killing; **vajram** — his thunderbolt; **nighanighnate** — hurls repeatedly (on the clouds); **adhā cana** — immediately after that; **tviṣīmate** — to the blazing; **indrāya** — Indra; **śraddadhati** — all people show devotion with trust in his true valour."
+**Pratipadārtha** *(p. 358)* — "**yudhmaḥ** — the warrior; **saḥ it** — that Indra; **mahāni** — wonderful; **samithāni** — battles; **majmanā** — (that purify everything) that uproot enemies; **ojasā** — with strength; **janebhyaḥ** — for the good of his worshippers; **kṛṇoti** — does (when Indra); **vadham** — the killing; **vajram** — his thunderbolt; **nighanighnate** — hurls violently (on the clouds); **adhā cana** — immediately after that; **tviṣīmate** — to the blazing; **indrāya** — Indra; **śraddadhati** — all people show devotion with trust in his true valour."
 
-**Bhāvārtha** *(p. 358)* — "Indra the warrior fights wonderful battles, for the good of his worshippers, with strength that can root out the enemies. When Indra hurls his deadly thunderbolt repeatedly, immediately all people show devotion, trusting the valour of the blazing Indra."
+**Bhāvārtha** *(p. 358)* — "Indra the warrior fights wonderful battles, for the good of his worshippers, with strength that cannot be withstood by the enemies. When Indra hurls his deadly thunderbolt violently, immediately all people show devotion, trusting the valour of the blazing Indra."
 
 **English Translation (the source's own, p. 358)** — "Indra, the warrior, engages in many great conflicts for man with his all-purifying prowess; when he hurls his fatal thunderbolt, every one immediately has faith in the resplendent Indra (as being highly powerful)."
 
@@ -6655,15 +6655,15 @@
 
 **Rik 55.5, continued** *(p. 359, PDF 375)*
 
-**Special Topics, rest** — **adhā cana** — "this group of words gives the sense 'immediately after'." **śraddadhati** — "*śrat* is a name of truth; they believe it true when it is said that Indra is the mightiest." **tviṣīmate** — "to Indra, who has radiance."
+**Special Topics, rest** — **adhā cana** — "this group of words gives the definite (emphatic) sense 'immediately after'." **śraddadhati** — "*śrat* is a name of truth; they believe it true when it is said that Indra is the mightiest." **tviṣīmate** — "to Indra, who has radiance."
 
 **Vyākaraṇa-prakriyā** *(pp. 359–360 — grammar pages, noted briefly)*
 - **mahāni**: *mahat*; in the neuter plural *śi* gives *mahānti*; in the Veda the loss of *t* gives *mahāni*; or *mahyante pūjyante* (*mah*) with *ka* by *ghañarthe kavidhānam*: *maha* with *num* and lengthening in the neuter; the suffix-accent makes the *ā* after *h* acute.
-- **samithāni**: *iṇ gatau*; *samīṇaḥ* (U. Sū. 4-532) gives *thak* after *sam*; *kit*, so no *guṇa*; *thāthaghañktājabitrakāṇām* (Pā. Sū. 6-2-144): end-acute of the last member.
-- **majmanā**: *ṭumasjo śuddhau*; *manin*; *masj + man*: *jhalāṃ jaśo jhaśi* (Pā. Sū. 8-4-53) gives *d* for *s*; *stoḥ ścunā ścuḥ*, *ṣṭunā ṣṭuḥ* [*ścutva/jaśtva*]: *j*; suffix-accent; instrumental.
+- **samithāni**: *iṇ gatau*; *samīṇaḥ* (U. Sū. 4-532) gives *thak* after *sam*; *kit*, so no *guṇa*; *thāthaghañ…* (Pā. Sū. 6-2-144): end-acute of the last member.
+- **majmanā**: *ṭumasjo śuddhau*; *manin*; *masj + man*: *jhalāṃ jaśo jhaśi* (Pā. Sū. 8-4-53) gives *d* for *s*; *stoḥ ścunā ścuḥ*: *j* by ścutva (the *j* following); suffix-accent; instrumental.
 - **adhā**: *atha* with *tha* → *dha* in the Veda; *nipātasya ca* (Pā. Sū. 6-3-136) lengthens.
-- **tviṣīmate**: *tviṣa dīptau*; *in* (*ins sarvadhātubhyaḥ*, U. Sū. 4-55[?], last digit unclear); *nit*: initial-acute; *tad asyāsty asmin* gives *matup*; lengthening of the first member (*anyeṣām api dṛśyate*).
-- **nighanighnate**: *han hiṃsāgatyoḥ*; *vyatyaya* gives *ātmanepada* and the plural; *bahulaṃ chandasi* gives *ślu* for *śap*; *ślau* reduplication; *gamahanajana…* (Pā. Sū. 6-4-98) drops the penultimate *a*; *hohanteḥ…*: *gh* for the *h*; *ātmanepadeṣv nataḥ*: *at* for *jha*… *nighanighnate*; *āganīgantīti ca* (Pā. Sū. 7-4-65): *ity* is for "such like", so one must reckon this among the Vedic exceptions. **|| 5 ||**
+- **tviṣīmate**: *tviṣa dīptau*; *in* (*in sarvadhātubhyaḥ*, U. Sū. 4-557); *nit*: initial-acute; *tad asyāsty asmin* gives *matup*; lengthening of the first member (*anyeṣām api dṛśyate*).
+- **nighanighnate**: *han hiṃsāgatyoḥ*; *vyatyaya* gives *ātmanepada* and the plural; *bahulaṃ chandasi* gives *ślu* for *śap*; *ślau* reduplication; *gamahanajana…* (Pā. Sū. 6-4-98) drops the penultimate *a*; in the Veda the reduplicative gets *gha* (*ghatva*) and the *nik* augment; *hohanteḥ…*: *gh* for the *h* of the root by *kutva*; *ātmanepadeṣv nataḥ*: *at* for *jha*… *nighanighnate*; *āganīgantīti ca* (Pā. Sū. 7-4-65): *ity* is for "such like", so, just as forms like *dādharti* occur only in the Veda, this too is to be counted in that group and the Vedic operations stated. **|| 5 ||**
 
 ---
 
