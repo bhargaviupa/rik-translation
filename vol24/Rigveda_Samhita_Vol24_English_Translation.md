@@ -34815,6 +34815,247 @@ Bearer of the thunderbolt, be present at our libations for your exhilaration; fo
 
 On the Cāturviṃśika day, in the midday pressing, in the śastra of the Acchāvāka, वयमेनमिति (*vayamenamiti*) is an optional anurūpa. So it is laid down in the sūtra: वयमेनमिदा ह्यो यो राजा चर्षणीनां (*vayamenamidā hyo yo rājā carṣaṇīnāṃ*) (Ā. 7.4).
 
+### Printed p. 766
+
+> वयं यजमाना एनमिंद्रं वज्रिणमिदेदानीं ह्यश्चहात्रापीपेम
+> आप्याययाम सोमेन । तस्मा उ तस्मा एवाद्यात्र समना संग्रामार्थं
+> सुतमभिषुतं सोमं भर हरत हे अध्वर्याद्वयः । नूनमिदानीं श्रुते स्तोत्रे
+> श्रुते सत्या भूषत । आभवतु । आगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+"We sacrificers have today, yesterday and here refreshed this Indra, the thunderer, with Soma. For him alone, today, for the sake of battle (समना (*samanā*) is explained as संग्रामार्थं (*saṃgrāmārthaṃ*)), bring (भर (*bhara*), meaning हरत (*harata*)) the pressed Soma, O Adhvaryu and the others. Now, when the praise is heard, may he come and be present (आ भूषत (*ā bhūṣata*) is explained as आभवतु आगच्छतु (*ābhavatu āgacchatu*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we, the sacrificers
+- वज्रिणं (*vajriṇaṃ*)—the bearer of the thunderbolt
+- एनं (*enaṃ*)—this Indra
+- इदा (*idā*)—today
+- ह्यः (*hyaḥ*)—and yesterday
+- इह (*iha*)—here, in this same place of sacrifice
+- अपीपेम (*apīpema*)—we have satisfied with Soma
+- तस्मा उ (*tasmā u*)—with him in view
+- आद्य (*ādya*)—now also
+- समना (*samanā*)—for the sake of battle
+- सुतं (*sutaṃ*)—the pressed Soma
+- भर (*bhara*)—procure
+- नूनं (*nūnaṃ*)—now
+- श्रुते (*śrute*)—at the time of praise
+- आ भूषत (*ā bhūṣata*)—let Indra come and grace us
+
+##### भावार्थ (Bhāvārtha)
+
+We sacrificers have satisfied this Indra, the bearer of the thunderbolt, with offerings of Soma, today and yesterday, in this same place of sacrifice. With him in view, now also procure the pressed Soma, to stimulate him for battle. Now, at the time of praise, let Indra come and grace us.
+
+##### English translation
+To-day and yesterday we have here refreshed him, the thunderer; bring to him to-day our libation effused for (success in) battle; let him now hasten hither on hearing our praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśika, in the midday pressing, among the śastra-mantras recited by the priest called Acchāvāka, this pragātha beginning वयमेनं (*vayamenaṃ*) is to be recited as an optional anurūpa pragātha, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra वयमेनमिदा ह्यो यो राजा चर्षणेनां (*vayamenamidā hyo yo rājā carṣaṇenāṃ*) (Ā. 7-4).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृक॑श्चिदस्य वार॒ण उ॑रा॒मथि॒रा व॒युने॑षु भूषति ।  
+> सेमं नः॒ स्तोमं॑ जुजुषा॒ण आ ग॒हींद्र॒ प्र चि॒त्रया॑ धि॒या॥
+
+### Printed p. 767
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृकः । ७त् । अस्य । नारणः । उरामथिः । आ । वयुनेषु । भूषति ।  
+> गः । इमं । नः । स्तोमं । जुजुषाणः । आ । गहि । इंद्र । प्र । चित्रया । धिया ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृकश्चित्स्येनोऽपि वारणो वारयिता सर्वस्य सन्नप्युरामथिः शत्रूणां
+> मार्गे गच्छतां मथिता सन्नप्यस्येंद्रस्य वयुनेषु मार्गेषु प्रज्ञानेषु वा
+> भूषति । अनुकूल्यमेव भजते । अतीवहिंस्रोऽपींद्रस्यानुकूलो भवतीत्यर्थः
+> यद्वा ॥ स्वेति कर्मणि षष्ठी ॥ अमुमिंद्रमुक्तरूपो वृकोऽपि वयुनेषु
+> स्तोत्रेष्टा भूषति । स त्वमिमं नः स्तोमं जुजुषाणः प्रीयमाण आ गहि ।
+> आगच्छ ! हे इंद्र चित्रया धिया कर्मणा स्तुतिलक्षणेन निमित्तेन प्र प्रकर्षेणा गहि ।
+> शीघ्रवागच्छ ॥
+
+##### Gist of the bhāṣya
+
+Even the वृक (*vṛka*) **NOTE**, though he is the obstructer (vāraṇa) of everyone and the crusher (उरामथिः (*urāmathiḥ*)) of enemies who go along the road, yet adorns, that is, joins in agreeably, the ways or the insights (वयुनेषु (*vayuneṣu*)) of this Indra. The meaning is that even the exceedingly cruel becomes favourable to Indra. Or else: the genitive अस्य (*asya*) stands in the sense of the object, and the वृक (*vṛka*) so described also adorns this Indra in the praises **NOTE**. "You, taking pleasure in this our hymn, come. Come, O Indra, by our wonderful work, the work of praise, as the cause; come forth quickly."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वारणि (*vāraṇi*)—the obstructer of the road
+- उरामथि (*urāmathi*)—who greatly injures those he meets on the roads
+- वृकश्चित् (*vṛkaścit*)—even the thief
+- आस्य (*āsya*)—of this Indra
+- वयुनेषु (*vayuneṣu*)—in the roads of his movement
+- आ भूषति (*ā bhūṣati*)—behaves in an agreeable manner
+- सः (*saḥ*)—you, of such greatness
+- नः (*naḥ*)—recited by us
+- इमं स्तोमं (*imaṃ stomaṃ*)—this hymn
+- जुजुषाणः (*jujuṣāṇaḥ*)—enjoying
+- आ गहि (*ā gahi*)—be gracious
+- इंद्र (*iṃdra*)—O Indra
+- चित्रया धिया (*citrayā dhiyā*)—by attractive praise
+- प्र (*pra*)—come exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+Even the thief, who obstructs the road and greatly injures those he meets on the road, behaves in an agreeable manner on the roads of this Indra's movement. O Indra, you of such greatness, be gracious, enjoying this hymn recited by us. O Indra, come to us exceedingly, on account of our attractive praise.
+
+##### English translation
+The obstructing robber, the destroyer of travelling enemies, is obedient to him in his ways; hasten, Indra. (drawn) by our gorgeous rite, welcoming this our hymn.
+
+### Printed p. 768
+
+##### विशेषविषयगळु (Special Topics)
+
+वृके (*vṛke*)—for the various meanings given by Yāska of the word vṛka and for its etymology, see what we have explained at length in Ṛ. Saṃ. Part 9, p. 520, and Part 13, p. 638.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कदू॒ न्व१॒॑ १ स्याकृ॑त॒मिंद्र॑स्यास्ति॒ पौंस्यं॑ ।  
+> केनो॒ नु कं॒ श्रोम॑तेन॒ न शु॑श्रुवे ज॒नुषः॒ परि॑ वृत्र॒हा ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । ऊं इति । नु । अस्य । अकृतं । इंद्रस्य । अस्ति । पौंस्यं ।  
+> केनो इति । नु । कं । श्रोमतेन । न । शुश्रुवे । जनुषः । परि । वृत्रहा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि माध्यंदिनसवनेच्छावाकशस्त्र एव कदू न्विति कद्वत्पगाथः ।
+> कदू नृस्याकृतमिति कद्वंतः प्रगाथाः । आ. ७-४ । इति हि सूत्रितं ॥
+> अस्येंद्रस्य कदू नु किं तु खुलु पौंस्यं पौरुषमकृतमनाचारितमस्ति ।
+> सर्वमपि वृत्रवधादिकमनेन कृतमेव इतः परं न किंच पौंस्यं कृत्यमस्तीत्यर्थः ।
+> लोके स्वल्पमपि यः पुंस्त्वं कुर्यात्स तेन स्तूयतेयं तु न स्तुत एतदुच्यते । केनो नु कं केन खलु श्रोमतेन श्रवणीयेन पुंस्त्वेन न शुश्रुवे ।
+> न श्रूयते। किं कतिपय्यरेवाहोभिः कृतेन नेत्याह। अयं वृत्रहा वृत्रस्यातिप्रबलस्य
+> हंतायं जनुषः परि जन्मप्रभृति क्रियमाणैः सामर्थ्यैः श्रूयते । वृत्रहत्यं
+> तत्पुंस्त्वप्रदर्शनाद्योतनाय । यथा वृत्रहननं सर्वैः श्रूयते तद्वदन्यान्यपीति
+> भावः ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, in the midday pressing, in the śastra of the Acchāvāka, कदू न्व (*kadū nva*) is the pragātha called कद्वत्पगाथः (*kadvatpagāthaḥ*). So it is laid down: कदू नृस्याकृतमिति कद्वंतः प्रगाथाः (*kadū nṛsyākṛtamiti kadvaṃtaḥ pragāthāḥ*) (Ā. 7-4). What manly deed (पौंस्यं (*pauṃsyaṃ*)) of this Indra is there that has not been done? The meaning is that all, the slaying of Vṛtra and the rest, has been done by him; no manly deed remains to be done after this. In the world, whoever does even a little manliness is praised for it; this one is not praised so; this is what is said: by what renowned manliness is he not heard of? Is it that he is not heard of by what was done in a few days? He answers no: this slayer of the exceedingly strong Vṛtra is heard of from birth (जनुषः परि (*januṣaḥ pari*)) by the powers he has exercised. The slaying of Vṛtra is mentioned to illustrate the display of manliness: as the slaying of Vṛtra is heard of by all, so are the others. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पौंस्यं (*pauṃsyaṃ*)—among deeds of valour
+- कदू नु (*kadū nu*)—which indeed
+- अस्य इंद्रस्य (*asya iṃdrasya*)—by this Indra
+- आकृतं अस्ति (*ākṛtaṃ asti*)—is not performed
+- श्रोमतेन (*śromatena*)—having ears
+- केनो नु कं (*keno nu kaṃ*)—by what man indeed
+- न शुश्रुवे (*na śuśruve*)—has Indra's great deed not been heard of
+- वृत्रहा (*vṛtrahā*)—Indra, the slayer of Vṛtra
+- जनुषः परि (*januṣaḥ pari*)—has been renowned from birth
+
+### Printed p. 769
+
+##### भावार्थ (Bhāvārtha)
+
+What deed of valour is there that has not been performed by this Indra? What man has not heard of his great deeds? This Indra has been renowned from his birth as the slayer of Vṛtra and the accomplisher of great deeds.
+
+##### English translation
+What act of might is there, unperformed by Indra? Who has not heard
+of his famous (heroism)? He, the slayer of Vritra, (is renowned) from
+his birth.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśika, in the midday pressing, among the śastra-mantras recited by the priest called Acchāvāka, this pragātha beginning कदू नु (*kadū nu*) is to be recited as the pragātha-mantra with kadvat, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra कदू नृस्याकृतमिति कद्वंतः प्रगाथाः (*kadū nṛsyākṛtamiti kadvaṃtaḥ pragāthāḥ*) (Ā. 7-4).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कदू॑ म॒हीरधृ॑ष्टा अस्य॒ तवि॑षीः॒ कदु॑ वृत्र॒घ्नो अस्तृ॑तं ।  
+> इंद्रो॒ विश्वा॑न्बेक॒नाटा॑ अह॒र्दृश॑ उ॒त क्रत्वा॑ प॒णीर॒भि ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । ऊं इति । महीः । अधृष्टाः । अस्य । तविषीः । कत् । ऊं इति । वृत्रघ्नः ।  
+> अस्तृतं ।  
+> इंद्रः । विश्वान् । बेकनाटान् । अहःदृशः । उत । क्रत्वा । पणीन् । अभि ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कदू कदा खल्वस्येंद्रस्य तविषीर्बलान्यधृष्टा अधृष्टान्यधर्षकाण्यासन् ।
+> कदु कदा नु खलु वृत्रघ्नो वृत्रहंतुरिंद्रस्य हंतव्यमस्तृतमहिंसितमभवत् । न
+> कदाचिदित्य......... ...व्ययंहं अभवदित्यर्थः । अथवास्य महांति बलानि सेनालक्षणानि
+> कदाप्यदृष्टान्यन्यबलैरहिंसितानि तथा वृत्रघ्नो शारीरं बलमस्तृतमन्यैरहिंस्यं ।
+> XXIV 49
+> XXIV 49
+
+### Printed p. 770
+
+> ईदृशेन द्विविधेन बलेनेंद्रो विश्वान् सर्वान्नेकनाटान् । अनेन कुसीदिनो
+> वृद्धिजीविनो वार्धुषिका उच्यंते । कथं तद्व्यत्पत्तिः । वे इत्यपभ्रंशो द्विशब्दार्थे ।
+> एकं कार्षापणमृणिकाय प्रयच्छन् दौ मह्यं दातव्य............नयेन दर्शयंति
+> शथो द्विशब्देनैकशब्देन च नाटयंतीति बेकनाटाः ! तानहर्दृशः । अहःशब्देन
+> तदुत्पादक आदित्योऽभिधेयो भवति । तं पश्यंतीत्यहर्दृशः । ननु सर्वे सूर्यं
+> पश्यंति कोऽत्रातिशय इति उच्यते । इहैव जन्मनि सूर्यं पश्यंति न जन्मांतरे ।
+> उब्बका आयष्टारोऽंधे तमसि मज्जंति । अथवा लौकिकानेवाहानि पश्यंति न
+> वारलौकिकान्यदृष्टानि । दृष्टप्रधाना हि नास्तिकाः । अतो............शान् पणीन्
+> पणिसवृशाऽद्रकल्पान् । उतशब्द एवार्थे । क्रत्वोत कर्मणैव ताडनादिव्यापारेणैवाभि भवतीति शेषः । यद्वा । पणीनुत पणीनेवाभिभवति न यष्टारं । पणीनां
+> निंदा स्मर्यते। गोरक्षकानापणिकांस्तथा कारुकुशीलवान्। प्रेष्यानार्वाधुषिकांश्चैव
+> विप्रान् शूद्रवदाचरेत् । मनुं ८.१०२ इति ॥
+
+##### Gist of the bhāṣya
+
+When indeed were the strengths (तविषीः (*taviṣīḥ*)) of this Indra ones that did not assail (अधृष्टा (*adhṛṣṭā*) is explained as "not assailing")? And when was the object to be slain by Indra, the slayer of Vṛtra, unharmed (अस्तृतं (*astṛtaṃ*))? Never. **NOTE** Or else: his great strengths, characterised as armies, were never seen harmed by others' forces, and likewise the bodily strength of the slayer of Vṛtra is अस्तृतं (*astṛtaṃ*), not to be injured by others. With such twofold strength Indra overcomes all the बेकनाटान् (*bekanāṭān*); by this word usurers, those who live on interest, are meant. How is the word derived? वे (*ve*) is a corruption in the sense of "two": giving one kārṣāpaṇa to the debtor, "two are to be given to me" **NOTE**; the cheats act with the word "two" and with the word "one"; therefore they are बेकनाटाः (*bekanāṭāḥ*). They are अहर्दृशः (*ahardṛśaḥ*): by the word अहः (*ahaḥ*) the sun, the producer of the day, is meant; they who see him are अहर्दृशः (*ahardṛśaḥ*). Objection: all see the sun; what is the special point here? Answer: they see the sun only in this birth and not in another birth; those who do not sacrifice sink in blind darkness **NOTE**. Or else: they see only the worldly days, not the unseen days of the other world; for unbelievers go by what is seen. Therefore **NOTE** the पणीन् (*paṇīn*), the niggardly ones, like the lowest; उत (*uta*) has the sense of "only". Indra overcomes them by work alone, by acts such as beating; "overcomes" is to be supplied. Or else: he overcomes the पणीन् (*paṇīn*) alone, not the sacrificer. The censure of the paṇis is remembered: "Herdsmen, traders, artisans, actors, servants, usurers and brahmins of such sort, one should treat like śūdras" (Manu 8.102).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of Indra
+- तविषीः (*taviṣīḥ*)—the powerful
+- महीः (*mahīḥ*)—great armies
+- कदू (*kadū*)—when indeed
+- अधृष्टाः (*adhṛṣṭāḥ*)—have they been idle, without confronting the enemies
+- वृत्रघ्नः (*vṛtraghnaḥ*)—for Indra, the slayer of Vṛtra
+- कदु (*kadu*)—when indeed
+- अस्त्रतं (*astrataṃ*)—is it not an object of destruction among evil things
+- इंद्रः (*iṃdraḥ*)—Indra
+- क्रत्वा (*kratvā*)—by his extraordinary deeds
+- अहर्दृशः (*ahardṛśaḥ*)—the unbelievers who can see the sun only in this world
+- बेकनाटान् (*bekanāṭān*)—who are of deceitful trade
+- विश्वान् पणीन् (*viśvān paṇīn*)—all the cheats (the niggardly)
+- अभि (*abhi*)—defeats and destroys
+
+##### भावार्थ (Bhāvārtha)
+
+When have the powerful great armies of Indra been idle, without confronting the enemies? For Indra, the slayer of Vṛtra, which of the evil things is not an object of destruction? Indra, by his extraordinary deeds, defeats and destroys all the cheats, the unbelievers who can see the sun only in this world and who are of deceitful trade.
+
+##### English translation
+When were his mighty forces ever languid? When was aught undestroyed before the slayer of Vritra? Indra by his energy overpowers all the huckstering usurers who see only this world's days.
+
+### Printed p. 771
+
+##### विशेषविषयगळु (Special Topics)
+
+बेकनाटान् (*bekanāṭān*)—अनेन कुसीदिनो वृद्धिजीविनो वार्धुषिका उच्यंते । (*anena kusīdino vṛddhijīvino vārdhuṣikā ucyaṃte |*) For this word the meaning is: people who do money-lending, who lend money to people in financial difficulty and live by recovering from them the principal and the interest, that is, the kusīdins, those who live on interest. Yāska has given an etymology of this word: बेकनाटाः खलु कुसीदिनो भवंति द्विगुणकारिणो वा द्विगुणदायिनो वा द्विगुणं कामयंत इति वा इंद्रो विशान्पेकनाटा अहर्दृश उत क्रत्वा पणीरभि । इंद्रो यः सर्वान् बेकनाटानहर्दृशः सूर्यदृशो य इमान्यहानि पश्यंति न पराणीति वाभिभवति कर्मणा पणींश्च वणिजः ॥ (*bekanāṭāḥ khalu kusīdino bhavaṃti dviguṇakāriṇo vā dviguṇadāyino vā dviguṇaṃ kāmayaṃta iti vā iṃdro viśānpekanāṭā ahardṛśa uta kratvā paṇīrabhi | iṃdro yaḥ sarvān bekanāṭānahardṛśaḥ sūryadṛśo ya imānyahāni paśyaṃti na parāṇīti vābhibhavati karmaṇā paṇīṃśca vaṇijaḥ ‖*) (Ni. 6-26).
+
+For the word bekanāṭāḥ the meaning is: those who recover a heavy sum as interest, that is, those who recover twice the sum lent, interest included; or those who lend on the security of property worth twice the loan; or those who desire to receive twice the amount of the loan they have given.
+
+Indra will punish dishonest merchants who carry on a trade of moneylending full of excessive greed.
+
+Indra will punish wicked, merciless merchants who take extremely high interest. Those merchants look only at the circumstances of their own time, without foresight, and do not consider whether their trade is just or not. Merchants are those who trade; the intention is that Indra will punish such wicked traders.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं घा॑ ते॒ अपू॒र्वेंद्र॒ ब्रह्मा॑णि वृत्रहन् ।  
+> पु॒रू॒तमा॑सः पुरुहूत वज्रिवो भृ॒तिं न प्र भ॑रामसि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । घ । ते । अपूर्वा । इंद्र । ब्रह्माणि । वृत्रहन् ।  
+> पुरुतमासः । पुरुहूत । वज्रिवः । भृतिं । न । प्र । भरामसि ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 765. Maṇḍala 8 Sūkta 66 ṛks 1-7, pp. 759-765
+**Progress note:** Done through printed p. 771. Maṇḍala 8 Sūkta 66 ṛks 7-11, pp. 766-771
