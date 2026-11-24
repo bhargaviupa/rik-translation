@@ -1021,6 +1021,280 @@ Sūkta 22. Maṇḍala 8. Anuvāka 4. Sūkta 22. Aṣṭaka 6. Adhyāya 2. Varga
 
 O Aśvins, that chariot of yours, हे अश्विन् दंसिष्ठ (*he aśvin daṃsiṣṭha*), exceedingly beautiful to see, or else the one that exceedingly brings down enemies: that chariot of yours I, Sobhari, call today, on this day of sacrifice, for protection. You are suhavā, well invoked with stotras, śastras and the like; and he begins to gloss rudravartanī as having a nature of obstructing in battle (the sentence continues in the next window).
 
+### Printed p. 25
+
+> मार्गै यद्वा स्तूयमानमार्गै हे अश्विनौ सूर्यायै सूर्यास्वयंवरे
+> वरयितुं यं रथं युवामा तस्थथुः आश्रयथः तं रथमाह्वयामीति ॥
+
+##### Gist of the bhāṣya
+
+The word rudravartanī continues: the two whose path in battle is one of obstructing the enemy, or else the two whose paths are praised. O Aśvins, for Sūryā, that is, at Sūryā's svayaṃvara, to win her, the chariot which you two mounted and took your seat in, that chariot I call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुहवा (*suhavā*)—worthy of excellent invocation
+- रुद्रवर्तनी अश्विना (*rudravartanī aśvinā*)—O Aśvin gods, who travel on the path of weeping in battle
+- सूराय्यै (*sūrāyyai*)—in order to wed the goddess Sūryā
+- यं (*yaṃ*)—which chariot
+- आ तस्थथुः (*ā tasthathuḥ*)—you mount and sit in
+- दंसिष्ठं (*daṃsiṣṭhaṃ*)—such, worthy to be seen
+- श्यं (*śyaṃ*)—famous
+- रथं (*rathaṃ*)—your chariot
+- ऊतये (*ūtaye*)—for protection
+- अद्य (*adya*)—on this day of the sacrifice
+- अह्वे (*ahve*)—I call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, worthy of excellent invocation, who travel on the path of weeping in battle: the chariot, worthy to be seen and famous, which you mount and sit in to wed the goddess Sūryā, that chariot of yours I call with prayer today, on this day of the sacrifice, for protection.
+
+##### English translation
+I invoke to-day for our protection that splendid chariot, which, adorable Aswins, advancing on the path to battle, you ascended (to go to the wedding) of Surya.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒र्वा॒पुषं॑ सु॒हवं॑ पुरु॒स्पृहं॑ भु॒ज्युं वाजे॑षु॒ पूर्व्यं॑ ।  
+> स॒च॒नावं॑तं सुम॒तिभिः॑ सोभरे॒ विद्वे॑षसमने॒हसं॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्वआपुषं । सुहवं । पुरुस्पृहं । भुज्युं । वाजेषु । पूर्व्यं ।  
+> सचन्यावंतं । सुमतिभिः । सोभरे । विद्वेषसं । अनेहसं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोभरे सुमतिभिः कल्याणीभिः स्तुतिभिरश्विनो रथं स्तुहि । किंविशिष्टं ।
+> पूर्वापुषं पूर्वेषां स्तोतृणां धनादिदानेन पोषकं सुहवं युद्धेषु
+
+### Printed p. 26
+
+> शोभनाह्वानं पुरुस्पृहं बहुभिः स्पृहणीयं भुज्युं ॥ भुज पालने ॥ सर्वस्य
+> रक्षकं वाजेषु पूर्व्यं संग्रामेष्वग्रतो गंतारं सचनावंतं सर्वैर्भजनवंतं
+> विद्वेषसं शत्रूणां विशेषेण द्वेष्टारमनेहसं कैश्चिदष्यनुपद्रवं पापरहितं वा
+> रथं स्तुहीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Sobhari, praise the chariot of the Aśvins with sumati, that is, with auspicious praises. Of what kind is it? Pūrvāpuṣa: the nourisher of former praisers by gifts of wealth and the like; suhava: well invoked in battles; purusprha: desired by many; bhujyu (from the root bhuj, to protect): the protector of all; vājeṣu pūrvya: the one who goes in front in battles; sacanāvat: worshipped by all; vidveṣas: the especial hater of enemies; anehas: harmed by no one, or free from sin. The construction is: praise the chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोभरे (*sobhare*)—O Sobhari
+- पूर्वापुषं (*pūrvāpuṣaṃ*)—that which nourished all the former sacrificers
+- सुहवं (*suhavaṃ*)—that which has an excellent invocation
+- पुरुस्पृहं (*puruspṛhaṃ*)—that which is worthy of the regard of many
+- भुज्युं (*bhujyuṃ*)—that which protects all
+- वाजेषु (*vājeṣu*)—in battles
+- पूर्व्यं (*pūrvyaṃ*)—that which rushes forward before all
+- सचनावंतं (*sacanāvaṃtaṃ*)—that which is to be worshipped by all
+- विद्वेषसं (*vidveṣasaṃ*)—that which is to hate enemies
+- अनेहसं (*anehasaṃ*)—and that which is without sin: the chariot of the Aśvin gods
+- सुमतिभिः (*sumatibhiḥ*)—praise with excellent praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Sobhari, praise with excellent praises the chariot of the Aśvin gods, which nourished all the former sacrificers, which has an excellent invocation, which is worthy of the regard of many, which protects all, which rushes forward before all in battles, which is to be worshipped by all, which is to hate enemies, and which is without sin.
+
+##### English translation
+Celebrate, Sobhari, with praises (that chariot), the benefactor of former (encomiasts), the worthily invoked. the desired of many, the preserver, the foremost in battles, the relied upon by all, the scatterer of enemies, the exempt from ill.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह त्या पु॑रु॒भूत॑मा दे॒वा नमो॑भिर॒श्विना॑ ।  
+> अ॒र्वा॒ची॒ना स्वव॑से करामहे॒ गंता॑रा दा॒शुषो॑ गृ॒हं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । त्या । पुरुभूतमा । देवा । नमःभिः । अश्विना ।  
+> अर्वाचीना । सु । अवसे । करामहे । गंतारा । दाशुषः । गृहं ॥ ३ ॥
+
+### Printed p. 27
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुभूतमातिशयेन बहूनां शत्रूणां भावयितारौ देवा देवौ द्योतन
+> शीलौ स्तोतवौ ना दाशुषो हविर्दत्तवतो यजमानस्य गृहं प्रति गंतारौ
+> गमनशीलौ त्या तावश्विनाश्विनौ युवामिहास्मिन्कर्मण्यवसे रक्षणाय नमोभिर्हविर्भिः
+> स्तोत्रैर्वार्वाचीनावभिमुखमागच्छंतौ सु करामहे । वयं सुष्टु कुर्मः ॥
+
+##### Gist of the bhāṣya
+
+Purubhūtamā: the two who exceedingly cause the many enemies to come into being (bhāvayitārau) **NOTE**. Devā: the two gods, shining by nature and praiseworthy. Dāśuṣaḥ: of the sacrificer who has given oblations; they go to his house. O Aśvins, you two, here in this rite, for protection, we make, that is, we do well, coming towards us, with namas, that is, with oblations or with stotras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुभूतमा (*purubhūtamā*)—those who greatly subdue enemies
+- देवा (*devā*)—of divine nature
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who offers the oblation
+- गृहं गंतारा (*gṛhaṃ gaṃtārā*)—who go to the house
+- त्या (*tyā*)—and are famous
+- अश्विना (*aśvinā*)—the Aśvin gods
+- इह (*iha*)—in this sacrificial rite
+- अवसे (*avase*)—for our protection
+- नमोभिः (*namobhiḥ*)—with oblations, accompanied by praise
+- अर्वाचीना (*arvācīnā*)—so that they come towards us
+- सु करामहे (*su karāmahe*)—we worship well and draw them
+
+##### भावार्थ (Bhāvārtha)
+
+The Aśvin gods, who greatly subdue enemies, who are of divine nature, who go to the house of the sacrificer who offers the oblation, and who are famous, we worship well and draw, in this sacrificial rite, for our protection, with oblations accompanied by praise, so that they come towards us.
+
+##### English translation
+We incite by our adorations on this occasion the two divine Aswins, the overcomers of foes, that they may come down for our protection and proceed to the dwelling of the donor (of the offering).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वो रथ॑स्य॒ परि॑ च॒क्रमी॑यत ई॒र्मान्यद्वा॑मिषण्यति ।  
+> अ॒स्मा अच्छा॑ सुम॒तिर्वां॑ शुभस्पती॒ आ धे॒नुरि॑व धावतु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । रथस्य । परि । चक्रं । ईयते । ईर्मा । अन्यत् । वां । इषण्यति ।  
+> अस्मान् । अच्छ । सुमतिः । वां । शुभः । पती इति । आ । धेनुः इव । धावतु ॥ ४ ॥
+
+### Printed p. 28
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवोर्युवयो रथस्यैकं चक्रं परितो द्यां गच्छति ।
+> अन्यदवस्थितं रथस्य चक्रमीर्मूर् सर्वस्यांतर्यामितया प्रेरकौ यद्योदकस्य
+> प्रेरयितारौ वां युवामिषण्यति । गच्छति । उक्तार्थे मंत्रांतरं । न्यघ्नस्य
+> मूर्धनि । ऋ. १-३०-१९ । इति । हे शुभस्पती उदकस्य पालयितार् हे अश्विनौ वां
+> युवयोः सुमतिः कल्याणी मतिरच्चाभिमुख्येनास्माना धावतु । आगच्छतु । तत्र
+> दृष्टांतः । धेनुरिव यथा नवप्रसूता गौर्वत्सं प्रति पयोदानार्थमागच्छति
+> तद्विद्युवयोः सुमतिरस्मान्प्रति धनादिप्रदानार्थमागच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, one wheel of your chariot goes round on every side to heaven. The other wheel of the chariot stays in place; īrmā: you two who impel everything as its inner controller, or who impel the water; the wheel goes to you. **NOTE** Another mantra on the same sense: न्यघ्नस्य मूर्धनि । (*nyaghnasya mūrdhani |*) (Ṛ. 1-30-19) **GLOSS**. O Śubhaspatī, you two protectors of water, O Aśvins, may your sumati, your auspicious thought, run towards us, that is, come. The illustration: as a newly calved cow comes to her calf to give milk, so may your good thought come to us to give wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin gods) युवोः (*yuvoḥ*)—your
+- रथस्य (*rathasya*)—of the chariot
+- चक्रं (*cakraṃ*)—one wheel
+- परि ईयते (*pari īyate*)—moves everywhere
+- अन्यत् (*anyat*)—the other wheel
+- ईर्मा (*īrmā*)—impellers of the world
+- वां (*vāṃ*)—you yourselves
+- इषण्यति (*iṣaṇyati*)—follows
+- शुभस्पती (*śubhaspatī*)—O Aśvin gods, protectors of water
+- धेनुरिव (*dhenuriva*)—as a cow runs lovingly towards her calf
+- वां (*vāṃ*)—your
+- सुमतिः (*sumatiḥ*)—auspicious thought
+- आस्मान् अच्छ (*āsmān accha*)—towards us
+- आ धावतु (*ā dhāvatu*)—may it come quickly and join us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, one wheel of your chariot moves everywhere; the other wheel follows you, the impellers of the world. O Aśvin gods, protectors of water, as a cow runs with love towards her calf, so may your auspicious thought come quickly to us, towards us.
+
+##### English translation
+One of the wheels of your car moves in every direction; the other, impellers of actions, remains with you: may your favour, lords of rain, hasten towards us as a cow (to her calf)!
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथो॒ यो वां॑ त्रिवंधु॒रो हिर॑ण्याभीशुरश्विना ।  
+> परि॒ द्यावा॑पृथि॒वी भूष॑ति श्रु॒तस्तेन॑ नास॒त्या ग॑तं ॥ ५ ॥
+
+### Printed p. 29
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथः । यः । नां । त्रिवंधुरः । हिरण्यअभीशुः । अश्विना ।  
+> परि । द्यावापृथिवी इति । भूषति । श्रुतः । तेन । नासत्या । आ । गतं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् त्रिवंधुरः । वंधुरं सारथिस्थानं । त्रिप्रकारवंधुरोपेतः
+> यद्वा । द्वे ईषे तन्मध्ये रज्जु सज्ज नार्थको दंडः । एते त्रयो वंधुरशब्देनोच्यंते । त्रिवंधुरयुक्तो हिरण्याभीशुर्हिरण्मयाश्वादिरज्जुर्वां युवयोर्यो
+> रथः श्रुतः सर्वत्र प्रसिद्धः सन् द्यावापृथिव्यौ परि भूषति स्वबलेन परिभवति ॥
+> भवतेर्लॆटि सिप्यडागमः ॥ यद्वा । परितः स्वप्रकाशेनालंकरोति । हे नासत्या
+> नासत्या तेन पूर्वोक्तेन रथेना गतं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, your chariot is trivandhura. Vandhura is the driver's place; the chariot is furnished with vandhura of three kinds. Or else: two shafts, between them a rope, and a staff, रज्जु सज्ज नार्थको दंडः (*rajju sajja nārthako daṃḍaḥ*) **NOTE**; these three are called by the word vandhura. Furnished with the three vandhuras, hiraṇyābhīśu, having golden ropes for the horses and the rest, that chariot of yours which, being famed everywhere, pari bhūṣati: overcomes heaven and earth by its own strength; or else it adorns them on all sides with its own radiance. O Nāsatyas, come with that chariot spoken of before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—called Nāsatya
+- अश्विना (*aśvinā*)—O Aśvin gods
+- त्रिवंधुरः (*trivaṃdhuraḥ*)—furnished with the two shafts and the yoke-staff
+- हिरण्याभीशुः (*hiraṇyābhīśuḥ*)—and furnished with a golden bridle
+- वां (*vāṃ*)—your
+- यः (*yaḥ*)—which
+- रथः (*rathaḥ*)—chariot
+- श्रुतः (*śrutaḥ*)—being famed everywhere
+- द्यावापृथिवी (*dyāvāpṛthivī*)—both heaven and earth
+- परिभूषति (*paribhūṣati*)—adorns all round
+- तेन (*tena*)—with that chariot
+- आ गतं (*ā gataṃ*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, called Nāsatya, come graciously with that chariot of yours which, furnished with this threefold vandhura of the two shafts and the yoke-staff, and furnished with a golden bridle, is famed everywhere and adorns both heaven and earth all round.
+
+##### English translation
+Your celebrated chariot, Aswins, that is threebanked, and caparisoned with gold, graces heaven and earth : come with it, Nasatyas.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒श॒स्यंता॒ मन॑वे पू॒र्व्यं दि॒वि यवं॒ वृके॑ण कर्षथः ।  
+> ता वा॑म॒द्य सु॑म॒तिभिः॑ शुभस्पती॒ अश्वि॑ना॒ प्र स्तु॑वीमहि ॥ ६ ॥
+
+### Printed p. 30
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दशस्यंता । मनवे । पूर्व्यं । दिवि । यवं । वृकेण । कर्षथः ।  
+> ता । वां । अद्य । सुमतिभिः । शुभः । पती इति । आश्विना । प्र । स्तुवीमहि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ पूर्वं पुरातनं दिवि द्युलोके स्थितमुदकं मनव एतन्नामकाय राज्ये दशस्यंता दशस्यंतौ प्रयच्छंतौ युवां वृकेण । वृको लांगलं
+> भवति विकर्तनात् । नि. ६-२६ । इति यास्कः । तेन लांगलेन यमं यवनामकं
+> धान्यं कर्षथः । पुनश्च तस्मै विलेखनं कुरुथः । शुभस्पती उदकस्य पालयितारौ
+> हे अश्विनाश्विनौ ता तौ पूर्वोक्तलक्षणयुक्तौ नां युवामद्यास्मिन्यज्ञदिने
+> सुमतिभिः शोभनाभिः स्तुतिभिः प्रकर्षेण स्तुवीमहि । वयं स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you two who give to Manu, a king of that name, in his kingdom, the ancient water that stands in heaven, with the plough: for Yāska says वृको लांगलं भवति विकर्तनात् । (*vṛko lāṃgalaṃ bhavati vikartanāt |*) (Ni. 6-26) **GLOSS**: with that plough you two till the grain called barley, and again you do the furrowing for him. O Śubhaspatī, protectors of water, O Aśvins, you two of the characteristics stated above, today, on this day of sacrifice, with sumati, with fair praises, we praise exceedingly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- पूर्व्यं (*pūrvyaṃ*)—the ancient
+- दिवि (*divi*)—and heavenly rain-water
+- मनवे (*manave*)—to the king called Manu
+- दशस्यंता (*daśasyaṃtā*)—having given
+- वृकेण (*vṛkeṇa*)—with the plough (having tilled)
+- यवं (*yavaṃ*)—barley grain
+- कर्षथः (*karṣathaḥ*)—you have made to grow
+- शुभस्पती (*śubhaspatī*)—O Aśvin gods, nourishers of water
+- ता नां (*tā nāṃ*)—you, who are famous
+- आद्य (*ādya*)—on this day of the sacrifice
+- सुमतिभिः (*sumatibhiḥ*)—with excellent praises
+- प्र स्तुवीमहि (*pra stuvīmahi*)—we praise exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, having given the ancient rain-water of heaven to the king called Manu, you tilled with his plough and made the barley grain grow. O Aśvin gods, nourishers of water, we praise you, who are famous, exceedingly on this day of the sacrifice with excellent praises.
+
+##### English translation
+Bestowing upon Manu the ancient (rain) from the firmament, you enabled him to cultivate (the soil) with the plough (and reap) the barley : now therefore, Aswins, lords of rain, we glorify you both with praises.
+
 ---
 
-**Progress note:** Done through printed p. 24. pp. 19-24: Rk 14 end, Rk 15-18, Sukta 22 intro, Rk 1
+**Progress note:** Done through printed p. 30. pp. 25-30: Sukta 22 Rk 1 end, Rk 2-6
