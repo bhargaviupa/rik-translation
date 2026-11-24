@@ -4869,6 +4869,299 @@ At the time of reciting the Prauga-śastra mantras of the first Chandoma day, th
 
 In the animal sacrifice to Niyutvat Vāyu, आ नो नियुद्धिः (*ā no niyuddhiḥ*) is the anuvākyā for the oblation. The sūtra (Ā. 3-8) says: आ नो नियुद्धिः शतिनीभिरध्वरं पीवोअन्नारयिवृधः सुमेधाः । (*ā no niyuddhiḥ śatinībhiradhvaraṃ pīvoannārayivṛdhaḥ sumedhāḥ |*). In the Prauga-śastra of the first Chandoma day, this same Ṛk is the third of the Vāyavya triplet. The sūtra (Ā. 8-9) says: आ नो नियुद्धिः शतिनीभिरध्वरुं प्र सोता जीरो अध्वरेश्वस्थात् । (*ā no niyuddhiḥ śatinībhiradhvaruṃ pra sotā jīro adhvareśvasthāt |*).
 
+### Printed p. 119
+
+> हे वायो नोऽस्माकमध्वरं हिंसारहितं यज्ञं शतिनीभिः शतसंख्यावतीभिः
+> सहस्रिणीभिः सहस्रसंख्यावतीभिश्च नियुद्धिर्वडवाभिरुपा याहि । उपागच्च ' तदनंतरमस्मिन् सवने प्रातःसवने मादयस्व । सोमेन तृप्यस्व । अन्नद्धतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Vāyu: "O Vāyu, come to our non-violent sacrifice with the niyut mares, hundreds (शतिनीभिः (*śatinībhiḥ*)) and thousands (सहस्रिणीभिः (*sahasriṇībhiḥ*)) in number." After arriving, Vāyu is to rejoice at this morning pressing (प्रातःसवने (*prātaḥsavane*)) and be satisfied with Soma. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu **NOTE**
+- नः (*naḥ*)—our
+- अश्वरं (*aśvaraṃ*)—non-violent **NOTE**
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- शतिनीभिः (*śatinībhiḥ*)—those numbering hundreds
+- सहस्रिणीभिः (*sahasriṇībhiḥ*)—and those numbering thousands
+- नियुद्भिः (*niyudbhiḥ*)—with the horses
+- उप आ याहि (*upa ā yāhi*)—be pleased to come
+- आस्मिन् सवने (*āsmin savane*)—at this morning pressing (the Prātaḥsavana)
+- मादयस्व (*mādayasva*)—rejoice through drinking the Soma juice (O Vāyu and the other deities)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, come to our non-violent sacrifice with horses numbering hundreds and thousands. At this morning pressing rejoice through drinking the Soma juice. O Vāyu and the other deities, always protect us with blessings.
+
+##### English translation
+Come, Vayu, to our imperishable sacrifice, with hundreds and thousands of Niyut steeds, and be exhilarated at this ceremony : you (gods) ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice whose deity is Vāyu with his Niyut team, this Ṛk आ नो नियुद्भिः (*ā no niyudbhiḥ*) is to be recited as the anuvākyā mantra at the offering of the oblation. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra आ नो नियुद्भिः शतिनीभिरध्वरं पीवोअन्नां रयिवृधः सुमेधाः (*ā no niyudbhiḥ śatinībhiradhvaraṃ pīvoannāṃ rayivṛdhaḥ sumedhāḥ*) (Ā. 3-8). And in the recitation of the praüga-śastra mantras of the first Chandoma, this Ṛk is to be recited as the second Ṛk of the Vāyavya triplet. This is explained by the sūtra आ नो नियुद्भिः शतिनीभिरध्वरं प्र सोता जीरो अध्वरेष्वस्थात् (*ā no niyudbhiḥ śatinībhiradhvaraṃ pra sotā jīro adhvareṣvasthāt*) (Ā. 8-9). **NOTE**
+
+### Printed p. 120
+## Sūkta 93 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुचिं नित्यष्टर्चं चतुर्थं सूक्तं वसिष्ठस्यार्षं त्रैषुभमैंद्राग्नं । अनुक्रम्यते हि । शुचिं नृष्टावैंद्राग्नं त्विति ॥ गतः सूक्तविनियोगः ॥ ऐंद्राग्नस्य
+> पशोर्वपायाः शुचिमित्येषा याज्या । सूत्रितं च । शुचिं नु स्तोमं नवजातमद्य गीर्भिर्विप्रः प्रमतिमिच्छमानः ! आ ३.७ इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning शुचिं नु (*śuciṃ nu*) is the fourth in the sixth anuvāka, of eight Ṛks; its seer is Vasiṣṭha, its deity Indra and Agni, its metre Triṣṭubh. The Anukramaṇī says शुचिं नृष्टावैंद्राग्नं त्विति (*śuciṃ nṛṣṭāvaiṃdrāgnaṃ tviti*). **NOTE** The use of the sūkta has been given already. In the animal sacrifice of Indra-Agni, at the vapā offering, the Ṛk *śucim* is the yājyā. The sūtra says: शुचिं नु स्तोमं नवजातमद्य गीर्भिर्विप्रः प्रमतिमिच्छमानः (*śuciṃ nu stomaṃ navajātamadya gīrbhirvipraḥ pramatimicchamānaḥ*) (Ā. 3.7).
+
+##### Anuvāda
+
+This sūkta beginning शुचिं नु (*śuciṃ nu*) is the fourth sūkta in the sixth anuvāka. It has eight Ṛks. Vasiṣṭha is the seer of this sūkta; Indra and Agni are the deity; Triṣṭubh is the metre. In the Anukramaṇī it is said: शुचिं नृष्टावैंद्राग्नं तु (*śuciṃ nṛṣṭāvaiṃdrāgnaṃ tu*). The use of the sūkta has been stated earlier. In the animal sacrifice made for Indra and Agni, this Ṛk शुचिं (*śuciṃ*) is to be recited as the yājyā mantra of the napā offering **NOTE**, as explained by the Āśvalāyana Śrauta Sūtra sūtra शुचिं नु स्तोमं नवजातमद्य गीर्भिर्विप्रः प्रमतिमिच्छमानः (*śuciṃ nu stomaṃ navajātamadya gīrbhirvipraḥ pramatimicchamānaḥ*) (Ā. 3-7).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 6; Sūkta 93 **NOTE**
+- Aṣṭaka 5; Adhyāya 6; Varga 15, 16
+- Number of Ṛks in the sūkta: 8
+- Ṛṣi: Vasiṣṭha
+- Devatā: Indra and Agni
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुचिं॒ नु स्तोमं॒ नव॑जातम॒द्येंद्रा॑ग्नी वृत्रहणा जु॒षेथां॑।  
+> उ॒भा हि वां॑ सु॒हवा॒ जोह॑वीमि॒ ता वाजं॑ स॒द्य उ॑श॒ते  ॑
+> धेष्णा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुचिं । नु । स्तोमं । नवजातं । अद्य । इंद्राग्नी इति । वृत्रहना । जुषेथां ।  
+> उभा । हि । वां । सुहवा । जोहवीमि । ता । वाजं । सद्यः । उशते । धेष्णा ॥ १ ॥
+
+### Printed p. 121
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहणा वृत्राणां शत्रूणां हंताराविंद्राग्नी शुचिं शुद्धं निरवद्यं
+> नवजातमिदानीमुत्पन्नं स्तोममस्मदीयुं स्तोत्रमद्यास्मिन्काले नु क्षिप्रं जुषेथां । सेवेथां । हि यस्मात्सुहवा सुखमाह्वातुं शक्यावुभोभौ नां युवां
+> जोहवीमि पुनःपुनराह्वयामि । अत अगत्य सेवेथामित्यर्थः । किंच ता तौ तथाविधौ युवामुशते कामयमानाय यजमानाय वाजमन्नं बलं ना सद्यस्तदानीमेव शीघ्रं धेष्णा धातृतमौ भवतं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra and Agni, slayers of Vṛtras, that is, of enemies, take up quickly today our stoma, pure and faultless, newly born, produced just now. Serve it. Since you two are easily invoked and I call you again and again, therefore come and serve it." Further: to the sacrificer who desires you, be the best bestowers of food and strength, immediately, promptly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहणा (*vṛtrahaṇā*)—slayers of enemies
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni deities **NOTE**
+- हि (*hi*)—for which reason
+- सुजवा (*sujavā*)—worthy, easily, of invocation **NOTE**
+- उभा (*ubhā*)—who are together
+- नां (*nāṃ*)—you both **NOTE**
+- जोहवीमि (*johavīmi*)—I pray and call (for that reason)
+- शुचिं (*śuciṃ*)—pure
+- नवजातं (*navajātaṃ*)—newly made
+- स्तोमं (*stomaṃ*)—our praise
+- अद्य (*adya*)—at this time of the sacrifice
+- नु (*nu*)—quickly
+- जुषेथाः (*juṣethāḥ*)—serve it
+- ता (*tā*)—you both
+- उशते (*uśate*)—to the sacrificer who desires your presence
+- वाजं (*vājaṃ*)—food
+- सद्यः (*sadyaḥ*)—at once
+- धेष्टा (*dheṣṭā*)—as givers
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, slayers of enemies, since I pray and call you both, who are easily invoked and who are together, therefore serve quickly, at this time of the sacrifice, our praise, pure and newly made. Be givers of food at once to the sacrificer who desires your presence.
+
+##### English translation
+Slayers of enemies, Indra and Agni, be pleased to-day by this pious and newly recited praise: repeatedly we invoke you both, who are worthy of invocation; you are the chief bestowers of food promptly upon him who solicits (it of you).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता सा॑न॒सी श॑वसाना॒ हि भू॒तं सा॑कं॒वृधा॒ शव॑सा शूशु॒वांसा॑।  
+> क्षयं॑तौ रा॒यो यव॑सस्य॒ भूरेः॑ पृं॒कं वाज॑स्य॒ स्थवि॑रस्य॒  ॑
+> फृष्णेः ॥ २ ॥
+
+### Printed p. 122
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । सानसी इति । शवसाना । हि । भूतं । साकंवृधा । शवसा । शूशुवांसा ।  
+> क्षयंतौ । रायः ! यवसस्य । भूरेः । पंकं । वाजस्य । स्थविरस्य । फृष्टेः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी ता तौ तादृशौ सानसी सर्वैः संभजनीयौ युवां शवसाना ।
+> शवो बलं । तद्वदाचरंतौ हि खलु भूतं । बलमिव शत्रूणां भंजकावास्तामित्यर्थः । कीदृशौ संतौ । साकंवृधा सह प्रवृदौ शवसा बलेन शूशुवांसा वर्धमानौ
+> तथा रायो धनस्य भूरेर्बहुलस्य यवसस्यान्नस्य क्षयंतावीश्वरौ । एवंविधौ
+> युवं यवां स्थविरस्य स्कूलस्य फृष्टेः शत्रूणां घर्षकस्य वाजस्यान्नस्य ॥ क्रियाग्रहणमपि कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठि॥ईदृशमन्नं पृंकं।
+> संयोजयतं । अस्मभ्यं प्रयच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra and Agni, being such, to be shared by all (सानसी (*sānasī*)), acting like śava, that is strength (शवो बलं (*śavo balaṃ*)), be breakers of enemies as strength is." What kind are they? They grow together, increasing with strength (शवसा (*śavasā*)), and are lords of abundant wealth and of food (यवसस्य (*yavasasya*)). "Such as you are, unite (पृंकं (*pṛṃkaṃ*)) with us food (वाजस्य (*vājasya*)) that is substantial (स्थविरस्य (*sthavirasya*), stout) and crushing to enemies (फृष्टेः (*phṛṣṭeḥ*)); that is, give it to us." Sāyaṇa adds that the verb of the action must be taken in as well, and that the genitive stands in the sense of the dative, since the object is the recipient.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra and Agni) ता (*tā*)—you, the famous
+- सानसी (*sānasī*)—worshipped by all
+- शवसाना (*śavasānā*)—possessed of heroic deeds
+- साकंवृधा (*sākaṃvṛdhā*)—growing together
+- शवसा (*śavasā*)—with strength
+- शूशुवांसा (*śūśuvāṃsā*)—attaining increase
+- रायः (*rāyaḥ*)—of wealth
+- भूरेः (*bhūreḥ*)—and of abundant
+- यवसस्य (*yavasasya*)—food
+- क्षयंतौ (*kṣayaṃtau*)—lords
+- भूतं हि (*bhūtaṃ hi*)—are you not (you of such greatness)
+- स्थविरस्य (*sthavirasya*)—of the abundant **NOTE**
+- पृष्टेः (*pṛṣṭeḥ*)—fit for crushing enemies
+- वाजस्य (*vājasya*)—food (to food)
+- पृंकं (*pṛṃkaṃ*)—as givers
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, it is well known that you, famous and worshipped by all, are possessed of heroic deeds, grow together, increase with strength, and are lords of wealth and of abundant food. Being of such greatness, be givers to us of food that is abundant and fit for crushing enemies.
+
+##### English translation
+You two are desired of all, the demolishers of (hostile) strength, augmenting together, increasing in vigour, lords of the wealth of corn : grant us substantial invigorating food.
+
+### Printed p. 123
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उपो॑ ह॒ यद्वि॒दथं॑ वा॒जिनो॒ गुर्धि॒भिर्विप्राः॒ प्रम॑तिमि॒च्छमा॑नाः ।  
+> आर्वं॑तो॒ न काष्ठां॒ नक्ष॑माणा इंद्रा॒ग्नी जोहु॑वतो॒  ॒
+> नरस्ते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपो इति । ह । यत् । विदथं । वाजिनः । गुः । धीभिः । विप्राः । प्रमतिं ।  
+> इच्छमानाः ।  
+> आर्वंतः । न । काष्ठां । नक्षमाणाः । इंद्राग्नी इति । जोहुवतः । नरः । ते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजिनो हविष्मंतो विप्रा मेधाविनः प्रमतिं प्रकृष्टां मतिमिंद्राग्न्योरनुग्रहबुद्धिमिच्छमाना अत्मन इच्छंतो यद्ये यजमाना विदथं । विदंति
+> जानंति देवांस्तत्र यष्टव्यत्वेनेति विदथो यज्ञः । तं धीभिः कर्मभिर्बुद्धिभिर्वोपो
+> गुः उपगच्छंति । उ इति पूरकः । ते नरः कर्मणां नेतारो जना अर्वंतो न
+> काष्ठां यथाश्वाः शीघ्रं युद्धभूमिं व्याप्नुवंति तथा नक्षमाणा ऐंद्राग्नि
+> कर्माणि व्याप्नुवंत इंद्राग्नी इंद्रमग्निं च जोहुवतः पुनः पुनराह्वयंतो
+> भवंति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers who bring oblations (वाजिनः (*vājinaḥ*)), the wise (विप्राः (*viprāḥ*)), desiring excellent thought (प्रमतिं (*pramatiṃ*)), that is, the favouring mind of Indra and Agni, approach the vidatha with their acts or thoughts (धीभिः (*dhībhiḥ*)). Vidatha is the sacrifice, so called because the gods are known (विदंति (*vidaṃti*)) there as those to be worshipped. उ (*u*) is a filler. Those leaders of rites (नरः (*naraḥ*)), as horses quickly reach the battlefield (काष्ठां (*kāṣṭhāṃ*)), so reach the Indra-Agni rites, and are those who call Indra and Agni again and again.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनः (*vājinaḥ*)—bearers of oblations
+- विप्राः (*viprāḥ*)—the wise
+- प्रमतिं (*pramatiṃ*)—excellent thought
+- इच्छमानाः (*icchamānāḥ*)—desiring
+- यत् ह (*yat ha*)—which sacrificers
+- धीभिः (*dhībhiḥ*)—with their acts
+- विदथं (*vidathaṃ*)—the sacrifice
+- उपो गुः (*upo guḥ*)—approach
+- ते नरः (*te naraḥ*)—those same sacrificers, leaders of rites
+- काष्ठां (*kāṣṭhāṃ*)—the battlefield
+- आर्वंतो न (*ārvaṃto na*)—like horses entering **NOTE**
+- नक्षमाणाः (*nakṣamāṇāḥ*)—absorbed in the rite
+- इंद्राग्नी (*iṃdrāgnī*)—Indra and Agni deities
+- जोहुवतः (*johuvataḥ*)—call again and again
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers, bearers of oblations, wise and desiring excellent thought, who approach the sacrifice with their acts, those same sacrificers, leaders of rites,
+
+### Printed p. 124
+absorbed in the rite like horses entering the battlefield, call Indra and Agni again and again.
+
+##### English translation
+Those sage offerers of oblations, who desiring your favour, celebrate the sacrifice with holy rites, hasten to worship you, like horses to battle repeatedly invoking Indra and Agni.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गी॒र्भिविप्रः॒ प्रम॑तिमि॒च्छमा॑न॒ ईट्टे॑ र॒यिं य॒शसं॑ पूर्व॒भाजं॑ ।
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गीःभिः । विप्रः । प्रमतिं । इच्छमानः । ईट्टे । रयिं । यशसं । पूर्वभाजं ।  
+> इंद्राग्नी इति । वृत्रहना । सुवज्रा । प्र । नः । नव्येभिः । तिरतं । देष्यैः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमावास्यायामैंद्राग्नस्य हविषो गीर्भिरित्येषा याज्या । सूत्रितं च ।
+> इंद्राग्नी अवसा गतं गीर्भिर्विप्रः प्रमतिमिच्छमानः । आ. १-६ । इति ॥ ऐंद्राग्ने
+> पशौ पुरोडाशस्यैषैव याज्या । सूत्रं तूदाहृतं ॥
+> हे इंद्राग्नी प्रमतिं युवयोरनुग्रहबुद्धिमिच्छमान इच्छन् विप्रो
+> मेधावी वसिष्ठो यशसं यशसा युक्तं पूर्वभाजं पूर्वमेव सुभजनीयं
+> रयिं धनमुद्दिश्य गीर्भिः स्तुतिभिरीतै । युवां सौति । हे वृत्रहणा वृत्रस्य हंतारौ,
+> सुवज्रा शोभनायुधाविंद्राग्नी नव्येभिर्नवतरैः प्रशस्त्यैर्देष्टैर्दातवैर्धनैर्नोऽस्मान् प्र तिरतं । प्रवर्धयतं ॥
+
+##### Gist of the bhāṣya
+
+At the new-moon sacrifice, for the oblation to Indra-Agni, the Ṛk गीर्भिः (*gīrbhiḥ*) is the yājyā. The sūtra says: इंद्राग्नी अवसा गतं गीर्भिर्विप्रः प्रमतिमिच्छमानः (*iṃdrāgnī avasā gataṃ gīrbhirvipraḥ pramatimicchamānaḥ*) (Ā. 1-6). In the Indra-Agni animal sacrifice, this same Ṛk is the yājyā for the puroḍāśa; the sūtra has been cited. Meaning: "O Indra and Agni, the wise Vasiṣṭha, desiring your favouring mind (प्रमतिं (*pramatiṃ*)), praises you with songs, with a view to wealth (रयिं (*rayiṃ*)) that is glorious (यशसं (*yaśasaṃ*)) and desirable in former times (पूर्वभाजं (*pūrvabhājaṃ*))." **NOTE** "O slayers of Vṛtra, with fine weapons (सुवज्रा (*suvajrā*)), Indra and Agni, with newer, praiseworthy, giveable (देष्ट्यैः— (*deṣṭyaiḥ—*)) riches, advance us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra and Agni) प्रमतिं (*pramatiṃ*)—your favouring mind
+- इच्छमानः (*icchamānaḥ*)—desiring
+- विप्रः (*vipraḥ*)—the wise Vasiṣṭha
+- यशसं (*yaśasaṃ*)—glorious
+- पूर्वभाजं (*pūrvabhājaṃ*)—worshipful in former times
+
+### Printed p. 125
+- रयिं (*rayiṃ*)—for the sake of wealth
+- गीर्भिः (*gīrbhiḥ*)—with songs of praise
+- ईट्टे (*īṭṭe*)—praises you
+- वृत्रहणा (*vṛtrahaṇā*)—slayers of enemies
+- सुवज्रा (*suvajrā*)—possessed of excellent thunderbolts
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni deities
+- नव्येभिः (*navyebhiḥ*)—praiseworthy
+- देष्ट्यैः (*deṣṭyaiḥ*)—and fit to be given, with riches
+- नः (*naḥ*)—us
+- प्र तिरतं (*pra tirataṃ*)—make us prosper
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, the wise Vasiṣṭha, desiring your favouring mind, begs you with songs of praise for the sake of wealth that is glorious and worshipful in former times. O Indra and Agni, slayers of enemies and possessors of excellent thunderbolts, make us prosper with riches that are praiseworthy and fit to be given.
+
+##### English translation
+The pious sage, desiring your favour, glorifies you with praises for the sake of formerly enjoyed riches, accompanied by celebrity: Indra and Agni, slayers of Vritra, bearers of the thunderbolt, exalt us with precious donations.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the new-moon iṣṭi (Darśa), when the oblation is offered to Indra and Agni, this Ṛk गीर्भिर्विप्रः (*gīrbhirvipraḥ*) is to be recited as the yājyā mantra. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra इंद्राग्नी अवसा गतं गीर्भिर्विप्रः प्रमतिमिच्छमानः (*iṃdrāgnī avasā gataṃ gīrbhirvipraḥ pramatimicchamānaḥ*) (Ā. 1-6). In the animal sacrifice made for Indra and Agni as well, this Ṛk is to be recited as the yājyā mantra at the puroḍāśa offering; the sūtra stating this was cited earlier.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं यन्म॒ही मि॑थ॒ती स्पर्ध॑माने तनू॒रुचा॒ शूर॑साता॒ यतै॑ते।  
+> अदे॑वयुं वि॒दथे॑ देव॒युभिः॑ स॒त्रा ह॑तं सोम॒सुता॒ जने॑न॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । यत् । मही इति । मिथती इति । स्पर्धमाने इति । तनूरुचा । शूरसाता ।  
+> यतैते इति ।
+
 ---
 
-**Progress note:** Done through printed p. 118. pp. 112-118 (batch API)
+**Progress note:** Done through printed p. 125. pp. 119-125 (batch API)
