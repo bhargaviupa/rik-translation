@@ -27847,6 +27847,270 @@ Indra, whom you wishes to give, his wealth goes increasing Desirous of wealth we
 > कडा । चन । प्र । युच्छसि । उभे इति । नि । पासि । जन्मनी इति ।  
 > शुरीय । आदित्य । हवनं । ते । इंद्रियं । आ । तस्थौ । अमृतं । दिवि ॥ ७ ॥
 
+### Printed p. 611
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदानीमृषिः सूर्यरूपेणेंद्रं सौति । हे अंद्र कदाचन कदापि त्वं प्र
+> युच्छसि प्रमत्तो भवसि । नैव भवसीति कटाप्तः । अहोरात्रं जागरूक एवासीत्यर्थः।
+> यतस्त मुभे जन्मनी । एकमदिनेरिंद्ररूपेण जन्म । द्वितीयं ब्रह्मविद्यातः
+> जगदात्वरूपेणेशि द्वे जनुषी । नि पासि नितरां पालयसि । न ह्यसावधानः प्रपंचं
+> परमार्थं च उभयं कर्तुं शक्नुयात् कश्चितिति भावः । हे तुरीय प्रत्यगात्मरूपेण अवस्थात्रयातीत दे आदित्य आदितिपुत्र इंद्र ते तव स्वभूतमिंद्रियमिंद्रस्य
+> तव लिंगं होतकं हवनं । हूयतेऽस्मिन्निति हवनमादित्यमंडलं । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते इति स्मृतेरादित्यमंडलस्य होमाधिष्ठानत्वं प्रसिद्धं ।
+> तादृशं मंडलं अमृतं मरणधर्मरहितं सत् दिवि द्युलोके आ तस्मा अभिमुख्येनातिष्ठत् ! यस्मात्त्वं जगदात्मासीत्यतस्त्वां हवामह इति पूर्वणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+Now the seer praises Indra in the form of the Sun. O Indra, you never become heedless; the sense is that you are wakeful by day and by night. For you have two births: the first as Indra, from Aditi, and the second, from the knowledge of Brahman, in the form of the Self of the world **NOTE**. You protect both thoroughly, for no one who was not attentive could accomplish both the world and the highest reality. O Turīya, who in the form of the inner Self are beyond the three states, O Āditya, son of Aditi, O Indra, your own indriya, the mark that makes you known, is the havana, that is, the orb of the Sun, since that is where the oblation is offered. That the orb of the Sun is the seat of the homa is well known from the Smṛti: अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते (*agnau prāstāhutiḥ samyagādityamupatiṣṭhate*). That orb, free from mortality, stood facing you in heaven. Because you are the Self of the world, we call upon you; thus it is connected with the earlier part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कदा चन (*kadā cana*)—when, ever
+- प्र युच्छसि (*pra yucchasi*)—do you forget your duty
+- उभे जन्मनी (*ubhe janmanī*)—both births, in their eternal and non-eternal forms
+- नि पासि (*ni pāsi*)—you protect completely
+- तुरीय (*turīya*)—you who stand in the most excellent fourth state
+- आदित्य (*āditya*)—O Indra, who are of the form of Āditya
+- ते (*te*)—your
+- इंद्रियं (*iṃdriyaṃ*)—that which reveals your nature
+- अमृतं (*amṛtaṃ*)—that which is everlasting
+- हवनं (*havanaṃ*)—the orb of Āditya
+- दिवि (*divi*)—in the world of heaven
+- आ तस्थौ (*ā tasthau*)—has been established
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, there is no time at all when you forget your duty. You are always watchful, and you protect completely both births, in their eternal and non-eternal forms. O Indra, of the form of Āditya, who stand in the most excellent fourth state, your orb of Āditya, which reveals your nature and is everlasting, has been established in the world of heaven.
+
+##### English translation
+Never do you fall into error ; you protect both kind. Speedy Aditya the blazing invocation for you rests in heaven.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मै॒ त्वं म॑घवन्निंद्र गिर्वणः॒ शिक्षो॒ शिक्ष॑सि दा॒शुषे॑ ।  
+> अ॒स्माकं॒ गिर॑ उ॒त सु॑ष्टु॒तिं व॑सो कण्व॒वच्छृ॑णुधी॒ हनं ॥ ८ ॥॑
+
+### Printed p. 612
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मै । त्वं । मघवन् । इंद्र । गिर्वणः । शिक्षो इति । शिक्षसि । दाशुषे ।  
+> आस्माकं । गिरः । उत । सुस्तुतिं । वसो इति । कण्ववत् । शृणुधि । हवं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन् हे गिर्वणः गीर्भिर्वननीय हे शिक्षो शिक्षकेंद्र दाशुषे
+> हविर्दत्तवते यस्मै यजमानाय शिक्षसि अपेक्षितं धनादि ददासि तत्संबंधिनामस्माकं
+> गिरः प्रार्थनावाचः शृणुधि शृणु । उतापि च हे वसो वासयितरिंद्र सुष्टुतिं
+> शोभनां स्तुतिं शृणुधि । किंच कण्ववत् यथा कण्वस्य हवमाह्वानमकृणोः
+> एवमस्माकं हवं शृणु ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, possessor of wealth; O Girvaṇaḥ, you who are to be served with songs; O Śikṣu, Indra the giver: to whichever sacrificer has offered the oblation you give the wealth and other things he desires; hear the prayer-words of us who belong to that sacrificer. And, O Vasu, Indra who causes dwelling, hear the good praise. Further, as you answered the call of Kaṇva, so hear our call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—you who are praised with hymns
+- मघवन् (*maghavan*)—you who possess wealth
+- शिक्षो (*śikṣo*)—you who are the instructor
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- दाशुषे (*dāśuṣe*)—who offers the oblation
+- यस्मै (*yasmai*)—to whichever sacrificer
+- शिक्षसि (*śikṣasi*)—you give the gift of wealth
+- अस्माकं (*asmākaṃ*)—of us, who belong to that same sacrificer
+- गिरः (*giraḥ*)—the words of praise
+- उत (*uta*)—and
+- सुष्टुतिं (*suṣṭutiṃ*)—the praise-accompanied
+- हवं (*havaṃ*)—invocation
+- वसो (*vaso*)—O Indra, giver of dwelling
+- कण्ववत् (*kaṇvavat*)—as you heard the prayer of Kaṇva
+- शृणुधि (*śṛṇudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised with hymns, wealthy, an instructor: to whichever sacrificer who offers the oblation you give the gift of wealth, the words of praise of us who belong to that same sacrificer, and our invocation accompanied by praise, O Indra, giver of dwelling, hear as you heard the prayer of Kaṇva.
+
+##### English translation
+Worshipable, liberal Maghavan you give to the sacrificer; giver of dwellings, as you did hear of the invocation of Kanwa likewise do you hear our words, praises and invocation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्ता॑वि॒ मन्म॑ पू॒र्व्यं ब्रह्मेंद्रा॑य वोचत ।  
+> पू॒र्वीर्यु॒तस्य॑ बृह॒तीर॑नूषत स्तो॒तुर्मे॒धा अ॑सृक्षत ॥ ९ ॥
+
+### Printed p. 613
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्तावि : मन्म । पूर्व्यं । ब्रह्म । इंद्राय । वोचित ।  
+> पूर्वः ' यतस्य । बृहतीः । अनूषत । स्तोतुः । मेधाः । अस्पृश्यत ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः मन्म मननीयं पूर्व्यं पुरातनं यत् ब्रह्म स्तोत्रं असावि
+> (अस्ताः स्तुतिविषयीकृतं भवद्भिस्तत् ब्रह्म स्तोत्रं इंद्राय परमेश्वराय
+> तदर्थं वोचत ब्रूत । यतो भवंतः ऋतस्य सत्यस्येंद्रस्य संबंधिनीः पूर्वीः
+> बृहतिः बृहतीः महतीः । सामर्थ्यार्ति मूर्तिः इंद्रस्य प्रचुरान् महतो गुणावतारानित्यर्थः । अनूषत स्तुतिविषयीकृतवंतः किंच स्तोतुर्मम आयोः मेधाः
+> धारणावतीः बुद्धीः असृक्षत सृष्टवंतः । अतः प्रार्थये ब्रह्मेंद्राय वोचतेति ॥
+
+##### Gist of the bhāṣya
+
+O priests, the ancient hymn that is fit for contemplation, the brahma, which has been praised, direct to Indra, the Supreme Lord. For you have praised the many great manifestations connected with Ṛta, that is, with the true Indra; that is, the many great incarnations of his qualities **NOTE**. Moreover you have produced the retentive understandings of me, the praiser **NOTE**. Therefore I pray: speak the hymn for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—belonging to Indra, who is of the nature of truth
+- पूर्वीः (*pūrvīḥ*)—many
+- बृहतीः (*bṛhatīḥ*)—great, the hymns
+- अनूषत (*anūṣata*)—you have recited
+- स्तोतुः (*stotuḥ*)—of me, the praiser
+- मेधाः (*medhāḥ*)—the understanding
+- आसृक्षत (*āsṛkṣata*)—you have refined; therefore
+- मन्म (*manma*)—that which is of the nature of meditation
+- पूर्वं (*pūrvaṃ*)—ancient
+- अस्तावि (*astāvi*)—which praise has been recited in former times
+- ब्रह्म (*brahma*)—such an excellent hymn
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- वोचत (*vocata*)—recite
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, you have recited many kinds of great hymns belonging to Indra, who is of the nature of truth, and have refined the understanding of me, the praiser. Therefore recite, addressed to Indra, that excellent hymn which is of the nature of meditation, which is ancient, and which has been recited in former times.
+
+##### English translation
+Sing ancient hymns in praise of Indra, Sing the grand hyman before the rite and animate the body of the worshippers.
+
+### Printed p. 614
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समिंद्रो॒ रायो॑ बृह॒तीर॑धूनुत॒ सं क्षो॒णी समु॒  ॑
+> सूर्यं ।  
+> सं शु॒क्रासः॒ शुच॑यः॒ सं गवा॑शिरः॒ सोमा॒ इंद्र॑मंदिषुः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । इंद्रः । रायः । बृहतीः । अधूनुत । सं । क्षोणी इति । सं । ऊं इति ।  
+> सूर्यं ।  
+> सं । शुक्रासः । शुचयः । सं । गोऽआशिरः । सोमाः । इंद्रं । अमुंदिषुः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः बृहतीः महांति रायः हिरण्यादिधनानि समधूनुत सम्यगकरोत् ।
+> यश्चेंद्रः क्षोणी द्यावापृथिव्यौ समधूनुत समक् रचयांचक्रे । क्षोणी इति
+> द्यावापृथिव्योर्नामधेयं । रोदसी क्षोणी अंधसी इति तन्नामसु पातात् ।
+> किंच य इंद्रः सूर्यं मंगलात्मानु समधूनुत समजनयत् । तमिंद्रं शुक्रासः
+> शुक्लाः दीप्ताः शुचयः पूताः आपः वसतीवर्येकधनाः लक्षणाः सममंदिषुः
+> सम्यगमावयन् ॥ किंच गवाशिरः गोदुग्धं सोमाः तद्रसाश्च तमिंद्रं
+> सममंदिषुः । इत्थं महानुभाव इंद्रोऽसीति त्ववर्थं ब्रह्म पोचत इति पूर्णेण
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Indra who shook together, that is, rightly produced, great riches, gold and the like; and who fashioned together heaven and earth, for kṣoṇī is a name of heaven and earth, as in the lists of their names, rodasī, kṣoṇī, andhasī **NOTE**; and who also brought forth the Sun, the auspicious one **NOTE**: that Indra the bright, shining, pure waters exhilarated together **NOTE**. And the Somas, the juices of the cow's milk, exhilarated that Indra. Thus you are of great power, Indra; therefore speak the hymn for you; so it is connected with the earlier part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- बृहतीः (*bṛhatīḥ*)—great
+- रायः (*rāyaḥ*)—wealth
+- समधूनुत (*samadhūnuta*)—has provided
+- क्षोणी (*kṣoṇī*)—heaven and earth
+- सं (*saṃ*)—has rightly fashioned
+- सूर्यं (*sūryaṃ*)—the Sun
+- समु (*samu*)—has created
+- इंद्रं (*iṃdraṃ*)—that same Indra
+- शुक्रासः (*śukrāsaḥ*)—the radiant
+- शुचयः (*śucayaḥ*)—the pure
+- गवाशिरः (*gavāśiraḥ*)—mixed with milk and other supporting substances
+- सोमाः (*somāḥ*)—the Soma juices
+- सं अमंदिषुः (*saṃ amaṃdiṣuḥ*)—have made content
+
+##### भावार्थ (Bhāvārtha)
+
+Indra has provided all of us with great wealth. He has rightly fashioned heaven and earth. He has created the Sun. The Soma juices, radiant, pure and mixed with milk and other supporting substances, have made that same Indra content.
+
+### Printed p. 615
+
+##### English translation
+Indra sends vast wealth, sends to the world the sun, creates the heaven and earth; white coloured, pure Soma mixed with milk exhilarated Indra.
+
+## Sūkta 53 (Maṇḍala 8)
+
+##### Gist of the bhāṣya
+
+The sūkta of eight Ṛks beginning उपमं त्वा (*upamaṃ tvā*) is the fifth, the vision of Medhya Kāṇva. It is listed in the Anukramaṇikā: उपमं त्वाष्ट मेध्यः (*upamaṃ tvāṣṭa medhyaḥ*). The metre of the odd-numbered Ṛks is Bṛhatī; the metre of the even-numbered is Satobṛhatī. The ritual application is to be learnt from the Sūtra.
+
+##### Anuvāda
+
+This sūkta beginning उपमं त्वा (*upamaṃ tvā*) is the fifth among the Vālakhilya sūktas. It has eight Ṛks. Its seer is one called Medhyaḥ Kāṇvaḥ; Indra is the deity. The odd-numbered Ṛks of this sūkta are in the Bṛhatī metre; the even-numbered Ṛks are in the Satobṛhatī metre. In the Anukramaṇikā it is said: उपमं त्वाष्टौ (*upamaṃ tvāṣṭau*). The ritual application is to be learnt from the Sūtra.
+
+##### Particulars
+
+Maṇḍala 8, Anuvāka 6, Sūkta 53; Aṣṭaka 6, Adhyāya 4, Varga 22, 23. Number of Ṛks in the sūkta: 8. Seer: Medhyaḥ Kāṇvaḥ. Deity: Indraḥ. Metre: Prāgāthaṃ (odd Ṛks Bṛhatī; even Ṛks Satobṛhatī).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒प॒मं त्वा॑ म॒घोनां॒ ज्येष्ठं॑ च वृष॒भाणां॑ ।  
+> पू॒र्भित्त॑मं मघवन्निंद्र गो॒विद॒मीशा॑नं रा॒य ई॑महे ॥
+
+### Printed p. 616
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपमं । त्वा । मघोनां । ज्येष्ठं । च । वृषभाणां ।  
+> पूर्भित्सतमं । मघवन् । इंद्र । गोऽविदं । ईशानं । रायः । ईमहे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघुवन् धनवन्निंद्रॆ मघोनां धनवतां मध्ये उपमं उपमाभूतं
+> वृषभाणां कामवर्षित्यणां मध्ये ज्येष्ठं अतिशयेन प्रशस्यं च त्वा त्वा रायः
+> गवाश्वादिधनानि ईमहे याचामहे वयं । कीदृशं त्वां । पूर्भित्तमं अतिशयेनशत्रुपुरां भेत्तारमत एव गोविदं गवां लंभयितारं ईशानं सर्वपिद्यानां
+> नियंतारं । ईशानः सर्वविद्यानां—(त्रै. आ. १०-४७) इति श्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, Indra, wealthy one: among the wealthy you are the model, and among the bulls, the showerers of desires, you are the eldest, that is, the most to be praised. We ask of you riches, cows, horses and the like. What kind of you? One who most splits the cities of enemies, and so a finder of cows, a ruler, the controller of all knowledge, according to the Śruti ईशानः सर्वविद्यानां (*īśānaḥ sarvavidyānāṃ*) (Trai. Ā. 10-47) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—you who possess wealth
+- इंद्र (*iṃdra*)—O Indra
+- मघोनां (*maghonāṃ*)—among all the wealthy
+- उपमं (*upamaṃ*)—the model
+- वृषभाणां (*vṛṣabhāṇāṃ*)—among all the bestowers of desired things
+- ज्येषं च (*jyeṣaṃ ca*)—and the foremost
+- पूर्भित्तमं (*pūrbhittamaṃ*)—who splits the enemy's cities
+- गोविदं (*govidaṃ*)—who obtains the cows held by enemies
+- ईशानं (*īśānaṃ*)—the lord of all
+- त्वा (*tvā*)—you, from you
+- रायः (*rāyaḥ*)—wealth
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, you are the model among all the wealthy, the foremost among the bestowers of desired things, one who splits the enemy's cities, one who obtains the cows held by enemies, and the lord of all. From you I ask wealth.
+
+##### English translation
+We approach you Maghavan, the chief amongst the wealthy, penetrator into enemies fortress, Lord of wealth and our Lord, I pray for wealth from you.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य आ॒युं कुत्स॑मतिथि॒ग्वमर्द॑यो वावृधा॒नो दि॒वेदि॑वे ।  
+> तं त्वा॑ व॒यं हर्य॑श्वं श॒तक्र॑तुं वाज॒यंतो॑ हवामहे ॥
+
 ---
 
-**Progress note:** Done through printed p. 610. Sūkta 52 Ṛks 1-7, pp. 605-610
+**Progress note:** Done through printed p. 616. Ṛk 7 end to Ṛk 10 of 8.52; sūkta 8.53 intro and Ṛk 1, Ṛk 2 Saṃhitā
