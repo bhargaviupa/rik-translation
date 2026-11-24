@@ -9866,6 +9866,264 @@ Indra and Soma, fall upon the destructive (Rakshasa) and the performer of unprof
 > यथा । न । अतः । पुनः । एकः । चन । उत् अयत् । तत् । वां । अस्तु । सहसे ।  
 > मन्युमत् । शवः ॥ ३ ॥
 
+### Printed p. 246
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रासोमौ दुष्कृतो दुष्कर्मकारिणो राक्षसान् वव्रे वारकेऽन्तर्मध्येऽनारंभण आलंबनरहिते तमस्यंधकारे प्र विध्यतं । प्रवेश्य ताडयतं । यथा येन प्रकारेणैषां मध्य एकश्चनैकोऽपि राक्षसोऽतोऽस्मात्तमसः
+> पुनर्नोदयत् उद्गच्छेत् । तथा विध्यतमित्यर्थः ॥ एतेर्लेट्यडागमः । इतश्च
+> लोप इतीकारलोपः । गुणायादेशौ ॥ तत्पसिद्धं मन्युमत्तॊधयुक्तं नां
+> युवयोः शवो बलं सहसे रक्षसामभिभवनायास्तु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra and Soma. Strike the evildoers, the Rākṣasas, by driving them in. वव्रे (*vavre*) means "in the enclosing" interior, in darkness that gives no support. Strike them in such a way that not even one of them can rise again out of that darkness. By the same means your well-known wrathful might (शवः (*śavaḥ*), strength) is to prevail (सहसे (*sahase*)) over the Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- यथा (*yathā*)—in what manner
+- एकश्चन (*ekaścana*)—even one among them
+- अतः (*ataḥ*)—from that region of darkness
+- पुनः (*punaḥ*)—again
+- न उदयत् (*na udayat*)—cannot rise and come up; in that manner
+- दुष्कृतः (*duṣkṛtaḥ*)—the evildoers
+- वव्रे (*vavre*)—covered over with obstructions
+- अनारंभणे (*anāraṃbhaṇe*)—from which one cannot free oneself
+- तमसि (*tamasi*)—enveloped in darkness
+- अंतः (*aṃtaḥ*)—in a deep region like the nether world
+- प्र विध्यतं (*pra vidhyataṃ*)—push them in and torment them
+- तत् (*tat*)—well-known
+- मन्युमत् (*manyumat*)—wrathful
+- वां (*vāṃ*)—your
+- शवः (*śavaḥ*)—might
+- सहसे (*sahase*)—capable of defeating those Asuras
+- अस्तु (*astu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, just as not one of the evildoers can rise and return from a deep region enveloped in darkness, so push those evildoers into a deep region like the nether world, covered over with obstructions, from which one cannot free oneself, enveloped in darkness, and torment them. Let your well-known, wrathful might be capable of defeating those Asuras.
+
+##### English translation
+Indra and Soma, chastise the malignant (Rakshasas), having plunged them in surrounding and inextricable darkness, so that not one of them may again issue from it: so may your wrathful might be triumphant over them.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा व॒र्तय॑तं दि॒वो व॒धं सं पृ॑थि॒व्या अ॒घशं॑साय॒ तर्ह॑णं ।
+
+### Printed p. 247
+
+> उत्तक्षतं स्वर्यंगपर्वतेभ्यो येन रक्षो वावृधानं  
+> निजूर्वथः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । वर्तयतं । दिवः । वधं । सं । पृथिव्याः । अघशंसाय । तर्हणं।  
+> उत् । तक्षतं । स्वर्यं । पर्वतेभ्यः । येन । रक्षः । ववृधानं । निजूर्वथः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रासोमौ दिवोऽन्तरिक्षात् द्युलोकाद्वा वधं हननसाधनमायुधं
+> सं वर्तयतं । उत्पादयतं । पृथिव्या अस्मादपि लोक्तात्तर्हणं हिंसकमायुधमघशंसायाघशंसमनर्थस्याशंसकं राक्षसं हंतुमुत्पादयतं । तथा पर्वतेभ्यः
+> पर्ववद्भो मेघेभ्यः सकाशात्स्वर्यं ॥ स्वै शब्दोपतापयोः ॥ उपतापकमशनिमुत्तक्षतं । उद्धृतं कुरुतं । येनाशनिना वावृधानं वर्धमानं प्रवृद्धं वा
+> रक्षो राक्षसं निजूर्वथः निहथः ॥ जुर्वि हिंसायां ॥ तमशनिमुत्तक्षतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, produce a weapon (वधं (*vadhaṃ*)), an instrument of slaying, from heaven, that is, from the atmosphere or from the heavenly world. From this earth too produce a harmful weapon (तर्हणं (*tarhaṇaṃ*)) in order to slay the Rākṣasa who is अघशंसाय (*aghaśaṃsāya*), one who proclaims what is harmful. Likewise, from the पर्वतेभ्यः (*parvatebhyaḥ*), that is, from the clouds, which are joint-like, raise up the स्वर्यं (*svaryaṃ*), the thunderbolt that scorches (he cites the root meaning sound and heat). With that thunderbolt you two slay the Rākṣasa who is growing or has grown strong; निजूर्वथः (*nijūrvathaḥ*) is "you slay" (root जुर्वि हिंसायां (*jurvi hiṃsāyāṃ*)). The meaning is: raise up that thunderbolt.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- अघशंसाय (*aghaśaṃsāya*)—upon the Rākṣasa who wishes us harm
+- दिवः (*divaḥ*)—from the atmosphere
+- वधं (*vadhaṃ*)—the weapon that is the instrument of slaying
+- सं वर्तयतं (*saṃ vartayataṃ*)—hurl
+- पृथिव्याः (*pṛthivyāḥ*)—from the earth also
+- तर्हणं (*tarhaṇaṃ*)—the harmful weapon; hurl it upon him
+- वावृधानं (*vāvṛdhānaṃ*)—who is growing
+- रक्षः (*rakṣaḥ*)—the Rākṣasa
+- येन (*yena*)—with which thunderbolt
+- निजूर्वथः (*nijūrvathaḥ*)—you destroy; such
+- स्वर्यं (*svaryaṃ*)—the scorching thunderbolt
+- पर्वतेभ्यः (*parvatebhyaḥ*)—from the cloud regions (from the sky)
+- उत्तक्षतं (*uttakṣataṃ*)—discharge
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, discharge from the atmosphere upon the Rākṣasa who wishes us harm a weapon that is the instrument of slaying. Discharge upon him from the earth also a harmful weapon. Discharge upon him from the cloud regions the scorching thunderbolt with which you destroy the Asura who is growing.
+
+##### English translation
+Indra and Soma, display from heaven your fatal (weapon), the
+### Printed p. 248
+extirpator from earth of the malignant (Rakshasas): put forth from the clouds the consuming (thunderbolt), wherewith you slay the increasing Rakshas race.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा व॒र्तय॑तं दि॒वस्पर्य॑ग्नित॒प्तेभि॑र्यु॒वमश्म॑हन्मभिः !  
+> तपु॑र्वधेभिर॒जरे॑भिर॒त्रिणो॒ नि पर्शा॑ने विध्यतं॒ यंतु॑  ॒
+> निस्वरं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । वर्तयतं । दिवः । परि । अग्नित्तप्तेभिः । युवं । अश्महन्मभिः ।  
+> तपुःसवधेभिः । अजरेभिः । अत्रिणः । नि । पर्शाने । विध्यतं । यंतु । निस्वरं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रासोमौ दिवोऽन्तरिक्षात्परितः सर्वतो वर्तयतं । आयुधानि प्रेरयतं । युवं तौ युवामग्नितप्तेभिरग्निना संतप्तैस्तपूर्वधेभिस्तापकप्रहारैरजरेभिर्जरारहितैर्दृढैरश्महन्मभिरश्मसारभूतस्यायसो विकारैर्हननसाधनैस्तॆरायुधैरत्रिणो राक्षसस्य पर्शाने पार्श्वस्थाने नि विध्यतं । निहतं । ते च राक्षसा निःस्वरं
+> निःशब्दं यंतु । अपयंतु । निर्गच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, *pari vartayataṃ*: send your weapons from the atmosphere on every side. You two, with weapons that are fire-heated (heated by fire), तपुर्वधेभिः (*tapurvadhebhiḥ*) (blows that burn), अजरेभिः (*ajarebhiḥ*) (free from decay, firm), and अश्महन्मभिः (*aśmahanmabhiḥ*) (modifications of iron that is the essence of stone, instruments of slaying), strike (नि विध्यतं (*ni vidhyataṃ*), slay) the devouring Rākṣasa पर्शाने (*parśāne*), in the place at his side. And let those Rākṣasas go away without a sound (निःस्वरं (*niḥsvaraṃ*)), that is, depart, go out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- दिवः (*divaḥ*)—from the atmosphere
+- परि (*pari*)—on all sides
+- वर्तयतं (*vartayataṃ*)—hurl your weapons
+- युवं (*yuvaṃ*)—you two
+- अग्नितप्तेभिः (*agnitaptebhiḥ*)—which are burning, joined with fire
+- तपुर्वधेभिः (*tapurvadhebhiḥ*)—which burn and destroy enemies
+- अजरेभिः (*ajarebhiḥ*)—which are firm
+- अश्महन्मभिः (*aśmahanmabhiḥ*)—which are hard like the thunderbolt and destructive; with such weapons
+- अत्रिणः (*atriṇaḥ*)—of the Rākṣasa who devours everything
+- पर्शाने (*parśāne*)—in the region at his side
+- नि विद्यतं (*ni vidyataṃ*)—strike
+- ते (*te*)—those Rākṣasas
+- निः स्वरं (*niḥ svaraṃ*)—without a sound
+- यंतु (*yaṃtu*)—let them run away
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, from the atmosphere, on every side upon the enemies, hurl your weapons
+### Printed p. 249
+Strike both of you, with weapons that burn, joined with fire, that burn and destroy enemies, that are firm, hard like the thunderbolt and destructive, the Rākṣasa who devours everything, in the region at his side. Let those Rākṣasas run away without making a sound.
+
+##### English translation
+Indra and Soma, scatter around (your weapons) from the sky pierce their sides with fiery scorching adamantine (weapons), so that they may depart without a sound.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा॒ परि॑ वां भूतु वि॒श्वत॑ इ॒यं म॒तिः क॒क्ष्याश्वे॑व  ॒॑
+> वाजिना ।  
+> यां वां॒ होत्रां॑ परिहि॒नोमि॑ मे॒धये॒मा ब्रह्मा॑णि ॒॑ 
+> नृपतीव जिन्वतं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । परि । वां । भूतु । विश्वतः । इयं । मतिः । कक्ष्या।अश्वाइव ।  
+> वाजिना ।  
+> यां । वां । होत्रां । परिहिनोमि । मेधया । इमा । ब्रह्माणि । नृपती  
+> इवेति नृपतीइव । जिन्वतं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रासोमौ इयमस्माभिः क्रियमाणा मतिर्मननीया स्तुतिर्वाजिना
+> वाजिन् बलवंतौ नां युवां विश्वतः सर्वतः परि भूतु । परिगृह्णातु । व्याप्नोतु
+> ना । तत्र दृष्टांतः । कक्ष्या कक्षबंधनी रज्जुरश्वेव यथाश्वं परिगृह्णाति तद्वत् । यां
+> होत्रां वाचं नां युवाभ्यां मेधया परिहिनोमि प्रेरयामि । सेयं ।
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, let this मतिः (*matiḥ*), the thoughtful praise being made by us, encompass (परि भूतु (*pari bhūtu*), take hold of, pervade) you two, who are mighty (वाजिना (*vājinā*)), on every side. The illustration: as a कक्ष्या (*kakṣyā*), a girth-rope that binds the flank, takes hold of a horse. The होत्रां (*hotrāṃ*), the speech, that I send forth (परिहिनोमि (*parihinomi*)) to you two with my understanding (मेधया (*medhayā*)): that same is the मतिः (*matiḥ*) (so the connection).
+
+> मतिरिति संबंधः । अपि चेमेमान्यस्माभिः कृतानि ब्रह्माणि स्तोत्राणि .... .... .... यथा
+> धनैः पूरयंति तथा जिन्वतं । फलैः पूरयतं ॥
+
+### Printed p. 250
+
+##### Gist of the bhāṣya
+
+Further, "these hymns (ब्रह्माणि (*brahmāṇi*)), these praises made by us" .... .... .... (*.... .... ....*) **NOTE**. "As they fill with riches, so जिन्वतं (*jinvataṃ*): fill with fruits."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- यां होत्रां (*yāṃ hotrāṃ*)—which speech of praise
+- वां (*vāṃ*)—addressed to you both
+- मेधया (*medhayā*)—with excellent power of mind (with devotion)
+- परिहिनोमि (*parihinomi*)—I offer
+- इयं (*iyaṃ*)—this which is made by us
+- मतिः (*matiḥ*)—this praise which is of the nature of reflection
+- वाजिना (*vājinā*)—mighty
+- वां (*vāṃ*)—you
+- कक्ष्या (*kakṣyā*)—the girth
+- अश्वेव (*aśveva*)—as it encompasses the body of a horse
+- विश्वतः (*viśvataḥ*)—everywhere
+- परिभूतु (*paribhūtu*)—let it pervade
+- इमा ब्रह्माणि (*imā brahmāṇi*)—these hymns of ours
+- नृपती इव (*nṛpatī iva*)—as two kings fill those who praise them with riches
+- जिन्वतं (*jinvataṃ*)—you two also, who are lords, be satisfied with these praises and fill them with fruits
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, the speech of praise that I offer to you both with pure devotion, that praise, made by us, of the nature of meditation, let it pervade you who are mighty on every side, as a girth encompasses the body of a horse. As kings fill those who praise them with riches, so you two, who are kings, be satisfied with our praises and fill them with fruits.
+
+##### English translation
+May this praise invest you, Indra and Soma, who are mighty, on every side, as a girth (encompasses) a horse,—that praise which I offer to you both with pure devotion: you ,like two kings, accept this my homage.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ स्मरेथां तु॒जय॑द्धि॒रॆवै॑र्ह॒तं द्रु॒हो र॒क्षसो॑ भंगु॒राव॑तः ।  
+> इंद्रा॑सोमा दु॒ष्कृते॒ मा सु॒गं भू॒द्यो नः॑ क॒दा चि॑दभि॒दास॑ति द्रु॒हा ॥ ७ ॥
+
+### Printed p. 251
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । स्मरेथां । तुजयत्भिः । एवैः । हतं । द्रुहः । रक्षसः । भंगुरवतः ।  
+> इंद्रासोमा । दुःकृते । मा । सुगं । भूत् । यः । नः । कदा । चित् ।  
+> अभिदासति । द्रुहा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रासोमौ तुजयद्भिस्वरमाणैरेवैर्गंतृभिरश्वैः प्रति स्मरेथां ।
+> अभिगच्छतं ॥ उपसर्गवशेन स्मरतिरत्रार्थांतरे वर्तते । यथा प्रस्ररणं प्रस्थानमिति ॥ अभिगत्य च द्रुहो दोग्धान् भंगुरावतो भंजनकर्मवतो रक्षसो
+> राक्षसान् हतं । हिंसतं । हे इंद्रासोमौ दुष्कृते पापकारिणे राक्षसाय सुगं
+> सुखं मा भूत् । मा भवतु । द्रुहा द्रोहेण युक्तो यो नोऽस्मान् कदा
+> चिदप्यभिदासति अभिहंति तस्मै दुष्कृत इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, प्रति स्मरेथां (*prati smarethāṃ*): come to us with तुजयद्भिः (*tujayadbhiḥ*), swift एवैः (*evaiḥ*), going horses. Through the force of the prefix, the root स्मरति (*smarati*) here has another meaning, as in प्रस्ररणं (*prasraraṇaṃ*), "setting out" (*prasthānaṃ*). Having come, slay the द्रुहः (*druhaḥ*), the harmful, and the भंगुरावतः (*bhaṃgurāvataḥ*), those whose work is breaking, the Rākṣasas. O Indra and Soma, let there be no सुगं (*sugaṃ*), no ease, for the evildoer, the sinful Rākṣasa, who, given to द्रुहा (*druhā*), malice, ever attacks (अभिदासति (*abhidāsati*)) us. The construction is: "to that evildoer".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- तुजयद्भिः (*tujayadbhiḥ*)—swift
+- एवैः (*evaiḥ*)—with horses
+- प्रति स्मरेथां (*prati smarethāṃ*)—come to us
+- द्रुहः (*druhaḥ*)—the treacherous
+- भंगुरावतः (*bhaṃgurāvataḥ*)—and destructive
+- रक्षसः (*rakṣasaḥ*)—Rākṣasas
+- हतं (*hataṃ*)—destroy
+- यः (*yaḥ*)—whichever Asura
+- द्रुहा (*druhā*)—with a treacherous mind
+- नः (*naḥ*)—us
+- कदा चित् (*kadā cit*)—at any time (or always)
+- अभिदासति (*abhidāsati*)—harasses
+- दुष्कृते (*duṣkṛte*)—to that Asura who is an evildoer
+- सुगं (*sugaṃ*)—a life of happiness
+- मा भूत् (*mā bhūt*)—let it certainly not be obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, come to us with swift horses. Destroy the Rākṣasas who are treacherous and destructive. Whichever Asura always harasses us with a treacherous mind, let that Asura, the evildoer, certainly have no life of happiness.
+
+##### English translation
+Come with rapid steeds, slay the oppressive mischievous Rakshasas : let there be no happiness, Indra and Soma, to the malignant, who harasses us with his oppression.
+
 ---
 
-**Progress note:** Done through printed p. 245. pp. 240-245 (batch API)
+**Progress note:** Done through printed p. 251. pp. 246-251 (batch API)
