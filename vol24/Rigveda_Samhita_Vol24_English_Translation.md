@@ -16781,6 +16781,265 @@ Indra, wielder of the thunderbolt, instigator (of acts), may the numerous merits
 > उतो इति । नु । चित् । यः । ओजसा । शुष्णस्य । अंडानि । भेदति । जेषत् । स्ववतीः।  
 > अपः । नभंतां । अन्यके । समे ॥ १० ॥
 
+### Printed p. 371
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः त्वेषं दीप्तं सत्वानं संभक्तारं धनानामृग्मियमृगर्हमृग्मिः
+> स्तोतव्यं तमिंद्रं सुवृक्तिभिः स्तुतिभिः शिशीत । संस्कुरुत । उतो नु चिदपि च य
+> इंद्र ओजसा बलेन शुष्णस्य शुष्णनामकस्यासुरस्यांडान्यंडजातान्यपत्यानि भेदति
+> अभिनत् स स्वर्वतीर्दिव्यान्यपः सलिलानि जेषत् । जयतु । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O praisers, refine with praises that Indra who is brilliant (tveṣa, the shining one), a distributor (sattvan, one who shares out) of riches, and ṛgmiya, that is, worthy of Ṛks, to be praised. Moreover, that Indra who by his might (ojas, strength) splits the eggs, that is, the offspring, born of the egg, of the asura named Śuṣṇa: may he conquer the celestial waters. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वेषं (*tveṣaṃ*)—the radiant one (O praisers)
+- सत्वानं (*satvānaṃ*)—the giver of wealth
+- ऋग्मियं (*ṛgmiyaṃ*)—the one praised with Ṛks
+- तं (*taṃ*)—that Indra
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with well-fashioned praises
+- शिशीत (*śiśīta*)—refine and worship
+- उतो नु चित् (*uto nu cit*)—moreover
+- यः (*yaḥ*)—which Indra
+- ओजसा (*ojasā*)—by his might
+- शुष्णस्य (*śuṣṇasya*)—of the asura named Śuṣṇa
+- आंडानि (*āṃḍāni*)—the sons and the like
+- भेदति (*bhedati*)—splits asunder; that Indra
+- स्वर्वतीः (*svarvatīḥ*)—belonging to the celestial world
+- अपः (*apaḥ*)—the waters
+- जेषत् (*jeṣat*)—may he conquer
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, refine and worship that Indra, who is radiant, a giver of wealth, and praised with Ṛks, with well-fashioned praises. Moreover, may that Indra who by his might splits the sons and the like of the asura Śuṣṇa (the eggs of Śuṣṇa) conquer the waters belonging to the celestial world. May all our enemies perish at the same time.
+
+##### English translation
+Animate with praises that brilliant adorable Indra, the dlstributor (of riches), who by his might breaks the eggs of Sushna : may he conquer the celestial waters : may all our enemies perish.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं शि॑शीता स्वध्व॒रं स॒त्यं सत्वा॑नमृ॒त्वदं ॑।  
+> उ॒तो नु चि॒द्य ओह॑त आं॒डा शुष्ण॑स्य॒ भेद॒त्यजैः॒ स्व॑र्वतीर॒पो ॒॑ ॑
+> नभंतमन्यके समे ॥ ११ ॥
+
+### Printed p. 372
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । शिशीत । सअध्वरं । सत्यं । सत्वानं । ऋत्वियं ।  
+> उतो इति । नु । चित् । यः । ओहते । अंडा । शुष्णस्य । भेदति । अजैः । स्वःवतीः ।  
+> अपः । नभंतां । अन्यके । समे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः स्वध्वरं सुयज्ञं सत्यमविनाशं सत्वानं संभक्तारमृत्वियमृतौ
+> यष्टव्यं तमिंद्रं शिशीत । स्तुतिभिः संस्कुरुत । अथ प्रत्यक्षस्तुतिः । उतो नु चिदपि
+> च य इंद्र ओहते यज्ञं प्रति गच्छति शुष्णस्यांडांडान्यंडजातानि च भेदति भिनत्ति
+> स त्वं स्वर्वतीर्दिव्यान्यपः सलिलान्यजैः । आजैषीः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O praisers, refine with praises that Indra who is svadhvara (of a good sacrifice), satya (imperishable), sattvan (a distributor of riches) and ṛtviya (to be worshipped in the proper season). Now follows direct address: moreover, you, Indra, who go toward the sacrifice (ohate) and split the eggs, that is, the offspring born of the egg, of Śuṣṇa, you have conquered (ajaiḥ, that is, ājaiṣīḥ) the celestial waters. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वध्वरं (*svadhvaraṃ*)—the one with a good sacrifice (O praisers)
+- सत्यं (*satyaṃ*)—the imperishable one
+- सत्वानं (*satvānaṃ*)—the giver of wealth
+- ऋत्वियं (*ṛtviyaṃ*)—the one praised in accordance with the season
+- तं (*taṃ*)—that Indra
+- शिशीत (*śiśīta*)—adorn with praises
+- उतो नु चित् (*uto nu cit*)—moreover
+- यः (*yaḥ*)—you who (O Indra)
+- ओहते (*ohate*)—go toward the sacrifice
+- शुष्णस्य (*śuṣṇasya*)—of Śuṣṇa
+- आंडा (*āṃḍā*)—the sons and the like
+- भेदति (*bhedati*)—split, such as you are
+- स्वर्वतीः (*svarvatīḥ*)—of the celestial world
+- अपः (*apaḥ*)—the waters
+- अजैः (*ajaiḥ*)—you have conquered
+- अन्यके (*anyake*)—our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, adorn with praises that Indra who has a good sacrifice, is imperishable, a giver of wealth, and is praised in accordance with the season. Moreover, O Indra, you who go toward the sacrifice and split the sons and the like of Śuṣṇa (the eggs), such as you are, you have conquered the waters of the celestial world. May our enemies perish at the same time.
+
+##### English translation
+Animate that Indra to whom sacrifice is due,—sincere, bountiful, adorable; him who breaks the eggs of Shushna ; you have conquered the celestial waters: may all our enemies perish
+
+### Printed p. 373
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वेंद्रा॒ग्नि भ्यां॑ पितृ॒वन्न पी॑यो मंधातृ॒वदं॑गिर॒स्वद॑वाचि ।  
+> त्रि॒धातु॑ना॒ शर्म॑णा पातम॒स्मान्व॒यं स्या॑म॒ पत॑यो रया॒णां ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । इंद्राग्निभ्यां । पितृवत् । नवीयः । मंधात्पवत् । अंगिरस्वत् । अवाचि ।  
+> त्रिधातुना । शर्मणा । पातं । आस्मान् । वयं । स्याम । पतॆयः । रयाणां ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> १ साहसभक्ति ध्यान १
+> एवैवं याभ्यामिंद्राग्निभ्यां पितृवन्नाभाकवन्नंधातृवद्यौवनाश्वमांधातृवच्चांगिरस्वदंगिरोवच्च नवीयो नवतरमवाचि नाभाकेन मया पाठिताविंद्राग्नी
+> त्रिधातुना त्रिपर्वणा शर्मणा गृहे नोऽस्मान्नाभाकान्पातं । रक्षतं । वयं
+> रयाणां धनानां पतॆयः स्वामिनः स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+Thus, for the Indra and Agni to whom a newer hymn has been uttered by me, Nābhāka, as by one's father (as by Nābhāka), as by Māndhātṛ Yauvanāśva, and as by Aṅgiras: may Indra and Agni protect us, the Nābhākas, in our home with a threefold (three-jointed) shelter. May we be the lords of riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एव (*eva*)—in this manner
+- इंद्राग्निभ्यां (*iṃdrāgnibhyāṃ*)—to which Indra and Agni
+- पितृवत् (*pitṛvat*)—like our fathers
+- मांधातृवत् (*māṃdhātṛvat*)—like Māndhātṛ
+- अंगिरस्वत् (*aṃgirasvat*)—like the seer Aṅgiras
+- नवीयः (*navīyaḥ*)—a new hymn of praise
+- अवाचि (*avāci*)—was recited by me too **NOTE**
+- इंद्रादिगळु (*iṃdrādigaḷu*)—the same Indra and the rest
+- त्रिधातुना (*tridhātunā*)—with a threefold protection
+- शर्मणा (*śarmaṇā*)—with a dwelling
+- आस्मान् (*āsmān*)—us
+- पातं (*pātaṃ*)—may they protect
+- वयं (*vayaṃ*)—we
+- रयाणां (*rayāṇāṃ*)—of riches
+- पतयः (*patayaḥ*)—lords
+- स्याम (*syāma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+May the same Indra and Agni, for whom a new hymn of praise has been recited by me too, as by our fathers, as by Māndhātṛ, and as by the seer Aṅgiras, protect us by giving a dwelling with threefold protection. May we become lords of riches.
+
+##### English translation
+Thus has a new hymn been addressed to Indra and Agni, as was done by my father, by Mandhatri, by Angiras; cherish us with a triply defended dwelling, may we be the lords of riches.
+
+### Printed p. 374
+
+## Sūkta 41 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मा ऊ स्विति दशर्चमेकादशं सूक्तं । अत्रेयमनुक्रमणिका । अस्मा ऊ शु
+> दश वारुणं त्विति । नाभाक ऋषिरनुवृत्तत्वात् । महापांक्तं हीत्युक्तत्वादिदमपि
+> महापांक्तं । इदमादिके द्वे सूक्ते वरुणदेवत्ये ॥ विनियोगो लैंगिकः ॥
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने मैत्रावरुणशस्त्र आरंभणीयाया ऊर्ध्वं स
+> क्षप इत्ययं नाभाकतृचः । सूत्रितं च । स क्षपः परि षस्वज इति मैत्रावरुणः । अ. ७-२ ।
+> इति ॥ यः ककुभ इत्येतत्पृथतिको वा नाभाकतृचः । सूत्रितं च । यः ककुभो
+> निधारय इति वा । आ. ७-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अस्मा ऊ (*asmā ū*) is the eleventh sūkta and has ten Ṛks. The Anukramaṇī says of it that the ten are addressed to Varuṇa. The seer is Nābhāka, by continuation from the preceding. As it has been said that the metre is Mahāpāṅkta, this one too is Mahāpāṅkta. This sūkta and the one after it have Varuṇa as deity. The application (viniyoga) is by inference (laiṅgika). On the Cāturviṃśika day, at the midday pressing, in the Maitrāvaruṇa's recitation, after the Ārambhaṇīyā verses, the Nābhāka tṛca is to be recited, and it is laid down in the sūtra स क्षपः परि षस्वज इति मैत्रावरुणः (*sa kṣapaḥ pari ṣasvaja iti maitrāvaruṇaḥ*) (A. 7-2) **NOTE**. Or else the Nābhāka tṛca is the one beginning यः ककुभ (*yaḥ kakubha*); and it is laid down in the sūtra यः ककुभो निधारय इति वा (*yaḥ kakubho nidhāraya iti vā*) (A. 7-2).
+
+##### Anuvāda
+
+The sūkta beginning अस्मा ऊ षु (*asmā ū ṣu*) is the eleventh sūkta in the fifth Anuvāka. It has ten Ṛks. In the Anukramaṇī it is said: अस्मा ऊ षु दश वारुणं तु (*asmā ū ṣu daśa vāruṇaṃ tu*). The seer of this sūkta is Nābhāka; for this sūkta and the next sūkta Varuṇa is the deity; the metre is Mahāpaṅkti. The application is by inference. On the day of the sacrifice called Cāturviṃśika, at the midday pressing, after the priest called Maitrāvaruṇa has begun the shastra mantras that he recites, Ṛks 3-5 of this sūkta, beginning स क्षपः (*sa kṣapaḥ*), are to be recited as the Nābhāka tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, स क्षपः परि षस्वज इति मैत्रावरुणः (*sa kṣapaḥ pari ṣasvaja iti maitrāvaruṇaḥ*) (Ā. 7-2). Or else, in this matter, the tṛca beginning यः ककुभः (*yaḥ kakubhaḥ*) (Ṛks 4-6) is to be recited as the Nābhāka tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, यः ककुभो निधारय इति वा (*yaḥ kakubho nidhāraya iti vā*) (Ā. 7-2).
+
+Sūkta 41. Maṇḍala 8; Anuvāka 5; Sūkta 41. Aṣṭaka 6; Adhyāya 3; Varga 26, 27. Number of Ṛks in the hymn: 10. Seer: Yamaḥ—Nābhākaḥ Kāṣṭhaḥ **NOTE**. Deity: Varuṇā. Metre: Mahāpaṅkti.
+
+### Printed p. 375
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मा ऊ॒ षु प्रभू॑तये॒ वरु॑णाय म॒रुद्भ्यर्चा॑ वि॒दुष्ट॑रेभ्यः ।  
+> यो धी॒ता मानु॑षाणां प॒श्यो गा इ॑व॒ रक्ष॑ति॒ नभं॑तामन्य॒के  ॑
+> समे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्यै । ऊं इति । सु । प्रभूतये । वरुणाय । मरुत् 5भ्यः । अर्च । विदुःतरेभ्यः ।  
+> यः । धीता । मानुषाणां । पश्वः । गार्कइव । रक्षति । नभंतां । अन्यके । समे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः सु प्रभूतये प्रकृष्णधनायास्मै वरुणाय विदुष्टरेभ्यो
+> विद्वत्तरेभ्यो मरुद्भश्चार्च । स्तुहि । यो वरुणो धीता कर्मणा मानुषाणां
+> मनुष्याणां पश्वः पशून् गा इव रक्षति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O praiser, offer praise to this Varuṇa, who has excellent wealth, and to the Maruts, who are the more learned. Varuṇa, the supporter by his action (dhītā), protects the cattle of men as one protects cows. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Varuṇa (O praiser)
+- धीता (*dhītā*)—by his action
+- मानुषाणां (*mānuṣāṇāṃ*)—of men
+- पश्वः (*paśvaḥ*)—the cattle
+- गा इव (*gā iva*)—as a herdsman tends cows
+- रक्षति (*rakṣati*)—protects; such a one
+- सु प्रभूतये (*su prabhūtaye*)—possessed of most excellent wealth
+- अस्मै वरुणाय (*asmai varuṇāya*)—to this Varuṇa
+- विदुष्टरेभ्यः (*viduṣṭarebhyaḥ*)—to the most wise
+- मरुद्भ्यः (*marudbhyaḥ*)—to the Maruts
+- अर्च (*arca*)—offer praise
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, offer praise to this Varuṇa, who by his action protects the cattle of men as a herdsman tends cows, and who is possessed of most excellent wealth, and to the Maruts, who are most wise. May all our enemies perish at the same time.
+
+### Printed p. 376
+
+##### English translation
+Offer praise to that opulent Varuna, and to the most sage Maruts; (Varuna) who protects men by his acts, as (the herdsman guards) the cattle: may all out enemies perish.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमू॒ षु स॑म॒ना गि॒रा पि॑तृ॒णां च॒ मन्म॑भिः ।  
+> ना॒भा॒कस्य॒ प्रश॑स्तिभि॒र्य सिंधू॑ना॒मुपो॑द॒ये स॒प्तस्व॑सा॒ स  
+> म॑ध्य॒मो नभं॑तामन्य॒के स॑मे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । सु । समना । गिरा । पित्थणां । च । मन्मभिः ।  
+> नाभाकस्य । प्रशस्तिभिः । यः । सिंधूनां । उप । उत्आये । सप्तस्वसा । सः ।  
+> मध्यमः । नभंतां । अन्यके । समे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमु तमेव वरुणं समना समानया गिरा स्तुत्या स्वभिष्टौमि । पित्थणां
+> मन्मभिः स्तोमैश्चाभिष्टौमि । नाभाकस्यर्षेः प्रशस्तिभिः स्तोत्रैश्चाभिष्टौमि । सिंधूनां
+> स्यंदमानानां नदीनामुप समीप य उदये उद्दच्छति यश्च सप्तस्वसा स मध्यम
+> इति वाग्निर्निरुच्यते । अन्यके दुर्धियः शत्रवः समे सर्वे नभंतां । मा भूवन् ॥
+> तथा च यास्कः । तं स्वभिष्टौमि समानया गिरा गीत्या स्तुत्या पित्थणां च मननीयैः
+> स्तोमैर्नाभाकस्य प्रशस्तिभिः । ऋषिनाभाको बभूव । यः स्यंदमानानामासामपामुपोदये सप्तस्वसारवेनमाह वाग्निः स मध्यम इति निरुच्यतेऽथैष एव
+> भवति । नभंतामन्यके समे मा भूवन्नन्यके सर्वे ये नो द्विषंति दुर्धियः
+> पापधियः पापसंकल्पाः । नि. १०-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Him, that very Varuṇa, I praise well with a common (samanā, that is, samānayā) voice of praise; and I praise with the mantras, that is, the hymns, of the fathers; and with the praises, that is, the eulogies, of the seer Nābhāka. He who rises (uddacchati) near the flowing rivers and who is saptasvasā: of him it is said that he is middle, thus Vāgni is explained **NOTE**. All our enemies, the evil-minded, may they perish; let them not be. So too Yāska (Ni. 10-5): he praises him well with a common voice, with a song of praise, and with the pleasing hymns of the fathers, with the praises of Nābhāka; Nābhāka became a seer; of him who at the rising of these flowing waters is saptasvasā, Vāgni says that he is called middle **NOTE**. May all those perish, may they not be, who hate us, the evil-minded, those of evil intent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तमु (*tamu*)—that very Varuṇa
+- समना (*samanā*)—of a single kind
+- गिरा (*girā*)—with praise I praise well
+- पितृणां (*pitṛṇāṃ*)—made by the fathers
+- मन्मभिः च (*manmabhiḥ ca*)—and with praises I praise
+
 ---
 
-**Progress note:** Done through printed p. 370. Sukta 40 Rk 4-10 (pp. 364-370)
+**Progress note:** Done through printed p. 376. Mandala 8 sukta 40 rks 10-12 end, sukta 41 rks 1-2
