@@ -6,4 +6,4 @@ pilot	300	309	24	15	17	0	9	248k	b7ae9b6	2026-11-24	read 139k + apply 109k; the E
 4	92	121	50	35	35	0	15	204k	26ecee4	2026-11-24	22 S2 removals; one edit (p. 95) needed a rerun after sp_apply.py learned two headings for one page
 5	122	151	67	52	52	0	15	272k	823a12c	2026-11-24	20 S2 removals, 7 S7 quotation repairs; English p. 141 carries the first lines of Kannada p. 142
 7	152	181	43	35	35	0	8	223k	7998fe1	2026-11-24	19 S1 + 8 S2 number repairs, 2 S7 quotation repairs; two English headings each for pp. 154 and 179 (handled)
-8	182	211	52	40	40	0	12	TOK7	24b7437	2026-11-24	18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question
+8	182	211	52	40	40	0	12	265k	24b7437	2026-11-24	18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question

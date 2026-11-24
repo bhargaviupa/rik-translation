@@ -5,7 +5,7 @@
 - **Stage:** S2 reading in page batches
 - **Pages read:** 220 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211)
 - **Findings:** 442 — applied 304, questions 138; edits ok 314, failed 0
-- **Reader tokens (batches so far):** 1770k; per page 8.0k
+- **Reader tokens (batches so far):** 2035k; per page 9.2k
 - **Last commit:** 24b7437
 
 ## 2. Batches
@@ -18,7 +18,7 @@
 | 4 | 92–121 | 50 | 35 | 35 / 0 | 15 | 204k | 26ecee4 | 22 S2 removals; one edit (p. 95) needed a rerun after sp_apply.py learned two headings for one page |
 | 5 | 122–151 | 67 | 52 | 52 / 0 | 15 | 272k | 823a12c | 20 S2 removals, 7 S7 quotation repairs; English p. 141 carries the first lines of Kannada p. 142 |
 | 7 | 152–181 | 43 | 35 | 35 / 0 | 8 | 223k | 7998fe1 | 19 S1 + 8 S2 number repairs, 2 S7 quotation repairs; two English headings each for pp. 154 and 179 (handled) |
-| 8 | 182–211 | 52 | 40 | 40 / 0 | 12 | TOK7 | 24b7437 | 18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question |
+| 8 | 182–211 | 52 | 40 | 40 / 0 | 12 | 265k | 24b7437 | 18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
