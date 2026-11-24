@@ -8008,6 +8008,276 @@ That mortal man, desiring wealth, quickly takes (दयते (*dayate*): he rec
 - मनसा (*manasā*)—with meditative praise
 - प्रयजाते (*prayajāte*)—worships exceedingly
 
+### Printed p. 193
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एतावंतं (*etāvaṃtaṃ*)—exceedingly
+- नर्यं (*naryaṃ*)—Viṣṇu, who does good to men
+- आविवासात् (*āvivāsāt*)—worships with praise, salutation and the like
+- सनिष्यन् (*saniṣyan*)—desiring wealth
+- *saḥ martaḥ*—that man
+- नु (*nu*)—quickly
+- दयते (*dayate*)—obtains wealth
+
+##### भावार्थ (Bhāvārtha)
+
+The man who offers oblations to Viṣṇu, who is praised by many; who worships him exceedingly with a meditative hymn offered to Viṣṇu himself; and who adores with praise and salutation Viṣṇu, the great benefactor of men: that same man, desirous of wealth, quickly obtains wealth.
+
+##### English translation
+The mortal desirous of wealth quickly obtains it who presents (offerings) to the widely-renowned Vishnu, who worships him with entirely devoted mind, who adores so great a benefactor of mankind,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं वि॑ष्णो सुम॒तिं वि॒श्वज॑न्या॒मप्र॑युतामेवयावो म॒तिं दाः॑ ।  
+> पर्चो॒ यथा॑ नः सुवि॒तस्य॒ भूरे॒रश्वा॑वतः पुरुश्चं॒द्रस्य॑  ॒
+> रायः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । विष्णो इति । सुमतिं । विश्वजन्यां । अप्रयुतां । एवयावः । मतिं ।  
+> दाः ।  
+> पर्चः । यथा । नः । सुवितस्य । भूरेः । अश्ववतः । पुरुचंद्रस्य । रायः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विष्णु देवत्ये पशौ पुरोडाशस्य त्वं विष्णो इत्यनुवाक्या ॥ सूत्रितं च । त्वं
+> विष्णो सुमतिं विश्वजन्यां वि चक्रमे पृथिवीमेष एतां । आ. ३-८ । इति ॥
+> [ 13 ]                                                                 [ Vol 23 ]
+
+##### Gist of the bhāṣya
+
+At the animal sacrifice whose deity is Viṣṇu, this Ṛk is the anuvākyā for the puroḍāśa. It is also given in the Sūtra, Ā. 3-8 (the Sūtra whose text begins with the first words of this verse).
+
+### Printed p. 194
+
+> हे एवयावः । एवा प्राप्तव्याः कामाः । तान् यापयति प्रापयति स्तोत्थानित्येवयावः । हे एवयावन् विष्णो त्वं विश्वजन्यां सर्वजनहितां दोषैर्वियुक्तां सुमतिमनुग्रहबुद्धिं दाः । अस्मभ्यं देहि । सुवितस्य सुष्ठु प्राप्तव्यस्य
+> भूरेर्बहुलस्याश्वावतोऽश्वयुक्तस्य पुरुश्चंद्रस्य पुरूणां बहूनामाह्लादकस्य
+> रायो धनस्य पर्चः संपर्को नोऽस्माकं यथा भवति तथा देहित न्वयः ॥
+
+##### Gist of the bhāṣya
+
+"O एवयावः (*evayāvaḥ*)": एवा (*evā*) are the desires that are to be obtained; he who makes his praisers attain them is एवयावः (*evayāvaḥ*). O Viṣṇu, giver of the desired, give us (दाः (*dāḥ*)) your gracious mind (सुमतिं (*sumatiṃ*)), which is beneficial to all people and free from faults. Give it so that the attainment (पर्चः (*parcaḥ*), contact) of wealth (रायः (*rāyaḥ*)) may be ours: wealth that is well attainable (सुवितस्य (*suvitasya*)), abundant (भूरेः (*bhūreḥ*)), possessed of horses (अश्वावतः (*aśvāvataḥ*)), and delighting many (पुरुश्चंद्रस्य (*puruścaṃdrasya*)). That is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एवयावः (*evayāvaḥ*)—giver of what is desired
+- विष्णो (*viṣṇo*)—O Viṣṇu
+- सुवितस्य (*suvitasya*)—of what is easily obtained
+- भूरेः (*bhūreḥ*)—of what is abundant
+- अश्वावतः (*aśvāvataḥ*)—of what is possessed of horses
+- पुरुश्चंद्रस्य (*puruścaṃdrasya*)—of what delights many people
+- रायः (*rāyaḥ*)—of wealth
+- पर्चः (*parcaḥ*)—the attainment
+- नः (*naḥ*)—to us
+- यथा (*yathā*)—in whatever way it may come about, in that same way
+- त्वं (*tvaṃ*)—you
+- विश्वजन्यां (*viśvajanyāṃ*)—what is beneficial to all men
+- अप्रयुता (*aprayutā*)—what is free from fault
+- सुमतिं (*sumatiṃ*)—your gracious mind
+- दाः (*dāḥ*)—give to us
+- मतिं (दाः) (*matiṃ (dāḥ)*)—give us good understanding
+
+##### भावार्थ (Bhāvārtha)
+
+O Viṣṇu, giver of what is desired: in whatever way the attainment of wealth that is easily obtained, abundant, possessed of horses and delighting many people may come to us, in that same way give us your gracious mind, beneficial to all men and free from fault; and give us good understanding as well.
+
+##### English translation
+Vishnu, granter of desires, show to us that favourable disposition which is benevolent to all, unmixed (with exception), so that there may be to us the attainment of easily-acquired, ample, steed-comprising, all-delighting riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the animal sacrifice whose deity is Viṣṇu, when the puroḍāśa oblation is offered, this Ṛk त्वं विष्णो (*tvaṃ viṣṇo*) is to be recited as the anuvākyā mantra. This is explained by the Sūtra of the Āśvalāyana Śrauta Sūtra: त्वं विष्णो सुमतिं विश्वजन्यां वि चक्रमे पृथिवीमेष एतां (*tvaṃ viṣṇo sumatiṃ viśvajanyāṃ vi cakrame pṛthivīmeṣa etāṃ*) (Ā. 3-8).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिर्दे॒वः पृ॑थि॒वीमे॒ष ए॒तां वि च॑क्रमे श॒तर्च॑सं महि॒त्वा ।
+
+### Printed p. 195
+
+> प्र विष्णुरस्तु तवसस्तवीयान्तेषं ह्यस्य स्थविरस्य नाम ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । देवः । पृथिवीं । एषः । एतां । वि । चक्रमे । शत अर्चसं । महित्वा ।  
+> प्र । विष्णुः । अस्तु । तवसः । तवीयान् । त्वेषं । हि । अस्य । स्थविरस्य । नाम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैष्णव्यस्योपांशुयाजस्य त्रिर्देव इति याज्या । सूत्रितु च । इदु विष्णुर्वि
+> चक्रमे तिर्देवः पृथिवीमेष एतां । आ. १.६। इति ॥ वैष्णवye पशावप्येषैन वपाया
+> याज्या । सूत्रितु च । तिर्देवः वृथिवीमेष एतां परो मात्रया तन्ना वृधान ।
+> आ. ३ ८ । इति ॥
+> एष देवो दानादिगुणयुक्तो विष्णुः शतर्चसु शतसंख्यान्यर्चिंषि यस्मास्तादृशीमेतां पृथिवीं उपलक्षणमेतत् । पृथिव्यादीं स्त्रीलोकान्महित्वा महत्वेन
+> त्रिर्वि चक्रमे । त्रिभिः पदैर्विक्रांतवान् । तवसस्तवस्विनो वृद्धादपि तवीयान्
+> तवस्थितरो विष्णुः प्रास्तु । अस्माकं प्रभवतु । स्वामी भवतु । अस्य स्थविरस्य वृद्धस्य
+> विष्णोर्नाम नामकं रूपं विष्णुरित्येतन्नामैव वा त्वेषं हि यस्माद्दीप्तं तस्मात्कारणःत्स विष्णुः प्रभवत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+For the upāṃśu-yāja of Viṣṇu, त्रिर्देवः (*trirdevaḥ*) is the yājyā; the Sūtra gives it (Ā. 1.6). In the animal sacrifice of Viṣṇu this verse is also the yājyā for the vapā; the Sūtra gives it (Ā. 3 8).
+This god Viṣṇu, endowed with qualities such as liberality, strode with three steps through this earth, which has a hundred rays; "earth" is only an indication, and he strode through the three worlds beginning with the earth, by his greatness. May Viṣṇu, more powerful (तवीयान् (*tavīyān*)) than the powerful (तवसः (*tavasaḥ*)), the strong, even the aged, prevail (प्र अस्तु (*pra astu*)) over us; may he be our master. Of this aged (स्थविरस्य (*sthavirasya*)) Viṣṇu the name (नाम (*nāma*)), that is, his form, or else the name "विष्णु (*viṣṇu*)" itself, is shining (त्वेषं (*tveṣaṃ*)); for that reason may Viṣṇu prevail. That is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the divine
+- एषः (*eṣaḥ*)—this Viṣṇu
+- शतर्चसं (*śatarcasaṃ*)—endowed with many kinds of radiance
+- एतां पृथिवीं (*etāṃ pṛthivīṃ*)—this earth
+- महित्वा (*mahitvā*)—by his greatness
+- त्रिः (*triḥ*)—in three ways
+- वि चक्रमे (*vi cakrame*)—has pervaded and strode over
+- स्थविरस्य (*sthavirasya*)—of the exceedingly grown
+- अस्य (*asya*)—of this Viṣṇu
+- नाम (*nāma*)—the form
+- तेषं हि (*teṣaṃ hi*)—because it is exceedingly radiant
+- तवसः (*tavasaḥ*)—than the exceedingly powerful
+- तवीयान् (*tavīyān*)—more powerful
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- प्र अस्तु (*pra astu*)—may he be lord over us all
+
+##### भावार्थ (Bhāvārtha)
+
+This divine Viṣṇu has pervaded and strode over this earth, endowed with many kinds of radiance, in three ways by his greatness. Because the form of this exceedingly grown Viṣṇu is exceedingly radiant, may Viṣṇu, more powerful than the exceedingly powerful, be lord over us all.
+
+##### English translation
+This deity, by his great power traversed with three (steps) the many
+
+### Printed p. 196
+lustrous earth ; may Vishnu, the most powerful of the powerful, rule over us, for illustrious is the name of the mighty one.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the upāṃśu-yāja whose deity is Viṣṇu, this Ṛk त्रिर्देवः (*trirdevaḥ*) is to be recited as the yājyā mantra. This is explained by the Sūtra of the Āśvalāyana Śrauta Sūtra: इदं विष्णुर्वि चक्रमे त्रिर्देवः पृथिवीमेष एतां (*idaṃ viṣṇurvi cakrame trirdevaḥ pṛthivīmeṣa etāṃ*) (Ā. 1-6). And at the animal sacrifice whose deity is Viṣṇu, when the vapā oblation is offered, this Ṛk is also to be recited as the yājyā mantra, as explained by the Sūtra of the Āśvalāyana Śrauta Sūtra: त्रिर्देवः पृथिवीमेष एतां परो मात्रया तन्वा वृधान (*trirdevaḥ pṛthivīmeṣa etāṃ paro mātrayā tanvā vṛdhāna*) (Ā. 3-8).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि च॑क्रमे पृथि॒वीमे॒ष ए॒तां क्षेत्रा॑य॒ विष्णु॒र्मनु॑षे  ॒
+> दशस्यन् ।  
+> ध्रु॒वासो॑ अस्य की॒रयो॒ जना॑स उरुक्षि॒तिं सु॒जनि॑मा चकारः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । चक्रमे । पृथिवीं । एषः । एतां । क्षेत्राय । विष्णुः । मनुषे । दशस्यन् ।  
+> ध्रुवासः । अस्य । कीरयः । जनासः । उरुक्षितिं । सुजनिमा । चकार ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एव पशौ वि चक्रम इति वसाया अनुवाक्या । सूत्रितं च। वि चक्रमे
+> पृथिवीमेष एतां त्रिर्देवः पृथिवीमेष एतां । आ. ३-८ । इति ॥
+> एष देवो विष्णुरेतां पृथिवीं पृथिव्यादीनिमांस्त्रील्लोकान् क्षेत्राय
+> निवासार्थं मनुषे स्तुवते देवगणाय दशस्यन्नसुरेभ्योऽपहृत्य प्रदास्यन् वि
+> चक्रमे । विक्रांतवान् । अस्य च विष्णोः कीरयः स्तोतारो जनासो जना ध्रु
+> वासो निश्चला भवंति । ऐहिकामुष्मिकयोर्लाभेन स्थिरा भवंतीत्यर्थः । सुजनिमा
+> शोभनानि जनिमानि कीर्तनस्मरणादिना सुखहेतुभूतानि यस्य तादृशो विष्णुरुरुक्षितं विस्तीर्णनिवासं चकार । स्तोतृभ्यः करोति ॥
+
+##### Gist of the bhāṣya
+
+At the same animal sacrifice mentioned above, वि चक्रमे (*vi cakrame*) is the anuvākyā for the vasā; the Sūtra gives it (Ā. 3-8). **NOTE**
+This god Viṣṇu strode through this earth, that is, through the three worlds beginning with the earth, for a dwelling (क्षेत्राय (*kṣetrāya*)) for Manu, that is, for the praising company of gods, intending (दशस्यन् (*daśasyan*)) to take it from the asuras and give it. The people who are his praisers (कीरयः (*kīrayaḥ*)) become firm (ध्रुवासः (*dhruvāsaḥ*)), that is, they become steadfast through gain in this world and the next. Viṣṇu, whose births (सुजनिमा (*sujanimā*)) are good, being causes of happiness through praise, remembrance and the like, made a wide dwelling (उरुक्षितिं (*urukṣitiṃ*)); he makes it for his praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः विष्णुः (*eṣaḥ viṣṇuḥ*)—this divine Viṣṇu
+- मनुषे (*manuṣe*)—of the men who worship him
+- क्षेत्राय (*kṣetrāya*)—for a dwelling
+- दशस्यन् (*daśasyan*)—to take it from the asuras and give it to us
+- एतां पृथिवीं (*etāṃ pṛthivīṃ*)—this
+
+### Printed p. 197
+- earth
+- वि चक्रमे (*vi cakrame*)—pervaded and strode over
+- अस्य (*asya*)—of this Viṣṇu
+- कीरयः (*kīrayaḥ*)—the praisers
+- जनासः (*janāsaḥ*)—the devout people
+- ध्रुवासः (*dhruvāsaḥ*)—have an unshaken state
+- सुजनिमा (*sujanimā*)—Viṣṇu, of excellent manifestation
+- उरुक्षितिं (*urukṣitiṃ*)—a spacious dwelling-place
+- चकार (*cakāra*)—made for the praisers
+
+##### भावार्थ (Bhāvārtha)
+
+This divine Viṣṇu strode over and pervaded this earth, to take it from the asuras and give it as a dwelling to the men who worship him. The praisers of this Viṣṇu have an unshaken state; Viṣṇu, of excellent manifestation, has made a spacious dwelling-place for his praisers.
+
+##### English translation
+This Vishnu traversed the earth for a dwelling which he was desirous of giving to his eulogist; firm are the people who are his praisers; he who is the engenderer of good has made a spacious dwelling (for his worshippers)
+
+##### विशेषविषयगळु (Special Topics)
+
+At the animal sacrifice mentioned above, whose deity is Viṣṇu, when the vapā oblation is offered, this Ṛk वि चक्रमे (*vi cakrame*) is to be recited as the anuvākyā mantra. This is explained by the Sūtra of the Āśvalāyana Śrauta Sūtra: वि चक्रमे पृथिवीमेष एतां त्रिर्देवः पृथिवीमेष एतां (*vi cakrame pṛthivīmeṣa etāṃ trirdevaḥ pṛthivīmeṣa etāṃ*) (Ā. 3-8).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तत्ते॑ अ॒द्य शि॑पिविष्ट॒ नामा॒र्यः शं॑सामि व॒युना॑नि  ॒
+> विद्वान् ।  
+> तं त्वा॑ गृणामि त॒वस॒मत॑व्या॒न्कयं॑तम॒स्य रज॑सः परा॒के ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तत् । ते । अद्य । शिपिविष्ट । नाम । आर्यः । शंसामि । वयुनानि । विद्वान् ।  
+> तं । त्वा । गृणामि । तवसं । अतव्यान् । क्षयंतु । अस्य । रजसः । पराके ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयसवनेऽतिरात्रादूर्ध्वं सोमातिरेके सति नैमित्तिके होतुः शस्त्रे प्र
+> तत्ते अद्येति स्तोत्रियस्तृचः । आ. ६-७ ॥ अभ्युदयेष्णा विष्णोः शिपिविष्टस्य प्र तत्ते
+
+##### Gist of the bhāṣya
+
+In the third pressing, after the atirātra, when there is an excess of soma, on that occasion the hotṛ's śastra contains प्र तत्ते अद्य (*pra tatte adya*) as the stotriya tṛca (Ā. 6-7). **NOTE** In the abhyudaya-iṣṭi, for the Viṣṇu Śipiviṣṭa, प्र तत्ते (*pra tatte*)
+
+### Printed p. 198
+
+> अद्येति याज्या । सूत्रितं च । वषट्के विष्णवास आ कृणोमि प्र तत्ते अद्य शिपिविष्ट
+> नाम । आ. ३:१३ । इति ॥
+> हे शिपिविष्ट रश्मिभिराविष्ट विष्णो ते तव तत्प्रसिद्धं विष्णुरिति प्रख्यातं नामार्यः
+> स्वामी स्तुतीनां हविषां वा तथा वयुनानि ज्ञातव्यान्यर्थजातानि विद्वाञ्चानन्नहमद्येदानीं प्र शंसामि । प्रकर्षण सौमि । तवसु प्रवृद्धं तं त्वा त्वां विष्णुमत.
+> व्यानतवीयानवृद्धतरोऽहं गृणामि । सौमि । कीदृशं । अस्य रजसो लोकस्य
+> पराके दूरदेशे क्षयंतं निवसंतं ।
+
+##### Gist of the bhāṣya
+
+अद्येति (*adyeti*) is the yājyā; the Sūtra gives it (Ā. 3:13).
+O Śipiviṣṭa, Viṣṇu, entered by rays: I, the master (आर्यः (*āryaḥ*)) of praises or of oblations, and knowing the things that are to be known (वयुनानि (*vayunāni*)), now (अद्य (*adya*)) praise (प्र शंसामि (*pra śaṃsāmi*)) that well-known name of yours, "विष्णु (*viṣṇu*)". I, who am less great, extol (गृणामि (*gṛṇāmi*)) you, Viṣṇu, who are grown great in power (तवसं (*tavasaṃ*)), dwelling (क्षयंतं (*kṣayaṃtaṃ*)) in the remote region (पराके (*parāke*)) of this world (रजसः (*rajasaḥ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिपिविष्ट (*śipiviṣṭa*)—O Viṣṇu, pervaded by rays
+- ते (*te*)—your
+- तत् (*tat*)—well-known as "विष्णु (*viṣṇu*)"
+- नाम (*nāma*)—name
+- अर्यः (*aryaḥ*)—the master of oblations
+- वयुनानि (*vayunāni*)—the matters to be known
+- विद्वान् (*vidvān*)—I who know
+- अद्य (*adya*)—now
+- प्र शंसामि (*pra śaṃsāmi*)—praise
+- तवसं (*tavasaṃ*)—grown great in power
+- अस्य रजसः (*asya rajasaḥ*)—of this world
+- पराके (*parāke*)—in the very distant region
+- क्षयंतं (*kṣayaṃtaṃ*)—dwelling
+- तं त्वा (*taṃ tvā*)—you, the renowned
+- अतव्यान् (*atavyān*)—I, the lowly
+- गृणामि (*gṛṇāmi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Viṣṇu, pervaded by rays: I, who am master of the oblations and know what is to be known of duty, now praise your name, famed as "विष्णु (*viṣṇu*)". I, who am lowly, praise you, who are grown great in power, dwell in the most distant region of this world, and are renowned.
+
+##### English translation
+Resplendent Vishnu, I, the master of the offering, knowing the objects that are to be known, glorify to-day your name: I who am feeble praise you who are powerful, dwelling in a remote region of this world.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the time of the third pressing, after midnight has passed, when there is an excess of soma, the priest called hotṛ, reciting the śastra mantra on that occasion, is to recite this Ṛk प्र तत्ते अद्य (*pra tatte adya*) as the stotriya tṛca (Ā. 6-7). And in the homa made in the abhyudaya-iṣṭi for the deity named Viṣṇu Śipiviṣṭa, this Ṛk is to be recited as the yājyā mantra. This is explained by the Sūtra of the Āśvalāyana Śrauta Sūtra: वषट् ते विष्णवास आ कृणोमि प्र तत्ते अद्य शिपिविष्टनाम (*vaṣaṭ te viṣṇavāsa ā kṛṇomi pra tatte adya śipiviṣṭanāma*) (Ā. 3-13).
+
 ---
 
-**Progress note:** Done through printed p. 192. pp. 186-192 (batch API)
+**Progress note:** Done through printed p. 198. pp. 193-198 (batch API)
