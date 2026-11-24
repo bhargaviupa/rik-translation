@@ -225,6 +225,48 @@ def latin_fallback(en, kn):
         if '~~' in seg or not re.search('[\u0C80-\u0CFF]', seg) or norm(seg) in nk: return m.group(0)
         log.append((seg, '(not in the supplied text of this window: given in transliteration only)', '')); return '*' + deva_to_iast(kn2deva(seg)) + '*'
     return re.sub(r'⟦([^⟧]+)⟧', rep, en), log
+def quoted_iast_to_segments(en, kn):
+    """A Sanskrit word the model typed in Latin letters inside double quotes ("Punīṣe") breaks rule 1. If exactly one run of 1-6 words of kn.md,
+    transliterated and stripped of diacritics, equals the quoted word(s) stripped the same way, the quote is replaced by ⟦ that run of kn.md ⟧
+    (letters copied from kn.md, nothing typed). Otherwise it is left (the gate then stops and the editor decides). Vol 23 w0008, w0045."""
+    import unicodedata, collections
+    sys.path.insert(0, os.path.join(ROOT, 'publish', 'tools', 'translit'))
+    from kannada_to_deva import kn2deva
+    from add_iast import deva_to_iast
+    def key(s):
+        s = unicodedata.normalize('NFC', s.lower()).replace('ḥ', '').replace('ṃ', 'm').replace('ṁ', 'm')      # before the accents are taken off
+        s = unicodedata.normalize('NFD', s); s = ''.join(c for c in s if not unicodedata.combining(c))
+        return re.sub(r'[^a-z]', '', s)
+    toks = [x for x in re.findall(r'[\u0C80-\u0CFF\u200c\u200d]+', kn)]
+    exact = [unicodedata.normalize('NFC', deva_to_iast(kn2deva(x)).lower()) for x in toks]
+    iast = [key(e) for e in exact]
+    log = []
+    def rep(m):
+        q = m.group(1)
+        if re.search('[\u0C80-\u0CFF⟦⟧]', q) or not re.search('[^\x00-\x7f]', q): return m.group(0)
+        k = key(q); hits = collections.Counter(); qe = unicodedata.normalize('NFC', q.lower())
+        for ex in (True, False):                   # first the exact transliteration (OCR variants of the vowel length are then not mixed in), then the loose one
+            for i in range(len(toks)):
+                for n in range(1, 7):
+                    if i + n <= len(toks) and (' '.join(exact[i:i + n]) == qe if ex else ''.join(iast[i:i + n]) == k): hits[' '.join(toks[i:i + n])] += 1
+            if hits: break
+        if len({re.sub('[\u200c\u200d]', '', h) for h in hits}) != 1: return m.group(0)      # one reading (zero-width joiners aside)
+        seg = hits.most_common(1)[0][0]; log.append((q, seg, 'quoted IAST replaced by the matching words of kn.md')); return '"⟦' + seg + '⟧"'
+    en = re.sub(r'(?<![\w⟧])"([^"\n⟦⟧]{2,60}?)"(?![\w⟦])', rep, en)
+    def drop(m):                                           # an unresolved quoted Sanskrit word in parentheses is left out ('or leave the Sanskrit word out')
+        q = m.group(1)
+        if re.search('[\u0C80-\u0CFF]', q) or not re.search('[^\x00-\x7f]', q): return m.group(0)
+        log.append((q, '', 'quoted IAST not in kn.md: parenthesis left out')); return ''
+    en = re.sub(r' \("([^"\n⟦⟧]{2,60})"\)', drop, en)
+    def ital(m):                                           # last resort, as latin_fallback: a Sanskrit word the supplied text of the window does not have is given in transliteration only (italic), and logged
+        log.append((m.group(1), '*' + m.group(1) + '*', 'quoted IAST not in kn.md: transliteration only (italic), as latin_fallback'))
+        return '*' + m.group(1) + '*'
+    for _ in range(40):                                    # one per line and pass
+        en0 = en
+        en = re.sub(r'(?m)^(?![>#\-])(.*?)(?<![\w⟧*])"([A-Za-zāīūṛṝḷṅñṭḍṇśṣṃḥ\-]*[āīūṛṝḷṅñṭḍṇśṣṃḥ][A-Za-zāīūṛṝḷṅñṭḍṇśṣṃḥ\-]*)"(?![\w⟦])',
+                    lambda m: m.group(1) + ital(type('M', (), {'group': lambda self, i, g=m.group(2): g})()), en)
+        if en == en0: break
+    return en, log
 def apply_answer(w, text):
     """write en.md and apply the kn.md repairs; returns a list of problems"""
     prob = []; m = (lambda L: L[-1] if L else None)(list(re.finditer(r'<en>\s*\n?(.*?)\n?\s*</en>', text, re.S)))   # the LAST <en> block: the model sometimes restarts after a false start (Vol 11 w0033)
@@ -253,8 +295,13 @@ def apply_answer(w, text):
     en = wrap_bare_kannada(en)
     en = join_split_entries(en)
     en = re.sub(r' ?\[(?:as printed|as supplied)\]', '', en)   # a translator remark the rules forbid (Vol 11 w0229, w0424)
+    en = re.sub(r' ?The (?:block|text|sentence) (?:breaks off|ends|stops)[^.\n]*\.(?: ?The sentence continues[^.\n]*\.)?', '', en)   # 'The block breaks off here; the sentence continues in the next window' (Vol 23 w0016): a remark the rules forbid
+    en = re.sub(r' ?\((?:the )?(?:sentence|block|text|verse) (?:breaks off|ends|stops|continues)[^)\n]*\)', '', en)   # '(the sentence breaks off here; it continues in the next window)' (Vol 23 w0206)
+    en = re.sub(r'⟦([^⟧⟦*\n\u0C80-\u0CFF]{1,40})\*', r'*\1*', en); en = re.sub(r'\*([^*⟦⟧⟩\n\u0C80-\u0CFF]{1,40})⟩', r'*\1*', en)   # garbled italic marks: '⟦apa*' and '*na⟩' for '*apa*', '*na*' (Vol 23 w0337)
+    en = re.sub(r' ?(?:The|the) (?:grammatical discussion|discussion|sentence|text|block|commentary|explanation)[^.\n]{0,160}\b(?:breaks off|ends|stops) (?:here|at the end of (?:the|this) window)[^.\n]*\.', '', en)   # Vol 23 w0389, w0396, w0551
     en, fixed = autofix_inline(w, en, kn)
     en, latin = latin_fallback(en, kn); fixed += latin
+    en, qi = quoted_iast_to_segments(en, kn); fixed += qi
     open(os.path.join(w, 'en.md'), 'w', encoding='utf8').write(en)
     if fixed:
         vol = re.search(r'vol(\d+)', w).group(1); lf = os.path.join(ROOT, f'vol{vol}', 'review', 'inline_readings.tsv'); new = not os.path.exists(lf)

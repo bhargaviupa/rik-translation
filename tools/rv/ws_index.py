@@ -262,6 +262,34 @@ def parse_sukta(m, s, wt):
     return hdr, plain, intro, out, extras, chk
 
 
+def parse_bhumika(wt):
+    """Sāyaṇa's Ṛgveda-bhāṣya-bhūmikā from the compilation page वेदभाष्यभूमिकासङ्ग्रहः: [(print page, [paragraphs], [footnote lines])].
+    The part runs from the page-mark whose first lines are the title ऋग्वेदसंहितायाः / सायणाचार्यकृता / भाष्यभूमिका to the closing
+    इति ऋग्वेदसंहितायाः भाष्यभूमिका । (and its footnote). Page marks look like `Page 009 (89)`: file page, printed page. The editor's footnotes
+    (`Foot Note`) are not Sāyaṇa and are kept apart; (१)-style marks in the text become [१]."""
+    marks = [(m.start(), int(m.group(2))) for m in re.finditer(r'^Page (\d+) \((\d+)\)[^\n]*$', wt, flags=re.M)]
+    st = wt.find('ऋग्वेदसंहितायाः\nसायणाचार्यकृता\nभाष्यभूमिका')
+    en = wt.find('इति ऋग्वेदसंहितायाः भाष्यभूमिका')
+    if st < 0 or en < 0: return []
+    pages = []
+    for k, (pos, pp) in enumerate(marks):
+        end = marks[k + 1][0] if k + 1 < len(marks) else len(wt)
+        if end <= st or pos > en: continue
+        seg = wt[pos:end]
+        seg = seg[seg.index('\n') + 1:]
+        if pos <= st < end: seg = seg[seg.find('ऋग्वेदसंहितायाः'):]
+        body, fn = [], []
+        infn = False
+        for line in seg.split('\n'):
+            s = line.strip()
+            if re.match(r'^Foot\s*Note', s): infn = True; s = re.sub(r'^Foot\s*Note\s*[:：]?\s*-?\s*', '', s)
+            if re.fullmatch(r'-*<\d*>-*|-{2,}', s) or not s: continue
+            (fn if infn else body).append(s)
+        body = [re.sub(r'\(\s*([०-९]+)\s*\)', r'[\1]', b) for b in body]
+        if body or fn: pages.append((pp, body, fn))
+    return pages
+
+
 SCHEMA = '''
 CREATE TABLE meta(k TEXT PRIMARY KEY, v TEXT);
 CREATE TABLE sukta(ref TEXT PRIMARY KEY, m INT, s INT, title TEXT, revid INT, timestamp TEXT, fetched TEXT,
@@ -321,6 +349,21 @@ def build():
             for kind, t in extras:
                 con.execute('INSERT INTO extra VALUES (?,?,?,?)', (m, s, kind, t))
     for t, r in other.items():
+        if t == 'वेदभाष्यभूमिकासङ्ग्रहः':
+            pages = parse_bhumika(r['wikitext'])
+            nw = [sum(len(x.split()) for x in b) for _, b, _ in pages]
+            part, acc, target = 1, 0, sum(nw) / 4
+            for (pp, body, fn), w in zip(pages, nw):
+                if acc >= target * part and part < 4: part += 1
+                acc += w
+                con.execute('INSERT OR IGNORE INTO sukta VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
+                            (f'0.{part}', 0, part, f'वेदभाष्यभूमिकासङ्ग्रहः, ऋग्वेदसंहितायाः भाष्यभूमिका, part {part}', r['revid'], r['timestamp'], r['fetched'],
+                             '', 'Sāyaṇa: Ṛgveda-bhāṣya-bhūmikā (printed pages in the compilation)', '', '', 0, 0, 'bhumika', 1, '', ''))
+                for q, x in enumerate(body, 1):
+                    con.execute('INSERT INTO para VALUES (?,?,?,?,?,?,?,?)', (f'0.{part}.{pp}.{q}', 0, part, pp, q, x, isq(x), 0))
+                for q, x in enumerate(fn, 1):
+                    con.execute('INSERT INTO extra VALUES (?,?,?,?)', (0, part, f'editor footnote p.{pp}', x))
+            continue
         con.execute('INSERT INTO extra VALUES (?,?,?,?)', (0, 0, 'page:' + t, unwiki(r['wikitext'])))
     con.execute('INSERT INTO meta VALUES (?,?)', ('built_from', str(len(list(RAW.glob("*.jsonl")))) + ' raw files'))
     con.commit()
@@ -338,7 +381,7 @@ def stats(con=None):
     print('  layouts:', dict(con.execute('select layout, count(*) from sukta group by layout').fetchall()))
     print(f'  Ṛks (plain Saṃhitā): {q("select count(*) from rik")}; with Pada and Sāyaṇa split by Ṛk: {q("select sum(has_sayana) from rik")}')
     for m, n, k, kk in con.execute('select m, count(*), sum(n_plain), sum(n_rik) from sukta group by m order by m'):
-        print(f'  maṇḍala {m}: {n} sūktas, {k} Ṛks, {kk} with Sāyaṇa split by Ṛk')
+        print(f'  maṇḍala {m}{" (= the Bhāṣya-bhūmikā in four parts)" if m == 0 else ""}: {n} sūktas, {k} Ṛks, {kk} with Sāyaṇa split by Ṛk')
 
 
 def get(ref):

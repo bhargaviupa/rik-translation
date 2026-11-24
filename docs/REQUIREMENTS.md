@@ -178,6 +178,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 
 ### C4. Word-to-word meaning
 - Each word on its own line, with its meaning.
+- **The words are checked against the reference Pada, Ṛk by Ṛk, before translation (Nov 24 2026, user).** `tools/rv/pratipada_check.py` matches each Pada block of the supplied text to its Ṛk in the Wikisource index (K9) and compares every Pratipadārtha word, and every word of the supplied Pada, with that Ṛk's reference words. It edits nothing and writes `volN/review/pratipada_check.tsv` with a status per word: `ok`; `fix-certain` (one reference word within one edit, and the supplied Pada block already has it: only the word-meaning entry is misread); `fix` (one candidate, not confirmed); `near`, `absent` (editor); `noref` (Ṛk not matched). Only `fix-certain` readings may be applied: `tools/rv/pratipada_apply.py N [--write]` applies those that also differ by exactly one letter that is not a case ending, a voicing swap, a visarga or a vowel inside the word (sandhi), in the supplied file before translation, each a row of `volN/data/source_fixes.tsv` and a line of `review/repair_log.md` (B1.6); everything else is a `**NOTE**`. A mismatch means "look here": the Wikisource Pada has typos and Sāyaṇa's forms differ from the Pada. First measured on Vol 21: 8,189 entry words ok, 389 `fix-certain` (e.g. आस्माकेन→अस्माकेन, द्रप्प→द्रप्स, श्वा→त्वा).
 
 ### C5. Gist
 - The sense of the verse in English, from the Kannada.
@@ -224,6 +225,7 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 | D15 | Every reference to the Sāyaṇa-bhāṣya document in the English file resolves to a bhāṣya (or a `NOTE`) in the document; no bhāṣya block stands in the English file (for a volume brought into the current form); the PDF carries the bhāṣya of every Ṛk. | C3, K7 |
 | D16 | The pages before the preface are the same files in every volume; pictures 1 and 2 are the first two pages of the PDF; the abbreviations list is the generated legend. | A2, B3.7 |
 | D17 | Every Ṛk of the volume has its Saṃhitā, Pada and bhāṣya from the Wikisource index, none missing and none twice; the places of B5.6 carry their `NOTE`. This is a count, not a comparison of the text. | B1.2, K9 |
+| D18 | Every Pratipadārtha word of the volume has been compared with the reference Pada of its Ṛk (`tools/rv/pratipada_check.py`, C4): the report is in `volN/review/pratipada_check.tsv`; no `fix-certain` row is left unapplied; each `near`/`absent` row is answered or carries a `NOTE`; the number of words compared and of Ṛks matched is reported. | C4, B1.6 |
 
 Each check reports how many items it compared. A volume that was not checked is "not checked", never "clean".
 D1 and D2 are agreed in principle; how they work is for the design document.
@@ -470,6 +472,7 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 
 ### I6a. The second pass of a volume — what it comprises
 1. The readers R1–R6, as marked in I2 (R2 where a unit has a grammar section).
+1a. **The word-meaning check (C4, D18), for every volume:** `pratipada_check.py N --source`, then `pratipada_apply.py N` (preview, the user's yes, `--write`), then the check again. For volumes not yet translated (Vols 22, 23) it runs before the first `plan`; for translated volumes the corrections are made in the source and reach the book at the next build (the English file is not re-translated for them). The rows left over go to the editor. Vols 12, 14, 15, 16 have older layouts: many Ṛks come out `noref`; their report is read with that in mind.
 2. R7 against the scan copies, if adopted (*leaning*): needs the scans, which are not in the repository for the newer volumes (F40), and a measurement first (I5).
 3. The departures of B1.6 are carried out in the source (*leaning*).
 4. The bhāṣya from the wiki source is placed in the volume's Sāyaṇa-bhāṣya document and the Sāyaṇa-bhāṣya book is made (K9).
