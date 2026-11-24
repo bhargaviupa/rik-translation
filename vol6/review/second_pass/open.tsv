@@ -19,3 +19,7 @@ other	370	Applied by the rule "Kannada numerals are correct": "Ṛ. Saṃ. 10-10
 other	425	Kannada prints Pā. Sū. 7-1-171 for ūḍidaṃ padādi (hṛde); the sūtra number looks odd (elsewhere 6-1-171); applied as printed
 other	451	Kannada prints Pā. Sū. 9-2-2 (tatpuruṣe tulyārtha…); there is no adhyāya 9; applied as printed
 other	443, 458	The English note on p. 458 says the Rik 74.5 cross-reference read 'volume 2'; after this pass p. 443 reads 'volume 1' as in the Kannada, so the note is stale
+other	461	Kannada prints Pā. Sū. 6-1-189 (āmantritasya) here and 6-1-198 on p. 486; applied as printed
+boundary-shifted	471-472	English p. 471 carries the whole grammar page of 76.1 that is on Kannada pp. 471-472; English p. 472 has only the Saṃhitā of 76.2
+boundary-shifted	480-481	English p. 480 carries the bhāṣya tail and Pratipadārtha of 76.4 that are on Kannada p. 481
+other	475-476	Kannada p. 476 has its own mark and head; English pp. 475/476 divide exactly as the Kannada (p. 476 starts at ಮಹೇ)

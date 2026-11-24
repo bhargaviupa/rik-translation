@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 458 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459)
-- **Findings:** 791 — applied 571, questions 220; edits ok 581, failed 0
-- **Reader tokens (batches so far):** 3923k; per page 8.6k
-- **Last commit:** e2afdaa
+- **Pages read:** 488 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489)
+- **Findings:** 833 — applied 601, questions 232; edits ok 611, failed 0
+- **Reader tokens (batches so far):** 3923k; per page 8.0k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -27,24 +27,25 @@
 | 14 | 370–399 | 45 | 35 | 35 / 0 | 10 | 259k | 93be96c | 15 S7 + 1 S7/R6 quotation repairs, 8 S2 removals; p. 370 reference changed to 18-18-8 as the Kannada prints (impossible maṇḍala, see open items); one edit needed a retry (asterisks); pp. 374 and 396 line up with the Kannada |
 | 15 | 400–429 | 53 | 45 | 45 / 0 | 8 | 242k | abb8a1d | 13 S1/S2 number repairs (incl. Ṛk 10-98-5 → 10-92-5, sūkta 72 → 73), 14 S7 + 4 S13 quotation/term repairs; one retry; no page shifts; p. 425 Pā. Sū. 7-1-171 applied as printed (open item) |
 | 16 | 430–459 | 38 | 18 | 18 / 0 | 20 | 232k | e2afdaa | 6 S2 + 4 S1 number repairs; p. 451 Pā. Sū. [6-2-2] → 9-2-2 as the Kannada prints (no adhyāya 9: see open items); p. 443 volume 2 → 1; p. 458 lines up; no page shifts |
+| 17 | 460–489 | 42 | 30 | 30 / 0 | 12 | TOK16 | @C@ | 14 number fixes, 10 number removals, 6 R3 quotation repairs; English pp. 471/472 and 480/481 shifted (open items); one edit-file slip left an extra harmless p. 471 row in findings.tsv; reader hit the usage limit and was resumed |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
-| H29 | 1 | 186 | 187 |
-| S2 | 185 | 1 | 186 |
-| S7 | 96 | 9 | 105 |
-| S1 | 99 | 3 | 102 |
-| S14 | 76 | 6 | 82 |
+| H29 | 1 | 198 | 199 |
+| S2 | 195 | 1 | 196 |
+| S7 | 104 | 9 | 113 |
+| S1 | 103 | 3 | 106 |
+| S14 | 78 | 6 | 84 |
 | S16 | 35 | 3 | 38 |
-| S3 | 32 | 0 | 32 |
+| S3 | 37 | 0 | 37 |
 | S13 | 12 | 7 | 19 |
 | S18 | 13 | 0 | 13 |
-| S17 | 11 | 1 | 12 |
+| S17 | 12 | 1 | 13 |
 | R3 | 8 | 4 | 12 |
 | S15 | 3 | 0 | 3 |
 
-By reader: R1 489, R3 209, R6 93
+By reader: R1 511, R3 220, R6 102
 
 ## 4. Open items (not findings)
 - **marker** (pages 65-66): The text of p. 66 stands inside the p. 65 block of the Kannada book (head missing): the page marker needs a fix; the English p. 66 matches that text
@@ -67,9 +68,13 @@ By reader: R1 489, R3 209, R6 93
 - **other** (pages 425): Kannada prints Pā. Sū. 7-1-171 for ūḍidaṃ padādi (hṛde); the sūtra number looks odd (elsewhere 6-1-171); applied as printed
 - **other** (pages 451): Kannada prints Pā. Sū. 9-2-2 (tatpuruṣe tulyārtha…); there is no adhyāya 9; applied as printed
 - **other** (pages 443, 458): The English note on p. 458 says the Rik 74.5 cross-reference read 'volume 2'; after this pass p. 443 reads 'volume 1' as in the Kannada, so the note is stale
+- **other** (pages 461): Kannada prints Pā. Sū. 6-1-189 (āmantritasya) here and 6-1-198 on p. 486; applied as printed
+- **boundary-shifted** (pages 471-472): English p. 471 carries the whole grammar page of 76.1 that is on Kannada pp. 471-472; English p. 472 has only the Saṃhitā of 76.2
+- **boundary-shifted** (pages 480-481): English p. 480 carries the bhāṣya tail and Pratipadārtha of 76.4 that are on Kannada p. 481
+- **other** (pages 475-476): Kannada p. 476 has its own mark and head; English pp. 475/476 divide exactly as the Kannada (p. 476 starts at ಮಹೇ)
 
 ## 5. Questions for the editor
-219 rows in `questions.tsv`; by kind: H29 186, R3 4, S1 3, S13 7, S14 6, S16 3, S17 1, S2 1, S7 9
+231 rows in `questions.tsv`; by kind: H29 198, R3 4, S1 3, S13 7, S14 6, S16 3, S17 1, S2 1, S7 9
 
 ## 6. Files
 `vol6/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)

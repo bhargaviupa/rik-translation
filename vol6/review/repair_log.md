@@ -698,3 +698,40 @@
 | 457 | `*kutva* of *h*` → `*cutva* of *h*` | SECOND-PASS S14: Kannada ಕುಹೋಶ್ಚುಃ ಸೂತ್ರದಿಂದ ಹಕಾರಕ್ಕೆ ಚುತ್ವ, ಜಸ್ತ್ವ |
 | 459 | `Pā. [6-3-136]` → `Pā. 6-3-139` | SECOND-PASS S1: Kannada ಪಾ. ಸೂ. ೬-೩-೧೩೯ |
 | 459 | `*liṅyāśiṣy aṅ*, Pā. [3-1-86]` → `*liṅyāśiṣy aṅ*, Pā. 3-1-89` | SECOND-PASS S1: Kannada ಲಿಜ್ಯಾಶಿಷ್ಯಜ್ (ಪಾ. ಸೂ. ೩-೧-೮೯) |
+
+### 2026-11-24 second pass, batch e460-489.tsv
+| page | old → new | why |
+|---|---|---|
+| 461 | `Pā. [6-1-198]` → `Pā. 6-1-189` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೮೯) |
+| 461 | `jāmir anyo` → `jāmir anye` | SECOND-PASS S7: Kannada ಜಾಮಿರನ್ಯೇಽಸ್ಯಾಂ; plural janayanti and gloss ಇತರರು decide; letters changed: o to e |
+| 461 | `जामिरन्यो` → `जामिरन्ये` | SECOND-PASS S7: Same as the IAST edit (vowel sign o to e) |
+| 461 | `nirgamanaprāyo` → `nirgamanaprāyā` | SECOND-PASS S7: Kannada ನಿರ್ಗಮನಪ್ರಾಯಾ; gloss ಹೋಗುವವಳು is feminine; letters changed: o dropped, ā |
+| 461 | `निर्गमनप्रायो` → `निर्गमनप्राय` | SECOND-PASS S7: Same as the IAST edit |
+| 466 | `, Pā. [6-4-105]` → `` | SECOND-PASS S2: Kannada ಅತೋ ಹೇಃ prints no sūtra number |
+| 466 | `, Pā. [8-3-17]` → `` | SECOND-PASS S2: Kannada ಭೋಭಗೋ ಅಘೋ prints no sūtra number |
+| 466 | `, Pā. [8-3-19]` → `` | SECOND-PASS S2: Kannada ಲೋಪಃಶಾಕಲ್ಯಸ್ಯ prints no sūtra number |
+| 466 | `, Pā. [8-2-36]` → `` | SECOND-PASS S2: Kannada ವ್ರಶ್ಚಭೃಸ್ಥ prints no sūtra number |
+| 466 | `, Pā. [8-2-41]` → `` | SECOND-PASS S2: Kannada ಷಢೋಃ ಕಃ ಸಿ prints no sūtra number |
+| 467 | `, Pā. [3-1-4]` → `` | SECOND-PASS S2: Kannada ಅನುದಾತ್ತೌ ಸುಪ್ಪಿತೌ prints no sūtra number |
+| 471 | `, Pā. [3-3-94]` → `` | SECOND-PASS S2: Kannada ಸ್ತ್ರೀಯಾಂ ಕ್ತಿನ್ prints no sūtra number |
+| 471 | `*itaś ca lopaḥ parasmaipadeṣu*;` → `*itaś ca lopaḥ parasmaipadeṣu*, Pā. 3-4-97;` | SECOND-PASS S3: Kannada (ಪಾ. ಸೂ. ೩-೪-೯೭) printed; English omitted it |
+| 471 | `*leṭo 'ḍāṭau*;` → `*leṭo 'ḍāṭau*, Pā. 3-4-94;` | SECOND-PASS S3: Kannada (ಪಾ. ಸೂ ೩-೪-೯೪) printed; English omitted it |
+| 471 | `*nityaṃ ṅitaḥ*;` → `*nityaṃ ṅitaḥ*, Pā. 3-4-99;` | SECOND-PASS S3: Kannada (ಪಾ. ಸೂ. ೩-೪-೯೯) printed; English omitted it |
+| 475 | `, Pā. [3-4-87]` → `` | SECOND-PASS S2: Kannada ಸೇರ್ಹ್ಯಪಿಚ್ಚ prints no sūtra number |
+| 475 | `*tāsyanudāttet…* makes` → `*tāsyanudāttet…*, Pā. 6-1-186, makes` | SECOND-PASS S3: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೮೬) printed; English omitted it |
+| 477 | `*asmai* — to such;` → `*asmai* — to this (who has come);` | SECOND-PASS S14: Kannada ಅಸ್ಮೈ—(ಬಂದಂಥಾ) ಈ |
+| 479 | `Pā. [3-3-94]` → `Pā. 3-2-94` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೩-೨-೯೪) |
+| 479 | `*kutva* of the reduplicate` → `*cutva* of the reduplicate` | SECOND-PASS S14: Kannada ಚುತ್ವ (cutva), not kutva |
+| 483 | `*hetumati ca*;` → `*hetumati ca*, Pā. 3-1-26;` | SECOND-PASS S3: Kannada (ಪಾ. ಸೂ. ೩-೧-೨೬) printed; English omitted it |
+| 483 | `Pā. [6-4-51]` → `Pā. 6-1-51` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೫೧) |
+| 483 | `hurhalbhyo heḥ…` → `hujhalbhyo her dhiḥ` | SECOND-PASS S7: Kannada ಹುಝಲ್ ಭ್ಯೋ ಹೇರ್ಧಿಃ; letters changed: r to j, heḥ to her dhiḥ |
+| 483 | `bhasyāpi ṭer` → `bhasya ṭer` | SECOND-PASS S7: Kannada ಡಿತಿ ಭಸ್ಯ ಟೇರ್ಲೋಪಃ; letters removed: āpi |
+| 485 | `manasā vacyamānāḥ` → `manana vacyamānāḥ` | SECOND-PASS S7: Kannada ಮನನಾ ವಚ್ಯಮಾನಾಃ (also in the bhāṣya) |
+| 486 | `, Pā. [6-3-136]` → `` | SECOND-PASS S2: Kannada ನಿಪಾತಸ್ಯ ಚ prints no sūtra number |
+| 486 | `U. Sū. 2-278 [?]` → `U. Sū. 2-278` | SECOND-PASS S1: Kannada (ಉ. ಸೂ. ೨-೨೭೮); [?] replaced |
+| 486 | `āhutibhiḥ preritā harṣaṃ janayati` → `āhutir abhipretā` | SECOND-PASS S7: Kannada ಹೂಯಮಾನತ್ವಾತ್ ಆಹುತಿರಭಿಪ್ರೇತಾ; the rest is Kannada gloss |
+
+### 2026-11-24 second pass, batch e460-489_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 469 | `— strength; *pari āpa*` → `— growth (strength); *pari āpa*` | SECOND-PASS S17: Kannada ಏಳಿಗೆಯನ್ನು (ಬಲವನ್ನು) |
