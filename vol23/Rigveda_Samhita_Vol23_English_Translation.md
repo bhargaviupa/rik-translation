@@ -36006,6 +36006,277 @@ Praise, Sobhari, (and attract hither) by a new song the youthful purifying showe
 > सहाः । ये । संति । मुष्टिहा इव । हव्यः । विश्वासु । पृत्ऽसु । होतृषु ।  
 > वृष्णः । चंद्रान् । न । सुश्रवःतमान् । गिरा । वंदस्व । मरुतः । अह ॥
 
+### Printed p. 849
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वासु सर्वासु पृत्सु पृतनासु यद्देषु होतृष्णाह्वानशीलेषु योद्धषु
+> च ये मरुतः सहाः संति अभिभवितारो भवंति हव्यो ह्वातव्यो मुष्टिहेव । मुष्टिभिरेव हंतीति मुष्टिहा मल्लः । स इव । नेति संप्रत्यर्थे । न संप्रति वृष्णो
+> वर्षित्कंश्चंद्रानाह्लादकान् सुश्रवस्तमानतिशयेन शोभनयशस्कांस्तान्मरुतोऽह
+> मरुत एव गिरा वाचा वंदस्व । स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains the second half of the verse. In all the battles (पृतनासु (*pṛtanāsu*)), and among the warriors who are given to calling out (होतृषु (*hotṛṣu*)), the Maruts who are overcomers (सहाः (*sahāḥ*)) are to be called upon (हव्यः (*havyaḥ*)). They are like a boxer (मुष्टिहा (*muṣṭihā*)), a wrestler who kills with fists alone. न (*na*) is used here in the sense "now". Praise with speech those very Maruts, who are showerers (वृष्णः (*vṛṣṇaḥ*)), delighters (चंद्रान् (*caṃdrān*)) and of exceedingly fine glory (सुश्रवस्तमान् (*suśravastamān*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वासु (*viśvāsu*)—in all
+- पृत्सु (*pṛtsu*)—in battles
+- होतृषु (*hotṛṣu*)—when there is a calling upon them
+- हव्यः (*havyaḥ*)—the warrior who calls out a rival
+- मुष्टिहेव (*muṣṭiheva*)—as one who strikes with the fist alone
+- ये (*ye*)—which
+- सहाः संति (*sahāḥ saṃti*)—who are defeaters of enemies
+- वृष्णः (*vṛṣṇaḥ*)—the senders of rain
+- चंद्रान् (*caṃdrān*)—the givers of delight
+- सुश्रवस्तमान् (*suśravastamān*)—those of exceeding splendour
+- मरुत अह (*maruta aha*)—the Maruts themselves
+- न (*na*)—now
+- गिरा (*girā*)—with praises
+- वंदस्व (*vaṃdasva*)—praise and salute
+
+##### भावार्थ (Bhāvārtha)
+
+In all battles, when the Maruts are called upon, they are like a warrior who has challenged a rival to combat and strikes with his fist alone, defeating enemies. Praise and salute those very Maruts, the senders of rain, the givers of delight, of exceeding splendour, now with praises.
+
+##### English translation
+Propitiate with praise the Maruts, the senders of rain, the givers of pleasure, the libaral bestowers of food; who are ever victorious in combats and like a boxer who has been challenged over his challengers.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गाव॑श्चिद्भा समन्यवः सजा॒त्ये॑न मरुतः॒ संबं॑धवः ।  
+> रि॒ह॒ते क॒ुकभो॑ मि॒थः ॥ २१ ॥
+
+### Printed p. 850
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गावः । चित् । घ । समन्यवः । सजात्येन । मरुतः । सबंधवः ।  
+> रिहते । ककुभः । मिथः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे समन्यवः समानतेजस्काः समानक्रोधा वा हे मरुतः गावश्चिद्गावश्च
+> युष्मान्मातृभूताः सजात्येन । समानजातित्वेन सबंधवः समानबंधुकाः सत्यः
+> ककुभो दिशः प्राच्यादिदिग्भागान् प्राप्य मिथः परस्परं रिहते । लिहंति । घेति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts of like fire or like wrath (समन्यवः (*samanyavaḥ*)), the cows, who are your mothers, being of one kind (सजात्येन (*sajātyena*)) and so of common kinship, reach the quarters (ककुभः (*kakubhaḥ*)), the regions of the horizon beginning with the east, and lick one another (रिहते (*rihate*) = लिहंति (*lihaṃti*)). घ (*gha*) is a mere filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समन्यवः (*samanyavaḥ*)—having equal brilliance
+- मरुतः (*marutaḥ*)—O Maruts
+- गावश्रित् (*gāvaśrit*)—the cows, who are mothers to you
+- सजात्येन (*sajātyena*)—by being of one kind
+- संबंधवः (*saṃbaṃdhavaḥ*)—having acquired common kinship
+- ककुभः (*kakubhaḥ*)—all the quarters
+- मिथः (*mithaḥ*)—together
+- रिहतॆ: घ (*rihatè: gha*)—pervade
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts of equal brilliance, the cows, who are mothers to you, being of one kind and having acquired common kinship, pervade all the quarters together.
+
+##### English translation
+Maruts, who are of like wrath, offspring of the maternal cow (Prishni), related by a common origin, they severally spread through the quarters of the horizon,
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मर्त॑श्चिद्वो नृतवो रुक्मवक्षस॒ उप॑ भ्रातृ॒त्वमाय॑ति।  
+> अधि॑ नो गात मरुतः॒ सदा॒ हि न॑ आपि॒त्वमस्ति॒ निध्रु॑वि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मर्तः । चित् । वः । नृतवः । रुक्ष्मवक्षसः । उप । भ्रातृत्वं । आ । अयति ।
+
+### Printed p. 851
+
+> अधि । नः । गात । मरुतः । सदा । हि । वः । अपित्वं । अस्ति । निध्रुवि ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृतवो नृत्यंतो हे रुक्ष्मवक्षसः । रोचमानमाभरणं रुक्ष्मं वक्षसि
+> येषां ते तथोक्ताः । ईदृशा हे मरुतः मर्तश्चिन्मनुष्योऽपि स्तोता वो
+> युष्माकं भ्रातृत्वं सखित्वमा अभिमुख्येनोपायति । उपगच्छति । अतो नोऽस्मान्मनुष्यान्नोत्थनधि गात । अधिब्रूत । अस्मत्पक्षपातवचना भवत । हि यस्माद्वो
+> युष्माकमापित्वं बंधुत्वं निध्रुवि नितरां धारयितन्ने स्तोत्रे यज्ञे वा सदा
+> सर्वदास्ति विद्यते तस्मादित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O dancing ones (नृतवः (*nṛtavaḥ*)), O you who wear a shining ornament (रुक्ष्म (*rukṣma*)) on the breast (रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*)), O Maruts: even a mortal (मर्तः (*martaḥ*)), a man who is your praiser, approaches your brotherhood, that is, friendship, facing you. Therefore speak up on our behalf (अधि गात (*adhi gāta*) = अधिब्रूत (*adhibrūta*)), become speakers favourable to our side. For your kinship (आपित्वं (*āpitvaṃ*)) is always present in the praise or sacrifice that firmly holds (निध्रुवि (*nidhruvi*)), therefore.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृतवः (*nṛtavaḥ*)—dancers in the mid-region
+- रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*)—having golden ornaments on the breast
+- मरुतः (*marutaḥ*)—O Maruts
+- मर्तश्चित् (*martaścit*)—even though your praiser is a human being
+- वः (*vaḥ*)—with you
+- भ्रातृत्वं (*bhrātṛtvaṃ*)—friendship
+- आ उपायति (*ā upāyati*)—obtains (therefore)
+- नः (*naḥ*)—regarding us
+- अधि गात (*adhi gāta*)—be speakers who praise
+- हि (*hi*)—because
+- वः (*vaḥ*)—your
+- आपित्वं (*āpitvaṃ*)—kinship
+- निध्रुवि (*nidhruvi*)—in the sacrifice
+- सदा (*sadā*)—always
+- अस्ति (*asti*)—is ever present
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, dancers in the mid-region, wearing golden ornaments on the breast: even though your praiser is a human being, he obtains friendship with you. Therefore speak on our behalf with praise. For at the time of the sacrifice your kinship is ever present.
+
+##### English translation
+Muruts, dancing (through the air), decorated with golden breast-plates, the mortal (who worships you) attains your brotherhead; speak favourably to us, for your affinity is ever (made known) at the regulated (sacrifice).
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मरु॑तो॒ मारु॑तस्य न॒ आ भे॑ष॒जस्य॑  
+> दहका सुधाकर
+
+### Printed p. 852
+
+> यूयं सखायः सप्तयः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुतः । मारुतस्य । नः । आ । भेषजस्य । वहत । सुदानवः ।  
+> यूयं । सखायः । सप्त्ययः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानवः शोभनदाना हे सखायः समानख्याना हे सप्तयः सर्पणशीला मरुतः नोऽस्माकं मारुतस्य भेषजस्यमरुत्संबंधि भेषजमौषधं यूयमा
+> वहत । आनयत ॥
+
+##### Gist of the bhāṣya
+
+O good givers (सुदानवः (*sudānavaḥ*)), O friends (सखायः (*sakhāyaḥ*)), that is, of equal renown, O swift ones (सप्तयः (*saptayaḥ*)), of gliding nature, Maruts: bring (आ वहत (*ā vahata*) = आनयत (*ānayata*)) to us the medicine (भेषजं (*bheṣajaṃ*)) that belongs to the Maruts, the remedy connected with the Maruts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवर् (*sudānavar*)—those who give generously
+- सखायः (*sakhāyaḥ*)—those who are friends
+- सप्तयः (*saptayaḥ*)—those of roving nature
+- मरुतः (*marutaḥ*)—O Maruts
+- नः (*naḥ*)—to us
+- मारुतस्य (*mārutasya*)—belonging to the Maruts
+- भेषजस्य (*bheṣajasya*)—the medicine
+- यूयं (*yūyaṃ*)—you
+- आ वहत (*ā vahata*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, generous givers, friends, of roving nature: bring to us the medicine that belongs to the Maruts (that is with you).
+
+##### English translation
+Generous friends, Maruts, swift gliding (through the air), bring to us (the boon) of the medicaments that belong to your company.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याभिः॒ सिंधु॒मव॑थ॒ याभि॒स्तूर्व॑थ॒ याभि॑र्दश॒स्यथा॒  ॑
+> क्रिविं ।  
+> मयो॑ नो भूतो॒तिभि॑मयोभुवः शि॒वाभि॑रसचद्विषः ॥ २४ ॥
+
+### Printed p. 853
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याभिः । सिंधुं । अवथ । याभिः । तूर्वथ । याभिः । दशस्यथ । क्रिविं ।  
+> मयः । नः । भूत । ऊतिभिः । मयःभुवः । शिवाभिः । असचद्विषः॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः याभिरूतिभिः सिंधुं समुद्रमवथ रक्षथ याभिश्च तूर्वथ
+> स्तोतृणां शत्रून् हिंस्थ ॥ तुर्वि हिंसार्थः ॥ याभिश्च क्रिविं कूपं तृष्णजे गोतमाय दशस्यथ प्रयच्छथ । हे मयोभुवो मयसः सुखस्य भावयितारो हे
+> असचद्विषोऽसक्तशत्रवः शत्रुरहिताः शिवाभिः कल्याणीभिः सर्वाभिरूतिभी रक्षाभिर्नोऽस्माकं वयः सुखं भूत । भावयत । उत्पादयत । यद्वा ॥ भू प्राप्तौ ॥ प्रापयत॥
+
+##### Gist of the bhāṣya
+
+O Maruts, with whichever protections (ऊतिभिः (*ūtibhiḥ*)) you protect the river or sea (सिंधुं (*siṃdhuṃ*)), with which you destroy (तूर्वथ (*tūrvatha*)) the enemies of the praisers (तुर्वि (*turvi*) has the sense of injuring), and with which you gave (दशस्यथ (*daśasyatha*) = प्रयच्छथ (*prayacchatha*)) a well (क्रिविं (*kriviṃ*)) to the thirsty Gotama: O producers of happiness (मयोभुवः (*mayobhuvaḥ*), मयसः (*mayasaḥ*) meaning happiness), O you of unattached enemies (असचद्विषः (*asacadviṣaḥ*)), that is, free of enemies, with all those auspicious protections bring forth (भूत (*bhūta*) = भावयत (*bhāvayata*), उत्पादयत (*utpādayata*)) happiness for us. Or else, taking भू (*bhū*) in the sense of obtaining, make us obtain it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मयोभुवः (*mayobhuvaḥ*)—producers of happiness
+- असचद्विषः (*asacadviṣaḥ*)—O Maruts free of enemies
+- याभिः (*yābhiḥ*)—with which protections
+- सिंधुं (*siṃdhuṃ*)—the sea
+- अवथ (*avatha*)—you protected
+- याभिः (*yābhiḥ*)—with which protections
+- तूर्वथ (*tūrvatha*)—you destroyed the enemies of the praisers
+- याभिः (*yābhiḥ*)—with which protections
+- क्रिविं (*kriviṃ*)—(to the thirsty Gotama) a well
+- दशस्यथ (*daśasyatha*)—you gave; with such
+- शिवाभिः (*śivābhiḥ*)—auspicious
+- ऊतिभिः (*ūtibhiḥ*)—protections
+- नः (*naḥ*)—for us
+- मयः (*mayaḥ*)—happiness
+- भूत (*bhūta*)—produce
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, producers of happiness, free of enemies: with whichever protections you protected the sea, with which you destroyed the enemies of the praisers, with which you gave a well to the thirsty Gotama, with such auspicious protections produce happiness for us.
+
+##### English translation
+With those auspicious protections with which you have guarded the ocean, with which you have destroyed (your enemies), with which you provided the well (for Gotama), you who are the sources of happiness, the unconquerable by your adversaries, bestow happiness upon us.
+
+### Printed p. 854
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्सिंधौ॒ यदसि॑क्न्यां॒ यत्स॑मु॒द्रेषु॑ मरुतः  
+> सुबर्हिषः ।  
+> यत्पर्व॑तेषु भेष॒जं ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । सिंधौ । यत् । असिक्न्यां । यत् । समुद्रेषु । मरुतः ।  
+> सुबर्हिषः ।  
+> यत् । पर्वतेषु । भेषजं ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबर्हिषः शोभनयज्ञा मरुतः सिंधावेतत्संज्ञे स्यंदनशीले नदे
+> यद्वेषजमस्ति यच्चासिक्यां यच्च समुद्रेषु जलधिषु यच्च पर्वतेषु भेषजं
+> विद्यते तत्सर्वं भेषजं पश्यंत इत्युत्तरयैकवाक्यता ॥
+
+##### Gist of the bhāṣya
+
+O Maruts of good sacrifice (सुबर्हिषः (*subarhiṣaḥ*)): whatever medicine there is in the Sindhu, the swiftly flowing river of that name, whatever in the Asikni, whatever in the oceans (समुद्रेषु (*samudreṣu*)), and whatever medicine exists in the mountains: seeing all that medicine (you bring it). Sāyaṇa says the sentence is joined in one syntactic unity with the following Ṛk (इत्युत्तरयैकवाक्यता (*ityuttarayaikavākyatā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुबर्हिषः (*subarhiṣaḥ*)—excellent sharers in the sacrifice
+- मरुतः (*marutaḥ*)—O Maruts
+- सिंधौ (*siṃdhau*)—in the river named Sindhu
+- यत् (*yat*)—whatever
+- भेषजं (*bheṣajaṃ*)—medicine there is
+- असिक्न्यां (*asiknyāṃ*)—in the river Asikni
+- यत् (*yat*)—whatever medicine there is
+- समुद्रेषु (*samudreṣu*)—in the oceans
+- यत् (*yat*)—whatever medicine there is
+- पर्वतेषु (*parvateṣu*)—in the mountains
+- यत् (*yat*)—whatever medicine there is (bring all those medicines)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, excellent sharers in the sacrifice: whatever medicine there is in the river named Sindhu, whatever in the river Asikni, whatever in the oceans, whatever in the mountains, bring all those medicines.
+
+##### English translation
+Whatever medicament there may be in the Sindu, in the Asikni, in theoceans, in the mountains, Maruts, who are gratified by sacrifice,
+
 ---
 
-**Progress note:** Done through printed p. 848. pp. 841-848 (batch API)
+**Progress note:** Done through printed p. 854. pp. 849-854 (batch API)
