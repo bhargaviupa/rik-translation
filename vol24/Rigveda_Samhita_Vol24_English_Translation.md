@@ -1,5 +1,23 @@
 # Rigveda Samhita — Volume 24 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+In this part of the Ṛgveda the sūktas 21-67 of the eighth maṇḍala are included. Although there are not many matters to be told concerning these sūktas, a detailed explanation is necessary concerning the 11 sūktas from 49 to 60**NOTE**. In these 11 sūktas there are in all 80 Ṛks**NOTE**. These are well known as the Vālakhilya sūktas. On the question of what these Vālakhilya sūktas are and what their use is, neither the commentator Sāyaṇācārya, nor other ancient Vedic scholars, nor Western scholars such as Max Muller have said anything. Sāyaṇa has not written a commentary on these sūktas; nevertheless, in the Ṛgveda-bhāṣya printed by the Vaidika Saṃśodhana Maṇḍala of the city of Poona, the commentary on these Vālakhilya sūktas, said to have been found in the Oriental manuscript library of the city of Kāśī, is itself given here together with its meaning. Who wrote this commentary, and in what period, cannot be known with certainty. But from the style of the commentary it can be said that it was written by someone later than Sāyaṇa. A fuller explanation of these sūktas has been given in the introduction to those sūktas.
+
+To publish in simple Kannada, together with a critical translation, such a Ṛgveda-saṃhitā, which is most ancient, most profound, most vast, and the foundation of all the śāstras, is not an easy task. Even so, with the lofty aim that through such a great undertaking all people, scholars and laymen alike, may gain increase of knowledge and become worthy of the grace of God, His Highness Śrī Jayachamarajendra Wodeyar Bahadur, G.C.B., G.C.S.I., the Lord of the Throne of Karnataka, a lover of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, and his Government, by their generous patronage encourage this publication, which calls for great expenditure; this must be called the good fortune of the multitude of the people of Karnataka. For our generous-minded Lord, his family, the princesses, the prince bearing the auspicious name Śrīkaṇṭhadatta Narasiṃharāja Wodeyar, and the whole multitude of subjects, I pray that Sarveśvara, who is the Veda-Puruṣa, may graciously grant, all the more abundantly, all wealth, such as long life, health and prosperity, which are the fruits of this world, and also spiritual knowledge, which is the fruit of the other.
+
+Mysore
+
+Vijaya year, Saṃ.**NOTE** Kārtika śukla pūrṇimā, Friday
+
+20-11-53.
+
+Translator:
+
+H. P. Venkata Rao,
+
+Court Mahāvidvān.
+
 ### Printed p. 1
 
 ## Sūkta 21 (Maṇḍala 8)
@@ -57,11 +75,14 @@ Sūkta 21. Maṇḍala 8. Anuvāka 4. Sūkta 21. Aṣṭaka 6. Adhyāya 2. Varga
 
 #### Ṛk 1
 
-> । संहार ।
-> वयमु त्वामपूर्व्य स्फूरं न कच्चिद्भरंतोऽवस्यवः ।
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वयमु त्वामपूर्व्य स्फूरं न कच्चिद्भरंतोऽवस्यवः ।  
 > वाजे चित्रं हवामहे ॥ १ ॥
-> १ दर्शन १
-> वयं । ऊं इति । श्वां । अपूर्व्य । स्तूरं । न । कत् । चित् । भरंतः । अवस्यवः ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ऊं इति । श्वां । अपूर्व्य । स्तूरं । न । कत् । चित् । भरंतः । अवस्यवः ।  
 > माजे । चित्रं । हवामहे ॥ १ ॥
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
