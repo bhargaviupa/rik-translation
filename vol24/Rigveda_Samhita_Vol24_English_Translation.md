@@ -35887,6 +35887,303 @@ The Ādityas, who are above all gods and men, who do no harm to men and have glo
 ##### English translation
 You who are the heads of men, unharming, and of self-sustained glory, who, benevolent ones, protect our rites.
 
+### Printed p. 790
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते न॑ आ॒स्यो वृका॑णा॒मादि॑त्यासो मु॒मोच॑त ।  
+> स्ते॒नं ब॒द्धमि॑वादिते ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । आस्नः । वृकाणां । आदित्यासः । मुमोचत ।  
+> स्तेनं । बद्धंइव । आदिते ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्यास आदित्याः ते यूयं नोऽस्मान्वृकाणां हिंसकानामदात्कृणां
+> वास्न आस्यात्सकाशान्मुमोचत । विमोचत । विमोचनं कुरुत स्तेनं बद्धमिव । हे
+> आदिते त्वं च मोचयास्मानिति ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, you, release us from the mouth of the wolves, the harming ones, **NOTE** make release, like a bound thief; and you, O Aditi, release us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- ते (*te*)—you
+- बद्धं (*baddhaṃ*)—bound
+- स्तेनं इव (*stenaṃ iva*)—like a thief, struggling
+- नः (*naḥ*)—us
+- वृकाणां (*vṛkāṇāṃ*)—of enemies who harm like wolves
+- आस्नः (*āsnaḥ*)—from the mouth (or from the mouth of a harming wolf)
+- मुमोचत (*mumocata*)—release
+- अदिते (*adite*)—O Aditi, you release us
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, release us, who struggle like a bound thief, from the mouth of the harming wolves. O Aditi, you too release us.
+
+##### English translation
+Adityas, deliver us from the jaws of the destroyers like a bound thief ; O Aditi, (deliver us).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपो॒ षु ण॑ इ॒यं शरु॒रादि॑त्या॒ अस॑ दुर्म॒तिः ।  
+> अ॒स्य दे॒त्व ज॑घ्नुषी ॥ १५ ॥
+
+### Printed p. 791
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपो इति । सु । नः । इयं । शरुः । आदित्याः । अप । दुःमतिः ।  
+> अस्यत् । एतु । अजघ्नुषी ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः इयं शरुर्हिंसिका प्रसितिर्जालिकप्रेरिताजघ्नुष्यहिंसंती सत्यस्मदस्मत्तः सु सुष्वृपो एतु । अपगच्छत्वेव । तथा मर्मतिर्मष्टा मतिरप्यजघ्नुष्यस्मत्तोऽपगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, let this शरुः (*śaruḥ*), the harming net sent by the fisherman, which does not harm us, go far away from us. In the same way let the evil intention too, which does not harm us, go away from us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- नः (*naḥ*)—to us
+- इयं शरुः (*iyaṃ śaruḥ*)—this harming net
+- अजघ्नुषी (*ajaghnuṣī*)—without harming us
+- अस्मत् (*asmat*)—from us
+- सु (*su*)—greatly
+- अपो एतु (*apo etu*)—let it go far away
+- दुर्मतिः (*durmatiḥ*)—the evil intention of the enemy
+- अप (*apa*)—let it go far away and perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, let this harming net, without harming us, go far away from us. Let the evil intention of the enemy likewise go far away and perish.
+
+##### English translation
+Adityas, let this net, let the malevolent design turn away from us innocuous.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शश्व॒द्धि वः॑ सुदानव॒ आदि॑त्या ऊ॒तिभि॑र्व॒यं ।  
+> पु॒रा नू॒नं बु॑भु॒ज्महे॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शश्वत् । हि । वः । सुदानवः । आदित्याः । ऊतिभिः । वयं ।  
+> पुरा । नूनं । बुभुज्यहे ॥ १६ ॥
+
+### Printed p. 792
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानवः सुदाना हे आदित्याः वो युष्माकमूतिभी रक्षाभिर्वयं पुरा
+> नूनमिदानीमपि शश्वत्सर्वदा बुभुज्महे । यद्वा । शश्वद्भून्फोगान्बुंज्महे ॥
+
+##### Gist of the bhāṣya
+
+O good givers, O Ādityas, by your protections we have enjoyed always, in former time and now as well, at all times. Or else: we enjoy continual enjoyments.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—who are excellent givers
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- वः हि (*vaḥ hi*)—your
+- ऊतिभिः (*ūtibhiḥ*)—endowed with the protections
+- वयं (*vayaṃ*)—we
+- पुरा (*purā*)—formerly
+- नूनं (*nūnaṃ*)—now also
+- शश्वत् (*śaśvat*)—at all times
+- बुभुज्महे (*bubhujmahe*)—are enjoying many pleasures
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, excellent givers, endowed with your protections we have been enjoying many kinds of pleasures formerly, now and at all times.
+
+##### English translation
+Bounteous Adityas, by your protections we have continually possessed enjoyments from of old.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शश्वं॑तं॒ हि प्र॑चेतसः प्रति॒यंतं॑ चि॒देन॑सः ।  
+> देवाः॑ कृणु॒थ जी॒वसे॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शश्वंतं । हि । प्रचेतसः । प्रतियंतं । चित् । एनसः ।  
+> देवाः । कृणुथ । जीवसे ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रचेतसः प्रकृष्टमाया हे देवाः शश्वंतं बहुमपि प्रतियंतं चित्
+> प्रतिगच्छंतमपि शत्रुमेनसः पापस्य कर्तारं । अथवैनसः पापकृतः ॥ व्यत्ययेन
+> बहुवचनं ॥ पापकर्तारं जीवसे जीवनायास्माकं कृणुथ । कुरुत । अस्मत्तो
+> वियुक्तमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O gods of excellent wisdom, make the enemy, the doer of sin, though many and coming against us, for our life; the sense to be supplied is "separated from us". Or else, एनसः (*enasaḥ*) stands for those who do sin, the plural being used by exchange of number; make that doer of sin separated from us for our living.
+
+### Printed p. 793
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतसः (*pracetasaḥ*)—of excellent knowledge
+- देवाः (*devāḥ*)—O gods
+- प्रतियंतं (*pratiyaṃtaṃ*)—who fall upon us
+- एनसः (*enasaḥ*)—the sinful ones
+- शश्वंतं चित् हि (*śaśvaṃtaṃ cit hi*)—even though they are of many numbers
+- जीवसे (*jīvase*)—so that we may live happily
+- कृणुथ (*kṛṇutha*)—keep them far away
+
+##### भावार्थ (Bhāvārtha)
+
+O gods of excellent knowledge, keep far away from us the sinful ones who fall upon us, even though they are many, so that we may live happily.
+
+##### English translation
+Wise deities, keep away from us, that we may live, the many doers of sin who come against us.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्सु नो॒ नव्यं॒ सन्य॑स॒ आदि॑त्या॒ यन्नुमो॑चति ।  
+> बं॒धाद्ब॒द्धमि॑वादिते ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सु । नः । नव्यं । सन्यसे । आदित्याः । यत् । मुनोचति ।  
+> बंधात् । बद्धं इव । अदिते ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तद्बंधकं नोऽस्माकं सु सुष्टु नव्यं स्तुत्यं संन्यसे संभजनाय भवतु ।
+> अस्माकं मोचनेन स्तुत्यं भवत्वित्यर्थः । हे आदित्या आदितेः पुत्रा हे आदिते त्वदनुग्रहाद्यन्मुमोचति मुंचत्यस्मान् बंधनसाधनं पूर्वं यत्पतिबंधकत्वादासीत्
+> तदेव युष्मदनुग्रहादस्मान्मुंचतु । यद्वा । युष्माकं यद्रक्षणमस्मान्मुंचति
+> तुत्तुष्टु स्तुत्यं संभजनाय भवत्विति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+Let that binder be well praiseworthy for our adoring; the sense is that through our release it may be praiseworthy. O Ādityas, sons of Aditi, O Aditi, by your favour that which releases us, the means of binding that was formerly an obstruction, let that same thing, by your favour, release us. Or else: let that protection of yours which releases us be well praiseworthy for adoring; so it is to be construed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- अदिते (*adite*)—O goddess Aditi
+- बद्धं (*baddhaṃ*)—a bound man
+- बंधात् इव (*baṃdhāt iva*)—like the happiness there is when he is freed from his bond
+- यत् (*yat*)—from whatever bond
+
+### Printed p. 794
+
+- मुनोचति (*munocati*)—you release
+- तत् (*tat*)—that release
+- नः (*naḥ*)—to us
+- सु (*su*)—exceedingly
+- नव्यं (*navyaṃ*)—praiseworthy
+- सन्मसे (*sanmase*)—and fit to be enjoyed, may it be **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas and goddess Aditi, as there is happiness when a bound man is freed from his bond, so may that act of release by which you free us from the bond be exceedingly praiseworthy and fit to be enjoyed by us.
+
+##### English translation
+Adityas and Aditi, let that which releases us as a prisoner from his bond, be ever the object of our praise and worship.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सास्माक॑मस्ति॒ तत्तर॒ आदि॑त्यासो अति॒ष्कदे॑ ।  
+> यू॒यम॒स्मभ्यं॑ मृळत ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अस्माकं । अस्ति । तत् । तरः । आदित्यासः । अतिस्कदे ।  
+> यूयं । अस्मभ्यं । मृळत ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्यास आदित्याः युष्मत्कर्तृकस्तत्तरो वेगोऽस्माकं नास्ति यो वेगो
+> बंधकाज्जालादतिष्कदेऽस्माकमतिष्कंदनाय प्रभवति । अतो यूयमस्मभ्यं मृळत
+> तत्तादृशं तरः कुरुतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, that speed, brought about by you, by which we might spring away from the binding net, we do not have. Therefore you make for us such a speed; this is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- अतिष्कदे (*atiṣkade*)—so that we ourselves may escape from this bond
+- तत् तरः (*tat taraḥ*)—that power which is needed
+- अस्माकं (*asmākaṃ*)—to us
+- न अस्ति (*na asti*)—there is certainly not (therefore)
+- ययं (*yayaṃ*)—you
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- मृळत (*mṛḷata*)—be givers of happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, the power that is needed for us to escape from this bond by ourselves we certainly do not have. Therefore be helpers to us.
+
+### Printed p. 795
+
+##### English translation
+Not to us is there strength enough to burst from this (net); O Adityas, grant us your favour.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ हे॒तिर्वि॒वस्व॑त॒ आदि॑त्याः कृ॒त्रिमा॒ शरुः॑ ।  
+> पु॒रा नु ज॒रसो॑ वधीत् ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । हेतिः । विवस्वतः । आदित्याः । कृत्रिमा । शरुः ।  
+> पुरा । नु । जरसः । वधीत् ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः नोऽस्मान्विवस्वतो विवस्वत्पुत्रस्य यमस्य । पुत्रे पितृतब्दः । तस्य
+> हेतिरायुधभूता कृत्रिमा क्रियया निष्पन्ना शरुर्हिंसिका प्रसितिः पुरा पूर्वं
+> न्विदानीं । सर्वदेत्यर्थः । जरस इदानीं जीर्णान्मा वधीत् । मा हिंस्यात् ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, let not the weapon of Vivasvān, that is, of Yama, the son of Vivasvān, **NOTE** the net, शरुः (*śaruḥ*), the harming one, made by action, slay us before, that is, now and always, in our old age; let it not harm.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- विवस्वतः (*vivasvataḥ*)—by Yama, the son of Vivasvān
+- कृत्रिमा (*kṛtrimā*)—made
+- शरुः (*śaruḥ*)—harming
+- हेतिः (*hetiḥ*)—in the form of a weapon, this net
+- नः (*naḥ*)—us
+- पुरा नु जरसः (*purā nu jarasaḥ*)—even before old age comes to us
+- मा वधीत् (*mā vadhīt*)—let it not kill
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, let this net, made by Yama, the son of Vivasvān, and like a harming weapon, not kill us before old age comes to us.
+
+##### English translation
+Let not this weapon of Vivaswat, this net made with hands, Adityas, destroy us before old age.
+
 ---
 
-**Progress note:** Done through printed p. 789. Ṛk 7 end, Ṛk 8-13, pp. 784-789
+**Progress note:** Done through printed p. 795. Ṛk 14-20, pp. 790-795
