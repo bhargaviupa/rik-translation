@@ -15565,6 +15565,309 @@ Men glorify you, Indra, with hymns that you may drink the first (of the gods): t
 
 When the Jyotiṣṭoma sacrifice is performed in its modified form called Rathantara-pṛṣṭha, then among the Niṣkevalya śastra mantras the three Ṛks beginning अभि त्वा पूर्वपीतये (*abhi tvā pūrvapītaye*) (Ṛks 7–9) are to be recited as the Anurūpa tṛca among the Pragātha mantras. This is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, अभि त्वा पूर्वपीतय इति प्रगाथौ स्तोत्रियानुरूप् (*abhi tvā pūrvapītaya iti pragāthau stotriyānurūp*) (Ā. Sū. 5-15). Also, in the Mahāvrata rite, when the Niṣkevalya śastra mantras are recited, this tṛca is to be recited on the southern side as a Pragātha mantra. This is stated by the sentence of the Aitareya Āraṇyaka, अभि त्वा पूर्वपीतय इति रथंतरस्य स्तोत्रियानुरूप् प्रगाथौ (*abhi tvā pūrvapītaya iti rathaṃtarasya stotriyānurūp pragāthau*) (Ai. Ā. 5-2-2).
 
+### Printed p. 389
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्येदिंद्रो॑ वावृधे॒ वृष्ण्यं॒ शवो॒ मदे॑ सु॒तस्य॒ विष्ण॑वि ।  
+> अ॒द्या तम॑स्य महि॒मान॑मा॒यवोऽनु॑ ष्टुवंति पू॒र्वथा॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । इत् । इंद्रः । ववृधे । वृष्ण्यं । शवः । मदे । सुतस्य । विष्णवि ।  
+> अद्य । तं । अस्य । महिमानं । आयवः । अनु । स्तुवंति । पूर्वथा ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येदस्यैव यजमानस्य वृष्णं वृषत्वं वीर्यं शवो बलं चेंद्रो
+> वावृधे । वर्धयति । सुतस्याभिषुतस्य सोमस्य पानेन विष्णवि कृत्स्न देहस्य व्यापके
+> मदे हर्षे सति तस्यैव यजमानस्य बलं वर्धयतीत्यर्थः । आद्यास्मिन् कालेऽस्येंद्रस्य तमुक्तगुणं महिमानं महत्त्वमायवो मनुष्या अनु ष्टुवंति । अनुपूर्णेण स्तुवंति । पूर्वथा ॥ पूर्वशब्दादिवार्थे प्रत्यपूर्वत्यादिना थाल्प्रत्ययः॥
+> यथा पूर्वस्मिन् कालेऽस्तुवन् एवमिदानीमपि तेनैव क्रमेण स्तुवंतीत्यर्थः !!
+
+##### Gist of the bhāṣya
+
+Indra increases the virility, vigour and strength of this very sacrificer. When the pressed Soma has been drunk and the intoxication pervades the whole body, he increases that sacrificer's strength. Today, at this time, men praise this Indra's greatness, of the kind described, in due order. Just as they praised him in former times, so now too they praise him in the same way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- सुतस्य (*sutasya*)—of the pressed Soma
+- विष्णवि (*viṣṇavi*)—as a result of its pervading the whole body
+- मदे (*made*)—when exhilaration arises
+- अस्येत् (*asyet*)—of this very sacrificer
+- वृष्ट्यं (*vṛṣṭyaṃ*)—the virility
+- शवः (*śavaḥ*)—and the strength
+- पावृथे (*pāvṛthe*)—increases
+- अद्य (*adya*)—at this time of the sacrifice
+- अस्य (*asya*)—of this Indra
+- तं (*taṃ*)—that famous
+- महिमानं (*mahimānaṃ*)—greatness
+- आयवः (*āyavaḥ*)—men
+- पूर्वथा (*pūrvathā*)—just as they praised him of old
+- अनु ष्टुवंती (*anu ṣṭuvaṃtī*)—they praise
+
+##### भावार्थ (Bhāvārtha)
+
+Having drunk the pressed Soma, when it has spread through the whole body, Indra, greatly delighted, increases the virility and strength of this same sacrificer who offered it. At this time of the sacrifice, men praise the famous greatness of this Indra now, just as they praised it of old.
+
+##### English translation
+Indra augments the energy and the strength of this (his worshipper), when the exhilaration of the Soma juice is diffused through his body ; men celebrate in due order his might to-day as they did of old.
+
+### Printed p. 390
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्त्वा॑ यामि सु॒वीर्यं॒ तद्ब्रह्म॑ पू॒र्वचि॑त्तये ।  
+> येना॒ यति॑भ्यो॒ भृग॑वे॒ धने॑ हि॒ते येन॒ प्रस्क॑ण्व॒मावि॑थ ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । त्वा । यामि । सुवीर्यं । तत् । ब्रह्म । पूर्वचित्तये ।  
+> येन । यतिभ्यः । भृगवे । धने । हिते । येन । प्रस्कङ्वं । आविथ ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ज्योतिष्टोमे माध्यंदिनसवने ब्रह्मतस्त्रे तत्वा यामीति प्रगाथोऽनुरूपः । सूत्रितं च । तत्वा यामि सुवीर्यमिति प्रगाथौ स्तोत्रियानुरूपौ ।
+> आ. ५-१६ । इति ॥ चातुर्विंशिकेऽहनि माध्यंदिनसवनेऽप्मयं प्रगाथस्तस्यॆवानुरूपः।
+> सूत्रितं च । तत्वा यामि सुवीर्यमभि प्र वः सुराधसं । आ. ७-४ । इति ॥
+> हे इंद्र तत्सुवीर्यं शोभनवीय्यं त्वा त्वां यामि । याचामि ॥
+> छांदसो वर्णलोपः ॥ तथा तद्ब्रह्म परिवृढमन्नं पूर्वचित्तये पूर्वप्रज्ञनायान्वेभ्यः पूर्वमेव लाभाय त्वां याचामि । धने हितेऽभीष्टे सति येन सुवीर्येण यतिभ्यः कर्मसूपरतेभ्योऽयष्टृभ्यो जनेभ्यः सकाताद्दनमाहृत्य भृगवे
+> महर्षये प्रयच्छसि । यद्वा । कर्मसु नियता अंगिरसो यतयः । तेषामर्थं धनं प्रयच्छसि ॥ तादर्थ्ये चतुर्थी ॥ येन च ब्रह्मणा प्रस्कण्वं कण्वप्रभवं
+> कण्वस्य पुत्रमृषिमाविथॆ ररक्षिथ । तदुभयं याचामीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+In the Jyotiṣṭoma, at the midday pressing, in the Brahmā's recitation, the pragātha beginning तत्वा यामि (*tatvā yāmi*) is the anurūpa. It is prescribed in the sūtra: तत्वा यामि सुवीर्यमिति प्रगाथौ स्तोत्रियानुरूपौ (*tatvā yāmi suvīryamiti pragāthau stotriyānurūpau*) (Ā. Sū. 5-16). On the Cāturviṃśika day, at the midday pressing, the pragātha of the Apmaya is its anurūpa; the sūtra says: तत्वा यामि सुवीर्यमभि प्र वः सुराधसं (*tatvā yāmi suvīryamabhi pra vaḥ surādhasaṃ*) (Ā. Sū. 7-4).
+
+"O Indra, I ask you for that excellent vigour." Likewise I ask you for that brahma, which is encompassing food, so as to obtain it before others, that is, first. When wealth was wished for, by that vigour you took wealth from the people who had ceased from rites, the non-sacrificers, and gave it to the great seer Bhṛgu. Or else: the Aṅgirases, devoted to rites, are the yatis, and you give wealth for them (the dative is in the sense of "for the sake of"). And by that brahma you protected Praskaṇva, born of Kaṇva, the son of Kaṇva, the seer. The construction is: I ask both of these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै इंद्रने (*èlai iṃdrane*)) धने हिते (*dhane hite*)—when wealth was obtained
+- येन (*yena*)—by which vigour of yours
+- यतिभ्यः (*yatibhyaḥ*)—taking from those fallen from rites
+- भृगवे (*bhṛgave*)—you gave to Bhṛgu
+- येन (*yena*)—by which food
+- प्रस्कण्वः (*praskaṇvaḥ*)—Praskaṇva, son of Kaṇva
+- आविथ (*āvitha*)—you protected
+- तत् (*tat*)—such
+- सुवीरं (*suvīraṃ*)—excellent vigour
+- तत् ब्रह्म (*tat brahma*)—and that same food
+- पूर्वचित्तये (*pūrvacittaye*)—so as to obtain before others
+- त्वा (*tvā*)—you
+- यामि (*yāmi*)—I ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when wealth was prayed for, by that vigour of yours you took the wealth from those fallen from rites and gave it to Bhṛgu, and by that food you protected Praskaṇva, son of Kaṇva. I ask you for such excellent vigour and for that same food, that I may obtain them before others.
+
+### Printed p. 391
+
+##### English translation
+I solicit you, Indra, for such vigour and for such food as may be hoped for in priority (to others), wherewith you have granted to Bhrigu the wealth taken from those who had desisted from sacrifices, wherewith you have protected Praskanwa.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Jyotiṣṭoma sacrifice, among the śastra mantras recited at the midday pressing by the priest called Brahmā, the three Ṛks beginning तत्त्वा यामि (*tattvā yāmi*) (Ṛks 9–11) are to be recited as the pragātha-anurūpa triplet. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra: तत्त्वा यामि सुवीर्यमिति प्रगाथौ स्तोत्रियानुरूपौ (*tattvā yāmi suvīryamiti pragāthau stotriyānurūpau*) (Ā. Sū. 5-16). In the midday pressing of the day called Cāturviṃśaka too, this triplet is to be recited as the pragātha-anurūpa triplet, as the Āśvalāyana Śrauta Sūtra says: तत्त्वा यामि सुवीर्यमभि प्र वः सुराधसं (*tattvā yāmi suvīryamabhi pra vaḥ surādhasaṃ*) (Ā. Sū. 7-4).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येना॑ समु॒द्रमसृ॑जो म॒हीर॒पस्तदिं॑द्र॒ वृष्टि॑ ते॒ शवः॑ ।  
+> स॒द्यः सो अ॑स्य महि॒मा न सं॒नशे॒ यं क्षो॒णीर॑नुचक्र॒दे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । समुद्रं । असृजः । महीः । अपः । तत् । इंद्र । वृष्टि । ते । शवः ।  
+> सद्यः । सः । अस्य । महिमा । न । संनशे । यं । क्षोणीः । अनुचक्रदे ॥ १८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र येनात्मीयेन बलेन समुद्रमब्धिं प्रति महीर्महतीरप उदकान्यसृजः व्यसृजः । महान् समुद्रो यावद्भिर्जलैः पूर्यते तावंति जलानि पुरा
+
+##### Gist of the bhāṣya
+
+"O Indra, by which strength of yours you sent the great waters to the ocean": that is, you formerly created as much water as fills the great ocean.
+
+### Printed p. 392
+
+> त्वं सृष्टवानित्यर्थः । ते त्वदीयं तच्छवो बलंवृष्टि वर्षकं । अभीष्टफलदमित्यर्थः।
+> अस्येंद्रस्य स महिमा न संनशे । न सम्यगापनीयः । परैरप्रधृष्य इत्यर्थः ॥ नशेः
+> कृत्यार्थे केन्प्रत्ययः ॥ यं महिमानं क्षोणीः क्षोणी पृथिव्यनुचक्रदे अनुगच्छति।
+> क्रदिरत्र गत्यर्थः । यदधीना वर्तत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That strength of yours is rain-giving, that is, it bestows what is wished for. That greatness of this Indra is not to be fully reached; it cannot be overcome by others. The greatness which the earth follows, the root kradi being here in the sense of going: that is, the earth lives in dependence upon it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- येन (*yena*)—by which strength of your own
+- समुद्रं (*samudraṃ*)—towards the ocean
+- महीः (*mahīḥ*)—great
+- अपः (*apaḥ*)—waters
+- असृजः (*asṛjaḥ*)—you made flow
+- ते (*te*)—your
+- तत् शवः (*tat śavaḥ*)—that same strength
+- वृष्टि (*vṛṣṭi*)—is a rainer of wishes
+- अस्य (*asya*)—of this Indra
+- यं (*yaṃ*)—which greatness
+- क्षोणीः (*kṣoṇīḥ*)—the earth
+- सद्यः (*sadyaḥ*)—at once
+- अनुचक्रदे (*anucakrade*)—follows
+- सः महिमा (*saḥ mahimā*)—that same majesty
+- न संनशे (*na saṃnaśe*)—is not withstood by anyone
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by that strength of your own with which you made the great waters flow towards the ocean, that same strength of yours is a rainer of wishes. The majesty of this Indra, which the earth at once follows and extols, is not withstood by anyone.
+
+##### English translation
+Wherewith you have sent the great waters to the ocean: such as is your wish-fulfilling strength: that might of Indra is not easily to be resisted which the earth obeys.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒ग्धि न॑ इंद्र॒ यत्त्वा॑ र॒यिं यामि॑ सु॒वीर्यं॑ ।  
+> श॒ग्धि वाजा॑य प्रथ॒मं सिषा॑सते श॒ग्धि स्तोमा॑य पूर्व्य ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शग्गि । नः । इंद्र । यत् । त्वा । रयिं । यामि । सुवीर्यं ।  
+> शग्धि । वाजाय । प्रथमं । सिसासते । शग्धि । स्तोमाय । पूर्व्य ॥ ११ ॥
+
+### Printed p. 393
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुवीर्यं शोभनवीर्योपेतं ॥ बहुव्रीहौ वीरवीयौ चेत्युत्तरपदाद्युदात्तत्वं ॥ यद्रयिं धनं त्वां यामि याचामि ॥ छांदसो वर्णलोपः ॥ नोऽस्मभ्यं तद्धनं शग्नि । देहि ॥ शकिरत्र दानार्थः । तस्माल्लोटि हौ
+> छांदसो विकरणस्य लुक् । हुझल्भ्य इति हेर्धित्वं॥ तथा सिषासते संभक्तुमिच्छते॥
+> सनतेः सनि सनीवंतर्धॆति विकल्पनादिडभावे जनसनखनामित्यात्वं ॥ वाजाय । वाज
+> इत्यन्ननाम । तेन च तद्वाल्लक्ष्यते । हविस्मते यजमानाय प्रथमं सर्वेभ्यः
+> पूर्वमेव शग्नि । धनं प्रयच्छ । यद्वा । वाजयेति द्वितीयार्थे चतुर्थी॥ कर्मभिस्तां संभक्तुमिच्छते जनाय प्रथमं वाजाय वाजमन्नं शग्नि । देहि।पश्चात्सोमाय स्तोत्रे हे पूर्व पूर्वस्मिन् काले भव चिरंतनेंद्र शग्नि । देहि ॥
+> सौतेः कर्तर्यर्तिस्तुस्वित्यादिना मन्प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, the wealth (rayi) endowed with excellent vigour which I ask of you, give that wealth to us" (the root śak is here in the sense of giving). "To him who wishes to serve (siṣāsate)": vāja is a name for food, and by it the one who has it is indicated; so, to the sacrificer who has oblations, give wealth first, before all others. Or else: वाजाय (*vājāya*) has the dative in the sense of the accusative: give food first to the person who wishes to partake of it through rites; afterwards, to the praiser (stoma), O ancient Indra, give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सुवीरं (*suvīraṃ*)—endowed with excellent vigour
+- यत् रयिं (*yat rayiṃ*)—which wealth
+- त्वा (*tvā*)—you
+- यामि (*yāmi*)—I ask; that wealth
+- नः (*naḥ*)—to us
+- शग्धि (*śagdhi*)—give
+- सिषासते (*siṣāsate*)—to him who wishes to serve you
+- वाजाय (*vājāya*)—to the sacrificer who has oblations
+- प्रथमं (*prathamaṃ*)—before all the rest
+- शग्धि (*śagdhi*)—give
+- पूर्व्य (*pūrvya*)—O ancient Indra
+- स्तोमाय (*stomāya*)—to the praiser also
+- शग्धि (*śagdhi*)—give afterwards
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, give us that wealth, endowed with excellent vigour, which I ask of you. Give it, before all the rest, to the sacrificer who wishes to serve you and who has oblations. O ancient Indra, afterwards bestow it on the praiser too.
+
+##### English translation
+Grant us, Indra, the wealth accompaniend by vigour, which I solicit from you; give (wealth) first of all to him desirous of gratifying you, pre- senting (sacrificial) food; give (wealth), you who are of old, to him who glorifies you.
+
+#### Ṛk 12
+### Printed p. 394
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒ग्धी नो॑ अ॒स्य यद्ध॑ पौ॒रमावि॑थ॒ धिय॑ इंद्र॒ सिषा॑सतः ।  
+> श॒ग्धि यथा॒ रुश॑मं॒ श्याव॑कं॒ कृप॒मिंद्र॒ प्रावः॒ स्व॑र्णरं ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शग्गि । नः । अस्य । यत् । ह । पौरं । आविथ । धियः । इंद्र । सिसासतः ।  
+> शग्गि । यथा । रुशमं । श्यावकं । कृपं । इंद्र । प्र । आवः । स्वःनरं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र धियः कर्माणि स्तोत्राणि ना सिषासतः संभक्तवतो नोऽस्माकं
+> संबंधिनोऽस्य यजमानस्य तद्धनं शग्धि प्रदेहि यद्द येन खलु धनेन पौरं ।
+> पुरुर्नाम राजा । तस्य पुत्रमाविथ ररक्षिथ । अपि च हे इंद्र रुशमं श्यावकं कृपं
+> चैतन्नामकांस्त्रीन्नाजर्षिन् यथा येन प्रकारेण प्रावः प्रारक्षः तथा स्वर्णरं
+> सर्वस्य हविषो नेतारं प्रापयितारां । यद्वा । स्वः स्वर्गं प्रति नेतव्यमिमं
+> यजमानं शग्धि । शक्तं कुरु । धनादिसंपत्त्य यागानुष्ठानाय यथा शक्तो भवति
+> तथा कुर्वित्यर्थः । इंद्रेत्यामंत्रितस्य पादादित्वेनाष्टमिकनिघाताभावे षाष्ठिकमामंत्रिताद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, to this sacrificer of ours, who wishes to partake of the dhiyaḥ (rites, praises), give that wealth with which you protected the son of Puru": Puru is the name of a king. Further, O Indra, just as you protected the three royal seers named Rusama, Śyāvaka and Kṛpa, so too (protect) the svarṇara, the leader and conveyer of all the oblation. Or else: svaḥ is heaven; make this sacrificer, who is to be led to heaven, able; make him so able that he is capable of performing the sacrifice through the acquisition of wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यद्ध (*yaddha*)—by which wealth
+- पौरं (*pauraṃ*)—the son of Puru
+- आविध (*āvidha*)—you protected (give that wealth)
+- धियः (*dhiyaḥ*)—the sacrificial rites
+- सिषासतः (*siṣāsataḥ*)—who performs
+- नः (*naḥ*)—belonging to us
+- अस्य (*asya*)—to this worshipper
+- शग्नि (*śagni*)—give
+- इंद्र (*iṃdra*)—O Indra
+- रुशमुं (*ruśamuṃ*)—Rusama
+- श्यावकं (*śyāvakaṃ*)—Śyāvaka
+- कृपं (*kṛpaṃ*)—Kṛpa
+- यथा (*yathā*)—in the manner in which
+- प्रावः (*prāvaḥ*)—you protected (in the same way)
+- स्वर्णरं (*svarṇaraṃ*)—the sacrificer who desires heaven
+- शग्नि (*śagni*)—make able
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, give that wealth by which you protected the friend of Puru**NOTE** to the worshipper who performs the sacrificial rites and belongs to us. O Indra, in the manner in which you protected the three royal seers Rusama, Śyāvaka and Kṛpa, give strength in the same way to the sacrificer who desires heaven.
+
+### Printed p. 395
+
+##### English translation
+Give to this our ( worshipper ) engaged in celebrating your sacred rites, Indra, (the wealth) whereby you have protected the son of Puru : grant to the man (aspiring) to heaven ( the wealth wherewith ) you have preserved, O Indra, Rusama, Syavaka, and Kripa.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कन्नव्यो॑ अत॒सीनां॑ तु॒रो गृ॑णीत॒ मर्त्यः॑ ।  
+> न॒ही न्व॑स्य महि॒मान॑मिंद्रि॒यं स्व॑र्गृ॒णंत॑ आन॒शुः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । नव्यः । अतसीनां । तुरः । गृणीत । मर्त्यः ।  
+> नहि । नु । आस्य । महिमानं । इंद्रियं । स्वः । गृणंतः । आनशुः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्रह्मशस्त्रे कन्नव्य इति कद्वान्प्रगाथः ।
+> सूत्रितं च । कन्नव्यो अतसीनां कदू नृस्याकृतमिति कद्वंतः प्रगाथाः । आ. ७-४ ।
+> इति ॥ अहर्गणेषु द्वितीयादिष्टहःसु तस्मिञ्छस्त्रे तस्यॆवायं प्रगाथः । सूत्र्यते हि ।
+> आरंभणीयाः पर्यासान् 'कद्वर्तोऽहरहःशस्यानीति होत्रका द्वितीयादिष्टेन ।
+> आ. ७-१ । इति ॥
+> अतसीनामतंतीनां सततगामिनीनां स्तुतीनां तुरः प्रेरयिता मर्त्यो
+> मरणधर्मा नव्योऽभिनव इदानींतनः कत् को नाम स्तोता गृणीत । इंद्रं स्तुयात् । अल्पप्रज्ञैरिदानींतनैरिंद्रः स्तोतुं न शक्यत इत्यर्थः ॥ ग्य शब्दे । क्रैय्यादिकः । प्वादीनां ह्रस्व इति ह्रस्वत्वं ॥ नु पुरा पूर्वस्मिन्नपि काले विद्यमानाः स्वः
+> सर्वे गृणंतः स्तोतारः । यद्वा । स्वः सुष्चरणीयं प्राप्तव्यमिंद्रं गृणंतः
+> स्तुवंतो जनाः । इंद्रियं । इंद्रियमिंद्रस्य लिंगमिंद्रस्यॆवासाधारणं । अस्येंद्रस्य महिमानं महत्त्वं न ह्यानशुः । न खलु प्राप्नु वन् ॥ अश्नोतेर्लिटि-व्यत्य-
+
+##### Gist of the bhāṣya
+
+In the Cāturviṃśika day, at the midday pressing, in the Brahmā's śastra, the pragātha with kat, कन्नव्य (*kannavya*), is the kadvat pragātha. The sūtra says: कन्नव्यो अतसीनां कदू नृस्याकृतमिति कद्वंतः प्रगाथाः (*kannavyo atasīnāṃ kadū nṛsyākṛtamiti kadvaṃtaḥ pragāthāḥ*) (Ā. Sū. 7-4). In the groups of days (ahargaṇa), from the second day onwards, this same pragātha belongs to that śastra; for it is prescribed: आरंभणीयाः पर्यासान् 'कद्वर्तोऽहरहःशस्यानीति होत्रका द्वितीयादिष्टेन (*āraṃbhaṇīyāḥ paryāsān 'kadvarto 'harahaḥśasyānīti hotrakā dvitīyādiṣṭena*) (Ā. Sū. 7-1).
+
+"Who, a mortal, a new one, of the present day, a driver (impeller) of the ceaseless (atasīnām), constantly moving praises, would praise Indra?" That is: Indra cannot be praised by the present-day people of small understanding. (The root is gṝ, of the kryādi class, with shortening.) "Nor, in the past too, did all the praisers who existed" (nu purā). Or else: svaḥ means "to be sought, to be attained": the people praising Indra, the one to be attained. इंद्रियं (*iṃdriyaṃ*) is the mark of Indra, belonging uniquely to Indra alone. They did not attain the greatness, the majesty, of this Indra.
+
 ---
 
-**Progress note:** Done through printed p. 388. pp. 382-388 (batch API)
+**Progress note:** Done through printed p. 395. pp. 389-395 (batch API)

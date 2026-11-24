@@ -8,3 +8,5 @@
 - 2026-11-24: w0206, w0234, w0563, w0569, w0619, w0660, w0690, w0716: parenthetical remark '(the sentence breaks off here; it continues in the next window)' removed from en.md; api_batch.py strips it when writing en.md.
 - 2026-11-24: w0264 (pp. 264-272, start of Maṇḍala 8): the Kannada file had the label *ಸಂಹಿತಾಪಾಠಃ* twice in a row (the supplied text has a label, then the Maṇḍala 8 title page, then the label again); one removed (structure repair, letters of the text unchanged). Verify then agrees (Saṃhitā labels = sub-headings).
 - 2026-11-24: w0337: garbled italic marks in the English ('⟦apa*', '*na⟩') restored to '*apa*', '*na*'; api_batch.py repairs this pattern when writing en.md.
+- 2026-11-24: w0389, w0396, w0551: one sentence each ('… which breaks off here at the end of the window') removed from en.md (translator remark); api_batch.py strips it.
+- 2026-11-24: w0396: the model left out the heading '### Printed p. 399'; inserted before the Pratipadārtha of Ṛk 15 where the Kannada page mark stands (en.md only).
