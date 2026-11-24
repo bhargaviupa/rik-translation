@@ -8278,6 +8278,197 @@ Resplendent Vishnu, I, the master of the offering, knowing the objects that are 
 
 In the time of the third pressing, after midnight has passed, when there is an excess of soma, the priest called hotṛ, reciting the śastra mantra on that occasion, is to recite this Ṛk प्र तत्ते अद्य (*pra tatte adya*) as the stotriya tṛca (Ā. 6-7). And in the homa made in the abhyudaya-iṣṭi for the deity named Viṣṇu Śipiviṣṭa, this Ṛk is to be recited as the yājyā mantra. This is explained by the Sūtra of the Āśvalāyana Śrauta Sūtra: वषट् ते विष्णवास आ कृणोमि प्र तत्ते अद्य शिपिविष्टनाम (*vaṣaṭ te viṣṇavāsa ā kṛṇomi pra tatte adya śipiviṣṭanāma*) (Ā. 3-13).
 
+### Printed p. 199
+Yāska has given an explanation of these words:
+
+तत्तेऽद्य शिपिविष्टनामार्यः प्रशंसाम्यर्योऽहमस्मीश्वरः स्तोमानामर्यस्त्वमसीति वा तं त्वा स्तौमि तवसमतव्यान् । तवस इति महतो नामधेयं । उदितो भवति । निवसंतमस्य रजसः पराके पराक्रांते ॥ (*tatte 'dya śipiviṣṭanāmāryaḥ praśaṃsāmyaryo 'hamasmīśvaraḥ stomānāmaryastvamasīti vā taṃ tvā staumi tavasamatavyān | tavasa iti mahato nāmadheyaṃ | udito bhavati | nivasaṃtamasya rajasaḥ parāke parākrāṃte ‖*) (Ni. 5-9)
+
+"O Viṣṇu, known by the name Śipiviṣṭa, I now praise you. Arya means the lord. Stomānām aryaḥ means lord of the hymns, one skilled in reciting hymns. This may be an epithet of the seer who praises Viṣṇu; or else stomānām aryaḥ, 'lord of the hymns', one worthy of being extolled by hymns, the one to be praised, may be an epithet of Viṣṇu himself. I praise you, such a Viṣṇu. The word tavaḥ means strength, power. Atavyān means one who is not great, one who is small. Therefore the words tavasam atavyān mean: I, small and without greatness, praise you (Viṣṇu), the great and powerful. Kṣayantam asya rajasaḥ parāke: I praise you who dwell in the region very far from this world, that is, in the highest world known as the supreme abode of Viṣṇu." This is the main purport of the explanation. **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमित्ते॑ विष्णो परि॒चक्ष्यं॑ भू॒त्प्र यद्व॑व॒क्षे शि॑पिवि॒ष्टो अ॑स्मि ।  
+> मा वर्पो॑ अ॒स्मदप॑ गूह ए॒तदद्यद॒न्यरू॑पः समि॒थे ब॒भूथ॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । इत् । ते । विष्णो इति । परिचक्ष्यं । भूत् । प्र । यत् । ववक्षे । शिपिऽविष्टः ॥  
+> अस्मि ।  
+> मा । वर्षः । अस्मत् । अप । गूहः । एतत् । यत् । अन्यरूपः । सु इथॆः । बभूथ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरा खलु विष्णुः स्वं रूपं परित्यज्य कृत्रिमं रूपांतरं धारयन् संग्रामे
+> वसिष्ठस्य साहाय्यं चकार। तं जानन्नृषिरनया प्रत्याचष्टे॥ अत्र निरुक्तं। शिपिविष्टो
+> विष्णुरिति विष्णोर्द्वे नामनी भवतः। कुत्सितार्थीयं पूर्वं भवतीत्यौपमन्यवः। किं ते
+> विष्णो प्रख्यातमेतद्भवत्यप्रख्यापनीयं यन्नः प्रब्रूषे शेष निर्वेष्टितोऽस्त्रीत्य-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that formerly Viṣṇu, abandoning his own form and assuming an artificial other form, helped Vasiṣṭha in battle. The seer, knowing him, addresses him with this Ṛk. On this the Nirukta says: Śipiviṣṭa is Viṣṇu; Viṣṇu has two names. The former (Śipiviṣṭa) has a deprecatory sense, says Aupamanyava. "What is this of you, Viṣṇu? This is unfamed, not to be proclaimed, that you declare to us, 'I am enveloped like a snake'…" (the quotation continues on the next page).
+
+### Printed p. 200
+
+> प्रतिपन्नरश्मिः । अपि वा प्रशंसानामैवाभिप्रेतं स्यात् । किं ते विष्णो प्रख्यातमेतद्भवति प्रख्यापनीयं यदुत प्रब्रूषे शिपिविष्टोऽस्मीति प्रतिपन्नरश्मिः । शिपयोऽत्र
+> रश्मय उच्यंते शैराविष्टो भवति । मा वर्पो अस्मदप गूह एतत्। वर्ष इति रूपनाम वृणोतीति सतः।यदन्यरूपः समिथे संग्रामे भवसि संयतरश्मिःनि. ५ ८इति ॥
+> तत्र कुत्सितार्थपक्षॆ योजना । हे विष्णो ते तव तन्नाम किं परिचक्ष्यं प्रख्यापनीयं भूत् । भवति । किं शब्दः क्षेपे । अप्रख्यापनीयमेव तद्भवति । यन्नामास्मभ्यं प्र ववक्षे प्रब्रूषे शिपिविष्टोऽस्मीति । अंतर्णीतोपमानमेतत् । शेष इव
+> निर्वॆष्टितस्तेजसानाच्छादितो भवामीति । तदश्लीलार्थत्पादिदं नाम न प्रशस्तमित्यर्थः । तन्नाम किं परिचक्ष्यं वर्जनीयं परित्याज्यं । विरुद्धार्थप्रतिपादकत्वास्त्वत एव परित्यक्तं हि तत् । शिष्टं समानं पूर्वेण । अत उक्तरूपविलक्षणं यद्वैष्णवरूपमस्यॆतद्वर्पो रूपमस्मदस्माकं माप गूहः । अपगूढं संवृतं मा
+> कुरु ॥ गुहू संवरणे ॥ अपि तु तदेव रूपं प्रकटय । वैष्णवस्य रूपस्य गूहने
+> का प्रसक्तिरिति चेत् । यद्यस्मादन्यरूपो रूपांतरमेव धारयन् समिधे संग्रामे
+> बभूथ अस्माकं सहायो भवसि तस्मादिदं गूहनं न कार्यमिति ॥ प्रशंसापक्षे तु ।
+> हे विष्णो ते तव तन्नाम किं परिचक्ष्यं भूत् । किं प्रख्यापनीयं भवति । न
+> प्रख्यापनीयं । किं तन्नाम । शिपिविष्टो रश्मिभिराविष्टोऽस्मीति यन्नाम प्रब्रूषे !
+> यत एव प्रख्यातरूपस्वमतोऽस्माकमेतद्वैष्णवं रूपं संवृतं मा कार्षिः ।
+> इदानीं गूढरूपोऽपि यद्यस्मात्त्वं समिथे संग्रामेऽन्यरूपः कृत्रिमरूपं
+> यदन्यद्वैष्णवं रूपं शौर्यादिलक्षणं तादृग्रूप एव बभूथ भवसि तस्मात्त्वं
+> गूढोऽपि ज्ञायस एवेति व्यर्थमेव तस्य रूपस्य गूहनं । अतो बहुतेजस्कं
+> यद्वैष्णवं रूपं तदस्माकं प्रदर्शयेति तात्पर्यार्थः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing the Nirukta) …"one whose rays are withdrawn". Or else praise alone may be intended: "What of you, Viṣṇu, is famed, to be proclaimed, that you say 'I am Śipiviṣṭa', one whose rays are gathered in?" Here śipi means rays: he is entered into by rays. "Do not hide this form (varṣaḥ) from us": varṣa is a name of form, from vṛṇoti (to cover). "Since you, in another form, are in battle, with rays restrained" (Ni. 5 8).
+Sāyaṇa then gives the construction on the deprecatory view: O Viṣṇu, is that name of yours to be proclaimed? The word kim here expresses censure; it is indeed not to be proclaimed, the name you declare to us, "I am Śipiviṣṭa". This contains a hidden simile: "I am enveloped, covered by splendour, like a snake." As this name has an unseemly sense, it is not praiseworthy; it is to be avoided, abandoned, since it conveys an adverse meaning, and so it has been abandoned. The rest is as before. Therefore do not hide from us this Vaiṣṇava form, different from the form just described; do not make it concealed (guhū, to cover); rather show that very form. If it be asked what occasion there is for hiding Viṣṇu's form: because, assuming another form, you were in battle (samithe) our helper, this concealment is not to be done.
+On the view of praise: O Viṣṇu, is that name of yours to be proclaimed? What is it? The name you declare, "I am Śipiviṣṭa", entered by rays. Since your form is famed, do not make this Vaiṣṇava form of ours concealed. Even though now of hidden form, since in battle you became of another, artificial form, namely of that other Vaiṣṇava form marked by heroism and the like, you are recognised even when hidden; so the hiding of that form is useless. Hence the purport: show us that Vaiṣṇava form which is of great splendour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विष्टो (*viṣṭo*)—O Viṣṇu
+- यत् (*yat*)—which name of yours
+- शिपिविष्टः अस्मि (*śipiviṣṭaḥ asmi*)—"I am called Śipiviṣṭa"
+- प्र ववक्षे (*pra vavakṣe*)—you have declared; such
+- ते (*te*)—your name
+- किं इत् (*kiṃ it*)—in what way
+- परिचक्ष्यं भूत् (*paricakṣyaṃ bhūt*)—is it to be proclaimed? (is it famed?)
+- यत् (*yat*)—for which reason
+- अन्यरूपः (*anyarūpaḥ*)—having assumed another form
+- समिथे (*samithe*)—in battle
+- बबूथ (*babūtha*)—you were a helper to us (therefore)
+- एतत् वर्षः (*etat varṣaḥ*)—your real form
+- अस्मत् (*asmat*)—from us
+- मा अप गूहः (*mā apa gūhaḥ*)—do not hide
+
+##### भावार्थ (Bhāvārtha)
+
+O Viṣṇu, tell us in what way that name of yours, which you declared as "I am called Śipiviṣṭa", is to be proclaimed. Although in battle you hid your real form, took another form and were our helper, do not hide
+
+### Printed p. 201
+your real form from us.
+
+##### English translation
+What is to be proclaimed, Vishnu, of you, when you say, I am Sipivishta ? Conceal not from us your real form, although you have engaged under a different form in battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+There is a story that Viṣṇu formerly hid his real form, assumed another, artificial form and helped the seer Vasiṣṭha in battle. Keeping this in mind, the seer Vasiṣṭha has praised Viṣṇu with this Ṛk. On this matter Yāska says:
+किं ते विष्णोऽप्रख्यातमेतद्भवत्यप्रख्यापनीयं यन्नः प्रब्रूषे शेष इव निर्वेष्टितोऽस्मीत्यप्रतिपन्नरश्मिरपि ना प्रशंसानामैनाभिप्रेतं स्यात् किं ते विष्णो प्रख्यातमेतद्भवति प्रख्यापनीयं यदुत प्रब्रूषे शिपिविष्णोऽस्मीति प्रतिपन्नरश्मिः शिपयोऽत्र रश्मय उच्यंते तैराविष्टो भवति मा वर्षो अस्मदप गूह एतत् ; वर्ष इति रूपनाम वृणोतीति सतः । यदन्यरूपः समिथे संग्रामे भवसि संयतरश्मिः ॥ (*kiṃ te viṣṇo 'prakhyātametadbhavatyaprakhyāpanīyaṃ yannaḥ prabrūṣe śeṣa iva nirveṣṭito 'smītyapratipannaraśmirapi nā praśaṃsānāmainābhipretaṃ syāt kiṃ te viṣṇo prakhyātametadbhavati prakhyāpanīyaṃ yaduta prabrūṣe śipiviṣṇo 'smīti pratipannaraśmiḥ śipayo 'tra raśmaya ucyaṃte tairāviṣṭo bhavati mā varṣo asmadapa gūha etat ; varṣa iti rūpanāma vṛṇotīti sataḥ | yadanyarūpaḥ samithe saṃgrāme bhavasi saṃyataraśmiḥ ‖*) (Ni. 5-8)
+The seer Vasiṣṭha, addressing Viṣṇu who had come in another, ordinary form in order to help him in battle, says: "O Viṣṇu, what is this form of yours? Is this the form of you, the famed one? When asked your name, you say again and again 'Śipiviṣṭa'. This name is not famed (not excellent); is it not a lowly one? You have many forms, yet before us you say 'I am Śipiviṣṭa'?" The answer is that the word śipiviṣṭa does not mean unfamed or unknown; it has another meaning. Śeṣa (the Kannada has this word where the Sanskrit has śipi) means ray; śipiviṣṭa means one covered, enveloped by rays. Just as the sun is worthy of praise though veiled by rays, so Viṣṇu too, though he has assumed another form, remains worthy of praise. Therefore, since शिपिविष्टोऽस्मि (*śipiviṣṭo 'smi*) means प्रतिपन्न रश्मिः (*pratipanna raśmiḥ*), one veiled by rays, the word śipiviṣṭa does not suggest lowliness: such is the purport. The word varṣa means form. For the sentence मा वर्पो अस्मदप गूह ऎतत् (*mā varpo asmadapa gūha ètat*): "O Viṣṇu, do not hide your excellent form so that we cannot see it; show us your excellent form. That form of yours has been hidden in battle; show it to us without hiding it." This is the main purport.
+
+### Printed p. 202
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वष॑ट्ते विष्णवा॒स आ कृ॑णोमि॒ तन्ने॑ जुषस्व शिपिविष्ट ह॒व्यं ।  
+> वर्धं॑तु त्वा सुष्टु॒तयो॒ गिरो॑ मे यू॒यं पा॑त स्व॒स्तिभिः॒ ॑ 
+> सदा नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वषट् । ते । विष्णो इति । आसः । आ । कृणोमि । तत् । मे । जुषस्व । शिपिऽविष्ट ।  
+> हव्यं ।  
+> वर्धंतु । त्वा । स्तुस्तु तयः । गिरः । मे । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्याख्यातेयं । अक्षरार्थस्तु । हे विष्णो तुभ्यमास्यादास्येन वषट्करोमि ।
+> वषट्कृतं तन्मदीयं हविर्हे शिपिविष्ट सेवस्व । शोभनस्तुतिरूपा मदीया वाचश्च
+> त्वां वर्धंतिति । शिष्टः पादः सिद्धः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says this Ṛk has already been explained. The literal sense is: O Viṣṇu, I make vaṣaṭ for you with my mouth; that oblation of mine, offered with vaṣaṭ, do you, O Śipiviṣṭa, enjoy; and my words, in the form of good praises, magnify you. The remaining pāda is established (by the earlier explanation).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विष्णो (*viṣṇo*)—O Viṣṇu
+- ते (*te*)—addressed to you
+- आ (*ā*)—around you
+- आसः (*āsaḥ*)—from my mouth
+- वषट् कृणोमि (*vaṣaṭ kṛṇomi*)—reciting the mantra with the vaṣaṭ-call, I offer the oblation
+- शिपिविष्ट (*śipiviṣṭa*)—O Viṣṇu, enveloped by rays
+- मे (*me*)—offered by me
+- तत् (*tat*)—and accompanied by vaṣaṭ
+- हव्यं (*havyaṃ*)—the oblation
+- जुषस्व (*juṣasva*)—enjoy
+- सुष्टुतयः (*suṣṭutayaḥ*)—consisting of excellent praises
+- मे गिरः (*me giraḥ*)—my words
+- त्वा (*tvā*)—you
+- वर्धंतु (*vardhaṃtu*)—may they make great and make grow (O gods, Viṣṇu and the rest)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Viṣṇu, addressing you, I recite the mantra from my mouth with the vaṣaṭ-call and offer the oblation around you. O Viṣṇu, enveloped by rays, enjoy the oblation offered by me and accompanied by vaṣaṭ. May my words, full of excellent praises, make you great and make you grow. O gods, Viṣṇu and the rest, protect us always with blessings.
+
+### Printed p. 203
+
+##### English translation
+I offer, Vishnu, the oblation placed before you with the exclamation Vashat; be pleased. Sipivishta, with my offering: may my laudatory hymns magnify you : and you (gods) ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+वषट् कृणोमि (*vaṣaṭ kṛṇomi*)—वषट् कारेण हविर्हावयामि । (*vaṣaṭ kāreṇa havirhāvayāmi |*) Reciting the mantra with the vaṣaṭ-call, I offer the oblation in the fire. What is vaṣaṭkāra here? Why is it to be recited? What are its nature and its sign? It is necessary to explain such matters here in detail. When oblations are to be offered in sacrifices and the like to the various gods, since those gods are not visible to us, people recite the mantras addressed to the respective gods and make the offering in the fire. In making the offering in this way they add at the end of the mantra the word svāhā or नौषट् (*nauṣaṭ*) **NOTE** and recite it as they offer. Certain rules must be followed before making the offering. First they recite mantras describing the qualities of the god to whom the oblation is to be given, hymns of praise addressed to that god. These mantras describing qualities are called śastra mantras and nivit mantras. Since the nivit mantra contains a special description of that god's qualities, the nivit mantra is inserted and recited in the middle of the śastra mantras. After this description of the qualities, the priest called Hotṛ invites the god, by another mantra, to come to the sacrificial ground. This invitation mantra is called anuvākyā or puronuvākyā. Then, supposing that the god has accepted the invitation, come to the sacrificial ground and seated himself on the darbha seat called बर्हिः (*barhiḥ*), the priest called Adhvaryu offers the oblation in the fire with another mantra. This mantra of offering is called yājyā. At the very end of this yājyā mantra they add the word svāhā or नौषट् (*nauṣaṭ*) and make the offering. To make this clear we give an example. In the present case, where the offering is to be made to Viṣṇu, the priest called Acchāvāka recites for the śastra mantras the sūkta addressed to Viṣṇu beginning नू मर्तो दयते (*nū marto dayate*) (the hundredth sūkta of this Maṇḍala). In the middle of these mantras he inserts and recites as nivit mantras some mantras praising Viṣṇu's qualities, that is, the three Ṛks beginning प्रतत्ते आद्य (*pratatte ādya*) (Ṛ. Saṃ. 7-100-5 to 7-100-7). Then, to invite Viṣṇu—
+
+न ते विष्णो जायमानो न जातो देव महिम्नः परमंतमाप । उदस्तभ्ना नाकमृष्टं बृहंतं दादर्थ प्राचीं ककुभं पृथिव्याः ॥ (*na te viṣṇo jāyamāno na jāto deva mahimnaḥ paramaṃtamāpa | udastabhnā nākamṛṣṭaṃ bṛhaṃtaṃ dādartha prācīṃ kakubhaṃ pṛthivyāḥ ‖*)
+(Ṛ. Saṃ. 7-99-2)
+
+### Printed p. 204
+this Ṛk is recited as the anuvākyā mantra in the animal offering, and the Hotṛ invites the god Viṣṇu. Then,
+
+त्रिर्देवः पृथिवीमेष एतां वि चक्रमे शतर्चसं महित्वा । प्र विष्णुरस्तु तवसस्तवीयान्तोषं ह्यस्य स्थविरस्य नाम ॥ (*trirdevaḥ pṛthivīmeṣa etāṃ vi cakrame śatarcasaṃ mahitvā | pra viṣṇurastu tavasastavīyāntoṣaṃ hyasya sthavirasya nāma ‖*)
+(Ṛ. Saṃ. 7-100-3)
+
+this Ṛk he recites as the yājyā mantra. After the words स्थविरस्य नाम (*sthavirasya nāma*) at the end of this mantra he adds the word वौषट् (*vauṣaṭ*) and, reciting स्थविरस्य नाम वौषट् (*sthavirasya nāma vauṣaṭ*), offers in the fire the part of the animal called vapā. This order must be followed when offering to every god; but the mantras differ for each god. Besides, the offering material is of many kinds: ghee, havis, puroḍāśa, vapā and so on; the mantras too differ accordingly. The mantras in the example given above belong only to the vapā offering. Likewise there are separate mantras for the puroḍāśa offering and for the havis offering. And different mantras have to be used in different sacrifices.
+Now what are the nature and the sign of vaṣaṭkāra? Why is it to be used at the end of the mantra? This has to be examined. On this matter, the detailed explanation given in the Aitareya Brāhmaṇa is what is explained here:
+
+देवपात्रं वा एतद्यद्वषट्कारो वषट्कारेति देवपात्रेणैव तद्देवतास्तर्पयति ॥ (*devapātraṃ vā etadyadvaṣaṭkāro vaṣaṭkāreti devapātreṇaiva taddevatāstarpayati ‖*)
+(Ai. Brā. 11-5)
+
+Now the nature of vaṣaṭkāra and anuvaṣaṭkāra will be explained. The word वौषट् (*vauṣaṭ*) recited at the end of the mantra when offering is called vaṣaṭkāra. When an oblation is offered to the gods for eating, one must, as is customary in worldly practice, offer it placed in a vessel or plate; placed in a vessel, it is convenient to eat. In the sacrifice, since the gods are invisible when they eat the oblation, the oblation reaches the gods by being offered in the fire, that is, the fire carries to the gods the oblation offered in it for them. How could the vessel holding the oblation be set before the gods at the offering? This is not possible. Therefore, instead of the vessel, the mantra itself is recited and is regarded as the vessel. The mantra वौषट् (*vauṣaṭ*) is this vessel. If at the end of the mantra one pronounces वौषट् (*vauṣaṭ*), it is as if the oblation offered with the mantra had been placed in a vessel so as to be convenient to eat
+
+### Printed p. 205
+and offered. Therefore the word वौषट् (*vauṣaṭ*) is the vessel serving the gods as a means of drinking. For this reason, that is, in order to satisfy the gods by offering the oblation in a vessel, the Hotṛ adds the word वौषट् (*vauṣaṭ*) at the end of the mantra, recites it and makes the offering. This is the meaning of the word vaṣaṭkāra. Now the meaning of anuvaṣaṭkāra will be explained:
+
+अनुवषट्करोति तद्यथादोऽश्वान्ना गा वा पुनरभ्याकारं तर्पयंत्येवमेवैतद्देवताः पुनरभ्याकारं तर्पयंति यदनुवषट्करोति .... .... .... ॥ (*anuvaṣaṭkaroti tadyathādo 'śvānnā gā vā punarabhyākāraṃ tarpayaṃtyevamevaitaddevatāḥ punarabhyākāraṃ tarpayaṃti yadanuvaṣaṭkaroti .... .... .... ‖*)
+(Ai. Brā. 11 5)
+
+In worldly practice people set grass and other food before horses, cows and other animals for them to eat, and caress them with endearing words. In the same way, since the oblation must be offered to the gods through the fire,
+
+अग्ने वीहि पुरोळाशमाहुतं तिरोआह्न्यं । सहसः सूनुरस्यध्वरे हितः ॥ (*agne vīhi puroḷāśamāhutaṃ tiroāhnyaṃ | sahasaḥ sūnurasyadhvare hitaḥ ‖*)
+(Ṛ. Saṃ. 3-28-3)
+
+or
+
+अग्ने वीहि हविषा यक्षि देवान्तस्वध्वरा कृणुहि जातवेदः । (*agne vīhi haviṣā yakṣi devāntasvadhvarā kṛṇuhi jātavedaḥ |*)
+(Ṛ. Saṃ. 7-17-3)
+
+this Ṛk is to be recited. This Ṛk, which means "O Agni, eat this havis or puroḍāśa, or drink this Soma juice; carry to the gods this oblation offered in you through the offering", is to be recited for the gratification of the gods. This is called anuvaṣaṭkāra.
+
+वज्रो ना एष यद्वषट्कारो यं द्विष्यात्तं ध्यायेद्वषट्करिष्यंस्तस्मिन्नेव तं वज्रमास्थापयति । (*vajro nā eṣa yadvaṣaṭkāro yaṃ dviṣyāttaṃ dhyāyedvaṣaṭkariṣyaṃstasminneva taṃ vajramāsthāpayati |*)
+(I. Bā. 11-6) **NOTE**
+
+Vaṣaṭkāra is a mighty weapon like the thunderbolt. If the sacrificer has an enemy and wishes to destroy him, then if, while making the offering with this vaṣaṭkāra, he offers it meditating in his mind "May that enemy be destroyed", the vaṣaṭkāra strikes that enemy like the blow of a thunderbolt and destroys him.
+
+षळिति वषट्करोति षड्वा ऋतनः ऋतूनेव तत्कल्पयत्यृतून्प्रतिष्ठापयत्यतून्वै प्रतितिष्ठत इदं सर्वमनु प्रतितिष्ठति यदिदं किंच ॥ (*ṣaḷiti vaṣaṭkaroti ṣaḍvā ṛtanaḥ ṛtūneva tatkalpayatyṛtūnpratiṣṭhāpayatyatūnvai pratitiṣṭhata idaṃ sarvamanu pratitiṣṭhati yadidaṃ kiṃca ‖*)
+
+In the word नौषट् (*nauṣaṭ*) the word षट् (*ṣaṭ*) is present. Here ṣaṭ means the six seasons.
+
 ---
 
-**Progress note:** Done through printed p. 198. pp. 193-198 (batch API)
+**Progress note:** Done through printed p. 205. pp. 199-205 (batch API)
