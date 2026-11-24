@@ -12,6 +12,8 @@ EDITS.tsv (tab separated, header line): page, target (en|kn), old, new, kind, ba
 An edit whose `old` is not found exactly once is NOT applied and is reported (result file EDITS.result.tsv: status applied|not_found|ambiguous|same).
 Nothing is guessed; the progress note at the end of the English file is never touched."""
 import re,sys,os,glob,csv,datetime
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
+import sp_sanskrit,recheck
 def main():
     a=sys.argv[1:]
     if len(a)<2: sys.exit(__doc__)
@@ -20,6 +22,7 @@ def main():
     en_ps=[en_p]+sorted(glob.glob(f'{d}/Rigveda_Samhita_Vol{vol}_*English_Translation.md')); en_ps=[p for i,p in enumerate(en_ps) if os.path.exists(p) and p not in en_ps[:i]]
     ENS={p:open(p,encoding='utf8').read() for p in en_ps}; KN=open(kn_p,encoding='utf8').read()
     src={p:open(p,encoding='utf8').read() for p in sorted(glob.glob(f'{d}/html/rig_*.md'))}
+    KNP,_=recheck.read_kn(kn_p)
     rows=list(csv.DictReader(open(ed,encoding='utf8'),delimiter='\t',quoting=csv.QUOTE_NONE)); res=[]; log=[]; fixes=[]; today=datetime.date.today().isoformat()
     def sections(t,pat,page):
         """all sections whose heading carries this page (a page may have two headings, e.g. a 'lower part'): list of (start, end)"""
@@ -30,6 +33,8 @@ def main():
     for r in rows:
         pg,tg,old,new=r['page'],r['target'],r['old'],r['new']; st='applied'
         if old==new: st='same'
+        elif tg=='en' and '--nogate' not in a and re.search('[\u0900-\u097f]',new) and sp_sanskrit.gate(KNP,int(pg) if pg.isdigit() else 0,new):
+            st='sanskrit_not_in_kannada'      # Devanagari that the Kannada of the page does not support: not applied, becomes a question
         elif tg=='en':
             hits=[]
             for ep,T in ENS.items():
@@ -56,7 +61,7 @@ def main():
     out=ed.replace('.tsv','.result.tsv')
     with open(out,'w',encoding='utf8') as f:
         f.write('page\ttarget\tstatus\told\n'); [f.write('\t'.join(x)+'\n') for x in res]
-    n=sum(1 for x in res if x[2]=='applied'); print(f'{len(rows)} edits: applied {n}; '+', '.join(f'{k} {sum(1 for x in res if x[2]==k)}' for k in ('not_found','ambiguous','same','bad_target') if any(x[2]==k for x in res)))
+    n=sum(1 for x in res if x[2]=='applied'); print(f'{len(rows)} edits: applied {n}; '+', '.join(f'{k} {sum(1 for x in res if x[2]==k)}' for k in ('not_found','ambiguous','same','bad_target','sanskrit_not_in_kannada') if any(x[2]==k for x in res)))
     if dry: return
     [open(p,'w',encoding='utf8').write(t) for p,t in ENS.items()]; open(kn_p,'w',encoding='utf8').write(KN)
     for p,t in src.items(): open(p,'w',encoding='utf8').write(t)

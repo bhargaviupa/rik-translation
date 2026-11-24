@@ -6050,11 +6050,11 @@ Even if an error occurs during the yajna, the whole rite need not be considered 
 
 ### Page 360
 
-...The yajna's mind-form consists in determining, through speech-based deliberation, that ritual acts must be performed exactly thus (as prescribed by the shastras) and then acting accordingly; the yajna's speech-form consists in reciting the mantras and performing the corresponding external acts. Of these, the mind-form is the more essential and superior. The Brahma priest determines and rectifies this mind-form himself; the other priests — Hotr, Adhvaryu, and Udgatr — carry out the yajna's speech-form through their mantras. Since the yajna's principal component (its mind-form) is settled and corrected by the Brahma alone, his capability in the yajna exceeds that of all the others.
+...The yajna's mind-form consists in determining in the mind that ritual acts must be performed exactly thus (as prescribed by the shastras) and then acting accordingly; the yajna's speech-form consists in reciting the mantras and performing the corresponding external acts. Of these, the mind-form is the more essential and superior. The Brahma priest determines and rectifies this mind-form himself; the other priests — Hotr, Adhvaryu, and Udgatr — carry out the yajna's speech-form through their mantras. Since the yajna's principal component (its mind-form) is settled and corrected by the Brahma alone, his capability in the yajna exceeds that of all the others.
 
 **Yaska now explains the fourth and final quarter of the verse:**
 
-> अथ चतुर्थं पादं विवृणोति—'यज्ञस्य मात्रां विमिमीत एकोऽध्वर्युरध्वरस्य रयिं अध्वरस्य युनक्त्यध्वरस्य नेतेति' । अस्यायमर्थः—अध्वर्युनामक एक ऋत्विग् यज्ञस्य मात्रां स्वरूपं विशेषेण निष्पादयति । मात्र्यते इति मात्रा, स्वरूपम् । तस्य स्वरूप्यं चाध्वर्यो...
+> अथ चतुर्थं पादं विवृणोति—'यज्ञस्य मात्रां विमिमात एकोऽध्वर्युरध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेतेति' । अस्यायमर्थः—अध्वर्युनामक एक ऋत्विग् यज्ञस्य मात्रां स्वरूपं विशेषेण निष्पादयति । मात्र्यते इति मात्रा, स्वरूपम् । तस्य स्वरूप्यं चाध्वर्यो...
 >
 > *(Yaska's etymological gloss identifying the Adhvaryu priest as the one who specially "measures out" — constructs — the essential form of the yajna; "mātrā" meaning that which is measured/constructed, deriving from the root "mā.")*
 
@@ -6087,13 +6087,13 @@ Yaska further demonstrates this same idea:
 > मन्त्रा मननाच् छन्दांसि च्छादनाच् च स्तोमः स्तवनाच् च यजुर् यजनेर् इति ।
 > *mantrā mananāc chandāṃsi cchādanāc ca stomaḥ stavanāc ca yajur yajaner iti |*
 >
-> "'Mantra' [derives] from manana (thinking/reflection); 'Chandas' from chādana (covering); 'Stoma' from stavana (praising); and 'Yajus' from yajana (sacrificing)."
+> "'Mantra' [derives] from manana (thinking/reflection); 'Chandas' from chādana (covering); 'Stoma' from stavana (praising); and 'Yajus' from yajati (to sacrifice)."
 
 ### The Culminating Conclusion
 
-> एवं सत्यध्वर्युसंबन्धि यजुर्वेदे निष्पन्नं यज्ञशरीरमुपजीव्य शेषभूता स्तोत्रशस्त्ररूपा सानगाथा इतरेण वेद...
+> एवं सत्यध्वर्युसंबन्धि यजुर्वेदे निष्पन्नं यज्ञशरीरमुपजीव्य तदपेक्षितौ स्तोत्रशस्त्ररूपावयवावितरेण वेद...
 >
-> एवं सत्य् अध्वर्यु-संबन्धि यजुर्वेदे निष्पन्नं यज्ञ-शरीरम् उपजीव्य शेष-भूता स्तोत्र-शस्त्र-रूपा सानगाथा इतरेण वेद...
+> एवं सत्य् अध्वर्यु-संबन्धि यजुर्वेदे निष्पन्नं यज्ञ-शरीरम् उपजीव्य तद्-अपेक्षितौ स्तोत्र-शस्त्र-रूपावयवाव् इतरेण वेद...
 > *evaṃ saty adhvaryu-saṃbandhi yajurvede niṣpannaṃ yajña-śarīram upajīvya śeṣa-bhūtā stotra-śastra-rūpā sānagāthā itareṇa veda...*
 >
 > "Thus it being established that the yajna's own body is formed specifically within the Yajurveda, connected to the Adhvaryu — the remaining elements, in the form of hymn (stotra) and recitation (shastra), are supplied by the other Vedas..."
@@ -6132,16 +6132,16 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 
 ## The Rigveda-Bhashya Proper Begins: A Logical Challenge to the Veda's Very Existence
 
-> लक्षणप्रमाणाभ्यां वेदस्यावधारण इति पूर्वे पक्षे—
+> लक्षणप्रमाणराहित्याद्वेदस्यासद्भाव इति पूर्वः पक्षः
 >
-> *lakṣaṇa-pramāṇābhyāṃ vedasyāvadhāraṇa iti pūrve pakṣe—*
+> *lakṣaṇa-pramāṇa-rāhityād vedasyāsadbhāva iti pūrvaḥ pakṣaḥ*
 >
-> "In the objection concerning the determination of the Veda through definition and proof—"
+> "The objection that the Veda does not exist, for it lacks definition and proof—"
 
-> ननु वेद एव तावन्नास्ति । कुतस्तदवान्तरभेद ऋग्वेदः ? तथा हि । कोऽयं वेदो नाम ? न हि तत्र लक्षणं प्रमाणं वास्ति । न च तदुभयमृते किंचित्सिध्यति । लक्षणप्रमाणाभ्यां हि वस्तुसिद्धिरिति न्यायविदां मतम् ॥
+> ननु वेद एव तावन्नास्ति । कुतस्तदवान्तरभेद ऋग्वेदः ? तथा हि । कोऽयं वेदो नाम ? न हि तत्र लक्षणं प्रमाणं नास्ति । न च तदुभयव्यतिरेकेण किंचिद्वस्तु प्रसिध्यति । लक्षणप्रमाणाभ्यां हि वस्तुसिद्धिरिति न्यायविदां मतम् ॥
 >
-> ननु वेद एव तावन् नास्ति । कुतस् तद्-अवान्तर-भेद ऋग्वेदः । तथा हि । कोऽयं वेदो नाम । न हि तत्र लक्षणं प्रमाणं वास्ति । न च तद्-उभयम् ऋते किंचित् सिध्यति । लक्षण-प्रमाणाभ्यां हि वस्तु-सिद्धिर् इति न्याय-विदां मतम् ॥
-> *nanu veda eva tāvan nāsti | kutas tad-avāntara-bheda ṛgvedaḥ | tathā hi | ko'yaṃ vedo nāma | na hi tatra lakṣaṇaṃ pramāṇaṃ vāsti | na ca tad-ubhayam ṛte kiṃcit sidhyati | lakṣaṇa-pramāṇābhyāṃ hi vastu-siddhir iti nyāya-vidāṃ matam ||*
+> ननु वेद एव तावन् नास्ति । कुतस् तद्-अवान्तर-भेद ऋग्वेदः । तथा हि । कोऽयं वेदो नाम । न हि तत्र लक्षणं प्रमाणं नास्ति । न च तद्-उभय-व्यतिरेकेण किंचिद् वस्तु प्रसिध्यति । लक्षण-प्रमाणाभ्यां हि वस्तु-सिद्धिर् इति न्याय-विदां मतम् ॥
+> *nanu veda eva tāvan nāsti | kutas tad-avāntara-bheda ṛgvedaḥ | tathā hi | ko'yaṃ vedo nāma | na hi tatra lakṣaṇaṃ pramāṇaṃ nāsti | na ca tad-ubhaya-vyatirekeṇa kiṃcid vastu prasidhyati | lakṣaṇa-pramāṇābhyāṃ hi vastu-siddhir iti nyāya-vidāṃ matam ||*
 >
 > "Objection: The Veda itself does not exist at all — how then can there be a subdivision of it called the Rigveda? Consider: what is this thing called 'Veda'? Neither a definition (lakṣaṇa) nor a proof (pramāṇa) of it exists. And without both of these, nothing whatsoever can be established — for it is the settled view of logicians (Naiyayikas) that the establishment of any entity requires both definition and proof."
 
@@ -6161,19 +6161,19 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 
 **First attempted definition, and its refutation:**
 
-> प्रत्यक्षानुमानागमेषु प्रमाणाविशेषेण किमो वेद इति तल्लक्षणमिति चेन्न, मनुस्मादिस्मृतिष्वातिव्याप्तेः । समयबलेन सम्यगदृष्टानुभवसाधनसमिति अस्यागमलक्षणस्य तास्स्वपि सद्भावात् ।
+> प्रत्यक्षानुमानागमेषु प्रमाणाविशेषेण किमो वेद इति तल्लक्षणमिति चेन्न, मन्वादिस्मृतिष्वतिव्याप्तेः । समयबलेन सम्यक्परोक्षानुभवसाधनमित्येतस्यागमलक्षणस्य तास्वपि सद्भावात् ।
 >
-> प्रत्यक्षानुमानागमेषु प्रमाणाविशेषेण किम् एष वेद इति तल्-लक्षणम् इति चेन् न, मन्व्-आदि-स्मृतिष्व् अतिव्याप्तेः । समय-बलेन सम्यग्-अदृष्टानुभव-साधन-समितिः अस्यागम-लक्षणस्य तास्व् अपि सद्भावात् ।
-> *pratyakṣānumānāgameṣu pramāṇāviśeṣeṇa kim eṣa veda iti tal-lakṣaṇam iti cen na, manv-ādi-smṛtiṣv ativyāpteḥ | samaya-balena samyag-adṛṣṭānubhava-sādhana-samitiḥ asyāgama-lakṣaṇasya tāsv api sadbhāvāt |*
+> प्रत्यक्षानुमानागमेषु प्रमाणाविशेषेण किम् एष वेद इति तल्-लक्षणम् इति चेन् न, मन्व्-आदि-स्मृतिष्व् अतिव्याप्तेः । समय-बलेन सम्यक्-परोक्षानुभव-साधनम् इत्य् एतस्यागम-लक्षणस्य तास्व् अपि सद्भावात् ।
+> *pratyakṣānumānāgameṣu pramāṇāviśeṣeṇa kim eṣa veda iti tal-lakṣaṇam iti cen na, manv-ādi-smṛtiṣv ativyāpteḥ | samaya-balena samyak-parokṣānubhava-sādhanam ity etasyāgama-lakṣaṇasya tāsv api sadbhāvāt |*
 >
 > "If you say that, among the three valid means of knowledge — perception, inference, and revealed word (āgama) — the Veda is defined as the last of these, we reply: no. This over-extends to the Smritis of Manu and others as well, since the accepted definition of 'āgama' — 'that which serves as the means for correctly apprehending what is unseen (adṛṣṭa)' — applies equally to those Smritis."
 
 **Second attempted definition, and its refutation:**
 
-> अपौरुषेयत्वे सतीति विशेषणादोष इति चेन्न, वेदस्यापि परमेश्वरनिर्मितत्वेन पौरुषेयत्वात् ।
+> अपौरुषेयत्वे सतीति विशेषणाददोष इति चेन्न, वेदस्यापि परमेश्वरनिर्मितत्वेन पौरुषेयत्वात् ।
 >
-> अपौरुषेयत्वे सतीति विशेषणाद् दोष इति चेन् न, वेदस्यापि परमेश्वर-निर्मितत्वेन पौरुषेयत्वात् ।
-> *apauruṣeyatve satīti viśeṣaṇād doṣa iti cen na, vedasyāpi parameśvara-nirmitatvena pauruṣeyatvāt |*
+> अपौरुषेयत्वे सतीति विशेषणाद् अदोष इति चेन् न, वेदस्यापि परमेश्वर-निर्मितत्वेन पौरुषेयत्वात् ।
+> *apauruṣeyatve satīti viśeṣaṇād adoṣa iti cen na, vedasyāpi parameśvara-nirmitatvena pauruṣeyatvāt |*
 >
 > "If you say that adding the qualifier 'provided it is non-human in origin (apauruṣeya)' removes this flaw, we reply: no. For the Veda too, having been made by Parameshvara (the Supreme Person), is thereby of personal/human origin (pauruṣeya)."
 
@@ -6205,7 +6205,7 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 Regarding the three proofs of knowledge — perception (**प्रत्यक्ष** *pratyakṣa*), inference (**अनुमान** *anumāna*), and revealed word (**आगम** *āgama*) — even if the last of these, "āgama," is proposed as the Veda's defining mark, this fails: since Manu's and other Smritis also possess this same "āgama" quality, the flaw of over-extension (**अतिव्याप्ति** *ativyāpti*) results, since they too would have to count as "Veda." A sound definition (**लक्षण** *lakṣaṇa*) must avoid three classical flaws:
 
 - **अतिव्याप्ति** (*ativyāpti*, over-extension): the stated mark applies to other things too (e.g., defining milk as "that which is white" also catches lime).
-- **अव्याप्ति** (*avyāpti*, under-extension): the stated mark fails to cover part of the intended thing (e.g., defining horses by "red color" excludes horses of other colors).
+- **अव्याप्ति** (*avyāpti*, under-extension): the stated mark fails to cover part of the intended thing (e.g., defining horses by "white color" excludes horses of other colors).
 - **असंभव** (*asambhava*, impossibility): stating a quality the thing doesn't actually possess at all.
 
 Whatever definition of "Veda" one proposes free of these three flaws will, since Manu's and similar Smritis share the same "āgama" quality, still fall into ativyāpti. The characteristic of being "āgama" therefore cannot serve as the Veda's true defining mark.
@@ -6245,12 +6245,12 @@ If, finally, you propose that "apauruṣeyatva" (non-human origin) itself simply
 >
 > "Nor do we see any proof of its existence either. If you say that a statement such as 'O Lord, I study the Rigveda, the Yajurveda, the Samaveda, and the fourth, the Atharvana' (Chandogya Upanishad 7-1-2) serves as proof — we reply: no. Since that very statement, being itself contained within the Veda, falls into the fallacy of self-dependence (ātmāśraya). Indeed, no one, however skilled, can climb upon his own shoulder."
 
-> वेद एव द्विजातीनां निःश्रेयसकरः पर इत्यादिस्मृतिवाक्यं प्रमाणमिति चेन्न, तस्याप्यश्रुतिमूलत्वेन निराकृतत्वात् । प्रत्यक्षादिकं शंकितुमप्ययोग्यम् । वेदविषया तु लोकप्रसिद्धिः सार्वजनीनापि नीलं नभ इत्यादिवच्च । तस्माल्लक्षणप्रमाणरहितस्य वेदस्य सद्भावे नांगीकार्यं शक्यते इति पूर्वः पक्षः ॥
+> वेद एव द्विजातीनां निःश्रेयसकरः पर इत्यादिस्मृतिवाक्यं प्रमाणमिति चेन्न, तस्याप्युक्तश्रुतिमूलत्वेन निराकृतत्वात् । प्रत्यक्षादिकं शंकितुमप्ययोग्यम् । वेदविषया तु लोकप्रसिद्धिः सार्वजनीनापि नीलं नभ इत्यादिवच्च । तस्माल्लक्षणप्रमाणरहितस्य वेदस्य सद्भावो नांगीकर्तुं शक्यत इति पूर्वः पक्षः ॥
 >
-> वेद एव द्विजातीनां निःश्रेयसकरः पर इत्य् आदि-स्मृति-वाक्यं प्रमाणम् इति चेन् न, तस्याप्य् अश्रुति-मूलत्वेन निराकृतत्वात् । प्रत्यक्षादिकं शङ्कितुम् अप्य् अयोग्यम् । वेद-विषया तु लोक-प्रसिद्धिः सार्वजनीनापि नीलं नभ इत्य् आदि-वच् च । तस्माल् लक्षण-प्रमाण-रहितस्य वेदस्य सद्भावे नाङ्गीकार्यं शक्यत इति पूर्वः पक्षः ॥
-> *veda eva dvijātīnāṃ niḥśreyasakaraḥ para ity ādi-smṛti-vākyaṃ pramāṇam iti cen na, tasyāpy aśruti-mūlatvena nirākṛtatvāt | pratyakṣādikaṃ śaṅkitum apy ayogyam | veda-viṣayā tu loka-prasiddhiḥ sārvajanīnāpi nīlaṃ nabha ity ādi-vac ca | tasmāl lakṣaṇa-pramāṇa-rahitasya vedasya sadbhāve nāṅgīkāryaṃ śakyata iti pūrvaḥ pakṣaḥ ||*
+> वेद एव द्विजातीनां निःश्रेयसकरः पर इत्य् आदि-स्मृति-वाक्यं प्रमाणम् इति चेन् न, तस्याप्य् उक्त-श्रुति-मूलत्वेन निराकृतत्वात् । प्रत्यक्षादिकं शङ्कितुम् अप्य् अयोग्यम् । वेद-विषया तु लोक-प्रसिद्धिः सार्वजनीनापि नीलं नभ इत्य् आदि-वच् च । तस्माल् लक्षण-प्रमाण-रहितस्य वेदस्य सद्भावो नाङ्गीकर्तुं शक्यत इति पूर्वः पक्षः ॥
+> *veda eva dvijātīnāṃ niḥśreyasakaraḥ para ity ādi-smṛti-vākyaṃ pramāṇam iti cen na, tasyāpy ukta-śruti-mūlatvena nirākṛtatvāt | pratyakṣādikaṃ śaṅkitum apy ayogyam | veda-viṣayā tu loka-prasiddhiḥ sārvajanīnāpi nīlaṃ nabha ity ādi-vac ca | tasmāl lakṣaṇa-pramāṇa-rahitasya vedasya sadbhāvo nāṅgīkartuṃ śakyata iti pūrvaḥ pakṣaḥ ||*
 >
-> "If you say that a Smriti-statement such as 'the Veda alone is the supreme means of ultimate good for the twice-born' serves as proof — we reply: no. Since this too, being rooted in Shruti itself, is rejected for the same reason. Perception and similar means aren't even worth considering here. As for the Veda's popular renown among people — however universal, it is like the common expression 'the sky is blue' [mere convention, not genuine proof]. Therefore, the existence of a Veda lacking both definition and proof cannot be accepted. — Thus concludes the objection (pūrvapakṣa)."
+> "If you say that a Smriti-statement such as 'the Veda alone is the supreme means of ultimate good for the twice-born' serves as proof — we reply: no. Since this too, being rooted in Shruti itself, is rejected for the same reason. Perception and similar means aren't even worth considering here. As for the Veda's popular renown among people — however universal, it is like the common expression 'the sky is blue' [a mistaken notion]. Therefore, the existence of a Veda lacking both definition and proof cannot be accepted. — Thus concludes the objection (pūrvapakṣa)."
 
 **This concludes the objection (purva-paksha).** Sayana's own resolution follows next.
 
@@ -6270,8 +6270,8 @@ If, finally, you propose that "apauruṣeyatva" (non-human origin) itself simply
 
 ...we see no proof at all that those Vedas exist. If it's argued that the statement—
 
-> ऋग्वेदं भगवोऽध्येष्मि यजुर्वेदं सामवेदमाथर्वणं चतुर्थम् ।
-> *ṛgvedaṃ bhagavo'dhyeṣmi yajurvedaṃ sāmavedam ātharvaṇaṃ caturtham |* (Chandogya Upanishad 7-1-2)
+> ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथर्वणं चतुर्थम् ।
+> *ṛgvedaṃ bhagavo'dhyemi yajurvedaṃ sāmavedam ātharvaṇaṃ caturtham |* (Chandogya Upanishad 7-1-2)
 >
 > "O Lord, I now study the Rigveda, the Yajurveda, the Samaveda, and the fourth, the Atharvaveda"
 
@@ -6298,7 +6298,7 @@ When examining any subject, pointing out its flaws and objections through carefu
 
 ...-paksha, siddhanta, and related components together form what is called an "adhikarana." Its definition:
 
-> विषयोऽविषयश्चेति पूर्वसंपक्षिस्फोत्तरं । निर्णयश्चेति संबद्धं शास्त्रेऽधिकरणं मतम् ॥
+> विषयोऽविषयश्चेति पूर्वपक्षस्तथोत्तरं । निर्णयश्चेति पञ्चाङ्गं शास्त्रेऽधिकरणं मतम् ॥
 >
 > "Subject-matter and doubt, together with the objection and its answer, and the determination — this combination is considered an 'adhikarana' in the shastras."
 
@@ -6306,10 +6306,10 @@ That is: an adhikarana comprises five distinct parts — the subject-matter (vis
 
 ### The Resolution (Uttara-Paksha) Begins: Determining the Veda's Definition and Proof
 
-> अत्रोच्यते । मन्त्रब्राह्मणात्मकत्वं तावददुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञपरिभाषायामाह । मन्त्रब्राह्मणयोर्वेदनामधेयमिति (आ. प. ३१) । तयोस्तु स्वरूपविवेचने...
+> अत्रोच्यते । मन्त्रब्राह्मणात्मकत्वं तावददुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञपरिभाषायामाह । मन्त्रब्राह्मणयोर्वेदनामधेयमिति (आ. प. ३१) । तयोस्तु स्वरूपमुपरिष्टान्निर्णेष्यते
 >
-> अत्रोच्यते । मन्त्र-ब्राह्मणात्मकत्वं तावद् अदुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञ-परिभाषायाम् आह । मन्त्र-ब्राह्मणयोर् वेद-नामधेयम् इति (आपस्तम्ब यज्ञ-परिभाषा ३१) । तयोस् तु स्वरूप-विवेचने...
-> *atrocyate | mantra-brāhmaṇātmakatvaṃ tāvad aduṣṭaṃ lakṣaṇam | ata evāpastambo yajña-paribhāṣāyām āha | mantra-brāhmaṇayor veda-nāmadheyam iti (Āpastamba Yajña-paribhāṣā 31) | tayos tu svarūpa-vivecane...*
+> अत्रोच्यते । मन्त्र-ब्राह्मणात्मकत्वं तावद् अदुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञ-परिभाषायाम् आह । मन्त्र-ब्राह्मणयोर् वेद-नामधेयम् इति (आपस्तम्ब यज्ञ-परिभाषा ३१) । तयोस् तु स्वरूपम् उपरिष्टान् निर्णेष्यते
+> *atrocyate | mantra-brāhmaṇātmakatvaṃ tāvad aduṣṭaṃ lakṣaṇam | ata evāpastambo yajña-paribhāṣāyām āha | mantra-brāhmaṇayor veda-nāmadheyam iti (Āpastamba Yajña-paribhāṣā 31) | tayos tu svarūpam upariṣṭān nirṇeṣyate*
 >
 > "To this we reply: the definition of the Veda as consisting of mantras and brahmanas is, in fact, faultless. This is precisely why Apastamba, in his Yajña-paribhāṣā, states: 'The name Veda applies to the mantras and the brahmanas' (Apastamba Yajña-paribhasha 31). As for determining the precise nature of each of these..."
 

@@ -1,0 +1,2 @@
+batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
+pilot	360	369	73	52	31	0	21	169k	@C@	2026-11-24	pilot; 52 edits first applied, then 21 Devanagari edits (and 6 IAST partners) reverted by the new sp_sanskrit gate, 6 re-applied after the word-join refinement: net 31 English edits stand; 15 citation lines are questions; English not page-aligned to the Kannada on these pages (judged by content)
