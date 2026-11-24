@@ -9675,6 +9675,197 @@ May the frog गोमायुः (*gomāyuḥ*), whose cry is like a cow's, gi
 - पृश्निः (*pṛśniḥ*)—the frog that has variety of colours
 - हरितः (*haritaḥ*)—
 
+### Printed p. 240
+**Pratipadārtha** (continued)
+- *haritaḥ*—the green-coloured frog
+- अदात् (*adāt*)—may it provide us wealth
+- सहस्रसावे (*sahasrasāve*)—in the rainy season, which brings forth thousands of plants and the like
+- मंडूकाः (*maṃḍūkāḥ*)—frogs
+- गवां (*gavāṃ*)—of cows
+- शतानि (*śatāni*)—hundreds
+- ददतः (*dadataḥ*)—giving
+- आयुः (*āyuḥ*)—our life
+- प्रति तिरंते (*prati tiraṃte*)—may they increase
+
+##### भावार्थ (Bhāvārtha)
+
+May the frog that croaks like a cow and the frog that croaks like a goat fill us with wealth. May the frog of varied colours and the green frog provide us wealth. In the rainy season, which brings forth thousands of kinds of plants and the like, may the frogs, giving hundreds of cows, increase our life.
+
+##### English translation
+May the cow-toned, the goat-toned, the speckled, the green (frog, severally) grant us riches ! May the frogs in the fertilizing (season of the rain), bestowing upon us hundreds of cows, prolong (our) lives !
+
+##### विशेषविषयगळु (Special Topics)
+
+The supplementary mantra to be recited at the end of this sūkta is:
+उपप्लवत मंडूकि वर्षमा वद तादुरि । मध्ये प्रदस्य प्लवस्व निगृह्य चतुरः पदः ॥ (*upaplavata maṃḍūki varṣamā vada tāduri | madhye pradasya plavasva nigṛhya caturaḥ padaḥ ‖*)
+Yāska has given an explanation of this supplementary mantra:
+उप प्रवद मंडूकि वर्ष मा वद तादुरि । मध्ये ह्रदस्य प्लवस्य विगृह्य चतुरः पदः । इति सा निगदव्याख्याता ॥ (*upa pravada maṃḍūki varṣa mā vada tāduri | madhye hradasya plavasya vigṛhya caturaḥ padaḥ | iti sā nigadavyākhyātā ‖*) (Ni. 9-7)
+"O frog, come near me, and swimming in the water, pray that rain may come. In the middle of this lake, spreading your four legs, keep swimming." This is the main sense of the mantra.
+
+### Printed p. 241
+## Sūkta 104 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रासोमेति पंचविंशत्यृचं पंचदशं सूक्तं वसिष्ठस्यार्षं । आद्याः
+> षड्गतैः सप्तमी जगती त्रिष्टुब्बाष्टादश्येकविंशीत्रयोनिंश्यो जगत्योऽन्ता प्रति
+> चक्ष्वेत्यनुष्टुप् शिष्टाश्चतुर्दश त्रिष्टुभः । नवमीद्वादशीत्रयोदश्यः सोमदेवत्या
+> एकादशी देवदेवत्याष्टमीषोडश्याविंद्रदेवताके सप्तदशी ग्रावदेवत्याष्टादशी
+> मरुद्देवताका दशमीचतुर्दश्यावग्नि देवताके प्र वर्तयेत्याद्याः पंचर्च इंद्रदेवताकाः । मा नो रक्ष इति त्रयोनिंशाः पूर्वोऽर्धर्चो वसिष्ठस्य प्रार्थनापरः । अतस्तद्देवताकः । उत्तरोऽर्धर्चः पृथिव्यंतरिक्षदेवत्यः । शिष्टानां रक्षोहणानिंद्रासोमौ देवता । तथा चानुक्रांतं । इंद्रासोमा पंचाधिकैंद्रासोमं
+> राक्षोघ्नं शापाभिशापप्रायं षट् सप्त वाद्या जगत्त एकविंशीत्रयोनिंश्य चाष्टादशी मारुती च दशमीचतुर्दश्यावाग्नेय्य दैव्येकादश्यंत्यानुषुम्नवमी द्वादशी
+> त्रयोदशी सौम्यः सप्तदशी ग्राव्यष्टमीषोळश्यावैंद्रौ प्र वर्तयेति पंचैंद्रो मा नो रक्ष इत्यृषेरात्मन आशीरुत्तरोऽर्धर्चः पृथिव्यंतरिक्षदेवत इति ॥
+> अत्र बृहद्देवतायामनुक्रम्यते । संवत्सरं तु मंडूकान्यॆंद्रासोमं परं तु
+> यत् । ऋषिर्ददर्श रक्षोघ्नं पुत्रशोकपरिप्लुतः । हते पुत्रशते क्रुद्धः सौदासैर्दुःखितस्तदा । बृ. ६-८३७-८४३ । इति ॥ अतो रक्षोनिबर्हणार्थमेतत्तूक्तं
+> जाप्यं ॥
+
+##### Gist of the bhāṣya
+
+The sūkta इंद्रासोम (*iṃdrāsoma*) has twenty-five Ṛks and is the fifteenth sūkta; its seer is Vasiṣṭha. The first six verses are in Jagatī; the seventh is Jagatī or Triṣṭubh; the eighteenth, twenty-first and twenty-third are Jagatī; the last, प्रति चक्ष्व (*prati cakṣva*), is Anuṣṭubh; the remaining fourteen are Triṣṭubh. Verses 9, 12, 13 have Soma as deity; 11 the Devas; 8 and 16 Indra; 17 the pressing-stones; 18 the Maruts; 10 and 14 Agni; the five beginning प्र वर्तय (*pra vartaya*) have Indra. In the verse मा नो रक्ष (*mā no rakṣa*) (23) the first half is Vasiṣṭha's prayer and so has him as deity, the latter half has Earth and Atmosphere; for the remaining verses the deities are Indra and Soma as slayers of Rakṣas. He cites the Anukramaṇī to the same effect. He also cites the Bṛhaddevatā (6-837–843): the seer, struck by grief for his sons, who had been killed by the sons of Sudās, saw in anger and sorrow the sūkta संवत्सरं (*saṃvatsaraṃ*) and this Rakṣas-destroying Indra-Soma sūkta. Hence this sūkta is to be muttered (japa) for destroying Rakṣases.
+
+##### Anuvāda (Kannada)
+
+This sūkta इंद्रासोमा (*iṃdrāsomā*) is the fifteenth in the sixth anuvāka, with twenty-five Ṛks. Vasiṣṭha is the seer. The first six Ṛks are Jagatī; the seventh Jagatī or Triṣṭubh; the eighteenth, twenty-first and twenty-third are Jagatī; the last Ṛk, प्रतिचक्ष्व (*praticakṣva*), is Anuṣṭubh; the other fourteen are Triṣṭubh. The ninth, twelfth and thirteenth have Soma as deity. The eleventh has the Devas; the eighth and sixteenth Indra; the seventeenth the Grāvāṇaḥ, the stones that crush the soma plant; the eighteenth the Maruts; the tenth and fourteenth Agni; the five beginning प्र वर्तय (*pra vartaya*) (19–22, 24) Indra. Since the first half of the twenty-third Ṛk, मा नो रक्ष (*mā no rakṣa*), holds Vasiṣṭha's prayer, Vasiṣṭha himself is its deity; the latter half has Earth and Atmosphere; the remaining Ṛks have Indra and Soma, the slayers of Rakṣases, as deities. In the Anukramaṇī—इंद्रा- (*iṃdrā-*)
+
+### Printed p. 242
+(continuing) The Anukramaṇī passage, as quoted in Sanskrit, is stated in full in the book: सोमा पंचाधिकैंद्रासोमं राक्षोघ्नं शापाभिशापप्रायं षट् सप्त वाद्या जगत्त एकविंशीत्रयोनिंश्य चाष्टादशी मारुती च दशमीचतुर्दश्यावाग्नेय्य दैव्येकादश्यंत्यानुषुम्नवमी द्वादशी त्रयोदशी सौम्यः सप्तदशी ग्राव्यष्टमीषोळश्यावैंद्रौ प्र वर्तयेति पंचैंद्रो मा नो रक्ष इत्यृषेरात्मन आशीरुत्तरोऽर्धर्चः पृथिव्यंतरिक्षदेवत इ (*somā paṃcādhikaiṃdrāsomaṃ rākṣoghnaṃ śāpābhiśāpaprāyaṃ ṣaṭ sapta vādyā jagatta ekaviṃśītrayoniṃśya cāṣṭādaśī mārutī ca daśamīcaturdaśyāvāgneyya daivyekādaśyaṃtyānuṣumnavamī dvādaśī trayodaśī saumyaḥ saptadaśī grāvyaṣṭamīṣoḷaśyāvaiṃdrau pra vartayeti paṃcaiṃdro mā no rakṣa ityṛṣerātmana āśīruttaro 'rdharcaḥ pṛthivyaṃtarikṣadevata i*). In the Bṛhaddevatā, the work stated by Śaunaka, it is said of this sūkta: when the hundred sons of Vasiṣṭha were slain by the sons of Sudās, the sage Vasiṣṭha, filled with anger, grief and sorrow for his sons, saw and knew by divine vision the sūkta संवत्सरं (*saṃvatsaraṃ*) and this Rakṣas-destroying sūkta इंद्रासोमा (*iṃdrāsomā*); that is, these sūktas became visible to Vasiṣṭha, and he became the seer of them. Therefore those who seek relief from the harassment of Rakṣases should mutter this sūkta.
+
+##### Particulars
+
+Sūkta 104. Maṇḍala 7, Anuvāka 6, Sūkta 104. Aṣṭaka 5, Adhyāya 7, Vargas 5, 6, 7, 8, 9. Number of Ṛks in the sūkta: 25.
+Seer: Vasiṣṭha.
+Deity: 1–7, 15, 25 Indra and Soma as slayers of Rakṣas; 8, 16, 19–22, 24 Indra; 9, 12, 13 Soma; 10, 14 Agni; 11 the Devas; 17 the Grāvāṇaḥ; 18 the Maruts; 23 first half Vasiṣṭha; 23 latter half Earth and Atmosphere.
+Metre: 1–6, 18, 21, 23 Jagatī; 7 Triṣṭubh or Jagatī; 8–17, 19, 20, 22, 24 Triṣṭubh; 25 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा॒ तप॑तं॒ रक्ष॑ उ॒ब्बतं॒ न्य॑र्पयतं वृषणा तमो॒वृधः॑ ।  
+> परा॑ शृणीतम॒चितो॒ न्यू॑षतं ह॒तं नु॒देथां॒ नि शि॑शीतम॒त्रिणः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । तपतं । रक्षः । उब्बतं । नि । अर्पयतं । वृषणा । तमःऽवृधः ।
+
+### Printed p. 243
+
+> परा । शृणीतं । अचितः । नि । ओषतं । हतं । नुदेथां । नि । शिशीतं । अत्रिणः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रासोमा । इंद्रश्च सोमश्चेंद्रासोमा ॥ देवताद्वंद्व चेति
+> पूर्वपदस्यानज् । आमंत्रिताद्युदात्तत्वं ॥ रक्षो रक्षांसि ॥ जातावेकवचनं ॥ युवां तपतं । संतापयतं ॥ आमंत्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्त्वात्
+> तपतमिति तिजंतस्य निघाताभावः ॥ तथोब्बतं । हिंसतं ॥ उब्जतिर्हिंसाकर्मा । तिजः
+> परत्वान्निघाताभावः ॥ हे वृषणा वृषणौ कामानां वर्षितारौ न्यर्पयतं । रक्षांसि
+> नीचैष्ट्यं प्रापयतं । तमोवृधस्तमसावरकेणांधकारेण मायारूपेण वर्धमानान् तमसि रात्रौ वर्धमानान्वाचितो ज्ञानरहितान्मूढान्राक्षसान् परा शृणीतं ।
+> पराङ्मुखा यथा भवंति तथा हिंस्तं । तथा न्यूषतं । नितरां दहतं ॥ उष दाहे ॥
+> हतं । तान्यारयतं । नुदेथां । अस्मत्तो हतांस्तान् प्रेरयेथां । अत्रिणोदनशीलांस्तान्राक्षसान्नि शिशीतं । नितरां तनूकुरुतं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra and Soma": इंद्रासोमा (*iṃdrāsomā*) is a dvandva of deities. रक्षः (*rakṣaḥ*) is Rakṣases, singular in the generic sense. तपतं (*tapataṃ*): you two, scorch them. उब्बतं (*ubbataṃ*): destroy; the root उब्ज (*ubja*) means harming. वृषणा (*vṛṣaṇā*): O showerers of desires. न्यर्पयतं (*nyarpayataṃ*): bring the Rakṣases low. तमोवृधः (*tamovṛdhaḥ*): those who grow by the concealing darkness, of magical form, or who grow in the night. अचितः (*acitaḥ*): the senseless, deluded Rākṣasas. परा शृणीतं (*parā śṛṇītaṃ*): destroy them so that they turn away. न्यूषतं (*nyūṣataṃ*): burn utterly (root उष (*uṣa*), to burn). हतं (*hataṃ*): kill them. नुदेथां (*nudethāṃ*): drive the slain away from us. अत्रिणः (*atriṇaḥ*): those Rākṣasas who are eaters; नि शिशीतं (*ni śiśītaṃ*): make them utterly thin (sharpen down).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- रक्षः (*rakṣaḥ*)—the Rākṣasas
+- तपतं (*tapataṃ*)—burn
+- उब्बतं (*ubbataṃ*)—harm
+- वृषणा (*vṛṣaṇā*)—O Indra and Soma, showerers of desires
+- तमोवृधः (*tamovṛdhaḥ*)—the Asuras who grow in the darkness of night
+- नृपयंतं (*nṛpayaṃtaṃ*)—push them down
+- अचितॆः (*acitèḥ*)—the fools who have no knowledge of duty
+- परा शृणीतं (*parā śṛṇītaṃ*)—harm them so that they run back
+- न्यूषतं (*nyūṣataṃ*)—burn completely
+- हतं (*hataṃ*)—destroy
+- नुधेथां (*nudhethāṃ*)—drive far from us
+- अत्रिणः (*atriṇaḥ*)—the Rākṣasas who devour everything
+- नि शिशीतं (*ni śiśītaṃ*)—destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, burn and harm the Rākṣasas. O showerers of desires, push down the Asuras who grow in the dense darkness of night; harm the fools without knowledge of duty so that they run back. Burn them completely, destroy them, drive them far from us. Destroy completely the all-devouring Rākṣasas.
+
+##### English translation
+Indra and Soma, afflict, destroy the Rakshasas; showerers (of benefits) cast down those who delight in darkness; put to flight the stupid (spirits); consume, slay, drive away, utterly exterminate the cannibals.
+
+##### Grammar
+
+- इंद्रासोमा — देवताद्वंद्व चेति पूर्वपदस्यानज् । आमंत्रिताद्युदात्तत्वं ।
+- तपतं — आमंत्रितं पूर्वमविद्यमानवत् इति अविद्यमानवत्त्वात् तिजंतस्य निघाताभावः ।
+- उब्बतं — उब्जतिर्हिंसाकर्मा । तिजः परत्वात् निघाताभावः ।
+
+### Printed p. 244
+**Printed English** (concluded)
+(spirits); consume, slay, drive away, utterly exterminate the cannibals.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा॒ सम॒घशं॑सम॒भ्य१॒ं॑ घं तपु॑र्ययस्तु च॒रुर॑ग्नि॒वा इ॑व ।  
+> ब्र॒ह्म॒द्विषे॑ क्र॒व्यादे॑ घो॒रच॑क्षसे॒ द्वेषो॑ धत्तमनवा॒यं  ॒॑॑
+> किमादिने ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । सं । अघशंसं । अभि । अघं । तपुः । ययस्तु । चरुः । अग्निवान्सइव ।  
+> ब्रह्मद्विषे । क्रव्यअदे । घोरचक्षसे । द्वेषः । धत्तं । अनवायं । किमादिने ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रासोमौ अघशंसमघस्यानर्थस्य शंसितारमघनागत्य हंतारु राक्षसं
+> सं सहैव । अभीति श्रुतेर्योग्यक्रियाध्याहारः । अभिभवतं । स च तपुर्युवयोस्तेजसा तप्यमानो राक्षसोग्नि वानिवाग्नियुक्तोग्नौ प्रक्षिप्तश्चरुरिव ययस्तु ॥
+> यसु प्रयत्ने । केवलोऽप्ययमाज् पूर्वार्थे द्रष्टव्यः ॥ आयस्यतु । आयासं
+> प्राप्नोतु । उपक्षीयतामिथ्यर्थः । अपि च ब्रह्मद्विषे ब्राह्मणेभ्योऽस्मभ्यं द्वेष्टे
+> क्रव्यादे क्रव्यं मांसं भक्षयित्रे घोरचक्षसे घोरदर्शनाय परुषभाषिणे वा
+> किमादिने किमिदानीमिति चरते पिशुनाय द्वेषो द्वेष्यभावमनवायमव्यवायमनवयवं नैरंतर्येण यथा भवति तथा धत्तं । दत्तं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Soma, together overcome the Rākṣasa who is अघशंसं (*aghaśaṃsaṃ*), a proclaimer of harm and evil, a slayer of the guiltless; अभि (*abhi*) is heard in the verse, so the fitting verb "overcome" is supplied. Heated by your fire, that Rākṣasa is तपुः (*tapuḥ*), like a चरुः (*caruḥ*) (oblation) cast into the fire; ययस्तु (*yayastu*) (root यसु (*yasu*), to strive): let him toil, or be consumed. Moreover, toward the hater of Brahmins, one who hates us, the क्रव्यादे (*kravyāde*) (eater of raw flesh), the घोरचक्षसे (*ghoracakṣase*) (of dreadful look or of harsh speech), the किमादिने (*kimādine*) (the slanderer who goes about saying "what now?"), द्वेषः (*dveṣaḥ*), hostility, अनवायं (*anavāyaṃ*), uninterrupted, धत्तं (*dhattaṃ*): give (maintain) it continuously.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रासोमा (*iṃdrāsomā*)—O Indra and Soma
+- अघशंसं (*aghaśaṃsaṃ*)—the Asura who wishes evil
+- अघं (*aghaṃ*)—and does sinful deeds
+- सं (*saṃ*)—together
+- अभि (*abhi*)—fall upon and defeat
+- तपुः (*tapuḥ*)—the Asura burnt by you
+- अग्निवान् चरुः इव (*agnivān caruḥ iva*)—like an oblation offered in the fire
+
+### Printed p. 245
+- ययस्तु (*yayastu*)—let him be wholly burnt (destroyed)
+- ब्रह्मद्विषे (*brahmadviṣe*)—upon the Asura who hates Brahmins
+- क्रव्यादे (*kravyāde*)—upon the flesh-eater
+- घोरचक्षसे (*ghoracakṣase*)—upon one of deformed form and conduct
+- किमीदिने (*kimīdine*)—upon one who always plots deceit
+- अनवायं (*anavāyaṃ*)—unceasing
+- द्वेषः (*dveṣaḥ*)—hostility
+- धत्तं (*dhattaṃ*)—hold
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Soma, fall together upon the whole host of Asuras who wish evil and do sinful deeds, and defeat them. May the Asura burnt by you be wholly consumed like an oblation offered in the fire. Cultivate lasting hatred toward the Asura who hates Brahmins, the flesh-eater, the one of deformed form and conduct, and the one who is always plotting deceit.
+
+##### English translation
+Indra and Soma, fall upon the destructive (Rakshasa) and the performer of unprofitable acts, so that, consumed (by your wrath), he may perish like the offering cast into the fire : retain implacable hatred to the hater of Brahmans, the cannibal, the hideous, the vile (Rakshasa).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑सोमा दु॒ष्कृतो॑ व॒व्रे अं॒तर॑नारंभ॒णे तम॑सि॒ प्र  ॑
+> विध्यतं ।  
+> यथा॒ नातः॒ पुन॒रेक॑श्च॒नोदय॒त्तद्वा॑मस्तु॒ सह॑से मन्यु॒मच्छवः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रासोमा । दुःकृतः । वव्रे । अंतः । अनारंभणे । तमसि । प्र । विध्यतं ।  
+> यथा । न । अतः । पुनः । एकः । चन । उत् अयत् । तत् । वां । अस्तु । सहसे ।  
+> मन्युमत् । शवः ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 239. pp. 234-239 (batch API)
+**Progress note:** Done through printed p. 245. pp. 240-245 (batch API)
