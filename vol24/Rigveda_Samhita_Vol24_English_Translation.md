@@ -26970,6 +26970,304 @@ Maṇḍala 8, Anuvāka 6, Sūkta 51; Aṣṭaka 6, Adhyāya 4, Varga 18, 19. Nu
 > यथा । मनौ । सांवरणौ । सोमं । इंद्र । आपिबः । सुतं ।  
 > नीप अतिथौ । मघवन् । मेध्य अतिथौ । पुष्टिगौ । शुष्टिगौ । सचा ॥ १ ॥
 
+### Printed p. 593
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यथा येन प्रकारेण सांवरणौ संवरणस्य पुत्रे मनौ वर्तमानं
+> सुतमभिषुतं सोममपिबः । पीतवानसि । तथा हे मघवन् धनवन्निंद्र नीपातिथौ ।
+> नयति हनिर्देवान् पाति रक्षति यजमानं चेति नीपः । शादृशोऽतिथिर्यस्य तस्मिन् ।
+> एतेष्टके ऋषौ मेध्यातिथौ । मेध्यः यज्ञार्हः अतिथिर्यस्य तादृशे एतन्नामके
+> ऋषौ पुष्टिगौ । पुष्टिः कुटुंबपोषिका गौर्यस्य तादृशे ऋषौ । क्तिच्‌क्तौ च
+> संज्ञायां इति पुषिधातो कर्तरि क्तिज् । श्रुष्टिगौ । श्रुष्टिः शीघ्रव्यापिनी गौर्यस्य
+> तादृशे मयि च । श्रुष्टिति क्षिप्रनाम आशु अष्टि इति निरुक्तमत्रानुसंधेयं ।
+> एतेश्वास्यासु वर्तमानमभिषुतं सोमं सजा सहैव पिबेति शेषः । इह सचापदेन
+> युगपदनेकरूपधारणशक्तिः सूच्यते । संभवति च सा । इंद्रो मायाभिः
+> पुरुरूप ईयते इत्यादिश्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in the manner in which you drank the pressed Soma offered to Manu, the son of Saṃvaraṇa, so, O Maghavan, wealthy Indra, drink it with Nīpātithi, Medhyātithi, Puṣṭigu and Śruṣṭigu. Nīpa is explained as one who leads the oblation to the gods and protects the sacrificer; the one who has such a guest is Nīpātithi. Medhyātithi is a seer of that name, whose guest is fit for sacrifice. Puṣṭigu is a seer whose cow nourishes the family; the formation is by the suffix क्तिच्‌क्तौ च संज्ञायां (*kticktau ca saṃjñāyāṃ*) added to the root पुषि (*puṣi*) in the agent sense. Śruṣṭigu is one whose cow quickly pervades; the word श्रुष्टि (*śruṣṭi*) is the name for "swift", from आशु अष्टि (*āśu aṣṭi*), as the Nirukta is to be consulted here; it also applies to the speaker. The word सजा (*sajā*) means "together": drink the pressed Soma standing in these (seers) together with them, which is the supplied remainder. By the word सचा (*sacā*) the power to assume many forms at once is indicated, and that is possible for Indra, as the Śruti says इंद्रो मायाभिः पुरुरूप ईयते (*iṃdro māyābhiḥ pururūpa īyate*) and so on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—in what manner
+- सांवरणौ (*sāṃvaraṇau*)—in the son of Saṃvaraṇa
+- मनौ (*manau*)—in Manu
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—Soma
+- आपिबः (*āpibaḥ*)—you drank, in the same way
+- मघवन् (*maghavan*)—O wealthy Indra
+- नीपातिथौ (*nīpātithau*)—in the seer called Nipātithi **NOTE**
+- मेध्यातिथौ (*medhyātithau*)—in the seer called Medhyātithi
+- पुष्टिगौ (*puṣṭigau*)—in the seer called Puṣṭigu
+- श्रुष्टिगौ (*śruṣṭigau*)—in the seer called Śruṣṭigu
+- सचा (*sacā*)—drink together, united
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the manner in which you drank the pressed Soma offered to Manu, the son of Saṃvaraṇa, in the same way, O wealthy Indra, drink it together, united, in the seer called Nipātithi, in the seer called Medhyātithi, in the seer called Puṣṭigu, and in the seer called Śruṣṭigu.
+
+##### English translation
+Indra as you did drink Soma for the priest Samvanin, so drink for Medhatithi and Nipatithi, Pushtigu and Srushtigu.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒र्ष॒द्वा॒णः प्रस्क॑ण्वं॒ सम॑सादय॒च्छया॑नं॒ जिव्रि॒मुद्धि॑तिं ।  
+> स॒हस्रा॑ण्यसिषास॒द्धवा॒मृषि॒स्वोतो॒ दस्य॑वे॒ वृकः॑ ॥ २ ॥
+
+### Printed p. 594
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> १ पदपारं १  
+> पार्षद्वाणः । प्रस्कण्वं । सं । आसादयत् । शयानं । जिव्रिं । उद्दितं ।  
+> सहस्राणि । आसिसासत् । गवां । ऋषिः । त्वाऊतः । दस्यवे । वृकः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पार्षद्वाणः पुरुषवाक् श्चिछत्तुः ( ? कश्चिच्छत्रुः) । वाण इति
+> वाङ् नाम वाणीची वाणः इत तन्नामसु पाठात् । शयानं स्वपंतं प्रस्कण्वं कण्वस्य
+> पुत्रं यदा समसादयत् सम्यगपीडयत् । कीदृशं । जिव्रिं जराजीर्णं उद्दितं
+> ऊर्ध्वदेशे स्थापितं तदा त्वोतः त्वया इंद्रेण रक्षितः स ऋषिः प्रस्कण्वः दस्यवे
+> उपक्षपयितुः शत्रोः वृकः विकर्तनः सन् तदीयानि गवां सहस्राणि आसिसासत्
+> संभजते स्म । इत्यंप्रभावस्त्वमसि तस्मात्त्वां स्तुम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when the Pārṣadvāṇa, the one of cruel speech (the printed gloss reads a certain enemy), वाण इति वाङ् नाम (*vāṇa iti vāṅ nāma*): वाण (*vāṇa*) is a name of speech, as it is read among its names, oppressed completely Praskaṇva, the son of Kaṇva, who lay asleep, aged and set in an elevated place, then that seer Praskaṇva, protected by you, Indra, became a cutter-down of the harassing enemy and obtained (आसिसासत् (*āsisāsat*)) that enemy's thousands of cows. Such is your power, therefore we praise you: this is the sense. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पार्षद्वाणः (*pārṣadvāṇaḥ*)—the enemy of cruel speech
+- जिविं (*jiviṃ*)—the aged one
+- उद्दितं (*udditaṃ*)—the one set in the upper part
+- शयानं (*śayānaṃ*)—the one who was sleeping
+- प्रस्कण्वं (*praskaṇvaṃ*)—Praskaṇva, the son of Kaṇva
+- समसादयत् (*samasādayat*)—oppressed completely
+- त्वोतः (*tvotaḥ*)—protected by you at that time
+- ऋषिः (*ṛṣiḥ*)—the seer Praskaṇva
+- दस्यवे (*dasyave*)—for the enemy
+- वृकः (*vṛkaḥ*)—being a destroyer
+- सहस्राणि (*sahasrāṇi*)—numbering a thousand
+- गवां (*gavāṃ*)—of cows, the herd
+- असिषासत् (*asiṣāsat*)—obtained from the enemy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the enemy of cruel speech oppressed completely Praskaṇṇa, the son of Kaṇva, who was aged, set in the upper part and sleeping. The seer Praskaṇṇa, protected by you at that time, became a destroyer of the enemy and obtained a herd of a thousand cows from the enemy's place. **NOTE**
+
+##### English translation
+Old Parshardvan sat laying Prakasana up. The Rishi who was a terror to Dashyu protected thousand cows.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒क्तेभि॒र्न विं॒धते॑ चि॒किद्य ऋ॑षि॒चोद॑नः ।  
+> इंद्रं॒ तमच्छा॑ वद॒ नव्य॑स्या म॒त्यरि॑ष्यंतं॒ न भोज॑से ॥ ३ ॥
+
+### Printed p. 595
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उक्तेभिः । न । विंधते ! चिकित् ! यः ! ऋषिचोदनः ।  
+> इंद्रं । तं । अण्णि । गद । नव्यसा । मती । अरिष्यंतं । भोजसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरात्मानं ब्रूते । हे श्रुष्टिगो य इंद्रः न संप्रति उक्षेभिः उक्षैः
+> स्तोत्रैः स्तुतः सन् चिकित् स्तोतुः ज्ञानं विंधके परिचरति । विधतिः परिचरणकर्मा ।
+> मत्सेवने तव सम्यक् ज्ञानमस्तीत्या (?त्य) भिनंदति ! यश्चेंद्रः ऋषिचोदनः
+> ऋषीणां मंत्राणां तद्द्रष्ट्मणां वा चोणनः प्रवर्तकोऽस्ति तमिंद्रं परमेश्वरं अच्चाभिलक्ष्य नव्यस्या नवतना ( ? नवतरां ) मती मतिं स्तुतिं वद ब्रूहि । तत्र
+> दृष्टांतः ! अरिष्यंतं न भोजसे । यथा कश्चिदरिष्यंतं अहिंसंतं स्वामिनं
+> भोजसे स्वपालनाय नवतरां स्तुतिं ब्रूते तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The seer speaks of himself. O Śruṣṭigu, the Indra who, praised now with chants, finds (विंधते (*viṃdhate*), serves) the knowledge of the praiser, विधति (*vidhati*) being a word for service, so that he approves, "you have right knowledge in serving me"; and who is the impeller of seers, of mantras or of their seers: to that Indra, the Supreme Lord, direct and utter a newer praise. An illustration: as one speaks a newer praise to a master who does no harm, for his own protection and sustenance, so do here. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- न (*na*)—now
+- उक्षेभिः (*ukṣebhiḥ*)—praised with hymns
+- चिकित् (*cikit*)—the knowledge of the praiser
+- विंधते (*viṃdhate*)—he approves
+- यः (*yaḥ*)—who
+- ऋषिचोदनः (*ṛṣicodanaḥ*)—the impeller of the seers' good works
+- तं (*taṃ*)—such
+- इंद्रं (*iṃdraṃ*)—Indra
+- अरिष्यंतं न (*ariṣyaṃtaṃ na*)—as one praises a master who does no harm
+- नव्यसा (*navyasā*)—new
+- मती (*matī*)—with praise
+- अच्छ (*accha*)—exceedingly
+- वद (*vada*)—praise and extol
+
+##### भावार्थ (Bhāvārtha)
+
+O seer, praise and extol exceedingly with a new praise, as one praises a master who does no harm for protection, that Indra who, praised now with hymns, approves the knowledge of the praiser, and who is the impeller of good works for the seers.
+
+##### English translation
+Who is attainable by chants who being roused by Rishi is all knowing ; intending protection for his pleasure utter praises.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मा॑ अ॒र्कं स॒प्तिशी॑र्षाणमानृ॒चुस्ति॒धातु॑मुत्त॒मे प॒दे ।  
+> स त्वि१॒॑ १ मा विश्वा॒ भुव॑नानि चक्रद॒दादिज्ज॑निष्ट॒ पौंस्यं॑ ॥ ४ ॥
+
+### Printed p. 596
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मै । अर्कं । सप्तशीर्षाणं । आनृचुः । त्रिधातुं । उत्तमे । पदे ।  
+> सः । तु । इमा । विश्वा । भुवनानि । चक्रदत् । आत् । इत् । जनिष्ट । पौंस्यं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मै इंद्राय परमेश्वराय तदर्थं उत्तमे पदे उत्कृष्टतमे स्थाने
+> द्युलोकाख्यॆ स्थितं अर्क० अर्चनीयमादित्यमानृचुः अर्चंति सर्वे । अथ य
+> एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते (छां. उ. १-६-६) इत्यादि श्रुत्युक्तं
+> यदीयं स्वरूपमुपलब्धं ! सर्वॆ सूर्यमाराधयंतीत्यर्थः । कीदृशमर्क० ।
+> सप्तशीर्षाणं ! सप्तसंख्याकाः शीर्षवत् प्रधानभूता रश्मयो यस्य तादृशं ।
+> त्रिधातुं त्रयाणां भूरादिलोकानां पोषकं । सूर्यस्य त्रिलोकीपोषकत्वं तु
+> वृष्ट्यादिव्यापारेण प्रसिद्धं । यत्स्वरूपलाभाय अर्कमर्चंति स तु परमेश्वरः
+> इमा इमानि दृश्यमानानि विश्वा सर्वाणि भुवनानि भूतजातानि देवासुरमनुष्यरूपाणि उद्दिश्य अचिक्रदत् आक्रंदति ! माध्यमिक्या वाचा दददशब्दैर्गम ( ? र्दम)
+> दयादानवाचकैः ! आदित् अनंतरमेव पौंस्यं बलं शिक्षालक्षणं जनिष्ट जनयति
+> आविर्भावयति ! अयं भावः । परमेश्वर आदौ मेघस्तनितलक्षणया स्ववाण्या
+> भूक्षेभ्यो (? भूस्थेभ्यो) हितमुपदिशति । अनाकर्णिते च तस्मिन् पश्चाद्दारिद्र्यादिलक्षणां शिक्षामाविष्करोतीति ! अत्राभिहितोऽर्थो बृहदारण्यके खिलकांडे त्रया
+> ह वै प्राजापत्याः इत्यादिना ग्रंथेन प्रपंचतः (बृ. उ. ५-२) ॥
+
+##### Gist of the bhāṣya
+
+For which Indra, the Supreme Lord, all worship the Sun, the worshipful, set in the highest place called the heavenly world: the form of whom is obtained according to the Śruti अथ य एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते (*atha ya eṣo 'ṃtarāditye hiraṇmayaḥ puruṣo dṛśyate*) (Chā. U. 1-6-6) and so on; the meaning is that all worship the Sun. What kind of Sun? Seven-headed, that is, having seven principal rays like heads; three-elemented, the nourisher of the three worlds, Bhūḥ and the rest; the Sun's nourishing of the three worlds is well known through the work of rain and so on. He for whose form they worship the Sun is the Supreme Lord, who cries out (अचिक्रदत् (*acikradat*)) towards all these visible worlds, the beings of the gods, the Asuras and men, with the middle (atmospheric) speech, through the syllables द (*da*) द (*da*) द (*da*) that signify self-control, mercy and giving. Immediately after, he brings forth (जनिष्ट (*janiṣṭa*)) strength in the form of instruction. The sense is that the Supreme Lord first teaches what is good for the beings of the earth by his own voice in the form of thunder, and when that is not heard, afterwards he brings forth instruction in the form of poverty and the like. The meaning stated here is set out at length in the Bṛhadāraṇyaka, in the Khila section, by the passage beginning त्रया ह वै प्राजापत्याः (*trayā ha vai prājāpatyāḥ*) (Bṛ. U. 5-2). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मै (*yasmai*)—for which Indra
+- सप्तशीर्षाणं (*saptaśīrṣāṇaṃ*)—the one with seven rays
+- त्रिधातुं (*tridhātuṃ*)—the nourisher of the three worlds
+- अर्कं (*arkaṃ*)—the worshipful Āditya
+- उत्तमे पदे (*uttame pade*)—in the highest place, the heavenly world
+- आनृचुः (*ānṛcuḥ*)—all worship
+- स तु (*sa tu*)—that same Indra in the form of the Āditya
+- इमा विश्वा भुवनानि (*imā viśvā bhuvanāni*)—all these worlds
+- चक्रदत् (*cakradat*)—made them resound
+- आदित् (*ādit*)—immediately after
+- पौंस्यं (*pauṃsyaṃ*)—strength
+- जनिष्टॆ (*janiṣṭè*)—produced
+
+##### भावार्थ (Bhāvārtha)
+
+For the satisfaction of which Indra all worship the Āditya, who has seven rays, who nourishes the three worlds, who is worshipful and who stands in the highest heavenly world, that same Indra, in the form of the Āditya, made all these worlds
+
+### Printed p. 597
+
+full of sound. Immediately after, he also produced strength.
+
+##### English translation
+For whom is good places who is worshipping mantras with seven points and three places, he has made this universe, full of sounds and is producer of strength.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नो॑ दा॒ता वसू॑ना॒मिंद्रं॒ तं हू॑महे व॒यं ।  
+> वि॒द्या ह्य॑स्य सुम॒तिं नवी॑यसीं ग॒मेम॒ गोम॑ति व्र॒जे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । दाता । वसूनां । इंद्रं । तं । हूमहे । वयं ।  
+> विद्म । हि । अस्य । सुमतिं । नवीयसीं । गमेम । गोमति । व्रजे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः नोऽस्माकं वसूनां वासहेतूनां धनानां दाता भवति तमिंद्रं
+> परमेश्वरं हूमहे आह्वयामो वयं स्तोतारः । हि यस्मादस्येंद्रस्य नवीयसीं
+> नवतरामकृतपूर्वां सुमतिं कल्याणीं मतिमनुग्रहबुद्धिं विद्म जानीमः ।
+> आतस्तमाह्वयामेति पूर्वेण संबंधः । यया सुमत्या वयं गोमति गवोपेते
+> व्रजे गजाश्वादिपशुसमूहे गमेम स्वामित्वेन प्राप्नुयाम ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is the giver to us of treasures (वसूनां (*vasūnāṃ*), wealth that is the cause of dwelling), that Indra, the Supreme Lord, we the praisers invoke. For we know (विद्म (*vidma*)) this Indra's newer, hitherto unmade, auspicious good will, his gracious disposition, by which we may come, as masters, to a cow-filled pen, a herd of cattle such as elephants and horses. The words आतस्तमाह्वयाम (*ātastamāhvayāma*) connect with the preceding. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- नः (*naḥ*)—to us
+- वसूनां (*vasūnāṃ*)—of wealth
+- दाता (*dātā*)—is the giver
+- तं इंद्रं (*taṃ iṃdraṃ*)—that Indra
+- वयं (*vayaṃ*)—we
+- हूमहे (*hūmahe*)—invoke with prayer
+- अस्य (*asya*)—of this Indra
+- नवीयसीं (*navīyasīṃ*)—new
+- सुमतिं (*sumatiṃ*)—excellent gracious disposition
+- विद्म हि (*vidma hi*)—we know
+- गोमति (*gomati*)—full of cows
+- व्रजे (*vraje*)—in the pen
+- गमेम (*gamema*)—may we come as masters
+
+### Printed p. 598
+
+##### भावार्थ (Bhāvārtha)
+
+We invoke with prayer that Indra who gives us the gift of wealth. May we, knowing the new and excellent gracious disposition of this Indra, obtain as a result a good herd of cows.
+
+##### English translation
+We invoke Indra the giver of our wealth we know his favourable disposition ; may we go to a pasture with cows.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मै॒ त्वं व॑सो दा॒नाय॒ शिक्ष॑सि॒ स रा॒यस्पोष॑मश्नुते ।  
+> तं त्वा॑ व॒यं म॑घवन्निंद्र गिर्वणः सु॒तावं॑तो हवामहे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मै । त्वं । वसो इति । दानाय । शिक्षसि । सः । रायः । पोषं । अश्नुते ।  
+> शं । त्वा । वयं । मघवन् । इंद्र । गिर्वणः । सुतवंतः । हवामहे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासयितरिंद्र त्वं यस्मै यजमानाय दानाय धनदानार्थं
+> शिक्षसि आज्ञापयसि स यजमानः रायः धनस्य पोषं पुष्टिमश्नुते व्याप्न्नोति ।
+> यं यजमानं धनं दातुं प्रवर्तयसि स त्वदाज्ञया धनत्यागेन वसुसमृद्धो
+> भवतीत्याश्चर्यं । अतो हे गिर्वणः गीर्भिर्वननीय मघवन् धनवन्निंद्र तं तादृशं
+> त्वा त्वां सुतावंतः अभिषुतसोमा वयं हवामहे आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, Indra, who causes to dwell, the sacrificer for whom you appoint (शिक्षसि (*śikṣasi*), command) the giving of wealth, that sacrificer obtains the increase of wealth. The sacrificer whom you impel to give wealth becomes, by your command, rich in treasure through the giving up of wealth: this is the wonder. Therefore, O Girvaṇas, to be adored with songs, O Maghavan, wealthy Indra, to you, such as you are, we, having pressed the Soma, call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy one
+- गिर्वणः (*girvaṇaḥ*)—worshipful through praises
+- वसो (*vaso*)—giver of a dwelling
+- इंद्र (*iṃdra*)—O Indra
+- यस्मै (*yasmai*)—to which sacrificer
+- त्वं (*tvaṃ*)—you
+- दानाय (*dānāya*)—for the manner of giving wealth
+- शिक्षसि (*śikṣasi*)—you instruct
+- सः (*saḥ*)—he
+- रायः (*rāyaḥ*)—of wealth
+- पोषं (*poṣaṃ*)—the increase
+- अश्नुते (*aśnute*)—obtains
+- तं (*taṃ*)—such an excellent one
+- त्वा (*tvā*)—you
+- सुतावंतः (*sutāvaṃtaḥ*)—who have pressed the Soma juice
+- वयं (*vayaṃ*)—we
+- हवामहे (*havāmahe*)—call with prayer
+
 ---
 
-**Progress note:** Done through printed p. 592. Maṇḍala 8 sūkta 50 Ṛks 6-10; sūkta 51 intro, Ṛk 1 Saṃhitā and Pada
+**Progress note:** Done through printed p. 598. Sūkta 51 Ṛks 1-6, pp. 593-598
