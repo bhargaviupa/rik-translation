@@ -21122,6 +21122,266 @@ Destroyer of Vritra, men strewing the clipped secred grass invoke you for the ob
 > अनु । त्वा । रोदसी इति । उभे इति । चक्रं । न । वर्ति । एतशं ।  
 > अनु । सुवानासः । इंदवः ॥ ३८ ॥
 
+### Printed p. 518
+#### Ṛk 38 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वामुभे रोदसी द्यावापृथिव्यावनुवर्तेते । त्वदधीने
+> भवत इत्यर्थः । तत्र दृष्टांतः । चक्रं न यथा रथचक्रमेतशं । अश्वनामैतत् ।
+> पुरो गच्छंतमश्वमनु वर्ति अनुवर्तते तद्वत् । अपि च सुवानास ऋत्विघ्नरभिषूयमाणा इंदवः सोमाश्च त्वामनुवर्तंते ॥
+
+##### Gist of the bhāṣya
+
+O Indra, both Heaven and Earth (रोदसी (*rodasī*)) follow you, that is, they are subject to you. An illustration is given: as a chariot wheel follows the horse (एतशं (*etaśaṃ*) is a name for a horse) that goes in front, so they follow. Moreover the Soma juices (इंदवः (*iṃdavaḥ*)), pressed by the priests, also follow you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you (O Indra)
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- चक्रं (*cakraṃ*)—the chariot wheel
+- एतशं न (*etaśaṃ na*)—as following the horse of the chariot
+- अनु वर्ति (*anu varti*)—follow and act accordingly
+- सुवानासः (*suvānāsaḥ*)—pressed by the priests
+- इंदवः (*iṃdavaḥ*)—the Soma juices also
+- अनु (*anu*)—follow you alone
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the wheels of a chariot follow the path of the horses yoked to the chariot, so heaven and earth also follow your path and act accordingly. The Soma juices pressed by the priests also follow you.
+
+##### English translation
+Both heaven and earth follow you as the wheels (of a car follow) the horse; the streams of the Soma poured forth (by the priests) follow (you),
+
+#### Ṛk 39
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मंद॑स्वा॒ सु स्व॑र्णर उ॒तेंद्र॑ शर्य्॒यणाव॑ति ।  
+> मत्स्य॒ विव॑स्वतो म॒ती ॥ ४९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंदस्व । सु । स्वःऽनरे । उत । इंद्र । शर्यणावति ।  
+> मत्स्य । विविस्वतः । मती ॥ ३९ ॥
+
+### Printed p. 519
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र शर्यणावति । शर्यणा नाम कुरुक्षेत्रवर्तिनो देशाः ।
+> तेषामदूरभवं सरः शर्यणावत् ॥ मध्वादिभ्यश्चेति स्वार्थिको मतुप् । मतौ
+> बह्वच इति दीर्घः । संज्ञायामिति वत्वं ॥ तस्मिन् सरसि विद्यमाने स्वर्णरे सर्वैऋत्विग्निर्नेतव्ये यज्ञे सु सुष्टु मंदस्व । माद्य । तृप्तो भव । अपि च विवस्वतः
+> परिचरणवतो यजमानस्य मती मत्या च मत्स्व । मदं प्राप्पुहि ॥ मतिशब्दात्तृतीयायाः सुपां सुलुगिति पूर्वसवर्णदीर्घः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, at Śaryaṇāvat: the Śaryaṇās are regions in Kurukṣetra, and the lake near them is Śaryaṇāvat (the affix is svārthika, with the lengthening and the change to va by the cited rules). In the sacrifice at that lake, to be conducted by all the priests (स्वर्णरे (*svarṇare*)), rejoice well, be satisfied. And rejoice also by the praise (मती (*matī*)) of the sacrificer, who serves you; attain exhilaration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- शरणावति (*śaraṇāvati*)—to be performed on the shore of the lake called Śaryaṇāvat
+- स्वर्णरे (*svarṇare*)—in the sacrifice to be conducted by all the priests (or, conducive to heaven)
+- सु (*su*)—exceedingly
+- मंदस्व (*maṃdasva*)—be satisfied
+- विवस्वतः (*vivasvataḥ*)—of the sacrificer who worships you
+- मती (*matī*)—by the praise also
+- मत्स्य (*matsya*)—attain joy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the sacrifice to be performed on the shore of the lake Śaraṇāvat and conducted by all the priests, be exceedingly satisfied. Rejoice also at the praise of the sacrificer who worships you.
+
+##### English translation
+Rejoice, Indra, at the heaven-guiding sacrifice at Saryanavat; be exhilarated by the praise of the worshipper.
+
+#### Ṛk 40
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒वृ॒धा॒न उप॒ द्यवि॒ वृषा॑ व॒ज्र॑रोरवीत् ।  
+> वृ॒त्र॒हा सो॑म॒ पात॑मः ॥ ४० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववृधानः । उप । द्यवि । वृषा । वज्री । अरोरवीत् ।  
+> वृत्रहा । सोमपातमः ॥ ४० ॥
+
+### Printed p. 520
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वावृधानो वृद्दो वज्री वज्रवान् आत एव वृत्रहा वृत्रस्य मेघस्यासुरस्य वा हंता सोमपातमोऽतिशयेन सोमस्य पातेंद्रो वृषोदकानां
+> वर्षिता द्यवि द्युलोकेऽंतरिक्ष उप समीपे याथास्माभिः श्रूयते तथारोरवीत् ।
+> भृशं स्तनयित्नुलक्षणं शब्दमकरोत् । मेघेन वज्रहस्तेनेदृशं शब्दमचीकरदित्यर्थः ।
+
+##### Gist of the bhāṣya
+
+Indra, grown mighty (वावृधानः (*vāvṛdhānaḥ*)), bearing the thunderbolt, hence the slayer of Vṛtra (of the cloud or of the asura), the greatest drinker of Soma, the showerer of waters, roars in the sky nearby, as we hear it; that is, he makes a loud sound of thunder. The meaning is that through the cloud, thunderbolt in hand, he caused such a sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वावृधानः (*vāvṛdhānaḥ*)—the one who has grown extraordinarily
+- वज्री (*vajrī*)—the wielder of the thunderbolt
+- वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra
+- सोमपातमः (*somapātamaḥ*)—the one who drinks Soma exceedingly
+- वृषा (*vṛṣā*)—Indra, the granter of desires
+- द्यवि (*dyavi*)—in the atmosphere
+- उप (*upa*)—very near
+- अरोरवीत् (*aroravīt*)—made a sound in the form of thunder (as we hear)
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, of extraordinary growth, wielder of the thunderbolt, slayer of Vṛtra, exceeding drinker of Soma, granter of desires, made a sound in the form of thunder in the atmosphere, very near, as we hear.
+
+##### English translation
+The vast wielder of the thunderbolt, the slayer of Vritra, the deep quaffer of the Soma, the showerer, roars near at hand in the sky.
+
+#### Ṛk 41
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋषि॒र्हि पू॑र्व॒जा अस्येक॒ ईशा॑न॒ ओज॑सा ।  
+> इंद्र॑ चोषू॒कयसे॒ वसु॑ ॥ ४१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋषिः । पूर्वजाः । असि । एकः । ईशानः । ओजसा ।  
+> इंद्र । चोष्कूयसे । वसु ॥ ४१ ॥
+
+### Printed p. 521
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पूर्वजाः सर्वेभ्यो देवेभ्यः पूर्वं जात उत्पन्नः । यद्वा ।
+> यज्ञेषु प्रथममेव प्रादुर्भूतः । त्वमृषिर्हि द्रष्टा सर्वज्ञः खल्पसि । भवसि । अपि
+> च सर्वेषु देवेषु मध्यॆ एको मुख्य ओजसा बलेनेशान ईश्वरो भवसि । यद्वा ।
+> एकोऽसहाय एव सन्नोजसात्मीयेनैव बलेनेशानः सर्वस्य जगत ईश्वरो भवसि ।
+> स त्वं वसु धनं चोषूयसे । पुनः पुनः स्तोतृभ्यो ददासि ॥ स्कुञ् आप्रवण
+> इह दानार्थः । तथा चोक्तं । चोषूयमाण इंद्र भूरि वामं दददिंद्र बहु
+> वननीयं । नि. ६-२२ । इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are "born first" (पूर्वजाः (*pūrvajāḥ*)), born before all the gods; or, manifested first in sacrifices. You are a seer (ऋषिः (*ṛṣiḥ*)), a perceiver, omniscient. Among all the gods you alone are chief and by your strength rule as lord. Or: being alone, without helper, by your own strength you are lord of the whole world. You, such, give wealth (वसु (*vasu*)) again and again to the praisers (चोषूयसे (*coṣūyase*)). The root स्कुञ् (*skuñ*) here has the sense of giving. So it is said: चोषूयमाण इंद्र भूरि वामं दददिंद्र बहु वननीयं (*coṣūyamāṇa iṃdra bhūri vāmaṃ dadadiṃdra bahu vananīyaṃ*) (Ni. 6-22).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पूर्वजाः (*pūrvajāḥ*)—you, born before all beings
+- ऋषिर्हि (*ṛṣirhi*)—indeed an omniscient seer
+- असि (*asi*)—you are
+- एकः (*ekaḥ*)—you, chief among all gods
+- ओजसा (*ojasā*)—by your strength
+- ईशानः (*īśānaḥ*)—you are lord
+- वसु (*vasu*)—wealth
+- चोषुक्यसे (*coṣukyase*)—you give to the praisers again and again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, born before all beings, are an omniscient seer. You, chief among all gods, are by your strength lord of all. You give wealth again and again to the praisers.
+
+##### English translation
+You are a Rishi, the first born (of the gods), the chief, the ruler (over all) by your strength: you give repeatedly, Indra, wealth,
+
+##### विशेषविषयगळु (Special Topics)
+
+चोषूयसे (*coṣūyase*)—you give again and again to the praisers. Yāska has given the explanation of this word thus: चोषूयमाण इंद्र भूरि वामं दददिंद्र बहु ववनीयं (*coṣūyamāṇa iṃdra bhūri vāmaṃ dadadiṃdra bahu vavanīyaṃ*) (Ni. 6-22). We have already explained the meaning of this word earlier.
+
+#### Ṛk 42
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒स्माकं॑ त्वा सु॒ता उप॑ वी॒तपृ॑ष्टा अ॒भि प्रयः॑ ।
+
+### Printed p. 522
+
+> शतं वहंतु हरयः ॥ ४२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । त्वा । सुतान् । उप । वीतपृष्ठाः । अभि । प्रयः ।  
+> शतं । वहंतु । हरयः ॥ ४२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अस्माकमस्मदीयान् सोमानुपलक्ष्य प्रयः । अन्ननामैतत् ।
+> धानाकरंभादिहनिर्लक्षणमन्नं चाभिलक्ष्य वीतपृष्ठाः प्रशस्तोपरिभागाः शतं
+> शतसंख्यका हरयोऽश्वास्त्वां वहंतु । प्रापयंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, with regard to our Soma pressings, and to the food (प्रयः (*prayaḥ*) is a name for food) consisting of parched grain, cakes and so on, may a hundred horses (हरयः (*harayaḥ*)) with splendid backs (वीतपृष्ठाः (*vītapṛṣṭhāḥ*)) bring you, convey you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) वीतपृष्ठाः (*vītapṛṣṭhāḥ*)—having splendid backs
+- शतं (*śataṃ*)—numbering a hundred
+- हरयः (*harayaḥ*)—horses
+- अस्माकं (*asmākaṃ*)—our
+- सुतान् उप (*sutān upa*)—towards the Soma juice
+- प्रयः अभि (*prayaḥ abhi*)—towards the food in the form of oblation
+- त्वा (*tvā*)—you
+- वहंतु (*vahaṃtu*)—may they bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may a hundred horses with splendid backs bring you towards our Soma juice and towards the food in the form of oblation.
+
+##### English translation
+May your hundred sleek-backed horses bring you to our libations, to our (sacrificial) food.
+
+#### Ṛk 43
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां सु पू॒र्वां धियं॒ मधो॑र्घृ॒तस्य॑ पि॒प्युषीं॑ ।  
+> कण्वा॑ उ॒क्तेन॑ वावृधुः ॥ ४३ ॥
+
+### Printed p. 523
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । सु । पूर्वां । धियं । मधोः । घृतस्य । पिप्युषीं ।  
+> कण्वाः । उक्केन । ववृधुः ॥ ४३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमामिदानीं क्रियमाणां सु सुष्टु पूर्वां पूर्वैः पित्रादिभिः कृतां
+> मधोर्मधुरस्य धृतस्य क्षरणशीलस्योदकस्य पिप्युषीं वर्धयित्रिं । यद्वा । मधुरेण धृतेनाज्येन प्रवृद्धां धियं यागक्रियां कण्वाः कण्वगोत्रा ऋषय उक्तेन
+> शस्त्रेण नावृधुः । इंद्रार्थं वर्धयंति । उक्तैर्हि यागो वर्धते । अत्यग्निष्टोमादिसूत्तरासु संस्थासु शस्त्रवृद्देर्दृष्टत्वात् । यद्वा । पूर्वां चिरंतनीमिमामिंद्रस्य धियमनुग्रहबुद्धिं क्षरणशीलेन मधुरेण सोमेन पिप्युषीं वर्धनीयामुक्थेन स्तोत्रेण नावृधुः । वर्धयंति ॥
+
+##### Gist of the bhāṣya
+
+This rite now being performed (धियं (*dhiyaṃ*)), well (सु (*su*)) ancient, done by fathers and earlier ancestors, augmenting the sweet, flowing water (घृतस्य (*ghṛtasya*), read as flowing water), the Kaṇvas, seers of the Kaṇva line, augment with the recitation (उक्तेन (*uktena*)), the śastra; they increase it for Indra. For the sacrifice grows by recitations, since in the Atyagniṣṭoma and the other higher forms the growth by śastra is seen. Or else: this ancient intention of Indra, his favour, which is swollen with the flowing sweet Soma, the Kaṇvas augment with the uktha, the hymn of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सु (*su*)—exceedingly
+- पूर्वां (*pūrvāṃ*)—performed by our fathers and others
+- मधोः (*madhoḥ*)—sweet
+- घृतस्य (*ghṛtasya*)—for water
+- पिप्युषीं (*pipyuṣīṃ*)—that which augments
+- इमां धियं (*imāṃ dhiyaṃ*)—this our sacrificial rite
+- कण्वाः (*kaṇvāḥ*)—the seers born of the Kaṇva line
+- उक्तेन (*uktena*)—with śastra-mantras
+- वावृधुः (*vāvṛdhuḥ*)—made it grow
+
+##### भावार्थ (Bhāvārtha)
+
+This our sacrificial rite, exceedingly performed by our fathers and others, and augmenting the sweet water, the seers born of the Kaṇva line have made to grow with śastra-mantras.
+
+##### English translation
+The Kanwas augment by praise this ancient rite intended (to obtain) an abundance of sweet water.
+
+#### Ṛk 44
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒मिद्विम॑हीनां॒ मेधे॑ वृणीत॒ मर्त्यः॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 517. pp. 512-517 (batch API)
+**Progress note:** Done through printed p. 523. pp. 518-523 (batch API)
