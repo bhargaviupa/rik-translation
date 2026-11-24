@@ -24674,6 +24674,257 @@ O Ādityas, here on earth let no welfare, भद्रं (*bhadraṃ*), that is
 - न (*na*)—may not come
 - अवय्यॆ (*avayyè*)—also to those who wish to injure us
 
+### Printed p. 539
+
+- न (*na*)—may not be good
+- उत (*uta*)—and
+- उपय्यॆ (*upayyè*)—also to him who opposes us
+- न (*na*)—may not be good
+- गवे च (*gave ca*)—to our cows
+- भद्रं (*bhadraṃ*)—let welfare come
+- धेनवे (*dhenave*)—to our milch cows too let it be good
+- श्रवस्यते (*śravasyate*)—who desires food
+- वीराय च (*vīrāya ca*)—to our heroic sons too let it be good
+- व (*va*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, on this earth let there be no welfare for our powerful enemy. Let there be no good for him who wishes to injure us. And let there be no good for him who opposes us. May it always be well with our cows and with our heroic sons, who desire food. Your protections are free from sin. Your protections are auspicious.
+
+##### English translation
+Let there not be prosperity here to our powerful (foe), nor to him who threatens or assaults us; but let there be prosperity to our cattle, our milch cows, and our male offspring desirous of food; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदा॒विर्यद॑पी॒च्यं१॒॑ देवा॑सो॒ अस्ति॑ दुष्कृ॒तं ।  
+> त्रि॒ते तद्विश्व॑मा॒प्त्य आ॒रे अ॒स्मद्द॑धातनाने॒हसो॑ व ऊ॒तयः॑ ॒॑ ॒॑
+> सुऊतयो व ऊतयः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । आविः । यत् । अपीच्यं । देवासः । अस्ति । दुःकृतं ।  
+> त्रिते । तत् । विश्वं । आप्त्ये । आरे । अस्मत् । दधातन । अनेकसः । वः । ऊतयः ।  
+> सुऊतयः । वः । ऊतयः ॥ १३ ॥
+
+### Printed p. 540
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दे देवासो देवा आदित्याः यदाविर्हुत्पापमाविर्भूतमस्ति । दुष्कृतं
+> यच्चापीच्यमंतर्हितमस्ति । अपीच्यमित्यंतर्हितनाम । तद्विश्वं तदुभयमाप्त्वे
+> त्रिते मयि मा भूत् । किंत्वस्मदारे दूरे दधातन । स्थापयत ॥
+
+##### Gist of the bhāṣya
+
+The Devas, that is, the Ādityas, are addressed. Whatever sin is manifest (āvis) and whatever is hidden (apīcya, which means "hidden") **NOTE**, let both of these, all of it, not be in Trita Āptya, that is, in me. But place it far from us (dadhātana, "place").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O Ādityas, divine beings
+- यत् आविः अस्ति (*yat āviḥ asti*)—whatever sin has become manifest
+- यत् दुष्कृतं (*yat duṣkṛtaṃ*)—whatever evil deed (a cause of sin)
+- अपीच्यं (*apīcyaṃ*)—is hidden
+- तद्विश्वं (*tadviśvaṃ*)—all these causes of sin, belonging to the two groups
+- त्रिते आप्त्ये (*trite āptye*)—let them not be in me, who am called Trita Āptya
+- तत् (*tat*)—all of that
+- अस्मत् (*asmat*)—than us
+- अरे (*are*)—very far away
+- दधातन (*dadhātana*)—place
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, divine beings, whatever sin has become manifest, whatever evil deed is hidden, let all these causes of sin, belonging to both groups, not be in me, Trita Āpta. Place all of that very far away from us. Your protections are free from sin. Your protections are auspicious.
+
+##### English translation
+Deities, whatever evil is manifest, whatever is concealed, (let it be not found) in Trita Aptya, keep it far from us; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्च॒ गोषु॑ दु॒ष्पवस्यं॒ यच्चा॒स्मे दु॑हितर्दिवः ।  
+> त्रि॒ताय॒ तद्वि॑भावर्या॒प्त्याय॒ परा॑ वहाने॒हसो॑ न ऊ॒शयः॑ ॒॑ ॒॑
+> सुऊतयो न ऊतयः ॥ १४ ॥
+
+### Printed p. 541
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । च । गोषु । दुःस्वप्नं । यत् । च । अस्मे इति । दुहितः । दिवः ।  
+> त्रिताय । तत् । विभावरि । आप्ताय । परा । वह । अनेकसः । वः । ऊतयः ।  
+> सुऊतयः । वः । ऊतयः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यच्च गोष्टित्यादिसूक्तशेषेण दुष्स्वप्नं दृष्ट्वादित्यमुपतिष्ठेत् । तथा च
+> स्वप्नमनोज्ञं दृष्ट्वेत्युपक्रम्य यच्च गोषु दुष्स्वप्नमिति पंचभिरादित्यमुपतिष्ठेत् । आ. गृ. ३-६-६ । इति सूत्रितं ॥
+> हे दिवो दुहितरुष उषोदेवते यच्च गोष्टस्मदीयासु दुष्स्वप्नमनर्थसूचकं दृष्टं ॥ स्वार्थिको यत् ॥ किंच यच्च दुष्स्वप्नमस्मे अस्मासु
+> दृष्टं । गोपीडानिमित्तकमस्माकं पीडानिमित्तकं च यद्दुःस्वप्नं पश्याम इत्यर्थः।
+> तत्सर्वं हे विभावरि । उषोनामैतत् । हे व्युच्छनवति देवि आप्त्याय त्रिताय परा
+> वह । दूरे परिहर ॥
+
+##### Gist of the bhāṣya
+
+With the rest of the sūkta beginning यच्च गोषु (*yacca goṣu*), one who has seen a bad dream should worship Āditya; this is laid down in the sūtra that begins with seeing an unpleasing dream and says that one worships Āditya with the five verses beginning यच्च गोषु (*yacca goṣu*) (Ā. Gṛ. 3-6-6) **NOTE**. O Uṣas, daughter of heaven, whatever inauspicious bad dream, a sign of calamity, has been seen concerning our cows, and whatever bad dream has been seen by us, a sign of trouble for the cows and for ourselves, all that, O Vibhāvarī (a name of Uṣas), O goddess who dawns, carry far away for Trita Āptya; remove it far off.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः दुहितः (*divaḥ duhitaḥ*)—O daughter of heaven
+- विभावरि (*vibhāvari*)—O radiant goddess Uṣas
+- गोषु (*goṣu*)—to our cows
+- यत् दुष्स्वप्नं (*yat duṣsvapnaṃ*)—whatever bad dream appears
+- यच्च (*yacca*)—and whatever bad dreams
+- अस्मे (*asme*)—appear to us as well
+- तत् (*tat*)—all of that
+- त्रिताय आप्ताय (*tritāya āptāya*)—away from Trita Āpta
+- परा वह (*parā vaha*)—cause to move far away
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, daughter of heaven, radiant goddess, whatever bad dream appears to our cows, whatever bad dreams appear to us as well, cause all of that to move away from me, Trita Āpta. O Uṣas and the other deities, your protections are free from sin. Your protections are auspicious.
+
+##### English translation
+Daughter of heaven, (Ushas), whatever ill-omened dream threatens our cattle or ourselves, keep it, O brilliant one, far from Trita Aptya ; your aids are void of harm, your aids are true aids.
+
+### Printed p. 542
+
+##### विशेषविषयगळु (Special Topics)
+
+When anyone has a bad dream, he should look at Āditya and pray, reciting from the fourteenth ṛk of this sūkta, beginning यच्च गोषु (*yacca goṣu*), to the end of the sūkta. This is set forth by the sūtra of the Āśvalāyana-gṛhya-sūtra that begins with स्वप्नममनोज्ञं (*svapnamamanojñaṃ*) and continues यच्च गोषु दुःस्वप्न्यमिति पंचभिरादित्यमुपतिष्ठेत (*yacca goṣu duḥsvapnyamiti paṃcabhirādityamupatiṣṭheta*) (Ā. Gṛ. 3-6 6) **NOTE**.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒ष्कं वा॑ घा कृ॒णव॑ते॒ स्रजं॑ वा दुहितर्दिवः ।  
+> त्रि॒ते दु॒ष्पप्नं॒ सर्व॑मा॒प्त्ये परि॑ दद्मस्यने॒हसो॑ व ऊ॒तयः॑  
+> सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निष्कं । वा । घ । कृणवते । स्रजं । वा । दुहितः । दिवः ।  
+> त्रिते । दुःस्वप्नं । सर्वं । आप्त्ये । परि । दद्मसि । अनेकहसः । वः । ऊतयः ।  
+> सुऊतयः । वः । ऊतयः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दिवो दुहितरुषः निष्कं वा घाभरणविशेषं वा कृणवते कुर्वते
+> स्वर्णकाराय यद्दुष्ट्स्वप्नं दृष्टं । स्वर्णकारेण निर्माणसमये दृष्टमित्यर्थः ।
+> घेति पूरणः । वाशब्दश्चार्थे । वाथवा स्रजं माल्यं कृणवते । कुर्वाण इत्यर्थः ।
+> तस्मिन्नपि मालाकारे मालानिर्माणसमये यदुष्ट्स्वप्नं दृष्टं तमभयविषयं
+> दुःस्वप्नमाप्त्येऽपां पुत्रे त्रिते वर्तमानं परि दद्मसि । उपरि दद्मः । वयं
+> त्रिताः परित्यजामेत्यर्थः । अथवा त्रिते मयि यद्दुष्ट्स्वप्नं दृष्टं तत्कर्णकाराय
+> मालाकाराय वा परि दद्मसि । अस्मत्तोऽपि निष्कृष्ट्य तयोरुपरि स्थापयाम ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, daughter of heaven: whatever bad dream is seen by a goldsmith who makes a niṣka, that is, a kind of ornament, at the time of his making it (the particle घा (*ghā*) is an expletive and वा (*vā*) has the sense of "and"), or by one who makes a garland (sraj), by the maker of the garland also at the time of making it, that dream, concerning fear, which rests in Trita, the son of Āptya (Āpa), we hand over (pari dadmasi), that is, we, the Tritas, give it up. Or else: whatever bad dream has been seen in me, Trita, that we hand over to the goldsmith or to the maker of garlands, drawing it out from ourselves and placing it upon those two. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः दुहितः (*divaḥ duhitaḥ*)—O Uṣas, daughter of the sky (antarikṣa) **NOTE**
+- त्रिते आप्त्ये (*trite āptye*)—upon me, Trita Āptya, who am affected
+- सर्वं मस्वप्नं (*sarvaṃ masvapnaṃ*)—all bad dreams
+- निष्कं ना कृणवते (*niṣkaṃ nā kṛṇavate*)—upon the goldsmith who makes ornaments and the like
+- स्रजं वा (*srajaṃ vā*)—or upon him who ties garlands
+- परि दद्मसि (*pari dadmasi*)—we make its effect fall
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are auspicious
+
+### Printed p. 543
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, daughter of heaven, all the bad dreams that have an effect on me, Trita Āpta, we make their effect fall upon the goldsmith who makes ornaments and the like, or upon him who ties garlands. Your protections are free from sin. Your protections are auspicious.
+
+##### English translation
+Daughter of heaven, whatever ill-omened dream threatens Trita Aptya, we transfer it to the worker of gold ornaments or to the maker of garlands your aids are void of harm, your aids are true aids.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद॑न्नाय॒ तद॑पसे॒ तं भा॒गमु॑पसे॒दुषे॑ ।  
+> त्रि॒ताय॑ च द्वि॒ताय॒ चोषो॑ दु॒ष्स्वप्नं॑ वहाने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शॆत् 5 अन्नाय । शॆत् 5 अवसे । तं । भागं । उपसेदुषे ।  
+> त्रिताय । च । द्विताय । च । उषः । दुःस्वप्नं । वह । अनेहसः । वः । ऊतॆयः ।  
+> सुऊतयः । वः । ऊतयः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तदन्नाय । यदेव जागरावस्थायां भोज्यत्वेन प्रसिद्धं मधुषायसादि
+> स्वैर्णपि तदेवान्नं यस्य सः । तादृशाय । प्रत्यक्षभोजनवत् स्वप्नेऽपि भोक्त्र
+> इत्यर्थः । तथातेदवसे । यदेवापः कर्म निंदितं जाग्रदवस्थायां क्रियते तदेव
+
+### Printed p. 544
+
+> कर्म स्वप्ने यस्य स तत्कर्मा । तादृशाय देवाय तं भागं मस्वप्नस्यांशमुपसेदुषे प्राप्नुवते त्रिताय द्विताय च हे उषो देवि दुष्कृत्यै मन्न कर्मविषयं
+> वह । अन्यत्र प्रापय । स्वप्ने दृष्टं मधुभोजनादिकं जाग्रदवस्थानुरूपवत्सुखकरं भवत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The word तदन्नाय (*tadannāya*) means one whose food, even in a dream, is that very food which in the waking state is known as fit to eat, honey, milk-rice and the like **NOTE**; that is, one who eats in a dream as in actual eating. Likewise तदपसे (*tadapase*): whatever blameworthy deed (apas) is done in the waking state, that same deed is his in a dream; for such a god, who has obtained that portion, that share of the bad dream, for Trita and for Dvita, O goddess Uṣas, carry the bad dream concerning that deed **NOTE** elsewhere; direct it to another place. The meaning is: let the honey-food and the like seen in a dream be pleasant, corresponding to the waking state.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- तदन्नाय (*tadannāya*)—to him who is seen to eat in a dream the very food that he eats when awake
+- तदपसे (*tadapase*)—to him who is seen to do in a dream the very deed that he does when awake
+- तं भागं (*taṃ bhāgaṃ*)—the fruit of that very bad dream
+- उपसेदुषे (*upaseduṣe*)—who obtains
+- त्रिताय (*tritāya*)—for Trita
+- द्विताय च (*dvitāya ca*)—and for Dvita also
+- दुःस्वप्नं (*duḥsvapnaṃ*)—that bad dream
+- वह (*vaha*)—turn to another place
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, for Trita and for Dvita, who are seen to eat in a dream the very food that they eat when awake, who are seen to do in a dream the very deed that they do when awake, and who obtain the fruit of that very bad dream, turn that bad dream to another place. O Uṣas and the other deities, your protections are free from sin. Your protections are auspicious.
+
+##### English translation
+Ushas, bear (elsewhere) the ill-omened dream for Trita and Dwita, who eat and do (in dreams) that (which is eaten and done amiss when awake) and who obtain that (inauspicious) portion ; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ क॒लां यथा॑ श॒फं यथ॑ ऋ॒णं सं॒नया॑मसि ।  
+> ए॒वा दु॒ष्पष्ट्यं॒ सर्व॑मा॒प्त्ये सं न॑यामस्यने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ १७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 538. Mandala 8 sukta 47 rks 7-12
+**Progress note:** Done through printed p. 544. Sukta 47 Rks 13-17: Trita Aptya dream-averting verses, Special Topics
