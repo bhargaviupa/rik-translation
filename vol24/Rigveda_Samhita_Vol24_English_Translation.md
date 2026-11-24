@@ -9438,6 +9438,273 @@ A brilliant chariot comes to him, sent by the gods, with which, baffling all hos
 > अस्य । प्रजावती । गृहे । असश्चंती । दिवेदिवे ।  
 > इळा । धेनुमती । दुहे ॥ ४ ॥
 
+### Printed p. 208
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रजावती पुत्रादियुक्तमसश्चंती । सश्चतिर्गतिकर्मा । अगमनशीलं तादृशं
+> धेनुमती । पयसा सर्वान् धिनोति प्रीणयतीति धेनुर्गौः । तत्सहितमिळान्नमस्य
+> यष्टुर्गृहे दिवेदिवे दुहे । दुह्यते । यद्वा । इळेति गवां देवता । सा स्थिरा
+> धेनुमती । गवां पतित्वाद्देनुभिर्धेनुमती । इळा गोदेवता देवैः प्रेरिता सत्यस्य
+> यजमानस्य गृहे दोग्ना । पुत्रादिकमस्मै ददातीत्यर्थः ॥ दुहेर्लट लोपस्त
+> आत्मनेपदेष्टिति तलोपः । अत्रेज्यास्तवः ॥
+
+##### Gist of the bhāṣya
+
+Prajāvatī is that which is endowed with sons and the like. Asaścantī: the root saścati has the sense of going; so that which is not given to going away, such a one. Dhenumatī: dhenu is the cow, for with her milk she delights and gratifies all; the food, iḷā, accompanied by it, is milked day by day in the house of this sacrificer. Or else Iḷā is the deity of cows; she is firm, dhenumatī, as having cows because she is the lord of cows. Iḷā, the deity of the cows, impelled by the gods, is milked in the house of the true sacrificer; that is, she gives him sons and the rest. Here is the praise of the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this sacrificer, the worshipper of the gods
+- गृहे (*gṛhe*)—in the house
+- दिवेदिवे (*divedive*)—every day
+- प्रजावती (*prajāvatī*)—that which is endowed with sons, grandsons and the rest
+- आसश्चंती (*āsaścaṃtī*)—that which is perpetual
+- धेनुमती (*dhenumatī*)—that which is endowed with cows giving abundant milk
+- इळा (*iḷā*)—food
+- दुहे (*duhe*)—is supplied by the gods
+
+##### भावार्थ (Bhāvārtha)
+
+In the house of this sacrificer, the worshipper of the gods, every day, food endowed with sons, grandsons and the rest, perpetual, and endowed with cows giving abundant milk, is supplied by the gods.
+
+##### English translation
+In his house perpetual abundance, accompanied by progeny, (is present), and milch cows are milked day by day.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या दंप॑ती॒ सम॑नसा सुनु॒त आ च॒ धाव॑तः ।  
+> देवा॑सो॒ नित्य॑या॒शिरा॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । दंपती इति दंपती । समनसा । सुनुतः । आ । च । धावतः ।  
+> देवासः । नित्यया । आशिरा ॥ ५ ॥
+
+### Printed p. 209
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र यजने दंपत्योः स्तुतिः । हे देवासो देवाः समनसा समनसौ
+> कर्मणि समानमनस्कौ या यौ दंपती यज्ञकारिणौ जायापती सुनुतः सोमाभिषवं कुरुतः । यौ दंपती ततस्तमभिषुतं सोमना धावतश्च दशापविश्रेण शोधयशः ॥ धावु गतिशुद्ध्योः ॥ तथा नित्यया । यत्र तृतीयसवने सोमोऽस्ति
+> तत्राश्रयणद्रव्यं गोक्षीरमस्येव । तस्मानित्यसंबंधेनाशिराश्रयणेन गोक्षीरेण
+> संयुतं सोमं यौ प्रयच्छतः तावन्नादीन् प्राप्नुत इत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Here, in the sacrifice, there is praise of the couple. O gods, the couple, husband and wife, who perform the rite with one mind in the work, press Soma; and the Soma thus pressed they purify with the ten-stranded filter. Likewise nityā: at the third pressing, where there is Soma, the substance that is mixed in is the milk of cows; therefore, joined by constant connection with the āśira, the milk of cows, the Soma which the two offer: those two obtain food and the rest. This is the connection with what follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O gods
+- समनसा (*samanasā*)—those with one and the same mind in the rite
+- या (*yā*)—which
+- दंपती (*daṃpatī*)—husband and wife
+- सुनुतः (*sunutaḥ*)—who press Soma
+- च (*ca*)—and
+- आ धावतः (*ā dhāvataḥ*)—who purify it with the ten-stranded filter
+- नित्यया (*nityayā*)—regularly and constantly joined
+- आशिरा (*āśirā*)—who offer Soma joined with the mixing substances such as milk (those couples obtain food and the rest)
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, the husband and wife who with one mind in the rite press Soma, and, having purified it with the ten-stranded filter, offer the Soma joined with the mixing substances such as milk, regularly and constantly joined, those couples obtain food and the rest.
+
+##### English translation
+Gods, may the husband and wife, who with one mind offer libations and purify them, and (propitate you) with Soma ever mixed with milk.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ प्राश॒व्या॑ इतः स॒म्यंचा॑ ब॒र्हिरा॑शाते ।  
+> न ता वाजे॑षु वायतः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । प्राशव्यान् । इतः । सम्यंचा । बर्हिः । आशाते इति ।  
+> न । ता । वाजेषु । वायितः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 210
+
+> तौ देवेभ्यो हविषां दातारौ दंपती प्राशव्यान् ॥ अश भोजने । प्रपूर्वस्यास्यादिको भाव उण्प्रत्ययः ॥ प्राशुर्भक्षणं । तस्मै साधून् हितान्वान्नादीन् प्रतीतः । प्रतिगच्छतः । यद्वा । प्राशितव्यान् ॥ अत्र वर्णलोपः ॥ तावेव
+> सम्यंचा सम्यंचौ समिचीन् संगत् बर्हिर्यज्ञमाशाते । आनशाते । तत्र
+> द्रव्यर्वाप्नुतः । तस्मात्तौ यष्टारौ भार्यापती वाजेषु देवैर्दत्तेष्वन्नेषु न
+> वायतः । वयतिर्गत्यर्थः । न गच्छतः । सर्वदान्नसहितौ तिष्ठातामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those two, the couple, who give oblations to the gods, go towards the prāśavya; the root aś is to eat, and prāśu is eating; the foods and the like that are good and beneficial for it, they go towards. Or else prāśavya means what is to be eaten. The very same two, samyañcā, together, obtain the barhis, the sacrifice, and there they obtain the materials. Therefore those two sacrificers, wife and husband, do not go from the foods given by the gods (vayati has the sense of going): the meaning is that they remain always provided with food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (the husband and wife described above) प्राशव्यान् (*prāśavyān*)—foods and the like fit for eating
+- प्रति इतः (*prati itaḥ*)—they obtain
+- सम्यंचा (*samyaṃcā*)—both of them united
+- बर्हिं (*barhiṃ*)—to perform the sacrifice
+- आशाते (*āśāte*)—become able
+- ता (*tā*)—they
+- वाजेषु (*vājeṣu*)—in the foods given by the gods
+- न वायतः (*na vāyataḥ*)—do not suffer any break or deficiency
+
+##### भावार्थ (Bhāvārtha)
+
+The husband and wife described before obtain foods and the like fit for eating. Both united, they become able to perform the sacrifice. In the foods given by the gods they suffer no break and no deficiency.
+
+##### English translation
+Constantly associated, may they acquire appropriate (sacrificial) viands; may they be able to offer sacrifice; may they never be wanting in food (given by the gods).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न दे॒वाना॒मपि॑ ह्नुतः सुम॒तिं न जु॑गुक्षतः ।  
+> श्रवो॑ बृ॒हद्वि॑वासतः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । देवानां । अपि । ह्नुतः । सुमतिं । न । जुघुक्षतः ।  
+> श्रवः । बृहत् । विवासतः ॥ ७ ॥
+
+### Printed p. 211
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतौ दंपती देवानामिंद्रादीनां नापि ह्नुतः । अपलुपं न कुरुतः ।
+> अपह्नवोऽपलापः । देवेभ्यो हविः प्रदास्याम इति प्रतिज्ञाय पुनरदानमहलापः ॥
+> ह्नुज् अपनये ॥ कथं नापलपंतीत्यवसीयते । तदाह । सुमतिं युष्मदीयां
+> शोभनां मतिं न जुगुक्षतः । जुघुक्षतः । न संवरीतुमिच्छतः । संवारणमाच्छादनं । न छादयत इत्यर्थः । किंतु स्तुतिं कुरुतः ॥ गुहू संवरणे । सनि ग्रहगुहोश्च । पा. ७-२-१२ । इतीट्प्रतिषेधः । धत्वषत्वभावौ । संहिताकाले भष्भावो
+> नास्ति छांदसत्वात् ॥ किंच बृहद्देवेभ्यो दीयदान्वतान्महच्छ्रवः । श्रव इत्यन्ननाम । महदन्नं विवासतः । युष्मभ्यं प्रयच्छतः । विवासतिः परिचरणकर्मा । दानमपि
+> च परिचरणमेव । देवैर्दत्तमन्नं धृतादिभिर्मिश्रीकृत्य पुनःपुनर्यजत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This couple do not deny the gods, Indra and the others: they do not make a concealment. Apahnava is concealment: having promised "We shall give oblation to the gods", afterwards not giving is concealment. How is it ascertained that they do not conceal? He says: they do not wish to cover your good mind, sumati; samvāraṇa is covering. The meaning is that they do not cover it, but make praise. Further, they offer to the gods great śravas; śravas is a name for food: they offer you great food. Vivāsati is a verb of service, and giving too is service. The meaning is that, having mixed with ghee and the like the food given by the gods, they sacrifice again and again.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (those couples intent on the rite) देवानां (*devānāṃ*)—the resolve made with regard to the gods
+- न अपि ह्युतः (*na api hyutaḥ*)—do not transgress, do not bring about the breaking of their vow
+- सुमतिं (*sumatiṃ*)—the excellent praise
+- न जुघुक्षतः (*na jughukṣataḥ*)—do not hide (they certainly praise the gods)
+- बृहत् (*bṛhat*)—abundantly
+- श्रवः (*śravaḥ*)—food in the form of oblation
+- विवासतः (*vivāsataḥ*)—they offer
+
+##### भावार्थ (Bhāvārtha)
+
+The same couple, intent on the rite, do not transgress the resolve made with regard to the gods. Without bringing about the breaking of their vow, they certainly offer excellent praise. They do not make it forgotten. They offer abundantly food in the form of oblation.
+
+##### English translation
+They retract not (their promises) to the gods, they withhold not your praise, but offer abundant (sacrificial) food.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒त्रिणा॒ ता कु॑मा॒रिणा॒ विश्व॒मायु॒र्व्य॑श्नुतः ।  
+> उ॒भा हिर॑ण्यपेशसा ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुत्रिणा । ता । कुमारिणा । विश्वं । आयुः । वि । अश्नुतः !  
+> उभा । हिरण्यपेशसा ॥ ८ ॥
+
+### Printed p. 212
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुत्रिणा पुत्रवंतौ तत्रापि कुमारिणा षोडशवर्षदेशीयपुत्रवंतौ हिरण्यपेशसा हिरण्मय्कॆराभरणैरलंकृतरूपानुभोभौ ता तौ दंपती विश्वं सर्वमायुरायुष्यं व्यश्नुतः । व्याप्नुतः । यज्ञेन तयोः पुत्रादिकं धनमायुश्च संभवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Putriṇā: those having sons; and among them kumāriṇā: those having sons of the age of sixteen years. Hiraṇyapeśasā: both of them are adorned in form with golden ornaments. Those two, the couple, pervade the whole life-span: by the sacrifice, sons and the rest, wealth and long life come to them. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कुमारिणा (*kumāriṇā*)—those endowed with young, youthful
+- पुत्रिणा (*putriṇā*)—endowed with sons and daughters
+- हिरण्यपेशसा (*hiraṇyapeśasā*)—those with ornaments of gold
+- उभा शा (*ubhā śā*)—those two, the couple
+- विश्वं (*viśvaṃ*)—the whole
+- आयुः (*āyuḥ*)—life-span
+- व्यश्नुतः (*vyaśnutaḥ*)—attain, pervaded with happiness
+
+##### भावार्थ (Bhāvārtha)
+
+Those two, the couple, intent on the sacrificial rite, endowed with sons and daughters in young youthfulness, and with ornaments of gold, attain their whole life-span, full of happiness.
+
+##### English translation
+Blessed with youthful and adolescent offspring, and both having their persons richly ornamented, they pass (happily) their whole life.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नी॒तिहो॑त्रा कृ॒तद्व॑सू दश॒स्यंता॒मृता॑य॒ कं ।  
+> समूधो॑ रोम॒शं ह॑तो दे॒वेषु॑ कृणुतो॒ दुवः॑ ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वीतिहोत्रा । कृतद्वसू इति कृतत्वसू । दशस्यंता । अमृताय । कं ।  
+> सं । ऊधः । रोमशं । हतः । देवेषु । कृणुतः । दुवः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वीतिहोत्रा वीतिहोत्रौ । वीतिः प्रियकरो होत्रा यज्ञो ययोस्त्यौ ।
+> आनेन यज्ञेन तयोः सुखादिकं संभवति । तादृशौ । यद्वा । वीतिः कांत्यर्थः ।
+> होत्रेति वाङ्गाम । आस्मद्विषयां स्तुतिं कुरुतमिति पृथक्पृथग्देवैः काम्यमानस्तुती । अत एव कं स खप्रदं हवीरूपमन्नं दशस्यंता देवेभ्यः प्रयच्छंता
+> कृतद्वसू ॥ तकारोपजनश्कांदसः ॥ याचमानकृतधना । पात्रेषूपयुक्तधना-
+
+##### Gist of the bhāṣya
+
+Vītihotrā: those two whose hotra, sacrifice, is vīti, pleasing; by this sacrifice happiness and the like come to them; such are they. Or else vīti has the sense of desire, and hotrā is speech: the praise desired by the gods, each separately, that they should make praise concerned with us. Hence kam, the happiness-giving food in the form of oblation, they offer (daśasyantā) to the gods. Kṛtadvasū: those who have made wealth by asking, whose wealth is used for worthy recipients.
+
+### Printed p. 213
+
+> वित्यर्थः । एवंविधौ दंपती अमृतायामरणाय संतानाभिवृद्धये रोमशं
+> रोमवंतं वृषणमूधो योनिं च सं हतः । संयोजयत इति । मैथुनमनूद्यते । ततः सपुत्रादिकौ तौ देवेषु दुवः स्तुत्यन्नदानरूपां परिचर्यां कृणुतः ।
+> कुरुतः ॥ पंचभिर्दंपती अस्तूयेतां ॥
+
+##### Gist of the bhāṣya
+
+Such a couple, for immortality, that is, for freedom from death, for the increase of progeny, bring together the hairy male organ and the womb, that is, they unite; sexual union is referred to. Then, with sons and the rest, those two perform among the gods service, dūva, in the form of praise and gift of food. By five verses the couple were praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीतिहोत्रा (*vītihotrā*)—those who perform the sacrifice dear to the gods
+- कं (*kaṃ*)—the happiness-giving food (the oblation)
+- दशश्यंता (*daśaśyaṃtā*)—those who offer to the gods
+- कृतद्वसू (*kṛtadvasū*)—those who obtain the wealth they asked for, the same couple
+- अमृताय (*amṛtāya*)—in order to attain freedom from death (for the increase of progeny)
+- रोमशं ऊधः सं हतः (*romaśaṃ ūdhaḥ saṃ hataḥ*)—for the birth of a son they make connection of the hairy male organ and the womb, that is, they come together
+- देवेषु (*deveṣu*)—with regard to the gods
+- दुवः (*duvaḥ*)—worship
+- कृणुतः (*kṛṇutaḥ*)—they carry out
+
+##### भावार्थ (Bhāvārtha)
+
+The couple who perform the sacrifice dear to the gods and offer to them the happiness-giving oblation, having obtained the wealth asked from the gods, for the increase of their progeny, so that their line may grow without break, with the aim of the birth of a son, both come together, making connection of the hairy male organ and the womb. With regard to the gods they carry out worship.
+
+##### English translation
+Offering acceptable sacrifices, obtaining the wealth they solicit, presenting gratifying (oblations to the gods), for the sake of immortality enjoying personal union, they (wife and husband) worship the gods.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ शर्म॒ पर्व॑तानां वृणी॒महे॑ न॒दीनां॑ ।  
+> आ विष्णोः॑ सचा॒भुवः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । शर्म । पर्वतानां । वृणीमहे । नदीनां ।  
+> आ । विष्णोः । सचाऽभुवः ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 207. Sūkta 30 Ṛks 2-4 end, Sūkta 31 Ṛks 1-4
+**Progress note:** Done through printed p. 213. Sūkta 31 Ṛks 4-10
