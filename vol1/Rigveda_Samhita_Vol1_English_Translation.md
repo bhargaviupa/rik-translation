@@ -1605,14 +1605,14 @@ That is: once Shakalya completed his Samhita, the gods heard it and sent rain. T
 
 ### Page 61
 
-The Vedartha-dipika states plainly: *śākalyoccāraṇaṃ śākalakam* — "what Shakalya recited is called 'Shakalaka.'" This confirms the Sarvanukramani describes all Samhitas belonging to the Shakala tradition collectively. The author notes one specific scholarly disagreement: McDonell's claim that the "Sanjnana-sukta" mentioned at the Sarvanukramani's close belongs to the Shakala Samhita appears doubtful, since better evidence suggests it is actually a Khila-sukta belonging to the Bashkala Samhita instead.
+The Vedartha-dipika states plainly: *śākalyoccāraṇaṃ śākalakam* — "what Shakalya recited is called 'Shakalaka.'" This confirms the Sarvanukramani describes all Samhitas belonging to the Shakala tradition collectively. The author notes one specific scholarly disagreement: McDonell's claim that the "Sanjnana-sukta" mentioned at the Sarvanukramani's close belongs to the Shakala Samhita appears doubtful, since several authorities make it the closing sukta of the Bashkala Samhita instead.
 
 The Anuvakanukramani gives the Shakalya Samhita's word-count:
 
-> शाकल्यदृष्टे पदलक्ष्मेकं सार्धं च वेदे त्रिसहस्रयुक्तम् । शतानि चाष्टौ दशकद्वयं च सदानि षट् चेति हि चर्चितानि ॥ ४५ ॥
+> शाकल्यदृष्टे पदलक्ष्ममेकं सार्धं च वेदे त्रिसहस्रयुक्तम् । शतानि चाष्टौ दशकद्वयं च पदानि षट् चेति हि चर्चितानि ॥ ४५ ॥
 >
-> शाकल्य-दृष्टे पदलक्ष्मेकं सार्धं च वेदे त्रिसहस्रयुक्तम् । शतानि चाष्टौ दशकद्वयं च सदानि षट् चेति हि चर्चितानि ॥
-> *śākalya-dṛṣṭe padalakṣmekaṃ sārdhaṃ ca vede trisahasrayuktam | śatāni cāṣṭau daśakadvayaṃ ca sadāni ṣaṭ ceti hi carcitāni ||*
+> शाकल्य-दृष्टे पदलक्ष्ममेकं सार्धं च वेदे त्रिसहस्रयुक्तम् । शतानि चाष्टौ दशकद्वयं च पदानि षट् चेति हि चर्चितानि ॥
+> *śākalya-dṛṣṭe padalakṣmamekaṃ sārdhaṃ ca vede trisahasrayuktam | śatāni cāṣṭau daśakadvayaṃ ca padāni ṣaṭ ceti hi carcitāni ||*
 >
 > — summarized as: the Shakalya Samhita contains, in total, **1,53,826 words**.
 
@@ -1622,13 +1622,13 @@ Sayanacharya's own Aitareya Aranyaka commentary likewise references the Shakalya
 
 Establishing who "Bashkala" was requires some care, since a similarly-named figure appears in the Mahabharata's Adiparva (59-18; 61-9) unrelated to any shakha-founder — the author explicitly warns not to confuse the two. The Brahmanda Purana gives the actual shakha-founder's lineage:
 
-> चतस्रः संहिताः कृता बाष्कलेन द्विजसत्तमः । शिष्यानध्यापयामास शुश्रूषाभिरतान् हितान् ॥ २६ ॥ बोध्यां तु प्रथमां शाखां द्वितीयामग्निमातरम् । पाराशरीं तृतीयां तु याज्ञवल्क्यामथापरां ॥ २७ ॥
+> चतस्रः संहिताः कृता बाष्कलो द्विजसत्तमः । शिष्यानध्यापयामास शुश्रूषाभिरतान् हितान् ॥ २६ ॥ बोध्यां तु प्रथमां शाखां द्वितीयामग्निमातरम् । पाराशरीं तृतीयां तु याज्ञवल्क्यामथापरां ॥ २७ ॥
 >
 > "Bashkala, foremost of the twice-born, composed four Samhitas and taught them to his devoted disciples: the first shakha Baudhya, the second Agnimatara, the third Parasharya, and the fourth Yajnavalkya."
 
 ### Page 62
 
-A parallel Brahmanda Purana verse gives the same four names with only minor spelling variants (Baudhya, Agnimahara, Parashara, Yajnavalkya). But a separate genealogical passage in the same Purana, and the parallel reading in the Vishnu Purana, replace the fourth name "Yajnavalkya" with **"Jatukarnya"** instead — and the author, weighing the manuscript evidence (and noting that the Bhagavata Purana's twelfth canto independently names Jatukarnya, not Yajnavalkya, as a Rigveda teacher), concludes that "Jatukarnya" is the correct reading here, not "Yajnavalkya." The four Bashkala sub-shakhas are therefore: **Baudhya, Agnimathara, Parashara,** and **Jatukarnya.**
+A parallel Brahmanda Purana verse gives the same four names with only minor spelling variants (Baudhya, Agnimahara, Parashara, Yajnavalkya). But a separate genealogical passage in the same Purana (ch. 33) names Sandhyasti, Mathara, Yajnavalkya and Parashara, while the Vishnu Purana reads Bauddha, Agnimathara, Jatukarna and Parashara, with **"Jatukarna"** in place of "Yajnavalkya" — and the author, weighing the manuscript evidence (and noting that the Bhagavata Purana's twelfth canto independently names Jatukarnya, not Yajnavalkya, as a Rigveda teacher), concludes that "Jatukarnya" is the correct reading here, not "Yajnavalkya." The four Bashkala sub-shakhas are therefore: **Baudhya, Agnimathara, Parashara,** and **Jatukarnya.**
 
 ### 1. The Baudhya Shakha
 
@@ -1637,15 +1637,15 @@ Baudhya belongs to the Angirasa gotra. Panini's grammar states: *kapi bodhād ā
 
 ### Page 63
 
-Baudhya's name also appears in Brihaddevata verses (84, 85; 125), though textual corruption is significant here — McDonell's and Rajendralal Mitra's editions diverge substantially, and McDonell himself flags the passage as corrupt in his footnotes. Working through the manuscript variants, the author reconstructs the sense as identifying a teacher named Baudhya, and suggests the adjacent name "matara" in the same verse should be read as "Agnimatara" — the two shakha-founders apparently named together. Separately, the Mahabharata's Adiparva (1-48-6) mentions a "Bodhi" serving as Adhvaryu priest at King Janamejaya's snake-sacrifice (Sarpa-yaga); Baudhya the shakha-founder is said to have had a son, Yatati, whose own grandson's story appears at the start of the Shantiparva (176-57) — though no Samhita or Brahmana text for this shakha survives.
+Baudhya's name also appears in Brihaddevata verses (84, 85; 125), though textual corruption is significant here — McDonell's and Rajendralal Mitra's editions diverge substantially, and McDonell himself flags the passage as corrupt in his footnotes. Working through the manuscript variants, the author reconstructs the sense as identifying a teacher named Baudhya, and suggests the adjacent name "matara" in the same verse should be read as "Agnimatara" — the two shakha-founders apparently named together. Separately, the Mahabharata's Adiparva (1-48-6) mentions a "Bodhipingala" serving as Adhvaryu priest at King Janamejaya's snake-sacrifice (Sarpa-yaga); a sage named Bodhya also lived in the time of Yayati, son of Nahusha, and his "Padasanchaya" story begins in the Shantiparva (176-57) — though no Samhita or Brahmana text for this shakha survives.
 
 **2. The Agnimatara Shakha:** known only from the single Brihaddevata verse just discussed — nothing further about this shakha is known.
 
-**3. The Parashara Shakha:** no Parasharya Samhita has been located elsewhere, though a related figure, "Aruna Parashara" (a Brahmin), is mentioned in a separate lineage text (title: *"On the Kalpa-form nature of the Aruna-Parashara-shakha-Brahmana,"* Chowkhamba edition, p. 164) — whether this is the same Parashara shakha is left an open question. The Kashika-vritti grammar commentary (on the Ashtadhyayi sutra 4-2-105) separately names an "Arunaparasharya," again of uncertain connection. The form *pārāśarakalpikaḥ* (cited under 4-2-60) the author takes as confirming a Kalpa-sutra text once existed for this Rigveda Parashara-shakha specifically.
+**3. The Parashara Shakha:** no Parasharya Samhita has been located elsewhere, though a related figure, "Aruna Parashara" (a Brahmana text), is named by Kumarila in his Tantravartika (the passage on the Kalpa-form nature of the Aruna-Parashara-shakha-Brahmana, Chowkhamba edition, p. 164) — whether this is the same Parashara shakha is left an open question. The Kashika-vritti grammar commentary (on the Ashtadhyayi sutra 4-2-105) separately names an "Arunaparasharya," again of uncertain connection. The form *pārāśarakalpikaḥ* (cited under 4-2-60) the author takes as confirming a Kalpa-sutra text once existed for this Rigveda Parashara-shakha specifically.
 
 ### Page 64 — 4. The Jatukarnya Shakha
 
-The Sankhyayana Shrautasutra names a teacher Jatukarnya at four points (1-2-17, 3-16-14, 3-20-19, 16-29-6), once as "Jalapaja Jatukarnya," described as family priest (purohita) to the kings of Kashi, Videha, and Kosala, with a son named Purnindhana (also called Shreetavika). He also appears in the Sankhyayana-Grihyasutra (4-10-3) and the Shambavya-Grihyasutra's genealogical section, strengthening his identification as the Rigveda shakha-founder; further mentions occur in the Kaushitaki-Brahmana tradition and at the opening of the Charaka Samhita, though the author cautions that these scattered references cannot be confirmed with certainty as all referring to one and the same person. Variant name-forms (Jatukarnya, Jatukarna, Jatukarni) appear as cited authorities in Dharmasutra literature as well (Balakrida, part 1, p. 7; Smriti-chandrika, Ahnika-prakasha, p. 302).
+The Sankhyayana Shrautasutra names a teacher Jatukarnya at four points (1-2-17, 3-16-14, 3-20-19, 16-29-6), once as "Jala (= Jada) Jatukarnya," described as family priest (purohita) to the kings of Kashi, Videha, and Kosala, with a son named Shvetaketu. He also appears in the Sankhyayana-Grihyasutra (4-10-3) and the Shambavya-Grihyasutra's genealogical section, strengthening his identification as the Rigveda shakha-founder; further mentions occur in the Kaushitaki-Brahmana tradition and at the opening of the Charaka Samhita, though the author cautions that these scattered references cannot be confirmed with certainty as all referring to one and the same person. Variant name-forms (Jatukarnya, Jatukarna, Jatukarni) appear as cited authorities in Dharmasutra literature as well (Balakrida, part 1, p. 7; Smriti-chandrika, Ahnika-prakasha, p. 302).
 
 ### The Bashkala Samhita
 
@@ -1654,9 +1654,9 @@ Just as the Shakalya line has its root Samhita, the Bashkala line should likewis
 
 ### Page 65 — The Bashkala Samhita, continued
 
-The Pratijna-sutra's commentary states that the Bashkala-related Brahmana texts share a single, distinctive accentual quality, and goes on to distinguish the Shakalya and Bashkala traditions specifically by their opening and closing verses. Citing the Ashvalayana Grihyasutra and commentaries by Devasvamin, Haradatta, and Narayana, the author establishes that the Shakala Samhita opens with *"samānī va ākūtiḥ"* and closes with a verse ending in *"iṣe"*; the Bashkala Samhita closes instead with *"tac chaṃyor āvṛṇīmahe"* — which is itself the closing mantra of the "Sanjnana-sukta." This implies the Sanjnana-sukta serves as the Bashkala Samhita's concluding hymn, a position the Sankhyayana-Grihyasutra (4-5) shares — suggesting the Sankhyayana Samhita likewise ends with this same hymn. On this point, the Western scholar Bühler wrote, in his introduction to the Sankhyayana Grihyasutra:
+The Pratijna-sutra's commentary states that the Bashkala-related Brahmana texts share a single, distinctive accentual quality, and goes on to distinguish the Shakalya and Bashkala traditions specifically by their opening and closing verses. Citing the Ashvalayana Grihyasutra and commentaries by Devasvamin, Haradatta, and Narayana, the author establishes that the Shakala Samhita closes with the verse *"samānī va ākūtiḥ"*; the Bashkala Samhita closes instead with *"tac chaṃyor āvṛṇīmahe"* — which is itself the closing mantra of the "Sanjnana-sukta." This implies the Sanjnana-sukta serves as the Bashkala Samhita's concluding hymn, a position the Sankhyayana-Grihyasutra (4-5) shares — suggesting the Sankhyayana Samhita likewise ends with this same hymn. On this point, the Western scholar Bühler wrote, in his introduction to the Sankhyayana Grihyasutra:
 
-> "It is well known that [tacchamyoravrisheemahe] is the last verse in the Bashkala Sakha which was adopted by the Sankhyayana school."
+> "It is well known that [tacchamyoravrisheemahe] is the last verse in the Bashkala Sakha which was adopted by the Sankhayana school."
 
 The author pushes back on this characterization: the Sankhyayana tradition has its own distinct Samhita rather than simply "adopting" Bashkala's, even though the two traditions do happen to share this same closing hymn — a coincidence of shared ending rather than evidence that one was absorbed into the other.
 
@@ -1664,7 +1664,7 @@ The author pushes back on this characterization: the Sankhyayana tradition has i
 
 The Anuvakanukramanike states:
 
-> गौतमादौशिजः कुत्सः परुच्छेपादृषेः परः । कुत्साद्दीर्घतमा इत्येष तु बाष्कलकः क्रमः ॥  ॥
+> गौतमादौशिजः कुत्सः परुच्छेपादृषेः परः । कुत्साद्दीर्घतमा इत्येष तु बाष्कलकः क्रमः ॥ २१ ॥
 >
 > *gautamād auśijaḥ kutsaḥ parucchepād ṛṣeḥ paraḥ | kutsād dīrghatamā ity eṣa tu bāṣkalakaḥ kramaḥ ||* (verse re-read from the better scan in the [?] pass)
 
@@ -1682,16 +1682,16 @@ This is the Bashkala krama. In the Shakala krama, Kutsa's suktas come immediatel
 
 The Bashkala Pratishakhya rule is found in Varadatta-suta Anartiya's Sankhyayana-Shrautasutra-bhashya (1-2-5). The Anuvakanukramani writes:
 
-> एकं सहस्रं दश सप्त चैवाष्टावतश्च बाष्कलक्षेऽधिकानि । तान्स्वारणे शाकले शैशिरीये वदन्ति शिष्टा न शिलेषु विप्राः ॥ ३६ ॥
+> एकं सहस्रं दश सप्त चैवाष्टावतो बाष्कलकेऽधिकानि । तान्पारणे शाकले शैशिरीये वदन्ति शिष्टा न खिलेषु विप्राः ॥ ३६ ॥
 >
-> एकं सहस्रं दश सप्त चैवाष्टाव् अतश् च बाष्कलक्षेऽधिकानि । तान् स्वारणे शाकले शैशिरीये वदन्ति शिष्टा न शिलेषु विप्राः ॥
-> *ekaṃ sahasraṃ daśa sapta caivāṣṭāv ataś ca bāṣkalakṣe'dhikāni | tān svāraṇe śākale śaiśirīye vadanti śiṣṭā na śileṣu viprāḥ ||*
+> एकं सहस्रं दश सप्त चैवाष्टाव् अतो बाष्कलकेऽधिकानि । तान् पारणे शाकले शैशिरीये वदन्ति शिष्टा न खिलेषु विप्राः ॥
+> *ekaṃ sahasraṃ daśa sapta caivāṣṭāv ato bāṣkalake'dhikāni | tān pāraṇe śākale śaiśirīye vadanti śiṣṭā na khileṣu viprāḥ ||*
 >
-> "One thousand and seventeen, and eight more besides — these [additional mantras] belong to the Bashkala [tradition]; learned Brahmins declare them absent in the Shakala/Shaishiriya svarana [reading], not [merely] omitted by chance."
+> "One thousand and seventeen, and eight more besides — these [additional mantras] belong to the Bashkala [tradition]; learned Brahmins say, they are not recited in the Shakala and Shaishiriya recitation (parana), nor in the khilas."
 
 The Bashkala shakha's text has eight more suktas than the Shakala shakha's text.
 
-Thus the Shakala text has 1117 suktas and the Bashkala text 1125 suktas. Of these eight suktas, one is the Bashkala shakha's final sukta, the Samjnana-sukta; the remaining seven are the first seven of the 11 Valakhilya suktas. The mention of these 11 Valakhilya suktas is found in Macdonell's Sarvanukramani; this cannot be the reading of the Shakalaka Sarvanukramani, because the Shakala shakha has only 1117 suktas.
+Thus the Shakala text has 1117 suktas and the Bashkala text 1125 suktas. Of these eight suktas, one is the Bashkala shakha's final sukta, the Samjnana-sukta; the remaining seven are the first seven of the 11 Valakhilya suktas. Of these 11 Valakhilya suktas, ten are mentioned in Macdonell's Sarvanukramani; this cannot be the reading of the Shakalaka Sarvanukramani, because the Shakala shakha has only 1117 suktas.
 
 In what order the seven Valakhilya suktas stand in the Bashkala shakha, Mahidasa has written in his commentary on the Charanavyuha. That order is as follows:
 
@@ -1705,7 +1705,7 @@ This is the Bashkala reading. It is not known from where Mahidasa took this orde
 
 ### Page 67
 
-This concludes the discussion of the Bashkala shakha. A reference work, Kavindracharya's manuscript catalogue (entry ~218), lists a text titled "Bashkalashakheeya-Samhita and Brahmana," and a short Upanishad called the *Bashkala-mantropanishad* also exists.
+The eighth mandala of the Bashkala shakha has 99 suktas in all. This concludes the discussion of the Bashkala shakha. A reference work, Kavindracharya's manuscript catalogue (entry no. 27), lists a text titled "Bashkalashakheeya-Samhita and Brahmana," and a short Upanishad called the *Bashkala-mantropanishad* also exists.
 
 ---
 
@@ -1713,7 +1713,7 @@ This concludes the discussion of the Bashkala shakha. A reference work, Kavindra
 
 ### The Ancient Ashvalayana
 
-Tradition traces a teacher called Kaushalya Ashvalayana (so named for hailing from Koshala) to a lineage recorded in the Brihadaranyaka Upanishad (3-1-1): King Janaka's Hotr priest was named Ashvala, and his son came to be called "Ashvalayana" — plausibly the same figure carried forward in Rigveda tradition, since the Hotr's role is specifically tied to Rigveda recitation. This Ashvala is described as belonging to a Kuru- or Panchala-region Brahmana family; the Prashna-Upanishad instead places Ashvalayana in Kosala — neighboring regions, so no real contradiction. The Charaka Samhita (1-9) independently names an "Ashvalayana" among the sages gathered at the Himalayas, and the Mahabharata's Anushasana-parva [7-54] states that Ashvalayana was a grandson of Vishvamitra.
+Tradition traces a teacher called Kaushalya Ashvalayana (so named for hailing from Koshala) to a lineage recorded in the Brihadaranyaka Upanishad (3-1-1): King Janaka's Hotr priest was named Ashvala, and his son came to be called "Ashvalayana" — plausibly the same figure carried forward in Rigveda tradition, since the Hotr's role is specifically tied to Rigveda recitation. This Ashvala is described as belonging to a Kuru- or Panchala-region Brahmana family; the Prashna-Upanishad instead places Ashvalayana in Kosala — neighboring regions, so no real contradiction. The Charaka Samhita (1-9) independently names an "Ashvalayana" among the sages gathered at the Himalayas, and the Mahabharata's Anushasana-parva [7-54] states that Ashvalayana belonged to the gotra of Vishvamitra.
 
 ### The Ashvalayana of the Buddha's Time
 
@@ -1722,23 +1722,23 @@ Interestingly, a different Ashvalayana appears centuries later: the Majjhima Nik
 
 ### Page 68 — The Buddha-Era Ashvalayana Was Not the Shakha-Founder
 
-Some Bengali writers mistakenly conflated the Buddha-era Ashvalayana with the author of the Ashvalayana-Grihyasutra. The author rejects this: since Ashvalayana the shakha-founder belongs to the Vyasa-disciple lineage, his era must predate the Buddha by many centuries at least — the Buddha-era figure of the same name and Vedic learning was simply a different, much later person, and a distinct "Ashvalayana" tradition/family name persists in many parts of the country even today independent of this confusion.
+Some Bengali writers mistakenly conflated the Buddha-era Ashvalayana with the author of the Ashvalayana-Grihyasutra. The author rejects this: since Ashvalayana the shakha-founder belongs to the Vyasa-disciple lineage, his era must predate the Buddha by thousands of years — the Buddha-era figure of the same name and Vedic learning was simply a different, much later person, and the Buddha-era Ashvalayana must have been some Brahmin studying the Ashvalayana shakha, and many such Brahmins are still found in Maharashtra today.
 
-Turning to the shakha itself: the Puranas offer no genealogical account of an "Ashvalayana" shakha-founder comparable to what exists for the other shakhas, and it remains genuinely uncertain whether an independent "Ashvalayana Samhita" (distinct from the standard Shakala text) ever existed, despite the shakha's fame today resting on the well-known Ashvalayana Shrauta- and Grihyasutras. The author gathers several pieces of manuscript evidence bearing on this question: a Kavindracharya catalogue entry (p. 1, no. 29) titled "Ashvalayana-Samhita or Brahmana"; a note that the commentator Mahidasa gives a different word-count for the Ashvalayana text than other authorities; and a Bikaner manuscript (catalogue no. 3, 8. 47, 63) explicitly labeled as belonging to the Ashvalayana shakha, ending with the phrase *"iti aśvamāske aśvano'dhyāyaḥ"* ("thus the Ashva-related chapter") — though the author notes this label may not be entirely accurate.
+Turning to the shakha itself: the Puranas offer no genealogical account of an "Ashvalayana" shakha-founder comparable to what exists for the other shakhas, and it remains genuinely uncertain whether an independent "Ashvalayana Samhita" (distinct from the standard Shakala text) ever existed, despite the shakha's fame today resting on the well-known Ashvalayana Shrauta- and Grihyasutras. The author gathers several pieces of manuscript evidence bearing on this question: a Kavindracharya catalogue entry (p. 1, no. 29) titled "Ashvalayana-Samhita or Brahmana"; a note that the commentator Mahidasa gives a different word-count for the Ashvalayana text than other authorities; and a Bikaner manuscript (catalogue no. 3, 8. 47, 63) explicitly labeled as belonging to the Ashvalayana shakha, ending with the phrase *"iti aṣṭamāṣṭake aṣṭamo'dhyāyaḥ"* ("thus the eighth chapter in the eighth ashtaka") — but the last mantra stands in the middle of the fifth chapter, and whether the difference is due to the shakha or to a damaged text is disputed; the label "eighth chapter" is in any case wrong.
 
 ### Page 69
 
-Further evidence: a Punjab University (Lahore) manuscript titled "Rik-Samhita's Ashvamashaka" opens by naming itself the "Ashvalayana-Samhita," and, after this, a varga of five mantras, with the varga number 50 at its end — five specific mantras (verses 3, 4, 5 cited) culminating in *"tac chaṃyor āvṛṇīmahe"* — closely parallels the Bashkala Samhita's own concluding Sanjnana-sukta (which has 15 mantras), though with a small but notable difference (two additional mantras present in one tradition but not the other, one of which is actually from the Atharvaveda), leading the author to treat this material as a Parishishta (supplement) specific to this manuscript rather than confirming a wholly separate Ashvalayana Samhita. A Dayananda College library palm-leaf manuscript, in Grantha script, of the Pada-patha of Ashtakas 5-7 of the Rigveda (catalogue no. 4139) similarly ends with "Thus concludes the Ashvalayana-sutra," though without enough context to confirm which shakha's text it actually represents. Raghunandana's *Smriti-tattva* also quotes a passage explicitly attributed to an "Ashvalayana-Brahmana"
+Further evidence: a Punjab University (Lahore) manuscript titled "Rik-Samhita's Ashvamashaka" is entered on its first page as "Ashvalayana-Samhita, Ashtamashtaka, 89 leaves"; at the end, after the mantra that closes the 49th varga, stands a varga of five mantras (the first words of all five are cited, the last being the closing mantra of the Sanjnana-sukta), numbered 50 at its end, and after it the words closing the tenth mandala. The concluding Sanjnana-sukta of the Bashkala Samhita has 15 mantras. The manuscript has some Parishishtas, all without accents; the 50th varga has accents, so it is not a Parishishta but, in the author's view, the last varga of the Ashvalayana Samhita. After the closing words of the tenth mandala two further lines hold two mantras of the 15-mantra Sanjnana-sukta, the second only half (a leaf seems to have been lost); these are a Parishishta only of this Samhita, since the mantras have no accents. A Dayananda College library palm-leaf manuscript, in Grantha script, of the Pada-patha of Ashtakas 5-7 of the Rigveda (catalogue no. 4139) similarly ends with "Thus concludes the Ashvalayana-sutra," though without enough context to confirm which shakha's text it actually represents. Raghunandana's *Smriti-tattva* also quotes a passage explicitly attributed to an "Ashvalayana-Brahmana"
 
 ### Page 70
 
-— though this passage is traceable to the Aitareya Brahmana itself (3-1-1), and old Bengali and Mithila scholarly custom evidently referred to Aitareya Brahmana citations under the name "Ashvalayana Brahmana" as a matter of convention, rather than indicating a genuinely separate text. An Asiatic Society catalogue entry (no. 199) confirms this identity explicitly.
+— though this passage is traceable to the Aitareya Brahmana itself (3-1-1), and recent Bengali and Mithila scholars evidently referred to Aitareya Brahmana citations under the name "Ashvalayana Brahmana" as a matter of convention, rather than indicating a genuinely separate text. An Asiatic Society catalogue entry (no. 199) confirms this identity explicitly. The name "Ashvalayana Brahmana" is also mentioned in some places in central India.
 
 ### The Basis of the Ashvalayana Kalpa-sutra
 
 Since Kalpa-sutras are normally composed as authoritative supports for one specific shakha (treating that shakha's own mantras as primary and others' as secondary), the question becomes whether the Ashvalayana-sutra follows this same pattern or draws more broadly. Citing four separate ancient commentators on the Ashvalayana Shrautasutra, the author builds a clear case that it does not confine itself to one shakha:
 
-**Devasvamin**, the earliest commentator, writes in his opening remarks that the text's intended "samamnaya" (traditional recension) could be read as Shakala, Bashkala, "or indeed all the Rigveda's shakhas" collectively.
+**Devasvamin**, an ancient commentator, writes in his opening remarks that the text's intended "samamnaya" (traditional recension) could be read as Shakala, Bashkala, "or indeed all the Rigveda's shakhas" collectively.
 
 **Devatrata** similarly holds that whichever shakha's mantras are traditionally received and Vedic in character are equally treated as valid scriptural authority for this Sutra's purposes — the underlying unity of "the Rigveda" across its shakhas is what actually matters, not adherence to one specific recension.
 
@@ -1748,7 +1748,7 @@ Since Kalpa-sutras are normally composed as authoritative supports for one speci
 
 **Shadguru-shishya**, in his introduction to his Sarvanukramani commentary, states the matter most directly:
 
-> शाकलस्य संहितैका बाष्कलस्य तथापर । द्वे संहिते समाश्रित्य ब्राह्मणान्येकविंशतिः ॥ ऐतरेयकमाश्रित्य तदेवान्यः प्रपूरयन् । कल्पसूत्रं चकाराश्व महर्षिर्गणपूजितः ॥
+> शाकलस्य संहितैका बाष्कलस्य तथापरा । द्वे संहिते समाश्रित्य ब्राह्मणान्येकविंशतिः ॥ ऐतरेयकमाश्रित्य तदेवान्यैः प्रपूरयन् । कल्पसूत्रं चकाराथ महर्षिगणपूजितः ॥
 >
 > "There is one Samhita of Shakala, and another of Bashkala. Relying on both these Samhitas, together with the twenty-one Brahmanas [and] the Aitareya [Brahmana] to complete it, the great sage Ashva[layana], honored by the assembly, composed the Kalpa-sutra."
 
@@ -1757,7 +1757,7 @@ All four commentators thus converge on the same essential point: **the Ashvalaya
 
 ### Page 72
 
-Testing this against a specific citation (three mantras beginning "kṣiprim vātaram," found, among the Vedic texts now available, only in the Taittiriya Brahmana [2-4-6-8] and the Ashvalayana Shrautasutra), the author finds a genuine complication: the Brihaddevata's own traditional sukta-list includes a "Brahmajnanam" sukta found across all variants of the Ashvalayana Shrautasutra [4-6] but in no other manuscript tradition; an Ashvalayana Brahmana must then have existed, somewhat different from the Aitareya Brahmana, since even the pratika of the brahma jajñānam mantra found in the Aitareya Brahmana [1-19] is not found in it — proving that some material genuinely unique to the Ashvalayana Sutra exists outside any single known shakha. The conclusion: **no Shrautasutra text can be shown to belong exclusively to one single Rigveda shakha**, and whether a single root-text ultimately underlies both Shakala and Bashkala, or whether an independent Ashvalayana Samhita once existed in its own right, remains genuinely unresolved — reasonable scholars differ, and the question stays open.
+Testing this against a specific citation (three mantras beginning "pṛthivīṃ mātaraṃ," found, among the Vedic texts now available, only in the Taittiriya Brahmana [2-4-6-8] and the Ashvalayana Shrautasutra), the author finds a genuine complication: the Brihaddevata, a certainly Rigvedic work connected with the Mandukeya shakha, has a "Brahmajnanam" sukta in its accepted recension, and the "brahma jajñānam" mantra is cited in all readings of the Ashvalayana Shrautasutra [4-6], so that mantras of some Rik shakhas were cited there in all recensions; an Ashvalayana Brahmana must then have existed, somewhat different from the Aitareya Brahmana, since even the pratika of the brahma jajñānam mantra found in the Aitareya Brahmana [1-19] is not found in it; in this way still further differences appear. The conclusion: **no Shrautasutra text can be shown to belong exclusively to one single Rigveda shakha**, and whether a single root-text ultimately underlies both Shakala and Bashkala, or whether an independent Ashvalayana Samhita once existed in its own right, remains genuinely unresolved — reasonable scholars differ, and the question stays open.
 
 ---
 
@@ -1769,7 +1769,7 @@ Sankhyayana is listed as the fourth division in the Charanavyuha. Its Brahmana a
 
 1. A Rigveda manuscript in the Alwar state library is labeled as belonging to the Sankhyayana shakha, though the author has not personally examined it.
 2. Kavindracharya's catalogue [no. 25] records a Sankhyayana Samhita and Brahmana.
-3. The Sankhyayana Shrautasutra cites several unusual mantras absent from the Shakala tradition (noted in Hillebrandt's edition of the Sutra, p. 638) — for instance, the sutras (15-3) cite the mantras "venastāt... śaṃca" and "ayaṃ venaḥ" by their opening words only, implying they once had a place within a Sankhyayana Samhita. A commentator's claim that these arose independently within this shakha's tradition doesn't hold up, in the author's view — it's unlikely a Samhita reading would be freshly invented at the time a Sutra was being composed. In the Sankhyayana Shrautasutra (9-20-30) only the puronuvakya "ime somāsas tiro ahnyāsa" is recited, while the Ashvalayana Shrautasutra (6-5) gives it in all readings. Similar citations-by-opening-word occur for the Sanjnana-sukta and other mantras throughout the Sankhyayana Shrautasutra and Pratishakhya, and several mantras in the Sankhyayana Aranyaka have no counterpart at all in the Shakala reading (7-14, 16, 19, 21; 8-4, 6, 9-1; 12-2, 7).
+3. The Sankhyayana Shrautasutra cites several unusual mantras absent from the Shakala tradition (noted in Hillebrandt's edition of the Sutra, p. 638) — for instance, the sutras (15-3) cite the five mantras beginning "venastat paśyat" and the mantra "ayaṃ venaḥ" by their opening words only, implying they once had a place within a Sankhyayana Samhita. A commentator's claim that these arose independently within this shakha's tradition doesn't hold up, in the author's view — it's unlikely a Samhita reading would be freshly invented at the time a Sutra was being composed. In the Sankhyayana Shrautasutra (9-20-30) only the puronuvakya "ime somāsas tiro ahnyāsa" is recited, while the Ashvalayana Shrautasutra (6-5) gives it in all readings. Similar citations-by-opening-word occur for the Sanjnana-sukta and other mantras in the Sankhyayana Shrautasutra, and several mantras in the Sankhyayana Aranyaka have no counterpart at all in the Shakala reading (7-14, 16, 19, 21; 8-4, 6, 9-1; 12-2, 7).
 
 **Conclusion:** a genuinely independent Sankhyayana Samhita, somewhat different from the Shakala text, most likely did once exist.
 
@@ -1783,13 +1783,13 @@ Its Brahmana survives in the Anandashrama (Poona) and Lindner editions; its Aran
 
 ### Page 74 — An Editorial Error in the Sankhyayana Material
 
-The Aranyaka portion in particular has been printed with a significant conflation: **Sankhyayana and Kaushitaki — a related but genuinely distinct sub-branch — have been mixed together** where they should have been published as two separate texts. Supporting evidence: Lindner writes on the very first page of his preface that the Sankhyayana Brahmana has 276 khandas and the Kaushitaki Brahmana 260 khandas. He had a manuscript of the Kaushitaki Brahmana written in Malayalam script; some readings in it may be impure, but a difference of 16 khandas is a difference of shakha. Structurally, the Sankhyayana Aranyaka's first two chapters cover the Mahavrata rite, after which the Kaushitaki Upanishad begins from chapter three onward — meaning the Kaushitaki Upanishad is really just one portion within the Sankhyayana Aranyaka as printed, though manuscript evidence (including a Madras Government collection copy) shows real wording differences between the "Kaushitaki" and "Sankhyayana" readings of the same passages (e.g., Kaushitaki Upanishad (1-2)'s "sa iha ketau vā" against Sankhyayana's variant, or "pratibhānti" vs. "prati yanti") — differences of wording, not of substance, but real nonetheless. Grihyasutra manuscripts show similar variation.
+The Aranyaka portion in particular has been printed with a significant conflation: **Sankhyayana and Kaushitaki — a related but genuinely distinct sub-branch — have been mixed together** where they should have been published as two separate texts. Supporting evidence: Lindner writes on the very first page of his preface that the Sankhyayana Brahmana has 276 khandas and the Kaushitaki Brahmana 260 khandas. He had a manuscript of the Kaushitaki Brahmana written in Malayalam script; some readings in it may be impure, but a difference of 16 khandas is a difference of shakha. Structurally, the Sankhyayana Aranyaka's first two chapters cover the Mahavrata rite, after which the Kaushitaki Upanishad begins from chapter three onward — meaning the Kaushitaki Upanishad is really just one portion within the Sankhyayana Aranyaka as printed, though manuscript evidence (including a Madras Government collection copy) shows real wording differences between the "Kaushitaki" and "Sankhyayana" readings of the same passages (e.g., Kaushitaki Upanishad (1-2)'s "sa iha kīṭo vā" against Sankhyayana's variant, or "pratidhāvanti" vs. "prati yanti") — differences of wording, not of substance, but real nonetheless. Grihyasutra manuscripts show similar variation.
 
 **Conclusion: Sankhyayana and Kaushitaki are two distinct shakhas**, and should be edited and printed separately rather than conflated as they have been.
 
 ### An Unnamed Author in the Sankhyayana Tradition
 
-An old introductory verse (peetika) prefacing the printed Sankhyayana Sutra names no author directly — he is identified only as "descendant of" someone, without further detail, leaving his identity unclear to this day.
+An old commentary on the Sankhyayana Sutra has been printed, but who wrote it and what his name was is not known; it can only be said that he was a son of Varadatta, and nothing more about him has come to light.
 
 ### His Name Was Acharya Brahmadatta
 
@@ -1798,17 +1798,17 @@ Vasudeva, author of the Sankhyayana-Grihya-Sangraha, writes at the opening of hi
 
 ### Page 75
 
-...on behalf of this teacher, composing a commentary named for Brahmadatta. In his supplementary explanation, he further specifies details of the seven disciples' rishi, deity, and meter as explained by "Acharya Brihaddatta."
+...that the meaning of the sutra has already been explained by Acharya Agnisvami, Brahmadatta and others. Again, in his explanation of the anuvachana he writes that Acharya Brahmadatta has censured this view (paksha) concerning the rishi, deity and metre of these seven pakshas.
 
-A manuscript in the Tanjore royal library, titled *Sankhyayana-Shrautasutra-siddhi*, is attributed to an author named Narayana, who states in his opening verse that he composed his clear exposition ("Saddrishti") having learned Brihaddatta's doctrine according to proper tradition. Together, these sources indicate that Acharya Agnisvami, Brahmadatta, and others wrote commentaries on the Sankhyayana Shrauta- and Grihyasutras, with Agnisvami apparently preceding "Varadatta's son" chronologically (see 10-12-6, 12-2-17, 14-10-5). The author further identifies this "Varadatta's son" as Brahmadatta himself — supported by the commentary's own mangala-shloka naming Brahmadatta and repeated internal references — plausibly hailing from the "Artiya" region, and notes it is not at all improbable that this is one and the same person referenced under slightly different names across these sources.
+A manuscript in the Tanjore library, written in Samvat 1529 and titled *Sankhyayana-Shrautasutra-paddhati*, is attributed to an author named Narayana, who states in his opening verse that he composed the Paddhati plainly, having learned the whole doctrine of Brahmadatta according to tradition. Together, these sources indicate that Acharya Agnisvami, Brahmadatta, and others wrote commentaries on the Sankhyayana Shrauta- and Grihyasutras, with Agnisvami apparently preceding "Varadatta's son" chronologically (see 10-12-6, 12-2-17, 14-10-5). The author further identifies this "Varadatta's son" as Brahmadatta himself — supported by the commentary's own mangala-shloka naming Brahmadatta and repeated internal references — plausibly hailing from the Anarta region, and notes it is not at all improbable that this is one and the same person referenced under slightly different names across these sources.
 
-### Shambu and Sankhyayana
+### Shankha and Sankhyayana
 
-The name "Shambu" is borne by several figures. A Kaushitaki passage (adhyaya 34 and 35-1) names a "Kaushika Shambu" in dialogue with a figure called Shakayanya.
+The name "Shankha" is borne by several sages. The Kapishthala-Katha Samhita (adhyaya 34 and 35-1) names a "Kaushya Shankha" in dialogue with a figure called Shakayanya.
 
 ### Page 76
 
-A Mahabharata passage (Anushasana-parva) tells of King Brahmadatta of Panchala granting a treasure to the sage Shambu and thereby attaining liberation (verse 17) — likely a different, later Shambu than the Vedic-era figure. Separately, the Mahabharata (Adiparva 60-25; Shantiparva, adhyaya 23) and the Skanda Purana's Nagara-khanda (11-22, 23) describe two brothers, Shambu and Likhita, sons of Devala (or, per the Nagara-khanda, of Shandilya) — accounts that differ somewhat in detail but may both refer to authors of Dharmashastra texts. The author traces a plausible lineage: a son of "Shakha" became known as "Shankhya," whose own son became "Sankhyayana" — with a "Shankhya" independently named in the Charaka Samhita's opening section (1-8).
+A Mahabharata passage (Anushasana-parva) tells of King Brahmadatta of Panchala granting a treasure to the sage Shankha and thereby attaining the highest state, liberation (ch. 200, verse 17), as Bhishma tells Yudhishthira in praise of giving. Separately, the Mahabharata (Adiparva 60-25; Shantiparva, adhyaya 23) and the Skanda Purana's Nagara-khanda (11-22, 23) describe two brothers, Shankha and Likhita, sons of Devala (or, per the Nagara-khanda, of Shandilya) — accounts that differ somewhat in detail but may both refer to authors of Dharmashastra texts. The author traces a plausible lineage: a son of Shankha became known as "Shankhya," whose own son became "Sankhyayana" — with a "Shankhya" independently named in the Charaka Samhita's opening section (1-8).
 
 ### The Sankhyayana Tradition and Teacher Suyajna
 
@@ -1823,28 +1823,28 @@ No independent Samhita is known for this shakha, and what differences exist from
 
 Its commentary, called *Sadartha-vimarshini*, survives in three copies at the Madras Government Oriental Manuscripts Library. The Kaushitaki-Shrautasutra likewise closely resembles the Sankhyayana-Shrautasutra, differing only slightly in its chapter divisions (per a Mysore catalogue note); three copies exist (Mysore, Madras, Lahore), and future editors are advised to take note of this before editing either text.
 
-**The Kaushitaki–Sankhyayana Relationship:** an Adyar Library manuscript of the Sankhyayana Brahmana is titled on its cover "Sankhyayana-Brahmana, following the Kaushitaki tradition." A related manuscript of Narayana's Sankhyayana-Shrautasutra commentary (Bhandarkar Institute, Poona) closes its third chapter with a colophon describing itself as "composed following the Kaushitaki tradition." Together these confirm a real, acknowledged connection between the two traditions. A Kashi-printed edition of the Kaushitaki Grihyasutra even closes with: "Thus ends the sixth chapter of the Kaushitaki Grihyasutra of the Sankhyayana shakha — this indeed is the Kaushika-sutra" — raising the separate question of how the name "Kaushika" enters here.
+**The Kaushitaki–Sankhyayana Relationship:** a manuscript of the Sankhyayana Brahmana in a library at Oxford is titled on its cover "Sankhyayana-Brahmana, following the Kaushitaki tradition." A related manuscript of Narayana's Sankhyayana-Shrautasutra commentary (Punjab University library) closes its third chapter with a colophon describing itself as "composed following the Kaushitaki tradition." Together these confirm a real, acknowledged connection between the two traditions. A Kashi-printed edition of the Kaushitaki Grihyasutra even closes with: "Thus ends the sixth chapter of the Kaushitaki Grihyasutra of the Sankhyayana shakha — this indeed is the Kaushika-sutra" — raising the separate question of how the name "Kaushika" enters here.
 
 ### The Real Name of "Kaushitaki"
 
-Kaushitaki's father was named **Kushitaka** (cited in the Tandya Brahmana, 17-4-3); Grihyasutra usage elsewhere ("Kahola Kaushitaka") suggests Kushitaka's alternate name was **Kahola** — and a sage Kahola is independently known as the disciple and son-in-law of the great sage Uddalaka. This Kahola's son was none other than the famous **Ashtavakra**, per the Mahabharata's Vana-parva (ch. 132, verse 12): Uddalaka gave his own learned daughter in marriage to his disciple Kahola, and in that generation, two sages stood foremost in sacred learning — Ashtavakra, son of Kahola, and Shvetaketu, son of Uddalaka — making Ashtavakra and Shvetaketu cousins through this marriage.
+Kaushitaki's father was named **Kushitaka** (cited in the Tandya Brahmana, 17-4-3); Grihyasutra usage elsewhere ("Kahola Kaushitaka") suggests Kushitaka's alternate name was **Kahola** — and a sage Kahola is independently known as the disciple and son-in-law of the great sage Uddalaka. This Kahola's son was none other than the famous **Ashtavakra**, per the Mahabharata's Vana-parva (ch. 134, verse 12): Uddalaka gave his own learned daughter in marriage to his disciple Kahola, and in that generation, two sages stood foremost in sacred learning — Ashtavakra, son of Kahola, and Shvetaketu, son of Uddalaka — making Shvetaketu the maternal uncle of his nephew Ashtavakra.
 
 ### Page 78
 
-That is: Kahola was Uddalaka's son-in-law; his son Ashtavakra and Uddalaka's son Shvetaketu were thus generational cousins by marriage, both belonging to the Vedic scholarly tradition. Whether the shakha-founder "Kaushitaki" is to be identified directly with this same Kahola — father of the famous Ashtavakra — is a claim the author treats as a plausible but not fully certain conjecture, complicated further by manuscript variants distinguishing "Kaushitaki" from "Kaushitakeya" (the latter tied to the Kashyapa gotra) as arguably two different people, per Panini's grammar (4-1-124); the Brihadaranyaka Upanishad (3-4-1) has the reading "Kahola Kaushitakeya".
+That is: Kahola was Uddalaka's son-in-law; his son Ashtavakra and Uddalaka's son Shvetaketu were thus uncle (Shvetaketu) and nephew (Ashtavakra), both masters of the Veda. Whether the shakha-founder "Kaushitaki" is to be identified directly with this same Kahola — father of the famous Ashtavakra — is a claim the author treats as a plausible but not fully certain conjecture, complicated further by manuscript variants distinguishing "Kaushitaki" from "Kaushitakeya" (the latter tied to the Kashyapa gotra) as arguably two different people, per Panini's grammar (4-1-124); the Brihadaranyaka Upanishad (3-4-1) has the reading "Kahola Kaushitakeya".
 
 ### 3. The Mahakaushitaka Shakha
 
-Cited in Ashvalayana and other Grihyasutra genealogies. The commentator "Anardiya-Brahmadatta" states directly that the final three chapters of the Sankhyayana Shrautasutra (14–16) were drawn (‖ 14-2-3 ‖, ‖ 14-10-1 ‖) by its author Suyajna from a distinct **Mahakaushitaki** source-text — implying this shakha had its own independent Brahmana. Vinayaka Bhatta's commentary on the Kaushitaki Brahmana cites this Mahakaushitaka Brahmana as an authority at seven separate points (3-4, 3-5, 3-7, 18-14, 24-1, 24-2, 26-1).
+Cited in Ashvalayana and other Grihyasutra genealogies. The commentator "Anartiya-Brahmadatta" states directly that the final three chapters of the Sankhyayana Shrautasutra (14–16) were drawn (‖ 14-2-3 ‖, ‖ 14-10-1 ‖) by its author Suyajna from a distinct **Mahakaushitaki** source-text — implying this shakha had its own independent Brahmana. Vinayaka Bhatta's commentary on the Kaushitaki Brahmana cites this Mahakaushitaka Brahmana as an authority at seven separate points (3-4, 3-5, 3-7, 18-14, 24-1, 24-2, 26-1).
 
 
 ### Page 79 — 4. The Shambavya Shakha
 
-No Samhita or Brahmana is confirmed for this shakha, but its Kalpa-sutra survives. The Jaiminiya-Shrautasutra's commentary compares its scale to Ashvalayana's: where Ashvalayana treated the entire yajna-science in 16 chapters (patalas), Shambavya covered the same ground in 24 — though it's unclear how these chapters split between Shrauta and Grihya material (by rough analogy with the Kaushitaki Grihya's six chapters, the Shambavya Shrauta portion would come to 18; the 16 patalas of the Sankhyayana Shrauta together with the two patalas of the Mahavrata make 18 patalas in all). Citations of this text appear in Haradatta Mishra's commentary and in Arunagirinatha's commentary on the *Raghuvamsha* (6-25); the Ashvalayana Grihyasutra (4-10-22) also cites "teacher Shambavya's" view directly, though the name suffers corruption in some printed editions (appearing incorrectly as "Shambashya" in one). The Shambavya-Grihya-Karika's own opening verse pays homage to "the Kaushitaki-tradition teacher Shambavya, foremost of sutra-composers" before proceeding to comment on his Grihyasutra — though whether the underlying text truly has five chapters, and the exact nature of the Shambavya–Kaushitaki relationship, remain open questions pending further textual discovery.
+No Samhita or Brahmana is confirmed for this shakha, but its Kalpa-sutra survives. The Jaiminiya-Shrautasutra's commentary compares its scale to Ashvalayana's: where Ashvalayana treated the entire yajna-science in 16 chapters (patalas), Shambavya covered the same ground in 24 — though it's unclear how these chapters split between Shrauta and Grihya material (by rough analogy with the Kaushitaki Grihya's six chapters, the Shambavya Shrauta portion would come to 18; the 16 patalas of the Sankhyayana Shrauta together with the two patalas of the Mahavrata make 18 patalas in all). Citations of this text appear in Haradatta Mishra's commentary and in Arunagirinatha's commentary on the *Raghuvamsha* (6-25); the Ashvalayana Grihyasutra (4-10-22) also cites "teacher Shambavya's" view directly, though the name suffers corruption in some printed editions (appearing incorrectly as "Shamvatya" in one). The Shambavya-Grihya-Karika's own opening verse pays homage to "the Kaushitaki-tradition teacher Shambavya, foremost of sutra-composers" before proceeding to comment on his Grihyasutra — though whether the underlying text truly has five chapters, and the exact nature of the Shambavya–Kaushitaki relationship, remain open questions pending further textual discovery.
 
 ### The Sage Shambavya Was a Resident of the Kuru Region
 
-The Mahabharata's Ashvamedhika-parva (ch. 10, verse 11) describes a Brahmin named Shambavya (the name appearing with several spelling variants — Sambachya, Sambhavya, Shambhavya — across different printed editions, with "Shambhavya"/"Shambavya" judged most likely correct) who visited King Dhritarashtra during the king's forest-dwelling (Vanaprastha) period. This Shambavya was a Rigveda scholar skilled in statecraft (artha-shastra), hailing from the northern Kurujangala region — identifying him as a resident of the Kuru country.
+The Mahabharata's Ashramavasika-parva (ch. 10, verse 11) describes a Brahmin named Shambavya (the name appearing with several spelling variants — Sambakhya, Sambhavya, Shambhavya — across different printed editions, with "Shambhavya"/"Shambavya" judged most likely correct) who visited King Dhritarashtra during the king's forest-dwelling (Vanaprastha) period. This Shambavya was a Rigveda scholar skilled in statecraft (artha-shastra), hailing from the northern Kurujangala region — identifying him as a resident of the Kuru country.
 
 ---
 
@@ -1863,16 +1863,16 @@ The Brihaddevata's opening verse — "having bowed to the seers of the mantras, 
 
 ...confirming this. Since this "Brahma-jnanam" sukta doesn't appear in the Ashvalayana tradition, and the Sankhyayana Shrautasutra (5-9) cites the same sukta's mantras across all its textual variants, and no other Rigveda shakha attests it at all — the author concludes this hymn must belong specifically and solely to the Mandukeya shakha, firmly anchoring the Brihaddevata text's affiliation there. The Aitareya Brahmana (1-19) and Kaushitaki Brahmana (8-4) both cite only the opening words of this same mantra-group, explicitly noting it belongs to "other shakhas" rather than their own.
 
-A further passage from the Brihaddevata's third chapter (verses 118–119) documents a specific sequence, after Ṛ. Saṃ. 1-73: ten suktas dedicated to the Ashvin deities (opening with "shashvaddhi vām"), followed by a "Saupanna-sukta" (opening "upaprayantaḥ", Ṛ. Saṃ. 1-74) and, beginning with it, six Agni-related suktas — an ordering found in neither the Shakala nor Bashkala traditions, with the opening mantra itself absent even from the Ashvalayana Shrautasutra. While not fully certain, this specific sequence is reasonably inferred to belong to the Mandukeya tradition as well.
+A further passage from the Brihaddevata's third chapter (verses 118–119) documents a specific sequence, after Ṛ. Saṃ. 1-73: ten suktas dedicated to the Ashvin deities (opening with "shashvaddhi vām"), followed by a "Sauparna-sukta" (opening "upaprayantaḥ", Ṛ. Saṃ. 1-74) and, beginning with it, six Agni-related suktas — an ordering found in neither the Shakala nor Bashkala traditions, with the opening mantra itself absent even from the Ashvalayana Shrautasutra. While not fully certain, this specific sequence is reasonably inferred to belong to the Mandukeya tradition as well.
 
 ### Mandukeya's Family and Homeland
 
-Mandukeya was so named as "son of Manduka" — called "Shauravira" at the start of the Sankhyayana Aranyaka (7-2) and "Kauravira" in the Aitareya Aranyaka (3-1). One of Manduka's sons was named Dirgha (Sankhyayana Aranyaka 7-2) or Jyeshtha (Aitareya Aranyaka 3-1); the Mandukeya discussed here appears to be that son's brother. This Mandukeya's own son was named **Madhyama**, also attested in both Aranyakas, whose mother's name is given as Pratibodhi (or Pratiyodhi) — rendered "Pratimedhi" in the Brahmanda Purana (1-33-19). The Ashvalayana Grihyasutra's rishi-tarpana (ancestor-offering ritual) section...
+Mandukeya was so named as "son of Manduka" — called "Shauravira" at the start of the Sankhyayana Aranyaka (7-2) and "Shuravira" in the Aitareya Aranyaka (3-1). One of Manduka's sons was named Dirgha (Sankhyayana Aranyaka 7-2) or Jyeshtha (Aitareya Aranyaka 3-1); the Mandukeya discussed here appears to be that son's brother. This Mandukeya's own son was named **Madhyama**, also attested in both Aranyakas, whose mother's name is given as Pratibodhi (or Pratiyodhi) — rendered "Pratimedhi" in the Brahmanda Purana (1-33-19). The Ashvalayana Grihyasutra's rishi-tarpana (ancestor-offering ritual) section...
 
 
 ### Page 82
 
-...names her Pratibodhi (3-3-5). Madhyama's residence in Magadha is attested in the Sankhyayana Aranyaka; given some textual corruption in both Aranyakas at this point, exact names should be revisited by future editors, but it appears all three of Manduka's sons — including Madhyama — were connected to Magadha.
+...names her Pratitheyi (3-3-5). Madhyama's residence in Magadha is attested in the Sankhyayana Aranyaka; given some textual corruption in both Aranyakas at this point, exact names should be revisited by future editors, but it appears all three of Manduka's sons — including Madhyama — were connected to Magadha.
 
 ### The Extent of the Mandukeya Tradition
 
@@ -1880,18 +1880,18 @@ If the Brihaddevata text is indeed the primary window onto the Mandukeya traditi
 
 ### Was Mandukeya the Same as "Bahvricha"?
 
-"Bahvricha" ordinarily just means "a Rigvedin" — used generically in the Shatapatha Brahmana (10-5-2-20) and in the Mahabhashya. Revisiting Patanjali's earlier statement that "the Bahvricha [tradition] is twenty-one-fold": the name may derive from the Rigveda's comparatively larger number of mantras relative to other Vedas, or from the fact that, apart from the Yajurveda, other Vedic material is largely in prose. The author argues that "Bahvricha" does not correspond to a separate, distinct shakha alongside Mandukeya — it's simply a general term, with the Shakala, Bashkala, and (to a slightly greater degree) Sankhyayana lines all having comparatively larger mantra-counts. The idea that "Bahvrichatva" constitutes some further sub-division specifically within the Mandukeya shakha does not hold up.
+"Bahvricha" ordinarily just means "a Rigvedin" — used generically in the Shatapatha Brahmana (10-5-20) and in the Mahabhashya. Revisiting Patanjali's earlier statement that "the Bahvricha [tradition] is twenty-one-fold": the name may derive from the Rigveda's comparatively larger number of mantras relative to other Vedas, or from the fact that, apart from the Yajurveda, other Vedic material is largely in prose. The author argues that "Bahvricha" does not correspond to a separate, distinct shakha alongside Mandukeya — it's simply a general term, with the Shakala, Bashkala, and (to a slightly greater degree) Sankhyayana lines all having comparatively larger mantra-counts. Nor does anything prevent "Bahvricha" from being a sub-division of the Mandukeya shakha.
 
 
-### Page 83 — Is "Bahvricha" a Distinct Shakha, Separate from Shaingi and Kaushitaki?
+### Page 83 — Is "Bahvricha" a Distinct Shakha, Separate from Paingi and Kaushitaki?
 
 The author argues yes — "Bahvricha" is not merely a generic synonym for "Rigveda" but names an actual distinct shakha, with evidence:
 
-1. The Kaushitaki Brahmana (16-9) records a dialogue in which Madhuka Garshya is asked which deity Soma has: the Bahvricha tradition holds Indra as Soma's deity, while the Kaushitaki view holds it is Indra-Agni jointly — treating "Bahvricha" as a named tradition standing alongside (not identical to) Shaingya and Kaushitaki, even though all three are, in the broad sense, "Rigvedic."
+1. The Kaushitaki Brahmana (16-9) records a dialogue in which Madhuka asks Gaushra which deity Soma has: the Bahvricha tradition holds Indra as Soma's deity, while the Kaushitaki view holds it is Indra-Agni jointly — treating "Bahvricha" as a named tradition standing alongside (not identical to) Paingya and Kaushitaki, even though all three are, in the broad sense, "Rigvedic."
 
-3. The Madhyandina Shatapatha Brahmana (11-5-1-10), discussing the Pururavas-Urvashi dialogue hymn, states that "the Bahvrichas" count this sukta as having fifteen mantras — matching the Rigveda's own count for this hymn (10-95, eighteen mantras in the standard text, with the Brahmana's count reflecting the Bahvricha reckoning specifically) — confirming the Shatapatha follows the Bahvricha shakha's own tradition here.
+2. The Madhyandina Shatapatha Brahmana (11-5-1-10), discussing the Pururavas-Urvashi dialogue hymn, states that "the Bahvrichas" count this sukta as having fifteen mantras — whereas the Rigveda text has eighteen mantras in this hymn (10-95) — confirming the Shatapatha follows the Bahvricha shakha's own tradition here.
 
-4. Citations of a "Bahvricha-Brahmana" in commentary on the Apastamba Shrautasutra mostly align with known Aitareya/Kaushitaki material, but one citation (6-27-2) preserves a mantra found in no other surviving Rigveda text — strong evidence that "Bahvricha" here refers to a genuinely distinct, otherwise-lost shakha tradition.
+3. In Richard Garbe's edition of the Apastamba Shrautasutra "Bahvricha-Brahmana" is cited in nine places and "Bahvricha" in three, twelve in all; not one of the first nine is found in the Aitareya or Kaushitaki Brahmanas; of the other three, two are very general, and the third (6-27-2) holds two mantras of the Bahvricha that are found in no other available Rigvedic text — strong evidence that "Bahvricha" here refers to a genuinely distinct, otherwise-lost shakha tradition.
 
 ### The View of A. B. Keith
 
@@ -1906,31 +1906,31 @@ Keith continues, offering a tentative identification:
 
 > "And this fact does suggest a mere conjecture that the Brahmana used was the text of the Paingya school." (same source, p. 498)
 
-The author rejects this specific identification — the earlier Kaushitaki Brahmana evidence (16-9) already distinguishes Bahvricha from the Shaingya (Paingya) shakha directly, so Keith's guess doesn't hold up, even though his broader instinct (that a real, specific text lies behind these citations) was correct.
+The author rejects this specific identification — the earlier Kaushitaki Brahmana evidence (16-9) already distinguishes Bahvricha from the Paingya shakha directly, so Keith's guess doesn't hold up, even though his broader instinct (that a real, specific text lies behind these citations) was correct.
 
 Further supporting evidence for Bahvricha as a genuine, separate shakha:
 
-5. The Katha-Grihya's commentary (25-8) cites a "Bahvricha-Grihya" sutra on sun-viewing (Adityadarshana) not found in either the Ashvalayana or Sankhyayana Grihya texts.
-6. Devapala's commentary on the Katha-Grihya (59-5) separately cites a passage from a "Bahvricha-Brahmana."
-7. Bhattoji's Mahabhashya-tika cites one passage as being from "the Bahvricha-sutra commentary" and another, elsewhere, explicitly as being from "the Ashvalayana-sutra" — using two different names, confirming they are understood as two distinct shakhas.
-8. Medhatithi's discussion in his Manava-Grihyasutra commentary (2-29) is worth close examination on this same point.
+4. The Katha-Grihya's commentary (25-8) cites a "Bahvricha-Grihya" sutra on sun-viewing (Adityadarshana) not found in either the Ashvalayana or Sankhyayana Grihya texts.
+5. Devapala's commentary on the Katha-Grihya (59-5) separately cites a passage from a "Bahvricha-Brahmana."
+6. Bhartrihari's Mahabhashya-tika cites one passage as being from "the Bahvricha-sutra commentary" and another, elsewhere, explicitly as being from "the Ashvalayana-sutra" — using two different names, confirming they are understood as two distinct shakhas.
+7. Medhatithi's discussion in his Manava-Grihyasutra commentary (2-29) is worth close examination on this same point.
 
 ### "The Grihya of the Kathas, and the Grihya of the Bahvrichas and Ashvalayanas"
 
-This phrase itself implies that the Kathas had two separate Grihyasutras available to them — one from the Bahvricha shakha, one from the Ashvalayana shakha. Kumarilabhatta's *Tantravartika* (1-3-11) confirms the general principle:
+This means that the Grihyasutra of the Katha shakha is held in regard also by the followers of the Bahvricha and the Ashvalayana shakhas. Kumarilabhatta's *Tantravartika* (1-3-11) confirms the general principle:
 
-> "It is observed that, like the Pratishakhya texts, Grihya-texts too follow shakha-specific variation — for instance, the Vasishtha[-Grihya-sutra] is followed only by the Bahvrichas, while the Shambali-prescribed text is accepted by the Vajasaneyins."
+> "It is observed that, like the Pratishakhya texts, Grihya-texts too follow shakha-specific variation — for instance, the Vasishtha[-sutra] is followed only by the Bahvrichas, while the text prescribed by Shankha and Likhita is accepted by the Vajasaneyins."
 
-That is: Dharma- and Grihya-texts, like Pratishakhya texts, vary by shakha — Bahvricha-shakha followers use the Vasishtha-sutra, while the Vajasaneyins (a Yajurveda tradition) use the Shambalikhita-Dharmasutra instead. This passage from Kumarila makes it clear beyond doubt: **Bahvricha is indeed a distinct, separate shakha** of the Rigveda, not merely a generic synonym for "Rigvedin."
+That is: Dharma- and Grihya-texts, like Pratishakhya texts, vary by shakha — Bahvricha-shakha followers use the Vasishtha-sutra, while the Vajasaneyins (a Yajurveda tradition) use the Dharmasutra of Shankha and Likhita instead. This passage from Kumarila makes it clear beyond doubt: **Bahvricha is indeed a distinct, separate shakha** of the Rigveda, not merely a generic synonym for "Rigvedin."
 
 
 ### Page 85
 
-9. The Vyakarana Mahabhashya (5-4-154) discusses teaching Rigveda mantras to a young student "in the Bahvricha branch designation" — again treating it as a specific named shakha.
+8. The Vyakarana Mahabhashya (5-4-154) discusses teaching Rigveda mantras to a young student "in the Bahvricha branch designation" — again treating it as a specific named shakha.
 
 Turning to authorship: the Bhagavata Purana (1-4) describes the sage Shaunaka of Naimisharanya as himself "the Bahvricha [scholar]" (*bahvṛcaḥ śaunako*) — confirming Shaunaka's personal connection to this shakha, and making it plausible that his Brihaddevata was composed on the basis of the Bahvricha (or Mandukeya) tradition specifically. Separately, the teacher Shambavya (discussed earlier under the Sankhyayana section) is also identified as "a Bahvricha" — a Rigvedin — though not himself the founder of this particular branch.
 
-The Brahmanda Purana (earlier section, ch. 32) lists several sage-authors: "Bahvricha, Bhargava, Shaila, Sankritya, and Jajali" — though most of these names are badly corrupted in the manuscripts, "Bahvricha" itself is consistently attested across copies, confirming it names an actual Rigvedin sage.
+The Brahmanda Purana (earlier section, ch. 32) lists several sage-authors: "Bahvricha, Bhargava, Paila, Sankritya, and Jajali" — though most of these names are badly corrupted in the manuscripts, "Bahvricha" itself is consistently attested across copies, confirming it names an actual Rigvedin sage.
 
 This completes the main shakha-divisions as given in the Charanavyuha. Two further divisional accounts given in the Puranas remain to be covered.
 
@@ -1938,20 +1938,20 @@ This completes the main shakha-divisions as given in the Charanavyuha. Two furth
 
 The Brahmanda Purana (earlier section, ch. 34) states:
 
-> प्रोवाच संहितास्तिस्रः शाकपूर्णे रथीतरः । निरुक्तं च पुनश्चक्रे चतुर्थं द्विजसत्तमः ॥ तस्य शिष्यास्तु चत्वारः शैल्यश्च क्रौञ्चकस्तथा । धीमान् शतबलाक्षश्च गजल्यश्चैव द्विजोत्तमः ॥
+> प्रोवाच संहितास्तिस्रः शाकपूणी रथीतरः । निरुक्तं च पुनश्चक्रे चतुर्थं द्विजसत्तमः ॥ ३ ॥ तस्य शिष्यास्तु चत्वारः पैलश्चेक्षलकस्तथा । धीमान् शतबलाकश्च गजश्चैव द्विजोत्तमाः ॥ ४ ॥
 >
-> "Rathitara taught three Samhitas to Shakapurni, and this foremost of the twice-born further composed a fourth work, the Nirukta. His four disciples were: Shailya, Kraunchaka, the wise Shatabalaksha, and Gajalya, that foremost of the twice-born."
+> "Shakapurni Rathitara taught three Samhitas, and this foremost of the twice-born further composed a fourth work, the Nirukta. His four disciples were: Paila, Ikshalaka, the wise Shatabalaka, and Gaja, those foremost of the twice-born."
 
 
 ### Page 86
 
-**Summary:** through this teacher-disciple succession, the shakha branching from Shakapurni split into three Samhita-traditions; Rathitara additionally composed an independent Nirukta text. Four disciples — Shailya, Ikshalaka, Shatabalaksha, and Gaja — are named as his students in printed sources, though the first two names in particular have become severely corrupted across the manuscript tradition (visible even across the Vayu, Vishnu, and Bhagavata Puranas), likely due to script changes over the centuries compounded by editors "correcting" uncertain readings according to their own judgment.
+**Summary:** through this teacher-disciple succession, the shakha branching from Shakapurni split into three Samhita-traditions; Shakapurni additionally composed an independent Nirukta text. Four disciples — Paila, Ikshalaka, Shatabalaka, and Gaja — are named as his students in printed sources, though the first two names in particular have become severely corrupted across the manuscript tradition (visible even across the Vayu, Vishnu, and Bhagavata Puranas), likely due to script changes over the centuries compounded by editors "correcting" uncertain readings according to their own judgment.
 
 *(The full manuscript-variant apparatus, transcribed from the source:)*
 
 | Source | Reading |
 |---|---|
-| Punjab University, no. 2416 | पैजश्चेक्षलकस्तथा |
+| Punjab University, no. 2816 | पैजश्चेक्षलकस्तथा |
 | Dayananda College copy, no. 2811 | शपैष्वलकस्तथा |
 | Printed Vayu Purana (Anandashrama edition) | केतवोदालकस्तथा |
 | Printed Purana, variant 1 | कैजवो वामनस्तथा |
@@ -1962,29 +1962,29 @@ The Brahmanda Purana (earlier section, ch. 34) states:
 | Vishnu Purana, same, copy no. 2784 | क्रौञ्चः पैलानकः |
 | Vishnu Purana, same, copy no. 1260 | क्रौञ्चो वैलालकिः |
 | Vishnu Purana, same, copy no. 4904 | क्रौञ्च पैलाककिः |
-| Printed Bhagavata (Madras edition) | शैजन्वैताल... |
-| Bhagavata commentator Vira-Raghava | शैंजवैताल... |
-| Bhagavata commentator Vijaya | शैंगिश्चैलाल... |
+| Printed Bhagavata (Madras edition) | पैजवैताल... |
+| Bhagavata commentator Vira-Raghava | पैंजवैताल... |
+| Bhagavata commentator Vijaya | पैंगिपैलाल... |
 
 Looking at all these variants, the author settles on three reconstructed name-pairs as most likely correct, based on the Brahmanda Purana's readings specifically:
 
-> शैंगक्ष्वो द्वालकस्था । शैंग्य बैद्वालकस्था । शैंग्यक शैलालकस्था ॥
+> पैंगश्चाद्दालकिस्तथा । पैंग्य औद्दालकिस्तथा । पैंग्यः शैलालकस्तथा ॥
 >
-> शैङ्गक्ष्वो द्वालकस्था । शैङ्ग्य बैद्वालकस्था । शैङ्ग्यक शैलालकस्था ॥
-> *śaiṅgakṣvo dvālakasthā | śaiṅgya baidvālakasthā | śaiṅgyaka śailālakasthā ||*
+> पैङ्गश्चाद्दालकिस्तथा । पैङ्ग्य औद्दालकिस्तथा । पैङ्ग्यः शैलालकस्तथा ॥
+> *paiṅgaścāddālakistathā | paiṅgya auddālakistathā | paiṅgyaḥ śailālakastathā ||*
 
-(reconstructed as **Shaingya-Ikshalaka, Shaingya-Baidalaka,** and **Shaingyaka-Shailalaka**).
+(read as **Painga** and **Auddalaki**; **Paingya** and **Auddalaki**; **Paingya** and **Shailalaka**).
 
-### 1. The Shaingya Shakha
+### 1. The Paingya Shakha
 
 A genuine Rigveda-related shakha, as already established from evidence discussed earlier. Its Brahmana and the existence of an associated Kalpa-sutra...
 
 
 ### Page 87
 
-...whether this shakha has its own Samhita remains entirely unknown to this day. The Charaka Samhita's opening names a sage "Shaingi," whose son was likely "Shaingya" — a person by this name is separately listed among those present at Yudhishthira's assembly hall (Sabha-parva, 4-23). Shaingya's own son, **Madhuka**, is cited in the Brihaddevata (1-24) and referenced in passing across the Shatapatha, Aitareya, and Kaushitaki Brahmanas, as well as frequently in the Sankhyayana Shrautasutra — including his view on the Agnyadhana (fire-establishment) rite, which later commentators note as differing only slightly from the Kaushitaki view; on the question of Soma's associated deity, Shaingya's view and the Kaushitaki Brahmana's statement turn out to be essentially identical. The Madhyandina Shatapatha Brahmana (14-9-3-16) further records that Madhu-Shaingya received special teaching from Yajnavalkya connected with the Vajasaneya sacrifice. Evidence for a Shaingya-Grihyasutra or Dharmasutra appears in the Smritichandrika (Ashaucha-kanda, p. 14), the Maskari commentary on the Gautama-Dharmasutra (14-6-17), and Haradatta's Anakula commentary on the Apastamba Grihyasutra (8-21-9) — this branch's texts appear to have been more prevalent specifically in South India.
+...whether this shakha has its own Samhita remains entirely unknown to this day. The Charaka Samhita's opening names a sage "Paingi," whose son was likely "Paingya" — a person by this name is separately listed among those present at Yudhishthira's assembly hall (Sabha-parva, 4-23). Paingya's own son, **Madhuka**, is cited in the Brihaddevata (1-24) and referenced in passing across the Shatapatha, Aitareya, and Kaushitaki Brahmanas, as well as frequently in the Sankhyayana Shrautasutra — including his view on the Agnyadhana (fire-establishment) rite, which later commentators note as differing only slightly from the Kaushitaki view; on the question of Soma's associated deity, Paingya's view, according to the Kaushitaki Brahmana's statement, turns out to be the same as that of the Bahvricha. The Madhyandina Shatapatha Brahmana (14-9-3-16) further records that Madhuka-Paingya received special teaching from Yajnavalkya connected with the Vajasaneya sacrifice. Evidence for a Paingya-Grihyasutra or Dharmasutra appears in the Smritichandrika (Ashaucha-kanda, p. 14), the Maskari commentary on the Gautama-Dharmasutra (14-6-17), and Haradatta's Anakula commentary on the Apastamba Grihyasutra (8-21-9) — this branch's texts appear to have been more prevalent specifically in South India.
 
-### 3. The Baidalaka Shakha
+### 2. The Auddalaki Shakha
 
 Uddalaka, of the Gautama lineage (son of Aruna, hence also called "Aruni"), was the father of the famous Shvetaketu. Uddalaka Aruni — a resident of Panchala, contemporary with King Janamejaya, and a disciple of Dhaumya-Ayoda — has his story begin in the Adiparva (3-19). Owing to his Gautama lineage, this branch is known in the world as the "Gautama-shakha," though the Vyakarana-Mahabhashya and other texts call it "Aruneya" (a separate discussion of the Aruneya-Brahmana follows elsewhere in this chapter). A teacher named Gautama appears frequently in the Ashvalayana Shrautasutra and must have been a Rigveda teacher.
 
@@ -1993,39 +1993,39 @@ Uddalaka, of the Gautama lineage (son of Aruna, hence also called "Aruni"), was 
 
 (A separate Samaveda "Gautama-shakha" also exists and should not be confused with this Rigveda branch — details given elsewhere.)
 
-### 2. The Shailalaka Shakha
+### 3. The Shailalaka Shakha
 
-Possibly an alternate reading for "Baidalaka" in the Brahmanda Purana variants — which of the two readings is original cannot be determined with certainty. This shakha's Brahmana is cited in the Ashtadhyayi (4-3-110), and Sudarshanacharya's *Shruta-prakashika* commentary on the Shri-Bhashya quotes a lengthy passage from it (p. 681, with further references at pp. 909, 910, 1368).
+Possibly an alternate reading for "Auddalaki" in the Brahmanda Purana variants — which of the two readings is original cannot be determined with certainty. This shakha's Brahmana is cited in the Ashtadhyayi (4-3-110), and Sudarshanacharya's *Shruta-prakashika* commentary on the Shri-Bhashya quotes a lengthy passage from it (p. 681, with further references at pp. 909, 910, 1368).
 
-### 3. The Shatabalaksha Shakha
+### 4. The Shatabalaksha Shakha
 
-This name appears with several variants across the Brahmanda, Vayu, Vishnu, and Bhagavata Puranas (Shvetabalaksha, Shvetavalaka, Balaka, Babalaka, Vyalika), with "Shatabalaksha" the most commonly used form today. The Nirukta (11-6) names a Shatabalaksha, son of Vyaghrapada, who was himself son of Mudgala (the same Mudgala-shakha discussed earlier) — and per this same Nirukta passage, Shatabalaksha himself became an author of Nirukta material. If this Shatabalaksha was indeed a disciple of Shakapurni, the likelihood strengthens that he is one and the same as this Nirukta-author.
+This name appears with several variants across the Brahmanda, Vayu, Vishnu, and Bhagavata Puranas (Shvetabalaksha, Shvetavalaka, Balaka, Babalaka, Vyalika), with "Shatabalaksha" the most commonly used form today. The Nirukta (11-6) names a Shatabalaksha Maudgalya, son of Mudgala (the same Mudgala-shakha discussed earlier) — and per this same Nirukta passage, Shatabalaksha himself became an author of Nirukta material. If this Shatabalaksha was indeed a disciple of Shakapurni, the likelihood strengthens that he is one and the same as this Nirukta-author.
 
 ### Shakapurni's Fourth Disciple
 
-Beyond the three disciples who became shakha-founders, Shakapurni had a fourth disciple named (with variant readings) Gaja, Gaingama, Niruktakrit, Niruktakrut, or Viraja — the authentic form cannot be determined with confidence. One associated Kalpa-sutra text is called "Hrasvika." The Shabara-bhashya on the Mimamsa-sutra (1-3-11) lists examples of Kalpa-sutra texts: "Vashaka, Hastika, Kaundinyaka," and similarly named works — raising the natural question, if "Gaja" is indeed the correct disciple-name, of what connection might exist between him and this "Hastika-Kalpa" text.
+Beyond the three disciples who became shakha-founders, Shakapurni had a fourth disciple named (with variant readings) Gaja, Naigama, Niruktakrit, Nirukta, or Viraja — the authentic form cannot be determined with confidence. One associated Kalpa-sutra text is called "Hrasvika." The Shabara-bhashya on the Mimamsa-sutra (1-3-11) lists examples of Kalpa-sutra texts: "Mashaka, Hastika, Kaundinyaka," and similarly named works — raising the natural question, if "Gaja" is indeed the correct disciple-name, of what connection might exist between him and this "Hastika-Kalpa" text.
 
 
 ### Page 89 — The Final Puranic Divisions of Shakha-Founders
 
 ### Bashkali Bharadvaja
 
-Distinct from the earlier-discussed Bashkala lineage. The Skanda Purana's Nagara-khanda (41-6) mentions a "Danavendra Bashkalya," a disciple of Vyasa — not himself a shakha-founder. Shankaracharya's Vedanta-sutra commentary (3-2-17) separately mentions "Bashkali questioned by Baadhya" — plausibly referring to the actual shakha-founder. The Brahmanda Purana (earlier section, ch. 63) gives his lineage:
+Distinct from the earlier-discussed Bashkala lineage. The Skanda Purana's Nagara-khanda (41-6) mentions a "Danavendra Bashkali" — not a rishi and shakha-founder. Shankaracharya's Vedanta-sutra commentary (3-2-17) separately mentions "Badhva questioned by Bashkali" — plausibly referring to the actual shakha-founder. The Brahmanda Purana (earlier section, ch. 35) gives his lineage:
 
-> बाष्कलस्तु भरद्वाजस्तिस्रः प्रोवाच संहिताः । त्रयस्तस्य भवन्तीष्ट्या महात्मानो गुणान्विताः ॥ धीमांश्च त्वापसीषश्च पन्नगारिश्च बुद्धिमान् । त्रीयश्चार्जुनस्येष्ट तपसा संचितव्रताः ॥ वीतरागा महात्मानः संहिताज्ञा संहारगाः । इत्येते ब्रह्मविच्छाप्रोक्ताः संहिता यैः प्रवर्तिताः ॥ ७ ॥
+> बाष्कलिस्तु भरद्वाजस्तिस्रः प्रोवाच संहिताः । त्रयस्तस्य भवन्तीष्ट्या महात्मानो गुणान्विताः ॥ ५ ॥ धीमांश्च त्वापनीपश्च पन्नगारिश्च बुद्धिमान् । तृतीयश्चार्जवस्ते च तपसा संशितव्रताः ॥ ६ ॥ वीतरागा महातेजाः संहिताज्ञानपारगाः । इत्येते बह्वृचः प्रोक्ताः संहिता यैः प्रवर्तिताः ॥ ७ ॥
 >
-> "Bashkala Bharadvaja taught three Samhitas; through devotion, his three [disciples] became great, virtuous souls: the wise Apasisha and wise Pannagari, and a third, dear to Arjuna, whose vows accumulated through austerity — passionless, great-souled, learned in the Samhitas, declared knowers of Brahman, by whom these Samhitas were propagated."
+> "Bashkali Bharadvaja taught three Samhitas; he had three great-souled, virtuous disciples: the wise Apanipa and the learned Pannagari, and a third, Arjava, of keen vows through austerity — passionless, of great splendour, masters of the knowledge of the Samhitas; these are called Bahvrichas, by whom the Samhitas were propagated."
 
 That is: Bashkali Bharadvaja had three disciples.
 
-**Disciple 1 — "Apanishena":** variant readings include Apanasha, Nandayaniya, Kaalaayani, and Baalaayani; the first two may share a common root, but nothing can be said with certainty.
+**Disciple 1 — "Apanipa":** variant readings include Apanapa, Nandayaniya, Kaalaayani, and Baalaayani; the last two seem closer to the original, but nothing can be said with certainty.
 
-**Disciple 2 — "Pannagari":** variants include Pannagaani, Gaargya, and Bhajya across different Puranic manuscripts — none of which fits comfortably. A possible connection to "Bhujyu Lahyaayani" (named in the Brihadaranyaka Upanishad, 3-3-1) is considered, though this identification has its own complications given the Brihadaranyaka-Kaushitaki tradition's own account...
+**Disciple 2 — "Pannagari":** variants include Pannagaani, Gaargya, and Bhajya across different Puranic manuscripts — of which the first name seems the more fitting. A possible connection to "Bhujyu Lahyaayani" (named in the Brihadaranyaka Upanishad, 3-3-1) is considered, though this identification has its own complications given the Brihadaranyaka-Kaushitaki tradition's own account...
 
 
 ### Page 90
 
-...leaving the third disciple's identity (whether a mere messenger or a genuine shakha-founder) unresolved from the Bhagavata account. Per the Ashtadhyayi (2-4-61), Pannagari was of the eastern (Prachya) country. The Brahmanda Purana instead names this third disciple "Arjuna," with further variants:
+...leaving the third disciple's identity (whether a mere messenger or a genuine shakha-founder) unresolved from the Bhagavata account. Per the Ashtadhyayi (2-4-61), Pannagari was of the eastern (Prachya) country. The Brahmanda Purana instead names this third disciple "Arjava," with further variants:
 
 > आर्व्व । कथाजन । तथाजन । कासार ।
 >
@@ -2036,12 +2036,12 @@ That is: Bashkali Bharadvaja had three disciples.
 
 **Tally:** across these Puranic accounts, the Puranas name 15 Samhita-founding teachers of the Rigveda's shakhas in all — five of the Shakala group, four of the Bashkala group, three of Shakapurni's disciples, and three of Bashkali Bharadvaja's disciples. Bhartrihari, in the commentary on his Vakyapadiya (1-6), writes:
 
-> एकविंशतिधा बाह्वृच्यम् । सप्तदशधा इत्येके ।
+> एकविंशतिधा बाह्वृच्यम् । पञ्चदशधा इत्येके ।
 >
-> एकविंशतिधा बाह्वृच्यम् । सप्तदशधा इत्य् एके ।
-> *ekaviṃśatidhā bāhvṛcyam | saptadaśadhā ity eke |*
+> एकविंशतिधा बाह्वृच्यम् । पञ्चदशधा इत्य् एके ।
+> *ekaviṃśatidhā bāhvṛcyam | pañcadaśadhā ity eke |*
 >
-> "The Bahvricha [tradition] is twenty-one-fold; some say seventeen-fold."
+> "The Bahvricha [tradition] is twenty-one-fold; some say fifteen-fold."
 
 — reflecting a genuine, acknowledged difference of scholarly opinion inherited from his own teachers, rather than a settled figure.
 

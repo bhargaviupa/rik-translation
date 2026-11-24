@@ -376,3 +376,142 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 60 | `शाकल्येन सृष्टां संहितामनुनिशाम्य देवः प्रांशावर्णः` → `शाकल्येन सुकृतां संहितामनुनिशम्य देवः प्रावर्षत्` | SECOND-PASS S7: Kannada p.60: ಶಾಕಲ್ಯೇನ ಸುಕೃತಾಂ ಸಂಹಿತಾಮನುನಿಶಮ್ಯ ದೇವಃ ಪ್ರಾವರ್ಷತ್ ॥ ೧-೪-೮೪ |
 | 60 | `They continuously recite Shakalya's Samhita... having heard the Samhita composed by Shakal` → `It rained after Shakalya's Samhita ... having heard the Samhita well made by Shakalya, the` | SECOND-PASS S7: Kannada p.60 gloss: shaakalyana saMhiteyu saMpUrNavaada mEle dEvategaLu adannu kELi maLegareda |
 | 60 | `the gods heard it and gave their approval.` → `the gods heard it and sent rain.` | SECOND-PASS S14: Kannada p.60: dEvategaLu adannu kELi maLegareda |
+
+### 2026-11-24 second pass, batch e61-90.tsv
+| page | old → new | why |
+|---|---|---|
+| 61 | `The author notes one specific scholarly disagreement: McDonell's claim that the "Sanjnana-` → `The author notes one specific scholarly disagreement: McDonell's claim that the "Sanjnana-` | SECOND-PASS S16: Kannada p.61: the Sanjnana-sukta is, by many authorities, the final sukta of the Bashkala Samhita; Kannada has no Khila-sukta |
+| 61 | `शाकल्यदृष्टे पदलक्ष्मेकं` → `शाकल्यदृष्टे पदलक्ष्ममेकं` | SECOND-PASS S7: Kannada p.61 ಪದಲಕ್ಷ್ಮಮೇಕಂ: the English dropped the letter म (lakṣmam ekam) |
+| 61 | `शाकल्य-दृष्टे पदलक्ष्मेकं` → `शाकल्य-दृष्टे पदलक्ष्ममेकं` | SECOND-PASS S7: Kannada p.61 ಪದಲಕ್ಷ್ಮಮೇಕಂ: the English dropped the letter म |
+| 61 | `padalakṣmekaṃ` → `padalakṣmamekaṃ` | SECOND-PASS S7: IAST partner of the preceding two edits |
+| 61 | `सदानि षट् चेति हि चर्चितानि ॥ ४५` → `पदानि षट् चेति हि चर्चितानि ॥ ४५` | SECOND-PASS S7: Kannada p.61 ಪದಾನಿ ಷಟ್ (padāni), English had सदानि |
+| 61 | `सदानि षट् चेति हि चर्चितानि ॥` → `पदानि षट् चेति हि चर्चितानि ॥` | SECOND-PASS S7: Kannada p.61 ಪದಾನಿ (padāni), English had सदानि (spaced form) |
+| 61 | `sadāni ṣaṭ ceti` → `padāni ṣaṭ ceti` | SECOND-PASS S7: IAST partner of the preceding edits |
+| 61 | `कृता बाष्कलेन द्विजसत्तमः` → `कृता बाष्कलो द्विजसत्तमः` | SECOND-PASS S7: Kannada p.61: ಕೃತಾ ಬಾಷ್ಕಲೋ ದ್ವಿಜಸತ್ತಮಃ (bāṣkalo); English had बाष्कलेन |
+| 62 | `But a separate genealogical passage in the same Purana, and the parallel reading in the Vi` → `But a separate genealogical passage in the same Purana (ch. 33) names Sandhyasti, Mathara,` | SECOND-PASS S14: Kannada p.62: Brahmanda ch.33 lists Sandhyasti, Mathara, Yajnavalkya, Parashara; only the Vishnu Purana text gives Jatukarna |
+| 63 | `mentions a "Bodhi" serving as Adhvaryu priest` → `mentions a "Bodhipingala" serving as Adhvaryu priest` | SECOND-PASS S13: Kannada p.63 ಬೋಧಿಪಿಂಗಳ (Bodhipingala) |
+| 63 | `Baudhya the shakha-founder is said to have had a son, Yatati, whose own grandson's story a` → `a sage named Bodhya also lived in the time of Yayati, son of Nahusha, and his "Padasanchay` | SECOND-PASS S14: Kannada p.63: a rishi Bodhya lived in the time of Yayati son of Nahusha; his Padasanchaya story begins at Shantiparva 176-57; no son Yatati |
+| 63 | `is mentioned in a separate lineage text (title: *"On the Kalpa-form nature of the Aruna-Pa` → `is named by Kumarila in his Tantravartika (the passage on the Kalpa-form nature of the Aru` | SECOND-PASS S15: Kannada p.63-64: Kumarila writes the name Aruna-Parashara-Brahmana in his Tantravartika (Chowkhamba p.164) |
+| 63 | `"Aruna Parashara" (a Brahmin)` → `"Aruna Parashara" (a Brahmana text)` | SECOND-PASS S14: Kannada p.63: ಅರುಣಪರಾಶರ ಬ್ರಾಹ್ಮಣ (a Brahmana), not a person |
+| 64 | `once as "Jalapaja Jatukarnya,"` → `once as "Jala (= Jada) Jatukarnya,"` | SECOND-PASS S13: Kannada p.64: ಜಲ=ಜಡ ಜಾತೂಕರ್ಣ್ಯ |
+| 64 | `with a son named Purnindhana (also called Shreetavika)` → `with a son named Shvetaketu` | SECOND-PASS S13: Kannada p.64: ಅವನ ಹೆಸರು ಶ್ವೇತಕೇತು |
+| 65 | `opens with *"samānī va ākūtiḥ"* and closes with a verse ending in *"iṣe"*` → `closes with the verse *"samānī va ākūtiḥ"*` | SECOND-PASS S14: Kannada p.65: ಸಮಾನೀ ವ ಆಕೂತಿಃ ... ಸಂಹಿತಾಂತ್ಯತ್ವಾತ್ (the last verse of the Shakala Samhita); no "iṣe" |
+| 65 | `adopted by the Sankhyayana school` → `adopted by the Sankhayana school` | SECOND-PASS S13: Kannada p.65 prints the quotation with Sankhayana |
+| 66 | `बाष्कलकः क्रमः ॥  ॥` → `बाष्कलकः क्रमः ॥ २१ ॥` | SECOND-PASS S3: Kannada p.66: verse number ೨೧ printed; English had none |
+| 66 | `चैवाष्टावतश्च बाष्कलक्षेऽधिकानि` → `चैवाष्टावतो बाष्कलकेऽधिकानि` | SECOND-PASS S7: Kannada p.66 ಚೈವಾಷ್ಟಾವತೋ ಬಾಷ್ಕಲಕೇಽಧಿಕಾನಿ |
+| 66 | `तान्स्वारणे` → `तान्पारणे` | SECOND-PASS S7: Kannada p.66 ತಾನ್ಪಾರಣೇ; स्वारणे is not the Kannada word |
+| 66 | `न शिलेषु विप्राः ॥ ३६` → `न खिलेषु विप्राः ॥ ३६` | SECOND-PASS S7: Kannada p.66 ನ ಖಿಲೇಷು ವಿಪ್ರಾಃ |
+| 66 | `चैवाष्टाव् अतश् च बाष्कलक्षेऽधिकानि` → `चैवाष्टाव् अतो बाष्कलकेऽधिकानि` | SECOND-PASS S7: Kannada p.66 (spaced form of the same repair) |
+| 66 | `तान् स्वारणे` → `तान् पारणे` | SECOND-PASS S7: Kannada p.66 ತಾನ್ಪಾರಣೇ |
+| 66 | `न शिलेषु विप्राः ॥` → `न खिलेषु विप्राः ॥` | SECOND-PASS S7: Kannada p.66 ನ ಖಿಲೇಷು (spaced form) |
+| 66 | `caivāṣṭāv ataś ca bāṣkalakṣe'dhikāni | tān svāraṇe` → `caivāṣṭāv ato bāṣkalake'dhikāni | tān pāraṇe` | SECOND-PASS S7: IAST partner of the Devanagari repairs above |
+| 66 | `na śileṣu viprāḥ` → `na khileṣu viprāḥ` | SECOND-PASS S7: IAST partner (ನ ಖಿಲೇಷು) |
+| 66 | `learned Brahmins declare them absent in the Shakala/Shaishiriya svarana [reading], not [me` → `learned Brahmins say, they are not recited in the Shakala and Shaishiriya recitation (pāra` | SECOND-PASS S14: Kannada p.66 ತಾನ್ಪಾರಣೇ ಶಾಕಲೇ ಶೈಶಿರೀಯೇ ವದಂತಿ ಶಿಷ್ಟಾ ನ ಖಿಲೇಷು ವಿಪ್ರಾಃ: pāraṇa, khila (no svarana, no "by chance") |
+| 66 | `The mention of these 11 Valakhilya suktas is found in Macdonell's Sarvanukramani` → `Of these 11 Valakhilya suktas, ten are mentioned in Macdonell's Sarvanukramani` | SECOND-PASS S1: Kannada p.66: ಈ ೧೧ ವಾಲಖಿಲ್ಯಸೂಕ್ತಗಳಲ್ಲಿ ಹತ್ತರ ಉಲ್ಲೇಖ |
+| 67 | `(entry ~218)` → `(entry no. 27)` | SECOND-PASS S1: Kannada p.67: ಸಂಖ್ಯಾ ೨೭ |
+| 67 | `This concludes the discussion of the Bashkala shakha.` → `The eighth mandala of the Bashkala shakha has 99 suktas in all. This concludes the discuss` | SECOND-PASS S17: Kannada p.67: ಬಾಷ್ಕಲಶಾಖೆಯ ೮ನೆಯ ಮಂಡಲದಲ್ಲಿ ಒಟ್ಟು ೯೯ ಸೂಕ್ತಗಳಿವೆ (omitted in English) |
+| 67 | `states that Ashvalayana was a grandson of Vishvamitra` → `states that Ashvalayana belonged to the gotra of Vishvamitra` | SECOND-PASS S14: Kannada p.67: ಆಶ್ವಲಾಯನನು ವಿಶ್ವಾಮಿತ್ರಗೋತ್ರದವನು |
+| 68 | `must predate the Buddha by many centuries at least` → `must predate the Buddha by thousands of years` | SECOND-PASS S1: Kannada p.68: ಬುದ್ಧನಿಗಿಂತ ಸಹಸ್ರಾರು ವರ್ಷ ಹಿಂದೆ |
+| 68 | `a distinct "Ashvalayana" tradition/family name persists in many parts of the country even ` → `the Buddha-era Ashvalayana must have been some Brahmin studying the Ashvalayana shakha, an` | SECOND-PASS S14: Kannada p.68: ಅಂತಹ ಆಶ್ವಲಾಯನಶಾಖೆ ಅಭ್ಯಸಿಸುವವರು ಹಲವು ಮಂದಿ ಬ್ರಾಹ್ಮಣರು ಈಗಲೂ ಮಹಾರಾಷ್ಟ್ರ ದೇಶದಲ್ಲಿ |
+| 68 | `*"iti aśvamāske aśvano'dhyāyaḥ"* ("thus the Ashva-related chapter") — though the author no` → `*"iti aṣṭamāṣṭake aṣṭamo'dhyāyaḥ"* ("thus the eighth chapter in the eighth ashtaka") — but` | SECOND-PASS S7: Kannada p.68: ಇತಿ ಅಷ್ಟಮಾಷ್ಟಕೇ ಅಷ್ಟಮೋಽಧ್ಯಾಯಃ; last mantra in the middle of the 5th adhyaya; the label is wrong |
+| 69 | `opens by naming itself the "Ashvalayana-Samhita," and, after this, a varga of five mantras` → `is entered on its first page as "Ashvalayana-Samhita, Ashtamashtaka, 89 leaves"; at the en` | SECOND-PASS S14: Kannada p.69: the 50th varga is accented, hence the final varga of the Ashvalayana Samhita, not a Parishishta; all five mantras cited; two further mantras after |
+| 70 | `old Bengali and Mithila scholarly custom evidently referred` → `recent Bengali and Mithila scholars evidently referred` | SECOND-PASS S14: Kannada p.70: ಈಚಿನ ವಂಗದೇಶದವರೂ ಮತ್ತು ಮಿಥಿಲೆಯ ವಿದ್ವಾಂಸರೂ |
+| 70 | `An Asiatic Society catalogue entry (no. 199) confirms this identity explicitly.` → `An Asiatic Society catalogue entry (no. 199) confirms this identity explicitly. The name "` | SECOND-PASS S17: Kannada p.70 item 7: ಮಧ್ಯಭಾರತದ ಕೆಲವು ಸ್ಥಳಗಳಲ್ಲಿ ಅಶ್ವಲಾಯನಬ್ರಾಹ್ಮಣದ ಹೆಸರು ಹೇಳಲ್ಪಟ್ಟಿದೆ |
+| 70 | `**Devasvamin**, the earliest commentator` → `**Devasvamin**, an ancient commentator` | SECOND-PASS S16: Kannada p.70: ಪುರಾತನಭಾಷ್ಯಕಾರರಾದ ದೇವಸ್ವಾಮಿ (ancient, not "earliest") |
+| 71 | `बाष्कलस्य तथापर ।` → `बाष्कलस्य तथापरा ।` | SECOND-PASS S7: Kannada p.71 ಬಾಷ್ಕಲಸ್ಯ ತಥಾಪರಾ |
+| 71 | `तदेवान्यः प्रपूरयन्` → `तदेवान्यैः प्रपूरयन्` | SECOND-PASS S7: Kannada p.71 ತದೇವಾನ್ಯೈಃ ಪ್ರಪೂರಯನ್ |
+| 71 | `कल्पसूत्रं चकाराश्व महर्षिर्गणपूजितः` → `कल्पसूत्रं चकाराथ महर्षिगणपूजितः` | SECOND-PASS S7: Kannada p.71 ಕಲ್ಪಸೂತ್ರಂ ಚಕಾರಾಥ ಮಹರ್ಷಿಗಣಪೂಜಿತಃ |
+| 72 | `"kṣiprim vātaram,"` → `"pṛthivīṃ mātaraṃ,"` | SECOND-PASS S7: Kannada p.72: ಪೃಥಿವೀಂ ಮಾತರಂ ಇತ್ಯಾದಿ ಮೂರು ಋಕ್ಕುಗಳು |
+| 72 | `the Brihaddevata's own traditional sukta-list includes a "Brahmajnanam" sukta found across` → `the Brihaddevata, a certainly Rigvedic work connected with the Mandukeya shakha, has a "Br` | SECOND-PASS S14: Kannada p.72: Brihaddevata is Rigvedic, tied to the Mandukeya shakha; its recension has the Brahmajajnanam sukta; Ashvalayana Shrauta 4-6 cites it in all readin |
+| 72 | ` — proving that some material genuinely unique to the Ashvalayana Sutra exists outside any` → `; in this way still further differences appear.` | SECOND-PASS S14: Kannada p.72: ಈ ಪ್ರಕಾರವಾಗಿ ಅದರಲ್ಲಿ ಇನ್ನು ಕೆಲವು ಭೇದಗಳು ತಲೆದೋರುತ್ತದೆ |
+| 72 | `cite the mantras "venastāt... śaṃca" and "ayaṃ venaḥ" by their opening words only` → `cite the five mantras beginning "venastat paśyat" and the mantra "ayaṃ venaḥ" by their ope` | SECOND-PASS S7: Kannada p.73: ವೇನಸ್ತತ್ಪಶ್ಯದಿತಿ ಪಂಚ; ಅಯಂ ವೇನ ಇತಿ ವಾ |
+| 72 | `throughout the Sankhyayana Shrautasutra and Pratishakhya` → `in the Sankhyayana Shrautasutra` | SECOND-PASS S16: Kannada p.73: only the Shaunkhayana Shrauta is named, no Pratishakhya |
+| 74 | `"sa iha ketau vā"` → `"sa iha kīṭo vā"` | SECOND-PASS S7: Kannada p.74: ಸ ಇಹ ಕೀಟೋ ವಾ |
+| 74 | `"pratibhānti"` → `"pratidhāvanti"` | SECOND-PASS S7: Kannada p.74: ಕೌಷೀತಕಿಯಲ್ಲಿ ಪ್ರತಿಧಾವಂತಿ |
+| 74 | `An old introductory verse (peetika) prefacing the printed Sankhyayana Sutra names no autho` → `An old commentary on the Sankhyayana Sutra has been printed, but who wrote it and what his` | SECOND-PASS S14: Kannada p.74: ಪುರಾತನವಾದ ಟೀಕೆಯು ಮುದ್ರಿತವಾಗಿದೆ; ಕರ್ತೃ ಯಾರು? ... ವರದತ್ತನ ಮಗನೆಂದು ಮಾತ್ರ |
+| 75 | `on behalf of this teacher, composing a commentary named for Brahmadatta. In his supplement` → `that the meaning of the sutra has already been explained by Acharya Agnisvami, Brahmadatta` | SECOND-PASS S14: Kannada p.75: ಆಚಾರ್ಯಾಗ್ನಿಸ್ವಾಮಿಬ್ರಹ್ಮದತ್ತಾದಿಭಿರ್ವ್ಯಾಖ್ಯಾತ ಏವ ಸೂತ್ರಾರ್ಥಃ; ಸಪ್ತಾನಾಮಪಿ ಪಕ್ಷಾಣಾಂ ... ಆಚಾರ್ಯಬ್ರಹ್ಮದತ್ತೇನ ಗರ್ಹಿತೋಽಯಂ ಪಕ್ಷಃ |
+| 75 | `A manuscript in the Tanjore royal library, titled *Sankhyayana-Shrautasutra-siddhi*, is at` → `A manuscript in the Tanjore library, written in Samvat 1529 and titled *Sankhyayana-Shraut` | SECOND-PASS S13: Kannada p.75: ಶಾಂಖಾಯನಶೌತಸೂತ್ರಪದ್ಧತಿ, ಸಂವತ್ ೧೫೨೯, ಬ್ರಹ್ಮದತ್ತಮತಂ ಸರ್ವಂ ... ಪದ್ಧತಿಃ ಕಥ್ಯತೇ ಸ್ಫುಟಂ |
+| 75 | `plausibly hailing from the "Artiya" region` → `plausibly hailing from the Anarta region` | SECOND-PASS S13: Kannada p.75: ಆನರ್ತದೇಶೀಯ |
+| 75 | `### Shambu and Sankhyayana` → `### Shankha and Sankhyayana` | SECOND-PASS S13: Kannada p.75: ಶಂಖ ಮತ್ತು ಶಾಂಖಾಯನ |
+| 75 | `The name "Shambu" is borne by several figures. A Kaushitaki passage (adhyaya 34 and 35-1) ` → `The name "Shankha" is borne by several sages. The Kapishthala-Katha Samhita (adhyaya 34 an` | SECOND-PASS S13: Kannada p.75: ಕಾಪಿಷ್ಠಲಕಠಸಂಹಿತೆಯಲ್ಲಿ ಒಬ್ಬ ಕೌಷ್ಯಶಂಖನ ಹೆಸರು; ಶಂಖ (not Shambu) |
+| 76 | `granting a treasure to the sage Shambu and thereby attaining liberation (verse 17) — likel` → `granting a treasure to the sage Shankha and thereby attaining the highest state, liberatio` | SECOND-PASS S13: Kannada p.76: ಶಂಖನೆಂಬ ಋಷಿಗೆ ನಿಧಿಯನ್ನು ದಾನಮಾಡಿ ... ಅಧ್ಯಾಯ ೨೦೦, ಶ್ಲೋಕ ೧೭; Bhishma to Yudhishthira |
+| 76 | `two brothers, Shambu and Likhita` → `two brothers, Shankha and Likhita` | SECOND-PASS S13: Kannada p.76: ಶಂಖ, ಲಿಖಿತ |
+| 76 | `a son of "Shakha" became known as "Shankhya,"` → `a son of Shankha became known as "Shankhya,"` | SECOND-PASS S13: Kannada p.76: ಶಂಖ ಎಂಬುವನ ಮಗನ ಹೆಸರು ಶಾಂಖ್ಯ |
+| 77 | `an Adyar Library manuscript of the Sankhyayana Brahmana` → `a manuscript of the Sankhyayana Brahmana in a library at Oxford` | SECOND-PASS S13: Kannada p.77: ಆಕ್ಸ್‌ಫರ್ಡಿನ ಪುಸ್ತಕಾಲಯವೊಂದರಲ್ಲಿ |
+| 77 | `(Bhandarkar Institute, Poona)` → `(Punjab University library)` | SECOND-PASS S13: Kannada p.77: ಪಂಜಾಬ್ ಯೂನಿವರ್ಸಿಟಿಯ ಪುಸ್ತಕಾಲಯದಲ್ಲಿ |
+| 77 | `Vana-parva (ch. 132, verse 12)` → `Vana-parva (ch. 134, verse 12)` | SECOND-PASS S1: Kannada p.77: ವನಪರ್ವ, ಅಧ್ಯಾಯ ೧೩೪ |
+| 77 | `making Ashtavakra and Shvetaketu cousins through this marriage.` → `making Shvetaketu the maternal uncle of his nephew Ashtavakra.` | SECOND-PASS S14: Kannada p.78: ಶ್ವೇತಕೇತು ಮತ್ತು ಅಷ್ಟಾವಕ್ರ ಕ್ರಮವಾಗಿ ಸೋದರಮಾವ ಮತ್ತು ಸೋದರಳಿಯ |
+| 78 | `generational cousins by marriage, both belonging to the Vedic scholarly tradition` → `uncle (Shvetaketu) and nephew (Ashtavakra), both masters of the Veda` | SECOND-PASS S14: Kannada p.78: ಸೋದರಮಾವ ಮತ್ತು ಸೋದರಳಿಯರಾಗುತ್ತಾರೆ. ಅವರಿಬ್ಬರೂ ವೇದಪಾರಂಗತರು |
+| 78 | `"Anardiya-Brahmadatta"` → `"Anartiya-Brahmadatta"` | SECOND-PASS S13: Kannada p.78: ಆನರ್ತಿಯ ಬ್ರಹ್ಮದತ್ತ |
+| 79 | `Ashvamedhika-parva (ch. 10, verse 11)` → `Ashramavasika-parva (ch. 10, verse 11)` | SECOND-PASS S13: Kannada p.79: ಮಹಾಭಾರತದ ಆಶ್ರಮವಾಸಿಕಪರ್ವದಲ್ಲಿ (ಅಧ್ಯಾಯ ೧೦) |
+| 79 | `Sambachya` → `Sambakhya` | SECOND-PASS S13: Kannada p.80: ಸಾಂಬಾಖ್ಯೋ |
+| 79 | `"Shambashya"` → `"Shamvatya"` | SECOND-PASS S13: Kannada p.79: ಶಾಂವತ್ಯಃ |
+| 81 | `"Kauravira" in the Aitareya Aranyaka (3-1)` → `"Shuravira" in the Aitareya Aranyaka (3-1)` | SECOND-PASS S13: Kannada p.81: ಐತರೇಯ ಆರಣ್ಯಕದಲ್ಲಿ (೩-೧) ಶೂರವೀರನೆಂದೂ |
+| 81 | `Saupanna-sukta` → `Sauparna-sukta` | SECOND-PASS S13: Kannada p.81: ಸೌಪರ್ಣಸೂಕ್ತ |
+| 82 | `names her Pratibodhi (3-3-5)` → `names her Pratitheyi (3-3-5)` | SECOND-PASS S13: Kannada p.81-82: ಪ್ರಾತಿಥೇಯಿ ಎಂಬ ಹೆಸರು (೩-೩-೫) |
+| 82 | `Shatapatha Brahmana (10-5-2-20)` → `Shatapatha Brahmana (10-5-20)` | SECOND-PASS S1: Kannada p.82: ಶತಪಥಬ್ರಾಹ್ಮಣದಲ್ಲಿ (೧೦-೫-೨೦) |
+| 82 | `The idea that "Bahvrichatva" constitutes some further sub-division specifically within the` → `Nor does anything prevent "Bahvricha" from being a sub-division of the Mandukeya shakha.` | SECOND-PASS S14: Kannada p.82: ಬಹ್‌ವೃಚವೆಂಬುವುದು ಮಾಂಡೂಕೇಯಶಾಖೆಯ ಒಂದು ಅವಾಂತರಭೇದವಿರಬೇಕೆಂದು ಹೇಳಲು ಬಾಧಕವೇನೂ ಇಲ್ಲ |
+| 83 | `Separate from Shaingi and Kaushitaki` → `Separate from Paingi and Kaushitaki` | SECOND-PASS S13: Kannada p.83: ಪೈಂಗೀ ಮತ್ತು ಕೌಷೀತಕಿ |
+| 83 | `Madhuka Garshya is asked which deity Soma has` → `Madhuka asks Gaushra which deity Soma has` | SECOND-PASS S13: Kannada p.83: ಮಧುಕೋ ಗೌಶ್ರಂ ಪಪ್ರಚ್ಛ |
+| 83 | `alongside (not identical to) Shaingya and Kaushitaki` → `alongside (not identical to) Paingya and Kaushitaki` | SECOND-PASS S13: Kannada p.83: ಪೈಂಗ್ಯ ಮತ್ತು ಕೌಷೀತಕಿ |
+| 83 | `3. The Madhyandina Shatapatha` → `2. The Madhyandina Shatapatha` | SECOND-PASS S1: Kannada p.83: item number ೨ |
+| 83 | `matching the Rigveda's own count for this hymn (10-95, eighteen mantras in the standard te` → `whereas the Rigveda text has eighteen mantras in this hymn (10-95) — confirming` | SECOND-PASS S14: Kannada p.83: ಋಗ್ವೇದದ (೧೦-೯೫) ನೆಯ ಸೂಕ್ತದಲ್ಲಿ ಹದಿನೆಂಟು ಋಕ್ಕುಗಳಿವೆ |
+| 83 | `4. Citations of a "Bahvricha-Brahmana" in commentary on the Apastamba Shrautasutra mostly ` → `3. In Richard Garbe's edition of the Apastamba Shrautasutra "Bahvricha-Brahmana" is cited ` | SECOND-PASS S14: Kannada p.83: ಗಾರ್ಬೆ ಪರಿಷ್ಕರಿಸಿದ ಆಪಸ್ತಂಬಶೌತಸೂತ್ರ: ಒಂಭತ್ತು + ಮೂರು = ಹನ್ನೆರಡು; first nine not in Aitareya/Kaushitaki |
+| 84 | `Shaingya (Paingya)` → `Paingya` | SECOND-PASS S13: Kannada p.83-84: ಪೈಂಗ್ಯ |
+| 84 | `5. The Katha-Grihya's` → `4. The Katha-Grihya's` | SECOND-PASS S1: Kannada p.84: item number ೪ |
+| 84 | `6. Devapala's` → `5. Devapala's` | SECOND-PASS S1: Kannada p.84: item number ೫ |
+| 84 | `7. Bhattoji's Mahabhashya-tika` → `6. Bhartrihari's Mahabhashya-tika` | SECOND-PASS S13: Kannada p.84: ಭರ್ತೃಹರಿಯು ತನ್ನ ಮಹಾಭಾಷ್ಯಟೀಕೆಯ ಆರಂಭದಲ್ಲಿ (item number printed ೯) |
+| 84 | `8. Medhatithi's discussion` → `7. Medhatithi's discussion` | SECOND-PASS S1: Kannada p.84: item number ೭ |
+| 84 | `This phrase itself implies that the Kathas had two separate Grihyasutras available to them` → `This means that the Grihyasutra of the Katha shakha is held in regard also by the follower` | SECOND-PASS S14: Kannada p.84: ... ಗೃಹ್ಯಸೂತ್ರವು ಬಹ್ವೃಚಶಾಖೆಯವರಿಗೂ ಆಶ್ವಲಾಯನಶಾಖೆಯವರಿಗೂ ಆದರಣೀಯವು |
+| 84 | `the Vasishtha[-Grihya-sutra] is followed` → `the Vasishtha[-sutra] is followed` | SECOND-PASS S16: Kannada p.84: ವಾಸಿಷ್ಠಂ ಬಹ್ವೃಚೈರೇವ (no Grihya) |
+| 84 | `while the Shambali-prescribed text is accepted` → `while the text prescribed by Shankha and Likhita is accepted` | SECOND-PASS S13: Kannada p.84: ಶಂಖಲಿಖಿತೋಕ್ತಂ ಚ ವಾಜಸನೇಯಿಭಿಃ |
+| 84 | `use the Shambalikhita-Dharmasutra instead` → `use the Dharmasutra of Shankha and Likhita instead` | SECOND-PASS S13: Kannada p.84: ವಾಜಸನೇಯಿಗಳು ಶಂಖಲಿಖಿತಧರ್ಮಸೂತ್ರವನ್ನು ಸ್ವೀಕರಿಸುತ್ತಾರೆ |
+| 85 | `9. The Vyakarana Mahabhashya` → `8. The Vyakarana Mahabhashya` | SECOND-PASS S1: Kannada p.85: item number ೮ |
+| 85 | `"Bahvricha, Bhargava, Shaila, Sankritya, and Jajali"` → `"Bahvricha, Bhargava, Paila, Sankritya, and Jajali"` | SECOND-PASS S13: Kannada p.85: ಬಹ್ವೃಚೋ ಭಾರ್ಗವಃ ಪೈಲಃ ಸಾಂಕೃತ್ಯೋ ಜಾಜಲಿಃ |
+| 85 | `शाकपूर्णे रथीतरः` → `शाकपूणी रथीतरः` | SECOND-PASS S7: Kannada p.85: ಶಾಕಪೂಣೀ ರಥೀತರಃ |
+| 85 | `चतुर्थं द्विजसत्तमः ॥ तस्य शिष्यास्तु चत्वारः शैल्यश्च क्रौञ्चकस्तथा` → `चतुर्थं द्विजसत्तमः ॥ ३ ॥ तस्य शिष्यास्तु चत्वारः पैलश्चेक्षलकस्तथा` | SECOND-PASS S7: Kannada p.85: verse number ೩ and ಪೈಲಶ್ಚೇಕ್ಷಲಕಸ್ತಥಾ |
+| 85 | `धीमान् शतबलाक्षश्च गजल्यश्चैव द्विजोत्तमः ॥` → `धीमान् शतबलाकश्च गजश्चैव द्विजोत्तमाः ॥ ४ ॥` | SECOND-PASS S7: Kannada p.85: ಧೀಮಾನ್ ಶತಬಲಾಕಶ್ಚ ಗಜಶ್ಚೈವ ದ್ವಿಜೋತ್ತಮಾಃ ॥ ೪ ॥ |
+| 85 | `"Rathitara taught three Samhitas to Shakapurni, and this foremost of the twice-born furthe` → `"Shakapurni Rathitara taught three Samhitas, and this foremost of the twice-born further c` | SECOND-PASS S14: Kannada p.85-86: ಶಾಕಪೂಣೀ ರಥೀತರಃ (one person); disciples ಪೈಲ, ಇಕ್ಷಲಕ, ಶತಬಲಾಕ, ಗಜ |
+| 86 | `Rathitara additionally composed an independent Nirukta text. Four disciples — Shailya, Iks` → `Shakapurni additionally composed an independent Nirukta text. Four disciples — Paila, Iksh` | SECOND-PASS S14: Kannada p.86: ತರುವಾಯ ಅವನು ಒಂದು ನಿರುಕ್ತವನ್ನೂ ರಚಿಸಿದನು; ಪೈಲ, ಇಕ್ಷಲಕ, ಶತಬಲಾಕ ಮತ್ತು ಗಜ |
+| 86 | `Punjab University, no. 2416` → `Punjab University, no. 2816` | SECOND-PASS S1: Kannada p.86: ಪಂಜಾಬ್ ವಿಶ್ವವಿದ್ಯಾಲಯ ಸಂ. ೨೮೧೬ |
+| 86 | `| शैजन्वैताल... |` → `| पैजवैताल... |` | SECOND-PASS S7: Kannada p.86: ಪೈಜವೈತಾಲ— |
+| 86 | `| शैंजवैताल... |` → `| पैंजवैताल... |` | SECOND-PASS S7: Kannada p.86: ಪೈಂಜವೈತಾಲ— |
+| 86 | `| शैंगिश्चैलाल... |` → `| पैंगिपैलाल... |` | SECOND-PASS S7: Kannada p.86: ಪೈಂಗಿಪೈಲಾಲ— |
+| 86 | `शैंगक्ष्वो द्वालकस्था । शैंग्य बैद्वालकस्था । शैंग्यक शैलालकस्था ॥` → `पैंगश्चाद्दालकिस्तथा । पैंग्य औद्दालकिस्तथा । पैंग्यः शैलालकस्तथा ॥` | SECOND-PASS S7: Kannada p.86: ಪೈಂಗಶ್ಚಾದ್ದಾಲಕಿಸ್ತಥಾ । ಪೈಂಗ್ಯ ಔದ್ದಾಲಕಿಸ್ತಥಾ । ಪೈಂಗ್ಯಃ ಶೈಲಾಲಕಸ್ತಥಾ |
+| 86 | `शैङ्गक्ष्वो द्वालकस्था । शैङ्ग्य बैद्वालकस्था । शैङ्ग्यक शैलालकस्था ॥` → `पैङ्गश्चाद्दालकिस्तथा । पैङ्ग्य औद्दालकिस्तथा । पैङ्ग्यः शैलालकस्तथा ॥` | SECOND-PASS S7: Kannada p.86 (same, nasal spelled as in the English line) |
+| 86 | `*śaiṅgakṣvo dvālakasthā | śaiṅgya baidvālakasthā | śaiṅgyaka śailālakasthā ||*` → `*paiṅgaścāddālakistathā | paiṅgya auddālakistathā | paiṅgyaḥ śailālakastathā ||*` | SECOND-PASS S7: IAST partner of the two Devanagari lines |
+| 86 | `(reconstructed as **Shaingya-Ikshalaka, Shaingya-Baidalaka,** and **Shaingyaka-Shailalaka*` → `(read as **Painga** and **Auddalaki**; **Paingya** and **Auddalaki**; **Paingya** and **Sh` | SECOND-PASS S14: Kannada p.86: the three readings ಪೈಂಗಶ್ಚಾದ್ದಾಲಕಿ / ಪೈಂಗ್ಯ ಔದ್ದಾಲಕಿ / ಪೈಂಗ್ಯಃ ಶೈಲಾಲಕ |
+| 86 | `### 1. The Shaingya Shakha` → `### 1. The Paingya Shakha` | SECOND-PASS S13: Kannada p.86: ೧. ಪೈಂಗ್ಯಶಾಖೆ |
+| 87 | `names a sage "Shaingi," whose son was likely "Shaingya"` → `names a sage "Paingi," whose son was likely "Paingya"` | SECOND-PASS S13: Kannada p.87: ಪೈಂಗಿ, ಪೈಂಗ್ಯ |
+| 87 | `Shaingya's own son, **Madhuka**` → `Paingya's own son, **Madhuka**` | SECOND-PASS S13: Kannada p.87: ಪೈಂಗ್ಯನ ಮಗನ ಹೆಸರು ಮಧುಕ |
+| 87 | `Shaingya's view and the Kaushitaki Brahmana's statement turn out to be essentially identic` → `Paingya's view, according to the Kaushitaki Brahmana's statement, turns out to be the same` | SECOND-PASS S14: Kannada p.87: ಸೋಮದೇವತಾಸಂಬಂಧವಾದ ಪೈಂಗ್ಯನ ಮತವು ಬಹ್ವಚದಂತೆಯೇ ಇತ್ತು |
+| 87 | `Madhu-Shaingya received` → `Madhuka-Paingya received` | SECOND-PASS S13: Kannada p.87: ಮಧುಕಪೈಂಗ್ಯನು |
+| 87 | `Evidence for a Shaingya-Grihyasutra` → `Evidence for a Paingya-Grihyasutra` | SECOND-PASS S13: Kannada p.87: ಪೈಂಗ್ಯಗೃಹ್ಯಸೂತ್ರ |
+| 87 | `### 3. The Baidalaka Shakha` → `### 2. The Auddalaki Shakha` | SECOND-PASS S13: Kannada p.87: ೨. ಔದ್ದಾಲಕಿಶಾಖಾ |
+| 88 | `### 2. The Shailalaka Shakha` → `### 3. The Shailalaka Shakha` | SECOND-PASS S1: Kannada p.88: ೩. ಶೈಲಾಲಕಶಾಖಾ |
+| 88 | `Possibly an alternate reading for "Baidalaka"` → `Possibly an alternate reading for "Auddalaki"` | SECOND-PASS S13: Kannada p.88: ಔದ್ದಾಲಕಿ ಎಂದಿರುವ ಸ್ಥಾನದಲ್ಲಿ ಶೈಲಾಲಕ |
+| 88 | `### 3. The Shatabalaksha Shakha` → `### 4. The Shatabalaksha Shakha` | SECOND-PASS S1: Kannada p.88: ೪. ಶತಬಲಾಕ್ಷಶಾಖಾ |
+| 88 | `names a Shatabalaksha, son of Vyaghrapada, who was himself son of Mudgala` → `names a Shatabalaksha Maudgalya, son of Mudgala` | SECOND-PASS S16: Kannada p.88: ಶತಬಲಾಕ್ಷ ಮೌದ್ಗಲ್ಯ ... ಇವನು ಮುದ್ದಲನ ಮಗನು (no Vyaghrapada) |
+| 88 | `Gaja, Gaingama, Niruktakrit, Niruktakrut, or Viraja` → `Gaja, Naigama, Niruktakrit, Nirukta, or Viraja` | SECOND-PASS S13: Kannada p.88: ಗಜಃ । ನೈಗಮಃ । ನಿರುಕ್ತಕೃತ್ । ನಿರುಕ್ತಃ । ವಿರಜಃ |
+| 88 | `"Vashaka, Hastika, Kaundinyaka,"` → `"Mashaka, Hastika, Kaundinyaka,"` | SECOND-PASS S13: Kannada p.88: ಮಾಶಕಂ । ಹಾಸ್ತಿಕಂ । ಕೌಂಡಿನ್ಯಕಂ |
+| 89 | `mentions a "Danavendra Bashkalya," a disciple of Vyasa — not himself a shakha-founder` → `mentions a "Danavendra Bashkali" — not a rishi and shakha-founder` | SECOND-PASS S16: Kannada p.89: ದಾನವೇಂದ್ರ ಬಾಷ್ಕಲಿ ... ಶಾಖಾಕಾರನಾದ ಋಷಿಯಲ್ಲ (no disciple of Vyasa) |
+| 89 | `"Bashkali questioned by Baadhya"` → `"Badhva questioned by Bashkali"` | SECOND-PASS S15: Kannada p.89: ಬಾಷ್ಕಲಿನಾ ಚ ಬಾಧ್ವಃ ಪೃಷ್ಟಃ = Bashkali asked Badhva... roles per Kannada ಬಾಷ್ಕಲಿಯು ಬಾಧ್ವನನ್ನು ಕೇಳಿದನು |
+| 89 | `The Brahmanda Purana (earlier section, ch. 63)` → `The Brahmanda Purana (earlier section, ch. 35)` | SECOND-PASS S1: Kannada p.89: ಬ್ರಹ್ಮಾಂಡಪುರಾಣದ ಪೂರ್ವಭಾಗ ಅಧ್ಯಾಯ ೩೫ |
+| 89 | `बाष्कलस्तु भरद्वाजस्तिस्रः` → `बाष्कलिस्तु भरद्वाजस्तिस्रः` | SECOND-PASS S7: Kannada p.89: ಬಾಷ್ಕಲಿಸ್ತು ಭರದ್ವಾಜಸ್ತಿಸ್ರಃ |
+| 89 | `गुणान्विताः ॥ धीमांश्च त्वापसीषश्च` → `गुणान्विताः ॥ ५ ॥ धीमांश्च त्वापनीपश्च` | SECOND-PASS S7: Kannada p.89: verse number ೫; ತ್ವಾಪನೀಪಶ್ಚ |
+| 89 | `त्रीयश्चार्जुनस्येष्ट तपसा संचितव्रताः ॥ वीतरागा महात्मानः संहिताज्ञा संहारगाः` → `तृतीयश्चार्जवस्ते च तपसा संशितव्रताः ॥ ६ ॥ वीतरागा महातेजाः संहिताज्ञानपारगाः` | SECOND-PASS S7: Kannada p.89: ತೃತೀಯಶ್ಚಾರ್ಜವಸ್ತೇ ಚ ತಪಸಾ ಸಂಶಿತವ್ರತಾಃ ॥ ೬ ॥ ವೀತರಾಗಾ ಮಹಾತೇಜಾಃ ಸಂಹಿತಾಜ್ಞಾನಪಾರಗಾಃ |
+| 89 | `इत्येते ब्रह्मविच्छाप्रोक्ताः` → `इत्येते बह्वृचः प्रोक्ताः` | SECOND-PASS S7: Kannada p.89: ಇತ್ಯೇತೇ ಬಹ್ವೃಚಃ ಪ್ರೋಕ್ತಾಃ |
+| 89 | `"Bashkala Bharadvaja taught three Samhitas; through devotion, his three [disciples] became` → `"Bashkali Bharadvaja taught three Samhitas; he had three great-souled, virtuous disciples:` | SECOND-PASS S14: Kannada p.89 verse: ಬಾಷ್ಕಲಿ ಭರದ್ವಾಜ; ತ್ವಾಪನೀಪ, ಪನ್ನಗಾರಿ, ಆರ್ಜವ; ಮಹಾತೇಜಾಃ; ಬಹ್ವೃಚಃ |
+| 89 | `**Disciple 1 — "Apanishena":** variant readings include Apanasha` → `**Disciple 1 — "Apanipa":** variant readings include Apanapa` | SECOND-PASS S13: Kannada p.89: ಆಪನೀಪ; ಆಪನಾಪ |
+| 89 | `the first two may share a common root` → `the last two seem closer to the original` | SECOND-PASS S14: Kannada p.89: ಕೊನೆಯ ಎರಡು ಹೆಸರುಗಳು ಮೂಲಕ್ಕೆ ಸ್ವಲ್ಪ ಸಮೀಪ |
+| 89 | `none of which fits comfortably` → `of which the first name seems the more fitting` | SECOND-PASS S14: Kannada p.89: ಮೊದಲನೆಯ ಹೆಸರೇ ಯುಕ್ತವೆಂದು ಹೇಳುವುದಕ್ಕೂ ಹೆಚ್ಚು ಅವಕಾಶವಿದೆ |
+| 90 | `names this third disciple "Arjuna," with further variants` → `names this third disciple "Arjava," with further variants` | SECOND-PASS S13: Kannada p.90: ಆರ್ಜವ |
+| 90 | `सप्तदशधा इत्येके` → `पञ्चदशधा इत्येके` | SECOND-PASS S1: Kannada p.90: ಪಂಚದಶಧಾ ಇತ್ಯೇಕೇ (fifteen); English had सप्तदश |
+| 90 | `सप्तदशधा इत्य् एके` → `पञ्चदशधा इत्य् एके` | SECOND-PASS S1: Kannada p.90 (spaced form) |
+| 90 | `saptadaśadhā ity eke` → `pañcadaśadhā ity eke` | SECOND-PASS S1: IAST partner |
+| 90 | `some say seventeen-fold` → `some say fifteen-fold` | SECOND-PASS S1: Kannada p.90: ಪಂಚದಶಧಾ; ಕೆಲವರು ಹದಿನೈದು ಶಾಖೆಗಳಿವೆಯೆಂದು |
+
+### 2026-11-24 second pass, batch e61-90_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 66 | `recitation (pārana)` → `recitation (parana)` | SECOND-PASS S14: plain spelling, no IAST typed in English prose |
