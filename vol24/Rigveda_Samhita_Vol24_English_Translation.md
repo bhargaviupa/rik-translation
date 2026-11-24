@@ -1295,6 +1295,289 @@ O Aśvin gods, having given the ancient rain-water of heaven to the king called 
 ##### English translation
 Bestowing upon Manu the ancient (rain) from the firmament, you enabled him to cultivate (the soil) with the plough (and reap) the barley : now therefore, Aswins, lords of rain, we glorify you both with praises.
 
+### Printed p. 31
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ नो वाजिनीवसू या॒तमृ॒तस्य॑ प॒थिभिः॑ ।  
+> येभि॑स्तृ॒क्षिं वृ॑षणा त्रासदस्य॒वं म॒हे क्ष॒त्राय॒ जिन्न॑थः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । नः । वाजिनीवसू इति वाजिनीऽवसू । यातं । ऋतस्य । पथिभिः ।  
+> येभिः । तृक्षिं । वृषणा । त्रासदस्यवं । महे । क्षत्राय । जिन्वथः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू अन्नधनवंत् । अन्नमेव धनं ययोस्तौ । अश्विनौ ऋतस्य
+> सत्यभूतस्य यज्ञस्य पथिभिर्मार्गैनोऽस्मानुप यातं । आगच्छतं । वृषणा वृषणौ
+> धनानां सेक्तारौ हे अश्विनौ त्रासदस्यवं त्रसदस्योः पुत्रं तृक्षिमेतन्नामकं
+> येभिर्य्यैर्यज्ञमार्गैर्महे महते क्षत्राय धनाय जिन्नथः प्रीणयथ एव ।
+> शैर्मार्गैरस्थान् धनादिभिः प्रीणयितुमागतित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, vājinīvasū, you two who have food itself for wealth, come to us by the paths of the sacrifice, which is ṛta, true. O showerers of wealth, O Aśvins, by the paths of the sacrifice by which you gratified Tṛkṣi, so named, the son of Trasadasyu, for the sake of great kṣatra, that is, wealth: by those paths come to us, to gratify us with wealth and the like. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—possessed of wealth in the form of food
+- वृषणा (*vṛṣaṇā*)—and showerers of desires, O Aśvin gods
+- त्रासदस्यवं (*trāsadasyavaṃ*)—the son of Trasadasyu
+- तृक्षिं (*tṛkṣiṃ*)—bearing the name Tṛkṣi, to your devotee
+- योभिः (*yobhiḥ*)—by which paths of sacrifice, having gone
+- महे (*mahe*)—great
+- क्षत्राय (*kṣatrāya*)—having provided wealth
+- जिन्वतः (*jinvataḥ*)—you gratified him, such
+- ऋतस्य (*ṛtasya*)—of the sacrifice, which is truth
+- पथिभिः (*pathibhiḥ*)—by the paths
+- नः (*naḥ*)—to us also
+- उप यातं (*upa yātaṃ*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, possessed of wealth in the form of food and showerers of desires, by the paths of sacrifice by which you went to your devotee, the son of Trasadasyu, bearing the name Tṛkṣi, and gratified him by providing great wealth, by such paths of the sacrifice, which is truth, graciously come to us also.
+
+##### English translation
+Rich in food, Aswins, come to us by the paths of sacrifice, those by which, showerers (of benefits), you went to gratify Trikshi, the son of Trasadasyu, with vast wealth.
+
+### Printed p. 32
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं वा॒मद्रि॑भिः सु॒तः सोमो॑ नरा वृषण्वसू ।  
+> आ या॑तं॒ सोम॑पीतये॒ पिब॑तं दा॒शुषो॑ गृ॒हे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आयं । वां । अद्रिभिः । सुतः । सोमः । नरा । वृषण्वसू इति वृषण्वसू ।  
+> आ । यातं । सोमपीतये । पिबतं । दाशुषः । गृहे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरा सर्वस्य नेतारौ यद्वा स्तोतृणां धनस्य नेतारौ वृषण्वसू वर्षणशीलधनवंतौ हे अश्विनौ वां युष्मदर्थमुद्रिभिर्ग्रावभिरयं सोमः सुतोऽभिषुतः ।
+> तस्मात्सोमपीतये सोमपानार्थं युवामा यातं । अगत्य च दाशुषो
+> हविर्दत्तवतो यजमानस्य गृहे यज्ञस्थाने सोमं युवां पिबतं ॥
+
+##### Gist of the bhāṣya
+
+Narā: the leaders of all, or the leaders of wealth to the praisers; vṛṣaṇvasū: possessed of wealth that rains. O Aśvins, for you this Soma has been pressed with stones, that is, with pressing-stones. Therefore, for the drinking of the Soma, come; and having come, in the house of the sacrificer who has given oblations, that is, in the place of sacrifice, you two drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders of rites
+- वृषण्वसू (*vṛṣaṇvasū*)—possessed of wealth in the form of rain, O Aśvin gods
+- वां (*vāṃ*)—with you in view
+- अद्रिभिः (*adribhiḥ*)—with stones
+- आयं सोमः (*āyaṃ somaḥ*)—this Soma
+- सुतः (*sutaḥ*)—has been pressed
+- सोमपीतये (*somapītaye*)—for the drinking of this Soma
+- आ यातं (*ā yātaṃ*)—graciously come
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer
+- गृहे (*gṛhe*)—in the house of sacrifice
+- पिबतं (*pibataṃ*)—drink the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, leaders of rites, possessed of wealth in the form of rain, this Soma has been pressed with stones (crushed with stones) with you in view. Graciously come for the drinking of this Soma. Drink the Soma in the house of the sacrificer.
+
+##### English translation
+Leaders (of rites), affluent in rain, this Soma has been expreessed by the (grinding) stones for you ; come to drink the Soma, drink it in the dwelling of the donor.
+
+### Printed p. 33
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ हि रु॒हत॑मश्विना॒ रथे॒ कोशे॑ हिर॒ण्यये॑ वृषण्वसू ।  
+> युं॒जाथां॒ पीव॑री॒रिषः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । हि । रुहतं । अश्विना । रथे । कोशे । हिरण्यये । वृषण्वसू इति वृषण्वसू ।  
+> युंजाथां । पीवरीः । इषः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषण्वसू वर्षणशीलधन् हे अश्विनाश्विन् हिरण्यये हिरण्मयरज्जादियुक्ते कोश आयुधादीनां कोशस्थाने रमणशीले रथे । हिरवधारणे ।
+> युवामेवा रुहतं । आरोहणं कुरुतं । ततः पीवरीः पावयित्कृणि स्कूलानि
+> वेषोऽन्नानि युंजाथां । आस्मासु योजयतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, vṛṣaṇvasū, possessed of wealth that rains, mount your chariot, hiraṇyaya, furnished with golden ropes and the like, a kośa, a storehouse of weapons and the like, and delightful. You two yourselves make the ascent. Then yoke to us, that is, apply to us, the stout foods. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्वसू (*vṛṣaṇvasū*)—possessed of rain as wealth
+- अश्विना (*aśvinā*)—O Aśvin gods
+- हिरण्यये (*hiraṇyaye*)—made of gold
+- कोशे (*kośe*)—having places for weapons and the like
+- रथे (*rathe*)—in the chariot
+- आरुहतं हि (*āruhataṃ hi*)—mount
+- पीवरिः (*pīvariḥ*)—abundant
+- इषः (*iṣaḥ*)—foods
+- युंजाथां (*yuṃjāthāṃ*)—fill in us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, possessed of rain as wealth, mount the chariot made of gold, having places for weapons and the like. Fill in us abundant foods.
+
+##### English translation
+Aswins, who are rich in rain, ascend your golden chariot, a storehouse (of weapons); bring to us fattening food.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याभिः॑ प॒क्थमव॑थो॒ याभि॒रध्रि॑गुं॒ याभि॑र्ब॒भ्रुं विजो॑षसं ।  
+> ताभि॑र्नो म॒क्षू तूय॑मश्वि॒ना ग॑तं भिष॒ज्यतं॒ यदातु॑रं ॥
+
+### Printed p. 34
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याभिः । पक्थं । अवथः । याभिः । अध्रिगुं । याभिः । बभ्रुं । विजोषसं ।  
+> ताभिः । नः । मक्षु । तूयं । अश्विना । आ । गतं । भिषज्यतं । यत् । आतुरं ॥ १८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् याभिरूतिभिः पक्थमेतन्नामकं राजानमवधः रक्षथः । याभिरूतिभिश्चाद्रिगुमधृतगमनं राजानमवधः । याभिरूतिभिश्च बभ्रुं राजानं च विजोषसं
+> विशेषेण सोमैः प्रीणयंतं । एतान् सर्वान् यैः पालनैरवधः ताभिस्तृ
+> रक्षणैर्मक्षु क्षिप्रं तूयं तूर्णं नोऽस्माना गतं । रक्षणार्थवागच्छतं । किंच
+> यद्यदातुरं रोगादिसहितमस्माकं पुत्रादिकं प्रति भिषज्यतं । भैषज्यं कुरुतं ॥
+> भिषक्कंड्वादिः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, with the protections with which you protect the king named Pakṭha; with the protections with which you protect King Adhrigu, of unchecked going; and with the protections with which you protect Babhru, the king, who especially gratifies you with Soma: with all those protections come to us for our protection, quickly and swiftly. Further, whatever of ours, our sons and the rest, is afflicted with disease and the like, heal it, that is, administer medicine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- याभिः (*yābhiḥ*)—with which of your protections
+- पक्कं (*pakkaṃ*)—the king called Pakṭha
+- अवथः (*avathaḥ*)—you protected
+- याभिः (*yābhiḥ*)—with which protections
+- अध्रिगुं (*adhriguṃ*)—the king called Adhrigu you protected
+- याभिः (*yābhiḥ*)—with which of your protections
+- विजोषसं (*vijoṣasaṃ*)—who made you rejoice with worship and the like
+- बभ्रुं (*babhruṃ*)—the king called Babhru you protected
+- ताभिः (*tābhiḥ*)—with all those protections
+- मक्षु (*makṣu*)—quickly
+- तेयं (*teyaṃ*)—and necessarily
+- नः (*naḥ*)—to us
+- आ गतं (*ā gataṃ*)—graciously come
+- यत् (*yat*)—whatever
+- आतुरं (*āturaṃ*)—our diseases and the like there are
+- भिषज्यतं (*bhiṣajyataṃ*)—for them administer treatment
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, with all those protections with which you protected the king called Pakṭha, the king called Adhrigu, and the king called Babhru, who made you rejoice with worship and the like, graciously come to us quickly and necessarily. And administer the necessary treatment for our diseases and the like.
+
+##### English translation
+With those protections with which you have defended Paktha, Adhrigu, and Babhru, when propitiating you, come to us, Aswias, quickly; administer medicine to the sick.
+
+### Printed p. 35
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदध्रि॑गावो॒ अध्रि॑गू इ॒दा चि॒दह्नो॑ अ॒श्विना॒ हवा॑महे ।  
+> व॒यं गी॒र्भिर्वि॑प॒न्यवः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अध्रिगावः । अध्रिगू इत्यध्रिगू । इदा । चित् । अह्नः । अश्विना । हवामहे ।  
+> वयं । गीःभिः । विपन्यवः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध्रिगावोऽधृतगमनाः कर्मसु त्वरमाणा विपन्यवो मेधाविनो
+> वयमध्रिगू अधृतगमनौ संग्रामे शत्रुवधार्थं त्वरया गच्छंतावश्विनाश्विन्
+> युवामहो दिवसस्येदा चिदिदानीमेव प्रातःकाले गीर्भिः स्तुतिलक्षणाभिर्वाग्भिर्यद्यदा हवामहे युवामाह्वयामः तदा ताभिरूतिभिरस्मानागच्छतमित्युत्तरत
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Adhrigāvaḥ: of unchecked going, hurrying in rites; vipanyavaḥ: wise. We, such, call you two, adhrigū, of unchecked going, going in haste in battle to slay enemies, O Aśvins, idā cit, just now, in the morning of the day, gīrbhiḥ, with words in the form of praise. When we call you, then come to us with those protections. This is the connection with what follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- अध्रिगावः (*adhrigāvaḥ*)—who have a hurried attachment to rites
+- विपन्यवः (*vipanyavaḥ*)—and are wise
+- वयं (*vayaṃ*)—we
+- अध्रिगू (*adhrigū*)—you who move swiftly in battles
+- अह्नः (*ahnaḥ*)—of the day
+- इदा चित् (*idā cit*)—at this very time, that is, in the morning
+- गीर्भिः (*gīrbhiḥ*)—with praise
+- यत् (*yat*)—when
+- हवामहे (*havāmahe*)—we call, then come graciously with your protections
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, when we, who have a hurried attachment to rites and are wise, call you, who move swiftly in battles, with praise, in the morning, the beginning of the day, then come graciously with your protections.
+
+##### English translation
+At the time when hurrying, devout, we invoke you both speedily going battle, at the dawn of day, with our hymns,—
+
+### Printed p. 36
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताभि॒रा या॑तं वृष॒णोप॑ मे॒ हवं॑ वि॒श्वप्सुं॑ वि॒श्ववा॑र्यं ।  
+> इ॒षा मंहि॑ष्ठा पुरु॒भूत॑मा नरा॒ याभिः॒ क्रिविं॑ वावृ॒धुस्ताभि॒रा ग॑तं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताभिः । आ । यातं । वृषणा । उप । मे । हवं । विश्वप्सुं । विश्ववार्यं ।  
+> इषा । मंहिष्ठा । पुरुभूतमा । नरा । याभिः । क्रिविं । ववृधुः । ताभिः । आ । गतं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषणा वृषणौ वर्षणशील् हे अश्विन् विश्वप्पुं । प्सुरिति रूपनाम ! स्तोत्रशस्त्रात्मकत्वेन नानारूपं विश्ववार्यं सर्वैर्देवैर्वणीयं मे मदीयं हवं
+> युष्मद्विषयमाह्वानमाभिमुखीकृत्य ताभिरूतिभिरुप यातं । युवामागच्छतं ।
+> याभिर्नरा नर सर्वस्य नेतारावश्विनाविषा ॥ इष इच्छायां ॥ हवींशीच्छंतौ
+> मंहिष्ठा मुंहिष्ठावतिशयेन धनानां दातार् पुरुभूतमा पुरुभूतम् युद्धेस्वत्यंतं पुरुधा भवंतौ यद्वातिशयेन बहूनां शत्रूणामभिभवितार् भवंतौ
+> क्रिविं कूपं प्रति याभिरूतिभिरुदकानि वावृधुः अवर्धयतः ॥ द्वयोर्बहुवचनं
+> पूजार्थं ॥ कूपपतितो वंदनो मायाभिः कूपं पूरयित्वा युवाभ्यामुक्तापितः खलु । तथा मंत्रः । उद्वंदनमैरयतं स्वर्दृशे । ऋ. १-११२-५ । ४३ ।
+> शाभिस्तैः पालनैरा गतं । अस्मद्रक्षणार्थमागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, showerers, viśvapsu: psu is a word for form; having manifold forms, as consisting of stotra and śastra; viśvavārya: to be chosen by all the gods. Making my invocation, which is addressed to you, turn towards you, come with those protections. Narā: the leaders of all, the two Aśvins; iṣā: desiring oblations; maṃhiṣṭā: exceedingly givers of wealth; purubhūtamā: exceedingly becoming manifold in battles, or exceedingly overcoming many enemies. With the protections with which, to a well (kriviṃ), you made the waters increase: the plural for two is for honour. Vandana, having fallen into a well, was raised out by you, after you filled the well by your wonders. Accordingly the mantra उद्वंदनमैरयतं स्वर्दृशे (*udvaṃdanamairayataṃ svardṛśe*) (Ṛ. 1-112-5) **GLOSS**. By those protections come, for our protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणा (*vṛṣaṇā*)—O Aśvin gods, who cause rain
+- विश्वप्सुं (*viśvapsuṃ*)—having manifold forms
+- विश्वनार्यं (*viśvanāryaṃ*)—and dear to all
+- मे (*me*)—my
+- हवं आ (*havaṃ ā*)—towards the praise
+- शाभिः (*śābhiḥ*)—with those same protections
+- उप यातं (*upa yātaṃ*)—come
+- नरा (*narā*)—leaders
+- इवा (*ivā*)—desiring oblations
+- मंहिष्ठा (*maṃhiṣṭhā*)—liberal givers of wealth
+- पुरुभूतमा (*purubhūtamā*)—and attaining manifold manifestation, O Aśvin gods
+- याभिः (*yābhiḥ*)—with which protections
+- क्रिविं (*kriviṃ*)—the well
+- वावृधुः (*vāvṛdhuḥ*)—having made it grow, you protected the seer named Vandana
+- शाभिः (*śābhiḥ*)—with all those protections
+- आ गतं (*ā gataṃ*)—graciously come
+
 ---
 
-**Progress note:** Done through printed p. 30. pp. 25-30: Sukta 22 Rk 1 end, Rk 2-6
+**Progress note:** Done through printed p. 36. pp. 31-36: Sukta 22 Rk 7-12 (Rk 12 pratipadartha)
