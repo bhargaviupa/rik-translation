@@ -17601,6 +17601,230 @@ When the wealth mentioned before had been obtained (अभिपित्वे 
 
 When I obtained the wealth described before, even the trees praised that wealth, saying: "These seers have received as gifts praiseworthy cows and venerable horses and are enjoying their fruit."
 
+### Printed p. 438
+
+##### English translation
+Upon the acceptance of this donation to me, the very trees have exclaimed: (See these Rishis) have acquired excellent cows, excellent horses.
+
+Here the fourth sūkta is ended.
+
+May Vidyātīrtha Maheśvara, dispelling the darkness of the heart by the illumination of the meaning of the Veda, bestow the four human goals.
+
+Thus ends the seventh adhyāya in the fifth aṣṭaka of the Ṛgveda-Saṃhitā commentary, in the Vedārthaprakāśa of Mādhava, composed by the minister Sāyaṇa, bearer of the burden of the empire of the glorious king Vīra Bukka, supreme lord of kings of kings and promoter of the Vedic path. Oṃ tat sat.
+
+Here ends the seventh adhyāya in the fifth aṣṭaka of the Ṛgveda-Saṃhitā, accompanied by the commentary of Śrī Sāyaṇa and the Kannada translation.
+
+Whatever is lacking in syllable or word, or whatever is deficient in measure, may all that be forgiven, O Lord of Speech; may it be well with you. May there be auspiciousness. Maṅgalam.
+
+Śrī 9. Salutation to the glorious Mahāgaṇādhipati. I bow to the elephant-faced one, whom Vāgīśa and the other gods, bowing to him, become fulfilled in all their aims at the beginning of any undertaking. I praise Vidyātīrtha Maheśvara, whose breath is the Vedas and who from the Vedas fashioned the whole world. The Veda is Śiva and Śiva is the Veda; the study of the Veda is Sadāśiva; therefore with every effort one should always recite the Veda alone.
+
+Ṛgveda-Saṃhitā with the commentary of Sāyaṇa. Fifth aṣṭaka, eighth adhyāya. Eighth adhyāya in the fifth aṣṭaka. Fifth sūkta in the eighth maṇḍala.
+
+## Sūkta 5 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथाष्टमो व्याख्यातुमारभ्यते । अष्टमे मंडले प्रथमेऽनुवाके चत्वारि
+> सूक्तानि व्याकृतानि । दूरादित्येकोनचत्वारिंशदृचं पंचमं सूक्तं कण्वगोत्रस्य
+> ब्रह्मातिथेरार्षं । आदितः षड्विंशद्दायत्र्यः । ततो द्वे बृहत्यौ । अंतिमानुष्टुप् ।
+> अंतेषु पंचस्वर्धर्चेषु चेदिपुत्रस्य कशुनान्नो राज्यो दानं स्तूयते। अतस्तद्देवताकाः । शिष्टा आश्विन्यः । तथा चानुक्रांतं । दूरदेकान्नचत्वारिंशद्ब्रह्मातिथिराश्विनं द्विबृहत्यनुष्टुबंतमुत्याः पंचार्धर्चाश्चैद्यस्य कशोर्दानस्तुतिरिति ॥
+
+##### Gist of the bhāṣya
+
+Now the explanation of the eighth (adhyāya) is begun. In the first anuvāka of the eighth maṇḍala four sūktas have been explained. The fifth sūkta, दूरात् (*dūrāt*), of thirty-nine Ṛks, has as its seer Brahmātithi of the Kaṇva gotra. From the beginning thirty-six verses are Gāyatrī; then two are Bṛhatī; the last is Anuṣṭubh. In the five half-verses at the end the gift of Kaśu, the king, son of the Cedi, is praised; so these have that (gift) as their deity, and the remaining verses are addressed to the Aśvins. **NOTE**. As the Anukramaṇī says: दूरदेकान्नचत्वारिंशद्ब्रह्मातिथिराश्विनं द्विबृहत्यनुष्टुबंतमुत्याः पंचार्धर्चाश्चैद्यस्य कशोर्दानस्तुतिरिति (*dūradekānnacatvāriṃśadbrahmātithirāśvinaṃ dvibṛhatyanuṣṭubaṃtamutyāḥ paṃcārdharcāścaidyasya kaśordānastutiriti*).
+
+### Printed p. 440
+
+> प्रातरनुवाक आश्विनशस्त्रयोराश्विने क्रत् गौयत्रे छंदस्यंत्यतृचवर्जमिदं सूक्तं ।
+> सूत्रते हि दूरादिहेवेति तिस्र उत्तमा उद्धरेत् । आ. ४-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the morning recitation (prātaranuvāka), in the Āśvina śastra, for the Āśvina rite, in the Gāyatra metre, this sūkta, excepting the last triplet, is used. For the sūtra says: दूरादिहेवेति तिस्र उत्तमा उद्धरेत् (*dūrādiheveti tisra uttamā uddharet*) (Ā. Sū. 4-15).
+
+(This is) the ?-th sūkta.**NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+Translation: Now the commentary on the eighth adhyāya in the fifth aṣṭaka of the Ṛgveda-Saṃhitā is begun. In the first anuvāka of the eighth maṇḍala the commentary on four sūktas has been completed up to now, that is, in the preceding adhyāya; so from the fifth sūkta onward the explanation will now be given. This sūkta beginning दूरादिव (*dūrādiva*) is the fifth sūkta in the first anuvāka. It has thirty-nine Ṛks. Its seer is Brahmātithi, born in the Kaṇva gotra. In this sūkta the mantras from the first Ṛk to the thirty-sixth are in the Gāyatrī metre. From there onward two Ṛks (the 37th and 38th) are in the Bṛhatī metre; the last Ṛk is in the Anuṣṭubh metre. In the five half-verses at the end of this sūkta the praise of the gift made by the king Kuśu, son of Cedi, is extolled. Therefore the deity of those Ṛks is that praise of the gift; for the remaining Ṛks the deities are the Aśvins. The Anukramaṇī says: दूरदेकान्नचत्वारिंशद्ब्रह्मातिथिराश्विनं द्विबृहत्यनुष्टुबंतमुंत्याः पंचार्धर्चाश्चैद्यस्य कुशोर्दानस्तुतिः (*dūradekānnacatvāriṃśadbrahmātithirāśvinaṃ dvibṛhatyanuṣṭubaṃtamuṃtyāḥ paṃcārdharcāścaidyasya kuśordānastutiḥ*). It is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, दूरादिहेवेति तिस्त्र उत्तमा उद्धरेत् (*dūrādiheveti tistra uttamā uddharet*) (Ā. 4-15), that at the time of reciting the morning-recitation mantras the Ṛks of this sūkta, excepting the last three, are used for the Gāyatrī-metre mantras connected with the Āśvina rite.
+
+Sūkta 5. Maṇḍala 8; Anuvāka 1; Sūkta 5. Aṣṭaka 5; Adhyāya 8; Vargas 1, 2, 3, 4, 5, 6, 7, 8. Number of Ṛks in the sūkta: 39. Seer: Brahmātithi Kāṇva. Deity: 1–36, and the first half of 37: the Aśvins; the latter half of 37 and 38–39: the praise of the gift of Kaśu (Kuśu) of the Cedis. Metre: 1–36 Gāyatrī; 37–38 Bṛhatī; 39 Anuṣṭubh.
+
+### Printed p. 441
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दू॒रादि॒हेव॒ यत्स॒त्य॑रु॒णप्सु॒रशि॑श्वितत् ।  
+> वि भा॒नुं वि॒श्वधा॑तनत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दूरात् । इह इव : यत् । सती । अरुणप्सुः । अशिश्वितत् ।  
+> वि । भानुं । विश्वधा । आतनत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दूराद्दूरत एव विप्रकृष्ट एव नभसः प्राक्रदेशे वर्तमानेहेव सतीह
+> समीपे विद्यमानेव ॥ अस्तेः शतरि श्नसोरल्लोप उगितश्चति जीप् । शतुरनुम इति
+> नद्या उदात्तत्वं ॥ अरुणप्सुरारोचमानरूपा ईदृश्युषा यद्यदाशिश्वितत् अश्वेतयत् ॥ श्मिता वर्णॆ । अस्माण्णंताल्लुजु चणु रूपं । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः ॥ तदा भानुं दीप्तिं विश्वधा बहुविधं व्यतनत् । विस्तारितवती ॥ तनोतेर्व्यत्ययेन शप् ॥ ईदृशीमुषसं हे अश्विनौ सचेथः इत्युत्तरय्यकवाक्यता । यद्वा ।
+> प्रातरनुवाक्य उषस्यॆन कांडेनोषाः स्तुता सती प्रादुर्बभूव । हे अश्विनौ
+> शंसिष्यमाणमाश्विनं क्रतुं श्रोतुं युवामपि प्रादुर्भवतमित्यध्याहारेण
+> वाक्यं पूरणीयं ॥
+
+##### Gist of the bhāṣya
+
+दूरात् (*dūrāt*) means from afar, that is, while she is far away in the eastern region of the sky; इहेव सती (*iheva satī*) means as if present near at hand. अरुणप्सुः (*aruṇapsuḥ*) is the Dawn of shining form. When such a Dawn made things white (अशिश्वितत् (*aśiśvitat*)), then she spread her light (भानुं (*bhānuṃ*)) in many ways, extending it (व्यतनत् (*vyatanat*)). Such a Dawn, O Aśvins, you two accompany — thus the sentence is connected with the next verse. Or else: in the morning recitation the Dawn, praised by the Uṣasya section, appeared; O Aśvins, to hear the Āśvina rite which is to be recited, you too appear — the sentence is to be completed by supplying this.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दूरात् (*dūrāt*)—even while in a very distant region of the sky
+- इहेव सती (*iheva satī*)—as if she were close by
+- अरुणप्सुः (*aruṇapsuḥ*)—the goddess Uṣas, of attractive golden form
+- यत् (*yat*)—when
+- अशिश्वितत् (*aśiśvitat*)—she lit up the whole world, then
+- भानुं (*bhānuṃ*)—her radiance
+- विश्वधा (*viśvadhā*)—in all regions
+- वि आतनत् (*vi ātanat*)—has spread widely
+
+##### भावार्थ (Bhāvārtha)
+
+Even while in a very distant region of the sky, as if close by, the goddess Uṣas of attractive golden form, when she lit up the whole world, has spread her radiance widely in all regions.
+
+##### English translation
+When the shining dawn, advancing hither from afar, whitens (all things), she spreads the light on all sides.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्न॒वद्द॑स्रा मनो॒युजा॒ रथे॑न पृथु॒पाज॑सा ।
+
+### Printed p. 442
+
+> सचेथे अश्विनोषसं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृवत् । दस्रा । मनःयुजा । रथेन । पृथुपाजसा ।  
+> सचेथे इति । अश्विना । उषसं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दस्रा दसौ दर्शनीयौ शत्रूणामुपक्षपयितारौ ना ॥ सुषां सुलुगित्याकारः ॥ ईदृशौ हे अश्विनाश्विन् नृवन्नृभिर्नतृभिस्तुल्यं वर्तमानौ युवां ॥ तेन
+> तुल्यमिति प्रथमार्थे वतिः ॥ यद्वा । नृवतीं ॥ नृशब्दान्मतुपश्चांदसत्वं । रश्रुतिसामान्याद्वा छंदसीर इति वत्त्वं । जीपश्चांदसो लुक् । ह्रस्वनुड्भाग्यं मतुबिति
+> मतुप उदात्तत्वं ॥ ईदृशीमुषसं रथेनात्मीयेन वाहनेन सचेथे । सम्यगागच्छथः ॥ षच समवाये ॥ यद्वा । सचतिः सेवनार्थः । सचेथे । सेवेथे । तदाह
+> यास्कः । सचस्व्या नः स्वस्तये सेवस्व नः स्वस्तये । नि. ३-२१ । इति । कीदृशेन रथेन ।
+> मनोयुजा मनसैव व्यापारांतरनिरपेक्षेण स्मरणमात्रेणाश्वैर्युज्यमानेन
+> पृथुपाजसा विस्तीर्णबलेन बह्वन्नेन वा । उषसोऽनंतरमश्विनोः स्तूयमानत्वात्तामश्विन् गच्छत इत्युच्यते ॥
+
+##### Gist of the bhāṣya
+
+O दस्रा (*dasrā*), beautiful ones, destroyers of enemies. O Aśvins, you who are like leaders (नृवत् (*nṛvat*), equal to leaders) — or else (the word is) नृवतीं (*nṛvatīṃ*), "possessed of men", an epithet of the Dawn. You accompany (सचेथे (*sacethe*), come together with) such a Dawn with your own chariot. Or else the root सच (*saca*) has the sense of serving: you serve her. Yāska says: सचस्व्या नः स्वस्तये सेवस्व नः स्वस्तये (*sacasvyā naḥ svastaye sevasva naḥ svastaye*) (Ni. 3-21). With what chariot? मनोयुजा (*manoyujā*): yoked to the horses by mere thought, independent of any other effort; पृथुपाजसा (*pṛthupājasā*): of wide strength, or with abundant food. Since after the Dawn the Aśvins are praised, it is said that they go to her.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्रा (*dasrā*)—of attractive form
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नृवत् (*nṛvat*)—you who are praiseworthy like leaders
+- मनोयुजा (*manoyujā*)—which is joined to the horses by mere resolve
+- पृथुपाजसा (*pṛthupājasā*)—and which has exceedingly great strength
+- रथेन (*rathena*)—with the chariot
+- उषसं (*uṣasaṃ*)—the goddess Uṣas
+- सचेथे (*sacethe*)—you join and remain together
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities of attractive form, you who are praiseworthy like leaders remain together with the goddess Uṣas, joining her with a chariot that is yoked to the horses by mere resolve and has exceedingly great strength.
+
+##### English translation
+And you, Aswins, of goodlv aspect, accompany the dawn like leaders with your mighty chariot harnessed at a thought.
+
+### Printed p. 443
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वाभ्यां॑ वाजिनीवसू॒ प्रति॒ स्तोमा॑ अदृक्षत ।  
+> वाचं॑ दू॒तो यथो॑हिषे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवाभ्यां । वाजिनीवसू इति वाजिनीऽवसू । प्रति । स्तोमाः । अदृक्षत ।  
+> वाचं । दूतः । यथा । ओहिषे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू । वाजो हविर्लक्षणमन्नं । तद्युक्ता यागक्रिया वाजिनी ।
+> तस्यां वसु धनं ययोरस्ति तौ तथोक्तौ । यद्वा । अन्नयुक्तं स्तोतृभ्यो देयं
+> वसु धनं ययोरस्ति तादृशौ । हे अश्विन् युवाभ्यां स्तोमा अस्माभिः कृतानि
+> स्तोत्राणि प्रत्यदृक्षत । प्रतिदृश्यंतां ॥ दृशेश्चांदसः कर्मणि लुज् । लिज् सिचावात्मनेपडेष्टिति कित्वात्सृजिदृशोरित्यमभावः । षत्वकत्वषत्वानि ॥ अहं च यथा येन प्रकारेण दूतः प्रेष्ठो वाचं स्वामिनो वाक्यं याचते तथा युवयोः प्रीतिपूर्विकां वाचमोहिषे । पुरुषव्यत्ययः । याचे ॥ उहिरर्दने ! याचन इत्यर्थः ।
+> व्यत्ययेनात्मनेपदं ॥ यद्वा । दूतो यथा स्वामिनोक्तां वाचं विदेशस्थ मन्यं
+> प्रापयति एवमहमपि स्तुतिरूपां वाचनोहिषे । वहे । युवां प्रापयामि ॥
+> वहेर्वत्ययेन मध्यमः । छांदसं संप्रसारणं । छंदस्युभयथॆःत्यार्थधातुकत्वादिडागमः । शबभावो लघूपधगुणश्च । एजि पररूपमिति पररूपत्वं ॥
+
+##### Gist of the bhāṣya
+
+O वाजिनीवसू (*vājinīvasū*): वाज (*vāja*) is food in the form of the oblation; the sacrificial act joined with it is वाजिनी (*vājinī*); those who have wealth (वसु (*vasu*)) in it are so called. Or else: those who have wealth, joined with food, to be given to the singers. O Aśvins, may the praises (स्तोमा (*stomā*)) made by us be seen, that is, accepted, by you (प्रत्यदृक्षत (*pratyadṛkṣata*)). And just as a messenger (दूतः (*dūtaḥ*)) asks for (the word of) his master, so I ओहिषे (*ohiṣe*), ask for, a word of affection from you; उहि (*uhi*) has the sense of requesting, the person being interchanged. Or else: as a messenger conveys the word spoken by his master to another in a foreign land, so I too convey (वहे (*vahe*)) the speech in the form of praise, I bring it to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—O Aśvin deities, possessed of the wealth of food in the form of the oblation
+- युवाभ्यां (*yuvābhyāṃ*)—offered to you two
+- स्तोमाः (*stomāḥ*)—the words of praise
+- प्रत्यदृक्षत (*pratyadṛkṣata*)—may each one be accepted separately
+- यथा (*yathā*)—in what manner
+- दूतः (*dūtaḥ*)—just as a messenger bears the message of the sacrificer
+- (अहं (*ahaṃ*)—I too)
+- वाचं (*vācaṃ*)—the words of praise of the sacrificer who praises you
+- ओहिषे (*ohiṣe*)—I bear with devotion
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, possessed of the wealth of food in the form of the oblation, may the words of praise offered to you two be accepted, each one separately. Just as a messenger bears the message of the sacrificer, so I too bear with devotion the words of praise of the sacrificer who praises you.
+
+### Printed p. 444
+
+##### English translation
+By you, affluent in sacrifices. may our praises be severally accepted : I bear the words (of the worshipper) like a messenger (to you).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒प्रि॒या ण॑ ऊ॒तये॑ पुरुमं॒द्रा पु॑रू॒वसू॑ ।  
+> स्तु॒षे कण्वा॑सो अ॒श्विना॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुप्रिया । नः । ऊतये । पुरुमंद्रा । पुरुवसू इति पुरुवसू ।  
+> स्तुषे । कण्वासः । अश्विना ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुप्रिया बहूनां प्रियौ पुरुमंद्रा बहुमदौ बहूनां माडयितारौ
+> वा । यद्वा । पुरु बहुलं माद्यंतौ । पुरुषसू बहुधन् ईदृशावश्विनाश्विन् नोऽस्माकमूतये रक्षणाय कण्वासः कण्णगोत्रा वयं स्तुषे । स्तुमहे ॥ पुरुषवचनयोर्व्यत्ययः ॥ यद्वा । कण्वास इति पूजार्थं बहुवचनं । ऋषिरात्मानं संबोध्य
+> ब्रूते । हे अंतरात्मन् कण्वासः कण्णगोत्रस्वं स्तुषे । अश्विन् स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+पुरुप्रिया (*purupriyā*): dear to many; पुरुमंद्रा (*purumaṃdrā*): much rejoicing, or gladdeners of many; or else delighting abundantly. पुरुषसू (*puruṣasū*): of much wealth.**NOTE** Such Aśvins, O Aśvins, for our (नः (*naḥ*)) protection (ऊतये (*ūtaye*)) we, of the Kaṇva lineage (कण्वासः (*kaṇvāsaḥ*)), praise (स्तुषे (*stuṣe*)); person and number are interchanged. Or else: the plural कण्वासः (*kaṇvāsaḥ*) is for honour; the seer addresses himself and says: O inner self, you of the Kaṇva lineage, praise the Aśvins.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुप्रिया (*purupriyā*)—worthy of the love of many
+- पुरुमंद्रा (*purumaṃdrā*)—who cause gladness to many
+- पुरुषसू (*puruṣasū*)—and who possess exceedingly great wealth
+- अश्विना (*aśvinā*)—the Aśvin deities
+- नः (*naḥ*)—our
+- ऊतये (*ūtaye*)—for protection
+- कण्वासः (*kaṇvāsaḥ*)—we, born in the Kaṇva line
+- स्तुषे (*stuṣe*)—pray to and praise
+
+##### भावार्थ (Bhāvārtha)
+
+The Aśvin deities, worthy of the love of many, who cause gladness to many, who possess exceedingly great wealth —
+
 ---
 
-**Progress note:** Done through printed p. 437. pp. 432-437 (batch API)
+**Progress note:** Done through printed p. 444. pp. 438-444 (batch API)
