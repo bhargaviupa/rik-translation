@@ -18709,6 +18709,320 @@ Preparing the sacrifice in their mansions, (the worshippers) adore you, Agni, th
 
 O Agni, since you are the lord, you look equally upon all the peoples in many places; therefore we call you, the well-known one, in battles.
 
+### Printed p. 414
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हि (*hi*)—by whose power
+- प्रभुः (*prabhuḥ*)—you are the lord of all
+- पुरुत्रा (*purutrā*)—in many places
+- विश्वाः (*viśvāḥ*)—all
+- विशः (*viśaḥ*)—the peoples
+- अनु सदृज् (*anu sadṛj*)—looking upon alike
+- असि (*asi*)—you are (therefore)
+- त्वा (*tvā*)—you
+- समत्सु (*samatsu*)—in battles
+- हवामहे (*havāmahe*)—we also call
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, by whose power you are the lord of all and look equally upon all peoples in many places, for that very reason we also call you in battles.
+
+##### English translation
+You are the lord, you behold all people alike in many places : we therefore invoke you in battles.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमी॑ळिष्व॒ य आहु॑तो॒ऽग्निर्वि॒ भ्राज॑ते घृ॒तैः ।  
+> इमं नः शृणवद्धनं ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ईळिष्व । यः । आहुतः । अग्निः । विभ्राजते । घृतैः ।  
+> इमं । नः । शृणवत् । हवं ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निर्घृतैः सहाहुतो विभ्राजते यश्च नोऽस्माकमिमं हवमाह्वानं
+> शृणवत् शृणोति तमग्निमीळिष्ट । स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+Praise that Agni who, offered the oblation with ghee, shines forth, and who hears this our invocation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः अग्निः (*yaḥ agniḥ*)—the Agni who
+- धृतैः (*dhṛtaiḥ*)—with oblations in the form of ghee
+- आहुतः (*āhutaḥ*)—being offered the oblation
+- विभ्राजते (*vibhrājate*)—shines
+- यः (*yaḥ*)—who
+- नः (*naḥ*)—our
+
+### Printed p. 415
+
+- इमं हवं (*imaṃ havaṃ*)—this invocation
+- शृणवत् (*śṛṇavat*)—hears
+- तं (*taṃ*)—that Agni
+- ईळिष्टॆ (*īḷiṣṭè*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+Praise that Agni who shines when the oblation is offered to him with oblations in the form of ghee, and who hears this our invocation.
+
+##### English translation
+Adore that Agni who shines brightly when fed with offerings of butter, who hears this our invocation.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्व॑ व॒यं पन॑ामहे शृ॒ण्वंतं॑ जा॒तवे॑दसं ।  
+> अग्ने॒ घ्नंत॒मप॒ द्विषः॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । त्वा । वयं । हवामदे । शृस्वंतं । जातवेदसं ।  
+> अग्ने । घ्नंतं । अप । द्विषः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जातवेदसं जातधनं जातप्रज्ञं वा द्विषः शत्रुनप घ्नंतं हिंसंतं
+> शृण्वंतमस्मदीयमाह्वानं शृण्वंतं च त्वां वयमांगिरसा हवामहे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, Jātavedas, the possessor of wealth or of knowledge, who strike down and destroy the enemies and hear our invocation, you do we, the Āṅgirasas, call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- जातवेदसं (*jātavedasaṃ*)—in the form of Jātavedas
+- द्विषः (*dviṣaḥ*)—enemies
+- आप घ्नंतं (*āpa ghnaṃtaṃ*)—destroying
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—who hear our praises
+- तं त्वा (*taṃ tvā*)—that very you
+- वयं (*vayaṃ*)—we
+- हवामहे (*havāmahe*)—call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the form of Jātavedas, destroyer of enemies, hearer of our praises, that same renowned you do we call with prayer.
+
+### Printed p. 416
+
+##### English translation
+We invoke you, Agni, who are Jatavedas, listening (to our praises), exterminating our foes
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒शां राजा॑न॒मद्भु॑त॒मध्य॑क्षं॒ धर्म॑णामि॒मं ।  
+> अ॒ग्निमी॑ळे॒ स उ॑ श्रवत् ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विशां । राजानं । अद्भुतं । अधि अक्षं । धर्मणां । इमं ।  
+> अग्निं । ईळे । सः । ऊं इति । श्रवत् ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विशां प्रजानां राजानमीश्वरमद्भुतं महांतं धर्मणां कर्मणामध्यक्षमनुसंधातारमिममग्निमीळे । स्तौमि । स उ स एवाग्निः श्रवत् । अस्मदीयां
+> स्तुतिं शृणोतु ॥
+
+##### Gist of the bhāṣya
+
+I praise this Agni, the lord and king of the peoples, the wonderful and great one, the overseer who directs all rites. May that same Agni hear our praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विशां (*viśāṃ*)—of all the peoples
+- राजानं (*rājānaṃ*)—the lord
+- अद्भुतं (*adbhutaṃ*)—of great nature
+- धर्मणां (*dharmaṇāṃ*)—of all rites
+- अध्यक्षं (*adhyakṣaṃ*)—the impelling leader
+- इमं अग्निं (*imaṃ agniṃ*)—this very Agni
+- ईळे (*īḷe*)—I praise
+- स उ (*sa u*)—that same Agni
+- श्रवत् (*śravat*)—may he hear our praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise this very Agni, the lord of all peoples, of great nature, the leader who impels all rites. May that same Agni hear our praises.
+
+##### English translation
+I praise this Agni, the severign of mea, the wonderful, the superintendent of holy acts : may he bear me.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं वि॒श्वायु॑वेपसं॒ मर्यं॒ न वा॒जिनं॑ हि॒तं ।  
+> सप्तिं॒ न वा॑जयामसि ॥ २५ ॥
+
+### Printed p. 417
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओग्निं ? विश्वायुनेपसं । मर्यं । न । वाजिनं । हितं ।  
+> सप्तिं । न ! वाजयामसि ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वयुवेपसं सर्वगतबलनुग्निं वाजिनं बलिनं मर्यं न मनुष्यमिव '
+> हितं सप्तिः नाश्वमिव वाजयामसि । स्तुतिभिर्दविर्भिश्च बलिनं कुर्मः ॥
+
+##### Gist of the bhāṣya
+
+Agni, whose strength pervades everything, is strong; like a man who is friendly and like a horse, we strengthen him with praises and oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्यं न (*maryaṃ na*)—like a man
+- हितं (*hitaṃ*)—benevolent
+- सप्तिं न (*saptiṃ na*)—like a horse
+- वाजिनं (*vājinaṃ*)—strong
+- विश्वासुवेपसं (*viśvāsuvepasaṃ*)—possessing strength spread everywhere
+- अग्निं (*agniṃ*)—Agni
+- साजयामसि (*sājayāmasi*)—we make vigorous with oblations and praises
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is benevolent like a man, strong like a horse and possessed of strength spread everywhere, we make vigorous with oblations and praises.
+
+##### English translation
+We invigorate like a horse that (Agni) whose might is everywhere present; who is noble, strong, and benevolent.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घ्नन्मृ॒ध्राण्यप॒ द्विषो॒ दह॒न्रक्षां॑सि वि॒श्वहा॑ ।  
+> अग्ने॑ ति॒ग्मेन॑ दीदिहि ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धृन् । मृध्राणि । अप । द्विषः । दहन् । रक्षांसि । विश्वहा ।  
+> अग्ने । तिग्मैन । दीदिहि ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने त्वं मृध्राणि हिंसकान् द्विषो द्वेष्टनप घ्नन् हिंसन् विश्वहा
+> सर्वदा रक्षांसि च दहंस्तिग्मेन तीक्ष्णेन तेजसा दीदिहि । दीप्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, striking down the harmful enemies, the haters, and always burning the Rākṣasas, shine forth with your sharp brilliance.
+
+### Printed p. 418
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मृध्राणि (*mṛdhrāṇi*)—harmful
+- द्विषः (*dviṣaḥ*)—enemies
+- अपघ्नन् (*apaghnan*)—destroying
+- विश्वहा (*viśvahā*)—always
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- दहन् (*dahan*)—burning
+- तिग्नेन (*tignena*)—with your sharp brilliance
+- दीदिहि (*dīdihi*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, destroying the harmful enemies, always burning the Rākṣasas, shine with your sharp brilliance.
+
+##### English translation
+Slaying the malignant, (driving away) our enemies, everywhere the Rakshasas, do you, Agni, blaze forth with bright (radiance).
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॒ जना॑स इंध॒ते म॑नु॒ष्पदं॑गिरस्तम ।  
+> अग्ने॒ स बो॑धि मे॒ वचः॑ ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । त्वा । जनासः । इंधते । मनुष्टत् । अंगिरःतम ।  
+> अग्ने । सः । बोधि । मे । वचः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरस्तमाग्ने यं त्वा त्वां जनासो जना मनुष्पद्यथा मनुस्तॆथेंधते
+> दीपयंति स त्वं मे मदीयं वचः स्तुतिं बोधि । बुध्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, best of the Aṅgirases, you whom men kindle as Manu did, be aware of my speech, my praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरस्तम (*aṃgirastama*)—O best among the Aṅgirases
+- अग्ने (*agne*)—O Agni
+- यं (*yaṃ*)—whom
+- त्वा (*tvā*)—you
+- जनासः (*janāsaḥ*)—all men
+- मनुष्वत् (*manuṣvat*)—as Manu did
+- इंथते (*iṃthate*)—make blaze
+- सः (*saḥ*)—such you
+- मे (*me*)—my
+- वचः (*vacaḥ*)—praise
+- बोधि (*bodhi*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, best among the Aṅgirases, you whom all men make blaze as Manu did of old, know my praise.
+
+### Printed p. 419
+
+##### English translation
+Chief of the Angirasas, whom men kindle as did Manus ; Agni, hear my words.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑ग्ने दिवि॒जा अस्य॑प्सु॒जा वा॑ सहस्कृत ।  
+> तं त्वा॑ गी॒र्भिर्ह॑वामहे ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यॆत् । अग्ने । दिविजाः । आसि । अप्सुजाः । ना । सहःकृत ।  
+> तं । त्वा । गीःभिः । हनामहे ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यद्यस्तं दिविजा दिविभवोऽसि भवसि अप्सुजा वांतरिक्षजातश्च भवसि
+> सहस्कृतः सहसा बलेन कृतश्चासि तं त्वा त्वामग्निं गीर्भिः स्तुतिभिर्हवामहे ।
+> ह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are born in heaven, or born in the waters of the atmosphere, and are made by strength, you do we call with praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—you who
+- दिविजाः (*divijāḥ*)—born in the world of the gods
+- असि (*asi*)—are
+- अप्सुजा वा (*apsujā vā*)—or born in the atmosphere
+- सहस्कृतः (*sahaskṛtaḥ*)—born of strength
+- तं त्वा (*taṃ tvā*)—such you
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- हनामहे (*hanāmahe*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are born in the world of the gods, or born in the atmosphere, or born of strength, such you do we call with prayer, with praises.
+
+##### English translation
+We worship with praises you, Agni, who are born in heaven or in the waters, elicited by strength.
+
 ---
 
-**Progress note:** Done through printed p. 413. Mandala 8 Sukta 43 Rk 14-21
+**Progress note:** Done through printed p. 419. Mandala 8 Sukta 43 Rk 21-28
