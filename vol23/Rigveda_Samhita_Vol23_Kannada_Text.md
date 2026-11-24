@@ -33476,6 +33476,8 @@ One illustrious name is given to them all, as widely diffused as water for the g
 ಕಿಂಕರರೂಪರಾಗಿದ್ದೇವೆ. ಆದುದರಿಂದಲೇ, ಈ ಮರುತ್ತುಗಳ ದಾನಾದಿಗಳು ಮಹತ್ವಪೂರಿತವಾಗಿವೆ. ಆದುದರಿಂದಲೇ
 ಇವರ ಅನುಗ್ರಹಕ್ಕೆ ಪಾತ್ರರಾಗೋಣ.
 
+<!-- printed 843 -->
+
 *English Translation.*
 
 Praise them, praise the Maruts, for we are (dependent) upon those
