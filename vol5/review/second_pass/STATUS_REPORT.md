@@ -6,3 +6,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | Batch | Pages | Rows | Applied | Not applied / questions | Commit |
 |---|---|---|---|---|---|
 | pilot | 350–359 | 21 | 18 | 1 not applied (p. 354, whole Pratipadārtha omitted: needs a hand insertion) + 2 questions | see git log |
+| 1 | 185–199 | 20 | 16 | 4 questions (one set from applied by me: L3657 'your sacrifices', a misprinted Kannada word); agent tokens 197k | see git log |
