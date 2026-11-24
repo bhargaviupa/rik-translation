@@ -23775,6 +23775,287 @@ He who is self-ruling, shining by himself, in the praiseworthy, that is, to be s
 
 O Vāyu, the king who, having a praiseworthy body, is self-shining, and who is pure like ghee, has given as a gift food (nourishment) drawn by horses, drawn by camels, and drawn by dogs.
 
+### Printed p. 520
+
+##### English translation
+He who is self-resplendent in his glorious body, who is bright, O Vayu, like ghee, has given me this food, brought by horses, brought by camels, brought by dogs.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ प्रि॒यमि॑षि॒राय॑ ष॒ष्टिं स॒हस्रा॑सनं ।  
+> अश्वा॑ना॒मिन्न वृष्णां॑ ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । प्रियं । इषिराय । षष्टिं : सहस्र । आसनं ।  
+> अश्वानां । इत् । न । वृष्णां ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आधाधुनेषिराय धनादिप्रेरयित्रे राजे प्रियं श्रद्धेयमश्वानामिन वृष्णां
+> सेक्त्याणां गवां सहस्रा सहस्राणां षष्टिं षष्टिसहस्रसंख्याकं प्रियभूतमसनं ।
+> अभजं ॥
+
+##### Gist of the bhāṣya
+
+Now, to the king Iṣira, the impeller of wealth and the rest, a dear and trustworthy thing, like horses, of the bulls (of cows that sprinkle), of sixty thousand, a dear thing, I received (अभजं (*abhajaṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—now
+- इषिराय (*iṣirāya*)—to this king, a generous donor
+- प्रियं (*priyaṃ*)—dear
+- अश्वानां इन्न (*aśvānāṃ inna*)—powerful like horses
+- षष्ठिं सहस्रा (*ṣaṣṭhiṃ sahasrā*)—numbering sixty thousand
+- वृष्णां (*vṛṣṇāṃ*)—a herd of bulls
+- आसनं (*āsanaṃ*)—I received
+
+##### भावार्थ (Bhāvārtha)
+
+I received as a gift, from this king who gives generously, a herd of bulls that were dear to him, powerful like horses, and numbering sixty thousand.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गावो॒ न यू॒थमुप॑ यंति॒ वध्र॑य॒ उप॒ मा यं॑ति॒  ॑
+> वध्रयः ॥ ३० ॥
+
+### Printed p. 521
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गावः । न । यूथं । उप । यंति । वध्रयः । उप । मा । आ । यंति । वध्रयः॥३०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गावो न गाव इव ता यथा संगवे यूथमुप यंति उपगच्छंति
+> तद्वद्वध्रयश्चिन्नमुष्का वृषभाः पृथुश्रवसा दत्ता मा मामुप यंति । समीपं
+> प्राप्नुवंति । मा मां वध्रय उपा यंतीति पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+As cows go to their herd at the time of union, so the bulls, with their testicles cut, given by Pṛthuśravas, come उप यंति (*upa yaṃti*), that is, approach, me; they reach my neighbourhood. The words "the oxen come to me" are a repetition, meant for respect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावति (*gāvati*)—cattle
+- यूथं न (*yūthaṃ na*)—as they go to their herds
+- उप यंति (*upa yaṃti*)—and join them
+- वध्रयः (*vadhrayaḥ*)—the bulls given by Pṛthuśravas
+- मां (*māṃ*)—me
+- उप यंति (*upa yaṃti*)—come and join
+- वध्रयः (*vadhrayaḥ*)—the same bulls
+- आ (यंति) (*ā (yaṃti)*)—come and join me
+
+##### भावार्थ (Bhāvārtha)
+
+As cattle go and join their herds, so the bulls given by Pṛthuśravas come and join me.
+
+##### English translation
+As the cows to the herd, so repair the oxen ; so the oxen repair to me.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ यच्चार॑थे ग॒णे श॒तमुष्ट्वा॒ अचि॑क्रदत् ।  
+> अध॒ श्वित्ने॑षु विंश॒तिं श॒ता ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । यत् । चारथे । गणे । शतं । उष्ट्रान् । अचिक्रदत् ।  
+> अध । श्नित्नेषु । विंशतिं । शता ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाध यद्यदा चारथे । चरथं चरणं गमनं । तत्संबंधिनि चार्यमाणे
+> तनाय प्रेर्यमाण इत्यर्थः । तादृशे गण उष्ट्रसंघ उष्ट्राङ्कृतमुष्ट्राणां
+
+##### Gist of the bhāṣya
+
+"Then, when": चरथं (*carathaṃ*) means going or moving; in such a herd of camels, which is being driven in order to move about,
+
+### Printed p. 522
+
+> शतमचिक्रदत् अस्मभ्यं प्रदानायाजुहाव । अधापि चास्मदर्थमेव श्चित्वेषु श्वेतवर्णेषु गोयूथेषु विंशतिं च शता शतानि च अथवा शतानां विंशतिमचिक्रदत् ॥
+
+##### Gist of the bhāṣya
+
+he called a hundred camels in order to give them to us. And again, for our sake alone, among the white herds of cows, he called twenty hundreds, or twenty times a hundred.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—afterwards
+- यत् (*yat*)—when
+- गणे (*gaṇe*)—all the herds of cattle of that king
+- चारथे (*cārathe*)—went to the pasture to graze
+- शतं उष्ट्रान् (*śataṃ uṣṭrān*)—a hundred camels
+- अचिक्रदत् (*acikradat*)—he called, so as to give them to me
+- अध (*adha*)—moreover
+- श्वित्नेषु (*śvitneṣu*)—among the white cows
+- विंशतिं शता (*viṃśatiṃ śatā*)—he summoned as many as two thousand
+
+##### भावार्थ (Bhāvārtha)
+
+When all the herds of that king went to the pasture to graze, he called to himself, in order to give them to me, a hundred camels from among them and two thousand white cows.
+
+##### English translation
+Since, when the herd were wandering (to the wood), he called a hundred camels (to give them to me), and two thousand from among the white herds (of cows).
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं दा॒से ब॑ल्बू॒थे विप्र॒स्तरु॑क्ष॒ आ द॑दे ।  
+> ते ते॑ वायवि॒मे जना॒ मदं॒तींद्र॑गोपा॒ मदं॑ति दे॒वगो॑पाः ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । दासे । बल्बूथे । विप्रः । तरुक्षे । आ । ददे ।  
+> ते । ते । वायो इति । इमे । जनाः । मदंति । इंद्रगोपाः । मदंति ।  
+> देवगोपाः ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयं विप्रो मेधावी वशो जनोऽहं बल्भूथ एतन्नामके दासे तरुक्षे
+> गवाश्वादीनां तारके गवाद्यधिकृते राजा स्माकं प्रदिष्टधनदातर्या वदे । किं दानं।
+
+##### Gist of the bhāṣya
+
+This sage, the intelligent man, I, the person Vaśa, from the slave named Balbūtha, the tarukṣa (the conveyer of cows, horses and the like), the one set over cattle and the rest, speak of the king who is the giver of wealth assigned to us. What gift? **NOTE**
+
+### Printed p. 523
+
+> गवाश्वादीनां शतं । शतशब्दोऽपरिमितवचनः । हे वायो ते तव स्वभूतास्ते
+> स्तोतार इमे जनाः । वयमित्यर्थः । आत्मन एव परोक्षत्वेन वादः । त्वयानुगृहीतत्वदिंद्रगोपाः । इंद्रो गोपायिता येषां ते तथोक्ताः । इंद्रेण रक्षिता
+> मदंति । तथा देवगोपा मदंति । इंद्रं देवांश्च राज्यो लब्धेन धनेन यजंतो
+> मदुतीत्यर्थः !
+
+##### Gist of the bhāṣya
+
+A hundred of cattle, horses and the like; the word "hundred" denotes an unlimited number. O Vāyu, these people, your own praisers, that is, we, are yours; he speaks of himself in the third person. Being favoured by you they are इंद्रगोपाः (*iṃdragopāḥ*), those whose protector is Indra: protected by Indra, they rejoice. Likewise देवगोपा (*devagopā*), those protected by the gods, rejoice: the meaning is that, worshipping Indra and the gods with the wealth received from the king, they rejoice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दासे (*dāse*)—by the one appointed by the king
+- तरुक्षे (*tarukṣe*)—the protector of cows and horses
+- बल्भधे (*balbhadhe*)—by this Balbūtha **NOTE**
+- विप्रः (*vipraḥ*)—I, the intelligent one
+- शतं (*śataṃ*)—a hundred in number
+- आ ददे (*ā dade*)—have received
+- वायो (*vāyo*)—O Vāyu
+- ते (*te*)—belonging to you
+- ते इमे जनाः (*te ime janāḥ*)—all these praisers
+- इंद्रगोपाः (*iṃdragopāḥ*)—(through your favour) brought under Indra's protection
+- मदंति (*madaṃti*)—enjoy gladness
+- देवगोपाः (*devagopāḥ*)—for that very reason, protected also by the gods
+- मदंति (*madaṃti*)—enjoy gladness
+
+##### भावार्थ (Bhāvārtha)
+
+I, the intelligent one (called Vaśa), have received a hundred cattle from this Balbūtha, the servant of the king and a herdsman. O Vāyu, all these praisers who belong to you, through your favour, become worthy of Indra's protection and rejoice. Through that same favour they are also protected by the gods and enjoy gladness.
+
+##### English translation
+I, the sage, accept the hundred from the slave Balbutha, the cowherd ; we here are yours, O Vayu,—those who have Indra and the gods for protectors rejoice (through your favour).
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ स्या योष॑णा म॒ही प्र॑ती॒ची वश॑म॒श्वं ।  
+> अधि॑रुक्मा॒ वि नी॑यते ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । स्या । योषणा । मही । प्रतीची । वशं । अश्वं ।  
+> अधिरुक्मा । वि । नीयते ॥ ३३ ॥
+
+### Printed p. 524
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाधुना स्या सा योषणा योषा राज्ञा प्रदत्ता मही महती पूज्या
+> प्रतीच्यस्मदभिमुख्यश्वमश्वपुत्रं वशं मां प्रति साधिरुक्माभरणा सती वि नीयते ।
+> तां कन्यां मां प्रत्यानयंतीत्यर्थः । अत्र वायव्यास्वक्षु यत्र वायुर्न
+> स्तूयते परं दानप्रशंसैव तासु सर्वासु हे वायो त्वदुनुग्रहादेवमिति
+> योज्यं वायुपरत्वमवगंतव्यं ॥
+
+##### Gist of the bhāṣya
+
+Now, at present, that woman, the maiden given by the king, great, that is, venerable, facing us, is led towards me, Vaśa, the son of Aśva, adorned with gold ornaments; the meaning is that they bring that maiden to me. Here, in the Ṛks addressed to Vāyu, where Vāyu is not praised, there is only praise of the gift; in all of them the words "O Vāyu, through your favour it is so" are to be supplied, and the reference to Vāyu is to be understood.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—now
+- मही (*mahī*)—the excellent one
+- अधिरुक्मा (*adhirukmā*)—adorned with gold and other ornaments
+- स्या (*syā*)—who was given by the king
+- योषणा (*yoṣaṇā*)—the maiden
+- अश्वं (*aśvaṃ*)—the son of Aśva
+- वशं (*vaśaṃ*)—named Vaśa, my
+- प्रतीची (*pratīcī*)—towards
+- वि नीयते (*vi nīyate*)—is being brought
+
+##### भावार्थ (Bhāvārtha)
+
+The excellent maiden, adorned with gold and other ornaments and given by the king, is being brought towards me, the son of Aśva, named Vaśa.
+
+##### English translation
+This tall maiden, adorned with gold, is led towards me. Vasha, the son Ashwa.
+
+The forty-seventh sūkta
+
+## Sūkta 47 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महि व इत्यष्टादशर्चं पंचमं सूक्तमाप्त्यस्य त्रितस्यार्षं । षडष्टका
+> महापंक्तिश्चंदः । आद्यास्त्रयोदशर्च आदित्यदेवताकाः । यच्च गोष्ठित्याद्याः
+> पंचर्च उषोदेवताका आदित्यदेवताकाश्च । तथा चानुक्रमणिका । महि वो
+> द्व्यूना त्रित आप्त्य आदित्येभ्योंत्याः पंचोषसेऽपि महापांक्तमिति ॥ सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The fifth sūkta, of eighteen Ṛks, beginning महि व (*mahi va*), has Trita Āptya as its seer; the metre is Mahāpaṅkti of six octosyllabic pādas. The first thirteen Ṛks have the Ādityas as deity; the five beginning यच्च गोष्ठित्याद्याः (*yacca goṣṭhityādyāḥ*) have Uṣas and the Ādityas as deity. So says the Anukramaṇikā: त्रित आप्त्य आदित्येभ्योंत्याः पंचोषसेऽपि महापांक्तमिति (*trita āptya ādityebhyoṃtyāḥ paṃcoṣase 'pi mahāpāṃktamiti*). The application of the sūkta is according to the Liṅga (the indication in the text).
+
+This sūkta beginning "Mahi vaḥ" is the fifth sūkta in the sixth anuvāka. It contains eighteen Ṛks. The seer of this sūkta is named Trita Āptya; its metre is Mahāpaṅkti, with six pādas of eight syllables each. The first thirteen Ṛks of this sūkta have the Ādityas as deity.
+
+### Printed p. 525
+
+For Ṛks 14 to 18, beginning यच्च गोषु (*yacca goṣu*), Uṣas and the Ādityas are the deities. In the Anukramaṇikā it is said: महिवो ह्यूना त्रित आप्त्य आदित्येभ्योऽन्त्याः पंचोषसेऽपि महापांक्तं (*mahivo hyūnā trita āptya ādityebhyo 'ntyāḥ paṃcoṣase 'pi mahāpāṃktaṃ*). The application of the sūkta is Laiṅgika.
+
+Maṇḍala 8; Anuvāka 6; Sūkta 47. Aṣṭaka 6; Adhyāya 4; Varga 7, 8, 9, 10. Number of Ṛks in the sūkta: 18. Seer: Trita Ātmāḥ. **NOTE** Deity: Ṛks 1–13 Avityāḥ **NOTE**; Ṛks 14–18 Ādityas and Uṣas. Metre: Mahāpaṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि॑ वो मह॒तामवो॒ वरु॑ण॒ मित्र॑ दा॒शुषे॑ ।  
+> यमा॑दित्या अ॒भि द्रु॒हो रक्ष॑था॒ नेम॒घं न॑शदने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । वः । महतां । आवः । वरुण । मित्र । दाशुषे ।  
+> यं । आदित्याः । अभि । द्रुहः । रक्षथ । न । ईं । अघं । नशत् । अनेकसः । वः ।  
+> ऊतयः । सुऊतयः । वः । ऊतयः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण हे मित्र । एतद्वयमर्यन्नोऽप्युपलक्षणं । हे वरुणादयः
+> महतां वो युष्माकमवो रक्षणं महि महत् । कस्यै । दाशुषे हविर्दात्रे
+> यजमानाय क्रियमाणं । किंच हे आदित्याः यं यजमानं द्रुहो द्रोग्गुः
+> सकाशादभि रक्षथ ईमेनं यजमानमघं पापं न नशत् । न प्राप्नोति । कुत एवमिति
+> तत्रोच्यते । वो युष्माकमूतयो रक्षणान्यनेहसोऽपापान्यनुपद्रवाणि च ।
+> ऊतयो युष्माकं रक्षणानि सुलूतय॥ । शोभनरक्षणानि । पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa, O Mitra; these two are also indicative of Aryaman. O Varuṇa and the rest, your protection, being great, is great. For whom is it made? For the sacrificer who gives the oblation. Further, O Ādityas, the sacrificer whom you protect from the harm of an injurer, to him sin does not come; it does not reach him. Why so? On this it is said: your protections are free from sin and free from troubles; your protections are excellent protections. The repetition is for the sake of respect.
+
 ---
 
-**Progress note:** Done through printed p. 519. Sūkta 46 Ṛk 23 end, Ṛk 24-28 (pp. 514-519)
+**Progress note:** Done through printed p. 525. Mandala 8 sukta 46 rks 29-33, sukta 47 rk 1
