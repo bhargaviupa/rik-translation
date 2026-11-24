@@ -16156,6 +16156,303 @@ Let us approach that Agni who is ministered to by seven priests: who takes refug
 > सः । त्रीन् । एकादशान् । इह । यक्षत् । च । पिप्रयत् । जि । नः । विप्रः । दूतः ।  
 > परिकृतः । नभंतां । अन्यके ! समे ॥ ९ ॥
 
+### Printed p. 357
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतदर्शग्निस्त्रीणि त्रिधातूनि त्रिदंधनादीनि पृथिव्यादीनि विदथा वेदनीयानि स्थानान्या क्षेति . अवसति । अपि च सोऽग्निर्दूतो देवानां विप्रः प्राज्ञः
+> परिष्कृतोऽलंकृतश्च सन्निह यज्ञे त्रिनेकादशांत्रयस्त्रंशद्देवान्यक्षत् । यजतु ।
+> नोऽस्मान् पिप्रयच्च । कामैः पूरयतु च । सिद्धमन्यत् .
+
+##### Gist of the bhāṣya
+
+Agni, the far-seeing sage, dwells in the three places, which are to be known: the threefold-based worlds, the earth and the rest. **NOTE** Further, that Agni, the messenger of the gods, wise and adorned, shall worship here in the sacrifice the thrice eleven gods, the thirty-three. Let him worship them, and let him fulfil us with our desires. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the far-seeing
+- अग्नि (*agni*)—Agni
+- त्रीणि (*trīṇi*)—of three kinds
+- त्रिधातूनि (*tridhātūni*)—pervading the three worlds, the earth and the rest
+- विदथा (*vidathā*)—in the places that are well known
+- आ क्षेति (*ā kṣeti*)—dwells
+- सः (*saḥ*)—that same Agni
+- दूतः (*dūtaḥ*)—as the messenger of the gods
+- विप्रः (*vipraḥ*)—wise
+- परिष्कृतः (*pariṣkṛtaḥ*)—and adorned
+- इह (*iha*)—here in this sacrifice
+- त्रीनेकादशान् (*trīnekādaśān*)—the gods who are thirty-three in number
+- यक्षत् (*yakṣat*)—let him worship
+- नः (*naḥ*)—us
+- पिप्रयच्च (*piprayacca*)—let him fill with the objects of our desire
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the far-seeing, dwells in the three places, threefold and pervading the three worlds, the earth and the rest. That same Agni, being the messenger of the gods, wise and adorned, shall worship the gods, thirty-three in number, in this sacrifice. Let him fill us with the objects of our desire. May all our enemies be destroyed at the same time.
+
+##### English translation
+Agni, the sage, inhabits the three elementary regions; may he, intelligent, and richly decorated, the messenger (of the gods), here perform worship to the thrice eleven deities, and satisfy all our desires: may all our enemies perish.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अग्न आ॒युषु॒ त्वं दे॒वेषु॑ पूर्व्य॒ वस्व॒ एक॑ इरज्यसि ।  
+> त्वामापः॑ परि॒सुत्॒रः परि॑ यंति॒ स्वसे॑तवो॒ नभं॑तामन्य॒के स॑मे॥
+
+### Printed p. 358
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । अग्ने । आयुषु । त्वं । देवेषु । पूर्व्य । वस्वः । एकः । इरज्यसि ।  
+> त्वां । आपः । परिस्रुतः । परि । यंति । स्वसेतवः । नभंतां । अन्यके । समे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूर्वाग्ने त्वमेक एवायुषु मनुष्येषु । द्रुह्यव आयव इति मनुष्यनामसु पाठात् । नोऽस्माकं वस्वो धनस्येरज्यसि । ईशिषे । देवेष्वपि त्वमेक एव
+> वस्व इरज्यसि । अपि च त्वां स्वसेतवः स्वभूतसेतवः परिस्रुतः परिस्रवंत्य आपः परि
+> यंति । परिगच्छंति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O ancient Agni, you alone among the Āyus, that is, among men, since the word is read among the names of men together with Druhyu, are lord of wealth for us. Among the gods too you alone are lord of wealth. Further, the waters, which have made their own banks and flow all around, go about you. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्व्य (*pūrvya*)—ancient
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- एकः (*ekaḥ*)—alone
+- आयुषु (*āyuṣu*)—among all men
+- नः (*naḥ*)—our
+- वस्वः (*vasvaḥ*)—of wealth
+- इरज्यसि (*irajyasi*)—you are the lord
+- देवेषु (*deveṣu*)—among the gods also
+- त्वं (*tvaṃ*)—you alone are the lord
+- स्वसेतवः (*svasetavaḥ*)—those that have obtained their own limit for themselves
+- परिस्रुतः (*parisrutaḥ*)—and flow
+- आपः (*āpaḥ*)—the waters
+- त्वां (*tvāṃ*)—you
+- परि यंति (*pari yaṃti*)—flow around
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+O ancient Agni, among all men you alone are the lord of our wealth. Among the gods too you alone are the lord. The waters, which have made their own banks and flow, flow around you. May all our enemies perish at the same time.
+
+##### English translation
+You, ancient Agni, among men and gods, are alone to us the lord of wealth; the flowing waters confined within their own banks flow around you : may all our enemies perish.
+
+### Printed p. 359
+
+## Sūkta 40 (Maṇḍala 8)
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्राग्नी युवमिति द्वादशर्चं दशमं सूक्तं नाभाकस्यार्षं । द्वितीया
+> षट्पंचाशदक्षरा तक्वरी द्वादशी तिष्युन् शिष्टा महापंक्तयः । इंद्राग्नी देवता ।
+> तथा चानुत्रांतं । इंद्राग्नी द्वादशेंद्राग्नं त्रिष्टुबंतं द्वितीया शक्वरीति ॥
+> महाव्रते नित्येवल्य ऊरुभाग एव सूक्तं ! पथा च पंचमारण्यके सूत्रितं । ऊरू
+> इंद्राग्नी युवं सु नः । ऐ. आ. ५-३-१ । इति ॥ चातुर्विंशिकेऽहनि तृतीयसवने
+> मैत्रावरुणो यदि महानालभिदं शंसेत्तदानीं माध्यंदिनसवने होत्रकाः
+> स्वशस्त्र आरंभणीयाभ्य ऊर्ध्वं नाभाकतृचावावपेरन् । तत्र ता हि मध्यमित्यच्छावाकस्य नाभाकतृचः । सूत्रितं चॆ । ता हि मध्यं भराणामित्यच्छावाकः । अ. ७-२ ।
+> इति ॥ चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिनः पूर्विष्ट इंद्रेति
+> नाभाकतृचः ! सूत्रितं चॆ । पूर्विष्ट इंद्रोपमातय इति ब्राह्मणाच्छंसी ।
+> अ. ७-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning इंद्राग्नी युवं (*iṃdrāgnī yuvaṃ*) is the tenth hymn, of twelve Ṛks, and its seer is Nābhāka. The second Ṛk is Takvarī (Śakvarī) of fifty-six syllables; the twelfth is Triṣṭubh; the rest are Mahāpaṅktis. The deity is Indra and Agni. So it is also stated in the Anukramaṇī, in the words इंद्राग्नी द्वादशेंद्राग्नं त्रिष्टुबंतं द्वितीया शक्वरी (*iṃdrāgnī dvādaśeṃdrāgnaṃ triṣṭubaṃtaṃ dvitīyā śakvarī*). In the Mahāvrata, the hymn stands in the thigh part of the niṣkevalya (shastra); and in the fifth Āraṇyaka it is laid down in the words ऊरू इंद्राग्नी युवं सु नः (*ūrū iṃdrāgnī yuvaṃ su naḥ*) (Ai. Ā. 5-3-1). On the Cāturviṃśika day, at the third pressing, if the Maitrāvaruṇa recites the Mahānālabhid, then at the midday pressing the Hotrakas, after the beginning of their own shastra, are to insert the Nābhāka tṛca after the introductory verses: there the Nābhāka tṛca of the Acchāvāka is the verses beginning ता हि मध्यं (*tā hi madhyaṃ*); and it is laid down in a sūtra: ता हि मध्यं भराणामित्यच्छावाकः (*tā hi madhyaṃ bharāṇāmityacchāvākaḥ*) (Ā. Sū. 7-2). On the Cāturviṃśika day, at the midday pressing, the Nābhāka tṛca of the Brāhmaṇācchaṃsin is the verses beginning पूर्विष्ट इंद्र (*pūrviṣṭa iṃdra*); and it is laid down: पूर्विष्ट इंद्रोपमातय इति ब्राह्मणाच्छंसी (*pūrviṣṭa iṃdropamātaya iti brāhmaṇācchaṃsī*) (Ā. Sū. 7-2). **NOTE**
+
+##### Anuvāda
+
+This hymn beginning इंद्राग्नी युवं (*iṃdrāgnī yuvaṃ*) is the tenth hymn in the fifth Anuvāka. It has twelve Ṛks. The seer of this hymn is one named Nābhāta **NOTE**; Indra and Agni are the deity; the second Ṛk of this hymn is of the metre called Śakvarī, of fifty-six syllables; the twelfth Ṛk is of the Triṣṭup metre. The remaining Ṛks are of the Mahāpaṅkti metre. In the Anukramaṇī it is said: इंद्राग्नी द्वादशैंद्राग्नं त्रिष्टुबंतं द्वितीया शक्वरी (*iṃdrāgnī dvādaśaiṃdrāgnaṃ triṣṭubaṃtaṃ dvitīyā śakvarī*). In the Mahāprateṣṭi **NOTE**, this hymn is to be recited among the niṣkevala shastra mantras; this is indicated in the Pañcama Āraṇyaka of the Aitareya Āraṇyaka by the sentence ऊरू इंद्राग्नी युवं सु नः (*ūrū iṃdrāgnī yuvaṃ su naḥ*) (Ai. Ā. 5-3-1). On the day of the sacrifice called Cāturviṃśika, at the third pressing, if the priest named Maitrāvaruṇa recites the mantra called महावालभित् (*mahāvālabhit*), then, at the midday pressing, after the Ṛks of the Hotṛ class have begun the shastra mantras that they are to recite, the Nābhāka tṛca are to be recited for the purpose of insertion. There, the three Ṛks beginning ता हि मध्यं (*tā hi madhyaṃ*) (Ṛks 3-5 of this hymn) are named the Nābhāka tṛca to be recited by the Acchāvāka. This matter is explained by the Āśvalāyana Śrauta Sūtra, by the sūtra ता हि मध्यं भराणामित्यच्छावाकः (*tā hi madhyaṃ bharāṇāmityacchāvākaḥ*) (Ā. Sū. 7-2). Further, on the day called Cāturviṃśika, at the midday pressing, the priest named Brāhmaṇācchaṃsin is to recite as the Nābhāka tṛca Ṛks 9-11 of this hymn, beginning पूर्विष्ट इंद्र (*pūrviṣṭa iṃdra*); this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra पूर्विष्ट इंद्रोपमातॆय इति ब्राह्मणाच्छंसी (*pūrviṣṭa iṃdropamātèya iti brāhmaṇācchaṃsī*) (Ā. Sū. 7-2).
+
+### Printed p. 360
+
+Sūkta 40. Maṇḍala 8; Anuvāka 5; Sūkta 40. Aṣṭaka 6; Adhyāya 3; Varga 24, 25. Number of Ṛks in the hymn: 12. Seer: Nābhākaḥ Kāṇvaḥ. Deity: Indrāgnī. Metre: 1, 3-11, Mahāpaṅktiḥ; 2, Śakvarī; 12, Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑ग्नी यु॒वं सु नः॒ सहं॑ता॒ दास॑थो र॒यिं ।  
+> येन॑ दृ॒ळ्हा स॒मत्सा वी॒ळु चि॑त्साहिषी॒मह्य॒ग्निर्वने॑व॒ वात॒  
+> इन्नभं॑तामन्य॒के स॑मे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । युवं । सु । नः । सहंता । दासथः । रयिं ।  
+> येन । दृळ्हा । समत्सु । आ । वीळु । चित् । सहिषीमहि । अग्निः । वनाइव । वाते ।  
+> इत् । नभंतां । अन्यके । समे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी सहंता शत्रूनभिभवंतौ युवं युवां नोऽस्मभ्यं रयिं
+> धनं सुष्टु दासथः । दत्तं । तं रयिं विशिनष्टि ! येन रयिणा समत्तु चित् संग्रामे
+> दृढा चिद्दृढानि स्थिराण्यपि वीळु शत्रुबलान्यग्निर्वनेव यथाग्निर्वनानि वात इद्दातेनैवाभिभवति तथा सहिषीमहि अभिभवाम । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, who overcome your enemies, you two give us wealth well. He qualifies that wealth: with which wealth we may overcome in battle the enemy forces, even the firm and steady ones, as fire overcomes the forests when driven by the wind. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- अग्निः (*agniḥ*)—Agni
+- वात इत् (*vāta it*)—impelled by the wind
+- वनेव (*vaneva*)—as he burns up the whole forest
+- येन (*yena*)—with the help of which wealth
+- समत्सु चित् (*samatsu cit*)—in battles
+- दृढाचित् (*dṛḍhācit*)—even when exceedingly powerful
+
+### Printed p. 361
+
+- वीळु (*vīḷu*)—the enemy forces
+- सहिषीमहि (*sahiṣīmahi*)—we shall overcome
+- रयिं (*rayiṃ*)—such wealth
+- सहंता (*sahaṃtā*)—you who have the power to overcome enemies
+- युवं (*yuvaṃ*)—you two
+- नः (*naḥ*)—to us
+- सु दासथः (*su dāsathaḥ*)—give in full
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, Agni, impelled by the wind, burns up the whole forest. With the help of which wealth we overcome the enemy forces in battles even when they are exceedingly powerful, such wealth do you, the destroyers of enemies, give to us in abundance. May all our enemies perish at the same time.
+
+##### English translation
+Victorious Indra and Agni bestow upon us riches whereby we may destroy our powerful enemies in combats as fire fanned by the wind consumes the forests: may all our enemies perish.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि नां॑ व॒प्रया॑म॒हेऽथेंद्र॒मिदृ॑जामहे॒ शवि॑ष्ठं नृ॒णां  ॑
+> नरं ।  
+> स नः॑ क॒दा चि॒दर्व॑ता॒ गम॒दा वाज॑सातये॒ गम॒दा मे॒धसा॑तये॒ नभं॑तामन्य॒के स॑मे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । नां । वप्रयामहे । अध । इंद्रं । इत् । यजामहे । शविष्ठं । नृणां । नरं ।  
+> सः । नः । कदा । चित् । अर्वता । गमत् । आ । वाजसातये । गमत् । आ । मेधसातये । नभंतां । अन्यके । समे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी पां युपां न वव्रयामहे । वयं धनं न याचामहे ।
+> अथ ह्यपि तर्हि शविष्ठमतिशयेन बलवंतं नृणां नरं नेतृणामपि नेतारमिंद्र-
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, we do not ask you two for wealth. But then we worship Indra alone, the most powerful, the leader even of leaders of men.
+
+### Printed p. 362
+
+> मिदिंद्रमेव यजामहे । स इंद्रो नोस्मानर्वताश्वेन कदा चिद्वाजसातयेऽन्नलाभाया गमत् । आगच्छति । कदाचिन्मेधसातये यज्ञ भजनाया गमत् । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+That Indra comes to us with his horse, sometimes for the gain of food; sometimes he comes for the sharing in the sacrifice. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—you two together (O Indra and Agni)
+- नहि वव्रयामहे (*nahi vavrayāmahe*)—we do not ask
+- अथ हि (*atha hi*)—but
+- शविष्ठं (*śaviṣṭhaṃ*)—the exceedingly powerful
+- नृणां (*nṛṇāṃ*)—for men
+- नरं (*naraṃ*)—the leader
+- इंद्रमित् (*iṃdramit*)—Indra alone
+- यजामहे (*yajāmahe*)—we worship
+- सः (*saḥ*)—that Indra
+- नः (*naḥ*)—to us
+- अर्वता (*arvatā*)—with his horse
+- कदाचित् (*kadācit*)—many times
+- वाजसातये (*vājasātaye*)—for the gain of food
+- आ गमत् (*ā gamat*)—comes
+- मेधसातये (*medhasātaye*)—also for the conduct of the sacrifice
+- आ गमत् (*ā gamat*)—comes
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, we do not ask you two together. But we worship Indra alone, the exceedingly powerful, the leader of men. That Indra comes to us with his horse many times for the gain of food. He comes also for the conduct of the sacrifice. May all our enemies perish at the same time.
+
+##### English translation
+Do we not invoke you both ? we worship especially Indra, who is the strongest leader of men : he comes occasionally with his horses to bestow upon us food ; he comes to partake of the sacrifice : may all our enemies perish.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता हि मध्यं॒ भरा॑णामिंद्रा॒ग्नी अ॑धिक्षि॒तः ।  
+> ता उ॑ कवित्व॒ना क॒वी पृ॒च्छ्यमा॑ना सखीय॒ते सं धी॒तम॑श्नु तं  
+> नरा॒ नभं॑तामन्य॒के स॑मे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । हि । मध्यं । भराणां । इंद्राग्नी इति । अधिक्षितः ।  
+> ता । ऊं इति । कवित्वना । कवी इति । पृच्छ्यमाना । सखियते । सं । धीतं । अश्नुतं ।  
+> नरा । नभंतां । अन्यके । समे ॥ ३ ॥
+
+### Printed p. 363
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता ता प्रसिद्धा विंद्राग्नी भराणां संग्रामाणां मध्यमधिक्षितः । अधिनिवसतो हि ।
+> अथ प्रत्यक्षस्तुतिः । हे नरा नेतारौ कवित्वना कवित्वेन कवी क्रांतकर्माणौ पृच्छ्यमाना
+> कविजनैः पृच्छ्यमान् ता उ तावेव युवां सखीयते सखित्वमिच्छते यजमानाय
+> धीतं तत्कृतं कर्म समश्नुतं । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Those two well-known, Indra and Agni, dwell in the midst of battles. Then a direct praise: O leaders, sages, men of far-reaching deeds through sagehood, when asked by the wise, you two accept the work done for the sacrificer who desires your friendship. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पा (*pā*)—the well known **NOTE**
+- इंद्राग्नि (*iṃdrāgni*)—both Indra and Agni
+- भराणां (*bharāṇāṃ*)—of battles
+- मध्यं (*madhyaṃ*)—in the midst
+- अधिक्षितः हि (*adhikṣitaḥ hi*)—are able to stand firm
+- नरा (*narā*)—the leaders
+- कवित्वना (*kavitvanā*)—by their poetic deeds
+- कवी (*kavī*)—the best doers of deeds
+- पृच्छ्यमाना (*pṛcchyamānā*)—who are implored by the priests
+- ता उ (*tā u*)—and well known, O Indra and Agni
+- सखीयते (*sakhīyate*)—of him who desires your friendship
+- धीतिं (*dhītiṃ*)—the work endowed with wisdom
+- समश्नुतं (*samaśnutaṃ*)—you accept
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—together
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Indra and Agni are able to stand firm in the midst of battles. O Indra and Agni, leaders, the best doers of deeds through your poetic deeds, who are implored by the priests, and well known, you accept the wise work of him who desires your friendship. May all our enemies perish together.
+
+##### English translation
+They two, Indra and Agni. are present in the midst of battles : do you two, leaders of rites. who are really sages, when solicited (by the wise), accept the offering (from him) who seeks your friendship : may all our enemies perish.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑र्च नभाक॒वदिं॑द्रा॒ग्नी य॒जसा॑ गि॒रा ।  
+> ययो॒र्विश्व॑मि॒दं जग॑दि॒यं द्यौः पृ॑थि॒वी म॒ह्यु१॒॑गपस्थे॑  
+> बिभृ॒थो वसु॒ नभं॑तामन्य॒के स॑मे ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 356. Sukta 39 Rk 4-9 (pp. 351-356)
+**Progress note:** Done through printed p. 363. Rk 9 (end) to Sukta 40 Rk 4 (pp. 357-363)
