@@ -6,7 +6,7 @@
 - **Pages read:** 308 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299)
 - **Findings:** 582 — applied 412, questions 170; edits ok 422, failed 0
 - **Reader tokens (batches so far):** 2467k; per page 8.0k
-- **Last commit:** @C@
+- **Last commit:** 0acd82d
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -21,7 +21,7 @@
 | 8 | 182–211 | 52 | 40 | 40 / 0 | 12 | 265k | 24b7437 | 18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question |
 | 9 | 212–241 | 42 | 37 | 37 / 0 | 5 | 212k | 4a72102 | 22 S2, 4 S3 number repairs, R3 quotation repairs (Taittirīya, Skandasvāmin); English pp. 232–235 shifted against the Kannada (see open items); duplicate removed from English p. 213/214 |
 | 10 | 242–271 | 46 | 32 | 32 / 0 | 14 | 220k | e5f80e2 | 24 S2 number repairs, 5 S7 quotation repairs; no '### Page 259' heading in the English; English p. 256/257 shifted (see open items) |
-| 11 | 272–299 | 52 | 39 | 39 / 0 | 13 | TOK10 | @C@ | 11 S1 + 14 S3 (five running heads Varga [?] → 14) number repairs, 5 S7 quotation repairs; no page shifts |
+| 11 | 272–299 | 52 | 39 | 39 / 0 | 13 | TOK10 | 0acd82d | 11 S1 + 14 S3 (five running heads Varga [?] → 14) number repairs, 5 S7 quotation repairs; no page shifts |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
