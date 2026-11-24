@@ -1346,3 +1346,17 @@
 - p. 30 (English line 701) [H29]: `*saha ṣoḍaśoṣasyam*` → `*saha ṣoḷaśoṣasyaṃ*` — ಸಹ ಷೋಳಶೋಷಸ್ಯಂ ಎಂದು ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ (second pass S3, findings.tsv)
 - p. 31 (English line 745) [H29]: `root *uchī vivāse*` → `root *uchī nivāse*` — ಉಚ್ಚ । ಉಛೀ ನಿವಾಸೇ (Sāyaṇa text as supplied) (second pass S3, findings.tsv)
 - p. 31 (English line 745) [H28]: `*matup* ('he has it'), the *v* for *m*` → `*matup* ('he has it', Pā. Sū. 5-2-14), the *v* for *m*` — ತದಸ್ಯಾಸ್ತಿ । ಪಾ. ೫-೨-೧೪ । ಇತಿ ದಾಸ್ವತೀ (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 32 (English line 761) [H15]: `punar iṣu mukhā?` → `punar iyam uṣā?` — ಪುನರಿಯಮುಷಾ? ರಾತ್ರೇರಪರಃ ಕಾಲಃ (and the Devanagari in the same line reads पुनरियमुषा) (second pass S3, findings.tsv)
+- p. 34 (English line 780) [H10]: `(Pā. Sū. 3-2-74) — whether the word` → `(Pā. Sū. 3-2-64) — whether the word` — ಆತೋಮನಿನ್‌ಕ್ವನಿಪ್ ವನಿಪಶ್ಚ(ಪಾ. ಸೂ. ೩-೨-೬೪) (second pass S3, findings.tsv)
+- p. 34 (English line 781) [H10]: `(Pā. Sū. 4-1-6) gives *ṅīp* to a` → `(Pā. Sū. 4-3-6) gives *ṅīp* to a` — ಉಗಿತಶ್ಚ(ಪಾ. ಸೂ. ೪-೩-೬) (second pass S3, findings.tsv)
+- p. 36 (English line 827) [H27]: `the affuence [sic: "affluence"] of` → `the affluence of` — send us the affluence of the wealthy (supplied English text reads "affluence") (second pass S3, findings.tsv)
+- p. 37 (English line 832) [H26]: `they have obtained, they have joined` → `make us obtain, make us join` — ಚ್ಯವಂತ ... ಹೊಂದಿಸಿರಿ, ಸೇರಿಸಿರಿ (causative imperative) (second pass S3, findings.tsv)
+- p. 37 (English line 813) [H15]: `*tavenū*; initial-acute because` → `*taven*; initial-acute because` — ತವೇನ್ ಪ್ರತ್ಯಯಃ ... ತವೇನ್ ಎಂಬಲ್ಲಿ ನಕಾರ ಇತ್ತಾಗುತ್ತದೆ (second pass S3, findings.tsv)
+- p. 37 (English line 840) [H15]: `gives *tavenū*; the *n* of *tavenū* is a marker` → `gives *taven*; the *n* of *taven* is a marker` — ತವೇನ್ ಪ್ರತ್ಯಯ ಬರುತ್ತದೆ. ತವೇನ್ ಎಂಬಲ್ಲಿ ನಕಾರ ಇತ್ತಾಗುತ್ತದೆ (second pass S3, findings.tsv)
+- p. 38 (English line 842) [H10]: `(Pā. Sū. 3-1-25) gives *ṇic*` → `(Pā. Sū. 3-1-226) gives *ṇic*` — ಸತ್ಯಾಪಪಾಶ(ಪಾ. ಸೂ.೩-೧-೨೨೬) (second pass S3, findings.tsv)
+- p. 38 (English line 842) [H26]: `*choda* + *a* + *hi*` → `*codi* + *a* + *hi*` — ಚೋದಿ+ಅ+ಹಿ ಎಂದಿರುವಾಗ (second pass S3, findings.tsv)
+- p. 41 (English line 889) [H10]: `(3-4-97, printed without` → `(3-4-92, printed without` — ಇತಶ್ಚ ಲೋಪಃ ಪರಸ್ಮೈಪದೇಷು(೩-೪-೯೨) (second pass S3, findings.tsv)
+- p. 41 (English line 891) [H10]: `(Pā. Sū. 7-3-114) gives *syāṭ*` → `(Pā. Sū. 7-4-114) gives *syāṭ*` — ಸರ್ವನಾಮ್ಮಃ ಸ್ಯಾದ್ಧೃಸ್ವಶ್ಚ(ಪಾ. ಸೂ. ೭-೪-೧೧೪) (second pass S3, findings.tsv)
+- p. 44 (English line 944) [H10]: `(Pā. Sū. 7-3-80) shortens the root` → `(Pā. Sū. 2-3-80) shortens the root` — ಪ್ವಾದೀನಾಂ ಹ್ರಸ್ವಃ(ಪಾ. ಸೂ. ೨-೩-೮೦) (second pass S3, findings.tsv)
