@@ -30534,6 +30534,305 @@ The reciters of prayer celebrate that your (exhilaration) now as of old: you dai
 > तव॒ त्यदिं॑द्रि॒यं बृ॒हत्तन॒ शुष्म॑मु॒त क्रतुं॑ ।  
 > वज्रं॑ शिशाति धि॒षणा॒ वरे॑ण्यं ॥ ७ ॥
 
+### Printed p. 728
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । त्यत् । इंद्रियं । बृहत् । तव । शॆष्मं । उत । क्रतुं ।  
+> वज्रं । शिशाति । धिषणा । वरेण्यं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्यत्तत्पसिद्धमिंद्रियमिंद्रस्य लिंगं बृहत्प्रभूतं वीर्यं धिषणा
+> स्तुतिः शिशाति । निश्यति । तीक्ष्णीकरोति । तथा तव त्वदीयं शुष्मं शोषकं बलमुतापि
+> च क्रतुं प्रज्ञानं बलं कर्म वा वरेण्यं वरणीयं वज्रमायुधं च स्तुतितीक्ष्णीकरोति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, that well-known इंद्रियं (*iṃdriyaṃ*), Indra's mark, that is, his great abundant valour, is sharpened by the praise (धिषणा (*dhiṣaṇā*)): शिशाति (*śiśāti*) means "sharpens". In the same way the praise sharpens your शुष्मं (*śuṣmaṃ*), your parching, enemy-drying strength, and also your क्रतुं (*kratuṃ*), which is understanding, strength or action, and your choicest weapon, the thunderbolt.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धिषणा (*dhiṣaṇā*)—praise
+- त्यत् (*tyat*)—that which is world-famous
+- बृहत् (*bṛhat*)—and great
+- तव (*tava*)—your
+- इंद्रियं (*iṃdriyaṃ*)—valour
+- शिशाति (*śiśāti*)—makes sharp
+- तव (*tava*)—your
+- शुष्मं (*śuṣmaṃ*)—enemy-destroying strength
+- उत (*uta*)—and
+- क्रतुं (*kratuṃ*)—action
+- वरेण्यं (*vareṇyaṃ*)—excellent
+- वज्रं (*vajraṃ*)—the thunderbolt (it makes sharp)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the praise of the worshipper makes sharp your world-famous and great valour. It makes sharp your enemy-destroying strength, your action, and your excellent thunderbolt.
+
+##### English translation
+Praise sharpens your great energy, your strength, your acts, and your majestic thunderbolt.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ द्यौरिं॑द्र॒ पौंस्यं॑ पृथि॒वी व॑र्धति॒ श्रवः॑ ।  
+> त्वामापः॒ पर्व॑तासश्च हिन्विरे ॥ ८ ॥
+
+### Printed p. 729
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । द्यौः । इंद्र । पौंस्यं । पृथिवी । वर्धति । श्रवः ।  
+> त्वां । आपः । पर्वतासः । च । हिन्विरे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इ:द्र तव त्वदीयं पौंस्यं बलं द्यौर्वर्धति । वर्धयति । त्वदीयं श्रवो
+> यशः पृथिवी वर्धयति ॥ वृधेर्ण्यंताल्लटि शपि छंदस्युभयथेत्यार्थधातुकत्वाण्णीरनिटीति णिलोपः ॥ तं त्वामाप उदकान्यंतरिक्षाणि पर्वतासः पर्वताः पर्ववंतो
+> मेघाश्च गिरयश्च ना हिन्निरे । प्रीणयंति । स्वामित्वेन प्राप्नुवंति वा ॥
+
+##### Gist of the bhāṣya
+
+O Indra, heaven makes your पौंस्यं (*pauṃsyaṃ*), your strength, grow (वर्धति (*vardhati*) is read as "makes grow"); the earth makes your श्रवः (*śravaḥ*), your fame, grow. The waters (आपः (*āpaḥ*)), that is the atmospheric waters, and the पर्वतासः (*parvatāsaḥ*), the mountains or the clouds that have joints (पर्व (*parva*)), please you (हिन्विरे (*hinvire*)), or else reach you as their lord.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तव (*tava*)—your
+- पौंस्यं (*pauṃsyaṃ*)—strength
+- द्यौः (*dyauḥ*)—the heaven
+- वर्धति (*vardhati*)—makes grow
+- श्रवः (*śravaḥ*)—your fame
+- पृथिवी (*pṛthivī*)—the earth (makes it spread wide)
+- त्वां (*tvāṃ*)—you
+- आपः (*āpaḥ*)—the waters (the atmospheric regions)
+- पर्वतासः च (*parvatāsaḥ ca*)—the mountains or the clouds
+- हिन्विरे (*hinvire*)—gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, heaven makes your strength grow. The earth makes your fame spread wide. The waters, the atmospheric regions, and the mountains or clouds gladden you.
+
+##### English translation
+The heaven invigorates your manhood, Indra, the earth (spreads) your renown ; the waters, the mountains propitiate you.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां विष्णु॑र्ब्र॒हन्कस्यो॑ मि॒त्रो ग॑णृति॒ वरु॑णः ।  
+> त्वां शर्धो॑ मद॒त्यनु॒ मारु॑तं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । विष्णुः । बृहन् । क्षयः । मित्रः । गृणाति । वरुणः ।  
+> कन्नड साहित्य परिषत्तु, बॆंगळूरु.
+
+### Printed p. 730
+
+> त्वां । शर्धः । मदति । अनु । मारुतं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र बृहन्महान् क्षयो निवासहेतुर्विष्णुर्मित्रो वरुणश्च त्वां गृणाति ।
+> सौति । तथा मारुतं मरुत्संबंधि शर्धो बलं त्वामनु मदति । तव मदमनुलक्ष्य
+> पश्चान्माद्यति । त्वामनुमादयति वा ॥
+
+##### Gist of the bhāṣya
+
+O Indra, Viṣṇu, great (बृहन् (*bṛhan*)) and the cause of dwelling (क्षयः (*kṣayaḥ*)), Mitra and Varuṇa praise you (गृणाति (*gṛṇāti*) means "praises"). Likewise the शर्धः (*śardhaḥ*), the strength belonging to the Maruts, rejoices after you (मदति (*madati*)): having regard to your exhilaration it rejoices afterwards, or it makes others rejoice after you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहन् (*bṛhan*)—the great one
+- क्षयः (*kṣayaḥ*)—the giver of dwelling
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- त्वां (*tvāṃ*)—you
+- गृणाति (*gṛṇāti*)—they praise
+- मारुतं (*mārutaṃ*)—belonging to the Maruts
+- शर्धः (*śardhaḥ*)—strength
+- त्वां अनु (*tvāṃ anu*)—following you
+- मदति (*madati*)—shows joy (as you do)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, Viṣṇu, the great giver of dwelling, praises you. So do Mitra and Varuṇa. Just as you rejoice, the company of the Maruts, following you, also displays its joy.
+
+##### English translation
+Vishnu, the mighty giver of dwellings praises you, and Mitra and Varuna ; the company of the Maruts imitates you in exhilaration.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं वृषा॒ जना॑नां॒ मुंहि॑ष्ठ इंद्र जज्ञिषे ।  
+> स॒त्रा विश्वा॑ स्वप॒त्यानि॑ दधिषे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । वृषा । जनानां । मंहिष्ठः । इंद्र । जज्जिषे ।  
+> सत्रा । विश्वा । सुअपत्यानि । दधिषे ॥ १० ॥
+
+### Printed p. 731
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृषा वर्षिता त्वं जनानां देवजनानां मध्ये मुंहिष्ठो
+> दातृतमो जज्जिषे । प्रादुर्भवसि । आत एव विश्वा सर्वाणि स्वपत्यानि शोभनैः
+> पुत्रादिभिः सहितानि सत्रा सह दधिषे । दातुं धारयसि । ददासि वा ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, the showerer (वृषा (*vṛṣā*)), are born (जज्जिषे (*jajjiṣe*), "you appear") as the most bountiful (मुंहिष्ठ (*muṃhiṣṭha*), "the greatest giver") among the जनानां (*janānāṃ*), the company of the gods. Therefore you hold together (दधिषे (*dadhiṣe*)), to give, all (विश्वा (*viśvā*)) good offspring (स्वपत्यानि (*svapatyāni*)), that is, possessions accompanied by excellent sons and the rest; or else you give them. सत्रा (*satrā*) is taken as "together".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वृषा (*vṛṣā*)—giver of what is desired
+- त्वं (*tvaṃ*)—you
+- जनानां (*janānāṃ*)—among the people who are of the nature of gods
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—exceedingly generous, bountiful
+- जज्जिषे (*jajjiṣe*)—you have been born
+- विश्वा (*viśvā*)—all
+- स्वपत्यानि (*svapatyāni*)—the wealth of excellent sons and offspring
+- सत्रा (*satrā*)—in yourself
+- दधिषे (*dadhiṣe*)—you hold (to give us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the giver of what is desired, are the most generous and bountiful among all the gods. You hold within yourself all excellent offspring, to give to us.
+
+##### English translation
+You, Indra, who are the showerer, have been born the most bountiful of beings; you associate with you all good offspring.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्रा त्वं पु॑रुष्टुत॒ एको॑ वृ॒त्राणि॑ तोशसे ।  
+> नान्य इंद्रा॒त्कर॑णं॒ भूय॑ इन्वति ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्रा । त्वं । पुरुस्तुत । एकः । वृत्राणि । तोशसे ।  
+> न । अन्यः । इंद्रात् । करणं । भूयः । इन्वति ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुष्टुत बहुभिः स्तुतेंद्र त्वमेकोऽसहाय एव सन् सत्रा । महन्नामैतत् । महांति वृत्राणि शत्रुजातानि । यद्वा । सत्रेति सहार्थे । सहैव
+
+##### Gist of the bhāṣya
+
+O Indra, praised by many (पुरुष्टुत (*puruṣṭuta*)), you, being alone (एकः (*ekaḥ*)), without helper, destroy many (सत्रा (*satrā*): this is a name for "great"; the passage is महन्नामैतत् (*mahannāmaitat*)) enemy hosts (वृत्राणि (*vṛtrāṇi*)). Or else, सत्रा (*satrā*) is in the sense of "together", at once, with a single effort.
+
+### Printed p. 732
+
+> युगपदेवैकयत्नेनैव । तोशसे । हिनस्सि । तोशतिर्वधकर्मा । अकर्तुं शक्तानीति
+> भावः । अपि चास्मादिंद्रादन्यः कश्चिद्भूयो बहुतरं करणं कर्म वृत्रवधादिकं
+> नेन्वति । न प्राप्नोति । इंद्र एव कर्तुं शक्नोतीति भावः ॥
+
+##### Gist of the bhāṣya
+
+तोशसे (*tośase*) means "you slay"; तोशति (*tośati*) is a verb of killing. The sense is that the enemies were unable to do anything. Moreover, no one other than this Indra achieves (इन्वति (*invati*), "reaches") more or greater action (करणं (*karaṇaṃ*)), such as the slaying of Vṛtra. The sense is that Indra alone is able to do it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—O Indra, who are praised by many
+- त्वं (*tvaṃ*)—you
+- एकः (*ekaḥ*)—alone, without help from others
+- सत्रा (*satrā*)—of great form
+- वृत्राणि (*vṛtrāṇi*)—enemy folk
+- तोशसे (*tośase*)—you kill
+- इंद्रात् (*iṃdrāt*)—than you, who are of the form of Indra
+- अन्यः (*anyaḥ*)—another
+- भूयः (*bhūyaḥ*)—exceedingly mighty
+- करणं (*karaṇaṃ*)—the action of slaying Vṛtra and the like
+- न इन्वति (*na invati*)—cannot attain the power to do
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the praise of many, you alone, without the help of others, kill all the very powerful enemy folk. No one other than you, who are of the form of Indra, has the power to do this exceedingly mighty deed of slaying Vṛtra and the like.
+
+##### English translation
+(Indra), the praised of many, you alone destroy many mighty foes: no other than Indra achieves such great exploits.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र मन्म॒शस्त्वा॒ नाना॒ हवं॑त ऊ॒तये॑ ।  
+> अ॒स्माके॑भि॒र्नृभि॒रत्रा॒ स्व॑र्जय ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । मन्मशः । त्वा । नाना । हवंते । ऊतये ।  
+> अस्माकेभिः । नृभिः । अत्र । स्वः । जय ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यस्मिन् संग्रामे त्वां मन्मशो मन्मना स्तोत्रेण नाना
+> बहुप्रकारं हवंते आह्वयंति । किमर्थं । ऊतये रक्षायै ; अत्रास्मिन् संग्रा-
+
+##### Gist of the bhāṣya
+
+O Indra, in whatever battle (यद्यस्मिन् संग्रामे (*yadyasmin saṃgrāme*)) the मन्मशः (*manmaśaḥ*), the worshippers, call (हवंते (*havaṃte*)) you in many ways (नाना (*nānā*)) with their thoughtful praise, and for what purpose? For protection (ऊतये (*ūtaye*)), in that battle (अत्र (*atra*))
+
+### Printed p. 733
+
+> मेऽस्माकेभिरस्माकैरस्मदीयैरेव नृभिर्नेतृभिः स्तोतृभिराहूतः सन् स्वः शत्रुबलं
+> बय । अभिभव ॥
+
+##### Gist of the bhāṣya
+
+(the passage continues:) you, invoked by our own leaders (नृभिः (*nṛbhiḥ*)), that is, by worshippers who are ours, conquer (जय (*jaya*), "overcome") the enemy host, स्वः (*svaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- यत् (*yat*)—in which battle
+- मन्मशः (*manmaśaḥ*)—with meditative praises
+- नाना (*nānā*)—in many ways
+- ऊतये (*ūtaye*)—for protection
+- हवंते (*havaṃte*)—the worshippers call
+- अत्र (*atra*)—in just such a battle
+- अस्माकेभिः (*asmākebhiḥ*)—by those like us
+- नृभिः (*nṛbhiḥ*)—by the worshippers
+- स्वः (*svaḥ*)—the enemy host
+- जय (*jaya*)—conquer (being invoked)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in whatever battle the worshippers call you for protection, praising you with many kinds of hymns, in just such a battle, being called also by worshippers like us, conquer the enemy host.
+
+##### English translation
+When (in the combat), Indra, they invoke you in many ways with praise for protection, then you (so invoked) by our leaders, overcome all (our enemies).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आरं॒ क्षया॑य नो म॒हे विश्वा॑ रू॒पाण्या॑वि॒शन् ।  
+> इंद्रं॒ जैत्रा॑य हर्षया॒ शची॒पतिं॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरं । क्षयाय । नः । महे । विश्वा । रूपाणि । आविशन् ।  
+> इंद्रं । जैत्राय । हर्षय । शची३पतिं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः महे महते नोऽस्माकं क्षयाय । गृहनामैतत् । गृहाय ॥
+> तादर्थे चतुर्थी॥ गृहार्थमरमलं पर्याप्तं विश्वा विश्वानि व्याप्तानि रूपाणींद्रगतानि गुणजातान्याविशन् स्तुत्या व्याप्नुवन् शचीपतिं । शचीति कर्मनाम ॥
+
+##### Gist of the bhāṣya
+
+O worshipper, for our great (महे (*mahe*)) क्षयाय (*kṣayāya*), which is a name for "house", that is, for the house: the fourth case is in the sense of "for the sake of". For the sake of the house, अरं (*araṃ*) means "enough, sufficient". विश्वा (*viśvā*), all-pervading forms (रूपाणि (*rūpāṇi*)) belonging to Indra, that is, his classes of qualities, आविशन् (*āviśan*), "pervade" with praise (the text then glosses शचीपतिं (*śacīpatiṃ*): शची (*śacī*) is a name for action).
+
 ---
 
-**Progress note:** Done through printed p. 727. pp. 722-727 (batch API)
+**Progress note:** Done through printed p. 733. pp. 728-733 (batch API)
