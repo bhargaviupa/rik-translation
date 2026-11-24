@@ -33646,6 +33646,296 @@ We invoke you when the Soma is effused by day, we invoke you by night; fulfil ou
 > क्व१॒॑ १ स्य वृ॑ष॒भो युवा॑ तुवि॒ग्रीवो॒ अना॑नतः ।  
 > ब्र॒ह्मा कस्तं स॑पर्यति ॥ ७ ॥
 
+### Printed p. 741
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । स्यः । वृषभः । युवा । तुविग्रीवः । अनानतः ।  
+> ब्रह्मा । कः । तं । सपर्यति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्य स वृषभो वर्षिता युवा नित्यतरुणस्तुविघ्रेवो विस्तीर्णकंधरोऽनानतः
+> कदाचिदप्यनवनत इंद्रः क्व कुत्र वर्तत इति को जानातीत्यर्थः । को ब्रह्मा स्तोता
+> त्वा त्वां सपर्यति । पूजयति ॥
+
+##### Gist of the bhāṣya
+
+He, Indra, the showerer (who rains down desires), ever young, broad-necked, who never bows down to anyone: where is he? Who knows? This is the meaning. Which hymner worships you? **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—the well-known one
+- वृषभः (*vṛṣabhaḥ*)—the one who showers desires
+- युवा (*yuvā*)—the ever-young one
+- तुविग्रीवः (*tuvigrīvaḥ*)—the one with an extensive neck
+- अनानतः (*anānataḥ*)—Indra, who bows his head to no one
+- क्व (*kva*)—where is he
+- कः ब्रह्मा (*kaḥ brahmā*)—what hymner
+- तं (*taṃ*)—that Indra
+- सपर्यति (*saparyati*)—worships
+
+##### भावार्थ (Bhāvārtha)
+
+Where is Indra, the well-known one, the showerer of desires, ever young, with an extensive neck, who bows his head to no one? What hymner worships that Indra?
+
+##### English translation
+Where is that ever-youthful showerer, strong-necked and bowing to none? what hymner worships you ?
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कस्य॑ स्वि॒त्सव॑नं॒ वृषा॑ जुजु॒ष्वा अव॑ गच्छति ।  
+> इंद्रं॒ क उ॑ स्वि॒दा च॑के ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कस्य । स्वित् । सवनं । वृषा । जुजुष्वान् । अव । गच्छति ।  
+> इंद्रं । कः । ऊं इति । स्वित् । आ । चके ॥ ८ ॥
+
+### Printed p. 742
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कस्य स्वित्सवनं । स्विदिति विचिकित्सायां । वृषा वर्षितेंद्रो जुजुष्वान्
+> प्रीयमाणोऽव गच्छति । क उ को वा यजमान इंद्रमा चके । जानाति
+> स्तोतुं । स्विदिति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+In कस्य स्वित्सवनं (*kasya svitsavanaṃ*) the word स्वित् (*svit*) is used in the sense of doubt. The showerer Indra, being pleased, comes down to the sacrifice. Which sacrificer knows how to praise Indra? स्वित् (*svit*) is a filler word.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—Indra, the showerer of desires
+- कस्य स्वित् (*kasya svit*)—of which sacrificer
+- सवनं (*savanaṃ*)—the sacrifice
+- जुजुष्टान् (*jujuṣṭān*)—loving
+- अव गच्छति (*ava gacchati*)—approaches and goes
+- क उ स्वित् (*ka u svit*)—which sacrificer indeed
+- इंद्रं (*iṃdraṃ*)—Indra
+- आ चके (*ā cake*)—knows how to praise
+
+##### भावार्थ (Bhāvārtha)
+
+Of which sacrificer does Indra, the showerer of desires, love the sacrifice, so that he approaches and goes to it? Which sacrificer indeed knows fully how to praise Indra?
+
+##### English translation
+To whose offering does the showerer come down pleased? who can praise Indra?
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कं ते॑ दा॒ना अ॑सक्षत॒ वृत्र॑ह॒न्कं सु॒वीर्या॑ ।  
+> उ॒क्के क उ॑ स्वि॒दंत॑मः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कं । ते । दानाः । असक्षत । वृत्रहन् । कं । सुवीर्या ।  
+> उक्के । कः । ऊं इति । स्वित् । अंतमः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते त्वां दाना यजमानैर्दत्ता असक्षत । सेवंते । हे वृत्रहन् वृत्रस्य
+> हंतरिंद्र कं कीदृशं त्वामुक्थे शस्त्रे सुवीर्या शोभनवीयाणि स्तोत्राण्यसक्षत ।
+> क उ स्विदंतमो वांतिकतमो भवति युद्धे ॥
+
+##### Gist of the bhāṣya
+
+The offerings given by the sacrificers serve you. O slayer of Vṛtra, Indra, what kind of you do the praises endowed with good valour serve in the uktha, that is, the śastra? Who, or rather, is the nearest in battle? **NOTE**
+
+### Printed p. 743
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) दानाः (*dānāḥ*)—the gifts, oblations and the like, offered by the sacrificers
+- कं (*kaṃ*)—of what kind
+- ते (*te*)—you
+- असक्षत (*asakṣata*)—they serve
+- वृत्रहन् (*vṛtrahan*)—O Indra, destroyer of Vṛtra
+- सुवीर्या (*suvīryā*)—praises endowed with excellent strength
+- उक्थे (*ukthe*)—at the time of the enemy **NOTE**
+- कं (*kaṃ*)—in what form can they serve you
+- क उ स्वित् (*ka u svit*)—who indeed
+- अंतमः (*aṃtamaḥ*)—can be near you in the time of battle
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in what manner do the gifts, oblations and the like, offered by the sacrificers, serve you? O Indra, destroyer of Vṛtra, in what form can the praises endowed with excellent strength serve you at the time of reciting the śastra mantras? Who indeed can be near you in the time of battle?
+
+##### English translation
+In what character, O slayer of Vritra, do the sacrificial offerings honour you, or the brave praises in the hymn? Who is nearest (in time of battle)?
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं ते॒ मानु॑षे॒ जने॒ सोमः॑ पू॒रुषु॑ सूयते ।  
+> तस्येहि॒ प्र द्र॑वा॒ पिब॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ते । मानुषे । जने । सोमः । पूरुषु । सूयते ।  
+> तस्य । आ । इहि । प्र । द्रव । पिब ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीये पर्याये होतुः शस्त्रेऽयं ते मानुष इति तृचोऽनुरूपः ।
+> सूत्रितं च । अयं ते मानुषे जन उद्वेदभि । आ. ६-४ । इति ॥
+> अयं सोमस्ते त्वदर्थं तव स्वभूतो वा पूरुषु मनुष्येषु मध्यॆ
+> मानुषे जने मयि सूयते । अथवा पूरुनामसु राजसु सूयते । तस्य ।
+> तमित्यर्थः । तमेहि । आगच्छ । अगत्य च प्र द्रव ग्रहसमीपं । तथा कृत्वा पिब तं
+> सोमं ॥
+
+##### Gist of the bhāṣya
+
+In the second paryāya, in the Hotṛ's śastra, the tṛca beginning अयं ते मानुषे (*ayaṃ te mānuṣe*) is the anurūpa. It is also laid down in the sūtra अयं ते मानुषे जन उद्वेदभि (*ayaṃ te mānuṣe jana udvedabhi*) (Ā. 6-4). **NOTE** This Soma is pressed for you, or as your own, among men, in me, the human sacrificer; or else among kings named Pūru. तस्य (*tasya*) means that Soma. Come to it; and having come, run to the vicinity of the graha vessel, and having done so, drink that Soma.
+
+### Printed p. 744
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) अयं सोमः (*ayaṃ somaḥ*)—this Soma juice
+- ते (*te*)—for you
+- पूरुषु (*pūruṣu*)—among men
+- मानुषे जने (*mānuṣe jane*)—in me, the sacrificer
+- सूयते (*sūyate*)—is pressed
+- तस्य (*tasya*)—towards it
+- एहि (*ehi*)—be pleased to come
+- प्र द्रव (*pra drava*)—come running
+- पिब (*piba*)—drink it
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma juice is pressed for you, among men, in me, the sacrificer (in my sacrifice). Come swiftly towards it and drink it.
+
+##### English translation
+For you is this Soma effused among men by me of mortal race; draw near, hasten, drink it.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the second paryāya, among the śastra mantras to be recited by the Hotṛ, the three ṛks beginning अयं ते मानुषे (*ayaṃ te mānuṣe*) are to be recited as the anurūpa tṛca; this is explained by the sūtra अयं ते मानुषे जन उद्वेदभि (*ayaṃ te mānuṣe jana udvedabhi*) of the Āśvalāyana Śrauta Sūtra (Ā. Sū. 6-4).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं ते॑ शर्य॒णाव॑ति सु॒षोमा॑या॒मधि॑ प्रि॒यः ।  
+> आ॒र्जि॒कीये॑ म॒दिंत॑मः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ते । शर्यणावति । सुसोमायां । अधि । प्रियः ।  
+> आर्जीकीये । मदिन्शतमः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमस्माभिरभिषुतः सोमस्ते त्वां मदिंतमो मादयितृतमः । आयमधिश्रित आश्रितः । कुत्रेति तदुच्यते । शर्यणावति कुरुक्षेत्रस्य जघनार्धभवे
+> शरतृणोपेते सरसि । तत्सरः कुत्र वर्तक इति उच्यते । सुषोमायामेतन्नामि-
+
+##### Gist of the bhāṣya
+
+This Soma pressed by us is most exhilarating for you, O Indra, the most delighting. It has taken refuge; where? That is told: in Śaryaṇāvat, a lake full of reeds, situated in the rear half of Kurukṣetra. Where is that lake? That is told: in the river of this name, Suṣomā. **NOTE**
+
+### Printed p. 745
+
+> कायां नद्यां । सा च कुत्र वर्तत इति तदुच्यते । आर्जीकीय एतन्नामके देशे ।
+> एवमुक्तप्रकारेणात्यंतदूरदेशे वर्तते यः सोमः स एवायं । अभिषुतं
+> पिबेत्सुत्तरत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+And where is that river? That is told: in Ārjīkīya, a land of this name. The Soma that stands in so distant a country, that very Soma is this one. The verb पिब (*piba*) is construed in what follows. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ते (*te*)—for you
+- प्रियः (*priyaḥ*)—dear
+- मदिंतमः (*madiṃtamaḥ*)—exceedingly delighting
+- अयं (*ayaṃ*)—this Soma juice
+- आर्जिकीये (*ārjikīye*)—in the Ārjika country
+- सुषोमायां (*suṣomāyāṃ*)—near the river Suṣomā
+- शर्यणावति (*śaryaṇāvati*)—in the lake called Śaryaṇāvat
+- अधि (*adhi*)—have taken refuge
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma juice, dear to you and exceedingly delighting, has grown in the lake called Śaryaṇāvat, near the river Suṣomā, in the Ārjika country.
+
+##### English translation
+This is your beloved most exhilarating Soma which grows in the Sharyanavat lake by the Sushoma river in the Arjikiya country.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॒द्य राध॑से म॒हे चारुं॒ मदा॑य॒ घृष्ट॑ये ।  
+> एही॑मिंद्र॒ द्रवा॒ पिपि ॥ १२ ॥॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । आद्य । राधसे । महे । चारुं । मदाय । फृष्टये ।  
+> आ । इहि । ईं । इंद्र । द्रव । पिब ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं पूर्वमंत्र उपवर्णितं चारुं चरणशीलं सोमं महे महते
+> राधसेऽस्माकं धनाय तव घृष्टये शत्रोणां घर्षणशीलाय मदाय पिब । हे
+> इंद्र तदर्थं द्रव । गच्छ शीघ्रं सोमपात्रं प्रति । तदर्थमीमिदानीमेहि । आगच्छ॥
+
+##### Gist of the bhāṣya
+
+That Soma, described in the preceding mantra, is चारुं (*cāruṃ*), that is, of a moving nature. Drink it for great wealth for us, and for your exhilaration, which is crushing to enemies. O Indra, run for that purpose, go quickly to the Soma vessel; for that purpose come now.
+
+### Printed p. 746
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तं (*taṃ*)—that which was described before
+- चारुं (*cāruṃ*)—and pleasing to the mind, Soma
+- धृष्टये (*dhṛṣṭaye*)—capable of defeating the enemy
+- मदायु (*madāyu*)—for exhilaration
+- महे (*mahe*)—great
+- राधसे (*rādhase*)—and for the gain of our wealth
+- पिब (*piba*)—drink
+- अद्य (*adya*)—now
+- द्रव (*drava*)—come quickly for that purpose
+- ईं (*īṃ*)—towards this juice
+- एहि (*ehi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink the Soma, described before and pleasing to the mind, for the exhilaration that is capable of defeating the enemy, and for the gain of great wealth. Come quickly for that. Be pleased to come towards this juice.
+
+##### English translation
+Come to day, Indra, hasten, drink this grateful Soma for our great wealth, and for your own foe-crushing exultation.
+
+## Sūkta 65 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदिंद्र प्रागिति द्वादशर्चं षष्ठं सूक्तं प्रगाथस्यार्षं गायत्रमैंद्रं ।
+> यदिंद्रेत्यनुक्रांतं ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, beginning यदिंद्र (*yadiṃdra*), has twelve ṛks; it is the vision of Pragātha, the metre is Gāyatrī, and the deity is Indra. The Anukramaṇikā says यदिंद्र (*yadiṃdra*). The application is that of the Liṅga.
+
+##### Anuvāda
+
+This sūkta beginning यदिंद्र प्राक् (*yadiṃdra prāk*) is the sixth sūkta in the seventh anuvāka. It has twelve ṛks. The seer of this sūkta is Pragātha; the deity is Indra; the metre is Gāyatrī. In the Anukramaṇikā it is said: यदिंद्र (*yadiṃdra*). The application is that of the Liṅga.
+
+Sūkta 65.
+Maṇḍala 8; Anuvāka 7; Sūkta 65.
+Aṣṭaka 6; Adhyāya 4; Varga 46, 47.
+Number of ṛks in the sūkta: 12.
+Ṛṣi: Prāgāthaḥ Kāṇaḥ. **NOTE**
+Devatā: Indra.
+Chandas: Gāyatrī.
+
 ---
 
-**Progress note:** Done through printed p. 740. Maṇḍala 8 sūkta 64 rks 1 to 7 (saṃhitā of rk 7), pp. 735-740
+**Progress note:** Done through printed p. 746. Mandala 8 sukta 64 rks 7-12, sukta 65 introduction
