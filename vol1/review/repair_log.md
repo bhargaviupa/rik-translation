@@ -515,3 +515,128 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | page | old → new | why |
 |---|---|---|
 | 66 | `recitation (pārana)` → `recitation (parana)` | SECOND-PASS S14: plain spelling, no IAST typed in English prose |
+
+### 2026-11-24 second pass, batch e91-120.tsv
+| page | old → new | why |
+|---|---|---|
+| 91 | `number six; the Apastamba followers likewise say six` → `number five; the Apastamba followers say six` | SECOND-PASS S14: Kannada p.91: Ashvalayana-shakha followers say five, Apastamba followers six |
+| 91 | `षडाहुराश्वलायनशाखिनः` → `पञ्चाहुराश्वलायनशाखिनः` | SECOND-PASS S7: Kannada p.91 ಪಂಚಾಹುರಾಶ್ವಲಾಯನಶಾಖಿನಃ: षडाहुः -> पञ्चाहुः |
+| 91 | `— cited earlier regarding the Bahvricha shakha's use of this same text — is revisited here` → `writes as follows:` | SECOND-PASS S16: Kannada p.91: Kumarila wrote in his Tantravartika (1-3-11) thus; the English clause about an earlier citation is not in the Kannada |
+| 92 | `the Kambilishaka-prescribed [text]` → `the Shankhalikhita-prescribed [text]` | SECOND-PASS S13: Kannada p.92 ಶಂಖಲಿಖಿತೋಕ್ತಂ |
+| 92 | `use the Kambilishaka material` → `use the Shankhalikhita material` | SECOND-PASS S13: Kannada p.92 ಶಂಖಲಿಖಿತಸೂತ್ರಗಳನ್ನೂ |
+| 92 | `गृह्येन वै परिगृह्येते` → `गैरेव च परिगृह्येते` | SECOND-PASS S7: Kannada pp.91-92 ಗೈರೇವ ಚ ಪರಿಗೃಹ್ಯೇತೇ (छन्दोगैरेव च ... at the page break) |
+| 92 | `कम्बिलिशकोक्तं वै वाजसनेयिभिः` → `शङ्खलिखितोक्तं च वाजसनेयिभिः` | SECOND-PASS S7: Kannada p.92 ಶಂಖಲಿಖಿತೋಕ್ತಂ ಚ ವಾಜಸನೇಯಿಭಿಃ |
+| 92 | `आपस्तम्बोधायनीये कृत्तिरीयैरेव प्रतिश्यसे` → `आपस्तम्बबोधायनीये तैत्तिरीयैरेव प्रतिपन्ने` | SECOND-PASS S7: Kannada p.92 ಆಪಸ್ತಂಬಬೋಧಾಯನೀಯೇ ತೈತ್ತಿರೀಯೈರೇವ ಪ್ರತಿಪನ್ನೇ |
+| 92 | ` via a grammatical rule for rishi-derived names, giving forms like "Sulabhaishcheya," "Sul` → `; that Brahmana belonged to the Rigveda, as the Rishi-tarpana section of Ashvalayana shows` | SECOND-PASS S16: Kannada p.92: no grammatical rule or forms; Rishi-tarpana of Ashvalayana names Sulabha-Maitreyi; the question is posed as in the Kannada |
+| 92 | `The sage Shaunaka, though a Brahmarshi renowned for conducting many long sacrificial sessi` → `The sage Shaunaka was a resident of Naimisharanya; great sacrifices were performed in his ` | SECOND-PASS S14: Kannada p.92: Naimisharanya resident, great yajnas in his ashrama, hence Bahvrichasimha; the English says the opposite |
+| 92 | `Tradition places him in connection with the Mahabharata's account of King Janamejaya's sna` → `According to the Mahabharata story, Ugrashravas told this after Janamejaya had performed t` | SECOND-PASS S14: Kannada p.92: Janamejaya Sarpasatra, afterwards Ugrashravas told it |
+| 93 | `Shaunaka himself is not counted as a Rigveda shakha-*founder* as such, but rather as a bro` → `In the Prapancha-hridaya a Rigveda shakha called Shaunaka is written of. In the second and` | SECOND-PASS S14: Kannada p.93: Prapanchahridaya names a Shaunaka shakha; Anandasamhita ch. 2 and 4 quote a Shaunakiya sutra distinct from Ashvalayana; nothing more can be said |
+| 93 | `&nbsp;&nbsp;&nbsp;&nbsp;*— these four are the Bashkala shakhas*` → `` | SECOND-PASS S16: Kannada p.93 has no such grouping remark after item 9 |
+| 93 | `&nbsp;&nbsp;&nbsp;&nbsp;*— these four are the Sankhyayana-group shakhas*` → `` | SECOND-PASS S16: Kannada p.93 has no such grouping remark after item 14 (it says: these five are Shakala shakhas) |
+| 93 | `(Apanishena, Pannagari, Arjuna)` → `(Apanisha, Pannagari, Arjava)` | SECOND-PASS S13: Kannada p.93 ಆಪನೀಷ, ಪನ್ನಗಾರಿ, ಆರ್ಜವ |
+| 94 | `runs to roughly 26–27 names` → `runs to 27 names` | SECOND-PASS S3: Kannada p.94: ಒಟ್ಟು ೨೭ |
+| 94 | `nested within the main twenty,` → `nested within the main twenty-one,` | SECOND-PASS S3: Kannada p.94: Mahabhashya says 21 shakhas; six extra of 27 |
+| 94 | `with a detailed introduction` → `with Kannada explanations` | SECOND-PASS S13: Kannada p.94 ಕನ್ನಡ ಅರ್ಥ ವಿವರಣೆಗಳೊಡನೆ ಮುದ್ರಿತ |
+| 94 | ` — the very same royal publication series backing the Rigveda Samhita volume being transla` → `` | SECOND-PASS S16: Not in the Kannada p.94 |
+| 94 | `belong to that Purvabhaga (earlier section) of the Purana` → `are in the second part of this work (the Purana)` | SECOND-PASS S14: Kannada p.94: ಈ ಗ್ರಂಥವಾದ ಎರಡನೆಯ ಭಾಗದಲ್ಲಿರುವುದು |
+| 95 | `In the 29th chapter of the Vāyu Purāṇa` → `In the 26th chapter of the Vāyu Purāṇa` | SECOND-PASS S1: Kannada p.95 ವಾಯುಪುರಾಣದ ೨೬ನೆಯ ಅಧ್ಯಾಯ |
+| 96 | `Mahidāsa uses the word` → `Ananta (in the former) and Mahidāsa (in the latter) use the word` | SECOND-PASS S17: Kannada p.96 ಅನಂತ ಮತ್ತು ... ಮಹಿದಾಸನು |
+| 96 | `is given later in the bhāṣya` → `is given by Ananta in the bhāṣya` | SECOND-PASS S17: Kannada p.96 ಅನಂತರು ಪ್ರತಿಜ್ಞಾಸೂತ್ರದ ಭಾಷ್ಯದಲ್ಲಿ ಕೊಟ್ಟಿರುತ್ತಾರೆ |
+| 96 | `वामुदेव` → `नामदेव` | SECOND-PASS S7: Kannada p.96 ನಾಮದೇವ |
+| 96 | `vāmudeva` → `nāmadeva` | SECOND-PASS S7: IAST partner |
+| 96 | `Vāmudeva` → `Nāmadeva` | SECOND-PASS S7: translation partner |
+| 96 | `भद्रंजयु` → `भद्रंजय` | SECOND-PASS S7: Kannada p.96 ಭದ್ರಂಜಯ |
+| 96 | `bhadraṃjayu` → `bhadraṃjaya` | SECOND-PASS S7: IAST partner |
+| 96 | `Bhadraṃjayu` → `Bhadraṃjaya` | SECOND-PASS S7: translation partner |
+| 98 | `तेंतिलाः` → `तंतिलाः` | SECOND-PASS S7: Kannada p.98 ತಂತಿಲಾಃ |
+| 98 | `Teṃtilāḥ` → `Taṃtilāḥ` | SECOND-PASS S7: IAST partner |
+| 98 | `खैवताः` → `खेटवाः` | SECOND-PASS S7: Kannada p.98 ಖೇಟವಾಃ |
+| 98 | `Khaivatāḥ` → `Kheṭavāḥ` | SECOND-PASS S7: IAST partner |
+| 98 | `the Khaivata island region` → `the Khaivaṭa island region` | SECOND-PASS S13: Kannada p.98 ಖೈವಟದ್ವೀಪದೇಶ |
+| 99 | `टौनकाः` → `टानकाः` | SECOND-PASS S7: Kannada p.99 ಟಾನಕಾಃ |
+| 99 | `Ṭaunakāḥ` → `Ṭānakāḥ` | SECOND-PASS S7: IAST partner |
+| 99 | `कारुण्वेयाः` → `कारुण्वीयाः` | SECOND-PASS S7: Kannada p.99 ಕಾರುಣ್ವೀಯಾಃ |
+| 99 | `Kāruṇveyāḥ` → `Kāruṇvīyāḥ` | SECOND-PASS S7: IAST partner |
+| 99 | `भृङ्गजाः` → `शृङ्गजाः` | SECOND-PASS S7: Kannada p.99 ಶೃಂಗಜಾಃ ಶೃಂಗದೇಶ |
+| 99 | `Bhṛṅgajāḥ` → `Śṛṅgajāḥ` | SECOND-PASS S7: IAST partner |
+| 99 | `the Bhṛṅga country` → `the Śṛṅga country` | SECOND-PASS S13: Kannada p.99 ಶೃಂಗದೇಶ |
+| 99 | `ऊर्ध्वशृङ्गजाः` → `ऊर्ध्वाङ्गजाः` | SECOND-PASS S7: Kannada p.99 ಊರ್ಧ್ವಾಂಗಜಾಃ |
+| 99 | `Ūrdhvaśṛṅgajāḥ` → `Ūrdhvāṅgajāḥ` | SECOND-PASS S7: IAST partner |
+| 100 | `| 2 | कठाः` → `| 3 | कठाः` | SECOND-PASS S1: Kannada p.100 prints ೩ for this row (second ೩ in the list) |
+| 100 | `पिञ्जुलकठाः` → `पिञ्जुलककठाः` | SECOND-PASS S7: Kannada p.100 ಪಿಂಜುಲಕಕಠಾಃ (IAST of the English already has -kaka-) |
+| 100 | `जृम्भकठाः` → `जृम्भककठाः` | SECOND-PASS S7: Kannada p.100 ಜೃಂಭಕಕಠಾಃ |
+| 100 | `Audalakakaṭhāḥ` → `Audalakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Sapicchalakakaṭhāḥ` → `Sapicchalakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Mudgalakakaṭhāḥ` → `Mudgalakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Śṛgalakakaṭhāḥ` → `Śṛgalakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Saubharakakaṭhāḥ` → `Saubharakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Maurasakakaṭhāḥ` → `Maurasakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Cañcukakaṭhāḥ` → `Cañcukaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Yogakakaṭhāḥ` → `Yogakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Hasalakakaṭhāḥ` → `Hasalakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Dausalakakaṭhāḥ` → `Dausalakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 100 | `Ghoṣakakaṭhāḥ` → `Ghoṣakaṭhāḥ` | SECOND-PASS S7: IAST made to agree with the Devanagari and Kannada p.100 (no second ka) |
+| 101 | `the Karagna region` → `the Karaghna Yavana country` | SECOND-PASS S13: Kannada p.101 ಕರಘ್ನ ಯವನದೇಶ |
+| 101 | `the Kathagna region` → `the Kaṭhaghna Yavana country` | SECOND-PASS S13: Kannada p.101 ಕಠಘ್ನ ಯವನದೇಶ |
+| 101 | `the Kapilakathagni region` → `the Kapila-Karaghna Yavana country` | SECOND-PASS S13: Kannada p.101 ಕಪಿಲಕರಘ್ನ ಯವನದೇಶ |
+| 102 | `ताम्रायणेयाः` → `ताम्रायणीयाः` | SECOND-PASS S7: Kannada p.102 ತಾಮ್ರಾಯಣೀಯಾಃ |
+| 102 | `tāmrāyaṇeyāḥ` → `tāmrāyaṇīyāḥ` | SECOND-PASS S7: IAST partner |
+| 102 | `Tāmrāyaṇeyas` → `Tāmrāyaṇīyas` | SECOND-PASS S7: translation partner |
+| 102 | `पौष्याः` → `हौष्याः` | SECOND-PASS S7: Kannada p.102 ಹೌಷ್ಯಾಃ |
+| 102 | `pauṣyāḥ` → `hauṣyāḥ` | SECOND-PASS S7: IAST partner |
+| 102 | `Pauṣyas` → `Hauṣyas` | SECOND-PASS S7: translation partner |
+| 102 | `भौष्याः` → `धौष्याः` | SECOND-PASS S7: Kannada p.102 ಧೌಷ್ಯಾಃ |
+| 102 | `bhauṣyāḥ` → `dhauṣyāḥ` | SECOND-PASS S7: IAST partner |
+| 102 | `Bhauṣyas` → `Dhauṣyas` | SECOND-PASS S7: translation partner |
+| 104 | `॥२१॥` → `॥७१॥` | SECOND-PASS S1: Kannada p.104 verse number ೭೧ |
+| 104 | `||21||` → `||71||` | SECOND-PASS S1: IAST partner |
+| 104 | `सकल्पैर्युतम्` → `सकलैर्युतं` | SECOND-PASS S7: Kannada p.104 ಸಕಲೈರ್ಯುತಂ |
+| 104 | `sakalpair yutam` → `sakalair yutaṃ` | SECOND-PASS S7: IAST partner |
+| 104 | `the meanings of the Veda and with its rites` → `all the meanings of the Veda` | SECOND-PASS S14: Kannada ವೇದಾರ್ಥೈಃ ಸಕಲೈರ್ಯುತಂ |
+| 105 | `Dvimīḍha` → `Dvijamīḍha` | SECOND-PASS S13: Kannada p.105 ದ್ವಿಜಮೀಢ |
+| 105 | `वृषिताश्वसुतश्चापि राजा विश्वसहः किल ॥२०७॥` → `व्युषिताश्वसुतश्चापि राजा विश्वसहः किल ॥२०६॥` | SECOND-PASS S7: Kannada p.105 ವ್ಯುಷಿತಾಶ्ವಸುತಶ್ಚಾಪಿ ... ॥ ೨೦೬ ॥ |
+| 105 | `vṛṣitāśva-sutaś cāpi rājā viśvasahaḥ kila ||207||` → `vyuṣitāśva-sutaś cāpi rājā viśvasahaḥ kila ||206||` | SECOND-PASS S7: IAST partner |
+| 105 | `प्राच्येषु सामसु ॥२०८॥` → `प्राच्येषु सामसु ॥२०७॥` | SECOND-PASS S1: Kannada p.105 verse number ೨೦೭ |
+| 105 | `prācyeṣu sāmasu ||208||` → `prācyeṣu sāmasu ||207||` | SECOND-PASS S1: IAST partner |
+| 105 | `धीमता ॥२०६॥` → `धीमता ॥२०८॥` | SECOND-PASS S1: Kannada p.105 verse number ೨೦೮ |
+| 105 | `dhīmatā ||206||` → `dhīmatā ||208||` | SECOND-PASS S1: IAST partner |
+| 105 | `The son of Vṛṣitāśva too` → `The son of Vyuṣitāśva too` | SECOND-PASS S13: Kannada p.105 ವ್ಯುಷಿತಾಶ್ವ |
+| 105 | `(The verse numbers are 207–209.)` → `(The verse numbers are 206–208.)` | SECOND-PASS S1: Kannada p.105 ೨೦೬, ೨೦೭, ೨೦೮ |
+| 106 | `he is a descendant twelve generations after Bṛhadbala` → `he is twelve generations earlier than Bṛhadbala` | SECOND-PASS S14: Kannada p.106 ಬೃಹದ್ಬಲನಿಗಿಂತಲೂ ಹನ್ನೆರಡು ತಲೆ ಹಿಂದಿನವನಾಗುತ್ತಾನೆ |
+| 106 | `In the 129th chapter of the Nāgara-khaṇḍa` → `In the 12th chapter of the Nāgara-khaṇḍa` | SECOND-PASS S1: Kannada p.106 ನಾಗರಖಂಡದ ೧೨ನೆಯ ಅಧ್ಯಾಯ |
+| 106 | `chapter 4 [?; the numeral is unclear]` → `chapter 4` | SECOND-PASS S3: Kannada p.106 ಸಭಾಪರ್ವದ ಅಧ್ಯಾಯ ೪ |
+| 107 | `(chapter [numeral unclear])` → `(chapter 72)` | SECOND-PASS S3: Kannada p.107 ಸಭಾಪರ್ವದ ೭೨ನೆಯ ಅಧ್ಯಾಯ |
+| 108 | `chapters 35–35` → `chapters 33–35` | SECOND-PASS S1: Kannada p.108 ೩೩-೩೫ ಅಧ್ಯಾಯಗಳನ್ನು |
+| 109 | `*daivarāta*, it seems` → `*daivarātiṃ*, it seems` | SECOND-PASS S14: Kannada p.109 ದೈವರಾತಿಂ ಎಂದಿರಬೇಕು |
+| 110 | `पाराशराः वैणेयाः` → `पाराशराः वैणीयाः` | SECOND-PASS S7: Kannada p.110 ಪಾರಾಶರಾಃ ವೈಣೀಯಾಃ |
+| 110 | `pārāśarāḥ vaiṇeyāḥ` → `pārāśarāḥ vaiṇīyāḥ` | SECOND-PASS S7: IAST partner |
+| 110 | `Pārāśaras, Vaiṇeyas` → `Pārāśaras, Vaiṇīyas` | SECOND-PASS S7: translation partner |
+| 110 | `श्यानाः` → `श्यामाः` | SECOND-PASS S7: Kannada p.110 ಶ್ಯಾಮಾಃ |
+| 110 | `śyānāḥ` → `śyāmāḥ` | SECOND-PASS S7: IAST partner |
+| 110 | `Śyānas` → `Śyāmas` | SECOND-PASS S7: translation partner |
+| 111 | `सापत्क्यः` → `सापत्यः` | SECOND-PASS S7: Kannada p.111 ಸಾಪತ್ಯಃ |
+| 111 | `ताम्रायणेयाः` → `ताम्रायणश्च` | SECOND-PASS S7: Kannada p.111 table ತಾಮ್ರಾಯಣಶ್ಚ |
+| 111 | `आवटे | आवटे | आवटे` → `आवटी | आवटी | आवटी` | SECOND-PASS S7: Kannada p.111 table ಆವಟೀ |
+| 111 | `नैनेयाः | वैनेयाः` → `नैनेयाः | नैनेयाः` | SECOND-PASS S7: Kannada p.111 table ನೈನೇಯಾಃ |
+| 111 | `पारायणः` → `परायणः` | SECOND-PASS S7: Kannada p.111 table ಪರಾಯಣಃ |
+| 112 | `in the 112th fascicle of the work` → `on page 112 of the work` | SECOND-PASS S14: Kannada p.112 ೧೧೨ನೆಯ ಪುಟದಲ್ಲಿ |
+| 112 | `दक्षिणपूर्वेद्वारे` → `दक्षिणपूर्वद्वारे` | SECOND-PASS S7: Kannada p.112 ದಕ್ಷಿಣಪೂರ್ವದ್ವಾರೇ |
+| 112 | `dakṣiṇa-pūrve-dvāre` → `dakṣiṇa-pūrva-dvāre` | SECOND-PASS S7: IAST partner |
+| 113 | `an edition of the Brāhmaṇa of the Kāṇva branch, revised (*parishkṛta*), was printed` → `an edition revised (*parishkṛta*) by Brāhmaṇas of the Kāṇva branch was printed` | SECOND-PASS S14: Kannada p.113 ಕಾಣ್ವಶಾಖೆಯ ಬ್ರಾಹ್ಮಣರಿಂದ ಪರಿಷ್ಕೃತವಾದ ಒಂದು ಸಂಸ್ಕರಣ |
+| 113 | `| 2 | 7 | 60 |` → `| 2 | 3 | 60 |` | SECOND-PASS S1: Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv) |
+| 113 | `| 9 | 7 | 46 |` → `| 9 | 3 | 46 |` | SECOND-PASS S1: Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv) |
+| 113 | `| 12 | 7 | 85 |` → `| 12 | 3 | 85 |` | SECOND-PASS S1: Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv) |
+| 113 | `| 13 | 7 | 116 |` → `| 13 | 3 | 116 |` | SECOND-PASS S1: Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv) |
+| 113 | `| 14 | 7 | 65 |` → `| 14 | 3 | 65 |` | SECOND-PASS S1: Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv) |
+| 113 | `| 16 | 7 | 85 |` → `| 16 | 3 | 85 |` | SECOND-PASS S1: Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv) |
+| 113 | `| 18 | 7 | 86 |` → `| 18 | 3 | 86 |` | SECOND-PASS S1: Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv) |
+| 113 | `| **Total** | **76** | **672** |` → `| **Total** | **36** | **672** |` | SECOND-PASS S1: Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv) |
+| 114 | `| 25 | 10 | 67 |` → `| 25 | 11 | 67 |` | SECOND-PASS S1: Kannada p.114 ೧೧ |
+| 114 | `| 29 | 6 | 50 |` → `| 29 | 6 | 51 |` | SECOND-PASS S1: Kannada p.114 ೫೧ |
+| 117 | `| 18 | 13 | 77 | 36 | 368 |` → `| 18 | 13 | 33 | 36 | 368 |` | SECOND-PASS S1: Kannada p.117 ೩೩ |
+| 117 | `| 30 | 2 | 22 | 3 | 177 |` → `| 30 | 2 | 22 | 3 | 122 |` | SECOND-PASS S1: Kannada p.117 ೧೨೨ |
+| 118 | `adhyāya 3, sūtra 45` → `adhyāya 3, sūtra 43` | SECOND-PASS S1: Kannada p.118 ಸೂತ್ರ ೪೩ |
+| 118 | `सप्तद्वीपवशीभूमिर्` → `सप्तद्वीपवतीभूमिर्` | SECOND-PASS S7: Kannada p.118 ಸಪ್ತದ್ವೀಪವತೀಭೂಮಿರ್ |
+| 118 | `sapta-dvīpa-vaśī-bhūmir` → `sapta-dvīpa-vatī-bhūmir` | SECOND-PASS S7: IAST partner |
+| 118 | `the earth in one's power, with its seven dvīpas` → `the earth with its seven dvīpas` | SECOND-PASS S14: Kannada ಸಪ್ತದ್ವೀಪವತೀಭೂಮಿ |
+| 119 | `3?th khaṇḍa` → `23rd khaṇḍa` | SECOND-PASS S3: Kannada p.119 ೨೩ನೆಯ ಖಂಡ |

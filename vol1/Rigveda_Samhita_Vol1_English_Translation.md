@@ -2064,39 +2064,39 @@ That is: among the Rigveda's 21 shakhas, Ashvalayana, Aitareya, and others are c
 
 **The Aitareya Shakhas and the Nine-Shraddha Question:** Devanabhatta's *Smriti-chandrika* and a related citation (attributed to Shivaswami) preserve variant readings of a verse on how many types of Nava-shraddha (ancestral rites) different shakhas recognize:
 
-> नवश्राद्धानि षडाहुराश्वलायनशाखिनः । आपस्तम्बाश्च दित्याहुः पञ्चभिः षड्भिरैतरेयिणः ॥
+> नवश्राद्धानि पञ्चाहुराश्वलायनशाखिनः । आपस्तम्बाश्च दित्याहुः पञ्चभिः षड्भिरैतरेयिणः ॥
 >
-> "Ashvalayana-shakha followers say the nine shraddhas number six; the Apastamba followers likewise say six; the Aitareyins reckon them, with some flexibility, as five or six."
+> "Ashvalayana-shakha followers say the nine shraddhas number five; the Apastamba followers say six; the Aitareyins reckon them, with some flexibility, as five or six."
 
 Since this distinctly Aitareya view doesn't appear in known Ashvalayana texts, the author raises — without resolving — the question of what independent Aitareya text this view might originally have come from.
 
 ### 2. The Vashishtha Shakha
 
-Bühler edited and published the Vasishtha-Dharmasutra as Rigveda-related, though which specific shakha it belongs to remains unclear. Kumarilabhatta's Tantravartika (1-3-11) — cited earlier regarding the Bahvricha shakha's use of this same text — is revisited here in more detail...
+Bühler edited and published the Vasishtha-Dharmasutra as Rigveda-related, though which specific shakha it belongs to remains unclear. Kumarilabhatta's Tantravartika (1-3-11) writes as follows:
 
 
 ### Page 92
 
-> गृह्येन वै परिगृह्येते । वासिष्ठं बह्वृचैरेव । कम्बिलिशकोक्तं वै वाजसनेयिभिः । आपस्तम्बोधायनीये कृत्तिरीयैरेव प्रतिश्यसे इत्येवम् ॥
+> गैरेव च परिगृह्येते । वासिष्ठं बह्वृचैरेव । शङ्खलिखितोक्तं च वाजसनेयिभिः । आपस्तम्बबोधायनीये तैत्तिरीयैरेव प्रतिपन्ने इत्येवम् ॥
 >
-> "...are each adopted through their own Grihya[-text]. The Vashishtha [text] is used only by the Bahvrichas; the Kambilishaka-prescribed [text] by the Vajasaneyins; the Apastamba and Baudhayana [texts] only by the Taittiriyas..."
+> "...are each adopted through their own Grihya[-text]. The Vashishtha [text] is used only by the Bahvrichas; the Shankhalikhita-prescribed [text] by the Vajasaneyins; the Apastamba and Baudhayana [texts] only by the Taittiriyas..."
 
-That is: just as Pratishakhyas differ by shakha, so do Grihyasutras — Samaveda followers use the Gautama and Gobhila sutras; Bahvricha-shakha followers (i.e., Rigvedins) use the Vashishtha-sutra; Vajasaneyins use the Kambilishaka material; and Taittiriya-shakha followers use the Apastamba and Baudhayana sutras. If Kumarila is right that the Bahvricha shakha is genuinely distinct, this confirms the Vashishtha tradition's specific association with it — though the Vasishtha Shrauta- and Grihyasutras themselves still merit closer investigation.
+That is: just as Pratishakhyas differ by shakha, so do Grihyasutras — Samaveda followers use the Gautama and Gobhila sutras; Bahvricha-shakha followers (i.e., Rigvedins) use the Vashishtha-sutra; Vajasaneyins use the Shankhalikhita material; and Taittiriya-shakha followers use the Apastamba and Baudhayana sutras. If Kumarila is right that the Bahvricha shakha is genuinely distinct, this confirms the Vashishtha tradition's specific association with it — though the Vasishtha Shrauta- and Grihyasutras themselves still merit closer investigation.
 
 That is, the Vasishtha shakha has 152514 words; in that Samhita the 23rd varga of the third adhyaya of the third Ashtaka, beginning "Indrotibhih," is absent, and that varga's word-count is 71 — confirming that the **Vasishtha shakha was indeed treated as a genuinely distinct branch.**
 
 ### 3. The Sulabha Shakha
 
-Attested in the Vyakarana-Mahabhashya (4-2-66 and 4-3-105) via a grammatical rule for rishi-derived names, giving forms like "Sulabhaishcheya," "Sulabha," and "Maitreya" — connected to a Rigveda-linked Brahmin lineage, though whether this corresponds to a specific "Shaulabha-Brahmana" text remains a matter for further investigation.
+Attested in the Vyakarana-Mahabhashya (4-2-66 and 4-3-105); that Brahmana belonged to the Rigveda, as the Rishi-tarpana section of Ashvalayana shows, where the names Sulabha-Maitreyi (or Sulabha and Maitreyi) are written. Whether the lady Sulabha had any connection with this Brahmana, or whether some special teaching of Sulabha in a Brahmana text led to that part being called the Saulabha-Brahmana, is open to inquiry.
 
 ### 4. The Shaunaka Shakha
 
-The sage Shaunaka, though a Brahmarshi renowned for conducting many long sacrificial sessions, was not himself primarily devoted to the path of ritual action. One of his disciples was Ashvalayana. Tradition places him in connection with the Mahabharata's account of King Janamejaya's snake-sacrifice (Sarpa-yaga), during which the terrible story [of the Mahabharata itself] was first recounted.
+The sage Shaunaka was a resident of Naimisharanya; great sacrifices were performed in his hermitage, and for this reason he was called Bahvricha-simha (lion among the Bahvrichas). One of his disciples was Ashvalayana. According to the Mahabharata story, Ugrashravas told this after Janamejaya had performed the snake-sacrifice (Sarpa-satra).
 
 
 ### Page 93
 
-Shaunaka himself is not counted as a Rigveda shakha-*founder* as such, but rather as a broader teaching authority — Ashvalayana being his disciple, and himself citing a Rigveda-shakha sutra as his own guru's work. Beyond establishing this much, no further questions about this particular shakha can be resolved here.
+In the Prapancha-hridaya a Rigveda shakha called Shaunaka is written of. In the second and fourth chapters of the Ananda-samhita of the Vaikhanasa tradition a Shaunakiya sutra of the Rigveda, different from Ashvalayana's, is also quoted. Nothing more than this can be said about this shakha.
 
 ## Summary — All the Rigveda Shakhas Discussed in This Chapter
 
@@ -2111,7 +2111,7 @@ Shaunaka himself is not counted as a Rigveda shakha-*founder* as such, but rathe
 7. Agnimatara Shakha
 8. Parashara Shakha
 9. Jatukarnya Shakha
-&nbsp;&nbsp;&nbsp;&nbsp;*— these four are the Bashkala shakhas*
+
 
 10. Ashvalayana Shakha
 
@@ -2119,7 +2119,7 @@ Shaunaka himself is not counted as a Rigveda shakha-*founder* as such, but rathe
 12. Kaushitaki Shakha
 13. Mahakaushitaki Shakha
 14. Shambavya Shakha
-&nbsp;&nbsp;&nbsp;&nbsp;*— these four are the Sankhyayana-group shakhas*
+
 
 15. Mandukeya Shakha
 16. Bahvricha Shakha
@@ -2127,7 +2127,7 @@ Shaunaka himself is not counted as a Rigveda shakha-*founder* as such, but rathe
 18. Uddalaka = Gautama = Aruna Shakha
 19. Shatabalaksha Shakha
 20. Gaja = Hastika Shakha
-21–23. The three Bashkali-Bharadvaja shakhas (Apanishena, Pannagari, Arjuna)
+21–23. The three Bashkali-Bharadvaja shakhas (Apanisha, Pannagari, Arjava)
 24. Aitareya Shakha
 25. Vashishtha Shakha
 26. Sulabha Shakha
@@ -2136,9 +2136,9 @@ Shaunaka himself is not counted as a Rigveda shakha-*founder* as such, but rathe
 
 ### Page 94
 
-The Vyakarana-Mahabhashya states the Rigveda has 21 shakhas, yet the list just compiled runs to roughly 26–27 names. The author reconciles this by suggesting that some of the additionally-identified names should properly be understood as sub-divisions nested within the main twenty, rather than fully independent branches — though confirming exactly which ones is not straightforward given the limited evidence currently available: the six extra shakhas must be included within some of the others, and the first nine names and names 11–13 are settled. The Anubhashya's citation from the Skanda Purana, and a separate account in the Anandasamhita, both give the figure 24 Rigveda shakhas — suggesting either that a few names in the present list are duplicates/overlaps counted separately, or that all these sources made their count on a broadly similar (if not perfectly reconcilable) basis. Neither possibility, the author notes, would be especially surprising.
+The Vyakarana-Mahabhashya states the Rigveda has 21 shakhas, yet the list just compiled runs to 27 names. The author reconciles this by suggesting that some of the additionally-identified names should properly be understood as sub-divisions nested within the main twenty-one, rather than fully independent branches — though confirming exactly which ones is not straightforward given the limited evidence currently available: the six extra shakhas must be included within some of the others, and the first nine names and names 11–13 are settled. The Anubhashya's citation from the Skanda Purana, and a separate account in the Anandasamhita, both give the figure 24 Rigveda shakhas — suggesting either that a few names in the present list are duplicates/overlaps counted separately, or that all these sources made their count on a broadly similar (if not perfectly reconcilable) basis. Neither possibility, the author notes, would be especially surprising.
 
-**Footnote:** The Brahmanda Purana's earlier section (chapters 33-35) treats the division of the Veda, the names of Vedic shakhas, and the shakha-founders connected to the Shukla Yajurveda and Vajasaneya-Samhita at much greater length than could be included here — what appears in this chapter is only a focused extract, gathered and gone into in detail specifically where it bears on Rigveda shakha-founders. **This Brahmanda Purana has itself been published, with a detailed introduction, as part of the "Sri Jayachamarajendra Grantharatnamala" series** (see the list of Books published by Palace Authorities, Mysore) — the very same royal publication series backing the Rigveda Samhita volume being translated here. Chapters 33-35 referenced throughout this chapter belong to that Purvabhaga (earlier section) of the Purana.
+**Footnote:** The Brahmanda Purana's earlier section (chapters 33-35) treats the division of the Veda, the names of Vedic shakhas, and the shakha-founders connected to the Shukla Yajurveda and Vajasaneya-Samhita at much greater length than could be included here — what appears in this chapter is only a focused extract, gathered and gone into in detail specifically where it bears on Rigveda shakha-founders. **This Brahmanda Purana has itself been published, with Kannada explanations, as part of the "Sri Jayachamarajendra Grantharatnamala" series** (see the list of Books published by Palace Authorities, Mysore). Chapters 33-35 referenced throughout this chapter are in the second part of this work (the Purana).
 
 ---
 

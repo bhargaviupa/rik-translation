@@ -483,3 +483,141 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 88	H29	R6	Kalpa-sutra name of Shakapurni disciple	ಹಾಸ್ಯಿಕ / ಹಾಸ್ತಿಕಂ / ಹಾಸಿತಕಲ್ಪ		Kannada has three forms (Hasyika, Hastikam, Hasitaka); English has Hrasvika and Hastika-Kalpa (uncertain) (see questions.tsv)	question	
 89	H29	R6	Brahmanda verse of Bashkali Bharadvaja	ತ್ರಯಸ್ತಸ್ಯಾಭವಞ್ಷ್ಯಾ		Kannada misprint ಭವಞ್ಷ್ಯಾ (non-word); English Devanagari has भवन्तीष्ट्या (uncertain) (see questions.tsv)	question	
 90	H29	R6	Devanagari variants list and the Bhartrihari quotation	ಆರ್ಯವ ಕಥಾಜವ ತಥಾಜವ ಕಾಸಾರ; ಬಾಹ್ವೃಜ್ಯಂ		The two identical Devanagari lines आर्व्व । कथाजन । तथाजन । कासार and the IAST line differ from the Kannada (आर्यव, कथाजव, तथाजव, कासार); Kannada ಬಾಹ್ವೃಜ್ಯಂ is a misprint, English has बाह्वृच्यम् (certain) (see questions.tsv)	question	
+91	S14	R1	number six; the Apastamba followers likewise say s	number six; the Apastamba followers likewise say six	number five; the Apastamba followers say six	Kannada p.91: Ashvalayana-shakha followers say five, Apastamba followers six	applied	
+91	S7	R3	षडाहुराश्वलायनशाखिनः	षडाहुराश्वलायनशाखिनः	पञ्चाहुराश्वलायनशाखिनः	Kannada p.91 ಪಂಚಾಹುರಾಶ್ವಲಾಯನಶಾಖಿನಃ: षडाहुः -> पञ्चाहुः	applied	
+91	S16	R1	— cited earlier regarding the Bahvricha shakha's u	— cited earlier regarding the Bahvricha shakha's use of this same text — is revisited here in more detail...	writes as follows:	Kannada p.91: Kumarila wrote in his Tantravartika (1-3-11) thus; the English clause about an earlier citation is not in the Kannada	applied	
+92	S13	R1	the Kambilishaka-prescribed [text]	the Kambilishaka-prescribed [text]	the Shankhalikhita-prescribed [text]	Kannada p.92 ಶಂಖಲಿಖಿತೋಕ್ತಂ	applied	
+92	S13	R1	use the Kambilishaka material	use the Kambilishaka material	use the Shankhalikhita material	Kannada p.92 ಶಂಖಲಿಖಿತಸೂತ್ರಗಳನ್ನೂ	applied	
+92	S7	R3	गृह्येन वै परिगृह्येते	गृह्येन वै परिगृह्येते	गैरेव च परिगृह्येते	Kannada pp.91-92 ಗೈರೇವ ಚ ಪರಿಗೃಹ್ಯೇತೇ (छन्दोगैरेव च ... at the page break)	applied	
+92	S7	R3	कम्बिलिशकोक्तं वै वाजसनेयिभिः	कम्बिलिशकोक्तं वै वाजसनेयिभिः	शङ्खलिखितोक्तं च वाजसनेयिभिः	Kannada p.92 ಶಂಖಲಿಖಿತೋಕ್ತಂ ಚ ವಾಜಸನೇಯಿಭಿಃ	applied	
+92	S7	R3	आपस्तम्बोधायनीये कृत्तिरीयैरेव प्रतिश्यसे	आपस्तम्बोधायनीये कृत्तिरीयैरेव प्रतिश्यसे	आपस्तम्बबोधायनीये तैत्तिरीयैरेव प्रतिपन्ने	Kannada p.92 ಆಪಸ್ತಂಬಬೋಧಾಯನೀಯೇ ತೈತ್ತಿರೀಯೈರೇವ ಪ್ರತಿಪನ್ನೇ	applied	
+92	S16	R1	 via a grammatical rule for rishi-derived names, g	 via a grammatical rule for rishi-derived names, giving forms like "Sulabhaishcheya," "Sulabha," and "Maitreya" — connected to a Rigveda-linked Brahmin lineage,	; that Brahmana belonged to the Rigveda, as the Rishi-tarpana section of Ashvalayana shows, where the names Sulabha-Maitreyi (or Sulabha and Maitreyi) are writt	Kannada p.92: no grammatical rule or forms; Rishi-tarpana of Ashvalayana names Sulabha-Maitreyi; the question is posed as in the Kannada	applied	
+92	S14	R1	The sage Shaunaka, though a Brahmarshi renowned fo	The sage Shaunaka, though a Brahmarshi renowned for conducting many long sacrificial sessions, was not himself primarily devoted to the path of ritual action.	The sage Shaunaka was a resident of Naimisharanya; great sacrifices were performed in his hermitage, and for this reason he was called Bahvricha-simha (lion amo	Kannada p.92: Naimisharanya resident, great yajnas in his ashrama, hence Bahvrichasimha; the English says the opposite	applied	
+92	S14	R1	Tradition places him in connection with the Mahabh	Tradition places him in connection with the Mahabharata's account of King Janamejaya's snake-sacrifice (Sarpa-yaga), during which the terrible story [of the Mah	According to the Mahabharata story, Ugrashravas told this after Janamejaya had performed the snake-sacrifice (Sarpa-satra).	Kannada p.92: Janamejaya Sarpasatra, afterwards Ugrashravas told it	applied	
+93	S14	R1	Shaunaka himself is not counted as a Rigveda shakh	Shaunaka himself is not counted as a Rigveda shakha-*founder* as such, but rather as a broader teaching authority — Ashvalayana being his disciple, and himself 	In the Prapancha-hridaya a Rigveda shakha called Shaunaka is written of. In the second and fourth chapters of the Ananda-samhita of the Vaikhanasa tradition a S	Kannada p.93: Prapanchahridaya names a Shaunaka shakha; Anandasamhita ch. 2 and 4 quote a Shaunakiya sutra distinct from Ashvalayana; nothing more can be said	applied	
+93	S16	R1	&nbsp;&nbsp;&nbsp;&nbsp;*— these four are the Bash	&nbsp;&nbsp;&nbsp;&nbsp;*— these four are the Bashkala shakhas*		Kannada p.93 has no such grouping remark after item 9	applied	
+93	S16	R1	&nbsp;&nbsp;&nbsp;&nbsp;*— these four are the Sank	&nbsp;&nbsp;&nbsp;&nbsp;*— these four are the Sankhyayana-group shakhas*		Kannada p.93 has no such grouping remark after item 14 (it says: these five are Shakala shakhas)	applied	
+93	S13	R1	(Apanishena, Pannagari, Arjuna)	(Apanishena, Pannagari, Arjuna)	(Apanisha, Pannagari, Arjava)	Kannada p.93 ಆಪನೀಷ, ಪನ್ನಗಾರಿ, ಆರ್ಜವ	applied	
+94	S3	R1	runs to roughly 26–27 names	runs to roughly 26–27 names	runs to 27 names	Kannada p.94: ಒಟ್ಟು ೨೭	applied	
+94	S3	R1	nested within the main twenty,	nested within the main twenty,	nested within the main twenty-one,	Kannada p.94: Mahabhashya says 21 shakhas; six extra of 27	applied	
+94	S13	R1	with a detailed introduction	with a detailed introduction	with Kannada explanations	Kannada p.94 ಕನ್ನಡ ಅರ್ಥ ವಿವರಣೆಗಳೊಡನೆ ಮುದ್ರಿತ	applied	
+94	S16	R1	 — the very same royal publication series backing 	 — the very same royal publication series backing the Rigveda Samhita volume being translated here		Not in the Kannada p.94	applied	
+94	S14	R1	belong to that Purvabhaga (earlier section) of the	belong to that Purvabhaga (earlier section) of the Purana	are in the second part of this work (the Purana)	Kannada p.94: ಈ ಗ್ರಂಥವಾದ ಎರಡನೆಯ ಭಾಗದಲ್ಲಿರುವುದು	applied	
+95	S1	R1	In the 29th chapter of the Vāyu Purāṇa	In the 29th chapter of the Vāyu Purāṇa	In the 26th chapter of the Vāyu Purāṇa	Kannada p.95 ವಾಯುಪುರಾಣದ ೨೬ನೆಯ ಅಧ್ಯಾಯ	applied	
+96	S17	R1	Mahidāsa uses the word	Mahidāsa uses the word	Ananta (in the former) and Mahidāsa (in the latter) use the word	Kannada p.96 ಅನಂತ ಮತ್ತು ... ಮಹಿದಾಸನು	applied	
+96	S17	R1	is given later in the bhāṣya	is given later in the bhāṣya	is given by Ananta in the bhāṣya	Kannada p.96 ಅನಂತರು ಪ್ರತಿಜ್ಞಾಸೂತ್ರದ ಭಾಷ್ಯದಲ್ಲಿ ಕೊಟ್ಟಿರುತ್ತಾರೆ	applied	
+96	S7	R3	वामुदेव	वामुदेव	नामदेव	Kannada p.96 ನಾಮದೇವ	applied	
+96	S7	R3	vāmudeva	vāmudeva	nāmadeva	IAST partner	applied	
+96	S7	R3	Vāmudeva	Vāmudeva	Nāmadeva	translation partner	applied	
+96	S7	R3	भद्रंजयु	भद्रंजयु	भद्रंजय	Kannada p.96 ಭದ್ರಂಜಯ	applied	
+96	S7	R3	bhadraṃjayu	bhadraṃjayu	bhadraṃjaya	IAST partner	applied	
+96	S7	R3	Bhadraṃjayu	Bhadraṃjayu	Bhadraṃjaya	translation partner	applied	
+98	S7	R3	तेंतिलाः	तेंतिलाः	तंतिलाः	Kannada p.98 ತಂತಿಲಾಃ	applied	
+98	S7	R3	Teṃtilāḥ	Teṃtilāḥ	Taṃtilāḥ	IAST partner	applied	
+98	S7	R3	खैवताः	खैवताः	खेटवाः	Kannada p.98 ಖೇಟವಾಃ	applied	
+98	S7	R3	Khaivatāḥ	Khaivatāḥ	Kheṭavāḥ	IAST partner	applied	
+98	S13	R1	the Khaivata island region	the Khaivata island region	the Khaivaṭa island region	Kannada p.98 ಖೈವಟದ್ವೀಪದೇಶ	applied	
+99	S7	R3	टौनकाः	टौनकाः	टानकाः	Kannada p.99 ಟಾನಕಾಃ	applied	
+99	S7	R3	Ṭaunakāḥ	Ṭaunakāḥ	Ṭānakāḥ	IAST partner	applied	
+99	S7	R3	कारुण्वेयाः	कारुण्वेयाः	कारुण्वीयाः	Kannada p.99 ಕಾರುಣ್ವೀಯಾಃ	applied	
+99	S7	R3	Kāruṇveyāḥ	Kāruṇveyāḥ	Kāruṇvīyāḥ	IAST partner	applied	
+99	S7	R3	भृङ्गजाः	भृङ्गजाः	शृङ्गजाः	Kannada p.99 ಶೃಂಗಜಾಃ ಶೃಂಗದೇಶ	applied	
+99	S7	R3	Bhṛṅgajāḥ	Bhṛṅgajāḥ	Śṛṅgajāḥ	IAST partner	applied	
+99	S13	R1	the Bhṛṅga country	the Bhṛṅga country	the Śṛṅga country	Kannada p.99 ಶೃಂಗದೇಶ	applied	
+99	S7	R3	ऊर्ध्वशृङ्गजाः	ऊर्ध्वशृङ्गजाः	ऊर्ध्वाङ्गजाः	Kannada p.99 ಊರ್ಧ್ವಾಂಗಜಾಃ	applied	
+99	S7	R3	Ūrdhvaśṛṅgajāḥ	Ūrdhvaśṛṅgajāḥ	Ūrdhvāṅgajāḥ	IAST partner	applied	
+100	S1	R1	| 2 | कठाः	| 2 | कठाः	| 3 | कठाः	Kannada p.100 prints ೩ for this row (second ೩ in the list)	applied	
+100	S7	R3	पिञ्जुलकठाः	पिञ्जुलकठाः	पिञ्जुलककठाः	Kannada p.100 ಪಿಂಜುಲಕಕಠಾಃ (IAST of the English already has -kaka-)	applied	
+100	S7	R3	जृम्भकठाः	जृम्भकठाः	जृम्भककठाः	Kannada p.100 ಜೃಂಭಕಕಠಾಃ	applied	
+100	S7	R3	Audalakakaṭhāḥ	Audalakakaṭhāḥ	Audalakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Sapicchalakakaṭhāḥ	Sapicchalakakaṭhāḥ	Sapicchalakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Mudgalakakaṭhāḥ	Mudgalakakaṭhāḥ	Mudgalakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Śṛgalakakaṭhāḥ	Śṛgalakakaṭhāḥ	Śṛgalakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Saubharakakaṭhāḥ	Saubharakakaṭhāḥ	Saubharakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Maurasakakaṭhāḥ	Maurasakakaṭhāḥ	Maurasakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Cañcukakaṭhāḥ	Cañcukakaṭhāḥ	Cañcukaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Yogakakaṭhāḥ	Yogakakaṭhāḥ	Yogakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Hasalakakaṭhāḥ	Hasalakakaṭhāḥ	Hasalakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Dausalakakaṭhāḥ	Dausalakakaṭhāḥ	Dausalakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+100	S7	R3	Ghoṣakakaṭhāḥ	Ghoṣakakaṭhāḥ	Ghoṣakaṭhāḥ	IAST made to agree with the Devanagari and Kannada p.100 (no second ka)	applied	
+101	S13	R1	the Karagna region	the Karagna region	the Karaghna Yavana country	Kannada p.101 ಕರಘ್ನ ಯವನದೇಶ	applied	
+101	S13	R1	the Kathagna region	the Kathagna region	the Kaṭhaghna Yavana country	Kannada p.101 ಕಠಘ್ನ ಯವನದೇಶ	applied	
+101	S13	R1	the Kapilakathagni region	the Kapilakathagni region	the Kapila-Karaghna Yavana country	Kannada p.101 ಕಪಿಲಕರಘ್ನ ಯವನದೇಶ	applied	
+102	S7	R3	ताम्रायणेयाः	ताम्रायणेयाः	ताम्रायणीयाः	Kannada p.102 ತಾಮ್ರಾಯಣೀಯಾಃ	applied	
+102	S7	R3	tāmrāyaṇeyāḥ	tāmrāyaṇeyāḥ	tāmrāyaṇīyāḥ	IAST partner	applied	
+102	S7	R3	Tāmrāyaṇeyas	Tāmrāyaṇeyas	Tāmrāyaṇīyas	translation partner	applied	
+102	S7	R3	पौष्याः	पौष्याः	हौष्याः	Kannada p.102 ಹೌಷ್ಯಾಃ	applied	
+102	S7	R3	pauṣyāḥ	pauṣyāḥ	hauṣyāḥ	IAST partner	applied	
+102	S7	R3	Pauṣyas	Pauṣyas	Hauṣyas	translation partner	applied	
+102	S7	R3	भौष्याः	भौष्याः	धौष्याः	Kannada p.102 ಧೌಷ್ಯಾಃ	applied	
+102	S7	R3	bhauṣyāḥ	bhauṣyāḥ	dhauṣyāḥ	IAST partner	applied	
+102	S7	R3	Bhauṣyas	Bhauṣyas	Dhauṣyas	translation partner	applied	
+104	S1	R1	॥२१॥	॥२१॥	॥७१॥	Kannada p.104 verse number ೭೧	applied	
+104	S1	R1	||21||	||21||	||71||	IAST partner	applied	
+104	S7	R3	सकल्पैर्युतम्	सकल्पैर्युतम्	सकलैर्युतं	Kannada p.104 ಸಕಲೈರ್ಯುತಂ	applied	
+104	S7	R3	sakalpair yutam	sakalpair yutam	sakalair yutaṃ	IAST partner	applied	
+104	S14	R1	the meanings of the Veda and with its rites	the meanings of the Veda and with its rites	all the meanings of the Veda	Kannada ವೇದಾರ್ಥೈಃ ಸಕಲೈರ್ಯುತಂ	applied	
+105	S13	R1	Dvimīḍha	Dvimīḍha	Dvijamīḍha	Kannada p.105 ದ್ವಿಜಮೀಢ	applied	
+105	S7	R3	वृषिताश्वसुतश्चापि राजा विश्वसहः किल ॥२०७॥	वृषिताश्वसुतश्चापि राजा विश्वसहः किल ॥२०७॥	व्युषिताश्वसुतश्चापि राजा विश्वसहः किल ॥२०६॥	Kannada p.105 ವ್ಯುಷಿತಾಶ्ವಸುತಶ್ಚಾಪಿ ... ॥ ೨೦೬ ॥	applied	
+105	S7	R3	vṛṣitāśva-sutaś cāpi rājā viśvasahaḥ kila ||207||	vṛṣitāśva-sutaś cāpi rājā viśvasahaḥ kila ||207||	vyuṣitāśva-sutaś cāpi rājā viśvasahaḥ kila ||206||	IAST partner	applied	
+105	S1	R1	प्राच्येषु सामसु ॥२०८॥	प्राच्येषु सामसु ॥२०८॥	प्राच्येषु सामसु ॥२०७॥	Kannada p.105 verse number ೨೦೭	applied	
+105	S1	R1	prācyeṣu sāmasu ||208||	prācyeṣu sāmasu ||208||	prācyeṣu sāmasu ||207||	IAST partner	applied	
+105	S1	R1	धीमता ॥२०६॥	धीमता ॥२०६॥	धीमता ॥२०८॥	Kannada p.105 verse number ೨೦೮	applied	
+105	S1	R1	dhīmatā ||206||	dhīmatā ||206||	dhīmatā ||208||	IAST partner	applied	
+105	S13	R1	The son of Vṛṣitāśva too	The son of Vṛṣitāśva too	The son of Vyuṣitāśva too	Kannada p.105 ವ್ಯುಷಿತಾಶ್ವ	applied	
+105	S1	R1	(The verse numbers are 207–209.)	(The verse numbers are 207–209.)	(The verse numbers are 206–208.)	Kannada p.105 ೨೦೬, ೨೦೭, ೨೦೮	applied	
+106	S14	R1	he is a descendant twelve generations after Bṛhadb	he is a descendant twelve generations after Bṛhadbala	he is twelve generations earlier than Bṛhadbala	Kannada p.106 ಬೃಹದ್ಬಲನಿಗಿಂತಲೂ ಹನ್ನೆರಡು ತಲೆ ಹಿಂದಿನವನಾಗುತ್ತಾನೆ	applied	
+106	S1	R1	In the 129th chapter of the Nāgara-khaṇḍa	In the 129th chapter of the Nāgara-khaṇḍa	In the 12th chapter of the Nāgara-khaṇḍa	Kannada p.106 ನಾಗರಖಂಡದ ೧೨ನೆಯ ಅಧ್ಯಾಯ	applied	
+106	S3	R1	chapter 4 [?; the numeral is unclear]	chapter 4 [?; the numeral is unclear]	chapter 4	Kannada p.106 ಸಭಾಪರ್ವದ ಅಧ್ಯಾಯ ೪	applied	
+107	S3	R1	(chapter [numeral unclear])	(chapter [numeral unclear])	(chapter 72)	Kannada p.107 ಸಭಾಪರ್ವದ ೭೨ನೆಯ ಅಧ್ಯಾಯ	applied	
+108	S1	R1	chapters 35–35	chapters 35–35	chapters 33–35	Kannada p.108 ೩೩-೩೫ ಅಧ್ಯಾಯಗಳನ್ನು	applied	
+109	S14	R1	*daivarāta*, it seems	*daivarāta*, it seems	*daivarātiṃ*, it seems	Kannada p.109 ದೈವರಾತಿಂ ಎಂದಿರಬೇಕು	applied	
+110	S7	R3	पाराशराः वैणेयाः	पाराशराः वैणेयाः	पाराशराः वैणीयाः	Kannada p.110 ಪಾರಾಶರಾಃ ವೈಣೀಯಾಃ	applied	
+110	S7	R3	pārāśarāḥ vaiṇeyāḥ	pārāśarāḥ vaiṇeyāḥ	pārāśarāḥ vaiṇīyāḥ	IAST partner	applied	
+110	S7	R3	Pārāśaras, Vaiṇeyas	Pārāśaras, Vaiṇeyas	Pārāśaras, Vaiṇīyas	translation partner	applied	
+110	S7	R3	श्यानाः	श्यानाः	श्यामाः	Kannada p.110 ಶ್ಯಾಮಾಃ	applied	
+110	S7	R3	śyānāḥ	śyānāḥ	śyāmāḥ	IAST partner	applied	
+110	S7	R3	Śyānas	Śyānas	Śyāmas	translation partner	applied	
+111	S7	R3	सापत्क्यः	सापत्क्यः	सापत्यः	Kannada p.111 ಸಾಪತ್ಯಃ	applied	
+111	S7	R3	ताम्रायणेयाः	ताम्रायणेयाः	ताम्रायणश्च	Kannada p.111 table ತಾಮ್ರಾಯಣಶ್ಚ	applied	
+111	S7	R3	आवटे | आवटे | आवटे	आवटे | आवटे | आवटे	आवटी | आवटी | आवटी	Kannada p.111 table ಆವಟೀ	applied	
+111	S7	R3	नैनेयाः | वैनेयाः	नैनेयाः | वैनेयाः	नैनेयाः | नैनेयाः	Kannada p.111 table ನೈನೇಯಾಃ	applied	
+111	S7	R3	पारायणः	पारायणः	परायणः	Kannada p.111 table ಪರಾಯಣಃ	applied	
+112	S14	R1	in the 112th fascicle of the work	in the 112th fascicle of the work	on page 112 of the work	Kannada p.112 ೧೧೨ನೆಯ ಪುಟದಲ್ಲಿ	applied	
+112	S7	R3	दक्षिणपूर्वेद्वारे	दक्षिणपूर्वेद्वारे	दक्षिणपूर्वद्वारे	Kannada p.112 ದಕ್ಷಿಣಪೂರ್ವದ್ವಾರೇ	applied	
+112	S7	R3	dakṣiṇa-pūrve-dvāre	dakṣiṇa-pūrve-dvāre	dakṣiṇa-pūrva-dvāre	IAST partner	applied	
+113	S14	R1	an edition of the Brāhmaṇa of the Kāṇva branch, re	an edition of the Brāhmaṇa of the Kāṇva branch, revised (*parishkṛta*), was printed	an edition revised (*parishkṛta*) by Brāhmaṇas of the Kāṇva branch was printed	Kannada p.113 ಕಾಣ್ವಶಾಖೆಯ ಬ್ರಾಹ್ಮಣರಿಂದ ಪರಿಷ್ಕೃತವಾದ ಒಂದು ಸಂಸ್ಕರಣ	applied	
+113	S1	R1	| 2 | 7 | 60 |	| 2 | 7 | 60 |	| 2 | 3 | 60 |	Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv)	applied	
+113	S1	R1	| 9 | 7 | 46 |	| 9 | 7 | 46 |	| 9 | 3 | 46 |	Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv)	applied	
+113	S1	R1	| 12 | 7 | 85 |	| 12 | 7 | 85 |	| 12 | 3 | 85 |	Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv)	applied	
+113	S1	R1	| 13 | 7 | 116 |	| 13 | 7 | 116 |	| 13 | 3 | 116 |	Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv)	applied	
+113	S1	R1	| 14 | 7 | 65 |	| 14 | 7 | 65 |	| 14 | 3 | 65 |	Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv)	applied	
+113	S1	R1	| 16 | 7 | 85 |	| 16 | 7 | 85 |	| 16 | 3 | 85 |	Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv)	applied	
+113	S1	R1	| 18 | 7 | 86 |	| 18 | 7 | 86 |	| 18 | 3 | 86 |	Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv)	applied	
+113	S1	R1	| **Total** | **76** | **672** |	| **Total** | **76** | **672** |	| **Total** | **36** | **672** |	Kannada p.113 table digit (numerals of the Kannada are correct; see open.tsv)	applied	
+114	S1	R1	| 25 | 10 | 67 |	| 25 | 10 | 67 |	| 25 | 11 | 67 |	Kannada p.114 ೧೧	applied	
+114	S1	R1	| 29 | 6 | 50 |	| 29 | 6 | 50 |	| 29 | 6 | 51 |	Kannada p.114 ೫೧	applied	
+117	S1	R1	| 18 | 13 | 77 | 36 | 368 |	| 18 | 13 | 77 | 36 | 368 |	| 18 | 13 | 33 | 36 | 368 |	Kannada p.117 ೩೩	applied	
+117	S1	R1	| 30 | 2 | 22 | 3 | 177 |	| 30 | 2 | 22 | 3 | 177 |	| 30 | 2 | 22 | 3 | 122 |	Kannada p.117 ೧೨೨	applied	
+118	S1	R1	adhyāya 3, sūtra 45	adhyāya 3, sūtra 45	adhyāya 3, sūtra 43	Kannada p.118 ಸೂತ್ರ ೪೩	applied	
+118	S7	R3	सप्तद्वीपवशीभूमिर्	सप्तद्वीपवशीभूमिर्	सप्तद्वीपवतीभूमिर्	Kannada p.118 ಸಪ್ತದ್ವೀಪವತೀಭೂಮಿರ್	applied	
+118	S7	R3	sapta-dvīpa-vaśī-bhūmir	sapta-dvīpa-vaśī-bhūmir	sapta-dvīpa-vatī-bhūmir	IAST partner	applied	
+118	S14	R1	the earth in one's power, with its seven dvīpas	the earth in one's power, with its seven dvīpas	the earth with its seven dvīpas	Kannada ಸಪ್ತದ್ವೀಪವತೀಭೂಮಿ	applied	
+119	S3	R1	3?th khaṇḍa	3?th khaṇḍa	23rd khaṇḍa	Kannada p.119 ೨೩ನೆಯ ಖಂಡ	applied	
+91	H29	R6	Aitareya verse, second half (Devanagari block)	English: आपस्तम्बाश्च दित्याहुः पञ्चभिः षड्भिरैतरेयिणः; Kannada first variant ಆಪಸ್ತಂಬಾಷ್ಣಡಿತ್ಯಾಹುಷ್ಷಡ್ವಾ ಪಂಚಾನ್ಯಶಾಖಿನಃ, second variant ಆಪಸ್ತಂಬಾಷ್ಣಡಿತ್ಯಾಹುರ್ವಿಭಾಷಾಮೈತರೇಯಿಣಃ		English half-line matches neither Kannada variant; which should it be (Kannada misprints ಷ್ಣಡಿತ್ಯಾಹು, ಷ್ಷಡ್ವಾ)?	question	
+93	S16	R6	summary list, remark 'these five are the Shakala shakhas'	Kannada prints the remark after item 14; English puts it after item 5		Keep the remark after item 5 or move it after item 14 as printed?	question	
+96	H29	R6	citation 'tad yajuh' lines and Prapancha-hridaya list	Kannada ಇತ್ಯಾದಿ ಸ್ಕೂಲತೀಕ್ಷ, ಕೃಷ್ಣಮೀಯ್ಯತೇ, ಬೃಹದುಕ್ಕ, ಶ್ರೃರುಣ; English has smṛteś ca, īryate, bṛhaduktha, śrairuṇa		Kannada misprints ಸ್ಕೂಲತೀಕ್ಷ, ಮೀಯ್ಯತೇ, ಬೃಹದುಕ್ಕ, ಶ್ರೃರುಣ; English has smṛteś ca, īryate, bṛhaduktha, śrairuṇa (uncertain)	question	
+99	H29	R6	Gālava sub-division no. 2	Kannada ಕುಬ್ಬಾಃ; English कुब्जाः (Kubjāḥ)		Kannada misprint ಕುಬ್ಬಾಃ; English has Kubjāḥ (uncertain)	question	
+104	H29	R6	Skanda verse and Viṣṇu Purāṇa quotation	Kannada ಕೃತ್ವೋಽಪನಿಷದಂ and ಜೈಮಿನೇಶ್ಶಿಷ್ಯಾದ್ (ಯೋ ಮಹಾಯೋಗೀಶ್ವರಾಜ್ಮೈಮಿನೇಶ್ಶಿಷ್ಯಾದ್); English kṛtsnopaniṣadaṃ and jaimineḥ śiṣyād		Kannada misprints ಕೃತ್ವೋಽಪನಿಷದಂ and ಜ್ಮೈಮಿನೇಶ್ಶಿಷ್ಯಾದ್; English has kṛtsnopaniṣadaṃ and jaimineḥ śiṣyād (uncertain)	question	
+105	H29	R6	Brahmāṇḍa Purāṇa verse, last line	Kannada ಯಾಜ್ಞವಲ್ಕೈನ; English याज्ञवल्क्येन		Kannada misprint ಯಾಜ್ಞವಲ್ಕೈನ; English has yājñavalkyena (certain)	question	
+106	H29	R6	Mahābhārata Sabhāparva verse 18	Kannada ತಿತ್ತಿರಿಯಾರ್ಜ್ಞವಲ್ಕಶ್ಚ; English तित्तिरिर्याज्ञवल्क्यश्च		Kannada misprint ತಿತ್ತಿರಿಯಾರ್ಜ್ಞವಲ್ಕಶ್ಚ; English has tittiriryājñavalkyaś ca (certain)	question	
+107	H29	R6	Sabhāparva verse 6	Kannada ಋತ್ವಿಕ್ಪ್ರವರ್ಮಾನ್; English ऋत्विक्प्रवरान्		Kannada misprint ಋತ್ವಿಕ್ಪ್ರವರ್ಮಾನ್; English has ṛtvikpravarān (certain)	question	
+109	H29	R6	Śāntiparva verse 4 comment	Kannada says the epithet follows 'ದೇವರಾತಿಯ ಮಗನಾದುದರಿಂದ ದೈವರಾತಿ'; English 'Devarāta's son'		Kannada ದೇವರಾತಿಯ (Devarāti) vs the father's name Devarāta elsewhere; English has Devarāta (uncertain)	question	
+110	H29	R6	Vāyu/Brahmāṇḍa/Caraṇa-vyūha name lists	Kannada ಶಾಪೇಯಿಾ, ಶೈಷಿರೀ, ಸಂಸ್ಕೃತಾಃ, ಕಾಣ್ಪಾಃ, ನೈನತೇಯಾಃ, ಬೈಜನಾಃ, ಪಂಜದಶ; English śāpeyo, śaiśirī, saṃsmṛtāḥ, kāṇvāḥ, vainateyāḥ, baijavāḥ, pañcadaśa		Kannada misprints ಶಾಪೇಯಿಾ, ಶೈಷಿರೀ, ಕಾಣ್ಪಾಃ, ಬೈಜನಾಃ, ಪಂಜದಶ; English has śāpeyo, śaiśirī, kāṇvāḥ, baijavāḥ, pañcadaśa (certain); also ಸಂಸ್ಕೃತಾಃ vs saṃsmṛtāḥ and ನೈನತೇಯಾಃ vs vainateyāḥ (uncertain)	question	
+111	S7	R6	table, first column row 12 and row 11	Kannada ನೈನತೇಯಾಃ and ಪಾರಾಶರಾಃ (column 1); English वैनतेयाः and पराशराः		Kannada has ನೈನತೇಯಾಃ and, in the table, ಪಾರಾಶರಾಃ; English has vainateyāḥ and parāśarāḥ (uncertain)	question	
+112	S13	R6	Pāraskara-gṛhya-paddhati author	Kannada ಸ್ಥಪತಿಗರ್ವರು; English sthapati Gārgya		Kannada has ಗರ್ವ (Garva); English has Gārgya (uncertain)	question	
+114	H29	R6	Kaṇva list	Kannada ಕಣ್ಣನಾರ್ಪದ; English Kaṇva Nārṣada		Kannada misprint ಕಣ್ಣನಾರ್ಪದ; English has Kaṇva Nārṣada (uncertain)	question	
+115	H29	R6	Jaya-saṃhitā verses	Kannada ಕಾಣ್ವೇಂ, ತದ್ಯೋತ್ರಸಂಭವಾ, ಇಮೌ ಚ; English kāṇvīṃ, tadgotrasambhavā, imāś ca; and the English remark that the Harivaṃśa word is printed naudgalāḥ while the Kannada has ಮೌದ್ಗಲಾಃ		Kannada misprints ಕಾಣ್ವೇಂ, ತದ್ಯೋತ್ರ; English has kāṇvīṃ, tadgotra (certain); ಇಮೌ vs imāḥ (uncertain); legacy remark says 'naudgalāḥ' but Kannada prints maudgalāḥ	question	
+116	H29	R6	Vāsiṣṭha-śikṣā and Anuvāka-sūtra verses	Kannada ಅಬ್ಧಿರಾಮಾಥ ನಾ ಜ್ಞೇಯಾ, ನನಾನ್ಯೇ, ಸೌತ್ರೈರ್; English atha vā jñeyā, navānye, sautrāmaṇyāṃ		Kannada misprints ನಾ ಜ್ಞೇಯಾ, ನನಾನ್ಯೇ, ಸೌತ್ರೈರ್; English has vā jñeyā, navānye, sautrāmaṇyāṃ (uncertain)	question	
+118	H29	R6	Pāṇini sūtra name	Kannada ಶೌನಕಾದಿಭ್ಯಂಶ್ಚದಸಿ; English śaunakādibhyaś chandasi		Kannada misprint ಶೌನಕಾದಿಭ್ಯಂಶ್ಚದಸಿ; English has śaunakādibhyaś chandasi (certain)	question	
+120	H29	R6	Brahmāṇḍa and Pratijñā-pariśiṣṭa verses	Kannada ಏತತ್ಪಮಾಣಂ, ಸಶು ಕ್ರಿಯಂ, ಋಗ್ನಿರ್ವಿಭಕ್ತಂ; English etat pramāṇaṃ, saśukriyaṃ, ṛgbhir vibhaktaṃ		Kannada misprints ಏತತ್ಪಮಾಣಂ, ಸಶು ಕ್ರಿಯಂ, ಋಗ್ನಿರ್ವಿಭಕ್ತಂ; English has pramāṇaṃ, saśukriyaṃ, ṛgbhir vibhaktaṃ (certain)	question	
