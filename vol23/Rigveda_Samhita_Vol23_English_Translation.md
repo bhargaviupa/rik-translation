@@ -13916,6 +13916,285 @@ The potations (of Soma) contend in your interior (for your exhilaration) like th
 On the sixth day, if the Pṛṣṭha stotra is to be accomplished with the Raivata sāman, then at the Niṣkevalya the anurūpa tṛca is रेवा इद् (*revā id*). It is so laid down in the sūtra: रेवतीर्नः सधमादे रेवा इद्रेवतः स्तोतेति स्तोत्रियानुरूपौ । आ. ८-१ । इति ॥ (*revatīrnaḥ sadhamāde revā idrevataḥ stoteti stotriyānurūpau | ā. 8-1 | iti ‖*) (Ā. 8-1). O हरिवः (*harivaḥ*), lord of bay horses (हरी (*harī*) are the horses): the praiser of you, Indra, who are rich and possessed of abundant wealth, would be wealthy; the word इत् (*it*) is for emphasis: he would be wealthy and never fall into poverty. He confirms the same sense by the kaimutika argument. त्वावतः (*tvāvataḥ*) means one like you; मघोनः (*maghonaḥ*) means the possessor of wealth, the rich; the block breaks off at श्रुतस्य (*śrutasya*).
 **NOTE**
 
+### Printed p. 349
+
+> विश्रुतस्य सर्वत्र प्रख्यातस्यान्यस्यापि स्तोता प्रेदु । स्यादित्यनुषज्यते । प्रस्यात् ।
+> प्रभवेदेव न तु निहीयते । किमु वक्तव्यं तव स्तोता धनवान् भवेदेवेति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the sentence begun on the previous page. The words प्रेदु । स्यादित्यनुषज्यते । प्रस्यात् । (*predu | syādityanuṣajyate | prasyāt |*) are understood to continue (anuṣajyate) with the sense "may he surpass" and "may he become". The meaning is that the worshipper of Indra will surely become rich and never decline. Sāyaṇa adds that, since even the worshipper of someone else, widely renowned, would be so, what need is there to say that Indra's own worshipper will be wealthy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, possessor of horses
+- रेवतः (*revataḥ*)—of you who are endowed with wealth
+- स्तोता (*stotā*)—the praiser
+- रेवान् इत् (*revān it*)—let him be possessed of wealth indeed
+- स्यात् (*syāt*)—let him be
+- त्वावतः (*tvāvataḥ*)—one equal to you
+- मघोनः (*maghonaḥ*)—wealthy like you
+- श्रुतस्य (*śrutasya*)—renowned; than another person of that kind
+- प्रेदु (*predu*)—let him have wealth surpassing him
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of horses, may the praiser of you, who are endowed with wealth, also be wealthy. Moreover, may he have wealth surpassing that of another person who is equal to you, wealthy like you, and renowned.
+
+##### English translation
+May the eulogist of you, who are opulent, be opulent ; may he even, lord of steeds, surpass one who is wealthy and renowned, like you.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the sixth day of the sacrifice, when the Pṛṣṭha-stotra is recited in accordance with the singing of the Raivata-sāman, the three Ṛks beginning रेवा इत् (*revā it*) (Ṛks 13–15) are to be recited as the Anurūpa-tṛca among the Niṣkevalya-śastra mantras. This is explained by the Āśvalāyana-śrauta-sūtra: रेवतीर्नः सधमादे रेवा इद्रेवतः स्तोतेति स्तोत्रियानुरूपौ (*revatīrnaḥ sadhamāde revā idrevataḥ stoteti stotriyānurūpau*) (Ā. 8-1).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्कं च॒न श॒स्यमा॑न॒मगो॑र॒रिरा चि॑केत ।  
+> न गा॑य॒त्रं गी॒यमा॑नं ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्कं । चन । शस्यमानं । अगोः । अरिः । आ । चिकेत ।  
+> न । गायत्रं । गीयमानं ॥ १४ ॥
+
+### Printed p. 350
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गायतेर्गौः । अगोरस्तोतुररिः शत्रुरिंद्रः शस्यमानं होत्रा पश्यमानमुक्थं चन शस्त्रमप्या चिकेत । अभिजानाति ॥ कित ज्ञाने। छांधसो लिट् ॥ नेति संप्रत्यर्थे । न संप्रति प्रस्तोत्रादिभिर्गीयमानं गायत्रं गातव्यं साम यद्वा गायताख्यमपि चिकेतेत्येव । अतः कारणाद्वयमपि तमिंद्रं स्तुम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+गौः (*gauḥ*) is derived from the root *gāyateḥ*. The enemy (ari) of the non-praiser (अगोः (*agoḥ*)), that is Indra, recognises (आ चिकेत (*ā ciketa*)) the śastra (उक्कं चन (*ukkaṃ cana*)) which is being recited (शस्यमानं (*śasyamānaṃ*)) by the Hotṛ and others. The root is कित ज्ञाने (*kita jñāne*), the form being a Vedic liṭ. न (*na*) is in the sense of "now": the Gāyatra, the sāman to be sung, or the one named Gāyatra, which is being sung now by the Prastotṛ and others, he also recognises. For this reason we too praise that Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अगोः (*agoḥ*)—to one who is not a praiser
+- अरिः (*ariḥ*)—Indra, the enemy
+- शस्यमानं (*śasyamānaṃ*)—being recited by the Hotṛ and others
+- उक्तं चन (*uktaṃ cana*)—even the śastra
+- आ चिकेत (*ā ciketa*)—he knows
+- न (*na*)—in the present context
+- गीयमानं (*gīyamānaṃ*)—being recited in the form of song by the Prastotṛ and others
+- गायत्रं (*gāyatraṃ*)—the Gāyatra and other sāmans he also knows
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the enemy of one who is not a praiser, knows and accepts even the śastra mantras recited by the Hotṛ and others. In the present context he also knows the Gāyatra and other sāmans sung by the Prastotṛ and others.
+
+##### English translation
+(Indra), the enemy of the unbeliever, apprehends whatever prayer is being repeated, whatever chaunt is being chanted.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा न॑ इंद्र पीय॒त्नवे॒ मा शर्ध॑ते॒ परा॑ दाः ।  
+> शिक्ष्या॑ शचीवः॒ शची॑भिः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । इंद्र । पीयत्नवे । मा । शर्धते । परा । दाः ।  
+> शिक्ष । शचीऽवः । शचिभिः ॥ १५ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पीयत्नवे । पीयतिर्वधकर्मा । वधशीलाय हिंसाकारिणे
+> शत्रवे नोऽस्मान्मा परा दाः । मा परित्याक्षीः । मा च शर्धतेऽभिभवित्रेऽस्मान्मा परा
+
+##### Gist of the bhāṣya
+
+O Indra, do not give us up (परा दाः (*parā dāḥ*)) to the slayer (पीयत्नवे (*pīyatnave*); the root पीयति (*pīyati*) means killing), the violent, harmful enemy. Nor give us up to the overpowering one (शर्धते (*śardhate*)), as the sentence continues on the next page.
+
+### Printed p. 351
+
+> दाः ॥ शृधु प्रसहन इति धातुः ॥ अपि तु हे शचीवः शक्तिमन्निंद्र शचीभिरात्मीयैः
+> कर्मभिः शिक्ष । अस्माननुशाधि । यद्वा । शिक्षतिदार्नकर्मा । अभीष्टं धनमस्मभ्यं देहि ।
+> यद्वा । शत्रु इच्चीतुं शिक्ष । शक्तान् कर्तुमिच्छ ॥ शकेः सनंतस्यसनि मीमेतीसादेशेऽभ्यासलोपे च कृते लोटि रूपमेतत् ॥
+
+##### Gist of the bhāṣya
+
+The root is शृधु प्रसहन (*śṛdhu prasahana*). But, O powerful Indra (शचीवः (*śacīvaḥ*)), instruct us (शिक्ष (*śikṣa*)) by your own deeds (शचीभिः (*śacībhiḥ*)). Or else: शिक्षति (*śikṣati*) is a verb of giving; give us the wealth we desire. Or else: wish to make us able (शक्तान् (*śaktān*)) to defeat the enemy. This form is the imperative derived from शक् (*śak*) with the desiderative, with the substitution and loss of the reduplication.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पीयत्नवे (*pīyatnave*)—to the enemy who is a killer
+- नः (*naḥ*)—us
+- मा परा दाः (*mā parā dāḥ*)—do not give up (do not make us subject to him)
+- शर्धते (*śardhate*)—also to the violent enemy
+- मा (*mā*)—do not give up
+- शचीवः (*śacīvaḥ*)—O powerful Indra
+- शचीभिः (*śacībhiḥ*)—by your excellent deeds
+- शिक्ष (*śikṣa*)—be our instructor
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, do not give us up to the enemy who is a killer; that is, do not make us subject to him. Do not give us up to the violent enemy either. O powerful Indra, be our instructor by your excellent deeds.
+
+##### English translation
+Consign us not, Indra, to the slayer, not to an overpowering foe;
+doer of great deeds, enable us by your acts (to conquer).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमु॑ त्वा त॒दिद॑र्था॒ इंद्र॑ त्वा॒यंतः॒ सखा॑यः ।  
+> कण्वा॑ उ॒क्षेभि॑र्जरंते ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ऊं इति । त्वा । तदित् अर्थाः । इंद्र । त्वायंतः । सखायः ।  
+> कण्वाः । उक्तेभिः । जरंते ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमे रात्रिपर्याये ब्रह्मशस्त्रे वयमु त्वेति स्तोत्रियस्तृचः । सूत्रितं
+> च । वयमु त्वा तदिदर्था वयमिंद्र त्वायवोऽभि । आ. ६-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the first rātri-paryāya, in the Brahma-śastra, the verses beginning वयमु त्वा (*vayamu tvā*) form the Stotriya tṛca. It is stated in the sūtra: वयमु त्वा तदिदर्था इंद्र त्वायंतः सखायः । कण्वा उक्षेभि (*vayamu tvā tadidarthā iṃdra tvāyaṃtaḥ sakhāyaḥ | kaṇvā ukṣebhi*) (Ā. 6-4).
+
+### Printed p. 352
+
+> हे इंद्र त्वायंतस्त्वामात्मन इच्छंतः सखायः समानख्याना वयं तदिदर्था यत्त्वद्विषयं स्तोत्रं तदित्तदेवार्थः प्रयोजनं येषां तादृशाः
+> संतस्ता त्वां जरामहे । स्तुमहे । उ इति पूरणः । कण्वाः कण्वगोत्रोत्पन्ना अस्मदीयाः पुत्रादयश्चोक्षेभिरुक्थैः शस्त्रैर्जरंते । त्वां स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we who desire you (त्वायंतः (*tvāyaṃtaḥ*)), friends (सखायः (*sakhāyaḥ*), of the same renown), having as our sole object (तदिदर्थाः (*tadidarthāḥ*)) the praise directed to you, praise you (जरामहे (*jarāmahe*)). उ (*u*) is a filler. The Kaṇvas (कण्वाः (*kaṇvāḥ*)), our sons and others born in the Kaṇva line, praise you with uktha-śastras (*ukthaiḥ śastraiḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वायंतः (*tvāyaṃtaḥ*)—those who seek your nearness
+- सखायः (*sakhāyaḥ*)—your friends
+- वयं (*vayaṃ*)—we
+- तदिदर्थाः उ (*tadidarthāḥ u*)—those whose chief purpose is to praise you, having praise
+- त्वा (*tvā*)—we praise you
+- कण्वाः (*kaṇvāḥ*)—our sons and others, born in the Kaṇva line
+- उक्थेभिः (*ukthebhiḥ*)—with śastra mantras
+- जरंते (*jaraṃte*)—praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we, who seek your nearness and are your friends, praise you, having as our chief purpose your praise. Our sons and others, born in the Kaṇva line, also praise you by reciting śastra mantras.
+
+##### English translation
+friends devoted, Indra, to you we, the descendents of Kanwa,
+having your praise for our object, glorify you with prayers.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first rātri-paryāya, among the śastra mantras recited by the priest called Brahman, the three Ṛks beginning वयमु ता (*vayamu tā*) (Ṛks 16–18) are to be recited as the Stotriya tṛca. This is explained by the Āśvalāyana-śrauta-sūtra: वयमु त्वा तदिदर्था वयमिंद्र त्वायवोऽभि (*vayamu tvā tadidarthā vayamiṃdra tvāyavo 'bhi*) (Ā. 6-4).
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न घे॑म॒न्यदा प॑पन॒ वज्र॑न्न॒पसोः॒ नवि॑ष्टौ ।  
+> तवेदु॒ स्तोमं॑ चिकेत ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । घ । ईं । अन्यत् । आ । पपन । वज्रिन् । अपसः । नविष्टा ।
+
+### Printed p. 353
+
+> तव । इत् । ऊं इति । स्तोमं । चिकेत ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिन् वज्रवन्निंद्र अपसोऽपस्विनः कर्मवतस्तव संबंधिनि नविष्टावभिनवे
+> यागे वर्तमानोऽहमन्यत्त्वद्विषयादन्यत्सोत्रं न घें नैवा पपन । अभिष्टामि ॥ पनतेः स्तुतिकर्मण उत्तमे णलि लिट रूपं ॥ अपि तु तवेदु तवैव
+> स्तोमं स्तोत्रं चिकेत । अभिजानामि । त्वामेव सर्वदा स्तौमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O thunderer (वज्रिन् (*vajrin*)) Indra, I, being engaged in the new (नविष्टौ (*naviṣṭau*)) sacrifice of you, the active (अपसः (*apasaḥ*)), do not praise (पपन (*papana*)) any other praise than that directed to you. पनतेः (*panateḥ*) is a root of praising; the form is the first-person ṇal liṭ. But I know (चिकेत (*ciketa*)) only your praise (स्तोमं (*stomaṃ*)); the meaning is that I praise you alone always.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt
+- अपसः (*apasaḥ*)—of you, the active one, directed to
+- नविष्टौ (*naviṣṭau*)—I who am engaged in the new sacrificial rite
+- अन्यत् (*anyat*)—other than your praise, any praise of any other deity
+- न घें आ पपन (*na gheṃ ā papana*)—certainly do not recite
+- तवेदु (*tavedu*)—that which praises you alone
+- स्तोमं (*stomaṃ*)—the hymn
+- चिकेत (*ciketa*)—I know, and I recite that alone
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, I, engaged in the new sacrificial rite directed to you, the active one, certainly do not recite the praise of any other deity than you. I know the hymn that praises you alone, and I praise only that.
+
+##### English translation
+(Engaged), thunderer, in your most recent (worship) I utter no
+other praise than that of you, the doer of great deeds, I repeat only your
+glorification-
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒च्छंति॑ दे॒वाः सु॒न्वंतं॒ न स्वप्ना॑य स्पृहयंति ।  
+> यंति॑ प्र॒माद॒मतं॑द्राः ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इच्छंति । देवाः । सुन्वंतं । न । स्वप्नाय । स्पृहयंति ।  
+> यंति । प्रमादं । आतंद्राः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 354
+
+> सुन्वंतं सोमाभिषवं कुर्वंतं यजमानं देवा इंद्रादयः सर्व
+> इच्छंति रक्षितुं। स्वप्नाय न स्पृहयंति । स्वप्नावस्थां तस्य सुन्वतो नेप्संति । सर्वदा
+> प्रबुद्धमेव कुर्वंतीत्यर्थः ॥ स्पृहेरीप्सितः । पा. १-४-३६ । इति कर्मणि चतुर्थि।
+> स्पृह ईप्सायां चुरादिरदंतः ॥ यत एवमतः कारणादतंद्रा अनालसा देवाः
+> प्रमादं प्रकर्षेण मदकरं तदीयं सोमं यंति । प्राप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+All the gods, Indra and the rest, wish (इच्छंति (*icchaṃti*)) to protect the sacrificer who presses Soma (सुन्वंतं (*sunvaṃtaṃ*)). They do not desire sleep (स्वप्नाय न स्पृहयंति (*svapnāya na spṛhayaṃti*)) for him; they do not wish the state of sleep for him who presses, but always keep him awake. The dative of the object is by स्पृहेरीप्सितः (*spṛherīpsitaḥ*) (Pā. 1-4-36); स्पृह ईप्सायां (*spṛha īpsāyāṃ*) is a root of the curādi class ending in short a. Therefore the unslothful (आतंद्राः (*ātaṃdrāḥ*)) gods obtain (यंति (*yaṃti*)) his Soma, which greatly intoxicates (प्रमादं (*pramādaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुन्वंतं (*sunvaṃtaṃ*)—the sacrificer who presses and offers Soma
+- देवाः (*devāḥ*)—the gods, Indra and others
+- इच्छंति (*icchaṃti*)—desire
+- स्वप्नाय (*svapnāya*)—that he forget his rite and be in a state of sleep (be lazy)
+- न स्पृहयंति (*na spṛhayaṃti*)—they do not desire
+- आतंद्राः (*ātaṃdrāḥ*)—the gods who are without sloth and always alert
+- प्रमादं (*pramādaṃ*)—the Soma that produces great joy
+- यंति (*yaṃti*)—obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, Indra and the others, desire the sacrificer who presses and offers Soma. They do not give him the opportunity to forget his rite and be in a state of sleep. The gods, who are without sloth and always alert, obtain the Soma that produces great joy.
+
+##### English translation
+The gods love the man who offers libations, they desire not to (let
+him) sleep, thence they, unslothful obtain the inebriating Soma.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ षु प्र या॑हि॒ वाजे॑भि॒र्मा हृ॑णीथा अ॒भ्य१॒ं॑स्मान् ।  
+> म॒हा इ॑व॒ युव॑जानिः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओ इति । सु । प्र । याहि । वाजेभिः । मा । हृणीथाः । अभि । अस्मान् ।  
+> महान् ऽइव । युवजानिः ॥ १९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 348. pp. 343-348 (batch API)
+**Progress note:** Done through printed p. 354. pp. 349-354 (batch API)
