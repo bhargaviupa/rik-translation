@@ -35,10 +35,12 @@ def front(path):
 if __name__=='__main__':
     a=sys.argv[1:]; fr=a[a.index('--front')+1] if '--front' in a else None
     if fr: a=[x for i,x in enumerate(a) if x!='--front' and a[i-1]!='--front']
+    vol=a[a.index('--vol')+1] if '--vol' in a else '1'
+    if '--vol' in a: a=[x for i,x in enumerate(a) if x!='--vol' and a[i-1]!='--vol']
     rk=int(a[a.index('--rk-from')+1]) if '--rk-from' in a else None
     if rk: a=[x for i,x in enumerate(a) if x!='--rk-from' and a[i-1]!='--rk-from']
     out,specs=a[0],a[1:]; H={}; P=HP.load_many(specs,H); lo,hi=min(P),max(P)
-    md=[HEADER] if rk else []
+    md=[HEADER.replace('ಸಂಪುಟ 1','ಸಂಪುಟ '+vol)] if rk else []
     if fr: md.append(front(fr))
     for p in range(lo,(rk or hi+1)):
         md.append(clean_page(p,H.get(p,''),P[p]) if p in P else f'<!-- printed {p}: NOT IN THE SUPPLIED TEXT -->\n')
