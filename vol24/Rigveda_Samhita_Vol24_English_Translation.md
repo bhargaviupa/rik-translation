@@ -18106,6 +18106,301 @@ Black dust is raised by the feet of Jathavedas when he moves, when Agni spreads 
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
+### Printed p. 402
+
+> धासिं । कृह्वानः । ओषधीः । बप्सत् । अग्निः । न । वायति ।
+> पुनः । यस् । तरुणीः । आपि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निरोषधीर्धासिमन्नं । क्षुद्धासीत्यन्ननामसु पाठात् । कृण्वानः कुर्वन्
+> बप्सद्भक्षयन्न वायति । न शाम्यति । पुनश्च तरुणीरोषधीरपि यन् गच्छन् भवति ।
+> भक्षयितुमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Agni makes the plants his food: धासिं (*dhāsiṃ*) means food, since क्षुद्धासीत्यन्ननामसु पाठात् (*kṣuddhāsītyannanāmasu pāṭhāt*) it is read among the names of food. Devouring them (बप्सत् (*bapsat*) is explained as eating), he is not appeased (न वायति (*na vāyati*), he does not become calm); and again he goes to the young plants too, the words "in order to eat" being understood.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- ओषधीः (*oṣadhīḥ*)—the plants
+- धासिं (*dhāsiṃ*)—in the form of his food
+- कृष्णानः (*kṛṣṇānaḥ*)—having provided himself
+- बप्सन् (*bapsan*)—even though he eats them
+- न वायति (*na vāyati*)—he does not attain appeasement through satisfaction
+- पुनः (*punaḥ*)—again
+- तरुणीः (*taruṇīḥ*)—the tender creepers too
+- अपि यन् (*api yan*)—he covers in order to eat
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, having provided himself with the plants as his food, even though he eats them all, does not attain appeasement through satisfaction. Again he covers the tender creepers too.
+
+##### English translation
+Making the plants his food, Agni devouring them is never satiated, but falls again upon the young (shrubs).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जि॒ह्वाभि॒रह॒ नंन॑मद॒र्चिषा॑ जंजणा॒भव॑न् ।  
+> अ॒ग्निर्वने॑षु रोचते ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जिह्वाभिः । अह । नंनमत् । अर्चिषा । जंजणाभवन् ।  
+> अग्निः । वनेषु । शोचते ॥ ८ ॥
+
+### Printed p. 403
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्जिह्वाभिरव ज्वालाभिरेव नंनमद्वनस्पतीनत्यंतं नमयन्नर्चिषा तेजसा
+> जंजणाभवज्वलन् । जंजणाभवन् मल्मलाभवन्निति ज्वलतिकर्मसु पाठात् ।
+> वनेष्टरण्येषु रोचते । प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+Agni, with his tongues, that is, with his flames, bends the trees exceedingly, and blazing with his splendour (अर्चिषा (*arciṣā*), with brightness) he shines in the forests. He explains जंजणाभवन् (*jaṃjaṇābhavan*) as blazing, because it is read among the names of acts of burning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- जिह्वाभिरह (*jihvābhiraha*)—with his own tongues of the form of flames
+- नंनमत् (*naṃnamat*)—bending trees and the like
+- अर्चिषा (*arciṣā*)—with splendour
+- जंजणाभवन् (*jaṃjaṇābhavan*)—blazing
+- वनेषु (*vaneṣu*)—in the forests
+- रोचते (*rocate*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, with his own tongues of the form of flames, bends trees and the like, and blazing with splendour he shines in the forests.
+
+##### English translation
+Bowing down (the trees) with his tongues (of flame). and blazing with splendour, Agni shines in the forests.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प्स्य॑ग्ने॒ सधि॒ष्टव॒ सौष॑धी॒रनु॑ रुध्यसे ।  
+> गर्भे॒ सञ्चा॑यसे॒ पुनः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्सनु । अग्ने । सधिः । तव । सः । ओषधीः । अनु । रुध्यसे ।  
+> गर्भे । सन् । जायसे । पुनरिति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने यस्य तवाप्सु सधिः प्रवेशस्थानं स त्वमोषधीरनु रुध्यसे ।
+> अनुरुणत्सि । पुनश्च तासां भूमिष्ठानां गर्भे सन् भवञ्चयसे । प्रादुर्भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you whose place of entry is in the waters, you hold back the plants. And again, being in the womb of those that stand on the earth, you are born, that is, you appear. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your
+- सधि (*sadhi*)—place of entry
+- अप्सु (*apsu*)—is in the waters
+- सः (*saḥ*)—you, such as you are
+- ओषधीः (*oṣadhīḥ*)—the creepers and the like
+- अनु रुध्यसे (*anu rudhyase*)—you cover
+
+### Printed p. 404
+
+- पुनः (*punaḥ*)—again
+- गर्भे सन् (*garbhe san*)—being in their womb
+- चायसे (*cāyase*)—you are born on the earth **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your place of entry is in the waters. You, such as you are, cover (burn) the creepers and the like, and again, being in their womb, you are born on the earth.
+
+##### English translation
+Your station, Agni, is in the waters: you cling to the plants, and becoming their embroy, are born again
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॑ग्ने॒ तव॒ तद्भृ॒ताद॒र्चि रो॑चत॒ आहु॑तं ।  
+> निंसा॑नं जु॒ह्वो॒३॒॑ १ मुखे॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । अग्ने । तव । तत् । धृतात् । अर्चिः । रोचते । आहुतं ।  
+> निंसानं । जुह्वः । मुखे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने तव धृतादाहुतं जुह्वो होमसाधनभूतायाः स्रुचो मुखे
+> निंसानं लिहानं तदर्चिरुद्रोचते । प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+O Agni, that flame of yours, fed with the offering of ghee, licking (निंसानं (*niṃsānaṃ*) is explained as licking) at the mouth of the ladle, which is the means of the oblation, shines up.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- धृतात् (*dhṛtāt*)—with the oblation in the form of ghee
+- आहुतं (*āhutaṃ*)—that has been offered the oblation
+- जुह्वः (*juhvaḥ*)—of the Juhū vessel, the means of oblation
+- मखे (*makhe*)—at the front part **NOTE**
+- निंसानं (*niṃsānaṃ*)—and that shines clinging
+- तव (*tava*)—your
+- तत् अर्चिः (*tat arciḥ*)—that well-known flame
+- उत् रोचते (*ut rocate*)—rises and shines
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, that well-known flame of yours, which has been offered the oblation with the oblation in the form of ghee and which shines clinging at the front part of the Juhū vessel, the means of oblation, rises and shines.
+
+### Printed p. 405
+
+##### English translation
+You lustre, Agni lambent in the mouth of the ladle, shines when offered from (the oblation of) butter.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्त्वान्ना॑य न॒शान्न्या॑य॒ सोम॑पृष्टाय वे॒धसे॑ ।  
+> सॊमैर्विभे माग्नये ! ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत्कृष्टान्याय । वज्रतन्मय । सोमसृष्टाय । नेदसे ।  
+> सोम्यैः । विधेम । अग्नये ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्षान्नाय । उक्षान्नमवनीयं हविर्यस्यासावुषान्नः । तस्मै वशान्नाय ।
+> वशान्नं यस्यासौ वशान्नः । तस्मै सोमपृष्टाय सोमघृतपृष्टाय वेधसे
+> विधात्रे कामानामग्नये स्तोमैर्विभेम । परिचरेम ॥
+
+##### Gist of the bhāṣya
+
+उक्षान्नमवनीयं हविर्यस्यासावुषान्नः (*ukṣānnamavanīyaṃ haviryasyāsāvuṣānnaḥ*): he whose oblation is the ox-food to be brought. To him, and to him whose food is the cow (वशान्नं यस्यासौ वशान्नः (*vaśānnaṃ yasyāsau vaśānnaḥ*)), whose back is moistened with Soma and ghee, the ordainer of desires, to Agni, we would do service (परिचरेम (*paricarema*)) with hymns. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्षान्नाय (*ukṣānnāya*)—to him whose food is the bull offered in the form of the oblation
+- वशान्नाय (*vaśānnāya*)—and to him whose food is such an animal
+- सोमपृष्ठाय (*somapṛṣṭhāya*)—whose back is moistened with ghee
+- वेधसे (*vedhase*)—the giver of desired objects
+- अग्नये (*agnaye*)—addressed to Agni
+- स्तोमैः (*stomaiḥ*)—with hymns
+- विधेम (*vidhema*)—let us worship
+
+##### भावार्थ (Bhāvārtha)
+
+Let us worship with hymns Agni, whose food is the bull and the animal offered in the form of the oblation, whose back is moistened with ghee, and who is the giver of desired objects.
+
+##### English translation
+Let us adore with hymns Agni, the graanter (of desires), the eater cf the ox, the cater of the marrow, on whose back the libation is poured. **NOTE**
+
+### Printed p. 406
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वा॒ नम॑सा व॒यं होत॒र्वरे॑ण्यक्रतो ।  
+> अग्ने॑ स॒मिद्धि॑रीमहे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वा । नमसा । वयं । होतः । वरेण्यक्रतो इति वरेण्यक्रतो ।  
+> आग्ने । समित्थभिः । ईमहे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे होतर्देवानां ह्वातर्वरेण्यक्रतो वरणीयप्रज्ञाग्ने त्वां
+> वयमांगिरसा नमसान्नेन हविषा समिद्धिश्चमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+And, O Hotṛ, invoker of the gods, O Agni of choice-worthy wisdom, we of the Aṅgirasa line ask you with the offering of food, the oblation, and with fuel. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- होतः (*hotaḥ*)—who bring the gods to the sacrifice
+- वरेण्यक्रतो (*vareṇyakrato*)—who have praiseworthy wisdom
+- अग्ने (*agne*)—O Agni
+- त्वा (*tvā*)—you
+- वयं (*vayaṃ*)—we
+- नमसा (*namasā*)—with food in the form of the oblation
+- समिद्धिः (*samiddhiḥ*)—and with fuel
+- ईमहे (*īmahe*)—ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who bring the gods to the place of sacrifice and have praiseworthy wisdom, we worship you with food in the form of the oblation and with fuel, and ask of you.
+
+##### English translation
+We solicit you, Agni, invoker of the gods, performer of sacred rites with oblations and with fuel.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वा॑ भृगु॒वच्चु॑चे मनु॒ष्पद॑ग्न आहुत ।  
+> अं॒गि॒र॒स्वद्ध॑वामहे ॥ १३ ॥
+
+### Printed p. 407
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वा । भृगुवत् । शुची । मनुष्यत् । अग्ने । आहुत ।  
+> अंगिरस्वत् । हवामहे ॥ १३ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुचे स्वभावतः शुद्धाहुताग्ने त्वा त्वां भृगुवद्यथा भृगुस्तथा मनुष्यद्यथा च मनुस्तथांगिरोवच्च हवामहे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, pure by nature, to whom pure offerings are made, we invoke you as Bhṛgu did, as Manu did, and as Aṅgiras did.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- शुचे (*śuce*)—who are perfectly pure
+- आहुत (*āhuta*)—to whom the oblation has been offered
+- अग्ने (*agne*)—O Agni
+- त्वा (*tvā*)—you
+- भृगुवत् (*bhṛguvat*)—as the Bhṛgus worshipped you of old
+- मनुष्यत् (*manuṣyat*)—as Manu worshipped you
+- अंगिरस्वत् (*aṃgirasvat*)—as the seer Aṅgiras worshipped you
+- हवामहे (*havāmahe*)—we worship and call you for help
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, perfectly pure and receiving the oblation, as the Bhṛgus worshipped you of old, as Manu worshipped you, and as the seer Aṅgiras worshipped you, so do we now worship you and call you for help.
+
+##### English translation
+Holy Agni, to whom oblations are offered, we worship you in like manner (as you have been worshipped) by Bhrigu, by Manus, by Angiras.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह्य॑ग्ने अ॒ग्निना॒ विप्रो॒ विप्रे॑ण॒ सन्त्स॒ता ।  
+> सखा॒ सख्या॑ समि॒ध्यसे॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । आग्ने । अग्निना । विप्रः । विप्रेण । सन् । सता ।  
+> सखा । सख्या । संइध्यसे ॥ १४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 401. Mandala 8 sukta 43 intro (continued) and rks 1-7
+**Progress note:** Done through printed p. 407. Mandala 8 sukta 43 rks 7-14
