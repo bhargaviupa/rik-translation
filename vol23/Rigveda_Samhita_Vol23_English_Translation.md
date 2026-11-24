@@ -8617,6 +8617,306 @@ The seventh adhyāya in the fifth Aṣṭaka. The hundred-and-first sūkta in th
 
 Sāyaṇa says: now the seventh adhyāya is explained. In the sixth anuvāka of the seventh Maṇḍala eleven sūktas have been explained. The twelfth sūkta is the six-verse hymn तिस्रो वाच (*tisro vāca*). Here the Anukramaṇī states: तिस्रः षट् पार्जन्यं त्विति (*tisraḥ ṣaṭ pārjanyaṃ tviti*). Because it will be said एते कुमार आग्नेयोऽपश्यद्वसिष्ठ एव वेति (*ete kumāra āgneyo 'paśyadvasiṣṭha eva veti*), the seer is Kumāra, the son of Agni, or else Vasiṣṭha. The metre is Triṣṭubh, since no other is stated. This sūkta and the following one have Parjanya as their deity. Here Śaunaka (says): after entering water up to the mouth, facing east, restrained and pure, with the two sūktas ….
 
+### Printed p. 214
+
+> आदिभ्यामुपतिष्ठेत भास्करं । अनश्नतैतज्जप्तव्यं वृष्टिकामेन यत्नतः । पंचरात्रेऽप्यतिक्रांते महतीं नृष्टिमाप्नुयात् । ऋग्वि. २-३० । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the end of Śaunaka's directions. With the first two sūktas one should approach the sun (भास्करं (*bhāskaraṃ*)). Fasting, a man who wants rain should recite this with effort. When five nights have passed, he obtains great rain. The authority is cited as ऋग्वि. २-३० (*ṛgvi. 2-30*). **NOTE**
+
+##### Anuvāda
+
+Now the exposition of the seventh adhyāya in the fifth aṣṭaka is begun. The eleven sūktas of the sixth anuvāka of the seventh maṇḍala were explained in the previous adhyāya. Now we begin the twelfth sūkta, the one that starts तिस्रो वाचः (*tisro vācaḥ*). This sūkta has six Ṛks. In the Anukramaṇikā it is said: तिस्रः षट् पार्जन्यं तु (*tisraḥ ṣaṭ pārjanyaṃ tu*). The seer of this sūkta is Kumāra Āgneya or Vasiṣṭha; that is, the seer who saw this sūkta may be the sage Kumāra, son of Agni, or else Vasiṣṭha. The metre is Triṣṭubh. Parjanya is the deity of this sūkta and of the one that follows. On the use of this sūkta, the great sage Śaunaka says as follows in the work called Ṛgvidhāna: standing facing east in the water of some reservoir, at a place where the water reaches the neck, and purified, one should praise the sun while reciting this sūkta beginning तिस्रो वाचः (*tisro vācaḥ*) and the next sūkta beginning पर्जन्याय (*parjanyāya*). While reciting in this way one should not eat anything but remain fasting, and recite for five nights. If one does so, abundant rain results. (Ṛgvidhāna 2-326, 327.)
+
+- Sūkta—101
+- Maṇḍala—7; Anuvāka—6; Sūkta—101
+- Aṣṭaka—5; Adhyāya—7; Sarga—1
+- Number of Ṛks in the sūkta—6
+- Ṛṣi—Vasiṣṭha, or Kumāra Āgneya
+- Devatā—Parjanya
+- Chandas—Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒स्रो वाचः॒ प्र व॑द॒ ज्योति॑रग्रा॒ या ए॒तद्दु॒हे म॑धुदो॒घमूधः॑ ।  
+> स व॒त्सं कृ॒ण्वन्गर्भ॒मोष॑धीनां स॒द्यो जा॒तो वृ॑ष॒भोः  ॑
+> रोरवीति ॥ १ ॥
+
+### Printed p. 215
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिस्रः । वाचः । प्र । वद । ज्योतिःs अग्राः । याः । एतत् । दुह्रे । मधुद्दोघु ।  
+> ऊधः ।  
+> सः । वत्सं । कृण्वन् । गर्भं । ओषधीनां । सद्यः । जातः । वृषभः । रोरवीति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरात्मानं स्तुतौ प्रेरयति । हे ऋषे तिस्रस्त्रिविधा ऋग्यजुस्सामात्मिकाः
+> स्तुतिरूपा वाचः प्र वद । प्रब्रूहि । कीदृश्यो वाचः । ज्योतिरग्राः । ज्योतिर्दॊतमानः प्रणवोऽग्रे प्रमुखो यासां तादृशीः । या वाचो मधुदोघं
+> मधुन उदकस्य दोहकं वृष्टुदकस्य कर्तारमेतन्नभसि दृश्यमानमूध उद्धतं
+> मेघं । यद्वा । लुप्तोपममेतत् । ऊध इव पयस आश्रयभूतं मेघं दुहे
+> दुहते ॥ महेर्लटि लोपस्त आत्मनेपदेष्टिति तलोपः । बाहुलको रुट् ॥ स्तोत्रैः
+> प्रीतो हि पर्जन्यो मेघैर्वर्षयति । अतो वाच एव दुहंतीत्युपचर्यते ।
+> यद्वा ॥ वदेति व्यत्ययेन मध्यमः ॥ तिस्र इति द्रुतविलंबितमध्यमभेदेन त्रिविधा
+> ज्योतिरग्रा विद्युत्मुखा वाचः प्रवदेतेति । या गर्जितलक्षणा वाचो वृष्टिप्रदमेतं मेघं दुहे उदकानि दुहंति । एवंभूतः स च पर्जन्यो वत्सं सह निवसंतं
+> वैद्युताग्निं कृण्वन् प्रादुष्कुर्वन् तमेवौषधीनां व्रीह्यादीनां च गर्भं कुर्वन्
+> सद्यः शीघ्रं जातः प्रादुर्भूतो वृषभो वर्षिता सनोरवीति । भृशं शब्दायते ॥
+
+##### Gist of the bhāṣya
+
+The seer urges himself to praise. "O seer, speak forth the three kinds of words, consisting of Ṛk, Yajus and Sāman, in the form of praise." What kind of words? ज्योतिरग्राः (*jyotiragrāḥ*): those whose front is the shining praṇava. These words milk (दुहे (*duhe*)) this udder, the cloud seen in the sky, which is the giver of honey, that is, the maker of rain-water. Or else the simile is elided: they milk the cloud, which is like an udder the abode of milk. For Parjanya, pleased with hymns, rains through clouds; so it is figuratively said that the words milk him.
+
+Another explanation: वद (*vada*) is second person by vyatyaya. तिस्रः (*tisraḥ*) means threefold by the difference of fast, slow and middle speed. "Speak forth the lightning-fronted words." The words of the nature of thunder milk this rain-giving cloud, that is, waters are milked. Such a Parjanya, making a calf, the lightning fire dwelling together with him, bringing it to view, and making an embryo of the plants, rice and the rest, is instantly born, manifest; as the rainer he roars (रोरवीति (*roravīti*)), he makes a loud noise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याः (*yāḥ*)—which words
+- मधुदोघं (*madhudoghaṃ*)—that which causes rain
+- एतत् (*etat*)—that which is visible in the sky
+- ऊधः (*ūdhaḥ*)—the cloud
+- दुह्रे (*duhre*)—they milk
+- तिस्रः (*tisraḥ*)—of three kinds, consisting of Ṛk, Yajus and Sāman
+- ज्योतिरग्राः (*jyotiragrāḥ*)—having the luminous praṇava as their front part
+- वाचः (*vācaḥ*)—the Vedic words
+- प्र वद (*pra vada*)—recite
+- सः (*saḥ*)—Parjanya
+- वत्सं (*vatsaṃ*)—the lightning fire that stays together with him
+- कृण्वन् (*kṛṇvan*)—producing
+- ओषधीनां (*oṣadhīnāṃ*)—of the plants and the like
+- गर्भं (*garbhaṃ*)—the embryo, making it
+- सद्यः (*sadyaḥ*)—at once
+- जातः (*jātaḥ*)—born
+- वृषभः (*vṛṣabhaḥ*)—the rain-maker
+- रोरवीति (*roravīti*)—makes a sound
+
+##### भावार्थ (Bhāvārtha)
+
+O seer, recite the Vedic mantras, of three kinds consisting of Ṛk, Yajus and Sāman, having the luminous praṇava as their front part, which milk the cloud that causes rain and is visible in the sky. Parjanya, producing the lightning fire that stays together with him and causing the embryo of the plants and the like, being born at once and being the rain-maker,
+
+### Printed p. 216
+makes a sound (roars in the form of thunder).
+
+##### English translation
+Recite the three sacred texts, proceeded by light, which milk the water-yielding udder ; for he, the showerer, (thereby) becoming quickly manifest, loudly roars, engendering the (lightning) infant, the embryo of the plants.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वर्ध॑न॒ ओष॑धीनां॒ यो अ॒पां यो विश्व॑स्य॒ जग॑तो दे॒व  ॑
+> ईशे॑ ।  
+> स त्रि॒धातु॑ शर॒णं शर्म॑ यंसत्त्रि॒वर्तु॒ ज्योतिः॑ स्वभि॒ष्ट्य१॒ं॑स्मे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वर्धनः । ओषधीनां । यः । अपां । यः । विश्वस्य । जगतः । देवः । ईशे ।  
+> सः । त्रिधातु । शरणं । शर्म । यंसत् । त्रिवर्तु । ज्योतिः । सुअभिष्टि । अस्मे इति॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः पर्जन्य ओषधीनां वर्धनो वर्धयिता । यश्चापामुदकानां वर्धकः ।
+> यश्च देवो द्योतमानः पर्जन्यो विश्वस्य सर्वस्य जगत ईशे ईष्टे ॥ लोपस्त
+> आत्मनेपदेष्टिति तलोपः । अधीगर्थति । पा. २-३-५२ । कर्मणि शेषत्वेन विवक्षिते
+> षष्ठि । अनुदात्तेत्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तानित्यमिति
+> निघातप्रतिषेधः ॥ स पर्जन्यस्त्रिधातु त्रिभूमिकं शरणं गृहं शर्म सुखं च यंसत् ।
+> यच्छतु । अस्मभ्यं ददात्वित्यर्थः ॥ यमेर्लेट्डागमः । सिब्बहुलमिति सिप् । इतश्च
+> लोप इतीकारलोपः ॥ तथा त्रिवर्तु त्रिष्वृतुष्पतिशयेन वर्तमानं । श्रूयतॆ:
+> हि । त्रीणि वा आदित्यस्य तेजांसि वसंता प्रातर्ग्रीष्टे मध्यंदिने शरद्यपराह्ने ।
+> तै. सं. २-१-२-५ । इति ॥ एवंविधं स्वभिष्टि स्वच्छेषणं ज्योतिस्तेजश्चास्मे अस्मभ्यं
+> प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+Parjanya, who is the increaser of the plants and of the waters, and who, as the shining god, is lord (ईशे (*īśe*)) of the whole world: may that Parjanya give us a three-storied house (त्रिधातु शरणं (*tridhātu śaraṇaṃ*)) and happiness (शर्म (*śarma*)); यंसत् (*yaṃsat*) means "may he give". Likewise the light that abides most excellently in the three seasons. For it is heard (Śruti): त्रीणि वा आदित्यस्य तेजांसि वसंता प्रातर्ग्रीष्टे मध्यंदिने शरद्यपराह्ने । (*trīṇi vā ādityasya tejāṃsi vasaṃtā prātargrīṣṭe madhyaṃdine śaradyaparāhne |*) (Tai. Saṃ. 2-1-2-5). Such a light, desired by us, and lustre, may he bestow upon us.
+
+### Printed p. 217
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Parjanya who
+- ओषधीनां (*oṣadhīnāṃ*)—of the plants
+- वर्धनः (*vardhanaḥ*)—is the increaser
+- यः (*yaḥ*)—who
+- अपां (*apāṃ*)—is the increaser of the waters
+- देवः (*devaḥ*)—divine in nature
+- यः (*yaḥ*)—who
+- विश्वस्य (*viśvasya*)—of the whole
+- जगतः (*jagataḥ*)—world
+- ईशे (*īśe*)—is lord
+- सः (*saḥ*)—that same Parjanya
+- त्रिधातु (*tridhātu*)—having three storeys
+- शरणं (*śaraṇaṃ*)—a house
+- शर्म (*śarma*)—and happiness
+- यंसत् (*yaṃsat*)—may he give
+- त्रिवर्तु (*trivartu*)—that which abides in the three seasons beginning with spring
+- स्वभिष्टि (*svabhiṣṭi*)—and that which is desired by us
+- ज्योतिः (*jyotiḥ*)—the lustre of Āditya
+- अस्मे (*asme*)—to us may he give
+
+##### भावार्थ (Bhāvārtha)
+
+May the Parjanya who is the increaser of the plants, who is the increaser of the waters, and who, divine in nature, is lord of the whole world, give us a house of three storeys and happiness. May he also bestow the lustre of Āditya, which abides in the three seasons beginning with spring and is desired by us.
+
+##### English translation
+May he who is the augmenter of plants, 'the increaser of the waters, who rules divine over the whole earth, bestow upon us a three-storied dwelling and felicity : may he grant us the desired light (of the sun) at the three (bright) seasons.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒रीरु॑ त्व॒द्भव॑ति॒ सूत॑ उ त्वद्यथाव॒शं त॒न्वं॑ चक्र ए॒षः ।  
+> पि॒तुः पयः॒ प्रति॑ गृभ्णाति मा॒ता तेन॑ पि॒ता व॑र्धते॒ तेन॑ पु॒त्रः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तरीः । ऊं इति । त्वत् । भवति । सूते । ऊं इति । त्वत् । यथावशं । तन्वं।  
+> चक्रे । एषः ।  
+> पितुः । पयः । प्रति । गृभ्वाति । माता । तेन । पिता । वर्धते । तेन । पुत्रः ॥ ३ ॥
+
+### Printed p. 218
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वदिति तकारांतोऽन्यशब्द पर्यायोऽनुदात्तः सर्वनामसु पठितः ॥ अस्य
+> पर्जन्यस्य त्वदन्यद्रूपं स्तरीर्निवृत्तप्रसवा गौः सा यथा न दोग्ध्री तद्वद्वर्षुकं
+> न भवति । उ इति पूरकः । द्वितीय उशब्दश्चार्थे । त्वदन्यच्च रूपं सूते । धेनुवत्प्रसूते । उदकानि प्रवर्षति । एष पर्जन्यस्तन्वं स्वकीयं शरीरं यथावशं यथकामं स्तरीत्वेन धेनुत्वेन च चक्रे । करोति । अपि च पितुर्दिनः सकाशात्पयो
+> वृष्टु दकं माता पृथिवी प्रति गृभ्णाति । प्रतिगृह्णाति ॥ हृग्रहोर्भ इति भत्वं ॥ प्रतिगृहीतेन तेन हविरात्मना परिणतेन पिता द्युलोको वर्धते । तेन्वैवोदकेन पुत्रः
+> पृथिव्यां भवः प्राणिसंघोऽपि वर्धते ॥
+
+##### Gist of the bhāṣya
+
+त्वत् (*tvat*) is a word ending in t, a synonym of *anya* ("other"), unaccented, read among the pronouns. Of this Parjanya, one form other than this is स्तरीः (*starīḥ*), a cow whose bearing has ceased; as she is not a milch cow, so this form does not give rain. उ (*u*) is a filler; the second उ (*u*) is in the sense of "and". The other form bears (सूते (*sūte*)): like a cow it brings forth; it rains waters. This Parjanya makes (चक्रे (*cakre*)) his own body at will, as a barren cow and as a milch cow. Moreover, the mother, the earth, receives (प्रति गृभ्णाति (*prati gṛbhṇāti*)) the milk, the rain-water, from the father, heaven. By that which is received, transformed into the nature of an oblation, the father, the heaven-world, grows. By that same water the son, the host of beings born on the earth, also grows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (अस्य (*(asya*)—of this Parjanya)
+- त्वत् (*tvat*)—one kind of form
+- स्तरीः (*starīḥ*)—like a barren cow
+- (न) भवति (*(na) bhavati*)—does not give rain
+- त्वत् (*tvat*)—another form
+- सूते (*sūte*)—produces the rain of water
+- एषः (*eṣaḥ*)—this same Parjanya
+- तन्वं (*tanvaṃ*)—his own body
+- यथावशं (*yathāvaśaṃ*)—as he pleases
+- चक्रे (*cakre*)—makes
+- पितुः (*pituḥ*)—from heaven, who is in the form of the father
+- माता (*mātā*)—the earth
+- पयः (*payaḥ*)—the rain-water
+- प्रतिगृभ्णाति (*pratigṛbhṇāti*)—receives
+- तेन (*tena*)—by that same water transformed into the form of oblation
+- पिता (*pitā*)—heaven
+- वर्धते (*vardhate*)—grows
+- तेन (*tena*)—by this same water (rain-water)
+- पुत्रः (*putraḥ*)—all beings born on the earth grow
+
+##### भावार्थ (Bhāvārtha)
+
+One form of this Parjanya does not pour rain, like a barren cow. Another form brings about the rain of water. This same Parjanya makes his body as he pleases. The earth receives the rain-water from heaven, who is in the form of the father. By that same water, transformed into the form of oblation, heaven grows. By that same rain-water all beings born on the earth grow.
+
+##### English translation
+One form of Parjanya is like a barren cow, the other produces offspring, he takes whichever form he pleases: the mother receives the milk from the father, thence the father, thence the son is nourished.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॒न्विश्वा॑नि॒ भुव॑नानि त॒स्थुस्ति॒स्रो द्याव॑स्त्रे॒धा स॒स्रुरापः॑ ।
+
+### Printed p. 219
+
+> त्रयः कोशास उपसेचनासो मध्वः श्चोतंत्यभितो  
+> विरप्यं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । विश्वानि । भुवनानि । तस्थुः । तिस्रः । द्यावः । त्रेधा । सस्रुः । आपः ।  
+> त्रयः । कोशासः । उपसेचनासः । मध्वः । श्चोतंति । अभितः । विरष्यं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन्पर्जन्ये विश्वानि भुवनानि सर्वाणि भूतजातानि तस्थुः तिष्ठंति । यदधीनवृत्तीनि भवंतीत्यर्थः । यस्मिंश्च द्यावो द्युप्रभृतयो लोका अवतिष्ठंते। यस्मा
+> च्चापस्त्रेधा सस्रुः प्राच्यः प्रतिच्योऽवाच्यश्च सत्यो निर्गच्छंति । उपसेचनास उषसेक्तारस्त्रयः पौरस्यः प्रतीच्य उदीच्यश्चेति त्रिप्रकाराः कोशासो मेघा विरप्यं
+> महांतं पर्जन्यमभितः परितो मध्वः ॥ कर्मणि षष्ठि ॥ मधूदकं श्चोतंति ।
+> क्षारयंति । वर्षंति ॥
+
+##### Gist of the bhāṣya
+
+In whom, Parjanya, all beings, all the classes of creatures, stand (तस्थुः (*tasthuḥ*)); that is, their livelihood depends on him. In whom the heavens, the worlds beginning with heaven, abide. From whom the waters flow (सस्रुः (*sasruḥ*)) in three ways, eastern, western and downward. The sprinklers, the three kinds of clouds, eastern, western and northern (कोशासः (*kośāsaḥ*)), shed (श्चोतंति (*ścotaṃti*)), that is, rain, honey-water (मध्वः (*madhvaḥ*)) all around the great Parjanya (विरप्यं (*virapyaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in that same Parjanya
+- विश्वानि (*viśvāni*)—all
+- भुवनानि (*bhuvanāni*)—classes of beings
+- तस्थुः (*tasthuḥ*)—have taken refuge
+- तिस्रः द्यावः (*tisraḥ dyāvaḥ*)—the three worlds beginning with heaven have obtained their stability
+- आपः (*āpaḥ*)—the waters
+- त्रेधा (*tredhā*)—in three ways
+- सस्रुः (*sasruḥ*)—flow
+- उपसेचनासः (*upasecanāsaḥ*)—that pour rain
+- त्रयः (*trayaḥ*)—of three kinds, in the east, west and north
+- कोशासः (*kośāsaḥ*)—the clouds
+- विरष्यं (*viraṣyaṃ*)—the great Parjanya
+- अभितः (*abhitaḥ*)—surrounding
+- मध्वः (*madhvaḥ*)—the rain-water
+- श्चोतंति (*ścotaṃti*)—pour
+
+##### भावार्थ (Bhāvārtha)
+
+In the renowned Parjanya all classes of beings have taken refuge. The three worlds beginning with heaven have obtained their stability. The waters, issuing from him, flow in three ways (east, west, south). The three kinds of clouds that pour rain, in the east, west and north, also surround the great Parjanya and pour the rain-water.
+
+##### English translation
+In whom all beings exist : the three worlds abide: from whom the waters flow in three directions (east, west, and south) : the three water-
+
+### Printed p. 220
+shedding masses of clouds (east, west, and north), pour the waters round the mighty (Parjanya).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं वचः॑ प॒र्जन्या॑य स्व॒राजे॑ हृ॒दो अ॒स्त्वंत॑रं॒ तज्जु॑जोषत् ।  
+> म॒यो॒भुवो॑ वृ॒ष्टयः॑ संत्व॒स्मे सु॑पिप्प॒ला ओष॑धीर्दे॒वगो॑पाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । वचः । पर्जन्याय । स्वराजे । हृदः । अस्तु । अंतरं । तत् । जुजोषत् ।  
+> मयःभुवः । वृष्टयः । संतु । अस्मे इति । सुपिप्पलाः । ओषधीः । देवगोपाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं वचो वचनं स्तोत्रं स्वराजे स्वायत्तदीप्तये पर्जन्याय क्रियते ।
+> एतच्च हृदस्तदीयस्य हृदयस्यांतरमंतर्गतमस्तु । स च तत्सोत्रं जुजोषत् ।
+> सेवतां ॥ जुषी प्रीतिसेवनयोः । लेट्यडागमश्चांदसः । शपः श्लुः ॥ मयोभुवः
+> सुखस्य भावयित्यो वृष्टयोऽस्थे अस्माकं तत्प्रसादात्संतु । भवंतु । तथा देवगोपा देवः पर्जन्यो गोपायिता रक्षिता यासां तथाविधा ओषधीरोषधयश्च
+> सुपिप्पलाः सुफला अस्माकं भवंतु ॥
+
+##### Gist of the bhāṣya
+
+This speech, this praise, is made for the self-ruling Parjanya (स्वराजे (*svarāje*)), whose radiance is his own. Let it go to the inside of his heart (हृदो अस्त्वंतरं (*hṛdo astvaṃtaraṃ*)). Let him enjoy (जुजोषत् (*jujoṣat*)) that praise; जुषी (*juṣī*) is the root in the sense of liking and serving. Let the rains, the bringers of happiness (मयोभुवः (*mayobhuvaḥ*)), be for us by his favour. Likewise the plants, of which the god Parjanya is the guardian (देवगोपाः (*devagopāḥ*)), the protector, and which are such, with good fruit (सुपिप्पलाः (*supippalāḥ*)), let them be for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इदं वचः (*idaṃ vacaḥ*)—this word of praise recited here
+- स्वराजे (*svarāje*)—to the self-controlled, radiant
+- पर्जन्याय (*parjanyāya*)—offered to Parjanya
+- हृदः (*hṛdaḥ*)—of the heart
+- अंतरं (*aṃtaraṃ*)—the inner depth
+- अस्तु (*astu*)—let it enter
+- तत् (*tat*)—that praise
+- जुजोषत् (*jujoṣat*)—let it serve him
+- मयोभुवः (*mayobhuvaḥ*)—conducive to happiness
+- वृष्टयः (*vṛṣṭayaḥ*)—the rains
+- अस्मे (*asme*)—becoming beneficial to us
+- संतु (*saṃtu*)—let them be
+- देवगोपाः (*devagopāḥ*)—protected by the divine Parjanya
+- ऒषधीः (*òṣadhīḥ*)—the plants
+- सुपिप्पलाः (*supippalāḥ*)—let them be bearers of good fruit
+
 ---
 
-**Progress note:** Done through printed p. 213. pp. 206-213 (batch API)
+**Progress note:** Done through printed p. 220. pp. 214-220 (batch API)
