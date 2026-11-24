@@ -2117,6 +2117,262 @@ Explained already. May this praise of mine reach Indra and Varuṇa. Impelled by
 
 May this praise of mine pervade and unite with Indra and Varuṇa. May this same praise, offered by me, be a protector of our sons and grandsons. May we, possessing excellent wealth, perform the sacrifice dear to the gods
 
+### Printed p. 53
+
+May this my praise reach Indra and Varuna; and, earnestly offered by me, may it protect sons and grandsons. Possessed of excellent wealth, may we present the food desired by the gods. O Indra, Varuna and the others, may you all always protect us with blessings.
+
+##### English translation
+May this my praise reach Indra and Varuna: and earnestly offered (by me), preserve sons and grandsons : let us possessed of affluence, present (their) food to the gods: and do you, (deities), ever cherish us with blessings.
+
+## Sūkta 86 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धीरा त्वस्येत्यष्टर्चं षोडशं सूक्तं वसिष्ठस्मार्षं त्रैष्टुभं वरुणदेवत्यं
+> तथा चानुक्रांतं । धीराष्ट्रौ वारुणं हेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+This is the sixteenth sūkta, of eight Ṛks, beginning धीरा त्वस्य (*dhīrā tvasya*). Its seer is Vasiṣṭha, its deity Varuṇa, its metre Triṣṭubh. The Anukramaṇī says: धीराष्ट्रौ वारुणं ह (*dhīrāṣṭrau vāruṇaṃ ha*). The viniyoga has already been given.
+
+The Kannada Anuvāda says: this sūkta धीरा त्वस्य (*dhīrā tvasya*) is the sixteenth sūkta in the fifth anuvāka and has eight Ṛks. Vasiṣṭha is the seer, Varuṇa the deity, Triṣṭubh the metre. The Anukramaṇī says धीराष्टौ वारुणं ह (*dhīrāṣṭau vāruṇaṃ ha*). The viniyoga was stated earlier.
+
+Particulars: Maṇḍala 7; Anuvāka 5; Sūkta 86; Aṣṭaka 5; Adhyāya 6; Varga 8; number of Ṛks in the sūkta: 8. Ṛṣi: Vasiṣṭha. Deity: Varuṇa. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धीरा॒ त्व॑स्य महि॒ना ज॒नूंषि॒ वि यस्त॒स्तंभ॒ रोद॑सी चिदु॒र्वी।  
+> प्र नाक॑मृ॒ष्टं नु॑नुदे बृ॒हंतं॑ द्वि॒ता नक्ष॑त्रं प॒प्रथ॑च्च॒  ॑
+> भूम ॥ १ ॥
+
+### Printed p. 54
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धीरा । तु । अस्य । महिना । जनूंषि । वि । यः । तस्तंभ । रोदसी इति । चित् ।  
+> उर्वी इति ।  
+> प्र । नाकं । ऋष्वं । नुनुदे । बृहंतं । द्विता । नक्षत्रं । पप्रथत् । च । भूम ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य वरुणस्य जनूंषि जन्मानि महिना महिम्ना तु क्षिप्रं धीरा धीराणि धैर्यवंति भवंति । यो वरुण उर्वी विस्तीर्णे रोदसी चिद्वानापृथिव्यावपि वि तस्तंभ
+> विविधं स्तब्धे स्वकीये स्थाने स्थिते अकरोत् । यश्च बृहंतं महांतं नाकमादित्यं
+> नक्षत्रं चर्ष्वं दर्शनीयं द्विता द्वैधं प्र नुनुदे प्रेरयति स्म । अहनि सूर्यं
+> दर्शनीयं प्रेरयति रात्र्य नक्षत्रं तथेति द्विप्रकारः । भूम भूमिं च यः पप्रथत्
+> अप्रथयत् विस्तारितवान् । तस्यास्य वरुणस्येत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The births of this Varuṇa become firm (धीरा (*dhīrā*), steadfast) through his greatness, and quickly. Varuṇa propped apart the two wide worlds, heaven and earth, setting them in their own places. He impels the great नाकं (*nākaṃ*), the sun, and the lovely star in two ways: by day he impels the lovely sun, by night the star; thus there are two kinds. He also spread out the earth. The construction is "of this Varuṇa".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Varuṇa who
+- उर्वी (*urvī*)—very wide
+- रोदसी चित् (*rodasī cit*)—heaven and earth
+- वि तस्तंभ (*vi tastaṃbha*)—established separately
+- बृहंतं (*bṛhaṃtaṃ*)—great
+- नाकं (*nākaṃ*)—the stars located in the sky
+- आदित्यं (*ādityaṃ*)—and the sun
+- ऋष्ट्वं (*ṛṣṭvaṃ*)—one of attractive form
+- द्विता (*dvitā*)—one of two kinds of form
+- प्रनुनुदे (*pranunude*)—impelled
+- भूम च (*bhūma ca*)—the earth also
+- पप्रथत् (*paprathat*)—which Varuṇa made very wide
+- अस्य (*asya*)—of that same Varuṇa
+- जनूंषि (*janūṃṣi*)—births
+- धीरा (*dhīrā*)—steadfast
+- महिना तु (*mahinā tu*)—endowed with majesty indeed
+
+##### भावार्थ (Bhāvārtha)
+
+The Varuṇa who established the two very wide worlds, heaven and earth, separately; who impelled the stars of the great sky and the sun so that they are of attractive form; and who made the earth also very wide: the births of that same Varuṇa remain steadfast and endowed with majesty.
+
+##### English translation
+Permanent in greatness are the births of that Varuna who propped up the vast heaven and earth, who appointed to (their) two-fold (task) the glorious sun and beautiful constellations, who spread out the earth.
+
+### Printed p. 55
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्वया॑ त॒न्वा॒३॒॑ ३ सं व॑दे॒ तत्क॒दा न्१॒॑नर्वरु॑णे भुवानि ।  
+> किं मे॑ ह॒व्यमहृ॑णानो जुषेत क॒दा मृ॑ळी॒कं सु॒मना॑ ॒ ॑
+> अभि ख्यं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्वया । तन्वा । सं । वदे । तत् । कदा । नु । अंतः । वरुणे । भुवानि ।  
+> किं । मे । हव्यं । अहृणानः । जुषेत । कदा । मृळीकं । सुमनाः । अभि । ख्यं ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरुणं शीघ्रं दिदृक्षमाण ऋषिरनया वितर्कयति । उतेति विचिकित्सायां ।
+> उत किं स्वया तन्ना स्वीयेनात्मीयेन शरीरेण सं वदे ' सहवदनं करोमि ।
+> आहो स्वित् तत्तेन वरुणेन सह सं वदे । कदा नु कदा खलु वरुणे देवेंतर्भुवानि । अंतर्भूतो भवानि । वरुणस्य चित्ते संलग्नो भवानीत्यर्थः । आपि च मे
+> मदीयं हव्यं स्तोत्रं हनिर्वाहृणानोऽक्रुद्यन् वरुणः किं केन हेतुना जुषेत।
+> सेवेत । सुमनाः शोभनमनस्कः सन्नहं कदा कस्मिन्काले मृळीकं सुखयितारं
+> वरुणमभि ख्यं । अभिपश्येय्यं ॥
+
+##### Gist of the bhāṣya
+
+The seer, eager to see Varuṇa quickly, reflects in this Ṛk. उत (*uta*) expresses doubt: shall I converse with him in my own body, or with Varuṇa himself? When shall I become inwardly present in Varuṇa, that is, attached to Varuṇa's mind? And why would Varuṇa, free from anger, take pleasure in my oblation, my hymn or offering? When, with a kindly mind, shall I look upon Varuṇa, the giver of happiness?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—in what manner
+- स्वया तन्वा (*svayā tanvā*)—with Varuṇa, visible in his own body
+- सं वदे (*saṃ vade*)—can I stand face to face and converse?
+- कदा नु (*kadā nu*)—when indeed
+- तत् वरुणे (*tat varuṇe*)—of that same Varuṇa
+- अंतः (*aṃtaḥ*)—within the heart
+- भुवना (*bhuvanā*)—can I enter?
+- मे (*me*)—my
+- हव्यं (*havyaṃ*)—hymn
+- अहृणानः (*ahṛṇānaḥ*)—Varuṇa, not angered
+- किं (*kiṃ*)—in what way
+- जुषेत (*juṣeta*)—may he accept?
+- सुमनाः (*sumanāḥ*)—I, of excellent worshipful mind
+- कदा (*kadā*)—when
+- मृळीकं (*mṛḷīkaṃ*)—Varuṇa, the giver of happiness
+- अभि ख्यं (*abhi khyaṃ*)—can I see?
+
+##### भावार्थ (Bhāvārtha)
+
+In what way can I stand face to face and converse with Varuṇa, visible in his own body? When can I enter, becoming inward in the heart of that same Varuṇa?
+
+### Printed p. 56
+
+In what way can the angerless Varuṇa accept my hymn? When can I, of excellent worshipful mind, see Varuṇa the giver of happiness?
+
+##### English translation
+When may I in my person converse with that deity? when may I (be admitted) to the heart of Varuna? by what means may he, without displeasure, accept my oblation? when may I, rejoicing in mind, behold that giver of felicity?
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृ॒च्छे तदेनो॑ वरुण दि॒दृक्षूपो॑ एमि चिकि॒तुषो॑ वि॒पृच्छं॑ ।  
+> स॒मा॒नमिन्मे॑ क॒वय॑श्चिदाहुर॒यं ह॒ तुभ्यं॒ वरु॑णो हृणीते॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पृच्छे । तत् । एनः । वरुण । दिदृक्षु । उपो इति । एमि । चिकितुषः । विपृच्छं ।  
+> समानं । इत् । मे । कवयः । चित् । आहुः । अयं । ह । तुभ्यं । वरुणः ।  
+> हृणीते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण तदेनः पापं पृच्छे । त्वां पृच्छामि। दिदृक्षु ॥ छांदसः सुलोपः।
+> द्रष्टुमिच्छन्नहं येन पापेन हेतुना त्वदीयैः पाशैर्बद्दोऽस्मि पृष्टः संस्तत्पापं
+> कथय । अहं विपृच्छं विविधं प्रष्टुं चिकितुषो विदुषो जनानुपो एमि ।
+> उपागां । ते कवयश्चित् क्रांतदर्शिनो जनाश्च मे मह्यं समानमित् समानमेवैकरूपमेवाहुः । अकथयन् । यदाहुस्तदाह । हे स्तोतः तुभ्यमयं
+> हायमेव वरुणो हृणीते । क्रुद्धतीति । अतः क्रोधं परित्यज्यास्मान्पाशेभ्यो
+> मोचय ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa, I ask you about that sin. Wishing to see (दिदृक्षु (*didṛkṣu*), a Vedic elision), I ask: for what sin am I bound by your nooses? Being asked, tell me that sin. To question fully I have approached the knowing people. Those seers, men of far-reaching vision, told me one and the same thing; what they said is: "O worshipper, this Varuṇa is angry with you." Therefore give up your anger and free us from the nooses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- तत् एनः (*tat enaḥ*)—what sin I have committed against you
+- दिदृक्षु (*didṛkṣu*)—I, wishing to see you in person
+- पृच्छे (*pṛcche*)—ask
+- विपृच्छं (*vipṛcchaṃ*)—to ask this very matter thoroughly and learn
+- चिकितुषः (*cikituṣaḥ*)—the wise seers
+
+### Printed p. 57
+
+- उपो एमि (*upo emi*)—I approached and asked
+- कवयश्चित् (*kavayaścit*)—those poets of far-reaching vision
+- मे (*me*)—to me
+- समानमित् (*samānamit*)—all with one and the same opinion
+- अहुः (*ahuḥ*)—told (namely)
+- (स्तोतः (*stotaḥ*)—O worshipper)
+- तुभ्यं (*tubhyaṃ*)—with regard to you
+- अयं ह वरुणः (*ayaṃ ha varuṇaḥ*)—this very Varuṇa
+- हृणीते (*hṛṇīte*)—is angry
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, wishing to see you in person, I ask you yourself what sin I have committed against you. To ask and learn this very matter thoroughly, I approached the wise seers and asked. All those seers of far-reaching vision told me one and the same opinion, namely: "O worshipper, Varuṇa is angry with you."
+
+##### English translation
+Desirous of beholding you, Varuna, I inquire what is my offence : I have gone to make inquiry of the wise: the sages verily have said the same thing to me :-this Varuna is displeased with you.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमाग॑ आस वरुण॒ ज्येष्ठं॒ यत्सो॒तारं॒ जिघां॑ससि॒ सखा॑यं।  
+> प्र तन्ने॑ वोचो दूळभ स्वधा॒वोऽव॑ त्वाने॒ना नम॑सा तु॒र  ॑
+> इयां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । आगः । आस । वरुण । ज्येष्ठं । यत् । स्तोतारं । जिघांससि । सखायं ।  
+> प्र । तत् । मे । वोचः । दुःसदभ । स्वधावः । अव । त्वा । अनेनाः । नमसा ।  
+> तुरः । इयां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण ज्येष्ठमधिकं किमाग आस । कोऽपराधो मया कृतो बभूव ।
+> यद्येनागसा सखायं मित्रभूतं संतं स्तोतारं जिघांससि हंतुमिच्छसि । हे
+
+##### Gist of the bhāṣya
+
+O Varuṇa, what was the great, the heavy offence, what fault was done by me, because of which you wish to kill me, your friend and worshipper? O
+
+### Printed p. 58
+
+> दूळभ दुर्दभान्यैर्बाधितुमशक्य स्वधावस्तेजस्विन् हे वरुण तदागो मे मह्यं
+> प्र वोचः । प्रब्रूहि। एवं सति तस्य प्रायश्चित्तं कृत्वानेना अपापः सन्नहं तुरस्वरमाणः शीघ्रो नमसा नमस्कारेण हविषा ना त्वामवेयां । उपगच्छेयं ॥
+
+##### Gist of the bhāṣya
+
+(continued) O Varuṇa, insuperable by others and full of vigour, declare that offence to me. Then, having made atonement for it and being sinless, I would quickly approach you with homage, that is, with an oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O god Varuṇa
+- यत् (*yat*)—on account of what offence
+- सखायं (*sakhāyaṃ*)—me, your friend
+- स्तोतारं (*stotāraṃ*)—and worshipper
+- जिघांससि (*jighāṃsasi*)—you wish to kill
+- ज्येष्ठं (*jyeṣṭhaṃ*)—very powerful
+- किं आगः (*kiṃ āgaḥ*)—what sin
+- आस (*āsa*)—was in me?
+- दूळभ (*dūḷabha*)—one of strength that others cannot withstand
+- स्वधावः (*svadhāvaḥ*)—and resplendent, O Varuṇa
+- तत् (*tat*)—the nature of that sin
+- मे (*me*)—to me
+- प्र वोचः (*pra vocaḥ*)—tell
+- अनेनाः (*anenāḥ*)—I, freed from that sin
+- तुरः (*turaḥ*)—quickly
+- नमसा (*namasā*)—together with an oblation
+- त्वा (*tvā*)—you
+- अव इयां (*ava iyāṃ*)—may I approach
+
+##### भावार्थ (Bhāvārtha)
+
+O god Varuṇa, on account of what offence do you wish to kill me, your friend and worshipper? What very powerful sin was in me? O Varuṇa, of strength that others cannot withstand and resplendent, tell me the nature of that sin. Freed from that sin, may I quickly approach you together with an oblation.
+
+##### English translation
+What has that great wickedness been, Varuna, you should seek to destroy the worshipper, your friend ? insuperable, resplendent Varuna, declare it to me, so that, freed from sin, I may quick approach you with veneration.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ द्रु॒ग्धानि॒ पित्रा॑ सृजा॒ नोऽन॒ या व॒यं च॑कृ॒मा  ॒॑
+> त॒नूभिः॑ । ॑ 
+> अव॑ राजन्पशु॒तृपं॒ न ता॒यं सृ॒जा व॒त्सं न दाम्नो॒ वसि॑ष्ठं ॥
+
 ---
 
-**Progress note:** Done through printed p. 52. pp. 45-52 (batch API)
+**Progress note:** Done through printed p. 58. pp. 53-58 (batch API)
