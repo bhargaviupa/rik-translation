@@ -20272,6 +20272,313 @@ Sāyaṇa says: O Agni, you are the one whose wealth is radiance, the lord of we
 - सुमतौ (*sumatau*)—in favourable thought
 - स्याम (*syāma*)—may we be
 
+### Printed p. 445
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are one whose wealth is radiance, the lord of wealth. For that very reason may we too become worthy of your favour.
+
+##### English translation
+Agni, you are rich in splendour, the lord of wealth, and the giver of dwellings; may we too abide in your favour.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ धृ॒तव्र॑ताय ते समु॒द्राये॑व॒ सिंध॑वः ।  
+> गिरो॑ वा॒श्रास॑ ईरते ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । धृतव्रताय । ते । समुद्राय इव । सिंधवः ।  
+> गिरः । वाश्रासः । ईरते ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने धृतव्रताय धृतकर्मणे ते तुभ्यं वाश्रासो नाशनशीला गिरो मम
+> स्तुतयः सिंधवो नद्यः समुद्रायेव यथा समुद्राय तथेरते । प्रवर्तंते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, to you who uphold the rites, my praises, which are of a destroying nature, go forth as rivers go to the sea; that is, they proceed to you. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सिंधवः (*siṃdhavaḥ*)—rivers
+- समुद्राय इव (*samudrāya iva*)—as they flow towards the sea
+- वाश्रासः (*vāśrāsaḥ*)—that make sound
+- गिरः (*giraḥ*)—my praises
+- धृतव्रताय (*dhṛtavratāya*)—to you, the upholder of vows
+- ते (*te*)—towards you
+- ईरते (*īrate*)—they move
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as rivers flow towards the sea, my loud praises move towards you, who uphold the rites (who are the instrument for the performance of rites).
+
+##### English translation
+Agni, my loud praises proceed to you, observant of pious rites, as rivers to the sea.
+
+### Printed p. 446
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युवा॑नं वि॒श्वतिं॑ क॒विं वि॒श्वादं॑ पुरु॒वेप॑सं ।  
+> अ॒ग्निं शुं॑भामि॒ मन्म॑भिः ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवानं । विश्वतिं । कविं । विश्वअदं । पुरुवेपसं ।  
+> अग्निं । शुंभामि । मन्मभिः ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युवानं नित्यतरुणं विश्वतिं विशां पतिं कविं क्रांतकर्माणं विश्वादं सर्वस्य
+> हविषोत्तारं पुरुवेपसं बहुकर्माणं । वेशो वेप इति कर्मनामसु पाठात् ।
+> अग्निं मन्मभिर्मननीयैः स्तोत्रैः शुंभामि । शोभयामि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Agni is ever young, the lord of the people (विश्वतिं (*viśvatiṃ*) explained as lord of the clans), a seer, that is one of far-reaching works, the eater of all, that is the consumer of every oblation, and one of many works; for वेशो वेप इति कर्मनामसु पाठात् (*veśo vepa iti karmanāmasu pāṭhāt*) (veśa and vepa are read among the names of action). Agni I adorn, that is I beautify, with hymns fit to be meditated on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवानं (*yuvānaṃ*)—the ever-young
+- विश्वतिं (*viśvatiṃ*)—the protector of the people
+- कविं (*kaviṃ*)—one of far-reaching works
+- विश्वादं (*viśvādaṃ*)—the eater of all oblations
+- पुरुवेपसं (*puruvepasaṃ*)—one of many kinds of works
+- अग्निं (*agniṃ*)—Agni
+- मन्मभिः (*manmabhiḥ*)—with meditative praises
+- शुंभामि (*śuṃbhāmi*)—I adorn, that is, I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I adorn, that is I praise, with meditative praises Agni, who is ever young, the protector of the people, and one of far-reaching works.
+
+##### English translation
+I glorify with hymns the ever-young Agni, the lord of men, the wise the all-devouring, the performer of many acts.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञानां॑ र॒थ्ये॑ व॒यं ति॒ग्मजं॑भाय वी॒ळवे॑ ।  
+> स्तोमै॑रिषेमा॒ग्नये॑ ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञानां । रथ्ये । वयं । तिग्मजंभाय । वीळपे ।  
+> सोमैः । इषेम । आग्नये ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञानां रथ्ये नेत्रे तिग्मजंभाय तीक्ष्णज्वालाय वीळवे बलवतेऽग्नये
+> स्तोमैः स्तोत्रैर्वयमांगिरसा इषेम । स्तुतिं कर्तुमिच्छेम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: to Agni, the leader of sacrifices, of sharp flame, the mighty, we, the Āṅgirasas, wish to offer praise with hymns of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञानां (*yajñānāṃ*)—for sacrifices
+- रथ्ये (*rathye*)—the leader
+- तिग्मजंभाय (*tigmajaṃbhāya*)—of sharp flame
+- वीळवे (*vīḷave*)—the mighty
+- अग्नये (*agnaye*)—to Agni
+- स्तोमैः (*stomaiḥ*)—with hymns of praise
+- वयं (*vayaṃ*)—we
+- इषेम (*iṣema*)—wish to praise
+
+##### भावार्थ (Bhāvārtha)
+
+We wish to praise with hymns Agni, who is the leader of sacrifices, of sharp flame, and mighty.
+
+##### English translation
+Let us seek with our hymns Agni, the conductor of the sacrifices, the mighty, the sharp-jawed.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यम॑ग्ने॒ त्वे अपि॑ जरि॒ता भू॑तु संत्य ।  
+> तस्मै॑ पावक मृळय ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । अग्ने । त्वे इति । अपि । जरिता । भूतु । संत्य ।  
+> तस्मै । पावक । मृळय ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पावक शोधक संत्य भजनीयाग्ने त्वे अपि त्वय्यप्ययमस्मदीयो
+> जनो जरिता स्तोता भूतु । भवतु । तस्यॆ जरित्रे मृळयॆ । सुखमुत्पादय । कं
+> सुखय वा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, purifier, adorable (संत्य (*saṃtya*) explained as one to be resorted to), may this our man become a praiser in you also; to that praiser grant happiness, or make him happy (कं (*kaṃ*) is explained as happiness).
+
+### Printed p. 448
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पावक (*pāvaka*)—O purifier
+- संत्य (*saṃtya*)—O worshipful one
+- अग्ने (*agne*)—O Agni
+- आयं (*āyaṃ*)—this our people
+- त्वे अपि (*tve api*)—you also
+- जरिता (*jaritā*)—as praising people
+- भूतु (*bhūtu*)—let them be
+- तस्मै (*tasmai*)—to those of our people who praise you
+- मृळय (*mṛḷaya*)—bring happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, purifier and worshipful one, may this our people become your praisers as well. Bring happiness to our people who praise you.
+
+##### English translation
+May this (my family) also be your worshippers adorable Agni; O purifier, give them happiness.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धीरो॒ ह्यस्य॑द्म॒सद्विप्रो॒ न जागृ॑विः॒ सदा॑ ।  
+> अग्ने॑ दी॒दय॑सि॒ द्यवि॑ ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धीरः । हि । असि । अद्मसत् । विप्रः । न । जागृविः । सदा ।  
+> अग्ने । दीदयसि । द्यवि ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं धीरोऽसि हि । भवसि खलु । अद्मसद्धविषि सीदन्विप्रो न मेधावीव जागृविः प्रजानां हितकरणे जागरणशीलोऽसि । सदा द्यव्यंतरिक्षे दीदयसि ।
+> दीव्यसि च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, you are steadfast; sitting at the oblation you are like a wise man, ever watchful in doing good to the people; always you shine in the sky and gleam.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- धीरः (*dhīraḥ*)—steady of mind
+- असि हि (*asi hi*)—you are indeed
+- अद्मसत् (*admasat*)—eating the oblation
+- विप्रो न (*vipro na*)—being wise
+- जागृविः (*jāgṛviḥ*)—watchful to do good to the people
+- सदा (*sadā*)—always
+- द्यवि (*dyavi*)—in the sky
+- दीदयसि (*dīdayasi*)—you shine
+
+### Printed p. 449
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are steady of mind. Eating the oblation, being wise, you are always watchful to bring good to the people. You always shine in the sky.
+
+##### English translation
+You verily are wise, seated at the el lation. wakeful as the seer (for the welfare of living beings); Agai, you ever shine in the sky. **NOTE**
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒राग्ने॑ दुरि॒तेभ्यः॑ पु॒रा मृ॒ध्रेभ्यः॑ कवे ।  
+> प्र ण॒ आयु॑र्वसो तिर । ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरा । अग्ने । दुःइतेभ्यः । पुरा । मृध्रेभ्यः । कवे ।  
+> प्र । नः । आयुः । वसो इति । तिर ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासक कवे क्रांतकर्मन्नग्ने दुरितेभ्यः पापेभ्यः पुरा मृध्रेभ्यो
+> हिंसकेभ्यश्च पुरा । यदा दुरितानि शत्रवश्चास्मान् हिंसितुमद्युंजते ततः
+> प्रागेवेत्यर्थः । नोऽस्माकमायुः प्रतिर । वर्धय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Vasu, giver of dwelling, O seer of far-reaching works, Agni, before sins and before harmful enemies; that is, before the time when sins and enemies are ready to harm us, lengthen our life; increase it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O giver of dwelling
+- कवे (*kave*)—O far-seeing one
+- अग्ने (*agne*)—O Agni
+- दुरितेभ्यः पुरा (*duritebhyaḥ purā*)—before trouble comes from our sinful deeds
+- मृध्रेभ्यः पुरा (*mṛdhrebhyaḥ purā*)—before harm comes from our enemies
+- नः (*naḥ*)—our
+- आयुः (*āyuḥ*)—life
+- प्रतिर (*pratira*)—increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of dwelling and far-seeing one, before trouble comes to us from our sinful deeds, before harm comes to us from our enemies, increase our life.
+
+### Printed p. 450
+
+##### English translation
+Wise Agni, giver of dwellings, extend our lives, before sins or assailants (destroy us.)
+
+## Sūkta 45 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ घा य इति द्विचत्वारिंशदृचं तृतीयं सूक्तं । अत्रेयमनुक्रमणिका ।
+> आ घ द्विचत्वारिंशत्रिशोक आद्याग्नेंद्री । अनुक्तगोत्रत्वात्कांविस्त्रिशोक ऋषिः । परं
+> गायत्रं प्राग्वत्सप्रेरिति परिभाषया गायत्री छंदः । अनुक्तत्वादिंद्रो देवता ।
+> आद्यायास्त्वग्निश्चेंद्रश्च ॥ महाव्रते निष्केवल्ये गायत्रतृचाशीतावेतत्तूक्तं । तथैव
+> पंचमारण्यके सूत्रितं । आ घा ये अग्निमिंधत आ तू न इंद्र क्षुमंतमिति सूक्ते ।
+> ऐ. आ. ५-२-३ । इति ॥ तृतीये पर्यायेच्छावाकशस्त्र आदितः सप्तदशर्चः । तथैवातिरात्र इति खंडे सूत्यते । आ घा ये अग्निमिंधत इति सप्तदश । आ. ६-९ । इति ॥
+> आग्रयण आग्नेंद्रस्य हविष आ घा य इत्येषानुवाक्या । सूत्रितं च । आ घा ये
+> अग्निमिंधते सुकर्माणः सुरुचो देवयंत इति स्तोत्रं । आ. २-९ । इति ॥
+> मैत्रावरुणातिरिकोक्ष्यॆ स्तोत्रमिंद्रायेत्याद्याः षड्यचो विकल्पेन स्तोत्रियानुरूपाः । सूत्रितं च । तद्वो गाय सुते सचा स्तोत्रमिंद्राय गायत । आ. ९-११ ।
+> इति ॥ द्वितीये पर्याये ब्राह्मणाच्छंसिनोऽभि त्वा वृषभेति स्तोत्रियत्त्वचः ।
+> सूत्रितं च । अभि त्वा वृषभा सुतेऽभि प्र गोपतिं गिरा । आ. ६-४ । इति ॥ चातुर्विंशिकेऽहनि प्रातःसवने भिंधि विश्वा इति ब्राह्मणाच्छंसिनः षळहस्तोत्रियः । तथा च
+> सूत्रितं । भिंधि विश्वा अप द्विष इति ब्राह्मणाच्छंसिनः । आ. ७-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the hymn beginning आ घा य (*ā ghā ya*) has forty-two Ṛks and is the third sūkta. The Anukramaṇī says of it: आ घ द्विचत्वारिंशत्रिशोक आद्याग्नेंद्री (*ā gha dvicatvāriṃśatriśoka ādyāgneṃdrī*). Because no gotra is stated, the seer is Triśoka Kāṇva **NOTE**. The metre is Gāyatrī by the rule on the metre that follows the preceding one; the deity is Indra, as none is stated; but of the first Ṛk the deities are Agni and Indra. In the Mahāvrata, in the Niṣkevalya śastra, this sūkta is used for the Gāyatra tṛca; so it is laid down in the fifth Āraṇyaka: आ घा ये अग्निमिंधत आ तू न इंद्र क्षुमंतमिति सूक्ते (*ā ghā ye agnimiṃdhata ā tū na iṃdra kṣumaṃtamiti sūkte*) (Ai. Ā. 5-2-3). In the third paryāya, in the Acchāvāka śastra, the first seventeen Ṛks are used; likewise in the Atirātra it is taught in the section so named: आ घा ये अग्निमिंधत इति सप्तदश (*ā ghā ye agnimiṃdhata iti saptadaśa*) (Ā. 6-9). In the Āgrayaṇa, for the oblation to Agni and Indra, the Ṛk आ घा य (*ā ghā ya*) is the anuvākyā; and the sūtra says: आ घा ये अग्निमिंधते सुकर्माणः सुरुचो देवयंत इति स्तोत्रं (*ā ghā ye agnimiṃdhate sukarmāṇaḥ suruco devayaṃta iti stotraṃ*) (Ā. 2-9). In the Maitrāvaruṇa's atirikta-ukthya, the six Ṛks स्तोत्रमिंद्रायेत्याद्याः (*stotramiṃdrāyetyādyāḥ*) are, optionally, stotriyā and anurūpa verses; and the sūtra says: तद्वो गाय सुते सचा स्तोत्रमिंद्राय गायत (*tadvo gāya sute sacā stotramiṃdrāya gāyata*) (Ā. 9-11). In the second paryāya, for the Brāhmaṇācchaṃsin, the Ṛks beginning अभि त्वा वृषभ (*abhi tvā vṛṣabha*) are the stotriya tṛca; and the sūtra says: अभि त्वा वृषभा सुतेऽभि प्र गोपतिं गिरा (*abhi tvā vṛṣabhā sute 'bhi pra gopatiṃ girā*) (Ā. 6-4). On the Cāturviṃśika day, at the morning pressing, the Brāhmaṇācchaṃsin has the ṣaḷaha stotriya beginning भिंधि विश्वा (*bhiṃdhi viśvā*); and so the sūtra says: भिंधि विश्वा अप द्विष इति ब्राह्मणाच्छंसिनः (*bhiṃdhi viśvā apa dviṣa iti brāhmaṇācchaṃsinaḥ*) (Ā. 7-2).
+
+##### Anuvāda
+
+This sūkta beginning आ घा ये (*ā ghā ye*) is the third sūkta in the sixth Anuvāka. It has forty-two Ṛks. In the Anukramaṇī it is said: आ घ द्विचत्वारिंश (*ā gha dvicatvāriṃśa*) ... आद्याग्नेंद्री (*ādyāgneṃdrī*). The seer of this sūkta is one called Triśokaḥ Kāṇvaḥ; the deity is Indra; for the first Ṛk alone the deities are the two, Agni and Indra. The metre is Gāyatrī. In the Mahāvrateṣṭi, at the time of reciting the mantras of the Niṣkevalya śastra, this sūkta is applied for the Ṛks of the Gāyatrī metre; this is stated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence आ घा ये अग्निमिंधत आ तॊ न इंद्र क्षुमंतमिति सूक्ते (*ā ghā ye agnimiṃdhata ā tò na iṃdra kṣumaṃtamiti sūkte*) (Ai. A. 5-2-3) **NOTE**. In the third paryāya, in the section called Atirātra of the Āśvalāyana Śrauta Sūtra, it is explained by the sūtra आ घा ये अग्निमिंधते इति सप्तदश (*ā ghā ye agnimiṃdhate iti saptadaśa*) (Ā. 6-4) **NOTE**.
+
+### Printed p. 451
+
+In the Āgrayaṇeṣṭi, in the homa with the oblation, addressed to the deities Agni and Indra, this Ṛk beginning आ घा ये (*ā ghā ye*) is to be recited as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra आ घा ये अग्निमिंधते सुकर्माणः सुरुचो देवयुत इति स्तोत्रं (*ā ghā ye agnimiṃdhate sukarmāṇaḥ suruco devayuta iti stotraṃ*) (Ā. 2-9) **NOTE**. Of the mantras to be recited by the priest called Maitrāvaruṇa, the six Ṛks following the twenty-first Ṛk of this sūkta, स्तोत्रमिंद्राय (*stotramiṃdrāya*), are to be recited optionally as stotriyā and anurūpa mantras; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तद्दो गाय सुते सचा स्तोत्रमिंद्राय गायत (*taddo gāya sute sacā stotramiṃdrāya gāyata*) (Ā. 9-11). In the second paryāya the priest called Brāhmaṇācchaṃsin is to recite the twenty-second to twenty-fourth Ṛks of this sūkta, beginning अभि त्वा वृषभ (*abhi tvā vṛṣabha*), as the tṛca of the stotra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अभि त्वा वृषभा सुतेऽभि प्रगोपतिं गिरा (*abhi tvā vṛṣabhā sute 'bhi pragopatiṃ girā*) (Ā. 6-4). At the time of the morning pressing on the day of the sacrifice called Cāturviṃśika, the priest called Brāhmaṇācchaṃsin is to recite the fortieth to forty-second Ṛks of this sūkta, beginning भिंडि विश्वा (*bhiṃḍi viśvā*), as the ṣaḷaha-stotriya tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra भिंडि विश्वा अप द्विष इति ब्राह्मणाच्छंसिनः (*bhiṃḍi viśvā apa dviṣa iti brāhmaṇācchaṃsinaḥ*) (Ā. 6-2) **NOTE**.
+
+##### Particulars
+
+- Sūkta 45
+- Maṇḍala 8; Anuvāka 6; Sūkta 45
+- Aṣṭaka 6; Adhyāya 3; Vargas 42, 43, 44, 45, 46, 47, 48, 49
+- Number of Ṛks in the sūkta: 42
+- Ṛṣi: Triśokaḥ Kāṇvaḥ
+- Devatā: 1. Indrāgni; 2-42. Indraḥ
+- Chandas: Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ घा॒ ये अ॒ग्निमिं॑ध॒ते स्त्॒रणंति॑ ब॒र्हिरा॑नु॒षक् ।  
+> येषा॒मिंद्रो॒ युवा॒ सखा॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । घ । ये । अग्निं । इंथते । स्तृणंति । बर्हिः । अनुषक् ।  
+> येषां । इंद्रः । युवा । सखा ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 444. Mandala 8 sukta 44 rks 17-24
+**Progress note:** Done through printed p. 451. Ṛks 25-30 of Sūkta 44 and the introduction and Ṛk 1 of Sūkta 45
