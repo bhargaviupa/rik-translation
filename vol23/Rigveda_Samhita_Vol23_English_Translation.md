@@ -30833,6 +30833,281 @@ When (in the combat), Indra, they invoke you in many ways with praise for protec
 
 O worshipper, for our great (महे (*mahe*)) क्षयाय (*kṣayāya*), which is a name for "house", that is, for the house: the fourth case is in the sense of "for the sake of". For the sake of the house, अरं (*araṃ*) means "enough, sufficient". विश्वा (*viśvā*), all-pervading forms (रूपाणि (*rūpāṇi*)) belonging to Indra, that is, his classes of qualities, आविशन् (*āviśan*), "pervade" with praise (the text then glosses शचीपतिं (*śacīpatiṃ*): शची (*śacī*) is a name for action).
 
+### Printed p. 734
+
+> कर्मणां पालकं । यद्वा । शच्या इंद्राण्या भर्तारं । तमेवेंद्रं जैत्राय
+> जेतव्यधनार्थं हर्षय । तोषय स्तुत्या परिचरणेन वेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes his gloss of the verse. Śacīpati is "the protector of rites"; or else "the husband of Śacī, that is, Indrāṇī". Hence: gratify that same Indra, for the sake of the spoil to be won by victory, with praise or with service (this is what is to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वा (*viśvā*)—all
+- रूपाणि (*rūpāṇi*)—all the forms of Indra
+- नः (*naḥ*)—our
+- महे (*mahe*)—great
+- क्षयाय (*kṣayāya*)—to the house
+- अरं (*araṃ*)—fully
+- आविशन् (*āviśan*)—have entered
+- शचीपतिं (*śacīpatiṃ*)—the protector of rites
+- इंद्रं (*iṃdraṃ*)—Indra
+- जैत्राय (*jaitrāya*)—for the gain of wealth worth winning by victory
+- हर्षय (*harṣaya*)—gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, all the forms of Indra have fully entered our great house. Gladden Indra, the protector of rites, for the gain of wealth worth winning by victory.
+
+##### English translation
+All the forms (of Indra) have sufficiently entered into our own spacious abode : gratify Indra the lord of Sachi, (that he may give us) the spoil of victory.
+
+## Sūkta 16 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र सम्राजमिति द्वादशर्चं चतुर्थं सूक्तमिरिंबिठिनाम्नः काण्वस्यार्षं
+> गायत्रमैंद्रं । अनुक्रम्यते हि । प्र सम्राजं द्वादशेरिंबिठिरिति ॥ अतिरात्रॆ द्वितीये
+> पर्यायेच्छावाकशस्त्र एतत्सूक्तं । सूत्रितं च । प्र सम्राजमुप क्रमस्वा भर ।
+> आ. ६-४. । इति ॥ महाव्रतेऽपि निष्केवल्य एतदादिके द्वे सूक्ते उपरितनस्यांत्यं
+> द्वचं वर्जयित्वा । तथैव पंचमारण्यके सूत्रितं । प्र सम्राजं चर्षणीनामिति
+> सूक्ते उत्तरस्कोत्तमे उद्धरति । ऐ. आ. ५-२-५. ! इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, "Pra samrājam", is the fourth sūkta of the third anuvāka and has twelve ṛks. Its seer is Iriṃbiṭhi of the Kaṇva line, its deity Indra, its metre Gāyatrī. The Anukramaṇī says: प्र सम्राजं द्वादशेरिंबिठिरिति (*pra samrājaṃ dvādaśeriṃbiṭhiriti*). In the Atirātra, in the second paryāya, it is used in the Acchāvāka's śastra. It is prescribed in the sūtra प्र सम्राजमुप क्रमस्वा भर (*pra samrājamupa kramasvā bhara*) (Ā. 6-4). In the Mahāvrata, at the Niṣkevalya, this sūkta and the next, except the last two ṛks of the latter, are used. The Pañcama Āraṇyaka lays this down: प्र सम्राजं चर्षणीनामिति सूक्ते उत्तरस्कोत्तमे उद्धरति (*pra samrājaṃ carṣaṇīnāmiti sūkte uttaraskottame uddharati*) (Ai. Ā. 5-2-5).
+
+The Anuvāda: this sūkta, beginning "Pra samrājam", is the fourth sūkta in the third anuvāka and has twelve ṛks. Its seer is Iriṃbiṭhi of the Kaṇva gotra, its deity Indra, its metre Gāyatrī. The Anukramaṇī says "प्र सम्राजं द्वादशेरिंबिठिः (*pra samrājaṃ dvādaśeriṃbiṭhiḥ*)". In the sacrifice called Atirātra, in the second paryāya, this sūkta is used for the śastra-mantras to be recited by the priest called Acchāvāka, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, "प्र सम्राजमुप क्रमस्वा भर (*pra samrājamupa kramasvā bhara*)" (Ā. 6-4).
+
+### Printed p. 735
+In the Mahāvrata rite too, at the time of reciting the Niṣkevalya-śastra mantras, the two sūktas following this one are used, leaving out the last two ṛks of the later sūkta. This is indicated by the Aitareya Āraṇyaka sentence "प्र सम्राजं चर्षणीनामिति सूक्ते उत्तरस्योत्तमे उद्धरति (*pra samrājaṃ carṣaṇīnāmiti sūkte uttarasyottame uddharati*)" (Ai. Ā. 5-2-5).
+
+Sūkta 16
+Maṇḍala 8; Anuvāka 3; Sūkta 16.
+Aṣṭaka 6; Adhyāya 1; Vargas 20, 21.
+Number of ṛks in the sūkta: 12.
+Seer: Iribiṃṭhi Kāṇva.
+Deity: Indra.
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॒म्राजं॑ चर्षणी॒नामिंद्रं॑ स्तोता॒ नव्यं॑ गी॒र्भिः॥  
+> नरं॑ नृ॒षाहं॒ मंहि॑ष्ठं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । संराजं । चर्षणीनां । इंद्रं । स्तोत । नव्यं । गीःभिः ।  
+> नरं । नृसहं । मंहिष्ठं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चर्षणीनां मनुष्याणां मध्ये सम्राजं सम्यग्राजमानं यद्वा मनुष्याणामधीश्वरमिंद्रं हे स्तोतारः प्र स्तोत । प्रकर्षेण स्तुत । कीदृशं । गीर्भिः
+> स्तुतिभिर्नव्यं स्तुत्यं नरं नेतारं नृषाहं नृणां शत्रुमनुष्याणामभिभवितारं
+> मुंहिष्ठं दातृतमं ॥
+
+##### Gist of the bhāṣya
+
+Among the carṣaṇis, that is, men, Indra is the samrāj, the one who shines supremely; or else the overlord of men. O praisers, praise him forth, extol him greatly. How is he? New, that is, praiseworthy, through songs; nara, the leader; nṛṣāha, the overcomer of men who are enemies; maṃhiṣṭha, the most generous giver.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- नव्यं (*navyaṃ*)—the praised
+- नरं (*naraṃ*)—the leader
+- नृषाहं (*nṛṣāhaṃ*)—the defeater of enemies
+- मंहिष्ठं (*maṃhiṣṭhaṃ*)—the adorable
+- चर्षणीनां (*carṣaṇīnāṃ*)—of all the people
+- सम्राजं (*samrājaṃ*)—the supreme king
+- इंद्रं (*iṃdraṃ*)—Indra
+- प्र स्तोत (*pra stota*)—praise exceedingly
+
+### Printed p. 736
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, praise exceedingly Indra, who is praised with hymns, the leader, the defeater of enemies, the adorable, the supreme king of all the people.
+
+##### English translation
+Glorify with hymns the adorable Indra, the supreme king of men, the leader (of rites), the overcomer of enemies, the most munificent.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॑न्नु॒क्थानि॒ रण्यं॑ति॒ विश्वा॑नि च स्रव॒स्या॑ ।  
+> अ॒पामवो॒ न स॑मु॒द्रॆ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । उक्तानि । रण्यंति : विश्वानि । च । श्रवस्या ।  
+> अपां । अवः । न । समुद्रे !! २ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन्निंद्र उक्कानि शस्त्राणि रण्यंति रमंते विश्वानि सर्वाणि श्रवस्था श्रवस्यानि
+> श्रवणीयानि हविर्लक्षणान्न्यन्नानि च रमंते । तत्र दृष्टांतः । समुद्र उदधावपामुदकानामवो न । अवति गच्छतीत्यवस्तरंगजालं । तद्यथा समुद्रॆऽंतर्भवति
+> तथा रण्यंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In Indra, the uktha-śastras delight, and all the śravasyas, that is, the audible food-offerings and the other foods, delight. The illustration: as the avaḥ of the waters, the mass of waves, is within the ocean, so they delight in him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रे (*samudre*)—in the ocean
+- अपां (*apāṃ*)—of the waters
+- अवो न (*avo na*)—as the masses of waves are united
+- यस्मिन् (*yasmin*)—in that Indra
+- उक्तानि (*uktāni*)—the śastra-mantras
+- रण्यंति (*raṇyaṃti*)—delight
+- च (*ca*)—and
+- विश्वानि (*viśvāni*)—all
+- श्रवस्या (*śravasyā*)—the foods also delight
+
+##### भावार्थ (Bhāvārtha)
+
+As the masses of waves of the waters are united in the ocean, so in that same Indra the śastras gather together and delight. All the offerings, united, delight in him alone.
+
+### Printed p. 737
+
+##### English translation
+In whom all praises, all kinds of sustenance concentrate, like the aggregation of the waters in the ocean.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं सु॑ष्टु॒त्या वि॑वासे ज्येष्ठ॒राजं॒ भरे॑ कृ॒त्नुं ।  
+> म॒हो वा॒जिनं॑ स॒निभ्यः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । सुस्तुत्या । आ । विवासे । ज्येष्ठराजं । भरे । कृत्नुं ।  
+> महः । नाजिनं । सनिभ्यः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमिंद्रं सुष्टुत्या शोभनया स्तुत्या विवासे । परिचरामि । कीदृशं ।
+> ज्येष्ठराजं ज्येष्ठेषु प्रशस्यतमेषु देवेषु मध्यॆ राजमानं॥ राजतेः सत्तूद्विषेति
+> क्विप् ॥ भरे संग्रामे महो महतो वृत्रवधादेः कृत्नुं कर्तारं वाजिनमन्नवंतं बलवंतं ना । किमर्थं । सनिभ्यो धनेभ्यः । धनलाभायेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+I serve that Indra with good praise. How is he? Jyeṣṭharāja: shining among the foremost, most praiseworthy gods (राजतेः सत्तूद्विषेति क्विप् (*rājateḥ sattūdviṣeti kvip*)). In the bhara, the battle, he is the doer of great deeds such as the slaying of Vṛtra; he is vājin, possessed of food and strength. For what? For sanis, that is, wealth: for the gaining of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ज्येष्ठराजं (*jyeṣṭharājaṃ*)—the one who shines among the foremost gods
+- भरे (*bhare*)—in battle
+- महः (*mahaḥ*)—great deeds such as the slaying of Vṛtra
+- कृत्नुं (*kṛtnuṃ*)—the accomplisher
+- वाजिनं (*vājinaṃ*)—the possessor of food
+- तं (*taṃ*)—that same Indra
+- सनिभ्यः (*sanibhyaḥ*)—for the gain of wealth
+- सुष्टुत्या (*suṣṭutyā*)—with excellent praises
+- आ विवासे (*ā vivāse*)—I attend and worship
+
+##### भावार्थ (Bhāvārtha)
+
+I attend and worship, with excellent praises, for the gain of wealth, that same Indra who shines among the foremost gods, who accomplishes great deeds such as the slaying of Vṛtra in battle, and who possesses food.
+
+##### English translation
+I worship Indra with pious praise, glorious amongst the
+
+### Printed p. 738
+beings), the achiever of great deeds in war, mighty for the acquirement (of wealth).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्यानू॑ना गभी॒रा मदा॑ उ॒रव॒स्तरु॑त्राः ।  
+> ह॒र्ष॒मंतः॒ शूर॑सात् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । अनूनाः । गभीराः । मदाः । उरवः । तरुत्राः ।  
+> हर्षुमंतः । चूर्यसाता ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्येंद्रस्य मदाः सोमपानजनिता अनूना अन्नूना गभीरा गांभीर्योपेता उरवो विस्तीर्णास्तरुत्राः शत्रोणां तारकाः शूरसात् शूरसंभजनीये
+> संग्रामे हर्षुमंतो हर्षयुक्ताः संग्रामोत्सुका भवंति । तमिंद्रमिति पूर्वयोत्तरया वा संबंधः ।
+
+##### Gist of the bhāṣya
+
+The exhilarations (madas) of Indra, produced by drinking Soma, are anūna (not deficient), gabhīra (endowed with depth), urava (extensive), tarutra (saviours from enemies); in the śūrasāt, the battle that heroes share in, they are harṣumanta, filled with joy, eager for battle. The words तमिंद्रं (*tamiṃdraṃ*) connect with the preceding or the following ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Indra
+- मदाः (*madāḥ*)—the exhilarations produced by Soma-drinking
+- अनूनाः (*anūnāḥ*)—without deficiency
+- गभीराः (*gabhīrāḥ*)—endowed with depth
+- उरवः (*uravaḥ*)—extensive
+- तरुत्राः (*tarutrāḥ*)—protecting from enemies
+- शूरसात् (*śūrasāt*)—in battle
+- हर्षमंतः (*harṣamaṃtaḥ*)—full of eagerness
+(we attend such an Indra)
+
+##### भावार्थ (Bhāvārtha)
+
+We attend that Indra whose exhilarations produced by Soma-drinking are without deficiency, endowed with depth, extensive, protective against enemies, and full of eagerness in battle.
+
+##### English translation
+Whose unbounded and profound exhilarations are many, protective, and animating in war.
+
+### Printed p. 739
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिद्दने॑षु हि॒तेष्व॑धिवा॒काय॑ हवंते ।  
+> येषा॒मिंद्र॒स्ते ज॑यंति ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । धनेषु । हितेषु । अधिवाकाय । हवंते ।  
+> येषां । इंद्रः । ते । जयंति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धनेषु हितेषु शत्रुषु निहितेषु प्राप्तेषु सत्तु तमित्तं पूर्वोक्तगुणमेवेंद्रमधिनाकायाधिवचनाय पक्षपातवचनाय हवंते । स्तोतार आह्वयंति । तत्र
+> च येषां पक्ष इंद्रो वर्तते त एव जयंति । जयेन तानि धनानि लभंते नान्ये ॥
+
+##### Gist of the bhāṣya
+
+When riches have been placed among enemies, the praisers invoke that same Indra, of the qualities stated before, for adhivāka, that is, for speaking on one's behalf (partisan speech). There, those on whose side Indra stands are the ones who conquer; by victory they win those riches, and not others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धनेषु (*dhaneṣu*)—the riches
+- हितेषु (*hiteṣu*)—when placed among enemies
+- अधिवाकाय (*adhivākāya*)—in order to praise Indra and obtain a share in that wealth
+- तमित् (*tamit*)—that Indra alone
+- हवंते (*havaṃte*)—the praisers call upon with prayer
+- इंद्रः (*iṃdraḥ*)—Indra
+- येषां (*yeṣāṃ*)—on whose side he is
+- ते (*te*)—they
+- जयंति (*jayaṃti*)—conquer the enemies and obtain wealth
+
+##### भावार्थ (Bhāvārtha)
+
+When riches are lodged with enemies, the praisers praise Indra and call upon that same Indra with prayer, in order to obtain a share in that wealth. The ones on whose side Indra stands conquer the enemies and obtain the wealth.
+
+##### English translation
+(His worshippers) invoke him to take part (in spoiling) the treasures deposited (with the foe): they conquer, of whom Indra is (the partisan).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिच्चौ॒त्नैरार्यं॑ति॒ तं कृ॒तेभि॑श्चर्ष॒णयः॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 733. pp. 728-733 (batch API)
+**Progress note:** Done through printed p. 739. pp. 734-739 (batch API)
