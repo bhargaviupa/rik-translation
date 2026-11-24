@@ -4241,6 +4241,372 @@ Those venerable worshippers, who by promptly and frequently (adoring Vayu) with 
 
 In the Praüga-śastra of the second chandoma day, this उशंता (*uśaṃtā*) is the first Ṛk of the Aindravāya tṛca. The sūtra says so too: उशंता दूता न दभाय गोपा यावत्तरस्तन्वो यावदोज इत्येका द्वे च । (*uśaṃtā dūtā na dabhāya gopā yāvattarastanvo yāvadoja ityekā dve ca |*) (Ā. Sū. 8-10).
 
+### Printed p. 103
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रवायू उशंतोंशतौ कामयमानौ दूतौ ॥ देवतेर्गतिकर्मणो
+> दूतशब्दः ॥ गंतारौ गोपा गोपायितारावीदृशौ युवां दभाय हिंसाय्कॆ न
+> भवतं । अपि तु मासो मासांश्च पूवीर्बह्वीः शरदः संवत्सरांश्च चिरकालमस्मान्
+> पाथः । रक्षतं । अपि च हे इंद्रवायू सुष्टुतिरस्कदीया शोभना स्तुतिर्वां युवामियाना गच्छंती प्राप्नुवंती मार्दिकं सुखमीट्टे । याचते । यद्वा । सुखं
+> यथा भवति तथा युवामीट्टे । स्तौति । तथा नव्यं प्रशस्यं सुवितं सुष्टु प्राप्यं
+> धनं चेट्टे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra and Vāyu as *uśaṃtau*, "desiring", and as messengers (दूतौ (*dūtau*)). He says the word दूत (*dūta*) comes from a root of going, so the two are "goers". They are गोपा (*gopā*), protectors, and being such they should not be for harm (दभाय (*dabhāya*)). Rather, he says, they should protect "us" through many months and many autumns (years), for a long time. Next, O Indra and Vāyu, our good praise (सुष्टुतिः (*suṣṭutiḥ*)), going to you and reaching you, asks (ईट्टे (*īṭṭe*)) for heart-felt happiness. Alternatively, it praises you in such a way that happiness comes about. It also asks for praiseworthy wealth that is easily attained (सुवितं (*suvitaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशंता (*uśaṃtā*)—desiring worship
+- दूता (*dūtā*)—moving about
+- गोपा (*gopā*)—protectors of the world; you who are such
+- दभाय (*dabhāya*)—to do us harm
+- न (*na*)—do not try
+- पूर्विः (*pūrviḥ*)—past, gone by
+- मासः च (*māsaḥ ca*)—and a time of many months
+- शरदः च (*śaradaḥ ca*)—and a time of years
+- पाथः (*pāthaḥ*)—you protected us
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- सुष्टुतिः (*suṣṭutiḥ*)—our excellent praise
+- नां (*nāṃ*)—you
+- इयाना (*iyānā*)—approaching
+- मार्डिकं (*mārḍikaṃ*)—happiness
+- ईट्टे (*īṭṭe*)—begs
+- नव्यं (*navyaṃ*)—praiseworthy
+- सुवितं च (*suvitaṃ ca*)—and easily attained; it begs also for wealth of this kind
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, you who move about desiring worship and who protect the world, do not try to do us harm. Through many past months and many years you have protected us. Our excellent praise, approaching you, begs for happiness and for praiseworthy wealth that is easily obtained.
+
+##### English translation
+Desiring (adoration), proceeding (in the sky), preservers of mankind, be not disposed, Indra and Vayu, to do us harm : protect us through many months and years : our sincere praise, addressed to you both, solicits hap- piness and excellent wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of reciting the Praüga-śastra mantras of the second Chandoma, the first Ṛk of this sūkta, उशंता (*uśaṃtā*), is to be recited as the first Ṛk of the Aindravāyava tṛca (the three Ṛks addressed to Indra and Vāyu). This is explained by the Āśvalāyana Śrauta Sūtra, उशंता दूता न दभाय गोपा (*uśaṃtā dūtā na dabhāya gopā*)
+
+### Printed p. 104
+यावत्तरस्तन्वो यावद्योज इत्येका द्वे च (*yāvattarastanvo yāvadyoja ityekā dve ca*) (Ā. Sū. 8-10).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पीवो॑अन्ना रयि॒वृधः॑ सुमे॒धाः श्वे॒तः सि॑षक्ति नि॒युता॑मभि॒श्रीः ।  
+> ते वा॒यवे॒ सम॑नसो॒ वि त॑स्थु॒र्विश्वेन्नरः॑ स्वप॒त्यानि॑ चक्रुः ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पीवः अन्नान् । रयिवृधः । सुमेधाः । श्वेतः । सिसक्ति । नियुतां । अभिश्रीः ।  
+> ते । वायवे । समनसः । वि । तस्थुः । विश्वा । इत् । नरः । सुअपत्यानि । चक्रुः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नियुत्वद्वायुदेवताके पशौ पीवोअन्नानिति वपाया याज्या । सूत्रितं च ।
+> पीवोअन्ना रयिवृधः सुमेधा राये नु यं जज्ञतू रोदसीमे । आ. ३-८ ।
+> इति ॥ तथा द्वितीये छंदोमे प्रउगशस्त्रे वायव्यतृचस्यैषैव द्वितीया । सूत्रितं
+> च । पीवोअन्ना रयिवृधः सुमेधा उच्छन्नुषसः सुदिना अरिप्राः । आ. ८-१० । इति ॥
+> पीवोअन्नान् पीवांसि स्कूलानि प्रभूतान्यन्नानि येषां तान् रयिवृधो
+> रय्या धनेन वृद्धानेवंभूतानाड्यजनान् सुमेधाः शोभनप्रज्ञो नियुतां वडवानां स्ववाहानामभिश्रीरभिश्रयणीयः श्वेतः श्वेतवर्णो वायुः सिषक्ति । सेवते।
+> ते च जनाः समनसः समानमनस्काः संतो वायवे वायुमुद्दिश्य यष्टुं वि
+> तस्थुः । विविधमवतिष्ठंते । स्थित्वा च ते नरः कर्मणां नेतारो जना विश्वेद्विस्थानि
+> सर्वाण्येव स्वपत्यानि शोभनापत्यहेतूनि यद्वा सुष्पतनकारणानि वायुदेवत्यानि कर्माणि चक्रुः । कुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice addressed to Vāyu Niyutvat, this Ṛk is the yājyā for the vapā-offering. Sāyaṇa cites Ā. Sū. 3-8: पीवोअन्ना रयिवृधः सुमेधा राये नु यं जज्ञतू रोदसीमे (*pīvoannā rayivṛdhaḥ sumedhā rāye nu yaṃ jajñatū rodasīme*). In the second Chandoma, in the Praüga-śastra, it is also the second Ṛk of the Vāyavya tṛca. For this he cites Ā. Sū. 8-10: पीवोअन्ना रयिवृधः सुमेधा उच्छन्नुषसः सुदिना अरिप्राः (*pīvoannā rayivṛdhaḥ sumedhā ucchannuṣasaḥ sudinā ariprāḥ*).
+
+Explanation of the Ṛk: पीवोअन्नान् (*pīvoannān*) are those whose food is abundant, plentiful (पीवांसि (*pīvāṃsi*), stout). रयिवृधः (*rayivṛdhaḥ*) are those grown great by wealth. Such rich people are served (सिषक्ति (*siṣakti*)) by Vāyu. He is सुमेधाः (*sumedhāḥ*) (of good understanding) and श्वेतः (*śvetaḥ*) (white-coloured). He is अभिश्रीः (*abhiśrīḥ*), "to be resorted to", through the नियुतां (*niyutāṃ*), his mares, which are his own conveyances. Those people, of one mind (समनसः (*samanasaḥ*)), stand in various ways (वि तस्थुः (*vi tasthuḥ*)) to sacrifice to Vāyu. Having so stood, those leaders of rites (नरः (*naraḥ*)) perform all (विश्वेत् (*viśvet*)) the rites addressed to Vāyu. These are स्वपत्यानि (*svapatyāni*), causes of good offspring; or alternatively causes of good .... **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुमेधाः (*sumedhāḥ*)—one of excellent understanding
+- नियुतां (*niyutāṃ*)—to his horses
+- अभिश्रीः (*abhiśrīḥ*)—the one who adorns
+- श्वेतः (*śvetaḥ*)—white-coloured; Vāyu
+
+### Printed p. 105
+- पीपोअन्नान् (*pīpoannān*)—those who have abundant food
+- रयिवृधः (*rayivṛdhaḥ*)—those who have grown great through wealth; such people
+- सिषक्ति (*siṣakti*)—serves (favours)
+- ते (*te*)—those same people
+- समनसः (*samanasaḥ*)—being of one mind
+- वायवे (*vāyave*)—to worship Vāyu, having him as the aim
+- वि तस्थुः (*vi tasthuḥ*)—stand with individual readiness
+- नरः (*naraḥ*)—those leaders of rites
+- स्वपत्यानि (*svapatyāni*)—giving excellent offspring
+- विश्वेत् (*viśvet*)—directed to the deity Vāyu
+- चक्रुः (*cakruḥ*)—perform all rites
+
+##### भावार्थ (Bhāvārtha)
+
+Vāyu, who is of excellent understanding, who adorns his horses or is adorned by his horses, and who is white-coloured, serves those people who have abundant food and have grown great through wealth. The same people, of one mind, stand with individual readiness to worship Vāyu. As leaders of rites, they perform all the rites directed to Vāyu that give excellent offspring.
+
+##### English translation
+The white-complexioned Vayu, intelligent, glorious with the Niyut steeds, favours those men who are well-fed, abounding in riches, for they with one mind stand everywhere, ready to (worship) him, and leaders of rites, they perform all the ceremonies, that are productive of excellent offspring.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice made to the deity Niyutvān Vāyu, this Ṛk, पीवोअन्नान् (*pīvoannān*), is to be recited as the yājyā mantra in the vapā-offering. This is explained by the Āśvalāyana Śrauta Sūtra, पीवोअन्नां रयिवृधः सुमेधा राये नु यं जज्ञतू रोदसीमे (*pīvoannāṃ rayivṛdhaḥ sumedhā rāye nu yaṃ jajñatū rodasīme*) (Ā. Sū. 3-8). It is also to be recited as the second Ṛk of the Vāyavya tṛca in the Praüga-śastra mantras of the second Chandoma. This is explained by the Āśvalāyana Śrauta Sūtra, पीवो: अन्नां रयिवृधः सुमेधा उच्छन्नुषसः सुदिना अरिप्राः (*pīvo: annāṃ rayivṛdhaḥ sumedhā ucchannuṣasaḥ sudinā ariprāḥ*) (Ā. Sū. 8-10).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याव॒त्तर॑स्त॒न्नो॒३॒॑३ याव॒दोजो॒ याव॒न्नर॒श्चक्ष॑सा॒ दीध्या॑नाः ।  
+> शुचिं॒ सोमं॑ शुचिपा पातम॒स्मे इंद्र॑वायू॒ सद॑तं  ॒
+> बर्हिरेदः ॥ ४ ॥
+
+### Printed p. 106
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यावत् । तरः । तन्वः । यावत् । ओजः । यावत् । नरः । चक्षसा । दीथ्यानाः ।  
+> शुचिं । सोमं । शुचिपा । पातं । अस्मे इति । इंद्रवायू इति । सदतं । बर्हिः ।  
+> आ । इदं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीये छंदोमे प्रउगशस्त्र ऐंद्रवायवतृचस्य यावत्तर इत्यादिके द्वे
+> ऋचौ । सूत्रं तु पूर्वमेवोदाहृतं ।
+> हे इंद्रावायू युवयोस्तन्वः शरीरस्य तरो वेगो यावदस्ति यावच्चौजो बलं यावच्च नरः कर्मणां नेतार ऋत्विजश्चक्षसा ज्ञानेन दीध्याना दीप्यमाना भवंति तस्य सर्वस्यानुरूपं शुचिपा शुचेः सोमस्य पाताराविंद्रनायू
+> शुचिं शुद्धं सोममस्मे अस्मदीयं पातं । पिबतं । इदं वेद्यां स्तीर्णं
+> बर्हिश्चा सदतं । पानार्थमासीदतं । बर्हिष्युपविशतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the second Chandoma, in the Praüga-śastra, two Ṛks of the Aindravāyava tṛca begin with यावत्तरः (*yāvattaraḥ*). The sūtra was quoted earlier.
+
+Sāyaṇa explains: O Indra and Vāyu, as much as there is of the speed (तरः (*taraḥ*)) of your body (तन्वः (*tanvaḥ*)), as much of vigour (ओजः (*ojaḥ*)), and as much as the leaders of rites, the Ṛtvijs, are made radiant by चक्षसा (*cakṣasā*) (knowledge): in accordance with all that, you who are drinkers (शुचिपा (*śucipā*)) of the pure Soma, drink our pure Soma (पातं (*pātaṃ*)). Sit down, for the drinking, on this spread barhis (the sacred grass) on the altar. That is, take your seats upon the barhis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचिपा (*śucipā*)—drinkers of the pure Soma
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- तन्वः (*tanvaḥ*)—of your body
+- तरः (*taraḥ*)—the speed
+- यावत् (*yāvat*)—up to where it extends
+- यावत् (*yāvat*)—as much as
+- ओजः (*ojaḥ*)—your strength is
+- यावत् (*yāvat*)—as much as
+- नरः (*naraḥ*)—the Ṛtviks, the leaders of rites
+- चक्षसा (*cakṣasā*)—by knowledge
+- दीध्यानाः (*dīdhyānāḥ*)—are illumined (in accordance with all of this)
+- शुचिं (*śuciṃ*)—pure
+- अस्मे (*asme*)—offered by us
+- सोमं (*somaṃ*)—the Soma juice
+- पातं (*pātaṃ*)—drink
+- इदं बर्हिः (*idaṃ barhiḥ*)—upon the seat of darbha grass spread out here
+- आ सदतं (*ā sadataṃ*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, drinkers of the pure Soma: in accordance with how far the speed and strength of your bodies extend, and how far the Ṛtviks, the leaders of rites, are illumined by their knowledge, drink the pure Soma juice offered by us. Sit down upon the darbha seat spread out here.
+
+##### English translation
+As much as is your rapidity of body, as much as is your vigour, as much as the leaders (of rites) are illuminated by wisdom, (to such extent),
+
+### Printed p. 107
+drinkers of the pure (beverage) Indra and Vayu, drink this our pure Soma, and sit down upon this sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+It has already been stated that the Āśvalāyana Śrauta Sūtra prescribes the two Ṛks beginning with यावत्तरः (*yāvattaraḥ*), in the Praüga-śastra mantras of the second Chandoma, to be recited as the first two Ṛks of the Aindravāyava tṛca.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒यु॒वा॒ना नि॒युतः॑ स्पा॒र्हवी॑रा॒ इंद्र॑वायू स॒रथं॑  ॒
+> यातमर्वाक् ।  
+> इ॒दं हि वां॒ प्रभृ॑तं॒ मध्यो॒ अग्र॒मध॑ प्रीणा॒ना वि  
+> मु॑मुक्तम॒स्मे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नियुवाना । नियुतः । स्पार्हवीराः । इंद्रवायू इति । सरथं । यातं ।  
+> अर्वाक् ।  
+> इदं । हि । वां । प्रभृतं । मध्यः । अग्रं । अध । प्रीणाना । वि । मुमुक्तं ।  
+> अस्मे इति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रवायू स्पार्हवीराः स्पृहणीयस्तोतृकान्नियुत आत्मीयानश्वान्
+> सरथमुभयोः समानमेकं रथं नियुवाना निमिश्रयंतौ युवामर्वागस्मदभिमुखं यातं । गच्छतं । इदं हीदं खलु मध्वो मधुरस्य सोमस्याग्रं ग्रहेष्वाद्यमैंद्रवायवाख्यं ग्रहं वा युवयोरर्थं प्रभृतं प्रकर्षण हृतं
+> होमार्थमुत्तरवेदिं प्रति नीतं । अधाथ तादृशस्य सोमस्य पानानंतरं प्रीणाना
+> प्रीयमाणौ युवामस्मे अस्मान् वि मुमक्तं । पापाद्विमोचयतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra and Vāyu as स्पार्हवीराः (*spārhavīrāḥ*), those who have praisers worthy of desire. Joining (नियुवाना (*niyuvānā*), mixing in) their own horses, the Niyuts, to one chariot common to both (सरथं (*sarathaṃ*)), they are to come (यातं (*yātaṃ*)) toward "us" (अर्वाक् (*arvāk*)). For this (इदं हि (*idaṃ hi*)) is the first (अग्रं (*agraṃ*)) of the sweet Soma: the first of the cups, the cup named Aindravāya, for you two. It has been carried forth (प्रभृतं (*prabhṛtaṃ*)), brought toward the uttaravedi for the offering. Then (अध (*adha*)), after drinking such Soma, pleased (प्रीणाना (*prīṇānā*)), they are to release (वि मुमुक्तं (*vi mumuktaṃ*)) "us" from sin.
+
+### Printed p. 108
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- स्वाहवीराः (*svāhavīrāḥ*)—desired by the praisers
+- नियुतः (*niyutaḥ*)—of the kind called Niyut; your horses
+- सरथं (*sarathaṃ*)—to one chariot common to both of you
+- नियुवाना (*niyuvānā*)—having yoked
+- अर्वाक् (*arvāk*)—facing us
+- यातं (*yātaṃ*)—come
+- अग्रं (*agraṃ*)—the cup-form offered first to you, before everyone
+- मध्वः (*madhvaḥ*)—of the sweet Soma
+- इदं हि (*idaṃ hi*)—this juice
+- नां (*nāṃ*)—for you
+- प्रभृतं (*prabhṛtaṃ*)—has been conveyed excellently to the uttaravedi
+- अध (*adha*)—as the result of this Soma-drinking
+- प्रीणाना (*prīṇānā*)—you who have attained satisfaction
+- अस्मे (*asme*)—us
+- वि मुमुक्तं (*vi mumuktaṃ*)—release from sin
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, having yoked your horses, called Niyuts, desired by the praisers, to the one chariot common to both of you, come toward us. This juice of the sweet Soma, the cup that is offered to you before all others, has been carried excellently to the uttaravedi to be offered to you. Having attained satisfaction through this Soma-drinking, release us from sin.
+
+##### English translation
+Harnessing the Niyuts, whom the devout (worshippers) desire to your common car, come, Indra and Vayu, hither : this the first (cup) of the sweet beverage is prepared for you; and then, delighted (by the draught), liberate us (from sin).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या वां॑ श॒तं नि॒युतो॒ याः स॒हस्र॒मिंद्र॑वायू वि॒श्ववा॑राः॒  ॑
+> सचंते ।  
+> आभि॑र्यातं सुवि॒दत्रा॑भिर॒र्वाक्पा॒तं न॑रा॒ प्रति॑भृतस्य॒ मध्वः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । वां । शतं । नियुतः । याः । सहस्रं । इंद्रवायू इति । विश्ववाराः ।  
+> सचंते ।
+
+### Printed p. 109
+
+> आ । अभिः । यातं । सुविदत्राभिः । अर्वाक् । पातु । नरा । प्रतिभृतस्य । मध्वः॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमे छंदोमे प्रउगशस्त्र ऐंद्रवायवतृचस्य या नां शतमिति
+> तृतीया । सूत्रितं च । या नां शतं नियुतो याः सहस्रमित्येकपातिन्यः । आ.
+> ८-९ । इति ॥
+> हे इंद्रवायू या नियुतः शतं शतसंख्याकाः सत्यो नां युवां सचंते
+> सेवंते । याश्च विश्ववारा विश्वैर्वर्णीया नियुतः सहस्रं सहस्रसंख्याकाः सत्यो
+> युवां सचंते । सुविदत्राभिः शोभनधनप्रदाभिराभिर्नियुद्धिरर्वागस्मदभिमुखमा
+> यातं । आगच्छतं । हे नरा नेतारौ प्रतिभृतस्कोत्तरवेदिं प्रति नीतस्य मध्वो
+> मधुरस्य सोमस्य । द्वितीयार्थे षष्ठी । ईदृशं सोमं पातं । पिबतं ॥
+
+##### Gist of the bhāṣya
+
+In the first Chandoma, in the Praüga-śastra, this या नां शतं (*yā nāṃ śataṃ*) is the third Ṛk of the Aindravāyava tṛca. Sāyaṇa cites Ā. Sū. 8-9: या नां शतं नियुतो याः सहस्रमित्येकपातिन्यः (*yā nāṃ śataṃ niyuto yāḥ sahasramityekapātinyaḥ*).
+
+Explanation: O Indra and Vāyu, the Niyuts that, being a hundred in number, wait upon you, and those that are विश्ववाराः (*viśvavārāḥ*), desired by all, and that, being a thousand in number, wait upon you: come toward us with these Niyuts (सुविदत्राभिः (*suvidatrābhiḥ*)), which give good wealth. O leaders (नरा (*narā*)), drink (पातं (*pātaṃ*)) of the sweet Soma that has been brought toward the uttaravedi (प्रतिभृतस्य (*pratibhṛtasya*)). The genitive is used in the sense of the accusative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवायू (*iṃdravāyū*)—O Indra and Vāyu
+- याः नियुतः (*yāḥ niyutaḥ*)—which horses called Niyuts
+- नां (*nāṃ*)—you
+- शतं (*śataṃ*)—by hundreds
+- सचंते (*sacaṃte*)—attend
+- विश्ववाराः (*viśvavārāḥ*)—desired by all
+- याः (*yāḥ*)—which horses
+- सहस्रं (*sahasraṃ*)—attend you by thousands
+- सुविदत्राभिः (*suvidatrābhiḥ*)—giving excellent wealth
+- आभिः (*ābhiḥ*)—with such Niyuts
+- आर्वाक् (*ārvāk*)—facing us
+- आ यातं (*ā yātaṃ*)—graciously come
+- नरा (*narā*)—O Indra and Vāyu, the leaders
+- प्रतिभृतस्य (*pratibhṛtasya*)—carried to the uttaravedi
+- मध्वः (*madhvaḥ*)—sweet
+- पातं (*pātaṃ*)—drink the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, come graciously toward our sacrifice with those horses called Niyuts that attend you by hundreds, and with those same horses, desired by all, that attend you by thousands, such Niyuts that give excellent wealth. O leaders, drink the sweet Soma that has been carried to the uttaravedi.
+
+##### English translation
+Come to our presence, Indra and Vayu, with those munificent Niyut steeds, who, the desired of all, wait upon you both by hundreds and thousands: drink, leaders (of rites), of the sweet beverage placed near (the altar).
+
+### Printed p. 110
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Praüga-śastra mantras of the first Chandoma, this Ṛk, या वां शतं (*yā vāṃ śataṃ*), is to be recited as the third Ṛk of the Aindravāyava tṛca. This is explained by the Āśvalāyana Śrauta Sūtra, या वां शतं नियुतो याः सहस्रमित्येकपातिन्यः (*yā vāṃ śataṃ niyuto yāḥ sahasramityekapātinyaḥ*) (Ā. Sū. 8-9).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्वं॑तो॒ न श्रव॑सो॒ भिक्ष॑माणा इंद्रवा॒यू सु॑ष्टु॒तिभि॒र्वसि॑ष्ठाः ।  
+> वा॒ज॒यंतः॒ स्वव॑से हुवेव यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वंतः । न । श्रवसः । भिक्षमाणाः । इंद्रवायू इति । सुस्तुतिभिः । वसिष्ठाः ।  
+> वाजयंतः । सु । अवसे । हुवेम । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्याख्यातेयं । अक्षरार्थस्तु । अश्वा इव हविषां वोढारोऽन्नं याचमाना
+> बलं कामयमाना वसिष्ठा वयं शोभनरक्षणाय शोभनैः स्तोत्रैरिंद्रवायू
+> अह्वयेमहीति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says this Ṛk has already been explained. The meaning of the words is as follows. We Vasiṣṭhas, like horses (अर्वंतः (*arvaṃtaḥ*)) that carry burdens (here, bearers of oblations), begging for food and desiring strength, invoke Indra and Vāyu with good praises, for good protection (स्ववसे (*svavase*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- *śvavasaḥ*—food
+- भिक्षमाणाः (*bhikṣamāṇāḥ*)—begging
+- वाजयंतः (*vājayaṃtaḥ*)—desiring strength
+- वसिष्ठाः (*vasiṣṭhāḥ*)—we, of the line of Vasiṣṭha
+- अर्वंतो न (*arvaṃto na*)—as horses bear a load, so we too, having taken up the oblation
+- स्ववसे (*svavase*)—for excellent protection
+- सुष्टुतिभिः (*suṣṭutibhiḥ*)—with excellent praises
+- इंद्रवायू (*iṃdravāyū*)—Indra and Vāyu
+- हुवेम (*huvema*)—we pray and call (O Indra and the other deities)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+We, of the line of Vasiṣṭha, who beg for food and desire strength, bearing the oblation as horses bear a load, pray to and call Indra and Vāyu with excellent praises for excellent protection.
+
+### Printed p. 111
+O Indra and the other deities, protect us always with blessings.
+
+##### English translation
+We, Vasishthas, (bearing oblations) like horses (bearing burdens), soliciting food, desiring strength, invoke with praises Indra and Vayu for our sure defence : ever cherish us with blessings.
+
+## Sūkta 92 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ वायो इति पंचर्चं तृतीयं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं वायव्यं ।
+> अनुक्रांतं च । आ वायो पंचेति ॥ शुनासीरीये पर्वणि वायोर्नियुत्वतो
+> यागस्या वायो इत् नुवाक्या । सूत्रितं च । आ वायो भूष शुचिपा उप नः प्र
+> याभिर्यासि दाश्वांसमच्छ । आ. २-२० । इति ॥ नियुत्वद्वायुदेवताके पशावष्टैव
+> वपाया अनुवाक्या । आ. ३-८ ॥ प्रथमे छंदोमे प्रउगशस्त्रे वायव्यतृचस्यैष्यवाद्या । सूत्रितं च । समुद्रादूर्मिरित्याज्यमा वायो भूष शुचिपाः । आ. ८-९ ।
+> इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, आ वायो (*ā vāyo*), has five Ṛks. It is the third sūkta; the seer is Vasiṣṭha, the metre Triṣṭubh and the deity Vāyu. The Anukramaṇī says आ वायो पंच (*ā vāyo paṃca*).
+
+At the Śunāsīrīya parvan, in the sacrifice to Vāyu Niyutvat, the Ṛk आ वायो (*ā vāyo*) is the anuvākyā. Sāyaṇa cites Ā. Sū. 2-20: आ वायो भूष शुचिपा उप नः प्र याभिर्यासि दाश्वांसमच्छ (*ā vāyo bhūṣa śucipā upa naḥ pra yābhiryāsi dāśvāṃsamaccha*). In the animal sacrifice to Vāyu Niyutvat, this Ṛk is the anuvākyā of the vapā-offering (Ā. Sū. 3-8). **NOTE**
+In the first Chandoma, in the Praüga-śastra, it is the first of the Vāyavya tṛca. He cites Ā. Sū. 8-9: समुद्रादूर्मिरित्याज्यमा वायो भूष शुचिपाः (*samudrādūrmirityājyamā vāyo bhūṣa śucipāḥ*).
+
+##### Anuvāda
+
+This sūkta beginning आ वायो (*ā vāyo*) is the third sūkta in the sixth anuvāka. It has five Ṛks. Vasiṣṭha is the seer of this sūkta, Vāyu the deity and Triṣṭubh the metre. In the Anukramaṇī it is said: आ वायो पंच (*ā vāyo paṃca*). At the parvan called Śunāsīrīya, in the sacrifice made to the deity Niyutvān Vāyuḥ, this Ṛk आ वायो (*ā vāyo*) is to be recited as the anuvākyā mantra. This is explained by the Āśvalāyana Śrauta Sūtra, आ वायो भूष शुचिपा उप नः प्र याभिर्यासि दाश्वांसमच्छ । (*ā vāyo bhūṣa śucipā upa naḥ pra yābhiryāsi dāśvāṃsamaccha |*) (Ā. Sū. 2-20). Also, in the animal sacrifice made to Niyutvat Vāyu, this Ṛk is to be recited as the anuvākyā mantra of the vapā-offering (Ā. Sū. 3-8). And in the Praüga-śastra mantras of the first Chandoma, this Ṛk is to be recited as the first Ṛk of the Vāyavya tṛca. This is explained by the Āśvalāyana Śrauta Sūtra, समुद्रादूर्मिरित्याज्यमा वायो भूष शुचिपाः (*samudrādūrmirityājyamā vāyo bhūṣa śucipāḥ*) (Ā. Sū. 8-9).
+
 ---
 
-**Progress note:** Done through printed p. 102. pp. 96-102 (batch API)
+**Progress note:** Done through printed p. 111. pp. 103-111 (batch API)
