@@ -32770,6 +32770,321 @@ We, the Pragāthas, praise that Indra truly, only truly; we do not praise untrul
 - रातयः (*rātayaḥ*)—the gifts
 - धद्राः (*dhadrāḥ*)—are auspicious
 
+### Printed p. 722
+
+##### भावार्थ (Bhāvārtha)
+
+Let us praise the well-known Indra truly; he cannot be praised untruthfully. For the man who is not a sacrificer, great destruction is ready. The gifts of Indra, which come to the sacrificer who presses and offers abundant Soma juice, are auspicious.
+
+##### English translation
+Let us praise that Indra with truth, not with untruth, great is the destruction of him who offers not; but to him who offers abundant Soma-oblations, Indra's gifts are worthy of praise.
+
+## Sūkta 63 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरवत्तमूरनॆय सूक्तवु
+> स पूर्व इति द्वादशर्चं चतुर्थं सूक्तं । अत्रानुक्रमणिका । स पूर्वो
+> गायत्रमाद्या चतुर्थ्यादिद्दे सप्तमी चानुष्टुभो गायत्रेऽंत्या दैवी त्रिष्टुबिति ।
+> प्रथमाचतुर्थीपंचमीसप्तम्यश्चतस्रोऽनुष्टुभोऽस्मे रुद्रा इत्यंत्या त्रिष्टुबवशिष्टा गायत्र्यः । अंत्याया देवा देवता शिष्टा ऐंद्र्यः ॥ षष्ठेऽहनि मरुत्वतीयस्याद्यस्तृचः प्रतिपत् । सूत्रितं च । स पूर्वो महानां त्रय इंद्रस्य सोमा इति
+> मरुत्वतीयस्य प्रतिपदनुचरौ । आ. ८-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning स पूर्व (*sa pūrva*) has twelve ṛks and is the fourth sūkta. The Anukramaṇikā says of it: स पूर्वो गायत्रमाद्या चतुर्थ्यादिद्दे सप्तमी चानुष्टुभो गायत्रेऽंत्या दैवी त्रिष्टुबिति । (*sa pūrvo gāyatramādyā caturthyādidde saptamī cānuṣṭubho gāyatre 'ṃtyā daivī triṣṭubiti |*); that is, the first ṛk is Gāyatra, the fourth and the next, and the seventh, are Anuṣṭubh, the last is Gāyatra and Daivī, Triṣṭubh. The first, fourth, fifth and seventh, four ṛks, are Anuṣṭubh; the last, beginning अस्मे रुद्रा (*asme rudrā*), is Triṣṭubh; the remaining ones are Gāyatrī. The deity of the last is the Devas, of the rest Indra. On the sixth day the first triplet is the pratipad of the Marutvatīya. It is laid down in the sūtra: स पूर्व्यो महानां त्रय इंद्रस्य सोमा इति मरत्वतीयस्य प्रतिपदनुचरौ (*sa pūrvyo mahānāṃ traya iṃdrasya somā iti maratvatīyasya pratipadanucarau*) (Ā. 8-1). **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning स पूर्व्यः (*sa pūrvyaḥ*) is the fourth sūkta in the seventh anuvāka. It has twelve ṛks. In the Anukramaṇikā it is said: स पूर्व्यो गायत्रमाद्या चतुर्थादिद्वे सप्तमी चानुष्टुभो गायत्रेऽन्ता दैवी त्रिष्टुप् (*sa pūrvyo gāyatramādyā caturthādidve saptamī cānuṣṭubho gāyatre 'ntā daivī triṣṭup*). Of this sūkta the four ṛks, the first, fourth, fifth and seventh, are in the Anuṣṭubh metre. The last ṛk of this sūkta, beginning अस्मे रुद्राः (*asme rudrāḥ*), is in the Triṣṭubh metre. The remaining ṛks are in the Gāyatrī metre. For the last ṛk of this sūkta the deities are the Devas; for the remaining ṛks the deity is Indra. On the sixth day of the sacrifice the first three ṛks of this sūkta are to be recited as the pratipad-ṛcā among the mantras of the Marutvatīya-śastra; this is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra: स पूर्व्यो महानां त्रय इंद्रस्य सोमा इति मरत्वतीयस्य प्रतिपदनुचरौ (*sa pūrvyo mahānāṃ traya iṃdrasya somā iti maratvatīyasya pratipadanucarau*) (Ā. 8-1).
+
+### Printed p. 723
+
+Sūkta 63.
+Maṇḍala 8; Anuvāka 7; Sūkta 63.
+Aṣṭaka 6; Adhyāya 4; Varga 42, 43.
+Ṛṣi: Pragāthaḥ Śāṇvaḥ. **NOTE**
+Devatā: 1–11 Indra; 12 Devatāḥ.
+Chandas: 1, 2, 3, 4, 5, 6, 7, 8–11 Gāyatrī; 12 Triṣṭubh. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स पूवोऽस्य महानां वेनु क्रमभिरानजे ।  
+> यस्य॒ द्वारा॒ मनु॑ष्पि॒ता दे॒वेषु॒ धिय॑ आन॒जे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पूर्व्यः । महानां । वेनः । क्रतुभिः । आनजे ।  
+> यस्य । द्वारा । मनुः । पिता । देवेषु । धियः । आनजे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स पूर्वो मुख्यो महानां पूजानां यजमानानां क्रतुभिः कर्मभिर्निमित्तभूतैर्वेनः कांतस्तेषां हविः कामयमान आनजे । आगच्छति । यिस्येंद्रस्य
+> द्वारा द्वाराणि प्राप्त्युपायानि धियः कर्माणि देवेष्टेतेषु मध्यॆ पिता सर्वॆषां
+> पालको मनुरानजे प्राप । आनजिः प्राप्तिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+That Indra, the foremost of those who are to be honoured, that is, of the sacrificers, वेनः (*venaḥ*), desiring their oblation, comes by reason of their rites. Of whom, that is, of which Indra, the doors, that is, the means of reaching him, are the rites among the gods, among these Manu, the protector of all, has obtained them; आनजिः (*ānajiḥ*) is a root meaning attainment.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Indra
+- द्वारा (*dvārā*)—the means of obtaining his favour
+- धियः (*dhiyaḥ*)—the rites
+- दॆवेषु (*dèveṣu*)—among the gods
+- पिता (*pitā*)—the protector of all
+- मनुः (*manuḥ*)—Manu
+- आनजे (*ānaje*)—obtained
+- सः (*saḥ*)—such
+- पूर्व्यः (*pūrvyaḥ*)—the chief Indra
+- महानां (*mahānāṃ*)—of the venerable sacrificers
+- क्रतुभिः (*kratubhiḥ*)—by the rites
+- वेनः (*venaḥ*)—desiring the oblation
+- आनजे (*ānaje*)—comes
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the chief, for whose favour Manu, the protector of all among the gods, obtained the rites that are the means of winning it, comes, desiring the oblation, by the rites of the venerable sacrificers.
+
+### Printed p. 724
+
+##### English translation
+He, (Indra), the chief of those to be honoured, desirous of our offerings, approaches; he, the doors of whose favour, the sacred rites, Manu, the (universal) father, attained among the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो मानं॒. नोत्स॑द॒न्नोम॑पृष्ठासो॒ अद्र॑यः ।  
+> उ॒क्था ब्रह्म॑ च॒ शंस्या॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । मानं । न । उत् । सदन् । सोमपृष्ठासः । अद्रयः ।  
+> उक्था । ब्रह्म । च । शंस्या ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्य मानं निर्मातारमिंद्रं नोत्सदन् । नोत्सृजंतु । के ।
+> सोमपृष्टासः सोमस्पष्टारः सोमाभिषवकर्तारोऽद्रयो ग्रावाणः । किंचोक्थोक्कानि शस्त्राणि ब्रह्म च ब्रह्माणि स्तोत्राणि शंस्या शंसनीयानि भवंतीति शेषः ।
+> यद्वा । यानि स्तोत्राणि शस्त्राणि च संति तानींद्रं नोत्सृजंत्विति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Let the Soma-pressing stones, which are the makers of the Soma-pressing, not abandon Indra, the maker of heaven. Also the uktha-s, the śastras, and the hymns, are worthy to be uttered; this is the supplement. Or else: the hymns and śastras that exist, let them not abandon Indra; such is the construction. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमपृष्टासः (*somapṛṣṭāsaḥ*)—the stones that press the Soma
+- अद्रयः (*adrayaḥ*)—the pressing stones
+- दिवः (*divaḥ*)—of the heavenly world
+- मानं (*mānaṃ*)—Indra, the maker
+- न उत्सदन् (*na utsadan*)—let them not forsake
+- शंस्या (*śaṃsyā*)—to be recited with praise
+- उक्था (*ukthā*)—the śastra mantras
+- ब्रह्म च (*brahma ca*)—and the hymns; let them not forsake Indra
+
+##### भावार्थ (Bhāvārtha)
+
+May the stones that press the Soma not forsake Indra, the maker of heaven. May the śastra mantras and hymns, which are to be recited in praise, not forsake Indra.
+
+##### English translation
+May the stones which press out the Soma never forsake Indra, the maker of heaven, nor the praises and hymns which are to be uttered **NOTE**
+
+### Printed p. 725
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वि॒द्वा अंगि॑रोभ्य॒ इंद्रो॒ गा अ॑वृणो॒दप॑ ।  
+> स्तु॒षे तद॑स्य॒ पौंस्यं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । विद्वान् । अंगिरःभ्यः । इंद्रः । गाः । अवृणोत् । अप ।  
+> स्तुषे । तत् । अस्य । पौंस्यं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स विद्वानुपायज्ञ इंद्रोंगिरोभ्यस्तेषामर्थाय गाः पणिभिरपहृताः
+> पिहिता अपावृणोत् । अपवारितवान् । तत्तादृशमस्य पौंस्यं पुंस्त्वं सामर्थ्यं
+> स्तुषे । स्तौमि ॥
+
+##### Gist of the bhāṣya
+
+That Indra, the wise one, who knows the means, for the sake of the Aṅgirases uncovered the cows that had been carried off and shut up by the Paṇis. That manliness, that strength of his, I praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्वान् (*vidvān*)—the wise
+- स इंद्रः (*sa iṃdraḥ*)—that same Indra
+- अंगिरोभ्यः (*aṃgirobhyaḥ*)—to the Aṅgiras seers
+- गाः (*gāḥ*)—the cows carried off by the Paṇis
+- आप अवृणोत् (*āpa avṛṇot*)—released and brought and gave
+- अस्य (*asya*)—of that same Indra
+- तत् पौंस्यं (*tat pauṃsyaṃ*)—that well-known heroic deed
+- स्तुषे (*stuṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+The wise Indra released and brought to the Aṅgiras seers the cows carried off by the Paṇis. I praise that well-known heroic deed of the same Indra.
+
+##### English translation
+He, the wise Indra, discovered the cows to the Angirasas; I glorify that his might.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प्र॒त्नथा॑ कविवृ॒ध इंद्रो॑ वा॒कस्य॑ व॒क्षणिः॑ ।  
+> शि॒वो अ॒र्कस्य॒ होम॑न्यस्म॒त्रा गं॒त्वव॑से ॥ ४ ॥
+
+### Printed p. 726
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । प्रश्नथा । कविवृधः । इंद्रः । वाकस्य । वक्षणिः ।  
+> शिवः । अर्कस्य । होमनि ! अस्मत्क्रा । गंतु । अवसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रः प्रत्नथा प्रश्नवत्तूर्वस्मिन्काले यथा तद्विदिदानीमपि कविवृधो
+> मेधाविनां स्तोत्कणां वर्धयिता वाकस्य स्तोतुर्वक्षणिर्वोढा शिवः सुखकरोऽर्कस्य । अर्कमन्नमर्चनीयत्वादर्जनसाधनत्वाद्वा । तादृशस्य सोमस्य होमनि
+> होमे नोऽस्मत्रास्मासु निमित्तभूतेष्टवसे रक्षणाय गच्छतु ॥
+
+##### Gist of the bhāṣya
+
+That Indra, as in former times, so now too is कविवृधः (*kavivṛdhaḥ*), the increaser of the wise praisers; वाकस्य (*vākasya*), of the praiser, वक्षणिः (*vakṣaṇiḥ*), the bearer; शिवः (*śivaḥ*), auspicious, bringing happiness. अर्कस्य (*arkasya*): arka is food, because it is worthy of worship or is a means of worship. At the oblation of such a Soma, let him come among us for our protection. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the well-known
+- इंद्रः (*iṃdraḥ*)—Indra
+- प्रत्नथा (*pratnathā*)—as he favoured in former times, so now
+- कविवृधः (*kavivṛdhaḥ*)—the increaser of the wise praisers
+- वाकस्य (*vākasya*)—the praiser
+- वक्षणिः (*vakṣaṇiḥ*)—the bearer to the desired place
+- शिवः (*śivaḥ*)—auspicious
+- अर्कस्य (*arkasya*)—of the venerable Soma
+- होमनि (*homani*)—at the time of the oblation
+- अस्मत्रा (*asmatrā*)—to us
+- अवसे (*avase*)—for protection
+- गंतु (*gaṃtu*)—may he come
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Indra, as he favoured in former times, so now too is the increaser of the wise praisers, the bearer of the praisers to the desired place, and auspicious. May he come to us for protection at the time of the oblation of the venerable Soma.
+
+##### English translation
+As in former times, so now too is Indra the blesser of the worshipper and the bearer of him who praises him; may he come among us auspicious for our protection at the oblation of the Soma.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदू॒ नु ते॒ अनु॒ क्रतुं॒ स्वाहा॒ वर॑स्य॒ यज्य॑वः ।  
+> श्वा॒त्रम॒र्का अ॑नूष॒तेंद्र॑ गो॒त्रस्य॑ दा॒वने॑ ॥ ५ ॥
+
+### Printed p. 727
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । ऊं इति । नु । ते । अनु । क्रतं । स्वाहा । वरस्य । यज्यवः ।  
+> श्वात्रं । अर्काः । अनूषत । इंद्र । गोत्रस्य । दावने ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आद्वनंतरमेव नृद्य हे इंद्र ते तव क्रतुं कर्मानु क्रमेण । अनूषतेति
+> संबंधः । अनुक्रमेण स्तुवंति । के । स्वाहा वरस्य स्वाहादेव्याः पतेरग्नेय्यज्यवो
+> यष्टारः । तद्वर्धमग्नौ यागं कुर्वंत इत्यर्थः । तादृशा आर्का अर्चयितारः
+> स्तोतारः । श्वात्रमिति क्षिप्रनाम । अन्यदेवतास्तुतिरूपविलंबमकृत्वातिशीघ्रमतिदीर्घं स्तुदंतीत्यभिप्रायः । किमर्थं स्तुवंतीति उच्यते । गोत्रस्य दावने धनस्य
+> दानाय ॥
+
+##### Gist of the bhāṣya
+
+Immediately afterwards, O Indra, they praise your rite in due order. Who? The worshippers of Agni, the lord of the goddess Svāhā; they perform the sacrifice in the fire for that purpose. Such worshippers are the praisers. श्वात्रमिति क्षिप्रनाम (*śvātramiti kṣipranāma*): without the delay of praising other deities, they praise very quickly and at great length. For what purpose do they praise? गोत्रस्य दावने (*gotrasya dāvane*), for the giving of wealth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्वाहा वरस्य (*svāhā varasya*)—Agni, the lord of the goddess Svāhā
+- यज्यवः (*yajyavaḥ*)—who worship
+- अर्काः (*arkāḥ*)—the praisers
+- गोत्रस्य (*gotrasya*)—of wealth
+- दावने (*dāvane*)—for the winning
+- श्वात्रं (*śvātraṃ*)—forthwith
+- आदु (*ādu*)—after that worship
+- नु (*nu*)—now
+- ते (*te*)—your
+- क्रतुं (*kratuṃ*)—rite
+- अनु (*anu*)—in due order
+- अनूषत (*anūṣata*)—they praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the praisers who worship Agni, the lord of the goddess Svāhā, praise your rite in due order immediately after that worship, for the winning of wealth.
+
+##### English translation
+Forthwith, Indra, as they offer to Agni the lord of Swaha, the singers successively praise your deeds, for the attainment of wealth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रे॒ विश्वा॑नि वि॒र्या॑ कृ॒तानि॒ कर्त्वा॑नि च ।  
+> यम॒कर्ण अ॑ध्व॒रं वि॒दुः ॥ ६ ॥
+
+### Printed p. 728
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रे । विश्वानि । वीर्या । कृतानि । कर्त्वानि । च ।  
+> यं । अर्काः । अध्वरं । विदुः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन्निंद्रे विश्वानि सर्वाणि वीर्या वीर्याणि सामर्थ्य्यानि कृतानि कर्त्वानि च
+> कर्तव्यानि च वर्तंत इति शेषः । यमिंद्रमर्काः स्तोतारोऽध्वरमहिंसकं विदुः
+> जानंति तस्मिन्निंद्र इति ॥
+
+##### Gist of the bhāṣya
+
+In this Indra all powers, all deeds of strength, that have been done and that are to be done, abide; this is the supplement. In him, Indra, whom the praisers know as अध्वरं (*adhvaraṃ*), the unharming one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—whom, which Indra
+- आर्काः (*ārkāḥ*)—the praisers
+- अध्वरं (*adhvaraṃ*)—as the unharming
+- विदुः (*viduḥ*)—have known
+- इंद्रे (*iṃdre*)—in that same Indra
+- विश्वानि (*viśvāni*)—all
+- वीर्या (*vīryā*)—those endowed with power
+- कृतानि (*kṛtāni*)—those done in the past
+- कर्त्वानि च (*kartvāni ca*)—and those to be done in the future; all these deeds abide
+
+##### भावार्थ (Bhāvārtha)
+
+In that same Indra, whom the praisers have known as the unharming, all deeds, indicating power, done in the past and to be done in the future, abide.
+
+##### English translation
+In that Indra, whom the singers know as the unharming, all past and future powers abide.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्पांच॑जन्यया वि॒शेंद्रे॒ घोषा॒ असृ॑क्षत ।  
+> अस्त्र॑णाद्ब॒र्हणा॑ वि॒पो॒३॒॑ ३ र्यो मान॑स्य॒ स क्षयः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । पांचजन्यया । विशा । इंद्रे । घोषाति । अस्यक्षत ।  
+> अस्तृणात् । बर्हणा । विपः । अर्यः । मानस्य । सः । क्षयः ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 721. Mandala 8 sukta 62 rks 7 to 12 (up to pratipadartha)
+**Progress note:** Done through printed p. 728. Maṇḍala 8 sūkta 63 rks 1 to 7 (up to padapāṭha of rk 7), pp. 722-728
