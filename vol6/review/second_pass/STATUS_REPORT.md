@@ -6,7 +6,7 @@
 - **Pages read:** 458 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459)
 - **Findings:** 791 — applied 571, questions 220; edits ok 581, failed 0
 - **Reader tokens (batches so far):** 3691k; per page 8.1k
-- **Last commit:** @C@
+- **Last commit:** e2afdaa
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -26,7 +26,7 @@
 | 13 | 340–369 | 38 | 32 | 32 / 0 | 6 | 257k | bf12e26 | 6 S1 + 3 S2 number repairs, 6 S7 quotation repairs, 12 S18 grammar sūtra repairs; no page shifts; English grammar pages omit several numbers the Kannada prints (not added) |
 | 14 | 370–399 | 45 | 35 | 35 / 0 | 10 | 259k | 93be96c | 15 S7 + 1 S7/R6 quotation repairs, 8 S2 removals; p. 370 reference changed to 18-18-8 as the Kannada prints (impossible maṇḍala, see open items); one edit needed a retry (asterisks); pp. 374 and 396 line up with the Kannada |
 | 15 | 400–429 | 53 | 45 | 45 / 0 | 8 | 242k | abb8a1d | 13 S1/S2 number repairs (incl. Ṛk 10-98-5 → 10-92-5, sūkta 72 → 73), 14 S7 + 4 S13 quotation/term repairs; one retry; no page shifts; p. 425 Pā. Sū. 7-1-171 applied as printed (open item) |
-| 16 | 430–459 | 38 | 18 | 18 / 0 | 20 | TOK15 | @C@ | 6 S2 + 4 S1 number repairs; p. 451 Pā. Sū. [6-2-2] → 9-2-2 as the Kannada prints (no adhyāya 9: see open items); p. 443 volume 2 → 1; p. 458 lines up; no page shifts |
+| 16 | 430–459 | 38 | 18 | 18 / 0 | 20 | TOK15 | e2afdaa | 6 S2 + 4 S1 number repairs; p. 451 Pā. Sū. [6-2-2] → 9-2-2 as the Kannada prints (no adhyāya 9: see open items); p. 443 volume 2 → 1; p. 458 lines up; no page shifts |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
