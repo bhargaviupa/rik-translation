@@ -2474,6 +2474,479 @@ defend us, with our sons and grandsons, in battles.
 > यद्वा उ॑ वि॒श्पतिः॑ शि॒तः सुप्री॑तो॒ मनु॑षो वि॒शि ।  
 > विश्वेद॒ग्निः प्रति॒ रक्षां॑सि सेधति ॥ १३ ॥
 
+### Printed p. 56
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वै । ऊं इति । विश्वतिः । शितः । सुप्रीतः । मनुषः । विशि ।  
+> विश्वा । इत् । अग्निः । प्रति । रक्षांसि । सेधति ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वतिर्विशां पालयिता शितो हविर्भिस्तीक्ष्णीकृतः सोऽग्निः सुप्रीतः सुष्टु
+> प्रीतः सन् मनुषो मनुष्यस्य विशि निवेशने गृहे यद्वै यदा खलु वर्तते
+> तदानीमग्निर्विश्वेद्विश्वान्येव तस्य बाधकानि रक्षांसि प्रति षेधति । हिनस्ति ॥ षिधु गत्यां ।
+> भौवादिकः । उ प्रसिद्धौ ॥
+
+##### Gist of the bhāṣya
+
+The lord of the people, sharpened (made keen) by the oblations, that Agni, being well pleased, in the abode, the house, of a man, whenever he is present there, at that time drives away all the evil spirits that obstruct that man, destroys them. The root meaning "to drive away" is given for the verb.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वतिः (*viśvatiḥ*)—the protector of the people
+- शितः (*śitaḥ*)—made keen by the oblations
+- अग्निः (*agniḥ*)—Agni
+- सुप्रीतः (*suprītaḥ*)—being exceedingly pleased
+- मनुषः (*manuṣaḥ*)—of the man
+- विशि (*viśi*)—in the house
+- यद्वै (*yadvai*)—when he is present, then
+- विश्वेत् (*viśvet*)—all
+- रक्षांसि (*rakṣāṃsi*)—the hostile bands of enemies
+- प्रति षेधति (*prati ṣedhati*)—he destroys
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the protector of the people, made keen by the oblations, being exceedingly pleased, whenever he is present in the house of a man, destroys all the hostile bands of enemies.
+
+##### English translation
+When Agni, the lord of men, is sharpened (by sacrifice), and, well pleased, is present in the abode of a man, he verily defends it against all evil spirits.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒ष्ट्य॑ग्ने॒ नव॑स्य मे॒ स्तोम॑स्य वीर विश्वते ।  
+> नि मा॒यिन॒स्तपु॑षा र॒क्षसो॑ दह ॥ १४ ॥
+
+### Printed p. 57
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रुष्टी । आग्ने । नवस्य । मे । स्तोमस्य । वीर । विश्वते ।  
+> नि । मायिनः । तपुषा । रक्षसः । दह । १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वीर शत्रूणां विनाशयितर्वीर्यवन्विश्पते विशां पालयितर्हे अग्ने नवस्ये.
+> दानींक्रियमाणत्वान्नूतनं मे मदीयं स्तोमस्य स्तोत्रशस्त्रादिकं श्रुष्टि श्रुत्वा
+> मायिनो मायाविनो रक्षसो कर्मविघ्नकारिणो राक्षसांस्तपुषा तापकेन
+> तेजसा नि दह । नितरां भस्मीकुरु ॥ श्रुष्टि । स्नात्यादयश्चति निपातितः । वकारलोपश्यांदसः ॥
+
+##### Gist of the bhāṣya
+
+O hero, destroyer of enemies, valiant one; O lord of the people, O Agni: this praise of mine, in the form of hymns and recitations, is newly made at this very time, and so is new. Having heard it, burn up completely with your scorching splendour the deceitful rākṣasas, who obstruct the rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीर (*vīra*)—O valiant one
+- विश्वते (*viśvate*)—O protector of the people
+- अग्ने (*agne*)—O Agni
+- नवस्य (*navasya*)—newly composed just now
+- मे (*me*)—my
+- स्तोमस्य (*stomasya*)—praises
+- श्रुष्टी (*śruṣṭī*)—having heard
+- मायिनः (*māyinaḥ*)—the deceitful
+- रक्षसः (*rakṣasaḥ*)—the rākṣasas
+- तपुषा (*tapuṣā*)—with your burning splendour
+- नि दह (*ni daha*)—burn up completely
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Agni, protector of the people, hear my praises, newly composed just now, and burn up completely with your burning splendour the deceitful rākṣasas.
+
+##### English translation
+Hero, Agni, lord of men, hearing this my present praise, consume the guileful Rakshasas by your flames.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तस्य॑ मा॒यया॑ च॒न रि॒पुरी॑शीत॒ मर्त्यः॑ ।  
+> यो अ॒ग्नये॑ द॒दाश॑ ह॒व्यदा॑तिभिः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तस्य । मायया । चन । रिपुः । ईशीत । मर्त्यः ।  
+> यः । अग्नये । ददाश । हव्यदातिभिः ॥ १५ ॥
+
+### Printed p. 58
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्त्यो मनुष्यो रिपुः शत्रुः । चनेति निपातसमुदायोऽप्यर्थे ।
+> मायया चन माययापि तस्य जनस्य नेशीत । ईश्वरो न भवति । यो जनो
+> हव्यदातिभिर्हविषां दातृभिर्युत्विग्निरग्नये ददाश हवींषि प्रयच्छति । तस्य रिपुर्नास्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The mortal, the human enemy: the word for "ever" is a combination of particles used in the sense of "even". Not even by deceit does he have power over that man; the enemy is not master of the man who offers oblations to Agni through the givers of oblations, the officiating priests. The meaning is that such a man has no enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- हव्यदातिभिः (*havyadātibhiḥ*)—through the priests and others who offer the oblations
+- अग्नये (*agnaye*)—to Agni
+- ददाश (*dadāśa*)—offers the oblation
+- तस्य (*tasya*)—to him
+- मर्त्यः (*martyaḥ*)—a human
+- रिपुः (*ripuḥ*)—any enemy
+- मायया चन (*māyayā cana*)—even by his deceitful intelligence
+- न ईशीत (*na īśīta*)—cannot show his power and exercise lordship
+
+##### भावार्थ (Bhāvārtha)
+
+Before the sacrificer who offers oblations to Agni through the priests and others who present the oblations, no enemy, whoever he may be among men, can show his power and exercise lordship, even by his deceitful intelligence.
+
+##### English translation
+No hostile mortal shall have power by fraud over him who by the (sacred) offerers of the oblation presents (offerings) to Agni-
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य॑श्वस्ता वसु॒विद॑मुक्ष॒ण्युर॑प्रीणा॒दृषिः॑ ।  
+> म॒हो रा॒ये तमु॑ त्वा॒ समि॑धीमहि ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विअश्वः । त्वा । वसुविदं । उक्षण्युः । आप्रीणात् । ऋषिः ।  
+> महः ! राये । तं । ऊं इति । त्वा । सं । इधीमहि ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्षण्युर्धनानां सेक्तारमात्मन इच्छन् यद्वा वृष्टिसेक्तारमिच्छन् व्यश्व
+> ऋषिरेतन्नामको मम पिता वसुविदं वसूनां धनानांलंभकं त्वामप्रीणात् ।
+
+##### Gist of the bhāṣya
+
+Desiring a showerer of riches for himself, or else desiring a sender of rain, the seer Vyaśva of that name, my father, pleased you, who are the finder of wealth.
+
+### Printed p. 60
+
+> धनादिप्राप्त्यर्थं हविर्भिरतोषयत् । तथा वयमपि महो महते राये धनाय
+> शमु तथाविधमेव त्वा त्वां समिधीमहि । सम्यगाज्यादिहविर्भिर्दिर्पयेम ॥
+
+##### Gist of the bhāṣya
+
+He pleased you with oblations for the sake of obtaining wealth and the like. In the same way we also, for great wealth, kindle you, such as you are, that is, we would please you fully with oblations such as ghee.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्षण्युः (*ukṣaṇyuḥ*)—desiring you, the giver of wealth
+- व्यश्वः (*vyaśvaḥ*)—named Vyaśva
+- ऋषिः (*ṛṣiḥ*)—the seer (my father)
+- वसुविदं (*vasuvidaṃ*)—the bringer of wealth
+- त्वा (*tvā*)—you
+- अप्रीणात् (*aprīṇāt*)—pleased with gifts of oblations (and likewise)
+- महः (*mahaḥ*)—great
+- राये (*rāye*)—for the gaining of wealth
+- तमु (*tamu*)—of the same quality
+- त्वा (*tvā*)—you yourself
+- समिधीमहि (*samidhīmahi*)—we kindle
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the seer named Vyaśva (my father), desiring you, the giver of wealth, pleased you, the bringer of wealth, with gifts of oblations. In the same way we kindle you yourself, of the same quality, for the gaining of great wealth.
+
+##### English translation
+The Rishi Vyashwa, desirous (of propitating) the showerer (of rain), has gratified you, the bestower of wealth ; so we too kindle you for (the acquirement of) ample riches.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒शना॑ का॒व्यस्त्वा॒ नि होता॑रमसादयत् ।  
+> आ॒य॒जिं त्वा॒ मन॑वे जा॒तवे॑दसं ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उशना । काव्यः । त्वा । नि । होतारं । आसादयत् ।  
+> आयजिं । त्वा । मनवे । जातवेदसं ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने काव्यः कविपुत्र उशनैतन्नामक ऋषिर्मनदे राज्ञे । तस्य गृह
+> इत्यर्थः । आयजिमाभिमुख्येन यष्टारं जातवेदसं जातप्रज्ञं त्वा त्वां ।
+> पुनस्ताशब्द आदरार्थः । त्वामेव होतारं होमनिष्पादकं न्यसादयॆत् ।
+> निशरामुपावेशयत् ॥
+> 60 सायणभाव्यसहिता [ मं. ८. अ. ४. सू. २३.
+
+##### Gist of the bhāṣya
+
+O Agni, the seer named Uśanas, the son of Kavi, for Manu the king, that is, in his house, seated you, the sacrificer facing the gods, who are of born wisdom (jātavedas), as the hotṛ, the performer of the oblation. The word "you" is repeated for emphasis: he seated you yourself, as the one who accomplishes the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- काव्यः (*kāvyaḥ*)—the son of Kavi
+- उशना (*uśanā*)—the seer Uśanas
+- मनवे (*manave*)—in the house of the king Manu
+- आयजिं (*āyajiṃ*)—who sacrifices to the gods
+- जातवेदसं (*jātavedasaṃ*)—called Jātavedas
+- त्वा (*tvā*)—you
+- होतारं (*hotāraṃ*)—as the accomplisher of the oblation
+- नि असादयत् (*ni asādayat*)—has established
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the seer Uśanas, the son of Kavi, in the house of the king Manu, has established you, who sacrifice to the gods and are called Jātavedas, as the accomplisher of the oblation.
+
+##### English translation
+Ushanas, as the son of Kavi, has established you, Jatavedas, as the ministrant priest, you as the offerer of sacrifice, for Manu.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॒ हि त्वा॑ स॒जोष॑सो दे॒वासो॑ दू॒तमक्र॑त ।  
+> श्रु॒ष्टी दे॑व प्रथ॒मो य॒ज्ञियो॑ भुवः ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । हि । त्वा । सजोषसः । देवासः । दूतं । अक्रत ।  
+> श्रुष्टी । देव । प्रथमः । यज्ञियः । भुवः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विश्वे सर्वॆ देवासो देवाः सजोषसः संगताः संतोऽस्माकं
+> हवींष्यानयतीति विचार्य । हिरवधारणे । त्वामेव दूतं हविषां वोढारं
+> दूतमक्रत । अकार्षुः । ततो देव द्योतमान हे अग्ने प्रथमो देवानां
+> मुख्यभूतस्त्वं श्रुष्टि । श्रुष्टिति क्षिप्रनाम । क्षिप्रं यज्ञियो देवानां हविर्दातृत्वेन यज्ञार्हो भुवः । भूया ॥
+
+##### Gist of the bhāṣya
+
+O Agni, all the gods, being united, having considered that "he brings oblations for us", made you yourself their messenger, the bearer of the oblations. The particle is used for emphasis. Therefore, O shining Agni, you who are the foremost, the chief of the gods, be quickly worthy of sacrifice as the giver of the oblation to the gods. The word for "quickly" is a name meaning swift.
+
+### Printed p. 62
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे (*viśve*)—all
+- देवासः (*devāsaḥ*)—the gods
+- सजोषसः (*sajoṣasaḥ*)—together, of one mind
+- त्वा हि (*tvā hi*)—you yourself
+- दूतं (*dūtaṃ*)—as messenger, the bearer of oblations
+- अक्रत (*akrata*)—have made
+- देव (*deva*)—O shining Agni
+- प्रथमः (*prathamaḥ*)—you who are the best among the gods
+- श्रुष्टी (*śruṣṭī*)—quickly
+- यज्ञियः (*yajñiyaḥ*)—worthy of worship in the sacrifice
+- भुवः (*bhuvaḥ*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, all the gods together, of one mind, have made you yourself the messenger who carries the oblations. O shining Agni, you who are the best among the gods, be quickly worthy of worship in the sacrifice.
+
+##### English translation
+All the consentient gods have made you their messenger ; may you, divine Agni, who are the first (of the deities), quickly become the object of their worship.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं घा॑ वी॒रो अ॒मृतं॑ दू॒तं कृ॑ण्वीत॒ मर्त्यः॑ ।  
+> पा॒व॒कं कृ॒ष्णव॑र्तनिं॒ विहा॑यसं ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । घ । वीरः । अमृतं । दूतं । कृण्वीत । मर्त्यः ।  
+> पावकं । कृष्णवर्तनिं । विहायसं ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया यजमानश्चाग्निं देवानां दूतमकार्षिदित्याह । वीरः कर्मणि
+> समर्थो मर्त्यो मनुष्यो यजमानोऽमृतं मरणधर्मरहितं पावकं
+> पापानां शोधकं कृष्णवर्तनिं । वर्तनिर्मार्गः । कृष्णमार्गं विहायसं । विहाया
+> इति महन्नाम । गुणैस्तैजोऽधिकत्वेन वा महांतमिमं घेममेवाग्निं दूतं
+> देवानां वोढृत्वेन दूतं कृण्वीत । अकार्षित् ॥
+> 62 सयणभाष्पसहिता [ मं. ८. आ. ४. सू. २३.
+
+##### Gist of the bhāṣya
+
+With this verse he says that the sacrificer made Agni the messenger of the gods. The mortal, the man, the sacrificer, who is the hero, able in the rite, has made this very Agni, who is immortal, free from the nature of death, the purifier, the cleanser of sins, whose path is dark (the word for "path" means road, so: the dark road), and who is great (the word for "great" is a name meaning large), great through his qualities or through his excess of splendour, the messenger, as the carrier of the oblations to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरः (*vīraḥ*)—capable in the rite
+- मर्त्यः (*martyaḥ*)—the sacrificer, a man
+- अमृतं (*amṛtaṃ*)—free from the nature of death
+- पावकं (*pāvakaṃ*)—the purifier from sin
+- कृष्णवर्तनिं (*kṛṣṇavartaniṃ*)—having a path of dark colour
+- विहायसं (*vihāyasaṃ*)—of great form
+- इमं घ (*imaṃ gha*)—this very Agni
+- दूतं (*dūtaṃ*)—as the messenger of the gods
+- कृण्वीत (*kṛṇvīta*)—has made
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer, a man capable in the rite, has made this very Agni, who is free from the nature of death, the purifier from sin, who has a path of dark colour and a great form, the messenger of the gods.
+
+##### English translation
+The pious mortal has appointed this immortal purifying, dark-moving, mighty (Agni), his messenger.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं हु॑वेम य॒तस्रु॑चः सु॒भासं॑ शु॒क्रशो॑चिषं ।  
+> वि॒शाम॒ग्निम॒जरं॑ प्र॒त्नमीड्यं॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । हुवेम । यत्स्रुचः । सुभासं । शुक्रशोचिषं ।  
+> विशां । अग्निं । अजरं । प्रश्नं । ईड्यं ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यतस्रुचो गृहीतस्रुचो यद्वा तत्तत्स्थानेषु नियमितस्रुचो वयं
+> सुभासं शोभनदीप्तिं शुक्रशोचिषं दीपनशीलतेजस्कं विशां स्वामिनं । यद्वा ।
+> विशामाड्यमित्यन्वयः । मनुष्याणां स्तोतव्यमजरं जरारहितं प्रश्नं पुरातनं तं
+> तथाविधमग्निं हुवेम । स्तोत्रशस्त्रादिभिराह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+We who hold the ladles, or else we who hold the ladles ready in their several places, invoke that Agni who is of fair light, of bright and shining splendour, the lord of the people. Or else, the construction is "worthy of praise by the people": worthy to be praised by men, ageless, free from old age, ancient. We call such an Agni with praises, recitations and the like.
+
+### Printed p. 65
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतस्रुचः (*yatasrucaḥ*)—we who hold the ladle of the cup raised up
+- सुभासं (*subhāsaṃ*)—who shines exceedingly
+- शुक्रशोचिषं (*śukraśociṣaṃ*)—who has bright splendour
+- विशां (*viśāṃ*)—for all the people
+- ईड्यं (*īḍyaṃ*)—worthy of worship
+- अजरं (*ajaraṃ*)—free from old age
+- प्रत्नं (*pratnaṃ*)—ancient
+- तं अग्निं (*taṃ agniṃ*)—that same Agni
+- हुवेम (*huvema*)—we invoke with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+We, who hold the cup ladle raised up for the oblation, with prayer invoke that same Agni, who shines exceedingly, who has bright splendour, who is worthy of worship for all the people, who is free from old age and ancient.
+
+##### English translation
+Let us with uplifted ladles invoke him, the brilliant, bright-shining, undecaying, ancient Agni, who is to be adored by men.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॑स्मै ह॒व्यदा॑तिभि॒राहु॑तिं॒ मर्तोऽवि॑धत् ।  
+> भूरि॒ पोषं॒ स ध॑त्ते वी॒रव॒द्यशः॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अस्मै । हव्यदातिभिः । आहुतिं । मर्तः । आविधत् ।  
+> भूरि । पोषं । सः । धत्ते । वीरवत् । यशः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मर्तो मनुष्यो हव्यदातिभिर्हनिर्दातृभिर्युत्विग्निरस्मा अग्नय आहुतिमविधत् विदधाति स मनुष्यो भूरि बहु पोषं धनाधिभिः पोषणं वीरवत् पुत्रपौत्रादियुक्तं यशः कीर्तिं च धत्ते । धारयति । तस्मै धनादीनि प्रयच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The mortal, the man, who through the givers of oblations, the priests, offers the offering to this Agni, that man holds abundant nourishment, nourishment by wealth and the like, and fame accompanied by sons, grandsons and so on. The meaning is that Agni gives him wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the
+- मर्त्यः (*martyaḥ*)—man who
+- हव्यदातिभिः (*havyadātibhiḥ*)—through the priests and others who offer the oblation
+- अस्मै (*asmai*)—to this Agni
+- आहुतिं (*āhutiṃ*)—the offerings of ghee and so on
+- अविधत् (*avidhat*)—offers
+- सः (*saḥ*)—that same man
+- भूरि (*bhūri*)—in great measure
+- पोषं (*poṣaṃ*)—nourishment by wealth and the like
+- वीरवत् (*vīravat*)—accompanied by heroic sons and others
+- यशः (*yaśaḥ*)—fame
+- धत्ते (*dhatte*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+The man who, through the priests and others who present the oblation, offers the offerings of ghee and the like to this Agni, that same man obtains in great measure nourishment by wealth and the like, and fame accompanied by heroic grandsons and others.
+
+##### English translation
+The man who by the (holy) presenters of oblations makes offerings to him, receives (from Agni) ample nourishment, with male progeny, and fame.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒थ॒मं जा॒तवे॑दसम॒ग्निं य॒ज्ञेषु॑ पू॒र्व्यं ।  
+> प्रति॒ स्रुगे॑ति॒ नम॑सा ह॒विष्म॑ती ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रथमं । जातवेदसं । अग्निं । यज्ञेषु । पूर्व्यं ।  
+> प्रति । स्रुक् । एति । नमसा । हविष्मती ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमं देवानां प्रधानभूतं जातवेदसं जातप्रज्ञं पूर्व्यं पुरातनं
+> एतादृशमग्निं यज्ञेष्वग्निष्टोमादियज्ञेषु हविष्मती सोमादिहवियर्युक्ता
+> स्रुग्नमसा स्तोत्रेण नमस्कारेण वा सह प्रत्येकति । अग्निं प्रति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Agni, who is first, the chief among the gods, of born wisdom (jātavedas), ancient: to such an Agni, in the sacrifices, the agniṣṭoma and others, the ladle laden with oblations such as soma goes with praise or with homage; it goes toward Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमं (*prathamaṃ*)—the foremost among all the gods
+- जातवेदसं (*jātavedasaṃ*)—in the form of Jātavedas
+- पूर्व्यं (*pūrvyaṃ*)—the ancient
+- अग्निं (*agniṃ*)—Agni
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- हविष्मती (*haviṣmatī*)—filled with the oblation
+- स्रुक् (*sruk*)—the cup ladle
+- नमसा (*namasā*)—with praise
+- प्रत्येति (*pratyeti*)—approaches
+
+##### भावार्थ (Bhāvārtha)
+
+The ladle filled with the oblation approaches with praise, in the sacrifices, Agni, who is the foremost among the gods, in the form of Jātavedas, and ancient.
+
+##### English translation
+The ladle charged with the oblation proceeds with reverence at sacrifices to the ancient Agni, the first (of the gods), the cognizant of all that exists.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभि॑र्विधेमा॒ग्नये॒ ज्येष्ठा॑भिर्व्यश्व॒वत् ।  
+> मुंहि॑ष्ठाभिर्म॒तिभिः॑ शु॒क्रशो॑चिषे ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिः । विधेम । अग्नये । ज्येष्ठाभिः । व्यश्ववत् ।  
+> मंहिष्ठाभिः । मतिभिः । सुक्रशोचिषे ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वमनोनामका वयं ज्येष्ठाभिः प्रशस्यतमाभिर्मंहिष्याभिः पूज्यतमाभिराभिः सूक्तरूपाभिः स्तुतिभिः शुक्रशोचिषे ज्वालातेजसेऽग्नये विधेम ।
+> परिचरेम वयमिह व्यश्ववत् ! यथा व्यश्वोऽस्माकं पिताग्निं स्तुतिभिः पर्युचरत्
+> तद्वद्वयमपि परिचरेम ॥
+
+##### Gist of the bhāṣya
+
+We, named Viśvamanas **NOTE**, with these most praiseworthy and most worshipful praises, in the form of hymns, serve Agni, whose splendour is bright flame. Here we serve as Vyaśva served: as Vyaśva, our father, served Agni with praises, so we too serve him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- व्यत्ववत् (*vyatvavat*)—as my father Vyaśva served Agni
+- ज्येष्ठाभिः (*jyeṣṭhābhiḥ*)—with the most praiseworthy
+- मंहिष्ठाभिः (*maṃhiṣṭhābhiḥ*)—and most worshipful
+- आभिः मतिभिः (*ābhiḥ matibhiḥ*)—with these hymns of praise
+- शुक्रशोचिषे (*śukraśociṣe*)—to Agni of radiant splendour
+- अग्नये (*agnaye*)—to Agni
+- विधेम (*vidhema*)—let us offer worship
+
+##### भावार्थ (Bhāvārtha)
+
+As our father Vyaśva served Agni, so let us also offer worship to Agni, who has radiant splendour, with these hymns of praise, which are most praiseworthy and most worshipful.
+
 ---
 
-**Progress note:** Done through printed p. 55. Sukta 23 Rk 5 end, Rk 6-12, Rk 13 samhita
+**Progress note:** Done through printed p. 65. Sukta 23 Rk 13 (pada, bhashya) to Rk 23 end, pp. 56-65
