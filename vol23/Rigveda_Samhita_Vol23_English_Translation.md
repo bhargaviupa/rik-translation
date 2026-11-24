@@ -10939,6 +10939,249 @@ O Indra, the Asuras by deceit take on various forms. Whether they are in the for
 ##### English translation
 Destroy the evil spirit, whether in the form of an owl, or of an
 
+### Printed p. 273
+
+##### English translation
+owlet, of a dog, or of a duck, of a hawk, or of a vulture; stay the Rakshasas, Indra, (with the thunderbolt) as with a stone.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॒ रक्षो॑ अ॒भि न॑ड्यातु॒माव॑ता॒मपो॑च्यतु मिथु॒ना या  ॒॑॑
+> किमादिना ।  
+> पृ॒थि॒वी नः॒ पार्थि॑वात्पा॒त्वंह॑सो॒ऽन्तरि॑क्षं दि॒व्यात्पा॑त्व॒स्मान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । रक्षः । अभि । नट् । यातुऽमावतां । अप । उच्छतु । मिथुना । या ।  
+> किमादिना ।  
+> पृथिवी । नः । पार्थिवात् । पातु । अंहसः । अंतरिक्षं । दिव्यात् । पातु । अस्मान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रक्षो राक्षसजातिनोऽस्मान् माभि नट् । माभिव्याप्नोतु ॥ नशतेर्व्याप्तिकर्मणो लुजु मंत्रे घसेति चेर्लुक् । न माज्योग इत्यडभावः ॥ तथा यातुमावतां यातनावतां राक्षसानां मिथुना मिथुनानि स्त्रीपुंरूपाणि युगलान्यपोच्छतु । उषा अपि विनाशयतु । अपवर्जयतु । या यानि मिथुनानि किमीदिना
+> किमीदिनानि किमिदं किमिदमिति जिघांसया वर्तमानानि भवंति । अपि च पृथिवी
+> प्रथितेयं भूमिश्च नोऽस्मान् पार्थिवात्पृथिव्या अंतरिक्षस्य संबंधिनोऽ०हसः ।
+> पापात्पातु । रक्षतु । अंतरिक्षं च दिव्याद्दिवि भवात्पापादस्मान् पातु । रक्षतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the verse thus. "May the race of Rākṣasas not (माभि नट् (*mābhi naṭ*)) overcome us," that is, let it not pervade us; the form comes from the root नश (*naśa*) in the sense of pervading, and the missing augment *aṭ* is due to the prohibitive मा (*mā*). May Uṣas destroy and drive away the pairs (मिथुना (*mithunā*)), male and female couples, of the tormenting Rākṣasas (यातुमावतां (*yātumāvatāṃ*)). The couples meant are those that are किमीदिना (*kimīdinā*), that is, that go about with the wish to kill, thinking "What is this? What is this?". Further, may Earth, this widely extended land, protect us from the sin that belongs to the earthly realm and the atmosphere (the text reads thus), and may the atmosphere protect us from the sin born in heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रक्षः (*rakṣaḥ*)—the race of Rākṣasas
+- नः (*naḥ*)—us
+- मा अभि सट् (*mā abhi saṭ*)—let it not overcome (not torment)
+- या (*yā*)—whichever pair (a pair of asuras, male and female)
+- किमीदिना (*kimīdinā*)—such as keep thinking "How is this? How is this one to be killed?"
+- यातुमावतां (*yātumāvatāṃ*)—of the Rākṣasas
+- मिथुना (*mithunā*)—the couples of man and woman
+- अप उच्छतु (*apa ucchatu*)—let the goddess Uṣas strike and drive away
+- पृथिवी (*pṛthivī*)—Earth
+- नः (*naḥ*)—
+
+### Printed p. 274
+
+- नम्मन्नु (*nammannu*) is printed here as the continuation: us
+- पार्थिवात् (*pārthivāt*)—related to the earth
+- अ०हसः (*a0hasaḥ*)—from sin
+- पातु (*pātu*)—let her protect
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere
+- दिव्यात् (*divyāt*)—from the sin born in the world of heaven
+- अस्मान् (*asmān*)—us
+- पातु (*pātu*)—let it protect
+
+##### भावार्थ (Bhāvārtha)
+
+May this host of Rākṣasas not harm us. May the goddess Uṣas strike and drive away the male-and-female couples of asuras who are always plotting evil, thinking "How is this? How is this one to be killed?". May Earth protect us from the sin born of the earth, and the atmosphere from the sin born of heaven.
+
+##### English translation
+Let not the Rakshasas do us harm: let the dawn drive away the pairs of evil spirits, exclaiming "What now is this?" May the earth protect us from terrestrial, the firmament protect us from celestial, wickedness.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ ज॒हि पुमां॑सं यातु॒धान॑मु॒त स्त्रियं॑ मा॒यया॒  ॑
+> शाशदानां ।  
+> विग्री॑वासो॒ मूर॑देवा ऋदंतु॒ मा ते दृ॑श॒न्सूर्य॑मु॒च्चरं॑तं ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । जहि । पुमांसं । यातुधानं । उत । स्त्रियं । मायया । शाशदानां ।  
+> विग्रीवासः । मूरदेवाः । ऋदंतु । मा । ते । दृशन् । सूर्यं । उत्चरंतं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पुमांसं पुंरूपधारिणं यातुधानं राक्षसं जहि । मारय ।
+> उतापि च मायया वंचनया शास्त्रदानां हिंसंतीं स्त्रीयं राक्षसीं च जहि । अपि
+> च मूरदेवा मारणक्रीडा राक्षसा विग्रीवासो विच्छिन्नग्रीवाः संत ऋदंतु नश्यंतु।
+> ते तथाविधा राक्षसा उच्चरंतमुद्यंतं सूर्यमादित्यं मा दृशन् । मा द्राक्षुः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slay the Yātudhāna, the Rākṣasa who has taken the form of a man; and also slay the woman, the Rākṣasī, who harms by deceit (मायया (*māyayā*)). Let the Rākṣasas who sport in killing (मूरदेवा (*mūradevā*)) perish with their necks severed (विग्रीवासो (*vigrīvāso*)). Let such Rākṣasas not see the rising sun, Āditya.
+
+### Printed p. 275
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पुमांसं (*pumāṃsaṃ*)—in the form of a man
+- यातुधानं (*yātudhānaṃ*)—the Rākṣasa
+- जहि (*jahi*)—destroy
+- उत (*uta*)—and
+- मायया (*māyayā*)—by deceit
+- शाकदानां (*śākadānāṃ*)—who harms **NOTE**
+- स्त्रियं (*striyaṃ*)—destroy the Rākṣasa woman also
+- मूरदेवाः (*mūradevāḥ*)—the Rākṣasas who take delight only in killing others
+- विग्रीवासः (*vigrīvāsaḥ*)—with severed necks
+- ऋदंतु (*ṛdaṃtu*)—let them meet destruction
+- ते (*te*)—such Rākṣasas
+- उच्चरंतं (*uccaraṃtaṃ*)—who is rising
+- सूर्यं (*sūryaṃ*)—the sun
+- मा दृशन् (*mā dṛśan*)—let them not see
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroy the Rākṣasa who has the form of a man and the Rākṣasī who harms us by deceit. Let the Rākṣasas who delight only in killing others perish with their heads cut off. And let them never again see the rising sun or his radiance.
+
+##### English translation
+Slay, Indra, the Yatudhana, whether in the form of a man, or of a woman doing mischief by her deceptions : may those who sport in murder perish decapitated ; let them not behold the rising sun.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ चक्ष्व॒ वि च॒क्षेंद्र॑श्च सोम जागृतं ।  
+> रक्षो॑भ्यो व॒धम॑स्यतम॒शनिं॑ यातु॒मद्भ्यः॑ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । चक्ष्व । वि । चक्ष्व । इंद्रः । च । सोम । जागृतं ।  
+> रक्षःभ्यः । वधं । अस्यतं । अशनिं यातुमत्भ्यः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उपाकरणोत्सर्जनयोर्मंडलाद्यंतहोमे प्रति चक्ष्वेत्येषा । सूत्रितं
+> च । यो नः स्वो अरणः प्रति चक्ष्व ! आ. गृ. ३-५-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk प्रति चक्ष्व (*prati cakṣva*) is used in the closing homa of the maṇḍala, at the Upākaraṇa and the Utsarjana. It is prescribed by the sūtra यो नः स्वो अरणः प्रति चक्ष्व (*yo naḥ svo araṇaḥ prati cakṣva*).
+
+### Printed p. 276
+
+> हे सोम त्वमिंद्रश्च प्रति चक्ष्व । प्रत्येकं पश्य राक्षसान् । तथा वि चक्ष्व ।
+> विविधं पश्य । यथास्मान्न बाधेरन् तथा पश्येत्यर्थः । युवां च संहतौ जागृतं ।
+> जागरूकौ रक्षोवधोद्युक्तौ भवतं । यातुमद्भ्यो हिंसावद्भ्यो रक्षोभ्योऽशनिमशनिरूपं वधमायुधमस्यतं । क्षिपतं ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you and Indra, look at each of the Rākṣasas severally (प्रति चक्ष्व (*prati cakṣva*)), and look at them in various ways (वि चक्ष्व (*vi cakṣva*)), that is, look so that they may not harm us. Both of you together be watchful (जागृतं (*jāgṛtaṃ*)), alert and ready for the slaying of the Rākṣasas. Hurl (अस्यतं (*asyataṃ*)), cast, at the harmful Rākṣasas the weapon, the bolt (अशनिं (*aśaniṃ*)), which is a deadly weapon (वधं (*vadhaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma (you)
+- इंद्रश्च (*iṃdraśca*)—and Indra
+- प्रति चक्ष्व (*prati cakṣva*)—look severally (at the deeds of the Rākṣasas)
+- वि चक्ष्व (*vi cakṣva*)—look, examining their deeds
+- जागृतं (*jāgṛtaṃ*)—be watchful (so that they may not harm us)
+- यातुमध्यः (*yātumadhyaḥ*)—who are the doers of harm
+- रक्षोभ्यः (*rakṣobhyaḥ*)—upon the Rākṣasas
+- अशनिं (*aśaniṃ*)—in the form of the thunderbolt
+- वधं (*vadhaṃ*)—the weapon
+- अस्यतं (*asyataṃ*)—hurl
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you and Indra both, examine the deeds of the Rākṣasas one by one. Watch carefully so that they may not harm us. Hurl at those very Rākṣasas the thunderbolt, the instrument of slaying.
+
+##### English translation
+Soma, you and Indra severally watch (the Rakshasas), be wary, be vigilant; hurl the thunderbolt at the malignant Rakshasas.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the principal homa performed at the Utsarjana and Upākarma, this Ṛk प्रति चक्ष्व (*prati cakṣva*) is to be used as the concluding Ṛk of the maṇḍala, as is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra यो नः स्वो अरणः प्रति चक्ष्व (*yo naḥ svo araṇaḥ prati cakṣva*) (Ā. Gṛ. Sū. 3-5-7).
+
+Supplementary mantras to be recited at the end of the sūktas of this maṇḍala.
+
+Supplementary mantras to be recited at the end of the 35th sūkta:
+1. शंवतीः पारयंत्येते तं पृच्छंति वचो युजा । अभ्यारं तं यमाकेतुं य एवेदमिति ब्रवन् ॥ १ ॥ (*śaṃvatīḥ pārayaṃtyete taṃ pṛcchaṃti vaco yujā | abhyāraṃ taṃ yamāketuṃ ya evedamiti bravan ‖ 1 ‖*)
+2. भासाकेतुं परिस्रुतं भारतीर्ब्रह्मवर्धनीः । संचानाना मही माता य एवेदमिति ब्रवत् ॥ २ ॥ (*bhāsāketuṃ parisrutaṃ bhāratīrbrahmavardhanīḥ | saṃcānānā mahī mātā ya evedamiti bravat ‖ 2 ‖*)
+3. इंद्रस्तं किं विभुं प्रभुं भानुनेयं सरस्वतीं । येन सूर्यमरोचयद्येनेमे रोदसी उभे ॥ ३ ॥ (*iṃdrastaṃ kiṃ vibhuṃ prabhuṃ bhānuneyaṃ sarasvatīṃ | yena sūryamarocayadyeneme rodasī ubhe ‖ 3 ‖*)
+
+### Printed p. 277
+
+4. जुषस्वाग्ने अंगिरः काण्वं मेध्यातिथिं । मा त्वा सोमस्य बर्बृहत् सुतस्य मधुमत्तमः ॥ ४ ॥ (*juṣasvāgne aṃgiraḥ kāṇvaṃ medhyātithiṃ | mā tvā somasya barbṛhat sutasya madhumattamaḥ ‖ 4 ‖*)
+5. त्वमग्ने अंगिरः शोचस्व देववीतमः । आ शंतम शंतमाभिरभिष्टिभिः शांतिः स्वस्तिमकुर्वत ॥ ५ ॥ (*tvamagne aṃgiraḥ śocasva devavītamaḥ | ā śaṃtama śaṃtamābhirabhiṣṭibhiḥ śāṃtiḥ svastimakurvata ‖ 5 ‖*)
+6. शं नः कनिक्रदत् देवः पर्जन्यो अभि वर्षतु । शं नो द्यावापृथिवी शं प्रजाभ्यः शं न एधि द्विपदे शं चतुश्वदे ॥६॥ (*śaṃ naḥ kanikradat devaḥ parjanyo abhi varṣatu | śaṃ no dyāvāpṛthivī śaṃ prajābhyaḥ śaṃ na edhi dvipade śaṃ catuśvade ‖6‖*)
+
+Supplementary mantras to be recited at the end of the … sūkta **NOTE**:
+1. स्वप्न स्वप्नाधिकरणे सर्वं नि ष्वापया जनं । आसूर्यमन्यान्ता पयाव्युंषं जाग्रियामहं ॥ १ ॥ (*svapna svapnādhikaraṇe sarvaṃ ni ṣvāpayā janaṃ | āsūryamanyāntā payāvyuṃṣaṃ jāgriyāmahaṃ ‖ 1 ‖*)
+2. अजगरो नाम सर्पः सर्पिरविषो महान् । तस्मिन् हि सर्पः सुधितस्तेन त्वा स्वापयामि ॥ २ ॥ (*ajagaro nāma sarpaḥ sarpiraviṣo mahān | tasmin hi sarpaḥ sudhitastena tvā svāpayāmi ‖ 2 ‖*)
+3. सर्पः सर्पो अजगरः सर्पिरविषो महान् । तस्य सर्पात्सिंधवस्तस्य गाधमशीमहि ॥ ३ ॥ (*sarpaḥ sarpo ajagaraḥ sarpiraviṣo mahān | tasya sarpātsiṃdhavastasya gādhamaśīmahi ‖ 3 ‖*)
+4. काळिको नाम सर्पो नवनागसहस्रबळः । यमुनप्रदे ह सो जातो ३ यो नारायणवाहनः ॥ ४ ॥ (*kāḷiko nāma sarpo navanāgasahasrabaḷaḥ | yamunaprade ha so jāto 3 yo nārāyaṇavāhanaḥ ‖ 4 ‖*)
+5. यदि काळिकदूतस्य यदि काःकाळिकाद्भात् । जन्मभूमिमतिक्रांतो निर्विषो याति काळिकः ॥ ५ ॥ (*yadi kāḷikadūtasya yadi kāḥkāḷikādbhāt | janmabhūmimatikrāṃto nirviṣo yāti kāḷikaḥ ‖ 5 ‖*)
+6. आ याहींद्र पथिभिरीळितेभिर्यज्ञमिमं नो भागधेयं जुषस्व । तृप्तां जहुर्मातुळस्येव योषा भागस्ते पैतृष्पसेयिं वपामिव ॥६॥ (*ā yāhīṃdra pathibhirīḷitebhiryajñamimaṃ no bhāgadheyaṃ juṣasva | tṛptāṃ jahurmātuḷasyeva yoṣā bhāgaste paitṛṣpaseyiṃ vapāmiva ‖6‖*)
+7. यशस्करं बलवंतं प्रभुत्वं तमेव राजाधिपतिर्बभूव । संकीर्णनागाश्वपतिर्नराणां सुमंगल्यं सततं दीर्घमायुः ॥ ७ ॥ (*yaśaskaraṃ balavaṃtaṃ prabhutvaṃ tameva rājādhipatirbabhūva | saṃkīrṇanāgāśvapatirnarāṇāṃ sumaṃgalyaṃ satataṃ dīrghamāyuḥ ‖ 7 ‖*)
+8. कर्कोटको नाम सर्पो यो दृष्टीविष उच्यते । तस्य सर्पस्य सर्पत्वं तस्मै सर्प नमोस्तु ते ॥ ८ ॥ (*karkoṭako nāma sarpo yo dṛṣṭīviṣa ucyate | tasya sarpasya sarpatvaṃ tasmai sarpa namostu te ‖ 8 ‖*)
+9. येदो रोचने दिवो ये वा सूर्यस्य रश्मिषु । येषामप्पु सदस्यतं तेभ्यः सर्पेभ्यो नमः ॥ ९ ॥ (*yedo rocane divo ye vā sūryasya raśmiṣu | yeṣāmappu sadasyataṃ tebhyaḥ sarpebhyo namaḥ ‖ 9 ‖*)
+10. या इषवो यातुधानानां ये वा वनस्पतीननु । ये वावटेषु शेरते तेभ्यः सर्पेभ्यो नमः ॥ १० ॥ (*yā iṣavo yātudhānānāṃ ye vā vanaspatīnanu | ye vāvaṭeṣu śerate tebhyaḥ sarpebhyo namaḥ ‖ 10 ‖*)
+
+### Printed p. 278
+
+11. नमो अस्तु सर्पेभ्यो ये के च पृथिवीमनु । ये अंतरिक्षे ये दिवि तेभ्यः सर्पेभ्यो नमः ॥ ११ ॥ (*namo astu sarpebhyo ye ke ca pṛthivīmanu | ye aṃtarikṣe ye divi tebhyaḥ sarpebhyo namaḥ ‖ 11 ‖*)
+12. उग्रायुधाः प्रमतिनः प्रवीराः मायाविनो बलिनो मिच्छमानाः । ये देवानसुराः पराभवन् तांस्त्वं वज्रेण मघवन्निवारय ॥ १२॥ (*ugrāyudhāḥ pramatinaḥ pravīrāḥ māyāvino balino micchamānāḥ | ye devānasurāḥ parābhavan tāṃstvaṃ vajreṇa maghavannivāraya ‖ 12‖*)
+
+Supplementary mantra to be recited at the end of the 96th sūkta:
+1. यस्य व्रतं पशवो यंति सर्वे यस्य व्रतमुपतिष्ठंत आपः । यस्य व्रते पुष्टिपतिर्निविष्टस्तं सरस्वंतमवसे हुवेम ॥ १ ॥ (*yasya vrataṃ paśavo yaṃti sarve yasya vratamupatiṣṭhaṃta āpaḥ | yasya vrate puṣṭipatirniviṣṭastaṃ sarasvaṃtamavase huvema ‖ 1 ‖*)
+
+Supplementary mantra to be recited at the end of the 103rd sūkta:
+1. उपप्लवत मंडूकि वर्षमा वद तादुरि । मध्ये ह्रदस्य प्लवस्य निगृह्य चतुरः पदः ॥ १ !! (*upaplavata maṃḍūki varṣamā vada tāduri | madhye hradasya plavasya nigṛhya caturaḥ padaḥ ‖ 1 !!*)
+
+The seventh maṇḍala is completed.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्री मद्राजाधिराजपरमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपाल - साम्राज्यधुरंधरेण सायणामात्येन विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये सप्तममंडलं समाप्तं (*iti śrī madrājādhirājaparameśvara vaidikamārgapravartaka śrī vīrabukkabhūpāla - sāmrājyadhuraṃdhareṇa sāyaṇāmātyena viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye saptamamaṃḍalaṃ samāptaṃ*)
+
+Here ends the seventh maṇḍala of the Ṛgveda-saṃhitā, with the commentary of Śrī Sāyaṇa and accompanied by the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळं (*maṃgaḷaṃ*)
+
+श्री महागणाधिपतये नमः (*śrī mahāgaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुक्रमे . यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmukrame . yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्यसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśyasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्याया सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyā sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+With the commentary of Sāyaṇa: Ṛgveda-saṃhitā. Now the Eighth Maṇḍala. The Eighth Maṇḍala.
+
+**Introduction**
+Of the ten maṇḍalas in all in the Ṛgveda-saṃhitā, all the sūktas of the ninth maṇḍala have Pavamāna Soma alone as their deity; no other deity is praised in that maṇḍala. In the other nine maṇḍalas, however, all deities other than Soma are praised. When the sūktas of these maṇḍalas were arranged, every maṇḍala begins with sūktas praising Agni; that is, the first sūkta and a few sūktas after it are addressed to Agni. In this eighth maṇḍala, however, contrary to this, the maṇḍala begins with a sūkta whose deity is Indra
+
+### Printed p. 280
+
+at the very start. This is a distinctive feature of this maṇḍala. After 49 sūktas in this maṇḍala there is a section called Vālakhilya, made up of 11 sūktas. These Vālakhilya sūktas have 80 Ṛks in all. Some regard them as supplementary mantras (परिशिष्ट (*pariśiṣṭa*)), and for this reason Sāyaṇācārya wrote no commentary on these sūktas. But in the Ṛgveda-Sāyaṇa-bhāṣya published by the Vedic Research Institute (Vaidika Saṃśodhana Maṇḍala) of the city of Poona, a commentary has been given for these Vālakhilya sūktas. As that publication's note says, the commentary on these sūktas was found in a manuscript obtained from a scholar in Kāśī, and was edited and published; they state that it is not known who wrote it. Since no other commentary is available, we too have given this one here. As in the fifth maṇḍala, in this maṇḍala too there are many famous seers, seers of sūktas. Since not many facts are known about them, we have written an introduction only of the seer Kaṇva, and for the other seers of this maṇḍala we give only the sūktas and Ṛks seen by them.
+
+**Introduction to the seer Kaṇva**
+The name of Kaṇva is very famous in the Ṛgveda and the other saṃhitās, and in the Brāhmaṇas and other works. In passages such as युवं कण्णाय नासत्या (*yuvaṃ kaṇṇāya nāsatyā*) (8-5-23), Kaṇva's enjoyment of divine favour and his being a seer of mantras are praised on many occasions. The eighth maṇḍala of the Ṛk-saṃhitā is famed as the Kāṇva maṇḍala. A historical circumstance by which this seer's name became famous for this maṇḍala is related as follows.
+
+कण्वश्चैव प्रगाथश्च घोरपुत्रौ बभूवतुः । गुरुणा तावनुज्ञातावूषतुः सहितौ वने ॥ (*kaṇvaścaiva pragāthaśca ghoraputrau babhūvatuḥ | guruṇā tāvanujñātāvūṣatuḥ sahitau vane ‖*) (Bṛ. De. 6-35)
+
+Kaṇva and Pragātha were both sons of the seer Ghora. After the two had finished their studies together under one teacher, the teacher blessed them and sent them off. Then the two lived together in one forest.
+
+वसतोस्तु तयोस्तत्र कण्वपत्न्याः शिरः स्वपत् । कृत्वा कनीयान् कण्वस्य उत्संगे नान्वबुध्यत ॥ ३६ ॥ (*vasatostu tayostatra kaṇvapatnyāḥ śiraḥ svapat | kṛtvā kanīyān kaṇvasya utsaṃge nānvabudhyata ‖ 36 ‖*)
+
+While Kaṇva and Pragātha were living together in the forest, once the younger one, Pragātha, lay down on the lap of Kaṇva's wife and fell asleep. For a long time he did not wake up. Then the elder one, Kaṇva, saw this.
+
 ---
 
-**Progress note:** Done through printed p. 272. pp. 264-272 (batch API)
+**Progress note:** Done through printed p. 280. pp. 273-280 (batch API)
