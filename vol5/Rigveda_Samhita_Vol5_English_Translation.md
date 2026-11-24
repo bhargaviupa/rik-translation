@@ -7063,7 +7063,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Translation of the bhāṣya:** "*Yaḥ*, the Indra who, *dhṛṣṇunā śavasā*, with enemy-overpowering strength, *tamaḥ bādhate*, strikes the darkness — Vṛtra and the like of the nature of darkness; *ūtaye*, for protection, *tvāvṛdhā*, increased by you the praiser: *taṃ indram*, that Indra, *devī taviṣī*, the shining power, *yadi*, when, *siṣakti*, attends — *saca* is 'to serve' says Yāska — *sūryaḥ uṣasaṃ na*, as the sun attends the dawn goddess; that is, is always joined to him. Then *arhariṣvaṇiḥ*: the *arharayaḥ* are enemies, who go and seize; Indra, who by causing them pain makes them sound (cry out), *reṇum*, harm, injury, *bṛhat*, great, *iyarti*, sends: he makes the enemies go."
 
-**Pratipadārtha** *(p. 383)* — "**yaḥ** — which Indra; **dhṛṣṇunā** — that which overpowers (the enemies); **śavasā** — by strength; **tamaḥ** — Vṛtra and other Asuras of the nature of darkness; **bādhate** — strikes (and); **ūtaye** — for protection; **tvāvṛdhā** — increased by you, the praiser; **taṃ indram** — that Indra; **devī** — divine; **taviṣī** — shining power (of strength); **yadi** — when; **sūryaḥ** — the sun god; **uṣasaṃ na** — as he attends the goddess Uṣas; **siṣakti** — attends (then); **arhariṣvaṇiḥ** — Indra who makes enemies cry out by pressing them hard; **reṇum** — the pain; **bṛhat** — greatly; **iyarti** — causes to the enemies."
+**Pratipadārtha** *(p. 383)* — "**yaḥ** — which Indra; **dhṛṣṇunā** — that which overpowers (the enemies); **śavasā** — by strength; **tamaḥ** — Vṛtra and other Asuras of the nature of darkness; **bādhate** — strikes (and); **ūtaye** — for protection; **tvāvṛdhā** — increased by you, the praiser; **taṃ indram** — that Indra; **devī** — divine; **taviṣī** — shining power (of strength); **yadi** — when; **sūryaḥ** — the sun god; **uṣasaṃ na** — as he attends the goddess Uṣas; **siṣakti** — attends (then); **arhariṣvaṇiḥ** — Indra who, by causing pain, makes enemies cry out loudly; **reṇum** — the pain; **bṛhat** — greatly; **iyarti** — causes to the enemies."
 
 **Bhāvārtha** *(p. 383)* — "When the shining power of strength attends — as the sun attends the goddess Uṣas — the Indra who, being increased by you the praiser, with his enemy-overpowering strength strikes Vṛtra and the other Asuras of the nature of darkness, then Indra causes great pain to enemies and makes them cry out."
 
@@ -7078,16 +7078,16 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **Special Topics (p. 384)**
 - **tvāvṛdhā** — "*Tvayā vardhate iti tvāvṛt*: this word is explained as 'one who is increased by you the praiser'."
 - **siṣakti** — "*Samavaiti* — *sevate iti yāskaḥ* (Ni. 3-21): though the root *saca samavāye* would give 'joins', the Nirukta gives 'serves'; explaining the Ṛgveda passage '*sanaḥ siṣaktu yas turaḥ*' (Ṛ. Saṃ. 1-18-2), *siṣaktu sacate iti sevamānasya*, the Nirukta says 'of one who serves'."
-- **arhariṣvaṇiḥ** — "*Gacchanto haranti iti arharayaḥ śatravaḥ*: the enemies who go and plunder everything on the highway; Indra, who punishes such hostile ones so that they cry out in pain, is *arhariṣvaṇi*."
+- **arhariṣvaṇiḥ** — "*Gacchanto haranti iti arharayaḥ śatravaḥ*: the enemies who go and snatch away everything from the adversary; Indra, who punishes such hostile ones so that they cry out in pain, is *arhariṣvaṇi*."
 - **reṇum** — "*Reṣaṇaṃ hiṃsanam*: it means that Indra gives great harm to his enemies."
 
 **Vyākaraṇa-prakriyā** *(pp. 384–385 — grammar pages, noted briefly)*
-- **tvāvṛdhā**: "*tvayā vardhate iti tvāvṛt*"; *vṛdhu vṛddhau*, *kvip ca*; *pratyayottarapadayoś ca*: *tva* for *yuṣmad*; *śeṣe lopaḥ*; in the Veda *ā* for *t*… *tvāvṛdhā*: *supāṃ suluk*: *ā* for the instrumental/dual.
-- **siṣakti**: *saca samavāye*; *laṭ*; *śap* → *ślu* (*bahulaṃ chandasi*); reduplication; *i* for the reduplicative; *co kuḥ*: *ka* for *c*; *yadi* before: *niṣātasya*… no *nighāta* (*nipātair yadyadihanta…*); *anudātte ca* (Pā. Sū. 6-1-190): initial-acute.
+- **tvāvṛdhā**: "*tvayā vardhate iti tvāvṛt*"; *vṛdhu vṛddhau*, *kvip ca*; *pratyayottarapadayoś ca*: *tva* for *yuṣmad*; *śeṣe lopaḥ*; in the Veda *ā* for *d*… *tvāvṛdhā*: *supāṃ suluk*: *ā* for the case ending (accusative singular).
+- **siṣakti**: *saca samavāye*; *laṭ*; *śap* → *ślu* (*bahulaṃ chandasi*); reduplication; *i* for the reduplicative; *co kuḥ*: *ka* for *c*; *yadi* before: *niṣātasya*… no *nighāta* (*nipātair yadyadihanta…*, Pā. Sū. 8-1-30); *anudātte ca* (Pā. Sū. 6-1-190): initial-acute.
 - **bādhate**: *bādhṛ loḍane*; *laṭ*; *yaḥ* before, so no *nighāta*; the root's accent: initial-acute.
 - **iyarti**: *ṛ gatau*, *juhotyādi*; *ṇic*-sense included; *ślu*; reduplication; *ur at*; *artipiparty…* (Pā. Sū. 7-4-77): *i*; *abhyāsasyāsavarṇe* (Pā. Sū. 6-4-78): *iy*; *guṇa*: *iyarti*; *anudātte ca*: reduplicative initial-acute; the preceding word is of another sentence, so no *nighāta*.
 - **reṇum**: *rī gatireṣaṇayoḥ*; Uṇādi *nu*; *guṇa*; *ṇatva*; end-acute.
-- **arhariṣvaṇiḥ**: *ṛ gatau*; *anyebhyo 'pi dṛśyante*: *viṭ*; *guṇa*: *ar*; *arharayaḥ* = *arayaḥ*, 'going and carrying off': *ariḥ gacchantaś ca ime haraya ca iti arharayaḥ*; *svan* (*svana dhvana śabde*, *hetumati ca*: *ṇic*; *inan* after *ṇic*; *ṇeraniṭi*: loss of *ṇic*; *ghaṭādi* so *mit*: *mitāṃ hrasvaḥ*): *svani*; *arhari*, a *kāraka*-first word, so *gatikārakopapadāt kṛt*: the accent of the *kṛdanta*. **|| 4 ||**
+- **arhariṣvaṇiḥ**: *ṛ gatau*; *anyebhyo 'pi dṛśyante*: *viṭ*; *guṇa*: *ar*; *ār* is the word; *araḥ gacchantaś ca ime harayaś ca iti arharayaḥ*; *svan* (*svana dhvana śabde*, *hetumati ca*: *ṇic*; *in* after *ṇic*; *ṇeraniṭi*: loss of *ṇic*; *ghaṭādi* so *mit*: *mitāṃ hrasvaḥ*): *svani*; *arhari*, a *kāraka*-first word, so *gatikārakopapadāt kṛt*: the accent of the *kṛdanta*. **|| 4 ||**
 
 ---
 
@@ -7131,8 +7131,8 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **atiṣṭhipaḥ**: *ṣṭhā gatinivṛttau*; *hetumati ca*: *ṇic*; *s* for *ṣ* at the beginning; *arti-hrī-vlī-rī-knūyī-kṣmāyy-ātāṃ puṅ ṇau* (Pā. Sū. 7-3-36): *puk*; *luṅ* second singular *sip*; *itaś ca*; *ṇiśridrusrubhyaḥ* (Pā. Sū. 3-1-48): *caṅ*; *ṇeraniṭi*: *ṇic* dropped; *caṅi* (Pā. Sū. 6-1-11): reduplication; *hrasvaḥ*; *śarpūrvāḥ khayaḥ* (Pā. Sū. 7-4-61): *th* remains; *tiṣṭhater it* (Pā. Sū. 7-4-5): *i*; *abhyāse carca*: *t*; *ṣatva*; *ru*, *visarga*; *aṭ*; *yat* before: no *nighāta*; initial-acute by *aṭ*.
 - **barhaṇā**: *supāṃ suluk…*: *ā* for the case ending.
 - **svarmīḷhe**: *mih secane*; *kta*; *hoḍhaḥ* (Pā. Sū. 8-2-31): *ḍh*; *jhaṣastathor dho 'dhaḥ* (Pā. Sū. 8-2-40): *dh*; *ṣṭunā ṣṭuḥ*; *ḍhoḍhe lopaḥ* (Pā. Sū. 8-3-13); *ḍhralope pūrvasya dīrgho 'ṇaḥ* (Pā. Sū. 6-3-111): lengthening: *mīḷha*; *svar* + *mīḷha*: *svar* is *svarita* (*nyaṅ svarau svaritau*); bahuvrīhi, so the first member's accent; locative.
-- **ahan**: *han*; *laṅ* second singular *sip*; *itaś ca*: loss; *hal-ṅyābbhyaḥ*: loss of *s*; *saṃyogāntalopa*; *aṭ*; *yat* before: no *nighāta*.
-- **aubjaḥ**: *ubja ārjave*, *tudādi*; *laṅ* second singular; *śa*; *āḍ ajādīnām*, *āṭaś ca*: *vṛddhi*; *ru*, *visarga*; *nighāta*. **|| 5 ||**
+- **ahan**: *han*; *laṅ* second singular *sip*; *itaś ca*: loss; *ādiprabhṛtibhyaḥ śapaḥ*: *luk* for *śap*; *hal-ṅyābbhyaḥ*: loss of *s*; *aṭ*; *yat* before: no *nighāta*.
+- **aubjaḥ**: *ubja ārjave*; *laṅ* second singular *sip*; loss of *i*; *kartari śap*: *śap*; *āḍ ajādīnām*, *āṭaś ca*: *vṛddhi*; *ru*, *visarga*; *nighāta*. **|| 5 ||**
 
 ---
 
@@ -7170,13 +7170,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **English Translation (the source's own, p. 390)** — "O mighty Indra, you sent down from heaven, by your power, upon the realms of earth, the world-sustaining rain; exhilarated by the (soma-juice) you have expelled the waters (from the clouds) and have crushed Vritra by a solid rock."
 
-**Special Topics (p. 391)** — **māhinaḥ** "from the root *maha pūjāyām*: one who grows, or one worthy of worship: an epithet of Indra." **dharuṇam** "*sarvasya jagato dhārakaṃ vṛṣṭijalam*: the water of rain, support of the whole world." **samayā** "from the root *śamu śramu avaikalye*: firm, or strong." **pāṣyā** "this word has the two meanings, stone or power." **vi arujaḥ** "you destroyed in a special way: from the root *ruja bhaṅge*."
+**Special Topics (p. 391)** — **māhinaḥ** "from the root *maha pūjāyām*: one who grows, or one worthy of worship: an epithet of Indra." **dharuṇam** "*sarvasya jagato dhārakaṃ vṛṣṭijalam*: the water of rain, support of the whole world." **samayā** "from the root *ṣama ṣṭama avaikalye*: firm, or strong." **pāṣyā** "this word has the two meanings, stone or power." **vi arujaḥ** "you destroyed in a special way: from the root *ruja bhaṅge*."
 
 **Vyākaraṇa-prakriyā** *(pp. 391–392 — grammar pages, noted briefly)*
 - **dhiṣe**: *ḍudhāñ*; Vedic *liṭ*; *thāsaḥ se*; *dvirvacane…* (Kā. 6-1-8-1): no doubling; the *iṭ* of *liṭ* is allowed (*kṛsṛbhṛvṛstudrusrusruvo liṭi*, restricted); *ādeśapratyayayoḥ*: *ṣatva*; *ātolopa iṭi ca* (Pā. Sū. 6-4-64); *nighāta*.
-- **māhinaḥ**: *maha pūjāyām*; *maher iṇañ ca* (U. Sū. 2-214): *inan*; *ata upadhāyāḥ*: *vṛddhi*; *māhin*; *nit*: initial-acute.
-- **ariṇāḥ**: *rī gatireṣaṇayoḥ*, *kryādi*; *laṅ* second singular; *sip*; loss of *i*; *prādīnāṃ hrasvaḥ* (Pā. Sū. 7-3-80); *śnā*; *ṇatva*; *ru*, *visarga*; *aṭ*; *tiṅ atiṅaḥ*: *nighāta*; accent from *śnā*.
-- **samayā**: *śam* / *śamu śramu avaikalye*; *nandigrahipacādibhyaḥ*: *ac*; *sa* for *śa*; *citaḥ*: end-acute; instrumental.
+- **māhinaḥ**: *maha pūjāyām*; *maher inaṇ ca* (U. Sū. 2-214): *inaṇ*; *ata upadhāyāḥ*: *vṛddhi*; *māhin*; *nit*: initial-acute.
+- **ariṇāḥ**: *rī gatireṣaṇayoḥ*, *kryādi*; *laṅ* second singular; *sip*; loss of *i*; *prādīnāṃ hrasvaḥ* (Pā. Sū. 7-3-80); *śnā*; *ṇatva*; *ru*, *visarga*; *aṭ*; *tiṅ atiṅaḥ*: wholly unaccented (*sarvānudātta*).
+- **samayā**: *ṣama ṣṭama avaikalye*; *nandigrahipacādibhyaḥ*: *ac*; *s* for *ṣ*; *citaḥ*: end-acute; instrumental.
 - **pāṣyā**: *piṣḷ saṃcūrṇane*; *sarvadhātubhya in* (U. Sū. 4-557): *in*; the *i* of the root's penultimate becomes *a* in the Uṇādi (bahulam): *pāṣi*; in the feminine, *kṛdikārād aktinaḥ* (Pā. Sū. 4-1-45 *gaṇa*) gives *ṅīṣ*; *yaṇ*; *udāttasvaritayor yaṇaḥ* (Pā. Sū. 8-2-4): *svarita*.
 - **arujaḥ**: *ruja bhaṅge*, *tudādi*; *laṅ* second singular; *itaś ca*; *tudādibhyaḥ śaḥ*; *pugantalaghūpadhasya* barred (*sārvadhātukam apit*); *aṭ*; *ru*, *visarga*; *nighāta*. **|| 6 ||**
 
@@ -7263,7 +7263,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **maṃhiṣṭhāya**: *mahi vṛddhau*; *tṛc*; *idit*: *num*: *maṃhitṛ*; *atiśayena maṃhitā maṃhiṣṭhaḥ*; *tuś chandasi* (Pā. Sū. 5-3-59): *iṣṭhan*; *turiṣṭhemeyaḥsu* (Pā. Sū. 6-4-154): loss of *tṛ*; *nit*: initial-acute; dative.
 - **bṛhate**: *bṛhat*; *bṛhanmahator upasaṃkhyānam*: ending acute.
 - **bṛhadraye**, **satyaśuṣmāya**: bahuvrīhis, first-member accent.
-- **matim**: *man jñāne*; *striyāṃ ktin*; *anudāttopadeśa…* (Pā. Sū. 6-4-[?]; the last group read 26 or 27, not settled): loss of nasal; *mantre vṛṣeṣapacamanaviduṣyā…* (Pā. Sū. 3-3-96): *ktin* acute; accusative: *ekādeśa udāttenodāttaḥ* (Pā. Sū. 8-2-5).
+- **matim**: *man jñāne*; *striyāṃ ktin*; *anudāttopadeśa…* (Pā. Sū. 6-4-76): loss of nasal; *mantre vṛṣeṣapacamanaviduṣyā…* (Pā. Sū. 3-3-96): *ktin* acute; accusative: *ekādeśa udāttenodāttaḥ* (Pā. Sū. 8-2-5).
 - **bhare**: *bhṛñ bharaṇe*; *laṭ* first singular; *nighāta*.
 - **apām**: genitive plural; *ūḍidam…*: ending acute.
 - **durdharam**: *dhṛñ dhāraṇe*; *īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal* (Pā. Sū. 3-3-126): *khal*; *guṇa*; *uraṇ raparaḥ*; *liti*: acute before the suffix.
@@ -7298,19 +7298,19 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *(The tail, p. 397: on* asat *(*as bhuvi*, *laṅ*; *śap* not elided; no *aṭ*),* iṣṭaye *(*yaja*, *ktin*; *vacisvapiyajādīnāṃ kiti*: *saṃprasāraṇa*; *vraścabhrasja…*: *ṣatva*; *ṣṭutva*; Uṇādi alternative *iṣa gatau*),* nimneva *(*nimna* + *iva*; *eva*; Vedic *ā* shortening),* samaśīta *(*śīṅ svapne*, *laṅ*; *guṇa* barred),* haryataḥ *(*haryatir gatikāntyoḥ*; *bhṛmṛdṛśīyajiparvibandhi…*: *atac*),* śnathitā *(*śnatha kṣatha kratha hiṃsārthāḥ*; *tācchīlika tṛn*; *sit*: *anudātta*, so initial-acute) — see Kannada notes.)*
 
-**Translation of the bhāṣya:** "*Adha*, immediately after that, O Indra, *viśvam*, this entire world, *te iṣṭaye*, for your sacrifice, *anv asat*, was ready — or: *iṣṭaye* 'for reaching you with oblations': connect so. *Haviṣmataḥ savanā*, the sacrifices of the sacrificer who has oblations, *nimneva āpaḥ*, like waters to low places, flow to you (this is understood) — of Indra *haryataḥ*, who desires the slaying of enemies (*haryati* is a verb of desire, Ni. 2-12); or *haryataḥ*, beautiful. The *hiraṇyayaḥ*, golden, *śnathitā*, enemy-destroying thunderbolt *yad na samaśīta*, did not sleep *parvate*, on the mountain, the heap of rock, or on Vṛtra: it did not become dormant, but, awake, it killed. When the thunderbolt, driven by Indra, unresisted, killed Vṛtra, from that time on all the sacrificers set about worshipping him, is the sense."
+**Translation of the bhāṣya:** "*Adha*, immediately after that, O Indra, *viśvam*, this entire world, *te iṣṭaye*, for your sacrifice, *anv asat*, was ready — or: *iṣṭaye* 'for reaching you with oblations': connect so. *Haviṣmataḥ savanā*, the sacrifices of the sacrificer who has oblations, *nimneva āpaḥ*, like waters to low places, flow to you (this is understood) — of Indra *haryataḥ*, who desires the slaying of enemies (*haryati* is a verb of desire, Ni. 7-17); or *haryataḥ*, beautiful. The *hiraṇyayaḥ*, golden, *śnathitā*, enemy-destroying thunderbolt *yad na samaśīta*, did not sleep *parvate*, on the mountain, the heap of rock, or on Vṛtra: it did not become dormant, but, awake, it killed. When the thunderbolt, driven by Indra, unresisted, killed Vṛtra, from that time on all the sacrificers set about worshipping him, is the sense."
 
-**Pratipadārtha** *(p. 397)* — "**haryataḥ** — who looked for the slaying (of enemies); **indrasya** — of Indra; **hiraṇyayaḥ** — made of gold; **śnathitā** — the destroyer of enemies; **vajraḥ** — the thunderbolt; **parvate** — on the mountain, or when hurled at Vṛtra; **yat** — when; **na samaśīta** — did not sleep (i.e. being sharp, it killed the enemy); **adha ha** — immediately after that; **viśvam** — the whole world; **te** — for you; **iṣṭaye** — for the sacrifice; **anu asat** — became ready; **haviṣmataḥ** — of the sacrificer; **savanā** — the offerings; **nimneva āpaḥ** — like waters flowing in a low place (reached you without obstruction)."
+**Pratipadārtha** *(p. 397)* — "**haryataḥ** — who looked for the slaying (of enemies); **indrasya** — of Indra; **hiraṇyayaḥ** — made of gold; **śnathitā** — the destroyer of enemies; **vajraḥ** — the thunderbolt; **parvate** — on the mountain, or when hurled at Vṛtra; **yat** — when; **na samaśīta** — did not sleep (i.e. being alert, it killed the enemy); **adha ha** — immediately after that; **viśvam** — the whole world; **te** — for you; **iṣṭaye** — for the sacrifice; **anu asat** — became ready; **haviṣmataḥ** — of the sacrificer; **savanā** — the offerings; **nimneva āpaḥ** — like waters flowing in a low place (reached you without obstruction)."
 
 **Bhāvārtha** *(p. 397)* — "O Indra, when, looking for the slaying of the enemy, your golden, enemy-destroying thunderbolt, hurled upon Vṛtra, killed him without the least delay, then immediately the whole world was ready for your sacrifice; the oblations of the sacrificer reached you like water flowing to a hollow, without obstruction."
 
-**English Translation (the source's own, p. 398)** — "Indra, this entire universe was engaged in your sacrifice; the oblations of the sacrificer flowed like water falling to a depth; the beautiful, golden, fatal thunderbolt of Indra did not sleep upon the mountain."
+**English Translation (the source's own, p. 398)** — "Indra, this entire universe was engaged in your sacrifice; the oblations of the sacrificer flowed like water falling to a depth; the hebeautiful [sic], golden, fatal thunderbolt of Indra did not sleep upon the mountain."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 398**
 - **adha** — "The word *adha* is used in the sense of *atha*, 'afterwards'."
 - **iṣṭaye** — "Explained in two ways: for worshipping you with oblations; or for the sacrifice."
 - **savanā** — "Though the word *savana* denotes only sacrifice, here, by implication, it means all the acts that occur in the sacrifice."
-- **haryataḥ** — "*Śatruvadhaṃ prepsataḥ*; *haryatiḥ prepsākarmā* (Ni. 2-12): by this Nirukta usage the verb *hary gatikāntyoḥ* [the root *hary* with the senses of motion and desire] takes the sense of an act that is wished for. They also give the sense 'praiseworthy' to this word."
+- **haryataḥ** — "*Śatruvadhaṃ prepsataḥ*; *haryatiḥ prepsākarmā* (Ni. 7-17): by this Nirukta usage the verb *hary gatikāntyoḥ* [the root *hary* with the senses of motion and desire] takes the sense of an act that is wished for. They also give the sense 'praiseworthy' to this word."
 - **śnathitā** — "The thunderbolt is by nature destroyer of enemies; it is an epithet of *vajra*. After the thunderbolt, driven by Indra, had uprooted the enemies, all began to please Indra with sacrificial acts: this is the point here."
 
 **Vyākaraṇa-prakriyā** *(pp. 398– — grammar pages, noted briefly; continued on p. 399)*

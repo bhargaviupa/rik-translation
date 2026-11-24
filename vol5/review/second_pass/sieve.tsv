@@ -346,9 +346,9 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 392	yes	1	1	0	0	0	1	0	42	0
 393	yes	1	1	0	0	0	0	0	0	0
 394	yes	0	0	0	0	0	0	0	0	0
-395	yes	2	2	0	1	0	0	0	0	0
+395	yes	2	0	0	0	0	0	0	0	0
 396	yes	1	1	0	0	0	0	0	0	0
-397	yes	1	0	0	0	0	1	0	0	0
+397	yes	1	0	0	0	1	2	0	0	0
 398	yes	0	0	0	0	0	0	0	0	0
 399	yes	2	2	0	0	0	0	0	20	0
 400	yes	1	0	0	0	1	1	1	9	0
