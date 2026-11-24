@@ -19634,6 +19634,312 @@ Agni, best of the Angirasas, do you, continually accepting these our oblations, 
 
 Sāyaṇa says: O Agni, worthy of being resorted to, of bright radiance, being kindled, bring here to this sacrifice the people belonging to the gods, knowing them well.
 
+### Printed p. 433
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संत्य (*saṃtya*)—worthy of worship
+- शुक्रशोचे (*śukraśoce*)—of bright radiance
+- समाधान उ (*samādhāna u*)—as soon as you are kindled **NOTE**
+- दैव्यं (*daivyaṃ*)—devoted to the worship of the gods
+- जनं (*janaṃ*)—the sacrificers and others
+- चिकित्वान् (*cikitvān*)—knowing
+- इह (*iha*)—in this sacrifice of ours
+- आ वह (*ā vaha*)—bring and unite the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, worthy of worship and of bright radiance, as soon as you are kindled, knowing the sacrificers and others who are devoted to the worship of the gods, bring the gods and unite them in this sacrifice of ours.
+
+##### English translation
+Brilliant-flamed giver ef good, do you, the knower, when kindled, bring the host of the gods hither.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विप्रं॒ होता॑रम॒द्रुहं॑ धू॒मके॑तुं वि॒भाव॑सुं ।  
+> य॒ज्ञानां॑ के॒तुमी॑महे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विप्रं । होतारं । अद्रुहं । धूमकेतुं । विभावसुं ।  
+> यज्ञानां । केतुं । ईमहे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रं मेधाविनं होतारं देवानामाह्वातारमद्रुहमद्रोग्द्धारं धूमकेतुं धूमध्वजं विभावसुं दीप्तिधनं यज्ञानां केतुं पताकस्थानीयमग्निमीमहे । अभीष्टं याचामहे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: we ask for what we desire from Agni, who is wise, the Hotṛ who calls the gods, free from malice, whose banner is smoke, whose wealth is radiance, and who is like the banner of the sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रं (*vipraṃ*)—the wise
+- होतारं (*hotāraṃ*)—in the form of the Hotṛ
+- अद्रुहं (*adruhaṃ*)—free from malice
+- धूमकेतुं (*dhūmaketuṃ*)—whose banner is smoke
+- विभावसुं (*vibhāvasuṃ*)—whose wealth is radiance
+- यज्ञानां (*yajñānāṃ*)—of the sacrifices
+- केतुं (*ketuṃ*)—the banner
+- ईमहे (*īmahe*)—we ask for our desired objects
+
+### Printed p. 434
+
+##### भावार्थ (Bhāvārtha)
+
+We ask for our desired objects from Agni, who is wise, in the form of the Hotṛ, free from malice, whose banner is smoke, whose wealth is radiance, and who is the banner of the sacrifices.
+
+##### English translation
+We solicit the wise invoker (of the gods), the beneficent, the smoke-bannered, the resplendent, the banner of the sacrifices.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ नि पा॑हि न॒स्त्वं प्रति॑ ष्म देव॒ रीष॑तः ।  
+> भिं॒धि द्वेषः॑ सहस्कृत ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । नि । पाहि । नः । त्वं । प्रति । स्म । देव । रिषतः ।  
+> भिंधि । द्वेषः । सहःकृत ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहस्कृत बलेन कृत देव दीप्ताग्ने रिषतो हिंसकान्नोऽस्मान् प्रति नि
+> पाहि । प्रतिरक्ष । स्मेति पूरणः । द्वेषो द्विषः शत्रुंश्च भिंधि । विदारय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the shining Agni, born of strength: protect us thoroughly against those who would injure us (the word स्म (*sma*) is a mere expletive), and split asunder our enemies and haters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्कृत (*sahaskṛta*)—born of strength
+- देव (*deva*)—shining
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—us
+- त्वं (*tvaṃ*)—you
+- रिषतः प्रति (*riṣataḥ prati*)—from the injuring enemies
+- नि पाहि (*ni pāhi*)—protect completely
+- द्वेषः (*dveṣaḥ*)—our enemies
+- भिंधि (*bhiṃdhi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Agni, born of strength, protect us completely from our injuring enemies. Destroy our enemies.
+
+##### English translation
+Divine Agni, produced by strength, protect us from the injurer, tear asunder our enemies.
+
+### Printed p. 435
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निः प्र॒श्नेन॒ मन्म॑ना॒ शुंभा॑नस्त॒न्वं१॒॑ १ स्वां ।  
+> क॒विर्विप्रे॑ण वावृधे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । प्रश्नेन । मन्मना । शुंभानः । तन्वं । स्वां ।  
+> कविः । विप्रेण । ववृधे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतकर्माग्निः प्रश्नेन पुराणेन मन्मना मननीयेन स्तोत्रेण स्वां
+> स्वकीयां तन्वं तनुमंगं शुंभानः शोभयन् विप्रेण मेधाविना स्तोत्रा
+> वावृथे । प्रवृद्धो भवति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Agni, the wise one of far-reaching action, adorning his own body with the ancient hymn, which is worthy of meditation, grows strong through the wise praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—endowed with wise insight
+- अग्निः (*agniḥ*)—Agni
+- प्रश्नेन (*praśnena*)—with the ancient
+- मन्मना (*manmanā*)—and meditative hymn
+- स्वां (*svāṃ*)—his own
+- तन्नं (*tannaṃ*)—body **NOTE**
+- शुंभानः (*śuṃbhānaḥ*)—adorning
+- विप्रेण (*vipreṇa*)—with the help of the wise praiser
+- ववृधे (*vavṛdhe*)—grows
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, endowed with wise insight, adorning his own body with the ancient and meditative hymn, grows with the help of the wise praiser.
+
+##### English translation
+The wise Agni, beautifying his body with the ancient hymn has grown in might through the intelligent hymner.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्जो नपा॑त॒मा हु॑वे॒ऽग्निं पा॑व॒कशो॑चिषं ।  
+> अ॒स्मिन्न॒ज्ञे स्व॑ध्व॒रे ॥ १३ ॥
+
+### Printed p. 436
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्जः । नपातं । आ । हुवे । अग्निं । पावकशोचिषं ।  
+> अस्मिन् । यज्ञे । सुअध्वरे ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्जोऽन्नस्य नपातं पुत्रं पावकशोचिषं शोधकदीप्तिमग्निं स्वध्वरेऽसुरैरत्यंतमहिंस्येऽस्मिन्नज्ञ आ हुवे । आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: I call to this sacrifice, which is well performed and which the Asuras cannot injure, Agni, the son of food, whose radiance purifies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जः (*ūrjaḥ*)—of food
+- नपातं (*napātaṃ*)—the son
+- पावकशोचिषं (*pāvakaśociṣaṃ*)—of purifying radiance
+- अग्निं (*agniṃ*)—Agni
+- स्वध्वरे (*svadhvare*)—free from injury by the Asuras
+- अस्मिन् यज्ञे (*asmin yajñe*)—in this sacrifice
+- आ हुवे (*ā huve*)—I call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+I call with prayer, in this sacrifice that is not subject to injury by the Asuras, Agni, the son of food, whose radiance purifies.
+
+##### English translation
+I invoke Agni of purifying lustre, the son of (sacrificial) food in this inviolable sacrifice.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ मित्रमह॒स्त्वमग्ने॑ शु॒क्रेण॑ शो॒चिषा॑ ।  
+> दे॒वैरा स॑त्सि ब॒र्हिषि॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । मित्रमहः । त्वं । अग्ने । शुक्रेण । शोचिषा ।  
+> देवैः । आ । सत्सि । बर्हिषि ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रमहो मित्राणां पूजनीयाग्ने स त्वं शुक्रेण ज्वलता तेजसा
+> तेजसा देवैः सह बर्हिषि यज्ञ आ सत्सि । आसीद ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Agni, the adorable one of friends: with bright, blazing splendour, together with the gods, be seated on the sacred grass at the sacrifice.
+
+### Printed p. 437
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रमह (*mitramaha*)—worthy of worship by friends
+- अग्ने (*agne*)—O Agni
+- सः त्वं (*saḥ tvaṃ*)—you, the renowned
+- शुक्रेण (*śukreṇa*)—blazing
+- रोचिषा (*rociṣā*)—with radiance **NOTE**
+- देवैः (*devaiḥ*)—with the gods
+- नः बर्हिषि (*naḥ barhiṣi*)—in our sacrifice
+- आ सत्सि (*ā satsi*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, worthy of worship by friends, you, the renowned, sit down with the gods in our sacrifice, joined with your blazing radiance.
+
+##### English translation
+O Agni, adorable to your friends, sit down with the gods on our sacred grass with your resplendent radiance.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॒ग्निं त॒न्नो॒३॒॑ ३ दमे॑ दे॒वं मर्तः॑ सप॒र्यति॑ ।  
+> तस्मा॒ इद्दी॑दय॒द्वसु॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अग्निं । तन्वः । दमे । देवं । मर्तः । सपर्यति ।  
+> तस्मै । इत् । दीदयत् । वसु ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मर्तो मनुष्यो दमे गृहेग्निं देवं तन्नो धनस्य प्राप्त्यर्थमिति
+> शेषः । भोजनं तनेति धननामसु पाठात् । सपर्यति परिचरति तस्मा इत्तस्मा एव
+> वसु धनं दीदयत् । सोग्निः प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the mortal who in his house serves the god Agni for the attainment of wealth (the words "for the attainment of" are to be supplied), to him alone Agni gives wealth. Sāyaṇa takes तन्नो (*tanno*) as a word for wealth, relying on its place among the names of wealth in the list of words (the Nighaṇṭu), where "food" is also read.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः मर्तः (*yaḥ martaḥ*)—the man who
+- दमे (*dame*)—in his house
+- देवं (*devaṃ*)—the divine
+- अग्निं (*agniṃ*)—Agni
+- तन्वः (*tanvaḥ*)—for the attainment of wealth
+- सपर्यति (*saparyati*)—worships
+- तस्मा इत् (*tasmā it*)—to that sacrificer alone
+- वसु (*vasu*)—wealth
+- दीदयत् (*dīdayat*)—Agni gives
+
+### Printed p. 438
+
+##### भावार्थ (Bhāvārtha)
+
+The man who in his house worships the divine Agni for the attainment of wealth, to that sacrificer alone Agni gives wealth.
+
+##### English translation
+Whatsoever mortal worships the divine Agni in his house (for the attainment) of wealth, to him he gives riches.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्नि मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यं ।  
+> अ॒पां रेतां॑सि जिन्वति ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । मूर्धा । दिवः । ककुत् । पतिः । पृथिव्याः । अयं ।  
+> अपां । रेतांसि । जिन्वति ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मूर्धा देवानां श्रेष्ठो दिवो द्युलोकस्य ककुदुच्च्रितः पृथिव्याश्च
+> पतिरयमग्निरसां रेतांस्थि स्थावरजंगमात्मकानि भूतानि जिन्वति । प्रीणयति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: this Agni, the head, that is the best of the gods, the summit of the heaven-world, and the lord of the earth, gladdens (प्रीणयति (*prīṇayati*)) the seeds of the waters, the beings that are of the nature of the moving and the unmoving. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मूर्धा (*mūrdhā*)—the best among all the gods
+- दिवः (*divaḥ*)—in the heaven-world
+- ककुत् (*kakut*)—standing in an exalted position
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- पतिः (*patiḥ*)—the lord
+- अयं अग्निः (*ayaṃ agniḥ*)—this Agni
+- अपां (*apāṃ*)—of the waters
+- रेतांसि (*retāṃsi*)—all the beings in the form of seeds
+- जिन्नति (*jinnati*)—satisfies **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+This Agni, the best among all the gods, standing in an exalted position in the heaven-world, the lord of the earth, satisfies all the beings that are the seeds of the waters.
+
+##### English translation
+Agni, the head (of the gods), the summit of heaven,—he the lord of the earth,—gladdens the seed of the waters.
+
 ---
 
-**Progress note:** Done through printed p. 432. Mandala 8 sukta 44 rks 2-9
+**Progress note:** Done through printed p. 438. Mandala 8 sukta 44 rks 9-16
