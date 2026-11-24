@@ -20579,6 +20579,357 @@ In the Āgrayaṇeṣṭi, in the homa with the oblation, addressed to the deiti
 > आ । घ । ये । अग्निं । इंथते । स्तृणंति । बर्हिः । अनुषक् ।  
 > येषां । इंद्रः । युवा । सखा ॥ १ ॥
 
+### Printed p. 452
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य ऋषय आ घाभिमुख्येन खल्वग्निमिंधते दीपयंति येषां च युवा
+> नित्यतरुण इंद्रः सखा भवति त आनुषगानुपूर्व्येण बर्हिः स्तृणंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: those seers who, turned towards us (आ घ (*ā gha*) in the sense of facing), kindle Agni, that is, make it blaze, and whose friend is the ever-young Indra, that is, the ever-youthful one, they spread the sacred grass (बर्हिः (*barhiḥ*)) in due order.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which seers
+- आ घ (*ā gha*)—facing themselves
+- अग्निं (*agniṃ*)—Agni
+- इंधते (*iṃdhate*)—cause to blaze
+- येषां (*yeṣāṃ*)—whose
+- युवा (*yuvā*)—ever-young
+- इंद्रः (*iṃdraḥ*)—Indra
+- सखा (*sakhā*)—friend
+- आनुषक् (*ānuṣak*)—in due order
+- बर्हिः (*barhiḥ*)—the seat of sacred grass for the sacrifice
+- स्तृणंति (*stṛṇaṃti*)—they spread
+
+##### भावार्थ (Bhāvārtha)
+
+The seers who, turned towards themselves, cause Agni to blaze, and whose friend is the ever-young Indra, spread in due order the seat of sacred grass for the sacrifice; that is to say, they perform the sacrifice.
+
+##### English translation
+Those (sages) who kindle Agni, those of whom the ever-young Indra is the friend, continually spread the sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+आनुषक् (*ānuṣak*): for this word Yāska gives the explanation आनुषगिति नामानुपूर्वस्यानुषक्तं भवति । स्त्रणंति बर्हिरानुषक् इत्यपि निगमो भवति (*ānuṣagiti nāmānupūrvasyānuṣaktaṃ bhavati | straṇaṃti barhirānuṣak ityapi nigamo bhavati*) (Ni. 6-14). आनुषक् (*ānuṣak*) means अनुपक्षं (*anupakṣaṃ*), that is: when there are many things, one of them follows another without a gap; one stands adjoining another, joined to it. For the Vedic sentence स्त्रणंति बर्हिरानुषक् (*straṇaṃti barhirānuṣak*) given as the example, the meaning is: they spread the cut sacred grass (बर्हिषि (*barhiṣi*)), used as a seat, in succession, that is, with the blades joined one to another, each following the next without a gap, closely set. Here each blade of grass touches the blade beside it and lies close against it without a gap. **NOTE** Is it proper to use the word आनुषक् (*ānuṣak*) to denote such a meaning?
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हन्निदि॒ध्म ए॑षां॒ भूरि॑ श॒स्तं पृ॒थुः स्वरुः॑ ।  
+> येषा॒मिंद्रो॒ युवा॒ सखा॑ ॥ २ ॥
+
+### Printed p. 453
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृशन । इत् । इध्मः एषां । भूरि । शक्तं । पृथुः । स्वरुः ।  
+> येषां । इंद्रति । युना । सखा । २ :
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विषामृषीणामिध्यो बृहन्निन्महान् खलु भूरि बहु च शस्तं स्तोत्रं स्यरुश्च
+> पृथुर्महान् । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: of those seers the fuel is great, mighty indeed, and the praise is abundant and much, and the स्यरुश्च (*syaruśca*) is broad and large. The rest is established. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवा (*yuvā*)—ever-young
+- इंद्रः (*iṃdraḥ*)—Indra
+- येषां (*yeṣāṃ*)—to which seers
+- सखा (*sakhā*)—he is a friend
+- एषां (*eṣāṃ*)—of such seers
+- इध्मः (*idhmaḥ*)—the fuel
+- बृहन्नित् (*bṛhannit*)—is exceedingly great
+- शस्त्रं (*śastraṃ*)—their praise
+- भूरि (*bhūri*)—is abundant
+- स्वरुः (*svaruḥ*)—their sacrificial post
+- पृथुः (*pṛthuḥ*)—is broad
+
+##### भावार्थ (Bhāvārtha)
+
+The fuel of those seers, to whom the ever-young Indra is a friend, is exceedingly great. Their praise too is abundant. Their sacrificial post is very large.
+
+##### English translation
+Ample is their fuel, many their hymns, broad their sacred shaving,- whose frieno is the ever-young Indra.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अयु॑द्ध॒ इद्यु॒धा वृतं॒ शूर॒ आज॑ति॒ सत्व॑भिः ।  
+> येषा॒मिंद्रो॒ युवा॒ सखा॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयुद्धः । इत् । युधा । वृतं । शूरः । आ । अजति । सत्वभिः ।  
+> येषां । इंद्रः । युवा । सखा ॥ ३ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तेष्वंतर्भूतः कश्चिदयुद्ध इत्प्रागयोद्धैव सन् युधा वृतं योद्धृभिर्भट्टैरावृतं शत्रुं सत्वभिरात्मीयैर्बलैः शूरः सन्नाजति । नमयति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: among them some one who before was not a fighter, being now a hero with his own powers, subdues, that is, bends down, the enemy surrounded by warriors, by soldiers.
+
+### Printed p. 454
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवा (*yuvā*)—ever-young
+- इंद्रः (*iṃdraḥ*)—Indra
+- येषां (*yeṣāṃ*)—to whom
+- सखा (*sakhā*)—is a friend, of such seers the company
+- अयुद्ध इत् (*ayuddha it*)—although formerly powerless to fight
+- शूरः (*śūraḥ*)—now, having gained strength through Indra's help
+- युधा (*yudhā*)—by warriors
+- वृतं (*vṛtaṃ*)—the enemy surrounded
+- सत्वभिः (*satvabhiḥ*)—by its powers
+- आजति (*ājati*)—makes shrink
+
+##### भावार्थ (Bhāvārtha)
+
+The company of seers, to whom the ever-young Indra is a friend, though formerly powerless to fight, now having gained strength through Indra's help, makes the enemy surrounded by warriors shrink by its own powers.
+
+##### English translation
+Though before powerless to combat, the hero by his might now subdues one surrounded by allies, (if helped by those) of whom the ever-young Indra is the friend.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ बुं॒दं वृ॑त्र॒हा द॑दे जा॒तः पृ॑च्छ॒द्वि मा॒तरं॑ ।  
+> क उ॒ग्राः के ह॑ शृण्वरे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । बुंदं । वृत्रहा । ददे । जातः । पृच्छत् । वि । मातरं ।  
+> के । उग्राः । के । ह । शृण्वरे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जात उत्पन्नो वृत्रहेंद्रो बुंदमिषुं । कथा च यास्कः । बुंद
+> इषुर्भवति । नि. ६-३२ । इति । आ ददे । आदाय चेषुमुग्रा उद्धूर्णबलाः के के च
+> शृण्वरे वीर्येण विश्रुता इति स्वमातरं वि पृच्छत् । अप्राक्षीत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra, the slayer of Vṛtra, once born, took the arrow (बुंद (*buṃda*) is the arrow); and Yāska says: बुंद इषुर्भवति (*buṃda iṣurbhavati*) (Ni. 6-32). Having taken it, he asked his own mother: who are the fierce, of uplifted strength, and who are renowned for valour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहा (*vṛtrahā*)—Indra, the slayer of Vṛtra
+- जातः (*jātaḥ*)—as soon as he was born
+- बुदॆं (*budèṃ*)—his arrow
+- आ ददे (*ā dade*)—took in his hand
+- उग्राः (*ugrāḥ*)—those of exceeding strength
+
+### Printed p. 455
+
+- ते (*te*)—who are they?
+- ते ह (*te ha*)—who and who
+- शृण्वरे (*śṛṇvare*)—are so renowned
+- मातरं (*mātaraṃ*)—his mother
+- वि पृच्छत् (*vi pṛcchat*)—asked
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the slayer of Vṛtra, as soon as he was born, took his arrow in his hand and asked his mother: "Who are those of exceeding strength? Who and who are so renowned?"
+
+##### English translation
+The slayer of Vritra, as soon as he was born, seized his arrow, and asked his mother, " who are the terrible, who are renowned ?"
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ त्वा शव॒सी व॑दद्दि॒रावप्पो॒ न यो॑धिषत् ।  
+> यस्ते॑ शत्रु॒त्वमा॑च॒के ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । त्वा । शवसी । वदत् । गिरौ । अप्सः । न । योधिषत् ।  
+> यः । ते । शत्रुत्वं । आचके ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां शवसी बलवती माता प्रति वदत् । प्रत्यवोचत् । यस्ते
+> शत्रुत्वमाचके कामयते स गिरौ पर्वतेऽप्सो न दर्शनीयो गज इव योधिषत् ।
+> योधयति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, your mighty mother answered you: whoever desires enmity with you fights on the mountain like an elephant fair to look upon.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसी (*śavasī*)—your mother, endowed with strength
+- त्वा (*tvā*)—to you
+- प्रति वदत् (*prati vadat*)—gave this answer, namely
+- यः (*yaḥ*)—who
+- ते (*te*)—with you
+- शत्रुत्वं (*śatrutvaṃ*)—enmity
+- आ चक्रे (*ā cakre*)—he fosters, he
+- निता (*nitā*)—on the mountain **NOTE**
+- अप्सो न (*apso na*)—like an attractive elephant
+- योधिषत् (*yodhiṣat*)—fights
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your mother, endowed with strength, gave you this answer: "He who fosters enmity with you fights on the mountain like an attractive elephant."
+
+### Printed p. 456
+
+##### English translation
+The strong mother answered you, "he who wishes your enmity fights as the elephant in the mountain."
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वं म॑घवञ्छणु॒ यस्ते॒ वष्टि॑ व॒नक्षि॒ तत् ।  
+> यद्वी॒ळया॑सि वी॒ळु तत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वं । मघवन् । शृणु । यः । ते । वष्टि । ववक्षि । तत् ।  
+> यश् । वीळयासि । वीळु । तत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे मघवन् त्वं शृण्वस्मदीयां स्तुतिं । ते त्वत्तो यद्वष्टि
+> कामयते स्तोता तद्ववक्षि । तस्मै तव्वहसि । किंच त्वं यद्वीळयासि दृढीकरोषि
+> तद्वीळु तद्वृढमेव सर्वत्र भवति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: and, O Maghavan, hear our praise; whatever the praiser desires from you, that you bear to him; and whatever you make firm, that is firm everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- मघवन् (*maghavan*)—O wealthy Indra
+- त्वं (*tvaṃ*)—you
+- शृणु (*śṛṇu*)—hear our praise
+- ते (*te*)—from you
+- यः वष्टि (*yaḥ vaṣṭi*)—whatever the praiser desires
+- तत् (*tat*)—that
+- ववक्षि (*vavakṣi*)—bear to him
+- यत् (*yat*)—what
+- वीळॆयागि (*vīḷèyāgi*)—you strengthen
+- तत् (*tat*)—that
+- वीळु (*vīḷu*)—remains firm
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, hear our praise. Whatever the praiser desires from you, bear that to him. Whatever you strengthen remains firm.
+
+##### English translation
+O Maghavan, hear (our praise); whoever desires of you, your bear to him his request ; what you fix is sure.
+
+### Printed p. 457
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदा॒जिं यात्या॑जि॒कृदिंद्रः॑ स्वश्व॒युरुष ॑।  
+> र॒थीत॑मो र॒थीनां॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अजिं । याति । आजैकृत् । इंद्रः । स्वश्वयुः । उप ।  
+> रथितमः । रथिनां ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदाजिकृद्युद्धकृदिंद्रः स्वश्वयुः कल्याणमश्वमिच्छन्नाजिं युद्धमुप
+> याति तदा रथीतमोऽतिशयेन रथी भवति । रथीनां सर्वान्रथिनश्च जयतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: when Indra, the maker of battle, desiring a good horse, goes up to the battle, then he becomes the foremost of charioteers, and he conquers all charioteers; this last is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- आजिकृत् (*ājikṛt*)—engaged in battle
+- इंद्रः (*iṃdraḥ*)—Indra
+- स्वश्वयुः (*svaśvayuḥ*)—desiring an excellent horse
+- आजिं (*ājiṃ*)—the battle
+- उप याति (*upa yāti*)—approaches, then
+- रथीतमः (*rathītamaḥ*)—becomes the possessor of the best chariot
+- रथीनां (*rathīnāṃ*)—he conquers all charioteers
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, engaged in battle, desiring an excellent horse, when he goes to the battle and begins it, then obtains the best chariot. He conquers all charioteers.
+
+##### English translation
+When Indra, the warrior, goes to battle, desirous of gallant steeds, he is the foremost of the lords of chariots.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि सु विश्वा॑ अभि॒युजो॒ वज्र॒न्विस्व॒ग्यथा॑ वृह ।  
+> भवा॑ नः सु॒श्रव॑स्तमः ॥ ८ ॥
+
+### Printed p. 458
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सु । विश्वाः । अभियुजः । वज्रन् । विष्वक् । यथा । वृह ।  
+> भव । नः । सुश्रवःतमः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये वज्रिन् त्वं विश्वाः सर्वा अभियुजोऽभियोक्रीः प्रजा यथा विष्वग्भवंति
+> तथा सु सुष्टु वि वृह । नोऽस्माकं सुश्रवस्तमः शोभनान्नवत्तमश्च भव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O wielder of the thunderbolt, as all the attacking peoples, the assailants, become scattered on every side, so scatter them well; and be for us the best, possessed of fair food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt
+- विश्वाः (*viśvāḥ*)—all
+- अभियुजः (*abhiyujaḥ*)—the enemies who rush against us
+- यथा (*yathā*)—in what manner
+- विष्णक् (*viṣṇak*)—so that they are scattered
+- सु (*su*)—well
+- विवृह (*vivṛha*)—scatter them
+- नः (*naḥ*)—to us
+- सुश्रवस्तमः (*suśravastamaḥ*)—as the giver of excellent food
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, scatter thoroughly all the enemies who rush against us, so that they all run apart in different directions. Be to us a giver of excellent food.
+
+##### English translation
+Thunderer, smite all your enemies that they may be scattered,—be to us a most abundant benefactor.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माकं॒ सु रथं॑ पु॒र इंद्रः॑ कृणोतु सा॒तये॑ ।  
+> न यं धूर्वं॑ति धू॒र्तयः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । सु । रथं । पुरः । इंद्रः । कृणोतु । सातये ।  
+> न । यं । धूर्वंति । धूर्तयः ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 451. Ṛks 25-30 of Sūkta 44 and the introduction and Ṛk 1 of Sūkta 45
+**Progress note:** Done through printed p. 458. Sūkta 45 Ṛks 1-9
