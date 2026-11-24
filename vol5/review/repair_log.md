@@ -1397,3 +1397,16 @@
 - p. 77 (English line 1486) [H15]: `pṛthivī bāvṛdhāte` → `pṛthivī vāvṛdhāte` — Kannada p.77 citation: 'ಪೃಥಿವೀ ವಾವೃಧಾತೇ' (second pass S3, findings.tsv)
 - p. 77 (English line 1496) [H15]: `विश्ववारं गृहे धियो ॥` → `विश्ववारं गृणे धिया ॥` — Kannada p.77: 'ತ್ವಾಮು ಜಾತವೇದಸಂ ವಿಶ್ವವಾರಂ ಗೃಣೇ ಧಿಯಾ' (second pass S3, findings.tsv)
 - p. 77 (English line 1498) [H15]: `viśvavāraṃ gṛhe dhiyo ||* — **GLOSS** — the sentence is cut off in the print and the sense is doubtful [?].` → `viśvavāraṃ gṛṇe dhiyā ||* — **GLOSS**` — Kannada p.77: 'ವಿಶ್ವವಾರಂ ಗೃಣೇ ಧಿಯಾ ॥' printed in full (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 78 (English line 1506) [H27]: `*ādeśapratyayayoḥ* gives *ṣ* for the *s*` → `*ṣ* comes for the *s*` — Kannada p.78: "ಆಗ ಕಕಾರದ ಪರದಲ್ಲಿ ಸಿಚ್ ಬಂದುದರಿಂದ ಅದಕ್ಕೆ ಷತ್ವಬರುತ್ತದೆ" - no sutra named (second pass S3, findings.tsv)
+- p. 82 (English line 1564) [H10]: `*citaḥ* (Pā. Sū. 6-1-163)` → `*citaḥ* (Pā. Sū. 6-4-163)` — Kannada p.82: "ಚಿತಃ (ಪಾ.ಸೂ. ೬-೪-೧೬೩) ಸೂತ್ರದಿಂದ ಜುಹೂರೆ ಎಂಬುದು ಅಂತೋದಾತ್ತವಾಗುತ್ತದೆ" (second pass S3, findings.tsv)
+- p. 82 (English line 1564) [H28]: `prevents the all-unaccented (*yadvṛttān nityam*)` → `prevents the all-unaccented (*yadvṛttān nityam*, Pā. Sū. 8-1-66)` — Kannada p.82: "ಯದ್ವೃತ್ತಯೋಗಾನಿತ್ಯಂ(ಪಾ. ಸೂ. ೮-೧-೬೬) ಸೂತ್ರದಿಂದ ... ನಿಘಾತಸ್ವರ ಬರುವುದಿಲ್ಲ" (second pass S3, findings.tsv)
+- p. 82 (English line 1576) [H27]: `as in *adhvarān* (Rik 11)` → `as said earlier at *adhvarān*` — Kannada p.82: "ಹಿಂದೆ ಅಧ್ವರಾನ್ ಎಂಬಲ್ಲಿ ಹೇಳಿದಂತೆಯೇ" - no Rik number (second pass S3, findings.tsv)
+- p. 82 (English line 1577) [H27]: `(here *hi* is *ṅit* by extension, *sārvadhātukam apit*)` → `(here *hi* is *ṅit*)` — Kannada p.82: "ಇಲ್ಲಿ ಜಿತ್ತಾದ ಹಿ ಪರದಲ್ಲಿರುವುದರಿಂದ ಈತ್ವ ಬಂದು" - no "by extension", no sutra (second pass S3, findings.tsv)
+- p. 86 (English line 1629) [H10]: `(Pā. Sū. 6-1-171)` → `(Pā. Sū. 6-1-176)` — Kannada p.86: "ಊಡಿದಂಪದಾದ್ಯಪ್ಪುಮ್ರೈದ್ಯುಭ್ಯಃ (ಪಾ.ಸೂ. ೬-೧-೧೭೬)" (second pass S3, findings.tsv)
+- p. 86 (English line 1633) [H15]: `root *prathaḥ prakhyāne*` → `root *pratha prakhyāne*` — Kannada p.86: "ಪ್ರಥ ಪ್ರಖ್ಯಾನೆ ಧಾತು" (bhāṣya p.84 "ಪ್ರಥ ಪ್ರಖ್ಯಾನೇ") (second pass S3, findings.tsv)
+- p. 86 (English line 1634) [H10]: `(U. Sū. 2-265 [?], as printed here` → `(U. Sū. 2-265, as printed here` — Kannada p.86: "ಇಸಿಃ (ಉ.ಸೂ. ೨-೨೬೫)" printed in full (second pass S3, findings.tsv)
+- p. 89 (English line 1705) [H10]: `(Pā. Sū. 6-1-171)` → `(Pā. Sū. 6-1-176)` — Kannada p.89: "ಊಡಿದಂಪದಾದ್ಯಪ್ಪುಮ್ರೈದ್ಯುಭ್ಯಃ (ಪಾ. ಸೂ. ೬-೧-೧೭೬)" (second pass S3, findings.tsv)
+- p. 90 (English line 1709) [H10]: `(Pā. Sū. 3-2-76)` → `(Pā. Sū. 3-2-26)` — Kannada p.90: "ಕ್ವಿಪ್ ಚ (ಪಾ. ಸೂ. ೩-೨-೨೬)" (second pass S3, findings.tsv)
+- p. 90 (English line 1709) [H15]: `*tūrv + kvip*` → `*turv + kvip*` — Kannada p.90: "ತುರ್ವ್+ಕ್ವಿಪ್ ಎಂದಿರುವಾಗ" (root turvī; then "ತುರ್ ಎಂದು ರೇಫಾಂತ") (second pass S3, findings.tsv)
