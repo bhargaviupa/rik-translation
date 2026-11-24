@@ -8237,6 +8237,281 @@ in the midst (of that dwelling).
 
 O gods, possessed of all wealth, that is, pervaded on all sides with wealth: when today, now; or else when the sun has risen; when at midday, in the middle of the day; or else at ātuc, ātuc being.
 
+### Printed p. 182
+
+> नार्थः । सूर्यस्य निव्रोचने । सायमित्यर्थः । जुह्वानायाग्नौ हवींषि जुह्वते
+> अत एव प्रचेतसे प्रकृष्टज्ञानाय मनव एतन्नामकायर्षये मह्यं वामं
+> वननीयं धनं धत्थ दत्थ तद्वृणीमह इत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Ātuc has the sense of going: that is, at the setting of the sun, in the evening. To the one who pours oblations into the fire, and for that very reason to the one of excellent knowledge, to me, Manu, the Ārya seer of that name, you give desirable wealth; that we choose. This is the connection with what follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसः (*viśvavedasaḥ*)—O gods, possessed of wealth that pervades everywhere
+- यत् (*yat*)—when
+- अद्य (*adya*)—at this time of the sacrifice
+- उदिते (*udite*)—when the sun has risen also
+- यत् (*yat*)—when
+- मध्यंदिने (*madhyaṃdine*)—at midday also
+- आतुचि (*ātuci*)—in the evening also
+- जुह्वानाय (*juhvānāya*)—to him who offers oblations to you
+- प्रचेतसे (*pracetase*)—who is of excellent knowledge
+- मनवे (*manave*)—to me, named Manu
+- वामं (*vāmaṃ*)—attractive wealth
+- धत्त (*dhatta*)—you give (then we shall praise you)
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, possessed of wealth that pervades everywhere, when you give attractive wealth to me, who am named Manu, who offer you oblations at sunrise, at midday and in the evening, and who am of excellent knowledge, then we shall praise you.
+
+##### English translation
+(Gods), who are possessed of all wealth, bestow the desired (opulence)
+upon the intelligent Manu, offering oblations to you at sunrise, mid-day
+and sunset.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं तद्वः॑ सम्राज॒ आ वृ॑णीमहे पु॒त्रो न ब॑हु॒पाय्यं॑ ।  
+> अ॒श्याम॒ तदा॑दित्या॒ जुह्व॑तो ह॒विर्येन॒ वस्यो॒ऽनशा॑महै ॥२२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । तत् । वः । संराजः । आ । वृणीमहे । पुत्रः । न । बहुपाय्यं ।  
+> अश्याम । तत् । आदित्याः । जुह्वतः । हविः । येन । वस्यः । अनशामहै ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सम्राजः सम्यग्दीप्यमाना देवाः पुत्रो न ॥ एकवचनं छांदसं ॥
+> युष्माकं पुत्रा इव स्थिताः पुत्रा यथा पितृभिः पोष्याः तद्वद्युष्माभिः पोष्या
+
+##### Gist of the bhāṣya
+
+O resplendent gods, shining fully: the singular in "like a son" is Vedic. Standing as your sons, who are to be nourished by you as sons are nourished by their fathers, we
+
+### Printed p. 183
+
+> वयं । बहुपाय्यं बहुभिर्भोज्यं वो युष्ठत्संबंधि तद्वनमश्याम । प्राप्नुयाम ! येन धनेन वस्यो वसीयोऽतिशयेन वसुमत्तमनशामहै अश्ववामहै
+> प्राप्नुमः ॥ अश्नोतेर्लोटी व्यत्ययेन श्नप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+choose your wealth that is to be enjoyed by many, that is, to be eaten by many; may we attain it. By which wealth we may become the richest, endowed in the highest degree with riches, may we attain that.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे सम्राजः (*he samrājaḥ*)—O gods, shining exceedingly
+- पुत्रो न (*putro na*)—like your sons, to be nourished
+- वयं (*vayaṃ*)—we
+- बहुपाय्क्यं (*bahupāykyaṃ*)—that is enjoyed by many
+- वः (*vaḥ*)—connected with you
+- तत् (*tat*)—that wealth
+- आ वृणीमहे (*ā vṛṇīmahe*)—I desire
+- हे आदित्याः (*he ādityāḥ*)—O gods, sons of Aditi
+- तत् (*tat*)—that wealth which you give
+- अश्याम (*aśyāma*)—may we enjoy
+- येन (*yena*)—with the help of which wealth
+- हविः (*haviḥ*)—oblations and the like, in your honour
+- जुह्वतः (*juhvataḥ*)—as those who sacrifice
+- वस्यः (*vasyaḥ*)—exceedingly wealthy
+- अनशामहै (*anaśāmahai*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, shining exceedingly, we, who are fit to be nourished like your sons, desire the wealth in your keeping that is enjoyed by many. O gods, sons of Aditi, may we enjoy that wealth which you give us; and with the help of that wealth may we also become exceedingly wealthy, offering oblations and the like in your honour.
+
+##### English translation
+We solicit of you, resplendent deities, as a son (of a father), that which is to to be enjoyed by many; offering oblations, may we obtain that (wealth), Adityas, by which we may possess abundance.
+
+## Sūkta 28 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये त्रिंशतीति पंचर्चमष्टमं सूक्तं । अत्रानुक्रांतं । ये त्रिंशति
+> पंचोपांत्या पुर उष्णिगिति । मनुर्यषिः । प्राग्वत्सप्रीयपरिभाषया गायत्री
+> छंदः । उपांत्या पुरउष्णिक् । पूर्ववद्विश्वे देवे देवता ॥ तृतीये छंदोमे
+> वैश्वदेवशस्त्रे ये त्रिंशतीत्येतत्सूक्तं वैश्वदेवनिविद्वानं । सूत्रितरं च । ये
+> त्रिंशतीति वैश्वदेवं । आ. ८-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five Ṛks beginning with ये त्रिंशतीति (*ye triṃśatīti*) is the eighth. The Anukramaṇikā says of it that the last but one of the five Ṛks is in the metre called Pura-uṣṇik. Manu is the seer. By the same rule of interpretation as before the metre is Gāyatrī; the last but one is Pura-uṣṇik. As before, the Viśve Devāḥ are the deity. In the Vaiśvadeva-śastra of the third Chandoma day this sūkta is used as the nivid-sūkta of the Viśve Devāḥ **NOTE**. It is also laid down by the sūtra (Ā. 8-11).
+
+### Printed p. 184
+
+##### Anuvāda
+
+This sūkta, ये त्रिंशति (*ye triṃśati*), is the eighth sūkta in the fourth anuvāka. There are five Ṛks in it. In the Anukramaṇikā it is said: ये त्रिंशति पंचोपांत्या पुरउष्टिक् (*ye triṃśati paṃcopāṃtyā purauṣṭik*). Manu is the seer of this sūkta; as in the preceding sūkta, the Viśve Devāḥ are the deity; the metre is Gāyatrī. But the Ṛk before the last (the fourth Ṛk) is in the metre called पुरउष्टिक् (*purauṣṭik*). In the third Chandoma, when the mantras of the Vaiśvadeva-śastra are recited, this sūkta ये त्रिंशति (*ye triṃśati*) is to be recited as the nivid-dhāna sūkta addressed to the Viśve Devāḥ; this is elucidated by the sūtra of the Āśvalāyana Śrauta Sūtra, ये त्रिंशतीति वैश्वदेवं (*ye triṃśatīti vaiśvadevaṃ*) (Ā. 8-11).
+
+##### Particulars
+
+Sūkta 28. Maṇḍala 8, Anuvāka 4, Sūkta 28. Aṣṭaka 6, Adhyāya 2, Varga 35. Number of Ṛks in the sūkta: 5. Seer: Manu Vaivasvata. Deity: the Viśve Devāḥ. Metre: Ṛks 1-3 and 5, Gāyatrī; Ṛk 4, पुरउष्टिक् (*purauṣṭik*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये त्रिं॒शति॒ त्रय॑स्प॒रो दे॒वासो॑ ब॒र्हिरास॑दन् ।  
+> वि॒दन्न ह॑ द्वि॒तास॑नन् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । त्रिंशति । त्रयः । परः । देवासः । बर्हिः । आ । आसदन् ।  
+> विदन् । अह । द्विता । आसनन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनुराह । त्रिंशति त्रिंशत्संख्यायाः परः परस्तात्रयः । त्रयस्त्रिंशद्देवता
+> इत्यर्थः । ये देवासो देवा बर्हिरस्मदीययज्ञसंबंधिनि बर्हिषि हविःस्वीकरणार्थमासदन् आसीदंतु अथानंतरं विदन् ते देवा आस्मान्हविषां प्रदात्मनिति
+> जानंतु । ततो द्विता द्विधा द्विप्रकारमसनन् । अस्मभ्यं धनं पश्वादिकं च प्रयच्छंतु । यद्वा । द्विता द्वैधं । अनेन पौनःपुन्यं लक्ष्यते । पुनःपुनरस्मैभ्यं
+> धनादिकं ददत्त्व्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Manu speaks. Beyond thirty are three: that is, thirty-three deities. Those gods who, on our sacred grass that belongs to our sacrifice, may sit down to receive the oblations; and after that may those gods know us as givers of oblations; then dvitā, in two ways, twofold, may they give us wealth and cattle and the like. Or else dvitā means twofold, and by this repetition is meant: may they give us wealth and the like again and again.
+
+### Printed p. 185
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिंशति (*triṃśati*)—than thirty
+- परः (*paraḥ*)—exceeding
+- त्रयः (*trayaḥ*)—three in number (thirty-three in number)
+- ये (*ye*)—which
+- देवासः (*devāsaḥ*)—the gods there are, may they
+- बर्हिः (*barhiḥ*)—upon the seat of sacred grass
+- आसदन् (*āsadan*)—sit down
+- विदन् (*vidan*)—may they know the devotion of the sacrificers
+- द्विता (*dvitā*)—two kinds of wealth (exceedingly great riches)
+- आसनन् (*āsanan*)—may they give us
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods, renowned by the number thirty-three, come and sit down upon our seat of sacred grass. And knowing the exceeding devotion of the sacrificers, may they, as its fruit, give us exceedingly great riches.
+
+##### English translation
+May the three-and-thirty divinities sit down upon the sacred grass; may they accept (our offerings), and bestow upon us both (sorts of wealth).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वरु॑णो मि॒त्रो अ॑र्य॒मा स्मद्रा॑तिषाचो अ॒ग्नयः॑ ।  
+> पत्नी॑वंतो॒ वष॑ट्कृताः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वरुणः । मित्रः । आर्यमा । स्मद्रातिऽसाचः । अग्नयः ।  
+> पत्नीऽवंतः । वषट्कृताः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरुणो वरणीयः संभजनीयो मित्रः स्तोत्कृणां यष्टृणां च धनादिदानेन मित्रभूतोऽर्यमा स्तोत्रकारिणे धनं प्रापयन् यद्वा सततं गच्छन्
+> एतन्नामकास्त्रयो देवाः स्मद्रातिषाचः । स्मत् सुमच्छोभना रातिर्हविष्प्रदानं
+> येषामस्तीति स्मद्रातयो यजमानाः । तान् सचंते धनादिप्रदानेन सेवंतॆ इतितथोक्ताः । यद्वा । कल्याणं यथा भवति तथा हविषां दात्यन् सचंत इति ! शे:
+> तादृशाः पत्नीवंतो देवपत्निसहिता अग्नयोऽंगनशीला नानाविधा अग्नयो
+> वषट्कृताः । मया सोमस्याग्ने वीहि वौषडित्यादिना स्वाहाकृताः । सुहूताइत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa, the one to be chosen and resorted to; Mitra, a friend of praisers and sacrificers by his gift of wealth and the like; Aryaman, bringing wealth to the praiser, or else going constantly: these three gods are smadrātiṣācaḥ. Smat means fine, rāti is the giving of oblations; those who have it are the sacrificers; the gods serve them, wait on them, with gifts of wealth and the like; so they are called. Or else, as it is auspicious, they attend those who give oblations **NOTE**. Such are the Agnis, patnīvantaḥ, that is, accompanied by the wives of the gods, Agnis of various kinds, of a nature that is **NOTE**; vaṣaṭkṛtāḥ, that is, made svāhā-offerings by me with the formula सोमस्याग्ने वीहि वौषडित्यादिना (*somasyāgne vīhi vauṣaḍityādinā*) **GLOSS**, which is to say well invoked.
+
+### Printed p. 186
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- आर्यमा (*āryamā*)—Aryaman
+- अग्नयः (*agnayaḥ*)—the fires, the Gārhapatya and the others
+- पत्नीवंतः (*patnīvaṃtaḥ*)—accompanied by the wives of the gods
+- वषट् कृताः (*vaṣaṭ kṛtāḥ*)—worshipped with the exclamation vaṣaṭ
+- स्मद्रातिषाचः (*smadrātiṣācaḥ*)—show favour to the sacrificers who give oblations liberally
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa, Mitra, Aryaman and the fires, the Gārhapatya and the others, accompanied by the wives of the gods and worshipped with the exclamation vaṣaṭ, show favour to the sacrificers who give liberally.
+
+##### English translation
+May Varuna, Mitra, Aryaman and the Agnis, with their wives, honouring the donors (of the oblation), and addressed with the sacrificial exclamation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॑ गो॒पा अ॑पा॒च्यास्त उद॒क्त इ॒त्था न्य॑क् ।  
+> पु॒रस्ता॒त्सर्व॑या वि॒शा ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । गोपाः । अपाच्याः । ते । उदत् । ते । इत्था । न्यक् ।  
+> पुरस्तात् । सर्वया । विशा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते वरुणादयो देवाः सर्वया सर्वेण विशानुचरवर्गेण सहापाच्याः ।
+> अपाचे प्रतीची । ततो नोऽस्माकं गोपा गोपायितारो भवंतु । त एव
+> उदगुदीच्याः ॥ अंचेर्लुगिति पंचम्यर्थे विहितस्यास्तातेर्लुक् ॥ ततोऽप्यस्माकं
+> रक्षका भवंतु । इत्थेति शब्देनोध्वा० दिशं दक्षिणां च निदिशति । इत्थमनेन
+> पूर्वोक्तेन प्रकारेणोध्वाया दक्षिणस्याश्च दिशस्त्रे देवा अस्माकं पालयितारो
+> भवंतु । तथा न्यग्नीच्या दिशः ॥ अत्रापि पूर्ववदस्तातेर्लुक् ॥ अधस्तादेवाप्यस्माकं त्रातारो भवंतु । किंच पुरस्तात्पाच्या दिशश्च ते देवा अस्माकं गोपायि
+> तारो भवंतु ॥
+
+##### Gist of the bhāṣya
+
+Those gods, Varuṇa and the rest, together with all their retinue, from the apāc, the western region, be our guardians. The same, from the udak, the northern region, be our protectors also. By the word ittha he indicates the upper region and the south: in the manner just said, from the upper and the southern regions those gods be our protectors. So also from the nyak, the lower region, be our saviours. And further, from the purastāt, the eastern region, may those gods be our guardians.
+
+### Printed p. 187
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—those same gods, Varuṇa and the rest
+- सर्वया (*sarvayā*)—with all
+- विशा (*viśā*)—together with their attendants
+- अपाच्याः (*apācyāḥ*)—from the western region also
+- नः (*naḥ*)—to us
+- गोपाः (*gopāḥ*)—be protectors
+- ते (*te*)—they
+- उदक् (*udak*)—from the northern region also be our protectors
+- इत्या (*ityā*)—from the upper and the southern region also be our protectors
+- ते (*te*)—they
+- न्यक् (*nyak*)—from the lower region also
+- पुरस्तात् (*purastāt*)—from the eastern region also be our protectors
+
+##### भावार्थ (Bhāvārtha)
+
+May those same gods, Varuṇa and the rest, together with all their attendants, be our protectors from the western region. May they be our protectors from the northern region also. May they be our protectors from the upper and the southern region also. May they protect us from the lower region and from the eastern region also.
+
+##### English translation
+Be our protectors, whether coming with all their attendants from
+the west, from the north, from the south, from the east.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ वशं॑ति दे॒वास्तथेद॑स॒त्तदे॑षां॒ नकि॒रा मि॑नत् ।  
+> अरा॑वा च॒न मर्त्यः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । वशंति । देवाः । तथा । इत् । असत् । तत् । एषां । नकिः । आ । मिनत् ।  
+> अरावा । चन । मर्त्यः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा द्योतमानाः सर्वे देवा यथा वशंति यथा कामयंते ॥ वश
+> कांतौ । संप्रसारणाच्चेति पूर्वरूपस्य छंदसि विकल्पितत्वाद्यणादेशः ॥ तथेद्यथोशंति तथैवासत् । तद्भवत्येव । तदेवाह । एषां देवानां तत्कामनं सकिर्न कश्चि दपि
+> मिनत् । हिनस्ति ॥ मीज् हिंसायां । लेटि रूपं । मीनातेर्निगम इति प्रस्वत्वं ॥
+> कथं देवानामभिलषितं तथा भवतीति चेत् तदाह । अरावा । यदि देवाः कस्यजिदप्यदातारं मनुष्यं कामयेरन् तदारावादाता । चनेत्यव्यर्थे । अवाशापि
+
+##### Gist of the bhāṣya
+
+The gods, all the shining gods, as they wish, as they desire: so it will be; that comes to pass. He says that very thing: of these gods that desire no one at all injures. If it is asked how the wish of the gods thus comes to pass, he says: arāvā, a non-giver. If the gods were to desire any man who is a non-giver, then he would be a non-giver; cana is an indeclinable in the sense of "even".
+
 ---
 
-**Progress note:** Done through printed p. 181. Mandala 8 Sukta 27 Rks 13 (end)-21 (in part)
+**Progress note:** Done through printed p. 187. Mandala 8 Sukta 27 Rks 21-22, Sukta 28 Rks 1-4 (in part)
