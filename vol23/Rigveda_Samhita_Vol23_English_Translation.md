@@ -5794,6 +5794,298 @@ We solicit you both for wealth, comprising cattle, gold and horses: may we obtai
 > यत् । सोमे । आ । सुते । नरः । इंद्राग्नी इति । अजोहवुः ।  
 > सप्तिवंता । सपर्यवः ॥ १० ॥
 
+### Printed p. 140
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातुर्विंशिकेऽहनि प्रातःसवनेच्छावाकशस्त्रे यत्सोम आ सुत इत्यारंभणीयाहर्गणेषु च द्वितीयादिष्टहःस्वेषा पात्रःसवने तेनैव शंसनीया ।
+> सूत्रितं च । यत्सोम आ सुते नर इत्यारंभणीयाः शस्त्रा । आ. ७-२ । इति ॥
+> सोमे सुतेऽभिषुते सति नरः कर्मणां नेतार ऋत्विजः सपर्यवः परिचरणकामाः संतः सप्तीवंता प्रशस्ताश्वाविंद्राग्नी इंद्रमग्निं च यद्यदाजोहवुः अभिह्व.
+> यंते तदा युवामागच्छतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the morning pressing, the Acchāvāka priest is to recite this Ṛk, "यत्सोम आ सुते (*yatsoma ā sute*)", as the opening (ārambhaṇīya) of his śastra. In the Ahargaṇa rites it is to be recited at the morning pressing from the second day onward, by the same priest. The sūtra is cited: "the opening śastras begin with 'yat soma ā sute nara'" (Ā. 7-2).
+Meaning: when the Soma has been pressed, the leaders of the rites, the priests, desiring to serve, invoke Indra and Agni, who have excellent horses. When they invoke you, then come; "come, you two" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमे (*some*)—the Soma juice
+- सुते (*sute*)—when pressed
+- *baraḥ*—
+- सपर्यवः (*saparyavaḥ*)—devoted to your worship
+- सप्तीवंता (*saptīvaṃtā*)—you who have excellent horses
+- इंद्राग्नी (*iṃdrāgnī*)—you who are Indra and Agni in form
+- यत् (*yat*)—when
+- आ अजोहवुः (*ā ajohavuḥ*)—they pray and call (then come to our sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, when the Soma juice has been pressed, and the priests, the leaders of the rites, devoted to your worship, pray to you, who have excellent horses and are Indra and Agni in form, and call you, favour our sacrifice at once.
+
+##### English translation
+When adoring leaders (of rites), invoke you two, lords of horses, on the Soma being offered, (come hither).
+
+##### विशेषविषयगळु (Special Topics)
+
+At the morning-pressing time of the day of the sacrifice called Cāturviṃśika, the priest called Acchāvāka is to begin the śastra mantras with this Ṛk, "यत्सोम आ सुते (*yatsoma ā sute*)". And in the sacrifice called Ahargaṇa, from the second day onward, at the morning-pressing time, the same priest is to recite this Ṛk. In this matter there is the indication in the Āśvalāyana Śrauta Sūtra, "यत्सोम आ सुते नर इत्यारंभणीयाः शस्त्रा (*yatsoma ā sute nara ityāraṃbhaṇīyāḥ śastrā*)" (Ā. 7-2).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्तेभि॑र्वृत्र॒हंत॑मा॒ या मं॑दा॒ना चि॒दा गि॒रा ।  
+> आं॒गू॒षैरा॒विवा॑सतः ॥ ११ ॥
+
+### Printed p. 141
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्केभ्यि । वृत्रहन्तमा । या । मंदाना । चित् । आ । गिरा ।  
+> आंगूष्टैः । आऽविवासतः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृत्रहंतमा वृत्राणामावरकाणां हंतृतमौ मंदाना मोदमानौ या
+> याविंद्राग्नी उक्तेभिः शस्त्रैर्गिरा च स्तुत्या चाविवासतः वरिचर्येते ॥ व्यत्ययेन
+> कर्मणि कर्तृप्रत्ययः ॥ आंगूषैराघोषैरन्यैश्च स्तोत्रैर्यावाविवासतः परिचर्येते तौ युवामागच्छतमिति शेषः ।'
+
+##### Gist of the bhāṣya
+
+"वृत्रहन्तमा (*vṛtrahantamā*)" means the two supreme slayers of the Vṛtras, the coverers (obstructers). *Mandānā* means those who rejoice. The two, Indra and Agni, who are served, worshipped, with ukthas, that is, śastras, and with "गिरा (*girā*)", praise: the verb is active in form but passive in sense, by a change of voice (vyatyaya). With *āṅgūṣa* (loud cries) and other hymns the two are served; "come, you two" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतमा (*vṛtrahaṃtamā*)—you who utterly destroy enemies
+- मंदाना (*maṃdānā*)—who are gladdened by drinking Soma
+- या (*yā*)—which of you
+- उक्तेभिः (*uktebhiḥ*)—with the śastra mantras
+- गिरा चित् (*girā cit*)—with praises
+- आंगूषैः (*āṃgūṣaiḥ*)—with hymns of sonorous (loud-cry) kind
+- आविवासतः (*āvivāsataḥ*)—are worshipped (such you, favour us)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, you who utterly destroy enemies and are gladdened by drinking Soma, you who are worshipped with śastra mantras, with praises and with hymns in the form of loud cries, favour us.
+
+##### English translation
+Utter destroyers of Vritra, exhilarated ( by the Soma ), you who are worshipped with prayers and hymns and songs, (come hither).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ताविद्दुः॒शंसं॒ मर्त्यं॒ दुर्वि॑द्वांसं रक्ष॒स्विनं॑ ।  
+> आ॒भो॒गं हन्म॑ना हतमुद॒धिं हन्म॑ना हतं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । इत् । दुःशंसं । मर्त्यं। दुःसिविद्वांसं । रक्षस्विनं ।
+
+### Printed p. 142
+
+> आभोगं । हन्मना । हतं । उदधिं । हन्मना । हतं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राग्नी तौ युवां दुःशंसं दुष्टाभिशंसनं दुर्विद्वांसं दुर्विज्ञानं
+> रक्षस्विनं बलवंतमाभोगमाहृत्यास्मत्तोऽपहृत्य भोक्तारं मर्त्यं मनुष्यं
+> शत्रुं हन्मना हननसाधनेनायुधेन हतं । हिंस्तं । उक्तमेवार्थं दृष्टांतेन
+> दृढयति । उदधिं । लुप्तोपमेतत् । उदधानं कुंभमिव । यथा कुंभोऽनायासेन भिद्यत एवमनायासेनैव शत्रुमायुधेन युवां हिंस्तं ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Agni, you, famed, are to strike down with a weapon, the instrument of killing, the mortal, the human enemy, who is *duḥśaṃsa* (of evil speech or wishes), *durvidvāṃsa* (of wrong understanding), *rakṣasvin* (mighty), and an *ābhoga* (one who seizes our wealth and enjoys it). "Hatam" means "strike". He confirms this by an illustration: "udadhim" is an elliptical simile, "like a water-pot" (udadhāna). As a pot is broken without effort, so you two destroy the enemy with a weapon without effort.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तौ इत् (*tau it*)—you, the famous ones
+- दुःशंसं (*duḥśaṃsaṃ*)—him who has an evil mind
+- दुर्विद्वांसं (*durvidvāṃsaṃ*)—him who has wrong understanding
+- रक्षस्विनं (*rakṣasvinaṃ*)—him who has exceeding strength
+- आभोगं (*ābhogaṃ*)—him who seizes our wealth and enjoys it
+- मर्त्यं (*martyaṃ*)—the enemy who is a human being
+- उदधिं (*udadhiṃ*)—a pot, easily
+- हन्मना इव (*hanmanā iva*)—as one breaks with a club
+- हन्मना (*hanmanā*)—with a weapon fit for killing
+- हतं (*hataṃ*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, famous as you are, destroy the human enemy, who has an evil mind, wrong understanding and exceeding strength, and who seizes our wealth and enjoys it, with a weapon fit for killing, as one easily breaks an earthen pot with a club.
+
+##### English translation
+Destroy with your fatal (weapons) the mortal who is malignant, ignorant, strong, rapacious: destroy him like a water-jar, with your weapons.
+
+## Sūkta 95 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र क्षोदसेति षडृचं षष्ठं सूक्तं वसिष्ठस्यार्षंत्रैष्टुभं सरस्वतीदेवताकं।
+> तृतीया तु सरस्वद्देवताका । अनुक्रम्यते च । प्र क्षोदसा षट् सारस्वतं तु
+
+##### Gist of the bhāṣya
+
+The sūkta "प्र क्षोदसा (*pra kṣodasā*)" has six Ṛks and is the sixth sūkta. Its seer is Vasiṣṭha, its metre is Triṣṭubh, and its deity is Sarasvatī; but the third Ṛk has the deity Sarasvat. He quotes the Anukramaṇī: "pra kṣodasā ṣaṭ sārasvataṃ tu tṛtīyā sarasvata iti".
+
+### Printed p. 143
+
+> तृतीया सरस्वत इति ॥ गतः सूक्तविनियोगः ॥ प्रथमे छंदोमे प्रउगशस्त्रे
+> प्र क्षोदसा धायसा सस्र एषेति प्रउगं । आ. ८ ९ । इति !! सारस्वते पशौ प्र क्षोदसेति वपाया याज्या । सूत्रितं च । प्र क्षोदसा धायसा सस्र एषा पावीरवी
+> कन्या चित्रायुः । आ. ३-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The use of the sūkta has been stated. In the first Chandoma, in the Praüga śastra, the Ṛk "प्र क्षोदसा (*pra kṣodasā*)" is the Praüga; the sūtra cited is "प्र क्षोदसा धायसा सस्र एषेति प्रउगं (*pra kṣodasā dhāyasā sasra eṣeti praugaṃ*)" (Ā. 8 9). In the animal sacrifice to Sarasvatī, "प्र क्षोदसा (*pra kṣodasā*)" is the yājyā for the vapā; the sūtra cited is "pra kṣodasā dhāyasā sasra eṣā pāvīravī kanyā citrāyuḥ" (Ā. 3-7).
+
+##### Anuvāda
+
+This sūkta, "प्र क्षोदसा (*pra kṣodasā*)", is the sixth sūkta in the sixth anuvāka. It has six Ṛks. Its seer is Vasiṣṭha, its deity Sarasvatī, its metre Triṣṭubh. But the third Ṛk of this sūkta alone is addressed to the deity called Sarasvān. In the Anukramaṇī it is said: "pra kṣodasā ṣaṭ sārasvataṃ tu tṛtīyā sarasvate". The use of the sūkta was stated earlier. At the time of reciting the Praüga śastra mantras of the first Chandoma, it is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, "प्र क्षोदसा धायसा सस्र एषेति प्रउगं (*pra kṣodasā dhāyasā sasra eṣeti praugaṃ*)" (Ā. 8-9), that this Ṛk, "प्र क्षोदसा (*pra kṣodasā*)", is to be recited as the Praüga śastra mantra. In the animal sacrifice made to the deity Sarasvatī also, this Ṛk "प्र क्षोदसा (*pra kṣodasā*)" is to be recited as the yājyā mantra in the vapā offering; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra "pra kṣodasā dhāyasā sasra eṣā pāvīravī kanyā citrāyuḥ" (Ā. 3-7).
+
+##### Particulars
+
+Sūkta 95. Maṇḍala 7; Anuvāka 6; Sūkta 95. Aṣṭaka 5; Adhyāya 6; Varga 19. Number of Ṛks in the sūkta: 6. Ṛṣi: Vasiṣṭha. Devatā: 1, 2, 4-6 Sarasvatī; 3 Sarasvān. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र क्षोद॑सा॒ धाय॑सा सस्र ए॒षा सर॑श्वती ध॒रुण॒ माय॑सी॒ पूः ।  
+> प्र॒बाब॑धाना र॒थ्ये॑व याति॒ विश्वा॑ अ॒पो म॑हि॒ना सिंधु॑र॒न्याः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । क्षोदसा । धायसा । सस्त्रे । एषा । सरस्वती । धरुणं ! आयसी । पूः ।  
+> प्रबाबधाना । रथ्या इव । याति । विश्वाः । अपः । महिना । सिंधुः । अन्याः ॥ १ ॥
+
+### Printed p. 144
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सरस्वत्या एषा नदीवन्नि गमा । एषा दृश्यमाना नदीरूपा सरस्वत्यायस्ययसा
+> नर्मिता पूः पुरीव धरुणं ॥ लिंगव्यत्ययः ॥ धरुणा धारयित्रि धायसा धारकेण
+> क्षोदसोऽदकेन प्र सस्रे । प्रधानति । शीघ्रं गच्छति । सिंधुः स्यंदनशीला नदीरूपा
+> सान्या विश्वाः सर्वा अप आपगा महिना महिम्ना प्रबाबधाना भृशं बाधमाना
+> रथ्येव प्रतोलीव विस्तीर्णा सती याति । गच्छति । यद्वा । रथ्येव रथिनेव यथा रथी
+> रथेन मार्गस्थं तरुगुल्मादिकं चूर्णीकृत्य गच्छति तद्वत् स्वकीयेन वेगेन सर्वं
+> संपिंषती गच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Sarasvatī, visible in river form, is like a fort (pur) built of iron (ayas); "धरुणं (*dharuṇaṃ*)" is by change of gender (liṅgavyatyaya) for the feminine "धरुणा (*dharuṇā*)", the upholder. With "धायसा (*dhāyasā*)", the supporting one, with "क्षोदसा (*kṣodasā*)", water, she "pra sasre", rushes, goes swiftly. "Sindhu", flowing, in river form, she, pressing hard all the other waters, the rivers, by her greatness, goes, being wide like a "रथ्या (*rathyā*)" (a broad road). **NOTE**
+Or else: "rathyeva" means like a charioteer. As a charioteer in his chariot crushes the trees, bushes and the like that stand on the road and goes on, so she, with her own speed, grinds everything and goes; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषा सरस्वती (*eṣā sarasvatī*)—this Sarasvatī, visible in river form
+- आयसी (*āyasī*)—made of iron
+- पूः (*pūḥ*)—like a city
+- धरुणं (*dharuṇaṃ*)—possessing firmness
+- धायसा (*dhāyasā*)—supporting
+- क्षोदसा (*kṣodasā*)—with water
+- प्र सस्रे (*pra sasre*)—flows forth
+- सिंधुः (*siṃdhuḥ*)—this goddess, having a stream
+- विश्वाः (*viśvāḥ*)—all
+- अन्या अपः (*anyā apaḥ*)—all the remaining streams of water
+- महिना (*mahinā*)—by her greatness
+- प्रबाबधाना (*prabābadhānā*)—absorbing them in herself and bringing them under her control
+- रथ्यव (*rathyava*)—as the driver of a chariot passes over all the obstacles of his road and goes swiftly forward
+- याति (*yāti*)—she moves swiftly forward
+
+##### भावार्थ (Bhāvārtha)
+
+This Sarasvatī, visible in river form, gains firmness like a city built of iron and flows with sustaining waters. This goddess, having a stream, absorbs by her greatness all the other streams in herself and brings them under her control, and, as the driver of a chariot passes over all the obstacles of his road and goes swiftly forward, she too goes swiftly forward.
+
+##### English translation
+This Saraswati, firm as a city made of iron, flows rapidly with all sustaining water, sweeping away in its might all other waters, as a chari- oteer (clears the road.)
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एका॑चेत॒त्सर॑स्वती न॒दीनां॒ शुचि॑र्य॒ती गि॒रिभ्य॒ आ स॑मु॒द्रात् ।  
+> रा॒यश्चेतं॑ती॒ भुव॑नस्य॒ भूरे॑र्घृ॒तं पयो॑ दुदुहे॒ नाहु॑षाय ॥ २ ॥
+
+### Printed p. 145
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एका । अचेतत् । सरस्वती । नदीनां । शुचिः । यती । गिरिभ्यः । आ । समुद्रात् ।  
+> रायः । चेतंती । भुवनस्य । भूरेः । धृतं । पयः ' दुदुहे । नाहुषाय ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सारस्वत एव पशौ वसाया एकाचेतदित्यनुवाक्या । सूत्रितं च । एकाचेतत्सरस्वती नदीनामुत स्या नः सरस्वती जुषाणा । आ. ३-७ । इति ॥
+> सहस्रवत्सरेण क्रतुना यक्षमाणो नाहुषो नाम राजा सरस्वतीं नदीं
+> प्रार्थयामास सा च तस्मै सहस्रसंवत्सरपर्याप्तं पयो धृतं च प्रददौ । अयमर्थोऽत्र प्रतिपाद्यते! नदीनामन्यासां मध्यॆ शुचिः शुद्धा गिरिभ्यः सकाशादा समुद्रात्समुद्र पर्यंतं यती गच्छंतेका सरस्वती नद्यचेतत् । नाहुषस्य प्रार्थनामज्ञासीत् । तथा भुवनस्य भूतजातस्य भूरेर्बहुलस्य रायो धनानि चेतंती प्रज्ञापयंती प्रयच्छंती नाहुषाय राज्ञे धृतं पयश्च सहस्रसंवत्सरक्रतोः पर्याप्तं मुदुहे । दुग्धवती । दत्तवती ॥
+
+##### Gist of the bhāṣya
+
+In the same Sārasvata animal rite, "एकाचेतत् (*ekācetat*)" is the anuvākyā for the vasā; the sūtra is cited: "एकाचेतत्सरस्वती नदीनामुत स्या नः सरस्वती जुषाणा (*ekācetatsarasvatī nadīnāmuta syā naḥ sarasvatī juṣāṇā*)" (Ā. 3-7).
+A king named Nahuṣa, sacrificing with a sacrifice lasting a thousand years, prayed to the river Sarasvatī, and she gave him milk and ghee sufficient for a thousand years. This is the sense set forth here: among the other rivers, pure, going from the mountains as far as the sea, the one river Sarasvatī "acetat", understood Nahuṣa's request. And likewise, *cetantī*, making known and giving the abundant wealth of the world of beings, she "duduhe", milked, gave, to King Nahuṣa ghee and milk sufficient for the sacrifice of a thousand years. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नदीनां (*nadīnāṃ*)—among the other rivers
+- शुचिः (*śuciḥ*)—pure
+- गिरिभ्यः (*giribhyaḥ*)—beginning from the mountains
+- आ समुद्रात् (*ā samudrāt*)—as far as the ocean
+- यती (*yatī*)—moving (flowing)
+- एका (*ekā*)—chief
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- अचेतत् (*acetat*)—understood Nahuṣa's request
+- भुवनस्य (*bhuvanasya*)—to all beings
+- भूतीः (*bhūtīḥ*)—abundant **NOTE**
+- रायः (*rāyaḥ*)—riches
+- चेतंती (*cetaṃtī*)—giving
+- नाहुषाय (*nāhuṣāya*)—to Nahuṣa the king
+- घृतं (*ghṛtaṃ*)—ghee
+- पयः (*payaḥ*)—milk
+- दुदुहे (*duduhe*)—milked (enough for a thousand years)
+
+##### भावार्थ (Bhāvārtha)
+
+Sarasvatī, who is pure among all the other rivers, who flows from the mountains as far as the ocean, and who is the chief, understood Nahuṣa's request. Giving abundant riches to all beings, she milked for Nahuṣa the king ghee and milk, enough for a thousand years.
+
+##### English translation
+Saraswati, chief and purest of rivers, flowing from the mountains to
+
+### Printed p. 146
+to the ocean, understood the request of Nahusha, and distributing riches among the many existing beings, milked for him butter and water.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Sārasvata animal sacrifice this Ṛk, "एकाचेतत् (*ekācetat*)", is to be recited as the anuvākyā mantra of the vapā offering; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra "एकाचेतत्सरस्वती नदीनामुत स्या नः सरस्वती जुषाणा (*ekācetatsarasvatī nadīnāmuta syā naḥ sarasvatī juṣāṇā*)" (Ā. 3-7).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वा॑वृधे॒ नर्यो॒ योष॑णासु॒ वृषा॒ शिशु॑र्वृष॒भो य॒ज्ञिया॑सु ।  
+> स वा॒जिनं॑ म॒घव॑द्यो दधाति॒ वि सा॒तये॑ त॒न्वं॑ मामृजीत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ववृधे । नर्यः । योषणासु । वृषा । शिशुः । वृषभः । यज्ञियासु ।  
+> सः । वाजिनं । मघवत् 5भ्यः । दधाति । वि । सातये । तन्वं । ममृजीत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सरस्वद्देवताके पशौ स नावृध इति पुरोडाशस्य याज्या । सूत्रितं च । स
+> नावृधे नर्यो योषणासु यस्य व्रतं पशवो यंति सर्वॆ । आ. ३-८ । इति ॥
+> मध्यस्थानो वायुः सरस्वान् । नर्यो नृभ्यो हितो वृषा सेचनसमर्थः
+> शिशुरल्पः प्रादुर्भावसमयेल्पतया दृश्यमानो वैषभो वर्षिता एवंभूतः स
+> సరస్वान् यज्ञियासु यज्ञार्हासु योषणासु योषित्सात्मनः कलत्रभूतासु
+> मध्यमस्थानास्वप्सु मध्यॆ ववृधे । वर्धते । स तादृशः సరస్వాన్ मघवद्यो हविष्मद्यो यजमानेభ్యो वाजिनं बलिनं पुत्रं दधाति । ददाति । तथा सातये लाभार्थं तन्नं तेषां शरीरं वि माम्यजीत । विमार्ष्टि । लाभार्थं संस्करोतीत्यर्थः ।
+> यद्यपेषा सरस्वतः स्तुतिः तथापि सरस्वत्याः प्रीणनार्थं तत्सवनमिति च्छांदोमिके
+> సారస్వతే తృచేశ్యా ఉక్తో వिनियోగో న విరుధ్యతే ॥
+
+##### Gist of the bhāṣya
+
+In the animal rite whose deity is Sarasvat, "स वावृधे (*sa vāvṛdhe*)" is the yājyā for the puroḍāśa; the sūtra is cited: "sa vāvṛdhe naryo yoṣaṇāsu yasya vrataṃ paśavo yanti sarve" (Ā. 3-8).
+Sarasvat is the wind of the middle region. "नर्यः (*naryaḥ*)" is beneficial to men; "वृषा (*vṛṣā*)" is capable of sprinkling; "शिशुः (*śiśuḥ*)" is small, seen as small at the time of his manifestation; "वृषभः (*vṛṣabhaḥ*)" is the one who rains. Such is Sarasvat; among the *yoṣaṇās*, the women fit for sacrifice, that is, his own wives, the waters of the middle region, he "ववृधे (*vavṛdhe*)", grows. That Sarasvat gives to the sacrificers who have oblations a strong ("वाजिनं (*vājinaṃ*)") son; and for gain ("सातये (*sātaye*)") he "vi mamṛjīta", adorns and prepares their body for gain. **NOTE**
+Although this is a praise of Sarasvat, the use stated in the Chandomika Sārasvata tṛca for this Ṛk is not contradicted, since that pressing is for the pleasing of Sarasvatī.
+
 ---
 
-**Progress note:** Done through printed p. 139. pp. 133-139 (batch API)
+**Progress note:** Done through printed p. 146. pp. 140-146 (batch API)
