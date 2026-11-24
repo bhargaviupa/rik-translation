@@ -17373,6 +17373,234 @@ Sharpen us like a razor in the hands (of a barber) : grant us riches, liberator 
 
 O Pūṣan, nourisher, Indra, or the deity of this name, I desire (vemi) to propitiate you (ṛñjase, to accomplish); O aghṛṇe, of unfailing brilliance, I desire to praise you. I do not desire the praise of any deity other than you. If it is asked why, then: because it is araṇa, unpleasant. So the sense is: I desire to praise you alone. O Vasu, dweller, for the praiser, pajra, the offerer of praises, for sāman (sāman is praise; by implication here the possessor of it). Or else, pajra is the name of Kakṣīvat. **NOTE**
 
+### Printed p. 432
+
+> आम्नातं हि । यद्वां पज्रासो अश्विना हवंते । ऋग्वे. १-११७-१० । इति तस्मै कक्षीवत इव मह्यं । सामर्थ्य्यादुपमार्थो लभ्यते । अपेक्षितं धनं देहीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that Pajra is the name of Kakṣīvat, and that this is attested: यद्वां पज्रासो अश्विना हवंते (*yadvāṃ pajrāso aśvinā havaṃte*) (Ṛ. Saṃ. 1-117-10). The sense is therefore "to me, like that Kakṣīvat"; the simile is obtained by implication. The words to be supplied are "give the wealth that is desired."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O Pūṣan
+- त्वा (*tvā*)—you
+- ऋंजसे (*ṛṃjase*)—to worship
+- वेमि (*vemi*)—I desire
+- आफृणे (*āphṛṇe*)—O god of abundant radiance
+- स्तोतवे (*stotave*)—to praise you
+- वेमि (*vemi*)—I desire
+- तस्य (*tasya*)—the praise of another god than you
+- न वेमि (*na vemi*)—I do not desire
+- हि (*hi*)—because
+- तत् अरणं (*tat araṇaṃ*)—that is not a means of happiness
+- वसो (*vaso*)—O Pūṣan, giver of dwelling
+- स्तुषे (*stuṣe*)—to the one who praises
+- पज्राय (*pajrāya*)—to the composer of praises
+- *sāmne*—to the one who recites sāma chants (provide wealth)
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, I desire to worship you. O god of abundant radiance, I desire to praise you. I desire the praise of no other god than you, because that is not a means of happiness. O Pūṣan, giver of dwelling, provide wealth to the one who praises, to the composer of praises, and to the sāma-reciter.**NOTE**
+
+##### English translation
+I desire, Pushan, to propitiate you; I desire, illustrious deity, to glorify you: I desire not (to offer) ungracious praise to any other; (grant riches), bestower of wealth, to him who praises, eulogises, and glorifies you.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॒ गावो॒ यव॑सं॒ कच्चि॑दाघृणे॒ नित्यं॒ रेक्लो॑ अमूर्त्य ।  
+> अ॒स्माकं॑ पूषन्नवि॒ता शि॒वो भ॑व॒ मंहि॑ष्ठो॒ वाज॑सातये ॥१८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । गावः । यवसं । कत् । चित् । आघृणे । नित्यं । रेक्णः । अमर्त्य ।  
+> अस्माकं । पूषन् । अविता । शिवः । भव । मंटष्ठः । वाजसातये ॥ १८ ॥
+
+### Printed p. 433
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आघ्रण आगतदीप्ते पूषन्निंद्र वा कच्चित् कस्मिंश्चित्कालेऽस्मदीया गावो
+> यवसं तृणं भक्षितुं परा गच्छंति । हे अमर्त्यामरण देव तदानीं रेक्ष्णस्तद्दोगरूपं धनं नित्यमस्माकं ध्रुवमस्तु । चोरव्याघ्रादिभिर्हिंसितं मा भूत् । अपि च
+> हे पूषन् पोषयितः अस्माकमविता रक्षिता भूत्वा शिवः सुखकरो भव । तथा वाजसातये वाजस्यान्नस्य बलस्य वा संभजनार्थं मंहिष्टो दातृतमो भव ॥
+
+##### Gist of the bhāṣya
+
+"O radiant Pūṣan" (or Indra): at some time our cattle go away to eat grass (यवसं (*yavasaṃ*)). O immortal god, may that wealth in the form of cattle (रेक्ष्णः (*rekṣṇaḥ*)) be permanent for us, and not be harmed by thieves, tigers and the like. Further, O Pūṣan, nourisher, be our protector and the giver of happiness. Be also the most bountiful giver (मंहिष्टो दातृतमो (*maṃhiṣṭo dātṛtamo*)) for the acquiring of food or strength (वाजसातये (*vājasātaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आघृणे (*āghṛṇe*)—O Pūṣan, of exceeding radiance
+- कच्चित् (*kaccit*)—at some times
+- गावः (*gāvaḥ*)—our cows
+- यवसं (*yavasaṃ*)—to eat grass
+- परा (*parā*)—go out
+- अमर्त्य (*amartya*)—O god, free from mortality
+- रेक्ष्णः (*rekṣṇaḥ*)—that wealth in the form of cattle
+- नित्यं (*nityaṃ*)—make it lasting for us
+- पूषन् (*pūṣan*)—O god, nourisher
+- अस्माकं (*asmākaṃ*)—for us
+- अविता (*avitā*)—as protector
+- शिवः (*śivaḥ*)—as bringer of good fortune
+- भव (*bhava*)—be
+- वाजसातये (*vājasātaye*)—for the gaining of food
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—give, being exceedingly generous
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, of exceeding radiance, our cows sometimes go out to eat grass. O god, free from mortality, make that wealth in the form of cattle lasting for us. O god, nourisher, be our protector and the bringer of good fortune. For the gaining of food, be one who gives, exceedingly generous.
+
+##### English translation
+Illustrious (Pushan), my cattle go forth occasionally to pasture, may that wealth (of herds), immortal deity, be permanent; being my protector, Pushan, be the granter of felicity, be most bountiful in bestowing food.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्थू॒थं राधः॑ श॒ताश्वं॑ कुरुं॒गस्य॒ दिवि॑ष्टिषु ।  
+> राज्ञ॑स्ये॒षस्य॑ सु॒भग॑स्य रा॒तिषु॑ तु॒र्वशे॑ष्वमन्महि ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 434
+
+> स्थूरं । राधः । शतअश्वं ' कुरुंगस्य । दिविष्टिसु ।  
+> राज्ञः । त्वेषस्य । सुभगस्य । रातिषु । तुर्वशेषु । अमन्महि ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमादिकेन तृचेन देवातिथिः कुरुंगनान्नो राज्यो दानं स्तौति । कुरुगस्य । कुरूइच्चीतुं गच्छति कुलं गच्छतीति वा कुरुंगः ॥ डोऽन्यत्रापि दृश्यत इति
+> गमेर्डः । पृषोदरादिः ॥ एतत्संज्ञस्य त्वेषस्य दीप्तस्य सुभगस्य शोभनधनस्य एवंभूतस्य राज्ञः संबंधिनीषु दिविष्टिषु दिवः स्वर्गस्यैषणॆषु प्राप्तिहेतुभूतासु यागक्रियासु रातिषु दानेषु दक्षिणारूपेषु सत्तु तुर्वशेषु । मनुष्यनामैतत् ॥ निर्धारणेसप्तमी ॥ मनुष्येषु मध्यॆ वयं स्थूरं स्कूलं प्रभूतं शताश्वमश्वानां
+> शतेन युक्तं राधो धनममन्महि । अज्ञसिष्म । अलभामहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+With the triplet beginning with this verse, Devātithi praises the gift of the king named Kuruṅga. Kuruṅga is explained as one who goes to the Kurus, or one who goes to a family (कुलं गच्छतीति (*kulaṃ gacchatīti*)). The sense: of this king so named, who is radiant (त्वेषस्य (*tveṣasya*)) and of good wealth (सुभगस्य (*subhagasya*)), when the sacrificial rites that are the means of reaching heaven (दिविष्टिषु (*diviṣṭiṣu*)) and his gifts in the form of sacrificial fees (रातिषु (*rātiṣu*)) are in progress, we, among the Turvaśas (a word meaning men; the locative is that of selection), obtained (अमन्महि (*amanmahi*), "we got") abundant (स्थूरं (*sthūraṃ*)) wealth accompanied by a hundred horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वेषस्य (*tveṣasya*)—of the radiant one
+- सुभगस्य (*subhagasya*)—of the one with excellent wealth
+- कुरुंगस्य (*kuruṃgasya*)—of the one named Kuruṅga**NOTE**
+- राज्ञः (*rājñaḥ*)—of the king
+- दिविष्टिषु (*diviṣṭiṣu*)—performed at the time of the sacrifice that leads to heaven
+- रातिषु (*rātiṣu*)—in the gifts in the form of sacrificial fees
+- तुर्वशेषु (*turvaśeṣu*)—among all the other people, we ourselves
+- स्फूरं (*sphūraṃ*)—abundant
+- शताश्वं (*śatāśvaṃ*)—possessing a hundred horses
+- राधः (*rādhaḥ*)—wealth
+- अम्महि (*ammahi*)—we have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+Among the gifts in the form of sacrificial fees, made at the time of the sacrifice that leads to heaven and was performed by the king named Turaṅga,**NOTE** who is radiant and of excellent wealth, we ourselves, among all the other people, have obtained abundant wealth of a hundred.
+
+##### English translation
+We acknowledge the substantial wealth (of the gift) of a hundred horses, the donation made to us amongst men at the holy solemnities of the illustrious and auspicious Raja Kuranga.
+
+### Printed p. 435
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given a derivation for the first half of this Ṛk:
+दिविष्टिषु दिव एषणेषु । स्थूरं राधः शताश्वं कुरुंगस्य दिविष्टिषु । स्थूरः समा श्रितमात्रो महान् भवत्यणुरनु स्थवीयांसमुपसर्गो लुप्तनामकरणो यथा संप्रति । कुरुंगो राजा बभूव कुरुगमनाद्वा कुलगमनाद्वा । कुरुः कृंततेः । कूरमित्यप्यस्य भवति। कुलं कुष्णातेर्विकुषितं भवति ॥ (*diviṣṭiṣu diva eṣaṇeṣu | sthūraṃ rādhaḥ śatāśvaṃ kuruṃgasya diviṣṭiṣu | sthūraḥ samā śritamātro mahān bhavatyaṇuranu sthavīyāṃsamupasargo luptanāmakaraṇo yathā saṃprati | kuruṃgo rājā babhūva kurugamanādvā kulagamanādvā | kuruḥ kṛṃtateḥ | kūramityapyasya bhavati| kulaṃ kuṣṇātervikuṣitaṃ bhavati ‖*) (Ni. 6-22).
+The word दिविष्टिषु (*diviṣṭiṣu*) means the rites (sacrifices and so on) that are the means of attaining heaven. To explain the meaning of this word, he took the first half of the present Ṛk, स्थूरं राधः शताश्वं कुरुंगस्य दिविष्टिषु (*sthūraṃ rādhaḥ śatāśvaṃ kuruṃgasya diviṣṭiṣu*), as the example, and gave a derivation for it too. That is, the sense is: at the sacrifice made by King Kuruṅga, an exceedingly great gift of wealth (property), made up of hundreds of horses, other things and riches. स्थूर (*sthūra*) means a very large heap, formed by many kinds of things gathered together. Here it means a great wealth formed by the gathering of many things such as horses. The opposite of this word is अणु (*aṇu*). The word अणु (*aṇu*) means very small, not much. अणु (*aṇu*) is an upasarga; yet, like a noun, it has a full meaning. The word संप्रति (*saṃprati*) itself is an example of this. Such words are called लुप्तनामकरण (*luptanāmakaraṇa*). कुरुंग (*kuruṃga*) is the name of a king; because he marched against the people called Kuru, fought and was victorious, he got the name Kuruṅga. Or, because he sets out to battle to conquer enemy families, he is called Kuruṅga. The word कुरुः (*kuruḥ*) is formed from the root कृत् (*kṛt*) (कृंतति (*kṛṃtati*)), meaning "to cut". The word क्रूर (*krūra*) also is formed in the same way from the root कृंतति (*kṛṃtati*). कुल (*kula*) means belonging to a lineage, or to the lineage of a chief person. This word is formed from the root कुस् (*kus*) (कुष्णाति (*kuṣṇāti*)), meaning "to extend". This is the main import of the derivation.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धी॒भिः सा॒तानि॑ का॒ण्वस्य॑ वा॒जिनः॑ प्रि॒यमे॑धैर॒भिद्यु॑भिः ।  
+> ष॒ष्टिं स॒हस्रानु॒ निर्म॑जामजे॒ निर्यू॒थानि॒ गवा॒मृषिः॑ ॥२०॥
+
+### Printed p. 436
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धीभिः । सातानि । काण्वस्य । वाजिनः । प्रियमेधैः । अभिद्युभिः ।  
+> षष्टिं । सहस्रा । अनु । निःऽमजां । अजे । निः । यूथानि । गवां । ऋषिः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> काण्वस्य कण्वपुत्रस्य वाजिनो हविष्मतो मेधातिथेः संबंधिभिर्धिभिर्ध्यातृभिः स्तोतृभिः सातानि संभक्तान्यभिद्युभिरभिगतदीप्तिभिः प्रियमेधैरेतत्संज्ञॆश्चर्षिभिः सेवितानि निर्मजां निशेषेण शुद्धानां गवां षष्टिं सहस्रा षष्टिसंख्याहानि सहस्राणि यूथान्यृषिर्देवातिथिरहमनु पश्चात् निरजे । निः शेषेणागच्छं ।
+> साकल्येन प्राप्तवानस्मि ॥ अज गतिक्षेपणयोः ॥ यथा प्रियमेधानां काण्वानां च
+> गवां यूथानि राज्ञा दत्तानि तत्पतिगृहीतं एवं तेन दत्तानि मया प्रतिगृह्यंत
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+काण्वस्य (*kāṇvasya*) is of the son of Kaṇva, वाजिनः (*vājinaḥ*) is of the one who has oblations, Medhātithi. The herds were obtained (सातानि (*sātāni*)) through the thoughts (धीभिः (*dhībhiḥ*)), that is, the praises, of the worshippers connected with him, and were enjoyed by the radiant seers named Priyamedhas. Of sixty thousand (षष्टिं सहस्रा (*ṣaṣṭiṃ sahasrā*)) herds of thoroughly pure cows, I, the seer Devātithi, afterwards took (निरजे (*niraje*)) the whole, receiving them completely. Just as herds of cows were given by the king to the Priyamedhas and the Kāṇvas and accepted by them, so those given by him are accepted by me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- काण्वस्य (*kāṇvasya*)—of the son of Kaṇva
+- वाजिनः (*vājinaḥ*)—of Medhātithi, who has oblations
+- धीभि (*dhībhi*)—by acts of praise
+- सातानि (*sātāni*)—obtained
+- अभिद्युभिः (*abhidyubhiḥ*)—by the shining
+- प्रियमेधैः (*priyamedhaiḥ*)—served by the seers named Priyamedhas
+- निर्मजां (*nirmajāṃ*)—and pure
+- गवां (*gavāṃ*)—of cows
+- षष्टिं सहस्र (*ṣaṣṭiṃ sahasra*)—sixty thousand in number
+- यूथानि (*yūthāni*)—herds
+- ऋषिः (*ṛṣiḥ*)—I, named Devātithi
+- अनु (*anu*)—afterwards
+- निः अजॆ (*niḥ ajè*)—I accepted
+
+##### भावार्थ (Bhāvārtha)
+
+The sixty thousand herds of cows, obtained through the acts of praise of Medhātithi, the son of Kaṇva, who has oblations, served by the shining seers named Priyamedhas, and pure, I, named Devātithi, afterwards accepted.
+
+##### English translation
+I, the Rishi (Devatithi) have received subsequently the complete donation: the sixty thousand herds of pure cattle merited by the devotions of the pious son of Kanwa, and by the illustrious Priyamedhas.
+
+### Printed p. 437
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒क्षाश्चि॑न्मे अभिपि॒त्वे अ॑रारणुः ।  
+> गां भ॑जंत मे॒हनाश्वं॑ भजंत मे॒हना॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृक्षाः । चित् । मे । अभिपित्वे । अररणुः ।  
+> गां । भजंत । मेहना । अश्वं । भजंत । मेहना ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मयाभिपित्वे पूर्वोक्ते धनेऽभिप्राप्ते सति वृक्षाश्चिद्वृक्षा अन्यरारणुः ।
+> अशब्दयन् । कथमिति तदाह । इम ऋषयो मेहना मंहनीयां प्रशस्यां गां
+> भजंत । असेवंत । अलभंत । मेहना मंहनीयमश्वं च भजंत । अलभंतेति ॥
+> गामश्वमिति जात्यभिप्रायमेकवचनं ॥ यद्वा । मेहनेति म इह नेति पदत्रयात्मकमेकं पदं । यदाह यास्कः । यदिंद्र चित्रं चायनीयं मंहनीयं धनमस्ति ।
+> यन्म इह नास्तीति वा त्रीणि मध्यमानि पदानि । नि. ४-४ । तदैवं व्याख्येयं । इम
+> ऋषयो गामश्वं चालभंत । इहास्मिन्राजनि प्रशस्तस्य धनस्य तद्दानं मम नासीन्मम
+> नासीदिति वृक्षप्रमुखा सर्वॆऽपि जनाः प्रोचुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When the wealth mentioned before had been obtained (अभिपित्वे (*abhipitve*)) by me, even the trees (वृक्षाश्चित् (*vṛkṣāścit*)) resounded (अरारणुः (*arāraṇuḥ*)). How? These seers have obtained (भजंत (*bhajaṃta*): "served, obtained") a praiseworthy cow (मेहना (*mehanā*), मंहनीयां (*maṃhanīyāṃ*)) and a praiseworthy horse. गामश्वं (*gāmaśvaṃ*) are singular because a class is meant. Alternatively, मेहना (*mehanā*) is one word consisting of three words, म इह न (*ma iha na*). As Yāska says: यदिंद्र चित्रं चायनीयं मंहनीयं धनमस्ति । यन्म इह नास्तीति वा त्रीणि मध्यमानि पदानि । (*yadiṃdra citraṃ cāyanīyaṃ maṃhanīyaṃ dhanamasti | yanma iha nāstīti vā trīṇi madhyamāni padāni |*) (Ni. 4-4). It is then to be explained thus: these seers obtained a cow and a horse; in this king's presence, "that gift of excellent wealth was not mine, was not mine," so all the people, the trees foremost, said.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—by me
+- अभिपित्वे (*abhipitve*)—when the wealth described before was obtained
+- वृक्षाश्चित् (*vṛkṣāścit*)—even the trees
+- अरारणुः (*arāraṇuḥ*)—resounded, praising them, as follows
+- मेहना (*mehanā*)—praiseworthy
+- गां (*gāṃ*)—cows
+- भजंत (*bhajaṃta*)—(these seers) have obtained
+- मेहना (*mehanā*)—venerable
+- अश्वं (च) (*aśvaṃ (ca)*)—and horses
+- भजंत (*bhajaṃta*)—have received (so they praised)
+
+##### भावार्थ (Bhāvārtha)
+
+When I obtained the wealth described before, even the trees praised that wealth, saying: "These seers have received as gifts praiseworthy cows and venerable horses and are enjoying their fruit."
+
 ---
 
-**Progress note:** Done through printed p. 430. pp. 425-430 (batch API)
+**Progress note:** Done through printed p. 437. pp. 432-437 (batch API)
