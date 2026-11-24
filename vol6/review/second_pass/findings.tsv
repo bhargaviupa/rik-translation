@@ -346,3 +346,46 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 145	H29	R3	Special Topics ಅಪ್ರಷ್ಟವ್ಯಂ ಶೋಭನಂ vs English āprastavyaṃ	āprastavyaṃ	apraṣṭavyaṃ	English letters differ from Kannada ಅಪ್ರಷ್ಟವ್ಯಂ (the bhāṣya has āpraṣṭavyaṃ).	question	
 148	S1	R1	Paribhāṣā number in bhāṣya block: Devanagari परि. ९३-२, IAST 93-7, Kannada ೯೩-೭	९३-२	९३-७	Inside the Sāyaṇa block (not read); Devanagari and IAST disagree with each other; Kannada prints ೯೩-೭.	question	
 149	H29	R3	Taittirīya quotation: Kannada ನಾ ವೈತದಾಹ	vā vaitad āha	nā vaitad āha	Kannada ನಾ silently read as vā.	question	
+152	S1	R1	Āśvalāyana Śrauta-sūtra ref (first)	(Ā. 3-2)	(Ā. 3-7)	Kannada prints (ಆ. ೩-೭) after the Āśvalāyana sūtra	applied	
+152	S1	R1	Āśvalāyana Śrauta-sūtra ref (second)	(Ā. Sū. 3-2)	(Ā. Sū. 3-7)	Kannada prints (ಆಶ್ವ. ಶೌ. ೩-೭)	applied	
+153	S2	R1	Pā. Sū. 3-2-63	(Pā. Sū. 3-2-63, as read)		Kannada gives the sūtra name (ಛಂದಸಿ ಸಹಃ) without a number; number not in the supplied text	applied	
+153	S2	R1	Pā. Sū. 6-4-82	(Pā. Sū. 6-4-82, as read)		Kannada gives the sūtra name (ವೇರಪೃಕ್ತಸ್ಯ) without a number; number not in the supplied text	applied	
+153	S2	R1	Pā. Sū. 6-3-137	(Pā. Sū. 6-3-137)		Kannada says only ಅನ್ಯೇಷಾಮಪಿ ದೃಶ್ಯತೇ ಎಂಬ ಪಾಣಿನಿ ಸೂತ್ರದಿಂದ, no number	applied	
+153	S2	R1	Pā. Sū. 1-3-5	[as read, Pā. Sū. 1-3-5]		Kannada gives the sūtra name (ಆದಿರ್ಇಟುಡವಃ) without a number; number not in the supplied text	applied	
+155	S1	R1	Ā. 8-[12]	(Ā. 8-[12], as read)	(Ā. 8-12)	Kannada prints (ಆ. ೮-೧೨); the Kannada number replaces the doubtful form	applied	
+155	S1	R1	Anu. [12-4]	(Anu. [12-4], as read)	(Anu. 12-8)	Kannada prints (ಅನು. ೧೨-೮)	applied	
+157	S14	R1	pratipadārtha of चतन्तम्	moving [you who were]	staying [you who were]	Kannada pratipadārtha ಚತಂತಂ ... ಇರುವ (ನಿನ್ನನ್ನು) = who is/stays, not moving	applied	
+158	S1	R1	Ni. ref for tāyu	(Ni. [3-24?, ?])	(Ni. 3-19)	Kannada prints (ನಿ.೩-೧೯) for the fourteen stena names	applied	
+158	S1	R1	Ni. ref for na	(Ni. [1-4])	(Ni. 1-4)	Kannada prints (ನಿ. ೧-೪); bracket form replaced by the Kannada number	applied	
+161	S1	R1	Pā. Sū. 2-38-5 [?]	(Pā. Sū. 2-38-5 [?], as printed; small type)	(Pā. Sū. 2-38-5, as printed; small type)	Kannada prints (ಪಾ. ಸೂ. ೨-೩೮-೫); the [?] beside it goes	applied	
+164	S1	R1	Tai. Saṃ. ref	([2]-6-6-1)	(2-6-6-1)	Kannada prints (೨-೬-೬-೧)	applied	
+164	S1	R1	Pā. Sū. 6-1-94 Vārttika	(Pā. Sū. 6-1-94, Vārttika [4], as read)	(Pā. Sū. 6-1-94-4)	Kannada prints (ಪಾ. ಸೂ. ೬-೧-೯೪-೪); the Kannada form replaces the doubtful one	applied	
+165	S3	R1	Pā. Sū. 3-2-171	(Pā. Sū. 3-2-171, as read)	(Pā. Sū. 3-2-171-2)	Kannada prints (ಪಾ. ಸೂ. ೩-೨-೧೭೧-೨); last number missing in English	applied	
+168	S1	R1	Ni. ref for na	(Ni. [1-4])	(Ni. 1-4)	Kannada prints (ನಿ.೧-೪)	applied	
+168	S7	R3	quotation Tai. Saṃ. 1-8-5-3	agnir vā tasmād	agnir mā tasmād	Kannada quotation reads ಅಗ್ನಿರ್ಮಾ ತಸ್ಮಾದೇನಸಃ ಪ್ರಮುಂಚತು and the gloss says may Agni release us; vā to mā (IAST only; this bullet has no Devanagari)	applied	
+169	S1	R1	Ni. ref for kṣoda	(Ni. [1-12])	(Ni. 2-24)	Kannada prints (ನಿ.೨-೨೪) for the water names	applied	
+169	S1	R1	Ni. ref for atya	(Ni. [1-14])	(Ni. 2-27)	Kannada prints (ನಿ. ೨-೨೭) for the twenty-six horse names	applied	
+169	S1	R1	Tai. Saṃ. ref	(1-[8]-5-[1], as read)	(1-8-5-3)	Kannada prints (೧-೮-೫-೩)	applied	
+169	S7	R3	quotation siṃdhur na kṣodaḥ	dagdhvyābhimukhaḥ	dagdhavyābhimukhaḥ	Kannada quotation reads ದಗ್ಧವ್ಯಾಭಿಮುಖಃ (dagdhavyā, gerundive of dah); English had lost the a (IAST only)	applied	
+170	S2	R1	Pā. Sū. 3-3-113	[as read, Pā. Sū. 3-3-113]		Kannada gives the sūtra name (ಕೃತ್ಯಲ್ಯುಟೋ ಬಹುಲಂ) without a number; number not in the supplied text	applied	
+170	S1	R1	Uṇ. Sū. ref (iṣiyudhīndhidasi)	(Uṇ. Sū. 1-[145], as read)	(Uṇ. Sū. 1-142)	Kannada prints (ಉ. ಸೂ. ೧-೧೪೨)	applied	
+170	S1	R1	Uṇ. Sū. ref (sarvadhātubhyo manin)	(Uṇ. Sū. 4-[145], as read)	(Uṇ. Sū. 4-484)	Kannada prints (ಉ. ಸೂ. ೪-೪೮೪)	applied	
+170	S2	R1	Pā. Sū. 2-4-56	"ajer vyaghañapoḥ" (Pā. Sū. 2-4-56, as read)	"ajer vyaghañapoḥ"	Kannada gives ಅಜೇವ್ರ್ಯ ಘಞ್ಪೋಃ without a number; the number 2-4-56-2 printed there belongs to the Kāśikā statement (next edit)	applied	
+170	S3	R1	Kāśikā ref	"valādāv ārdhadhātuke vikalpa iṣyate"	"valādāv ārdhadhātuke vikalpa iṣyate" (Kā. 2-4-56-2)	Kannada prints (ಕಾ. ೨-೪-೫೬-೨) after this Kāśikā statement; missing in English	applied	
+173	S1	R1	Ṛk Saṃhitā Part ref	Part 3, pp. 60–61 [as read, ?]	Part 2, pp. 60–61	Kannada prints ಋ. ಸಂ. ಭಾಗ. ೨ ... 60-61	applied	
+174	S2	R1	Pā. Sū. 6-2-48	(Pā. Sū. 6-2-48, as read)		Kannada p. 174 gives ತೃತೀಯಾಕರ್ಮಣಿ without a number; number not in the supplied text on this page	applied	
+174	S3	R1	Pā. Sū. 2-4-77	"gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu"	"gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu" (Pā. Sū. 2-4-77)	Kannada prints ಗಾತಿಸ್ಥಾಘುಪಾ—(ಪಾ. ಸೂ. ೨-೪-೭೭); number missing in English	applied	
+177	S1	R1	Tai. Brā. ref (Soma king of herbs)	(3-9-17-1 [?], the third number 17 or 16)	(3-9-17-1)	Kannada prints ೩-೯-೧೭-೧	applied	
+177	S1	R1	Tai. Brā. ref (agnir annādaḥ)	(3-[1]-[2]-[1], as read)	(2-5-7-3)	Kannada prints ತೈತ್ತಿರೀಯ ಬ್ರಾಹ್ಮಣ ೨-೫-೭-೩	applied	
+177	S16	R1	Soma gloss	*Soma* [here] from *soma abhiṣave*: the creator	*Soma*, the god himself: the creator	Kannada: ಸೋಮಃ—ಸೋಮದೇವನೇ, ವಿಧಾತಾ—ಸೃಷ್ಟಿಮಾಡುವನು; no derivation from soma abhiṣave	applied	
+177	S16	R1	Skandasvāmin on kratvā cetiṣṭhaḥ	the most intelligent among the knowing ones, by his plan	the most intelligent among the knowing ones	Kannada: ಜ್ಞಾನಿಗಳ ಮಧ್ಯದಲ್ಲಿ ಬಹಳಮಟ್ಟಿನ ಮೇಧಾವಿಯು; nothing for by his plan	applied	
+178	S2	R1	Pā. Sū. 7-3-78	(Pā. Sū. 7-3-78, as read)		Kannada gives ಸಾಘ್ರಾಧ್ಮಾ—ಸೂತ್ರದಿಂದ without a number; number not in the supplied text	applied	
+179	S2	R1	Pā. Sū. 6-1-45	(Pā. Sū. 6-1-45, as read)		Kannada gives ಆದೇಚಉಪದೇಶೇಶಿತಿ ಎಂಬುದರಿಂದ without a number; number not in the supplied text	applied	
+157	H29	R6	pratipadārtha ಸಚಂತಂ (Kannada lemma)	चतन्तम् (catantam)		Kannada pratipadārtha prints ಸಚಂತಂ (sacantaṃ) and ಅನು ರ್ಗ್ಮ; the English reads catantam / anu gman. Keep the corrected reading?	question	
+159	S7	R3	Skandasvāmin quotation ಅಬ್ಲಕ್ಷಣೇನ ಅಪ್ಪು ಪ್ರಶನಿಂತಂ	abbhakṣaṇena apsu praśayitaṃ (by living on water, lying in the waters)		Kannada prints ಅಬ್ಲಕ್ಷಣೇನ ... ಪ್ರಶನಿಂತಂ and its gloss says in the form of water that causes food; English reads abbhakṣaṇena / praśayitaṃ and glosses 	question	
+164	H29	R6	ಮಾನುಗಳು (Kannada, p. 164 first line)	the fish		Kannada prints ಮಾನುಗಳು (not a word); English silently reads ಮೀನುಗಳು / fish (the Tai. Saṃ. quotation on p. 163 has matsyaḥ). Keep fish?	question	
+167	H29	R6	pratipadārtha ಕ್ಲೋಧೋ ನ / ಕ್ಲೋದಃ / ಅಜ್ಮ್ರ	क्षोदो न / क्षोदः / अज्मन्		Kannada prints ಕ್ಲೋಧೋ, ಕ್ಲೋದಃ, ಅಜ್ಮ್ರ; English gives kṣodo, kṣodaḥ, ajman. Keep?	question	
+172	H29	R6	pratipadārtha ವ್ಯಸ್ಥಾತ್ ... ವನಾ ವಹಿಸಲು ಪ್ರಾರಂಭಿಸುತ್ತಾನೋ	begins to burn [then]		Kannada prints ವಹಿಸಲು (carry); English reads ದಹಿಸಲು (burn), as the following ದಾತಿ (ಸುಡುತ್ತಾನೆ) suggests. Keep burn?	question	
+160	S7	R3	grammar of guhā: aṅ / ṅit	affix aṅ ... since ṅit-like		Kannada prints ಅಜ್ ಪ್ರತ್ಯಯ and ಜಿತ್ತಾದುದರಿಂದ (añ, ñit); English gives aṅ and ṅit (as in the sūtra ṣidbhidādibhyo aṅ and the bhāṣya). Which stands?	question	
+173	S7	R3	Sanskrit quotations in the commentary with misprints (kind noted once; also pp. 158, 159, 168, 169, 176, 178)	English prints the corrected word each time		Kannada prints non-words in quotations (e.g. ಸ್ವಸ್ಯಣಾಂ p. 173, ಸರ್ ತಾಸಾಂ p. 173, ಅಪಹರ್ರ p. 173, ದೃಷ್ಟವೇಶೇ p. 158, ದುರ್ನಿನವಾರಃ p. 169, ಪಾಪಾದನುಷ್ಮಾರ್ತ-೯	question	
+155	H29	R6	Kannada misprints ಶೌತಸೂತ್ರ (for ಶ್ರೌತ), ಪತ್ರನಿಗೆ (for ಪುತ್ರ), ದ್ೇವತೆ (p. 152, vowel sign after virama)	English reads Śrauta-sūtra, son, deities		Kannada prints non-words (ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರ p. 155, ಶಕ್ತಿಯ ಪತ್ರನಿಗೆ p. 155, ಮರುದ್ೇವತೆಗಳನ್ನು p. 152) which English silently puts right. Keep?	question	

@@ -304,3 +304,42 @@
 | 125 | `avinaṣṭadīptayaḥ` → `avinaṣṭā dīptir etebhyaḥ` | SECOND-PASS S17: Kannada ಅವಿನಷ್ಟಾ ದೀಪ್ತಿರೇತೇಭ್ಯಃ । ದೀಪ್ತಿಮಂತಃ |
 | 125 | `udakaṃ meghāt saṃsrāvayantaḥ` → `udakaṃ meghāt saṃkṣārayantaḥ` | SECOND-PASS S7: Kannada ಉದಕಂ ಮೇಘಾತ್ ಸಂಕ್ಷಾರಯಂತಃ; a real word, so not a misprint; English had a different word |
 | 125 | `क्षपः जिन्वन्तः नानदति` → `क्षपः संजिन्वन्तः नानदति` | SECOND-PASS S7: Kannada ಕ್ಷಪಃ ಸಂಜಿನ್ವಂತಃ ನಾನದತಿ; letters sam added from the Kannada |
+
+### 2026-11-24 second pass, batch e152-181.tsv
+| page | old → new | why |
+|---|---|---|
+| 152 | `(Ā. 3-2)` → `(Ā. 3-7)` | SECOND-PASS S1: Kannada prints (ಆ. ೩-೭) after the Āśvalāyana sūtra |
+| 152 | `(Ā. Sū. 3-2)` → `(Ā. Sū. 3-7)` | SECOND-PASS S1: Kannada prints (ಆಶ್ವ. ಶೌ. ೩-೭) |
+| 153 | ` (Pā. Sū. 3-2-63, as read)` → `` | SECOND-PASS S2: Kannada gives the sūtra name (ಛಂದಸಿ ಸಹಃ) without a number; number not in the supplied text |
+| 153 | ` (Pā. Sū. 6-4-82, as read)` → `` | SECOND-PASS S2: Kannada gives the sūtra name (ವೇರಪೃಕ್ತಸ್ಯ) without a number; number not in the supplied text |
+| 153 | ` (Pā. Sū. 6-3-137)` → `` | SECOND-PASS S2: Kannada says only ಅನ್ಯೇಷಾಮಪಿ ದೃಶ್ಯತೇ ಎಂಬ ಪಾಣಿನಿ ಸೂತ್ರದಿಂದ, no number |
+| 153 | ` [as read, Pā. Sū. 1-3-5]` → `` | SECOND-PASS S2: Kannada gives the sūtra name (ಆದಿರ್ಇಟುಡವಃ) without a number; number not in the supplied text |
+| 155 | `(Ā. 8-[12], as read)` → `(Ā. 8-12)` | SECOND-PASS S1: Kannada prints (ಆ. ೮-೧೨); the Kannada number replaces the doubtful form |
+| 155 | `(Anu. [12-4], as read)` → `(Anu. 12-8)` | SECOND-PASS S1: Kannada prints (ಅನು. ೧೨-೮) |
+| 157 | `moving [you who were]` → `staying [you who were]` | SECOND-PASS S14: Kannada pratipadārtha ಚತಂತಂ ... ಇರುವ (ನಿನ್ನನ್ನು) = who is/stays, not moving |
+| 158 | `(Ni. [3-24?, ?])` → `(Ni. 3-19)` | SECOND-PASS S1: Kannada prints (ನಿ.೩-೧೯) for the fourteen stena names |
+| 158 | `(Ni. [1-4])` → `(Ni. 1-4)` | SECOND-PASS S1: Kannada prints (ನಿ. ೧-೪); bracket form replaced by the Kannada number |
+| 161 | `(Pā. Sū. 2-38-5 [?], as printed; small type)` → `(Pā. Sū. 2-38-5, as printed; small type)` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೨-೩೮-೫); the [?] beside it goes |
+| 164 | `([2]-6-6-1)` → `(2-6-6-1)` | SECOND-PASS S1: Kannada prints (೨-೬-೬-೧) |
+| 164 | `(Pā. Sū. 6-1-94, Vārttika [4], as read)` → `(Pā. Sū. 6-1-94-4)` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೬-೧-೯೪-೪); the Kannada form replaces the doubtful one |
+| 165 | `(Pā. Sū. 3-2-171, as read)` → `(Pā. Sū. 3-2-171-2)` | SECOND-PASS S3: Kannada prints (ಪಾ. ಸೂ. ೩-೨-೧೭೧-೨); last number missing in English |
+| 168 | `(Ni. [1-4])` → `(Ni. 1-4)` | SECOND-PASS S1: Kannada prints (ನಿ.೧-೪) |
+| 168 | `agnir vā tasmād` → `agnir mā tasmād` | SECOND-PASS S7: Kannada quotation reads ಅಗ್ನಿರ್ಮಾ ತಸ್ಮಾದೇನಸಃ ಪ್ರಮುಂಚತು and the gloss says may Agni release us; vā to mā (IAST only; this bullet has no Devanagari) |
+| 169 | `(Ni. [1-12])` → `(Ni. 2-24)` | SECOND-PASS S1: Kannada prints (ನಿ.೨-೨೪) for the water names |
+| 169 | `(Ni. [1-14])` → `(Ni. 2-27)` | SECOND-PASS S1: Kannada prints (ನಿ. ೨-೨೭) for the twenty-six horse names |
+| 169 | `(1-[8]-5-[1], as read)` → `(1-8-5-3)` | SECOND-PASS S1: Kannada prints (೧-೮-೫-೩) |
+| 169 | `dagdhvyābhimukhaḥ` → `dagdhavyābhimukhaḥ` | SECOND-PASS S7: Kannada quotation reads ದಗ್ಧವ್ಯಾಭಿಮುಖಃ (dagdhavyā, gerundive of dah); English had lost the a (IAST only) |
+| 170 | ` [as read, Pā. Sū. 3-3-113]` → `` | SECOND-PASS S2: Kannada gives the sūtra name (ಕೃತ್ಯಲ್ಯುಟೋ ಬಹುಲಂ) without a number; number not in the supplied text |
+| 170 | `(Uṇ. Sū. 1-[145], as read)` → `(Uṇ. Sū. 1-142)` | SECOND-PASS S1: Kannada prints (ಉ. ಸೂ. ೧-೧೪೨) |
+| 170 | `(Uṇ. Sū. 4-[145], as read)` → `(Uṇ. Sū. 4-484)` | SECOND-PASS S1: Kannada prints (ಉ. ಸೂ. ೪-೪೮೪) |
+| 170 | `"ajer vyaghañapoḥ" (Pā. Sū. 2-4-56, as read)` → `"ajer vyaghañapoḥ"` | SECOND-PASS S2: Kannada gives ಅಜೇವ್ರ್ಯ ಘಞ್ಪೋಃ without a number; the number 2-4-56-2 printed there belongs to the Kāśikā statement (next edit) |
+| 170 | `"valādāv ārdhadhātuke vikalpa iṣyate"` → `"valādāv ārdhadhātuke vikalpa iṣyate" (Kā. 2-4-56-2)` | SECOND-PASS S3: Kannada prints (ಕಾ. ೨-೪-೫೬-೨) after this Kāśikā statement; missing in English |
+| 173 | `Part 3, pp. 60–61 [as read, ?]` → `Part 2, pp. 60–61` | SECOND-PASS S1: Kannada prints ಋ. ಸಂ. ಭಾಗ. ೨ ... 60-61 |
+| 174 | ` (Pā. Sū. 6-2-48, as read)` → `` | SECOND-PASS S2: Kannada p. 174 gives ತೃತೀಯಾಕರ್ಮಣಿ without a number; number not in the supplied text on this page |
+| 174 | `"gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu"` → `"gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu" (Pā. Sū. 2-4-77)` | SECOND-PASS S3: Kannada prints ಗಾತಿಸ್ಥಾಘುಪಾ—(ಪಾ. ಸೂ. ೨-೪-೭೭); number missing in English |
+| 177 | `(3-9-17-1 [?], the third number 17 or 16)` → `(3-9-17-1)` | SECOND-PASS S1: Kannada prints ೩-೯-೧೭-೧ |
+| 177 | `(3-[1]-[2]-[1], as read)` → `(2-5-7-3)` | SECOND-PASS S1: Kannada prints ತೈತ್ತಿರೀಯ ಬ್ರಾಹ್ಮಣ ೨-೫-೭-೩ |
+| 177 | `*Soma* [here] from *soma abhiṣave*: the creator` → `*Soma*, the god himself: the creator` | SECOND-PASS S16: Kannada: ಸೋಮಃ—ಸೋಮದೇವನೇ, ವಿಧಾತಾ—ಸೃಷ್ಟಿಮಾಡುವನು; no derivation from soma abhiṣave |
+| 177 | `the most intelligent among the knowing ones, by his plan` → `the most intelligent among the knowing ones` | SECOND-PASS S16: Kannada: ಜ್ಞಾನಿಗಳ ಮಧ್ಯದಲ್ಲಿ ಬಹಳಮಟ್ಟಿನ ಮೇಧಾವಿಯು; nothing for by his plan |
+| 178 | ` (Pā. Sū. 7-3-78, as read)` → `` | SECOND-PASS S2: Kannada gives ಸಾಘ್ರಾಧ್ಮಾ—ಸೂತ್ರದಿಂದ without a number; number not in the supplied text |
+| 179 | ` (Pā. Sū. 6-1-45, as read)` → `` | SECOND-PASS S2: Kannada gives ಆದೇಚಉಪದೇಶೇಶಿತಿ ಎಂಬುದರಿಂದ without a number; number not in the supplied text |
