@@ -22845,6 +22845,274 @@ Come, gods, to (show your) liberality at our sacrifice with your golden-footed s
 
 When the spotted mares (पृषतीः (*pṛṣatīḥ*)), that is, deer marked with white spots, draw the chariot of these
 
+### Printed p. 557
+
+> रोहितः पृषतः पृषद्धिर्युक्तो मृगो वहति तदानीं शुभ्राः शोभमाना
+> मरुतो यांति । गच्छंति । तेषां गमने च सत्यप उदकानि वृष्टिलक्षणानि रिणन् ।
+> अरिणन् । अगच्छन् । सर्वत्र प्रवहंति ॥ री गतिरेषणयोः क्रैयादिकः । प्वादीनां
+> ह्रस्वः । छांदसोऽडभावः । समानवाक्ये निघातयुष्मदस्मदादेशा वक्तव्याः । पा.
+> ८-१-१८-५ । इति वचनादत्र पूर्वपदस्य वाक्यांतरगतत्वात्तिज्जतिज इति निघाताभावः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the gloss of the verse. When the tawny male antelope (रोहितः (*rohitaḥ*)), yoked with spotted does, carries the Maruts, then the radiant, shining Maruts go (यांति (*yāṃti*), "they move"). When they go, the waters (अपः (*apaḥ*)), in the form of rain, flow (रिणन् (*riṇan*): "they went, they flow") everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these Maruts
+- रथे (*rathe*)—in the chariot
+- पृषतीः (*pṛṣatīḥ*)—female deer marked with spots
+- यत् (*yat*)—when they carry
+- प्रष्टिः (*praṣṭiḥ*)—the swift-going
+- रोहितः (*rohitaḥ*)—the golden-coloured male deer
+- वहति (*vahati*)—when it carries them (then)
+- शुभ्राः (*śubhrāḥ*)—the radiant Maruts
+- यांति (*yāṃti*)—they move about (at that time)
+- अपः (*apaḥ*)—the waters
+- रिणन् (*riṇan*)—they flow
+
+##### भावार्थ (Bhāvārtha)
+
+When the spotted female deer carry the Maruts seated in their chariot, and when the swift, golden-coloured male deer carries them, then the radiant Maruts move about. At that time the waters flow.
+
+##### English translation
+When the spotted antelope or the swift tawny deer conveys them in their chariot, then the brilliant (Maruts) depart, and the rains have gone.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒षोमे॑ शर्य॒णाव॑त्यार्जि॒के प॒स्त्या॑वति ।  
+> य॒ुयुर्निच॑क्रया॒ नरः॑ ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुसोमे । शर्यणावति । अर्जिके । पस्यवति ।  
+> ययुः । निचक्रया । नरः ॥ २९ ॥
+
+### Printed p. 558
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुषोमे शोभनसोमयुक्त आर्जिके । ऋजीका नाम देशाः । तत्संबंधिनि
+> शर्यणावति कुरुक्षेत्रस्य जघनार्धे शर्यणावत्संज्ञॆ सरसि पस्त्या वति । पस्त्र्यमिति
+> गृहनाम । यज्ञगृहोपेते सोमपानाय नरो नेतारो मरुतो निचक्रया
+> नीचीनचक्रयावाङ्मुखं प्रवर्तमानया रथकट्टया ययुः । यांति । गच्छंति ॥
+> यातेश्छांदसो लिट् ॥ यद्वा । नरो नेतार ऋत्विज उक्तगुणविशिष्टे शर्यणावति
+> मरुद्यागाय सोममाहर्तुं निचक्रया नीचीनचक्रया शकट्या ययुः ।
+> गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+सुषोमे (*suṣome*): one that has good Soma. आर्जिके (*ārjike*): Ṛjīkā is the name of a country; in the lake called Śaryaṇāvat, belonging to it, at the rear half of Kurukṣetra, पस्त्यावति (*pastyāvati*): पस्त्या (*pastyā*) is a name for a house, so the place with sacrificial houses. To drink Soma, the leaders (नरः (*naraḥ*)), the Maruts, have come (ययुः (*yayuḥ*)) with a chariot-frame whose wheels are turned downward (निचक्रया (*nicakrayā*)), moving with the mouth downward. Alternatively: the leaders are the priests; to fetch Soma for the Marut sacrifice they go to the place described, with a cart with low wheels.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पस्तावति (*pastāvati*)—to the one with sacrificial houses
+- सुषोमे (*suṣome*)—filled with excellent Soma juices
+- आर्जिके (*ārjike*)—belonging to the country named Ṛjīka
+- शरणावति (*śaraṇāvati*)—to the bank of the lake named Śaraṇāvat
+- नरः (*naraḥ*)—the Maruts, the leaders
+- निचक्रया (*nicakrayā*)—in chariots whose wheels roll downward
+- ययुः (*yayuḥ*)—they come
+
+##### भावार्थ (Bhāvārtha)
+
+To the bank of the lake named Śaraṇāvat, which has sacrificial houses, is filled with excellent Soma juices and belongs to the country named Ṛjīka, the Maruts, the leaders, come down for the drinking of Soma in chariots whose wheels roll downward.
+
+##### English translation
+The leaders of rites have proceeded with downward chariot-wheels to the Rijika country, where lies the Sharyanavat, abounding in dwellings, and where Soma is plentifuli.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒दा ग॑च्छाथ मरुत इ॒त्था विप्रं॒ हव॑मानं ।  
+> मा॒र्डि॒केभि॒र्नाध॑मानं ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कदा । गच्छाथ । मरुतः । इत्था । विप्रं । हवमानं ।  
+> मार्डिकेभिः । नाधमानं ॥ ३१ ॥
+
+### Printed p. 559
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः इत्थेत्थमनेन प्रकारेण हवमानमाह्वयंतं स्तुवंतं नाधमानं
+> याचमानं विप्रं मेधाविनं स्तोतारं मां कदा कस्मिन्काले मार्डिकेभिः सुखहेतुभिर्धनैः सार्धं गच्छाथ । गच्छथ । विलंबं मा कृषत शीघ्रमागच्छतेति भावः ॥
+
+##### Gist of the bhāṣya
+
+"O Maruts, when will you come with riches that cause happiness to me, the wise (विप्रं (*vipraṃ*)) praiser, who thus (इत्था (*itthā*)) call and beg (नाधमानं (*nādhamānaṃ*))?" The sense is: make no delay, come quickly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- इत्था (*itthā*)—in this manner
+- हवमानं (*havamānaṃ*)—to the one who praises you and invokes you
+- नाधमानं (*nādhamānaṃ*)—who begs of you
+- विप्रं (*vipraṃ*)—to the praiser who is wise
+- कदा (*kadā*)—when
+- मार्डिकेभिः (*mārḍikebhiḥ*)—with riches that bring happiness
+- गच्छाथ (*gacchātha*)—will you come
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, when will you come, with riches that bring happiness, to the praiser who thus praises and invokes you, begs of you and is wise?
+
+##### English translation
+When, Maruts, will you repair with joy-bestowing riches to the sage thus adoring you, and soliciting (you for wealth)?
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कद्ध॑ नू॒नं क॑थप्रियो॒ यदिंद्र॒मज॑हातन ।  
+> को वः॑ सखि॒त्व ओ॑हते ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । ह । नूनं । कध्वप्रियः । यत् । इंद्रं । अजहातन ।  
+> कः । वः । सखित्वे । ओहते ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कथप्रियः कथया स्तुत्या प्रीयमाणाः ॥ कथॆ वाक्यप्रबंधने । अस्माद्भावे
+> चिंतिपूजीत्यादिनाज् । ततष्टाप् । उत्तरपदे ज्यापोः संज्ञाच्छंदसोरिति ह्रस्वत्वं ।
+
+##### Gist of the bhāṣya
+
+कथप्रियः (*kathapriyaḥ*): O you who are pleased by *kathā*, that is, praise (the root कथॆ (*kathè*) in the sense of composing speech).
+
+### Printed p. 560
+
+> धत्वं छांदसं ॥ ईदृशा हे मरुतः वृत्रेण सह युध्यमानमिंद्रं नूनं सत्यमजहातन पर्यत्यजतेति यदेतत् तत्कद्ध कदा खलु कस्मिन्काले जातं । न कदाचिदपीत्यर्थः । तथा च ब्राह्मणं । मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्व।
+> ऐ. ब्रा. ३-२० । इति । वृत्रस्य त्वा श्वसथादीषमाणाः । ऋ. ८.९६-७ । इत्यादि च निगमांतरं । यत एवमतः कारणाद्वो युष्माकं सखित्वे ॥ व्यत्ययेन सप्तमी ॥ सखिभावं कः स्तोतौहते । याचते । यद्वा । वहते । प्राप्नोति । ईदृशमनपायं
+> युष्मत्सखित्वं दुर्लभमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The lengthening and the ध (*dha*) are Vedic. O Maruts, such as you are: that you really abandoned Indra while he fought with Vṛtra — when did that ever happen? Never. So too the Brāhmaṇa: मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्व। (*maruto hainaṃ nājahuḥ prahara bhagavo jahi vīrayasva|*) (Ai. Brā. 3-20), and another text: वृत्रस्य त्वा श्वसथादीषमाणाः (*vṛtrasya tvā śvasathādīṣamāṇāḥ*) (Ṛ. 8.96-7). Since this is so, what praiser (कः (*kaḥ*)) begs (ओहते (*ohate*): or, obtains) your friendship (सखित्वे (*sakhitve*), a locative used for the accusative)? The sense: such unfailing friendship with you is hard to obtain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कधप्रियः (*kadhapriyaḥ*)—O Maruts, who are pleased by praises
+- इंद्रं (*iṃdraṃ*)—Indra, who was fighting with Vṛtra
+- नूनं (*nūnaṃ*)—certainly
+- अजहातन (*ajahātana*)—that you abandoned
+- यत् (*yat*)—what rumour there is, that
+- कद्ध (*kaddha*)—when did it happen
+- वः (*vaḥ*)—your
+- सखित्वे (*sakhitve*)—friendship
+- कः (*kaḥ*)—which praiser
+- ओहते (*ohate*)—can obtain by begging
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, lovers of praise, the rumour that you certainly abandoned Indra while he was fighting with Vṛtra — when did that happen? (Never.) Which praiser can obtain your friendship by begging?
+
+##### English translation
+When was it, Maruts, who are gratified by praise, that you really deserted Indra? who is there that enjoys your friendship?
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हो षु णो॒ वज्र॑हस्यैः॒ कण्वा॑सो अ॒ग्निं म॒रुद्भिः॑ ।  
+> स्तु॒षे हिर॑ण्यवाशीभिः ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहो इति । सु । नः । वज्रहस्तैः । कण्णासः । अग्निं । मरुत्भिः ।  
+> स्तुषे । हिरण्यवाशीभिः ॥ ३२ ॥
+
+### Printed p. 561
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वज्रहस्तैर्वज्रबाहुभिर्हिरण्यवाशीभिः । हिरण्मयी वाशी तक्षणसाधनमायुधं
+> येषामस्ति तादृश्यैः । मरुद्भिः सहो सहैव वर्तमानमग्निं नोऽस्मदीया हे
+> कण्वासः कण्वाः स्तोतारः कण्वगोत्रा वर्षयः यूयं स्तुषे । स्तुध्वं । यद्वा । न
+> इति प्रथमार्थे द्वितीया । नो वयं कण्वगोत्राः ॥ अस्मदो द्वयोश्च ॥ पा. १-
+> २-५९ । इत्येकस्मिन् बहुवचनं । सविशेषणस्य प्रतिषेधः । का. १-२-५९-१ । इति तु व्यत्ययेन प्रवर्तते ॥ स्तुषे । स्तुवे ॥ स्तौतेरुत्तमैकवचने सिब्बहुलमिति सिप् ॥
+
+##### Gist of the bhāṣya
+
+वज्रहस्तैः (*vajrahastaiḥ*): with those who have the thunderbolt in their arms; हिरण्यवाशीभिः (*hiraṇyavāśībhiḥ*): those who have a golden वाशी (*vāśī*), a weapon serving for cutting. With such Maruts, Agni who is together with them — O Kaṇvas, our praisers, seers of the Kaṇva line — you praise (स्तुषे (*stuṣe*) = स्तुध्वं (*studhvaṃ*)). Or else: नः (*naḥ*) is an accusative in the sense of the nominative: "we, of the Kaṇva line"; the plural for the singular is by Pā. Sū. 1-2-59 (the rule of exclusion with a qualified word is stated as Kā. 1-2-59-1, but works here by exchange). स्तुषे (*stuṣe*) means "I praise".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—belonging to us
+- कण्वासः (*kaṇvāsaḥ*)—O seers born in the Kaṇva line
+- वज्रहस्तैः (*vajrahastaiḥ*)—with those who have the thunderbolt in their arms
+- हिरण्यवाशीभिः (*hiraṇyavāśībhiḥ*)—who have a whip made of gold
+- मरुद्भिः सहो (*marudbhiḥ saho*)—together with the Maruts
+- अग्निं (*agniṃ*)—Agni
+- सु स्तुषे (*su stuṣe*)—praise exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O seers born in the Kaṇva line, who belong to us, praise exceedingly Agni, who is together with the Maruts, who hold the thunderbolt in their arms and a whip made of gold.
+
+##### English translation
+You of our race of Kanwa, praise Agni together with the Maruts, bearing the thunderbolt in their hands, and armed with golden lances.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ षु वृष्णः॒ प्रय॑ज्यू॒ना नव्य॑से सुवि॒ताय॑ ।  
+> व॒वृ॒त्यां चि॒त्रवा॑जान् ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओ इति । सु । वृष्णः । प्रयज्यून् । आ । नव्यसे । सुविताय ।  
+> ववृत्यां । चित्रवाजान् ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 562
+
+> वृष्णो वर्षित्थनभीष्टफलदान् प्रयज्यून् प्रकर्षेण यष्टव्यान् चित्रवाजान् विचित्रगमनान् विचित्रबलान् विचित्रधनान्वा एवंभूतान्मरुतः सु सुष्टो
+> आ उ ववृत्यां । आवर्तयामि । अस्मदभिमुखं यथा गच्छंति तथा करोमि । अपि च
+> सव्यसे नवीयसे नवतरायात्यंतं प्रशस्ताय सुविताय सुष्टु प्राप्तव्याय धनाय
+> च ताना ववृत्यां । आवर्तयामि ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are showerers who give desired fruit, worthy of the highest worship, of wonderful movement, wonderful strength or wonderful wealth. I turn them well (ववृत्यां (*vavṛtyāṃ*)) toward us, I make them go so as to come to us. Moreover, for the newest (नव्यसे (*navyase*)), that is, highly praised, सुविताय (*suvitāya*), wealth that is well to be obtained, I turn them hither.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृष्णः (*vṛṣṇaḥ*)—the givers of desired things
+- प्रयज्यून् (*prayajyūn*)—the praiseworthy, worthy of worship
+- चित्रवाजान् (*citravājān*)—who have many kinds of wealth, the Maruts
+- सु (*su*)—exceedingly
+- ओ ववृत्त्यां (*o vavṛttyāṃ*)—I make them come toward us
+- नव्यसे (*navyase*)—most praiseworthy
+- सुविताय (*suvitāya*)—for the gain of wealth
+- आ (ववृत्त्यां) (*ā (vavṛttyāṃ)*)—I bring them
+
+##### भावार्थ (Bhāvārtha)
+
+I make the Maruts, who give what is desired, are worthy of praiseworthy worship and have many kinds of wealth, come exceedingly toward us. For the sake of the most praiseworthy gain of wealth I bring them.
+
+##### English translation
+I bring to my presence, for the sake of most excellent prosperity, the showrers (of desires), the adorable (Maruts), the possessors of wonderful strength.
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गि॒रय॑श्चि॒न्नि जि॑हते॒ पर्शा॑नासो॒ मन्य॑मानाः ।  
+> पर्व॑ताच्चि॒न्नि ये॑मिरे ॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरयः । चित् । नि । जिहते । पर्शानासः । मन्यमानाः ।  
+> पर्वताः । चित् । नि । येमिरे ॥ ३४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 556. pp. 551-556 (batch API)
+**Progress note:** Done through printed p. 562. pp. 557-562 (batch API)
