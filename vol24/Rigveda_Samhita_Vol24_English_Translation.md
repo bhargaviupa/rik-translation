@@ -11754,6 +11754,293 @@ Drink, Medhyatthi, and in the exhilaration of the draught sing to Indra, to him 
 
 That Indra who is सुषव्यः (*suṣavyaḥ*), glossed as having a beautiful left hand; who is सुदक्षिणः (*sudakṣiṇaḥ*); who is इनः (*inaḥ*), a lord, for the word is read among the names of lords (the text says इतीश्वरनामसु पातात् (*itīśvaranāmasu pātāt*) **NOTE**); who is सुक्रतुः (*sukratuḥ*), of good understanding; who is the maker of thousands, of many things; who is शतमघः (*śatamaghaḥ*), of much wealth; who is पूर्भित् (*pūrbhit*), the breaker of cities; and who is आरितः (*āritaḥ*), glossed पत्यृतः स्तोमान् (*patyṛtaḥ stomān*). Yāska says accordingly: य आरितः कर्मण्यकर्मणि स्थिरः पत्यृतः स्तोमान् । (*ya āritaḥ karmaṇyakarmaṇi sthiraḥ patyṛtaḥ stomān |*) (Ni. 5-15) **GLOSS** That Indra is praised by us.
 
+### Printed p. 262
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- सुषव्यः (*suṣavyaḥ*)—who has an excellent left hand
+- सुदक्षिणः (*sudakṣiṇaḥ*)—who has an excellent right hand
+- इनः (*inaḥ*)—who is the lord of the world
+- यः (*yaḥ*)—who
+- सुक्रतुः (*sukratuḥ*)—who has excellent understanding
+- यः (*yaḥ*)—who
+- सहस्रा (*sahasrā*)—for acts of many kinds
+- आकरः (*ākaraḥ*)—who is the performer
+- यः (*yaḥ*)—who
+- शतमघः (*śatamaghaḥ*)—who has manifold wealth
+- यः (*yaḥ*)—who
+- पूर्भित् (*pūrbhit*)—who destroys the cities of enemies
+- अरितः (*aritaḥ*)—who is gratified by praise, Soma and the like
+- इंद्रः (*iṃdraḥ*)—that same Indra
+- गृणे (*gṛṇe*)—is praised by us
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra who has an excellent left hand, who has an excellent right hand, who is the lord of the world, who has excellent understanding, who is the performer of acts of many kinds, who has manifold wealth, who destroys the cities of enemies, who is gratified by praise, Soma and the like, that same Indra is praised by us.
+
+##### English translation
+He who is well-handed, both left and right, who is the lord, who is wise, the performer of numerous great acts, the giver of vast wealth, Indra, who is the demolisher of cities, who is gratified by praise, is glorified (by us).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो धृ॑षि॒तो योऽवृ॑तो॒ यो अस्ति॒ श्मश्रु॑षु श्रि॒तः ।  
+> विभू॑तद्युम्न॒श्चव॑नः पुरुष्टु॒तः क्रत्वा॒ गौरि॑व शाकि॒नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । धृषितः । यः । अवृतः । यः । अस्ति । श्मश्रुषु । श्रितः ।  
+> विभूतद्युम्नः । च्यवनः । पुरुस्तुतः । क्रत्वा । गौs इव । शाकिनः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो धृषितः शत्रूणां धर्षयिता । यश्चावृतः शत्रुभिरपरिवृतः । यश्चापि
+> श्मश्रुषु युद्धेषु । श्रवः श्रयंत्यस्मिन्निति व्युत्पत्तेः श्मश्रु युद्धमिति वृद्धावदंति ।
+
+### Printed p. 263
+
+> श्रितोऽस्ति भवति । यश्चापि विभूतम्यन्नुः प्रभूतधनः । यश्च च्यवनः सोमानां
+> च्यावयिता । यश्चापि पुरुष्टुतो बहुस्तुतः । स इंद्रः क्रत्वा कर्मणा शाकिनः
+> शक्तस्य यजमानस्य गौरिव यथा गौः पयसो दोग्ध्री तथा कामानां दोग्धा
+> भवति ॥
+
+##### Gist of the bhāṣya
+
+Indra is the one who subdues (धृषितः (*dhṛṣitaḥ*)) enemies; the one not encircled (अवृतः (*avṛtaḥ*)) by enemies; and the one who is engaged (श्रितोऽस्ति (*śrito 'sti*), "is, exists") in battles (श्मश्रुषु (*śmaśruṣu*)): by derivation, because renown resorts to it, the word for "beard" means battle, as the elders say. He is of abundant wealth (विभूतम्यन्नुः (*vibhūtamyannuḥ*), glossed प्रभूतधनः (*prabhūtadhanaḥ*)) **NOTE**. He is the one who makes the Soma fall (च्यावयिता (*cyāvayitā*)) **NOTE**; and much praised (बहुस्तुतः (*bahustutaḥ*)). That Indra, by his act, becomes for the able sacrificer a giver of desires, as a cow is a giver of milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- धृषितः (*dhṛṣitaḥ*)—who beats down enemies
+- यः (*yaḥ*)—who
+- अवृतः (*avṛtaḥ*)—who is not surrounded by enemies
+- यः (*yaḥ*)—who
+- श्मश्रुषु (*śmaśruṣu*)—in battles
+- श्रितः अस्ति (*śritaḥ asti*)—is engaged
+- विभूतद्युम्नः (*vibhūtadyumnaḥ*)—who is possessed of very abundant wealth
+- च्यवनः (*cyavanaḥ*)—who desires Soma
+- पुरुष्टुतः (*puruṣṭutaḥ*)—who is praised by many (that same Indra)
+- गौः इव (*gauḥ iva*)—as a cow gives milk abundantly
+- क्रत्वा (*kratvā*)—by his acts
+- शाकिनः (*śākinaḥ*)—provides abundant wealth to the sacrificer who is able in rites
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra who beats down enemies, who is not surrounded by enemies, who is engaged in battles, who possesses very abundant wealth, who desires Soma and is praised by many, that same Indra, as a cow gives milk abundantly, provides by his acts abundant wealth to the sacrificer who is able in rites.
+
+##### English translation
+He who is the subduer (of foes), the unresisted, practised in combats possessed of vast wealth, the demander of the libation, the praised of many who by his acts (of bounty) is like a milch cow to the competent (worshipper).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क ईं॑ वेद सु॒ते सचा॒ पिबं॑तं॒ कद्वयो॑ दधे ।  
+> अ॒यं यः पुरो॑ विभि॒नत्तोज॑सा मंदा॒नः शि॒प्र्यंध॑सः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । ईं । वेद । सुते । सचा । पिबंतं । कत् । वयः । दधे ।  
+> अयं । यः । पुरः । विभिनत्ति । ओजसा । मंदानः । शिप्री । अंधसः ॥ ७ ॥
+
+### Printed p. 264
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतेऽभिसुते सोमे सचर्त्विजा सह सोमं पिबंतमीमेनमिंद्र ।
+> को वेद । वेत्ति । न कोऽपि वेत्तीत्यर्थः । कत् किं वा वयोऽन्नं दधे । धारयति ।
+> योऽयमिंद्रः शिप्री हनूमानंधसः सोमेन मंदानो मंदमान ओजसा
+> बलेन पुरो विभिनत्ति ॥
+
+##### Gist of the bhāṣya
+
+When the Soma has been pressed, who knows this Indra drinking the Soma together with the priests? No one knows, is the sense. What food does he hold, that is, carry? This Indra, who has fine jaws, exhilarated by the Soma, splits the cities by his might.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुते (*sute*)—when the Soma has been pressed and made ready
+- सचा (*sacā*)—together with the priests
+- पिबंतं (*pibaṃtaṃ*)—who drinks the Soma
+- ईं (*īṃ*)—this Indra
+- कः (*kaḥ*)—who indeed
+- वेद (*veda*)—knows
+- कत् वयः (*kat vayaḥ*)—what kind of food
+- दधे (*dadhe*)—Indra holds in his belly
+- यः (*yaḥ*)—who
+- शिप्री (*śiprī*)—who has excellent cheeks
+- अयं (*ayaṃ*)—this same Indra
+- अंधसः (*aṃdhasaḥ*)—by the drinking of Soma
+- मंदमानः (*maṃdamānaḥ*)—rejoicing
+- ओजसा (*ojasā*)—by his strength
+- पुरः (*puraḥ*)—the cities of enemies
+- विभिनत्ति (*vibhinatti*)—splits
+
+##### भावार्थ (Bhāvārtha)
+
+When the Soma has been pressed and made ready, who indeed knows this Indra, who drinks the Soma together with the priests? What kind of food does this Indra hold in his belly? This same Indra, who has excellent cheeks, rejoicing in the drinking of Soma, splits the cities of enemies by his strength.
+
+##### English translation
+Who knows him drinking with (the priests) when the Soma is effused? what food has he partaken of ? he, the handsome-jawed, who, exhilarated by the (sacrificial) beverage, destroys cities by his might.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दा॒ना मृ॒गो न वा॑र॒णः पु॑रु॒त्रा च॒रथं॑ दधे ।  
+> नकि॑ष्ट्वा॒ नि य॑म॒दा सु॒ते ग॑मो म॒हांश्च॑र॒स्योज॑सा ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दाना । मृगः । न । वारणः । पुरुत्रा । चरथं । दधे ।  
+> नकिः । त्वा । नि । यमत् । आ । सुते । गमः । महान् । चरसि । ओजसा ॥ ८ ॥
+
+### Printed p. 265
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मृग शत्रुणामन्येषको दारणोगजो दाना मदजलानीव पुरुत्रा बहुषु
+> यत्नेषु चरणं चरणशीलं मदं दधे ! इंद्रो धारयति । अथ प्रत्यक्षस्तुतिः । हे
+> इंद्र त्वा त्वां नकिर्नि यमत् । न कश्चिन्नियच्छति । सुते सोम आ गमः । आगच्छ ।
+> महान् हि त्वमोजसा बलेन सर्वतश्चरसि ॥
+
+##### Gist of the bhāṣya
+
+The seeker of enemies, the rending elephant, as with streams of rut-fluid, in many efforts holds an exhilaration that moves about: so Indra holds it. Then follows a direct praise: O Indra, no one restrains you. Come to the pressed Soma. For you are great and move about everywhere by your might.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मृगः (*mṛgaḥ*)—that seeks out hostile creatures
+- वारणः न (*vāraṇaḥ na*)—an elephant
+- दाना (*dānā*)—as it pours forth its rut-fluid
+- पुरुत्रा (*purutrā*)—in many sacrifices
+- चरथं (*carathaṃ*)—the exhilaration that is displayed
+- दधे (*dadhe*)—Indra holds
+- त्वा (*tvā*)—you (O Indra)
+- नकिः नि यमत् (*nakiḥ ni yamat*)—no one can restrain
+- सुते (*sute*)—when the Soma has been pressed and made ready
+- आ गमः (*ā gamaḥ*)—be pleased to come
+- महान् (*mahān*)—you, the great one
+- ओजसा (*ojasā*)—by your strength
+- चरसि (*carasi*)—you move about
+
+##### भावार्थ (Bhāvārtha)
+
+As an elephant that seeks out hostile creatures pours forth its rut-fluid, Indra holds in many sacrifices the exhilaration that is displayed. O Indra, no one can restrain you. Be pleased to come when the Soma has been pressed and made ready. You, the great one, move about by your own strength.
+
+##### English translation
+As a wild elephant emitting the dews of passion, he manifests his exhilaration in many places: no one checks you, (Indra), come to the libation; you are mighty, and go (everywhere) through your strength.
+
+#### Ṛk 9
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒ग्रः सन्ननि॑ष्टृतः स्थि॒रो रणा॑य॒ संस्कृ॑तः ।  
+> यदि॑ स्तो॒तुर्म॒घवा॑ शृ॒णव॒द्धवं॒ नेंद्रो॑ योष॒त्या ग॑मत्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उग्रः । सन् । अनिःस्तृतः। स्थिरः । रणाय । संस्कृतः ।  
+> यदि । स्तोतुः । मघवा । शृणवत् । हवं । न । इंद्रः । योषति । आ । गमत् ॥
+
+### Printed p. 266
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य उग्र उद्धूर्ण ओजस्वी ना सन् भवन्ननिष्टृतः शत्रुभिरनिस्तीर्णः स्थिरोऽचलो रणाय युद्धाय संस्कृतः शस्त्रैरलंकृतः सोमैर्वा संस्कृतः स इंद्रो
+> मघवा धनवान् यदि स्तोतुर्हवमाह्वानं शृणवत् शृणोति तर्हन्यत्र न योषति ।
+> न गच्छति । किंत्वा गमत् । तत्रैवागच्छति ॥
+
+##### Gist of the bhāṣya
+
+That Indra who is fierce, mighty and vigorous, being unopposed by enemies, firm and immovable, equipped for battle, adorned with weapons or prepared with Somas; that wealthy Indra, if he hears the invocation of the praiser, then does not go elsewhere. He comes only there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- उग्रः सन् (*ugraḥ san*)—being of exceeding strength
+- अनिष्टृतः (*aniṣṭṛtaḥ*)—not withstood by enemies
+- स्थिरः (*sthiraḥ*)—and immovable
+- रणाय (*raṇāya*)—for battle
+- संस्कृतः (*saṃskṛtaḥ*)—adorned with weapons
+- इंद्रः (*iṃdraḥ*)—that same Indra
+- मघवा (*maghavā*)—being possessed of exceeding wealth
+- यदि (*yadi*)—at whatever time
+- स्तोतुः (*stotuḥ*)—of the praiser
+- हवं (*havaṃ*)—the invocation
+- शृणवत् (*śṛṇavat*)—he hears (then)
+- न योषत् (*na yoṣat*)—he certainly does not go from this place to another
+- आ गमत् (*ā gamat*)—he certainly comes to this sacrificial ground
+
+##### भावार्थ (Bhāvārtha)
+
+That Indra who is of exceeding strength, not withstood by enemies, immovable and adorned with weapons for battle, that same Indra, who is possessed of exceeding wealth, at whatever time he hears the invocation of the praiser, does not then go from that place to another. He certainly comes to this sacrificial ground.
+
+##### English translation
+He who is fierce, unmoved (by foes) and firm, ready equipped for battle,—if Maghavan hears the invocation of his adorer, he will not go apart (from us) but come hither.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यमि॒त्था वृषेद॑सि॒ वृष॑जूति॒र्नोऽवृ॑तः ।  
+> वृषा॒ ह्यु॑ग्र शृण्वी॒षे प॑रा॒वति॒ वृषो॑ अर्वा॒वति॑ श्रु॒तः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यं । इत्था । वृषा । इत् । असि । वृषजूतिः । नः । अवृतः ।  
+> वृषा । हि । उग्र । शृण्वषे । परावति । वृषो इति । अर्वावति । श्रुतः ॥ १० ॥
+
+### Printed p. 267
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रोद्गर्णेंद्र त्वं सत्यमित्थेत्थं वृषेत्कामानां वर्षक एवासि ।
+> वृषजूतिर्वृषभिरा कृष्णो नोऽस्माकमवृतः शत्रुभिरपरिवृतश्चासि । वृषा हि सेचक
+> एव श्रुत्वा । श्रूयसे । परावति दूरेऽपि वृषैनार्वावति समीपेऽपि वृषा सेचक
+> एव श्रुतः । वृषैनाश्रूयथाः ॥
+
+##### Gist of the bhāṣya
+
+O fierce Indra, you are truly, in this way, a showerer of desires. You are drawn to us by vigorous ones **NOTE**, and you are unencircled by enemies. For you are heard of as a showerer, as one who sprinkles: far away you are a showerer, and near by you are heard of as a showerer who sprinkles.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—O Indra, of wondrous power
+- इत्था (*itthā*)—in this way
+- वृषेत् (*vṛṣet*)—you are a showerer of desires
+- असि (*asi*)—you are
+- नः (*naḥ*)—to us
+- वृषजूतिः (*vṛṣajūtiḥ*)—brought by horses
+- अवृतः (*avṛtaḥ*)—you are not surrounded by enemies
+- वृषा हि (*vṛṣā hi*)—you are celebrated as the giver of what is desired
+- शृण्वीषे (*śṛṇvīṣe*)—you are famed
+- परावति (*parāvati*)—even when in a far-off region
+- आर्वावति (*ārvāvati*)—even when in a near region
+- श्रुतः (*śrutaḥ*)—you are renowned as a showerer of desires
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of wondrous power, in this way you are a showerer of desires. Brought to us by horses, you are not surrounded by enemies. Whether you are in a far-off region or in a near one, you are renowned as a showerer of desires.
+
+##### English translation
+Verily (Indra), in this manner you are the showerer (of benefits), brought by vigorous (steeds) to us, unarrested (by foes); fierce (Indra), you are celebrated as a showerer (of benefits) when afar; you are celebrated as a showerer (of benefits) when nigh.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृष॑णस्ते अ॒भीश॑वो॒ वृषा॒ कशा॑ हिर॒ण्यया ॑।  
+> वृषा॒ रथो॑ मघव॒न्वृष॑णा॒ हरी॒ वृषा॒ त्वं श॑तक्रतो ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषणः । ते । अभीशवः । वृषा । कशा । हिरण्यया ।  
+> वृषा । रथः । मघवन् । वृषणा । हरीइति । वृषा । त्वं । शतक्रतो इति  
+> शतक्रतो ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 261. Ṛk 28-30 of Sūkta 32; Sūkta 33 Ṛk 1-5 (pp. 254-261)
+**Progress note:** Done through printed p. 267. Sūkta 33 Ṛk 5 (Pratipadārtha) to Ṛk 11 (pp. 262-267)
