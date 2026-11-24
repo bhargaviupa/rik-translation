@@ -4643,6 +4643,267 @@ By this Ṛk the seer says that he has received the wealth. नार्यस�
 - सहस्रवत् (*sahasravat*)—numbering thousands
 - राधः चॆ (*rādhaḥ cè*)—food and wealth also, may they come and join us
 
+### Printed p. 104
+
+##### भावार्थ (Bhāvārtha)
+
+May the gift given by Varu, the son of Narya who is good for men, come and join us, the sacrificers who offer soma and the sons of Vyaśva. May food and wealth also, abundant, numbering hundreds and numbering thousands, come and join us.
+
+##### English translation
+May the gifts of a humane (prince), when offering the soma libation extend to the Vyshwas, and substantial wealth by hundreds and thousand.
+
+##### विशेषविषयगळु (Special Topics)
+
+सोमिनः (*sominaḥ*) may also be construed as an epithet of Varu, so that the sense is "the gift of Varu, who is himself the sacrificer".
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्त्वा॑ पृ॒च्छादी॑जा॒नः कु॑ह॒या कु॑हयाकृते ।  
+> ए॒षो अप॑श्रितो व॒लो गो॑म॒तीमव॑ तिष्ठति ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । त्वा । पृच्छात् । ईजानः । कुहया । कुहयाकृते ।  
+> एषः । अपश्रितः । वलः । गोऽमतीं । अव । शिष्ठति ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदानीमुषसं संबोध्याभिधीयते । हे कुहयाकृते स वरुः कुह
+> कुत्र तिष्ठतीतेतदिच्छयाभिलक्षणप्रवृत्तैर्जिज्ञासुभिः पुरस्कृते ॥ कुहशब्दात्क्यच् ॥
+> एतादृशे हे उषः त्वा त्वां यद्यदा कश्चित्पृच्छात् पृच्छति ईजान इष्टवान् वरुः
+> कुहया क्व तिष्ठतीति यदा पृच्छति तदानीमपश्रितः सर्वैराश्रितः । यद्वा । विवृतद्वारः ।
+> यदा याचमाना आगच्छंति तदा दौवारिका न प्रतिबध्नंतीत्यर्थः । तादृशो बलो
+> वरः स्वबलेनावारकः शत्रूणां । यद्वा । भिक्षूणां धनादिप्रदानेनावरिता। एषो एष
+> वरुर्गॊमतीमेतन्नामिकां नदीं ॥ कालाध्वनोरिति द्वितीया ॥ तस्तास्तीरेव
+> तिष्यतीति तदानीं त्वं कथयसि ॥
+
+##### Gist of the bhāṣya
+
+Now Uṣas is addressed. O कुहयाकृते (*kuhayākṛte*), you who are put forward, that is, questioned, by inquirers who set out with the wish to know "Where does that Varu stay?" (the word is formed from कुह (*kuha*), "where"). O Uṣas, when anyone asks you where the sacrificer Varu stays, then you say as follows. He is resorted to by all (अपश्रितः (*apaśritaḥ*)); or else, he has open doors: when petitioners come, the doorkeepers do not obstruct them. Such a Varu averts enemies by his own strength; or else, he is one who keeps the beggars from want by giving wealth and the like. This Varu stays on the very banks of the river named Gomatī.
+
+### Printed p. 105
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कुहयाकृते (*kuhayākṛte*)—O Uṣas, who are questioned about Varu as to where he is
+- ईजानः (*ījānaḥ*)—Varu, the sacrificer
+- कुहया (*kuhayā*)—where he is
+- यत् (*yat*)—when
+- त्वा (*tvā*)—you
+- पृच्छात् (*pṛcchāt*)—one asks, then
+- अपश्रितः (*apaśritaḥ*)—the refuge of all
+- वलः (*valaḥ*)—and one who faces enemies
+- एषः (*eṣaḥ*)—this Varu
+- गोमतीं (*gomatīṃ*)—on the bank of the river Gomatī
+- अव तिष्ठति (*ava tiṣṭhati*)—is staying (say so)
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, who are questioned about Varu as to where he is: if anyone asks you, "Where is Varu, the sacrificer?", then tell him, "Varu, the refuge of all, is on the bank of the river Gomatī."
+
+##### English translation
+If any ask of you, (Ushas), when anywhere present, where the sacrificer (Varu dwells), (reply) the powerfull (prince), the refuge of all, abides on (the banks of) the Gomathi river.
+
+## Sūkta 25 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता वामिति चतुर्विंशत्यृचं पंचमं सूक्तं । अत्रेयमनुक्रमणिका । ता
+> वां चतुर्विंशतिर्मृत्रावरुणं दशम्याद्यास्तिस्रो वैश्वदेव्य उपांत्योष्टिग्र्भेति ।
+> व्यश्वपुत्रो विश्वमना ऋषिः । उष्णिक् छंदः । उपांत्योष्टिग्र्भा षट्सप्तैकादशा उष्णिग्र्भा । अनु. ४-३ । इति तल्लक्षणोपेतत्वात् । दशम्येकादशीद्वादश्यो
+> वैश्वदेव्योऽवशिष्टानां मित्रावरुणौ देवता ॥ सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning ता वां (*tā vāṃ*) has twenty-four Ṛks and is the fifth sūkta. On it he cites the Anukramaṇikā: the twenty-four Ṛks are addressed to Mitrāvaruṇa, the three beginning with the tenth are Vaiśvadevī, and the last but one is of the uṣṇig-garbhā metre. The seer is Viśvamanas, the son of Vyaśva; the metre is uṣṇik. The last-but-one Ṛk is uṣṇig-garbhā because it has the marks "six, seven, eleven" (Anu. 4-3). The tenth, eleventh and twelfth are Vaiśvadevī; Mitrāvaruṇa is the deity of the rest. The use of the sūkta is by indication (लैंगिकः (*laiṃgikaḥ*)). **NOTE**
+
+##### Anuvāda
+
+This sūkta, beginning ता वां (*tā vāṃ*), is the fifth sūkta in the fourth anuvāka. It has twenty-four Ṛks. The Anukramaṇikā is quoted to the effect that the twenty-four Ṛks are addressed to Mitrāvaruṇa, with the three beginning with the tenth to the Viśvedevas, and that the last but one is of the uṣṇig-garbhā metre. The seer of this sūkta is Viśvamanas, the son of Vyaśva. The deity of the tenth, eleventh and twelfth Ṛks is the Viśvedevas; the deity of the remaining Ṛks is Mitrāvaruṇa; the metre is uṣṇik.
+
+### Printed p. 106
+
+The Ṛk before the last, that is, the twenty-third Ṛk, is of the metre called uṣṇig-garbhā. If a Ṛk has three pādas, with six syllables in the first pāda, seven in the second and eleven in the third, that Ṛk is of the metre called uṣṇig-garbhā. The use of the sūkta is by indication (laiṅgika).
+
+##### Particulars
+
+Sūkta 25. Maṇḍala 8, Anuvāka 4, Sūkta 25. Aṣṭaka 6, Adhyāya 2, Vargas 21, 22, 23, 24, 25. Number of Ṛks in the sūkta: 24. Seer: Viśvamanas Vaiyaśva. Deity: 1-9 and 13-24 Mitrāvaruṇau; 10-12 Viśvedevāḥ. Metre: 1-22 and 24 Uṣṇik; 23 Uṣṇig-garbhā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वां॒ विश्व॑स्य गो॒पा दे॒वा दे॒वेषु॑ य॒ज्ञिया॑ ।  
+> ऋ॒तावा॑ना यजसे पू॒तद॑क्षसा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । विश्वस्य । गोपा । देवा । देवेषु । यज्जिया ।  
+> ऋतऽवाना । यजसे । पूतदक्षसा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ विश्वस्य सर्वस्य लोकस्य गोपा गोपायितार् देवा देवौ
+> द्योतनशीलौ देवेषु मध्यॆ यज्ञिया यज्ञार्हौ ता तौ तादृशौ वां युवां
+> हविष्पदानार्थं यजमानं भजथः । आत एव हे विश्वमनः ऋतावानर्तावान्
+> सत्यवंतौ यज्ञवंतौ वा पूतदक्षसौ शुद्धबलौ । आवां बलवंताविति वचनमात्रेण
+> बलवंतौ न भवतः किंतु यथार्थत्वेन सामर्थ्यवंतौ । मित्रावरुणौ यजसे ।
+> हविर्भिः पूजयसि ॥
+
+##### Gist of the bhāṣya
+
+O Mitrāvaruṇa, guardians of the whole world, shining ones, worthy of sacrifice among the gods: such as you are, you attend the sacrificer so that he may offer the oblation. Therefore, O Viśvamanas, address them: they are truthful or possessed of sacrifice, and of pure strength. They are not strong merely by the saying "we are strong", but able in truth. You worship Mitrāvaruṇa with oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—the shining ones
+- देवेषु (*deveṣu*)—among the gods
+- यज्ञिया (*yajñiyā*)—worthy of worship
+- ता (*tā*)—O renowned Mitrāvaruṇa
+- वां (*vāṃ*)—you two alone
+- विश्वस्य (*viśvasya*)—of all the worlds
+
+### Printed p. 107
+
+- गोपा (*gopā*)—you are the protectors (O seer Viśvamanas)
+- यतावाना (*yatāvānā*)—the truthful
+- पूतदक्षसा (*pūtadakṣasā*)—those of pure strength, Mitrāvaruṇa, to them alone
+- यजसे (*yajase*)—worship, addressing yourself
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitrāvaruṇa, shining, worthy of worship among the gods, and renowned, you two alone are the protectors of all the worlds. O seer Viśvamanas, worship, addressing yourself to them, Mitrāvaruṇa, who are truthful and of pure strength.
+
+##### English translation
+You two are the protectors of the universe, divine, and to be adored among the gods; therefore, (Vyshwamanas), you sacrifice to the pair who are observant of truth and endowed with real power.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रा तना॒ न र॒थ्या॒३॒॑ ३ वरु॑णो॒ यश्च॑ सु॒क्रतुः॑ ।  
+> स॒नात्सु॑जा॒ता तन॑या धृ॒तव्र॑ता ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रा । तना । न । रथ्या । वरुणः । यः । च । सुक्रतुः ।  
+> सनात् । सुजाता । तनया । धृतव्रता ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुक्रतुः शोभनकर्मा यो वरुणः सुकर्मा मित्रा च मित्रावरुणौ ।
+> कीदृशौ । तना । तन्नंति मुकुटकटकादिनेति तनानि धनानि । नश्चार्थे । धनानि च रथ्या
+> रथ्यौ नेतारौ । यद्वा । धनानि कर्मणः कर्तृपेक्षत्वात् प्रयच्छंताविति संबध्यते ।
+> तादृशौ रथ्यौ रथवंतौ सनाच्चिरादेव सुजाता सुजात् शोभनजन्मानौ । तदेवाह ।
+> तनया तनयावदितेः पुत्रौ धृतव्रता धृतव्रतौ धृतकर्माणौ ता यजस इति
+> पूर्वेण समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Mitra, and Varuṇa who is of good action (सुक्रतुः (*sukratuḥ*)): the two Mitrāvaruṇa. Of what kind? तना (*tanā*): that which is stretched, such as crowns and bracelets, that is, riches; the word na here stands for "and". They are the leaders (रथ्या (*rathyā*)) of riches; or else, since an act depends on its doer, the construction is that they bestow riches. Such possessors of chariots are, from of old, of good birth (सुजाता (*sujātā*)). He states the same: they are the sons of Aditi, upholders of vows and rites. The construction is with the earlier "you worship them".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- सुक्रतुः (*sukratuḥ*)—one of excellent action
+- मित्रा चॆ (*mitrā cè*)—and the Mitra who has the same quality; these two, Mitrāvaruṇa
+- तना (*tanā*)—
+
+### Printed p. 108
+
+  givers of wealth
+- रथ्या (*rathyā*)—leaders of rites
+- सनात् (*sanāt*)—from the beginning
+- सुजाता (*sujātā*)—of excellent birth
+- तनया (*tanayā*)—sons of Aditi
+- धृतव्रता (*dhṛtavratā*)—those who impel the keeping of the vow by rule (worship such Mitrāvaruṇa)
+
+##### भावार्थ (Bhāvārtha)
+
+The Varuṇa who is of excellent action and the Mitra who has the same quality, these two, Mitrāvaruṇa, are givers of wealth, leaders of rites, of excellent birth from the beginning, sons of Aditi, and those who govern the vow by rule. Worship such Mitrāvaruṇa.
+
+##### English translation
+Mitra and Varuna, doers of good deeds, (diffusers of) riches, who are the charioteers (of men), well born of old, the sons (of Aditi) observant of vows, (you are worshipped by me).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता मा॒ता वि॒श्ववे॑दसासु॒र्या॑य॒ प्रम॑हसा ।  
+> म॒ही ज॑जा॒नादि॑तिर्ऋ॒ताव॑री ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता ! माता । विश्ववेदसा । आसुर्याय । प्रमहसा ।  
+> मही । जजान । अदितिः । ऋतवरी ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदितेस्तनयत्वमेव स्पुटयति । विश्ववेदसा विश्ववेदसौ सर्वधना । यद्वा ।
+> विश्वानि स्थावरजंगमात्मकानि सर्वाणि विदतुर्जानीत इति विश्ववेदसौ । प्रमहसा
+> प्रमहसौ प्रकृष्टतेजस्कौ ता तौ तादृशौ मित्रावरुणौ मही महत्यृतावरी सत्यवती
+> माता देवमातादितिर्जजान । जनयामास । किमर्थं । असुर्यायासुराणां
+> हंत्रे बलाय । असुरान् हंतुमुत्पादितवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+He makes clear that they are Aditi's sons. विश्ववेदसा (*viśvavedasā*): those who possess all wealth; or else, those who know all things, moving and unmoving. प्रमहसा (*pramahasā*): of surpassing splendour. Such Mitrāvaruṇa were borne by Aditi, the great and truthful mother of the gods. For what purpose? असुर्याय (*asuryāya*): for the strength that slays the asuras; the meaning is that she bore them in order to slay the asuras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसा (*viśvavedasā*)—those who know the whole world of moving and unmoving things
+- प्रमहसा (*pramahasā*)—those of the most excellent splendour
+- शा (*śā*)—and renowned, those Mitrāvaruṇa
+
+### Printed p. 109
+
+- मही (*mahī*)—she of great nature
+- ऋतावरी (*ṛtāvarī*)—she of the nature of truth
+- माता (*mātā*)—and mother of the gods
+- अदितिः (*aditiḥ*)—Aditi
+- असुराय (*asurāya*)—to destroy the asuras
+- जजान (*jajāna*)—bore
+
+##### भावार्थ (Bhāvārtha)
+
+Aditi, of great nature, of the nature of truth and mother of the gods, bore Mitrāvaruṇa, who know the whole world of moving and unmoving things, who are of the most excellent splendour, and who are renowned, in order to destroy the asuras.
+
+##### English translation
+The great and veracious Aditi, the mother (of the gods), gave birth to those two who are possessed of all affluence, and shinnig with great splendour, for the (destruction of the) Asuras.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हांता॑ मि॒त्रावरु॑णा स॒म्राजा॑ दे॒वावसु॑रा ।  
+> ऋ॒तवा॑नावृ॒तमा घो॑षतो बृ॒हत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महांता । मित्रावरुणा । संराजा । देवा । असुरा ।  
+> ऋतवान् । ऋतं । आ । घोषतः । बृहत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महांता गुणाधिक्येन महांतौ सम्राजा सम्राजौ सम्यग्दीप्यमानावसुरावसुरौ बलवंतौ । यद्वा । सर्वांतर्यामितया प्रेरकौ । ऋतानाना सत्यवंतौ
+> मित्रावरुणौ देवौ बृहत् स्तोत्रशस्त्रादिना महांतमृतं यज्ञमा घोषतः ।
+> स्वदीप्त्या प्रकाशयतः ॥ घुषेर्लट रूपं ॥
+
+##### Gist of the bhāṣya
+
+महांता (*mahāṃtā*): great through the abundance of their qualities. सम्राजा (*samrājā*): shining well. असुरा (*asurā*): powerful; or else, impellers, as the inner controllers of all. Mitrāvaruṇa, the truthful gods, make the great ṛta, the sacrifice, resound and shine by their own brightness, through stotra, śastra and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महांता (*mahāṃtā*)—those of exceedingly great qualities
+- सम्राजा (*samrājā*)—those who shine exceedingly
+- असुरा (*asurā*)—the powerful
+- देवौ (*devau*)—of divine nature
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitrāvaruṇa
+
 ---
 
-**Progress note:** Done through printed p. 103. Ṛk 24 end, Ṛk 25-29 (VIII.24)
+**Progress note:** Done through printed p. 109. Ṛk 29 end, Ṛk 30, Sūkta 25 Ṛk 1-4 (VIII.25)
