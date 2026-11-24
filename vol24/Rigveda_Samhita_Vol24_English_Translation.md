@@ -14736,6 +14736,234 @@ O Indra, you are the begetter of heaven, the world of light, and you are also th
 
 O Indra, you have created the heavenly world. You are also the one who produced the earth. O Indra, protector of the good, who are with the Marut deities, who defeat well the speed of the enemy hosts, who are the controller of the clouds, drink for your delight the portion of Soma which the gods have assigned to you
 
+### Printed p. 325
+
+##### English translation
+You are the generator of heaver, the generator of earth ; drink joyfully. Satakratu, the Soma for your exhilaration,—that portion which (the gods) assigned you, Indra, lord cf virtuous, who are the victor over all (hostile) hosts, the enqueror of many, the subduer of the waters, the leaders of the
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒नि॒ताश्वा॑नां जनि॒ता गवा॑मसि॒ पिबा॒ सोमं॒ मदा॑य॒ कं  ॑
+> शतक्रतो ।  
+> यं ते॑ भा॒गमधा॑रय॒न्विश्वाः॑ सेहा॒नः पृत॑ना उ॒रु ज्रयः॒  
+> सम॑प्सु॒जिन्म॒रुत्वा॑ इंद्र सत्पते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनिता । अश्वानां । जनिता । गवां । असि । पिब । सोमं । मदाय । कं । शतक्रतो  
+> इति शतक्रतो ।  
+> यं । ते । भागं । आधारयन् । विश्वाः । सेहानः । पृतनाः । उरु । ज्रयः । सं ।  
+> अप्सुजित् । मरुत्वात् । इंद्र । सत्पते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमश्वानां जनिता जनकोऽसि । गवां च जनितासि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the begetter of horses, and you are also the begetter of cows. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वानां (*aśvānāṃ*)—of horses
+- जनिता (*janitā*)—you are the creator
+- गवां (*gavāṃ*)—of cows
+- जनिता (*janitā*)—you are also the creator
+- हे सत्पते (*he satpate*)—O protector of the good
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्वान् (*marutvān*)—who are with the Marut deities **NOTE**
+- पृतीनाः (*pṛtīnāḥ*)—the hosts of enemies
+- उरु ज्रयः (*uru jrayaḥ*)—their speed
+- संसेहानः (*saṃsehānaḥ*)—who defeat well
+- अप्सुजित् (*apsujit*)—the controller of the clouds
+- ते (*te*)—for you
+- यं भागं (*yaṃ bhāgaṃ*)—the portion of Soma which the gods have assigned
+- सोमं (*somaṃ*)—that portion of Soma
+- मदाय (*madāya*)—for your delight
+- पिब (*piba*)—drink
+
+### Printed p. 326
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have created horses and cows. O Indra, protector of the good, who are with the Marut deities, who defeat well the speed of the enemy hosts, who are the controller of the clouds, drink for your delight the portion of Soma which the gods have assigned to you.
+
+##### English translation
+You are the generator of horses, the generaler of cattle; drink joy- fully, Shatakratu, the Soma for your exhilaration,—that portion which (the gods) assigred you, Indra, lord of the virtuous, who are the victor all (hostile) hosts, the conqueror of many, the subduer of the waters, the leader of the Maruts.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्री॑णां॒ सोम॑मद्रिवो म॒हस्कृ॑धि॒ पिबा॒ सोमं॒ मदा॑य॒  ॑
+> कं शतक्रतो ।  
+> यं ते॑ भा॒गमधा॑रय॒न्विश्वाः॑ सेहा॒नः पृत॑ना उ॒रु ज्रयः॒  
+> सम॑प्सु॒जिन्म॒रुत्वा॑ इंद्र सत्पते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्रीणां । सोमं । अद्रिवः । महः । कृधि । पिब । सोमं । मदाय । कं । शतक्रतो इति शतक्रतो ।  
+> यं । ते । भागं । आधारयन् । विश्वाः । सेहानः । पृतनाः । उरु । ज्रयः । सं ।  
+> अप्सुजित् । मरुत्वान् । इंद्र । सप्तते ॥ ६ ॥
+
+### Printed p. 327
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवोद्रिमन् अत्रीणां स्तोमं महस्कृधि । पूजितं कुरु ।
+> सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Adrivat, you who possess the stone, make the praise of the Atris honoured, that is, make it esteemed. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, wielder of the thunderbolt
+- अत्रीणां (*atrīṇāṃ*)—of the Atri seers
+- स्तोमं (*stomaṃ*)—this praise
+- महस्कृधि (*mahaskṛdhi*)—honour it, that is, listen with respect
+- हे सत्पते (*he satpate*)—O protector of the good
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्वान् (*marutvān*)—who are with the Marut deities
+- पृतनाः (*pṛtanāḥ*)—the hosts of enemies
+- उरु ज्रयः (*uru jrayaḥ*)—their speed
+- संसेहानः (*saṃsehānaḥ*)—who defeat well
+- अप्पुचित् (*appucit*)—the controller of the clouds
+- ते (*te*)—for you
+- यं भागं (*yaṃ bhāgaṃ*)—the portion of Soma which the gods have assigned
+- सोमं (*somaṃ*)—that portion of Soma
+- मदाय (*madāya*)—for your delight
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, honour this praise which the Atri seers have composed and are praising **NOTE**, that is, listen to it with respect. O Indra, protector of the good, who are with the Marut deities, who defeat well the speed of the enemy hosts, who are the controller of the clouds, drink for your delight the portion of Soma which the gods have assigned to you.
+
+##### English translation
+Wielder of tho thunderbolt, reverence the praise of the Atris; drink joyfully, Shatakratu, the Soma for your exhilaration,—that portion which (the gods) assigned you, Indra. lord of the virtuous, who are the victor over all (hostile) hosts, the conqueror of many, the subduer of the waters, the leader of the Maruts.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्या॒वाश्व॑स्य सुन्व॒तस्तथा॑ शृणु॒ यथाशृ॑णो॒रत्रे॒ कर्मा॑णि कृण्व॒तः।  
+> प्र त्र॒सद॑स्युमानिध॒ त्वमेक॒ इन्न॒षाह्य॒ इंद्र॒ ब्रह्मा॑णि व॒र्धय॑न् ॥ ७ ॥
+
+### Printed p. 328
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्याव अश्वस्य । सुन्वतः । तथा । शृणु । यथा । अशृणोः । अत्रेः । कर्माणि । कृण्वतः ।  
+> प्र । त्रसदस्युं । आविथ । त्वं । एकः । इत् । नृसह्ये । इंद्र । ब्रह्माणि । वर्धयन् ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं सुन्वतः सोमाभिषवं कुर्वतः श्यावाश्वस्य मम स्तुतिं कर्माणि
+> कृण्वतः कुर्वतोऽत्रेर्यथाशृणोः अश्रौषीः तथा शृणु । अपि च त्वमेक इदेक एव
+> नृषाह्ये युद्धे ब्रह्माणि स्तोत्राणि कामैर्वर्धयंस्रसदस्युं प्राविथ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, hear the praise of me, Śyāvāśva, who press the Soma, as you heard that of Atri, who was performing rites. Moreover, you alone, in battle, strengthening the prayers (the hymns of praise) by fulfilling desires, protected Trasadasyu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- कर्माणि (*karmāṇi*)—rites such as sacrifices, directed to you
+- कृण्वतः (*kṛṇvataḥ*)—who was performing
+- अत्रेः (*atreḥ*)—the praise of the seer Atri
+- यथा अशृणोः (*yathā aśṛṇoḥ*)—as you listened with respect
+- तथा (*tathā*)—so
+- सुन्वतः (*sunvataḥ*)—who is pressing the Soma to offer to you
+- श्यावाश्वस्य (*śyāvāśvasya*)—of me, named Śyāvāśva, also the praise
+- शृणु (*śṛṇu*)—hear
+- त्वमेक इत् (*tvameka it*)—you alone (without the help of others)
+- नृषाह्ये (*nṛṣāhye*)—in battle
+- ब्रह्माणि (*brahmāṇi*)—hymns of praise directed to you
+- वर्धयन् (*vardhayan*)—who was reciting
+- त्रसदस्युं (*trasadasyuṃ*)—the king named Trasadasyu
+- प्र आविथ (*pra āvitha*)—you protected, did you not
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as you listened with respect to the praise of the seer Atri, who was performing sacrifices and other rites directed to you, so hear also the praise of me, named Śyāvāśva. You alone, in the past, without the help of others, protected, did you not, the king named Trasadasyu, who was entreating you with hymns of praise.
+
+##### English translation
+Hear (the praises) of Syavashwa offering the libations, as you have heard (those) of Atri engaged in holy rites : you alone, Indra, have defended Trasadasyu in battle, animating his prayers.
+
+### Printed p. 329
+## Sūkta 37 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रेदं ब्रह्मेति सप्तर्चं सप्तमं सूक्तमात्रेयस्य श्यावाश्वस्यार्षं । आद्या
+> द्वापंचाशदक्षरातिजगती । शिष्टाः षडृचः षडष्टका महापंक्तयः । इंद्रो देवता।
+> तथा चानुक्रांतं । प्रेदं महापांक्तमाद्यातिजगतीति ॥ महाव्रते निष्केवल्य
+> एतत्तूक्तं । तथा च सूत्रं । प्रेदं ब्रह्मेंद्रो मदाय । आ. ७-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the seventh sūkta, beginning प्रेदं ब्रह्मेति (*predaṃ brahmeti*), of seven Ṛks; its seer is Śyāvāśva of the family of Atri. The first Ṛk is an Atijagatī of fifty-two syllables; the remaining six Ṛks are Mahāpaṅktis of six octosyllabic pādas. Indra is the deity. The Anukramaṇī says प्रेदं महापांक्तमाद्यातिजगतीति (*predaṃ mahāpāṃktamādyātijagatīti*). This sūkta is used at the Niṣkevalya of the Mahāvrata, and the sūtra says so: प्रेदं ब्रह्मेंद्रो मदाय (*predaṃ brahmeṃdro madāya*) (Ā. 7-12).
+
+This sūkta beginning Prā-idaṃ brahma is the seventh sūkta in the fifth anuvāka. It has seven Ṛks. Its seer is Śyāvāśva, born in the family of Atri; its deity is Indra. The first Ṛk of the sūkta is in the metre called Atijagatī, of fifty-two syllables. The remaining six Ṛks are in the metre called Mahāpaṅkti, of six pādas of eight syllables each. The Anukramaṇī says: Preḍaṃ mahāpāṅktam ādyātijagatī. This sūkta is to be recited when the Niṣkevalya-śastra mantras are recited in the Mahāvrata sacrifice, as the Āśvalāyana Śrauta-sūtra explains by the sūtra Predaṃ brahmendro madāya (Ā. 7-12).
+
+Sūkta 37. Maṇḍala 8. Anuvāka 5. Sūkta 37. Aṣṭaka 6. Adhyāya 3. Varga 19. Number of Ṛks in the sūkta: 7. Seer: Śyāvāśva **NOTE**. Deity: Indra. Metre: 1 Atijagatī; 2-7 Mahāpaṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेदं ब्रह्म॑ वृत्र॒तूर्ये॑ष्टाविथ॒ प्र सु॑न्व॒तः श॑चीपत॒ इंद्र॒  
+> विश्वा॑भिरू॒तिभिः॑ ।  
+> माध्यं॑दिनस्य॒ सव॑नस्य वृत्रहन्ननेद्य॒ पिबा॒ सोम॑स्य वज्रिवः ॥१५॥
+
+### Printed p. 330
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । इदं । ब्रह्म । वृत्रतूर्येषु । आविथ । प्र । सुन्वतः । शचीपते । इंद्र ।  
+> विश्वाभिः । ऊतिभिः ।  
+> माध्यंदिनस्य । सवनस्य । वृत्रहन् । अनेद्य । पिब । सोमस्य । वज्रिवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शचीपत इंद्र त्वं वृत्रतूर्येषु संग्रामेष्टिदं ब्रह्मेमान् ब्राह्मणान्विश्वाभिः सर्वाभिरूतिभी रक्षाभिः प्राविथ । प्ररक्ष । सुन्वतः सोमाभिषवं कुर्वतो
+> यजमानांश्च प्राविथ । आपि च हे अनेद्यानिंद्य वज्रिवो वज्रिन् वृत्रहन्निंद्र
+> माध्यंदिनस्य सवनस्य संबंधिनं सोमस्य सोमं पिब ॥
+
+##### Gist of the bhāṣya
+
+O Śacīpati, lord of rites, Indra, in the battles with Vṛtra and other foes you have fully protected these brāhmaṇas with all your protections, and you have protected the sacrificers who press the Soma. Moreover, O blameless wielder of the thunderbolt, slayer of Vṛtra, drink the Soma belonging to the midday pressing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीपते (*śacīpate*)—O lord of all rites
+- इंद्र (*iṃdra*)—O Indra
+- वृत्रतूर्येषु (*vṛtratūryeṣu*)—in battles that destroy enemies
+- इदं ब्रह्म (*idaṃ brahma*)—these brāhmaṇas
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- प्र आविथ (*pra āvitha*)—you have fully protected
+- सुन्वतः (*sunvataḥ*)—the sacrificer who offers Soma
+- प्र (*pra*)—you have protected
+- अनेद्य (*anedya*)—blameless
+- वज्रिवः (*vajrivaḥ*)—wielder of the thunderbolt
+- वृत्रहन् (*vṛtrahan*)—slayer of Vṛtra
+- माध्यंदिनस्य (*mādhyaṃdinasya*)—performed at midday
+- सवनस्य (*savanasya*)—connected with the sacrifice
+- सोमस्य (*somasya*)—the Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of all rites, in the battles that destroy enemies you have fully protected these brāhmaṇas with all your protections. You have protected also the sacrificer who offers Soma. O blameless one, wielder of the thunderbolt, slayer of Vṛtra, Indra, drink the Soma offered in the sacrifice performed at midday.
+
+##### English translation
+You protect, Indra, lord of rites, with all protections in combats with enemies, this sacrifice of him who offers you the libations : slayer of Vritra, irrproachable wielder of the thunderbolt, drink of the Soma at the mid-day solemnity.
+
 ---
 
-**Progress note:** Done through printed p. 324. Sūkta 36 Ṛk 1-4, pp. 319-324
+**Progress note:** Done through printed p. 330. Sūkta 36 Ṛk 5-7, Sūkta 37 Ṛk 1, pp. 325-330
