@@ -29070,6 +29070,324 @@ Or, when will your renowned and vigorous horses bring the chariot of you, who ar
 
 We beg that Indra, great (यह्वं (*yahvaṃ*)) and praised by many (पुरुस्तुतं (*purustutaṃ*)), by means of ancient (प्रत्नाभिः (*pratnābhiḥ*)) protections (ऊतिभिः (*ūtibhiḥ*)), that is, satisfying oblations of soma as the cause. And may that Indra sit down on the strewn dear, pleasing sacred grass (बर्हिषि (*barhiṣi*)); may he take his seat to receive the oblation. Then (अध (*adha*)), the remainder to be supplied is: may he accept the oblations existing in two ways (द्विता (*dvitā*)), the cooked offerings, the purodāśa cakes and the like, and the oblations of the nature of soma.
 
+### Printed p. 696
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यह्वं (*yahvaṃ*)—the great one
+- पुरुस्तुतं (*purustutaṃ*)—the one praised by many
+- तं (*taṃ*)—that Indra
+- प्रत्नाभिः (*pratnābhiḥ*)—with ancient
+- ऊतिभिः (*ūtibhiḥ*)—with satisfying praises
+- ईमहे (*īmahe*)—we beseech
+- सः (*saḥ*)—that same Indra
+- प्रिये (*priye*)—pleasing
+- बर्हिषि (*barhiṣi*)—on the seat of darbha grass
+- नि षदत् (*ni ṣadat*)—may he sit down
+- अध (*adha*)—afterwards
+- द्विता (*dvitā*)—may he accept the oblations, the cooked cakes and so on, and the Soma forms
+
+##### भावार्थ (Bhāvārtha)
+
+We beseech Indra, the great one, praised by many, with ancient and satisfying praises. May that same Indra sit down on the seat of darbha grass that is pleasing to him. Afterwards may he accept the oblations, the cooked cakes and so on, and the Soma forms.
+
+##### English translation
+We solicit with ancient and gratifying (offerings) him who is mighty and the invoked of many; may he sit down on the pleasant sacred grass, and accept the two-fold (offering of cakes and Soma juice).
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वर्ध॑स्वा॒ सु पु॑रुषुत॒ ऋषि॑ष्टुताभिरू॒तिभिः॑ ।  
+> धु॒क्षस्व॑ पि॒प्युषी॒मिष॒मवा॑ च नः ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वर्धस्व । सु । पुरुस्तुत । ऋषिस्तुताभिः । ऊतिभिः ।  
+> धुक्षस्व । पिप्युषीं । इषं । अव । च । नः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुष्टुत बहुभिः स्तुतेंद्र ऋषिष्टुताभिर्ऋषिभिर्मंत्रदर्शिभिः पुरा
+> स्तुताभिरूतिभी रक्षाभिः सु सुष्टु वर्धस्व । अस्मान्वर्धय । यद्वा। ऋषिभिरुत्पादिताभिरूतिभिः स्तुतिभिस्त्वं वर्धस्व । वृद्धिं प्राप्नुहि । नोऽस्मभ्यं च पिप्युषीं प्रवृद्धामिषमिष्यमाणमन्नमव धुक्षस्व! अवाङ्मुखमस्मदभिमुखं धुक्षस्व! क्षारय। देहीत्यर्थः!
+
+##### Gist of the bhāṣya
+
+"O Indra, praised by many (पुरुष्टुत (*puruṣṭuta*)), grow well (सु (*su*)) with the protections (ऊतिभिः (*ūtibhiḥ*)) praised by the seers (ऋषिष्टुताभिः (*ṛṣiṣṭutābhiḥ*)), the mantra-seers who praised in former times; make us grow." Or else: grow by the praises that the seers have composed; attain increase. And for us draw down (अव धुक्षस्व (*ava dhukṣasva*)), turned towards us, the swollen (पिप्युषीं (*pipyuṣīṃ*)), abundant food (इषं (*iṣaṃ*)) that is desired; milk it out, that is, give it.
+
+### Printed p. 697
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—O Indra, praised by many
+- ऋषिष्टुताभिः (*ṛṣiṣṭutābhiḥ*)—praised by the earlier seers
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- सु (*su*)—exceedingly
+- वर्धस्व (*vardhasva*)—bring increase to us
+- नः (*naḥ*)—to us
+- पिप्युषीं (*pipyuṣīṃ*)—nourishing
+- इषं च (*iṣaṃ ca*)—food also
+- अव धुक्षस्व (*ava dhukṣasva*)—provide and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by many, make us prosper with the protections praised by the earlier seers. Provide for us the nourishing food as well.
+
+##### English translation
+Praised of many, prosper (us) with the protections hymned by the Rishis, send down upon us nutritious food.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ त्वम॑वि॒तेद॑सी॒त्था स्तु॑व॒तो अ॑द्रिवः ।  
+> ऋ॒तादि॑यर्मि ते॒ धियं॑ मनो॒युजं॑ ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । त्वं । अविता । इत् । असि । इत्था । स्तुवतः । अद्रिवः ।  
+> ऋतात् । इयर्मि । ते । धियं । मनःयुजं । २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो वज्रवन्निंद्र त्वमित्थेत्थमनेन प्रकारेण स्तुवतः स्तोत्रं कुर्वतो
+> यजमानस्यावितेदसि । रक्षितैव भवसि । यःत एवमतः कारणादहमप्यृताद्यज्ञाद्धेतोर्मनोयुजं मनसा मननीयेन स्तोत्रेण प्राप्यां ते त्वदीयां
+> धियमनुग्रहबुद्धिमियर्मि । प्राप्नोमि । यद्वा । ऋतात्सत्यभूतात्त्वत्तः स्तोत्रेण
+> युक्तं त्वत्प्रीतिकरं कर्माहं प्राप्नोमि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, wielder of the thunderbolt (अद्रिवः (*adrivaḥ*)), in this way (इत्था (*itthā*)) you are indeed the protector of the sacrificer who praises you." Since this is so, "I too, by reason of the sacrifice (ऋतात् (*ṛtāt*)), attain (इयर्मि (*iyarmi*)) your (ते (*te*)) thought (धियं (*dhiyaṃ*)), your mind of favour, which is to be reached (मनोयुजं (*manoyujaṃ*)) by praise that is to be thought over with the mind." Or else: from you, who are the truth (ऋतात् (*ṛtāt*)), I obtain the rite joined with praise, which gives you pleasure.
+
+### Printed p. 698
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O wielder of the thunderbolt weapon
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- इत्था (*itthā*)—in this manner
+- स्तुवतः (*stuvataḥ*)—to the sacrificer who praises you
+- अविता इत् असि (*avitā it asi*)—you are indeed a protector
+- ऋतात् (*ṛtāt*)—through the sacrifice
+- मनोयुजं (*manoyujaṃ*)—that can be attained by praise
+- ते (*te*)—your
+- धियं (*dhiyaṃ*)—thought of favour
+- इयर्मि (*iyarmi*)—I obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt weapon, you are indeed the protector of the sacrificer who praises you in this manner. Your thought of favour, which can be attained by praise, I obtain through the sacrifice.
+
+##### English translation
+Thunderbolt-bearing Indra, you are the protector of him who thus eulogises you : I seek through sacrifice for your favour, which is to be gained by praise.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह त्या स॑ध॒माद्या॑ युजा॒नः सोम॑पीतये ।  
+> हरी॑ इंद्र प्र॒तद्व॑सू अ॒भि स्व॑र ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । त्या । सध्वमाद्या । युजानः । सोमपीतये ।  
+> हरी इति । इंद्र । प्रतद्वसू इति प्रतत्त्ववसू । अभि । स्वर ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इहास्मिन्यागे सोमपीतये सोमपानायाभि स्वर । अभिगच्छ । किं
+> कुर्वन् । त्या तौ तौ प्रसिद्धौ सधमाद्या त्वया सह हविर्भिमादयितव्या तर्पयितव्या प्रतद्वसू प्राप्तवसू विस्तीर्णधनौ ईदृशौ हरी त्वदीयावश्वा युजानो
+> रथेन संयोजयन् ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, come (अभि स्वर (*abhi svara*)) here (इह (*iha*)), to this sacrifice, for the drinking of Soma (सोमपीतये (*somapītaye*))." Doing what? Harnessing (युजानः (*yujānaḥ*)) to the chariot those two well-known horses (हरी (*harī*)) of yours, who are to be gladdened and satisfied together with you with oblations (सधमाद्या (*sadhamādyā*)), and who are rich in wide wealth (प्रतद्वसू (*pratadvasū*)).
+
+### Printed p. 699
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्या (*tyā*)—the well-known
+- सदमाद्या (*sadamādyā*)—who enjoy delight together
+- प्रतद्वसू (*pratadvasū*)—having abundant wealth
+- हरी (*harī*)—your horses
+- युजानः (*yujānaḥ*)—having yoked them to your chariot
+- इह (*iha*)—in this sacrifice
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- अभि स्वर (*abhi svara*)—graciously come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, having yoked to your chariot your well-known horses, who enjoy delight together and have abundant wealth, graciously come quickly to this sacrifice for the drinking of Soma.
+
+##### English translation
+Harnessing your horses, Indra, laden with treasure and sharing your exhilaration, come hither to drink of the Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+Pratadvasū: Yāska has explained this word: प्रतद्वसू प्राप्तवसू । हरी इंद्र प्रतद्वसू अभि स्वर इति निगमो भवति (*pratadvasū prāptavasū | harī iṃdra pratadvasū abhi svara iti nigamo bhavati*) (Ni. 6-21). That is, it means "possessing wealth". This word is a dual-ending (?) word and is an adjective of the word हरी (*harī*). To make this clear, he has given as example the Vedic sentence of the present Ṛk itself, हरी इंद्र प्रतद्वसू अभि स्वर (*harī iṃdra pratadvasū abhi svara*).**NOTE**
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि स्व॑रंतु॒ ये तव॑ रु॒द्रासः॑ सक्षत॒ श्रियं॑ ।  
+> उ॒तो म॒रुत्व॑ती॒र्विशो॑ अ॒भि प्रयः॑ ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । स्वरंतु । ये । तव । रुद्रासः । सक्षत । श्रियं ।  
+> उतो इति । मरुत्वतीः । विशः । अभि । प्रयः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभि स्वरुतु अभिगच्छंतु तेहे इंद्र तवानुचरा रुद्रासो रुद्रपुत्रा ये
+
+##### Gist of the bhāṣya
+
+"O Indra, may those followers of yours, the Rudras, that is the sons of Rudra, who are the Maruts, come (अभि स्वरंतु (*abhi svaraṃtu*))."
+
+### Printed p. 700
+
+> मरतः संति । अपि च ते श्रियं श्रयणीयमिमं यज्ञं सक्षत । सचंतु। प्राप्नुवंतु।
+> उतो अपि च मरुत्वतीर्मरुद्भिर्युक्ता विशोऽन्यापि दैवी प्रजा प्रयः ।
+> अन्ननामैतत् । अस्मदीयं हनिर्लक्षणमन्नमभिगच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+Moreover may they attain (सक्षत (*sakṣata*)) your sacrifice, which is to be resorted to (श्रियं (*śriyaṃ*)). And also (उतो (*uto*)) the other divine people (विशः (*viśaḥ*)), united with the Maruts (मरुत्वतीः (*marutvatīḥ*)), may come to our oblation, which is food (प्रयः (*prayaḥ*); he says this word is a name for food).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- O Indra, तव (*tava*)—your
+- रुद्रासः (*rudrāsaḥ*)—sons of Rudra
+- ये (*ye*)—those Maruts who are
+- अभि स्वरंतु (*abhi svaraṃtu*)—may they come quickly
+- श्रियं (*śriyaṃ*)—this sacrifice, which is endowed with wealth
+- सक्षत (*sakṣata*)—may they join
+- उतो (*uto*)—and
+- मरुत्वतीः (*marutvatīḥ*)—accompanied by the Maruts
+- विशः (*viśaḥ*)—the other people of the world of the gods
+- प्रयः (*prayaḥ*)—to receive the oblation
+- अभि (*abhi*)—may they come here
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may those Maruts, your followers and sons of Rudra, come quickly. May they join this sacrifice, which is endowed with wealth. And may the other people of the world of the gods, accompanied by the Maruts, come here to receive the oblation.
+
+##### English translation
+May the sons of Rudra, who are your followers, approach and partake of the glory (of the sacrifice); and may (other celestial) people associated with the Maruts (partake of the sacrificial) food.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा अ॑स्य॒ प्रतू॑र्तयः प॒दं जु॑षंत॒ यद्दि॒वि ।  
+> नाभा॑ य॒ज्ञस्य॒ सं द॑धु॒र्यथा॑ वि॒दे ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । अस्य । प्रतूर्तयः । पदं । जुषंत । यत् । दिवि ।  
+> नाभा । यज्ञस्य । सं । दधुः । यथा । विदे ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य संबंधिन्य इमाः पूर्वोक्ता मरुदादिरूपाः प्रजाः प्रतूर्तयः
+
+##### Gist of the bhāṣya
+
+"These (इमाः (*imāḥ*)) beings belonging to this Indra", the Maruts and others spoken of before, "are प्रतूर्तयः (*pratūrtayaḥ*)", that is, vigorous destroyers of enemies.
+
+### Printed p. 701
+
+> प्रकर्षेण शत्रूणां हिंसित्र्यः पदं स्थानं जुषंत । असेवंत । दिवि द्युलोके
+> यत्सान मन्यैर्दुष्ट्रापमस्ति तत्पदमित्यर्थः । अपि च ता यज्ञस्य ज्योतिष्टोमादेर्नाभा नाभौ नाभिस्थानीये हविर्धान उत्तरवेद्यां वा सं दधुः । संनिदधते । यथा
+> येन प्रकारेण विदे विंदे अपेक्षितं धनं लभे तथेत्यर्थः । यद्वा । विदे ज्ञानाय
+> यथास्माकं दक्षावरं ज्ञानं भवति तथेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+They resort to (जुषंत (*juṣaṃta*)) the place (पदं (*padaṃ*)) in heaven that is hard for others to reach. Moreover they place themselves (सं दधुः (*saṃ dadhuḥ*)) at the navel (नाभा (*nābhā*)) of the sacrifice, the Jyotiṣṭoma and the like, that is, in the havirdhāna, which stands in the place of the navel, or on the uttaravedi, so that (यथा (*yathā*)) I obtain (विदे (*vide*)) the wealth desired. Or else, विदे (*vide*) means "for knowledge": so that knowledge may arise for us.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—relations of this Indra
+- इमाः (*imāḥ*)—those Maruts who were praised before
+- प्रतूर्तयः (*pratūrtayaḥ*)—destroying enemies
+- दिवि (*divi*)—in the heavenly world
+- यत् (*yat*)—whatever excellent place there is
+- पदं (*padaṃ*)—that place
+- जुषंत (*juṣaṃta*)—may they resort to
+- यथा (*yathā*)—in whatever manner
+- विदे (*vide*)—in such a way that I gain wealth
+- यज्ञस्य (*yajñasya*)—of the sacrifice, the Jyotiṣṭoma and the like
+- नाभा (*nābhā*)—at the place of the uttaravedi
+- सं दधुः (*saṃ dadhuḥ*)—they are established
+
+##### भावार्थ (Bhāvārtha)
+
+May those Maruts, relations of this Indra and praised before, destroying enemies, resort to whatever excellent place there is in the heavenly world. In such a way that we gain wealth, they are established at the place of the uttaravedi of the sacrifice, the Jyotiṣṭoma and the like.
+
+##### English translation
+May those who (are his attendants), victorious (over enemies), be satisfied with the station (which they occupy) in heaven, and may they be assembled at the navel of the sacrifice, that I may thence acquire (wealth).
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒यं दी॒र्घाय॒ चक्ष॑से॒ प्राचि॑ प्रय॒त्य॑ध्व॒रे ।  
+> मिमी॑ते य॒ज्ञमा॑नु॒षग्वि॒चक्ष्य॑ ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । दीर्घाय । चक्षसे । प्राचि । प्रयति । अध्वरे ।  
+> मिमाते । यज्ञं । अनुषक् । विचक्ष्य ॥ ३० !!
+
+### Printed p. 702
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्राची प्राचीने प्रागायते यज्ञगृहेऽध्वरे हिंसारहिते यज्ञे प्रयति
+> गच्छति प्रवर्तमाने सत्ययमिंद्रः प्रवर्तमानं तं यज्ञमानुषगनुषक्तमानुपूर्व्येण विचक्ष्य विशेषेण दृष्ट्वा मिमीते । निष्पादयति । किमर्थं । दीर्घायायताय चक्षसे दर्शनाय । यद्वा । द्रष्टव्याय फलाय ॥
+
+##### Gist of the bhāṣya
+
+When the sacrifice, free from violence (अध्वरे (*adhvare*)), is going on (प्रयति (*prayati*)) in the eastward-facing (प्राचि (*prāci*)) sacrificial house, this Indra (आयं (*āyaṃ*)), seeing it in its order (आनुषक् (*ānuṣak*)), in a special way (विचक्ष्य (*vicakṣya*)), accomplishes (मिमीते (*mimīte*)) the sacrifice. For what purpose? For long (दीर्घाय (*dīrghāya*)) sight (चक्षसे (*cakṣase*)), that is, for seeing. Or else: for the fruit that is to be seen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्राचि (*prāci*)—in the ancient sacrificial house
+- अध्वरे (*adhvare*)—the sacrificial rite
+- प्रयति (*prayati*)—at the time when it is being performed
+- आयं (*āyaṃ*)—this Indra
+- यज्ञं (*yajñaṃ*)—that same sacrifice
+- आनुषक् (*ānuṣak*)—in due order
+- विचक्ष्य (*vicakṣya*)—having looked at it in a special way
+- दीर्घाय (*dīrghāya*)—extended
+- चक्षसे (*cakṣase*)—for the sake of the fruit
+- मिमाते (*mimāte*)—accomplishes
+
+##### भावार्थ (Bhāvārtha)
+
+When the sacrificial rite is being performed in the ancient sacrificial house, Indra, looking at that same sacrifice in due order in a special way, accomplishes that sacrifice for the sight of its extended fruit.
+
+##### English translation
+When the ceremony is being prepared in the hall of sacrifice, this (Indra), having inspected the rite, regulates (the performance) in due succession for a distant object.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒यमिं॑द्र ते॒ रथ॑ उ॒तो ते॒ वृष॑णा॒ हरी॑ ।  
+> वृषा॒ त्वं श॑तक्रतो॒ वृषा॒ हवः॑ ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । अयं । इंद्र । ते । रथः । उतो इति । ते । वृषणा । हरी इति ।  
+> वृषा । त्वं । शतक्रतो इति शतक्रतो । वृषा । हवः ॥ ३१ ॥
+
 ---
 
-**Progress note:** Done through printed p. 695. pp. 690-695 (batch API)
+**Progress note:** Done through printed p. 702. pp. 696-702 (batch API)
