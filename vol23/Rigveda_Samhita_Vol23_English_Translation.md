@@ -27961,6 +27961,270 @@ The third anuvāka has eight sūktas. Of these the first, इंद्रः स
 
 In the third anuvāka of the eighth maṇḍala there are eight sūktas. Among them the sūkta इंद्रः सुतेषु (*iṃdraḥ suteṣu*) is the first. It has thirty-three Ṛks. The seer of this sūkta is Nārada, born in the Kaṇva line; the deity is Indra; the metre is Uṣṇik. In the Anukramaṇī it is said: इंद्रः सुतेषु नारदः (*iṃdraḥ suteṣu nāradaḥ*). In the Mahāvrata sacrifice, when the Niṣkevalya śastra mantras are recited, the use of this sūkta together with the preceding sūkta, for the Ṛks of the Uṣṇik metre, has been stated in the use of the preceding sūkta itself. In the third paryāya
 
+### Printed p. 672
+the Acchāvāka priest recites the three Ṛks beginning Indraḥ suteṣu as the Stotriya tṛca; this is set out in the Āśvalāyana Śrauta Sūtra in the sūtra Indraḥ suteṣu someṣu ya indra somapātamaḥ (Ā. 6-4).
+
+Maṇḍala 8, Anuvāka 3, Sūkta 13. Aṣṭaka 6, Adhyāya 1, Vargas 7, 8, 9, 10, 11, 12, 13. Number of Ṛks in the sūkta: 33. Ṛṣi: Nārada Kāṇva. Deity: Indra. Metre: Uṣṇik.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॑ सु॒तेषु॒ सोमे॑षु॒ क्रतुं॑ पुनीत उ॒क्ष्यं॑ ।  
+> वि॒दे वृ॒धस्य॒ दक्ष॑सो म॒हान्हि षः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । सुतेषु । सोमेषु । क्रतुं । पुवीशे । उक्त्यं ।  
+> विदे । वृधस्य । दक्षसः । महान् । हि । सः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमेषु सुतेष्वभिषुतेषु सत्स्वींद्रस्तान्पीत्वा क्रतुं कर्मणां कर्तारमुक्थं स्तोतारं च पुनीते । शोधयति । यद्वा । सोमेष्वभिसुतेसूक्थाख्यं
+> क्रतुं यागं तैः सोमैः पुनीते । यजमानैः पूतं कारयति । किमर्थं । वृधस्य
+> वर्धकस्य दक्षसो बलस्य विदे लाभाय । स तादृश इंद्रो महान् हि महान् खलु ।
+> अत एवं कर्तुं शक्नोतीति भावः ॥
+
+##### Gist of the bhāṣya
+
+When the Soma juices have been pressed, Indra drinks them and purifies the doer of rites (क्रतुं (*kratuṃ*)) and the praiser (*ukthaṃ*). Or else: with those Somas he purifies the sacrifice called Ukthya, making the sacrificers purify it. For what purpose? For the attainment of increasing strength. Such an Indra is indeed great, and therefore he is able to do so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमेषु (*someṣu*)—the Soma juices
+- सुतेषु (*suteṣu*)—when pressed
+- इंद्रः (*iṃdraḥ*)—Indra
+- क्रतुं (*kratuṃ*)—the doer of rites
+- उक्त्यं (*uktyaṃ*)—the praiser
+- वृधस्य (*vṛdhasya*)—of the increasing
+- दक्षसः (*dakṣasaḥ*)—of strength
+- विदे (*vide*)—for the attainment
+- पुनीते (*punīte*)—purifies
+- सः (*saḥ*)—such an Indra
+- महान् हि (*mahān hi*)—is he not a great one?
+
+### Printed p. 673
+
+##### भावार्थ (Bhāvārtha)
+
+When the Soma juices are pressed, Indra purifies both the doer of rites and the praiser, for the attainment of strength, which is the cause of their increase. That same Indra is endowed with surpassing greatness.
+
+##### English translation
+Indra, when the Soma juices are effused, sanctifies the offerer and the praiser for the attainment of increase-giving strength, for he is mighty
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प्र॑थ॒मे व्यो॑मनि दे॒वानां॒ सद॑ने वृ॒धः ।  
+> सु॒पा॒रः सु॒श्रव॑स्तमः॒ सम॑प्सु॒जित् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । प्रथमे । विओमनि । देवानां । सदने । वृधः ।  
+> सुपारः । सुश्रवःतमः । सं । अप्सुजित् । २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रः प्रथमे प्रथिते विस्तीर्णे मुख्ये वा व्योमनि विशेषेण रक्षके
+> देवानां सदने । सीदत्यस्मिन्निति सदनं स्थानं स्वर्गाख्यं । तत्र स्थितः सन् वृधो
+> यजमानानां वर्धयिता च भवति । तथा सुपारः सुष्टु पारयिता प्रारब्धस्य सम्यक्रिसमापयिता सुश्रवस्तमः । अतिशयेन शोभनं श्रवोऽन्नं यशो वा यस्य स
+> तथोक्तः । सं सम्यगप्सुजिदप्पूदकेषु प्राप्षेषु सत्सु तद्विघातिनो वृत्रादेर्जेता ।
+> यद्वा । आप इत्यंतरिक्षनाम । अंतरिक्षे वर्तमानानामसुराणां जेता । तमह्व
+> इत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+That Indra, abiding in the first (that is, renowned, extensive or foremost) व्योमनि (*vyomani*), the protector in a special way, the dwelling-place (सदने (*sadane*), that in which one sits) of the gods, called heaven, is the increaser of the sacrificers. He is also सुपारः (*supāraḥ*), one who well brings across and fully completes what has been begun; सुश्रवस्तमः (*suśravastamaḥ*), one who has most excellent food or fame. He is अप्सुजित् (*apsujit*): when the waters are obtained, he conquers Vṛtra and others who obstruct them. Or else: *āpaḥ* is a name of the atmosphere, and he is the conqueror of the Asuras dwelling in the atmosphere. The connection is with तमह्व (*tamahva*) in the next verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same Indra
+- प्रथमे (*prathame*)—the most excellent
+- देवानां (*devānāṃ*)—of the gods
+- सदने (*sadane*)—the dwelling-place
+- व्योमनि (*vyomani*)—abiding in the atmosphere
+- वृधः (*vṛdhaḥ*)—the increaser of the sacrificers
+- सुपारः (*supāraḥ*)—the helper in accomplishing the rite
+- सुश्रवस्तमः (*suśravastamaḥ*)—
+
+### Printed p. 674
+- (सुश्रवस्तमः (*suśravastamaḥ*), continued)—the possessor of most excellent food
+- सं (*saṃ*)—fully
+- अप्पुजित् (*appujit*)—the conqueror of Vṛtra, the obstructer of the rain-waters
+
+##### भावार्थ (Bhāvārtha)
+
+That same Indra, abiding in the atmosphere, which is the most excellent and the dwelling-place of the gods, is the increaser of the sacrificer, the helper in accomplishing the rite, the possessor of most excellent food, and the complete conqueror of Vṛtra, the obstructer of the rain-waters.
+
+##### English translation
+Abiding in the highest heaven, in the dwelling of the gods, he is the giver of increase, the accomplisher (of works), the possessor of great renown, the conqueror of (the obstructer of) the rains.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑ह्वे॒ वाज॑सातय॒ इंद्रं॒ भरा॑य शु॒ष्मिणं॑ ।  
+> भवा॑ नः सु॒म्ने अंत॑मः॒ सखा॑ वृ॒धे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अश्वे । वाजसातये । इंद्रं । भराय । शुष्मिणं ।  
+> भव । नः । सुम्मे । अंतमः । सखा । वृधे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं पूर्वोक्तगुणं शुष्मिणं चलवंतमिंद्रं वाजसातये बलानामन्नानां
+> वा सातिर्लाभो यस्मिन् तादृशाय भराय संग्रामाय । यद्वा । भ्रियंते
+> तस्मिन् हवींषीति भरो यज्ञः । प्रायेण संग्रामनामानि यज्ञनामत्वेन च
+> दृश्यंते । भराय यज्ञार्थं । अह्वे । आश्वये ॥ लिपिसिचिश्वश्चात्मनेपदेष्वन्यतरस्यामिति हैयतेश्चांदसे लजा चेरजादेशः ॥ हे इंद्र त्वं सुम्मे सुखे धने वा लिप्सिते
+> सति नोऽस्माकमंतमोऽ०तिकतमः संनिकृष्टतमो भव ॥ तमे तादेश्यत्यंतिकशब्दस्य ।
+> तादिलोपः ॥ तथा वृधे वर्धनार्थं च सखा समानख्यानो मित्रभूतो भव ॥
+
+##### Gist of the bhāṣya
+
+I call that Indra of the qualities stated before, the powerful (शुष्मिणं (*śuṣmiṇaṃ*)), for वाजसातये (*vājasātaye*), for a भर (*bhara*) in which there is the gain of strengths or of foods, that is, a battle. Or else: भर (*bhara*) is the sacrifice, in which oblations are carried; names of battle are mostly seen as names of sacrifice too; so भराय (*bharāya*) means for the sake of the sacrifice. अह्वे (*ahve*) means "I call". O Indra, when happiness or wealth is desired, be the nearest (अंतमः (*aṃtamaḥ*)) to us; and be a friend, of one name with us, for our increase.
+
+### Printed p. 675
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं (*taṃ*)—the renowned
+- शुष्मिणं (*śuṣmiṇaṃ*)—the powerful
+- इंद्रं (*iṃdraṃ*)—Indra
+- वाजसातये (*vājasātaye*)—carried out for the gain of food
+- भराय (*bharāya*)—for help in battle
+- अह्वे (*ahve*)—I call
+- (O Indra)
+- सुम्मे (*summe*)—when wealth is desired by us
+- नः (*naḥ*)—to us
+- अंतमः (*aṃtamaḥ*)—the very nearest
+- भव (*bhava*)—be
+- वृधे (*vṛdhe*)—for our increase
+- सखा (*sakhā*)—be a friend to us
+
+##### भावार्थ (Bhāvārtha)
+
+I call the renowned and powerful Indra to help in the battle that is carried out for the gain of food. O Indra, when wealth is desired by us, be very near to us. Be a friend to us for our increase.
+
+##### English translation
+I invoke the powerful Indra for (aid in) the food-bestowing combat : be nigh unto us for our happiness ; be a friend for our increase.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं त॑ इंद्र गीर्वणो रा॒तिः क्ष॑रति सुन्व॒तः ।  
+> मं॒दा॒नो अ॒स्य ब॒र्हिषो॒ वि रा॑जसि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । ते । इंद्र । गिर्वणः । रातिः । क्षरति । सुन्वतः ।  
+> मंदानः । अस्य । बर्हिषः । वि । राजसि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणो गीर्भिः स्तुतिभिर्वननीय संभजनीयेंद्र ते तुभ्यं त्वदर्थमियं पुरोवर्तिनी सुन्वशः सोमाभिषवं कुर्वतो यजमानस्य संबंधिनी
+> रातिर्युत्विग्निर्दीयमाना सोमाहुतिः क्षरति । आहवनीयं प्रति गच्छति । त्वं च तया
+> मंदानो मंदमानो मोदमानस्त्वप्यन्नस्य बर्हिषो यज्ञस्य वि राजसि ।
+> विशेषेणेशिषे । राजतिरैश्वर्यकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O गिर्वणः (*girvaṇaḥ*), one to be won and served by songs of praise, O Indra: this gift (रातिः (*rātiḥ*)) present here, belonging to the sacrificer who presses Soma, the Soma-oblation given by the priests, flows (क्षरति (*kṣarati*)) for you, that is, goes to the Āhavanīya fire. You, gladdened by it, rule specially over the sacrifice (बर्हिषः (*barhiṣaḥ*)). राजति (*rājati*) is a verb of lordship.
+
+### Printed p. 676
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—one obtained through praise
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—addressed to you
+- सुन्वतः (*sunvataḥ*)—offered by the sacrificer who has pressed the Soma
+- इयं रातिः (*iyaṃ rātiḥ*)—this Soma-oblation
+- क्षरति (*kṣarati*)—flows towards you
+- मंदानः (*maṃdānaḥ*)—(you also) gratified by this
+- अस्य (*asya*)—of this
+- बर्हिषः (*barhiṣaḥ*)—sacrifice performed here
+- वि राजसि (*vi rājasi*)—you are a resplendent lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to be obtained through praises, this Soma-oblation offered by the sacrificer who presses Soma for you flows towards you. You too, gratified by it, are the resplendent lord of the sacrifice performed here.
+
+##### English translation
+This gift of the offerer of the libation flows to you, Indra, who are gratified by praise, exhilarated by which you reign over the sacrifice.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू॒नं तदिं॑द्र दद्धि नो॒ यत्त्वा॑ सु॒न्वंत॒ ईम॑हे ।  
+> र॒यिं न॑श्चि॒त्रमा भ॑रा स्व॒र्विदं॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नूनं । तत् । इंद्र । दद्धि । नः । यत् । त्वा । सुन्वंतः । ईमहे ।  
+> रयिं । नः । चित्रं । आ । भर । स्वःविदु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नूनमवश्यं तद्दनु नोऽस्मभ्यं दद्धि । ददस्व ॥ दद दाने
+> व्यत्ययेन परस्मैपदं । छांदसः शपो लुक् ॥ युद्धनं त्वा त्वां सुन्वंतः सोममुभिषुण्वंतो वयमीमहे । अपि च चित्रं चायनीयं स्वर्विदु सर्वस्य लंभकं
+> यद्वा स्वर्गस्य वेदितारमास्तिकं रयिं पुत्रं नोऽस्मभ्यमा भर । आहर ॥
+
+##### Gist of the bhāṣya
+
+O Indra, surely give us that (wealth). दद्धि (*daddhi*) means "give"; the root दद दाने (*dada dāne*) takes parasmaipada by vyatyaya. We, pressing Soma, ask (ईमहे (*īmahe*)) that of you. Further, bring (आ भर (*ā bhara*)) to us wealth (रयिं (*rayiṃ*)) in the form of a son, wondrous (चित्रं (*citraṃ*)), obtaining all (स्वर्विदं (*svarvidaṃ*)), or else one who knows heaven, a believer.
+
+### Printed p. 677
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सुन्वंतः (*sunvaṃtaḥ*)—we who press and offer Soma juice
+- यत् (*yat*)—whatever wealth
+- त्वा (*tvā*)—from you
+- ईमहे (*īmahe*)—we ask
+- तत् (*tat*)—that wealth
+- नूनं (*nūnaṃ*)—surely
+- नः (*naḥ*)—to us
+- दद्धि (*daddhi*)—give
+- चित्रं (*citraṃ*)—attractive
+- स्वर्विदं (*svarvidaṃ*)—leading to heaven
+- रयिं (*rayiṃ*)—wealth in the form of a son
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the wealth that we, pressing and offering Soma juice, ask of you, give us that surely. Provide us with wealth that is highly attractive, leading to heaven, and in the form of a son.
+
+##### English translation
+Bestow upon us, Indra, that which, when pouring out the libation, we solicit of you; grant us the wondrous wealth that is the means of obtaining heaven.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तो॒ता यत्ते॒ विच॑र्षणिरतिप्रश॒र्धय॒द्दिगरः॑ ।  
+> व॒या इ॒वानु॑ रोहते जु॒षंत॒ यत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोता । यत् । ते । विचर्षणिः । अतिप्रशर्धयत् । गिरः ।  
+> वयाः इव । अनु । रोहते । जुषंत । यत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र विचर्षणिर्विशेषेण द्रष्टा स्तोता ते तुभ्यं त्वदर्थं गिरः स्तुतीर्यद्यदातिप्रशर्धयत् अतिशयेन प्रशर्धयित्रीरकरोत् । शत्रूणां प्रसहनसमर्थाः ॥ शृधु प्रसहने ॥ यद्यदा च ता गिरो जुषंत त्वामसेवंत अप्रीणयन्वा
+> तदा वया इव शाखा इव यथैकस्मिन्वृक्षे बद्धाः शाखाः उपरि प्ररोहंति तथानु
+> रोहते । स्तुत्या सर्वे गुणास्त्वयि प्ररोहंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when the praiser (विचर्षणिः (*vicarṣaṇiḥ*), the special seer) makes his songs of praise for you अतिप्रशर्धयत् (*atipraśardhayat*), exceedingly capable of overpowering enemies (the root शृधु प्रसहने (*śṛdhu prasahane*)), and when those songs serve you or please you, then, like branches (वयाः इव (*vayāḥ iva*)) which, attached to one tree, grow upward, so all qualities grow up in you through praise.
+
 ---
 
-**Progress note:** Done through printed p. 671. pp. 666-671 (batch API)
+**Progress note:** Done through printed p. 677. pp. 672-677 (batch API)
