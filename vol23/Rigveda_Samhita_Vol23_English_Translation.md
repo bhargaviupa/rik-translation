@@ -14722,6 +14722,268 @@ Upborne by hymns, those your praises and those prayers which are addressed to yo
 
 > ए॒वेदे॒ष तु॑विकू॒र्मिर्वाजा॒ एको॒ वज्र॑हस्तः ।
 
+### Printed p. 367
+
+> सनादमृक्को दयते ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । इत् । एषः । तुव्विकूर्मिः । वाजास् । एकः । वज्रहस्तः ।  
+> सनात् । अमृक्तः । दयते ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष एवेंद्रस्तुविकूर्मिर्बहुकर्मा । इदिति पूरकः । एकः सर्वेषु देवेषु
+> मुख्यो वज्रहस्तो वज्रबाहुः सनाच्चिरकालादारभ्यामृक्तः शत्रुभिरबाधितः एवंभूतः स इंद्रो वाजानन्नानि बलानि ना दयते । स्तोतृभ्यो ददाति ॥
+
+##### Gist of the bhāṣya
+
+This Indra alone is the doer of many deeds. The word इत् (*it*) is a mere filler. He is the one, the chief among all the gods, vajra-handed (with the thunderbolt in his arms), from of old unhindered by enemies. Such an Indra gives वाजान् (*vājān*), that is, food and strengths, to his praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविकूर्मिः (*tuvikūrmiḥ*)—the doer of many deeds
+- एकः (*ekaḥ*)—the most chief among all the gods
+- वज्रहस्तः (*vajrahastaḥ*)—he who bears the thunderbolt weapon in his hand
+- सनात् (*sanāt*)—from a long time
+- अमृक्तः (*amṛktaḥ*)—unharmed by enemies
+- एष एवेत् (*eṣa evet*)—this Indra alone
+- वाजान् (*vājān*)—foods
+- दयते (*dayate*)—gives to the praisers
+
+##### भावार्थ (Bhāvārtha)
+
+Indra alone, the doer of many deeds, the foremost among all the gods, the bearer of the thunderbolt in his hand, unharmed by enemies from long ago, is able to give food to the praisers.
+
+##### English translation
+Verily this accomplisher of many acts, the chief ( among the gods ), the wielder of the thunderbolt, he who has ever been unconquered, gives food (to his votaries).
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हंता॑ वृ॒त्रं दक्षि॑णे॒नेंद्रः॑ पु॒रू पु॑रुहू॒तः ।  
+> म॒हान्म॒ैभिः॒ शची॑भिः ॥ ३२ ॥
+
+### Printed p. 368
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हंता । वृत्रं । दक्षिणेन । इंद्रः । पुरु । पुरुहूतः ।  
+> महान् । महीभिः । शचीभिः ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो दक्षिणेन हस्तेनैकेनैव वृत्रमावरकमसुरं हंता साधु
+> हतवान् ॥ हंतेः साधुकारिणि तृन् । न लोकाव्ययेति षष्ठिप्रतिषेधः ॥ पुरु
+> पुरुषु ॥ सुपां सुलुगिति विभक्तेर्लुक् ॥ बहुषु देशेषु पुरुहूतो महीभिर्महतीभिः शचीभिः क्रियाभिः शक्तिभिर्वा महान् सर्वेभ्य उत्कृष्टः । एवंभूत
+> इंद्रोऽस्मान्रक्षत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Indra, with the right hand alone, is the slayer of Vṛtra, the demon who covers (the waters), having slain him well. Sāyaṇa notes that the root हंतेः (*haṃteḥ*) takes tṛn in the sense of one who does well, and that the genitive is prohibited. पुरु (*puru*) means पुरुषु (*puruṣu*) (in many), the case ending being elided. Invoked in many places, he is great, superior to all, through his great (महीभिः (*mahībhiḥ*)) शचीभिः (*śacībhiḥ*), that is, acts or powers. May such an Indra protect us: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- दक्षिणेन (*dakṣiṇena*)—with the right hand alone
+- वृत्रं (*vṛtraṃ*)—Vṛtra the demon
+- हंता (*haṃtā*)—becomes the slayer
+- पुरु (*puru*)—in many places
+- पुरुहूतः (*puruhūtaḥ*)—called upon by many
+- महीभिः (*mahībhiḥ*)—possessed of greatness
+- शचीभिः (*śacībhiḥ*)—by deeds
+- महान् (*mahān*)—becomes one of exceedingly great power
+
+##### भावार्थ (Bhāvārtha)
+
+Indra becomes the slayer of Vṛtra with the right hand alone. Called upon by many in many places, he becomes of exceedingly great power as the fruit of his own deeds, which are full of greatness.
+
+##### English translation
+Indra, the slayer of Vritra with his right hand, the invoked of many in many (places), the mighty by mighty deeds.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॒न्विश्वा॑श्चर्ष॒णय॑ उ॒त च्यौ॒त्ना ज्रयां॑सि च ।  
+> अनु॒ घेन्मं॒दी म॒घोनः॑ ॥ ३३ ॥
+
+### Printed p. 369
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । विश्वाः । चर्षणयः । उत । च्छौत्ना । ज्रयांसि । च ।  
+> अनु । घ । इत् । मंदी । मघोनः ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वाः सर्वाश्चर्यणयः प्रजा यस्मिन्निंद्रे वर्तंते यदधीना भवंति ।
+> उतापि च च्यौत्ना च्यौत्नानि । बलनामैतत् । प्रच्युतिसाधनानि बलानि च ज्रयांसि
+> शत्रुविषयाण्यभिभवनानि यस्मिन्निंद्रे वर्तंते ॥ जि ज्रि अभिभवन इति धातुः ॥ स
+> इंद्रो मघोनः । मघं हविर्लक्षणं धनं । तद्वतो यजमानाननु मंड्यनुमोदको भवति । फेदिति पूरकौ । यद्वा । मंदी स्तुत्यः स इंद्रस्ताननु गृह्ञातीति
+> शेषः । अथवा यस्य मघोनो धनवत इंद्रस्य मंदी स्तोतानुकूलो भवति एष
+> एतानीत्युत्तरत्रैकवाक्यता ॥
+
+##### Gist of the bhāṣya
+
+All विश्वाः (*viśvāḥ*), that is all चर्षणयः (*carṣaṇayaḥ*) (peoples), live in this Indra, are dependent on him. Also in him are च्यौत्ना (*cyautnā*) (the word is a name for strength; strengths that cause displacement) and ज्रयांसि (*jrayāṃsi*), overpowerings directed at enemies; the root is given as जि ज्रि अभिभवन (*ji jri abhibhavana*). That Indra is मंदी (*maṃdī*), one who gladdens, towards the मघोनः (*maghonaḥ*), the sacrificers possessed of मघं (*maghaṃ*), wealth in the form of oblation. *ghet* are fillers. Alternatively: मंदी (*maṃdī*) means "to be praised", and "he favours them" is to be supplied. Or else: the praiser becomes favourable to that wealthy Indra; the sentence is connected with the next Ṛk beginning एष एतानि (*eṣa etāni*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वाः (*viśvāḥ*)—all
+- चर्षणयः (*carṣaṇayaḥ*)—the peoples
+- यस्मिन् (*yasmin*)—in whichever Indra they have taken refuge
+- उत (*uta*)—and
+- चौत्ना च (*cautnā ca*)—whose strength
+- ज्रयांसि (*jrayāṃsi*)—is destructive of enemies, that Indra
+- मघोनः (*maghonaḥ*)—to the sacrificer who has wealth in the form of oblation
+- फेत् (*phet*)—surely
+- अनु मंदी (*anu maṃdī*)—causes delight
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra in whom all the peoples have taken refuge, and whose strength destroys enemies, surely causes delight to the sacrificer who has wealth in the form of oblation.
+
+##### English translation
+He upon whom all men depend, (in whom) overwhelming energies (abide), he verily is the delighter of the opulent (worshipper).
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष ए॒तानि॑ चका॒रेंद्रो॒ विश्वा॒ योऽति॑ शृ॒ण्वे ।  
+> वा॒ज॒दावा॑ म॒घोनां॑ ॥ ३४ ॥
+
+### Printed p. 370
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । एतानि । चकार । इंद्रः । विश्वा । यः । अति । शृण्वे ।  
+> वाज्रदाना । मघोनां ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष इंद्रो विश्वा विश्वानि व्याप्तान्येतानि वृत्रवधादीनि वीर्याणि । यद्वा ।
+> पृथिव्यादीनि भूतजातानि । तानि चकार । कृतवान् । य इंद्रो बलैरतिशयितः शृण्वे
+> शूयते सर्वत्र स्तूयते । अपि च स इंद्रो मघोनां हविष्मतां यजमानानां
+> वाजदावा वाजस्यान्नस्य दाता भवति ॥
+
+##### Gist of the bhāṣya
+
+This Indra made all these (विश्वा (*viśvā*) = विश्वानि (*viśvāni*), pervasive) heroic deeds, the slaying of Vṛtra and the rest; or else, the classes of beings beginning with the earth. He who is surpassing in strengths is शृण्वे (*śṛṇve*), heard of, praised everywhere. And that Indra becomes वाजदावा (*vājadāvā*), the giver of वाज (*vāja*), food, to the मघोनां (*maghonāṃ*), the sacrificers who have oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः इंद्रः (*eṣaḥ iṃdraḥ*)—this very Indra
+- विश्वा (*viśvā*)—all
+- एतानि (*etāni*)—all these heroic acts such as the slaying of Vṛtra
+- चकार (*cakāra*)—did alone
+- यः (*yaḥ*)—the Indra who
+- अति शृण्वे (*ati śṛṇve*)—is renowned for his surpassing greatness (that same Indra)
+- मघोनां (*maghonāṃ*)—to the sacrificers who have oblations
+- वाजदावा (*vājadāvā*)—becomes the giver of food
+
+##### भावार्थ (Bhāvārtha)
+
+This same Indra alone did all the deeds such as the slaying of Vṛtra and the creative acts such as the earth and the rest. The Indra who is renowned for his surpassing greatness becomes the giver of food to the sacrificers who have oblations.
+
+##### English translation
+This Indra has made all these (beings), who is thence exceedingly renowned ; he is the donor of food to opulent worshippers.
+
+### Printed p. 371
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रभ॑र्ता॒ रथं॑ ग॒व्यंत॑मपा॒काच्चि॒द्यमव॑ति ।  
+> इ॒नो वसु॒ स हि वोळ्हा॑ ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रभर्ता । रथं । गव्यंतं । अपाकात् । चित् । यं । अवति ।  
+> इनः । वसु । सः । हि । वोळ्हा ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रभर्ता प्रहर्ता प्रहरणशील इंद्रो रथं रंहणं गव्यंतं गा इच्छंतं यं
+> स्तोतारमपाकादविपक्षप्रज्ञाच्छत्रोः । चिच्छब्दोऽनुक्तसमुच्चयार्थः । विपक्षप्रज्ञादप्यवति रक्षति स हि स खलु स्तोतेन ईश्वरः सन् वसु धनं वोळ्हा साधुवाही
+> भवति ॥ वहेः साधुकारिणि तृन् ! अतो न लोकाव्ययेति कर्मणि षष्ठ्याः प्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+Indra is प्रभर्ता (*prabhartā*), the striker, one given to striking. रथं (*rathaṃ*) means रंहणं (*raṃhaṇaṃ*) (swift); गव्यंतं (*gavyaṃtaṃ*) is one who desires cows. The praiser whom he protects from अपाकात् (*apākāt*), an enemy lacking discernment (*avipakṣaprajñāt*), and चित् (*cit*) implies the unmentioned "also", from an enemy with discernment too: that praiser, being lord through his praise, becomes वोळ्हा (*voḷhā*), a good bearer of wealth (वसु (*vasu*)). The root वहेः (*vaheḥ*) takes tṛn in the sense of one who does well; hence the genitive is prohibited for the object.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रभर्ता (*prabhartā*)—Indra, who protects the sacrificer by subduing enemies
+- रथं (*rathaṃ*)—devoted to worship
+- गव्यंतं (*gavyaṃtaṃ*)—and desirous of cows
+- यं (*yaṃ*)—whichever sacrificer
+- अपाकात् चित् (*apākāt cit*)—from an enemy without discriminating knowledge
+- अवति (*avati*)—he protects
+- स हि (*sa hi*)—that same sacrificer
+- इनः (*inaḥ*)—as lord
+- वसु (*vasu*)—wealth
+- वोळ्हा (*voḷhā*)—bears
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer, devoted to worship and desirous of cows, whom Indra, who protects and sustains the sacrificer from enemies, protects from an enemy without discriminating knowledge, becomes a lord and bears all wealth himself.
+
+##### English translation
+He whom, adoring, and desirous of cattle, the protector (Indra) defends against an ignorant (foe), becomes a prince, the possessor of wealth.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सनि॑ताः॒ विप्रो॒ अर्व॑द्भि॒र्हंता॑ वृ॒त्रं नृभिः॒ शूरः॑ ।  
+> स॒त्यो॑ऽवि॒ता वि॒धंतं॑ ॥ ३६ ॥
+
+### Printed p. 374
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गाथश्रवसं । सत्पतिं । श्रवःकामं । पुरुत्मानं ।  
+> कण्वासः । गाते । वाजिनं ॥ ३८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कण्वासः कण्वपुत्रा मेधातिथयः । पूर्ववद्बहुवचनमात्मनः संबोधनं
+> च । हे कण्वस्य पुत्रा मेधातिथयः यूयं गाथश्रवसं गातव्ययशसं सत्पतिं सतां
+> पालयितारं श्रवस्कामं । श्रवःस्वन्नेषु हविषु कामोऽभिलाषो यस्य तादृशं ।
+> पुरुत्मानं बह्वात्मानं यद्वा पुरुषु बहुषु प्रदेशेश्वतंतं सततं गच्छंतं वाजिनं
+> वेगवंतं । एवंगुणकमिंद्रं गात गायत । स्तुध्वं ॥
+
+##### Gist of the bhāṣya
+
+O कण्वासः (*kaṇvāsaḥ*), sons of Kaṇva, the Medhātithis (the plural is as before, and is also a form of address to himself). You, sing (गात (*gāta*), praise) that Indra who is गाथश्रवसं (*gāthaśravasaṃ*), of song-worthy fame; सत्पतिं (*satpatiṃ*), protector of the good; श्रवस्कामं (*śravaskāmaṃ*), one whose desire is for श्रवः (*śravaḥ*), oblation foods; पुरुत्मानं (*purutmānaṃ*), of many selves, or else पुरुषु (*puruṣu*), moving constantly in many places; वाजिनं (*vājinaṃ*), swift.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कण्वासः (*kaṇvāsaḥ*)—O sons of Kaṇva
+- गाथश्रवसं (*gāthaśravasaṃ*)—he whose fame is praised in song
+- सत्पतिं (*satpatiṃ*)—protector of the good
+- श्रवस्कामं (*śravaskāmaṃ*)—one who has regard for oblations
+- पुरुत्मानं (*purutmānaṃ*)—one whose nature pervades many places
+- वाजिनं (*vājinaṃ*)—endowed with strength, Indra
+- गात (*gāta*)—praise in song
+
+##### भावार्थ (Bhāvārtha)
+
+O sons of Kaṇva, praise in song that Indra whose fame is praised in song, the protector of the good, who has regard for oblations, whose nature pervades many places, and who is endowed with strength.
+
+##### English translation
+Sing, Kanwas, the mighty (Indra), of widely-sung renown, the protector of the good, the desirous of (sacrificial) food, present in many places.
+
+#### Ṛk 39
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ऋ॒ते चि॒द्गास्प॒देभ्यो॒ दात्सखा॒ नृभ्यः॒ शची॑वान् ।  
+> ये अ॑स्मि॒न्नाम॒मश्रि॑यन् ॥ ३९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 366. pp. 361-366 (batch API)
+**Progress note:** Done through printed p. 374. pp. 367-374 (batch API)
