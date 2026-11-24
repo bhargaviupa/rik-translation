@@ -4118,6 +4118,261 @@ Through sacrifices whose sacrificers are free from heedlessness and endowed with
 ##### English translation
 Desirous of food, we invoke your lord of viands, who is to be magnified by sacrifices (offered) by attentive (worshippers).
 
+### Printed p. 92
+
+##### विशेषविषयगळु (Special Topics)
+
+अप्रायुभिः (*aprāyubhiḥ*): the purport is, having sacrificers who, having begun the rite, do not turn to other places but perform the rite with their gaze fixed on that one rite.
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एतो॒ न्विंद्रं॒ स्तवा॑म॒ सखा॑यः॒ स्तोम्यं॒ नरं॑ ।  
+> कृ॒ष्टर्यो विश्वा॑ अ॒भ्यस्येक॒ इत् ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतो इति । नु । इंद्रं । स्तवाम । सखायः । स्तोम्यं । नरं ।  
+> कृष्टीः । यः । विश्वाः । अभि । अस्ति । एकः । इत् ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एव शस्त्र एतो न्विंद्रमित्येत् तृचौ वैकल्पिकौ स्तोत्रियानुरूपौ ।
+> सूत्रितं च । एतो न्विंद्रं स्तवाम सखायः स्तुहींद्रं व्यश्ववत् । आ. ७-८ । इति ॥
+> हे सखायः समानख्याना मित्रभूता ना हे ऋत्विजः नु क्षिप्रमेतो ।
+> आगच्छतैव । किमर्थं तदाह । स्तोम्यं स्तोमार्हं नरं सर्वस्य नेतारं तमिंद्रं
+> स्तवाम । स्तोत्रं करवाम । य इंद्र एक इदेकोऽसहाय एव सन् विश्वाः सर्वाः
+> कृष्टीः शत्रुसेना अभ्यस्ति अभिभवति । तं स्तवामेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+In the same śastra spoken of before, the two tṛcas beginning एतो न्विंद्रं (*eto nviṃdraṃ*) are the alternative stotriya and anurūpa. It is also laid down in the sūtra: एतो न्विंद्रं स्तवाम सखायः स्तुहींद्रं व्यश्ववत् (*eto nviṃdraṃ stavāma sakhāyaḥ stuhīṃdraṃ vyaśvavat*) (Ā. 7-8). O friends (सखायः (*sakhāyaḥ*)), that is, friends of the same fame, O priests, come (एतो (*eto*)) quickly (नु (*nu*)). For what purpose? To praise Indra, who is worthy of the stoma (स्तोम्यं (*stomyaṃ*)), the leader (नरं (*naraṃ*)) of all; let us make praise (स्तवाम (*stavāma*)). That Indra who, one and alone, without a helper, overcomes all (विश्वाः (*viśvāḥ*)) the hostile armies (कृष्टीः (*kṛṣṭīḥ*)): the remainder is "let us praise him".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O priests, who are friends
+- यः (*yaḥ*)—which Indra
+- एक इत् (*eka it*)—as the unequalled one
+- विश्वाः (*viśvāḥ*)—all
+- कृष्टीः (*kṛṣṭīḥ*)—the hostile armies
+- अभ्यस्ति (*abhyasti*)—overthrows and defeats, such
+- स्तोम्यं (*stomyaṃ*)—one worthy of worship
+- नरं (*naraṃ*)—and a leader
+- इंद्रं (*iṃdraṃ*)—Indra
+- स्तवाम (*stavāma*)—let us praise
+- नु (*nu*)—quickly
+- एतो (*eto*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, who are friends: let us praise that Indra, worthy of worship and a leader, who, unequalled, overthrows and defeats all the hostile armies. Be pleased to come quickly.
+### Printed p. 93
+
+##### English translation
+Come, friends, let us glorify Indra, the leader, who is entitled to praise, who, single, overcomes all hostile hosts.
+
+##### विशेषविषयगळु (Special Topics)
+
+These two tṛcas (six Ṛks) beginning एतो न्विंद्रं (*eto nviṃdraṃ*) are to be recited in the śastra mantras spoken of before as the alternative stotriya and the anurūpa tṛcas. This is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, एतो न्विंद्रं स्तवाम सखायः स्तुहींद्रं व्यश्ववत् (*eto nviṃdraṃ stavāma sakhāyaḥ stuhīṃdraṃ vyaśvavat*) (Ā. 7-8).
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अगो॑रुधाय ग॒विषे॑ द्यु॒क्षाय॒ दस्म्यं॒ वचः॑ ।  
+> घृ॒तात्स्वादी॑यो॒ मधु॑नश्च वोचत ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अगोरुधाय । गोइषे । द्युक्षाय । दस्म्यं । वचः ।  
+> स्फुतात् । स्वादीयः । मधुनः । च । वोचक ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः अगोरुधाय । गाः स्तुती रुणद्दीति गोरुधः । न गोरुधोऽगोरुधः । ता न विनाशयत्यादरेण शृणोतीत्यर्थः । तादृशाय अत एव गविषे
+> स्तोत्राणीच्यते द्युक्षाय दीप्यमानायेंद्राय दस्म्यं दर्शनीयं धृतात्सादुतरादाज्यान्मधुनश्च स्वादीयोऽतिशयेन स्वादुभूतं वचः स्तोत्ररूपं वाक्यं
+> वोचत । ब्रूत ॥ ऋत्विग्निः कृतं कर्म यजमानोऽपि कृतवान्भवतीति यदिदमिंद्रविषयं वचो धृतान्मधुनश्च स्वाडुतरं भवत्वित्याशास्त्रे । तदाह भगवानाश्वलायनः ।
+> वच एव म इदं धृतान्मधुनश्च स्वादीयोऽस्ति प्रीतिः स्वादीयोऽस्त्वितेव तदाह ।
+> आ. गृ. १-१.५ । इति ॥
+
+##### Gist of the bhāṣya
+
+O priests, to अगोरुधाय (*agorudhāya*): one who obstructs praises is a गोरुधः (*gorudhaḥ*); one who is not such is an agorudh; the meaning is, he does not destroy them but hears them with respect. To such an Indra, and therefore to one who desires praises (गविषे (*gaviṣe*)), to the shining (द्युक्षाय (*dyukṣāya*)) Indra, speak (वोचत (*vocata*), that is, utter) a speech in the form of praise that is beautiful (दस्म्यं (*dasmyaṃ*)), sweeter than ghee (धृतात् (*dhṛtāt*)), which is sweeter than clarified butter, and than honey (मधुनश्च (*madhunaśca*)): exceedingly sweet (स्वादीयः (*svādīyaḥ*)). A rite done by the priests is also done by the sacrificer; so the wish is that this speech concerning Indra may be sweeter than ghee and honey. The venerable Āśvalāyana says this: वच एव म इदं धृतान्मधुनश्च स्वादीयोऽस्ति प्रीतिः स्वादीयोऽस्त्वितेव तदाह । (*vaca eva ma idaṃ dhṛtānmadhunaśca svādīyo 'sti prītiḥ svādīyo 'stviteva tadāha |*) (Ā. Gṛ. 1-1.5) **GLOSS** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अगोरुधाय (*agorudhāya*)—(O priests) one who does not reject praises
+- गविषे (*gaviṣe*)—one who desires praise alone
+- द्युक्षाय (*dyukṣāya*)—and is luminous, with Indra as the object
+- दस्म्यं (*dasmyaṃ*)—that which is attractive
+### Printed p. 94
+- घृतात् (*ghṛtāt*)—than ghee
+- मधुनश्च (*madhunaśca*)—and than honey
+- स्वादीयः (*svādīyaḥ*)—that which satisfies by a greater flavour
+- वाचः (*vācaḥ*)—the speech of praise
+- वोचत (*vocata*)—recite
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, to Indra, who does not reject praises but desires them, and is luminous, recite a speech of praise that is attractive, and satisfying by a flavour greater than that of ghee and than that of honey.
+
+##### English translation
+Recite agreeable words, sweeter than clarified butter or than Soma, to the illustrious (Indra), who is gratified by eulogy, who rejects not praise.
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्यामि॑तानि वी॒र्या॒३॒॑ ३ न राधः॒ पर्ये॑तवे ।  
+> ज्योति॒र्न विश्व॑म॒भ्यस्ति॒ दक्षि॑णा ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । अमितानि । वीर्या । न । राधः । परिएतवे ।  
+> ज्योतिः । न । विश्वं । अभि । अस्ति । दक्षिणा ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्येंद्रस्य वीर्या वीर्याणि वृत्रहननादिलक्षणानि सामर्थ्य्यन्यमितानि
+> अस्येयंति सामार्थ्यानि नान्यानीति परिमितानि न भवंति । यद्वा ॥ मीज् हिंसायां ।
+> छांदसो ह्रस्वः ॥ शत्रुभिरहिंसितानि भवंति । तथा यस्येंद्रस्य राधो धनं पर्येतवे शत्रुभिः परिगंतुं प्राप्तुं शक्यं न भवति । अत एव यस्य दक्षिणा धनं दानं
+> विश्वमभ्यस्ति सर्वं स्तोतृजनमभिभवति । तत्र दृष्टांतः । ज्योतिर्न । ज्योतिषामयनत्वाज्योतिरंतरिक्षं । यथांतरिक्षं सर्वलोकं सिधाय तिष्ठति तद्वत्सोतृजनं
+> धनदानेन पिधत्त इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The deeds of valour (वीर्या (*vīryā*)) of that Indra, marked by the slaying of Vṛtra and the like, are immeasurable (अमितानि (*amitāni*)): such capacities of his are not limited, as though they were only so much and no more. Or else, the root meaning "to harm" gives a sense of unharmed: they are not harmed by enemies. Likewise the wealth (राधः (*rādhaḥ*)) of that Indra cannot be gone around or reached by enemies (पर्येतवे (*paryetave*)). For that very reason his gift (दक्षिणा (*dakṣiṇā*)), the giving of wealth, overcomes (अभ्यस्ति (*abhyasti*)) the whole body of reciters. The example is ज्योतिर्न (*jyotirna*): the sky is the home of the luminaries; as the sky stays covering all the worlds, so he covers the body of reciters with gifts of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Indra
+- वीर्या (*vīryā*)—the deeds of valour such as the slaying of Vṛtra
+- अमितानि (*amitāni*)—are immeasurable (are unobstructed)
+- राधः (*rādhaḥ*)—the wealth of which Indra
+- पर्येतवे (*paryetave*)—
+### Printed p. 95
+cannot be carried off by enemies
+- न (*na*)—it is not possible
+- दक्षिणा (*dakṣiṇā*)—the giving of wealth of which Indra
+- ज्योतिर्न (*jyotirna*)—like the sky
+- विश्वं (*viśvaṃ*)—all
+- अभ्यस्ति (*abhyasti*)—covers: praise that Indra
+
+##### भावार्थ (Bhāvārtha)
+
+Praise that Indra whose deeds, such as the slaying of Vṛtra, are immeasurable and unobstructed, whose wealth cannot be carried off by enemies, and whose giving of wealth covers all, like the sky.
+
+##### English translation
+Whose energies are unbounded; whose wealth cannot be carried away ; whose bounty extends like the firmament over all.
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒हींद्रं॑ व्यश्व॒वदनू॑र्मिं वा॒जिनं॒ यमं॑ ।  
+> अ॒र्यो गयं॒ मंह॑मानं॒ वि दा॒शुषे॑ ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुहि । इंद्रं । व्यश्ववत् । अनूर्मिं । वाजिनं । यमं ।  
+> अर्यः । गयं । मंहमानं । वि । दाशुषे ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वमनः अनूर्मिं । ऊर्मिर्हिंसाकर्मा । कैश्चिदप्यहिंस्यं । अथवा
+> शत्रुभिरगंतव्यं । अत एव वाजिनं बलवंतं यमं स्तोतृभिः सुनियतमेता दृश्यमिंद्रं स्तुहि । स्तोत्रे दृष्टांतः । व्यश्ववत् । यथा व्यश्नो विश्वमनसः पितेंद्रमस्तोत्तद्वत्सु हीत्यर्थः । स्तुतश्चेत् आर्यः स्वामींद्रॆ दाशुषे हविर्दत्तवते
+> यजमानाय मंहमानं पूज्यमानं गयं धनं । यद्वा । देवानां पूजाय्कॆ
+> गयं गृहं । गृहमस्ति चेत् देवा हविर्भिः पूज्यंते । तादृशं गृहं वितरति ।
+> तस्मात्त्वं धनगृहलाभाय स्तुहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Viśvamanas, praise Indra, who is अनूर्मिं (*anūrmiṃ*): the word ūrmi has the sense of harming, so he is one who cannot be harmed by anyone, or whom enemies cannot approach. For that very reason he is powerful (वाजिनं (*vājinaṃ*)), well restrained (यमं (*yamaṃ*)) by the reciters, and visible. The example for the praise is व्यश्ववत् (*vyaśvavat*): as Vyaśva, the father of Viśvamanas, praised Indra, so praise him. If praised, the lord Indra gives to the sacrificer who has given oblation honoured (मंहमानं (*maṃhamānaṃ*)) wealth (गयं (*gayaṃ*)). Or else, गयं (*gayaṃ*) is a house for the worship of the gods: if there is a house in which the gods are worshipped with oblations, he bestows such a house. Therefore praise him for the gain of wealth and a house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनूर्मिं (*anūrmiṃ*)—(O sage Viśvamanas) one who is unharmed by anyone
+- वाजिनं (*vājinaṃ*)—endowed with power
+- यमं (*yamaṃ*)—the cause of the restraint of the reciters (or one restrained by the praise of reciters)
+### Printed p. 96
+- इंद्रं (*iṃdraṃ*)—Indra
+- व्यश्ववत् (*vyaśvavat*)—as your father Vyaśva praised
+- स्तुहि (*stuhi*)—praise
+- आर्यः (*āryaḥ*)—the venerable Indra
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblation
+- मंहमानं (*maṃhamānaṃ*)—that which is worthy of honour
+- गयं (*gayaṃ*)—wealth or a house
+- वि (*vi*)—he gives abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O sage Viśvamanas, praise Indra, who is unharmed by anyone, endowed with power, the cause of the restraint of the reciters or one restrained by the praises of the reciters, as your father Vyaśva praised him. The venerable Indra gives abundantly to the sacrificer who offers oblation exceedingly precious wealth or a house.
+
+##### English translation
+Glorify Indra, the unassailable, the powerful, the regulator (of men) as was done by Vyashwa ; he, the lord, gives a spacious dwelling to the donor (of the oblation).
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा नू॒नमुप॑ स्तुहि॒ वैय॑श्व दश॒मं नवं॑ ।  
+> सुवि॑द्वांसं च॒र्कृत्यं॑ च॒रणी॑नां ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नूनं । उप । स्तुहि । वैयश्व । दशमं । नवं ।  
+> सुविद्वांसं । चर्कृत्यं । चरणीनां ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वैयश्व व्यश्वस्य पुत्र विश्वमनः चरणीनां मनुष्याणां देहे स्थितानां
+> नवानां प्राणानां दशमं दशसंख्यापूरकं । तत्र मंत्रः । नव वै पुरुषे प्राणा
+> मनुष्येषु वर्तमाना इंद्रस्तेषां दशधा भवतींद्रस्यात्मानं दशधा चरंतमिति ।
+> एतादृशं आत एव नवं स्तुत्यं सुविद्वांसमंतर्यामित्वात् सुष्टु सर्वं जानंतं
+> चर्कृत्यं भूयो भूयः कार्येषु सर्वैर्नमस्कर्तव्यं एवंविधमिंद्रमेव
+> नूनविदानीमुप स्तुहि । समीपे स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+O Vaiyaśva, son of Vyaśva, Viśvamanas: Indra is the tenth (दशमं (*daśamaṃ*)), the completer of the number ten, of the nine vital breaths dwelling in the body of men (चरणीनां (*caraṇīnāṃ*)). On this there is a mantra: नव वै पुरुषे प्राणा मनुष्येषु वर्तमाना इंद्रस्तेषां दशधा भवतींद्रस्यात्मानं दशधा चरंतमिति । (*nava vai puruṣe prāṇā manuṣyeṣu vartamānā iṃdrasteṣāṃ daśadhā bhavatīṃdrasyātmānaṃ daśadhā caraṃtamiti |*) **GLOSS** Such, and therefore praiseworthy (नवं (*navaṃ*)), as inner controller knowing all well (सुविद्वांसं (*suvidvāṃsaṃ*)), to be saluted by all again and again in rites (चर्कृत्यं (*carkṛtyaṃ*)): praise such an Indra alone now, near at hand.
+### Printed p. 97
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैयत्व (*vaiyatva*)—O sage named Viśvamanas, son of Vyaśva
+- चरणीनां (*caraṇīnāṃ*)—of men, who completes with the nine vital breaths within the body
+- दशमं (*daśamaṃ*)—who is of the form of the tenth breath
+- नवं (*navaṃ*)—the praiseworthy
+- सुविद्वांसं (*suvidvāṃsaṃ*)—who knows everything as the inner controller
+- चर्कृत्यं एव (*carkṛtyaṃ eva*)—who is saluted by all again and again, Indra himself
+- नूनं (*nūnaṃ*)—now
+- उप स्तुहि (*upa stuhi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O sage named Viśvamanas, son of Vyaśva: praise now Indra himself, who is of the form of the tenth breath that completes the nine breaths within the body of men, who is praiseworthy, knows everything as the inner controller, and is saluted by all again and again.
+
+##### English translation
+Praise verily at present, son of Vyshwa, praise (Indra), who is the tenth of the pervading (vital principles), the adorable, the all-wise, to be honoured repeatedly (by sacred rites).
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेत्था॒ हि निर्ऋ॑तीनां॒ वज्र॑हस्त परि॒वृजं॑ ।  
+> अह॑रहः शुं॒ध्युः प॑रि॒पदा॑मिव ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेत्थ । हि । निःयतीनां । वज्रहस्त । परिवृजं ।  
+> अहः अहः । शुंध्युः । परिपदां इव ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदानीमृषिरिंद्रं संबोध्याह । हे वज्रहस्त वज्रयुक्तहस्तेंद्र निर्युतीनामुपद्रवकारिणां रक्षसां परिवृजं परिवर्जनं । हिरवधारणे । त्वमेव वेत्थ ।
+> जानीषे । तत्र दृष्टांतः । अहरहः शुंध्युः । अस्मिन्नुदिते सति ब्राह्मणा आत्मीयं
+> कर्म कृत्वा शुद्धा भवंतीति शोधनहेतुत्वात् शुंध्युरादित्यः । परिपदामिव परितो
+> यजमानानामिव । यद्वा। परिपदां समानाधिकरणः । परितः पततां पक्षीणां वर्जनं
+
+##### Gist of the bhāṣya
+
+Now the seer addresses Indra. O Indra, thunderbolt-handed (वज्रहस्त (*vajrahasta*)), with a hand armed with the thunderbolt: you alone know (वेत्थ (*vettha*)), that is, understand, how to avoid (परिवृजं (*parivṛjaṃ*)) the troublesome rākṣasas, the nirṛtis. The example is अहरहः शुंध्युः (*aharahaḥ śuṃdhyuḥ*): when he has risen, the brāhmaṇas, having performed their own rites, become pure; because he is the cause of purification, the sun is the purifier (शुंध्युः (*śuṃdhyuḥ*)). परिपदामिव (*paripadāmiva*): as around the sacrificers. Or else, परिपदां (*paripadāṃ*) stands in the same case-relation: the avoidance of the birds that fall all around
+
 ---
 
-**Progress note:** Done through printed p. 91. Ṛk 13 (end) to Ṛk 18 of Sūkta 24 (pp. 86-91)
+**Progress note:** Done through printed p. 97. Ṛk 18 (end) to Ṛk 24 (begin) of Sūkta 24 (pp. 92-97)
