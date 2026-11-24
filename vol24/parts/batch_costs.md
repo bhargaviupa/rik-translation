@@ -22,3 +22,4 @@
 | 20 | through p. 388 (three windows in one agent: pp. 371–388) | sonnet | 15 | 172563 | 5.1 |
 | 21 | through p. 407 (three windows; agent hit the usage limit after w0389 and was resumed; tokens of the resumed part only) | sonnet | 10+ | 190402 | – |
 | 22 | through p. 426 (three windows in one agent: pp. 408–426) | sonnet | 11 | 155122 | 3.3 |
+| 23 | through p. 444 (three windows in one agent: pp. 427–444) | sonnet | 16 | 142230 | 2.6 |
