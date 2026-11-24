@@ -5,3 +5,4 @@
 - 2026-11-24 PDF 241: two Devanagari avagrahas (ऽ) in the Śatapatha quotation (sā'prāpya) changed to the Kannada avagraha ಽ by the dispatcher (certain: same sign, script only).
 - 2026-11-24 PDF 310: the print's running head shows 293 where the sequence has 298 (a misprint of the edition, seen in the image, p-0310a.jpg). Kept as printed, [?] removed; scan_check.py reports it as FAIL (expected, known). Needs a NOTE in the English/Kannada assembly if the head is carried.
 - 2026-11-24 PDF 350: the head shows '339' (last digit set in a Kannada ೯ type, p-0350a.jpg) where the sequence has 338: a misprint of the edition, kept as 339, [?] removed. scan_check.py reports FAIL for it (known).
+- 2026-11-24 PDF 376: head page number read 304[?] by the agent; the image (p-0376a.jpg) shows an old-style 6 (reads 364, as the sequence requires); written 364 with [?] kept (digit shape, not the sequence, decides; to be settled at the second pass).
