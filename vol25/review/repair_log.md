@@ -15,3 +15,4 @@
 - 2026-11-24 PDF 586 (printed p. between 574 and 575) is a full-page picture without text (empty file apart from the no-head comment); look at the image at assembly (a divider picture for Maṇḍala 9?).
 - 2026-11-24 PDF 736, 738, 740: the agent could not read the head sūkta digits and wrote ೧೮[?] from the heading of the next sūkta (inference, not glyph). To be read from the images at the second pass.
 - 2026-11-24 PDF 827: the agent normalised ಸೋಮು to ಸೋಮ by sed (print form lost); pp. 826–831 may have lost the print's ಮು-forms (to be compared with the images at the second pass).
+- 2026-11-24 PDF 850–855: the agent says it wrote the Kannada from a quick visual reading, not letter by letter (0 [?] on four pages); least reliable batch, first in the second pass together with 442–447.
