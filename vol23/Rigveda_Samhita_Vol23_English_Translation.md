@@ -12399,6 +12399,261 @@ O Adhvaryus, press this Soma juice with the pressing stones. Join the pressed ju
 ##### English translation
 Extract the Soma juice with the bruising stones, wash it with the consecrated waters; (for by so doing) the leaders (of the rain, the Maruts) clothing (the sky with clouds) as with a vesture of the hide of the cow, milk forth (the water) for the rivers.
 
+### Printed p. 312
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ ज्यो अध॑ वा दि॒वो बृ॑ह॒तो रो॑च॒नादधि॑ ।  
+> अ॒या व॑र्धस्व त॒न्वा॑ गि॒रा ममा जा॒ता सु॑क्रतो पृण ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । ज्ञः । अध । वा । दिवः । बृहतः । रोचनात् । अधि ।  
+> अया । वर्धस्व । तन्वा । गिरा । मम । आ । जाता । सुक्रतो इति सुक्रतो।पृण ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अधाधुना ज्मः । जमंति गच्छंत्यस्यामिति ज्ञा पृथिवी । तस्याः सकाशादध वापि ना दिवोऽंतरिक्षाद्बृहतो महतो रोचनान्नक्षत्रैर्दिर्प्यमानात्स्वर्गाद्वागत्य । अधिः पंचम्यर्थानुवादी । अयानया तन्ना ततया विस्तृतया मम
+> मदीयया गिरा स्तुत्या वर्धस्व । वृद्धो भव । हे सुक्रतो शोभनकर्मवन्निंद्र
+> जाता जातानस्मदीयाञ्जनाना पृण । अभिलषितैः फलैरापूरय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, now, from the earth (ज्मः (*jmaḥ*) is that in which beings go, the earth), or else from the firmament, or from the great heaven shining with stars, come and be magnified. अधि (*adhi*) merely repeats the sense of the ablative. Be increased by this wide, extended praise of mine. O Indra of good works, fill our people with the fruits they desire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—now
+- ज्ञः (*jñaḥ*)—from the earth
+- अध वा (*adha vā*)—or
+- दिवः (*divaḥ*)—from the firmament (or)
+- बृहतः (*bṛhataḥ*) रोचनात् अधि (*rocanāt adhi*)—from the great heaven shining with stars and the like, having come
+- तन्वा (*tanvā*)—extensively fashioned
+- मम (*mama*)—offered by me
+- अया गिरा (*ayā girā*)—by this word of praise
+- वर्धस्व (*vardhasva*)—attain increase (joy)
+- सुक्रतो (*sukrato*)—O Indra, doer of excellent deeds
+- जाता (*jātā*)—all our people
+- आ पृण (*ā pṛṇa*)—fill with fruits (satisfy)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come from the earth, or from the firmament, or from the great heaven shining with stars and the like, and attain increase (joy) by this word of praise, extensively fashioned and offered by me. O Indra, doer of excellent deeds, fill all our people with fruits and satisfy them.
+
+##### English translation
+Whether come from the earth or the firmament, or the vast luminous
+
+### Printed p. 313
+(heaven), be magnified by this may diffusive praise; satisfy, Satakratu
+(my) people.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य॒ सु म॒दिन्त॑मं॒ सोमं॑ सोता॒ वरे॑ण्यं ।  
+> श॒क्र ए॑णं पीपय॒द्विश्व॑या धि॒या हि॑न्वा॒नं न वा॑ज॒युं ॥१९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । सु । मदिन्तमं । सोमं । सोत । वरेण्यं ।  
+> शक्रः । एनं । पीपयत् । विश्वया । धिया । हिन्वानं । न । वाजयुं ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवः इंद्रायेंद्रार्थं मदिंतमं मादयितृतमं वरेण्यं
+> वरणीयं संभजनीयं सोमं सु सोत । अभिषुणुत । कुत इत्यत आह । शक्र
+> इंद्रो विश्वया थिया सर्वया क्रिययाग्निष्टोमादिलक्षणया हिन्वानं प्रीणयंतं वाजयुमन्नमात्मन इच्छंतमेनं यजमानं । नेति संप्रत्यर्थियः ।
+> संप्रति पीपयत् । वर्धयति । अतः कारणात्तस्मा इंद्राय सोमं सुनुतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryus, press well for Indra the most exhilarating, most excellent, most worshipful Soma. Why? Śakra (Indra) now cherishes this sacrificer, who gratifies him with every rite such as the Agniṣṭoma and who desires food for himself; न (*na*) here has the sense "now". Therefore press Soma for that Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वया (*viśvayā*)—all
+- धिया (*dhiyā*)—by rites such as the Agniṣṭoma
+- हिन्वानं (*hinvānaṃ*)—one who gratifies
+- वाजयुं (*vājayuṃ*)—who desires food
+- एनं (*enaṃ*)—this sacrificer
+- शक्रः (*śakraḥ*)—Indra
+- न (*na*)—at once
+- पीपयत् (*pīpayat*)—makes him grow (therefore, O Adhvaryus)
+- इंद्राय (*iṃdrāya*)—for Indra
+- मदिंतमं (*madiṃtamaṃ*)—intoxicating
+- वरेण्यं (*vareṇyaṃ*)—and worshipful
+- सोमं (*somaṃ*)—the Soma juice
+- सु सोत (*su sota*)—press well
+
+##### भावार्थ (Bhāvārtha)
+
+Indra at once causes to prosper the sacrificer who gratifies him with all rites such as the Agniṣṭoma and who desires food. Therefore, O Adhvaryus, press well for Indra the intoxicating and worshipful Soma juice.
+
+##### English translation
+Pour out to Indra the most exhilarating, the most excellent Soma,
+
+### Printed p. 314
+for Sakra cherishes him who is desirous of food, propitiating him by
+every pious act.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा त्वा॒ सोम॑स्य॒ गल्द॑या॒ सदा॒ याच॑न्न॒हं गि॒रा ।  
+> भूर्णिं॑ मृ॒गं न सव॑नेषु चुक्रुद्धं॒ क ईशा॑नं॒ न या॑चिषत्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । त्वा । सोमस्य । गल्दया । सदा । याचन् । अहं । गिरा ।  
+> भूर्णिं । मृगं । न । सवनेषु । चुक्रुद्धं । कः । ईशानं । न । याचिषत् ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वां सवनेसु यज्ञेषु सोमस्य गल्बया गालनेनास्रावणेन गिरा
+> स्तुत्या च युक्तोऽहं सदा सर्वदा याचन् याचमानः सन् मा चक्रुदं । मा
+> क्रोधयानि । बहुशो याच्यमाने त्वयि क्रोधो जायते तं सोमस्य गालनेन
+> स्तुत्या चापनयामित्यर्थः । कीदृशं त्वां । भूर्णिं भर्तारं मृगं न सिंहमिव
+> भीमं । स्वामिन इंद्रस्य याचने लौकिकन्यायं दर्शयति । लोके को ना पुरुष
+> ईशानमीश्वरं स्वामिनं न याचिषत् । न याचेत । सर्व एव हि याचते । अतोऽहमपि त्वां स्वामिनं याच इति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, at the sacrifices, joined with the straining (pouring) of Soma and with praise, and ever importuning you, may I not make you angry. Anger arises in you when you are asked again and again; I remove it by straining Soma and by praise. What kind of you? भूर्णिं (*bhūrṇiṃ*), the supporter, fearsome like a lion. He shows the worldly rule in asking one's lord: in the world what man does not ask his master (ईशानं (*īśānaṃ*))? Everyone asks; therefore I too ask you, my lord. That is the idea.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) भूर्णिं (*bhūrṇiṃ*)—terrible, king of beasts
+- मृगं न (*mṛgaṃ na*)—terrible like a lion
+- त्वा (*tvā*)—you
+- सदा (*sadā*)—always
+- याचन् (*yācan*)—asking
+- सवनेषु (*savaneṣu*)—at the sacrifices
+- सोमस्य (*somasya*)—of the Soma juice
+- गल्डया (*galḍayā*)—with the offering of Soma juice in a stream
+- गिरा (*girā*)—and with praise, joined
+- अहं (*ahaṃ*)—I
+- मा चुक्रुदं (*mā cukrudaṃ*)—will cause you not to be angry
+- कः (*kaḥ*)—who among men
+- ईशानं (*īśānaṃ*)—the lord of all, Indra
+- न याचिषत् (*na yāciṣat*)—does not ask?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are terrible like the lion, king of beasts. By being asked again and again, anger in you is natural. But by satisfying you with the Soma flowing in the sacrifice, joined with praises, I will cause you not to be angry. Who in the world does not ask Indra, the lord of all?
+
+##### English translation
+May I never, when importuning you in sacrifices with the effusion
+of the Soma and with praise, excite you like a ferocious lion, to wrath :
+who (is there in the world) that does not solicit his lord ?
+
+### Printed p. 315
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word गल्बया (*galbayā*) in this Ṛk, Yāska has given an explanation of the Ṛk:
+मा चुक्रुधं त्वां सोमस्य गालनेन सदा याचन्नहं गिरा गीत्या स्तुत्या भूर्णिमिव मृगं न सवनेषु चुक्रुधं क ईशानं न याचिष्यत इति ॥ (*mā cukrudhaṃ tvāṃ somasya gālanena sadā yācannahaṃ girā gītyā stutyā bhūrṇimiva mṛgaṃ na savaneṣu cukrudhaṃ ka īśānaṃ na yāciṣyata iti ‖*) गल्दा धमनयो भवंति गलनमासु धीयते । आ त्वा विशंत्विंदव आ गल्दा धर्मनीनां । नानाविभक्ती त्वेते भवत आगलना धमनीनामित्यत्रार्थः ॥ (*galdā dhamanayo bhavaṃti galanamāsu dhīyate | ā tvā viśaṃtviṃdava ā galdā dharmanīnāṃ | nānāvibhaktī tvete bhavata āgalanā dhamanīnāmityatrārthaḥ ‖*) (Ni. 6-24)
+When the Soma juice has been pressed, we keep praying to you, always, with praises, with song, with prayers and other kinds of petitions, that you may drink it. May you not become wearied and angry because of it, as a wild beast in the forest is angered when it is harassed; may our prayers not cause you anger. For who does not pray to and call upon you, the lord?
+Here गल्ला (*gallā*) means a vessel. Since the pressed Soma juice is poured into it, the sense "vessels" has become current for गल्ला (*gallā*). The Śruti sentence आ त्वा विशंत्विंदव आ गल्ला धमनीनां (*ā tvā viśaṃtviṃdava ā gallā dhamanīnāṃ*), meaning "may the pressed Soma enter you (your belly)", or "may it come and gather in the vessel that collects the Soma", is given here as an illustration.
+The words गल्ला (*gallā*) and धमनी (*dhamanī*) have one and the same meaning, that is, they are synonyms indicating the same sense. These words are used in various case-forms. In the present Ṛk the word गल्ला (*gallā*) means the Soma juice collected in the vessels.
+
+### Printed p. 316
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मदे॑नेषि॒तं मद॑मु॒ग्रमु॒ग्रेण॒ शव॑सा ।  
+> विश्वे॑षां तरु॒तारं॑ मद॒च्युतं॒ मदे॒ हि ष्मा॒ ददा॑ति नः ॥२१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मदेन । इषितं । मदं । उग्रं । उग्रेण । शवसा ।  
+> विश्वेषां । तरुतारं । मद्वच्युतं । मदे । हि । स्म । ददाति । नः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदेन मादयित्रा स्तोत्रेषितं प्रेषितं मदं मदकरं सोममुग्रमुद्गूर्णं रसमुग्रेणोद्गूर्णेनाधिकेन शवसा बलेन युक्त इंद्रः पिबत्विति शेषः।
+> पीत्वा च विश्वेषां सर्वॆषां शत्रूणां तरुतारं तरीतारं जेतारं मदच्युतं
+> मदस्य शत्रूणां गर्वस्य ब्यावयितारं पुत्रं मदे सोमपानेन जनिते हर्षे सति
+> नोऽस्मभ्यं ददाति हि ष्म । ददाति खलु । अतः सोमं पिबत्वत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+Let Indra, endowed with strong, abundant, upsurging might, drink the Soma, the intoxicating, strong essence sent forth by the exhilarating praise (the verb to be supplied is "let him drink"). Having drunk, in the joy born of Soma-drinking he gives us a son who is the overcomer (तरुतारं (*tarutāraṃ*)) of all enemies and the humbler (मदच्युतं (*madacyutaṃ*)) of the enemies' pride; हि ष्म (*hi ṣma*) means "he surely gives". Therefore let him drink Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदेन (*madena*)—by the praiser who fashions an exhilarating praise
+- इषितं (*iṣitaṃ*)—offered
+- मदं (*madaṃ*)—producing joy
+- उग्रं (*ugraṃ*)—powerful Soma juice
+- उग्रेण (*ugreṇa*)—very great
+- शवसा (*śavasā*)—endowed with might, let Indra drink
+- मदे (*made*)—when satisfied by drinking the Soma juice
+- (Indra)
+- नः (*naḥ*)—to us
+- विश्वेषां (*viśveṣāṃ*)—of all enemies
+- तरुतारं (*tarutāraṃ*)—able to conquer
+- मदच्युतं (*madacyutaṃ*)—who subdues the pride of enemies, a son
+- ददाति हि स्म (*dadāti hi sma*)—surely he graciously gives, does he not?
+
+##### भावार्थ (Bhāvārtha)
+
+Let Indra, endowed with very great might, drink the Soma juice that is offered by the praiser who fashions an exhilarating praise, that produces joy and is powerful. When Indra is satisfied by drinking the Soma juice, he surely graciously gives a son able to conquer all enemies and subduing the pride of enemies.
+
+### Printed p. 317
+
+##### English translation
+(May Indra drink) with invigorated strength, the strong exhilarating
+(Soma) offered with animating (laudation): for in his delight he gives us
+(a son) the overcomer of all (foes), the humbler of their pride.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शेवा॑रे॒ वार्या॑ पु॒रु दे॒वो मर्ता॑य दा॒शुषे॑ ।  
+> स सु॑न्व॒ते च॑ स्तुव॒ते च॑ रासते वि॒श्वगू॑र्तो अरिष्टु॒तः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शेवारे । वार्या । पुरु । देवः । मर्ताय । दाशुषे ।  
+> सः । सुन्वते । च । स्तुवते । च । रासते । विश्वगूर्तः । अरिस्तुतः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शेवारे । शेवं सुखं । तस्य गमके यज्ञे दाशुषे चरुपुरोडाशादीनि
+> दत्तवते यजमानाय पुरु पुरूणि बहूनि वार्याणि वरणीयानि धनानि देवो
+> दानादिगुणयुक्त इंद्रो रासते । ददाति । स एव सुन्वते च सोमाभिषवं कुर्वते
+> च स्तुवते च स्तोत्रं कुर्वते च धनानि रासते । कीदृशः सः । विश्वगूर्तो
+> विश्वेषु सर्वॆषु कार्येषूद्यतः स्वतः प्रवृत्तोऽरिष्टुतोऽरिभिः प्रेरयितृभिः
+> प्रशस्तः ॥
+
+##### Gist of the bhāṣya
+
+At the शेवारे (*śevāre*) (शेवं (*śevaṃ*) is happiness; the sacrifice that conveys to it), to the sacrificer who has given cooked offerings, cake-offerings and the like, the god Indra, endowed with the qualities of generosity etc., gives (रासते (*rāsate*)) many desirable riches (वार्याणि (*vāryāṇi*)). He alone gives riches to him who presses Soma and to him who praises. What kind is he? विश्वगूर्तः (*viśvagūrtaḥ*): ready, of his own accord engaged, in all undertakings; अरिष्टुतः (*ariṣṭutaḥ*): praised by the अरि (*ari*), the impellers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वगूर्तः (*viśvagūrtaḥ*)—one who of himself has resolve in all undertakings
+- अरिष्टुतः (*ariṣṭutaḥ*)—praised even by enemies
+- देवः (*devaḥ*)—Indra, godlike in nature
+- शेवारे (*śevāre*)—in the sacrifice
+- दाशुषे (*dāśuṣe*)—to one who offers oblations
+- मर्ताय (*martāya*)—to the man
+- पुरु (*puru*)—in great abundance
+- वार्या (*vāryā*)—riches desired by all
+- रासते (*rāsate*)—gives
+- सः (*saḥ*)—that same Indra
+- सुन्वते च (*sunvate ca*)—to him who presses and offers Soma juice
+- स्तुवते च (*stuvate ca*)—to him who praises him also, he gives
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who of himself has resolve in all undertakings, who is praised even by enemies and is godlike in nature, gives in great abundance to the man who offers oblations in the sacrifice the riches desired by all
+
 ---
 
-**Progress note:** Done through printed p. 311. pp. 306-311 (batch API)
+**Progress note:** Done through printed p. 317. pp. 312-317 (batch API)
