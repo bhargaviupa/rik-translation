@@ -14964,6 +14964,287 @@ O Indra, lord of all rites, in the battles that destroy enemies you have fully p
 ##### English translation
 You protect, Indra, lord of rites, with all protections in combats with enemies, this sacrifice of him who offers you the libations : slayer of Vritra, irrproachable wielder of the thunderbolt, drink of the Soma at the mid-day solemnity.
 
+### Printed p. 331
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> से॒हा॒न उ॑ग्र॒ पृत॑ना अ॒भि द्रुहः॑ शचीपत॒ इंद्र॒ विश्वा॑भिरू॒तिभिः॑ ।  
+> माध्यं॑दिनस्य॒ सव॑नस्य वृत्रहन्ननेद्य॒ पिबा॒ सोम॑स्य वज्रिवः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सेहानः । उग्र । पृतनाः । अभि । द्रुहः । शचीसते । इंद्र । विश्वाभिः । ऊतिभिः ।  
+> माध्यंदिनस्य । सवनस्य । वृत्रहन् । आनेद्य । पिब । सोमस्य । वज्रीवः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शचीपते कर्मपत उग्रोद्गर्णेंद्र अभि द्रुहो द्रोग्रिः पृतनाः
+> सेनाः सेहानोभिभवन् सर्वैः पालनैब्ब्राह्मणान् प्राविधेत्यर्थः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, lord of Śacī, lord of rites, fierce one, overcoming the hostile armies, you have protected the brāhmaṇas with all your protections. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शजीपते (*śajīpate*)—lord of all rites
+- उग्र (*ugra*)—possessed of exceeding strength
+- इंद्र (*iṃdra*)—O Indra
+- अभि द्रुहः (*abhi druhaḥ*)—hostile to us
+- पृतनाः (*pṛtanāḥ*)—armies
+- सेहानः (*sehānaḥ*)—defeating
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections (you have protected all of us)
+- आनेद्य (*ānedya*)—blameless
+- वज्रिवः (*vajrivaḥ*)—wielder of the thunderbolt
+- वृत्रहन् (*vṛtrahan*)—slayer of Vṛtra, O Indra
+- माध्यंदिनस्य (*mādhyaṃdinasya*)—performed at midday
+- सवनस्य (*savanasya*)—pressed in the sacrifice
+- सोमस्य (*somasya*)—this Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of all rites, possessed of exceeding strength, defeating the armies that are hostile to us, you have protected all of us with all your protections. Blameless one, wielder of the thunderbolt, slayer of Vṛtra, O Indra, drink the Soma offered in the sacrifice performed at midday.
+
+##### English translation
+Fierce Indra, defeater of hostile armies, lord of rites, (you protect with all your protections ; slayer of Vritra, irreproachable wielder of the thunderbolt, drink of the Soma at the mid-day solemnity.
+
+### Printed p. 332
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒क॒राळ॒स्य भुव॑नस्य राजसि शचीपत॒ इंद्र॒ विश्वा॑भिरू॒तिभिः॑ ।  
+> माध्यं॑दिनस्य॒ सव॑नस्य वृत्रहन्ननेद्य॒ पिबा॒ सोम॑स्य वज्रिवः ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकराट् । अस्य । भुवनस्य । राजसि । शचीपते । इंद्र । विश्वाभिः । ऊतिभिः ।  
+> माध्यंदिनस्य । सवनस्य । वृत्रहन् । अनेद्य । पिब । सोमस्य । वज्रिवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शचीपत इंद्र भुवनस्यैकराडेक एव राजा सन् राजसि । भ्राजसे ।
+> सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, lord of Śacī, you shine as the one sole king of the world. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीपते (*śacīpate*)—protector of all rites
+- इंद्र (*iṃdra*)—O Indra
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- अस्य भुवनस्य (*asya bhuvanasya*)—of this entire world
+- एकराट् (*ekarāṭ*)—as the one sole lord
+- राजसि (*rājasi*)—you shine
+- अनेद्य (*anedya*)—blameless
+- वज्रिवः (*vajrivaḥ*)—wielder of the thunderbolt
+- वृत्रहन् (*vṛtrahan*)—slayer of Vṛtra, O Indra
+- माध्यंदिनस्य (*mādhyaṃdinasya*)—performed at midday
+- सवनस्य (*savanasya*)—offered in the sacrifice
+- सोमस्य (*somasya*)—the Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of all rites, with all your protections you shine as the one sole lord of this entire world. Blameless one, wielder of the thunderbolt, slayer of Vṛtra, O Indra, drink the Soma offered in the sacrifice performed at midday.
+
+##### English translation
+You shine the sole sovereign of this world, Indra, lord of rites, with all your protections : slayer of Vritra, irreprochable wielder of the thunder-bolt drink of the Soma at the mid day solemnity.
+
+### Printed p. 333
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒स्थाना॑ना यवयसि॒ त्वमेक॒ इच्छ॑चीपत॒ इंद्र॒ विश्वा॑भिरू॒तिभिः॑ ।  
+> माध्यं॑दिनस्य॒ सव॑नस्य वृत्रहन्ननेद्य॒ पिबा॒ सोम॑स्य वज्रिवः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सस्थावाना ! यवयसि । त्वं । एक । इत् । शचीसते । इंद्र । विश्वाभिः । ऊतिभिः ।  
+> माध्यंदिनस्य । सवनस्य । वृत्रहन् । अनेद्य । पिब । सोमस्य । वज्रीवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शचीपत इंद्र त्वमेक एव सस्थानाना समानं तिष्ठंताविम् लोकौ
+> यवयसि । पृथक्करोषि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, lord of Śacī, you alone separate these two worlds that stand together. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीपते (*śacīpate*)—protector of rites
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- एक इत् (*eka it*)—alone
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- सस्थावाना (*sasthāvānā*)—both heaven and earth, joined together
+- यवयसि (*yavayasi*)—you separate
+- अनेद्य (*anedya*)—blameless
+- वज्रिवः (*vajrivaḥ*)—wielder of the thunderbolt
+- वृत्रहन् (*vṛtrahan*)—slayer of Vṛtra, O Indra
+- माध्यंदिनस्य (*mādhyaṃdinasya*)—performed at midday
+- सवनस्य (*savanasya*)—offered in the sacrifice
+- सोमस्य (*somasya*)—the Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of rites, you alone, with all your protections, separate heaven and earth, which are joined together. Blameless one, wielder of the thunderbolt, slayer of Vṛtra, O Indra, drink the Soma offered in the sacrifice performed at midday.
+
+##### English translation
+You alone, Indra, lord of rites, separate the combined worlds (heaven and earth) with all your protections ; slayer of Vritra, irreproachable wielder of the thunderbolt, drink of the Soma at the mid-day solemnity.
+
+### Printed p. 334
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्षेम॑स्य च प्र॒युज॑श्च॒ त्वमी॑तिषे शचेपत॒ इंद्र॒ विश्वा॑भिरू॒तिभिः॑ ।  
+> माध्यं॑दिनस्य॒ सव॑नस्य वृत्रहन्ननेद्य॒ पिबा॒ सोम॑स्य वज्रिवः ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षेमस्य । च । प्रयुजः । च । त्वं । ईशिषे । शचीपते । इंद्र । विश्वाभिः । ऊतिभिः ।  
+> माध्यंदिनस्य । सवनस्य । वृत्रहन् । अनेद्य । पिब । सोमस्य । वज्रिवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपि च हे शचीपत इंद्र सर्वस्य जगतः क्षेमस्य प्रयुजश्च प्रयोगस्य च ।
+> योगक्षेमयोरित्यर्थः । ईशिषे । ईश्वरो भवसि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Further, O Indra, lord of Śacī, you are the lord of the welfare of the whole world and of its exertion, that is, of acquisition and preservation. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीपते (*śacīpate*)—protector of rites
+- इंद्र (*iṃdra*)—O Indra
+- क्षेमस्य (*kṣemasya*)—of welfare
+- प्रयुजश्च (*prayujaśca*)—and of increase
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- त्वं (*tvaṃ*)—you yourself
+- ईशिषे (*īśiṣe*)—you are lord
+- अनेद्य (*anedya*)—blameless
+- वृत्रहन् (*vṛtrahan*)—slayer of Vṛtra
+- वज्रिवः (*vajrivaḥ*)—wielder of the thunderbolt, O Indra
+- माध्यंदिनस्य (*mādhyaṃdinasya*)—performed at midday
+- सवनस्य (*savanasya*)—offered in the sacrifice
+- सोमस्य (*somasya*)—the Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of rites, with all your protections you yourself are lord of our welfare and of our increase as well. Blameless one, slayer of Vṛtra, wielder of the thunderbolt, O Indra, drink the Soma offered in the sacrifice performed at midday.
+
+##### English translation
+You, lord of rites, are sovereign over our prosperity and gains, with all your protections : slayer of Vritra, irrepoachable wielder of the thunder-bolt, drink of the Soma at mid-day solemnity.
+
+### Printed p. 335
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्ष॒त्राय॑ त्व॒मव॒॑ न त्व॑माविथ शचीपत॒ इंद्र॒ विश्वा॑भिरू॒तिभिः॑ ।  
+> माध्यं॑दिनस्य॒ सव॑नस्य वृत्रहन्ननेद्य॒ पिबा॒ सोम॑स्य वज्रिवः ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षत्राय । त्वं । अवसि । न । त्वं । आविथ । शचीसते । इंद्र । विश्वाभिः । ऊतिभिः ।  
+> माध्यंदिनस्य । सवनस्य । वृत्रहन् । अनेद्य । पिब । सोमस्य । वज्रीवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दे शचीपत इंद्र त्वं क्षत्राय जगतो बलाय भवसि । अवसि । आश्रितान्रक्षसि ।
+> त्वं नाविथ ! केनापि न रक्ष्यसे । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, lord of Śacī, you exist for the strength of the world and you protect those who depend on you; you are not protected by anyone. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीपते .. कर्मपालकनाद इंद्र (*śacīpate .. karmapālakanāda iṃdra*)—O Indra, protector of rites
+- क्षत्राय (*kṣatrāya*)—for displaying strength
+- त्वं (*tvaṃ*)—you alone are capable
+- त्वं (*tvaṃ*)—you yourself
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- अवसि (*avasi*)—you protect everyone
+- न आविथ (*na āvitha*)—but for your own protection you need no one's help
+- अनेद्य (*anedya*)—blameless
+- वज्रिवः (*vajrivaḥ*)—wielder of the thunderbolt
+- वृत्रहन् (*vṛtrahan*)—slayer of Vṛtra, O Indra
+- माध्यंदिनस्य (*mādhyaṃdinasya*)—performed at midday
+- सवनस्य (*savanasya*)—offered in the sacrifice
+- सोमस्य (*somasya*)—the Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of rites, you alone are able to display true strength. With all your protections you yourself protect everyone, but for your own protection you need no one's help. Blameless one, wielder of the thunderbolt, slayer of Vṛtra, O Indra, drink the Soma offered in the sacrifice performed at midday.
+
+##### English translation
+You are for the strength (of the world); you protect with all your protections, but you need no defender, Indra, lord of rites; slayer of Vritra. irreproachable wielder of the thunderbolt, drink of the Soma at the mid day solemnity.
+
+### Printed p. 336
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्या॒वाश्व॑स्य॒ रेभ॑त॒स्तथा॑ शृणु॒ यथाशृ॑णो॒रत्रेः॒ कर्मा॑णि  ॒
+> कृण्वतः ।  
+> प्र त्र॒सद॑स्युमाविथ॒ त्वमेक॒ इन्नृ॒षाह्य॒ इंद्र॑ क्ष॒त्राणि॑ व॒र्धय॑न् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्याव अश्वस्य । रेभतः । तथा । शृणु । यथा । अशृणोः । अत्रेः । कर्माणि । कृण्वतः ।  
+> प्र । त्रसदस्युं । आविथ । त्वं । एकः । इत् । नृसह्ये । इंद्र । क्षत्राणि । वर्धयन् ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र रेभतः स्तुवतः श्यावाश्वस्य मम स्तुतिं कर्माणि कृण्वतोऽत्रेयथाशृणोस्तथा शृणु । अपि च क्षत्राणि बलानि कामैर्वर्धयन् युद्धे त्वमेक एव
+> त्रसदस्युं प्राविध ॥
+
+##### Gist of the bhāṣya
+
+O Indra, hear the praise of me, Śyāvāśva, the praiser, as you heard that of Atri, who performs rites. Further, increasing strengths through the fulfilment of desires, you alone protected Trasadasyu in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- कर्माणि (*karmāṇi*)—excellent sacrificial rites
+- कृण्वतः (*kṛṇvataḥ*)—performing
+- अत्रेः (*atreḥ*)—the praises of the great seer Atri
+- यथा (*yathā*)—in what manner
+- अशृणोः (*aśṛṇoḥ*)—you heard before
+- तथा (*tathā*)—in the same way
+- रेभतः (*rebhataḥ*)—praising
+- श्यावाश्वस्य (*śyāvāśvasya*)—of me, known as Śyāvāśva, my praises
+- शृणु (*śṛṇu*)—hear (and)
+- नृसह्ये (*nṛsahye*)—in battle
+- क्षत्राणि (*kṣatrāṇi*)—(Trasadasyu's) strength
+- वर्धयन् (*vardhayan*)—greatly increasing
+- त्वं (*tvaṃ*)—you
+- एक इत् (*eka it*)—as the unequalled one
+- त्रसदस्यं (*trasadasyaṃ*)—Trasadasyu
+- प्राविथ (*prāvitha*)—protected completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as you heard the praises of the great seer Atri, who performs excellent sacrificial rites, so hear also my praises, mine, the praiser, known as Śyāvāśva. And increasing Trasadasyu's strength in battle, you, unequalled and without the help of others, protected Trasadasyu completely.
+
 ---
 
-**Progress note:** Done through printed p. 330. Sūkta 36 Ṛk 5-7, Sūkta 37 Ṛk 1, pp. 325-330
+**Progress note:** Done through printed p. 336. Maṇḍala 8 Sūkta 37 Ṛks 2-7, pp. 331-336
