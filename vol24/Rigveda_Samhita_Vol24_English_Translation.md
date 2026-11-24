@@ -28644,6 +28644,262 @@ May all the gods come to us being equally delighted. May Vashus and Rudras come 
 
 Pūṣan, the nourishing god; Viṣṇu, the pervading god; and the goddess Sarasvatī, for the word for water is सर इत्युदकनाम (*sara ityudakanāma*), so she is the goddess who has it: all these, may they hear my invocation, that is, my praise, mine, the seer Mātariśvān **NOTE**. The verb for protecting is used here in the sense of hearing, since in that Sūtra its meaning of hearing is given **NOTE**. Moreover the seven rivers, the Gaṅgā and the rest, the waters, that is, the deities who preside over water, the wind, and the mountains, that is, the gods who preside over mountains such as Meru, may they hear my invocation. And further the lords of the forests, the protecting gods, and the goddess Earth, may they hear my invocation, my praise.
 
+### Printed p. 629
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषा (*pūṣā*)—the god Pūṣan
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- सप्त सिंधवः (*sapta siṃdhavaḥ*)—the seven rivers beginning with the Gaṅgā
+- मे (*me*)—my
+- हवनं (*havanaṃ*)—invocation
+- अवंतु (*avaṃtu*)—let them hear
+- आपः (*āpaḥ*)—the deities of the waters
+- वातः (*vātaḥ*)—Vāyu, the wind
+- पर्वतासः (*parvatāsaḥ*)—the mountains
+- वनस्पतिः (*vanaspatiḥ*)—the deity Vanaspati
+- पृथिवी (*pṛthivī*)—the goddess who presides over the earth
+- हवं (*havaṃ*)—my invocation in the form of praise
+- शृणोतु (*śṛṇotu*)—let her hear
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Pūṣan, Viṣṇu, the goddess Sarasvatī and the seven rivers beginning with the Gaṅgā hear my invocation. May the deities of the waters, Vāyu, the mountains, the deity Vanaspati and the goddess who presides over the earth hear my invocation in the form of praise.
+
+##### English translation
+Pusha, Vishnu and Sarashvati, seven oceans, water, Vayu, Mountain and forests hear my call and protect me. May the earth hear my invocation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र॒ राधो॒ अस्ति॑ ते॒ माघो॑नं मघवत्तम ।  
+> तेन॑ नो बोधि सध॒माद्यो॑ वृ॒धे भगो॑ दा॒नाय॑ वृत्रहन्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । राधः । अस्ति । ते । माघोनं । मघवत्कतम ।  
+> तेन । नः । बोधि । सध्वमाद्यः । वृधे । भगः । दानाय । वृत्तहन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवत्तम अतिशयेन धनवन्निंद्र ते तव स्वभूतं मघोनं मघवत्स्वामिकं यत् प्रसिद्धं राधः धनमस्ति भवति तेन राधसा धनेन हे वृत्रहन्
+> वृत्रहंतरिंद्र त्वं दानार्थं वृधे वर्धनार्थं च नोऽस्मान् पात्रभूतान् बोधि
+> बुध्यस्व । तद्धनदानेन आस्मान् समृद्धान् कर्तुं जानीहीत्यर्थः । कीदृशस्त्वं ।
+> सधमाद्यः सहमादनयोग्यः भगो भजनीयश्च ॥
+
+### Printed p. 630
+
+##### Gist of the bhāṣya
+
+O Indra, most wealthy one, with that well-known wealth of yours, which has the wealthy one, that is, yourself, as its lord, and with that wealth, O slayer of Vṛtra, know us, who are fit recipients, for giving and for increase. That is, understand how to make us prosperous by the gift of that wealth. What kind of one are you? One fit to rejoice together with us, and one to be served.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवत्तम (*maghavattama*)—the most praiseworthy, the wealthy one
+- सधमाद्यः (*sadhamādyaḥ*)—one fit to rejoice with us
+- वृत्रहन् (*vṛtrahan*)—destroyer of enemies
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- माघोनं (*māghonaṃ*)—abounding in wealth
+- यत् राधः (*yat rādhaḥ*)—whatever wealth and prosperity
+- अस्ति (*asti*)—there is
+- तेन (*tena*)—together with it
+- वृधे (*vṛdhe*)—for the increase of our welfare
+- दानाय (*dānāya*)—for making gifts to us
+- नः (*naḥ*)—us
+- बोधि (*bodhi*)—know as belonging to you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, most praiseworthy and wealthy, who like to rejoice together with us, destroyer of enemies, together with whatever wealth and prosperity, abounding in riches, you have, know us as belonging to you, for the increase of our welfare and for making gifts to us.
+
+##### English translation
+Indra, Maghavan and killer of enemies grow your wealth, with it and be exhilarated for prosperity and gift ; you are worshipable.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आज॑पते नृपते॒ त्वमिद्दि नो॒ वाज॒ आ व॑क्षि सुक्रतो ।  
+> वी॒ती होत्रा॑भिरु॒त दे॒ववि॑तिभिः सस॒वांसो॒ वि शृ॑ण्वरे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजिपते । नृपते । त्वं । इत् । हि । नः । वाजे । आ । वक्षि । सुक्रतो इति सुक्रतो।  
+> वीती । होत्राभिः । उत । देववीतिभिः । ससवांसः । वि । शृण्वरे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आजिपते संग्रामपालक हे नेतृपते (नृपते) नेतृणां सैनिकानां पालक
+> हे सुक्रतो शोभनकर्मवन्निंद्र त्वमित् त्वमेव नोऽस्मान् वाजे संग्रामे
+> आवक्षि अवहसि प्रापयसि । त्वत्साहाय्कॆन वयं धनार्थं संग्रामं गंतुमुत्सहामह इत्यर्थः । कीदैशस्त्वं । होत्राभिः स्तुतिलक्षणाभिः वाग्भिः सह । वीती अकनवान्
+> स्तुतिभिः प्रोत्सहमानो हविरत्तेत्यर्थः । उतापि च ससवांसः हविर्लक्षणान्नवंतो
+
+### Printed p. 631
+
+> यजमानाः देवनीतिभिः देवकर्तृकाशनैः वि शृण्वरे । विशेषेण श्रूयंते । यदा
+> हि त्वादृता देवास्त्रेषां हविरश्नुवंति तदा ते विख्याता भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Ājipati, protector of battle; O lord of leaders, protector of the leaders, that is, of the soldiers (the bhāṣya gives also the reading in brackets); O Indra of good deeds: you alone lead us into battle. That is, with your help we are eager to go to battle for the sake of wealth. What kind of one are you? One who is together with the Hotṛ-hymns, that is, with words in the form of praise. Of वीती (*vītī*) he says **NOTE**: that you, encouraged by the praises, eat the oblation. Further, the sacrificers who are possessed of food in the form of oblations are widely heard of, that is, become renowned, through the eatings of the gods **NOTE**. When the gods, honoured by you, partake of their oblation, then they become renowned. That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आजिपते (*ājipate*)—protector of battle
+- नृपते (*nṛpate*)—protector of men
+- सुक्रतो (*sukrato*)—O Indra, doer of excellent deeds
+- त्वमिद्दि (*tvamiddi*)—you alone
+- नः (*naḥ*)—us
+- वाजे (*vāje*)—to battle
+- आ वक्षि (*ā vakṣi*)—lead us
+- उत (*uta*)—and
+- होत्राभिः (*hotrābhiḥ*)—with words of praise
+- वीती (*vītī*)—you are one who eats the oblation
+- ससवांसः (*sasavāṃsaḥ*)—the sacrificers who possess oblations
+- देवनीतिभिः (*devanītibhiḥ*)—together with food fit for the enjoyment of the gods
+- वि शृण्वरे (*vi śṛṇvare*)—are proclaiming your fame
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of battle, protector of the performers of sacrifice, doer of excellent deeds, lead us, you alone, to battle. With our words of praise you are one who eats the oblation. The sacrificers who possess oblations, together with food fit for the enjoyment of the gods, proclaim your fame.
+
+##### English translation
+Lord of battle, institutor of righteous actions, king, lead us to battle. It is rumoured that Gods unite at a rite to partake sacrifice.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> संति॒ ह्य१॒॑ र्य आ॒शिष॒ इंद्र॒ आयु॒र्जना॑नां ।  
+> अ॒स्मान्न॑क्षस्व मघव॒न्नु पाव॑से धु॒क्षस्व॑ पि॒प्युषी॒मिषं॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संति । हि । अर्ये । आशिषः । इंद्रे । आयुः । जनानां ।  
+> आस्मान् । नक्षस्व । मघवन् । उप । अवसे । धुक्षस्व । पिप्युषीं । इषं ॥ ७ ॥
+
+### Printed p. 632
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे परमेश्वर हि यस्मात् जनानां जायमानानां यजमानानामस्माकं
+> स्वभूतमायुः चरुपुरोडाशाद्यन्नं आशिषः गवाश्वाद्यैश्वर्याणि च आर्यॆ
+> जगत्सामिनि इंद्रे परमेश्वरे त्वयि संति समर्पितानि भवंति । अतो हे मघवन्
+> धनवन्निंद्र अस्मान् यजमानान् उप नक्षस्व समीपे व्याप्नुहि । आत्मीयत्वेन
+> स्वसमीपे कुर्वित्यर्थः । किंचास्माकमवसे रक्षणाय पिप्युषीं अतिशयेन पालयित्रिं
+> इषमन्नं धुक्षस्व प्रपूरय देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Supreme Lord, since for the people, that is, for us the sacrificers who are being born, our life, food such as the caru and the purodāśa, and the blessings, that is, wealth such as cattle and horses, are placed with you, the lord of the world, Indra, the Supreme Lord; therefore, O wealthy Indra, draw near to us the sacrificers, reach us in nearness. That is, make us your own and keep us near yourself. Further, for our protection fill us, that is, give us, food that nourishes in the highest degree.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनानां (*janānāṃ*)—(O Indra) needed by us, the performers of sacrifice
+- आशिषः (*āśiṣaḥ*)—the wealth of cattle and the like
+- आयुः (*āyuḥ*)—the food that is the means of sacrifice
+- अर्ये (*arye*)—the lord
+- इंद्रे (*iṃdre*)—in you, who are the lord of the world
+- संति हि (*saṃti hi*)—are indeed
+- मघवन् (*maghavan*)—O wealthy Indra
+- अस्मान् (*asmān*)—us
+- उप नक्षस्व (*upa nakṣasva*)—come near
+- अवसे (*avase*)—for our protection
+- पिप्युषीं (*pipyuṣīṃ*)—nourishing
+- इषं (*iṣaṃ*)—food
+- धुक्षस्व (*dhukṣasva*)—fill into us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the wealth of cattle and the like that we, the performers of sacrifice, desire, and the food that is the means of sacrifice, are in you, the lord of the world. O wealthy Indra, come near to us. For our protection fill us with nourishing food.
+
+##### English translation
+Lord Indra is the the disposer of blessing of the longevity of men; Maghavan be kind to us, increase us, give us food.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं त॑ इंद्र॒ स्तोमे॑भिर्विधेम॒ त्वम॒स्माकं॑ शतक्रतो ।  
+> महि॑ स्थू॒रं श॑श॒यं राधो॒ अह्र॑यं॒ प्रस्क॑ण्णाय॒ नि तो॑शय॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ते । इंद्र । स्तोमेभिः । विधेम । त्वं । अस्माकं । शतक्रतो इति शतक्रतो ।  
+> महि । स्थूरं । शशयं । राधः । अह्रयं । प्रस्कण्णाय । नि । तोशय ॥ ८ ॥
+
+### Printed p. 633
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वयं यजमानाः ते त्वदीयाः स्मः । त्वं चास्माकमसि । त्वमस्माकं
+> तवस्मसि (ऋ. सं. ८-९२-३२) इति श्रुतेः । अतः हे शतक्रतो बहुकर्मवन्निंद्र
+> स्तोमेभिः स्तोत्रैः विधेम परिचरेम त्वां । यस्मात्त्वदीया वयं तस्मात्त्वं
+> प्रस्कण्वाय कण्वपुत्राय मह्यं मातरिश्वानाय (? मातरिश्वने) राधो धनं नि
+> तोशय नियमेन देहि । तदेव राधो विशिनष्टि । महि महत् पूज्यं स्फूरं
+> स्थूलं प्रौढमित्यर्थः । शशयं देवब्राह्मणादिशरीरे शयानं तैरुपभोग्यमित्यर्थः।
+> आद्रयं लज्जारहितं । पापवर्त्मना लब्धं धनं हि लज्ञासहितं भवति । इदं तु न
+> तथा । ईश्वरानुग्रहलब्धात्तस्येत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we the sacrificers are yours, and you are ours, as the śruti says त्वमस्माकं तवस्मसि (*tvamasmākaṃ tavasmasi*) (Ṛ. Saṃ. 8-92-32). Therefore, O Śatakratu, Indra of many deeds, we serve you with hymns of praise. Since we are yours, therefore give, bestow firmly, wealth to Praskaṇva, the son of Kaṇva, to me, Mātariśvān **NOTE**. He then describes that wealth. महि (*mahi*) means great, worthy of honour; स्फूरं (*sphūraṃ*) means large, ample, abundant. शशयं (*śaśayaṃ*) means lying in the bodies of gods, brahmins and others, to be enjoyed by them. आद्रयं (*ādrayaṃ*) means without shame **NOTE**: wealth gained by a sinful way is accompanied by shame, but this is not so, because it is obtained through the favour of the Lord **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वयं (*vayaṃ*)—we, the sacrificers
+- ते (*te*)—we are yours
+- त्वं अस्माकं (*tvaṃ asmākaṃ*)—you also are ours, therefore
+- शतक्रतो (*śatakrato*)—O Indra, doer of many valiant deeds
+- स्तोमेभिः (*stomebhiḥ*)—with hymns of praise
+- विधेम (*vidhema*)—we serve you
+- प्रस्कण्वाय (*praskaṇvāya*)—to me, called Praskaṇva, the son of the seer Kaṇva
+- महि (*mahi*)—worthy of honour
+- स्थूरं (*sthūraṃ*)—abundant
+- शशयं (*śaśayaṃ*)—fit to be enjoyed
+- अह्वयं (*ahvayaṃ*)—shameless, that is, not unjustly gained **NOTE**
+- राधः (*rādhaḥ*)—wealth
+- नि तोशय (*ni tośaya*)—give without fail
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who perform sacrifice are yours, and you too are ours. O Indra, who do many valiant deeds, we serve you with hymns of praise. To me, called Praskaṇva, the son of Kaṇva, give without fail wealth that is worthy of honour, that is, excellent, abundant and fit to be enjoyed.
+
+##### English translation
+Indra, we, the Sacrificers are yours, you too are ours. Indra, we shall worship you with praises. Satakritu, you give substantial, wealth to Praskanwa.
+
+### Printed p. 634
+
+## Sūkta 55 (Maṇḍala 8)
+
+##### Gist of the bhāṣya
+
+The sūkta of five Ṛks beginning भूरीत् (*bhūrīt*) is the seventh, the vision of Kṛśa Kāṇva, with the praise of Praskaṇva's gift as its deity, in the Gāyatra metre. It is listed in the Anukramaṇikā: भूरीत् पंच कृशः प्रस्कण्वस्य दानस्तुतिर्गायत्रं तु तृतीयांत्ये अनुष्टुभौ (*bhūrīt paṃca kṛśaḥ praskaṇvasya dānastutirgāyatraṃ tu tṛtīyāṃtye anuṣṭubhau*). The metre of the last Ṛk and of the third is Anuṣṭubh; of the others, Gāyatrī. The ritual application is to be learnt from the Sūtra.
+
+##### Anuvāda
+
+This sūkta beginning भूरीत् (*bhūrīt*) is the seventh among the Vālakhilya sūktas. It has five Ṛks. Its seer is one called Kṛśaḥ Kāṇvaḥ. Since the praise of the gift of the seer Praskaṇva is told in this sūkta, the praise of Praskaṇva's gift is the deity of this sūkta. The third and fifth Ṛks of this sūkta are in the Anuṣṭubh metre; the remaining Ṛks are in the Gāyatrī metre. In the Anukramaṇikā it is said: भूरीत् पंच कृशः प्रस्कण्वस्य दानस्तुतिर्गायत्रं तु तृतीयांत्ये अनुष्टुभौ (*bhūrīt paṃca kṛśaḥ praskaṇvasya dānastutirgāyatraṃ tu tṛtīyāṃtye anuṣṭubhau*). The ritual application is to be learnt from the Sūtra.
+
+##### Particulars
+
+Maṇḍala 8, Anuvāka 6, Sūkta 55; Aṣṭaka 6, Adhyāya 4, Varga 26. Number of Ṛks in the sūkta: 5. Seer: Kṛśaḥ Kāṇvaḥ. Deity: Praskaṇasya dānastutiḥ **NOTE**. Metre: 1, 2, 4 Gāyatrī; 3, 5 Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरीदिंद्र॑स्य वी॒र्यं१॒॑ १ व्यख्य॑म॒भ्याय॑ति ।  
+> राध॑स्ते दस्यवे वृक ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूरि । इत् । इंद्रस्य । वीर्यं । वि । अख्यं । अभि । आ । अयति ।  
+> राधः । ते । दस्यवे । वृक ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 628. 8.53 Ṛk 7 end, Ṛk 8; sūkta 8.54 Ṛk 1-4
+**Progress note:** Done through printed p. 634. 8.54 Ṛk 4 end, Ṛk 5-8; sūkta 8.55 intro, Ṛk 1
