@@ -1527,3 +1527,7 @@
 - p. 183 (English line 3441) [H26]: `as explained under *āṅ* in an earlier mantra` → `as explained in the sixth mantra` — ಆರನೇ ಮಂತ್ರದಲ್ಲಿ ವ್ಯಾಖ್ಯಾನವಾಗಿದೆ (second pass S3, findings.tsv)
 - p. 183 (English line 3442) [H10]: `(Pā. Sū. 6-1-189 as read [?])` → `(Pā. Sū. 6-1-189)` — ಅಭ್ಯಸ್ತಾನಾಮಾದಿಃ (ಪಾ. ಸೂ. ೬-೧-೧೮೯) (second pass S3, findings.tsv)
 - p. 184 (English line 3449) [H10]: `(Pā. Sū. 6-1-203 as read [?])` → `(Pā. Sū. 6-1-103)` — ವೃಷಾದೀನಾಂಚ (ಪಾ. ಸೂ. ೬-೧-೧೦೩) (second pass S3, findings.tsv)
+
+## Second pass, closing checks, 2026-11-24
+- p. 680 (English line 11084) [H10]: `(8-23-12)` → `(8-23-17)` — the supplied text prints ೮-೨೩-೧೭ (the reader of batch 37 did not log it; found by the sieve).
+- The user's readings for pp. 578–625 (`archive/vol5/review/pending_doubts_p578-625_user_readings.txt`) were compared with the English after the batches: 603_d2 `7-47-1 and 2`, 608_d1 `1-127-1`, 611_d6 `3-1-12 and 13`, 622_d8 `3-62-7, 7-97-7`, 625_d9 `2-24-11` all stand in the English now (taken from the supplied text by the readers: supplied text and the user's readings agree, nothing to apply). 598_d0 and 598_d10 were "x" (not readable in the crop): the English reads `(8-26-21 and 22)` and `(1-64-8 and 9)`, from the supplied text.
