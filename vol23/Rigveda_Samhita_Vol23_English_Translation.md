@@ -35035,6 +35035,353 @@ The magnificent lord, the protector of the virtuous, Trasadasyu, the son of Puru
 - प्रनेता (*pranetā*)—a leader for the sacrifice
 - श्यावः (*śyāvaḥ*)—(continues on the next page)
 
+### Printed p. 827
+*Pratipadārtha continued from the previous Ṛk*
+- *śyāvaḥ*—Śyāva
+- मे (*me*)—to me
+- सुवास्ताः (*suvāstāḥ*)—of the river Suvāstu
+- तुग्वनि अधि (*tugvani adhi*)—on the bank
+- प्रयियोः (*prayiyoḥ*)—of wealth such as cows, and
+- वयियोः (*vayiyoḥ*)—of garments and the like
+- तिस्मणां सप्ततीनां (*tismaṇāṃ saptatīnāṃ*)—three times the number seventy
+- वसुः (*vasuḥ*)—wealth
+- भुवत् (*bhuvat*)—gave
+
+##### भावार्थ (Bhāvārtha)
+
+Śyāva, the best of all givers and the leader (conductor) of the sacrifice, gave me, on the bank of the river Suvāstu, wealth of cows and the like and of garments and the like, three times the number seventy (two hundred and ten).
+
+##### English translation
+The affluent Shyava, the lord of cows, has given to me upon the banks of the Suvastu a present of three times seventy-three (cows).
+
+##### विशेषविषयगळु (Special Topics)
+
+सुवास्त्वाः अधि तुग्वनि (*suvāstvāḥ adhi tugvani*)—Yāska has given an explanation of this: सुवास्त्वा अधि तुग्वनि (*suvāstvā adhi tugvani*) सुवास्तुर्नदी तग्व तीर्थं भवति तूर्णमेतदायंति (*suvāsturnadī tagva tīrthaṃ bhavati tūrṇametadāyaṃti*) (Ni. 4.15). Suvāstu is the name of a river. Tugva means a ford or crossing-place. Because people come there in haste, quickly, in order to cross the river, the place where the river is crossed is called tugva. The place where, without depth and without much water, one goes across from one bank of the river to the other is called tugva (Ford).
+
+## Sūkta 20 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ गंतेति षड्विंशत्यृचमष्टमं सूक्तं काण्वस्य सोभरेरार्षं मारुतं
+> प्रथमाद्ययुजः ककुभो द्वितीयादियुजः सतोबृहत्यः । अनुक्रम्यते हि । आ गंत
+> षड्विंशतिर्मारुतमिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ गंत (*ā gaṃta*) has twenty-six Ṛks; it is the eighth sūkta (of the third anuvāka). Its seer is Sobhari of the Kāṇva line; its deity is the Maruts. The odd Ṛks, beginning with the first, are in Kakubh metre; the even Ṛks, beginning with the second, are in Satobṛhatī. Sāyaṇa cites the Anukramaṇī: आ गंत षड्विंशतिर्मारुतमिति (*ā gaṃta ṣaḍviṃśatirmārutamiti*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta beginning आ गंता (*ā gaṃtā*) is the eighth sūkta in the third anuvāka. It has twenty-six Ṛks. Its seer is Sobhari of the Kāṇva gotra; the deity is the Maruts. In this sūkta the odd-numbered Ṛks, 1, 3 and so on, are in the Kakubh metre; the even-numbered Ṛks, 2, 4 and so on, are in the Satobṛhatī metre. In the Anukramaṇī it is said आ गंत षड्विंशतिर्मारुतं (*ā gaṃta ṣaḍviṃśatirmārutaṃ*). The viniyoga has been stated earlier.
+
+### Printed p. 828
+
+##### Particulars of the sūkta
+
+Sūkta 20. Maṇḍala 8; Anuvāka 3; Sūkta 20. Aṣṭaka 6; Adhyāya 1; Vargas 36, 37, 38, 39, 40. Number of Ṛks in the sūkta: 26. Ṛṣi: Sobhari Kāṇva. Deity: the Maruts. Metre: Prāgātha-Kākubha (the odd verses Kakubh, the even Satobṛhatī; the 14th, Satovirāṭ).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ गं॑ता॒ मा रि॑षण्यत॒ प्रस्था॑नो॒ माप॑ स्थाता  
+> समन्यवः ।  
+> स्थि॒रा चि॑न्नमयिष्णवः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । गंत । मा । रिपण्यत । प्रस्थावानः । मा । अप । स्थात समन्यवः ।  
+> स्थिरा । चित् । नमयिष्टवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रस्था वानो गमनशीला मरुतः यूयमा गंत । आगच्छत । मा रिषण्यत ।
+> अनागमनेनास्मान्मा हिंस्त । हे समन्यवः समानतेजस्काः समानक्रोधा ना स्थिरा
+> चित् स्थिराणि दृढान्यपि पर्वतादीनि हे नमयिष्टवो नमनशीलाः कंपयितारः माप
+> स्थात । अस्मत्तोऽपेत्यान्यत्र मा तिष्ठत । अस्मास्वेव तिष्ठतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, travellers, come; do not harm us by not coming. O you of equal splendour and equal wrath, O firm things (mountains and the like), O you who make them bow and shake them, do not stand away. Do not stand elsewhere, apart from us; stay with us alone — this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रस्थावनः (*prasthāvanaḥ*)—you who are fit for far travel
+- समन्यवः (*samanyavaḥ*)—you of one and the same splendour
+- स्थिरा चित् (*sthirā cit*)—even the very firm trees and the like
+- नमयिष्टवः (*namayiṣṭavaḥ*)—you who make them bend, O Maruts
+- आ गंत (*ā gaṃta*)—come to us
+- मा रिषण्यत (*mā riṣaṇyata*)—do not be vehement against us and harm us
+- मा अप स्थात (*mā apa sthāta*)—do not stand far away from us
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, who travel far, who have one and the same splendour, and who make even the very firm trees and the like bend, come to us. Do not be vehement against us and harm us. Do not stand far away from us.
+
+### Printed p. 829
+
+##### English translation
+Far-travelling (winds), alike wrathful, come hither, harm us not: benders of the solid (mountains), withdraw not from us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वी॒ळु॒प॒विभि॑र्मरुत ऋभुक्षण॒ आ रु॑द्रासः सुदी॒तिभिः॑ ।  
+> इ॒षा नो॑ अ॒द्या ग॑ता पुरुस्पृहो य॒ज्ञमा  ॒॑॑
+> सोभरीयवः । २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वीळुपविभिः । मरुतः । ऋभुक्षणः । आ । रुद्रासः । संदीतिभिः ।  
+> इषा । नः । अद्य । आ । गत । पुरुस्पृहः । यज्ञं । आ । सोभरीऽयवः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभुक्षणो महांत उरुभासमाननिवासा वा हे रुद्रासो रुद्रा
+> रुद्रपुत्राः ईदृशाः हे मरुतः सुदीतिभिः शोभनदीप्यिकैर्विळुपविभिः । रथनेमयः
+> पवयः । वीळु दृढाः पवयो येषु तादृशै रथैरा गत । आगच्छत । एतदेव
+> विवृणोति । हे पुरुस्पृहो बहुभिः स्पृहणीया ईप्सितव्याः सोभरीयवः सोभरिमृषिं मां कामयमाना नोऽस्माकं यज्ञं प्रत्यद्येदानीमिषान्नेन सहागच्छत ।
+> आ पूरणः ॥
+
+##### Gist of the bhāṣya
+
+O Ṛbhukṣans — great ones, or those whose dwelling shines widely — O Rudras, sons of Rudra, O Maruts, come with chariots whose felloes (pavi) are firm (वीळु (*vīḷu*) = firm), bright with fair lustre. He explains this further: O you who are desired by many, who long for me, the ṛṣi Sobhari, come now to our sacrifice with food (इषा (*iṣā*)). आ (*ā*) is the verb's complement.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—you who shine exceedingly
+- रुद्रासः (*rudrāsaḥ*)—you who are sons of Rudra
+- मरुतः (*marutaḥ*)—O Maruts
+- सुदीतिभिः (*sudītibhiḥ*)—very bright
+- वीळुपविभिः (*vīḷupavibhiḥ*)—with chariots having firm felloes
+- आ गत (*ā gata*)—come
+- पुरुस्पृहः (*puruspṛhaḥ*)—O Maruts, desired by many
+- सोभरीयवः (*sobharīyavaḥ*)—desiring the ṛṣi named Sobhari
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- अद्य (*adya*)—now
+- इषा (*iṣā*)—with food
+- आ (गत) (*ā (gata)*)—come
+
+### Printed p. 830
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, who shine exceedingly and are sons of Rudra, come with very bright chariots that have firm felloes. O Maruts, desired by many, desiring the ṛṣi named Sobhari, come now to our sacrifice with food.
+
+##### English translation
+Mighty sons of Rudra, Maruts come with brilliant, strong-wheeled (chariots) : desired of many, well disposed to Sobhari, come to day to our sacrifice with (abundant) food.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्मा हि रु॒द्रिया॑णां॒ शुष्म॑मु॒ग्रं म॒रुतां॒ शिमी॑वतां ।  
+> विष्णो॑रे॒षस्य॑ मी॒ळ्हुषां॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्म । हि । रुद्रियाणां । शुष्मं । उग्रं । मरुतां । शमीवतां ।  
+> विष्णोः । एषस्य । माळ्हुषां ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रुद्रियाणां रुद्रपुत्राणां शमीवतां कर्मवतां विष्णोर्वाप्तस्यैषस्यॆषणीयस्य वृष्ट्यदकस्य मीळ्हुषां सेक्त्कृणां मरुतामुग्रमुद्गूर्णं शुष्मं बलं
+> विद्म हि । जानीमः खलु ॥
+
+##### Gist of the bhāṣya
+
+We know the formidable, uplifted strength of the Maruts — sons of Rudra, possessed of action, who shed the rain-water that is pervasive and to be desired. विद्म हि (*vidma hi*) means "we indeed know."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्रियाणां (*rudriyāṇāṃ*)—sons of Rudra
+- शिमीवतां (*śimīvatāṃ*)—possessed of action
+- विष्णोः (*viṣṇoḥ*)—pervasive
+- एषस्य (*eṣasya*)—and needed by all, of the rain-water
+- माळ्हुषां (*māḷhuṣāṃ*)—who shed (it)
+- मरुतां (*marutāṃ*)—of the Maruts
+- उग्रं (*ugraṃ*)—exceeding
+- शुष्मं (*śuṣmaṃ*)—the strength
+- विद्म हि (*vidma hi*)—we indeed know
+
+### Printed p. 831
+
+##### भावार्थ (Bhāvārtha)
+
+We indeed know the exceeding strength of the Maruts, sons of Rudra, possessed of action, who shed the rain-water that is pervasive and desired by all.
+
+##### English translation
+We know the great strength of the active sons of Rudra, the Maruts, the shedders of the diffusive rain.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विद्वी॒पानि॒ पाप॑त॒न्तिष्ठ॑द्दु॒च्छुनो॒भे यु॑जंत॒रोद॑सी।  
+> प्र धन्वा॑न्यैरत शुभ्रखादयो॒ यदेज॑थ स्वभानवः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । द्वीपानि । पापतन् । तिष्ठत् । दुच्छना । उभे इति । युजंत । रोदसी  
+> इति ॥  
+> प्र । धन्वानि । ऐरत । शुभ्रखादयः । यत् । विजथ । स्वभानवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वीपानि द्वयोः पार्श्वयोरापो येषु तान्न्युदमध्यस्थलानि ॥ द्व्यंतरुपसर्गेभ्योऽप ईत् । पा. ६-३-९७ । इतीत्वं । ऋक्सूरित्यादिनाकारः समासांतः ॥
+> तानि च वि पापतन् । अत्यर्थं मरुद्वेगेन विपतंति । तिष्ठत् स्थावरं चान्यद्वृक्षजातं
+> दुच्चुना दुःखेन युज्यते । उभे रोदसी द्यावापृथिव्यावसि युजंत' तॆ: मरुतः
+> स्वागमनजनितेन कंपनेन योजयुति। परोऽर्धर्चः परोक्षकृतः । धन्वानि गमनशीलान्युदकानि च प्रैरत । प्रगच्छंति । हे शुभ्रखादयः शोभनायुधाः शोभनहविष्का वा हे स्वभानवः स्वायत्तदीप्तयः यूयं यद्यदैजथ कंपयथ
+> तदैतत्पूर्वोक्तं सर्वं निष्पाद्यत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Dvīpa means places in the middle of water, with water on both sides. The Maruts, by the violence of their rush, make these places fall about exceedingly; the standing, fixed trees and other growth are afflicted with distress; the Maruts, by the shaking caused by their coming, bring both heaven and earth into agitation (the second half of the verse is in the third person, indirect). Moving waters also stream forth. O you of fair weapons (or fair oblations), O self-radiant ones, whatever you shake, all that said above comes to pass — this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभ्रखादयः (*śubhrakhādayaḥ*)—you who have shining weapons
+- स्वभानवः (*svabhānavaḥ*)—you who have self-acquired
+
+### Printed p. 832
+- स्वभानवः (*svabhānavaḥ*) (cont.)—radiance, O Maruts
+- यत् (*yat*)—when
+- विजथ (*vijatha*)—you make (things) tremble, then
+- द्वीपानि (*dvīpāni*)—in the island-regions
+- वि पापतन् (*vi pāpatan*)—you blow swiftly
+- तिष्ठत् (*tiṣṭhat*)—even the trees and the like that stand firm
+- दुच्चुना (*duccunā*)—(as a result of your shaking) stand with difficulty
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- युजंत (*yujaṃta*)—come together
+- धन्वानि (*dhanvāni*)—flowing waters
+- प्र ऐरत (*pra airata*)—move
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, whose weapons shine and whose radiance is self-acquired, when you blow and rush swiftly into the island-regions, then even the trees that stand firm tremble and stand with difficulty. Heaven and earth both tremble together. The flowing waters move.
+
+##### English translation
+They fall upon the islands; the firm-set (trees) are with difficulty sustained ; they agitate both heaven and earth ; they urge on the waters: bright-weaponed, far-shining, whatever (you approach) you cause to tremble.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्यु॑ता चिद्वो॒ अज्म॒न्ना नान॑दति॒ पर्व॑तासो॒ वन॒स्पतिः॑।  
+> भूमि॒यार्मे॑षु रेजते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्युता । चित् । वः । अज्मन् । आ । नानदति । पर्वतासः । वनस्पति: ।  
+> भूमिः । यामेषु । रेजते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्माकमज्मन्नज्मनि गमने सत्यच्युता विच्चावयितुमशक्या
+> अपि पर्वतासः पर्वता मेघा गिरियो वा वनस्पतिः ॥ जातावेकवचनं ॥ वनस्पतयो
+> वृक्षाश्चा नानदति । अभितो भृशं शब्दायंते । अपि च यामेषु युष्मदीयेषु
+> गमनेषु निमित्तेषु भूमिः पृथिवी च रेजते । कंपते ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, at your going (अज्मन् (*ajman*) = *ajmani*, in going) even mountains — clouds or hills — that cannot be dislodged, and the trees (the singular वनस्पतिः (*vanaspatiḥ*) is used for the class), resound loudly on every side. Moreover, at your goings, as the occasion, the earth also trembles.
+
+### Printed p. 833
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) वः (*vaḥ*)—your
+- अज्मन् (*ajman*)—at the time of coming
+- अच्युता चित् (*acyutā cit*)—that are without motion
+- पर्वतासः (*parvatāsaḥ*)—the mountains
+- वनस्पतिः (*vanaspatiḥ*)—the trees and the like
+- आ नानदति (*ā nānadati*)—make exceedingly great sound
+- यामेषु (*yāmeṣu*)—at the time of your travelling
+- भूमिः (*bhūmiḥ*)—the earth
+- रेजते (*rejate*)—trembles
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, at the time of your coming the mountains and the trees and the like, which are without motion, make exceedingly great sound. At the time of your travelling the earth also trembles.
+
+##### English translation
+At your coming the unprecipitated mountains and trees resound ; the earth shakes at your passage.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अमा॑य वो मरुतोः॒ यात॑वे॒ द्यौर्जिही॑त॒ उत्त॑रा  ॒
+> बृहत् ।  
+> यत्रा॒ नरो॒ देदि॑शते त॒नूष्वा त्वक्षां॑सि बा॒ह्यो॑जसः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमाय । वः । मरुतः । यातवे । द्यौः। जिहीते । उत्ऽतरा । बृहत् ।  
+> यत्र । नरः । देदिशते । तनूषु । आ । त्वक्षांसि । बाहुओजसः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः वो युष्माकममाय बलाय यातवे यातुं द्यौर्दुलोको
+> बृहदंतरिक्षं विस्त्रज्योत्तरोद्धततरा जिहीते । गच्छति । युष्मदागमनाद्भीता सती
+> युष्मदीयमांतरिक्षं स्थानं परित्यज्योर्ध्वं पालयत इत्यर्थः । यत्र यस्मिन्नंतरिक्षे बाह्वोजसः बाह्वोरोजो बलं येषां तादृता नरो नेतारो
+> मरुतस्त्वक्षांसि दीप्तान्याभरणानि तनूष्वात्मीयेषु शरीरेष्ट्वा देदिशते आदिष्टानि
+> धृतानि कुर्वंति । यद्वा । तनूषु विस्तृतासु मेघस्थास्वप्पु त्वक्षांसि तनूकृतानि
+> [ 53 ] [ Vol. 23 ]
+> [ 53 ]                                                                 [ Vol. 23 ]
+
+##### Gist of the bhāṣya
+
+O Maruts, for your strength (अमाय (*amāya*) = बलाय (*balāya*)), for your going, heaven (the heavenly world) leaves the wide firmament and goes higher, more elevated; frightened by your coming it abandons the firmament, your place, and moves upward — this is the meaning. In that firmament where the Maruts, the leaders, whose strength is in their arms, wear bright ornaments (त्वक्षांसि (*tvakṣāṃsi*)) on their own bodies, they set them out, make them worn. Or else: तनूषु (*tanūṣu*) means in the spread-out waters in the cloud; there they repeatedly direct (देदिशते (*dediśate*)) the sharpened weapons, in order to split the cloud.
+
+### Printed p. 834
+
+> तीक्ष्णीकृतान्यायुधानि मेघोद्भेदनाया देदिशते पुनःपुनरादिशंति। तद्बृहदंतरिक्षं जिहीत इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the construction: they repeatedly direct (the weapons) for the splitting of the cloud; the wide firmament is that which heaven leaves (जिहीते (*jihīte*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यत्र (*yatra*)—in which firmament
+- बाह्वोजसः (*bāhvojasaḥ*)—you who have strength in your arms
+- नरः (*naraḥ*)—and are leaders
+- तनूषु (*tanūṣu*)—on your bodies
+- त्वक्षांसि (*tvakṣāṃsi*)—shining
+- आभरणगळन्नु (*ābharaṇagaḷannu*)—ornaments
+- आ देदिशते (*ā dediśate*)—you wear, making them shine; such
+- बृहत् (*bṛhat*)—wide firmament having been abandoned
+- द्यौः (*dyauḥ*)—the heavenly world
+- वः (*vaḥ*)—your
+- अमाय (*amāya*)—powerful
+- यातवे (*yātave*)—to favour the travelling
+- उत्तरा (*uttarā*)—to a region higher than the firmament
+- जीहिते (*jīhite*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you who have strength in your arms and are leaders, wear on your bodies shining ornaments, making them shine, and travel in the firmament. Abandoning such a firmament, the heavenly world goes to a region higher than that, to favour your powerful travelling.
+
+##### English translation
+(Alarmed) at your violence, Maruts, the heaven seeks to rise higher, abandoning the firmament, where (you) the strong-armed leaders (of rites) display the ornaments of (your) persons,
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒धामनु॒ त्रियं॒ नरो॒ महि॑ त्वे॒षा अम॑वंतो॒  ॑
+> वृषस्सवः ।  
+> वहं॑ते॒ अह्रु॑तप्सवः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वधां । अनु । श्रियं । नरः । महि । त्वेषाः । अमवंतः । वृषप्सवः ।  
+> वहंते । अह्रुतप्सवः ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 826. pp. 821-826 (batch API)
+**Progress note:** Done through printed p. 834. pp. 827-834 (batch API)
