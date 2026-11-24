@@ -158,3 +158,16 @@
 - p. 274 (English line 5067) [R1]: `*nonayatidhvanayatyelayatyardayatibhyaḥ* (no number printed)` → `*nonayatidhvanayatyelayatyardayatibhyaḥ* (Pā. Sū. 3-1-51)` — ನೋನಯತಿಧ್ವನಯತಿ—(ಪಾ. ಸೂ. ೩-೧-೫೧) (second pass S3, findings.tsv)
 - p. 274 (English line 5067) [R1]: `*iṭo 'ṭi* drops the *i* of *iṭ*…` → `*iṭa īṭi* drops the *sic*…` — ಇಟಈಟಿ ಎಂಬುದರಿಂದ ಸಿಚಿಗೆ ಲೋಪ (second pass S3, findings.tsv)
 - p. 260 (English line 4788) [R3]: `āpṛthivī rudrapūṣamanthiṣu` → `apṛthivīrudrapūṣamanthiṣu` — ಅಪೃಥಿವೀರುದ್ರಪೂಷಮಂಥಿಷ್ಟಿತಿ (p.259 bhāṣya tail) (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 276 (English line 5107) [R6]: `maṃhitvyā matir aiśvaryam` → `maṃtavyā matir aiśvaryam` — Kannada bhāṣya: 'ಮಂತವ್ಯಾ ಮತಿರೈಶ್ವರ್ಯಂ' (mantavyā, from man) (second pass S3, findings.tsv)
+- p. 277 (English line 5122) [R6]: `Maṃhitvyā matir aiśvaryam` → `Maṃtavyā matir aiśvaryam` — Kannada p.278: 'ಮಂತವ್ಯಾ ಮತಿಃ ಐಶ್ವರ್ಯಂ' (second pass S3, findings.tsv)
+- p. 278 (English line 5130) [R6]: `maṃhitvyā matiḥ aiśvaryam` → `maṃtavyā matiḥ aiśvaryam` — Kannada p.278: 'ಮಂತವ್ಯಾ ಮತಿಃ ಐಶ್ವರ್ಯಮ್' (second pass S3, findings.tsv)
+- p. 278 (English line 5131) [R1]: `(Pā. Sū. 5-2-115)` → `(Pā. Sū. 5-1-115)` — Kannada: 'ಆತ ಇನಿಠನ್ (ಪಾ. ಸೂ. ೫-೧-೧೧೫)' (second pass S3, findings.tsv)
+- p. 280 (English line 5167) [R1]: `may we gain prosperity; **iṣā**` → `may we gain ownership; **iṣā**` — Kannada: 'ಸಂ ರಭೇಮಹಿ—ಸ್ವಾಮ್ಯವನ್ನು ಪಡೆಯೋಣ' (svāmya = lordship/ownership) (second pass S3, findings.tsv)
+- p. 280 (English line 5169) [R1]: `gain wealth and food completely and have the powers` → `gain wealth and food completely and attain ownership of them, and have the powers` — Kannada: 'ಧನವನ್ನೂ ಅನ್ನವನ್ನೂ ಸಂಪೂರ್ಣವಾಗಿ ಪಡೆದು ಮತ್ತು ಅವುಗಳ ಸ್ವಾಮ್ಯವನ್ನು ಹೊಂದಿ' (second pass S3, findings.tsv)
+- p. 283-284 (English line 5244) [R3]: `तस्मादेधुनास्माभिः सोमादीनि` → `तस्मादधुनाप्यागत्यास्माकं सोमादीनि` — Kannada p.284: 'ತಸ್ಮಾದಧುನಾಪ್ಯಾಗತ್ಯಾಸ್ಮಾಕಂ ಸೋಮಾದೀನಿ ಭಕ್ಷಯಿತುಮರ್ಹತೀತ್ಯರ್ಥಃ' (second pass S3, findings.tsv)
+- p. 283-284 (English line 5246) [R3]: `tasmād edhunāsmābhiḥ somādīni` → `tasmād adhunāpy āgatyāsmākaṃ somādīni` — same Kannada as L5244 (second pass S3, findings.tsv)
+- p. 284 (English line 5254) [R1]: `trāmau dvitīyāyāḥ` → `tvāmau dvitīyāyāḥ` — Kannada: 'ತ್ವಾಮೌ ದ್ವಿತೀಯಾಯಾಃ (ಪಾ. ಸೂ. ೮-೧-೨೩)' (second pass S3, findings.tsv)
+- p. 287 (English line 5314) [R1]: `You must not wish to kill me by any weapon and any fighting. You must not use a weapon that is dry or wet;` → `You may again wish to kill me by fighting with me by some trick. On such an occasion the weapon you use to kill me must not be wet or dry;` — Kannada: 'ನೀನು ಮತ್ತೆ ನನ್ನೊಡನೆ ಯಾವುದಾದರೂ ತಂತ್ರದಿಂದ ಯುದ್ಧ ಮಾಡಿ ನನ್ನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದು ಇಚ್ಛಿಸಬಹುದು. ಅಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ... ಆಯುಧವು ಹಸಿಯಾಗಿರಕೂಡದು. ಒಣಗಿರಲೂಕೂಡದು' (second pass S3, findings.tsv)
+- p. 288 (English line 5323) [R1]: `11-73-7 [as printed; for 10-73-7]` → `11-23-7` — Kannada: '(ಋ. ಸಂ. ೧೧-೨೩-೭)' (second pass S3, findings.tsv)

@@ -235,7 +235,7 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 274	yes	2	0	0	0	0	3	0	0	0
 276	yes	2	0	0	0	0	0	0	0	0
 277	yes	2	1	0	3	0	0	0	10	0
-278	yes	2	0	0	0	0	0	0	0	0
+278	yes	1	0	0	0	0	0	0	0	0
 279	yes	3	2	0	0	0	0	0	11	0
 280	yes	0	0	0	0	0	0	0	0	0
 281	yes	1	0	0	0	0	2	0	0	0
@@ -245,7 +245,7 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 285	yes	0	0	0	0	0	0	0	18	0
 286	yes	2	2	0	0	0	0	0	9	0
 287	yes	0	0	0	0	0	0	1	0	0
-288	yes	2	0	0	1	0	1	5	41	0
+288	yes	0	0	0	1	0	0	5	41	0
 289	yes	5	1	0	0	0	0	0	0	0
 290	NO	1	2	0	0	0	0	0	5	0
 291	yes	0	0	0	0	0	0	0	10	0
