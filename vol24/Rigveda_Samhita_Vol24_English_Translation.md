@@ -17846,6 +17846,266 @@ In the Kārīrī and Avabhṛtha sacrifices the Ṛk of this sūkta beginning �
 
 In the sixth Anuvāka of the eighth Maṇḍala there are six sūktas. Among them the sūkta beginning विप्रस्य (*viprasya*) is the first. It has thirty-three Ṛks. For this sūkta Virūpa **NOTE**
 
+### Printed p. 396
+
+Aṅgirasa is the seer; Agni is the deity; the metre is Gāyatrī. In the Anukramaṇī it is said: इमे त्रयस्त्रिंशद्विरूप अंगिरस आग्नेयं तु (*ime trayastriṃśadvirūpa aṃgirasa āgneyaṃ tu*). At the time of reciting the Prātaranuvāka mantras, for the Gāyatrī-metre Ṛks connected with the Āgneya rite, and for the mantras of the Āśvina-śastra, this sūkta and the next sūkta have their application; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra इमे विप्रस्येति सूक्ते (*ime viprasyeti sūkte*) (Ā. 4-13). In the Kārīrī and Avabhṛtheṣṭi sacrifices, for the first ājyabhāga, the ninth Ṛk of this sūkta, beginning अप्सुग्ये (*apsugye*) **NOTE**, is to be recited as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अप्सुमंतावाज्यभागावप्पग्ये सधिष्टव (*apsumaṃtāvājyabhāgāvappagye sadhiṣṭava*) (Ā. 2-13). And the priest called Āgnīdhra is to recite this Ṛk at the time of the morning pressing as the prasthita-yājyā mantra; this is indicated by the sentence of the Aitareya Brāhmaṇa उक्षान्नाय वशान्नायेत्याग्निध्रो यजति (*ukṣānnāya vaśānnāyetyāgnidhro yajati*) (Ai. Brā. 6-10). In the Agnivatī offering the fourteenth Ṛk of this sūkta, beginning त्वं ह्यग्ने (*tvaṃ hyagne*), is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra त्वं ह्यग्ने अग्निनाग्ने त्वमस्मद्युयोध्यमीवाः (*tvaṃ hyagne agnināgne tvamasmadyuyodhyamīvāḥ*) (Ā. 3-13). This Ṛk is to be recited also in the ancillary rite called Agni-manthana (the kindling of fire by friction); this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra त्वं ह्यग्ने अग्निना तं मर्जयंत सुक्रतुं (*tvaṃ hyagne agninā taṃ marjayaṃta sukratuṃ*) (Ā. 2-16). In the Āgneya offering on eight potsherds, made addressed to Agni with the words "for a desired object", the eighteenth Ṛk of this sūkta, beginning तुभ्यं ता अंगिरस्तम (*tubhyaṃ tā aṃgirastama*), is to be recited as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तुभ्यं ता अंगिरस्तमाश्याम तं काममग्ने तवोतीति कामाय (*tubhyaṃ tā aṃgirastamāśyāma taṃ kāmamagne tavotīti kāmāya*) (Ā. 2-10). When the Anvāhitāgni, that is, one who has established the Agnihotra fire, goes on a journey, at the time of the mounting (samāropaṇa) of the fire an oblation is to be offered with this Ṛk; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तुभ्यं ता अंगिरस्तमेति वाज्याहुतिं हुत्वा समारोपयेत् (*tubhyaṃ tā aṃgirastameti vājyāhutiṃ hutvā samāropayet*) (Ā. 3-10). When the lightning fire comes into contact with other fires, the offering called Agniye-'psumatīṣṭi is to be performed; in that offering the twenty-eighth Ṛk of this sūkta, beginning यदग्ने दिविजाः (*yadagne divijāḥ*), is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra यदग्ने दिविजा अस्यग्निर्हॊर्ता न्यसीदद्यजीयान् (*yadagne divijā asyagnirhòrtā nyasīdadyajīyān*) (Ā. 3-13).
+
+Sūkta 43. Maṇḍala 8; Anuvāka 6; Sūkta 43. Aṣṭaka 6; Adhyāya 3; Varga 29, 30, 31, 32, 33, 34, 35. Number of Ṛks in the hymn: 33. Seer: Virūpa Aṅgirasaḥ. Deity: Agniḥ. Metre: Gāyatrī.
+
+### Printed p. 397
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे विप्र॑स्य वे॒धसो॒ऽग्नेरस्कृ॑तयज्वनः ।  
+> गिरः॒ स्तोमा॑स ईरते ॥ १ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । विप्रस्य । वेधसः अग्नेः । अस्तृतयज्वनः ।  
+> गिरः । स्तोमाः । ईरते ! १ !
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमेश्वरस्य नीयाः स्तोमासः स्तोतारो विप्रस्य मेधाविनो वेधसो
+> विधातुरस्कृतयज्ञनोहिंसितयजमानस्याग्नेर्गिरिः स्तुतीरीरते । प्रेरयंति ॥
+
+##### Gist of the bhāṣya
+
+These praisers of ours (स्तोमासः (*stomāsaḥ*), the praisers) send forth (ईरते (*īrate*), impel) songs of praise to Agni, who is wise (विप्रस्य (*viprasya*), learned), the creator (वेधसः (*vedhasaḥ*), the ordainer), and whose sacrificer is unharmed. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इवे (*ive*)—our kinsmen **NOTE**
+- स्तोमासः (*stomāsaḥ*)—the praisers
+- विप्रस्य (*viprasya*)—the wise one
+- वेधसर् (*vedhasar*)—the creator
+- अस्तृतयज्जनः (*astṛtayajjanaḥ*)—the unharmed sacrificer, that is
+- आग्नेः (*āgneḥ*)—addressed to Agni
+- गिरः (*giraḥ*)—the songs of praise
+- ईरते (*īrate*)—recite
+
+##### भावार्थ (Bhāvārtha)
+
+Our kinsmen, the praisers, recite songs of praise addressed to Agni, who is wise, the creator, and the unharmed sacrificer.
+
+##### English translation
+These repeaters of laudations recite the praises of the wise creative Agni, the uninterrupted sacrificer.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्मै॑, ते प्रति॒हर्य॑ते॒ जात॑वेदो॒ विच॑र्षणे ।  
+> अग्ने॒ जना॑मि सुष्टु॒तिं ॥ २ ॥
+
+### Printed p. 398
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मै । ते । प्रतिहर्यते । जातवेदः । विचर्षणे ।  
+> अग्ने । जनामि । सुस्तुतिं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातधन विचर्षणे विद्रष्टरग्ने अस्मै प्रतिहर्यते प्रयच्छते
+> ते तुभ्यं सुष्टुतिं शोभनां स्तुतिं जानामि । अंगिरसोऽहं जनयामि ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, possessor of wealth by birth, O all-seeing Agni, to you who bestow gifts on me I produce a good praise. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—of the form of Jātavedas
+- विचर्षणे (*vicarṣaṇe*)—and possessed of subtle vision
+- अग्ने (*agne*)—O Agni
+- अस्मै (*asmai*)—to me, the sacrificer
+- प्रतिहरते (*pratiharate*)—who gives excellent gifts
+- ते (*te*)—addressed to you
+- सुष्टुतिं (*suṣṭutiṃ*)—an excellent praise
+- जनामि (*janāmi*)—I fashion
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of the form of Jātavedas and possessed of subtle vision, I fashion an excellent praise addressed to you, who give excellent gifts to me, the sacrificer.
+
+##### English translation
+Agni, Jatavedas, to you, the liberal offerer (of the oblation), the all-beholding, I repeat earnest praise.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒रो॒का इ॑व॒ घेदह॑ ति॒ग्मा अ॑ग्ने॒ तव॒ त्विषः॑ ।  
+> द॒द्भिर्वना॑नि बप्सति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरोकाःऽइव । घु । इत् । अह । तिग्माः । अग्ने । तव । त्विषः ।  
+> दत्ऽभिः । वनानि । बप्सति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने शव तिग्मास्तीक्ष्णास्तिषो दीप्तय आरोका इवारोचमानाः पशव
+> इव दद्भिर्दंतैर्वनान्यरण्यानि बप्संति । भक्षयंति । घेदहेति त्रयं पूरकं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, your sharp flames, like beasts that are not shining (आरोका (*ārokā*) is explained as not shining (arocamāna)), eat up the forests with their teeth. The three words घेदह (*ghedaha*) are fillers. **NOTE**
+
+### Printed p. 399
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- आरोका इव (*ārokā iva*)—like fierce wild animals
+- दद्भिः (*dadbhiḥ*)—with their teeth
+- वनानि (*vanāni*)—as they devour the plants
+- तव (*tava*)—your
+- तिग्माः (*tigmāḥ*)—sharp
+- त्विषः (*tviṣaḥ*)—flames
+- बप्सति (*bapsati*)—eat up everything
+- घेदह (*ghedaha*)—this is certain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as fierce wild animals eat up all plants such as grass with their teeth, so your sharp flames eat up everything. This is certain.
+
+##### English translation
+Your fierce flames, Agni, consume the forest, as wild animals destroy (the plants) with their teeth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हर॑योः धू॒मके॑तवो॒ वात॑जूता॒ उप॒ द्यवि॑ ।  
+> यतं॑ते॒ वृथ॑ग॒ग्नयः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरयः । धूमकेतवः । वात्जूताः । उप । द्यवि ।  
+> यतंते । वृथक् । अग्नयः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरयो हरणशीला वातजूता वातप्रेरिता धूमकेतवो धूमध्वजा अग्नय
+> उप द्यव्यंतरिक्षे वृथक् पृथग्यतंते । गच्छंति । पृथगित्यनेन सममव्ययं वृथगिति ।
+> पृथगित्येव वाजसनेयिनः पठंति । वा. सं. ३३-२ ॥
+
+##### Gist of the bhāṣya
+
+The fires that carry off, impelled by the wind, with smoke for their banner, move (यतंते (*yataṃte*), go) apart in the sky (उप द्यवि (*upa dyavi*), in the firmament). Of वृथक् (*vṛthak*) he says that it is an indeclinable equal to pṛthak; the followers of the Vājasaneya school read only pṛthak (Vā. Saṃ. 33-2).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरयः (*harayaḥ*)—swift ones that carry off everything
+- वातजूताः (*vātajūtāḥ*)—impelled by the wind
+- धूमकेतवः (*dhūmaketavaḥ*)—having smoke as their banner
+- अग्नयः (*agnayaḥ*)—transformations of Agni
+- उप द्यवि (*upa dyavi*)—in the firmament
+- वृथक् (*vṛthak*)—in their own individual form
+- यतंते (*yataṃte*)—move about
+
+### Printed p. 400
+
+##### भावार्थ (Bhāvārtha)
+
+The transformations of Agni, swift as to carry off everything, impelled by the wind and having smoke as their banner, move about in the firmament, each in its own individual form.
+
+##### English translation
+The consuming smoke-bannered fires, borne by the wind, spread diversely in the firmament.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते त्ये वृथ॑ग॒ग्नय॑ इ॒द्धासः॒ सम॑दृक्षत ।  
+> उ॒षसा॑मिव के॒तवः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । त्ये । वृथक् । अग्नयः । इद्दासः । सं । अदृक्षत ।  
+> उषसां इव । केतवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते त्य एतेग्नयो वृथक् पृथगिद्दासोग्निहोतृभिः समिद्धाः संत उषसामिव केतव उषसां प्रज्ञापका इव समदृक्षत । सम्यग्दृश्यंते ॥
+
+##### Gist of the bhāṣya
+
+These fires, kindled separately by the Agnihotra priests, are seen clearly, like the banners of the dawns, that is, like the signs that make the dawns known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्ये (*tye*)—those well known
+- एते (*ete*)—those that are in front
+- अग्नयः (*agnayaḥ*)—transformations of Agni
+- वृथक् (*vṛthak*)—separately
+- इद्भासः (*idbhāsaḥ*)—blazing
+- उषसां (*uṣasāṃ*)—of the dawns
+- केशव इव (*keśava iva*)—like banners of radiance **NOTE**
+- समदृक्षत (*samadṛkṣata*)—appear shining
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known transformations of Agni that are in front blaze separately and appear shining, like the banners of radiance of the dawns.
+
+##### English translation
+These fires seperately kindled are beheld like the tokens of the dawn.
+
+### Printed p. 401
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒ष्णा रजां॑सि पत्सु॒तः प्र॒याणे॑ जा॒तवे॑दसः ।  
+> अ॒ग्निर्यद्रोध॑ति॒ क्षमि॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृष्णा । रजांसि । पत्सुतः । प्रयाने ! जातवेदसः ।  
+> अग्निः यत् । रोधति । क्षमि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदसोग्नेः प्रयाणे पत्सुतः पत्तो रजांसि पांसवः कृष्णानि भवंति ।
+> कदेत्यत आह । क्षमि क्षमायां यद्यदाग्नी रोधति शुष्कान्वनस्पतीन्निरुणदि ॥
+
+##### Gist of the bhāṣya
+
+When Jātavedas, Agni, goes forth, the dust (रजांसि (*rajāṃsi*)) raised by the foot becomes black. He says when: when Agni spreads on the earth and covers the dry trees.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋत् (*ṛt*)—when **NOTE**
+- अग्निः (*agniḥ*)—Agni
+- क्षमि (*kṣami*)—on the earth
+- रोधति (*rodhati*)—covers the dry trees; then
+- जातवेदसः (*jātavedasaḥ*)—of this Agni, of the form of Jātavedas
+- प्रयाणे (*prayāṇe*)—at the time of moving
+- पत्सुतः (*patsutaḥ*)—that rises up
+- रजांसि (*rajāṃsi*)—the dust
+- कष्टा (*kaṣṭā*)—is black **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+When this Agni moves over the earth and covers, that is, seizes, the dry trees, then the dust that rises up at the time of the movement of this Agni, of the form of Jātavedas, is black.
+
+##### English translation
+Black dust is raised by the feet of Jathavedas when he moves, when Agni spreads on the earth.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धा॒सिं कृ॑ष्णा॒न ओष॑धी॒र्बस्स॑द॒ग्निर्न वा॑यति ।  
+> पुन॒र्यंतरु॑णी॒रपि॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
 ---
 
-**Progress note:** Done through printed p. 395. Mandala 8 sukta 42 rks 1-6 (continued from p.388), start of sukta 43 intro
+**Progress note:** Done through printed p. 401. Mandala 8 sukta 43 intro (continued) and rks 1-7
