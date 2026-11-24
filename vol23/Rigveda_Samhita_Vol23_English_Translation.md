@@ -22192,6 +22192,376 @@ O Maruts, send us from the heaven-world wealth that produces joy, is praised by 
 ##### English translation
 Send us, Maruts, from heaven exhilarating, many-lauded, all-sustaining riches.
 
+### Printed p. 542
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधी॑व॒ यद्ग॑री॒णां यामं॑ शुभ्रा॒ अचि॑ध्वं ।  
+> सु॒वा॒न्यैर्मं॑दध्व॒ इंदु॑भिः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधिइव । यत् । गिरीणां । यामं । शुभ्राः । अचिध्वं ।  
+> सुवान्यैः । मंदध्वे । इंदुभिः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुभ्राः शोभमाना मरुतः गिरीणां पर्वतानामधीवोपरीव यद्यदा
+> यामं युष्मदीयं रथमचिध्वं गमनसाभनैरश्वादिभिरुपचितं कुरुथॆ तदानीं
+> सुवान्यैरभिषूयमाणैरिंदुभिः सोमैर्मंदध्वे । मादयध्वे ॥
+
+##### Gist of the bhāṣya
+
+O bright, shining Maruts, when you harness your chariot, equipped with horses and other means of travel, as it were over the mountains, then you rejoice with the Soma juices that are being pressed. मंदध्वे (*maṃdadhve*) means "you exhilarate yourselves".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभ्राः (*śubhrāḥ*)—O Maruts who shine
+- गिरीणां (*girīṇāṃ*)—of the mountains
+- अधीव (*adhīva*)—on the upper part
+- यत् (*yat*)—when
+- यामं (*yāmaṃ*)—your chariot
+- अचिध्वं (*acidhvaṃ*)—you yoke with horses and the rest, then
+- सुवानैः (*suvānaiḥ*)—with the pressed
+- इंदुभिः (*iṃdubhiḥ*)—Soma juices
+- मंदध्वे (*maṃdadhve*)—you rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Maruts, when you yoke your chariot with horses and the rest on the upper parts of the mountains, then you rejoice with the Soma juices that are being pressed.
+
+##### English translation
+When, bright (Maruts), you harness your car over the mountains, then you exhilarate (yourselves) with the effusing Soma juices.
+
+### Printed p. 543
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ताव॑तश्चिदेषां सु॒म्मं भि॑क्षेत॒ मर्त्यः॑ ।  
+> अदा॑भ्यस्य॒ मन्म॑भिः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतावतः । चित् । एषां । सुम्नं । भिक्षेत । मर्त्यः ।  
+> अदाभ्यस्य । मन्मभिः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्त्यो मनुष्यः स्तोता मन्मभिः स्तोत्रैः सुम्मं सुखं धनं वैषां
+> मरुतां स्वभूतं भिक्षेत । याचेत । इदानीं गणाभिप्रायेणैकवदाह । एतावतश्चिद्यत्परिमाणस्य चादाभ्यस्य केनापि हिंसितुमशक्यस्य मरुद्धणस्य सुम्मं भिक्षेत ॥
+> एतच्छब्दात् यत्तदेतेभ्य इति परिमाणेऽर्थे वतुप् । आ सर्वनाम्न इत्यात्वं ॥
+
+##### Gist of the bhāṣya
+
+The mortal, the human worshipper, should beg with hymns for the happiness (wealth) belonging to these Maruts. Now, with the troop in view, he speaks in the singular: he should beg for the happiness of the Marut troop of such measure, which is unconquerable, that none can injure. From the word एत (*eta*) the affix vatup comes in the sense of measure, by यत्तदेतेभ्य इति (*yattadetebhya iti*), and the lengthening ā by *ā sarvanāmna iti*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्त्यः (*martyaḥ*)—the human worshipper
+- एतावतश्चित् (*etāvataścit*)—of such extraordinary nature
+- अदाभ्यस्य (*adābhyasya*)—who are injured by no one
+- एषां (*eṣāṃ*)—belonging to this company of Maruts
+- सुम्मं (*summaṃ*)—wealth
+- मन्मभिः (*manmabhiḥ*)—with meditative praises
+- भिक्षेत (*bhikṣeta*)—begs
+
+##### भावार्थ (Bhāvārtha)
+
+The human worshipper begs, with meditative praises, for the wealth belonging to this company of Maruts, who are of such extraordinary nature and are injured by no one.
+
+##### English translation
+A man should solicit happiness of them with praises of such an unconquerable (company),
+
+### Printed p. 544
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये द्र॒प्सा इ॑व॒ रोद॑सी॒ धमं॒त्यनु॑ वृ॒ष्टिभिः॑ ।  
+> उत्सं॑ दु॒हंतो॒ अक्षि॑तं ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । द्रप्साः इव । रोदसी इति । धमंति । अनु । वृष्टिभिः ।  
+> उत्सं । दुहंतः । अक्षितं ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो द्रप्सा इवोदविंदव इव रोदसी द्यावापृथिव्यौ वृष्टिभिर्वर्षणैरनु धमंति अनुगच्छंति साकल्येन व्याप्पुवंति । यद्वा । अनुध्माते
+> उच्छसितावयने कुर्वंति । किं कुर्वंतः । अक्षितमक्षीणमुदकमुत्सं मेघं
+> दुहंतः पूरयंतो मेघादवाङ्मुखं पातयंतः ॥ दुहेर्लक्षणहेत्वोः ।
+> पा. ३. २. १२६ । इति हेतौ शतृप्रत्ययः ॥ यत एवं दुहंति ततो रोदसी
+> अनुधमंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, like drops of water, follow heaven and earth with their rains, pervade them completely. Or else: they make them inflated (अनुध्माते (*anudhmāte*)). Doing what? Milking the inexhaustible water-spring, the cloud, that is, filling it and making it pour downward from the cloud. By पा. ३. २. १२६ (*pā. 3. 2. 126*) the affix śatṛ is used in the sense of cause. Because they thus milk, therefore they blow upon heaven and earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अक्षितं (*akṣitaṃ*)—the undiminishing
+- उत्सं (*utsaṃ*)—cloud
+- दुहंतः (*duhaṃtaḥ*)—milking
+- ये (*ye*)—which Maruts
+- द्रप्सा इव (*drapsā iva*)—like drops of water
+- रोदसी (*rodasī*)—heaven and earth
+- वृष्टिभिः (*vṛṣṭibhiḥ*)—with rains
+- अनु धमंति (*anu dhamaṃti*)—make them wholly drenched (such Maruts they beg of for wealth)
+
+##### भावार्थ (Bhāvārtha)
+
+They beg for wealth of those Maruts who, milking the undiminishing cloud, make heaven and earth wholly drenched with rains like drops of water.
+
+##### English translation
+They who, like dropping showers, inflate heaven and earth with rain, milking the inexhaustible cloud.
+
+### Printed p. 545
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॑ स्वा॒नेभि॑रीरत॒ उद्रथै॒रुदु॑ वा॒युभिः॑ ।  
+> उत्स्तोमैः॒ पृश्नि॑मातरः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । स्वानेभिः । ईरते । उत् । रथैः । उत् । ऊं इति ।  
+> वायु्यभिः ।  
+> उत् । स्तोमैः । पृश्निमातरः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वानेभिः स्वानैः शब्दैर्मरुत उदीरते । उद्गच्छंति ॥ स्वन शब्दे । स्वनहसोर्वा । सा. ३-३-६२ । इत्यपो विकल्पितत्वात्पक्षे घञ् । कर्षात्वत इत्यंतोदात्तत्वं । बहुलं छंदसीति । भिस ऐसभावः ॥ उ इति पूरणः । तथा रथै रथप्रमुख्यर्वाहनैश्चोदीरते । पृश्निमातरः .... .... .... .... ॥
+
+##### Gist of the bhāṣya
+
+The Maruts rise up with sounds (स्वानेभिः (*svānebhiḥ*)), that is, they go upward. स्वन शब्दे (*svana śabde*): by स्वनहसोर्वा (*svanahasorvā*) the affix ap is optional, so in the other alternative ghañ; the accent and the irregular ending of the instrumental plural are explained as Vedic. उ (*u*) is an expletive. So they rise also with chariots, that is, with chief vehicles. The block continues with पृश्निमातरः (*pṛśnimātaraḥ*) and breaks off in dots.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृश्निमातरः (*pṛśnimātaraḥ*)—the Maruts, sons of Pṛśni
+- स्वानेभिः (*svānebhiḥ*)—accompanied by sounds
+- उदीरते (*udīrate*)—arise
+- रथैः (*rathaiḥ*)—together with chariots
+- उत् (*ut*)—rise upward
+- वायुभिः (*vāyubhiḥ*)—together with winds
+- उत् (*ut*)—move in the atmosphere
+- स्तोमैः (*stomaiḥ*)—together with hymns
+- उत् (*ut*)—rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, sons of Pṛśni, arise together with sounds. They rise upward with chariots. They move in the atmosphere with winds. They rejoice with hymns.
+
+##### English translation
+The sons of Prishni rise up with shouts, with chariots, with winds, with praises.
+
+### Printed p. 546
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येना॒व तु॒र्वशं॒ यदुं॒ येन॒ कण्णं॑ धन॒स्पृतं॑ ।  
+> रा॒ये सु तस्य॑ धीमहि ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । आव । तुर्वशं । यदुं । येन । कण्वं । धन्वस्पृतं ।  
+> राये । सु । तस्य । धीमहि ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येनात्मीयेन रक्षणेन तुर्वशमेतत्संज्ञं यदुमेतत्संज्ञं च राजर्षिमाव
+> यूयं रक्षितवंतः स्थ ॥ अवतेर्लिटि मध्यमबहुवचने रूपमेतत् ॥ येन च
+> धनस्पृतं धनकामं कण्वमृषिं रक्षितवंतः स्थ तस्य युष्मदीयं रक्षणं राये
+> धनार्थं सु धीमहि । शोभनं ध्यायानु ॥
+
+##### Gist of the bhāṣya
+
+With that protection of yours by which you protected the royal sages named Turvaśa and Yadu, and by which you protected the sage Kaṇva, desirous of wealth, we meditate well on that protection of yours for the sake of wealth. आव (*āva*) is the form of the root अव (*ava*) in the perfect, second person plural.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Maruts) येन (*yena*)—by which protection of yours
+- तुर्वशं (*turvaśaṃ*)—the royal sage named Turvaśa
+- यदुं (*yaduṃ*)—the royal sage named Yadu
+- आव (*āva*)—you protected
+- येन (*yena*)—by which protection
+- धनस्पृतं (*dhanaspṛtaṃ*)—the wealth-desiring
+- कण्वं (*kaṇvaṃ*)—the sage Kaṇva you protected
+- तस्य (*tasya*)—that protection of yours
+- राये (*rāye*)—for the sake of wealth
+- सु धीमहि (*su dhīmahi*)—we meditate on and praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, by which protection of yours you protected the royal sages Turvaśa and Yadu, and by which you protected the wealth-desiring sage Kaṇva, that protection of yours we meditate on and beg for the sake of wealth. We praise it.
+
+##### English translation
+We meditate on that (generosity) whereby for (the sake of granting them) riches you have protected Turvasha and Yadu and the wealth-desiring Kanwa.
+
+### Printed p. 547
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा उ॑ वः सुदानवो घृ॒तं न पि॒प्युषी॒रिषः॑ ।  
+> वर्धा॑न्का॒ण्वस्य॒ मन्म॑भिः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । ऊं इति । वः । सुदानवः । घृतं । न । पिप्युषीः । इषः ।  
+> वर्धान् । काण्वस्य । मन्मभिः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानवः शोभनदाना मरुतः धृतं न धृतमिव पिप्युषीर्वर्धयित्र्यः
+> शरीरपुष्टिहेतुभूता इमा इदानीं प्रदीयमाना इषोऽन्नानि सोमलक्षणानि
+> काण्वस्य कण्वगोत्रस्य मम संबंधिभिर्मन्मभिः स्तोत्रैः सार्धं वो युष्मान्
+> वर्धान् वर्धयंतु ॥ वृधेर्ण्यंताल्लेटि रूपमेतत् । उ इति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts of good gifts, may these foods, offered now, which are like ghee (धृतं न (*dhṛtaṃ na*)) increasing and causing bodily nourishment, being Soma, together with the hymns of me, of the Kaṇva family, make you grow. वर्धान् (*vardhān*) is the leṭ form of the root *vṛdh* in the causative. उ (*u*) is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—O Maruts, generous givers
+- धृतं न (*dhṛtaṃ na*)—like ghee
+- पिप्युषीः (*pipyuṣīḥ*)—nourishing the body
+- इमाः (*imāḥ*)—now to be offered
+- इषः (*iṣaḥ*)—the foods in the form of Soma
+- काण्वस्य (*kāṇvasya*)—made by me, born in the Kaṇva family
+- मन्मभिः (*manmabhiḥ*)—together with the hymns
+- वः (*vaḥ*)—you
+- वर्धान् (*vardhān*)—may they make grow (make strong)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, generous givers, may the foods in the form of Soma, nourishing the body like ghee and now to be offered, together with the hymns made by me, born in the Kaṇva family, make you strong.
+
+##### English translation
+Munificent (Maruts), may these (sacrificial) viands, nutritious as butter, together with the praises of the descendent of Kanwa, afford you augmentation.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व॑ नू॒नं सु॑दानवो॒ मद॑था वृक्तबर्हिषः ।  
+> ब्र॒ह्मा को वः॑ सपर्यति ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्व । नूनं । सुदानवः । मदथ । वृक्तबर्हिषः ।  
+> ब्रह्मा । कः । व् । सपर्यति ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुदागमनस्य विलंबमसहमान ऋषिरनया वितर्कयति । सुदानवः शोभनदाना हे व्यक्तबर्हिषः । व्यक्तं वृक्षं छिन्नं बर्हियर्येषां यागाय । यद्वा । बर्हिरिति
+> यज्ञनाम । व्यक्तः प्रवृक्तो यज्ञो येषां ते तथोक्ताः । हे ईदृशा मरुतः
+> क्व कुत्र देशे नूनमिदानीं मदथ । माद्यथ ॥ मदी हर्षे । व्यत्ययेन शप् ॥ कश्च
+> ब्रह्मा ब्राह्मणः स्तोता वो युष्मान् सपर्यति । परिचरति । किंकारणं बहुशः
+> स्तुतैरपि भवद्धिरिदानीं नागम्यत इति न जानीमः ॥
+
+##### Gist of the bhāṣya
+
+The sage, unable to bear the delay of the Maruts' coming, reflects in this verse. O Maruts of good gifts, व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*), those for whom the sacred grass has been cut for the sacrifice; or else *barhiḥ* is a name of sacrifice, and the term means those for whom the sacrifice has been set going. In what place, now, do you rejoice? मदथ (*madatha*) is from मदी हर्षे (*madī harṣe*), with śap by vyatyaya. And what Brahmā, a brahmin worshipper, attends on you? We do not know why you do not come now though so often praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—generous givers
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—those for whom the darbha seat has been prepared and made ready, O Maruts
+- नूनं (*nūnaṃ*)—now
+- क्व (*kva*)—in what place
+- मदथ (*madatha*)—are you rejoicing
+- कः (*kaḥ*)—which
+- ब्रह्मा (*brahmā*)—worshipper
+- वः (*vaḥ*)—you
+- सपर्यति (*saparyati*)—is he, while worshipping, holding back and detaining?
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, generous givers, for whom the darbha seat has been prepared and made ready, in what place are you rejoicing now? Which worshipper is holding you back there while he worships you?
+
+##### English translation
+Munificent (Maruts), for whom the sacred grass has been trimmed where now are you being exhilarated ? What pious worshipper (detains) you as he) adores you ?
+
+### Printed p. 550
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि ष्म॒ यद्ध॑ वः पु॒रा स्तोमे॑भिर्वृक्तबर्हिषः ।  
+> शर्धा॑ ऋ॒तस्य॒ जिन्न॑थ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । स्म । यत् । ह । वः । पुरा । स्तोमेभिः । वृक्तबर्हिषः ।  
+> शर्धान् । ऋतस्य । जिन्वथॆ ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वया वितर्क्वेदानीं निश्चि नोडि । हे वृक्तबर्हिषः प्रवृत्तयज्ञका मरुतः
+> नहि ष्म । तन्न खलु संभवति । वो यूयं पुरास्मत्तः पूर्वमेव कृतैः स्तोमैरन्यदीयैः स्तोत्रैर्ऋतस्योदकस्य सत्यस्य यज्ञस्य वा संबंधिनः शर्धानात्मीयानि
+> बलानि जिन्वथ प्रीणयथेति यद्ध यत्पलु तन्न संभवत्येव । अतः शीघ्रमागच्छतेत्यर्थः । यद्वा । वृक्तबर्हिष इत्यृत्विज्ञानु । हे ऋत्विजः वो युष्माकं संबंधिभिः
+> स्तोमेभिः स्तोत्रैर्ऋतस्य यज्ञस्य संबंधिनो यागार्हाञ्भर्धान् मारुतानि
+> बलानि पुरान्येभ्यः स्तोतृभ्यः पूर्वं यद्यस्मात्कारणाज्जिन्वथ यूयं प्रीणयथ ॥
+> जिविः प्रीणनार्थः ॥ तस्मादन्यदीयैः स्तोत्रैर्नहि ष्मन खलु ते मरुतो वशीभवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+After the earlier reflection he now decides. O Maruts, for whom the sacrifice is set going, नहि ष्म (*nahi ṣma*): that is surely not possible. Since you formerly, before this, with hymns made by us and by others, delighted the powers (शर्धान् (*śardhān*)) connected with water, truth or sacrifice, that is, your own strengths, it cannot be that you stay elsewhere; therefore come quickly. Or else, वृक्तबर्हिषः (*vṛktabarhiṣaḥ*) addresses the priests: O priests, since you, with your hymns, delight the Maruts' strengths connected with sacrifice, fit for the sacrifice, earlier than other worshippers, जिन्वथ (*jinvatha*) (from जिवि (*jivi*), in the sense of pleasing); therefore with others' hymns the Maruts do not come under their control.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—O Maruts with the well-prepared darbha seat
+- यद्ध (*yaddha*)—for which reason
+- वः (*vaḥ*)—you
+- पुरा (*purā*)—formerly, offered by us
+- स्तोमेभिः (*stomebhiḥ*)—with hymns
+- ऋतस्य (*ṛtasya*)—connected with the sacrifice
+- शर्धान् (*śardhān*)—your strengths
+- जिन्वथ (*jinvatha*)—have nourished (therefore)
+- नहि ष्म (*nahi ṣma*)—you cannot stay long elsewhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts with the well-prepared darbha seat, for the reason that you formerly increased your sacrifice-connected strengths with the hymns offered by us, for that very reason you cannot now leave us and stay long elsewhere.
+
+##### English translation
+(Maruts), for whom the sacred grass is trimmed, it cannot be (that you submit to be detained), for you have derived strength from the sacrifice, formerly (accompanied) by our praises.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गमु॒ तै म॑ह॒तीर॒पः सं क्षो॒णी समु॒ सूर्यं॑ ।  
+> सं वज्रं॑ पर्व॒शो द॑धुः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । ऊं इति । त्ये । महतीः । अपः । सं । क्षोणी इति । सं । ऊं इति ।  
+> सूर्यं ।  
+> सं । वज्रं । पर्वशः । दधुः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्ग्ये महावीरे पयसोरासिक्तयोः सतोः समु त्ये महतीरप इत्येषानुवक्तव्या । सूत्र्यते हि । आसिक्तयोः समु त्ये महतीरप इति महावीरवादायोत्तिष्ठत्सु । अ. ४-७ । इति ॥
+> त्ये ते पूर्वोक्तगुणा मरुतो महति र्बह्वीरपो वृष्टुदकानि समु दधुः ।
+> संदधति । ओषध्यादिभिः संयोजयंति । यद्वा । घर्मकाले सूर्यरश्मिभिराकृता उपरि
+> सम्यग्दारयंति ॥ बृहन्महतोरुपसंख्यानमिति महतः परस्य जीप उदात्तत्वं । ऊडिदमित्यादिनाप् शब्दात्परः शस् उदात्तः ॥ तथा क्षोणी क्षोण्यौ द्यावापृथिव् च ते
+> मरुतः सं दधुः । यथा स्वे स्वे स्थानेवतिष्ठेते तथा धारयंति । सूत्रात्मना
+> वायुना सर्वं जगद्धार्यते । तथा च श्रूयते । वायुर्वै गोतम तत्सूत्रं
+> वायन. वै गोतम सूत्रेणायं च लोकः सर्वाणि च भूतानि संदृब्धानि भवंति ।
+> बृ. उ. ३-७-२ । इति । तथा सूर्यं सर्वस्य प्रेरकमादित्यं चांतरिक्षे सं दधु: ।
+> सम्यग्दारयंति । उशब्दः समुच्चये । ईदृशास्ते मरुतो वज्रमात्मीयमायुधं
+
+##### Gist of the bhāṣya
+
+In the Pravargya, when the two milks have been poured into the Mahāvīra, this verse समु त्ये महतीरप (*samu tye mahatīrapa*) is to be recited. It is prescribed by the sūtra: आसिक्तयोः समु त्ये महतीरप इति महावीरवादायोत्तिष्ठत्सु । अ. ४-७ । इति ॥ (*āsiktayoḥ samu tye mahatīrapa iti mahāvīravādāyottiṣṭhatsu | a. 4-7 | iti ‖*). Those Maruts of the qualities stated before join together the great waters, the rain-waters, that is, they unite them with plants and the rest; or else in the hot season they pour down well, above, the waters drawn up by the sun's rays. Likewise the Maruts hold together the two earths (heaven and earth), so that each stays in its own place. By the wind that is the thread the whole world is held; and so it is heard: वायुर्वै गोतम तत्सूत्रं वायन. वै गोतम सूत्रेणायं च लोकः सर्वाणि च भूतानि संदृब्धानि भवंति । बृ. उ. ३-७-२ । इति । (*vāyurvai gotama tatsūtraṃ vāyana. vai gotama sūtreṇāyaṃ ca lokaḥ sarvāṇi ca bhūtāni saṃdṛbdhāni bhavaṃti | bṛ. u. 3-7-2 | iti |*). Likewise they hold the sun, the impeller of all, in the atmosphere. उ (*u*) is in the sense of conjunction.
+
 ---
 
-**Progress note:** Done through printed p. 541. pp. 536-541 (batch API)
+**Progress note:** Done through printed p. 550. pp. 542-550 (batch API)
