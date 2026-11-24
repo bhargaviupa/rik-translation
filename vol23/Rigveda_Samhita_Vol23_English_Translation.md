@@ -12922,6 +12922,313 @@ May that Indra who, without the help of others, alone defeats his enemies as the
 ##### English translation
 May he who alone overcomes (enemies) through (the power of)
 
+### Printed p. 324
+religious observances, who by pious acts is rendered mighty and fierce, who is handsome-chinned, approach: may he never be remote; may he come to our invocation; may he never abandon us.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं पुरं॑ चरि॒ष्ण्वं॑ व॒धैः शुष्ण॑स्य॒ सं पि॑णक् ।  
+> त्वं भा अनु॑ चरो॒ अध॑ द्वि॒ता यदिं॑द्र॒ हव्यो॒ भुवः॑ ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । पुरं । चरिष्ण्वं । वधैः । शुष्णस्य । सं । पिणक् ।  
+> त्वं । भाः । अनु । चरः । अध । द्विता । यत् । इंद्र । हव्यः । भुहः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं शुष्णस्य शोषकस्यासुरस्य चरिष्ट्वं चरणशीलं ॥ वा छंदसीत्यमि
+> पूर्वत्वस्य विकल्पितत्वाद्यणादेशः ॥ पुरु निवासस्थानं वधैर्वज्रादिभिरायुध्यॆः सं
+> पिणक् । समचूर्णयः । अभांक्षीरित्यर्थः ॥ पिनष्टेर्लजु मध्यमैकवचने रूपमेतत् ॥ आधापि च भा भासमानस्त्वमनु चरः । तं शुष्णं हंतुमन्वगच्छः । यद्वा ।
+> अथ शुष्णस्य पुरभेदनानंतरं भा दीप्तिस्तमनु चरः । अन्वगच्छः । प्राप्तवानित्यर्थः ।
+> हे इंद्र त्वं यद्यदा द्विता द्विधा द्विविदैः स्तोतृभिर्यष्टृभिश्च हव्यो ह्वातव्यो
+> भुवः भवेः । तदानीं त्वं शुष्णस्य पुरं सं पिणगित्यन्वयः ॥ भवतेर्लॆटि सिप्यडागमः ।छांदसः शपो लुक् । भूसुवोस्ति जोति गुणप्रतिषेधादुवज् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you crushed completely, with your weapons such as the vajra, the moving (चरिष्ण्वं (*cariṣṇvaṃ*)) dwelling-place of Śuṣṇa, the drying-up Asura; सं पिणक् (*saṃ piṇak*) means "you pulverised", "you broke". The form is second person singular. Moreover, shining, you followed him in order to kill Śuṣṇa. Or else: after the breaking of Śuṣṇa's city, radiance (भा (*bhā*)) followed you, i.e. you attained it. O Indra, when (यत् (*yat*)) you are to be invoked twofold (द्विता (*dvitā*)), by the singers of praise and by the sacrificers, then you crush Śuṣṇa's city: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you (O Indra)
+- शुष्णस्य (*śuṣṇasya*)—of the drying-up Asura
+- चरिष्मं (*cariṣmaṃ*)—moving
+- पुरं (*puraṃ*)—the dwelling-place
+- वधैः (*vadhaiḥ*)—with your weapons
+- सं पिणक् (*saṃ piṇak*)—you destroyed completely
+- अध (*adha*)—moreover
+- भाः (*bhāḥ*)—radiant
+- त्वं (*tvaṃ*)—you
+- अनु चरः (*anu caraḥ*)—followed him (to kill him)
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—for which very reason
+- द्विता (*dvitā*)—in two ways
+- हव्यः (*havyaḥ*)—worthy of worship
+- भुवः (*bhuvaḥ*)—you have become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you yourself completely destroyed with your weapons the moving dwelling-place of the drying-up Asura Śuṣṇa.
+
+### Printed p. 325
+Moreover, radiant, you followed him in order to kill him. O Indra, for that very reason you are worthy of twofold worship.
+
+##### English translation
+You have broken to pieces the moveable city of Sushna with your weapons; you who are light have followed him; wherefore, Indra, you are in two ways to be worshipped.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मम॑ त्वा॒ सूर॒ उदि॑ते॒ मम॑ म॒ध्यंदि॑ने दि॒वः ।  
+> मम॑ प्रसि॒त्वे अ॑पिशर्व॒रे व॑स॒वा स्तोमा॑सोः अवृत्सत ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मम । त्वा । सूरे । उत् इते । मम । मध्यंदिने । दिवः ।  
+> मम । प्रपित्वे । अपिशर्वरे । वसो इति । आ । स्तोमासः । अवृत्सत ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्रह्मशस्त्रे मम त्वेति वैकल्पिकोऽनुरूपस्त्रृचः । सूत्रं तु पूर्वमुदाकृतं ॥
+> सूरे सूर्य उदित उदयं प्राप्ते पूवाह्नसमये मम स्तोमासः
+> स्तोत्राणि हे वसो वासकेंद्र त्वामावृत्सत । आवर्तयंतु । अस्सदभिमुखं गमयंतु । तथा दिवो दिवसस्य मध्यंदिने मध्याह्नेऽपि मदीयाः स्तोमास्त्वामावर्तयंतु । तथा प्रपित्वे प्राप्ते दिवसस्यावसाने सायाह्नेऽपि मदीयाः स्तोमास्त्वामावर्तयंतु । अपिशर्वरे । शर्वरीं रात्रिमपिगतः कालोऽपिशर्वरः । शार्वरे
+> कालेऽपि मदीयाः स्तोमास्त्वामावर्तयंतु ॥
+
+##### Gist of the bhāṣya
+
+In the Cāturviṃśika day, at the midday pressing, in the Brahmaśastra, मम त्वा (*mama tvā*) is the optional anurūpa triplet; the sūtra was quoted earlier. When the sun has risen, in the forenoon, may my praises, O Vasu Indra, turn you towards us. Likewise at midday of the day may my praises turn you; likewise when the close of the day has come, in the evening; and अपिशर्वरे (*apiśarvare*): शर्वरीं (*śarvarīṃ*) is night, and the time that has gone into night is अपिशर्वरे (*apiśarvare*); at that night-time too may my praises turn you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Indra, giver of dwelling
+- सूरे (*sūre*)—the sun
+- उदिते (*udite*)—when risen, that is in the morning
+- मम (*mama*)—my
+- स्तोमासः (*stomāsaḥ*)—praises
+- त्वा (*tvā*)—you
+- आ अवृत्सत (*ā avṛtsata*)—
+
+### Printed p. 326
+- (continued) may they turn towards us
+- दिवः (*divaḥ*)—of the day
+- माध्यंदिने (*mādhyaṃdine*)—the midday time
+- प्रपित्वे (*prapitve*)—when it has arrived: may my praise turn you towards us
+- अपिशर्वरे (*apiśarvare*)—when the twilight approaches
+- मम (*mama*)—may my praise turn you towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling, at sunrise, at midday and in the evening may my praises turn you towards us. That is, in these three times, the morning pressing, the midday pressing and the third pressing, may our praises draw you towards us.
+
+##### English translation
+May my prayers when the sun has risen, those also at noon, those also when evening arrives, bring you back, giver of riches (to my sacrifice).
+
+##### विशेषविषयगळु (Special Topics)
+
+The sūtra statement that verses 29–31 of this sūkta, beginning मम त्वा (*mama tvā*), are to be recited as an optional anurūpa triplet at the midday pressing of the day of the sacrifice called Cāturviṃśika has been given earlier.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒हि स्तु॒हीदे॒ते घा॑ ते॒ मंहि॑ष्ठासो म॒घोनां॑ ।  
+> निं॒दि॒ताश्वः॑ प्रप॒थी प॑रम॒ज्या म॒घस्य॑ मेध्यातिथे ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुहि । स्तुहि । इत् । एते । घ । ते । मंहिष्ठासः । मघोनां ।  
+> निंदितअश्वः । प्रपथी । परमज्याः । मघस्य । मेध्य अतिथे ॥ ३८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आसंगो राजर्षिर्मेध्यातिथये बहु धनं दत्वा तमृषिं दत्तदानस्य स्वस्य
+> स्तुतौ प्रेरयति । हे मेध्यातिथे यज्ञा र्हातिथ एतत्संज्ञर्षे स्तुहि स्तुहीत् । पुनःपुनरस्मान् प्रशंसैव । मोदास्व । औदासीन्यं मा कार्षिः । एते घृते खलु वयं
+> मघोनां धनवतां मध्ये ते तुभ्यं मघस्य धनस्य मुंहिष्ठासो दातृतमाः ।
+> आ. ५. ८. ७. व. १६:] ऋग्वेदसंहिता 827 .
+> अतोऽस्मान् स्तुहीत्यर्थः । कासौ स्तुतिः तामाह । निंदिताश्वः । यस्य वीर्येण
+> परेषामश्वा निंदिताः कुत्सिता भवंति तादृशः । प्रपथी । प्रकृष्टः पंथाः प्रपथः ।
+> तद्वान् । सन्मार्गवर्तित्यर्थः । परमज्या उत्कृष्टज्यः । अनेन धनुरादिकं लक्ष्यते ।
+> उत्कृष्टायुध इत्यर्थः । यद्वा । परमानुत्कृष्टाञ्छत्रूञ्चनाति हिनस्तीति परमज्याः॥
+> ज्जा वयोहानौ । आस्मादातो मनिन्निति विच् ॥ एवंभूतोऽहमासंग इति स्तुहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The royal sage Āsaṅga, having given much wealth to Medhyātithi, urges that seer to praise him, the giver. O Medhyātithi, praise, praise us again and again; rejoice; do not be indifferent. Among wealthy men we are, for you, the most generous givers of wealth; therefore praise us. Which praise? He says: one whose horses, by his might, become despised (निंदिताश्वः (*niṃditāśvaḥ*)) among others'; प्रपथी (*prapathī*): one having an excellent path, i.e. keeping to the right way; परमज्या (*paramajyā*): having an excellent bowstring, whereby the bow etc. is meant, i.e. of excellent weapons. Or else: one who harms the highest (*paramān*) enemies. "Such am I, Āsaṅga": praise thus.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मेध्यातिथे (*medhyātithe*)—O Medhyātithi
+- स्तुहि (*stuhi*)—praise us
+- स्तुहीत् (*stuhīt*)—praise us exceedingly
+- एते घ (*ete gha*)—we indeed
+- मघोनां (*maghonāṃ*)—among the wealthy
+- ते (*te*)—to you
+- मघस्य (*maghasya*)—of wealth
+- मुंहिष्ठासः (*muṃhiṣṭhāsaḥ*)—are the most generous givers
+- निंदिताश्वः (*niṃditāśvaḥ*)—possessing horses that disparage others' horses
+- प्रपथी (*prapathī*)—walking the most excellent path
+- परमज्याः (*paramajyāḥ*)—having a bow with the best bowstring
+
+##### भावार्थ (Bhāvārtha)
+
+O Medhyātithi, among wealthy men we are the ones who give you wealth most generously. Hence there is no room to praise anyone but us; praise us exceedingly. We are possessed of excellent horses and disparage others' horses, we follow the best path, and we have bows with the best bowstrings.
+
+##### English translation
+Praise (me), praise (me), Medhyatithi, for amongst the wealthy we are the most liberal donors of wealth to you: (praise me as one) who out-strips a horse in speed, follows the right path, and bears the best arms.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यदश्वा॒न्वन॑न्वतः श्र॒द्धया॒ हं रथे॑ दु॒हं ।  
+> उ॒त वा॒मस्य॒ वसु॑नश्चिकेतति॒ यो आस्ति॒ याद्वः॑ प॒शुः ॥ ४१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अ । यत् । अश्वान् । वनन्वतः । श्रद्धया- । अहं । रथे । रुहं ।
+
+### Printed p. 328
+
+> उत । वामस्य । वसुनः । चिकेतति । यः । अस्ति । याद्वः । पशुः ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वनन्वतो वननवतः संभक्तवतोऽश्वांस्तुरगानहं प्रायोगिः श्रद्धयादरातिशयेन युक्तः सन् यद्यदा हे मेध्यातिथे त्वदीये रथ आ रुहं आरोहयं ॥
+> रुहेरंतर्भावितण्यर्थाल्लुज कृमृदृरुहिभ्य इति चेरजादेशः ॥ तदानीं मामेवं
+> स्तुहि । उतापि च । प्रकृतस्तुत्यपेक्ष एष समुच्चयः । वामस्य वननीयस्य वसुनो
+> धनस्य ॥ पूर्ववत्कर्मणि षष्ठी ॥ ईदृशं धनं चिकेतति । एष आसंगो दातुं
+> जानाति । याद्वो यदुवंशोद्भवः । यद्वा । यदवो मनुष्याः । तेषु
+> प्रसिद्धः । पशुः ॥ लुप्तमत्वर्थमेतत् ॥ पशुमान् । यद्वा । पशुः पश्यतेः । सूक्ष्मस्य
+> द्रष्टा । य आसंगोऽस्ति विद्यते एष चिकेततीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+When I, filled with faith, that is great regard, mount (cause to mount) docile horses (वनन्वतः (*vananvataḥ*)) on your chariot, O Medhyātithi, then praise me thus. And also: this "and" refers to the praise in question. Of desirable (वामस्य (*vāmasya*)) wealth, with the genitive of the object as before: such wealth this Āsaṅga knows how to give. याद्वः (*yādvaḥ*): born in the line of Yadu; or: the Yadus are men, and he is renowned among them. पशुः (*paśuḥ*): possessing cattle; or else पशुः (*paśuḥ*) from the root पश्य (*paśya*), one who sees the subtle. The construction: the Āsaṅga who exists, he knows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Medhyātithi) वनन्वतः (*vananvataḥ*)—fit for service
+- अश्वान् (*aśvān*)—horses
+- अहं (*ahaṃ*)—I
+- श्रद्धया (*śraddhayā*)—with regard
+- यत् (*yat*)—when
+- रथे (*rathe*)—to your chariot
+- आ रुहं (*ā ruhaṃ*)—I yoke (then praise me)
+- उत (*uta*)—and
+- यः (*yaḥ*)—who
+- याद्वः (*yādvaḥ*)—renowned in the Yadu line
+- पशुः अस्ति (*paśuḥ asti*)—is possessed of cattle, that Āsaṅga
+- वामस्य (*vāmasya*)—attractive
+- वसुनः (*vasunaḥ*)—wealth, that it should be given
+- चिकेतति (*ciketati*)—knows
+
+##### भावार्थ (Bhāvārtha)
+
+O Medhyātithi, as soon as I yoke to your chariot, with regard, horses fit for service, praise me. And Āsaṅga, renowned among all those born in the Yadu line and possessed of cattle, knows that attractive wealth should be given to praisers like you.
+
+##### English translation
+When with faith I harness the docile horses in the car, (praise me), for the descendant of Yadu, possessed of cattle, know how to distribute desirable riches.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ऋ॒ज्रा मह्यं॑ माम॒हे स॒ह त्व॒चा हि॑र॒ण्यया॑ ।
+
+### Printed p. 329
+
+> एष विश्वान्यभ्यस्तु सौभगासंगस्य स्वनद्रथः ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ऋज्रा । मह्यं । ममहे । सह । त्वचा । हिरण्यया ।  
+> एषः । विश्वानि । अभि । अस्तु । सौभगा । आसंगस्य । स्वनत् रथः ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवमेवं मां स्तुहीत्यासंगो मेध्यातिथिं ब्रूते । य आसंगस्यात्मा ऋज्रा
+> गमनशीलानि धनानि हिरण्यया हिरण्मय्या त्वचा चर्मणास्तरणेन सह सहितानि मह्यं
+> मेध्यातिथये ममहे ददौ । मुंहतिर्दानकर्मा । एष आसंगस्यात्मा स्वनद्रथः
+> शब्दायमानरथः सन् विश्वानि व्याप्तानि सौभगानि धनानि शत्रूणां स्वभूतान्यभ्यस्तु ।
+> अभिभवतु ॥
+
+##### Gist of the bhāṣya
+
+Āsaṅga says to Medhyātithi: "praise me thus." The self of Āsaṅga gave (ममहे (*mamahe*); the root मंह (*maṃha*) means giving) to me, Medhyātithi, moving (ऋज्रा (*ṛjrā*)) wealth together with a golden (हिरण्यया (*hiraṇyayā*)) hide (त्वचा (*tvacā*)), a covering. May this Āsaṅga, with his rattling chariot, overcome all the pervasive treasures of his enemies, making them his own.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Āsaṅga
+- ऋज्रा (*ṛjrā*)—movable wealth (coins of gold etc.)
+- हिरण्यया (*hiraṇyayā*)—golden (bound)
+- त्वचा सह (*tvacā saha*)—placed in a leather bag
+- मह्यं (*mahyaṃ*)—to me
+- ममहे (*mamahe*)—gives
+- आसंगस्य एषः (*āsaṃgasya eṣaḥ*)—this such Āsaṅga
+- स्वनद्रथः (*svanadrathaḥ*)—having a rattling chariot
+- विश्वानि सौभगा (*viśvāni saubhagā*)—all the enemies' riches
+- अभ्यस्तु (*abhyastu*)—may he conquer and make his own (so praise)
+
+##### भावार्थ (Bhāvārtha)
+
+"May this Āsaṅga, who gives me all the movable gold and other coins placed in a golden-bound leather bag, with his rattling chariot conquer all the riches of his enemies and make them his own": so praise.
+
+##### English translation
+(Praise me, saying,) "He who has presented riches to me with a golden purse: may this rattling chariot of Asanga carry off all the treasures (of the enemy)."
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ प्लायो॑गि॒रति॑ दासद॒न्याना॑सं॒गो अ॑ग्ने द॒शभिः॑ स॒हस्रैः॑ ।
+
+### Printed p. 330
+
+> अधोक्षणो दश मह्यं रुशंतो नळा इव सरसो निरतिष्ठन्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । प्लायोगिः । अति । दासत् । अन्यान् । आसंगः । अग्ने. । दशभिः । सहस्रैः ।  
+> अध । उक्षणः । दश । मह्यं । रुशंतः । नळाः इव । सरसः । निः । अतिष्ठन् ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधापि च प्लायोगिः प्रयोगनाम्नः पुत्र आसंगो नाम राजा दशभिर्दशगुणितैः सहस्रैः सहस्रसंख्याकैर्गवादिभिरन्यान्तात्मनति दासत् । अतिक्रम्य ददाति ।
+> अधानंतरमुक्षणः सेचनसमर्था मह्यमासंगेन दत्ता रुशंतो दीप्यमाना दश
+> दशगुणितसहस्रसंख्याकास्ते गवादयो नळा इव । नळास्तटाकोद्भवास्तृणविशेषाः ।
+> ते यथा सरसस्तटाकात्संघशो निर्गच्छंति तथैव मह्यं दत्ता गवादयोऽस्मादासंगान्निरतिष्ठन् । निर्गत्यावास्थित । एवमेवंप्रकारेण मां स्तुहीति मेध्यातिथिं
+> प्रत्युक्तत्वादेतासां चतसृणामृचां प्रायोगिरासंग ऋषिः स एव देवतेश्येतदुपपन्नं भवति ॥
+
+##### Gist of the bhāṣya
+
+And also, King Āsaṅga, son of Prayoga, gives surpassing others (अन्यान् (*anyān*)) with ten times a thousand, cattle and the like in thousands. Thereafter the ten-times-thousand (cattle etc.), capable of sprinkling (उक्षणः (*ukṣaṇaḥ*)), shining (रुशंतः (*ruśaṃtaḥ*)), given to me by Āsaṅga, like reeds (नळा इव (*naḷā iva*); reeds are a kind of grass born in a pond): as they come out in crowds from the pond, so the cattle etc. given to me came out of Āsaṅga and stood (निरतिष्ठन् (*niratiṣṭhan*)). "Praise me thus," he says to Medhyātithi. Since it is said in reply, the seer of these four verses is Prāyogi Āsaṅga, and he himself is the deity: this is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अध (*adha*)—and
+- प्लायोगिः (*plāyogiḥ*)—son of Playoga
+- आसंगः (*āsaṃgaḥ*)—Āsaṅga
+- दशभिः (*daśabhiḥ*)—multiplied by ten
+- सहस्रैः (*sahasraiḥ*)—thousands of cattle
+- अन्यान् (*anyān*)—than other givers
+- अति दासत् (*ati dāsat*)—has given more
+- अध (*adha*)—and
+- मह्यं (*mahyaṃ*)—given to me
+- उक्षणः (*ukṣaṇaḥ*)—possessing youth
+- रुशंतः (*ruśaṃtaḥ*)—shining
+- दश (*daśa*)—those ten thousand cattle also
+- सरसः (*sarasaḥ*)—out of the waters of a lake
+- नळाइव (*naḷāiva*)—as clumps of reeds come out together in a crowd
+- निरतिष्ठन् (*niratiṣṭhan*)—went out from Āsaṅga and came and stood with me
+
+##### भावार्थ (Bhāvārtha)
+
+"O Agni, Āsaṅga, son of Playoga, has given me a herd of cattle ten thousand more than other donors give. Those ten thousand cattle, given to me by him, youthful and shining, like clumps of reeds coming out of the water of a lake, have come out of him in a crowd and stand with me": so praise.
+
 ---
 
-**Progress note:** Done through printed p. 323. pp. 318-323 (batch API)
+**Progress note:** Done through printed p. 330. pp. 324-330 (batch API)
