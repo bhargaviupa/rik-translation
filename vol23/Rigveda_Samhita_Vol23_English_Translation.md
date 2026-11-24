@@ -12654,6 +12654,274 @@ At the शेवारे (*śevāre*) (शेवं (*śevaṃ*) is happiness; 
 
 Indra, who of himself has resolve in all undertakings, who is praised even by enemies and is godlike in nature, gives in great abundance to the man who offers oblations in the sacrifice the riches desired by all
 
+### Printed p. 318
+
+the Bhāvārtha continues: he gives abundant wealth, desired by all, to the man who offers oblations at the sacrifice. The same Indra gives also to him who presses and offers the Soma juice, and likewise to him who praises that Indra.
+
+##### English translation
+The divine (Indra), the accomplisher of all aims, the glorified by his foes, gives vast treasures to the mortal who presents offerings at the sacrifice, to him who pours out the libation, who hymns his praise.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एंद्र॑ याहि॒ मत्स्व॑ चि॒त्रेण॑ देव॒ राध॑सा ।  
+> सरो॒ न प्रा॑स्यु॒दरं॒ सपी॑तिभि॒रा सोमे॑भिरु॒रु स्थि॒रं ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंद्र । याहि । मत्स्व । चित्रेण । देव । राधसा ।  
+> सरः । न । प्रासि । उदरं । सपीतिभिः । आ । सोमेभिः । उरु । स्थिरं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आ याहि । आगच्छ । हे देव द्योतमान चित्रेण दर्शनीयेन राधसा
+> धनेन सोमलक्षणेन मत्स्य । माद्य । सपीतिभिर्मरुद्भिः सह पीयमान्यैः सोमेभिः
+> सोमैरुरु वीस्तीर्णं स्थिरं वृद्धमुदरमात्मीयं जठरं सरो न सर इवा प्रासि ।
+> आपूरय ॥ प्रा पूरण आदादिकः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come. O shining god, be gladdened with the beautiful wealth in the form of Soma. Fill your own broad, firm, swollen belly, like a lake, with the Soma juices drunk together with the Maruts (सपीतिभिः (*sapītibhiḥ*)). प्रा पूरण (*prā pūraṇa*) is a root of the ādādika class.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O divine one
+- इंद्र (*iṃdra*)—O Indra
+- आ याहि (*ā yāhi*)—be pleased to come
+- चित्रेण (*citreṇa*)—attractive
+- राधसा (*rādhasā*)—with wealth in the form of Soma
+- मत्स्य (*matsya*)—attain delight
+- सपीतिभिः (*sapītibhiḥ*)—to be drunk together with the Maruts
+- सोमेभिः (*somebhiḥ*)—with Soma juices
+- उरु (*uru*)—broad
+- स्थिरं (*sthiraṃ*)—greatly grown
+- उदरं (*udaraṃ*)—your belly
+- सरो न (*saro na*)—as one fills a lake with water
+- आ प्रासि (*ā prāsi*)—fill
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Indra, be pleased to come. Be delighted with the attractive wealth in the form of Soma, and fill your belly, broadly grown like a lake, with the Soma juices that are drunk together with the Maruts, as one fills a lake with water.
+
+### Printed p. 319
+
+##### English translation
+Come hither, Indra, be exhilarated by the wonderful (libatory) affluence and with your fellow-troopers (the Maruts fill with the Soma juices, your vast belly, capacious as a lake.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑ स॒हस्र॒मा श॒तं यु॒क्ता रथे॑ हिर॒ण्यये॑ ।  
+> ब्र॒ह्म॒युजो॒ हर॑य इंद्र के॒शिनो॒ वहं॑तु॒ सोम॑पीतये॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । सहस्रं । आ । शतं । युक्ताः । रथे । हिरण्यये ।  
+> ब्रह्मयुजः । हरयः । इंद्र । केशिनः । वहंतु । सोमपीतये ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंतिकेऽहनि माध्यंदिने ब्रह्मशस्त्र आ त्वेति वैकल्पिकः स्तोत्रियस्तृचः ।
+> सूत्र्यते हि । आ त्वा सहस्रमा शतं मम त्वा सूर उदित इति ब्राह्मणाच्छंसिनः । आ.
+> ७-४ । इति ॥
+> हे इंद्र त्वा त्वां सहस्रं सहस्रसंख्याका हरयस्त्वदीया आश्वा आ वहंतु ।
+> आनयंत्वस्यद्यक्षं । तथा शतं शतसंख्याकाश्च भवदीया अश्वास्त्वामा वहंतु ।
+> यद्यपि द्वावेवास्य हरी तथापि तद्विभूतयोऽन्येऽपि बहवोऽश्वाः संति। ननु युगपदनेकैरश्वै कथं यातुं शक्यत इति अत आह युक्ता इति । हिरण्यये हिरण्मये
+> स्वर्णविकारे॥ हिरण्यशब्दाद्विकारार्थे विहितस्य मयट ऋत्त्ववास्त्यादौ मलोपो
+> निपात्यते ॥ तादृशे रथे युक्ताः संबद्धाः । बहूनामश्वानां शीघ्रगमनाय रथे
+> नियुक्तत्वाद्यगपदेव सर्वैरश्वैर्गंतुं शक्यत इति भावः । कीवृशा हरयः । ब्रह्मयुजो ब्रह्मणा परिवृढेनेंद्रेण युक्ताः। यद्वा। ब्रह्मणास्मदीयेन स्तोत्रेणास्माभिर्दत्तेन हविषा वा युक्ताः । केशिनः । केशाः केसराः । तैर्युक्ताः । किमर्थ-
+
+##### Gist of the bhāṣya
+
+On the Chāturviṃśika day, at the midday pressing, in the Brahmaśastra, the tṛca beginning आ त्वा (*ā tvā*) is an optional stotriya tṛca. It is so prescribed in the sūtra of the Brāhmaṇācchaṃsin (Ā. Sū. 7-4).
+O Indra, may a thousand of your horses bring you hither; and likewise a hundred of your horses. Although he has only two bay horses, there are many other horses that are their manifestations. If it is asked how one can travel with many horses at once, he answers: they are yoked (युक्ता (*yuktā*)). हिरण्यये (*hiraṇyaye*) means "made of gold": the chariot is golden. The many horses are yoked to the chariot for swift travel, so that one can go with all of them at once; this is the meaning. What kind of horses? ब्रह्मयुजः (*brahmayujaḥ*): yoked by Indra, the lord (परिवृढेन (*parivṛḍhena*)). Or else: joined with our prayer (ब्रह्मणा (*brahmaṇā*)), our hymn, or with the oblation given by us. केशिनः (*keśinaḥ*): having manes (केसराः (*kesarāḥ*)). For what purpose is Indra to be brought? (the sentence is completed on the next page)
+
+### Printed p. 320
+
+> मिंद्रस्य वहनं तत्राह । सोमपीतये सोमस्य पानाय यथास्मदीयं सोमं
+> पिबेत् आत आवहंत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+(continuing) For the drinking of Soma (सोमपीतये (*somapītaye*)): the horses are to bring him so that he may drink our Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- हिरण्यये (*hiraṇyaye*)—golden
+- रथे (*rathe*)—in the chariot
+- युक्ताः (*yuktāḥ*)—yoked
+- ब्रह्मयुजः (*brahmayujaḥ*)—to be yoked by praise
+- केशिनः (*keśinaḥ*)—having attractive manes
+- सहस्रं (*sahasraṃ*)—a thousand in number
+- हरयः (*harayaḥ*)—horses
+- त्वा (*tvā*)—you
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+- शतं (*śataṃ*)—such horses, countless **NOTE**
+- आ (*ā*) (वहंतु (*vahaṃtu*))—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may horses yoked to the golden chariot, to be yoked by praise, with attractive manes, a thousand in number, bring you for the drinking of Soma. May such countless horses bring you.
+
+##### English translation
+May your thousand, your hundred steeds, Indra, yoked to your golden chariot, harnessed by prayer, with flowing manes, bring you to drink the Soma libation.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the midday pressing of the day called Chāturviṃśika in the sacrifice, among the śastra mantras recited by the priest called Brahman, the three Ṛks of this sūkta beginning आ त्वा (*ā tvā*) (Ṛks 24–26) are to be recited as an optional stotriya tṛca. This is set out by the Āśvalāyana Śrauta Sūtra, in the sūtra आ त्वा सहस्रमा शतं मम त्वा सूर उदित इति ब्राह्मणाच्छंसिनः (*ā tvā sahasramā śataṃ mama tvā sūra udita iti brāhmaṇācchaṃsinaḥ*) (Ā. 7-4).
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॒ रथे॑ हिर॒ण्यये॒ हरी॑ म॒यूर॑शेप्या ।  
+> शि॒ति॒स्पृ॒ष्टा व॑हतां॒ मध्यो॒ अंध॑सो वि॒वक्ष॑णस्य पी॒तये॑ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । रथे । हिरण्यये । हरी इति । मयूरशेप्या ।  
+> शित्रिपृष्ठा । वहतां । मध्वः । अंधसः । विवक्षणस्य । पीतये ॥ २५ ॥
+
+### Printed p. 321
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वं हर्योर्विभूतिरूपा अश्वा इंद्रमावहंत्विति प्रार्थितं । अधुना
+> तावेवेंद्रमावहतामिति प्रार्थ्यते । हिरण्यये हिरण्यमये रथे युक्तौ मयूरशेप्या मयूरशेषौ मयूरवर्णशेषो ययोस्त्यौ ॥ सुपां सुलुगिति विभक्तेर्डा, देशः ॥ शितिपृष्ठा श्वेतपृष्ठौ एवंभूतावश्वा हे इंद्र त्वामा वहतां। किमर्थं।
+> मध्यो मधुररसस्य विवक्षणस्य वक्तुमिष्टस्य स्तुत्यस्य यद्वा वोढव्यस्य प्राप्तव्यस्यांधसोऽन्नस्य सोमरूपस्य पीतये पानार्थं ॥
+
+##### Gist of the bhāṣya
+
+Earlier it was prayed that the horses, manifestations of the two bay horses, bring Indra. Now it is prayed that those two bay horses themselves bring him. Yoked to the golden chariot, मयूरशेप्या (*mayūraśepyā*): having tails of peacock colour. शितिपृष्ठा (*śitipṛṣṭhā*): white-backed. Let such horses bring you, O Indra. For what purpose? For the drinking of the sweet (मध्वः (*madhvaḥ*)) food (अंधसः (*aṃdhasaḥ*)), the Soma, which is विवक्षणस्य (*vivakṣaṇasya*): desired to be spoken of, to be praised; or else, to be carried, to be obtained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) मयूरशेप्या (*mayūraśepyā*)—having tails like the tail feathers of a peacock
+- शितिपृष्ठा (*śitipṛṣṭhā*)—having white backs
+- हिरण्यये (*hiraṇyaye*)—golden
+- रथे (*rathe*)—yoked to the chariot
+- हरी (*harī*)—the two horses
+- त्वा (*tvā*)—you
+- विनक्षणस्य (*vinakṣaṇasya*)—worthy of worship **NOTE**
+- मध्वः (*madhvaḥ*)—sweet
+- अंधसः (*aṃdhasaḥ*)—of the Soma juice
+- पीतये (*pītaye*)—for drinking
+- आ वहतां (*ā vahatāṃ*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the horses with attractive tails like a peacock's, white-backed, yoked to the golden chariot, bring you for the drinking of the worshipful, sweet Soma juice.
+
+##### English translation
+May your two peacock-tailed, white-backed horses, yoked to your golden chariot, bring you to drink of the sweet praiseworthy libation.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबा॒ त्व१॒ं॑स्य गि॑र्वणः सु॒तस्य॑ पूर्व॒पा इ॑व ।  
+> परि॑ष्कृतस्य र॒सिन॑ इ॒यमा॑सु॒तिश्चारु॒र्मदा॑य पत्यते ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिब । तु । अस्य । गिर्वणः । सुतस्य । पूर्वपाः इव ।  
+> परिकृतस्य । रसिनः । इयं । आसुतिः । चारुः । मदाय । प्यत्यते ॥ २६ ॥
+
+### Printed p. 322
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणो गीर्भिर्वननीय स्तुतिभिः संभजनीयेंद्र सुतस्याभिषुतस्यास्य
+> सोमस्य ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी ॥
+> इममभिषुतं सोमं तु क्षिप्रं पिब । तत्र दृष्टांतः । पूर्वपा इव । पूर्वपा इव।
+> पूर्वः सर्वेभ्यो देवेभ्यः प्रथमभावी सन् पिबतीति पूर्वपा वायुः । स इवैंद्रवायवे मुख्ये ग्रहे सर्वेभ्यो देवेभ्यः पूर्व० पिबेत्यर्थः । कीदृशस्य सोमस्य॥
+> परिष्कृतस्याभिषवादिभिः संस्कृतस्य ॥ संपर्युपेभ्यः । पा- ६-१-१३७ । इति
+> करोतेर्भूषणे सुट् । परिनिविभ्यः । पा. ८.३-७८ । इति सुटः षत्वं ॥ रसिनो रसवतः।
+> अपि चेयमासुतिरयमासवो मदकरश्चारुः शोभनः सोमरसो मदाय
+> हर्षाय हर्षजननाय पत्यते । संपद्यते ॥ पत्ल गत् ॥ यद्वा । पत्यतिरैश्वर्यकर्मा । मदाय मदस्य पत्यते । ईष्टे । मदोत्पादने शक्त इतर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are to be served with hymns (गिर्वणः (*girvaṇaḥ*)), drink quickly this pressed Soma. The genitive stands for the dative, since the object is a recipient (*saṃpradānatvāt*). The example is पूर्वपा इव (*pūrvapā iva*): he who drinks first, before all the gods, is Vāyu; as he does at the Aindravāyava cup, the chief cup, so drink before all the gods. Of what kind of Soma? परिष्कृतस्य (*pariṣkṛtasya*): prepared by pressing and the like; रसिनः (*rasinaḥ*): juicy. Moreover this effusion (आसुतिः (*āsutiḥ*)), intoxicating and beautiful (चारुः (*cāruḥ*)), the Soma juice, is made ready (पत्यते (*patyate*)) for exhilaration. Or else: पत्यति (*patyati*) is a verb of lordship; he is lord of exhilaration, that is, able to produce intoxication.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—O Indra, glorified by hymns
+- सुतस्य (*sutasya*)—pressed and ready
+- परिष्कृतस्य (*pariṣkṛtasya*)—prepared by the rites of pressing and the like
+- रसिनः (*rasinaḥ*)—full of juice
+- अस्य (*asya*)—this Soma
+- पूर्वपा इव (*pūrvapā iva*)—like Vāyu, who drinks before the other gods
+- तु (*tu*)—quickly
+- पिब (*piba*)—drink
+- आसुतिः (*āsutiḥ*)—intoxicating
+- चारुः (*cāruḥ*)—attractive
+- इयं (*iyaṃ*)—this Soma juice
+- मदाय (*madāya*)—for the satisfaction of Indra
+- पत्यते (*patyate*)—is prepared
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, glorified by hymns, drink quickly this Soma, which is pressed and ready, prepared by the rites of pressing and the like, and full of juice, like Vāyu, who drinks before the other gods. This intoxicating and attractive Soma juice is prepared for Indra's satisfaction.
+
+##### English translation
+Drink you, who are worthy to be glorified, of this consecrated and juicy libation, like the first drinker (Vayu): this excellent effusion issues for your exhilaration.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य एको॒ अस्ति॑ दं॒सना॑ म॒हा उ॒ग्रो अ॒भि व्र॒तैः ।
+
+### Printed p. 323
+
+> गमत्स शिप्री न स योषदा गमद्धवं न परि वर्जति ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । एकः । अस्ति । दंसना । महान् । उग्रः । अभि । व्रतैः ।  
+> गमत् । सः । त्रिप्री । न । सः । योषत् । आ । गमत् । हवं । न । परि । वर्जति ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्र एकः केवलोऽसहाय एव व्रतैरात्मीयैः कर्मभिरभ्यस्ति शूत्रूनभिभवति । यश्च दंसना कर्मणा महानधिकः आत एवोग्र उद्दूर्णबलः शिप्री । शिप्रं
+> शिरस्त्राणं ॥ प्रशंसायामिनिः ॥ शोभनशिरस्त्राणः । यद्वा । शिप्रे हनू नासिके वा ।
+> तद्वान् । स इंद्रो गमत् । गच्छतु । प्राप्नोतु सर्वदा । स तादृशो न योषत् ।
+> न पृथग्भवतु । न वियुक्तो भवतु ॥ गमेयौतेश्च लेट्यडागमः । इतश्च लोप
+> इतीकारलोपः । गमर्बहुलु छंदसीति शपो लुक् । यौतेः सिब्बहुलमिति सिप् ॥
+> हवनस्मदीयं स्तोत्रं वा गमत् । अभिगच्छतु । प्राप्नोतु । न परि वर्जति । न परिवर्जयतु । न परित्यजतु। सर्वदास्मानस्मदीयं स्तोत्रं चेंद्रः प्राप्नोत्विति यावत्॥
+
+##### Gist of the bhāṣya
+
+The Indra who alone, unaided, overcomes his enemies (अभ्यस्ति (*abhyasti*)) by his own deeds (व्रतैः (*vrataiḥ*)), who is great, superior, by his work (दंसना (*daṃsanā*)), and therefore fierce (उग्रः (*ugraḥ*)), of surging strength, शिप्री (*śiprī*): शिप्रं (*śipraṃ*) is a helmet, so he has a splendid helmet; or else शिप्रे (*śipre*) means the jaws or the nose, and he has them. May that Indra come (गमत् (*gamat*)) and always attain us. Let him not be separated (न योषत् (*na yoṣat*)) from us, not be disjoined. Or let him come to our invocation or hymn and attain it; let him not abandon (न परि वर्जति (*na pari varjati*)) us or our hymn; that is, let Indra always attain us and our hymn.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- एकः (*ekaḥ*)—alone, without other help
+- व्रतैः (*vrataiḥ*)—by his extraordinary deeds
+- अभ्यस्ति (*abhyasti*)—defeats the enemies
+- दंसना (*daṃsanā*)—by his own deeds
+- महान् (*mahān*)—supreme
+- उग्रः (*ugraḥ*)—fearsome
+- शिप्री (*śiprī*)—having a praiseworthy nose **NOTE**
+- सः (*saḥ*)—such an Indra
+- न योषत् (*na yoṣat*)—let him not be separated from us
+- हवं (*havaṃ*)—our praise
+- आ गमत् (*ā gamat*)—let him come near
+- न परि वर्जति (*na pari varjati*)—let him not abandon us
+
+##### भावार्थ (Bhāvārtha)
+
+May that Indra who, without the help of others, alone defeats his enemies as the fruit of his extraordinary deeds, who is supreme and fearsome through the greatness of his deeds, and who has an attractive nose, come to us. May he not be separated from us. Attracted by our praise, may he not abandon us.
+
+##### English translation
+May he who alone overcomes (enemies) through (the power of)
+
 ---
 
-**Progress note:** Done through printed p. 317. pp. 312-317 (batch API)
+**Progress note:** Done through printed p. 323. pp. 318-323 (batch API)
