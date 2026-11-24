@@ -5,3 +5,5 @@ boundary-shifted	141-142	English p. 141 carries the first lines of Kannada p. 14
 page-absent	8, 559, 571	Not in the supplied text (no head); p. 66 is found inside p. 65, p. 8 inside p. 7 per the batch 1 reader (to be confirmed)
 block-not-read	148	bhāṣya block: Devanagari paribhāṣā digit ९३-२ disagrees with IAST 93-7 and the Kannada ೯೩-೭ (blocks are not read in this pass)
 findings-row-stale	95	The p. 95 row for Ā. 7-7 says question; the edit was applied afterwards (7-3)
+boundary-shifted	232-233	English p. 232 carries the pratipadārtha of Ṛk 68.4, which sits on Kannada p. 233
+boundary-shifted	234-235	English p. 234 reaches into Kannada p. 235; English p. 235 repeats the Skandasvāmin passage as "Special Topics (concluded)"

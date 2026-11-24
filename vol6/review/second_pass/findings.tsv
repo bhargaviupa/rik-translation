@@ -441,3 +441,45 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 196	S14	R1	Special topics, janinam: Soma and the girl	English: "the girl who, living apart from man, has no desire for intercourse with a man"		Apart or together? (see questions.tsv)	question	
 206	S7	R3	Special topics: Skandasvamin quotation sadhur iva ksemakaro gnih	English: sādhur iva kṣemaṃ karoty agniḥ		Print kṣemakaro 'gniḥ or the English split? (see questions.tsv)	question	
 188	H29	R6	Kind: Kannada non-words in prose and pratipadartha, silently put right (pp. 188, 190, 198, 200, 203, 205, 209)	English reads the corrected word each time		Keep all? (see questions.tsv)	question	
+213	S2	R1	commentary/grammar text	(Ni. [1-1])	(Ni. 2-5)	Kannada prints (ni. 2-5) for the 21 prthivi names	applied	
+213	S2	R1	commentary/grammar text	twelve names of 'atmosphere' (Ni. [1-3])	sixteen names of 'atmosphere' (Ni. 2-10)	Kannada: hadinaru (sixteen) antariksa namagala, ni. 2-10	applied	
+213	S2	R1	commentary/grammar text	[1-2-4-2], as read, ?	1-2-4-2	Kannada prints (tai. bra. 1-2-4-2); Kannada number replaces the doubtful form	applied	
+213	S7	R3	commentary/grammar text	adṛṃhan spṛtyai	adṛṃhan dhṛtyai	Kannada reads ...dhṛtyai (ಧೃತ್ಯೈ); only spṛtyai changed to dhṛtyai	applied	
+213	S7	R3	commentary/grammar text	āntarikṣaṃ ca dyulokaṃ ca stabhnāti	antarikṣaṃ ca dyulokaṃ stabhnāti	Kannada: ಅಂತರಿಕ್ಷಂ ಚ ದ್ಯುಲೋಕಂ ಸ್ತಭ್ನಾತಿ (no long a, one ca)	applied	
+213	S7	R3	commentary/grammar text	yathājo na patati	yathādho na patati	Kannada: ಯಥಾಧೋ ನ ಪತತಿ; sense 'does not fall below' decides	applied	
+213	S15	R1	commentary/grammar text	Skandasvāmin gives another meaning of *aja*	another meaning of *aja* is also given	Kannada: 'ಹೇಳಿರುವರು' (impersonal, Sayana's yadva); Skandasvamin is named only afterwards	applied	
+213	S14	R1	commentary/grammar text	upholds the earth and makes light, giving life and movement to all	casts light on the earth and brings vitality and the like to all	Kannada: ಸೂರ್ಯನು ಭೂಮಿಯಲ್ಲಿ ಪ್ರಕಾಶವನ್ನು ಬೀರುತ್ತಾ ಎಲ್ಲರಿಗೂ ಚೈತನ್ಯಾದಿಗಳನ್ನು ಉಂಟುಮಾಡಿರುವಂತೆ	applied	
+213	S16	R1	commentary/grammar text	'to me who resemble an animal', 'protect, in this world and in the next, the places beneficial [to me]…"	'to me who resemble an animal, beneficial…'"	Kannada p. 213 ends ...ನನಗೆ ಹಿತಕರ; the rest (ವಾದ ಸ್ಥಾನಗಳನ್ನು ...) is on p. 214 and is already given there; English repeated it on both pages	applied	
+214	S3	R1	commentary/grammar text	by "iṇo gā luṅi" *gā*	by "iṇo gā luṅi" (Pā. Sū. 2-4-45) *gā*	Kannada prints (ಪಾ. ಸೂ. ೨-೪-೪೫)	applied	
+215	S3	R1	commentary/grammar text	by "āmantritasya ca" the	by "āmantritasya ca" (Pā. Sū. 8-1-19) the	Kannada prints (ಪಾ. ಸೂ ೮-೧-೧೯)	applied	
+218	S16	R1	commentary/grammar text	by "liṭi" [as read] the doubling of the root	because of *liṭ* the doubling of the root	Kannada: ಲಿಣ್ಣಿಮಿತ್ತವಾಗಿ ಧಾತುವಿಗೆ ದ್ವಿತ್ವ (no sutra named)	applied	
+219	S14	R1	commentary/grammar text	he makes [them] stay firm	he makes [them] cover over specially	Kannada: ವಿಶೇಷವಾಗಿ ಮುಚ್ಚುವಂತೆ ಮಾಡುತ್ತಾನೋ	applied	
+220	S2	R1	commentary/grammar text	(Ni. 6-3, as read, ?)	(Ni. 6-3)	Kannada prints (ನಿ. ೬-೩)	applied	
+221	S3	R1	commentary/grammar text	by "ūḍidaṃpadādi…" the case-ending	by "ūḍidaṃpadādi…" (Pā. Sū. 6-1-131) the case-ending	Kannada prints (ಪಾ. ಸೂ ೬-೧-೧೩೧)	applied	
+221	S2	R1	commentary/grammar text	**॥ ९–१० ॥** 		Kannada p. 221 grammar ends without a verse-number; no number where the print has none	applied	
+224	R3	R3	commentary/grammar text	paripūrṇo bhavatiḥ	paripūrvaḥ bhavatiḥ	Kannada: ಪರಿಪೂರ್ವಃ ಭವತಿಃ ಪರಿಗ್ರಹಾರ್ಥಃ; ṇ->v, o->aḥ	applied	
+224	R3	R3	commentary/grammar text	तमोरूपास्तीः	तमोरूपास्सतीः	Kannada: ತಮೋರೂಪಾಸ್ಸತೀಃ; letters copied by transliteration from the Kannada; 'sa' was dropped	applied	
+225	S2	R1	commentary/grammar text	by "ūrṇor vṛddhir luki hali" [as read, Pā. Sū. 7-3-89, "uto vṛddhir luki hali"]	by "uto vṛddhir luki hali"	Kannada: ಉತೋವೃದ್ಧಿರ್ಲುಕಿ ಹಲಿ, no number printed; 7-3-89 was not in the Kannada	applied	
+225	S2	R1	commentary/grammar text	explained in the [Rik 67.1] mantra [p. 207]	explained in the mantra (1-5-67-1, 2)	Kannada: ಭುವತ್—(೧-೫-೬೭-೧, ೨) ಮಂತ್ರದಲ್ಲಿ	applied	
+228	S2	R1	commentary/grammar text	1-[153], as read	1-150	Kannada prints (ಉ. ಸೂ. ೧-೧೫೦)	applied	
+230	S2	R1	commentary/grammar text	(Ni. [2-7])	(Ni. 3-9)	Kannada prints (ನಿ. ೩-೯)	applied	
+233	S2	R1	commentary/grammar text	(Ni. [2-2])	(Ni. 3-2)	Kannada prints (ನಿ. ೩-೨)	applied	
+234	S2	R1	commentary/grammar text	(Ni. [1-12])	(Ni. 2-24)	Kannada prints (ನಿ. ೨-೨೪)	applied	
+234	R3	R3	commentary/grammar text	yan nu sūrhitam	yan manur hitaṃ	Kannada: ಯನ್ಮನುರ್ಹಿತಂ	applied	
+234	R3	R3	commentary/grammar text	srvati	sravati	Kannada: ರೀಯತೇ ಸ್ರವತಿ ಇತಿ ರೇತಃ	applied	
+234	R3	R3	commentary/grammar text	sahabhūtāyām api na kevalāyām iva	sahabhūtāyā api na kevalāyā eva	Kannada: ಸಹಭೂತಾಯಾ ಅಪಿ ನಕೇವಲಾಯಾ ಏವ	applied	
+235	S2	R1	commentary/grammar text	by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5, as read) *at*	by "ātmanepadeṣv anataḥ" *at*	Kannada names the sutra without a number; 7-1-5 not in the Kannada	applied	
+235	S3	R1	commentary/grammar text	by "śnābhyastayor ātaḥ" the loss	by "śnābhyastayor ātaḥ" (Pā. Sū. 6-4-112) the loss	Kannada prints (ಪಾ. ಸೂ. ೬-೪-೧೧೨) for the same sutra	applied	
+237	S14	R1	commentary/grammar text	he opens (gives)	he reveals (gives)	Kannada: ಪ್ರಕಾಶಪಡಿಸುತ್ತಾನೆ (ಕೊಡುತ್ತಾನೆ); p. 238 'ಪ್ರಕಾಶಪಡಿಸುವುದು'	applied	
+238	R3	R3	commentary/grammar text	trāyekaḥ	trāyakāḥ	Kannada: ತ್ರಾಯಕಾಃ	applied	
+238	R3	R3	commentary/grammar text	punnarakaṃ tat strāyata iti vā	punnarakaṃ tatas trāyata iti vā	Kannada: ತತಸ್ತ್ರಾಯತ ಇತಿ ವಾ	applied	
+238	S2	R1	commentary/grammar text	twenty-eight names of food (Ni. [2-7])	twenty-eight names of food (Ni. 3-9)	Kannada prints (ನಿ. ೩-೯)	applied	
+238	S2	R1	commentary/grammar text	(Ni. [2-10])	(Ni. 3-9)	Kannada prints (ನಿ ೩-೯) for the 28 dhana names	applied	
+238	S2	R1	commentary/grammar text	thirteen names of 'wisdom' (Ni. [3-9])	eleven names of 'wisdom' (Ni. 3-13)	Kannada: ಹನ್ನೊಂದು ಪ್ರಜ್ಞಾನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ ೩-೧೩)	applied	
+238	S2	R1	commentary/grammar text	(Ni. 4-[4])	(Ni. 4-4)	Kannada prints (ನಿ. ೪-೪)	applied	
+238	R3	R3	commentary/grammar text	dāntaḥ puruṣe	dānte puruṣe	Kannada: ದಾಂತೇ ಪುರುಷೇ ವಾ	applied	
+213	H29	R6	Special topics p.213: Kannada non-words and misprints silently corrected in English (kṣā for ಕ್ವಾ, svargaloka for ಸ್ವರ್ಗಲೋಗ, adṛṃhan for ದ್ಯಂರ್ಹ; also p.217 vā/stutyanantaram, p.218 śi for ತಿ, p.220 vīrudha oṣadhayo, āpa, p.223 śṛṇan/aktūn/havirvahana, p.230 dheṭ, p.233 mānavyo, p.234 mithas, p.236 ama gatyādiṣu, p.237 stṛbhiḥ, p.238 punnāmno, vā)	English reads the corrected word each time		Keep all? (see questions.tsv)	question	
+213	S7	R3	Special topics: Taittirīya quotation, atipātād	English: parāco 'tipātād abibhayuḥ		Kannada prints atipādād (ಅತಿಪಾದಾದ), not a word; English has atipātād; Kannada has also non-word ದ್ಯಂರ್ಹ for adṛṃhan (see questions.tsv)	question	
+218	H29	R6	Grammar of 67.4 end verse-number	English ॥ ७–८ ॥		Kannada prints ೬-೭ here but ೭ ॥ ೮ in the Saṃhitā block (see questions.tsv)	question	
+221	S13	R6	Closing line of sūkta 67 (also p. 239 for sūkta 68)	English: aravattēḻaneya sūktavu samāptavu		Kannada prints ಅರವತ್ತೇಳನೇ ಸೂಕ್ತ ಸಮಾಪ್ತವು (p.239: ಅರವತ್ತೆಂಟನೇ ಸೂಕ್ತವು ಸಮಾಪ್ತವು); English quotes a different spelling (see questions.tsv)	question	
+232	S17	R1	Pratipadārtha of 68.4 (Kannada p. 233)	English omits the parenthetical alternative gloss (svair dakṣaiḥ = with their own prāṇas; amūrāḥ = endowed; saṃ jānanti = know everything through you)		Add it? (see questions.tsv)	question	

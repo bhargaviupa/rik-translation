@@ -387,3 +387,44 @@
 | 209 | `*muhaḥ, tīkṣṇaḥ* (Ni. [2-10])` → `*magha, tīkṣṇaḥ* (Ni. 3-9)` | SECOND-PASS S7: Kannada ಮಘ, ತೀಕ್ಷ್ಣಃ ಎಂಬ ಇಪ್ಪತ್ತೆಂಟು ಧನನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ. ೩-೯) |
 | 211 | `(Pā. Sū. 7-2-44, as read)` → `` | SECOND-PASS S2: Kannada ಊದಿತೋ ನಾ ಎಂಬುದರಿಂದ prints no number |
 | 211 | `(Pā. Sū. 8-2-29, as read)` → `` | SECOND-PASS S2: Kannada ಸ್ಕೋಸಂಯೋಗಾದ್ಯೋರಂತೇ ಚ ಎಂಬುದರಿಂದ prints no number |
+
+### 2026-11-24 second pass, batch e212-241.tsv
+| page | old → new | why |
+|---|---|---|
+| 213 | `(Ni. [1-1])` → `(Ni. 2-5)` | SECOND-PASS S2: Kannada prints (ni. 2-5) for the 21 prthivi names |
+| 213 | `twelve names of 'atmosphere' (Ni. [1-3])` → `sixteen names of 'atmosphere' (Ni. 2-10)` | SECOND-PASS S2: Kannada: hadinaru (sixteen) antariksa namagala, ni. 2-10 |
+| 213 | `[1-2-4-2], as read, ?` → `1-2-4-2` | SECOND-PASS S2: Kannada prints (tai. bra. 1-2-4-2); Kannada number replaces the doubtful form |
+| 213 | `adṛṃhan spṛtyai` → `adṛṃhan dhṛtyai` | SECOND-PASS S7: Kannada reads ...dhṛtyai (ಧೃತ್ಯೈ); only spṛtyai changed to dhṛtyai |
+| 213 | `āntarikṣaṃ ca dyulokaṃ ca stabhnāti` → `antarikṣaṃ ca dyulokaṃ stabhnāti` | SECOND-PASS S7: Kannada: ಅಂತರಿಕ್ಷಂ ಚ ದ್ಯುಲೋಕಂ ಸ್ತಭ್ನಾತಿ (no long a, one ca) |
+| 213 | `yathājo na patati` → `yathādho na patati` | SECOND-PASS S7: Kannada: ಯಥಾಧೋ ನ ಪತತಿ; sense 'does not fall below' decides |
+| 213 | `Skandasvāmin gives another meaning of *aja*` → `another meaning of *aja* is also given` | SECOND-PASS S15: Kannada: 'ಹೇಳಿರುವರು' (impersonal, Sayana's yadva); Skandasvamin is named only afterwards |
+| 213 | `upholds the earth and makes light, giving life and movement to all` → `casts light on the earth and brings vitality and the like to all` | SECOND-PASS S14: Kannada: ಸೂರ್ಯನು ಭೂಮಿಯಲ್ಲಿ ಪ್ರಕಾಶವನ್ನು ಬೀರುತ್ತಾ ಎಲ್ಲರಿಗೂ ಚೈತನ್ಯಾದಿಗಳನ್ನು ಉಂಟುಮಾಡಿರುವಂತೆ |
+| 213 | `'to me who resemble an animal', 'protect, in this world and in the next, the places benefi` → `'to me who resemble an animal, beneficial…'"` | SECOND-PASS S16: Kannada p. 213 ends ...ನನಗೆ ಹಿತಕರ; the rest (ವಾದ ಸ್ಥಾನಗಳನ್ನು ...) is on p. 214 and is already given there; English repeated it on both pages |
+| 214 | `by "iṇo gā luṅi" *gā*` → `by "iṇo gā luṅi" (Pā. Sū. 2-4-45) *gā*` | SECOND-PASS S3: Kannada prints (ಪಾ. ಸೂ. ೨-೪-೪೫) |
+| 215 | `by "āmantritasya ca" the` → `by "āmantritasya ca" (Pā. Sū. 8-1-19) the` | SECOND-PASS S3: Kannada prints (ಪಾ. ಸೂ ೮-೧-೧೯) |
+| 218 | `by "liṭi" [as read] the doubling of the root` → `because of *liṭ* the doubling of the root` | SECOND-PASS S16: Kannada: ಲಿಣ್ಣಿಮಿತ್ತವಾಗಿ ಧಾತುವಿಗೆ ದ್ವಿತ್ವ (no sutra named) |
+| 219 | `he makes [them] stay firm` → `he makes [them] cover over specially` | SECOND-PASS S14: Kannada: ವಿಶೇಷವಾಗಿ ಮುಚ್ಚುವಂತೆ ಮಾಡುತ್ತಾನೋ |
+| 220 | `(Ni. 6-3, as read, ?)` → `(Ni. 6-3)` | SECOND-PASS S2: Kannada prints (ನಿ. ೬-೩) |
+| 221 | `by "ūḍidaṃpadādi…" the case-ending` → `by "ūḍidaṃpadādi…" (Pā. Sū. 6-1-131) the case-ending` | SECOND-PASS S3: Kannada prints (ಪಾ. ಸೂ ೬-೧-೧೩೧) |
+| 221 | `**॥ ९–१० ॥** ` → `` | SECOND-PASS S2: Kannada p. 221 grammar ends without a verse-number; no number where the print has none |
+| 224 | `paripūrṇo bhavatiḥ` → `paripūrvaḥ bhavatiḥ` | SECOND-PASS R3: Kannada: ಪರಿಪೂರ್ವಃ ಭವತಿಃ ಪರಿಗ್ರಹಾರ್ಥಃ; ṇ->v, o->aḥ |
+| 224 | `तमोरूपास्तीः` → `तमोरूपास्सतीः` | SECOND-PASS R3: Kannada: ತಮೋರೂಪಾಸ್ಸತೀಃ; letters copied by transliteration from the Kannada; 'sa' was dropped |
+| 225 | `by "ūrṇor vṛddhir luki hali" [as read, Pā. Sū. 7-3-89, "uto vṛddhir luki hali"]` → `by "uto vṛddhir luki hali"` | SECOND-PASS S2: Kannada: ಉತೋವೃದ್ಧಿರ್ಲುಕಿ ಹಲಿ, no number printed; 7-3-89 was not in the Kannada |
+| 225 | `explained in the [Rik 67.1] mantra [p. 207]` → `explained in the mantra (1-5-67-1, 2)` | SECOND-PASS S2: Kannada: ಭುವತ್—(೧-೫-೬೭-೧, ೨) ಮಂತ್ರದಲ್ಲಿ |
+| 228 | `1-[153], as read` → `1-150` | SECOND-PASS S2: Kannada prints (ಉ. ಸೂ. ೧-೧೫೦) |
+| 230 | `(Ni. [2-7])` → `(Ni. 3-9)` | SECOND-PASS S2: Kannada prints (ನಿ. ೩-೯) |
+| 233 | `(Ni. [2-2])` → `(Ni. 3-2)` | SECOND-PASS S2: Kannada prints (ನಿ. ೩-೨) |
+| 234 | `(Ni. [1-12])` → `(Ni. 2-24)` | SECOND-PASS S2: Kannada prints (ನಿ. ೨-೨೪) |
+| 234 | `yan nu sūrhitam` → `yan manur hitaṃ` | SECOND-PASS R3: Kannada: ಯನ್ಮನುರ್ಹಿತಂ |
+| 234 | `srvati` → `sravati` | SECOND-PASS R3: Kannada: ರೀಯತೇ ಸ್ರವತಿ ಇತಿ ರೇತಃ |
+| 234 | `sahabhūtāyām api na kevalāyām iva` → `sahabhūtāyā api na kevalāyā eva` | SECOND-PASS R3: Kannada: ಸಹಭೂತಾಯಾ ಅಪಿ ನಕೇವಲಾಯಾ ಏವ |
+| 235 | `by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5, as read) *at*` → `by "ātmanepadeṣv anataḥ" *at*` | SECOND-PASS S2: Kannada names the sutra without a number; 7-1-5 not in the Kannada |
+| 235 | `by "śnābhyastayor ātaḥ" the loss` → `by "śnābhyastayor ātaḥ" (Pā. Sū. 6-4-112) the loss` | SECOND-PASS S3: Kannada prints (ಪಾ. ಸೂ. ೬-೪-೧೧೨) for the same sutra |
+| 237 | `he opens (gives)` → `he reveals (gives)` | SECOND-PASS S14: Kannada: ಪ್ರಕಾಶಪಡಿಸುತ್ತಾನೆ (ಕೊಡುತ್ತಾನೆ); p. 238 'ಪ್ರಕಾಶಪಡಿಸುವುದು' |
+| 238 | `trāyekaḥ` → `trāyakāḥ` | SECOND-PASS R3: Kannada: ತ್ರಾಯಕಾಃ |
+| 238 | `punnarakaṃ tat strāyata iti vā` → `punnarakaṃ tatas trāyata iti vā` | SECOND-PASS R3: Kannada: ತತಸ್ತ್ರಾಯತ ಇತಿ ವಾ |
+| 238 | `twenty-eight names of food (Ni. [2-7])` → `twenty-eight names of food (Ni. 3-9)` | SECOND-PASS S2: Kannada prints (ನಿ. ೩-೯) |
+| 238 | `(Ni. [2-10])` → `(Ni. 3-9)` | SECOND-PASS S2: Kannada prints (ನಿ ೩-೯) for the 28 dhana names |
+| 238 | `thirteen names of 'wisdom' (Ni. [3-9])` → `eleven names of 'wisdom' (Ni. 3-13)` | SECOND-PASS S2: Kannada: ಹನ್ನೊಂದು ಪ್ರಜ್ಞಾನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ ೩-೧೩) |
+| 238 | `(Ni. 4-[4])` → `(Ni. 4-4)` | SECOND-PASS S2: Kannada prints (ನಿ. ೪-೪) |
+| 238 | `dāntaḥ puruṣe` → `dānte puruṣe` | SECOND-PASS R3: Kannada: ದಾಂತೇ ಪುರುಷೇ ವಾ |
