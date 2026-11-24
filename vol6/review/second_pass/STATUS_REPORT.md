@@ -6,7 +6,7 @@
 - **Pages read:** 190 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181)
 - **Findings:** 390 — applied 264, questions 126; edits ok 274, failed 0
 - **Reader tokens (batches so far):** 1547k; per page 8.1k
-- **Last commit:** @C@
+- **Last commit:** 7998fe1
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -17,7 +17,7 @@
 | 3 | 62–91 | 76 | 55 | 55 / 0 | 21 | 311k | 96960c4 | 30 S2 removals; English pp. 72/73 boundary shifted by about a paragraph |
 | 4 | 92–121 | 50 | 35 | 35 / 0 | 15 | 204k | 26ecee4 | 22 S2 removals; one edit (p. 95) needed a rerun after sp_apply.py learned two headings for one page |
 | 5 | 122–151 | 67 | 52 | 52 / 0 | 15 | 272k | 823a12c | 20 S2 removals, 7 S7 quotation repairs; English p. 141 carries the first lines of Kannada p. 142 |
-| 7 | 152–181 | 43 | 35 | 35 / 0 | 8 | TOK6 | @C@ | 19 S1 + 8 S2 number repairs, 2 S7 quotation repairs; two English headings each for pp. 154 and 179 (handled) |
+| 7 | 152–181 | 43 | 35 | 35 / 0 | 8 | TOK6 | 7998fe1 | 19 S1 + 8 S2 number repairs, 2 S7 quotation repairs; two English headings each for pp. 154 and 179 (handled) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
