@@ -201,3 +201,46 @@
 | 91 | `by "śvan-yuvan-maghavan…" [as read: "śvann-yukṣan-pūṣan", Uṇ. Sū. 1-[158], doubtful, ?]` → `by "śvannukṣan pūṣan" (Uṇ. Sū. 1-157)` | SECOND-PASS S1: Kannada ಶ್ವನ್ನುಕ್ಷನ್ ಪೂಷನ್—(ಉ.ಸೂ. ೧-೧೫೭); Kannada number and wording replace the doubtful form; letters: yukṣan to ukṣan |
 | 91 | ` (Pā. Sū. 8-3-24, as read)` → `` | SECOND-PASS S2: Kannada prints no number for naś cāpadāntasya jhali; number removed (no number where the print has none) |
 | 91 | `(Kāśikā on 6-4-141, as read)` → `(Kā. 6-4-141-1)` | SECOND-PASS S1: Kannada ಕಾ. ೬-೪-೧೪೧-೧ (Kannada reference as printed) |
+
+### 2026-11-24 second pass, batch e92-121.tsv
+| page | old → new | why |
+|---|---|---|
+| 94 | `(Uṇ. Sū. 4-[188], as read)` → `(Uṇ. Sū. 4-628)` | SECOND-PASS S2: Kannada ಉ. ಸೂ ೪-೬೨೮ |
+| 94 | ` (Pā. Sū. 6-4-104, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಚಿಣೋಲುಕ್; number not in Kannada removed |
+| 94 | ` (Pā. Sū. 6-1-15, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ವಚಿಸ್ವಪಿಯಜಾದೀನಾಂ ಕಿತಿ |
+| 95 | ` (Pā. Sū. 8-2-32, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಹೃಗ್ರಹೋರ್ಭಃ ಛಂದಸಿ |
+| 99 | `therefore, O ṛṣi Nodhas, do you also` → `therefore, O ṛṣi Nodhas, the bodily self, do you also` | SECOND-PASS S17: Kannada ಶರೀರಾತ್ಮನಾದ ಎಲೈ ನೋಧ ಋಷಿಯೇ |
+| 100 | ` (Pā. Sū. 6-4-111, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಶ್ನಸೋರಲ್ಲೋಪ |
+| 102 | `yāmañ rudrasya` → `yāman rudrasya` | SECOND-PASS S7: Kannada ಯಾಮನ್ ರುದ್ರಸ್ಯ ಸೂನವಃ; letter ñ for n changed to Kannada ನ್ |
+| 102 | `Aditi, the wife of the sage Kaśyapa, gave birth to the Maruts` → `the Maruts were born from the goddess Aditi and the sage Kaśyapa` | SECOND-PASS S16: Kannada ಅದಿತಿದೇವಿ ಕಶ್ಯಪಋಷಿ ಇವರಿಂದ ಮರುದ್ದೇವತೆಗಳು ಜನ್ಮವನ್ನು ಪಡೆದಿರುವರು; 'wife' not in Kannada |
+| 103 | ` (Pā. Sū. 3-4-81, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಲಿಟಸ್ತಝಯೋರೇಶಿರೇಚ್ |
+| 103 | ` (Pā. Sū. 6-1-171, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಊಡಿದಂಪದಾದಿ |
+| 104 | `with *ṛṣva + jas*, by "āj jaser asuk" (Pā. Sū. 7-1-50, as read)` → `with *ṛṣva + jas*, by "āj jaser asuk"` | SECOND-PASS S2: Kannada gives no sūtra number here (ಅಜ್ಜ ಸೇರಸುಕ್ ಎಂಬುದರಿಂದ); number is given only at ಪಾವಕಾಸಃ |
+| 104 | `4-526 [?]; the number is blurred in the print` → `4-526` | SECOND-PASS S2: Kannada ಉ. ಸೂ. ೪-೫೨೬ replaces the doubtful form |
+| 107 | ` (Pā. Sū. 3-1-7, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಧಾತೋಃ ಕರ್ಮಣಃ ಸಮಾನ… |
+| 107 | ` (Pā. Sū. 7-2-10, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಏಕಾಚ ಉಪದೇಶೇನುದಾತ್ತಾತ್ |
+| 107 | ` (Pā. Sū. 8-2-41, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಷಡೋಃ ಕಃ ಸಿ |
+| 107 | ` (Pā. Sū. 8-3-59, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಆದೇಶಪ್ರತ್ಯಯಯೋಃ |
+| 107 | `[as read; Pā. Sū. 3-1-35]` → `[as read]` | SECOND-PASS S2: Kannada gives no sūtra number after ಕಾಸ್ ಪ್ರತ್ಯಯಾದಾಮಮಂತ್ರೇ ಲಿಟಿ |
+| 108 | ` (Pā. Sū. 3-1-25)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಸತ್ಯಾಪಪಾಶ… ಸೂತ್ರದಿಂದ |
+| 110 | ` (Pā. Sū. 3-4-81, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಲಿಟಸ್ತಝಯೋ… |
+| 110 | `(Vārttika on Pā. Sū. 3-3-108, as read)` → `(Vā. 2233)` | SECOND-PASS S2: Kannada ಸಂಪದಾದಿಭ್ಯಃ ಕ್ವಿಪ್ (ವಾ. ೨೨೩೩) |
+| 111 | ` (Pā. Sū. 7-4-66, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಉರತ್ |
+| 111 | ` (Pā. Sū. 7-4-79, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಸನ್ಯತಃ |
+| 111 | `(Pā. Sū. 6-4-98, as read)` → `(Pā. Sū. 6-4-42)` | SECOND-PASS S1: Kannada ಗಮಹನ ಜನಖ-(ಪಾ. ಸೂ. ೬-೪-೪೨) |
+| 113 | ` (Pā. Sū. 6-1-71, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಹ್ರಸ್ವಸ್ಯ ಪಿತಿಕೃತಿ ತುಕ್ |
+| 113 | `the thunder-winds and the like` → `whirlwinds and the like` | SECOND-PASS S14: Kannada ಸುಂಟರಗಾಳಿಯೇ ಮೊದಲಾದವುಗಳನ್ನು (whirlwind) |
+| 117 | `beginning *venaḥ* (Ni. 3-19)` → `beginning *yajñaḥ, venaḥ* (Ni. 3-19)` | SECOND-PASS S17: Kannada ಯಜ್ಞಃ, ವೇನಃ ಎಂಬ ಹದಿನೈದು ಯಜ್ಞನಾಮಗಳ |
+| 117 | `iti apitam api balanāma` → `iti apaṭhitam api balanāma` | SECOND-PASS S7: Kannada ಅಪಠಿತಮಪಿ ಬಲನಾಮ; letters ṭhi added for the Kannada ಠಿ |
+| 118 | ` (Pā. Sū. 3-2-76, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ಕ್ವಿಪ್ ಚ |
+| 118 | ` (Pā. Sū. 6-4-85, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ನ ಭೂಸುಧಿಯೋಃ |
+| 118 | ` (Pā. Sū. 6-1-186, as read)` → `` | SECOND-PASS S2: Kannada gives no sūtra number after ತಾಸ್ಯನುದಾತ್ತೇತ್ |
+| 120 | `Yoked with your vehicles [mares]` → `Yoked with your vehicles (deer)` | SECOND-PASS S14: Kannada ವಾಹನಗಳಿಂದ (ಜಿಂಕೆಗಳಿಂದ); later Kannada ಜಿಂಕೆಗಳನ್ನು ವಾಹನವನ್ನಾಗಿ |
+| 120 | `in the red-coloured mares` → `in the red-coloured horses` | SECOND-PASS S14: Kannada pratipadārtha ಅರುಣವರ್ಣವುಳ್ಳ ಅಶ್ವಗಳಲ್ಲಿ (horses) |
+| 121 | `among the thirteen names of 'intelligence'` → `among the eleven names of 'intelligence'` | SECOND-PASS S2: Kannada ಹನ್ನೊಂದು ಪ್ರಜ್ಞಾನಾಮಗಳ |
+| 121 | `'*taviṣīr ayugdhvam — balena yuktān aśvān yuddhāya marutaḥ svarathe yuktavantaḥ*' — the Ma` → `'*taviṣīr ayugdhvam*': the Marut deities have yoked to their chariots, for battle, horses ` | SECOND-PASS S16: Kannada gives Skandasvāmin's explanation in Kannada only (ತವಿಷೀರಯುಗ್ಧ್ವಂ=ಬಲದಿಂದ ಕೂಡಿರುವ ಕುದುರೆಗಳನ್ನು ಯುದ್ಧಕ್ಕಾಗಿ ಮರುದ್ದೇವತೆಗಳು ತಮ್ಮ ರಥಗಳಿಗೆ ಕಟ್ಟಿರುವರು); the San |
+
+### 2026-11-24 second pass, batch e92-121_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 95 | `sūtra (Ā. 7-7, as printed)` → `sūtra (Ā. 7-3)` | SECOND-PASS S1: Kannada anuvāda ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ ... (ಆ. ೭-೩) |

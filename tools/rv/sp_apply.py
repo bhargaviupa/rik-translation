@@ -20,33 +20,26 @@ def main():
     EN=open(en_p,encoding='utf8').read(); KN=open(kn_p,encoding='utf8').read()
     src={p:open(p,encoding='utf8').read() for p in sorted(glob.glob(f'{d}/html/rig_*.md'))}
     rows=list(csv.DictReader(open(ed,encoding='utf8'),delimiter='\t',quoting=csv.QUOTE_NONE)); res=[]; log=[]; fixes=[]; today=datetime.date.today().isoformat()
-    def section(t,pat,page):
-        m=re.search(pat%re.escape(str(page)),t)
-        if not m: return None
-        n=re.search(pat.replace('%s','[^\\s—:>]+'),t[m.end():]); return m.start(),m.end()+(n.start() if n else len(t)-m.end())
+    def sections(t,pat,page):
+        """all sections whose heading carries this page (a page may have two headings, e.g. a 'lower part'): list of (start, end)"""
+        out=[]; nxt=re.compile(pat.replace('%s','[^\\s—:>]+'))
+        for m in re.finditer(pat%re.escape(str(page)),t):
+            n=nxt.search(t,m.end()); out.append((m.start(),n.start() if n else len(t)))
+        return out
     for r in rows:
         pg,tg,old,new=r['page'],r['target'],r['old'],r['new']; st='applied'
         if old==new: st='same'
-        elif tg=='en':
-            sec=section(EN,r'(?m)^### Page %s\b',pg)
-            if not sec: st='not_found'
+        elif tg in('en','kn'):
+            T,pat=(EN,r'(?m)^### Page %s\b') if tg=='en' else (KN,r'(?m)^<!-- printed %s -->$')
+            secs=sections(T,pat,pg); hit=[(s0,e0) for s0,e0 in secs if old in T[s0:e0]]; c=sum(T[s0:e0].count(old) for s0,e0 in hit)
+            if not secs or c==0: st='not_found'
+            elif c>1: st='ambiguous'
             else:
-                s,e=sec; body=EN[s:e]; c=body.count(old)
-                if c==0: st='not_found'
-                elif c>1: st='ambiguous'
+                s0,e0=hit[0]; T=T[:s0]+T[s0:e0].replace(old,new,1)+T[e0:]
+                if tg=='en':
+                    EN=T; log.append(f"| {pg} | `{old[:90]}` → `{new[:90]}` | SECOND-PASS {r['kind']}: {r['basis'][:160]} |")
                 else:
-                    EN=EN[:s]+body.replace(old,new,1)+EN[e:]
-                    log.append(f"| {pg} | `{old[:90]}` → `{new[:90]}` | SECOND-PASS {r['kind']}: {r['basis'][:160]} |")
-        elif tg=='kn':
-            sec=section(KN,r'(?m)^<!-- printed %s -->$',pg)
-            if not sec: st='not_found'
-            else:
-                s,e=sec; body=KN[s:e]; c=body.count(old)
-                if c==0: st='not_found'
-                elif c>1: st='ambiguous'
-                else:
-                    KN=KN[:s]+body.replace(old,new,1)+KN[e:]
-                    hits=[p for p,t in src.items() if t.count(old)==1]
+                    KN=T; hits=[p for p,t in src.items() if t.count(old)==1]
                     note='supplied file and book' if len(hits)==1 else 'book only (text not unique in the supplied files)'
                     if len(hits)==1: src[hits[0]]=src[hits[0]].replace(old,new,1)
                     fixes.append((f'p. {pg}',old,new,r['kind']+' second pass; '+note,r['basis'],'second-pass reader (Sonnet), rule: supplied text, intended reading certain'))
