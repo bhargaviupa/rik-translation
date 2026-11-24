@@ -17825,6 +17825,275 @@ By you, affluent in sacrifices. may our praises be severally accepted : I bear t
 
 The Aśvin deities, worthy of the love of many, who cause gladness to many, who possess exceedingly great wealth —
 
+### Printed p. 445
+
+*(The Bhāvārtha of the preceding Ṛk continues:)* We, the descendants of Kaṇva, pray to and praise for our protection the Aśvin deities, who are dear to many, who gladden many, and who possess abundant wealth.
+
+##### English translation
+We Kanwas, praise for our protection the many-loved, the many-delighting Aswins, abounding in wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मंहि॑ष्ठा वाज॒सात॑मे॒षयं॑ता शु॒भस्पती॑ ।  
+> गंता॑रा दा॒शुषो॑ गृ॒हं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंहिष्ठा । वाजसातमा । इषयंता । शुभः । पती इति ।  
+> गंतारा । दाशुषः । गृहं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंहिष्ठा मुंहिष्ठौ मंदनीयौ पूजनीयौ यद्वा दातृतमौ वाजसातमा ।
+> वाजोऽन्नं बलं ना । तस्यातिशयेन दातारौ । यद्वा । वाजो हविर्लक्षणमन्नं ।
+> तस्य संभक्तृतमौ ॥ सनोतेः सनतीर्वा जनसनेति विट् । विड्वनोरनुनासिकस्यात्वं ॥
+> इषयंता स्तोतृभ्य इषमन्नं कुर्वंतौ ॥ इट् शब्दात्तत्करोतीति णिच् । णेरिष्ठवद्भावेन टिलोपे प्राप्ते प्रकृतैकाजिति प्रकृतिभावः ॥ यद्वा । इषयंतैषयंतौ
+> श्रेयांसि प्रापयंतौ ॥ इष गत् । अस्माद्देतुमण्णिच् । संज्ञापूर्वकस्य विधेरनित्यत्वाद्दुणाभावः । शुभः शोभनस्य धनस्कोदकस्य वा पती स्वामिन् ॥ षष्ठ्याः पतिपुत्रेति
+> विसर्जनीयस्य सत्वं ॥ दाशुषश्चरुपुरोडाशादीनि दत्तवतो यजमानस्य गृहं
+> गंतारा गमनशीलौ ॥ गमेस्ताच्छिलिकस्त्रन् । अतो न लोकाव्ययेति कर्मणि
+> षष्ठ्याः प्रतिषेधः ॥ ईदृशावश्विनौ स्तुम इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+मंहिष्ठा (*maṃhiṣṭhā*) means the two who are to be delighted in, to be worshipped; or else the two who are the greatest givers. वाजसातमा (*vājasātamā*): वाज (*vāja*) is food or strength, and they are the supreme givers of it; or else वाज (*vāja*) is food in the form of the oblation, and they are its best sharers. इषयंता (*iṣayaṃtā*): those who provide food (इष (*iṣa*)) for the singers; or else, those who bring about good things (श्रेयांसि (*śreyāṃsi*)). शुभस्पती (*śubhaspatī*): the two lords of fair wealth or of water. *dāśuṣo gṛhaṃ gaṃtārā*: those who are given to going to the house of the sacrificer who has given caru, purodāśa and the like. The words "we praise such Aśvins" are to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंहिष्ठा (*maṃhiṣṭhā*)—most worshipful
+- वाजसातमा (*vājasātamā*)—supreme givers of food
+- इषयंता (*iṣayaṃtā*)—those who produce food for the singers
+- शुभः (*śubhaḥ*)—of the auspicious water
+- पती (*patī*)—lords
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who offers the oblation
+- गृहं (*gṛhaṃ*)—to the sacrificial house
+- गंतारा (*gaṃtārā*)—those who go (I praise the Aśvin deities)
+
+### Printed p. 446
+
+##### भावार्थ (Bhāvārtha)
+
+I praise the Aśvin deities, who are most worshipful, supreme givers of food, producers of food for the singers, lords of the auspicious water, and who go to the sacrificial house of the sacrificer who offers the oblation.
+
+##### English translation
+Most adorable bestower of strength, distributors of food, lords of opulence, repairers to the dwelling of the donor (of the oblation)
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता सु॑दे॒वाय॑ दा॒शुषे॑ सुमे॒धामवि॑तारिणीं ।  
+> स्फुटैर्गव्यूतिमुक्षतं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । सुदेवाय । दाशुषे । सुमेधां । अवितारिणीं ।  
+> पृथैः । गव्यूतिं । उक्षतं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ ता तौ तादृशौ युवां सुदेवाय । शोभना देवा येन
+> यष्टव्याः स तथोक्तः ॥ बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं ॥ तस्यै
+> दाशुषे हविर्दत्तवते यजमानाय ॥ तादर्थ्ये चतुर्थी ॥ ईदृग्यजमानार्थं
+> सुमेधां शोभनयज्ञामवितारिणीं । वितरणं विगमनमपायः । अनपायिनीं ॥
+> नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं ॥ ईदृशीं गव्यूतिं । गावो यूयंते
+> संयुज्यंतेऽत्रेति गव्यूतिर्गॊसंचारभूमिः ॥ गोयूत् छंदसि । पा. ६-१-७९-२ ।
+> इत्यवादेशः ॥ तां धृतैः क्षरक्षणशीलैरुदकैरुक्षतं । सिंचतं ॥ उक्ष सेचने ।
+
+##### Gist of the bhāṣya
+
+O Aśvins, you, such as you are, are addressed. सुदेवाय (*sudevāya*): he by whom the gods are well worshipped; for him, दाशुषे (*dāśuṣe*), the sacrificer who has given the oblation (dative of purpose). For such a sacrificer, सुमेधां (*sumedhāṃ*), a fair sacrifice, and अवितारिणीं (*avitāriṇīṃ*), i.e. one without loss (वितरणं (*vitaraṇaṃ*) is departing, ruin), one that does not perish: for such a गव्यूतिं (*gavyūtiṃ*) — the ground where cattle are yoked together (यूयंते (*yūyaṃte*)), the cattle-range — sprinkle it, उक्षतं (*ukṣataṃ*), with धृतैः (*dhṛtaiḥ*), waters that are given to dripping. ()
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—you, the renowned
+- सुदेवाय (*sudevāya*)—for the sake of the one engaged in excellent worship of the gods
+- दाशुषे (*dāśuṣe*)—the sacrificer who offers the oblation
+- सुमेधां (*sumedhāṃ*)—most worshipful (pure)
+- अवितारिणीं (*avitāriṇīṃ*)—free from harm
+- गव्यूतिं (*gavyūtiṃ*)—the cattle-range (pasture)
+
+### Printed p. 447
+
+- धृतैः (*dhṛtaiḥ*)—with waters
+- उक्षतं (*ukṣataṃ*)—make it moist
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who are renowned: for the sake of the sacrificer who is engaged in excellent worship of the gods and who offers the oblation, make the cattle-range (pasture), most pure and free from harm, wet with waters.
+
+##### English translation
+Sprinkle well with water the pure unfailing pasturage (of his cattle) for the devout donor (of the oblation).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॒ स्तोम॒मुप॑ द्र॒वत्तूयं॑ श्ये॒नेभि॑र॒शुभिः॑ ।  
+> या॒तमश्वे॑भरश्विना ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । स्तोमं । उप । द्रवत् । तूयं । श्येनेभिः । आशुभिः ।  
+> यातं । अश्वेभिः । अश्विना ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् नोऽस्माकं स्तोमं स्तोत्रमश्वेभिरश्वैः । द्रवत्
+> तूयमित्युभे क्षिप्रनामनी । एकः पूरकः । तूयं क्षिप्रमुपा यातं । उपगच्छतं ।
+> यद्वा । द्रवदिति स्तोमविशेषणं । द्रवच्छीघ्रं प्रवर्तमानं स्तोममित्यर्थः । कीद्यशैरश्वैः । श्येनेभिः शंसनीयगामिभिः प्रशस्यगमनैराशुभिः शीघ्रगैः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come quickly to our स्तोमं (*stomaṃ*) (praise) with your horses. द्रवत् (*dravat*) and तूयं (*tūyaṃ*) are both names for "swift"; one is a filler. तूयं (*tūyaṃ*): swiftly, approach (उपआ यातं (*upaā yātaṃ*)). Or else द्रवत् (*dravat*) qualifies the praise: a praise that proceeds quickly. With what horses? श्येनेभिः (*śyenebhiḥ*): going in a praiseworthy manner, of laudable gait; आशुभिः (*āśubhiḥ*): swift-going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- श्वेनेभिः (*śvenebhiḥ*)—having praiseworthy motion (moving like falcons)
+- आशुभिः (*āśubhiḥ*)—fast-going
+- अश्वेभिः (*aśvebhiḥ*)—together with the horses
+- द्रवत् (*dravat*)—recited quickly
+- नः (*naḥ*)—our
+- स्तोमं (*stomaṃ*)—towards the praise
+- तूयं (*tūyaṃ*)—swiftly
+- उपआ यातं (*upaā yātaṃ*)—graciously come
+
+### Printed p. 448
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come swiftly, together with your horses that move in a praiseworthy manner (like the falcon) and are fast-going, towards our praise that is recited quickly.
+
+##### English translation
+Come, Aswins, to our adoration, hastening quickly with your rapid falcon-like horses.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येभि॑स्ति॒ स्रः प॑रा॒वतो॑ दि॒वो विश्वा॑नि रोच॒ना ॥  
+> श्रीर॒क्तून्प॑रि॒दीय॑थः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येभिः । तिस्रः । पर्रावतः । दिवः । विश्वानि । रोचना ।  
+> त्रीन् । अक्तून् । परिदीयथः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आश्विन् तिस्रो दिवस्त्रीन्दिवसांस्त्रीनक्कूंस्तिस्सो रात्रीश्च ॥ अत्यंतसंयोगे
+> द्वितीया ॥ एतावंतं कालं विश्वानि सर्वाणि व्याप्तानि वा रोचना रोचमानानि
+> नक्षत्ररूपाणि देवगृहाणि परावतो दूरदेशाद्येभिर्यैरश्वैः परिदीयथः परिगच्छथः।
+> दीयतिर्गतिकर्मा । त्रैरस्माकं स्तोत्रमुपयातमिति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, for three days and three nights (accusative of continuous duration), all the shining abodes of the gods in the form of stars, from a distant region (परावतः (*parāvataḥ*)), you traverse (परिदीयथः (*paridīyathaḥ*); the root दीयति (*dīyati*) means motion) with the horses with which; with those you are to come to our praise, which connects with the preceding Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तिस्त्रः (*tistraḥ*)—three
+- दिवः (*divaḥ*)—in days
+- त्रीन् (*trīn*)—three
+- अक्तून् (*aktūn*)—in nights
+- रोचना (*rocanā*)—shining with stars and the like
+- विश्वानि (*viśvāni*)—all the worlds of the gods
+- परावतः (*parāvataḥ*)—from a very distant region
+- योभिः (*yobhiḥ*)—with which horses
+- परिदीयथः (*paridīyathaḥ*)—you travel round (come with those horses to accept our praises)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, with the horses with which, in only three days and three nights, you travel from a very distant region round all the worlds of the gods that shine with stars and the like,
+
+### Printed p. 449
+
+come with those horses to accept our praises.
+
+##### English translation
+With which in three days and three nights you traverse from afar all the brilliant (constellations).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॒ गोम॑ती॒रिष॑ उ॒त सा॒तीर॑हर्विदा ।  
+> वि प॒थः सा॒तये॑ सितं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । गोऽमतीः । इषः । उत । सातीः । अहऽविदा ।  
+> वि । पथः । सातये । सितं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे अहर्विदाह्नो लंभयितारौ । यद्वा । अह्नि प्रभातसमये
+> वेदितव्यौ स्तोतव्यौ । नोऽस्मभ्यं गोमतीर्बहुभिर्गॊभिर्युक्ता इषोऽन्नानि
+> दत्तमिति शेषः। उतापि च सातीः संभजनीया दातव्या वारायश्चास्मभ्यं दत्तं॥ सनतेः
+> सनोतेर्वा कर्मणि क्तिन् । जनसनखनामित्यात्वं । ऊतियूतीत्यादिना क्तन उदात्तत्वं निपात्यते ॥ अपि चास्माकं सातय उक्तानां गवादीनां लाभाय संभजनाय
+> वा पथस्तदुपायरूपान्मार्गान् वि सितं । विशेषेण बद्धीतं । यथान्ये न प्रविशंति
+> तथा कुरुतमित्यर्थः ॥ षिञ् बंधने । छांदसो विकरणस्य लुक् ॥ यद्वा । उपसर्गवशादयं धातुः स्वार्थविपरीते बंधनाभावे वर्तते । प्रस्मरणं प्रस्थानमिति यथा ।
+> पथो मार्गान् वि सितं । विमुंचतं । प्रदर्शयतमित्यर्थः ॥ पथिञ्बोऽंतोदात्तः । तस्य शसि टिलोप उदात्तनिवृत्ति स्वरेण शस उदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+And, O अहर्विदा (*aharvidā*) — bringers of the day; or else, those to be known and praised at daybreak — give us गोमतीः (*gomatīḥ*) foods (इषः (*iṣaḥ*)) accompanied by many cows (the verb "give" is to be supplied). And give us सातीः (*sātīḥ*), shareable, giveable riches. Further, for our सातये (*sātaye*), the gain or enjoyment of the things named (cows and the rest), वि सितं (*vi sitaṃ*) the पथः (*pathaḥ*), the paths that are the means to them: bind them fast, so that others do not enter; that is the meaning (root षिञ् बंधने (*ṣiñ baṃdhane*)). Or else, by force of the preposition this root has the sense opposite to its own, absence of binding, as in प्रस्मरणं प्रस्थानमिति (*prasmaraṇaṃ prasthānamiti*): then वि सितं (*vi sitaṃ*) means "release, show" the paths.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अहर्विदा (*aharvidā*)—O Aśvin deities, who become visible at daybreak and are worthy of praise
+- नः (*naḥ*)—to us
+- गोमतीः (*gomatīḥ*)—accompanied by many cows
+- इषः (*iṣaḥ*)—foods (give)
+
+### Printed p. 450
+
+- उत (*uta*)—and
+- सातीः (*sātīḥ*)—give riches fit for enjoyment
+- सातये (*sātaye*)—for the gain of our desired object
+- पथः (*pathaḥ*)—the paths that effect them
+- विसितं (*visitaṃ*)—block, so that enemies do not enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who become visible at daybreak and are worthy of our praise, give us foods accompanied by many cows, and give also riches fit for enjoyment. For the gain of our desired object, block the paths that lead to them, so that enemies cannot enter.
+
+##### English translation
+Bringers of the day, (bestow) upon us food with cattle, or donations of wealth ; and close the path (against aggression) upon our gains.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ गोमं॑तमश्विना सु॒वीरं॑ सु॒रथं॑ र॒यिं ।  
+> वो॒ळ्ळमश्वा॑वती॒रिषः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । गोमंतं । अश्विना । सुवीरु । सुरथं । रयिं ।  
+> वोळ्हं । अश्ववतीः । इषः ॥ ८० ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् नोऽस्मभ्यं रयिं धनमा वोळ्हं । आवहतं । आहरतं ॥
+> वहेर्लोटि च्छांदसः शपो लुक् । ढत्वधत्वष्टुत्त्वढलोपेषु कृतेषु सहिवहोरोदवर्णस्येत्योत्वं ॥ कीदृशं रयिं । गोमंतं बह्वीभिर्गॊभिर्युक्तं सुवीरं ।
+> वीर्याज्जायंत इति वीराः पुत्राः । शोभनैस्तैरुपेतं । विविधमीरयंति शत्रूनिति वा वीराः शूराः । तैरुपेतं । सुरथं शोभनरथेन युक्तं । अपि चाश्वावतीरश्वयुक्ताः ॥ मंत्रे सोमाश्वेति मत् दीर्घः ॥ इष इष्यमाणान्यन्नानि चास्मभ्यमावहतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, bring (वोळ्हं (*voḷhaṃ*), आवहतं (*āvahataṃ*), आहरतं (*āharataṃ*)) wealth (रयिं (*rayiṃ*)) to us. What sort of wealth? गोमंतं (*gomaṃtaṃ*): possessed of many cows; सुवीरं (*suvīraṃ*): वीराः (*vīrāḥ*) are sons born of virility, so wealth endowed with fine sons; or else वीराः (*vīrāḥ*) are heroes who drive (*īrayaṃti*) enemies in various directions, so wealth endowed with them; सुरथं (*surathaṃ*): furnished with a fine chariot. And also bring अश्ववतीः (*aśvavatīḥ*) (provided with horses) इषः (*iṣaḥ*), desired foods, to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- नः (*naḥ*)—to us
+- गोमंतं (*gomaṃtaṃ*)—accompanied by cows
+
 ---
 
-**Progress note:** Done through printed p. 444. pp. 438-444 (batch API)
+**Progress note:** Done through printed p. 450. pp. 445-450 (batch API)
