@@ -35340,6 +35340,281 @@ Chandas: Gāyatrī.
 
 "We ask protection (अवः (*avaḥ*)) of those Ādityas, Kṣatriyas by birth. What are they like? Well gladdening (सुमृळीकान् (*sumṛḷīkān*)). For what purpose? For approach or for the desired (अभिष्टयेऽभिगमनायाभिमताय (*abhiṣṭaye 'bhigamanāyābhimatāya*)). The distinction is: on the side of the fishes release from the net is prayed for; on the other side, the desired."
 
+### Printed p. 778
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुमृळीकान् (*sumṛḷīkān*)—those who give excellent happiness
+- क्षत्रियान् (*kṣatriyān*)—those belonging to the Kṣatriya lineage
+- त्यान्नु आदित्यान् (*tyānnu ādityān*)—those very Ādityas
+- अभिष्टये (*abhiṣṭaye*)—for the fulfilment of our desires
+- अव (*ava*)—protection
+- याचिषामहे (*yāciṣāmahe*)—I beg
+
+##### भावार्थ (Bhāvārtha)
+
+We beg the Ādityas, who give excellent happiness, who belong to the Kṣatriya lineage and who are renowned, for protection, for the fulfilment of our desires.
+
+##### English translation
+We solicit for protection those Kshatriyas, the Alityas who bless (their votaries) abundantly to the attainment of their desires.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रो नो॒ अत्यं॑ह॒तिं वरु॑णः पर्षदर्य॒मा ।  
+> आ॒दि॒त्यासो॒ यथा॑ वि॒दुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रः । नः । अति । अ०हतिं । वरुणः । सर्षत् । आर्यमा ॥  
+> आदित्यासः । यथा । विदुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रो वरुणोऽर्यमादित्यास आदित्वा नोऽस्मानंहतिमति पर्षदिति ।
+> अतिनयंतु । ते यथा विदुः येन प्रकारेण दुःसहं जानंति तथाति पर्षदिति ।
+> इतरपक्षेऽंहतिं पापमति पर्षदिति ॥
+
+##### Gist of the bhāṣya
+
+Mitra, Varuṇa, Aryamā and the Ādityas are to carry us across अंहतिं (*aṃhatiṃ*), distress; "may they carry us over" is the sense of अति पर्षत् (*ati parṣat*). The Ādityas know in what manner the hard-to-bear is to be known, and in that manner they are to carry us across. On the other side, अंहतिं (*aṃhatiṃ*) is sin, and they are to carry us across it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—by what power of their own
+- विदुः (*viduḥ*)—they know; in that same way
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अर्यमा (*aryamā*)—Aryaman
+- आदित्यासः (*ādityāsaḥ*)—the Ādityas
+- नः (*naḥ*)—us
+- अंहतिं (*aṃhatiṃ*)—from the face **NOTE**
+- अति पर्षत् (*ati parṣat*)—to a distance, carry across **NOTE**
+
+### Printed p. 779
+
+##### भावार्थ (Bhāvārtha)
+
+May Mitra, Aryaman, Varuṇa and the Ādityas carry us far away from distress by the same power by which they know it.
+
+##### English translation
+May the Adityas, Mitra, Varuna, and Aryaman, bear us across our distress, as they know it well.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तेषां॒ हि चि॒त्रमु॒क्थं१॒॑ १ वरू॑थ॒मस्ति॑ दा॒शुषे॑ ।  
+> आ॒दि॒त्याना॑मरं॒कृते॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तेषां । हि । चित्रं । उक्ष्यं । वरूथं । आस्ति । दाशुषे ।  
+> आदित्यानां । अरंकृते ॥ ३ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तेषामादित्यानां हि खलु चित्रं चायनीयमुक्थ्यं स्तुत्यं वरूथं धनमस्ति
+> दाशुषे हविर्दात्रेऽरंकृतेऽरंकर्त्रे पर्याप्तकारिणे यजमानाय दातव्यं
+> धनमस्तीति ॥
+
+##### Gist of the bhāṣya
+
+Of those Ādityas there is indeed a wonderful, praiseworthy वरूथं (*varūthaṃ*), that is, wealth, which is to be given to the sacrificer who gives oblations, who is अरंकृते (*araṃkṛte*), one who makes what is sufficient, who does what is adequate.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblations
+- आरंकृते (*āraṃkṛte*)—enough to satisfy
+- चित्रं (*citraṃ*)—attractive
+- उक्ष्यं (*ukṣyaṃ*)—praiseworthy
+- वरूथं (*varūthaṃ*)—wealth
+- अस्ति (*asti*)—that which is
+- तेषां (*teṣāṃ*)—of the renowned
+- आदित्यानां हि (*ādityānāṃ hi*)—it belongs to the Ādityas alone
+
+##### भावार्थ (Bhāvārtha)
+
+Whatever attractive and praiseworthy wealth there is, enough to satisfy the sacrificer who offers oblations, all of it belongs to the renowned Ādityas.
+
+##### English translation
+To those Adityas belongs wonderful wealth, worthy of all praise, (laid up) for the offerer of oblations and the sacrificer.
+
+### Printed p. 780
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि॑ वो मह॒तामवो॒ वरु॑ण॒ मित्रार्य॑मन् ।  
+> अवां॒स्या वृ॑णीमहे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । वः । महतां । आवः । वरुण । मित्र । आर्यमन् ।  
+> ।  
+> अवांसि । आ । वृणेमहे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुणादयः महतां वोऽवो रक्षणं महि महद्दाशुषे हविर्दात्रे
+> करणीयमस्ति । अतोऽवांसि रक्षणान्या वृणीमहे ॥
+
+##### Gist of the bhāṣya
+
+O Varuṇa and the others, your protection, being great, is great, महि (*mahi*), and is to be provided for the sacrificer who gives oblations. Therefore we choose, ask for, your protections.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- आर्यमन् (*āryaman*)—O Aryaman
+- महतां (*mahatāṃ*)—of great nature
+- वः (*vaḥ*)—your
+- अवः (*avaḥ*)—protection
+- महि (*mahi*)—is of exceedingly great power
+- अवांसि (*avāṃsi*)—your protections themselves
+- आ वृणीमहे (*ā vṛṇīmahe*)—we pray for and ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, Varuṇa and Aryaman, your protection, of great nature, is of exceedingly great power. We pray for and ask for your protections themselves.
+
+##### English translation
+You are great, Varuna, Mitra, and Aryaman, and great is your protection ; your protectionsiwe implore.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जी॒वान्नो॑ अ॒भि धे॑त॒नादि॑त्यासः पु॒रा पथा॑त् ।  
+> कद्द॑ स्थ हवनश्रुतः ॥ ५४ ॥
+
+### Printed p. 781
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जीवान् । नः । अभि । धेतन । आदित्यासः । पुरा । हथात् ।  
+> कत् । ह । स्थ । हवनश्रुतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्यास आदित्याः नोऽस्मानिदानीं जीवाञ्जीवतः सतोऽभि धेतन ।
+> अभिधावत । अभिधावनं कुरुत । पुरा हथाद्दनान्मृतेः पूर्वं । कत्के स्थ । भवथ । हे
+> हवनश्रुत आह्वानश्रोतारः । आह्वानं श्रुत्वा शीघ्रमागच्छतेति ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, now, while we are alive, run to us, hasten to us, before slaying or death. Where are you, O hearers of the call? Hearing the call, come quickly. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हवनश्रुतः (*havanaśrutaḥ*)—you who hear our cry
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- पुरा हथात् (*purā hathāt*)—even before we meet death
+- जीवान् (*jīvān*)—while we are alive
+- नः (*naḥ*)—to us
+- अभि धेतन (*abhi dhetana*)—run to us
+- कत् स्थ (*kat stha*)—where are you now?
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, who hear our cry, run to us before we meet death, while we are still alive. Where are you now?
+
+##### English translation
+Adityas, hasten to us ere our death, while we are yet alive; where are you, hearers of prayer?
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the meaning of the word अभिधेतन (*abhidhetana*) in this Ṛk, Yāska says: अभिधेतन ॥ जीवान्नो अभिधेतनादित्यासः पुरा हथात् । कद्ध स्थ हवनश्रुतः ॥ जीवतो नोऽभिधावतादित्याः पुरा हननात् क्व नु स्थ ह्वानश्रुत इति । मत्स्यानां जालमापन्नानामेतदार्षं वेदयंते । मत्स्या मधौ उदके स्यंदंते माद्यंतेऽन्योन्यं भक्षणायेति ना । जालं जलचरं भवति जलेभवं वा जलेशयं वा ॥ (*abhidhetana ‖ jīvānno abhidhetanādityāsaḥ purā hathāt | kaddha stha havanaśrutaḥ ‖ jīvato no 'bhidhāvatādityāḥ purā hananāt kva nu stha hvānaśruta iti | matsyānāṃ jālamāpannānāmetadārṣaṃ vedayaṃte | matsyā madhau udake syaṃdaṃte mādyaṃte 'nyonyaṃ bhakṣaṇāyeti nā | jālaṃ jalacaraṃ bhavati jalebhavaṃ vā jaleśayaṃ vā ‖*) (Ni. 6-27). So he has stated the etymology. Fishes caught in a net take refuge in the Ādityas and pray to be freed from the net: "O Ādityas, we who are caught in the net, before we are killed, free us from the net and protect us. If you delay, the fishermen will
+
+### Printed p. 782
+
+kill us. Where are you now, you who hear our prayer made in the form of a cry of distress? Run to us quickly and free us from the net." This is the sense of the etymological explanation. The sage's meaning is that what is said here is the prayer of fishes caught in a net to the Ādityas.
+
+As to the word मत्स्य (*matsya*): "in मधौ (*madhau*)", that is, because they float in water, or because these fishes devour one another, fishes have the name matsya; this is the formation of the form. जालं (*jālaṃ*) means a net. Because this net moves in the water, or because it is cast into the water, or because it lies in the water, the net is called jāla; this is the derivation of the word jāla.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वः॑ श्रां॒ताय॑ सुन्व॒ते वरू॑थ॒मस्ति॒ यच्छ॒र्दिः ।  
+> तेना॑ नो॒ अधि॑ वोचत ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वः । श्रांताय । सुन्वते । वरूथं । अस्ति । यत् । छर्धिः ।  
+> तेन । नः । अधि । वोचत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रांताय कर्मणः सुन्वतेऽभिषुण्वते यजमानाय दातव्यं यद्वरूथं
+> वरणेयं धनं वो युष्माकमस्ति यच्च छर्दिः सुखवासयोग्यं गृहमस्ति तेन
+> द्वयेनास्मान्प्रीणयित्वा नोऽस्मानधि वोचत । अधिवचनं कुरुत ॥
+
+##### Gist of the bhāṣya
+
+For the sacrificer who is wearied by the rite and who presses the Soma, there is your वरूथं (*varūthaṃ*), choice wealth, to be given, and your छर्दिः (*chardiḥ*), a house fit for pleasant dwelling. With these two, having gratified us, speak to us, make a declaration to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Ādityas) श्रांताय (*śrāṃtāya*)—to the one wearied by the rite
+- सुन्वते (*sunvate*)—to the sacrificer who presses and offers Soma, to whom is to be given
+- वः (*vaḥ*)—your
+- वरूथं (*varūthaṃ*)—venerable
+- यत् (*yat*)—whatever wealth
+- अस्ति (*asti*)—there is
+- यत् (*yat*)—whatever
+- छर्दिः (*chardiḥ*)—house fit for dwelling there is
+- तेन (*tena*)—coming with that
+- नः (*naḥ*)—to us
+- अधि वोचत (*adhi vocata*)—give words of courage
+
+### Printed p. 783
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, whatever venerable wealth of yours there is to be given to the sacrificer who is wearied by the rite and who presses and offers Soma, and whatever house of yours fit for dwelling there is, come with all of that and speak words of courage to us.
+
+##### English translation
+Whatever wealth, whatever dwelling is yours (to give) to the wearied offerer of librations,—with these speak to us a kindly answer.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्ति॑ देवा अं॒होरु॒र्वस्ति॒ रत्न॒मना॑गसः ।  
+> आदि॑त्या॒, अद्भु॑तैनसः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्ति । देवाः । अंहोः । उरु । अस्ति । रत्नं । अनागसः ।  
+> आदित्याः । अद्भुतैनसः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः आंहोर्हंतुः पापशीलस्योर्वस्ति । महत्पापमस्ति । अनागसोऽपापस्य रत्नं रमणीयं सुकृतं श्रेयोऽस्ति । ततो हे आदित्या अद्भुतैनसोऽभूतपापाः । अतोऽस्मदभिमतं कुरुतेति भावः ॥
+
+##### Gist of the bhāṣya
+
+O gods, for the sinner, the doer of harm, there is great sin; for the sinless there is delightful merit, good fortune. Therefore, O Ādityas, you in whom sin has not arisen, fulfil our desire; this is the sense. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O divine ones
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- अंहोः (*aṃhoḥ*)—the sin of one who always does sinful deeds
+- उरु (*uru*)—is exceedingly great
+- आस्ति (*āsti*)—it is
+- रत्नं (*ratnaṃ*)—the delightful wealth given by you
+- अनागसः आस्ति (*anāgasaḥ āsti*)—is only for the sinless
+- अद्भुतैनसः (*adbhutainasaḥ*)—we are free from sin **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Ādityas, the sin of one who always does sinful deeds is exceedingly great. The wealth given by you is only for the sinless. We are free from sin; therefore provide wealth for us.
+
 ---
 
-**Progress note:** Done through printed p. 777. Maṇḍala 8 Sūkta 66 ṛks 11-15, Sūkta 67 intro and ṛk 1, pp. 772-777
+**Progress note:** Done through printed p. 783. Ṛk 1 end, Ṛk 2-7 of the Ādityas sūkta, pp. 778-783
