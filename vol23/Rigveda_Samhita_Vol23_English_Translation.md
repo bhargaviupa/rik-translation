@@ -10392,6 +10392,201 @@ Sāyaṇa begins: an oath is usually made with the rākṣasa by the seer **NOTE
 
 To discriminating persons who know the difference between truth and untruth, the difference between what is true and what is untrue comes easily to understanding. When these two kinds of speech, of true and untrue form, contend in rivalry, whichever of the two is true speech, whichever is trustworthy, just that the god Soma protects. He destroys the true speech **NOTE**.
 
+### Printed p. 258
+#### Ṛk 13
+**English Translation**
+To the understanding man there is perfect discrimination, the words of truth and falsehood are mutually at variance; of these two, Soma verily cherishes that which is true and right: he destroys the false.
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न वा उ॒ सोमो॑ वृजि॒नं हि॑नोति॒ न क्ष॒त्रियं॑ मिथु॒या  ॒॑
+> धारयंतं ।  
+> हंति॒ रक्षो॒ हंत्यास॒द्वदं॑तमु॒भाविंद्र॑स्य॒ प्रसि॑त् शयाते ॥१३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । वै । ऊं इति । सोमः । वृजिनु । हिनोति । न । क्षत्रियं । मिथुया ।  
+> धारयंतं ।  
+> हंति । रक्षः । हंति । असत् । वदंतं । उभौ । इंद्रस्य । प्रसितौ । शयाते इति ॥१३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृजिनं पापकारिणं राक्षसं सोमो देवो न वा उ न खलु हिनोति । प्रेरयति । गच्छ त्वमिति न मुंचति । तथा क्षत्रियं । क्षत्रं बलं ! तद्वंतं मिथुया मिथ्याभूतं वचनं धारयंतं बिभ्रतमसत्यवादिनं पुरुषं न च हिनोति । न विसृजति ।
+> अपि तु रक्षो राक्षसं हंति । असदसत्यं वदंतं च हंति । हिनस्ति । उभौ राक्षसानृतवादिन् ता सोमेन हताविंद्रस्य संबंधिनि प्रसित् बंधने शयाते । निवसतः ।
+> यद्वा । इंद्रस्यॆति तृतीयार्थे षष्ठी । इंद्रेणेश्वरेण सोमेन प्रसित् बद्धौ ॥
+> षिञ् बंधने । अस्मात्कर्मणि निष्ठा । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥
+
+##### Gist of the bhāṣya
+
+The god Soma surely does not release (हिनोति (*hinoti*), "sends forth": he does not let go with the words "go you") the sinful demon (वृजिनं (*vṛjinaṃ*)). Likewise he does not release the क्षत्रियं (*kṣatriyaṃ*), one possessed of strength (क्षत्रं (*kṣatraṃ*)), who bears false speech (मिथुया (*mithuyā*)), that is, the untruthful man. Rather he slays the demon and slays him who speaks untruth. Both, the demon and the untruthful speaker, being slain by Soma, lie in Indra's bondage (प्रसित् (*prasit*)). Alternatively: इंद्रस्य (*iṃdrasya*) is a genitive in the sense of the instrumental; the two are bound by Indra, the Lord, that is, Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—Soma
+- वृजिनं (*vṛjinaṃ*)—the sinful demon
+- न वा उ हिनोति (*na vā u hinoti*)—surely does not release
+- क्षत्रियं (*kṣatriyaṃ*)—even though he is powerful
+- मिथुया (*mithuyā*)—(continues on the next page)
+
+### Printed p. 259
+- धारयंतं (*dhārayaṃtaṃ*)—the man who fosters untruthful speech
+- न (*na*)—surely does not release
+- असत् (*asat*)—untruth
+- वदंतं (*vadaṃtaṃ*)—the man who speaks
+- हंति (*haṃti*)—he kills (likewise)
+- रक्षः (*rakṣaḥ*)—the demon
+- हंति (*haṃti*)—he kills
+- उभौ (*ubhau*)—both of these two kinds of wicked ones
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- प्रसित् (*prasit*)—caught in bondage
+- शयाते (*śayāte*)—lie down
+
+##### भावार्थ (Bhāvārtha)
+
+Soma surely does not release the sinful demon. Even if such a one is powerful, he surely does not release the man who fosters untruthful speech. He surely kills the man who speaks untruth and the violent demon. Both these kinds of wicked ones lie caught in Indra's bondage.
+
+##### English translation
+Soma instigates not the wicaked ; he instigates not the strong man dealing in falsehood : he destroys the Rakshasa, he destroys the speaker of untruth ; and both remain in the bondage of Indra.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदि॑ वा॒हमनृ॑तदेव॒ आस॒ मोघं॑ वा दे॒वा अ॑प्यू॒हे अ॑ग्ने ।  
+> किम॒स्मभ्यं॑ जातवेदो हृणीषे द्रोघ॒वाच॑स्ते निर्ऋ॒थं  ॑
+> सचंतां ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । वां । अहं । अनृतदेवः । आस । मोघं । वा । देवान् । अपिऊहे ।  
+> अग्ने ।  
+> किं । अस्मभ्यं । जातवेदः । हृणीषे । द्रोघवाचः । ते । निर्ऋथं । सचंतां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदि वाहमनृतदेवोऽनृता असत्यभूता देवा यस्य तादृशो यद्यहमास अस्मि । अथवा मोघं वा निश्चलु वा देवानप्यूहे उपगच्छामि । अहं
+
+##### Gist of the bhāṣya
+
+"If I am one whose gods are false (अनृतदेवः (*anṛtadevaḥ*)), that is, one whose gods are unreal, or if I approach (अप्यूहे (*apyūhe*)) vain gods, then, Agni, I am of the stated kind…" (continues on the next page).
+
+### Printed p. 260
+
+> यद्युक्तरूपोऽस्मि हे अग्ने तर्हि मां बाध्व । न ह्यहं तथाविधोऽस्मि । एवं सति
+> हे जातवेदो जातानां वेदितरग्ने अस्मभ्यं किंकारणं हृणीषे । क्रुद्धसि । तव
+> क्रोधोऽस्मासु न जायतामित्यर्थः । द्रोघवाचोऽनृतवाचो राक्षसास्ते तव
+> निर्यथं ॥ निष्पूर्वोऽर्तिर्हिंसायां वर्तते । निर्यथं निःशेषेणार्तिं हिंसां
+> सचंतां । सेवंतां ॥
+
+##### Gist of the bhāṣya
+
+"…if I am of the kind stated, O Agni, then bind me; but I am not of that kind. That being so, O Jātavedas, knower of all that is born, why are you angry (हृणीषे (*hṛṇīṣe*)) with us? Let your wrath not arise against us. Let the demons of treacherous, false speech (द्रोघवाचः (*droghavācaḥ*)) encounter your निर्यथं (*niryathaṃ*): the root *arti* with the prefix निः (*niḥ*) is used in the sense of injury; let them incur utter pain, injury (सचंतां (*sacaṃtāṃ*), let them partake of it)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यदि वा (*yadi vā*)—if perchance
+- अहं (*ahaṃ*)—I
+- अनृतदेवः (*anṛtadevaḥ*)—a worshipper of gods of an untrue nature
+- आस (*āsa*)—have been
+- वा (*vā*)—or
+- मोघं (*moghaṃ*)—useless
+- देवान् (*devān*)—gods
+- अप्यूहे (*apyūhe*)—if I have approached and prayed to (then harm me) (when this circumstance does not exist)
+- जातवेदः (*jātavedaḥ*)—O Agni, who are Jātavedas
+- अस्मभ्यं (*asmabhyaṃ*)—in our case
+- किं (*kiṃ*)—why
+- हृणीषे (*hṛṇīṣe*)—are you angry
+- द्रोघवाचः (*droghavācaḥ*)—only the demons whose speech is treacherous
+- ते (*te*)—your
+- निर्ऋथं (*nirṛthaṃ*)—injury
+- सचंतां (*sacaṃtāṃ*)—let them experience
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, if I were worshipping false gods, or had approached and prayed to useless gods, it would be proper for you to harm me in that case. Since I do not act so, O Agni who are Jātavedas, why are you angry with me? Let only the demons of treacherous speech suffer your injury.
+
+##### English translation
+If I am one following false gods, if I approach the gods in vain, then Agni (punish me). If (we be not such, then) why, Jatavedas, are you angry with us ? let the utterers of falsehood incur your chastisement.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द्या मु॑रीय॒ यदि॑ यातु॒धानो॒ अस्मि॒ यदि॒ वायु॑स्त॒तप॒  ॑
+> पूरु॑षस्य ।  
+> अधा॒ स वी॒रैर्द॒शभि॒र्वि यू॑या॒ यो मा॒ मोघं॒ यातु॑धा॒नेत्याह॑ ॥ १५ ॥
+
+### Printed p. 261
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्य । मुरीय । यदि । यातुधानः । अस्मि । यदि । वा । आयुः । ततप ।  
+> पुरुषस्य ।  
+> अध । सः । वीरैः । दशभिः । वि । यूयाः । यः । मा । मोघं । यातुधान ।  
+> इति । आह ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमपि शपथरूपैव । यद्यहं वसिष्ठो यातुधानो राक्षसोऽस्मि
+> अद्यास्मिन्नेव दिने मुरीय । म्रियेय । अपि वा पुरुषस्य मनष्यस्यायुर्जिवितं यद्यहं राक्षसो भूत्वा ततप हिंसितवानस्मि तर्ह्यप्यहमद्य म्रीयेयेत्यन्वयः । अधाथैवं स्यात् । अहं वसिष्ठस्त्वं राक्षस इति तर्हि सत्वं दशभिर्वीरैः
+> पुत्रैः । उपलक्षणमेतत् । सर्वैर्बंधुजनैर्वि यूयाः । वियुक्तो भवेः ।
+> यो राक्षसो मा मां मोघं मृषैव हे यातुधान हे राक्षसेति संबोध्याह ॥
+
+##### Gist of the bhāṣya
+
+This too is of the nature of an oath. If I, Vasiṣṭha, am a यातुधानः (*yātudhānaḥ*), a demon, may I die this very day (मुरीय (*murīya*) = म्रियेय (*mriyeya*)). Or if, having become a demon, I have injured (ततप (*tatapa*)) the life of a man, then too may I die today: such is the construction. Or else, if it be that I am Vasiṣṭha and you are the demon, then may you be separated (वि यूयाः (*vi yūyāḥ*)) from your ten heroes, that is, sons; this is an indication of all your kinsfolk. (This applies to) the demon who calls me, addressing me falsely, "O यातुधान (*yātudhāna*), O demon".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदि (*yadi*)—if
+- अहं (*ahaṃ*)—I
+- यातुधानः (*yātudhānaḥ*)—a demon
+- अस्मि (*asmi*)—am in truth
+- अद्य (*adya*)—this very day
+- मुरीय (*murīya*)—may I meet death
+- वा (*vā*)—moreover
+- पुरुषस्य (*puruṣasya*)—of another human being
+- आयुः (*āyuḥ*)—the life
+- यदि (*yadi*)—if
+- ततप (*tatapa*)—I have injured (then too may death befall me)
+- अध (*adha*)—or if I am Vasiṣṭha and you are the demon, then
+- यः (*yaḥ*)—which demon
+- मा (*mā*)—me
+- मोघं (*moghaṃ*)—falsely
+- यातुधान (*yātudhāna*)—O demon
+- इति (*iti*)—thus
+- आह (*āha*)—has called
+- सः (*saḥ*)—such a you
+- दशभिः वीरैः (*daśabhiḥ vīraiḥ*)—from ten heroic sons
+- वि यूयाः (*vi yūyāḥ*)—be separated
+
+##### भावार्थ (Bhāvārtha)
+
+O demon, if I myself am a demon, may I die this very day. Moreover, if I have injured the life of another human being, may death befall me at once. And if in truth I am Vasiṣṭha and you are the demon, then because you addressed me and called me "O demon", lose your ten heroic sons on account of that deceit. May they all die and may you suffer grief.
+
+### Printed p. 262
+
+##### English translation
+May I this day die if I am a spirit of ill, or if I have ever injured the life of any man : may you be deprived (Rakshasa) of your ten sons, who have falsely called me by such an appellation.
+
+##### विशेषविषयगळु (Special Topics)
+
+In dividing the Ṛks of the Ṛgveda according to their meaning, Yāska says that there are various kinds, comprising such subjects as indirect (परोक्षकृत (*parokṣakṛta*)), direct (प्रत्यक्षकृत (*pratyakṣakṛta*)), both indirect and direct, spiritual (आध्यात्मिका (*ādhyātmikā*)), praise, blessing, oath, imprecation, a statement of someone's state, lament, and censure, and he explains them by examples. Thus:
+1. (1) Indirect: in such a Ṛk the deity is thought of as not in front, as unseen, in the indirect, and is praised so. Here any of the case-forms of the pronoun may be used, but the verb must be in the third person. Example: इंद्रो दिव इंद्र ईशे पृथिव्याः ॥ (*iṃdro diva iṃdra īśe pṛthivyāḥ ‖*) (nominative); इंद्रमिद्दाथिनो बृहत् ॥ (*iṃdramiddāthino bṛhat ‖*) (accusative); इंद्रेणैते तृत्सवो वेविषाणा ॥ (*iṃdreṇaite tṛtsavo veviṣāṇā ‖*) (instrumental); इंद्राय साम गायत ॥ (*iṃdrāya sāma gāyata ‖*) (dative); नेंद्रादृते पवते धाम किंचन ॥ (*neṃdrādṛte pavate dhāma kiṃcana ‖*) (ablative); इंद्रस्य नु वीर्याणि प्रवोचं ॥ (*iṃdrasya nu vīryāṇi pravocaṃ ‖*) (genitive); इंद्रे कामा अयंसत ॥ (*iṃdre kāmā ayaṃsata ‖*) (locative). Here seven examples are given for the seven cases.
+(2) Direct: in this kind of Ṛk the deity praised is thought of as present, standing in front, and may be praised in all the cases as stated before; but the second-person pronouns "you", "your" and so on must be used, with second-person verbs agreeing with them. Example: त्वमिंद्र बलादधि ॥ (*tvamiṃdra balādadhi ‖*) वि न इंद्र मृधो जहि ॥ (*vi na iṃdra mṛdho jahi ‖*) and so on.
+(3) Direct and indirect: in some Ṛks combining both kinds, the people who praise are treated as direct and the deities praised as indirect.
+
+### Printed p. 263
+Example: मा चिदन्यद्विशंसत ॥ (*mā cidanyadviśaṃsata ‖*) कण्वा अभि प्र गायत ॥ (*kaṇvā abhi pra gāyata ‖*) उप प्रेत कुषिकाश्चेतयध्वं ॥ (*upa preta kuṣikāścetayadhvaṃ ‖*) and so on.
+1. (4) Spiritual: the deities praised themselves speak, using the first person. Example: अहं भुवं वसुनः पूर्वस्पतिः ॥ (*ahaṃ bhuvaṃ vasunaḥ pūrvaspatiḥ ‖*) इति वा इति मे मनः ॥ (*iti vā iti me manaḥ ‖*) अहं रुद्रेभिर्वसुभिश्चरामि ॥ (*ahaṃ rudrebhirvasubhiścarāmi ‖*) and so on.
+(5) Praise: a Ṛk that is only praise of deities or of other persons. Example: इंद्रस्य नु वीर्याणि प्र वोचं ॥ (*iṃdrasya nu vīryāṇi pra vocaṃ ‖*) and so on.
+(6) Blessing: a mantra that blesses or wishes well. Example: सुचक्षा अहमक्षिभ्यां ॥ (*sucakṣā ahamakṣibhyāṃ ‖*) and so on.
+(7) Oath and imprecation: a vow, and a curse wishing evil on another. For both the present Ṛk itself is given as the example. Example: अद्या मुरीय यदि यातुधानो अस्मि ॥ (*adyā murīya yadi yātudhāno asmi ‖*) अधा स वीरैर्दशभिर्वियूयाः । (*adhā sa vīrairdaśabhirviyūyāḥ |*) and so on.
+(8) A statement of someone's state: a description or mention of some matter. Example: न मृत्युरासीदमृतं न तर्हि । (*na mṛtyurāsīdamṛtaṃ na tarhi |*) तम आसीत्तमसा गूळमग्रे ॥ (*tama āsīttamasā gūḷamagre ‖*) and so on.
+(9) Lament: grieving. Example: सुदेवो आद्य प्रपतेदनावृत् ॥ (*sudevo ādya prapatedanāvṛt ‖*) न विजानामि यदि वेदमस्मि ॥ (*na vijānāmi yadi vedamasmi ‖*) and so on.
+(10) Censure: a mantra containing censure or praise. Example: केवलाघो भवति केवलादी ॥ (*kevalāgho bhavati kevalādī ‖*) भोजस्येदं पुष्करिणीव वेश्म (*bhojasyedaṃ puṣkariṇīva veśma*) (here both censure of gambling and praise of agriculture) and so on. The mantras given above as examples are the opening words of the respective Ṛks. The whole…
+
 ---
 
-**Progress note:** Done through printed p. 257. pp. 252-257 (batch API)
+**Progress note:** Done through printed p. 263. pp. 258-263 (batch API)
