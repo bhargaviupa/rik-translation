@@ -28784,6 +28784,292 @@ The pious, desiring his protection, magnify him by ample and pleasure-yielding (
 - तं इत् (*taṃ it*)—that very Indra
 - वर्धंतु (*vardhaṃtu*)—let them strengthen
 
+### Printed p. 690
+
+##### भावार्थ (Bhāvārtha)
+
+On the sacrificial days called Trikadruka, namely Jyotis, Go and Āyus, the gods made Indra, the one who makes (them) aware, an object of worship. May our praises make that same Indra, who ever causes the worshippers to grow, flourish.
+
+##### English translation
+The god propitiate the superintending adorable (Indra) at the Trikadruka rites. May our praises magnify him who is ever the magnifier (of his worshippers).
+
+##### विशेषविषयगळु (Special Topics)
+
+तं इत् वर्धंतु नो गिरः (*taṃ it vardhaṃtu no giraḥ*)—May our words in the form of praise make that same Indra grow. To say that praises and hymns make the deities grow is especially customary in the Ṛgveda. "May they make him grow" means that the deities are pleased by the praises we make, in the form of the recital of their qualities, and become full of enthusiasm. In worldly dealings too, if we praise a man he is not only pleased but his enthusiasm doubles. In battle and the like it is known to everyone that warriors who are fighting are encouraged with words of praise. In the same way, it has become established that when the deities are praised they are pleased and attain growth. To support this, Yāska has cited two Vedic sentences, तमिद्वर्धंतु नो गिरः । तं वर्धयंत नो गिरः (*tamidvardhaṃtu no giraḥ | taṃ vardhayaṃta no giraḥ*) (Ni. 1-10).
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तो॒ता यत्ते॒ अनु॑व्रत उ॒क्थान्य॑तु॒था द॒धेः ।  
+> शुचिः॑ पाव॒क उ॑च्यते॒ सो अद्भु॑तः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोता । यत् । ते । अनुव्रतः । उक्तानि । ऋतुथा । दधे ।  
+> शुचिः । पावकः । उच्यते । सः । अद्भुतः ॥ १९ ॥
+
+### Printed p. 691
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यस्य ते तव स्तोतानुव्रतोऽनुकूलकर्मा सन्मृतुथा ऋतुषु
+> काले काल उक्थानि शस्त्रादि दधे विधत्ते करोति ॥ लोपस्त आत्मनेपदेष्टिति तलोपः ॥
+> परोऽर्धर्चः परोक्षकृतः । स इंद्रोऽद्भुत आश्चर्यभूतः शुचिः शुद्धः पावकोऽन्येषामपि शोधक उच्यते । स्तोतृभिः स्तूयते ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the worshipper of you, who is favourable in his rites (अनुव्रतः (*anuvrataḥ*)), performs the ukthas, the śastras and the like, in each season, at the proper time (ऋतुथा (*ṛtuthā*)). The latter half of the verse is in the third person (परोक्षकृतः (*parokṣakṛtaḥ*)): that Indra is called wonderful, that is, a marvel; pure; and a purifier, one who cleanses others also. He is praised by the worshippers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् ते (*yat te*)—of you, whose
+- स्तोता (*stotā*)—the praiser
+- अनुव्रतः (*anuvrataḥ*)—having rites favourable to you
+- ऋतुथा (*ṛtuthā*)—in accordance with the several seasons
+- उक्तानि (*uktāni*)—the śastra-mantras
+- दधे (*dadhe*)—makes
+- सः (*saḥ*)—such you
+- अद्भुतः (*adbhutaḥ*)—a marvel
+- शुचिः (*śuciḥ*)—pure
+- पावकः (*pāvakaḥ*)—a purifier
+- उच्यते (*ucyate*)—are you praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you whose praiser, being favourable in his rites to you, makes the śastra-mantras suited to the several seasons: such a you are praised as a marvel, as pure, and as a purifier.
+
+##### English translation
+Your worshipper is observant of his duty, inasmuch as he offers prayers in due season; for you are he who is called pure, purifying, wonderful.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदिद्रु॒द्रस्य॑ चेतति य॒ह्वं प्र॒त्नेषु॒ धाम॑सु ।  
+> मनो॒ यत्रा॒ वि तद्द॒धुर्विचे॑तसः ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इत् । रुद्रस्य । चेतति । यह्वं । प्रत्नेषु । धामसु ।  
+> मनः । यत्र । वि । तत् । दधुः । विचेतसः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तदित्तदेव रुद्रस्य । रुद्दुःखं । तस्य द्रावयितुरीश्वरस्य यह्वमपत्यं
+
+##### Gist of the bhāṣya
+
+तदित् (*tadit*) means that very thing, of Rudra. रुत् (*rut*) is sorrow; Rudra is the Lord who drives it away. His यह्वं (*yahvaṃ*) is his offspring, the host of the Maruts.
+
+### Printed p. 692
+
+> मरुत्संघात्मकं । यद्वा । रुद्रशब्देन लक्षणया मरुद्दण उच्यते । रुद्रस्य रुद्रपुत्रस्य मरुद्दणस्य यह्वं । महन्नामैतत् । महत्तदेव बलं प्रत्नेषु चिरंतनेषु
+> धामसु पृथिव्यादिस्थानेषु चेतति । ज्ञायते । वर्तते । यत्र यस्मिन्बलविषये
+> विचेतसो विशिष्टज्ञानः स्तोतारस्तत्पसिद्धं मनो मननसाधनं स्तोत्रं वि दधुः
+> कुर्वंति तदित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Or else, by the word रुद्र (*rudra*) the host of the Maruts is meant by transference; यह्वं (*yahvaṃ*) then belongs to Rudra, that is, to the host of the Maruts, the sons of Rudra. यह्वं (*yahvaṃ*) is a name for "great". That very great strength is known, that is, exists, in ancient places (धामसु (*dhāmasu*)), the stations such as the earth. The construction is: in respect of which strength (यत्र (*yatra*)) the wise (विचेतसः (*vicetasaḥ*)), those of distinguished knowledge, the praisers, offer (वि दधुः (*vi dadhuḥ*)) the well-known मनः (*manaḥ*), the means of thought, that is, the hymn; that very thing (तदित् (*tadit*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—with reference to which host of Maruts
+- विचेतसः (*vicetasaḥ*)—the wise
+- तत् (*tat*)—the well-known
+- मनः (*manaḥ*)—hymn
+- वि दधुः (*vi dadhuḥ*)—make in a special manner
+- तदित् (*tadit*)—that same
+- रुद्रस्य (*rudrasya*)—of Rudra
+- यह्वं (*yahvaṃ*)—the host of Maruts in the form of a son
+- प्रत्नेषु (*pratneṣu*)—in the ancient
+- धामसु (*dhāmasu*)—stations such as the earth
+- चेतति (*cetati*)—is known
+
+##### भावार्थ (Bhāvārtha)
+
+The host of the Maruts, with reference to whom the wise praisers offer the well-known hymn in a special manner: the existence of that same host of Maruts, in the form of the sons of Rudra, is perceptible in all the ancient stations such as the earth.
+
+##### English translation
+The progeny of Rudra (the Maruts) is known in ancient places, and to them the intelligent worshippers offer adoration.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदि॑ मे स॒ख्यमा॒नर॑ इ॒मस्य॑ पा॒ह्यंध॑सः ।  
+> येन॒ विश्वा॒ अति॒ द्विषो॒ अता॑रिम ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । मे । सख्यं । आवरः । इमस्य । पाहि । अंधसः ।  
+> येन । विश्वाः । अति । द्विषः । अतारिम ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मम सख्यं सखित्वं यद्यावरः यद्याभिमुख्येन वृणुयाः तर्हि-
+
+##### Gist of the bhāṣya
+
+O Indra, if you would choose my friendship, my fellowship, with favour (यद्यावरः (*yadyāvaraḥ*)), then….
+
+### Printed p. 693
+
+> मस्यास्य ॥ हलि लोपाभावश्चांदसः ॥ पुरोवर्तिनोऽंधसोऽन्नस्य सोमलक्षणस्य
+> स्वांशं पाहि । पिब ॥ अंधस इति कर्मणि वा षष्ठी । पिबतेश्चांदसः शपो लुक्॥ येन
+> त्वत्पीतेन सोमेन हेतुना वयं विश्वाः सर्वा द्विषो द्वेष्ट्रीः शत्रुसेना
+> अत्यतारिम अतितरेम अतिक्रामेम ॥
+
+**NOTE**
+
+##### Gist of the bhāṣya
+
+Drink your own share of this food (अंधसः (*aṃdhasaḥ*)), which lies before you and is of the nature of soma. The word अंधसः (*aṃdhasaḥ*) may also be a genitive in the sense of the object. By the soma drunk by you, as the cause, we shall overcome, surpass, all the hostile (द्विषः (*dviṣaḥ*)) armies of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदि (*yadi*)—if
+- मे सख्यं (*me sakhyaṃ*)—friendship with us
+- अवरः (*avaraḥ*)—if you desire
+- येन (*yena*)—as the result of drinking which soma
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—enemies
+- अति अतारिम (*ati atārima*)—we shall conquer
+- इमस्य (*imasya*)—of such
+- अंधसः (*aṃdhasaḥ*)—the soma juice
+- पाहि (*pāhi*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, if you desire friendship with us, drink that soma juice as the result of drinking which we shall conquer all our enemies.
+
+##### English translation
+If, (Indra), you choose my friendship, partake of this (sacrificial) food, by which we may pass beyond (the reach of) all adversaries.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒दा त॑ इंद्र गिर्वणः स्तो॒ता भ॑वाति॒ शंत॑मः ।  
+> क॒दा नो॒ गव्ये॒ अश्वै॒ वसौ॑ दधः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कदा । ते । इंद्र । गिर्वणः । स्तोता । भवाति । शंतमः ।  
+> कदा । नः । गव्ये । अश्वे । वसौ । दधः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गीर्वणो गिरां स्तुतीनां संभक्तरिंद्र ते तव स्तोता शतमः
+> सुखतमोऽतिशयेन सुखवान् कदा कस्मिन्काले भवाति । भवेत् । कदा कस्मिंश्च काले
+
+##### Gist of the bhāṣya
+
+O Gīrvaṇas, Indra, who are the recipient of praises: when will your praiser become शंतमः (*śaṃtamaḥ*), most happy, exceedingly full of happiness?
+
+### Printed p. 694
+
+> नोऽस्मान् गव्ये गोसमूहेऽश्वेऽश्वसंघे वसौ निवासभूतेऽन्यस्मिन्नपि धने दधः ।
+> धारयेः ॥
+
+##### Gist of the bhāṣya
+
+And when will you establish us in a herd of cattle, in a troop of horses, in a वसौ (*vasau*), a dwelling, and in other wealth also? Support us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणः (*girvaṇaḥ*)—one who takes delight in praises
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- स्तोता (*stotā*)—praiser
+- कदा (*kadā*)—when
+- शंतमः (*śaṃtamaḥ*)—exceedingly happy
+- भवाति (*bhavāti*)—becomes
+- कदा (*kadā*)—when
+- नः (*naḥ*)—us
+- गव्ये (*gavye*)—in a herd of cattle
+- अश्व्ये (*aśvye*)—in a troop of horses
+- वसौ (*vasau*)—in a dwelling-place
+- दधः (*dadhaḥ*)—do you establish?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who take delight in praises, when will you make your praiser exceedingly happy? When will you establish us in a herd of cattle, in a troop of horses, in the middle of a house?
+
+##### English translation
+When, Indra, who delight in praise, may your worshipper be entirely happy ? When will you establish us in (the affluence of) cattle, of horses, of dwellings ?
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त ते॒ सुष्टु॑ता॒ हरी॒ वृष॑णा वहतो॒ रथं॑ ।  
+> अ॒जु॒र्यस्य॑ म॒दिंत॑मं॒ यमीम॑हे ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । ते । सुस्तुता । हरी इति । वृषणा । वहतः । रथं ।  
+> अजुर्यस्य । मदिन्तमं । यं । ईमहे ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र सुष्टुता शोभनं स्तुत् वृषणौ कामानां वर्षितारौ हरी
+> अश्वावजुर्यस्य जरारहितस्य ते तव रथमिदानीं वहतः । अस्मन्निकटं प्रापयतः ।
+> मदिंतममतिशयेन मदवंतं यं त्वां धनमीमहे याचामहे तस्य त
+> इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+And, O Indra, your two well-praised horses, bulls, showerers of desires, now carry the chariot of you, who are free from old age; they bring it near us. The construction is: of you, the most exhilarating (मदिंतमं (*madiṃtamaṃ*)), exceedingly full of exhilaration, whom we beg (ईमहे (*īmahe*)) for wealth, of such a you the horses carry the chariot.
+
+### Printed p. 695
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- मदिंतमं (*madiṃtamaṃ*)—possessed of exceeding satisfaction
+- यं (*yaṃ*)—from whom
+- ईमहे (*īmahe*)—we beg wealth, of such
+- अजुरस्य (*ajurasya*)—who are free from old age
+- ते (*te*)—your
+- रथं (*rathaṃ*)—chariot
+- सुष्टुता (*suṣṭutā*)—most praiseworthy
+- वृषणा (*vṛṣaṇā*)—granting what is desired
+- हरी (*harī*)—the horses
+- वहतः (*vahataḥ*)—carry
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the horses, most praiseworthy and granting what is desired, carry the chariot of you, who are free from old age, of you, possessed of exceeding satisfaction, from whom we beg wealth.
+
+##### English translation
+Or, when will your renowned and vigorous horses bring the chariot of you, who are exempt from decay, that exhilarating (wealth) which we solicit ?
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमी॑महे पुरुषु॒तं य॒ह्वं प्र॒त्नाभि॑रू॒तिभिः॑ ।  
+> नि ब॒र्हिषि॑ प्रि॒ये स॑द॒दध॑ द्वि॒ता ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ईमहे । पुरुस्तुतं । यह्वं । प्रत्नाभिः । ऊतिभिः ।  
+> नि । बर्हिषि । प्रिये । सदत् । अध । द्विता ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यह्वं महांतं पुरुस्तुतं बहुभिः स्तुतं तमिंद्रं प्रत्नाभिः पुराणीभिरूतिभिस्तृप्तिकरीभिः सोमाहुतिभिर्हेतुभिरीमहे । याचामहे । स चेंद्रः प्रिये
+> प्रीतिकरे बर्हिष्यास्त्रीर्णे दर्भे नि षदत् । निषेदतु । हविःस्वीकरणायोपविशतु ।
+> अधानंतरं द्विता द्वैधं वर्तमानानि चरुपुरोडाशादीनि सोमलक्षणानि च हवींषि
+> स्वीकरोत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+We beg that Indra, great (यह्वं (*yahvaṃ*)) and praised by many (पुरुस्तुतं (*purustutaṃ*)), by means of ancient (प्रत्नाभिः (*pratnābhiḥ*)) protections (ऊतिभिः (*ūtibhiḥ*)), that is, satisfying oblations of soma as the cause. And may that Indra sit down on the strewn dear, pleasing sacred grass (बर्हिषि (*barhiṣi*)); may he take his seat to receive the oblation. Then (अध (*adha*)), the remainder to be supplied is: may he accept the oblations existing in two ways (द्विता (*dvitā*)), the cooked offerings, the purodāśa cakes and the like, and the oblations of the nature of soma.
+
 ---
 
-**Progress note:** Done through printed p. 689. pp. 684-689 (batch API)
+**Progress note:** Done through printed p. 695. pp. 690-695 (batch API)
