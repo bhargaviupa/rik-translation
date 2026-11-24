@@ -32217,6 +32217,270 @@ To this Indra, bring forth with force, O priests, the praise that is offered by 
 - रातयः (*rātayaḥ*)—the gifts
 - भद्राः (*bhadrāḥ*)—praiseworthy
 
+### Printed p. 710
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, since Indra enjoys your praises, therefore recite the words of commendation addressed to him. The priests cause the great food of Indra, the possessor of Soma, which has the form of Soma, to increase by the śastra mantras. The gifts of Indra are praiseworthy.
+
+##### English translation
+Present the offering of praise to Indra, since he enjoys it ; (the priests) augment the ample food of the Soma-loving Indra with their recited hymns; Indra's gifts are worthy of praise.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यु॒जो अस॑मो॒ नृभि॒रेकः॑ कृ॒ष्णीर॒यास्यः॑ ।  
+> पू॒र्वीरति॒ प्र वा॑वृधे॒ विश्वा॑ जा॒तान्योज॑सा भ॒द्रा इंद्र॑स्य  ॒॑
+> रातयः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयुजः । असमः । नृभिः । एकः । कृष्णीः । आयास्यः ।  
+> पूर्वीः । अति । प्र । ववृधे । विश्वा । जातानि । ओजसा । भद्राः । इंद्रस्य । रातयः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयुजोऽसहायोऽसमोऽसदृशोऽन्यैर्नृभिर्देवैरेको मुख्योऽयास्य
+> उपक्षपयितुमशक्यः पूर्विः कृष्टिः पूर्वतन्यः प्रजा अति प्र ववृधे । अतिप्रवर्धते।
+> किंच विश्वा सर्वाणि जातानीदानीमुत्पन्नान्योजसा बलेनाति प्र वावृधे । भद्रा
+> हींद्रस्य रातयः । अथवा । आयमृषिरयुजोऽसहायोऽन्यैरसदृश एक एव सन्
+> पूर्विः प्रजा जातानि सर्वाण्यप्यतिक्रम्य वर्धते । शिष्टं समानं ॥
+
+##### Gist of the bhāṣya
+
+He is अयुजः (*ayujaḥ*), without a helper, असमः (*asamaḥ*), without an equal among the other nṛs, the gods; he alone is the chief; अयास्यः (*ayāsyaḥ*), one who cannot be made to fall away. He grows beyond the former peoples. Further, he grows beyond all beings that are now born, by his strength, his ojas. For the gifts of Indra are auspicious. Or else: this seer, without a helper and unlike the others, being alone, grows beyond all the former peoples and born beings. The rest is the same. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयुजः (*ayujaḥ*)—one who does not need the help of others
+- असमः (*asamaḥ*)—unlike any other
+- नृभिः (*nṛbhiḥ*)—among the gods who are leaders (or among the people)
+- एकः (*ekaḥ*)—the chief
+- अयास्यः (*ayāsyaḥ*)—the invincible
+
+### Printed p. 711
+
+Indra (or the seer)
+
+- पूर्विः कृष्टीः (*pūrviḥ kṛṣṭīḥ*)—among all the former peoples
+- अति प्र ववृधे (*ati pra vavṛdhe*)—has gained exceeding greatness
+- विश्वा (*viśvā*)—all
+- जातानि (*jātāni*)—among all the beings that are born
+- ओजसा (*ojasā*)—by his own strength became pre-eminent
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- भद्राः (*bhadrāḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who needs no help from others, who is unlike any other, who is the chief among the gods who are leaders, who is invincible, has gained exceeding greatness among all the former peoples. By his own strength he became pre-eminent among all the beings that are born. The gifts of Indra are auspicious and worthy of praise.
+
+##### English translation
+Without a fellow and unlike the other gods, he alone, uncoquerable, surpasses the men of former times, he surpasses in might all beings; Indra's gifts are worthy of praise.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अहि॑तेन चि॒दर्व॑ता जी॒रदा॑नुः सिषासति ।  
+> प्र॒वाच्य॑मिंद्र॒ तत्तव॑ वी॒र्या॑णि करिष्य॒तो भ॒द्रा इंद्र॑स्य  ॒॑
+> रातयः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहितेन । चित् । अर्वता । जीरदानुः । सिसासति ।  
+> प्रवाच्यं । इंद्र । तत् । तव । वीर्याणि । करिष्यतः । भद्राः । इंद्रस्य । रातयः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं जीरदानुः क्षिप्रप्रदान इंद्रोऽहितेनायोजितेनाप्रेरितेन चिदर्वतारणवताश्वेन सिषासति । संभक्तुमिच्छति । तस्माद्दे इंद्र वीर्याणि सामर्थ्यानि
+> करिष्यतस्तव महत्त्वं प्रवाच्यं । स्तुत्यमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This जीरदानुः (*jīradānuḥ*), Indra who gives quickly, wishes to share, सिषासति (*siṣāsati*), with a steed that is unharnessed, unurged. Therefore, O Indra, your greatness, who are about to perform heroic deeds, that is, deeds of power, is प्रवाच्यं (*pravācyaṃ*), worthy of praise. **NOTE**
+
+### Printed p. 712
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जीरदानुः (*jīradānuḥ*)—Indra, who is of a nature to give quickly
+- अहितेन चित् (*ahitena cit*)—even though not harnessed
+- अर्वता (*arvatā*)—with his horse
+- सिषासति (*siṣāsati*)—wishes to give
+- इंद्र (*iṃdra*)—O Indra
+- वीर्याणि (*vīryāṇi*)—heroic deeds
+- करिष्यतः (*kariṣyataḥ*)—who wish to perform
+- तत् तव (*tat tava*)—that greatness of yours
+- प्रवाच्यं (*pravācyaṃ*)—is worthy of praise
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the special gifts
+- भद्राः (*bhadrāḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is of a nature to give quickly, wishes to give together with his horse, even though it is not harnessed. O Indra, your greatness, who wish to perform heroic deeds, is worthy of praise. The special gifts of Indra are auspicious and praiseworthy.
+
+##### English translation
+He, the swift giver, wishes to bestow blessings (upon us) with his unurged courser ; your greatness, Indra, as you are about to display your powers, should be proclaimed ; Indra's gifts are worthy of praise.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑हि कृ॒णवा॑म त॒ इंद्र॒ ब्रह्मा॑णि॒ वर्ध॑ना ।  
+> येभिः॑ शविष्ठ चा॒कनो॑ भ॒द्रमि॒ह श्र॑वस्य॒ते भ॒द्रा इंद्र॑स्य  ॒॑
+> रातयः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । कृणवाम । ते । इंद्र । ब्रह्माणि । वर्धना ।  
+> येभिः । शविष्ठ । चाकनः । भद्रं । इह । श्रवस्यते । भद्राः । इंद्रस्य । रातॆयः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आ याहि । आगच्छ । ते कृणवाम । किं । ब्रह्माणि परिवृढानि स्तुतिलक्षणानि कर्माणि । कीदृशानि । वर्धनोत्साहवर्धकानि । येभिर्यैः कर्मभिर्हे
+> शविष्ठातिशयेन बलवन्निंद्र चाकनः कामयसे । किं । भद्रं कर्तुं । कस्मै ।
+> श्रवस्यतेऽन्नमिच्छते स्तोत्रे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come. We perform for you ब्रह्माणि (*brahmāṇi*), mighty acts consisting of praise. Of what kind are they? They are वर्धना (*vardhanā*), increasers of your zeal. By these acts, O शविष्ठ (*śaviṣṭha*), exceedingly mighty Indra, you desire चाकनः (*cākanaḥ*). What do you desire? To do good. To whom? To the praiser who desires food, श्रवस्यते (*śravasyate*).
+
+### Printed p. 713
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शनिष्ट (*śaniṣṭa*)—exceedingly powerful
+- इंद्र (*iṃdra*)—O Indra
+- योभिः (*yobhiḥ*)—impelled by which praise-acts of ours
+- श्रवस्यते (*śravasyate*)—to the sacrificer who offers you oblations
+- इह (*iha*)—here
+- भद्रं (*bhadraṃ*)—to bring about good fortune
+- चाकनः (*cākanaḥ*)—you desire, such as you are
+- वर्धना (*vardhanā*)—which increase your zeal
+- ब्रह्माणि (*brahmāṇi*)—the praise-acts
+- ते (*te*)—addressed to you
+- कृणवाम (*kṛṇavāma*)—we perform
+- आ याहि (*ā yāhi*)—be gracious
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the acts of giving
+- भद्राः (*bhadrāḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of exceeding might, we perform for you, addressing you, the praise-acts that increase your zeal, impelled by which of our praise-acts you desire to bring about good fortune here for the sacrificer who offers you oblations. Be gracious. The acts of giving of Indra are auspicious.
+
+##### English translation
+Indra, come hither ; let us perform for you our sacred rites augmenting vigour ; by which (rites), most mighty one, you desire to bless him who wishes for food ; Indra's gifts are worthy of praise.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धृ॒ष॒तश्चि॑द्दृ॒षन्मनः॑ कृ॒णोषीं॑द्र॒ यत्त्वं ।  
+> ती॒व्रैः सोमैः॑ सपर्य॒तो नमो॑भिः प्रति॒भूष॑तो भ॒द्रा ॑ ॒॑
+> इंद्रस्य रातयः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धृषतः । चित् । धृषत् । मनः । कृणोषि । इंद्र । यत् । त्वं ।  
+> तीवैः । सोमैः । सपर्यतः । नमःभिः । प्रतिभूषतः । भद्राः । इंद्रस्य । रातॆयः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र धृषतश्चिद्धृष्टादपि धृषदृष्टं मनः कृणोषि । अत्यंतं धृष्टं
+> करोषि । यद्यस्मात्त्वं तीव्रैर्मदजनकैः सोमैः सपर्यतो पूजयतो
+> नमोभिर्नमस्कारैश्च प्रतिभूषतोऽलंकुर्वतो यजमानस्याभिमतं दित्ससीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you make the mind धृषत् (*dhṛṣat*) more bold than the bold, extremely bold, because you wish to give the desired object to the sacrificer who worships you with sharp, that is, intoxicating, Soma juices and adorns you with salutations. The words "you wish to give" are to be supplied.
+
+### Printed p. 714
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—for which reason
+- त्वं (*tvaṃ*)—you
+- तीव्रैः (*tīvraiḥ*)—intoxicating
+- सोमैः (*somaiḥ*)—with Soma juices
+- सपर्यतः (*saparyataḥ*)—who worships
+- नमोभिः (*namobhiḥ*)—with salutations
+- प्रतिभूषतः (*pratibhūṣataḥ*)—and adorns; to such a sacrificer you wish to give the desired objects, and therefore
+- धृषतश्चित् (*dhṛṣataścit*)—than a mind that is extremely steady
+- धृषत् (*dhṛṣat*)—more steady in resolve
+- मनः (*manaḥ*)—mind
+- कृणोषि (*kṛṇoṣi*)—you make
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- भद्राः (*bhadrāḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for which reason you wish to give the desired objects to the sacrificer who worships you with intoxicating Soma juices and adorns you with salutations, therefore you make your mind more steady in resolve than an extremely steady mind. The gifts of Indra are auspicious and praiseworthy.
+
+##### English translation
+You have made your mind, Indra, more resolute than the resolute, since you (wish to give the desires) of him who worships you with the intoxicaing Soma juices and adorns you with adorations; Indra's gifts are worthy of praise.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ चष्ट॒ ऋची॑षमोऽव॒ता इ॑व॒ मानु॑षः ।  
+> जु॒ष्ट्वी दक्ष॑स्य सो॒मिनः॒ सखा॑यं कृणुते॒ युजं॑ भ॒द्रा ॑ ॒॑
+> इंद्रस्य रातयः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । चष्टे । यचीषमः । अवतान् इव । मानुषः ।  
+> जुष्ट्वी । दक्षस्य । सोमिनः । सखायं । कृणुते । युजं । भद्राः । इंद्रस्य । तातयः ॥
+
+### Printed p. 715
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्र ऋचेषम ऋचा स्तुत्या समस्तथा परिच्छिन्नः सन्नव चष्टे ।
+> पश्यत्यनुग्रहेणास्मान् । तत्र दृष्टांतः । मानुषो मनुष्योऽवतानवटान् कूपादिप्रदेशानिव । दृष्ट्वा च जुष्ट्वी प्रीतोऽयं दक्षस्य प्रवृद्धस्य सोमिनो यजमानस्य युजं युज्यमात्मानं सखायं कृणुते । करोति । तस्याभिमतं साधयतीत्यर्थः । अथवा । तृषितो मनुष्यो जलपूर्णानवटानिव स्तुतः सन् पश्यति सोमं
+> पातुं । पश्चादवेक्षितं तं युज्यमानं सोमं जुष्ट्वी सेवित्वा दक्षस्य सोमिनः
+> सखायं कुरुते ॥
+
+##### Gist of the bhāṣya
+
+This Indra, ऋचीषमः (*ṛcīṣamaḥ*), being delimited by praise, looks down, that is, regards us with favour. An example: as a man looks at अवतान् (*avatān*), pits such as wells. Having seen, he is pleased, जुष्ट्वी (*juṣṭvī*), and makes the sacrificer, who is energetic and has Soma, a friend, one joined to himself; that is, he accomplishes his wish. Or else: as a thirsty man looks at wells full of water, so he, being praised, looks to drink the Soma; afterwards, having enjoyed the Soma that has been prepared and looked upon, he makes the energetic Soma-owner his friend. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मानुषः (*mānuṣaḥ*)—a thirsty man
+- अवतान् इव (*avatān iva*)—as one looks bending over wells with water
+- ऋचीषमः (*ṛcīṣamaḥ*)—Indra, who is pleased by praises
+- अव चष्टे (*ava caṣṭe*)—looks bending over the sacrificer
+- जुष्ट्वा (*juṣṭvā*)—being pleased by his rite
+- दक्षस्य (*dakṣasya*)—of the one skilled in rites
+- सोमिनः (*sominaḥ*)—and possessed of Soma, the sacrificer
+- युजं (*yujaṃ*)—who is to be joined to himself
+- सखायं (*sakhāyaṃ*)—as a friend
+- कृणुते (*kṛṇute*)—he makes
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातॆयः (*rātèyaḥ*)—the gifts
+- भद्राः (*bhadrāḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+As a thirsty man looks bending over wells that hold water, so Indra, who is fond of praises, looks bending over the sacrificer who has Soma. Being pleased by his rite, he makes the sacrificer, who is skilled in rites and possesses Soma, a friend to be joined to himself. The gifts of Indra are praiseworthy.
+
+##### English translation
+Indra, who is well-deserving of the hymn, looks down (with favour) upon us as a (thirsty) man (looks down) on wells ; and being well-pleased he makes the energetic Soma-offerer his friend ; Indra's gifts are worthy of praise.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ त इंद्र वी॒र्यं॑ दे॒वा अनु॒ क्रतुं॑ ददुः ।  
+> भुवो॒ विश्व॑स्य॒ गोप॑तिः पुरुष्टुत भ॒द्रा इंद्र॑स्य रा॒तयः॑ ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 709. Mandala 8 sukta 61 rks 15-18; sukta 62 intro and rk 1
+**Progress note:** Done through printed p. 715. Mandala 8 sukta 62 rks 1 (end) to 7 (samhita)
