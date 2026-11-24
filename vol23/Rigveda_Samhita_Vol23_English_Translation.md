@@ -25439,6 +25439,248 @@ O Aśvins of excellent knowledge, protect us for द्युम्नाय (*d
 - शवसे (*śavase*)—for the acquisition of strength
 - प्र (*pra*)—protect
 
+### Printed p. 613
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृसह्याय (*nṛsahyāya*)—to be enjoyed by human beings
+- शर्मणे (*śarmaṇe*)—for the acquisition of happiness
+- प्र (*pra*)—protect
+- दक्षाय (*dakṣāya*)—for our prosperity
+- प्र (*pra*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, endowed with excellent wisdom, protect us so that we may obtain shining food or fame. Protect us fully also for the acquisition of strength, for the acquisition of the happiness that human beings are to enjoy, and for our prosperity.
+
+##### English translation
+Endowed with great wisdom, preserve us for fame, for strength, for victory, for happiness, for prosperity.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्नू॒नं धी॒भिर॑श्विना पि॒तुर्योना॑ नि॒षिद॑थः ।  
+> यद्वा॑ सु॒म्मेभि॑रुक्थ्या ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । नूनं । धीभिः । अश्विना । पितुः । योना । निसीदथः ।  
+> यत् । वा । सुम्मेभिः । उक्ष्या ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ पितुः पालयितुर्दुलोकस्य संबंधिनि योना योन् स्थाने
+> यद्यदि धीभिः कर्मभिः सह निषिदथः निवसथः । यद्वा यदि वा हे उक्कोक्षौ
+> प्रशस्य सुम्मेभिः सुम्मैः सुखैः सह निवसथः । तदास्माभिः स्तुतौ संतावागच्छतमिति
+> शेषः । अथवा । पितुः पालयितुर्यजमानस्य संबंधिनि योन् यज्ञगृहे धीभिः
+> स्तुतिभिः सार्धं यदि निवसथः यदि च सुम्मैः सुखकरैर्हविर्भिश्च सह निवसथः तर्हागच्छतं । नूनमिति पदपूरणः । उक्तं च यास्केन । अथापि पदपूरणः । नूनं सा
+> ते प्रति वरं जरित्रे । नि. १-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, if you dwell together with *dhībhiḥ*, "with rites", in the place (*yonā*) of the father, that is, of heaven the protector (*pituḥ*, "the protector"); or if you dwell together with *sumnaiḥ*, pleasures, being praised (*ukthyā*, "worthy of praise"), then, being praised by us, come to us; "come" is to be supplied. Or else: *pituḥ* is the protector, the sacrificer; if you dwell in his sacrificial house together with praises, or together with oblations that bring happiness, then come. The word नूनं (*nūnaṃ*) is a mere filler of the pada. Yāska has said: अथापि पदपूरणः । नूनं सा ते प्रति वरं जरित्रे (*athāpi padapūraṇaḥ | nūnaṃ sā te prati varaṃ jaritre*) (Ni. 1-7).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- पितुः (*pituḥ*)—of the protecting heaven
+- योना (*yonā*)—in the place
+
+### Printed p. 614
+- यत् (*yat*)—if perhaps
+- धीभिः (*dhībhiḥ*)—engaged in your rites
+- निषीदर्थः (*niṣīdarthaḥ*)—you sit
+- यद्वा (*yadvā*)—or if perhaps
+- उक्ता (*uktā*)—praised by us
+- सुम्मेभिः (*summebhiḥ*)—even if you are filled with happiness
+- नूनं (*nūnaṃ*)—(to us) surely come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, even if you sit, engaged in your rites, in the place of the protecting heaven, or if, praised by us, you are filled with happiness, surely come to us.
+
+##### English translation
+Although, Aswins, you be seated in the region of the paternal (heaven engaged in) holy rites, or, glorified by us, (abide there) with pleasures, (yet come hither).
+
+## Sūkta 10 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्स्थ इति षडृचं पंचमं सूक्तं कण्वपुत्रस्य प्रगाथस्यार्षमाश्विनं । आद्या
+> बृहती । द्वितीया मध्येज्योतिस्त्रिष्टुप् यतोऽष्टकस्ततो ज्योतिः । अनु. ९-८ ।
+> इत्यक्तलक्षणसद्भावात् । तृतीयानुष्टुप् । चतुर्थास्तारपंक्तिः । अंत्यौ चेदास्तारपंक्तिः । अनु ८.७ । इति हि तल्लक्षणं। पंचमी बृहती षष्ठि सतोबृहती । तथा चानुक्रांतं । यत्स्थः षट् प्रगाथोऽपश्यद्वहती मध्येज्योतिरनुष्टुबास्तारपंक्तिः
+> प्रगाथ इति ॥ प्रातरनुवाकाश्विने क्रत्वा बार्हते छंदस्याश्विनशस्त्रे चेदं सूक्तं ।
+> सूत्रते हि । द्युन्ना वां यत्स्थ इति बार्हतं । आ. ४-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta यत्स्थ (*yatstha*) has six ṛks and is the fifth sūkta. Its seer is Pragātha, son of Kaṇva; its deity is the Aśvins. The first ṛk is Bṛhatī. The second is Madhyejyotiḥ Triṣṭubh, because the stated mark is present: where there is an octosyllabic pāda, there is *jyotiḥ* (Anu. 9-8). The third is Anuṣṭubh. The fourth is Āstārapaṅkti; its mark is that the last two are (twelve-syllabled) (Anu 8.7). The fifth is Bṛhatī; the sixth is Satobṛhatī. So the Anukramaṇī says: प्रगाथोऽपश्यद्वहती मध्येज्योतिरनुष्टुबास्तारपंक्तिः प्रगाथ इति (*pragātho 'paśyadvahatī madhyejyotiranuṣṭubāstārapaṃktiḥ pragātha iti*). This sūkta is used in the Prātaranuvāka, for the Āśvina rite, in the Bārhata metre, and in the Āśvinaśastra. For it is taught in the sūtra: द्युन्ना वां यत्स्थ इति बार्हतं (*dyunnā vāṃ yatstha iti bārhataṃ*) (Ā. 4-15).
+
+##### Anuvāda
+
+This sūkta यत्स्थः (*yatsthaḥ*) is the fifth sūkta in the second anuvāka. It has six ṛks. Its seer is Pragātha, son of Kaṇva; its deity is the Aśvin deities. The first ṛk of this sūkta is in the Bṛhatī metre. The second is in the metre called Madhyejyotiṣ-Triṣṭubh. If a ṛk has four pādas, of which three have twelve syllables each and one has eight syllables, that ṛk is in the metre called *jyotiḥ*.
+
+### Printed p. 615
+If that octosyllabic pāda is not the first or last pāda but a middle pāda, that is, the second or third, that ṛk is called Madhyejyotiḥ. This mark of the metre is stated in the Chandonukramaṇikā (Anu. 9-8). The third ṛk is in the Anuṣṭubh metre; the fourth is in the metre called Āstārapaṅkti. If a ṛk has four pādas, two with eight syllables each and two with twelve syllables each, and the twelve-syllabled pādas are the last pādas, that ṛk is called Āstārapaṅkti; this mark of the metre is stated in the Chandonukramaṇikā (Anu. 8-7). The fifth ṛk is in the Bṛhatī metre. The Anukramaṇikā says: यत्स्थः षट् प्रगाथोऽपश्यद्बृहती मध्येज्योतिरनुष्टुबास्तारपंक्तिः प्रगाथः (*yatsthaḥ ṣaṭ pragātho 'paśyadbṛhatī madhyejyotiranuṣṭubāstārapaṃktiḥ pragāthaḥ*). It is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, द्युम्ना वां यत्स्थ इति बार्हतं (*dyumnā vāṃ yatstha iti bārhataṃ*) (4-15), that this sūkta is applied at the time of reciting the Prātaranuvāka mantras, for the ṛks in the Bṛhatī metre belonging to the Āśvina rite and for the Aśvinaśastra mantras.
+
+##### Particulars
+
+Sūkta 10. Maṇḍala 8; Anuvāka 2; Sūkta 10. Aṣṭaka 5; Adhyāya 8; Varga 34. Number of ṛks in the sūkta: 6. Ṛṣi: Pragātha Kāṇva. Devatā: Aśvins. Chandas: 1, 5 Bṛhatī; 2 Madhyejyotiḥ; 3 Anuṣṭubh; 4 Āstārapaṅkti; 6 Satobṛhatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्स्थो दी॒र्घप्र॑सद्मनि॒ यद्वा॒दो रो॑च॒ने दि॒वः ।  
+> यद्वा॑ समु॒द्रे अध्याकृ॑ते गृ॒हेऽत॒ आ या॑तमश्विना ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । स्थः । दीर्घप्रसद्मनि । यत् । वा । अदः । रोचने । दिवः ।  
+> यत् । वा । समुद्रे । अधि । आकृते । गृहे । अतः । अ । यातं । अश्विना॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ दीर्घप्रसद्मनि । प्रसीदंत्येषु देवा इति प्रसद्मानो यज्ञगृहाः ।
+> दीर्घा आयताः प्रसद्मानो यस्मिन् तस्मिल्लोके यद्यदि स्थः भवथः वर्तेथे ।
+
+##### Gist of the bhāṣya
+
+O Aśvins, *dīrghaprasadman*: the *prasadmans* are the sacrificial houses, because the gods sit down (*prasīdanti*) in them; the world in which the *prasadmans* are long and extensive. If you are, if you exist, in that world.
+
+### Printed p. 616
+
+> यद्वा यदि वादोऽमुष्मिन्दिवो द्युलोकस्य संबंधिनि रोचने रोचमाने स्थाने
+> भवथः । यद्वा यदि वा समुद्रेऽंतरिक्षे । समुद्रवंत्यस्मादाप इति समुद्रमंतरिक्षं । तस्मिन् । आकृते निर्मिते गृहेऽधिवसथः । अतस्त्रितयादपि स्थानात् हे अश्विनौ
+> आ यातं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+Or if you are in that shining place which belongs to the heaven-world over there; or if you dwell in the house built in the *samudra*, the atmosphere (the atmosphere is called *samudra* because the waters flow from it). Therefore, from these three places, O Aśvins, come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- दीर्घप्रसद्मनि (*dīrghaprasadmani*)—in the extensive sacrificial house
+- यत् (*yat*)—if perhaps
+- स्थः (*sthaḥ*)—you are
+- यद्वा (*yadvā*)—or
+- अदः दिवः (*adaḥ divaḥ*)—belonging to this heaven-world
+- रोचने (*rocane*)—even if you are in the shining place
+- यद्वा (*yadvā*)—or if perhaps
+- समुद्रे अधि (*samudre adhi*)—in the atmosphere
+- आकृते (*ākṛte*)—built
+- गृहे (*gṛhe*)—even if you dwell in the house
+- अतः (*ataḥ*)—from all these regions
+- आ यातं (*ā yātaṃ*)—graciously come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whether you are perhaps in the extensive sacrificial house, or in the shining place belonging to this heaven-world, or perhaps dwell in the house built in the atmosphere, from all these regions graciously come to us.
+
+##### English translation
+Whether, Aswins, you are at present where the spacious halls of sacrifice (abound), whethre you are in yonder bright sphere of heaven, or whether you are in a dwelling constructed above the firmament, come hither.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॑ य॒ज्ञं मन॑वे संमिमि॒क्षथु॑रे॒वेत्क॒ण्वस्य॑  
+> बोधतं ।  
+> बृह॒स्पतिं॒ विश्वा॑स्दे॒वा अ॒हं हु॑व॒ इंद्रा॒विष्णू॑ अ॒श्विना॑वाशु॒हेष॑सा ॥ २ ॥
+
+### Printed p. 617
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । यज्ञं । मनवे । संमिमिक्षथुः । एव । इत् । काण्वस्य ।  
+> बोधतं ।  
+> बृहस्पतिं । विश्वान् । देवान् । अहु । हुवे । इंद्राविष्णू इति । अश्विनौ ।  
+> आशुहेषसा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ यद्वा यथा वा येन वा प्रकारेण मनवे प्रजापतये यजमानाय यज्ञं संमिमिक्षथुः संसिक्तवंतौ युवां कृतवंतौ एनेदेवमेव
+> काण्वस्य कण्वगोत्रस्य मनु यज्ञं कर्तुं बोधतं । अवगच्छतं । अपि च बृहस्पतिं
+> बृहतां देवानां पतिं देवपुरोहितं विश्वान् सर्वान्मित्रादीन्देवांश्चंद्राविष्णू
+> चाषुहेषसा शीघ्राश्वा । यद्वा ॥ हेष्य शब्दे ॥ शीघ्रं सर्वत्र शब्दमानौ स्तूयमानावश्विनौ चाहं हुवे । आह्वये ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, in whatever way you have infused (*sammimikṣathuḥ*), that is, brought about, the sacrifice for Manu, Prajāpati, the sacrificer, in just that way know (*bodhatam*) that you are to perform the sacrifice for the Kāṇva, of the Kaṇva lineage. Moreover I invoke Bṛhaspati, the lord of the great gods, the priest of the gods; all the gods, Mitra and the rest; Indra and Viṣṇu; and the Aśvins, *āśuhesasā*, of swift horses. Or else, from the root *heṣ* in the sense of sound: the Aśvins who are quickly sounding everywhere, being praised. I invoke them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यद्वा (*yadvā*)—in whatever way
+- मनवे (*manave*)—for the sacrificer, who is of the nature of Prajāpati
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- संमिमिक्षथुः (*saṃmimikṣathuḥ*)—you brought about
+- एनेत् (*enet*)—in just that way
+- काण्वस्य (*kāṇvasya*)—of me, born in the Kaṇva lineage; know that my sacrifice too is to be brought about
+- बोधतं (*bodhataṃ*)—know
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- विश्वान् देवान् (*viśvān devān*)—all the gods, Mitra and the rest
+- इंद्रा विष्णू (*iṃdrā viṣṇū*)—Indra and Viṣṇu
+- आशुहेषसा (*āśuheṣasā*)—having swift-going horses
+- अश्विनौ (*aśvinau*)—the Aśvin deities
+- अहं (*ahaṃ*)—I
+- हुवे (*huve*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, in whatever way you brought about the sacrifice for the sacrificer who is of the nature of Prajāpati, in just that way know that my sacrifice too, I who am born in the Kaṇva lineage, is to be brought about. I pray to and call Bṛhaspati, all the gods beginning with Mitra, Indra and Viṣṇu, and the Aśvin deities, who have swift-going horses.
+
+##### English translation
+In like manner, as you have prepared. Aswins, the sacrifice for
+
+### Printed p. 618
+Manu, consent (to prepare it) for the son of Kanwa ; for I invoke Brihaspati, the Universal gods, Indra and Vishnu, and the Aswins with rapid steeds.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्या न्व१॒॑श्विना॑ हुवे सु॒दंस॑सा गृ॒भे कृ॒ता ।  
+> ययो॒रस्ति॒ प्र णः॑ स॒ख्यं दे॒वेष्वध्याप्यं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्या । नु । अश्विना । हुवे । सुदंससा । गृभे । कृता ।  
+> ययोः । अस्ति । प्र । नः । सख्यं । देवेषु । अधि । आप्यं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्या त्र्य पूर्वोक्तगुणावश्विन् नु क्षिप्रमहं हुवे । आह्वयामि । कीदृशौ ।
+> सुदंससा शोभनकर्माणौ गृभे ग्रहे ग्रहाणायास्माभिर्दत्तानां हविषां स्वीकरणायास्मभ्यं धनदानाय वा कृता कृत् प्रादुर्भूतौ देवेषु मध्यॆ ॥ अधिः
+> सप्तम्यर्थानुवादी ॥ ययोरश्विनोराप्यमाप्तव्यं नोऽस्माकं सख्यं सखित्वं प्रास्ति
+> प्रभवति उत्कर्षेण वर्तते तौ हुव इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+त्या (*tyā*) means those two Aśvins, of the qualities stated before; quickly (नु (*nu*)) I invoke them. What are they like? *Sudaṃsasā*: of good deeds. *Gṛbhe*: for the grasping, for receiving the oblations given by us, or for giving us wealth; *kṛtā* is said to mean "appeared"; (they are) among the gods. **NOTE** The word अधि (*adhi*) merely restates the sense of the locative. The construction is: I invoke those Aśvins whose attainable friendship (*sakhyam*) with us prevails, is present in excellence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेषु अधि (*deveṣu adhi*)—among all the gods
+- ययोः (*yayoḥ*)—of which Aśvin deities
+- सख्यं (*sakhyaṃ*)—the friendship
+- नः (*naḥ*)—to us
+- प्र (*pra*)—exceedingly
+- आप्यं (*āpyaṃ*)—as something to be obtained
+- अस्ति (*asti*)—exists
+- सुदंससा (*sudaṃsasā*)—famous for excellent deeds
+- गृभे (*gṛbhe*)—to receive our oblation
+- कृता (*kṛtā*)—who are impelled
+- त्या (*tyā*)—famous
+- अश्विना (*aśvinā*)—the Aśvin deities
+- नु (*nu*)—quickly
+- हुवे (*huve*)—I call
+
+##### भावार्थ (Bhāvārtha)
+
+The Aśvin deities, chief among all the gods, whose friendship we are exceedingly to obtain, famous for their excellent deeds, impelled to receive our oblation, famous: these I call quickly.
+
 ---
 
-**Progress note:** Done through printed p. 612. pp. 607-612 (batch API)
+**Progress note:** Done through printed p. 618. pp. 613-618 (batch API)
