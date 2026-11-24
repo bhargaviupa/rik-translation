@@ -11876,6 +11876,276 @@ You are more precious, Indra, than my father, or than my brother, who is not aff
 
 > क्व । इयथ । क्व । इत् । असि । पुरुत्रा । चित् । हि । ते । मनः ।
 
+### Printed p. 300
+
+> अलर्षि । युद्ध्म । खजकृत् । पुरंदर । प्र । गायत्राः । अगासिषुः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र क्व कुत्र देश इयथ । गतवानसि पुरा । क्वेत् कुत्र चासि । भवसि ।
+> इदानीं वर्तसे । पुरुत्रा चिद्दि बहुषु हि यजमानेषु ते त्वदीयं मनः संचरति।
+> हे युध्म युद्धकुशल खजकृद्युद्धस्य कर्तर्हे पुरंदरासुरीणां पुरां दारयितर्हे
+> इंद्र अलर्षि । आगच्छ । गायत्रा गानकुशला अस्मदीयाः स्तोतारः प्रागासिषुः ।
+> प्रगायंति । स्तुवंति ॥ अलर्षीत्येतत् दाधत्यादौ । पा. ७.४.६५ । इर्यर्तेर्निपात्यते ॥
+
+##### Gist of the bhāṣya
+
+O Indra, to what region have you gone, and where are you now? Your mind ranges among many sacrificers. O Indra, skilled in battle (युध्म (*yudhma*)), maker of battle (खजकृत् (*khajakṛt*)), shatterer of the cities of the Asuras (पुरंदर (*puraṃdara*)), come (अलर्षि (*alarṣi*)). Our singers skilled in song (गायत्राः (*gāyatrāḥ*)) sing forth and praise you. Sāyaṇa adds that अलर्षि (*alarṣi*) is a form irregularly derived from the root *iryarteḥ*, as stated in the Dādhatyādi rule (Pā. 7.4.65).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्व (*kva*)—to which region
+- इयथ (*iyatha*)—have you gone now?
+- क्वेत् (*kvet*)—where indeed
+- असि (*asi*)—are you staying?
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- पुरुत्रा चिद्दि (*purutrā ciddi*)—does it not range among many sacrificers?
+- युद्ध (*yuddha*)—skilled in battle
+- खजकृत् (*khajakṛt*)—engaged in battle
+- पुरंदर (*puraṃdara*)—destroyer of the enemy's cities; O Indra
+- अलर्षि (*alarṣi*)—be gracious
+- गायत्राः (*gāyatrāḥ*)—our singers, skilled in song
+- प्र अगासिषुः (*pra agāsiṣuḥ*)—praise you and sing excellently
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to what region have you gone just now? Where are you staying? It is natural that your mind should dwell among many sacrificers. O Indra, skilled in battle, engaged in battle, destroyer of the enemy's cities, our singers skilled in song sing hymns that praise you. Be gracious to our sacrifice.
+
+##### English translation
+Whither have you gone? where, indeed are you, now? Verily your mind (wanders) amongst many (worshippers): martial, volorous Purandara, come hither; the chaunters are singing (your praise),
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रास्मै॑ गाय॒त्रम॑र्चत वा॒वातु॒र्यः पु॑रंद॒रः ।  
+> याभिः॑ का॒ण्वस्योप॑ ब॒र्हिरा॒सदं॒ यास॑द्व॒ज्री भि॒नत्पुरः॑ ॥ ८ ॥
+
+### Printed p. 301
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अस्मै । गायत्रं । अर्चत । ववातुः । यः । पुरंदरः ।  
+> याभिः । काण्वस्य । उप । बर्हिः । आसदं यासत् । वज्री । भिनत् । पुरः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मा इंद्राय गायत्रं गातव्यं साम गायत्रसंज्ञं वा प्रार्चत। प्रगायत ।
+> पुरंदरः पुरां दारयिता य इंद्रो नावातुर्वननीयः संभजनीयः । यद्वा ।
+> नावातु: संभक्तुः स्तोतुर्य इंद्रः पुरंदरः शत्रुपुराणां दारयिता । याभिर्ऋग्भिः काण्वस्य कण्वपुत्रस्य मेधातिथेर्मध्यातिथेश्च बर्हिर्यज्ञमुपासदमुपासत्तु मुपगंतुं यासत् गच्छेत् वज्री वज्रयुक्तः सन् । याभिश्चर्ग्भिः स्तूयमानः सन् पुरः शात्रवीर्भिनत् भिंद्यात् । तास्त्वक्षु गायत्रं साम गायतेत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+To this Indra sing forth the Gāyatra, the song to be sung, or the Sāman called Gāyatra. Indra is Purandara, the splitter of cities, and is to be served or worshipped (नावातुर्वननीयः संभजनीयः (*nāvāturvananīyaḥ saṃbhajanīyaḥ*)).**NOTE**
+Or else: he is Purandara, destroyer of enemy cities, of the worshipper, the singer. With those Ṛks by which Indra, bearing the thunderbolt, would come to sit at the sacrifice (बर्हिः (*barhiḥ*)) of Kāṇva, that is, of Medhātithi and Madhyātithi, the sons of Kaṇva, and by which, being praised, he would split the enemy cities, sing in those Ṛks the Gāyatra Sāman. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- वावातुः (*vāvātuḥ*)—for his praiser
+- पुरंदरः (*puraṃdaraḥ*)—destroys the enemy's cities
+- अस्मै (*asmai*)—addressing such an Indra
+- याभिः (*yābhiḥ*)—praised by which Ṛks
+- वज्री (*vajrī*)—Indra, the wielder of the thunderbolt
+- काण्वस्य (*kāṇvasya*)—of Medhātithi, the son of Kaṇva
+- बर्हिः (*barhiḥ*)—on the sacrificial seat
+- उप आसदं (*upa āsadaṃ*)—to sit down
+- यासत् (*yāsat*)—comes (or, when praised by which Ṛks)
+- पुरः (*puraḥ*)—the enemy's cities
+- भिनत् (*bhinat*)—splits; in such Ṛks
+- गायत्रं (*gāyatraṃ*)—the Sāman called Gāyatra, set therein
+- प्र अर्चत (*pra arcata*)—sing and recite
+
+##### भावार्थ (Bhāvārtha)
+
+Addressing that Indra who destroys the enemy cities of his praiser, sing the Sāman called Gāyatra, set in Ṛks that have the power to make Indra, the wielder of the thunderbolt, come and sit at once, as soon as he is praised, on the sacrificial seat of Medhātithi, son of Kaṇva, and that urge Indra, delighted as soon as he is praised, to split the enemy cities. Thus praise Indra.
+
+##### English translation
+Raise the sacred chaunt to him who is the destroyer of the cities (of
+the foes) of his worshipper, (induced) by which may the thunderer come
+to sit down at the sacrifice of the sons of Kanwá, and destroy the cities (of
+their enemies).
+
+### Printed p. 302
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ते॒ संति॑ दश॒ग्विनः॑ श॒तिनो॒ ये स॑ह॒स्रिणः॑ :  
+> अश्वा॑सो॒ ये ते॒ वृष॑णो रघु॒द्रुव॒स्तेभि॑र्न॒स्तूय॒मा ग॑हि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ते । संति । दशग्विनः । शतिनः । ये । सहस्रिणः ।  
+> अश्वासः । ये । ते । वृषणः । रघुद्रुवः । तेभिः । नः । तूयं । आ । गहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र दशग्विनो दशयोजनगामिनो येऽश्वास्ते तव संति विद्यंते ।
+> ये चान्ये शतिनः शतसंख्याकाः सहस्रिणः सहस्रसंख्याकाः संति । ये ते त्वदीया
+> अश्वासोऽश्वा वृषणः सेचनसमर्था युवानो रघुद्रुवः शीघ्रगामिनश्च । तेभिस्तैः
+> सर्वैरश्वैनोर्नोऽस्मांस्तूयं क्षिप्रमा गहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those horses of yours that are दशग्विनः (*daśagvinaḥ*), going ten yojanas, and the others that number hundreds and thousands, and those horses of yours that are वृषणः (*vṛṣaṇaḥ*), able to sprinkle (young and vigorous), and रघुद्रुवः (*raghudruvaḥ*), swift-going: with all of them come to us quickly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ते (*te*)—belonging to you
+- ये (*ye*)—which horses
+- दशग्विनः (*daśagvinaḥ*)—are fit to travel ten yojanas
+- संति (*saṃti*)—are
+- ये (*ye*)—which horses
+- शतिनः (*śatinaḥ*)—are in hundreds
+- सहस्रिणः (*sahasriṇaḥ*)—and in thousands
+- ते (*te*)—belonging to you
+- ये आश्वासः (*ye āśvāsaḥ*)—which horses
+- वृषणः (*vṛṣaṇaḥ*)—having the power of sprinkling
+- रघुद्रुवः (*raghudruvaḥ*)—are swift-going
+- तेभिः (*tebhiḥ*)—with all such horses
+- नः (*naḥ*)—to us
+- तूयं (*tūyaṃ*)—quickly
+- आ गहि (*ā gahi*)—come graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those horses of yours that are fit to travel ten yojanas, those that number hundreds and thousands, and those that have attained the youth of sprinkling power and are swift, come to us quickly together with all such horses.
+
+##### English translation
+Come quickly with those your horses which are vigorous and fleet,
+and which are traversers of tens, or hundreds, or thousands (of leagues).
+
+### Printed p. 303
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्व१॒॑गद्य स॑ब॒र्दुघां॑ हु॒वे गा॑य॒त्रवे॑पसं ।  
+> इंद्रं॑ धे॒नुं सु॒दुघा॒मन्या॒मिष॑मु॒रुधा॑रामरं॒कृतं॑ ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । शु । अद्य । सबःदुघां । हुवे । गायत्रवेपसं ।  
+> इंद्रं । धेनुं । सुधुघां । अन्यां । इषं । उरुधारां । अरंकृतं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयेंद्रं धेनुरूपेण वृष्टिरूपेण च निरूपयन् स्तौति । अद्वेदानीं
+> धेनुं धेनुरूपमिंद्रं तु क्षिप्रमा हुवे । आह्वये । कीदृशीं धेनुं । सबर्दुघां
+> पयसो दोग्धीं गायत्रवेपसं प्रशस्यवेगां सुदुघां सुखेन दोग्गुं शक्यां ।
+> अन्यामुक्तविलक्षणामुरुधारां बहूदकधारमिषमेषणीयां वृष्टिं । एतद्रूपेण
+> वर्तमानमरुकृतमलंकर्तारं पर्याप्तकारिणं वेंद्रं चाह्वये ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk he praises Indra, presenting him in the form of a cow (धेनु (*dhenu*)) and in the form of rain. Today I quickly invoke Indra, who is of the nature of a cow. What kind of cow? One that gives milk abundantly (सबर्दुघां (*sabardughāṃ*)), of praiseworthy speed (गायत्रवेपसं (*gāyatravepasaṃ*)), and easy to milk (सुदुघां (*sudughāṃ*)). Or, as another, different from the one described: the rain, उरुधारां (*urudhārāṃ*), with broad streams of much water, इषं (*iṣaṃ*), to be desired. I invoke Indra who exists in this form, who is satisfying (अरंकृतं (*araṃkṛtaṃ*)), the one who makes things sufficient.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सबर्दुघां (*sabardughāṃ*)—yielding milk abundantly
+- गायत्रवेपसं (*gāyatravepasaṃ*)—of praiseworthy speed
+- सुदुघां (*sudughāṃ*)—easy to milk
+- धेनुं (*dhenuṃ*)—Indra, endowed with distinguished qualities that satisfy like a cow
+- इंद्रं (*iṃdraṃ*)—Indra
+- तु (*tu*)—quickly
+- अद्य (*adya*)—at this time of the sacrifice
+- आ हुवे (*ā huve*)—I pray and invoke; (or)
+- अन्यां (*anyāṃ*)—assuming another form
+- उरुधारां (*urudhārāṃ*)—pouring abundant streams
+- इषं (*iṣaṃ*)—being in the form of rain
+- आरंकृतं (*āraṃkṛtaṃ*)—Indra, who is satisfying like rain, I pray and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+At this time of the sacrifice I quickly pray to and invoke Indra, who is endowed with distinguished qualities that satisfy like a cow that yields abundant milk, has praiseworthy speed and is easy to milk. Or else I pray to and invoke Indra, who, assuming another form, exists in the form of rain pouring abundant streams, and who is satisfying just like rain.
+
+### Printed p. 304
+
+##### English translation
+I invoke to-day the all-sufficient Indra, as the milch cow yielding abundant milk, of excellent motion, and easy to be milked; or, as another (form), the vast-dropping, desirable (rain).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्तु॒ दत्तूर॒ एत॑शं वं॒कू वात॑स्य प॒र्णिना॑ ।  
+> वह॒त्कुत्स॑मार्जुने॒यं श॒तक्र॑तुः॒ त्सर॑द्गंध॒र्वमस्तृ॑तं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । तुदत् । सूरः । एतशं । वंकू इति । वातस्य । पर्णिना ।  
+> वहत् । कुत्सं । अर्जुनेयं । शतक्रतुः । त्सरत् । गंधर्वं । अस्तृतं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूरः सूर्य एतशमेतत्संज्ञं राजर्षिं यद्यदा तुदत् अव्यथयत् तदानीमेतशं रक्षितुं वंकू वक्रगामिनौ वातस्य वायोः सदृशौ पर्णिना षर्णिन् पतनवंतावीदृशावश्वा शतक्रतुर्बहुविधकर्मेंद्र आर्जुनेयमर्जुन्याः पुत्रं कुत्समृषिं वहत् । अवहत् । अनयत् । कुत्सेन सार्धं समानं रथमारुहैतशरक्षणायागच्छदित्यर्थः । तथा च निगमांतरं । प्रैतशं सूर्ये पस्पृधानं सौवश्ये सुष्टिमावदिंद्रः । ऋ. १-६१-१५. । इति । गंधर्वं गवां रश्मीनां धर्तारं सूर्यमस्तृतं केनाप्यहिंसितं त्सरत् । अत्सरत् । छद्मगत्यागच्छत् । सूर्येण योद्दुं
+> गतवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When Sūrya, the Sun, afflicted the royal seer called Etaśa, then, to protect Etaśa, Indra Śatakratu, the performer of many kinds of works, carried along (वहत् (*vahat*)) the sage Kutsa, son of Arjunī (आर्जुनेयं (*ārjuneyaṃ*)), with two horses, crooked-going (वंकू (*vaṃkū*)), like the wind and flying (पर्णिना (*parṇinā*)). That is, he mounted the same chariot as Kutsa and came to protect Etaśa. Another text says the same: प्रैतशं सूर्ये पस्पृधानं सौवश्ये सुष्टिमावदिंद्रः (*praitaśaṃ sūrye paspṛdhānaṃ sauvaśye suṣṭimāvadiṃdraḥ*) (Ṛ. 1-61-15). गंधर्वं (*gaṃdharvaṃ*) is Sūrya, the upholder of the rays (गवां (*gavāṃ*)); अस्तृतं (*astṛtaṃ*) is unharmed by anyone; त्सरत् (*tsarat*) is अत्सरत् (*atsarat*), he came by a stealthy course. The meaning is that he went to fight with Sūrya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- सूरः (*sūraḥ*)—Sūra (the Sun)
+- एतशं (*etaśaṃ*)—the royal seer called Etaśa
+- तुदत् (*tudat*)—harassed (then)
+- शतक्रतुः (*śatakratuḥ*)—Indra, performer of many works
+- वंकू (*vaṃkū*)—crooked-going
+- वातस्य (*vātasya*)—like the wind
+- पर्णिना (*parṇinā*)—and flying horses (with them)
+- आर्जुनेयं (*ārjuneyaṃ*)—the son of Arjuni
+- कुत्सं (*kutsaṃ*)—the sage Kutsa
+- वहत् (*vahat*)—took along in company (to help Etaśa)
+- अस्तृतं (*astṛtaṃ*)—the unresisted
+- गंधर्वं (*gaṃdharvaṃ*)—Sūra
+- त्सरत् (*tsarat*)—approached stealthily
+
+### Printed p. 305
+
+##### भावार्थ (Bhāvārtha)
+
+When Sūrya harassed the royal seer Etaśa, Indra, the performer of many works, took along, to help Etaśa, the horses that go crookedly and fly like the wind, and with them the sage Kutsa, son of Arjuni. He went stealthily to face the unresisted Sūrya.
+
+##### English translation
+When Surya harassed Etasha, Shatakratu conveyed (to his aid) Kutsa, the son of Arjuni, with his two prancing horses (swift) as the wind, and stealthily approached the irresistible Gandharva.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ऋ॒ते चि॑दभि॒श्रिषः॑ पु॒रा ज॒त्रुभ्य॑ आ॒त्मदः॑ ।  
+> संधा॑ता सं॒धिं म॒घवा॑ पुरू॒वसु॒रिष्क॑र्ता॒ विह्रु॑तं॒ पुनः॑ ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ऋते । चित् । अभिश्रिषः । पुरा । जत्रुभ्यः । आतृदः ।  
+> संधाता । संधिं । मघवा । पुरुवसुः । इष्कर्ता । विह्रुतं । पुनरिति ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रोऽभिश्रिषोऽभिश्लिषोऽभिश्लेषणात्संधानद्रव्यादृते चिद्विनापि जत्रुभ्यो ग्रीवाभ्यः सकाशादातृद आतर्दनादा रुधिरनिःस्रवणात् पुरा पूर्वमेव संधिं
+> संधातव्यं तं संधाता संयोजयिता भवति मघवा धनवान् पुरूवसुर्बहुधनः
+> स इंद्रो विह्रुतं विच्छिन्नं तं पुनरिष्कर्ता संस्कर्ता भवति ॥
+
+##### Gist of the bhāṣya
+
+That Indra who, even without a joining substance (अभिश्रिषः (*abhiśriṣaḥ*), from *abhiśleṣaṇāt*), and before blood flows (आतृदः (*ātṛdaḥ*), from *ātardanāt*, from the flowing out of blood) from the necks (जत्रुभ्यः (*jatrubhyaḥ*)), becomes the joiner of what is to be joined, he, wealthy (मघवा (*maghavā*)) and possessed of much wealth (पुरुवसुः (*puruvasuḥ*)), becomes the restorer who mends what has been severed (विह्रुतं (*vihrutaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- अभिश्रिषः (*abhiśriṣaḥ*)—of the physician's materials
+- ऋतेचित् (*ṛtecit*)—even when there is an absence
+- जत्रुभ्यः (*jatrubhyaḥ*)—from the (severed) necks
+- आत्मदः (*ātmadaḥ*)—to the flow of blood
+- पुरा (*purā*)—even beforehand
+- संधिं (*saṃdhiṃ*)—the neck that has to be joined to the body
+- संदाता (*saṃdātā*)—who joins together; such (an Indra)
+
 ---
 
-**Progress note:** Done through printed p. 299. pp. 294-299 (batch API)
+**Progress note:** Done through printed p. 305. pp. 300-305 (batch API)
