@@ -6986,6 +6986,275 @@ We, the offerers of Soma, solicit riches from the sovereign, the son-in-law of T
 
 In the Vāyavya triplet, the two Ṛks beginning वायो याहि शिवा दिव (*vāyo yāhi śivā diva*), the second and the third, are used; and so it is laid down in the sūtra (Ā. 7-18): the two beginning thus.
 
+### Printed p. 155
+
+> हे वायो दिवो द्युलोकस्य शिव ॥ सुपां सुलुगिति द्वितीयाया लुक् ॥
+> शिवं कल्याणमा याहि । आप्रापय । सर्वज्योतिषां त्वदाधारत्वात्तेषामाधारो
+> भूत्वा द्युलोके तानि स्थापयेति प्रार्थयते । ततस्त्वं स्वश्वं । अश्वानां
+> संघोऽश्वः । शोभनाश्वसंघं रथं सु सुष्टु वहस्व । सर्वतो दिक्षु प्रापय ।
+> इदानीं तेभ्योऽपि समर्थावश्वानावह । महो महांस्त्वं पृथुपक्षसा पृथुपार्श्वद्वययुक्तावश् रथे स्वकीये वहस्व । शत्रुहननार्थं संयोजय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the address to Vāyu to mean: O Vāyu, of the heaven-world, bring (āyāhi) what is auspicious (śiva), that is, what is good; establish it. Since all the luminaries rest on you, he prays that Vāyu become their support and set them in heaven. Then Vāyu is asked to carry well (su vahasva) the chariot that has a fine team of horses (the word for horse being a collection of horses), conveying it in all directions. Now bring horses that are capable even for those luminaries. Mahaḥ means "you who are great"; the two horses are broad-flanked, that is, furnished with two broad sides. Yoke them to your own chariot, for the slaying of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायोः (*vāyoḥ*)—O Vāyu
+- दिवः (*divaḥ*)—in the heaven-world
+- शिव (*śiva*)—happiness, auspiciousness
+- आ याहि (*ā yāhi*)—establish
+- स्वश्वं (*svaśvaṃ*)—your excellent horse
+- सु (*su*)—exceedingly
+- वहस्व (*vahasva*)—cause (it) to travel in all the directions
+- मह (*maha*)—you who are great
+- पृथु (*pṛthu*)—your horses with broad flanks
+- रथे (*rathe*)—to your chariot
+- वहस्व (*vahasva*)—yoke
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, establish happiness in heaven. Cause your excellent horse to travel exceedingly, in all the directions. You who are great, yoke your horses with broad flanks to your chariot.
+
+##### English translation
+Establish, Vayu, happiness in heaven : bear quickly your well-horsed (chariot) ; do you, who are mighty, yoke the broad-flanked (horses) to the car.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, वायो याहि शिवा दिवः (*vāyo yāhi śivā divaḥ*), and the Ṛk that follows it are to be recited as the second and the third Ṛk of the Vāyavya triplet (the three Ṛks addressed to Vāyu), as it is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, वायो याहि शिवा दिव इति द्वे (*vāyo yāhi śivā diva iti dve*) (Ā. 7-10). **NOTE**
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां हि सु॒स्सर॑स्तमं नृ॒षद॑नेषु हू॒महे॑ ।  
+> ग्रावा॑णं॒ नाश्व॑पृष्ठं मं॒हना॑ ॥ २४ ॥
+
+### Printed p. 156
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्सा० । हि । सुप्सरःतमं । नृसदनेषु । हूमहे ।  
+> ग्रावाणं । न । अश्वपृष्ठं । मंहना ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वायव्ये पशौ पुरोडाशहविषोस्तां हि सुप्सरस्तममिति द्वे अनुवाक्ये !
+> सूत्रितं च । त्वां हि सुप्सरस्तममिति द्वे कुविदंग नमसा ये वृधासः । आ. ३-८। इति॥
+> हे वायो सुप्सरस्तमं । सुप्स इति रूपनाम ॥ रो मत्त्वर्थीयः ॥
+> अतिशयेन शोभनरूपवंतं मुंहना स्वकीयेन महत्वेनाश्वपृष्ठं सर्वतो
+> व्याप्तपृष्ठं । पृष्ठशब्दः सर्वांगं लक्षयति । व्याप्तकृत्सांगमित्यर्थः । त्वां ।
+> हिरवधारणे । त्वामेव नृषदनेषु नृसदनेषु । नरोऽध्वरस्य नेतार ऋत्विजोऽत्र
+> सीदंतीति नृषदना यज्ञाः । तेषु हूमहे । वयमाह्वयामः । कथमिव ।
+> ग्रावाणं न । यथा सोमाभिषवार्थं ग्रावाणं स्तुतिभिराह्वयंति तद्वृत्तां
+> स्तुतिभिराह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice to Vāyu, at the offering of the puroḍāśa and of the havis, these two Ṛks, beginning त्वां हि सुप्सरस्तमं (*tvāṃ hi supsarastamaṃ*), are the two anuvākyā verses; the sūtra is cited as Ā. 3-8. O Vāyu, you who are सुप्सरस्तमं (*supsarastamaṃ*): सुप्स (*supsa*) is a name for form, and the affix denotes possession, so the word means one who has an exceedingly beautiful form. By your own greatness you are अश्वपृष्ठं (*aśvapṛṣṭhaṃ*), one whose back extends everywhere; the word for back indicates the whole body, so the meaning is "one whose whole body is pervading". The word for "you" is emphasised by the particle: you alone we call in the nṛṣadanas, the places where men sit, namely the leaders of the rite, the priests; these are the sacrifices. We invoke you there. How? Like the grāvan: as the priests call the pressing-stone with praises for the pressing of Soma, so we call you with praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुप्सरस्तमं (*supsarastamaṃ*)—you who have an exceedingly charming form (O Vāyu)
+- मंहना (*maṃhanā*)—by your own greatness
+- अश्वपृष्ठं (*aśvapṛṣṭhaṃ*)—you who have limbs extending everywhere
+- त्वा हि (*tvā hi*)—you alone
+- नृषदनेषु (*nṛṣadaneṣu*)—in the sacrificial houses
+- ग्रावाणं न (*grāvāṇaṃ na*)—as one calls the stones that press the Soma, praying to them
+- हूमहे (*hūmahe*)—we call, praising
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, you who have an exceedingly charming form, whose limbs by your own greatness extend everywhere, you alone we call in the sacrificial houses with praise, as one calls the stones that press the Soma, praying to them.
+
+##### English translation
+We invoke you who are of graceful form, extending through your magnitude your limbs in all directions, to our religious rites, like the stone (for bruising the Soma.)
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, त्वां हि सुप्सरस्तमं (*tvāṃ hi supsarastamaṃ*), and the Ṛk that follows it are to be recited, in order, as the anuvākyā mantras at the offering of the puroḍāśa and of the havis in the animal sacrifice addressed to Vāyu,
+
+### Printed p. 157
+as it is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, त्वां हि सुप्सरस्तममिति द्वे कुविदंग नमसा ये वृधासः (*tvāṃ hi supsarastamamiti dve kuvidaṃga namasā ye vṛdhāsaḥ*) (Ā. 3-8).
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वं नो॑ देव॒ मन॑सा॒ वायो॑ मंदा॒नो अ॑ग्रि॒यः ।  
+> कृ॒धि वाजा॑ अ॒पो धियः॑ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । नः । देव । मनसा । वायो इति । मंदानः । अग्रियः ।  
+> कृधि । वाजान् । अपः । धियः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुनासीरीये स त्वं नो देवेत्येषा वायोरनुवाक्या । सूत्रितं च । स त्वं
+> नो देव मनसेशानाय प्रहुतिं यस्त आनट् । आ. २-२० । इति ॥
+> हे देव द्योतमान यद्वा स्तोतव्य वायो अग्रियो देवानां मध्ये
+> मुख्योऽग्रतो गंतासि । तादृशस्त्वं मनसा मंदानो मंदमानः स्वयमेव
+> मोदमानः सन्नोऽस्माकं वाजानन्नान्यपो मेघभेदनेनोदकानि च उभयस्मिंस्त्वया प्रदत्ते सति धियोऽग्निहोत्रादिकर्माणि च कृधि । कुरु । कारयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the Śunāsīrīya (iṣṭi), the Ṛk स त्वं नो देव (*sa tvaṃ no deva*) is the anuvākyā verse of Vāyu; the sūtra is cited as Ā. 2-20. O deva, shining one, or else, O Vāyu who are to be praised, you are agriya: chief among the gods, the one who goes at the front. Being such, rejoicing in your mind, delighting yourself, give us vājas, that is, foods, and apas, that is, waters, by the splitting of the cloud; and when both have been given by you, make (kṛdhi: do, or cause to be done) the dhiyas, the rites such as the agnihotra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining one
+- वायो (*vāyo*)—O Vāyu
+- अग्रियः (*agriyaḥ*)—chief among all the gods
+- सः त्वं (*saḥ tvaṃ*)—you who are renowned
+- मनसा (*manasā*)—in your own mind
+- मंदानः (*maṃdānaḥ*)—experiencing delight
+- नः (*naḥ*)—to us
+- वाजान् (*vājān*)—foods
+- अपः (*apaḥ*)—the waters of rain, and giving them
+- धियः (*dhiyaḥ*)—our sacrificial rites
+- कृधि (*kṛdhi*)—make fruitful
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Vāyu, you who are renowned and chief among all the gods, experiencing delight in your own mind, give us foods and the waters of rain, and make our sacrificial rites fruitful.
+
+##### English translation
+Divine Vayu, foremost (of the gods), exulting in your own mind, cause our rites to be productive of food and water.
+
+### Printed p. 158
+
+##### विशेषविषयगळु (Special Topics)
+
+In the iṣṭi called Śunāsīrīya, this Ṛk, स त्वं नो देव (*sa tvaṃ no deva*), is to be recited as the anuvākyā mantra addressed to Vāyu, as it is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, स त्वं देव मनसेशानाय प्रहुतिं यस्त आनट् (*sa tvaṃ deva manaseśānāya prahutiṃ yasta ānaṭ*) (Ā. 2-20). **NOTE**
+
+## Sūkta 27 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निरुक्थ इति द्वाविंशत्यृचं सप्तमं सूक्तं । आत्रानुक्रमणिका । अग्निरुक्थॆ
+> द्व्यधिका मनुर्नैवस्वतो वैश्वदेवं ह प्रागाधमिति । विवस्वतः पुत्रो मनुर्यषिः ।
+> प्रथमातृतीयाद्ययुजो बृहत्यो द्वितीयाचतुर्थ्यादियुजः सतोबृहत्यः ।
+> इदमादीनां चतुर्णां सूक्तानां विश्वे देवा देवता ॥ सूक्तविनियोगो
+> लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+अग्निरुक्थॆ (*agnirukthè*) is the seventh sūkta, of twenty-two Ṛks. The Anukramaṇikā says: अग्निरुक्थॆ द्व्यधिका मनुर्नैवस्वतो वैश्वदेवं ह प्रागाधमिति (*agnirukthè dvyadhikā manurnaivasvato vaiśvadevaṃ ha prāgādhamiti*). The seer is Manu, the son of Vivasvat. The first, the third and the other odd Ṛks are Bṛhatī, and the second, the fourth and the other even Ṛks are Satobṛhatī. The deity of the four sūktas beginning with this one is the Viśve Devāḥ (All-gods). The use of the sūkta in ritual is by indication (laiṅgika). **NOTE**
+
+##### Anuvāda
+
+This sūkta, अग्निरुक्थॆ (*agnirukthè*), is the seventh sūkta in the fourth anuvāka. There are twenty-two Ṛks in it. The Anukramaṇikā says: अग्निरुक्थॆ द्वैधिका मनुर्वैवस्वतो वैश्वदेवं ह प्रागाथं (*agnirukthè dvaidhikā manurvaivasvato vaiśvadevaṃ ha prāgāthaṃ*). Manu, the son of the ṛṣi Vivasvān, is the seer of this sūkta; the Viśve Devāḥ are the deity of this sūkta and of the three sūktas that follow; the Ṛks of this sūkta of odd number, one, three and so on, are in the metre Bṛhatī; those of even number, two, four and so on, are in the metre Satobṛhatī. The use of the sūkta is by indication.
+
+##### Particulars
+
+Sūkta 27. Maṇḍala 8, Anuvāka 4, Sūkta 27. Aṣṭaka 6, Adhyāya 2, Vargas 31, 32, 33, 34. Number of Ṛks in the sūkta: 22. Seer: Manu Vaivasvata. Deity: the Viśve Devāḥ. Metre: Prāgātha (odd Ṛks Bṛhatī, even Ṛks Satobṛhatī).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निरु॒क्थे पु॒रोहि॑तो॒ ग्रावा॑णो ब॒र्हिर॑ध्व॒रे ।  
+> ऋ॒चा या॑मि म॒रुतो॒ ब्रह्म॑ण॒स्पतिं॑ दे॒वा अवो॒ वरे॑ण्यं ॥
+
+### Printed p. 159
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । उक्ते । पुरःहितः । ग्रावाणः । बर्हिः । अध्वरे ।  
+> यचा । यामि । मरुतः । ब्रह्मणः । पतिं । देवान् । अवः । वरेण्यं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनुः प्रार्थयते। उक्थ्ये स्तोत्रशस्त्रात्मकेऽध्वरे हिंसारहितेऽस्मिन्यज्ञेऽग्निः
+> पुरोहितो यज्ञार्थं पुरुत उत्तरवेद्यामृत्विग्निर्हिहितोऽभूत् । तथा ग्रावाणश्च
+> सोमाभिषवार्थं पुरुतो निहिताः । बर्हिश्च पुरतो निहितमासादितं । एवं
+> सामग्रां सत्यां मरुत एकोनपंचाशन्मरुद्धणान् ब्रह्मणस्पतिं स्तोत्रस्य पालयितारमेतन्नामकं देवं देवानिंद्रादींश्च एतान् सर्वानेवान्वरेण्यं वरणीयं
+> भजनीयमवो रक्षणमृचा सूक्तरूपया स्तुत्या यामि । मनुरहं याचामि ॥
+> याचतेर्लट रूपं । वर्णलोपश्कांदसः ॥
+
+##### Gist of the bhāṣya
+
+Manu prays. In this sacrifice, free from violence and made up of stotra and śastra, Agni has been placed in front as purohita for the sacrifice (the words about the northern altar are damaged in the text). **NOTE** Likewise the pressing-stones have been set in front for the pressing of Soma, and the sacred grass has been set and spread. When the materials are thus ready, I, Manu, ask with the ṛc, that is, with praise in the form of a sūkta, for desirable, adorable protection from the Maruts (the forty-nine hosts of Maruts), from Brahmaṇaspati, the protector of the stotra, a deity of that name, and from the gods, Indra and the others, all of these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्ते (*ukte*)—in the sacrifice that is accompanied by stotra and śastra mantras
+- अध्वरे (*adhvare*)—in the sacrifice
+- अग्निः (*agniḥ*)—Agni
+- पुरोहितः (*purohitaḥ*)—is the purohita
+- ग्रावाणः (*grāvāṇaḥ*)—the pressing-stones
+- बर्हिः (*barhiḥ*)—the sacred grass seat, are ready for the rite (while these materials are ready)
+- मरुतः (*marutaḥ*)—the Maruts
+- ब्रह्मणस्पतिं (*brahmaṇaspatiṃ*)—Brahmaṇaspati
+- देवान् (*devān*)—the gods, Indra and the others
+- यचा (*yacā*)—praying with praise in the form of a sūkta
+- वरेण्यं (*vareṇyaṃ*)—most excellent
+- अवः (*avaḥ*)—protection
+- यामि (*yāmi*)—I ask
+
+##### भावार्थ (Bhāvārtha)
+
+In the sacrifice accompanied by stotra and śastra mantras, Agni is the purohita. The stones that press the Soma and the sacred grass seat are ready for the rite. While these materials are ready, I pray to the Maruts, to Brahmaṇaspati and to Indra and the other gods with praise in the form of a sūkta, and ask for most excellent protection.
+
+##### English translation
+Agni is the Purohita at the sacaifice : the stones, the sacred grass (are prepared) for the ceremony. I invoke with the holy verse the Maruts, Brahmanaspati, and all the gods, for their desirable protection.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॒शुं गा॑सि पृथि॒वीं वन॒स्पती॑नु॒षासा॒ नक्त॒मोष॑धीः ।  
+> विश्वे॑ च नो वसवो विश्ववेदसो धी॒नां भू॑त प्रावि॒तारः॑ ॥
+
+### Printed p. 160
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पशुं । गासि । पृथिवीं । वनस्पतीन् । उषसा । नक्तं । ओषधीः ।  
+> विश्वे । च । नः । वसवः । विश्ववेदसः । धीनां । भूत । प्रअवितारः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वार्धर्चेऽग्निः संबोध्यते पश्वादिशब्दसद्भावात् । हे अग्ने नोऽस्म
+> दीये यज्ञे पशुमग्नीषोमायं पशुं प्रत्या गासि । आगच्छसि ॥ गाज् गतौ ।
+> व्यत्ययेन परस्मैपदं ॥ तथा पृथिवीमिदं देवसदनं प्रति किंच वनस्पतीन् मथनसाधनानरणिरूपान्ननस्पतीन्प्रति तथोषासा होतव्यत्वेसोषःकालं तथा नक्तं
+> यष्टव्यतया रात्रिं च प्रति किंचौषधीः ॥ उष दाहेऽत्र मादनकर्मा ॥ ओषंति
+> माद्यंत्यनेनेत्योषः सोमः। स धीयते निधीयते येप्तित्योषधयो ग्रावाणः।
+> तान्प्रत्यागच्छसि । यद्वा । ओषधयः फलपाकांता लताः । ताः प्रत्यायाहि । अथवा
+> हे स्तोतः पश्वादी ना गासि । समंतात्सुहि ॥ कै गै शब्द इति धातुः ॥ ततो हे
+> वसवो वासयितारो विश्ववेदसः सर्वधनाः सर्वज्ञाना वा हे विश्वे सर्वॆऽपि
+> देवाः नोऽस्मदीयानां कर्मणां प्रावितारो भूत । अनेनाग्निना सह यूयं
+> प्रकर्षेण रक्षका भवत ॥
+
+##### Gist of the bhāṣya
+
+In the first half of the Ṛk Agni is addressed, because of the presence of words such as पशुं (*paśuṃ*). O Agni, to the animal belonging to Agni and Soma in our sacrifice you come (गासि (*gāsi*) means "you come"). Likewise you come to the earth, that is, this place of the gods; to the vanaspatis, the trees in the form of the fire-drills, which are the means of kindling; to Uṣas, the dawn, the time at which the oblation is to be made; and to the night, the time at which the sacrifice is to be performed; and to the oṣadhīḥ. The root here has the sense of intoxicating; oṣa is the Soma, by which they are exhilarated; those in which it is placed are the oṣadhis, the pressing-stones; you come to them. Or else the oṣadhis are the plants that end with the ripening of fruit; you come to those. Or else the word गासि (*gāsi*) is taken as "you sing", from a root meaning "sound", addressed to the praiser (the words of this alternative are damaged). **NOTE** Then, O Vasus, who cause to dwell, and Viśvavedasaḥ, who have all wealth or all knowledge, O all gods, be the protectors of our rites; together with this Agni, be our excellent protectors.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पशुं (*paśuṃ*)—facing the animal belonging to Agni and Soma
+- आ गासि (*ā gāsi*)—be gracious **NOTE**
+- पृथिवीं (*pṛthivīṃ*)—to this sacrificial ground
+- वनस्पतीन् (*vanaspatīn*)—to the trees in the form of fire-drills
+- ओषधिः (*oṣadhiḥ*)—to the Soma, facing it
+- उषासा (*uṣāsā*)—in the morning
+- नक्तं (*naktaṃ*)—in the night (be gracious)
+- वसवः (*vasavaḥ*)—givers of wealth
+- विश्ववेदसः (*viśvavedasaḥ*)—all-knowing ones
+- विश्वे च (*viśve ca*)—O all gods
+- नः (*naḥ*)—our
+- धीनां (*dhīnāṃ*)—to the rites
+- प्रावितारः (*prāvitāraḥ*)—excellent protectors
+- भूत (*bhūta*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be gracious facing the animal belonging to Agni and Soma, this sacrificial ground, the trees in the form of fire-drills and the Soma, in the morning and in the night. O Viśve Devāḥ, givers of wealth and all-knowing, be excellent protectors of our rites.
+
+##### English translation
+You come (Agni), to the dwelling (of the worshipper), to the touch-wood, to the Soma, at dawn and the night: Universal deities, givers of wealth, knowing all things, be the defenders of our pious acts.
+
 ---
 
-**Progress note:** Done through printed p. 154. Rk 17 end to Rk 23 start, pp. 149-154
+**Progress note:** Done through printed p. 160. Mandala 8 Sukta 26 Rks 23-25 end; Sukta 27 Rks 1-2
