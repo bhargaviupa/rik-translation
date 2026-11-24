@@ -291,12 +291,12 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 333	yes	0	0	0	1	0	1	0	0	0
 334	yes	2	1	0	0	0	1	0	0	0
 335	yes	1	0	0	0	0	0	0	0	0
-336	yes	2	1	0	0	0	0	0	0	0
+336	yes	1	1	0	0	0	0	0	0	0
 337	yes	3	2	0	0	0	1	0	1	0
 338	NO	0	1	0	0	0	1	0	0	0
-339	yes	2	0	0	0	0	1	0	0	0
+339	yes	1	0	0	0	0	0	0	0	0
 340	yes	4	5	0	0	0	0	0	28	0
-341	yes	2	1	0	0	0	1	0	69	0
+341	yes	1	1	0	0	0	1	0	66	0
 342	yes	0	0	0	0	0	0	0	0	0
 343	yes	1	0	0	0	0	0	1	7	0
 344	yes	2	0	0	0	0	0	0	0	0

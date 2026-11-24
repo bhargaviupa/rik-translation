@@ -17,3 +17,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 8 | 290–304 | 18 | 13 | 6 questions; p. 290 not in the supplied text. Name-spelling rows (Kausya, Varṣagaṇya, Prātarahna) rest on the Kannada spelling alone | see git log |
 | 9 | 305–319 | 24 | 19 | 4 questions; p. 318 not in the supplied text | see git log |
 | 10 | 320–334 | 16 | 14 | 2 questions; p. 324 not in the supplied text | see git log |
+| 11 | 335–349 | 31 | 22 | 8 questions; p. 338 not in the supplied text | see git log |
