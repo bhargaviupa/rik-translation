@@ -26435,6 +26435,285 @@ Maṇḍala 8, Anuvāka 6, Sūkta 50; Aṣṭaka 6, Adhyāya 4, Varga 16, 17. Nu
 > प्र सु श्रु॒तं सु॒राध॑स॒मर्चा॑ श॒क्रम॒भिष्ट॑ये ।  
 > यः सु॑न्व॒ते स्तु॑व॒ते काम्यं॒ वसु॑ स॒हस्रे॑णेव॒ मंह॑ते ॥ १ ॥
 
+### Printed p. 581
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सु । श्रुतं । सुराधसं । अर्च । शक्रं । अभिष्टये ।  
+> यः । सुन्वते । स्तुवते । काम्यं । वसु । सहस्रेण इव । मंहते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरात्मानं ब्रूते । हे पुष्टिगो त्वं अभिष्टये अभिलषितसिद्धये तं
+> शक्रं सर्वकर्मसु शक्तमिंद्रं सु सुष्टु यथा तथा प्र अर्च प्रकर्षण पूजय ।
+> कीदृशं । श्रुतं विख्यातं सुराधसं शोभनधनोपेतं । तं कं । य इंद्रः सुन्वते
+> सोमाभिषवं कुर्वते स्तुवते स्तुतिं कुर्वते यजमानाय काम्यं कामिनं
+> (? कमनीयं) वसु धनं सहस्रेणेव असंख्यातमेव मंहते ददाति तं । मंहतिर्दानार्थः । दानकर्मसु तत्पारात् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the seer addresses himself. O Puṣṭigu, for the accomplishment of what you desire, worship well that Śakra, Indra, who is capable in all rites. He is renowned and possessed of splendid wealth; he is the one who gives to the sacrificer who presses the Soma and who praises him the desired wealth, as it were by thousands, that is, without count. The root *maṃh* has the sense of giving, since it is listed among the verbs of giving. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- सुन्वते (*sunvate*)—to the one who presses the Soma
+- स्तुवते (*stuvate*)—to the one who offers praise
+- काम्यं (*kāmyaṃ*)—desired
+- वसु (*vasu*)—wealth
+- सहस्रेणेव (*sahasreṇeva*)—in thousands
+- मंहते (*maṃhate*)—gives, such a one
+- श्रुतं (*śrutaṃ*)—the renowned
+- सुराधसं (*surādhasaṃ*)—the possessor of excellent wealth
+- शक्रं (*śakraṃ*)—Indra
+- अभिष्टये (*abhiṣṭaye*)—for the fulfilment of your wish
+- सु (*su*)—exceedingly
+- प्र अर्च (*pra arca*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O seer, worship exceedingly, for the fulfilment of your wish, that renowned Indra, possessor of excellent wealth, who gives desired wealth in thousands to one who presses the Soma and offers it, and to one who offers praise.
+
+##### English translation
+Desiring wealth I worship Shakra, Lord of precious wealth, he gives, wealth in thousands to the worshipper and effuser.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तानी॑का हे॒तयो॑ अस्य दु॒ष्टरा॒ इंद्र॑स्य स॒मिषो॑ म॒हीः ।  
+> गि॒रिर्न भु॒ज्मा म॒घव॑त्सु पिन्वते॒ यदीं॑ सु॒ता अमं॑दिषुः ॥ २ ॥
+
+### Printed p. 582
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतऽनीकाः । हेतयः । अस्य । दुस्तराः । इंद्रस्य । संइषः । महीर् ।  
+> गिरिः । न । भुज्मा । मघवत्सु । पिन्वते । यत् । ईं । सुताः । अमंदिषुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुता अभिषुताः सोमा यद्यदा ईमेनमिंद्रं अमंदिषुः आमादयन्
+> तदा अस्येंद्रस्य हेतॆयः हननसाधनान्यायुधानि मघवत्सु हविर्लक्षणधनवत्सु
+> यजमानेषु पिन्नते । तदीयशत्रुधनानि तेषु समर्प्य तान् प्रीणयंतीत्यर्थः । क
+> इव । भुज्मा गिरिर्न पालको मेघ इव । स यथा भुवि जलानि समर्प्य तां प्रीणयति
+> तद्वत् । शत्रुधनाहरणं तु “शत्र्युतामा भरा भोजनानि” (ऋ. सं. ५-४-५)
+> इत्यादिश्रुतिप्रसिद्धं । कीदृश्यो हेतॆयः । शतानीकाः । शतमपरिमितानि अनीकानि
+> मुखानि यासां ताः । सर्वतोमुखा इत्यर्थः । अत एव दुस्तरा दुर्निनार्याः ।
+> समिषः सम्यक् इट् अन्नं याभ्यस्ताः । महीः महत्यः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: when the pressed Soma juices exhilarate this Indra, then his weapons, the instruments of killing, flow to the sacrificers who have wealth in the form of oblations; that is, he bestows on them the wealth of their enemies and so gratifies them, as a cloud, the protector, pours waters on the earth and gratifies it. The taking away of enemies' wealth is well known from the śruti beginning शत्र्युतामा भरा भोजनानि (*śatryutāmā bharā bhojanāni*) (Ṛ. Saṃ. 5-4-5). Such are the weapons: *śatānīkāḥ*, with hundreds, that is, countless, faces, meaning facing in every direction, and therefore hard to resist; *samiṣaḥ*, having ample food; *mahīḥ*, great. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- सुताः (*sutāḥ*)—the pressed Soma juices
+- ईं (*īṃ*)—this Indra
+- अमुंदिषुः (*amuṃdiṣuḥ*)—exhilarate, then
+- भुज्मा (*bhujmā*)—protecting
+- गिरिः न (*giriḥ na*)—as a cloud fills the earth with water and gratifies it
+- अस्य इंद्रस्य (*asya iṃdrasya*)—of this Indra
+- शतानीताः (*śatānītāḥ*)—having hundreds of faces
+- दुस्तराः (*dustarāḥ*)—not to be overcome by the resistance of enemies
+- समिषः (*samiṣaḥ*)—provided with full food
+- महीः (*mahīḥ*)—of great form
+- हेतयः (*hetayaḥ*)—the weapons
+- मघवत्तु (*maghavattu*)—among the sacrificers who have wealth in the form of oblations
+- पिन्वते (*pinvate*)—fill with the enemy's wealth and gratify
+
+##### भावार्थ (Bhāvārtha)
+
+When the pressed Soma juices bring joy to Indra, then, as a cloud, the protector of the world, pours rain and fills the earth, so the weapons of this Indra, with hundreds of faces, not to be overcome by the resistance of enemies, provided with full food and of great form, fill the sacrificers who have wealth in the form of oblations with the enemy's wealth and gratify them.
+
+##### English translation
+Of immeasurable Indra, your weapons are hundreds and food abundant when the effused Soma exhilarates him then being food-giver lika a mountain delights the wealthy.
+
+### Printed p. 583
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदीं॑ सु॒तास॒ इंद॑वो॒ऽभि प्रि॒यममं॑दिषुः ।  
+> आपो॒ न धा॑यि॒ सव॑नं म॒ आ व॑सो॒ दुघा॑ इ॒वोप॑ दा॒शुषे॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ईं । सुतासः । इंदवः । अभि । प्रियं । आमंदिषुः ।  
+> आपः । न । धायि । सवनं । मे । आ । वसो इति । दुघाः इव । उप । दाशुषे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यदा सुतासः अभिषुताः इंदवः सोमाः यं ( ? प्रियं)
+> वल्लभं ईं एनं त्वां अभि अभिलक्ष्य अमंदिषुः अमादयन् । तदा हे वसो
+> वासयितरिंद्र त्वया दाशुषे हविर्दत्तवते मे मह्यं मदर्थ० सवनं यज्ञः
+> उपगम्य आ धायि कार्त्स्यन सफलीकृतः । तत्र दृष्टांतः । अपो न । ता यथा
+> स्नानपानादिना सफलीक्रियंते तद्वत् । अपरो दृष्टांतः । दुघा इव । हविर्दुघा
+> धेनवो यथा सांनाय्यसेवनादिना सफलीक्रियंते तद्वत् सोमपानादिना यज्ञः
+> सफलीकृत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, when the pressed Soma juices, directing themselves towards you, the beloved, exhilarate you, then, O Vasu, the one who causes to dwell, you have made my sacrifice, coming to it, wholly fruitful for me, who have given the oblation. The first illustration is waters: as waters are made fruitful by bathing, drinking and the like. The second illustration is milch cows: as cows that yield the oblation are made fruitful by the use of the *sāṃnāyya* and so on; so the sacrifice is made fruitful by the drinking of the Soma and the rest. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Indra, giver of dwelling
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- प्रियं (*priyaṃ*)—the beloved
+- ईं अभि (*īṃ abhi*)—coming towards you
+- यत् (*yat*)—when
+- अमंदिषुः (*amaṃdiṣuḥ*)—they gratify, then
+- आपः न (*āpaḥ na*)—like waters fit for bathing and the like
+- दुघा इव (*dughā iva*)—like cows that give milk and the like
+- मे सवनं (*me savanaṃ*)—my sacrifice
+- दाशुषे (*dāśuṣe*)—me, who offer the oblation
+- उप (*upa*)—approaching
+- आ धायि (*ā dhāyi*)—makes my purpose fruitful
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling, when the pressed Soma juices approach you, the beloved of the world, and gratify you, then my sacrifice, approaching me who offer the oblation, makes my purpose fruitful, as waters fit for bathing and drinking, and as cows that give milk and the like.
+
+### Printed p. 584
+
+##### English translation
+When the effused Soma has exhilarated Indra the giver of dwellings, I offer you Soma like water—you are like the milch cow to your worshipper.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ने॒हसं॑ वो॒ हव॑मानमू॒तये॒ मध्वः॑ क्षरंति धी॒तयः॑ ।  
+> आ त्वा॑ वसो॒ हव॑मानास॒ इंद॑व॒ उप॑ स्तो॒त्रेषु॑ दधिरे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनेहसं । वः । हवमानं । ऊतये । मध्वः । क्षरंति । धीतयः ।  
+> आ । त्वा । वसो इति । हवमानासः । इंदवः । उप । स्तोत्रेषु । दधिरे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः वः युष्मत्संबंधिन्यः धीतयोऽंगुलयः ऊतये रक्षार्थं
+> हवमानं स्तूयमानमिंद्रमुद्दिश्य मध्वः मधुररसं सोमं क्षरंति । कीदृशं ।
+> अनेहसं । न आहन्यत इत्यनेहः तं । शत्रुभिरनभिभाव्यमित्यर्थः । हे वसो वासयितरिंद्र हवमानासः स्तूयमानाः इंदवः सोमाः स्तोत्रेषु निमित्तेषु त्वा त्वां
+> उप समीपे आ दधिरे आखिमुख्येन स्थापितवंतः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O priests, your fingers pour out the sweet Soma juice for protection, directed to Indra who is being praised. Indra is *anehas*, one who is not struck, that is, not to be overcome by enemies. O Vasu, you who cause to dwell, the praised Soma juices place themselves near you at the praises, taking the first place. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—your
+- धीतयः (*dhītayaḥ*)—fingers
+- ऊतये (*ūtaye*)—for your protection
+- हवमानं (*havamānaṃ*)—directed to the venerable Indra
+- आनेहसं (*ānehasaṃ*)—faultless
+- मध्वः (*madhvaḥ*)—and sweet Soma juice
+- क्षरंति (*kṣaraṃti*)—press out
+- वसो (*vaso*)—O Indra, giver of dwelling
+- हवमानासः (*havamānāsaḥ*)—worthy of praise
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- स्तोत्रेषु (*stotreṣu*)—at the times of praise
+- त्वा उप (*tvā upa*)—approaching you
+- आ दधिरे (*ā dadhire*)—are established in you
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, your fingers press out, for your protection, faultless and sweet Soma juice directed to the venerable Indra. O Indra, giver of dwelling, the Soma juices worthy of praise are established in you at the time of praise, after establishing you.
+
+### Printed p. 585
+
+##### English translation
+Worshippers, for your protection all righteous actions are dropping sweets in invocation of Indra. Giver of dwelling, Soma being effused goes to you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॒ सोमे॑ स्वध्व॒र इ॑या॒नो अत्यो॒ न तो॑शते ।  
+> यं ते॑ स्वदाव॒न्त्वदं॑ति गू॒र्तयः॑ पौ॒रे छं॑दयसे॒ हवं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । सोमे । सुअध्वरे । इयानः । अत्यः । न । तोशते ।  
+> यं । ते । स्वदावन् । स्वदंति । गूर्तयः । पौरे । छंदयसे । हवं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं यजमानानां संबंधिनि स्वध्वरे शोभनयज्ञे सोमे सोमपाने निमित्तभूते सति अत्यो न सततगमनशीलोऽश्व इव इयानः गच्छन्निंद्रः आ
+> तोशते अस्मच्छत्रून् हिनस्ति । तोशतिर्वधकर्मा । नितोषते निबर्हयति इति
+> वधकर्मसु पाठात् । इंद्रं प्रत्यक्षीकृत्य ब्रूते । हे स्वदावन् आस्वादनकुशलेंद्र
+> ते तव स्वभूताः गूर्तयः उद्यताः स्तुतयः यं त्वां स्वदंति आत्मानमास्वादयंति
+> स त्वं पौरे पुरजनसमूहे हवमात्मनः स्तुतिं छंदयसे कामयसे । यत्विग्भिः
+> स्वस्तुतिः कर्त व्येत्यभिलषसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: when, at our good sacrifice, the Soma-drinking has come about, Indra, going like a horse that is ever on the move, strikes our enemies. The root *toś* has the sense of killing, since it is read among the verbs of killing, with the form *nitoṣate* meaning he destroys. Addressing Indra directly he says: O Svadāvan, skilled in tasting, the raised praises that belong to you gratify you, who are such; you desire, among the multitude of townspeople, the invocation, that is, praise of yourself; the meaning is that you wish that the priests should offer you praise. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- स्वध्वरे (*svadhvare*)—in the good place of sacrifice
+- सोमे (*some*)—on account of the drinking of Soma
+- अत्यः न (*atyaḥ na*)—like an excellent horse
+- इयानः (*iyānaḥ*)—Indra, who goes about
+- आ तोशते (*ā tośate*)—strikes down and destroys the enemies
+- स्वदावन् (*svadāvan*)—O Indra, skilled in tasting
+- यं (*yaṃ*)—which you
+- ते (*te*)—directed to you
+- गूर्तयः (*gūrtayaḥ*)—the praises
+- स्वदंति (*svadaṃti*)—gratify, such a one
+- पौरे (*paure*)—among the townspeople, the priests and others
+- हवं (*havaṃ*)—the prayer in the form of praise
+- छंदयसे (*chaṃdayase*)—you desire
+
+### Printed p. 586
+
+##### भावार्थ (Bhāvārtha)
+
+At our good place of sacrifice, on account of the drinking of Soma, Indra, who goes about like an excellent horse, strikes down and destroys the enemies. O Indra, skilled in tasting, you whom the praises directed to you gratify, you desire among the townspeople, the priests and others, the prayer in the form of praise.
+
+##### English translation
+Indra being invoked to our good rite is going like a horse ; relishing Indra, your worshippers are sweetening this Soma. Honour invocation of the Sons of Puru.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वी॒रमु॒ग्रं विवि॑चं धन॒स्पृतं॒ विभू॑तिं॒ राध॑सो म॒हः ।  
+> उ॒द्रीव॑ वज्रिन्नव॒तो व॑सुत्व॒ना सदा॑ सीपेथ दा॒शुषे॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वीरं । उग्रं । विविचं । धन्वस्पृतं । विभूतिं । राधसः । महः ।  
+> उद्रीऽइव । वज्रिन् । अवतः । वसुत्वना । सदा । पीपेथ । दाशुषे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वीरं विशेषेण शत्रुणां प्रेरयितारं महः महत् राधसः राधो
+> धनं । कर्मणि षष्ठ्य । प्र प्रार्थये याचामि । उपसर्गवशादोग्यक्रियाध्याहारः । कीदृशं त्वां । उग्रमुद्गूर्णबलं विविचं पुण्यापुण्ययोर्निवेक्तारं
+> धनस्पृतं धनदातारं विभूतिं विविध्यॆश्वर्योर्वेतान् ( ? पेतं) यतः हे वज्रन्
+> वज्रवन्निंद्र त्वं दाशुषे हविषां दातारं । कर्मणि चतुर्थी । सदा सर्वदा
+> वसुत्वना धनदानेन पीपेथ आप्याययसि । वर्धयसीत्यर्थः । क इव । उद्रीव अवतः
+> उदकवान् कूप इव । स यथा उदकदानेन जगदाप्याययति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, I ask for, I beg, great wealth from you, the hero, who drives the enemies apart; the genitive of *rādhasaḥ* stands in the sense of the object, and the verb of begging is supplied by force of the prefix. You are fierce, of mighty strength; *vivica*, one who discriminates between merit and demerit; *dhanaspṛt*, the giver of wealth; *vibhūti*, possessed of manifold lordship. Since, O wielder of the thunderbolt, you ever make the giver of oblations thrive with gifts of wealth, as a well full of water gladdens the world by giving water, I ask thus; the dative stands in the sense of the object. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरं (*vīraṃ*)—the valiant one
+- उग्रं (*ugraṃ*)—the one of exceeding strength
+- विविचं (*vivicaṃ*)—the one who knows the difference between merit and demerit
+- धनस्पृतं (*dhanaspṛtaṃ*)—the giver of wealth
+- विभूतिं (*vibhūtiṃ*)—the one possessed of lordship
+
 ---
 
-**Progress note:** Done through printed p. 580. Maṇḍala 8 sūkta 49 Ṛks 6-10; sūkta 50 intro and Ṛk 1 Saṃhitā
+**Progress note:** Done through printed p. 586. Maṇḍala 8 sūkta 50 Ṛks 1-6 (Ṛk 6 pratipadārtha continues)
