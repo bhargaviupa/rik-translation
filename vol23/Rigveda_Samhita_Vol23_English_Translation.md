@@ -6360,6 +6360,293 @@ O Vasiṣṭha, recite a hymn of great power for the satisfaction of Sarasvatī,
 ##### English translation
 You chant, Vasishtha, a powerful hymn to her who is the most mighty of rivers : worship, Vasishtha, with well-selected praises, Saraswathi who is both in heaven and earth.
 
+### Printed p. 154
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भे यत्ते॑ महि॒ना शु॑भ्रे॒ अंध॑सी अधिक्षि॒यंति॑ पू॒रवः॑ ।  
+> सा नो॑ बोध्यवि॒त्री म॒रुत्स॑खा॒ चोद॒ राधो॑ म॒घोनां॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभे इति । यत् । ते । महिना । शुभ्रे । अंधसी इति । अधिक्षियंति । पूरवः ।  
+> सा । नः । बोधि । अवित्री । मरुत्सखा । चोद । राधः । मघोनां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुभ्रे शुभ्रवर्णे सरस्वति यद्यस्यास्ते तव महिना महिम्मोभे अंधसी
+> उभयविधं दिव्यं पार्थिवं चाग्निं ग्राम्यमारण्यं वा पूरवः पूरयितव्या मनुष्या
+> अधिक्षियंति अधिगच्छंति सा त्वमवित्री रक्षित्रि सती नोऽस्मान्नोधि । बुध्यस्व । अपि च
+> मरुत्सखा । मरुतो माध्यमिका देवगणाः । ते सखायो यस्या माध्यमिकाया
+> वाचस्तादृशी त्वं मघोनां हविर्लक्षणधनोपेतानामस्माकं राधो धनं चोद
+> प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Sarasvatī as "bright, shining-hued one". Through your greatness (महिना (*mahinā*)), he says, the Pūrus, that is, men who are to be filled (satisfied), obtain both kinds of food (अंधसी (*aṃdhasī*)): the divine and the earthly. He also allows the reading "village and forest" for the two. As our protectress (अवित्री (*avitrī*)), "know us", that is, be aware of us. Further, the Maruts are the troops of gods belonging to the middle region, and they are the friends of this middle-region Vāc (Speech). Being such, she is asked to impel (चोद (*coda*)) wealth (राधः (*rādhaḥ*)) toward us, who are possessed of wealth in the form of oblations (मघोनां (*maghonāṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभ्रे (*śubhre*)—O Sarasvatī of bright hue
+- यत् ते (*yat te*)—which your
+- महिना (*mahinā*)—by greatness
+- पूरवः (*pūravaḥ*)—men
+- उभे अंधसी (*ubhe aṃdhasī*)—the fire belonging to both worlds, the divine and the earthly
+- अधिक्षियंति (*adhikṣiyaṃti*)—obtain
+- सा (*sā*)—such you
+- अवित्री (*avitrī*)—being our protectress
+- नः (*naḥ*)—us
+- भोधि (*bhodhi*)—know
+- मरुत्सखा (*marutsakhā*)—you who are the friend of the troop of gods of the middle region
+- मघोनां (*maghonāṃ*)—to us who have food in the form of oblations
+- राधः (*rādhaḥ*)—wealth
+- चोद (*coda*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Sarasvatī of bright hue, by whose greatness men obtain the fire that belongs to both worlds, the divine and the earthly, being such, be our protectress, know us and favour us. You, the friend of the troop of gods of the middle region, provide wealth to us, who stand with food in the form of oblations prepared for you.
+
+### Printed p. 155
+
+##### English translation
+Beautiful Saraswati, inasmuch as by your might men obtain both kinds of food, you, our protectress, regard us; you, the friend of the Maruts, bestow riches upon those who are affluent (in oblations).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रमिद्भ॒द्रा कृ॑णव॒त्सर॑स्व॒त्यक॑वारी चेतति वा॒जिनी॑वती ।  
+> गृ॒णा॒ना ज॑नुदग्नि॒ वत्सु॑वा॒ना च॑ वसिष्ठ॒वत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रं । इत् । भद्रा । कृणवत् । सरस्वती । अकवअरी । चेतति । वाजिनीवती ।  
+> गृणाना । जमदग्निवत् । स्तुवाना । च । वसिष्ठवत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्रा कल्याणी भजनीया वा सरस्वती भद्रमिद्भद्रमेव कल्याणमेव कृणवत् ।
+> अस्माकं करोतु । तथाकनार्यकुत्सितगमना वाजिनीवत्यन्नवती चेतति । चेतयतु ।
+> अस्मान् प्रज्ञापयतु । यद्वा । मदीयं स्तोत्रं चेतति । जानातु । तथा जमदग्नि वज्जमदग्नि नर्षिणेव मया गृणाना स्तूयमाना वसिष्ठवत् ॥ अर्हार्थे वतिप्रत्ययः ॥ वसिष्ठार्हं वसिष्ठस्यानुरूपं स्तुवानां स्तूयमाना च भव ॥
+
+##### Gist of the bhāṣya
+
+Auspicious or worshipful Sarasvatī is to do only good, auspicious things for us. Of unblamed, praiseworthy movement and possessed of food (वाजिनीवती (*vājinīvatī*)), she is to make us aware (चेतति (*cetati*)), cause us to know; or else, she is to know my hymn. Praised by me as by the seer Jamadagni (जमदग्नि वत् (*jamadagni vat*)), she is to be one who is praised in a manner befitting Vasiṣṭha (वसिष्ठवत् (*vasiṣṭhavat*)); the affix vati is in the sense of "fit for", so "worthy of Vasiṣṭha, in accord with Vasiṣṭha".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भद्रा (*bhadrā*)—the auspicious
+- सरस्वती (*sarasvatī*)—goddess Sarasvatī
+- भद्रमित् (*bhadramit*)—only good to us
+- कृणवत् (*kṛṇavat*)—let her bring about
+- अकवारी (*akavārī*)—she of praiseworthy movement
+- वाजिनीवती (*vājinīvatī*)—and possessed of food, Sarasvatī
+- चेतति (*cetati*)—let her know our prayer
+- जमदग्नि वत् (*jamadagni vat*)—just as Jamadagni praised
+- गृणाना (*gṛṇānā*)—being praised by me too
+- वसिष्ठवत् (*vasiṣṭhavat*)—in accord with Vasiṣṭha's devotion
+- स्तुवाना च (*stuvānā ca*)—let her be praised
+
+##### भावार्थ (Bhāvārtha)
+
+May the auspicious goddess Sarasvatī bring about only good for us. May Sarasvatī, of praiseworthy movement and possessed of food, know our prayer. Praised by me too, as Jamadagni praised, may she be extolled in accord with Vasiṣṭha's devotion.
+
+### Printed p. 156
+
+##### English translation
+May the auspicious Saraswati bestow auspicious fortune upon us: may tne faultless-moving food-conferring (goddess) think of us; glorified (as you have been) by Jamadagni, (be now) glorified by Vasishtha.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒नी॒यंतो॒ न्वग्र॑वः पुत्री॒यंतः॑ सु॒दान॑वः ।  
+> सर॑स्वंतं हवामहे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनिऽयंतः । नु । अग्रवः । पुत्रिऽयंतः । सुदानवः ।  
+> सरस्वंतं । हवामहे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सरस्वद्देवताके पशौ जनीयंत इति तिस्रः पुरोडाशहविषां क्रमेणानुवाक्याः । सूत्रितं च । जनीयंतो न्वग्रव इति तिस्रो दिव्यं सपर्णं वायसं
+> बृहंतं । आ. ३-८ । इति ॥
+> जनीयंतः । जायंत आस्वपत्यानीति जनयो जायाः । ता इच्छंतः पुत्रीयंतः पुत्रान्कामयमानाः सुदानवः शोभनदाना अग्रव उपगंतारो वयं
+> न्वद्य सरस्वंतं देवं हवामहे ! आह्वयामहे ना ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice addressed to Sarasvat, the three verses beginning जनीयंत (*janīyaṃta*) are the anuvākyā (invitatory) verses for the oblations of the puroḍāśa, in order. The sūtra says: जनीयंतो न्वग्रव इति तिस्रो (*janīyaṃto nvagrava iti tisro*) … (Ā. 3-8). Explanation: janayaḥ are wives, who bear offspring; desiring them (जनीयंतः (*janīyaṃtaḥ*)), desiring sons (पुत्रीयंतः (*putrīyaṃtaḥ*)), of good gifts (सुदानवः (*sudānavaḥ*)), approaching (अग्रवः (*agravaḥ*)), we now invoke the god Sarasvat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनीयंतः (*janīyaṃtaḥ*)—those who desire wives
+- पुत्रीयंतः (*putrīyaṃtaḥ*)—those who desire sons
+- सुदानवः (*sudānavaḥ*)—we who are of excellent gifts
+- नु (*nu*)—now
+- सरस्वंतं (*sarasvaṃtaṃ*)—the god Sarasvat
+- अग्रवः (*agravaḥ*)—approaching
+- हवामहे (*havāmahe*)—we pray to and call him
+
+##### भावार्थ (Bhāvārtha)
+
+We, who desire wives, desire sons, and are of excellent gifts, now approach the god Sarasvat and call him with prayer.
+
+### Printed p. 157
+
+##### English translation
+Desiring wives, desiring sons, liberal of donations, we, approaching him, now worship Saraswat.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice addressed to Sarasvat, the 4th, 5th and 6th ṛks of this sūkta, beginning जनीयंतः (*janīyaṃtaḥ*), are to be recited in order as anuvākyā mantras while the animal, the puroḍāśa and the oblations are offered; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra beginning जनीयंतो न्वग्रह इति तिस्रो दिव्यं सुपर्णं वायसं बृहंतं (*janīyaṃto nvagraha iti tisro divyaṃ suparṇaṃ vāyasaṃ bṛhaṃtaṃ*) (Ā. 3-8).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ते॑ सरस्व ऊ॒र्मयो॒ मधु॑मंतॊ घृत॒श्चतः॑ ।  
+> तेभि॑र्नोऽवि॒ता भ॑व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ते । सरस्वः । ऊर्मयः । मधुमंतः । धृतश्चुतः ।  
+> तेभिः । नः । अविता । भव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सरस्वः सरस्वन् देव ते त्वदीया य ऊर्मयो जलसंघा मधुमंतो
+> रसवंतो घृतश्चुतो घृतस्य वृष्टुदकस्य क्षारिणो भवंति तेभिस्तैरूर्मिभिर्नोऽस्माकमपिता रक्षिता भव ॥
+
+##### Gist of the bhāṣya
+
+O Sarasvat, god, those masses of water (ऊर्मयः (*ūrmayaḥ*)) of yours that are sweet, full of savour, and shed ghee, that is, are dripping with rain-water: with those waves be our protector.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरस्वः (*sarasvaḥ*)—O god Sarasvat
+- ते (*te*)—your
+- ये ऊर्मयः (*ye ūrmayaḥ*)—which masses of water
+- मधुमंतः (*madhumaṃtaḥ*)—sweet and full of savour
+- घृतश्चुतः (*ghṛtaścutaḥ*)—and dripping ghee
+- तेभिः (*tebhiḥ*)—with those masses of water
+- नः (*naḥ*)—our
+- अविता (*avitā*)—as protector
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O god Sarasvat, whichever of your masses of water are sweet and full of savour and drip ghee, by means of those masses of water be our protector.
+
+### Printed p. 158
+
+##### English translation
+With those your waves, Saraswat, which are sweet-tasted, the distributors of water, be our protector.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sarasvān: in explaining this word Yāska has taken this very ṛk as the example. सरस्वान् । सरस्वान् व्याख्यातः । तस्सैषा भवति । ये ते सरस्व ऊर्मयो मधुमंतो धृतश्चुतः । तेभिर्नोऽविता भव । इति सा निगदव्याख्याता ॥ (*sarasvān | sarasvān vyākhyātaḥ | tassaiṣā bhavati | ye te sarasva ūrmayo madhumaṃto dhṛtaścutaḥ | tebhirno 'vitā bhava | iti sā nigadavyākhyātā ‖*) (Ni. 10-24). The derivation of the word sarasvān is the same as that of the word sarasvatī; only the gender differs. For the word sarasvatī Yāska gives the etymology सरस्वती सर इत्युदकनाम सर्तेस्तद्वती (*sarasvatī sara ityudakanāma sartestadvatī*) (Ni. 9-26). Saraḥ means water. That which has water (a river) is Sarasvatī; or, from sṛ, "to go" (to flow), the word saraḥ may be formed, meaning flowing water. The river that has such flowing water is called Sarasvatī. The chief point of the etymology is that the derivation of the word sarasvatī applies to the word sarasvān too.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पी॒पि॒वांसं॒ सर॑स्वतः॒ स्तनं॒ यो वि॒श्वद॑र्शतः ।  
+> भ॒क्षी॒महि॑ प्र॒जामिषं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पीपिनांसं । सरस्वतः । स्तनं । यः । विश्वदर्शतः ।  
+> भक्षीमहि । प्रजां । इषं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अन्वारंभणीयायां सरस्वतो यागस्य पीपिवांसमित्यनुवाक्या । सूत्रितं
+> च । पीपिवांसं सरस्वतो दिव्यं सुपर्णं वायसं बृहंतं । आ. २-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Anvārambhaṇīya (rite) of the Sarasvata sacrifice, पीपिवांसं (*pīpivāṃsaṃ*) is the anuvākyā. The sūtra says: पीपिवांसं सरस्वतो दिव्यं सुपर्णं वायसं बृहंतं । (*pīpivāṃsaṃ sarasvato divyaṃ suparṇaṃ vāyasaṃ bṛhaṃtaṃ |*) (Ā. 2-8).
+
+### Printed p. 159
+
+> पीपिवांसं प्रवृद्धं सरस्वतो देवस्य स्तनं शब्दायमानं स्तनवद्रसाधारं
+> वा मेघं भक्षीमहि भजेमहि । प्राप्नुयाम । यो विश्वदर्शतो विश्वैः सर्वैर्दर्शतो भवति दृश्यमानो भवति । तं स्तनं मेघमित्यर्थः । तथा प्रजां पुत्रादिरूपामिषमन्नं च सरस्वतः प्रसादाद्भक्षीमहि ॥
+
+##### Gist of the bhāṣya
+
+पीपिवांसं (*pīpivāṃsaṃ*) means swollen. May we partake of, that is, obtain, the cloud of the god Sarasvat, which is his breast, sounding, or the reservoir of savour like a breast, that is visible (विश्वदर्शतः (*viśvadarśataḥ*)) to all. So too, through Sarasvat's favour, may we partake of progeny, in the form of sons and the like, and of food (इषं (*iṣaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरस्वतः (*sarasvataḥ*)—of the god Sarasvat
+- स्तनं (*stanaṃ*)—like a breast, the reservoir of savour
+- पीपिवांसं (*pīpivāṃsaṃ*)—swelling
+- यः (*yaḥ*)—who
+- विश्वदर्शतः (*viśvadarśataḥ*)—visible to all, that cloud
+- भक्षीमहि (*bhakṣīmahi*)—may we resort to
+- प्रजां (*prajāṃ*)—offspring, sons and the like
+- इषं (*iṣaṃ*)—and food, may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+May we resort to the cloud of the god Sarasvat, which as his breast is the reservoir of savour in the form of rain, swelling and visible to all, and through his favour obtain sons and the like and food.
+
+##### English translation
+May we recline upon the protuberant breast of Saraswat, which is visible to all, that we may possess progeny and food.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Anvārambhaṇīyeṣṭi, in the sacrifice addressed to Sarasvat, this ṛk beginning पीपिवांसं (*pīpivāṃsaṃ*) is to be recited as the anuvākyā mantra; this is explained by the Āśvalāyana Śrauta Sūtra in the sūtra पीपिवांसं सरस्वतो दिव्य सुपर्णं वायसं बृहंतं (*pīpivāṃsaṃ sarasvato divya suparṇaṃ vāyasaṃ bṛhaṃtaṃ*) (Ā. 2-8).
+
+## Sūkta 97 (Maṇḍala 7)
+The ninety-seventh sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञे दिव इति दशर्चमष्टमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं । प्रथमैंद्री
+> तृतीयानवम्योरिंद्राब्रह्मणस्पती देवता दशम्या इंद्राबृहस्पती शिष्टानां तु
+> बृहस्पतिः । तथा चानुक्रांतं। यज्ञे दशैंद्रादि बार्हस्पत्यमंत्कैंद्री च तृतीयानवम्यावैंद्राब्राह्मणस्पतै इति ॥ अभिप्लविकेषूक्ष्येषु तृतीयसवनॆः स्तोमवृद्दौ
+> ब्राह्मणाच्छंसिन इदमुत्तरं च सूक्तमावापार्थं । सूत्रितं च । यज्ञेदिवः ।
+> आ. ७-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यज्ञे दिवः (*yajñe divaḥ*) is the eighth sūkta, of ten ṛks, with Vasiṣṭha as seer and Triṣṭubh as metre. The deity of the first verse is Indra; of the third and ninth, Indra and Brahmaṇaspati; of the tenth, Indra and Bṛhaspati; of the rest, Bṛhaspati. The Anukramaṇī says: यज्ञे दशैंद्रादि बार्हस्पत्यमंत्कैंद्री च तृतीयानवम्यावैंद्राब्राह्मणस्पतै इति ॥ (*yajñe daśaiṃdrādi bārhaspatyamaṃtkaiṃdrī ca tṛtīyānavamyāvaiṃdrābrāhmaṇaspatai iti ‖*) In the Abhiplava ukthya rites, at the third pressing, for the increase of soma, the Brāhmaṇācchaṃsin recites this sūkta and the one after it as āvāpa (insertion). The sūtra says: यज्ञेदिवः । (*yajñedivaḥ |*) (Ā. 7-9).
+
+### Printed p. 160
+
+##### Anuvāda
+
+This sūkta beginning यज्ञे दिवः (*yajñe divaḥ*) is the eighth sūkta in the sixth anuvāka. It has ten ṛks. Vasiṣṭha is the seer of this sūkta; the deity of its first ṛk is Indra; of the third and ninth ṛks, Indra and Brahmaṇaspati; of the tenth ṛk, Indra and Bṛhaspati; of the remaining ṛks, Bṛhaspati. In the Anukramaṇī it is said: यज्ञे दशैंद्रादिबार्हस्पत्यमंत्रैंद्री च तृतीयानवम्यावृंद्रा ब्राह्मणस्पत्ये (*yajñe daśaiṃdrādibārhaspatyamaṃtraiṃdrī ca tṛtīyānavamyāvṛṃdrā brāhmaṇaspatye*). In the ukthya sacrifices connected with the Abhiplava, at the third pressing, the priest called Brāhmaṇācchaṃsin is to recite this sūkta and the next one as āvāpa for the increase of soma; this is explained by the Āśvalāyana Śrauta Sūtra in the sūtra यज्ञे दिवः (*yajñe divaḥ*) (Ā. 6-9).
+
+Sūkta 97. Maṇḍala 7; Anuvāka 6; Sūkta 93. Aṣṭaka 5; Adhyāya 6; Vargas 21, 22. Number of ṛks in the sūkta: 10. Ṛṣi: Vasiṣṭha. Deity: 1 Indra; 2, 4-8 Bṛhaspati; 3, 9 Indra and Brahmaṇaspati; 10 Indra and Bṛhaspati. Metre: Triṣṭubh.
+**NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञे दि॒वो नृ॒षद॑ने पृथि॒व्या नरो॒ यत्र॑ देव॒यवो॒  ॑
+> मदंति ।  
+> इंद्रा॑य॒ यत्र॒ सव॑नानि सु॒न्वे गम॒न्मदा॑य प्रथ॒मं वय॑श्च ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञे । दिवः । नृसदने । पृथिव्याः । नरः । यत्र । देव्ययवः । मदंति ।  
+> इंद्राय । यत्र । सवनानि । सुन्वे । गमत् । मदाय । प्रथमं । वयः । च ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्यज्ञे देवयवो देवान्कामयमाना नरो नेतार ऋत्विजो
+> मदंति हृष्यंति यत्र यस्मिंश्च सवनान्यभिषोतव्याः सोमा इंद्रायेंद्रार्थं
+
+##### Gist of the bhāṣya
+
+(Breaks off at the end of the window.) In the sacrifice in which the leaders (नरः (*naraḥ*)), the priests who desire the gods (देव्ययवः (*devyayavaḥ*)), rejoice, and in which the soma-juices to be pressed at the pressings (सवनानि (*savanāni*)) for Indra are …
+
 ---
 
-**Progress note:** Done through printed p. 153. pp. 147-153 (batch API)
+**Progress note:** Done through printed p. 160. pp. 154-160 (batch API)
