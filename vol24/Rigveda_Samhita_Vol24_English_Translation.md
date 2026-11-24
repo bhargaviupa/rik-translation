@@ -6438,6 +6438,262 @@ Hear, leaders (of rites), (the invocation) of me the son of Vyashwa, and underst
 
 O praiseworthy (धिष्णा (*dhiṣṇā*), worthy of praise) Aśvins, showerers (वृषणा (*vṛṣaṇā*)) of desires: सूरिभिः (*sūribhiḥ*) stands for सूरिभ्यः (*sūribhyaḥ*), to the praisers. Whatever wealth and the like is given by you to the praisers (युवादत्तस्य (*yuvādattasya*)) and whatever is brought by you to the praisers (युवानीतस्य (*yuvānītasya*)), that, day after day, grant to me, Viśvamanas, who offer praise.
 
+### Printed p. 143
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणा (*vṛṣaṇā*)—bestowers of desired objects
+- धिष्णा (*dhiṣṇā*)—worthy of praise, O Aśvins
+- सूरिभिः (*sūribhiḥ*)—to all the praisers
+- युवादत्तस्य (*yuvādattasya*)—that which is to be given by you
+- युवानीतस्य (*yuvānītasya*)—that which is brought by you for them; the wealth and the like
+- अहरहः (*aharahaḥ*)—every day
+- मह्यं (*mahyaṃ*)—to me, named Viśva
+- शिक्षतं (*śikṣataṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, bestowers of desired objects and worthy of praise, give every day to me, named Viśvamanas, the wealth and the like that is given by you to all the praisers and that is brought by you for them.
+
+##### English translation
+Adorable showerers (of benefits), bestow daily upon me (some) of that (wealth) which is given by you, which is brought by you for the worshippers.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वां॑ य॒ज्ञेभि॒रावृ॒तोऽधि॑वस्रा व॒धूरि॑व ।  
+> स॒प॒र्यंता॑ शु॒भे च॑क्राते अ॒श्विना॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वां । यज्ञेभिः । आवृतः । अधिवस्त्रा । वधूः इव ।  
+> सपर्यंता । शुभे । चक्राते इति । अश्विना ॥ १४ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ पूर्वोर्धर्चः परोक्षकृतः । यो मनुष्यो नां युवयोर्यज्ञेभिर्यजनैः पूजनैः यद्वा युष्मद्विषयैर्यागैरावृतः परिवृतो भवति ।
+> तत्र दृष्टांतः । आधिवस्त्रोपरिनिहितवस्त्रा वधूरन्येन वस्त्रेण यथाच्छादिता भवति
+> तथावृतो यदा भवति तदा सपर्यंताभीष्टप्रदानेन तं परिचरंतावश्विनाश्विन्
+> भव्यंतौ तं मनुष्यं शुभे चक्राते । मंगले धने कृतवंतौ । तं धनादियुक्तम-
+
+##### Gist of the bhāṣya
+
+Now the first half of the verse is in the indirect (third-person) form. The man who is enveloped (आवृतः (*āvṛtaḥ*)) by the sacrifices, the acts of worship, of you two, or else by sacrifices directed to you. Here is an example: as a bride who already wears a garment becomes covered with another garment over it, so when he is enveloped, then, serving him by granting what he wishes (सपर्यंता (*saparyaṃtā*)), you, Aśvins,
+
+### Printed p. 144
+
+> कार्ष्वामित्यर्थः । यो युवाभ्यां हवींषि प्रयच्छति तं धनादियुक्तं कुरुतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+you place that man in auspicious wealth (शुभे चक्राते (*śubhe cakrāte*) means: you make him possessed of wealth, auspicious). That is, whoever offers oblations to you two, him you make endowed with wealth and the like. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- अधिवस्त्रा (*adhivastrā*)—who already wears a garment
+- वधूः इव (*vadhūḥ iva*)—as a maiden (a woman) covers herself with another garment over it
+- यः (*yaḥ*)—which man
+- वाः (*vāḥ*)—directed to you two
+- यज्ञेभिः (*yajñebhiḥ*)—with sacrifices
+- आवृतः (*āvṛtaḥ*)—becomes enveloped, then
+- सपर्यंता (*saparyaṃtā*)—you who serve him by granting what he wishes (that man)
+- शुभे (*śubhe*)—with auspicious wealth and the like
+- चक्राते (*cakrāte*)—you join
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, as a maiden who already wears a garment covers herself with another garment over it, so when a man becomes enveloped by sacrifices directed to you two, then you, serving him by granting what he wishes, join that man with auspicious wealth and the like.
+
+##### English translation
+The man who is enveloped in sacrifices (offered) to you, like a woman with additional raiment, rewarding him, Aswins, you place him in prosperity.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वा॑मुरु॒व्यच॑स्तमं॒ चिके॑तति नृ॒पाय्यं॑ ।  
+> व॒र्तिर॑श्विना॒ परि॑ यातमस्म॒यू ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यॆः । वां । उरुव्यचःतमं । चिकेतति । नृपाय्यं ।  
+> वर्तिः । अश्विना । परि । यातं । अस्मयू इत्यस्मयू ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ उरुव्यचस्तममतिशयेन ग्रहेषु भूतं व्याप्तं नृपाय्यं
+> नेतृभ्यां युवाभ्यां पातव्यं सोमं यो मनुष्यो वां युवाभ्यां तं सोमं
+
+##### Gist of the bhāṣya
+
+O Aśvins, the Soma that is described by उरुव्यचस्तमं (*uruvyacastamaṃ*) is that which, to the highest degree, is abundant and spread in the cups, and by नृपाय्यं (*nṛpāyyaṃ*) is that which is to be drunk by you two, the leaders. The man who
+
+### Printed p. 145
+
+> दातुं चिकेतति भृशं जानाति तस्य वर्तिः । वर्ततेऽत्रेति वर्तिर्गृहं । अस्मयू
+> अस्मान् । पूजार्थं बहुवचनं । विश्वमनसं मां कामयमानौ युवां परि
+> यातं । सोमपानार्थं तस्य गृहं प्रत्यायातं ॥ चिकेतति । कित ज्ञान इत्यस्य
+> यज्लुगंतस्य लेट्मडागमः ॥
+
+##### Gist of the bhāṣya
+
+clearly knows (चिकेतति (*ciketati*)) how to give that Soma to you two: his वर्तिः (*vartiḥ*) is his house (the place where one stays). अस्मयू (*asmayū*) means "us"; the plural is for honour. You two, desiring me, Viśvamanas, come round to his house to drink Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- उरुव्यचस्तमं (*uruvyacastamaṃ*)—that which fills the house of sacrifice
+- नृपाय्यं (*nṛpāyyaṃ*)—that which is drunk by you, the leaders; the Soma
+- यः (*yaḥ*)—which man
+- वां (*vāṃ*)—the manner of offering it to you
+- चिकेतति (*ciketati*)—knows, his
+- वर्तिः (*vartiḥ*)—to the house
+- अश्मयू (*aśmayū*)—desiring the company of me, named Viśvamanas
+- परियातं (*pariyātaṃ*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, come to the house of the man who knows the manner of offering to you the Soma that fills the house of sacrifice and is drunk by you, the leaders, desiring the company of me, named Viśvamanas.
+
+##### English translation
+Favourably disposed towards me, come, Ahwins, to the dwelling of him who knows (how to prepare for you) the most copiously effused (libation) to be drunk by the leaders (of rites).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मभ्यं॒ सु वृ॑षण्वसू या॒तं व॒र्तिर्नृ॒पाय्यं॑ ।  
+> वि॒षु॒द्रुहे॑व य॒ज्ञमू॑हुथुर्गि॒रा ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मभ्यं । सु । वृषण्वसू इति वृषण्वसू । यातं । वर्तिः । नृपाय्यं ।  
+> विषुद्रुहाइव । यज्ञं । ऊहथुः । गीरा ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषण्वसू वर्षणशीलधनवंतावश्विन् अस्मभ्यमस्मदर्थं नृपाय्यं
+> नेतृभ्यां पातव्यं सोमं प्रति वर्तिरस्मदीयं गृहं प्रति सु यातं । युवां
+> XXIV 10
+
+##### Gist of the bhāṣya
+
+O Aśvins, वृषण्वसू (*vṛṣaṇvasū*), possessors of wealth that is of the nature of showering, come well to our house, for us, for the Soma that is to be drunk by you two, the leaders. You
+
+### Printed p. 146
+
+> सुष्ठायातं । गिरा स्तुतिलक्षणया वाचा युवां यज्ञमूहथुः । मनुष्येषु
+> यज्ञसमाप्तिं प्रापयथः । तत्र दृष्टांतः । विषुद्रुहेव ॥ द्रुह जिघांसायां ॥
+> विश्वान्दिनस्ति शत्रुनिति विषुद्रुहः शरः । तेन यथा व्याधो मृगमभिलषितं देशं
+> प्रापयति तद्वत् स्तुत्या यज्ञमवैकल्येन समाप्तिं प्रापयथ इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+come well. By speech of the nature of praise you carry the sacrifice, you bring it to completion among men. The example is विषुद्रुहेव (*viṣudruheva*): the arrow that kills all enemies. As a hunter by it brings the deer to the place he desires, so you by praise bring the sacrifice to completion without any deficiency. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्यसू (*vṛṣaṇyasū*)—O Aśvins, possessed of wealth in the form of rain
+- अस्मभ्यं (*asmabhyaṃ*)—to favour us
+- नृपाय्यं (*nṛpāyyaṃ*)—the Soma fit to be drunk by you, the leaders, to drink it
+- वर्तिः (*vartiḥ*)—to our house of sacrifice
+- सु यातं (*su yātaṃ*)—come in an excellent manner
+- विषुद्रुहेव (*viṣudruheva*)—as one brings a deer to its end with a poisoned arrow
+- गिरा (*girā*)—with our praise
+- यज्ञं (*yajñaṃ*)—our sacrifice
+- ऊहथु (*ūhathu*)—bring to completion
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, possessed of wealth in the form of rain, come in an excellent manner to our house of sacrifice, to favour us, for the Soma-drinking, the Soma being fit to be drunk by you, the leaders. As one brings a deer to its end with a poisoned arrow, bring our sacrifice to completion with our praise.
+
+##### English translation
+Affluent showerers (of benefits), come to our dwelling for (the libation) to be drunk by the leaders (of rites), for you bring the sacrifice to completion by praise, as the fatal shaft (slays the deer).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाहि॑ष्ठो वां॒ हवा॑नां॒ स्तोमो॑ दू॒तो हु॑वन्नरा ।  
+> यु॒वाभ्यं॑ भूत्वश्विना ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाहिष्ठः । वां । हवानां । स्तोमः । दूतः । हुवत् । नरा ।  
+> युवाभ्यां । भूतु । अश्विना ॥ १६ ॥
+
+### Printed p. 147
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातरनुवाक आश्विने क्रत् गायत्रे छंदसि वाहिष्टो वां हवानामिति चतस्रः ।
+> सूत्रितं च वाहिष्टो वां हवानामिति चतस्र उदीराथामा मे हवमिति गायत्रं।
+> आ. ४-१५ । इति ॥
+> हे नरा नर सर्वस्य नेतारावश्विन् हवानां स्तोत्यणां स्तोत्राणां मध्ये
+> स्तोमो वाहिष्टो युवामतिशयेन व्याप्प्नु वन् मदीयः स्तोमो दूतो
+> दूतभूतः सन् हुवत् । आह्वयतु । सोऽयं मदीयः स्तोमो युवाभ्यां
+> प्रियकरो भूतु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+Use: in the Prātaranuvāka, in the Āśvina rite, among the verses in the Gāyatrī metre, the four verses beginning वाहिष्ठो वां हवानां (*vāhiṣṭho vāṃ havānāṃ*) are used; and it is laid down in the sūtra (Ā. 4-15) that these four are so used, and that the Gāyatra recitation follows. O leaders (नरा (*narā*)) of all, Aśvins: among the hymns (हवानां (*havānāṃ*), hymns of praise) my hymn (स्तोमः (*stomaḥ*)), which pervades you most, may call you, being a messenger (दूतः (*dūtaḥ*)); may that hymn of mine be pleasing to you two.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders
+- अश्विना (*aśvinā*)—O Aśvins
+- हवानां (*havānāṃ*)—among all the hymns of praise
+- स्तोमः (*stomaḥ*)—this hymn of mine
+- वाहिष्ठः (*vāhiṣṭhaḥ*)—pervading you most excellently
+- वां (*vāṃ*)—you
+- दूतः (*dūtaḥ*)—like your messenger
+- हुवत् (*huvat*)—may it call
+- युवाभ्यं (*yuvābhyaṃ*)—to both of you
+- भूतु (*bhūtu*)—may it be, as a source of pleasure
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, leaders, among all the hymns of praise may this hymn of mine, pervading you most excellently, call you like your messenger. May it be a source of pleasure to both of you.
+
+##### English translation
+Aswins, leaders (of rites), among (all) invocations may my most earnest praise invoke you as a messenger, may it be (acceptabl) to you.
+
+##### विशेषविषयगळु (Special Topics)
+
+The four Ṛks beginning वाहिष्ठो वां हवानां (*vāhiṣṭho vāṃ havānāṃ*) are to be applied, at the time of reciting the mantras of the Prātaranuvāka, to the Ṛks in the Gāyatrī metre belonging to the Āśvina rite, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra वाहिष्ठो वां हवानामिति चतस्र उदीरथामा हे हवमिति गायत्रं (*vāhiṣṭho vāṃ havānāmiti catasra udīrathāmā he havamiti gāyatraṃ*) (Ā. 4-15).
+
+वाहिष्ठः (*vāhiṣṭhaḥ*): as to the meaning of this word, the meaning given by the commentator and Yāska's etymology differ a little. The commentator has explained वाहिष्ठः युवामतिशयेन व्याप्प्नुवन् (*vāhiṣṭhaḥ yuvāmatiśayena vyāppnuvan*) as: the hymn that pervades you exceedingly. But Yāska has explained वाहिष्ठः (*vāhiṣṭhaḥ*) as having the nature of bearing: the hymn that bears my prayer to you.
+
+### Printed p. 148
+
+वाहिष्टः । दूतः । वाहिष्टो नां हवानां स्तोमो दूतो हुवन्नरा । वोढृतमो ह्वानानां स्तोमो दूतो हुवन्नरौ । नरा मनुष्या नृत्यंति कर्मसु । दूतो जवतेर्वा द्रवतेर्वा वारयतेर्वा । दूतो देवानामसि मर्त्यानामित्यपि निगमो भवति ॥ (*vāhiṣṭaḥ | dūtaḥ | vāhiṣṭo nāṃ havānāṃ stomo dūto huvannarā | voḍhṛtamo hvānānāṃ stomo dūto huvannarau | narā manuṣyā nṛtyaṃti karmasu | dūto javatervā dravatervā vārayatervā | dūto devānāmasi martyānāmityapi nigamo bhavati ‖*) (Ni. 5-1)
+
+वाहिष्ठः (*vāhiṣṭhaḥ*) means having the nature of bearing, of conveying. This meaning can apply both to a messenger and to a hymn offered to a deity. Since a hymn containing our prayers goes forth from us (being recited) to the gods, the use of the word वाहिष्ठः (*vāhiṣṭhaḥ*) for a hymn that goes bearing our prayer is fitting. This kind of meaning is common also to the word दूत (*dūta*); for the messenger too conveys our prayer or our wishes to the gods. नराः (*narāḥ*) means men. This word may be formed from the root nṛt; because men move about in a special way, or move to and fro, when they work, नराः (*narāḥ*) means men. The word दूत (*dūta*) may be formed from the root javati, which denotes speed, or from the root dravati, which denotes the meaning "run quickly", or from the root vārayati, which has the meaning "avert (difficulties)". A messenger runs swiftly to inform one person of a matter from another, or avoids the difficulties that may arise on the way and reaches the appointed place and informs. Therefore Yāska has said that the word दूत (*dūta*) is formed from one or other of the roots mentioned above, and that in this matter the Vedic sentence दूतो देवानामासि मर्त्यानां (*dūto devānāmāsi martyānāṃ*) is itself the illustration.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒दो दि॒वो अ॑र्ण॒व इ॒षो वा॒ मद॑थो गृ॒हे ।  
+> श्रुतमिन्ने अमत्यार् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यॆत् । अदः । दिवः । अर्णवे । इषः । वा । मदथः । गृहे ।  
+> श्रुतं । इत् । मे । अमर्त्या ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ दिवो द्युलोकस्यादः ॥ सुपां सुलुगिति सप्तम्याः सः ॥ अमुष्मिन्नर्णवेऽपां स्थाने यद्यदि मदथः माद्यथः । वापि चेषो युवामिच्छतो
+
+##### Gist of the bhāṣya
+
+O Aśvins, अदः (*adaḥ*) stands for "yonder": in yonder ocean, the place of the waters, of the heaven (the world of heaven), if (यद्यदि (*yadyadi*)) you two rejoice (मदथः (*madathaḥ*)); or also you who desire the food (इषः (*iṣaḥ*)) (the sentence continues in the next window).
+
 ---
 
-**Progress note:** Done through printed p. 142. Rk 6 end to Rk 12 start, pp. 137-142
+**Progress note:** Done through printed p. 148. Rk 12 end to Rk 17 start, pp. 143-148
