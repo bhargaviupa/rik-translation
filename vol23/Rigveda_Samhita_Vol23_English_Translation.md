@@ -28500,6 +28500,290 @@ O most mighty (शविष्ठ (*śaviṣṭha*)), protector of the good (स
 - धारय (*dhāraya*)—establish
 - सूरिभ्यः (*sūribhyaḥ*)—**NOTE**
 
+### Printed p. 684
+
+##### Gist of the bhāṣya
+
+none for the opening lines of this window; they complete the previous block.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोतृगळिगॆ (*stotṛgaḷigè*)—to the praisers
+- अमृतं (*amṛtaṃ*)—imperishable
+- वसुत्वने (*vasutvane*)—all-pervading
+- श्रवः (*śravaḥ*)—food (grant)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, most powerful and protector of the virtuous, establish wealth in us who praise you. Grant to the praisers food that is imperishable and all-pervading.
+
+##### English translation
+Most powerful Indra, protector of the virtuous, secure us who praise you in the possession of riches, (grant) to the pious imperishable all-pervading sustenance.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हवे॑ त्वा॒ सूर॒ उदि॑ते॒ हवे॑ म॒ध्यंदि॑ने दि॒वः ।  
+> जु॒षा॒ण इं॑द्र॒ सप्ति॑ भिर्न॒ आ ग॑हि ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हवे । त्वा । सूरे । उत् इते । हवे । मध्यंदिने । दिवः ।  
+> जुषाणः । इंद्र । सप्तिभिः । नः । आ । गहि ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सूरे सूर्य उदित उदयं प्राप्ते सति प्रातःसवने त्वां हवे ।
+> आह्वये । तथा दिवो दिवसस्य मध्यंदिने मध्यभागे माध्यंदिनसवने त्वां हवे ।
+> आह्वये । हे इंद्र स त्वं जुषाणः प्रीयमाणः सन् सप्तिभिः सर्पणशीलैरश्वैर्नोS
+> स्मना गहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when the sun has risen, at the morning pressing, I invoke you. Likewise at midday, the middle of the day, at the midday pressing, I invoke you. O Indra, pleased, come to us with your swift-gliding horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सूरे (*sūre*)—when the sun
+- उदिते (*udite*)—has risen
+- त्वा (*tvā*)—you
+- हवे (*have*)—I call
+- विवः (*vivaḥ*)—of the day
+- मध्यंदिने (*madhyaṃdine*)—at midday
+- हवे (*have*)—I call you
+- जुषाणः (*juṣāṇaḥ*)—satisfied by our praises
+- सप्तिभिः (*saptibhiḥ*)—with your horses
+- नः (*naḥ*)—to us
+- आ गहि (*ā gahi*)—be gracious to come
+
+### Printed p. 685
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the sun has risen, that is, at the time of the morning pressing, I call you. At the time of the midday pressing too I call you. Satisfied by our praises, come to us with your horses.
+
+##### English translation
+I invoke you when the sun is risen; I invoke (you) at mid-day : being propitiated, come to us, Indra, with your gliding steads.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तू ग॑हि॒ प्र तु द्र॑व॒ मत्सा॑ सु॒तस्य॒ गोम॑तः ।  
+> तंतुं॑ तनुष्ट पू॒र्व्यं यथा॑ वि॒दे ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । गहि । प्र । तु । द्रव । मत्स्व । सुतस्य । गोऽमॆतः ।  
+> तंतुं । तनुष्व । पूर्व्यं । यथा ' विदे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तु क्षिप्रमा गहि । आगच्छ । अगत्य च तु क्षिप्रं प्र द्रव । सोमो यत
+> निवसति तं देशं प्रति शीघ्रं गच्छ । गत्वा च गोमतो गोविकारैः पयःप्रकृतिभिः
+> श्रयणद्रव्यैर्युक्तस्य सुतस्याभिसुतस्य सोमस्य पानेन मत्स्व । माद्य । हृष्टो
+> भव । तदनंतरं यथाहं विदे उपलभे तथा पूर्व्यं पूर्वैः कृतं तंतुं विस्तृतं
+> यज्ञं तनुष्व । सम्यङ्नाप्वादय । फलोत्पादनसमर्थं कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come quickly, and having come, run quickly to the place where the Soma stays. Having gone, rejoice by drinking the pressed Soma, which is joined with cow-products, the milk-based mixing materials. Thereafter, so that I may obtain, extend the sacrifice spread out by the ancients; make it able to produce its fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तु (*tu*)—quickly
+- आ गहि (*ā gahi*)—be gracious to come
+- तु (*tu*)—quickly
+- प्र द्रव (*pra drava*)—run to the place where the Soma is
+- गोमतः (*gomataḥ*)—mixed with milk and so on
+- सुतस्य (*sutasya*)—pressed and ready, of the Soma juice (by drinking)
+- मत्स्व (*matsva*)—rejoice
+- यधा (*yadhā*)—by which rite
+- विदे (*vide*)—I may obtain wealth (in that way)
+- पूर्व्यं (*pūrvyaṃ*)—performed by the ancients
+- तंतुं (*taṃtuṃ*)—the sacrifice
+- तनुष्प (*tanuṣpa*)—obtain (make it fruit-producing)
+
+### Printed p. 686
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come quickly. Run quickly to the place where the Soma is. Rejoice by drinking the Soma juice, mixed with milk and so on and pressed ready. In such a way, that is, by performing which rite I may obtain wealth, secure the sacrifice performed by the ancients. Make that sacrifice produce its fruit.
+
+##### English translation
+Come quickly ; hasten ; be exhilarated by the libation mixed with milk ; extend the acient sacrifice, so that I may obtain (its reward).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्छ॒क्रासि॑ परा॒पति॒ यद॑र्वा॒वति॑ वृत्रहन् ।  
+> यद्वा॑ समु॒द्रे अंध॑सोऽवि॒तेद॑सि ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । शक्र । असि । परावति । यत् । अर्वावति । वृत्रहन् ।  
+> यत् । वा । समुद्रे । अंधसः । अविता । इत् । असि ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शक्र शक्तेंद्र परावति दूरदेशे यद्यद्यसि भवसि । हे वृत्रहन् यद्यदि
+> वार्वावति समीपे भवसि वर्तसे । यद्वा यदि वा समुद्रे जलधावंतरिक्षे वा
+> वर्तसे । तस्मात्सर्वस्मात्स्थानादागत्यांधसोऽन्नस्य सोमलक्षणस्य पानेनावितासि ।
+> रक्षिता भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Shakra, mighty Indra, whether you are in a far-off place; O Vṛtrahan, whether you are near; or whether you are in the sea, that is, the waters or the atmosphere: from all that place you come, and are the protector by drinking the food, the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्र (*śakra*)—O mighty Indra
+- परावति (*parāvati*)—in a very distant place
+- यत् (*yat*)—if perchance
+- असि (*asi*)—you are
+- वृत्रहन् (*vṛtrahan*)—O Indra, destroyer of enemies
+- यत् (*yat*)—if perchance
+- अर्वावति (*arvāvati*)—in a near place
+- यद्वा (*yadvā*)—or if perchance
+- समुद्रे (*samudre*)—in the atmosphere (from all those places)
+- अंधसर् (*aṃdhasar*)—of the food in the form of Soma
+- अविता इत् असि (*avitā it asi*)—you are indeed the protector
+
+### Printed p. 687
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, even if you are in a very distant place; O destroyer of enemies, even if you are in a near place, or even if in the atmosphere, from all those places you are the protector of the food in the form of Soma.
+
+##### English translation
+Whether, Shakra, you be afar off, or slayer of Vritra, nigh at hand, or whether you be in the firmament, you are guardian of the (sacrificial) food.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॑ वर्धंतु नो॒ गिर॒ इंद्रं॑ सु॒तास॒ इंद॑वः ।  
+> इंद्रे॑ ह॒विष्म॑ती॒र्विशो॑ अराणिसुः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । वर्धंतु । नः । गिरः । इंद्रं । सुतासः । इंदवः ।  
+> इंद्रे । हवीष्मतीः । विशः । अराणिषुः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं गिरः स्तुतिरूपा वाच इंद्रं वर्धंतु । वर्धयंतु । सुतासोऽभिषुता इंदवः सोमाश्चास्मदीयास्तमिंद्रं वर्धयंतु । हविष्मतीर्हविष्मत्यो
+> हविर्भिश्चरुपुरोडाशादिभिर्युक्ता विशः प्रजास्तस्मिन्निंद्रॆऽराणिषुः अरंसिषुः ॥
+
+##### Gist of the bhāṣya
+
+May our praises, our words in the form of hymns, magnify Indra. May the pressed Soma juices of ours magnify that Indra. The people, joined with oblations such as cooked grain and cakes, delighted in that Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—praises
+- इंद्रं (*iṃdraṃ*)—Indra
+- वर्धंतु (*vardhaṃtu*)—let them strengthen
+- सुतासः (*sutāsaḥ*)—pressed by us
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- इंद्रं (*iṃdraṃ*)—let them strengthen Indra
+- हविष्मतीः (*haviṣmatīḥ*)—possessing oblations
+- विशः (*viśaḥ*)—the people
+- इंद्रे (*iṃdre*)—in Indra
+- अराणिषुः (*arāṇiṣuḥ*)—let them stir up delight
+
+### Printed p. 688
+
+##### भावार्थ (Bhāvārtha)
+
+May our praises strengthen Indra. May the Soma juices pressed by us make Indra grow. May the people possessing oblations produce delight in Indra.
+
+##### English translation
+May our praises magnify Indra ! May our effused libations gratify Indra : May the people bearing oblations excite pleasure in Indra !
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिद्विप्रा॑ अव॒स्यवः॑ प्र॒वत्व॑तीभिरू॒तिभिः॑ ।  
+> इंद्रं॑ क्षो॒णीर॑वर्धयन्व॒या इ॑व ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । विप्राः : अवस्यवः । प्रवत्वतीभिः । ऊतिभिः ।  
+> इंद्रं । क्षोणीः । अवर्धयन् । नयाः इव ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रा मेधाविनोऽवस्यवो रक्षणकामाः स्तोतारस्तमित्तमेवेंद्रं प्रवत्वतीभिः प्रकर्षणाभिगंत्रिभिरूतिभिस्तृप्तिकरीभिराहुतिभिः स्तुतिभिर्वा वर्धयंति । तथा
+> क्षोणीः क्षोण्यः । क्षोणीति पृथिवीनाम । तदुपलक्षिताः सर्वे लोका वया इव वृक्षस्य
+> शाखा इव तदधीनाः संतोऽवर्धयन् । वर्धयंति ॥
+
+##### Gist of the bhāṣya
+
+The wise praisers, desiring protection, magnify that very Indra with abundant, far-reaching helps, that is, with satisfying oblations or with praises. Likewise the क्षोणीः (*kṣoṇīḥ*), for क्षोणी (*kṣoṇī*) is a name of the earth, and so all the worlds designated by it, dependent on him like the branches of a tree, magnify him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्राः (*viprāḥ*)—the wise
+- अवस्यवः (*avasyavaḥ*)—desiring protection, the praisers
+- प्रवत्वतीभिः (*pravatvatībhiḥ*)—abundant
+- ऊतिभिः (*ūtibhiḥ*)—and strength-giving, with oblations
+- तमित् इंद्रं (*tamit iṃdraṃ*)—that very Indra they increase
+- क्षोणीः (*kṣoṇīḥ*)—all the worlds also
+- वया इव (*vayā iva*)—being under Indra's control, as the branches of a tree are dependent on the tree
+- अवर्धयन् (*avardhayan*)—strengthened that Indra
+
+### Printed p. 689
+
+##### भावार्थ (Bhāvārtha)
+
+The wise praisers, desiring protection, increase that very Indra with abundant and strength-giving oblations. As the branches of a tree are dependent on the tree, all the worlds, being under Indra's control, strengthened that Indra.
+
+##### English translation
+The pious, desiring his protection, magnify him by ample and pleasure-yielding (libations): the earth, (and the other worlds), spread out like the branches of a tree, magnify Indra.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिक॑द्रुकेषु॒ चेत॑नं दे॒वासो॑ य॒ज्ञम॑त्नत ।  
+> तमिद्व॑र्धंतु नो॒ गिरः॑ स॒दावृ॑धं ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिकद्रुकेषु । चेतनं । देवासः । यज्ञं । अत्यत ।  
+> तं । इत् । वर्धंतु । नः । गिरः । सदावृधं ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिकद्रुकेषु । त्रिकद्रुका नाम ज्योतिर्गौरायुरिति त्रीण्याभिप्लविकान्यहानि ।
+> तेषु देवासो देवाश्चेतनं चेतयितारमिंद्रं यज्ञं यष्टव्यमत्नत । अतन्वत ।
+> अकृषत ॥ तनोतेर्लजु छांदसो विकरणस्य लुक् । तनिपत्योष्छंदसीत्युपधालोपः॥
+> तमित्तमेवेंद्रं नोऽस्माकं गिरः स्तुतयश्च वर्धयंतु । कीदृशं । सदावृधं
+> सर्वदा स्तोत्थाणां वर्धयितारं ।
+
+##### Gist of the bhāṣya
+
+त्रिकद्रुकेषु (*trikadrukeṣu*): the Trikadrukas are the three Abhiplava days named Jyotis, Gau and Āyu. In them the gods made Indra, the one who awakens, the object to be sacrificed to; they extended, performed. The verb is from तनोते (*tanote*) in the imperfect, with the vikaraṇa dropped in the Veda. May our praises magnify that very Indra, who is always the increaser of the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिकद्रुकेषु (*trikadrukeṣu*)—on the sacrificial days called Trikadruka
+- देवासः (*devāsaḥ*)—the gods
+- चेतनं (*cetanaṃ*)—Indra, the one who awakens
+- यज्ञं (*yajñaṃ*)—as worthy of sacrifice
+- अत्यत (*atyata*)—made
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—praises
+- सदावृधं (*sadāvṛdhaṃ*)—who always makes the praisers prosper
+- तं इत् (*taṃ it*)—that very Indra
+- वर्धंतु (*vardhaṃtu*)—let them strengthen
+
 ---
 
-**Progress note:** Done through printed p. 683. pp. 678-683 (batch API)
+**Progress note:** Done through printed p. 689. pp. 684-689 (batch API)
