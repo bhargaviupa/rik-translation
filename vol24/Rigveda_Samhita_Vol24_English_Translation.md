@@ -8865,6 +8865,292 @@ medicines, holds his sharp weapon in his hand.
 
 By the indication of the word pathaḥ, Pūṣan is meant, because this is seen in texts such as सं पूषन्नध्वनस्तिय (*saṃ pūṣannadhvanastiya*) (Ṛ. 1-42-1) **GLOSS**. The one god named Pūṣan has made the paths, the roads, to grow; the root pyāy has the sense of increase, but here the sense is protection. He protects the path to heaven of those who perform rites such as the Agnihotra, and the path of torment of those who perform evil deeds; the meaning is that he guards them so that the paths of both are not reversed. This Pūṣan knows the treasures, the riches laid down on the earth; knowing them, he gives them to the praisers: this is the meaning.
 
+### Printed p. 195
+
+> दृष्टांतः । तस्करो यथा । यथा चोरः पथि गच्छतां पुरुषाणां धनहरणार्थं
+> मार्गं रक्षति तथा च स चोरो गृहे निहितानि ज्ञात्वा तदाहृत्य स्वसहायेभ्यो
+> यथा तानि ददाति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The illustration: as a thief, namely, as a robber watches the road for the sake of seizing the wealth of men going along it, and as that thief, having learnt what is laid down in a house, carries it off and gives it to his own helpers, so (Pūṣan does).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एकः (*ekaḥ*)—the one god named Pūṣan
+- पथः (*pathaḥ*)—the good roads
+- पीपाय (*pīpāya*)—(for the sacrificers) protects
+- एषः (*eṣaḥ*)—this same Pūṣan
+- निधीनां (*nidhīnāṃ*)—all the treasures
+- तस्करो यथा (*taskaro yathā*)—as a thief knows the place of wealth lying even in a hiding-place
+- वेद (*veda*)—he knows
+
+##### भावार्थ (Bhāvārtha)
+
+The god named Pūṣan protects for the sacrificers all the good roads. As a thief knows all the places where wealth is hidden in a secret place, so this Pūṣan also knows all the wealth of heaven and earth.
+
+##### English translation
+One (Pushan) watches the roads like a robber, and is cognizant of hidden treasures.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिणेक॑ उरुगा॒यो वि च॑क्रमे॒ यत्र॑ दे॒वासो॒ मदं॑ति ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रीणि ! एकः । उरुग्गायः । वि । चक्रमे । यत्र । देवासः । मदंति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उरुगायो वि चक्रम इति पदलिंगाद्विष्णुरुच्यते । उरुगाय उरुभिर्बहुभिर्गातव्यः । यद्वा । बहुषु देशेषु गंता बहुकीर्तिर्ना । सर्वाइत्यून् स्वसामर्थ्येन शब्दयत्याक्रंदयतीति वोरुगायः । एतादृश एकोसहायो विष्णुस्त्रीणि
+> पदानि भुवनानि वि चक्रमे । साधु पादेन विक्रांतवान् ॥ वेः पादविहरणे ।
+> पा. १-३-४१ । इति क्रमतेरात्मनेपदं ॥ यत्र येषु लोकेषु देवास इंद्रादयो
+> देवा मदंति यजमानदत्तैर्हविर्भिमाद्यंति तानि वि चक्रम इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+By the indication of the words उरुगायो वि चक्रम (*urugāyo vi cakrama*) Viṣṇu is meant. Urugāya is one to be sung by many; or else one who goes through many regions and has wide fame; or else one who by his own power makes all of them cry out. Such a one, Viṣṇu, unaccompanied, strode out over three steps, that is, over the worlds, taking a firm stride. **NOTE** The worlds in which the gods, Indra and the others, rejoice, delighting in the oblations given by the sacrificer: those he strode out over. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुगायः (*urugāyaḥ*)—praised by many hymns
+- एकः (*ekaḥ*)—the unequalled Viṣṇu
+- यत्र (*yatra*)—in which worlds
+- देवासः (*devāsaḥ*)—the gods, Indra and the others
+- मदंति (*madaṃti*)—are delighted with oblations
+
+### Printed p. 196
+
+- त्रीणि (*trīṇi*)—the three worlds
+- वि चक्रमे (*vi cakrame*)—he stands pervading them in a special manner
+
+##### भावार्थ (Bhāvārtha)
+
+Viṣṇu, who is praised by the hymns of many and is unequalled, stands pervading in a special manner the three worlds in which the gods, Indra and the others, are delighted with oblations.
+
+##### English translation
+One (Vishnu) wide-stepping, has traversed the three worlds where the gods rejoice.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विभि॒दात् च॑रत॒ एक॑या स॒ह प्र प्र॑वा॒सेव॑ वसतः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विभिः । द्वा । चरतः । एकया । सह । प्र । प्रवासाइव । वसतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकया सहेति लिंगादश्विनावभिधीयेते । द्वा द्वौ द्वित्वसंख्योपेतावश्विना
+> विभिः ॥ वी गत्यादिषु । क्विप् । छांदसो द्रस्वः ॥ गमनसाधनैरश्वैश्चरतः । संचरेते ।
+> किंचेमावश्विनावेकया सूर्याख्यया ताभ्यां स्वयंवृतया स्त्रिया सह प्र वसतः ।
+> प्रवासं सर्वत्र गमनं कुरुतः । प्रवासे दृष्टांतः । प्रवासेव । यथा प्रवासिनौ
+> द्वौ पुरुषावेकया स्त्रिया सह प्रवसतस्तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+By the words एकया सह (*ekayā saha*) ("with one") the two Aśvins are meant. Dvā is two, the two Aśvins, who move about with vibhiḥ, that is, with horses, the means of going. Moreover, these two Aśvins dwell forth together with one woman, called Sūryā, chosen by them of her own will; they make a journey, going everywhere. The illustration of travelling: just as two travelling men dwell with one woman, so these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्वा (*dvā*)—the two Aśvin gods
+- विभिः (*vibhiḥ*)—with their horses
+- चरत॥ (*carata‖*)—they move about
+- प्रवासेव (*pravāseva*)—as, at a time of journeying abroad, two men travel together with one woman
+- द्वा (*dvā*)—these two
+- एकया सह (*ekayā saha*)—with their wife, the woman called Sūryā
+- प्र वसतः (*pra vasataḥ*)—they travel together
+
+##### भावार्थ (Bhāvārtha)
+
+The two Aśvin gods move about everywhere with their horses. As at a time of journeying abroad two men travel together with one woman, so these two travel together with one woman, Sūryā (their wife).
+
+### Printed p. 197
+
+##### English translation
+Two (the Aswins) travel with swift (horses) along with one (bride Surya), lika travellers to foreign countries-
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सदो॒ द्वा च॑क्राते उप॒मा दि॒वि स॒म्राजा॑ स॒र्पिरा॑सुती ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सदः । द्वा । चक्राते इति । उपमा । दिवि । संराजा । सर्पिरासुती इति सर्पिः आसुती॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सम्राजाविति लिंगेन मित्रावरुणावभिधीयेते । उपमोपमौ परस्परं
+> स्वकांत्योपमानभूतौ । यद्वा । उपमीयत आभ्यां सर्वमित्युपमौ सर्वस्य ।
+> एतावेव सम्राजा सम्राज् सम्यग्गीप्यमान् सर्पिरासुती । सर्पिर्घृतमाभ्यामासूयत इति सर्पिरासुती । धृतहविष्कौ द्वा द्वौ मित्रावरुणौ दिवि द्युलोके सदः ।
+> सीदंत्यत्रेति सदः स्थानं । तच्चक्राते । अकार्ष्टां ॥
+
+##### Gist of the bhāṣya
+
+By the word सम्राजा (*samrājā*) Mitra and Varuṇa are meant. They are upamā, mutually the likeness of each other in their own splendour; or else, because everything is measured by these two, they are the measurers of all. These very two are samrājā, shining forth fully. They are sarpirāsutī: ghee is poured out for them, so they have ghee as their oblation. These two, Mitra and Varuṇa, made their seat in heaven, in the world of heaven; sadas is the place where they sit. This they made.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उपमा (*upamā*)—those of one and the same form
+- सम्राजा (*samrājā*)—those of exceeding radiance
+- सर्पिरासुती (*sarpirāsutī*)—those to whom the oblation in the form of ghee is offered
+- द्वा (*dvā*)—the two, Mitra and Varuṇa
+- दिवि (*divi*)—in the world of heaven
+- सदः (*sadaḥ*)—their place
+- चक्राते (*cakrāte*)—have established
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra and Varuṇa, who are of one and the same form, of exceeding radiance, and to whom the oblation in the form of ghee is offered, have established their place in the world of heaven.
+
+##### English translation
+Two of like beauty and of royal rank (Mitra and Varuna), worshipped with oblations of clarified butter, have taken their seat in heaven.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्चं॑त॒ एके॒ महि॒ साम॑ मन्वत॒ तेन॒ सूर्य॑मरोचयन् ॥
+
+### Printed p. 198
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्चंतः । एके । महि । साम । मन्वत । तेन ! सूर्यं । अरोचॆयन् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकेत्रयो महि महत्साम त्रिवृत्पंचदशादि मन्वत । अमन्वत । तदेवार्चंतः
+> पूजयंत एतादृशा अत्रयस्तेनोक्तेन साम्ना सूर्यमरोचयन् । अदीपयन्।
+> त एवात्र देवता ॥
+
+##### Gist of the bhāṣya
+
+Some, the Atris, thought of the great Sāman, the Trivṛt, the Pañcadaśa and the rest, as great. Worshipping that very Sāman, such Atris made the sun shine, lit it up, with the Sāman so spoken. They alone are the deity here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एके (*eke*)—the Atris, the best among the seers
+- महि (*mahi*)—great
+- साम (*sāma*)—the Sāman such as the Trivṛt
+- मन्वत (*manvata*)—knew in the form of meditation
+- अर्चंतः (*arcaṃtaḥ*)—worshipping (reciting) that very one
+- तेन (*tena*)—by that very Sāman
+- सूर्यं (*sūryaṃ*)—the sun
+- आरोचयन् (*ārocayan*)—made to shine
+
+##### भावार्थ (Bhāvārtha)
+
+The Atris, the best among the seers, knew in the form of meditation the great Sāman such as the Trivṛt. Worshipping (reciting) that very one, they made the sun shine by that same Sāman.
+
+##### English translation
+Some (the Atris) when worshipping, call to mind the great Saman, wherewith they light up the sun.
+
+## Sūkta 30 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नहि व इति चतुर्यचं दशमं सूक्तं । आद्या गायित्री द्वितीया पुरउष्णिक्
+> तृतीया बृहती चतुर्थ्यनुष्टप् । मनुर्वैवस्वत ऋषिः । पूर्ववद्विश्वे देवा
+> देवता । तथा चानुक्रांतं । नहि वश्चतुष्कं पुरउष्णिग्पृहत्यनुष्टुबंतमिति ।
+> विनियोगस्तु लिंगादवगंतव्यः ॥
+
+##### Gist of the bhāṣya
+
+This hymn, beginning नहि व (*nahi va*), is a hymn of four Ṛks, the tenth of this section. The first is in Gāyatrī, the second Puraūṣṇik, the third Bṛhatī, the fourth Anuṣṭup. Manu Vaivasvata is the seer. As before, the Viśvedevas are the deity. The Anukramaṇī is cited, describing the hymn as having four verses with these metres. The ritual application is to be understood from the indication of the text.
+
+Anuvāda: This hymn beginning नहि वः (*nahi vaḥ*) is the tenth hymn in the fourth Anuvāka. In it there are four Ṛks. The seer of this hymn is Manu Vaivasvata; as before, the Viśvedevas are the deity; in this hymn the first Ṛk is in the Gāyatrī metre, the second in Puraūṣṇik, the third Bṛhatī, the fourth in the metre called Anuṣṭup. In the Anukramaṇī it is stated thus: the hymn is described as having four verses with these metres. The application is to be understood according to the sense.
+
+### Printed p. 199
+
+Sūkta 30. Maṇḍala 8, Anuvāka 4, Sūkta 30. Aṣṭaka 6, Adhyāya 2, Varga 37. Number of Ṛks in the sūkta: 4. Seer: Manu Vaivasvata. Deity: the Viśvedevas. Metre: 1. Gāyatrī, 2. Puraūṣṇik, 3. Bṛhatī, 4. Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि वो॒ अस्त्य॑र्भ॒को देवा॑सो॒ न कु॑मार॒कः ।  
+> विश्वे॑ स॒तोम॑हांत॒ इत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । वः । अस्ति । अर्भकः । देवासः । न । कुमारकः ।  
+> विश्वे । सतः महांतः । इत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासो देवाः वो युष्माकं मध्येऽर्भको नह्यस्ति । शिशुर्नास्ति
+> खलु । तथा न कुमारको युष्माकं मध्ये कुमारोऽपि नास्ति । किंतु सर्वे
+> यूयं सवयसो नित्यतरुणा भवथ । एतदेव प्रतिपादयति । विश्वे सर्वे देवा
+> यूयं सतोमहांत इत् । सर्वस्माद्विद्यमानात्पृथिव्यामपि ये महांतस्ते
+> सतोमहांत इत्युच्यंते । तस्माद्युष्माकमर्भकोऽपि कुमारोऽपि नास्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O gods, among you there is no infant; there is certainly no child. Nor is there a youth: among you there is not even a young boy. But all of you are of the same age, ever young. This is just what he sets forth: all you gods are सतोमहांत (*satomahāṃta*); those who are great even among everything that exists, on the earth too, are called so. Therefore among you there is neither an infant nor a youth. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O gods
+- वः (*vaḥ*)—among you
+- अर्भकः (*arbhakaḥ*)—a god of tender age
+- नहि आस्ति (*nahi āsti*)—there is none at all
+- न कुमारकः (*na kumārakaḥ*)—nor anyone of the age of a youth
+- विश्वेनीवॆल्लरू (*viśvenīvèllarū*)—all of you **NOTE**
+- सतोमहांत इत् (*satomahāṃta it*)—you are those of age and greatness exceeding the worlds such as the earth
+
+### Printed p. 200
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, among you there is no god of tender age at all. There are none of the age of a youth either. All of you are of age and greatness exceeding the worlds such as the earth.
+
+##### English translation
+There is no one among you, gods, who is an infant or a youth ; you verily are all of mature existence.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इति॑ स्तु॒तासो॑ असथा रिशादसो॒ ये स्थ त्रय॑श्च त्रिं॒शच्च॑ ।  
+> मनो॑र्देना यज्ञियासः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इति । स्तुतासः । असथ । रिशादसः । ये । स्थ । त्रयः । च । त्रिंशत् । च ।  
+> मनोः । देवाः । यज्ञियासः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रिशादसो रिशतां हिंसतामसितारो हे मनोर्यज्ञियासो मनुनामकस्य मम यज्ञार्हा हे देवाः ये यूयं त्रयश्च त्रिसंख्याकास्त्रिंशच्च
+> त्रिंशत्संख्याकास्त्रयस्त्रिंशद्देवताः स्थ भवथ अभूत ते यूयमितीत्थमनेन प्रकारेण
+> स्तुतासोऽसथ । मया मनुना स्तुता भवथ ॥ अस्तेर्लेटि छांदसो लुगभावः ॥
+> यद्वा । असधेति कांत्यर्थः । इत्थं स्तुता यूयं हवींषि कामयध्वं ॥
+
+##### Gist of the bhāṣya
+
+O riśādasas, devourers of those who harm, O gods worthy of the sacrifice of Manu, that is, of me called Manu: you who are three and thirty, thirty-three deities in number, you are praised in this manner by me, Manu. Or else, असध (*asadha*) has the sense of desire (kānti): thus praised, you desire the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रिशादसः (*riśādasaḥ*)—destroyers of enemies
+- मनोः (*manoḥ*)—to Manu (to me)
+- यज्ञियासः (*yajñiyāsaḥ*)—worthy of worship in the sacrifice
+- देवाः (*devāḥ*)—O gods
+- ये (*ye*)—you who
+- त्रयश्च (*trayaśca*)—being three in number
+- त्रिंशच्च (*triṃśacca*)—and further thirty in number
+- स्थ (*stha*)—are (such as you are)
+- इति (*iti*)—in this manner
+- स्तुतासः (*stutāsaḥ*)—praised
+- असथ (*asatha*)—you have become
+
 ---
 
-**Progress note:** Done through printed p. 194. Mandala 8 Sukta 28 Rks 4-5, Sukta 29 Rks 1-6 (in part)
+**Progress note:** Done through printed p. 200. Sūkta 29 Ṛks 6-10 end, Sūkta 30 Ṛks 1-2
