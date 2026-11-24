@@ -33359,6 +33359,293 @@ The Rudras who are with us, the showering ones, and the mountains, that is, the 
 
 The Maruts, the gods, who are like mountains, causers of rain, having Indra as chief, sons of Rudra, and he who is with them, Indra, who in the battle that is the means of slaying Vṛtra, when called, having equal affection towards us, runs with strength to help the sacrificer who recites the śastra and the stotra, and all the other gods: may they protect us.
 
+### Printed p. 735
+
+##### English translation
+The Rudras, the showering clouds, and (Indra) who rejoices with us in the battle-challenge which brings Vritra's destruction, and who comes in his might to the reciter and singer of his praises,—may these gods, with Indra at their head, protect us.
+
+## Sūkta 64 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत्त्वा मंदंतिति द्वादशर्चं पंचमं सूक्तं प्रगाथस्यार्षं । प्राग्वत्सप्रपरिभाषया गायत्रमैंद्रं । उत्त्वेत्यनुक्रमणिका ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उत्त्वा मंदंतु (*uttvā maṃdaṃtu*) has twelve ṛks and is the fifth sūkta; it is the vision of Pragātha. As before, the metre is Gāyatrī, and the deity is Indra. The Anukramaṇikā says उत्त्वा (*uttvā*). The application is that of the Liṅga. **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning उत्त्वा मंदंतु (*uttvā maṃdaṃtu*) is the fifth sūkta in the seventh anuvāka. It has twelve ṛks. The seer of this sūkta is Pragātha; the deity is Indra; the metre is Gāyatrī. In the Anukramaṇikā it is said: उत्त्वा (*uttvā*). The application is that of the Liṅga.
+
+Sūkta 64.
+Maṇḍala 8; Anuvāka 7; Sūkta 64.
+Aṣṭaka 6; Adhyāya 4; Varga 44, 45.
+Number of ṛks in the sūkta: 12.
+Ṛṣi: Pragāthaḥ Kāṇvaḥ.
+Devatā: Indra.
+Chandas: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्त्वा॑ मंदंतु॒ स्तोमाः॑ कृणु॒ष्व राधो॑ अद्रिवः ।  
+> अव॑ ब्रह्म॒द्विषो॑ जहि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । त्वा । मंदंतु । स्तोमाः । कृणुष्व । राधः । अद्र्‍वः ।  
+> अव । ब्रह्मद्विषः । जहि ॥ १ ॥
+
+### Printed p. 736
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां स्तोमाः स्तुतॆय उदुत्कृष्टं मंदंतु । मादयुंतु ।
+> कृणुष्ट कुरु राधोऽन्नं हे अद्रिवो वज्रवन्निंद्र अस्मभ्यं । किंच ब्रह्मद्विषो
+> ब्राह्मणद्वेष्टानव जहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, let the praises, the hymns, delight you exceedingly. Make food, O thunderer, for us. Moreover, strike down the haters of the Brāhmaṇas, the Brahmans. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you
+- स्तोमाः (*stomāḥ*)—our praises
+- उत् (*ut*)—exceedingly
+- मंदंतु (*maṃdaṃtu*)—let them delight
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- राधः (*rādhaḥ*)—food for us
+- कृणुष्ट्वा (*kṛṇuṣṭvā*)—make
+- ब्रह्मदृषः (*brahmadṛṣaḥ*)—the haters of the Brahmans
+- अव जहि (*ava jahi*)—defeat and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let our praises delight you exceedingly. O Indra, bearer of the thunderbolt, make food for us. Defeat and destroy the haters of the Brahmans.
+
+##### English translation
+May our praises exhilarate you; thunderer, make food for us, destroy the haters of the Brahmans.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒दा प॒णेर॑रा॒धसो॒ नि बा॑धस्व म॒हा अ॑सि ।  
+> न॒हि त्वा॒ कश्च॒न प्रति॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पदा । पणीन् । आराधसः । नि । बाधस्व । महान् । असि ।  
+> नहि । त्वा । कः । चन । प्रति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पणील्लुब्बानराधसो यष्टव्यधनरहितान् केवलधनान् पदा पादेनातिक्रम्य
+> नि नितरां बाधस्व । त्वा त्वां तव कश्चन कश्चिदपि देवोऽसुरो मनुष्यो वा प्रति
+> प्रतिनिधिः सदृशो नह्यस्ति खलु ॥
+
+##### Gist of the bhāṣya
+
+Having trampled with the foot the Paṇis, the misers who have no wealth fit for sacrifice and only wealth of their own, press them down utterly. There is none at all, no god, asura or man, who is a match or equal to you. **NOTE**
+
+### Printed p. 737
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पणीन् (*paṇīn*)—the misers
+- आराधसः (*ārādhasaḥ*)—the Paṇis, who have no sacrifice
+- पदा (*padā*)—pushing with the foot
+- नि बाधस्व (*ni bādhasva*)—afflict utterly
+- महान् आसि (*mahān āsi*)—you are great
+- त्वा प्रति (*tvā prati*)—one who is a counterpart to you, who reflects you
+- कश्चन (*kaścana*)—anyone at all
+- नहि (*nahi*)—certainly not
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, push down with the foot the Paṇis, who have no sacrifice and are misers, and afflict them utterly. You are great. There is no one who is equal to you, a counterpart of you.
+
+##### English translation
+Crush with your foot the Panis who offer no oblations; you are mighty; there is none like you.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमी॑शिषे सु॒ताना॒मिंद्र॒ त्वमसु॑तानां ।  
+> त्वं राजा॒ जना॑नां ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । ईशिषे । सुतानां । इंद्र । त्वं । आसुतानां ।  
+> त्वं । राजा । जनानां ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं सुतानामभिषुतानां सोमानामाशिषे । ईश्वरो भवसि ।
+> तथा त्वमसुतानां वल्ल्याकारे वर्तमानानां चेशिषे । त्वं जनानां सर्वेषां
+> राजा भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are lord of the pressed Soma-juices, and likewise of those not pressed, which stand in the form of the creeper. You are the king of all people. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- सुतानां (*sutānāṃ*)—of the pressed Soma-juices
+- ईशिषे (*īśiṣe*)—you are lord
+- त्वं (*tvaṃ*)—you alone
+- असुतानां (*asutānāṃ*)—of the Soma-plants not pressed also you are lord
+- त्वं (*tvaṃ*)—you
+- जनानां (*janānāṃ*)—of all men (all gods, men and the rest)
+- राजा (*rājā*)—you are lord
+
+### Printed p. 738
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are lord of the pressed Soma-juices. You are lord also of the Soma-plants that are not pressed. You are lord of all people, gods, men and the rest.
+
+##### English translation
+You, Indra, are the lord of the Soma effused or not effused, you are the king of all men.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एहि॒ प्रेहि॒ क्षयो॑ दि॒व्या॒३॒॑ ३ घोष॑ञ्चर्षणी॒नां ।  
+> ओभे पृ॑णासि॒ रोद॑सीः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इहि । प्र । इहि । क्षयः । दिवि । आघोषन् । चर्षणीनां ।  
+> आ । उभे इति । पृणासि । रोदसी इति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र एहि । आगच्छ । तथा प्रेहि । प्रगच्छ । दिवि द्युलोकात् । किं । क्षयो
+> निवासं । किं कुर्वन् । अघोषङ्बं कुर्वन् । किमर्थं । चर्षणीनां मन-प्याणामर्थाय । अथवा । हविः स्वीकृत्य प्रेहि । सुखेन गच्छ । दिवमाघोषन्
+> यजमानं स्तुवन् । उभे रोदसी द्यावापृथिव्यावा पृणासि । अपूरयसि तेजसा
+> वृष्ट्या वा ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come hither; and go forth, from the heavenly world. To what? To the dwelling. Doing what? Making a shout, for the sake of men. Or else: having accepted the oblation, go forth, go happily, shouting towards heaven and praising the sacrificer. You fill both the heaven and the earth with your splendour or with rain. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एहि (*ehi*)—be pleased to come
+- चर्षणीनां (*carṣaṇīnāṃ*)—for the good of men
+- अघोषन् (*aghoṣan*)—making a sound
+- दिवि (*divi*)—from the heavenly world
+- क्षयः (*kṣayaḥ*)—to our dwelling-place
+- प्रेहि (*prehi*)—come exceedingly
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- आ पृणासि (*ā pṛṇāsi*)—you have established
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come hither. Making a sound for the good of men, come exceedingly from the heavenly world to our dwelling-place. You have pervaded both heaven and earth. **NOTE**
+
+### Printed p. 739
+
+##### English translation
+Come hither, come forth from heaven to our dwelling, shouting for the sake of men ; you fill both heaven and earth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यं चि॒त्पर्व॑तं गि॒रिं श॒तवं॑तं सह॒स्रिणं॑ ।  
+> वि स्तो॒तृभ्यो॑ रुरोजिथ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । चित् । पर्वतं ! गिरिं । शतवंतं । सहस्रिणं ।  
+> वि । स्तोतृभ्यः । रुरोजिथ ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं त्यं चित्तं । चिदिति पूरणः । पर्वतं पर्ववंतं गिरिं मेघं ।
+> उभयोर्मेघनामत्वादेको योगरूढो द्रष्टव्यः । शशवंतं शतोदकवंतं
+> तथा सहस्रिणमपरिमितवृष्टिं मेघं स्तोतृभ्योऽर्थाय वि रुरोजिथ । विरुज
+> वज्रेण ॥
+
+##### Gist of the bhāṣya
+
+O Indra, that very पर्वतं (*parvataṃ*), the one with joints, the गिरिं (*giriṃ*), the cloud; since both are names of the cloud, one of them is to be seen as योगरूढ (*yogarūḍha*); the one with hundreds of waters and likewise the one with thousands, the cloud of unmeasured rain, you have split for the sake of the praisers, with the thunderbolt. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—for the praisers
+- त्यं चित् (*tyaṃ cit*)—that well-known one
+- पर्वतं (*parvataṃ*)—the one with joints
+- शतवंतं (*śatavaṃtaṃ*)—having a hundred measures of water
+- सहस्रिणं (*sahasriṇaṃ*)—having unmeasured rain
+- गिरिं (*giriṃ*)—the cloud
+- वि रुरोजिथ (*vi rurojitha*)—split with the thunderbolt
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for the sake of the praisers split with your thunderbolt the well-known cloud, the one with joints (in masses), with unmeasured rain-water.
+
+##### English translation
+Burst, for your worshippers, the gnarled cloud with its hundreds and thousands of showers.
+
+### Printed p. 740
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमु॑ त्वा॒ दिवा॑ सु॒ते व॒यं नक्तं॑ हवामहे ।  
+> अ॒स्माकं॒ काम॒मा पृ॑ण ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ऊं इति । त्वा । दिवा । सुते । वयं । नक्तं । हवामहे ।  
+> अस्माकं । कामं । आ । पृण ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वयं त्वा त्वां दिवाहनि सुते सोमेभिषुते हवामहे । आह्वयामः । तथा वयं नक्तं हवामहे । आहूत आगत्मास्माकं काममा पृण । आपूरय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we call you in the day when the Soma is pressed; and we call you likewise by night. Having been called, come and fulfil our desire. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we
+- त्वां (*tvāṃ*)—you
+- दिवा (*divā*)—by day
+- सुते (*sute*)—when the Soma juice is pressed
+- हवामहे (*havāmahe*)—we pray and call
+- वयं (*vayaṃ*)—we
+- नक्तं (*naktaṃ*)—we call also in the night-time
+- अस्माकं (*asmākaṃ*)—our
+- कामं (*kāmaṃ*)—desire
+- आ पृण (*ā pṛṇa*)—fill
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we pray to you and call you by day when the Soma juice is pressed. We call you also in the night-time. Fulfil our desires and satisfy us.
+
+##### English translation
+We invoke you when the Soma is effused by day, we invoke you by night; fulfil our desire.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्व१॒॑ १ स्य वृ॑ष॒भो युवा॑ तुवि॒ग्रीवो॒ अना॑नतः ।  
+> ब्र॒ह्मा कस्तं स॑पर्यति ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 734. Maṇḍala 8 sūkta 63 rks 7 (bhāṣya) to 12, pp. 729-734
+**Progress note:** Done through printed p. 740. Maṇḍala 8 sūkta 64 rks 1 to 7 (saṃhitā of rk 7), pp. 735-740
