@@ -54,3 +54,50 @@
 | 306 | `*dyai/dyā* 'to attack, to fall upon'` → `*dyu* 'to attack, fall upon'` | SECOND-PASS S13: Kannada ಆಕ್ರಮಣಮಾಡು, ಮೇಲೆ ಬೀಳು ಎಂಬರ್ಥವನ್ನು ಕೊಡುವ ದ್ಯು ಧಾತು |
 | 306 | `यस्ते दिद्युदवसृष्टा` → `या ते दिद्युदवसृष्टा` | SECOND-PASS S7: Kannada ಯಾ ತೇ ದಿದ್ಯುದವಸೃಷ್ಟಾ (yas→yā) |
 | 306 | `yas te didyud avasṛṣṭā` → `yā te didyud avasṛṣṭā` | SECOND-PASS S7: Kannada ಯಾ ತೇ ದಿದ್ಯುದವಸೃಷ್ಟಾ |
+
+### 2026-11-24 second pass, batch e2-31.tsv
+| page | old → new | why |
+|---|---|---|
+| 2 | `Anu. 11-4` → `Anu. 12-4` | SECOND-PASS S1: Kannada ಅನು. ೧೨-೪ (anuvāda on p. 2) |
+| 4 | `to the praiser (the praised one)` → `to the praiser (who praises)` | SECOND-PASS S14: Kannada ಸ್ತುತಿಸುವವನಿಗೆ (ಸ್ತುತಿಸುವವನಾದ) = one who praises |
+| 5 | `Ni. 3-9 [?], as printed: the first digit looks like ೩` → `Ni. 3-9` | SECOND-PASS S1: Kannada (ನಿ. ೩-೯); Kannada number replaces the doubtful form |
+| 5 | `among the twenty-seven names` → `among the twenty names` | SECOND-PASS S2: Kannada ಇಪ್ಪತ್ತು ಸುಖನಾಮಗಳ (twenty) |
+| 5 | `"*āṅgūṣaḥ stomaḥ āghoṣaḥ*" (` → `"*āṅgūṣaḥ stoma āghoṣaḥ*" (` | SECOND-PASS S7: Kannada ಆಂಗೂಷಃ ಸ್ತೋಮ ಆಘೋಷಃ: no visarga after ಸ್ತೋಮ (letters: ḥ after stoma dropped, in the quotation, Devanagari and IAST; three places on the page) |
+| 5 | `(आङ्गूषः स्तोमः आघोषः` → `(आङ्गूषः स्तोम आघोषः` | SECOND-PASS S7: Kannada ಆಂಗೂಷಃ ಸ್ತೋಮ ಆಘೋಷಃ: no visarga after ಸ್ತೋಮ (letters: ḥ after stoma dropped, in the quotation, Devanagari and IAST; three places on the page) |
+| 5 | `— *āṅgūṣaḥ stomaḥ āghoṣaḥ*, Ni.` → `— *āṅgūṣaḥ stoma āghoṣaḥ*, Ni.` | SECOND-PASS S7: Kannada ಆಂಗೂಷಃ ಸ್ತೋಮ ಆಘೋಷಃ: no visarga after ಸ್ತೋಮ (letters: ḥ after stoma dropped, in the quotation, Devanagari and IAST; three places on the page) |
+| 6 | `standing after another word (*pra*), is` → `standing after a form that is not a finite verb, is` | SECOND-PASS S16: Kannada ಅತಿಜಂತದ ಪರದಲ್ಲಿರುವುದರಿಂದ (after a non-finite-verb word); no word pra is named |
+| 6 | `Pā. Sū. 1-4-1? [?], as printed: the last digit looks like ೩ (3); unclear` → `Pā. Sū. 1-4-13` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೧-೪-೧೩); Kannada number replaces the whole doubtful form (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply |
+| 6 | `(an Uṇādi-vārttika, as read)` → `(Uṇ. Sū. 4-666)` | SECOND-PASS S3: Kannada ಗತಿಕಾರಕಯೋರಪಿ ... (ಉ. ಸೂ. ೪-೬೬೬): the print gives the number and calls it Uṇādi-sūtra (English section 'Pages 7-8'; the edit is placed through '### Page  |
+| 6 | `(a vārttika);` → `(a vārttika, Vā. 2233);` | SECOND-PASS S3: Kannada ಸಂಪದಾದಿಭ್ಯ: ಕ್ವಿಪ್ (ವಾ. ೨೨೩೩) (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' hea |
+| 6 | `maxim (*asiddha*) of the` → `maxim (*anitya*, Pari. 95) of the` | SECOND-PASS S14: Kannada ಸಂಜ್ಞಾಪೂರ್ವಕೋ ವಿಧಿರನಿತ್ಯಃ (ಪರಿ. ೯೫) ... ಅನಿತ್ಯಾಶ್ರಯಣದಿಂದ (anitya, not asiddha) (English section 'Pages 7-8'; the edit is placed through '### Page 6' bec |
+| 6 | `the imperative (*loṭ*) form in the sense of an optative, by` → `the imperative (*loṭ*) form, by` | SECOND-PASS S16: Kannada ಭ್ವಾದಿ ಲೋಟೋ ಲಜ್ವತ್ ಎಂದು ಅತಿದೇಶಮಾಡಿರುವುದರಿಂದ: nothing about an optative sense (English section 'Pages 7-8'; the edit is placed through '### Page 6' becau |
+| 12 | `in which *jhi* becomes *jus* — "**झेर्जुस्**" style rule printed as "**झोऽन्तः**"` → `in which *jhi* is replaced by *anta* by "**झोऽन्तः**"` | SECOND-PASS S16: Kannada ಝಿಗೆ ಝೋಂತಃ ಎಂಬುದರಿಂದ ಅಂತಾದೇಶ; no jus and no jher jus rule in the Kannada |
+| 14 | `She [also] learned where the cows were, and told Indra. Indra then killed the demon and br` → `Having learned the place where the cows were, Indra killed the demons and brought the cows` | SECOND-PASS S14: Kannada ಗೋವುಗಳು ಇದ್ದ ಸ್ಥಳವನ್ನು ತಿಳಿದು ಇಂದ್ರನು ರಾಕ್ಷಸರನ್ನು ಕೊಂದು ಗೋವುಗಳನ್ನು ಹಿಂದಕ್ಕೆ ತಂದನು: Indra learns, no telling by Saramā, plural demons |
+| 15 | `"*annādinīṃ te sarame prajāṃ karomi yo no gā anvavinda*"` → `"*annādinīṃ te sarame prajāṃ karomi yā no gā anvavinda*"` | SECOND-PASS S7: Kannada ಅನ್ನಾದಿನೀಂ ತೇ ಸರಮೇ ಪ್ರಜಾಂ ಕರೋಮಿ ಯಾ ನೋ ಗಾ ಅನ್ವವಿಂದ (ಯಾ; feminine, addressed to Saramā, as the Kannada gloss ‘you go and find’ shows); letters changed: o→ |
+| 15 | `करोमि यो नो गा अन्वविन्द` → `करोमि या नो गा अन्वविन्द` | SECOND-PASS S7: Kannada ಅನ್ನಾದಿನೀಂ ತೇ ಸರಮೇ ಪ್ರಜಾಂ ಕರೋಮಿ ಯಾ ನೋ ಗಾ ಅನ್ವವಿಂದ (ಯಾ; feminine, addressed to Saramā, as the Kannada gloss ‘you go and find’ shows); letters changed: o→ |
+| 15 | `— *annādinīṃ te sarame prajāṃ karomi yo no gā anvavinda* —` → `— *annādinīṃ te sarame prajāṃ karomi yā no gā anvavinda* —` | SECOND-PASS S7: Kannada ಅನ್ನಾದಿನೀಂ ತೇ ಸರಮೇ ಪ್ರಜಾಂ ಕರೋಮಿ ಯಾ ನೋ ಗಾ ಅನ್ವವಿಂದ (ಯಾ; feminine, addressed to Saramā, as the Kannada gloss ‘you go and find’ shows); letters changed: o→ |
+| 15 | `Then Indra, as she wished, ... the bitch, going out and searching` → `When Indra said "So be it", the bitch, going out and searching` | SECOND-PASS S17: Kannada ಇಂದ್ರನು ಹಾಗೆಯೇ ಆಗಲೆಂದು ಹೇಳಲು ಆ ಶುನಿಯು ಹೊರಟು ಹುಡುಕುತ್ತಾ: the words said ‘so be it’ are left out and an ellipsis stands |
+| 18 | `to have the nature of the gods` → `to have the support of the gods` | SECOND-PASS S14: Kannada ನಿನಗೆ ದೇವತೆಗಳ ಬೆಂಬಲವಿರುವಂತೆ ಕಾಣುವುದು (ಬೆಂಬಲ = support) |
+| 18 | `"Make room; go to a safe place` → `"Do not delay; go to a safe place` | SECOND-PASS S14: Kannada ಸಾವಕಾಶ ಮಾಡಬೇಡಿ, ದೂರದಲ್ಲಿರುವ ಸುರಕ್ಷಿತವಾದ ಪ್ರದೇಶಕ್ಕೆ ಹೋಗಿ (ಸಾವಕಾಶ ಮಾಡು = to delay) |
+| 19 | `**paṇau** 8-97-2` → `**paṇā** 8-97-2` | SECOND-PASS S13: Kannada ಪಣಾ—ಋ. ಸಂ. ೮-೯೭-೨; the English changed the printed form |
+| 19 | `ಪೇಜು ೨೨೮` → `ಪುಟ ೨೨೮` | SECOND-PASS S7: Kannada ಭಾಗ ೨, ಪುಟ ೨೨೮, ೪೬೫-೪೬೬ (ಪುಟ, not ಪೇಜು) |
+| 19 | `the lengthening of the ending is discussed` → `the *t* of the affix *ti* becomes *ṭ* by *ṣṭutva*` | SECOND-PASS S14: Kannada ಷ್ಟುನಾಷ್ಟುಃ ಎಂಬುದರಿಂದ ತಿಯ ತಕಾರಕ್ಕೆ ಷ್ಟುತ್ವದಿಂದ ಟಕಾರ; no lengthening |
+| 20 | `corudevatayoḥ` → `coradevatayoḥ` | SECOND-PASS S7: Kannada ತದ್ಬೃಹತೋ ಕರಪತ್ಯೋಶ್ಚೋರದೇವತಯೋಃ: ಚೋರ-, not ಚೋರು- |
+| 20 | `suṭ taluk ca` → `suṭ talopaś ca` | SECOND-PASS S7: Kannada ಸುಟ್ ತಲೋಪಶ್ಚ (letters: luk → lopaś) |
+| 20 | `[printed Pā. Sū. 6-1-140; for 6-2-140]` → `[Pā. Sū. 6-1-140]` | SECOND-PASS S2: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೪೦); the added ‘for 6-2-140’ is not in the Kannada |
+| 20 | `"U. Sū. 41-170" [?]` → `"U. Sū. 41-170"` | SECOND-PASS S1: Kannada (ಉ. ಸೂ. ೪೧-೧೭೦); Kannada number replaces the doubtful form |
+| 20 | `**वावशन्ते**` → `**वावशन्त**` | SECOND-PASS S7: Kannada ವಾವಶಂತ (the word of the Saṃhitā): final -e is not in the Kannada; Devanagari and IAST |
+| 20 | `(*vāvaśante*;` → `(*vāvaśanta*;` | SECOND-PASS S7: Kannada ವಾವಶಂತ (the word of the Saṃhitā): final -e is not in the Kannada; Devanagari and IAST |
+| 23 | `[the cloud] that supplies the reflection, that goes to clear water, or that has the rain-w` → `[the cloud] that is the support of water so clear that it gives a reflection, or that has ` | SECOND-PASS S14: Kannada ಪ್ರತಿಬಿಂಬವನ್ನು ಕೊಡುವಷ್ಟು ಸ್ವಚ್ಛವಾದ ನೀರಿಗೆ ಆಶ್ರಯವಾದ ಅಥವಾ ವ್ರೀಹ್ಯಾದಿ ಫಲಕೊಡುವ ವೃಷ್ಟಿಜಲವುಳ್ಳ |
+| 24 | `(Ni. 2-21 [?], as printed: both 2s are the curled glyph)` → `(Ni. 2-21)` | SECOND-PASS S1: Kannada (ನಿ. ೨-೨೧); Kannada number replaces the doubtful form |
+| 24 | `the 9-10?-4 one is uncertain, the others agree with the print's digits` → `the first reference, 9-10-84, and the others agree with the print's digits` | SECOND-PASS S1: Kannada (ಋ. ಸಂ. ೯-೧೦-೮೪) |
+| 24 | `स्वरति वेनेत्यर्चतिकर्मसु` → `स्वरति वेनतीत्यर्चतिकर्मसु` | SECOND-PASS S7: Kannada ಸ್ವರತಿ ವೇನತೀತ್ಯರ್ಚತಿ ಕರ್ಮಸು ಪಾಠಾತ್: ವೇನತೀತ್ಯ (letters: ta and ī added); Devanagari and IAST |
+| 24 | `svarati venety arcatikarmasu` → `svarati venatīty arcatikarmasu` | SECOND-PASS S7: Kannada ಸ್ವರತಿ ವೇನತೀತ್ಯರ್ಚತಿ ಕರ್ಮಸು ಪಾಠಾತ್: ವೇನತೀತ್ಯ (letters: ta and ī added); Devanagari and IAST |
+| 26 | `[6-4-40, Vārttika]` → `[6-4-40-2, Vārttika]` | SECOND-PASS S1: Kannada ಊಚ ಗಮಾದೀನಾಮಿತಿ ವಕ್ತವ್ಯಮ್ (ಪಾ.ಸೂ. ೬-೪-೪೦-೨) |
+| 29 | `so that you may be praised by us,` → `when they praised you,` | SECOND-PASS S14: Kannada ನಮ್ಮ ಪಿತೃಗಳಾದ ಅಂಗಿರಾ ಋಷಿಗಳು ನಿನ್ನನ್ನು ಸ್ತೋತ್ರ ಮಾಡಲಾಗಿ ನೀನು ಅವರ ಸ್ತೋತ್ರವನ್ನು ಕೇಳಿ (when they praised you); English reversed who praises whom |
+| 29 | `Pā. Sū. [7-3-80, as read, ?]` → `Pā. Sū. 7-3-80` | SECOND-PASS S1: Kannada ಪ್ವಾದೀನಾಂ ಹ್ರಸ್ವಃ (ಪಾ ಸೂ. ೭-೩-೮೦); Kannada number replaces the doubtful form |
+| 29 | `Uṇ. Sū. [1-142, ?]` → `Uṇ. Sū. 1-142` | SECOND-PASS S1: Kannada ಇಷಿಯುಧೀಂಧಿದಸಿ— (ಉ. ಸೂ. ೧-೧೪೨); Kannada number replaces the doubtful form |
+| 29 | `Pā. Sū. [2-4-80, as read, ?]` → `Pā. Sū. 2-4-80` | SECOND-PASS S1: Kannada ಮಂತ್ರೇಘಸಹವಣ (ಪಾ. ಸೂ. ೨-೪-೮೦); Kannada number replaces the doubtful form |
+| 30 | `meditation (sight)'` → `meditation'` | SECOND-PASS S16: Kannada ನಾಸ್ಮಿನ್ ಧ್ಯಾನಂ ಭವತಿ ... ಕತ್ತಲೆಯು ಧ್ಯಾನಕ್ಕೆ ಅಡ್ಡಿಯಾದುದರಿಂದ: ಧ್ಯಾನ = meditation; ‘sight’ is not in the Kannada |
+| 30 | `darkness obstructs sight` → `darkness is an obstacle to meditation` | SECOND-PASS S16: Kannada ನಾಸ್ಮಿನ್ ಧ್ಯಾನಂ ಭವತಿ ... ಕತ್ತಲೆಯು ಧ್ಯಾನಕ್ಕೆ ಅಡ್ಡಿಯಾದುದರಿಂದ: ಧ್ಯಾನ = meditation; ‘sight’ is not in the Kannada |
+| 30 | `obstructs meditation/sight` → `obstructs meditation` | SECOND-PASS S16: Kannada ನಾಸ್ಮಿನ್ ಧ್ಯಾನಂ ಭವತಿ ... ಕತ್ತಲೆಯು ಧ್ಯಾನಕ್ಕೆ ಅಡ್ಡಿಯಾದುದರಿಂದ: ಧ್ಯಾನ = meditation; ‘sight’ is not in the Kannada |

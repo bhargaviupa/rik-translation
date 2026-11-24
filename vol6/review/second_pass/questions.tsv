@@ -8,3 +8,54 @@ page	place	as_found	question	why not settled
 306	pṛśanyeyuḥ (1-84-11)	pṛśanyeyuḥ (1-84-11)	Settle: Kannada ಪೃಶನಯುಃ (pṛśanayuḥ); English has a different form	Not decided by the Kannada sentence alone; Kannada ಪೃಶನಯುಃ (೧-೮೪-೧೧)
 307	duhitṛvat samanantarabhāvinyām	Duhitṛvat samanantarabhāvinyām uṣasi	Settle: Kannada here prints ದ್ರುಹಿತೃವತ್ (misprint of ದುಹಿತೃವತ್ on p. 304); English silently corrected	Not decided by the Kannada sentence alone; Kannada ಸ್ವಾಯಾಂ ದುಹಿತರಿ ತ್ವಷಿಂ ಧಾತ್—ದ್ರುಹಿತೃವತ್ ಸಮನಂತರಭಾವಿನ್ಯಾಮುಷಸಿ
 308	tsarat — tsara chadmagatau (grammar)	tsarat (root tsara chadmagatau ...)	Settle: Kannada prints ತ್ವರತ್ / ತ್ವರ ಛದ್ಮ ಗತೌ (tvarat, tvara); English silently tsarat, tsara	Not decided by the Kannada sentence alone; Kannada ತ್ವರತ್—ತ್ವರ ಛದ್ಮ ಗತೌ ಧಾತು
+5	Bhāvārtha: whom the happiness belongs to	make hymns for Indra, who destroys enemies ..., who is to be praised with hymns, and who bestows happiness	Settle: does ‘happiness-making’ qualify the hymns (ಸ್ತೋತ್ರಗಳನ್ನು; so the pratipadārtha ಶೂಷಂ—ಸುಖಹೇತುವಾದ) or Indra? English makes Indra the bestower of happiness	The Kannada prints ಸುಖವನ್ನುಂಟುಮಾಡ ವ (broken word) and the sentence can be read either way
+5	Source's English: ‘ceremoney [sic]’	to the ceremoney [sic]	Settle: the English marks the source’s word as ‘ceremoney [sic]’ but the Kannada file has ‘ceremony’; keep the mark or print ‘ceremony’?	The supplied text contradicts the mark; the Kannada sentence cannot say what the scan had
+6	Special Topics ṛgmiyāya: Dhātu quotation	ऋच स्तुतौ / ṛca stutau	Settle: print ‘stutau’ (as English) or the printed ‘stut’?	Misprint (non-word) silently put right; the next sentence does not decide the ending
+6	Special Topics arcāma	let us recite the hymns	Settle: ಪರಿಸೋಣ read as ಪಠಿಸೋಣ ‘recite’ (English) or ‘offer’?	Non-word; the context allows both ಪಠಿಸು and ಪರಿಸು
+6	Grammar manmahe: the sūtra lopaś cāsyānyatarasyāṃ mvoḥ	लोपश्चास्यान्यतरस्यां म्वोः	Settle: print the English form (no t) or the printed one with ‘sty’?	Misprint silently put right; not decided by the Kannada sentence
+6	Grammar manmahe: ending mahiṅ	mahiṅ	Settle: ‘mahiṅ’ as the English has it?	Non-word; the sūtra named after it (ಟಿತ ಆತ್ಮನೇಪದಾನಾಂ—) suggests mahiṅ but does not decide the letters
+6	Grammar śavasānāya: kyac / kyaṅ	the affix *kyac* by *upamānād ācāre* ... then, with the continued "kartuḥ kyaṅ salopaś ca", the affix *kyaṅ*	Settle: English has two affixes (kyac, then kyaṅ) and kyaṅ for the printed ಕ್ಯಜ್; the Kannada has one affix, printed ಕ್ಯಜ್ throughout	The printed ಕ್ಯಜ್ may be a misprint of kyaṅ, and the Kannada sentence does not say whether a kyac step exists
+7	Grammar āṅgūṣam: the prefix āṅ	āṅ	Settle: print āṅ (English) or the printed ಆಜ್?	Misprint (ಜ for ಙ) silently put right (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar girvaṇase: ṛta iddhātoḥ	ṛta iddhātoḥ	Settle: ಋತ ಇದ್ಧಾತೋಃ as English?	Non-word in the Kannada; number 7-1-100 is printed (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar suvṛktibhiḥ: the word vṛkti	vṛkti	Settle: vṛkti (English) or the printed vyakti?	The word is printed vyakti throughout the passage; a misprint is likely but the Kannada does not say so (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar suvṛktibhiḥ: sūtra name	jñitīty ādir nityam	Settle: the English supplies ‘jñit’ not in the Kannada	The printed form is a fragment; the Kannada sentence does not give the missing letters (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar stuvate: root	ṣṭuñ stutau	Settle: print ‘stutau’ as English?	Misprint silently put right (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar arcāma: loṭo laṅvat	loṭo laṅvat	Settle: ‘laṅvat’ as English?	Misprint; the sense (loṭ as laṅ) points to laṅvat but the printed letters differ (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar arcāma: nityaṃ ṅitaḥ	nityaṃ ṅitaḥ (no number printed)	Settle: ‘ṅitaḥ’ as English?	Misprint; not decided (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar arcāma: supit	anudāttau supitau	Settle: ‘supitau’ as English?	Misprint (ಸುಪ್ಪಿತ್); not decided (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar arcāma: augment	the augment *ām* for the ending	Settle: ‘ām’ (English) or the printed āḍ (āṭ?) augment	The Kannada gives ಆಡ್; ‘ām’ is not in the Kannada, and ḍ/ṭ is not settled (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar ṛgmiyāya: svādiṣv asarvanāmasthāne	svādiṣv asarvanāmasthāne	Settle: English form (…ṣv asarva…) or the printed ಸ್ವಾದಿಷ್ಟ…?	Misprint silently put right (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+7	Grammar śūṣam: name of the sūtra	nandigrahapacādibhyo lyuṇinyacaḥ	Settle: English completes the sūtra beyond the Kannada (‘lyuṇinyacaḥ’); keep the full name or only the printed words?	The completion is from outside the supplied text (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)
+9	Grammar arkam: ka-substitution	the final *c* of the root becomes *k*	Settle: ‘k’ as English (ತ is a misprint?)	Misprint silently put right; the sūtra named (cajoḥ kuḥ) suggests k but the Kannada says ತ
+9	Grammar arkam: sūtra cajoḥ kuḥ ghiṇṇyatoḥ	चजोः कुः घिण्ण्यतोः / cajoḥ kuḥ ghiṇṇyatoḥ	Settle: print as in the Kannada (cajoḥ ku ghiṇyatoḥ) or the English form?	English adds a visarga, splits the words and doubles ṇ; the Kannada gives one run of letters
+10	Pratipadārtha: pūrve	pūrve	Settle: ಪೂರ್ವೇ (English ‘pūrve’)?	Misprint silently put right
+11	Grammar āṅgūṣyam: sūtra ṛhalor ṇyat	ऋहलोर्ण्यत् / ṛhalor ṇyat	Settle: ‘ṛhalor ṇyat’ as English?	Misprint (non-word) silently put right
+11	Grammar: the word āṅgūṣyam	āṅgūṣyam	Settle: ಆಂಗೂಷ್ಯಮ್ as English?	Non-word silently put right
+12	Grammar arcantaḥ: heading and result	arcantaḥ	Settle: ‘arcantaḥ’ as English (the text has ‘num’ augment)	Kannada prints ಅರ್ಚತಃ though it speaks of the num augment
+12	Grammar avindan: anusvārasya yayi parasavarṇaḥ	anusvārasya yayi parasavarṇaḥ	Settle: English form?	Misprint (non-word) silently put right
+15	Ṛ. Saṃ. 10-14-11: yama rakṣitārau	यौ ते श्वानौ यम रक्षितारौ / yau te śvānau yama rakṣitārau; gloss ‘O Yama’	Settle: word division and the ‘O Yama’ in the gloss	English splits the compound and adds a vocative; the Kannada has one word, no space
+15	Ṛ. Saṃ. 10-108-1: paritakmyā	परितक्म्या / paritakmyā	Settle: print ‘paritakmyā’ (English) or ‘paritakkyā’?	Kannada ಕ್ಕ್ಯ is not the English kmy
+15	Ṛ. Saṃ. 10-108-2: atiṣkado	अतिष्कदो / atiṣkado	Settle: ‘atiṣkado’ (English) or ‘atiṣkadū’?	Kannada ends in ū; not decided
+15	Ṛ. Saṃ. 10-108-1: ānaḍ dūre	प्रेदमानड् दूरे	Settle: ‘ānaḍ dūre’ (English) or the joined ‘ānaḍḍūre’?	Kannada prints the joined form
+16	Ṛ. Saṃ. 10-108-3: kīdṛṅṅ indraḥ	कीदृङ्ङिन्द्रः	Settle: ‘kīdṛṅṅ indraḥ’ (English) or the printed ‘kīdṛṅjindraḥ’?	Misprint; not decided
+16	Ṛ. Saṃ. 10-108-4: śayadhve	शयध्वे / śayadhve	Settle: ‘śayadhve’ (English)?	Misprint (ದ್ವೇ for ಧ್ವೇ) silently put right
+16	Ṛ. Saṃ. 10-108-5: ayudhvy utāsmākam	अयुध्व्युतास्माकम् / ayudhvy utāsmākam	Settle: English has an extra v	The Kannada has ಯುಧ್ಯು
+16	Ṛ. Saṃ. 10-108-6: adhuṣko va etavā astu panthā	अधुष्को व एतवा अस्तु पन्था / adhuṣko va etavā astu panthā (as printed ‘अधुष्को’)	Settle: English silently reads four letters differently	The English remark ‘as printed’ is wrong; four misprints put right
+16	Ṛ. Saṃ. 10-108-7: nyṛṣṭaḥ	न्यृष्टः / nyṛṣṭaḥ	Settle: ‘nyṛṣṭaḥ’ (English) or ‘nṛṣṭaḥ’?	Not decided
+16	Ṛ. Saṃ. 10-108-8: gamann ṛṣayaḥ; ayāsyo	गमन्नृषयः / अयास्यो	Settle: English forms or printed?	Misprints; not decided
+16	Ṛ. Saṃ. 10-108-9: subhage	सुभगे / subhage	Settle: ‘subhage’ (English)?	Misprint silently put right
+16	Ṛ. Saṃ. 10-108-11: ud gāvo	उद्गावो / ud gāvo	Settle: ‘ud gāvo’ (English)?	Misprint silently put right
+18	Commentary: ṛgvede	Ṛgveda	Settle: ಋಗ್ವೇದದಲ್ಲಿ as English?	Non-word silently put right
+19	Word-index: paṇi-iva	paṇi-iva (printed "paṇinā iva")	Settle: how to print the form; the remark ‘printed paṇinā iva’ does not match the Kannada	The printed form is ಪಣಿನ್ಆಇವ
+20	Grammar dhāsim: ātva sūtra	ādeca upadeśe 'śiti	Settle: English form (ā-deca) or printed ‘ade ca’?	Misprint silently put right; the number is printed
+21	Grammar (top of page): bahulaṃ chandasy amāṅyoge 'pi	bahulaṃ chandasy māṅyoge 'pi	Settle: the English form drops ‘a’ and corrects ರ್ಜ to ಙ್ (printed ಮಾರ್ಜ)	Misprint (non-word) silently put right
+24	Skandasvāmin/Sāyaṇa quotation: root svṛ	स्वृ शब्दोपतापयोः / svṛ śabdopatāpayoḥ	Settle: ‘svṛ’ as English or ‘sva’ as printed?	Not decided
+24	Same quotation: suṣṭu	सुष्ठु प्राप्यः / suṣṭhu prāpyaḥ	Settle: ‘suṣṭhu’ (English) or ‘suṣṭu’ as printed?	Misprint silently put right
+24	Ṛ. Saṃ. 9-10-84 (as printed): yenā navagve dadhyaṅ apornute	येना नवग्वे दध्यङ्ङपोर्णुते / yenā navagve dadhyaṅ apornute	Settle: English changes ನವಗ್ವೋ→navagve and ದಧ್ಯಜ್ಜ ಪೋ→dadhyaṅ apo	Misprints possible; not decided
+25	Ṛ. Saṃ. 4-51-3: saptāsye	सप्तास्ये / saptāsye	Settle: ‘saptāsye’ (English)?	Misprint silently put right
+25	Quoted text on phaligam (p. 25 Kannada)	tad asyāsminn astīti bhavatīti phali vṛṣṭijalam | tad gacchatīti phaligaḥ	Settle: English silently reads asyāsminn astīti and gacchati	Misprints (non-words) put right; not decided
+25	Grammar suṣṭubhā: vārttika reference	(Vā. 2233, as printed)	Settle: ‘Vā.’ (as on p. 7 ವಾ. ೨೨೩೩) or ‘Nā.’ as printed?	English claims ‘as printed’ for Vā.; the print has ನಾ.
+26	Grammar saraṇyubhiḥ: heading	saraṇyubhiḥ	Settle: ಸರಣ್ಯುಭಿಃ as English?	Misprint silently put right
+28	Pratipadārtha: dasma	दस्म	Settle: ದಸ್ಮ as English?	Misprint silently put right
+28	Pratipadārtha: uṣasā	उषसा	Settle: ಉಷಸಾ as English?	Misprint silently put right
+28	Pratipadārtha: uparam	उपरम्	Settle: ಉಪರಂ as English (the Saṃhitā has uparam)?	Misprint silently put right

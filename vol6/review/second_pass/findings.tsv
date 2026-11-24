@@ -23,3 +23,89 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 306	S7	R3	yas te didyud avasṛṣṭā (Ṛ. Saṃ. 7-46-3)	यस्ते दिद्युदवसृष्टा / yas te didyud avasṛṣṭā	yā te didyud avasṛṣṭā (या ते दिद्युदवसृष्टा)	Kannada ಯಾ ತೇ ದಿದ್ಯುದವಸೃಷ್ಟಾ ದಿವಸ್ಪರಿ ... ಸಾ ವೃಣಕ್ತು ನಃ (feminine sā follows)	applied	
 307	H29	R6	duhitṛvat samanantarabhāvinyām	Duhitṛvat samanantarabhāvinyām uṣasi	Kannada here prints ದ್ರುಹಿತೃವತ್ (misprint of ದುಹಿತೃವತ್ on p. 304); English silently corrected	Kannada ಸ್ವಾಯಾಂ ದುಹಿತರಿ ತ್ವಷಿಂ ಧಾತ್—ದ್ರುಹಿತೃವತ್ ಸಮನಂತರಭಾವಿನ್ಯಾಮುಷಸಿ	question	
 308	H29	R6	tsarat — tsara chadmagatau (grammar)	tsarat (root tsara chadmagatau ...)	Kannada prints ತ್ವರತ್ / ತ್ವರ ಛದ್ಮ ಗತೌ (tvarat, tvara); English silently tsarat, tsara	Kannada ತ್ವರತ್—ತ್ವರ ಛದ್ಮ ಗತೌ ಧಾತು	question	
+2	S1	R1	Anuvāda: Anukramaṇikā reference	Anu. 11-4	Anu. 12-4	Kannada ಅನು. ೧೨-೪ (anuvāda on p. 2)	applied	
+4	S14	R1	Pratipadārtha stuvate	to the praiser (the praised one)	to the praiser (who praises)	Kannada ಸ್ತುತಿಸುವವನಿಗೆ (ಸ್ತುತಿಸುವವನಾದ) = one who praises	applied	
+5	S1	R1	Special Topics śavasānāya: Nirukta reference	Ni. 3-9 [?], as printed: the first digit looks like ೩	Ni. 3-9	Kannada (ನಿ. ೩-೯); Kannada number replaces the doubtful form	applied	
+5	S2	R1	Special Topics śūṣam: number of names for happiness	among the twenty-seven names for happiness	among the twenty names for happiness	Kannada ಇಪ್ಪತ್ತು ಸುಖನಾಮಗಳ (twenty)	applied	
+5	S7	R3	Nirukta 5-11 quotation āṅgūṣaḥ stomaḥ āghoṣaḥ	आङ्गूषः स्तोमः आघोषः / āṅgūṣaḥ stomaḥ āghoṣaḥ	आङ्गूषः स्तोम आघोषः / āṅgūṣaḥ stoma āghoṣaḥ	Kannada ಆಂಗೂಷಃ ಸ್ತೋಮ ಆಘೋಷಃ: no visarga after ಸ್ತೋಮ (letters: ḥ after stoma dropped, in the quotation, Devanagari and IAST; three places on the page)	applied	
+6	S16	R1	Grammar: manmahe, accent of the verb	the verb, standing after another word (*pra*), is unaccented	the verb, standing after a form that is not a finite verb, is unaccented	Kannada ಅತಿಜಂತದ ಪರದಲ್ಲಿರುವುದರಿಂದ (after a non-finite-verb word); no word pra is named	applied	
+7	S1	R1	Grammar ṛgmiyāya: Pāṇini sūtra number for the pada-designation	Pā. Sū. 1-4-1? [?], as printed: the last digit looks like ೩ (3); unclear	Pā. Sū. 1-4-13	Kannada (ಪಾ. ಸೂ. ೧-೪-೧೩); Kannada number replaces the whole doubtful form (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)	applied	
+7	S3	R1	Grammar girvaṇase: the Uṇādi reference	(an Uṇādi-vārttika, as read)	(Uṇ. Sū. 4-666)	Kannada ಗತಿಕಾರಕಯೋರಪಿ ... (ಉ. ಸೂ. ೪-೬೬೬): the print gives the number and calls it Uṇādi-sūtra (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)	applied	
+7	S3	R1	Grammar girvaṇase: the vārttika on kvip	(a vārttika)	(a vārttika, Vā. 2233)	Kannada ಸಂಪದಾದಿಭ್ಯ: ಕ್ವಿಪ್ (ವಾ. ೨೨೩೩) (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)	applied	
+7	S14	R1	Grammar girvaṇase: the maxim on saṃjñāpūrvaka rules	by the maxim (*asiddha*) of the *saṃjñāpūrvaka* rule	by the maxim (*anitya*, Pari. 95) of the *saṃjñāpūrvaka* rule	Kannada ಸಂಜ್ಞಾಪೂರ್ವಕೋ ವಿಧಿರನಿತ್ಯಃ (ಪರಿ. ೯೫) ... ಅನಿತ್ಯಾಶ್ರಯಣದಿಂದ (anitya, not asiddha) (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)	applied	
+7	S16	R1	Grammar arcāma: loṭ	the imperative (*loṭ*) form in the sense of an optative	the imperative (*loṭ*) form	Kannada ಭ್ವಾದಿ ಲೋಟೋ ಲಜ್ವತ್ ಎಂದು ಅತಿದೇಶಮಾಡಿರುವುದರಿಂದ: nothing about an optative sense (English section 'Pages 7-8'; the edit is placed through '### Page 6' because sp_apply does not find a '### Pages 7–8' heading)	applied	
+12	S16	R1	Grammar avindan: the ending jhi	in which *jhi* becomes *jus* — "झेर्जुस्" style rule printed as "झोऽन्तः"	in which *jhi* is replaced by *anta* by "झोऽन्तः"	Kannada ಝಿಗೆ ಝೋಂತಃ ಎಂಬುದರಿಂದ ಅಂತಾದೇಶ; no jus and no jher jus rule in the Kannada	applied	
+14	S14	R1	Bhāvārtha: who learned the place of the cows	She [also] learned where the cows were, and told Indra. Indra then killed the demon and brought the cows back.	Having learned the place where the cows were, Indra killed the demons and brought the cows back.	Kannada ಗೋವುಗಳು ಇದ್ದ ಸ್ಥಳವನ್ನು ತಿಳಿದು ಇಂದ್ರನು ರಾಕ್ಷಸರನ್ನು ಕೊಂದು ಗೋವುಗಳನ್ನು ಹಿಂದಕ್ಕೆ ತಂದನು: Indra learns, no telling by Saramā, plural demons	applied	
+15	S7	R3	Śāṭyāyana quotation annādinīṃ te sarame ... yo no gā anvavinda	यो नो गा अन्वविन्द / yo no gā anvavinda	या नो गा अन्वविन्द / yā no gā anvavinda	Kannada ಅನ್ನಾದಿನೀಂ ತೇ ಸರಮೇ ಪ್ರಜಾಂ ಕರೋಮಿ ಯಾ ನೋ ಗಾ ಅನ್ವವಿಂದ (ಯಾ; feminine, addressed to Saramā, as the Kannada gloss ‘you go and find’ shows); letters changed: o→ā in yo; Devanagari and IAST, three places	applied	
+15	S17	R1	Special Topics: Indra's answer	Then Indra, as she wished, ... the bitch, going out and searching	When Indra said "So be it", the bitch, going out and searching	Kannada ಇಂದ್ರನು ಹಾಗೆಯೇ ಆಗಲೆಂದು ಹೇಳಲು ಆ ಶುನಿಯು ಹೊರಟು ಹುಡುಕುತ್ತಾ: the words said ‘so be it’ are left out and an ellipsis stands	applied	
+18	S14	R1	Paṇis to Saramā	You seem to have the nature of the gods.	You seem to have the support of the gods.	Kannada ನಿನಗೆ ದೇವತೆಗಳ ಬೆಂಬಲವಿರುವಂತೆ ಕಾಣುವುದು (ಬೆಂಬಲ = support)	applied	
+18	S14	R1	Saramā's answer: sāvakāśa	Make room; go to a safe place far away.	Do not delay; go to a safe place far away.	Kannada ಸಾವಕಾಶ ಮಾಡಬೇಡಿ, ದೂರದಲ್ಲಿರುವ ಸುರಕ್ಷಿತವಾದ ಪ್ರದೇಶಕ್ಕೆ ಹೋಗಿ (ಸಾವಕಾಶ ಮಾಡು = to delay)	applied	
+19	S13	R1	Word-index: last form	paṇau 8-97-2	paṇā 8-97-2	Kannada ಪಣಾ—ಋ. ಸಂ. ೮-೯೭-೨; the English changed the printed form	applied	
+19	S7	R1	Remark on the print: reference to Part 2	(As printed: "ಭಾಗ ೨, ಪೇಜು ೨೨೮, ೪೬೫-೪೬೬")	(As printed: "ಭಾಗ ೨, ಪುಟ ೨೨೮, ೪೬೫-೪೬೬")	Kannada ಭಾಗ ೨, ಪುಟ ೨೨೮, ೪೬೫-೪೬೬ (ಪುಟ, not ಪೇಜು)	applied	
+19	S14	R1	Grammar iṣṭau: what the Kannada says after ktin	the lengthening of the ending is discussed	the *t* of the affix *ti* becomes *ṭ* by *ṣṭutva*	Kannada ಷ್ಟುನಾಷ್ಟುಃ ಎಂಬುದರಿಂದ ತಿಯ ತಕಾರಕ್ಕೆ ಷ್ಟುತ್ವದಿಂದ ಟಕಾರ; no lengthening	applied	
+20	S7	R3	Grammar bṛhaspatiḥ: the rule	corudevatayoḥ	coradevatayoḥ	Kannada ತದ್ಬೃಹತೋ ಕರಪತ್ಯೋಶ್ಚೋರದೇವತಯೋಃ: ಚೋರ-, not ಚೋರು-	applied	
+20	S7	R3	Grammar bṛhaspatiḥ: the rule, end	suṭ taluk ca	suṭ talopaś ca	Kannada ಸುಟ್ ತಲೋಪಶ್ಚ (letters: luk → lopaś)	applied	
+20	S2	R1	Grammar bṛhaspatiḥ: ubhe vanaspatyādiṣu	[printed Pā. Sū. 6-1-140; for 6-2-140]	[Pā. Sū. 6-1-140]	Kannada (ಪಾ. ಸೂ. ೬-೧-೧೪೦); the added ‘for 6-2-140’ is not in the Kannada	applied	
+20	S1	R1	Grammar usriyābhiḥ: Uṇādi number	"U. Sū. 41-170" [?]	"U. Sū. 41-170"	Kannada (ಉ. ಸೂ. ೪೧-೧೭೦); Kannada number replaces the doubtful form	applied	
+20	S7	R3	Grammar heading: the word vāvaśanta	वावशन्ते / vāvaśante	वावशन्त / vāvaśanta	Kannada ವಾವಶಂತ (the word of the Saṃhitā): final -e is not in the Kannada; Devanagari and IAST	applied	
+23	S14	R1	Pratipadārtha phaligam	[the cloud] that supplies the reflection, that goes to clear water, or that has the rain-water	[the cloud] that is the support of water so clear that it gives a reflection, or that has rain-water giving fruit such as rice and the like	Kannada ಪ್ರತಿಬಿಂಬವನ್ನು ಕೊಡುವಷ್ಟು ಸ್ವಚ್ಛವಾದ ನೀರಿಗೆ ಆಶ್ರಯವಾದ ಅಥವಾ ವ್ರೀಹ್ಯಾದಿ ಫಲಕೊಡುವ ವೃಷ್ಟಿಜಲವುಳ್ಳ	applied	
+24	S1	R1	Special Topics adrim: Nirukta reference	(Ni. 2-21 [?], as printed: both 2s are the curled glyph)	(Ni. 2-21)	Kannada (ನಿ. ೨-೨೧); Kannada number replaces the doubtful form	applied	
+24	S1	R1	Remark on the numerals of the Ṛk references	the 9-10?-4 one is uncertain, the others agree with the print's digits	the first reference, 9-10-84, and the others agree with the print's digits	Kannada (ಋ. ಸಂ. ೯-೧೦-೮೪)	applied	
+24	S7	R3	Skandasvāmin quotation svarati venatīty ...	स्वरति वेनेत्यर्चतिकर्मसु / svarati venety arcatikarmasu	स्वरति वेनतीत्यर्चतिकर्मसु / svarati venatīty arcatikarmasu	Kannada ಸ್ವರತಿ ವೇನತೀತ್ಯರ್ಚತಿ ಕರ್ಮಸು ಪಾಠಾತ್: ವೇನತೀತ್ಯ (letters: ta and ī added); Devanagari and IAST	applied	
+26	S1	R1	Grammar navagvaiḥ: vārttika number	[6-4-40, Vārttika]	[6-4-40-2, Vārttika]	Kannada ಊಚ ಗಮಾದೀನಾಮಿತಿ ವಕ್ತವ್ಯಮ್ (ಪಾ.ಸೂ. ೬-೪-೪೦-೨)	applied	
+29	S14	R1	Source's Kannada continued: when the Aṅgirases praised	…so that you may be praised by us, you listened to their praises	…when they praised you, you listened to their praises	Kannada ನಮ್ಮ ಪಿತೃಗಳಾದ ಅಂಗಿರಾ ಋಷಿಗಳು ನಿನ್ನನ್ನು ಸ್ತೋತ್ರ ಮಾಡಲಾಗಿ ನೀನು ಅವರ ಸ್ತೋತ್ರವನ್ನು ಕೇಳಿ (when they praised you); English reversed who praises whom	applied	
+29	S1	R1	Grammar gṛṇānaḥ: sūtra number	Pā. Sū. [7-3-80, as read, ?]	Pā. Sū. 7-3-80	Kannada ಪ್ವಾದೀನಾಂ ಹ್ರಸ್ವಃ (ಪಾ ಸೂ. ೭-೩-೮೦); Kannada number replaces the doubtful form	applied	
+29	S1	R1	Grammar dasma: Uṇādi number	Uṇ. Sū. [1-142, ?]	Uṇ. Sū. 1-142	Kannada ಇಷಿಯುಧೀಂಧಿದಸಿ— (ಉ. ಸೂ. ೧-೧೪೨); Kannada number replaces the doubtful form	applied	
+29	S1	R1	Grammar vaḥ: sūtra number	Pā. Sū. [2-4-80, as read, ?]	Pā. Sū. 2-4-80	Kannada ಮಂತ್ರೇಘಸಹವಣ (ಪಾ. ಸೂ. ೨-೪-೮೦); Kannada number replaces the doubtful form	applied	
+30	S16	R1	Grammar andhaḥ: sense of dhyāna (twice) and the Kannada remark	no meditation (sight) ... darkness obstructs sight ... obstructs meditation/sight	no meditation ... darkness is an obstacle to meditation ... obstructs meditation	Kannada ನಾಸ್ಮಿನ್ ಧ್ಯಾನಂ ಭವತಿ ... ಕತ್ತಲೆಯು ಧ್ಯಾನಕ್ಕೆ ಅಡ್ಡಿಯಾದುದರಿಂದ: ಧ್ಯಾನ = meditation; ‘sight’ is not in the Kannada	applied	
+5	S14	R1	Bhāvārtha: whom the happiness belongs to	make hymns for Indra, who destroys enemies ..., who is to be praised with hymns, and who bestows happiness		Kannada ಇಂದ್ರನಿಗೆ ಸುಖವನ್ನುಂಟುಮಾಡ ವ ಸ್ತೋತ್ರಗಳನ್ನು: the word ಮಾಡ ವ is broken (not a word; ಮಾಡುವ?)	question	
+5	H29	R6	Source's English: ‘ceremoney [sic]’	to the ceremoney [sic]		Kannada text reads ‘ceremony’ (no misprint in the supplied English)	question	
+6	H29	R3	Special Topics ṛgmiyāya: Dhātu quotation	ऋच स्तुतौ / ṛca stutau		Kannada prints ಋಚ ಸ್ತುತ್ (p. 6) but ಋಚ ಸ್ತುತೌ on p. 8 (in p. 7 text)	question	
+6	H29	R6	Special Topics arcāma	let us recite the hymns		Kannada ಅರ್ಚಾಮ-ಪೂಜಿಸೋಣ ಎಂದರೆ ಸ್ತೋತ್ರಗಳನ್ನು ಪರಿಸೋಣ: ಪರಿಸೋಣ is not a word	question	
+6	H29	R3	Grammar manmahe: the sūtra lopaś cāsyānyatarasyāṃ mvoḥ	लोपश्चास्यान्यतरस्यां म्वोः		Kannada prints ಲೋಪಶ್ಚಾಸ್ತ್ಯಾನ್ಯತರಸ್ಯಾಂ ಮ್ವೋಃ (…ಸ್ತ್ಯಾ…, extra ತ್)	question	
+6	H29	R6	Grammar manmahe: ending mahiṅ	mahiṅ		Kannada ಮಹಿಜೆಗೆ ಟಿತ (non-word; ಮಹಿಙ್ ?)	question	
+6	S14	R1	Grammar śavasānāya: kyac / kyaṅ	the affix *kyac* by *upamānād ācāre* ... then, with the continued "kartuḥ kyaṅ salopaś ca", the affix *kyaṅ*		Kannada ... ಎಂಬುದರಿಂದ ಉಪಮಾನಾತ್ ಎಂದು ಅನುವೃತ್ತವಾಗುವಾಗ ‘ಕರ್ತುಃ ಕ್ಯಜ್ ಸಲೋಪಶ್ಚ’ ಎಂಬುದರಿಂದ ಕ್ಯಜ್: one affix (printed ಕ್ಯಜ್ everywhere, a misprint for kyaṅ?)	question	
+7	H29	R3	Grammar āṅgūṣam: the prefix āṅ	āṅ		Kannada prints ಆಜ್ (and ಆಜಿನ) for the prefix	question	
+7	H29	R3	Grammar girvaṇase: ṛta iddhātoḥ	ṛta iddhātoḥ		Kannada ಯೂತಇದ್ದಾತೋ: (Pā. Sū. ೭-೧-೧೦೦)	question	
+7	H29	R3	Grammar suvṛktibhiḥ: the word vṛkti	vṛkti		Kannada prints ವ್ಯಕ್ತಿ (vyakti) for the derived word and in ಶೋಭನಂ ವ್ಯಕ್ತಿಃ	question	
+7	H29	R3	Grammar suvṛktibhiḥ: sūtra name	jñitīty ādir nityam		Kannada prints ಇತ್ಯಾದಿರ್ನಿತ್ಯಂ (no ‘jñit’)	question	
+7	H29	R3	Grammar stuvate: root	ṣṭuñ stutau		Kannada ಷ್ಟುಞ್ ಸ್ತುತ್ ಧಾತು (misprint for ಸ್ತುತೌ)	question	
+7	H29	R3	Grammar arcāma: loṭo laṅvat	loṭo laṅvat		Kannada ಲೋಟೋ ಲಜ್ಜತ್ (non-word)	question	
+7	H29	R3	Grammar arcāma: nityaṃ ṅitaḥ	nityaṃ ṅitaḥ (no number printed)		Kannada ನಿತ್ಯಂ ಜಾತಃ	question	
+7	H29	R3	Grammar arcāma: supit	anudāttau supitau		Kannada ಅನುದಾತ್ತೌ ಸುಪ್ಪಿತ್	question	
+7	S14	R1	Grammar arcāma: augment	the augment *ām* for the ending		Kannada ಪ್ರತ್ಯಯಕ್ಕೆ ಆಡಾಗಮ (āḍ-āgama)	question	
+7	H29	R3	Grammar ṛgmiyāya: svādiṣv asarvanāmasthāne	svādiṣv asarvanāmasthāne		Kannada ಸ್ವಾದಿಷ್ಟಸರ್ವನಾಮಸ್ಥಾನೇ (number ೧-೪-೧೩ is printed)	question	
+7	S16	R3	Grammar śūṣam: name of the sūtra	nandigrahapacādibhyo lyuṇinyacaḥ		Kannada ನಂದಿಗ್ರಹ ಪಚಾದಿಭ್ಯಃ (Pā. Sū. ೩-೧-೧೩೪), no more	question	
+9	H29	R6	Grammar arkam: ka-substitution	the final *c* of the root becomes *k*		Kannada ಚಕಾರಕ್ಕೆ ಕುತ್ವದಿಂದ ತಕಾರಾದೇಶ (ತ for ಕ)	question	
+9	H29	R3	Grammar arkam: sūtra cajoḥ kuḥ ghiṇṇyatoḥ	चजोः कुः घिण्ण्यतोः / cajoḥ kuḥ ghiṇṇyatoḥ		Kannada ಚಜೋಃಕುಘಿಣ್ಯತೋಃ (one word, single ಣ, no visarga after ಕು)	question	
+10	H29	R6	Pratipadārtha: pūrve	pūrve		Kannada ಪೂರ್ವೀ—ಪೂರ್ವಿಕರಾದ	question	
+11	H29	R3	Grammar āṅgūṣyam: sūtra ṛhalor ṇyat	ऋहलोर्ण्यत् / ṛhalor ṇyat		Kannada ಮಹಲೋರ್ಣ್ಯತ್ (ಮ for ಋ)	question	
+11	H29	R6	Grammar: the word āṅgūṣyam	āṅgūṣyam		Kannada ಆಜ್ಞಾಷ್ಯಮ್	question	
+12	H29	R6	Grammar arcantaḥ: heading and result	arcantaḥ		Kannada ಅರ್ಚತಃ (heading and result)	question	
+12	H29	R3	Grammar avindan: anusvārasya yayi parasavarṇaḥ	anusvārasya yayi parasavarṇaḥ		Kannada ಅನುಸ್ಯಾರಸ್ಯಯಯಿ ಪರಸವರ್ಣಃ	question	
+15	H29	R3	Ṛ. Saṃ. 10-14-11: yama rakṣitārau	यौ ते श्वानौ यम रक्षितारौ / yau te śvānau yama rakṣitārau; gloss ‘O Yama’		Kannada ಯೌ ತೇ ಶ್ವಾನೌ ಯಮರಕ್ಷಿತಾರೌ (one word)	question	
+15	H29	R3	Ṛ. Saṃ. 10-108-1: paritakmyā	परितक्म्या / paritakmyā		Kannada ಪರಿತಕ್ಕ್ಯಾ	question	
+15	H29	R3	Ṛ. Saṃ. 10-108-2: atiṣkado	अतिष्कदो / atiṣkado		Kannada ಅತಿಷ್ಕದೂ (ū for o)	question	
+15	H29	R3	Ṛ. Saṃ. 10-108-1: ānaḍ dūre	प्रेदमानड् दूरे		Kannada ಪ್ರೇದಮಾನಡ್ಡೂರೇ (ḍḍū, joined)	question	
+16	H29	R3	Ṛ. Saṃ. 10-108-3: kīdṛṅṅ indraḥ	कीदृङ्ङिन्द्रः		Kannada ಕೀದೃಙ್ಜಿಂದ್ರಃ (ಜ for ಙ)	question	
+16	H29	R3	Ṛ. Saṃ. 10-108-4: śayadhve	शयध्वे / śayadhve		Kannada ಶಯದ್ವೇ	question	
+16	H29	R3	Ṛ. Saṃ. 10-108-5: ayudhvy utāsmākam	अयुध्व्युतास्माकम् / ayudhvy utāsmākam		Kannada ಅಯುಧ್ಯುತಾಸ್ಮಾಕಂ (no ವ್)	question	
+16	H29	R3	Ṛ. Saṃ. 10-108-6: adhuṣko va etavā astu panthā	अधुष्को व एतवा अस्तु पन्था / adhuṣko va etavā astu panthā (as printed ‘अधुष्को’)		Kannada ಅಧುಷ್ಟೋ ನ ಏತವಾ ಆಸ್ತು ಪನ್ನಾ (ಟ for ಕ; ನ for ವ; ಆ for ಅ; ಪನ್ನಾ for ಪಂಥಾ)	question	
+16	H29	R3	Ṛ. Saṃ. 10-108-7: nyṛṣṭaḥ	न्यृष्टः / nyṛṣṭaḥ		Kannada ನೃಷ್ಟಃ (no ಯ್)	question	
+16	H29	R3	Ṛ. Saṃ. 10-108-8: gamann ṛṣayaḥ; ayāsyo	गमन्नृषयः / अयास्यो		Kannada ಗಮನ್ರುಷಯಃ (ರು for ನೃ); ಆಯಾಸ್ಯೋ	question	
+16	H29	R3	Ṛ. Saṃ. 10-108-9: subhage	सुभगे / subhage		Kannada ಸಭಗೇ	question	
+16	H29	R3	Ṛ. Saṃ. 10-108-11: ud gāvo	उद्गावो / ud gāvo		Kannada ಉದ್ದಾವೋ	question	
+18	H29	R6	Commentary: ṛgvede	Ṛgveda		Kannada ಋಗ್ವದದಲ್ಲಿ (non-word)	question	
+19	H29	R1	Word-index: paṇi-iva	paṇi-iva (printed "paṇinā iva")		Kannada ಪಣಿನ್ಆಇವ—ಋ. ಸಂ. ೧-೩೨-೧೧ (not ‘paṇinā iva’)	question	
+20	H29	R3	Grammar dhāsim: ātva sūtra	ādeca upadeśe 'śiti		Kannada ಅದೇ ಚ ಉಪದೇಶೇಶಿತಿ (Pā. Sū. ೬-೧-೪೫)	question	
+21	H29	R3	Grammar (top of page): bahulaṃ chandasy amāṅyoge 'pi	bahulaṃ chandasy māṅyoge 'pi		Kannada ಬಹುಲಂ ಛಂದಸ್ಯಮಾರ್ಜಯೋಗೇಽಪಿ	question	
+24	H29	R3	Skandasvāmin/Sāyaṇa quotation: root svṛ	स्वृ शब्दोपतापयोः / svṛ śabdopatāpayoḥ		Kannada ಸ್ವ ಶಬ್ದೋಪತಾಪಯೋಃ (no ೃ)	question	
+24	H29	R3	Same quotation: suṣṭu	सुष्ठु प्राप्यः / suṣṭhu prāpyaḥ		Kannada ಸುಷ್ಟು ಪ್ರಾಪ್ಯಃ	question	
+24	H29	R3	Ṛ. Saṃ. 9-10-84 (as printed): yenā navagve dadhyaṅ apornute	येना नवग्वे दध्यङ्ङपोर्णुते / yenā navagve dadhyaṅ apornute		Kannada ಯೇನಾ ನವಗ್ವೋ ದಧ್ಯಜ್ಜ ಪೋರ್ಣುತೇ	question	
+25	H29	R3	Ṛ. Saṃ. 4-51-3: saptāsye	सप्तास्ये / saptāsye		Kannada ಸಪ್ತಾಸ್ತ್ಯೇ	question	
+25	H29	R3	Quoted text on phaligam (p. 25 Kannada)	tad asyāsminn astīti bhavatīti phali vṛṣṭijalam | tad gacchatīti phaligaḥ		Kannada ತದಸ್ತ್ಯಸ್ಮಿನ್ನತಿ ಭವತೀತಿ ಫಲಿ … ತದ್ದಚ್ಛತೀತಿ ಫಲಿಗಃ	question	
+25	H29	R3	Grammar suṣṭubhā: vārttika reference	(Vā. 2233, as printed)		Kannada (ನಾ. ೨೨೩೩) — ನಾ. is printed	question	
+26	H29	R6	Grammar saraṇyubhiḥ: heading	saraṇyubhiḥ		Kannada ಸರುಣ್ಯುಭಿಃ	question	
+28	H29	R6	Pratipadārtha: dasma	दस्म		Kannada ದಸ್ಯ—ದರ್ಶನೀಯನೇ	question	
+28	H29	R6	Pratipadārtha: uṣasā	उषसा		Kannada ಉಸಷಾ	question	
+28	H29	R6	Pratipadārtha: uparam	उपरम्		Kannada ಉಪರಾಃ	question	
