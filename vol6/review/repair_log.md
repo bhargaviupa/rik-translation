@@ -244,3 +244,63 @@
 | page | old → new | why |
 |---|---|---|
 | 95 | `sūtra (Ā. 7-7, as printed)` → `sūtra (Ā. 7-3)` | SECOND-PASS S1: Kannada anuvāda ಆಶ್ವಲಾಯನಶೌತಸೂತ್ರದ ... (ಆ. ೭-೩) |
+
+### 2026-11-24 second pass, batch e122-151.tsv
+| page | old → new | why |
+|---|---|---|
+| 122 | ` (Pā. Sū. 5-2-115, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಆತ ಇನಿರನೌ ಎಂಬುದರಿಂದ) |
+| 122 | ` (Pā. Sū. 6-3-137, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಅನ್ಯೇಷಾಮಪಿ ದೃಶ್ಯತೇ ಎಂಬುದರಿಂದ) |
+| 126 | ` (Pā. Sū. 7-1-4, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಅದಭ್ಯಸ್ತಾತ್ ಎಂಬುದರಿಂದ) |
+| 126 | `(Uṇ. Sū. 2-[84], as read)` → `(Uṇ. Sū. 2-241)` | SECOND-PASS S1: Kannada grammar prints (ಉ. ಸೂ ೨-೨೪೧) |
+| 129 | ` (Pā. Sū. 3-4-101, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ತಸ್ಥಸ್ಥಮಿಸಾಂ ತಾಂತಂತಾಮಃ ಸೂತ್ರದಿಂದ) |
+| 129 | `(Uṇ. Sū. 4-[48], as read)` → `(Uṇ. Sū. 4-499)` | SECOND-PASS S1: Kannada prints (ಉ. ಸೂ. ೪-೪೯೯) |
+| 129 | ` (Pā. Sū. 3-1-3)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಆದ್ಯುದಾತ್ತಶ್ಚ ಎಂಬುದರಿಂದ) |
+| 130 | `(Uṇ. Sū. 1-7 [?], the digit after the dash partly cut)` → `(Uṇ. Sū. 1-7)` | SECOND-PASS S1: Kannada prints (ಉ. ಸೂ. ೧-೭); printed [?] replaced by the Kannada number |
+| 130 | ` (Pā. Sū. 7-1-34, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಆತ ಔಣಲಃ ಎಂಬುದರಿಂದ) |
+| 130 | ` (Pā. Sū. 7-4-61, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಶರ್ಪೂರ್ವಾಃ ಖಯಃ ಎಂಬುದರಿಂದ) |
+| 132 | `having Indra as their weapon-in-hand` → `having Indra in the place of a weapon` | SECOND-PASS S14: Kannada ಇಂದ್ರನನ್ನೇ ಆಯುಧಸ್ಥಾನದಲ್ಲಿ ಹೊಂದಿರುವವರೂ (bhāṣya āyudhasthānīyaḥ) |
+| 132 | `those who give rise to the praises of the singers` → `those who are the object of the praises of the singers` | SECOND-PASS S14: Kannada ಸ್ತೋತ್ರಮಾಡುವವರ ಸ್ತುತಿಗಳಿಗೆ ವಿಷಯರಾಗಿ ಇರುವವರು |
+| 133 | `'those who make many kinds of sounds', and in the second way 'those fit to be spoken of in` → `'those who make various sounds, accompanied by those who praise', and in the second way 't` | SECOND-PASS S14: Kannada ನಾನಾಶಬ್ದ ಮಾಡುವ. ಸ್ತುತಿಮಾಡುವವರಿಂದ ಕೂಡಿದುದು ... ಎರಡನೇ ರೀತಿಯಲ್ಲಿ ನಾನಾ ಶಬ್ದಮಾಡತಕ್ಕದ್ದು |
+| 134 | `(Uṇ. Sū. 4-[117], as read)` → `(Uṇ. Sū. 4-557)` | SECOND-PASS S1: Kannada prints (ಉ. ಸೂ. ೪-೫೫೭) |
+| 134 | `, Pā. Sū. 6-4-11]` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಅಪ್‌ತೃನ್‌ತೃಚ್—ಸೂತ್ರದಿಂದ); stray bracket also goes |
+| 137 | `anvapathāḥ` → `antaspathāḥ` | SECOND-PASS S7: Kannada quotation ಅಂತಸ್ಪಥಾ ಅನುಪಥಾಃ (and prose ಅನ್ತಸ್ಪಥಾಃ, ಅನುಪಥಾಃ); letters copied: antaspathāḥ |
+| 137 | `duṣprāḥ lakṣyante | duṣprāṇāṃ dhārayitāram` → `duṣṭāḥ lakṣyante | duṣṭānāṃ dhārayitāram` | SECOND-PASS S7: Kannada ಅತ್ರ ದುಃಶಬ್ದೇನ ದುಷ್ಟಾಃ ಲಕ್ಷ್ಯಂತೇ । ದುಷ್ಟಾನಾಂ ಧಾರಯಿತಾರಮ್ and prose ದುಷ್ಟರು; letters pra→ṭā changed |
+| 137 | `the meaning 'hard to hold' is to be taken. One who keeps [himself] in readiness to hold th` → `the meaning 'wicked' is to be taken. One who keeps the wicked under control is *dudhra*` | SECOND-PASS S14: Kannada ದುಃ ಎಂಬ ಶಬ್ದದಿಂದ ದುಷ್ಟರು ... ದುಷ್ಟರನ್ನು ಹತೋಟಿಯಲ್ಲಿ ಇರಿಸಿರುವವನು ದುಧ್ರನೆನಿಸಿರುವನು |
+| 138 | ` (Pā. Sū. 7-3-103)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಬಹುವಚನೇ ಝಲ್ಯೇತ್ ಎಂಬುದರಿಂದ) |
+| 138 | ` (Pā. Sū. 7-3-54, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಹೋಹಂತೇರ್ಣಿಣ್ಣೇಷು) |
+| 138 | `(Pā. Sū. 5-2-[109], as read)` → `(Pā. Sū. 5-2-112-2)` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೫-೨-೧೧೨-೨) |
+| 139 | `(Pā. Sū. 5-2-[109], as read)` → `(Pā. Sū. 5-2-112-2)` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೫-೨-೧೧೨-೨) at the same place on p. 138-139 |
+| 139 | `(Vārttika on Pā. Sū. 3-2-5, as read)` → `(Pā. Sū. 3-2-5-2)` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೩-೨-೫-೨) |
+| 139 | ` (Pā. Sū. 8-2-4, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಉದಾತ್ತಸ್ವರಿತಯೋರ್ಯಣಃ ಸ್ವರಿತೋನುದಾತ್ತಸ್ಯ) |
+| 139 | `*duṣprāḥ* ('the hard to hold'); "he who holds the hard-to-hold"` → `*duṣṭāḥ* ('the wicked'); "he who holds the wicked"` | SECOND-PASS S14: Kannada ದುಷ್ಟರು ಎಂದು ... ದುಷ್ಟಾನ್ ಧಾರಯತಿ ದುಧ್ರಃ |
+| 139 | `*dhṛdhra* [as printed]` → `*dadhra* [as printed]` | SECOND-PASS S7: Kannada prints ದಧ್ರಂ ಕುರ್ವಂತಿ ಇತಿ ದಧ್ರಕೃತಃ; the English gave a form the Kannada does not have |
+| 141 | `ātes tadvantam` → `ātas tadvantam` | SECOND-PASS S7: Kannada ಆತಸ್ತದ್ವಂತಂ (ātas tadvantam); also bhāṣya reads atas tadvantam |
+| 142 | ` (Pā. Sū. 5-2-115, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಆತ ಇನಿರನ್ ಎಂಬುದರಿಂದ) |
+| 142 | ` (Pā. Sū. 6-1-34, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಬಹುಲಂ ಛಂದಸಿ ಎಂಬುದರಿಂದ ಸಂಪ್ರಸಾರಣ) |
+| 142 | `, Pā. Sū. 7-3-80]` → `]` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಪ್ವಾದೀನಾಂ ಹ್ರಸ್ವಃ) |
+| 143 | ` (Pā. Sū. 4-2-37, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ತಸ್ಯ ಸಮೂಹಃ ಎಂಬುದರಿಂದ) |
+| 143 | ` (Pā. Sū. 7-2-117)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ತದ್ಧಿತೇಷ್ವಚಾಮಾದೇಃ) |
+| 143 | ` (Pā. Sū. 6-4-77, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಅಚಿಶ್ನು ಧಾತುಭ್ರುವಾಂ ಸೂತ್ರದಿಂದ) |
+| 144 | `worthy of being asked for` → `to be done (required)` | SECOND-PASS S14: Kannada pratipadārtha ಅಪೃಚ್ಛ್ಯಂ—ಕರ್ತವ್ಯವಾದ; the English bhāvārtha also has "required" |
+| 145 | `in the sense of 'carefully' (Ni. 3-9, as printed)` → `in the sense of 'quickly' (Ni. 3-9, as printed)` | SECOND-PASS S14: Kannada ಜಾಗ್ರತೆಯಾಗಿ ... ಇಪ್ಪತ್ತಾರು ಕ್ಷಿಪ್ರ ಪದಗಳ ಮಧ್ಯದಲ್ಲಿ: the word is listed among the kṣipra (quick) words, so the sense is quickly |
+| 145 | `excellent position, carefully` → `excellent position, quickly` | SECOND-PASS S14: as above: ಜಾಗ್ರತೆಯಾಗಿ ಹೊಂದುವನು, with nu = kṣipra |
+| 145 | `being born, surpasses all other men, even those like himself, and obtains` → `surpasses all other men who have been born, those other than himself, and obtains` | SECOND-PASS S16: Kannada ಜನ್ಮವನ್ನು ಹೊಂದಿರುವ, ತನಗಿಂತಲೂ ಬೇರೆಯಾಗಿ ಇರುವ ಇತರ ಮನುಷ್ಯರೆಲ್ಲರನ್ನೂ ಮೀರಿ ... ("even those like himself" not in Kannada) |
+| 145 | `āprastavyāṃ prajñām` → `āpraśnārhāṃ ca prajñām` | SECOND-PASS S7: Kannada ಸರ್ವಾರ್ಥೇಷು ಸರ್ವಮನುಷ್ಯೈರಾಪ್ರಶ್ನಾರ್ಹಾಂ ಚ ಪ್ರಜ್ಞಾಂ; gloss ಪ್ರಶ್ನೆಯನ್ನು ಮಾಡಿ ತಿಳಿಯದೆ ಇರುವಂತೆ; letters copied from the Kannada |
+| 145 | ` (Pā. Sū. 7-1-34, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಆತ ಔ ಣಲಃ ಎಂಬುದರಿಂದ) |
+| 145 | ` (Pā. Sū. 8-2-5, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಏಕಾದೇಶ ಉದಾತ್ತೇನೋದಾತ್ತಃ) |
+| 146 | `(Pā. Sū. 6-1-184)` → `(Pā. Sū. 6-1-174)` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೬-೧-೧೭೪) |
+| 146 | ` (Pā. Sū. 6-1-16)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಗ್ರಹಿಜ್ಯಾವಯಿವ್ಯಧಿ ಸೂತ್ರದಿಂದ) |
+| 149 | `dhīyeti` → `dhiṣīyeti` | SECOND-PASS S7: Kannada ಧಿಷೀಯೇತಿ; letter ṣ dropped in English |
+| 149 | `sadbhyo balaṃ` → `sadyo balaṃ` | SECOND-PASS S7: Kannada ತತೋ ಧನವದ್ಭ್ಯಃ ಸದ್ಯೋ ಬಲಂ; letters copied from the Kannada |
+| 149 | `prints 93-2` → `prints 93-7` | SECOND-PASS S1: Kannada bhāṣya prints ಪರಿ. ೯೩-೭ |
+| 150 | ` (Pā. Sū. 6-4-112, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ಶ್ನಾಭ್ಯಸ್ತಯೋರಾತಃ) |
+| 150 | ` (Pā. Sū. 3-4-99, as read)` → `` | SECOND-PASS S2: Kannada prints the sūtra name without a number; number not in the supplied text (ನಿತ್ಯಂ ಜಿತಃ) |
+
+### 2026-11-24 second pass, batch e122-151_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 125 | `mṛgya itihāsikāḥ` → `mṛgya aitihāsikāḥ` | SECOND-PASS S7: Kannada ಮೃಗ್ಯ ಇತಿ ಐತಿಹಾಸಿಕಾಃ (aitihāsikāḥ) |
+| 125 | `śvetair bindubhir aṅkitā` → `śveta bindvaṅkitā` | SECOND-PASS S7: Kannada ಶ್ವೇತ ಬಿಂದ್ವಂಕಿತಾ; letters copied from the Kannada |
+| 125 | `avinaṣṭadīptayaḥ` → `avinaṣṭā dīptir etebhyaḥ` | SECOND-PASS S17: Kannada ಅವಿನಷ್ಟಾ ದೀಪ್ತಿರೇತೇಭ್ಯಃ । ದೀಪ್ತಿಮಂತಃ |
+| 125 | `udakaṃ meghāt saṃsrāvayantaḥ` → `udakaṃ meghāt saṃkṣārayantaḥ` | SECOND-PASS S7: Kannada ಉದಕಂ ಮೇಘಾತ್ ಸಂಕ್ಷಾರಯಂತಃ; a real word, so not a misprint; English had a different word |
+| 125 | `क्षपः जिन्वन्तः नानदति` → `क्षपः संजिन्वन्तः नानदति` | SECOND-PASS S7: Kannada ಕ್ಷಪಃ ಸಂಜಿನ್ವಂತಃ ನಾನದತಿ; letters sam added from the Kannada |
