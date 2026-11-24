@@ -2704,6 +2704,372 @@ Varuna prepared a path for the sun : he set free the waters of the rivers genera
 
 O Varuṇa, your वातः (*vātaḥ*), the wind, impelled by you in the atmosphere, is the आत्मा (*ātmā*) of all living beings, sustaining them in the form of the vital breath. It stirs (आ नवीनोत् (*ā navīnot*)) the रजः (*rajaḥ*), the water, on all sides; for rain is produced by the wind. भूर्णिः (*bhūrṇiḥ*) is the sustainer of the world; that wind, as an animal becomes possessed of food when fodder (यवसे (*yavase*)) is thrown to it, is likewise ससवान् (*sasavān*) (*sasaṃ* is a name for food; he becomes possessed of it); the meaning is that they give him also food in the form of oblations. Or else (यद्वा (*yadvā*)) he derives it from the root सनोतेः (*sanoteḥ*) with the affix *kvasu* … **NOTE**
 
+### Printed p. 67
+
+> रूपं ॥ ततः ससवान् संभक्तवान्वातो घासे सति पशुर्यथा भारवाही भवति तद्वज्जगतो भर्ता । हे वरुण मही महत्यौ बृहती परिवृढे इमे रोदसी द्यावापृथिव्यावंतर्मध्यॆ ! द्यावापृथिव्योर्मध्य इत्यर्थः ते तव विश्वा सर्वाणि धाम
+> धामानि स्थानानि तेजांसि वा प्रियाणि सर्वॆषां प्रीतिकराणि भवंति ॥
+
+##### Gist of the bhāṣya
+
+This block completes Sāyaṇa's comment on the previous Ṛk. The wind is said to be "ससवान् (*sasavān*)", from the noun सस (*sasa*), a name for food. He is endowed with food and so, like a beast once fodder is given, becomes the bearer of burdens, the sustainer of the world. Or else the word is derived from the root *sanoteḥ*. Varuṇa is then addressed: the great and wide heaven and earth lie on either side of him. In the middle between heaven and earth all his abodes, or radiances, become dear and delightful to everyone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Varuṇa) ते (*te*)—driven by you
+- वातः (*vātaḥ*)—the wind
+- आत्मा (*ātmā*)—is the life-breath of the whole world (that same wind)
+- रजः (*rajaḥ*)—the rain-water
+- आ नवीनोत् (*ā navīnot*)—pours down all around
+- यवसे पशुः न (*yavase paśuḥ na*)—as soon as grass is put down, as a beast becomes able to bear a burden
+- भूर्णिः (*bhūrṇiḥ*)—the wind, having received the oblation, to sustain the world
+- ससवान् (*sasavān*)—becomes all-powerful
+- वरुण (*varuṇa*)—O god Varuṇa
+- मही (*mahī*)—great
+- बृहती (*bṛhatī*)—exceedingly vast
+- इमे रोदसी (*ime rodasī*)—of these heaven and earth
+- अंतः (*aṃtaḥ*)—throughout the middle region
+- ते (*te*)—your
+- विश्वा (*viśvā*)—all
+- धाम (*dhāma*)—the radiances also
+- प्रियाणि (*priyāṇi*)—become pleasing to all
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, the wind, driven by you, is the life-breath of the whole world. That same wind pours the rain-water all around. As soon as grass is put down, a beast becomes able to bear a burden; likewise the wind, having received the oblation, becomes all-powerful to sustain the world. O god Varuṇa, throughout the middle region of this great and exceedingly vast heaven and earth, all your radiances also become pleasing to everyone.
+
+##### English translation
+Your spirit is the wind: he sends abroad the waters: he, the cherisher of the world, is the feeder on (sacrificial) food, like an animal upon fodder: all your glories, Varuna, manifested between the vast and spacious heaven and earth, give delight to all).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ स्पशो॒ वरु॑णस्य॒ स्मदि॑ष्टा उ॒भे प॑श्यंति॒ रोद॑सी सु॒मेके॑ ।  
+> ऋ॒तावा॑नः क॒वयो॑ य॒ज्ञधी॑राः॒ प्रचे॑तसो॒ य इ॒षयं॑त॒  ॑
+> मन्म ॥ ३ ॥
+
+### Printed p. 69
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । स्पशः । वरुणस्य । स्मत् इष्टाः । उभे इति । पश्यंति । रोदसी इति । सुमेके  
+> इति सुमेके ।  
+> ऋत्यवानः । कवयः । यज्ञधीराः ! प्रचेतसः । ये । इषयंत । मन्म ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्पशंति स्पृशंतीति स्पशश्चराः । वरुणस्य देवस्य स्पशश्चराः स्मदिष्टाः । स्मदित्येतत्
+> प्रशस्यार्थे सहार्थे च वर्तते। प्रशस्तगतयः। यद्वा। सह प्रेषिताः संतः । सुमेके
+> शोभनमेहने सुरूपे वोभे रोदसी द्यावापृथिव्यौ परि पश्यंति । परित ईक्षंते ।
+> उभयोर्लोकयोर्वर्तमानान्पुण्यापुण्यकारिणो जनान्पश्यंतीत्यर्थः । यस्मादेवं तस्मात्तद्भित्या ऋतावानः कर्मवंतो यज्ञधीरा यज्ञेषु कृतबुद्धयः
+> प्रचेतसः प्राज्ञाः कवयः क्रांतदर्शिनो ये जना मन्म मन्मानि स्तोत्राणीषयंत
+> गमयंति वरुणं प्रापयंति । तानपि परि पश्यंतीत्यर्थः । अतोऽस्मानपि स्तोत्थान्ज्ञात्वा पापान्मुंचंतित्यृषिराशास्ते ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa's "स्पशः (*spaśaḥ*)" are his spies, those who touch or go about. They are "स्मदिष्टाः (*smadiṣṭāḥ*)": "smat" is used in the sense of "excellent" and of "together", so they have excellent movement, or else they are sent forth together. The two beautiful (sumeke) worlds, heaven and earth, they survey on all sides; that is, they see the people of both worlds who do good and evil. Since this is so, out of fear of him those who are devoted to rites, intent on sacrifice, wise, and far-seeing poets, who send up their hymns to Varuṇa, are also watched over by the spies. The seer therefore hopes that Varuṇa, knowing us too as worshippers, will release us from sins.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणस्य (*varuṇasya*)—of the god Varuṇa
+- स्पशः (*spaśaḥ*)—the spies
+- स्मदिष्टाः (*smadiṣṭāḥ*)—having excellent movements
+- सुमेके (*sumeke*)—of excellent form
+- उभे रोदसी परि (*ubhe rodasī pari*)—around the two worlds, heaven and earth
+- पश्यंति (*paśyaṃti*)—they observe closely (and likewise)
+- ऋतावानः (*ṛtāvānaḥ*)—those who are devoted to rites
+- यज्ञधीराः (*yajñadhīrāḥ*)—those whose minds are intent on sacrifice
+- प्रचेतसः (*pracetasaḥ*)—the wise
+- कवयः (*kavayaḥ*)—the far-seeing
+- ये (*ye*)—those worshippers who
+- मन्म (*manma*)—their acts of praise
+- इषयंत (*iṣayaṃta*)—present (to Varuṇa)
+
+##### भावार्थ (Bhāvārtha)
+
+The spies of the god Varuṇa, of excellent movement, observe closely all around the two worlds, heaven and earth, which are of excellent form. Likewise those worshippers who are devoted to rites, whose minds are intent on sacrifice, who are wise and far-seeing, present their acts of praise also to Varuṇa.
+
+##### English translation
+The excellent spies of Varuna behold the beautiful heaven and earth, as well as those (men) who, the celebrators of rites, constant in sacrifice, wise and intelligent, address (to him their) praise.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒वाच॑ मे॒ वरु॑णो॒ मेधि॑राय॒ त्रिः स॒प्त नामाघ्न्या॑  
+> बिभिर्ति ।  
+> वि॒द्वान्प॒दस्य॒ गुह्या॒ न वो॑चद्यु॒गाय॒ विप्र॒ उप॑राय॒ शिक्ष॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उवाच । मे । वरुणः । मेधिराय । त्रिः । सप्त । नाम । अघ्न्या । बिभर्ति ।  
+> विद्वान् । पदस्य । गुह्या । न । वोचत् । युगाय । विप्रः । उपराय । शिक्षन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मेधिराय मेधाविने मे मह्यं वरुण उवाच । उक्तवान् । किमुक्तवान्
+> तदाह । त्रिः सप्तैकविंशतिसंख्याकानि नामान्यघ्ना गौर्बिभर्ति । धारयतीति । वागत्र
+> गौरुच्यते । सा चोरसि कंठे शिरसि च बद्धानि गायत्रादीनि सप्त च्छंदसां नामानि
+> बिभर्ति । यद्वा । वेदात्मिका वागेकविंशतिसंस्थानां यज्ञानां नामानि बिभर्ति ।
+> धारयति । अपर आह । गौः पृथीवी । तस्याश्च गौर्ग्मा ज्ञेति पठितान्येकविंशति नामानीति । अपि च विद्वाञ्ज्ञानन्विप्रो मेधावी स वरुणो युगाय युक्तायोपरायोप समीपे रममाणायांतेवासिने मह्यं शिक्षन्नुपदिशनृदस्योत्कृष्टस्य स्थानस्य
+> ब्रह्मलोकलक्षणस्य संबंधीनि गुह्या गुह्यानि रहस्यान्युपदेशे गम्यानि। नशब्दश्चार्थे।
+> इमानि च वोचत् । उक्तवान् । अतोऽहं वरुणस्य शिष्योऽस्मि । तस्मात्स वरुणोऽस्मान्पापानोचयत्वत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa spoke to me, the intelligent one. What did he say? The cow ("अघ्न्या (*aghnyā*)") bears twenty-one names. Here "cow" is speech. Speech, fixed in the chest, throat and head, bears the names of the seven metres beginning with Gāyatrī. Or else speech in the form of the Veda bears the names of the sacrifices of twenty-one kinds. Another says the cow is the earth, and twenty-one names of the earth, beginning with *gaurgmā jñā*, are recited. Moreover the wise and intelligent Varuṇa, instructing me, the fit disciple who lives near him, declared the secrets of the highest station, the world of Brahmā, secrets to be grasped through instruction. The word "na" has the sense of "and". Therefore I am Varuṇa's disciple; may Varuṇa free us from sins.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अफ्ना (*aphnā*)—the principle of the nature of speech
+- त्रिः सप्त नाम (*triḥ sapta nāma*)—twenty-one varieties
+- बिभर्ति (*bibharti*)—bears, thus
+- वरुणः (*varuṇaḥ*)—the god Varuṇa
+- मेधिराय (*medhirāya*)—to the intelligent
+- मे (*me*)—
+
+### Printed p. 70
+
+me
+- उवाच (*uvāca*)—taught
+- विद्वान् (*vidvān*)—the all-knowing
+- विप्रः (*vipraḥ*)—and intelligent Varuṇa
+- युगाय (*yugāya*)—to me, capable in yoga
+- उपराय (*uparāya*)—and serving as a disciple close to him
+- शिक्षन् (*śikṣan*)—instructing
+- पदस्य (*padasya*)—of the highest world of Brahmā
+- गुह्या न (*guhyā na*)—the secrets also
+- वोचत् (*vocat*)—explained and made known
+
+##### भावार्थ (Bhāvārtha)
+
+The god Varuṇa taught me, the intelligent one, that the principle of the nature of speech bears, in the three places of chest, throat and head, twenty-one varieties, namely the seven metres beginning with Gāyatrī. The all-knowing and intelligent Varuṇa, instructing me, who am joined to yoga, who serve as a disciple close to him and am worthy, explained and made known the secrets also of the highest world of Brahmā.
+
+##### English translation
+Varuna thus spoke to me, possessed of understanding: the cow (speech) has thrice seven appellations: the wise and intelligent Varuna, giving instruction to me, his worthy disciple, has declared the mysteries of the place (of Brahma).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒स्रो द्यावो॒ निहि॑ता अं॒तर॑स्मिन्ति॒स्रो भूमि॒रुप॑राः॒ षड्वि॑धानाः ।  
+> गृत्सो॒ राजा॒ वरु॑णश्चक्र ए॒तं दि॒वि प्रें॒खं हि॑र॒ण्ययं॑ शु॒भे  
+> कं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिस्रः । द्यावः । निहिताः । अंतः । अस्मिन् । तिस्रः । भूमिः । उपराः । षट् ऽविधानाः ।  
+> गृत्सः । राजा । वरुणः । चक्रे । एतं । दिवि । प्रईंखं । हिरण्ययं । शुभे । कं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तिस्रस्त्रिप्रकारा उत्तममध्यमाधमभावेन त्रिविधा द्यावो द्युलोका अस्मिन्वरुणेऽंतर्मध्यॆ निहिताः । तिस्रः पूववस्त्रिविधा भूमीर्भूम्यश्च षड्विधानाः । विधानं
+
+##### Gist of the bhāṣya
+
+The three heavens, of the threefold kind (highest, middle and lowest), are placed within this Varuṇa, in his midst. The three earths likewise, of the same threefold kind, are "षड्विधानाः (*ṣaḍvidhānāḥ*)": विधानं (*vidhānaṃ*) is विधा (*vidhā*)
+
+### Printed p. 72
+
+> विधा । वसंताद्यतुभेदेन षड्विधाः प्रकारा यासु तादृश्यः । उपरा अस्मिन्नेव वरुण
+> उप्ता अंतर्भूताः । लोकानां त्रित्वं च त्रयो ना इमे त्रिवृतो लोका इत्यादिना ब्राह्मणेनावगम्यते । तिस्रो भूमीर्धारयन् । ऋ. २-२७-८ । इति निगमश्च
+> भवति । इमा लोकावावृत्य वरुणस्तिष्ठतीत्यर्थः । अपि च गृत्सः स्तुत्यो राजेश्वरः स
+> वरुणो दिव्यंतरिक्षॆ हिरण्मयं हिरण्मयं सुवर्णमयं हितरमणीयं वा प्रेंखं
+> दोलावद्दिग्वयसंस्पर्शिनमेतं सूर्यं शुभे कं दीप्त्यर्थं चक्रे । कृतवान् ।
+> दिवि सूर्यमदधात्तोममद्रौ । ऋ. ५-८५-२ । इति हि श्रूयते ॥
+
+##### Gist of the bhāṣya
+
+The earths have six kinds according to the seasons, spring and the rest. They are "उपराः (*uparāḥ*)", sown (upta) in this very Varuṇa, contained in him. That the worlds are three is known from a Brāhmaṇa passage beginning त्रयो ना इमे त्रिवृतो लोका (*trayo nā ime trivṛto lokā*). There is also a Nigama passage, तिस्रो भूमीर्धारयन् (*tisro bhūmīrdhārayan*) (Ṛ. 2-27-8). The sense is that Varuṇa stands encompassing these worlds. Moreover Varuṇa, the praised king and lord, has made in the sky this sun, golden or delightful to the beloved, touching the directions like a swing, for brightness. For it is heard in the Ṛk दिवि सूर्यमदधात्तोममद्रौ (*divi sūryamadadhāttomamadrau*) (Ṛ. 5-85-2).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तिस्रः (*tisraḥ*)—having three kinds: highest, middle and lowest
+- द्यावः (*dyāvaḥ*)—the heavens
+- अस्मिन् (*asmin*)—of this same Varuṇa
+- अंतः (*aṃtaḥ*)—in the inner region
+- निहिताः (*nihitāḥ*)—are established
+- तिस्रः (*tisraḥ*)—having three varieties of this same kind
+- भूमीः (*bhūmīḥ*)—the earths also
+- षड्विधानाः (*ṣaḍvidhānāḥ*)—together with the six seasons beginning with spring
+- उपराः (*uparāḥ*)—are contained in this very Varuṇa
+- गृतस्यः (*gṛtasyaḥ*)—the praised
+- राजा (*rājā*)—and lordly
+- वरुणः (*varuṇaḥ*)—god Varuṇa
+- हिरण्ययं (*hiraṇyayaṃ*)—golden
+- प्रेंखं (*preṃkhaṃ*)—swinging to both directions like a swing
+- एतं (*etaṃ*)—this sun
+- शुभे कं (*śubhe kaṃ*)—to spread brightness
+- दिवि (*divi*)—in the sky
+- चक्रे (*cakre*)—has established
+
+##### भावार्थ (Bhāvārtha)
+
+The heavens, of the three kinds highest, middle and lowest, are established in the inner region of this same Varuṇa. In the same way the earths, of three varieties, are contained in this Varuṇa together with the six seasons beginning with spring. The praised and lordly god Varuṇa has established in the sky, to spread brightness, this sun, which is golden and swings to both directions like a swing.
+
+##### English translation
+In him are deposited the three heavens, the three earths with their six seasons are sown in him : the most adorable, royal Varuna has made this golden sun undulating in the sky, he has made it to diffuse light.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ सिंधुं॒ वरु॑णो॒ द्यौरि॑व स्थाद्द्र॒प्पो न श्वे॒तो मृ॒गस्तुवि॑ष्मान् ।  
+> 72 सायणभाव्यसहिता [ मं. ७. अ. ५. सू. ८७.  
+> गं॒धी॒रशं॑सो॒ रज॑सो वि॒मानः॑ सुपा॒रक्ष॑त्रः स॒तो अ॒स्य राजा॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । सिंधुं । वरुणः । द्यौः इव । स्थात् । द्रप्सः । न । श्वेतः । मृगः । तुविष्मान् ।  
+> गंभीरशंसः । रजसः । विमानः । सुपार्क्षत्रः । सतः । अस्य । राजा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वारुणे पशावव सिंधुमिति वपाया अनुवाक्या । सूत्रितं च । अव सिंधुं
+> वरुणो दौरिव स्थादयं सु तुभ्यं वरुण स्वधावः । आ. ३-७ । इति ॥
+> दौरिव सूर्य इव दीपो वरुणः सिंधुं समुद्रमव स्थात् । वेलायामवस्थापयति । यथा वेलां नातिक्रामति तथा करोतीत्यर्थः । कीदृशो वरुणः ।
+> द्रप्पो न द्रवणशील उदबिंदुरिव श्वेतः शुभ्रवर्णो मृगः । लुप्तोपममेतत् ।
+> गौरमृग इव तुविष्टान् बलवान् प्रवृद्दो वा गंभीरशंसः । गंभीरो महाइंभंसः स्तोत्रं यस्य स तथोक्तः । रजस उदकस्य विमानो निर्माता सुपारक्षत्रः
+> सुष्टु दुःखात्पारकं क्षत्रं बलं धनं वा यस्य तादृशो वरुणः सतो विद्यमानस्यास्य जगतो राजेश्वरो भवति ॥
+
+##### Gist of the bhāṣya
+
+Use: in the animal offering to Varuṇa, this Ṛk is the anuvākyā for the vapā offering; the sūtra says: अव सिंधुं वरुणो द्यौरिव स्थाद्द्रप्पो न श्वेतो मृगस्तुविष्मान् । 72 सायणभाव्यसहिता [ मं. ७. अ. ५. सू. ८७. गंधीरशंसो रजसो विमानः सुपारक्षत्रः सतो अस्य राजा॥ अव । सिंधुं । वरुणः । द्यौः इव । स्थात् । द्रप्सः । न । श्वेतः । मृगः । तुविष्मान् । गंभीरशंसः । रजसः । विमानः । सुपार्क्षत्रः । सतः । अस्य । राजा ॥ ६ ॥ वारुणे पशावव सिंधुमिति वपाया अनुवाक्या । सूत्रितं च । अव सिंधुं वरुणो दौरिव स्थादयं सु तुभ्यं वरुण स्वधावः । (*ava siṃdhuṃ varuṇo dyauriva sthāddrappo na śveto mṛgastuviṣmān | 72 sāyaṇabhāvyasahitā [ maṃ. 7. a. 5. sū. 87. gaṃdhīraśaṃso rajaso vimānaḥ supārakṣatraḥ sato asya rājā‖ ava | siṃdhuṃ | varuṇaḥ | dyauḥ iva | sthāt | drapsaḥ | na | śvetaḥ | mṛgaḥ | tuviṣmān | gaṃbhīraśaṃsaḥ | rajasaḥ | vimānaḥ | supārkṣatraḥ | sataḥ | asya | rājā ‖ 6 ‖ vāruṇe paśāvava siṃdhumiti vapāyā anuvākyā | sūtritaṃ ca | ava siṃdhuṃ varuṇo dauriva sthādayaṃ su tubhyaṃ varuṇa svadhāvaḥ |*) (Ā. 3-7). Meaning: Varuṇa, bright like the sun ("dyau"), has made the ocean stand in its bounds; he so acts that it does not cross its shore. What is Varuṇa like? He is white-coloured like a flowing drop of water ("drapsa"), and like a gaura deer he is strong ("तुविष्मान् (*tuviṣmān*)") or grown great. He is "गंभीरशंसः (*gaṃbhīraśaṃsaḥ*)", one whose praise is deep and great; the maker of water; "सुपारक्षत्रः (*supārakṣatraḥ*)", one whose strength or wealth carries well across sorrow. Such Varuṇa is the king and lord of this existing world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रप्पो न (*drappo na*)—like a drop of water
+- श्वेतः (*śvetaḥ*)—white-coloured
+- मृगः (*mṛgaḥ*)—like the gaura deer
+- तुविष्मान् (*tuviṣmān*)—of great strength
+- गंभीरशंसः (*gaṃbhīraśaṃsaḥ*)—worthy of great praise
+- रजसः (*rajasaḥ*)—of water
+- विमानः (*vimānaḥ*)—the maker
+- सुपारक्षत्रः (*supārakṣatraḥ*)—of the strength to carry across sorrow
+- सतः (*sataḥ*)—of the nature of being
+- अस्य (*asya*)—of this whole world
+- राजा (*rājā*)—the lord
+- द्यौः इव (*dyauḥ iva*)—and bright like the sun
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- सिंधुं (*siṃdhuṃ*)—the ocean
+- अव स्थात् (*ava sthāt*)—has restrained and established so that it does not cross its shore
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa is white-coloured like a drop of water, of great strength like the gaura deer, worthy of great praise, the maker of water, possessed of the strength to carry across sorrow, the lord of this whole world, which is of the nature of being, and bright like the sun. He has restrained and established the ocean so that it does not cross its shore.
+
+### Printed p. 73
+
+##### English translation
+(Radiant) as the sun, Varuna placed the ocean (in its bed), white as a drop (of water), vigorous as an antelope, objects of profound praise, distributor of water, the powerful transporter beyond sin, the ruler of this existing (world).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal offering made to Varuṇa, this Ṛk, अव सिंधुं (*ava siṃdhuṃ*), is to be recited as the anuvākyā mantra in the vapā offering. This is set out by the sūtra of the Āśvalāyana Śrautasūtra, अव सिंधुं वरुणो द्यौरिव स्थादयं सु तुभ्यं वरुण स्वधावः (*ava siṃdhuṃ varuṇo dyauriva sthādayaṃ su tubhyaṃ varuṇa svadhāvaḥ*) (Ā. 3-7).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो मृ॒ळया॑ति च॒क्रुषे॑ चि॒दागो॑ व॒यं स्या॑म॒ वरु॑णे॒  ॑
+> अनागाः ।  
+> अनु॑ व्र॒तान्यदि॑तेर्॒ऋधंतो॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मृळयाति । चक्रुषे चित् । आगः । वयं । स्याम । वरुणे । अनागाः ।  
+> अनु । व्रतानि । अदितेः । ऋधंतः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आगोऽपराधं चक्रुषे चित्यतवतेऽपि स्तोत्रे यो वरुणो मृळयाति
+> उदयां करोति तस्मिन्वरुणेऽनागा अनागसोऽनपराधाः संतो वयं स्याम ।
+> वर्तमाना भवेम । किं कुर्वंतः । अदितेरदीनस्य वरुणस्य संबंधीनि व्रतानि कर्माण्यन्वानुपूर्व्यणर्धंतः समर्धयंतः । हे वरुणादयो देवाः यूयमस्मान्सर्वदा कल्याणैः पालयत ॥
+
+##### Gist of the bhāṣya
+
+The Varuṇa who shows mercy even to a worshipper who has committed an offence, may we be blameless towards that Varuṇa. Doing what? Making the rites ("व्रतानि (*vratāni*)") of Aditi's, that is the undiminished, Varuṇa grow in due order. O Varuṇa and the other gods, may you always protect us with blessings.
+
+### Printed p. 74
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आगः (*āgaḥ*)—an offence
+- चक्रुषे चित् (*cakruṣe cit*)—even towards the man who has committed
+- यः (*yaḥ*)—the Varuṇa who
+- मृळयति (*mṛḷayati*)—shows mercy and makes him happy
+- वरुणे (*varuṇe*)—in regard to such a Varuṇa
+- अदितेः (*aditeḥ*)—of that same Varuṇa, son of Aditi
+- व्रतानि (*vratāni*)—the rites of worship
+- अनु (*anu*)—in due order
+- ऋधंतः (*ṛdhaṃtaḥ*)—increasing (performing in greater measure)
+- वयं (*vayaṃ*)—we
+- अनागाः (*anāgāḥ*)—free from sin
+- स्याम (*syāma*)—let us be (O Varuṇa and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+Even towards the man who has committed an offence, Varuṇa shows mercy and makes him happy. In regard to such a Varuṇa, may we be free from sin and keep increasing in due order the rites of worship of that same Varuṇa, son of Aditi. O Varuṇa and the other gods, always protect us with blessings.
+
+##### English translation
+May we be free from sin against that Varuna, who has compassion upon him who commits offence, we who are duly observing the rites of the son of Aditi: and do you, (gods), ever cherish us with blessings.
+
+## Sūkta 88 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र शुंध्युवमिति सप्तर्चमष्टादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं नारुणं ।
+> प्र शुंध्युवमित्यनुक्रांतं ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र शुंध्युवं (*pra śuṃdhyuvaṃ*) has seven Ṛks. Its seer is Vasiṣṭha, its deity Varuṇa and its metre Triṣṭubh. The Anukramaṇī says प्र शुंध्युवं (*pra śuṃdhyuvaṃ*). The use (viniyoga) has already been stated.
+
+Anuvāda: this sūkta, प्र शुंध्युवं (*pra śuṃdhyuvaṃ*), is the eighteenth sūkta in the fifth anuvāka. It has seven Ṛks. Vasiṣṭha is its seer, Varuṇa its deity, and its metre is Triṣṭubh. In the Anukramaṇī it is stated as प्र शुंध्युवं (*pra śuṃdhyuvaṃ*). The use was stated earlier.
+
+### Printed p. 75
+
+Sūkta 88. Maṇḍala 7. Anuvāka 5. Sūkta 88. Aṣṭaka 5. Adhyāya 6. Varga 10. Number of Ṛks in the sūkta: 7. Seer: Vasiṣṭha. Deity: Varuṇa. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र शुं॒ध्युवं॒ वरु॑णाय॒ प्रेष्ठां॑ म॒तिं व॑सिष्ठ मा॒ळ्हुषे॑  
+> भरस्व ।  
+> य ई॑म॒र्वांचं॒ कर॑ते॒ यज॑त्रं स॒हस्रा॑मघं॒ वृष॑णं  ॒॑
+> बृहंतं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । शुंध्युवं । वरुणाय । प्रेष्ठां । मतिं । वसिष्ठ । माळ्हुषे । भरस्व ।  
+> यः । ईं । अर्वांचं । करते । यजत्रं । सहस्रमघं । वृषणं । बृहंतं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरात्मानमेव प्रत्यक्षीकृत्य स्तुता नियुंक्ते । हे वसिष्ठ त्वं मीळ्हुषे
+> सेक्त्रे वरुणाय शुंध्युवं शोधयित्रीं यद्वा स्वत एव शुद्धां प्रेष्ठां प्रियतमां मतिं मननीयामीदृशीं स्तुतिं प्र भरस्व । प्रहर । प्रापय । यो वरुण
+> ईमेनं सूर्यमर्वांचमस्मदभिमुखं करते अंतरिक्षे करोति तस्मै वरुणायेत्यन्वयः । कीदृशं सूर्यं । यजत्रं यष्टव्यं सहस्रामघं बहुधनं वृषणं
+> कामानां वर्षकं बृहंतं महांतं !
+
+##### Gist of the bhāṣya
+
+The seer, making himself present, urges himself in praise. O Vasiṣṭha, bring forth to Varuṇa, the showerer ("मीळ्हुषे (*mīḷhuṣe*)"), a hymn ("mati"), worthy of thought, that is purifying (śundhyu), or else pure of itself, and most dear. The construction is: to that Varuṇa who ("ईं (*īṃ*)") makes this sun face towards us, places it in the sky. What kind of sun? Worthy to be worshipped ("yajatra"), of a thousand-fold wealth, showerer of desires, great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसिष्ठ (*vasiṣṭha*)—O seer Vasiṣṭha
+- यजत्रं (*yajatraṃ*)—worthy of worship
+- सहस्रामघं (*sahasrāmaghaṃ*)—possessed of exceedingly great wealth
+- वृषणं (*vṛṣaṇaṃ*)—the showerer of rain
+- बृहंतं (*bṛhaṃtaṃ*)—of great nature
+- ईं (*īṃ*)—
+
 ---
 
-**Progress note:** Done through printed p. 65. pp. 59-65 (batch API)
+**Progress note:** Done through printed p. 75. pp. 67-75 (batch API)
