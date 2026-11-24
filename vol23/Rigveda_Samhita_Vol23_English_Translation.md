@@ -21382,6 +21382,279 @@ The Kanwas augment by praise this ancient rite intended (to obtain) an abundance
 
 > इंद्र॒मिद्विम॑हीनां॒ मेधे॑ वृणीत॒ मर्त्यः॑ ।
 
+### Printed p. 524
+#### Ṛk 44 (continued)
+
+#### Ṛk 44
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॑ सनि॒ष्युरू॒तये॑ ॥ ४४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । इत् । विमहीनां । मेधे । वृणीत । मर्त्यः ।  
+> इंद्रं । सनिष्युः । ऊतये ॥ ४४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विमहीनां विशेषेण महतां देवानां मध्य इंद्रमिदिंद्रमेव मेधे
+> यज्ञे मर्त्यो मनुष्यो होता वृणीत । स्तुतिभिः संभजते । तथा सनिष्युद्धनकामश्च स्तोतोतये रक्षणायेंद्रमेव वृणीते । स्तुत्या संभजते ॥
+
+##### Gist of the bhāṣya
+
+Among the gods who are exceedingly great, the mortal, the Hotṛ-priest, chooses Indra alone at the sacrifice; he wins him by praises. So too the worshipper who longs for wealth chooses Indra alone for protection, winning him by praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विमहीनां (*vimahīnāṃ*)—among the gods of exceeding greatness
+- इंद्रमित् (*iṃdramit*)—Indra alone
+- मेधे (*medhe*)—in the sacrifice
+- मर्त्यः (*martyaḥ*)—the man
+- वृणीत (*vṛṇīta*)—chooses, having praised
+- सनिष्युः (*saniṣyuḥ*)—the worshipper too, who desires wealth
+- ऊतये (*ūtaye*)—for protection
+- इंद्रं (*iṃdraṃ*)—Indra alone (he chooses)
+
+##### भावार्थ (Bhāvārtha)
+
+Among the gods of exceeding greatness, man chooses Indra alone, praising him at the sacrifice, for his own worship. The worshipper who desires wealth too chooses Indra alone for protection.
+
+##### English translation
+The mortal (adorer) selects at the sacrifice Indra from among the mighty (gods): he who is desirous of wealth (worships) Indra for protection.
+
+#### Ṛk 45
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वांचं॑ त्वा पुरुष्टुत प्रि॒यमे॑धस्तुता॒ हरी॑ ।  
+> सो॒म॒पेया॑य वक्षतः ॥ ४५ ॥
+
+### Printed p. 525
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वांचं । त्वा । पुरुस्तुत । प्रियमेधस्तुता । हरी इति ।  
+> सोमपेयाय । वक्षतः ॥ ४५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुष्टुत बहुभिः स्तुतेंद्र प्रियमेधस्तुता प्रियमेधैः प्रिययज्ञैर्ऋ
+> षिभिः स्तुता ॥ तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । सुपां सुलुगित्याकारः ॥
+> ईदृशौ हरी अश्वा सोमपेयाय सोमपानार्थं त्वामर्वांचमस्मदभिमुखं
+> वक्षॆतः । वहतां ॥
+
+##### Gist of the bhāṣya
+
+O Indra, praised by many: the two horses, praised by the Priyamedhas, the seers dear in sacrifice, are to bring you, facing us, for the drinking of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—O Indra, worthy of the invocation of many
+- प्रियमेधस्तुता (*priyamedhastutā*)—praised by the priests dear to you
+- हरी (*harī*)—your horses
+- त्वा (*tvā*)—you
+- सोमपेयाय (*somapeyāya*)—for the drinking of Soma
+- अर्वांचं (*arvāṃcaṃ*)—facing us
+- नक्षतः (*nakṣataḥ*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the invocation of many, may your horses, praised by the priests dear to you, bring you facing us for the drinking of Soma.
+
+##### English translation
+May your horses, praised by the pious priests, bring you, who are the praised of many, down to drink the Soma.
+
+#### Ṛk 46
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तम॒हं ति॒रिंदि॑रे स॒हस्रं॒ पर्शा॒वा द॑दे ।  
+> राधां॑सि॒ याद्वा॑नां ॥ ४६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । अहं । तिरिंदिते । सहस्रं । पर्शौ । आ । ददे ।
+
+### Printed p. 526
+
+> राधांसि । याद्वानां ॥ ४६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमादिकेन तृचेन तिरिंदिरस्य राज्यो दानं स्तूयते । पर्शौ परशुनाम्नः
+> पुत्रे ॥ उपचाराज्जन्ये जनकशब्दः ॥ तिरि. दिर एतत्संज्ञॆ राजनि याद्वानां । यदुरिति
+> मनुष्यनाम । यदव एव याद्वाः ॥ स्वार्थिकस्तद्धितः ॥ तेषां मध्येऽहं शतं शतसंख्याकानि सहस्रं सहस्रसंख्याकानि च राधांसि धनान्या ददे । स्वीकरोमि । यद्वा ।
+> याद्वानां यदुकुलजानामन्येषां राज्ञां स्वभूतानि राधांसि बलादपहृतानि
+> तिरिंदिरे वर्तमानान्यहं प्राप्नोमि ॥
+
+##### Gist of the bhāṣya
+
+With this triplet (beginning इदमादिकेन (*idamādikena*)) the gift of the king Tirindira is praised. पर्शौ (*parśau*) means in the son of Paraśu; the word for "father" is used figuratively for the son. याद्वानां (*yādvānāṃ*): Yadu is a name for man; Yādvas are Yadus themselves, the affix being redundant. Among them I accept hundreds and thousands of treasures. Or else: I obtain the treasures of other kings born in the line of Yadu, taken from them by force and lodged with Tirindira.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पर्शौ (*parśau*)—from the son of Paraśu
+- तिरिंदिरे (*tiriṃdire*)—from the king called Tirindira
+- याद्वानां (*yādvānāṃ*)—among all men
+- अहं (*ahaṃ*)—I alone
+- शतं (*śataṃ*)—those numbering a hundred
+- सहस्रं (*sahasraṃ*)—and numbering a thousand
+- राधांसि (*rādhāṃsi*)—treasures
+- आ ददे (*ā dade*)—I accept
+
+##### भावार्थ (Bhāvārtha)
+
+From the king who is the son of Paraśu and is called Tirindira, I alone among all men accept treasures numbering hundreds and thousands.
+
+##### English translation
+I have accepted from Tirindira, the son of Parsu, hundreds and thousands of the treasures of men.
+
+#### Ṛk 47
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रीणि॑ श॒तान्यर्व॑तां स॒हस्रा॒ दश॒ गोनां॑ ।  
+> द॒दुष्प॒ज्राय॒ सान्नि ॥ ४७ ॥॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रीणि । शतानि । अर्वतां । सहस्रा । दश । गोनां ।  
+> ददुः । पज्राय । साम्ने ॥ ४७ ॥
+
+### Printed p. 527
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वस्यामृचि स्वसंप्रदानकं दानमुक्तं । अधुनान्येभोऽप्यृषिभ्यस्तिरिंदिरो बहु दानं दत्तवानित्याह। अर्वतां गंत्यणामश्वानां त्रीणि शतानि गोनां
+> गवां दश दशगुणितानि सहस्रा सहस्राणि च पज्राय स्तुतीनां प्रार्जकाय साम्म
+> एतत्संज्ञायर्षये । यद्वा । सामे । साम स्तोत्रं । तद्वते । पज्राय पज्रकुलजाताय कक्षीवते ददुः । तिरिंदिराख्या राजानो दत्तवंतः ॥
+
+##### Gist of the bhāṣya
+
+In the previous Ṛk a gift to himself was told. Now he says that Tirindira gave much to other seers as well. Three hundred अर्वतां (*arvatāṃ*), horses; of गोनां (*gonāṃ*), cows, ten thousands (ten times a thousand): to पज्राय (*pajrāya*), the offerer of praises, to the seer named साम्ने (*sāmne*). Or else: साम (*sāma*) is a hymn of praise; to Pajra, born in the Pajra family, Kakṣīvat, who possesses it, the kings called Tirindira gave.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्वतां (*arvatāṃ*)—of horses
+- त्रीणि शतानि (*trīṇi śatāni*)—three hundred in number
+- गोनां (*gonāṃ*)—of cows
+- दश सहस्रा (*daśa sahasrā*)—ten thousands in number
+- पज्राय (*pajrāya*)—called Pajra
+- साम्मे (*sāmme*)—to the seer who is a praiser
+- ददुः (*daduḥ*)—the kings called Tirindira gave
+
+##### भावार्थ (Bhāvārtha)
+
+The kings called Tirindira gave to the seer Pajra, the praiser, three hundred horses and ten thousand cows.
+
+##### English translation
+(These princes) have given to the chaunter Pajra three hundred horses, ten thousand cattle.
+
+#### Ṛk 48
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदा॑नट्ककु॒हो दिव॒मुष्टा॑ञ्चतु॒र्युजो॒ दद॑त् ।  
+> श्रव॑सा॒ याद्वं॒ जनं॑ ॥ ४८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । आनट् । ककुहः । दिवं । उष्ट्रान् । चतुःऽयुजः । ददत् ।  
+> श्रवसा । याद्वं । जनं ॥ ४८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं राजा ककुह उच्छ्रतः सञ्छवसा कीर्त्या दिवं स्वर्गमुदानट् ।
+
+##### Gist of the bhāṣya
+
+This king, Kakuha, exalted, reached heaven by his fame (श्रवसा (*śravasā*))
+### Printed p. 528
+
+> उत्कृष्टतरं व्याप्नोत् । किं कुर्वन् । चतुर्युजश्चतुर्भिः स्वर्णभारैर्युक्तानुष्पान् ददत् प्रयच्छन् । तथा याद्वं जनं च दासत्वेन प्रयच्छन् ।
+
+##### Gist of the bhāṣya
+
+—reached it in a more excellent way. Doing what? Giving camels yoked with four loads of gold, and giving the Yādva people as servants.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चतुर्युजः (*caturyujaḥ*)—bearing four loads of gold
+- उष्ट्रान् (*uṣṭrān*)—camels
+- ददत् (*dadat*)—giving
+- याद्वं जनं (*yādvaṃ janaṃ*)—and making the people called Yādvas our servants (as a result)
+- तिरिंदिरः (*tiriṃdiraḥ*)—the king named Tirindira
+- ककुहः (*kakuhaḥ*)—having attained an exalted state
+- श्रवसा (*śravasā*)—endowed with fame
+- दिवं (*divaṃ*)—heaven
+- उदानट् (*udānaṭ*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+By giving camels bearing four loads of gold, and by making the people called Yādvas our servants, the king Tirindira, as a result, attained an exalted state, became famous, and obtained heaven.
+
+##### English translation
+The exalted (prince) has been raised by fame to heaven, for he has given camels laden with four (loads of gold), and Yadava people (as slaves).
+
+## Sūkta 7 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र यद्व इति षट्त्रिंशदृचं द्वितीयं सूक्तं कण्वगोत्रस्य पुनर्वत्सस्यार्षं
+> मारुतं गायत्रं । तथा चानुक्रांतं । प्र यद्वः षट्त्रिंशत्पुनर्वत्सो मारुतमिति ॥
+> व्यूळ्ळे दशरात्रे प्रथमे छंदोम अग्निमारुतशस्त्र इदं सूक्तं मारुतनिविद्धानं ।
+> सूत्रितं च । प्र यद्वस्त्रिष्टुभं दूतं व इत्याग्निमारुतं । आ. ८-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn प्र यद्व (*pra yadva*), of thirty-six Ṛks, is the second hymn; seer Punarvatsa of the Kaṇva line; deity the Maruts; metre Gāyatrī. So the Anukramaṇī: प्र यद्वः षट्त्रिंशत्पुनर्वत्सो मारुतमिति (*pra yadvaḥ ṣaṭtriṃśatpunarvatso mārutamiti*). In the Vyūḍha Daśarātra, at the first Chandoma, in the Agnimāruta-śastra, this hymn serves as the Maruts' Nividdhāna. It is prescribed in the Sūtra: प्र यद्वस्त्रिष्टुभं दूतं व इत्याग्निमारुतं (*pra yadvastriṣṭubhaṃ dūtaṃ va ityāgnimārutaṃ*) (Ā. 8-9).
+
+##### Anuvāda
+
+This hymn प्र यद्वः (*pra yadvaḥ*) is the second hymn in the second Anuvāka. It has thirty-six Ṛks. Its seer is Punarvatsa of the Kaṇva lineage; the deity is the Maruts; the metre is Gāyatrī. The Anukramaṇī says: प्र यद्वः षट्त्रिंशत्पुनर्वत्सो मारुतं (*pra yadvaḥ ṣaṭtriṃśatpunarvatso mārutaṃ*). In the ten-day sacrifice called Vyūḍha, at the recitation of the first Chandoma mantras, this hymn is to be recited between the Agnimāruta-śastra mantras as the Nividdhāna hymn addressed to the Maruts; this is set out by the Āśvalāyana Śrauta Sūtra, प्र यद्वस्त्रिष्टुभं दूतं व इत्याग्निमारुतं (*pra yadvastriṣṭubhaṃ dūtaṃ va ityāgnimārutaṃ*) (Ā. 8.9).
+### Printed p. 529
+
+##### Particulars
+
+Maṇḍala 8; Anuvāka 2; Sūkta 7. Aṣṭaka 5; Adhyāya 8; Vargas 18, 19, 20, 21, 22, 23, 24. Number of Ṛks in the hymn: 36. Ṛṣi: Punarvatsa Kāṇva. Deity: the Maruts. Metre: Gāyatrī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यद्व॑स्त्रि॒ष्टुभ॒मिषं॒ मरु॑तो॒ विप्रो॒ अक्ष॑रत् ।  
+> वि पर्व॑तेषु राजथ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यत् । वः । त्रिस्तुभं । इषं । मरुतः । विप्रः । अक्षरत् ।  
+> वि । पर्वतेषु । राजध ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतो मितराविणो मितरोचिनो वा एतत्संज्ञा माध्यमका देवगणाः ॥ पादादित्वादपादादाविति पर्युदासादाष्टमिकनिघाताभावे षाष्ठिकमामंत्रिताद्युदात्तत्वं ॥ वो युष्मभ्यं विप्रो मेधावी स्तोता त्रिष्टुभं त्रिषु
+> सवनेषु प्रशस्यां त्रिभिर्देवैः स्तुतां ना यद्वा त्रिष्टुप्छंदसा संबद्धां
+> माध्यंदिनसवनिकीमिषं सोमलक्षणमन्नं यद्यदा प्राक्षरत् प्रासिंचत् अग्नौ
+> प्राक्षिपत् । यद्वा । त्रिष्टुभं त्रिष्टुप्छंदस्कं स्तोत्रमिषं सोमं चेति योज्यं ।
+> तदानीं यूयं पर्वतेषु पर्ववत्तु शिलोच्चयेषु वि राजथ । तेन सोमेन
+> लब्धबलाः संतो विशेषेण दीप्ता भवथ ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, groups of gods of the middle realm, so named for measured sound or measured radiance. (Accent remarks omitted.) For you, the wise, intelligent praiser: त्रिष्टुभं (*triṣṭubhaṃ*), praised in the three pressings, praised by three gods; or connected with the Triṣṭubh metre; इषं (*iṣaṃ*), the food, which is Soma, belonging to the midday pressing — when he pours it out or casts it into the fire. Or else: the hymn in Triṣṭubh metre and the Soma are to be construed together. Then you shine forth on the mountains, that is, on rocky heights with joints; having gained strength by that Soma, you become especially radiant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- वः (*vaḥ*)—addressing you
+- विप्रः (*vipraḥ*)—the wise worshipper
+- त्रिष्टुभं (*triṣṭubhaṃ*)—praised at the three pressing-times
+- इषं (*iṣaṃ*)—the food that is Soma juice
+- यत् (*yat*)—when
+- प्र अक्षरत् (*pra akṣarat*)—he offers (then)
+- पर्वतेषु (*parvateṣu*)—on the mountain regions
+- वि राजथ (*vi rājatha*)—you shine
+
 ---
 
-**Progress note:** Done through printed p. 523. pp. 518-523 (batch API)
+**Progress note:** Done through printed p. 529. pp. 524-529 (batch API)
