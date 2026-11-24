@@ -14499,6 +14499,243 @@ O divine Aśvin deities, drink to satiety the Soma that has been pressed and mad
 ##### English translation
 Divne (Aswins), partake to satiety of the sacrificial beverage, consecrated with the exclamation Swaha; come, Aswins, come (hither);
 
+### Printed p. 319
+desirous of protection, I invoke you: give precious riches to the donor of the offering.
+
+## Sūkta 36 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अवितासीति सप्तर्चंषष्ठं सूक्तमात्रेयस्य श्यावाश्वस्यार्षं । आत्रेयमनुक्रमणिका । अविता सप्त शाक्वरं महापंक्त्यंतमिति । षट्पंचाशदक्षरा शक्वरी छंदः।
+> श्वावाश्वस्येति सप्तमी महापंक्तिः षळष्टका ना महापंक्तिः । अनु. १०-३ । इति लक्षणसध्भावात् ॥ दशरात्रे पंचमेऽहनि मरुत्वतीय इदं सूक्तं । सूत्रितं च ।
+> अवितासीत्था हि ! अ. ७-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the sixth sūkta, beginning अवितासीति (*avitāsīti*), of seven Ṛks; its seer is Śyāvāśva of the family of Atri. The Anukramaṇī says अविता सप्त शाक्वरं महापंक्त्यंतमिति (*avitā sapta śākvaraṃ mahāpaṃktyaṃtamiti*). The metre is Śakvarī, of fifty-six syllables. The seventh Ṛk, beginning श्वावाश्वस्येति (*śvāvāśvasyeti*), is a Mahāpaṅkti, since it has the stated mark of six octosyllabic pādas (Anu. 10-3). On the fifth day of the Daśarātra this sūkta is used at the Marutvatīya, and the sūtra says so: अवितासीत्था हि (*avitāsītthā hi*) (A. 7-12) **NOTE**.
+
+This sixth sūkta in the fifth anuvāka, beginning with Avitāsi, has seven Ṛks. Śyāvāśva is its seer. The Anukramaṇī says: Avitā sapta śākvaraṃ mahāpaṅktyantam. Indra is the deity. The first six Ṛks of the sūkta are in the Śakvarī metre, and the seventh Ṛk, beginning Śyāvāśvasya, is in the metre called Mahāpaṅkti. A Śakvarī Ṛk has seven pādas of eight syllables each; the Mahāpaṅkti has six pādas of eight syllables each, such being the marks of these metres (Chandaḥ Anu. 10-3). The use of this sūkta for the Marutvatīya-śastra mantras on the fifth day of the sacrifice called Daśarātra is explained by the sūtra Avitāsītthā hi in the Āśvalāyana Śrauta-sūtra (Ā. 7-12).
+
+Sūkta 36. Maṇḍala 8. Anuvāka 5. Sūkta 36. Aṣṭaka 6. Adhyāya 3. Varga 18. Number of Ṛks in the sūkta: 7. Seer: Śyāvāśva. Deity: Indra. Metre: 1-6 Śakvarī; 7 Mahāpaṅkti. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वि॒तासि॑ सुन्व॒तो वृ॒क्तब॑र्हिषः॒ पिबा॒ सोमं॒ मदा॑य॒ कं  ॑
+> शतक्रतो ।
+
+### Printed p. 320
+
+> यं ते भागमधारयन्विश्वाः सेहानः पृतना उरु ज्रयः  
+> समप्सुजिन्मरुत्वा इंद्र सत्पते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अविता । असि । सुन्वतः । वृक्तबर्हिषः । पिब । सोमं । मदाय । कं । शतक्रतो इति  
+> शतक्रतो ।  
+> यं । ते । भागं । आधारयन् । विश्वाः । सेहानः । पृतनाः । उरु । ज्रयति । सं ।  
+> अप्सुऽजित् । मरुत्वान् । इंद्र । सत्ऽपते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो बहुकर्मन्निंद्र सुन्वतः सोमाभिषवं कुर्वतो व्यक्तबर्हिषः
+> स्त्यीर्णबर्हिषो यजमानस्याविता रक्षितासि । भवसि । मदाय मदार्थं सोमं
+> पिब । हे सत्पते सतां पत इंद्र ते तुभ्यं यं सोमस्य भागमधारयन् सर्वे
+> देवा अकल्पयन् । तथा च यजुर्ब्राह्मणं । स एतं माहेंद्रमुद्धारमुदहरत
+> वृत्रं हत्वान्यासु देवतास्वधि । तै. सं. ६-५-५-३ । इति । तं भागं विश्वाः पृतनाः
+> शत्रूणां सर्वाः सेना उरु बहु ज्रयो वेगं च सं सेहानः सम्यगभिभवन्नप्सुजिदप्पुजेता च सन् पिब ॥
+
+##### Gist of the bhāṣya
+
+O Śatakratu, many-deeded Indra, you are the protector of the sacrificer who presses the Soma and has strewn the sacred grass. Drink the Soma for your exhilaration. O Satpati, lord of the good, Indra, the portion of Soma that all the gods assigned to you: the Yajur Brāhmaṇa says स एतं माहेंद्रमुद्धारमुदहरत वृत्रं हत्वान्यासु देवतास्वधि (*sa etaṃ māheṃdramuddhāramudaharata vṛtraṃ hatvānyāsu devatāsvadhi*) (Tai. Saṃ. 6-5-5-3) **GLOSS**. That portion, overcoming all the hosts of enemies and their great speed, being the conqueror in the waters, drink it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O Indra, who have done many deeds of valour
+- सुन्वतः (*sunvataḥ*)—who has pressed the Soma juice to offer to you
+- व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*)—who has prepared and spread the cut darbha grass as a seat
+- अविता (*avitā*)—protector
+- असि (*asi*)—you are
+- हे सत्पते (*he satpate*)—O protector of the good
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्तान् (*maruttān*)—who are with the Marut deities
+- पृतनाः (*pṛtanāḥ*)—the hosts of enemies
+- उरु ज्रयः (*uru jrayaḥ*)—their speed
+- संसेहानः (*saṃsehānaḥ*)—who defeat well
+- अप्सुजित् (*apsujit*)—the controller of the clouds
+- ते (*te*)—for you
+- यं भागं (*yaṃ bhāgaṃ*)—the portion of Soma which the gods have assigned
+- सोमं (*somaṃ*)—that portion of Soma
+- मदाय (*madāya*)—for your delight
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have done many deeds of valour, you are the protector of the sacrificer who has pressed the Soma juice for you and has prepared and spread the cut darbha grass as a seat. O Indra, protector of the good, who are with the Marut deities **NOTE**, who defeat well the speed of the enemy hosts, who are the controller of the clouds, drink for your delight the portion of Soma which the gods have assigned to you.
+
+### Printed p. 321
+
+##### English translation
+You are the protector of the effuser of the libation, of the strewer of the clipped sacred grass; drink joyfully, Satakratu, the Scma for your exhilaration,--that portion which (the gods) assigned you, Indra, lord of the virtuous, who are the victor all (hostile) hosts, the conqueror of many, the subduer of the waters, the leaders of the Maruts.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्राव॑ स्तो॒तारं॑ मघव॒न्नव॒ त्वां पिबा॒ सोमं॒ मदा॑य॒ कं  ॑
+> शतक्रतो ।  
+> यं ते॑ भा॒गमधा॑रय॒न्विश्वाः॑ सेहा॒नः पृत॑ना उ॒रु ज्रयः॒  
+> सम॑प्सु॒जिन्म॒रुत्वा॑ इंद्र सत्पते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अव । स्तोतारं । मघवन् । अव ! त्वां । पिज । सोमं । मदाय । कं ।  
+> शशक्रतो इति शतक्रतो ।  
+> यः । ते । भागं । आधारयत् । विश्वाः । सेहानः । पृतनाः । उरु । ज्रयः । सं ।  
+> अप्सुजित् । मरुत्वान् । इंद्र । सत्पते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् स्तोतारं प्राव । प्ररक्ष । त्वां चाव । सोमपानेन रक्ष ।
+> सिद्धमन्यत् ॥
+> XXIV 21
+
+##### Gist of the bhāṣya
+
+O Maghavan, protect the worshipper, and protect yourself also by the drinking of Soma. The rest is established.
+### Printed p. 322
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे मघवन् (*he maghavan*)—O Indra, possessor of wealth
+- स्तोतारं (*stotāraṃ*)—the sacrificer who praises you
+- प्राव (*prāva*)—protect
+- त्वां (*tvāṃ*)—you also
+- अव (*ava*)—protect by the drinking of Soma (satisfy)
+- हे सत्पते (*he satpate*)—O protector of the good
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्तान् (*maruttān*)—who are with the Marut deities
+- पृतनाः (*pṛtanāḥ*)—the hosts of enemies
+- उरु ज्रयः (*uru jrayaḥ*)—their speed
+- संसेहानः (*saṃsehānaḥ*)—who defeat well
+- अप्सुजित् (*apsujit*)—the controller of the clouds
+- ते (*te*)—for you
+- यं भागं (*yaṃ bhāgaṃ*)—the portion of Soma which the gods have assigned
+- सोमं (*somaṃ*)—that portion of Soma
+- मदाय (*madāya*)—for your delight
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessor of wealth, protect the sacrificer who praises you. Satisfy yourself also with the drinking of Soma. O Indra, protector of the good, who are with the Marut deities, who defeat well the speed of the enemy hosts, who are the controller of the clouds, drink for your delight the portion of Soma which the gods have assigned to you.
+
+##### English translation
+Protect the worshipper, Maghavan, protect yourself ; drink joyfully, Satakratu, the Some for your exhilaration,—that portion which (the gods) assigned you, Indra, lord of the virtuous, who are the victor over all (hostile) hosts, the conqueror of many, the subdur of the waters, the leader of the Maruts.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्जा दे॒वा अव॒स्योज॑सा॒ त्वां पिबा॒ सोमं॒ मदा॑य॒ कं  ॑
+> शतक्रतोः ।  
+> यं ते॑ भा॒गमधा॑रय॒न्विश्वाः॑ सेहा॒नः पृत॑ना उ॒रु ज्रयः॒  
+> सम॑प्सु॒जिन्म॒रुत्वा॑ इंद्र सत्पते ॥ ३ ॥
+
+### Printed p. 323
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्जा । देवान् । अवसि । ओजसा । त्वां । पिब । सोमं । मदाय । कं । शतक्रतोइति शतक्रतो ।  
+> यं । ते । भागं । आधारयन् । विश्वाः । सेहानः । पृतनाः । उरु । ज्रयः । सं ।  
+> अप्सुजित् । मरुत्वान् । इंद्र । सत् ऽते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं देवानूर्जान्नेन हविषावसि । रक्षसि । त्वामप्योजसा
+> बलेनावसि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you protect the gods with food, that is, with the oblation, and you protect yourself also with might. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवान् (*devān*)—the gods
+- ऊर्जा (*ūrjā*)—with food, that is, with the oblation
+- अवसि (*avasi*)—you protect
+- त्वां (*tvāṃ*)—you
+- ओजसा (*ojasā*)—with might
+- अवसि (*avasi*)—you protect
+- हे सत्पते (*he satpate*)—O protector of the good
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्वान् (*marutvān*)—who are with the Marut deities
+- पृथनाः (*pṛthanāḥ*)—the hosts of enemies
+- उरु ज्रयः (*uru jrayaḥ*)—their speed
+- संसेहासः (*saṃsehāsaḥ*)—who defeat well
+- अप्पुजित् (*appujit*)—the controller of the clouds
+- ते (*te*)—for you
+- यं भागं (*yaṃ bhāgaṃ*)—the portion of Soma which the gods have assigned
+- सोमं (*somaṃ*)—that portion of Soma
+- मदाय (*madāya*)—for your delight
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you protect the other gods with food, that is, with the oblation. You protect yourself with might. O Indra, protector of the good, who are with the Marut deities, who defeat well the speed of the enemy hosts, who are the controller of the clouds **NOTE**, drink for your delight the portion of Soma which the gods have assigned to you.
+
+##### English translation
+You, Maghavan, protect the gods with (sacrificial) food, and yourself by your might; drink joyfully, Satakratu, the soma for your exhilaration,—that portion which (the gods) assigned you, Indra lord of the virtuous, who are the victor over all (hostile) hosts, the conqueror of many, the subduer of the waters, the leader of the Maruts.
+
+#### Ṛk 4
+### Printed p. 324
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒नि॒ता दि॒वो ज॑नि॒ता पृ॑थि॒व्याः पिबा॒ सोमं॒ मदा॑य॒ कं  ॑
+> शतक्रतो ।  
+> यं ते॑ भा॒गमधा॑रय॒न्विश्वाः॑ सेहा॒नः पृत॑ना उ॒रु ज्रयः॒  
+> सम॑प्सु॒जिन्म॒रुत्वा॑ इंद्र सत्पते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनिता । दिवः । जनिता । पृथिव्याः । पिब । सोमं । मदाय । कं । शतक्रतो इति  
+> शतक्रतो ।  
+> यं । ते । भागं । आधारयन् । विश्वाः । सेहानः । पृतनाः । उरु । ज्रयः । सं ।  
+> अप्सुजित् । मरुत्वान् । इंद्र । सत्पते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं दिवो द्युलोकस्य जनिता जनकोऽसि । पृथिव्याश्च जनितासि ।
+> सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the begetter of heaven, the world of light, and you are also the begetter of the earth. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the heavenly world
+- जनिता (*janitā*)—you are the maker
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- जनिता (*janitā*)—you are also the maker
+- हे सत्पते (*he satpate*)—O protector of the good
+- इंद्र (*iṃdra*)—O Indra
+- मरुत्वान् (*marutvān*)—who are with the Marut deities
+- पृतनाः (*pṛtanāḥ*)—the hosts of enemies
+- उरु ज्रयः (*uru jrayaḥ*)—their speed
+- संसेहानः (*saṃsehānaḥ*)—who defeat well
+- अप्पुजित् (*appujit*)—the controller of the clouds
+- ते (*te*)—for you
+- यं भागं (*yaṃ bhāgaṃ*)—the portion of Soma which the gods have assigned
+- सोमं (*somaṃ*)—that portion of Soma
+- मदाय (*madāya*)—for your delight
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have created the heavenly world. You are also the one who produced the earth. O Indra, protector of the good, who are with the Marut deities, who defeat well the speed of the enemy hosts, who are the controller of the clouds, drink for your delight the portion of Soma which the gods have assigned to you
+
 ---
 
-**Progress note:** Done through printed p. 318. Ṛk 19-24 of Sūkta 35, pp. 313-318
+**Progress note:** Done through printed p. 324. Sūkta 36 Ṛk 1-4, pp. 319-324
