@@ -15868,6 +15868,323 @@ In the Cāturviṃśika day, at the midday pressing, in the Brahmā's śastra, t
 
 "Who, a mortal, a new one, of the present day, a driver (impeller) of the ceaseless (atasīnām), constantly moving praises, would praise Indra?" That is: Indra cannot be praised by the present-day people of small understanding. (The root is gṝ, of the kryādi class, with shortening.) "Nor, in the past too, did all the praisers who existed" (nu purā). Or else: svaḥ means "to be sought, to be attained": the people praising Indra, the one to be attained. इंद्रियं (*iṃdriyaṃ*) is the mark of Indra, belonging uniquely to Indra alone. They did not attain the greatness, the majesty, of this Indra.
 
+### Printed p. 396
+
+> येन परस्मैपदं । आत आदेरित्यभ्यासस्यात्वं । अश्नोतेश्वेति नुट् । हि चेति निघातप्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+This is the end of the grammatical remarks on the preceding words of the Ṛk. Sāyaṇa's tail here treats only the verb forms, the reduplicative ā, the augment nuṭ and the prohibition of nighāta after हि (*hi*). These are the matter of the Grammar section, so no further gist is given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नव्यः (*navyaḥ*)—one belonging to the present time
+- अतसीनां (*atasīnāṃ*)—to the praises
+- तुरः (*turaḥ*)—the impeller
+- मर्त्यः (*martyaḥ*)—among men
+- कत् (*kat*)—who indeed
+- गृणीत (*gṛṇīta*)—can praise Indra to his satisfaction?
+- नु (*nu*)—even in former times
+- गृणंतः स्वः (*gṛṇaṃtaḥ svaḥ*)—all those who praised this Indra
+- अस्य (*asya*)—of this Indra
+- इंद्रियं (*iṃdriyaṃ*)—the unique
+- महिमानं (*mahimānaṃ*)—greatness
+- नहि आनशुः (*nahi ānaśuḥ*)—could not attain
+
+##### भावार्थ (Bhāvārtha)
+
+Among men of the present time, who are impellers of praises, who indeed can praise Indra to his satisfaction? Even in former times, none of those who praised this Indra could attain his unique greatness (could not fathom it).
+
+##### English translation
+What living mortal, the prompter of ever rising (praises ), may now glorify Indra ? None of those heretofore praising him have attained the greatness of the properties of Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the midday pressing of the day of the sacrifice called Cāturviṃśika, among the śastra mantras recited by the priest called Brahmā, this Ṛk beginning कन्नव्यः (*kannavyaḥ*) is to be recited as a pragātha mantra. This is set out by the Āśvalāyana Śrauta Sūtra aphorism कन्नव्यो अतसीनां कदू नस्व्याकृतमिति कद्वतः प्रगाथाः (*kannavyo atasīnāṃ kadū nasvyākṛtamiti kadvataḥ pragāthāḥ*) (Ā. 7-4). In the sacrifice called Ahargaṇa also, on the second day and the following days, this mantra is to be recited as a pragātha mantra among the same śastra mantras. This is set out by the Āśvalāyana Śrauta Sūtra aphorism आरंभणीयाः पर्यासान् कद्वतोऽहरहःशस्यानीति होत्रका द्वितीयादिष्टेव (*āraṃbhaṇīyāḥ paryāsān kadvato 'harahaḥśasyānīti hotrakā dvitīyādiṣṭeva*) (Ā. 7-1).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कदु॑ स्तु॒वंत॑ ऋतयंत दे॒वत॒ ऋषिः॒ को विप्र॑ ओहते ।  
+> क॒दा हवं॑ मघवन्निंद्र सुन्व॒तः कदु॑ स्तुव॒त आ ग॑मः ॥ १४ ॥
+
+### Printed p. 397
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । ऊं इति । स्तुवंतः । ऋत्ययंत । देवता । ऋषिः । कः । विप्रः । ऒहते ।  
+> कदा । हवं । मघवन् । इंद्र । सुन्वतः । कत् । ऊं इति । स्तुवतः । आ । गमः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स्तुवंतः स्तोत्रं कुर्वंतः कदु के खलु जना देवता ॥ देवात्तलिति
+> स्वार्थिकस्तल्पत्ययः । व्यत्ययेन प्रथमा ॥ देवं त्वामुद्दिश्य ऋतयंत । ऋतं
+> यज्ञमैच्छन् । त्वदीययागेच्छापि दुर्लभा दूरे त्वद्यागकथा। ऋषिर्द्रष्टा विप्रो
+> मेधावी कः स्तोतौहते । वहति । त्वां स्तुतीः प्रापयति । न कश्चिदपि त्वां स्तोतुं
+> शक्नोतीत्यर्थः । यत एवमतः कारणात् हे मघवन् धनवन्निन्न अनुग्रहीत्रा
+> त्वयैवागंतव्यं । स त्वं कदा कस्मिन्काले सुन्वतः सोमाभिषवं कुर्वतो यजमानस्य
+> हवमाह्वानं प्रत्या गमः । आगच्छः । कडु । कदा च कस्मिंश्च काले स्तुवतः केवलं
+> स्तोत्रं कुर्वतो यजमानस्य हवमाह्वानमा गमः । अभ्यगच्छः ॥ सुन्वतः
+> स्तुवत इत्युभयत्र शत्वरनुम इति विभक्तेरुदात्तत्वं । गमेर्लुजि लृदित्वात्
+> च्छेरजादेशः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, which people, praising, offering praise, desire sacrifice (ṛta) towards you as deity?" The word देवता (*devatā*) is explained by the suffix tal added without change of sense, with the nominative standing by a change of case; it means "turning to you, the god". Even the wish for your sacrifice is hard to find, let alone performing your sacrifice. Which seer, which sage, which wise praiser conveys praises to you? None is able to praise you. Therefore, O Maghavan, O wealthy one, you yourself, the favourer, must come. When will you come to the invocation of the sacrificer who presses Soma? And when will you come to the invocation of the sacrificer who merely praises? Sāyaṇa adds the accent of the case-ending in सुन्वतः (*sunvataḥ*) and स्तुवतः (*stuvataḥ*) and a substitute for the root gam in the aorist.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तुवंतः (*stuvaṃtaḥ*)—reciting praise
+- कदु (*kadu*)—which people indeed
+- देवता (*devatā*)—turning to you, the god
+- ऋतयंत (*ṛtayaṃta*)—are desirous of performing sacrifice?
+- ऋषिः (*ṛṣiḥ*)—capable of seeing beyond the senses
+- विप्रः (*vipraḥ*)—wise
+- कः (*kaḥ*)—which praiser indeed
+- ओहते (*ohate*)—carries praise to you!
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- कदा (*kadā*)—at what time
+- सुन्नतः (*sunnataḥ*)—of the sacrificer pressing Soma juice
+- हवं (*havaṃ*)—towards the invocation
+- आ गमः (*ā gamaḥ*)—will you come?
+- कदु (*kadu*)—when indeed
+- स्तुवतः (*stuvataḥ*)—to the praiser will you come?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, which people, reciting praise, are desirous of performing sacrifice to you, the god? Which praiser, capable of seeing beyond the senses and wise, carries praise to you? O wealthy Indra, at what time will you come to the invocation of the sacrificer who presses Soma juice? When indeed will you come to the praiser?
+
+##### English translation
+Who, praising you as the deity, (ever) hoped to sacrifice to you ?
+
+### Printed p. 398
+
+What saint, what sage conveys (his) praises to you ?) When, opulent Indra, have you come to the invocation of one pouring out libations, of one repeat-ing (your) praise ?
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ त्ये मधु॑मत्तमा॒ गिरः॒ स्तोमा॑स ईरते ।  
+> स॒त्रा॒जितो॑ धन॒सा अक्षि॑तोतयो वाज॒यंतो॒ रथा॑ इव ॥१५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । त्ये । मधुमत्तमाः । गिरः । स्तोमासः । ईरते ।  
+> सत्राजितः । धनसाः । अक्षितऊतयः । वाजयंतः । रथाइव ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ज्योतिष्टोमे माध्यंदिनसवने ब्रह्मशस्त्र उदु त्य इति प्रगाथोऽनुरूपानंतरं शंसनीयः । सूत्रितं च । उदु त्वे मधुमत्तमा इंद्रः पूर्भित् । आ. ५-१६.
+> इति ॥ चातुर्विंशिके माध्यंदिनसवने तस्मिन्नेव शस्त्रेऽयं प्रगाथो वैकल्पिकोऽनुरूपः । सूत्रितं च । उदु त्वे मधुमत्तमास्त्वमिंद्र प्रतूर्तिषु ॥ आ. ७. ४- इति ॥
+> त्ये ते प्रसिद्धा मधुमत्तमा अतिशयेना मधुरा गिरोऽप्रगीताः शस्त्ररूपा
+> वाचः स्तोमासः प्रगीतानि बहिष्पवमानादीनि स्तोत्राणि चोदीरते । हे इंद्र
+> त्वामुद्दिश्योद्गच्छंति । ऊर्ध्व० प्रसरंति ॥ ईर गतौ । आदादिकः ॥ तत्र दृष्टांतः ।
+> सत्राजितः सहैव शत्रूञ्चयंतः अत एव धनसा धनानि संभजंतः ॥ वन षण संभक्तौ '
+> जनसनखनक्रमगमो विट् । निड्वनोरनुनासिकस्यादित्यात्वं ॥ अक्षितोतयः । अक्षिताः
+> क्षयरहिता ऊतयो रक्षा येषां ते तथोक्ताः ॥ क्षियो भावे निष्ठा । निष्ठायामण्यदर्थ इति पर्युदासाद् दीर्घाभावः । अत एव क्षियो दीर्घादिति निष्ठानत्वाभावश्च ॥
+> वाजयंतो वाजमन्नमिच्छंतः ॥ क्यचि न छंदस्य पुत्रस्येतीत्वदीर्घयोः प्रतिषेधः ॥ एवंगुणविशिष्टा रथा इव । ते यथा विविधमितस्तत उत्तिष्ठंति तद्वदुदीरत
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the Jyotiṣṭoma, at the midday pressing, in the Brahmā's śastra, the pragātha उदु त्य (*udu tya*) is to be recited after the anurūpa. It is so aphorised: उदु त्वे मधुमत्तमा इंद्रः पूर्भित् (*udu tve madhumattamā iṃdraḥ pūrbhit*) (Ā. 5-16). In the Cāturviṃśika, at the midday pressing, in the same śastra, this pragātha is an optional anurūpa. It is so aphorised: उदु त्वे मधुमत्तमास्त्वमिंद्र प्रतूर्तिषु (*udu tve madhumattamāstvamiṃdra pratūrtiṣu*) (Ā. 7. 4). Those well-known, most sweet songs, that is, the unsung speech in the form of śastras, and the hymns of praise, that is, the sung stotras such as the Bahiṣpavamāna, rise up towards you, O Indra; they spread upwards. An illustration follows: they are like chariots. These are सत्राजितः (*satrājitaḥ*), conquering enemies together, and for that very reason धनसाः (*dhanasāḥ*), sharing wealth; अक्षितोतयः (*akṣitotayaḥ*), having unwasting protections; वाजयंतः (*vājayaṃtaḥ*), desiring food. Just as such chariots start up in various directions from here and there, so the songs rise. Sāyaṇa also gives the grammatical remarks on these forms.
+
+### Printed p. 399
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्राजितः (*satrājitaḥ*)—ever conquering enemies
+- धनसाः (*dhanasāḥ*)—filled with wealth
+- अक्षितोतयः (*akṣitotayaḥ*)—having protection that is not in vain
+- वाजयंतः (*vājayaṃtaḥ*)—desiring food
+- रथा इव (*rathā iva*)—like chariots
+- तै उ (*tai u*)—well-known
+- मधुमत्तमाः (*madhumattamāḥ*)—most sweet
+- गिरः (*giraḥ*)—words in the form of śastras
+- स्तोमासः (*stomāsaḥ*)—stotras such as the Bahiṣpavamāna
+- उदीरते (*udīrate*)—spread manifestly towards you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, like chariots that ever conquer enemies, are filled with wealth, have protection that is not in vain and desire food, the well-known and most sweet words in the form of śastras, and the stotras such as the Bahiṣpavamāna, spread manifestly towards you.
+
+##### English translation
+These most sweet songs, these hymns of praise ascend ( to you ), like triumphant chariots laden with wealth, charged with unfailing protections, intended to procure food.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the midday pressing of the Jyotiṣṭoma sacrifice, among the śastra mantras recited by the priest called Brahmā, the tṛca beginning उदु तै (*udu tai*) is to be recited after the pragātha-anurūpa tṛca. This is set out by the Āśvalāyana Śrauta Sūtra aphorism उदु तै मधुमत्तमा इंद्रः पूर्भित् (*udu tai madhumattamā iṃdraḥ pūrbhit*) (Ā. 5-16). Further, at the midday pressing of the day called Cāturviṃśika also, this pragātha mantra is to be recited among the same śastra mantras as an optional anurūpa tṛca. This is set out by the Āśvalāyana Śrauta Sūtra aphorism उदु तै मधु.मत्तमास्त्वमिंद्र प्रतूर्तिषु (*udu tai madhu.mattamāstvamiṃdra pratūrtiṣu*) (Ā. 7.4).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कण्वा॑ इव॒ भृग॑वः॒ सूर्या॑ इव॒ विश्व॒मिद्दी॒तमा॑नशुः ।  
+> इंद्रं॒ स्तोमे॑भिर्म॒हयं॑त आ॒यवः॑ प्रि॒यमे॑धासो  
+> अस्वरन् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कण्वाः इव । भृगवः । सूर्यास्ताव । विश्वं । इत् । धीशं । अनरुः ।  
+> इंद्रं । स्तोमेभिः । महयंतः । आयवः । प्रियमेधासः । अस्वरन् ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कण्वा इव कण्वगोत्रोत्पन्ना ऋषय इव स्तुवंतो भृगवो भृगुगोत्रोत्पन्ना ऋषयो धीतमाध्यातं विश्वमिद्व्याप्तं तमेवेंद्रमानशुः । व्यापुः ।
+> सूर्या इव । यथा सूर्यरश्मयः सर्वं जगद्वाप्नुवंति तद्वत् । अपि च प्रियमेधासः प्रियप्रज्ञा एतत्संज्ञा वायवो मनुष्यास्तमेवेंद्रं महयंतः पूजयंतः स्तोमेभिः स्तोत्रैरस्वरन् । अस्तुवन् ॥ स्वृ शब्दोपतापयोः । भौवादिकः॥
+
+##### Gist of the bhāṣya
+
+Like the Kaṇvas, the seers born in the Kaṇva family, praising, the Bhṛgus, the seers born in the Bhṛgu family, attained that very Indra on whom they had meditated and who is all-pervading; आनशुः (*ānaśuḥ*) means "they pervaded". सूर्या इव (*sūryā iva*): as the rays of the sun pervade the whole world, so. And the men named Priyamedhas, the "dear-minded", honouring that same Indra, praised him with hymns of praise; अस्वरन् (*asvaran*) means "they praised". Sāyaṇa adds that the root svṛ is of the bhū class, in the sense of sound and heating.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कण्वा इव (*kaṇvā iva*)—like the seers born in the Kaṇva family
+- भृगवः (*bhṛgavaḥ*)—the seers born in the Bhṛgu family also
+- धीतं (*dhītaṃ*)—one meditated upon by them
+- सूर्या इव (*sūryā iva*)—as the rays of the sun spread everywhere
+- विश्वमित् (*viśvamit*)—one who is all-pervading, Indra
+- आनशुः (*ānaśuḥ*)—have attained and joined him
+- प्रियमेधासः (*priyamedhāsaḥ*)—named Priyamedha
+- आयवः (*āyavaḥ*)—men also
+- इंद्रं (*iṃdraṃ*)—Indra
+- महयंतः (*mahayaṃtaḥ*)—honouring
+- स्तोमेभिः (*stomebhiḥ*)—with hymns of praise
+- अस्वरन् (*asvaran*)—praised
+
+##### भावार्थ (Bhāvārtha)
+
+Like the seers born in the Kaṇva family, the seers born in the Bhṛgu family also have attained and joined Indra, who is the object of their meditation and all-pervading like the rays of the sun. The men named Priyamedha also, honouring Indra, praised him with hymns of praise.
+
+##### English translation
+The Bhrigus, like the Kanwas, have verily attained to the all-pervad-ing (Indra), on whom they have meditated, as the sun (pervades the uni-verse by his rays): men of the Priyamedha race, worshipping Indra with praises, glorify him.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒क्षा हि वृ॑त्रहंतम॒ हरी॑ इंद्र परा॒वतः॑ ।
+
+### Printed p. 401
+
+> अर्वाचीनो मघवन्नॊमपीतय उग्र ऋष्वेभिरा गहि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युक्त्व । हि । वृत्रहन्तम । हरी इति । इंद्र । परावतः ।  
+> अर्वाचीनः । मघवन् । सोमपीतये । उग्रः । ऋष्वेभिः । आ । गहि ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहंतम । वृत्रं हतवान् वृत्रहा । अतिशयेन हतवान् वृत्रहंतमः ।
+> यथा पुनर्नोत्तिष्ठति तथा हतवानित्यर्थः ॥ अनो नुडिति तमपो नुट् ॥ हे तादृकेंद्र हरी त्वदीयावश्चौ-युक्ष । हिरवधारणे । आत्मिये रथे योजय्येव । हे
+> मघवन् धनवन् उग्र उद्धूर्णस्त्वं सोमपीतये सोमपानार्थं ॥ दासीभारादित्वात्तूर्वपदप्रकृतिस्वरत्वं ॥ अर्वाचीनोऽस्मदभिमुख ऋष्टेभिर्युष्टैर्दर्शनीयर्मुरुद्धिः सार्धं परावतः । दूरनामैतत् । दूरे वर्तमानाद्भुलोकादा
+> गहि । आगच्छ ॥ गमे र्लोटः सेर्हिः । छांदसः शपो लुक् । अनुदात्तोपदेशेत्यनुनासिकलोपः । तस्यासिद्धवदत्राभादित्यसिद्धत्वाद्देर्लुगभावः ॥
+
+##### Gist of the bhāṣya
+
+"O Vṛtrahantama": one who has slain Vṛtra is vṛtrahā; one who has slain him most thoroughly is vṛtrahantama, that is, he has slain him so that he does not rise again. Such an Indra is told: "Yoke your two horses to your own chariot." हि (*hi*) is for emphasis. O Maghavan, wealthy one, fierce, mighty, you, for the drinking of Soma, facing us, come with the Maruts, who are of beautiful appearance, from afar; परावतः (*parāvataḥ*) is a name for "far", so he says "from the world that is far off". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतम (*vṛtrahaṃtama*)—O one who destroys Vṛtra completely
+- इंद्र (*iṃdra*)—O Indra!
+- हरी (*harī*)—your horses
+- युक्ष हि (*yukṣa hi*)—yoke to the chariots
+- मघवन् (*maghavan*)—O wealthy Indra
+- उग्रः (*ugraḥ*)—you who are of exceeding strength
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- अर्वाचीनः (*arvācīnaḥ*)—facing us
+- ऋष्टेभिः (*ṛṣṭebhiḥ*)—with the Maruts of attractive form
+- परावतः (*parāvataḥ*)—even from the very distant heaven
+- आ गहि (*ā gahi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who destroy Vṛtra completely, yoke your horses to the chariots. O wealthy Indra, you of exceeding strength, for the drinking of Soma, be pleased to come facing us with the Maruts of attractive form, even from the very distant heaven.
+
+##### English translation
+Utter destroyer of Vritra, horness your horses ; come down to us, fierce Maghavan, with your attendants from afar to drink the Soma.
+
+### Printed p. 402
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे हि ते॑ का॒रवो॑ वाव॒शुर्धि॒या विप्रा॑सो मे॒धसा॑तये।  
+> स त्वं नो॑ मघवन्निंद्र गिर्वणो वे॒नो न शृ॑णुधी॒ हवं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । हि । ते । कारवः । वावशुः । धिया । विप्रासः । मेधसातये ।  
+> सः । त्वं । नः । मघवन् । इंद्र । गिर्वणः । वेनः । न । शृणुधि । हवं ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कारवः कर्मणां कर्तारो विप्रासो मेधाविन इमे हीमे खलु यजमाना
+> धिया स्तुत्या हे इंद्र ते त्वां नावशुः । पुनरस्तुवन् ॥ वाश्य शब्द इत्यस्माद्वज्लुगंताद्रूपमेतत् ॥ यद्वा । नावशुः पुनःपुनरकामयंत ॥ वश कांतौ । अस्माद्यण्णु गंताल्लजु सिजभ्यस्तेति झॆर्जुस् । बाहुलकोडभावः । लिटि ना तुजादित्वादभ्यासदीर्घत्वं । हि चेति निघातप्रतिषेधः ॥ किमर्थं । मेधसातये मेधस्य
+> यागस्य संभजनार्थं ॥ सनतेः क्तिनि जनसनखनामित्यात्वं । धासीभारादित्वात्पूर्व,
+> पदप्रकृतिस्वरत्वं ॥ हे मघवन् धनवन् गिर्वणो गीर्भिर्वननीय नोऽस्माकं हवं
+> स्तोत्रं सर्वपूर्वोक्तगुणस्त्वं शृणुधि । शृणु । बुध्यस्व । वेनो न ॥ वेनतिः कांतिकर्मा ॥ यथा कांतो जाताभिलाषः पुरुषः कामयितव्यमैकाग्र्येण शृणोति
+> तद्वन् ॥ श्रुशृणुष्कृवृभ्य इति हेर्धित्वं । अन्वेषामपीति साहितिको दीर्घः ॥
+
+##### Gist of the bhāṣya
+
+The कारवः (*kāravaḥ*) are the doers of rites, the विप्रासः (*viprāsaḥ*) are the wise. These sacrificers, with praise, called you, O Indra; वावशुः (*vāvaśuḥ*) means "again and again they praised". Or else: वावशुः (*vāvaśuḥ*) means "again and again they desired you". For what purpose? मेधसातये (*medhasātaye*): for the sharing in the sacrifice (medha). O Maghavan, wealthy one, गिर्वणः (*girvaṇaḥ*), one to be served with songs, you, possessing all the qualities spoken of before, hear our invocation, our praise; understand it. वेनो न (*veno na*): वेनति (*venati*) is a root meaning "to love". As a man who is in love and has conceived a longing listens with single mind to what he desires, so you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कारवः (*kāravaḥ*)—doers of rites (praisers)
+- विप्रासः (*viprāsaḥ*)—wise
+- इमे हि (*ime hi*)—these sacrificers
+- धिया (*dhiyā*)—with their praises
+- ते हि (*te hi*)—you alone
+- मेधसातये (*medhasātaye*)—for the acceptance of the share of the sacrifice
+- वावशुः (*vāvaśuḥ*)—call again and again
+- मघवन् (*maghavan*)—O wealthy one
+- गिर्वणः (*girvaṇaḥ*)—O Indra, extolled with praises
+- सः त्वं (*saḥ tvaṃ*)—such you
+- नः (*naḥ*)—our
+- हवं (*havaṃ*)—praise
+- वेनो न (*veno na*)—like a man who desires something, with his eye fixed on it
+- शृणुधि (*śṛṇudhi*)—hear
+
+### Printed p. 403
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these sacrificers, who are praisers and wise, call you alone again and again with their praises to accept the share of the sacrifice. O Indra, wealthy and extolled with praises, such you, like a man with his eye fixed on something he desires, with your eye fixed on our praise, hear it.
+
+##### English translation
+These wise celebrators (of holy rites) repeatedly propitiate you with pious praise for the acceptance of the sacrifice: you, opulent Indra, who are entitled to praise, hear our invocation like one who listens to what he desires.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निरिं॑द्र बृह॒तीभ्यो॑ वृ॒त्रं धनु॑भ्यो अस्फुरः ।  
+> निरर्बु॑दस्य॒ मृग॑यस्य मा॒यिनो॒ निः पर्व॑तस्य॒ गा अ॑जः ॥१९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निः । इंद्र । बृहतीभ्यः । वृत्रं । धनुभ्यः । अस्फुरः ।  
+> निः । अर्बुदस्य । मृगयस्य । मायिनः । निः । पर्वतस्य । गाः । आजः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृत्रमावरकमसुरं बृहतीभ्यो महद्भ्यः । लिंगव्यत्ययः ॥ धनु
+> भ्यो धनुर्भ्यः कोदंडेभ्यः ॥ छांदसो रेफलोपः ॥ हेत् पंचमी ॥ महद्भिर्धनुर्भिर्हेतुभिर्निरस्फुरः । स्पुरतिर्वधकर्मा । निरवधीः । निःशेषेण हतवानसि ।
+> यद्वा । वृत्रमावरकं मेघं धनुभ्यः । धन्वंति गच्छंतीति धनव आपः । महतीभ्योऽद्भ्यः ॥ तादर्थ्ये चतुर्थी ॥ ईदृशीनामषां लाभार्थं निरवधीः । अपि च
+> मायिनो मायाविनोऽर्बुदस्यैतत्संज्ञ कस्यासुरस्य मृगयस्यैतत्संज्ञकस्य च उभयत्र कर्मणि षष्ठी॥ इमावप्यसुरौ निरस्पुरः। निःशेषेणावधीः ॥ मायाशब्दस्य व्रीह्यादिषु पाठात् व्रीह्यादिभ्यश्चेति मत्त्वर्थीयो विनिः ॥ तथा पर्वतस्य वलनाम्ना सुरेण
+
+##### Gist of the bhāṣya
+
+O Indra, you struck down Vṛtra, the enveloping asura, बृहतीभ्यः (*bṛhatībhyaḥ*) "from great ones", with a change of gender, and धनुभ्यः (*dhanubhyaḥ*) "from bows", that is, with the great bows as the cause; the ablative is of cause. *sphurati* is a verb of killing; निरस्फुरः (*nirasphuraḥ*) means "you slew", you have slain him without remainder. Or else: Vṛtra, the enveloping cloud, धनुभ्यः (*dhanubhyaḥ*): the waters are धनव (*dhanava*) because they go (धन्वंति (*dhanvaṃti*)); from the great waters. The dative of purpose applies: you slew him for the gaining of such waters. Moreover, the māyin, the possessor of māya, Arbuda, an asura of that name, and Mṛgaya, an asura of that name: the genitive in both is in the sense of the object. These two asuras also you slew without remainder. Sāyaṇa derives मायिनः (*māyinaḥ*) with the suffix vini, as māyā is in the vrīhi-class.
+
 ---
 
-**Progress note:** Done through printed p. 395. pp. 389-395 (batch API)
+**Progress note:** Done through printed p. 403. pp. 396-403 (batch API)
