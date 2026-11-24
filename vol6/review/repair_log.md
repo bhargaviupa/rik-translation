@@ -540,3 +540,39 @@
 | 332 | `Uṇ. [4-650?] (p. 329 prints 4-210)` → `Uṇ. 4-650` | SECOND-PASS S1: Kannada p.332 ನಹೇರ್ದಿವಿ ಭಶ್ಚ (ಉ. ಸೂ. ೪-೬೫೦) |
 | 335 | `(Ni. [3-19?])` → `(Ni. 3-19)` | SECOND-PASS S1: Kannada (ನಿ. ೩-೧೯) |
 | 336 | `havirniyanādi` → `havirnayanādi` | SECOND-PASS S7: Kannada ಅಮೃತಾನಿ-ನಿತ್ಯಾನಿ ಹವಿರ್ನಯನಾದೀನಿ |
+
+### 2026-11-24 second pass, batch e340-369.tsv
+| page | old → new | why |
+|---|---|---|
+| 340 | `asme yotaṃ` → `asme yātaṃ` | SECOND-PASS S7: Kannada ಅಸ್ಮೇ ಯಾತಂ ನಾಸತ್ಯಾ ಸಜೋಷಾಃ (yātaṃ; o for ā) |
+| 340 | `मम्मैव` → `ममैव` | SECOND-PASS S7: Kannada ಮಮೈವ; the English IAST has mamaiva; Devanagari had a doubled म (म्म for म) |
+| 340 | `niryānārtham` → `nayanārtham` | SECOND-PASS S7: Kannada ಹನಿರ್ನಯನಾರ್ಥಂ: nayanārtham (nayana, not niryāna) |
+| 342 | `the matter of how, to the Agni hidden in the group of the ancestral gods (*pitṛ-devatās*),` → `the matter of how the ancestral gods (*pitṛ-devatās*) each joined their own splendours to ` | SECOND-PASS S14: Kannada ಪಿತೃದೇವತೆಗಳು ಅಡಗಿಕೊಂಡಿರುವ ಅಗ್ನಿಗೆ ತಮ್ಮ ತಮ್ಮ ತೇಜಸ್ಸುಗಳನ್ನು ಸೇರಿಸಿದರು (the gods join splendours to the hidden Agni; Agni is not said to be hidden among th |
+| 344 | `उ. [१-१२९?]` → `उ. १-१२९` | SECOND-PASS S1: Kannada ಉ. ಸೂ. ೧-೧೨೯ (p.344 print) |
+| 344 | `u. [1-129?]` → `u. 1-129` | SECOND-PASS S1: Kannada ಉ. ಸೂ. ೧-೧೨೯ |
+| 344 | `Uṇ. [1-129?]` → `Uṇ. 1-129` | SECOND-PASS S1: Kannada ಉ. ಸೂ. ೧-೧೨೯ |
+| 344 | `reads 1-129 [?]` → `reads 1-129` | SECOND-PASS S1: Kannada ಉ. ಸೂ. ೧-೧೨೯ |
+| 346 | `śucir ity asmād eva iti vaiyākaraṇāḥ manyante` → `śucir etasmād eva iti vaiyākaraṇā manyante` | SECOND-PASS S7: Kannada ಶುಚಿರೇತಸ್ಮಾದೇವ ಇತಿ ವೈಯಾಕರಣಾ ಮನ್ಯಂತೇ (etasmād; vaiyākaraṇā) |
+| 346 | `śaradaḥ śṛtā asyām` → `śaracchṛtā asyām` | SECOND-PASS S7: Kannada ಶರಚ್ಛೃತಾ ಅಸ್ಯಾಮೋಷಧಯೋ ಭವಂತಿ (śaracchṛtā) |
+| 347 | `or who, delighted with the oblation, are unable, through poverty and other faults, to [sat` → `or who, being unable through poverty and other faults to please him by oblation, recite th` | SECOND-PASS S17: Kannada ಹೋಮಮಾಡಿ ಸಂತೋಷಪಡಿಸಲು ದಾರಿದ್ರಾದಿ ದೋಷಗಳಿಂದ ಅಶಕ್ತರಾಗಿ ಅಗ್ನಿಯ ನಾಮಗಳನ್ನು ಪಠಿಸುವರೋ (names recited; "delighted with the oblation" is not in the Kannada) |
+| 347 | `wisdom and liberation (*mukti*), and lordship (*aiśvarya*)` → `wisdom and lordship (*aiśvarya*)` | SECOND-PASS S16: Kannada ವಿದ್ಯೆಯೂ ಮತ್ತು ಐಶ್ವರ್ಯವೂ (no mukti) |
+| 347 | `*ac ir ṛte* [as read, Pā. [6-1-110?]]` → `*aci ra ṛtaḥ* [as read, Pā. 7-2-100]` | SECOND-PASS S18: Kannada ಅಚಿರ ಋತಃ (ಪಾ. ಸೂ ೭-೨-೧೦೦) |
+| 347 | `[by *ādeśo 'ṇi sthānivat*, as read]` → `[by *sthānivad ādeśo 'nalvidhau*, as read]` | SECOND-PASS S18: Kannada ಸ್ಥಾನಿವದಾದೇಶೋಽನಲ್ವಿಧೌ |
+| 347 | `Uṇ. [1-139?]` → `Uṇ. 1-127` | SECOND-PASS S1: Kannada ಶ್ಯದಭಸೋಽದಿಃ (ಉ. ಸೂ. ೧-೧೨೭) |
+| 347 | `*yaddhṛttānnityam*` → `*yadvṛttān nityam*` | SECOND-PASS S18: Kannada ಯದ್ವೃತ್ತಾನಿತ್ಯಮ್ |
+| 350 | `Ni. [3-22?]` → `Ni. 3-22` | SECOND-PASS S1: Kannada (ನಿ. ೩-೨೨) |
+| 351 | `Tai. Saṃ. [2-5-4-3?]` → `Tai. Saṃ. 5-4-8-3` | SECOND-PASS S1: Kannada (ತೈ. ಸಂ. ೫-೪-೮-೩) |
+| 351 | `Ni. [3-2?]` → `Ni. 3-7` | SECOND-PASS S1: Kannada ಮರ್ತಶಬ್ದವು ಇಪ್ಪತ್ತೈದು ಮನುಷ್ಯವಾಚಕಗಳಲ್ಲಿ (ನಿ. ೩-೭) |
+| 351 | `tad agnir nākāmayata` → `tad agnir nyakāmayata` | SECOND-PASS S7: Kannada ತದಗ್ನಿರ್ನ್ಯಕಾಮಯತ |
+| 352 | `*ajjhasor asuk*` → `*ājjaser asuk*` | SECOND-PASS S18: Kannada ಆಜ್ಜಸೇರಸುಕ್ (ಪಾ. ಸೂ. ೭-೧-೫೦) |
+| 352 | `*luṅ*? [the print: *laṅ*]` → `*luṅ*` | SECOND-PASS S18: Kannada ಲುಜ್ ಪ್ರಥಮಪುರುಷ ಬಹುವಚನ (luṅ), not laṅ |
+| 352 | `*pruṣādi-*` → `*puṣādi-*` | SECOND-PASS S18: Kannada ಪುಷಾದಿದ್ಯುತಾದಿ (ಪಾ. ಸೂ. ೩-೧-೫೫) |
+| 352 | `*ātvasantasya*, [Pā. [6-4-14]]` → `*ātvasantasya*` | SECOND-PASS S2: Kannada ಅತ್ವಸಂತಸ್ಯ—ಸೂತ್ರದಿಂದ prints no sūtra number |
+| 353 | `*ātvasantasya cādhātoḥ*, Pā. [6-4-14]` → `*ātvasantasya cādhātoḥ*` | SECOND-PASS S2: Kannada ಅತ್ವಸಂತಸ್ಯಚಾಧಾತೋಃ prints no sūtra number |
+| 356 | `*pāghrādhmā…*, Pā. [7-3-78]` → `*pāghrādhmā…*` | SECOND-PASS S2: Kannada ಪಾಘ್ರಾಧ್ಮಾ—ಸೂತ್ರದಿಂದ prints no sūtra number |
+| 357 | `*ātmanepadeṣv ananataḥ*` → `*ātmanepadeṣv anataḥ*` | SECOND-PASS S18: Kannada ಆತ್ಮನೇಪದೇಷ್ವನತಃ (ಪಾ. ಸೂ. ೭-೧-೫) |
+| 360 | `stationary (grains) and the moving beings` → `stationary and the moving beings` | SECOND-PASS S16: Kannada ಸ್ಥಾವರರೂಪವಾಗಿರುವ ಮತ್ತು ಜಂಗಮ (ಚರ) ಪ್ರಾಣಿಗಳ ರೂಪದಿಂದ (no "grains") |
+| 361 | `in which the gods had hidden themselves in Agni` → `which the gods had hidden in Agni` | SECOND-PASS S14: Kannada ಅಗ್ನಿಯಲ್ಲಿ ದೇವತೆಗಳು ಗೂಢವಾಗಿ ಇರಿಸಿದ್ದ ಈ ಛಂದಸ್ಸಿನ ಗುಣಗಳ (the metre-qualities were hidden, not the gods) |
+| 362 | `*ajjhasor asuk*, Pā. [7-1-50]` → `*ajjaser asuk*, Pā. [7-1-50]` | SECOND-PASS S18: Kannada ಅಜ್ಜಸೇರಸುಕ್ (ಪಾ. ಸೂ. ೭-೧-೫೦) (jja, se-r; not jjha, so-r) |
+| 362 | `*naś chavy aprśān*` → `*naś chavy apraśān*` | SECOND-PASS S18: Kannada ನಶ್ಯವ್ಯಪ್ರಶಾನ್ (ಪಾ. ಸೂ. ೮-೩-೭): praśān |
+| 365 | `*kṛtyaktau ca saṃjñāyām*` → `*kticktau ca saṃjñāyām*` | SECOND-PASS S18: Kannada ಕ್ತಿಚ್ ಕ್ತೌ ಚ ಸಂಜ್ಞಾಯಾಂ (ಪಾ. ಸೂ. ೩-೩-೧೭೪) |
