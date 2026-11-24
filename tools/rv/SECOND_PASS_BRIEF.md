@@ -1,0 +1,22 @@
+# Second pass — reader's brief (any legacy volume N; the dispatcher gives N and the page range)
+
+You read printed pages A–B of volume N. Files: base = Kannada book `volN/Rigveda_Samhita_VolN_Kannada_Text.md` (`<!-- printed P -->` marks; supplied text, numerals correct); English `volN/Rigveda_Samhita_VolN_English_Translation.md` (`### Page P`). Hints (noisy, optional): `volN/review/recheck/pPPPP.md`. Kind codes: `docs/ERROR_KINDS.md` (S1 digit, S2 number from memory, S3 printed number missing, S7 quotation misread, S13 Kannada prose/names misread, S14 wrong sense, S15 wrong attribution, S16 addition, S17 omission, S18 grammar page misstated, H29 misprint silently put right).
+
+Read each page's Kannada against the English once, in this order:
+- **R1**: a number or reference missing, changed or from memory; a name or term wrong; roles reversed; an addition the Kannada does not have; an omission inside a paragraph; a misprint silently put right.
+- **R6**: a Kannada word that is not a word; a name or term misread for a look-alike; vowel signs of the wrong script; a sentence cut at a page break.
+- **R3**: a Sanskrit quotation inside the commentary that is not a word or not the text the English cites.
+Do NOT read the Saṃhitā, Pada or Sāyaṇa-bhāṣya blocks (`>` blockquote lines in the Kannada; Devanagari blocks in the English). Do not re-translate. Legacy marks (`[?]`, `[sic]`, "as read", `**GLOSS**`) stay: they are not findings. A grammar page whose English says it is a brief note: check numbers and sūtra names only.
+
+**Decision rule.** A number or reference is taken from the Kannada (the user's decision: its numerals are correct, even where it looks odd) → `applied`. When a printed `[?]` stands next to a number the Kannada has, the Kannada number replaces the whole doubtful form. A text place is `applied` only where the Kannada sentence, the grammar of the quotation or the gloss that follows it decides; otherwise `question`. Where the Kannada prints a non-word (misprint) and the English has silently corrected it, that is a `question`, never a silent change either way. Never settle a number or letter from memory or another edition; do not visit any website; never type Devanagari or IAST yourself: for a Sanskrit repair copy the letters from the Kannada text (the English Devanagari/IAST of a quotation are made from it) and say in the basis which letters changed.
+
+**Output (append only; never rewrite a file's header):**
+1. `volN/review/second_pass/findings.tsv`, columns exactly `page, kind, reader (R1|R3|R6), place, as_found, proposed, basis, decision (applied|question), log` (log empty). One row per finding, no tabs/newlines in fields.
+2. `volN/review/second_pass/questions.tsv`, columns `page, place, as_found, question, why_not_settled`, one row per `question` finding (`question`: what the editor must decide; `why_not_settled`: why the Kannada does not decide it).
+3. For every `applied` row an edit line in `volN/review/second_pass/edits/eA-B.tsv` (header `page\ttarget\told\tnew\tkind\tbasis`; `target` is `en` or `kn`; `old` = an exact substring that stands exactly ONCE on that page of that file, copied from the file, long enough to be unique; `new` = the replacement; for a Kannada-text edit `old`/`new` are exact Kannada-book strings). An English edit changes only the words the finding concerns. If a repair touches Devanagari and IAST of one quotation, make one edit line for each.
+4. Then run `python3 tools/rv/sp_apply.py N volN/review/second_pass/edits/eA-B.tsv`; read its result (`…result.tsv`). For each edit that is `not_found` or `ambiguous`, correct the edit line (copy the text from the file again) and run it again on a new file `eA-B_2.tsv`. An edit you cannot place becomes a `question` row (change its decision in findings.tsv by appending a new line, do not edit old ones; say so in the report).
+5. In findings.tsv the `log` column of an applied row stays empty (the apply script logs in `volN/review/repair_log.md` and, for Kannada, `volN/data/source_fixes.tsv`).
+
+Do not commit or push; do not touch other files.
+
+**Report** (short): pages read; findings by kind and reader; applied (edits applied / failed after retry); questions; five example applied repairs old → new; difficulties (pages you could not align, pages where the English is a summary). Count only what you ran.
