@@ -20546,6 +20546,311 @@ O Indra, नाहुषीषु (*nāhuṣīṣu*): नहुषा (*nahuṣ�
 
 O Indra, the power consisting of a host of swift horses that you formerly filled and gave among the subjects belonging to men, give that very thing to us also.
 
+### Printed p. 505
+
+##### English translation
+May that herd of swift horses; which formerly shone among the people of Nahusha, (be granted), Indra to us.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि व्र॒जं न त॑त्निषे॒ सूर॑ उपा॒कच॑क्षसं ।  
+> यदिं॑द्र मृ॒ळया॑सि नः ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । व्रजं । न । तत्निषे । सूरः । उपाकचक्षसं ।  
+> यत् । इंद्र । मृळयासि । नः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न संप्रत्यर्थे । न संप्रतीदानीं हे इंद्र सूरः प्राज्ञस्त्वं व्रजं गोष्ठमुपाकचक्षसं । उपाक इत्यंतिकनाम । अंतिके द्रष्टव्यमभि तत्निषे । अभितनोषि ।
+> अभिविस्तारयसि । गोभिः पूर्णं करोषीत्यर्थः ॥ तनोतेश्छांदसे लिट तनिपत्योश्चंदसीत्युपधालोपः ॥ यद्यदा हे इंद, त्नं नोऽस्मान् मृळयासि मृळॆयसि
+> सुखयसि ॥
+
+##### Gist of the bhāṣya
+
+न (*na*) is used here in the sense of "now". O Indra, you who are wise, now you fill the cow-pen (व्रजं (*vrajaṃ*)), which is उपाकचक्षसं (*upākacakṣasaṃ*); उपाक (*upāka*) is a name for "near", so it is a place to be seen close by. *abhi tatniṣe* means "you spread out", that is, you fill it full of cows. यत् (*yat*) means "when": when, O Indra, you make us happy (मृळयासि (*mṛḷayāsi*) = सुखयसि (*sukhayasi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- नः (*naḥ*)—us
+- मृळयासि (*mṛḷayāsi*)—you wish to make us fit recipients of happiness, then (that is)
+- न (*na*)—in the present case
+- सूरः (*sūraḥ*)—you who are wise
+- व्रजं (*vrajaṃ*)—the herd of cows
+- उपाकचक्षसं (*upākacakṣasaṃ*)—in the pastures seen close at hand
+- अधि तत्निषे (*adhi tatniṣe*)—you spread out
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, at this time, when you who are wise wish to make us happy, you spread the herds of cows over these pastures that are seen close to us.
+
+### Printed p. 506
+
+##### English translation
+Sage Indra, you spread (the cattle) over the adjacent pastures when you are favourably inclined toward us.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदं॒ग त॑विषी॒यस॒ इंद्र॑ प्र॒राज॑सि क्षि॒तीः ।  
+> म॒हा अ॑पा॒र ओज॑सा ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अंग । तविषीयसे । इंद्र । प्रराजसि । क्षितीः ।  
+> महान् । अपारः । ओजसा ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगेत्यभिमुखीकरणे । हे इंद्र यद्यस्त्वं तविषीयसे । तविषीति बलनाम ।
+> बलमिवाचरसि । हस्त्यश्वरथादिकं बलं यथा सर्वं शत्रुजातं मनक्ति तद्वत्त्वमसहाय एव सन् सर्वमेव शत्रुजातं मारयसीत्यर्थः । यश्च त्वं क्षितीः ।
+> मनुष्यनामैतत् । मनुष्यान् प्रराजसि प्रकर्षणेशिषे । राजतिरैश्वर्यकर्मा ॥
+> अस्यापि यद्वृत्तयोगान्न निघातः ॥ स इंद्र ऒजसा बलेन महान् सर्वेभ्योऽधिकः
+> आत एवापारः पाररहितः । केनाप्यवसानं प्रापयितुमशक्य इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+अंग (*aṃga*) is used to turn the hearer's attention. O Indra, when you act like strength (तविषी (*taviṣī*) is a name for strength): just as the strength of elephants, horses, chariots and the like destroys the whole mass of enemies, so you, even without a helper, slay the whole mass of enemies. And you rule (प्रराजसि (*prarājasi*)) over क्षितीः (*kṣitīḥ*), a name for men, exercising excellent lordship; राजति (*rājati*) is a verb of lordship. Because of its connection with यत् (*yat*), the verb is not accentless (न निघातः (*na nighātaḥ*)). That Indra is great by ओजसा (*ojasā*), strength, that is, superior to all; for that very reason he is अपारः (*apāraḥ*), without limit: no one can bring him to an end.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंग इंद्र (*aṃga iṃdra*)—O Indra
+- यत् (*yat*)—when
+- तविषीयसे (*taviṣīyase*)—you display your strength (then)
+- क्षितीः (*kṣitīḥ*)—over all men
+- प्रराजसि (*prarājasi*)—you exercise surpassing lordship (and)
+- ओजसा (*ojasā*)—by your power
+- महान् (*mahān*)—you are exceedingly great
+- अपारः (*apāraḥ*)—and of boundless nature
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you display your strength, you exercise surpassing lordship over all men; and by your power you are exceedingly great and of boundless nature.
+
+### Printed p. 507
+
+##### English translation
+When you put forth your might, you reign, Indra, over mankind: surpassing are you, and unlimited in strength.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ ह॒विष्म॑ती॒र्विश॒ उप॑ ब्रुवत ऊ॒तये॑ ।  
+> उ॒रु॒ज्रय॑स॒मिंदु॑भिः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । त्वा । हविष्मतीः । विशः । उप । ब्रुवते । ऊतये ।  
+> उरुज्रयसं । इंदुभिः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तं पूर्वोक्तगुणमुरुज्रयसं विस्तीर्णव्यापिनं त्वां हविष्मतीर्हविर्भिश्चरुपुरोडाशादिभिर्युक्ता विशः प्रजा उप ब्रुवते । उपेत्य स्तुवंति ।
+> किमर्थं । इंदुभिः सोमैरूतये तर्पणाय । यद्वा । इंदुभिः सोमैरुरुज्रयसं विस्तीर्णजवमूतये रक्षणाय स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the people (विशः (*viśaḥ*)), provided with oblations (हविष्मतीः (*haviṣmatīḥ*))—cooked offerings, cakes (चरुपुरोडाश (*carupuroḍāśa*)) and the like—approach and praise you, who have the qualities described before and are उरुज्रयसं (*urujrayasaṃ*), far-spreading and pervading. For what purpose? With the soma-drops (इंदुभिः (*iṃdubhiḥ*)), for satisfaction (ऊतये (*ūtaye*)). Or else: with soma they praise you, whose speed is wide, for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं (*taṃ*)—you who are renowned, described before
+- सोमैः (*somaiḥ*)—by draughts of soma
+- उरुज्रयसं (*urujrayasaṃ*)—of extended power
+- त्वा (*tvā*)—you
+- हविष्मतीः (*haviṣmatīḥ*)—ready, holding oblations to offer to you
+- विशः (*viśaḥ*)—the people
+- ऊतये (*ūtaye*)—for protection
+- उप ब्रुवते (*upa bruvate*)—approach and praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the people, ready with oblations to offer to you, approach and praise you for protection—you who are renowned as described before, and whose power is extended by draughts of soma.
+
+##### English translation
+The people offering oblations call upon you, the pervader of space, with libations for protection.
+
+### Printed p. 508
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒प॒ह्व॒रे गि॑री॒णां सं॑ग॒थे च॑ न॒दीनां॑ ।  
+> धि॒या विप्रो॑ अजायत ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपह्वरे । गिरीणां । संगथे । च । नवीनां ।  
+> धिया । विप्रः । अजायत ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गिरीणां पर्वतानमुपह्वर उपह्वर्तव्ये प्रांते नदीनां सरितां संगथे संगमने च ईदृग्विधे देशे क्रियमाणया धिया यागक्रियया स्तुत्या वा विप्रो
+> मेधावींद्रोजायत । प्रादुर्भवति । अतो वयमपि तादृशे देशे यजामः
+> स्तुमो वेति भावः ॥ गिरीणामित्यत्र नामन्यतरस्यामिति नाम उदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+In the उपह्वरे (*upahvare*), the approachable border, of the mountains (गिरीणां (*girīṇāṃ*)), and at the confluence (संगथे (*saṃgathe*)) of rivers—in a place of this kind, by the rite (धिया (*dhiyā*)) performed there, the sacrifice or the praise, the wise (विप्रः (*vipraḥ*)) Indra is born, that is, appears. Hence the sense is: we too sacrifice or praise in such a place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिरीणां (*girīṇāṃ*)—of the mountains
+- उपह्वरे (*upahvare*)—in the foothill regions
+- नदीनां (*nadīnāṃ*)—of the rivers
+- संगथे च (*saṃgathe ca*)—and in the regions of confluence
+- विप्रः (*vipraḥ*)—the wise Indra
+- धिया (*dhiyā*)—as the result of sacrificial rites
+- अजायत (*ajāyata*)—comes to manifestation
+
+##### भावार्थ (Bhāvārtha)
+
+In the foothill regions of the mountains and in the regions where rivers meet, the wise Indra comes to manifestation (becomes visible) as the result of sacrificial rites.
+
+##### English translation
+The wise (Indra) has been engendered by holy rites on the skirts of the mountains, at the confluence of rivers.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अतः॑ समु॒द्रमु॒द्वत॑श्चिकि॒त्वा अव॑ पश्यति ।
+
+### Printed p. 509
+
+> यतो विपान विजति ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतः । समुद्रं । उत्सवतः । चिकित्वान् । अव । पश्यति ।  
+> यतः । विपानः । विजति ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यतो यस्मिन्दुलोके विपानो व्याप्नुवन् विशिष्टपानयुक्तो वेंद्र
+> एजति चेष्टते उद्धत उद्धतात्॥ उपसर्गाच्छंदसि धात्वर्थ इति वतिः ॥ अतोऽस्माद्भुलोकाच्चिकित्वाञ्चानन् स इंद्रः समुद्रं समुंदनशीलं यजमानैर्दीयमानं
+> सोममन पश्यति । अवाङ्मुखः सन्नीक्षते । यद्वा । सूर्यात्मनेंद्रः स्तूयते ।
+> यस्मिन्नभसि विपानो व्याप्नुवन् सूर्यात्मेंद्र एजति वर्तते चिकित्वाञ्चानन्
+> विद्वान्वास इंद्र उद्धत उद्धतादतोऽस्मादंतरिक्षात्समुद्रं । उपलक्षणमेतत् ।
+> समुद्रोपलक्षितं सर्वं जगदव पश्यति । अवाङ्मुखं प्रसृतैः किरणैः प्रकाशयति ॥
+
+##### Gist of the bhāṣya
+
+यतः (*yataḥ*) means "in which heavenly world": there Indra, विपानः (*vipānaḥ*)—pervading, or endowed with distinguished drinking—moves about (एजति (*ejati*) = चेष्टते (*ceṣṭate*)). उद्वतः (*udvataḥ*) is "from the height". From this heavenly world, चिकित्वान् (*cikitvān*), knowing, that Indra looks down (अव पश्यति (*ava paśyati*)) on the समुद्रं (*samudraṃ*), the flowing soma given by the sacrificers, facing downward.
+Or else: Indra is praised as identical with the sun. In the sky in which Indra, the sun-self, pervading, moves, knowing, from this high sky he looks down on the whole world, of which the ocean is the indication (उपलक्षण (*upalakṣaṇa*)), lighting it with his rays spread downward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतः (*yataḥ*)—in which heavenly world
+- विपानः (*vipānaḥ*)—the pervading Indra
+- विजति (*vijati*)—acts
+- उद्वतः (*udvataḥ*)—a region of great height
+- अतः (*ataḥ*)—from that same heavenly world (looking)
+- चिकित्वान् (*cikitvān*)—knowing the sacrificial rites and the like of the sacrificers
+- समुद्रं (*samudraṃ*)—the soma offered by the sacrificers in a stream
+- अव पश्यति (*ava paśyati*)—looks down, bending
+
+##### भावार्थ (Bhāvārtha)
+
+From that very heavenly world, a region of great height, in which the pervading Indra acts, he looks down, knowing the sacrificial rites and the like of the sacrificers, on the soma offered by them in a stream.
+
+##### English translation
+From the lofty region in which pervading he abides, Indra the intelligent looks down upon the offered libation.
+
+### Printed p. 510
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदित्प्र॒त्नस्य॒ रेत॑सो॒ ज्योति॑ष्पश्यंति वास॒रं ।  
+> प॒रो यदि॒ध्यते॑ दि॒वा ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । इत् । प्रत्नस्य । रेतसः । ज्योतिः । पश्यंति । वासरं ।  
+> परः । यत् । इध्यते । दिवा ॥ ३८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परो दिवा दिवः परस्ताद्दुलोकस्योपरि यद्यदायमिंद्रः सूर्यात्मनेदृशे दीप्यते आदिदनंतरमेव प्रत्नस्य चिरंतनस्य रेतसो गंतुः॥ री गतिरेषणयोः ।
+> अस्मात् स्तुरीभ्यां तुट्टि । उ- ४-२०१ । इत्यसुन् तुडागमश्च ॥ यद्वा । रेत इद्युदकनाम । रेतस्विन उदकवतः । सामर्थ्यान्मत्वर्थो लक्ष्यते । ईदृशस्येंद्रस्य सूर्यात्तनो वासरं निवासकं वासरस्य निवासस्य हेतुभूतं वा ज्योतिर्दॊतमानं तेज
+> पश्यंति सर्वॆ जनाः । यद्वा । वासरमित्यत्यंतसंयोगे द्वितीया । कृत्समहरुदयप्रभृत्यास्तमनं यावज्योतिष्पश्यंतीत्यर्थः ॥ इसुसोः सामर्थ्य इति विसर्जनीयस्य षत्वं ॥
+
+##### Gist of the bhāṣya
+
+परो दिवा (*paro divā*) means above the heavenly world. When this Indra, as the sun, shines in such a way, then immediately (आदित् (*ādit*)) all people see the light of the ancient (प्रत्नस्य (*pratnasya*), long-standing) रेतसः (*retasaḥ*). रेतसः (*retasaḥ*) is explained as "of the goer", from the root री (*rī*) meaning going and desiring. Or else: रेत (*reta*) is a name for water; रेतस्विन (*retasvina*) is "one having water", the possessive sense being understood from the context. They see the shining light of such an Indra, the sun, which is वासरं (*vāsaraṃ*), the maker of dwelling, or the cause of day and dwelling. Or else: वासरं (*vāsaraṃ*) is in the accusative of continuous duration, and the sense is that they see the light all the time, from sunrise until sunset.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परः दिवा (*paraḥ divā*)—in the upper part of the heavenly world
+- यत् (*yat*)—when
+- इध्यते (*idhyate*)—this Indra shines in the form of the sun
+- आदित् (*ādit*)—immediately after that
+- प्रत्यस्य (*pratyasya*)—of the ancient
+- रेतसः (*retasaḥ*)—of this Indra, who is filled with water
+- वासरं (*vāsaraṃ*)—daily
+- ज्योतिः (*jyotiḥ*)—the radiance
+- पश्यंति (*paśyaṃti*)—all people see
+
+##### भावार्थ (Bhāvārtha)
+
+When in the upper part of the heavenly world this Indra shines in the form of the sun, immediately all people see the daily radiance of this Indra, who is ancient and filled with water.
+
+##### English translation
+Then (men) behold the daily light of the ancient shedder of water, when he shines above the heaven.
+
+### Printed p. 511
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कण्वा॑स इंद्र ते म॒तिं विश्वे॑ वर्धंति॒ पौंस्यं॑ ।  
+> उ॒तो श॑विष्ठ॒ वृष्ण्यं॑ ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कण्वासः । इंद्र । ते । मतिं । विश्वे । वर्धंति । पौंस्यं ।  
+> उतो इति । शविस्थ । वृष्ट्यं ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयां मतिं बुद्धिं पौंस्यं । बलनामैतत् । बलं च विश्वे
+> सर्वॆ कण्वासः कण्वाः स्तोतारः कण्वगोत्रा वर्षयो वर्धंति । वर्धयंति ॥ छंदस्युभयथेति शप आर्धधातुकत्वाण्णीरनिटीति णिलोपः ॥ उतो अपि च हे शविष्ठ शवस्वितम बलवत्तम ॥ विन्मत्तोर्लुक् । टेरिति टिलोपः ॥ ईदृशेंद्र वृष्ण्यं त्वदीयं
+> वीर्यं बलकर्म च कण्वासो वर्धयंतेव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, all the Kaṇvas, the praisers of the Kaṇva lineage, the seers, increase (वर्धंति (*vardhaṃti*) = वर्धयंति (*vardhayaṃti*)) your intelligence (मतिं (*matiṃ*)) and your पौंस्यं (*pauṃsyaṃ*), which is a name for strength. And also, O शविष्ठ (*śaviṣṭha*), most powerful, the Kaṇvas make grow such वृष्ण्यं (*vṛṣṇyaṃ*) of yours, your vigour and deed of strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- मतिं (*matiṃ*)—discerning intelligence
+- पौंत्यं (*pauṃtyaṃ*)—and strength
+- विश्वे (*viśve*)—all
+- कण्वासः (*kaṇvāsaḥ*)—the seers of the Kaṇva lineage also
+- वर्धंति (*vardhaṃti*)—cause to increase
+- शविष्ठ (*śaviṣṭha*)—O Indra, most powerful
+- उतो (*uto*)—likewise
+- वृष्ण्यं (*vṛṣṇyaṃ*)—your vigour also, they make grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, all the seers of the Kaṇva lineage cause your discerning intelligence and your strength to increase. O Indra, most powerful, likewise they make your vigour grow.
+
+##### English translation
+All the Kanwas, Indra, magnify your wisdom, your manhood, and, most mighty one, your strength.
+
 ---
 
-**Progress note:** Done through printed p. 504. pp. 499-504 (batch API)
+**Progress note:** Done through printed p. 511. pp. 505-511 (batch API)
