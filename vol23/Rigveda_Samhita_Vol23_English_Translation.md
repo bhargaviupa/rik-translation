@@ -9136,6 +9136,283 @@ The sage Vasiṣṭha once, desiring rain (with the wish that rain should come),
 
 The words मंडूकाः (*maṃḍūkāḥ*) and मज्जुकाः (*majjukāḥ*) are synonyms conveying one meaning. "From मज्जनात् (*majjanāt*)": because frogs are always immersed, or are immersing themselves, in water, they get the name मज्जुकाः (*majjukāḥ*). Or it may be formed from the root मद् (*mad*), meaning "to rejoice", or from the root मंद् (*maṃd*), meaning "to be content"; for frogs live in water with joy and contentment. Or, according to the grammarians, the word मंडूक (*maṃḍūka*) may be formed from the root मंड् (*maṃḍ*), meaning "to adorn"; their argument is that the frogs' bodies are fashioned adorned with many kinds of colours. Or मंडे (*maṃḍe*) means "in water", and ओकः (*okaḥ*) is "their dwelling"; so they may have got the name मंडूकाः (*maṃḍūkāḥ*). Or the word मंड (*maṃḍa*) (water) is formed from the root मद् (*mad*), meaning "to be glad", or from the root मुद् (*mud*), meaning "to be joyful"; because they are joyful in such water, frogs have got the name मंडूकाः (*maṃḍūkāḥ*). This is the main purport of the etymology.
 
+### Printed p. 227
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संवत्सरमिति दशर्चं चतुर्दशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभं । आद्या त्वनुष्टुप्! मंडूका देवता । तथा चानुक्रांतं । संवत्सरं दश पर्जन्यस्तुतिः संहृष्टान्मंडूकांस्तुष्टावाद्यानुष्टुबिति ॥ वृष्टिकामेनैतत्तूक्तं जप्यं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the ten-Ṛk fourteenth sūkta, beginning संवत्सरं (*saṃvatsaraṃ*), has Vasiṣṭha as its seer, the Maṇḍūkas (frogs) as its deity, and the Triṣṭubh metre. The first verse alone is in Anuṣṭubh. He quotes the Anukramaṇī: संवत्सरं दश पर्जन्यस्तुतिः संहृष्टान्मंडूकांस्तुष्टावाद्यानुष्टुबिति ॥ व (*saṃvatsaraṃ daśa parjanyastutiḥ saṃhṛṣṭānmaṃḍūkāṃstuṣṭāvādyānuṣṭubiti ‖ va*) This sūkta is to be muttered (japa) by one who desires rain.
+
+##### Anuvāda
+
+This sūkta beginning संवत्सरं (*saṃvatsaraṃ*) is the fourteenth sūkta in the sixth anuvāka. It has ten Ṛks. Vasiṣṭha is the seer of this sūkta; the Maṇḍūkas (frogs) are the deity; the metre is Triṣṭubh. Only the first Ṛk is in the Anuṣṭubh metre. In the Anukramaṇī it is said: संवत्सरं दश पर्जन्यस्तुतिः संहृष्टान्मंडूकांस्तुष्टावाद्यानुष्टुप् ऎ (*saṃvatsaraṃ daśa parjanyastutiḥ saṃhṛṣṭānmaṃḍūkāṃstuṣṭāvādyānuṣṭup è*). Those who wish for rain should mutter this sūkta.
+
+##### Particulars
+
+Sūkta 103 (printed 1034). **NOTE**
+Maṇḍala 7; Anuvāka 6; Aṣṭaka 5; Adhyāya 7; Varga 3, 4.
+Number of Ṛks in the sūkta: 10.
+Seer: Vasiṣṭha. Deity: the Maṇḍūkas (frogs). Metre: Ṛk 1 Anuṣṭubh; Ṛks 2–10 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं॒व॒त्स॒रं श॑शया॒ना ब्रा॑ह्म॒णा व्र॑तचा॒रिणः॑ ।  
+> वाचं॑ प॒र्जन्य॑जिन्वितां॒ प्र मं॒डूका॑ अवादिषुः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संवत्सरं । शशयानाः । ब्राह्मणाः । व्रतचारिणः ।  
+> वाचं । पर्जन्यजिन्नितां । प्र । मंडूकाः । अवादिषुः ॥ १ ॥
+
+### Printed p. 228
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र निरुक्तं । वसिष्ठो वर्षकामः पर्जन्यं तुष्टाव । तं मंडूका अन्वमोदंत स मंडूकाननुमोदमानान् दृष्ट्वा तुष्टाव । नि. ९-६ । इति ।
+> मंडूका मज्गू का मज्जनान्मदतेर्वा मोदतिकर्मणो मंदतेर्वा तृप्ति कर्मणो मंडयतेरिति वैयाकरणा मंड एषामोक इति वा मंडो मदेर्वा
+> मुदेर्वा तेषामेषा भवति । नि. ९-५ ॥ इति ॥ व्रतचारिणो व्रतं संवत्सरसत्प्रात्मकं कर्माचरंतो ब्राह्मणाः । लुप्तोपममेतत् । एवंभूता ब्राह्मणा इव
+> संवत्सरं शरत्प्रभृत्या वर्षर्तोरेकं संवत्सरं शशयानाः शिश्याना वर्षणार्थं तपश्चरुत इव बिल एव संत एशे मंडूकाः पर्जन्यजिन्वितां पर्जन्येन प्रीतां यया
+> वाचा पर्जन्यः प्रीतो भवति तादृशीं वाचं प्रावादिसुः । प्रवदंति ॥
+
+##### Gist of the bhāṣya
+
+On this Ṛk the Nirukta says: Vasiṣṭha, desiring rain, praised Parjanya; the frogs rejoiced along with him, and seeing the frogs rejoicing he praised them (Ni. 9-6). On the word मंडूका (*maṃḍūkā*) the Nirukta (Ni. 9-5) derives it from sinking (majjana), or from the root mad of the sense of rejoicing, or from the root mand of the sense of satisfaction; the grammarians derive it from मंडयते (*maṃḍayate*); or it is "maṇḍa is their abode (oka)"; or maṇḍa comes from mad or from mud, and this (the verse) belongs to them. **NOTE**
+Then Sāyaṇa explains: व्रतचारिणः (*vratacāriṇaḥ*) are those performing the observance, i.e. the rite of the year-long sattra; they are Brāhmaṇas. The simile is elided: "like such Brāhmaṇas". The frogs lie (शशयानाः (*śaśayānāḥ*)) for one year, from autumn to the rainy season, remaining in the hole as if practising austerity for the sake of rain. पर्जन्यजिन्वितां (*parjanyajinvitāṃ*) means pleased by Parjanya: they utter such speech as makes Parjanya pleased.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- व्रतचारिणः (*vratacāriṇaḥ*)—those who practise the observance of the year-long sattra
+- ब्राह्मणाः (*brāhmaṇāḥ*)—like Brāhmaṇas
+- सुवत्सरं (*suvatsaraṃ*)—for a year (from autumn to the rainy season)
+- शशयानाः (*śaśayānāḥ*)—being as if practising austerity in silence
+- मंडूकाः (*maṃḍūkāḥ*)—frogs
+- पर्जन्यजिन्वतां (*parjanyajinvatāṃ*)—agreeable to Parjanya
+- वाचं (*vācaṃ*)—speech
+- प्र अनादिषुः (*pra anādiṣuḥ*)—utter
+
+##### भावार्थ (Bhāvārtha)
+
+Like Brāhmaṇas who perform the observance of the year-long sattra, the frogs, having remained silent for a year, that is from autumn to the rainy season, as if practising austerity, utter speech that is agreeable to Parjanya.
+
+##### English translation
+The frogs, like Brahmans, observant of their vows, practising penance throughout the year, utter aloud praises agreeable to Parjanya.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an explanation for this Ṛk:
+संवत्सरं शिश्याना ब्राह्मणा व्रतचारिणोऽब्रुवाणाः । अपि वोपमार्थे स्याद्ब्राह्मणा इव व्रतचारिण इति । वाचं पर्जन्यप्रीतां प्रावादिषुर्मंडूकाः ॥ (*saṃvatsaraṃ śiśyānā brāhmaṇā vratacāriṇo 'bruvāṇāḥ | api vopamārthe syādbrāhmaṇā iva vratacāriṇa iti | vācaṃ parjanyaprītāṃ prāvādiṣurmaṃḍūkāḥ ‖*) (Ni. 9-6)
+Yāska's explanation of this Ṛk is of two kinds. One: in sacrifices such as the sattra, performed for a year, the Brāhmaṇas observe vow-rules such as keeping silent for a year, that is from autumn to the rainy season,
+
+### Printed p. 229
+and as soon as the rainy season begins, with the completion of the vow they joyfully recite the mantras in the form of hymns that please the deity Parjanya; this is one kind of meaning. Or else, taking the example of the vow-observing Brāhmaṇas, the meaning may be specified as "the frogs made sound". In this case: for a year, that is from autumn to the rainy season, they remain silent and perform sacrifices; at the end they give up the silence and, praising the deity Parjanya with mantras, the Brāhmaṇas make a loud sound. In just the same way the frogs, because all the water on the earth has dried up, live silently in the crevices of rocks, unseen by anyone and making no kind of sound until the rainy season returns, and as soon as rain comes they begin to sound loudly with great joy. This sound of the frogs is like the sound of the Vedic mantras of Brāhmaṇas reciting the Veda when, at the end of the vow, having completed the vow of silence, they praise Parjanya. That is, another kind of meaning is also possible: the frogs are sounding loudly with joy in order to please Parjanya. So Yāska has explained.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒व्या अपो॑ अ॒भि यदे॑न॒मय॒न्दृतिं॒ न शुष्कं॑ सर॒सी शया॑नं।  
+> गवा॒मह॒ न मा॒युर्व॒त्सिनी॑नां मं॒डूका॑नां व॒ग्नुरत्रा॒  ॑
+> समेति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिव्याः । आपः । अभि । यत् । एनं । आयन् । दृतिं । न । शुष्कं । सरसी इति ।  
+> शयानं ।  
+> गवां । अह । न । मायुः । वत्सिनीनां । मंडूकानां । वग्नुः । अत्र । सं । एति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिव्या दिवि भवा आपो दृतिं न दृतिमिन शुष्कं नीरसं सरसी ॥ महत्सरः सरसी ।
+> गौरादिलक्षणो जीष् । सरस्यां । सुपां सुलुगिति सप्तम्या लुक् । ईदूत् च सप्तम्यर्थ इति प्रगृह्यसंज्ञा ॥ महति सरसि निर्जले घर्मकाले शयानं निवसंतमेनं
+
+##### Gist of the bhāṣya
+
+दिव्या (*divyā*) are the waters that exist in heaven. दृतिं न (*dṛtiṃ na*) means "like a waterskin"; शुष्कं (*śuṣkaṃ*) is dry, juiceless. सरसी (*sarasī*) is a great lake (the form in the locative is explained in the grammatical part). In the summer season, in a great waterless lake, lies this troop of frogs; when the waters come upon it,
+
+### Printed p. 230
+
+> मंडूकगणं यद्यदायन् अभिगच्छंति तदात्रास्मिन्वर्षणे पर्जन्ये वा सति वत्सिनीनां
+> वत्सयुक्तानां गवां न मायुर्गवां शब्द इव मंडूकानां वग्नुः शब्दः समेति ।
+> संगच्छते । यथा वत्सैः संगतासु गोषु महान् घोषो जायते तद्वद्वृष्टे
+> पर्जन्ये महान् कलकलशब्दो जायत इत्यर्थः । अहेति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+then, in this rain or when Parjanya rains, the croaking of the frogs comes together (समेति (*sameti*), assembles), like the lowing (मायुः (*māyuḥ*)) of cows (वत्सिनीनां (*vatsinīnāṃ*)) joined with their calves. As a great noise arises when the cows are joined by their calves, so when Parjanya rains a great clamour arises; this is the meaning. अह (*aha*) is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दृतिं न (*dṛtiṃ na*)—as a dry leather bag is spread out
+- शुष्कं (*śuṣkaṃ*)—waterless (through the summer)
+- सरसी (*sarasī*)—in a great lake
+- शयानं (*śayānaṃ*)—lying asleep
+- एनं अभि (*enaṃ abhi*)—upon this troop of frogs
+- यत् (*yat*)—when
+- दिव्याः (*divyāḥ*)—born in the heavenly world
+- आपः (*āpaḥ*)—the waters of rain
+- आयन् (*āyan*)—come and fall
+- अत्र (*atra*)—at this time of rain
+- वत्सिनीनां (*vatsinīnāṃ*)—joined with calves
+- गवां मायुः न (*gavāṃ māyuḥ na*)—like the lowing of cows
+- मंडूकानां (*maṃḍūkānāṃ*)—of frogs
+- वग्नुः (*vagnuḥ*)—the sound
+- (अह) समेति (*(aha) sameti*)—goes forth together
+
+##### भावार्थ (Bhāvārtha)
+
+As a dry leather bag is spread out, so, in a great lake that has become waterless and dry through the summer, this troop of frogs lay asleep; when the rain-waters born in the heavenly world come and fall upon them, at such a time of rain the croaking of the frogs goes forth together, like the lowing of cows joined with their calves.
+
+##### English translation
+When the waters of the sky fall upon (the troop of frogs) sleeping in the (exhausted) lake like a dry waterskin ; then rises together the croaking of the frogs, like the bellowing of cows when joined by their calves.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदी॑मेनां उश॒तो अ॒भ्यव॑र्षित्त्वाप्॒यव॑तः प्रा॒वृष्याग॑तायां ।  
+> अ॒ख॒ली॒कृत्या॑ पि॒तरं॒न पु॒त्रो अ॒न्नो अ॒न्यमुप॒ वदं॑तमेति॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ईं । एनान् । उशतः । अभि । अवर्षित् । तृष्णावतः । प्रावृषि ।  
+> आगतायां ।
+
+### Printed p. 231
+
+> अखलीकृत्य । पितरं । न । पुत्रः । अन्यः । अन्यं । उप । वदंतं । एति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उशतः कामायमानांस्त्रष्यावतस्तृष्णावत एनान्मंडूकान्; प्रावृषि वर्षर्तावागतायामागते सति यद्यदाभ्यवर्षीत् पर्जन्यो जलैरभिषिंचति । ईमिति पूरणः।
+> तदानीमख्यलीकृत्य । अब्खल इति शब्दानुकरणं । अब्खलशब्दं कृत्वा पुत्रः पितरं न
+> पितरमिवान्यो मंडूको वदंतं शब्दयंतमन्यं मंडूकमुपैति । प्राप्नोति ॥
+
+##### Gist of the bhāṣya
+
+When the rainy season has come, when Parjanya sprinkles with water these frogs, who are longing (उशतः (*uśataḥ*)) and thirsty (तृष्णावतः (*tṛṣṇāvataḥ*)) — ईं (*īṃ*) is an expletive — then, making the sound "abkhala" (an imitation of sound), as a son goes to his father, one frog approaches another frog that is sounding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशतः (*uśataḥ*)—those that desire rain
+- तृष्यावतः (*tṛṣyāvataḥ*)—and that have been thirsty for water throughout the summer
+- एनान् (*enān*)—upon these frogs
+- प्रावृषि (*prāvṛṣi*)—the rainy season
+- आगतायां (*āgatāyāṃ*)—having begun
+- यत् (*yat*)—when
+- अभ्यवर्षित् (*abhyavarṣit*)—Parjanya sends down rain (then)
+- अख्यलीकृत्य (*akhyalīkṛtya*)—uttering stammering words
+- पुत्रः (*putraḥ*)—a young child
+- पितरं न (*pitaraṃ na*)—as approaching its father
+- अन्यः (*anyaḥ*)—one frog
+- वदंतं (*vadaṃtaṃ*)—that is sounding
+- अन्यं (*anyaṃ*)—another
+- उप एति (*upa eti*)—approaches
+
+##### भावार्थ (Bhāvārtha)
+
+When the rainy season has begun, and Parjanya sends down rain upon these frogs, which desire rain and have been thirsty for water throughout the summer, then, uttering stammering words, as a young child approaches its father, one frog approaches another frog that is sounding.
+
+##### English translation
+When the rainy season has arrived, and (Parjanya) has sent the rain upon them, thirsty and longing (for its coming), then one frog meets another croaking (his congratulations) as a child (calls to) its father with inarticulate ejaculations.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्यो अ॒न्यमनु॑ गृभ्वात्येनोर॒पां प्र॑स॒र्गे यदमं॑दिषातां ।
+
+### Printed p. 232
+
+> मंडूको यदभिवृष्टः कनिष्ठन्पृश्निः संपृंक्ते हरितेन  
+> वाचं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्यः । अन्यं । अनु । गृभ्णाति । एनोः । अपां । प्रसर्गे । यत् । अमंदिषातां ।  
+> मंडूकः । यत् । अभिवृष्टः । कनिस्कन् । पृश्निः । संपृंक्ते । हरितेन । वाचं ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एनोरेनयोर्द्वयोर्मंडूकयोरन्यो मंडूकोऽन्यं मंडूकमनुगम्य
+> गृभ्णाति । गृह्णांति । अपामुदकानां प्रसर्गे प्रसर्जने वर्षणे सति यद्यदामंदिषातां हृष्टावभूतां । यद्यदा चाभिवृष्टः पर्जन्येनाभिषिक्तः कनिष्ठन् ॥ स्कंदतेर्यज्लुगंतस्य रूपं॥भृशं स्कंदन्नुत्पलवं कुर्वन् पृश्निः पृश्निवर्णो मंडूको हरितेन हरितवर्णेनान्येन मंडूकेन वाचं संपृक्ते संयोजयति उभावप्येकविधं
+> शब्दं कुर्वाते । तदानीमन्योऽन्यमनु गृभ्णातीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Of these two frogs, one frog goes after the other and seizes it (गृभ्णाति (*gṛbhṇāti*) stands for the plural गृह्णांति (*gṛhṇāṃti*)). When, at the sending forth (प्रसर्गे (*prasarge*)) of the waters, that is at the raining, the two have become delighted (अमंदिषातां (*amaṃdiṣātāṃ*)); and when the speckled (पृश्निः (*pṛśniḥ*), speckled in colour) frog, drenched by Parjanya's rain, leaping up repeatedly (कनिष्ठन् (*kaniṣṭhan*), a form from the root skand in the intensive-with-luk form), joins its voice (वाचं संपृक्ते (*vācaṃ saṃpṛkte*)) with the green (हरितेन (*haritena*)) one, both make one kind of sound; then one seizes the other — this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां (*apāṃ*)—of the waters
+- प्रसर्गे (*prasarge*)—at the raining
+- यत् (*yat*)—when
+- अमंदिषातां (*amaṃdiṣātāṃ*)—these two frogs that are together show delight (and)
+- यत् (*yat*)—when
+- अभिवृष्टः (*abhivṛṣṭaḥ*)—drenched by the rain
+- कनिष्ठन् (*kaniṣṭhan*)—making sound
+- पृश्निः (*pṛśniḥ*)—one frog of speckled colour
+- हरितेन (*haritena*)—with another frog of green colour (with its sound)
+- वाचं संपृंते (*vācaṃ saṃpṛṃte*)—joins its voice in the form of sound (then)
+- एनोः (*enoḥ*)—of these two frogs
+- अन्यः मंडूकः (*anyaḥ maṃḍūkaḥ*)—one frog
+- अन्यं (*anyaṃ*)—the other
+- अनु गृभ्णाति (*anu gṛbhṇāti*)—congratulates
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of raining, when these two frogs that are together show delight, and when one frog — drenched by the rain, making sound, and of various colours — joins its own sound to the sound of another of green colour, then, of these two frogs, one congratulates the other.
+
+### Printed p. 233
+
+##### English translation
+One of these two congratulates the other as they are both delighting in the forthcoming of rain; the speckled frog, leaping up repeatedly when moistened (by the shower), joins greetings with the green one.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदे॑षाम॒न्यो अ॒न्यस्य॒ वाचं॑ शा॒क्तस्ये॑व॒ वद॑ति॒ शिक्ष॑माणः ।  
+> सर्वं॒ तदे॑षां स॒मृधे॑व॒ पर्व॒ यत्सु॒वाचो॒ वद॑थ॒नाध्य॒प्सु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । एषां । अन्यः । अन्यस्य । वाचं । शाक्तस्य इव । पदति । शिक्षमाणः ।  
+> सर्वं । तत् । एषां । समृधा इव । पर्व । यत् । सुवाचः । वदथन । अधि ।  
+> अप्स्सु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मंडूकाः यद्यदैषां युष्माकं मध्येऽन्यो मंडूकोऽन्यस्य
+> मंडूकस्य वाचं वदति अनुवदति अनुकरोति शिक्षणाणः शिक्षमाणः शिष्यः शाक्तस्येव
+> शक्तिमतः शिक्षकस्य वाचं यथानुवदति तद्वत् । यद्यदा च सुवाचः शोभनवाचो
+> यूयं सर्वेऽप्पु वृष्टेषूदकेष्टध्युपरि प्लवंतो वदथन वदत शब्दं कुरुत ।
+> तत्तदैषां युष्माकं सर्वं पर्व परुषच्छरीरं समृधेव समृद्धमेवाविकलावयवमेव भवति । इवशब्दोऽवधारणे । घर्मकाले मृद्भावमापन्ना मंडूकाः पुनर्वर्षणे सत्यविकलांगाः प्रादुर्भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O frogs, when one among you imitates the speech of another, as a learning pupil imitates the speech of his able (शाक्तस्य (*śāktasya*), one possessed of power) teacher; and when you, all fair-voiced, floating on the waters of the rain, make sound — then all that body (पर्व (*parva*), the jointed body) of yours becomes as if perfect, with limbs unimpaired." The word इव (*iva*) is for emphasis. The meaning is: frogs that in the hot season had turned into clay, when it rains again appear with limbs complete.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O frogs) शिक्षमाणः (*śikṣamāṇaḥ*)—a pupil learning his lesson
+- शाक्तस्येव (*śāktasyeva*)—as he imitates the words of his teacher
+- यत् (*yat*)—when
+- एषां (*eṣāṃ*)—among you
+- अन्यः (*anyaḥ*)—one frog
+- अन्यस्य (*anyasya*)—of another frog
+- वाचं (*vācaṃ*)—the sound
+- वदति (*vadati*)—imitates (and)
+- यत् (*yat*)—when
+- सुवाचः (*suvācaḥ*)—you all who make excellent sound
+- अप्पु अधि (*appu adhi*)—floating on the waters of the rain
+- वदथन (*vadathana*)—produce sound
+- तत् (*tat*)—then
+
 ---
 
-**Progress note:** Done through printed p. 226. pp. 221-226 (batch API)
+**Progress note:** Done through printed p. 233. pp. 227-233 (batch API)
