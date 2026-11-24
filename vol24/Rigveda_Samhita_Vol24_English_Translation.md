@@ -25719,6 +25719,190 @@ That Soma which, drunk into our hearts, has entered, immortalai, into us mortals
 > तस्यै॑ त इंदो ह॒विषा॑ विधेम व॒यं स्या॑म॒ पत॑यो  ॒
 > रयीणां ॥ १३ ॥
 
+### Printed p. 563
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । सोम । पितृभिः । संविदानः । अनु । द्यावापृथिवी इति । आ । ततंथ ।  
+> तस्मै ! त्रैः । इंदो इति । हविसा । विधेम । वयं । स्याम । पतयः । रयाणां ॥१३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे सोमाय पितृमते पुरोडाशमित्यत्र त्वं सोमेति
+> याज्या । सूत्रितं च । त्वं सोम पितृभिः संविदानो बर्हिषदः पितर ऊत्यर्वाक् ।
+> आ. २-१९ । इति ॥ तृतीयसवने सोमस्य चरोरपीयं याज्या! त्वं सोम पितृभिः
+> संविदान इति सौम्यस्य । आ. ५-१९ । इति हि सूत्रितं ॥
+> हे सोम त्वं पितृभिः सह संविदानः संगच्छमानो द्यावापृथिवी द्यावापृथिव्यावन्वा ततंथ । क्रमेण विस्तारयसि । तस्मै सोमाय हविषा विधेम ।
+> परिचरेम । वयं रयाणां धनानां पतयः स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+At the Mahāpitṛyajña, in the offering of the cake to Soma accompanied by the fathers, the verse त्वं सोम (*tvaṃ soma*) is the yājyā. It is laid down in the sūtra त्वं सोम पितृभिः संविदानो बर्हिषदः पितर ऊत्यर्वाक् (*tvaṃ soma pitṛbhiḥ saṃvidāno barhiṣadaḥ pitara ūtyarvāk*) (Ā. 2-19). This is also the yājyā for the cooked offering to Soma at the third pressing; it is laid down that the verse त्वं सोम पितृभिः संविदान इति सौम्यस्य (*tvaṃ soma pitṛbhiḥ saṃvidāna iti saumyasya*) (Ā. 5-19). O Soma, you, in company with the fathers, stretch out heaven and earth in succession, that is, you extend them step by step. To that Soma we would do service with an oblation. May we become lords of riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O flowing one
+- सोम (*soma*)—O Soma
+- त्वं (*tvaṃ*)—you
+- पितृभिः (*pitṛbhiḥ*)—with the fathers
+- संविदानः (*saṃvidānaḥ*)—united
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अनु आ ततंध (*anu ā tataṃdha*)—you have caused to be extended
+- तस्मै ते (*tasmai te*)—to such a you
+- हविषा (*haviṣā*)—with oblation
+- विधेम (*vidhema*)—we shall serve
+- वयं (*vayaṃ*)—we
+- रयाणां (*rayāṇāṃ*)—of riches
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, of the nature of a stream, you, united with the fathers, have caused heaven and earth to be extended. To such a you we do service with oblation. May we become lords of riches.
+
+##### English translation
+Soma, you in conjunction with the fathers stretch out successively heaven and earth,—to you let us do worship with oblations, may we be lords of wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the offering called the Mahāpitṛyajña, when the oblation सोमाय पितृमते पुरोडाशं (*somāya pitṛmate puroḍāśaṃ*) is made, this Ṛk त्वं सोम (*tvaṃ soma*) is to be recited as the yājyā mantra, as is explained by the sūtra of the Āśvalāyana-Śrautasūtra,
+
+### Printed p. 564
+त्वं सोम पितृभिः संविदानो बर्हिषदः पितर ऊत्यर्वाक् (*tvaṃ soma pitṛbhiḥ saṃvidāno barhiṣadaḥ pitara ūtyarvāk*) (Ā. 2-19). Also in the offering of the cooked oblation made to the deity Soma at the time of the third pressing, this Ṛk is to be recited as the yājyā mantra, as is explained by the sūtra of the Āśvalāyana-Śrautasūtra त्वं सोम पितृभिः संविदान इति सौम्यस्य (*tvaṃ soma pitṛbhiḥ saṃvidāna iti saumyasya*) (Ā. 5-19).
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्राता॑रो देवा॒ अधि॑ वोचता नो॒ मा नो॑ नि॒द्रा ई॑शत॒  ॑
+> मोत जल्पिः॑ ।  
+> व॒यं सोम॑स्य वि॒श्वह॑ प्रि॒यासः॑ सु॒वीरा॑सो वि॒दथ॒मा  ॑
+> वदेम ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रातारः । देवाः । अधि । वोचत । नः । मा । नः । निद्रा । ईशत । मा । उत । जल्पिः ।  
+> वयं । सोमस्य । विश्वह । प्रियासः । सुवीरासः । विदथं । आ । वदेम ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे त्रातारो रक्षितारो हे देवाः नोऽस्मानधि पोचत अधिवचनं कुरुत ।
+> किंच नोऽस्मान्निद्राः स्वप्ना :मेशत । ईश्वरा मा भूवन् बाधितुं । उषपि च
+> जल्पिर्निंदकोऽस्मान्मा निंदतु । वयं सोमस्य प्रियासः प्रियाः स्यामः विश्वह
+> सर्वेष्टप्यहःसु । सर्वदेत्यर्थः । सुवीरासः शोभनपुत्राः संतो विदथं स्तोत्रमा
+> वदेम । अभिमुख्येन वदेम । अथवा ! सुपुत्रा विदथं गृहमा वदेम । आवदनं
+> पुत्रपौत्राणां धनेनोपछंदनं ॥
+
+##### Gist of the bhāṣya
+
+O protectors, O gods, speak on our behalf, that is, plead for us. Further, let sleep and dreams not become lords over us, to afflict us **NOTE**. Let the babbler, the censurer, not revile us. May we be always dear to Soma, on all days, that is, at all times. Having good sons, may we utter the hymn (विदथं (*vidathaṃ*)), speaking it directly towards the god. Or else (अथवा (*athavā*)), having good sons, may we speak in the house (meaning the house); the speaking is the enriching of sons and grandsons with wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रातारः (*trātāraḥ*)—protectors
+- देवाः (*devāḥ*)—O gods
+- नः (*naḥ*)—to us
+- अधि वोचक (*adhi vocaka*)—bless us, that it may be well with us
+- नः (*naḥ*)—upon us
+- निद्राः (*nidrāḥ*)—bad dreams
+- मा ईशत (*mā īśata*)—let them not exert their influence
+- उत (*uta*)—and
+- जल्पिः (*jalpiḥ*)—the censurer
+- मा (*mā*)—let him not revile us
+- वयं (*vayaṃ*)—we
+- विश्वह (*viśvaha*)—on all days
+- सोमस्य (*somasya*)—to Soma
+- प्रियासः (*priyāsaḥ*)—may we be dear
+- सुवीरासः (*suvīrāsaḥ*)—together with excellent sons
+- विदथं (*vidathaṃ*)—the hymn
+- आ वदेम (*ā vadema*)—we shall recite
+
+### Printed p. 565
+
+##### भावार्थ (Bhāvārtha)
+
+O protecting gods, bless us, that it may be well with us. Let bad dreams not exert their influence upon us. Let the censurer not revile us. May we be dear to Soma on all days. Together with excellent sons we shall recite the hymn.
+
+##### English translation
+Guardian gods, speak favourably to us; let no dreams nor the censurer overpower us; may we be ever dear to Soma ; possessed of brave offspring, may we utter our hymn.
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नः॑ सोम वि॒श्वतो॑ वयो॒धास्त्वं स्व॒र्विदा वि॑शा नृ॒चक्षाः॑ ।  
+> त्व न॑ इंद ऊ॒तिभिः॑ स॒जोषाः॑ पा॒हि प॒श्चाता॑दु॒त वा॑  ॒॑
+> पुरस्तात् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । सोम । विश्वत ॥ वयःधाः । त्वं । स्वःवित् । अ । विश । नृचक्षाः ।  
+> त्वं । न ॥ इंदो इति । ऊतिभिः । सजोषाः । पाहि । पश्चातात् । उत । वा ।  
+> पुरस्तात् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वं नः सोम विश्वत इति सौम्ये पशौ हविषोऽनुवाक्या । सूत्रितं च । त्वं
+> नः सोम विश्वतो वयोधा या ते धामानि दिवि या पृथिव्यां । आ ३-७ । इति ॥
+> हे सोम त्वं नोऽस्माकं विश्वतः सर्वाभ्यो दिग्भ्यो वयोधा अन्नदाता ।
+> तथा त्वं स्वर्वित् स्वर्गलंभको नृचक्षाः सर्वमनुष्यद्रष्टा त्वमा विश । हे इंदो
+> त्वं सजोषाः सह प्रीयमाणः सन्नूतिभिः सह । अथवोतयो गंतारो मरुतः ।
+> तैः सहितः सन् पश्चातात् पश्चादुत वा पुरस्ताच्च पाहि ॥
+
+##### Gist of the bhāṣya
+
+The verse त्वं नः सोम विश्वतः (*tvaṃ naḥ soma viśvataḥ*) is the anuvākyā for the oblation at the animal sacrifice to Soma; it is laid down in the sūtra with the words या ते धामानि दिवि या पृथिव्यां (*yā te dhāmāni divi yā pṛthivyāṃ*) (Ā. 3-7). O Soma, you are the giver of food (वयोधा (*vayodhā*), अन्नदाता (*annadātā*)) to us from every side, from all directions. So too you are the obtainer of heaven (स्वर्वित् (*svarvit*), स्वर्गलंभको (*svargalaṃbhako*)) and the beholder of all men; enter us. O Indu, being pleased together with your protections (ऊतिभिः (*ūtibhiḥ*)), or else (अथ (*atha*)) the ūtayaḥ are the goers, the Maruts, together with them protect us from behind and also from in front.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- विश्वतः (*viśvataḥ*)—from all directions
+- वयोधाः (*vayodhāḥ*)—be the giver of food
+- त्वं (*tvaṃ*)—you
+- स्वर्वित् (*svarvit*)—you are the beholder of heaven
+
+### Printed p. 566
+- नृचराः (*nṛcarāḥ*)—you are the beholder of the conduct of men
+- आ विश (*ā viśa*)—enter into us
+- इंदो (*iṃdo*)—O Soma
+- त्वं (*tvaṃ*)—you
+- सजोषाः (*sajoṣāḥ*)—joined with love
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- पश्चातात् (*paścātāt*)—from behind
+- उत वा (*uta vā*)—and also
+- पुरस्तात् (*purastāt*)—from the front
+- पाहि (*pāhi*)—protect us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, be the giver of food to us in all directions. You are the beholder of heaven. You are the beholder of the conduct of men. Enter into us. O Soma, joined with love, protect us with your protections both from behind and from the front.
+
+##### English translation
+You, Soma, give us food from every side; you are the bestower of heaven; enter us, beholder of men; O Soma, rejoicing with your protecting powers, guard us from behind and before.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk त्वं नः सोम विश्वतः (*tvaṃ naḥ soma viśvataḥ*) is to be recited as the anuvākyā mantra when the oblation is offered in the animal sacrifice addressed to the deity Soma, as is explained by the sutra of the Āśvalāyana-Śrautasūtra, the words या ते धामानि दिवि या पृथिव्यां (*yā te dhāmāni divi yā pṛthivyāṃ*) (Ā. 3-7).
+
+### Printed p. 567
+## Sūkta 49 (Maṇḍala 8)
+**Vālakhilya Sūkta 1** **NOTE**
+**Bhāṣya**
+श्रुतिकंजार्थलक्ष्मीं यो विकासयति हृद्गतं (तां) । स पायात्सच्चिदानंदः सूर्यमंडलगो हरिः ॥ (*śrutikaṃjārthalakṣmīṃ yo vikāsayati hṛdgataṃ (tāṃ) | sa pāyātsaccidānaṃdaḥ sūryamaṃḍalago hariḥ ‖*)
+'अभि प्र वः' इति दशर्चं प्रथमं सूक्तं प्रस्कण्वस्यार्षमैंद्रं । अनुक्रांतं च- 'अभि प्र दश प्रस्कण्वः प्रागाधं तत्' इति । आयुजां बृहती छंदः । युजां सतोबृहती छंदः ! विनियोगः सूत्रादवगंतव्यः ॥ (*'abhi pra vaḥ ' iti daśarcaṃ prathamaṃ sūktaṃ praskaṇvasyārṣamaiṃdraṃ | anukrāṃtaṃ ca- 'abhi pra daśa praskaṇvaḥ prāgādhaṃ tat ' iti | āyujāṃ bṛhatī chaṃdaḥ | yujāṃ satobṛhatī chaṃdaḥ ! viniyogaḥ sūtrādavagaṃtavyaḥ ‖*)
+In the eighth maṇḍala of the Ṛgveda-saṃhitā, after the 48 sūktas, there is the part called Vālakhilya. In it there are in all eleven sūktas and 80 Ṛks. For the first five sūktas Indra is the deity; in the sixth sūkta Indra and the Viśvedevas are praised; in the seventh sūkta there is the praise of the gift of the seer Praskaṇva. In the eighth sūkta, besides the praise of Praskaṇva's gift as in the preceding sūkta, Agni and Sūrya are praised (in the fifth Ṛk). For the ninth sūkta the Aśvins are the deities; for the tenth sūkta the Viśvedevas are the deities; for the eleventh sūkta Indra and Varuṇa are the deities. The seers of these sūktas also differ.
+Sāyaṇa has not written a commentary on the Vālakhilya sūktas. No other commentary on them seems to exist, or if it exists it has not been found. Western scholars such as Max-Muller too have said nothing about these sūktas. Since the word खल (*khala*) **NOTE** has the meaning "left over, remainder", these sūktas may be called supplementary mantras. Since some mantras of these sūktas are also found in other Vedas such as the Taittirīya-saṃhitā, then, according to the saying that mantras found in another recension are to be regarded as supplementary mantras, these sūktas must be supplementary mantras. In their style too the profundity, excellence and antiquity found in the other Vedic mantras are not seen. Even so, the earlier tradition of studying these sūktas as included in the Ṛgveda-saṃhitā has come down through the lineage of teachers, and the mantras have accents and a Pada-pāṭha as prescribed.
+We have said above that these sūktas have no Sāyaṇa-bhāṣya. But in the Ṛgveda-saṃhitā with Sāyaṇa-bhāṣya published by the Vaidika Saṃśodhana Maṇḍala of the city of Pūnā, in the 3rd volume, on page 779, there is a remark concerning these sūktas.
+
+### Printed p. 568
+वाराणसीस्थ राजकीय संस्कृतपाठशालायाः प्राप्ते (ज्ञ) संज्ञकलिखितपुस्तके वालखिल्यसूक्तानां भाष्यं लिखितमुपलभ्यते । परं त्वितरेषु सर्वेष्टपि पुस्तकेष्टनुपलंबात् व्याख्याशैल्या विभिन्नत्वाच्च नैतत्सायणाचार्यकृतमिति व्यक्तं प्रतीयते । तथाप्येतद्विदुषामुपयोगाय स्यादिति मत्वात्र दीयते । (*vārāṇasīstha rājakīya saṃskṛtapāṭhaśālāyāḥ prāpte (jña) saṃjñakalikhitapustake vālakhilyasūktānāṃ bhāṣyaṃ likhitamupalabhyate | paraṃ tvitareṣu sarveṣṭapi pustakeṣṭanupalaṃbāt vyākhyāśailyā vibhinnatvācca naitatsāyaṇācāryakṛtamiti vyaktaṃ pratīyate | tathāpyetadviduṣāmupayogāya syāditi matvātra dīyate |*)
+एतस्मिन्विषयेऽस्माभिः पृष्टा एतत्पारशालाधिकारिणः एवं लिखंति-एतद्भस्तलिखितं पाठशालायाः कृते रेवानगरे क्रीतमासीत् । तस्य लेखनं पुण्यपत्तन एवाभूदिति श्रूयते । एतल्लिखितपुस्तकगतवालखिल्यसूक्तभाष्यं केन विरचितमिति निश्चितं वक्तुमशक्यं । न केनापि वाराणसीस्थेन पंडितेनैतद्विरचितमिति निश्चितमेव ॥ (*etasminviṣaye 'smābhiḥ pṛṣṭā etatpāraśālādhikāriṇaḥ evaṃ likhaṃti-etadbhastalikhitaṃ pāṭhaśālāyāḥ kṛte revānagare krītamāsīt | tasya lekhanaṃ puṇyapattana evābhūditi śrūyate | etallikhitapustakagatavālakhilyasūktabhāṣyaṃ kena viracitamiti niścitaṃ vaktumaśakyaṃ | na kenāpi vārāṇasīsthena paṃḍitenaitadviracitamiti niścitameva ‖*)
+The commentary on the Vālakhilya sūktas given here is taken from a handwritten copy bearing the number (Jña) in the Government Sanskrit Pāṭhaśālā at Kāśī. Because the commentary on the Vālakhilya sūktas is not found in any other commentary books, and because the style of this commentary is not like the style of Sāyaṇa's commentary, it can be said clearly that this commentary is not composed by Sāyaṇācārya. Even so, in the hope that it may be useful to those who study the meaning of the Veda, it is published here.
+When we wrote to the authorities of that Pāṭhaśālā and asked about this book, they wrote in reply: it has become known that this handwritten book was bought at the city of Revā when books were being collected for the library of the Pāṭhaśālā, and that it was written in the city of Pūnā. But as to by whom this commentary on the Vālakhilya sūktas was composed, nothing at all is known. But this much can be said with certainty, that it was not composed by any pandit living at Kāśī.
+**Commentary on the first sūkta**
+श्रुतिकंजार्थलक्ष्मीं यो विकासयति हृद्गणां । स पायात्सच्चिदानंदः सूर्यमंडलगो हरिः ॥ (*śrutikaṃjārthalakṣmīṃ yo vikāsayati hṛdgaṇāṃ | sa pāyātsaccidānaṃdaḥ sūryamaṃḍalago hariḥ ‖*)
+Translation: This sūkta अभि प्र वः (*abhi pra vaḥ*) is the first of the Vālakhilya sūktas. In it there are ten Ṛks. The seer of this sūkta is Praskaṇva, the son of Kaṇva; Indra is the deity. In the Anukramaṇikā it is said: अभि प्र दश प्रस्कण्वः प्रागाथं तत् (*abhi pra daśa praskaṇvaḥ prāgāthaṃ tat*). The odd-numbered Ṛks of this sūkta are in the Bṛhatī metre; the even-numbered Ṛks are in the Satobṛhatī metre. The application (viniyoga) is to be learnt from the sūtra.
+
 ---
 
-**Progress note:** Done through printed p. 562. Ṛk 8-13 of Sūkta 48 (pp. 557-562)
+**Progress note:** Done through printed p. 568. Ṛk 13-15 of Sūkta 48; Sūkta 49 introduction (pp. 563-568)
