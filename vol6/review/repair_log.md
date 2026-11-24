@@ -1027,3 +1027,9 @@
 | 618 | `(Ath. Saṃ. 8-10-24 [?]; Śat. Br. 13-4-3-3 [?])` → `(Ath. Saṃ. 8-10-24; Śat. Br. 13-4-3-3)` | SECOND-PASS S2: Kannada (ಅಥ. ೮-೧೦-೨೪ ; ಶ. ಬ್ರಾ. ೧೩-೪-೩-೩) |
 | 618 | `(Ṛ. Saṃ. 8-51-1 [?])` → `(Ṛ. Saṃ. 8-51-1)` | SECOND-PASS S2: Kannada ಸಾಂವರಣಿ (ಋ. ಸಂ. ೮-೫೧-೧) |
 | 618 | `by "ātmanepadeṣv anataḥ" the *at* for the affix *jha*` → `by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5) the *at* for the affix *jha*` | SECOND-PASS S3: Kannada ಆತ್ಮನೇಪದೇಷ್ಟನತಃ (ಪಾ. ಸೂ. ೭-೧-೫) prints the number in ಸಮಗ್ಮತ; English omits it |
+- 2026-11-24: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 1, en latin 50, en latin-twin 1; every change is a row of review/refs_applied.tsv.
+
+### 2026-11-24 second pass, batch e_s3.tsv
+| page | old → new | why |
+|---|---|---|
+| 342 | `alloपaḥ` → `allopaḥ` | SECOND-PASS H21: letter of another script inside a Latin word; Kannada ಶ್ನಸೋರಲ್ಲೋಪಃ (śnasor allopaḥ, Pā. 6-4-111) |

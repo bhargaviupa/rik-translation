@@ -829,3 +829,55 @@ date	file	line	script	as written	number	becomes	rule	check	text
 2026-11-24	kn	19057	kannada	ಪಾ.	೫-೩-೧೧೧	ಪಾ. ಸೂ.	letters	one-word	> ಪೂರ್ವವಿಶ್ವೇಮಾತ್ಥಾಲ್ ಛಂದಸಿ । ಪಾ. ೫-೩-೧೧೧ । ಇತೀವಾರ್ಥೇ ಪೂರ್ವಶಬ್ದಾತ್ಥಾಲ್ಪ್ರತ್ಯಯಃ ।
 2026-11-24	kn	19184	kannada	ಸಂ.	೬-೧೬-೧೩	ಋ. ಸಂ.	letters	one-word	(ಪು). ಸಂ. ೬-೧೬-೧೩).
 2026-11-24	kn	19207	kannada	ಶತ. ಬ್ರಾ.	೧೩-೪-೩-೩	ಶ. ಬ್ರಾ.	letters		ರಿಂದ ವೈವಸತ್ವನೆಂದೂ (ಅಥ. ೮-೧೦-೨೪ ; ಶತ. ಬ್ರಾ. ೧೩-೪-೩-೩) ಸವರ್ಣಾ ಎಂಬ ಎಂಬುವಳ ವಂಶಸ್ಥ
+2026-11-24	en	3953	latin	Ṛk. Saṃ.	1-63-1	Ṛ. Saṃ.	list		abdo 'tra bhayavacanaḥ — dyāvā jajñānaḥ pṛthivī ame dhāḥ*' (Ṛk. Saṃ. 1-63-1; compare Rik 63.1 above), and gives only one meaning, that Agn
+2026-11-24	en	5321	latin	Pā.	3-2-76	Pā. Sū.	list		ūtra on *ūḍidaṃpadādi…*); *sthātām* (root *sthā*, *kvip* by Pā. 3-2-76, tuk-augment by Vedic usage, or an Uṇādi affix; loss of *ā* be
+2026-11-24	en	5321	latin	Uṇ.	3-393	U. Sū.	list		*carathām* (root *car*; affix *atha* by "*śījśapirugami…*", Uṇ. 3-393; the *nuṭ* of *hrasvanadyāpo nuṭ* does not come, by the rule *ā
+2026-11-24	en	5321	latin	Uṇ.	1-149	U. Sū.	list		*carathām* (root *car*; affix *atha* by "*śījśapirugami…*", Uṇ. 3-393; the *nuṭ* of *hrasvanadyāpo nuṭ* does not come, by the rule *ā
+2026-11-24	en	5356	latin	Pā.	6-2-145	Pā. Sū.	list		*, as read); *sūktaiḥ* (*kta* after *su* by the comparison, Pā. 6-2-145, so that the accent is on the final of the first member); *ci
+2026-11-24	en	5380	latin	Ṛk. Saṃ.	10-29-1	Ṛ. Saṃ.	list		amples of both senses are '*nṛṇāṃ naryo nṛtamaḥ kṣapāvān*' (Ṛk. Saṃ. 10-29-1) and '*tvam id asi kṣapāvān*' (Ṛk. Saṃ. 8-31-2), which are th
+2026-11-24	en	5380	latin	Ṛk. Saṃ.	8-31-2	Ṛ. Saṃ.	list		amples of both senses are '*nṛṇāṃ naryo nṛtamaḥ kṣapāvān*' (Ṛk. Saṃ. 10-29-1) and '*tvam id asi kṣapāvān*' (Ṛk. Saṃ. 8-31-2), which are th
+2026-11-24	en	5395	latin	Pā.	6-1-177	Pā. Sū.	list		th the remark "*kartavyam*" as read; accent of the *nāmin*, Pā. 6-1-177); *dāśat* (root *dāś*, *leṭ*, *tip*; loss of *i* by *itaś ca 
+2026-11-24	en	5395	latin	Pā.	6-1-15	Pā. Sū.	list		th the remark "*kartavyam*" as read; accent of the *nāmin*, Pā. 6-1-177); *dāśat* (root *dāś*, *leṭ*, *tip*; loss of *i* by *itaś ca 
+2026-11-24	en	5395	latin	Pā.	6-2-145	Pā. Sū.	list		th the remark "*kartavyam*" as read; accent of the *nāmin*, Pā. 6-1-177); *dāśat* (root *dāś*, *leṭ*, *tip*; loss of *i* by *itaś ca 
+2026-11-24	en	5395	latin	Pā.	8-3-1	Pā. Sū.	list		th the remark "*kartavyam*" as read; accent of the *nāmin*, Pā. 6-1-177); *dāśat* (root *dāś*, *leṭ*, *tip*; loss of *i* by *itaś ca 
+2026-11-24	en	5478	latin	Pā.	6-1-56	Pā. Sū.	list		eṣu*; the *aḍāgama* by *leṭo 'ḍāṭau*; *chandasy ubhayathā* (Pā. [3-4-117]) gives *śap* the ārdhadhātuka designation, hence loss of *ṇ
+2026-11-24	en	5552	latin	Ṛk. Saṃ.	1-12-1	Ṛ. Saṃ.	list		d the like'; the example given is '*hotāraṃ viśvavedasam*' (Ṛk. Saṃ. 1-12-1)."
+2026-11-24	en	5567	latin	Uṇ.	4-494	U. Sū.	list		— root *jyāṣ* "to lose strength"; *kvin* by *jyaśvasvyāṃ…* (Uṇ. 4-494); *ṛta id dhātoḥ* (Pā. [7-1-100]) gives *i* for *ṛ*; *uraṇ rapa
+2026-11-24	en	5640	latin	Ṛk. Saṃ.	1-32-14	Ṛ. Saṃ.	list		atra vadhārthaḥ*' [as read, ?] and quotes '*aher yātāram*' (Ṛk. Saṃ. 1-32-14). *Yātā* means 'one who harms'; so Agni, like a harmful man, 
+2026-11-24	en	5645	latin	Uṇ.	2-183	U. Sū.	list		ausative sense included; *kran* by *ṛṣicimīnāṃ dīrghaś ca*, Uṇ. 2-183; the initial *k* of the affix dropped by *lashakvataddhite*; le
+2026-11-24	en	5653	latin	Pā.	3-1-154	Pā. Sū.	list		 *tviṣ* "to shine"; affix *ac* by *nandigrahipacādibhyaḥ…* (Pā. 3-1-154); guṇa of the light penultimate for the sake of the affix; th
+2026-11-24	en	5754	latin	Ṛk. Saṃ.	9-72-2	Ṛ. Saṃ.	list		f them lie together in one common hand. So also in Ṛks like Ṛk. Saṃ. 9-72-2 the words *sanīḷābhiḥ*, *sanīḷāḥ* are used as adjectives for t
+2026-11-24	en	5790	latin	Pā.	6-6-173	Pā. Sū.	list		 *nadī*-designated ending acute by *śatur anumo nadyajādī*, Pā. 6-6-173); *nityam* (*tyap* on the indeclinable *ni* by *avyayāt tyap*
+2026-11-24	en	5790	latin	Uṇ.	2-253	U. Sū.	list		ṇe*, Divādi; *ṛn* after the upapada *su* by *suñsyaser ṛn*, Uṇ. 2-253, giving *svasṛ*; the *ṅīp* that the feminine would take is proh
+2026-11-24	en	5790	latin	Uṇ.	4-513	U. Sū.	list		ṇe*, Divādi; *ṛn* after the upapada *su* by *suñsyaser ṛn*, Uṇ. 2-253, giving *svasṛ*; the *ṅīp* that the feminine would take is proh
+2026-11-24	en	6092	latin	Chā. Up.	1-3-3-5	Chā. U.	list		rm of *vyāna*" — this is the purport of the śruti sentence (Chā. Up. 1-3-3-5)."
+2026-11-24	en	6151	latin	Pā.	7-3-96	Pā. Sū.	list		ma* (long *ī*) for the *apṛkta* *tip* by *asti-sic-opṛkte*, Pā. 7-3-96; the root being *edit*, no vṛddhi by *hmyantakṣaṇaśvasa…*, Pā.
+2026-11-24	en	6312	latin	Pā.	1-1-17	Pā. Sū.	list		he *ū*-ending replaced by *u* and the *pragṛhya* by *uñaḥ*, Pā. 1-1-17); *yāsat* (*yā prāpaṇe*; *sip* by the Vedic *bahulam leṭi*, *l
+2026-11-24	en	6730	latin	Pā.	8-2-82	Pā. Sū.	list		 *ā*-substitution by *supāṃ sulug…*; by *devatādvandve ca*, Pā. [6-2-141], both members keep their natural accent; *supāṇī* (*śobhana
+2026-11-24	en	6730	latin	Pā.	6-1-176	Pā. Sū.	list		 *ā*-substitution by *supāṃ sulug…*; by *devatādvandve ca*, Pā. [6-2-141], both members keep their natural accent; *supāṇī* (*śobhana
+2026-11-24	en	6831	latin	Uṇ.	4-650	U. Sū.	list		affix in the sense "form of the sky" by *nahedivi bhaś ca*, Uṇ. 4-650; *ha*→*bha* by its connection; the form *nabhas*; being *nit*, 
+2026-11-24	en	7111	deva	उ.	१-१२९	उ. सू.	letters	one-word	ायां । शीर्यंते ऽस्यामोषधय इति शरत्संवत्सरः । शृदृभसोऽदिः । उ. १-१२९ इत्यदिप्रत्ययः । उभयत्र कालाध्वनोरत्यंतसंयोगे । पा. सू. २-३-५ इ
+2026-11-24	en	7113	latin-twin	u.	1-129	u. sū.	list		nte 'syām oṣadhaya iti śarat saṃvatsaraḥ | śṛdṛbhaso 'diḥ | u. 1-129 ity adipratyayaḥ | ubhayatra kālādhvanor atyantasaṃyoge | pā. s
+2026-11-24	en	7119	latin	Uṇ.	1-129	U. Sū.	list		ts wither" — *śarad*, the year; *adi* by *śṛdṛbhasoḥ adiḥ*, Uṇ. 1-129; the second case in both, by *kālādhvanor atyantasaṃyoge*, Pā. 
+2026-11-24	en	7185	latin	Pā.	7-2-100	Pā. Sū.	list		titute in the feminine by *tricaturoḥ striyāṃ tisṛ-catasṛ*, Pā. [7-2-99]; with *tisṛ* + *as*, the lengthening of the earlier similar 
+2026-11-24	en	7185	latin	Uṇ.	1-127	U. Sū.	list		h the plants wither", the year; *adi* by *śṛdṛbhasor adiḥ*, Uṇ. 1-127; guṇa of the root's *ṛ* by the affix; the form *śarad*; accusat
+2026-11-24	en	9645	latin	Pā.	9-2-2	Pā. Sū.	list		 *ini* affix in the sense of possession by *ata iniṭhanau*, Pā. [5-2-115]; the affix's accent gives the final acute). *ahrayaḥ* (root
+2026-11-24	en	9892	latin	Pā.	6-3-139	Pā. Sū.	list		ated: *athā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. 6-3-139). *aṅgirastama* ("best of the Aṅgirases"; *tamap* by *atiśāya
+2026-11-24	en	9892	latin	Pā.	3-1-89	Pā. Sū.	list		ated: *athā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. 6-3-139). *aṅgirastama* ("best of the Aṅgirases"; *tamap* by *atiśāya
+2026-11-24	en	9963	latin	Pā.	6-1-189	Pā. Sū.	list		a, no nighāta of the *aṣṭamika* kind; by *āmantritasya ca*, Pā. 6-1-189, initial acute). *(The grammar page continues on p. 462.)*
+2026-11-24	en	10241	latin	Pā.	3-4-97	Pā. Sū.	list		āṃ ktin*; since an affix with *t* follows [*tādau ca niti*, Pā. [6-2-50]], the *gati* [*upa*] keeps its natural accent). *varāya* (ro
+2026-11-24	en	10241	latin	Pā.	3-4-94	Pā. Sū.	list		āṃ ktin*; since an affix with *t* follows [*tādau ca niti*, Pā. [6-2-50]], the *gati* [*upa*] keeps its natural accent). *varāya* (ro
+2026-11-24	en	10241	latin	Pā.	3-4-99	Pā. Sū.	list		āṃ ktin*; since an affix with *t* follows [*tādau ca niti*, Pā. [6-2-50]], the *gati* [*upa*] keeps its natural accent). *varāya* (ro
+2026-11-24	en	10328	latin	Pā.	6-1-186	Pā. Sū.	list		by *serhyapicca*; *śap*; *sīda* by *pāghrādhmāsthāmnādāṇ…*, Pā. [7-3-78]; loss of *hi* by *ato heḥ*, Pā. [6-4-105]; *ṣatva* of the *s
+2026-11-24	en	10414	latin	Pā.	3-2-94	Pā. Sū.	list		rst member; *ktin* in the abstract sense by *striyāṃ ktin*, Pā. 3-2-94, giving *abhiśasti*; "injury"; "he protects (ablative) from in
+2026-11-24	en	10504	latin	Pā.	3-1-26	Pā. Sū.	list		trumental singular, *āsan* substituted by *pāddannomāsṛn…*, Pā. [6-1-63]; the instrumental ending replaced by *ḍā* by *supāṃ sulug…*;
+2026-11-24	en	10504	latin	Pā.	6-1-51	Pā. Sū.	list		trumental singular, *āsan* substituted by *pāddannomāsṛn…*, Pā. [6-1-63]; the instrumental ending replaced by *ḍā* by *supāṃ sulug…*;
+2026-11-24	en	12434	latin	Āśv.	4-13	Ā. Sū.	list		in the sūtra '*avā no agna iti ṣaḷ agnim īḷe 'gniṃ dūtam*' (Āśv. 4-13). It is directed there itself that these Ṛks are to be recited a
+2026-11-24	en	12508	latin	Ṛk. Saṃ.	3-34-8	Ṛ. Saṃ.	list		trāsāhaṃ vareṇyaṃ sahodāṃ sasavāṃsaṃ svar apaś ca devīḥ |* (Ṛk. Saṃ. 3-34-8) — **GLOSS**
+2026-11-24	en	12522	latin	Ṛk. Saṃ.	8-92-7	Ṛ. Saṃ.	list		*tyam u vaḥ satrāsāhaṃ viśvāsu gīrṣv āyatam |* (Ṛk. Saṃ. 8-92-7) — **GLOSS** *(Sense uncertain to me.)*
+2026-11-24	en	13077	latin	Ai. Br.	3-25	Ai. Brā.	list		ābhṛta*. This story is well known in the Aitareya Brāhmaṇa (Ai. Br. 3-25). In the Taittirīya Brāhmaṇa also it is said: '*tṛtīyasyām ito d
+2026-11-24	en	13350	latin	Ṛk. Saṃ.	1-24-11	Ṛ. Saṃ.	list		*aheḷamāno varuṇeha bodhy uruśaṃsa mā na āyuḥ pra moṣīḥ |* (Ṛk. Saṃ. 1-24-11) — **GLOSS**
+2026-11-24	en	13569	latin	Ṛk. Saṃ.	1-51-5	Ṛ. Saṃ.	list		a māyino 'dhamaḥ svadhābhir ye adhi śuptāv [?] ajuhvata |* (Ṛk. Saṃ. 1-51-5) — *the words* śuptāv ajuhvata *are read with doubt [?].* **GL
+2026-11-24	en	13573	latin	Ṛk. Saṃ.	3-24-6	Ṛ. Saṃ.	list		janena vṛjinān saṃ pipeṣa māyābhir dasyūr abhibhūtyojāḥ |* (Ṛk. Saṃ. 3-24-6) — **GLOSS**
+2026-11-24	en	13582	latin	Ṛk. Saṃ.	8-14-14	Ṛ. Saṃ.	list		ṛpsata indra dyām ārurukṣataḥ | ava dasyūṃr adhūnuthāḥ ||* (Ṛk. Saṃ. 8-14-14) — **GLOSS**
+2026-11-24	en	14454	latin	Ṛk. Saṃ.	10-120	Ṛ. Saṃ.	list		 Ṛks the word occurs. In the tenth *maṇḍala* of the Ṛgveda (Ṛk. Saṃ. 10-120) there is a sūkta addressed to Indra, seen by the ṛṣi Bṛhaddiv
