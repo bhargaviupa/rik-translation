@@ -1861,6 +1861,269 @@ with gold.
 
 Supravargam: that whose giving is good, that is, which it gives of itself to the praisers. Of that kind, suvīryam: of good strength; suṣṭu: so that it is good; vāryam: to be chosen by all; anādhṛṣṭam: unassailable even by the mighty. Such wealth we take up; we hold it from you. That very thing he says: vājinīvasū, endowed with strength
 
+### Printed p. 43
+
+> धनावन्नधन् वाश्विन् वां युवयोरस्मिन्नायानेऽस्मद्गृहं प्रत्यागमने विश्वा
+> विश्वानि दिव्यभौमादीनि वामानि धनान्या धीमहि । वयं लभामहे ॥ धीज् आधार
+> इत्यस्य लिजि छांदसो विकरणस्य लुक् ॥
+
+##### Gist of the bhāṣya
+
+Vājinīvasū: the Aśvins who have wealth in the form of food. In this coming of yours to our house, we obtain all the heavenly and earthly riches (vāmāni).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुप्रावर्गं (*suprāvargaṃ*)—that which is given of your own accord
+- सुवीर‍्यं (*suvīryaṃ*)—endowed with excellent strength
+- सुष्टु (*suṣṭu*)—auspicious
+- वार्यं (*vāryaṃ*)—dear to all
+- रक्षस्विना (*rakṣasvinā*)—even by a powerful enemy
+- अनाधृष्टं (*anādhṛṣṭaṃ*)—unassailed; such wealth
+- आ धीमहि (*ā dhīmahi*)—may we obtain
+- वाजिनीवसू (*vājinīvasū*)—O Aśvin gods, who have wealth in the form of food
+- वां (*vāṃ*)—your
+- अस्मिन् आयाने (*asmin āyāne*)—at this time of coming
+- विश्वा (*viśvā*)—all
+- वामानि (*vāmāni*)—riches also may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, may we obtain wealth that is given of your own accord, endowed with excellent strength, auspicious, dear to all, and unassailed even by a powerful enemy. O Aśvin gods, who have wealth in the form of food, may we obtain all riches at this time of your coming.
+
+##### English translation
+May we obtain from you (wealth) spontaneously bestowed, compri-
+sing excellent strength, such as is desired by all, and unassaible by a
+powerful (foe): may we obtain from you who are rich in food, upon your
+coming hither, all good things.
+
+## Sūkta 23 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईळिष्ट्वेति त्रिंशद्वचं तृतीयं सूक्तं । व्यश्वपुत्रो विश्वमना ऋषिः ।
+> उष्णिक् छंदः । अग्निर्देवता । तथा चानुक्रांतं । ईळिष्ट त्रिंशद्विश्वमना वैयश्व
+> आग्नेयमौष्ठिहं हेति ॥ प्रातरनुवाक आग्नेये क्रतावौष्ठिहे छंदस्याश्विनशस्त्रे
+> जेदं सूक्तं । सूत्रितं च । ईळिष्टा हीत्यौष्ठिहं । आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning ईळिष्ट्वेति (*īḷiṣṭveti*) with thirty Ṛks is the third sūkta. Its seer is Viśvamanas, the son of Vyaśva; the metre is Uṣṇik; the deity is Agni. Accordingly the Anukramaṇikā: ईळिष्ट त्रिंशद्विश्वमना वैयश्व आग्नेयमौष्ठिहं ह (*īḷiṣṭa triṃśadviśvamanā vaiyaśva āgneyamauṣṭhihaṃ ha*) **GLOSS**. This sūkta is used in the Prātaranuvāka, in the Āgneya rite, for the Auṣṭiha Ṛks, and in the Āśvina-śastra. It is laid down by the sūtra ईळिष्टा हीत्यौष्ठिहं (*īḷiṣṭā hītyauṣṭhihaṃ*) (Ā. 4-13). **NOTE**
+
+### Printed p. 44
+
+In the Kannada: this sūkta beginning ईळिष्ट (*īḷiṣṭa*) is the third sūkta in the fourth anuvāka. It has thirty Ṛks. Its seer is Viśvamanas, the son of the sage Vyaśva; Agni is the deity; the metre is Uṣṇik. In the Anukramaṇikā it is said: ईळिष्ट त्रिंशद्विश्वमना वैयश्व आग्नेयमौष्ठिहं ह (*īḷiṣṭa triṃśadviśvamanā vaiyaśva āgneyamauṣṭhihaṃ ha*) **GLOSS**. The use of this sūkta, at the time of reciting the Prātaranuvāka mantras, is for the Ṛks of Uṣṇik metre connected with the Āgneya rite and for the mantras of the Āśvina-śastra, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, ईळिष्टा हीत्यौष्ठिहं (*īḷiṣṭā hītyauṣṭhihaṃ*) (A. 4-13). **NOTE**
+
+Sūkta 23. Maṇḍala 8. Anuvāka 4. Sūkta 23. Aṣṭaka 6. Adhyāya 2. Vargas 9, 10, 11, 12, 13, 14. Number of Ṛks in the sūkta: 30. Seer: Viśvamanas Vaiyaśva. Deity: Agni. Metre: Uṣṭik.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईळि॑ष्वा॒ हि प्र॑ती॒वृं१॒॑ १ यज॑स्व जा॒तवे॑दसं ।  
+> च॒रि॒ष्णुधू॑म॒मगृ॑भीतशोचिषं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईळिष्व । हि । प्रतीव्यं । यजस्व । जातवेदसं ।  
+> चरिष्णुधूमं । अगृभीतशोचिषं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पतीव्यं शत्रुषु प्रतिगमनशीलमग्निं । हिरवधारणे ! अग्निमेवेळिष्ट । स्तुतिभिः
+> स्तोत्रं कुरु । किंच चरिष्णुधूमं सर्वतश्चरणशीलधूमजालमगृभीतशोचिषं
+> रक्षोभिरगृह्यमाणदीप्तिं जातवेदसं जातप्रज्ञं । यद्वा । जातानि भूतानि वेत्तीति
+> जातवेदाः । तमग्निं यजस्व । हविर्भिः पूजय ॥
+
+##### Gist of the bhāṣya
+
+Pratīvya: Agni, who goes against enemies. Praise Agni alone with praises. Further, worship with oblations that Agni who has a mass of smoke moving everywhere (caraṣṇudhūma), whose flame is not seized by the rakṣasas (agṛbhītaśociṣam), and who is jātavedas, of born knowledge; or else, who knows the beings that are born. **NOTE**
+
+### Printed p. 45
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रतीव्यं हि (*pratīvyaṃ hi*)—Agni alone, who faces and defeats enemies
+- ईळिष्व (*īḷiṣva*)—praise
+- चरिष्णुधूमं (*cariṣṇudhūmaṃ*)—who has smoke that spreads out and extends
+- अगृभीतशोचिषं (*agṛbhītaśociṣaṃ*)—who has a radiance unobstructed by enemies
+- जातवेदसं (*jātavedasaṃ*)—Agni, named Jātavedas
+- यजस्व (*yajasva*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+Praise Agni alone, who faces and defeats enemies. Worship Agni, who has smoke that spreads out and extends, who has a radiance unobstructed by enemies, and who is named Jātavedas.
+
+##### English translation
+Adore him who restists (our foes), worship Jatavedas the diffuser of smoke, of unobstructed radiance.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दा॒मानं॑ विश्वचर्षणे॒ऽग्निं वि॑श्वमनो गि॒रा ।  
+> उ॒त स्तु॑षे॒ विष्प॑र्धसो॒ रथा॑नां ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रामान । विश्वचर्षणे । अग्निं । विश्वमनः । गिरा ।  
+> उत । स्तुषे । विस्पर्धसः । रथानां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे विश्वचर्षणे विश्वस्य सर्वस्यार्थस्य ज्ञानेन द्रष्टर्विश्वमनः ।
+> सर्वेषु स्थावरजंगमात्मकेष्वेकं मनो यस्य सः । एतन्नामक हे ऋषे,
+> विस्पर्धसो विगतॆमात्सर्यस्य यजमानस्य रथानां रथादीनां दामानं दाशारमेवंविधमग्निं गिरा स्तुतिलक्षणया वाचा स्तुषे । स्तोत्रं कुरु ॥
+
+##### Gist of the bhāṣya
+
+And, O Viśvacarṣaṇi, seer of the whole object through knowledge; viśvamanaḥ: he who has one mind in all things, standing and moving; O seer of this name: praise with speech in the form of praise Agni, who is the giver (dāmānam) of chariots and the like to the sacrificer free from envy (vispardhasaḥ).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- विश्वचर्षणे (*viśvacarṣaṇe*)—one who has the power to see everything
+- विश्वमनः (*viśvamanaḥ*)—O seer named Viśvamanas, who knows the whole world with a meditative mind
+
+### Printed p. 46
+
+- विस्पर्धसः (*vispardhasaḥ*)—to the sacrificer free from envy
+- रथानां (*rathānāṃ*)—of chariots
+- दामानं (*dāmānaṃ*)—the giver
+- अग्निं (*agniṃ*)—Agni
+- गिरा (*girā*)—with speech in the form of praise
+- स्तुषे (*stuṣe*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O seer named Viśvamanas, who have the power to see everything and know the whole world with a meditative mind, praise with speech in the form of praise Agni, who gives chariots to the sacrificer free from envy.
+
+##### English translation
+Commend with praise, all-beholding Viswamanas, that Agni, who
+is the giver of chariots to unenvious (worshipper).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येषा॑माबा॒ध ऋ॒ग्मिय॑ इ॒षः पृ॒क्षश्च॑ नि॒ग्रभे॑ ।  
+> उ॒प॒विदा॒ वह्नि॑र्विंदते॒ वसु॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येषां । आबाधः । ऋग्मियः । इषः । पृक्षः । च । निग्रभे ।  
+> उपविदा । वह्निः । विंदते । वसु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आबाधः शत्रूणामाभिमुख्येन बाधक ऋग्मिय ऋग्निरर्चनीयोऽग्निर्येषामयजमानानामिषोऽन्नानि पृक्षोऽन्नादिरसांश्च निग्रभे निगृह्णीते ॥ ग्रहेर्लट
+> छांदसो विकरणस्य लुक् । लोपस्त आत्मनेपदेष्टिति तलोपः । हृग्रहोर्भश्चंदसीति
+> भकारः ॥ निगृह्य च वह्निर्हविषां वोढा स एवाग्निरुपविदोपवेदनेन एते हवींषि
+> देवार्थं न प्रयच्छंतीत्येशज्ञानेन तेषामेव वसु धनं विंदते । लभते ॥
+
+##### Gist of the bhāṣya
+
+Ābādhaḥ: the oppressor of enemies, facing them; ṛgmiyaḥ: Agni, to be praised. Of those non-sacrificers whose foods (iṣaḥ) and food-essences (pṛkṣaḥ) he seizes, and having seized them, that same Agni, the bearer of oblations, by upavidā, that is, by the knowledge "these do not give oblations for the gods", obtains their riches. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आबाधः (*ābādhaḥ*)—one who thoroughly harms enemies
+- ऋग्मियुः (*ṛgmiyuḥ*)—and is worshipped by the recitation of Ṛks, Agni
+- येषां (*yeṣāṃ*)—of those who are not performers of sacrifice
+- इषः (*iṣaḥ*)—the foods
+- वृक्षः च (*vṛkṣaḥ ca*)—and the essences of food
+- निग्रभे (*nigrabhe*)—he seizes. **NOTE**
+- वह्निः (*vahniḥ*)—that same Agni who bears the oblation
+
+### Printed p. 47
+
+- उपविदा (*upavidā*)—by the knowledge that these are the non-sacrificers
+- वसु (*vasu*)—their wealth
+- विंदते (*viṃdate*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who thoroughly harms enemies and is worshipped by the recitation of Ṛks, seizes the foods and the essences of food of those who are not performers of sacrifice. That same Agni, who bears the oblation, obtains their wealth by the knowledge that these are the non-sacrificers.
+
+##### English translation
+The repeller (of foes), the glorified by hymns, arrests the food and drink, and the bearer of oblation takes away the wealth (of those) of whom he foreknows (the neglect of sacrifices).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॑स्य शो॒चिर॑स्थाद्द्दीदि॒युषो॒ व्य१॒ं॑जरं॑ ।  
+> तपु॑र्जंभस्य सु॒द्युतो॑ गण॒श्रियः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । अस्य । शोचिः । अस्थात् । दीदियुषः । वि । आजरं ।  
+> तपुःजंभस्य । सुद्युतः । गणश्रियः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दीदियुषः । दीदितिर्दिप्ति कर्मा । संदीप्यमानस्य तपुर्जंभस्य तापयित्यदंष्ट्रस्य सुद्युतः शोभनदीप्तेर्गणश्रियः । हविरादानार्थं यजमानगणं श्रयति
+> तस्य । अस्यैतादृशोऽग्नेरजरं जरारहितं पुनःपुनर्मथ्यमानत्वान्नूतनं हविर्भिर्वर्धमानत्पादभिनवं वा शोचिस्तेज उदस्थात् । उद्गतमभूत् ॥
+
+##### Gist of the bhāṣya
+
+Dīdiyuṣaḥ: dīditi is a word for shining; of him who is kindled, tapurjambhasya, who has heating tusks, sudyutaḥ, of fair brilliance, gaṇaśriyaḥ, who resorts to the company of sacrificers to receive the oblation. Of such an Agni the ageless flame, free from decay, new because churned again and again, or fresh because it grows through oblations, has risen up.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीदियुषः (*dīdiyuṣaḥ*)—who is blazing
+- तपुर्जंभस्य (*tapurjaṃbhasya*)—who has tusks in the form of burning flames
+- सुद्युतः (*sudyutaḥ*)—who shines exceedingly
+- गणश्रियः (*gaṇaśriyaḥ*)—who resorts to the company of sacrificers for the oblation
+
+### Printed p. 48
+
+- अस्य (*asya*)—of this Agni
+- आजरं (*ājaraṃ*)—imperishable
+- शोचिः (*śociḥ*)—radiance
+- वि उत् आस्थात् (*vi ut āsthāt*)—has risen up and spread
+
+##### भावार्थ (Bhāvārtha)
+
+The imperishable radiance of this Agni, who is blazing, has tusks in the form of burning flames, shines exceedingly and resorts to the company of sacrificers for the oblation, has risen up and spread.
+
+##### English translation
+The imperishable lustre rises of that Agni, who is radiant, bright
+with blazing teeth, resplendent, and glorious amidst troops (of worshippers).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॑ तिष्ठ स्वध्वर॒ स्तवा॑नो दे॒व्या कृ॒पा ।  
+> अ॒भि॒ख्या भा॒सा बृ॑ह॒ता शु॑शु॒क्वनिः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । तिष्ठ । सुऽध्वर । स्तवान ॥ देव्या । कृपा ।  
+> अभिख्या । भासा । बृहता । शुशुक्वनिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वध्वर शोभनयज्ञ हे अग्ने अभिख्याभिमुखं गच्छंत्याभितः प्रसिद्धया वा
+> बृहता बृहत्या भासा दीप्त्या शुशुक्वनिः ॥ शुच दीप्तौ ॥ दीपनशीलस्त्वं स्तवानः
+> स्तोतृभिः स्तूयमानः सन् देव्या द्योतमानया कृपा ज्वालयोत्तिष्ठ । तमःपरिहारार्थमुद्धच्छ । उ प्रसिद्धौ ॥
+
+##### Gist of the bhāṣya
+
+O Agni of good sacrifice (svadhvara), shining (śuśukvaniḥ) with a great light that goes forward, or is renowned all around, you, who are of a shining nature and are praised by the praisers, rise up with a divine, shining flame, for the removal of darkness. The particle उ (*u*) is well known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वध्वर (*svadhvara*)—O Agni, worthy of an excellent sacrifice
+- अभिख्या (*abhikhyā*)—that which spreads forward
+- बृहता (*bṛhatā*)—and is great
+- भासा (*bhāsā*)—with the radiance
+- शुशुक्वनिः (*śuśukvaniḥ*)—you who shine
+- स्तवानः (*stavānaḥ*)—being praised by the praisers
+- देव्या (*devyā*)—with divine light
+- कृपा (*kṛpā*)—with the flame
+- उत्तिष्ठ (*uttiṣṭha*)—rise and shine
+
 ---
 
-**Progress note:** Done through printed p. 42. Sukta 22 Rk 12 end, Rk 13-18
+**Progress note:** Done through printed p. 48. Sukta 22 Rk 18 end; Sukta 23 Rk 1-5
