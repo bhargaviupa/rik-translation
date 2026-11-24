@@ -16,7 +16,7 @@ Supplied by the user (Nov 24 2026) as two machine-read markdown files, `rig_24_1
 By Sonnet agents, one per batch of three windows, no Batch API (`docs/prompts/VOL24_AGENT_PROMPT.md`). Conventions in `volcfg.json` as Vol 21.
 
 ## Status
-Done through printed p. 194 after 10 agent batches (Nov 24 2026; Sūktas 21–29 started/complete in order; `audit 24` passes; `check_labels.py 24`: 576 English blocks = 576 Kannada blocks, 0 under another section's label; Ṛk headings run without gap). 79 NOTE marks, 20 GLOSS marks. About 1.7M agent tokens (see `parts/batch_costs.md`), 150–200k per batch. Hand repairs by `batch.py fix` only (garbled Pada labels, Pratipadārtha inside a bhāṣya block, missed running heads at pp. 55, 179–181, 193): logged by the tool.
+Done through printed p. 388 after 20 agent batches (Nov 24 2026; Sūktas 21–42 present in order, Ṛk headings run without gap; `audit 24` passes; `check_labels.py 24`: 1121 English blocks = 1121 Kannada blocks, 0 under another section's label). 175 NOTE marks, 25 GLOSS marks. About 3.4M agent tokens (`parts/batch_costs.md`), 150–200k per batch. Hand repairs: by `batch.py fix` in the windows, plus two dispatcher repairs in `review/repair_log.md` (missing `## Sūkta 32` heading, w0220; a translator remark removed, w0344). Sūkta head lines are often OCR-damaged (ಸೂಕ್ತ-೨೨ for 32 etc.): agents write the number from the particulars line and mark a NOTE.
 
 ## Open items
 1. (dispatcher) Preface to be translated separately into `work/preface/en.md`; installing it is a logged repair after the user's yes.
