@@ -30253,6 +30253,287 @@ Chandas: Uṣṇih.
 > तं । ऊं इति । अभि । प्र । गायत । पुरुहूतं । पुरुस्तुतं ।  
 > इंद्रं । गीभिः । तविषं । आ । विवासत ॥ १ ॥
 
+### Printed p. 722
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुहूतं बहुभिराहूतं पुरुष्टुतं बहुभिः स्तुतं तमु तमेवेंद्रं हे
+> स्तोतारः अभि प्र गायत । अभिमुखं प्रकर्षण स्तुध्वं । एतदेव स्पष्टयति । तविषं
+> महांतमिंद्रं गीर्भिर्वाग्निरा विवासत । परिचरत ॥
+
+##### Gist of the bhāṣya
+
+"Invoked by many" (पुरुहूतं (*puruhūtaṃ*)) and "praised by many" (पुरुष्टुतं (*puruṣṭutaṃ*)): O singers, sing forth to that same Indra, praising him directly and with force. Sāyaṇa makes this explicit: with hymns (गीर्भिः (*gīrbhiḥ*)), that is, with speech, serve (विवासत (*vivāsata*), "attend upon") the mighty Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूतं (*puruhūtaṃ*)—(O singers) the one worthy of being invoked by many
+- पुरुष्टुतं (*puruṣṭutaṃ*)—the one praised by many
+- तमु अभि प्रगायत (*tamu abhi pragāyata*)—praise and sing to that very Indra
+- तविषं (*taviṣaṃ*)—the powerful
+- इंद्रं (*iṃdraṃ*)—Indra
+- गीर्भिः (*gīrbhiḥ*)—with hymns of praise
+- आ विवासत (*ā vivāsata*)—attend upon (him)
+
+##### भावार्थ (Bhāvārtha)
+
+O singers, praise and sing to that very Indra, who is worthy of being invoked by many and is praised by many. Attend upon the powerful Indra with hymns of praise.
+
+##### English translation
+Glorify him the invoked of many, the praised of many; adore the powerful Indra with hymns ;
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ द्वि॒बर्ह॑सो बृ॒हत्सहो॑ दा॒धार॒ रोद॑सी ।  
+> गि॒रीरज्र॑ अ॒पः स्व॑र्वृषत्व॒ना ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । द्विबर्हसः । बृहत् । सहः । दाधार । रोदसी इति ।  
+> गिरीन् । अज्रान् । आपः । स्वः । वृषत्वना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विबर्हसो द्वयोः स्थानयोः परिवृढस्य यस्येंद्रस्य, बृहन्महत्सहो बलं
+> रोदसी द्यावापृथिव्यौ दाधार धारयति ॥ छांदसो लिट् । तुजादित्वादभ्यासदीर्घः॥
+> तथाज्रान् क्षिप्रगमनान् गिरीन् पर्वतान् मेघान्वा स्वः सरणशीला अप उदकानि च
+
+##### Gist of the bhāṣya
+
+Of Indra, who is "twofold-vast" (द्विबर्हसो (*dvibarhaso*)), that is, all-encompassing in two places, whose great strength (सहो (*saho*)) sustains heaven and earth (रोदसी (*rodasī*)). दाधार (*dādhāra*) means "sustains"; it is a Vedic perfect. Likewise, the swift-moving mountains, or clouds (गिरीन् (*girīn*)), and the flowing waters
+
+### Printed p. 723
+
+> वृषत्वना वृषत्वेन वीर्येण यस्येंद्रस्य बलं धारयति तत्रावस्थापयति। तम्मभीति
+> पूर्वया संबंधः स त्वमित्युत्तरया ना ॥
+
+##### Gist of the bhāṣya
+
+By virility, that is, by vigour (वृषत्वना (*vṛṣatvanā*)), the strength of Indra sustains them and establishes them there. The word तम्मभीति (*tammabhīti*) connects with the previous Ṛk, and स त्वमित्युत्तरया (*sa tvamityuttarayā*) with the following one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विबर्हसः (*dvibarhasaḥ*)—one who has grown in both worlds
+- यस्य (*yasya*)—of whichever Indra
+- बृहत् (*bṛhat*)—great
+- सहः (*sahaḥ*)—strength
+- रोदसी (*rodasī*)—both heaven and earth
+- दाधार (*dādhāra*)—has sustained
+- वृषत्वना (*vṛṣatvanā*)—(of that same Indra) the strength endowed with vigour
+- अज्रान् (*ajrān*)—swift-moving
+- गिरीन् (*girīn*)—clouds
+- स्वः (*svaḥ*)—flowing
+- अपः (*apaḥ*)—waters (the strength sustains these also)
+
+##### भावार्थ (Bhāvārtha)
+
+Of whichever Indra, grown great in both worlds, the great strength sustains heaven and earth, of that same Indra the strength, endowed with vigour, sustains the swift clouds and the flowing waters.
+
+##### English translation
+The vast strength of whom, powerful in both (regions), has sustained the heaven and earth, and by its vigour (upheld) the swift clouds and flowing waters.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स रा॑जसि पुरुष्टुते॒ एको॑ वृ॒त्राणि॑ जिघ्नसे ।  
+> इंद्र॒ जैत्रा॑ श्रव॒स्या॑ च॒ यंत॑वे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । राजसि । पुरुस्तुत । एकः । वृत्राणि । जिघ्नसे ।  
+> इंद्र । जैत्रा । श्रवस्या । च । यंतवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुष्टुत बहुभिः स्तुतेंद्र स पूर्वोक्तगुणस्त्वं राजसि । दीप्यसे । ईशिषे
+> वा । अपि च त्वमेकः सहायरहितः केवल एव सन् वृत्राण्यावरकाणि शत्रुजातानि
+
+##### Gist of the bhāṣya
+
+O Indra, praised by many, you, of the qualities stated before, rule (राजसि (*rājasi*)), that is, you shine, or you have mastery. Moreover you, alone, without helper, solely by yourself, slay the Vṛtras, that is, the groups of enemies who obstruct.
+
+### Printed p. 724
+
+> जिघ्नसे । हतवानसि । किमर्थं । जैत्राणि जेतव्यानि धनानि श्रवस्या श्रवस्यानि श्रवणीयान्यन्नानि यद्वा श्रवणार्हाणि यशांसि च यंतवे यंतुं नियंतुं स्वाधीनं
+> कर्तुं ॥
+
+##### Gist of the bhāṣya
+
+For what purpose? To restrain, that is, to bring under your own control, the riches to be won (जैत्राणि (*jaitrāṇi*)) and the "famed" things (श्रवस्या (*śravasyā*)): foods worthy of being heard of; or else glories worthy of being heard.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष्टुत (*puruṣṭuta*)—O one praised by many
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—you, the famed one
+- राजसि (*rājasi*)—you are lord of all
+- जैत्रा (*jaitrā*)—the wealth fit to be won
+- श्रवस्या च (*śravasyā ca*)—and the foods that bring renown
+- यंतवे (*yaṃtave*)—in order to bring under your control
+- एकः (*ekaḥ*)—you alone, without the help of others
+- वृत्ताणि (*vṛttāṇi*)—all the enemies
+- जिह्वॆसे (*jihvèse*)—you have slain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by many, you, the famed one, are lord of all. You alone have slain all enemies in order to bring under your control the wealth fit to be won and the foods that bring renown.
+
+##### English translation
+You, the praised of many, reign: you, single, have slain many enemies, in order to acquire the spoils of victory and abundant food.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं ते॒ मदं॑ गृणीमसि॒ वृष॑णं पृ॒त्सु सा॑स॒हिं ।  
+> उ॒ लो॒क॒कृ॒त्स्नम॑द्रिवो हरि॒श्रियं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ते । मदं । गृणीमसि । वृषणं । पृत्सु । सासहिं ।  
+> ऊं इति । लोककृत्नुं । अव्रिवः । हरिश्रीयं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आभिप्लविकेषूक्ष्येषु तृतीयसवने ब्रह्मशस्त्रे तं ते मदमिति तृचो
+> वैकल्पिकः स्तोत्रियः । सूत्र्यते हि । तं ते मदं गृणीमसि तम्मभि प्र गायत ।
+> अ. ७-८. । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava Ukthya rites, at the third pressing, in the Brahmaśastra, the trca beginning तं ते मदं (*taṃ te madaṃ*) is an optional stotriya. For it is taught in the sūtra: तं ते मदं गृणीमसि तम्मभि प्र गायत (*taṃ te madaṃ gṛṇīmasi tammabhi pra gāyata*), A. 7-8.**NOTE**
+
+### Printed p. 725
+
+> हे अद्रिवो वज्रवन्निंद्र ते त्वदीयं तं मदं सोमपानजनितं हर्षंगृणीमसि । गृणीमः । प्रशंसामः ॥ गृ शब्दे क्र्यादिः । प्वादीनां ह्रस्वः । इदंतो
+> मसीति मस इकारागमः ॥ कीदृशं । वृषणं वर्षितारं कामानां पृत्सु संग्रामेषु
+> सासहिं शत्रूणामभिभवितारं लोककृत्नुं लोकस्य स्थानस्य कर्तारं हरिश्रियं
+> हरिभ्यामश्वाभ्यां श्रयणीयं सेव्यं । उशब्दः समुच्चये पादपूरणे वा ॥
+
+##### Gist of the bhāṣya
+
+O wielder of the thunderbolt (अद्रिवो (*adrivo*)), Indra, we praise (गृणीमसि (*gṛṇīmasi*)) that exhilaration of yours, the joy produced by drinking Soma. Of what kind? It is the showerer of desires (वृषणं (*vṛṣaṇaṃ*)), the overcomer of enemies in battles (पृत्सु (*pṛtsu*), सासहिं (*sāsahiṃ*)), the maker of the world, that is, of the place (लोककृत्नुं (*lokakṛtnuṃ*)), and हरिश्रियं (*hariśriyaṃ*), to be resorted to, that is, served, by the two bay horses. The word उ (*u*) is for conjunction or for filling out the pāda.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आद्रिवः (*ādrivaḥ*)—O Indra, bearer of the thunderbolt weapon
+- वृषणं (*vṛṣaṇaṃ*)—that which showers desires
+- पृत्सुसंग्रामगळल्लि (*pṛtsusaṃgrāmagaḷalli*)—in battles
+- सासहिं (*sāsahiṃ*)—that which defeats enemies
+- लोककृत्नुं (*lokakṛtnuṃ*)—that which creates the world
+- हरिश्रियं (*hariśriyaṃ*)—that which is accompanied by the horses called Hari
+- ते (*te*)—your
+- तं मदमु (*taṃ madamu*)—that famed satisfaction produced by Soma
+- गृणीमसि (*gṛṇīmasi*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt weapon, we praise your famed satisfaction, produced by Soma: it showers desires, defeats enemies in battles, creates the world, and is accompanied by the horses called Hari.
+
+##### English translation
+We celebrate, thunderer, your exhilaration, the showerer ( of benefits ), the overcomer (of foes) in battle, the maker of the world, the glorious with your steeds ;
+
+##### विशेषविषयगळु (Special Topics)
+
+Among the Ukthya sacrifices connected with the Abhiplava, at the time of the third pressing, in the śastra mantras recited by the Ṛtvij called Brahmā, the three Ṛks beginning तं ते मदं (*taṃ te madaṃ*) are to be recited as an optional stotriya trca. This is set out by the Āśvalāyana Śrauta Sūtra in the sūtra तं ते मदं गृणीमसि तम्मभि प्र गायत (*taṃ te madaṃ gṛṇīmasi tammabhi pra gāyata*) (Ā. 7-8).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॒ ज्योतीं॑स्या॒यवे॒ मन॑वे च वि॒वेदि॑थ ।  
+> मं॒दा॒नो अ॒स्य ब॒र्हिषो॒ वि रा॑जसि ॥ ५ ॥
+
+### Printed p. 726
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । ज्योतींषि । आयवे । मनवे । च । विवेदिथ ।  
+> मंदानः । अस्य । बर्हिषः । वि । राजसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र येनात्मीयेन मदेनायव और्वशेयाय मनवे विवस्वतः
+> पुत्राय च ज्योतींषि सूर्यादीनि वृत्रादिभिरावृतानि तद्धरणेन विवेदिथ अलंभयः । प्रज्ञापितवान् प्रकाशितवानसीत्यर्थः । तेन मदेन मंदानो मोदमानस्त्वमस्य बर्हिषो वृद्धस्य यज्ञस्य विराजसि । विशेषेणेशिषे । यद्वा । अस्येति
+> तृतीयार्थे षष्ठी । अनेन बर्हिषा वृद्धेन हृष्यन् विराजसि । विशेषेण दीप्यसे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by that exhilaration of yours by which you made known (विवेदिथ (*viveditha*), "caused to obtain": made manifest, caused to shine) the lights (ज्योतींषि (*jyotīṃṣi*)), the sun and the rest, which had been covered by Vṛtra and others, by taking them away, for Āyu, the son of Urvaśī, and for Manu, the son of Vivasvat: rejoicing (मंदानो (*maṃdāno*)) with that exhilaration, you rule (विराजसि (*virājasi*)), that is, you have mastery in a special way, over this extended sacrifice (बर्हिषो (*barhiṣo*)). Or else: अस्य (*asya*) is a genitive in the sense of the instrumental; delighted with this extended barhis, you shine in a special way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by whichever satisfaction of yours (O Indra)
+- आयवे (*āyave*)—for Āyu, son of Urvaśī
+- मनवे च (*manave ca*)—and for Manu, son of Vivasvān
+- ज्योतींषि (*jyotīṃṣi*)—the orbs of light, the sun and the rest
+- विवेदिथ (*viveditha*)—you made to shine in the atmosphere (by that satisfaction)
+- मंदानः (*maṃdānaḥ*)—you, delighted
+- अस्य बर्हिषः (*asya barhiṣaḥ*)—for this sacrifice that is spread out
+- वि राजसि (*vi rājasi*)—you are a shining lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by whichever satisfaction of yours you made the orbs of light, the sun and the rest, shine in the atmosphere for Āyu, son of Urvaśī, and for Manu, son of Vivasvān, delighted by that satisfaction you are, in extended form, a shining lord to this sacrifice.
+
+##### English translation
+Whereby you have made the planets manifest to Ayu and to Manu, and rule rejoicing over this sacred rite.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद॒द्या चि॑त्त उ॒क्तिनोऽनु॑ ष्टुवंति पू॒र्वथा॑ ।  
+> वृष॑पत्नीर॒पो ज॑या दि॒वेदि॑वे ॥ ६ ॥
+
+### Printed p. 727
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । अद्य । चित् । ते । उक्तिनः । अनु । स्तुवंति । पूर्वथा ।  
+> वृषपत्नीः । अपः । जय । दिवेऽदिने ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयं तत्पसिद्धं बलमद्य चिदद्यापि पूर्वथा पूर्वस्मिन्काल
+> इवोक्तिनः शस्त्रिणः स्तोतारोऽनु ष्टुवंति । क्रमेण प्रशंसंति । स त्वं वृषपत्नीः
+> वृषा वर्षिता पर्जन्यः पतिर्यासां तादृशीरपो दिवे दिवे प्रतिदिवसं जय i
+> स्वायत्तं कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, that famed strength of yours (तत् (*tat*)) the reciters of śastras, the singers (उक्तिनः (*uktinaḥ*)), praise (अनु ष्टुवंति (*anu ṣṭuvaṃti*)) in order, even today (अद्य चित् (*adya cit*)) as in former time (पूर्वथा (*pūrvathā*)). Such as you are, conquer day by day (दिवे दिवे (*dive dive*)), that is, make your own, the waters (अपः (*apaḥ*)) which are "wives of the showerer" (वृषपत्नीः (*vṛṣapatnīḥ*)): the showerer, the rainer, is Parjanya, who is the husband of these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- तत् (*tat*)—that famed strength
+- अद्य चित् (*adya cit*)—even now
+- पूर्वथा (*pūrvathā*)—just as they praised in former time
+- उक्तिनः (*uktinaḥ*)—the singers who compose śastra mantras
+- अनु ष्टुवंति (*anu ṣṭuvaṃti*)—praise (you, such a one of great glory)
+- वृषपत्निः (*vṛṣapatniḥ*)—who are wives of Parjanya, the maker of rain
+- अपः (*apaḥ*)—the waters
+- दिवेदिवे (*divedive*)—every day
+- जय (*jaya*)—bring under your control
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, even now the singers who compose śastra mantras praise your famed strength just as they praised it in former time. You, of such glory, bring under your control every day the waters, who are wives of Parjanya, the maker of rain.
+
+##### English translation
+The reciters of prayer celebrate that your (exhilaration) now as of old: you daily hold in subjection the waters, the wives of the showerer.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ त्यदिं॑द्रि॒यं बृ॒हत्तन॒ शुष्म॑मु॒त क्रतुं॑ ।  
+> वज्रं॑ शिशाति धि॒षणा॒ वरे॑ण्यं ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 721. pp. 716-721 (batch API)
+**Progress note:** Done through printed p. 727. pp. 722-727 (batch API)
