@@ -12381,6 +12381,332 @@ Verily Indra said that the mind of woman is not to be controlled he declared als
 
 Indra's two horses, going to the Soma with delight, as a pair carry the chariot of Indra alone. In the same way the yoke of the chariot of the showerer Indra is the higher one of the two horses.
 
+### Printed p. 275
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सप्ति चित् घ (*sapti cit gha*)—the horses of Indra also
+- मदच्युता (*madacyutā*)—for the exhilarating Soma
+- रथं (*rathaṃ*)—the chariot of Indra
+- मिथुना (*mithunā*)—together
+- वहतः (*vahataḥ*)—bear along
+- एवेत् (*evet*)—in the same way
+- वृष्णि (*vṛṣṇi*)—of Indra, the maker of rain
+- धूरि (*dhūri*)—the yoke also
+- उत्तरा (*uttarā*)—rests upon the shoulders of Indra's horses
+
+##### भावार्थ (Bhāvārtha)
+
+The horses of Indra also draw the chariot of Indra together, for the sake of the exhilarating Soma. In the same way the yoke of Indra, the creator, also rests upon the shoulders of Indra's horses. **NOTE**
+
+##### English translation
+The two horses of Indra, hastening to the exhilaration (of the Soma)
+draw his chariot ; the pole of the showerer rests upon them.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒धः प॑श्यस्व॒ मोपरि॑ संत॒रां पा॑द॒कौ ह॑र ।  
+> मा ते॑ कशप्ल॒कौ दृ॑श्॒यन् स्त्री हि ब्र॒ह्मा ब॒भूवि॑थ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधः । पश्यस्व । मा । उपरि । संतरां । पादक् । हर ।  
+> मा । ते । कश्यप्लक् । दृश्यन् । स्त्री । हि । ब्रह्मा । बभूविथ ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवमंतरिक्षादागच्छनथस्थ इंद्रः स्त्रियं संतं स्वस्मात्पुंस्वमिच्छंतं
+> प्लायोगिं यदुवाच तदाह । हे प्लायोगे त्वं स्त्री सत्यधः पश्यस्व । एष स्त्रीणां
+> धर्मः । उपरि मा पश्यस्व । उपरिदर्शनं स्त्रीणां धर्मो न भवति हि । पादकौ
+> पादावपि संतरां संश्लिष्टौ यथा भवतस्तथा हर । यथा पुरुषो विश्लिष्टपादनिधानो भवति तथा त्वया स्त्रिया न कर्तव्यमित्यर्थः । अपि च ते कशप्लका । कशश्च प्लॆ कश्च
+> कशप्लकौ । कशतिराहननकर्मा । कशप्लकावुभे अंगे मा दृशन् । पुरुषा न पश्यंतु ।
+> तयोरदर्शनं वाससः सुष्टु परिधानेन भवति । अतः सुष्टु वाससा परिधानं
+> कुरु । स्त्रियो ह्या गुल्फादभिसंवीता भवंतीत्यर्थः हि यस्मात्कारणाद्ब्रह्मा सन्
+> स्त्री बभूविध ॥
+
+##### Gist of the bhāṣya
+
+Thus coming from the sky and standing on his chariot, Indra spoke to Plāyogi, who, being a woman, wished for manhood; the verse gives what he said. "O Plāyogi, you who are a woman, look downward. This is the duty of women. Do not look upward; looking upward is not the duty of women. Bring your two feet together so that they are closely joined. As a man stands with his feet set apart, so you, a woman, must not do; this is the meaning. Moreover, let the two kaśaplakas of yours not be seen. Kaśa and plaka are the two (limbs); the root kaśa has the sense of striking. Let men not see the two limbs. Their not being seen is brought about by wearing the garment well; therefore wear your garment properly, for women are wrapped (in their garments) down to the ankles; this is the meaning. And this is because you, being a Brahmā, have become a woman." **NOTE**
+
+### Printed p. 276
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O son of Playoga)
+- अधः (*adhaḥ*)—(as befits a woman) towards the lower part
+- पश्यस्व (*paśyasva*)—look
+- उपरि (*upari*)—upwards
+- मा (*mā*)—do not look
+- पादकौ (*pādakau*)—your two feet
+- संतरां (*saṃtarāṃ*)—as closely joined together
+- हर (*hara*)—place
+- ते (*te*)—your
+- कशप्लकौ (*kaśaplakau*)—knees
+- मा दृशन् (*mā dṛśan*)—let men not see
+- हि (*hi*)—for
+- ब्रह्मा (*brahmā*)—having been in the position of a Brahman
+- स्त्री (*strī*)—as a woman
+- बभूव (*babhūva*)—you have been changed
+
+##### भावार्थ (Bhāvārtha)
+
+O son of Playoga, as befits a woman, look only downward. Do not spread your gaze upward. Place your two feet closely together. Let men not see your knees. For you, having been in the position of a Brahman, have been changed into a woman.
+
+##### English translation
+Cast your eyes (son of Playoga) downwards, not upwards:-keep your
+feet close together; let not (men) behold your ankles, for having been
+a Brahman you have become a female.
+
+## Sūkta 34 (Maṇḍala 8)
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऐंद्र याहीत्यष्टादशर्चं चतुर्थं सूक्तं काण्वस्य नीपातिथेरार्षवानुष्टुभं । षोडशाद्यास्तिस्रो गायत्र्यः । वसुरोचिषोंगिरोगोत्राः सहस्रसंख्याका
+> आ यदिंद्रश्चेत्यादीनां तासां तिस्यणामृषयः । इंद्रो देवता । तथा चानुक्मणं । ऐंद्र याहि द्व्यूना नीपातिथिरानुष्टुभं तृचोंतो गायत्र्यस्तं
+> सहस्रं वसुरोचिषोंगिरसोपश्यन्निति ॥ विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+This is the fourth sūkta, beginning ऐंद्र याहि (*aiṃdra yāhi*), of eighteen Ṛks. Its seer is Nīpātithi of the Kāṇva line; its metre is Anuṣṭubh, but the three Ṛks beginning with the sixteenth are Gāyatrī. The seers of those last three Ṛks, beginning with आ यदिंद्रश्च (*ā yadiṃdraśca*), are the Vasurociṣaḥ of the Aṅgirasa gotra, a thousand in number. The deity is Indra. As the Anukramaṇī says: ऐंद्र याहि द्व्यूना नीपातिथिरानुष्टुभं तृचोंतो गायत्र्यस्तं सहस्रं वसुरोचिषोंगिरसोपश्यन्निति ॥ (*aiṃdra yāhi dvyūnā nīpātithirānuṣṭubhaṃ tṛcoṃto gāyatryastaṃ sahasraṃ vasurociṣoṃgirasopaśyanniti ‖*). The application (viniyoga) is लैंगिकः (*laiṃgikaḥ*).
+
+Anuvāda: This sūkta beginning ऐंद्र याहि (*aiṃdra yāhi*) is the fourth sūkta in the fifth anuvāka. It contains eighteen Ṛks. The seer of this sūkta is Nīpātithi, born in the line of Kaṇva; the deity is Indra; the three Ṛks from the sixteenth onward are in the Gāyatrī metre. For the last three Ṛks of this sūkta, beginning with आ यदिंद्रश्च (*ā yadiṃdraśca*),
+
+### Printed p. 277
+the seers are the Vasurociṣaḥ, a thousand in number and born in the Aṅgirasa line. In the Anukramaṇī it is said: याहि द्यूना नीपातिथिरानुष्टुभं तृचोऽन्नो गायत्रस्तं सहस्रं वसुरोचिषोऽङ्गरसोऽपश्यन् (*yāhi dyūnā nīpātithirānuṣṭubhaṃ tṛco 'nno gāyatrastaṃ sahasraṃ vasurociṣo 'ṅgaraso 'paśyan*). The application is Laiṅgika.
+
+Maṇḍala 8; Anuvāka 5; Sūkta 34. Aṣṭaka 6; Adhyāya 3; Vargas 11, 12, 13. Number of Ṛks in the sūkta: 18. Seer: Ṛks 1-15, Nīpātithi Kāṇva; Ṛks 16-18, Sahasra Vasurociṣaḥ, of the Aṅgirasa line. Deity: Indra. Metre: Ṛks 1-15, Anuṣṭubh; Ṛks 16-18, Gāyatrī. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निंद्र॑ याहि॒ हरि॑भि॒रुप॒ कण्व॑स्य सुष्टु॒तिं ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंद्र । याहि । हरिभिः । उप । कण्वस्य । सुस्तुतिं ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र कण्वस्य सुष्टुतिं शोभनां स्तुतिं हरिभिरश्चैरुपा याहि ! दिवो
+> द्युलोकं । द्वितीयार्थे षष्ठी । अमुष्यामुष्मिन्निंद्रे शासतः शासति ॥ विभक्तिव्यत्ययः ॥ तत्र वयं सुखमास्महे । हे दिवावसो दीप्तहविष्केंद्र दिवं स्वर्गं
+> यय ! यूयं गच्छत । बहुवचनं पूजार्थं । यद्वा । हे दिवावसो दिवो
+> द्युनामकममुष्यामुं लोकं शासनं कुर्वंतो यूयं दिवं स्वर्गं यय ।
+> गच्छत । अत्र बहुवचनं पूजार्थमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come with your horses to the fine praise of Kaṇva. Here दिवो (*divo*) stands for the world of heaven, the genitive being used in the sense of the accusative; and in the phrase अमुष्य (*amuṣya*) शासतः (*śāsataḥ*) the sense is that while this Indra rules, we dwell in comfort there. O Divāvasu, Indra of shining oblations, go to heaven. The plural is used in honour. Or else: O Divāvasu, you who rule this world named Div, go to heaven; here also the plural is used in honour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- कण्वस्य (*kaṇvasya*)—of Kaṇva
+- सुष्टुतिं (*suṣṭutiṃ*)—to hear the excellent praise
+- हरिभिः (*haribhiḥ*)—with your horses
+- उप आ याहि (*upa ā yāhi*)—be pleased to come
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—the world of heaven
+- शासतः (*śāsataḥ*)—because he rules (we are in comfort)
+
+### Printed p. 278
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवः (*divaḥ*)—to heaven
+- यय (*yaya*)—return again
+- Or: दिवावसो (*divāvaso*)—O Indra, shining with oblations; अमुष्य (*amuṣya*)—you; शासतः (*śāsataḥ*)—because you rule (we are in comfort)
+- Or: दिवः (*divaḥ*)—named Div; अमुष्य (*amuṣya*)—this world; शासतः (*śāsataḥ*)—you who rule; दिवः (*divaḥ*)—to heaven; यय (*yaya*)—go back
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be pleased to come with your horses to hear the excellent praise of Kaṇva. Because this Indra rules the world of heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
+
+##### English translation
+Come, Indra, with your horses to receive the praise of Kanwa; do you, ruling yonder heaven, O radiant with oblations, return thither.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॒ ग्रावा॒ वद॑न्नि॒ह सो॒मी घोषे॑ण यच्छतु ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । ग्रावा । वदन् । इह । सोमीा । घोषेण । यच्छतु ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वामिह यज्ञे ग्रावा सोमाभिषवपाषाणः सोमी
+> सोमवान् वदञ्बं कुर्वन् घोषेण ध्वनिना सहा यच्छतु । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, here in the sacrifice let the grinding stone, the stone for pressing the Soma, laden with Soma and uttering sound, bring you with its noise. The rest is well established. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) इह (*iha*)—in this our sacrifice
+- ग्रावा (*grāvā*)—the stone that presses the Soma
+- सोमीा (*somīā*)—pressing the Soma
+- वदन् (*vadan*)—making the sound of pressing
+- घोषेण (*ghoṣeṇa*)—with its noise
+- त्वा (*tvā*)—you
+- आ यच्छतु (*ā yacchatu*)—let it bring
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—the world of heaven
+- शासतः (*śāsataḥ*)—because he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवः (*divaḥ*)—to heaven
+- यय (*yaya*)—return again
+
+### Printed p. 279
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in this our sacrifice let the stone that presses the Soma, while pressing the Soma and making the sound of pressing, bring you with its noise. Because this Indra rules heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
+
+##### English translation
+May the grinding stone, yielding the Soma juice as it utters a sound
+bring you hither with the noise; do you, ruling yonder heaven, O radiant
+with oblations, return thither.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्रा॒ वि ने॒मिरे॑षा॒मुरां॒ न धू॑नुते॒ वृकः॑ ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्र । वि । नेमिः । एषां । उरां । न । धूनुते । वृकः ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन्यज्ञ एषामभिषवग्रावां नेमिः सोमलता वि धूनुते । विशेषेण
+> कंपयति । उरां मेषीं वृको न वृक इव । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+In this sacrifice the rim of these pressing stones shakes the Soma plant violently, like a wolf (shaking) a ewe. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृकः (*vṛkaḥ*)—the wolf
+- उरां न (*urāṃ na*)—as it makes a ewe tremble
+- अत्र (*atra*)—in this sacrifice
+- एषां (*eṣāṃ*)—of these pressing stones
+- नेमिः (*nemiḥ*)—the rim
+- वि धूनुते (*vi dhūnute*)—makes the Soma plants tremble
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—the world of heaven
+- शासतः (*śāsataḥ*)—because he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवः (*divaḥ*)—to heaven
+- यय (*yaya*)—return again
+
+### Printed p. 280
+
+##### भावार्थ (Bhāvārtha)
+
+As a wolf makes a ewe tremble, in this sacrifice the rim of these pressing stones makes the Soma plants tremble. Because this Indra rules the world of heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
+
+##### English translation
+The circumference of these (stones) shakes (the Soma) at this (rite), as a wolf (terrifies) a sheep ; do you, ruling yondor heaven, O radiant with oblations, return thither.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॒ कण्वा॑ इ॒हाव॑से॒ हवं॑ते॒ वाज॑सातये ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । कण्वाः । इह । अवसे । हवंते । वाजसातये ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वामिह यज्ञे कण्वा अवसे रक्षणाय वाजसातयेऽन्नस्य
+> प्राप्त्यर्थं चा हवंते । अभिमुख्येन हृदयंति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, here in the sacrifice the Kaṇvas call you, facing you, for protection and for the winning of food. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वा (*tvā*)—you
+- इह (*iha*)—in this sacrifice
+- कण्वाः (*kaṇvāḥ*)—the Kaṇva seers
+- अवसे (*avase*)—for protection
+- वाजसातये (*vājasātaye*)—and for obtaining food
+- आ हवंते (*ā havaṃte*)—invoke with prayer
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—the world of heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवः (*divaḥ*)—to heaven
+- यय (*yaya*)—return again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Kaṇva seers invoke you in this sacrifice with prayer, for protection and for obtaining food. While this Indra rules heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
+
+### Printed p. 281
+
+##### English translation
+The Kanwas invoke you hither for protection and for food ; do you,
+ruling yonder heaven, O radiant with oblations return thither.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दधा॑मि ते सु॒तानां॒ वृष्णे॒ न पू॑र्व॒पाय्यं॑ ।  
+> दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधामि । ते । सुतानां । वृष्णे । न । पूर्वपाय्यं ।  
+> दिवः । अमुष्य । शासतः । दिवं । यय । दिवावसो इति दिवावसो ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तुभ्यं सुतानां । द्वितीयार्थे षष्ठी । सुतान् सोमान्
+> दधामि ! प्रयच्छामि । वृष्णे न यथा वायवे पूर्वपाय्यं यज्ञमुखे पेयं
+> प्रयच्छंति तद्वदहं प्रयच्छामीत्यर्थः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, I offer to you the pressed Somas. Here the genitive is used in the sense of the accusative. As at the opening of the sacrifice the first drink is offered to Vāyu, so I offer it to you; this is the meaning. The rest is well established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) पूर्वपाय्यं (*pūrvapāyyaṃ*)—the Soma fit to be drunk before all others in the sacrifice
+- वृष्णे न (*vṛṣṇe na*)—as it is offered to Vāyu
+- ते (*te*)—addressed to you
+- सुतानां (*sutānāṃ*)—the Soma pressed and made ready
+- दधामि (*dadhāmi*)—I offer
+- अमुष्य (*amuṣya*)—this Indra
+- दिवः (*divaḥ*)—the world of heaven
+- शासतः (*śāsataḥ*)—while he rules (we are in comfort)
+- दिवावसो (*divāvaso*)—O Indra, shining with oblations
+- दिवः (*divaḥ*)—to heaven
+- ययॆ (*yayè*)—return again
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the Soma that is fit to be drunk before all the gods in the sacrifice is offered to Vāyu, so I offer to you the Soma that has been pressed and made ready. While this Indra rules the world of heaven, we are in comfort. O Indra, shining with oblations, return again to heaven.
+
 ---
 
-**Progress note:** Done through printed p. 274. Sūkta 33 Ṛk 11 (p. 268) to Ṛk 18 (pp. 268-274)
+**Progress note:** Done through printed p. 281. Vol 24 pp. 275-281: Ṛk 18-19 of 8.33 end, Sūkta 8.34 Ṛks 1-5
