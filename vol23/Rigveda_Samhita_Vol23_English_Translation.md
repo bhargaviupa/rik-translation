@@ -8917,6 +8917,225 @@ This speech, this praise, is made for the self-ruling Parjanya (स्वरा�
 - ऒषधीः (*òṣadhīḥ*)—the plants
 - सुपिप्पलाः (*supippalāḥ*)—let them be bearers of good fruit
 
+### Printed p. 221
+
+##### भावार्थ (Bhāvārtha)
+
+May the praise-word recited on this occasion be offered to Parjanya, who is endowed with self-governed radiance, and enter the inmost depth of his heart. May it serve him, and may he be satisfied by it. May the rains, the means of happiness, bring us good. May the plants protected by Parjanya, who is of divine nature, become for us givers of good fruit.
+
+##### English translation
+This praise is addressed to the self-irradiating Parjanya : may it be placed in his heart ; may he be gratified by it ; may the joy-diffusing rains be ours ; may the plants cherished by the deity be fruitful.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स रे॑तो॒धा वृ॑ष॒भः शश्व॑तीनां॒ तस्मि॑न्ना॒त्मा जग॑तस्त॒स्थुष॑श्च ।  
+> तन्म॑ ऋ॒तं पा॑तु श॒तशा॑रदाय यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । रेतःऽधाः । वृषभः । शश्वतीनां । तस्मिन् । आत्मा । जगतः । तस्थुषः । च ।  
+> तत् । मा । ऋतं । पातु । शतशारदाय । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स पर्जन्यः शश्वतीनां बह्नीनामोषधीनां रेतोधा रेतस उदकस्य बीजभूतस्य धाता विनिधाता भवति । वृषभ इत्युपमा । यथा कश्चिद्वृषभो बह्नीनां
+> गवां गर्भस्याधाता भवति तद्वत् । अतस्तस्मिन् पर्जन्ये जगतो जंगमस्य तस्थुषः
+> स्थावरस्य चात्मा देहो वर्तते। तत्पर्जन्येन दत्तमृतमुदकं मा मां शतशारदाय
+> शतसंवत्सरजीवनार्थं पातु। रक्षतु ॥ माशब्दस्य ऋत्यक इति प्रकृतिभावो ह्रस्वत्वं च॥
+> अन्यद्धतं ॥
+
+##### Gist of the bhāṣya
+
+That Parjanya is the "रेतोधा (*retodhā*)", the placer or bestower of the seed, that is, the water that is the seed, of the many perpetual (śaśvatī) plants. "वृषभ (*vṛṣabha*)" is a simile: as a bull is the impregnator of many cows, so he. Therefore in that Parjanya dwells the *ātman*, the body, of the world that moves and of what stands still. May that water given by Parjanya protect me for "शतशारदाय (*śataśāradāya*)", for living a hundred years. Of the word मा (*mā*) the text notes that, by a rule, it keeps its natural form and is shortened. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभः (*vṛṣabhaḥ*)—as one bull pours seed into many cows
+- सः (*saḥ*)—that same Parjanya
+- शश्वतीनां (*śaśvatīnāṃ*)—for the many kinds of plants
+- रेतोधाः (*retodhāḥ*)—is the one who pours seed
+- तस्मिन् (*tasmin*)—in that same Parjanya
+- जगतः (*jagataḥ*)—of what is moving
+- तस्थुषः च (*tasthuṣaḥ ca*)—and of what is standing still, of the whole world
+- आत्मा (*ātmā*)—there is a body of the nature of being
+
+### Printed p. 222
+- तत् (*tat*)—that, given by Parjanya
+- ऋतं (*ṛtaṃ*)—water
+- मा (*mā*)—me
+- शतशारदाय (*śataśāradāya*)—for living a hundred years
+- पातु (*pātu*)—may it protect (O Parjanya and the other deities)
+- यूयं (*yūyaṃ*)—all of you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+As one bull pours seed into many cows, so Parjanya alone pours seed into the many kinds of plants. In that same Parjanya is also contained the body, of the nature of being, of the whole world, both moving and unmoving. May the waters given by that Parjanya protect me so that I live a hundred years. O Parjanya and the other deities, protect us always with blessings.
+
+##### English translation
+May he, the bull, be the impregnator of the perpetual plants, for in him is the vitality of both the fixed and moveable (world): may the rain sent by him preserve me for a hundred years: and you(gods) ever cherish us with blessings.
+
+## Sūkta 102 (Maṇḍala 7)
+The hundred and second sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर्जन्यायेति तृचं त्रयोदशं सूक्तं । पूर्ववदृषिदेवते । तथा चानुक्रांतं । पर्जन्याय तृचं गायत्रमिति ॥ वैश्वानरपार्जन्यायामन्वारंभणीयायां पार्जन्यस्य चरोः पर्जन्यायेत्यनुवाकाक्या । सूत्रते हि । पर्जन्याय प्र
+> गायत प्र वाता वांति पतयंति विद्युतः । आ. २-१५ ॥ इति ॥
+
+##### Gist of the bhāṣya
+
+The thirteenth sūkta, a triplet, beginning पर्जन्याय (*parjanyāya*). Seer and deity as before. The Anukramaṇī says: पर्जन्याय तृचं गायत्रं (*parjanyāya tṛcaṃ gāyatraṃ*). In the Vaiśvānara-Pārjanya Anvārambhaṇīya offering, for the Pārjanya caru, पर्जन्याय (*parjanyāya*) is the anuvākyā. For it is prescribed in the sūtra पर्जन्याय प्र गायत प्र वाता वांति पतयंति विद्युतः (*parjanyāya pra gāyata pra vātā vāṃti patayaṃti vidyutaḥ*) (Ā. 2-15).
+
+##### Anuvāda (Kannada)
+
+This sūkta, पर्जन्याय (*parjanyāya*), is the thirteenth sūkta in the sixth anuvāka. It has three ṛks. Its seers and deity are the same as for the preceding sūkta; the metre is Gāyatrī. In the Anukramaṇī it is said: पर्जन्याय तृचं गायत्रं (*parjanyāya tṛcaṃ gāyatraṃ*). In the caru-oblation of the Anvārambhaṇīya offering, made to the deities Vaiśvānara and Parjanya, this ṛk पर्जन्याय (*parjanyāya*) is to be recited as the anuvākyā mantra of the deity Parjanya, as set out in the Āśvalāyana Śrauta Sūtra, पर्जन्याय प्र गायत प्र वाता वांति पतयंति विद्युतः (*parjanyāya pra gāyata pra vātā vāṃti patayaṃti vidyutaḥ*) (Ā. 2-15).
+
+### Printed p. 223
+Sūkta 102. Maṇḍala 7; Anuvāka 6; Sūkta 102. Aṣṭaka 5; Adhyāya 7; Varga 2. Number of ṛks in the sūkta: 3.
+Seer: Vasiṣṭha Kumāra Āgneya. Deity: Parjanya. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒र्जन्या॑य॒ प्र गा॑यत दि॒वस्पु॒त्राय॑ मि॒ळ्ळुषे॑ ।  
+> स नो॒ यव॑समिच्छतु ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्जन्याय । प्र । गायत । दिवः । पुत्राय । माळ्हुषे ।  
+> सः । नः । यवसं । इच्छतु ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः पर्जन्याय देवाय प्र गायत । प्रकर्षेण स्तोत्रमुच्चारयत । कीदृशाय । दिवोऽन्तरीक्षस्य पुत्राय । तत्र हि पर्जन्यः प्रादुर्भवति । मीळ्हुषे सेक्त्रे । स तादृशः पर्जनो नोऽस्मभ्यं यवसमोषध्यादिलक्षणमन्नं दातुमिच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O singers, sing forth to the god Parjanya, utter praise in full. To what kind of god? To the son of "div", the atmosphere, for there Parjanya appears; to the sprinkler ("मीळ्हुषे (*mīḷhuṣe*)"). May that Parjanya be willing to give us "yavasa", food consisting of plants and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O singers) दिवः (*divaḥ*)—to the atmosphere
+- पुत्राय (*putrāya*)—who is as a son
+- मीळुषे (*mīḷuṣe*)—the sprinkler of rain
+- पर्जन्याय (*parjanyāya*)—addressing Parjanya
+- प्र गायत (*pra gāyata*)—sing excellent praise
+- सः (*saḥ*)—that same Parjanya
+- नः (*naḥ*)—to us
+- यवसु (*yavasu*)—food in the form of plants and the like, to give
+- इच्छिसु (*icchisu*)—may he desire
+
+### Printed p. 224
+
+##### भावार्थ (Bhāvārtha)
+
+O singers, praise Parjanya, who is as a son to the atmosphere and the sprinkler of rain. Sing and recite excellent praise. May that same Parjanya be willing to give us food in the form of plants and the like.
+
+##### English translation
+Sing aloud to the son of heaven, Parjanya, the sender of rain : may he be pleased (to grant) us food
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो गर्भ॒मोष॑धीनां॒ गवां॑ कृ॒णोत्यर्व॑तां ।  
+> प॒र्जन्यः॑ पुरु॒षीणां॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । गर्भं । ओषधीनां । गवां । कृणोति । अर्वतां ।  
+> पर्जन्यः । पुरुषीणां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः पर्जन्य ओषधीनां व्रीह्यादीनां गवामर्वतामर्वतीनां पुरुषीणां
+> नारीणां च यः पर्जन्यो गर्भं प्रसूतिहेतु बीजमुदकरूपं कृणोति करोति
+> तस्मै पर्जन्यायेत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Parjanya who makes the "garbha", the seed that is the cause of birth and is of the nature of water, for plants such as rice, for cows, for mares, and for women: the connection is with "to that Parjanya" in the following ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- पर्जन्यः (*parjanyaḥ*)—Parjanya
+- ओषधीनां (*oṣadhīnāṃ*)—for plants
+- गवां (*gavāṃ*)—for cows
+- अर्वतां (*arvatāṃ*)—for horses
+- पुरुषीणां (*puruṣīṇāṃ*)—for women
+- गर्भं (*garbhaṃ*)—water in the form of the embryo
+- कृणोति (*kṛṇoti*)—produces (praise such a Parjanya)
+
+##### भावार्थ (Bhāvārtha)
+
+The Parjanya who produces water in the form of the embryo for plants, cows, horses and women: praise such a Parjanya.
+
+##### English translation
+He who is the cause of the impregnation of plants, of cows, of mares, of women.
+
+### Printed p. 225
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मा॒ इदा॒स्ये॑ ह॒विर्जु॒होता॒ मधु॑मत्तमं ।  
+> इळां॑ नः सं॒यतं॑ करत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्मै । इत् । आस्ये । हविः । जुहोत । मधुमत्कतमं ।  
+> इळां । नः । संयतं । करत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्मा इत्तस्मा एव पर्जन्यायास्ये देवानामास्यभूतेऽग्नौ मधुमत्तमं
+> रसवत्तमं हनिर्जुहोत । जुहुत हे ऋत्विजः । स च पर्जन्यो नोऽस्मभ्यमिळामन्नं संयतं सम्यग्नियतं यथा भवति तथा करत् । करोतु । ददात्विति यावत् ॥
+
+##### Gist of the bhāṣya
+
+To that same Parjanya, into the mouth of the gods, that is, into Agni who is their mouth, offer, O priests, the most sweet ("madhumattama"), most juicy oblation. And may that Parjanya make food for us *saṃyata*, well regulated; that is, may he give it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तस्मा इत् (*tasmā it*)—addressing that same Parjanya
+- आस्ये (*āsye*)—in Agni, who is the mouth of all the gods
+- मधुमत्तमं (*madhumattamaṃ*)—having a most sweet juice
+- हविः (*haviḥ*)—oblation
+- जुहोत (*juhota*)—offer
+- सः (*saḥ*)—that same Parjanya
+- नः (*naḥ*)—to us
+- इळां (*iḷāṃ*)—food
+- संयतं (*saṃyataṃ*)—so that it is abundant under our control
+- करत् (*karat*)—may he make
+
+##### भावार्थ (Bhāvārtha)
+
+O singer, addressing that same Parjanya, offer into Agni, the mouth of all the gods, an oblation of most sweet juice. May that Parjanya make that food abundant for us.
+
+##### English translation
+Offer verily to him by the mouth (of the gods, Agni,) the most savoury oblation, so that he may yield us food unfailingly.
+
+### Printed p. 226
+## Sūkta 103 (Maṇḍala 7)
+The hundred and third sūkta.
+
+##### विशेषविषयगळु (Special Topics)
+
+Vasiṣṭha, desiring rain, praised Parjanya. The frogs rejoiced along with him. Seeing the frogs rejoicing, he praised them. (Ni. 9-6)
+
+The sage Vasiṣṭha once, desiring rain (with the wish that rain should come), praised the deity Parjanya. The mandūkas (frogs) approved the sage's praising in this way. Seeing them approving the prayer he was making concerning Parjanya, he praised them too (the mandūkas). The praise of that matter is what is stated in this sūkta. Yāska has given the form-derivation and etymology of the word मंडूकाः (*maṃḍūkāḥ*) as follows: मंडूका मज्जूका मज्जनात् मदतेर्वा मोदतिकर्मणः मंदतेर्वा तृप्ति कर्मणः । मंडयतेरिति वैयाकरणाः । मंड एषामोक इति ना मंडो मदेर्वा मुदेर्वा ॥ (*maṃḍūkā majjūkā majjanāt madatervā modatikarmaṇaḥ maṃdatervā tṛpti karmaṇaḥ | maṃḍayateriti vaiyākaraṇāḥ | maṃḍa eṣāmoka iti nā maṃḍo madervā mudervā ‖*) (Ni. 9-5)
+
+The words मंडूकाः (*maṃḍūkāḥ*) and मज्जुकाः (*majjukāḥ*) are synonyms conveying one meaning. "From मज्जनात् (*majjanāt*)": because frogs are always immersed, or are immersing themselves, in water, they get the name मज्जुकाः (*majjukāḥ*). Or it may be formed from the root मद् (*mad*), meaning "to rejoice", or from the root मंद् (*maṃd*), meaning "to be content"; for frogs live in water with joy and contentment. Or, according to the grammarians, the word मंडूक (*maṃḍūka*) may be formed from the root मंड् (*maṃḍ*), meaning "to adorn"; their argument is that the frogs' bodies are fashioned adorned with many kinds of colours. Or मंडे (*maṃḍe*) means "in water", and ओकः (*okaḥ*) is "their dwelling"; so they may have got the name मंडूकाः (*maṃḍūkāḥ*). Or the word मंड (*maṃḍa*) (water) is formed from the root मद् (*mad*), meaning "to be glad", or from the root मुद् (*mud*), meaning "to be joyful"; because they are joyful in such water, frogs have got the name मंडूकाः (*maṃḍūkāḥ*). This is the main purport of the etymology.
+
 ---
 
-**Progress note:** Done through printed p. 220. pp. 214-220 (batch API)
+**Progress note:** Done through printed p. 226. pp. 221-226 (batch API)
