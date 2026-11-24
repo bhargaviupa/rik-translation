@@ -12,3 +12,4 @@ REVIEW 1.2	sonnet (independent reader)	VERIFIED (form)	45 units read; 15 changes
 VERIFY vs Vol 1: 0.2	sonnet	39 rows covering all 63 units: 32 consistent, 5 differs in detail, 2 contradicts (both were our errors, now fixed: verify/M0_S002_fixes.tsv), 0 not found			136848
 1.5	sonnet	VERIFIED (form)	3	yes (agent: separate pass, 1 sense correction + 16 citation fixes)	130240
 VERIFY vs Vol 1: 0.3	sonnet	37 rows covering units 114.1–125.7: 27 consistent, 10 differs in detail (mostly reference numbers; wording of damaged places), 0 contradicts, 0 not found			209726
+VERIFY vs Vol 1: 0.4	sonnet	36 rows covering units 126.1–137.5: 25 consistent, 10 differs in detail, 1 contradicts (0.4.128.2 indraśatru: Vol 1 contradicts itself; our English agrees with Vol 1 embedded English and with the Sanskrit logic; no change), 0 not found			206625
