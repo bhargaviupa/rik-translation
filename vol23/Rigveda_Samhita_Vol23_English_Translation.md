@@ -1475,6 +1475,300 @@ O Indra and Varuṇa, of you two the one, Indra, slays the enemies (वृत्
 - शर्म (*śarma*)—happiness
 - यच्छतं (*yacchataṃ*)—give
 
+### Printed p. 38
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, of the two of you, Indra kills enemies in battle. The other, Varuṇa, always protects the sacrificial rites completely. O Indra and Varuṇa, showerers of desires, we call upon you with excellent praises. Give us happiness.
+
+##### English translation
+One of you destroys enemies in battle, the other ever protects religious observances: we invoke you, showerers (of benefits), with praises : bestow upon us, Indra and Varuna, felicity.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे इंद्रो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा द्यु॒म्नं य॑च्छंतु॒ ॒ ॒॑॑
+> महि॒ शर्म॑ स॒प्रथः॑ ।  
+> अ॒व॒ध्रं ज्योति॒रदि॑ते र्ऋता॒वृधो॑ दे॒वस्य॒ श्लोकं॑ सवि॒तुर्म॑नामहे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । इंद्रः । वरुणः । मित्रः । अर्यमा । द्युम्नं । यच्छंतु । महि । शर्म।  
+> सप्रथः ।  
+> अवध्रं । ज्योतिः । अदितेः । ऋतवृधः । देवस्य । श्लोकं । सवितुः । मनामहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्याख्यातेयं ॥ अक्षरार्थस्तु । इंद्रादयोऽस्मभ्यं द्योतमानं धनं प्रयच्छंतु सर्वतो विस्तीर्णं महद्गृहं च । यज्ञस्य वर्धयित्या अदीनाया देवमातुस्तेजश्चास्माकमबाधकं भवतु । वयं च प्रेरकस्य देवस्य स्तोत्तं मनामहे । कुर्महे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this verse has already been explained, and he gives only the meaning of the words. May Indra and the others give us shining wealth and a great house that is spread out on all sides. May the light of Aditi, the undiminished mother of the gods and promoter of the sacrifice, be unobstructing to us. And we make (मनामहे (*manāmahe*) means "we do") the praise of the impelling god Savitṛ.
+
+### Printed p. 39
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- अस्मे (*asme*)—to us
+- द्युम्नं (*dyumnaṃ*)—wealth
+- यच्छंतु (*yacchaṃtu*)—let them give
+- महि (*mahi*)—great
+- सप्रथः (*saprathaḥ*)—and very extensive
+- शर्म (*śarma*)—let them also give a house
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—promoter of the sacrifice
+- अदितेः (*aditeḥ*)—of Aditi
+- ज्योतिः (*jyotiḥ*)—the lustre
+- अवध्रं (*avadhraṃ*)—let it be unharmed (harmless) for us
+- देवस्य (*devasya*)—of the god
+- सवितुः (*savituḥ*)—of Savitṛ
+- श्लोकं (*ślokaṃ*)—the praise
+- मनामहे (*manāmahe*)—we compose in meditation
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, Varuṇa, Mitra and Aryaman give us wealth. May they also give a house that is great and very extensive. May the lustre of Aditi, the promoter of the sacrifice, be unharmed for us. We compose in meditation, and recite, the praise of the divine Savitṛ.
+
+##### English translation
+May Indra, Varuna, Mitra, Aryaman, grant us wealth and a large and spacious mansion: may the lustre of Aditi, the augmentress (of sacrifice), be innocuous to us: we recite the praise of the divine Savitri.
+
+## Sūkta 84 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ वामिति पंचर्चं चतुर्दशं सूक्तं वासिष्ठं त्रैष्टुभमैंद्रावरुणं ।
+> अनुक्रांतं च । आ नां पंचेति ॥ उक्थ्ये तृतीयसवने मैत्रावरुणशस्त्र इदं
+> सूक्तं । सूत्रितं च । आ नां राजानाविंद्रावरुणा मधुमत्तमस्यॆति याज्या । आ.
+> ६-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, आ वामिति (*ā vāmiti*), has five verses and is the fourteenth sūkta. Its seer is Vasiṣṭha, its deity Indra and Varuṇa, its metre Triṣṭubh. The Anukramaṇī says: आ नां पंचेति (*ā nāṃ paṃceti*). The sūkta is used in the Maitrāvaruṇa-śastra at the third pressing (savana) of the Ukthya sacrifice. This is stated in the sūtra: आ नां राजानाविंद्रावरुणा मधुमत्तमस्यॆति याज्या (*ā nāṃ rājānāviṃdrāvaruṇā madhumattamasyèti yājyā*) (Ā. 6-1).
+
+##### Anuvāda
+
+This sūkta, "ā vām", is the fourteenth sūkta in the fifth anuvāka. It has five ṛks. Vasiṣṭha is the seer of this sūkta, Indra and Varuṇa are the deity, and the metre is Triṣṭubh. In the Anukramaṇī it is said: "ā vām pañca". The sūkta is used for the śastra mantras recited by the Maitrāvaruṇa priest at the third pressing of the sacrifice called Ukthya. This is explained by the Āśvalāyana-śrauta-sūtra: "ā vāṃ rājānāvindrāvaruṇā madhumattamasyeti yājyā" (Ā. 6-1).
+
+### Printed p. 40
+Sūkta 84. Maṇḍala 7; Anuvāka 5; Aṣṭaka 5; Adhyāya 6; Varga 6. Number of ṛks in the sūkta: 5. Ṛṣi: Vasiṣṭha. Deity: Indra and Varuṇa. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नां॑ राजानावध्व॒रे न॑वृत्यां ह॒व्येभि॑रिंद्रावरुणा॒  
+> नमो॑भिः ।  
+> प्र नां॑ घृ॒ताची॑ बा॒ह्वोर्धधा॑ना॒ परि॒ त्मना॒ विषु॑रूपा  
+> जिगाति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नां । राजान् । अध्वरे । नवृत्यां । हव्येभिः । इंद्रावरुणा । नमःभिः ।  
+> प्र । नां । धृताची । बाह्वोः । दधाना । परि । त्मना । विषुरूपा। जिगाति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजानौ राजमानावीश्वरौ वेंद्रावरुणौ अध्वरे हिंसारहितेऽस्मिन्यागे
+> नां युवां हव्येभिर्हविर्भिर्नमोभिः स्तोत्रैश्चा ववृत्यां । आवर्तयामि । अपि
+> च बाह्योर्हस्तयोर्दधाना धार्यमाणा विषरूपा । रूप्यत इति रूपं हविः ।
+> विविधहविर्युक्ता घृताची घृतमंचंती जुहूस्त्मनात्मना स्वयमेव नां युवां
+> परि प्र जिगाति । अभिप्रगच्छति । यद्वा । विषुरूपा नानाविधरूपौ वामिति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O royal Indra and Varuṇa, shining lords, in this sacrifice free of violence I turn you hither (आवर्तयामि (*āvartayāmi*)) with oblations and with praises. Further, the ladle (juhū), held in the hands and filled with various oblations, and dripping ghee (घृताची (*ghṛtācī*)), of itself goes forth to you. Here रूप्यत इति रूपं हविः (*rūpyata iti rūpaṃ haviḥ*): rūpa means the oblation. Or else, विषुरूपा (*viṣurūpā*) is to be construed with वां (*vāṃ*) as "you two of many kinds of form". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजानौ (*rājānau*)—O lords
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- अध्वरे (*adhvare*)—in the sacrifice
+- वां (*vāṃ*)—you
+- हव्येभिः (*havyebhiḥ*)—with oblations
+- नमोभिः (*namobhiḥ*)—with praises
+- आ ववृत्यां (*ā vavṛtyāṃ*)—I invoke by praying
+- बाह्वोः (*bāhvoḥ*)—in my hands
+- दधाना (*dadhānā*)—held
+
+### Printed p. 41
+- घृताची (*ghṛtācī*)—the ladle (juhū vessel) filled with ghee
+- त्मना (*tmanā*)—of itself, self-impelled
+- विषुरूपा (*viṣurūpā*)—of many kinds of form
+- वां परि (*vāṃ pari*)—towards you
+- प्र जिगाति (*pra jigāti*)—approaching, it offers the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, lords of the world, in the sacrifice I invoke you by prayer with oblations and with praises. The juhū vessel, held in the hands and filled with ghee, of itself approaches you, who are of many kinds of form, and offers the oblation.
+
+##### English translation
+Royal Indra and Varuna, I invite you to the sacrifice with obtlations and with praise: the butter-dropping (ladle), held in our hands, offers spontaneously (the oblation) to you who are of many forms.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वो रा॒ष्ट्रं बृ॒हदि॑न्वति॒ द्यौर्यौ से॒तृभि॑रर॒ज्जुभिः॑ सिनी॒थः ।  
+> परि॑ नो॒ हेळो॒ वरु॑णस्य वृज्या उ॒रुं न॒ इंद्रः॑ कृणवदु  
+> लो॒कं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । राष्ट्रं । बृहत् । इन्वति । द्यौः । यौ । सेतृभिः । अरज्जुभिः । सिनीथः ।  
+> परि । नः । हेळः । वरुणस्य । वृज्याः । उरुं । नः । इंद्रः । कृणवत् । ऊं इति ।  
+> लोकं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ युवोर्युवयोर्बृहन्महद्राष्ट्रं राज्यं दौर्द्युलोकरूपमिन्वति । वृष्टा सर्वास्त्रीणयति । यौ युवां सेतृभिबंधकैररज्जुभी
+> रज्जुरहितै रोगादिभिः सिनीथः पापकृतो बध्नीथः ॥ षिञ् बंधन इति धातुः ॥ तयोर्मध्यॆ वरुणस्य वारयितुर्देवस्य हेळः क्रोधो नोऽस्मान्परि वृज्याः । परिवृणक्तु । परित्यज्यान्यत्र गच्छतु । इंद्र उ इंद्रश्चोरुं विस्तीर्णं लोकं स्थानं
+> कृणवत् । करोतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, your great kingdom, which is the heaven-world, gratifies all (by rain). **NOTE** You bind sinners with binders (सेतृभिः (*setṛbhiḥ*)) that are not ropes, namely diseases and the like. The root is षिञ् बंधन (*ṣiñ baṃdhana*). Of the two of you, may the anger of Varuṇa, the restrainer, leave us and go elsewhere. And may Indra make a wide place (लोकं (*lokaṃ*)), a dwelling, for us.
+
+### Printed p. 42
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra and Varuṇa) युवोः (*yuvoḥ*)—of you
+- बृहत् (*bṛhat*)—great
+- राष्ट्रं (*rāṣṭraṃ*)—kingdom
+- द्याः (*dyāḥ*)—the heaven-world
+- इन्वति (*invati*)—gratifies all with rain
+- यौ (*yau*)—you who
+- अरज्जुभिः (*arajjubhiḥ*)—not of the form of rope
+- सेतृभिः (*setṛbhiḥ*)—with binders (diseases and the like)
+- सिनीथः (*sinīthaḥ*)—bind sinners (of whom, one)
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- हेळः (*heḷaḥ*)—anger
+- नः (*naḥ*)—us
+- परि वृज्याः (*pari vṛjyāḥ*)—let it leave
+- इंद्र उ (*iṃdra u*)—Indra, the other
+- नः (*naḥ*)—for us
+- उरुं (*uruṃ*)—wide
+- लोकं (*lokaṃ*)—dwelling place
+- कृणवत् (*kṛṇavat*)—let him make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, your great kingdom, the heaven-world, gratifies all with rain. You bind sinners with binders that are not ropes, that is, with diseases and the like. Of you two, may the anger of Varuṇa leave us. May the other, Indra, make a wide dwelling place for us.
+
+##### English translation
+Your vast kingdom of heaven gratifies (the world with rain), you who bind (the sinner) with bonds not made of rope: may the wrath of Varuna pass away from us: may Indra prepare for us a spacious region.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒तं नो॑ य॒ज्ञं वि॒दथे॑षु॒ चारुं॑ कृ॒तं ब्रह्मा॑णि सू॒रिषु॑  
+> प्रश॒स्ता ।  
+> उपो॑ र॒यिदर्दे॒वजू॑तो न एतु॒ प्रणः॑ स्पा॒र्हाभि॑रू॒तिभि॑स्तिरेतं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृतं । नः । यज्ञं । विदथेषु । चारुं । कृतं । ब्रह्माणि । सूरिषु । प्रशस्ता ।  
+> उपो इति । रयिः । देवजूतः । नः । एतु । प्र । नः । स्पार्हाभिः । ऊतिभिः ।  
+> तिरेतं ॥ ३ ॥
+
+### Printed p. 43
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ नोऽस्माकं विदथेषु गृहेषु क्रियमाणं यज्ञं चारुं
+> शोभनं फलसहितं कृतं । कुरुतं । तथा सूरिषु स्तोतृष्टस्मासु विद्यमानानि
+> ब्रह्माणि परिवृढानि स्तोत्राणि पशस्ता प्रशस्तान्युत्कृष्टानि फलभांजि कृतं । कुरुतं ।
+> अपि च देवजूतो देवाभ्यां युवाभ्यां प्रेरितो रयिर्धनं नोऽस्मानुपैतु ।
+> प्राप्नोतु । तथा स्पार्हाभिः स्पृहणीयाभिरूतिभी रक्षाभिर्नॊऽस्मान्र तिरेतं ।
+> युवां वर्धयेथां । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, make our sacrifice, performed in the houses (विदथेषु (*vidatheṣu*) = गृहेषु (*gṛheṣu*)), beautiful (चारुं (*cāruṃ*) = शोभनं (*śobhanaṃ*)), together with its fruit. Likewise make the prayers (ब्रह्माणि (*brahmāṇi*) = praises, परिवृढानि (*parivṛḍhāni*)) that exist in us, the worshippers (सूरिषु (*sūriṣu*)), excellent and fruit-bearing. Further, may wealth sent by you two gods come to us. And with desirable (स्पार्हाभिः (*spārhābhiḥ*)) protections make us increase: the verb तिरेतं (*tiretaṃ*) with the prefix प्र (*pra*) means increase. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra and Varuṇa) नः (*naḥ*)—our
+- विदथेषु (*vidatheṣu*)—performed in the sacrificial houses
+- यज्ञं (*yajñaṃ*)—sacrifice
+- चारुं (*cāruṃ*)—attractive, so as to bear fruit
+- कृतं (*kṛtaṃ*)—make
+- सूरिषु (*sūriṣu*)—existing in us, the praisers
+- ब्रह्माणि (*brahmāṇi*)—the praises
+- प्रशस्ता (*praśastā*)—so that they obtain the most excellent fruit
+- कृतं (*kṛtaṃ*)—make
+- देवजूतः (*devajūtaḥ*)—impelled by you, the gods
+- रयिः (*rayiḥ*)—wealth
+- नः (*naḥ*)—to us
+- उपैतु (*upaitu*)—let it come
+- स्पार्हाभिः (*spārhābhiḥ*)—very attractive
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- नः (*naḥ*)—us
+- प्र तिरेतं (*pra tiretaṃ*)—cause to prosper
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, make the sacrifice performed in our sacrificial houses attractive and fruitful. Make the praises that are ready in us, the praisers, obtain the most excellent fruit. May wealth impelled by you, the gods, join us. With very attractive protections cause us to prosper.
+
+##### English translation
+Render the sacrifice offered in our dwelling fruitful, the prayers uttered by the worshippers successful: may riches come to us sent by the gods: you two give us increase by your desirable protections.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे इं॑द्रावरुणा वि॒श्ववा॑रं र॒यिं ध॑त्तं॒ वसु॑मंतं  
+> पुरु॒क्षुं ।  
+> प्र य आ॑दि॒त्यो अनृ॑ता मि॒नात्यमि॑ता॒ शूरो॑ दयते॒ वसू॑नि ॥
+
+### Printed p. 44
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति इंद्रावरुणा । विश्ववारं । रयिं । धत्तं । वसुमंतु । पुरुक्षुं ।  
+> प्र। यः। आदित्यः । अनृता । मिनाति । अमिता । शूरः । दयते । वसूनि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ अस्मे अस्मभ्यं रयिं धनं धत्तं । प्रयच्चतं । कीदृशं ।
+> विश्ववारं विश्वैः सर्वैर्वर्णीयं संभजनीयं वसुमंतं निवासयुक्तं पुरुक्षुं
+> बह्वन्नं पुरुभिर्बहुभिः प्रशस्यं ना । आदित्योदितेः पुत्रो यो वरुणोऽनृतानृतानि सत्यरहितानि भूतानि प्र मिनाति प्रहिनस्ति ॥ मीज् हिंसायामिति धातुः ॥ शूरः
+> शौर्यवान् स वरुणोऽमितामितान्यपरिमितानि वसूनि धनानि दयते । स्तोतृभ्यो
+> ददाति ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, bestow (धत्तं (*dhattaṃ*) = प्रयच्चतं (*prayaccataṃ*)) wealth on us. What kind? Wealth desirable to all (विश्ववारं (*viśvavāraṃ*)), endowed with dwelling (वसुमंतं (*vasumaṃtaṃ*)), with abundant food (पुरुक्षुं (*purukṣuṃ*)), praised by many. Aditya, the son of Aditi, namely Varuṇa, who destroys (प्र मिनाति (*pra mināti*)) untrue beings, devoid of truth; the root is *mīj hiṃsāyāṃ*. That heroic Varuṇa gives unbounded treasures to the worshippers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- अस्मे (*asme*)—to us
+- विश्ववारं (*viśvavāraṃ*)—desired by many
+- वसुमंतं (*vasumaṃtaṃ*)—endowed with dwelling
+- पुरुक्षुं (*purukṣuṃ*)—endowed with abundant food
+- रयिं (*rayiṃ*)—wealth
+- धत्तं (*dhattaṃ*)—give
+- आदित्यः (*ādityaḥ*)—the son of Aditi
+- यः (*yaḥ*)—which Varuṇa
+- अनृता (*anṛtā*)—all beings devoid of truth
+- प्र मिनाति (*pra mināti*)—destroys completely
+- शूरः (*śūraḥ*)—that same heroic Varuṇa
+- आमिता वसूनि (*āmitā vasūni*)—unbounded riches
+- दयते (*dayate*)—gives to the worshippers
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, give us wealth that is desired by many, endowed with dwelling and with abundant food. The son of Aditi, Varuṇa, who completely destroys all beings devoid of truth, that same heroic Varuṇa gives unbounded wealth to the worshippers.
+
+##### English translation
+Bestow upon us, Indra and Varuna, riches desirable to all, together with a dwelling and abundant food, for the hero, Aditya, who punishes beings devoid of truth, gives (to the devout) unbounded treasures.
+
 ---
 
-**Progress note:** Done through printed p. 37. pp. 31-37 (batch API)
+**Progress note:** Done through printed p. 44. pp. 38-44 (batch API)
