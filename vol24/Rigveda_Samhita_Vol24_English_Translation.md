@@ -33085,6 +33085,280 @@ In that Indra, whom the singers know as the unharming, all past and future power
 > यत् । पांचजन्यया । विशा । इंद्रे । घोषाति । अस्यक्षत ।  
 > अस्तृणात् । बर्हणा । विपः । अर्यः । मानस्य । सः । क्षयः ॥ ७ ॥
 
+### Printed p. 729
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेवदनि मरुत्वतीये यत्पांचजन्ययेति तृचः प्रतिपत् । सूत्रितं च ।
+> यत्पांचजन्यया विशेंद्र इत्तोमपा एक इति मरुत्वतीयस्य प्रतिपदनुचरा ;
+> आ. ७-१२ । इति !!
+> यद्यदा पांचजन्यया । निषादपंचमाश्चत्वारो वर्णाः पंच जनाः ।
+> तत्रभवया विशा प्रजयेंद्रे घोषाः स्तुतयोऽसृक्षत सृज्यंते तदानीमयमिंद्रोऽस्तृणात् हिनस्ति शत्रून् बर्हणा स्वमहत्वेन । अनन्यसहायेनेत्यर्थः ।
+> तादृशः सोऽर्य इंद्रो विपो मेधाविनः स्तोतुर्मम मानस्य पूजायाः
+> सत्कारस्य क्षयो निवासो भवति ॥
+
+##### Gist of the bhāṣya
+
+On the fifth day, in the Marutvatīya, the triplet beginning यत्पांचजन्यया (*yatpāṃcajanyayā*) is the pratipad. It is laid down in the sūtra: यत्पांचजन्यया विशेंद्र इत्तोमपा एक इति मरुत्वतीयस्य प्रतिपदनुचरा (*yatpāṃcajanyayā viśeṃdra ittomapā eka iti marutvatīyasya pratipadanucarā*) (Ā. 7-12). पांचजन्यया (*pāṃcajanyayā*): the four classes with the Niṣāda as fifth are the five peoples; by the people belonging to them, by the folk, praises, घोषाः (*ghoṣāḥ*), are uttered to Indra. At that moment this Indra overthrows his enemies, by his own greatness, that is, without any other help. Such a lord, Indra, becomes the abode, the dwelling, of the honour and reverence of me, the wise praiser. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पांचजन्यया (*pāṃcajanyayā*)—consisting of the five classes beginning with the Niṣāda
+- विशा (*viśā*)—by the people
+- इंद्रे (*iṃdre*)—addressed to Indra
+- घोषाः (*ghoṣāḥ*)—the praises
+- असृक्षत (*asṛkṣata*)—were composed and recited, thereupon immediately
+- बर्हणा (*barhaṇā*)—by his own power alone
+- अस्त्रणात् (*astraṇāt*)—Indra destroyed the enemies
+- सः (*saḥ*)—such
+- आर्यः (*āryaḥ*)—the lord Indra
+- विपः (*vipaḥ*)—of the wise praiser
+- मानस्य (*mānasya*)—for the worship
+- क्षयः (*kṣayaḥ*)—becomes the abode
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the praises addressed to Indra were composed and recited by the people of the five classes beginning with the Niṣāda, Indra destroyed the enemies by his own power alone. Such a lord, Indra, becomes the abode of the worship of the wise praiser.
+
+##### English translation
+When praises are addressed to Indra by the men of the five classes, he destroys their enemies by his might; he, the lord, is the abode of worsipper's homage.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the fifth day of the sacrifice, when the śastra mantras of the Marutvatīya are recited, these three ṛks beginning with यत्पांचजन्यया (*yatpāṃcajanyayā*) are to be recited as the pratipad-ṛcā; this is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra, यत्पांचजन्यया विशेंद्र इत्सोमपा एक इति मरुत्वतीयस्य प्रतिपदनुचरौ (*yatpāṃcajanyayā viśeṃdra itsomapā eka iti marutvatīyasya pratipadanucarau*) (Ā. 7-12).
+
+### Printed p. 730
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यमु॑ ते॒ अनु॑ष्टुतिश्च कृ॒षे तानि॒ पौंस्या॑ ।  
+> प्राव॑श्च॒क्रस्य॑ वर्त॒निं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । ऊं इति । ते । अनुस्तुतिः । चकृषे । तासि । पौंस्या ।  
+> प्र । आवः । चक्रस्य । वर्तनिं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमिदानींक्रियमाणानुष्टुतिरनुकूला स्तुतिस्ते तव स्वभूता । कुतस्त इति
+> उच्यते । तानि प्रसिद्धानि वृत्रवधादीनि पौंस्या पुंस्त्वानि यतश्च कृषे । अतस्त इत्यर्थः।
+> हे इंद्र चक्रस्य रथाधारस्य वर्तनिं मार्गं प्रावः । प्रारक्षः । अथास्मद्यज्ञगमनाय
+> रक्षःकृता चक्रमार्गबाधा यथा न भवति तथा रक्षसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This praise now being made, the following praise favourable to you, is your own. Why? Because you have performed those well-known manly deeds, the slaying of Vṛtra and the rest. O Indra, you have protected the path of the wheel, the support of the chariot; that is, you protect so that the obstruction of the wheel's path caused by the Rākṣasas does not occur on our way to the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तानि (*tāni*)—those, in the form of the slaying of Vṛtra and the rest
+- पौंस्या (*pauṃsyā*)—heroic deeds
+- चकृषे (*cakṛṣe*)—you have accomplished
+- चक्रस्य (*cakrasya*)—of the chariot wheel
+- वर्तनिं (*vartaniṃ*)—the path
+- प्रावः (*prāvaḥ*)—you have protected
+- इयं (*iyaṃ*)—this now recited
+- अनुष्टुतिः (*anuṣṭutiḥ*)—the praise dear to you
+- ते उ (*te u*)—is addressed to you alone
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have accomplished heroic deeds such as the slaying of Vṛtra. You have protected the paths of the chariot wheel. Therefore this praise, dear to you, which is now recited, is addressed to you alone.
+
+##### English translation
+This praise is yours, for you have achieved those exploits ; you have guarded the road of our chariot-wheel (to be sacrificial rite).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य वृष्णो॒ व्योद॑न उ॒रु क्र॑मिष्ट जी॒वसे॑ ।  
+> यवं॒ न प॒श्व आ द॑दे ॥ ९ ॥
+
+### Printed p. 731
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । वृष्णः । पिओदने । उरु । क्रमिष्ट । जीवसे ।  
+> यवं । न । पश्वः । आ । ददे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य वृषो वर्षितुरिंद्रस्य व्योदने विविधेन्ने लब्धे सति जीवसे
+> जीवनायोरु विस्तीर्णं क्रमिष्ट पदनिधानं करोति सर्वो लोकः । अथवेंद्रस्य
+> स्वभूतेन्ने लब्धे लब्धव्ये वा सति पदन्यासं करोति । तथा कृत्वा यवं न
+> पश्वो यवं पशव इव सर्वो जन आ ददे आदत्ते स्तुतादस्मात् ॥
+
+##### Gist of the bhāṣya
+
+When varied food has been obtained from this showering Indra, all the world takes wide steps, strides far, for its life. Or else: when food that is Indra's own has been obtained or is to be obtained, it makes the stride. Having done so, all the people take, from this praised one, as cattle take barley.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृष्णः (*vṛṣṇaḥ*)—of the one who showers desired objects
+- अस्य (*asya*)—by this Indra
+- व्योदने (*vyodane*)—when varied food is obtained
+- जीवसे (*jīvase*)—for their own lives
+- उरु (*uru*)—very widely, setting down the feet
+- क्रमिष्ठॆ (*kramiṣṭhè*)—all the people of the world move about
+- पश्वः (*paśvaḥ*)—the cattle
+- यवं न (*yavaṃ na*)—as they eagerly eat barley and other grains
+- आ ददे (*ā dade*)—the whole world receives these foods
+
+##### भावार्थ (Bhāvārtha)
+
+When varied foods have been obtained from this Indra, who showers desired objects, the people of the world move about, setting down their feet very widely, each for his own life. As cattle eagerly eat barley and other grains, the whole world receives these foods.
+
+##### English translation
+When the various sustenance, given by Indra, the showerer, is obtained, all men step out with wide strides for (dear) life; they receive it as cattle barley.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्दधा॑ना अव॒स्यवो॑ यु॒स्माभि॒र्दक्ष॑पितरः ।  
+> स्याम॑ म॒रुत्व॑तो वृ॒धे ॥ १० ॥
+
+### Printed p. 732
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । दधानाः । अवस्यवः । युष्माभिः । दक्षपितरः ।  
+> स्याम । मरुत्वतः । वृधे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्सोत्रं दधाना धारयंतोऽवस्यवो रक्षाकामा वयं हे ऋत्विजः
+> युष्माभिः । सहिता इति वा योज्यं । तादृशा दक्षपितरः । दक्षोऽन्नं । तस्य पितरः
+> पालकाः स्वामिनः स्याम । किमर्थं । मरुत्वतो मरुद्धिस्तद्वत इंद्रस्य वृधे
+> वर्धनाय यागाय ॥
+
+##### Gist of the bhāṣya
+
+We, O priests, holding that praise, desiring protection, together with you, or let it be construed as being accompanied by you, such as are दक्षपितरः (*dakṣapitaraḥ*): dakṣa is food, and its fathers are its protectors, its masters; may we be such. For what? For the increase, the strengthening, of Indra who is accompanied by the Maruts, that is, for the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तत् (*tat*)—that well-known hymn
+- दधानाः (*dadhānāḥ*)—offering to Indra
+- अवस्यवः (*avasyavaḥ*)—desiring protection
+- युष्माभिः (*yuṣmābhiḥ*)—together with you
+- मरुत्वतः (*marutvataḥ*)—of Indra, who has the Maruts as helpers
+- वृधे (*vṛdhe*)—for the performance of the sacrifice that brings increase
+- दक्षपितरः (*dakṣapitaraḥ*)—as lords of food
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, offering the well-known hymn to Indra and desiring protection, may we, together with you, become lords of food for the performance of the sacrifice that brings increase to Indra, who has the Maruts as helpers.
+
+##### English translation
+Presenting our praises and desiring protection, may we with you (O priests) be lords of food, to offer sacrifice to (Indra) attended by the Maruts.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बळ्ळृ॒त्विया॑य॒ धाम्न॒ ऋक्व॑भिः शूर नोनुमः ।  
+> जेषा॑मेंद्र॒ त्वया॑ यु॒जा ॥ ११ ॥
+
+### Printed p. 733
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बट् । ऋत्वियाय । धान्ने । ऋक्वभिः । शूर । नोनुमः ।  
+> जेषाम । इंद्र । त्वया । युजा ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बट् सत्यमृत्वियायर्त् भवाय । ऋतुशब्दो यागकालोपलक्षकः । यागकाले प्रादुर्भूताय धाम्ने कल्याणतेजसे तुभ्यं हे शूरेंद्र ऋक्वभिर्मंत्रैर्नोनुमः । अतिशयेन स्तुमः । हे इंद्र स्तुतेन त्वया युजा सहायभूतेन
+> जेषाम जयेम शत्रून् ॥
+
+##### Gist of the bhāṣya
+
+To you, O hero Indra, who are born at the time of the sacrifice (the word ऋतु (*ṛtu*) indicating the time of the sacrifice), who are of auspicious splendour, we offer praise exceedingly with ṛk mantras. O Indra, praised thus, with you as our helper, may we conquer the enemies. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- ऋत्वियाय (*ṛtviyāya*)—who are born at the time of the sacrifice
+- धाम्ने (*dhāmne*)—who have auspicious splendour; addressing you
+- बट् (*baṭ*)—truly
+- ऋक्वभिः (*ṛkvabhiḥ*)—with mantras
+- नोनुमः (*nonumaḥ*)—we praise
+- इंद्र (*iṃdra*)—O Indra
+- त्वया (*tvayā*)—with you thus praised
+- युजा (*yujā*)—joined
+- जेषाम (*jeṣāma*)—may we conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, addressing you, who are born at the time of the sacrifice and have auspicious splendour, we praise you truly with mantras. O Indra, joined with you thus praised, may we conquer our enemies.
+
+##### English translation
+Hero, by our hymns we offer praise to you, who appear at the time of sacrifice, and wear auspicious splendour; with you as our ally may we conquer (our enemies).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे रु॒द्रा मे॒हना॒ पर्व॑तासो वृत्र॒हत्ये॒ भर॑हूत॒ा॑  
+> स॒जोषाः॑ ।  
+> यः शंस॑ते स्तुव॒ते धायि॑ प॒ज्र इंद्र॑ज्येष्ठा अ॒स्मा अ॑वंतु  ॒
+> देवाः ॥ १२ ॥
+
+### Printed p. 734
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । रुद्राः । मेहना । पर्वतासः । वृत्रहत्ये । भरहूत् । सजोषाः ।  
+> यः । शंसते । स्तुवते । धायि । पज्रः । इंद्रजेष्याः । अस्मान् अवंतु ।  
+> देवाः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मे अस्मान्द्रा मेहनोदकसेचनयुक्ताः पर्वतासो मेघश्च वृत्रदत्ये
+> वृत्रहननसाधने भरहूत् संग्रामाह्वाने सजोषा अस्मत्समानप्रीतिश्च य इंद्रः
+> शंसते शस्त्रं पठते स्तुवते स्तोत्रं कुर्वते च यजमानाय पज्रो बलवान्
+> वेगवान्वा धायि गच्छति स इंद्रश्चेम इंद्रज्येष्ठा देवा आस्मानवंतः । रक्षंतु ।
+> आस्नानिति पूरणः । अथवैवं योज्यं । रुद्रा रुद्रपुत्रा मेहना सेचनेन युक्ताः
+> पर्वताः पर्वतसदृशाः पूरणवंतः प्रीणनवंतो वा । पूर्व पुनः हृतातेः
+> प्रीणातेर्वेति निरुक्तं । १-२० । वृत्रहत्ये भरहूत् सजोषाः सजोषसः सहायभूता मरुतो देवा इंद्रज्येष्ठा उक्तलक्षण इंद्रश्चास्मानवंतिति ॥
+
+##### Gist of the bhāṣya
+
+The Rudras who are with us, the showering ones, and the mountains, that is, the clouds, in the slaying of Vṛtra, the means of slaying Vṛtra, in the battle-call, सजोषा (*sajoṣā*), having the same affection as ours; and Indra, who comes धायि (*dhāyi*), swift and strong, to the sacrificer who recites a śastra and makes a stotra; and these gods with Indra as their chief: may they protect us. Or else it is to be construed thus: the Rudras are the sons of Rudra, मेहना (*mehanā*), joined with showering; पर्वताः (*parvatāḥ*), like mountains, full, or giving delight; the Nirukta gives the derivation from filling or from pleasing (Ni. 1-20). The Maruts, the gods, helpers in the slaying of Vṛtra and in the battle-call, with the same affection, having Indra as chief, and Indra of the stated nature: may they protect us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्राः (*rudrāḥ*)—the Rudras
+- मेहना (*mehanā*)—the showerers of rain
+- पर्वतासि (*parvatāsi*)—and the clouds
+- इंद्रजेष्ठाः (*iṃdrajeṣṭhāḥ*)—those who have Indra as chief
+- पर्वताः (*parvatāḥ*)—those like a mountain
+- मेहना (*mehanā*)—the causers of rain
+- रुद्राः (*rudrāḥ*)—the sons of Rudra, the mortal Maruts
+- यः (*yaḥ*)—which Indra
+- वृत्रहत्यॆ (*vṛtrahatyè*)—the means of slaying Vṛtra
+- भरहूत् (*bharahūt*)—when called in battle
+- सजोषाः (*sajoṣāḥ*)—having the same affection towards us
+- शंसते (*śaṃsate*)—who recites the śastra mantra
+- स्तुवते (*stuvate*)—who recites the stotra
+- पज्वः (*pajvaḥ*)—having speed
+- धायि (*dhāyi*)—comes running, such an Indra
+- इंद्रजेष्ठाः (*iṃdrajeṣṭhāḥ*)—having Indra as the chief
+- देवाः (*devāḥ*)—all the gods
+- अस्मान् (*asmān*)—us
+- अवंतु (*avaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, the gods, who are like mountains, causers of rain, having Indra as chief, sons of Rudra, and he who is with them, Indra, who in the battle that is the means of slaying Vṛtra, when called, having equal affection towards us, runs with strength to help the sacrificer who recites the śastra and the stotra, and all the other gods: may they protect us.
+
 ---
 
-**Progress note:** Done through printed p. 728. Maṇḍala 8 sūkta 63 rks 1 to 7 (up to padapāṭha of rk 7), pp. 722-728
+**Progress note:** Done through printed p. 734. Maṇḍala 8 sūkta 63 rks 7 (bhāṣya) to 12, pp. 729-734
