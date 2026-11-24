@@ -413,10 +413,10 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 461	yes	0	0	0	0	0	1	0	16	0
 462	yes	1	1	0	0	0	0	0	0	0
 463	yes	0	0	0	0	0	0	1	0	0
-464	yes	2	0	0	0	0	0	0	0	14
+464	yes	1	0	0	0	0	0	0	0	14
 466	NO	4	2	0	0	0	0	0	0	0
 467	yes	1	0	0	0	2	3	0	0	0
-468	yes	2	0	0	2	0	0	0	0	0
+468	yes	0	0	0	0	0	0	0	0	0
 469	yes	1	1	0	0	0	1	0	0	0
 470	yes	1	0	0	0	1	1	0	0	0
 471	yes	1	0	0	0	0	0	0	0	0

@@ -25,3 +25,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 16 | 413–427 | 14 | 12 | 3 questions; pp. 414, 422 not in the supplied text | see git log |
 | 17 | 428–442 | 21 | 18 | 3 questions; pp. 434, 440 not in the supplied text | see git log |
 | 18 | 443–457 | 22 | 20 | the agent hit the usage limit before its report: file complete to p. 457 and well-formed, but its list of unchecked pages is lost (pp. 458, 465, 466 are not in the supplied text) | see git log |
+| 19 | 458–472 | 13 | 11 | 2 questions; p. 458 not in the supplied text (465–466: text found under neighbouring labels) | see git log |

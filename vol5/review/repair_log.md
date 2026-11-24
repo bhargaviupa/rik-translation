@@ -389,3 +389,16 @@
 - p. 457 (English line 8428) [R3]: `*āc ca saṃyogasya…*: lengthening` → `*atvasantasya cādhātoḥ*: lengthening of the penultimate vowel` — p.457: ಅತ್ವಸಂತಸ್ಯಚಾಧಾತೋಃ ಎಂಬುದರಿಂದ ಉಪಧಾದೀರ್ಘ (second pass S3, findings.tsv)
 - p. 457 (English line 8428) [R1]: `*bhidir vidāraṇe*; *luṅ*` → `*bhidir vidāraṇe*; *laṅ*` — p.457: ಭೇತ್—ಭಿದಿರ್ ವಿದಾರಣೇ ಧಾತು. ಲಜ್ ಪ್ರಥಮಪುರುಷ ಏಕವಚನದಲ್ಲಿ ತಿಪ್; bhāṣya p.454: ಲಜಾ ಬಹುಲಂ ಛಂದಸೀತಿ (second pass S3, findings.tsv)
 - p. 457 (English line 8428) [R1]: `*nighāta*. **|| 6 ||**` → `*nighāta*. **vaiśvānaraḥ**: a derivation was shown earlier; for the charm of the meaning it can be explained another way: *viśvān sarvān prā` — p.457: ವೈಶ್ವಾನರಃ— ಇದಕ್ಕೆ ಹಿಂದೆ ಒಂದು ಪ್ರಕ್ರಿಯಾ ತೋರಿಸಿದೆ. ಅರ್ಥಸ್ವಾರಸ್ಯದಿಂದ ಇನ್ನೊಂದು ರೀತಿಯಿಂದ ನಿರ್ವಚನ ಮಾಡಬಹುದು. ವಿಶ್ವಾನ್ ಸರ್ವಾನ್ ಪ್ರಾಣಿನಃ ಪ್ರತಿ ಋತೋ ಗಚ್ಛತಃ ಇತಿ ವಿಶ್ವಾನರಾ ಮಧ್ಯಮೋತ್ತಮೌ । ಋ ಗತ್ ಧಾತು. ನಂದಿಗ್ರಹ (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 459 (English line 8464) [R1]: `praised with many hymns by the son of Śatavani and by the king Puruṇītha` → `praised with many hymns in the son of Śatavani and in the king Puruṇītha` — ಶಾತವನಿಯ ಮಗನಲ್ಲಿಯೂ, ... ಪುರುನೀಥನೆಂಬ ರಾಜನಲ್ಲಿಯೂ ... ಸ್ತುತಿಸಲ್ಪಡುತ್ತಾನೆ (locative 'in', not 'by'; the Pratipadārtha line has 'in') (second pass S3, findings.tsv)
+- p. 460 (English line 8470) [R1]: `*kitaḥ* (Pā. Sū. 6-1-165): end-acute.` → `*kitaḥ* (Pā. Sū. 6-1-165): end-acute; locative singular form.` — ಅಂತೋದಾತ್ತಸ್ವರ ಬರುತ್ತದೆ. ಸಪ್ತಮೀ ಏಕವಚನಾಂತರೂಪ. (second pass S3, findings.tsv)
+- p. 460 (English line 8470) [R1]: `*tak* vowel after *t* acute` → `the *i* after the *t* acute` — ತಕಾರೋತ್ತರ ಇಕಾರವು ಉದಾತ್ತವಾಗುತ್ತದೆ (second pass S3, findings.tsv)
+- p. 461 (English line 8470) [R1]: `*āt-saṃyogasya*…: lengthening` → `*atvasantasya*…: lengthening` — ಅತ್ವಸಂತಸ್ಯ ಸೂತ್ರದಿಂದ ಉಪಧಾದೀರ್ಘ (second pass S3, findings.tsv)
+- p. 464 (English line 8542) [R1]: `the sages of the Kapardin line gave` → `the sage Kapardin gave` — ರಾತಿಶಬ್ದಕ್ಕೆ ಮಿತ್ರನೆಂಬರ್ಥವನ್ನು ಕಪರ್ದಿಮಹರ್ಷಿಗಳು ಹೇಳಿರುವರು (second pass S3, findings.tsv)
+- p. 465 (English line 8548) [R1]: `(U. Sū. 1-156 as printed)` → `(U. Sū. 1-157 as printed)` — ಶ್ವನ್ನುಕ್ಷನ್ (ಉ. ಸೂ. ೧-೧೫೭) (second pass S3, findings.tsv)
+- p. 467 (English line 8588) [R1]: `(U. Sū. 2-29 [?])` → `(U. Sū. 2-229)` — ವಶಃ ಕಿತ್ (ಉ. ಸೂ. ೨-೨೨೯) (second pass S3, findings.tsv)
+- p. 468 (English line 8588) [R1]: `(Pā. Sū. 6-2-1[?])` → `(Pā. Sū. 6-2-18)` — ಪತ್ಯಾವೈಶ್ವರ್ಯೇ (ಪಾ. ಸೂ. ೬-೨-೧೮) (second pass S3, findings.tsv)
+- p. 470 (English line 8618) [R1]: `sacrificers at all times` → `sacrificers at the proper time` — ಋತ್ವಿಜಃ—ಸಕಾಲದಲ್ಲಿ ಯಜ್ಞ ಮಾಡತಕ್ಕವರೂ (second pass S3, findings.tsv)
+- p. 471 (English line 8626) [R1]: `*bahulaṃ chandasi*: *śap* dropped` → `*bahulaṃ chandasi*: *śnu* dropped` — ಬಹುಲಂಛಂದಸಿ ಎಂಬುದರಿಂದ ವಿಕರಣಕ್ಕೆ (ಶ್ನು) ಲುಕ್ (second pass S3, findings.tsv)
+- p. 471 (English line 8626) [R1]: `*sanvad bhāva*; *dīrgho laghoḥ*: lengthening; *nighāta*;` → `*sanvad bhāva*; *sanyataḥ* (Pā. Sū. 7-4-79): *i* for the *a* of the reduplicative syllable; *dīrgho laghoḥ*: lengthening; *bahulaṃ chandasy ` — ಸನ್ಯತಃ (ಪಾ. ಸೂ. ೭-೪-೭೯) ಎಂಬುದರಿಂದ ಅಭ್ಯಾಸ ಅಕಾರಕ್ಕೆ ಇತ್ವ ... ಅಡಾಗಮ ಬರುವುದಿಲ್ಲ; no nighāta mentioned for jījananta (second pass S3, findings.tsv)
