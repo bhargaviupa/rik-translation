@@ -35056,6 +35056,290 @@ Indra will punish wicked, merciless merchants who take extremely high interest. 
 > वयं । घ । ते । अपूर्वा । इंद्र । ब्रह्माणि । वृत्रहन् ।  
 > पुरुतमासः । पुरुहूत । वज्रिवः । भृतिं । न । प्र । भरामसि ॥ ११ ॥
 
+### Printed p. 772
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वयं घ खलु ते तवापूर्वा नूतनानि ब्रह्माणि परिवृढानि
+> स्रोत्राणि प्र भरामसि संभरामः पुरूतमासो बहुतमा वयमृत्विग्यजमानरूपेण वृत्रहन् वृत्रस्य हंतः पुरुहूत बहुभिराहूत हे वज्रिवो वज्रयुक्तेंद्र ।
+> किमिव । भृतिं न भृतिमिव । तं यथा नियमेन प्रयच्छंति तद्वत् । नियमेन
+> प्रदानतात्पर्याद्भृतिदृष्टांतत्वमविरुद्धं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, we indeed offer to you new (अपूर्वा (*apūrvā*), नूतनानि (*nūtanāni*)) hymns of praise (ब्रह्माणि (*brahmāṇi*) is explained as परिवृढानि स्रोत्राणि (*parivṛḍhāni srotrāṇi*)), we who are very many (पुरूतमासः (*purūtamāsaḥ*) is explained as बहुतमा (*bahutamā*)) in the form of priests and sacrificers; O slayer of Vṛtra, invoked by many, O thunderer." Like what? Like a wage (भृतिं न (*bhṛtiṃ na*)): as men give a wage according to rule, so. Because the intention is giving according to rule, the simile of the wage is not contradictory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—slayer of Vṛtra
+- पुरुहूत (*puruhūta*)—worthy of the praise of many
+- वज्रिवः (*vajrivaḥ*)—bearer of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- पुरूतमासः (*purūtamāsaḥ*)—existing in the form of many, priests, sacrificers and others
+- वयं घ (*vayaṃ gha*)—we ourselves
+- ते (*te*)—in your honour
+- भृतिं न (*bhṛtiṃ na*)—like a present
+- अपूर्वा (*apūrvā*)—new
+- ब्रह्माणि (*brahmāṇi*)—hymns of praise
+- प्र भरामसि (*pra bharāmasi*)—we procure and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, worthy of the praise of many, bearer of the thunderbolt, we, existing in the form of many, priests, sacrificers and others, offer to you, like a present, newly composed hymns of praise.
+
+##### English translation
+Indra, slayer of Vritra, invoked of many, we, your many worshippers, offer new hymns to you, thunderer, as your wages.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒र्वीश्चि॒द्धि त्वे तु॑विकूर्मिन्ना॒ शसो॒ हवं॑त इंद्रो॒तयः॑ ।  
+> ति॒रश्चि॑द॒र्यः सव॒ना व॑सा गहि॒ शवि॑ष्ठ श्रु॒धि मे॒ हवं॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्विः । चित् । हि । त्वे इति । तुविक्कूर्मिन् । आशसः । हवंते । इंद्र । ऊतॆयः ।  
+> तिरः । चित् । आर्यः । सवना । अ । वसो इति । गहि । शविष्ठ । श्रुधि । मे । हवं ॥ १२ ॥
+
+### Printed p. 773
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुविकूर्मिन् बहुकर्मन्निंद्र त्वे त्वयि पूर्विर्बहून्याशस अशंसनानि
+> स्थितानि तथोतयो रक्षाश्च त्वय्यवस्थिता लब्धं हवंत आह्वयंति स्तोतारोऽन्ये ।
+> अतोऽर्योऽरेः सवना सवनानि तिरश्चित्तिरस्कृत्यारीन्वा तिरस्कृत्यास्मत्सवनान्यभिलक्ष्य
+> हे वसो वासकेंद्र आ गहि । आगच्छ, अतो हे शविष्ठातिशयेन बलवन् मे हवं
+> श्रुधि । शृणु ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, doer of many deeds (तुविकूर्मिन् (*tuvikūrmin*)), in you many hopes (आशसः (*āśasaḥ*), अशंसनानि (*aśaṃsanāni*)) are placed, and likewise protections (ऊतयः (*ūtayaḥ*)) rest in you; having obtained them **NOTE** other praisers invoke you. Therefore, disregarding the enemy's (अर्यः (*aryaḥ*)) pressings, or disregarding the enemies, and turning towards our pressings, O Vasu, Indra the bestower of dwellings, come. Therefore, O most mighty, hear my call."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुविकूर्मिन् (*tuvikūrmin*)—doer of many deeds
+- इंद्र (*iṃdra*)—O Indra
+- त्वे चिद्दि (*tve ciddi*)—obtained from you alone
+- पूर्विः (*pūrviḥ*)—many
+- आशसः (*āśasaḥ*)—desired objects
+- ऊतयः (*ūtayaḥ*)—protections
+- हवंते (*havaṃte*)—other praisers also call on you, desiring them
+- वसो (*vaso*)—O Indra, giver of dwellings
+- अर्यः (*aryaḥ*)—of the enemy
+- सवना (*savanā*)—the sacrifices
+- तिरश्चित् (*tiraścit*)—rejecting
+- आ गहि (*ā gahi*)—come to us
+- शविष्ठ (*śaviṣṭha*)—O Indra, of exceeding strength
+- मे (*me*)—my
+- हवं (*havaṃ*)—praise
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many deeds, other praisers also call on you, desiring the many desired objects and protections that are to be obtained from you alone. O Indra, giver of dwellings, rejecting the enemy's sacrifices, come to us. O Indra, of exceeding strength, hear my praise.
+
+##### English translation
+Indra, doer of many great deeds, (other worshippers) invoke the manifold hopes and protections which abide in you; but rejecting the enemy's oblations, come to us, bestower of dwellings ; O mightiest, hear my appeal.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं घा॑ ते॒ त्वे इद्दिंद्र॒ विप्रा॒ अपि॑ ष्मसि ।  
+> न॒हि त्वद॒न्यः पु॑रुहूत॒ कश्च॒न मघ॑व॒न्नस्ति॑ मर्डि॒ता ॥ १३ ॥
+
+### Printed p. 774
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । घ । ते । त्वे इति । इत् । ऊं इति । इंद्र । विप्राः । आपि । स्मसि ।  
+> नहि । त्वत् । अन्यः । पुरुहूत । कः । चन । मघवन् । आस्ति । मर्डिता ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वयं घ वयं खलु ते तव स्वभूताः । अतस्त्वे इत्त्वय्येव विप्रा
+> मेधाविनः स्तोतारोऽपि स्मसि । आपिः संभावनायां । त्वदधीना स्मृत्यर्थः ।
+> अन्यान्विहायेंद्र एव वर्तते । तस्मिन्नोतिशय इति आह । हे पुरुहूत त्वदन्यः
+> कश्चन हे मघवन् मर्डिता सुखयिता नास्ति ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, we are indeed yours, our own people. Therefore, in you alone we, the wise ones (विप्रा (*viprā*), मेधाविनः (*medhāvinaḥ*)), the praisers, are ; the word आपिः (*āpiḥ*) is in the sense of supposition; the meaning is that we are dependent on you. Leaving others, he stands with Indra alone." **NOTE** "O invoked of many, O Maghavan, other than you there is no one who gives happiness (मर्डिता (*marḍitā*), सुखयिता (*sukhayitā*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वयं (*vayaṃ*)—we
+- ते घु (*te ghu*)—are indeed yours
+- विप्राः (*viprāḥ*)—we, the wise
+- त्वे इत् (*tve it*)—in you alone
+- आपि स्मसि (*āpi smasi*)—have taken refuge
+- पुरुहूत (*puruhūta*)—worthy of the invocation of many
+- मघवन् (*maghavan*)—wealthy, O Indra
+- त्वदन्यः (*tvadanyaḥ*)—other than you
+- कश्चन (*kaścana*)—anyone
+- मर्डिता (*marḍitā*)—as a giver of happiness
+- नहि अस्ति (*nahi asti*)—certainly there is not
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we are yours. We, the wise, have taken refuge in you alone. O Indra, worthy of the invocation of many, and wealthy, there is certainly no one other than you who is as much a giver of happiness as you.
+
+##### English translation
+Indra. we are yours, therefore we, your worshippers, depend on you; other than you, Maghavan, invoked of many, there is no giver of happiness.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अ॒स्या अम॑तेरु॒त क्षु॒धो॒३॒॑ ३ भिश॑स्ते॒रव॑ स्पृधि ।  
+> त्वं न॑ ऊ॒ती तव॑ चि॒त्रया॑ धि॒या शिक्षा॑ शचिष्ठ गातु॒वित् ॥ १४ ॥
+
+### Printed p. 775
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । आस्याः । अमतेः । उत । क्षुधः । अभिशस्त्रेः । अव । स्पृधि ।  
+> त्वं । नः । ऊती । तव । चित्रया । धिया । शिक्ष । शचिष्ठ । गातुऽवित् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नोऽस्मानस्मा अमतेर्दारिद्रात्मकाया उतापि च
+> क्षुधोऽभिशस्तेर्निंदायाश्च सकाशादव स्पृधि । अनमोचय । किंच त्वं नोऽस्मभ्यं
+> तवोत्यूत्या चित्रया धिया विचित्रेण कर्मणा शिक्ष । देह्यभिमतं । हे शविष्ठ
+> गातुविनार्गज्ञ उपायज्ञ स्त्वं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, free us from this (अस्या (*asyā*)) poverty (अमतेः (*amateḥ*)), and also from hunger and from censure; that is, release us. Moreover, to us, by your protection and by wonderful work (चित्रया धिया (*citrayā dhiyā*), विचित्रेण कर्मणा (*vicitreṇa karmaṇā*)), give (शिक्ष (*śikṣa*)) what we desire. O most mighty, you know the way (गातुवित् (*gātuvit*)), you know the means."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठ (*śaviṣṭha*)—O Indra, of exceeding strength
+- गातुवित् (*gātuvit*)—who knows the good path
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- अस्याः अमतेः (*asyāḥ amateḥ*)—from this evil power in the form of poverty
+- उत (*uta*)—and
+- क्षुद्धः (*kṣuddhaḥ*)—from hunger
+- अभिशस्त्रेः (*abhiśastreḥ*)—from words of censure
+- अव स्पृधि (*ava spṛdhi*)—separate
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- तव (*tava*)—your
+- ऊती (*ūtī*)—by protection
+- चित्रया (*citrayā*)—of various kinds
+- धिया (*dhiyā*)—by works
+- शिक्ष (*śikṣa*)—give our desired objects
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of exceeding strength, who know the good path, separate us from this evil power in the form of poverty, from hunger and from words of censure. By your protection and by works of various kinds, furnish us with our desired objects.
+
+##### English translation
+Deliver us from this poverty, hunger, and calumny; give us (our desire)
+by your protection and wondrous working; O mightiest, you know the
+right way.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॒ इद्वः॑ सु॒तो अ॑स्तु॒ कल॑यो॒ मा बि॑भीतन ।  
+> अपेदे॒ष ध्व॒स्म्याय॑ति स्व॒यं फै॒षो अपा॑यति ॥ १५ ॥
+
+### Printed p. 776
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । इत्' । वः । सुतः । अस्तु । कलयः । मा । बिभीतन ।  
+> अप । इत् । एषः । ध्वस्मा । आयति । स्वयं । घ । एषः । अप । अयति ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमः सुतोऽभिषुतो वो युष्माकं संबंध्यस्त्वित् । भवत्वेवेंद्राय ।
+> हे कलयः । कलिमहर्षेर्ज्ञातयः पुत्राश्चात्र संबोध्यंते । यूयं मा विभीतन ।
+> भीता मा भवत । भीत्यभावे कारणमाह । एष भ्वस्मा ध्वंसको राक्षसादिरपायति ।
+> अपगच्छत्येवेंद्रसामर्थ्यात् । स्वयं घ स्वयमेवैषोपायति । उ इति पूर्णः ।
+> पुनरुक्तिर्दार्ढार्थात् ॥
+
+##### Gist of the bhāṣya
+
+"The Soma pressed, yours, belonging to you, let it be only for Indra. O Kalis: the relatives and sons of the seer Kali are addressed here. Do not fear; be not afraid. He gives the reason for fearlessness: this destroyer (ध्वस्मा (*dhvasmā*)), a rākṣasa or the like, goes away through the power of Indra; of himself he goes away. The particle is a filler; the repetition is for emphasis."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कलयः (*kalayaḥ*)—O relatives of the seer Kali
+- वः (*vaḥ*)—by you
+- सुतः (*sutaḥ*)—pressed
+- सोमः (*somaḥ*)—the Soma
+- अस्तु इत् (*astu it*)—let it be devoted to Indra alone
+- मा बिभीतन (*mā bibhītana*)—do not fear
+- ध्वस्मा (*dhvasmā*)—destroyer
+- एषः (*eṣaḥ*)—this rākṣasa
+- अपायति इत् (*apāyati it*)—goes far away
+- स्वयं घ (*svayaṃ gha*)—of his own accord
+- एषः (*eṣaḥ*)—he
+- अपायति (*apāyati*)—goes far away
+
+##### भावार्थ (Bhāvārtha)
+
+O relatives of the seer Kali, let this Soma pressed by you be devoted to the offering to Indra alone. Do not fear. This destroyer, the rākṣasa, goes far away. He goes away of his own accord.
+
+##### English translation
+Let your effused Soma juice be only (for Indra); O sons of Kali, fear not; that malignant (spirit) departs, of his own accord he departs.
+
+## Sūkta 67 (Maṇḍala 8)
+
+> श्वान्नित्येकविंशत्कृचमष्टमं सूक्तं । अत्रानुक्रमणिका । श्यान्नु सैका मत्सः
+> सांमदो मैत्रावरुणिर्मान्यो वा बहवो वा मत्स्या जालनद्दा आदित्यानस्तुवन् ।
+> संमदाख्यस्य महामीनस्य पुत्रो मत्स्यो यद्वा मित्रावरुणयोः पुत्रो
+
+### Printed p. 777
+
+> मान्योऽथवा बहवो वा मत्सा जालनद्धाः संतो बंधनमोक्षायादित्यानस्तुवन् ।
+> अतस्त एवर्षयः । पं गायत्रं प्राग्वत्सप्रेरिति परिभाषया गायत्रि छंदः । आदित्या
+> देवता ! सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa: this is the eighth sūkta, of twenty-one ṛks. Here the Anukramaṇikā states the seers: a fish Matsya, son of the great fish called Saṃmada, or Mānya, son of Mitra and Varuṇa, or the many fish caught in a net, praised the Ādityas, for release from the bond. Therefore they are the seers. The metre is Gāyatrī by a rule of interpretation (paribhāṣā), and the deity is the Ādityas. The use of the sūkta in ritual is by indications (liṅga). **NOTE**
+
+##### Anuvāda
+
+The Anukramaṇikā: this sūkta beginning त्यान्नु (*tyānnu*) is the eighth sūkta in the seventh anuvāka. It has twenty-one ṛks. In the Anukramaṇikā it is said: त्यान्नु सैका मत्स्यः सांमदो मैत्रावरुणिर्मान्यो वा बहवो वा मत्स्या जालनद्दा आदित्यानस्तुवन् (*tyānnu saikā matsyaḥ sāṃmado maitrāvaruṇirmānyo vā bahavo vā matsyā jālanaddā ādityānastuvan*). A fish named Matsya, the son of the great fish named Saṃsada, or Mānya, the son of Mitra and Varuṇa, or Bahava, or fishes caught in a net, praised the Ādityas with this sūkta, wishing to be released from the net. Therefore they are the seers of this sūkta; the Ādityas are the deity; the metre is Gāyatrī. The application of the sūkta in the ritual is by indications (liṅga).
+
+Sūkta 67.
+Maṇḍala 8; Anuvāka 7; Sūkta 67.
+Aṣṭaka 6; Adhyāya 4; Varga 51, 52, 53, 54.
+Number of ṛks in the sūkta: 21.
+Ṛṣi: Matsyaḥ Sāṃmato Mānyo vā Maitrāvaruṇir bahavo vā matsā jālanaddhāḥ. **NOTE**
+Devatā: Ādityas.
+Chandas: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यान्न क्ष॒त्रिया॒ अव॑ आदि॒त्यान्या॑चिषामहे ।  
+> सु॒मृ॒ळी॒का अ॒भिष्ट॑ये ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्यान् । नु । क्षत्रियान् । अवः । आदिश्यान् । याचिषामहे ।  
+> सुमृळीकान् । अभिष्टये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्यांस्तानादित्यान् क्षत्रियाञ्जात्या क्षत्रियानवो रक्षणं याचिषामहे ।
+> याचामहे । कीदृशान् । सुमृळीकान् सुष्टु सुखयित्वान् । किमर्थं ।
+> अभिष्टयेऽभिगमनायाभिमताय वा । मत्स्यपक्षे जालनिर्गमनं प्रार्थितमितरपक्षेऽभिमतमिति विवेकः ॥
+
+##### Gist of the bhāṣya
+
+"We ask protection (अवः (*avaḥ*)) of those Ādityas, Kṣatriyas by birth. What are they like? Well gladdening (सुमृळीकान् (*sumṛḷīkān*)). For what purpose? For approach or for the desired (अभिष्टयेऽभिगमनायाभिमताय (*abhiṣṭaye 'bhigamanāyābhimatāya*)). The distinction is: on the side of the fishes release from the net is prayed for; on the other side, the desired."
+
 ---
 
-**Progress note:** Done through printed p. 771. Maṇḍala 8 Sūkta 66 ṛks 7-11, pp. 766-771
+**Progress note:** Done through printed p. 777. Maṇḍala 8 Sūkta 66 ṛks 11-15, Sūkta 67 intro and ṛk 1, pp. 772-777
