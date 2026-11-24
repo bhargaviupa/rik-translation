@@ -1769,6 +1769,354 @@ O Indra and Varuṇa, give us wealth that is desired by many, endowed with dwell
 ##### English translation
 Bestow upon us, Indra and Varuna, riches desirable to all, together with a dwelling and abundant food, for the hero, Aditya, who punishes beings devoid of truth, gives (to the devout) unbounded treasures.
 
+### Printed p. 45
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यमिंद्रं॒ वरु॑णमष्ट मे॒ गीः प्राव॑त्तो॒के तन॑ये॒ तूतु॑जाना ।  
+> सु॒रत्ना॑सो दे॒वनी॑तिं गमेम यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । इंद्रं । वरुणं । अष्ट । मे । गीः । प्र । आवत् । तोके । तनये ।  
+> तूतुचाना ।  
+> सुरत्नासः । देव्यवीतिं । गमेम । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मदीयेयं गीर् स्तुतिरिंद्रं वरुणं चाष्ट । अश्नुतां । व्याप्नोतु ।
+> तथा तूतुजाना मया प्रेर्यमाणा सा तोके पुत्रे तनये पौत्रे च विषये
+> प्रावत् । प्ररक्षत्वस्मान् । वयं च सुरत्सासः शोभनधनाः संतो देवनीतिं देवैः
+> कामयितव्यं यज्ञं गमेम । प्राप्नुयाम । हे इंद्रावरुणादयः सर्वे देवाः
+> यूयं स्वस्तिभिः कल्याणैनोर्ऽस्मान्नदा सर्वदा पात । रक्षत ॥
+
+##### Gist of the bhāṣya
+
+May this praise of mine reach (अश्नुतां (*aśnutāṃ*), "pervade") Indra and Varuṇa. Impelled (तूतुजाना (*tūtujānā*)) by me, may it protect us in respect of son and grandson. And we, being possessed of good wealth, would attain the sacrifice that the gods desire (देवनीतिं (*devanītiṃ*)). O Indra, Varuṇa and the other gods, always protect us with blessings. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- इयं गीः (*iyaṃ gīḥ*)—this praise
+- इंद्रं (*iṃdraṃ*)—Indra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- अष्ट (*aṣṭa*)—may it pervade and unite with (them)
+- तूतुजाना (*tūtujānā*)—this same praise, offered by me
+- तोकॆ (*tokè*)—to our sons
+- तनये (*tanaye*)—to (our) grandsons
+- प्रावत् (*prāvat*)—may it be a protector
+- वयं (*vayaṃ*)—we
+- सुरत्नासः (*suratnāsaḥ*)—possessing excellent wealth
+- देवनीतिं (*devanītiṃ*)—the sacrifice dear to the gods
+- गमेम (*gamema*)—may we perform (O Indra, Varuṇa and the rest)
+- यूयं (*yūyaṃ*)—all of you
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+May this praise of mine pervade and unite with Indra and Varuṇa. May this same praise, offered by me, be a protector of our sons and grandsons. May we, possessing excellent wealth, perform the sacrifice dear to the gods.
+
+### Printed p. 46
+O Indra, Varuṇa and the rest, may all of you always protect us with blessings.
+
+##### English translation
+May this my praise reach Indra and Varuṇa, and, earnestly offered (by me), preserve sons and grandsons: let us, possessed of affluence, present (their) food to the gods : and you, (deities), ever cherish us with blessings.
+
+## Sūkta 85 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनीषे वामिति पंचर्चं पंचदशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रावरुणं । पुनीष इत्यनुक्रांतं ॥ अभिप्लविकेषूक्ष्येषु तृतीयसवने स्तोमवृद्धौ
+> प्रशास्तुरिदमावापार्थं । सूत्रितं च । युवां नरा पुनीषे वां । आ. ७-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पुनीषे वां (*punīṣe vāṃ*) has five Ṛks and is the fifteenth sūkta. Its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Indra and Varuṇa; the Anukramaṇī records it as "पुनीषे (*punīṣe*)". Use: in the Abhiplava Ukthya rites, at the third pressing, for increase of the stoma, the Praśāstṛ recites it as an āvāpa (insertion). It is prescribed in the sūtra युवां नरा पुनीषे वां । आ. ७-९ । इति (*yuvāṃ narā punīṣe vāṃ | ā. 7-9 | iti*) (Ā. 7-9).
+
+##### Anuvāda
+
+This sūkta, "पुनीषे वां (*punīṣe vāṃ*)", is the fifteenth sūkta in the fifth anuvāka; it has five Ṛks. Its seer is Vasiṣṭha; its deity is Indra-Varuṇa; its metre is Triṣṭubh. In the Anukramaṇī it is stated as beginning with "पुनीषे (*punīṣe*)". In the Ukthya sacrifice connected with the Abhiplava, at the time of the third pressing, for the increase of the stoma, the officiant called Praśāstṛ is to recite it as an āvāpa-sūkta; this has been set out in the Āśvalāyana Śrauta Sūtra, in the sūtra "युवं नरा पुनीषे वां (*yuvaṃ narā punīṣe vāṃ*)" (Ā. 7-9).
+
+##### Particulars
+
+- Maṇḍala 7; Anuvāka 5; Sūkta 85
+- Aṣṭaka 5; Adhyāya 6; Varga 7
+- Number of Ṛks in the sūkta: 5
+- Ṛṣi: Vasiṣṭha
+- Devatā: Indra and Varuṇa
+- Chandas: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒नी॒षे वा॑मर॒क्षसं॑ मनी॒षां सोम॒मिंद्रा॑य॒ वरु॑णाय॒  ॑
+> जुह्व॑त् ।
+
+### Printed p. 47
+
+> घृतप्रतीकामुषसं न देवीं ता नो यामन्नुरुष्यतामभीके ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनीषे । वां । अरक्षसं । मनीषां । सोमं । इंद्राय । वरुणाय । जुह्वत् ।  
+> घृतप्रतीकां । उषसं । न । देवीं । ता । नः । यामन् । उरुष्यतां । अभीके ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रावरुणौ वां युवाभ्यां युवयॊरर्थमरक्षसं रक्षोरहितां राक्षसैरसंस्पृष्टां मनीषां स्तुतिं पुनीषे। शोधयामि। किं कुर्वन् । इंद्राय वरुणाय च सोमं जुह्वदिंद्रं वरुणं चोद्दिश्य सोममग्नौ प्रक्षिपन् । कीदृशीं
+> मनीषां । देवीं द्योतमानामुषसं नोषसमिव धृतप्रतीकां दीप्तावयवां।
+> शिष्टः । परोक्षकृतः । ता ताविंद्रावरुणावभीकेऽभिगते युद्धे यामन्यामनि
+> युद्धार्थं गमने सति नोऽस्मानुरुष्यतां । रक्षतां !
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, for you two I purify (पुनीषे (*punīṣe*), "I cleanse") this praise (मनीषां (*manīṣāṃ*)), free from rakṣas, untouched by demons. Doing what? Offering soma into the fire with Indra and Varuṇa in view. What kind of praise? Divine, shining, like Uṣas, with radiant (धृतप्रतीकां (*dhṛtapratīkāṃ*), "bright-limbed") parts. Those two, Indra and Varuṇa, when battle is at hand (अभीके (*abhīke*)) and there is a going forth to battle (यामन् (*yāman*)), protect us (उरुष्यतां (*uruṣyatāṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra and Varuṇa, addressed)
+- इंद्राय (*iṃdrāya*)—with Indra in view
+- वरुणाय (*varuṇāya*)—with Varuṇa in view
+- सोमं (*somaṃ*)—soma
+- जुह्वत् (*juhvat*)—offering
+- नां (*nāṃ*)—with you two in view
+- देवीं (*devīṃ*)—shining
+- उषसं न (*uṣasaṃ na*)—like the goddess Dawn
+- धृतप्रतिकां (*dhṛtapratikāṃ*)—having radiant limbs
+- अरक्षसं (*arakṣasaṃ*)—untouched by rākṣasas and the like
+- मनीषां (*manīṣāṃ*)—the praise
+- पुनिषे (*puniṣe*)—I make well-prepared
+- ता (*tā*)—those two, Indra and Varuṇa
+- अभीके (*abhīke*)—near at hand
+- यामन् (*yāman*)—in the operations of battle
+- नः (*naḥ*)—us
+- उरुष्यतां (*uruṣyatāṃ*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, offering soma with Indra in view and with Varuṇa in view, with you both in view I make well-prepared a praise that is shining, whose limbs are radiant like the goddess Dawn, and that is untouched by rākṣasas and the like. May those two, Indra and Varuṇa, protect us in the operations of battle that are at hand.
+
+##### English translation
+I offer to you both adoration, uninterrupted by Rakshasas, presenting the Soma to Indra and to Varuna,—(adoration), of which the members are radiant as the celestial dawn: may they two protect us at the time of going to battle.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्पर्धं॑ते॒ वा उ॑ देव॒हूये॒ अत्र॒ येषु॑ ध्व॒जेषु॑ दि॒द्यवः॒  ॑
+> पतंति ।  
+> यु॒वं ता इं॑द्रवरुणाव॒मित्रा॑न्ह॒तं परा॑चः॒ शर्वा॒ विषू॑चः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्पर्धंते । वै । ऊं इति । देवहूये । अत्र । येषु । ध्वजेषु । दिद्यवः । पतंति ।  
+> युवं । तान् । इंद्रावरुणौ । अमित्रान् । हतं । पराचः । शर्वा । विषूचः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवह्वये । देवा विजिगीषवो योद्धारो ह्वयंते युद्धार्थं परस्परमाह्वयः त इति देवहूयः संग्रामः । अत्रास्मिन्ववहूये संग्रामे स्पर्धंते वै
+> शत्रुवोऽस्माभिः स्पर्धंते खलु । उ इति पूरकः । येषु संग्रामेषु ध्वजेषु
+> पताकासु दिद्यवः शत्रुक्षिप्तान्यायुधानि पतंति तांस्तेषु संग्रामेषु विद्यमानानमित्राञ्चितून् हे इंद्रावरुणौ युवं युवां शर्वा शरुणा हिंसकेनायुधेन
+> पराचः पराङ्मुखान् विषूचो विविधगतींश्च हतं । हिंस्तं । यथा ते शत्रवः
+> पराङ्मुखा इतस्ततः पलायमानाश्च भवंति तथा तन्नाधथामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+देवहूये (*devahūye*): the "devas" are warriors desiring victory, who call (ह्वयंते (*hvayaṃte*)) one another to battle; hence the battle is called देवहूयः (*devahūyaḥ*). In this battle the enemies contend with us indeed (स्पर्धंते वै (*spardhaṃte vai*)); उ (*u*) is an expletive. In those battles in which weapons hurled by the enemy (दिद्यवः (*didyavaḥ*)) fall upon the banners, O Indra and Varuṇa, you two strike the enemies present in those battles with your destructive weapon (शर्वा (*śarvā*)), so that they are turned away (पराचः (*parācaḥ*)) and scattered in various directions (विषूचः (*viṣūcaḥ*)): that is, make it so that those enemies flee, face averted, hither and thither.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवहूये (*devahūye*)—in which the gods are called to help
+- अत्र (*atra*)—in this battle
+- स्पर्धंते वै (*spardhaṃte vai*)—do not the enemies contend with us?
+- येषु (*yeṣu*)—in which battles
+- न्वजेषु (*nvajeṣu*)—upon the banners
+- दिद्यवः (*didyavaḥ*)—weapons hurled by the enemies
+- पतंति (*pataṃti*)—fall
+
+### Printed p. 50
+- तान् (*tān*)—those who resist in those battles
+- अमित्रान् (*amitrān*)—enemies
+- इंद्रावरुणौ (*iṃdrāvaruṇau*)—O Indra and Varuṇa
+- युवं (*yuvaṃ*)—you both
+- शर्वा (*śarvā*)—with the destructive weapon
+- पराचः (*parācaḥ*)—so that they are turned away
+- विषूचः (*viṣūcaḥ*)—and run off in various directions
+- हतं (*hataṃ*)—strike and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, in this battle, in which the gods are called to help, do not the enemies contend with us? In those battles in which weapons hurled by the enemies fall upon the banners, strike and destroy, both of you, with your destructive weapon the enemies who resist in those battles, so that they turn away and run off in various directions.
+
+##### English translation
+In the conflict where (combatants) strive against us, in those (contests) in which bright (weapons) fall upon the banners, do you two, Indra and Varuna, slay with your shaft those enemies who have been routed, and are scattered in various directions.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आप॑श्चि॒द्धि स्वय॑शसः॒ सदः॑सु दे॒वीरिंद्रं॒ वरु॑णं दे॒वता॒ धुः ।  
+> कृ॒ष्टीर॒न्नो धा॒रय॑ति॒ प्रवि॑क्ता वृ॒त्राण्य॒न्नो अ॑प्र॒तीनि॑ हंति ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । चित् । हि । स्वयशसः । सदःसु । देवीः । इंद्रं । वरुणं । देवता ।  
+> धुरिति धुः ।  
+> कृष्टीः । अन्यः । धारयति । प्रविक्ताः । वृत्राणि । अन्यः । अप्रतीनि । हंति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपश्चिदब्विकाराः सोमाश्च स्वयशसः स्वायत्तयशस्का देवीर्दोत्यमानाः
+> संतः सदःसु सदनेषु स्थानेष्टिंद्रं वरुणं च देवतैते द्वे देवते धुः । धारयंति । अवस्थापयंति । सोमेनाप्यायिता हि देवताः स्वे स्वे स्थानेऽवतिष्ठंते ।
+> [ Vol 23 ]                                                                 [ 5 ]
+> 50 सायणभाव्यसहिता [मं ७. अ. ५. सू. ८५
+> यद्वा । वसतीर्वयाख्या आप एव सोमाभिषवद्वारा सदनेष्ट्विंद्रं वरुणं च
+> धारयंति । तयोरिंद्रावरुणयोरन्य एकः प्रविक्ताः पृथकृताः पुण्यापुण्यविवेकेन
+> विचित्रफलभोक्तिः कृष्णीः प्रजा असांकर्येण धारयति । अन्य इंद्रो वृत्ताणि
+> शत्रुजातान्यप्रतीन्यनैरप्रतिगतानि हंति । हिनस्ति ॥
+
+##### Gist of the bhāṣya
+
+The waters, that is, the soma juices that are modifications of water, self-renowned (स्वयशसः (*svayaśasaḥ*)) and shining, in the seats (सदःसु (*sadaḥsu*)) hold (धुः (*dhuḥ*), "establish") Indra and Varuṇa, these two deities; for deities, when nourished by soma, stay each in its own place. Or else: the waters called वसतीर्वयाख्या (*vasatīrvayākhyā*), by means of the soma pressing, themselves hold Indra and Varuṇa in the seats. Of those two, one holds (धारयति (*dhārayati*)) the creatures (कृष्णीः (*kṛṣṇīḥ*)), kept apart (प्रविक्ताः (*praviktāḥ*)) by the discrimination of merit and demerit, enjoying varied fruits, without confusion. The other, Indra, slays (हंति (*haṃti*)) the enemy hosts (वृत्राणि (*vṛtrāṇi*)) that cannot be resisted (अप्रतीनि (*apratīni*)) by others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वयशसः (*svayaśasaḥ*)—self-renowned
+- देवीः (*devīḥ*)—shining
+- आपश्चित् (*āpaścit*)—the soma juices that flow like water
+- देवता (*devatā*)—who are of divine nature
+- इंद्रं (*iṃdraṃ*)—Indra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- सदःसु (*sadaḥsu*)—in the sacrificial places
+- धुः हि (*dhuḥ hi*)—do they not establish in their respective places?
+- अन्यः (*anyaḥ*)—one of these two, Indra and Varuṇa (Varuṇa)
+- प्रविक्ताः (*praviktāḥ*)—separate in the forms of merit and demerit
+- कृष्टीः (*kṛṣṭīḥ*)—the groups of creatures
+- धारयति (*dhārayati*)—bears by regulation
+- अन्यः (*anyaḥ*)—the other, Indra
+- अप्रतीनि (*apratīni*)—that cannot be resisted by others
+- वृत्राणि (*vṛtrāṇi*)—the enemies
+- हंति (*haṃti*)—kills
+
+##### भावार्थ (Bhāvārtha)
+
+The soma juices, self-renowned, shining, flowing like water, establish Indra and Varuṇa, who are of divine nature, in their respective places in the sacrificial enclosures. Of these two, Indra and Varuṇa, one, Varuṇa, bears by regulation the groups of creatures, separate in the forms of merit and demerit. The other, Indra, kills the enemies who cannot be resisted by others.
+
+##### English translation
+The divine Soma (juices), flowing like water, self-renowned, (offered) at religious assemblies, support Indra and Varuna: of whom one regulates mankind, distinguished (as good or bad), and the other slays unresisted foes.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सु॒क्रतु॑र्ऋत॒चिद॑स्तु॒ होता॒ य आ॑दित्य॒ शव॑सा वां॒ नम॑स्वान् ।  
+> आ॒व॒वर्त॒दव॑से वां ह॒विश्मा॒नस॒दित्स सु॑वि॒ताय॒ प्रय॑स्वान् ॥४॥
+
+### Printed p. 51
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सुक्रतुः । ऋत्चित् । अस्तु । होता । यः । आदित्या । शवसा । वां ।  
+> नमसान् ।  
+> आववर्तत् । अवसे । वां । हविष्मान् । असत् । इत् । सः । सुविताय प्रयस्वान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुक्रतुः शोभनकर्मा शोभनप्रज्ञो ना स होता स्तोता ऋतचिदृतस्कोदकस्य यज्ञस्य वा चेता निचेतास्तु । भवतु । हे आदित्यादितेः पुत्राविंद्रावरुणौ ॥
+> छांदसः सांहितिको ह्रस्वः ॥ यो नमस्वान्नमसा नमस्कारेण स्तोत्रेण वा युक्तः
+> सञ्भवसा बलेन युक्तौ वां युवां परिचरतीति शेषः । स सुक्रतुरित्यन्वयः । अपि च
+> यो हविष्मान् हविर्भियुक्तः सन्नवसे तर्पणार्थं वां युवामाववर्तत् आवर्तयेत् स यजमानः प्रयस्वानन्नवान् भूत्वा सुविताय सुष्टु प्राप्तव्याय फलायासदित् । भवेदेव ॥
+
+##### Gist of the bhāṣya
+
+Let that hotṛ, the praiser, be सुक्रतुः (*sukratuḥ*), of good action or good understanding, and ऋतचित् (*ṛtacit*), a perceiver (चेता (*cetā*)) of the water of ṛta or of the sacrifice. O sons of Aditi, Indra and Varuṇa (the short vowel in the vocative is a Vedic shortening in saṃhitā). He who, नमस्वान् (*namasvān*), furnished with homage or praise, serves you two, endowed with strength (the verb is to be supplied): he is that Sukratu, such is the construction. And he who, हविष्मान् (*haviṣmān*), furnished with oblations, turns you two hither (आववर्तत् (*āvavartat*)) for your satisfaction (अवसे (*avase*)), that sacrificer, being प्रयस्वान् (*prayasvān*), possessed of food, shall come to सुविताय (*suvitāya*), a fruit well to be attained: असदित् (*asadit*), he shall indeed be. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्या (*ādityā*)—O Indra and Varuṇa, sons of Aditi
+- नमस्वान् (*namasvān*)—joined with praise
+- यः (*yaḥ*)—which praiser
+- शवसा (*śavasā*)—endowed with strength
+- नां (*nāṃ*)—worships you
+- सुक्रतुः (*sukratuḥ*)—having excellent action
+- सः होता (*saḥ hotā*)—that same praiser
+- ऋतचित् (*ṛtacit*)—possessing the fruit obtained by sacrifice
+- अस्तु (*astu*)—let him be
+- हविष्मान् (*haviṣmān*)—which sacrificer, furnished with oblations
+- नां (*nāṃ*)—you
+- अवसे (*avase*)—for your satisfaction
+- आववर्तत् (*āvavartat*)—praises and invites
+- सः (*saḥ*)—that same sacrificer
+- प्रयस्वान् (*prayasvān*)—possessing food
+- सुविताय (*suvitāya*)—obtaining an excellent fruit
+- असदित् (*asadit*)—let him become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, sons of Aditi, may that praiser who, furnished with praise, worships you who are endowed with strength, he of excellent action, the same praiser, be one who possesses the fruit obtained by sacrifice. May that sacrificer who, furnished with oblations, praises and invites you for your satisfaction be possessed of food and an obtainer of an excellent fruit.
+
+##### English translation
+May the devout worshipper derive benefit from sacrifice when offering adoration to you both, sons of Aditi, (endowed) with strength : he who,
+
+### Printed p. 52
+liberal of oblations, invites you for your satisfaction, may he, possessing abundance, be in the enjoyment of happiness.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यमिंद्रं॒ वरु॑णमष्ट मे॒ गीः प्राव॑त्तो॒के तन॑ये॒  ॑
+> तूतु॑जाना ।  
+> सु॒रत्ना॑सो दे॒ववी॑तिं गमेम यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । इंद्रं । वरुणं । अष्ट मे । गीः । प्र । आवत् । तोके । तनये ।  
+> तूतुजाना ।  
+> सुरत्नासः । देववीतिं । गमेम । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्याख्यातेयं । मदीया स्तुतिरिंद्रं वरुणं चाश्नुतां । मया प्रेर्यमाणा सा पुत्रे पौत्रे च विषयेऽस्मान्प्ररक्षतु । वयं शोभनधनाः संत उत्तरोत्तरं यागं प्राप्नुयाम । हे इंद्रावरुणादयो देवाः अस्मान्सर्वदा कल्याणै
+> रक्षित ॥
+
+##### Gist of the bhāṣya
+
+Explained already. May this praise of mine reach Indra and Varuṇa. Impelled by me, may it protect us in respect of son and grandson. We, possessed of good wealth, would attain the sacrifice more and more. O Indra, Varuṇa and the other gods, protect us always with blessings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- इयं गीः (*iyaṃ gīḥ*)—this praise
+- इंद्रं (*iṃdraṃ*)—Indra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- अष्ट (*aṣṭa*)—may it pervade and unite with (them)
+- तूतुजाना (*tūtujānā*)—this same praise, offered by me
+- तोके (*toke*)—to our sons
+- तनये (*tanaye*)—to (our) grandsons
+- प्रावत् (*prāvat*)—may it be a protector
+- वयं (*vayaṃ*)—we
+- सुरत्नासः (*suratnāsaḥ*)—possessing excellent wealth
+- देवनीतिं (*devanītiṃ*)—the sacrifice dear to the gods
+- गमेम (*gamema*)—may we perform (O Indra, Varuṇa and the rest)
+- यूयं (*yūyaṃ*)—all of you
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+May this praise of mine pervade and unite with Indra and Varuṇa. May this same praise, offered by me, be a protector of our sons and grandsons. May we, possessing excellent wealth, perform the sacrifice dear to the gods
+
 ---
 
-**Progress note:** Done through printed p. 44. pp. 38-44 (batch API)
+**Progress note:** Done through printed p. 52. pp. 45-52 (batch API)

@@ -2,3 +2,4 @@
 - front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 0 NOTE rows added at the top of review/notes.tsv.
 - 2026-11-24: w0008 (pp. 7-12): the model had typed three Sanskrit quotations in Latin letters (Indrāvaruṇā …, twice, and the Anukramaṇī words); replaced by ⟦ ⟧ segments copied from kn.md with batch.py fix (en.md only; logged in work/w0008/fixes.tsv).
 - 2026-11-24: w0016 (pp. 13-19?): sentence 'The block breaks off here; the sentence continues in the next window.' removed from en.md (translator remark); api_batch.py now strips such sentences when it writes en.md.
+- 2026-11-24: w0045 (pp. 46-51?): quoted Sanskrit typed in Latin letters replaced by ⟦ ⟧ segments copied from kn.md; api_batch.py now does this itself (quoted_iast_to_segments: exact match of the transliteration, then loose; left alone when ambiguous).
