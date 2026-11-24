@@ -25451,6 +25451,274 @@ Here वासराणि (*vāsarāṇi*) means days, daytimes. वासर�
 > अल॑र्ति॒ दक्ष॑ उ॒त म॒न्युरिं॑दो॒ मा नो॑ अ॒र्यो अ॑नुका॒मं ॑ 
 > परा दाः ॥ ८ ॥
 
+### Printed p. 557
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोम ! राजन् ! मृळय । नृ । स्वस्ति । तव । स्मसि । व्रत्याः । तस्य । विद्धि ।  
+> आलतिर् । दक्षः । उत । मन्युः । इंदो इति मा । नः । अर्यः । अनुकामं । परा ।  
+> दाति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम राजन् नोऽस्मान् स्वस्वविनाशाय मृळय ! सुखय च । व्रत्या
+> व्रतिनोः वयः तव स्मसि स्वभूताः स्म । तस्य तं स्वकीयं तप विद्धि । जानीहि ! अथवा
+> तव त्वमित्यर्थः । त्वं जानीहि । किःच हे इंदो दक्षः प्रवृद्धोऽस्मच्छत्रुरलर्ति ।
+> गच्छति । उतापि च मन्युः क्रोधः क्रुद्धो वालर्ति । तादृशस्योभयविधस्यार्योऽरेनुकामं यथाकामं नोऽस्मान्मा परा दाः ! परादेहि ॥
+
+##### Gist of the bhāṣya
+
+Addressing King Soma, the seer Pragātha asks him to bring happiness to us, **NOTE**. We who keep the vows are his own: "we are yours". Let him know us as his own devoted ones; or else (or else) the sense is "you (Soma) know it". Further, O Indu, the strong and swollen enemy comes against us, and the wrathful one, or the enemy in wrath, comes; let Soma not hand us over (मा परा दाः (*mā parā dāḥ*)) to such an enemy of either kind, to do with us as he wishes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—the lord
+- सोम (*soma*)—O Soma
+- नः (*naḥ*)—for us
+- स्वस्ति (*svasti*)—so that it may be well
+- मृळय (*mṛḷaya*)—make happy
+- व्रत्याः (*vratyāḥ*)—we who perform the sacrificial rites
+- तव (*tava*)—as belonging to you
+- स्मसि (*smasi*)—we are
+- तस्य (*tasya*)—us who belong to you
+- विद्धि (*viddhi*)—know as devoted
+- उत (*uta*)—and
+- इंदो (*iṃdo*)—O flowing Soma
+- दक्षः (*dakṣaḥ*)—the strong enemy
+- अलर्ति (*alarti*)—comes to confront us
+- मन्युः (*manyuḥ*)—shows wrath
+- आर्यः (*āryaḥ*)—to the enemy
+- अनुकामं (*anukāmaṃ*)—as he desires
+- नः (*naḥ*)—us
+- मा परा दाः (*mā parā dāḥ*)—do not give up
+
+##### भावार्थ (Bhāvārtha)
+
+O lord Soma, make us happy so that it may be well with us. We who perform the sacrificial rites are indeed yours. Know us, who are yours, as devoted. O Soma, a strong enemy comes to confront us and shows his wrath. Do not give us over to the enemy, to do with us as he desires.
+
+##### English translation
+King Soma, bless us for our welfare; we worshippers are yours, recognize it ; the enemy goes strong and fierce, O Soma ; give us not over to him as he desires.
+
+### Printed p. 558
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि न॑ स्त॒न्वः॑ सोम गो॒पा गात्रे॑गात्रे निष॒सत्था॑ नृ॒चक्षाः॑ ।  
+> यत्ते॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॒ स नो॑ मृळ सुष॒खा दे॑व॒  ॑
+> वस्यः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । नः । तन्वः । सोम । गोपाः । गात्रेगात्रे । निससस्थ । नृचक्षाः ।  
+> यत् । ते । वयं । प्रमिनाम । व्रतानि । सः । नः । मृळ । सुसखा । देव । वस्यति ॥९ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम देव त्वं नोऽस्माकं तन्नस्तनोरंगस्य गोपा हि रक्षिता खलु ।
+> अतो गात्रे गात्रे सर्वेष्टंगेषु नृचक्षसा नृणां कर्मनेतृणां द्रष्टा त्वं निषसत्थ ।
+> निषीदसि । यद्यद्यपि ते तव व्रतानि कर्माणि वयं प्रमिनाम हिंस्मः तथापि हे देव
+> स त्वं वस्यः श्रेष्ठान्नोऽस्मान् सुषखा शोभनसखा सन् मृळ । सुखय ॥
+
+##### Gist of the bhāṣya
+
+O divine Soma, you are the guardian of our body, that is, of our limbs. Therefore you sit in every limb, as the beholder of men, that is, of those who lead the rites. Even if we offend against your rites (व्रतानि (*vratāni*)) and harm them, still, O god, being a good friend, make happy us who are the better ones (वस्यः (*vasyaḥ*), श्रेष्ठान् (*śreṣṭhān*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- त्वं (*tvaṃ*)—you
+- न॥ (*na‖*)—our
+- तन्नः (*tannaḥ*)—of the body
+- गोपा हि (*gopā hi*)—are the guardian
+- गात्रे गात्रे (*gātre gātre*)—in every limb of our body
+- नृचक्षा॥ (*nṛcakṣā‖*)—watching the conduct of us mortals
+- निषसत्थ (*niṣasattha*)—you sit, having taken possession
+- यत् (*yat*)—if perchance
+- ते (*te*)—your
+- व्रतानि (*vratāni*)—rites
+- वयं (*vayaṃ*)—we
+- प्रविनाम (*pravināma*)—even if we make blunted
+- देव (*deva*)—O divine Soma
+- सः (*saḥ*)—you
+- वस्यः (*vasyaḥ*)—the better ones
+- नः (*naḥ*)—to us
+- सुषखा (*suṣakhā*)—being an excellent friend
+- मृळ (*mṛḷa*)—make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you are the guardian of our body. In every limb of our body you sit, having taken possession of it, watching the conduct of us mortals. O divine Soma, even if we blunt your rites, being an excellent friend to us, make us happy.
+
+### Printed p. 559
+
+##### English translation
+O Soma, you are the guardian of our bodies, you dwell in each limb as the beholder of men; though we impair your rites, yet, divine one, bless us, you who are possessed of most excellent food and good friends.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒दू॒दरे॑ण॒ सख्या॑ सचेय॒ यो मा॒ न रिष्ये॑द्धर्यश्व पी॒तः ।  
+> अ॒यं यः सोमो॒ न्यधा॑य्य॒स्मे तस्मा॒ इंद्रं॑ प्र॒तिर॑मे॒म्यायुः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋदूदरेण । सख्या । सचेय । यः । मा । न । रिष्येत् । हरिऽश्व । पीतः ।  
+> आयुं । यः ! सोमः । नि । अधायि । अस्मे इति । तस्यै । इंद्रं । प्रतिरं । एमि ।  
+> आयुतः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं प्रगाथ ऋदूदरेणोदराबाधकेन सोमेन सख्या सचेय ।
+> संगच्छेय । संगतो भवामि । ऋदूवरः सोमो मृदूदरः । नि. ६-४ । इति
+> यास्कः । यः सोमः पीतः सन् मा मां न रिष्यत् न हिंस्यत् हे हर्यश्चंद्र
+> सौम्ये सूक्त इंद्रस्य कीर्तनं सोमस्येंद्रस्वामिकत्वान्न विरुद्धं । योऽयं
+> सोमोऽस्मै अस्मासु न्यधायि निहितोऽभूत् तस्मै सोमाय प्रतिरमायुर्जठरे
+> चिरकालावस्थानमिंद्रमेमि । याचे ॥
+
+##### Gist of the bhāṣya
+
+I, Pragātha, would unite with Soma as a friend, Soma who does not hurt the belly (ऋदूदरेणोदराबाधकेन (*ṛdūdareṇodarābādhakena*)). Yāska says that Soma is ऋदूदरः (*ṛdūdaraḥ*), "soft in the belly", with the reference Ni. 6-4 **NOTE**. O lord of bay horses, let the Soma which, when drunk, does not injure me, not harm me. In this Soma hymn the praise of Indra is not out of place, since Soma belongs to Indra. To that Soma which has been placed in us I come to Indra and ask for a long abiding in the belly. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- पीतः (*pītaḥ*)—when drunk
+- मा (*mā*)—me
+- न रिष्यत् (*na riṣyat*)—does not harm, such
+- यदूदरेण (*yadūdareṇa*)—with the Soma that fills the belly
+- सख्या (*sakhyā*)—friendship
+- सचेय (*saceya*)—may I obtain
+- हर्यश्व (*haryaśva*)—O Indra, whose horses are called Hari
+- यः आयं सोमः (*yaḥ āyaṃ somaḥ*)—this Soma which
+- अस्मे (*asme*)—in us
+- न्यधायि (*nyadhāyi*)—has been placed
+
+### Printed p. 560
+- तस्मै (*tasmai*)—for that Soma
+- प्रतिरं (*pratiraṃ*)—long
+- आयुः (*āyuḥ*)—life; make it last
+- इंद्रं (*iṃdraṃ*)—you, Indra, the lord
+- एमि (*emi*)—I ask
+
+##### भावार्थ (Bhāvārtha)
+
+I shall obtain friendship with that Soma which fills the belly and which, when drunk, does not harm me. O Indra, lord of the horses called Hari, I ask of you, the lord, that the Soma I have drunk may remain long in my belly.
+
+##### English translation
+May I obtain a wholesome friend who, when quaffed, will not harm me, O lord of bay horses; I ask of Indra a long permanence for this Soma which has been placed within us.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the word ऋदूदरेण (*ṛdūdareṇa*) Yāska has given the explanation ऋदूदरः सोमो मृदूदरो मृदुरुदरेष्टिति वा । ऋदूदरेण सख्या सचेय इत्यपि निगमो भवति ॥ (*ṛdūdaraḥ somo mṛdūdaro mṛdurudareṣṭiti vā | ṛdūdareṇa sakhyā saceya ityapi nigamo bhavati ‖*) (Ni. 6-4). Ṛdūdara means the Soma, or the Soma juice. Because the inside of this Soma is soft, or because it is soft in the belly of the one who drinks it (soft means gentle, without pain or harm), the Soma is called Ṛdūdara. In this matter the present Ṛk itself, ऋदूदरेण सख्या सचेय (*ṛdūdareṇa sakhyā saceya*), is the example. That is, the chief meaning is that from drinking Soma no pain comes to the belly, and it remains delightful.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॒ त्या अ॑स्थु॒रनि॑रा॒ अमी॑वा॒ निर॑त्रसं॒तमि॑षीची॒रभै॑षुः ।  
+> आ सोमो॑ अ॒स्मा अ॑रुह॒द्विहा॑या॒ अग॑न्म॒ यत्र॑ प्रति॒रंत॒  ॑
+> आयुः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । त्याः । अस्थुः । अनिराः । अविमावाः । निः । अत्रसन् । तमिषीचीः । अभैपुः ॥  
+> आ । सोमः । आस्मान् । अरुहत् । विहायाः । अगन्न । यत्र । प्रतिरंते । आयुः ॥
+
+### Printed p. 561
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यास्ता अनिराः प्रेरयितुमशक्या आमीवा बलवत्यः पीडाः अपास्थुः । अपगच्छंतु । यास्तमिषीचीर्बलवत्योऽस्मान्निर्तरामत्रसन् प्राप्नुवन् कंपयंति
+> तथाभ्येषुः ! अपगमे कारणमाह ! यस्मात्सोमो विहाया महान् सन्नस्मानारुहत् आगमत् प्राप्तवान् अतोपास्थुरिति भावः । यत्र यस्मिन् सोमे पीत
+> आयरायुष्यं प्रतिरंते वर्धयंति मनुष्यास्तं सोममगन्नेति ॥
+
+##### Gist of the bhāṣya
+
+Those irremovable (अनिराः (*anirāḥ*), "that cannot be driven away") strong afflictions (आमीवा (*āmīvā*)) are to depart. Those mighty ones (तमिषीचीः (*tamiṣīcīḥ*)) that have made us tremble are likewise to be afraid. He states the reason for their departure: because Soma, being great (विहाया (*vihāyā*)), has climbed upon us and reached us, therefore they have departed. We have come to that Soma in which, when drunk, men prolong their life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्याः (*tyāḥ*)—those that constantly afflict
+- अनिराः (*anirāḥ*)—that cannot be removed
+- अमीवाः (*amīvāḥ*)—diseases
+- अप अस्थुः (*apa asthuḥ*)—let them depart far away
+- निः (*niḥ*)—completely
+- आत्रसन् (*ātrasan*)—those that made us tremble
+- तमिषीचीः (*tamiṣīcīḥ*)—and powerful maladies
+- अभैषुः (*abhaiṣuḥ*)—let them go away in fear of Soma
+- विहायाः (*vihāyāḥ*)—of great form
+- सोमः (*somaḥ*)—Soma
+- अस्मान् (*asmān*)—us
+- आरुहन् (*āruhan*)—has entered
+- यत्र (*yatra*)—by which Soma satisfied
+- आयुः (*āyuḥ*)—the life of man
+- प्रतिरंते (*pratiraṃte*)—grows
+- अगन्न (*aganna*)—that Soma we have attained
+
+##### भावार्थ (Bhāvārtha)
+
+Let the diseases that afflict us constantly and cannot be removed depart far from us. Let the powerful maladies that made us tremble go away in fear of Soma. The Soma of great form has entered us. We have attained that Soma by which, when a man is satisfied, his life grows.
+
+##### English translation
+May those irremovable sicknesses depart ; let those strong (pains) which have made us tremble, be afraid; the mighty Soma has climbed into us,— we have attained that (draught) by which men prolong life.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो न॒ इंदुः॑ पितरो हृ॒त्सु पी॒तोऽम॑र्त्यो॒ मर्त्या॑  ॒॑
+> आविवेश ।  
+> तस्मै॒ सोमा॑य ह॒विषा॑ विधेम मृळी॒के अ॑स्य सुम॒तौ  ॑
+> स्याम ॥ १२ ॥
+
+### Printed p. 562
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । इंदुः । पितरः । हृत्सु । पीतः । अमर्त्यः । मर्त्यान् । अविवेश ।  
+> तस्मै । सोमाय । हविषा । विधेम । मृळीके । अस्य । सुमता । स्याम ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पितरः य इंदुर्हृत्सु पीतः सन्नमर्त्यो मृतिरहितः सन्नाविवेश
+> मर्तान्योऽस्मान् तस्यॆ सोमाय हविषा विधेम । परिचरेम । अस्य सोमस्य
+> मृळीके सुखे सुमतौ चानुग्रहबुद्धौ च स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+O fathers, the Indu which, when drunk in our hearts, has entered us mortals while itself immortal, that is, free from death: to that Soma we would do service with an oblation. In the bliss and in the favourable thought, that is, the benevolent mind, of this Soma may we be.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितरः (*pitaraḥ*)—O fathers
+- अमर्त्यः (*amartyaḥ*)—free from death
+- यः इंदुः (*yaḥ iṃduḥ*)—which Soma
+- हृत्सु (*hṛtsu*)—in our hearts, with the whole mind
+- पीतः (*pītaḥ*)—having been drunk
+- मर्त्यान् (*martyān*)—us men
+- नः (*naḥ*)—us
+- अविवेश (*aviveśa*)—has entered
+- तस्मै सोमाय (*tasmai somāya*)—to that Soma
+- हविषा (*haviṣā*)—with oblation
+- विधेम (*vidhema*)—we shall serve
+- अस्य (*asya*)—of this Soma
+- मृळीके (*mṛḷīke*)—in the bliss
+- सुमतौ (*sumatau*)—in the favourable mind
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O fathers, to that immortal Soma which, drunk by us with a willing mind, has entered the hearts of us men, we do service with oblation. May we abide in the bliss that comes from this Soma and in its favourable mind.
+
+##### English translation
+That Soma which, drunk into our hearts, has entered, immortalai, into us mortals,—to him, fathers, let us do worship with oblations; may we abide in his bliss and favour. **NOTE**
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑म पि॒तृभिः॑ संविदा॒नोऽनु॒ द्यावा॑पृथि॒वी आ त॑तंथ ।  
+> तस्यै॑ त इंदो ह॒विषा॑ विधेम व॒यं स्या॑म॒ पत॑यो  ॒
+> रयीणां ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 556. Sukta 48 Rks 3 end-8: Soma verses; Special Topics (Yaska on vasarani)
+**Progress note:** Done through printed p. 562. Ṛk 8-13 of Sūkta 48 (pp. 557-562)
