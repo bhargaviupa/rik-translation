@@ -31926,6 +31926,297 @@ O Rādhaspati, lord of wealth, you indeed are the increaser of great rādhas, we
 - राधसः (*rādhasaḥ*)—for the increase of wealth
 - क्षयस्य (*kṣayasya*)—
 
+### Printed p. 704
+
+- असि (*asi*)—you are the cause
+- गिर्वणः (*girvaṇaḥ*)—worthy to be honoured with praise
+- मघवन् (*maghavan*)—O Indra
+- तं त्वा (*taṃ tvā*)—such as you are, you
+- सुतावंतः (*sutāvaṃtaḥ*)—we who have pressed the Soma juice
+- वयं (*vayaṃ*)—we
+- हवामहे (*havāmahe*)—call
+- सः (*saḥ*)—such
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of wealth, you are the cause of the very great increase of wealth and the increase of the house for the sacrificer who worships you. O Indra, worthy to be honoured with praise, we who offer the Soma juice call you, such as you are.
+
+##### English translation
+Lord of wealth, you are (the bestower) of great wealth and a dwelling-place upon your worshipper ; as such we invoke you, bearing the Soma, O Maghavan, Indra, who are to be honoured with hymns.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॒ स्पळु॒त वृ॑त्र॒हा प॑र॒स्पा नो॒ वरे॑ण्यः ।  
+> स नो॑ रक्षिषच्चर॒मं स म॑ध्य॒मं स प॒श्चात्पा॑तु नः पु॒रः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । स्पट् । उत । वृत्रहा । परःपाः । नः । वरेण्यः ।  
+> सः । नः । रक्षिषत् । चरमं । सः । मध्यमं । सः । पश्चात् । पातु । नः । पुरः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रः स्पट् सर्वस्य ज्ञाता । स्पशतिर्ज्ञानकर्मा । उतायं वृत्रहा
+> वृत्रहंता परस्पाः परपालयिता नोऽस्माकं वरेण्यो वरणीयः । स इंद्रो
+> नोऽस्माकं । पुत्रमिति शेषः । रक्षिषत् । रक्षतु । चरमं पुत्रं तथा स रक्षिषत् । स
+> मध्यमं पुत्रं रक्षिषत् । स नोऽस्मान् पश्चाद्रक्षिषत् । नः पुरः पुरस्ताव्रक्षिषत् ॥
+
+##### Gist of the bhāṣya
+
+This Indra is स्पट् (*spaṭ*), the knower of everything; the root स्पश (*spaśa*) is a root of knowledge. He is also वृत्रहा (*vṛtrahā*), the slayer of Vṛtra, and परस्पाः (*paraspāḥ*), the protector of others; he is वरेण्यः (*vareṇyaḥ*), to be chosen, by us. May that Indra protect our son (the word "son" is to be supplied); likewise may he protect the last son, and may he protect the middle son. May he protect us from behind, and may he protect us from before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- स्पट् (*spaṭ*)—the all-knower
+- उत (*uta*)—and
+- वृत्रहा (*vṛtrahā*)—the destroyer of enemies
+- परस्पाः (*paraspāḥ*)—the excellent protector
+- नः (*naḥ*)—to us
+- वरेण्यः (*vareṇyaḥ*)—most esteemed
+
+### Printed p. 705
+
+- सः (*saḥ*)—that Indra
+- नः (*naḥ*)—our son
+- रक्षिषत् (*rakṣiṣat*)—may he protect
+- सः (*saḥ*)—he
+- चरमं (*caramaṃ*)—may he protect the last son
+- सः (*saḥ*)—he
+- मध्यमं (*madhyamaṃ*)—may he protect the middle son
+- सः (*saḥ*)—he
+- नः (*naḥ*)—us
+- शश्चात् (*śaścāt*)—from behind
+- पुरः (*puraḥ*)—from before
+- पातु (*pātu*)—may he protect
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is all-knowing, the destroyer of enemies, the excellent protector, most esteemed by us. May such an Indra protect our son. May he protect our middle son and our last son. May he protect us from behind and from before.
+
+##### English translation
+Indra, the all-knower, the slayer of Vritra, the protector, is to be chosen by us; may he guard our (son), our last (son), our middle (son) may he protect us from behind and before.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नः॑ प॒श्चाद॑ध॒रादु॑त्त॒रात्पु॒र इंद्र॒ नि पा॑हि वि॒श्वतः॑ ।  
+> आ॒रे अ॒स्मत्कृ॑णुहि॒ दैव्यं॑ भ॒यमा॒रे हे॒तीरदे॑वीः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । पश्चात् । आधरात् । उत्तरात् । पुरः । इंद्र । नि । पाहि । विश्वतः ।  
+> अरे । आस्मत् । कृणुहि । दैव्यं । भयं । आरे । हेतीः । अदेवीः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नोऽस्मान्पत्वात्पश्चाद्भागात्पुरः पूर्वभागादधरादधोभागात् ।
+> एतदुपरिधागस्कोपलक्षणं । उत्तरादुत्तरभागात् । एतद्दक्षिणस्याप्युपलक्षणं । किं
+> बहुना विश्वतः सर्वस्मात्पदेशानि पाहि । हे इंद्र दैव्यं भयमस्मदस्मत्त आरे दूरे
+> कृणुहि । कुरु । तथादेवीरासुराणि हेतीरायुधान्यारे कृणुहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, protect us from behind, from the rear part; from before, from the front part; from अधरात् (*adharāt*), the lower part, which also indicates the upper part; from उत्तरात् (*uttarāt*), the northern part, which also indicates the southern. What more need be said: protect us from every quarter. O Indra, make the fear that comes from the gods far from us; likewise make far away the weapons of the asuras. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- पत्वात् (*patvāt*)—from the western part
+- पुरः (*puraḥ*)—from the eastern part
+- अधरात् (*adharāt*)—from the lower and upper quarters
+
+### Printed p. 706
+
+- उत्तरात् (*uttarāt*)—from the northern and southern quarters
+- विश्वतः (*viśvataḥ*)—from all quarters
+- नि पाहि (*ni pāhi*)—protect completely
+- दैव्यं भयं (*daivyaṃ bhayaṃ*)—the fear that comes from the gods
+- आस्मत् (*āsmat*)—from us
+- आरे (*āre*)—at a distance
+- कृणुहि (*kṛṇuhi*)—make it to be
+- अदेवीः (*adevīḥ*)—of the asuras
+- हेतीः (*hetīḥ*)—the weapons
+- आरे (*āre*)—keep at a distance
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protect us completely from the four quarters, west, east, north and south, from the lower and upper quarters, and from all the intermediate directions. Make the fear that comes from the gods stay far from us. Keep the weapons of the asuras at a distance.
+
+##### English translation
+Indra, protect us from the west, from the south, from the north, from the east, protect us from every side; keep far from us supernatural alarm, keep far the weapons of the demons.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द्याद्या॒ श्वःश्व॒ इंद्र॒ त्रास्व॑ प॒रे च॑ नः ।  
+> विश्वा॑ च नो जरि॒त्थान्स॑त्पते॒ अहा॒ दिवा॒ नक्तं॑ च रक्षिषः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्यऽअद्य । श्वःश्वः । इंद्र । त्रास्व । परे । च । नः ।  
+> विश्वा । च । नः । जरित्थन् । सत्पते । अहा । दिवा । नक्तं । च । रक्षिषः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आद्याद्य यदद्यशब्दवाच्यमहरस्ति तत्र सर्वत्र एवं श्वःश्वस्त्रास्व । रक्ष । तथा
+> परे च परस्मिंस्कृतीयेऽहनि च त्रास्व । हे सत्पते सतां पालक विश्वा सर्वाण्यप्यहाहानि सर्वॆष्टप्यहःसु नोऽस्माञ्जरित्यानृक्षिषः । रक्षसि । तथा दिवा नक्तं च रक्षिषः ।
+> रक्षिसि रक्ष वा ॥
+
+##### Gist of the bhāṣya
+
+On every day that is denoted by the word "today", and likewise on every "tomorrow", protect us. Likewise on the other, the third day, protect us. O सत्पते (*satpate*), protector of the good, in all days protect us, the praisers; and likewise protect us by day and by night. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आद्याद्य (*ādyādya*)—in every present time
+- श्वः श्वः (*śvaḥ śvaḥ*)—in every future time
+- परे च (*pare ca*)—on all other days
+- त्रास्व (*trāsva*)—protect us
+
+### Printed p. 707
+
+- सत्पते (*satpate*)—O Indra, protector of good men
+- विश्वा (*viśvā*)—all
+- अहा (*ahā*)—in the days
+- जरित्थन् (*jaritthan*)—us who are praisers
+- नः (*naḥ*)—us
+- रक्षिसः (*rakṣisaḥ*)—protect
+- दिवा (*divā*)—by day
+- नक्तं च (*naktaṃ ca*)—and by night protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in every present time, in every future time and on the other days protect us. O Indra, protector of good men, in all days protect us, who are praisers. Protect us by day and by night.
+
+##### English translation
+Save us, Indra, every to-day, every to-morrow, and every succeeding day ; lord of the good, protect us, your praisers, in all days, by day and by night.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒भं॒गी शूरो॑ म॒घवा॑ तु॒विम॑घः॒ संमि॑श्लो वी॒र्या॑य॒  
+> कं ।  
+> उ॒भा ते॑ बा॒हू वृष॑णा शतक्रतो॒ नि या वज्रं॑ मिमि॒क्षतुः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रभंगी । शूरः । मघवा । तुविमघः । संमिश्लः । वीर्याय । कं ।  
+> उभा । ते । बाहू इति । वृषणा । शतक्रतो इति शतक्रतो । नि । या । वज्रं ।  
+> मिमिक्षतुः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं मघवेंद्रः प्रभंगी प्रभंजनशीलः शूरस्तुवीमघः प्रभूतधनः
+> संमिश्लः सम्यज्श्रयिता । किमर्थं । वीर्याय शत्रूणां वीर्यकरणाय । कमिति
+> पादपूरणः । एवंमहानुभावो भवति । अथ प्रत्यक्षवादः । हे इंद्र त उभोभावपि
+> बाहू वृषणा वर्षकौ कामानां हे शतक्रतो बहुप्रज्ञ या यौ वज्रमायुधं
+> नि मिमिक्षतुः परिगृह्णीतः ॥
+
+##### Gist of the bhāṣya
+
+This Maghavan Indra is प्रभंगी (*prabhaṃgī*), of a shattering nature; शूरः (*śūraḥ*), a hero; तुवीमघः (*tuvīmaghaḥ*), of abundant wealth; संमिश्लः (*saṃmiślaḥ*), one who joins well. For what purpose? For वीर्याय (*vīryāya*), for the making of the strength of the enemies. कं (*kaṃ*) is a filler of the foot. Such is his greatness. Now follows a direct address. O Indra, both your arms are showerers of desires; O शतक्रतो (*śatakrato*), of many acts of wisdom, they are the two which firmly grasp the thunderbolt weapon. **NOTE**
+
+### Printed p. 708
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—Indra
+- प्रभंगी (*prabhaṃgī*)—the destroyer of enemies
+- शूरः (*śūraḥ*)—the valiant
+- तुविमघः (*tuvimaghaḥ*)—one possessed of abundant wealth
+- वीर्याय (*vīryāya*)—for the power of subduing enemies
+- संमिश्लः (*saṃmiślaḥ*)—the agent
+- शतक्रतो (*śatakrato*)—O Indra, the doer of many acts
+- या (*yā*)—which of your arms
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- नि मिमिक्षतुः (*ni mimikṣatuḥ*)—grasp
+- ते उभा बाहू (*te ubhā bāhū*)—those two arms of yours
+- वृषणा (*vṛṣaṇā*)—are showerers of desires
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is the destroyer of enemies, the valiant, the possessor of abundant wealth, the one who brings about the power of subduing enemies. O Indra, the doer of many acts, those arms of yours that grasp the thunderbolt weapon, those two arms are the bestowers of desired objects.
+
+##### English translation
+Maghavan is the shatterer, the hero, great in wealth, and the conductor to victory (over our enemies). Shatakratu, both your arms, which grasp the thunderbolt, are showerers (of blessings).
+
+## Sūkta 62 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रो अस्मा इति द्वादशर्चं तृतीयं सूक्तं काण्वस्य प्रगाथस्यार्षं ॥
+> पंचपदा पंक्तिः । सप्तमाद्यास्तिस्रो बृहत्यः । इंद्रो देवता । अत्रानुक्रमणिका
+> प्रो अस्मै द्वादश प्रगाथः पांक्तं सप्तमाद्याश्च तिस्रो बृहत्य इति ॥ विनियोगो
+> लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रो अस्मा (*pro asmā*) has twelve ṛks and is the third sūkta; it is the vision of Pragātha, the son of Kaṇva. The metre is the five-footed Paṅkti, the first six and last three ṛks being in it, while the three beginning with the seventh are Bṛhatī. The deity is Indra. The Anukramaṇikā says of it that the twelve ṛks beginning प्रो अस्मै (*pro asmai*) are Pragātha, Pāṅkta, with the three from the seventh Bṛhatī. The application is that of the Liṅga.
+
+##### Anuvāda
+
+This sūkta beginning प्रो अस्मै (*pro asmai*) is the third sūkta in the seventh anuvāka. It has twelve ṛks. The seer of this sūkta is Pragātha Kāṇva; the deity is Indra; the metre is Pañcapadā Paṅktiḥ. The three ṛks following the seventh ṛk are in the Bṛhatī metre. In the Anukramaṇikā it is said: प्रो अस्मै द्वादश प्रगाथः पांक्तं सप्तम्याद्याश्च तिस्रो बृहत्यः (*pro asmai dvādaśa pragāthaḥ pāṃktaṃ saptamyādyāśca tisro bṛhatyaḥ*). The application is that of the Liṅga.
+
+### Printed p. 709
+
+Sūkta 62.
+Maṇḍala 8; Anuvāka 7; Sūkta 62.
+Aṣṭaka 6; Adhyāya 4; Varga 40, 41.
+Number of ṛks in the sūkta: 12.
+Ṛṣi: Pragāthaḥ Kāṇvaḥ.
+Devatā: Indra.
+Chandas: 1–6, 10–12 Paṅkti; 7–9 Bṛhatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो अ॑स्मा॒ उप॑स्तुतिं॒ भर॑ता॒ यज्जु जो॑षति ।  
+> उ॒क्थैरिंद्र॑स्य॒ माहि॑नं॒ वयो॑ वर्धंति सो॒मिनो॑ भ॒द्रा ॑ ॒॑
+> इंद्रस्य रातयः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रो इति । अस्मै । उपस्तुतिं । भरत । यत् । जुजोषति ।  
+> उक्थैः । इंद्रस्य । माहिनं । वयः । वर्धंति । सोमिनः । भद्राः । इंद्रस्य । रातयः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मा इंद्रायोपस्तुतिमुपेत्य क्रियमाणां स्तुतिं प्रो भरत । प्रकर्षेण
+> संपादयत हे ऋत्विजः । यद्यद्ययमिंद्रो जुजोषति सेवते तर्हि भरतेति ।
+> सोमिनः सोमप्रियस्येंद्रस्य स्वभूतं माहिनं महद्वयोऽन्नं सोमलक्षणमुक्थैः शस्त्रैर्वर्धंति । वर्धयंति । भद्राः स्तुत्यानि खल्विंद्रस्य रातयो दानानि ॥
+
+##### Gist of the bhāṣya
+
+To this Indra, bring forth with force, O priests, the praise that is offered by approaching him, if this Indra is pleased with it and accepts it. The Soma-offerers by their uktha-s, that is, by their śastra-s, increase the great food of Indra, the lover of Soma, which is his own and has the nature of Soma. For the gifts of Indra are praiseworthy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason (O priests)
+- जुजोषति (*jujoṣati*)—since this Indra enjoys
+- अस्मै (*asmai*)—addressed to this Indra
+- उपस्तुतिं (*upastutiṃ*)—praises consisting of words of commendation
+- प्रो भरत (*pro bharata*)—recite excellently
+- ऋत्विजः (*ṛtvijaḥ*)—the priests
+- सोमिनः (*sominaḥ*)—possessed of Soma
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- माहिनं (*māhinaṃ*)—the great
+- वयः (*vayaḥ*)—the food which has the form of Soma
+- उक्षैः (*ukṣaiḥ*)—by the śastra mantras
+- वर्धंति (*vardhaṃti*)—cause to increase
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- रातयः (*rātayaḥ*)—the gifts
+- भद्राः (*bhadrāḥ*)—praiseworthy
+
 ---
 
-**Progress note:** Done through printed p. 703. Sūkta 61 Ṛk 9-14
+**Progress note:** Done through printed p. 709. Mandala 8 sukta 61 rks 15-18; sukta 62 intro and rk 1
