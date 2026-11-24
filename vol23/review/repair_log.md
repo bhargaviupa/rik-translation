@@ -7,3 +7,4 @@
 - 2026-11-24: w0140 and the windows after it: quoted Sanskrit words that kn.md does not have are given in italic transliteration only (api_batch.quoted_iast_to_segments last resort, same as latin_fallback; each in work/wNNNN/fixes.tsv).
 - 2026-11-24: w0206, w0234, w0563, w0569, w0619, w0660, w0690, w0716: parenthetical remark '(the sentence breaks off here; it continues in the next window)' removed from en.md; api_batch.py strips it when writing en.md.
 - 2026-11-24: w0264 (pp. 264-272, start of Maṇḍala 8): the Kannada file had the label *ಸಂಹಿತಾಪಾಠಃ* twice in a row (the supplied text has a label, then the Maṇḍala 8 title page, then the label again); one removed (structure repair, letters of the text unchanged). Verify then agrees (Saṃhitā labels = sub-headings).
+- 2026-11-24: w0337: garbled italic marks in the English ('⟦apa*', '*na⟩') restored to '*apa*', '*na*'; api_batch.py repairs this pattern when writing en.md.

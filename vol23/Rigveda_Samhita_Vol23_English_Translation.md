@@ -13417,6 +13417,246 @@ The Soma is shaken (धूतः (*dhūtaḥ*)) by the Adhvaryu priests, the lea
 
 The Soma juice, which has received the preparation of shaking from the Adhvaryus who lead the sacrifice, has been pressed by the pressing stones, and has been purified by the hairs of a sheep, that is, by the wool in the vessel called Daśāpavitra (the Kannada prints सशापवित्र (*saśāpavitra*)), shines pure, like a horse washed in the water of a river.
 
+### Printed p. 337
+
+*Printed English*
+
+Washed by the priests, effused by the stones, purified by the woollen filter, like a horse cleansed in a stream.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं ते॒ यवं॒ यथा॒ गोभिः॑ स्वा॒दुम॑कर्म श्री॒णंतः॑ ।  
+> इंद्र॑ त्वा॒स्मिन्त्स॑ध॒मादे॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ते । यवं । यथा । गोभिः । स्वादुं । अकर्म । श्रीणंतः ।  
+> इंद्र । त्वा । अस्मिन् । सधर्मादे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं पूर्वोक्तगुणं सोमं हे इंद्र ते त्वदर्थं यवं यथा यवमयं
+> सवनीयपुरोडाशमिव गोभिर्गवि भव्यैः क्षीरादिभिः श्रयणद्रव्यैः श्रीणंतो मिश्रीकुर्वंतः स्वादुं रसत्वेन स्वादनीयमकर्म । अकार्ष्म ॥ करोतेर्लुजु मंत्रे
+> घसेति चेर्लुक् ॥ यस्मादेवं तस्मात् हे इंद्र त्वा त्वां तादृशं सोमं पातुमस्मिन्वर्तमाने सधमादे सहमदने यज्ञ आह्वयामिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this Soma of the kind described before we have made sweet, as a sweet juice, for you. We have done so by mixing it with "cows", that is, with the products of the cow (milk and the like, the mixing substances), just as one mixes a barley-made cake for the savana (pressing). The verb अकर्म (*akarma*) is "we have made". Since it is so, O Indra, we invoke you, to drink such a Soma, at this present joint rejoicing, the sacrifice. "We invoke" is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं (*taṃ*)—the Soma juice described before
+- ते (*te*)—in order to offer it to you
+- यवं यथा (*yavaṃ yathā*)—like a cake mixed with barley
+- गोभिः (*gobhiḥ*)—with milk and the like, products of the cow
+- श्रीणंतः (*śrīṇaṃtaḥ*)—mixing
+- स्वादुं (*svāduṃ*)—so that it is a sweet juice
+- अकर्म (*akarma*)—we have made
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- अस्मिन् (*asmin*)—in this sacrifice, to drink the Soma
+- सधमादे (*sadhamāde*)—in this sacrifice I invoke you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to offer to you the Soma juice described above, we have mixed it with milk and the other products of the cow, as one mixes a cake with barley, and made it a sweet juice. O Indra, I invoke you in this sacrifice to drink the Soma.
+
+### Printed p. 338
+
+##### English translation
+We have made it sweet for you as the barley-cake, mixing it with milk, and therefore, Indra, (I invoke) you to this social rite.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ इत्तो॑म॒पा एक॒ इंद्रः॑ सुत॒पा वि॒श्वायुः॑ ।  
+> अं॒तर्दे॒वान्मर्त्यां॑श्च ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । इत् । सोमपाः । एकः । इंद्रः । सुतपाः । विश्वआयुः ।  
+> अंतः । देवान् । मर्त्यान् । च ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महाव्रते निष्केवल्ये गायत्रतृचारीतामिंद्र इत्तोमपा इत्येतदादिसूक्तशेषः शंसनीयः । अंत्यास्ति स्रो वर्जयित्वा तत्रापि स्वादव इत्येतां परित्यज्य तत्र
+> स्थाने न ह्यन्यं बळाकरमित्येतामावपेत् ' तथैव पंचमारण्यके सूत्रितं । इंद्र
+> इत्तोमपा एक इत्येतत्पृथ्वितीनां तिस्त्र उत्तमा उद्धरति । तासां स्वादवः सोमा आ
+> याहीत्येतामुद्धृत्य न ह्यन्यं बळाकरमित्येतां प्रत्यवदधाति । ऐ. आ. ५-२-३ । इति ॥
+> पंचमेऽहनि मरुत्वतीय इंद्र इदित्यनुचरस्त्वचः । सूत्रते हि , इंद्र इत्तोमपा
+> एक इति मरुत्वतीयस्य प्रतिपदनुचर्ौ । आ. ७-१२ । इति ॥
+> इंद्र इदिंद्र एक एव देवान् मर्त्यान् मनुष्यांश्चांतर्मध्ये देवेषु च
+> मध्ये सोमपाः कृत्स्नस्य सोमस्य पाता । नान्ये । ते ह्येकदेशभाजः । अत एव
+> सुतपाः सुतस्याभिषुतस्यास्मदीयस्य सोमस्य कार्त्स्नस्यन पाता । इंद्र एक एव
+> विश्वायुः । स चेंद्रः सर्वान्नो भवति । धानाकरंभादिहवींषि सवनेष्ट्विंद्रायैव
+> हूयंते तदभिप्रायेणेदमुच्यते ! आत एवविध इंद्रोऽस्मदीयं हविः स्वीकरोत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+At the Mahāvrata, in the niṣkevalya recitation, the rest of the sūkta beginning इंद्र इत्तोमपा (*iṃdra ittomapā*) is to be recited for the Gāyatrī triplets. Omitting the last three Ṛks, and among them leaving aside the Ṛk स्वादवः (*svādavaḥ*), one should insert in its place the Ṛk न ह्यन्यं बळाकरं (*na hyanyaṃ baḷākaraṃ*). The Fifth Āraṇyaka lays this down in the same way, in the passage cited as Ai. Ā. 5-2-3. On the fifth day, in the Marutvatīya, इंद्र इत् (*iṃdra it*) is the anucara triplet; it is prescribed in the sūtra cited as Ā. 7-12.
+Indra alone, among gods and mortal men, is the drinker of Soma, the drinker of the whole Soma; others are not, for they have only a share. Therefore he alone is the drinker of our pressed Soma, in its entirety. Indra alone is विश्वायुः (*viśvāyuḥ*): he becomes the eater of all food. Offerings such as fried grain and gruel are offered at the savanas to Indra alone, and with this in mind this is said. Hence may such an Indra accept our offering.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवान् (*devān*)—of gods (and)
+- मर्त्यान् च (*martyān ca*)—of men
+- अंतः (*aṃtaḥ*)—in the midst of all
+- इंद्रइत् (*iṃdrait*)—Indra indeed
+- एकः (*ekaḥ*)—the unequalled (the one alone)
+- सोमपाः (*somapāḥ*)—is the drinker of Soma
+
+### Printed p. 339
+
+- सुतपाः (*sutapāḥ*)—the drinker of the pressed Soma
+- इंद्रः (*iṃdraḥ*)—Indra alone
+- विश्वायुः (*viśvāyuḥ*)—is the possessor of all food
+
+##### भावार्थ (Bhāvārtha)
+
+Among all gods, men and others there is no other who drinks Soma like Indra. Thus Indra alone, unequalled, the drinker of the pressed Soma, is the lord of all food.
+
+##### English translation
+Indra verily is the chief drinker of the Soma among gods and men, the drinker of the effused libation, the acceptor of all kinds of offerings.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the Mahāvrateṣṭi, when reciting the mantras of the niṣkevalya śastra, for the Ṛks in Gāyatrī metre one must recite the Ṛks from this Ṛk, beginning इंद्र इत्तोमपा (*iṃdra ittomapā*), to the end of this sūkta. But the last three Ṛks, that is, Ṛks 40–42 of this sūkta, are to be omitted. Likewise the 29th Ṛk, स्वादवः (*svādavaḥ*), is to be omitted, and in its place the Ṛk न ह्यन्यं बळाकरं (*na hyanyaṃ baḷākaraṃ*) (Ṛ. Saṃ. 8-80.1) is to be recited as an insertion (āvāpa). This is laid down in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence इंद्र इत्तोमपा एक इंद्रः सुतपा विश्वायुः । अंतर्देवान्मर्त्यांश्च ॥ ४ ॥ इंद्रः । इत् । सोमपाः । एकः । इंद्रः । सुतपाः । विश्वआयुः । अंतः । देवान् । मर्त्यान् । च ॥ ४ ॥ महाव्रते निष्केवल्ये गायत्रतृचारीतामिंद्र इत्तोमपा इत्येतदादिसूक्तशेषः शंसनीयः । अंत्यास्ति स्रो वर्जयित्वा तत्रापि स्वादव इत्येतां परित्यज्य तत्र स्थाने न ह्यन्यं बळाकरमित्येतामावपेत् ' तथैव पंचमारण्यके सूत्रितं । इंद्र इत्तोमपा एक इत्येतत्पृथ्वितीनां तिस्त्र उत्तमा उद्धरति । तासां स्वादवः सोमा आ याहीत्येतामुद्धृत्य न ह्यन्यं बळाकरमित्येतां प्रत्यवदधाति । (*iṃdra ittomapā eka iṃdraḥ sutapā viśvāyuḥ | aṃtardevānmartyāṃśca ‖ 4 ‖ iṃdraḥ | it | somapāḥ | ekaḥ | iṃdraḥ | sutapāḥ | viśvaāyuḥ | aṃtaḥ | devān | martyān | ca ‖ 4 ‖ mahāvrate niṣkevalye gāyatratṛcārītāmiṃdra ittomapā ityetadādisūktaśeṣaḥ śaṃsanīyaḥ | aṃtyāsti sro varjayitvā tatrāpi svādava ityetāṃ parityajya tatra sthāne na hyanyaṃ baḷākaramityetāmāvapet ' tathaiva paṃcamāraṇyake sūtritaṃ | iṃdra ittomapā eka ityetatpṛthvitīnāṃ tistra uttamā uddharati | tāsāṃ svādavaḥ somā ā yāhītyetāmuddhṛtya na hyanyaṃ baḷākaramityetāṃ pratyavadadhāti |*) (Ai. Ā. 5-2.3). And that on the fifth day of the sacrifice the three Ṛks beginning इंद्र इत् (*iṃdra it*) (Ṛks 4–6 of this sūkta) are to be recited as the anucara triplet is explained by the Āśvalāyana Śrauta Sūtra, इंद्र इत्तोमपा एक इति मरुत्वतीयस्य प्रतिपदनुचर (*iṃdra ittomapā eka iti marutvatīyasya pratipadanucara*) (Ā. 7.12).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यं शु॒क्रो न दुरा॑शी॒र्न तृ॒प्रा उ॑रु॒व्यच॑सं ।  
+> अ॒प॒स्पृ॒ण्व॒ते सु॒हार्द॑० ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यं । शुक्रः । न । दुःआशीः । न । तृप्राः । उरुव्यचसं ।  
+> अपस्पृण्वते । सुहार्द० ॥ ५ ॥
+
+### Printed p. 340
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उरुव्यचसं विस्तीर्णव्यापनं सुहार्दं सुहृदयं यमिंद्रं शुक्रो रसाधिक्येन दीप्तः सोमो नापस्पृणुते ॥ स्पृ प्रीतिबलयोरत्रोपसर्गवशात् प्रीत्यभावे वर्तते ॥ नञा च प्रीत्यभावो निवार्यते । न प्रीणयतीति न अपि तु प्रीणयत्येव । तथा दुराशीर्दुःखेन निष्पाद्याशीराश्रयणद्रव्यं यस्य तार्तियसवनिकस्य
+> सोमस्य सोऽपि यमिंद्रं नापस्पृणुते प्रीणयत्येव । तृप्रास्तर्पका अन्ये
+> चरुपुरोडाशादयश्च यमिंद्रं नापस्पृण्वते न न प्रीणयंति अपि तु प्रीणयंत्येव तमिंद्रं स्तुम इति शेषः । यद्वा ! अपेत्युपसर्गो धात्वर्थानुवादकः ।
+> यमिंद्रं शुक्रादयो नापस्पृण्वते न प्रीणयंति । उरुव्यचसमिति हेतुगर्भविशेषणं । यतोऽयमिंद्र उरुव्यचा विस्तीर्णव्याप्तिकः अतः कारणादपर्याप्ताः
+> संतः शुक्रादयः प्रीणयितुं न शक्नुवंतीति भावः ॥
+
+##### Gist of the bhāṣya
+
+Indra is of wide pervasion and kind heart. The pure Soma, shining by abundance of juice, does not fail to please him: the verb स्पृ (*spṛ*) means pleasing and strength, and here by force of the prefix it has the sense of non-pleasing, and the negative *na* cancels that, so that it means "not that it does not please, but it does please". So too the Soma of the third pressing, whose mixing substance (āśīr) is prepared with difficulty, pleases Indra. The satisfying (tṛprāḥ) others, cakes of cooked grain and the like, also please him; we praise that Indra (the words "we praise" being supplied). Or else: the prefix *apa* merely repeats the sense of the root; the pure Soma and the rest do not please him. उरुव्यचसं (*uruvyacasaṃ*) is an adjective containing the reason: since this Indra is of wide pervasion, the pure Soma and the rest, being insufficient, cannot please him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुव्यचसं (*uruvyacasaṃ*)—him who pervades widely
+- सुहार्दं (*suhārdaṃ*)—and who has a loving heart
+- यं (*yaṃ*)—which Indra
+- शुक्रः (*śukraḥ*)—the shining Soma
+- न (अपस्पृणते) (*na (apaspṛṇate)*)—does not fail to satisfy
+- दुराशीः (*durāśīḥ*)—the Soma offered at the third pressing, mixed with difficulty with the āśīr
+- न (अपस्पृण्वते) (*na (apaspṛṇvate)*)—whom it does not fail to satisfy
+- तृप्राः (*tṛprāḥ*)—the other cooked-grain cakes and the like
+- न अपस्पृण्वते (*na apaspṛṇvate*)—whom they do not fail to satisfy (we praise such an Indra)
+
+##### भावार्थ (Bhāvārtha)
+
+We shall praise that Indra, of very wide pervasion and loving heart, whom the shining Soma, mixed with effort with the āśīr substances and offered at the three pressings, surely satisfies, and whom the cakes and the like surely satisfy.
+
+##### English translation
+(We praise him) a universal kind-hearted (friend), whom the pure Soma the mixture (of it) made with difficulty, or other satisfying (offerings) do not displease.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोभि॒र्यदी॑म॒न्ये अ॒स्मन्मृ॒गं न व्रा मृ॒गयं॑ते ।
+
+### Printed p. 341
+
+#### Ṛk 6 (continued)
+
+> अभित्स्यरंति धेनुभिः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोभिः । यत् । ईं । अन्ये । अस्मत् । मृगं । न । व्राः । मृगयंते ।  
+> अभित्सरंति । धेनुभिः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्येऽस्मदस्मत्तोऽन्य ऋत्विग्यजमाना ईमेनमिंद्रं गोभिर्गनि भवैः क्षीरादिभिः संस्कृतैः सोमैः सहिताः संतो मृगयंते अन्विष्यंते । तत्र दृष्टांतः ।
+> व्रा वरीतारो जालादिभिरुपाय्नैर्निरुंधाना व्याधा मृगं न । यथा
+> मृगमन्विष्यंति तद्वदनधिकारिण एव बलादिंद्रस्यान्वेषणे वर्तंत इत्यर्थः ॥ मृग
+> अन्वेषण इति धातुः ॥ ये च जना धेनुभिः । धेनुरिति वाज्ञाम । वाग्भिः स्तुतिभिश्चाभित्सरंति अभिमुखं कुत्सितं गच्छंति । सम्यक्सोतुं न शक्नुवंतीत्यर्थः ॥ त्वर छद्मगतौ ॥ तथाविधा जना इंद्रं नोपलभंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those others than ourselves, priests and sacrificers, who, accompanied by Soma prepared with the products of the cow, milk and the like, seek this Indra, are like hunters ("व्राः (*vrāḥ*)", those who enclose with nets and other means) who pursue a deer. As hunters seek a deer, so unqualified persons seek Indra by force. The root is मृग (*mṛga*) in the sense of seeking. And those people who with "cows" (dhenu is a name of speech) approach him crookedly, with speech and praises, cannot press (the Soma) properly; the root त्वर (*tvara*) is in the sense of crooked going. Such people do not obtain Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्राः (*prāḥ*)—hunters with nets
+- मृगं न (*mṛgaṃ na*)—as they run chasing a deer
+- अस्मत् (*asmat*)—belonging to us
+- यत् अन्ये (*yat anye*)—whichever other priests and others
+- ईं (*īṃ*)—this Indra
+- गोभिः (*gobhiḥ*)—provided with Soma mixed with milk and the like
+- मृगयंते (*mṛgayaṃte*)—seek
+- धेनुभिः (*dhenubhiḥ*)—accompanied by praises
+- अभित्सरंति (*abhitsaraṃti*)—approach Indra by a crooked way (such persons cannot obtain Indra's favour)
+
+##### भावार्थ (Bhāvārtha)
+
+As hunters with nets run chasing a deer, those others than ourselves, priests and the like, who seek this Indra provided with Soma mixed with milk and the like, and who with praises approach him by a crooked way, cannot obtain his favour. That is, Indra is not pleased with the hard-natured and the deceitful however they worship.
+
+##### English translation
+Whom others pursue with offerings of milk and curds as hunters chase a deer (with net and snares), and harass with (inappropriate) praises.
+
+### Printed p. 342
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the phrase मृगं न व्रा मृगयंते (*mṛgaṃ na vrā mṛgayaṃte*), Yāska gives the etymology मृगमिव व्राताः प्रैषाः (*mṛgamiva vrātāḥ praiṣāḥ*) (Ni. 5.3). Durgācārya in his commentary on it says: यथा लुब्धकाः मृगं वने मार्गयंते तथा हे इंद्र त्वां स्तोतारो भक्त्यतिरेकात् हविरर्पणाय मार्गयंते । (*yathā lubdhakāḥ mṛgaṃ vane mārgayaṃte tathā he iṃdra tvāṃ stotāro bhaktyatirekāt havirarpaṇāya mārgayaṃte |*). The meaning is: as hunters seek a deer in the forest, worshippers, from excess of devotion, seek Indra in order to offer him oblations and other substances.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रय॒ इंद्र॑स्य॒ सोमाः॑ सु॒तासः॑ संतु दे॒वस्य॑ ।  
+> स्वे क्षये॑ सुत॒पान्॑वः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रयः । इंद्रस्य । सोमाः । सुतासः । संतु । देवस्य ।  
+> स्वे । क्षये । सुतपान्वः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रे तृतीयेऽहनि मरुत्वतीयस्य त्रय इंद्रस्येति तृचोऽनुचरः ।
+> सूत्र्यते हि । तं तमिद्राधसे महे त्रय इंद्रस्य सोमा इति मरुत्वतीयस्य प्रतिपदनुचरौ । आ. ७-१० । इति ॥
+> देवस्य दानादिगुणयुक्तस्येंद्रस्य पानार्थं त्रयः सवनत्रयरूपेण त्रिधा
+> वर्तमानाः स्वे क्षये स्वकीयॆ यज्ञगृहे सुतासोऽभिषुताः संतु । भवंतु । सुतपान्नः । हेतुगर्भविशेषणमेतत् । यस्मादयमिंद्रोऽभिषुतस्यैव सोमस्य पाता
+> तस्मादभिसुताः संत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+On the third day of the Daśarātra, in the Marutvatīya, त्रय इंद्रस्य (*traya iṃdrasya*) is the anucara of the triplet; it is prescribed in the sūtra तं तमिद्राधसे महे त्रय इंद्रस्य सोमा इति मरुत्वतीयस्य प्रतिपदनुचरौ । (*taṃ tamidrādhase mahe traya iṃdrasya somā iti marutvatīyasya pratipadanucarau |*) (Ā. 7-10). For the drinking of the god Indra, endowed with qualities such as giving, let three Somas, existing threefold as the three pressings, be pressed in his own sacrificial house. सुतपान्वः (*sutapānvaḥ*) is an adjective containing the reason: since this Indra drinks only pressed Soma, therefore let them be pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतपान्वः (*sutapānvaḥ*)—for the very reason that Indra drinks the pressed Soma
+- देवस्य (*devasya*)—of the god-natured
+- इंद्रस्य (*iṃdrasya*)—for the drinking of Indra
+- त्रयः सोमाः (*trayaḥ somāḥ*)—the three kinds of Soma juice, in different forms at the three pressings
+- स्वे क्षये (*sve kṣaye*)—in his own sacrificial house
+- सुतासः (*sutāsaḥ*)—pressed
+- संतु (*saṃtu*)—let them be ready
+
 ---
 
-**Progress note:** Done through printed p. 336. pp. 331-336 (batch API)
+**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
