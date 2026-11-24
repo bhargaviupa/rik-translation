@@ -18,3 +18,4 @@
 - 2026-11-24 PDF 850–855: the agent says it wrote the Kannada from a quick visual reading, not letter by letter (0 [?] on four pages); least reliable batch, first in the second pass together with 442–447.
 - 2026-11-24 PDF 856: head sūkta ೬೭[?] changed to ೩೭[?] after looking at the image (p-0856a.jpg; the glyph reads ೩೭, as the previous sūkta numbers lead to).
 - 2026-11-24 PDF 862–867: the agent says it read once at normal pace, first pass, unreliable, re-read recommended (guesses without [?], printed spellings possibly normalised).
+- 2026-11-24 PDF 868–879: both agents say the reading was not letter by letter and under-marked; pp. 874–876 have head digits inconsistent with 875/877 (the agent changed some without re-checking the images) and some ಸೋಮು forms normalised (to be compared with the images at the second pass).
