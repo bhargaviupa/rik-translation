@@ -23507,6 +23507,274 @@ I obtained herds of horses numbering sixty thousand and numbering ten thousand. 
 
 Ten brown horses, of brown colour, turn the felly, that is, the felly of the chariot; that is to say, they draw the chariot. Such horses are of increased speed **NOTE**, have obtained strength, have overcome by strength, or are swift; they are of churning nature.
 
+### Printed p. 514
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यधद्रयः (*yadhadrayaḥ*)—possessing increased speed
+- वीतवारासः (*vītavārāsaḥ*)—possessing complete strength
+- मथ्राः (*mathrāḥ*)—those that restrain the force of enemies
+- श्यावाः (*śyāvāḥ*)—brown-coloured, such
+- दश आशवः (*daśa āśavaḥ*)—ten horses
+- नेमिं (*nemiṃ*)—the felly of the chariot wheel
+- नि नावृतुः (*ni nāvṛtuḥ*)—cause to turn
+
+##### भावार्थ (Bhāvārtha)
+
+Ten horses, possessing increased speed, possessing complete strength, restraining the force of enemies, and brown in colour, carry my chariot.
+
+##### English translation
+"Ten brown horses bear along the wheel (of my chariot), of mature vigour, of complete power, and the trampling down obstacles.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दाना॑सः पृथु॒श्रव॑सः कानी॒तस्य॑ सु॒राध॑सः ।  
+> रथं॑ हिर॒ण्ययं॒ दद॒न्मंहि॑ष्ठः सू॒रिर॑भू॒द्वर्षि॑ष्ठमकृत॒ श्रवः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दानासः । पृथुश्रवसः । कानीतस्य । सुराधसः ।  
+> रथं । हिरण्ययं । ददत् । मंहिष्ठः । सूरिः । अभूत् । वर्षिष्ठं । अकृत । श्रवः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रैः प्रतिपादितानि धनानि बंधूनां पितुर्वा पुरस्तान्निर्दिशन्नाशास्त्रे ।
+> पृथुश्रवसः कानीतस्य सुराधसः शोभनधनस्य । यतस्तस्य धनं दानाय कल्पितं अतः
+> स सुराधाः । तस्य दानासो दाना दत्तानि धनानीमानि । स च पृथुश्रवाः पूर्वमुक्तानि हिरण्ययं हिरण्मयं रथं च ददत् प्रयच्छन् मुंहिष्टोऽतिशयेन दाता
+> सूरिः सर्वस्य प्रेरकः प्राज्ञो वाभूत् । भवति । भवतु वा । वर्षिप मतिशयेन
+> प्रवृद्धां श्रवः कीर्तिमकृत । करोति । करोतु वा ॥
+
+##### Gist of the bhāṣya
+
+The riches set forth by the earlier mantras are pointed out in front of his relatives or his father **NOTE**. They are the gifts of Pṛthuśravas, the son of Kānīta, Surādhas, the one of good wealth; since his wealth was set apart for giving, he is Surādhas. These riches, the gifts, were given by him. And that Pṛthuśravas, having given the golden chariot also, mentioned before, being the most munificent giver, became, or let him become, Sūri, the impeller of all, or wise. He made, or let him make, fame, most widely spread.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (All the wealth of cows and the rest described before) सुराधसः (*surādhasaḥ*)—possessing excellent wealth
+- कानीतस्य (*kānītasya*)—and the son of Kanīta
+- पृथुश्रवसः (*pṛthuśravasaḥ*)—given by the king named Pṛthuśravas
+
+### Printed p. 515
+
+- दानासः (*dānāsaḥ*)—are excellent gifts
+- (that same king) हिरण्ययं (*hiraṇyayaṃ*)—made of gold
+- रथं (*rathaṃ*)—chariot
+- ददत् (*dadat*)—gave (therefore)
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—a most excellent giver
+- सूरिः (*sūriḥ*)—a stimulator of all
+- अभूत् (*abhūt*)—became
+- वर्षिष्टं (*varṣiṣṭaṃ*)—spread very widely
+- श्रवः (*śravaḥ*)—fame also
+- आकृत (*ākṛta*)—has acquired
+
+##### भावार्थ (Bhāvārtha)
+
+All the wealth of cows and the rest described in the previous mantras was given by the king named Pṛthuśravas, the son of Kanīta, who possesses excellent wealth. The same king gave a chariot made of gold. Therefore he became a most excellent giver and a stimulator of all. He has also acquired fame spread very widely.
+
+##### English translation
+" These are the gifts of the wealthy Prithushravas, the son of Kanita ; he, bestowing a golden chariot, has proved himself most liberal and wise, he has won most abundant fame."
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ वायो म॒हे तने॑ या॒हि म॒खाय॒ पाज॑से ।  
+> व॒यं हि ते॑ चकृ॒मा भूरि॑ दा॒वने॑ स॒द्यश्चि॒न्महि॑ दा॒वने॑ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । वायो इति । महे । तने । याहि । मखाय । पाजसे ।  
+> वयं । हि । ते । चक्रम । भूरि । दावने । सद्यः । चित् । महि । दावने ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ नो वायवित्येषा पंचमेऽहनि प्रउगशस्त्रे वायव्यतृचे तृतीया । आ
+> नो वायो महे तन इत्येका रथेन पृथुपाजसा । आ. ७-१२ । इति हि सूत्रितं ॥
+> हे वायो त्वं नोऽस्मान् प्रत्या याहि । अगच्छ। किमर्थ० । महे महते
+> तने धनाय मखाय महनीयाय साजसे बलाय च । उभयं प्रदातुमित्यर्थः।
+> किमत्रास्ति चेत् उच्यते । वयं हि वयं खलु ते भूरि दावने प्रभूतधनदात्रॆ
+
+### Printed p. 516
+
+> चक्रम स्तुतिं हविर्वा । सद्यश्चित्तदानीमेव तवागमनानंतरमेव चक्रम महि
+> महतो धनस्य दावने दात्रे ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk, beginning with आ नो वायो (*ā no vāyo*), is the third in the Vāyavya tṛca in the Prauga śastra on the fifth day, as laid down in the sūtra (Ā. Sū. 7-12). O Vāyu, come to us. For what? For great wealth and for venerable strength, to give both. What is there here? We, indeed, have made praise or an oblation for you, the giver of abundant wealth. Immediately, that is, just after your coming, we have made it for you, the giver of great wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- महे (*mahe*)—for great
+- तने (*tane*)—giving of wealth
+- मखाय (*makhāya*)—and venerable
+- पाजसे (*pājase*)—giving of strength
+- नः (*naḥ*)—to us
+- आ याहि (*ā yāhi*)—be gracious and come
+- वयं हि (*vayaṃ hi*)—we indeed
+- भूरि दावने (*bhūri dāvane*)—who gives most abundantly
+- ते (*te*)—towards you
+- चक्रम (*cakrama*)—we compose excellent praise
+- महि (*mahi*)—of great wealth
+- दावने (*dāvane*)—to you, the giver
+- सद्यश्चित् (*sadyaścit*)—as soon as you come, we offer it
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, be gracious and come to us, to give great wealth and venerable strength. We, indeed, compose excellent praise towards you, who give most abundantly. To you, the giver of great wealth, we offer it as soon as you come.
+
+##### English translation
+Come to us, Vayu, to bestow great wealth and glorious strength; we have offered (libations) to you the giver of abundant (wealth), we have offered immediately to you the giver of gerat (gifts).
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, आ नो वायो (*ā no vāyo*), is to be recited as the third Ṛk among the three Ṛks of the Vāyavya tṛca **NOTE** in the Prauga-śastra mantras on the fifth day of the sacrifice; this is made clear by the Āśvalāyana Śrauta Sūtra, in the sūtra आ नो वायो महे तन इत्येका रथेन कृथुपाजसा (*ā no vāyo mahe tana ityekā rathena kṛthupājasā*) (Ā. Sū. 6 12) **NOTE**.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अश्वे॑भि॒र्वह॑ते॒ वस्त॑ उ॒स्राप्तिः स॒प्त स॑प्तती॒नां ।  
+> ए॒भिः सोमे॑भिः सोम॒सुद्भिः॑ सोमपा दा॒नाय॑ शुक्रपूतपाः ॥ २६ ॥
+
+### Printed p. 517
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः ' अश्वेभिः । सहते । वस्ते । उस्राः । त्रिः । सत्त । सप्ततीनां ।  
+> विभीः ! सोमेभिः । सोमसुत्भिः । सोमपाः । दानाय । शुक्रपूतपाः ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः पृथुश्रवा अश्वेभिरश्वैर्वहते गृहं वस्ते जोष्रा गाः । ताभिश्च गच्छतीत्यर्थः । त्रिः सप्तति तासां गवां संख्योक्ता । सा संख्या विशेष्यते । सप्ततीनां त्रिः
+> सप्त । उक्तसंख्याकाभिर्गॊभिरश्वैश्च यो गच्छति स पृथुश्रवा एभिः सोमेभिः
+> सोमैः सोमसुद्धिः सोममभिषुण्वद्भिश्च हे सोमपाः । सोमस्य पातरिति
+> वायोः संबोधनं । जे शुक्रपूतसा दीप्तपूतस्य च सोमस्य पातर्वायो
+> दानाय तुभ्यं सोमं दातुं सोमैर्युक्तो भवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+That Pṛthuśravas goes with horses to his house, and with cows **NOTE**; that is the meaning. The number of those cows is stated as thrice seven seventies; the number is specified: thrice seven of seventies. That Pṛthuśravas, who goes with cows and horses of the stated number, with these Somas, that is, Soma juices, and with those who press Soma, is addressed: O Soma-drinker, drinker of Soma, which is a vocative of Vāyu; O drinker of bright and pure Soma, Vāyu. He is furnished with Soma, to give Soma to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमपाः (*somapāḥ*)—drinker of Soma
+- शुक्रपूतपाः (*śukrapūtapāḥ*)—drinker of Soma that is pure and bright, O Vāyu
+- यः (*yaḥ*)—who
+- अश्वेभिः (*aśvebhiḥ*)—by horses
+- वस्ते (*vaste*)—towards the house
+- वहते (*vahate*)—is carried, and
+- सप्ततीनां त्रिः सप्त (*saptatīnāṃ triḥ sapta*)—numbering seventy multiplied by twenty-one (70-20=140) **NOTE**
+- उस्राः (*usrāḥ*)—provided with cows, such King Pṛthuśravas
+- विभिः सोमेभिः (*vibhiḥ somebhiḥ*)—with these Somas
+- सोमसुद्दिः (*somasuddiḥ*)—and with these priests who press Soma
+- दानाय (*dānāya*)—is ready to offer to you
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, drinker of the pure and bright Soma, the king named Pṛthuśravas, who is carried by horses towards his house and who is provided with cows numbering 1420 **NOTE**, is ready to offer a gift to you, together with these Somas and with these priests who press Soma.
+
+##### English translation
+He who is borne on horses and surrounds himself with thrice seven times seventy cows,—he comes to you with these Soma libations and Soma-priests, to offer to you, drinker of the Soma, drinker of the bright pure Soma.
+
+### Printed p. 518
+
+#### Ṛk 27
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो म॑ इ॒मं चि॑दु॒ त्मनामं॑दच्चि॒त्रंदा॒वने॑ ।  
+> अ॒र॒ट्वे अक्षे॒ नहु॑हे सु॒कृत्व॑नि सु॒कृत्त॑राय सु॒क्रतुः॑ ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मे । इमं । चित् । ऊं इति । त्मना । अमंदत् । चित्रं । दावने ।  
+> अरट्वे । अक्षे । नडुषे । सुकृत्वनि । सुकृत्तराय । सुक्रतु ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः पृथुश्रवा मे मह्यमिमं पुरतोवर्तमानं चित्रं चायनीयं
+> गवाश्वादिकं दावने दानाय त्मनात्मना स्वबुद्धैवामंदत् आमंदत अमाद्यत । स
+> च सुक्रतुः शोभनकर्मा राजा सुकृत्तराय सुकृतकर्तृत्वायारट्टेऽक्षे नहुषे
+> सुकृत्वनि च । एते तस्य राज्योऽध्यक्षाः । तेप्वन्वशात् अस्मै गवाडिकान् संयोजयतेति । यद्वा। अरट्वादयोऽन्ये राजानः । तेषु मध्यॆ सुकृत्तरायामंददिति ॥
+
+##### Gist of the bhāṣya
+
+That Pṛthuśravas, to me, this honourable gift before him, cows, horses and the rest, for giving, of his own accord, by his own mind, was pleased. And he, the king Sukratu, of good works, for greater good action, among Aratva **NOTE**, Akṣa, Nahuṣa and Sukṛtvan. These are the overseers of his kingdom; among them **NOTE**. Or else Aratva and the others are other kings; among them he was pleased for the sake of Sukṛttara.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- मे (*me*)—to me
+- इमं (*imaṃ*)—described here
+- चित्रं (*citraṃ*)—and attractive, wealth of cows and the rest
+- दानवे (*dānave*)—for giving
+- त्मना उ (*tmanā u*)—by his own impulse
+- अमंदत् (*amaṃdat*)—has been pleased, such
+- सुक्रतुः (*sukratuḥ*)—the king named Pṛthuśravas, doer of excellent deeds
+- अरट्टे, अक्षे, नहुषे, सुकृत्वनि (*araṭṭe, akṣe, nahuṣe, sukṛtvani*)—among these kings called Araṭṭa, Akṣa, Nahuṣa and Sukṛtva
+- सुकृत्तराय (*sukṛttarāya*)—to perform the most excellent action (has resolved)
+
+##### भावार्थ (Bhāvārtha)
+
+The king named Pṛthuśravas, the doer of excellent deeds, who of his own impulse is pleased to give me the wealth of cows and the rest described above, attractive as it is, has resolved to perform the most excellent action among these kings called Araṭṭa, Akṣa, Nahuṣa and Sukṛtva.
+
+##### English translation
+He who of his own will has been plased to give me this honoured gift,- he, performer of good works, (has determined) on a pre-emminetly good action, amidst Aradwa, Aksha, Nahusha and Sukritwan.
+
+### Printed p. 519
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒च्॒ये॒३॒॑ऽऽ वपु॑षि॒ यः स्व॒राळु॒त वा॑यो धृत॒स्नाः ।  
+> अश्वे॑षितं॒ रजे॑षितं॒ रुने॑षितं॒ प्राज्ञ॒ तदि॒दं नु तत् ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उचथ्ये । वपुषि । यः । स्वराट् । उत । वायो इति । धृतस्नाः ।  
+> अश्वइषितं । रजःइषितं । शुनाइषितं । प्र । अज्म । तत् । इदं । नु । तत् ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उचथ्ये वक्तव्ये स्तुत्ये वपुषि शरीरे यः स्वराट् स्वयं राजते । यद्वा।
+> उचथ्यो वपुश्चोभौ राजान् । तयोरपि यः स्वराट् स्वाराज्यं करोति अतिशयेन
+> वर्तते । हे वायो यश्च घृतस्ना घृतवच्चुद्धः स राजाश्वेषितमश्वैः प्रापितं रजेषितं । रजःशब्देनोष्टो गर्दभो वोच्यते । तेनाप्यानीतं कुनेषितं चाज्मान्नं
+> प्रादात् । तदन्नमश्वाद्यानीतमिदं पुरतो दृश्यते । तत्तवैवानुग्रहादित्यर्थः ।
+> अथवैकस्तच्छब्दः पूरणः । अश्वाद्यानीतं यदस्ति तदिदं खल्विति ॥
+
+##### Gist of the bhāṣya
+
+He who is self-ruling, shining by himself, in the praiseworthy, that is, to be spoken of, body. Or else: Ucathya and Vapus are both kings; he who is self-ruling over both of them also, who exercises sovereignty and excels. O Vāyu, that king who is pure like ghee gave food brought by horses; and brought by camel or ass, for the word for dust denotes a camel or an ass **NOTE**; and brought by dogs **NOTE**. That food, brought by horses and the rest, is seen here in front; it is by your favour alone, such is the meaning. Or else the single word for "that" is a filler: what is brought by horses and the rest, that is this, indeed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- उचथ्ये (*ucathye*)—praiseworthy
+- वपुषि (*vapuṣi*)—having a body
+- यः (*yaḥ*)—which king
+- स्वराट् (*svarāṭ*)—is self-shining
+- उत (*uta*)—and
+- धृतस्नाः (*dhṛtasnāḥ*)—who is pure like ghee, such a king
+- अश्लेषितं (*aśleṣitaṃ*)—drawn by horses
+- रजेषितं (*rajeṣitaṃ*)—drawn by camels
+- शुनेषितं (*śuneṣitaṃ*)—drawn by dogs
+- अज्म (*ajma*)—food (nourishment)
+- प्र (*pra*)—has given as a gift
+- तत् इदं (*tat idaṃ*)—all that is seen before
+- नु (*nu*)—certainly
+- तत् (*tat*)—all this is the fruit of your favour
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, the king who, having a praiseworthy body, is self-shining, and who is pure like ghee, has given as a gift food (nourishment) drawn by horses, drawn by camels, and drawn by dogs.
+
 ---
 
-**Progress note:** Done through printed p. 513. Sūkta 46 Ṛk 17 end, Ṛk 18-23 (pp. 508-513)
+**Progress note:** Done through printed p. 519. Sūkta 46 Ṛk 23 end, Ṛk 24-28 (pp. 514-519)
