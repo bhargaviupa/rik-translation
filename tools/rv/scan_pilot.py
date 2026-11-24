@@ -5,6 +5,8 @@
         renders PDF pages FIRST..LAST (PDF page numbers) to volN/work/scan_pilot/, counts the input tokens (free) and prints the cost estimate. Nothing is sent.
   python3 tools/rv/scan_pilot.py run VOL PDF FIRST LAST [--dpi 200] [--model ...] [--max-usd 3]
         sends each page (one request per page) and writes volN/work/scan_pilot/pages.md (page marks `<!-- PDF n -->`) and the usage to volN/parts/scan_pilot.md.
+  python3 tools/rv/scan_pilot.py render VOL PDF FIRST LAST
+        only renders the pages (the top and bottom halves of each page as volN/work/scan_pilot/p-NNNNa.jpg and p-NNNNb.jpg, 1568 px wide) for agents that read images themselves; no API.
   python3 tools/rv/scan_pilot.py compare VOL REF.md
         compares volN/work/scan_pilot/pages.md with a machine-read text of the same pages (words, numerals, Kannada digits): a measured error rate.
 
@@ -87,4 +89,6 @@ def compare(vol, ref):
 if __name__ == '__main__':
     pos, kw = args(); mode = pos[0]
     if mode == 'compare': compare(pos[1], pos[2])
+    elif mode == 'render':
+        r = render(pos[1], pos[2], int(pos[3]), int(pos[4]), kw['dpi']); print(len(r), 'pages rendered to', os.path.dirname(r[0][1][0]))
     else: plan_or_run(mode, pos[1], pos[2], int(pos[3]), int(pos[4]), kw)
