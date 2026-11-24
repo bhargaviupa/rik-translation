@@ -26714,6 +26714,262 @@ Sāyaṇa says: O Indra, I ask for, I beg, great wealth from you, the hero, who 
 - धनस्पृतं (*dhanaspṛtaṃ*)—the giver of wealth
 - विभूतिं (*vibhūtiṃ*)—the one possessed of lordship
 
+### Printed p. 587
+
+- इंद्रनिंद (*iṃdraniṃda*)—from Indra
+- महः (*mahaḥ*)—great
+- राधसः (*rādhasaḥ*)—wealth
+- प्र (*pra*)—I ask
+- वज्रैन् (*vajrain*)—O Indra, wielder of the thunderbolt
+- त्वं (*tvaṃ*)—you
+- अवतः (*avataḥ*)—a spring
+- उद्री इव (*udrī iva*)—as it makes water flow
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- सदा (*sadā*)—always
+- वसुत्वना (*vasutvanā*)—by the gift of wealth
+- पीपेथ (*pīpetha*)—you bring satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+I ask great wealth from Indra, the valiant, the one of exceeding strength, the one who knows the difference between merit and demerit, the giver of wealth, the one possessed of lordship. O Indra, wielder of the thunderbolt, as a spring makes water flow and gives satisfaction to people, so you always bring satisfaction, by the gift of wealth, to the sacrificer who offers the oblation.
+
+##### English translation
+We worship Indra, hero, ferocious, speedy, pleasing by gifts of wealth and having abundance of Vibhuti, wielder of thunder-bolt, like a well do you with spreading wealth drink Soma like water for the wel-being of your worshipper.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्ध॑ नू॒नं प॑रा॒वति॒ यद्वा॑ पृथि॒व्यां दि॒वि ।  
+> यु॒जा॒न इं॑द्र॒ हरि॑भिर्महेमत ऋ॒ष्व ऋ॒ष्वेभि॒रा ग॑हि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ह । नूनं । परावति । यत् । वा । पृथिव्यां । दिवि ।  
+> युजानः । इंद्र । हरिभिः । महेमते । ऋष्ट्वः । ऋष्टेभिः । आ । गहि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महेमते पूजासक्तबुद्धे इंद्र यद्ध यत्र क्वचित् परावति दूरदेशे
+> नूनं निश्चितं वर्तसे । यद्वा यत्र वा पृथिव्यां भुवि दिवि द्युलोके वा वर्तसे ।
+> अस्मात् स्थानविशेषात् ऋष्टैः महद्भिः हरिभिः एतत्संज्ञकैरश्वैः रथं युजानः
+> युक्तं कुर्वाणः ऋष्टैः महांस्वमा गहि आगच्छास्मद्यज्ञं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, of reverent mind, wherever you may be, whether in a far place, or on the earth, or in the heaven, from that particular place come to our sacrifice, yoking your chariot with great horses, those named Hari, and being yoked with them. **NOTE**
+
+### Printed p. 588
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महेमते (*mahemate*)—O Indra, most venerable
+- इंद्र (*iṃdra*)—O Indra
+- नूनं (*nūnaṃ*)—now
+- यद्ध (*yaddha*)—if perhaps
+- परावति (*parāvati*)—in a very distant place
+- दिवि (*divi*)—in the heavenly world
+- यद्वा (*yadvā*)—or
+- पृथिव्यां (*pṛthivyāṃ*)—on the earth, from that place
+- ऋष्टः (*ṛṣṭaḥ*)—you, the venerable
+- ऋष्टेभिः (*ṛṣṭebhiḥ*)—of great form
+- हरिभिः (*haribhiḥ*)—with your horses
+- युजानः (*yujānaḥ*)—joining
+- आ गहि (*ā gahi*)—graciously come to our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O most venerable Indra, if at this time you are in the very distant heavenly world, or on the earth, from that place come to our sacrifice, you the venerable, joined with your horses of great form.
+
+##### English translation
+Loving, noble Indra whether you be away or in this earth or in the heaven come harnessing the loving horses, in your chariot.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒थि॒रासो॒ हर॑यो॒ ये ते॑ अ॒स्त्रिध॒ ओजो॒ वात॑स्य॒ पिप्र॑ति ।  
+> येभि॒र्नि दस्युं॒ मनु॑षो नि॒घोष॑यो॒ येभिः॒ स्वः॑ प॒रीय॑से ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथिरासः । हरयः । ये । ते । अस्त्रिधः । ओजः । वातस्य । पिप्रति ।  
+> येभिः । नि । दस्युं । मनुषः । निघोषयः । येभिः । स्वंरिति स्वः । परिईयसे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये हरयोऽश्वाः ते तव स्वभूताः रथिरासः रथार्हाः अस्त्रिधः । स्त्रिधो
+> हिंसकाः शत्रवः । तद्रहिताः संति । येभिर्यैरश्वैः मनुष्यस्य यजमानस्य
+> संबंधिनं दस्युमुपक्षपयितारं शत्रुं निः निरंतरं निघोषयः नितरामाक्रोशयसि । अश्वशफप्रहारैस्तं चूर्णयन् विशब्दितं करोषीत्यर्थः । किंच येभिर्यै-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: those horses of yours, the Haris, are fit for the chariot and are *astridhaḥ*, that is, free from *stridhaḥ*, the hostile enemies. With which horses you make the *dasyu*, the destroying enemy of the sacrificer, cry out continually, crushing him with blows of the horses' hooves and making him sound aloud. Further, the horses with which you go about the heavenly world,
+
+### Printed p. 589
+
+> रश्वैः स्वः स्वर्लोकं परीयसे परितो गच्छसि ! ते हरयो वातस्य वायोः ओजः
+> बलं पिप्रति पूरयंति । वायोः सामर्थ्यमात्मनि संपादयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: those horses fill with the strength of the wind; that is, they acquire the power of the wind in themselves. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथिरासः (*rathirāsaḥ*)—fit for an excellent chariot
+- ये (*ye*)—which
+- हरयः (*harayaḥ*)—your horses
+- अस्त्रिधः (*astridhaḥ*)—free from hostile enemies
+- येभिः (*yebhiḥ*)—with the help of which horses
+- मनुषः (*manuṣaḥ*)—of the performer of the sacrifice
+- दस्युं (*dasyuṃ*)—the hostile enemy
+- नि (*ni*)—always
+- घोषयः (*ghoṣayaḥ*)—you cause to sound the sound of destruction
+- येभिः (*yebhiḥ*)—with which horses
+- स्वः (*svaḥ*)—heaven
+- ईयसे (*īyase*)—you move about everywhere
+- ते (*te*)—those horses
+- वातस्य (*vātasya*)—of the wind
+- ओजः (*ojaḥ*)—the strength
+- एप्रति (*eprati*)—fill themselves with
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your horses, fit for an excellent chariot, are free from hostile enemies. With the help of which horses you always cause the hostile enemy of the performer of the sacrifice to sound a sound of destruction, and with which horses you move about heaven everywhere, those horses fill themselves with the strength of the wind.
+
+##### English translation
+Your horses carrying chariot are envyless and competing the speed of wind. To their help you have killed the Dasyus, you have made them famous and all things known.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ताव॑तस्ते वसो वि॒द्याम॑ शूर॒ नव्य॑सः ।  
+> यथा॒ प्राव॒ एत॑शं॒ कृत्वे॒ धने॒ यथा॒ वशं॒ दश॑व्रजे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऐतावतः । ते । वसो इति । विद्याम । शूर । नव्यसः ।  
+> यथा । प्र । आवः । एतशं । कृत्वे । धने । यथा । वशं । दशव्रजे ॥ ९ ॥
+
+### Printed p. 590
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासयितः हे शूर विक्रांतेंद्र यथा येन प्रकारेण कृत्वे
+> कर्तव्ये धने निमित्ते सति एतशं एतन्नामानमृषिं प्रावः प्रकर्षेण रक्षितवानसि ।
+> किंच यथा येन प्रकारेण दशव्रजे दशसंख्याकशत्रुसमूहे वशं एतस्संज्य कमृषिं
+> प्रावः प्रकर्षेण रक्षितवानसि । एतावतः एतावत्पराक्रमोपेतं ते त्वां नव्यसः
+> स्तुत्यं विद्याम जानीमो वयं . सर्वत्र कर्मणि षष्ठि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Vasu, O hero, valiant Indra, in what manner, when wealth was to be won, you protected well the seer named Etaśa, and in what manner you protected the seer named Vaśa among the host of ten enemies, so we know you, who are possessed of so great valour, as worthy of praise. In every such case the genitive stands in the sense of the object. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O giver of dwelling
+- शूर (*śūra*)—O valiant Indra
+- यथा (*yathā*)—in what manner
+- कृत्वे (*kṛtve*)—for the accomplishment of a task
+- धने (*dhane*)—on account of wealth
+- एतशं (*etaśaṃ*)—the seer
+- प्रावः (*prāvaḥ*)—you protected
+- यथा (*yathā*)—in what manner
+- दशव्रजे (*daśavraje*)—among the host of enemies
+- वशं (*vaśaṃ*)—the seer named Vaśa, you protected
+- एतावतः (*etāvataḥ*)—of such greatness
+- नव्यसः (*navyasaḥ*)—and venerable
+- विद्याम (*vidyāma*)—we know
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling, valiant, in what manner you protected the seer named Etaśa on account of wealth for the accomplishment of a task, and in what manner you protected the seer named Vaśa among the host of ten enemies, so we know the greatness of you who are of such greatness and venerable.
+
+##### English translation
+Hero, keeper of dwellings, Indra we know of so much your wealth for which you did protect Yetasha and Vashaya with Dasavraja.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ कृष्णे॑ मघव॒न्मेधे॑ अध्व॒रे दी॒र्घनी॑थे॒ दमू॑नसि ।  
+> यथा॒ गोश॑र्ये॒ असि॑षासो अद्रिवो॒ मयि॑ गो॒त्रं  ॒॑॑
+> हरिश्रियं ॥ १० ॥
+
+### Printed p. 591
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । कण्णे ! मघवन् । मेधे । अध्वरे । दीर्घनीथे । दमूनसि ।  
+> यथा । गोऽशर्ये । असिसासः । अद्रिवः । मयि । गोत्रं । हरिऽश्रियं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः वज्रिवन् (?) इंद्र मेधे यज्ञे यथा येन प्रकारेण कण्णे
+> एतन्नामके ऋषौ निमित्ते हरिश्रियं । हरिः जगत्पापहर्त्री हरितवर्णा वा श्रीः
+> जललक्ष्मीर्यस्य तादृशं । गोत्रं मेघं असिसासः दत्तवानसि । ईदृशे कण्णे अध्वरे ।
+> ध्वरतिर्हिंसाकर्मा ! तद्रहिते दीर्घनीथे दीर्घं स्वर्लोकपर्यंतं नीथं हविः
+> प्रापणं यस्य तथाभूते । पुनः कीदृशे । दमूनसि दानमनसि उदारे । यथा चॆ
+> गोशर्ये एतन्नामके ऋषौ मेघं दत्तवानसि तथा मयि पुष्टिगौ हरिश्रियं
+> गोत्रं देहि । यथा तयोरनुग्रहदृष्ट्या मेघवृष्टिं कृतवानसि तथा मय्यपि
+> कृपादृष्ट्या अभिलषितवृष्टिं कुर्वित्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O wielder of the stone, Indra, at the sacrifice, in the manner that you gave a cloud to the seer named Kaṇva, *haritriyam*, whose glory is the water-wealth that takes away the sins of the world, or whose glory is green; at this Kaṇva's sacrifice, free from violence (the root *dhvar* has the sense of harming), where the means of carrying the oblation extends far, up to the heavenly world, and who is generous; and as you gave a cloud to the seer named Gośarya, so give to me, Puṣṭigu, a cloud of such glory. The intention is: as you sent rain for those two out of favour, so also for me, out of gracious regard, send the rain that I desire. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O wielder of the thunderbolt
+- मघवन् (*maghavan*)—O Indra
+- दीर्घनीथे (*dīrghanīthe*)—which carries the oblation up to heaven
+- आध्वरे (*ādhvare*)—and is free from violence
+- मेधे (*medhe*)—at the sacrifice
+- दमूनसि (*damūnasi*)—for the generous
+- कण्णी (*kaṇṇī*)—Kaṇva
+- यथा (*yathā*)—in what manner
+- हरिश्रियं (*hariśriyaṃ*)—provided with the water-wealth that takes away sin
+- गोत्रं (*gotraṃ*)—a cloud
+- असिषासः (*asiṣāsaḥ*)—you provided
+- यथा (*yathā*)—in what manner
+- गोशर्यॆ (*gośaryè*)—to Gośarya you provided (in the same manner)
+- मयि (*mayi*)—provide for me also
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt, as you provided, at the sacrifice that carries the oblation up to heaven and is free from violence, for the generous Kaṇva a cloud provided with water-wealth that takes away the heat, and poured rain, and as you provided for Gośarya also, in the same manner provide for me and bring satisfaction. **NOTE**
+
+##### English translation
+Maghavan wielder of thunder-bolt do protect us as you did protect in secret rite, Kanwa, Gosharya and Dirghanith.
+
+### Printed p. 592
+
+## Sūkta 51 (Maṇḍala 8)
+
+**Introduction**
+
+The fifty-first sūkta (Vālakhilya sūkta 3). यथा मनौ सांवरणौ इति दशर्चं तृतीयं सूक्तं काण्वस्य श्रुष्टिगोरार्षमैंद्रं । अनुक्रांतं च । यथा मनौ श्रुष्टिगुः इति । आयुजां बृहती छंदः । युजां सतोबृहती छंदः । विनियोगः सूत्रादवगंतव्यः ॥ (*yathā manau sāṃvaraṇau iti daśarcaṃ tṛtīyaṃ sūktaṃ kāṇvasya śruṣṭigorārṣamaiṃdraṃ | anukrāṃtaṃ ca | yathā manau śruṣṭiguḥ iti | āyujāṃ bṛhatī chaṃdaḥ | yujāṃ satobṛhatī chaṃdaḥ | viniyogaḥ sūtrādavagaṃtavyaḥ ‖*)
+
+Anuvāda: This sūkta beginning *yathā manau sāṃvaraṇau* is the third among the Vālakhilya sūktas. It has ten Ṛks. Its seer is Śruṣṭigu Kāṇva; Indra is the deity. The odd-numbered Ṛks of this sūkta are in the Bṛhatī metre; the even-numbered Ṛks are in the Satobṛhatī metre. In the Anukramaṇikā it is said: *yathā manau śruṣṭiguḥ*. The ritual application is to be learnt from the Sūtra. **NOTE**
+
+##### Particulars
+
+Maṇḍala 8, Anuvāka 6, Sūkta 51; Aṣṭaka 6, Adhyāya 4, Varga 18, 19. Number of Ṛks in the sūkta: 10. Seer: Śruṣṭiguḥ Kāṇvaḥ. Deity: Indraḥ. Metre: Prāgātha (odd Ṛks Bṛhatī, even Ṛks Satobṛhatī).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ मनौ॒ सांव॑रणौ॒ सोम॑मिं॒द्रापि॑बः सु॒तं ।  
+> नीपा॑तिथौ मघव॒न्मेध्या॑तिथौ॒ पुष्टि॑गौ॒ श्रुष्टि॑गौ॒ सचा॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । मनौ । सांवरणौ । सोमं । इंद्र । आपिबः । सुतं ।  
+> नीप अतिथौ । मघवन् । मेध्य अतिथौ । पुष्टिगौ । शुष्टिगौ । सचा ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 586. Maṇḍala 8 sūkta 50 Ṛks 1-6 (Ṛk 6 pratipadārtha continues)
+**Progress note:** Done through printed p. 592. Maṇḍala 8 sūkta 50 Ṛks 6-10; sūkta 51 intro, Ṛk 1 Saṃhitā and Pada
