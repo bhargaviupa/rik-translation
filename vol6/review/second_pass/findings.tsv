@@ -752,3 +752,41 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 413	H29	R3	Skandasvāmin: yathā tava kṛṣṇāruṇau varṇāv api bhinnau bhavete / Nirukta 12-40	Kannada ಭಿನ್ನಾ ಭವತ; ಮತ್ಸು (English matau)		Kannada prints a misprint; English silently put it right (H29).	question	
 420	H29	R3	Brāhmaṇa quotation śataṃ tvā hemantān dhiṣīya (Tai. Saṃ. 1-5-8-5)	Kannada p. 420 ಇಂಧಿಷೀಯೇತಿ ನಾವೃತದಾಹ; p. 421 ಹೇಮಂತಾನಿಂದಿಷೀಯೇತಿ ವಾವೈತದಾಹ; English dhiṣīya iti vāva tad āha		Kannada prints a misprint; English silently put it right (H29).	question	
 428	H29	R3	pp. 428-429: Special topics on mantram (printed ಮನನಸಾಧನಮೇತತ್ತೂಕ್ತರೂಪಂ)	Kannada ಏತತ್ತೂಕ್ತರೂಪಂ; English etat stotrarūpam		Kannada prints a misprint; English silently put it right (H29).	question	
+433	S2	R1	, Pā. [3-2-106]	, Pā. [3-2-106]		Kannada prints no sutra number after liṭaḥ kānaj vā	applied	
+433	S2	R1	, Pā. [6-4-131]	, Pā. [6-4-131]		Kannada prints no sutra number after vasoḥ saṃprasāraṇam	applied	
+454	S2	R1	, Pā. [6-4-131]	, Pā. [6-4-131]		Kannada prints no sutra number after vasoḥ saṃprasāraṇam	applied	
+436	S14	R1	in the Ṛks that bear on this, the very same pāda r	in the Ṛks that bear on this, the very same pāda recurs [*vidmā hi tvā dhanaṃjayam*], with	in the present Ṛk the very same pāda recurs, with	Kannada: ಪ್ರಸಕ್ತ ಋಕ್ಕಿನಲ್ಲಿರುವ ಪಾದವೇ ಪುನಃ ಪಠಿತವಾಗಿರುವುದು, ಪ್ರಥಮಾವಿಭಕ್ತಿಗೆ ಬದಲಾಗಿ ದ್ವಿತೀಯಾ: the pāda of the present Ṛk recurs	applied	
+436	S16	R1	the pāda *sahā vidmā hi tvā dhanaṃjayam* recurs	the pāda *sahā vidmā hi tvā dhanaṃjayam* recurs	also the pāda *vidmā hi tvā dhanaṃjayam* recurs	Kannada: ವಿದ್ಯಾ ಹಿ ತ್ವಾ ಧನಂಜಯಂ ಎಂಬ ಪಾದವು ಪುನಃ ಪಠಿತವಾಗಿರುವುದು (no sahā)	applied	
+437	S16	R1	*brūñ*-class rule *bruva īṭ…* / 	*brūñ*-class rule *bruva īṭ…* / 		Kannada gives only ಅಚಿಶ್ನುಧಾತುಭ್ರುವಾಂ for the uvaṅ substitution; no bruva īṭ rule	applied	
+437	S2	R1	, Pā. [6-4-77]	, Pā. [6-4-77]		Kannada prints no sutra number after ಅಚಿಶ್ನುಧಾತುಭ್ರುವಾಂ	applied	
+437	S2	R1	, Pā. [8-1-2]	, Pā. [8-1-2]		Kannada prints no sutra number after ತಸ್ಯ ಪರಮಾಮ್ರೇಡಿತಂ	applied	
+443	S1	R1	volume 2, pp. 640–641	volume 2, pp. 640–641	volume 1, pp. 640–641	Kannada ಋ. ಸಂ. ಭಾಗ ೧ರಲ್ಲಿ 640-641	applied	
+443	S13	R6	*sahasaspūtra*	*sahasaspūtra*	*sahasasputra*	Kannada ಸಹಸಸ್ಪುತ್ರಃ (putra, short u)	applied	
+444	S13	R6	*sahasaspūtra*	*sahasaspūtra*	*sahasasputra*	Kannada p. 443 ಸಹಸಸ್ಪುತ್ರಃ; p. 444 ಸಹಸಸ್ಸುತ್ರ is a misprint of the same word	applied	
+446	S7	R3	*candraś candater kāntikarmaṇaḥ*	*candraś candater kāntikarmaṇaḥ*	*candraś candateḥ kāntikarmaṇaḥ*	Kannada ಚಂದತೇಃ (genitive of the root candati: teḥ)	applied	
+451	S1	R1	Pā. [6-2-2]	Pā. [6-2-2]	Pā. 9-2-2	Kannada prints ಪಾ. ಸೂ. ೯-೨-೨ (impossible adhyāya; listed in open.tsv)	applied	
+451	S2	R1	, Pā. [6-4-14]	, Pā. [6-4-14]		Kannada prints no sutra number after ಅತ್ವಸಂತಸ್ಯ	applied	
+451	S14	R1	loss of the final *t* by	loss of the final *t* by	loss of the final *s* by	Kannada ಸಂಯೋಗಾಂತಲೋಪದಿಂದ ಸಕಾರಲೋಪ (loss of s)	applied	
+457	S14	R1	*kutva* of *h*	*kutva* of *h*	*cutva* of *h*	Kannada ಕುಹೋಶ್ಚುಃ ಸೂತ್ರದಿಂದ ಹಕಾರಕ್ಕೆ ಚುತ್ವ, ಜಸ್ತ್ವ	applied	
+459	S1	R1	Pā. [6-3-136]	Pā. [6-3-136]	Pā. 6-3-139	Kannada ಪಾ. ಸೂ. ೬-೩-೧೩೯	applied	
+459	S1	R1	*liṅyāśiṣy aṅ*, Pā. [3-1-86]	*liṅyāśiṣy aṅ*, Pā. [3-1-86]	*liṅyāśiṣy aṅ*, Pā. 3-1-89	Kannada ಲಿಜ್ಯಾಶಿಷ್ಯಜ್ (ಪಾ. ಸೂ. ೩-೧-೮೯)	applied	
+431	H29	R6	ಕೃಷ್ಣಿಷು (pratipadārtha)	kṛṣṭiṣu		Misprint of ಕೃಷ್ಟಿಷು; the Sanskrit it renders is clear but the print is a non-word	question	
+431	H29	R6	ಸರಿತವಾಗಿರುವುದರಿಂದ (Special Topics)	English renders "is read"		Not decided by the sentence: the parallel passages on p. 432 use ಪಠಿತ	question	
+432	H29	R3	ದಭ್ಯೋತಿ, ಶ್ಠಥತಿ	dabhnoti, śnathati		Print is a non-word; the Nirukta list is not given in the Kannada	question	
+432	H29	R3	ಮಘಂ ರೇಕ್ಷಃ	magham, rekṇaḥ		Print is a non-word; Kannada does not decide	question	
+434	H29	R6	ಬ್ರವಂತು (pratipadārtha)	bruvantu		The Saṃhitā above prints ಬ್ರುವಂತು, but the pratipadārtha is a misprint put right silently	question	
+435	R3	R3	ಧನಂಜಯಃ ಪವತೇ ಕೃತ್ವಾ ರಸೋ (Ṛ. Saṃ. 9-84-5)	dhanaṃjayaḥ pavate kṛtvyo raso		English differs from the print by a word; no gloss in the Kannada decides	question	
+436	H29	R3	ತಮ್ಮ ತ್ವಾ ಪಾಥ್ಯೋ ವೃಷಾ (Ṛk 6-16-15)	tam u tvā pāthyo vṛṣā		Misprint put right silently; sense not decided by the sentence	question	
+437	H29	R6	ಅತಿಜಂತದ ಪರದಲ್ಲಿ (grammar)	atijanta (p. 437) / atiṅanta (p. 430)		Print is a misprint of ಅತಿಙಂತ; kept inconsistently	question	
+442	H29	R3	ಮನುಷ್ಪದಗ್ನೇ (Ṛ. Saṃ. 1-31-17)	manuṣvad agne		Misprint put right silently	question	
+442	H29	R3	ಸ ಜಾಯಸೇ ಮಧ್ಯಮಾನಃ ಸಹೋ ಮಹತ್ವಾ ಮಾಹುಃ (5-11-6)	sa jāyase mathyamānaḥ saho mahat tvām āhuḥ		English changed the print and the word division	question	
+443	H29	R3	ದ್ವೃನ್ನಃ ಸರ್ಪಿರಾಸುತಿಃ (2-7-6)	dṛḷhagnaḥ		Non-word in print	question	
+443	H29	R3	ಶೋಚಕ್ಕೇಶಃ (3-14-1)	śociṣkeśaḥ		Non-word in print	question	
+445	H29	R6	ರ್ತಾ ದೇನ್ವಾ (pratipadārtha)	tān devān		Non-word in print; English put right silently	question	
+446	R3	R3	ಚಂದಶ್ಚಂದತೇಃ ... ಚಂದ್ರತಿ ಧಾತು (Ni. 11-5)	candraś candateḥ ... root cadi (candati)		English changed two readings of the print	question	
+448	H29	R6	ಉಪಬ್ದಿಃ (pratipadārtha)	upabdiḥ		Print inconsistent; one form is a misprint	question	
+451	H29	R3	ಅತಇನಿರನೌ (Pā. 5-2-115)	ata iniṭhanau		Non-word in print	question	
+451	H29	R1	ಲಿಟ್ ಪ್ರತ್ಯಯ (hraya, after pacādi)	affix ac		Kannada ಪಚಾದಿ points to ac but the print says liṭ	question	
+453	H29	R1	ವೇದೀಪ್ಯಮಾನ (bhāvārtha); ಲಿಟ್ ಮಧ್ಯಮ (vivāsasi)	shining; laṭ		Misprints put right silently	question	
+455	H29	R1	ಸೂಕ್ತ-೨೫ (title block)	सूक्त — ७५		Misprint in one of two printed numbers; the other line and the context say 75	question	
+456	H29	R3	ಸನಾಭ್ಯಾಂ ನಾಮ್ (Pā. 3-4-91)	sa-vābhyāṃ vāmau		Following ವಕಾರಾದೇಶ points to vāmau but the print differs	question	

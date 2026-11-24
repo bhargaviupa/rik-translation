@@ -676,3 +676,25 @@
 | page | old → new | why |
 |---|---|---|
 | 420 | `vetrā vā syād gatikarmaṇo vīrayate vā*` → `vetter vā syād gatikarmaṇo vīrayatir vā*` | SECOND-PASS S7: Kannada ವೇತ್ತೇರ್ವಾ ಸ್ಯಾದ್…ವೀರಯತೀರ್ವಾ; English vetrā…vīrayate not in the print. |
+
+### 2026-11-24 second pass, batch e430-459.tsv
+| page | old → new | why |
+|---|---|---|
+| 433 | `, Pā. [3-2-106]` → `` | SECOND-PASS S2: Kannada prints no sutra number after liṭaḥ kānaj vā |
+| 433 | `, Pā. [6-4-131]` → `` | SECOND-PASS S2: Kannada prints no sutra number after vasoḥ saṃprasāraṇam |
+| 454 | `, Pā. [6-4-131]` → `` | SECOND-PASS S2: Kannada prints no sutra number after vasoḥ saṃprasāraṇam |
+| 436 | `in the Ṛks that bear on this, the very same pāda recurs [*vidmā hi tvā dhanaṃjayam*], with` → `in the present Ṛk the very same pāda recurs, with` | SECOND-PASS S14: Kannada: ಪ್ರಸಕ್ತ ಋಕ್ಕಿನಲ್ಲಿರುವ ಪಾದವೇ ಪುನಃ ಪಠಿತವಾಗಿರುವುದು, ಪ್ರಥಮಾವಿಭಕ್ತಿಗೆ ಬದಲಾಗಿ ದ್ವಿತೀಯಾ: the pāda of the present Ṛk recurs |
+| 436 | `the pāda *sahā vidmā hi tvā dhanaṃjayam* recurs` → `also the pāda *vidmā hi tvā dhanaṃjayam* recurs` | SECOND-PASS S16: Kannada: ವಿದ್ಯಾ ಹಿ ತ್ವಾ ಧನಂಜಯಂ ಎಂಬ ಪಾದವು ಪುನಃ ಪಠಿತವಾಗಿರುವುದು (no sahā) |
+| 437 | `*brūñ*-class rule *bruva īṭ…* / ` → `` | SECOND-PASS S16: Kannada gives only ಅಚಿಶ್ನುಧಾತುಭ್ರುವಾಂ for the uvaṅ substitution; no bruva īṭ rule |
+| 437 | `, Pā. [6-4-77]` → `` | SECOND-PASS S2: Kannada prints no sutra number after ಅಚಿಶ್ನುಧಾತುಭ್ರುವಾಂ |
+| 437 | `, Pā. [8-1-2]` → `` | SECOND-PASS S2: Kannada prints no sutra number after ತಸ್ಯ ಪರಮಾಮ್ರೇಡಿತಂ |
+| 443 | `volume 2, pp. 640–641` → `volume 1, pp. 640–641` | SECOND-PASS S1: Kannada ಋ. ಸಂ. ಭಾಗ ೧ರಲ್ಲಿ 640-641 |
+| 443 | `*sahasaspūtra*` → `*sahasasputra*` | SECOND-PASS S13: Kannada ಸಹಸಸ್ಪುತ್ರಃ (putra, short u) |
+| 444 | `*sahasaspūtra*` → `*sahasasputra*` | SECOND-PASS S13: Kannada p. 443 ಸಹಸಸ್ಪುತ್ರಃ; p. 444 ಸಹಸಸ್ಸುತ್ರ is a misprint of the same word |
+| 446 | `*candraś candater kāntikarmaṇaḥ*` → `*candraś candateḥ kāntikarmaṇaḥ*` | SECOND-PASS R3: Kannada ಚಂದತೇಃ (genitive of the root candati: teḥ) |
+| 451 | `Pā. [6-2-2]` → `Pā. 9-2-2` | SECOND-PASS S1: Kannada prints ಪಾ. ಸೂ. ೯-೨-೨ (impossible adhyāya; listed in open.tsv) |
+| 451 | `, Pā. [6-4-14]` → `` | SECOND-PASS S2: Kannada prints no sutra number after ಅತ್ವಸಂತಸ್ಯ |
+| 451 | `loss of the final *t* by` → `loss of the final *s* by` | SECOND-PASS S14: Kannada ಸಂಯೋಗಾಂತಲೋಪದಿಂದ ಸಕಾರಲೋಪ (loss of s) |
+| 457 | `*kutva* of *h*` → `*cutva* of *h*` | SECOND-PASS S14: Kannada ಕುಹೋಶ್ಚುಃ ಸೂತ್ರದಿಂದ ಹಕಾರಕ್ಕೆ ಚುತ್ವ, ಜಸ್ತ್ವ |
+| 459 | `Pā. [6-3-136]` → `Pā. 6-3-139` | SECOND-PASS S1: Kannada ಪಾ. ಸೂ. ೬-೩-೧೩೯ |
+| 459 | `*liṅyāśiṣy aṅ*, Pā. [3-1-86]` → `*liṅyāśiṣy aṅ*, Pā. 3-1-89` | SECOND-PASS S1: Kannada ಲಿಜ್ಯಾಶಿಷ್ಯಜ್ (ಪಾ. ಸೂ. ೩-೧-೮೯) |

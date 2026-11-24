@@ -9100,7 +9100,7 @@ When hostile enemies assemble, the ancient Agni protects the wealth of the sacri
 
 **Grammar page of Rik 74.2 (concluded; noted briefly)**
 
-*saṃjagmānāsu* (prefix *sam*; root *gamḷ gatau*; *ātmanepada* by *samo gamyṛcchibhyām*, Pā. [1-3-29]; *liṭ* → *kānac* by *liṭaḥ kānaj vā*, Pā. [3-2-106]; doubling of the root; *halādiśeṣa*; *cuṭva*/*kutva* of the reduplicate's *g* by *kuhoś cuḥ*; loss of the penultimate by *gamahanajana…*, Pā. [6-4-98]; the form *saṃjagmāna*; in the feminine *ṭāp* by *ajādyatastāp*; final acute by *citaḥ*; locative plural). *arakṣat* (root *rakṣa pālane*; Vedic *laṅ* by *chandasi luṅlaṅliṭaḥ*, third person singular; since it stands at the head of the pāda, no nighāta; the *aḍ*-augment is udātta, so the word has the initial acute). *dāśuṣe* (root *dudāñ dāne*; *kvasu* by nipāta by *dāśvān sāhvān…*, Pā. [6-1-12]; in the dative singular, samprasāraṇa by *vasoḥ saṃprasāraṇam*, Pā. [6-4-131]; *pūrvarūpa* by *saṃprasāraṇāc ca*; *ṣatva* of the *s* by *śāsivasighasīnāṃ ca*, Pā. [8-3-60]; the affix's accent makes the word middle-acute). Ends "॥ २ ॥".
+*saṃjagmānāsu* (prefix *sam*; root *gamḷ gatau*; *ātmanepada* by *samo gamyṛcchibhyām*, Pā. [1-3-29]; *liṭ* → *kānac* by *liṭaḥ kānaj vā*; doubling of the root; *halādiśeṣa*; *cuṭva*/*kutva* of the reduplicate's *g* by *kuhoś cuḥ*; loss of the penultimate by *gamahanajana…*, Pā. [6-4-98]; the form *saṃjagmāna*; in the feminine *ṭāp* by *ajādyatastāp*; final acute by *citaḥ*; locative plural). *arakṣat* (root *rakṣa pālane*; Vedic *laṅ* by *chandasi luṅlaṅliṭaḥ*, third person singular; since it stands at the head of the pāda, no nighāta; the *aḍ*-augment is udātta, so the word has the initial acute). *dāśuṣe* (root *dudāñ dāne*; *kvasu* by nipāta by *dāśvān sāhvān…*, Pā. [6-1-12]; in the dative singular, samprasāraṇa by *vasoḥ saṃprasāraṇam*; *pūrvarūpa* by *saṃprasāraṇāc ca*; *ṣatva* of the *s* by *śāsivasighasīnāṃ ca*, Pā. [8-3-60]; the affix's accent makes the word middle-acute). Ends "॥ २ ॥".
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.3** *(printed Ṛk "3 ||")*
 
@@ -9202,7 +9202,7 @@ May all the born (the priests and others) praise Agni — born from the kindling
   > धनंजयं रणेरणे ॥
   > *tam u tvā pāthyo vṛṣā samīdhe dasyuhantamam | dhanaṃjayaṃ raṇe-raṇe* (Ṛk. Saṃ. [6-16-15])
 
-  In this Ṛk *dhanaṃjaya* refers to Agni. Besides, in the Ṛks that bear on this, the very same pāda recurs [*vidmā hi tvā dhanaṃjayam*], with the second case in place of the first; and in the examples referring to Indra the pāda *sahā vidmā hi tvā dhanaṃjayam* recurs. Although the sages of these Ṛks are different, the use of one and the same kind of sentences without the slightest variation is a matter worth noting. The word *dhanaṃjaya* is not used anywhere else in the Ṛgveda except in these Ṛks." *(**GLOSS**. Numerals re-read from the print.)*
+  In this Ṛk *dhanaṃjaya* refers to Agni. Besides, in the present Ṛk the very same pāda recurs, with the second case in place of the first; and in the examples referring to Indra also the pāda *vidmā hi tvā dhanaṃjayam* recurs. Although the sages of these Ṛks are different, the use of one and the same kind of sentences without the slightest variation is a matter worth noting. The word *dhanaṃjaya* is not used anywhere else in the Ṛgveda except in these Ṛks." *(**GLOSS**. Numerals re-read from the print.)*
 - **रणेरणे** — *raṇanti dundubhayo 'smin iti raṇaḥ saṃgrāmaḥ* — "the word *raṇa* means 'to sound, to make noise': because in battle there are the noise of kettledrums, war-horns and the like, a battle with such sounds is called *raṇa*. Since *raṇaḥ* is read among the forty-six names of battle, *vivāk* and so on (no Nighaṇṭu number printed here), *raṇa* means 'battle'. And the Nirukta-writer:
 
   > मरुत्वाँ इन्द्र वृषभो रणाय पिबा सोममनुष्वधं मदाय ।
@@ -9232,7 +9232,7 @@ May all the born (the priests and others) praise Agni — born from the kindling
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.3, noted briefly; not transcribed)*
 
-Words treated: *bruvantu* (root *brūñ vyaktāyāṃ vāci*; *loṭ*, third person plural, *jhi*; *anta* substituted; *uttva*; since *sārvadhātukam apit* makes it *ṅit*-like, no guṇa of the root; *uvaṅ* by *brūñ*-class rule *bruva īṭ…* / *aci śnudhātubhruvām…*, Pā. [6-4-77]; nighāta because it follows an *atijanta*). *dhanaṃjayaḥ* (root *ji jaye*; *khac* by *saṃjñāyāṃ bhṛtṛvṛji…*, Pā. [3-2-46]; since *khac* is *kit*… the word *dhana* gets *mum* by *arur dviṣad ajantasya mum*, Pā. [6-3-67]; guṇa of the root's *i* for the sake of the affix; *ayādeśa*; since *cit*, final acute by *citaḥ*). *raṇe raṇe* (root *raṇa śabdārthaḥ*; "kettledrums etc. make sound in it" — *raṇaḥ*, battle; *ap* by *vaśiraṇyor upasaṃkhyānam*; the form *raṇa*; since repetition is meant, doubling by *nityavīpsayoḥ*, Pā. [8-1-4]; the second of the two has the *āmreḍita* designation by *tasya paramāmreḍitam*, Pā. [8-1-2]; and by *anudāttaṃ ca*, Pā. [8-1-3], the second is anudātta). Ends "॥ ३ ॥".
+Words treated: *bruvantu* (root *brūñ vyaktāyāṃ vāci*; *loṭ*, third person plural, *jhi*; *anta* substituted; *uttva*; since *sārvadhātukam apit* makes it *ṅit*-like, no guṇa of the root; *uvaṅ* by *aci śnudhātubhruvām…*; nighāta because it follows an *atijanta*). *dhanaṃjayaḥ* (root *ji jaye*; *khac* by *saṃjñāyāṃ bhṛtṛvṛji…*, Pā. [3-2-46]; since *khac* is *kit*… the word *dhana* gets *mum* by *arur dviṣad ajantasya mum*, Pā. [6-3-67]; guṇa of the root's *i* for the sake of the affix; *ayādeśa*; since *cit*, final acute by *citaḥ*). *raṇe raṇe* (root *raṇa śabdārthaḥ*; "kettledrums etc. make sound in it" — *raṇaḥ*, battle; *ap* by *vaśiraṇyor upasaṃkhyānam*; the form *raṇa*; since repetition is meant, doubling by *nityavīpsayoḥ*, Pā. [8-1-4]; the second of the two has the *āmreḍita* designation by *tasya paramāmreḍitam*; and by *anudāttaṃ ca*, Pā. [8-1-3], the second is anudātta). Ends "॥ ३ ॥".
 
 ---
 
@@ -9393,9 +9393,9 @@ O Agni Aṅgiras, son of strength! All people say that the sacrificer (spoken of
 
 **Special Topics of Rik 74.5 (continued)**
 
-- **अङ्गिरः** (concluded) — "…in many such Ṛks Agni is addressed with the word *aṅgiraḥ*. Why was this name given to Agni? What relation is there between Agni and the sage Aṅgiras? — these and other matters are explained at length in the Ṛk Saṃhitā volume 2, pp. 640–641 [as read]."
+- **अङ्गिरः** (concluded) — "…in many such Ṛks Agni is addressed with the word *aṅgiraḥ*. Why was this name given to Agni? What relation is there between Agni and the sage Aṅgiras? — these and other matters are explained at length in the Ṛk Saṃhitā volume 1, pp. 640–641 [as read]."
 - **सुहव्यं, सुदेवं** — "These words are adjectives of the word *tam*, which denotes the sacrificer. The meaning of the words is: 'one who keeps ready the excellent oblations to offer to the gods, and who has resolved to worship the good deity'."
-- **सहसो यहो** — "*sahaḥ* is read among the twenty-eight names of strength, *ojaḥ*, *pājaḥ* and so on (Ni. 3-9 [as printed]); so *sahaḥ* means 'strength'. Since *yahuḥ* is read among the fifteen names of offspring, *tuk*, *tokam* and so on, *yahu* means 'son' (Ni. 3-2). *Sahaso yaho* means 'son of strength' — Agni is addressed as 'son of strength', i.e. the son born (from the *araṇi*) by the application of strength, by rubbing with strength. In some places Indra is praised with these words. Besides the words *sahaso yahuḥ*, the usage of words with the same sense, *sahasaḥ sūnuḥ* and *sahasaspūtra*, also occurs in many Ṛks. For instance, a few Ṛks:
+- **सहसो यहो** — "*sahaḥ* is read among the twenty-eight names of strength, *ojaḥ*, *pājaḥ* and so on (Ni. 3-9 [as printed]); so *sahaḥ* means 'strength'. Since *yahuḥ* is read among the fifteen names of offspring, *tuk*, *tokam* and so on, *yahu* means 'son' (Ni. 3-2). *Sahaso yaho* means 'son of strength' — Agni is addressed as 'son of strength', i.e. the son born (from the *araṇi*) by the application of strength, by rubbing with strength. In some places Indra is praised with these words. Besides the words *sahaso yahuḥ*, the usage of words with the same sense, *sahasaḥ sūnuḥ* and *sahasasputra*, also occurs in many Ṛks. For instance, a few Ṛks:
 
   > अग्निं होतारं मन्ये दास्वन्तं वसुं सूनुं सहसो जातवेदसं विप्रं न जातवेदसम् ।
   > *agniṃ hotāraṃ manye dāsvantaṃ vasuṃ sūnuṃ sahaso jātavedasaṃ vipraṃ na jātavedasam* (Ṛk. Saṃ. [1-127-1])
@@ -9426,7 +9426,7 @@ O Agni Aṅgiras, son of strength! All people say that the sacrificer (spoken of
 > हुवे वः सूनुं सहसो युवानमद्रोघवाचं मतिभिर्यविष्ठम् ।
 > *huve vaḥ sūnuṃ sahaso yuvānam adroghavācaṃ matibhir yaviṣṭham* (Ṛ. Saṃ. 6-5-1)
 
-"In these and many other Ṛks the words *sahasaḥ sūnuḥ* and *sahasaspūtra* are used with reference to Agni." **GLOSS**
+"In these and many other Ṛks the words *sahasaḥ sūnuḥ* and *sahasasputra* are used with reference to Agni." **GLOSS**
 
 - **जना आहुः सुबर्हिषम्** — "Here the commentator explains *barhiḥ* as 'sacrifice'. The sentence *janā āhuḥ subarhiṣam* means 'people call the sacrificer the best performer of sacrifice': the purport is that this is well known."
 
@@ -9492,7 +9492,7 @@ O joy-giving Agni! Come with those gods near us, to receive our praise and the o
 **॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
 
 - **प्रशस्तये** — *asmābhiḥ kṛtaṃ stotraṃ śrotum* — "to hear the hymns made by us."
-- **सुश्चन्द्र** — *śobhanāhlādanāgne* — "O Agni, exceedingly delightful. The Nirukta-writer says that the word *candra* is formed from the root *cadi*, which denotes radiance (*candati* — 'he shines'): *candraś candater kāntikarmaṇaḥ* (Ni. 11-5); so *candra* means 'one who has radiance', 'the delighter'."
+- **सुश्चन्द्र** — *śobhanāhlādanāgne* — "O Agni, exceedingly delightful. The Nirukta-writer says that the word *candra* is formed from the root *cadi*, which denotes radiance (*candati* — 'he shines'): *candraś candateḥ kāntikarmaṇaḥ* (Ni. 11-5); so *candra* means 'one who has radiance', 'the delighter'."
 - **वीतये** — *bhakṣaṇārtham* — "for eating the oblations."
 - **च** — "the word *ca* is used in the sense of 'and' (*samuccaya*); it joins the words *praśastaye* and *vītaye*."
 - **उप** — "near: to the place where we are performing the sacrifice, near us."
@@ -9642,7 +9642,7 @@ O Agni! The man who, having fallen from his own position, becomes an inferior on
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.8, noted briefly; not transcribed)*
 
-Words treated: *vājī* (*vājo 'syāstīti vājī*; the *ini* affix in the sense of possession by *ata iniṭhanau*, Pā. [5-2-115]; the affix's accent gives the final acute). *ahrayaḥ* (root *hrī lajjāyām*; "he is ashamed" — *hraya*; as it is read in the *pacādi* class, the affix *ac*; guṇa of the root's *ī* for the sake of that affix; *ayādeśa*; "not ashamed", *ahraya*, a negative tatpuruṣa; by *tatpuruṣe tulyārthatṛtīyā…*, Pā. [6-2-2], the indeclinable first member keeps its natural accent). *dāśvān* (root *dāś dāne*; the *kvasu* affix by nipāta by *dāśvān sāhvān mīḍhvāṃś ca*, Pā. [6-1-12]; the stem *dāśvas*; before *su*, lengthening of the penultimate by *ātvasantasya cādhātoḥ*, Pā. [6-4-14]; *num* since *ugit*; loss of *su* by *halṅyābbhyo…*; loss of the final *t* by *saṃyogāntalopa*; with *dāśvān* + *agne*, since *aṭ* intervenes, by *dīrghād aṭi samānapāde*, Pā. [8-3-9], *ru* for the *n*; by *ato 'ṭi nityam*, Pā. [8-3-3], the preceding *ā* is always nasalized). *(Continued on p. 452.)*
+Words treated: *vājī* (*vājo 'syāstīti vājī*; the *ini* affix in the sense of possession by *ata iniṭhanau*, Pā. [5-2-115]; the affix's accent gives the final acute). *ahrayaḥ* (root *hrī lajjāyām*; "he is ashamed" — *hraya*; as it is read in the *pacādi* class, the affix *ac*; guṇa of the root's *ī* for the sake of that affix; *ayādeśa*; "not ashamed", *ahraya*, a negative tatpuruṣa; by *tatpuruṣe tulyārthatṛtīyā…*, Pā. 9-2-2, the indeclinable first member keeps its natural accent). *dāśvān* (root *dāś dāne*; the *kvasu* affix by nipāta by *dāśvān sāhvān mīḍhvāṃś ca*, Pā. [6-1-12]; the stem *dāśvas*; before *su*, lengthening of the penultimate by *ātvasantasya cādhātoḥ*; *num* since *ugit*; loss of *su* by *halṅyābbhyo…*; loss of the final *s* by *saṃyogāntalopa*; with *dāśvān* + *agne*, since *aṭ* intervenes, by *dīrghād aṭi samānapāde*, Pā. [8-3-9], *ru* for the *n*; by *ato 'ṭi nityam*, Pā. [8-3-3], the preceding *ā* is always nasalized). *(Continued on p. 452.)*
 
 ---
 
@@ -9720,7 +9720,7 @@ Words treated: *suvīryam* (*śobhanaṃ vīryaṃ yasya saḥ suvīryaḥ*, "he
 
 **Grammar page of Rik 74.9 (concluded; noted briefly)**
 
-*dāśuṣe* (the stem *dāśvas* was explained in the preceding mantra; in the dative singular, samprasāraṇa by *vasoḥ saṃprasāraṇam*, Pā. [6-4-131]; *pūrvarūpa* by *saṃprasāraṇāc ca*; *ṣatva* of the *vasu*'s *s* by *śāsivasighasīnāṃ ca*, Pā. [8-3-60]; the form *dāśuṣe*; the affix's accent makes the word middle-acute). *deva* (vocative; by *āmantritasya ca*, Pā. [8-1-19], nighāta). Ends "॥ ९ ॥".
+*dāśuṣe* (the stem *dāśvas* was explained in the preceding mantra; in the dative singular, samprasāraṇa by *vasoḥ saṃprasāraṇam*; *pūrvarūpa* by *saṃprasāraṇāc ca*; *ṣatva* of the *vasu*'s *s* by *śāsivasighasīnāṃ ca*, Pā. [8-3-60]; the form *dāśuṣe*; the affix's accent makes the word middle-acute). *deva* (vocative; by *āmantritasya ca*, Pā. [8-1-19], nighāta). Ends "॥ ९ ॥".
 
 **Closing line of the sūkta** *(printed, Kannada)*:
 
@@ -9823,7 +9823,7 @@ Words treated: *juṣasva* (root *juṣī prītisevanayoḥ*; *loṭ*, second pe
 
 **Grammar page of Rik 75.1 (concluded; noted briefly)**
 
-*havyā* (neuter plural; loss of *śi* by *śeś chandasi bahulam*, Pā. [6-1-70]). *juhvānaḥ* (root *hu dānādanayoḥ*; *śānac* in the present sense by *vyatyayo bahulam*; *śluḥ* by *juhotyādibhyaḥ śluḥ*; doubling by *ślau*; *kutva* of *h* by *kuhoś cuḥ* [*ju*]; *yaṇ* by *huśnuvoḥ sārvadhātuke*, Pā. [6-4-87]; initial acute by *abhyastānām ādiḥ*, Pā. [6-1-189]). *āsani* (the stem *āsya*; before the locative singular, *āsan* substituted by *pāddanno…māsṛn…*, Pā. [6-1-63]; by *vibhāṣā ṅiśyoḥ*, Pā. [6-4-136], the optional loss of the *a* before the locative *ṅi*, so here no loss: *āsani*). Ends "॥ १ ॥".
+*havyā* (neuter plural; loss of *śi* by *śeś chandasi bahulam*, Pā. [6-1-70]). *juhvānaḥ* (root *hu dānādanayoḥ*; *śānac* in the present sense by *vyatyayo bahulam*; *śluḥ* by *juhotyādibhyaḥ śluḥ*; doubling by *ślau*; *cutva* of *h* by *kuhoś cuḥ* [*ju*]; *yaṇ* by *huśnuvoḥ sārvadhātuke*, Pā. [6-4-87]; initial acute by *abhyastānām ādiḥ*, Pā. [6-1-189]). *āsani* (the stem *āsya*; before the locative singular, *āsan* substituted by *pāddanno…māsṛn…*, Pā. [6-1-63]; by *vibhāṣā ṅiśyoḥ*, Pā. [6-4-136], the optional loss of the *a* before the locative *ṅi*, so here no loss: *āsani*). Ends "॥ १ ॥".
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 75.2** *(printed Ṛk "2 ||")*
 
@@ -9889,7 +9889,7 @@ Afterwards, O Agni, best of the Aṅgirases and most wise, may we make a hymn pl
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 75.2, noted briefly; not transcribed)*
 
-Words treated: *athā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. [6-3-136]). *aṅgirastama* ("best of the Aṅgirases"; *tamap* by *atiśāyane tamabiṣṭhanau*; in the vocative, where the loss of *su* is an exception, nighāta by *āmantritasya ca*, Pā. [8-1-19]; the same process for *vedhastama*). *vocema* (root *brūñ vyaktāyāṃ vāci*; when the *ārdhadhātuka* sense is intended, *vacī* for *brū* by *bruvo vaciḥ*, Pā. [2-4-54]; *āśīrliṅ*, first person plural, *mas*; loss of its *s* by *nityaṃ ṅitaḥ*, Pā. [3-4-99]; *aj* by *liṅyāśiṣy aṅ*, Pā. [3-1-86]; *um*-augment by *vaci um*; guṇa-*o*; since *ā* follows [*yāsuṭ*], *iya*-substitution; loss of *y* by *lopo vyor vali*; guṇa again; no nighāta at the head of a pāda; the *yāsuṭ*'s udātta makes the word middle-acute). *sānasi* (root *vana ṣaṇa saṃbhaktau*; derived by nipāta with the affix *asic*, by *sānasi-parṇasi…*, U. Sū. 4-547; being *cit*, final acute by *citaḥ*). Ends "॥ २ ॥".
+Words treated: *athā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. 6-3-139). *aṅgirastama* ("best of the Aṅgirases"; *tamap* by *atiśāyane tamabiṣṭhanau*; in the vocative, where the loss of *su* is an exception, nighāta by *āmantritasya ca*, Pā. [8-1-19]; the same process for *vedhastama*). *vocema* (root *brūñ vyaktāyāṃ vāci*; when the *ārdhadhātuka* sense is intended, *vacī* for *brū* by *bruvo vaciḥ*, Pā. [2-4-54]; *āśīrliṅ*, first person plural, *mas*; loss of its *s* by *nityaṃ ṅitaḥ*, Pā. [3-4-99]; *aj* by *liṅyāśiṣy aṅ*, Pā. 3-1-89; *um*-augment by *vaci um*; guṇa-*o*; since *ā* follows [*yāsuṭ*], *iya*-substitution; loss of *y* by *lopo vyor vali*; guṇa again; no nighāta at the head of a pāda; the *yāsuṭ*'s udātta makes the word middle-acute). *sānasi* (root *vana ṣaṇa saṃbhaktau*; derived by nipāta with the affix *asic*, by *sānasi-parṇasi…*, U. Sū. 4-547; being *cit*, final acute by *citaḥ*). Ends "॥ २ ॥".
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 75.3** *(printed Ṛk "3 ||")*
 
