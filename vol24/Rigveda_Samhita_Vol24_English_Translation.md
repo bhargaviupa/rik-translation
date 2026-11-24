@@ -4904,6 +4904,340 @@ The great and veracious Aditi, the mother (of the gods), gave birth to those two
 - देवौ (*devau*)—of divine nature
 - मित्रावरुणा (*mitrāvaruṇā*)—Mitrāvaruṇa
 
+### Printed p. 110
+
+- बृहत् (*bṛhat*)—having acquired a great nature through stotra, śastra and the like
+- यतं (*yataṃ*)—the sacrifice
+- आ घोषतः (*ā ghoṣataḥ*)—they make shine
+
+##### भावार्थ (Bhāvārtha)
+
+Mitrāvaruṇa, who are of exceedingly great qualities, who shine exceedingly, who are powerful and of divine nature, make shine the sacrifice, which has acquired a great nature through stotra, śastra and the like.
+
+##### English translation
+The great Mitra and Varuna, the two sovereign and powerful deities, the observers of truth, illumne our solemn rite.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नपा॑ता॒ शव॑सो म॒हः सू॒नू दक्ष॑स्य सु॒क्रतू॑ ।  
+> सृ॒प्रदा॑नू इ॒षो वास्त्वधि॑ क्षितः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नपाता । शवसः । महः । सूनू इति । दक्षस्य । सुक्रतू इति सुक्रतू ।  
+> सृप्रदानू इति सृप्रदानू । इषः । वास्तु । अधि । क्षितः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महो महतः शवसो बलस्य नपाता नपात् पौत्रौ । बलत उत्पादिताविति
+> बलस्य पौत्रौ । तादृशौ दक्षस्य । दक्ष वृद्धौ शीघ्रार्थे चेति दक्षो वेगः । तस्य सूनू
+> पुत्रौ । बलाद्वेग इति तयोः पुत्रत्वं । ता सुक्रतू शोभनकर्माणौ सृप्रदानू
+> प्रसृतधनादिदानौ मित्रावरुणाविषोऽन्नस्य वास्तु निवासस्थानेऽधि क्षितः । अधिवसतः ॥
+> अधिशीजिति वास्तुनः कर्मसंज्ञा । क्षयतेर्लट छांदसो विकरणस्य लुक् ॥
+
+##### Gist of the bhāṣya
+
+Mitrāvaruṇa are the grandsons (नपाता (*napātā*)) of great strength: since they are produced from strength, they are the grandsons of strength. Such as they are, they are the sons of दक्ष (*dakṣa*), which here means speed (the root means growth and also speed). Speed arises from strength, hence their sonship to it. They are of good action, and liberal in giving wealth and the like widely. Mitrāvaruṇa dwell in the dwelling-place of food (इषः (*iṣaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महः (*mahaḥ*)—great
+- शवसः (*śavasaḥ*)—to strength
+- नपाता (*napātā*)—grandsons
+- दक्षस्य (*dakṣasya*)—to speed
+- सूनू (*sūnū*)—sons
+- सुक्रतू (*sukratū*)—those of excellent action
+- सुप्रदानू (*supradānū*)—those who give widely, Mitrāvaruṇa
+- इषः (*iṣaḥ*)—to food
+- वास्तु (*vāstu*)—in the dwelling-place
+- अधि क्षितः (*adhi kṣitaḥ*)—they dwell (they are the lords)
+
+### Printed p. 111
+
+##### भावार्थ (Bhāvārtha)
+
+Mitrāvaruṇa, grandsons to great strength, sons to speed, of excellent action and liberal in giving, are lords of food and dwell in its dwelling-place.
+
+##### English translation
+Grandsons of mighty strength, sons of energy, doers of good deeds liberal benefactors, they preside over the habitation of food.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं या दानू॑नि ये॒मथु॑र्दि॒व्याः पार्थि॑वी॒रिषः॑ ।  
+> नभ॑स्वती॒रा वां॑ चरंतु वृ॒ष्टयः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । या । दानूनि । येमथुः । दिव्याः । पार्थिवीः । इषः ।  
+> नभस्वतीः । आ । वां । चरंतु । वृष्टयः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ यौ युवां दानूनि देयानि धनानि सं येमथुः अस्मासु
+> संयच्छतं तथा दिव्या दिव्यानि दिवि भवानि पार्थिवीः पृथिव्यामुत्पन्नानीषोऽन्नानि
+> संयच्छतं । वृष्ट्यभावे कथमन्नं लभ्यत इति चेत् तदुच्यते । नभस्वतीरुदकवत्यो
+> वृष्टयस्तादृशौ वां युवामा चरंतु । उपतिष्ठंतु । यदा वृष्ट्यवेला तदा
+> वर्षतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Mitrāvaruṇa, bestow upon us the gifts, the wealth that is to be given; likewise bestow heavenly foods, those that are in the sky, and earthly foods, those born on the earth. If it is asked how food is to be had when there is no rain, the answer is this: may the rains, which are full of water (नभस्वतीः (*nabhasvatīḥ*)), attend upon you both, that is, come to you; when it is time for rain, you rain. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitrāvaruṇa) या दानूनि (*yā dānūni*)—the wealth that is to be given to us
+- सं येमथुः (*saṃ yemathuḥ*)—provide to us
+- दिव्याः (*divyāḥ*)—those produced in the heavenly world
+- पार्थिवीः (*pārthivīḥ*)—and those produced on earth
+- इषः (*iṣaḥ*)—provide to us the foods also
+- नभस्वतीः (*nabhasvatīḥ*)—full of water
+- वृष्टयः (*vṛṣṭayaḥ*)—the rains
+- वां (*vāṃ*)—you
+- आ चरंतु (*ā caraṃtu*)—may they serve
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitrāvaruṇa, provide to us the wealth that is to be given to us. Provide to us also foods, both those produced in the heavenly world and those produced on earth. May the rains, full of water, serve you.
+
+### Printed p. 112
+
+##### English translation
+Bestow (upon us) good gifts, viands, whether of heaven or earth : may the water-shedding rains atten upon you.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधि॒ या बृ॑ह॒तो दि॒वो॒३॒॑ ३ भि यू॒थेव॒ पश्य॑तः ।  
+> ऋ॒तावा॑ना स॒म्राजा॒ नम॑से हि॒ता ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । या । बृहतः । दिवः । अभि । यूथा इव । पश्यतः ।  
+> ऋतवाना । संराजा । नमसे । हिता ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या यौ मित्रावरुणौ बृहतो दिवो द्योतमानान्देवानधि पश्यतः । तत्र
+> दृष्टांतः । यूथेव यथा वृषभो गोयूथानि रंतुमभ्यभिमुखं पश्यति
+> तद्वदेत् स्ववीर्येणासुरान्हत्वा देवान्मोदयितुं पश्यत इत्यर्थः । कीदृशौ ।
+> ऋतावाना सत्यवंतौ सम्राजा सम्राजौ सम्यग्दीप्यमानौ नमसे हविषे हिता हितौ
+> प्रियौ पश्यत इति ॥
+
+##### Gist of the bhāṣya
+
+The two, Mitrāvaruṇa, who look upon the great shining gods. The example: as a bull looks towards herds of cows in front of him in order to take his pleasure, so they look, having slain the asuras by their own strength, in order to delight the gods; this is the meaning. Of what kind are they? Truthful, shining well, and dear to the oblation (नमसे (*namase*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतानाना (*ṛtānānā*)—the truthful
+- सम्राजा (*samrājā*)—those who shine greatly
+- नमसे (*namase*)—to the oblation
+- हिता (*hitā*)—dear ones
+- या (*yā*)—those Mitrāvaruṇa who are such
+- यूथेव अधि (*yūtheva adhi*)—as a bull looks at a herd of cows
+
+### Printed p. 113
+
+- बृहतः (*bṛhataḥ*)—those of great nature
+- दिवः (*divaḥ*)—shining gods
+- अधि पश्यतः (*adhi paśyataḥ*)—they are looking upon
+
+##### भावार्थ (Bhāvārtha)
+
+Those Mitrāvaruṇa who are truthful, shine greatly and are dear to the oblation look upon the gods, who are of great nature and shining, as a bull looks at a herd of cows.
+
+##### English translation
+(These are they) who look upon the great deities as (a bull contemplates) the herd, sovereigns observant of truth and propitious to adoration.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तावा॑ना॒ नि षे॑दतुः॒ साम्रा॑ज्याय सु॒क्रतू॑ ।  
+> धृ॒तव्र॑ता क्ष॒त्रिया॑ क्ष॒त्रमा॑शतुः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्‌वाना । नि । सेदतुः । सांराज्याय । सुक्रतू इति सुक्रतू ।  
+> धृतव्रता । क्षत्रिया । क्षत्रं । आशतुः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतावानर्तावान् सत्यवंतौ सुक्रतू शोभनकर्माण् सुप्रज्ञा वा
+> मित्रावरुण् साम्राज्याय साम्राज्यार्थं नि षेदतुः । न्यसीदतां । तथा मंत्रः ।
+> नि षसाद धृतव्रतो वरुणः पस्त्यास्वा साम्राज्याय सुक्रतुः । ऋ. १-२५-१० । इति ।
+> धृतव्रता धृतव्रत् धृतकर्माण् क्षत्रिया क्षत्रियौ बलवंतौ क्षत्रं बलमाशतुः ।
+> आनशाते । व्याप्नुत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Mitrāvaruṇa are truthful and of good action or good understanding. For sovereignty they sat down. So the mantra says: नि षसाद धृतव्रतो वरुणः पस्त्यास्वा साम्राज्याय सुक्रतुः । (*ni ṣasāda dhṛtavrato varuṇaḥ pastyāsvā sāmrājyāya sukratuḥ |*) (Ṛ. Saṃ. 1-25-10) **GLOSS**. They are upholders of vows, of rites; they are क्षत्रिया (*kṣatriyā*), mighty, and they have pervaded, attained, strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावाना (*ṛtāvānā*)—the truthful
+- सुक्रतू (*sukratū*)—those of excellent action, Mitrāvaruṇa
+- साम्राज्याय (*sāmrājyāya*)—to proclaim their sovereignty
+- नि षेदतुः (*ni ṣedatuḥ*)—they sit down
+- धृतव्रता (*dhṛtavratā*)—upholders of rites in the form of vows (governors of rites)
+- क्षत्रिया (*kṣatriyā*)—those endowed with power, they
+- क्षत्रं (*kṣatraṃ*)—strength
+- आशतुः (*āśatuḥ*)—attain
+
+##### भावार्थ (Bhāvārtha)
+
+Mitrāvaruṇa, truthful and of excellent action, sit down to proclaim their sovereignty. Upholders of rites in the form of vows (governors of rites) and endowed with power, they attain strength also.
+
+##### English translation
+Observers of truth, doers of good deeds, they sit down for the office of sovereignty ; observant of obligations endowed with strength they acquire vigour.
+
+### Printed p. 114
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒क्ष्णश्चि॑द्गातु॒वित्त॑रानुल्ब॒णेन॒ चक्ष॑सा ।  
+> नि चि॑न्मि॒षंता॑ निचि॒रा नि चि॑क्कतुः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्ष्णः । चित् । गातुवित्करा । अनुल्बणेन । चक्षसा ।  
+> नि । चित् । मिषंता । निचिरा । नि । चिक्कतुः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अक्षश्चिच्चक्षुषोऽपि पूर्वं गातुवित्तरा।गातुवित्तरावतिशयेन मार्गवेत्तारौ ।
+> यद्वा । गातुवित्तरौ गातु गमनशीलं प्राणिजातं चक्षुषोऽपि पूर्वं वेत्तारौ
+> मित्रावरुणौ । कीदृशौ । नि मिषंता निमिषंत् सर्वमुन्मेषयंतौ स्वस्वकर्मणि निचिरा
+> नितरां चिरंतनौ तावनुल्बणेन । उल्पणमिति दुःसहमग्नेस्तेजः । तद्वदॆदुःसहेन
+> चक्षसाहोरात्रयोर्वाप्नेन तेजसैव नि चिक्क्यतुः । पूजितौ बभूवतुः । चिदवधारणे ॥
+
+##### Gist of the bhāṣya
+
+They are the best knowers of the path (गातुवित्तरा (*gātuvittarā*)), even before the eye; or else, they know the class of moving beings even before the eye can see. Of what kind are they? They cause all to open their eyes, each in its own work, and they are exceedingly ancient. By a brilliance that is not unbearable, like the unbearable brilliance of fire, a brilliance pervading day and night, they have become honoured. The word चित् (*cit*) is for emphasis. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अक्षश्चित् (*akṣaścit*)—even before the organ of sight
+- गातुवित्तरा (*gātuvittarā*)—those who know the paths of movement
+- नि मिषंता (*ni miṣaṃtā*)—those who make the eyes of all beings open
+- निचिरा (*nicirā*)—exceedingly ancient, Mitrāvaruṇa
+- अनुल्पणेन (*anulpaṇena*)—without excessive sharpness
+- चक्षसा (*cakṣasā*)—together with radiance
+- नि चिक्कतुः (*ni cikkatuḥ*)—they have been honoured
+
+##### भावार्थ (Bhāvārtha)
+
+Mitrāvaruṇa, who know the path of movement even before the organ of sight acts (before the blink of an eyelid), who make the eyes of all beings open, and who are exceedingly ancient, are honoured together with a radiance without excessive sharpness.
+
+##### English translation
+Thorough knowers of the path, even before the eye (can see), causing (all beings) to open their eyelids, existing from of old, and shining with a mild radiance, verily they have been worshipped.
+
+### Printed p. 115
+
+##### विशेषविषयगळु (Special Topics)
+
+For गातुवित्तरा (*gātuvittarā*) the meaning "those who know all the doings of beings that are given to movement" may also be given.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॑ दे॒व्यदि॑तिरुरु॒ष्यतां॒ नास॑त्या ।  
+> उ॒रु॒ष्यंतु॑ म॒रुतो॑ वृ॒द्धश॑वसः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । देवी । अदितिः । उरुष्यतां । नासत्या ।  
+> उरुष्यंतु । मरुतः । वृद्धशवसः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च देवी द्योतनशीलादितिर्मित्रावरुणयोर्माता नोऽस्मान्रक्षतु ।
+> नासत्या नासत्यौ । असत्यमनयोर्नास्तीति नासत्यौ । अश्विन् चोरुष्यतां । रक्षतां ॥
+> उरुष्यतिः कण्ण्वादिः ॥ वृद्धश्रवसो वृद्धवेगाः । अतिशयेन वेगवंत इत्यर्थः ।
+> यॆद्वा वर्धनशीलहनिर्लक्षणान्नोपेता मरुत उरुष्यंतु । आस्मान्पालयंतु ॥
+
+##### Gist of the bhāṣya
+
+And may the shining Aditi, the mother of Mitrāvaruṇa, protect us. The Nāsatyas, the Aśvins, in whom there is no untruth, also protect us. The Maruts, वृद्धश्रवसः (*vṛddhaśravasaḥ*) of increased speed, that is, exceedingly swift, protect us; or else, the Maruts, endowed with food that is characterised by increasing oblation, protect us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशॆ (*uśè*)—and
+- देवी (*devī*)—of divine radiance
+- अदितिः (*aditiḥ*)—Aditi
+- नः (*naḥ*)—may she protect us
+- नासत्या (*nāsatyā*)—the Aśvin gods
+- उरुष्यतां (*uruṣyatāṃ*)—may they protect
+- वृद्धश्रवसः (*vṛddhaśravasaḥ*)—of exceedingly great speed
+- मरुतः (*marutaḥ*)—the Maruts
+- उरुष्यंतु (*uruṣyaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+May Aditi, of divine radiance, protect us. May the Aśvin gods protect us. May the Maruts, of exceedingly great speed, protect us.
+
+##### English translation
+May the divine Aditi, may the Nasatyas also protect us; may the rapid Maruts defend us.
+
+### Printed p. 116
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॑ ना॒वमु॑रुष्यत॒ दिवा॒ नक्तं॑ सुदानवः ।  
+> अरि॑ष्यंतो॒ नि पा॒युभिः॑ सचेमहि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । नावं । उरुष्यत । दिवा । नक्तं । सुदानवः ।  
+> अरिष्यंतः । नि । पायुभिः । सचेमहि ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदानवः तोभनदाना मरुतोऽरिष्यंतः केनाप्यहिंसिताः ते तादृशा
+> यूयं नोऽस्मदीयां नावं यज्ञियां नावं दिवा नक्तं चोरुष्यत । पालयत ।
+> शतो वयं पायुभिर्युष्मदीयैः पालनैर्नि सचेमहि । नितरां समवेता भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, good givers, unharmed by anyone: such as you are, protect our sacrificial boat by day and by night. Then by your protections may we be closely united.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदानवः (*sudānavaḥ*)—O Maruts, excellent givers
+- अरिष्यंतः (*ariṣyaṃtaḥ*)—you who are not caught by the harm of anyone
+- ते (*te*)—you
+- नः (*naḥ*)—our
+- नावं (*nāvaṃ*)—boat in the form of a sacrifice
+- दिवा (*divā*)—by day
+- नक्तं (*naktaṃ*)—and by night
+- उरुष्यत (*uruṣyata*)—protect (afterwards)
+- पायुभिः (*pāyubhiḥ*)—with your protections
+- नि सचेमहि (*ni sacemahi*)—may we be united
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, excellent givers, you who are not caught by the harm of anyone, protect our boat in the form of a sacrifice by day and by night. Afterwards may we be united with your protections.
+
+##### English translation
+Munificent and irresistible (Maruts), guard our vessel by day and night, so that we may be secure through your protection.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अघ्न॑ते॒ विष्ण॑वे व॒यमरि॑ष्यंतः सु॒दान॑वे ।  
+> श्रु॒धि स्व॑यानि स्सिंधो पू॒र्वचि॑त्तये ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 109. Ṛk 29 end, Ṛk 30, Sūkta 25 Ṛk 1-4 (VIII.25)
+**Progress note:** Done through printed p. 116. Sūkta 25 Ṛk 4 end to Ṛk 12 Saṃhitā (VIII.25)
