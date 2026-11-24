@@ -28111,6 +28111,289 @@ We approach you Maghavan, the chief amongst the wealthy, penetrator into enemies
 > य आ॒युं कुत्स॑मतिथि॒ग्वमर्द॑यो वावृधा॒नो दि॒वेदि॑वे ।  
 > तं त्वा॑ व॒यं हर्य॑श्वं श॒तक्र॑तुं वाज॒यंतो॑ हवामहे ॥
 
+### Printed p. 617
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । आयुं । कुत्सं । अतिथिग्वं । आर्दयः । ववृधानः । दिवेऽदिवे ।  
+> तं । त्वा । वयं । हरिऽश्वं । शतक्रतुं । वाजयंतः । हवामहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यस्त्वं दिवेदिवे प्रतिदिनं नावृधानः स्तुत्यः अतिशयेन वर्धमानः
+> सन् आयुं एतन्नामानदृषिं उत्सं एतत्संज्ञमृषिं अतिथिग्वं एतत्संज्ञमृषिं
+> च आर्दयः वरप्रदाने (?वरप्रदानेन) पीडयसि । आत्मानं अलं मन्यमानाः
+> वारयंति । त्वं तु हठात् अभिष्टवरं याचते (? याचत) इत्युक्ता तान्
+> क्लेशयसीत्यर्थः ! तं तादृशं हर्यश्वं हरिसंज्ञौ अश्वै यस्य तादृशं बहुकर्माणं
+> त्वा त्वां वाजवंतः (?यंतः) अन्नकामा वयं यजमानाः हवामहे आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who, being praised day by day, grow exceedingly, afflict the seers Āyu, Kutsa and Atithigva by granting boons. Those who think themselves sufficient refuse; but you, saying "he asks the boon he wishes" without hesitation, trouble them **NOTE**. Such a one, having the two horses named Hari, the doer of many rites, you, we sacrificers who desire food, call upon.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—you who (O Indra)
+- दिवेदिवे (*divedive*)—every day
+- वद्वधानः (*vadvadhānaḥ*)—obtaining increase
+- आयुं (*āyuṃ*)—Āyu
+- कुत्सं (*kutsaṃ*)—Kutsa
+- अतिथिग्वं (*atithigvaṃ*)—Atithigva
+- आर्दयः (*ārdayaḥ*)—have afflicted by granting boons and the like (have protected)
+- तं (*taṃ*)—such
+- हर्यश्वं (*haryaśvaṃ*)—one who has horses named Hari
+- शतक्रतुं (*śatakratuṃ*)—doer of many rites
+- त्वा (*tvā*)—you
+- षयं (*ṣayaṃ*)—we
+- वाजयंतः (*vājayaṃtaḥ*)—desiring food
+- हवामहे (*havāmahe*)—we call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who, growing day by day, have protected Āyu, Kutsa and Atithigva by granting boons and the like, you who have horses named Hari and do many rites, you we call, praying, desiring food.
+
+##### English translation
+He who every day increasing in strength protected Ayu, Kutsa, and Athithigva, we invoke that Indra Satakritu, Lord of horses named Hari, for food.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ विश्वे॑षां॒ रसं॒ मध्वः॑ सिंचं॒त्वद्र॑यः ।  
+> ये प॑रा॒वति॑ सुन्वि॒रे जने॒ष्टा ये अ॑र्वा॒वतींद॑वः ॥ ३ ॥
+
+### Printed p. 618
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अ । नः । विश्वेषां । रसं । मध्वः । सिंचंतु । अद्रयः ।  
+> ये । परावति । सुन्विरे । जनेषु । आ । ये । अर्वावति । इंदवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वेषां सर्वॆषां नोऽस्माकं संबंधिनः अद्रयः । तात्स्थात् ताच्छब्दं ।
+> अद्रिप्रभवास्ते सोमाः मध्वः मधुरं । कर्मणि षष्ठी । रसमात्मीयं द्रवमासिंचंतु कार्त्स्नन क्षरंतु । इंद्रार्थमिति शेषः । ते के । ये इंदवः सोमाः
+> परावति दूरदेशे वर्तमानाः । जनेषु यजमानलक्षणेषु निमित्तेषु आ सुन्विरे
+> अभिमुख्येन अभिषुता ऋत्विग्निः । ये च इंदवः अर्नवति समीपदेशे वर्तमानाः
+> सुन्विरे अभिषुतास्ते सर्वॆऽपि मिलित्वा इंद्रार्थं स्वरसं सिंचंतित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Let the Somas born from the stones, which belong to all of us, pour out completely their own sweet juice; the supplement is "for Indra". Which are they? The Somas that are pressed far away, on account of the sacrificers, facing Indra, by the priests; and those that are pressed near at hand. All of them, joining together, pour their own juice for Indra. That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये इंदवः (*ye iṃdavaḥ*)—which Soma juices
+- परावति (*parāvati*)—in a distant region
+- जनेषु (*janeṣu*)—for the sacrificers
+- आ सुन्विरे (*ā sunvire*)—are pressed by the priests
+- ये (*ye*)—which juices
+- अर्वावति (*arvāvati*)—are pressed in a near region, such ones also
+- विश्वेषां नः (*viśveṣāṃ naḥ*)—belonging to all of us
+- अद्रयः (*adrayaḥ*)—the Somas pressed with the stones
+- मध्वः (*madhvaḥ*)—sweet
+- रसं (*rasaṃ*)—juice
+- आ सिंचंतु (*ā siṃcaṃtu*)—let them pour
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices that are pressed by the priests for the sacrificers in a distant region, and those that are pressed in a near region, such ones, belonging to all of us, the Somas pressed with the stones, let them pour sweet juice.
+
+##### English translation
+All the Somas that are effused far away and those that are effused here, all the Soma that are effused by grinding stone become sweet.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॒ द्वेषां॑सि ज॒हि चाव॒ चा कृ॑धि॒ विश्वे॑ सन्वं॒त्वा वसु॑ ।  
+> शीष्टे॑षु चित्ते मदि॒रासो॑ अं॒शवो॒ यत्रा॒ सोम॑स्य तृं॒पसि॑ ॥
+
+### Printed p. 619
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पत्वा । द्वेषांसि । जहि । च । अव । च । आ । कृधि । विश्वे । सन्वंतु । आ । वसु ।  
+> तीष्टेषु । चित् । ते । मदिरासः । अंशवः । यत्र । सोमस्य । शृंपसि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दे इंद्र विश्वा विश्वानि सर्वाणि द्वेषांसि अस्माकममित्राणि जहि नाशय । किंचास्मान् अव रक्ष । आ च कृधि आ समंतात् प्रशस्तान् कुरु च । किंच विश्वे सर्वे जनाः
+> पसु धनं आ सन्वंतु अभिमुख्येन ददतु । अस्मभ्यमिति शेषः । अथ च यत्र येष्टस्मासु
+> स्थितस्य सोमस्य तृंपसि पानेन तृप्तो भवसि । तेषु शीष्टेषु विशिष्टेष्टस्मासु
+> वर्तमानाः अंशवः सोमाः ते चित् तवैव मदिरासः मादकाः संतु नेतरस्य
+> कस्यचित् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, destroy all our hatreds, that is, our enemies. Further, protect us, and make us well praised on every side. Moreover let all people bestow wealth upon us, facing us; "to us" is the supplement. And among those of us in whom you become satisfied by drinking the Soma, among those distinguished ones of us, let the Soma stalks be intoxicating to you alone, not to anyone else.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वा (*viśvā*)—all
+- द्वेषांसि (*dveṣāṃsi*)—the enemy people
+- जहि चॆ (*jahi cè*)—defeat
+- अव चॆ (*ava cè*)—protect us
+- आ कृधि (*ā kṛdhi*)—do us fully good
+- विश्वे (*viśve*)—all **NOTE**
+- वसु (*vasu*)—wealth also
+- आ सन्वंतु (*ā sanvaṃtu*)—let it come together for us
+- यत्र (*yatra*)—among which sacrificers
+- सोमस्य (*somasya*)—by the drinking of Soma juice
+- तृंपसि (*tṛṃpasi*)—you attain satisfaction
+- शीष्टेषु (*śīṣṭeṣu*)—among all such of us
+- अंशवः (*aṃśavaḥ*)—the Somas
+- ते चित् (*te cit*)—to you alone
+- मदिरासः (*madirāsaḥ*)—let them be delight-giving
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, defeat all the enemy people and protect us. Do us fully good. Let all wealth also come together for us. Let the Somas among all of us, among whom you attain satisfaction by the drinking of Soma juice, be delight-giving to you alone.
+
+##### English translation
+Whereeever you are satisfied with the drink of Soma you subdue and and destroy all enemies; even among the well-behaved Soma is exhilarating you.
+
+### Printed p. 620
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ नेदी॑य॒ एदि॑हि मि॒तमे॑धाभिरू॒तिभिः॑ ।  
+> आ शं॑तम॒ शंत॑माभिर॒भिष्टि॑भि॒रा स्वा॑पे स्वा॒पिभिः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । नेदीयः । आ । इत् । इहि । मितमेधाभिः । ऊतिभिः ।  
+> आ । शंततम । शंतमाभिः । अभिष्टिभिः । आ । सुआपे । स्वापिभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र परमेश्वर त्वं मितमेधाभिः मिताः परिच्छिन्नाः मेधाः अनुग्रहबुद्धयः याभिस्ताभिरनुग्रहसहिताभिः ऊतिभिः रक्षाभिः सह नेदीय इत् अंतिकतममेव एहि आगच्छ । किंच हे शंतम सुखतमेंद्र शंतमाभिरभिष्टिभिरभितः प्रियाभिश्च
+> ऊतिभिः एहि । अथ च हे स्वापे सुतरामाप्तेंद्र स्वापिभिः शोभना आपयः आप्ता
+> बंधवः यासु ताभिरूतिभिरेहि । उपसर्गवशादोग्य क्रियाध्याहारः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, Supreme Lord, come to the very nearest, together with protections that are accompanied by favour; the "limited thoughts" are the thoughts of favour that they contain. Further, O Śantama, most pleasant Indra, come with protections that are dear on every side. And O Svāpi, Indra who are exceedingly near, come with protections in which there are good kinsmen, that is, trusted friends. By the force of the prefix the verb "come" is supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मितमेधाभिः (*mitamedhābhiḥ*)—accompanied by your thought of favour
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- नेदीयः इत् (*nedīyaḥ it*)—so as to be very near to us
+- एहि (*ehi*)—come graciously
+- शंतमाभिः (*śaṃtamābhiḥ*)—most pleasant-making
+- अभिष्टिभिः (*abhiṣṭibhiḥ*)—with the fulfilments of our desires
+- शंतम (*śaṃtama*)—O Indra, giver of the best happiness
+- आ (इहि) (*ā (ihi)*)—come graciously
+- स्थापे (*sthāpe*)—O Indra, the excellent kinsman
+- स्वापिभिः (*svāpibhiḥ*)—with your excellent kinship
+- आ (इहि) (*ā (ihi)*)—come graciously
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come graciously so as to be very near us, with protections accompanied by your thought of favour. O Indra, the best, come graciously with the fulfilments of our desires that give most happiness. O Indra, the trusted one, come graciously with your excellent kinship.
+
+##### English translation
+Indra you are the first blessings, very much a friend, properly wise, granter of blessings, fulfiller of desires like a friend come with protection.
+
+### Printed p. 621
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒जि॒तुरं॒ सत्प॑तिं वि॒श्वच॑र्षणिं कृ॒धि प्र॒जास्वाभ॑गं ।  
+> प्र सू ति॑रा॒ शची॑भि॒र्ये त॑ उ॒क्षिनः॒ क्रतुं॑ पुन॒त आ॑नु॒षक् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजितुरं ; सत्पतिं । विश्वचर्षणिं । कृधि । प्रजासु । आभगं ।  
+> प्र । सु । तिर । शचीभिः । ये । ते । उक्तिनः । क्रतुं । पुनते । अनुषक् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं प्रजासु अस्मत्पुत्रपौत्रादिषु आभगं अभिमख्येन भगं भजनीयं
+> धनं कृधि कुरु । कीदृशं । आजितुरं संग्रामे त्वरमाणं । जित्वरमित्यर्थः । सत्पतिं
+> सतां पालकं विश्वचर्षणिं । विश्वाः सर्वाश्चर्यणयो मनुष्याः दासदासीलक्षणा
+> यस्मिन् तं । किंच ये यजमानाः उक्तिनः स्तुतिमतस्ते तव अनुषक् अनुषक्तं ।
+> त्वया संगतमित्यर्थः । क्रतुं कर्मविशेषं पुनते कुर्वते । तानस्मान् शचीभिः
+> धनप्रदानादिकर्मभिः सु सुतरां प्रतिर प्रवर्धय । प्र पूर्वस्तिरतिर्वर्धनार्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, make for us among our progeny, sons, grandsons and the rest, a share, that is, desirable wealth, facing us. What kind of wealth? Hastening in battle, that is, victorious; protector of the good; that in which all people, in the form of male and female servants, are included. Moreover those sacrificers who have praise perform for you, in union with you, a particular rite. Increase us, those same ones, thoroughly by your deeds such as the giving of wealth. The verb meaning "increase" is the one made with the prefix.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रजासु (*prajāsu*)—among our sons, grandsons and the rest
+- आजितुरं (*ājituraṃ*)—that brings victory in battle
+- सत्पतिं (*satpatiṃ*)—that protects good people
+- विश्वचर्षणिं (*viśvacarṣaṇiṃ*)—that is filled with all people, sons, grandsons and the rest
+- आ भगं (*ā bhagaṃ*)—that is fit for enjoyment, the wealth
+- कृधि (*kṛdhi*)—establish
+- ये उक्तिनः (*ye uktinaḥ*)—we who are provided with recitations and hymns
+- आनुषक् (*ānuṣak*)—always
+- ते (*te*)—addressed to you alone
+- क्रतुं (*kratuṃ*)—the rite
+- पुनते (*punate*)—we who accomplish it, such ones, us
+- शचीभिः (*śacībhiḥ*)—by your auspicious deeds
+- सु (*su*)—exceedingly
+- प्रतिर (*pratira*)—cause us to increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, establish among our sons, grandsons and the rest the wealth that brings victory in battles, protects good people, is filled with all people, sons, grandsons and the rest, and is fit for enjoyment. Us, who are provided with recitations and the like and always accomplish the rite addressed to you alone, cause to increase exceedingly by your auspicious deeds.
+
+### Printed p. 622
+
+##### English translation
+Quick in battle, nourisher of the righteous, Lord of all, to the worship such Indra amongst the people, may those worshippers who by action bring good fruit, sing hymns and continue without a break to perform the rite.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ साधि॒ष्मोऽव॑से॒ ते स्या॑नु॒ भरे॑षु ते ।  
+> व॒यं होत्रा॑भिरु॒त दे॒वहू॑तिभिः सस॒वांसो॑ मनामदे । ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । साधिष्ठः । अवसे । ते । स्याम । भरेषु । ते ।  
+> वयं । होत्राभिः । उत । देवहूतिभिः । ससनांसः । मनामहे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यः अस्मद्दणः अवसे रक्षणाय ते तव साधिषः अतिशयेन योऽस्ति
+> तद्गणगतास्ते वयं भरेषु संग्रामेषु ते तव संबंधिनः स्याम । भवेम । संगते
+> त्वत्पालनीया भवेमेत्यर्थः । उतापि च हे इंद्र ससवांस हनिर्लक्षणान्नवंतः ।
+> ससमित्यन्ननाम । नेमः ससं इत्यन्ननामसु पाठात् । तादृशा वयं यजमानाः
+> देवहूतिभिः । देवानिंद्रादीन् हवंति ता देवहूतयः । ताभी होत्राभिः
+> वाग्निस्तुतिलक्षणाभिः त्वां मनामहे स्तुमः । होत्रेति वाङ्माम । ऋक् होत्रा
+> गीः—इति वाज्ञामसु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the group of ours that is the most excellent for protection, belonging to you, we who belong to that group, may we be yours in battles; that is, in battle may we be protected by you. Moreover, O Indra, we sacrificers who have food in the form of oblations, the word for food, as it is read in the list of names of food, नेमः ससं (*nemaḥ sasaṃ*), with the calls to the gods, that is, the speeches that call the gods Indra and the rest, with these hotrās, that is, praises in the form of speech, praise you. The word for these praises is a name of speech, as it is read in the list of names of speech.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—among those who belong to you
+- साधिष्ठः (*sādhiṣṭhaḥ*)—the most excellent
+- यः (*yaḥ*)—whatever group of sacrificers there is, we who have it
+- भरेषु (*bhareṣu*)—in battles
+- अवसे (*avase*)—for protection
+- ते (*te*)—as those who dwell under your shelter
+- स्याम (*syāma*)—may we be
+- उत (*uta*)—and
+- ससवांसः (*sasavāṃsaḥ*)—possessing food in the form of oblations
+- वयं (*vayaṃ*)—we
+- देवहूतिभिः (*devahūtibhiḥ*)—fit for calling the gods
+- होत्राभिः (*hotrābhiḥ*)—with praise-speeches **NOTE**
+- मनामहे (*manāmahe*)—I praise you
+
 ---
 
-**Progress note:** Done through printed p. 616. Ṛk 7 end to Ṛk 10 of 8.52; sūkta 8.53 intro and Ṛk 1, Ṛk 2 Saṃhitā
+**Progress note:** Done through printed p. 622. Ṛk 2 to Ṛk 7 (to Pratipadārtha) of 8.53
