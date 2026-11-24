@@ -16680,6 +16680,350 @@ That is, the two words प्रपित्वे (*prapitve*) and अभीक
 > मंदंतु । त्वा । मघवन् । इंद्र । इंदवः । राधःदेयाय । सुन्वते ।  
 > आमुष्य । सोमं । अपिबः । चमू इति । सुतं । ज्येष्ठं । तत् । दधिषे । सहः ॥ ४ ॥
 
+### Printed p. 416
+#### Ṛk 4 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र इंदवः क्लेदनाः सोमास्त्वां मंदंतु । मादयंतु । हर्षयंतु ॥ मदेर्वत्ययेन परस्मैपदं ॥ किमर्थं । सुन्वते सोमाभिषवं कुर्वते यजमानाय राधोदेयाय राधसो धनस्य दानार्थं ॥ ददातेरचो यदिति भावे यत् । ईद्यतीतीकारः । यतोऽनाव इत्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वं । शतुरनुम इति सुन्वच्छब्दात्परा विभक्तिरुदात्ता । अपि च त्वं
+> सोममामुष्यामोषणं कृत्वादत्तमपि बलवादपृत्यापिबः । पीतवानसि । स
+> यज्ञशेवसं कृत्वा प्रासहा सोममपिबत् । तै. सं. २-४-१२-१ । इति श्रुतेः ।
+> कीदृशं सोमं । चमू चन्नोरधिषवणफलकयोः सुतमभिषुतं । यद्वा । चमूभ्यां चमसाभ्यां होतुर्मैत्रावरुणस्य च संबंधिभ्यां संस्कृताभिर्वसतीवरीभिः सुतमभिषुतं । यस्मादेवं तत्तस्मात्कारणाज्येष्ठं प्रशस्यतमं वृद्धतमं वा सहो
+> बलं दधिषे । हे इंद्र त्वं धारयसि । अतो मदीया अपि सोमास्त्वां मादयंत्विति प्रार्थ्यते ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy Indra, may the moist Soma drops gladden you, delight you. The parasmaipada form is by vyatyaya. For what purpose? For the sacrificer who presses the Soma, for the giving of wealth (राधोदेयाय (*rādhodeyāya*)). Moreover, having taken the Soma by stealth (आमुष्य (*āmuṣya*)), even though it was not given, you drank it by force. He cites the śruti स यज्ञशेवसं कृत्वा प्रासहा सोममपिबत् । (*sa yajñaśevasaṃ kṛtvā prāsahā somamapibat |*) (Tai. Saṃ. 2-4-12-1). Of what kind is this Soma? It is pressed on the two चमू (*camū*), the two pressing boards. Or else, चमूभ्यां (*camūbhyāṃ*) means pressed with the waters called vasatīvarī, prepared in the two cups (camasa) belonging to the Hotṛ and the Maitrāvaruṇa. Since this is so, you hold strength (सहः (*sahaḥ*)) that is ज्येष्ठं (*jyeṣṭhaṃ*), the most praiseworthy or the most grown. Therefore it is prayed that my Soma drops also gladden you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy one
+- इंद्र (*iṃdra*)—O Indra
+- सुन्वते (*sunvate*)—to the sacrificer who presses and offers the Soma juice
+- राधोदेयाम (*rādhodeyāma*)—for the giving of wealth
+- इंदवः (*iṃdavaḥ*)—the flowing Soma juices
+- त्वा (*tvā*)—you
+- मदंतु (*madaṃtu*)—may they satisfy
+- त्वं (*tvaṃ*)—you
+- चमू (*camū*)—by the pressing stones
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—the Soma juice
+- आमुष्य (*āmuṣya*)—having seized by force
+- अपिबः (*apibaḥ*)—you have drunk
+- तत् (*tat*)—therefore
+- ज्येष्ठं (*jyeṣṭhaṃ*)—the greatest
+- सहः (*sahaḥ*)—strength
+- दधिषे (*dadhiṣe*)—you hold
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, may the flowing Soma juices, for the giving of wealth to the sacrificer who presses and offers the Soma juice, satisfy you. You formerly seized by force and drank the Soma juice pressed with the pressing stones. Therefore you hold the greatest strength.
+
+##### English translation
+Opulent Indra, may the Soma drops exhilarate you, that you may bestow wealth on the donor of the libation; for taking it by stealth (when ungiven), you have drunk the Soma poured out into the ladle, and have then sustained pre-eminent strength.
+
+### Printed p. 417
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प च॑क्रे॒ सह॑सा॒ सहो॑ ब॒भंज॑ म॒न्युमोज॑सा ।  
+> विश्वे॑ त इंद्र पृतना॒यवो॑ यहो॒ नि वृ॒क्षा इ॑व येमिरे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । चक्रे । सहसा । सहः । बभंज ! मन्युं । ओजसा ।  
+> पिश्वेः : ते ' इंद्र । पृतनायवः । यहो इति । नि । वृक्षाः इव । येमिरे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रः सहसात्मीयेनाभिभवेन वीर्यकर्मणा सहः शत्रूणामभिभवनु
+> प्रचक्रे! प्रकर्षेण कृतवान् । तथौजसा बलेन मन्युं परकीयं क्रोधं बभंज । भग्न
+> वान् । उत्तरोर्धर्चः प्रत्यक्षकृतः । हे यहो । महन्नामैतत् । हे महन्निंद्र
+> विश्वे सर्वॆ पृतनायवो युद्धकामाः शत्रवस्ते त्वया वृक्षा इव महीरुहा इव
+> नि येमिरे । नियता आसन् । यथा वृक्षा निश्चलास्तिष्ठंति तद्वन्निर्व्यापारा अभूवन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Indra, by his own overpowering, his heroic deed, has made an overpowering (सहः (*sahaḥ*)) of his foes, and by his might has broken the anger of others. The second half of the verse is addressed directly (pratyakṣakṛta): O यहो (*yaho*) (this is a name meaning "great"), O mighty Indra, all enemies eager for battle have been held back (नि येमिरे (*ni yemire*)) by you like trees, that is, they stood motionless as trees stand, without action.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Indra)
+- सहसा (*sahasā*)—by his valour
+- सहः (*sahaḥ*)—the defeat of enemies
+- प्र चक्रे (*pra cakre*)—has brought about
+- ऒजसा (*òjasā*)—by his strength
+- मन्युं (*manyuṃ*)—the anger of the enemies
+- बभंज (*babhaṃja*)—has destroyed
+- यहो (*yaho*)—O great one
+- इंद्र (*iṃdra*)—O Indra
+- पृतनायवः (*pṛtanāyavaḥ*)—eager for battle
+- विश्वे (*viśve*)—all the enemies
+- ते (*te*)—by you
+- वृक्षा इव (*vṛkṣā iva*)—like trees
+- नि येमिरे (*ni yemire*)—are bound so as to stand motionless
+
+##### भावार्थ (Bhāvārtha)
+
+Indra has brought about the defeat of enemies by his valour. By his strength he has destroyed the anger of the enemies. O great Indra, all enemies eager for battle have been bound by you so that they stand motionless like trees.
+
+##### English translation
+By his strength he has overpowered the strength (of his foes), he
+
+### Printed p. 418
+
+##### English translation
+he has crushed their wrath by his prowess: all hostile armies have been arrested like trees (immoveable through fear), mighty Indra, by you.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्रे॑णेव सचते यवी॒युधा॒ यस्त॒ आन॒ळुप॑स्तुतिं ।  
+> पु॒त्रं प्रा॑व॒र्गं कृ॑णुते सु॒वीर्ये॑ दा॒श्नोति॒ नम॑उक्तिभिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रेण इव । सचते । यवियुधा । यः । ते । अनट् । उपस्तुतिं ।  
+> पुत्रं । प्रावर्गं । कृणुते । सुवीर्ये । दाश्नोति । नमउक्तिभिः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तवोपस्तुतिं स्तोत्रं यः पुरुष आनट् प्राप्नोति त्वां प्रापयति ॥ अश्नोतेर्लजि व्यत्ययेन परस्मैपदं ॥ .... .... .... सचते । समवैति ॥ षच
+> समवाये ॥ सहस्रेणेव यथा सहस्रसंख्यॆन बलेन तथेत्यर्थः । यश्च यजमानो
+> नमउक्तिभिर्नमस्कारवचनैः स्तोत्रैः सार्धं दाश्नोति हवींषि तुभ्यं ददाति ॥ दातृ
+> दाने !! स यजमानः सुवीर्यॆ शोभनवीयर्युक्ते संग्रामे प्रावर्गं प्रकर्षेण शत्रूणां वर्जयितारं पुत्रं कृणुते । करोति । उत्पादयति । त्वत्पसादाल्लभत
+> इत्यर्थः ॥ प्रपूर्वाद्वजेः कृत्यल्युटो बहुलमिति कर्तरि घञ् । उपसर्गस्य घञ्मनुष्ये । पा. ६-३.१२२ । इति दीर्घः । थाथादिनोत्तरपदांतोदात्तत्वं ॥ यद्वा ।
+> सुवीर्य इत्येशत्पुत्रस्य विशेषणं । द्वितीयार्थे सप्तमी । शोभनवीयर्य० पुत्रं ॥
+> बहुप्रीहौ वीरवीयौ चेत्युत्तरपदाद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the man who आनट् (*ānaṭ*), reaches your praise (उपस्तुतिं (*upastutiṃ*)), that is, makes it reach you. सचते (*sacate*) means "joins": he joins as if with a thousand, that is, with strength of a thousand in number. And the sacrificer who, together with praises (नमउक्तिभिः (*namauktibhiḥ*)), words of homage, gives you oblations, begets (कृणुते (*kṛṇute*)) in battle (सुवीर्ये (*suvīrye*)) rich in good valour a son who is a प्रावर्गं (*prāvargaṃ*), a scatterer of enemies; the meaning is that he obtains him by your favour. Or else, सुवीर्ये (*suvīrye*) is an epithet of the son, the locative being in the sense of the accusative: a son of good valour. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यः (*yaḥ*)—the sacrificer who
+- ते (*te*)—to you
+- उपस्तुतिं (*upastutiṃ*)—praise
+- आनट् (*ānaṭ*)—offers (makes you partake of it)—he
+- यवियुधा (*yaviyudhā*)—capable of fighting
+- सहस्रेणेव (*sahasreṇeva*)—as if with strength of a thousand in number
+- सहते (*sahate*)—joins **NOTE**
+- (यः (*yaḥ*)—who)
+- नमउक्तिभिः (*namauktibhiḥ*)—with praises accompanied by homage
+- पाश्नोति (*pāśnoti*)—offers oblation to you—he **NOTE**
+- सुवीर्ये (*suvīrye*)—in a battle in which excellent power appears
+- प्रावर्गं (*prāvargaṃ*)—one who drives enemies away
+- पुत्रं (*putraṃ*)—a son
+- कृणुते (*kṛṇute*)—begets
+
+### Printed p. 419
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the sacrificer who offers you praise and makes you partake of it, is ready to fight, joined with a strength of a thousand in number. He who offers you praise with praises accompanied by homage begets a son who can fight the enemies in battle and conquer them.
+
+##### English translation
+He who has made his praise attain to you associates himself with a thousand gallant combatants; he who offers oblations with reverence begets a valiant son, the scatterer (of enemies).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा भे॑म॒ मा श्र॑मिष्मो॒ग्रस्य॑ स॒ख्ये तव॑ ।  
+> म॒हत्ते॒ वृष्णो॑ अभि॒चक्ष्यं॑ कृ॒तं पश्ये॑म तु॒र्वशं॒ यदुं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । भेम । मा । श्रमिष्म । उग्रस्य । सख्ये । तव ।  
+> महत् । ते । वृष्णः । अभिचक्ष्यं । कृतं । पश्येम । तुर्वशं । यदुं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र उग्रस्योद्गूर्णबलस्य तव सख्ये सखित्वे सति वयं मा भेम ।
+> मा भैष्म । कुतश्चिदपि शत्रोर्भीता मा भूम । मा श्रमिष्म । श्रांताः पीडिताश्च मा
+> भूम । वृष्णः कामानां वर्षितुस्ते तव संबंधि महत्प्रभूतं कृतं वृत्रवधादिलक्षणं
+> कर्माभिचक्ष्यं । अभितः ख्यापनीयं स्तोतव्यं । अतो महानुभावस्य तव सख्यं
+> प्राप्तानां भीतिश्रमौ न जायेते इत्यर्थः । तत्कथमवगम्यत इति चेत् उच्यते ।
+> तुर्वशमेतत्संज्ञं राजर्षिं यदुमेतत्संज्ञं च त्वत्पसादात्युखेन जीवंतौ पश्येम ।
+> दृष्टवंतः खलु वयं । अतः कारणात्त्वत्सख्यं प्राप्तस्य भयादिकं न जायत इत्येतदुपपन्नमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, while we are in the friendship of you who are fierce, of uplifted strength, may we not fear (मा भेम (*mā bhema*)), may we not become afraid of any enemy at all; may we not be wearied (मा श्रमिष्म (*mā śramiṣma*)), not be exhausted or oppressed. The great (महत् (*mahat*)) deed (कृतं (*kṛtaṃ*)) of you, the showerer of desires, such as the slaying of Vṛtra, is अभिचक्ष्यं (*abhicakṣyaṃ*), to be proclaimed on every side, to be praised. Hence fear and weariness do not arise for those who have gained the friendship of you, of such great power. If it is asked how this is known, it is said: we have seen the royal seer named Turvaśa and the one named Yadu living happily by your favour. For this reason it is fitting that fear and the like do not arise in one who has gained your friendship.
+
+### Printed p. 420
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) उग्रस्य (*ugrasya*)—of you who have exceedingly great strength
+- तव (*tava*)—your
+- सख्ये (*sakhye*)—we who are well established in friendship
+- मा भेम (*mā bhema*)—cannot fear anyone
+- मा श्रमिष्म (*mā śramiṣma*)—will not feel alarm even in our minds
+- तुर्वशं (*turvaśaṃ*)—the king named Turvaśa
+- यदुं (*yaduṃ*)—the king named Yadu
+- पश्येम (*paśyema*)—when we see (them as living in safety by your favour alone), then
+- वृष्टः (*vṛṣṭaḥ*)—showerer of desires **NOTE**
+- ते (*te*)—your
+- महत् (*mahat*)—exceedingly great
+- कृतं (*kṛtaṃ*)—deed such as the slaying of Vṛtra
+- अभिचक्ष्यं (*abhicakṣyaṃ*)—we understand to be praiseworthy everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who live happily in the friendship of you, whose strength is exceedingly great, have no reason to fear any enemy. There is no room in our minds for any alarm. When we see the royal seers Turvaśa and Yadu, who have attained a state made safe by your help alone, then we understand that your great deed, such as the slaying of Vṛtra, you the showerer of desires, is praiseworthy everywhere.
+
+##### English translation
+(Secure) in the friendship of you who are terrible, let us not fear, let us not be harassed : great and glorious, showerer (of benefits), are your deeds, as we may behold them in the case of Turvasa, of Yadu
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒व्यामनु॑ स्फि॒ग्यं॑ वावसे॒ वृषा॒ न दा॒नो अ॑स्य रोषति ।  
+> मध्वा॒ संपृ॑क्ताः सार॒घेण॑ धे॒नव॒स्तूय॒मेहि॒ द्रवा॒ पिब॑ ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सव्यां । अनु । स्फिग्यं । ववसे । वृषा । न । दानः । अस्य । रोषति ।  
+> मध्वा । संपृक्ताः । सारघेण । धेनवः । तूयं । आ । इहि । द्रव । पिब ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां वर्षितेंद्रः सव्यां दक्षिणेतरां स्फिग्यं कटिप्रदेशमनु ॥
+> तृतीयार्थेऽनोः कर्मप्रवचनीयत्वं ॥ सव्यया स्फिग्या शरीरैकदेशेनैव वावसे ।
+
+**NOTE**
+
+> वस्ते । सर्वभूतजातमाच्छादयति । स्वयं कृत्स्नं जगदतीत्य वर्तत इत्यर्थः । निगमांतरं च भवति । यदन्यया स्फिग्या क्षामवस्थाः । ऋग्वे. ३-३२-११ । इति ॥ अपि च
+> दानोऽवखंडयिता ॥ दान अवखंडने । पचाद्यच् ॥ स चास्येममिंद्रं न रोषति ।
+> न हिनस्ति ॥ रिष रुष हिंसायां ॥ इंद्रं हिंसितुं शक्तः कश्चिदपि नास्तियर्थः । यद्वा ।
+> दानो हविषां दाता यजमानश्चांद्रस्य न रोषति । रोषं न जनयति ।
+> सर्वदा हविर्भिः परिचरतीत्यर्थः । उत्तरोऽर्धर्चः प्रत्यक्षकृतः । सारघेण । सरघा
+> मधुमक्षिका । तत्संबंधिना मध्वा मधुना । लुपोपममेतत् । मधुनेव रसवता
+> क्षीरादिना श्रयणद्रव्येण संपृक्ताः संसृष्टाः संस्कृता धेनवो धेनुवत् प्रीतिजनका
+> अस्मदीयाः सोमाः । यद्वा । धिवेः प्रीणनार्थाद्देनवः । प्रीणयितार इत्यर्थः ।
+> यत एवमतः कारणात् हे इंद्र तूयं क्षिप्रमेहि । अस्मत्समीपमागच्छ । आगत्य च
+> द्रव । सोमा यस्मिन्नुत्तरवेदिलक्षणे स्थाने हूयंते तं देशं शीघ्रं गच्छ ॥ द्रु
+> गताविति धातुः । द्व चोऽतस्तिज इति साहितिको दीर्घः ॥ तदनंतरमध्वर्युणा दत्तं
+> सोमं पिब । तेन सोमेन सम्यक् स्वोदरं पूरयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra, the showerer of desires, सव्यां (*savyāṃ*), with the left (the one other than the right) स्फिग्यं (*sphigyaṃ*), the hip region, अनु (*anu*) (here अनु (*anu*) is a karmapravacanīya in the sense of the instrumental), वावसे (*vāvase*) covers: with the left hip, with one part of the body alone,
+
+### Printed p. 421
+he covers all beings, while he himself remains surpassing the whole world. There is another passage: यदन्यया स्फिग्या क्षामवस्थाः (*yadanyayā sphigyā kṣāmavasthāḥ*) (Ṛgveda 3-32-11). Moreover दानः (*dānaḥ*) is the one who cuts (दान अवखंडने (*dāna avakhaṃḍane*)); he does not anger (न रोषति (*na roṣati*)), does not harm, this Indra; the meaning is that no one at all is able to harm Indra. Or else, दानः (*dānaḥ*) is the sacrificer, the giver of oblations; he does not anger Indra, does not produce wrath in him; the meaning is that he always serves him with oblations. The second half is addressed directly. सारघेण (*sāragheṇa*): सरघा (*saraghā*) is the honey-bee; मध्वा (*madhvā*) is honey connected with it (a case of luptopamā): mixed (संपृक्ताः (*saṃpṛktāḥ*)), blended and prepared with a juicy admixture such as milk, like honey, are our Soma juices, धेनवः (*dhenavaḥ*), pleasing like a cow. Or else धेनवः (*dhenavaḥ*) comes from the root धिव (*dhiva*) in the sense of pleasing: those who please. Since this is so, O Indra, come quickly (तूयं (*tūyaṃ*)) to us; having come, hasten (द्रव (*drava*)) to the place, the uttaravedi, where the Soma is offered. Then drink the Soma given by the Adhvaryu; the meaning is that with that Soma you should fill your belly well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—Indra, the showerer of desires
+- सव्यां (*savyāṃ*)—of the left
+- स्फिग्यं (*sphigyaṃ*)—from the hip
+- अनु ववसे (*anu vavase*)—covers the whole world
+- दानः (*dānaḥ*)—anyone who tries to cut this
+- अस्य (*asya*)—this Indra
+- न रोषति (*na roṣati*)—does not anger (or: no sacrificer, giver of oblations, hurts his mind)
+- (O Indra)
+- सारघेण (*sāragheṇa*)—of the bee **NOTE**
+- मध्वा (*madhvā*)—with honey
+- संपृक्ताः (*saṃpṛktāḥ*)—mixed
+- धेनवः (*dhenavaḥ*)—and pleasing Soma juices are ready
+- तूयं (*tūyaṃ*)—quickly
+- एहि (*ehi*)—be pleased to come
+- द्रव (*drava*)—hasten
+- पिब (*piba*)—drink this juice
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the showerer of desires, covers the whole world with his left hip. None of the sacrificers hurts his mind. O Indra, the Soma juices, mixed with the honey of the bee and pleasing, are ready. Come quickly, hasten, drink this juice.
+
+##### English translation
+The showerer (of benefits) with his left hip covers (the world), no tearer (of it) angers him : the delightful (Soma juices) are mixed with the weet honey of the bee; come quickly hither, hasten, drink.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒श्वी र॒थी सु॑रू॒प इद्दोमा॒ इदिं॑द्र शे॒षखा॑ ।  
+> श्वा॒त्र॒भाजः॒ वय॑सा सचते॒ सदा॑ चं॒द्रो या॑ति ॒भामुप॑ ॥  
+> • १२५० •
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वी । रथी । सुतरूपी । इश् । गोविंदा । इश् । इंद । श्री । जहा ।  
+> काव्यसाहि । जयसा । सचके । सदा । चंद्रः । याति । श्रुता । उद ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शे तद समा मित्रभूतः पुरुषोत्कृष्टादिगुणविशिष्ट दिव भवति ।
+> इच्छब्दः प्रत्येकमधिसंबद्धते । अश्वीद्भुभिर्वृरुपेत दिन भवति । स कदावुदत्कैर्वियुज्यते । रथी रथवावेद स भवति । सुरूप इट्टोभवरूपः शोभनादयद बद
+> स भवति । गोमो इद्वष्ट्वीर्भगोभियुक्त दिन स भवति । स कदा वेक्ष्यमीयुज्यत
+> इत्यर्थः । आओ च श्वात्रभाजा । त्रिक्रमिति धनाना. अश्वशनीयं शीघ्रं प्राप्तद्यं
+> शोधसं धनं संभजतेद्दग्धन संज्ञॆ क्षेप दयः । अन्नपाम्यतक् । अश्नीष स
+> सर्वदा सहते । समुदैति । कुगच्छते । षट समिद ॥ अत दिन चंदः सर्वे -
+> षामाह्लादकः सन् सभां जनसंपदमुप याति . उपगच्छति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, a man who is your friend becomes endowed with excellent qualities; the word इट् (*iṭ*) is attached to each one: he becomes possessed of horses, never separated from them; he becomes a possessor of a chariot; of good form; endowed with cattle. Then श्वात्रभाजः (*śvātrabhājaḥ*): he shares in wealth quickly obtainable; with food he always joins; so, delighting all, he goes to the assembly. **NOTE**
+
+> इंद्र—ऎरै इंद्रने । की—निन्न । सखिं —पितृ द पुरुषनु अश्वी इर्—अश्वियुक्त
+> नागिये इरुत्तानॆ । रथी—रथक्कॆ यजमाननागुत्तॆ । सुरो इर्—आशीर्वादद रूप
+> वन्नु हॊंदुत्तानॆ । गोमान् इर्—गोवुगळिंद कूडिद त्रिति । श्वाक जा तीव्रवागि
+> हॊंदबहुदाद धनदॊंदिगॆरुव । वयसा —आन्नॊंदिगॆ । सहकॆ इर्—शिक्ष्यतनॆ । च.द्रा—
+> अग्नादकरवाद व्यक्तित्ववन्नु हॊंदि । सधां—सिद्धज्ञ सभॆगॆ । उष याति —प्रवेशिसुत्तानॆ
+> ऎर्रॆ इंद्रने, निन्न मित्रनाद पुरुषनु अश्वयुक्तनागिरो इरुत्तानॆ. , द्वाजजागु
+> कॆ. आदर्शवाद रूपवन्नु हॊंदुत्तानॆ. गोपुगळिंद कूडिरुत्तानॆ. , हागे हॊर
+
+**NOTE**
+
+### Printed p. 422
+
+> बहुदाद धनयुक्तवाद अन्नदॊंदिगॆ हॊंदिकॊळ्ळुत्तानॆ. आह्लादकरवाद व्यक्तित्ववन्नु हॊंदि
+> विद्वज्जनर सभॆगॆ प्रवेशिसुत्तानॆ.
+
+##### English translation
+He who is your friend, Indra, is verily possessed of horses, of cars, of cattle, and is of goodly form : he is ever supplied with food-comprising riches, and delighting all, he enters an assembly.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋश्यो॒ न तृष्य॑न्नव॒पान॒मा ग॑हि॒ पिबा॒ सोमं॒ वशा॒ अनु॑ ।  
+> नि॒मेघ॑मानो मघवन्नि॒वेदि॑व॒ ओजि॑ष्ठं दधिषे॒ सहः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋश्यः । न । तृष्यन् । अवपानं । आ । गहि । पिब । सोमं । वशान् । अनु ।  
+> निमेघमानः । मघवन् । दिवेदिवे । ओजिष्ठं । दधिषे । सहः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ऋश्यो नर्श्याख्यो मृग इव तृष्णन् पिपासंस्त्वमवपानमवनीतं
+> ग्रहचमसादिषु पात्रेष्वानीतं पाशव्यं सोममा गहि । अभिगच्छ । गत्वा च तमस्कदीयं सोमं वशा अन्वसुकामं यथाकामं पिब! यावता पीतेन पर्याप्तिर्जायते तावता सोमेन स्वोदरं पूरयेत्यर्थः । अत एव सोमपानात् प्राप्तबलस्त्वं दिवे दिवे प्रतिदिवसं निमेघमानो न्यंच्यवाङ्मुखानि वृष्टुदकानि सिंचन्
+> हे मघवन्निंद्र ओजिष्ठमोजस्वितममुद्दूर्णतमं सहो बलं दधिषे । धारयसि ॥
+> ओजस्विशब्दादिष्टनि विन्मत्तोर्लुगिति विनो लुक् । टेरिति टिलोपः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, like the deer called ऋश्य (*ṛśya*), thirsty, come to the अवपानं (*avapānaṃ*), the Soma brought down and carried into vessels such as the graha and camasa cups, fit for you. Having gone, drink that Soma of ours वशा अनु (*vaśā anu*), according to your wish, as you desire: the meaning is that you should fill your belly with as much Soma as satisfies you when drunk. Hence, having obtained strength from drinking Soma, you दिवेदिवे (*divedive*), day by day, निमेघमानः (*nimeghamānaḥ*), sprinkling rain waters with downward-turned faces, O Maghavan Indra, hold (दधिषे (*dadhiṣe*)) the most vigorous, most uplifted strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋश्यो न (*ṛśyo na*)—as, when thirsty, the deer called ṛśya goes down to a pool and drinks water **NOTE**
+- तृष्यन् (*tṛṣyan*)—you who are thirsty
+- अवपानं (*avapānaṃ*)—to the Soma brought in cups such as the camasa
+- आ गहि (*ā gahi*)—come facing
+- सोमं (*somaṃ*)—the Soma
+- वशान् अनु (*vaśān anu*)—as much as you wish
+- पिब (*piba*)—drink
+- मघवन् (*maghavan*)—O wealthy Indra
+- दिवेदिवे (*divedive*)—every day
+
 ---
 
-**Progress note:** Done through printed p. 415. pp. 410-415 (batch API)
+**Progress note:** Done through printed p. 422. pp. 416-422 (batch API)
