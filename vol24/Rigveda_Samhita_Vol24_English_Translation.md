@@ -5238,6 +5238,285 @@ Munificent and irresistible (Maruts), guard our vessel by day and night, so that
 > अघ्न॑ते॒ विष्ण॑वे व॒यमरि॑ष्यंतः सु॒दान॑वे ।  
 > श्रु॒धि स्व॑यानि स्सिंधो पू॒र्वचि॑त्तये ॥ १२ ॥
 
+### Printed p. 117
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> v v v - v - n - l - - -  
+> ॥ हसिवु ॥  
+> अघ्नते । विष्णवे । वयं । अरिष्यंतः । सुदानने ।  
+> श्रुधि । स्वयावन् । सिंधो इति । पूर्वचित्तये ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोऽर्धर्चः परोक्षकृतः । अरिष्यंतः पालनवत्त्वात् केनाप्यबाधिता
+> वयमघ्नते स्तोत्यणां यष्टणां चाहिंसकाय सुदानवे शोभनदानाय
+> विष्णवे स्वमहत्त्वन सर्वव्यापकाय्कॆतन्नामकाय देवाय स्तुतिं कुर्मः । अथ
+> प्रत्यक्षः । हे स्वयान् । स्वयमेवासहायः सन् दिवि संग्रामे वा यातीति
+> स्वयावान् । सिंधो स्तोत्यन् प्रति धनानां स्यंदनशील विष्णो पूर्वचित्तये ।
+> चित्तिः कर्म । मंत्रांतरेऽपि तथा श्रवणात् । सा चित्तिभिर्नि हि चकार मर्त्यं ।
+> ऋ. १-१६४-२९ । इति । पूर्वं प्रारब्धकर्मणे यजमानाय तदर्थं श्रुधि । अस्माभिः
+> क्रियमाणां स्तुतिं त्वं शृणु ॥
+
+##### Gist of the bhāṣya
+
+The first half of the verse is spoken in the third person (indirect address). "We, who are unharmed because we have the protection of Viṣṇu, offer praise to Viṣṇu, who does not harm those who praise and those who sacrifice, who is a splendid giver, who pervades everything by his greatness and bears this name." Then the second half turns to direct address: "O Viṣṇu, who goes alone and unaided, in the sky or in battle; O Viṣṇu, who makes wealth flow like a river toward those who praise you: *citti* means sacrificial act, as is also heard in another mantra, सा चित्तिभिर्नि हि चकार मर्त्यं (*sā cittibhirni hi cakāra martyaṃ*) (Ṛ. 1-164-29) **NOTE**. For the sacrificer who has begun the rite, hear the praise that we are offering."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरिष्यंतः (*ariṣyaṃtaḥ*)—(because we are protected by Viṣṇu) not caught by anyone's harm
+- वयं (*vayaṃ*)—we
+- अघ्नते (*aghnate*)—who does not harm those who praise him
+- सुदानवे (*sudānave*)—who is an excellent giver
+- विष्णवे (*viṣṇave*)—to Viṣṇu we offer praise
+- स्वयावन् (*svayāvan*)—who rushes into battle alone, without help
+- सिंधो (*siṃdho*)—O Viṣṇu, who makes wealth flow like a river
+- पूर्वचित्तये (*pūrvacittaye*)—for the sacrificer who has begun the rite
+- श्रुधि (*śrudhi*)—hear our praises
+
+##### भावार्थ (Bhāvārtha)
+
+We, unharmed because we are protected by Viṣṇu, offer praise to Viṣṇu, who does not harm those who praise him and is an excellent giver. O Viṣṇu, who rushes forward alone and without help in battle and makes wealth flow like a river, hear our praise on behalf of the sacrificer who has begun the rite.
+
+##### English translation
+We, uninjured (through his protection, offer praise) to the libera
+Vishnu, who harms not (his adorers): do you who go by yourself alone
+(to combat), and cause wealth to flow (to the worshipper), hear (our prayer)
+in behalf of him who has commenced the sacrifice. **NOTE**
+
+### Printed p. 118
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वार्यं॑ वृणीमहे॒ वरि॑ष्ठं गोप॒यत्यं॑ ।  
+> मि॒त्रो यत्पांति॒ वरु॑णो॒ यद॑र्य॒मा ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । वार्यं । वृणीमहे । वरिष्ठं । गोपयत्यं ।  
+> मित्रः । यत् । पांति । वरुणः । यत् । अर्यमा ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरिष्ठमुरुतरं गोपयत्यं सर्वॆषां रक्षकं यतैः पालनीयं वा वार्यं
+> सर्वैर्वननीयं तद्धनं वृणीमहे । वयं संभजामहे । यद्धनं मित्रः सर्वॆषां
+> मित्रभूतो वरुणः शत्रुवाणां वारयितार्यमा सर्वदा गच्छन् एतन्नामकास्त्रयो
+> देवाः पांति पालयंति । तद्धनं वृणीमहे । अस्मदीयस्य धनस्य रक्षका
+> भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"We choose that wealth which is the best and widest and which protects all, or which is to be guarded by effort, and which is to be chosen by all: we share in it. The wealth which Mitra, who is the friend of all, Varuṇa, who keeps off enemies, and Aryaman, who always goes (about), these three deities, protect, that wealth we choose." The meaning is that they become the guardians of our wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—which wealth
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अर्यमा (*aryamā*)—Aryaman
+- पांति (*pāṃti*)—protect
+- तत् (*tat*)—that
+- वरिष्ठं (*variṣṭhaṃ*)—the most excellent
+- गोपयत्यं (*gopayatyaṃ*)—the protector of all
+- वार्यं (*vāryaṃ*)—and desired by all, such wealth
+- वृणीमहे (*vṛṇīmahe*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The wealth which Mitra, Varuṇa and Aryaman protect: such most excellent wealth, which protects all and is desired by all, may we obtain.
+
+##### English translation
+We solicit that ample, all-desired, all-guarding (wealth) which
+Mitra, Varuna, and Aryaman hold under their protection.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the explanation of the word वार्यं (*vāryaṃ*), Yāska has given an etymological explanation of the first half of this Ṛk:
+
+### Printed p. 119
+वार्यं । वार्य वृणोतेरथापि वरतमं । तद्वार्यं वृणीमहे वरिष्ठं गोपयत्यं (ऋ. सं. ८-२५-१३) तद्वार्यं वृणीमहे वर्षिष्टं गोपायितव्यं गोपायितारो यूयं स्थ युष्मभ्यमिति ना ॥ (*vāryaṃ | vārya vṛṇoterathāpi varatamaṃ | tadvāryaṃ vṛṇīmahe variṣṭhaṃ gopayatyaṃ (ṛ. saṃ. 8-25-13) tadvāryaṃ vṛṇīmahe varṣiṣṭaṃ gopāyitavyaṃ gopāyitāro yūyaṃ stha yuṣmabhyamiti nā ‖*) (Ni. 5-1)
+The word वार्यं (*vāryaṃ*) is derived from the root *vṛ* (*vṛṇoti*), meaning "to choose"; वार्यं (*vāryaṃ*) means that which is desired by all, or that which is most excellent. In the present Ṛk the meaning is this: O Mitra and Varuṇa, in you there are many things desired by all. Among them we choose, or desire, protection from you. For protection is found only in you; it is possible only through you, that is, you are protectors. Therefore we desire the protection which is possible only through you, or the most excellent protection. This is the sense contained here.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नः॒ सिंधु॑र॒पां तन्न॒रुत॒स्तद॒श्विना॑ ।  
+> इंद्रो॒ विष्णु॑र्मा॒ढ्वांसः॑ स॒जोष॑सः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । सिंधुः । अपां । तत् । मरुतः । तत् । अश्विना ।  
+> इंद्रः । विष्णुः । माढ्वांसः । सजोषसः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनरपि धनरक्षणमेवाशास्ते । उतापि चापामुदकानां सिंधुः स्यंदनशीलः
+> पर्जन्यो नोऽस्मदीयं तद्धनं रक्षतु । तदेव मरुतश्च पालयंतु । अश्विनाश्विनौ
+> देवौ तद्धनं पालयतां । तथेंद्रो विष्णुश्च माढ्वांसः कामानां सेक्तार एते
+> सर्वे देवाः सजोषसः संगताः संतोऽस्मदीयं धनं रक्षंतु । एते देवा
+> अस्मभ्यं धनं दत्त्वा पालयंतित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Again he asks for the protection of wealth. "And may Parjanya, the flowing one among the waters, protect our wealth; and may the Maruts protect the same. May the two Aśvins protect that wealth. So too Indra and Viṣṇu; all these deities, who are showerers of desires, united, protect our wealth." The meaning is that these deities, having given wealth to us, protect it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अपां (*apāṃ*)—for the waters
+- सिंधुः (*siṃdhuḥ*)—Parjanya, who causes them to flow
+- नः (*naḥ*)—our
+- तत् (*tat*)—may he protect that wealth
+- तत् (*tat*)—that wealth also
+- मरुतः (*marutaḥ*)—the Maruts also protect
+
+### Printed p. 120
+- अश्विना (*aśvinā*)—the Aśvin deities also protect that wealth
+- इंद्रः (*iṃdraḥ*)—Indra
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- मीढ्वांसः (*mīḍhvāṃsaḥ*)—all the deities who shower desires
+- सजोषसः (*sajoṣasaḥ*)—gathered together, protect that wealth
+
+##### भावार्थ (Bhāvārtha)
+
+May Parjanya, who causes the waters to flow, protect our wealth. May the Maruts also protect that same wealth. May the Aśvin deities protect that wealth. May Indra, Viṣṇu and all the deities who shower desires, gathered together, protect that wealth.
+
+##### English translation
+May he who causes the waters to flow (Parjanya), the Maruts,
+the Aswins, Indra, Vishnu, may all (these deities) together, the showerers,
+(of benefits, protect) that wealth for us.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि ष्मा॑ व॒नुषो॒ नरो॒ऽभिमा॑तिं॒ कय॑स्य चित् ।  
+> ति॒ग्मं न क्षोदः॑ प्रति॒घ्नंति॒ भूर्ण॑यः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हि । स्म । वनुषः । नरः । अभिमातिं । कयस्य । चित् ।  
+> तिग्मं । न । क्षोदः । प्रतिघ्नंति । भूर्णयः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वनुषो वननीयाः संभजनीया नरो नेतारस्ते हि ष्मा ते खलु देवा
+> भूर्णयः क्षिप्रगमनाः संतः कयस्य चित्कस्यचिच्छत्रोरभिमातिमभिमानं प्रतिघ्नंति ।
+> प्रतिकूलं यथा भवति कथा हिंसंति । तत्र दृष्टांतः । तिग्मं न यथा तिग्मं तीक्ष्णं
+> जवेन गच्छत्कॊपद उदकमग्रतः स्थितं वृक्षमुन्मूलयति तद्वत्तस्याभिमानं
+> घ्नंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Those leaders, who are to be worshipped and shared in, are quick in movement and strike down the pride of any enemy whatever, so that it turns against him. The illustration: as swift, sharp water running with speed uproots a tree standing before it, so they destroy his pride." This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनुषः (*vanuṣaḥ*)—the venerable
+- नरः (*naraḥ*)—and leaders
+- ते हि ष्मा (*te hi ṣmā*)—those same deities
+- भूर्णयः (*bhūrṇayaḥ*)—having rapid movement
+- कयस्य चित् (*kayasya cit*)—of whatever enemy it may be
+
+### Printed p. 121
+- अभिमातिं (*abhimātiṃ*)—the harmful haughtiness (pride)
+- तिग्मं (*tigmaṃ*)—swiftly flowing
+- क्षोदः न (*kṣodaḥ na*)—as a flow of water brings down trees and the like standing before it
+- प्रतिघ्नंति (*pratighnaṃti*)—falling upon that enemy, they destroy him
+
+##### भावार्थ (Bhāvārtha)
+
+Those venerable leaders, the deities, having rapid movement, destroy the harmful haughtiness of any enemy, however powerful, by falling upon him as a swiftly flowing stream of water brings down the trees and the like standing before it.
+
+##### English translation
+Those desirable leaders (of men), rapid in movement, break down
+the haughtiness of any (foe) whatever, as an impetuous current (sweeps
+away all obstacles).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमेक॑ इ॒त्था पु॒रूरु च॑ष्टे॒ वि वि॒श्वतिः॑ ।  
+> तस्य॑ व्र॒तान्यनु॑ वश्चरामसि ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । एकः । इत्था । पुरु । उरु । चष्टे । वि । विश्वतिः ।  
+> तस्य । व्रतानि । अनु । वः । चरामसि ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रस्य कर्माण्याह । विश्वतिर्विशां पालयितानयोर्मित्रावरुणयोरेकोऽयं मित्रः पुरु पुरूणि बहूनि चोरूरूणि च द्रव्याणीत्थेत्थं वि चष्टे ।
+> स्वतेजसा पश्यति । तस्य मित्रस्य व्रतानि कर्माणि वो युष्मदर्थमनु चरामसि ।
+> अनुचरामः । कुर्म इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+He speaks of the deeds of Mitra. Mitra, the protector of the people, is the one of the pair Mitra and Varuṇa; he looks upon many and vast things in this way, with his own radiance. "We follow the rites of that Mitra for you", that is, we perform them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वतिः (*viśvatiḥ*)—the protector of the people
+- एकः (*ekaḥ*)—the unequalled
+- अयं (*ayaṃ*)—this Mitra
+- पुरु (*puru*)—the many
+- उरु (*uru*)—and extensive things, all of them
+- इत्था (*itthā*)—in this manner
+- वि चष्टे (*vi caṣṭe*)—he sees together with his gaze in the form of radiance
+- तस्य (*tasya*)—of that Mitra
+- व्रतानि (*vratāni*)—the rites
+- वः (*vaḥ*)—for you
+- अनुचरामसि (*anucarāmasi*)—we shall perform (or let us bear)
+
+### Printed p. 122
+
+##### भावार्थ (Bhāvārtha)
+
+This Mitra, the protector of the people and unequalled, sees together, with his gaze in the form of radiance, all things, many and extensive. We shall perform the rites of that Mitra for you.
+
+##### English translation
+This one, the lord of men (Mitra), contemplates many vast things :
+we fallow his rites for you. **NOTE**
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ पूर्वा॑ण्यो॒क्या॑ साम्रा॒ज्यस्य॑ सश्चिम ।  
+> मि॒त्रस्य॑ व्र॒ता वरु॑णस्य दीर्घ॒श्रुत् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । पूर्वाणि । ओक्या । सांराज्यस्य । सश्चिम ।  
+> मित्रस्य । व्रता । वरुणस्य । दीर्घश्रुत् ॥ १७ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साम्राज्यस्य । सम्राजो भावः साम्राज्यं । साम्राज्यमस्यास्तीति साम्राज्यः ॥
+> अर्शआदिभ्य इत्यच् प्रत्ययः ॥ साम्राज्यवतो वरुणस्य पूर्वाणि पुराशनान्योक्या ।
+> ओको गृहं । तस्मै हितानि कर्माणि वयं सश्चिम ॥ सश्चतिर्गतिकर्मा । लिट रूपं ।
+> द्विर्वचनस्य छंदसि विकल्पितत्वादत्र द्विर्वचनाभावः ॥ तदेवाह । मित्रस्य व्रता व्रतानि
+> कर्माणि च दीर्घश्रुत् ॥ सुपां सुलुगिति षष्ठ्या लुक् ॥ दीर्घश्रुतोऽतिशयेन
+> प्रसिद्धस्य वरुणस्य व्रतानि च सश्चिमेति ॥
+
+##### Gist of the bhāṣya
+
+"Of the one who has sovereignty (Varuṇa), we perform the ancient rites that are beneficial to the house (*oka* means house)." The root meaning movement; the verb is perfect in form, and the doubling is optional in the Veda, so it is absent here. He says the same thing: the rites of Mitra, and the rites of Varuṇa, who is widely renowned, we perform.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- साम्राज्यस्य (*sāmrājyasya*)—of Varuṇa, who has the rank of universal sovereign
+- पूर्वाणि (*pūrvāṇi*)—ancient
+- ओक्या (*okyā*)—and favourable to our houses, those rites
+- अनु सश्चिम (*anu saścima*)—we shall perform
+- मित्रस्य (*mitrasya*)—of Mitra
+- व्रता (*vratā*)—the rites
+- दीर्घश्रुत् (*dīrghaśrut*)—renowned even at a great distance
+- वरुणस्य (*varuṇasya*)—let us perform also the rites of Varuṇa
+
 ---
 
-**Progress note:** Done through printed p. 116. Sūkta 25 Ṛk 4 end to Ṛk 12 Saṃhitā (VIII.25)
+**Progress note:** Done through printed p. 122. Ṛk 12 end to Ṛk 17, pp. 117-122
