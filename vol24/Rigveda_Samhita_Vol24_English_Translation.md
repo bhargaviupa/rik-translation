@@ -24380,6 +24380,300 @@ Only by painful means does a living man obtain the wealth which you bestow; but 
 
 That man, even though he is sharp, तिग्मं चन (*tigmaṃ cana*), त्यजः (*tyajaḥ*): this is a name for anger; here a weapon used out of anger is meant. न द्रासत् (*na drāsat*): it does not go contemptibly, that is, it does not injure. Likewise that man, a grievous, heavy sorrow that is hard to remove, does not
 
+### Printed p. 533
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्राशत् । न गच्छति । दे आदित्यास आदित्याः सप्रधः समानप्रथनाः सर्वतः पृथुभूता
+> वा यूयं यस्मा उ यस्मै यजमानाय । उशब्दः पूरणः । शर्म सुखमराध्वं
+> अदत्तं तं न द्राशदिति ॥
+
+##### Gist of the bhāṣya
+
+It does not go. O Ādityas, you who are सप्रधः (*sapradhaḥ*), equally extended, or spread out everywhere: to whatever sacrificer you give happiness, सुखमराध्वं (*sukhamarādhvaṃ*), to that man it does not come; the syllable उ (*u*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्वासः (*āditvāsaḥ*)—O Ādityas
+- सप्रथासः (*saprathāsaḥ*)—you who pervade widely
+- यस्मै (*yasmai*)—to whatever sacrificer
+- तर्मा (*tarmā*)—happiness
+- अराध्यं (*arādhyaṃ*)—you give
+- तं (*taṃ*)—that sacrificer
+- तिग्मं चन (*tigmaṃ cana*)—very sharp
+- त्यजः (*tyajaḥ*)—anger
+- न द्वासत् (*na dvāsat*)—does not approach and injure
+- तं अभि (*taṃ abhi*)—having him in view
+- गुरु (*guru*)—heavy sorrow
+- न (*na*)—does not approach
+- वः (*vaḥ*)—your
+- ऊतॆयः (*ūtèyaḥ*)—protections
+- अनेह सः (*aneha saḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतॆयः (*ūtèyaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are productive of good
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, you who pervade widely, neither sharp anger nor heavy sorrow approaches or injures that sacrificer to whom you give happiness. Your protections are free from sin and productive of good.
+
+##### English translation
+Him fierce wrath touches not, nor heavy (calamity), to whom, Adityas, you have given great happiness ; your aids are void of harm. your aids are true aids.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ष्टे दे॑वा॒ असि॑ ष्मसि॒ युध्यं॑त इव॒ वर्म॑सु ।  
+> यू॒यं म॒हो न॒ एन॑सो यू॒यमर्भा॑दुरुष्यताने॒हसो॑  
+> व ऊ॒तयः॑ सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युष्टे इति । देवाः । अपि । स्मसि । युध्यंतःइव । नर्मसु ।  
+> यूयं । महः । नः । एनसः । यूयं । आर्भात् । उरुष्यत । अनेहसः । वः ।  
+> ऊतॆयः । सुऊतयः । वः । ऊतॆयः ॥ ८ ॥
+
+### Printed p. 534
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा आदित्याः युष्मे युष्मासु वयमपि स्मसि । अपि भवेम । युक्ताभिरपहिताः स्मेत्यर्थः । तत्र दृष्टांतः । युध्यंतः शूरा वर्मसु कवचेषु यथा
+> भवंति तद्वत् । यूयं नोऽस्मान् महो महत एनसः पापादुरुष्यत । रक्षत ।
+> तथा यूयमस्मानर्भादल्पादप्येनस उरुव्यत ॥
+
+##### Gist of the bhāṣya
+
+O gods, O Ādityas, in you, युष्मे (*yuṣme*), may we also be, स्मसि (*smasi*). **NOTE** The illustration is this: as fighting heroes are in their armours, वर्मसु (*varmasu*), so you protect us from great sin; and likewise you protect us even from small sin, अर्भात् (*arbhāt*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O divine Ādityas
+- युध्यंतः (*yudhyaṃtaḥ*)—heroes who fight
+- वर्मसु (*varmasu*)—as they obtain protection in their battle-armours
+- वयं (*vayaṃ*)—we
+- युष्टे (*yuṣṭe*)—in you
+- अपि स्मसि (*api smasi*)—have shelter
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- महः (*mahaḥ*)—great
+- एनसः (*enasaḥ*)—from sin
+- उरुष्यत (*uruṣyata*)—protect
+- यूयं (*yūyaṃ*)—you
+- अर्भात् (*arbhāt*)—protect from small sins also
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are of a beneficial nature
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Ādityas, as heroes who fight obtain protection in their battle-armours, so may we find shelter in you. Protect us from great sin and from small sin. Your protections are free from sin and auspicious.
+
+##### English translation
+Deities, may we abide in you as warriors in their armour; defend us from great evil, defend us from little; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदि॑तिर्न उरुष्य॒त्वदि॑तिः॒ शर्म॑ यच्छतु ।  
+> मा॒ता मि॒त्रस्य॑ रे॒वतो॑ऽर्य॒म्मो वरु॑णस्य चाने॒हसो॑ऽ न  
+> ऊ॒तयः॑ सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ ९ ॥
+
+### Printed p. 535
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदितिः । नः । उरुष्यतु । अदितिः । शर्म । यच्छतु ।  
+> माता । मित्रस्य । रेवतः । अर्यम्नः । वरुणस्य । च । अनेकसः । वः । ऊतयः ।  
+> सुऊतयः । वः । ऊतयः ॥ ९ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मानदितिरखंडनीया देवमातोरुष्यतु । रक्षतु । तथादितिः शर्म
+> सुखं यच्छतु । आदितिर्विशेष्यते । या माता निर्मात्री । कस्य । मित्रस्य रेवतो
+> धनवतोर्यष्टो वरुणस्य च । सा न उरुष्यत्विति ॥
+
+##### Gist of the bhāṣya
+
+May Aditi, the indivisible mother of the gods, protect us; and may Aditi grant us happiness. Aditi is further described: she who is the mother, the maker, of whom? Of Mitra, the wealthy, धनवतोर्यष्टो (*dhanavatoryaṣṭo*), and of Varuṇa. May she protect us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेवतः (*revataḥ*)—of the wealthy
+- मित्रस्य (*mitrasya*)—to Mitra
+- आर्यम्मः (*āryammaḥ*)—to Aryaman
+- वरुणस्य च (*varuṇasya ca*)—and to Varuṇa
+- माता (*mātā*)—the mother
+- अदितिः (*aditiḥ*)—Aditi
+- नः (*naḥ*)—us
+- उरुष्यतु (*uruṣyatu*)—may she protect
+- अदितिः (*aditiḥ*)—Aditi, the mother of the gods
+- शर्म (*śarma*)—happiness
+- यच्छतु (*yacchatu*)—may she give us
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुलूतयः (*sulūtayaḥ*)—are most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+May Aditi, the mother of the wealthy Mitra, of Aryaman and of Varuṇa, protect us. May Aditi, the mother of the gods, give us happiness. O gods, your protections are most excellent, free from sin and auspicious.
+
+##### English translation
+May Aditi defend us, may Aditi grant us happiness, the mother of the wealthy Mitra, Aryaman and Varuna; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्दे॑वाः॒ शर्म॑ शर॒णं यद्भ्॒रुं यद॑नातु॒रं ।  
+> त्रि॒धातु॒ यद्व॑रू॒थ्यं१॒॑ १ तद॒स्मासु॒ वि यं॑तनाने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ न ऊ॒तयः॑ ॥ १० ॥
+
+### Printed p. 536
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । देवाः । शर्म । शरणं । यत् । भद्रं । यत् । अनातुरं ।  
+> त्रिधातु । यत् । वरूध्यं । तत् । आस्मासु । वि । यंतन । आनेहसः । वः । ऊशयः ।  
+> सुऊतयः । वः । ऊतॆयः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा आदित्याः यच्छर्म सुखं शरणं शरणीयं । यद्भद्रं सर्वैर्भजनीयं । यदनातुरं रोगरहितं । यत्रिधातु त्रिगुणं । यद्वरूढ्यं ! वरूथं
+> गृहं । तवर्हं । तदुक्तगुणकं शर्मास्मासु वि यंतन । पियच्छत ॥
+
+##### Gist of the bhāṣya
+
+O gods, O Ādityas: whatever happiness, शर्म (*śarma*), is a refuge, शरणं (*śaraṇaṃ*), to be taken as a refuge; whatever is auspicious, भद्रं (*bhadraṃ*), to be shared in by all; whatever is free from disease, अनातुरं (*anāturaṃ*); whatever is threefold, त्रिधातु (*tridhātu*), having three qualities; whatever is वरूथ्यं (*varūthyaṃ*), for वरूथं (*varūthaṃ*) is a house, and so fit for a house: that happiness having the stated qualities, bestow upon us, वि यंतन (*vi yaṃtana*), give it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O Ādityas
+- यत् (*yat*)—which
+- शर्म (*śarma*)—happiness
+- शरणं (*śaraṇaṃ*)—is a refuge for us
+- यत् (*yat*)—which
+- भद्रं (*bhadraṃ*)—is auspicious
+- यत् (*yat*)—which
+- अनातुरं (*anāturaṃ*)—is free from disease
+- त्रिधातु (*tridhātu*)—which is endowed with the three qualities
+- यत् (*yat*)—which
+- वरूथ्यं (*varūthyaṃ*)—protects like a house
+- तत् (*tat*)—such
+- अस्मासु (*asmāsu*)—to us
+- वि यंतन (*vi yaṃtana*)—give
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, give us such happiness as is a refuge for us, as is auspicious, as is free from disease, as is endowed with the three qualities, and as protects like a house. Your protections are free from sin. Your protections are most excellent.
+
+##### English translation
+Grant to us, deities, that happiness which is a refuge, auspicious and free from sickness, which is threefold and fit for a (secure) shelter ; your aids are void of harm, your aids are true aids.
+
+### Printed p. 537
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदि॑त्या॒ अव॒ हि ख्यताधि॒ कूला॑दिव॒ स्पशः॑ ।  
+> सु॒ती॒र्थमर्व॑तो य॒थानु॑ नो नेषथा सु॒गम॑ने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्याः । आप । हि । ख्यत । अधि । कूलात् इव । स्पशः ।  
+> गुतिर्थं । आर्वतः । यथा । अनु । नः । नेषथ । सुगं । अनेहसः । वः । ऊतयः ।  
+> सूऊतयः । वः । ऊतयः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः यूयमव हि ख्यत । अव हि पश्यताधस्तात्स्थितानस्मान् । तत्र
+> दृष्टांतः । कूलादधि कूले स्पशः स्पष्टाः । स्थिता इत्यर्थः । यथा कूलस्थः पुरुषोऽधोगतमुदकं जिज्ञासुस्तत्रस्थं मनुष्यं वा विलोकयितुमवाक्ष्यति तद्वत् ।
+> तथा कृत्वा सुतीर्थं शोभनावतारप्रदेशमर्वतोऽश्वान्यथा प्रापयंत्यश्वररक्षकाः
+> तद्वन्नोऽस्मान् सुगं सुपंथानमनु नेषथ । अनुनयथ ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, look down upon us, अव हि ख्यत (*ava hi khyata*): look at us who stand below. The illustration is this: कूलादधि (*kūlādadhi*), upon the bank, those who stand there, स्पशः (*spaśaḥ*): as a man standing on the bank, wishing to know the water below, or wishing to see a man there, looks down, so do you. And as keepers of horses lead their horses to a good ford, सुतीर्थं (*sutīrthaṃ*), a place of easy descent, so lead us, अनु नेषथ (*anu neṣatha*), along a good road, सुगं (*sugaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- कूलात् अधि स्पशः (*kūlāt adhi spaśaḥ*)—as a man on the bank looks down kindly at a man who has fallen into the water
+- अव हि ख्यत (*ava hi khyata*)—look down from the sky upon us who are on the earth
+- यथा (*yathā*)—in what manner
+- अर्वतः (*arvataḥ*)—horses
+- सुतीर्थं (*sutīrthaṃ*)—as lords of horses take them to a place with a good bank
+- नः (*naḥ*)—us
+- सुगं (*sugaṃ*)—to the good road
+- अनु नेषथ (*anu neṣatha*)—lead
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेकसः (*anekasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, as a man on the bank looks down kindly at a man who has fallen into the water, look down from the sky upon us who are on the earth. As lords of horses
+
+### Printed p. 538
+
+take their horses to a place with a good bank, so lead us also to the good road. Your protections are free from sin and auspicious.
+
+##### English translation
+Adityas, look down upon us as those who look from the shore ; as (men lead) their horses to a secure Ghat, so conduct us along a good path ; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नेह भ॒द्रं र॑क्ष॒स्विने॒ नाव॒य्य नोप॒या उ॒त ।  
+> गवे॑ च भ॒द्रं धे॒नवे॑ वी॒राय॑ च श्रवस्य॒ते॑ऽने॒हसो॑ न  
+> ऊ॒तयः॑ सु॒ऊतयो॑ न ऊ॒तयः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । इह । भद्रं । रक्षस्विने । न । अव्यय्य । न । उपय्य । उत ।  
+> गवे । च । भद्रं । धेनवे । वीराय । च । श्रवस्यते । अनेहसः । वः । ऊतयः ।  
+> सुऊतयः । वः । ऊतयः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः इह भूमौ भद्रं कल्याणं सुखं रक्षस्विने । रक्षो बलं । बलवतेऽस्मद्वेष्टे न भवत्विति शेषः । अवया आस्मान् हिंसितुमवगच्छते न भवतु भद्रं ।
+> तथोपया उपगच्छते न भवतु । तर्हि कस्य भवत्विति उच्यते । गवे च भद्रं युष्मदीयं भवतु । चशब्दो वक्ष्यमाणधेन्वाद्यपेक्षः । किंच धेनवे नवप्रसूतिकायै
+> भद्रं भवतु । वीरायास्मत्पुत्रादिकाय भद्रं भवतु । कीदृशाय वीराय । श्रवस्यतेऽन्नमिच्छते । अथवोत्तरार्धेऽपि नेत्यनुवर्तते । अस द्विरोधिनो गवादिकाय
+> भद्रं न भवत्विति तस्यार्थः ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, here on earth let no welfare, भद्रं (*bhadraṃ*), that is, happiness, be for the strong one, रक्षस्विने (*rakṣasvine*) (रक्षो (*rakṣo*) is strength), our hater who is powerful; let there be none for him who comes, अवया (*avayā*), to injure us, nor for him who approaches. For whom then? It is said: for the cow let your welfare be; the word च (*ca*) looks to the milch cow and the others still to be mentioned. Further, for the milch cow that has newly calved let there be welfare; for the hero, our son and the rest, let there be welfare. For what kind of hero? For him who desires food, श्रवस्यते (*śravasyate*). Or else the word न (*na*) continues also in the latter half: let there be no welfare for the cows and the rest of our enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इह (*iha*)—on this earth
+- रक्षस्विने (*rakṣasvine*)—to our powerful enemy
+- भद्रं (*bhadraṃ*)—welfare
+- न (*na*)—may not come
+- अवय्यॆ (*avayyè*)—also to those who wish to injure us
+
 ---
 
-**Progress note:** Done through printed p. 532. Mandala 8 sukta 47 rks 1-7
+**Progress note:** Done through printed p. 538. Mandala 8 sukta 47 rks 7-12
