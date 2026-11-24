@@ -33,27 +33,44 @@ def args():
         else: pos.append(a[i]); i += 1
     return pos, kw
 def render(vol, pdf, first, last, dpi):
-    d = os.path.join(ROOT, f'vol{vol}', 'work', 'scan_pilot'); os.makedirs(d, exist_ok=True)
-    subprocess.run(['pdftoppm', '-r', str(dpi), '-f', str(first), '-l', str(last), '-jpeg', '-jpegopt', 'quality=85', pdf, os.path.join(d, 'p')], check=True)
-    return sorted(glob.glob(os.path.join(d, 'p-*.jpg')))
-def pageno(f): return int(re.search(r'p-0*(\d+)\.jpg$', f).group(1))
-def content(f): return [{'type': 'image', 'source': {'type': 'base64', 'media_type': 'image/jpeg', 'data': base64.b64encode(open(f, 'rb').read()).decode()}}, {'type': 'text', 'text': 'Transcribe this page.'}]
+    """Each page is rendered at the width of its scan (the PDF page size of some scans is wrong, so -r is not used), cut at the emptiest line near the middle into a top and a
+    bottom half, and each half is shrunk to 1568 px wide (the API shrinks anything larger, which would blur the small Kannada print). Returns [(page, [top.jpg, bottom.jpg])]."""
+    import numpy as np
+    from PIL import Image
+    d = os.path.join(ROOT, f'vol{vol}', 'work', 'scan_pilot'); os.makedirs(d, exist_ok=True); out = []
+    for pg in range(first, last + 1):
+        base = os.path.join(d, f'full{pg:04d}')
+        subprocess.run(['pdftoppm', '-f', str(pg), '-l', str(pg), '-scale-to-x', str(dpi * 10 if dpi > 300 else 2304), '-scale-to-y', '-1', '-gray', '-png', pdf, base], check=True)
+        f = glob.glob(base + '*.png')[0]; im = Image.open(f).convert('L'); w, h = im.size
+        ink = (np.asarray(im) < 128).sum(axis=1).astype(float); k = max(5, h // 230); sm = np.convolve(ink, np.ones(k) / k, mode='same')
+        lo, hi = int(h * 0.42), int(h * 0.58); cut = lo + int(np.argmin(sm[lo:hi]))
+        halves = []
+        for name, box in (('a', (0, 0, w, cut)), ('b', (0, cut, w, h))):
+            part = im.crop(box); part = part.resize((1568, max(1, round(part.size[1] * 1568 / part.size[0]))), Image.LANCZOS)
+            fn = os.path.join(d, f'p-{pg:04d}{name}.jpg'); part.save(fn, quality=88); halves.append(fn)
+        os.remove(f); out.append((pg, halves))
+    return out
+def content(halves):
+    c = [{'type': 'text', 'text': 'The next two images are the TOP half and the BOTTOM half of ONE printed page (cut at an empty line between two lines of print). Transcribe the whole page once, top to bottom.'}]
+    for f in halves: c.append({'type': 'image', 'source': {'type': 'base64', 'media_type': 'image/jpeg', 'data': base64.b64encode(open(f, 'rb').read()).decode()}})
+    c.append({'type': 'text', 'text': 'Transcribe this page.'}); return c
+
 def plan_or_run(mode, vol, pdf, first, last, kw):
     import anthropic
     c = anthropic.Anthropic(api_key=key()); files = render(vol, pdf, first, last, kw['dpi']); pin, pout = PRICES[kw['model']]
     n_in = 0
-    for f in files:
-        n_in += c.messages.count_tokens(model=kw['model'], system=SYSTEM, messages=[{'role': 'user', 'content': content(f)}]).input_tokens
+    for pg, hv in files:
+        n_in += c.messages.count_tokens(model=kw['model'], system=SYSTEM, messages=[{'role': 'user', 'content': content(hv)}]).input_tokens
     est_out = 1800 * len(files)    # a guess: Kannada text is token-heavy; the run measures the real figure
     est = n_in * pin / 1e6 + est_out * pout / 1e6
-    print(f'{len(files)} pages at {kw["dpi"]} dpi: {n_in} input tokens (counted), about {est_out} output tokens (guess) → estimated ${est:.2f} (model {kw["model"]}, list price, no batch discount)')
+    print(f'{len(files)} pages (two halves each): {n_in} input tokens (counted), about {est_out} output tokens (guess) → estimated ${est:.2f} (model {kw["model"]}, list price, no batch discount)')
     if mode == 'plan': return
     assert est <= kw['max_usd'], f'estimate ${est:.2f} is above --max-usd {kw["max_usd"]}'
-    out = []; tin = tout = 0; d = os.path.dirname(files[0])
-    for f in files:
-        r = c.messages.create(model=kw['model'], max_tokens=6000, system=SYSTEM, messages=[{'role': 'user', 'content': content(f)}])
+    out = []; tin = tout = 0; d = os.path.dirname(files[0][1][0])
+    for pg, hv in files:
+        r = c.messages.create(model=kw['model'], max_tokens=6000, system=SYSTEM, messages=[{'role': 'user', 'content': content(hv)}])
         t = ''.join(b.text for b in r.content if b.type == 'text'); tin += r.usage.input_tokens; tout += r.usage.output_tokens
-        out.append(f'<!-- PDF {pageno(f)} -->\n{t.strip()}\n'); print('page', pageno(f), r.usage.input_tokens, r.usage.output_tokens, flush=True)
+        out.append(f'<!-- PDF {pg} -->\n{t.strip()}\n'); print('page', pg, r.usage.input_tokens, r.usage.output_tokens, flush=True)
     open(os.path.join(d, 'pages.md'), 'w', encoding='utf8').write('\n'.join(out))
     cost = tin * pin / 1e6 + tout * pout / 1e6
     log = os.path.join(ROOT, f'vol{vol}', 'parts', 'scan_pilot.md'); os.makedirs(os.path.dirname(log), exist_ok=True)
