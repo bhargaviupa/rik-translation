@@ -16,3 +16,4 @@
 - 2026-11-24 PDF 736, 738, 740: the agent could not read the head sūkta digits and wrote ೧೮[?] from the heading of the next sūkta (inference, not glyph). To be read from the images at the second pass.
 - 2026-11-24 PDF 827: the agent normalised ಸೋಮು to ಸೋಮ by sed (print form lost); pp. 826–831 may have lost the print's ಮು-forms (to be compared with the images at the second pass).
 - 2026-11-24 PDF 850–855: the agent says it wrote the Kannada from a quick visual reading, not letter by letter (0 [?] on four pages); least reliable batch, first in the second pass together with 442–447.
+- 2026-11-24 PDF 856: head sūkta ೬೭[?] changed to ೩೭[?] after looking at the image (p-0856a.jpg; the glyph reads ೩೭, as the previous sūkta numbers lead to).
