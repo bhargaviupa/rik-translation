@@ -142,3 +142,62 @@
 | 36 | `— lovely, desirable;` → `— worthy of thought (magnificent);` | SECOND-PASS S14: Kannada ಮೇನೇ—ಮನನೀಯವಾದ (ಭವ್ಯವಾದ) |
 | 37 | `in the lovely and most excellent sky` → `in the magnificent and most excellent sky` | SECOND-PASS S14: Kannada ಭವ್ಯವಾದ ಮತ್ತು ಉತ್ಕೃಷ್ಟವಾದ ಆಕಾಶ |
 | 59 | `Desiring you, Nodhas` → `With you in view, Nodhas` | SECOND-PASS S14: Kannada ನಿನ್ನನ್ನುದ್ದೇಶಿಸಿ (addressing/with reference to you), not "desiring" |
+
+### 2026-11-24 second pass, batch e62-91.tsv
+| page | old → new | why |
+|---|---|---|
+| 63 | `which make enemies dry up, or tremble` → `which frighten or make enemies tremble` | SECOND-PASS S14: Kannada ಶತ್ರುಗಳನ್ನು ಹೆದರಿಸುವ ಅಥವಾ ನಡುಗುವಂತೆ ಮಾಡುವ (frighten or make tremble); "dry up" is not in the Kannada |
+| 63 | `trembled as the rays of the sun make things tremble` → `trembled as the rays of the sun tremble` | SECOND-PASS S14: Kannada ಸೂರ್ಯನ ಕಿರಣಗಳು ಕಂಪಿಸುವಂತೆ, ಕಂಪಿಸಿದುವು (the rays themselves tremble) |
+| 64 | `the worlds, earth and sky` → `the worlds, earth and atmosphere` | SECOND-PASS S14: Kannada ಭೂಮ್ಯಂತರಿಕ್ಷಗಳು (earth and antarikṣa, atmosphere) |
+| 65 | ` (Pā. Sū. 7-1-100, as read)` → `` | SECOND-PASS S2: Kannada prints no number for ṛta id dhātoḥ; number removed (no number where the print has none) |
+| 65 | ` (Pā. Sū. 8-2-5, as read)` → `` | SECOND-PASS S2: Kannada prints no number for ekādeśa udāttenodāttaḥ; number removed (no number where the print has none) |
+| 68 | `aruṇo gāva uṣasaḥ` → `aruṇyo gāva uṣasaḥ` | SECOND-PASS S7: Kannada ಅರುಣ್ಯೋ ಗಾವ ಉಷಸಃ; letters changed: o to yo (aruṇyo) |
+| 68 | ` (Pā. Sū. 6-1-125, as read)` → `` | SECOND-PASS S2: Kannada prints no number for plutapragṛhyā aci nityam; number removed (no number where the print has none) |
+| 69 | ` (Pā. Sū. 3-4-6, as read)` → `` | SECOND-PASS S2: Kannada prints no number for chandasi luṅlaṅliṭaḥ; number removed (no number where the print has none) |
+| 69 | `(Nirukta [2-12], as read)` → `(Nirukta 7-17)` | SECOND-PASS S1: Kannada ಹರ್ಯತಿಃ ಪ್ರೇಪ್ಸಾಕರ್ಮಾ (ನಿ. ೭-೧೭); Kannada number replaces the doubtful form (the bhāṣya and Special Topics also print 7-17) |
+| 69 | `by "eṅhrasvāt sambuddheḥ" the *su* drops, because the stem ends in a vowel` → `the *su* drops, because it follows a stem ending in e/o/ai/au` | SECOND-PASS S16: Kannada ಸಂಬುದ್ಧಿಯಲ್ಲಿ ಹ್ರಸ್ವಸ್ಯ ಗುಣಃ ... ಏಜಂತದ ಪರದಲ್ಲಿರುವುದರಿಂದ ಸುಲೋಪ (follows an ejanta); the sūtra name eṅhrasvāt sambuddheḥ and "stem ends in a vowel" are no |
+| 69 | `since [*sip*] is not *s*-marked` → `since it is not *p*-marked` | SECOND-PASS S13: Kannada ಅಪಿತ್ತಾದುದರಿಂದ ಇದಕ್ಕೆ ಜಿದ್ವದ್ಭಾವ (apit, not p-marked; the vikaraṇa), not "sip" or "s-marked" |
+| 69 | ` (Pā. Sū. 8-4-1)` → `` | SECOND-PASS S2: Kannada prints no number for raṣābhyāṃ no ṇaḥ samānapade; number removed (no number where the print has none) |
+| 72 | `bestows the power of intellect on those who have little intelligence` → `bestows that measure of the power of intellect on those who have intelligence` | SECOND-PASS S14: Kannada ಬುದ್ಧಿಯುಳ್ಳವರಿಗೆ ಅಷ್ಟುಮಟ್ಟಿನ ಬುದ್ಧಿ ಶಕ್ತಿಯನ್ನು ಅನುಗ್ರಹಿಸುವವನು (to those who have intelligence, that measure of intellectual power); "little" is not in t |
+| 72 | ` (the root *kṣi* is [here] in the sense of lordship)` → `` | SECOND-PASS S14: Kannada puts the gloss (ಕ್ಷಿ ಎಂಬ ಧಾತುವು ಐಶ್ವರ್ಯಾರ್ಥದಲ್ಲಿದೆ) right after ಕ್ಷಯತಿರೈಶ್ವರ್ಯಕರ್ಮಾ, before ತೇಷಾಂ ಈಷ್ಟೇ; not after the second derivation (part 1 of 2: r |
+| 72 | `"*Kṣayati* has the sense of lordship":` → `"*Kṣayati* has the sense of lordship" (the root *kṣi* is in the sense of lordship):` | SECOND-PASS S14: Same repair, part 2 of 2: gloss placed where the Kannada has it |
+| 72 | `(Uṇ. Sū. 1-[38], as read)` → `(Uṇ. Sū. 1-38)` | SECOND-PASS S1: Kannada ಉ. ಸೂ. ೧-೩೮; Kannada number replaces the doubtful form |
+| 72 | ` (Pā. Sū. 5-1-5, as read)` → `` | SECOND-PASS S2: Kannada prints no number for tasmai hitam; number removed (no number where the print has none) |
+| 72 | ` (Pā. Sū. 6-1-213, as read)` → `` | SECOND-PASS S2: Kannada prints no number for yato nāvaḥ; number removed (no number where the print has none) |
+| 75 | `munificient [sic]` → `munificent` | SECOND-PASS S13: Kannada English translation prints "munificent hero" (no misprint); the [sic] was unfounded |
+| 75 | `in the world, a heap of wealth useful to everyone` → `in the world, wealth useful to almost everyone` | SECOND-PASS S16: Kannada ಲೋಕದಲ್ಲಿ ಬಹಳಮಟ್ಟಿಗೆ ಎಲ್ಲರಿಗೂ ಉಪಯೋಗಕರವಾಗಿರುವ ದ್ರವ್ಯವು; "heap" is not in the Kannada |
+| 76 | `kāmābhivarṣakamanaske` → `kāmābhivarṣakamanaska` | SECOND-PASS S7: Kannada ಕಾಮಾಭಿವರ್ಷಕಮನಸ್ಕ; letters changed: final -e removed |
+| 76 | `for the unjoined *sic*` → `for the unjoined *sip*` | SECOND-PASS S13: Kannada ಅಪೃಕ್ತವಾದ ಸಿಪ್ಪಿಗೆ ಈಡಾಗಮ (sip) |
+| 76 | `the root's *t* [nasal] is Vedic` → `the root's *t* is Vedic` | SECOND-PASS S16: Kannada ಧಾತುವಿನ ತಕಾರಕ್ಕೆ ಛಾಂದಸವಾಗಿ ಲೋಪ; "nasal" is not in the Kannada |
+| 77 | `the accent of the first member of a *kṛdanta* by "gatikārakopapadāt kṛt"` → `the natural accent of the final member, a *kṛdanta*` | SECOND-PASS S14: Kannada ಸಮಾಸವಾದಾಗ ಕೃದುತ್ತರಪದ ಪ್ರಕೃತಿಸ್ವರ ಬರುತ್ತದೆ (accent of the kṛt-ending last member); no sūtra named; "first member" wrong |
+| 80 | `"ānudāttau suppitau" (Pā. Sū. 3-1-4, as read)` → `"anudāttau suppitau"` | SECOND-PASS S7: Kannada ಅನುದಾತ್ತೌ ಸುಪ್ಪಿತೌ ಎಂಬುದರಿಂದ (no number; first vowel short); letters changed: ā to a; number removed |
+| 80 | ` (Pā. Sū. 3-1-26, as read)` → `` | SECOND-PASS S2: Kannada prints no number for hetumati ca; number removed (no number where the print has none) |
+| 82 | `men praise you, as helper` → `men, as seekers of help, praise you` | SECOND-PASS S14: Kannada ಮನುಷ್ಯರು ನಿನ್ನನ್ನು ಸಹಾಯಾರ್ಥಿಗಳಾಗಿ ಸ್ತುತಿಸುತ್ತಾರೆ (men are the help-seekers, not Indra) |
+| 82 | `puruṣāṇāṃ sātilābho 'smin | arṇasa udakasya sātilābho yasmin` → `puruṣāṇāṃ sātir lābho yasmin | arṇasa udakasya sātir lābho yasmin` | SECOND-PASS S7: Kannada ಪುರುಷಾಣಾಂ ಸಾತಿರ್ಲಾಭೋ ಯಸ್ಮಿನ್ । ಅರ್ಣಸ ಉದಕಸ್ಯ ಸಾತಿರ್ಲಾಭೋ ಯಸ್ಮಿನ್; letters changed: sātilābho (both) to sātir lābho; first yasmin for 'smin |
+| 82 | ` from [their] strength of arms` → `` | SECOND-PASS S16: Kannada ಯೋದ್ಧೃಭಿಃ ಪ್ರಾಪ್ತವ್ಯಾ ಭವತಿ: protection obtained by warriors; "from strength of arms" is not in the Kannada |
+| 83 | ` (Pā. Sū. 7-3-84, as read)` → `` | SECOND-PASS S2: Kannada prints no number for sārvadhātukārdhadhātukayoḥ; number removed (no number where the print has none) |
+| 83 | ` (Pā. Sū. 3-3-94, as read)` → `` | SECOND-PASS S2: Kannada prints no number for striyāṃ ktin; number removed (no number where the print has none) |
+| 83 | `"janasanakhanāṃ sañjhaloḥ"` → `"janasanakhanāṃ"` | SECOND-PASS S16: Kannada ಜನಸನಖನಾಂ (ಪಾ. ಸೂ. ೬-೪-೪೨): sūtra quoted only so far; the added sañjhaloḥ is not in the Kannada |
+| 83 | `(Uṇ. Sū. 4-[198?], as read)` → `(Uṇ. Sū. 4-636)` | SECOND-PASS S1: Kannada ಉಕೇ ನುಟ್ ಚ (ಉ. ಸೂ. ೪-೬೩೬); Kannada number replaces the doubtful form |
+| 83 | `"*Mīḷhaṃ, mīḷhuṃ*"` → `"*Mīḷhuṃ, mīḷhaṃ*"` | SECOND-PASS S7: Kannada ಮೀಳ್ಹುಂ, ಮೀಳ್ಹಂ (u-form first); order restored |
+| 85 | `**कः** — you made [yours/his]` → `**कः** — you made` | SECOND-PASS S16: Kannada ಕಃ—ಉಂಟುಮಾಡಿದೆ; "[yours/his]" is not in the Kannada |
+| 86 | ` [as read; Pā. Sū. 7-1-22]` → `` | SECOND-PASS S2: Kannada prints no number for ṣaḍbhyo luk; number removed (no number where the print has none) |
+| 86 | ` (Pā. Sū. 6-1-9)` → `` | SECOND-PASS S2: Kannada prints no number for sanyaṅoḥ; number removed (no number where the print has none) |
+| 87 | `(Ni. [2-24], as read)` → `(Ni. 2-24)` | SECOND-PASS S1: Kannada ನಿ. ೨-೨೪ (bracketed doubtful form replaced) |
+| 87 | ` by "gatikārakopapadāt kṛt"` → `` | SECOND-PASS S2: Kannada ಸಮಾಸದಲ್ಲಿ ಕೃದುತ್ತರಪದಪ್ರಕೃತಿಸ್ವರ ಬರುತ್ತದೆ names no sūtra; the sūtra name is not in the Kannada |
+| 87 | `"when it is *vark*"` → `"when it is *varj*"` | SECOND-PASS S7: Kannada ವರ್ಜ್ ಎಂದಿರುವಾಗ ಚೋಃ ಕುಃ ... ವರ್ಕ್ ಎಂದು ರೂಪ: the form before the change is varj; letters changed: k to j |
+| 87 | ` (Pā. Sū. 8-2-8, as read)` → `` | SECOND-PASS S2: Kannada prints no number for na ṅi sambuddhyoḥ; number removed (no number where the print has none) |
+| 89 | `**क्षरध्यै** — to flow` → `**क्षरध्यै** — to spread over` | SECOND-PASS S14: Kannada ಕ್ಷರಧ್ಯೈ—ವ್ಯಾಪಿಸಲು (to pervade, spread over); bhāvārtha ವ್ಯಾಪಿಸುವಂತೆ |
+| 89 | `(Ni. 2-24 [?], as read)` → `(Ni. 2-24)` | SECOND-PASS S1: Kannada ನಿ. ೨-೨೪; Kannada number replaces the doubtful form |
+| 89 | `(Ni. 3-9 [?], as read)` → `(Ni. 3-9)` | SECOND-PASS S1: Kannada ನಿ ೩-೯; Kannada number replaces the doubtful form |
+| 90 | `as you cause streams of water to increase` → `as you cause waters to increase` | SECOND-PASS S16: Kannada ನೀರುಗಳನ್ನು ವೃದ್ಧಿಮಾಡಿ (waters); "streams" is not in the Kannada |
+| 90 | `"āpo 'ptṛntṛc…" [as read; Pā. Sū. 6-4-11]` → `"aptṛntṛc…" (Pā. Sū. 6-4-11)` | SECOND-PASS S7: Kannada ಅಪ್‌ತೃನ್‌ತೃಚ್-(ಪಾ. ಸೂ. ೬-೪-೧೧) and bhāṣya ಅಪ್ತೃನ್: letters changed: āpo to a (aptṛntṛc); number kept from the Kannada |
+| 90 | ` (Pā. Sū. 3-1-48)` → `` | SECOND-PASS S2: Kannada prints no number for ṇiśridrusrubhyaḥ kartari caṅ; number removed (no number where the print has none) |
+| 90 | ` (Pā. Sū. 6-4-51)` → `` | SECOND-PASS S2: Kannada prints no number for ṇer aniṭi; number removed (no number where the print has none) |
+| 90 | ` (Pā. Sū. 6-1-11)` → `` | SECOND-PASS S2: Kannada prints no number for caṅi; number removed (no number where the print has none) |
+| 90 | ` (Pā. Sū. 7-4-1)` → `` | SECOND-PASS S2: Kannada prints no number for ṇau caṅy upadhāyā hrasvaḥ; number removed (no number where the print has none) |
+| 90 | ` (Pā. Sū. 7-4-93)` → `` | SECOND-PASS S2: Kannada prints no number for sanvallaghuni caṅ pare nagloope; number removed (no number where the print has none) |
+| 90 | ` (Pā. Sū. 7-4-94)` → `` | SECOND-PASS S2: Kannada prints no number for dīrgho laghoḥ; number removed (no number where the print has none) |
+| 91 | `by "śvan-yuvan-maghavan…" [as read: "śvann-yukṣan-pūṣan", Uṇ. Sū. 1-[158], doubtful, ?]` → `by "śvannukṣan pūṣan" (Uṇ. Sū. 1-157)` | SECOND-PASS S1: Kannada ಶ್ವನ್ನುಕ್ಷನ್ ಪೂಷನ್—(ಉ.ಸೂ. ೧-೧೫೭); Kannada number and wording replace the doubtful form; letters: yukṣan to ukṣan |
+| 91 | ` (Pā. Sū. 8-3-24, as read)` → `` | SECOND-PASS S2: Kannada prints no number for naś cāpadāntasya jhali; number removed (no number where the print has none) |
+| 91 | `(Kāśikā on 6-4-141, as read)` → `(Kā. 6-4-141-1)` | SECOND-PASS S1: Kannada ಕಾ. ೬-೪-೧೪೧-೧ (Kannada reference as printed) |
