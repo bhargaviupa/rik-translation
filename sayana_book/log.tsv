@@ -9,3 +9,4 @@ sūkta	agent model	check	NOTEs	second reading by the agent	tokens
 REVIEW 1.4	sonnet (independent reader)	VERIFIED (form)	43 units read; 11 changes in 10 units: 3 wrong sense, 2 wrong attachment, 1 dropped, 1 addition, 2 citation, 1 wording		128989
 0.1 (bhūmikā part 1)	sonnet	VERIFIED (form)	37 (OCR)	partly (agent: while composing, no separate pass)	170240
 REVIEW 1.2	sonnet (independent reader)	VERIFIED (form)	45 units read; 15 changes: 4 wrong sense, 1 wrong attachment, 3 dropped, 2 additions removed, 5 wording		142858
+VERIFY vs Vol 1: 0.2	sonnet	39 rows covering all 63 units: 32 consistent, 5 differs in detail, 2 contradicts (both were our errors, now fixed: verify/M0_S002_fixes.tsv), 0 not found			136848
