@@ -31109,9 +31109,6 @@ When riches are lodged with enemies, the praisers praise Indra and call upon tha
 > तमिच्चौ॒त्नैरार्यं॑ति॒ तं कृ॒तेभि॑श्चर्ष॒णयः॑ ।
 
 ### Printed p. 740
-#### Ṛk 6
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > ए॒ष इंद्रो॑ वरिव॒स्कृत् ॥ ६ ॥
 
