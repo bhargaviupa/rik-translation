@@ -24649,6 +24649,259 @@ O Aśvins, this gharma (the Pravargya) is moistened (परि पिच्य�
 
 O Aśvin deities, possessors of wealth of food, directed to you, this Soma in the form of the Pravargya
 
+### Printed p. 595
+The Soma is poured out together with praise. O Aśvins, rich in food, this Soma juice by which you resolve to slay Vṛtra is full of sweetness.
+
+##### English translation
+This oblation is poured out, Aswins, to you with praise; this sweet-savoured Soma is offered to you, who are affluent with food, (animated) by which you meditate (the destruction of) the foe,
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒प्सु यद्वन॒स्पतौ॒ यदोष॑धीषु पुरुदंससा  ॒
+> कृतं ।  
+> तेन॑ माविष्टमश्विना ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अप्ससु । यत् । वनस्सतौ । यत् । ओषधीषु । पुरुदंससा ।  
+> कृतं ।  
+> तेन । मा । अविष्टं । अश्विना ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुदंससा बहुकर्माणावश्विन् अप्पूदकेषु यद्वेषजं कृतं युवामकार्ष्टं ॥ करोतेर्लुज मंत्रे घसेत्यादिना चेर्लुक् ॥ तथा वनस्पत् । वनानां
+> पतिर्वनस्पतिः ॥ पारस्करादित्वात्तुट् । उभे वनस्पत्यादिश्विति पूर्वोत्तरपदयोर्युगपत्रकृतिस्वरत्वं । जातौ चेदमेकवचनं ॥ नवतिषु वृक्षेषु यच्च भेषजं
+> युवामकुरुतं । ओषधीषु । ओषः पाक आसु धीयत इत्योषधयो व्रीह्यादयः ॥
+> कर्मण्यधिकरणे चेति दधातेरधिकरणे किप्रत्ययः । दासीभारादिषु पठितत्वात्तूर्वपदप्रकृतिस्वरत्वं । ओषधेश विभक्तावप्रथमायामिति दीर्घः ॥ व्रीह्यादिष्टोषधीषु च
+> यद्वेषजं कृतं युवामकार्ष्टं । हे अश्विनाश्विन् तेन सर्वेण भेषजेन मा
+> मामविस्टं । रक्षतं ॥ अवतेर्लोटि सिब्बहुलमिति बहुलग्रहणात्सिप् । तत इट् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins as पुरुदंससा (*purudaṃsasā*), "of many works". The healing remedy that you have made in the waters, and likewise in वनस्पत् (*vanaspat*) (the lord of forests, that is, trees), and in the ओषधीषु (*oṣadhīṣu*), which are rice, barley and other plants in which the ripening (ओषः (*oṣaḥ*) ) is placed — with all that remedy protect me, मा (*mā*). The verb अविष्टं (*aviṣṭaṃ*) means "protect".
+
+### Printed p. 596
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुदंससा (*purudaṃsasā*)—possessing works of many kinds
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अप्सु (*apsu*)—in the waters
+- यत् (*yat*)—which remedy
+- कृतं (*kṛtaṃ*)—you have produced
+- वनस्पतौ (*vanaspatau*)—in trees and the like
+- यत् (*yat*)—which remedies you have placed
+- ओषधीषु (*oṣadhīṣu*)—in herbs (roots)
+- यत् (*yat*)—which remedies you have applied
+- तेन (*tena*)—with all such remedies
+- मा (*mā*)—me
+- अविष्टं (*aviṣṭaṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities of many kinds of works, protect me with all the remedies that you have produced in the waters, and that you have placed in trees and the like and in herbs.
+
+##### English translation
+Doers of many deeds, Aswins, preserve me with that (healing virtue) deposited (by you) in the waters, in the trees, in the herbs.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्ना॑सत्या भुर॒ण्णथो॒ यद्वा॑ देव भिष॒ज्यथः॑ ।  
+> अ॒यं वां॑ व॒त्सो म॒तिभि॒र्न विं॑धते ह॒विष्मं॑तं॒ हि  ॑
+> गच्छथः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । नासत्या । चुरण्यथः । यत् । वा । देवा : भिषज्यथः ।  
+> अयं । नां । वत्सः । मतिभिः । न । विंधते । हविष्मंतं । हि । गच्छतः ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या सत्यस्वभावावश्विनौ यद्या युवां भुरण्यथः सर्वं जगत्पोषयथः ॥ भुरण् धारणपोषणयोः । कंड्वादिः ॥ हे देवा दानादिगुणयुक्तावश्विनौ ॥
+> छांदसः साहितिको ह्रस्वः ॥ यद्वा । यौ च युवां भिषज्यथः सर्वस्य प्राणिजातस्य
+
+**NOTE**
+
+> भैषज्यं रोगोपशमनं कुरुथः ॥ भिषज् चिकित्सायां। अयमपि कंड्वादिः॥ तौ वां
+> युवामयं वत्सः स्तोता मतिभिर्मननीयैः केवलैः स्तोत्रॆर्न विंधते ।
+> न विंदते । न लभते ॥ वर्णविकारश्चांदसः ॥ कुत इति चेत् उच्यते । हविष्मंतं
+> हविर्भियुक्तं स्तोतारं हि युवां गच्छथः । तस्माद्युवां हविर्भियुक्तैः स्तोत्रैः
+> प्रसीदथ इति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, Aśvins of true nature, whether you nourish the whole world — the root भुरण् (*bhuraṇ*) is in the sense of holding and nourishing, and belongs to the Kaṇḍvādi class — O Devas, endowed with the qualities of generosity and the like (the short vowel is Vedic); or else you who work a cure, relieving the disease of every living being. (The text continues on the next page.)
+
+### Printed p. 597
+
+##### Gist of the bhāṣya
+
+(continued) The root भिषज् (*bhiṣaj*) is in the sense of treating, and is also Kaṇḍvādi. This Vatsa, the praiser, does not obtain you by mere thoughtful praises, since you go to the praiser who has oblations. So the sense is that you are pleased with praises accompanied by oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—endowed with generosity and other qualities
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- यत् (*yat*)—you who
+- भुरण्यथः (*bhuraṇyathaḥ*)—nourish the whole world
+- यद्वा (*yadvā*)—or
+- भिषज्यथः (*bhiṣajyathaḥ*)—cure all the world's disease with remedies
+- (तौ) वां (*(tau) vāṃ*)—such you
+- आयं वत्सः (*āyaṃ vatsaḥ*)—this praiser called Vatsa
+- मतिभिः (*matibhiḥ*)—by praises alone
+- न विंधते (*na viṃdhate*)—cannot obtain
+- हविष्मंतं हि (*haviṣmaṃtaṃ hi*)—only the sacrificer who possesses oblation
+- गच्छथः (*gacchathaḥ*)—you approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities endowed with generosity and other qualities, you who nourish the whole world, or cure all the world's disease with remedies — this praiser called Vatsa cannot obtain you by praises alone. You approach only the sacrificer who has oblations.
+
+##### English translation
+Although, Nasatyas, you cherish (all beings), although, divinities, you heal (all disease), yet this your adorer does not obtain you by praises (only), you repair to him who offers you oblations.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नू॒नम॒श्विनो॒र्ऋषिः॒ स्तोमं॑ चिकेत वा॒मया॑ ।  
+> आ सोमं॒ मधु॑मत्तमं घ॒र्मं सिं॑चा॒दथ॑र्वणि ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नूनं । अश्विनोः । ऋषिः । स्तोमं । चिकेत । नामया ।  
+> आ । सोमु । मधुमत्कतनुं । घर्मं । सिंचात् । अथर्वणि ॥ ७ ॥
+
+### Printed p. 598
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्ग्ये महावीरे गोपयस्यासिच्यमान आ नूनमित्येषानुवक्तवा ।
+> सूत्र्यते हि । आ नूनमश्विनोर्ऋषिरिति गव्य आ सुते सिंचत श्रियमित्याजे ।
+> आ. ४-७ । इति ॥
+> हे अश्विनौ यदा युवामागच्छेयाथां तदानीं युवयोरश्विनोः
+> स्तोमं स्तोत्रमृषिर्मंत्रद्रष्टा वामया वननीययोत्कृष्टया बुद्ध्या नूनमवश्यमा चिकेत । अभिजानीयात् ॥ कित ज्ञाने । छांदसो लिट् ॥ तथा मधुमुत्तममतिशयेन मधुरं सोमं घर्मं प्रवर्गसंबंधि घर्माख्यं हविश्चाधर्वण्यहिंसकेग्नौ । यद्वा । अथर्वा ऋषिः । तेन निर्मथितोग्निरुपचारादथर्वेत्युच्यते । अथर्वणा निर्मथनं च त्वामग्ने पुष्करादधि । ऋ. ६-१६-१३ । इत्यादिनिगमांतरेवगम्यते । तस्मिन्नग्नावा सिंचात् । आसिंचेत् । प्रक्षिपेत् । अतः शीघ्रवागच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the Pravargya, this verse "आ नूनं (*ā nūnaṃ*)" is to be recited as an after-verse while the cow's milk is being poured into the Mahāvīra vessel. It is taught in the sūtra आ नूनमश्विनोर्ऋषिरिति गव्य आ सुते सिंचत श्रियमित्याजे (*ā nūnamaśvinorṛṣiriti gavya ā sute siṃcata śriyamityāje*) (Ā. 4-7). O Aśvins, when you come, then the seer, the mantra-seer, will surely, with desirable and excellent understanding, know the praise of you the Aśvins (कित (*kita*) is in the sense of knowing; the perfect is Vedic). And he will pour the very sweet Soma, and the oblation named gharma connected with the Pravargya, on the Atharvan, the non-injuring fire. Or else, Atharvan is a seer; the fire kindled by him is by transference called Atharvan, as is understood from another text such as अथर्वणा निर्मथनं च त्वामग्ने पुष्करादधि (*atharvaṇā nirmathanaṃ ca tvāmagne puṣkarādadhi*) (Ṛ. 6-16-13). Into that fire he would pour, would cast in. Therefore the sense is: come quickly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities, as soon as you come to the sacrificer) अश्विनोः (*aśvinoḥ*)—of you the Aśvin deities, praising
+- स्तोमं (*stomaṃ*)—the praise
+- ऋषिः (*ṛṣiḥ*)—the seer
+- वामया (*vāmayā*)—with most excellent understanding
+- नूनं (*nūnaṃ*)—surely
+- आ चिकेत (*ā ciketa*)—knows (and likewise)
+- मधुमत्तमं (*madhumattamaṃ*)—full of utmost sweetness
+- सोमं (*somaṃ*)—the Soma juice
+- घर्मं (*gharmaṃ*)—and the Pravargya-connected oblation
+- अथर्वणि (*atharvaṇi*)—in the Atharvan fire
+- आ सिंचात् (*ā siṃcāt*)—offers
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as soon as you come to the sacrificer, the seer knows, with his most excellent understanding, the praise that extols you. Likewise he offers to you, in the Atharvan fire, the Soma juice full of utmost sweetness and the Pravargya oblation.
+
+##### English translation
+When verily you arrive, Aswins, the Rishi understands with excellent (comprehension) the praise (to be addressed to you); he will sprinkle the sweet-flavoured Soma and the gharma (oblation) on the Atharvan fire.
+
+### Printed p. 599
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pravargya rite, when the cow's milk is poured into the vessel, this Ṛk beginning "आ नूनं (*ā nūnaṃ*)" is to be recited. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra आ नूनमश्विनोर्ऋषिरिति गव्य आ सुते सिंचत श्रीयमित्याज्ये (*ā nūnamaśvinorṛṣiriti gavya ā sute siṃcata śrīyamityājye*) (Ā. 4-7).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नू॒नं र॒घुव॑र्तनिं॒ रथं॑ तिष्ठाथो अश्विना ।  
+> आ वां॒ स्तोमा॑ इ॒मे मम॒ नभो॒ न चु॑च्यवीरत ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नूसं । रघुवर्तनिं । रथु । तिष्ठाथः । अश्विना ।  
+> आ । वां । स्तोमाः । इमे । मम । सभः । न । चुच्यवीरत ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ रघुवर्तनिं लघुवर्तनं शीघ्रगमनं रथु नूनमवश्यमिदानीमेवा तिष्ठाथः । आतिष्ठतं । अधिरोहतं ॥ वालमूललघ्वलमिति लघोर्लकारस्य
+> रेफः ॥ मम मदीया इमे स्तोमाः स्तोत्राणि नभो न सूर्यमिव तेजस्विनौ
+> वां युवामा चुच्यवीरत । आच्यवंते । अभिगच्छंति । यद्वा । च्यवतिरत्रांतर्भावितण्यर्थः । आच्यावयंति । युवामभिप्रापयंति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, mount now, without fail, your chariot that is "light-moving", of swift going (the ल (*la*) of लघु (*laghu*) becomes र (*ra*)). These my praises come to you, shining like the sun, आ चुच्यवीरत (*ā cucyavīrata*) — they approach you. Or else the root च्यव (*cyava*) here has a causative sense: they cause you to come, they bring you here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- रघुवर्तनिं (*raghuvartaniṃ*)—swift-going
+- रथं (*rathaṃ*)—your chariot
+- नूनं (*nūnaṃ*)—now
+- आ तिष्ठाधः (*ā tiṣṭhādhaḥ*)—mount and sit
+- मम (*mama*)—my
+- इमे स्तोमाः (*ime stomāḥ*)—these praises
+- नभो न (*nabho na*)—like the sun, radiant
+- वा (*vā*)—you
+- आ चुच्यवीरत (*ā cucyavīrata*)—let them bring to us **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, mount your swift-going chariot at once. May these my praises bring you, radiant like the sun, to us.
+
+### Printed p. 600
+
+##### English translation
+Ascend at once, Aswins, your light-moving chariot; may these my praises bring you down radiant as the sun.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य वां॑ नासत्यो॒क्षैरा॑चुच्युवी॒महि॑ ।  
+> यद्वा॒ वाणी॑भिरश्विने॒वेत्का॒ण्वस्य॑ बोधतं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । वां । नासत्या । उक्षैः । आचुच्युवीमहि ।  
+> यत् । वा । वाणीभिः । अश्विना । एव । इत् । काण्वस्य । बोधतं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या अद्येदानीमुक्थैः शस्त्रैर्यद्यथा येन प्रकारेण वां युवामाचुच्युवीमहि आगमयेम हे अश्विनौ यद्वा यथा वाणीभिरुक्थव्यतिरिक्ताभिरपि
+> वाग्भिः स्तुतिभिर्युवामागमयेम एवेदेवमेव तथ्यॆव काण्वस्य मम तदुक्कादिकं
+> बोधतं । अवगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, now, in whatever manner we bring you here with *uktha* recitations (śastras), or in whatever manner we bring you here with other speech, praises, distinct from the uktha — in just that way, take notice of that uktha and the rest of me, the Kāṇva, बोधतं (*bodhataṃ*), understand.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—of true nature
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अद्य (*adya*)—now
+- उक्तैः (*uktaiḥ*)—with śastra mantras **NOTE**
+- यत् (*yat*)—in what manner
+- वां (*vāṃ*)—you
+- आचुच्युनीमहि (*ācucyunīmahi*)—we shall bring to us **NOTE**
+- यद्वा (*yadvā*)—in what way
+- वाणीभिः (*vāṇībhiḥ*)—with our other praises we shall bring you
+- एवेत् (*evet*)—for that to be accomplished
+- काण्वस्य (*kāṇvasya*)—of me, son of Kaṇva, my praises and the rest
+- भोधतं (*bhodhataṃ*)—understand
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities of true nature, in whatever manner we now bring you to us with śastra mantras, and in whatever way we bring you with our other praises, for that to be accomplished understand these praises and the rest of me, the son of Kaṇva.
+
 ---
 
-**Progress note:** Done through printed p. 594. pp. 588-594 (batch API)
+**Progress note:** Done through printed p. 600. pp. 595-600 (batch API)
