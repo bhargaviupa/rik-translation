@@ -43,3 +43,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 34 | 642–652 | 34 | 32 | 2 questions | see git log |
 | 35 | 653–663 | 45 | 43 | 2 questions | see git log |
 | 36 | 664–674 | 46 | 43 | 4 questions (this batch's kind codes are H-codes, not R1/R3/R6, in column kind; reader column is R1) | see git log |
+| 37 | 675–685 | 50 | 46 | 4 questions; 8-23-12 vs supplied 8-23-17 not logged by the reader: to be caught by the closing number check | see git log |

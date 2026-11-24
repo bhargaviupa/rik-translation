@@ -618,12 +618,12 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 673	yes	0	0	0	0	0	0	0	0	0
 674	yes	0	0	0	0	0	1	0	0	0
 675	yes	0	0	0	0	0	0	0	0	0
-676	yes	2	0	0	0	0	1	0	0	0
+676	yes	0	0	0	0	0	1	0	0	0
 677	yes	0	0	0	0	0	0	0	0	0
-678	yes	0	1	0	0	0	0	0	0	0
-679	yes	2	0	0	0	0	0	0	0	0
+678	yes	0	0	0	0	0	0	0	0	0
+679	yes	1	0	0	0	0	0	0	0	0
 680	yes	0	0	0	0	0	0	0	0	0
-681	yes	1	0	0	0	0	0	0	0	0
+681	yes	0	0	0	0	0	0	0	0	0
 682	yes	0	0	0	0	0	1	0	0	0
 683	yes	0	0	0	0	0	0	0	0	0
 684	yes	1	0	0	0	0	0	0	0	0
