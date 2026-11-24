@@ -25202,6 +25202,255 @@ The two verses beginning अपाम सोमं (*apāma somaṃ*) are applie
 
 We drink Soma. We become free from death. We go and reach the shining heaven. We come to know the gods. O Soma, free from death, what can the enemy do to us? What can the enemy, who is of the nature of injury, do to me, a man?
 
+### Printed p. 551
+
+##### English translation
+We drink the Soma, may we become immortal; we have attained the the light of (heaven), we have know the gods! what now should the enemy do to us, or what, O immortal, should the aggriever do to the mortal?
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk beginning अपाम सोमं (*apāma somaṃ*) and the next Ṛk, beginning शं नो भव (*śaṃ no bhava*), are to be applied in order to the touching (abhimarśana means touching) done after the drinking of Soma and to the touching of the heart, as is set forth by the sūtra of the Āśvalāyana-śrauta-sūtra अपाम सोमममृता अभूम शं नो भव हृद आ पीत इंदविति मुखहृदये अभिमृशेरन् (*apāma somamamṛtā abhūma śaṃ no bhava hṛda ā pīta iṃdaviti mukhahṛdaye abhimṛśeran*) (Ā. 5-6).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ भव हृ॒द आ पी॒त इं॑दो पि॒तेव॑ सोम सू॒नवे॑  ॒॑
+> सुशेवः ।  
+> सखे॑व॒ सख्य॑ उरुशंस॒ धीरः॒ प्र ण॒ आयु॑र्जी॒वसे॑ सोम  
+> तारीः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । भव । हृदे । आ । पीतः । इंदो इति । पिताइव । सोम । सूनवे ।  
+> सुशेवः ।  
+> सखाइव । सख्ये । उरुशंस । धीरः । प्र । नः । आयुः । जीवसे । सोम । तारीः ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अस्माभिः पीतस्त्वं नोऽस्माकं हृदे हृदयाय शंसुखमा भव । सुखभवने दृष्टांतद्वयं । पिता सूनवे स्वात्मजाय यथा सुखाय
+> भवति यथा वा सखाहितान्निवर्त हिते स्थापयिता सखायं स्वसख्यॆ यथा सुशेवः
+> सुसुखो भवति । शेवमिति सुखनाम । तद्वत्त्वमपि भव । किंच हे उरुशंस बहुभि-
+
+### Printed p. 552
+
+> र्बहुधा ना शंसनीय बहुकीर्ते सोम धीरो धीमांस्त्व नोऽस्माकं जीवसे
+> जीवनायायुरायुष्यं प्र तारीः । प्रवर्धय ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, drunk by us, be bliss (śam) to our heart. He gives two illustrations of becoming bliss: as a father is for the happiness of his own son, or as a friend who turns his friend back from what is harmful and establishes him in what is beneficial is very pleasant (suśeva; śeva means happiness) to his friend, so be you also. And further, O Soma, you who deserve to be praised in many ways by many and are of wide fame, wise as you are, increase for our living the span of our life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma, of the form of a stream
+- सोम (*soma*)—O Soma
+- नोनवे (*nonave*)—to a son
+- सुशेवः (*suśevaḥ*)—who gives happiness
+- पिता इव (*pitā iva*)—like a father
+- सख्ये (*sakhye*)—who does good to a friend
+- सखा इव (*sakhā iva*)—like a friend
+- पीतः (*pītaḥ*)—you who are drunk by us
+- नः (*naḥ*)—our
+- हृदे (*hṛde*)—to the heart
+- शं आ भव (*śaṃ ā bhava*)—become a giver of happiness
+- उरुशंस (*uruśaṃsa*)—who deserve abundant praise
+- सोम (*soma*)—O Soma
+- धीरः (*dhīraḥ*)—you who are wise
+- नः (*naḥ*)—to us
+- जीवसे (*jīvase*)—in order to live
+- आयुः (*āyuḥ*)—life
+- प्रतारीः (*pratārīḥ*)—increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, of the form of a stream, drunk by us, become a giver of happiness to our heart, like a father who gives happiness to his son and like a friend who does good to his friend. O Soma, who deserve abundant praise, wise as you are, increase our life that we may live.
+
+##### English translation
+O Soma, drunk by us, be bliss to our hearts, as a father is indulgent to a son or friend to a friend; O Soma, worthy of wide praise, wise one, extend our years that we may live.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे मा॑ पी॒ता य॒शस॑ उरु॒ष्यवो॒ रथं॒ न गावः॒ सम॑नाह॒  ॑
+> पर्व॑सु ।  
+> ते मा॑ रक्षंतु वि॒स्रस॑श्च॒रित्रा॑दु॒त मा॒ स्रामा॑द्यवयं॒त्विंद॑वः ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । मा । पीताः । यशसः । उरुष्यवः । रथं । न । गावः । सं । अनाह । पर्वऽसु ।  
+> ते । मा । रक्षंतु । विस्प्रसः । चरित्रात् । उत । मा । स्रामात् । यवयंतु । इंदवः ॥
+
+### Printed p. 553
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे पीता यशसो यशस्कुरा उरुष्यवोऽस्माकं रक्षाकामाः सोमा
+> गावो गोविकारभूता वध्यो रथं न रथमिव ता यथा रथं विस्त्रस्तं पर्वसु
+> समनाह संदधते तद्वन्मां पीताः सोमाः पर्वसु संनह्यंतु । किंच ते सोमा
+> मा मां विप्रसो विप्रस्ताच्चरित्राच्चरणादनुष्ठानाद्रक्षंतु । सोमः पीतश्चेत्कर्म
+> ह्यविस्त्रस्तं भवति । उतापि च मा मां सामाप्वाधेः सकाशादिंदवः पीता यवयंतु । प्रथक्कुर्वंतु :
+
+##### Gist of the bhāṣya
+
+These drunk Somas, which confer fame (yaśasaḥ) and desire to protect us (uruṣyavaḥ), as the leather thongs, products of the cow, bind together at its joints a chariot that has fallen loose, so may the drunk Somas bind me together at my joints. Further, may those Somas protect me from loose (disjointed) performance of the rite; for when Soma has been drunk the rite is not loose. And may the drunk Indus separate me from affliction **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावः (*gāvaḥ*)—oxen
+- रथं न (*rathaṃ na*)—as they draw, putting together the separate parts of a cart
+- पीताः (*pītāḥ*)—drunk by us
+- यशसः (*yaśasaḥ*)—which give fame
+- उरुष्यवः (*uruṣyavaḥ*)—which wish to protect me
+- इमे (*ime*)—these Soma-juices
+- पर्वसु (*parvasu*)—our loosened joints
+- समनाद (*samanāda*)—put together and heal
+- ते (*te*)—those same Somas
+- मा (*mā*)—me
+- विप्रसः (*viprasaḥ*)—from the disjoined
+- चरित्रात् (*caritrāt*)—from practices
+- रक्षंतु (*rakṣaṃtu*)—may they protect
+- उत (*uta*)—and
+- मा (*mā*)—me
+- सामात् (*sāmāt*)—from disease
+- इंदवः (*iṃdavaḥ*)—these Soma-juices of the form of a stream
+- यवयंतु (*yavayaṃtu*)—may they separate
+
+##### भावार्थ (Bhāvārtha)
+
+As oxen draw a cart, putting together its separate parts, so these Soma-juices, drunk by us, which give fame and wish to protect us, put together and heal our loosened joints. May those same Somas protect me from disjoined practices, and may these Soma-juices of the form of a stream separate me from disease.
+
+##### English translation
+May these glory conferring protecting Soma-streams knit together my joints as cows draw together a chariot falling in pieces; may they keep us from a loosely knit worship; may they deliver me from sickness.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं न मा॑ मथि॒तं गं दि॑दीपः॒ प्र च॑क्षय कृणु॒हि वस्य॑सो  
+> नः ।  
+> अथा॒ हि ते॒ मद॒ आ सो॑म॒ मन्ये॑ रे॒वा इ॑व॒ प्र च॑रा  
+> पु॒ष्टिमच्छ॑ । ६ ॥
+
+### Printed p. 554
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । न । मा । मथितं । सं । दिदीपः । प्र । चक्षय । कृणुहि । वस्यसः । नः ।  
+> अथ । हि । ते । मदे । आ । सोम । मन्ये । रेवान् इव । प्र । चर । पुष्टिं । अच्छ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पीतस्त्वं मा मां मथितमग्निं नाग्निमिव सं दिदीपः । संदीपय ।
+> प्र चक्षय च चक्षुषः संधुक्क्षणेन । नोऽस्मान् वस्यसोऽतिशयेन वसुमतः कृणुहि ।
+> कुरु । अथाधुनां हि खलु ते त्वां हे सोम मदे मदाय मन्ये । स्तौमि । तथा
+> सति रेवानिव धनवानिह । इवेति संप्रत्यर्थे । पुष्टिमस्मत्पोषमच्छ प्र चर । अभिगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, drunk by you **NOTE**, kindle me like a fire that has been churned. And open our sight, by rekindling the eye (sandhukṣaṇa). Make us, exceedingly, possessed of wealth. Now indeed, O Soma, I praise you for exhilaration. That being so, come to our nourishment like a wealthy man; the word इव (*iva*) is used here in the sense of "now" **NOTE**. Approach.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मथितं (*mathitaṃ*)—churned by the araṇis
+- अग्निं न (*agniṃ na*)—as one makes a fire blaze
+- मा (*mā*)—me
+- सं दिदीपः (*saṃ didīpaḥ*)—make me full of vigour
+- प्र चक्षय (*pra cakṣaya*)—open our eyes and make them bright
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—so as to be possessed of wealth
+- कृणुहि (*kṛṇuhi*)—make
+- सोम (*soma*)—O Soma
+- अध हि (*adha hi*)—now
+- ते (*te*)—you
+- मदे (*made*)—for joy
+- मन्ये (*manye*)—I praise
+- रेवान् (*revān*)—you who are rich
+- पुष्टिं अच्छ (*puṣṭiṃ accha*)—for our nourishment
+- प्र चर (*pra cara*)—graciously come here
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, as one makes a fire churned by the araṇis blaze, make me full of vigour. Open our eyes and make them bright; make us possessed of wealth. O Soma, I praise you now for the gain of joy. You who are rich in wealth, graciously come here for the gain of our nourishment.
+
+##### English translation
+Soma, kindle me like the fire ignited by attrition, brighten (our eyes) and make us rich; I praise you now for exhilaration; come now, full of wealth to nourish us.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒षि॒रेण॑ ते॒ मन॑सा सु॒तस्य॑ भक्षी॒महि॒ पित्र्य॑स्येव रा॒यः ।  
+> सोम॑ राज॒न्प्र ण॒ आयूं॑षि तारी॒रहा॑नीव॒ सूर्यो॑ वास॒राणि॑॥
+
+### Printed p. 555
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषिरेण । ते । मनसा । सुतस्य । भक्षीमहि । पित्र्यस्य इव । रायः ।  
+> सोम । राजन् । प्र । नः । आयूंषि । तारीः । अहानि इव । सूर्यः । वासराणि ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इषिरेणाच्छावता मनसा सुतस्य ते सुतमभिषुतं त्वां भक्षीमहि । पित्रस्य
+> पितृसंबंधिनो धनस्येव धनमिव । पित्रं धनं यथैषणेन मनसोपभुंजते
+> तद्वत् । भक्षिते हे सोम राजन् स्वामिन् नोऽस्माकमायूंषि प्र तारीः ।
+> प्रवर्धय वासराणि जगद्वासकान्यहानि सूर्य इव । अत्रेषणेन वैषणेन
+> वार्षन्सेन वा । नि. ४-७ । इत्यादिनिरुक्तं ज्ञातव्यं ॥
+
+##### Gist of the bhāṣya
+
+With a mind full of longing (iṣireṇa, "with a desiring mind") may we enjoy you, the pressed Soma, as people enjoy with a desiring mind the wealth of their fathers. When you have been enjoyed, O Soma, king, lord, prolong our lives, as the sun prolongs the days (vāsarāṇi, "those that make the world dwell"). Here the Nirukta beginning अत्रेषणेन वैषणेन वार्षन्सेन वा (*atreṣaṇena vaiṣaṇena vārṣansena vā*) (Ni. 4-7) is to be known **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O lord
+- सोम (*soma*)—O Soma
+- इषिरेण (*iṣireṇa*)—filled with reverence
+- मनसा (*manasā*)—with the mind
+- पित्र्यस्य रायः इव (*pitryasya rāyaḥ iva*)—as one enjoys wealth inherited from the fathers
+- सुतस्य (*sutasya*)—pressed
+- ते (*te*)—you
+- भक्षीमहि (*bhakṣīmahi*)—we enjoy
+- सूर्यः (*sūryaḥ*)—as the sun
+- वासराणि (*vāsarāṇi*)—pervading the world
+- अहानि (*ahāni*)—increases the days
+- नः (*naḥ*)—our
+- आयूंषि (*āyūṃṣi*)—lives
+- प्रतारीः (*pratārīḥ*)—increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, lord, we now enjoy gladly you who have been pressed, with a mind full of reverence, as one enjoys inherited wealth. As the sun increases the days that pervade the world, increase our lives.
+
+##### English translation
+May we partake of you, eſtused, with a longing mind as (men enjoy) paternal wealth; King Soma, prolong our lives, as the sun the world-establishing days. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an etymology for this Ṛk:
+
+ईषणेन वैषणेन वार्षणेन वा ते मनसा सुतस्य भक्षीमहि पित्र्यस्येव धनस्य प्रवर्धय च न आयूंषि सोमराजन् । अहानीव सूर्यो वासराणि । वासराणि वेसराणि विवासनानि गमनानीतिवा ॥ (*īṣaṇena vaiṣaṇena vārṣaṇena vā te manasā sutasya bhakṣīmahi pitryasyeva dhanasya pravardhaya ca na āyūṃṣi somarājan | ahānīva sūryo vāsarāṇi | vāsarāṇi vesarāṇi vivāsanāni gamanānītivā ‖*) (Ni. 4-7)
+
+### Printed p. 556
+
+Here three kinds of meaning have been given for the word इषिरेण (*iṣireṇa*). This word is an adjective of the word मनसा (*manasā*). (1) ईषणेन (*īṣaṇena*). ईषति, फणति इति गतिकर्मसु पठितं (*īṣati, phaṇati iti gatikarmasu paṭhitaṃ*). सर्वात्मना गतेनेत्यर्थः (*sarvātmanā gatenetyarthaḥ*). Since the root īṣati has the sense of going, the word ईषणेन (*īṣaṇena*), formed from this root, means: with a mind fixed there, that is, on you. (2) एषणेन (*eṣaṇena*)-इच्छावता फलप्रार्थनावतेत्यर्थः (*icchāvatā phalaprārthanāvatetyarthaḥ*). The meaning is: with a mind that desires you for the attainment of fruit. (3) ऋषणेनेति वा (*ṛṣaṇeneti vā*)-दर्शनवता (*darśanavatā*). The meaning is: looking, that is, with a mind that desires while looking at that alone.
+
+O Soma, king, with a mind fixed on you alone, let us drink the Soma-juice as one happily enjoys inherited property. The main sense is: as the sun lengthens the days of the spring season, so lengthen our life.
+
+Here वासराणि (*vāsarāṇi*) means days, daytimes. वासराणि (*vāsarāṇi*) means वेसराणि (*vesarāṇi*). शीतोष्णाभ्यां तानि सरंति, तेषु हि शीतोष्णं भवति ! रात्रौ शीतं दिवा उष्णं । (*śītoṣṇābhyāṃ tāni saraṃti, teṣu hi śītoṣṇaṃ bhavati ! rātrau śītaṃ divā uṣṇaṃ |*). The word वासर (*vāsara*) is formed from the root सृ-सरि (*sṛ-sari*). Time, that is, the time of the day, goes on moving forward. While it moves so, accompanied in the night by a cold atmosphere and in the day by heat, the measure of the time of the day goes away, that is, passes away. Therefore the days (mainly the daytime) are called vāsarāṇi or vesarāṇi. Besides, विवासनानि-तानि हि तत् शीतं निवासयंति नाशयंतीत्यर्थः (*vivāsanāni-tāni hi tat śītaṃ nivāsayaṃti nāśayaṃtītyarthaḥ*). Because the day destroys by its (the sun's) heat the cold that arises in the night, the days may be said to have the meaning निवासनानि (*nivāsanāni*). गमनानीति ना विसृतानि विस्तीर्णानि संति वासराणीति उच्यंते । यथा तानि सूर्यः वर्धयति मंदगतिश्वात् एवमस्माकं त्वमायुः प्रवर्धयेत्याशीः ॥ (*gamanānīti nā visṛtāni vistīrṇāni saṃti vāsarāṇīti ucyaṃte | yathā tāni sūryaḥ vardhayati maṃdagatiśvāt evamasmākaṃ tvamāyuḥ pravardhayetyāśīḥ ‖*). Because the daytime, especially in summer, is long, the extended days may be called vāsarāṇi. The sun, moving slowly in the day, increases the measure of the time of the day. Likewise, O Soma, increase our life: this prayer is expressed here.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॑ राजन्मृ॒ळया॑ नः स्व॒स्ति तव॑ स्मसि व्र॒त्या॒३॒॑ ३ स्तस्य॑ विद्धि ।  
+> अल॑र्ति॒ दक्ष॑ उ॒त म॒न्युरिं॑दो॒ मा नो॑ अ॒र्यो अ॑नुका॒मं ॑ 
+> परा दाः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 550. Sukta 47 Rks 17-18 end; Sukta 48 Rks 1-3 (Soma, Pragatha Kanva); Special Topics
+**Progress note:** Done through printed p. 556. Sukta 48 Rks 3 end-8: Soma verses; Special Topics (Yaska on vasarani)
