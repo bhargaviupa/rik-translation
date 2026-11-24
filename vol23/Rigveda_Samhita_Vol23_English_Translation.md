@@ -23113,6 +23113,275 @@ I bring to my presence, for the sake of most excellent prosperity, the showrers 
 > गिरयः । चित् । नि । जिहते । पर्शानासः । मन्यमानाः ।  
 > पर्वताः । चित् । नि । येमिरे ॥ ३४ ॥
 
+### Printed p. 563
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत्स्वागच्छत्तु गिरियश्चिद्दिरयोऽपि शिलोच्चया अपि पर्शानासः पीड्यमानाः । यद्वा । मरुद्भिः स्पृश्यमानाः । आत एव मन्यमाना अभिमन्यमाना
+> बाध्यमानाः संतो नि जिहते । नितरां गच्छंति । मरुद्वेगेन स्थानात् प्रच्यवंते ।
+> तथा पर्वताश्चित् पर्ववंतो मेघा अपि तदीयेन गमनेन नियेमिरे । नियम्यंते । यद्वा । गिरयः क्षुद्राः शिलोच्चया महांतः पर्वताः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts are to come. Even the hills (गिरयः (*girayaḥ*)), that is, the piled-up masses of rock, are pressed (पर्शानासः (*parśānāsaḥ*)); or else, they are touched by the Maruts. For that very reason they are afflicted, harassed (मन्यमानाः (*manyamānāḥ*)), and नि जिहते (*ni jihate*), go down: through the force of the Maruts they are shaken from their place. Likewise the पर्वताः (*parvatāḥ*), the cloud-masses that have joints, are restrained by their going (नियेमिरे (*niyemire*)). Or else गिरयः (*girayaḥ*) are small piles of rock and पर्वताः (*parvatāḥ*) the large mountains.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिरयश्चित् (*girayaścit*)—(at the time of these Maruts' coming) even the mountains
+- पर्शानासः (*parśānāsaḥ*)—pressed down
+- मन्यमानाः (*manyamānāḥ*)—and therefore harmed
+- नि जिहते (*ni jihate*)—move from their places
+- पर्वताश्चित् (*parvatāścit*)—even the clouds
+- नि येमिरे (*ni yemire*)—become restrained in their motion
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of these Maruts' journeying, even the mountains are pressed down, harmed, and move from their places. The clouds too become restrained in their motion.
+
+##### English translation
+The hills, oppressed and agitated by them, move (from their places);
+the mountains are restrained.
+
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आक्ष॒यावा॑नो वहंत्यं॒तरि॑क्षेण॒ पत॑तः ।  
+> धाता॑रः स्तुव॒ते वयः॑ ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अक्ष्ञयावानः।वहंति । अंतरिक्षेण । पततः ।  
+> धातारः । स्तुवते । वयः ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अक्षयावानोऽक्ष्णं व्याप्तं गच्छंतः । यद्वा । अक्षश्चक्षुषोऽपि शीघ्रं
+> यांतीत्यक्षयावानः ॥ याते रातो मनिन्निति वनिप् ॥ ईदृशा अश्वा अंतरिक्षेणा-
+
+##### Gist of the bhāṣya
+
+अक्षयावानः (*akṣayāvānaḥ*) are those who go pervading, *akṣṇaṃ* meaning "pervaded"; or else, they go swifter even than the eye (अक्ष (*akṣa*)), hence अक्षयावानः (*akṣayāvānaḥ*). Such horses carry the Maruts, as they travel through the air, by the path of the sky.
+
+### Printed p. 564
+
+> काशमार्गेण पततो गच्छतो मरुत आ वहंति । आनयंति । यद्वा । पतत इत्यश्वानां विशेषणं । अंतरिक्षे नभसि पततो गच्छंतः ॥ छांदसो नुमभावः ॥ किं
+> कुर्वंतः । स्तुवते स्तोत्रं कुर्वते जनाय वयोऽन्नं धातारो विधातारः
+> कुर्वाणाः ॥
+
+##### Gist of the bhāṣya
+
+The horses bring (आ वहंति (*ā vahaṃti*)) the Maruts who fly (पततः (*patataḥ*)). Or else पततः (*patataḥ*) is an epithet of the horses: they move flying in the sky. The absence of the nasal augment is Vedic. Doing what? They act as धातारः (*dhātāraḥ*), providers of वयः (*vayaḥ*), food, for the man who praises (स्तुवते (*stuvate*)), who performs the praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अक्षयावानः (*akṣayāvānaḥ*)—horses that quickly pervade and travel through all the firmament
+- स्तुवते (*stuvate*)—to the praiser
+- वयः (*vayaḥ*)—food
+- धातारः (*dhātāraḥ*)—bearing
+- अंतरिक्षेण (*aṃtarikṣeṇa*)—by the path of the firmament
+- पततः (*patataḥ*)—the Maruts who travel
+- आ वहंति (*ā vahaṃti*)—come carrying
+
+##### भावार्थ (Bhāvārtha)
+
+Horses that quickly pervade all the firmament and travel, bearing food to the praiser, come carrying the Maruts who travel by the path of the firmament.
+
+##### English translation
+(Their horses), quickly traversing (space), bear them travelling through the firmament, giving food to the worshipper.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्हि जानि॑ पू॒र्वश्चंदो॒ न सूरो॑ अ॒र्चिषा॑ ।  
+> ते भा॒नुभि॒र्वि त॑स्थिरे ॥ ४६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । हि । जसि । पूर्व्यः । छंदः । न । सूरः । अर्चिषा ।  
+> ते । भासुभः । तस्थिरे ॥ ३६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्ह्यग्निः खल्वर्चिसा तेजसा पूर्व्यः सर्वेषु देवेषु मुख्यो जानि ।
+> अजायत ॥ दीपजनेत्यादिना । पा. ३-१-६१ । कर्तरि लुज् च्लेक्षिणादेशः ॥ तत्र
+> दृष्टांतः । छंद उपच्छंदनीयः सूरो न सूर्य इव । तदनंतरं ते पूर्वोक्तगुणा मरुतो भानुभिर्दिप्तिभिर्वि तस्थरे । विविधमवतिष्ठंते । अग्निमारुते ह्यग्निः
+
+##### Gist of the bhāṣya
+
+Agni, by his splendour (अर्चिषा (*arciṣā*)), was born (जानि (*jāni*) = अजायत (*ajāyata*)) first, chief among all the gods. The form is the aorist (luṅ) in the active, with the substitution of ciṅ-type ending as explained. The illustration: like the sun (सूरः (*sūraḥ*)), who is to be sought out and pleasing (छंदः (*chaṃdaḥ*)). After that, the Maruts, of the qualities spoken of before, stood about in various ways (वि तस्थिरे (*vi tasthire*)) with their rays (भानुभिः (*bhānubhiḥ*)). (The text continues on the next page.)
+
+### Printed p. 565
+
+> पूर्वं स्तूयते पश्चान्मरुतः । तदपेक्षया च पूर्वोत्तरयोरर्धर्चयोः क्रमेणाग्निर्मरुतश्च स्तूयंते ॥
+
+##### Gist of the bhāṣya
+
+In the Agni-Māruta hymn Agni is praised first and then the Maruts; accordingly, in the first and second half-verses Agni and the Maruts are praised in that order.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- छंदः (*chaṃdaḥ*)—praiseworthy and radiant
+- सूरः न (*sūraḥ na*)—like the sun
+- अग्निर्हि (*agnirhi*)—Agni indeed
+- अर्चिषा (*arciṣā*)—with his own brilliance
+- पूर्व्यः (*pūrvyaḥ*)—as the chief of all the other gods
+- जानि (*jāni*)—has been born (after that)
+- ते (*te*)—the Maruts
+- भानुभिः (*bhānubhiḥ*)—with their radiances
+- वि तस्थिरे (*vi tasthire*)—stood surrounding him
+
+##### भावार्थ (Bhāvārtha)
+
+Like the praiseworthy and radiant sun, Agni was born with his own brilliance as chief of all the other gods. Afterwards the Maruts stood around him with their radiances.
+
+##### English translation
+Agni was born the first among the gods, like the brilliant sun in splendour : then they (the Maruts) stood round in their radiance.
+
+## Sūkta 8 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ नो विश्वाभिरिति त्रयोविंशत्यृचं तृतीयं सूक्तं सध्वंसाख्यस्य काण्वस्यार्षमानुष्टुभं । एतदादीनि त्रीणि सूक्तान्यश्विदेवत्यानि । तथा चानुक्रांतं । आ नस्त्र्यधिका सध्वंस आश्विनं ह्यानुष्टुभं त्विति ॥ प्रातरनुवाक आश्विने क्रतावानुष्टुभे
+> छंदस्याश्विनशस्त्रे चैतत्तूक्तं । सूत्रते हि । आ नो विश्वाभिस्त्यं चिदत्रिमित्यानुष्टुभं । आ. ४-१५ । इति ॥ अप्पोर्यामे प्रशास्तुरतिरिक्कोक्षेऽप्येतत् । सूत्रितं च । आ
+> नो विश्वाभिः प्रातर्यावाणा । आ. ९-११ । इति । चतुर्थेऽहनि प्रउगशस्त्र आ नो
+> विश्वाभिरित्याश्विनस्तृचः । सूत्रितं च । आ नो विश्वाभिरूतिभिस्त्यमु वो अप्रहणं ।
+> आ. ७-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn आ नो विश्वाभिः (*ā no viśvābhiḥ*), of twenty-three Ṛks, is the third hymn; its seer is Sadhvaṃsa of the Kāṇva family, its metre Anuṣṭubh. This and the next two hymns are addressed to the Aśvins. So the Anukramaṇī says: आ नस्त्र्यधिका सध्वंस आश्विनं ह्यानुष्टुभं त्विति (*ā nastryadhikā sadhvaṃsa āśvinaṃ hyānuṣṭubhaṃ tviti*). The hymn is used in the Prātaranuvāka at the Aśvina rite, in the Anuṣṭubh verses, and in the Aśvina-śastra. For it is stated in the sūtra: आ नो विश्वाभिस्त्यं चिदत्रिमित्यानुष्टुभं (*ā no viśvābhistyaṃ cidatrimityānuṣṭubhaṃ*) (Ā. 4-15). In the Aptoryāma it is also used for the extra verses of the Praśāstṛ; and it is stated: आ नो विश्वाभिः प्रातर्यावाणा (*ā no viśvābhiḥ prātaryāvāṇā*) (Ā. 9-11). On the fourth day, in the Praüga-śastra, आ नो विश्वाभिः (*ā no viśvābhiḥ*) is the Aśvina tṛca; and it is stated: आ नो विश्वाभिरूतिभिस्त्यमु वो अप्रहणं (*ā no viśvābhirūtibhistyamu vo aprahaṇaṃ*) (Ā. 7-11).
+
+##### Anuvāda
+
+This hymn beginning आ नो विश्वाभिः (*ā no viśvābhiḥ*) is the third hymn in the second anuvāka. It has twenty-three Ṛks. Its seer is Sadhvaṃsa of the Kaṇva gotra; the metre is Anuṣṭubh. The deities of this hymn and the next three hymns are the Aśvins.
+
+### Printed p. 566
+The Anukramaṇī says: आ नस्त्रधिका सध्वंस आश्विनं ह्यानुष्टुभं तु (*ā nastradhikā sadhvaṃsa āśvinaṃ hyānuṣṭubhaṃ tu*). At the time of reciting the mantras of the Prātaranuvāka, the hymn is used for the Anuṣṭubh Ṛks belonging to the Aśvina rite and for the Aśvina-śastra mantras, as explained by the Āśvalāyana Śrauta Sūtra, आ नो विश्वाभिस्तं चिदत्रिमित्यानुष्टुभं (*ā no viśvābhistaṃ cidatrimityānuṣṭubhaṃ*) (Ā. 4-15). In the sacrifice called Aptoryāma, it is used for the extra mantras recited by the priest called Praśāstṛ, as explained by the Āśvalāyana Śrauta Sūtra, आ नो विश्वाभिः प्रातर्यावाणा (*ā no viśvābhiḥ prātaryāvāṇā*) (A. 9-11). In the Praüga-śastra mantras on the fourth day of the sacrifice, the three Ṛks beginning आ नो विश्वाभिः (*ā no viśvābhiḥ*) are to be recited as the Aśvina tṛca, as explained by the Āśvalāyana Śrauta Sūtra, आ नो विश्वाभिरूतिभिस्त्यमु वो अप्रहणं (*ā no viśvābhirūtibhistyamu vo aprahaṇaṃ*) (Ā. 7-11). **NOTE**
+
+Sūkta 8; Maṇḍala 8; Anuvāka 2; Sūkta 8; Aṣṭaka 5; Adhyāya 8; Vargas 25, 26, 27, 28, 29; number of Ṛks in the hymn: 23; Ṛṣi: Sadhvaṃsa Kāṇva; Deity: the Aśvins; Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ विश्वा॑भिरू॒तिभि॒रश्वि॑ना॒ गच्छ॑तं यु॒वं ।  
+> दस्रा॒ हिर॑ण्यवर्तनी॒ पिब॑तं सो॒म्यं मधु॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । विश्वाभिः । ऊतिभिः । अश्विना । गच्छतं । युवं ।  
+> दस्रा । हिरण्यवर्तनी इति हिरण्यवर्तनी । पिबतं । सोम्यं । मधु ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनावश्नुवानौ सर्वं जगद्व्याप्नुवंतौ यद्वाश्वैर्युक्तौ युवं
+> युवां विश्वाभिः सर्वाभिर्व्याप्ताभिर्वोतिभी रक्षाभिर्दातव्याभिः सार्धं नोऽस्मना
+> गचत्छ । अगत्य च हे दस्रा दस्रौ दर्शनीयौ शत्रूणामुपक्षपयितार् वा हे हिरण्य-
+
+##### Gist of the bhāṣya
+
+O Aśvins (अश्विना (*aśvinā*)), pervading the whole world, or else yoked with horses, come to us with all (विश्वाभिः (*viśvābhiḥ*)) pervasive protections to be given. And having come, O Dasras, beautiful ones, or destroyers of enemies, O हिरण्य- (*hiraṇya-*) (continued on the next page).
+
+### Printed p. 567
+
+> वर्तनी हिरण्मयरथौ हितरमणीयाचरणौ वा ईदृशौ हे अश्विनौ सोम्यं सोममयं मधु पिबतं ॥
+
+##### Gist of the bhāṣya
+
+हिरण्यवर्तनी (*hiraṇyavartanī*): with golden chariots, or with fair and pleasing conduct. O such Aśvins, drink the Soma-made sweet drink (सोम्यं मधु (*somyaṃ madhu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you two
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊशिभिः (*ūśibhiḥ*)—with protections
+- नः (*naḥ*)—to us
+- आ गच्छतं (*ā gacchataṃ*)—be pleased to come
+- दस्रा (*dasrā*)—of attractive form
+- हिरण्यवर्तनी (*hiraṇyavartanī*)—having a golden chariot, O Aśvin deities
+- सोम्यं (*somyaṃ*)—made of Soma
+- मधु (*madhu*)—the sweet drink
+- पिबतं (*pibataṃ*)—drink
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come to us with all your protections. O you of attractive form, having a golden chariot, O Aśvin deities, drink the Soma-made sweet drink.
+
+##### English translation
+Come to us, Aswins, with all your protections: Dasras, riders in a golden chariot, drink the sweet Soma beverage.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नू॒नं या॑तमश्विना॒ रथे॑न॒ सूर्य॑त्वचा ।  
+> भुजी॒ हिर॑ण्यपेशसा॒ कवी॒ गंभी॑रचेतसा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नूनं । यातं । अश्विना । रथेन । सूर्यत्वचा ।  
+> भुजी इति । हिरण्यपेशसा । कवी इति । गंभीरचेतसा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भुजी हविषां भोक्तारौ यद्वा स्तोतृभिरन्नानां भोजयितारौ सर्वस्य
+> जगतः पालकौ ना हे हिरण्यपेशसा हिरण्मयालंकारौ हिरण्मयावयवौ ना हे कवी
+> क्रांतदर्शिनौ स्तोतव्यौ ना हे गंभीरचेतसा प्रशस्तज्ञानौ ईदृशौ हे अश्विनाश्विनौ
+> सूर्यत्वचा सूर्यवद्भासमानेन रथेन नूनमवश्यमस्माना यातु । आगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O भुजी (*bhujī*), enjoyers of the oblations, or else those who make the praisers enjoy food, protectors of the whole world; O हिरण्यपेशसा (*hiraṇyapeśasā*), with golden ornaments, golden limbs; O कवी (*kavī*), far-seeing, to be praised; O गंभीरचेतसा (*gaṃbhīracetasā*), of excellent knowledge: such Aśvins, let your chariot, shining like the sun (सूर्यत्वचा (*sūryatvacā*)), surely (नूनं (*nūnaṃ*)) come to us (यातु (*yātu*)). **NOTE**
+
+### Printed p. 568
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुजी (*bhujī*)—those who enjoy the oblation
+- हिरण्यपेशसा (*hiraṇyapeśasā*)—having golden ornament
+- कवी (*kavī*)—far-seeing
+- गंभीरचेतसा (*gaṃbhīracetasā*)—having excellent knowledge
+- अश्विना (*aśvinā*)—O Aśvin deities
+- सूर्यत्वचा (*sūryatvacā*)—with splendour equal to the sun
+- रथेन (*rathena*)—with the chariot
+- नूनं (*nūnaṃ*)—surely
+- आ यातं (*ā yātaṃ*)—be pleased to come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who enjoy the oblation, have golden ornament, are far-seeing and of excellent knowledge, be pleased to come to us surely with a chariot of splendour equal to the sun.
+
+##### English translation
+Aswins, partakers of sacrificial food, decorated with golden ornaments, wise, and endowed with profound intellect, come verily in your chariot, invested with solar radiance.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑तं॒ नहु॑ष॒स्पर्यांतरि॑क्षात्सुवृ॒क्तिभिः॑ ।  
+> पिबा॑थो अश्विना॒ मधु॒ कण्वा॑नां॒ सव॑ने सु॒तं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यातं । नहुषः । परि । आ । अंतरिक्षात् । सुवृक्तिभिः ।  
+> पिबाथः । अश्विना । मधु । कण्वानां । सवने । सुतं । ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ नहुषस्परि । नहुष इति मनुष्यनाम । सामर्थ्याच्चात्र तत्संबद्धो
+> लोको लक्ष्यते । मानुषात्तस्माल्लोकात् ॥ परि पंचम्यर्थानुवादी ॥ सुवृक्तिभिः
+> सुष्टु दोषवर्जिताभिः सुप्रवृत्ताभिर्वा स्तुतिभिर्हेतुभूताभिरा यातं । आगच्छतं ।
+> तथांतरिक्षादंतरा क्षांतान्मध्यमाल्लोकादप्यागच्छतं । अगत्य च कण्णानां कण्वगोत्राणामस्माकं सवने यज्ञे प्रातःसवनादौ सुतमभिषुतं मधु मधुरं
+> सोमं हे अश्विनौ पिबाधः । पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, नहुषस्परि (*nahuṣaspari*): नहुष (*nahuṣa*) is a name for man, and here by implication the world connected with him, the human world; परि (*pari*) merely repeats the sense of the ablative. Come by the well-made, faultless or well-directed praises (सुवृक्तिभिः (*suvṛktibhiḥ*)) as the cause; come also from the अंतरिक्ष (*aṃtarikṣa*), the middle world lying between. And having come, O Aśvins, drink the pressed (सुतं (*sutaṃ*)) sweet Soma at the sacrifice (सवने (*savane*)) of us the Kaṇvas, of the Kaṇva family, in the morning pressing and the rest (पिबाथः (*pibāthaḥ*) = पिबतं (*pibataṃ*)). **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 562. pp. 557-562 (batch API)
+**Progress note:** Done through printed p. 568. pp. 563-568 (batch API)
