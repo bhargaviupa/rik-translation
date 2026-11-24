@@ -1,0 +1,1 @@
+- 2026-11-24 w0220: inserted missing `## Sūkta 32 (Maṇḍala 8)` heading (OCR head line ಸೂಕ್ತ-೨೨; the line below and the announcement print 32); dispatcher repair in volume file and work/w0220/en.md.

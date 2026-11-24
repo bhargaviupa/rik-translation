@@ -10154,6 +10154,8 @@ Here ends the second adhyāya in the sixth aṣṭaka of the Ṛgveda-saṃhitā
 
 **NOTE**
 
+## Sūkta 32 (Maṇḍala 8)
+
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > अथ षष्ठस्य तृतीयोऽध्याय आरभ्यते ॥ प्र कृतानीति त्रिंचदृचं द्वितीयं
