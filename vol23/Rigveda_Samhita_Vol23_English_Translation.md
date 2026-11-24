@@ -25170,6 +25170,275 @@ O Aśvins, surely come. These oblations (हव्यानि (*havyāni*), ह
 
 O Aśvin deities, surely come here graciously. The oblations made ready here are set for you alone. These same Soma juices were prepared in Turvaśa and in Yadu. Moreover, these same juices are again prepared and ready for you among us, the sons of Kaṇva. Therefore, graciously come.
 
+### Printed p. 607
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्ना॑सत्या परा॒के आ॑र्वा॒के अस्ति॑ भेष॒जं ।  
+> तेन॑ नू॒नं वि॑म॒दाय॑ प्रचेतसा छ॒र्दिर्व॒त्साय॑  
+> यच्छतं ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । नासत्या । पराके। अर्वाके । अस्ति । भेषजं ।  
+> तेन । नूनं । विमदाय । प्रचेतसा । छर्दिः । वत्साय । यच्छतं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्यावश्विन् पराके दूरदेशेऽर्वाके समीपे च यद्युवयोः
+> संबंधि भेषजं रोगोपशमनकारणमस्ति तेन भेषजेन सहितं छर्दिर्गृहं हे
+> प्रचेतसा प्रकृष्टज्ञानावश्विन् विमदाय । लुप्तोपनुमेतत् । एतत्संज्ञायेवर्षये वत्साय नूनमवश्यं प्रयच्छतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Nāsatyas, the Aśvins. Whatever remedy of yours, the cause of the allaying of disease, exists far off or near, with that remedy bring a house (छर्दिः (*chardiḥ*)) to Vatsa. He says the word प्रचेतसा (*pracetasā*) means "O Aśvins of excellent knowledge". विमदाय (*vimadāya*) is said to be a form with an elided *upanum* (the elision of an upasarga/augment), and as a name it refers to a seer (Vimada). Hence they are to grant to Vatsa, without fail, the remedy-bearing house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतसा (*pracetasā*)—possessed of most excellent knowledge
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- पराके (*parāke*)—in a distant place
+- अर्वाके (*arvāke*)—or in a near place
+- यत् (*yat*)—whichever of yours
+- भेषजं (*bheṣajaṃ*)—medicine
+- अस्ति (*asti*)—there is
+- तेन (*tena*)—with that
+- विमदाय (*vimadāya*)—just as you went to help Vimada
+- वत्साय (*vatsāya*)—to help Vatsa also
+- छर्दिः (*chardiḥ*)—to his house
+- नूनं (*nūnaṃ*)—come without fail
+- यच्छतं (*yacchataṃ*)—grant your favour to Vatsa also
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities of most excellent knowledge, whatever medicine of yours there is, far off or near, with that, just as you went to help Vimada, come to Vatsa's house to help him and grant him your favour.
+
+##### English translation
+The healing drug, Nasatyas, that is afar off or nigh, wherewith (you repaired) to (his) dwelling for the sake of Vimada, you who are of surpassing wisdom now grant to Vatsa.
+
+### Printed p. 608
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभु॑त्सु॒ प्र दे॒व्या सा॒कं वा॒चाहम॒श्विनोः॑ ।  
+> व्या॑वर्दे॒व्या म॒तिं वि रा॒तिं मर्त्ये॑भ्यः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभुत्सि । ऊं इति । प्र । देव्या । साकं । वाचा । अहं । अश्विनोः ।  
+> वि । आवः । देवि । आ । मतिं । वि । रातिं । मर्त्येभ्यः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्विनोः संबंधिन्या देव्या द्योतमानया वाचा स्तुतिरूपया साकं
+> सहाहं प्राभुत्सि । प्रबुद्धोऽस्मि । उ इति पूरणः । हे देवि द्योतमान उषः त्वं च
+> मतिं मया कृतां स्तुतिमाभिलक्ष्य व्यावः । तमांसि विवृणु । अपगमय । प्रकाशयेत्यर्थः ॥ वृणोतेश्छांदसे लुजि मंत्रे घसेत्यादिना चेर्लुक् । छंदस्यपि दृश्यत
+> इत्याडागमः ॥ अपि च मर्त्येभ्यो मनुष्येभ्यः स्तोतृभ्योऽस्मभ्यं रातिं धनं
+> व्यावः । प्रकाशय ॥
+
+##### Gist of the bhāṣya
+
+I have awakened together with the shining speech, in the form of praise, that belongs to the Aśvins. उ (*u*) is a filler. O shining Uṣas, you too, having regard to the praise made by me, व्यावः (*vyāvaḥ*): uncover (dispel) the darkness, make it go away, that is, illumine. Further, for us mortals, the praisers, reveal wealth (रातिं (*rātiṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विनोः (*aśvinoḥ*)—praising the Aśvin deities
+- देव्या (*devyā*)—and shining
+- वाचा साकं (*vācā sākaṃ*)—with speech that is in the form of praise
+- अहं (*ahaṃ*)—I
+- प्र अभुत्सि उ (*pra abhutsi u*)—awake
+- देवि (*devi*)—O Uṣas, of divine nature
+- मतिं (*matiṃ*)—my praise
+- आ (*ā*)—having noted
+- व्यावः (*vyāvaḥ*)—scatter the darkness
+- मर्त्येभ्यः (*martyebhyaḥ*)—to the praisers
+- रातिं (*rātiṃ*)—wealth
+- वि (आवः) (*vi (āvaḥ)*)—reveal
+
+##### भावार्थ (Bhāvārtha)
+
+I awake together with speech that praises the Aśvin deities, is shining and is in the form of praise.
+
+### Printed p. 609
+O Uṣas, of divine nature, take note of my praise and scatter the darkness. Reveal (give) wealth to the praisers.
+
+##### English translation
+I awake with the pious praise of the Aswins; scatter, goddess, (the darkness) at my eulogy : bestow wealth upon (us) mortals.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र बो॑धयोषो अ॒श्विना॒ प्र दे॑वि सूनृते महि ।  
+> प्र य॑ज्ञहोतरानु॒षक्स्रु मदा॑य॒ श्रवो॑ बृ॒हत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । बोधय । उषः । अश्विना । प्र । देवि । सूनृते । महि ।  
+> प्र । यज्ञहोतः । आनुषक् । प्र । मदाय । श्रवः । बृहत् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः अश्विनौ देवौ प्र बोधयास्मत्सोत्रस्य श्रवणार्थं । हे देवि
+> दानादिगुणयुक्ते हे सूनृते सुष्टु नेत्रि हे महि महति इत्थंमहाभागा त्वमश्विनौ प्र बोधय । हे यज्ञहोतर्यज्ञानां यष्टव्यानां देवानामाह्वातर्होशर्वा आनुषगनुषक्तं संततं यथा भवति तथाश्विनौ स्तुतिभिः प्र बोधय । तथा
+> मदायाश्विनोर्मदोत्पादनार्थं बृहन्महच्छ्रवः श्रवणीयं सोमलक्षणमन्नमस्माभिः कल्पितं ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, awaken the Aśvin deities so that they may hear our praise. O goddess endowed with the qualities of giving and so on, O सूनृते (*sūnṛte*), good leader, O great one, being of such great fortune, awaken the Aśvins. O यज्ञहोतः (*yajñahotaḥ*), caller of the gods who are to be worshipped in sacrifices, awaken the Aśvins with praises so that it is continuous (आनुषक् (*ānuṣak*)). Likewise, for the Aśvins' exhilaration, abundant, great, renowned food in the form of Soma has been prepared by us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- अश्विना (*aśvinā*)—the Aśvin deities
+- प्र बोधय (*pra bodhaya*)—awaken
+- देवि (*devi*)—of divine nature
+- सूनृते (*sūnṛte*)—possessed of excellent speech
+- महि (*mahi*)—great one, O Uṣas
+- प्र (*pra*)—awaken them
+- यज्ञहोतः (*yajñahotaḥ*)—O sacrificial Hotṛ
+- आनुषक् (*ānuṣak*)—continuously
+- प्र (बोधय) (*pra (bodhaya)*)—awaken them
+- मदाय (*madāya*)—for the satisfaction of the Aśvin deities
+- बृहत् (*bṛhat*)—abundant
+- श्रवः (*śravaḥ*)—oblation
+- प्र (कल्पितं) (*pra (kalpitaṃ)*)—is prepared
+
+### Printed p. 610
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, awaken the Aśvin deities. O Uṣas, of divine nature, of excellent speech, great, awaken them. O sacrificial Hotṛ, awaken them continuously. Abundant oblation has been prepared for the satisfaction of the Aśvin deities.
+
+##### English translation
+Ushas, truth-speaking mighty goddess, awake the Ashwins : Invoker of the adorable (deities, arouse them) successively; the copious sacrificial food (is prepared) for their exhilaration.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदु॑षो॒ यासि॑ भा॒नुना॒ सं सूर्ये॑ण रोचसे ।  
+> आ हा॒यम॒श्विनो॒ रथो॑ व॒र्तिर्या॑ति नृ॒पाय्क्॑यं ॥१८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । उषः । यासि । भानुना । सं । सूर्येण । रोचसे ।  
+> आ । ह । अयं । अश्विनोः । रथः । वर्तिः । याति । नृपाय्यं ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः भानुना दीप्त्या सह यद्यदा यासि गच्छसि तदानीं सूर्येण सं
+> रोचसे । सम्यग्वीप्यसे । अपि च तस्मिन्समयेऽश्विनोरयं रथो नृपाय्यं
+> यन्नृभिर्नेतृभिर्युत्विग्भिः पालनीयं वर्तिर्यज्ञगृहमा याति ह । आगच्छति खलु ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, when you go with radiance (भानुना (*bhānunā*)), then you shine together with the sun (सं रोचसे (*saṃ rocase*): are fully illumined). And at that time this chariot of the Aśvins comes to the sacrificial house (वर्तिः (*vartiḥ*)), which is to be protected (नृपाय्यं (*nṛpāyyaṃ*)) by the leaders, the priests; it indeed comes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- भानुना (*bhānunā*)—with your radiance
+- यत् (*yat*)—when
+- यासि (*yāsi*)—you move (then)
+- सूर्येण (*sūryeṇa*)—united with the sun
+- सं रोचसे (*saṃ rocase*)—you shine exceedingly (at that very time)
+- अश्विनोः (*aśvinoḥ*)—of the Aśvin deities
+- अयं रथः (*ayaṃ rathaḥ*)—this chariot
+- नृपाय्यं (*nṛpāyyaṃ*)—protected by the priests
+- वर्तिः (*vartiḥ*)—to the sacrificial house
+- आ याति ह (*ā yāti ha*)—comes, does it not
+
+### Printed p. 611
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, when you move with your radiance, then, united with the sun, you shine exceedingly. At that very time this chariot of the Aśvin deities comes to the sacrificial house protected by the priests.
+
+##### English translation
+When, Ushas, you move with your radiance, you shine equally with the sun ; and this chariot of the Aswins proceeds to the hall of sacrifice frenquented by the leaders (of the rite).
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदापी॑तासो अं॒शवो॒ गावो॒ न दु॒ह्र ऊध॑भिः ।  
+> यद्वा॒ वाणी॒रनू॑षत॒ प्र दे॑व॒यंतो॑ अ॒श्विना॑ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । आपीतासः । अंशवः । गावः । न । दुह्रे । ऊधभिः ।  
+> यत् । वा । वाणीः । अनूषत । प्र । देव्ययंतः । अश्विना ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदापीतास आ समंतात्पीतवर्णा अंशवः सोमलता ऊधभिर्गावो न
+> गाव इव दुह्रे रसं दुहते ॥ लोपस्त आत्मनेपदेष्टिति तलोपः । बहुलं छंदसीति
+> रुडागमः ॥ यद्वा यदा च देवयंतो देवान्कामयमाना ऋत्विजो वाणीर्वाचः स्तुतीरनूषत अस्तुवन् । अकुर्वन्नित्यर्थः । तदाश्विन् देवौ प्रावतं ।
+> प्ररक्षतं ॥
+
+##### Gist of the bhāṣya
+
+When the Soma plants (अंशवः (*aṃśavaḥ*)), yellow all round (आपीतासः (*āpītāsaḥ*)), yield their juice as cows do with their udders (दुह्रे (*duhre*)), or when the priests, desiring the gods (देवयंतः (*devayaṃtaḥ*)), have uttered praises (वाणीः (*vāṇīḥ*); अनूषत (*anūṣata*): praised, made), then, O Aśvin deities, protect us (प्रावतं (*prāvataṃ*): प्ररक्षतं (*prarakṣataṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- गावः (*gāvaḥ*)—cows
+- ऊधभिः न (*ūdhabhiḥ na*)—as they milk with their udders
+- यत् (*yat*)—when
+- आपीतासः (*āpītāsaḥ*)—yellow-coloured
+- अंशवः (*aṃśavaḥ*)—Soma plants
+- दुह्रे (*duhre*)—pour out the juice
+- यद्वा (*yadvā*)—and when
+- देवयंतः (*devayaṃtaḥ*)—worshipping the gods
+
+### Printed p. 612
+- वाणीः (*vāṇīḥ*)—priests; praise-words
+- अनूषत (*anūṣata*)—recite, then
+- प्र (अवतं) (*pra (avataṃ)*)—protect us fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as cows milk with their udders, when the yellow Soma plants pour out their juice and when the priests, worshippers of the gods, recite words of praise, then protect us fully.
+
+##### English translation
+When the yellow Soma plants milk forth (their juice) as cows from their udders, when the devout (priests) repeat the words of praise, then, O Aswins, preserve us.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रद्यु॒म्नाय॒ प्र शव॑से॒ प्र नृ॒षाह्या॑य॒ शर्म॑णे ।  
+> प्र दक्षा॑य प्रचेतसा ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । द्युम्नाय । प्र । शवसे । प्र । नृसह्याय । शर्मणे ।  
+> प्र । दक्षाय । प्रचेतसा ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रचेतसा प्रकृष्टज्ञानावश्विन् द्युम्नाय द्योतमानायान्नाय यशसे वा ॥
+> तादर्थे चतुर्थी ॥ द्युम्नार्थमस्मान् प्ररक्षतं । शवसे बलायि च प्ररक्षतं । नृषह्याय नृभिः सोढव्याय शर्मणे सुखाय च प्ररक्षतं। दक्षाय वृद्ध्यर्थं प्ररक्षतं।
+> यद्वा ॥ द्युम्नायेत्यादौ क्रियाग्रहणमपि कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थी ॥ द्युम्नादीन्यस्मभ्यं प्रयच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins of excellent knowledge, protect us for द्युम्नाय (*dyumnāya*), shining food or fame; the dative is in the sense of purpose. Protect us for the sake of splendour; protect us also for strength (शवसे (*śavase*)); for what is to be endured by men (नृषह्याय (*nṛṣahyāya*)), and for happiness (शर्मणे (*śarmaṇe*)); protect us for prosperity (दक्षाय (*dakṣāya*)). Or else: in द्युम्नाय (*dyumnāya*) and the rest the verb "give" must also be taken, and the dative is used because the object has the character of recipient; the meaning is: grant us splendour and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतसा (*pracetasā*)—O Aśvin deities of excellent knowledge
+- द्युम्नाय (*dyumnāya*)—for the attainment of shining food or fame
+- प्र (रक्षतं) (*pra (rakṣataṃ)*)—protect us
+- शवसे (*śavase*)—for the acquisition of strength
+- प्र (*pra*)—protect
+
 ---
 
-**Progress note:** Done through printed p. 606. pp. 601-606 (batch API)
+**Progress note:** Done through printed p. 612. pp. 607-612 (batch API)
