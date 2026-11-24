@@ -10124,6 +10124,274 @@ O Indra and Soma, come to us with swift horses. Destroy the Rākṣasas who are 
 ##### English translation
 Come with rapid steeds, slay the oppressive mischievous Rakshasas : let there be no happiness, Indra and Soma, to the malignant, who harasses us with his oppression.
 
+### Printed p. 252
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो मा॒ पाके॑न॒ मन॑सा॒ चरं॑तमभि॒चष्टे॒ अनृ॑तेभि॒र्वचो॑ऽभिः ।  
+> आस॑ इव का॒शिना॒ संगृ॑भीता॒ अस॑न्न॒स्त्वास॑त इंद्र व॒क्ता ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मा । पाकेन । मनसा । चरंतं । अभिचष्टे । अनृतेभिः । वचःभिः ।  
+> आपः इव । काशिना। संगृभीताः । आसन् । अस्तु । असतः । इंद्र । वक्ता ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पाकेन पक्वेन शुद्धेन मनसा चरंतं वर्तमानं सत्यवादिनं यो मां
+> राक्षसोऽनृतेभिरनृतैरसत्यैर्वचोभिर्वचनैरभिचष्टे अभिशंसति मय्यसत्यवचनमारोपयति हे इंद्र काशिना मुष्टिना संगृभीताः सम्यग्गृहीता आप इव यथापो विशीर्णा भवंति तथासतोऽसत्यस्य वक्ता स राक्षसोऽसन्नस्तु । अविद्यमानो
+> भवतु । नश्यत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes पाकेन (*pākena*) as "ripened, pure": the rākṣasa accuses me, who go about with a pure mind and speak truth, with false words, and so imputes untruthful speech to me. "O Indra, as water firmly seized in the fist (काशिना (*kāśinā*), by the clenched hand) is scattered, so may that speaker of untruth, that rākṣasa, become non-existent (असन्नस्तु (*asannastu*)), that is, perish."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पाकेन (*pākena*)—with a ripened and pure
+- मनसा (*manasā*)—mind (with devotion)
+- चरंतं (*caraṃtaṃ*)—who conducts himself
+- मा (*mā*)—me
+- यः (*yaḥ*)—the asura who
+- अनृतेभिः (*anṛtebhiḥ*)—of untrue nature
+- अभिचष्टे (*abhicaṣṭe*)—deceives
+- वचोभिः (*vacobhiḥ*)—with words
+- असतः वक्ता (*asataḥ vaktā*)—that same asura, the speaker of untruth
+- काशिना (*kāśinā*)—in the fist
+- संगृभीताः (*saṃgṛbhītāḥ*)—held
+- आप इव (*āpa iva*)—like waters
+- असन्नस्तु (*asannastu*)—let him come to non-existence (let his existence be destroyed)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whichever asura deceives me, who deal with you with ripened and pure devotion, by words of an untrue nature, may that same speaker of untruth lose his existence, as water held in the fist runs out. (May he be wholly destroyed.)
+
+##### English translation
+May he who with false columns maligns me behaving with a pure **NOTE**
+
+### Printed p. 253
+heart, may such a speaker of falsehood, Indra, cease to be, like water held in the hand.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये पा॑कशं॒सं वि॒हरं॑त॒ एवै॒र्ये वा॑ भ॒द्रं दू॒षयं॑ति  ॒॑
+> स्व॒धाभिः॑ ।  
+> अह॑ये वा॒ तान्प्र॒ददा॑तु॒ सोम॒ आ वा॑ दधातु॒ निर्ऋ॑तेरु॒पस्थे॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । पाकशंसं । विहरंते । एवैः । ये । वा । भद्रं । दूषयंति । स्वधाभिः ।  
+> अहये । वा । तान् । प्रददातु । सोमः । अ । वा । दधातु । निःऋतेः ।  
+> उपस्थे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये राक्षसाः पाकशंसं परिपक्ववचनं सत्यभाषिणं मामेवैरेतवैः प्राप्तवैरात्मीयैः कामैर्हेतुभूतैर्विहरंते विशेषेण हरंति उपक्षपयंति । यथाकामं परिवदंतीत्यर्थः । ये वा स्वधाभिर्बलैर्युक्ता भद्रं कल्याणवर्तनं मां
+> दूषयंति दुष्टं कुर्वंति तान् सर्वान् सोमोऽहये वा सर्पाय वा प्रददातु । निर्ऋतेः पापदेवताया उपस्थ उत्संगे वा आ दधातु । प्रक्षिपतु ॥
+
+##### Gist of the bhāṣya
+
+पाकशंसं (*pākaśaṃsaṃ*) is "one of ripened speech", a truthful speaker, namely me. The rākṣasas who विहरंते (*viharaṃte*) (take away in a special manner, injure) me by their own obtained wishes (एवैः (*evaiḥ*), as the cause), that is, who speak of me as they please; or who, endowed with स्वधाभिः (*svadhābhiḥ*) (powers), defame me, one of good, auspicious conduct, make me evil: may Soma give all of them to the serpent, or place them in the lap of Nirṛti, the goddess of evil, that is, cast them there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—the rākṣasas who
+- पाकशंसं (*pākaśaṃsaṃ*)—me, who have a ripened mind
+- एवैः (*evaiḥ*)—by their wilful inclinations
+- विहरंते (*viharaṃte*)—injure
+- ये वा (*ye vā*)—or those who
+- स्वधाभिः (*svadhābhiḥ*)—endowed with their power
+- भद्रं (*bhadraṃ*)—me, who am on the auspicious path
+- दूषयंति (*dūṣayaṃti*)—draw to an evil path
+- तान् (*tān*)—all of them
+- सोमः (*somaḥ*)—the god Soma
+- अहये वा (*ahaye vā*)—to the mouth of a serpent
+- प्रददातु (*pradadātu*)—let him give as an offering
+- निर्ऋतेः (*nirṛteḥ*)—of the goddess of evil named Nirṛti
+- उपस्थे वा (*upasthe vā*)—or on the lap
+- आ दधातु (*ā dadhātu*)—let him place
+
+### Printed p. 254
+
+##### भावार्थ (Bhāvārtha)
+
+Those rākṣasas who injure me, one of ripened mind, by their wilful inclinations, and those who, endowed with their power, draw me, who am on the auspicious path, to an evil path: may Soma thrust all of them even into the mouth of a serpent. Or else, placing them on the lap of the goddess of evil named Nirṛti, may he subject them to that torment.
+
+##### English translation
+May Soma give to the serpent, or toss upon the lap of Nirriti, those who with designing (accusations) persecute me, a speaker of sincerity, and those who by spiteful (calumnies) vilify all that is good in me.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नो॒ रसं॒ दिप्प॑ति पि॒त्वो अ॑ग्ने॒ यो अश्वा॑नां॒ यो गवां॒  ॒॑
+> यस्तनूनां ।  
+> रि॒पुः स्ते॒नः स्ते॑य॒कृद्द॒भ्रमे॑तु॒ नि ष ही॑यतां त॒न्वा॒३॒॑३तना॑  
+> च ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । रसं । दिप्पति । पित्वः । अग्ने । यः । अश्वानां । यः । गवां । यः ।  
+> तनूनां ।  
+> रिपुः । स्तेनः । स्तेयकृत् । दभ्रं । एतु । नि । सः । हीयतां । तन्वा । तना । च ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यो राक्षसो नोऽस्माकं पित्वोऽन्नस्य रसं सारं दिप्सति जिघांसति ।
+> यश्चाश्वानामस्मदीयानां रसं दिप्सति । यश्च गवां रसं दिप्सति । यश्च तनूनामस्मदीयानां शरीराणां रसं दिप्सति । रिपुर्बाधकः स्तेनश्चौरः स्तेयकृद्धनस्यापहर्ता
+> स सर्वो जनो दभ्रं हिंसामेतु । प्राप्पोतु । आपि च स बाधकस्तन्वा स्वकीयेन
+> शरीरेण तना च तनयेन च नि हीयतां । निहीनो भवतु ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, the rākṣasa who wishes to destroy (दिप्सति (*dipsati*), wishes to kill) the essence, the substance, of our पित्वः (*pitvaḥ*) (food); who so wishes for the essence of our horses; who for that of our cattle; who for that of our bodies; the रिपुः (*ripuḥ*) (obstructor), the स्तेनः (*stenaḥ*) (thief), the स्तेयकृत् (*steyakṛt*) (one who steals wealth): may every such person go to दभ्रं (*dabhraṃ*), that is, meet with harm. And may that obstructor be deprived of his own body (तन्वा (*tanvā*)) and of his offspring (तना (*tanā*)), that is, become bereft of them."
+
+### Printed p. 255
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the asura who
+- नः (*naḥ*)—our
+- पित्वः (*pitvaḥ*)—of food
+- रसं (*rasaṃ*)—the essence
+- दिप्पति (*dippati*)—carries off and destroys
+- यः (*yaḥ*)—whoever
+- अश्वानां (*aśvānāṃ*)—diminishes the strength of our horses
+- यः (*yaḥ*)—whoever
+- गवां (*gavāṃ*)—impairs the fatness of our cattle
+- यः (*yaḥ*)—the asura who
+- तनूनां (*tanūnāṃ*)—destroys the beauty and the strength of our bodies
+- सः (*saḥ*)—such
+- रिपुः (*ripuḥ*)—a harmer
+- स्तेनः (*stenaḥ*)—a thief
+- स्तेयकृत् (*steyakṛt*)—one who carries off our wealth (all those of this group)
+- दभ्रं (*dabhraṃ*)—harm
+- एतु (*etu*)—let him undergo
+- सः (*saḥ*)—every such enemy
+- तन्वा (*tanvā*)—of bodily beauty and the like
+- तना च (*tanā ca*)—and of sons and the like
+- नि हीयता (*ni hīyatā*)—let them be deprived
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whichever asura carries off and destroys the whole essence of our food; whoever diminishes the strength of our horses and impairs the fatness of our cattle; whoever destroys the beauty and strength of our bodies: such a harmer and thief, one who carries off our wealth, and all who belong to this group, let them undergo complete harm. Every such enemy too, let him be deprived of bodily beauty and the like and of sons and the like.
+
+##### English translation
+May he, Agni, who strives to destroy the essence of our food, of our horses, of our cattle, of our bodies—the adversary, the thief, the robber—go to destruction, and be deprived both of person and of progeny.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रः सो अ॑स्तु त॒न्वा॒३॒॑तना॑ च ति॒स्रः पृ॑थि॒वीर॒धो अ॑स्तु॒ विश्वाः॑ ।  
+> प्रति॑ शुष्यतु॒ यशो॑ अस्य देवा॒ यो नो॒ दिवा॒ दिप्स॑ति॒ यश्च॒  ॑
+> नक्तं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परः । सः । अस्तु । तन्वा । तना । च । तिस्रः । पृथिवीः । अधः । अस्तु । विश्वाः ।  
+> प्रति । शुष्यतु । यशः । अस्य । देवाः । यः । नः । दिवा । दिप्सति । यः । च । नक्तं ॥
+
+### Printed p. 256
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स राक्षसस्तन्वा तना च ॥ व्यत्ययेन तृतीया ॥ तन्नाः शरीरस्य तनयस्य च परः
+> परस्तादस्तु । वर्तमानो भवतु । उभाभ्यां वियुक्तो भवत्वित्यर्थः । विश्वा व्याप्तास्ति स्रः पृथिवीस्त्रील्लोकानधोऽस्तु । अधस्ताद्भवतु । लोकत्रयादपि प्रच्युतो भवत्वित्यर्थः । हे देवाः अस्य शत्रोर्यशोऽन्नं कीर्तिर्वा प्रति शुष्यतु । यो राक्षसो
+> नोऽस्मान्दिवाहनि दिप्सति जिघांसति यश्च नक्तं रात्ौ जिघांसति अस्योभयविधस्य
+> यशः प्रति शुष्यत्विति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+तन्वा तना च (*tanvā tanā ca*) is in the instrumental by vyatyaya (interchange of case), for the genitive: of the body and of the offspring. परः (*paraḥ*) means "far away"; अस्तु (*astu*): let him be so, that is, separated from both. विश्वाः (*viśvāḥ*) ("pervading") तिस्रः पृथिवीः (*tisraḥ pṛthivīḥ*) are the three worlds; अधः अस्तु (*adhaḥ astu*): let him be below them, that is, fallen even from the three worlds. "O gods, let the यशः (*yaśaḥ*) of this enemy, his food or his fame, dry up (प्रति शुष्यतु (*prati śuṣyatu*))." The rākṣasa who wishes to kill us by day, and who wishes to kill by night: the construction is that the यशः (*yaśaḥ*) of this twofold enemy should dry up.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the asura who
+- नः (*naḥ*)—us
+- दिवा (*divā*)—by day
+- दिप्सति (*dipsati*)—harms
+- यश्च (*yaśca*)—and whoever
+- नक्तं (*naktaṃ*)—harms also at night
+- सः (*saḥ*)—that asura
+- तन्वा (*tanvā*)—of body
+- तना च (*tanā ca*)—and of sons and the like
+- परः अस्तु (*paraḥ astu*)—separated, let him lose both
+- विश्वाः (*viśvāḥ*)—all
+- तिस्रः पृथिवीः (*tisraḥ pṛthivīḥ*)—than the three worlds
+- अधो अस्तु (*adho astu*)—let him roll down below
+- देवाः (*devāḥ*)—O gods
+- अस्य (*asya*)—of this enemy
+- यशः (*yaśaḥ*)—the food
+- प्रति शुष्यतु (*prati śuṣyatu*)—let it come to destruction
+
+##### भावार्थ (Bhāvārtha)
+
+The asura who harms us alike by day and by night, may that asura be separated from his body and from his sons and the like, and lose both. May he roll down into the region of darkness lying below the three worlds. O gods, let the enemy's food come to destruction.
+
+##### English translation
+May he be deprived of bodily (existence) and of posterity; may he be cast down below all the three worlds; may his reputation, Gods, be blighted who seeks our destructions by day or by night.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒वि॒ज्ञा॒नं चि॑कि॒तुषे॒ जना॑य॒ सच्चास॑च्च॒ वच॑सी पस्पृधाते ।  
+> तयो॒र्यत्स॒त्यं य॑त॒रदृजी॑य॒स्तदित्सोमो॑ऽवति॒ हंत्यास॑त् ॥
+
+### Printed p. 257
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुविज्ञानं । चिकितुषे । जनाय । सत् । च । असत् । च । वचसी इति । पस्पृधाते  
+> इति ।  
+> तयोः । यत् । सत्यं । यतरत् । ऋजीयः । तत् । इत् । सोमः । अवति । हंति ।  
+> असत् । १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रायेणेचमादिभिर्युग्भी राक्षसेन सहर्षिणा शपथः क्रियते । अत्र केचिदाहुः । हत्वा पुत्रशतं पूर्वं वसिष्ठस्य महात्मनः । वसिष्ठं राक्षसोऽसि त्वं वासिष्ठं
+> रूपमास्थितः ॥ अहं वसिष्ठ इत्येवं जिघांसू राक्षसोब्रवीत् । अत्रोत्तरा
+> ऋचो दृष्टा वसिष्ठेनेति नः श्रुतमिति ॥ चिकितुषे विदुषे जनायेदं सुविज्ञानं
+> विज्ञातुं सुशकं भवति । किं तत् । सच्चासच्च सत्यं चासत्यं च । वचसी सत्यासत्यरूपे
+> वचने पस्पृधाते । मिथः स्पर्धेते । तयोः सदसतोर्मध्यॆ यत्सत्यं यथार्थं
+> वचनु यतरद्यच्चर्जीय ऋजुतममकुटलु तदित्तदेवाकुटिलं सत्यभाषणं सोमोऽवति । रक्षति । असदुक्तविलक्षणमसत्यं हुति । हिनस्ति । एवं सत्यावयोर्मध्यॆ
+> कतरोऽनृतभाषीति विद्वद्भिः सुविज्ञानमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa begins: an oath is usually made with the rākṣasa by the seer **NOTE**. Here some say: "Having formerly slain the hundred sons of the great-souled Vasiṣṭha, you are a rākṣasa who has assumed Vasiṣṭha's form." The rākṣasa, wishing to kill, said, "I am Vasiṣṭha." We have heard that the Ṛks that follow here were seen by Vasiṣṭha.
+
+चिकितुषे (*cikituṣe*) means to a knowing person: for him this is easy to understand. What is it? सच्चासच्च (*saccāsacca*), truth and untruth: the two speeches, of the nature of true and untrue, contend (पस्पृधाते (*paspṛdhāte*)) with each other. Of those two, whichever speech is true, in accord with fact, whichever is the straightest (ऋजीयः (*ṛjīyaḥ*)), the least crooked, just that uncrooked true speech Soma protects; the untrue, which is unlike what was said, he strikes down, injures. Thus the meaning is that learned men easily recognize which of the two is the speaker of falsehood.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चिकितुषे (*cikituṣe*)—to one who has discriminating knowledge
+- जनाय (*janāya*)—to a person
+- सच्च (*sacca*)—what is true
+- असच्च (*asacca*)—and what is untrue, this difference
+- सुविज्ञानं (*suvijñānaṃ*)—comes easily to understanding
+- वचसी (*vacasī*)—these two kinds of speech, of true and untrue form
+- पस्पृधाते (*paspṛdhāte*)—when they contend in rivalry
+- तयोः (*tayoḥ*)—of those two
+- यत् सत्यं (*yat satyaṃ*)—whichever is true speech
+- यतरत् (*yatarat*)—whichever
+- ऋजीथः (*ṛjīthaḥ*)—is trustworthy **NOTE**
+- तदित् (*tadit*)—just that
+- सोमः (*somaḥ*)—the god Soma
+- अवति (*avati*)—protects
+- असत् (*asat*)—untrue speech
+- हंति (*haṃti*)—destroys
+
+##### भावार्थ (Bhāvārtha)
+
+To discriminating persons who know the difference between truth and untruth, the difference between what is true and what is untrue comes easily to understanding. When these two kinds of speech, of true and untrue form, contend in rivalry, whichever of the two is true speech, whichever is trustworthy, just that the god Soma protects. He destroys the true speech **NOTE**.
+
 ---
 
-**Progress note:** Done through printed p. 251. pp. 246-251 (batch API)
+**Progress note:** Done through printed p. 257. pp. 252-257 (batch API)
