@@ -24056,6 +24056,330 @@ Maṇḍala 8; Anuvāka 6; Sūkta 47. Aṣṭaka 6; Adhyāya 4; Varga 7, 8, 9, 1
 
 O Varuṇa, O Mitra; these two are also indicative of Aryaman. O Varuṇa and the rest, your protection, being great, is great. For whom is it made? For the sacrificer who gives the oblation. Further, O Ādityas, the sacrificer whom you protect from the harm of an injurer, to him sin does not come; it does not reach him. Why so? On this it is said: your protections are free from sin and free from troubles; your protections are excellent protections. The repetition is for the sake of respect.
 
+### Printed p. 526
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra
+- महतां (*mahatāṃ*)—of you, the great
+- वः (*vaḥ*)—your
+- अवः (*avaḥ*)—protection
+- दाशुषे (*dāśuṣe*)—in regard to the performer of the sacrifice
+- महि (*mahi*)—is exceedingly great
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- यं (*yaṃ*)—which sacrificer
+- द्रुहः (*druhaḥ*)—from the wicked enemy
+- अभि रक्षथ (*abhi rakṣatha*)—you protect completely
+- ईं (*īṃ*)—such a sacrificer
+- अघं (*aghaṃ*)—sin
+- न नशत् (*na naśat*)—does not approach at all
+- वः (*vaḥ*)—your
+- ऊतॆयः (*ūtèyaḥ*)—protections
+- अनेकसः (*anekasaḥ*)—are free from sin
+- वः ऊतॆयः (*vaḥ ūtèyaḥ*)—your protections
+- सुऊतयः (*suūtayaḥ*)—are of a beneficial nature
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, O Mitra, the protection of you, the great ones, is exceedingly great in regard to the performer of the sacrifice. O Ādityas, sin does not approach at all such a sacrificer as you protect completely from the wicked enemy. O Varuṇa and the other gods, your protections are free from sin. Your protections are of a beneficial nature.
+
+##### English translation
+Mitra and Varuna, you are great, and great is your protection to the offerer ; no evil, Adityas, harms him whom yon guard from the injurer ; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒दा दे॑वा अ॒घाना॒मादि॑त्यासो अ॒पाकृ॑तिं ।  
+> प॒क्षा वयो॒ यथो॒परि॒ व्य१॒ं॑स्मे शर्म॑ यच्छताने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ न ऊ॒तयः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद । देवाः । अघानां । आदित्यासः । अप्यआकृतिं ।  
+> पक्षा । वयः । यथा । उपरि । वि । आस्मे इति । शर्म । यच्छत । अनेकसः । वः ।  
+> ऊतयः । सुऊतयः । वः । ऊतयः ॥ २ ॥
+
+### Printed p. 527
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा आदित्यास आदित्याः यूयमघानां दुःखानामपाकृतिमपाकरणं
+> परिहारप्रकारं विद । जानीथ ! यस्मादेवं तस्माद्वयः पक्षिणो यथा पक्षा
+> पक्षापुपरि सृशिकानामुपरि कुर्वंति सुखाय तद्वदस्मै अध्यस्मासु शर्म सुखं
+> यच्छत ! कुरुत ॥ अधीति सप्तम्यर्थानुवादी ॥ अस्मे अस्माकमुपरीति वा ॥
+
+##### Gist of the bhāṣya
+
+O gods, O Ādityas, you know the removal of evils, that is, of sorrows; you know the manner of averting them. Since it is so, as birds spread their wings over (their young) for their happiness, so grant us happiness, that is, create it for us. The word अधीति (*adhīti*) merely repeats the sense of the locative; or else अस्मे (*asme*) means "upon us". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—divine
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- अघानां (*aghānāṃ*)—of sins
+- आपाकृतिं (*āpākṛtiṃ*)—the means of destruction
+- विद (*vida*)—you know
+- वयः (*vayaḥ*)—birds
+- यथा (*yathā*)—in what manner
+- पक्षा (*pakṣā*)—their wings
+- उपरि (*upari*)—spreading over their young and making them happy, so
+- अस्मे (*asme*)—to us
+- शर्म (*śarma*)—happiness
+- वि यच्छत (*vi yacchata*)—give abundantly
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are of a beneficial nature
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Ādityas, you know the means of destroying sins. As birds spread their wings over their young and make them happy, so make us exceedingly happy. O Varuṇa and the other gods, your protection is free from sin; your protections are of a beneficial nature.
+
+##### English translation
+Divene Adityas, you know the averting of evils ; as birds (spread) their wings over (their) young, grant us happiness ; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य१॒ं॑स्मे अधि॒ शर्म॒ तत्प॒क्षा वयो॒ न यं॑तन ।  
+> विश्वा॑नि विश्ववेदसो वरू॒थ्या॑ मनामहेऽने॒हसो॑ न ऊ॒तयः॑ ॒॑ ॒॑
+> सुऊतयो व ऊतयः ॥ ३ ॥
+
+### Printed p. 528
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अस्मे इति । अधि । शर्म । तत् । पक्षा । वयः । न । यंतन ।  
+> विश्वानि । विश्ववेदसः । वरूथ्या । मनामहे । अनेहसः । व । ऊतयः । सुऊतयः ।  
+> वः । ऊतयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः यूयमस्मे अध्यस्मासु तत् । युष्मास्वेवासाधारणं यच्छर्मास्ति तदित्यर्थः । तद्वि यंतन । विशेषेण प्रापयत । हे विश्ववेदसः सर्वधनाः
+> युष्मान् विश्वानि सर्वाणि वरूथ्या । वरूथं गृहं । तदुचितानि धनानि मनामहे ।
+> याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, you, upon us, that is, the unique happiness that is in you alone: that, तद्वि यंतन (*tadvi yaṃtana*), bestow in a special manner. O विश्ववेदसः (*viśvavedasaḥ*), possessors of all wealth, from you we ask विश्वानि (*viśvāni*), all, वरूथ्या (*varūthyā*): वरूथं (*varūthaṃ*) is a house, and so we ask for the riches that are fit for it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयः (*vayaḥ*)—birds
+- पक्षा न (*pakṣā na*)—as they spread their wings and give happiness to their young
+- अस्मे अधि (*asme adhi*)—in regard to us
+- तत् शर्म (*tat śarma*)—that unique happiness which only you can give
+- वि यंतन (*vi yaṃtana*)—give widely
+- विश्ववेदसः (*viśvavedasaḥ*)—O Ādityas, who possess all wealth
+- विश्वानि (*viśvāni*)—all
+- वरूथ्या (*varūthyā*)—houses of protection
+- मनामहे (*manāmahe*)—we ask of you
+- वः (*vaḥ*)—your
+- ऊतॆयः (*ūtèyaḥ*)—protections
+- अनेकरः (*anekaraḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतॆयः (*ūtèyaḥ*)—protections
+- सुवातयः (*suvātayaḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, as birds spread their wings and give happiness to their young, so give widely, in regard to us, the unique happiness that only you can give. O Ādityas, who possess all wealth and riches, we ask of you the whole house of protection. Your protections are free from sin; they are productive of good for us.
+
+##### English translation
+Grant us that happiness of yours, as birds (spread) their wings ; () you possessed of all wealth, we solicit all riches suitable for our dwelling ; your aids are void of harm, your aids are true aids.
+
+### Printed p. 529
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मा॒ अरा॑सत॒ क्षयं॑ बी॒वामं॑ च॒ प्रचे॑तसः ।  
+> मनो॒र्विश्व॑स्य॒ घेदि॒म आ॑दि॒त्या रा॒य ई॑शतेने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मै । अरासत । क्षयं । जीवातुं । च । प्रचेतसः ।  
+> मनोः । विश्वस्य । घ । इत् । इमे । आदित्याः । रायः । ईशते । अनेकहसः । वः ।  
+> ऊतयः । सुऊतयः । वः । ऊतॆयः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मै मनुष्याय क्षयं निवासं जीवातुं जीवनसाधनमन्नं च प्रचेतसः
+> प्रकृष्टमतयोऽरासत प्रयच्छंति तस्मै यजमानाय तदर्थमिदु आदित्या विश्वस्य
+> फेत् सर्वस्याप्ययष्टुर्मनोर्मनुष्यस्य धनिकस्य रायो धनस्येशते ! स्वामिनो
+> भवंत्यपहृत्य यजमानाय प्रदातुं ॥
+
+##### Gist of the bhāṣya
+
+To whatever man those of excellent understanding give a dwelling, क्षयं (*kṣayaṃ*), and जीवातुं (*jīvātuṃ*), food as the means of life, for that sacrificer, for that very purpose, the Ādityas become lords of the wealth of every man who is not a sacrificer, a rich man; they take it away in order to give it to the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतसः (*pracetasaḥ*)—possessed of excellent knowledge
+- इमे आदित्याः (*ime ādityāḥ*)—these Ādityas
+- यस्मै (*yasmai*)—to whatever man
+- क्षयं (*kṣayaṃ*)—a dwelling-place
+- जीवातुं चॆ (*jīvātuṃ cè*)—and food, the means of life
+- अरासते (*arāsate*)—they give
+- मनोः (*manoḥ*)—for the benefit of such a man
+- विश्वस्य घेत् (*viśvasya ghet*)—of all rich men who do not perform sacrifice
+- रायः (*rāyaḥ*)—of the wealth
+- ईशते (*īśate*)—they are the lords
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are of a beneficial nature
+
+##### भावार्थ (Bhāvārtha)
+
+If these Ādityas, who possess excellent knowledge, wish to give to any sacrificer a dwelling-place and food as the means of life, then, for the benefit of such a sacrificer, they take away the wealth of the other rich men who are not sacrificers and give it to him. O Ādityas, your protections are free from sin. Your protections are of a beneficial nature.
+
+### Printed p. 530
+
+##### English translation
+To whomsoever these wise Adityas grant a dwelling and the means of life, (for him) they master the wealth of every man ; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ णो वृणजन्न॒घा दु॒र्गाणॆ॑ र॒थ्यो॑ यथा ।  
+> स्यामेदिंद्र॑स्य॒ शर्म॑ण्यादि॒त्याना॑मु॒ताव॑स्यने॒हसो॑ व ऊ॒तयः॑ ॒॑ ॒॑
+> सुऊतयो न ऊतयः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । नः । वृणजन् । आघा । दुःगानि । रथ्यः । यथा ॥  
+> स्याम । इत् । इंद्रस्य । शर्मणि । आदित्यानां । उत । अवसि । अनेहसः । वः ।  
+> ऊतयः । सुऊतयः । वः । ऊतयः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परि वृणजन् परिवर्जयंतु नोऽस्माकमघानि पापानि । तत्र दृष्टांतः ।
+> दुर्गाणि दुर्गमनान् प्रदेशानवटु ष्णादिकान् यथा परिवर्जयंति तद्वत् ।
+> इंद्रस्य शर्मणि स्याम । भवेम वयं ! उतापि चादित्यानामवसि रक्षणे च स्याम ॥
+
+##### Gist of the bhāṣya
+
+Let sins avoid us, परि वृणजन् (*pari vṛṇajan*), let them turn away from us. The illustration is this: as men avoid impassable places, दुर्गाणि (*durgāṇi*), so let sins avoid us. May we be in the shelter of Indra; and also may we be in the protection of the Ādityas. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- रथ्यः (*rathyaḥ*)—charioteers
+- दुर्गानि (*durgāni*)—difficult roads
+- नः (*naḥ*)—our
+- अघा (*aghā*)—sins also
+- परि वृणजन् (*pari vṛṇajan*)—avoid us and stay far away
+- इंद्रस्य इत् (*iṃdrasya it*)—given by Indra alone
+- शर्मणि (*śarmaṇi*)—in happiness
+- स्याम (*syāma*)—may we be
+- उत (*uta*)—and
+- आदित्यानां (*ādityānāṃ*)—of the Ādityas
+- अवसि (*avasi*)—in the protection also may we be (O Indra and the other gods)
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are of a beneficial nature
+
+### Printed p. 531
+
+##### भावार्थ (Bhāvārtha)
+
+As charioteers avoid difficult roads and keep away from them, so may our sins also avoid us and keep away. May we be in the happiness given by Indra and in the protection of the Ādityas. O Indra and the other gods, your protections are free from sin. Your protections are of a beneficial nature.
+
+##### English translation
+May our sins avoid us as charioteers, inaccessible places ; we abide in Indra's happiness and in the protection of the Adityas ; your aids are void of harm, your aids are true aids.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रि॒ह्वृ॒तेद॒ना जनो॑ यु॒ष्माद॑त्तस्य वायति ।  
+> देवा॒ अद॑भ्रमाश वो॒ यमा॑दित्या॒ अहे॑तनाने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ न ऊ॒तयः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परिह्वृता । इत् । अना । जनः । युष्मादत्तस्य । नायति ।  
+> देवाः । आदभ्रं । आश । वः । यं । आदित्याः । अहेतन । अनेकसः । वः । ऊतयः ।  
+> सुऊतयः । वः । ऊतयः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परिहृतेत् परिपीडितेनैव तपोनियमादिनाना प्राणयुक्तो जनो
+> युष्मादत्तस्य युष्माभिर्दत्तं धनं ॥ कर्मणि षष्ठी ॥ वायति । गच्छति । हे देवा
+> हे आशवः शीघ्रगमनाः यूयं यं यजमानमहेतन प्राप्नुथः स जनोदभ्रमनल्पं धनं वायति प्राप्नोतीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+A man possessed of life, अना (*anā*), troubled only by austerity, restraint and the like, goes to, that is, obtains, the wealth given by you; the genitive here is in the sense of the object. O gods, O swift ones, the sacrificer whom you reach, that man obtains abundant wealth: this is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—divine
+- आ शवः (*ā śavaḥ*)—and swift-going
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- अना (*anā*)—living
+- जनः (*janaḥ*)—man
+- युष्मादत्तस्य (*yuṣmādattasya*)—the wealth given by you
+
+### Printed p. 532
+
+- परिह्वृता इत् (*parihvṛtā it*)—only through the hardships of austerity, restraint and the like
+- वायति (*vāyati*)—can obtain
+- यं (*yaṃ*)—which man
+- अहेतन (*ahetana*)—you approach and go to, he
+- अदभ्रं (*adabhraṃ*)—obtains abundant wealth
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are auspicious
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, divine and swift-going, a living man can obtain the wealth given by you only through the hardships of austerity, restraint and the like. The man whom you favour and to whom you go obtains abundant wealth. O Ādityas, your protections are free from sin. Your protections are auspicious.
+
+##### English translation
+Only by painful means does a living man obtain the wealth which you bestow; but he whom you, divine Adityas, visit, wins great (riches); your aids are void of harm, your aids are true aids.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तं ति॒ग्मं च॒न त्यजो॒ न द्रा॑सद॒भि तं गु॒रु ।  
+> यस्मा॑ उ॒ शर्म॑ स॒प्रथ॒ आदि॑त्यासो॒ अरा॑ध्वमने॒हसो॑ व  
+> ऊ॒तयः॑ सु॒ऊतयो॑ न ऊ॒तयः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तं । तिग्मं । चन । त्यजः । न । द्रासत् । अभि । तं । गुरु ।  
+> यस्मै । ऊं इति । शर्म । सप्रथः । अदित्यासः । आराध्वं । अनेकहसः । वः । ऊतयः ।  
+> सुऊतयः । वः । ऊतयः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं मनुष्यं तिग्मं चन तीक्ष्ममेव संतं त्यजः । क्रोधनामैतत् । अत्र
+> क्रोधात्पयुज्यमानमायुधमुच्यते । न द्रासत् ॥ द्रा कुत्सायां गत् ॥ कुत्सितं
+> नागच्छति । न हिनस्तीत्यर्थः । तथा तं जनं गुरु प्रवृद्धमसरिहारार्हं दुःखं न
+
+##### Gist of the bhāṣya
+
+That man, even though he is sharp, तिग्मं चन (*tigmaṃ cana*), त्यजः (*tyajaḥ*): this is a name for anger; here a weapon used out of anger is meant. न द्रासत् (*na drāsat*): it does not go contemptibly, that is, it does not injure. Likewise that man, a grievous, heavy sorrow that is hard to remove, does not
+
 ---
 
-**Progress note:** Done through printed p. 525. Mandala 8 sukta 46 rks 29-33, sukta 47 rk 1
+**Progress note:** Done through printed p. 532. Mandala 8 sukta 47 rks 1-7
