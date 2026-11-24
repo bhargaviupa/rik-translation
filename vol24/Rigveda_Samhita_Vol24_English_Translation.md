@@ -25873,7 +25873,7 @@ Guardian gods, speak favourably to us; let no dreams nor the censurer overpower 
 
 ##### Gist of the bhāṣya
 
-The verse त्वं नः सोम विश्वतः (*tvaṃ naḥ soma viśvataḥ*) is the anuvākyā for the oblation at the animal sacrifice to Soma; it is laid down in the sūtra with the words या ते धामानि दिवि या पृथिव्यां (*yā te dhāmāni divi yā pṛthivyāṃ*) (Ā. 3-7). O Soma, you are the giver of food (वयोधा (*vayodhā*), अन्नदाता (*annadātā*)) to us from every side, from all directions. So too you are the obtainer of heaven (स्वर्वित् (*svarvit*), स्वर्गलंभको (*svargalaṃbhako*)) and the beholder of all men; enter us. O Indu, being pleased together with your protections (ऊतिभिः (*ūtibhiḥ*)), or else (अथ (*atha*)) the ūtayaḥ are the goers, the Maruts, together with them protect us from behind and also from in front.
+The verse त्वं नः सोम विश्वतः (*tvaṃ naḥ soma viśvataḥ*) is the anuvākyā for the oblation at the animal sacrifice to Soma; it is laid down in the sūtra with the words त्वं नः सोम विश्वतो वयोधा या ते धामानि दिवि या पृथिव्यां (*tvaṃ naḥ soma viśvato vayodhā yā te dhāmāni divi yā pṛthivyāṃ*) (Ā. 3-7). O Soma, you are the giver of food (वयोधा (*vayodhā*), अन्नदाता (*annadātā*)) to us from every side, from all directions. So too you are the obtainer of heaven (स्वर्वित् (*svarvit*), स्वर्गलंभको (*svargalaṃbhako*)) and the beholder of all men; enter us. O Indu, being pleased together with your protections (ऊतिभिः (*ūtibhiḥ*)), or else (अथ (*atha*)) the ūtayaḥ are the goers, the Maruts, together with them protect us from behind and also from in front.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -25906,7 +25906,7 @@ You, Soma, give us food from every side; you are the bestower of heaven; enter u
 
 ##### विशेषविषयगळु (Special Topics)
 
-This Ṛk त्वं नः सोम विश्वतः (*tvaṃ naḥ soma viśvataḥ*) is to be recited as the anuvākyā mantra when the oblation is offered in the animal sacrifice addressed to the deity Soma, as is explained by the sutra of the Āśvalāyana-Śrautasūtra, the words या ते धामानि दिवि या पृथिव्यां (*yā te dhāmāni divi yā pṛthivyāṃ*) (Ā. 3-7).
+This Ṛk त्वं नः सोम विश्वतः (*tvaṃ naḥ soma viśvataḥ*) is to be recited as the anuvākyā mantra when the oblation is offered in the animal sacrifice addressed to the deity Soma, as is explained by the sutra of the Āśvalāyana-Śrautasūtra, the words त्वं नः सोम विश्वतो वयोधा या ते धामानि दिवि या पृथिव्यां (*tvaṃ naḥ soma viśvato vayodhā yā te dhāmāni divi yā pṛthivyāṃ*) (Ā. 3-7).
 
 ### Printed p. 567
 ## Sūkta 49 (Maṇḍala 8)
