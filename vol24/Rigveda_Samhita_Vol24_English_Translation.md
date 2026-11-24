@@ -5517,6 +5517,323 @@ we fallow his rites for you. **NOTE**
 - दीर्घश्रुत् (*dīrghaśrut*)—renowned even at a great distance
 - वरुणस्य (*varuṇasya*)—let us perform also the rites of Varuṇa
 
+### Printed p. 123
+
+##### भावार्थ (Bhāvārtha)
+
+We shall perform the ancient rites of Varuṇa, who holds the rank of universal sovereign, rites favourable to our houses. Let us perform also the rites of Mitra and the rites of Varuṇa, who is renowned even at a great distance.
+
+##### English translation
+We observe the ancient rites of the imperial Varuna and the renowned
+Mitra, (rites) that are good for (our) dwelling.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ यो र॒श्मिना॑ दि॒वोऽन्ता॑न्म॒मे पृ॑थि॒व्याः ।  
+> उ॒भे आ प॑प्रौ॒ रोद॑सी महि॒त्वा ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । यः । रश्मिना । दिवः । अंतान् । ममे । पृथिव्याः ।  
+> उभे इति । आ । पप्रौ । रोदसी इति । महित्वा ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो मित्रो दिवः पृथिव्या द्यावापृथिव्योरंतान्रश्मिना स्वतेजसा परि ममे
+> परिमिनोति । तयोः पर्यंतान् स्वरश्मिना भासयतीत्यर्थः । स एवोभे रोदसी
+> द्यावापृथिव्यौ महित्वा स्वमहिम्ना पप्रौ । आसमंतात्पूरयति ॥
+
+##### Gist of the bhāṣya
+
+Mitra, who has measured the ends of heaven and earth with his ray, that is, his own radiance, lights up their boundaries with his ray. The same Mitra fills both heaven and earth completely with his greatness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- दिवः (*divaḥ*)—of the heavenly world
+- पृथिव्याः (*pṛthivyāḥ*)—(and) of the earth
+- अंतान् (*aṃtān*)—all the end portions
+- रश्मिना (*raśminā*)—with his ray
+- परि ममे (*pari mame*)—has measured (has lit up all the worlds)
+- महित्वा (*mahitvā*)—by his greatness (the same god Mitra)
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- आ पप्रौ (*ā paprau*)—has pervaded completely
+
+##### भावार्थ (Bhāvārtha)
+
+The Mitra who has lit up, as if measuring them, all the border regions of the heavenly world and of the earth with his radiance, that same Mitra has pervaded both heaven and earth completely by his greatness.
+
+### Printed p. 124
+
+##### English translation
+(Mitra is he) who has measured with his rays the limits of both heaven and earth ; who has filled both heaven and earth with his greatness.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ ष्य श॑र॒णे दि॒वो ज्योति॑रयंस्त॒ सूर्यः॑ ।  
+> अ॒ग्निर्न शु॒क्रः स॑मिधा॒न आहु॑तः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । स्यः । शरणे । दिवः । ज्योतिः । अयंस्त । सूर्यः ।  
+> अग्निः । न । शुक्रः । संइधानः । आहुतः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यः सुवीर्यः सुष्टु सर्वस्य प्रेरकः स्य स मित्रो वरुणश्च दिवो
+> द्योतमानस्यादित्यस्य शरणे स्थाने नभसि ज्योतिरात्मीयं तेज उदयंस्त ।
+> उद्यच्छति । ऊर्ध्व० गमयति । सर्वत्र विस्तारयतीत्यर्थः ॥ यमेर्लुज रूपं ॥
+> ततः सोऽग्निर्न शुक्रोऽग्निरिव दीप्यमानः समिधानो हविर्भिः समिध्यमान आहुतः
+> सर्वैराहूतस्तिष्ठति ॥
+
+##### Gist of the bhāṣya
+
+The one who is Sūrya, the excellent mover who impels all, that Mitra (and Varuṇa) spread out his own light in the sky, the place of the shining sun, that is, he raises it up and extends it everywhere. Then he stands like a bright Agni, kindled with oblations, invoked by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—well known in the form of Mitra
+- सूर्यः (*sūryaḥ*)—the sun, the impeller of all (the same Mitra)
+- दिवः (*divaḥ*)—of the shining Āditya
+- शरणे (*śaraṇe*)—in the atmosphere, his abode
+- ज्योतिः (*jyotiḥ*)—his radiance
+- उदयंस्त (*udayaṃsta*)—extends and spreads everywhere
+- आहुतः (*āhutaḥ*)—being worthy of the invocation and worship of all
+- समिधानः (*samidhānaḥ*)—and blazing
+- अग्निर्न (*agnirna*)—like Agni
+- शुक्रः (*śukraḥ*)—he is full of brightness
+
+##### भावार्थ (Bhāvārtha)
+
+The same Mitra, in the form of the sun, the impeller of all, spreads and extends his radiance everywhere in the atmosphere, the abode of the shining Āditya. Worthy of the invocation and worship of all, and blazing, he becomes full of brightness like Agni.
+
+### Printed p. 125
+
+##### English translation
+He, Surya, has uplifted his radiance in the region of the heaven ; kindled and invoked with burnt-offerings, he is bright, like Agni.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वचो॑ दी॒र्घप्र॑सद्म॒नीशे॒ वाज॑स्य॒ गोम॑तः ।  
+> ईशे॒ हि पि॒त्वो॑ऽवि॒षस्य॑ दा॒वने॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वचः । दीर्घप्रसद्मनि । ईशे वाजस्य । गोऽमतः ।  
+> ईशे । हि । पित्वः । अविषस्य । दावने ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः दीर्घप्रसद्मनि दीर्घं प्रततं विस्त्रतं सद्म सदनं यस्मिन्यज्ञे
+> वचः । मित्रं वरुणं च स्तुहि ॥ वक्तेर्लॆट्यडागमः ॥ स वरुणो गोमतः पशुमतो
+> वाजस्यान्नस्येशे । ईष्टे । स्वामी भवति । केवलं स्वामी न भवति किंत्वविषस्य
+> महतः प्रीतिकारिणः पित्वोऽन्नस्य दावने दानाय चेशे । समर्थो भवति । ये
+> स्तोत्रं कुर्वंति तेभ्योऽन्नं ददातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O praiser, in the sacrifice whose hall is long and extended, praise Mitra and Varuṇa. That Varuṇa is lord of food accompanied by cattle; he is not merely owner, but is also able to give the great, pleasing food, he gives food to those who offer praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) दीर्घप्रसद्मनि (*dīrghaprasadmani*)—in the very long sacrificial hall
+- वचः (*vacaḥ*)—recite the words of praise that extol Varuṇa and Mitra
+- (स्य (*sya*)—that same Varuṇa)
+- गोमतः (*gomataḥ*)—accompanied by cows
+- वाजस्य (*vājasya*)—of food
+- ईशे (*īśe*)—is the master
+- अविषस्य (*aviṣasya*)—pleasing
+- पित्वः (*pitvaḥ*)—of food
+- दावने (*dāvane*)—and also of giving
+- ईशे हि (*īśe hi*)—he alone is the lord
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, in the very long sacrificial hall recite the words of praise that extol Varuṇa and Mitra. That same Varuṇa is the master of food accompanied by cows. He alone is also the lord of the giving of pleasing food.
+
+### Printed p. 126
+
+##### English translation
+Raise your voice in the spacious hall of sacrifice (to him) who is lord over food derived from cattle, who is able to grant nutritious sustenance.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्स्यूर्यं॒ रोद॑सी उ॒भे दो॒षा वस्तो॒रुप॑ ब्रुवे ।  
+> भो॒जेष्व॒स्मा अ॒भ्युच्च॑रा॒ सदा॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सूर्यं । रोदसी इति । उभे इति । दोषा । वस्तोः । उप । ब्रुवे ।  
+> भोजेषु । अस्मान् । अभि । उत् । चर । सदा ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यं सुवीर्यं तद्वारुणं मैत्रं च तेज उभे रोदसी उभे
+> द्यावापृथिव्यौ च दोषा ॥ सुपां सुलुगिति द्वितीयाया लुक् । कालाध्वनोरिति
+> द्वितीया ॥ रात्र्य वस्तोरहनि चाहमुप ब्रुवे । उपसौमि । त्वं स्तूयॆमानो
+> वरुणो भोजेषु दातृष्टस्मान् सदाभ्युच्चर । सर्वदाभिमुखं प्रेरय ।
+> दातृष्टेतेषां दानेष्टस्मान् पुरोभाविनः कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That excellent radiance of Varuṇa and Mitra, and both heaven and earth, by night and by day I praise. You, O Varuṇa, being praised, send us always forward among the generous givers, that is, make us stand before them when they give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यं (*sūryaṃ*)—having excellent valour
+- तत् (*tat*)—that same radiance belonging to Mitra and Varuṇa
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- दोषा (*doṣā*)—by night
+- वस्तोः (*vastoḥ*)—and by day
+- उप ब्रुवे (*upa bruve*)—I praise (O Varuṇa)
+- भोजेषु (*bhojeṣu*)—toward generous givers
+- अस्मान् (*asmān*)—us
+- सदा (*sadā*)—always
+- अभ्युच्चर (*abhyuccara*)—send forth
+
+##### भावार्थ (Bhāvārtha)
+
+I praise by night and by day that radiance of Mitra and Varuṇa, which has excellent valour, and heaven and earth. O Varuṇa, send us always forward toward generous givers.
+
+### Printed p. 127
+
+##### English translation
+I glorify by night and day that sun (Mitra and Varuna), and both
+the heaven and earth ; do you (Varuna) ever bring us to the presence of
+the bountiful.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ज्रमु॑क्क्ष॒ण्याय॑ने रज॒तं हर॑याणे ।  
+> रथं॑ यु॒क्तम॑सनाम सु॒षाम॑णि ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युद्रं । उक्षण्यायने । रजतं । हरयाणे ।  
+> रथं । युक्तं । असनाम । सुसामनि ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुषाम्मः पुत्रो वरुर्नाम राजा । स यद्दानं प्रादाद्विश्वमनसे तदसा
+> विश्वमना ऋषिरनयाचष्टे । उक्षण्यायने । उक्षनामा कश्चिद्वरोः पूर्वजः ॥ तस्य
+> गोत्रापत्य उक्षण्यबाण्ण्यः । तदंतात्पक्प्रत्ययः । एतौछांदसौ । वृद्धिभावोऽपि
+> संज्ञापूर्वको विधिरनित्य इति न भवति ॥ तस्य गोत्रापत्ये हरयाणे शत्रुजीवितैश्वर्यादिदरणशीलयान एतादृशे सुषामणि । बहुवत्पितृशब्देन पुत्रोऽभिधीयते !
+> सुषाम्मः पुत्रे वरौ राजनि ददति सति किमभूत् । ऋज्रमृजुगामिनं रजतं
+> रजतमयं रजतसदृशं वा युक्तमश्वाभ्यां युक्तं रथमसनाम । एतेषां
+> मित्रादीनां प्रसादाद्वयं संभक्तवंतो लब्धवंतोऽभूम ॥
+
+##### Gist of the bhāṣya
+
+There is a king named Varu, son of Suṣāman. The gift which he gave to the seer Viśvamanas, the seer describes by this verse. Ukṣan was a forefather of Varu; a descendant of his line is Ukṣaṇyāyana, and the form is Vedic. The one who is inclined to take away the life, wealth and so on of his enemies; and Suṣāman's son is meant here, the son being denoted by the father's word. When king Varu, the son of Suṣāman, gives, what then happened? We obtained a chariot that goes straight, silver, or like silver, yoked with two horses. By the grace of Mitra and the others we have received it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्षण्यायने (*ukṣaṇyāyane*)—who is born of the family of Ukṣan
+- हरयाणे (*harayāṇe*)—who takes away the life and wealth of enemies
+- सुषामणि (*suṣāmaṇi*)—and is the son of Suṣāman, in Varu
+- यज्रं (*yajraṃ*)—which goes straight **NOTE**
+- रजतं (*rajataṃ*)—made of silver
+- युक्तं (*yuktaṃ*)—yoked with horses
+- रथं (*rathaṃ*)—the chariot
+- असनाम (*asanāma*)—we have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+We have obtained the chariot belonging to Varu, who is born of the family of Ukṣan, who takes away the life and wealth of enemies, and who is the son of Suṣāman: a chariot that goes straight, is made of silver and is yoked with horses.
+
+### Printed p. 128
+
+##### English translation
+We have received from the son of Sushaman, the descendant of Ukshan, the overcomer (of foes), a well-going chariot of silver, yoked (with a pair of horses).
+
+##### विशेषविषयगळु (Special Topics)
+
+हरयाणे (*harayāṇe*)—The commentator explains this word as "one inclined to take away the life, wealth and so on of enemies", that is, one who fights and carries off the lives, riches and so on of his enemies. But Yāska explains:
+हरयाणः । हरयाणो हरमाणयानः । रजतं हरयाणे इत्यपि निगमो भवति ॥ (*harayāṇaḥ | harayāṇo haramāṇayānaḥ | rajataṃ harayāṇe ityapi nigamo bhavati ‖*) (Ni. 5-15)
+Having explained it in this way, he gives the present Ṛk itself as an illustration. The meaning is one who is always travelling, one given to going. Here the word is an epithet of Suṣāmaṇi (the king named Varu, son of Suṣāman). Therefore it may be inferred that the seer used this word to indicate the victorious expeditions of the king Varu, who, out of desire for battle, always marches against enemies (the Dasyus), fights with them and conquers.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता मे॒ अश्वा॑नां॒ हरी॑णां नि॒तोश॑ना ।  
+> उ॒तो नु कृत्वा॑नां नृ॒वाह॑सा ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । मे । अश्वानां । हरीणां । नितोशना ।  
+> उतो इति । नु । कृत्वानां । नृवाहसा ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिः प्रतिगृहीतावश्वावाह । हरीणां हरितवर्णानामश्वानामश्वसंघानां
+> मध्ये नितोशना नितोषनौ । तोशतिर्हिंसाकर्मा । शत्रूणामत्यंतं बाधकृतावुषो
+> अपि च कृत्वानां युद्धकर्मणि कुशलानां च नु कुशलमिति बाधकौ नृवाहसा
+
+##### Gist of the bhāṣya
+
+The seer speaks of the two horses he has received. Among bay horses, groups of horses, these two are the destroyers of enemies, extreme obstructors of enemies, and among those skilled in the work of battle,
+### Printed p. 129
+
+> नृवाहसावायुधनेत्यणां मनुष्याणां वोढारौ ता तावश्व मे मह्यं नु क्षिप्रं
+> सौषाम्लैन वरुणा दत्तौ भवेतां ॥
+
+##### Gist of the bhāṣya
+
+they are the bearers of men, of armed men. May those two horses be quickly given to me by the son of Suṣāman, Varu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—to me
+- नु (*nu*)—quickly (given by Varu, son of Suṣāman)
+- ता (*tā*)—these two horses
+- हरिणां (*hariṇāṃ*)—of the bay-coloured
+- अश्वान्यानां (*aśvānyānāṃ*)—among all horses
+- नितोशना (*nitośanā*)—they who strongly injure enemies
+- उतो (*uto*)—and
+- कुल्यानां (*kulyānāṃ*)—the best among horses engaged in the work of battle **NOTE**
+- नृवाहसा (*nṛvāhasā*)—and the best in carrying men
+
+##### भावार्थ (Bhāvārtha)
+
+These two horses given to me by Varu, son of Suṣāman, are, among bay-coloured horses, the strong destroyers of enemies, the best among horses engaged in the work of battle, and the best in carrying men.
+
+##### English translation
+Among bay horses these two are pre-eminently the destroyers (of foes), and of those eager in combat; the two strong bearers men.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्मद॑भीशू॒ कशा॑वंता॒ विप्रा॒ नवि॑ष्ठया म॒ती ।  
+> म॒हो वा॒जिना॒वर्वं॑ता॒ सचा॑सनं ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्मदभीशू इति स्मत्ऽअभीशू । कशावंता । विप्रा । नविष्ठया । मती ।  
+> महः । वाजिनौ । आर्वंता । सचा । असनं ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरिदानीं तावश्वावग्रहीषमित्याह । स्मदभीशू । स्मत्सुमत् ॥ उकारलोपश्चांदसः ॥ शोभनरज्जुयुक्तौ यद्वा शोभनशरीरकांती कशावंता कशावंतौ
+> कशायुक्तौ विप्रा विप्रौ मेधाविनामुचित् । मेधावी स्तोता यथा स्तुत्यं देवं
+> स्तुतिभिः प्रीणयति तद्वत् संतोषक् । महो महतः सौषाम्णस्य वरोः संबंधिनौ
+> XXIV 9
+
+##### Gist of the bhāṣya
+
+The seer now says, "I have taken those two horses." They are furnished with fine reins, or with fine bodily lustre; they are provided with whips; they are intelligent. As a wise praiser pleases the god he praises with praises, so they give satisfaction. They belong to the great Sauṣāmaṇa Varu.
+
 ---
 
-**Progress note:** Done through printed p. 122. Ṛk 12 end to Ṛk 17, pp. 117-122
+**Progress note:** Done through printed p. 129. Ṛk 17 end to Ṛk 24 start, pp. 123-129
