@@ -31400,6 +31400,309 @@ O Indra, you, such as you are, give us (दशस्य (*daśasya*)) wealth wit
 - अच्छ (*accha*)—fully
 - नेषि (*neṣi*)—provide
 
+### Printed p. 746
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are renowned, give us wealth together with food. Make us followers of the good path. Grant us happiness in full measure.
+
+##### English translation
+You, Indra, ( endow ) us with vigour, bestow upon us (wealth, enable us) to go (by the right way), lead us to felicity.
+
+## Sūkta 17 (Maṇḍala 8)
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ याहीति पंचदशर्चं पंचमं सूक्तमिरिंबिठेरार्षमैंद्रं। चतुर्दशी बृहती
+> पंचदशी सतोबृहत्यादितस्त्रयोदश गायत्र्यः । अनुक्रम्यते हि । आ याहि
+> पंचोना प्रगाथांतमिति ॥ अंत्यं प्रगाथं वर्जयित्वा शिस्तस्य महाव्रत उक्तो
+> विनियोगः ॥ ज्योतिष्टोमे प्रातःसवने ब्रह्मशस्त्र आद्याः षडृचः स्तोत्रियानुरूपार्थाः । तथानंतराः सप्तर्चश्च शंसनीयाः । सूत्रते हि । आ याहि सुषुमा हि
+> त इति षट् स्तोत्रियानुरूपावनंतराः सप्त । आ. ५-१०. । इति ॥ चातुर्विंशिकेऽहनि
+> प्रातःसवन आद्यस्तृचोऽस्मिन्नेव शस्त्रे षळहस्तोत्रियसंज्ञक आवापार्थः। सूत्रितं
+> च । आ याहि सुषुमा हि त इंद्रमिद्दाथिनो बृहत् । आ. ७-२. । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ याहि (*ā yāhi*) has fifteen ṛks. Its seer is Irimbiṭhi of the Kāṇva line and its deity is Indra. The fourteenth ṛk is Bṛhatī, the fifteenth is Satobṛhatī, and the thirteen from the beginning are Gāyatrī. The Anukramaṇī says पंचोना प्रगाथांतं (*paṃconā pragāthāṃtaṃ*). Sāyaṇa says that the application (viniyoga) of the sūkta, with the final pragātha left out, is stated for the Mahāvrata. In the Jyotiṣṭoma, at the morning pressing, in the Brahmaśastra, the first six ṛks serve as the stotriya and anurūpa, and the seven that follow are to be recited. The sūtra says षट् स्तोत्रियानुरूपावनंतराः सप्त (*ṣaṭ stotriyānurūpāvanaṃtarāḥ sapta*) (Ā. 5-10). On the Cāturviṃśika day, at the morning pressing, the first tṛca is used in this same śastra for the purpose of insertion (āvāpa) in the tṛca called Ṣaḷahastotriya; this too is stated in a sūtra (Ā. 7-2).
+
+##### Anuvāda
+
+This sūkta beginning Ā yāhi is the fifth sūkta in the third anuvāka; it has fifteen ṛks. Its seer is Irimbiṭhi, born in the Kaṇva gotra, and its deity is Indra. The fourteenth ṛk of the sūkta is in the Bṛhatī metre, the fifteenth in Satobṛhatī, and the remaining first thirteen ṛks are in Gāyatrī. The Anukramaṇī says: Ā yāhi paṃcona pragāthāṃtaṃ. Excluding the last two ṛks of the pragātha metre of this sūkta, the remaining ṛks have their application in the Mahāvratekṣṭi. In the Jyotiṣṭoma sacrifice, at the time of the morning pressing, among the śastra mantras recited by the priest called Brahman, the first six ṛks of this sūkta are to be recited as stotriya and anurūpa tṛcas, and then the following seven ṛks are also to be recited. This is set out in the Āśvalāyana Śrautasūtra, in the sūtra Ā yāhi susumā hi ta iti ṣaṭ stotriyānurūpāvanaṃtarāḥ sapta (Ā. 5-10). On the day of the sacrifice called Cāturviṃśaka, at the time of the morning pressing, the first three ṛks of this sūkta are to be recited, within these same śastra mantras, as the tṛca called Ṣaḷahastotriya, for the purpose of stomāvāpa. This is set out in the Āśvalāyana Śrautasūtra in the sūtra Ā yāhi suṣumā hi ta indramidgādhino bṛhat (Ā. 7-2).
+
+Maṇḍala 8, Anuvāka 3, Sūkta 17. Aṣṭaka 6, Adhyāya 1, Vargas 22, 23, 24. Number of ṛks in the sūkta: 15. Ṛṣi: Irimbiṭhi Kāṇva. Devatā: Indra. Chandas: 1-13 Gāyatrī; 14 Bṛhatī; 15 Satobṛhatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑हि सुषु॒मा हि त॒ इंद्र॒ सोमं॒ पिबा॑ इ॒मं ।  
+> एदं ब॒र्हिः स॑दो॒ मम॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । सुसुम । हि । ते इंद्र । सोमं । पिब । इमं ।  
+> आ । इदं । बर्हिः । सदः । मम ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमा याहि । आगच्छ । ते त्वदर्थं सुषुम हि । अभिषुतवंत, खलु
+> सोमं वयं । तमिममभिषुतं सोमं पिब । तदर्थं मम मदीयमिदं
+> बर्हिर्वेद्यामास्तीर्णमा सदः । आसीद । अभिनिषीद ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come to us. We have pressed Soma for you; drink this pressed Soma. For that purpose, take your seat on this strewn barhis of mine on the vedi, sitting down upon it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आ याहि (*ā yāhi*)—be pleased to come
+- ते (*te*)—for you
+- सुषुम हि (*suṣuma hi*)—I have pressed the Soma juice
+- इमं (*imaṃ*)—this, pressed and ready
+- सोमं (*somaṃ*)—Soma
+- पिब (*piba*)—drink
+- मम (*mama*)—offered by me
+- इदं बर्हिः (*idaṃ barhiḥ*)—upon this seat of darbha grass
+- आ सदः (*ā sadaḥ*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be pleased to come. I have pressed the Soma juice for you. Drink the Soma, pressed and ready. Sit down on this seat of darbha grass offered by me.
+
+### Printed p. 748
+
+##### English translation
+Come: we express, Indra, for you, the Soma drink : drink it : sit down upon this my sacred grass.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑ ब्रह्म॒युजा॒ हरी॒ वह॑तामिंद्र के॒शिना॑ ।  
+> उप॒ ब्रह्मा॑णि नः शृणु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । ब्रह्मयुजा । हरी इति । वहतां । इंद्र । केशिना ।  
+> उप । ब्रह्माणि । नः । शृणु ॥ २ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ब्रह्मयुजा ब्रह्मणा मंत्रेण युज्यमानौ केशिना केशवंतौ हरी
+> हरणशीलावश्वा त्वा त्वामा वहतां । अभिप्राययतां । त्वं चास्मद्यज्ञमुपेत
+> नोऽस्माकं ब्रह्माणि स्तोत्राणि शृणु । स्तोत्राणि गृहाण । सम्यक् चित्ते धारये ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may your two long-maned bay horses, which are yoked by the mantra (brahman) and are swift in carrying, bring you hither. And you, coming to our sacrifice, hear our brahmāṇi, that is, our praises: take the praises and hold them well in mind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ब्रह्मयुजा (*brahmayujā*)—those that are yoked to the chariot by mantras
+- केशिना (*keśinā*)—those with attractive manes
+- हरी (*harī*)—the horses
+- त्वा (*tvā*)—you
+- आ वहतां (*ā vahatāṃ*)—let them bring
+- नः (*naḥ*)—our
+- ब्रह्माणि (*brahmāṇi*)—praises
+- उप शृणु (*upa śṛṇu*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the horses, yoked to the chariot by mantras and having attractive manes, bring you. Hear our praises.
+
+##### English translation
+Let your long-maned horses, Indra, that are yoked by prayers, bring you hither, and you hear our prayers.
+
+### Printed p. 749
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्र॒ह्माण॑स्त्या व॒यं यु॒जा सो॑म॒पामिं॑द्र  ॒॑
+> सोमिनः ।  
+> सु॒तावं॑तो हवामहे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्माणः । त्वा । वयं । युजा । सोमसां । इंद्र । सोमिनः ।  
+> सुतवंतः । हवामहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ब्रह्माणो ब्राह्मणा वयं त्वा त्वां यजा योग्येन स्तोत्रेण
+> हवामहे । आह्वयामहे । कथंभूतं । सोमपां सोमस्य पातारं । कीदृशा
+> वयं । सोमिनः सोमुयुक्ताः सुतावंतोऽभिषुतैश्च सोमैरुपेताः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we brahmins invoke you with a fitting praise. What kind of you? The drinker of Soma. What kind are we? Possessed of Soma (somin), and sutāvantaḥ, that is, provided with pressed Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सोमिनः (*sominaḥ*)—those who offer Soma
+- सुतवंतः (*sutavaṃtaḥ*)—those who have pressed the Soma juice
+- ब्रह्माणः (*brahmāṇaḥ*)—seers of the mantras
+- वयं (*vayaṃ*)—we
+- सोमपां (*somapāṃ*)—you who drink the Soma juice
+- त्वा (*tvā*)—you
+- युजा (*yujā*)—with a fitting praise
+- हवामहे (*havāmahe*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we, who offer the Soma juice, have pressed the Soma juice and are seers of the mantras, call you, the drinker of the Soma juice, with a fitting praise.
+
+##### English translation
+We Brahmins, offerers of Soma, bearing the effused juices, invoke with suitable (prayers) you the drinker of the Soma.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ याहि सु॒ताव॑तो॒ऽस्माकं॑ सुष्टु॒तीरुप॑ ।
+
+### Printed p. 750
+
+> पिबा सु शिप्रिन्नंधसः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । याहि । सुत्यवतः । अस्माकं । सुस्तुतीः । उप ।  
+> पिब । सु । शिप्रिन् । अंधसः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुतावतोऽभिषुतसोमयुक्तानस्माना याहि । अभिगच्छ । ततोऽस्माकं संबंधीनि सुष्टुतीः शोभनानि स्तोत्राण्युपगच्छ । जानीहि । हे सुशिप्रिञ्चोभनशिरस्त्राण शोभनहनुक वेंद्र अंधसोऽन्नस्य सोमलक्षणस्य स्वांशलक्षणं भागं
+> पिब । यद्वा ॥ कर्मणि षष्ठि ॥ अंधोऽस्मदीयं सोमं पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come to us, who are provided with pressed Soma. Then come to our fair praises and take note of them. O Suśiprin, that is, of fair helmet or fair jaw, Indra, drink the portion of the Soma food (andhas) that is your own share. Or else, the genitive is used in the sense of the object: drink our Soma, the andhas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सु शिप्रिन् (*su śiprin*)—O Indra, of fine cheeks
+- सुतवतः (*sutavataḥ*)—who have pressed the Soma and made it ready
+- नः (*naḥ*)—to us
+- आ याहि (*ā yāhi*)—be pleased to come
+- अस्माकं (*asmākaṃ*)—our
+- सुष्टुतीः (*suṣṭutīḥ*)—excellent praises
+- उप (*upa*)—know
+- अंधसः (*aṃdhasaḥ*)—the food in the form of Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of fine cheeks, be pleased to come to us who have pressed the Soma and made it ready. Take note of our excellent praises. Drink the food in the form of Soma.
+
+##### English translation
+Come to us offering the libation, accept our earnest praises ; drink, handsome-jawed, of the (sacrifical) beverage.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ सिंचामि कु॒क्ष्योरनु॒ गात्रा॒ विधा॑वतु ।  
+> गृ॒भा॒य जि॒ह्वया॒ मधु॑ ॥ ५ ॥
+
+### Printed p. 751
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । सिंचामि । कुक्ष्योः । अनु । गात्रा । वि । धावतु ।  
+> गृभाय । जिह्वया । मधु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव कुक्ष्योरुदरयोरा सिंचामि । सोमानवनयामि । कुक्षी
+> सोमेन पूरयामीत्यर्थः । इंद्रस्य हि द्वे उदरे । तथा च श्रूयते । ओभा कुक्षी
+> पृणता वार्त्र्घ्ने च माघोनं चेति । यद्वा । एकस्यॆवोदरस्य सव्यदक्षिणभेदेनोर्ध्वाधोभागभेदेन ना द्वित्वं । स चासिक्तः सोमो गात्राणि शरीरावयवानि
+> हस्तपादादीनि सर्वाण्यनुक्रमेण वि धावतु । व्याप्पोतु । त्वं च मधु मधुरं
+> मया सिच्यमानं सोमं जिह्वया रसनेंद्रियेण गृभाय । गृहाण ॥ छंदसि
+> शायजपीति ग्रह उत्तरस्य श्नः शायजादेशः । हृग्रहोर्भ इति भत्वं ।
+
+##### Gist of the bhāṣya
+
+O Indra, I pour into your two bellies, that is, I bring the Soma down; the meaning is that I fill both bellies with Soma. Indra has two bellies. So it is heard: ओभा कुक्षी पृणता वार्त्र्घ्ने च माघोनं चेति (*obhā kukṣī pṛṇatā vārtrghne ca māghonaṃ ceti*). Or else, the duality is only of a single belly, by its division into left and right, or into upper and lower parts. Let the Soma so poured run through all the limbs (gātrāṇi), the parts of the body, hands, feet and the rest, one after another, and pervade them. And you, take this sweet Soma, poured by me, with your tongue, the organ of taste.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- कुक्ष्योः (*kukṣyoḥ*)—in the bellies
+- आ सिंचामि (*ā siṃcāmi*)—I pour the Soma juices
+- अनु गात्रा (*anu gātrā*)—throughout your body
+- वि धावतु (*vi dhāvatu*)—let them spread and run
+- मधु (*madhu*)—the sweet Soma juice
+- जिह्वया (*jihvayā*)—with the tongue
+- गृभाय (*gṛbhāya*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I pour the Soma juices into your bellies. May they spread and run through all your body. Accept (taste) the sweet Soma juice with your tongue.
+
+##### English translation
+I fill your belly (with the libation): let it spread throughout the limbs: take the honied Soma with your tongue.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒दुष्टे॑ अस्तु सं॒सुदे॒ मधु॑मान्त॒न्वे॒३॒॑३ तव॑ ।  
+> सोमः॒ शम॑स्तु ते हृ॒दे ॥ ६ ॥
+
+### Printed p. 752
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वादुः । ते । अस्तु । संसुदे । मधुमान् । तन्ने । तव ।  
+> सोमः । शं । अस्तु । ते । हृदे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संसुदे सम्यक् सुष्टु दात्रे हे इंद्र ते तुभ्यं मधुमान्माधुर्यवानयं
+> सोमः स्वादुरस्तु । रुचिकरो भवतु । तव तन्ने शरीराय च स्वादुरस्तु । तव हृदे
+> हृदयाय च स सोमः शमस्तु । सुखजनकं भवतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, who give well and fully (saṃsude), may this sweet Soma be pleasant to you, that is, agreeable. May it be pleasant also to your body, and may that Soma be śam, that is, a producer of happiness, to your heart.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- संसुदे (*saṃsude*)—O Indra, who give most generously
+- ते (*te*)—to you
+- मधुमान् (*madhumān*)—the Soma endowed with sweetness
+- स्वादुः (*svāduḥ*)—pleasant to the taste
+- अस्तु (*astu*)—may it be
+- तव (*tava*)—your
+- तन्ने (*tanne*)—to the body also (may it be delightful)
+- सोमः (*somaḥ*)—that same Soma
+- ते हृदे (*te hṛde*)—to your heart also
+- शं अस्तु (*śaṃ astu*)—may it be productive of happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who give most generously, may the Soma endowed with sweetness be pleasant to the taste for you. May it be delightful to your body also. May that same Soma be productive of happiness to your heart also.
+
+##### English translation
+May the sweet-flavoured Soma be grateful to you, who are munificent; (may it be grateful) to your body, may it be exhilarating to your heart.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒यमु॑ त्वा विचर्षणे॒ जनी॑रिवा॒भि संवृ॑तः ।  
+> प्र सोम॑ इंद्र सर्पतु ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ऊं इति । त्वा । विचर्षणे । जनीःइव । अभि । संवृतः ।
+
 ---
 
-**Progress note:** Done through printed p. 745. pp. 740-745 (batch API)
+**Progress note:** Done through printed p. 752. pp. 746-752 (batch API)
