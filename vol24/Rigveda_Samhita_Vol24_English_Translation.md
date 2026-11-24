@@ -2947,6 +2947,316 @@ We, named Viśvamanas **NOTE**, with these most praiseworthy and most worshipful
 
 As our father Vyaśva served Agni, so let us also offer worship to Agni, who has radiant splendour, with these hymns of praise, which are most praiseworthy and most worshipful.
 
+### Printed p. 66
+
+##### English translation
+Let us, like Vyashwa, glorify the briliant Agni with these excellent and most pious praises.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू॒नम॑र्च॒ विहा॑यसे॒ स्तोमे॑भिः स्थूरयूप॒वत् ।  
+> ऋषे॑ वैयश्व॒ दम्या॑या॒ग्नये॑ ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नूनं । अर्च । विहायसे । स्तोमेभिः । स्थूरयोपवत् ।  
+> ऋषे । वैयश्व । दम्याय । अग्नये ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैयश्व व्यश्वस्य पुत्र हे विश्वमनोनामकर्षे विहायसे महते दम्याय
+> दमे गृहेऽरणीभिर्मथ्यमानत्वेन भवाय । यद्वा । यजमानगृहाणां बाधपरिहारेण हिताय । अग्नये नूनं संप्रति स्तोमेभिस्तिवृत्पंचदशादिलक्षणैः
+> स्तोमैरर्च । स्तुहि । तत्र दृष्टांतः । स्तूरयूपवत् । यथा स्तूरयूपो
+> नामर्षिरेनमग्निमानर्च तद्वदर्चेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O seer named Viśvamanas, son of Vyaśva **NOTE**: with the praises (stomas) of the tivṛt, pañcadaśa and other forms, now praise Agni, the great one, who is born in the house through being churned out of the two kindling sticks; or else, who is beneficial to the houses of the sacrificers by removing the troubles that beset them. The example is given: as the seer called Sthūrayūpa praised this Agni, so you praise him. This is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वैयश्च (*vaiyaśca*)—son of Vyaśva, called Viśvamanas
+- ऋषे (*ṛṣe*)—O seer
+- विहायसे (*vihāyase*)—of great form
+- दम्याय (*damyāya*)—beneficial to the house
+- अग्नये (*agnaye*)—addressing Agni
+- नूनं (*nūnaṃ*)—now
+- स्तोमेभिः (*stomebhiḥ*)—with the stomas such as the tivṛt
+- स्तूरयूपवत् (*stūrayūpavat*)—as the seer called Sthūrayūpa worshipped
+- अर्च (*arca*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O seer, son of Vyaśva, called Viśvamanas, now praise, with the stomas such as the tivṛt, Agni, who is of great form and beneficial to the house, as the seer called Sthūrayūpa praised him.
+
+##### English translation
+Rishi, son of Vyashwa, adore the far-spreading domestic Agni, with praises, like Sthurayupa.
+
+### Printed p. 67
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॑थिं॒ मानु॑षाणां सू॒नुं वन॒स्पती॑नां ।  
+> पिप्रा॑ अ॒ग्निमव॑से प्र॒त्नमी॑ळते ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतिथिं । मानुषाणां । सूनुं । वनस्पतीनां ।  
+> विप्राः । अग्निं । अवसे । प्रत्नं । ईळते ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रा मेधाविनो यजमाना मानुषाणां मनुष्याणामतिथिमतिथिवत्पूज्यं
+> वनस्पतीनां सूनुं वनस्पतिरूपाभिररणीभिर्जायमानत्वेन तेषां सूनुं प्रत्नं
+> पुरातनं एवंविधमग्निमवसे कर्मरक्षणायेळतॆ । स्तुतिभिः स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+The vipras, the wise sacrificers, praise with hymns, for the protection of the rite, such an Agni: the guest of men, to be honoured like a guest; the son of the trees, since he is born from the kindling sticks which are of the form of trees, and so their son; and ancient, that is, old.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्राः (*viprāḥ*)—the wise sacrificers
+- मानुषाणां (*mānuṣāṇāṃ*)—for men
+- अतिथिं (*atithiṃ*)—worthy of honour like a guest
+- वनस्पतीनां (*vanaspatīnāṃ*)—of the trees and the like
+- सूनुं (*sūnuṃ*)—in the form of a son
+- प्रश्नं (*praśnaṃ*)—ancient
+- अग्निं (*agniṃ*)—Agni
+- अवसे (*avase*)—for protection
+- ईळते (*īḷate*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+The wise sacrificers praise, for protection, Agni, who is worthy of honour for men like a guest and is in the form of a son to the trees and the like.
+
+##### English translation
+Pious men glorify the ancient Agni, the guest of of men, the son of the trees, for protection.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हो विश्वा॑ अ॒भि ष॒तो॒३॒॑ ३ भि ह॒व्यानि॒ मानु॑षा ।  
+> अग्ने॒ नि ष॑त्सि॒ नम॒साधि॑ ब॒र्हिषि॑ ॥ २६ ॥
+
+### Printed p. 68
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । विश्वान् । अभि । सतः । अभि । हव्यानि । मानुषा ।  
+> अग्ने । नि । सत्सि । नमसा । अधि । बर्हिषि ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने महः कर्मकर्तृत्वेन महतो विश्वान् सर्वान् सतः स्तोत्रकरणार्थं
+> वर्तमानान् स्तोत्थानभ्यभितस्तं नमसा स्तुत्यतया बर्हिष्यधि नि षत्ति । निषीद । तथा
+> मानुषा मनुष्यसंबंधीनि हव्यानि हवींष्यभ्यभितस्तानि स्वीकर्तुं निषीद ॥
+
+##### Gist of the bhāṣya
+
+O Agni, to all those who are great as the doers of the rite, those who are present for the performing of praise, the reciters, from every side, sit down on the sacred grass with praise, that is, as one to be praised. Likewise sit down all round to accept the oblations that belong to men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- महः (*mahaḥ*)—who have attained a great form through the performance of the rite
+- विश्वान् सतः (*viśvān sataḥ*)—to all the reciters
+- अभि (*abhi*)—which is in front
+- नमसा (*namasā*)—and is accompanied by praise
+- बर्हिषि अधि (*barhiṣi adhi*)—on the seat of sacred grass
+- मानुषा (*mānuṣā*)—belonging to men
+- हव्यानि (*havyāni*)—the oblations
+- अभि (*abhi*)—all round, to accept
+- नि षत्ति (*ni ṣatti*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have attained a great form through the performance of the rite, sit down on the seat of sacred grass, which is in front of all the reciters and is accompanied by praise, to accept all round the oblations that belong to men.
+
+##### English translation
+Sit down, Agni, on the sacred grass, in the presence of all those worshippers diligent (in pious works, induced) by their veneration (to accept the oblations of men.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वंस्वा॑ नो॒ वार्या॑ पु॒रु वंस्व॑ रा॒यः पु॑रु॒स्पृहः॑ ।  
+> सु॒वीर्य॑स्य प्र॒जाव॑तो॒ यश॑स्वतः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वंस्व । नः । वार्या । पुरु । वंस्व । रायः । पुरुस्पृहः ।  
+> सुवीर्यस्य । प्रजावतः । यशस्वतः ॥ २७ ॥
+
+### Printed p. 69
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वार्या वार्याणि वरणीयानि पुरु पुरूणि बहूनि गवादीनि
+> नोऽस्मभ्यं वंस्व । प्रयच्छ । तथा पुरुस्पृहः पुरुभिर्बहुभिः स्पृहणीयं रायो
+> धनं । किं विशिष्टं । सुवीर्यस्य शोभनवीर्योपेतं प्रजावतः पुत्रपौत्रादिसहितं
+> यशस्वतः कीर्तिमच्च धनं नोऽस्मभ्यं वंस्व । प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, give us many desirable things, cattle and the like. Likewise give us wealth that is desired by many, that is endowed with excellent heroism, that comes with offspring, sons, grandsons and the like, and that is accompanied by fame.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वार्या (*vāryā*)—that which deserves everyone's regard
+- पुरु (*puru*)—and abundant, the wealth of cattle and the like
+- नः (*naḥ*)—to us
+- वंस्व (*vaṃsva*)—give
+- पुरुस्पृहः (*puruspṛhaḥ*)—desired by many
+- सुवीर्यस्य (*suvīryasya*)—endowed with excellent strength
+- प्रजावतः (*prajāvataḥ*)—accompanied by sons, grandsons and the like
+- यशस्वतः (*yaśasvataḥ*)—and accompanied by fame
+- रायः (*rāyaḥ*)—the wealth
+- वंस्व (*vaṃsva*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, give us the wealth of cattle and the like, which deserves everyone's regard and is abundant, and also the wealth that is desired by many, endowed with excellent strength, accompanied by sons, grandsons and the like, and accompanied by fame.
+
+##### English translation
+Grant us (Agni) many desirable (things), grant us riches envied by many, (comprehending) vigour, offspring, fame.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं व॑रो सु॒षाम्नेऽग्ने॒ जना॑य चोदय ।  
+> सदा॑ वसो रा॒तिं य॑विष्ठ॒ शश्व॑ते ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । वरो इति । सुसाम्ने । अग्ने । जनाय । चोदय ।  
+> सदा । वसो इति । रातिं । यविष्ठ । शश्वते ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरो सर्वावरणीय वसो शत्रोणां वासयितर्यविष्ठॆ पुनःपुनर्जायमानत्वेन युवतम हे अग्ने त्वं सुषाम्ने सुसाम्ने ॥ सुषामदित्वात् षत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, worthy to be chosen by all, O dweller among enemies, who establish enemies, youngest because born again and again, you, for the people ...
+
+### Printed p. 70
+
+> त्वत्प्रसादाच्चोभनसामवते शश्वते बहवे जनाय प्रादुर्भूताय स्तोत्कणां
+> सदा सर्वदा रातिं धनादिकं चोदय । प्रेरयॆ ॥
+
+##### Gist of the bhāṣya
+
+... who through your favour possess excellent sāman chants, the many people who have come forth as reciters, always, at all times, send gifts of wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरो (*varo*)—you who deserve the regard of all
+- वसो (*vaso*)—who overthrow the enemy
+- यविष्ठ (*yaviṣṭha*)—the youngest
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- सुषाम्ले (*suṣāmle*)—who through your favour are endowed with excellent peace
+- शश्वते (*śaśvate*)—and who are many in number
+- जनाय (*janāya*)—to the sacrificers
+- सदा (*sadā*)—always
+- रातिं (*rātiṃ*)—wealth and the like
+- चोदय (*codaya*)—supply
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who deserve the regard of all, who overthrow the enemy, and who are the youngest, supply always, through your favour, wealth and the like to the sacrificers, who are endowed with excellent peace and are many in number.
+
+##### English translation
+Agni, (you are) the desired of all, the humbler (of foes), the youngest (of the gods); ever bestow riches upon the tranquil and constant man.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि सु॑प्र॒तूरसि॒ त्वं नो॒ गोम॑ती॒रिषः॑ ।  
+> म॒हो रा॒यः सा॒तिम॑ग्ने॒ अपा॑ वृधि ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । सुप्रतूः । असि । त्वं । नः । गोऽमती । इषः ।  
+> महः । रायः । सातिं । अग्ने । अप । वृधि ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं । हिरवधारणे । त्वमेव सुप्रतूः स्तोतृणां धनादिकं सुष्टु
+> प्रदातासि । प्रयच्छसीत्यर्थः । अत एव गोमतीः पश्वादियुक्तानीषोऽन्नानि महो
+> महतो रायो धनस्य मध्यॆ सातिं देयं धनं च नः स्तोतृणामस्माकमसा
+> वृधि । अपावृणु । प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you alone are the good bestower; you give wealth and the like to the reciters, that is the meaning. For that very reason, give us, the reciters, foods accompanied by cattle and the like, and, among the great riches, the wealth to be given. **NOTE**
+
+### Printed p. 71
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं हि (*tvaṃ hi*)—you alone
+- सुप्रतूः (*supratūḥ*)—as the one who supplies wealth and the like to the reciters
+- आसि (*āsi*)—you are (and therefore)
+- गोमतीः (*gomatīḥ*)—accompanied by cattle and the like
+- इषः (*iṣaḥ*)—the foods
+- महः (*mahaḥ*)—great
+- रायः (*rāyaḥ*)—among riches
+- सातिं (*sātiṃ*)—the most excellent wealth
+- त्वं (*tvaṃ*)—you yourself
+- नः (*naḥ*)—to us
+- अपावृधि (*apāvṛdhi*)—must supply
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you alone are the one who supplies wealth and the like to the reciters. For that very reason, supply to us the foods accompanied by cattle and the like, and, among the great riches, the most excellent wealth.
+
+##### English translation
+You verily are a liberal benefactor: bestow upon us, Agni, food, with cattle, and the gift of abundant riches.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ त्वं य॒शा अ॒स्या मि॒त्रावरु॑णा वह ।  
+> ऋ॒तावा॑ना स॒म्राजा॑ पू॒तद॑क्षसा ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । त्वं । यशाः । असि । आ । मित्रावरुणा । वह ।  
+> ऋतवाना । संराजा । पूतदक्षसा ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने । त्वं । यशाः । असि । आ । मित्रावरुणा । वह ।
+> ऋतवाना । संराजा । पूतदक्षसा ॥ ३० ॥
+> हे अग्ने त्वं यशाः ॥ लुप्तमत्वर्थीयः ॥ देवानां मध्ये यशस्वासि ।
+> भवसि । आत एव त्वमृतावाना ऋतावान् सत्यवंतौ यज्ञवंतौ वा सम्राजा सम्राजौ
+> सम्यग्राजमान् पूतदक्षसा पूतदक्षसौ । दक्ष इति बलनाम । शुद्धबल मित्रावरुणावस्मिन्कर्मण्या वह । आह्वय । प्रायेण कर्मण्यग्निर्मित्रावरुणसहितत्वमस्तीति
+> सूचयति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are glorious among the gods; for that very reason bring to this rite Mitra and Varuṇa, the two who are truthful or possessed of sacrifice, the two who are sovereigns, shining well, the two of pure strength (the word for "strength" is a name meaning force). Call them here. By this he indicates that for the most part Agni in the rite is accompanied by Mitra and Varuṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- यशाः (*yaśāḥ*)—very glorious among the gods
+- असि (*asi*)—you are (and therefore)
+- ऋतावाना (*ṛtāvānā*)—the two who are truthful
+- सम्राजा (*samrājā*)—exceedingly
+
 ---
 
-**Progress note:** Done through printed p. 65. Sukta 23 Rk 13 (pada, bhashya) to Rk 23 end, pp. 56-65
+**Progress note:** Done through printed p. 71. Sukta 23 Rk 24-30, pp. 66-71
