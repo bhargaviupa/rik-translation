@@ -9849,8 +9849,6 @@ bolt the Rakshasas, on the east, on the west, on the south, on the north.
 
 *ಸಂಹಿತಾಪಾಠಃ*
 
-*ಸಂಹಿತಾಪಾಠಃ*
-
 > ಏತ ಉ ತ್ಯೇ ಪತಯಂತಿ ಶ್ವಯಾತವ ಇಂದ್ರಂ ದಿಪ್ಸಂತಿ ದಿಪ್ಸವೋಽದಾಭ್ಯಂ ।
 *[stray line as supplied: ૐ]*
 > ॥ ಶ್ರೀ ೯ ॥
