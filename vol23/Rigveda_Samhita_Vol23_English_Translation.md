@@ -21383,11 +21383,6 @@ The Kanwas augment by praise this ancient rite intended (to obtain) an abundance
 > इंद्र॒मिद्विम॑हीनां॒ मेधे॑ वृणीत॒ मर्त्यः॑ ।
 
 ### Printed p. 524
-#### Ṛk 44 (continued)
-
-#### Ṛk 44
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > इंद्रं॑ सनि॒ष्युरू॒तये॑ ॥ ४४ ॥
 

@@ -10,3 +10,4 @@
 - 2026-11-24: w0337: garbled italic marks in the English ('⟦apa*', '*na⟩') restored to '*apa*', '*na*'; api_batch.py repairs this pattern when writing en.md.
 - 2026-11-24: w0389, w0396, w0551: one sentence each ('… which breaks off here at the end of the window') removed from en.md (translator remark); api_batch.py strips it.
 - 2026-11-24: w0396: the model left out the heading '### Printed p. 399'; inserted before the Pratipadārtha of Ṛk 15 where the Kannada page mark stands (en.md only).
+- 2026-11-24: w0524 (pp. 524-529): Ṛk 44's Saṃhitā has two lines, the second at the top of p. 524 without a label (the supplied text); the English file had a second Ṛk 44 heading and a second Saṃhitā sub-heading for it; both removed so that the second line follows the first under one heading (structure repair, no text changed).

@@ -297,6 +297,8 @@ def apply_answer(w, text):
     en = re.sub(r' ?\[(?:as printed|as supplied)\]', '', en)   # a translator remark the rules forbid (Vol 11 w0229, w0424)
     en = re.sub(r' ?The (?:block|text|sentence) (?:breaks off|ends|stops)[^.\n]*\.(?: ?The sentence continues[^.\n]*\.)?', '', en)   # 'The block breaks off here; the sentence continues in the next window' (Vol 23 w0016): a remark the rules forbid
     en = re.sub(r' ?\((?:the )?(?:sentence|block|text|verse) (?:breaks off|ends|stops|continues)[^)\n]*\)', '', en)   # '(the sentence breaks off here; it continues in the next window)' (Vol 23 w0206)
+    en = re.sub(r'⟦([^⟧⟦*\n\u0C80-\u0CFF]{1,40})\*', r'*\1*', en); en = re.sub(r'\*([^*⟦⟧⟩\n\u0C80-\u0CFF]{1,40})⟩', r'*\1*', en)   # garbled italic marks: '⟦apa*' and '*na⟩' for '*apa*', '*na*' (Vol 23 w0337)
+    en = re.sub(r' ?(?:The|the) (?:grammatical discussion|discussion|sentence|text|block|commentary|explanation)[^.\n]{0,160}\b(?:breaks off|ends|stops) (?:here|at the end of (?:the|this) window)[^.\n]*\.', '', en)   # Vol 23 w0389, w0396, w0551
     en, fixed = autofix_inline(w, en, kn)
     en, latin = latin_fallback(en, kn); fixed += latin
     en, qi = quoted_iast_to_segments(en, kn); fixed += qi
