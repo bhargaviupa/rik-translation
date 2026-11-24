@@ -6089,8 +6089,8 @@ When the wind that fills every opening makes Agni blaze, Agni appears, bright of
 
 **॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
 
-- **मातरिश्वा मथीत्** — "For the explanation of the word *mātariśvā* see the Special Topics of Ṛk 1-93-6. *Kīdṛśo mātariśvā* — *vibhṛtaḥ*: *prāṇiṣu prāṇāpānādipañcavṛttirūpeṇa vihṛto vibhajya sthitaḥ* — 'what kind of Mātariśvan? *vibhṛta*' — divided in living beings in the five forms of function, *prāṇa*, *apāna* and the rest. In beings the pervading breath is divided into five — *prāṇa*, *apāna*, *vyāna*, *udāna* and *samāna*: this is the sense of the word *vibhṛtaḥ*. Among these, in this context *mātariśvā* means the chief breath (*mukhyaprāṇa*) abiding in the form of *vyāna* — thus the bhāṣyakāra explains: the wind in this form is able to churn Agni and has accomplished the work. To support this, the Chāndogya passage is quoted: *atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyānaḥ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karoti* — in praise of the wind in the form of *vyāna*: "All the deeds of valour such as churning of fire, which cannot be done by the power of *prāṇa* and *apāna*, can be done only by the wind in the form of *vyāna*" — this is the purport of the śruti sentence (Chā. Up. [1-3-5?])."
-- *A story prior to the churning of Agni:* "There is a story current about the churning of Agni: as it says, *sarvam idam andhaṃ tama āsīt | atha mātariśvākāśe sūkṣmam agnim apaśyat | tam amathnāt | mathitvā cānayad iti* — 'all this was dark; then Mātariśvan saw in the sky the subtle Agni; he churned him' [gloss mine and tentative]. Then Mātariśvan, recognizing the fire in subtle form, churned it; afterwards he is said to have called it to the sacrifice as favourable: this well-known story is told in many places in the Ṛk Saṃhitā in subtle form. For example:
+- **मातरिश्वा मथीत्** — "For the explanation of the word *mātariśvā* see the Special Topics of Ṛk 1-93-6. *Kīdṛśo mātariśvā* — *vibhṛtaḥ*: *prāṇiṣu prāṇāpānādipañcavṛttirūpeṇa vihṛto vibhajya sthitaḥ* — 'what kind of Mātariśvan? *vibhṛta*' — divided in living beings in the five forms of function, *prāṇa*, *apāna* and the rest. In beings the pervading breath is divided into five — *prāṇa*, *apāna*, *vyāna*, *udāna* and *samāna*: this is the sense of the word *vibhṛtaḥ*. Among these, in this context *mātariśvā* means the chief breath (*mukhyaprāṇa*) abiding in the form of *vyāna* — thus the bhāṣyakāra explains: the wind in this form is able to churn Agni and has accomplished the work. To support this, the Chāndogya passage is quoted: *atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyānaḥ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karoti* — in praise of the wind in the form of *vyāna*: "All the deeds of valour such as churning of fire, which cannot be done by the power of *prāṇa* and *apāna*, can be done only by the wind in the form of *vyāna*" — this is the purport of the śruti sentence (Chā. Up. 1-3-3-5)."
+- *A story prior to the churning of Agni:* "There is a story current about the churning of Agni: as it says, *sarvam idam andhaṃ tama āsīt | atha mātariśvākāśe sūkṣmam agnim apaśyat | tam amathnāt | mathitvā cānayad iti* — 'all this was dark; then Mātariśvan saw in the sky the subtle Agni; he churned him' [gloss mine and tentative]. Then Mātariśvan, recognizing the fire in subtle form, churned it; afterwards he is said to have brought it to the earth so as to be favourable to the sacrifice: this well-known story is told in many places in the Ṛk Saṃhitā in subtle form. For example:
 
   > आन्यं [as printed] दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः ।
   > *ānyaṃ [as printed] divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ* (Ṛ. Saṃ. 1-93-6)
@@ -6100,7 +6100,7 @@ When the wind that fills every opening makes Agni blaze, Agni appears, bright of
 
   In these sūktas too, as here, praise of Agni is told together with the older story. Thus, after Mātariśvan fetched him, Agni shone in the house of sacrifice — such is the meaning." **GLOSS**
 - **श्येतः** — *śubhravarṇo bhūtvā* — "becoming bright of colour: shining brightly."
-- **जेन्यः** — *prādurbhūtaḥ bhūt | yadvā rakṣaṇaṃ tamasāṃ vā jetā abhavat* — "became manifest; or became the conqueror of the demons or of the darkness. Mātariśvan, having brought Agni to the sacrificial house, became manifest over him; or the two meanings may be given — victorious over the darkness and over the enemies as well, he shone." *(Continued on p. 301.)*
+- **जेन्यः** — *prādurbhūtaḥ bhūt | yadvā rakṣaṇaṃ tamasāṃ vā jetā abhavat* — "became manifest; or became the conqueror of the demons or of the darkness. Agni, brought by Mātariśvan to the sacrificial house, became manifest above; or the two meanings may be given — victorious over the darkness and over the enemies as well, he shone." *(Continued on p. 301.)*
 
 ---
 
@@ -6148,7 +6148,7 @@ When the wind that fills every opening makes Agni blaze, Agni appears, bright of
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.4, noted briefly; not transcribed)*
 
-Words treated: *mathīt* (root *mathe* "to churn"; *luṅ*, third person singular, *tip*; loss of *i* by *iteś ca lopaḥ*; *sic* for *cli* by *cleḥ sic*; *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; *iḍāgama* before the *tip* following *asti-sic-opṛkte*, Pā. [7-3-96], with the *aprkta* … the root being *edit*, no vṛddhi by *hmyantakṣaṇaśvasa…*, Pā. [7-2-5]; loss of *s* of *sic* by *iṭa īṭi*, Pā. [8-2-28]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; the root accent remains since the augment is anudātta; no nighāta since at the head of a pāda); *jenyaḥ* (root *janī* "to be born", with an Uṇādi *inya* affix and *ṭi*-loss, as Bhaṭṭabhāskaramiśra holds; or root *ji* "to conquer", *kṛtyalyuṭo bahulam*, Pā. [3-3-113], the *bahula* allowing agent-sense; *yat* by *aco yat*, Pā. [3-1-97]; *nuḍāgama*; guṇa of the root's *i* for the affix; the form *jenya*; the svarita is set aside by *yato 'nāvaḥ*, Pā. [6-1-213], giving the initial acute); *sahīyase* (*sahaḥ* is a name of strength; "he has strength to excess", *īyasun*; *nit*, so initial acute; dative singular); *dūtyam* (*dūtasya karma dūtyam*; *yat* by *dūtasya bhāvakarmaṇī*; loss of the *a* of *dūta* by *yasyeti ca*; *yat* being *tit*, svarita by *tit svaritam*, Pā. [6-1-185]; though *yato 'nāvaḥ* would give the initial acute here as a blocking rule; …). *(Continued on p. 303.) Grammar page, noted briefly; sūtra numerals [?].*
+Words treated: *mathīt* (root *mathe* "to churn"; *luṅ*, third person singular, *tip*; loss of *i* by *iteś ca lopaḥ*; *sic* for *cli* by *cleḥ sic*; *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; *īḍāgama* (long *ī*) for the *apṛkta* *tip* by *asti-sic-opṛkte*, Pā. 7-3-96; the root being *edit*, no vṛddhi by *hmyantakṣaṇaśvasa…*, Pā. [7-2-5]; loss of *s* of *sic* by *iṭa īṭi*, Pā. [8-2-28]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; the root accent remains since the augment is anudātta; no nighāta since at the head of a pāda); *jenyaḥ* (root *janī* "to be born", with an Uṇādi *inya* affix and *ṭi*-loss, as Bhaṭṭabhāskaramiśra holds; or root *ji* "to conquer", *kṛtyalyuṭo bahulam*, Pā. [3-3-113], the *bahula* allowing agent-sense; *yat* by *aco yat*, Pā. [3-1-97]; *nuḍāgama*; guṇa of the root's *i* for the affix; the form *jenya*; the svarita is set aside by *yato 'nāvaḥ*, Pā. [6-1-213], giving the initial acute); *sahīyase* (*sahaḥ* is a name of strength; "he has strength to excess", *īyasun*; *nit*, so initial acute; dative singular); *dūtyam* (*dūtasya karma dūtyam*; *yat* by *dūtasya bhāvakarmaṇī*; loss of the *a* of *dūta* by *yasyeti ca*; *yat* being *tit*, svarita by *tit svaritam*, Pā. [6-1-185]; though *yato 'nāvaḥ* would give the initial acute here as a blocking rule; …). *(Continued on p. 303.) Grammar page, noted briefly; sūtra numerals [?].*
 
 ---
 
@@ -6201,13 +6201,13 @@ sṛjád ástā dhṛṣatā́ didyúm asmai svā́yāṃ devó duhitári tviṣ
 
 *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15"; foot signature "VI 20".)*
 
-**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 71.5** *(Kannada; begun at the foot of p. 304, "mahe — to the great one; pitre — the protector; dive — to the shining (company of gods); īṃ rasam — this essence (of the earth, the oblation); yat — when (the sacrificer); kaḥ — makes; pṛśanyaḥ — the touch-skilled (demons); cikitvān — (you, knowing that the deity carries the oblation)…")*
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 71.5** *(Kannada; begun at the foot of p. 304, "mahe — to the great one; pitre — the protector; dive — to the shining (company of gods); īṃ rasam — this essence (of the earth, the oblation); yat — when (the sacrificer); kaḥ — makes; pṛśanyaḥ — the touch-skilled (demons); cikitvān — (you, knowing that you carry the oblations to the gods)…")*
 
 …*knowing that [the oblations] are carried to the gods:* *ava tsarat* — they retire (go back); *astā* — Agni, who is by nature a shooter of arrows; *dhṛṣatā* — with the bow; *asmai* — at this (fleeing) demon; *didyum* — blazing (the arrow); *sṛjat* — he sends; *devaḥ* — the shining Agni; *svāyām* — of his own; *duhitari* — in the dawn, who is like a daughter; *tviṣim* — brilliance; *dhāt* — he places.
 
 **॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
 
-When the sacrificer offers the oblation to Agni, the great one, the protector, the demons who wait to seize it retreat. But Agni, who has the bow, shoots an arrow at them from behind; and then he gives light to the dawn, who comes near like a daughter.
+When the sacrificer offers the oblation to Agni, the great one, the protector, the demons who wait to seize it retreat. But Agni, who has the bow, hurls an arrow at them; and then he gives light to the dawn, who comes near like a daughter.
 
 **English Translation** *(the source's own, as printed):*
 
@@ -6218,8 +6218,8 @@ When the sacrificer offers the oblation to Agni, the great one, the protector, t
 - "Agni is not only a benefactor of the sacrificers, gods and men, in carrying out the office of messenger for them: he is able to remove all the obstacles that come in the way. He frustrates the harm of the demons, destroys the darkness, and after his manifestation gives his radiance to the dawn that rises, his daughter, and makes her shine."
 - **ईम्** — "The form and special character of this word have been explained fully before."
 - **कः** — "From the root *kṛ*; *kaḥ* means 'he makes'."
-- **रसम्** — "Since it is read among the twenty-two names of food, *andhaḥ*, *vājaḥ*, *payaḥ* and so on (Ni. 3-9), *rasam* here means food in the form of the oblation — that is, the oblation which is the essence of the earth."
-- **पृशन्यः** — *spṛśa saṃsparśane* — "the root *spṛś*, which gives the sense 'touch, grasp', yields the form *pṛśanyaḥ*. *Sparśanakuśalo rākṣasādiḥ*: that is, demons and the like, who are skilled in seizing — able to plunder…" *(continued on p. 306)*
+- **रसम्** — "Since it is read among the twenty-eight names of food, *andhaḥ*, *vājaḥ*, *payaḥ* and so on (Ni. 3-9), *rasam* here means food in the form of the oblation — that is, the oblation which is the essence of the earth."
+- **पृशन्यः** — *spṛśa saṃsparśane* — "the root *spṛś*, which gives the sense 'touch, be touched', yields the form *pṛśanyaḥ*. *Sparśanakuśalo rākṣasādiḥ*: that is, demons and the like, who are skilled in seizing — able to plunder…" *(continued on p. 306)*
 
 ---
 
@@ -6231,19 +6231,19 @@ When the sacrificer offers the oblation to Agni, the great one, the protector, t
 
 - **पृशन्यः** (concluded) — "…who are able to plunder: that is the sense. In the same way the forms *pṛśanyeyuḥ* (1-84-11), *pṛśanī* (10-73-2) and *pṛśane* (9-97-54) occur. The word *pṛśanyaḥ* itself, when used again in Ṛk 10-61-8, with the same meaning, becomes an epithet of Rudra:
 
-  > सरत्पदा न दक्षिणा पराव्रङ्न ता नु मे पृशन्यो जगृभ्रे ।
-  > *sarat padā na dakṣiṇā parāvṛṅ na tā nu me pṛśanyo jagṛbhre* (Ṛ. Saṃ. 10-61-8)"
-- **अव त्सरत्** — "Slipping away, he ran off. *Vartate*, *āyate*, *loṭate* (and so on) — the root is read among the twenty-two names of 'going/action' (Ni. [3-9?]), and means 'to move'. But this root is used in a special sense: wherever the forms *tsaruḥ*, *tsarī*, *tsarat* occur, they have the sense *chadmagati* — 'moving crookedly' (or 'moving deceitfully') — that is, 'move crookedly, or move by trickery'. For example:
+  > सरत्पदा न दक्षिणा परावृज् न ता नु मे पृशन्यो जगृभ्रे ।
+  > *sarat padā na dakṣiṇā parāvṛj na tā nu me pṛśanyo jagṛbhre* (Ṛ. Saṃ. 10-61-8)"
+- **अव त्सरत्** — "Slipping away, he ran off. *Vartate*, *āyate*, *loṭate* (and so on) — the root is read among the 122 names of 'going/action' (Ni. 3-9), and means 'to move'. But this root is used in a special sense: wherever the forms *tsaruḥ*, *tsari*, *tsarat* occur, they have the sense *chadmagati* — 'moving crookedly' (or 'moving deceitfully') — that is, 'move crookedly, or move by trickery'. For example:
 
   > वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गन्धर्वमस्तृतम् ।
   > *vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam* (Ṛ. Saṃ. 8-1-11)
 
   In this Ṛk the word *tsarat* means *chadmagatyā gacchat* — 'going by trickery'. So here too: though the demon is able to seize and plunder others, in fear of Agni he slips away and goes by trickery; Agni's power and skill have been said to be the cause of this." *(**GLOSS**; the Ṛk citation and numeral checked against the better scan.)*
 - **अस्ता** — *iṣukṣepaṇakuśalo 'gniḥ* — "Agni, skilled in the casting of arrows."
-- **दिद्युं सृजत्** — "*Didyut*, *nemiḥ*, *hetiḥ* and so on are read among the names of the thunderbolt, the twenty-[odd] names (Ni. 3-11); so *didyu* generally means Indra's thunderbolt-weapon. But in some places it also means a shining arrow. The Nirukta-writer's explanation is: the word *didyut* is formed either from the root *do* 'to cut, to afflict', or from the root *dyai/dyā* 'to attack, to fall upon', or from *dyut* 'to shine, to bring forth radiance' (Ni. 10-7). In this connection the Nirukta-writer quotes the Ṛk Saṃhitā:
+- **दिद्युं सृजत्** — "*Didyut*, *nemiḥ*, *hetiḥ* and so on are read among the names of the thunderbolt, the eighteen names (Ni. 3-11); so *didyu* generally means Indra's thunderbolt-weapon. But in some places it also means a shining arrow. The Nirukta-writer's explanation is: the word *didyut* is formed either from the root *dū* 'to cause distress, afflict', or from the root *dyu* 'to attack, fall upon', or from *dyut* 'to shine, to bring forth radiance' (Ni. 10-7). In this connection the Nirukta-writer quotes the Ṛk Saṃhitā:
 
-  > यस्ते दिद्युदवसृष्टा दिवस्परि क्ष्मया चरति परि सा वृणक्तु नः ।
-  > *yas te didyud avasṛṣṭā divas pari kṣmayā carati pari sā vṛṇaktu naḥ* (Ṛ. Saṃ. 7-46-3)" *(continued on p. 307)* **GLOSS**
+  > या ते दिद्युदवसृष्टा दिवस्परि क्ष्मया चरति परि सा वृणक्तु नः ।
+  > *yā te didyud avasṛṣṭā divas pari kṣmayā carati pari sā vṛṇaktu naḥ* (Ṛ. Saṃ. 7-46-3)" *(continued on p. 307)* **GLOSS**
 
 ---
 

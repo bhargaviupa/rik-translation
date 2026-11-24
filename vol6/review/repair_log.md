@@ -33,3 +33,24 @@
 | 522 | `3-13` → `2-13` | NUMBER the supplied text reads 2-13 (one digit differs; no other candidate on pages 521-523); 1 occurrence(s) on the page |
 | 616 | `3-1-4-4` → `5-1-4-4` | NUMBER the supplied text reads 5-1-4-4 (one digit differs; no other candidate on pages 615-617); 1 occurrence(s) on the page |
 - 2026-11-24: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: kn kannada 164; every change is a row of review/refs_applied.tsv.
+
+### 2026-11-24 second pass, batch e300-309.tsv
+| page | old → new | why |
+|---|---|---|
+| 300 | `Chā. Up. [1-3-5?]` → `Chā. Up. 1-3-3-5` | SECOND-PASS S1: Kannada ಛಾ. ಉ. ೧-೩-೩-೫. |
+| 300 | `called it to the sacrifice as favourable` → `brought it to the earth so as to be favourable to the sacrifice` | SECOND-PASS S14: Kannada ಯಜ್ಞಕ್ಕೆ ಅನುಕೂಲವಾಗುವಂತೆ ಪೃಥ್ವಿಗೆ ಕರೆತಂದನು |
+| 300 | `Mātariśvan, having brought Agni to the sacrificial house, became manifest over him` → `Agni, brought by Mātariśvan to the sacrificial house, became manifest above` | SECOND-PASS S15: Kannada ಮಾತರಿಶ್ವನು ಯಜ್ಞಗೃಹಕ್ಕೆ ಕರೆತಂದ ಅಗ್ನಿಯು ಮೇಲೆ ಪ್ರಾದುರ್ಭೂತನಾದನು |
+| 302 | `*iḍāgama* before the *tip* following *asti-sic-opṛkte*, Pā. [7-3-96], with the *aprkta* … ` → `*īḍāgama* (long *ī*) for the *apṛkta* *tip* by *asti-sic-opṛkte*, Pā. 7-3-96; the root` | SECOND-PASS S18: Kannada ಅಸ್ತಿಸಿಚೋಽಪೃಕ್ತೇ (೭-೩-೯೬) ಅಪೃಕ್ತವಾದ ತಿಪ್ಪಿಗೆ ಈಡಾಗಮ |
+| 305 | `(you, knowing that the deity carries the oblation)` → `(you, knowing that you carry the oblations to the gods)` | SECOND-PASS S14: Kannada ಚಿಕಿತ್ವಾನ್—(ನೀನು ದೇವತೆಗಳಿಗೆ ಹವಿಸ್ಸನ್ನು ವಹಿಸುತ್ತಿರುವುದನ್ನು ತಿಳಿದವರಾಗಿ) (row listed as p. 304; the English text stands in the p. 305 section) |
+| 305 | `shoots an arrow at them from behind` → `hurls an arrow at them` | SECOND-PASS S16: Kannada ಬಾಣವನ್ನು ಎಸೆಯುತ್ತಾನೆ |
+| 305 | `twenty-two names of food` → `twenty-eight names of food` | SECOND-PASS S1: Kannada ೨೮ ಅನ್ನನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೯) |
+| 305 | `'touch, grasp'` → `'touch, be touched'` | SECOND-PASS S14: Kannada ಸ್ಪರ್ಶನಮಾಡು, ಮುಟ್ಟಿಸಿಕೊ |
+| 306 | `twenty-two names of 'going/action' (Ni. [3-9?])` → `122 names of 'going/action' (Ni. 3-9)` | SECOND-PASS S1: Kannada ೧೨೨ ಗತಿ ಕರ್ಮನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೯) |
+| 306 | `twenty-[odd] names (Ni. 3-11)` → `eighteen names (Ni. 3-11)` | SECOND-PASS S1: Kannada ೧೮ ವಜ್ರನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೧೧) |
+| 306 | `parāvṛṅ na` → `parāvṛj na` | SECOND-PASS S7: Kannada ಪರಾವೃಜ್ ನ (IAST ṅ→j) |
+| 306 | `पराव्रङ्न` → `परावृज् न` | SECOND-PASS S7: Kannada ಪರಾವೃಜ್ ನ (Devanagari व्र→वृ, ङ्→ज्, from the Kannada letters) |
+| 306 | `*tsarī*` → `*tsari*` | SECOND-PASS H29: Kannada ತ್ಸರಿ (short i) |
+| 306 | `*do* 'to cut, to afflict'` → `*dū* 'to cause distress, afflict'` | SECOND-PASS S14: Kannada ಪರಿತಾಪವನ್ನುಂಟುಮಾಡು ಎಂಬರ್ಥದ ದೂ ಧಾತು |
+| 306 | `*dyai/dyā* 'to attack, to fall upon'` → `*dyu* 'to attack, fall upon'` | SECOND-PASS S13: Kannada ಆಕ್ರಮಣಮಾಡು, ಮೇಲೆ ಬೀಳು ಎಂಬರ್ಥವನ್ನು ಕೊಡುವ ದ್ಯು ಧಾತು |
+| 306 | `यस्ते दिद्युदवसृष्टा` → `या ते दिद्युदवसृष्टा` | SECOND-PASS S7: Kannada ಯಾ ತೇ ದಿದ್ಯುದವಸೃಷ್ಟಾ (yas→yā) |
+| 306 | `yas te didyud avasṛṣṭā` → `yā te didyud avasṛṣṭā` | SECOND-PASS S7: Kannada ಯಾ ತೇ ದಿದ್ಯುದವಸೃಷ್ಟಾ |
