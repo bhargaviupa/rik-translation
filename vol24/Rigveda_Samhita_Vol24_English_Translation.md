@@ -29424,6 +29424,253 @@ O worshipful, यजत्रा (*yajatrā*), shining Aśvins, by an ancient ri
 - आ गच्छतं (*ā gacchataṃ*)—be pleased to come
 - पिबाधः (*pibādhaḥ*)—drink this Soma
 
+### Printed p. 647
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful ones, divine in nature, O Aśvin deities, may you two also, being endowed with the rites of old, having horses yoked to the chariot as if giving it strength, and being accompanied by your actions of favour, be pleased to come with regard to this third libation.
+
+##### English translation
+O Aswins, come with your protective actions and chariot with horses.
+and drink by the right of your action the third libation.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां दे॒वास्त्रय॑ एकाद॒शासः॑ स॒त्याः स॒त्यस्य॑ ददृशे पु॒रस्ता॑त् ।  
+> अ॒स्माकं॑ य॒ज्ञं सव॑नं जुषा॒णा पा॒तं सोम॑मश्विना॒  ॑
+> दीद्यग्नी ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । देवाः । त्रयः । एकादशासः । सत्याः । सत्यस्य । ददृशे । पुरस्तात् ।  
+> अस्माकं । यज्ञं । सवनं । जुषाणा । पातं । सोमं । अश्विना । दीद्यग्नी इति  
+> दीद्यग्नी ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् युवां द्वौ अपरे च त्रय एकादशासः त्रयस्त्रिंशद्देवाः ।
+> ते च अष्टौ वसवः एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्च इति श्रुतिप्रसिद्धाः । सर्वे यूयं सत्याः यथार्थभूताः संतः सत्यस्यावितथस्य यज्ञस्य
+> पुरस्तात् पुरोदेशे ददृशे दृश्यमाना भवथ । अतोऽस्माकं संबंधिनं सवनं ।
+> सूयतेऽभिषूयते सोमो यत्रेति सवनः । तं तादृशं यज्ञं यजनीयमध्वरं
+> जुषाणा जुषमाण् सेवमान् युवां सोमं अभिषुतसोमरसं पातं पिबतं ।
+> कीदृशौ युवां । दीद्यग्नी ! दीदिः अतिशयेन दीप्यमानः अग्निः जठरानलो
+> ययोस्तौ तादृशौ । भिषजोः भवतोर्दिप्ताग्नित्वमप्युचितमिति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you two, and the other thirty-three gods, "three elevens" (thirty-three), who are the eight Vasus, the eleven Rudras, the twelve Ādityas, Prajāpati and Vaṣaṭkāra, as well known from the Śruti, all of you, being true, that is, real in being, become visible in front of the true, unfailing sacrifice. Therefore, accepting our sacrifice, which is called savana because Soma is pressed in it, that is, the sacrifice that is to be performed and is free from harm, do you two drink the Soma, the pressed Soma juice. What are you two like? दीद्यग्नी (*dīdyagnī*): those of whom the digestive fire blazes exceedingly. For physicians such as you two a blazing fire is also fitting; such is the meaning.
+
+### Printed p. 648
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवां (*yuvāṃ*)—you two
+- त्रय एकादशास देवाः (*traya ekādaśāsa devāḥ*)—the remaining gods, thirty-three in number
+- सत्याः (*satyāḥ*)—being of the nature of truth
+- सत्यस्य (*satyasya*)—of the sacrifice, which is of the nature of truth
+- पुरस्तात् (*purastāt*)—in front
+- ददृशे (*dadṛśe*)—appear
+- दीद्यग्नि (*dīdyagni*)—O Aśvin deities, having a blazing digestive fire
+- अस्माकं (*asmākaṃ*)—our
+- सवनं (*savanaṃ*)—called the third libation
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- बुषाणा (*buṣāṇā*)—enjoying
+- सोमं (*somaṃ*)—the Soma offered by us
+- पातं (*pātaṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, may you two and also the remaining thirty-three gods, being of the nature of truth, appear in front of our sacrifice, which is of the nature of truth. O Aśvin deities, having a blazing digestive fire, enjoying our sacrifice called the third libation, drink the Soma offered by us.
+
+##### English translation
+The number of Gods are thirty-three, they are true, they are visible
+before the rite. Aswins with brilliant fire come to my this Soma rite
+and drink.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒नाय्यं॒ तद॑श्विना कृ॒तं वां॑ वृष॒भो दि॒वो रज॑सः पृथि॒व्याः ।  
+> स॒हस्रं॒ शंसा॑ उ॒त ये गवि॑ष्टौ॒ सर्वा॒ इत्ता उप॑ याता॒ पिब॑ध्यै ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पनाय्कं । तत् । अश्विना । कृतं । वां । वृषभः । दिवः । रजसः । पृथिव्याः ।  
+> सहस्रं । शंसाः । उते । ये । गोऽइष्टौ । सर्वान् । इत् । तान् । उप । यात ।  
+> पिबध्यै ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् पृथिव्याः भूमेर्हेतोः दिवः द्युलोकात् सकाशात् रजसः
+> उदकस्य वृषभः वर्षिता सूर्योऽस्तीति यत् तत्सर्वं वां युवयोः कृतं कर्म
+
+##### Gist of the bhāṣya
+
+O Aśvins, that the Sun is the bull, the rainer of water, from the heavenly world, on account of the earth, all that is your deed, that is, your action,
+
+### Printed p. 649
+
+> पनाय्कं स्तुत्यं भवति । भवदनुग्राहादेव युष्मत्पिता सूर्यः पृथिव्यां वर्षति ।
+> नो चेत् तेन तु स्वरश्मिनाडीभिः भूमेर्जलमाकृष्णमस्ति । स कथं वर्षेदाकर्षकः
+> सन् । तस्मात् भवतोरेवैतत्कर्मत्यभिप्रायः । यत एवमतः गविष्टौ गवामेषणे
+> निमित्ते सति ते प्रसिद्धाः सहस्रसंख्याकाः शंसाः । शस्यंते स्तूयंत इति शंसा
+> यज्ञाः । आरब्बाः संतीति शेषः । तान् सर्वानित् सर्वानपि यज्ञान् युवामुपयातं समीपे गच्छतं । वचनव्यत्ययश्चांदसः । किमर्थं । पिबध्यॆ सोमं
+> पातुं । उत इत्यनर्थकः ॥
+
+##### Gist of the bhāṣya
+
+it is praiseworthy. Only by your favour does the Sun, your father, rain on the earth. Otherwise the water of the earth has been drawn up by him with the channels of his own rays; how could he rain, being one who draws up? Therefore this is the doing of you two alone; such is the intention. Since it is so, when there is a search for cows, those well-known thousands of praises, that is, sacrifices, which are praised, are begun (this is to be supplied). To all those sacrifices, indeed, you two come near, that is, go to their neighbourhood; the change of number is Vedic. For what purpose? To drink Soma. The word "uta" has no meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- पृथिव्याः (*pṛthivyāḥ*)—for the abundance of the earth
+- दिवः (*divaḥ*)—from the sky
+- रजसः (*rajasaḥ*)—the water in the form of rain
+- वृषभः (*vṛṣabhaḥ*)—the Sun who pours down
+- तत् (*tat*)—that state of his
+- वां (*vāṃ*)—your
+- पनाय्कं (*panāykaṃ*)—highly praiseworthy
+- कृतं (*kṛtaṃ*)—is indeed the action (and therefore)
+- गविष्टौ (*gaviṣṭau*)—for the search for cows
+- ये सहस्रं शंसाः (*ye sahasraṃ śaṃsāḥ*)—whatever praiseworthy sacrifices, in thousands, there are
+- तान् सर्वान् इत् (*tān sarvān it*)—with regard to all those sacrifices
+- पिबध्यै (*pibadhyai*)—to drink the Soma
+- उप यात (*upa yāta*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the Sun who pours down water in the form of rain from the sky for the abundance of the earth, that state of that Sun, which is a benefit to the world, is indeed your highly praiseworthy action. Therefore, with regard to all those sacrifices, praiseworthy and numbering thousands, that there are for the search for cows, come to drink the Soma.
+
+##### English translation
+Aswins you are the granter of the desired, by heaven, earth and sky.
+I have invoked you, those who praised thousand times, come to them for
+drink.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं वां॑ भा॒गो निहि॑तो यजत्रे॒मा गिरो॑ नास॒त्योप॑  
+> यातं ।  
+> पिब॑तं॒ सोमं॒ मधु॑मंतम॒स्मे प्रदा॒श्वांस॑मवतं॒ शची॑भिः॥
+
+### Printed p. 650
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । वां । भागः । निहितः । यजत्रा । इमाः । गिरः । नासत्या । उप । यातं ।  
+> पिबतं । सोमं । मधुमंतं । अस्मे इति । प्र । दाश्वांसं । अवतं । शचीभिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजत्रा यजनीयावश्विन् अयं पुरोवर्ति वां युवयोः भागः
+> भजनीयोऽ०शः सोमलक्षणः निहितः नियमेन स्थापितः । आतस्तं गृहीतुमागच्छतमिति
+> (ग्रहीतु) शेषः । किं च हे नासत्या नासत्यौ सत्यभूतावश्विन् युवामिमाः संनिकृष्टाः गिरः स्तुतिलक्षणा वाचः उपयातं समीपे गच्छतं श्रोतुं । अथ च
+> मधुमंतं माधुर्योपेतं सोमं पिबतं ! किं च अस्मे अस्माकं संबंधिनं
+> दाश्वांसं हविर्दत्तवंतं यजमानं शचीभिः अभिमतफलप्रदानलक्षणैः कर्मभिः
+> प्र अवतं प्रकर्षण रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+O worshipful Aśvins, this portion of yours, of the nature of Soma, which is to be partaken of, is placed here with firmness; "to take it, come" is to be supplied. Further, O Nāsatyas, true Aśvins, come near, that is, go close to hear these praises, these words of the nature of praise, which are close at hand. And drink the Soma, which is endowed with sweetness. Further, protect well, that is, protect excellently, our sacrificer, who has given the oblation, with your actions that bestow the desired fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्रा (*yajatrā*)—worthy of worship
+- नासत्या (*nāsatyā*)—O Aśvin deities
+- वां (*vāṃ*)—in your direction
+- आयं भागः (*āyaṃ bhāgaḥ*)—this portion in the form of Soma
+- निहितः (*nihitaḥ*)—is placed
+- इमा गिरः (*imā giraḥ*)—having regard to these words of praise
+- उप यातं (*upa yātaṃ*)—be pleased to come
+- मधुमंतं (*madhumaṃtaṃ*)—very pleasant
+- सोमं (*somaṃ*)—the Soma juice
+- पिबतं (*pibataṃ*)—drink
+- अस्मे (*asme*)—belonging to us
+- दाश्वांसं (*dāśvāṃsaṃ*)—the sacrificer who gives the oblation
+- शचीभिः (*śacībhiḥ*)—with your actions of favour
+- प्रावतं (*prāvataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful Aśvin deities, this portion in the form of Soma is placed in your direction. Having regard to these words of praise, be pleased to come. Drink the very pleasant Soma juice. Protect the sacrificer who belongs to us and gives the oblation with your actions of favour.
+
+##### English translation
+Nasatyas, your portion remains thus set apart this is your praise, do come and proteet us, drink this sweet Soma and protect the sacrificer with your actions.
+
+### Printed p. 651
+## Sūkta 58 (Maṇḍala 8)
+
+##### Anuvāda
+
+This sūkta, यमृत्विजः (*yamṛtvijaḥ*), is the tenth among the Vālakhilya sūktas. It has three Ṛks. The seer of this sūkta is Medhya Kāṇva; the deities are the Viśvedevas **NOTE** or the priests. The metre is Triṣṭubh. In the Anukramaṇikā it is said: the three Ṛks beginning with यमृत्विजः (*yamṛtvijaḥ*) are addressed to the Viśvedevas, or the first is in praise of the priests. The use in ritual is to be learnt from the Sūtra.
+
+##### Particulars
+
+Sūkta 58 (Vālakhilya sūkta 10). Maṇḍala 8. Anuvāka 6. Sūkta 58. Aṣṭaka 6. Adhyāya 4. Varga 29. Number of Ṛks in the sūkta: 3. Seer: Medhyaḥ Kāṇvaḥ. Deity: 1. the Viśvedevas or the priests; 2-3. the Viśvedevas. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमृ॒त्विजो॑ बहु॒धा क॒ल्पयं॑तः॒ सचे॑तसो य॒ज्ञमि॒मुं  ॑
+> वहंति ।  
+> यो अ॑नूचा॒नो ब्रा॑ह्म॒णो यु॒क्त आ॑सी॒त्का स्वि॒त्तत्र॒ यज॑मानस्य सं॒वित् ॥ १ ॥
+
+### Printed p. 652
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । ऋत्विजः । बहुधा । कल्पयंतः । सचेतसः । यज्ञं । इमं । वहंति ।  
+> यः । अनूचानः । ब्राह्मणः । युक्तः । आसीत् । का । स्वित् । तत्र । यजमानस्य ।  
+> संवित् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सचेतसः समानप्रज्ञाः ऋत्विजः यमिमं यज्ञं यजनीयकर्मविशेषं
+> बहुधा अनेकप्रकारेण कल्पयंतः रचयंतः संतः वहंति देवान् प्रापयंति !
+> तमिमं यज्ञं कुर्वन् ब्राह्मणः ऋत्विग्लक्षणो विप्रः यज्ञकर्मविशेषे युक्तः
+> समाहितः आसीत् । तत्र कर्मणि का स्मित् । स्विदिति वितर्कॆ । का ना यजमानस्य
+> संवित् प्रज्ञा । न किंचित्करा इत्यर्थः । यत्र कर्मणि ऋत्विगेव सावधानोऽस्ति तत्र
+> यजमानस्य प्रज्ञापाटवेन किं प्रयोजनमस्ति । न किंचिदपीति भाव ॥ कीदृशो
+> ब्राह्मणः । अनूचानः गुरोः सकाशादधीतवेदवेदांगः ॥
+
+##### Gist of the bhāṣya
+
+The priests of like mind, arranging this sacrifice, this particular sacrificial action, in many ways, that is, devising it, carry it, that is, convey the gods to it. In that sacrifice, the Brahmin, a sage of the nature of a priest, who performs this sacrifice, is engaged, that is, attentive, in the particular sacrificial action. In that rite, what then is the sacrificer's understanding? "Svit" denotes conjecture. It is of no use: such is the meaning. In a rite in which the priest alone is attentive, what purpose has the sacrificer's skill of understanding? None at all; such is the sense. What sort of Brahmin? अनूचानः (*anūcānaḥ*): one who has studied the Veda and the Vedāṅgas from a teacher.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सचेतसः (*sacetasaḥ*)—having equal understanding
+- ऋत्विजः (*ṛtvijaḥ*)—the priests
+- यं (*yaṃ*)—which sacrifice
+- बहुधा (*bahudhā*)—in many ways
+- कल्पयंतः (*kalpayaṃtaḥ*)—arranging
+- यज्ञं (*yajñaṃ*)—to this very sacrifice
+- वहंति (*vahaṃti*)—bring the gods (and further)
+- इमं (*imaṃ*)—to this sacrifice
+- युक्तः (*yuktaḥ*)—being engaged
+- अनूचानः (*anūcānaḥ*)—one accomplished in the study of the Veda
+- यः ब्राह्मणः आसीत् (*yaḥ brāhmaṇaḥ āsīt*)—the Brahmin who is of the nature of a priest and is present
+- तत्र (*tatra*)—in such an excellent sacrifice
+- यजमानस्य (*yajamānasya*)—of the sacrificer
+- संवित् (*saṃvit*)—the need for complete knowledge
+- का स्मित् (*kā smit*)—why indeed is it needed?
+
+##### भावार्थ (Bhāvārtha)
+
+In the excellent sacrifice that the priests of equal understanding arrange in many ways, and to which they bring the gods, and in which the Brahmin, accomplished in the study of the Veda and of the nature of a priest, is intent on the rite, what indeed is the need of the sacrificer's complete knowledge?
+
+##### English translation
+Of him who is variously conceived by the noble minded priests engaged
+in this rite who do not atter any word, are engaged as a priest, how little do
+the worshippers know of him.
+
 ---
 
-**Progress note:** Done through printed p. 646. 8.56 Ṛk 1 end, Ṛk 2-5; sūkta 8.57 intro, Ṛk 1
+**Progress note:** Done through printed p. 652. Mandala 8, sukta 57 Rks 2-4, sukta 58 Rk 1
