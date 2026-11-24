@@ -17040,6 +17040,262 @@ Him, that very Varuṇa, I praise well with a common (samanā, that is, samānay
 - पितृणां (*pitṛṇāṃ*)—made by the fathers
 - मन्मभिः च (*manmabhiḥ ca*)—and with praises I praise
 
+### Printed p. 377
+
+- made by Nābhāka
+- प्रशस्तिभिः (*praśastibhiḥ*)—and with excellent praises I praise
+- सिंधूनां (*siṃdhūnāṃ*)—of the flowing rivers
+- उप (*upa*)—near
+- यः (*yaḥ*)—who
+- उदये (*udaye*)—rises
+- सप्तस्वसा (*saptasvasā*)—who has seven sisters
+- सः (*saḥ*)—that very one
+- मध्यमः (*madhyamaḥ*)—is described as belonging to the middle world
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—all alike
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+With a common praise I praise that very Varuṇa. I praise him also with the praises made by the fathers and with the praises made by Nābhāka. He who rises near the flowing rivers, who has seven sisters, is described as belonging to the middle world. May all our enemies perish at the same time.
+
+##### English translation
+(I praise) with a like praise, with the praises of (my progenitors, with the eulogies of Nabhaka, that Varuna who rises up in the vicinity of the rivers. and in the midst (of them) has seven sisters : may all our enemies perish.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk **NOTE** Yāska has given the explanation:
+
+तं स्वभिष्टौमि समानया गिरा गीत्या स्तुत्या पितृणां च मननीयैः स्तोमैर्नाभाकस्य प्रशस्तिभिः । ऋषिनाभाको बभूव यः स्यंदमानानामासामपामुपोदये सप्तस्वसारमेनमाह वाग्निः स मध्यम इति निरुच्यतेऽथैष एव भवति । नभंतामन्यके समे मा भूवन्यके सर्वे ये नो द्विषंति दुर्धियः पापधियः पापसंकल्पाः ॥ (*taṃ svabhiṣṭaumi samānayā girā gītyā stutyā pitṛṇāṃ ca mananīyaiḥ stomairnābhākasya praśastibhiḥ | ṛṣinābhāko babhūva yaḥ syaṃdamānānāmāsāmapāmupodaye saptasvasāramenamāha vāgniḥ sa madhyama iti nirucyate 'thaiṣa eva bhavati | nabhaṃtāmanyake same mā bhūvanyake sarve ye no dviṣaṃti durdhiyaḥ pāpadhiyaḥ pāpasaṃkalpāḥ ‖*) (Ni. 10-5)
+
+I praise this god Varuṇa with excellent words of praise, or with words worthy of being sung. How? As our fathers and other elders formerly praised Varuṇa, with just such words, with words equal to the words of praise of those fathers, I praise him. And I also praise him with the words of praise of me, Nābhāka. Nābhāka is a seer who saw the mantras. That seer, in the atmosphere, the place of rising of the waters that flow as rivers, together with seven sisters, praises Varuṇa with words. Here Varuṇa is the deity of the middle region (the atmosphere).
+
+### Printed p. 378
+
+The seven sisters are the seven principal rivers such as the Gaṅgā, or the seven horses. Since Varuṇa also means the Sun, the seven horses of the Sun may be indicated here. The sense appears that Varuṇa stands in the midst of them. For the last sentence of this Ṛk, "may all our enemies perish at the same time": those of sinful tendency, that is, those always attached to evil deeds, who also hate us, the wicked ones, that is, all our enemies, may they perish at one time; such is the meaning.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सः क्षपः॒ परि॑ षस्वजे॒ न्य १ १॒॑स्नो मा॒यया॑ दधे॒ स विश्वं॒ परि॑  ॒
+> दर्शतः ।  
+> तस्य॒ वेनी॒रनु॑ व्र॒तमु॒षस्ति॒ स्नो अ॑वर्धय॒न्नभं॑तामन्य॒के  ॑
+> समे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । क्षपः । परि । सस्वजे । नि । उस्रः । मायया । दधे । सः । विश्वं । परि । दर्शतः ।  
+> तस्य । वेनीः । अनु । व्रतं । उषः । तिस्त्रः । अवर्धयन् । नभंतां । अन्यके । समे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स वरुणः क्षपो रात्रिः परि षस्वजे । परिष्वजते । अपि च दर्शतो दर्शनीयः
+> स वरुण उस्र उत्सरणशीलः सन् विश्वं मायया कर्मणा परि परितो नि दधे ।
+> निदधाति । किंच तस्य वरुणस्य व्रतं कर्म वेनीः कामयमानाः प्रजास्तिस्र उषस्त्रिषु
+> प्रातर्माध्यंदिनं सायं चान्नवर्धयन् । अनुवर्धयंति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+That Varuṇa embraces the nights (kṣapaḥ). Moreover, that Varuṇa, who is worth seeing (darśata) and of a rising, moving nature (usra), sets all around the whole universe by his māyā, that is, by his action. Further, the desiring creatures (venīḥ) increase his work (vrata) at the three times, morning, midday and evening. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same Varuṇa
+- क्षपः (*kṣapaḥ*)—the nights
+- परि षस्वजे (*pari ṣasvaje*)—embraces
+- दर्शतः (*darśataḥ*)—of attractive form
+- सः (*saḥ*)—that same Varuṇa
+- उस्रः (*usraḥ*)—swift-moving
+- मायया (*māyayā*)—by his extraordinary action
+- विश्वं (*viśvaṃ*)—the whole world
+- परि (*pari*)—all around
+- नि दधे (*ni dadhe*)—has upheld
+- तस्य (*tasya*)—of that Varuṇa
+- व्रतं (*vrataṃ*)—the action
+- वेनीः (*venīḥ*)—the desiring people
+- तिस्रः उषः (*tisraḥ uṣaḥ*)—at all three pressing times
+- अनु अवर्धयन् (*anu avardhayan*)—honour with worship and the like
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—may they come to destruction
+
+### Printed p. 379
+
+##### भावार्थ (Bhāvārtha)
+
+Varuṇa embraces the nights. That same Varuṇa, of attractive form and swift-moving, has upheld the whole world all around by his extraordinary action. The people who desire the action of that Varuṇa honour him with worship and the like at all three pressing times. May all our enemies come to destruction at the same time.
+
+##### English translation
+He embraces the nights : of goodly aspect, and quick of movement he encompasses the universe by his acts all who are desirous (of his favour) diligently offer him worship at the three diurnal rites: may all our enemies perish.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः क॒कुभो॑ निधार॒यः पृ॑थि॒व्यामधि॑ दर्श॒तः ।  
+> स माता॑ पू॒र्व्यं प॒दं तद्वरु॑णस्य॒ सप्तं॒ स हि गो॒पा इ॒वेर्यो॒ नभं॑तामन्य॒के स॑मे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ककुभः । निधारयः । पृथिव्यां । अधि । दर्शतः ।  
+> स । माता । पूर्व्यं । पदं । तत् । वरुणस्य । सप्तं । सः । हि । गोपा इव ॥  
+> इर्यः । नभंतां । अन्यके । समे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वरुणः पृथिव्यामधि पृथिव्या उपरि दर्शतो दर्शनीयः सन् ककुभो
+> दिशो निधारयः निधारयति स वरुणो माता निर्माता । पूर्व्यं प्रश्नं पदं स्वर्गाख्यं स्थानं सप्त्यमस्माभिश्च सर्पणीयं तद्वरुणस्य स्वकृतं । अपि च स हि स एवेर्य
+> ईश्वरः सन् गोपा इव गोपाल इव पशूनामस्माकं रक्षिता । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa, who, being worth seeing above the earth, upholds the directions (kakubhaḥ), is the maker (mātā, the builder). That ancient **NOTE** place (pada) called heaven, to be reached by us, is of his own making. Moreover, being the lord (irya), he is like a cowherd (gopā), the protector of our cattle. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Varuṇa
+- पृथिव्यां अधि (*pṛthivyāṃ adhi*)—standing on the earth
+- दर्शकः (*darśakaḥ*)—having an attractive form
+- ककुभः (*kakubhaḥ*)—all the directions
+- निधारयः (*nidhārayaḥ*)—upholds
+- सः (*saḥ*)—that same
+
+### Printed p. 380
+
+- Varuṇa
+- माता (*mātā*)—is the maker of the world
+- पूर्व्यं (*pūrvyaṃ*)—ancient
+- सप्तं (*saptaṃ*)—and accessible to us
+- पदं (*padaṃ*)—the heavenly place that there is
+- तत् (*tat*)—that too
+- वरुणस्य (*varuṇasya*)—is made by Varuṇa himself
+- स हि (*sa hi*)—that same Varuṇa
+- इर्यः (*iryaḥ*)—being the lord
+- गोपा इव (*gopā iva*)—as a herdsman protects cattle, so he protects us
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+The Varuṇa who, standing on the earth, with an attractive form upholds all the directions, that same Varuṇa is the maker of the world. The ancient place, accessible to us, that there is, that too is made by Varuṇa. That same Varuṇa, being the lord, protects us as a herdsman protects cattle. May all our enemies perish at the same time.
+
+##### English translation
+He, who visible above the earth sustains the point of the horizon, is the measurer (of the universe); that is the ancient abode of Varuna, to which we have access; he is our lord, like the keeper of cattle : may all our enemies perish
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो ध॒र्ता भुव॑नानां॒ य उ॒स्राणा॑मपी॒च्या॒३॒॑३ वेद॒ नामा॑नि॒  ॑
+> गुह्या ।  
+> स क॒विः काव्या॑ पु॒रु रू॒पं द्यौरि॑व पुष्यति॒ नभं॑तामन्य॒के स॑मे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । धर्ता । भुवनानां । यः । उस्राणां । अपीच्या । वेद । नामानि । गुह्या ।  
+> सः । कविः । काव्या । पुरु । रूपं । द्यौरिव । पुष्यति । नभंतां । अन्यके । समे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वरुणो भुवनानां धर्ता धारयिता यश्चोस्राणां देवाधिष्ठानभूतानां रश्मीनामपीच्यापीच्यान्यंतर्हितानि गुह्या गुह्यानि गुह्यायां निहितानि
+
+### Printed p. 381
+
+> नामानि वेद जानाति स वरुणः कविः प्राज्ञः सन् काव्या काव्यानि कविकर्माणि पुरु
+> बहूनि रूपं द्यौरिव पुष्यति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa, who is the upholder of the worlds, and who knows the names of the rays (usrāṇām), the abodes of the gods, names that are hidden (apīcya) and placed in secret (guhya): that Varuṇa, being wise (kavi), cherishes the many works (kāvya) of a sage and a form, as heaven does. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Varuṇa
+- भुवनानां (*bhuvanānāṃ*)—of all the worlds
+- धर्ता (*dhartā*)—is the upholder
+- यः (*yaḥ*)—who
+- उस्राणां (*usrāṇāṃ*)—of the divine rays
+- अपीच्या (*apīcyā*)—hidden
+- गुह्या (*guhyā*)—and secret
+- नामानि (*nāmāni*)—the names
+- वेद (*veda*)—knows
+- सः (*saḥ*)—that same Varuṇa
+- कविः (*kaviḥ*)—being wise
+- काव्या (*kāvyā*)—performing all works proper to a sage
+- दौरिव (*dauriva*)—like the atmosphere
+- पुरु (*puru*)—of many kinds
+- रूपं (*rūpaṃ*)—a form
+- पुष्यति (*puṣyati*)—assumes
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—may they come to destruction
+
+##### भावार्थ (Bhāvārtha)
+
+The Varuṇa who is the upholder of all the worlds, who knows all the names of the divine rays, hidden and secret, that same Varuṇa, being wise and performing all works proper to a sage, assumes forms of many kinds, like the atmosphere. May all our enemies come to destruction at the same time.
+
+##### English translation
+He who is the sustainer of the worlds, who knows the hidden and secret names of the (solar) rays, he is the sage who cherishes the acts of sages, as the heaven cherishes numorous forms: may all our enemies perish.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॒न्विश्वा॑नि॒ काव्या॑ च॒क्रे नाभि॑रिव श्रि॒ता ।  
+> त्रि॒तं जा॒ती स॑पर्यत व्र॒जे गावो॒ न सं॒युजे॑ यु॒जे  
+> अश्वा॑ अयुक्षत॒ नभं॑तामन्य॒के स॑मे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । विश्वानि । काव्या । चक्रे । नाभिः इव । श्रिता ।
+
+### Printed p. 382
+
+> त्रितं । जूती । सपर्यत । व्रजे । गावः । न । संयुजे । युजे । अश्वान् । आयुक्तत ।  
+> नभंतां । अन्यके । समे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन्वरुणे विश्वानि सर्वाणि काव्या काव्यानि कविकर्माणि चक्रे नाभिरिव यथा
+> रथस्य चक्रे नाभिस्तथा श्रिता श्रितानि तं त्रितं त्रिस्थानं वरुणं जूती जूत्या क्षिप्रं
+> सपर्यत । हे मदीया जनाः परिचरत । किमर्थमित्यत आह । व्रजे गोष्ठे गावो
+> न यथा गाः संयुजे संयोगार्थं सह स्थापयितुं युजे युंजंति तथास्माकमभियोगायाश्वानयुक्षत । सपत्ना युंजंति । अतस्तदुपद्रवपरिहाराय वरुणं
+> परिचरतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In which Varuṇa all works of a sage (kāvya) are set, as the nave is in the wheel of a chariot, that triple-placed Varuṇa, who has three places, serve quickly (jūtī). O my people, serve him. For what purpose? He says: as in a cow-pen (vraja) cows are yoked together, that is, are made to stand together for union, so for an attack on us the adversaries (sapatnāḥ) harness horses. Therefore, to ward off their harm, serve Varuṇa: such is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चक्रे (*cakre*)—in a wheel
+- नाभिरिव (*nābhiriva*)—as all the spokes rest on the nave, the middle part
+- यस्मिन् (*yasmin*)—in which Varuṇa
+- विश्वानि (*viśvāni*)—all
+- काव्या (*kāvyā*)—works of a sage
+- श्रिता (*śritā*)—rest
+- त्रितं (*tritaṃ*)—that same Varuṇa, who pervades the three places
+- जूती (*jūtī*)—quickly
+- सपर्यत (*saparyata*)—worship
+- व्रजे (*vraje*)—in a cow-pen
+- गावो न (*gāvo na*)—as cows are all gathered together
+- संयुजे (*saṃyuje*)—to join together
+- युजे (*yuje*)—as they are driven together
+- अश्वान् (*aśvān*)—horses
+- आयुक्त (*āyukta*)—the enemies have collected
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+As in a wheel all the spokes rest on the nave in the middle, so all the works of a sage rest in Varuṇa; worship quickly that same Varuṇa, who pervades the three places. The enemies have collected assembled horses, as all the cows are gathered together in a cow-pen. May all our enemies perish at the same time.
+
+##### English translation
+In whom all pious acts are concentrated, like the nave in the (centre of the) wheel, worship him quickly who abides in the three worlds; as men assemble the cattle in their pasture, so do (our foes) collect their horses (to assail us): may all our enemies perish.
+
 ---
 
-**Progress note:** Done through printed p. 376. Mandala 8 sukta 40 rks 10-12 end, sukta 41 rks 1-2
+**Progress note:** Done through printed p. 382. Mandala 8 sukta 41 rks 2 end to 6
