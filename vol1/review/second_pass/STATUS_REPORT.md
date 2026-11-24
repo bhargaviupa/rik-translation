@@ -6,7 +6,7 @@
 - **Pages read:** 160 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150)
 - **Findings:** 715 — applied 603, questions 112; edits ok 607, failed 0
 - **Reader tokens (batches so far):** 1479k; per page 9.2k
-- **Last commit:** @C@
+- **Last commit:** a98e5a2
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -16,7 +16,7 @@
 | 3 | 31–60 | 134 | 118 | 118 / 0 | 16 | 344k | 938a30a | 118 edits (28 S7 via sp_sanskrit, 21 S13, 21 S14, 11 S15, 9 S16, 9 S17; many name/number repairs); English sections missing for Kannada pp. 35, 48, 52 (text under Page 34, 'Pages 46–47', Page 51); Kannada p. 54 text sits under the p. 53 mark; Paila vs Shaila: the Devanagari block 'शैलो होता' and the contents entry still say Shaila (open item) |
 | 4 | 61–90 | 143 | 131 | 131 / 0 | 12 | 320k | 7fae0cb | 131 edits (45 S7 via sp_sanskrit, ~86 R1: names, senses, numbers, omissions); English sections not aligned (p. 73 text under Page 72; Māṇḍūkeya section starts at Page 79 vs Kannada 80–82); some longer rewrites where the English sentence was wrong (pp. 69, 74, 75, 83); 4 odd printed numbers in open.tsv |
 | 5 | 91–120 | 138 | 121 | 121 / 0 | 17 | 297k | 96c32e1 | 121 edits (55 S7, 22 S1 + 7 S3 numbers incl. table digits on p. 113); pp. 91–94 in the main English file, 95–120 in the Gaps file; several Kannada numerals contradict the Kannada's own totals (p. 113, 114, 117; p. 100 Kāṇva list): applied as printed, 4 rows in open.tsv; the English italic remark on p. 113 that column sums agree is now untrue (legacy remark kept) |
-| 6 | 121–150 | 93 | 71 | 96 / 0 | 22 | TOK5 | @C@ | 96 edits (25 Devanagari/IAST pairs via sp_sanskrit, 25 number repairs); Kannada table numerals applied as printed even where they contradict the Kannada's own totals (pp. 121, 138, 139, 142, 150: 6 rows in open.tsv; English rows without a Kannada counterpart blanked/dashed on pp. 138–139); legacy remarks contradicted by the edits left (pp. 138, 150, 123–124) |
+| 6 | 121–150 | 93 | 71 | 96 / 0 | 22 | TOK5 | a98e5a2 | 96 edits (25 Devanagari/IAST pairs via sp_sanskrit, 25 number repairs); Kannada table numerals applied as printed even where they contradict the Kannada's own totals (pp. 121, 138, 139, 142, 150: 6 rows in open.tsv; English rows without a Kannada counterpart blanked/dashed on pp. 138–139); legacy remarks contradicted by the edits left (pp. 138, 150, 123–124) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
