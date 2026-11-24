@@ -21225,6 +21225,303 @@ Grant to us the possessions of that rich man who, through his niggardliness, rev
 > इमे । ऊं इति । त्वा । वि । चक्षते । सखायः । इंद्र । सोमिनः ।  
 > पुष्टवंतः । यथा । पशुं ॥ १६ ॥
 
+### Printed p. 465
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां सोमिनोभिपुतसोमाः सखायॆ इम उ इम एव
+> खल्वष्टिः इ जनित प्रज्ञावंतः सुभृतधासा यभा पशुं पशुमिव वि चक्षते ।
+> विपश्यंति ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, these Soma-pressers, whose Soma has been pressed, your friends, indeed look upon you, as पुष्पावंतः (*puṣpāvaṃtaḥ*) look upon their cattle (पशुं पशुमिव (*paśuṃ paśumiva*)); वि चक्षते (*vi cakṣate*) means "they look closely". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—as
+- पुष्पावंतः (*puṣpāvaṃtaḥ*)—herdsmen holding grass
+- पशुं (*paśuṃ*)—the animal
+- वि चक्षते (*vi cakṣate*)—look upon with regard
+- सोमिनः (*sominaḥ*)—those who hold Soma
+- सखायः (*sakhāyaḥ*)—your friends
+- इमे (*ime*)—these sacrificers
+- त्वा (*tvā*)—you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as herdsmen holding grass look upon their cattle with regard, so these sacrificers, who hold Soma and are your friends, are looking upon you.
+
+##### English translation
+These friends, effusing the Soma, look on you. Indra, as men with their fodder ready (look) on their cattle.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वाब॑धिरं व॒यं श्रुत्क॑र्णं॒ संत॑मू॒तये॑ ।  
+> दू॒रादि॒ह ह॑वामहे ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वा । अबधिरं । वयं । श्रुत्कर्णं । संतं । ऊतये ।  
+> दूरात् । इह । हवामहे ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे इंद्र अबधिरमनुपहतशोत्रेंद्रियं अत एव श्रुत्कर्णं
+> श्रवणपरकर्णं संतं त्वा त्वां वयं त्रिशोका इद यज्ञ ऊतये रक्षणाय
+> दूराद्धवामहे । ह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: And, O Indra, you who are not deaf, whose organ of hearing is unimpaired and therefore whose ears are intent on hearing, we, here at this sacrifice, call from afar for protection (ऊतये (*ūtaye*) means "for protection"). **NOTE**
+
+### Printed p. 466
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अबधिरं (*abadhiraṃ*)—one with faultless ears
+- श्रुत्कर्णं संतं (*śrutkarṇaṃ saṃtaṃ*)—one whose ears listen to our praise
+- त्वा (*tvā*)—you
+- वयं (*vayaṃ*)—we
+- इह (*iha*)—in this sacrifice
+- ऊतये (*ūtaye*)—for protection
+- दूरात् (*dūrāt*)—from very far
+- हवामहे (*havāmahe*)—we entreat and call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have faultless ears and ears that listen to our praises, we call you in this sacrifice, entreating you from very far for protection.
+
+##### English translation
+We invoke you here from afar for our protection, who are never deaf, and whose ears are always open to hear.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्चु॑श्रू॒या इ॒मं हवं॑ दु॒र्मर्षं॑ चक्रिया उ॒त ।  
+> भवे॑रा॒पिर्नो॒ अंत॑मः ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । शुश्रुयाः । इमं । हवं । दुःर्मर्षं । चक्रियाः । उत ।  
+> भवेः । आपिः । नः । अंतमः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यदीममस्मदीयं हवमाह्वानं शुश्रुयाः शृणुयोः तर्हि
+> दुर्मर्षं शत्रूणां दुःसहं बलं चक्रियाः । कुर्याः । उतापि च मो स्माकमंतमोऽंतिकतम आपिर्बंधुर्भवेः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, if you should hear this our call, then you would make a power that enemies cannot withstand; and be our nearest friend, our kinsman. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—if perchance
+- इमं हवं (*imaṃ havaṃ*)—this our call
+- शुश्रुयाः (*śuśruyāḥ*)—you have heard
+- दुर्मर्षं (*durmarṣaṃ*)—not to be touched by the blows of enemies, your power
+- चक्षियाः (*cakṣiyāḥ*)—manifest **NOTE**
+- उत (*uta*)—and
+- नः (*naḥ*)—to us
+- अंतमः (*aṃtamaḥ*)—the nearest
+- आपि (*āpi*)—as kinsman
+- भवेः (*bhaveḥ*)—be
+
+### Printed p. 467
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, if you have heard our call, then manifest your power that the blows of enemies do not touch, and be a kinsman nearest to us.
+
+##### English translation
+If you hear this our prayer, then display your invincible power and be our nearest kinsman.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्चि॒द्धि ते॒ अपि॒ व्यथि॑र्जग॒न्वांसो॒ अम॑न्महि ।  
+> गो॒दा इदिं॑द्र बोधिनः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । चित् । हि । ते । आपि । व्यथिः । जगन्वांसः । अमन्महि ।  
+> गोऽदाः । इत् । इंद्र । बोधि । नः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपि चिदपि च हे इंद्र ते तुभ्यं यद्यदा हि व्यथिर्दारिद्रैण व्यथिता
+> जगन्वांसो गंतारो वयममन्महि विष्णुमः तदा नोऽस्माकं गोदा इद्दवां
+> दातैव भवामीति बोधि । बुध्यस्व ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: And, O Indra, whenever we, afflicted by poverty, come to you and अमन्महि (*amanmahi*) (he glosses it with a word read here as विष्णुमः (*viṣṇumaḥ*)), then know that "I shall be a giver of cattle to us" (गोदा इत् (*godā it*)); बोधि (*bodhi*) means "know". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अपि चित् (*api cit*)—moreover
+- ते (*te*)—you
+- यत् हि (*yat hi*)—whenever
+- व्यथिः (*vyathiḥ*)—afflicted by poverty
+- जगन्वांसः (*jaganvāṃsaḥ*)—we who approach you
+- आमन्महि (*āmanmahi*)—we praise
+- नः (*naḥ*)—to us
+- गोदा इत् (*godā it*)—surely that you should give cattle
+- बोधि (*bodhi*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whenever we, afflicted by poverty, approach you and offer you praise, at all such times know that you must surely give us cattle.
+
+##### English translation
+Whenever, repairing to you in our distress, we offer our praises; attend to us, Indra as a giver of cattle.
+
+### Printed p. 468
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑ रं॒भं न जिव्र॑यो ररं॒भा श॑वसस्पते ।  
+> उ॒श्मसि॑ त्वा स॒धस्थ॒ आ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । रंभं । न । जिव्रयः । ररंभ । शवसः । पते ।  
+> उश्मसि । त्वा । सधस्थे । आ ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शवसस्पते बलस्य पते त्वा त्वां वयं जिव्रयो क्षीणा वृद्धा रंभं न
+> दंडमिव ररंभ । रभामहे । तथा च यास्कः । आरभामहे त्वा जीर्णा इव दंडं ।
+> नि. ३-२१ । अपि च त्वा त्वां सधस्थे यज्ञ उश्मसि । कामायामहे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O lord of strength (शवसस्पते (*śavasaspate*)), we, worn-out aged people, lean on you as on a staff (रंभं न (*raṃbhaṃ na*) means "like a staff"); ररंभ (*raraṃbha*) means "we take hold". So Yāska: आरभामहे त्वा जीर्णा इव दंडं (*ārabhāmahe tvā jīrṇā iva daṃḍaṃ*) (Ni. 3-21). And in the sacrifice we desire you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसस्पते (*śavasaspate*)—O Indra, protector of strength
+- जिव्रयः (*jivrayaḥ*)—the aged
+- रंभं नॆ (*raṃbhaṃ nè*)—as they rely on a staff
+- त्वा (*tvā*)—you
+- ररंभ (*raraṃbha*)—we rely on
+- सधस्थे (*sadhasthe*)—in this sacrifice
+- त्वा (*tvā*)—you
+- उश्मसि (*uśmasi*)—we desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of all strength, as the aged hold a staff, we rely on you. In this sacrifice we desire you.
+
+##### English translation
+Lord of might, we lean on you as the aged on a staff; waiting for you in the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the meaning of the word रंभ (*raṃbha*), Yāska has given this etymology: रंभः पिनाकमिति दंडस्य । रंभ आरभंत एनं । आ त्वा रंभं न जिव्रयो ररंभ इत्यपि निगमो भवति । आरभामहे त्वा जीर्णा इव दंडं ॥ (*raṃbhaḥ pinākamiti daṃḍasya | raṃbha ārabhaṃta enaṃ | ā tvā raṃbhaṃ na jivrayo raraṃbha ityapi nigamo bhavati | ārabhāmahe tvā jīrṇā iva daṃḍaṃ ‖*) (2. 3-5). **NOTE**
+
+### Printed p. 469
+
+The two words रंभः (*raṃbhaḥ*) and हिनाकं (*hinākaṃ*) are synonyms denoting a staff (daṇḍa). Both words have the one meaning "staff". People hold this staff to lean on when walking; therefore the staff is called रंभ (*raṃbha*). आ त्वा रंभं न जिव्रयोः आरंभ (*ā tvā raṃbhaṃ na jivrayoḥ āraṃbha*) is the example of a Vedic sentence that supports this meaning. The meaning of this sentence is: O Indra, as the aged hold a staff to lean on when walking, so we rely on you. **NOTE**
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज्यो॒त्रमिंद्रा॑य गायत पुरुन्नण्॒णाय॒ सत्व॑ने ।  
+> नकि॒र्यं वृ॑ण्व॒ते यु॒धि ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोत्रं । इंद्राय । गायत । वुरुन्नण्णाय । सत्वने ।  
+> नकिः । यं । वृण्वते । युधि ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमिंद्रं युधि युद्धे नकिर्वृण्वते केऽपि न वारयंति तस्मै सत्वने
+> दानशीलाय पुरुनृण्णाय बमधनायेंद्राय स्तोत्रं गायत । पठत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Him, Indra, whom in battle (युधि (*yudhi*)) no one withstands (नकिर्वृण्वते (*nakirvṛṇvate*): none holds him back), that bountiful one (सत्वने (*satvane*): generous), पुरुनृण्णाय (*purunṛṇṇāya*) with a following word read here as बमधनाय (*bamadhanāya*) (rich), to such Indra sing (गायत (*gāyata*): recite) praise. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—the Indra whom
+- युधि (*yudhi*)—in battle
+- नकिः वृण्वते (*nakiḥ vṛṇvate*)—none can hold back
+- सत्वने (*satvane*)—the bountiful
+- पुरुनृण्णाय (*purunṛṇṇāya*)—the possessor of much wealth
+- इंद्राय (*iṃdrāya*)—to Indra
+- स्तोत्रं (*stotraṃ*)—praise
+- गायत (*gāyata*)—recite
+
+##### भावार्थ (Bhāvārtha)
+
+Recite praise addressed to that Indra, whom none can hold back in battle, who is bountiful and possessed of abundant wealth.
+
+##### English translation
+Sing the praise to Indra, who is rich in wealth and bountiful, whom none can stay in battle.
+
+### Printed p. 470
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्वा॑ वृषभा सु॒ते सु॒तं सृ॑जामि पी॒तये॑ ।  
+> तृं॒सा व्य॑श्नुही॒ मदं॑ ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्वा । वृषभ । सुते । सुतं । सृजामि । पीतये ।  
+> तृंप । वि । अश्नुहि । मदं ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषभेंद्र त्वा त्वां सुते सोमेऽभिषुते सति सुतमभिषुतं सोमं
+> पीतये पानायाभि सृजामि । तृंप । तृष्य । मदं मदकरं व्यश्नुहि चॆ क
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, the Showerer, when Soma has been pressed (सुते (*sute*)), I pour out for you the pressed Soma for drinking (पीतये (*pītaye*)). तृंप (*tṛṃpa*): be satisfied; मदं (*madaṃ*): the exhilarating draught, व्यश्नुहि (*vyaśnuhi*) with a closing word read here as चॆ क (*cè ka*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—O Indra, showerer of desires
+- त्वा (*tvā*)—for you
+- सुते (*sute*)—when Soma has been pressed
+- सुतं (*sutaṃ*)—the pressed Soma
+- पीतये (*pītaye*)—for your drinking
+- अभि सृजामि (*abhi sṛjāmi*)—I offer
+- तृंप (*tṛṃpa*)—be satisfied
+- मदं (*madaṃ*)—the gladdening Soma
+- व्यत्नुहि (*vyatnuhi*)—fill yourself
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, when the Soma has been pressed for you, I offer the pressed Soma for your drinking. Be satisfied. Fill yourself with the gladdening Soma.
+
+##### English translation
+When the Soma is effused. I pour out the libation to you, Showerer (of blessings), for your drinking; satiate yourself, enjoy the exalting draught.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा त्वा॑ मू॒रा अ॑वि॒ष्यवो॒ मोप॒हस्वा॑न॒ आ द॑भन् ।  
+> मार्कीं॑ ब्रह्म॒द्विषो॑ वनः ॥ २३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 464. Sūkta 45 Ṛks 9-16
+**Progress note:** Done through printed p. 470. Ṛk 16-23 of 8.45 (pp. 465-470)
