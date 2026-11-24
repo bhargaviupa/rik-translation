@@ -16461,6 +16461,225 @@ This Pākasthāman, himself the आत्मा (*ātmā*), is the son (तन�
 - अब्रवम् (*abravam*)—I have praised
 **NOTE**
 
+### Printed p. 410
+## Sūkta 4 (Maṇḍala 8)
+
+##### भावार्थ (Bhāvārtha)
+
+Because this Pākasthāman keeps to the good path, he is eminent like his own father. He is a giver of dwellings. He is a giver of strength, like an unguent fit for anointing. I have praised such a Pākasthāman, a destroyer of enemies, one who drives enemies away, and a giver of the tawny-coloured horse.
+
+##### English translation
+His father's own son, the giver of dwellings, the sustainer of strength like (invigorating) unguents, I celebrate Pakasthaman, the destroyer, (of foes), the despoiler (of enemies), the donor of the tawny (horse).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदिंद्रेत्येकविंशत्यर्चं चतुर्थं सूक्तं काण्वगोत्रस्य देवातिथेरार्षं ।
+> वृक्षाश्चिन्न इत्येषा पुरउष्णिक् शिष्टास्त्वयुजो बृहत्क्य युजः सशोबृहत्यः ।
+> स्कूरं राध इत्यादिभिस्तिसृभिः कुरुंगदानस्य स्तूयमानत्वात्ताद्देवताकाः । तत्पूर्वा: पंचदश्याद्याश्चतस्रः पूषदेवताका इंद्रदेवताका वा शिष्टा ऐंद्रः । तथा
+> चानुक्रांतं । यदिंद्र सैका देवातिथिस्तृचोर्ऽत्यः पुरउष्णिगंतः कुरुंगस्य दानस्तुतिस्तत्पूर्वाश्चतस्रः पौष्ठ्य वेति ॥ महाव्रते निष्केवल्ये बार्हततृचाशीतावाद्याश्चतुर्दशर्चः शंसनीयाः ' तथैव पंचमारण्यके । यदिंद्र प्रागपागुदगिति
+> चतुर्दश । ऐ. आ. ५-२-४ । इति ॥ चातुर्विंशिकेऽहनि माध्यंदिने सवनेच्छावाकशस्त्र
+> आद्यः प्रगाथो वैकल्पिकः स्तोत्रीयः । सूत्रते हि । यदिंद्र प्रागपागुदग्यथा
+> गौरो अपा कृतं । आ. ७.४ । इति ।
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यदिंद्र (*yadiṃdra*) has twenty-one Ṛks and is the fourth sūkta. Its seer is Devātithi of the Kāṇva gotra. The last Ṛk, वृक्षाश्चिन्न (*vṛkṣāścinna*), is in the Puraūṣṇik metre. Of the rest, the odd-numbered verses are Bṛhatī, and the even-numbered ones are said to be सशोबृहत्यः (*saśobṛhatyaḥ*) **NOTE**. The three verses beginning स्कूरं राध (*skūraṃ rādha*) praise the gift of Kuruṅga, so their deity is that gift-praise. The four verses before them, beginning with the fifteenth, have Pūṣan or Indra as deity. The remaining verses are addressed to Indra. He confirms this by the Anukramaṇī: यदिंद्र सैका देवातिथिस्तृचोर्ऽत्यः पुरउष्णिगंतः कुरुंगस्य दानस्तुतिस्तत्पूर्वाश्चतस्रः पौष्ठ्य वेति ॥ (*yadiṃdra saikā devātithistṛcor 'tyaḥ purauṣṇigaṃtaḥ kuruṃgasya dānastutistatpūrvāścatasraḥ pauṣṭhya veti ‖*). In the Mahāvrata, in the Niṣkevalya śastra, the first fourteen verses are to be recited as the Bṛhatī verses; the Ai. Ā. (5-2-4) says the same: यदिंद्र प्रागपागुदगिति चतुर्दश (*yadiṃdra prāgapāgudagiti caturdaśa*). On the Cāturviṃśika day, at the midday pressing, in the Acchāvāka's śastra, the first pragātha is an optional stotrīya. The sūtra says: यदिंद्र प्रागपागुदग्यथा गौरो अपा कृतं (*yadiṃdra prāgapāgudagyathā gauro apā kṛtaṃ*) (Ā. 7.4).
+
+##### Anuvāda
+
+This sūkta beginning यदिंद्र (*yadiṃdra*) is the fourth sūkta in the first anuvāka. It has twenty-one Ṛks. Its seer is Devātithi, born in the Kāṇva gotra. In this sūkta the last Ṛk, वृक्षाश्चिन्ने (*vṛkṣāścinne*), is in the Puraūṣṇik metre. Among the remaining twenty Ṛks the odd-numbered ones are in the Bṛhatī metre. Because the last three Ṛks of this sūkta, beginning स्फुरं राध (*sphuraṃ rādha*), describe the gift-praise of a king named Kuruṅga, the gift-praise of that king is the deity of those three Ṛks. For the four Ṛks before them, that is Ṛks 15–18, Indra or Pūṣan is the deity. For all the remaining Ṛks Indra is the deity.
+
+### Printed p. 411
+The Anukramaṇī says: यदिंद्र सैका देवातिथिस्त्वचोऽन्त्यः पुरउष्टिगंतः कुरुंगस्य दानस्तुतिस्तत्तूर्वाश्चतस्रः पौष्ठ्यो वा (*yadiṃdra saikā devātithistvaco 'ntyaḥ purauṣṭigaṃtaḥ kuruṃgasya dānastutistattūrvāścatasraḥ pauṣṭhyo vā*). When the Niṣkevalya śastra mantras are recited in the Mahāvrata-iṣṭi, the first fourteen Ṛks of this sūkta are employed for the Bṛhatī-metre Ṛks. This is stated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence यदिंद्र प्रागपगुदगिति चतुर्दश (*yadiṃdra prāgapagudagiti caturdaśa*) (Ai. Ā. 5-2-4). Among the śastra mantras that the priest called Acchāvāka recites at the midday pressing on the day of the sacrifice called Cāturviṃśika, the first pragātha Ṛks of this sūkta are to be recited as optional stotrīya mantras. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, यदिंद्र प्रागपागुदग्यथा गौरो अपा कृतं (*yadiṃdra prāgapāgudagyathā gauro apā kṛtaṃ*) (Ā. 7-4).
+
+##### Particulars
+
+Sūkta 4
+Maṇḍala 8. Anuvāka 1. Sūkta 4.
+Aṣṭaka 5. Adhyāya 7. Vargas 30, 31, 32, 33.
+Number of Ṛks in the sūkta: 21.
+Ṛṣi: देवातिथिः काण्वः (*devātithiḥ kāṇvaḥ*).
+Devatā: 1–14 Indra. 15–18 Indra or Pūṣan. 19–21 the gift-praise of Kuruṅga.
+Chandas: 1–20 Prāgātha. 21 Puraūṣṇik.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र॒ प्रागपा॒गुद॒ज् नृ॑ग्वा हू॒यसे॒ नृभिः॑ ।  
+> सिमा॑ पु॒रू नृषू॑तो अ॒स्यान॒वेऽसि॑ प्रशर्ध तु॒र्वशे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । प्राक् । अपाक् । उदक् । न्यक् । वा । हूयसे । नृभिः ।  
+> सिम । पुरु । नृसूतः । असि । आनवे । असि । प्रशर्ध । तुर्वशे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यदि प्राक्प्राच्यां दिशि वर्तमानैः ॥ सप्तम्यंताद्दिक्षब्दाद्विहितस्यास्तातेरंचेर्लुक् । पा. ५-३-३० । इति लुक् ॥ अपाकृतीच्यां दिशि वर्तमानैः ।
+> यदि वोदगुदीच्यां दिशि हर्मान्यैः । यद्वा नृज्नीच्यां दिश्यधस्ताद्वर्तमानैः ॥
+
+### Printed p. 412
+
+> न्यधी इति नेः प्रकृतिस्वरत्वं । उदात्तस्वंतयोर्यण इति परस्यानुदात्तस्य स्वरितत्वं ॥
+> एवंभूतैर्नृभिः स्तोतृभिस्त्वं हूयसे स्वस्वकार्ययाहूयसे हे सिम श्रेष्ठेंद्र ।
+> सिम इति वै श्रेष्ठमाचक्षत इति वाजसनेयकं । यद्यप्येवं बहुभिराहूयसे
+> तथाप्यानवे । आनुर्नाम राजा । तस्य पुत्रे राजर्षौ पुरु बहुलं नृषूतो नृभिस्तदीयैः स्तोतृभिः प्रेरितोऽसि भवसि । राज्यो हितकरणे त्वां स्तोतारः प्रेरयंतीत्यर्थः ॥ षू प्रेरणे । अस्मात्कर्मणि निष्ठा । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं ॥ अपि च हे प्रशर्ध प्रकर्षण शर्धयितरभिभवितरिंद्र तुर्वश एतत्संज्ञॆ
+> च राजनि नृषूतोऽसि । नृभिः प्रेरितो भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, if you are invoked by men who are in the east, in the west, in the north, or below (न्यक् (*nyak*), a direction lying below), you are called by such men, each for his own business. O सिम (*sima*), best Indra — the Vājasaneyaka says: सिम इति वै श्रेष्ठमाचक्षत (*sima iti vai śreṣṭhamācakṣata*). Though you are thus called by many, still you are greatly impelled by men, his singers, in Ānava, the son of the royal seer Ānu. That is, the singers urge you to do good to the king. षू प्रेरणे (*ṣū preraṇe*) is the root. Further, O प्रशर्ध (*praśardha*), Indra, who overpower and overcome the foes, you are impelled by men also in the king named Turvaśa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिम (*sima*)—excellent
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—if
+- प्राक् (*prāk*)—in the east
+- अपाक् (*apāk*)—in the west
+- उदक् (*udak*)—in the north
+- वा (*vā*)—or
+- न्यक् (*nyak*)—in the lower direction
+- नृभिः (*nṛbhiḥ*)—by all the worshippers
+- हूयसे (*hūyase*)—even though you are called
+- आनवे (*ānave*)—in Anu's son
+- नृषूतः (*nṛṣūtaḥ*)—also by the praise of the ṛtvijs and others
+- पुरु असि (*puru asi*)—you are impelled very much
+- प्रशर्ध (*praśardha*)—O Indra, whose strength is highest
+- तुर्वशे (*turvaśe*)—also by the ṛtvijs who are with the king
+- असि (*asi*)—you are one who is impelled
+
+##### भावार्थ (Bhāvārtha)
+
+O excellent Indra, there are many who pray to you and call you. Even so, that is, even though you are called by worshippers in all the directions, east, west, north and south, you are impelled by the praise of the ṛtvijs and others at the sacrifice of Anu's son, and by the praise of the ṛtvijs and others at the sacrifice of the king named Turvaśa, and you stay with those two alone.
+
+##### English translation
+Inasmuch, Indra, as you are invoked by the people in the east in the west, in the north, in the south, so, excellent Indra, have you been incited by men on behalf of the son of Anu; so, overcomer of foes, (have you been called upon) on behalf of Turvasha.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॒ रुमे॒ रुश॑मे॒ श्याव॑के॒ कृप॒ इंद्र॑ मा॒दय॑से॒ सचा॑ ।  
+> कण्वा॑सस्त्वा॒ ब्रह्म॑भिः॒ स्तोम॑वाहस॒ इंद्रा य॑च्छं॒त्या ग॑हि ॥
+
+### Printed p. 413
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । रुमे । रुशमे । श्यावके । कृपे । इंद्र । मादयसे । सचा ।  
+> कण्वासः । त्वा । ब्रह्मभिः । स्तोमवासः । इंद्र । आ । यच्छंति । आ । गहि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्वा यद्यपि रुमादिषु चतुर्षि राजसु हे इंद्र त्वं सचा सह मादयसे
+> माद्यसि तथापि स्तोमवाहसः स्तोमानां स्तोत्राणां वोढारः कण्वासः कण्वगोत्रा ऋषयो ब्रह्मभिः परिवृधैर्मंत्रैर्हविर्भिर्वा हे इंद्र त्वामा यच्छंति ।
+> आगमयंति । यद्वा । द्वितीयार्थे तृतीया । ब्रह्मभिर्ब्रह्माणि हवींष्याभिमुख्येन
+> प्रयच्छंति । ददति । दाण् दाने । पाघ्रेत्यादिना यच्छादेशः ॥ अतस्त्वमा गहि ।
+> शीघ्रमागच्छ ॥ गमेर्लोटि छांदसः शपो लुक् ॥
+
+##### Gist of the bhāṣya
+
+Even if, O Indra, you rejoice together with the four kings Ruma and the others, still the Kaṇva seers, bearers of the stomas (hymns of praise), draw you with their ब्रह्मभिः (*brahmabhiḥ*), meaning increased mantras or oblations. Alternatively, the instrumental stands in the sense of the accusative: with their prayers they offer oblations to you, facing you; he derives the verb from the root दाण् दाने (*dāṇ dāne*). Therefore come quickly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यद्वा (*yadvā*)—if perhaps
+- (त्वं (*tvaṃ*)—you)
+- रुमे (*rume*)—in Ruma
+- रुशमे (*ruśame*)—in Ruśama
+- श्यावके (*śyāvake*)—in Śyāvaka
+- कृपे (*kṛpe*)—in Kṛpa
+- सचा (*sacā*)—together
+- मादयसे (*mādayase*)—even though you enjoy satisfaction
+- इंद्र (*iṃdra*)—O Indra
+- स्तोमवाहसः (*stomavāhasaḥ*)—who recite hymns of praise
+- कण्वासः (*kaṇvāsaḥ*)—the seers born in the Kaṇva gotra
+- त्वा (*tvā*)—you
+- ब्रह्मभिः (*brahmabhiḥ*)—with their praises
+- आ यच्छंति (*ā yacchaṃti*)—attract
+- आ गहि (*ā gahi*)—(therefore) come to them also
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, even if you are enjoying satisfaction together with Ruma, Ruśama, Śyāva and Kṛpa, the seers born in the Kaṇva gotra, who recite praises, also attract you with their praises. Therefore be gracious to them also.
+
+##### English translation
+Inasmuch, Indra, as you have been exhilarated in the society of Ruma, Rusma, Shyavaka, and Kripa, so the Kanwas, bearers of oblations, attract you with their praises, (therefore) come hither.
+
+### Printed p. 414
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ गौ॒रो अ॒सा कृ॒तं तृष्य॒न्नेत्यवेरि॑णं ।  
+> आ॒पि॒त्वे नः॑ प्रपि॒त्वे तूय॒मा ग॑हि॒ कण्णे॑षु॒ सु सचा॒ पिब॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । गौरः । अपा । कृतं । तृष्यन् । एति । अव । इरिणं ।  
+> आपित्वे । नः । प्रपित्वे । तूयं । आ । गहि । कण्वेषु । सु । सचा । पिब ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि माध्यंदिनसवनेच्छावाकारस्त्रे यथेति प्रगाथोऽनुरूपः । सूत्रितं च । यथा गौरो अपा कृतमित्यच्छावाकस्य । आ. ७-४ । इति ॥
+> गौरो गौरमृगस्तृष्यन् पिपासन्नपाद्भिरुदकैः ॥ व्यत्ययेनैकवचनं । ऊडिदमित्यादिना विभक्तेरुदात्तत्वं ॥ कृतं संपूर्णं कृतमिरिणं निस्तृणं तटाकदेशं यथा
+> येन प्रकारेणावैति अवगच्छति । अवशब्दोऽभितब्दस्यार्थे । अभिमुखः सञ्छेघ्रं
+> गच्छति तथापित्वे बंधुत्वे प्रपित्वे प्राप्ते सति हे इंद्र त्वं नोऽस्मांस्तूयं । क्षिप्रनामैतत् । शीघ्रमा गहि । आगच्छ । अगत्य च कण्णेषु कज्जपुत्रेष्टस्मासु सचा सहैकयत्नेनैव विद्यमानं सर्वं सोमं सु सुष्टु पिब ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the midday pressing, in the Acchāvāka's śastra, the pragātha beginning यथा (*yathā*) is the anurūpa. It is also laid down in the sūtra: यथा गौरो अपा कृतमित्यच्छावाकस्य (*yathā gauro apā kṛtamityacchāvākasya*) (Ā. 7-4). गौरः (*gauraḥ*) is the gaura deer; तृष्यन् (*tṛṣyan*) is thirsty; अपा (*apā*) means with waters. कृतं (*kṛtaṃ*) means full; इरिणं (*iriṇaṃ*) is a grassless region of a pool. As the deer goes to it (अवैति (*avaiti*), with अव (*ava*) in the sense of अभि (*abhi*): it goes quickly, facing it), so, when kinship (आपित्वे (*āpitve*)) has arrived (प्रपित्वे (*prapitve*)), O Indra, come quickly to us; तूयं (*tūyaṃ*) is a word for "swift". Having come, drink well the whole Soma that exists among us, the Kaṇvas, the sons of Kaṇva, prepared with one common effort.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) गौरः (*gauraḥ*)—the gaura deer
+- तृष्णन् (*tṛṣṇan*)—exhausted with thirst
+- अपा (*apā*)—with waters
+- कृतं (*kṛtaṃ*)—filled
+- इरिणं (*iriṇaṃ*)—the region of a pool
+- यथा (*yathā*)—in what manner
+- अवैति (*avaiti*)—goes quickly and reaches (in that same manner)
+- आपित्वे (*āpitve*)—your kinship (with the Kaṇvas)
+- प्रपित्वे (*prapitve*)—when it has arrived
+- नः (*naḥ*)—to us
+- तूयं (*tūyaṃ*)—quickly
+- आ गहि (*ā gahi*)—be gracious
+- कण्वेषु सचा (*kaṇveṣu sacā*)—the Soma that is with us, born in the Kaṇva gotra
+- सु (*su*)—well
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the gaura deer, exhausted with thirst, goes quickly to a pool region filled with waters, in the same way, when your kinship with the Kaṇvas (with us)
+
+### Printed p. 415
+has become firm, be gracious and come to us quickly. Drink abundantly the Soma that is with us, born in the Kaṇva gotra.
+
+##### English translation
+As the thirsty Gaura hastens to the pool filled with water in the desert, so, (Indra), our affinity being acknowledged, come quickly, and drink freely with the Kanwas.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the Cāturviṃśika day of the Jyotiṣṭoma sacrifice, at the midday pressing, among the śastra mantras recited by the priest called Acchāvāka, this Ṛk beginning यथा (*yathā*) is to be recited as the mantra corresponding to the pragātha. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, यथा गौरो अपा कृतमित्यच्छावाकस्य (*yathā gauro apā kṛtamityacchāvākasya*) (Ā. 7-4).
+आपित्वे प्रपित्वे (*āpitve prapitve*)—explaining the meaning of these words, Yāska has given the following nirvacana:
+प्रपित्वेऽभीक इत्यासन्नाम । प्रपित्वे प्राप्ते । अभीकेऽभ्युक्ते । आपित्वे नः प्रपित्वे तूयमागहि । अभीके चिदु लोककृत् । इत्यपि निगमौ भवतः ॥ (*prapitve 'bhīka ityāsannāma | prapitve prāpte | abhīke 'bhyukte | āpitve naḥ prapitve tūyamāgahi | abhīke cidu lokakṛt | ityapi nigamau bhavataḥ ‖*) (Ni. 3-20) **NOTE**
+That is, the two words प्रपित्वे (*prapitve*) and अभीके (*abhīke*) are synonyms indicating the sense "near". प्रपित्वे (*prapitve*) means arrived, come near (arrived of), and अभीके (*abhīke*) means approached (approached). In this matter the two sentences quoted above, beginning आपित्वे (*āpitve*) and so on, are Vedic examples.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मंदं॑तु त्वा मघवन्निं॒द्रेंद॑वो राधो॒देया॑य सुन्व॒ते ।  
+> आ॒मुष्या॒ सोम॑मपिबश्च॒मू सु॒तं ज्येष्ठं॒ तद्द॑धिषे॒ सहः॑ ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंदंतु । त्वा । मघवन् । इंद्र । इंदवः । राधःदेयाय । सुन्वते ।  
+> आमुष्य । सोमं । अपिबः । चमू इति । सुतं । ज्येष्ठं । तत् । दधिषे । सहः ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 409. pp. 404-409 (batch API)
+**Progress note:** Done through printed p. 415. pp. 410-415 (batch API)
