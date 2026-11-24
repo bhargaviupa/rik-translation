@@ -11,4 +11,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 3 | 215–229 | 29 | 23 | 8 questions (6 R1, 1 R3, 1 R6) | see git log |
 | 4 | 230–244 | 16 | 14 | 2 questions. pp. 232–233 are **absent from the supplied text** (the S0 note that such text stands in the neighbour page was wrong for them; batch 4b, a re-read on that assumption, found nothing to read). Their English comes from the older scan, per its own note: **unchecked, needs the user's text or scan** | see git log |
 | 4b | 232–233 | 0 | 0 | not readable: no supplied text | see git log |
-| 5 | 245–259 | 38 | 25, not applied 0 | questions: 17 (R1 8, R3 4, R6 1 and others); p. 260 not in the supplied text | see git log |
+| 5 | 245–259 | 38 | 25 | questions: 17 (R1 8, R3 4, R6 1 and others); p. 260 not in the supplied text | see git log |
