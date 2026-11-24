@@ -31,8 +31,9 @@ Hand repairs: by `batch.py fix` inside the windows (garbled Pada/bhāṣya/Prati
 Not built.
 
 ## Metrics
-| windows | pages | hand-fixes | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA sample | agent tokens / cost |
+| windows | pages | hand-fixes by kind | gate failures (first `done` refused) | `[?]` | inline mismatches | accent lines unmatched | QA sample (pages, errors, minors) | agent tokens / cost |
 |---|---|---|---|---|---|---|---|---|
+| 127 (42 agent batches) | 797 (+ preface) | about 80 `batch.py fix` calls: merged Saṃhitā/Pada or bhāṣya/Pratipadārtha blocks and garbled labels (most), stray lines (`XXIV nn` and the like), missed running heads (10), plain-text introductions made blocks (8), 1 missing heading, 1 translator remark, 1 unlogged script edit; dispatcher repairs: 3 + the Ṛk 1 split | about 1 per window (inline ⟦ ⟧ not in kn.md, Latin-letter Sanskrit, Kannada in Gist) | 0 | 0 (`review/inline_mismatch.tsv` empty) | 108 NOMATCH, 8 DIFF, 1 ABORT in `review/accent_report.tsv` (no `--api`) | see `review/qa_sample.md` | 7.17M tokens in the 42 logged batches (about 9k a page; Vol 12 route: about 10k a page); no API money |
 
 ## Lessons from this volume
 
