@@ -654,3 +654,48 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 340	H29	R6	pariṣantam commentary: ಬಿದಿರುಮಳೆ (bamboo)	Kannada ಬಿದಿರುಮಳೆ (bidirumaḷe, "bamboo rain"); English "bamboo"		ಮಳೆ is a real word (rain), so the print is not certainly a misprint	question	
 361	H29	R3	Brāhmaṇa reference for "na vā ekenākṣareṇa chandāṃsi viyanti"	Kannada (ಅ. ಬ್ರಾ. ೧-೧); English (Ai. Brā. 1-1)		Kannada prints ಅ. (not ಐ.); which work is meant is not decided by the Kannada	question	
 362	H29	R3	grammar tebhiḥ: sūtra "nā chandasi" (Pā. 7-1-10)	Kannada ನಾ ಛಂದಸಿ (ಪಾ. ಸೂ. ೭-೧-೧೦); English "vā chandasi"		ನಾ may be a misprint for ನ; the Kannada alone does not show whether na or nā is intended	question	
+370	S2	R1	Ṛ. Saṃ. reference after "te etam ūrvaṃ vi bhajanta gonām"	(Ṛ. Saṃ. 10-108-8)	(Ṛ. Saṃ. 18-18-8)	Kannada (ಋ. ಸಂ. ೧೮-೧೮-೮)	applied	
+371	S2	R1	grammar: śnābhyastayor ātaḥ	Pā. [6-4-112]	(no number)	Kannada prints no number after ಶ್ನಾಭ್ಯಸ್ತಯೋರಾತಃ	applied	
+375	S15	R1	special topic वेः: source of the "greatness" of Aditi	By the statement aditir… putraiḥ, [by the phrase] Aditi, who has much greatness shown by the scripture	Aditi, who has much greatness shown by the scripture aditir dyauḥ	Kannada ಅದಿತಿರ್ದೌಃ ಎಂಬ ಶ್ರುತಿಪ್ರತಿಪಾದ್ಯವಾದ ಮಹಿಮೆಯುಳ್ಳ ಅದಿತಿಯು: the śruti cited is aditir dyauḥ, not "aditir…putraiḥ"	applied	
+376	S2	R1	grammar kṛṇvānāsaḥ: acaḥ parasmin pūrvavidhau	[Pā. [1-1-57]]	(no number)	Kannada prints no number after ಆಚಃ ಪರಸ್ಮಿನ್ ಪೂರ್ವವಿಧೌ	applied	
+376	S14	R1	grammar kṛṇvānāsaḥ: sthānivat	the sthānivat rule does not apply, so no guṇa	sthānivat applies, so no guṇa	Kannada ಸ್ಥಾನಿವದ್ಭಾವ ಬರುವುದರಿಂದ ... ಗುಣ ಬರುವುದಿಲ್ಲ (sthānivadbhāva arises, hence no guṇa); roles reversed	applied	
+376	S7	R3	grammar kṛṇvānāsaḥ: sūtra for asuk	ajjhasor asuk	āj jaser asuk	Kannada ಆಜ್ಜಸೇರಸುಕ್ (also in the bhāṣya of the same Ṛk); ajjhasor is not a sūtra	applied	
+376	S7	R3	grammar tasthe: sūtra for ātmanepada	samavaprāviṣbhyaḥ sthaḥ	samavapravibhyaḥ sthaḥ	Kannada ಸಮವಪ್ರವಿಭ್ಯಸ್ಥಃ: letters prāviṣ replaced by pravi	applied	
+376	S7	R3	grammar veḥ: sūtra for loss of i	iteś ca	itaś ca	Kannada ಇತಶ್ಚ (ite→ita)	applied	
+376	S2	R1	grammar amṛtatvāya: tasya bhāvas tvatalau	Pā. [5-1-119]	(no number)	Kannada prints no number after ತಸ್ಯಭಾವಸ್ತ್ವತಲೌ	applied	
+380	S18	R3	grammar akṣī: sūtra 8-2-5	ekādeśa udātto 'nudāttasya…	ekādeśa udāttenodāttaḥ	Kannada ಏಕಾದೇಶ ಉದಾ-ತೇನೋದಾತ್ತಃ (ಪಾ. ಸೂ. ೮-೨-೫) across the page-line break	applied	
+380	S14	R1	Skandasvāmin on akṣī: radiance of Agni	more excellent than before	more excellent than theirs (the sun and the moon)	Kannada ಅವರಿಗಿಂತ ಅತಿಶಯವಾದ ಪ್ರಕಾಶದಿಂದ (than them)	applied	
+380	S14	R1	Skandasvāmin on akṣī: rivers	flowing toward their own places	flowing toward your region	Kannada ನಿಮ್ಮ ಪ್ರದೇಶವನ್ನು ಕುರಿತು ಪ್ರವಹಿಸುವ ನದಿಗಳ ಹಾಗೆ	applied	
+380	S7	R3	Skandasvāmin quotation: yadaiva ... tadaiva	yad daiva ... tad daiva	yadaiva ... tadaiva	Kannada ಯದೈವ ... ತದೈವ (one word each; yadā eva); the English split makes a different, wrong word	applied	
+381	S7	R3	grammar akṛṇvan: sūtra yadvṛttānnityam	yaddhṛttānnityam	yadvṛttānnityam	Kannada ಯದ್ವೃತ್ತಾನ್ನಿತ್ಯಮ್ (ಪಾ. ಸೂ. ೮-೧-೬೬); ddhṛ is not a word	applied	
+381	S18	R1	grammar sṛṣṭāḥ: ṣṭutva	ṭhatva for the affix's t	ṣṭutva for the affix's t	Kannada ಪ್ರತ್ಯಯ ತಕಾರಕ್ಕೆ ಷ್ಟುತ್ವ	applied	
+381	S7	R3	grammar nīcīḥ: sūtra aniditāṃ hala…	anidiśāṃ halām…	aniditāṃ hala…	Kannada ಅನಿದಿತಾಂ ಹಲ-	applied	
+386	S7	R3	grammar śāsuḥ: Uṇādi sūtra 1-10	śvasnihi	śṛ svṛ snihi	Kannada ಶೃ ಸ್ವೃ ಸ್ನಿಹಿ (ಉ. ಸೂ. ೧-೧೦)	applied	
+386	S13	R1	grammar śāsuḥ: anuvṛtti from the preceding sūtra	the sit of the preceding sūtra continues ... [sit]	the nit ... [nit]	Kannada ನಿತ್ ಎಂದು ಅನುವೃತ್ತವಾಗುವುದರಿಂದ ಉ ಪ್ರತ್ಯಯಕ್ಕೆ ನಿದ್ವದ್ಭಾವ (nit, then ādyudātta by ityādir nityam)	applied	
+389	S14	R1	special topic क्रत्वा निपाति: vṛjina	Here vṛjinam is a name of strength, but here	Vṛjinam is a name of strength elsewhere, but here	Kannada ವೃಜಿನವೆಂಬ ಪದವು ಬೇರೆಯ ಕಡೆಯಲ್ಲಿ ಬಲವೆಂಬ ಅರ್ಥ; Sanskrit ಬಲನಾಮಾನ್ಯತ್ರ	applied	
+389	S7	R6	special topic: word under comment	The word vṛjana shows elsewhere the sense strength	The word vṛjina shows ...	Kannada ವೃಜಿನವೆಂಬ ಪದ	applied	
+389	S14	R1	special topic: Skandasvāmin on vṛjanāni	he protects from all injuries	he protects from all sins	Kannada ಎಲ್ಲಾ ಪಾತಕಗಳಿಂದ ರಕ್ಷಿಸುವನೆಂದು; preceding Sanskrit सर्वाणि पापानि	applied	
+389	S7	R3	Sāyaṇa quotation in special topic: bādharahita	bādharahite	bādharahita	Kannada ಬಾಧರಹಿತ (ಸಾ. ಭಾ.)	applied	
+389	S7	R3	Skandasvāmin quotation: ātmamatir	ātmam atir amatir ucyate	ātmamatir amatir ucyate	Kannada ಆತ್ಮಮತಿರಮತಿರುಚ್ಯತೇ (ātmamatiḥ + amatiḥ)	applied	
+391	S2	R1	grammar vṛjanāni: Uṇādi sūtra	U. Sū. 2-239 [?]	U. Sū. 2-239	Kannada (ಉ. ಸೂ. ೨-೨೩೯) is printed	applied	
+391	S2	R1	grammar didhiṣāyyaḥ: Uṇādi sūtra	U. Sū. 3-377 [?]	U. Sū. 3-377	Kannada (ಉ. ಸೂ. ೩-೩೭೭) is printed	applied	
+391	S7	R3	grammar purupraśastaḥ: sūtra aniditāṃ hala…	anidiśāṃ halām…	aniditāṃ hala…	Kannada ಅನಿದಿತಾಂ ಹಲ-	applied	
+395	S7	R3	grammar viśvadhāyāḥ: sūtra atvasantasya	ātvasantasya cādhātoḥ	atvasantasya cādhātoḥ	Kannada ಅತ್ವಸಂತಸ್ಯಚಾಧಾತೋಃ	applied	
+395	S7	R3	grammar upakṣeti: sūtra yadvṛttān…	yaddhṛttānnityam	yadvṛttānnityam	Kannada ಯದ್ವೃತ್ತಾ…ನಿತ್ಯಮ್ (ಪಾ. ಸೂ. ೮-೧-೬೬); ddhṛ is not a word (the doubled n is the English reading; Kannada prints ನಿ)	applied	
+396	S2	R1	grammar anavadyā: nañsubhyām	Pā. [6-2-172]	(no number)	Kannada prints no number after ನಞ್ ಸುಭ್ಯಾಮ್ on this page	applied	
+398	S2	R1	special topic ध्रुवासु क्षितिषु: gauḥ gmā	twenty-one names of earth	names of earth	Kannada ಗೌಃ ಗ್ಮಾ ಎಂಬ ಪೃಥಿವೀನಾಮಗಳಲ್ಲಿ has no count	applied	
+398	S7	R3	Skandasvāmin quotation (Ni. 2-5): kṛtsnavan	kṛṣṇavan	kṛtsnavan	Kannada ಕೃತ್ಸ್ನವನ್ನಿಗಮಾ	applied	
+399	S17	R1	special topic धरुणः: hundred names of water	the hundred names of water	the hundred and one names of water	Kannada ನೂರೊಂದು ಉದಕನಾಮಗಳಲ್ಲಿ	applied	
+399	S7	R3	Skandasvāmin quotation: havirbhoktā	haviroktā	havirbhoktā	Kannada ಹವಿರ್ಭೋಕ್ತಾ	applied	
+399	S3	R1	grammar iddham: three sūtra numbers	Pā. [6-4-24]; [8-2-40]; [8-4-53]	(no numbers)	Kannada prints no number after ಅನಿದಿತಾಂ ಹಲ ಉಪಧಾ, ಝಷಸ್ತಥೋಧೋಽಧಃ, ಝಲಾಂ ಜಶ್‌ಝಶಿ	applied	
+399	S7	R3	grammar iddham: sūtra aniditāṃ hala	anidiśāṃ halām	aniditāṃ hala	Kannada ಅನಿದಿತಾಂ ಹಲ ಉಪಧಾ	applied	
+370	H29	R3	quotations of Ṛ. Saṃ. 7-16-7 and 10-108-8 (Skandasvāmin)	Kannada ಮಘನಾನೋ, ದೆಯಂತೆ, ತ ಏತಮೂರ್ವಂ; English maghavāno, dayanta, te etam		Kannada prints non-words or other forms; English has silently given the Saṃhitā forms. Keep the English or mark the print?	question	
+374	H29	R3	Tai. Saṃ. 7-4-6 quotation in special topic	Kannada ಅಪರ್ಶ್ಯ ತಮಾಹರ್ರ, ಅಕಾಮಯನ್ತ ... ಮೇತಿ ತ; English apaśyan tam āharan, iyāmeti ta		Print has non-words; English corrected silently.	question	
+375	H29	R3	Ṛ. Saṃ. quotation aditir dyaur (printed 10-89-10)	Kannada ಆದಿತಿದ್ಯೌರ ... ಆದಿತಿ ಪಞ್ಚ ಜನಾಃ ಆದಿತಿರ್ಜಾತಂ; English aditir throughout		Kannada begins three words with ಆ; English silently has ಅ.	question	
+379	H29	R3	Tai. Saṃ. 2-6-2 quotation	Kannada ನಾ for ವಾ (ಚಕ್ಷುಷೀ ನಾ ಏತೇ, ದೇವಲೋಕಂ ನಾ), ತದೃಜ್ಞಸ್ಯ, ಪೂವಾರ್ಧೇ, ಸೋಮಾಯೈವನಿವ; English vā, yajñasya, pūrvārdhe, evam iva		Print has ನಾ for ವಾ and other non-words; English corrected silently (same ನಾ/ವಾ at 390 and 380).	question	
+380	H29	R3	Skandasvāmin quotation: ahorātra	Kannada ಅಹೋರಾತ್ರ ವಿಭಾಗಾರ್ಥಂ; English ahorātre		English changed ahorātra to ahorātre (dual).	question	
+384	H29	R6	running head (also p. 392)	Kannada ಸೂ. ೭೨ on pp. 384, 392 (sūkta is 73); English "Sū. 73"		Heads carry the number of the preceding sūkta.	question	
+385	H29	R6	Skandasvāmin on syonaśīḥ: root name	Kannada ಶಿಜ್‌ಧಾತು; English root śīṅ		Print ಶಿಜ್ is not a root; the grammar (ಶೀಜ್ ಸ್ವಪ್ನೇ) suggests śīṅ.	question	
+389	H29	R6	special topic: ūrva/pṛthivī (ರೂಪ್ಯತೇ ...)	Kannada ವೃದ್ಧಿ ಪ್ರಾಸ; English increase or decrease		ಪ್ರಾಸ is not a word; English read ಹ್ರಾಸ.	question	
+390	H29	R3	śruti quotation Tai. Ā. 8-7	Kannada ಏಷ ಹ್ಯೇವಾನಂದ ಯಾತಿ; English eṣa hy evānandaṃ dadāti		Print ಯಾತಿ (also in the bhāṣya); English dadāti.	question	
+397	H29	R6	pratipadārtha iddham	Kannada ಇದ್ದಾಂ; English iddham		Print ಇದ್ದಾಂ; English iddham.	question	

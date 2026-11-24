@@ -576,3 +576,50 @@
 | 362 | `*ajjhasor asuk*, Pā. [7-1-50]` → `*ajjaser asuk*, Pā. [7-1-50]` | SECOND-PASS S18: Kannada ಅಜ್ಜಸೇರಸುಕ್ (ಪಾ. ಸೂ. ೭-೧-೫೦) (jja, se-r; not jjha, so-r) |
 | 362 | `*naś chavy aprśān*` → `*naś chavy apraśān*` | SECOND-PASS S18: Kannada ನಶ್ಯವ್ಯಪ್ರಶಾನ್ (ಪಾ. ಸೂ. ೮-೩-೭): praśān |
 | 365 | `*kṛtyaktau ca saṃjñāyām*` → `*kticktau ca saṃjñāyām*` | SECOND-PASS S18: Kannada ಕ್ತಿಚ್ ಕ್ತೌ ಚ ಸಂಜ್ಞಾಯಾಂ (ಪಾ. ಸೂ. ೩-೩-೧೭೪) |
+
+### 2026-11-24 second pass, batch e370-399.tsv
+| page | old → new | why |
+|---|---|---|
+| 370 | `(Ṛ. Saṃ. 10-108-8)` → `(Ṛ. Saṃ. 18-18-8)` | SECOND-PASS S2: Kannada (ಋ. ಸಂ. ೧೮-೧೮-೮) |
+| 371 | `, Pā. [6-4-112]; loss of the final` → `; loss of the final` | SECOND-PASS S2: Kannada prints no number after ಶ್ನಾಭ್ಯಸ್ತಯೋರಾತಃ |
+| 375 | `By the statement *aditir… putraiḥ*, [by the phrase] 'Aditi, who has much greatness shown b` → `'Aditi, who has much greatness shown by the scripture *aditir dyauḥ*,` | SECOND-PASS S15: Kannada ಅದಿತಿರ್ದೌಃ ಎಂಬ ಶ್ರುತಿಪ್ರತಿಪಾದ್ಯವಾದ ಮಹಿಮೆಯುಳ್ಳ ಅದಿತಿಯು: the śruti cited is aditir dyauḥ, not "aditir…putraiḥ" |
+| 376 | ` [Pā. [1-1-57]] the *sthānivat*` → ` the *sthānivat*` | SECOND-PASS S2: Kannada prints no number after ಆಚಃ ಪರಸ್ಮಿನ್ ಪೂರ್ವವಿಧೌ |
+| 376 | `the *sthānivat* rule does not apply, so no guṇa` → `the *sthānivat* rule applies, so no guṇa` | SECOND-PASS S14: Kannada ಸ್ಥಾನಿವದ್ಭಾವ ಬರುವುದರಿಂದ ... ಗುಣ ಬರುವುದಿಲ್ಲ (sthānivadbhāva arises, hence no guṇa); roles reversed |
+| 376 | `*ajjhasor asuk*` → `*āj jaser asuk*` | SECOND-PASS S7: Kannada ಆಜ್ಜಸೇರಸುಕ್ (also in the bhāṣya of the same Ṛk); ajjhasor is not a sūtra |
+| 376 | `*samavaprāviṣbhyaḥ sthaḥ*` → `*samavapravibhyaḥ sthaḥ*` | SECOND-PASS S7: Kannada ಸಮವಪ್ರವಿಭ್ಯಸ್ಥಃ: letters prāviṣ replaced by pravi |
+| 376 | `*iteś ca*` → `*itaś ca*` | SECOND-PASS S7: Kannada ಇತಶ್ಚ (ite→ita) |
+| 376 | `*tasya bhāvas tvatalau*, Pā. [5-1-119];` → `*tasya bhāvas tvatalau*;` | SECOND-PASS S2: Kannada prints no number after ತಸ್ಯಭಾವಸ್ತ್ವತಲೌ |
+| 380 | `*ekādeśa udātto 'nudāttasya…*` → `*ekādeśa udāttenodāttaḥ*` | SECOND-PASS S18: Kannada ಏಕಾದೇಶ ಉದಾ-ತೇನೋದಾತ್ತಃ (ಪಾ. ಸೂ. ೮-೨-೫) across the page-line break |
+| 380 | `radiance more excellent than before` → `radiance more excellent than theirs (the sun and the moon)` | SECOND-PASS S14: Kannada ಅವರಿಗಿಂತ ಅತಿಶಯವಾದ ಪ್ರಕಾಶದಿಂದ (than them) |
+| 380 | `flowing toward their own places` → `flowing toward your region` | SECOND-PASS S14: Kannada ನಿಮ್ಮ ಪ್ರದೇಶವನ್ನು ಕುರಿತು ಪ್ರವಹಿಸುವ ನದಿಗಳ ಹಾಗೆ |
+| 380 | `devau uda pīpadan tad daiva` → `devau uda pīpadan tadaiva` | SECOND-PASS S7: Kannada ಯದೈವ ... ತದೈವ (one word each; yadā eva); the English split makes a different, wrong word |
+| 380 | `vibhāgārthaṃ yad daiva` → `vibhāgārthaṃ yadaiva` | SECOND-PASS S7: Kannada ಯದೈವ ... ತದೈವ (one word each; yadā eva); the English split makes a different, wrong word |
+| 381 | `*yaddhṛttānnityam*` → `*yadvṛttānnityam*` | SECOND-PASS S7: Kannada ಯದ್ವೃತ್ತಾನ್ನಿತ್ಯಮ್ (ಪಾ. ಸೂ. ೮-೧-೬೬); ddhṛ is not a word |
+| 381 | `*ṭhatva* for the affix's *t*` → `*ṣṭutva* for the affix's *t*` | SECOND-PASS S18: Kannada ಪ್ರತ್ಯಯ ತಕಾರಕ್ಕೆ ಷ್ಟುತ್ವ |
+| 381 | `*anidiśāṃ halām…*` → `*aniditāṃ hala…*` | SECOND-PASS S7: Kannada ಅನಿದಿತಾಂ ಹಲ- |
+| 386 | `*śvasnihi* [as read` → `*śṛ svṛ snihi* [as read` | SECOND-PASS S7: Kannada ಶೃ ಸ್ವೃ ಸ್ನಿಹಿ (ಉ. ಸೂ. ೧-೧೦) |
+| 386 | `the *sit* of the preceding sūtra` → `the *nit* of the preceding sūtra` | SECOND-PASS S13: Kannada ನಿತ್ ಎಂದು ಅನುವೃತ್ತವಾಗುವುದರಿಂದ ಉ ಪ್ರತ್ಯಯಕ್ಕೆ ನಿದ್ವದ್ಭಾವ (nit, then ādyudātta by ityādir nityam) |
+| 386 | `*u* [*sit*]` → `*u* [*nit*]` | SECOND-PASS S13: Kannada ನಿತ್ ಎಂದು ಅನುವೃತ್ತವಾಗುವುದರಿಂದ ಉ ಪ್ರತ್ಯಯಕ್ಕೆ ನಿದ್ವದ್ಭಾವ (nit, then ādyudātta by ityādir nityam) |
+| 389 | `Here *vṛjinam* is a name of strength, but here` → `*Vṛjinam* is a name of strength elsewhere, but here` | SECOND-PASS S14: Kannada ವೃಜಿನವೆಂಬ ಪದವು ಬೇರೆಯ ಕಡೆಯಲ್ಲಿ ಬಲವೆಂಬ ಅರ್ಥ; Sanskrit ಬಲನಾಮಾನ್ಯತ್ರ |
+| 389 | `The word *vṛjana* shows elsewhere` → `The word *vṛjina* shows elsewhere` | SECOND-PASS S7: Kannada ವೃಜಿನವೆಂಬ ಪದ |
+| 389 | `'he protects from all injuries'` → `'he protects from all sins'` | SECOND-PASS S14: Kannada ಎಲ್ಲಾ ಪಾತಕಗಳಿಂದ ರಕ್ಷಿಸುವನೆಂದು; preceding Sanskrit सर्वाणि पापानि |
+| 389 | `satyo bādharahite*` → `satyo bādharahita*` | SECOND-PASS S7: Kannada ಬಾಧರಹಿತ (ಸಾ. ಭಾ.) |
+| 389 | `ātmam atir amatir` → `ātmamatir amatir` | SECOND-PASS S7: Kannada ಆತ್ಮಮತಿರಮತಿರುಚ್ಯತೇ (ātmamatiḥ + amatiḥ) |
+| 391 | `U. Sū. 2-239 [?]]` → `U. Sū. 2-239]` | SECOND-PASS S2: Kannada (ಉ. ಸೂ. ೨-೨೩೯) is printed |
+| 391 | `U. Sū. 3-377 [?];` → `U. Sū. 3-377;` | SECOND-PASS S2: Kannada (ಉ. ಸೂ. ೩-೩೭೭) is printed |
+| 391 | `*anidiśāṃ halām…*` → `*aniditāṃ hala…*` | SECOND-PASS S7: Kannada ಅನಿದಿತಾಂ ಹಲ- |
+| 395 | `*ātvasantasya cādhātoḥ*` → `*atvasantasya cādhātoḥ*` | SECOND-PASS S7: Kannada ಅತ್ವಸಂತಸ್ಯಚಾಧಾತೋಃ |
+| 395 | `*yaddhṛttānnityam*` → `*yadvṛttānnityam*` | SECOND-PASS S7: Kannada ಯದ್ವೃತ್ತಾ…ನಿತ್ಯಮ್ (ಪಾ. ಸೂ. ೮-೧-೬೬); ddhṛ is not a word (the doubled n is the English reading; Kannada prints ನಿ) |
+| 396 | `, Pā. [6-2-172], final acute` → `, final acute` | SECOND-PASS S2: Kannada prints no number after ನಞ್ ಸುಭ್ಯಾಮ್ on this page |
+| 398 | `read among the twenty-one names of earth` → `read among the names of earth` | SECOND-PASS S2: Kannada ಗೌಃ ಗ್ಮಾ ಎಂಬ ಪೃಥಿವೀನಾಮಗಳಲ್ಲಿ has no count |
+| 398 | `kṛṣṇavan nigamā` → `kṛtsnavan nigamā` | SECOND-PASS S7: Kannada ಕೃತ್ಸ್ನವನ್ನಿಗಮಾ |
+| 399 | `the hundred names of water` → `the hundred and one names of water` | SECOND-PASS S17: Kannada ನೂರೊಂದು ಉದಕನಾಮಗಳಲ್ಲಿ |
+| 399 | `, Pā. [6-4-24], loss` → `, loss` | SECOND-PASS S3: Kannada prints no number after ಅನಿದಿತಾಂ ಹಲ ಉಪಧಾ, ಝಷಸ್ತಥೋಧೋಽಧಃ, ಝಲಾಂ ಜಶ್‌ಝಶಿ |
+| 399 | `, Pā. [8-2-40], *dh* for` → `, *dh* for` | SECOND-PASS S3: Kannada prints no number after ಅನಿದಿತಾಂ ಹಲ ಉಪಧಾ, ಝಷಸ್ತಥೋಧೋಽಧಃ, ಝಲಾಂ ಜಶ್‌ಝಶಿ |
+| 399 | `, Pā. [8-4-53], *jaśtva*` → `, *jaśtva*` | SECOND-PASS S3: Kannada prints no number after ಅನಿದಿತಾಂ ಹಲ ಉಪಧಾ, ಝಷಸ್ತಥೋಧೋಽಧಃ, ಝಲಾಂ ಜಶ್‌ಝಶಿ |
+| 399 | `*anidiśāṃ halām upadhāyāḥ` → `*aniditāṃ hala upadhāyāḥ` | SECOND-PASS S7: Kannada ಅನಿದಿತಾಂ ಹಲ ಉಪಧಾ |
+
+### 2026-11-24 second pass, batch e370-399_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 399 | `saṃbaddhaḥ haviroktā` → `saṃbaddhaḥ havirbhoktā` | SECOND-PASS S7: Kannada ಸರ್ವಾನ್ನ ಸಂಬದ್ಧಃಹವಿರ್ಭೋಕ್ತಾ |
