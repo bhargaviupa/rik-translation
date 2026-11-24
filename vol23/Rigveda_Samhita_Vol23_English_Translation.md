@@ -35382,6 +35382,280 @@ O Maruts, you who have strength in your arms and are leaders, wear on your bodie
 > स्वधां । अनु । श्रियं । नरः । महि । त्वेषाः । अमवंतः । वृषप्सवः ।  
 > वहंते । अह्रुतप्सवः ॥ ७ ॥
 
+### Printed p. 835
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नरो नेतारो मरुतः स्वधामनु । स्वधेत्यन्ननाम । हविर्लक्षणमन्नमनुलक्ष्य
+> श्रियं शोभां महि महत्प्रौढं वहंते । धारयंति । कीदृशाः । त्वेषा दीप्ता
+> अमवंतो बलवंतो वृषप्पवो वर्षणरूपा अह्रुतप्पवोऽकुटिलरूपाश्च ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, the leaders (नरः (*naraḥ*)), bear great, mighty splendour (श्रियं (*śriyaṃ*)) with regard to स्वधां (*svadhāṃ*), which is a name for food; that is, with regard to food in the form of the oblation. Sāyaṇa describes them as radiant, strong, rain-shedding (वृषप्पवो (*vṛṣappavo*)) and of undisguised, straightforward form (अह्रुतप्पवः (*ahrutappavaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—leaders
+- तेषाः (*teṣāḥ*)—radiant ones
+- अमवंतः (*amavaṃtaḥ*)—powerful ones
+- वृषप्सवः (*vṛṣapsavaḥ*)—those who pour down rain
+- अह्रुतप्पवः (*ahrutappavaḥ*)—the Maruts, who are of straightforward form
+- स्वधां अनु (*svadhāṃ anu*)—at the time of partaking of food in the form of the oblation
+- महि (*mahi*)—great
+- श्रियं (*śriyaṃ*)—splendour
+- वहंते (*vahaṃte*)—they bear
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who are leaders, radiant, pourers of rain and of straightforward form, bear great splendour at the time of partaking of food in the form of the oblation.
+
+##### English translation
+The radiant, strong, rain-shedding, undisguised leaders of rites display their great glory when accepting the (sacrificial) food.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोभि॑र्वा॒णो अ॑ज्यते॒ सोभ॑रीणां॒ रथे॒ कोशे॑  ॒॑
+> हिरण्यये ।  
+> गोबं॑धवः सुजा॒तास॑ इ॒षे भु॒जे म॒हांतो॑ नः॒ ॒॑ 
+> स्परसे नु ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोभिः । वाणः । अज्यते । सोभरीणां । रथे । कोशे । हिरण्यये ।  
+> गोऽबंधवः । सुजातासः । इषे । भुजे । महांतः । नः । स्वरसे । नु ॥ ८ ॥
+
+### Printed p. 836
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोभरीणामृषीणां गोभिः शब्दैः स्तुतिलक्षणैर्वाणो मरुद्वीणाज्यते ।
+> व्यज्यते । प्रकटीक्रियते । कुत्र । हिरण्यये रथे कॊशे कोशवद्वेषिते मध्यदेशे ।
+> यद्वा । गोभिर्गंतृभिर्गॊमातृकैर्वा मरुद्भिर्वाणोऽज्यते व्यज्यते । सोभरीणां ज्ञानायेदृशे रथे वाद्यत इत्यर्थः । अपि च गोबंधवो गोमातृकाः
+> सुजातासः शोभनजन्मानो महांतो महानुभावास्ते मरुतो नोऽस्माकमिषेऽन्नाय भुजे भोगाय स्परसे प्रीत्यै च बलनाय वा नु क्षिप्रं भवंत्विति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+The sound of the Maruts' lute (वीणा (*vīṇā*)) is made manifest by the words, of the nature of praise, of the Sobharis, the seers; it is made manifest in the golden chariot, in its middle part, which is shaped like a receptacle. Alternatively: the sound is made manifest by the Maruts, who are "goers" (*gaṃtṛbhiḥ*) or are born of the cow; the meaning is that on such a chariot it is sounded for the knowledge of the Sobharis. Moreover, the Maruts, born of the cow, well-born and of great majesty, are to become quickly, for us, for food, for enjoyment, and for kindness or for strength (the verb to be supplied is "let them be").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोभरीणां (*sobharīṇāṃ*)—of the seers connected with Sobhari
+- गोभिः (*gobhiḥ*)—with words in the form of praise
+- वाणः (*vāṇaḥ*)—the lute-sound of the Maruts
+- हिरण्यये (*hiraṇyaye*)—made of gold
+- रथे (*rathe*)—of the chariot
+- कोशे (*kośe*)—in the middle part
+- अज्यते (*ajyate*)—it is gathered together and made manifest
+- गोबंधवः (*gobaṃdhavaḥ*)—sons of the cow (sons of Pṛśni)
+- सुजातासः (*sujātāsaḥ*)—of excellent birth
+- महांतः (*mahāṃtaḥ*)—great ones; the Maruts
+- नु (*nu*)—quickly
+- नः (*naḥ*)—to us
+- इषे (*iṣe*)—for the obtaining of food
+- भुजे (*bhuje*)—for pleasurable enjoyment
+- स्परसे (*sparase*)—for the gaining of strength (may they be favourable)
+
+##### भावार्थ (Bhāvārtha)
+
+With the words, of the nature of praise, of the seers connected with Sobhari, the lute-sound of the Maruts gathers together and shines in the middle part of the golden chariot. May the Maruts, sons of Pṛśni, of excellent birth and great souls, quickly be favourable to us for the obtaining of food, for pleasurable enjoyment and for the gaining of strength.
+
+##### English translation
+The voice (of the Maruts) blends with the fsongsthe Sobhoaris in the receptacle of their golden chariot: may the mighty well-born Maruts, the offspring of the (brindled) cow, be gracious) to us in regard of food, enjoyment, and kindness.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ वो वृषदंजयो॒ वृष्णे॒ शर्धा॑य॒ मारु॑ताय  
+> भरध्वं ।
+
+### Printed p. 837
+
+> हव्या वृषप्रयान्वे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । वः । वृषत्अंजयः । वृष्णे । शर्धाय । मारुताय । भरध्वं ।  
+> हव्या । वृषप्रयान्ने ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषदंजयो वृषता वर्षकेण सोमेनांजंतः सिंचंतोऽध्वर्यवः वो
+> यूयं वृष्णे वर्षित्रे मारुताय मरुत्संघरूपाय शर्धाय बलाय हव्यानि
+> हवींषि प्रति भरध्वं । आहवनीयं प्रति हरत । शर्धं विशेष्यते । वृषप्रयान्ने ।
+> वृषाणः सेक्तारः प्रयावानः प्रकृष्टं गंतारो मरुतो यस्मिन् तत्तथोक्तं ।
+> तस्यॆ ॥
+
+##### Gist of the bhāṣya
+
+O sprinklers (वृषदंजयः (*vṛṣadaṃjayaḥ*)), the Adhvaryus, who anoint, that is pour out, with the rain-giving Soma: you are to carry the oblations to the rain-giving (वृष्णे (*vṛṣṇe*)) strength (शर्धाय (*śardhāya*)), which is in the form of the Marut host; that is, carry them to the Āhavanīya fire. The strength is qualified as वृषप्रयान्ने (*vṛṣaprayānne*): that in which the Maruts are showerers (sprinklers) and are far-goers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषदंजयः (*vṛṣadaṃjayaḥ*)—O Adhvaryus, who offer the Soma juice in a stream
+- वः (*vaḥ*)—you
+- वृषप्रयान्वे (*vṛṣaprayānve*)—of excellent motion
+- वृषणे (*vṛṣaṇe*)—showering desires
+- मारुताय (*mārutāya*)—of the form of the Maruts
+- शर्धाय (*śardhāya*)—to the host
+- हव्या (*havyā*)—the oblation
+- प्रति भरध्वं (*prati bharadhvaṃ*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, who offer the Soma juice in a stream, offer the oblation to the host of the Maruts, which is of excellent motion and showers desires.
+
+##### English translation
+Sprinklers of the libation, present the offerings to the rain-bestowing swift-passing company of the Maruts.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒ष॒ण॒श्वेन॑ मरुतो॒ वृष॑प्सुना॒ रथे॑न॒ वृष॑नाभिना ।  
+> आ श्ये॒नासो॒ न प॒क्षिणो॒ वृथा॑ नरो ह॒व्या नो॑ ॒॑ 
+> वीतये गत ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषणश्वेन । मरुतः । वृषप्सुना । रथेन । वृषनाभिना ।  
+> आ । श्येनासः । न । पक्षिणः । वृथा । नरः । हव्या । नः । वीतये । गत ॥ १० ॥
+
+### Printed p. 838
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरो नेतारो मरुतः वृषणश्वेन वृषभिः सेचनसमर्थैरुपेतेन वृषप्सुना वर्षकरूपयुक्तेन वृषनाभिना । नाभिश्चक्रच्छिद्रं । वर्षकनाभियुक्तेन रथेन
+> नोऽस्माकं हव्यानि हवींष्या गत । आगच्छत । वृथानायासेनैव वीतये भक्षणार्थं ।
+> तत्र दृष्टांतः । श्येनासो न पक्षिणः श्येनाः शंसनीयगतयः पक्षिणो यथा शीघ्रमागच्छंति । तद्वदनायासेन शीघ्रमागच्छतेत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+O Maruts, leaders: come to our oblations, to eat them, effortlessly, with a chariot that is joined with वृषणश्वेन (*vṛṣaṇaśvena*), that is, with bulls or steeds able to shower; वृषप्सुना (*vṛṣapsunā*), of rain-making form; and वृषनाभिना (*vṛṣanābhinā*), with a nave (*nābhiḥ* is the hole of the wheel) that rains. The illustration: as hawks (श्येनासो न पक्षिणः (*śyenāso na pakṣiṇaḥ*)), birds of praiseworthy flight, come swiftly, so come swiftly and without effort.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O leaders
+- मरुतः (*marutaḥ*)—Maruts
+- वृषणश्वेन (*vṛṣaṇaśvena*)—joined with steeds that shower desires
+- वृषप्सुना (*vṛṣapsunā*)—of rain-causing form
+- वृषनाभिना (*vṛṣanābhinā*)—having a nave that rains
+- रथेन (*rathena*)—with the chariot
+- नः (*naḥ*)—our
+- हव्या (*havyā*)—towards the oblations
+- वृथा (*vṛthā*)—effortlessly
+- वीतये (*vītaye*)—to eat
+- श्येनासः (*śyenāsaḥ*)—of praiseworthy flight
+- पक्षिणः न (*pakṣiṇaḥ na*)—swiftly like hawks
+- आ गत (*ā gata*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, leaders, be pleased to come swiftly, like hawks of praiseworthy flight, with a chariot that has steeds showering desires, a rain-making form and a nave that rains, towards our oblations, to eat them effortlessly.
+
+##### English translation
+Maruts, leaders, (of rites), come like swift-flying birds in your rain-shedding, strong-horsed chariot, whose wheels bestow showers, to partake of our oblations.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नमं॒ज्ये॑षां॒ वि भ्रा॑जंते रु॒क्मासो॒ अधि॑  ॒॑
+> बा॒हुषु॑ ।
+
+### Printed p. 839
+
+> दविद्युतत्त्वष्टयः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानं । अंजि । एषां । वि । भ्राजंते । रुक्मासः । अधि । बाहुषु ।  
+> दविद्युतति । ऋष्टयः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषां मरुतामंजि रूपाभिव्यंजकमाभरणं समानमेकविधमेव । एतदेवाह!
+> रुक्मासो रुक्मा दीप्यमानाः सुवर्णमया हारा ह वि भ्राजंते । वक्षःस्थलेषु
+> विशेषेण दीप्यंते । तथा बाहुष्वध्यंसेष्टृष्टयः शक्त्यादीन्यायुधानि दविद्युतति ।
+> अत्यर्थं द्योतंते ॥
+
+##### Gist of the bhāṣya
+
+The ornament (अंजि (*aṃji*)) of these Maruts, which makes their form manifest, is of one and the same kind. This he explains: the रुक्मासः (*rukmāsaḥ*), shining golden necklaces, shine forth (वि भ्राजंते (*vi bhrājaṃte*)), that is, gleam especially on their chests. Likewise on their arms or shoulders the ऋष्टयः (*ṛṣṭayaḥ*), weapons such as spears, flash exceedingly (दविद्युतति (*davidyutati*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these Maruts
+- अंजि (*aṃji*)—the ornament that reveals form
+- समानं (*samānaṃ*)—is of one kind
+- रुक्मासः (*rukmāsaḥ*)—golden necklaces
+- वि भ्राजंते (*vi bhrājaṃte*)—shine
+- बाहुषु अधि (*bāhuṣu adhi*)—on the arms
+- ऋष्टयः (*ṛṣṭayaḥ*)—weapons such as spears
+- दविद्युतति (*davidyutati*)—gleam exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+The ornament that reveals the form of all these Maruts is of one kind. Golden necklaces shine on the chest; on the arms, weapons such as spears gleam exceedingly.
+
+##### English translation
+Their decoration is the same; gold (necklaces) shine (on their breasts), lances gleam upon their shoulders.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त उ॒ग्रासो॒ वृष॑ण उ॒ग्रबा॑हवो॒ नकि॑ष्ट॒नूषु॑  
+> येतिरे ।  
+> स्थि॒रा धन्वा॒न्यायु॑धा॒ रथे॑षु॒ वोऽनी॑के॒ष्टधि॒ श्रियः॑ ॥
+
+### Printed p. 840
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । उग्रासः । वृषणः । उग्रबाहवः । नकिः । तनूषु । येतिरे ।  
+> स्थिरा । धन्वानि । आयुधा । रथेषु । वः । अनीकेषु । अधि । श्रियः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उग्रास उद्धूर्णाः सर्वकार्येषूद्यता वृषणो वर्षितार उग्रबाहव
+> उद्दूर्णबाहुकास्ते मरुतस्तनूष्वात्मीयेषु शरीरेषु नकिर्यॆतिरे । रक्षणाय न
+> प्रयतंते । न हि कश्चित्तेषां शरीराणि बाधितुं शकोति येन यत्नः क्रियेत ।
+> परोर्धर्चः प्रत्यक्षकृतः । हे मरुतः वो युष्माकं रथेषु धन्वानि धनूंष्यायुधान्यायोधनानि बाणादीनि च स्थिरा स्थिराणि दृढतराणि संति । अत एव
+> कारणादनीकेष्टधि सेनामुखेषु श्रियो जयसंपदो युष्माकं भवंति ॥
+
+##### Gist of the bhāṣya
+
+Fierce, ready for all tasks, showerers, strong-armed, those Maruts make no effort for the protection of their own bodies (नकिर्यॆतिरे (*nakiryètire*)): no one is able to injure their bodies, so that effort would be needed. The latter half of the verse is addressed directly: O Maruts, the bows, weapons and arrows in your chariots are firm and very strong; for that very reason the glories, the riches of victory, are yours at the fronts of armies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रासः (*ugrāsaḥ*)—of fearsome form
+- वृषणः (*vṛṣaṇaḥ*)—showerers of desires
+- उग्रबाहवः (*ugrabāhavaḥ*)—having exceedingly long arms
+- ते (*te*)—those Maruts
+- तनूषु (*tanūṣu*)—in their bodies
+- नकिः येतिरे (*nakiḥ yetire*)—they do not strive at all for protection (there are no enemies to face them) (O Maruts)
+- वः (*vaḥ*)—your
+- रथेषु (*ratheṣu*)—in the chariots
+- धन्वानि (*dhanvāni*)—bows and the like
+- आयुधा (*āyudhā*)—weapons
+- स्थिरा (*sthirā*)—are firm
+- अनिकेषु अधि (*anikeṣu adhi*)—even in the battlefields
+- श्रियः (*śriyaḥ*)—riches of victory
+- (वः (*vaḥ*)—are yours)
+
+##### भावार्थ (Bhāvārtha)
+
+Those Maruts, of fearsome form, showerers of desires and exceedingly long-armed, make no effort to protect their bodies; that is, there are no enemies to face them. O Maruts, in your chariots weapons such as bows are firm. Even on the battlefields the riches of victory are yours.
+
+##### English translation
+Fierce, vigorous, strong-armed, they need not exert (the energy of their) persons: bows and arrows are ready in your chariots; the glory (of conquest) over (hostile) armies is yours.
+
 ---
 
-**Progress note:** Done through printed p. 834. pp. 827-834 (batch API)
+**Progress note:** Done through printed p. 840. pp. 835-840 (batch API)
