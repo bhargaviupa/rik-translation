@@ -25903,6 +25903,280 @@ When we wrote to the authorities of that Pāṭhaśālā and asked about this bo
 श्रुतिकंजार्थलक्ष्मीं यो विकासयति हृद्गणां । स पायात्सच्चिदानंदः सूर्यमंडलगो हरिः ॥ (*śrutikaṃjārthalakṣmīṃ yo vikāsayati hṛdgaṇāṃ | sa pāyātsaccidānaṃdaḥ sūryamaṃḍalago hariḥ ‖*)
 Translation: This sūkta अभि प्र वः (*abhi pra vaḥ*) is the first of the Vālakhilya sūktas. In it there are ten Ṛks. The seer of this sūkta is Praskaṇva, the son of Kaṇva; Indra is the deity. In the Anukramaṇikā it is said: अभि प्र दश प्रस्कण्वः प्रागाथं तत् (*abhi pra daśa praskaṇvaḥ prāgāthaṃ tat*). The odd-numbered Ṛks of this sūkta are in the Bṛhatī metre; the even-numbered Ṛks are in the Satobṛhatī metre. The application (viniyoga) is to be learnt from the sūtra.
 
+### Printed p. 569
+
+##### Particulars
+
+- Maṇḍala 8; Anuvāka 6; Sūkta 49
+- Aṣṭaka 6; Adhyāya 4; Varga 14, 15
+- Number of Ṛks in the sūkta: 10
+- Seer: Praskaṇvaḥ Kāṇvaḥ
+- Deity: Indraḥ
+- Metre: Prāgātha (the odd Ṛks Bṛhatī, the even Ṛks Satobṛhatī)
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्र वः॑ सु॒राध॑स॒मिंद्र॑मर्च॒ यथा॑ वि॒दे ।  
+> यो ज॑रि॒तृभ्यो॑ म॒घवा॑ पुरू॒वसुः॑ स॒हस्रे॑णेव॒ शिक्ष॑ति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्र । वः । सुराधसं । इंद्रं । अर्च । यथा । विदे ।  
+> यः । जरित्यभ्यः । मघवा । पुरुषवसुः । सहस्रेण इव । शिक्षति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरात्मानं ब्रूते । हे प्रस्कण्ण वः युष्माकं । बहुवचनं पुत्रपौत्राभिप्रायेण । युष्मत्स्वामिभूतमिंद्रमभिलक्ष्य प्रार्थ प्रकर्षण पूजय । तत्र
+> दृष्टांतः । यथा विदे विद्वांसं स्वगुरुं पूजयसि तद्वत् । कीदृशं । सुराधसं ।
+> शोभनं राधो धनं यस्य तं । कोऽसाविंद्र इत्युच्यते । य इंद्रः मघवा
+> धनवान् पुरूवसुः बहूनां वासयिता जरितृभ्यः स्तोतृभ्यः सहस्रेणेव अपरिमितमेव शिक्षति ददाति । धनादिकमिति शेषः । अत्र यःशब्दोऽवधारणार्थः । सहस्रेणेव
+> ( ? इवशब्दोऽवधारणार्थः । सहस्रेणैव)
+
+##### Gist of the bhāṣya
+
+The seer speaks of himself. O Praskaṇva, "of you" (वः (*vaḥ*)) is in the plural with a view to your sons and grandsons: worship eagerly, with fitting praise, Indra, who is your lord. An example is given: as you honour your own teacher, a learned man (विदे (*vide*)), so worship him. What kind of Indra? One of good wealth (सुराधसं (*surādhasaṃ*)), that is, whose wealth is excellent. Who is this Indra? He who is मघवा (*maghavā*), wealthy, पुरूवसुः (*purūvasuḥ*), one who gives a dwelling to many, and who gives to the singers (जरितृभ्यः (*jaritṛbhyaḥ*)), the praisers, as if by thousands (सहस्रेणेव (*sahasreṇeva*)), that is, without measure, wealth and the like; this is to be supplied. Here the word यः (*yaḥ*) has the sense of emphasis, and the word इव (*iva*) has the sense of emphasis: "by thousands indeed". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—wealthy
+- पुरूवसुः (*purūvasuḥ*)—giver of dwelling to many
+- यः (*yaḥ*)—which Indra
+- जरितृभ्यः (*jaritṛbhyaḥ*)—to his praisers
+- सहस्रेणेव (*sahasreṇeva*)—by the thousand
+- शिक्षति (*śikṣati*)—gives, such a one
+- सुराधसं (*surādhasaṃ*)—possessed of excellent wealth
+- वः (*vaḥ*)—your kinsman
+- इंद्रं (*iṃdraṃ*)—Indra
+- यथा विदे (*yathā vide*)—as one worships a learned man
+- अभि प्रार्थ (*abhi prārtha*)—go to meet and worship
+
+### Printed p. 570
+
+##### भावार्थ (Bhāvārtha)
+
+Worship Indra, the wealthy, the giver of dwellings to many, who gives to his praisers by the thousand, the possessor of excellent wealth, your kinsman, going to meet him as one worships a learned teacher.
+
+##### English translation
+That I may attain wealth I invoke Indra, Lord of precious wealth and sing his praise, Maghavan, Lord of abundance he gives to his worshippers thousands and thousands.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तानी॑केव॒ प्र जि॑गाति धृष्णु॒या हंति॑ वृ॒त्राणि॑ दा॒शुषे॑ ।  
+> गि॒रेरि॑व॒ प्र रसा॑ अस्य पिन्निरे॒ दत्ता॑णि पुरु॒भोज॑सः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतानीकाइव । प्र । जिगाति । धृष्णुया । हंति । वृत्राणि । दाशुषे ।  
+> गिरेः इव ! प्र । रसाः । अस्य । पिन्निरे । दत्ताणि । पुरुभोजसः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धृष्णुया शत्रुधर्षणशील इंद्रः शतानीकेव अपरिमितान्येव रिपुसैन्यानि प्र
+> जिगाति प्रकर्षेण गच्छति । स्ववशीकरोति । किंच य इंद्रः दाशुषे हविर्दत्तवतो
+> यजमानस्य वृत्राणि पापानि शत्रून् वा हंति नाशयति । तस्यास्य पुरुभोजसः
+> बहुपालकस्येंद्रस्य दशाणि हिरण्यादीनि धनानि । दत्तमत्र हिरण्यं मरुत् दत्रं
+> इति हिरण्यनामसु पातात् । प्र पिन्निरे प्रकर्षेण प्रीणयंति तर्पयंति जगत् । अत्र
+> दृष्टांतः । गिरेरिव पर्वतस्य मेघस्य वा संबंधिनो यथा रसाः जलानि जगत्
+> प्रीणयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Indra, the one who assails enemies (धृष्णुया (*dhṛṣṇuyā*)), goes forth against countless hosts of foes, as though they were hundreds (शतानीकेव (*śatānīkeva*)), that is, he brings them under his own control. Further, that Indra destroys the Vṛtras, the sins or the enemies, of the sacrificer who has given the oblation. The riches, gold and the like, given by this Indra, the protector of many, delight and satisfy the world abundantly. **NOTE** An example is given: as the waters (रसाः (*rasāḥ*)) belonging to a mountain or a cloud satisfy the world, so do these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृष्णुया (*dhṛṣṇuyā*)—Indra, the assailer of foes
+- शतानीका इव (*śatānīkā iva*)—like the leader of a host of a hundred troops
+- प्र जिगाति (*pra jigāti*)—moves in splendour
+- दाशुषे (*dāśuṣe*)—for the benefit of the sacrificer
+
+### Printed p. 571
+- वृत्राणि (*vṛtrāṇi*)—the sinful enemies
+- हंति (*haṃti*)—he destroys
+- रसाः (*rasāḥ*)—waters
+- गिरेः इव (*gireḥ iva*)—as from a mountain, welling up and flowing
+- पुरुभोजसः (*purubhojasaḥ*)—protector of many
+- अस्य (*asya*)—by this Indra
+- दत्राणि (*datrāṇi*)—the given riches
+- प्र पिन्निरे (*pra pinnire*)—flow forth and satisfy the world
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the assailer of foes, moves in splendour like the leader of a host of a hundred troops. For the benefit of the sacrificer he destroys the sinful enemies. As streams of water welling up from a mountain satisfy the world, the riches given by Indra satisfy the world in the form of a stream.
+
+##### English translation
+He is walking magistically as if Lord of hundred forces, for the sacrificers he is killing Vritra, protector of many. Gifts proceeds from him as streams spring out of a mountain.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑ सु॒तास॒ इंद॑वो॒ मदा॒ ये इं॑द्र गिर्वणः ।  
+> आपो॒ नु व॑ज्रि॒न्नन्वो॒क्यं१॒॑ १ सरः॑ पृ॒णंति॑ शूर॒ राध॑से ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । सुतासः । इंदवः । मदाः । ये । इंद्र । गिर्वणः ।  
+> अपः । नु । वज्रैन् । आनु । ओक्यं । सरः । पृणंति । शूर । राधसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गीर्वणः गीर्भिर्वननीयेंद्र मदाः हर्षकराः ये इंदवः सोमाः
+> सुतासः अभिषुताः संति ते हे वज्रेन् वज्रोपेत हे शूर शौर्ययुक्तेंद्र ओक्यं
+> समवयितुमर्हं ( ? समवेतुमर्हं) त्वा त्वामापृणंति सर्वतः पूरयंति ।
+> श्वरसप्रदानेन त्वां तर्पयंतीत्यर्थः । कथं । आपो न सरः । ता यथा महाजलाशयं पूरयंति तद्वत् । किमर्थं । राधसे यजमानस्य धनलाभाय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, to be won with songs (गीर्वणः (*gīrvaṇaḥ*)), O bearer of the thunderbolt, O hero: the Somas that are pressed, delight-giving, fill you on all sides, you who are worthy to be gathered to the home (ओक्यं (*okyaṃ*); the text adds in brackets समवेतुमर्हं (*samavetumarhaṃ*) **NOTE**). The meaning is that they satisfy you by giving their juice **NOTE**. How? As waters fill a great reservoir (आपो न सरः (*āpo na saraḥ*)). For what purpose? For राधसे (*rādhase*), for the sacrificer's gain of wealth.
+
+### Printed p. 572
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O mighty one
+- गिर्वणः (*girvaṇaḥ*)—worshipped with praises
+- वज्रिन् (*vajrin*)—bearer of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- आपः (*āpaḥ*)—waters
+- ओक्यं (*okyaṃ*)—their destined place
+- सरः अनु न. (*saraḥ anu na.*)—as they go to the lake and fill it
+- मदाः (*madāḥ*)—delight-giving
+- ये इंदवः (*ye iṃdavaḥ*)—which Soma juices
+- सुतासः (*sutāsaḥ*)—have been pressed, such Soma juices
+- राधसे (*rādhase*)—for the sacrificer's gain of wealth
+- त्वा (*tvā*)—drawing near to you
+- आ पृणंति (*ā pṛṇaṃti*)—fill your belly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, mighty, worshipped with praises, bearer of the thunderbolt, as waters go to their destined place, the lake, and fill it, may the delight-giving Soma juices that have been pressed fill your belly for the sacrificer's gain of wealth and be a source of joy to you.
+
+##### English translation
+Worshipable Indra, the exhilarating Soma is being effused for the hero, wielder of thunder-bolt; may abundance go to you as water fills its dwelling, the Lake.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ने॒हसं॑ प्र॒तर॑णं वि॒वक्ष॑णं॒ मध्वः॒ स्वादि॑ष्टमीं पिब ।  
+> आ यथा॑ मंदसा॒नः कि॒रासि॑ नः॒ प्रक्षु॒द्रेव॒ त्मना॑ धृ॒षत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनेहसं । प्रतरणं । विवक्षणं । मध्वः । स्वादिष्टं । ईं । पिब ।  
+> आ । यथा । मंदसानः । किरासि । नः । प्र । क्षुद्रा इव । त्मना । धृषत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अनेहसं यथाकालं ईं एनं सोमं पिब । कीदृशं । प्रतरणं
+> प्रवर्धनं । प्रपूर्वस्तिरतिर्वर्धनार्थः । विवक्षणं अतिशयेन स्तुत्यं मध्वः मधुनः
+> सकाशादपि स्वादिष्टं स्वादुतमं ! कमेतं । यस्य पानेन मंदसानः हवींषि संभजमानस्त्वं नोऽस्सभ्यं यजमानेभ्यः यथा यथावत् फलमाकिरासि कार्त्स्न्येन
+
+##### Gist of the bhāṣya
+
+O Indra, in due time drink this Soma, अनेहसं (*anehasaṃ*). What kind of Soma? प्रतरणं (*prataraṇaṃ*), that is, promoting growth; the root of increase with the prefix. विवक्षणं (*vivakṣaṇaṃ*), exceedingly praiseworthy; स्वादिष्टं (*svādiṣṭaṃ*), sweeter even than honey (मध्वः (*madhvaḥ*)). Which one is it? That by drinking which you, rejoicing (मंदसानः (*maṃdasānaḥ*)) and enjoying the oblations, pour out fully upon us, the sacrificers, the fruit as is fitting.
+
+### Printed p. 573
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> निक्षिससि । ददासीत्यर्थः । केभ्य इव । धृषत् शत्रुधर्षकस्त्वं त्मना आत्मना स्वयमेव
+> क्षुद्रेव दीनेभ्य इव तेभ्यो यथा प्र ददासि तद्वत् । उपसर्गवशादोग्यक्रियाध्याहारः ॥
+
+##### Gist of the bhāṣya
+
+The meaning is that you give. To whom, and as to whom? You, assailer of foes (धृषत् (*dhṛṣat*)), of your own accord (त्मना (*tmanā*)) give as to the poor (क्षुद्रेव (*kṣudreva*)): as you give to them, so to us. By the force of the prefix a suitable verb of giving is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृषत् (*dhṛṣat*)—you, assailer of foes
+- त्मना (*tmanā*)—of your own accord
+- क्षुद्रा इव प्र (*kṣudrā iva pra*)—as one gives generously to the poor and needy
+- यथा (*yathā*)—in the way
+- मंदसानः (*maṃdasānaḥ*)—you, satisfied
+- नः (*naḥ*)—to us also
+- आ किरासि (*ā kirāsi*)—you give abundantly
+- अनेहसं (*anehasaṃ*)—faultless
+- प्रतरणं (*prataraṇaṃ*)—promoting growth
+- विवक्षणं (*vivakṣaṇaṃ*)—highly praiseworthy
+- मध्वः (*madhvaḥ*)—than honey
+- स्वादिष्ठं (*svādiṣṭhaṃ*)—most delicious
+- ईं (*īṃ*)—this Soma juice
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, assailer of foes, drink this Soma juice, faultless **NOTE**, promoting growth, sweeter than honey, in such a way that you, satisfied, give to us also abundantly, as of your own accord you give generously to the poor and needy.
+
+##### English translation
+Drink the sweet Soma, Sinless, salvation-giving and leader to heaven; when you are exhilarated you become proud and like kshudra give us desired wealth.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॒ स्तोम॒मुप॑ द्र॒वद्धि॑या॒नो अश्वो॒ न सोतृ॑भिः ।  
+> यं ते॑ स्वधावन्त्व॒दयं॑ति धे॒नव॒ इंद्र॒ कण्वे॑षु रा॒तयः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । स्तोमं । उप । द्ववत् । हियानति । अश्वः । न । सोतृभिः ।  
+> यं । ते । स्वधावन् । स्वदयंति । धेनवः । इंद्र । कण्वेषु । रातयः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स भवान् नोऽस्मदीयैः सोतृभिः सोमाभिषवकर्तृभिरध्वयार्वादिभियृग्भिः कृतं स्तोत्रविशेषं आ अभिमुख्येन उप द्रवत् उपगच्छतु समीपं
+
+##### Gist of the bhāṣya
+
+O Indra, may you, facing us, come near (उप द्रवत् (*upa dravat*)) to the special hymn made by our pressers of Soma (सोतृभिः (*sotṛbhiḥ*)), the Adhvaryu and other priests **NOTE**, and reach it.
+
+### Printed p. 574
+
+> प्राप्नोतु । क इव । हियानः प्रेर्यमाणः अश्वो न आश्व इव । स यथा अभिलषितं
+> देशं प्राप्नोति तद्वत् । हे स्वधावन् अन्नवन्निंद्र ते तव स्वभूतानि धेनवः तर्पकाणि
+> कण्वेषु अस्मासु वर्तमानानि राशयः हविर्दानानि यं त्वां स्वदयंति स्वादयंति ।
+> त्वदुदरे प्रविश्य त्वां तर्पयंतीत्यर्थः । स भवान् उप द्रवत् इति पूर्वेण
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Like a driven horse (हियानः (*hiyānaḥ*)), who reaches the place he desires, so may you. O possessor of food (स्वधावन् (*svadhāvan*)), O Indra, the satisfying cows or the gifts of oblations (राशयः (*rāśayaḥ*) **NOTE**) that are yours and abide among us, the Kaṇvas, delight you (स्वदयंति (*svadayaṃti*)); the meaning is that, entering your belly, they satisfy you. You, such as you are, come near: this is to be connected with the earlier part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधावन् (*svadhāvan*)—possessor of food
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—belonging to you
+- कण्वेषु (*kaṇveṣu*)—among us of the Kaṇva line
+- धेनवः (*dhenavaḥ*)—cows that give milk
+- रातयः (*rātayaḥ*)—oblations and the like given by us
+- यं (*yaṃ*)—which you
+- स्वदयंति (*svadayaṃti*)—satisfy; such a you
+- हियानः (*hiyānaḥ*)—running swiftly
+- अश्वः न (*aśvaḥ na*)—like a horse
+- स्तोतृभिः (*stotṛbhiḥ*)—made by the praisers
+- नः स्तोमं (*naḥ stomaṃ*)—towards our praises
+- उप आ द्रवत् (*upa ā dravat*)—come running
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessor of food, the milk-giving cows belonging to you that are among us of the Kaṇva line, and the oblations and the like given by us, satisfy you. Such as you are, come running towards our praises, made by the praisers, like a swiftly running horse.
+
+##### English translation
+Indra, Lord of food, the gifts you offered to us are making the Soma sweet, the effusers are invoking you ; come to it quickly running like a horse.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ग्रं न वी॒रं नम॒सोप॑ सेदिम॒ विभू॑ति॒मक्षि॑तावसुं ।  
+> उ॒द्रीव॑ वज्रिन्नव॒तो न सिं॑च॒ते क्षरं॑तींद्र धी॒तयः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उग्रं । न । वीरं । नमसा । उप । सेदिम । विभूतिं । अक्षितवसुं ।  
+> उद्रीऽइव । वज्रिन् । अवतः । न । सिंचते । क्षरंति । इंद्र । धीतयः ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 568. Ṛk 13-15 of Sūkta 48; Sūkta 49 introduction (pp. 563-568)
+**Progress note:** Done through printed p. 574. Sūkta 49 (Vālakhilya 1) Ṛk 1-6 (pp. 569-574)
