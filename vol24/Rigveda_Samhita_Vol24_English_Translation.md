@@ -9705,6 +9705,294 @@ Offering acceptable sacrifices, obtaining the wealth they solicit, presenting gr
 > आ । शर्म । पर्वतानां । वृणीमहे । नदीनां ।  
 > आ । विष्णोः । सचाऽभुवः ॥ १० ॥
 
+### Printed p. 214
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदादिषु दंपत्योराशिषः । यष्टारो वयं पर्वतानां फलपुष्पसहितलताभिर्युक्तानां यच्छर्म सुखं तत्तेषां स्थैर्यलक्षणं सुखं वा नदीनां
+> चोभयकूलवासिभिर्मुनिभिर्मनुष्यैर्वा जपाद्यनुष्ठाने कृते यत्सुखं तासां
+> भवति तत्सुखं एकत्र स्थित्वा सकलपदार्थभोक्तृत्वलक्षणमनुष्ठानलक्षणं सुखमा
+> वृणीमहे । संभजामहे । सचाभुवो देवैः सह भवतो देवसहितस्य विष्णोरपि
+> शत्रुहननलक्षणं यत्सुखं तदपि वयमा वृणीमहे । भाधाभावाद्धविष्ट्रदानेन देवैः
+> सह वर्तामह इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In this and the following verses there are blessings for the couple. We, the sacrificers, ask for the happiness of the mountains, which are endowed with creepers bearing fruit and flowers, that is, the happiness that consists in their steadiness; and also for the happiness of the rivers, the happiness that comes to them when sages or men dwelling on both banks perform japa and other observances. Staying in one place, we ask for that happiness, which consists in the enjoyment of all things and in the performance of rites; we share in it. We ask also for the happiness of Viṣṇu, who exists together with the gods, the happiness that consists in the slaying of enemies. Because there is no obstruction, we live together with the gods by giving oblations. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पर्वतानां (*parvatānāṃ*)—of the mountains, connected with the mountains
+- शर्म (*śarma*)—the happiness
+- नदीनां (*nadīnāṃ*)—connected with the rivers, the happiness
+- आ वृणीमहे (*ā vṛṇīmahe*)—we ask
+- सचाभुवः (*sacābhuvaḥ*)—united with the gods
+- विष्णो॥ (*viṣṇo‖*)—from Viṣṇu
+- आ (*ā*)—(we ask) for the happiness connected with him
+
+##### भावार्थ (Bhāvārtha)
+
+We ask for the happiness given by the mountains in the form of fruits, flowers and the like, for all the happiness produced by the rivers, and for the happiness obtained by the grace of Viṣṇu.
+
+##### English translation
+We solicit the happiness (afforded) by the mountains, the rivers, and Vishnu, associated (with the gods).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऐतु॑ पू॒षा र॒यिर्भगः॑ स्व॒स्ति स॑र्व॒धात॑मः ।  
+> उ॒रुरध्वा॑ स्व॒स्तये॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । एतु । पूषा । रयिः । भगः । स्वस्ति । सर्वधातमः ।  
+> उरुः । अध्वा । स्वस्तये ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रयिर्धनानां दाता भगो भजनीयः सर्वैः सर्वधातमः सर्वेषां धारयितृतमः सर्वेषां धनादिभिः पोषयितृतमः पूषैतन्नामको देवः स्वस्ति क्षेमेष्ट्यतु ।
+
+##### Gist of the bhāṣya
+
+Rayi is the giver of wealth; Bhaga is the one to be worshipped by all; Sarvadhātama is the greatest supporter of all and the greatest nourisher of all with wealth and the like. The god named Pūṣan, bringing welfare, may come to us. **NOTE**
+
+### Printed p. 215
+
+> अस्मान्प्रति गच्छतु । ततो मार्गरक्षके पूषण्यागते सत्युरुर्विस्तीर्णोऽध्वा मार्गः
+> स्वस्तयेऽस्माकमविनाशाय भवतु ॥
+
+##### Gist of the bhāṣya
+
+Then, when Pūṣan, the guardian of the road, has come, may the wide path be for our welfare, that is, for our freedom from destruction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रयिः (*rayiḥ*)—the giver of wealth
+- भगः (*bhagaḥ*)—worshipful to all
+- सर्वधातमः (*sarvadhātamaḥ*)—the supporter of all
+- पूषा (*pūṣā*)—the god Pūṣan
+- स्वस्ति (*svasti*)—with the things of welfare that we need
+- आ एतु (*ā etu*)—may he graciously come
+- उरुः (*uruḥ*)—extensive
+- अध्वा (*adhvā*)—the path
+- स्वस्तये (*svastaye*)—for our welfare; may it be opened
+
+##### भावार्थ (Bhāvārtha)
+
+May Pūṣan, the giver of wealth, worshipful to all, the supporter of all, graciously come with the things of welfare that we need. May a wide path be opened for the gaining of our welfare.
+
+##### English translation
+May the adorable Pushan, the possessor of opulence, the most benevolent patron to all, come auspiciously: may a wide path (be open) for our prosperity.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒रम॑तिरन॒र्वणो॒ विश्वो॑ दे॒वस्य॒ मन॑सा ।  
+> आ॒दि॒त्याना॑मने॒ह इत् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरमतिः । अनर्वणः । विश्वः । देवस्य । मनसा ।  
+> आदित्यानां । अनेहः । इत् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां मध्ये पूषणमाह । अनर्वणः । अर्वा गंतव्यः । शत्रुभिरगंतव्यस्याप्रत्यृतस्य देवस्य द्योतमानस्य पूष्टो विश्वः सर्वः स्तोतृजनो मनसा श्रद्धया
+> भक्त्यैवारमतिरलंमतिः पर्याप्तस्तुतिर्भवति । तथा ह्यादित्यानामदितेः पुत्राणां
+> देवानां दानमनेह इदपापमेव खलु । तस्मादन्नादिप्राप्तये स्तोतृजनः पूषणं
+> स्तौतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Among the gods he speaks of Pūṣan. Anarvaṇa: arvā means one who is to be approached; so the word refers to the god who cannot be approached by enemies, who is unassailed and shining, namely Pūṣan. All the company of the praisers, by devotion, with the mind in faith, offers sufficient praise. For the gift of the Ādityas, the sons of Aditi, the gods, is indeed free from sin. Therefore the praising people praise Pūṣan in order to obtain food and the like. **NOTE**
+
+### Printed p. 216
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यानां (*ādityānāṃ*)—the gift given by the Ādityas, the sons of Aditi
+- अनेह इत् (*aneha it*)—is certainly free from sin (therefore)
+- अनर्वणः (*anarvaṇaḥ*)—unassailed by enemies
+- देवस्य (*devasya*)—Pūṣan, who is divine in nature
+- विश्वः (*viśvaḥ*)—all the people
+- मनसा (*manasā*)—with faith that comes from the heart
+- अरमतिः (*aramatiḥ*)—praise fully
+
+##### भावार्थ (Bhāvārtha)
+
+The gift given by the Ādityas, the sons of Aditi, is certainly free from sin. Therefore, for the sake of that gift, all the people praise fully, with faith that comes from the heart, Pūṣan, who is unassailed by enemies and divine in nature.
+
+##### English translation
+All men with (devout) minds are the unwearied (praiser) of the irresistible deity (Pushan), verily the (most) sinless of the Adityas.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ नो मि॒त्रो अ॑र्य॒मा वरु॑णः॒ संति॑ गो॒पाः ।  
+> सु॒गा ऋ॒तस्य॒ पंथाः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । नः । मित्रः । अर्यमा । वरुणः । संति । गोपाः ।  
+> सुगाः । ऋतस्य । पंथाः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रोऽर्यमा वरुणः एते त्रयो देवा नोऽस्माकं गोपा गोपयितारो यथा संति भवंति यैर्मार्गैर्वयमेतैः पालयितव्या भवाम त ऋतस्य
+> सत्यभूतस्य यज्ञस्य पंथाः पंथानः सुगा एषां सुगमना भवंतु । तैरागत्यास्मान्यज्ञ
+> मार्गे स्थापयंत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Mitra, Aryaman and Varuṇa, these three gods, are our protectors, so that they are the ones by whose ways we are to be guarded. May the paths of the sacrifice, which is truth, be easy to travel for them. Coming by those paths, may they place us on the path of the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वित्रः (*vitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अर्यमा (*aryamā*)—Aryaman
+- नः (*naḥ*)—to us
+- गोपाः (*gopāḥ*)—as protectors
+- यथा (*yathā*)—in what manner
+- संति (*saṃti*)—they are (in that manner)
+- यतस्य (*yatasya*)—of the sacrifice
+- पंथाः (*paṃthāḥ*)—the path
+- सुगाः (*sugāḥ*)—may it be easily obtained by us
+
+### Printed p. 217
+
+##### भावार्थ (Bhāvārtha)
+
+By whatever way of carrying out the sacrifice Mitra, Varuṇa and Aryaman become our protectors, may that path of carrying out the sacrifice be easily found by us.
+
+##### English translation
+Since Mitra, Aryaman and Varuna are our protectors, may the paths of the sacrifice be easily traversed (by them)
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं वः॑ पू॒र्व्यं गि॒रा दे॒वमी॑ळे॒ वसू॑नां ।  
+> स॒प॒र्यंतः॑ पुरुप्रि॒यं मि॒त्रं न क्षे॑त्र॒साध॑सं ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । वः । पूर्व्यं । गिरा । देवं । ईळे । वसूनां ।  
+> सपर्यंतः । पुरुप्रियं । मित्रं । न । क्षेत्रसाधसं ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः वो युष्माकं पूर्व्यं मुख्यं पुरतोगंतारं वा देवं
+> स्वभासा दीप्यमानमग्निं वसूनां प्राप्तये गिरा स्तुतिलक्षणया वाचेळे । आहं
+> सौमि । किंच सपर्यंतो युष्मान्परिचरंतो मनुष्याः पुरुप्रियं बहुविधप्रियं
+> बहूनामभिमतदानेन प्रीणयितारं वा क्षेत्रसादसं । क्षियंति निवसंति कर्मकरणार्थमत्रेति क्षेत्रो यज्ञः । तस्य साधकं । साधने दृष्टांतः । मित्रं न ।
+> यथा मित्रं सुहृदन्यस्य क्षेत्रं केदारादिकं साधयति तद्विद्यज्ञसाधकमग्निं
+> वसुप्राप्तॆये स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+O gods, I praise Agni, who among you is the chief, or the one who goes in front, the god shining by his own light, with a speech in the form of praise, for the gaining of wealth. **NOTE** Moreover, the men who serve you praise Agni who is dear in many ways, or who pleases many by granting their wishes, and who is the accomplisher of the kṣetra. Kṣetra is the sacrifice, because people dwell in it to perform rites; he is its accomplisher. An example is given: like a friend. As a friend accomplishes the field of another, a rice field or the like, so they praise Agni, the accomplisher of the sacrifice, for the gaining of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Oh gods) वः (*vaḥ*)—among you
+- पूर्व्यं (*pūrvyaṃ*)—the chief
+- देवं (*devaṃ*)—shining
+- अग्निं (*agniṃ*)—Agni
+- वसूनां (*vasūnāṃ*)—for the gaining of wealth
+- गिरा (*girā*)—with speech in the form of praise
+- ईळे (*īḷe*)—I praise
+- मित्रं न (*mitraṃ na*)—who is like a friend
+- पुरुप्रियॆं (*purupriyèṃ*)—who is dear to many
+- क्षेत्रसाधसं (*kṣetrasādhasaṃ*)—who is the accomplisher of the sacrifice, this same Agni
+- सपर्यॆंतॆः (*saparyèṃtèḥ*)—men, worshipping (obtain their desired aims)
+
+### Printed p. 218
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, among you I praise Agni, the foremost and shining, with speech in the form of praise for the gaining of wealth. Men worship that same Agni, who is like a friend, dear to many and the accomplisher of the sacrifice, and obtain their desired aims.
+
+##### English translation
+I worship the divine Agni, the predecessor of you, (gods), with praise, (for the sake) of riches; the worshippers (cherish him), the bountiful perfector of the sacrifice, like a friend.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒क्षू दे॒वव॑तो॒ रथः॒ शूरो॑ वा सृ॒त्सु कासु॑ चित् ।  
+> दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्जनो  
+> भुवत् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मक्षु । देववतः । रथः । शूरः । वा । पृत्सु । कासु । चित् ।  
+> देवानां । यः । इत् । मनः । यजमानः । इयक्षति । अभि । इत् । अयज्जनः ।  
+> भुवत् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देववतः । देवा यष्टव्यतया यस्य संति स देववान् । सत्य रथो
+> देवैर्दत्तो मक्षु शीघ्रं दुर्गमं मार्गमपि प्रविशति । सर्वत्राप्रतिहतगतिरित्यर्थः ।
+> तत्र दृष्टांतः । वेतिशब्दोऽत्रोपमानवाची। यथा शूरो योद्धा कासु चित्पृत्तु
+> पृतनासु तद्वत् । यो देवानां । इदवधारणे । मन एवेयक्षति स्तुतिभिः
+> पूजयितुमिच्छति । यद्वा । देवानां मन इयक्षति हविर्भिर्यष्टुमिच्छति । स यजमानोऽयज्जनो यागमकुर्वतो जनानभि भुवत् । स्वसामर्थ्येनाभिभवत्येव ॥
+> इयक्षति । यक्ष पूजायां । यज देवपूजादिषु । उभयोरभ्यासस्य संप्रसारणं
+> छांदसं । पूर्वस्य स्कोः संयोगाद्योरिति ककारलोपः ॥
+
+##### Gist of the bhāṣya
+
+Devavat: he who has the gods as those to be worshipped is devavān. The chariot given by the gods to such a man swiftly enters even a road hard to travel; that is, its course is unobstructed everywhere. An example is given: here the particle vā denotes comparison. As a hero, a warrior, goes into any battles whatever, so does the chariot. Of the gods, he who (the particle for emphasis) wishes to honour the mind of the gods with praises; or else, wishes to sacrifice to the mind of the gods with oblations: that sacrificer overcomes by his own power the people who perform no sacrifice.
+
+### Printed p. 219
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कासु चित् पृत्सु (*kāsu cit pṛtsu*)—in whatever battles
+- शूरः वा (*śūraḥ vā*)—as a hero advances
+- देववतः (*devavataḥ*)—of the worshipper of the gods
+- रथः (*rathaḥ*)—the chariot
+- मक्षु (*makṣu*)—swiftly (travels even in regions hard to traverse)
+- यः (*yaḥ*)—the man who
+- देवानां इत् मनः (*devānāṃ it manaḥ*)—the mind of the gods itself
+- इयक्षति (*iyakṣati*)—wishes to please by worship
+- यजमानः (*yajamānaḥ*)—that same sacrificer
+- आयज्जनः (*āyajjanaḥ*) (with the next word)—people fallen from rites
+- अभि भुवत् इत् (*abhi bhuvat it*)—overcomes; this is certain
+
+##### भावार्थ (Bhāvārtha)
+
+As a hero advances in whatever battles, the chariot of the worshipper of the gods travels swiftly even in regions hard to traverse. The sacrificer who worships the gods themselves and gives joy to their mind certainly overcomes people fallen from rites.
+
+##### English translation
+The chariot of the devout worshipper quickly (prevails), as the hero (prevails) in all combats whatever: the clebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who are no sacrificers.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न य॑जमान रिष्यसि॒ न सु॑न्वान॒ न दे॑वयो ।  
+> दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्ष्यत्य॒भीदय॑ज्जनो  
+> भुवत् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यजमान । रिष्यसि । न । सुन्वान । न । देवयो इति देवयो ।  
+> देवानां । यः । इत् । मनः । यजमानः । इयक्षति । अभि । इत् । अयज्जनः ।  
+> भुवत् ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमान यो धवान् देवानां मन इयक्षति स त्वं न रिष्यसि । एष्टो
+> न भवसि । किंतु पुत्रपौत्रादिभिर्वर्धसे । हे सुन्तान सोमाभिषवं कुर्वन यः
+
+##### Gist of the bhāṣya
+
+O sacrificer, you who wish to honour the mind of the gods will not be harmed; you do not become one who is harmed, but you grow with sons, grandsons and the rest. **NOTE** O soma-presser, you who perform the pressing of soma
+
 ---
 
-**Progress note:** Done through printed p. 213. Sūkta 31 Ṛks 4-10
+**Progress note:** Done through printed p. 219. Mandala 8 Sukta 31 Rks 10-16 (pp. 214-219)
