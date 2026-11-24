@@ -1,2 +1,3 @@
 # Vol 25 repair log (scan transcription)
 - 2026-11-24 batch PDF 37–42: the agent reported it wrote ಎಲ್ಲೈ (p. 37) and ಉಷಸ್ಸುಗಳಿಗೆಲ್ಲಾ (p. 40) to match the spelling of p0036.md instead of reading the glyphs, and wrote the head ಸೂ. ೬೯ on pp. 38/40/42 by analogy. Cause: the agent opened the neighbouring page's transcription. Remedy: from the next batch the prompt forbids opening other pages' .md files. The two words and the heads are to be looked at again at the second pass (not re-read now).
+- 2026-11-24 batch PDF 133–138: p. 138 English printed 'destruct on' (damaged scan), the agent wrote 'destruction' without a mark (an unmarked completion). To be looked at again at the second pass.
