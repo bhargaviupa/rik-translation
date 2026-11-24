@@ -4373,6 +4373,276 @@ Praise verily at present, son of Vyshwa, praise (Indra), who is the tenth of the
 
 Now the seer addresses Indra. O Indra, thunderbolt-handed (वज्रहस्त (*vajrahasta*)), with a hand armed with the thunderbolt: you alone know (वेत्थ (*vettha*)), that is, understand, how to avoid (परिवृजं (*parivṛjaṃ*)) the troublesome rākṣasas, the nirṛtis. The example is अहरहः शुंध्युः (*aharahaḥ śuṃdhyuḥ*): when he has risen, the brāhmaṇas, having performed their own rites, become pure; because he is the cause of purification, the sun is the purifier (शुंध्युः (*śuṃdhyuḥ*)). परिपदामिव (*paripadāmiva*): as around the sacrificers. Or else, परिपदां (*paripadāṃ*) stands in the same case-relation: the avoidance of the birds that fall all around
 
+### Printed p. 98
+
+> स्वस्थानत्यागमहरहः प्रतिदिवसं यथा वेत्ति । उदिते सूर्ये पक्षिणः स्वस्थानं
+> परित्यज्य सर्वतो गच्छंति खलु । एवं त्वयांद्रे स्वबलेन प्रकाशमाने सति शत्रवः
+> स्वपुरादि त्यक्त्वा पलायंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: just as day by day the sun knows the leaving of their own place, so, when the sun has risen, the birds abandon their own place and go off in every direction. In the same way, Indra, when you shine with your own strength, the enemies leave their own cities and flee. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रहस्त (*vajrahasta*)—O Indra, bearer of the thunderbolt weapon
+- अहरहः (*aharahaḥ*)—every day
+- शुंध्युः (*śuṃdhyuḥ*)—the sun
+- परिपदां इव (*paripadāṃ iva*)—as one knows the movements of the birds that run to the various quarters
+- निर्यतीनां (*niryatīnāṃ*)—the asuras, who are a trouble to the people
+- परिवृजं (*parivṛjaṃ*)—their running away, abandoning their own cities for fear of you
+- वेत्थ हि (*vettha hi*)—you know indeed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt weapon, as the sun knows every day, on rising, the movements of the birds that run to the various quarters, so you know how the asuras, who are a trouble to the people, abandon their own cities for fear of you and run away.
+
+##### English translation
+You are cognizant, wielder of the thunderbolt, of the departure of evil beings, as the purifying sun day by day (is of that) of the (birds) flying in all directions (from their roost).
+
+##### विशेषविषयगळु (Special Topics)
+
+On परिपदां इव (*paripadāṃ iva*) the sense "of the sacrificers" is also given: the sacrificers who rise every day and, intent on their own rites, go about in various places.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदिं॒द्राव॒ आ भ॑र॒ येना॑ दंसिष्ठ॒ कृत्व॑ने ।  
+> द्वि॒ता कुत्सा॑य शिश्नथो॒ नि चो॑दय ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इंद्र । अवः । आ । भर । येन । दंसिष्ठ । कृत्वने ।  
+> द्विता । कुत्साय । शिश्नथः । नि । जोदय ॥ २५ ॥
+
+### Printed p. 99
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तदवस्तद्रक्षणमस्मभ्यमा भर । हे दंसिष्ठात्यंतं दर्शनीय यद्वा
+> शत्रूणामुपक्षपयितरिंद्र कृत्वने कर्म कुर्वते यजमानाय तदर्थं येन
+> पालनमकृथाः तद्रक्षणमा भरेति समन्वयः । किंच कुत्साय कुत्सनामकाय
+> राजर्षये द्विता द्विधा द्विप्रकारेण शिश्नथः त्वं शत्रूनवधीः । तस्मै द्वैधं पालनमकार्षीरित्यर्थः । तद्रक्षणमस्मभ्यं नि चोदय । नितरामत्यर्थं प्रेरय । यद्वा ।
+> कृत्वन इति सामान्येनोक्त्वा निःशेषेण तदेवाह कुत्सायेत्यादि । शेषं पूर्ववत्॥
+
+##### Gist of the bhāṣya
+
+O Indra, bring to us that protection. O Dasiṣṭha, exceedingly beautiful one, or else, destroyer of enemies, Indra: for the sacrificer who performs the rite (कृत्वने (*kṛtvane*)), bring that protection with which you gave him protection; this is the construction. Further, for Kutsa, the royal seer of that name, you slew the enemies in two ways (द्विता (*dvitā*), twofold), that is, you gave him protection of two kinds. Impel that protection to us, urge it on exceedingly. Or else: having first said कृत्वन (*kṛtvana*) in general terms, he then specifies it in full with "for Kutsa" and what follows. The rest as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दंसिष्ठ (*daṃsiṣṭha*)—you of beautiful form
+- इंद्र (*iṃdra*)—O Indra
+- येन (*yena*)—by which act of protection
+- कुत्साय (*kutsāya*)—for the protection of Kutsa
+- द्विता (*dvitā*)—in two ways
+- शिश्नथः (*śiśnathaḥ*)—you slew the enemy
+- तत् अवः (*tat avaḥ*)—that same protection
+- कृत्वने (*kṛtvane*)—to the sacrificer, the performer of the rite also
+- आ भर (*ā bhara*)—provide
+- नि चोदय (*ni codaya*)—impel it (to us also)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of beautiful form, with the act of protection by which, for the protection of Kutsa, you slew the enemy in two ways, provide that same protection to the sacrificer, the performer of the rite, also. Impel it to us also.
+
+##### English translation
+Indra, of goodly aspect, bring to the offerer (of the oblation) that (protection) wherewith to defend him you have twice slain (the foe) for Kutsa ; show the same (care of us).
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ त्वा नू॒नमी॑महे॒ नव्यं॑ दंसिष्ठ॒ सन्य॑से ।  
+> स त्वं नो॒ विश्वा॑ अ॒भिमा॑तीः स॒क्षणिः॑ ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । त्वा । नूनं । ईमहे । नव्यं । दंसिष्ठ । सन्यसे ।  
+> सः । त्वं । नः । विश्वाः । अभिमातीः । सक्षणिः ॥ २६ ॥
+
+### Printed p. 100
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दंसिष्ठातिशयेन दर्शनीयेंद्र नव्यं स्तोतृभिः स्तोतृव्यं तमु तादृशमेव त्वा त्वां नूनमिदानीमीमहे । वयं याचामहे । किमर्थं । संन्यसे ॥
+> असु क्षेपणे । भावे क्विप् ॥ संन्यासार्थं याचामह इति शेषः । स ताद्रशस्त्वं
+> नोऽस्माकं विश्वाः सर्वा अभिमातीः शत्रुसेनाः सक्षणिः ॥ सहेः सनिप्रत्ययः ॥
+> सहनशीलोऽभिभवनशीलो भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Dasiṣṭha, Indra, exceedingly beautiful, you who are to be praised by the praisers (नव्यं (*navyaṃ*)), just such a one as you we now implore; we beg. For what purpose? For संन्यसे (*saṃnyase*); the sense is "we beg for the sake of संन्यासार्थं (*saṃnyāsārthaṃ*)", this being the word to be supplied. Such as you are, you are the one who is of a patient and overcoming nature towards all our hostile armies. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दंसिष्ठ (*daṃsiṣṭha*)—O Indra, of exceedingly beautiful form
+- नव्यं (*navyaṃ*)—worthy of the praise of the praisers
+- तमु (*tamu*)—and renowned
+- त्वा (*tvā*)—you alone
+- नूनं (*nūnaṃ*)—now
+- संन्यसे (*saṃnyase*)—for our well-being
+- ईमहे (*īmahe*)—we beg
+- सः (*saḥ*)—such a renowned one
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—our
+- विश्वाः (*viśvāḥ*)—all
+- अभिमातीः (*abhimātīḥ*)—hostile armies
+- सक्षणिः (*sakṣaṇiḥ*)—you become the one who defeats
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of exceedingly beautiful form, you who are worthy of the praise of the praisers and renowned, you alone we now beg for our well-being. Such a renowned one as you become the defeater of all our hostile armies.
+
+##### English translation
+(Indra) of goodly aspect, we implore you who are entitled to praise, for (our) preservation ; for you are the overcomer of all our adversaries.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ऋक्षा॒दंह॑सो मु॒चद्यो वार्या॑त्स॒प्त सिंधु॑षु ।  
+> वध॑र्दा॒सस्य॑ तुविनृष्ण नीनमः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । युक्षात् । अ०हसः । मुचत् । यः । वा । आर्यात् । सप्त । सिंधुषु ।  
+> वधः । दासस्य । तुविन्मृ । नीनमः ॥ २७ ॥
+
+### Printed p. 101
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वर्धचः परोक्षकृतः । य इंद्र ऋत्वात् ॥ यून् मनुष्यान्
+> क्षणोति । क्षणोतेर्णादिको दप्रत्ययः ॥ तस्माद्रक्षसो जातादंहसः पापरूपादुपद्रवान्मुचत् मुंचति । राक्षस एनं न बाधते किं पुनस्तं हंतीत्यर्थः । अपि च य
+> इंद्रः सप्त सिंधुषु गंगाद्यासु नदीषु । यद्वा । सप्त सर्पणशीलासु सिंधुषु ।
+> तत्कूलेष्टित्यर्थः । गंगायां घोष इतिवत् । पा. १-४-४२ । तेषु वर्तमानानां
+> स्तोतृणामार्यात् धनादिकं प्रेरयेत् ॥ ऋ गतिप्रापणयोः । आशीर्लिजि
+> गुणोर्तिसंयोगाद्योः । पा. ७-४-२९ । इति गुणः । बहुलं छंदसीति
+> लिज्यप्यादागमः ॥ अथ प्रत्यक्षः । हे तुविनृम्म बहुधनेंद्र दासस्योपक्षपयितुरसुरस्य
+> वधर्हननसाधकमायुधं नीनमः । नमय ॥
+
+##### Gist of the bhāṣya
+
+The first half of the Ṛk is in the third person (परोक्षकृतः (*parokṣakṛtaḥ*)). Indra is the one who frees from the affliction, the sin, born of the rākṣasa (the sense of यक्षात् (*yakṣāt*) is given as the harm-doer of men): the rākṣasa does not trouble him, much less does he kill him; this is the meaning. Further, Indra is the one who, in the seven rivers, the Gaṅgā and the rest, or else in the seven flowing rivers, that is, on their banks, sends wealth and the like to the praisers who dwell there. Then comes the direct address: O Tuvinṛmṇa, Indra of much wealth, bend, that is, hurl, the weapon, the instrument of killing, against the Dāsa, the asura who harms. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- यक्षात् (*yakṣāt*)—arisen from the rākṣasas who are the harmers of men
+- अंहसः (*aṃhasaḥ*)—from sin
+- मुचत् (*mucat*)—frees the sacrificers
+- यः वा (*yaḥ vā*)—who
+- सप्त (*sapta*)—seven in number
+- सिंधुषु (*siṃdhuṣu*)—in the rivers, the Gaṅgā and the rest
+- आर्यात् (*āryāt*)—sends many kinds of wealth (he is Indra indeed)
+- तुविनृष्ण (*tuvinṛṣṇa*)—O Indra, possessor of many kinds of wealth
+- दासस्य (*dāsasya*)—of the harming asura
+- वधः (*vadhaḥ*)—the weapon, the instrument of killing
+- नीनमः (*nīnamaḥ*)—apply
+
+##### भावार्थ (Bhāvārtha)
+
+He who frees the sacrificers from the sin arisen from the rākṣasas who harm men, he who sends many kinds of wealth in the seven rivers, the Gaṅgā and the rest, is Indra indeed. O Indra, possessor of many kinds of wealth, apply against him the weapon, the instrument of killing, of the harming asura.
+
+##### English translation
+(He it is) who rescues men from the wickedness of evil beings, who enriches (the dwellers) on the seven rivers: now hurl, you who abound in wealth, your weapon at the Dasa.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ वरो सु॒षाम्णे॑ स॒निभ्य॒ आ व॑हो र॒यिं ।  
+> व्य॑श्वेभ्यः सुभगे वाजिनीवति ॥ २८ ॥
+
+### Printed p. 102
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । वरो इति । सुसाम्ने । सनिभ्यः । आ । अवहः । रयिं ।  
+> विअश्वेभ्यः । सुभगे । वाजिनीववति ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनेन तृचेन वरोर्दानं स्तूयते । हे वरो वरुनामक राजन् सुषाम्न्य
+> सुसाम्मे सुषमाख्यं राजानं स्वपितरमुद्दिश्य तस्योत्तमलोकप्राप्त्यर्थं सनिभ्यो
+> भिक्षमाणेभ्य आ कोशादाहृत्य रयिं धनं यथा पुरावहः प्रापितवानसि अत
+> एवविदानीं व्यश्वेभ्यो व्यश्वपुत्रेभ्योऽस्मभ्यं धनमावह । वाजिनीवतीति पदलिंगादियमुषस्या । अयं तृचोप्युषस्य इति शौनकेनोक्तं । यथा वरो सुषाम्न्य
+> इत्युत्तमसौषसस्त्र च इति । हे सुभगे शोभनधनयुक्ते वाजनीवत्यन्नवति ॥
+> मतुबनुवादार्थः ॥ यद्वा । वाजो वाजनं गमनमस्यास्तीति वाजिन्यन्नं । तद्वति
+> हे उषः त्वं चास्मभ्यं धनं प्रयच्छ । वरोर्बहुधनदानात्तस्य दानस्तुतिः । यद्वा ।
+> विश्वमना ऋषिर्वरुं संबोध्याह । हे सुभगे शोभनधने वाजिनीवत्यन्नवति
+> हे उषः यथा त्वं सुषाम्न्य सुषामनाम्मॆ मम पित्रे धनं दत्वा तेनैव सुषाम्न्य
+> सनिभ्यो याचमानेभ्यो धनं यथा प्रापितवत्यसि तेन यथा दानमकारयः एवं
+> मह्यमपि धनं दत्वा व्यश्वेभ्यः ॥ पूजायां बहुवचनं ॥ व्यश्वपुत्राय विश्वमनसे
+> धनं प्रापयेति मयापि दानं करोषि । हे वरो उपसमेवं वदेत्यृषिराह ॥
+
+##### Gist of the bhāṣya
+
+By this group of three Ṛks the generosity of Varu is praised. O Varu, king so named: for Suṣāman, the king of that name, your own father, for the winning of the highest world for him, you formerly brought wealth taken from your treasury to the petitioners (सनिभ्यो (*sanibhyo*)). So now bring wealth to us, the sons of Vyaśva (व्यश्वेभ्यो (*vyaśvebhyo*)). From the word वाजिनीवति (*vājinīvati*), which has the feminine form, this Ṛk is addressed to Uṣas. Śaunaka also says that this group of three is addressed to Uṣas, and that the Ṛk "yathā varo suṣāmṇye" belongs to the Uttama Sauṣasa Sūkta. O Subhagā, you who possess goodly wealth, O Vājinīvatī, possessor of food: the suffix is restating what is already known. Or else: वाज (*vāja*) is going, and वाजिन्यन्नं (*vājinyannaṃ*) is food, so, O Uṣas, possessor of that, give us wealth as well. Because Varu gave much wealth, his generosity is praised. Or else: the seer Viśvamanas, addressing Varu, says: O Subhagā, Vājinīvatī, Uṣas, as you gave wealth to my father Suṣāman, and by that wealth had gifts made to the petitioners, so now give wealth to me also, to the Vyaśvas (the plural is one of respect), the son of Vyaśva, Viśvamanas, and so bring about gifts through me also. O Varu, speak thus to Uṣas, the seer says. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरो (*varo*)—O king named Varu
+- सुषाम्णे (*suṣāmṇe*)—for your father named Suṣāman, for the attainment of the highest world
+- स निभ्यः (*sa nibhyaḥ*)—to petitioners
+- आ (*ā*)—taking from your treasury
+- रयिं (*rayiṃ*)—wealth
+- यथा (*yathā*)—in what manner (formerly)
+- अवहः (*avahaḥ*)—you gave (so also)
+- व्यश्वभ्यः (*vyaśvabhyaḥ*)—to us also, the sons of Vyaśva, now give
+- सुभगे (*subhage*)—you who have goodly wealth
+- वाजिनीवति (*vājinīvati*)—you who have food, O Uṣas (you also give wealth to us)
+
+##### भावार्थ (Bhāvārtha)
+
+O king named Varu, as you formerly gave wealth, taken from your treasury, to petitioners for the attainment of the highest world for your father Suṣāman, so now give to us also, the son of Vyaśva. O Uṣas, possessed of goodly wealth and of food, you also give wealth to us.
+
+### Printed p. 103
+
+##### English translation
+As you, Varu, have distributed vast wealth to those who have solicited triches) on behalf of Sushaman. (so do you now distribute) to the descendants of Vyshwa: (and so too you), auspicious food-bestowing (Ushas). **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+Addressing वरो (*varo*) as a king named Varuṇa, the commentator says that another meaning is also possible: "O Varuṇa, you pray to Uṣas. As Uṣas formerly provided wealth to Suṣāman and through him had wealth given to all the petitioners, so now have it given to me also; pray thus on our behalf." **NOTE**
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ना॒र्यस्य॒ दक्षि॑णा॒ व्य॑श्वा एतु सो॒मिनः॑ ।  
+> स्थू॒रं च॒ राधः॑ श॒तव॑त्स॒हस्र॑वत् ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नार्यस्य । दक्षिणा । विआश्वान् । एतु । सोमिनः ।  
+> स्थूरं । च । राधः । शतवत् । सहस्रवत् ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आनया धनमृषिरादत्तवानित्याह । नार्यस्य । नरहितो नर्यः । तस्यापत्यं
+> नार्यः ॥ तस्मात्संबंधमात्रे तस्येदमित्यण् ॥ तस्य सोमिनः सोमवतो
+> यजमानस्य । यद्वा । व्यश्वानां विशेषणं । तादृशस्य वरोर्दक्षिणा दानं
+> सोमवतो व्यश्वान् व्यश्वपुत्रानस्मान्नैतु । आगच्छतु । किंच स्फूरं स्कूलं शतवत्सहस्रवच्छतसहस्रधनयुक्तं राधोऽन्नं चास्मानागच्छतु ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk the seer says that he has received the wealth. नार्यस्य (*nāryasya*): one who is good for men is नर्यः (*naryaḥ*), his descendant is नार्यः (*nāryaḥ*); the aṇ affix is used for a mere relationship. Of him, the possessor of soma, the sacrificer; or else, this is an epithet of the Vyaśvas. May the gift (दक्षिणा (*dakṣiṇā*)) of such a Varu come to us, the sons of Vyaśva, who are possessors of soma. Further, may abundant wealth (राधः (*rādhaḥ*)), that is food, endowed with hundreds and thousands, come to us as well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नार्यस्य (*nāryasya*)—of Varu, the son of Narya, who is good for men
+- दक्षिणा (*dakṣiṇā*)—the gift
+- सोमिनः (*sominaḥ*)—the sacrificers who offer soma
+- व्यश्वान् (*vyaśvān*)—us, the son of Vyaśva
+- अएतु (*aetu*)—may it come and join
+- स्फूरं (*sphūraṃ*)—abundant
+- शतवत् (*śatavat*)—numbering hundreds
+- सहस्रवत् (*sahasravat*)—numbering thousands
+- राधः चॆ (*rādhaḥ cè*)—food and wealth also, may they come and join us
+
 ---
 
-**Progress note:** Done through printed p. 97. Ṛk 18 (end) to Ṛk 24 (begin) of Sūkta 24 (pp. 92-97)
+**Progress note:** Done through printed p. 103. Ṛk 24 end, Ṛk 25-29 (VIII.24)
