@@ -11182,6 +11182,235 @@ Kaṇva and Pragātha were both sons of the seer Ghora. After the two had finish
 
 While Kaṇva and Pragātha were living together in the forest, once the younger one, Pragātha, lay down on the lap of Kaṇva's wife and fell asleep. For a long time he did not wake up. Then the elder one, Kaṇva, saw this.
 
+### Printed p. 281
+
+Kaṇva, who wished to curse him, was angry and suspected a sin; he woke him with his foot, as though he wished to burn him with his fiery power. शप्तकामस्तु तं कण्वः क्रुद्धः पापाभिशंकया । बोधयामास पादेन दिधक्षन्निव तेजसा ॥ (*śaptakāmastu taṃ kaṇvaḥ kruddhaḥ pāpābhiśaṃkayā | bodhayāmāsa pādena didhakṣanniva tejasā ‖*) (37)
+
+Seeing this, Kaṇva was seized with great anger towards Pragātha. Suspecting a sinful deed in Pragātha, he resolved to curse him. He kicked him awake and looked at him with a cruel glance full of his fiery power, as if to burn him up.
+
+Pragātha understood his intention and stood with folded hands, choosing the two of them as mother and as father. विदित्वा तस्य तं भावं प्रगाथः प्रांजलिस्थितः । मातृत्वे च पितृत्वे च वरयामास तावुभौ ॥ (*viditvā tasya taṃ bhāvaṃ pragāthaḥ prāṃjalisthitaḥ | mātṛtve ca pitṛtve ca varayāmāsa tāvubhau ‖*) (38)
+
+Understanding from Kaṇva's glance, full of suspicion and anger, what was in his mind, Pragātha folded his hands in salutation. He made known his own blameless conduct to Kaṇva and, with devotion, told him that since Kaṇva and his wife were to him like father and mother, he would never attempt that sinful act.
+
+This seer, known as Ghora's son or as Kaṇva's son, together with many others of his lineage and with others, saw the eighth Maṇḍala. स फौरो नाथ काण्वो वा वंशजैर्बहुभिः सह । ददर्शानैश्च सहित ऋषिर्मंडलमष्टमं ॥ (*sa phauro nātha kāṇvo vā vaṃśajairbahubhiḥ saha | dadarśānaiśca sahita ṛṣirmaṃḍalamaṣṭamaṃ ‖*) (39)
+
+The seer of the mantras, known as the son of Ghora or the son of Kaṇva, together with the other seers of the same Kaṇva lineage, became the maker of the eighth Maṇḍala of the Ṛk-Saṃhitā. Thus the Bṛhaddevatā states the circumstance by which the eighth Maṇḍala of the Ṛk-Saṃhitā became famous under the name Kāṇva-maṇḍala.
+
+But it is understood that in many contexts the word Kaṇva does not denote a proper name. According to the context the word Kaṇva is interpreted as "praiser" and as "wise man"; in such contexts it cannot be said to mean the seer Kaṇva. For example:
+
+ईळते त्वामवस्यवः कण्वासो व्यक्तबर्हिषः । हविष्मंतो आरंकृतः ॥ (*īḷate tvāmavasyavaḥ kaṇvāso vyaktabarhiṣaḥ | haviṣmaṃto āraṃkṛtaḥ ‖*) (Ṛ. Saṃ. 1-14-5)
+
+Here Sāyaṇa explains the word Kaṇva thus: कणशब्दार्थः । कणंति ध्वनंति स्तोत्रादिपाठेनेति कण्वाः ऋत्विजः (*kaṇaśabdārthaḥ | kaṇaṃti dhvanaṃti stotrādipāṭheneti kaṇvāḥ ṛtvijaḥ*). The word Kaṇva is formed from the root kaṇ, which gives the meaning "sound". Sāyaṇa states that the name is current for the officiating priests because they make sounds in the form of praise. It is explained that, just as the affix va joined with the root aś gives "अश्व (*aśva*)", so the affix va added to the root kaṇ gives the word "कण्व (*kaṇva*)". In the same way,
+
+### Printed p. 282
+
+कण्वासस्ता, सुतसोमास इंथते (*kaṇvāsastā, sutasomāsa iṃthate*) (1-44-8)
+दिवस्कण्वास इंदवो वसु सिंधूनां पदे (*divaskaṇvāsa iṃdavo vasu siṃdhūnāṃ pade*) (1-46.9)
+
+in such passages also it is explained in the same way. If one objects that these praisers must be understood as sons of Kaṇva, then in answer he has explained कण्वपुत्राः यद्वा मेधाविनः ऋत्विजः (*kaṇvaputrāḥ yadvā medhāvinaḥ ṛtvijaḥ*) (1-46-9). That is, there is no rule that the Kaṇvas must be Kaṇva himself or the sons of Kaṇva. In about twelve contexts Sāyaṇa has explained it in this way. In such contexts Sāyaṇa's explanation seems appropriate.
+
+In the Ṛk-Saṃhitā the word Kaṇva is used directly in about sixty-five mantras. Of these, 22 mantras are addressed to Indra, 18 to the Aśvins, 12 praise Agni, 7 have the Maruts as deity, 2 praise Uṣas, 1 praises Indra and Agni and 1 the Viśvedevas.
+
+In the mantras that praise Agni, only the manner of kindling Agni is praised. There is the praise that Agni, kindled by the Kaṇvas, shines exceedingly. Agni kindled by the Kaṇvas is praised as *kaṇvatama*. For example:
+
+स इदग्निः कण्वतमः कण्वसखार्यः परस्यांतरस्य तरुषः ॥ (*sa idagniḥ kaṇvatamaḥ kaṇvasakhāryaḥ parasyāṃtarasya taruṣaḥ ‖*) (Ṛ. Saṃ. 10-125-5)
+
+*Kaṇvatama* is an epithet of Agni. The word Kaṇva means praiser, and kaṇvatama means one who praises exceedingly. *Kaṇvasakha*, that is, friend of the praiser, is explained likewise.
+
+Generally, in all the praises directed to Indra, the word Kaṇva means the seer Kaṇva or a seer born in the Kaṇva lineage. There are also many contexts that indicate the power of this seer and of the seers born in his line. For example:
+
+धीभिः सातानि काण्वस्य वाजिनः प्रियमेधैरभिद्युभिः । षष्टिं सहस्रानु निर्मचामजे निर्यूथानि गवामृषिः ॥ (*dhībhiḥ sātāni kāṇvasya vājinaḥ priyamedhairabhidyubhiḥ | ṣaṣṭiṃ sahasrānu nirmacāmaje niryūthāni gavāmṛṣiḥ ‖*) (Ṛ. Saṃ. 8-4-20)
+
+Here the greatness of the praise of the seer Kaṇva is described. The sacrificers, pleased with this great seer's praise, gave excellent cows to the number of sixty thousand; this tells of the contentment and the generosity that were the fruit of the praise. Besides this, other seers also compared their
+
+### Printed p. 283
+
+skill in composition with the praises of Kaṇva, and from this Kaṇva's power of composition is understood.
+
+अहं प्रश्नेन मन्मना गिरः शुंभामि कण्ववत् । येनेंद्रः शुष्ममिद्दधे ॥ (*ahaṃ praśnena manmanā giraḥ śuṃbhāmi kaṇvavat | yeneṃdraḥ śuṣmamiddadhe ‖*) (Ṛ. Saṃ. 8-6-11)
+
+Another seer, born in the Kaṇva lineage, says: "I shall compose a praise as excellent and as full of meditation as the work of that seer Kaṇva by whose praise Indra was pleased."
+
+इत्थ दीवंतमद्रिवः काण्वं मेध्यातिथिं । मॆषो भूतो३ऽभि यन्नयः ॥ (*ittha dīvaṃtamadrivaḥ kāṇvaṃ medhyātithiṃ | mèṣo bhūto3 'bhi yannayaḥ ‖*) (Ṛ. Saṃ. 8-2-40)
+
+The description that Indra, the wielder of the thunderbolt, came in the form of a ram to Medhyātithi, the son of Kaṇva, also tells of the greatness of Kaṇva and of the seers born in the Kaṇva line. Sentences such as कण्वासस्त्वा ब्रह्मभिः स्तोमवाहसः (*kaṇvāsastvā brahmabhiḥ stomavāhasaḥ*) (8-4-2) show the close relation between Indra and the Kaṇvas. It is also understood that in many contexts Indra is in the company of the Kaṇvas. In अ तू षिंच कण्वमंतं (*a tū ṣiṃca kaṇvamaṃtaṃ*) (8-2-22) and the like, the word kaṇvamantam is an epithet of Indra. There are many such contexts.
+
+Like Kaṇva, Praskaṇva also composed praises, praising Agni and others. But such praises are found in only two mantras. Of these, in the first,
+
+प्रियमेधवदत्रिवज्जातवेदो विरूपवित् । अंगिरस्वनहिव्रत प्रस्कण्वस्य श्रुधी हवं ॥ (*priyamedhavadatrivajjātavedo virūpavit | aṃgirasvanahivrata praskaṇvasya śrudhī havaṃ ‖*) (1-95-3)
+
+it is understood that Praskaṇva is the son of Kaṇva. Sāyaṇa too has explained him as the son of Kaṇva. Here the seer of the mantra prays that Agni accept his praises, just as he accepted the praises of the seers beginning with Priyamedha.
+
+The second is addressed to Indra.
+
+तत्त्वा यामि सुवीरं तद्ब्रह्म पूर्वचित्तये । येना यतिभ्यो भृगवे धने हिते येन प्रस्कण्वमाविथ ॥ (*tattvā yāmi suvīraṃ tadbrahma pūrvacittaye | yenā yatibhyo bhṛgave dhane hite yena praskaṇvamāvitha ‖*) (Ṛ. Saṃ. 8-3-9)
+
+It prays that Indra, who gave protection to Yati, Bhṛgu and the others, give protection to Praskaṇva also.
+
+### Printed p. 284
+
+Besides this, in many contexts the word Kaṇva is also used in the sense of a power possessed of darkness (A. Ve. 2-2-5). But here only the matter of Kaṇva and his lineage, the seers and maker of the eighth Maṇḍala of the Ṛk-Saṃhitā, is to be examined.
+
+Although the name of the seer Kaṇva is famous in the Purāṇas and the like, in the other Saṃhitās, Brāhmaṇas and so on this name is not so famous. Even in the Ṛk-Saṃhitā the word Kaṇva is often used in the ordinary sense of praisers.
+
+An account of the seers in the eighth Maṇḍala and of the sūktas and Ṛks seen by them:
+
+| No. | Name of seer | Maṇḍala | Sūkta | Number of Ṛks | Total Ṛks |
+|---|---|---|---|---|---|
+| 1 | Pragātha Kāṇva | 8 | 10 | 6 | (42) |
+| | | „ | 63 | 12 | |
+| | | „ | 64 | 12 | |
+| | | „ | 65 | 12 | |
+| 2 | Pragātha Ghaura or Kāṇva | 8 | 1 | 2 | (35) |
+| | | „ | 10 | 6 | |
+| | | „ | 48 | 15 | |
+| 3 | Medhātithi Kāṇva | „ | 62 | 12 | (252) |
+| | | 1 | 12 | 12 | |
+| | | „ | 13 | 12 | |
+| | | „ | 14 | 12 | |
+| | | „ | 15 | 12 | |
+| | | „ | 16 | 9 | |
+| | | „ | 17 | 9 | |
+| | | „ | 18 | 9 | |
+| | | „ | 19 | 9 | |
+| | | „ | 20 | 8 | |
+| | | „ | 21 | 6 | |
+| | | „ | 22 | 21 | |
+| | | „ | 23 | 24 | |
+| | | 8 | 1 | 3-29 = 27 | |
+| | | 8 | 2 | 42 | |
+| | | „ | 32 | 30 | |
+| | | 9 | 2 | 10 | (252) |
+| 4 | Medhyātithi Kāṇva | 8 | 1 | 3-29 = 27 | |
+
+**NOTE**
+
+### Printed p. 285
+
+| No. | Name of seer | Maṇḍala | Sūkta | Number of Ṛks | Total Ṛks |
+|---|---|---|---|---|---|
+| | | 8 | 3 | 24 | |
+| | | „ | 33 | 19 | |
+| | | 9 | 40 | 6 | |
+| | | „ | 42 | 6 | |
+| | | „ | 43 | 6 | (88) |
+| 5 | Āsaṅga Plāyogi | 8 | 1 | 30-33 = 4 | (4) |
+| | Śaśvatī (Āṅgirasī), wife of Āsaṅga | 8 | 1 | 34 = 1 | 1 (1) |
+| 6 | Priyamedha Āṅgirasa | 8 | 2 | 40 | |
+| | | „ | 68 | 19 | |
+| | | „ | 69 | 18 | |
+| | | „ | 87 | 6 | |
+| | | 9 | 28 | 6 | (89) |
+| 7 | Devātithi Kāṇva | 8 | 4 | 21 | (21) |
+| 8 | Brahmātithi Kāṇva | 8 | 5 | 39 | (39) |
+| 9 | Vatsa Kāṇva | 8 | 6 | 48 | |
+| | | „ | 11 | 10 | (58) |
+| 10 | Punarvatsa Kāṇva | 8 | 7 | 36 | (36) |
+| 11 | Sadhvaṃsa Kāṇva | 8 | 8 | 23 | (23) |
+| 12 | Śaśakarṇa Kāṇva | 8 | 9 | 21 | (21) |
+| 13 | Parvata Kāṇva | 8 | 12 | 33 | |
+| | | 9 | 104 | 6 | |
+| | | „ | 105 | 6 | (45) |
+| 14 | Nārada Kāṇva | 8 | 13 | 33 | |
+| | | 9 | 104 | 6 | |
+| | | „ | 105 | 6 | (45) |
+| 15 | Goṣūkti and Aśvasūkti | 8 | 14 | 15 | |
+| | | „ | 15 | 13 | (28) |
+| 16 | Iriṃbiṭha Kāṇva | 8 | 16 | 12 | |
+| | | „ | 17 | 15 | |
+| | | „ | 18 | 22 | (49) |
+| 17 | Sobhari Kāṇva | 8 | 19 | 37 | |
+| | | „ | 20 | 26 | |
+| | | „ | 21 | 18 | |
+| | | „ | 22 | 18 | |
+| | | „ | 103 | 14 | (113) |
+| 18 | Viśvasanā Vaiyaśva | 8 | 23 | 30 | |
+
+**NOTE**
+
+### Printed p. 286
+
+| No. | Name of seer | Maṇḍala | Sūkta | Number of Ṛks | Total Ṛks |
+|---|---|---|---|---|---|
+| | | 8 | 24 | 30 | |
+| | | „ | 25 | 24 | |
+| | | 8 | 26 | 25 | (109) |
+| 19 | Vyaśva Āṅgirasa | 8 | 26 | 25 | (25) |
+| 20 | Manu Vaivasvata | „ | 27 | 22 | |
+| | | „ | 28 | 5 | |
+| | | „ | 29 | 10 | |
+| | | „ | 30 | 4 | |
+| | | „ | 31 | 18 | (59) |
+| 21 | Kaśyapa Mārīca | 1 | 99 | 1 | |
+| | | 8 | 29 | 10 | |
+| | | 9 | 64 | 30 | |
+| | | „ | 67 | 4-6 = 3 | |
+| | | „ | 91 | 6 | |
+| | | „ | 92 | 6 | |
+| | | „ | 113 | 11 | |
+| | | „ | 114 | 4 | (71) |
+| 22 | Nīpātithi Kāṇva | 8 | 34 | 15 | (15) |
+| 23 | Śyāvāśva (Ātreya) | 5 | 52 | 17 | |
+| | | „ | 53 | 16 | |
+| | | „ | 54 | 15 | |
+| | | „ | 55 | 10 | |
+| | | „ | 56 | 9 | |
+| | | „ | 57 | 8 | |
+| | | „ | 58 | 8 | |
+| | | „ | 59 | 8 | |
+| | | „ | 60 | 8 | |
+| | | „ | 61 | 19 | |
+| | | „ | 81 | 5 | |
+| | | „ | 82 | 9 | |
+| | | 8 | 35 | 24 | |
+| | | „ | 36 | 7 | |
+| | | „ | 37 | 7 | |
+| | | „ | 38 | 10 | |
+| | | 9 | 32 | 6 | (186) |
+| 24 | Nābhāka Kāṇva | 8 | 39 | 10 | |
+
+### Printed p. 287
+
+| No. | Name of seer | Maṇḍala | Sūkta | Number of Ṛks | Total Ṛks |
+|---|---|---|---|---|---|
+| | | 8 | 40 | 12 | |
+| | | „ | 41 | 10 | |
+| | | „ | 42 | 6 | (38) |
+| 25 | Arcanānas (Ātreya) | 5 | 63 | 7 | |
+| | | „ | 64 | 7 | |
+| | | 8 | 42 | 6 | (20) |
+| 26 | Virūpa Āṅgirasa | 8 | 43 | 33 | |
+| | | „ | 44 | 30 | |
+| | | „ | 35 | 16 | (79) |
+| 27 | Triśoka Kāṇva | 8 | 45 | 42 | (42) |
+| 28 | Vaśa Aśva | 8 | 46 | 33 | (33) |
+| 29 | Trita Āptya | 1 | 105 | 19 | |
+| | | 8 | 47 | 18 | |
+| | | 9 | 33 | 6 | |
+| | | „ | 34 | 6 | |
+| | | „ | 102 | 8 | |
+| | | 10 | 1 | 7 | |
+| | | „ | 2 | 7 | |
+| | | „ | 3 | 7 | |
+| | | „ | 4 | 7 | |
+| | | „ | 5 | 7 | |
+| | | „ | 6 | 7 | |
+| | | „ | 7 | 7 | (106) |
+| 30 | Praskaṇva Kāṇva | 1 | 44 | 14 | |
+| | | „ | 45 | 10 | |
+| | | „ | 46 | 15 | |
+| | | „ | 47 | 10 | |
+| | | „ | 48 | 16 | |
+| | | „ | 49 | 4 | |
+| | | „ | 50 | 13 | |
+| | | 8 | 49 | 10 | |
+| | | 9 | 95 | 5 | (97) |
+| 31 | Puṣṭigu Kāṇva | 8 | 50 | 10 | (10) |
+| 32 | Śruṣṭigu Kāṇva | 8 | 51 | 10 | (10) |
+| 33 | Āyuti Kāṇva | 8 | 52 | 10 | (10) |
+
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 280. pp. 273-280 (batch API)
+**Progress note:** Done through printed p. 287. pp. 281-287 (batch API)
