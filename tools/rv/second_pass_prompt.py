@@ -42,8 +42,7 @@ V = {
 6: dict(scope="Maṇḍala 1 Sūktas 62–80 (Fifth Adhyāya of the First Aṣṭaka): printed pp. 2–619.",
  text="`vol6/html/rig_6_1.md` (front matter and pp. 2–81), `rig_6_1_0.md` (**p. 82 alone**: it joins p. 81 and p. 83 without a gap; the word-meaning list of Sūkta 63 Ṛk 6 ends on p. 81, p. 82 opens with its Bhāvārtha, and its last sentence runs on into p. 83), `rig_6_2.md` (pp. 83–382) and `rig_6_3.md` (pp. 383–619, to the printer's line). 60 pictures in `vol6/html/figures/`.",
  english="`vol6/Rigveda_Samhita_Vol6_English_Translation.md`. 115 `**GLOSS**` markers; 17 labelled glosses left.",
- special=["**Numerals (user, Nov 24 2026): the supplied Kannada documents of this volume have correct numerals; the user does not verify them.** Take every number and reference from the supplied text; the 183 numeral rows that earlier awaited the user are not needed. A difference between the English and the supplied text is therefore settled in favour of the supplied text, with a logged repair; no question to the user. Never settle a number from memory."
- ]),
+ special=[]),
 }
 COMMON = """# Second pass of Volume {n} — prompt for a new session (Sonnet is enough)
 
@@ -53,6 +52,7 @@ You carry out the **second pass of Volume {n}** of the Rigveda translation (repo
 - **Scope:** {scope}
 - **Supplied text:** {text}
 - **English:** {english}
+- **Numerals (user, Nov 24 2026): the supplied Kannada documents of Vols 1–6 have correct numerals; the user does not verify them.** Take every number and reference from the supplied text; the user's numeral files (where they exist) are not needed. A difference between the English and the supplied text is settled in favour of the supplied text with a logged repair, with no question to the user. Never settle a number from memory.
 {special}
 
 Read first: `CLAUDE.md`, `volN/STATUS.md` (here `vol{n}/STATUS.md`), `docs/REQUIREMENTS.md` Parts B, I, J, K9, L, M, `docs/DESIGN.md` §14, `docs/LESSONS.md`, `docs/ERROR_KINDS.md` (the kind codes you will use). `pip install indic-transliteration rapidfuzz openpyxl`.
@@ -92,7 +92,7 @@ def main():
     d = os.path.join(ROOT, 'docs', 'prompts', 'second_pass'); os.makedirs(d, exist_ok=True)
     for n in ns:
         v = V[n]; special = '\n'.join('- ' + x for x in v['special'])
-        numrule = ("a number or reference is taken from the supplied text, whose numerals are correct (user, Nov 24 2026), with no question to the user;" if n == 6 else "a number or reference is taken from the supplied text (digits are what the machine reads best) unless the user's numeral file for that place says otherwise;")
+        numrule = "a number or reference is taken from the supplied text, whose numerals are correct (user, Nov 24 2026), with no question to the user;"
         t = COMMON.format(n=n, scope=v['scope'], text=v['text'], english=v['english'], special=special, numrule=numrule)
         t = t.replace('`volN/STATUS.md` (here `vol%d/STATUS.md`)' % n, '`vol%d/STATUS.md`' % n)
         open(os.path.join(d, f'VOL{n}.md'), 'w', encoding='utf-8').write(t); print(f'VOL{n}.md', len(t.split()), 'words')
