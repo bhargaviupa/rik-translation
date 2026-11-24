@@ -7901,9 +7901,9 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Translation of the bhāṣya:** "O Agni, *mānuṣeṣu*, among men, the Bhṛgus, great sages of that name, *divyāya janmane*, to attain divine birth, *dadhuḥ*, placed you like *cāruṃ rayiṃ na*, a beautiful treasure: in the ceremonies of the placing of fire they consecrated you with mantras by establishing you. How do you [stand]? *Janebhyaḥ suhavam*: easy to call for the sake of the sacrificers; *hotāram*, the invoker of the gods; *atithim*, to be honoured like a guest — or one who always goes to the places of the sacrifice of the gods; *vareṇyam*, worthy of choice; *mitraṃ na śevam*: as a friend gives happiness, so you are the one who gives happiness."
 
-**Pratipadārtha** *(p. 428)* — "**agne** — O Agni; **janebhyaḥ** — for the sacrificers; **suhavam** — one who has the power to sacrifice well; **hotāram** — (the invoker of the gods to the sacrifice); **atithim** — the guest (the best) — or one who comes to the place of the sacrifice at the proper time; **vareṇyam** — most desired; **mitram na** — like a friend; **śevam** — giver of happiness; **tvā** — you; **mānuṣeṣu** — among men; **bhṛgavaḥ** — the Bhṛgu sages; **divyāya janmane** — to obtain divine birth; **cāruṃ rayiṃ na** — like a beautiful treasure; **ā dadhuḥ** — placed and honoured."
+**Pratipadārtha** *(p. 428)* — "**agne** — O Agni; **janebhyaḥ** — for the sacrificers; **suhavam** — one who has the power to sacrifice well; **hotāram** — (the invoker of the gods to the sacrifice); **atithim** — the guest (the best) — or one who comes to the place of the sacrifice from time to time; **vareṇyam** — most desired; **mitram na** — like a friend; **śevam** — giver of happiness; **tvā** — you; **mānuṣeṣu** — among men; **bhṛgavaḥ** — the Bhṛgu sages; **divyāya janmane** — to obtain divine birth; **cāruṃ rayiṃ na** — like a beautiful treasure; **ā dadhuḥ** — placed and honoured."
 
-**Bhāvārtha** *(pp. 428–429)* — "O Agni, you are the performer of sacrifice for sacrificers, the invoker of the gods to the sacrifice, the dear guest, a friend as one who gives happiness. The Bhṛgu sages among men placed you in their sacrificial fire as a beautiful and desired treasure, in order to obtain divine birth, and honoured you."
+**Bhāvārtha** *(pp. 428–429)* — "O Agni, you are the performer of sacrifice for sacrificers, the invoker of the gods to the sacrifice, the dear guest, a friend as one who gives happiness. The Bhṛgu sages among men kept you as a beautiful and most desired treasure, in order to obtain divine birth, and nourished and honoured you."
 
 **English Translation (the source's own, p. 429)** — "The Bhrigus amongst men, for the sake of being born as gods, cherished you like a costly treasure. Agni, you sacrifice for men, you are the invoker of the gods, the welcome guest at sacrifices and you are to be esteemed like a loving friend."
 
@@ -7954,7 +7954,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Pratipadārtha** *(p. 431)* — "**sapta** — seven; **juhvaḥ** — the priests of the hotṛ's station; **vāghataḥ** — priests; **adhvareṣu** — in the sacrifices; **yajiṣṭham** — the most worshipful; **hotāram** — the invoker (of the gods to the sacrifice); **yam** — which Agni; **vṛṇate** — they choose and worship; **viśveṣām** — of all; **vasūnām** — of the riches; **aratim** — giver; **agnim** — Agni; **prayasā** — with food in the form of oblation; **saparyāmi** — I worship; **ratnam** — delightful fruit of rites (wealth); **yāmi** — I ask for."
 
-**Bhāvārtha** *(p. 431)* — "I worship, with food in the form of oblation, that Agni whom the seven priests who stand in the place of the hotṛ choose as the most worshipful invoker of the gods in sacrifices, the giver of all wealth; and I ask of him lovely wealth."
+**Bhāvārtha** *(p. 431)* — "I worship, with food in the form of oblation, that Agni whom the seven priests who stand in the place of the hotṛ invite and worship as the most worshipful invoker of the gods in sacrifices, the giver of all wealth; and I ask of him lovely wealth."
 
 **English Translation (the source's own, p. 431)** — "I worship with oblations that Agni whom the seven invoking priests invite as the invoker of the gods; who is most worthy of adoration at sacrifies [sic], and who is the giver of all riches; I solicit of him riches;"
 
@@ -7979,7 +7979,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **vṛṇate**: *vṛñ saṃbhaktau*, *kryādi*; *laṭ* third plural, *jha*; *kryādibhyaḥ śnā*; *ātmanepadeṣv anataḥ*: *at* for *jha*; the *ā* of *śnā* dropped (*śnābhyastayor ātaḥ*); no *guṇa* of the *ṛ* (*sārvadhātukam apit*, *kit*-like); *yat*: no *nighāta*; suffix-accent: middle-acute.
 - **aratim**: *ṛ gatiprāpaṇayoḥ*; Uṇādi *ati* (*vahivasyarti…*, U. Sū. 4-500 as printed here; the tail prints 4-60): *guṇa*; *uraṇ raparaḥ*; *citaḥ*: end-acute; accusative.
 - **saparyāmi**: *sapara pūjāyām*, in the *kaṇḍvādi* list: *kaṇḍvādibhyo yak* (Pā. Sū. 3-1-27): *yak*; *laṭ* first singular *mip*; *ato lope*: loss of the *a*; *atodīrgho yañi*: lengthening before *y*-ending; at the head of a pāda: no *nighāta*.
-- **yāmi**: *ṭuyāc yācñāyām*, *ubhayapadī*; *laṭ* first singular; *vyatyaya*: *mip*; the middle *c* dropped in the Veda. **|| 7 ||**
+- **yāmi**: *ṭuyāc yācñāyām*, *ubhayapadī*; *laṭ* first singular, *mip* suffix; the middle *c* dropped in the Veda. **|| 7 ||**
 
 ---
 
@@ -8028,11 +8028,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Vyākaraṇa-prakriyā** *(p. 435 — grammar page, noted briefly)*
 - **acchidrā**: *na chidrāṇi acchidrāṇi*; in the Saṃhitā *śeś chandasi bahulam*: the neuter ending *śi* lost.
-- **sūno sahasaḥ**: though the vocative *sūno* stands before, the genitive *sahasaḥ* is in construction with it (*parampi chandasi*): by *āmantritasya ca* the *nighāta* applies to the two words as a unit; hence at the beginning of the pāda the word *sūno* keeps accent where the *nighāta* is not applied.
+- **sūno sahasaḥ**: though the vocative *sūno* stands before, the genitive *sahasaḥ* is in construction with it (*parampi chandasi*): by *āmantritasya ca* the *nighāta* applies to the two words as a unit.
 - **śarma**: accusative plural; *supāṃ suluk*: the ending lost.
 - **yaccha**: *dāṇ dāne*; *loṭ* second singular; *sip* → *hi*; *pāghrādhmā…*: *yaccha*; *śap* after *a*: *luk* of *hi*; *nighāta*.
 - **ūrjo napāt**: *na pātayati iti napāt*; *nabhrāṇ napān nāsatyā…* (Pā. Sū. 6-3-75): *prakṛtibhāva*; *subāmantrite parāṅgavat svare* (Pā. Sū. 2-1-2): the preceding word counts as part of the following vocative; since this stands at the beginning of a pāda, no *nighāta*; *āmantritasya ca* (Pā. Sū. 6-1-198): initial-acute.
-- **pūrbhiḥ**: *pyā pālanapūraṇayoḥ*; *saṃpadādibhyaḥ kvip*: *kvip* in the action sense; *udoṣṭhyapūrvasya* (Pā. Sū. 7-1-102): *u*; *uraṇ raparaḥ*; *halica*: lengthening; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168): acute of the vibhakti. **|| 8 ||**
+- **pūrbhiḥ**: *pṛ pālanapūraṇayoḥ*; *saṃpadādibhyaḥ kvip*: *kvip* in the action sense; *udoṣṭhyapūrvasya* (Pā. Sū. 7-1-102): *u*; *uraṇ raparaḥ*; *halica*: lengthening; *sāvekācas tṛtīyādiḥ* (Pā. Sū. 6-1-168): acute of the vibhakti. **|| 8 ||**
 
 ---
 
@@ -8064,11 +8064,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *(The tail, pp. 436–437, is characterized: on* varūtham *(*vṛñ varaṇe*; *jyāvṛñbhyām ūthan*, U. Sū. 2-6; *nit*: initial-acute),* gṛṇate *(*śatur anumaḥ*: the ending acute),* vibhāvaḥ *(*ato manin…*: *vic*; *matup*; *mādupadhāyāḥ*: *v*; *matuvaso ru*),* maghavadbhyaḥ *(*maghavā bahulam*, Pā. Sū. 6-4-128: *tṛ*; *nānubandhakṛtam anekāltvam*, Pari. 6; *alo 'ntyasya*, Pā. Sū. 1-1-52),* makṣu *(*ṛci tunughamakṣu…*: lengthening),* dhiyāvasuḥ *(bahuvrīhi, first-member accent; *sāv ekācaḥ*; no *luk*, Vedic),* jagamyāt *(*gamḷ sṛpḷ gatau*; *liṅ*; *bahulaṃ chandasi*: *śap* → *ślu*).)*
 
-**Translation of the bhāṣya:** "O *vibhāvaḥ*, Agni of special radiance, *gṛṇate*, to the sacrificer who praises you: *varūtha* is a name for house — be a house that keeps off undesired things. O *maghavan*, wealthy Agni, *maghavadbhyaḥ*, to the sacrificers endowed with the wealth of oblation, be as happiness (*śarma*). O Agni, protect your praising devotee from *aṃhasaḥ*, the sin-doing enemy. May Agni, *dhiyāvasuḥ*, wealthy by rite or by wisdom, *prātaḥ*, in the morning, as now, on the next day too, *makṣu*, quickly, come (*jagamyāt*)."
+**Translation of the bhāṣya:** "O *vibhāvaḥ*, Agni of special radiance, *gṛṇate*, to the sacrificer who praises you: *varūtha* is a name for house — be a house that keeps off undesired things. O *maghavan*, wealthy Agni, *maghavadbhyaḥ*, to the sacrificers endowed with the wealth of oblation, be so that happiness (*śarma*) comes about. O Agni, protect your praising devotee from *aṃhasaḥ*, the sin-doing enemy. May Agni, *dhiyāvasuḥ*, wealthy by rite or by wisdom, *prātaḥ*, in the morning, as now, on the next day too, *makṣu*, quickly, come (*jagamyāt*)."
 
-**Pratipadārtha** *(p. 436–437)* — "**vibhāvaḥ** — O Agni of special radiance; **gṛṇate** — to the sacrificer who praises you; **varūtham** — a house (a shelter that wards off misfortune); **bhava** — be; **maghavan** — O wealthy Agni; **maghavadbhyaḥ** — to the wealthy (sacrificers who have the wealth of oblation); **śarma** — happiness; **bhava** — be; **agne** — O Agni; **gṛṇantam** — [one who] praises; **aṃhasaḥ** — from the sin-doing enemy; **uruṣya** — protect; **dhiyāvasuḥ** — Agni, rich by pure rites or wisdom; **prātaḥ** — in the morning (as now); **makṣu** — alertly; **jagamyāt** — may he come."
+**Pratipadārtha** *(p. 436–437)* — "**vibhāvaḥ** — O Agni of special radiance; **gṛṇate** — to the sacrificer who praises you; **varūtham** — a house (a shelter that wards off misfortune); **bhava** — be; **maghavan** — O wealthy Agni; **maghavadbhyaḥ** — to the wealthy (sacrificers who have the wealth of oblation); **śarma** — happiness; **bhava** — be; **agne** — O Agni; **gṛṇantam** — [one who] praises; **aṃhasaḥ** — from the sin-doing enemy; **uruṣya** — protect; **dhiyāvasuḥ** — Agni, rich by pure rites or wisdom; **prātaḥ** — in the morning (as now); **makṣu** — quickly; **jagamyāt** — may he come."
 
-**Bhāvārtha** *(p. 437)* — "O Agni of special radiance, be a shelter for the sacrificer who praises you. O wealthy Agni, be a source of happiness to the sacrificers who have the wealth of the oblation. O Agni, protect those who praise you from the enemy that does harm. May Agni, who is rich by pure rites, come graciously and alertly in the morning too."
+**Bhāvārtha** *(p. 437)* — "O Agni of special radiance, be a shelter for the sacrificer who praises you. O wealthy Agni, be a source of happiness to the sacrificers who have the wealth of the oblation. O Agni, protect those who praise you from sin (from the sin-doing enemy). May Agni, who is rich by pure rites, come graciously and quickly in the morning too."
 
 **English Translation (the source's own, p. 437)** — "Agni of various rays, be a house to him who praises you; wealthy Agni, be a source of happiness to the wealthy (sacrificers); protect, Agni, your worshippers from sin; may Agni who is rich with righteous deeds, come to us speedily in the morning."
 
@@ -8079,15 +8079,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **makṣu jagamyāt** — "*Śīghram āgacchatu*: a verb-form from the root *gam*."
 
 **Vyākaraṇa-prakriyā** *(pp. 437–439 — grammar pages, noted briefly)*
-- **bhava**: *bhū sattāyām*; *loṭ* second singular; *dvyaco 'tas…*; *dyaucotiśrīḥ*… [as printed: *dvyacotastiṅaḥ*]: final lengthening in the Saṃhitā.
+- **bhava**: *bhū sattāyām*; *loṭ* second singular; *dvyaco 'tas…* [as printed: *dvyacotastijaḥ*]: final lengthening in the Saṃhitā.
 - **varūtham**: *vṛñ varaṇe*; *jyāvṛñbhyām ūthan* (U. Sū. 2-163 as printed here; the tail prints 2-6): *ūthan*; *guṇa*; *uraṇ raparaḥ*; *nit*: initial-acute.
-- **gṛṇate**: *gṝ śabde* (here in the sense of praise); *śatṛ*; *kryādibhyaḥ śnā*; *prādīnāṃ hrasvaḥ*; *śatṛ* is *jit*-like: *śnābhyastayor ātaḥ*: the *ā* of *śnā* dropped; *ṇatva* for the *n* after *ṛ*; *śaturanumo nadyajādī*: ending acute.
-- **vibhāvaḥ**: *viśiṣṭā bhāḥ vibhāḥ*; *bhā dīptau*; *ato manin…* (Pā. Sū. 3-2-74): *vic*; *vibhāḥ asya asti*: *matup*; *mādupadhāyāś ca matoḥ* (Pā. Sū. 8-2-9): *v*; vocative: *matuvaso ruḥ sambuddhau* (Pā. Sū. 8-3-1): *ru*; *āmantritasya ca* (Pā. Sū. 8-1-19): *nighāta*.
-- **maghavadbhyaḥ**: *maghavā bahulam* (Pā. Sū. 6-4-128): *tṛ* substitute for the end of *maghavan*; the *ṛ* of *tṛ* is *it*-marked and so dropped; *nānubandhakṛtam anekāltvam* (*paribhāṣā* 6): the substitute does not replace the whole by reason of the marker; so it is an *anta*-substitute (*alo 'ntyasya*, Pā. Sū. 1-1-52).
+- **gṛṇate**: *gṝ śabde* (here in the sense of praise); *śatṛ*; *kryādibhyaḥ śnā*; *pvādīnāṃ hrasvaḥ*; *śatṛ* is *jit*-like: *śnābhyastayor ātaḥ*: the *ā* of *śnā* dropped; *ṇatva* for the *n* after *ṛ*; *śaturanumo nadyajādī*: ending acute.
+- **vibhāvaḥ**: *viśiṣṭā bhāḥ vibhāḥ*; *bhā dīptau*; *ato manin…* (Pā. Sū. 3-2-74): *vic*, all of which is lost; *vibhāḥ asya asti*: *matup*; *mādupadhāyāś ca matoḥ* (Pā. Sū. 8-2-9): *v*; vocative: *matuvaso ruḥ sambuddhau* (Pā. Sū. 8-3-1): *ru*; *āmantritasya ca* (Pā. Sū. 8-1-19): *nighāta*.
+- **maghavadbhyaḥ**: *maghavā bahulam* (Pā. Sū. 6-4-128): *tṛ* substitute for the end of *maghavan*; the *ṛ* of *tṛ* is *it*-marked and so dropped; *nānubandhakṛtam anekāltvam* (*paribhāṣā* 3): the substitute does not replace the whole by reason of the marker; so it is an *anta*-substitute (*alo 'ntyasya*, Pā. Sū. 1-1-52).
 - **uruṣya**: the root *uruṣya* in the sense of protection; *loṭ* second singular; at the head of the pāda: no *nighāta*.
 - **makṣū**: *ṛci tunughamakṣu…*: lengthening in the Saṃhitā.
 - **dhiyāvasuḥ**: bahuvrīhi; the instrumental ending not dropped in the Veda; *sāvekācas tṛtīyādiḥ*: the ending's acute; end-acute; *bahuvrīhau prakṛtyā pūrvapadam*: the first member's accent stays.
-- **jagamyāt**: *gamḷ gatau*; *liṅ* third singular; *bahulaṃ chandasi*: *śap* → *ślu*; *ślau*: doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*: *j*; *yāsuṭ*: *yāsuṭ parasmaipadeṣūdāttaḥ…*; *sulopa*; *liṅaḥ salopo 'nantyasya*: the *s* of *yāsuṭ* and the final *s* dropped; *nighāta*. **|| 9 ||**
+- **jagamyāt**: *gamḷ gatau*; *liṅ* third singular, *tip*; *itaś ca*: loss of the final; *bahulaṃ chandasi*: *śap* → *ślu*; *ślau*: doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*: *j*; *yāsuṭ*: *yāsuṭ parasmaipadeṣūdāttaḥ…*; *suṭ tithoḥ*: *suṭ* augment for the *t*; *liṅaḥ salopo 'nantyasya*: both non-final *s* dropped; *nighāta*. **|| 9 ||**
 
 **Closing note** *(p. 439, printed large)* — "**ಐವತ್ತ ಎಂಟನೆಯ ಸೂಕ್ತ ಸಮಾಪ್ತವು**" — "The fifty-eighth sūkta is ended."
 
@@ -8162,14 +8162,14 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **English Translation (the source's own, p. 441)** — "O Agni, whatever other fires there may be, they are but ramifications of you; all the immortals rejoice in you; you Vaiswanara, are the navel of men and uphold them like a deep-planted column."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 441**
-- **vayāḥ** — "*Vayā śākhā veter vātāyanā bhavanti* (Ni. 1-4): the word *vayas* means 'branch'. The Nirukta explains *vayaḥ* as a synonym of *śākhā*: '*vayaḥ śākhāḥ*'."
+- **vayāḥ** — "*Vayā śākhā veter vātāyanā bhavanti* (Ni. 1-4): the word *vayas* means 'branch'. The Nirukta explains *vayaḥ* as a synonym of *śākhā*: '*vayāḥ śākhāḥ*'."
 - **mādayante** — "*Hṛṣyanti*: if the gods are to rejoice greatly, Agni's help is absolutely necessary: that is the sense — without Agni they cannot be satisfied."
 - **vaiśvānara** — "*Viśve ca ime narāḥ viśvānarāḥ tatsaṃbandhī vaiśvānaraḥ*: Agni who abides in the heart of all men in the form of the belly-fire."
 - **upamit** — "One who establishes. This word may be made an epithet of Agni or of the post given as an illustration here: as a pillar planted to bear the burden of a house bears all the weight of the house, you, standing in the belly of men, are the support of the life of all."
 
 **Vyākaraṇa-prakriyā** *(pp. 442–443 — grammar pages, noted briefly)*
 - **mādayante**: *mada tṛptiyoge*, *curādi*; *satyāpapāśa…*: *ṇic* in the own sense; *ata upadhāyāḥ*: *vṛddhi*; *laṭ* third plural; *nighāta*.
-- **vaiśvānara**: *viśve ca ime narāś ca viśvānarāḥ*; *nare saṃjñāyām* (Pā. Sū. 6-3-129): lengthening of the first member; *viśvānarasya ayaṃ vaiśvānaraḥ*: *tasyedam* (Pā. Sū. 4-3-120): *aṇ*; *ñit*: *ādivṛddhi*; the vocative: *eṅhrasvāt sambuddheḥ*: *sulopa*; at the head of a pāda: no *nighāta*; *āmantritasya ca* (Pā. Sū. 6-1-198): initial-acute.
+- **vaiśvānara**: *viśve ca ime narāś ca viśvānarāḥ*; *nare saṃjñāyām* (Pā. Sū. 6-3-129): lengthening of the first member; *viśvānarasya ayaṃ vaiśvānaraḥ*: *tasyedam* (Pā. Sū. 4-3-120): *aṇ*; *ṇit*: *ādivṛddhi*; the vocative: *eṅhrasvāt sambuddheḥ*: *sulopa*; at the head of a pāda: no *nighāta*; *āmantritasya ca* (Pā. Sū. 6-1-198): initial-acute.
 - **nābhiḥ**: *ṇah bandhane*; *ṇo naḥ*: *na* for *ṇa*; *naho bhaś ca* (U. Sū. 4-565 as printed here; the tail prints 4-125): *iñ*; *bh* by *ante* for the root's *h*; *ñit*: *ata upadhāyāḥ*: *vṛddhi*; *ñnityādir nityam*: initial-acute.
 - **asi**: *as bhuvi*; *sip*; *tāsastyor lopaḥ* (Pā. Sū. 7-4-50): loss of *s*; *nighāta*.
 - **kṣitīnām**: *kṣi nivāsagatyoḥ*; *ktic ktau ca saṃjñāyām* (Pā. Sū. 3-3-174): *ktic*; *kit*: no *guṇa*; *citaḥ*: end-acute; genitive plural *nām*; *hrasvanadyāpo nuṭ*: *nuṭ*; *nāmi*: lengthening; *nāmanyatarasyām* (Pā. Sū. 6-1-177): acute of the vowel.
