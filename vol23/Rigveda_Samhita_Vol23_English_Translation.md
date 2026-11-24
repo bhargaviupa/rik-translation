@@ -29992,6 +29992,267 @@ As a wave of the waters, of the seas, rises up one upon another as if exhilarate
 - मदाः (*madāḥ*)—joys
 - व्यराजिषु (*vyarājiṣu*)—shine forth **NOTE**
 
+### Printed p. 716
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the waves of the oceans swell up abundantly one upon another, the hymns that praise you arise in abundance. Your joys too shine forth abundantly.
+
+##### English translation
+Your praise, Indra, mounts aloft like the exulting wave of the waters, your exhilarations have been manifested.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि स्तो॑म॒वर्ध॑न॒ इंद्रास्यु॑क्थ॒वर्ध॑नः ।  
+> स्तो॒त्कृ॒णामु॒त भ॑द्र॒कृत् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । स्तोमवर्धनः । इंद्र । असि । उक्तवर्धनः ।  
+> स्तोत्थाणां । उत । भद्रकृत् । ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं हि त्वं खलु स्तोमवर्धनः स्तोमेन त्रिवृत्पंचदशादिना वर्धनीयोऽसि । तथोक्तवर्धन उक्थैः शस्त्रैर्वर्धनीयैश्च त्वमेवासि । उतापि च
+> स्तोत्कणामस्माकं भद्रकृद्भद्रस्य कल्याणस्य फलस्य कर्तापि त्वमेवासि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you indeed are the one to be magnified by the stoma, the trivṛt, pañcadaśa and the rest. Likewise you are the one magnified by the ukthas, the recitations (śastras) and the things that magnify. And you alone are the maker of what is auspicious, the producer of the good fruit, for us the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं हि (*tvaṃ hi*)—you indeed
+- स्तोमवर्धनः (*stomavardhanaḥ*)—one who grows by the stomas such as the trivṛt
+- असि (*asi*)—you are
+- उक्तवर्धनः (*uktavardhanaḥ*)—you are one who is also magnified by the śastra-mantras
+- उत (*uta*)—and
+- स्तोत्कणां (*stotkaṇāṃ*)—to us, the praisers
+- भद्रकृत् (*bhadrakṛt*)—you are also the one who produces welfare
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are one who grows by the stomas such as the trivṛt. The śastra-mantras too are the means of your increase. And you are also the giver of welfare to us, the praisers.
+
+### Printed p. 717
+
+##### English translation
+You Indra, are to be magnified by praise, you are to be magnified by prayer; you are the benefactor of those who praise you.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒मित्के॒शिना॒ हरी॑ सोम॒पेया॑य वक्षतः ।  
+> उप॑ य॒ज्ञं सु॒राध॑सं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । इत् । केशिना । हरी इति । सोम्रपेयाय । वक्षतः ।  
+> उप । यज्ञं । सुराधसं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> केशिना केशिनौ । मूर्धजानि लोमानि केशाः । तद्वंतौ हरी आश्वा सुराधसं
+> शोभनधनमिंद्रमिदिंद्रमेव युज्ञमुपास्मद्यज्ञं प्रति सोमपेयाय सोमपानार्थं वक्षतः । वहतां । यद्वा यज्ञं यष्टव्यमिंद्रमुपवहतां ॥
+
+##### Gist of the bhāṣya
+
+केशिना (*keśinā*) means "the two long-maned ones". Hair growing on the head is "kesha". The two horses that possess it carry Indra, the one of good wealth, indeed Indra alone, towards our sacrifice for the drinking of Soma. Or else: let them carry Indra, who is to be worshipped, to the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- केशिना (*keśinā*)—having excellent hair
+- हरी (*harī*)—the horses
+- सुराधसं (*surādhasaṃ*)—having excellent wealth
+- इंद्रमित् (*iṃdramit*)—Indra alone
+- सोमपेयाय (*somapeyāya*)—for drinking Soma
+- यज्ञं उप (*yajñaṃ upa*)—towards the sacrifice
+- वक्षतः (*vakṣataḥ*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+Let the horses with excellent manes bring Indra, who has excellent wealth, towards the sacrifice for the drinking of Soma.
+
+##### English translation
+Let the long-maned horses bring the wealth-bestowing Indra to the sacrifice to drink the Soma juice.
+
+### Printed p. 718
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पां फेने॑न॒ नमु॑चेः॒ शिर॑ इं॒द्रोद॑वर्तयः ।  
+> विश्वा॒ यदज॑यः॒ स्पृधः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपां । फेनेन । नमुचेः । शिरः । इंद्र । उत् । अवर्तयः ।  
+> विश्वाः । यत् । अजयः । स्पृधः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरा किलेंद्रोऽसुराञ्चात्वा नमुचिमसुरं ग्रहीतुं न शशाक । स च
+> युध्यमानस्तेनासुरेण जग्रहे । स च गृहीतमिंद्रमेवमवोचत् । त्वां विसृजामि
+> रात्रावह्नि च शुष्केणार्द्रेण चायुधेन यदि मां मा हिंसीरिति । स इंद्रस्तेन
+> विसृष्टः सन्नहोरात्रयोः सुधौ शुष्कार्द्रविलक्षणेन फेनेन तस्य शिरश्चिच्छेद ।
+> अयमर्थोऽस्यां प्रतिपाद्यते ॥ हे इंद्र अपां फेनेन वज्रीभूतेन नमुचीर-
+> 'सुरस्य शिर उदवर्तयः । शरीरादुद्धतमवर्तयः । अच्छैत्सीरित्यर्थः । कदेति चेत् ।
+> यद्यदा विश्वाः सर्वाः स्पृधः स्पर्धमाना आसुरीः सेना अजयः जितवानसि । इंद्रो
+> वृत्रं हत्वासुरान् .... .... .... ॥
+
+##### Gist of the bhāṣya
+
+Once, it is said, Indra, having conquered the asuras, could not seize the asura Namuci. Fighting, he was himself seized by that asura. Namuci said to the captive Indra: "I release you if you do not harm me with a dry or wet weapon, by night or by day." Released by him, Indra at the junction of day and night cut off his head with foam, which is neither dry nor wet. This is the matter set forth in this verse. O Indra, with the foam of the waters, become a thunderbolt, you struck off the head of the asura Namuci, you severed it from the body. If it is asked when: when you conquered all the contending asura armies. Then follows a quotation, abridged by dots in the print, beginning इंद्रो वृत्रं हत्वासुरान् (*iṃdro vṛtraṃ hatvāsurān*) .... .... .... .
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- विश्वाः (*viśvāḥ*)—all
+- स्पृधः (*spṛdhaḥ*)—the hostile armies that rushed against you
+- अजयः (*ajayaḥ*)—you conquered, then
+- अपां (*apāṃ*)—of the waters
+- फेनेन (*phenena*)—with the thunderbolt in the form of foam
+- नमुचेः (*namuceḥ*)—of the asura named Namuci
+- शिरः (*śiraḥ*)—the head
+- उदवर्तयः (*udavartayaḥ*)—you split off
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you conquered all the enemies who rushed against you, then with the thunderbolt in the form of the foam of the waters you split off the head of the asura Namuci.
+
+##### English translation
+You have struck off, Indra, the head of Namuchi with the foam of the waters, when you had subdued all your enemies
+
+### Printed p. 719
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा॒याभि॑रु॒त्सिसृ॑प्सत॒ इंद्र॒ द्यामा॒रुरु॑क्षतः ।  
+> अव॒ दस्यू॑रधूनुथाः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मायाभिः । उत्सिसृप्सतः । इंद्र । द्यां । आरुरुक्षतः  
+> अव । दस्यून् । अधूनुथाः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> .... .... .... हे इंद्र त्वमनाधूनुथाः । अवाङ्मुखं प्रेरितवानसि ॥
+
+##### Gist of the bhāṣya
+
+The block begins with dots (the beginning is not printed here) and then says: O Indra, you hurled down, you sent them head downward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मायाभिः (*māyābhiḥ*)—by their deceitful acts
+- उत् सिसृप्सतः (*ut sisṛpsataḥ*)—creeping and escaping
+- द्यां (*dyāṃ*)—to the atmosphere
+- अरुरुक्षतः (*arurukṣataḥ*)—who were climbing
+- दस्यून् (*dasyūn*)—the asuras
+- अव अधूनुथाः (*ava adhūnuthāḥ*)—you have cast down and destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have cast down and destroyed the asuras who, creeping and escaping by their deceitful acts, were climbing to the atmosphere.
+
+##### English translation
+You have hurled down, Indra, the Dasyus, gliding upwards by their devices and ascending to heaven.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒सु॒न्वामिं॑द्र सं॒सदं॒ विषू॑चीं॒ व्य॑नाशयः ।  
+> सो॒म॒पा उत्त॑रो॒ भव॑न् ॥ १५ ॥
+
+### Printed p. 720
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असुन्वां । इंद्र । संसदं । विषूचीं । वि । अनाशयः ।  
+> सोमपाः । उत्तरः । भवन् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं सोमपाः सोमस्य पाता भूत्वोत्तर उत्कृष्टतरो भवन्नसुन्वां सोमाभिषवहीनां संसदं जनसंहतिं विषूचीं परस्परविरोधेन विषु नानौ
+> गंत्रीं व्यनाशयः । विशेषेण नाशयसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, having become the drinker of Soma and more excellent, you utterly destroy the assembly of people, असुन्वां (*asunvāṃ*), that is, devoid of Soma-pressing, विषूचीं (*viṣūcīṃ*), going in different directions in mutual opposition (विषु (*viṣu*) meaning "in various ways").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सोमपाः (*somapāḥ*)—you being a drinker of Soma
+- उत्तरः (*uttaraḥ*)—having attained a most excellent place
+- भवन् (*bhavan*)—being
+- असुन्वां (*asunvāṃ*)—not offering Soma
+- संसदं (*saṃsadaṃ*)—the host of people (fallen from ritual)
+- विषूची (*viṣūcī*)—making them run in various directions
+- व्यनाशयः (*vyanāśayaḥ*)—you have killed them completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, being a drinker of Soma and holding a most excellent station, you have driven in various directions the host of people, fallen from ritual, who offer no Soma, and have destroyed them all completely.
+
+##### English translation
+You Indra, the most excellent drinker of the Soma, destroy the adverse assembly that offers no libations.
+
+## Sūkta 15 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तम्मभीति त्रयोदशर्चं तृतीयं सूक्तमौष्णिहमैंद्रं पूर्वोक्तावेवर्षि।
+> तथा चानुक्रम्यते । तम्मभि सप्तोनौष्णिहमिति ॥ महाव्रते निष्केवल्य औष्णिहतृचाशी-
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तम्मभि (*tammabhi*), of thirteen verses, the third sūkta, is in the Uṣṇih metre, addressed to Indra, the seers being the same as before. So the Anukramaṇī says: तम्मभि सप्तोनौष्णिहमिति (*tammabhi saptonauṣṇihamiti*). In the Mahāvrata, in the niṣkevalya.
+
+### Printed p. 721
+
+> तावुत्तमावर्जमेतत्सूक्तं । सूत्र्यते हि । तम्मभि प्र गायतेत्युत्तमामुद्धरति ।
+> ऐ. आ. ५-२-५. । इति ॥ अभिप्लविकेषूक्ष्येषु तृतीयसवने ब्रह्मशस्त्र आद्यस्तृचो
+> वैकल्पिकोऽनुरूपः । सूत्रितं च । तम्मभि प्र गायत वयमु त्वामपूर्व्य ।
+> आ. ७-८. । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāvrata, in the niṣkevalya, this sūkta, except the last verse, is used for the Uṣṇih tṛca-verses. It is so stated in the sūtra: तम्मभि प्र गायतेत्युत्तमामुद्धरति (*tammabhi pra gāyatetyuttamāmuddharati*), Ai. Ā. 5-2-5. In the abhiplava ukthya rites, at the third pressing, in the brahma-śastra the first tṛca is the optional anurūpa. And it is stated in the sūtra: तम्मभि प्र गायत वयमु त्वामपूर्व्य (*tammabhi pra gāyata vayamu tvāmapūrvya*), Ā. 7-8.
+
+##### Anuvāda
+
+This sūkta beginning तम्मभि (*tammabhi*) is the third sūkta in the third anuvāka. It has thirteen ṛks. The seers of this sūkta are the same Goṣūkti and Aśvasūkti mentioned for the preceding sūkta; the deity is Indra; the metre is Uṣṇih. In the Anukramaṇī it is said: तम्मभि सप्तोनौष्ठिहं (*tammabhi saptonauṣṭhihaṃ*). In the Mahāvrata rite, when the niṣkevalya śastra-mantras are recited, the ṛks of this sūkta except the last are employed for the mantras in Uṣṇih metre, as is specified by the Aitareya Āraṇyaka (fifth Āraṇyaka) sentence तम्मभि प्र गायतेत्युत्तमामुद्धरति (*tammabhi pra gāyatetyuttamāmuddharati*) (Ai. Ā. 5-2-5). In the ukthya sacrifices connected with the abhiplava, in the śastra-mantras recited at the third pressing by the priest called Brahman, the first three ṛks of this sūkta are to be recited as the optional anurūpa tṛca, as explained by the Āśvalāyana Śrauta Sūtra तम्मभि प्र गायत वयमु त्वामपूर्व (*tammabhi pra gāyata vayamu tvāmapūrva*) (Ā. 7-8).
+
+Sūkta—15
+Maṇḍala 8; Anuvāka 3; Sūkta 15.
+Aṣṭaka 6; Adhyāya 1; Vargas 17, 18, 19.
+Number of ṛks in the sūkta—13.
+Ṛṣi: Goṣūkti and Aśvasūkti, the Kāṇvāyanas.
+Devatā: Indra.
+Chandas: Uṣṇih.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम्म्व॒भि प्रगा॑यत पुरुहू॒तं पु॑रुष्टु॒तं ।  
+> इंद्रं॑ गी॒र्भिस्त॑वि॒षमा वि॑वासत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ऊं इति । अभि । प्र । गायत । पुरुहूतं । पुरुस्तुतं ।  
+> इंद्रं । गीभिः । तविषं । आ । विवासत ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 715. pp. 709-715 (batch API)
+**Progress note:** Done through printed p. 721. pp. 716-721 (batch API)
