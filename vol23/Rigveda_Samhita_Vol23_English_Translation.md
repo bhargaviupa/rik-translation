@@ -6074,10 +6074,10 @@ In the Sārasvata animal sacrifice this Ṛk, "एकाचेतत् (*ekāce
 > नावृधे नर्यो योषणासु यस्य व्रतं पशवो यंति सर्वॆ । आ. ३-८ । इति ॥
 > मध्यस्थानो वायुः सरस्वान् । नर्यो नृभ्यो हितो वृषा सेचनसमर्थः
 > शिशुरल्पः प्रादुर्भावसमयेल्पतया दृश्यमानो वैषभो वर्षिता एवंभूतः स
-> సరస్वान् यज्ञियासु यज्ञार्हासु योषणासु योषित्सात्मनः कलत्रभूतासु
-> मध्यमस्थानास्वप्सु मध्यॆ ववृधे । वर्धते । स तादृशः సరస్వాన్ मघवद्यो हविष्मद्यो यजमानेభ్యो वाजिनं बलिनं पुत्रं दधाति । ददाति । तथा सातये लाभार्थं तन्नं तेषां शरीरं वि माम्यजीत । विमार्ष्टि । लाभार्थं संस्करोतीत्यर्थः ।
+> सरस्वान् यज्ञियासु यज्ञार्हासु योषणासु योषित्सात्मनः कलत्रभूतासु
+> मध्यमस्थानास्वप्सु मध्यॆ ववृधे । वर्धते । स तादृशः सरस्वान् मघवद्यो हविष्मद्यो यजमानेभ्यो वाजिनं बलिनं पुत्रं दधाति । ददाति । तथा सातये लाभार्थं तन्नं तेषां शरीरं वि माम्यजीत । विमार्ष्टि । लाभार्थं संस्करोतीत्यर्थः ।
 > यद्यपेषा सरस्वतः स्तुतिः तथापि सरस्वत्याः प्रीणनार्थं तत्सवनमिति च्छांदोमिके
-> సారస్వతే తృచేశ్యా ఉక్తో వिनियోగో న విరుధ్యతే ॥
+> सारस्वते तृचेश्या उक्तो विनियोगो न विरुध्यते ॥
 
 ##### Gist of the bhāṣya
 
@@ -15261,7 +15261,7 @@ I glorify those two (heaven and earth), the augmenters of water, the originators
 
 The third hymn, पिबा सुतस्य (*pibā sutasya*), of twenty-four ṛks, has as its seer Medhyātithi Kāṇva. The odd verses are Bṛhatī, the even verses Satobṛhatī. The twenty-first is Anuṣṭubh, the twenty-second and twenty-third are Gāyatrī, and the twenty-fourth is Bṛhatī. These last four set forth the praise of the gift of King Pākasthāman, son of Kurayāṇa, and so have that for their deity; the rest are addressed to Indra. As the Anukramaṇī says: पिब चतुर्विंशतिर्मेध्यातिथिः प्रागाथं त्वनुष्टुब्वायत्र्यौ बृहती चांत्याः कौरयाणस्य पाकस्थान्नो दानस्तुतिरिति ॥ (*piba caturviṃśatirmedhyātithiḥ prāgāthaṃ tvanuṣṭubvāyatryau bṛhatī cāṃtyāḥ kaurayāṇasya pākasthānno dānastutiriti ‖*).
 
-Use of the hymn. In the Mahāvrata, in the Niṣkevalya recitation, this hymn is used for the Bārhata tṛca-and-pragātha series with the exception of the praises of gifts; the seventh and eighth are taken up separately (*uddhāraḥ*). So it is laid down in the fifth Āraṇyaka: पिबा सुतस्य रसिन इति विंशतेः सप्तमीं चाष्टमीं चोद्धरति (*pibā sutasya rasina iti viṃśateḥ saptamīṃ cāṣṭamīṃ coddharati*) (Ai. Ā. 5-2-4). In the Jyotiṣṭoma, in the Niṣkevalya, the first pragātha to be recited is the Rathantara-sāma one, as is laid down: पिबा सुतस्य रसिन इति सामप्रगाथः (*pibā sutasya rasina iti sāmapragāthaḥ*) (Ā. 5-15). On the Cāturviṃśika day, in the Niṣkevalya, the pragātha is to be recited, as is laid down: उक्तो रथंतरस्कोभयं शृणवच्च न इति बृहतः (*ukto rathaṃtaraskobhayaṃ śṛṇavacca na iti bṛhataḥ*) (Ā. 7-3). So elsewhere too, wherever the Rathantara is the Pṛṣṭha, this pragātha is to be seen. On the fifth day, in the Praüga-śastra, this pragātha पिबा सुतस्य (*pibā sutasya*) is the Aindra one, as is laid down: पिबा सुतस्य रसिनो देवं देवं वोऽवसे (*pibā sutasya rasino devaṃ devaṃ vo 'vase*) (Ā. 7-12).
+Use of the hymn. In the Mahāvrata, in the Niṣkevalya recitation, this hymn is used for the Bārhata tṛca-and-pragātha series with the exception of the praises of gifts; the seventh and eighth are left out (*uddhāraḥ*). So it is laid down in the fifth Āraṇyaka: पिबा सुतस्य रसिन इति विंशतेः सप्तमीं चाष्टमीं चोद्धरति (*pibā sutasya rasina iti viṃśateḥ saptamīṃ cāṣṭamīṃ coddharati*) (Ai. Ā. 5-2-4). In the Jyotiṣṭoma, in the Niṣkevalya, the first pragātha to be recited is the Rathantara-sāma one, as is laid down: पिबा सुतस्य रसिन इति सामप्रगाथः (*pibā sutasya rasina iti sāmapragāthaḥ*) (Ā. 5-15). On the Cāturviṃśika day, in the Niṣkevalya, the pragātha is to be recited, as is laid down: उक्तो रथंतरस्कोभयं शृणवच्च न इति बृहतः (*ukto rathaṃtaraskobhayaṃ śṛṇavacca na iti bṛhataḥ*) (Ā. 7-3). So elsewhere too, wherever the Rathantara is the Pṛṣṭha, this pragātha is to be seen. On the fifth day, in the Praüga-śastra, this pragātha पिबा सुतस्य (*pibā sutasya*) is the Aindra one, as is laid down: पिबा सुतस्य रसिनो देवं देवं वोऽवसे (*pibā sutasya rasino devaṃ devaṃ vo 'vase*) (Ā. 7-12).
 
 ##### Anuvāda
 
@@ -16184,7 +16184,7 @@ The Bhrigus, like the Kanwas, have verily attained to the all-pervad-ing (Indra)
 - उग्रः (*ugraḥ*)—you who are of exceeding strength
 - सोमपीतये (*somapītaye*)—for the drinking of Soma
 - अर्वाचीनः (*arvācīnaḥ*)—facing us
-- ऋष्टेभिः (*ṛṣṭebhiḥ*)—with the Maruts of attractive form
+- ऋष्वेभिः (*ṛṣvebhiḥ*)—with the Maruts of attractive form
 - परावतः (*parāvataḥ*)—even from the very distant heaven
 - आ गहि (*ā gahi*)—be pleased to come
 
