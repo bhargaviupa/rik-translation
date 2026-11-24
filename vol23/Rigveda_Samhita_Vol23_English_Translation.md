@@ -26217,6 +26217,236 @@ O Agni, being in many regions you look upon all in an equal manner. You are lord
 ##### English translation
 You look upon many places, you are lord over all people ; we call upon you, in battles.
 
+### Printed p. 631
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मत्स्व॒ग्निमव॑से वाज॒यंतो॑ हवामहे ।  
+> वाजे॑षु चि॒त्ररा॑धसं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समत्सु । अग्निं । अवसे । वाजयंतः । हवामहे ।  
+> वाजेषु । चित्रराधसं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समत्सु सहमदनेषु संग्रामेषु वाजयंतो बलमिच्छंतो वयमवसौ
+> रक्षणार्थमग्निं हवामहे । कीदृशं । वाजेषु संग्रामेषु चित्रराधसं चाये
+> नीयधनं ॥
+
+##### Gist of the bhāṣya
+
+We, desiring strength (वाजयंतः (*vājayaṃtaḥ*)), call upon Agni for protection in the battles (समत्सु (*samatsu*), "the places of joint exhilaration", i.e. the fights). What kind of Agni? One who has wondrous wealth (चित्रराधसं (*citrarādhasaṃ*)) in battles, that is, wealth that is to be gathered.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समत्सु (*samatsu*)—in battles
+- वाजयंतः (*vājayaṃtaḥ*)—we who desire strength
+- वाजेषु (*vājeṣu*)—in battles
+- चित्रराधसं (*citrarādhasaṃ*)—who has attractive wealth
+- अग्निं (*agniṃ*)—Agni
+- अवसे (*avase*)—for protection
+- हवामहे (*havāmahe*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+We, who desire strength in battles, call for protection upon Agni, who has attractive wealth in battles.
+
+##### English translation
+Desiring strength, we call upon Agni for protection in battles ; upon him who is the granter of wounderful riches (won) in conflicts.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒त्तो हि क॒मीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒  
+> नव्य॑श्च॒ सत्सि॑ ।
+
+### Printed p. 632
+
+> स्वां चाग्ने तन्वं पिप्रयस्वास्मभ्यं च सौभगमा  
+> यजस्व ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रत्नः । हि । कं ! ईड्यः । अध्वरेषु । सनात् । च । होता । नव्यः । च ।  
+> सत्सि ।  
+> स्वां । च । अग्ने । तन्वं । पिप्रयस्व । अस्मभ्यं । च । सौभगं । आ ।  
+> यजस्व ॥ १८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अध्वरेषु यज्ञेष्टीड्यः स्तुत्यस्त्वं प्रत्नो हि चिरंतनः खलु भवसि !
+> कमिति पूरकः । तथा सनाच्चिरकालादारभ्य होता देवानामाह्वाता च सन्नव्यः स्तुत्यश्च
+> सन् सत्नि । यज्ञेषु निषीदसि । हे अग्ने देवानां हविर्वहंस्त्वं स्वां च तन्नमात्मीयं च शरीरं पिप्रयस्व । त्वदीयेन हविर्भागेन तर्पय । अस्मभ्यं स्तोतृभ्यश्च
+> सौभगं सुभगत्वं चा यजस्व । प्रदेहि ॥ सुभगशब्दाद्भावार्थे सुभगान्यंत्र इत्युद्गात्रादिषु पाठादज् प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are to be praised (ईड्यः (*īḍyaḥ*)) at the sacrifices are ancient (प्रत्नो हि (*pratno hi*), "indeed of old"); कं (*kaṃ*) is a filler. Likewise, from ancient time you are the invoker (होता (*hotā*)) of the gods, and being praiseworthy (नव्यः (*navyaḥ*)) you sit (सत्सि (*satsi*)) at the sacrifices. O Agni, carrying the oblation to the gods, gratify your own body (तन्वं (*tanvaṃ*)) with your own share of the oblation. To us, the praisers, grant good fortune (सौभगं (*saubhagaṃ*)); यजस्व (*yajasva*) means "give".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अध्वरेषु (*adhvareṣu*)—at the sacrifices
+- ईड्यः (*īḍyaḥ*)—you who are praised
+- प्रत्तो हि (*pratto hi*)—are very ancient
+- सनात् (*sanāt*)—from the beginning of time
+- होता च (*hotā ca*)—as the invoker of the gods
+- नव्यः च (*navyaḥ ca*)—and as one to be praised
+- सत्सि (*satsi*)—you are established at the sacrifices
+- अग्ने (*agne*)—O Agni
+- स्वां तन्वं (*svāṃ tanvaṃ*)—your body
+- पि प्रयस्स (*pi prayassa*)—gratify with oblations
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- सौभगं च (*saubhagaṃ ca*)—and prosperity
+- आ यजस्व (*ā yajasva*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are praised at the sacrifices and are very ancient. From the beginning of time, being the invoker of the gods and one to be praised, you hold the foremost place at the sacrifices. O Agni, gratify your body with oblations. Provide us with abundance of wealth.
+
+### Printed p. 633
+
+##### English translation
+You, the ancient, are to be hymned at sacrifices: from eternity the invoker of the gods, you sit (at the solemnity) entitled to laudation : cherish, Agni, your own person, and grant us prosperity.
+
+Verse of closing benediction:
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । (*vedārthasya prakāśena tamo hārdaṃ nivārayan |*)
+पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+Colophon: इति श्री मद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणामात्येन विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये (*iti śrī madrājādhirājaparameśvaravaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇāmātyena viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye*) पंचमाष्टकेs (*paṃcamāṣṭakes*) अष्टमोऽध्यायः समाप्तः (*aṣṭamo 'dhyāyaḥ samāptaḥ*) ॥ ओं तत्त्वत् ॥ (*‖ oṃ tattvat ‖*)
+
+Here ends the eighth chapter in the fifth aṣṭaka of the Ṛgveda-saṃhitā, with the commentary of Śrī Sāyaṇa and the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*)
+तत्सर्वं क्षम्यतां देव वागीश्वर नमोस्तु ते ॥ (*tatsarvaṃ kṣamyatāṃ deva vāgīśvara namostu te ‖*)
+॥ शुभं भूयात् ॥ (*‖ śubhaṃ bhūyāt ‖*) ॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+
+॥ श्री महागणाधिपतये नमः ॥ (*‖ śrī mahāgaṇādhipataye namaḥ ‖*)
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*)
+यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+यस्य निश्यसितं वेदा यो वेदेभ्योऽखिलं जगत् । (*yasya niśyasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*)
+निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*)
+तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda-saṃhitā with Sāyaṇa's commentary. Now, in the sixth aṣṭaka, the first chapter. (The first chapter in the sixth aṣṭaka.)
+
+## Sūkta 12 (Maṇḍala 8)
+The twelfth sūkta in the eighth maṇḍala.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इत्थं पंचमाष्टकं व्याख्यायेदानीमृषिच्छंदोदेवताविनियोगप्रदर्शनपुरस्सरं षष्ठस्य प्रथमोऽध्यायो व्याख्यातुमारभ्यते ॥ अष्टममंडलस्य द्वितीयेऽनुवाके षट् सूक्तानि जातानि । य इंद्रेति त्रयस्त्रिंशदृचं सप्तमं सूक्तं कण्वगोत्रस्य पर्वताख्यस्यार्षमौष्ठिहमैंद्रं । तथा चानुक्रांतं । य इंद्र त्रयस्त्रिंशत्पर्वत औष्ठिहं त्विति ॥ महाव्रते निष्केवल्य औष्ठिहतृचाशीताविदमादिके द्वे सूक्ते ।
+> तथैन पंचमारण्यके सूत्रते । औष्ठिही तृचाशीतिर्य इंद्र सोमपातनु इति
+> सूक्ते । ऐ. आ. ५-२-५ । इति ॥ दशमेऽहनि निष्केवल्य आदितः षडृचः शंसनीयाः ।
+
+##### Gist of the bhāṣya
+
+Having thus expounded the fifth aṣṭaka, he now begins to expound the first chapter of the sixth, preceded by the showing of seer, metre, deity and application. In the second anuvāka of the eighth maṇḍala six sūktas have arisen. The seventh sūkta, य इंद्र (*ya iṃdra*), of thirty-three Ṛks, has as its seer Parvata of the Kaṇva lineage; its deity is Indra; it is Auṣṭiha (Uṣṇih). So the Anukramaṇī says: य इंद्र त्रयस्त्रिंशत्पर्वत औष्ठिहं त्विति (*ya iṃdra trayastriṃśatparvata auṣṭhihaṃ tviti*). In the Mahāvrata, in the niṣkevalya recitation, two sūktas, this and the one beginning *aśītāvidamādike*, serve for the Uṣṇih tṛca. Likewise it is stated in the fifth Āraṇyaka: औष्ठिही तृचाशीतिर्य इंद्र सोमपातनु इति सूक्ते (*auṣṭhihī tṛcāśītirya iṃdra somapātanu iti sūkte*) … इति सूक्ते (*iti sūkte*) **NOTE** (Ai. Ā. 5-2-5). On the tenth day, in the niṣkevalya recitation, the first six Ṛks are to be recited.
+
+### Printed p. 636
+
+> सूत्र्यते हि । य इंद्र सोमपातम इति षळुष्टिहः । आ. ८-१२ । इति ॥ अभिप्लविके
+> षूक्ष्येषु तृतीयसवने ब्रह्मशस्त्र आद्यस्तृचो वैकल्पिकोऽनुरूपः । सूत्रितं च ।
+> य इंद्र सोमपातम एंद्र नो गधि । आ. ७-८ । इति ॥ तृतीये पर्यायेच्छावाकशस्त्रेऽप्ययमेव तृचोऽनुरूपः । सूत्रितं च । इंद्रः सुतेषु सोमेषु य इंद्र
+> सोमपातमः । आ. ६.४ । इति ॥
+
+##### Gist of the bhāṣya
+
+For this is stated in the sūtra: य इंद्र सोमपातम इति षळुष्टिहः (*ya iṃdra somapātama iti ṣaḷuṣṭihaḥ*) (Ā. 8-12). In the Abhiplava ukthya rites, at the third pressing, in the Brahmā's śastra, the first tṛca is an optional anurūpa; it is stated: य इंद्र सोमपातम एंद्र नो गधि (*ya iṃdra somapātama eṃdra no gadhi*) (Ā. 7-8). In the third round also, in the Acchāvāka's śastra, this same tṛca is the anurūpa; it is stated: इंद्रः सुतेषु सोमेषु य इंद्र सोमपातमः (*iṃdraḥ suteṣu someṣu ya iṃdra somapātamaḥ*) (Ā. 6.4).**NOTE**
+
+Kannada rendering of the introduction: Now that the exposition of the fifth aṣṭaka of the Ṛgveda-saṃhitā is finished, we begin the first chapter of the sixth aṣṭaka, with the exposition including the particulars of seer, deity and metre. In the preceding chapter six sūktas of the second anuvāka of the eighth maṇḍala were explained. The sūkta य इंद्र (*ya iṃdra*) at the start of this chapter is the seventh sūkta in the second anuvāka. It has thirty-three Ṛks. Its seer is Parvata of the Kaṇva lineage; the deity is Indra; the metre is Uṣṇih. The Anukramaṇī says: य इंद्र त्रयस्त्रंशपर्वत औष्ठिहं तु (*ya iṃdra trayastraṃśaparvata auṣṭhihaṃ tu*). In the Mahāvrata rite, when the niṣkevalya-śastra mantras are recited, this sūkta and the next are applied for the mantras in the Uṣṇih metre, as is indicated in the fifth Āraṇyaka of the Aitareya-āraṇyaka by the sentence औष्ठिही तृचाशीतिर्य इंद्र सोमपातम इति सूक्ते (*auṣṭhihī tṛcāśītirya iṃdra somapātama iti sūkte*) (Ai. A. 5-2-5).**NOTE** On the tenth day of the sacrifice, the first six Ṛks of this sūkta are to be recited for the niṣkevalya-śastra mantras, as explained by the Āśvalāyana-śrauta-sūtra य इ द्र सोमपातम इति षळुष्टिहः (*ya i dra somapātama iti ṣaḷuṣṭihaḥ*) (Ā. 8-12). In the ukthya sacrifices connected with Abhiplava, in the śastra mantras recited at the third pressing by the priest called Brahmā, the first three Ṛks of this sūkta are to be recited as the optional anurūpa tṛca, as explained by the Āśvalāyana-śrauta-sūtra य इंद्र सोमपातम ऐंद्र नो गधि (*ya iṃdra somapātama aiṃdra no gadhi*) (Ā. 7-8). And at the third round, in the śastra mantras recited by the priest called Acchāvāka, these same three Ṛks are to be recited as the anurūpa tṛca, as explained by the Āśvalāyana-śrauta-sūtra इंद्रः सुतेषु सोमेषु य इंद्र सोमपातमः (*iṃdraḥ suteṣu someṣu ya iṃdra somapātamaḥ*) (Ā. 6-2).
+
+Sūkta 12. Maṇḍala 8. Anuvāka 2. Sūkta 12. Aṣṭaka 6. Adhyāya 1. Vargas 1, 2, 3, 4, 5, 6. Number of Ṛks in the sūkta: 33. Seer: Parvata Kāṇva. Deity: Indra. Metre: Uṣṇih.
+
+### Printed p. 637
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इं॑द्र सोम॒पात॑मो॒ मदः॑ शविष्ठ॒ चेत॑ति ।  
+> येना॒ हंसि॒ न्य१॒॑त्रिणं॒ तमी॑महे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इंद्र । सोमपातमः । मदः । शविष्ठ । चेतति ।  
+> येन । हंसि । नि । अत्रिणं । तं i ईमहे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यस्त्वं सोमपातमोऽतिशयेन सोमस्य पाता । हे शविष्ठ बलवत्तम ॥ शव इति बलनाम । तस्माद्विनंतादातिशायनिक इष्टन् । विन्मतोर्लुक् ।
+> टिलोपः ॥ हे ईदृशेंद्र तस्य तव सोमपानजनितो यो मदश्चेतति सम्यग्ज्ञानि
+> वृत्रवधादीनि कार्याणि कर्तु० ॥ य इत्यस्य चेततीत्यनेनापि संबंधाद्यद्वृत्तानित्यमिति तिज्ञ निहन्यते ॥ अथवैतदेवं वाक्यं । हे बलवत्तमेंद्र सोमपातमः सोमस्य
+> पात्रतमो यस्त्वं मदः सोमैर्मादयितव्यस्तर्पणीयः संश्चतति ॥ पुरुषव्यत्ययः ॥ चेतसि सम्यग्ज्ञानासि ॥ मदोऽनुपसर्ग इति मदेः कर्मण्यप् ॥ येन सोमपानजनितेन मदेनात्रिणमत्तारं राक्षसादिकं नि हंसि नि हिनस्सि निकृष्टां हिंसां
+> प्रापयसि तं मदं तादृज्जदोपेतं त्वां वेमहे । याच्चाकर्मायं । याचामहे । यद्वा ॥ ई गतौ दैवादिकः । छांदसो विकरणस्य लुक् ॥ ईयामहे ।
+> उपगच्छामः । स्तुतिभिः संभजामह इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are the supreme drinker of Soma (सोमपातमः (*somapātamaḥ*)), O most strong (शविष्ठ (*śaviṣṭha*); शव (*śava*) is a name for strength): the exhilaration (मदः (*madaḥ*)) arising from your Soma-drinking is aware (चेतति (*cetati*)), that is, rightly knowing, to perform deeds such as the slaying of Vṛtra. Because य (*ya*) is connected also with चेतति (*cetati*) the verb is not made unaccented. Or else the sentence is thus: O most strong Indra, you who are the fittest vessel of Soma, are to be gladdened (मदः (*madaḥ*)) with Soma, to be satisfied, and you know (चेतति (*cetati*) in place of चेतसि (*cetasi*), a change of person; "you rightly know"). With which exhilaration arising from Soma-drinking you slay (नि हंसि (*ni haṃsi*)), bring low destruction to, the devourer (अत्रिणं (*atriṇaṃ*)), the rākṣasa and the like — you endowed with such exhilaration we ask (वेमहे (*vemahe*), "we beg"). Or else ईमहे (*īmahe*) is from the root ī, "to go": we approach, we resort to you with praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—you who
+- सोमपातमः (*somapātamaḥ*)—who drinks Soma in the highest degree
+- शविष्ठ (*śaviṣṭha*)—of exceeding strength
+- इंद्र (*iṃdra*)—O Indra
+- मदः (*madaḥ*)—which satisfaction arising from Soma-drinking
+- चेतति (*cetati*)—knows heroic deeds
+- येन (*yena*)—by which satisfaction
+- अत्रिणं (*atriṇaṃ*)—the all-devouring enemy
+- नि हंसि (*ni haṃsi*)—you slay
+- तं (*taṃ*)—such satisfaction
+- ई महे (*ī mahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who drink Soma in the highest degree and are of exceeding strength: the satisfaction arising from Soma-drinking, which knows heroic deeds, by which exhilaration you slay the all-devouring enemy — that satisfaction we ask for.
+
+### Printed p. 638
+
+##### English translation
+We solicit, most powerful Indra, who are the deep quaffer of the Soma, that exhilaration which contemplates (heroic deeds), whereby you slay the devourer (of men).
+
+##### विशेषविषयगळु (Special Topics)
+
+ईमहे (*īmahe*) can also be given the meaning "we worship". In the next two Ṛks also, the meaning "we worship" for तं ईमहे (*taṃ īmahe*) is the correct one.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येना॒ दश॑ग्व॒मध्रि॑गुं वे॒पयं॑तं॒ स्व॑र्णरं ।  
+> येना॑ समु॒द्रमावि॑था॒ तमी॑महे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । दशग्वं । अध्रुगुं । वेपयंतं । स्वःनरं ।  
+> येन । समुद्रं । आविथ । तं । ईमहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र येन सोमपानजनितेन मदेन दशग्वं । ये दशभिर्मासैः सत्तासनं परिसमाप्य निरगमन् ते दशग्वा अंगिरसः । तेषामन्यतममध्रिगुमधृतगमनमनिवारितगतिमेतत्संज्ञं चर्षिं वेपयंतं तमांसि वर्जयंतं स्वर्णरं सर्वस्य
+> नेतारं सूर्यं चाविथ वृत्रादेर्दस्कोरपनयनेन ररक्षिथ । येन च मदेन
+> समुद्रमुदधिमंतरिक्षं वाविथ ररक्षिथ । त्वदीयं मदं तद्वंतं त्वां वेमहे ।
+> याचामहे । मदे हि सति हृष्टः सन्निंद्रो बहु धनं प्रयच्छति । अतस्तत्कारणस्य
+> मदस्य याचोपपन्ना ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by which exhilaration arising from Soma-drinking you protected (आविथ (*āvitha*)) Daśagva — those who, having completed a sattra of ten months, came forth are the Daśagva Aṅgirases; one of them, called Adhrigu (अध्रुगुं (*adhruguṃ*)), "of unchecked going, of unobstructed course", a ṛṣi, who dispels darkness (वेपयंतं (*vepayaṃtaṃ*)) — and Sūrya (स्वर्णरं (*svarṇaraṃ*), the leader of all), by removing Vṛtra and other destroyers; and by which exhilaration you protected the ocean (समुद्रं (*samudraṃ*)), the sea or the atmosphere — we ask you who have such exhilaration (वेमहे (*vemahe*), "we beg"). For when exhilarated, delighted, Indra gives much wealth; hence the request for the exhilaration, its cause, is fitting.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) येन (*yena*)—by which exhilaration of the Soma juice
+- दशग्वं (*daśagvaṃ*)—him who completed (the sattra) in ten months
+
 ---
 
-**Progress note:** Done through printed p. 630. pp. 625-630 (batch API)
+**Progress note:** Done through printed p. 638. pp. 631-638 (batch API)
