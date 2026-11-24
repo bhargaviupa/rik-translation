@@ -18094,6 +18094,295 @@ O Aśvins, bring (वोळ्हं (*voḷhaṃ*), आवहतं (*āvahata�
 - नः (*naḥ*)—to us
 - गोमंतं (*gomaṃtaṃ*)—accompanied by cows
 
+### Printed p. 451
+#### Ṛk 11 (continued, Ṛk 10 ending)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवीरं (*suvīraṃ*)—endowed with heroic sons
+- सुरथं (*surathaṃ*)—endowed with an excellent chariot
+- अश्वावतीः (*aśvāvatīḥ*)—endowed with horses
+- रयिं (*rayiṃ*)—wealth
+- आ वोळ्हं (*ā voḷhaṃ*)—bring and supply
+- इषः (*iṣaḥ*)—food also, bring and supply
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, bring and supply to us wealth that is endowed with cattle, with heroic sons, with an excellent chariot and with horses. Bring and supply food also.
+
+##### English translation
+Bring to us, Aswins, riches comprising cattle, male offspring, chariots, horses, food.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒वृ॒धा॒ना शु॑भस्पती दस्रा॒ हिर॑ण्यवर्तनी ।  
+> पिब॑तं सो॒म्यं मधु॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववृधाना । शुभः । सती इति । दस्रा । हिरण्यवर्तनी इति हिरण्यवर्तनी ।  
+> । पिबतं । सोम्यं । मधु ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विदेवत्यस्याश्विन ग्रहस्य पावृधानेत्केषा याज्या । सूत्र्यते हि । होता
+> यक्षदश्विना नासत्या पावृधाना शुभस्पतिः । आ. ५-५ । इति ॥
+> हे शुभस्पती शुभः शोभनस्यां तागस्त्योपकस्य वा पती स्वामिनौ हे अश्विनौ ॥
+> सुबामंत्रित इति षष्ठंतस्य परांगवद्भावान् दिव्यमंत्रितसमुदायस्याष्टमिकं
+> सर्वानुदात्तत्वं ॥ दशसा दश-नीं यत्प्रजापुरुषयिकारौ ना हिरण्यवर्तनी
+> हिरण्मयमार्गौ । यद्वा । वर्तनि वर्तनमाचरतु । हितरुणीयाचरणौ । ववृधाना प्रवृद्धि ॥
+> वृधेर्लिटः कानच् ॥ ईदृशौ युवां सोम्यं सोमयुं मधु माधुर्योपेतं मदकरं वा रसं पिबितं ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the yājyā of the Āśvina graha, which has two deities; the Sūtra says: "The Hotṛ should recite 'aśvinā nāsatyā vāvṛdhānā śubhaspatī'" (Ā. 5-5). The address is to the Aśvins as शुभस्पती (*śubhaspatī*), lords (pati) of what is auspicious, or of the water that is auspicious. The vocative compound loses its accent as a whole. हिरण्यवर्तनी (*hiraṇyavartanī*) means those having golden paths (chariot-tracks); alternatively, whose conduct is beneficial and youthful. ववृधाना (*vavṛdhānā*) means grown great. Such as you are, drink the Soma juice, sweet or intoxicating.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभस्पती (*śubhaspatī*)—lords of auspicious water
+- दस्रा (*dasrā*)—possessing an attractive form
+- हिरण्यवर्तनी (*hiraṇyavartanī*)—possessing a golden chariot
+- वावृधाना (*vāvṛdhānā*)—grown great; O Aśvins
+- मधु (*madhu*)—endowed with sweetness
+- सोम्यं (*somyaṃ*)—the Soma juice
+- पिबतं (*pibataṃ*)—drink
+
+### Printed p. 452
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, lords of auspicious water, of attractive form, possessed of a golden chariot, grown great: drink the Soma juice that is endowed with sweetness.
+
+##### English translation
+Magnificent lords of good fortune, handsome Aswins, riding in a golden chariot, drink the sweet Soma beverage
+
+##### विशेषविषयगळु (Special Topics)
+
+In the offering relating to the Āśvina graha, which has two deities, this Ṛk beginning वावृधाना (*vāvṛdhānā*) is to be recited as the yājyā mantra; this is set out at length in the Āśvalāyana Śrauta Sūtra, in the Sūtra "The Hotṛ should recite 'aśvinā nāsatyā vāvṛdhānā śubhaspatī'" (Ā. 5-5).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मभ्यं॑ वाजिनीवसू म॒घव॑द्भ्यश्च स॒प्रथः॑ ।  
+> छ॒र्दिर्यं॑त॒मदा॑भ्यं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मभ्यं । वाजिनीवसू इति वाजनीऽवसू । मघवत् 5भ्यः । च । स प्रथः ।  
+> छर्दिः । यंतं । अदाभ्यं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू । वाजिनी हविर्युक्ता यागक्रिया । तस्यां वसु धनं हविर्भागलक्षणं ययोस्तथाविधौ हे अश्विनौ अस्मभ्यं स्तोतृभ्यो मघवद्भ्यः । मघं धनं
+> हविर्लक्षणं । तद्वद्भ्यो यजमानेभ्यश्च सप्रथः सर्वतः पृथु विस्तीर्णमदाभ्यं
+
+##### Gist of the bhāṣya
+
+O Aśvins, वाजिनीवसू (*vājinīvasū*): vājinī is the sacrificial act accompanied by oblation; the wealth in it, in the form of a share of the oblation, belongs to you. To us the praisers, and to the sacrificers who are मघवद्भ्यः (*maghavadbhyaḥ*) (magha is wealth in the form of oblation, and they possess it), grant a dwelling (छर्दिः (*chardiḥ*)) that is सप्रथः (*saprathaḥ*), wide and spread everywhere, and अदाभ्यं (*adābhyaṃ*), harmable by none.
+
+### Printed p. 453
+
+> केनाप्यहिंस्यं छर्दिः । गृहनामैतत् । गृहं यंतं । नियच्छतं । दत्तमिति यावत्॥
+> यमेश्छांदसः शपो लुक् । छंदस्युभयथेत्यार्थधातुकत्वेन जित्वाभावादनुनासिकलोपाभावः ॥
+
+##### Gist of the bhāṣya
+
+छर्दिः (*chardiḥ*) is a name for a house. यंतं (*yaṃtaṃ*) means "give".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—O Aśvins, whose wealth is in the form of oblation
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to the sacrificer who holds and offers the oblation
+- अस्मभ्यं च (*asmabhyaṃ ca*)—and to us too
+- सप्रथः (*saprathaḥ*)—spread and extended everywhere
+- अदाभ्यं (*adābhyaṃ*)—unharmed
+- छर्दिः (*chardiḥ*)—a house
+- यंतं (*yaṃtaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, whose wealth is in the form of oblation, give to the sacrificer who offers the oblation and to us as well a house that is spread and extended everywhere and unharmed.
+
+##### English translation
+Affluent in sacrifices, grant to us who are opulent (in oblations) a spacious unassailable dwelling.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि षु ब्रह्म॒ जना॑नां॒ यावि॑ष्टं॒ तूय॒मा ग॑तं ।  
+> मो प्पगन्न्य उपारतं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । सु । ब्रह्म । जनानां । या । अविष्टं । तूयं । आ । गतं ।  
+> मो इति । सु । अन्यान् । उप । अरतं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् यौ या युवां जनानां प्राणिनां मध्ये ब्रह्म ब्राह्मणजातिं सु
+> सुष्टु नि नितरामविष्टं अरक्षिष्टं । यद्वा । जनानां यजमानानां ब्रह्म परिवृढं
+> स्तोत्रं हनिर्लक्षणमन्नं वा यौ युवां न्यविष्टं न्यगच्छतं । अवतिर्गत्यर्थः । ता
+> युवां तूयं क्षिप्रमा गतं । अस्मानप्यागच्छतं । अन्यानस्मद्व्यतिरिक्तान्यजमानान्
+
+##### Gist of the bhāṣya
+
+O Aśvins, you who well and thoroughly protect the brāhmaṇa class among the people; or else (alternative) you who have come to the ब्रह्म (*brahma*) of the sacrificers, that is, their praise or their oblation-food (the root av here has the sense of going). Such as you are, come quickly; come to us as well. Do not go to other sacrificers, other than us.
+
+### Printed p. 454
+
+> मो मैव सूपारतं । उपगमतं । कदाचिदपि मैव प्राप्नुतमित्यर्थः ॥ अर्तेर्माज
+> लुजिजासर्तिशास्त्रृतिभ्यश्चेति ज्ञेरजादेशः ॥
+
+##### Gist of the bhāṣya
+
+मो सु उपारतं (*mo su upārataṃ*) means: do not ever go to them, never reach them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—you who
+- जनानां (*janānāṃ*)—of the sacrificers
+- ब्रह्म (*brahma*)—with reference to the praise
+- सु (*su*)—well
+- नि (*ni*)—in a special manner
+- आविष्टं (*āviṣṭaṃ*)—you come (such as you)
+- ताय् (*tāy*)—quickly
+- आ गतं (*ā gataṃ*)—come to us
+- अन्यान् (*anyān*)—to the other sacrificers, apart from us
+- मो सु उपारतं (*mo su upārataṃ*)—do not go at all
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, you who come in the best manner to accept the praise of the sacrificers, come quickly to us. Do not go at all to other sacrificers apart from us.
+
+##### English translation
+You who ever carefully protect the Brahman amongst men, come quickly : tarry not with other (worshippers).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य पि॑बतमश्विना यु॒वं मद॑स्य॒ चारु॑णः ।  
+> मध्वो॑ रा॒तस्य॑ धिष्ण्या ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । पिबतं । अश्विना । युवं । मदस्य । चारुणः !  
+> मध्वः । रातस्य । धिष्ण्ण्या ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपराह्निके प्रवर्ज्ये घर्मस्य हविषोऽस्य पिबतमिति द्वितीया याज्या ।
+> सूत्रितं च । अस्य पिबतमश्विनेति वा प्रेषितो होता । आ. ४-७ । इति ॥
+> हे अश्विनाश्विन्हे धिष्ण्या । धिषणा स्तुतिः । तदर्हौ युवं युवां मदस्य
+> मदकरस्य चारुणः शोभनस्य रातस्यास्माभिर्दत्तस्यास्य मध्वो मधुरस्य सोमस्य
+> स्वांशलक्षणु भागं पिबतं । यद्वा । द्वितीयार्थे षष्ठी । इमं सोमं पिबत: ॥
+
+##### Gist of the bhāṣya
+
+In the afternoon Pravargya, the second yājyā for the Gharma oblation is अस्य पिबतं (*asya pibataṃ*); the Sūtra says: "The Hotṛ, when sent forth, recites 'asya pibatam aśvinā'" (Ā. 4-7). O Aśvins, you who are धिष्ण्या (*dhiṣṇyā*) (dhiṣaṇā is praise; you are worthy of it): drink your own share of this intoxicating, excellent, sweet Soma given by us. Or else (alternative), the genitive is in the sense of the accusative: drink this Soma.
+
+### Printed p. 455
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- धिष्ण्या (*dhiṣṇyā*)—worthy of praise
+- युवं (*yuvaṃ*)—you
+- मदस्य (*madasya*)—intoxicating
+- चारुणः (*cāruṇaḥ*)—excellent
+- रातस्य (*rātasya*)—given by us
+- अस्य मध्वः (*asya madhvaḥ*)—this Soma juice, which is sweet
+- पिबतं (*pibataṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, you who are worthy of praise, drink this Soma juice, which is intoxicating, excellent, given by us and sweet.
+
+##### English translation
+Adorable Aswins, drink of this exhilarating, delightful, sweet (Soma beverage) presented by us.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Gharma oblation of the Pravargya sacrifice, performed in the afternoon, this Ṛk beginning अस्य पिबतं (*asya pibataṃ*) is to be recited as the second yājyā mantra; this is explained in the Āśvalāyana Śrauta Sūtra, in the Sūtra "The Hotṛ, when sent forth, recites 'asya pibatam aśvinā'" (Ā. 4-7).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे आ व॑हतं र॒यिं श॒तवं॑तं सह॒स्रिणं॑ ।  
+> पु॒रु॒क्षुं वि॒श्वधा॑यसं ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । आ । वहतं । रयिं । शतवंतं । सहस्रिणं ।  
+> पुरुक्षुं । विश्वधायसं ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ अस्मे अस्मभ्यं रयिं धनमा वहतं । आनयतं । कथंभूतं । शतवंतं शतसंख्योपेतं सहस्रिणं सहस्रसंख्योपेतं च पुरुक्षुं बहुनिवासं यद्वा
+
+##### Gist of the bhāṣya
+
+O Aśvins, bring to us wealth. Of what kind? शतवंतं (*śatavaṃtaṃ*), possessed of the number hundred; सहस्रिणं (*sahasriṇaṃ*), possessed of the number thousand; पुरुक्षुं (*purukṣuṃ*), with many dwellings; or else (alternative)
+
+### Printed p. 456
+
+> पुरुभिर्बहुभिः स्तुत्यं विश्वधायसं विश्वेषां सर्वॆषामस्मदीयानां धारकं ॥
+> वहिहाधाञ्छृंदसीति दधातेरसुन् । णिदित्यनुवृत्तेर्णिद्वद्भावेन युगागमः ॥
+
+##### Gist of the bhāṣya
+
+*purubhiḥ*: praised by many; विश्वधायसं (*viśvadhāyasaṃ*): the sustainer of all that is ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) शतवंतं (*śatavaṃtaṃ*)—of the number of a hundred
+- सहस्रिणं (*sahasriṇaṃ*)—of the number of a thousand
+- पुरुक्षं (*purukṣaṃ*)—praised by many
+- विश्वधायसं (*viśvadhāyasaṃ*)—having the power to sustain all
+- रयिं (*rayiṃ*)—wealth
+- अस्मे (*asme*)—to us
+- आ वहतं (*ā vahataṃ*)—bring and supply
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, bring and supply to us wealth that is of a hundred and of a thousand in number, praised by many, and having the power to sustain all.
+
+##### English translation
+Bring unto us riches by hundreds and by thousands, desired by many, sustaining all.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒त्रा चि॒द्दि वां॑ नरा वि॒ह्वयं॑ते मनी॒षिणः॑ ।  
+> वा॒घद्भि॑रश्वि॒ना ग॑तं ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुत्रा । चित् । हि । नां । नरा । विश्वयंते । मनिषिणः ।  
+> वाघत् ऽभः । अश्विना । आ । गतं ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नरौ स्तोत्कृणां धनस्य नेतारावश्विन् मनीषिणो मनस ईशितारः
+> स्तोतारो वां युवां पुरुत्रा चिद्दि बहुषु हि देशेषु विह्वयंते । विविधमाह्वयंति । तथा सति हे अश्विनौ वाघद्भिर्वाहकैरश्वैरा गतं । अस्मानेवागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O नरा (*narā*), leaders of the praisers' wealth, O Aśvins: the wise praisers, masters of their minds, call upon you in many places in various ways. That being so, O Aśvins, come with horses that carry you; come to us alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders of all the praisers
+- अश्विना (*aśvinā*)—O Aśvins
+- मनीषिणः (*manīṣiṇaḥ*)—
+
 ---
 
-**Progress note:** Done through printed p. 450. pp. 445-450 (batch API)
+**Progress note:** Done through printed p. 456. pp. 451-456 (batch API)
