@@ -31095,6 +31095,266 @@ O Agni, the sacrificer, together with the wise hotṛ and the others, worships y
 ##### English translation
 (The sacrificer) worships you by praises, Agni, with the experienced (priests) in the rite celebrated with beautiful Saman hymns; bring us of your own accord for our protection, food of various kinds which may be always in our reach.
 
+### Printed p. 685
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ जरि॑तर्वि॒श्पति॑स्तेपा॒नो दे॑व र॒क्षसः॑ ।  
+> अप्रो॑षिवान्गृ॒हप॑तिर्म॒हा अ॑सि दि॒वस्पा॒युर्दु॑रोण॒युः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । जरितः । विश्वतिः । तेपानः । देव । रक्षसः ।  
+> अप्रोषिवान् । गृहपतिः । महान् । असि । दिवः । पायुः । दुरोणयुः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने देव जरितः स्तोतः । स्तुत्येत्यर्थः । विश्वतिः प्रजानां पालको
+> रक्षसो राक्षसानां तेषानः संतापकोऽसि । आप्रोषिवान्यजमानगृहमत्यजन् ।
+> तदेवाह । गृहपतिर्यजमानगृहस्य पालकश्च त्वं महानतिशयेन पूज्योऽसि । दिवो
+> द्युलोकस्य पायुः पाता दुरोणयुर्यजमानगृहस्य मिश्रयिता । सर्वदा
+> वर्तमान इत्यर्थः । तादृशस्त्वं महानसीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the vocatives in order. O Agni, divine one, jaritṛ, that is, praiseworthy; you are viśpati, the protector of the people, and tepāna, the tormentor of the rakṣasas, the demons. Āproṣivān means one who does not abandon the house of the sacrificer. He says this in so many words: you are the lord of the house, the protector of the sacrificer's house, and you are mahān, worthy of worship in the highest degree. You are the protector of heaven, the guardian of the world of heaven, and duroṇayu, the one who joins himself to the sacrificer's house, that is, who is always present there. The construction is that you, being such, are great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O one of divine nature
+- जरितः (*jaritaḥ*)—O praiseworthy one
+- अग्ने (*agne*)—O Agni
+- विश्वतिः (*viśvatiḥ*)—you are the protector of the people
+- रक्षसः (*rakṣasaḥ*)—to the asuras
+- तेषानः (*teṣānaḥ*)—the burner, you are
+- गृहपतिः (*gṛhapatiḥ*)—the protector of the house of sacrifice
+- दिवः (*divaḥ*)—of the world of heaven
+- पायुः (*pāyuḥ*)—the guardian
+- दुरोणयुः (*duroṇayuḥ*)—one who is always in the sacrificer's house, you
+- आप्रोषिवान् (*āproṣivān*)—not abandoning the house of sacrifice
+- महान् (*mahān*)—as a great one
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of divine nature and worthy of praise, you are the protector of the people and the burner of the asuras. You are the protector of the house of sacrifice, the guardian of the world of heaven, and one who is always in the sacrificer's house; you, being such, are a great one who never abandons the house of sacrifice.
+
+##### English translation
+Divine Agni, worthy of praise, you are the guardian of men, the consumer of the Rakshasas; you are great, you the never-absent guardian of the (worshipper's) house, the protector of heaven, ever present in the dwelling.
+
+### Printed p. 686
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॒ रक्ष॒ आ वे॑शीदाघृणीवसो॒ मा या॒तुर्या॑तु॒माव॑तां ।  
+> प॒रो॒ग॒व्यू॒त्यनि॑रा॒मप॒ क्षुध॒मग्ने॒ सेध॑ रक्ष॒स्विनः॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । रक्षः । आ । वेशीत् । आघृणिवसो इत्याघृणीवसो । मा । यातुः ।  
+> यातुमावतां ।  
+> परःगव्यूति । अनिरां । अप । क्षुधं । अग्ने । सेध । रक्षस्विनः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्नीवसो दीप्तधनाग्ने नोऽस्मान्रक्षो राक्षसादिः । रक्षो रक्षितव्यमस्मात् । नि. ४-१८ । इति यास्कः । मा वेशीत् । सर्वतो न प्रविशतु । तथा यातुमावतां । यातुर्यातना पीडा । तद्वतां यातुधानानां यातुः पीडा मा वेशीत् ।
+> हे अग्ने अनिरां । इरान्नं । अन्नाभावं दारिद्रं क्षुधं क्षपयितारं रक्षस्विनो
+> बलवंति रक्षांसि च परोगव्यूति क्रोशद्वयाद्देशात्परस्तात् । एतदुपलक्षणं ।
+> अत्यंतं दूरदेशेp सेध । परिहर । अनिरा क्षुद्वाह्यानि रक्षांसि च न पीडयंत्त्विति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, whose wealth is radiant, let not rakṣas, the demon and the like, enter us. Rakṣas, Yāska says, is रक्षो रक्षितव्यमस्मात् (*rakṣo rakṣitavyamasmāt*) (Ni. 4-18) **GLOSS**. Let it not enter us from all sides; likewise, let the torment of the yātumāvants, the yātudhānas, those who possess torment, not enter us. Yātu is affliction, oppression. O Agni, drive far away anirā, which is lack of food, that is, poverty (irā being food), and kṣudh, hunger, the one that wastes us, and the powerful rakṣas, that is, the strong demons. Parogavyūti means beyond a distance of two krośas; this is only an indication, so the meaning is: drive them to a very distant place and keep them off. Sāyaṇa ends by saying that poverty, the demons borne along by hunger, and the others should not torment us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आघृणीवसो (*āghṛṇīvaso*)—O Agni, whose wealth is of the nature of radiance
+- नः (*naḥ*)—us
+- रक्षः (*rakṣaḥ*)—the demons and the like
+- मा आ वेशीत् (*mā ā veśīt*)—let them not spread everywhere and surround us
+- यातुमावतां (*yātumāvatāṃ*)—of the asuras who cause torment
+- यातुः (*yātuḥ*)—the violence
+- मा (*mā*)—let it not spread over us
+- अग्ने (*agne*)—O Agni
+- अनिरां (*anirāṃ*)—our poverty
+- क्षुधं (*kṣudhaṃ*)—the affliction of our hunger
+- रक्षस्विनः (*rakṣasvinaḥ*)—the asuras who are endowed with strength
+- परोगव्यूति (*parogavyūti*)—to a very distant place
+- अप सेध (*apa sedha*)—drive away
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whose wealth is of the nature of radiance, let the demons and the like not spread everywhere and surround us. Let the violence of the asuras, which causes torment, not spread over us. O Agni, drive away to a very distant place our poverty, the affliction of our hunger, and the asuras endowed with strength.
+
+### Printed p. 687
+
+##### English translation
+O You of brilliant wealth, let not the Rakshasa enter us, nor the torment of the evil spirits; Agni, drive away further than a gavyuti from us- poverty, hunger, and the strong demons.
+
+## Sūkta 61 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उभयं शृणवदित्यष्टादशर्चं द्वितीयं सूक्तं प्रागाथस्य भर्गस्यार्षं ।
+> आत्रानुक्रमणिका । उभयं द्यूनेति । पूर्वसूक्ते प्रागाथं त्वित्युक्तत्पादिदमपि
+> प्रागाथं । अत्रायुजो बृहत्तो युजः सतोबृहत्यः । अनुक्तत्वादिंद्रो देवता ॥
+> महाव्रते निष्केवल्ये बार्हततृचाशीतावेतत्सूक्तं सप्तम्यष्टमीवर्जं । तथैव
+> पंचमारण्यके सूत्रितं शौनकेन । उभयं शृणवच्च न इति सप्तमीं चाष्टमीं
+> जोद्धरति । ऐ. आ. ५-२-४ । इति ॥ जातुर्विंशिकेऽहनि निष्कल्य उभयमिति बृहत्साम
+> प्रगाथः । तथा च सूत्रितं ॥ उभयं शृणवच्च न आ वृषस्व पुरूवसो । आ. ७-४ ।
+> इति ॥ एवमन्यत्रापि यस्मिन्नहनि पृष्ठस्तोत्रे बृहत्साम क्रियते तस्मिन्नहनि निष्केवल्येयं प्रगाथः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उभयं शृणवत् (*ubhayaṃ śṛṇavat*) has eighteen Ṛks. It is the second sūkta; its seer is Bharga, of the Prāgātha family. Sāyaṇa cites the Anukramaṇikā: उभयं द्यूनेति (*ubhayaṃ dyūneti*) **GLOSS**. Since in the preceding sūkta it is said to be Prāgātha, this one too is Prāgātha. Here the odd Ṛks are Bṛhatī and the even ones Satobṛhatī. Because no deity is stated, Indra is the deity. In the Mahāvrata, in the niṣkevalya śastra, this sūkta is used for the Bārhata triplet, omitting the seventh and eighth Ṛks. So it is laid down by Śaunaka in the Fifth Āraṇyaka: उभयं शृणवच्च न इति सप्तमीं चाष्टमीं जोद्धरति (*ubhayaṃ śṛṇavacca na iti saptamīṃ cāṣṭamīṃ joddharati*) (Ai. Ā. 5-2-4) **GLOSS**. On the Cāturviṃśika day, in the niṣkevalya, उभयं (*ubhayaṃ*) is a Bṛhatsāman pragātha; and so it is aphorised: उभयं शृणवच्च न आ वृषस्व पुरूवसो (*ubhayaṃ śṛṇavacca na ā vṛṣasva purūvaso*) (Ā. 7-4). In the same way elsewhere, on whatever day the Bṛhatsāman is performed in the pṛṣṭha-stotra, on that day this pragātha belongs to the niṣkevalya. **NOTE**
+
+##### Anuvāda
+
+This sūkta, beginning उभयं शृणवत् (*ubhayaṃ śṛṇavat*), is the second sūkta in the seventh anuvāka. It has eighteen Ṛks. Its seer is Bharga, the son of Pragātha; its deity is Indra; the Ṛks of odd number are in the Bṛhatī metre, the Ṛks of even number in the Satobṛhatī metre. In the Anukramaṇikā it is said: उभय द्व्यूना (*ubhaya dvyūnā*) **GLOSS**. In the Mahāvrata rite, at the time of reciting the mantras of the niṣkevalya śastra, the Ṛks of this sūkta other than the seventh and eighth are applied for the Ṛks in the Bṛhatī metre, as is specified in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence उभयं शृणवच्च न इति सप्तमीं चाष्टमीं चोद्धरति (*ubhayaṃ śṛṇavacca na iti saptamīṃ cāṣṭamīṃ coddharati*) (Ai. Ā. 5-2-4). On the day of the sacrifice called Cāturviṃśika, in the niṣkevalya śastra mantras, this pragātha beginning उभयं (*ubhayaṃ*) is to be recited as a Bṛhatsāman pragātha, and this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra उभयं शृणवच्च नः (*ubhayaṃ śṛṇavacca naḥ*) (Ā. 7-3). At the midday pressing on the day called Cāturviṃśika, the priest called Acchāvāka is to recite this same pragātha as a stotriya pragātha, and this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra
+
+### Printed p. 688
+
+उभयं शृणवच्च न आ वृषस्व पुरूवसो (*ubhayaṃ śṛṇavacca na ā vṛṣasva purūvaso*) (Ā. 7-4). In the same way, on whatever day the Bṛhatsāman mantra is recited in the pṛṣṭha-stotra, on that day this pragātha mantra is to be recited in the niṣkevalya śastra mantras.
+
+##### Particulars
+
+- Sūkta 61. Maṇḍala 8. Anuvāka 7.
+- Aṣṭaka 6. Adhyāya 4. Varga 36, 37, 38, 39.
+- Number of Ṛks in the sūkta: 12 **NOTE**
+- Seer: भर्गः प्रागाथः (*bhargaḥ prāgāthaḥ*)
+- Deity: इंद्रः (*iṃdraḥ*)
+- Metre: प्रागाथं (*prāgāthaṃ*) (आयुजः बृहत्स्य युजः सतोब्बृहत्यः (*āyujaḥ bṛhatsya yujaḥ satobbṛhatyaḥ*))
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भयं॑ शृ॒णव॑च्च न॒ इंद्रो॑ अ॒र्वागि॒दं वचः॑ ।  
+> स॒त्राच्या॑ म॒घवा॒ सोम॑पीतये धि॒या शवि॑ष्ठ॒ आ ग॑मत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभयं । शृणवत् । च । नः । इंद्रः अर्वाक् । इदं । वचः ।  
+> सत्राच्या । मघवा । सोमपीतये । धिया । कविष्ठः । आ । गमत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उभयं स्तोत्रात्मकं शस्त्रात्मकं चोभयविधमिदं वचोर्वागस्मदभिमुखमिंद्रः शृणवत् । शृणोतु । श्रुत्वा च सत्राच्यास्माकं सहांचंत्या धिया
+> युक्तः सन् मघवा कविष्टोऽतिशयेन बलवाना गमत् अगच्छतु सोमपीतये
+> सोमपानाय ॥
+
+##### Gist of the bhāṣya
+
+Ubhayam means both kinds, of the nature of stotra and of the nature of śastra: let Indra, turned towards us, hear this twofold speech. Having heard it, and being joined with our sacrificial thought, sahāñcantī, that is, united with us, may Maghavan, who is mightiest (so Sāyaṇa glosses the word as कविष्ठः (*kaviṣṭhaḥ*)), come, that is, may he approach, for the drinking of Soma, that is, for the purpose of drinking Soma. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उभयं च (*ubhayaṃ ca*)—and the twofold, of the nature of stotra and śastra
+- इदं वचः (*idaṃ vacaḥ*)—this speech of praise
+- न (*na*)—our
+- अर्वाक् (*arvāk*)—standing turned towards us
+- इंद्रः (*iṃdraḥ*)—Indra
+- शृणवत् (*śṛṇavat*)—let him hear
+- सत्राच्या (*satrācyā*)—joined with us
+- धिया (*dhiyā*)—together with intelligence
+- शविष्य (*śaviṣya*)—mighty
+- मघवा (*maghavā*)—Indra
+- सोमपीतॆये (*somapītèye*)—for the drinking of Soma
+- आ गमक् (*ā gamak*)—may he graciously come
+
+### Printed p. 689
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, standing turned towards us, hear this twofold speech of praise, of the nature of stotra and śastra. Together with his intelligence, which is fixed on us, may Indra, the mighty one, graciously come for the drinking of Soma.
+
+##### English translation
+May Indra listen to both these our hymns; may the mighty Maghavan come to us, (pleased) with our devoted offering, to drink the Soma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं हि स्व॒राजं॑ वृष॒भं तमोज॑से धि॒षणे॑ निष्टत॒क्षतुः॑ ।  
+> उ॒तोप॒मानां॑ प्रथ॒मो नि षी॑दसि॒ सोम॑कामं॒ हि ते॒ मनः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । हि । स्वराजं । वृषभं । तं । ओजसे । धिषणे इति । निः ततक्षतुः ।  
+> उते । उपमानां । प्रथमः । नि । सीदसि । सोमकामं । हि । ते । मनः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं हि तं खल्विंद्रं स्वराजं स्वयमेव राजमानं धिषणे द्यावापृथिव्यौ
+> वृषभं जगदुपकारकाया वृष्टेवर्षकं निष्कृतक्षतुः । संचस्करतुः । तं तमेवेंद्रमोजसे बलाय निष्कृतक्षतुः । उत यस्मादेवं तस्मात् हे इंद्र उपमानामुपमानभूतानामन्येषां देवानां मध्यॆ प्रथमो मुख्यः सन्नि षीदसि वेद्यां ।
+> सोमकामं हि खलु ते मनः ॥
+
+##### Gist of the bhāṣya
+
+Indra, self-resplendent, shining by himself, he indeed have dhiṣaṇe, heaven and earth, fashioned as the showerer, vṛṣabha, the rain-giver for the benefit of the world; niṣkṛtakṣatuḥ is glossed as "they prepared" (saṃcaskaratuḥ). Him again they prepared for strength, ojas. Since it is so, O Indra, you sit down on the altar as the first, the chief, among the other gods who are your equals, upamāna. For your mind is desirous of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धिषणे (*dhiṣaṇe*)—heaven and earth
+- स्वराजं (*svarājaṃ*)—self-resplendent
+- तं हि (*taṃ hi*)—that very Indra
+- वृषभं (*vṛṣabhaṃ*)—as the giver of rain to the world
+- निष्कृतक्षतुः (*niṣkṛtakṣatuḥ*)—they made
+- तं (*taṃ*)—him alone
+- ओजसे (*ojase*)—they made also the representative of strength
+- उत (*uta*)—and
+- उपमानां (*upamānāṃ*)—(O Indra) among all the gods who are models
+- प्रथमः (*prathamaḥ*)—as the chief
+- निषीदसि (*niṣīdasi*)—you adorn the sacrificial altar
+- ते मनः (*te manaḥ*)—your mind
+- सोमकामं हि (*somakāmaṃ hi*)—is indeed desirous of Soma
+
+### Printed p. 690
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth made that self-resplendent Indra the giver of rain. He was made also the representative of strength. O Indra, you adorn our sacrificial altar as the chief among all the gods who are models. Your mind is always desirous of Soma.
+
+##### English translation
+Him, self-resplendent, have heaven and earth formed as the showerer, him (they have formed) for strength ; therefore you sit down first of your peers ; your mind loves the Soma.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वृ॑षस्व पुरूवसो सु॒तस्यें॒द्रांध॑सः ।  
+> वि॒द्या हि त्वा॑ हरिवः पृ॒त्सु सा॑स॒हिमधृ॑ष्टं चिद्दधृ॒ष्णणिं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वृषस्व । पुरूवसो इति पुरुषो । सुतस्य । इंद्र । अंधसः ।  
+> विद्म । हि । त्वा । हरिर्वः । पृत्सु । ससहिं । अधृष्टं । चित् । दधृष्टणिं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्तेऽच्छावाकशस्त्र आ वृषस्वति प्रगाथो वैकल्पिकोऽनुरूपः ।
+> सूत्रमुक्तं ॥
+> हे पुरूवसो बहुधनेंद्र त्वमा वृषस्व । आसिंचस्व । किं । सुतस्यांधसः
+> सुतमंधः सोमं जठरे । हे हरिवो हरिभ्यां तद्वन्निंद्र त्वा त्वां विद्म हि । जानीमः
+> खलु । कीदृशं । पृत्सु संग्रामेषु सासहिमभिभवितारं शत्रूणामधृष्टं चित्तैरप्यधर्षणीयं दधृष्टणिमन्येषां धर्षकं ॥
+
+##### Gist of the bhāṣya
+
+In the Acchāvāka śastra mentioned before, the pragātha आ वृषस्व (*ā vṛṣasva*) is an optional anurūpa; the sūtra has been stated. O Puruvasu, Indra of much wealth, pour in, sprinkle yourself. With what? With the pressed andhas, the Soma, into your belly. O Harivat, lord of the two bay horses, Indra, we indeed know you. Of what kind? One who, in battles, is sāsahi, the overcomer of enemies; adhṛṣṭa, not to be overcome; and dadhṛṣṇi, the assailant of others. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुवसो (*puruvaso*)—one who has abundant wealth
+- इंद्र (*iṃdra*)—O Indra
+- सुतस्य (*sutasya*)—of the pressed
+- अंधसः (*aṃdhasaḥ*)—Soma juice
+- आ वृषस्व (*ā vṛṣasva*)—pour into the belly
+- हरिवः (*harivaḥ*)—who bears the name Hari
+
 ---
 
-**Progress note:** Done through printed p. 684. Mandala 8 Sukta 60 rks 13-18 (pp. 679-684)
+**Progress note:** Done through printed p. 690. Ṛk 19-20 of Sūkta 60; Sūkta 61 Ṛk 1-3 start
