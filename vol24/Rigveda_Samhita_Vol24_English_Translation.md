@@ -17296,6 +17296,253 @@ As in a wheel all the spokes rest on the nave in the middle, so all the works of
 ##### English translation
 In whom all pious acts are concentrated, like the nave in the (centre of the) wheel, worship him quickly who abides in the three worlds; as men assemble the cattle in their pasture, so do (our foes) collect their horses (to assail us): may all our enemies perish.
 
+### Printed p. 383
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य आ॒स्वत्त॑ आ॒शये॒ विश्वा॑ जा॒तान्ये॑षां ।  
+> परि॒ धामा॑नि॒ मर्मृ॑श॒द्वरु॑णस्य पु॒रो गये॒ विश्वे॑ दे॒वा अनु॑  
+> व्र॒तं नभं॑तामन्य॒के स॑मे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । असु । अत्वति । आशये । विश्वा । जातानि । एषां ।  
+> परि . धामानि मर्मृशत् । वरुणस्य । पुरः । गये । विश्वे । देवाः । अनु । व्रतं ।  
+> नभंतां । अन्यके । समे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ........ ...त्रिरिमृशतो वरुणस्य पुरो गये रथस्य पुरस्ताद्भवति तस्य वरुणस्य
+> पुरस्ताद्विश्वे सर्वे देवा व्रतं कर्मानुगच्छंतीत्यर्थः । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+The beginning of the passage is broken off **NOTE**. What is clear: puro gaye means at the front of the chariot, and in front of that Varuṇa all (viśve) the gods follow his work (vrata), that is, his action; such is the meaning. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Varuṇa
+- आसु (*āsu*)—in all the directions
+- अत्नः (*atnaḥ*)—moving about
+- एषां (*eṣāṃ*)—of these worlds
+- विश्वा जातानि (*viśvā jātāni*)—all beings
+- आ शये (*ā śaye*)—caused to attain a state
+- धामानि (*dhāmāni*)—all the worlds
+- परि (*pari*)—around
+- मर्मृशत् (*marmṛśat*)—goes around touching
+- वरुणस्य (*varuṇasya*)—of that same Varuṇa
+- पुरो गये (*puro gaye*)—in front of the chariot
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- व्रतं (*vrataṃ*)—the work
+- अनु (*anu*)—carry out
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—may they come to destruction
+
+##### भावार्थ (Bhāvārtha)
+
+The Varuṇa who, moving about in all the directions, caused all the beings of these worlds to attain a state, and who goes around touching all the worlds, in front of the chariot of that same Varuṇa all the gods carry out their work. May all our enemies come to destruction at the same time.
+
+### Printed p. 384
+
+##### English translation
+He who, passing amidst those (regions of the firmament), gives refuge to all their races, and all the deities precede the chariot of Varuna when manifesting his glories to perform his worship : may all our enemies perish.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स स॑मु॒द्रो अ॑पी॒च्य॑स्तु॒रो द्यामि॑व रोहति॒ नि यदा॑सु॒  ॒॑
+> यजुर्दधे ।  
+> स मा॒या अ॒र्चिना॑ प॒दास्तृ॑णा॒न्नाक॒मारु॑ह॒न्नभं॑तामन्य॒के  ॑
+> समे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । समुद्रः । अपीच्यः । तुरः । द्यांइवॆ । रोहति । नि । यत् । आसु । यजुः ।  
+> दधे ।  
+> सः । मायाः । अर्चिना । पदा । अस्तृणात् । नाकं । आ । अरुहत् । नभंतां । अन्यके ।  
+> समे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मादापः समुद्रवंति स वरुणः समुद्रोऽपीच्योऽंतर्हितस्तुरः
+> क्षिप्रो द्यामिव यथादित्यो द्यां रोहति तथा नाकं रोहति । अपि च यद्यो
+> वरुण आसु दिक्षु यजुः प्रजाभ्यो दानं नि दधे निदधाति स वरुणो माया
+> असुराणां माया अर्चिनार्चिष्मता पदा स्थानेन । तेजसेत्यर्थः । आस्त्वणात् ।
+> समंताद्दिनस्ति । नाकं स्वर्गमारुहत् । आरोहति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+That Varuṇa, from whom the waters come to be like an ocean, is the hidden (apīcya, concealed) ocean (samudra) **NOTE**. Swift (tura), he mounts heaven as the sun mounts the sky; so he mounts nāka. Moreover, that Varuṇa who in these directions has placed the yajus, a gift to the creatures **NOTE**, that Varuṇa shatters on every side the devices (māyāḥ) of the asuras with his radiant (arcin) foot, that is, his place; the sense is: with his splendour. He mounts nāka, heaven. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same Varuṇa
+- अपीच्यः (*apīcyaḥ*)—concealed
+- समुद्रः (*samudraḥ*)—is of the form of the ocean
+- तुरः (*turaḥ*)—the swift-going sun
+- द्यां इव (*dyāṃ iva*)—as he mounts the atmosphere
+- रोहति (*rohati*)—Varuṇa too mounts the heavenly world
+- यॆत् (*yèt*)—which Varuṇa
+- आसु (*āsu*)—in all the directions
+
+### Printed p. 385
+
+- यजुः (*yajuḥ*)—the sacrificial act
+- नि दधे (*ni dadhe*)—has established
+- सः (*saḥ*)—that same Varuṇa
+- मायाः (*māyāḥ*)—the deceitful acts of the asuras
+- अर्चिना (*arcinā*)—with his shining
+- पदा (*padā*)—place
+- आ स्तृणात् (*ā stṛṇāt*)—destroys completely
+- नाकं (*nākaṃ*)—heaven
+- आरुहत् (*āruhat*)—mounts
+- अन्यके समे (*anyake same*)—all our enemies
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+That famous Varuṇa is of the form of the concealed ocean. As the swift-going sun mounts the atmosphere, Varuṇa too mounts the heavenly world. The Varuṇa who has established the sacrificial act in all the directions destroys completely the deceitful acts of the asuras by his own shining place alone, and he also mounts heaven. May our enemies perish.
+
+##### English translation
+He is the hidden ocean ; swsft he mounts (the heaven) as (the sun) the sky ; when he has placed the sacrifice in those (regions of the firmament) he demolishes with his brilliant radiance the devices (of the Asuras); he ascends to heaven : may all our enemies perish.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ श्वे॒ता वि॑चक्ष॒णा ति॒स्रो भूमि॑रधिक्षि॒तः ।  
+> त्रिरुत्त॑राणि प॒प्रतु॒र्वरु॑णस्य ध्रु॒वं सदः॒ स स॑प्ता॒नामि॑रज्यति॒ ॒॑ ॑
+> नभंतामन्यके समे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । श्वेता । विचक्षणा । तिस्रः । भूमीः । अधिक्षितः ।  
+> त्रिः । उत्सतराणि । पप्रतुः । वरुणस्य । ध्रुवं । सदः । सः । सप्तानां । इरज्यति ।  
+> नभंतां । अन्यके । समे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य वरुणस्याधिक्षितोंतरिक्षेऽधि वसतः श्वेता श्वेतानि विचक्षणा तेजांसि
+> तिस्रो भूमीस्त्रिरुत्तराणि तिस्मरणामधिस्थितानि भुवनानि पप्रतुः प्रथयंति । तथा च
+> XXIV 25
+
+### Printed p. 386
+
+> मंत्रवर्णः । तिस्रो भूमिर्धारयन् त्रेरुत द्यून् । ऋ. २-२७-८ । इति । तस्य
+> वरुणस्य सदः स्थानं ध्रुवमचलमिति । किंच स वरुणः सप्तानां सिंधूनामिरज्यति ।
+> ईश्वरो भवति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Of that Varuṇa who dwells (adhikṣit) in the atmosphere, the shining (śveta) bright rays (vicakṣaṇa) spread (paprathuḥ) the three earths and the three higher worlds. And so there is a mantra text: तिस्रो भूमिर्धारयन् त्रेरुत द्यून् (*tisro bhūmirdhārayan treruta dyūn*) (Ṛ. 2-27-8) **GLOSS**. The dwelling (sadaḥ) of that Varuṇa is firm, that is, immovable. Further, that Varuṇa is lord (īrajyati) of the seven rivers. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अधिक्षितः (*adhikṣitaḥ*)—dwelling in the atmosphere
+- यस्य (*yasya*)—of which Varuṇa
+- श्वेता (*śvetā*)—white in colour
+- विचक्षणा (*vicakṣaṇā*)—the bright rays
+- तिस्रः भूमिाः (*tisraḥ bhūmiāḥ*)—the three lower worlds
+- त्रिः उत्तराणि (*triḥ uttarāṇi*)—the three upper worlds
+- पप्रतुः (*papratuḥ*)—pervade
+- वरुणस्य (*varuṇasya*)—of that same Varuṇa
+- सदः (*sadaḥ*)—the dwelling
+- ध्रुवं (*dhruvaṃ*)—is immovable
+- सः (*saḥ*)—that same Varuṇa
+- सप्तानां (*saptānāṃ*)—of the seven rivers
+- इरज्यति (*irajyati*)—is the lord
+- अन्यके समे (*anyake same*)—all our enemies
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+Of the Varuṇa who dwells in the atmosphere, the white-coloured bright rays pervade the three lower worlds and the three upper worlds; the dwelling of that same Varuṇa is immovable. That same Varuṇa is the lord of the seven rivers. May all our enemies perish.
+
+##### English translation
+Of whom, present in the three worlds, the brilliant rays pervade the three realms beyond, the eternal dwelling of Varuna, he is a lord of the seven (rivers) : may all our enemies perish.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः श्वे॒ता अधि॑निर्णिजश्च॒क्रे कृ॒ष्णा अनु॑ व्र॒ता ।  
+> स धाम॑ पू॒र्व्यं म॑मे॒ यः स्कं॒भेन॒ वि रोद॑सी अ॒जो न  
+> द्यामधा॑रय॒न्नभं॑तामन्य॒के स॑मे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । श्वेतान् । अधिनिर्निजः । चक्रे । कृष्णान् । अनु । व्रता ।  
+> सः । धाम । पूर्वं । ममे । यः । स्कंभेन । वि । रोदसी इति । अजः । न । द्यां ।  
+> अधारयत् । सभंतां । अन्यके । समे ॥ १० ॥
+
+### Printed p. 387
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वरुणो निर्णज आत्मीयान्रश्मिन्तिवा श्वेतानधि चक्रे अधिकरोति तथा
+> रात्रौ कृष्णांश्चक्रे स वरुणोऽनु व्रता कर्माणि लक्ष्मीकृत्योभयविधकर्मानुगुणं
+> पूर्व्यं धामांतरिक्षं दिवं वा ममे । निर्ममे । अपि च यः स्कंभेनांतरिक्षेणाजो न यथादित्यो द्यां धारयति तथा रोदसी द्यावापृथिव्यावधारयत्
+> विधारयति स वरुण इत्यर्थः । सिद्धमध्यत् ॥
+
+##### Gist of the bhāṣya
+
+The Varuṇa who makes his own rays (nirṇijaḥ) white by day, and at night makes them dark; that Varuṇa, having regard to his works (vratā) in accordance with both kinds of action **NOTE**, measured out (mame, fashioned) the ancient dwelling, the atmosphere or heaven. Moreover, he who with the pillar (skambha), the atmosphere, upholds heaven and earth (rodasī), as the unborn (aja), the sun, upholds heaven; that Varuṇa, such is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋः (*ṛḥ*)—which Varuṇa
+- अधिनिर्णिजः (*adhinirṇijaḥ*)—his rays
+- श्वेतान् (*śvetān*)—making white by day
+- चक्रे (*cakre*)—and causing to appear
+- कृष्णान् (*kṛṣṇān*)—making dark at night-time
+- अचः (*acaḥ*)—the sun
+- द्यां न (*dyāṃ na*)—as he upholds the heavenly world
+- यः (*yaḥ*)—who
+- स्कंभेन (*skaṃbhena*)—with the pillar in the form of the atmosphere
+- रोदसी (*rodasī*)—both heaven and earth
+- व्यधारयत् (*vyadhārayat*)—upholds
+- सः (*saḥ*)—that same Varuṇa
+- आनु व्रता (*ānu vratā*)—in accordance with his works
+- पूर्व्यं धाम (*pūrvyaṃ dhāma*)—his dwelling in the form of the atmosphere
+- ममे (*mame*)—has fashioned
+- अन्यके समे (*anyake same*)—all our enemies
+- नभंतां (*nabhaṃtāṃ*)—may they perish
+
+##### भावार्थ (Bhāvārtha)
+
+The Varuṇa who makes his rays white by day and dark at night, and who, as the sun upholds the heavenly world, upholds both heaven and earth with the pillar in the form of the atmosphere, that same Varuṇa has fashioned his dwelling in the form of the atmosphere in accordance with his works. May all our enemies perish.
+
+##### English translation
+He who in his successive functions emits his bright rays or turns them dark, first made his residence (in the firmament), and, as the unborn sun the sky, supports with the pillar (of the firmament) both heaven and earth; may all our enemies perish.
+
+### Printed p. 388
+
+## Sūkta 42 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्तभ्यादिति षडृचं द्वादशं सूक्तं । अर्चनाना ऋषिः काणो नाभार्को वा
+> ऋषिः । उत्तरे त्वर्चनानाः । आद्यस्य चस्रैष्टुभो वरुणदेवत्यो द्वितीयश्च
+> आनुष्टुभोऽश्विदेवताकः । तथा चानुक्रांतं । अस्तभ्यात् षळर्चनाना वा त्रैष्टुभमंत्यं वा तृचमाश्विनमानुष्टुभमहश्यदिति ॥ सूक्तविनियोगो लैंगिकः ॥ वारुणे
+> पशौ हविषो याज्यास्तभ्यादिति । सूत्रितं च । अस्तभ्याद्वामसुरो विश्ववेदा
+> इत्यैकादशिनाः । आ. ३-७ । इति ॥ अग्निषोमप्रणयनेऽप्येषोत्तरा परिधानीया ।
+> तथा सूत्रितं । अस्तभ्याद्वामसुरो विश्ववेदा इति परिदध्यादुत्तरया वा । आ. ४-१० ।
+> इति ॥ एवा वंदस्वेत्येषा वारुणे पशौ हविषोऽनुवाक्या । सूत्रितं च । विवा
+> वंदस्व वरुणं बृहंतं तत्त्वा यामि ब्रह्मणा वंदमान इति द्वे । आ. ३-७ । सोमप्रवहण इमां धियमित्येषा परिधानीया । सूत्रितं च । इमां धियं शिक्षमाणस्य
+> देवेति निहिते परिदध्यात् । आ. ४-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अस्तभ्यात् (*astabhyāt*) is the twelfth sūkta and has six Ṛks. Arcanānā is the seer, or the Kāṇva Nābhārka **NOTE** is the seer; for the later verses it is Arcanānā. The first Ṛk is in the Triṣṭubh metre and has Varuṇa as deity; and the second is in the Anuṣṭubh metre and has the Aśvins as deity. So it is stated in the Anukramaṇī: अस्तभ्यात् षळर्चनाना वा त्रैष्टुभमंत्यं वा तृचमाश्विनमानुष्टुभमहश्यदिति ॥ (*astabhyāt ṣaḷarcanānā vā traiṣṭubhamaṃtyaṃ vā tṛcamāśvinamānuṣṭubhamahaśyaditi ‖*). The application of the sūkta (viniyoga) is by inference. In the animal offering for Varuṇa, अस्तभ्यात् (*astabhyāt*) is the yājyā of the oblation, and it is laid down in the sūtra अस्तभ्याद्वामसुरो विश्ववेदा इत्यैकादशिनाः (*astabhyādvāmasuro viśvavedā ityaikādaśināḥ*) (Ā. 3-7). In the Agniṣoma-praṇayana this Ṛk, or the following one, is the concluding (paridhānīyā) verse, and it is laid down in the sūtra अस्तभ्याद्वामसुरो विश्ववेदा इति परिदध्यादुत्तरया वा (*astabhyādvāmasuro viśvavedā iti paridadhyāduttarayā vā*) (Ā. 4-10). The Ṛk एवा वंदस्व (*evā vaṃdasva*) is the anuvākyā of the oblation in the animal offering for Varuṇa, and it is laid down in the sūtra विवा वंदस्व वरुणं बृहंतं तत्त्वा यामि ब्रह्मणा वंदमान इति द्वे । (*vivā vaṃdasva varuṇaṃ bṛhaṃtaṃ tattvā yāmi brahmaṇā vaṃdamāna iti dve |*) (Ā. 3-7). In the Soma-pravahaṇa the Ṛk इमां धियं (*imāṃ dhiyaṃ*) is the concluding verse, and it is laid down in the sūtra इमां धियं शिक्षमाणस्य देवेति निहिते परिदध्यात् (*imāṃ dhiyaṃ śikṣamāṇasya deveti nihite paridadhyāt*) (Ā. 4-4).
+
+##### Anuvāda
+
+The sūkta beginning अस्तभ्नात् (*astabhnāt*) is the twelfth sūkta in the fifth Anuvāka. It has six Ṛks. The seer of this sūkta is one named Arcanānā, or the one named Nābhāka of the Kaṇva lineage is the seer; or it may also be said that for the first three Ṛks the seer is Nābhāka Kāṇva, and for the last three Ṛks the seer is Nābhāka Kāṇva or Arcanānā. For the first three Ṛks of the sūkta Varuṇa is the deity and the metre is Triṣṭup; for the last three Ṛks the Aśvin deities are the deity and the metre is Anuṣṭup. In the Anukramaṇī it is said: अस्तभ्नात् षळर्चनाना वा त्रैष्टुभमंत्यं वा तृचमाश्विनमानुष्टुभमपश्यत् ऎ (*astabhnāt ṣaḷarcanānā vā traiṣṭubhamaṃtyaṃ vā tṛcamāśvinamānuṣṭubhamapaśyat è*). The application of the sūkta is by inference. In the animal offering made addressed to the deity Varuṇa, when the oblation is offered, the first Ṛk of this sūkta beginning अस्तभ्नात् (*astabhnāt*) is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अस्तभ्नाद्दामसुरो विश्ववेदा इत्यैकादशिनाः (*astabhnāddāmasuro viśvavedā ityaikādaśināḥ*) (Ā. 3-2) **NOTE**. In the ritual act called Agniṣoma-praṇayana too this Ṛk or the following Ṛk is to be recited as the paridhānīyā, that is, the last mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अस्तभ्नाद्दामसुरो विश्ववेदा इति परिदध्यादुत्तरया वा (*astabhnāddāmasuro viśvavedā iti paridadhyāduttarayā vā*) (Ā. 4-10). In the offering of the oblation in the animal sacrifice addressed to the deity Varuṇa, the second Ṛk of this sūkta, beginning एवा वंदस्व (*evā vaṃdasva*), is to be recited as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra एवा वंदस्व वरुणं बृहंतं तत्त्वा यामि ब्रह्मणा वंदॆमाना (*evā vaṃdasva varuṇaṃ bṛhaṃtaṃ tattvā yāmi brahmaṇā vaṃdèmānā*)
+
 ---
 
-**Progress note:** Done through printed p. 382. Mandala 8 sukta 41 rks 2 end to 6
+**Progress note:** Done through printed p. 388. Mandala 8 sukta 41 rks 7-10, sukta 42 start
