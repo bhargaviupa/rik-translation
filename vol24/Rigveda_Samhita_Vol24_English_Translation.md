@@ -22942,6 +22942,298 @@ O Śūra, valiant Indra, I do not truly (सत्रा (*satrā*)) find the en
 - वाजेभिः (*vājebhiḥ*)—with food
 - धियः (*dhiyaḥ*)—our
 
+### Printed p. 502
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, I certainly do not know the limit of your wealth. O wealthy one, wielder of the thunderbolt, give us that wealth quickly. Protect our works, accompanied by food.
+
+##### English translation
+Verily, hero, I find no limit to your wealth; O Maghavan, the thunderer, bestow (your gifts) quickly upon us, and bless our offerings with (abundant) food.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ऋ॒ष्टः श्रा॑व॒यत्स॑खा॒ विश्वेत्स वे॑द॒ जनि॑मा पुरुष्टु॒तः ।  
+> तं विश्वे॒ मानु॑षा यु॒गेंद्रं॑ हवंते तवि॒षं य॒तस्रु॑चः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ऋष्टः । श्रावयत्सखा । विश्वा । इत् । सः । वेद । जनिम । पुरुस्तुतः ।  
+> तं । विश्वे । मानुषा । युगा । इंद्रं । हवंते । तविषं । यतस्रुचः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यॆ इंद्र ऋष्टो दर्शनीयः श्रावयत्सखा । श्रावयंतः सखाय ऋत्विजो
+> यस्य स तादृशः श्रावयत्सखा । पुरुष्टुतो बहुभिर्यजमानैः स्तुतो य इंद्रः स
+> विश्वेत् सर्वाण्यपि जनिमा जन्मानि प्राणिनां वेद । जानाति । तं तविषं बलवंतमिंद्रं विश्वे सर्वॆऽप्यध्वयार्दयो यतस्रुचः स्वीकृतहविष्काः संतो मानसा
+> मनुष्यसंबंधिनो युगा युगानि कालान् सर्वेषु कालेषु हवंते ।
+> आह्वयंति । स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is worthy to be seen, whose friends, the officiating priests, cause him to hear (the praises), and who is praised by many sacrificers, knows all the births of living beings. All men, the sacrificers and the rest, having taken up the ladles with the oblations, invoke that mighty Indra at all times; to invoke means to call and to praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- ऋष्टः (*ṛṣṭaḥ*)—possessing an attractive form
+- श्रावयत्त्वखा (*śrāvayattvakhā*)—praised by the officiating priests
+- पुरुष्टुतः (*puruṣṭutaḥ*)—praised by many, such is he
+- सः (*saḥ*)—that same Indra
+- विश्वेत् (*viśvet*)—all
+- जनिमा (*janimā*)—births
+- वेद (*veda*)—knows
+- तविषं (*taviṣaṃ*)—the mighty
+
+### Printed p. 503
+
+- तं इंद्रं (*taṃ iṃdraṃ*)—that same Indra
+- यतस्सुचः (*yatassucaḥ*)—holding up the ladle for the sacrifice **NOTE**
+- विश्वे मानुषाः (*viśve mānuṣāḥ*)—all men
+- युगा (*yugā*)—at all times
+- सवंते (*savaṃte*)—invoke with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who is of attractive form, praised by the officiating priests, and praised by many, that same Indra knows all people **NOTE**. All men, who hold up the ladle for the sacrifice, invoke that same mighty Indra with prayer at all times.
+
+##### English translation
+The graceful Indra, whose friends extol him, knows, praised of many, all births ; him, the mighty, all men invoke at all times, seizing the ladles (for the oblation).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ वाजे॑ष्टवि॒ता पु॑रू॒वसुः॑ पुरःस्था॒ता ।  
+> म॒घवा॑ वृत्र॒हा भु॑वत् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । वाजेषु । अविता । पुरुवसुः । पुरस्थाता ।  
+> मघवा । वृत्रहा । भुवत् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा द्विपदा जगती । स पुरूवसुर्बहुधनो मघवा धनवान् वृत्रहा
+> शत्रुणां हंतेंद्रो नोऽस्माकं वाजेषु संग्रामेष्टविता रक्षिता पुरःस्थाता
+> तदर्थं पुरतो वर्तमानो भुवत् । भवतु ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is a dvipadā jagatī. May that Indra, who has much wealth, who is wealthy, and who is the slayer of the enemies, be our protector in battles, and may he stand in front of us for that purpose.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरूवसुः (*purūvasuḥ*)—possessing abundant wealth
+- मघवा (*maghavā*)—wealthy
+- वृत्रहा (*vṛtrahā*)—destroyer of enemies, such
+- सः (*saḥ*)—Indra
+- वाजेषु (*vājeṣu*)—in battles
+- नः (*naḥ*)—our
+- अविता (*avitā*)—as protector
+- पुरः स्थाता (*puraḥ sthātā*)—as one standing in front of us
+- भुवत् (*bhuvat*)—may he be
+
+### Printed p. 504
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who possesses abundant wealth, who is wealthy, and who destroys enemies, be our protector in battles and stand before us.
+
+##### English translation
+May Maghavan, the wealthy, the slayer Vritra, stand before us as our defender in battles.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वो॑ वी॒रमंध॑सो॒ मदे॑षु गाय गि॒रा म॒हा विचे॑तसं।  
+> इंद्रं॒ नाम॒ श्रुत्यं॑ शा॒किनं॒ वचो॒ यथा॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वः । वीरं । अंधसः । मदेषु । गाय । गिरा । महा । विचेतसं ।  
+> इंद्रं । नाम । श्रुत्यं । शाकिनं । वचः । यथा ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उद्गात्रादयः वः । यूयमित्यर्थः।अथवा हे यजमानाः वो युष्माकं
+> हितायांधसः सोमस्य मदेषूत्पाद्यमानेषु सत्सु वीरं शत्रूणामीरयुकारं
+> नाम शत्रूणां नामकं विचेतसं विशिष्टप्रज्ञं श्रुत्यं सर्वत्र श्रोतव्यं बाकिनं
+> शक्तं ईवृशमिंद्रं महा महत्या गिरा स्तुत्या वचो वाग्युष्मदीया यथा येन
+> प्रकारेण प्रवर्ततेगायत्रा तिष्टुभा वा तथा गाय । गायत । स्तुतिं कुरुत ॥
+
+##### Gist of the bhāṣya
+
+O chanting priests, that is, you; or else, O sacrificers, for your benefit: when the exhilarations of the Soma are being produced, sing in praise of Indra, the hero, the one who impels the enemies **NOTE**, the humbler of enemies, the one of distinguished wisdom, the one to be heard of everywhere, the mighty one. Praise him with a great hymn of praise; as your speech proceeds, whether in the Gāyatra or in the Triṣṭubh measure, so sing; that is, make praise. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O chanting priests) अंधसः (*aṃdhasaḥ*)—of the Soma drink
+- मदेषु (*madeṣu*)—while in the exhilaration
+- वीरं (*vīraṃ*)—the valiant
+- नाम (*nāma*)—the humbler of enemies
+- विचेतसं (*vicetasaṃ*)—possessing distinguished wisdom
+- श्रुत्यं (*śrutyaṃ*)—famous
+- शाकिनं (*śākinaṃ*)—and mighty
+- इंद्रं अभि (*iṃdraṃ abhi*)—towards Indra
+- वः (*vaḥ*)—your
+- महा (*mahā*)—great
+- गिरा (*girā*)—of the nature of praise, such
+- वचः (*vacaḥ*)—with words
+- यथा (*yathā*)—in whatever way Indra can be praised, so
+- गाय (*gāya*)—praise in the form of song
+
+##### भावार्थ (Bhāvārtha)
+
+O chanting priests, while in the exhilaration of the Soma drink, towards Indra who is valiant, the humbler of enemies, possessed of distinguished wisdom, famous and mighty, with your great words of the nature of praise,
+
+### Printed p. 505
+
+in whatever way Indra can be praised, so praise him in the form of song.
+
+##### English translation
+At the time of the exhilaration of the Soma, sing according to your hymns, with a loud voice, your wise hero Indra, the humbler of enemies, the strong, the ever worthy to be praised.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒वी रेक्ण॑स्त॒न्वे॑ द॒दिर्वसु॑ द॒दिर्वाजे॑षु पुरुहूत वा॒जिनं॑ ।  
+> नू॒नमथ॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ददिः । रेक्लः । तन्वे । ददिः । वसु । ददिः । वाजेषु । पुरुहूत । वाजिनं ।  
+> नूनं । अथ ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूतेंद्र त्वं तन्ने मह्यं शरीराय रेक्नो धनं
+> ददिर्दाता भव । कदेति उच्यते । नूनं क्षिप्रमद्येदानीमेव । एवं प्रतिवाक्यं
+> योज्यं । तथा वसु धनं पुत्रादिभ्यो ददिर्दाता भव । तथा वाजेषु संग्रामेषु
+> वाजिनमन्नवंतं रयिं ददिर्दाता भवेति ॥ अत्र सर्वॆष्टपि वाक्येषु ददिरित्यस्य
+> लिच्छादान्न लोकाव्ययेति षष्ठिप्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many, be the giver of wealth to my body. When? It is said: now, quickly, today, at this very time. In the same way the word must be joined in each clause. Likewise be the giver of wealth to sons and the rest; and likewise in battles be the giver of wealth with food, to the one who has food. In all these clauses the sixth case is prohibited for the word meaning giver.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, worthy of the invocation of many
+- तन्ने (*tanne*)—for the nourishment of my body
+- रेक्णः (*rekṇaḥ*)—wealth
+- ददिः (*dadiḥ*)—give
+- नूनं (*nūnaṃ*)—quickly
+- वसु (*vasu*)—wealth
+- ददिः (*dadiḥ*)—give also to our sons and the rest
+- अथ (*atha*)—afterwards
+- वाजेषु (*vājeṣu*)—in battles
+- वाजिनं (*vājinaṃ*)—wealth together with food
+- ददिः (*dadiḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the invocation of many, give wealth for the nourishment of my body. Quickly give wealth also to our sons and the rest. Afterwards give wealth together with food in battles too.
+
+### Printed p. 506
+
+##### English translation
+(Indra), invoked by many, speedily give me wealth; give riches, give abundance of food in battle.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑षामिर॒ज्यंतं॒ वसू॑नां सास॒ह्यांसं॑ चिद॒स्य वर्ष॑सः ।  
+> कृ॒प॒य॒तो नू॒नमत्यथ॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वेषां । इरज्यंतं । वसूनां । ससह्यांसं । चित् । अस्य, वर्पसः ।  
+> कृप्ययतः । नूनं । अति । अथ ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वां विश्वेषां सर्वॆषां वसूनां धनानामिरज्यंतमीशानमस्य
+> वर्पसो वारकस्य कृपयतो युद्धं कल्पयतः शत्रोः सासह्वांसमभिभवितारं
+> स्तुवंत इति शेषः । स त्वं नूनं क्षिप्रमद्यापीदानीमपि धनं प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we praise you, the lord of all riches, the subduer of this obstructor, the enemy who prepares war (the words "they praise" are to be supplied). You, quickly, today as well, now, give wealth: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) विश्वेषां (*viśveṣāṃ*)—of all
+- वसूनां (*vasūnāṃ*)—riches
+- इरज्यंतं (*irajyaṃtaṃ*)—the lord
+- वर्पसः (*varpasaḥ*)—obstructing and
+- कृपयतः (*kṛpayataḥ*)—creating war
+- अस्य (*asya*)—of this enemy
+- सासह्यांसं (*sāsahyāṃsaṃ*)—who brings defeat, such you we praise
+- नूनं (*nūnaṃ*)—quickly
+- अत्यथ (*atyatha*)—give wealth
+
+##### भावार्थ (Bhāvārtha)
+
+We praise you, the lord of all riches, who bring defeat to this enemy who obstructs and creates war. Give us wealth quickly.
+
+##### English translation
+(We praise you), the lord of all riches the subduer of this obstructor waging (attacks),—speedily give us abundant (wealth).
+
+### Printed p. 507
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हः सु वो॒ अर॑मिषे॒ स्तवा॑महे मि॒ळ्ळुषे॑ अरंग॒माय॒  ॑
+> जग्मये ।  
+> य॒ज्ञेभि॑र्गि॒र्भिर्वि॒श्वम॑नुषां म॒रुता॑मियक्षसि॒ गाये॑ त्वा॒ ॑ ॒
+> नमसा गिरा ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । सु । वः । अरु । इषे । स्तवामहे । माळ्हुषे । अरंगमाय । जग्मये ।  
+> यज्ञेभिः । गीर्भिः । विश्वमनुषां । मरुतां । इयक्षसि । गाये । त्वा । नमसा ।  
+> गिरा ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महो महतो वः । तवेत्यर्थः ॥ व्यत्ययेन बहुवचनं ॥
+> अरं गमनमस्मदृषयमिच्छामि ॥ अर्तॆररमिति रूपं ॥ तदर्थं मीळ्हुषे सेक्रेऽपंगमाय संपूर्णगमनाय जग्मये गमनशीलाय यज्ञं प्रति एवंभूताय
+> देवाय स्तवामहे । त्वां स्तुम इत्यर्थः । केन साधनेनेति तदुच्यते । यज्ञेभिर्यजनसाधनैर्हविर्भियर्जैरेव वा गीर्भिः स्तुतिभिः । हे देव विश्वमनुषां
+> विश्वेषां मनुष्याणां यष्टणामियक्षसि । एतैरिज्यसे । मरुतां संबंधी त्वं । किंच
+> त्वा त्वां नमसा नमस्कारेण गिरा स्तुत्या च गाये । स्तुवे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, "of the great, to you" is the sense; the plural is used by interchange of number. I desire your coming to us **NOTE**. For that purpose, to the sprinkler, to the one of complete going **NOTE**, to the one given to going to the sacrifice, to such a god we sing praise: that is, we praise you. By what means? That is told: by the means of worship, the oblations, or the sacrifices themselves, and by praises. O god, you are worshipped by these, being of all men, the sacrificers; you are related to the Maruts. Moreover I praise you with homage, that is salutation, and with praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) महः (*mahaḥ*)—of the great one
+- वः (*vaḥ*)—your
+- आरं (*āraṃ*)—coming
+- सुइषे (*suiṣe*)—I desire exceedingly
+- माळ्हुषे (*māḷhuṣe*)—towards Indra, the giver of what is desired
+- आरंगमाय (*āraṃgamāya*)—for the excellent coming
+- जग्मये (*jagmaye*)—also for the going to the sacrifice
+- यज्ञेभिः (*yajñebhiḥ*)—by sacrificial rites
+- गीर्भिः (*gīrbhiḥ*)—by praises
+- स्तवामहे (*stavāmahe*)—we praise
+- (O Indra) मरुतां (*marutāṃ*)—you, the friend of the Maruts
+- विश्वमनुषां (*viśvamanuṣāṃ*)—for all men
+- इयक्षसि (*iyakṣasi*)—you are worthy of worship
+- त्वा (*tvā*)—you
+- नमसा (*namasā*)—with homage
+- गिरा (*girā*)—with the word of praise
+- गाये (*gāye*)—I praise with song
+
 ---
 
-**Progress note:** Done through printed p. 501. Mandala 8 sukta 46 Rks 5 (end) to 11 (start)
+**Progress note:** Done through printed p. 507. Sūkta 46 Ṛk 11 end, Ṛk 12-17 (pp. 502-507)
