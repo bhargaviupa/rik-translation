@@ -36277,6 +36277,68 @@ O Maruts, excellent sharers in the sacrifice: whatever medicine there is in the 
 ##### English translation
 Whatever medicament there may be in the Sindu, in the Asikni, in theoceans, in the mountains, Maruts, who are gratified by sacrifice,
 
+### Printed p. 855
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वं॒ पश्यं॑तो बिभृथा त॒नूष्वा तेना॑ नो॒ अधि॑  
+> वोचत ।  
+> क्ष॒मा रपो॑ मरुत॒ आतु॑रस्य न॒ इष्क॑र्ता॒ विह्रु॑तं॒ पुनः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वं । पश्यंतः । बिभृथ । तनूषु । आ । तेन । नः । अधि । वोचत ।  
+> क्षमा । रपः । मरुतः । आतुरस्य । नः । इष्कर्त । विह्रुतं । पुनरिति ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वं सर्वं पूर्वोक्तं भेषजं पश्यंतो जानंतो यूयं तनूष्वस्मदीयेषु विषयेष्टा बिभृथ । आहरथ । आहृतेन च तेन नोऽस्मानधि वोचत । अधि ब्रूत।
+> चिकित्सतेत्यर्थः । अपि च हे मरुतः नोऽस्माकु मध्य आतुरस्य रोगिणो रपः । पापनामैतत् । रपसः पापफलस्य रोगस्य क्षमा क्वांतिर्यथा भवति तथा विह्रुतं
+> विबाधितमंगं पुनरिष्कर्त । निःशेषेण संपूर्णं कुरुत ॥ निसो नलोपश्चांदसः ।
+> करोतेर्लोटि छांदसो विकरणस्य लुक् । तप्तनप्तनथनाश्वेति तशब्दस्य तबादेशः ।
+> अत एवोपसर्गसमुदायो नावगृह्यते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: you, Maruts, seeing (knowing) all the medicaments mentioned before, bring them into our bodies, that is, into our own spheres; and with what has been brought, speak to us, that is, treat us. Further, O Maruts, among us the sick man's रपः (*rapaḥ*) (a name for sin) — that is, the disease, the fruit of sin — so that it may be endured and pass away in peace, restore विह्रुतं (*vihrutaṃ*), the afflicted limb, again, making it completely whole. He adds that the loss of न (*na*) in इष्कर्त (*iṣkarta*) is Vedic, and that the preverb-group is not separated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- विश्वं (*viśvaṃ*)—all the medicaments
+- पश्यंतः (*paśyaṃtaḥ*)—you who know
+- तनूषु (*tanūṣu*)—in our bodies
+- आ बिभृथ (*ā bibhṛtha*)—fill them in
+- तेन (*tena*)—by that
+- नः (*naḥ*)—us
+- अधि वोचत (*adhi vocata*)—declare and make known that (we) have been healed
+- नः (*naḥ*)—in the midst of us
+- आतुरस्य (*āturasya*)—of the one who is sick
+- रपः (*rapaḥ*)—the sin in the form of disease
+- क्षमा (*kṣamā*)—wholly removing it, so that peace comes to him
+- विह्रुतं (*vihrutaṃ*)—his body, shrunken by disease
+- पुनः (*punaḥ*)—again
+- इष्कर्त (*iṣkarta*)—make it refined (restored)
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, knowing all the medicaments, fill our bodies with them. Declare thereby that we are healed. Wholly remove the disease-like sin of the sick man among us, so that peace comes to him, and make his body, shrunken by disease, again refined (make him healthy).
+
+##### English translation
+You, beholding every sort, collect them for (the good of) our bodies, and instruct us in their (uses): let the cure of sickness (be the portion), Maruts, of him amongst us who for his wickedness is sick; re-establish his enfeebled (frame).
+
+### Printed p. 856
+Closing verses: May Vidyātīrtha Maheśvara, dispelling the darkness of the heart by the illumination of the meaning of the Veda, grant the four human aims.
+
+Thus in the Vedārthaprakāśa of Mādhava, a Ṛksaṃhitā commentary composed by Sāyaṇāmātya, bearer of the burden of the empire of the illustrious King Vīra Bukka, founder of the Vedic path, the first chapter of the sixth Aṣṭaka is concluded. Om, so be it.
+
+Here ends the first chapter in the sixth Aṣṭaka of the Ṛgveda Saṃhitā, with the commentary of Śrī Sāyaṇa and the Kannada translation.
+
+Whatever is lacking in syllable or word, or deficient in measure, may all that be forgiven, O Lord of Speech; salutation to you. May it be auspicious. Blessings.
+
+Printed by K. Venkatasubbiah, at Sri Vinayak Printing Works, Mysore.
+
 ---
 
-**Progress note:** Done through printed p. 854. pp. 849-854 (batch API)
+**Progress note:** Done through printed p. 856. pp. 855-856 (batch API)
