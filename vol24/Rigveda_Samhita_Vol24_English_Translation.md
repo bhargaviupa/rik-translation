@@ -9151,6 +9151,293 @@ O riśādasas, devourers of those who harm, O gods worthy of the sacrifice of Ma
 - स्तुतासः (*stutāsaḥ*)—praised
 - असथ (*asatha*)—you have become
 
+### Printed p. 201
+
+##### भावार्थ (Bhāvārtha)
+
+O destroyers of enemies, O gods worthy of worship in the sacrifice for me, called Manu, you who are thirty-three in number, being such, you have thus been praised by me.
+
+##### English translation
+Destroyers of foes, gods. adored by Manu. who are three-and-thirty, and are thus hymned:
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते न॑स्त्राध्वं॒ ते॑वत॒ त उ॑ नो॒ अधि॑ वोचत ।  
+> मा नः॑ प॒थः पित्रा॑न्मान॒वादधि॑ दू॒रं नै॑ष्ट परा॒वतः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । त्राध्वं । ते । अवत । ते । ऊं इति । नः । अधि । वोचत ।  
+> मा । नः । पथः । पित्र्यात् । मानवात् । अधि । दूरं । नैष्ट । परावतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः ते यूयं नोऽस्मांस्राध्वं । बाधकेभ्यो रक्षोभ्यस्त्रायध्वंते यूयमवत । धनादिप्रदानैरस्मान्द्रक्षत । त एव देवा नोऽस्मानधि वोचत ।
+> अधिकं भवंतः कर्मकारिणो धनादिमंतश्च भवंतिति यूयं ब्रूत । किंच हे
+> देवाः मानवात् । मनुः सर्वेषां पिता । तत आगतात्पित्यात् पिता मनुर्यं
+> मार्गं चक्रे तस्मात्पथो मार्गान्नोस्मान्मा नैष्ट । मा नयत । अपनयनं मा
+> कुरुतेत्यर्थः । सर्वदा ब्रह्मचर्याग्निहोत्रादिकर्माणि येन मार्गेण भवंति
+> तमेवास्मान्नयत । किंतु दूरं य एतद्व्यतिरिक्तो विप्रकृष्टमार्गोऽस्ति तस्मादधि ।
+> अधिकमित्यर्थः । अस्मानपनयत ॥
+
+##### Gist of the bhāṣya
+
+O gods, you protect us: save us from the harassing demons. You help us: protect us by giving wealth and the like. Those same gods speak to us: you say that we shall be more abundant in performing rites and possessed of wealth and the like. Further, O gods, Manu is the father of all; from the paternal path that came from him, the road that father Manu made, do not lead us away, that is, do not remove us. By whatever path the rites such as brahmacarya and the Agnihotra are always performed, lead us by that very path; but from the other road that is far removed from this, take us far away.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) ते (*te*)—you
+- नः (*naḥ*)—us
+- त्राध्वं (*trādhvaṃ*)—protect from demons and the like
+- ते (*te*)—you, the same
+- अवत (*avata*)—protect by granting wealth
+- ते (*te*)—you, the same
+- नः (*naḥ*)—to us
+- अधिवोचित (*adhivocita*)—bless that welfare may come
+- पित्र्यात् (*pitryāt*)—that which has come down in the family line
+
+### Printed p. 202
+
+- मानवात् (*mānavāt*)—that which is followed by Manu
+- पथः (*pathaḥ*)—from the good path
+- नः (*naḥ*)—us
+- मा नैष्ट (*mā naiṣṭa*)—do not make us deviate and go to another path
+- दूतः (*dūtaḥ*)—that which is other than this **NOTE**
+- परावतः (*parāvataḥ*)—from the distant path
+- अधि (*adhi*)—turn us back, greatly
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, protect us from demons and the like. You, the same, protect us by granting wealth. You, the same, bless us that welfare may come to us. Do not make us deviate and go to another path from the good path that has come down in the family line and is followed by Manu. Turn us back from the distant path that is other than this.
+
+##### English translation
+Preserve us, protect us, direct us (to our good); lead us not afar from the paternal paths of Manu, nor from those still more distant.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये दे॑वास इ॒ह स्थन॒ विश्वे॑ वैश्वान॒रा उ॒त ।  
+> अ॒स्मभ्यं॒ शर्म॑ स॒प्रथो॒ गनेऽश्वा॑य यच्छत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । देवासः । इह । स्थन । विश्वे । वैश्वानराः । उत ।  
+> अस्मभ्यं । शर्म । सप्रथः । गने । आश्वाय । यच्छत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासो देवाः उतापि च वैश्वानराः । विश्वे सर्वॆ नरः कर्मनेतारोऽध्वय्यादयो यस्य स विश्वानरो यज्ञः । तस्मिन् सोमादिहवींषि स्वीकर्तुं
+> भवाः प्रादुर्भूताः ॥ भवार्थेऽप्पत्ययः ॥ यद्वा । विश्वानरोऽग्निः । देवानां
+> तन्मुखत्वात्तस्य संबंधिनः । विश्वे सर्वॆ ये देवा यूयमिहास्मिन्नस्मदीये यज्ञे
+> स्थन हवींष्यादातुं भवथ ततः सप्रथः ॥ प्रथ प्रख्याने ॥ सर्वतः प्रसिद्धं सर्वत्र
+> पृथुतमं वा शर्म । सर्वं शृणाति हिनस्ति दुःखमिति शर्म सुखं । तदस्मभ्यं
+> प्रयच्छत । तथा गवेऽस्मदीयेभ्यो यज्ञसाधनभूतेभ्यो गोभ्योऽश्वाय
+> शर्म सुखं प्रदत्त ॥
+
+##### Gist of the bhāṣya
+
+O gods, and also you Vaiśvānaras. Viśvānara is the sacrifice, for all men, the adhvaryu and the other leaders of the rite, belong to it; those who are born, who have appeared in it, to accept the oblations of Soma and the rest, are Vaiśvānaras. Or else Viśvānara is Agni, and the gods, since he is their mouth, are connected with him. All of you gods who are here, in this sacrifice of ours, to receive the oblations: from that, sapratha, happiness that is renowned everywhere or most widespread. Śarma is happiness, for it destroys all sorrow. Give that to us; and likewise give happiness for our cows, which are the means of the sacrifice, and for the horse.
+
+### Printed p. 203
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- देवासः (*devāsaḥ*)—O gods
+- वैश्वानराः (*vaiśvānarāḥ*)—those who have appeared in the sacrifice in which all, the adhvaryu and the others, are gathered
+- ये विश्वे (*ye viśve*)—all of you who
+- इह (*iha*)—in this sacrifice of ours
+- स्थन (*sthana*)—gather to receive the oblation, such you
+- सप्रथः (*saprathaḥ*)—renowned everywhere
+- शर्म (*śarma*)—happiness
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- गवे (*gave*)—to our cattle
+- आश्वाय (*āśvāya*)—and to the horses
+- यच्छथ (*yacchatha*)—bestow
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, you who have appeared in the sacrifice in which all, the adhvaryu and the others, are gathered, all of you who are gathered in this sacrifice of ours to receive the oblation, bestow happiness renowned everywhere upon us, upon our cattle and upon our horses.
+
+##### English translation
+Gods, who are present all to whom this full sacrifice is offered, bestow upon us, upon our cattle and horses, happiness far renowned.
+
+## Sūkta 31 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेऽनुवाके द्वादश सूक्तानि । तत्र यो यजातीत्यष्टादशर्चं प्रथमं
+> सूक्तं । वैवस्वतो मनुर्यषिः नवमीचतुर्दश्यावनुष्टुभौ शिष्टाः पंचदश्याद्वाक्षतस्र पंक्तयः । दशनो पादनिच्छत् । त्रयः सप्तकाः पादनिच्छत् । अनु. ४_४ ।
+> इति शल्लक्षणात् । शिष्टा एकादश प्राग्वत्सप्रपरिभाषया गायत्र्यः । आद्यासु चतसृषु
+> यज्ञस्ततो यजमानप्रशंसा च श्रूयते । अतस्तद्देवताकाः । या दंपती
+> इत्याद्यासु पंचम्यादिषु दंपती प्रशस्येते । अतस्तद्देवताकाः । अवशिष्टासु नवसु
+> दंपत्योराशिषः प्रतिपाद्यंते । आतस्ता एव देवताः । कथा चानुक्रम्यते । यो
+> यजाति द्यूनात्रेज्यास्तवो यजमानप्रशंसा च येत्यादिपंच दंपत्योः शिष्टास्तदाशिषोऽनुष्टुप् चतुष्पंक्यंतं नवम्मनुष्टुब्बशमी पादनिच्छदिति ॥
+
+##### Gist of the bhāṣya
+
+In the fifth Anuvāka there are twelve hymns. Among them the hymn of eighteen Ṛks beginning यो यजाति (*yo yajāti*) is the first. Manu Vaivasvata is the seer. The ninth and the fourteenth are Anuṣṭup; the remaining ones from the fifteenth are four Paṅkti verses. The tenth is Pādanicṛt. The text quoted from the Anukramaṇī gives the mark of this: three heptads make a Pādanicṛt, that is, three feet of seven syllables each. The remaining eleven are Gāyatrī by the rule stated earlier. In the first four, the sacrifice and then the praise of the sacrificer are heard, so they have these as deity. In the fifth and the following Ṛks, beginning with the one that has या दंपती (*yā daṃpatī*), the couple is praised, so they have the couple as deity. In the remaining nine the blessings on the couple are set forth, so these are the deity. And the Anukramaṇī gives it thus.
+
+Anuvāda: In the fifth Anuvāka of the eighth Maṇḍala there are twelve hymns. Among them this hymn beginning यो यजाति (*yo yajāti*) is the first. In it there are eighteen Ṛks.
+
+### Printed p. 204
+
+The seer of this hymn is Manu, the son of Vivasvān. In this hymn the ninth and the fourteenth Ṛks are in the Anuṣṭup metre; the four Ṛks after the fifteenth are in the Paṅkti metre; the tenth Ṛk is in the metre called Pādanicṛt. The mark of this metre is that where a Ṛk has three feet, each foot of seven syllables, that Ṛk is in the metre Pādanicṛt. The remaining eleven Ṛks are in the Gāyatrī metre. In the first four Ṛks of this hymn the praise of the sacrifice and of the sacrificer is stated, so those Ṛks have that as deity; in the four Ṛks (5-9) beginning with या दंपती (*yā daṃpatī*) the subject is the couple, so those Ṛks have the couple as deity; in the remaining nine Ṛks the subject is the blessing of the couple, so those Ṛks have the blessing of the couple as deity. **NOTE** The Anukramaṇī says as quoted above.
+
+Sūkta 31. Maṇḍala 8, Anuvāka 5, Sūkta 31. Aṣṭaka 6, Adhyāya 2, Varga 38, 39, 40. Number of Ṛks in the sūkta: 18. Seer: Manu Vaivasvata. Deity: 1-4, the praise of the sacrifice and of the sacrificer; 5-9, the couple; 10-18, the blessings of the couple. Metre: 1-8, 11-13, Gāyatrī; 9, 19, Anuṣṭup; 10, Pādanicṛt; 15-18, Paṅkti. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो यजा॑ति॒ यजा॑त॒ इत्सु॒नव॑च्च॒ पचा॑ति च ।  
+> ब्र॒ह्मेदिंद्र॑स्य चाकनत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । यजाति । यजाते । इत् । सुनवत् । च । पचाति । च ।  
+> ब्रह्मा । इत् । इंद्रस्य । चाकनत् ॥ १ ॥
+
+### Printed p. 205
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानः सकृद्यजाति यागं करोति हविर्भिर्देवान्सूजयति स
+> देवेभ्यो लब्बधनादिकः सन् यजात इत् । पुनरभीष्टप्राप्तॆये देवेभ्यो हवींषि
+> प्रयच्छत्येव । तथा स एव यजमानः सुनवच्च ॥ सोमाभिषवं करोति च । स एव
+> पचाति च । पशुपुरोदाशादिकं पचति च ॥ सर्वत्र यजादिषु लेट्यडागमाः ॥ स
+> यजमान इंद्रस्य ब्रह्म ब्रह्माणि । इदवधारणे । इंद्रसंबंधीनि स्तोत्राण्येव
+> चाकनत् । पुनःपुनः कामयते ॥ कनतेः कांत्यर्थाद्यज्लुक्यभ्यासत्वं छांदसं ।
+> ततो लेट्यडागमः ॥ अत्र यागे यजमानो धनादि लभत इति यज्ञप्रशंसा । स
+> एव दृष्टफलः सन् सोमाभिषवादीन्करोतीति यजमानप्रशंसा ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who once sacrifices, performs the rite, and honours the gods with oblations, having received wealth and the like from the gods, again offers oblations to the gods to obtain what he desires. The same sacrificer also presses Soma, and he also cooks the animal cake and the like. He desires again and again the hymns of Indra, the praises that belong to Indra. Here the sacrificer obtains wealth and the like in this rite: this is the praise of the sacrifice. Having seen the fruit, he performs the pressing of Soma and the rest: this is the praise of the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- यजाति (*yajāti*)—having performed the sacrifice once (and obtained wealth)
+- यजात इत् (*yajāta it*)—he again performs the sacrifice, to gain wealth
+- सुनवच्च (*sunavacca*)—he presses Soma and offers it
+- पचाति च (*pacāti ca*)—he offers also the cakes and the rest (the same sacrificer)
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- ब्रह्म इत् (*brahma it*)—the hymns of praise alone
+- चाकनत् (*cākanat*)—desires to recite
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who, having once performed the sacrifice, has obtained wealth, the same again performs the sacrifice to obtain wealth. He also presses Soma and offers it, and offers also the cakes and the rest. The same sacrificer desires to recite only the hymns of praise of Indra.
+
+##### English translation
+He who offers oblations (to the gods, again) offers them : he pours forth libations and presents (the sacred cake), he delights in reiterating the the praise verily of Indra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रो॒ळाशं॒ यो अ॑स्मै॒ सोमं॒ रर॑त आ॒शिरं॑ ।  
+> पादित्तं श॒क्रो अह॑सः ॥ २ ॥
+
+### Printed p. 206
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरोळाशं । यः । अस्मै । सोमं । ररते । आशिरं ।  
+> पात् । इत् । शक्रः । अ०हसः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानोऽस्मा इंद्राय पशुपुरोळाशं तथाशिरं तृतीयसवने
+> गोक्षीरेणामिश्रितं सोमं ररते प्रयच्छति ॥ रातेर्लट शपः श्लुः । अडागमः ॥
+> शक्रः समर्थः स इंद्रस्तं यष्टारमंहसः पापात्तद्रूपाद्रक्षसो ना पात् । इदवधारणे ! अपादेव । रक्षत्येव । पातेर्लुजि रूपं ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who gives to this Indra the animal cake, and also the āśira, Soma mixed with cow's milk at the third pressing, to him Śakra, the capable one, Indra, protects that sacrificer from sin, from a demon of that form; the word इत् (*it*) is for emphasis, so he does protect him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- अस्मै (*asmai*)—for this Indra
+- आशिरं (*āśiraṃ*)—mixed with milk and the like
+- सोमं (*somaṃ*)—the Soma juice
+- पुरोडाशु (*puroḍāśu*)—and the cake
+- ररते (*rarate*)—offers
+- शक्रः (*śakraḥ*)—Indra, the capable
+- तं (*taṃ*)—that giver of the oblation
+- अंहसः (*aṃhasaḥ*)—from sin
+- पात् इत् (*pāt it*)—certainly protects
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who offers to Indra the Soma juice mixed with milk and the like, and the cake and the rest, that same capable one protects that giver of the oblation from sin, certainly.
+
+##### English translation
+Indra protects from sin that man who offers him cakes and presents Soma mixed with milk.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्य॑ द्यु॒मा अ॑स॒द्रथो॑ दे॒वजू॑तः॒ स शू॑शुवत् ।  
+> विश्वा॑ व॒न्वन्न॑मि॒त्रया॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्य । द्युमान् । असत् । रथः । देवजूतः । सः । शूशुवत् ।  
+> विश्वा । वन्वन् । अमित्रिया ॥ ३ ॥
+
+### Printed p. 207
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्य देवान्पूजयतो यजमानस्य देवजूतो देवैरिंद्रादिभिः प्रेरितो
+> द्युमान् दीप्तिमान् रथो रंहणशीलः स्यंदनो देवानां हविष्पदानरूपेण यज्ञेनासत् । भवति । आगच्छति । ततस्तेन रथेनामित्रियामित्रियाच्छतुभिः कृतान् विश्वा
+> सर्वान् बाधान् वन्वन् । वनोतिर्हिंसाकर्मेति यास्कः । हिंसन् स एव शूशुवत् ।
+> पुत्रादिभिर्धनैश्च वर्धते । अत्र येन मे रथो बाधाभावश्चाभूदिति यागप्रशंसा
+> येन सम्यगिष्टदेवा रथं दत्तवंत इति यजमानप्रशंसा ॥
+
+##### Gist of the bhāṣya
+
+To that sacrificer who honours the gods there comes, in the form of the sacrifice that gives oblations to the gods, a chariot sent by the gods, Indra and the others, brilliant and swift. Then by that chariot he destroys all the troubles brought about by enemies (वनोतिर्हिंसाकर्मेति यास्कः (*vanotirhiṃsākarmeti yāskaḥ*)), and he himself prospers with sons and wealth. Here, the words that by which my chariot and freedom from troubles came to be are the praise of the sacrifice; that by which the gods, rightly worshipped, gave the chariot is the praise of the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तस्य (*tasya*)—to the sacrificer who worships the gods
+- देवजूतः (*devajūtaḥ*)—sent by the gods
+- द्युमान् (*dyumān*)—full of radiance
+- रथः (*rathaḥ*)—the chariot
+- असत् (*asat*)—comes and joins (with the help of that chariot)
+- अमित्रिया (*amitriyā*)—arising from enemies
+- विश्वा (*viśvā*)—all the troubles
+- वन्वन् (*vanvan*)—destroying
+- सः (*saḥ*)—the same sacrificer
+- शूशुवत् (*śūśuvat*)—attains growth with sons and the rest
+
+##### भावार्थ (Bhāvārtha)
+
+To the sacrificer who worships the gods there comes a chariot sent by the gods and full of radiance. With the help of that chariot, destroying all the troubles that arise from enemies, the same sacrificer attains growth with sons and the rest.
+
+##### English translation
+A brilliant chariot comes to him, sent by the gods, with which, baffling all hostilies, he prospers.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्य॑ प्र॒जाव॑ती गृ॒हेऽस॑श्चंती दि॒वेदि॑वे ।  
+> इळा॑ धेनु॒मती॑ दुहे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । प्रजावती । गृहे । असश्चंती । दिवेदिवे ।  
+> इळा । धेनुमती । दुहे ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 200. Sūkta 29 Ṛks 6-10 end, Sūkta 30 Ṛks 1-2
+**Progress note:** Done through printed p. 207. Sūkta 30 Ṛks 2-4 end, Sūkta 31 Ṛks 1-4
