@@ -22641,6 +22641,307 @@ Fortunate in sacrifice is that mortal whom the guileless Maruts, whom Aryaman an
 > दधानः । गोमत् । अश्ववत् । सुवीर्यं । आदित्यजूतः । विधतॆः ।  
 > सदा । राया । पुरुस्पहा ॥ ५ ॥
 
+### Printed p. 496
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यजूत आदित्यप्रेरित आदित्यानुगृहीतो यजमानो गोमद्गोभिरुपेतमश्ववदश्वैरुपेतं सुवीर्यं शोभनवीयोर्णपेतं पुत्रं दधानो धारयन्नेधते वर्धते सदा सर्वदा । किंच पुरुस्पृहा बहुभिः स्पृहणीयेन राया धनेन
+> सडैधते ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who is impelled by Āditya (आदित्यजूत (*ādityajūta*)), that is, favoured by the Ādityas, bearing (दधानः (*dadhānaḥ*)) a son endowed with cows (गोमत् (*gomat*)), with horses (अश्ववत् (*aśvavat*)) and with excellent vigour (सुवीर्यं (*suvīryaṃ*)), prospers (एधते (*edhate*)) always. Moreover he prospers with wealth (राया (*rāyā*)) that is much desired (पुरुस्पृहा (*puruspṛhā*)), that is, desirable to many. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यजूतः (*ādityajūtaḥ*)—the sacrificer impelled by Āditya
+- गोमत् (*gomat*)—that which is furnished with cows
+- अश्ववत् (*aśvavat*)—that which is accompanied by horses
+- सुवीर‍्यं (*suvīryaṃ*)—the wealth of sons endowed with excellent vigour
+- दधानः (*dadhānaḥ*)—having obtained
+- सदा (*sadā*)—always
+- एधते (*edhate*)—attains increase
+- पुरुस्पृहा (*puruspṛhā*)—desired by many
+- राया (*rāyā*)—with wealth also he attains increase
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer impelled by Āditya, having obtained a wealth of sons furnished with cows, accompanied by horses and endowed with excellent vigour, attains increase always. He attains increase also with wealth desired by many.
+
+##### English translation
+He who is directed by Aditya ever increases, possessing abundance of cows and horses and vigorous children ; he increases in wealth longed for by many.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिंद्रं॒ दान॑मीमहे शवसा॒नमभी॑र्वं ।  
+> ईशा॑नं रा॒य ई॑महे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इंद्रं । दानं । ईमहे । शवसानं । अभीर्वं ।  
+> ईशानं । रायः । ईमहे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं प्रसिद्धमिंद्रं दानं देयं रायो धनमीमहे । याचामहे । कीदृशमींद्रं । शवसानं बलमाचरंतमभीर्वमभीरुमीशानं सर्वस्य स्वामिनं ॥
+
+##### Gist of the bhāṣya
+
+We ask (ईमहे (*īmahe*), we beg) that well-known Indra for a gift (दानं (*dānaṃ*), what is to be given), for wealth (रायः (*rāyaḥ*)). What kind of Indra? One who is practising (शवसानं (*śavasānaṃ*)) strength, fearless (अभीर्वं (*abhīrvaṃ*), not timid), the lord (ईशानं (*īśānaṃ*)), the master of all.
+
+### Printed p. 497
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रं (*iṃdraṃ*)—the well-known Indra
+- दानं (*dānaṃ*)—for the things that must be given to us
+- ईमहे (*īmahe*)—I ask
+- शवसानं (*śavasānaṃ*)—one whose work is full of power
+- अभीर्वं (*abhīrvaṃ*)—the fearless
+- ईशानं (*īśānaṃ*)—the lord, Indra
+- रायः (*rāyaḥ*)—for wealth
+- ईमहे (*īmahe*)—I ask
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+We ask the well-known Indra for the things that must be given to us. We ask Indra, whose work is full of power, who is fearless, who is the lord, for wealth.
+
+##### English translation
+We solicit a gift from this Indra, the displayer of might, the fearless ; we solicit wealth from the lord.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मि॒न्हि संतू॒तयो॒ विश्वा॒ अभी॑रवः॒ सचा॑ ।  
+> तमा व॑हंतु॒ सप्त॑यः पुरू॒वसुं॒ मदा॑य॒ हर॑यः सु॒तं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्मिन् । हि । संति । ऊतयः । विश्वाः । अभीरवः । सचा ।  
+> तं । आ । वहंतु । सप्तयः । पुरुवसुं । मदाय । हरयः । सुतं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्मिन्निंद्र ऊतयो गंत्रो विश्वाः सर्वा अभीरवोऽकातराः सचा सहायभूता मरुद्रूपाः सेनाः संति । भवंति । अथवा तस्मिन् सर्वा रक्षणाः सह संभवंति ।
+> तमिंद्रं सप्त्ययः सर्पणशीला हरयोऽश्वाः पुरूवसुं बहुधनं ! बहुदनप्रदमित्यर्थः ! तं मदाय सुतमभिसुतमभिषुतं सोमं प्रत्या वहंतु ! आगमयंतु !!
+
+##### Gist of the bhāṣya
+
+In that Indra (तस्मिन् (*tasmin*)) are all (विश्वाः (*viśvāḥ*)) the fearless (अभीरवः (*abhīravaḥ*), undaunted) protections (ऊतयः (*ūtayaḥ*)), which are the helping armies in the form of the Maruts; they are present together (सचा (*sacā*)). Or else: in him all protections come into being together. Let the swift (सप्तयः (*saptayaḥ*), of creeping nature) bay horses (हरयः (*harayaḥ*)) bring that Indra, of abundant wealth (पुरूवसुं (*purūvasuṃ*)), that is, a giver of abundant wealth, for his exhilaration (मदाय (*madāya*)) to the pressed Soma (सुतं (*sutaṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तस्मिन् हि (*tasmin hi*)—in that same Indra
+- विश्वाः (*viśvāḥ*)—all
+- अभीरवः (*abhīravaḥ*)—fearless
+- ऊतयः (*ūtayaḥ*)—protections
+- सचा (*sacā*)—together
+- संति (*saṃti*)—are united
+
+### Printed p. 498
+
+- पुरूवसुं (*purūvasuṃ*)—possessing abundant wealth
+- तं (*taṃ*)—that same Indra
+- सप्तयः (*saptayaḥ*)—of a nature to move swiftly
+- हरयः (*harayaḥ*)—the horses
+- मदाय (*madāya*)—for his delight
+- सुतं (*sutaṃ*)—towards the pressed Soma
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+In that well-known Indra all the fearless protections are united together. Let the horses, of a nature to move swiftly, bring that same Indra, who has abundant wealth, towards the pressed Soma for his delight.
+
+##### English translation
+In him abide united all secure protections ; lord of vast wealth, may his gliding steeds bear him to the expressed Soma juice for his exhilaration.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ मदो॒ वरे॑ण्यो॒ य इं॑द्र वृत्र॒हंत॑मः ।  
+> य आ॑द॒दिः स्व१॒॑ १ र्नृभि॒र्यः पृत॑नासु दु॒ष्टरः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । मदः । वरेण्यः । यः । इंद्र । वृत्रहन्तमः ।  
+> यः । आददिः । स्वः । नृभिः । यः । पृतनासु । दुस्तरः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रे मदाय हरय इत्युक्तं स मदः स्तूयते । हे इंद्र ते
+> शव यो मदो वरेण्यो वरणीयः । यश्च मदः संग्रामे वृत्रहंतमः
+> शत्रुणामतिशयेन हंता । यश्चाददिरादाता स्वः स्वरणं धनं नृभिन्नृभ्यः शत्रुभ्यः ।
+> यश्च पृतनासु संग्रामेषु दुष्टरोऽनभिभाव्यः । तस्मै मदाय हरयो वर्णश्विति ॥
+
+##### Gist of the bhāṣya
+
+The exhilaration (मदः (*madaḥ*)) mentioned in the previous mantra, "for exhilaration the bay horses", is now praised. O Indra, your exhilaration that is to be chosen (वरेण्यः (*vareṇyaḥ*), desirable); the exhilaration that in battle is the greatest slayer (वृत्रहंतमः (*vṛtrahaṃtamaḥ*)) of enemies; that is the taker (आददिः (*ādadiḥ*)) of wealth (स्वः (*svaḥ*)) from enemies (नृभिः (*nṛbhiḥ*)); and that is hard to overcome (दुष्टरः (*duṣṭaraḥ*)), not to be mastered, in battles (पृतनासु (*pṛtanāsu*)): for that exhilaration let the bay horses **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- यः (*yaḥ*)—which
+- मदः (*madaḥ*)—satisfaction
+- वरेण्यः (*vareṇyaḥ*)—is venerable
+- यः (*yaḥ*)—which satisfaction
+- वृत्रहंतमः (*vṛtrahaṃtamaḥ*)—is completely destructive of enemies
+- यः (*yaḥ*)—which
+- नृभिः (*nṛbhiḥ*)—from enemy men
+- स्वः (*svaḥ*)—their wealth
+- आदिः (*ādiḥ*)—takes away
+- यः (*yaḥ*)—which delight
+- पृतनासु (*pṛtanāsu*)—in battles
+- दुष्टरः (*duṣṭaraḥ*)—is irresistible and strength-giving (for that delight may your horses bring you)
+
+### Printed p. 499
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, that satisfaction of yours which is venerable and completely destructive of enemies, which takes away the wealth of enemy men, which delight is irresistible and strength-giving in battles: for that delight may your horses bring you.
+
+##### English translation
+That exhilaration of yours, Indra, which is pre-eminet, which utterly destroys your enemies, which wins wealth from men, and is invincible in battles ;
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो दु॒ष्टरो॑ विश्ववार श्र॒वाय्यो॒ वाजे॒ष्वस्ति॑ तरु॒ता ।  
+> स नः॑ शविष्ठ॒ सव॒ना व॑सो गहि ग॒मेम॒ गोम॑ति व्र॒जे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । दुस्तरः । विश्ववार । श्रवाय्य ॥ वाजेषु । अस्ति । तरुता ।  
+> सः ! नः । शविष्ठ । सवना । आ । वसो इति । गहि । गमेम । गोऽमति । व्रजे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्ववार विश्वैर्वर्णनीयेंद्र वाजेषु युद्धेषु यस्तव दुष्टरो
+> दुःखेन तरीतुं शक्यस्तरुता शत्रोणां तारकोऽस्ति भवति हे वसो वासक हे
+> शविष्ठातिशयेन बलवन्निंद्र स त्वं नः सवनास्माकं सवनान्या गहि । आगच्छ । :वयं च
+> गोमति व्रजे गोमंतं व्रजं गमेम । गच्छेम ॥
+
+##### Gist of the bhāṣya
+
+O Viśvavāra, Indra, to be chosen by all: in battles (वाजेषु (*vājeṣu*)) that which of yours is hard to cross (दुष्टरः (*duṣṭaraḥ*)), that is, difficult to overcome, and is the overcomer (तरुता (*tarutā*)) of enemies. O Vasu, dweller, O Śaviṣṭha, Indra, exceedingly strong: you, such as you are, come (आ गहि (*ā gahi*)) to our (नः (*naḥ*)) savanas, our sacrifices; and may we reach (गमेम (*gamema*)) a stall (व्रजे (*vraje*)) full of cows (गोमति (*gomati*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववार (*viśvavāra*)—one worthy of the regard of all
+- वसो (*vaso*)—giver of dwellings
+- शविष्ठ (*śaviṣṭha*)—exceedingly mighty; O Indra
+- वाजेषु (*vājeṣu*)—in battles
+- दुष्टरः (*duṣṭaraḥ*)—irresistible
+- श्रवाय्यः (*śravāyyaḥ*)—and renowned
+- य (*ya*)—which
+- तरुता (*tarutā*)—protection
+- अस्ति (*asti*)—there is
+- सः (*saḥ*)—you who possess it
+- नः (*naḥ*)—our
+- सवना (*savanā*)—to the sacrifices
+- आ गहि (*ā gahi*)—be gracious
+- वयं (*vayaṃ*)—we
+- गोमति (*gomati*)—furnished with cows
+- व्रजे (*vraje*)—the stall
+- गमेम (*gamema*)—may we reach
+
+### Printed p. 500
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the regard of all, giver of dwellings, exceedingly mighty, be gracious to our sacrifices, you who possess the protection that is irresistible and renowned in battles. May we reach a stall furnished with cows.
+
+##### English translation
+Which is invincible in contests,—O you desired by all,—well worthy of praise and the deliverer (from enemies) ; come to our oblations, most mighty one, giver of dwellings ; may we obtain a stall full of cows.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग॒व्यो षु णो॒ यथा॑ पु॒राश्व॒योत र॑थ॒या ।  
+> व॒रि॒व॒स्य म॑हामह ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गव्यो इति । सु । नः । यथा । पुरा । अश्वया । उत । रथया ।  
+> वरिवस्य । महामह ॥ १०
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महामह महाधनेंद्र गव्या ॥ गव्या उ इति निपातानिषाद्वयसुमुदायस्यादिवद्भावेन निपातवद्भावात्कृतिभावः ॥ अस्माकं गवामिच्छायास्माकं
+> गा दातुं यथा पुरा पूर्वं यथास्माकं गवादिदानाय वरिवस्यसि तद्वदव्यापि सु
+> सुष्टु वरिवस्य । परिचर । आगच्छेत्यर्थः । न केवलु गवेच्छया किंत्वश्वयात्मप्रदानेच्छया । उतापि च रथया रथेच्छया च वरिवस्येति ॥
+
+##### Gist of the bhāṣya
+
+O Mahāmaha, Indra of great wealth: out of a wish to give us cows (गव्या (*gavyā*)), as formerly (पुरा (*purā*)), as you attended to us to give cows and the like, so now too attend (वरिवस्य (*varivasya*), serve) well (सु (*su*)); come, is the meaning. Not only with the wish for cows, but with the wish to give horses (अश्वया (*aśvayā*)); and also with the wish for chariots (रथया (*rathayā*)), attend.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महामह (*mahāmaha*)—O Indra, who have abundant wealth
+- गव्या (*gavyā*)—with the wish to give us cows
+- यथा (*yathā*)—in which way
+- पुरा (*purā*)—as you came formerly
+- नः (*naḥ*)—to us
+- सु (*su*)—exceedingly
+- वरिवस्य (*varivasya*)—be gracious
+- आश्वया (*āśvayā*)—with the wish to give horses
+- रथया (*rathayā*)—with the wish to give chariots, be gracious
+
+### Printed p. 501
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have abundant wealth, as you came to us formerly with the wish to give us cows, so now also be exceedingly gracious to us. Be gracious with the wish to give horses and with the wish to give chariots.
+
+##### English translation
+Lord of wealth, visit us as of old, to give us cows, horses and chariots.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि ते॑ शूर॒ राध॒सोऽंतं॑ विं॒दामि॑ स॒त्रा ।  
+> द॒श॒स्या नो॑ मघव॒न्नू चि॑दद्रिवो॒ धियो॒ वाजे॑भिरावित ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । ते । शूर । राधसः । अंतं । विंदामि । सत्रा ।  
+> दशस्य । नः । मघवन् । नु । चित् । अद्रिवः । धियः । वाजेभिः । आविथ ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर विक्रांतेंद्र ते तव राधसो धनस्यांतमियत्तां सत्रा सत्यं नहि
+> विंदामि । न लभे । यस्मादेवं तस्मात् हे मघवन् धनवन् हे आद्रिवो वज्रवन्निंद्र
+> नोऽस्माकं नू चित् क्षिप्रमेव दशस्य । देहि तद्धनं । किंच वाजेभिर्वाजैरन्नैर्धियोऽस्मदीयानि कर्माण्याविध । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Śūra, valiant Indra, I do not truly (सत्रा (*satrā*)) find the end, that is, the measure, of your wealth (राधसः (*rādhasaḥ*)); I do not obtain it. Since this is so, O Maghavan, wealthy one, O Adrivaḥ, Indra with the thunderbolt, give (दशस्य (*daśasya*)) us that wealth quickly (नू चित् (*nū cit*)). Moreover protect (आविथ (*āvitha*)) our works (धियः (*dhiyaḥ*)) with food (वाजेभिः (*vājebhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant Indra
+- ते (*te*)—your
+- राधसः (*rādhasaḥ*)—of wealth
+- अंतं (*aṃtaṃ*)—the end
+- सत्रा (*satrā*)—certainly
+- नहि विंदामि (*nahi viṃdāmi*)—I do not know
+- मघवन् (*maghavan*)—wealthy
+- अद्रिवः (*adrivaḥ*)—O Indra, wielder of the thunderbolt
+- नः (*naḥ*)—to us
+- नू चित् (*nū cit*)—quickly
+- दशस्य (*daśasya*)—give that wealth
+- वाजेभिः (*vājebhiḥ*)—with food
+- धियः (*dhiyaḥ*)—our
+
 ---
 
-**Progress note:** Done through printed p. 495. Mandala 8 sukta 46: metre notes, Anuvada, particulars, Rks 1-4 and start of Rk 5
+**Progress note:** Done through printed p. 501. Mandala 8 sukta 46 Rks 5 (end) to 11 (start)
