@@ -26865,6 +26865,269 @@ This new praise, suited to the season, approaches, (Indra), to you; offering ado
 > गर्भो॑ य॒ज्ञस्य॑ देव॒युः क्रतुं॑ पुनीत आनु॒षक् ।  
 > स्तोमै॒रिंद्र॑स्य वानृधे॒ मिमि॑त॒ इत् ॥ ११ ॥
 
+### Printed p. 648
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गर्भः । यज्ञस्य । देवयुः । क्रतुं । पुनीते । आनुषक् ।  
+> स्तोमैः । इंद्रस्य । ववृधे । मिमाते । इत् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्य यष्टव्येंद्रस्य गर्भो गरिता स्तोता ॥ ग्य शब्दे । अर्तिगृभ्यां भन् ॥
+> यद्वा ॥ यजेर्भाव एव नज् प्रत्ययः ॥ यागस्य गर्भो गृहीतानुष्ठाता । देवयुर्देवं दानादिगुणयुक्तमिंद्रमात्मन इच्छन्नानुषगनुषक्तमानुपूर्व्यण
+> संततं यथा भवति तथा क्रतुं प्रज्ञापकं सोमं पुनीते । दशापवित्रेण
+> शोधयति । इंद्रपानार्थमिति शेषः । यद्वा । यज्ञस्य गर्भो दीक्षितः । पुनर्वा
+> एतमृत्ति जो गर्भं कुर्वंति । ऐ. ब्रा. १-३. । इत्यादि ब्राह्मणं । स देवकामः
+> क्रतुं जोतिष्टामादिकमानुषक् । आनुपूर्व्यनामैतत् । यदाह यास्कः । अनुषगिति नामानुपूर्व्यस्य । नि. ६-१४. । इति । स स्तोतेंद्रस्य ॥ कर्मणि षष्ठी ॥ इंद्रविषय्यैः स्तोमैः स्तोत्रैर्ववृधे । वर्धते । यद्वा । वृधिना प्रयोज्यव्यापारवाचिना
+> प्रयोजकव्यापारो लक्ष्यते । स्तोमैः स्तोत्रैस्तमिंद्रं वर्धयति । स च स्तोमैर्मिमित इत् । इंद्रस्य गुणजातं परिछिनत्येव । अनुगतार्थो भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The गर्भः (*garbhaḥ*) of the sacrifice, of Indra who is to be worshipped, is the praiser (derived from the root ग्य (*gya*) "to sound"); or else the one who has taken up and performs the sacrifice. Desiring Indra, who is endowed with the quality of generosity and the like, he purifies the Soma, the cognitive means (क्रतुं (*kratuṃ*)), with the ten-fold filter, continuously and in due order, for Indra's drinking. Or else: गर्भः (*garbhaḥ*) is the one consecrated for the rite; he quotes the Brāhmaṇa "the priests make him as it were an embryo" (Ai. Brā. 1-3). Desiring the gods, he purifies the Jyotiṣṭoma and similar rites' Soma आनुषक् (*ānuṣak*), which is a name for "in due order"; Yāska says "अनुषक् (*anuṣak*) is a name for sequence" (Ni. 6-14). That praiser magnifies Indra with hymns (the genitive "of Indra" is in the sense of the object). Or else the verb ववृधे (*vavṛdhe*) indicates the action of the one who causes the action: he makes Indra grow with hymns. And he measures out Indra's qualities with the hymns; that is, he follows their sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञस्य (*yajñasya*)—of the adorable Indra
+- गर्भः (*garbhaḥ*)—the praiser, the sacrificer who desires the god Indra
+- अनुषक् (*anuṣak*)—following the order, one after another, always
+- क्रतुं (*kratuṃ*)—the Soma, the means of the sacrifice
+- पुनीते (*punīte*)—purifies with the ten-fold filter and so on
+- स्तोमैः (*stomaiḥ*)—with hymns
+- इंद्रस्य (*iṃdrasya*)—Indra's greatness
+- ववृथे (*vavṛthe*)—strengthens
+- मिमीत इत् (*mimīta it*)—describes and praises Indra's qualities
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer, the praiser of the adorable Indra and desirer of the god Indra, in due order and always purifies the Soma, the means of the sacrifice, with the ten-fold filter and so on. With hymns he strengthens Indra's greatness. And he describes and praises Indra's qualities.
+
+##### English translation
+The devout praiser of the adorable (Indra) purifies in due succession
+
+### Printed p. 649
+the offering (of the Soma); with sacred hymns he magnifies (the might) of Indra ; he verily proclaims the measure (of his merits)
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒निर्मि॒त्रस्य॑ पप्रथ॒ इंद्रः॒ सोम॑स्य पी॒तये॑ ।  
+> प्राची॒ वाशी॑व सुन्व॒ते मिमी॑ात॒ इत् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनिः । मित्रस्य । पप्रथे । इंद्रः । सोमस्य । पीतये ।  
+> प्राची । वाशीऽइव । सुन्वते । मिमीाते इत् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मित्रस्य मित्रभूतस्य स्तोतुः सनिर्धनस्य दातेंद्रः सोमस्य पीतये पानाय
+> पप्रथे । प्रथितो विस्तीर्णशरीरो बभूव । यथा पीतो बहुलः सोम! उदरेऽ०-
+> तर्भवति तथा प्रवृद्धशरीरो बभूवेत्यर्थः । तत्र प्रथमे दृष्टांतः । प्राची
+> प्रांचंती प्रकर्षण स्तुत्यं गुणगणं प्राप्नुवती वाशीव । वाज्ञामैतत् । स्तुतिरूपा वाक् सुन्वते ॥ षष्ठ्यर्थ चतुर्थि वक्तव्येति चतुर्थि ॥ सुन्वतः सोमाभिषवं
+> कर्वतो यजमानस्य संबंधिनी यथा स्तुत्यगुणबाहुल्येन विस्तीर्णा भवति तथेंद्रः
+> पप्रथ इत्यर्थः । प्रथिता च सा मिवात इत् । इंद्रमाहात्म्यं यथावत्परिभिनत्येव॥
+
+##### Gist of the bhāṣya
+
+Indra, the giver of wealth to his friend the praiser, has become expanded, large of body, for the drinking of Soma; the sense is that he has grown in body as much as when much Soma is drunk and is inside the belly. The first illustration: प्राची (*prācī*), reaching the group of praiseworthy qualities, is like speech (वाशी (*vāśī*) is a name for speech), the speech in the form of praise. सुन्वते (*sunvate*) has the fourth case in the sense of the sixth: it belongs to the sacrificer who presses Soma. As that praise becomes extended through abundance of praiseworthy qualities, so Indra has extended himself. And that extended praise measures out Indra's greatness as it should be.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुन्वतः (*sunvataḥ*)—of the sacrificer who presses Soma-juice for Indra
+- प्राची (*prācī*)—approaching and praising Indra's qualities
+- वाशीव (*vāśīva*)—as praise grows
+- मित्रस्य (*mitrasya*)—for the sacrificer who is a friend
+- सनिः (*saniḥ*)—the giver of wealth
+- इंद्र (*iṃdra*)—Indra
+- सोमस्य (*somasya*)—of the Soma-juice
+- पीतये (*pītaye*)—for drinking
+- पप्रथे (*paprathe*)—grows expanded
+- मिवित इत् (*mivita it*)—the praise too describes and portrays Indra's qualities
+
+##### भावार्थ (Bhāvārtha)
+
+As a hymn made by the sacrificer who presses Soma-juice for Indra, approaching Indra and praising his qualities, grows, so Indra, the giver of wealth to the sacrificer who is a friend,
+
+### Printed p. 650
+grows expanded for the drinking of the Soma-juice. The praise too describes and portrays Indra's qualities.
+
+##### English translation
+Indra, the benefactor of his friend (the worshipper), has enlarged himself to drink the Soma, in like manner as the pious praise dilates and proclaims the measure (of his merits'.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं विप्रा॑ उ॒क्तवा॑हसोभिप्रमं॒दुरा॒यवः॑ ।  
+> घृ॒तं न पि॑ष्य आ॒सन्य॒तस्य॒ यत् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । विप्राः । उक्तवाहसः । अभिप्रमंदुः । आयवः ।  
+> धृतं । न । पिप्ये । आसनि । ऋतस्य । यत् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रा मेधाविन उक्तवाहस उक्तानां शस्त्राणां वोढारः प्रापयितार
+> आयवो मनुष्या यमिंद्रमभिप्रमंदुः अभि प्रकर्षेण मादयंति ॥ मदेव्यत्ययेन परस्परंद्विर्वचनपरेण छंदसि वेति वचनाद्दिर्वचनाभावः ॥ तस्येंद्रस्यासन्यास्यॆ ॥ पद्दन्नित्यादिनास्यशब्दस्यासन्नादेशः ॥ घृतं न घृतमिव शुद्धं पिष्ये ।
+> सेचनेन वर्धये ॥ प्यायतेश्छांदसो लिट् । लिड्यजतोश्चति पीभावः ॥ किं तद्धविः ।
+> ऋतस्य यज्ञस्य संबंधि यत्सोमलक्षणं हविरस्ति तदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The wise (विप्राः (*viprāḥ*)), bearers of recited praises (उक्तवाहसः (*uktavāhasaḥ*)), the men (आयवः (*āyavaḥ*)), delight Indra greatly; into his mouth (आसनि (*āsani*), the form being substituted for the word for "mouth") घृतं न (*ghṛtaṃ na*), like pure ghee, पिष्ये (*piṣye*), I make it grow by pouring. What is it? The Soma-oblation that belongs to the sacrifice (ऋतस्य (*ṛtasya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्राः (*viprāḥ*)—the wise
+- उक्तवाहसः (*uktavāhasaḥ*)—those who carry the praise-mantras
+- आयवः (*āyavaḥ*)—men
+- यं (*yaṃ*)—the Indra whom
+- अभिप्रमंदुः (*abhipramaṃduḥ*)—they fully satisfy; of such Indra
+- आसनि (*āsani*)—in the mouth
+- ऋतस्य (*ṛtasya*)—belonging to the sacrifice
+- यत् (*yat*)—the Soma that there is
+- धृतं न (*dhṛtaṃ na*)—as ghee is poured into fire
+- पिप्ये (*pipye*)—I pour
+
+### Printed p. 651
+
+##### भावार्थ (Bhāvārtha)
+
+Into the mouth of that Indra whom the wise men, reciters of praise-mantras, fully satisfy, I pour the Soma that belongs to the sacrifice, as ghee is poured into the fire.
+
+##### English translation
+I pour the oblation of the sacrifice, like clarified butter, into the mouth (of that Indra), whom wise men, addressing with prayers, delight.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्व॒राजे॒ अदि॑तिः॒ स्तोम॒मिंद्रा॑य जीजनत् ।  
+> पु॒रु॒प्र॒श॒स्तमू॒तय॑ ऋ॒तस्य॒ यत् ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्वराजे । अदितिः । स्तोमं । इंद्राय । जीजनत् ।  
+> पुरुप्रशस्तं । ऊतये । ऋतस्य । यत् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि चादितिरदीना देवमाताखंडनीयस्तोता वा स्वराजे स्वयमेव
+> राजमानायेंद्राय पुरुप्रशस्तं बहुलमत्कृष्टं यद्वा पुरुभिर्बहुभिः प्रशंसितव्यं स्तोमं स्तोत्रं जीजनत् । अजीजनत् । अजनयत् । किमर्थं । ऊतये
+> रक्षणार्थं । यत् स्तोत्रमृतस्य यज्ञस्य सत्यस्य ना संबंधि भवति तं स्तोममित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Aditi, the mother of the gods, undiminished, or else the unbroken praiser, generated for Indra, self-ruling (स्वराजे (*svarāje*), shining by himself), a hymn much praised, excellent, or else to be praised by many, for protection. The construction: that hymn which belongs to the sacrifice or to truth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- ऋतस्य (*ṛtasya*)—belonging to the sacrifice
+- यत् (*yat*)—the praise that there is
+- पुरुप्रशस्तं (*purupraśastaṃ*)—praised by many
+- स्तोमं (*stomaṃ*)—the hymn
+- आदितिः (*āditiḥ*)—Aditi, mother of the gods
+- स्वराजे (*svarāje*)—for the self-ruling
+- इंद्राय (*iṃdrāya*)—for Indra
+- ऊतये (*ūtaye*)—for our protection
+- जीजनत् (*jījanat*)—has made
+
+### Printed p. 652
+
+##### भावार्थ (Bhāvārtha)
+
+The hymn, praised by many, that belongs to the sacrifice, Aditi, mother of the gods, has made for the self-ruling Indra, for our protection.
+
+##### English translation
+The excellent praise which Aditi brought forth for the imperial Indra, for our protection, is that which was (the product) of the sacrifice.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वह्न॑य ऊ॒तयेऽनू॑षत॒ प्रश॑स्तये ।  
+> न दे॑व॒ विव्र॑ता॒ हरी॑ ऋ॒तस्य॒ यत् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वह्नयः । ऊतये । अनूषत । प्रशस्तये ।  
+> न । देव । विव्रता । हरी इति । ऋतस्य । यत् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वह्नयो वोढार ऋत्विज ऊतये रक्षणार्थं प्रशस्तये पशस्त्यर्थं चाभ्यनूषत । इंद्रमभ्यष्टुवन् ॥ नु स्तुत् । कुटादिः ॥ हे देव दानादिगुणयुक्तेंद्र ।
+> नेति संप्रत्यर्थे । संप्रति विव्रता विविधकर्माणौ हरी त्वदीयावश्वावृतस्य यज्ञस्य
+> सत्यस्य वा संबंधि यत् स्तोत्रं हविर्वा विद्यते तदभिलक्ष्य त्वां वहत इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The bearers (वह्नयः (*vahnayaḥ*)), the priests, have praised Indra for protection and for renown (derived from the root नु (*nu*) "to praise", of the Kuṭādi class). "O god Indra, endowed with generosity and the like": न (*na*) is in the sense of "now". Now your two horses, of manifold action, bear you aiming at the praise or oblation that belongs to the sacrifice or to truth; "they bear" is the supplied remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वह्नयः (*vahnayaḥ*)—the priests, bearers of the oblation
+- ऊतये (*ūtaye*)—for protection
+- प्रशस्तये (*praśastaye*)—for renown
+- अभ्यनूषत (*abhyanūṣata*)—have praised Indra
+- देव (*deva*)—O Indra, endowed with generosity and the like
+- न (*na*)—now
+- विव्रता (*vivratā*)—of manifold actions
+- हरी (*harī*)—your horses
+- ऋतस्य (*ṛtasya*)—belonging to the sacrifice
+- यत् (*yat*)—let them bring you to where the oblation is
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, bearers of the oblation, have praised Indra for protection and for renown.
+
+### Printed p. 653
+O Indra, endowed with generosity and the like, let your horses of manifold actions now bring you to the place where the sacrificial oblation is.
+
+##### English translation
+The bearers of the oblation glorify (Indra) for his excellent protection : now, divinity, let your many-actioned horses (bear you to the offering) to the sacrifice.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्सोम॑मिंद्र॒ विष्ण॑वि॒ यद्वा॑ घ त्रि॒त आ॒प्त्ये ।  
+> यद्वा॑ म॒रुत्सु॒ मंद॑से॒ समिंदु॑भिः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । सोमं । इंद्र । विष्णवि । यत् । वा । घ । त्रिते । आस्त्रे ।  
+> यत् । वा । मरुत्सु । मंदसे । सं । इंदुभिः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र विष्णवि विष्णौ पानार्थमागते सत्यन्यदीये यागे सोमं यद्यदि
+> तेन विष्णुना सार्धं पिबसि । यद्वा यदि चाप्त्येऽपां पुत्रे त्रित एतत्संज्ञे राजर्षौ
+> यजमाने सोमं पिबसि । घेति पूरणः । यद्वा यदि च मरुत्तु च सोमपानायागतेष्वन्यदीये यज्ञे मंदसे माद्यसि । तथाप्यस्मदीयैरेवॆंदुभिः सोमैः
+> सं सम्यज्जाद्य !
+
+##### Gist of the bhāṣya
+
+O Indra, if you drink Soma together with Viṣṇu, who has come to drink at another's sacrifice; or else if you drink Soma at the sacrificer Trita, the royal sage, son of the waters (आप्त्ये (*āptye*)); घ (*gha*) is an expletive; or else if you rejoice at another's sacrifice when the Maruts have come to drink Soma, even so rejoice fully with our own Soma-drops (इंदुभिः (*iṃdubhiḥ*)). The text of the block breaks off after "सं सम्यज्जाद्य (*saṃ samyajjādya*)". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- विष्णवि (*viṣṇavi*)—while Viṣṇu is near
+- यत् (*yat*)—in what way
+- सोमं (*somaṃ*)—you drink Soma
+- यद्वा (*yadvā*)—or
+- आप्त्ये (*āptye*)—Trita, son of the waters
+- त्रिते (*trite*)—in what way you drink while Trita is with you
+- यद्वा (*yadvā*)—or
+- मरुत्तु (*maruttu*)—while the Maruts are with you
+- मंदसे (*maṃdase*)—in what way you take satisfaction, in that way
+- इंदुभिः (*iṃdubhiḥ*)—with our Soma-juices
+- सं (माद्य) (*saṃ (mādya)*)—obtain full satisfaction
+
 ---
 
-**Progress note:** Done through printed p. 647. pp. 639-647 (batch API)
+**Progress note:** Done through printed p. 653. pp. 648-653 (batch API)
