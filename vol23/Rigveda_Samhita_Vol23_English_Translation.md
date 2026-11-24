@@ -13229,6 +13229,194 @@ And also, King Āsaṅga, son of Prayoga, gives surpassing others (अन्य�
 
 "O Agni, Āsaṅga, son of Playoga, has given me a herd of cattle ten thousand more than other donors give. Those ten thousand cattle, given to me by him, youthful and shining, like clumps of reeds coming out of the water of a lake, have come out of him in a crowd and stand with me": so praise.
 
+### Printed p. 331
+
+##### English translation
+(So praise me, saying,) "Asanga, the son of Playoga, has given more than others, Agni by tens of thousands: ten times the (number of) vigorous and brilliant oxen (given by him) to me, issue forth like the reeds of a lake"
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अन्व॑स्य स्थू॒रं द॑द्यशे पु॒रस्ता॑दन॒स्थ ऊ॒रुर॑व॒रंब॑माणः ।  
+> शश्व॑ती॒ नार्य॑भि॒चक्ष्या॑ह॒ सुभ॑द्रमर्य॒ भोज॑नं बिभर्षि ॥३४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । अस्य । स्फूरं । ददृशे । पुरस्तात् । अनस्थः । ऊरुः । अव्यरंबमाणः ।  
+> शश्वती । नारी । अभिचक्ष्य । अह । सुभद्रं । आर्य । भोजनं । बिभर्षि ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमासंगो राजा कदाचिद्देवशापेन नपुंसको बभूव । तस्य पत्नि
+> शश्वती भर्तुर्नपुंसकत्वेन खिन्ना सती महत्तपस्तेपे । तेन च तपसा स च पुंस्त्वं
+> प्राप । प्राप्तपुंव्यंजनं तं रात्रावुपलभ्य प्रीता शश्वत्यनया तमसौत् ॥ अस्यासंगस्य पुरस्तात्पुरोभागे गुह्यदेशे स्फूरं स्कूलं वृद्धं सत्पुंव्यंजनमनु ददृशे!
+> अनुदृश्यते । अनस्थोऽस्थिरहितः स चावयव ऊरुरुरुर्विस्तीर्णोऽवरंबमाणोऽतिदीर्घत्वेनावाङ्मुखं लंबमानः । यद्वा। ऊरुः ॥ सुपां सुलुगिति द्विवचनस्य सुः॥
+> ऊरू प्रत्यवलंबमानो भवति शश्वती नामांगिरसः सुता नारिः तस्यासंगस्य भार्याभिचक्षैवंभूतमवयवं निशि दृष्ट्वा हे अर्य स्वामिन् भर्तः सुभद्रमतिशयेन
+> कल्याणं भोजनं भोगसाधनं बिभर्षि धारयसीत्याह । ब्रूते !
+
+##### Gist of the bhāṣya
+
+This King Asanga once became a eunuch through a curse of the gods. His wife Śaśvatī, grieved at her husband's impotence, performed great austerity, and through that austerity he regained manhood. Finding him at night with the signs of a man restored, Śaśvatī was delighted and praised him with this verse. In front of this Asanga, in the forward part, in the private region, a stout, grown male organ is seen. It is without bone (अनस्थः (*anasthaḥ*)), broad (ऊरुः (*ūruḥ*)), and hangs down (अवरंबमाणः (*avaraṃbamāṇaḥ*)) because of its great length. Or else ऊरुः (*ūruḥ*) is a dual form (by the rule that सु (*su*) replaces the dual ending), meaning that it hangs down between the two thighs. Śaśvatī, the daughter of Aṅgiras, wife of this Asanga, seeing such a member at night, says: "O noble lord (अर्य (*arya*)), my husband, you bear a most auspicious (सुभद्रं (*subhadraṃ*)) instrument of enjoyment (भोजनं (*bhojanaṃ*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this King Asanga
+- पुरस्तात् (*purastāt*)—in the front part of the vital region of the body
+- स्फूरं (*sphūraṃ*)—the male organ, long and thick
+- अनु ददृशे (*anu dadṛśe*)—is seen
+- अनस्थः (*anasthaḥ*)—this male organ, without bones, nourished and fattened by blood and flesh alone
+- ऊरुः (*ūruḥ*)—is broad, that is, long
+- अवरंबमाणः (*avaraṃbamāṇaḥ*)—and stands stretched forward and bent down
+- (or) ऊरुः (*ūruḥ*)—between the two thighs
+- अवरंबमाणी (*avaraṃbamāṇī*)—stands bent down
+
+### Printed p. 332
+- शश्वती (*śaśvatī*)—the daughter of the sage Aṅgiras named Śaśvatī
+- नारी (*nārī*)—the wife of King Asanga
+- अभिचक्ष्य (*abhicakṣya*)—having seen (with joy), at night at the time of union, the male organ of King Asanga described above
+- आर्य (*ārya*)—O beloved of my life, (you now)
+- सुभद्रं (*subhadraṃ*)—auspicious
+- भोजसं (*bhojasaṃ*)—the male member, the instrument of union **NOTE**
+- बिभर्षि (*bibharṣi*)—have obtained, thus
+- आह (*āha*)—she said
+
+##### भावार्थ (Bhāvārtha)
+
+In the forward part of this King Asanga's body, that is, in the region of the vital part, a long and thick male organ is seen. This organ, without bones, grown and fattened by blood and flesh alone, stands stretched forward and bent down, long, between the two thighs. The woman named Śaśvatī, wife of King Asanga and daughter of the sage Aṅgiras, seeing her husband's organ of this kind at night at the time of union, said with delight: "O beloved of my life, you have now obtained an auspicious male organ, suited to the work of union."
+
+##### English translation
+Saswati, preceiving that the signs of manhood were restored
+exclaims, "Joy, husband, you are capable of enjoyment."
+
+##### विशेषविषयगळु (Special Topics)
+
+As stated in the introduction to this sūkta, the commentator here tells a prior story: अयमासंगो राजा कदाचिद्देवशापेन नपुंसको बभूव । तस्य पत्नि शश्वती भर्तुर्नपुंसकत्वेन खिन्ना सती महत्तपस्तेपे तेन च तपसा स च पुंत्वं प्राप । प्राप्तपुंव्यंजनं तं रात्रावुपलभ्य प्रीता शश्वत्यनया तमस्तात् . (*ayamāsaṃgo rājā kadāciddevaśāpena napuṃsako babhūva | tasya patni śaśvatī bharturnapuṃsakatvena khinnā satī mahattapastepe tena ca tapasā sa ca puṃtvaṃ prāpa | prāptapuṃvyaṃjanaṃ taṃ rātrāvupalabhya prītā śaśvatyanayā tamastāt .*) (the printed text has तमस्तात् (*tamastāt*), where the bhāṣya reads तमसौत् (*tamasaut*)). In the past, once, King Asanga became a eunuch through a curse of the gods. His wife Śaśvatī was greatly grieved by this. So she performed fierce austerity and pleased the gods. The gods, delighted, graciously granted that Asanga's impotence should depart and manhood return. Thereupon his wife Śaśvatī was very glad; at night at the time of union, seeing her husband restored to manhood as before and possessed of the male organ, the instrument of union, she rejoiced, and it is said that she recited this Ṛk to congratulate him.
+
+### Printed p. 333
+In the introduction of this sūkta the matter is described somewhat differently: प्लयोगनान्नो राज्ञः पुत्र आसंगाभिधानो राजा दैवशापात् स्त्रीत्वमनुभूय पश्चात्तपोबलेन मेधातिथेः प्रसादात् पुमान् भूत्वा तस्मै बहु धनं दत्वा स्वकीयमंतरात्मानं दत्तदानं स्तुहि स्तुहीत्यादिभिश्चतसृभिर्ऋग्भिरस्तौट्..................अस्यासंगस्य भार्यांगिरसः सुता शश्वत्याख्या भर्तुः पुंस्त्वमुपलभ्य प्रीता सती स्वभर्तारं अन्वस्य स्फूरं इत्यनया स्तुतवती ॥ (*playoganānno rājñaḥ putra āsaṃgābhidhāno rājā daivaśāpāt strītvamanubhūya paścāttapobalena medhātitheḥ prasādāt pumān bhūtvā tasmai bahu dhanaṃ datvā svakīyamaṃtarātmānaṃ dattadānaṃ stuhi stuhītyādibhiścatasṛbhirṛgbhirastauṭ..................asyāsaṃgasya bhāryāṃgirasaḥ sutā śaśvatyākhyā bhartuḥ puṃstvamupalabhya prītā satī svabhartāraṃ anvasya sphūraṃ ityanayā stutavatī ‖*) The prince Asanga, son of the king named Playoga, through a curse of the gods lived for some time in womanhood (as a woman), and then, through the austerity-power and grace of the sage Medhātithi, regained manhood. For that service he gave Medhātithi much wealth and the like, and addressing the sage said "praise that matter", that is, the gift he had made; with the four Ṛks beginning स्तुहि स्तुहि (*stuhi stuhi*) (Ṛks 30–33 of this sūkta) he praised it. ... It says that Śaśvatī, wife of this King Asanga and daughter of the sage Aṅgiras, satisfied that her husband had regained manhood, praised her husband King Asanga with अन्वस्य स्फूरं (*anvasya sphūraṃ*) (Ṛk 34) to congratulate him. The earlier story says that King Asanga became a eunuch by a curse of the gods and that it was removed by his wife's austerity. But the introduction of the sūkta says that Asanga, by the curse of the gods, not only lost manhood but remained for some time in the form of a woman, and regained manhood through the austerity-power and grace of Medhātithi, the seer of this sūkta, and in gratitude gave Medhātithi much wealth and so on. It can therefore be said that no great difference is seen in the main matters of these two accounts.
+
+## Sūkta 2 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं वसो इति द्विचत्वारिंशदृचं द्वितीयं सूक्तं काण्वस्य मेधातिथेरांगिरसस्य च प्रियमेधस्यार्षं । शिक्षा विभिंदो इत्यादिके द्वे मेधातिथेरेव । स्वादवः
+> सोमा इत्येषानुष्टुप् शिष्टा गायत्र्यः । इंद्रो देवता । अंत्ये द्वे ऋचौ
+> निभिंदोर्दानस्तु तित्वात्तद्देवताके । तथा चानुक्रांतं । इदं वसो द्विचत्वारिंशनेधातिथिरांगिरसश्च प्रियमेधः स्वादवोऽनुष्टुबंत्याभ्यां मेधातिथिर्विभिंदोर्दानं तुष्टावेति ॥ गतः सूक्तविनियोगः ॥ ज्योतिष्टोमे मरुत्वतीय आद्यस्त्र-
+
+##### Gist of the bhāṣya
+
+The second sūkta, इदं वसो (*idaṃ vaso*), of forty-two Ṛks, has as seer Medhātithi Kāṇva and Priyamedha Āṅgirasa. The two beginning शिक्षा विभिंदो (*śikṣā vibhiṃdo*) are Medhātithi's alone. The Ṛk स्वादवः सोमाः (*svādavaḥ somāḥ*) is Anuṣṭubh; the rest are Gāyatrī. The deity is Indra; the last two Ṛks have the praise of Vibhindu's gift as deity. He quotes the Anukramaṇī: इदं वसो द्विचत्वारिंशनेधातिथिरांगिरसश्च प्रियमेधः स्वादवोऽनुष्टुबंत्याभ्यां मेधातिथिर्विभिंदोर्दानं तुष्टाव (*idaṃ vaso dvicatvāriṃśanedhātithirāṃgirasaśca priyamedhaḥ svādavo 'nuṣṭubaṃtyābhyāṃ medhātithirvibhiṃdordānaṃ tuṣṭāva*). The sūkta's use has been stated; in the Jyotiṣṭoma, in the Marutvatīya, the first tṛca is the anucara. **NOTE**
+
+### Printed p. 334
+
+> चोऽनुचरः । सूत्र्यते हि । इदं वसो सुतमंध इति मरुत्वतीयस्य प्रतिपदनुचरौ । आ. ५-१४ । इति ॥ द्वितीये रात्रिपर्याये ब्रह्मशस्त्रेयमेव स्तोत्रियस्तृचः । सूत्रितं च । इदं वसो सुतमंध इंद्रेहि मत्स्यंधसः । आ. ६.४ । इति ॥ अयमेव चतुर्थेऽहन्यपि मरुत्वतीयस्यानुचरस्तृचः । सूत्रितं च । तं त्या यज्ञॆभिरीमह इदं वसो सुतमंध इति मरुत्वतीयस्य प्रतिपदनुचरौ । आ. ७-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The first tṛca (आद्यस्त्रचोऽनुचरः (*ādyastraco 'nucaraḥ*)) is the anucara; it is prescribed: इदं वसो सुतमंध इति मरुत्वतीयस्य प्रतिपदनुचरौ (*idaṃ vaso sutamaṃdha iti marutvatīyasya pratipadanucarau*) (Ā. 5-14). In the second night-session (rātri-paryāya), in the Brahmaśastra, this same tṛca is the stotriya; it is prescribed: इदं वसो सुतमंध इंद्रेहि मत्स्यंधसः (*idaṃ vaso sutamaṃdha iṃdrehi matsyaṃdhasaḥ*) (Ā. 6.4). On the fourth day also this same tṛca is the anucara of the Marutvatīya; it is prescribed: तं त्या यज्ञॆभिरीमह इदं वसो सुतमंध इति मरुत्वतीयस्य प्रतिपदनुचरौ (*taṃ tyā yajñèbhirīmaha idaṃ vaso sutamaṃdha iti marutvatīyasya pratipadanucarau*) (Ā. 7-11).
+
+##### Anuvāda
+
+This sūkta इदं वसो (*idaṃ vaso*) is the second sūkta in the first anuvāka. It has forty-two Ṛks. The seers of this sūkta are Medhātithi Kāṇva and Priyamedha Āṅgirasa. But for the last two Ṛks of this sūkta, beginning शिक्षा विभिंधो (*śikṣā vibhiṃdho*), Medhātithi alone is the seer. The Ṛk स्वादवः सोमाः (*svādavaḥ somāḥ*) (Ṛk 28) is in the Anuṣṭubh metre; all the remaining Ṛks are in Gāyatrī. Indra is the deity. For the last two Ṛks the deity is the praise of Vibhindu's gift. In the Anukramaṇī it is said: इदं वसो द्विचत्वारिंशन्मेधातिथिरांगिरसश्च प्रियमेधः स्वादवोऽनुष्टुबंत्याभ्यां मेधातिथिर्विभिंदोर्दानं तुष्टाव (*idaṃ vaso dvicatvāriṃśanmedhātithirāṃgirasaśca priyamedhaḥ svādavo 'nuṣṭubaṃtyābhyāṃ medhātithirvibhiṃdordānaṃ tuṣṭāva*). The use of the sūkta was stated earlier: in the Jyotiṣṭoma sacrifice, for the Marutvatīya śastra mantras, the first three Ṛks of this sūkta are to be recited as the anucara tṛca, as explained by the Āśvalāyana Śrauta Sūtra, इदु वसो सुतमंध इति मरुत्वतीयस्य प्रतिपदनुचर् (*idu vaso sutamaṃdha iti marutvatīyasya pratipadanucar*) (Ā. 5-14). In the second night-session, among the śastra mantras to be recited by the priest called Brahman, the first three Ṛks are to be recited as the stotriya tṛca, as explained by the Āśvalāyana Śrauta Sūtra, इदं वसो सुतमंध इंद्रेहि मत्स्यंधसः (*idaṃ vaso sutamaṃdha iṃdrehi matsyaṃdhasaḥ*) (Ā. 6-4). And these same three Ṛks, in the Marutvatīya śastra mantras recited on the fourth day of the sacrifice, are to be recited as the anucara tṛca, as explained by the Āśvalāyana Śrauta Sūtra, तं त्वा यज्ञेभिरीमह इदं वसो सुतमंध इति मरुत्वतीयस्य प्रतिपदनुचर् (*taṃ tvā yajñebhirīmaha idaṃ vaso sutamaṃdha iti marutvatīyasya pratipadanucar*) (Ā. 7-11).
+
+##### Particulars
+
+Sūkta 2
+Maṇḍala 8; Anuvāka 1; Sūkta 2.
+Aṣṭaka 5; Adhyāya 7; Vargas 13, 14, 19, 20, 21, 22, 23, 24.
+Number of Ṛks in the sūkta: 42.
+Ṛṣi: 1–40, Medhātithi Kāṇva and Priyamedha Āṅgirasa; 41–42, Medhātithi.
+Devatā: 1–40, Indra; 41–42, the praise of Vibhindu's gift.
+Chandas: 1–27, 29–42, Gāyatrī; 28, Anuṣṭubh.
+
+### Printed p. 335
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं व॑सो सु॒तमंधः॒ पिबा॒ सुपू॑र्णमु॒दरं॑ ।  
+> अना॑भयिन्नरि॒मा ते॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । वसो इति । सुतं । अंधः । पिब । सुपूर्णं । उदरं ।  
+> अनाभयिन् । ररिम । ते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासयितरिंद्र इदं पुरोवर्तमानं सुतमभिषुतमंधोऽन्नं
+> सोमलक्षणं पिब । यथोदरु त्वदीयं जठरं सुपूर्णमतिशयेन संपूर्णं
+> भवति तथेत्यर्थः । हे अनाभयिन् । आ समंताद्विभेतीत्याभयी ॥ बिभेतेरौणादिक
+> इनिः ॥ नाभय्यनाभयी । तादृश हे इंद्र ते तुभ्यं त्वदर्थं ररिम । उक्तलक्षणं
+> सोमं दद्मः ॥ रा दाने । छांदसो लिट् ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, Indra, who causes dwelling, drink this present pressed food, the Soma, so that your belly is well filled, that is, completely full. O fearless one (अनाभयिन् (*anābhayin*)): *ābhayī* is one who fears on all sides; he who is not so is *anābhayī*. To you, such, O Indra, for you, we give (ररिम (*rarima*)) the Soma of the described character; the root is रा (*rā*) in the sense of giving, in the Vedic perfect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Indra, giver of dwelling
+- इदं (*idaṃ*)—this, which is to be offered here
+- सुतं (*sutaṃ*)—and which has been pressed fully
+- अंधः (*aṃdhaḥ*)—the food in the form of Soma
+- उदरं (*udaraṃ*)—your belly
+- सुपूर्णं (*supūrṇaṃ*)—so that it is completely filled
+- पिब (*piba*)—drink
+- अनाभयिन् (*anābhayin*)—O Indra, who fears no one anywhere
+- ते (*te*)—directed to you
+- ररिम (*rarima*)—I offer the Soma juice described above
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling, drink now this food in the form of Soma, to be offered here and pressed fully, in such a way that your belly (the Kannada has उदक (*udaka*), "water") is filled. O Indra, who fears no one anywhere, I offer to you the Soma juice described above. **NOTE**
+
+##### English translation
+Giver of dwellings (Indra), drink this effused libation till your belly
+is full, we offer it, undaunted (Indra), to you.
+
+### Printed p. 336
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृभि॑र्धू॒तः सु॒तो अश्नै॒रव्यो॒ वारैः॒ परि॑पूतः ।  
+> अश्वो॒ न नि॒क्तो न॒दीषु॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृभिः । धूतः । सुतः । अश्नैः । अव्यः । वारैः । परिपूतः ।  
+> अश्वः । न । निक्तः । नदीषु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृभिरध्वरस्य नेतृभिर्ऋत्विग्निर्धूत आधूतोऽदाभ्यग्रह आधवनेन संस्कृतोऽश्नैरश्मभिग्रावभिः करणभूतैः सुतोऽध्वर्युभिरभिषुतोऽव्योऽवेर्मेषस्य वारैर्वालैः परिपूतः । दशापवित्रस्य नाभिं कुरुते शुक्लं वलक्ष्याः पवित्रममोतं भवतीति । नदीषु नदनास्वप्स्वश्वो नाश्व इव निक्तो निर्णिक्तः शोधितः । यथाप्सु
+> स्नातोऽश्वोऽपगतमलः सन् दीप्तो भवति एवं वसतीवर्याख्याभिरद्भिरभिषुतः
+> सोमो दीपो भवतीत्यर्थः । ईदृशो यः सोमः तं ते यवमित्युत्तरया
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Soma is shaken (धूतः (*dhūtaḥ*)) by the Adhvaryu priests, the leaders of the rite, being prepared by the shaking (ādhavana) in the *adābhyagraha*; pressed (सुतः (*sutaḥ*)) by the Adhvaryus with the pressing stones as instruments; and purified (परिपूतः (*paripūtaḥ*)) by the hairs of a sheep (अव्यः वारैः (*avyaḥ vāraiḥ*)). He cites: दशापवित्रस्य नाभिं कुरुते शुक्लं वलक्ष्याः पवित्रममोतं भवतीति (*daśāpavitrasya nābhiṃ kurute śuklaṃ valakṣyāḥ pavitramamotaṃ bhavatīti*). In the waters (नदीषु (*nadīṣu*)) it is cleansed like a horse (अश्वो न निक्तो (*aśvo na nikto*)): as a horse bathed in water, its dirt gone, becomes bright, so Soma pressed with the waters called Vasatīvarī becomes bright. The Soma of such kind is connected with the next Ṛk, *taṃ te yavaṃ*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृभिः (*nṛbhiḥ*)—by the Adhvaryus, leaders of the sacrifice
+- धूतः (*dhūtaḥ*)—which has received the preparation of shaking
+- अश्नैः (*aśnaiḥ*)—by the pressing instruments, the stones
+- सुतः (*sutaḥ*)—pressed
+- अव्यः (*avyaḥ*)—of a sheep
+- वारैः (*vāraiḥ*)—by the hairs (the wool in the vessel called Daśāpavitra)
+- परिपूतः (*paripūtaḥ*)—the Soma juice that is purified
+- नदीषु (*nadīṣu*)—by the water of the river
+- निक्तः (*niktaḥ*)—washed
+- अश्वो न (*aśvo na*)—like a horse (it shines)
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juice, which has received the preparation of shaking from the Adhvaryus who lead the sacrifice, has been pressed by the pressing stones, and has been purified by the hairs of a sheep, that is, by the wool in the vessel called Daśāpavitra (the Kannada prints सशापवित्र (*saśāpavitra*)), shines pure, like a horse washed in the water of a river.
+
 ---
 
-**Progress note:** Done through printed p. 330. pp. 324-330 (batch API)
+**Progress note:** Done through printed p. 336. pp. 331-336 (batch API)
