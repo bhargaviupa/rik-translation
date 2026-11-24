@@ -13303,6 +13303,292 @@ Then (having received) the horses, attached to the rolling-wheeled chariot, give
 
 This is the fifth sūkta, beginning अग्निनेंद्रेण (*agnineṃdreṇa*), of twenty-four Ṛks; its seer is Śyāvāśva Ātreya. As the Anukramaṇī says: अग्निना चतुर्विंशतिः श्यावाश्व आश्विनमौपरिष्टाज्योतिषं पंक्तिमहाबृहतीपंक्त्यंतमिति । (*agninā caturviṃśatiḥ śyāvāśva āśvinamaupariṣṭājyotiṣaṃ paṃktimahābṛhatīpaṃktyaṃtamiti |*). The metre is Upariṣṭāj-jyotis, because the fourth pāda has eight syllables; its definition is यतोऽष्टकस्ततो ज्योतिः (*yato 'ṣṭakastato jyotiḥ*), Anu. 9-8. The twenty-second Ṛk is a Paṅkti; the twenty-third is a Mahābṛhatī, with four octosyllabic pādas and a Jagatī pāda, Anu. 9-9. The deity is the Aśvins. **NOTE**
 
+### Printed p. 294
+
+> इत्युक्तलक्षणोपेतत्वात् । चतुर्विंशी पंक्तिः । अश्विनौ देवता ॥ अश्विनोर्यामे
+> होतुरतिरिक्तोक्ष्येग्निनेंद्रेणेत्येतत्सूक्तं । सूत्रितं च । अग्निनेंद्रेणा भात्यग्निः ।
+> आ. ९-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The Ṛks are of the stated characteristics, and the twenty-fourth Ṛk is a Paṅkti. The deity is the Aśvins. This sūkta, beginning with अग्निनेंद्रेण (*agnineṃdreṇa*), is to be recited by the Hotṛ as the extra (atirikta) uktha in the Aśvins' yāma. It is also prescribed in the sūtra अग्निनेंद्रेणा भात्यग्निः (*agnineṃdreṇā bhātyagniḥ*), Ā. 9-11.
+
+This sūkta beginning अग्निनेंद्रेण (*agnineṃdreṇa*) is the fifth sūkta in the fifth anuvāka. It has twenty-four Ṛks. Its seer is Śyāvāśva, born in the family of Atri. In the Anukramaṇī it is said: अग्निना चतुर्विंशतिः श्यावाश्व आश्विनमौपरिष्टाज्योतिषं पंक्ति महाबृहतीपंक्त्यंतं (*agninā caturviṃśatiḥ śyāvāśva āśvinamaupariṣṭājyotiṣaṃ paṃkti mahābṛhatīpaṃktyaṃtaṃ*). The Ṛks 1-21 of this sūkta are of the metre Upariṣṭāj-jyotis. A Ṛk of this metre has four pādas, of which the second has eight syllables and the other three twelve syllables each; such is its definition (Chandas Anu. 9-8). The twenty-second Ṛk is of the Paṅkti metre. The twenty-third Ṛk is of the Mahābṛhatī metre; a Ṛk with five pādas, the first four of eight syllables each and the last of twelve syllables as in the Jagatī metre, is called Mahābṛhatī; such is its definition (Chandas Anu. 9-9). The twenty-fourth Ṛk is of the Paṅkti metre. The Aśvin deities are the deity of this sūkta. The use of this sūkta, beginning अग्निनेंद्रेण (*agnineṃdreṇa*), is for the extra mantras to be recited by the Hotṛ in the Aṣṭoryāma sacrifice, as is explained in the Āśvalāyana Śrauta Sūtra by the sūtra अग्निनेंद्रेणा भात्यग्निः (*agnineṃdreṇā bhātyagniḥ*) (Ā. 9-11).
+
+Sūkta 35. Maṇḍala 8. Anuvāka 5. Sūkta 35. Aṣṭaka 6. Adhyāya 3. Vargas 14, 15, 16, 17. Number of Ṛks in the sūkta: 24. Seer: Śyāvāśva. Deity: the Aśvins. Metre: 1-21 Upariṣṭāj-jyotis; 22, 24 Paṅkti; 23 Mahābṛhatī. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निनेंद्रे॑ण॒ वरु॑णेन॒ विष्णु॑नादि॒त्यै रु॒द्रैर्वसु॑भिः सचा॒भुवा॑ ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण च॒ सोमं॑ पिबतमश्विना ॥ ७ ॥
+
+### Printed p. 295
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निना । इंद्रेण । वरुणेन । विष्णुना । आदित्यैः । रुद्रैः । वसुभिः । सचाभुवा ।  
+> सजोषसौ । उषसा । सौर्येण । च । सोमं । पिबतं । अश्विना ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् आग्निनेंद्रेण वरुणेन विष्णुनादित्यै रुद्रैर्वसुभिश्च सचाभुवा
+> सहभूतावुषसा सूर्येण च सजोषसा संगत् युवां सोमं पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, associated with Agni, Indra, Varuṇa, Viṣṇu, the Ādityas, the Rudras and the Vasus, being together with them, and united with Uṣas and Sūrya, drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अग्निना (*agninā*)—with Agni
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- वरुणेन (*varuṇena*)—with Varuṇa
+- विष्णुना (*viṣṇunā*)—with Viṣṇu
+- आदित्यैः (*ādityaiḥ*)—with the Ādityas
+- रुद्रैः (*rudraiḥ*)—with the Rudras
+- वसुभिः (*vasubhiḥ*)—with the Vasus
+- सचाभुवा (*sacābhuvā*)—being together
+- च (*ca*)—and
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण (*sūryeṇa*)—with Sūrya
+- सजोषसा (*sajoṣasā*)—having equal affection
+- सोमं (*somaṃ*)—the Soma
+- पिबतं (*pibataṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, being together with Agni, with Indra, with Varuṇa, with Viṣṇu, with the Ādityas, with the Rudras, with the Vasus, and united with Uṣas and with Sūrya, having equal affection, drink the Soma.
+
+##### English translation
+Associated with Agni, with Indra, with Varuna, with Vishnu, with the Adityas, the Rudras, and the Vasus, and united with the dawn and with Surya, drink, Ashwins, the Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sacā: sacā means saha, "together with". Yāska, in the explanation (Ni. 5-5), says सचा सहेत्यर्थः । (*sacā sahetyarthaḥ |*) and वसुभिः सचाभुवा । वसुभिः सह भवौ (*vasubhiḥ sacābhuvā | vasubhiḥ saha bhavau*).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑भिर्धि॒भिर्भुव॑नेन वाजिना दि॒वा पृ॑थि॒व्याद्रि॑भिः सचा॒भुवा॑ ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण च॒ सोमं॑ पिबतमश्विना ॥ २ ॥
+
+### Printed p. 296
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वाभिः । धीभिः । भुवनेन । वाजिना । दिवा । पृथिव्या । अद्रिभिः । सचाभुवा ।  
+> सजोषसौ । उषसा । सूर्येण । च । सोमं । पिबतं । अश्विना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिना बलिनावश्विन् विश्वाभिः सर्वाभिर्धीभिः प्रज्ञाभिर्भुवनेनाखिलेन
+> भूतजातेन च दिवा द्युलोकेन च पृथिव्या चाद्रिभिश्च सचाभुवा सहभूतावुषसा
+> सूर्येण च संगतौ युवां सोमं पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O mighty Aśvins, together with all insights, with the whole of created beings, with heaven, with earth and with the mountains, being together, and united with Uṣas and Sūrya, drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिना (*vājinā*)—O powerful ones
+- अश्विना (*aśvinā*)—O Aśvin deities
+- विश्वाभिः (*viśvābhiḥ*)—all
+- धीभिः (*dhībhiḥ*)—with insights
+- भुवनेन (*bhuvanena*)—with all created beings
+- दिवा (*divā*)—with heaven
+- पृथिव्या (*pṛthivyā*)—with the earth
+- अद्रिभिः (*adribhiḥ*)—with the mountains
+- सचाभुवा (*sacābhuvā*)—united together
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united and having equal affection
+- सोमं (*somaṃ*)—the Soma
+- पिबतं (*pibataṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O powerful Aśvin deities, being united with all insights, with all created beings, with heaven, with earth and with the mountains, and being united with Uṣas and with Sūrya, having equal affection, drink the Soma.
+
+##### English translation
+Powerful (Aswins), associated with all intelligences, with all beings, with heaven, with earth, with the mountains, united with the dawn and with Surya, drink, Aswins, the Soma.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वै॑र्दे॒वैस्त्रि॒भिरे॑काद॒शैरि॒हाद्भिर्म॒रुद्भि॒र्भृगु॑भिः सचा॒भुवा॑ ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्य॑ण च॒ सोमं॑ पिबतमत्विना ॥ ३ ॥
+
+### Printed p. 297
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वैः । देवैः । त्रिभिः । एकादशैः । इह । आत्भिः । मरुत्भिः । भृगुभिः ।  
+> सचाभुवा ।  
+> सजोषसौ । उषसा । सूर्येण । च । सोमं । पिबतं । अश्विना ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ विश्वैर्देवैस्त्रिभिरेकादशैस्त्रयस्त्रिंशैरिह यज्ञेऽद्भिर्मरुद्भिर्भृगुभिश्च सचाभुवा सहभूतावुषसा सूर्येण च संगतौ युवां सोमं पिबतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, together with all the thirty-three gods, here in this sacrifice, with the waters, the Maruts and the Bhṛgus, being together, and united with Uṣas and Sūrya, drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- इह (*iha*)—in this sacrifice
+- त्रिभिः एकादशैः (*tribhiḥ ekādaśaiḥ*)—numbering thirty-three
+- विश्वैः देवैः (*viśvaiḥ devaiḥ*)—with all the gods
+- अद्भिः (*adbhiḥ*)—with the water deities
+- मरुद्भिः (*marudbhiḥ*)—with the Maruts
+- भृगुभिः (*bhṛgubhiḥ*)—with the Bhṛgus
+- सचाभुवा (*sacābhuvā*)—being together
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण चॆ (*sūryeṇa cè*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united and having equal affection
+- सोमा (*somā*)—the Soma
+- पिबतं (*pibataṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, in this sacrifice, being together with all the gods numbering thirty-three, with the water deities, with the Maruts and with the Bhṛgus, and being united with Uṣas and with Sūrya, having equal affection, drink the Soma.
+
+##### English translation
+Associated with all the thrice-eleven deities at this ceremony, with the waters, with the Maruts, with the Bhrigus, united with the dawn and with Surya, drink, Aswins, the Soma.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जु॒षेथां॑ य॒ज्ञं बोध॑तं॒ हव॑स्य मे॒ विश्वे॒ह दे॑वौ॒ सव॒नाव॑  
+> गच्छतं ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चेषं॑ नो वोळ्हमश्विना ॥ ४ ॥
+
+### Printed p. 298
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुषेथां । यज्ञं । बोधतं । हवस्य । मे । विश्वा । इह । देवौ । सवना । अव ।  
+> गच्छतं ।  
+> सजोषसौ । उषसा । सूर्येण । च । आ । इषं । नः । वोळ्हं । अश्विना ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ यज्ञं जुषेथां । सेवेथां ! मे मम हवस्य हवं बोधतं ।
+> जानीतं । इह यज्ञे विश्वा सर्वाणि सवनान्यव गच्छतं । प्राप्नुतं । इषमन्नं न आ
+> वोळ्हं । प्रापयतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, enjoy the sacrifice; take notice of my invocation; in this sacrifice come to know and attain all the libations; bring us food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—O deities
+- आश्विना (*āśvinā*)—O Aśvin deities
+- यज्ञं (*yajñaṃ*)—our sacrifice
+- जुषेथां (*juṣethāṃ*)—enjoy
+- मे (*me*)—my
+- हवस्य (*havasya*)—prayer
+- बोधतं (*bodhataṃ*)—know
+- इह (*iha*)—in this sacrifice
+- विश्वा (*viśvā*)—all
+- सवना (*savanā*)—rites
+- आव गच्छतं (*āva gacchataṃ*)—know
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- नः (*naḥ*)—to us
+- इषं (*iṣaṃ*)—food
+- आ वोळ्हं (*ā voḷhaṃ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, being of divine nature, enjoy our sacrifice. Know my prayer. In this sacrifice understand all the rites. Being united with Uṣas and with Sūrya, provide us with food.
+
+##### English translation
+Be gratified by the sacrifice ; hear my invocation ; recognize, deities, all the offerings in this ceremony ; united with the dawn and with Surya, bring us, Aswins, food.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तोमं॑ जुषेथां युव॒शेव॑ क॒न्यनां॒ विश्वे॒ह दे॑वौ॒ सव॒नाव॑  
+> गच्छतं ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चेषं॑ नो वोळ्हमश्विना ॥ ५ ॥
+
+### Printed p. 299
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्तमं । णुषेथां । युवशाइव । कन्यनां । विश्वा । इह । देवौ । सवना । अव ।  
+> गच्छतं ।  
+> सजोषसौ । उषसा । सूर्येण । च । आ । इषं । नः । वोळ्हं । अश्विना ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दे आश्विन् देव् युवामिहास्मिन्नज्ञे स्तोमं जुषेथां । सेवेथां ।
+> युवशेव यथा युवान् कन्यनां कन्यानामाह्वानं सेवेते । तद्वदित्यर्थः । इह
+> यज्ञे विश्वा विश्वानि सवनान्यव गच्छतं ! प्राप्नुतं । सिद्धमन्यत् ॥
+> ॥ ४, २६, २७ ॥
+> देवा-देवतात्मराद । अश्विना--ऎलै अश्विनीदेवतॆगळे । कन्यनां-कन्यॆयर
+> अड्डावन्नु केरि युवशेव-युवकरु अड्डावन्नु हॊंदुवंतॆ । इद-ई यज्ञदल्लि ।
+> स्तोमं-नम्म स्तुतियन्नु ! जुषेथां - सेविसिरि ! विश्वा-समस्तवाद । सवनाउच्चकर्मगळन्नू अव गच्छतं - तिळिदु स्वीकरिसिरि । उषसा-उषस्सिनॊडनॆयू ।
+> सूर्येण च-सूर्यनॊडनॆयू । सजोषसा-ऒंदूगूडिदवरागि ! नः-नमगॆ ।
+> इषु-अन्नवन्नु । आ वोळ्हं-तंदॊदगिसिरि.
+> २ श्रीरामचंद्र ।
+> देवतात्तराद ऎलै अश्विनीदेवतॆगळे, कन्यॆयर आह्वानवन्नु केळि युवकरु आह्लादवन्नु
+> हॊंदुवंतॆ ई यज्ञदल्लि नम्म स्तुतियन्नु सेविसिरि. समस्तवाद यज्ञकर्मगळन्नू अरितु
+> स्वीकरिसिरि उषस्सिनॊडनॆयू, सूर्यनॊडनॆयू ऒंदुगूडिदवरागि नमगॆ अन्नवन्नु
+> तंदॊदगिसिरि.
+
+##### Gist of the bhāṣya
+
+O Aśvins, enjoy our praise in this sacrifice. As young men take delight in the calling of maidens, so you, that is the meaning, enjoy it. In this sacrifice, attain all the libations. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—being of divine nature
+- अश्विना (*aśvinā*)—O Aśvin deities
+- कन्यनां (*kanyanāṃ*)—of maidens
+- युवशेव (*yuvaśeva*)—as young men take delight
+- इद (*ida*)—in this sacrifice
+- स्तोमं (*stomaṃ*)—our praise
+- जुषेथां (*juṣethāṃ*)—enjoy
+- विश्वा (*viśvā*)—all
+- सवना (*savanā*)—sacrificial rites
+- अव गच्छतं (*ava gacchataṃ*)—know and accept
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- नः (*naḥ*)—to us
+- इषु (*iṣu*)—food
+- आ वोळ्हं (*ā voḷhaṃ*)—bring and provide
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, being of divine nature, as young men take delight on hearing the call of maidens, enjoy our praise in this sacrifice. Know and accept all the sacrificial rites. Being united with Uṣas and with Sūrya, bring and provide us with food.
+
+##### English translation
+Be gratified by our praise as youths are delighted (by the voices) of maidens : recognize, deities, all the offering in th's ceremony ; united with the dawn and with Surya, bring us. Asvins, food.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गिरो॑ जुषेथामध्व॒रं जु॑षेथां॒ विश्वे॒ह दे॑वौ॒ सव॒नाव॑  
+> गच्छतं ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चेषु॑ नो वोळ्हमश्विना ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 293. Vol 24 pp. 288-293: Sūkta 8.34 Ṛks 12-18, start of Sūkta 8.35
+**Progress note:** Done through printed p. 299. Vol 24 Mandala 8 sukta 35 rks 1-6 start, pp. 294-299
