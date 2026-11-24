@@ -34771,6 +34771,270 @@ O Agni, sprinkled with Soma, the Soma that should flow, that is borne in the car
 ##### English translation
 Sprinkled, (Agni, with the libation), the dripping (juices), car-borne, agreeable, offered in due season, resplendent, have been presented
 
+### Printed p. 821
+to you; you are the beloved of the mighty dawns; you reign over the things of night.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमाग॑न्म॒ सोभ॑रयः स॒हस्र॑मुष्कं स्वभि॒ष्टिमव॑से ।  
+> स॒म्राजं॒ त्रास॑दस्यवं ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । आ । अगन्म । सोभरयः । सहस्रमुष्कं । सुअभिष्टिं । अवसे ।  
+> संराजं । त्रासदस्यवं ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोभरय ऋषयो वयमवसे रक्षणाय तमग्निमागन्म । हविर्भिः स्तुतिभिश्च
+> प्राप्ता अभूम । कीदृशं । सहस्रमुष्कं । मुष्णंति तमांस्यपहरंतीति मुष्काणि
+> तेजांसि । बहुतेजस्कं स्वभिष्टिं शोभनाभ्येषणं सम्राजं सम्यग्राजमानं त्रासदस्यवं । त्रसदस्युर्नाम राजर्षिः । तस्य स्तोतव्यत्वेन संबंधिनं ॥
+
+##### Gist of the bhāṣya
+
+The Sobhari seers say that they have come to Agni for protection, reaching him with oblations and praises. He is described as सहस्रमुष्कं (*sahasramuṣkaṃ*): मुष्णंति (*muṣṇaṃti*), they steal away darkness, so मुष्काणि (*muṣkāṇi*) are splendours; he is therefore one of abundant splendour. He is स्वभिष्टिं (*svabhiṣṭiṃ*), one whom people seek well; सम्राजं (*samrājaṃ*), shining perfectly; and त्रासदस्यवं (*trāsadasyavaṃ*), connected with the royal seer named Trasadasyu as an object of his praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोभरयः (*sobharayaḥ*)—we, who bear the name Sobhari
+- सहस्रमुष्कं (*sahasramuṣkaṃ*)—him who has many kinds of splendour that removes darkness
+- स्वभिष्टिं (*svabhiṣṭiṃ*)—him who is worshipped excellently
+- सम्राजं (*samrājaṃ*)—him who shines abundantly
+- त्रासदस्यवं (*trāsadasyavaṃ*)—the friend of Trasadasyu
+- तं (*taṃ*)—that same Agni
+- अवसे (*avase*)—for protection
+- आ अगन्म (*ā aganma*)—we approach with praises
+
+##### भावार्थ (Bhāvārtha)
+
+We, who bear the name Sobhari, approach with praises, for protection, that same Agni who has many kinds of splendour that removes darkness, who is excellently worshipped, who shines abundantly, and who is the friend of Trasadasyu.
+
+##### English translation
+We, the Sobharis, have come to the thousand-rayed, the sincerely worshipped, the universal sovereign, the ally of Trasadasyu, of his protection
+
+### Printed p. 822
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ ते अग्ने अ॒न्ये अ॒ग्नय॑ उप॒क्षितो॑ व॒याइ॑व ।  
+> विपो॒ न द्यु॒म्ना नि यु॑वे॒ जना॑नां॒ तव॑ क्ष॒त्राणि॑  ॒॑
+> वर्धयन् ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । ते । अग्ने । अन्ये । अग्नयः । उपक्षितः । वयाः इव ।  
+> विपः । न । द्युम्ना । नि । युवे । जनानां । तव . । क्षत्राणि । वर्धयन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यस्य ते तवान्येऽग्नयो वया इव वृक्षस्य शाखा इवोपक्षितः
+> समीपे निवसंतो भवंति जनानां जनिमतां मनुष्याणां मध्येऽहं तस्य तव
+> क्षत्राणि बलानि स्तुत्या वर्धयन् विपो न । स्तोतृनामैतत् । अन्ने स्तोतार इव
+> द्युम्ना द्योतमानान्यन्नानि यशांसि वा नि युवे । नितरां प्राप्नोमि । त्वतृसादाल्लभेयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the other fires that belong to you dwell near you like the branches of a tree. Among mankind (जनानां (*janānāṃ*), those who are born), I, magnifying your powers (क्षत्राणि (*kṣatrāṇi*), strengths) with praise, am like a विपः (*vipaḥ*), which is a name for worshippers; like other worshippers I नि युवे (*ni yuve*), obtain thoroughly, the shining foods (द्युम्ना (*dyumnā*), or glories). The meaning is: may I obtain them through your favour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यस्य (*yasya*)—whose
+- ते (*te*)—in you
+- अन्ने अग्नयः (*anne agnayaḥ*)—the other fires, special manifestations of your power
+- वया इव (*vayā iva*)—like the branches of a tree
+- उपक्षितः (*upakṣitaḥ*)—rely upon you
+- तव (*tava*)—of such a you
+- क्षत्राणि (*kṣatrāṇi*)—special powers
+- जनानां (*janānāṃ*)—among men, I
+- वर्धयन् (*vardhayan*)—increasing
+- विपो न (*vipo na*)—just like other praisers
+- द्युम्ना (*dyumnā*)—shining foods
+- नि युवे (*ni yuve*)—may I obtain abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, those other fires, special manifestations of your power, which are in you and rely on you like the branches of a tree: of such a you, increasing your special powers among men, may I, like other praisers, obtain abundantly shining foods.
+
+### Printed p. 823
+
+##### English translation
+Agni, on whom your other fires are dependent, like branches (on the stem of the tree), may I among men, magnifying your powers, become possessed, like (other) votaries, of (abundant) food,
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमा॑दित्यासो अद्रुहः पा॒रं नय॑थ॒ मर्त्यं॑ ।  
+> म॒घोनां॒ विश्वे॑षां सुदानवः ॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । आदित्यासः । अद्रुहः । पारं । नयथ । मर्त्यं ।  
+> मघोनां । विश्वेषां । सुदानवः ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रुहोऽद्रोग्द्धारो हे सुदानवो हे आदित्यासोऽदितेः पुत्रा
+> मित्रादयः मघोनां हविष्मतां विश्वेषां सर्वॆषां मध्यॆ यं मर्त्यं मनुष्यं
+> यजमानं पारं नयथ आरब्धस्य कर्मणः समाप्तिं प्रापयथ । स तत्फलं लभत
+> इत्यर्थः !!
+
+##### Gist of the bhāṣya
+
+O Adityas, sons of Aditi (Mitra and the others), who do not injure and who give well: among all the possessors of oblations, whatever mortal, that is, sacrificer, you carry across, that is, bring to the completion of the rite begun, he obtains its fruit. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रुहः (*adruhaḥ*)—benefactors
+- सुदानवः (*sudānavaḥ*)—generous givers
+- आदित्यासः (*ādityāsaḥ*)—O Adityas
+- मघोनां (*maghonāṃ*)—of those who possess oblations
+- विश्वेषां (*viśveṣāṃ*)—among all sacrificers
+- यं (*yaṃ*)—which
+- मर्त्यं (*martyaṃ*)—sacrificer
+- पारं नयथ (*pāraṃ nayatha*)—you bring to the end of his rite (he alone obtains the good fruit)
+
+##### भावार्थ (Bhāvārtha)
+
+O Adityas, benefactors and generous givers: among all sacrificers who possess oblations, whichever sacrificer you bring to the end of his rite, he alone obtains the good fruit.
+
+### Printed p. 824
+
+##### English translation
+Benevolent and generous Adityas, amidst all the offerers of oblations the man whom you conduct to the limit (of his undertakings obtains his reward.
+
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं रा॑जानः॒ कं चि॑च्छर्षणीसहः॒ क्षयं॑तं॒  
+> मानु॑षा॒ अनु॑ ।  
+> व॒यं ते वो॒ वरु॑ण॒ मित्रार्य॑म॒न्तास्मेदृ॒तस्य॑  ॒॑
+> रथ्यः ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । राजानः । कं । चित् । चर्षणीसहः । क्षयंतं । मानुषान् ।  
+> अनु ।  
+> वयं । ते । वः । वरुण । मित्र । आर्यमन् । स्याम । इत् । ऋतस्य ।  
+> रथ्यः ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजानो राजमाना हे चर्षणीसहः शत्रुभूतानामभिभवितार आदित्याः
+> यूयं मानुषाननु मनुष्यान्यजमानाननुलक्ष्य क्षयंतं क्षपयंतं कं चित्
+> कमपि शत्रुवर्गमभिभवथेति शेषः । यद्वा । मनुष्येषु यजमानेषु क्षयंतं
+> स्तुतीनामिाश्वरं कं चित् कमपि स्तोतारं मा यूयं गच्छत । हे वरुण हे मित्र
+> हे अर्यमन् ते तादृशा वयं वो युष्माकं संबंधिन ऋतस्य यज्ञस्य रथ्यः
+> स्याम । नेतारो भवेम ॥
+
+##### Gist of the bhāṣya
+
+O shining Adityas, overcomers (चर्षणीसहः (*carṣaṇīsahaḥ*)) of hostile men: you, having in view the human sacrificers (मानुषाननु (*mānuṣānanu*)), overcome any group of enemies that is destroying them; "overcome" is the word to be supplied. Or else: do not go to any praiser who dwells among human sacrificers as the lord of praises. O Varuṇa, Mitra, Aryaman, such of us, belonging to you, may be रथ्यः (*rathyaḥ*) of the sacrifice (ऋतस्य (*ṛtasya*)), that is, may we be its leaders.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजानः (*rājānaḥ*)—shining ones
+- चर्षणीसहः (*carṣaṇīsahaḥ*)—O Adityas, who defeat enemies
+- यूयिं (*yūyiṃ*)—you
+- मानुषान् अनु (*mānuṣān anu*)—facing the sacrificers
+- क्षयंतं (*kṣayaṃtaṃ*)—who harasses
+- कं चित् (*kaṃ cit*)—defeat any enemy whatever
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—O Mitra (continued on the next page)
+
+### Printed p. 825
+- अर्यमन् (*aryaman*)—O Aryaman
+- ते (*te*)—belonging to you
+- वयं (*vayaṃ*)—we
+- वः इत् (*vaḥ it*)—of that which is your own worship
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- रथ्यः (*rathyaḥ*)—as leaders
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O Adityas, shining ones and defeaters of enemies: if any enemy confronts the sacrificer, destroy such an enemy. O Mitra, O Varuṇa, O Aryaman: may we, who are connected with you, be leaders of the sacrifice that is your own worship.
+
+##### English translation
+Royal (Adityas), overcomers of (hostile) men, (you subdue) any one harassing those (who are engaged in sacred rites) and may we, Varuna, Mitra, and Aryaman, be the conveyers of the sacrifice (addressed) to you.
+
+##### विशेषविषयगळु (Special Topics)
+
+For क्षयंतं मानवान् अनु (*kṣayaṃtaṃ mānavān anu*) another meaning has been given as an alternative. The meaning stated above is better than that.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदा॑न्मे पौरुकु॒त्स्यः पं॑चा॒शतं॑ त्र॒सद॑स्युव्॒रधूनां॑ ।  
+> मंहि॑षो आ॒र्यः सत्प॑तिः ॥ ३६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदात् । मे । पौरुकुत्स्यः । पंचाशतं । त्रसदस्युः । वधूनां ।  
+> मंहिष्ठः । आर्यः । सत्पपतिः । ॥ ३६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमादिकेन प्रगाथेन त्रसदस्योर्दानमृषिः प्रशंसति । पौरुकुत्स्य पुरुकुत्सपुत्रस्त्रसदस्युर्मे मह्यं वधूनां पंचाशतमदात् । दत्तवान् । कीदृशः ।
+> मंहिष्ठो दातृतमोऽर्योऽभिगंतव्यः स्वामी वा सत्पतिः सतां श्रेष्ठानां
+> स्तोत्कृणां पालयिता ॥
+
+##### Gist of the bhāṣya
+
+With this verse, a Pragātha, the seer praises the gift of Trasadasyu. Trasadasyu, son of Purukutsa (पौरुकुत्स्य (*paurukutsya*)), gave me fifty brides. What kind is he? He is मंहिष्ठः (*maṃhiṣṭhaḥ*), the greatest giver; अर्यः (*aryaḥ*), one to be approached, or a master; and सत्पतिः (*satpatiḥ*), protector of the good, who are the best of praisers.
+
+### Printed p. 826
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—a generous giver
+- अर्यः (*aryaḥ*)—a master
+- सत्पतिः (*satpatiḥ*)—protector of good people
+- पौरुकुत्स्यः (*paurukutsyaḥ*)—son of Purukutsa
+- त्रसदस्युः (*trasadasyuḥ*)—Trasadasyu
+- मे (*me*)—to me
+- पंचाशतं (*paṃcāśataṃ*)—numbering five hundred
+- वधूनां (*vadhūnāṃ*)—brides
+- अदात् (*adāt*)—has given
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Trasadasyu, a generous giver, protector of good people, son of Purukutsa, has given me brides numbering five hundred.
+
+##### English translation
+The magnificent lord, the protector of the virtuous, Trasadasyu, the son of Purukutsa, has given me five hundred brides.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त मे॑ प्र॒यियो॑र्व॒यियोः॑ सु॒वास्त्वा॒ अधि॒  ॑
+> तुग्वनि ।  
+> ति॒स्म॒णां स॑प्तती॒नां श्या॒वः प्र॑णे॒ता भु॑व॒द्वसु॒र्दिया॑नां॒ पतिः॑ ॥ ३७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । मे । प्रयियोः । वयियोः । सुवास्त्वाः । अधि । तुग्वनि ।  
+> तिस्मणां । सप्ततीनां । श्यावः । प्रणेता । भुवत् । वसुः । दियानां ।  
+> पतिः ॥ ३७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दियानां पतिः (*diyānāṃ patiḥ*)—the best among givers
+- प्रनेता (*pranetā*)—a leader for the sacrifice
+- श्यावः (*śyāvaḥ*)—(continues on the next page)
+
 ---
 
-**Progress note:** Done through printed p. 820. pp. 814-820 (batch API)
+**Progress note:** Done through printed p. 826. pp. 821-826 (batch API)
