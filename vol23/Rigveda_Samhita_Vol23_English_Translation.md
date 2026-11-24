@@ -19183,6 +19183,250 @@ No hostile force arrests that car of yours which is hymned (by the devout), and 
 > हिरण्ययेन । रथेन । द्रवत्पाणिभिः । अश्वैः ।  
 > धीजवना । नासत्या ॥ ३५ ॥
 
+### Printed p. 475
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धीजवना मनोवद्वेगवंतौ ॥ आमंत्रिताद्युदात्तत्वं ॥ हे नासत्या सत्यस्वभावौ सत्यस्य नेतारौ वा ॥ आमंत्रितं पूर्वमविद्यमानवदिति पूर्वस्याविद्यमानत्वेन पदादपरत्वादाष्टमिकनिघाताभावः । न च नामंत्रितविद्यमानवत्त्वनिषेधो
+> धीजवनेत्यस्य विशेषणत्वेन सामान्यवचनत्वाभावात् । व्यावर्तकं हि विशेषणं ॥
+> ईदृशौ युवां द्रवत्पाणिभिः शीघ्रगमनपदैरश्वैर्युक्तेन हिरण्ययेन हिरण्मयेन
+> स्वर्णमयेन रथेनागतमिति शेषः । यद्वा ॥ धीजवना नासत्येत्येतद्वयमपि प्रथमांतमेव नामंत्रितं । धियो जव इव जवो ययोस्तॆ । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥ ईदृशेन रथेन शीघ्रगमनौ नासत्यावश्विनावागच्छतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses धीजवना (*dhījavanā*) as "O you who are swift like the mind", and हे नासत्या (*he nāsatyā*) as "O you whose nature is truth, or who are leaders of truth". He adds that the Aśvins are to come in a golden chariot yoked to horses of swift-moving feet, and supplies the verb "(have come)" to complete the sentence. Alternatively, both words *dhījavanā nāsatyā* are in the nominative and not vocatives. धीजवना (*dhījavanā*) then means "those whose speed is like the speed of thought", and the sense is "may the swift Nāsatyas, the Aśvins, come in such a chariot".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धीजनना (*dhījananā*)—those who are swift like the speed of the mind **NOTE**
+- नासत्या (*nāsatyā*)—O Aśvin deities, who are of the nature of truth
+- द्रवत्पाणिभिः (*dravatpāṇibhiḥ*)—with feet that run swiftly
+- अश्वैः (*aśvaiḥ*)—with horses; joined with these
+- हिरण्ययेन (*hiraṇyayena*)—made of gold
+- रथेन (*rathena*)—with the chariot; be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, swift as the mind and of the nature of truth, be pleased to come with a chariot made of gold and joined with horses whose feet run swiftly.
+
+##### English translation
+Rapid as thought, Nasatyas, (come) with your golden chariot drawn by quick-footed steeds.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं मृ॒गं जा॑गृ॒वांसं॒ स्वद॑थो ना वृषण्वसू ।  
+> तानः॑ पृंक्तमि॒षा र॒यिं ॥ ४६ ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । मृगं । जागृवांसं । स्वदथः । वा । वृषण्वसू इति वृषण् ऽवसू ।  
+> ता । नः । पृंक्तं । इषा । रयिं-॥ ३६ ॥
+
+### Printed p. 476
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाशब्दः समुच्छये । अपि च हे वृषण्वसू वर्षणधनावश्विनौ युवं
+> युवां जागृवांसं जागरणशीलं स्वकार्ये मदजननेऽव्यग्रं मृगं मृग्यमन्वेषणीयं सोमं स्वदथः । आस्वादयथः । यद्वा । जागृवांसं जागृतं मृगु मृगनामानमसुरं स्वदथः । स्वादयथः । हिंस्थ इत्यर्थः । तात् युवां नोभस्मदर्थमिषान्नेन रयिं धनं पृंकतं । संपृक्तं । कुरुतं । ईदृशं धनमस्मभ्यं प्रयच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The word वा (*vā*) is used in the sense of "and". Further, O Vṛṣaṇvasū, Aśvins whose wealth rains down, you taste the Soma, here called मृगं (*mṛgaṃ*), "what is to be sought". It is wakeful, that is, ever alert in its own work and unflagging in producing exhilaration. Alternatively, *jāgṛvāṃsaṃ mṛgaṃ* is the wakeful asura named Mṛga (Mṛgu), and "you taste" means "you strike" him. Then, for us, you are to combine wealth with food, that is, to give us such wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्वसू (*vṛṣaṇvasū*)—O Aśvin deities, whose wealth suffices to give us as much as we wish
+- युवं (*yuvaṃ*)—you
+- जागृवांसं (*jāgṛvāṃsaṃ*)—that is ever intent on your service
+- मृगं (*mṛgaṃ*)—the Soma
+- स्वदथः (*svadathaḥ*)—you have drunk
+- ता (*tā*)—you
+- नः (*naḥ*)—for us
+- इषा (*iṣā*)—with food
+- रयिं (*rayiṃ*)—wealth
+- पृंकं (*pṛṃkaṃ*)—combine together
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whose wealth is enough to give as one wishes, you have drunk the Soma that stands ready for your service. For us, combine wealth together with food (give it).
+
+##### English translation
+Affluent in showers, taste the wakeful desirable Soma : combine for us riches with food.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता मे॑ अश्विना सनी॒नां वि॒द्यातं॒ नवा॑नां ।  
+> यथा॑ चिच्चै॒द्यः क॒शुः श॒तमुष्टा॑नां॒ दद॑त्स॒हस्रा॒ ॒ ॑
+> दश गोनां ॥ ३७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> । मे । अश्विना । सनीनां । विद्यातं । नवानां ।
+
+### Printed p. 477
+
+> यथा । चित् । चैद्यः । कशुः । शतं । उष्ट्रानां । ददत् । सहस्रा ।  
+> दश । गोनां ॥ ३७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् ता तादृशौ युवां नवानामभिनवानां श्रेष्ठानां सनीनां
+> संभजनीयानां धनानां ॥ कर्मणि षष्ठी ॥ ईदृशानि धनानि मे मह्यं दापयितुं
+> विद्यातं । जानीतं । यथा चिद्येन खलु प्रकारेण चैद्यश्चेदिपुत्रः कशुरेतत्संज्ञो
+> राजोष्णानां शतं तथा गोनां गवां दश सहस्रा दशसंख्यानि सहस्राणि ददत्
+> दद्यात् तथा विद्यातमिति पूर्वत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you, such as you are, are to know (that you must) have me given new, excellent riches that are to be shared and enjoyed; the genitive here is in the sense of the object. "Know, in the way in which Caidya Kaśu, the king so named, son of Cedi, gives a hundred camels, so also he gives ten thousand cows; know accordingly." This is the connection with the earlier part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- ता (*tā*)—you who are famous
+- यथा चित् (*yathā cit*)—in what manner
+- चैद्यः (*caidyaḥ*)—the son of Cedi
+- कशुः (*kaśuḥ*)—the king called Kaśu
+- मे (*me*)—to me
+- उष्ट्रानां शतं (*uṣṭrānāṃ śataṃ*)—a hundred camels
+- गोनां दशसहस्र (*gonāṃ daśasahasra*)—ten thousand cows
+- ददत् (*dadat*)—has given, such as he
+- नवानां (*navānāṃ*)—that which is new
+- सनीनां (*sanīnāṃ*)—and fit for enjoyment, such wealth (that it be given); you also, know
+- विद्यातं (*vidyātaṃ*)—you also, know
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, in the manner in which the king called Kaśu, the son of Cedi, has given me a hundred camels and ten thousand cows, know in the same way that you, the famous ones, are to give new wealth fit for enjoyment.
+
+##### English translation
+Become apprised, • Aswins, of my recent gifts, how that Kashu, the son of Chedi, has presented me with a hundred camels and ten thousand cows.
+
+#### Ṛk 38
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो मे॒ हिर॑ण्यसंदृशो॒ दश॒ राज्यो॒ अमं॑हत ।  
+> अ॒ध॒स्प॒दा इच्छै॒द्यस्य॑ कृ॒ष्टय॑श्चर्म॒म्मा अ॒भितो॒ जनाः॑ ॥
+
+### Printed p. 478
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मे । हिरण्यसंदृशः । दश । राज्ञः । आमंहत ।  
+> अधःपदा । इत् । चैद्यस्य । कृष्टयः । चर्मम्माः । अभितः । जनाः ॥३८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः कशुसंज्ञो राजा मे मह्यं हिरण्यसंदृशो हिरण्यसंदर्शनान् हिरण्यसमानतेजस्कान् दश राज्योऽमंहत परिचरणार्थं दत्तवान् । दशसंख्याकान्याज्यो
+> युद्धे पराजितान् गृहीत्वा दासत्वेनास्मै दत्तवानित्यर्थः । नन्नीदृशानां बहुविधानां राज्ञां दान एकः कथं शक्नुयादिति तत्राह । कृष्टयः सर्वाः प्रजास्तस्य चैद्यस्य
+> चेदिपुत्रस्य कशोरधस्पदा इत् पादयोरधस्तादेव वर्तंते । न कश्चिदपि तत्समानस्तदधिको ना विद्यते । अभितः सर्वतो वर्तमाना जनाश्चर्मम्माश्चर्ममयस्य
+> कवचादेर्धारणे कृताभ्यासाः । यद्वा । चर्माणि चरणसाधनान्यश्वादीनि वाहनानि ।
+> तेषु मनंत्यभ्यस्यंतीति चर्मम्माः ॥ म्या अभ्यासे । आतो मनिन्निति विज् ॥ सर्वॆ
+> मनुष्यास्तस्य भटा इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The king named Kaśu gave me, for attendance, ten kings who were like gold in appearance, that is, of splendour equal to gold's. The meaning is that he took ten kings defeated in battle and gave them to him as slaves. An objection is raised: how could one man receive the gift of so many kings of such kinds? To this the poet replies: all the subjects of that Caidya, son of Cedi, Kaśu, stay beneath his feet. No one is equal to him or greater. The people on every side are practised in wearing leather armour and the like. Alternatively, चर्माणि (*carmāṇi*) are the means of going, conveyances such as horses, and those who are practised in them are चर्मम्माः (*carmammāḥ*). The meaning is that all men are his soldiers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—that same king called Kaśu
+- मे (*me*)—to me
+- हिरण्यसंदृशः (*hiraṇyasaṃdṛśaḥ*)—shining like gold
+- दश राज्ञः (*daśa rājñaḥ*)—ten kings
+- अमंहत (*amaṃhata*)—sent for my service
+- कृष्टयः (*kṛṣṭayaḥ*)—all the subjects
+- चैद्यस्य (*caidyasya*)—to that Kaśu, son of Cedi
+- अधस्पदा इत् (*adhaspadā it*)—remain in the places of service
+- अभितः (*abhitaḥ*)—around him
+- जनाः (*janāḥ*)—the people of his retinue
+- चर्मम्माः (*carmammāḥ*)—are indeed wearers of armour made of leather
+
+##### भावार्थ (Bhāvārtha)
+
+The same king called Kaśu, who gave so generously to me, sent me for my service ten kings who shine like gold. All the subjects remain in the places of service to that Kaśu, son of Cedi. The people of his retinue around him are indeed wearers of leather armour.
+
+##### English translation
+The son of Chedi, who has given me for servants ten Rajas, bright as gold, for all men are beneath his feet; all those around him wear cuirasses of leather.
+
+### Printed p. 479
+#### Ṛk 39
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> माकि॑रे॒ना प॒था गा॒द्येने॒मे यंति॑ चे॒दयः॑ ।  
+> अ॒न्यो नेत्सू॒रिरोह॑ते भूरि॒दाव॑त्तरो॒ जनः॑ ॥ ३९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माकिः । एना । पथा । गात् । येन । इमे । यंति । चेदयः ।  
+> अन्यः । न । इत् । सूरिः । ओहते । भूरिदावत्तरः । जनः ॥ ३९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येन मार्गेणेमे चेदयोऽस्य राज्ञः पितृपितामहादयो यंति गच्छंति
+> एनानेन पथा मार्गेण माकिर्गात् । अन्नो न गंतुं शक्नोति । अपि चास्मद्राज्योऽन्नो भूरिदावत्तरो बहुदातृतमः सूरिर्विद्वान् सञ्जनो नेन्नॆवौहते ।
+> वहति । स्तोतृभ्यो धनं प्रापयति । यद्वा । बहुदातृजनो यो जनः कशुर्नाम
+> अस्मादन्यः ॥ व्यत्ययेन प्रथमा । अन्यं सूरिः स्तोता नेदोहते । नैव याचते ।
+> ऒहिर्याच्चाकर्मा । यथान्यं न याचते तथा बहु धनं प्रयच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+By the road on which these Cedis, the fathers, grandfathers and others of this king, go, no one else can go. Moreover, among kings other than ours, there is none who is a more liberal giver; and no wise man conveys (wealth) so. He brings wealth to the singers of praise. Alternatively, a man called Kaśu (a very liberal giver) is other than this; the nominative is used by a change of case (vyatyaya). A singer does not beg of another; *ohi* is a verb of begging. The meaning is that he gives so much wealth that one does not beg of another.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by what road
+- इमे चेदयः (*ime cedayaḥ*)—these very people of the Cedi line
+- यंति (*yaṃti*)—travel
+- एना पथा (*enā pathā*)—by that road
+- माकिः गात् (*mākiḥ gāt*)—no others travel
+- भूरिदावत्तरः (*bhūridāvattaraḥ*)—who gives more than Kaśu
+- अन्यः सूरिः जनः (*anyaḥ sūriḥ janaḥ*)—another wise man
+- न ओहते इत् (*na ohate it*)—there is no one who gives so liberally to the singers of praise
+
+##### भावार्थ (Bhāvārtha)
+
+By the road on which these people of the Cedi line travel, no others travel. The distinction that belongs to these is not found in any other. There is no one else wiser than Kaśu. There is no other man who gives as liberally as he.
+
+##### English translation
+No one proceeds by that path which the Chedis follow, no other
+
+### Printed p. 480
+pious man as a more liberal benefactor confers (favour on those who praise him).
+
+## Sūkta 6 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीयेऽनुवाके सप्त सूक्तानि । तत्र महा इंद्र इत्यष्टाचत्वारिंशदृचं
+> प्रथमं सूक्तं काण्वस्य वत्सस्यार्षं गायत्रं । अंत्यतृचवर्जमैंद्रं । तस्मिन्परशुनान्नो राज्यः पुत्रस्य तिरिंदिरस्य दानं स्तूयते । अतः स तृचस्तद्देवताकः । तथा
+> चानुक्रांतं । महा इंद्रोऽष्टाचत्वारिंशद्वत्सस्यचोऽंत्यस्तिरिंदिरस्य पारशव्यस्य
+> वानस्तुतिरिति ॥ महाव्रते गायत्रतृचाशीतावंत्यतृचवर्जमिदं सूक्तं । तथैव पंचमारण्यके सूत्र्यते । महा इंद्रो य ओजसेति तिस्र उत्तमा उद्धरति । ऐ. आ.
+> ५-२-२ । इति ॥ प्रातः सवने सोमातिरेके महानित्यादिकाः स्तोमातिशंसनार्थाः ।
+> सूत्रितं च । महा इंद्रो य ओजसातो देवा अवंतु न इत्यैंद्रीभिर्वृष्णवीभिश्च
+> स्तोममतिशस्य । आ. ६.७ । इति ॥ तृतीये पर्याये होतुः शस्त्रे महा इंद्र इति
+> तृचोऽनुरूपः । सूत्रितं च । महा इंद्रो य ओजसा समस्यॆ मन्यवे विश इति ।
+> आ. ६-४ । इति ॥ अप्पोर्यामे ब्रह्मणोऽतिरिकोक्ष्य अयमेव तृचोऽनुरूपः ।
+> सूत्र्यते हि । महा इंद्रो य ओजसा नूनमश्विना । आ. ९-११ । इति दर्शयागे
+> महेंद्रयाजिनः सांनाय्कस्य महानित्येषानुवाक्या । सूत्र्यते हि । महा इंद्रो
+> य ओजसा भुवस्त्वमिंद्र ब्रह्मणा महान् । आ. १-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the second anuvāka there are seven sūktas. Of them, the first, beginning महा इंद्र (*mahā iṃdra*), has forty-eight ṛks. Its seer is Vatsa of the Kāṇva line, and its metre is Gāyatrī. Apart from the last tṛca it is addressed to Indra. In it, the gift of Tirindira, son of the king Paraśu, is praised. So that tṛca has that gift as its deity. The Anukramaṇī is quoted to this effect. In the Mahāvrata this sūkta, except for its last tṛca, is used in the Gāyatra tṛca-series of eighty. In the fifth Āraṇyaka it is so prescribed: one takes out the last three ṛks, beginning महा इंद्र (*mahā iṃdra*) (Ai. Ā. 5-2-2). At the morning pressing, in the Soma-excess, the ṛks beginning महान् (*mahān*) and the like serve to extol the stoma. The sūtra has: "with the Aindra and Vṛṣṇavī (ṛks) he extends the stoma beyond" (Ā. 6.7). In the third paryāya, in the hotṛ's śastra, the tṛca महा इंद्र (*mahā iṃdra*) is the anurūpa, and the sūtra says so (Ā. 6-4). In the Aptoryāma, the same tṛca is the anurūpa of the brahman priest, and the sūtra says so (Ā. 9-11) **NOTE**. In the darśa sacrifice, for the Mahendra-sacrificer Sāṃnāyya, the verse महान् (*mahān*) is the anuvākyā, and the sūtra says so (Ā. 1-6).
+
+##### भावार्थ (Bhāvārtha)
+
+In the second anuvāka of the eighth Maṇḍala there are seven sūktas. Among them the sūkta beginning महा इंद्रः (*mahā iṃdraḥ*) is the first. In it there are forty-eight ṛks. The seer of this sūkta is Vatsa, born in the Kaṇva line. Except for one tṛca at the end (three ṛks), Indra is the deity of the other ṛks. In the last three ṛks there is praise of the gift made by the king's son Tirindira, son of the king Paraśu. Therefore the deity of those three ṛks is the praise of Tirindira's gift. The metre is Gāyatrī. In the Anukramaṇī it is said accordingly. In the Mahāvrata, for the recitation of the ṛks of Gāyatrī metre, leaving out the last three ṛks of this sūkta
+
 ---
 
-**Progress note:** Done through printed p. 474. pp. 469-474 (batch API)
+**Progress note:** Done through printed p. 480. pp. 475-480 (batch API)
