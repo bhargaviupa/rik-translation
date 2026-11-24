@@ -20007,6 +20007,279 @@ O Indra, those people who do not praise you, and those seers, the beholders of t
 - सुष्टुतः (*suṣṭutaḥ*)—greatly praised
 - वर्धस्व (*vardhasva*)—grow great
 
+### Printed p. 493
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, among those humans who do not praise you and among the sages who praise you, be glorified by my praise alone and grow strong.
+
+##### English translation
+Amid those who do not praise you Indra, amid the Rishis who praise you, by my praise being glorified, you increase.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑स्य म॒न्युरध्व॑नी॒द्वि वृ॒त्रं प॑र्व॒शो रु॒जन् ।  
+> अ॒पः स॑मु॒द्रमैर॑यत् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अस्य । मन्युः । अध्वनीत् । वि । वृतृं । पर्वशः । रुजन् ।  
+> अपः । समुद्रं । ऐरयत् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य मन्युः क्रोधो वृत्रमावृत्य तिष्ठंतमसुरु मेघं वा पर्वशः
+> पर्वणि पर्वणि परुषि परुषि वि रुजन् विभंजन् यद्यदाध्वनीत् स्तनयित्लुलक्षणं
+> शब्दमकरोत् तदानीं समुद्रं समुंदनीयमुदधिं प्रश्यपो वृष्ट्युदकान्यैरयत् । स इंद्रः प्रेरितवान् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the wrath (मन्युः (*manyuḥ*)) of this Indra, splitting Vṛtra, the demon who stood enveloping, or the cloud, joint by joint, made a sound of the nature of thunder; at that time Indra drove the waters, the rain-waters, towards the ocean, the receptacle of waters. Indra is the one who impelled them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Indra
+- मन्युः (*manyuḥ*)—the wrath
+- वृत्रं (*vṛtraṃ*)—the enveloping cloud
+- पर्वशः (*parvaśaḥ*)—in pieces
+- वि रुजन् (*vi rujan*)—tearing apart
+- यत् (*yat*)—when
+- अध्वनीत् (*adhvanīt*)—roared in the form of thunder (then)
+- अपः (*apaḥ*)—the rain-waters
+- समुद्रं (*samudraṃ*)—so that they flow towards the ocean
+- ऐरयत् (*airayat*)—Indra impelled
+
+##### भावार्थ (Bhāvārtha)
+
+When the wrath of this Indra, tearing the enveloping cloud to pieces, roared in the form of thunder, Indra poured down the rain-waters and made them flow towards the ocean.
+
+### Printed p. 494
+
+##### English translation
+When his wrath thundered, dividing Vritra join t by joint, then he drove the waters to the ocean.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि शुष्ण॑ इंद्र धर्ण॒सिं वज्रं॑ जघंथ॒ दस्य॑वि ।  
+> वृषा॒ ह्यु॑ग्र शृण्व॒षे ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । शुष्के । इंद्र । धर्णसिं । वज्रं । जघंथ । दस्यवि ।  
+> वृषा । हि । उग्र । शृण्वषे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शुष्णे शोषक एतत्संज्ञे दस्यव्युपक्षपयितर्यसुरे धर्णसिं धारयितव्यं वज्रं कुलिशं त्वं नि जघंथ । निहतवानसि । वज्रेण तमसुरं न्यवधीरित्यर्थः ।
+> हे उग्रोद्गूर्णबलेंद्र वृषा कामानां वर्षितेति हि शृण्वषे । श्रूयसे ।
+> आतोऽस्मदपेक्षितं धनं देहीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, upon Śuṣṇa, the drier-up, the demon of that name who destroys the earth, you have struck down the wielded thunderbolt (वज्रं (*vajraṃ*), the कुलिशं (*kuliśaṃ*)); that is, you slew that demon with the thunderbolt. O Indra, of upraised strength, you are heard of as the showerer of desires; therefore, the sense to be supplied is "give us the wealth we need."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- शुष्के (*śuṣke*)—upon the demon called Śuṣka because he dries up the world
+- दस्यवि (*dasyavi*)—upon the demon
+- धर्णसिं (*dharṇasiṃ*)—wielded by you
+- वज्रं (*vajraṃ*)—the thunderbolt
+- नि जघंथ (*ni jaghaṃtha*)—you have hurled and destroyed him
+- उग्र (*ugra*)—O Indra of exceeding strength
+- वृषा (*vṛṣā*)—as the giver of desired things
+- शृण्वषे हि (*śṛṇvaṣe hi*)—you are indeed renowned
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you hurled the thunderbolt you wield upon the demon called Śuṣṇa, so named because he dries up the world, and destroyed him. O Indra of exceeding strength, you are renowned as the giver of what is desired.
+
+### Printed p. 495
+
+##### English translation
+You have hurled your wielded thunderbolt upon the impious Shushna; you are renowned, fierce Indra, as the showerer (of benefits)
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न द्याव॒ इंद्र॒मोज॑सा॒ नांतरि॑क्षाणि व॒ज्रणं॑ ।  
+> न नि॑व्यचंत॒ भूम॑यः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । द्यावः । इंद्रं । ओजसा । न । अंतरिक्षणि । वज्रिणं ।  
+> न । विव्यचंत । भूमयः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यावो द्युलोका इममिंद्रमोजसा बलेन न विव्यचंत । न वाप्नुवंति ।
+> द्युलोकेभ्योऽप्यस्य बलमधिकमित्यर्थः । तथांतरिक्षाण्यंतरा क्षांतानि द्यावापृथिव्योर्मध्यॆ वर्तमाना लोका वज्रिणं वज्रवंतमिंद्रं न व्याप्नुवंति । तथा
+> भूमयो भूलोकाश्च तमिंद्रं न व्याप्नुवंति । त्रयो ना इमे त्रिवृतॆ लोकाः ।
+> ऐ. आ. १-१-२ । इति ब्राह्मणादेकैकस्य लोकस्य त्रित्वं । तिस्रो भूमीः । ऋ. २.२७-८ ।
+> इत्यादिनिगमाच्च ॥
+
+##### Gist of the bhāṣya
+
+The heavens (the heaven-worlds) do not reach this Indra in strength; his strength exceeds even the heavens. Likewise the intermediate regions (the worlds lying between heaven and earth) do not reach Indra, the wielder of the thunderbolt, and the earth-worlds do not reach him either. Each world is threefold, according to the Brāhmaṇa त्रयो ना इमे त्रिवृतॆ लोकाः । ऐ. आ. १-१-२ । (*trayo nā ime trivṛtè lokāḥ | ai. ā. 1-1-2 |*) (Ai. Ā. 1-1-2), and from the Nigama तिस्रो भूमीः । ऋ. २.२७-८ । (*tisro bhūmīḥ | ṛ. 2.27-8 |*) (Ṛ. 2.27-8) and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यावः (*dyāvaḥ*)—the heaven-worlds
+- इंद्रं (*iṃdraṃ*)—Indra
+- ओजसा (*ojasā*)—by strength
+- न विव्यचंत (*na vivyacaṃta*)—cannot approach (cannot attain Indra's strength)
+- अंतरिक्षाणि (*aṃtarikṣāṇi*)—the intermediate regions also
+- वज्रिणं न (*vajriṇaṃ na*)—cannot equal Indra, the bearer of the thunderbolt
+- भूमयः (*bhūmayaḥ*)—the earth-worlds
+- न (*na*)—cannot equal Indra
+
+##### भावार्थ (Bhāvārtha)
+
+Indra's strength is immeasurable. The heaven-worlds cannot attain his strength and so cannot equal him. The intermediate regions also cannot equal Indra, the bearer of the thunderbolt. The earth-worlds too are unable to gain Indra's strength.
+
+### Printed p. 496
+
+##### English translation
+Neither the heavens, nor the realms of the firmament, nor the regions of the earth, equal the thunderer Indra in strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the words द्यावः (*dyāvaḥ*) and भूमयः (*bhūmayaḥ*) are used in the plural to indicate the divisions found in heaven and in the earth-world. The commentator cites the Śruti passages stating that there are three distinct levels both in heaven and in the earth-world: त्रयो ना इमे त्रिवृतो लोकाः (*trayo nā ime trivṛto lokāḥ*) in the Aitareya Āraṇyaka (Ai. Ā. 1-1-2), and तिस्रो भूमीः (*tisro bhūmīḥ*) in the Ṛgveda Saṃhitā (Ṛ. Saṃ. 2.27-8).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त॑ इंद्र म॒हीर॒पः स्त॑भू॒यमा॑न॒ आश॑यत् ।  
+> नि तं पद्या॑सु शिश्नधः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । इंद्र । महीः । अपः । स्तभ्युयमानः । आ । अशयत् ।  
+> नि । तं । पद्यासु । शिश्नथः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव संबंधिनीर्महीर्महतीरप आंतरिक्ष्याण्युदकानि यो वृत्रः
+> स्तभूयमानः स्तंभयन् यथाधो न पतंति तथा कुर्वन्नाशयनन् आवृत्याशेत
+> तमसुरं पद्यासु गमनशीलास्वप्नु मध्यॆ नि शिश्नथः । न्यहिंसीः । शृथिर्हिंसार्थः ।
+> वज्रेण तमसुरं हत्वा नदीषु पातितवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the Vṛtra who lay enveloping your great waters, the waters of the atmosphere, holding them back so that they should not fall down, that demon you struck down (नि शिश्नथः (*ni śiśnathaḥ*), "you injured"; the root शृथि (*śṛthi*) has the sense of injuring) in the midst of the flowing waters. The meaning is that having slain that demon with the thunderbolt you cast him down in the rivers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—the Vṛtra who
+- ते (*te*)—belonging to you
+- महीः (*mahīḥ*)—of great nature
+- अपः (*apaḥ*)—the waters
+- स्तभूयमानः (*stabhūyamānaḥ*)—holding back so that they did not flow
+- आ अशयत् (*ā aśayat*)—lay spread over
+- तं (*taṃ*)—that demon
+- पद्यासु (*padyāsu*)—in the midst of the waters fit to flow
+- नि शिश्नथः (*ni śiśnathaḥ*)—you have destroyed
+
+### Printed p. 497
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Vṛtra who lay spread over your great waters, holding them back so that they did not flow, you destroyed in the midst of the flowing waters and made the waters flow.
+
+##### English translation
+You, Indra, have cast into the rushing streams, him who lay obstructing your copious waters.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इ॒मे रोद॑सी म॒ही स॑मी॒ची स॒मज॑ग्रभीत् ।  
+> तमो॑भिरिंद्र॒ तं गु॑हः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इमे इति । रोदसी इति । मही इति । समीची इति संईची ।  
+> संअजग्रभीत् ।  
+> तमःभिः । इंद्र । तं । गुहः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वृत्रो मही महत्यौ विस्तीर्णे समीची संगते इमे प्रत्यक्षत उपलभ्यमाने रोदसी द्यावापृथिव्यौ समजग्रभीत् सम्यगग्रहीत् । आवृणोदित्यर्थः ।
+> तमसुरं हे इंद्र त्वं तमोभिरंधकारैर्गुहः। संवृतमकरोः। अनाद्यनंतं मरणलक्षणं तमः प्रावेशय इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Vṛtra who seized, that is, enveloped, these two great, wide, joined worlds, heaven and earth, visible before us — that demon, O Indra, you made enclosed (गुहः (*guhaḥ*)) in darkness. The meaning is that you made him enter a beginningless and endless darkness of the nature of death.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—the Vṛtra who
+- मही (*mahī*)—very wide
+- समीची (*samīcī*)—joined together
+- इमे (*ime*)—visible
+- रोदसी (*rodasī*)—both heaven and earth
+- समजग्रभीत् (*samajagrabhīt*)—lay enveloping
+- तं (*taṃ*)—that demon
+- तमोभिः (*tamobhiḥ*)—with pitch darkness
+- गुहः (*guhaḥ*)—you made him enclosed
+
+### Printed p. 498
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the demon Vṛtra who lay enveloping both heaven and earth, which are very wide, joined together and visible, you made enclosed in pitch darkness.
+
+##### English translation
+You have enveloped with darkness, Indra, him who had seized upon these spacious aggregated (realms of) heaven and earth.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इं॑द्र॒ यत॑यस्त्वा॒ भृग॑वो॒ ये च॑ तुष्टु॒वुः ।  
+> ममेदु॑ग्र श्रुधी॒ हवं॑ ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । इंद्र । यतयः । त्वा । भृगवः । ये । च । तुस्तुवुः ।  
+> मम । इत् । उग्र । श्रुधि । हवं ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ये यतयो नियता अंगिरसस्त्वां तुष्टुवुः ये च भृगवो
+> भृगुगोत्रास्त्वां तुष्टुवुः स्तुवंति तेषु मध्ये ममेन्ममैव हवं स्तोत्रं हे
+> उग्रौजस्विन्निंद्र श्रुधि । शृणु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, among the restrained Aṅgirases who have praised you and the Bhṛgus, those of the Bhṛgu lineage, who praise you, hear my praise alone, O Indra of fierce might.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—O one of strength terrible to enemies
+- इंद्र (*iṃdra*)—O Indra
+- ये (*ye*)—the
+- यतयः (*yatayaḥ*)—self-restrained Aṅgirases who
+- त्वा (*tvā*)—you
+- तुष्टुवुः (*tuṣṭuvuḥ*)—praised
+- ये च (*ye ca*)—and the
+- भृगवः (*bhṛgavaḥ*)—Bhṛgu sages who praised you (among them)
+- ममेत् (*mamet*)—my own
+- हवं (*havaṃ*)—invocation in the form of praise
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of strength that causes fear to enemies, the self-restrained Aṅgirases who
+
 ---
 
-**Progress note:** Done through printed p. 492. pp. 487-492 (batch API)
+**Progress note:** Done through printed p. 498. pp. 493-498 (batch API)
