@@ -7,3 +7,4 @@ Method: one fresh Sonnet reader per batch of about 30 printed pages (brief `tool
 |---|---|---|---|---|---|---|---|
 | pilot | 300–309 | 24 | 15 rows → 17 edits ok / 0 | 9 | 139k + 109k (apply) | b7ae9b6 | |
 | 2-31 | 2-31 | 86 | 35 rows → 43 edits ok / 0 not applied | 51 | 304k | 2a611eb | mostly H29 questions: misprints in the Kannada that the English had silently corrected; pp. 7–8 are one English section (edits for p. 7 filed under page 6) |
+| 32-61 | 32-61 | 44 | 37 rows → 37 edits ok / 0 not applied | 7 | see note | @COMMIT@ | 24 S2: sūtra numbers the English had and the Kannada does not print were removed (no number where the print has none); 7 H29 questions |
