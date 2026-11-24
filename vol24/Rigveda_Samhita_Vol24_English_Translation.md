@@ -10848,6 +10848,278 @@ Of this Indra, of the good deeds called शचीनां (*śacīnāṃ*), tha
 
 There is no one who controls Indra, saying that he should perform his excellent deeds only so far. Indra is not subject to anyone. And there is no man who says that this Indra gives nothing to the people who praise him. That is, everyone says that Indra gives those who praise him whatever they need.
 
+### Printed p. 241
+
+##### English translation
+No one puts a limit to his glorious deeds, no one asserts that he is not generous.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न नू॒नं ब्र॒ह्मणा॑मृ॒णं प्रा॑शू॒नाम॑स्ति सुन्व॒तां ।  
+> न सोमो॑ अप्र॒ता स॑पेः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । नूनं । ब्रह्मणां । ऋणं । प्राशूनां । अस्ति । सुन्नतां ।  
+> न । सोमः । अप्रका । पपे ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्राशूनां । ये सोमं प्राश्नुवंति ते प्राशवः । तेषां सोमं सुन्वतां
+> ब्रह्मणां ब्राह्मणानामृणं देवर्णं न नूनमस्ति । न खलु विद्यते । तथा च
+> श्रूयते । एष वा अनृणो यः पुत्री यज्ञा ब्रह्मचारिवासी । त्रै. सं. ६-३-१०-५ ।
+> इति । किंचाप्रतापिस्तीर्णधनेन सोमो न पपे । न पीयते । प्रभूतधनेनैव
+> सोमः पीयत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those who partake of Soma are called प्राशूनां (*prāśūnāṃ*). Of those brahmans who press Soma there is certainly no debt to the gods, no such debt is found. So it is heard: "He alone is free of debt who has a son, has sacrificed and lives as a student of the Veda" (Tai. Saṃ. 6-3-10-5). Further, the Soma is not drunk by one whose wealth is not abundant; the meaning is that Soma is drunk only with abundant wealth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रारूनां (*prārūnāṃ*)—for the people who drink Soma
+- सुन्वतां (*sunvatāṃ*)—who perform the Soma pressing in the sacrifice
+- ब्रह्मणां (*brahmaṇāṃ*)—for the brahmans
+- ऋणं (*ṛṇaṃ*)—the debt to the gods, which has to be repaid to the gods
+- नूनं (*nūnaṃ*)—certainly
+- न अस्ति (*na asti*)—there is not (and)
+- अप्रता (*apratā*)—by those who have not abundant wealth
+- सोमः (*somaḥ*)—the Soma juice
+- न पपे (*na pape*)—is not drunk
+
+##### भावार्थ (Bhāvārtha)
+
+For the people who drink Soma at sacrifices and the like, and who in performing a sacrifice crush the Soma plants, extract the juice, offer it to the gods according to rule in order to present it to them, and drink it themselves, there is no debt connected with the gods. And by those who lack sufficient wealth to carry out sacrifices and the like, the drinking of Soma is not possible.
+
+### Printed p. 242
+
+##### English translation
+Verily no debt is due (to the gods) by those Soma-partaking Brahmans offering libations : the Soma is not drunk without the expenditure of boundless (wealth).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk, Soma drinking and Soma pressing mean the drinking of Soma performed in the proper manner in the course of the sacrificial rites. For those who drink Soma in this way, following the performance of a sacrifice, there is no debt to the gods. And since persons of small wealth cannot perform a sacrifice, it is said here that such people cannot drink Soma. It is necessary here to explain what the debt to the gods is. On this subject the Taittirīya Śruti says as follows.
+जायमानो वै ब्राह्मणस्त्रिभिर्यणवा जायते ब्रह्मचर्येणर्षिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्य एष वा अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी ॥ (*jāyamāno vai brāhmaṇastribhiryaṇavā jāyate brahmacaryeṇarṣibhyo yajñena devebhyaḥ prajayā pitṛbhya eṣa vā anṛṇo yaḥ putrī yajvā brahmacārivāsī ‖*) (Tai. Saṃ. 6-3-10-5)
+That is, a brahman is born carrying three kinds of debts (loans); one who is born a brahman must repay the three debts called the debt to the sages, the debt to the gods and the debt to the ancestors. Otherwise he has no good destiny. The manner of repaying these debts is this. If, immediately after the initiation, he studies the Veda in the stage of studentship, serving his teacher, he repays the debt to the sages. Then, marrying at the proper time and becoming a householder, if he performs sacrifices and the like in order to worship the gods, he repays the debt to the gods. And by begetting a son on his wedded wife he repays the debt to the ancestors. Therefore the chief meaning of this Vedic sentence is that a brahman, for the discharge of these three kinds of debt, should after the initiation live in the teacher's house, complete the study of the Veda, marry with the teacher's permission, perform sacrifices and so satisfy the gods, beget a son at the proper time and keep doing good deeds. In the present ṛk only the matter of the debt to the gods is indicated. By the words Soma pressing, Soma drinking and the like, the performance of sacrifice is indicated. Since the proper drinking of Soma is prescribed only in sacrifices, the words Soma pressing and Soma drinking mean the performance of sacrifice. The chief meaning of the ṛk is that by doing these the debt to the gods is repaid.
+
+### Printed p. 243
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पन्य॒ इदुप॑ गायत॒ पन्य॑ उ॒क्कानि॑ शंसत ।  
+> ब्रह्मा॑ कृणोत॒ पन्य॒ इत् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पन्ये । इत् । उप । गायत । पन्ये । उक्तानि । शंसत ।  
+> ब्रह्म । कृणोत । पन्ये । इत् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उपागातारः पन्य इत् स्तुत्य एवेंद्र उप गायत । उपगानं:कुरुत ।
+> किंच पन्य एवेंद्र उक्तानि स्तोत्राणि शंसत । हे स्तोतार इति शेषः । पन्य इत्
+> स्तुत्य एवेंद्रे ब्रह्माण्यन्यानि स्तोत्राणि कृणोत । कुरुत ॥
+
+##### Gist of the bhāṣya
+
+O singers who sing near, sing to Indra, the praiseworthy alone; perform the singing near. Further, recite hymns of praise to Indra, the praiseworthy alone; the words "O praisers" are to be supplied. To Indra, the praiseworthy alone, offer other hymns of praise as well; make them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पन्ये इत् (*panye it*)—(O singers of the Sāman, O attendant singers) in honour of Indra the praiseworthy alone
+- उप गायत (*upa gāyata*)—sing with Sāman hymns (and)
+- पन्ये (*panye*)—in honour of Indra the praiseworthy
+- उक्तानि (*uktāni*)—hymns of praise
+- शंसत (*śaṃsata*)—recite (O praisers)
+- पन्ये इत् (*panye it*)—in honour of Indra the praiseworthy
+- ब्रह्म (*brahma*)—hymns of praise
+- कृणोत (*kṛṇota*)—compose and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O singers of the Sāman, in honour of the praiseworthy Indra sing his praises with Sāman hymns. In honour of that praiseworthy Indra recite hymns of praise too. O praisers, in honour of the praiseworthy Indra compose and offer excellent praises.
+
+##### English translation
+Sing praises to the adorable (Indra), repeat prayers to the adorable (Indra), address hymns to the adorable (Indra).
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पन्य॒ आ द॑र्दिरच्छ॒ता स॒हस्रा॑ वा॒ज्यवृ॑तः ।  
+> इंद्रो॒ यो यज्ज॑नो वृ॒धः ॥ १८ ॥
+
+### Printed p. 244
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पन्यः । आ । दर्दिरत् । शता । सहस्रा । वाजी । अवृतः ।  
+> इंद्रः । यः । यज्वनः । वृधः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वाजी बलवाञ्छता वीराणां शतानि सहस्रा सहस्राणि चा दर्दिरत्
+> आभिमुख्येन दारयति सोऽयमिंद्रः शत्रुभिरवृतः पन्यः स्तुत्यो भवति । यज्जनो
+> विधिनेष्टवतो यजमानस्य वृधो वर्धयिता च भवति ॥
+
+##### Gist of the bhāṣya
+
+The powerful one who tears apart, face to face, hundreds and thousands of heroes, this Indra, unenclosed by enemies, is praiseworthy. He is the one who, for the sacrificer who has sacrificed according to rule, is the enhancer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- वाजी (*vājī*)—is mighty
+- शता (*śatā*)—hundreds of heroes
+- सहस्रा (*sahasrā*)—thousands of warriors
+- आ दर्दिरत् (*ā dardirat*)—can easily tear apart in battle
+- इंद्रः (*iṃdraḥ*)—such an Indra, is
+- अवृतः (*avṛtaḥ*)—unconquerable by enemies
+- पन्यः (*panyaḥ*)—praiseworthy
+- यज्जनः (*yajjanaḥ*)—worshipped according to rule by the sacrificer who performs the sacrifice, and
+- वृधः (*vṛdhaḥ*)—makes the sacrificer prosper
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is exceedingly strong. In battle, without being surrounded by enemies, he alone can easily tear apart hundreds and thousands of heroes. This praiseworthy Indra, praised by the sacrificer who performs the sacrifice, brings him prosperity.
+
+##### English translation
+The powerful Indra, the discomforter of hundreds and thousands, unchecked (by foes), is adorable; he who is the benefactor of the sacrificer.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि शू च॑र स्व॒धा अनु॑ कृष्णे॒नामन्वा॒हुवः॑ ।  
+> इंद्र॒ पिब॑ सु॒तानां॑ ॥ १९ ॥
+
+### Printed p. 245
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सु । चर । स्वधाः । अनु । कृष्णीनां । अनु । आहुवः ।  
+> इंद्र । पिब । सुतानां ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आहुव आह्वातव्यस्त्वं कृष्णीनां मनुष्याणां स्वधा हवींष्यनु सु
+> सुष्टु वि चर । द्वितीयोऽनु पूरणः । सुतानामभिषुतान् सोमांश्च पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are to be invoked, move well about the oblations (स्वधा (*svadhā*)) of men, who are called कृष्णीनां (*kṛṣṇīnāṃ*). The second अनु (*anu*) only completes the phrase. And drink the Soma juices that have been pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आहुवः (*āhuvaḥ*)—you who are invoked
+- कृष्णीनां (*kṛṣṇīnāṃ*)—offered by men
+- स्वधाति अनु (*svadhāti anu*)—to the vicinity of the oblation
+- सु वि चर (*su vi cara*)—you go, do you not
+- सुतानां (*sutānāṃ*)—the Soma juices pressed and made ready
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are invoked at sacrifices and the like, go to the oblation offered by men in order to partake of it. O Indra, drink the Soma juices that have been pressed and made ready.
+
+##### English translation
+Indra, you are to be invoked of men: come to their offered viands, drink of (their) libations.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिब॒ स्वधै॑नवानामु॒त यस्तुग्रे॒ सचा॑ ।  
+> उ॒तायमिं॑द्र॒ यस्तव॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिब । स्वधैनवानां । उत । यः । तुग्रै । सचा ।  
+> उत । अयं । इंद्र । यः । तव ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> : रामचंद्रन कीर्ति ।
+> हे इंद्र स्वधैनवानां स्वधैनवान् स्वभूतपयसो धेनोः संबंधिनः
+> सोमान् । धेन्वा क्रीतानित्यर्थः । तथा च श्रूयते । धेन्वा क्रीणातीति । उतापि च
+
+### Printed p. 246
+
+> यः सोमस्तुग्र उदके । बुसं तुग्रमित्युदकनामसु पाठात् । सचा संसृष्टः
+> तमपि सोमं पिब । उतापि च यः सोमस्तव त्वदीयस्त्वामुद्दिश्य गृहीतः
+> सोऽयं त्वया पातव्य इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, drink the Soma belonging to the cow that gives her own milk, that is, Soma bought with a cow. So it is heard: "He buys with a cow." Moreover, drink also the Soma that is in water, mixed with it; water is read among the names of water in the list of synonyms. And the Soma that is yours, taken for you, is to be drunk by you; this last is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- स्वधैनवानां (*svadhainavānāṃ*)—the Soma that has been bought for you by giving cows
+- उत (*uta*)—and
+- यः (*yaḥ*)—the Soma which
+- तुग्रे सचा (*tugre sacā*)—is mixed with water
+- यः (*yaḥ*)—the Soma which
+- तव (*tava*)—has been pressed for you alone
+- अयं (*ayaṃ*)—such Soma as this, may it be drunk by you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for your drinking, these Soma plants have been bought by giving cows, well pressed, mixed with water and made ready for drinking. Drink such Soma.
+
+##### English translation
+Drink of the (Soma) purchased by the milch cow, that (Soma) which is mixed with water, that which, Ida is especially yours.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk it is said that the Soma has been bought by giving cows. Since the Soma plants grow on some river banks and in high mountain regions, not everyone can easily fetch them. Therefore it has become the custom to buy them, at great cost, from those who have brought them from distant regions, and to use them in sacrifices and the like. This buying is called Soma purchase. It is considered a rite forming part of the sacrifice. When Soma plants are bought, it is the custom to give many kinds of things in exchange. The sentence of the Taittirīya Saṃhitā tells clearly what those things are.
+अजया क्रीणाति सतपसमेवैनं क्रीणाति हिरण्येन क्रीणाति सशुक्रमेष्टैनं क्रीणाति धेन्वा क्रीणाति साशिरमेष्टैनं क्रीणात्कृषभेण क्रीणाति सेंद्रमेवैनं क्रीणात्यनडुहा क्रीणाति वह्निर्वा अनड्वान् वह्निनैव वह्नि यज्ञस्य क्रीणाति मिथुनाभ्यां क्रीणाति मिथुनसा वरुध्यै वाससा क्रीणाति सर्वदेवत्यं वै वासः सर्वाभ्य एवैनं देवताभ्यः क्रीणाति दश संपद्यंते ॥ (*ajayā krīṇāti satapasamevainaṃ krīṇāti hiraṇyena krīṇāti saśukrameṣṭainaṃ krīṇāti dhenvā krīṇāti sāśirameṣṭainaṃ krīṇātkṛṣabheṇa krīṇāti seṃdramevainaṃ krīṇātyanaḍuhā krīṇāti vahnirvā anaḍvān vahninaiva vahni yajñasya krīṇāti mithunābhyāṃ krīṇāti mithunasā varudhyai vāsasā krīṇāti sarvadevatyaṃ vai vāsaḥ sarvābhya evainaṃ devatābhyaḥ krīṇāti daśa saṃpadyaṃte ‖*) (Kṛ. Saṃ. 6 1-10-1, 2) **NOTE**
+
+### Printed p. 247
+
+It is said that one may buy by giving any one of ten kinds of goods: goat, austerity, gold, śukra, a milch cow, milk, a bull, an ox, a pair, a garment. Among these, it is said in the present ṛk that the Soma bought by giving a dhenu, that is, a cow that gives milk, has been made ready for Indra.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अती॑हि मन्युषा॒विणं॑ सुषु॒नांस॑मु॒पार॑णे ।  
+> इ॒मं रा॒तं सु॒तं पि॑ब ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । इहि । मन्युसाविनं । सुसुवांसं । उपअरणे ।  
+> इमं । रातं । सुतं । पिब ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मन्युषाविणं क्रोधेन सोमं सुन्वंतमतीहि । अतिगच्छः । तथोपारणे । ब्राह्मणा उपेत्य यस्मिन्नेशे न रमंते स उपारणः । तस्मिन्नेशे सुषुवांसं सुन्वंतमतीहि । इमं रातं ब्राह्मणोपद्रवरहिते देशेऽस्माभिर्दत्तमिमं
+> सुतं सोमं पिब ॥
+
+##### Gist of the bhāṣya
+
+O Indra, pass beyond the one who presses Soma in anger. Likewise, in a place called उपारणे (*upāraṇe*), where brahmans, having come, do not delight, pass beyond one who presses Soma. Drink this Soma that has been given, that is, pressed and offered by us in a place free from the disturbance of brahmans.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मन्युषाविणं (*manyuṣāviṇaṃ*)—(O Indra) for the Soma drinking prepared by one who presses Soma in a fit of anger
+- अति इहि (*ati ihi*)—do not go
+- उपारणे (*upāraṇe*)—in a place without brahmans
+- सुषुवांसं (*suṣuvāṃsaṃ*)—for the Soma drinking prepared by one who presses, do not go either (but)
+- इमं रातं (*imaṃ rātaṃ*)—prepared by us in this place free of disturbance by brahmans
+- सुतं (*sutaṃ*)—this Soma juice
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, do not go there to drink the Soma juice pressed by one who is always filled with anger. And do not drink the Soma pressed in a place without brahmans, that is, in a place where no sacrifice is performed. But this Soma that we have prepared has been pressed in a good place by brahmans, hallowed with mantras, and made ready. Drink such Soma juice.
+
 ---
 
-**Progress note:** Done through printed p. 240. Mandala 8 sukta 32 rks 10-15
+**Progress note:** Done through printed p. 247. Mandala 8 sukta 32 rks 16-21
