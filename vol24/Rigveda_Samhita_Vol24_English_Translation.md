@@ -30816,6 +30816,285 @@ By which we may escape and destroy in battles our impetuous weapon - aiming enem
 > शिशानः । वृषभः । यथा । अग्निः । शृंगे इति । दविध्वत् ।  
 > तिग्माः । अस्य । हनवः । न । प्रतिधृषे । सुजंभः । सहसः । यॆहुः ॥ १३ ॥
 
+### Printed p. 679
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः शृंगे शिशानस्तीक्ष्णीकुर्वन् वृषभो यथा दविध्वत् कंपयति शिरः
+> एवं शृंगस्थानीया ज्वालाः शिशानस्तीक्ष्णीकुर्वन् दविध्वत् । कंपयति शिरः । अस्याग्निर्हनवो न हनव इव हनुस्थानीया ज्वालास्तिग्मान प्रतिधृषे । प्रतिधर्षितुमशक्याः ।
+> योऽग्निः सुजंभः सुदंष्ट्रः सहसो यहुः सहसः पुत्रोऽस्य हनव इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+As a bull sharpens its horns and shakes its head, so this Agni sharpens his flames, which stand in the place of horns, and shakes (the head). His flames, which stand in the place of jaws, are sharp and cannot be assailed. He is Agni, the one with fine teeth, the son of strength; the meaning is that these are his jaws.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शृंगे (*śṛṃge*)—his horns
+- शिशानः (*śiśānaḥ*)—having sharpened them
+- दविध्वत् (*davidhvat*)—who shakes his head
+- वृषभो यथा (*vṛṣabho yathā*)—like a bull
+- अग्निः (*agniḥ*)—Agni too sharpens his horns in the form of flames and shakes his head
+- सुजंभः (*sujaṃbhaḥ*)—who has teeth in the form of flames
+- सहसो यहुः (*sahaso yahuḥ*)—and who is the son of strength
+- अस्य (*asya*)—of such an Agni
+- तिग्माः (*tigmāḥ*)—the sharp
+- हनवः (*hanavaḥ*)—jaw-like flames
+- न प्रतिधृषे (*na pratidhṛṣe*)—are not to be resisted
+
+##### भावार्थ (Bhāvārtha)
+
+Like a bull that sharpens its horns and shakes its head, Agni too sharpens his horns in the form of flames and shakes his head. The sharp, jaw-like flames of the Agni who has teeth in the form of flames and is the son of strength cannot be resisted.
+
+##### English translation
+Agni tosses his horns, sharpening them as a bull ; his sharp jaws are not to be resisted ; he is mighty-toothed, this son of strength.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि ते॑ अग्ने वृषभ प्रति॒धृषे॒ जंभा॑सो॒ यद्वि॒तिष्ठ॑से ।  
+> स त्वं नो॑ होतः॒ सुहु॑तं ह॒विष्कृ॑धि॒ वंस्वा॑ नो॒ वार्या॑  ॒
+> पुरु ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । ते । अग्ने । वृषभ । प्रतिधृषे । जंभासः । यत् । वितिष्ठसे ।  
+> सः । त्वं । नः । होतरिति । सुहुतं । हविः । कृधि । वंस्व । नः । वार्या । पुरु ॥ १४ ॥
+
+### Printed p. 680
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषभ वर्षक ते तव जंभासो जंभा दंतस्थानीया ज्वाला नहि प्रतिधृषे
+> प्रतिधर्षितुं न शक्याः । यद्यस्माद्वितिष्ठसे विविधं गच्छसि । प्रवर्धस इत्यर्थः । हे
+> होतर्होमनिष्पादक स त्वं हविरस्मद्दत्तं सुहुतं कृधि ! कुरु । नोऽस्मभ्यं
+> नार्या वरणेयानि पुरु बहूनि वंस्व । देहि ॥
+
+##### Gist of the bhāṣya
+
+O bull, rainer, your flames that stand in the place of teeth cannot be resisted, because you spread in many ways; the meaning is that you grow. O hotṛ, accomplisher of the oblation, make the oblation given by us well offered, and give us many desirable things.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—O Agni, the fulfiller of wishes
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—through whose flames
+- वितिष्ठसे (*vitiṣṭhase*)—you spread everywhere **NOTE**
+- ते जंभासः (*te jaṃbhāsaḥ*)—your tooth-like flames
+- नहि प्रतिधृषे (*nahi pratidhṛṣe*)—have strength that is certainly unresisted
+- होतः (*hotaḥ*)—O Agni, accomplisher of the oblation
+- सः त्वं (*saḥ tvaṃ*)—you, the famous one
+- नः हविः (*naḥ haviḥ*)—the oblation offered by us
+- सुहुतं (*suhutaṃ*)—as a well-offered oblation
+- कृधि (*kṛdhi*)—make
+- नः (*naḥ*)—to us
+- वार्या (*vāryā*)—the desired wealth
+- पुरु (*puru*)—abundantly
+- वंस्व (*vaṃsva*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, fulfiller of wishes, your tooth-like flames, through which you spread everywhere, have strength that is certainly unresisted. O Agni, accomplisher of the oblation, you, the famous one, make our oblation a well-offered oblation. Give us abundantly the wealth that we desire.
+
+##### English translation
+Since you spread out on all sides, your teeth, bull Agni, are not to be resisted ; O offerer, make our oblation rightly presented ; give us many precious (gifts).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शेषे॒ वने॑षु मा॒त्रोः सं त्वा॒ मर्ता॑स इंथते ।  
+> अतं॑द्रो ह॒व्या व॑हसि हवि॒ष्कृत॒ आदिद्दे॒वेषु॑ राजसि ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शेषे । वनेषु । मात्रोः । सं । त्वा । मर्तासः । इंधते ।  
+> अशंद्रः । हव्या । वहसि । हविःकृतः । आत् । इत् । देवेषु । राजसि ॥ १५ ॥
+
+### Printed p. 681
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वनेषु वर्तमानयोर्मात्रोररण्योः शेषे । स्वपिषि । वर्तसे ।
+> श्वा त्वां तथाभूतं मर्तासो मनुष्या अध्वर्याद्वयो मधनेनोत्पाद्य
+> समिंधते । पश्चात्पृवृद्धस्त्वमतंद्रोऽनलसः सन्. हविष्कृतो यजमानस्य हव्या
+> हवींषि वहसि देवान्प्रति । आदिदनंतरमेव देवेषु मध्यॆ राजसि । दीप्यसे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you lie asleep in the two mothers, the fire-sticks, that stand in the woods. Mortals, the adhvaryus and the rest, produce you in that state by churning and kindle you. Afterwards, grown strong, you who are unwearied and not idle carry the oblations of the sacrificer, who makes the offering, to the gods. Immediately after that you shine among the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनेषु (*vaneṣu*)—that are in the forests
+- मात्रोः (*mātroḥ*)—in the fire-sticks
+- शेषे (*śeṣe*)—you lie asleep
+- त्वा (*tvā*)—you
+- मर्तासः (*martāsaḥ*)—men
+- समिंधते (*samiṃdhate*)—cause to blaze
+- आतंद्रः (*ātaṃdraḥ*)—being without idleness **NOTE**
+- हविष्कृतः (*haviṣkṛtaḥ*)—of the sacrificer who offers the oblation
+- हव्या (*havyā*)—the oblations
+- वहसि (*vahasi*)—you carry to the gods
+- आदित् (*ādit*)—immediately after
+- देवेषु (*deveṣu*)—among the gods
+- राजसि (*rājasi*)—you shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you sleep in the fire-sticks in the forests, which are like mothers to you, and men make an effort and cause you to blaze. Being without idleness, you carry to the gods the oblations of the sacrificer who offers the oblation, and immediately after that you shine among the gods.
+
+##### English translation
+You sleep within your mothers in the woods, mortals kindle you ; unwearied you bear the offerings of the sacrificer, then you shine among the gods.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त होता॑र॒स्तमिदी॑ळते॒ त्वाग्ने॑ सु॒त्यज॒मह्र॑यं ।  
+> भि॒नत्स्यद्रिं॒ तप॑सा॒ वि शो॒चिषा॒ प्राग्ने॑ तिष्ठ॒ जना॒ अति॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । होतारः । तं । इत् । ईळते । त्वा । अग्ने । सुत्यजं । अह्रयं ।  
+> भिनश्सि । अद्रिं । तपसा । वि । शोचिषा । प्र । अग्ने । तिष्ठ । जनान् । अति ॥ १६ ॥
+
+### Printed p. 682
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तमित्तमेव त्वा त्वां सक्त होतारो होत्रका ईळते । स्तुवंति ।
+> कीदृशं त्वां । सुत्यजं सुत्यागं । अभिमतप्रदमित्यर्थः । अह्रयमक्षीणं प्रवृद्धं ।
+> किंचाद्रिं मेघं तपसा तापकेन शोचिषा तेजसा । तपसा शोचिषा चेति वा
+> योज्यं । वि भिनत्ति । हे अग्ने जनानस्मानत्यतीत्य प्र तिष्ठ प्रगच्छ हविरादाय
+> देवान्प्रति । अथवास्मद्विरोधिजनानतिक्रम्य प्र तिष्ठ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the seven hotṛs praise you alone. What sort of you? The giver of good gifts, that is, the bestower of what is wished, unfailing, grown strong. Moreover, you cleave the cloud with burning splendour (or else the words "with heat" and "with splendour" are to be construed together). O Agni, go forth beyond us people, taking the oblation to the gods; or else go forth beyond the people hostile to us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सुत्यजं (*sutyajaṃ*)—the giver of what is wished
+- अह्रयं (*ahrayaṃ*)—the undiminished
+- तं (*taṃ*)—the famous
+- त्वा इत् (*tvā it*)—you alone
+- सप्त होशारः (*sapta hośāraḥ*)—the seven hotṛs too **NOTE**
+- ईळते (*īḷate*)—praise
+- तपसा (*tapasā*)—with burning
+- शोचिषा (*śociṣā*)—splendour
+- अद्रिं (*adriṃ*)—the cloud
+- वि भिनत्ति (*vi bhinatti*)—you split
+- जनान् (*janān*)—us, the sacrificers
+- अति (*ati*)—going beyond
+- प्रतिष्ठ (*pratiṣṭha*)—go forth and join the gods with our oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, even the seven hotṛs praise you alone, the giver of what is wished, the undiminished, the famous. With your burning splendour you split the cloud. O Agni, going beyond us, the sacrificers, go and join the gods with our oblation.
+
+##### English translation
+The Seven praists praise you, Agni, giver of good things and unfailing you cleave the cloud with your fierce splendour; go forth, having overcome onr enemies.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निम॑ग्निं वोः॒ अध्रि॑गुं हु॒वेम॑ वृ॒क्तब॑र्हिषः ।  
+> अ॒ग्निं हि॒तप्र॑यसः शश्व॒तीष्टा होता॑रं चर्षणी॒नां ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं अग्निं । वः । अध्रिगुं । हुवेम । वृक्तबर्हिषः ।  
+> अग्निं । हितप्रयसः । शश्वतीषु । आ । होतारं । चर्षणीनां ॥ १७ ॥
+
+### Printed p. 683
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निमग्निं । वीप्सादरार्था । अग्निमेव हे यजमानाः वो युष्मदर्थं
+> हुवेम । आह्वयाम । अथवा । हे देवाः वो युष्मदर्थमिति वा व्याख्येयं ।
+> कीदृशा वयं । व्यक्तबर्हिषश्चिन्नदर्भाः । कीदृशमग्निं । अध्रिगुमधृतगमनं सर्वदा
+> गृहे वर्तमानमग्निं । हितप्रयसो निहितहविष्का वयमा हुवेमेति शेषः ।
+> कीदृशमग्निं । शश्वतीषु बह्षु भूमिषु वर्तमानं होतारं होमनिष्पादकं ।
+> किमर्थं । चर्षणीनां मनुष्याणामर्थाय । अग्नौ तृप्ते सति वृष्टिलाभात्प्राण्युपकारसिद्धं प्राण्यर्थत्वं । अथवा मनुष्याणां यजमानानां होतारं
+> होमसाधकं ॥
+
+##### Gist of the bhāṣya
+
+The repetition "Agni, Agni" expresses respect. O sacrificers, we call Agni alone for you; or else the words वो (*vo*) and "for you" are to be explained as addressed to the gods. What sort are we? We have cut the sacred grass. What sort of Agni? One whose going is unobstructed, who is always present in the house. We who have set down the oblation call him. What sort of Agni? One who abides on many earths, the hotṛ, the accomplisher of the oblation. For what purpose? For the sake of men: when Agni is satisfied, rain is obtained and the benefit of living beings is accomplished, so that it is for the sake of living beings. Or else he is the hotṛ, the accomplisher of the oblation, of the men who are the sacrificers. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*)—we who have prepared the sacred grass seat
+- वः (*vaḥ*)—for you
+- अध्रिगुं (*adhriguṃ*)—whose course is unobstructed
+- अग्निं अग्निं (*agniṃ agniṃ*)—Agni alone
+- हुवेम (*huvema*)—we call
+- हितप्रयसः (*hitaprayasaḥ*)—we who have offered the oblation
+- शश्वतीषु (*śaśvatīṣu*)—who is in many places
+- होतारं (*hotāraṃ*)—the accomplisher of the oblation
+- अग्निं (*agniṃ*)—Agni
+- चर्षणीनां (*carṣaṇīnāṃ*)—for the good of men
+- आ (हुवेम) (*ā (huvema)*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, we who have prepared the sacred grass seat call for you Agni alone, whose course is unobstructed. We who have offered the oblation call, for the good of men, Agni, who is in many places and is the accomplisher of the oblation.
+
+##### English translation
+Now that we have cut the sacred grass, let us invoke for you Agni, the irresistible; haveing placed the oblations, let us invoke Agni, abiding in many (places), the offerer of sacrifices for men.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> केते॑न॒ शर्म॑न्त्सचते सुषा॒मण्यग्ने॒ तुभ्यं॑ चकि॒त्वना॑ ।  
+> इ॒ष॒ण्यया॑ नः पुरु॒रूप॒मा भ॑र॒ वाजं॒ नेदि॑ष्ठमू॒तये॑ ॥ १८ ॥
+
+### Printed p. 684
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> केतेन । शर्मन् । सचते । सुसामनि । अग्ने । तुभ्यं । चिकित्वना ।  
+> इषण्यया । नः । पुरुऽरूपं । आ । भर । वाजं । नेदिष्टं । ऊतये ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तुभ्यं चिकित्सना चिकितुषा जनेन होत्रादिना सह यजमानः केतेन
+> प्रज्ञापकेन स्तोत्रेण यजत इति शेषः । कुत्रॆति तदुच्यते । सुषामणि शोभनरथंतरादिसामोपेते शर्मञ्छर्मणि सुखसाधने यज्ञे । अतो हे अग्ने इषण्ययेच्छया स्वीयया नोऽस्मभ्यं पुरुरूपं नानारूपं नेदिष्टमंतिके सर्वदा
+> वर्तमानं वाजमन्नमूतये रक्षणाया भर । आहर ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the sacrificer, together with the wise hotṛ and the others, worships you with a hymn that makes known (the verb "worships" is to be supplied). Where? In the sacrifice, which is endowed with the fine Rathantara and other sāmans and which is the means of happiness. Therefore, O Agni, by your own desire bring to us food of many forms, always present near us, for our protection. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- चिकित्सना (*cikitsanā*)—the sacrificer, together with the wise hotṛ and the others
+- केतेन (*ketena*)—with hymns full of wisdom
+- सुषामणि (*suṣāmaṇi*)—endowed with the fine Rathantara and other sāmans
+- शर्मन् (*śarman*)—in the house of sacrifice
+- तुभ्यं (*tubhyaṃ*)—directed to you
+- सचते (*sacate*)—worships
+- इषण्यया (*iṣaṇyayā*)—by your own impulse
+- नः (*naḥ*)—to us
+- पुरुरूपं (*pururūpaṃ*)—of many kinds
+- नेदिष्टं (*nediṣṭaṃ*)—always near us
+- वाजं (*vājaṃ*)—food
+- ऊतये (*ūtaye*)—for our protection
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificer, together with the wise hotṛ and the others, worships you with hymns full of wisdom in the house of sacrifice endowed with the fine Rathantara and other sāmans. By your own impulse bring us, for our protection, food of many kinds, always near us.
+
+##### English translation
+(The sacrificer) worships you by praises, Agni, with the experienced (priests) in the rite celebrated with beautiful Saman hymns; bring us of your own accord for our protection, food of various kinds which may be always in our reach.
+
 ---
 
-**Progress note:** Done through printed p. 678. Mandala 8 Sukta 60 rks 8-13 (pp. 673-678)
+**Progress note:** Done through printed p. 684. Mandala 8 Sukta 60 rks 13-18 (pp. 679-684)
