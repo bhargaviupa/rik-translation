@@ -27268,6 +27268,282 @@ O Vasu, Indra, who causes to dwell, the sacrificer for whom you appoint (शि�
 - वयं (*vayaṃ*)—we
 - हवामहे (*havāmahe*)—call with prayer
 
+### Printed p. 599
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wealthy, worshipful through praises, giver of a dwelling, the sacrificer to whom you teach the way of giving wealth obtains the increase of riches. We, who press the Soma juice, pray to and call such an excellent one as you.
+
+##### English translation
+Giver of dwelling, adorable Maghavan whom you give determining to give, his wealth goes increasing. You are thus, so with effused Some we invoke you.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒दा च॒न स्त॒रीर॑सि॒ नेंद्र॑ सच्चसि दा॒शुषे॑ ।  
+> उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कदा । चन । स्तुरीः । आसि । न । इंद्र । सश्चसि । दाशुषे ।  
+> उपउप । इत् । नु । मघवन् । भूयः । इत् । नु । ते । दानं । देवस्य ।  
+> पृच्यते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र नु क्षिप्रं दानं हविःसमर्पणं नु निश्चितं भूय इत्
+> प्रचुरं सदेव ते तव देवस्य द्योतमानस्य परमेश्वरस्य उपोपेत् समीपमेव
+> पृच्यते त्वया संपृक्तं भवति । स्वल्पमपि शीघ्रं सत्पात्रे समर्पितं बहुलीभूय
+> ईश्वरे संगतं भवतीत्यभिप्रायः । अतः हे इंद्र परमेश्वर दाशुषे हविर्दत्तवतो
+> यजमानस्य स्तरीः हिंसकः कदाचन कदापि नासि न भवसि । आपि तु सश्चसि तेन संगच्छसे ।
+> तदीयं सख्यं संपादयसीत्यर्थः । प्रसमुपोदः पादपूरणे (पा. सू. ८-१-६)
+> इत्यनेन उप इत्यस्य द्विवचनं (द्विर्वचनं) पादपूरणार्थं ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy Indra, the offering of oblation, quickly and certainly, in abundance, comes near you, the shining Supreme Lord, and is joined with you. Even a little offered quickly to a worthy recipient becomes abundant and reaches the Lord: this is the idea. Therefore, O Indra, Supreme Lord, you are never a harmer (स्तरीः (*starīḥ*)) of the sacrificer who has given the oblation; rather you cleave (सश्चसि (*saścasi*)) to him, that is, you are united with him and bring about friendship with him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- देवस्य (*devasya*)—of you, of divine nature
+- ते (*te*)—offered with you in view
+- दानं (*dānaṃ*)—the gift of oblation
+- उपोप इन्नु (*upopa innu*)—just as it approaches you
+
+### Printed p. 600
+
+- भूय इन्नु (*bhūya innu*)—growing exceedingly
+- पृच्यते (*pṛcyate*)—is accepted by you
+- इंद्र (*iṃdra*)—O Indra
+- स्तरीः (*starīḥ*)—a harmer of the sacrificer
+- कदाचन (*kadācana*)—ever
+- न आसि (*na āsi*)—you are not
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblation
+- सश्चसि (*saścasi*)—you cling as a friend
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, the gift of oblation offered with you, of divine nature, in view, grows exceedingly just as it approaches you and is accepted by you. O Indra, you are never a harmer of the sacrificer. You cling as a friend to the sacrificer who offers oblation.
+
+##### English translation
+Indra you never cease producing, you come to the sacrificer. You are God ; your gift comes once and oft.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यो न॑न॒क्षे अ॒भ्योज॑सा॒ क्रिविं॑ व॒ध्यैः शुष्णं॑ निघो॒षय॑न् ।  
+> य॒देदस्तं॑भीत्प्र॒थय॑न्न॒मूं दिव॒मादिज्ज॑निष्ट॒ पार्थि॑वः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यः । ननक्षे । अभि । ओजसा । क्रिविं । वधैः । शुष्णं । निघोषयन् ।  
+> यदा । इत् । अस्तंभीत् । प्रथयन् । अमूं । दिवं । आत् । इत् । जनिष्ट ।  
+> पार्थिवः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः वधैः आयुधप्रहारैः क्रिविं विकृत्तं शुष्णमेतन्नामानमसुरं
+> ओजसा बलेन निघोषयन् निकरां शब्दयन् सन् अभि अभितः प्र प्रकर्षण ननक्षे
+> व्याप्नोति स्म । आसुरं हत्वा स्वसामर्थ्यं सर्वतः प्रकाशितवानित्यर्थः । कदेत्यवेक्षायामाह । यदेत् यदैव सोऽसुरः प्रथयन् आत्मानं पृथुं कुर्वन् अमूं
+> दूरे दृश्यमानं दिवं द्युलोकं अस्तंभीत् स्तब्धं कृतवान् । आदित् अनंतरमेव
+> प्रार्थिवोग्निः जनिष्ट प्रादुरभूत् । लोकान् प्राणनिरोधेन अग्निः समजनि यदा
+> तदेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Indra who, with blows of his weapons (वधैः (*vadhaiḥ*)), makes loud noise (निघोषयन् (*nighoṣayan*)) with his strength against Kriva, the mutilated one, the asura named Śuṣṇa, and pervades (ननक्षे (*nanakṣe*)) forth on every side: that is, having killed the asura he displayed his own power everywhere. When? He answers: when that asura, making himself broad, stopped (अस्तंभीत् (*astaṃbhīt*)) the heaven seen yonder in the distance, immediately after, the terrestrial Agni was born, appeared; the sense is: when Agni was produced together in the worlds by the stopping of breath.
+
+### Printed p. 601
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदा इत् (*yadā it*)—at what time
+- अमूं दिवं (*amūṃ divaṃ*)—the whole well-known heaven
+- प्रथयन् (*prathayan*)—pervading
+- अस्तंभीत् (*astaṃbhīt*)—this asura obstructed
+- आत् इत् (*āt it*)—immediately
+- पार्थिवः (*pārthivaḥ*)—in the form of terrestrial fire
+- जनिष्ट (*janiṣṭa*)—this Indra was born
+- यः (*yaḥ*)—that same Indra who
+- क्रिविं (*kriviṃ*)—grown
+- शुष्णं (*śuṣṇaṃ*)—that same asura called Śuṣṇa
+- वध्यैः (*vadhyaiḥ*)—with weapons that are instruments of killing **NOTE**
+- निघोषयन् (*nighoṣayan*)—afflicting so that it sounds
+- ओजसा (*ojasā*)—with his own power
+- अभि (*abhi*)—everywhere
+- प्र ननक्षे (*pra nanakṣe*)—has pervaded and become extended
+
+##### भावार्थ (Bhāvārtha)
+
+At what time this asura, pervading the whole well-known heaven, obstructed it, immediately after that Indra was born in the form of terrestrial fire. That same Indra, afflicting with weapons that are instruments of killing the grown asura called Śuṣka, with his own power, has pervaded everywhere and become extended. **NOTE**
+
+##### English translation
+He who filled the well by killing Shushna by weapon hurled with might, who surprised the heaven, who coming to earth produced all things.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्या॒यं विश्व॒ आर्यो॒ दासः॑ शेवधि॒पा अ॒रिः ।  
+> ति॒रश्चि॑द॒र्ये रुश॑मे॒ पवी॑रवि॒ तुभ्येत्सो अ॑ज्यते र॒यिः । ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । आयं । विश्वः । आर्यः । दासः । शेवधिपाः । अरिः ।  
+> शिरः । चित् । आर्ये । रुशमे । पवीरवि । तुभ्य । इत् । सः । अज्यते । रयिः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वः सर्वः आयं दृश्यमानः आर्यः असुरस्वामिको गणः यस्येंद्रस्य अरिः
+> शत्रुर्भवति । कीदृशः सः । दासः धनादेरुपक्षपयिता शेवधिपाः । शेवधिनिर्धिस्तं पाति
+> रक्षतीति ! तथा असुरादिधनस्यापहर्ता स्वधनस्य च रक्षितेत्यर्थः । तेनेंद्रेण रुशमे
+> अकल्याणे आर्ये अरिगणे तस्मिन् तिरश्चित् अंतर्हितमेव पवीरवि । पवी रथनेमिस्त-
+
+##### Gist of the bhāṣya
+
+The whole of this visible host of Āryas, whose lord is the asuras, is the enemy of Indra. Of what kind is he? A Dāsa, a diminisher of wealth and the rest; Śevadhipā, one who guards (पाति (*pāti*)) the treasure (शेवधि (*śevadhi*)), who is likewise a taker of the wealth of asuras and others and a protector of his own wealth: this is the sense. By that Indra, in that inauspicious (रुशमे (*ruśame*)) enemy host, a hidden (तिरश्चित् (*tiraścit*)) wheel with felly (पवीरवि (*pavīravi*)): पवी (*pavī*) is the felly of a wheel, the spokes that are attached to it are पवीराः (*pavīrāḥ*), and the wheel provided with them is पवीरवि (*pavīravi*).
+
+### Printed p. 602
+
+> द्वंतोऽराः पवीराः । तदुपेतं चक्रं पवीरवि। अत्र पवी रथनेमिर्भवति (निरु. ५-५)
+> इत्यादि निरुक्तं द्रष्टव्यं । तादृशं चक्रमज्यते प्रक्षिप्यते । चतुर्थपादे प्रत्यक्षीकृत्य
+> उच्यते। हे इंद्र तुभ्यमेव त्वदर्थमेव सः असुरगणे विद्यमानः रयिः निधिलक्षणो
+> धनराशिः अज्यते प्रक्षिप्यतेऽरिगणेन । असुरगणे गुप्तं चक्रदानमपि इंद्राय
+> निधिप्रदमभवत् तदा सत्पात्रे गुप्तं धनदानं महाफलदं स्यादिति किमु वक्तव्यमित्याशयः ॥
+
+##### Gist of the bhāṣya
+
+Here the Nirukta is to be seen, अत्र पवी रथनेमिर्भवति (*atra pavī rathanemirbhavati*) (Ni. 5-5), and so on. Such a wheel is cast (अज्यते (*ajyate*)). In the fourth pāda, making it direct, he says: O Indra, for you alone, for your sake alone, that mass of wealth in the form of treasure, existing in the host of asuras, is cast by the enemy host. Even a gift of a wheel hidden in the asura host became a giver of treasure to Indra; then what need is there to say that a gift of wealth hidden away in a worthy recipient would bring great fruit: such is the intention.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—to which Indra
+- विश्वः (*viśvaḥ*)—the entire
+- आर्यः (*āryaḥ*)—host of asuras
+- अरिः (*ariḥ*)—is an enemy
+- अयं (*ayaṃ*)—that same Indra
+- दासः (*dāsaḥ*)—is the taker of the enemy's wealth **NOTE**
+- शेवधिपाः (*śevadhipāḥ*)—and the protector of his own wealth
+- रुशमे (*ruśame*)—inauspicious
+- पवीरवि (*pavīravi*)—revolving like a wheel
+- आर्यॆ (*āryè*)—in the enemy
+- तिरश्चित् (*tiraścit*)—even though hidden
+- सः रयिः (*saḥ rayiḥ*)—all that wealth
+- तुभ्य इत् (*tubhya it*)—for you alone
+- अज्यते (*ajyate*)—is offered
+
+##### भावार्थ (Bhāvārtha)
+
+For the Indra to whom the entire host of asuras is an enemy, that same Indra is the taker of the enemy's wealth and the protector of his own wealth. O Indra, even though hidden in the enemy, inauspicious and revolving like a wheel, all that wealth is offered for you alone.
+
+##### English translation
+Aryans and slaves are protector of wealth and worshipper who came before Arya, fair coloured, Paveru, he is united with you, dispenser of wealth.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तु॒र॒ण्यवो॒ मधु॑मंतं घृत॒श्चुतं॒ विप्रा॑सो अ॒र्कमा॑नृचुः ।  
+> अ॒स्मे र॒यिः प॑प्रथे॒ वृष्ण्यं॒ शवो॒ऽस्मे सु॑वा॒नास॒ इंद॑वः ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुरण्यवः । मधुमंतं । धृतश्चुतं । विप्रासः । अर्कं । आन्रुचुः ।  
+> अस्मे इति । रयिः । पप्रथे । वृष्ट्यं । शवः । अस्मे इति । सुवानासः । इंदवः ॥ १० ॥
+
+### Printed p. 603
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुरण्णवः श्वरमाणाति विप्रासो मेधाविनो यजमानाः अर्कमर्चनीयसुंद्रं अन्रुचु अर्चंति । कीदृशं । मधुमंतं मधुरामृतरसोपेतं धृतश्चुतं
+> जलस्रविणु मेघभेदनेन वृष्टिं कुर्वंतमित्यर्थः । केनाभिप्रायेणार्चंतीत्युच्यते ! अस्मै अस्मासु रयिः धनराशिः पप्रथे प्रथितो भवतु । तथा वृष्णं अपत्योत्पादकं शवः बलमस्तु । किंचास्मे अस्मासु सुवानासः अभिषुता इंदवः सोमाः
+> संतु । इंद्रानुग्रहेणैव तत्सर्वमस्मासु संपद्यतामित्याशयेनेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The hastening (तुरण्णवः (*turaṇṇavaḥ*)) wise sacrificers worship (अन्रुचु (*anrucu*)) the worshipful Indra **NOTE**. Of what kind? Possessed of honey, endowed with sweet nectar-juice (मधुमंतं (*madhumaṃtaṃ*)); water-dripping (धृतश्चुतं (*dhṛtaścutaṃ*)), that is, making rain by splitting the cloud. With what intention do they worship? It is said: may a mass of wealth be spread (पप्रथे (*paprathe*)) in us; likewise may there be manly strength (शवः (*śavaḥ*)), generative of offspring; and may pressed Soma drops be in us. With the intention that all that be accomplished in us by Indra's favour alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मे (*asme*)—in us
+- रयिः (*rayiḥ*)—wealth
+- पप्रथे (*paprathe*)—may it be spread and filled
+- वृष्ट्यं (*vṛṣṭyaṃ*)—generative of offspring
+- शवः (*śavaḥ*)—may strength arise
+- अस्मे (*asme*)—in us
+- सुवानासः (*suvānāsaḥ*)—pressed
+- इंदवः (*iṃdavaḥ*)—may the Soma juices be filled, endowed with this intention
+- तुरण्यवः (*turaṇyavaḥ*)—those who are quick in rites
+- विप्रासः (*viprāsaḥ*)—and wise, the sacrificers
+- मधुमंतं (*madhumaṃtaṃ*)—filled with sweet nectar
+- धृतश्चुतं (*dhṛtaścutaṃ*)—one who pours down rain
+- अर्कं (*arkaṃ*)—and worshipful, Indra
+- आनृचुः (*ānṛcuḥ*)—they worship
+
+##### भावार्थ (Bhāvārtha)
+
+"May wealth be abundantly filled in us; may there arise in us strength that begets sons; may the pressed Soma juices be filled in us": with this intention the sacrificers, quick in the rite and wise, worship Indra, who is filled with sweet nectar, who pours down rain, and who is worshipful.
+
+##### English translation
+Quickly the Vipras are uttering worshipping mantras with sweet honey and thrifting ghee, wealth is being sent to them. Manly strength and effused Soma are coming to us.
+
+## Sūkta 52 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा मना विवस्वति इति दशर्चं चतुर्थं सूक्तं आयवमैंद्रं । अनुक्रांतं
+> च - यथा मनावायुः इति । काण्व आयुर्यषिः । इंद्रो देवता । आयुजां बृहती
+> छंदः । युजां सतो बृहतीछंदः । विनियोगः सूत्रादवगंतव्यः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of ten Ṛks beginning यथा मना विवस्वति (*yathā manā vivasvati*) is the fourth, Āyava and addressed to Indra. It is listed in the Anukramaṇikā: यथा मनावायुः (*yathā manāvāyuḥ*). The seer is Āyu Kāṇva **NOTE**; the deity is Indra. The metre of the odd-numbered Ṛks is Bṛhatī and that of the even-numbered is Satobṛhatī. The ritual application is to be learnt from the Sūtra.
+
+### Printed p. 604
+
+##### Anuvāda
+
+The sūkta beginning यथा मनौ विवस्वति (*yathā manau vivasvati*) is the fourth among the Vālakhilya sūktas. It has ten Ṛks. Its seer is one called Āyuḥ Kāṇvaḥ; Indra is the deity. The odd-numbered Ṛks of this sūkta are in the Bṛhatī metre; the even-numbered Ṛks are in the Satobṛhatī metre. In the Anukramaṇikā it is said: यथा मनावायुः (*yathā manāvāyuḥ*). The ritual application is to be learnt from the Sūtra.
+
+##### Particulars
+
+Maṇḍala 8, Anuvāka 6, Sūkta 52; Aṣṭaka 6, Adhyāya 4, Varga 20, 21. Number of Ṛks in the sūkta: 10. Seer: Āyuḥ Śāṇdhaḥ **NOTE**. Deity: Indraḥ. Metre: Prāgāthaṃ (Āyujaḥ bṛhatya, yajaḥ gatobṛhatya) **NOTE**.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॒ मनौ॒ विव॑स्वति॒ सोमं॑ श॒क्रापि॑बः सु॒तं ।  
+> यथा॑ त्रि॒ते छंद॑ इंद्र॒ जुजो॑षस्या॒यौ मा॑दयसे॒ सचा॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । मनौ । विवस्वति । सोमं । शक्र । अपिबः । सुतं ।  
+> यथा । त्रिते । छंदः । इंद्र । जुषोषसि । आयौ । मादयसे । सचा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शक्र समर्थेंद्र यथा येन प्रकारेण विवस्वति विवस्वतः पुत्रे वैवस्वते
+> मनौ वर्तमानु सुतमभिषुतं सोमं अपिबः पीतवानसि । हे इंद्र परमेश्वर
+> यथा च त्रिते एतन्नामके ऋषौ वर्तमानं छंदः वेदजातं जुजोषसि भृशं
+> सेवसे । तथा आयौ एतन्नामके मयि सचा सह वर्तमानं सोमं छंदोलक्षणं
+> तदुभयं संसेव्य मादयसे आनंदयसि मामात्मानं च ॥
+
+##### Gist of the bhāṣya
+
+O Śakra, mighty Indra, as you drank the pressed Soma standing in Manu Vaivasvata, the son of Vivasvat; and, O Indra, Supreme Lord, as you greatly enjoy (जुजोषसि (*jujoṣasi*)) the Veda, the sacred metre (छंदः (*chaṃdaḥ*)) standing in the seer called Trita; so, in me called Āyu, you take Soma standing together (सचा (*sacā*)) with the metre, enjoy both, and delight (मादयसे (*mādayase*)) me and yourself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्र (*śakra*)—endowed with ability
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—in what manner
+- विवस्वति (*vivasvati*)—in the son of Vivasvat
+
 ---
 
-**Progress note:** Done through printed p. 598. Sūkta 51 Ṛks 1-6, pp. 593-598
+**Progress note:** Done through printed p. 604. Sūkta 51 Ṛks 6-10, Sūkta 52 Ṛk 1, pp. 599-604
