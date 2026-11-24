@@ -4607,6 +4607,268 @@ In the first Chandoma, in the Praüga-śastra, it is the first of the Vāyavya t
 
 This sūkta beginning आ वायो (*ā vāyo*) is the third sūkta in the sixth anuvāka. It has five Ṛks. Vasiṣṭha is the seer of this sūkta, Vāyu the deity and Triṣṭubh the metre. In the Anukramaṇī it is said: आ वायो पंच (*ā vāyo paṃca*). At the parvan called Śunāsīrīya, in the sacrifice made to the deity Niyutvān Vāyuḥ, this Ṛk आ वायो (*ā vāyo*) is to be recited as the anuvākyā mantra. This is explained by the Āśvalāyana Śrauta Sūtra, आ वायो भूष शुचिपा उप नः प्र याभिर्यासि दाश्वांसमच्छ । (*ā vāyo bhūṣa śucipā upa naḥ pra yābhiryāsi dāśvāṃsamaccha |*) (Ā. Sū. 2-20). Also, in the animal sacrifice made to Niyutvat Vāyu, this Ṛk is to be recited as the anuvākyā mantra of the vapā-offering (Ā. Sū. 3-8). And in the Praüga-śastra mantras of the first Chandoma, this Ṛk is to be recited as the first Ṛk of the Vāyavya tṛca. This is explained by the Āśvalāyana Śrauta Sūtra, समुद्रादूर्मिरित्याज्यमा वायो भूष शुचिपाः (*samudrādūrmirityājyamā vāyo bhūṣa śucipāḥ*) (Ā. Sū. 8-9).
 
+### Printed p. 112
+Maṇḍala 7, Anuvāka 6, Sūkta 92; Aṣṭaka 5, Adhyāya 6, Varga 14. Number of Ṛks in the sūkta: 5. Seer: Vasiṣṭha. Deity: Vāyu for 1 and 3–5; Indra and Vāyu for 2. Metre: Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वा॑यो भूष शुचिपा॒ उप॑ नः स॒हस्रं॑ ते नि॒युतो॑  
+> विश्ववार ।  
+> उपो॑ ते॒ अंधो॒ मद्य॑मयामि॒ यस्य॑ देव दधि॒षे पू॑र्व॒पेयं॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वायो इति । भूष । शुचिपाः । उप । नः । सहस्रं । ते । नियुतः । विश्ववार ।  
+> उपो इति । ते । अंधः । मद्यं । अयामि । यस्य । देव । दधिषे पूर्वपेयं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुचिपाः शुचेः शुद्धस्य सोमस्य पातर्वायो नोऽस्माकमुप समीप
+> आ भूष । आगच्छ । भू प्राप्ता वित्यस्यैतद्रूपं ॥ हे विश्ववार विश्वैर्वणीय ते तव
+> वाहनभूता नियुतो वडबाः सहस्रं सहस्रसंख्याका विद्यंते ॥ यत एवमतः शीघ्रमागच्छ । ते तव मद्यं मदकरं सोमलक्षणमंधोऽन्नमुपो उप उ
+> उपायामि । उपयतं पात्रे गृहीतमासीत् । हे देव वायो यस्य
+> सोमस्य पूर्वपेयं प्रथमखानं दधिषे दधासि धारयसि । ऐंद्रवायवग्रहे
+> प्रथमे वषट्कारे केवलाय वायवे हूयते द्वितीये त्विंद्रवायुभ्यामिति
+> वायोः प्रथमपानं । तादृशमंध उपायामीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, drinker of the pure Soma, come near to us. The word भूष (*bhūṣa*) means "come"; it is a form of the root भू (*bhū*) in the sense of arriving. O Vāyu, desired by all, your Niyut mares, which are your vehicles, number a thousand. Since this is so, come quickly. I have drawn near to you with the intoxicating food, the Soma, held ready in the cup. O god Vāyu, you hold the first drinking of this Soma. In the Aindravāyava cup, at the first vaṣaṭ-call the offering is made to Vāyu alone; at the second it is "to Indra and Vāyu". Thus the first drinking is Vāyu's. The construction is: I offer such food.
+
+### Printed p. 113
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचिपाः (*śucipāḥ*)—one who drinks the pure Soma
+- वायो (*vāyo*)—O Vāyu
+- नः (*naḥ*)—to us
+- उप (*upa*)—near
+- आ भूष (*ā bhūṣa*)—come and sit
+- विश्ववार (*viśvavāra*)—O Vāyu, desired by all
+- ते (*te*)—your
+- नियुतः (*niyutaḥ*)—horses, your vehicles
+- सहस्रं (*sahasraṃ*)—are a thousand in number
+- देव (*deva*)—O Vāyu, divine in nature
+- यस्य (*yasya*)—for which Soma
+- पूर्वपेयं (*pūrvapeyaṃ*)—the first drinking, before the other deities
+- दधिषे (*dadhiṣe*)—you obtain
+- मद्यं (*madyaṃ*)—intoxicating
+- अंधः (*aṃdhaḥ*)—the food in the form of Soma
+- ते (*te*)—to you
+- उपो अयामि (*upo ayāmi*)—I bring near and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, drinker of the pure Soma, come and sit near us. O Vāyu, desired by all, your horses, your vehicles, are a thousand in number. O Vāyu, divine in nature, I bring near and offer to you the intoxicating food in the form of Soma, of which you obtain the drinking before the other deities.
+
+##### English translation
+Drinker of the pure (Soma), Vayu, come to us as your Niyuts are thousands: oh, you who are desired of all, I offer you, the exhilarating (sacrificial) food, of which you, deity, have the prior drinking.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सोता॑ जी॒रो अ॑ध्व॒रेष्व॑स्था॒त्सोम॒मिंद्रा॑य वा॒यवे॒  ॑
+> पिबध्यै ।  
+> प्र यद्वां॒ मध्वो॑ अग्रि॒यं भरं॑त्यध्व॒र्यवो॑ देव॒यंतः॒  ॑
+> शचीभिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोता । जीरः । अध्वरेषु । अस्थात् । सोमं । इंद्राय । वायवे ।  
+> पिबध्यै ।  
+> प्र । यत् । वा। मध्यः । अग्रियं । भरंति । अध्वर्यवः । देवयंतः । शचीभिः ॥  
+> [ 8 ] [ Vol. 23 ]  
+> T14 सायणभाव्यसहिता [ मं. ७. ८. ६. सू. ९२
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमे छंदोमे प्रउगशस्त्र ऐंद्रवायवतृचस्य प्र सोतेत्याद्या । सूत्रितं
+> टी । प्र सोता जीरो अध्वरेस्वस्था द्ये नायव इंद्रमादनासः । आ. ८-९ । इति ॥
+> जीरः क्षिप्रकारी सोताभिषोताध्वर्युरिंद्राय वायवे च पिबध्यॆ पानार्थमध्वरेषु यागेषु सोमं प्रास्थात् । प्रातिष्ठिपत् । पुरस्तादुत्तरवेदिं प्रापितवान् । हे इंद्रनायू यद्येषु यज्ञेषु मध्वः सोमस्याग्रियमग्रभवं प्रथमभागं देवयंतो देवकामा अध्वर्यवः शचीभिः कर्मभिरभिषवादिलक्षणैर्वां
+> युवयोरर्थं प्र भरंति प्रकर्षेण भरंति संपादयंति । तेष्वध्वरेष्वित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+In the Prauga-śastra of the first Chandoma day, this is the first Ṛk of the Aindravāyava triplet. Āśvalāyana's sūtra (Ā. 8-9) states: प्र सोता जीरो अध्वरेष्वस्थात्सोममिंद्राय वायवे पिबध्यै । प्र यद्वां मध्वो अग्रियं भरंत्यध्वर्यवो देवयंतः शचीभिः ॥ २ ॥ प्र । सोता । जीरः । अध्वरेषु । अस्थात् । सोमं । इंद्राय । वायवे । पिबध्यै । प्र । यत् । वा। मध्यः । अग्रियं । भरंति । अध्वर्यवः । देवयंतः । शचीभिः ॥ [ 8 ] [ Vol. 23 ] T14 सायणभाव्यसहिता [ मं. ७. ८. ६. सू. ९२ प्रथमे छंदोमे प्रउगशस्त्र ऐंद्रवायवतृचस्य प्र सोतेत्याद्या । सूत्रितं टी । प्र सोता जीरो अध्वरेस्वस्था द्ये नायव इंद्रमादनासः । (*pra sotā jīro adhvareṣvasthātsomamiṃdrāya vāyave pibadhyai | pra yadvāṃ madhvo agriyaṃ bharaṃtyadhvaryavo devayaṃtaḥ śacībhiḥ ‖ 2 ‖ pra | sotā | jīraḥ | adhvareṣu | asthāt | somaṃ | iṃdrāya | vāyave | pibadhyai | pra | yat | vā| madhyaḥ | agriyaṃ | bharaṃti | adhvaryavaḥ | devayaṃtaḥ | śacībhiḥ ‖ [ 8 ] [ Vol. 23 ] T14 sāyaṇabhāvyasahitā [ maṃ. 7. 8. 6. sū. 92 prathame chaṃdome praugaśastra aiṃdravāyavatṛcasya pra sotetyādyā | sūtritaṃ ṭī | pra sotā jīro adhvaresvasthā dye nāyava iṃdramādanāsaḥ |*). The swift-acting presser, the Adhvaryu, has set out the Soma at the sacrifices for Indra and Vāyu to drink; he has brought it forward and set it up toward the northern altar. O Indra and Vāyu, at these sacrifices the Adhvaryus, desiring the gods, bring forth for you both with their rites, such as pressing, the first portion of the sweet Soma, which is the best part. The construction is: at those sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra and Vāyu)
+- यत् (*yat*)—at which sacrifices
+- मध्वः (*madhvaḥ*)—of the Soma juice
+- अग्रियं (*agriyaṃ*)—the first portion
+- देवयंतः (*devayaṃtaḥ*)—desiring the help of the gods
+- अध्वरवः (*adhvaravaḥ*)—the Adhvaryus
+- शचीभिः (*śacībhiḥ*)—with their rites such as pressing
+- वां (*vāṃ*)—for you
+- प्र भवंति (*pra bhavaṃti*)—procure abundantly (such sacrifices)
+- अध्वरेषु (*adhvareṣu*)—at the sacrifices
+- जीरः (*jīraḥ*)—skilled in rites
+- सोता (*sotā*)—the Adhvaryu who performs the pressing and other rites
+- इंद्राय (*iṃdrāya*)—for Indra
+- वायवे (*vāyave*)—for Vāyu
+- पिबध्यॆ (*pibadhyè*)—for drinking
+- सोमं (*somaṃ*)—the Soma juice
+- प्र अस्थात् (*pra asthāt*)—has brought and made ready
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Vāyu, at the sacrifices where the Adhvaryus, desiring the help of the gods, procure abundantly for you, with their rites such as pressing, the first portion of the Soma juice, at such sacrifices the Adhvaryu, skilled in rites and performer of the pressing and other rites, has brought and made ready the Soma juice for Indra and Vāyu to drink.
+
+##### English translation
+The prompt effuser of the libation offers the Soma to Indra and to Vayu to drink at the sacrifices, at which devout priests, according to their functions, bring to you two the first (portion) of the Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Prauga-śastra mantras of the first Chandoma day, this Ṛk, "प्र सोता (*pra sotā*)", is to be recited as the first Ṛk of the Aindravāyava triplet. This is explained by Āśvalāyana's Śrauta Sūtra (Ā. 8-9): प्र सोता जीरो अध्वरेष्टस्थाद्ये वायव इंद्रमादनासः (*pra sotā jīro adhvareṣṭasthādye vāyava iṃdramādanāsaḥ*).
+
+### Printed p. 115
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र याभि॒र्यासि॑ दा॒श्वांस॒मच्छा॑ नि॒युद्भि॑र्वायवि॒ष्टये॑  ॒
+> दुरोणे ।  
+> नि नो॑ र॒यिं सु॒भोज॑सं युवस्व॒ नि वी॒रं गव्य॒मश्वं॑ च॒  ॑
+> राधः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । याभिः । यासि । दाश्वांसं । अच्छ । नियुत् 5भिः । वायो इति । इष्टये ।  
+> दुरोणे ।  
+> नि । नः । रयिं । सुभोजसं । युवस्व । नि । वीरं । गव्यं । अश्वं । च । राधः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुनासीरीये पर्वणि नियुत्वद्वायोर्यागस्य प्र याभिरिति याज्या ।
+> सूत्रितु च । प्र याभिर्यासि दाश्वांसमच्छ स त्वं नो देव मनसा । आ. २-२० ।
+> इति ॥ तद्देवत्ये पशावेषैव पुरोडाशस्यानुवाक्या । सूत्रितं च । प्र याभिर्यासि
+> दाश्वांसमच्छा नो नियुद्धिः शतिनीभिः । आ. ३-८ । इति ॥ प्रथमे छंदोमे प्रउगशस्त्र एषैव वायवतृचस्य द्वितीया । सूत्रितं च । आ वायो भूष शुचिपा उप नः
+> प्र याभिर्यासि दाश्वांसमच्छा । आ. ८-९ । इति ॥
+> हे वायो दुरोणे यज्ञगृहे स्थितं दाश्वांसं हएषां दातारिं यजमानमिष्टये यागाय याभिर्नियुद्धिर्वडवाभिरच्छ यासि अभिगच्छसि ताभिरस्मान्प्रत्यागच्छेति शेषः । आगत्य च नोऽस्थभ्यं सुभोजसं शोभनान्नयुक्तं रयिं धनं नि
+> युवस्व । नितरां मिश्रय ' प्रयच्छ । तथा वीरं पुत्रं गव्यं गोसंघमश्वमश्वसंघमेतदुभयात्मकं राधो धनं च नि युवस्व । प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+At the Śunāsīrīya parvan, in the sacrifice to Niyutvat Vāyu, प्र याभिः (*pra yābhiḥ*) is the yājyā. It is stated in the sūtra (Ā. 2-20): प्र याभिर्यासि दाश्वांसमच्छा नियुद्भिर्वायविष्टये दुरोणे । नि नो रयिं सुभोजसं युवस्व नि वीरं गव्यमश्वं च राधः ॥ ३ ॥ प्र । याभिः । यासि । दाश्वांसं । अच्छ । नियुत् 5भिः । वायो इति । इष्टये । दुरोणे । नि । नः । रयिं । सुभोजसं । युवस्व । नि । वीरं । गव्यं । अश्वं । च । राधः ॥ ३ ॥ शुनासीरीये पर्वणि नियुत्वद्वायोर्यागस्य प्र याभिरिति याज्या । सूत्रितु च । प्र याभिर्यासि दाश्वांसमच्छ स त्वं नो देव मनसा । (*pra yābhiryāsi dāśvāṃsamacchā niyudbhirvāyaviṣṭaye duroṇe | ni no rayiṃ subhojasaṃ yuvasva ni vīraṃ gavyamaśvaṃ ca rādhaḥ ‖ 3 ‖ pra | yābhiḥ | yāsi | dāśvāṃsaṃ | accha | niyut 5bhiḥ | vāyo iti | iṣṭaye | duroṇe | ni | naḥ | rayiṃ | subhojasaṃ | yuvasva | ni | vīraṃ | gavyaṃ | aśvaṃ | ca | rādhaḥ ‖ 3 ‖ śunāsīrīye parvaṇi niyutvadvāyoryāgasya pra yābhiriti yājyā | sūtritu ca | pra yābhiryāsi dāśvāṃsamaccha sa tvaṃ no deva manasā |*). In the animal sacrifice to the same deity, this same Ṛk is the anuvākyā for the purodāśa offering. The sūtra (Ā. 3-8) says: प्र याभिर्यासि दाश्वांसमच्छा नो नियुद्धिः शतिनीभिः । (*pra yābhiryāsi dāśvāṃsamacchā no niyuddhiḥ śatinībhiḥ |*). In the Prauga-śastra of the first Chandoma day, this is the second Ṛk of the Vāyavya triplet. The sūtra (Ā. 8-9) says: आ वायो भूष शुचिपा उप नः प्र याभिर्यासि दाश्वांसमच्छा । (*ā vāyo bhūṣa śucipā upa naḥ pra yābhiryāsi dāśvāṃsamacchā |*). O Vāyu, with the mares with which you go toward the donor, the sacrificer waiting in his hall, for the sacrifice, with those same mares come back to us (this is the supplied remainder). Having come, bestow on us wealth joined with good food. Likewise bestow a son, and wealth consisting of cattle and horses, a herd of cattle and a herd of horses.
+
+### Printed p. 116
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- दुरोणे (*duroṇe*)—who is ready in the sacrificial house
+- दाश्वांसं अच्छ (*dāśvāṃsaṃ accha*)—toward the sacrificer who offers the oblation
+- इष्टये (*iṣṭaye*)—for the sacrifice
+- याभिः नियद्धिः (*yābhiḥ niyaddhiḥ*)—with which of your horses
+- प्र यासि (*pra yāsi*)—you go (come with those same horses to our sacrifice too)
+- नः (*naḥ*)—to us
+- सुभोजसं (*subhojasaṃ*)—joined with excellent food
+- रयिं (*rayiṃ*)—wealth
+- नि युवस्व (*ni yuvasva*)—supply fully
+- वीरु (*vīru*)—powerful sons
+- गव्यं (*gavyaṃ*)—a herd of cattle
+- अश्वं (*aśvaṃ*)—a herd of horses
+- राधः च (*rādhaḥ ca*)—and wealth
+- नि (युवस्व) (*ni (yuvasva)*)—bring and supply to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, with the horses with which you go, to make the sacrifice fruitful, toward the sacrificer who is ready in the sacrificial house for your worship and offers the oblation, come with those same horses to our sacrifice too. Supply us fully with wealth joined with excellent food. Bring and supply to us powerful sons, a herd of cattle, a herd of horses and wealth.
+
+##### English translation
+With those Niyut steeds with which you repair, Vayu, to the donor (of the libation), waiting in his hall to offer sacrifice, (come to us), and bestow upon us enjoyable riches, bestow male progeny, and wealth, comprehending cattle, and horses.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the parvan connected with Śunāsīra, in the sacrifice to Niyutvat Vāyu, this Ṛk "प्र याभिः (*pra yābhiḥ*)" is to be recited as the yājyā mantra. This is explained by Āśvalāyana's Śrauta Sūtra (Ā. 2-20): प्र याभिर्यासि दाश्वांसमच्छ स त्वं नो देव मनसा (*pra yābhiryāsi dāśvāṃsamaccha sa tvaṃ no deva manasā*). In the animal sacrifice to the same deity, Niyutvat Vāyu, this Ṛk is to be recited as the anuvākyā mantra in the purodāśa offering. This is explained by Āśvalāyana's Śrauta Sūtra (Ā. 3-8): प्र याभिर्यासि दाश्वांसमच्छा नो नियुद्भिः शतिनीभिः (*pra yābhiryāsi dāśvāṃsamacchā no niyudbhiḥ śatinībhiḥ*). And in the Prauga-śastra mantras of the first Chandoma day, this Ṛk is to be recited as the second Ṛk of the Vāyavya triplet. This is explained by Āśvalāyana's Śrauta Sūtra (Ā. 8-9): आ वायो भूष शुचिपा उप नः प्र याभिर्यासि दाश्वांसमच्छ (*ā vāyo bhūṣa śucipā upa naḥ pra yābhiryāsi dāśvāṃsamaccha*).
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये वा॒यव॑ इंद्र॒माद॑नास॒ आदे॑वासो नि॒तोष॑नासो  ॒
+> अर्यः ।
+
+### Printed p. 117
+
+> घ्नंतो वृत्राणि सूरिभिः ष्वाम सासह्यांसो युधा नृभिरमित्रान् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । वायवे । इंद्रमादनासः । आदेवासः । नितोशनासः । अर्यः ।  
+> घ्नंतः । वृत्राणि । सूरिभिः । स्याम । ससह्यांसः । युधा । नृभिः । अमित्रान् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमे छंदोमे प्रलुगशस्त्र ऐंद्रवायवतृचस्य ये वायुव इंद्रेति
+> द्वितीया । सूत्रितं च ये वायव इंद्रमादनासो या नां शतं नियुतो
+> याः सहस्रं । आ. ८-९ । इति ॥
+> ये सूरयः स्तोत्रार इंद्रमादनासः स्तोत्रैरिंद्रस्य तर्पयितारस्तथा
+> वायवे वायोश्च मादनास्तरपका भवंति । ये चादेवासो जागतैरुपेता अत
+> एवार्योरेः शत्र्नरितोषनासो निहंतारः । तैरस्मदीयैः सूरिभिः स्तोतृभिवृ
+> त्राणि शत्रुवन् घ्नंतो हिंसंतः स्याम भवेम । किं कुर्वंतः । अमित्राञ्भुभटान्नृभिरस्मदीयैः पुरुषैर्युधा युद्धेभिः ससहांसोऽभिभवंतः ।
+
+##### Gist of the bhāṣya
+
+In the Prauga-śastra of the first Chandoma day, ये वायुव इंद्र (*ye vāyuva iṃdra*) is the second Ṛk of the Aindravāyava triplet. The sūtra (Ā. 8-9) says: ये वायव इंद्रमादनासो या नां शतं नियुतो याः सहस्रं । (*ye vāyava iṃdramādanāso yā nāṃ śataṃ niyuto yāḥ sahasraṃ |*). The wise ones, the praisers, who gratify Indra with hymns and likewise gratify Vāyu, and who are आदेवासः (*ādevāsaḥ*), equipped with hymns of the Jagatī kind, and are therefore destroyers of the enemy: through those wise praisers of ours may we be the slayers of foes. Doing what? Overcoming enemy warriors in battles with our men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which praisers
+- इंद्रमादनासः (*iṃdramādanāsaḥ*)—who gratify Indra with their praises
+- वायवे (*vāyave*)—who also gratify Vāyu
+- (ये (*ye*)—who)
+- आदेवासः (*ādevāsaḥ*)—equipped with hymns praising the gods
+- अर‍्यः (*aryaḥ*)—of the enemy
+- नितोशनासः (*nitośanāsaḥ*)—capable of being destroyers
+- सूरिभिः (*sūribhiḥ*)—we, joined with such praisers
+- अमित्रान् (*amitrān*)—enemy warriors
+- नृभिः (*nṛbhiḥ*)—with the help of our heroic men
+- युधा (*yudhā*)—in battles
+- ससह्यांसः (*sasahyāṃsaḥ*)—defeating
+- वृत्राणि (*vṛtrāṇi*)—all enemies
+- घ्नंतः (*ghnaṃtaḥ*)—slaying
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+The praisers who gratify Indra and Vāyu with their praises, who are equipped with hymns praising the gods and capable of destroying the enemy: may we, joined with such praisers, be defeating enemy warriors in battles with the help of our heroic men, and slaying our enemies.
+
+### Printed p. 118
+
+##### English translation
+Overcoming our enemies in war by our warriors, may we be the slayers of foes, through the pious (worshippers) who are the exhilarators of Indra and Vayu, the reciters of divine hymns, the destroyers of the adversary.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of reciting the Prauga-śastra mantras of the first Chandoma day, this Ṛk, "Ye vāyava indra", is to be recited as the second Ṛk of the Aindravāyava triplet. This is explained by Āśvalāyana's Śrauta Sūtra (Ā. 8-9): ये वायव इंद्रमादनासो या नां शतं नियुतो याः सहस्रं (*ye vāyava iṃdramādanāso yā nāṃ śataṃ niyuto yāḥ sahasraṃ*).
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ नि॒युध्भिः॑ श॒तिनी॑भिरध्व॒रं स॑ह॒स्रिणी॑भि॒रुप॑ याहि  ॒
+> यज्ञं ।  
+> वायो॑ अ॒स्मिन्त्सव॑ने मादयस्व यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ ! नः । नियुत्थभिः । शतिनीभिः । अध्वरं । सहस्रिणीभिः । उप । याहि । यज्ञं ।  
+> वायो इति । अस्मिन् । सवने । मादयस्व । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नियुत्वद्वायुदेवताके पशावा नो नियुद्धिरिति हविषोऽनुवाक्या ।
+> सूत्रितं च । आ नो नियुद्धिः शतिनीभिरध्वरं पीवोअन्नारयिवृधः सुमेधाः ।
+> आ. ३-८ । इति ॥ प्रथमे छंदोमे प्रउगशस्त्रे वायुव्यतृचस्येषैव तृतीया ।
+> सूत्रितं च । आ नो नियुद्धिः शतिनीभिरध्वरुं प्र सोता जीरो अध्वरेश्वस्थात् ।
+> आ. ८-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice to Niyutvat Vāyu, आ नो नियुद्धिः (*ā no niyuddhiḥ*) is the anuvākyā for the oblation. The sūtra (Ā. 3-8) says: आ नो नियुद्धिः शतिनीभिरध्वरं पीवोअन्नारयिवृधः सुमेधाः । (*ā no niyuddhiḥ śatinībhiradhvaraṃ pīvoannārayivṛdhaḥ sumedhāḥ |*). In the Prauga-śastra of the first Chandoma day, this same Ṛk is the third of the Vāyavya triplet. The sūtra (Ā. 8-9) says: आ नो नियुद्धिः शतिनीभिरध्वरुं प्र सोता जीरो अध्वरेश्वस्थात् । (*ā no niyuddhiḥ śatinībhiradhvaruṃ pra sotā jīro adhvareśvasthāt |*).
+
 ---
 
-**Progress note:** Done through printed p. 111. pp. 103-111 (batch API)
+**Progress note:** Done through printed p. 118. pp. 112-118 (batch API)
