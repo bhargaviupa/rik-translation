@@ -7,3 +7,7 @@ block-not-read	148	bhāṣya block: Devanagari paribhāṣā digit ९३-२ di
 findings-row-stale	95	The p. 95 row for Ā. 7-7 says question; the edit was applied afterwards (7-3)
 boundary-shifted	232-233	English p. 232 carries the pratipadārtha of Ṛk 68.4, which sits on Kannada p. 233
 boundary-shifted	234-235	English p. 234 reaches into Kannada p. 235; English p. 235 repeats the Skandasvāmin passage as "Special Topics (concluded)"
+page-absent	259	No "### Page 259" in the English: English p. 258 covers Kannada pp. 258–259
+boundary-shifted	256-257	English p. 256 holds the pratipadārtha of Ṛk 69.5 that is on Kannada p. 257
+block-not-read	268	bhāṣya block (Devanagari and IAST) still has tai. brā. [1-1-9-2?], [1-1-9-10?], ni. [1-11?]; the Kannada prints 2-1-2-7, 2-1-2-10, 2-11 (corrected in the Meaning and Special Topics paragraphs only)
+block-not-read	252, 255	Kannada grammar tails print ६-७ / ८-९ while its own Saṃhitā/Pada blocks print ५-६ / ७-८; English follows the blocks (a question row)

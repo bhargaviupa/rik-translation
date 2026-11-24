@@ -483,3 +483,49 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 218	H29	R6	Grammar of 67.4 end verse-number	English ॥ ७–८ ॥		Kannada prints ೬-೭ here but ೭ ॥ ೮ in the Saṃhitā block (see questions.tsv)	question	
 221	S13	R6	Closing line of sūkta 67 (also p. 239 for sūkta 68)	English: aravattēḻaneya sūktavu samāptavu		Kannada prints ಅರವತ್ತೇಳನೇ ಸೂಕ್ತ ಸಮಾಪ್ತವು (p.239: ಅರವತ್ತೆಂಟನೇ ಸೂಕ್ತವು ಸಮಾಪ್ತವು); English quotes a different spelling (see questions.tsv)	question	
 232	S17	R1	Pratipadārtha of 68.4 (Kannada p. 233)	English omits the parenthetical alternative gloss (svair dakṣaiḥ = with their own prāṇas; amūrāḥ = endowed; saṃ jānanti = know everything through you)		Add it? (see questions.tsv)	question	
+242	S2	R1	Ni. ref, 'shukra' among water names	(Ni. [1-12])	(Ni. 2-24)	Kannada ನಿ. ೨-೨೪	applied	
+243	S7	R3	trāyakaḥ san in Skandasvāmin/Sāyaṇa gloss	trāyekaḥ san	trāyakaḥ san	Kannada ತ್ರಾಯಕ (ಯ+ಕ); letters changed: e to a (the final ರ್ is left as a question)	applied	
+246	S2	R1	Ni. ref, vedhas among wise names	(Ni. [3-15])	(Ni. 3-19)	Kannada ನಿ. ೩-೧೯	applied	
+246	S17	R1	bhāvārtha: milk and butter	gives sweetness to milk, by cooking them	gives sweetness to milk and butter, by cooking them	Kannada ಹಾಲು ಬೆಣ್ಣೆಗಳಿಗೆ ರುಚಿ ಕೊಡುವಂತೆ	applied	
+247	S2	R1	Ni. ref, pitu among food names	(Ni. [2-7]); the word *pitu*	(Ni. 3-9); the word *pitu*	Kannada ನಿ. ೩-೯	applied	
+247	S2	R1	Ni. ref and count, shewa among comfort names	among the names of 'comfort' beginning *śiṃbātā, śatarā* (Ni. [3-13])	among the twenty names of 'comfort' beginning *śiṃbātā, śatarā* (Ni. 3-13)	Kannada ಇಪ್ಪತ್ತು ಸುಖನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ. ೩-೧೩); count omitted in English	applied	
+248	S2	R1	Ni. ref, duroṇa among house names	(Ni. [3-4])	(Ni. 3-13)	Kannada ನಿ. ೩-೧೩	applied	
+251	S2	R1	Ni. ref and count, viś among men names	twenty-four names of 'men' (Ni. [2-3])	twenty-five names of 'men' (Ni. 3-7)	Kannada ಇಪ್ಪತ್ತೈದು ಮನುಷ್ಯನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ. ೩-೭)	applied	
+253	S14	R1	pratipadārtha of yat ahan: subject reversed	when [you] slay demons and the like	when demons and the like do harm	Kannada ಯಾವಾಗ ರಾಕ್ಷಸಾದಿಗಳು ಹಾನಿಮಾಡುತ್ತಾರೋ (demons are the subject)	applied	
+254	S16	R1	nakiḥ note: addition 'negative particle'; Ni. number; hikam/nukam	(Ni. [3-?]) is a negative particle. *Nakir, nakiḥ* — the two words *na* and *kam*, together with the *kim* [and the like], denote all the meanings of the verb [?] [compressed print].	(Ni. 3-14) is stated as a particle (*nipāta*): the nine words *hikam*, *nukam* [and the rest] denote all things.	Kannada ನಕಿಃ ಎಂಬ ಶಬ್ದವು (ನಿ. ೩-೧೪) ಹಿಕಮ್, ನುಕಮ್ ಎಂಬ ಒಂಭತ್ತು ಪದಗಳು ಸರ್ವಪದಾರ್ಥಗಳನ್ನು ಬೋಧಿಸುವುವು ಎಂದು ನಿಪಾತಿತವಾಗಿರುತ್ತದೆ; 'negative particle' and 'na, kam, kim' are not in the Kannada	applied	
+257	S2	R1	Ni. ref, na among comparison words	(Ni. [1-4])	(Ni. 3-13)	Kannada ನಿ. ೩-೧೩	applied	
+257	S14	R1	bhāvārtha: ushra 'dwelling-giver' rendered as carrying oblations	who carries the oblations of the sacrificers, who is directly	who provides a dwelling, who is directly	Kannada ವಾಸಗೃಹವನ್ನು ಒದಗಿಸುವ (the oblations are carried by the rays, in the next sentence)	applied	
+258	S2	R1	Ni. ref, usra among go names	(Ni. [1-5])	(Ni. 2-7)	Kannada ನಿ. ೨-೭	applied	
+258	S2	R1	Ni. ref, usra among ray names	(Ni. [1-15])	(Ni. 2-15)	Kannada ನಿ. ೨-೧೫	applied	
+258	S2	R1	Uṇ. Sū. ref, usra (rak)	(Uṇ. Sū. 2-[120], as read)	(Uṇ. Sū. 2-170)	Kannada ಉ. ಸೂ. ೨-೧೭೦	applied	
+263	S2	R1	Ṛk ref for aśyāḥ	(Ṛ. Saṃ. 1-69-6, i.e.	(Ṛ. Saṃ. 1-69-7, i.e.	Kannada ಋ. ಸಂ. ೧-೬೯-೭	applied	
+266	S7	R3	Ṛk quoted for apāṃ napāt	*apāṃ napāt…yo 'bhir indro vṛṣabhir…*	*apānna pān madhumatīr apo dā yābhir indro vyavadhe vīryāya*	Kannada ಅಪಾನ್ನ ಪಾನ್ಮಧುಮತೀರಪೋ ದಾ ಯಾಭಿರಿಂದ್ರೋ ವ್ಯವಧೇ ವೀರ್ಯಾಯ; letters copied from the Kannada	applied	
+266	S14	R3	gloss on sthāpayitā	*suṣena sthāpayitā	*sukhenāva sthāpayitā	Kannada ಸುಖೇನಾವ ಸ್ಥಾಪಯಿತಾ (kh for ṣ, āva added); letters copied from the Kannada	applied	
+266	S7	R3	Ṛk quoted by Skandasvāmin and its reference	*yavān nāmram uṣaso na pratīkam*' (Ṛ. Saṃ. 10-88-19 [?], digits 8/9 and the last digit doubtful)	*yāvan mātram uṣaso na pratīkam*' (Ṛ. Saṃ. 10-88-19)	Kannada ಯಾವನ್ಮಾತ್ರಮುಷಸೋ ನ ಪ್ರತೀಕಂ (ಋ. ಸಂ. ೧೦-೮೮-೧೯); letters changed: ya-vān nām-ram to yā-van mā-tram	applied	
+267	S2	R1	Pā. ref, sthātām (kvip)	Pā. [3-2-76?]	Pā. 3-2-76	Kannada ಪಾ. ಸೂ. ೩-೨-೭೬	applied	
+267	S2	R1	Uṇ. sūtra name and number, carathām	"*śīrṣaś cirugami…*", Uṇ. [3-113?]	"*śījśapirugami…*", Uṇ. 3-393	Kannada ಶೀಜ್‌ಶಪಿರುಗಮಿ (ಉ. ಸೂ. ೩-೩೯೩); sūtra name copied from the Kannada	applied	
+267	S2	R1	Uṇ. sūtra name and number, viśvaḥ	"*āśiśṛṣilaṭikaṇi…*", Uṇ. [1-154?]	"*aśipuṣilaṭikaṇi…*", Uṇ. 1-149	Kannada ಅಶಿಪುಷಿಲಟಿಕಣಿ (ಉ. ಸೂ. ೧-೧೪೯); sūtra name copied from the Kannada	applied	
+268	S2	R1	Ni. ref for cikitvān (Yāska)	(Yāska, Ni. [?])	(Yāska, Ni. 2-11)	Kannada ನಿ. ೨-೧೧ (bhāṣya block and p. 270 commentary)	applied	
+268	S2	R1	Pā. ref, sūktaiḥ in bhāṣya tail	Pā. [6-1-139?]	Pā. 6-2-145	Kannada ಪಾ. ಸೂ. ೬-೨-೧೪೫ (bhāṣya block and p. 270 grammar)	applied	
+269	S2	R1	Ni. ref and count, kṣapā among night names	twenty-two [as read, ?] names of night (Ni. [1-?])	twenty-three names of night (Ni. 2-18)	Kannada ಇಪ್ಪತ್ತುಮೂರು ರಾತ್ರಿನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ. ೨-೧೮)	applied	
+269	S7	R3	Ṛk quoted, kṣapāvān (first)	'*nṛṇāṃ nṛtomaḥ kṣapāvān*' (Ṛk. Saṃ. 10-[?])	'*nṛṇāṃ naryo nṛtamaḥ kṣapāvān*' (Ṛk. Saṃ. 10-29-1)	Kannada ನೃಣಾಂ ನರ್ಯೋ ನೃತಮಃ ಕ್ಷಪಾರ್ವಾ (ಋ. ಸಂ. ೧೦-೨೯-೧); the printed ending ಕ್ಷಪಾರ್ವಾ is a question	applied	
+269	S7	R3	Ṛk quoted, kṣapāvān (second)	'*tvam asi kṣapāvān*' (Ṛk. Saṃ. 8-[?])	'*tvam id asi kṣapāvān*' (Ṛk. Saṃ. 8-31-2)	Kannada ತ್ವಮಿದಸಿ ಕ್ಷಪಾರ್ವಾ (ಋ. ಸಂ. ೮-೩೧-೨); 'id' omitted in English	applied	
+270	S2	R1	Ni. ref for cikitvān	(Ni. [1-11?])	(Ni. 2-11)	Kannada ನಿ. ೨-೧೧	applied	
+270	S2	R1	Pā. ref, nāmin accent	Pā. [6-1-?]	Pā. 6-1-177	Kannada ಪಾ. ಸೂ. ೬-೧-೧೭೭	applied	
+270	S2	R1	Pā. ref, vacisvapi	Pā. [6-1-15]	Pā. 6-1-15	Kannada ಪಾ. ಸೂ. ೬-೧-೧೫ (brackets removed)	applied	
+270	S2	R1	Pā. ref, sūktaiḥ accent	Pā. [6-2-139]	Pā. 6-2-145	Kannada ಪಾ. ಸೂ. ೬-೨-೧೪೫	applied	
+270	S2	R1	Pā. ref, cikitvaḥ ru	Pā. [8-3-1]	Pā. 8-3-1	Kannada ಪಾ. ಸೂ. ೮-೩-೧ (brackets removed)	applied	
+242	H29	R3	ಶುಶುಕ್ತ್ವಾ (Kannada heading, p. 243)	English heading शुशुक्वान् (grammar p. 244 reads ಶುಶುಕ್ವಾನ್)		Settle: print ಶುಶುಕ್ತ್ವಾ is a misprint for ಶುಶುಕ್ವಾನ್ ? | Not decided by the Kannada sentence alone; the Kannada heading is not a word and was silently corrected in the English	question	
+243	H29	R3	ಪುತ್ರಸ್ಸರ್ ; ಪುನ್ನಾಮ್ಯೋ ; ತ್ರಾಯಕರ್ಸನ್ (Kannada)	English heading 'पुत्रः न भुवः पिता'; text 'punnāmno … trāyakaḥ san'		Settle: ಪುತ್ರಸ್ಸರ್ = putraḥ san (as p. 242 pratipada ಪುತ್ರಃ ಸರ್ = सन्) so heading 'न' is wrong ?; ಪುನ್ನಾಮ್ಯೋ = punnāmno ?; ತ್ರಾಯಕರ್ಸನ್ = trāyakaḥ san ? | Kannada prints non-words (ರ್ for ಃ/ನ್, ಮ್ಯೋ for ಮ್ನೋ); the English silently put them right	question	
+248	H29	R3	ಪಿಶು ಶಬ್ದದ ಷಷ್ಠಿ ಬಹುವಚನ (Kannada, grammar)	English 'pitu'		Settle: ಪಿಶು = ಪಿತು ? | Kannada letter misprint silently corrected; context (pitūnām) suggests it but the Kannada does not decide	question	
+251	H29	R6	grammar page: sūtra names and person (pp. 251-252)	English 'ata iniṭhanau', 'itaś ca', 'sip of the second person'; Kannada ಆತ ಇನಿರನ್, ಇಟಈಟಿ, ಪ್ರಥಮಪುರುಷದ ಸಿಪ್		Settle: do the Kannada forms (ಇನಿರನ್, ಇಟಈಟಿ, 'first person' for sip) stand, or the corrected ones in the English ? | Sūtra names are not decided by the Kannada sentence; the English corrected silently	question	
+252	H29	R1	closing numbers of grammar pages 69.3 and 69.4 (pp. 252, 255)	Kannada ॥ ೬-೭ ॥ and ॥ ೮-೯ ॥; English ५–६ and ७–८		Settle: print the grammar-tail numbers as in the Kannada (6-7, 8-9) or keep 5-6, 7-8 as in the Saṃhitā and Pada blocks ? | The Kannada Saṃhitā/Pada blocks print ೫-೬ and ೭-೮, the grammar tails print ೬-೭ and ೮-೯: the Kannada contradicts itself; Devanagari numerals cannot be typed here	question	
+254	H29	R3	ತುಷ್ಟಿಂ (pratipadārtha, Kannada p. 254)	English श्रुष्टिम्		Settle: ತುಷ್ಟಿಂ = ಶ್ರುಷ್ಟಿಂ (as the heading and commentary read) ? | Kannada letter misprint silently corrected; the commentary below reads ಶ್ರುಷ್ಟಿ	question	
+258	H29	R3	ಅಸ್ಮೈ ... ಅಮುಂ ಎಂದು ದ್ವಿತೀಯಾಂತ (Kannada p. 258)	English 'in the sense of imam'		Settle: ಅಮುಂ (as printed) or imam ? | Both are words; the Kannada prints amum, the English imam; the Kannada sentence does not decide	question	
+258	S13	R3	नवन्त गावः [sic: navanta] (English heading of Skandasvāmin remark)	Kannada ನವಂತಃ ಎಂಬ ಪದಕ್ಕೆ		Settle: replace by नवन्तः (the Kannada has no 'gāvaḥ') ? | A Devanagari word cannot be typed in this pass; the removal of 'gāvaḥ' leaves a visarga to be set by the editor	question	
+258	H29	R6	ಅರಪತ್ತೊಂಭತ್ತನೇ ಸೂಕ್ತವು ಸಮಾಪ್ತವು (Kannada closing line, p. 259)	English closing line 'aravattombhattaneya'		Settle: ಅರಪ = ಅರವ (misprint) ? | Kannada non-word, silently corrected in the English; English page 258 carries Kannada pp. 258 and 259	question	
+262	H29	R3	ಅಭಿಮುಖ್ಯೇನ ಜಾರ್ಣ ; ವ್ಯಾಪ್ಪೋತಿ (Kannada p. 262)	English 'ābhimukhyena jānan', 'vyāpnoti'		Settle: ಜಾರ್ಣ = ಜಾನನ್, ವ್ಯಾಪ್ಪೋತಿ = ವ್ಯಾಪ್ನೋತಿ ? | Kannada non-words, silently corrected; apagatya vyāpnoti is consistent but the Kannada does not decide	question	
+263	H29	R6	running heads ಅ. ೨. ಅ. ೫. (p. 263), ಆ. ೧೨ (p. 264)	English 'Aṣṭaka 1', 'Adhyāya 12'		Settle: keep as put right ? | Printed head misprints silently corrected	question	
+266	H29	R3	ಯಷ್ಟ್ಣಣಾಂ, ಸ್ತೋತ್ಕ್ಷಣಾಂ (Kannada p. 266)	English 'yaṣṭṝṇām, stotṝṇām'		Settle: ಯಷ್ಟೃಣಾಂ, ಸ್ತೋತೄಣಾಂ ? | Kannada non-words, silently corrected; the gloss that follows (yājakas, praisers) supports it but does not decide the letters	question	
+267	H29	R6	ಇತ್ಯಾದಿರ್ನಿತ್ಯಂ (Kannada p. 267, sūtra)	English 'ñnityādir nityam'		Settle: Kannada reading ಇತ್ಯಾದಿರ್ನಿತ್ಯಂ or ಞ್ನಿತ್ಯಾದಿರ್ನಿತ್ಯಂ ? | Sūtra name not decided by the Kannada sentence	question	
+268	H29	R3	ಕ್ಷಪಾರ್ವಾ, ಚಿಕಿತ್ಸ್ಯಃ (Kannada pp. 268-269)	English 'kṣapāvān', 'cikitvaḥ'		Settle: ಕ್ಷಪಾವಾನ್, ಚಿಕಿತ್ವಃ ? | Kannada non-words (also in the quoted Ṛks, p. 269), silently corrected; the repeated forms above (kṣapāvān) are consistent	question	

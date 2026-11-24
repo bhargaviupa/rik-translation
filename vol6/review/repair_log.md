@@ -428,3 +428,39 @@
 | 238 | `thirteen names of 'wisdom' (Ni. [3-9])` → `eleven names of 'wisdom' (Ni. 3-13)` | SECOND-PASS S2: Kannada: ಹನ್ನೊಂದು ಪ್ರಜ್ಞಾನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ ೩-೧೩) |
 | 238 | `(Ni. 4-[4])` → `(Ni. 4-4)` | SECOND-PASS S2: Kannada prints (ನಿ. ೪-೪) |
 | 238 | `dāntaḥ puruṣe` → `dānte puruṣe` | SECOND-PASS R3: Kannada: ದಾಂತೇ ಪುರುಷೇ ವಾ |
+
+### 2026-11-24 second pass, batch e242-271.tsv
+| page | old → new | why |
+|---|---|---|
+| 242 | `(Ni. [1-12])` → `(Ni. 2-24)` | SECOND-PASS S2: Kannada ನಿ. ೨-೨೪ |
+| 243 | `trāyekaḥ san` → `trāyakaḥ san` | SECOND-PASS S7: Kannada ತ್ರಾಯಕ (ಯ+ಕ); letters changed: e to a (the final ರ್ is left as a question) |
+| 246 | `(Ni. [3-15])` → `(Ni. 3-19)` | SECOND-PASS S2: Kannada ನಿ. ೩-೧೯ |
+| 246 | `gives sweetness to milk, by cooking them` → `gives sweetness to milk and butter, by cooking them` | SECOND-PASS S17: Kannada ಹಾಲು ಬೆಣ್ಣೆಗಳಿಗೆ ರುಚಿ ಕೊಡುವಂತೆ |
+| 247 | `(Ni. [2-7]); the word *pitu*` → `(Ni. 3-9); the word *pitu*` | SECOND-PASS S2: Kannada ನಿ. ೩-೯ |
+| 247 | `among the names of 'comfort' beginning *śiṃbātā, śatarā* (Ni. [3-13])` → `among the twenty names of 'comfort' beginning *śiṃbātā, śatarā* (Ni. 3-13)` | SECOND-PASS S2: Kannada ಇಪ್ಪತ್ತು ಸುಖನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ. ೩-೧೩); count omitted in English |
+| 248 | `(Ni. [3-4])` → `(Ni. 3-13)` | SECOND-PASS S2: Kannada ನಿ. ೩-೧೩ |
+| 251 | `twenty-four names of 'men' (Ni. [2-3])` → `twenty-five names of 'men' (Ni. 3-7)` | SECOND-PASS S2: Kannada ಇಪ್ಪತ್ತೈದು ಮನುಷ್ಯನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ. ೩-೭) |
+| 253 | `when [you] slay demons and the like` → `when demons and the like do harm` | SECOND-PASS S14: Kannada ಯಾವಾಗ ರಾಕ್ಷಸಾದಿಗಳು ಹಾನಿಮಾಡುತ್ತಾರೋ (demons are the subject) |
+| 254 | `(Ni. [3-?]) is a negative particle. *Nakir, nakiḥ* — the two words *na* and *kam*, togethe` → `(Ni. 3-14) is stated as a particle (*nipāta*): the nine words *hikam*, *nukam* [and the re` | SECOND-PASS S16: Kannada ನಕಿಃ ಎಂಬ ಶಬ್ದವು (ನಿ. ೩-೧೪) ಹಿಕಮ್, ನುಕಮ್ ಎಂಬ ಒಂಭತ್ತು ಪದಗಳು ಸರ್ವಪದಾರ್ಥಗಳನ್ನು ಬೋಧಿಸುವುವು ಎಂದು ನಿಪಾತಿತವಾಗಿರುತ್ತದೆ; 'negative particle' and 'na, kam, kim' ar |
+| 257 | `(Ni. [1-4])` → `(Ni. 3-13)` | SECOND-PASS S2: Kannada ನಿ. ೩-೧೩ |
+| 257 | `who carries the oblations of the sacrificers, who is directly` → `who provides a dwelling, who is directly` | SECOND-PASS S14: Kannada ವಾಸಗೃಹವನ್ನು ಒದಗಿಸುವ (the oblations are carried by the rays, in the next sentence) |
+| 258 | `(Ni. [1-5])` → `(Ni. 2-7)` | SECOND-PASS S2: Kannada ನಿ. ೨-೭ |
+| 258 | `(Ni. [1-15])` → `(Ni. 2-15)` | SECOND-PASS S2: Kannada ನಿ. ೨-೧೫ |
+| 258 | `(Uṇ. Sū. 2-[120], as read)` → `(Uṇ. Sū. 2-170)` | SECOND-PASS S2: Kannada ಉ. ಸೂ. ೨-೧೭೦ |
+| 263 | `(Ṛ. Saṃ. 1-69-6, i.e.` → `(Ṛ. Saṃ. 1-69-7, i.e.` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೧-೬೯-೭ |
+| 266 | `*apāṃ napāt…yo 'bhir indro vṛṣabhir…*` → `*apānna pān madhumatīr apo dā yābhir indro vyavadhe vīryāya*` | SECOND-PASS S7: Kannada ಅಪಾನ್ನ ಪಾನ್ಮಧುಮತೀರಪೋ ದಾ ಯಾಭಿರಿಂದ್ರೋ ವ್ಯವಧೇ ವೀರ್ಯಾಯ; letters copied from the Kannada |
+| 266 | `*suṣena sthāpayitā` → `*sukhenāva sthāpayitā` | SECOND-PASS S14: Kannada ಸುಖೇನಾವ ಸ್ಥಾಪಯಿತಾ (kh for ṣ, āva added); letters copied from the Kannada |
+| 266 | `*yavān nāmram uṣaso na pratīkam*' (Ṛ. Saṃ. 10-88-19 [?], digits 8/9 and the last digit dou` → `*yāvan mātram uṣaso na pratīkam*' (Ṛ. Saṃ. 10-88-19)` | SECOND-PASS S7: Kannada ಯಾವನ್ಮಾತ್ರಮುಷಸೋ ನ ಪ್ರತೀಕಂ (ಋ. ಸಂ. ೧೦-೮೮-೧೯); letters changed: ya-vān nām-ram to yā-van mā-tram |
+| 267 | `Pā. [3-2-76?]` → `Pā. 3-2-76` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೩-೨-೭೬ |
+| 267 | `"*śīrṣaś cirugami…*", Uṇ. [3-113?]` → `"*śījśapirugami…*", Uṇ. 3-393` | SECOND-PASS S2: Kannada ಶೀಜ್‌ಶಪಿರುಗಮಿ (ಉ. ಸೂ. ೩-೩೯೩); sūtra name copied from the Kannada |
+| 267 | `"*āśiśṛṣilaṭikaṇi…*", Uṇ. [1-154?]` → `"*aśipuṣilaṭikaṇi…*", Uṇ. 1-149` | SECOND-PASS S2: Kannada ಅಶಿಪುಷಿಲಟಿಕಣಿ (ಉ. ಸೂ. ೧-೧೪೯); sūtra name copied from the Kannada |
+| 268 | `(Yāska, Ni. [?])` → `(Yāska, Ni. 2-11)` | SECOND-PASS S2: Kannada ನಿ. ೨-೧೧ (bhāṣya block and p. 270 commentary) |
+| 268 | `Pā. [6-1-139?]` → `Pā. 6-2-145` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೬-೨-೧೪೫ (bhāṣya block and p. 270 grammar) |
+| 269 | `twenty-two [as read, ?] names of night (Ni. [1-?])` → `twenty-three names of night (Ni. 2-18)` | SECOND-PASS S2: Kannada ಇಪ್ಪತ್ತುಮೂರು ರಾತ್ರಿನಾಮಗಳ ಮಧ್ಯದಲ್ಲಿ (ನಿ. ೨-೧೮) |
+| 269 | `'*nṛṇāṃ nṛtomaḥ kṣapāvān*' (Ṛk. Saṃ. 10-[?])` → `'*nṛṇāṃ naryo nṛtamaḥ kṣapāvān*' (Ṛk. Saṃ. 10-29-1)` | SECOND-PASS S7: Kannada ನೃಣಾಂ ನರ್ಯೋ ನೃತಮಃ ಕ್ಷಪಾರ್ವಾ (ಋ. ಸಂ. ೧೦-೨೯-೧); the printed ending ಕ್ಷಪಾರ್ವಾ is a question |
+| 269 | `'*tvam asi kṣapāvān*' (Ṛk. Saṃ. 8-[?])` → `'*tvam id asi kṣapāvān*' (Ṛk. Saṃ. 8-31-2)` | SECOND-PASS S7: Kannada ತ್ವಮಿದಸಿ ಕ್ಷಪಾರ್ವಾ (ಋ. ಸಂ. ೮-೩೧-೨); 'id' omitted in English |
+| 270 | `(Ni. [1-11?])` → `(Ni. 2-11)` | SECOND-PASS S2: Kannada ನಿ. ೨-೧೧ |
+| 270 | `Pā. [6-1-?]` → `Pā. 6-1-177` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೬-೧-೧೭೭ |
+| 270 | `Pā. [6-1-15]` → `Pā. 6-1-15` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೬-೧-೧೫ (brackets removed) |
+| 270 | `Pā. [6-2-139]` → `Pā. 6-2-145` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೬-೨-೧೪೫ |
+| 270 | `Pā. [8-3-1]` → `Pā. 8-3-1` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ. ೮-೩-೧ (brackets removed) |
