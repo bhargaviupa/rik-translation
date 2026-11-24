@@ -31985,6 +31985,267 @@ Renowned for radiance, renowned for adoration, this libation is for your gratifi
 > यस्ते॑ शृंगवृषो नपा॒त्पण॑पात्कुंड॒पाय्यः॑ ।  
 > न्य॑स्मिन्दध्र॒ु आ मनः॑ ॥ १३ ॥
 
+### Printed p. 759
+#### Ṛk 13 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । शृंगवृषः । नपात् । प्रनपादिति प्रनपात् । कुंडपाय्यः ।  
+> नि । अस्मिन् । दध्रे । आ । मनः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शृंगवृषो नपात् । शृंगवृषा नाम कश्चिदृषिः तस्य चेंद्रः स्वयमेव
+> पुत्रतया जज्ञ इत्याख्यायिका । नपादित्यपत्यनाम । शृंगवृषः पुत्र । यद्वा ।
+> शृणंति हिंसंतीति शृंगाणि रश्मयः । तैर्वर्षतीति शृंगवृडादित्यः । तस्य न पातयितः
+> स्वकीये स्थानेऽवस्थापयितः ॥ सुबामंत्रित इति षष्ठ्यंतस्य परांगवद्भावेनामंत्रितानुप्रवेशात् समुदायस्याष्टमिकं सर्वानुदात्तत्वं ॥ ईदृशं हे इंद्र ते तव
+> संबंधी प्रणपात् प्रकर्षेण न पातयिता रक्षिता कुंडपाय्यः। कुंडैः पीयतेऽस्मिन्
+> सोम इति कुंडपाय्यः क्रतुविशेषः॥ क्रत्कुंडपाय्य संचाय्कौ । पा- ३-१-१३८. ।
+> इति पिबतेरधिकरणे ण्यत्पत्ययो युगागमश्च निपात्यते ॥ एतत्संज्यो यः
+> क्रतुरस्त्यस्मिन् कुंडपाय्य क्रत्मनः स्वांतमानि दध्रे । अभितो वर्तमानाः
+> कुंडपायिनामान ऋषयः पुरा निदधिरे । सम्यक् त्वद्देवत्यं क्रतुमनुष्ठितवंत
+> इत्यर्थः ॥ दधातेर्लिटीरयो र इति रेभावः ॥
+
+##### Gist of the bhāṣya
+
+"O descendant of Śṛṅgavṛṣa." Śṛṅgavṛṣa is the name of a certain seer, and the tradition is that Indra himself was born as his son. नपात् (*napāt*) is a word for offspring, so the address means "son of Śṛṅgavṛṣa". Alternatively, शृंगाणि (*śṛṃgāṇi*) are the rays, because they pierce or harm; the sun rains with them and is therefore *śṛṃgavṛṭ*. The one who does not let him fall, who keeps him established in his own place, is his नपात् (*napāt*). (Sāyaṇa adds an accent remark on the vocative compound.) "O Indra, your प्रणपात् (*praṇapāt*) is the one who does not let fall in the highest degree, that is, the protector." कुंडपाय्यः (*kuṃḍapāyyaḥ*) is a particular rite (kratu) in which Soma is drunk from bowls (कुंडैः पीयतेऽस्मिन् सोम (*kuṃḍaiḥ pīyate 'smin soma*)). The formation is by the sūtra क्रत्कुंडपाय्य संचाय्कौ (*kratkuṃḍapāyya saṃcāykau*) (Pā. Sū. 3-1-138), which makes the root पिब (*piba*) take the affix ṇyat in the locative sense, with the augment yuk. The mind has been set on the rite of that name: the seers who stood around it in former times fixed their minds on it. That is, they duly performed the rite addressed to you. The verb दध्रे (*dadhre*) is from *dadhāti* in the perfect, with the substitution of ra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शृंगवृषः (*śṛṃgavṛṣaḥ*)—of the seer named Śṛṅgavṛṣa
+- नपात् (*napāt*)—O Indra, the son
+- ते (*te*)—your
+- प्रणपात् (*praṇapāt*)—that which is protective
+- कुंडपाय्यः (*kuṃḍapāyyaḥ*)—and is called Kuṇḍapāyya
+- यः (*yaḥ*)—which rite there is
+- अस्मिन् (*asmin*)—in that rite
+- मनः (*manaḥ*)—the mind
+- आ नि दध्रे (*ā ni dadhre*)—the seers have placed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, son of the seer named Śṛṅgavṛṣa: in the rite that is your protector and is called Kuṇḍapāyya, the seers have offered their meditative mind.
+
+##### English translation
+(Indra), you are the offspring of Shringavrish, of whom the Kunda-
+payya rite was the protector. (the sages) have fixed (of old) their minds
+upon this ceremony.
+
+### Printed p. 760
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वास्तो॑ष्पते ध्रु॒वा स्थूणांस॑त्रं सो॒म्यानां॑ ।  
+> द्र॒प्पो भे॒त्ता पु॒रां शश्व॑तीना॒मिंद्रो॒ मनी॑नां॒  ॑
+> सखा ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वास्तोः । पते । ध्रुवा । स्थूणा । अंगत्रं । सोम्यानां ।  
+> द्रप्सः । भेत्ता । पुरां । शश्वतीनां । इंद्रः । मुनीनां । सखा ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वास्तोष्पते गृहपते स्कूणा गृहाधारभूतः स्तंभो ध्रुवा स्थिरा भवतु ।
+> सोम्यानां सोमार्हणां सोमसंपादिनां वास्मामसंत्रमंसत्राणमंसोपलक्षितस्य कृत्स्नशरीरस्य त्रायकं रक्षकं बलं भवतु । अपि च द्रप्पो द्रवणशीलः सोमः
+> रद्वान् ॥ अर्शआदित्वादच् प्रत्ययः ॥ शश्वतीनां बह्वीनां पुरामसुरपुरीणां भेत्ता
+> विदारयिता एवंभूत इंद्रो मुनीनामृषीणामस्माकं सखा मित्रभूतो भवतु ॥
+
+##### Gist of the bhāṣya
+
+"O lord of the dwelling, lord of the house, may the pillar that supports the house be firm. May there be a protecting strength, a guard of the whole body (the body being indicated by the shoulder, *aṃsa*), for us who are worthy of Soma or who procure Soma. Moreover द्रप्सः (*drapsaḥ*) is the flowing Soma." (Sāyaṇa gives the affix ac by the class of अर्श (*arśa*) etc.) "May Indra, the breaker of the many cities of the Asuras, be a friend to us seers."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नास्तोष्पते (*nāstoṣpate*)—O Indra, lord of the house
+- स्कूणा (*skūṇā*)—the pillar that is the support of the house
+- ग्रुवा (*gruvā*)—let it be firm
+- सोम्यानां (*somyānāṃ*)—of us, the procurers of Soma
+- अंगत्रं (*aṃgatraṃ*)—let it be the body's protector
+- द्रप्सः (*drapsaḥ*)—the one possessing Soma
+- शश्वतीनां (*śaśvatīnāṃ*)—of many
+- पुरां (*purāṃ*)—of the enemy cities
+- भेत्ता (*bhettā*)—and the destroyer
+- इंद्रः (*iṃdraḥ*)—Indra
+- मुनीनां (*munīnāṃ*)—to the seers
+- सखा (*sakhā*)—let him be a friend
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of the house: may the pillar that supports the house be firm, and may it also be a protector of the body for us who procure Soma. May Indra, who possesses Soma and is the destroyer of many enemy cities, be a friend to the seers.
+
+##### English translation
+Lord of dwellings, may the (roof) pillar be strong; may there be
+vigour of body for the offerers of the libations: may Indra, the drinker (of
+the Soma), the destroyer of the numerous cities (of the Asuras) ever be the
+friend of the Munis.
+
+### Printed p. 761
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृदा॑कुसानुर्यज॒तो ग॒वेष॑ण॒ एकः॒ सन्न॒भि भूय॑सः।  
+> भूर्णि॒मश्वं॑ नयत्तु॒जा पु॒रो गृ॒भेंद्रं॒ सोम॑स्य  ॒॑
+> पीतये ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पृदाकुसानुः । यजतः । गोएषणः । एकः । सन् । अभि । भूयसः ।  
+> भूर्णिं । अश्वं । नयत् । तुजा । पुरः । गृभा । इंद्रं । सोमस्य ।  
+> पीतये ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पृदाकुसानुः । पृदाकुः सर्पः । स इव सानुः समुच्छ्रतः । तद्वदुन्नतशिरस्क
+> इत्यर्थः । यद्वा । पृदाकुवत्सानुः संभजनीयः । स यथा बहुभिर्मणिमंत्रौषधादिभिः
+> संसेव्यो नाल्कैः एवमिंद्रोऽपि बहुभिः स्तोत्रादिभिर्यत्नैः सेव्य इत्यर्थः ।
+> यजतो यष्टव्यो गवेषणो गवामेषयिता प्रापयिता एवंगुणको य इंद्र
+> एकः सन्नसहायः केवल एव सन् भूयसो बहुतराञ्छत्रूनभिभवति भूर्णिं
+> भरणशीलमश्वं व्याप्नुवंतं तमिंद्रं सोमस्य पीतये पानार्थं पुरोऽस्माकं
+> पुरस्तान्नयत् । नयति । प्रापयति । सामर्थ्य्यात् स्तोतेति लभ्यते । केन साधनेन ।
+> तुजा क्षिप्रगामिना गृभा ग्रहणसाधनेन स्तोत्रेण । यद्वा । अश्वमिति लुप्तोपममेतत् । यथा वोढारमश्वं दुर्ग्रहं पाशेनानयंति एवमुक्तेन प्रकारेण
+> महानुभावमिंद्रं स्तुत्या स्तोतानयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+पृदाकुसानुः (*pṛdākusānuḥ*): पृदाकु (*pṛdāku*) is a serpent; he is सानु (*sānu*), that is, raised up like it, with an uplifted head. Or else, सानु (*sānu*) is one to be resorted to, like a पृदाकु (*pṛdāku*). As that is served by many with jewels, mantras, herbs and the like, so Indra too is to be served by many with praises and other efforts. He is यजतः (*yajataḥ*), worthy of worship, and गवेषणः (*gaveṣaṇaḥ*), one who seeks out and obtains cows. Such an Indra, though एकः (*ekaḥ*) (single, without helper), overcomes very many enemies. That swift-bearing, pervading Indra, who is like a horse, the worshipper leads पुरः (*puraḥ*) (before us) to drink the Soma. The worshipper is understood as the subject by implication. By what means? By तुजा (*tujā*) (swift-going) गृभा (*gṛbhā*) (an instrument of seizing), the praise. Or else अश्वं (*aśvaṃ*) contains a suppressed simile: as a carrying horse that is hard to hold is led by a halter, so in this way the worshipper leads the mighty Indra by praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृदाकुसानः (*pṛdākusānaḥ*)—having a head raised like a serpent with its hood spread
+- यजतः (*yajataḥ*)—worthy of worship
+- गवेषणः (*gaveṣaṇaḥ*)—the one who obtains and gives cows, Indra
+- एकःसन् (*ekaḥsan*)—being without a second (alone)
+- भूयसः अभि (*bhūyasaḥ abhi*)—defeats the more numerous enemies
+- भूर्णिं (*bhūrṇiṃ*)—the swift-going
+- अश्वं (*aśvaṃ*)—horse-like
+- इंद्रं (*iṃdraṃ*)—Indra
+- सोमस्य (*somasya*)—of the Soma juice
+
+### Printed p. 762
+- पीतये (*pītaye*)—for drinking
+- पुरः (*puraḥ*)—to our front
+- तुजा (*tujā*)—with swift
+- गृभा (*gṛbhā*)—and seizing means, the praise
+- नयत् (*nayat*)—(the sacrificer) attracts and brings
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who has a head raised like a serpent with its hood spread, who is worthy of worship and obtains cows for us, being alone defeats the more numerous enemies. The sacrificer, with a swift praise that is a means of seizing, attracts that swift horse-like Indra and brings him to our front to drink the Soma juice.
+
+##### English translation
+With head uplifted like a serpent, adorable, the recoverer of the cattle, Indra, single is superior to multitudes : (the worshipper) brings Indra to drink the Soma by a rapid seizure, like a loaded horse (by a halter).
+
+## Sūkta 18 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं हेति द्वाविंशत्यृचं षष्ठं सूक्तमिरिंबिठेरार्षमुष्टिक्कंदस्कं । उत
+> त्येत्येषाश्विदेवताका । शमग्निरित्येषाग्निसूर्यवायुदेवताका । शिष्टा आदित्यदेवताकाः । तथा चानुक्रम्यते । इदं ह द्व्यधिकादित्यमौष्टिहमष्टम्यश्विभ्यां पराग्निसूर्यानिलानामिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sixth hymn, इदं ह (*idaṃ ha*), of twenty-two Ṛks. Its seer is Irimbiṭhi, its metre is Uṣṇik. The Ṛk उत त्या (*uta tyā*) has the Aśvins as deity; the Ṛk शमग्निः (*śamagniḥ*) has Agni, Sūrya and Vāyu; the remaining Ṛks have the Ādityas. The Anukramaṇī says: इदं ह द्व्यधिकादित्यमौष्टिहमष्टम्यश्विभ्यां पराग्निसूर्यानिलानामिति (*idaṃ ha dvyadhikādityamauṣṭihamaṣṭamyaśvibhyāṃ parāgnisūryānilānāmiti*). The viniyoga has already been given.
+
+##### Anuvāda
+
+The hymn beginning इदं ह (*idaṃ ha*) is the sixth hymn in the third anuvāka. It has twenty-two Ṛks. The seer of this hymn is Irimbiṭhi of the Kāṇva lineage; the metre is Uṣṇik. Its eighth Ṛk, उत त्या (*uta tyā*), is addressed to the Aśvins; the ninth Ṛk, शमग्निः (*śamagniḥ*), has Agni, Sūrya and Vāyu as deities; the remaining Ṛks have the Ādityas as deity. In the Anukramaṇī it is said: इदं ह द्व्यधिकादित्यमौष्टिहमष्टम्यश्विभ्यां पराग्निसूर्यानिलानां (*idaṃ ha dvyadhikādityamauṣṭihamaṣṭamyaśvibhyāṃ parāgnisūryānilānāṃ*). The viniyoga was stated earlier.
+
+### Printed p. 763
+- Maṇḍala 8; Anuvāka 3; Sūkta 18
+- Aṣṭaka 6; Adhyāya 1; Vargas 25, 26, 27, 28
+- Number of Ṛks in the sūkta: 22
+- Ṛṣi: Irimbiṭhi Kāṇva
+- Devatā: 1–7, 10–12 Ādityas; 8 the Aśvins; 9 Agni, Sūrya and Anila
+- Metre: Uṣṇik
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं ह॑ नू॒नमे॑षां सु॒न्नुं भि॑क्षेत॒ मर्त्यः॑ ।  
+> आ॒दि॒त्याना॒मपू॑र्व्यं॒ सवी॑मनि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । ह । नूनं । एषां । सुम्नं । भिक्षेत । मर्त्यः ।  
+> आदित्यानां । अपूर्व्यं । सवीमनि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं हेदानीं खलु नूनमवश्यमादित्यानामदितेः पुत्राणामेषां देवानां
+> मित्रादीनां सवीमनि प्रसवे प्रेरणे सति मर्त्यो मनुष्यः स्तोतापूर्व्यमभिनवं
+> सुम्मं सुखकरं धनं भिक्षेत । याचेत । न कालांतरे ॥
+
+##### Gist of the bhāṣya
+
+इदं ह (*idaṃ ha*) means "now indeed". नूनं (*nūnaṃ*) means "surely". When these Ādityas, the sons of Aditi, Mitra and the others, give their impulsion (सवीमनि (*savīmani*), in their prasava, their urging), the mortal, the worshipper, should beg अपूर्व्यं (*apūrvyaṃ*) (new) and सुम्मं (*summaṃ*) (happiness-giving) wealth. He should ask for it now, not at another time.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इदं ह (*idaṃ ha*)—right now
+- नूनं (*nūnaṃ*)—certainly
+- आदित्यानां (*ādityānāṃ*)—of the sons of Aditi
+- एषां (*eṣāṃ*)—of these Mitra and the others
+- सवीमनि (*savīmani*)—at the time of worship
+- मर्त्यः (*martyaḥ*)—the human worshipper
+- अपूर्व्यं (*apūrvyaṃ*)—new
+- सुम्मं (*summaṃ*)—and happiness-bringing wealth
+- भिक्षॆत (*bhikṣèta*)—let him beg
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of worship of these Ādityas, the sons of Aditi, Mitra and the others, let the human worshipper surely beg right now for new and happiness-bringing wealth.
+
+##### English translation
+Let a mortal now earnestly solicit at the worship of these Adityas,
+unprecedented riches.
+
+### Printed p. 764
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न॒र्वाणो॒ ह्ये॑षां॒ पंथा॑ आदि॒त्यानां॑ ।  
+> अद॑ब्धाः॒ संति॑ पा॒यवः॑ सुगे॒वृधः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनर्वाणः । हि । एषां । पंथाः । आदित्यानां ।  
+> अदब्धाः । संति । पायवः । सुगेऽवृधः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषामादित्यानां पंथाः पंथानो मार्गाः ॥ सुपां सुलुगिति जसः सुः ॥
+> अनर्वाणोऽप्रत्युताः परैरप्रतिगताः अत एवादब्धा अहिंसिताश्च संति । भवंति । हि
+> यस्मादेवं तस्मात्पायवः पालयितारस्ते मार्गाः सगेवृधः सुगमे सुखे विषये
+> वर्धका भवंतु ॥
+
+##### Gist of the bhāṣya
+
+The paths of these Ādityas, पंथाः (*paṃthāḥ*), are roads (Sāyaṇa adds the affix remark *supāṃ suluk* etc. for the nominative plural). They are अनर्वाणः (*anarvāṇaḥ*), unobstructed and not opposed by others, and for that very reason अदब्धाः (*adabdhāḥ*), unharmed. Since this is so, those paths are पायवः (*pāyavaḥ*), protectors. May they be सुगेवृधः (*sugevṛdhaḥ*), increasers in an easy, happy sphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां आदित्यानां (*eṣāṃ ādityānāṃ*)—of these Ādityas
+- पंथाः (*paṃthāḥ*)—the course of travel (the paths)
+- अनर्वाणः (*anarvāṇaḥ*)—unobstructed
+- अदब्धाः (*adabdhāḥ*)—and unharmed
+- संति (*saṃti*)—are
+- हि (*hi*)—for that very reason
+- पायवः (*pāyavaḥ*)—those paths, which are protectors
+- सुगेवृधः (*sugevṛdhaḥ*)—let them be increasers of our happiness
+
+##### भावार्थ (Bhāvārtha)
+
+The paths of travel of these Ādityas are unobstructed and unharmed. For that very reason, may those protecting paths increase our happiness.
+
+##### English translation
+The paths of these Adityas are unobstructed and unopposed; may
+they yield us security and augment our happiness,
+
 ---
 
-**Progress note:** Done through printed p. 758. pp. 753-758 (batch API)
+**Progress note:** Done through printed p. 764. pp. 759-764 (batch API)
