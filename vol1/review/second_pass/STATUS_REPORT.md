@@ -5,14 +5,14 @@
 - **Stage:** S2 reading in page batches
 - **Pages read:** 40 of 720 (360–369, 1–30)
 - **Findings:** 207 — applied 162, questions 45; edits ok 141, failed 0
-- **Reader tokens (batches so far):** 169k; per page 4.2k
+- **Reader tokens (batches so far):** 518k; per page 12.9k
 - **Last commit:** b195d7a
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
 |---|---|---|---|---|---|---|---|---|
 | pilot | 360–369 | 73 | 52 | 31 / 0 | 21 | 169k | f594e7e | pilot; 52 edits first applied, then 21 Devanagari edits (and 6 IAST partners) reverted by the new sp_sanskrit gate, 6 re-applied after the word-join refinement: net 31 English edits stand; 15 citation lines are questions; English not page-aligned to the Kannada on these pages (judged by content) |
-| 2 | 1–30 | 134 | 110 | 110 / 0 | 24 | TOK1 | b195d7a | 110 edits (31 S7 via sp_sanskrit, 20 S13 names, ~30 numbers, ~25 sense); English not page-aligned (Page 4 carries Kannada 4–6, Page 10 carries 10–11, Page 15–16 combined, pp. 17–24 'gap filled' block); numbers taken as printed that look odd are in open.tsv; three longer rewrites on pp. 2, 9, 30 for re-reading |
+| 2 | 1–30 | 134 | 110 | 110 / 0 | 24 | 349k | b195d7a | 110 edits (31 S7 via sp_sanskrit, 20 S13 names, ~30 numbers, ~25 sense); English not page-aligned (Page 4 carries Kannada 4–6, Page 10 carries 10–11, Page 15–16 combined, pp. 17–24 'gap filled' block); numbers taken as printed that look odd are in open.tsv; three longer rewrites on pp. 2, 9, 30 for re-reading |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
