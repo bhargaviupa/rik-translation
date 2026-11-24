@@ -16185,6 +16185,282 @@ These wise celebrators (of holy rites) repeatedly propitiate you with pious prai
 
 O Indra, you struck down Vṛtra, the enveloping asura, बृहतीभ्यः (*bṛhatībhyaḥ*) "from great ones", with a change of gender, and धनुभ्यः (*dhanubhyaḥ*) "from bows", that is, with the great bows as the cause; the ablative is of cause. *sphurati* is a verb of killing; निरस्फुरः (*nirasphuraḥ*) means "you slew", you have slain him without remainder. Or else: Vṛtra, the enveloping cloud, धनुभ्यः (*dhanubhyaḥ*): the waters are धनव (*dhanava*) because they go (धन्वंति (*dhanvaṃti*)); from the great waters. The dative of purpose applies: you slew him for the gaining of such waters. Moreover, the māyin, the possessor of māya, Arbuda, an asura of that name, and Mṛgaya, an asura of that name: the genitive in both is in the sense of the object. These two asuras also you slew without remainder. Sāyaṇa derives मायिनः (*māyinaḥ*) with the suffix vini, as māyā is in the vrīhi-class.
 
+### Printed p. 404
+
+> गवामदर्शनाय निहितस्य गिरेः संबंधिनीर्गा वलेनापहृता निराजः । निरगमयः ॥
+> अज गति क्षेपणयोः ॥
+
+##### Gist of the bhāṣya
+
+The rest of the previous explanation: the cows belonging to the mountain, which had been hidden so that they could not be seen and had been carried off by Vala, were driven out by Indra. निराजः (*nirājaḥ*) means "you made them go out"; the root is अज गति क्षेपणयोः (*aja gati kṣepaṇayoḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वृत्रं (*vṛtraṃ*)—Vṛtra the asura
+- बृहतीभ्यः (*bṛhatībhyaḥ*)—of exceedingly great power
+- धनुभ्यः (*dhanubhyaḥ*)—with bows
+- न्यस्फुरः (*nyasphuraḥ*)—you have killed completely
+- मायिनः (*māyinaḥ*)—deceitful
+- अर्बुदस्य (*arbudasya*)—Arbuda too
+- मृगयस्य (*mṛgayasya*)—Mṛgaya too
+- निः (*niḥ*)—you have destroyed
+- पर्वतस्य (*parvatasya*)—of the mountain, in whose cave they had been placed after being carried off by the asura
+- गाः (*gāḥ*)—the cows
+- निः आजः (*niḥ ājaḥ*)—you drove back
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have killed Vṛtra the asura completely with bows of exceedingly great power, and you have destroyed the deceitful asuras named Arbuda and Mṛgaya. You released the cows that had been carried off by the asura and placed in the cave of the mountain, and brought them back.
+
+##### English translation
+You have extirpated Vritra with your mighty weapons; you have been the destroyer of the deceptive Arbuda and Mrigaya; you have extricated the cattle from the mountain.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निर॒ग्नयो॑ रुरुचु॒र्निरु॒ सूर्यो॒ निः सोम॑ इंद्रि॒यो रसः॑।  
+> निरं॒तरि॑क्षादधमो म॒हामहिं॑ कृ॒षे तदिं॑द्र॒ पौंस्यं॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निः । अग्नयः । रुरुचुः । निः । ऊं इति । सूर्यः । निः । सोमः । इंद्रियः । रसः ।  
+> निः । अंतरिक्षात् । अधमः । महां । अहिं । कृषे । तत् । इंद्र । पौंस्यं ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महां महांतं कृत्स्नस्य जगतो व्यापकमहिमाहननशीलं वृत्रं
+> यदा त्वमंतरिक्षादाकाशन्निरधमः निरगमयः । धमतिर्गतिकर्मा । तत्तदानीं पौंस्यं
+
+##### Gist of the bhāṣya
+
+O Indra, when you drove out of the firmament the great Vṛtra, whose nature is to strike down the greatness that pervades the whole world, धमतिर्गतिकर्मा (*dhamatirgatikarmā*) (the root dham denotes motion), then you made manifest your manly power…
+
+### Printed p. 405
+
+> वृत्रहननहेतुभूतं बलं कृषे । कुरुषे। पुरस्कुरुषे॥ करोतेश्छांदसो विकरणस्य
+> लुक् ॥ अग्नयश्च त्रिस्थानगता नी रुरुचुः । निःशेषेण दिदीपिरे । सूर्यः प्रेरक
+> आदित्योऽपि निःशेषेण दिदीपे । इंद्रिय इंद्रेण सेव्यो रसो रसात्मकोऽमृतमयः सोमश्च निःशेषेण दिदीपे । अग्न्यादयः सर्वे पूर्वं वृत्रेणावृतत्वान्निप्रभाः संत इदानीं तस्मिन्नावरके हते सम्यक् प्राकाशिषतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+…which was the cause of Vṛtra's slaying. कृषे (*kṛṣe*) means "you do" or "you put forward"; the loss of the vikaraṇa is Vedic. The fires that stood in the three worlds blazed out completely. Sūrya, the impelling sun, also shone completely. The Soma, the sap, made of nectar and enjoyed by Indra, also shone. Agni and the others had all been without lustre, being covered by Vṛtra; now that the one who covered them was slain they shone well. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- महां (*mahāṃ*)—of great nature
+- अहिं (*ahiṃ*)—Vṛtra
+- अंतरिक्षात् (*aṃtarikṣāt*)—from the firmament (when)
+- निः अधमः (*niḥ adhamaḥ*)—you hurled down
+- तत् (*tat*)—then
+- पौंस्त्यं (*pauṃstyaṃ*)—your valour
+- कृषे (*kṛṣe*)—you have manifested (after that)
+- अग्नयः (*agnayaḥ*)—the fires
+- निः रुरुचुः (*niḥ rurucuḥ*)—blazed
+- सूर्यः निः (*sūryaḥ niḥ*)—the sun shone
+- इंद्रियः (*iṃdriyaḥ*)—that which is enjoyed by Indra
+- रसः (*rasaḥ*)—and of the nature of sap
+- सोमः (*somaḥ*)—Soma
+- निः (*niḥ*)—shone
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you hurled the great Vṛtra down from the firmament, you made your valour manifest. Only after that did the fires blaze, the sun shone, and Soma, which is enjoyed by Indra and is of the nature of sap, shone as well.
+
+##### English translation
+When you had expelled the mighty Ahi from the firmament, then the fires blazed, the sun shone forth, the ambrosial Soma destined for Indra flowed out, and you, Indra, did manifest your manhood.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं मे॒ दुरिंद्रो॑ म॒रुतः॒ पाक॑स्थामा॒ कौर॑याणः ।  
+> विश्वे॑षां॒ त्मना॒ शोभि॑ष्ठ॒मुपे॑व दि॒वि धाव॑मानं ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । मे । दुः । इंद्रः । मरुतः । पाकस्थामा।कौरयाणः ।  
+> विश्वेषां । त्मना । शोभिष्ठं । उपइव । दिवि । धावमानं ॥ २१ ॥
+
+### Printed p. 406
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमादिकेन चतुर्ऋचेन कुरयाणपुत्रात्पाकस्थामनान्नो राज्यो दानं
+> लब्ध्वा मेध्यातिथिस्तदीयं दानं सौति । यं यादृशं धनसंघं मह्यमिंद्रो
+> मरुतश्च दुः दत्तवंतः तादृशमेव धनसमूहं कौरयाणः । शत्रूत् प्रति युद्धाभिमुख्येन कृतं यानं हस्यश्वादिकं येनासौ कुरयाणः । तस्य पुत्रः कौरयाणः ।
+> पाकस्थामा । तिष्ठत्यनेनेति स्थाम बलं । परिपक्वबलः । एतत्संज्ञो राजा मह्यं
+> प्रादात् ॥ ददातेर्लुजु गातिस्थेति सिचो लुक् । अडभावश्चांदसः ॥ कीदृशं
+> धनसंघं । विश्वेषां सर्वेषां धानानां मध्यॆ त्मनात्मना स्वत एव शोभिष्ठमतिशयेन शोभावंतं ॥ मंत्रेष्वाज्यादेरित्यात्मन आकारलोपः । शोभावच्छब्दादातिशायनिक इष्टन् । विन्मतोर्लुक् । यस्येति लोपः ॥ अतिशयेन शोभावत्वे
+> दृष्टांतः । दिव्याकाश उपेव धावमानं प्रभाभिरुपेतं शीघ्रगामिनं सूर्यमिव ।
+> शोभावत्तममित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+With this verse and the following four (a group of four ṛks), Medhyātithi, having received a gift from the king named Pākasthāman, son of Kurayāṇa, praises that gift. The wealth that Indra and the Maruts gave me, the very same mass of wealth Pākasthāman Kaurayāṇa gave me. Kurayāṇa is he by whom a march, with elephants, horses and the like, has been made towards the enemy for battle; his son is Kaurayāṇa. पाकस्थामा (*pākasthāmā*): sthāman is strength, that by which one stands; Pākasthāman is one of ripened strength, a king of this name. He gave it to me. How is the mass of wealth? Of all riches it is of itself the most splendid, exceedingly splendid. As an illustration of its exceeding splendour: like the sun, running in the sky, accompanied by rays and swift-moving. The meaning is "most splendid".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवि (*divi*)—in the sky
+- उपेव धावमानं (*upeva dhāvamānaṃ*)—like the radiant sun moving swiftly
+- त्मना (*tmanā*)—by its own power
+- विश्वेषां (*viśveṣāṃ*)—among all riches
+- शोभिष्ठं (*śobhiṣṭhaṃ*)—shining exceedingly
+- यं (*yaṃ*)—which mass of wealth
+- मे (*me*)—to me
+- इंद्रः (*iṃdraḥ*)—Indra
+- मरुतः (*marutaḥ*)—and the Maruts
+- दुः (*duḥ*)—gave (that same mass of wealth of such power)
+- कौरयाणः (*kaurayāṇaḥ*)—the son of Kurayāṇa
+- पाकस्थामा (*pākasthāmā*)—the king named Pākasthāman (gave to me)
+
+##### भावार्थ (Bhāvārtha)
+
+The mass of wealth that Indra and the Maruts gave me, which by its own power shines exceedingly among all riches, like the radiant sun moving swiftly in the sky, that very mass of wealth of such power the king named Pākasthāman, son of Kurayāṇa, gave me too.
+
+##### English translation
+Such wealth as Indra and the Maruts have bestowed upon me, such has Pakasthaman, the son of Kurayana, bestowed, of itself the most magnificent of all, like the quick-moving (sun) in the sky.
+
+##### विशेषविषयगळु (Special Topics)
+
+कारयाणः (*kārayāṇaḥ*)—For this word Yāska gives the etymology: कारयाणः कृतयानः । पाकस्थामा कारयाणः इत्यपि निगमो भवति । (*kārayāṇaḥ kṛtayānaḥ | pākasthāmā kārayāṇaḥ ityapi nigamo bhavati |*) (Ni. 5-15). One who has made ready the military force of elephants, horses and so on to confront the enemies in battle and is set out on the march is called Kurayāṇa.
+
+### Printed p. 407
+Here Kurayāṇa is a king; his son is called Kaurayāṇa. In the words पाकस्थामा कौरयाणः (*pākasthāmā kaurayāṇaḥ*) of the present ṛk the meaning is: the king named Pākasthāman, son of Kurayāṇa.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रोहि॑तं मे॒ पाक॑स्थामा सु॒धुरं॑ कक्ष्य॒प्रां ।  
+> अदा॑द्रा॒यो वि॒बोध॑नं ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रोहितं । मे । पाकस्थामा । सुधुरं । कक्ष्यप्रां ।  
+> अदात् । रायः । विबोधनं ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पाकस्थामा राजा रोहितं लोहितवर्णं वृषभमश्वं वा मे मह्यमदात् ।
+> दत्तवान् । कीदृशं । सुधुरं शोभनधुरु शोभनवहनप्रदेशं ॥ ऋक्सूरब्धूः ।
+> पा. ५-४-७४ । इत्यकारः समासांतः। क्रत्वादयश्चेति बहुव्रीहावुत्तरपदाद्युदात्तत्वं॥
+> कक्ष्यप्रां! कक्ष्या कक्षयोर्बाहुमूलयोर्बध्यमाना रज्जुः । तस्याः प्रातारं पूरयितारं । पीवरमित्यर्थः ॥ प्रा पूरणे ॥ रायो धनस्य विबोधनं विशेषेण बोधकं।
+> बहुधनप्राप्तिहेतुमित्यर्थः ॥ ऊडिदमित्यादिना रायो विभक्तिरुदात्ता ॥
+
+##### Gist of the bhāṣya
+
+King Pākasthāman gave me a ruddy (reddish) bull or horse. Of what kind? सुधुरं (*sudhuraṃ*): with a good yoke-pole, a good load-bearing part. Kakṣyaprā: कक्ष्या (*kakṣyā*) is the rope bound under the two armpits (the girth); one that fills it, i.e. stout. The root is प्रा पूरणे (*prā pūraṇe*). रायो विबोधनं (*rāyo vibodhanaṃ*): one that especially awakens (brings) wealth, that is, the cause of obtaining much wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पाकस्थामा (*pākasthāmā*)—the king named Pākasthāman
+- सुधुरं (*sudhuraṃ*)—having a part fit to bear a load
+- कक्ष्यप्रां (*kakṣyaprāṃ*)—having a fully grown body
+- रायः (*rāyaḥ*)—to wealth
+- विबोधनं (*vibodhanaṃ*)—a cause of obtaining
+- रोहितं (*rohitaṃ*)—having an attractive golden colour: the horse
+- मे (*me*)—to me
+- अदात् (*adāt*)—has given
+
+##### भावार्थ (Bhāvārtha)
+
+King Pākasthāman has given me a horse that has a part fit to bear a load, a fully grown body, is a means of obtaining wealth, and has an attractive golden colour.
+
+### Printed p. 408
+
+##### English translation
+Pakasthaman has given me a tawny robust beast of burden, the means of acquiring riches.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मा॑ अ॒न्ये दश॒ प्रति॒ धुरं॒ वहं॑ति॒ वह्न॑यः ।  
+> अस्तं॒ वयो॒ न तुग्र्यं॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मै । अन्ये । दश । प्रति । धुरं । वहंति । वह्नयः ।  
+> अस्तं । वयः । न । तुग्र्यं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एवाश्वो विशेष्यते । यस्यै । षष्ठ्यर्थे चतुर्थी । यस्याश्वस्य
+> वृषभस्य वा धुरं वोढव्यं युगधुरमन्ये प्रकृतादस्माद्विलक्षणा दशसंख्याका
+> वह्नयो वोढारोऽश्वा बलीवर्दा ना प्रतिनिधयः संतो मां वोढुं वहंति
+> बिभ्रति । बहूनामेकत्र वहने दृष्टांतः । अस्तं । अस्यते क्षिप्यते तस्मिन्नदार्थजातमित्यस्तं गृहं । प्रति वयो न गंतारोऽश्वा यथा तुग्रं तुग्रपुत्रं भुज्युं
+> समुद्रतीरादवहन् तद्वत् । तादृशमश्वं मह्यं प्रादादिति पूर्वस्यामृच्यन्वयः ॥
+> भुज्योर्वहनं च नासत्या भुज्युमूहथुः । ऋग्वे. १-११६-४ : इत्यादावनगंतव्यं
+> यद्वा । यस्मा इति कर्मणि चतुर्थी । यं रथमन्ये दशसंख्याका वह्नयो वोढारोऽश्वा धुरं वहनप्रदेशं प्रति गताः संतो वहंति तादृशं रथमपि मह्यं दत्तवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The same horse as before is further described. यस्मै (*yasmai*) has the dative in the sense of the genitive: of which horse or bull the burden, the yoke-load to be borne, ten other bearers, horses or oxen, different from the one in question, acting as substitutes, carry to bear me. For many carrying in one place there is an illustration: अस्तं (*astaṃ*) is the house, where goods are thrown (अस्यते (*asyate*)). As horses going home, like those that carried Tugra's son Bhujyu from the seashore. The connection with the preceding ṛk is that such a horse was given to me. This carrying of Bhujyu is to be understood from passages such as भुज्योर्वहनं च नासत्या भुज्युमूहथुः (*bhujyorvahanaṃ ca nāsatyā bhujyumūhathuḥ*) (Ṛg. 1-116-4). Or else: यस्मै (*yasmai*) is a dative of the object: the chariot which ten other bearers, horses, going to the place of the yoke, carry; he gave me such a chariot too.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्तं प्रति (*astaṃ prati*)—facing the house
+- तुग्र्यं (*tugryaṃ*)—Bhujyu, son of Tugra
+- वयो न (*vayo na*)—like horses carrying home
+- यस्मै (*yasmai*)—of which horse
+- धुरं (*dhuraṃ*)—the burden
+- अन्वे दश वह्नयः (*anve daśa vahnayaḥ*)—ten other horses
+- वहंति (*vahaṃti*)—carry; give such a horse as a gift
+
+##### भावार्थ (Bhāvārtha)
+
+Give as a gift such a horse, the burden of which ten other horses carry, like the horses that carry home Bhujyu, son of Tugra, who was facing home.
+
+### Printed p. 409
+
+##### English translation
+Whose burden ten other bearers (of loads) (would be required to) convey, such as were the steeds that bore Bhujyu home.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒त्मा पि॒तुस्त॒नूर्वास॑ ओजो॒दा अ॒भ्यंज॑नं ।  
+> तु॒रीय॒मिद्रोहि॑तस्य॒ पाक॑स्थामानं भो॒जं दा॒तार॑मब्रुवं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत्मा । पितुः । तनूः । वासः । ओजःदाः । अभिअंजनं ।  
+> तुरीयं । इत् । रोहितस्य । पाकस्थामानं । भोजं । दातारं । अब्रवं ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं पाकस्थामात्मा स्वयं पितुर्जनकस्य तनूस्तनयः । पिता यथा सन्मार्गवर्तितया प्रशस्त एवमयमपीत्यर्थः । तथा वासो वासयिता निवासयिता ॥ वासयतेरौणादिकोऽसुन् ॥ अभ्यंजनमभिव्यक्तं यथा भवति तथौजोदा ओजसो बलस्य
+> दाता धारयिता वा । यद्वा! आत्मा सततगामि । पितुरित्यन्ननाम। व्याप्तमन्नं येन
+> दत्तं । तनूर्विस्तृतं वासो वस्त्रमभ्यंजनमभ्यंजनसाधनं धृततैलादिकं च येन
+> दत्तं । यश्चौजोदा बलस्य दातारं पाकस्थामानु तुरीयं स्वकीयप्रपितामहापेक्षया चतुर्थं यद्वा तुरीयं शत्रूणां तूर्वकं हिंसितारं बोजं शत्रूणां
+> भोजयितारं रोहितस्य लोहितवर्णस्य पूर्वोक्तस्याश्वस्य दातारं एवंगुणकं
+> पाकस्थामानमब्रुवं । उक्तेन प्रकारेणास्तौषं । इदिति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+This Pākasthāman, himself the आत्मा (*ātmā*), is the son (तनूः (*tanūḥ*)) of his father, the begetter: as the father is praised for following the good path, so is he. Likewise he is वासः (*vāsaḥ*), the one who gives dwelling (the suffix asun is Uṇādi), and he is ओजोदा (*ojodā*), a giver or sustainer of strength, so that it is plainly manifest (अभ्यंजनं (*abhyaṃjanaṃ*)). Or else: आत्मा (*ātmā*) is "constantly going"; पितुः (*pituḥ*) is a name for food: he by whom abundant food was given; तनूः (*tanūḥ*) wide garment (वासः (*vāsaḥ*)), and anointing means, ghee, oil and the like, were given by him; and he is the giver of strength. Pākasthāman, the fourth counting from his own great-grandfather, or else तुरीयं (*turīyaṃ*) the one who strikes down enemies, भोजं (*bhojaṃ*) one who makes the enemies eat, the giver of the ruddy horse mentioned above, a man of such qualities, I have praised in the manner stated. *id* is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पाकस्थामा (*pākasthāmā*)—this Pākasthāman
+- आत्मा (*ātmā*)—own
+- पितुः (*pituḥ*)—to the father
+- तनूः (*tanūḥ*)—a son (that is, following his father and as excellent as he)
+- वासः (*vāsaḥ*)—a giver of dwelling
+- अभ्यंजनं (*abhyaṃjanaṃ*)—like an ointment fit for anointing
+- ओजोदाः (*ojodāḥ*)—is a giver of strength
+- तुरीयं (*turīyaṃ*)—one who injures enemies
+- भोजं (*bhojaṃ*)—one who drives enemies away
+- रोहितस्य (*rohitasya*)—of the ruddy horse
+- दातारं इत् (*dātāraṃ it*)—and a giver
+- पाकस्थामानं (*pākasthāmānaṃ*)—such a Pākasthāman
+- अब्रवम् (*abravam*)—I have praised
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 403. pp. 396-403 (batch API)
+**Progress note:** Done through printed p. 409. pp. 404-409 (batch API)
