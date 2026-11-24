@@ -1110,13 +1110,13 @@ Yaska then states the Nirukta's purpose: to help ascertain the Veda's meaning. T
 
 ### Page 31
 
-...properly. Only by knowing the Veda's true meaning can its ultimate purpose be understood — with this, Yaska closes his first chapter. From the second chapter onward, wherever a word in the mantras admits multiple possible senses, he lays out the principles for settling on the correct one: chiefly, rules concerning pronunciation and rules concerning word-form. Meanings should accord with grammatical rule; irregular or unclear words should be traced to their root; interpreters should favor whichever reading is simplest and most natural; and where two senses seem equally plausible, the one with stronger textual support should be preferred. That the Nirukta's whole purpose is to aid correct understanding of the Veda is thus firmly established.
+...properly. One who knows the Veda's meaning is blessed — with this, Yaska closes his first chapter. From the second chapter onward, wherever a word in the mantras admits multiple possible senses, he lays out the principles for settling on the correct one: chiefly, rules concerning pronunciation and rules concerning word-form. Where a word is regular in grammar and its meaning bears a direct relation to its root, the derivation should be made directly; where the meaning cannot be found so easily, the derivation should be made on the basis of a similar meaning or similar letters. Everyone who wishes to read and understand the Veda must read the Nirukta; no one can forget the service done by Yaska. That the Nirukta's whole purpose is to aid correct understanding of the Veda is thus firmly established.
 
-Yaska's own era, and how much of his work is original versus inherited, remains unclear — earlier, now-lost works on Nirukta likely existed and formed his foundation, though none survive today. Modern scholars, too, are uncertain of his precise date, though most agree he is the Nirukta's author, even if a few Vedic mantras' meanings may not have been entirely clear even to him. Two further complications are worth noting. First, Yaska is generally held to belong to a fairly ancient period: Panini's own grammar contains a sutra referencing the name "Yaska" (in the sense of his clan/gotra — Panini-sutra roughly 2-4-63), without further explanation, showing grammatical scholarship was already well established by then; yet Yaska, in the Nirukta, engages with and builds on earlier grammarians' views on nominal derivation, suggesting the Nirukta itself postdates the foundations of grammar. Second, some scholars question whether the compiler of the Nighantu and the author of the Nirukta are the same "Yaska," since the Nirukta occasionally appears to alter the Nighantu's exact word-order when explaining it — for instance, where the Nighantu reads "akāsārya dāvane," the Nirukta seems to restate it as "dāvane akāsārya." Even so, since a closing statement names Yaska as author, and this is accepted by those working on the Nighantu tradition as well, the two need not be regarded as different people.
+Many works must have existed as the basis of the Nirukta, but none of them is available now. Though to moderns Yaska's explanations often seem unjustified, without his Nirukta the meaning of many mantras of the Veda would not be known at all. Two points stand out in this matter of the Nirukta. First, Yaska is generally held to belong to a fairly ancient period: Panini's own grammar contains a sutra referencing the name "Yaska" (in the sense of his clan/gotra — Panini-sutra roughly 2-4-63), without further explanation, showing grammatical scholarship was already well established by then; yet Yaska, in the Nirukta, first explains the noun and the like and then goes on, so the grammatical matters must have been new at the time the Nirukta was composed. Second, some scholars question whether the compiler of the Nighantu and the author of the Nirukta are the same "Yaska," since the Nirukta occasionally appears to alter the Nighantu's exact word-order when explaining it — for instance, where the Veda has "akūpārasya," the Nighantu-compiler changed it to "dāvane akūpārasya," while the Nirukta-writer follows the order of the mantra. At the end of the work a sentence is found, a salutation to Yaska; this must be meant for the Nighantu-compiler himself. Therefore the two must be different people.
 
 ### 5. Jyotisha-shastra (Astronomy)
 
-Jyotisha does not dwell on planetary motion in great technical detail; rather, drawing on the actual observable state of the heavens, it provides the rules used to determine, precisely and impartially, favorable or unfavorable occasions for a person's practical affairs — above all, the correct timing and preparatory rites for yajnas. References to such matters appear scattered through the Brahmanas and Aranyakas, including the idea that time can be reckoned by the moon's motion through the lunar constellations. A compact treatise, the Jyotisha-Vedanga, exists for this purpose: 36 verses for the Rigveda tradition and 43 for the Yajurveda tradition, treating the sun, moon, constellations, and the twelvefold zodiacal division in careful detail — a discipline that helps determine the correct, auspicious timing for yajnas and similar rites.
+Jyotisha does not much go into explaining the science of astronomy. These sutras are of no use to those who wish to learn the motions of the planets and from them to fix the good and bad results in a person's life; their aim is to state the planetary motions only so far as is needed to fix the time for performing yajnas and the like and the muhurta at which to begin them. References to such matters appear scattered through the Brahmanas and Aranyakas, including the idea that time can be reckoned by the moon's motion through the lunar constellations. A compact treatise, the Jyotisha-Vedanga, exists for this purpose: 36 verses for the Rigveda tradition and 43 for the Yajurveda tradition, treating the sun, moon, constellations, and the twelvefold zodiacal division in careful detail — a discipline that helps determine the correct, auspicious timing for yajnas and similar rites.
 
 ### Page 32 — 6. Kalpa-sutras
 
@@ -1137,18 +1137,18 @@ The Brahmanas do describe yajnas and similar rites, but this material is interwo
 
 Many Kalpa-sutras exist, one per shakha. For the Rigveda: the Ashvalayana and Shankhayana Sutras. The Ashvalayana Shrauta-sutra has two parts and twelve chapters in all, each chapter further divided into sections called Kandikas, describing the Darsha-Purnamasa (new-moon/full-moon) rites and others. For Krishna Yajurveda: the Baudhayana and Apastamba Sutras. For Shukla Yajurveda: the Katyayana Sutra. For the Samaveda: the Latyayana and Drahyayana Sutras.
 
-It was through these Kalpa-sutras that a new era of Vedic study began — composed on the strength of long-established tradition, they came to hold real importance for the Veda...
+It was through these Kalpa-sutras that a new era began among those who study the Veda. From the time they were composed and came into use, the importance of the Veda itself kept diminishing, until finally...
 
 
 ### Page 33
 
-...and this Kalpa-sutra tradition serves as the chief basis for it. Some works enlarge upon the Vedas, or on particular portions of them, and such derivative works are traditionally said to belong to that shakha's line of transmission. This same method of textual affiliation is used even in tracing gotra-pravara (clan lineage) matters, where scholars speak of the Ashvalayana, Baudhayana, and Apastamba schools, among others.
+...the Kalpa-sutra itself became the chief basis. The Vedas were neglected. It also became the custom to say that a part of the Veda belongs to such-and-such a charana or shakha. Even now, when reciting the gotra and pravara after the sandhya-vandana and the like, people follow these sutras and name schools such as the Ashvalayana, Baudhayana and Apastamba.
 
 ### Shrautasutras
 
 These sutras primarily explain the procedure for performing yajnas. The person on whose behalf the yajna is performed is called the *yajamana*; priests called *purohitas* are engaged to help him carry out the mantras and ritual components correctly. As already noted, a yajna has four principal officiants — Hotr, Adhvaryu, Udgatr, and Brahma — with further officiating priests, up to 16 in all, depending on the kind of yajna. Three sacred fires are principal in a yajna: Dakshina-agni, Garhapatya, and Ahavaniya.
 
-The first and most fundamental act in any yajna is establishing the sacred fire, either through the Agnyadheya rite or by transferring it from an already-consecrated fire. Fire is produced specifically by friction using two designated pieces of wood (Aranya) — only fire kindled this way may be used in a yajna; fire started by matches or other modern means is not proper. Maintaining this sacred fire involves numerous ancillary rites and mantras, and every element of a yajna proceeds strictly according to the Sutra-texts' prescribed rules.
+The first and most fundamental act in any yajna is establishing the sacred fire, either through the Agnyadheya rite or by transferring it from an already-consecrated fire. Fire is produced specifically by friction using two designated pieces of wood (Arani) — only fire kindled this way may be used in a yajna; fire started by matches or other modern means is not proper. Maintaining this sacred fire involves numerous ancillary rites and mantras, and every element of a yajna proceeds strictly according to the Sutra-texts' prescribed rules.
 
 Among yajnas, the Agnihotra, Darsha-Purnamasa, Soma, Chaturmasya, and Agnishtoma rites are the principal ones. "Darsha-Purnamasa" refers to the rites performed on the new-moon and full-moon days. The year's three seasonal divisions each begin with a rite called "Chaturmasya" (the four-monthly rite), itself with several sub-varieties. Soma-sacrifices likewise come in many distinct kinds, governed by particular rules concerning the relationship between the yajamana and the officiating priests from the initiation (Diksha) rite onward; a Soma-yaga may run for up to 12 days or, in its most elaborate form (the "Sattra"), for as long as a year.
 
@@ -1156,13 +1156,13 @@ Central to the Soma-yaga is the construction of the fire-altar (vedi) itself —
 
 ### Page 34
 
-**For the Rigveda:** two Shrautasutras exist — the Ashvalayana and the Sankhyayana. The Sankhyayana Shrautasutra is especially current in Gujarat and northern regions, while the Ashvalayana is more widespread in parts of South India. There is no especially significant difference in subject matter between the two, though the Sankhyayana treats rites such as the Ashvamedha and Rajasuya in greater detail. The Sankhyayana Sutra generally follows the Kaushitaki Brahmana; it has 18 parts, and its last two parts appear to be later additions, following material from the Kaushitaki Aranyaka specifically.
+**For the Rigveda:** two Shrautasutras exist — the Ashvalayana and the Sankhyayana. The Sankhyayana Shrautasutra is especially current in Gujarat and northern regions, while the Ashvalayana is current especially in the regions south of the Godavari river. There is no especially significant difference in subject matter between the two, though the Sankhyayana treats rites such as the Ashvamedha and Rajasuya in greater detail. The Sankhyayana Sutra generally follows the Kaushitaki Brahmana; it has 18 parts, and its last two parts appear to be later additions, following material from the Kaushitaki Aranyaka specifically.
 
 The Ashvalayana Shrautasutra has 12 parts and generally follows the Aitareya Brahmana. Some say the sage Ashvalayana was a disciple of Shaunaka and also the author of the fourth chapter of the Aitareya Aranyaka.
 
 **For Shukla Yajurveda:** the Katyayana Shrautasutra, in 25 chapters; the three chapters 22 to 24 relate to Samaveda matters, and the rest largely follows the Shatapatha Brahmana.
 
-**For Krishna Yajurveda:** eight Shrautasutras exist, of which only a few have been printed. The Baudhayana and Bharadvaja Shrautasutras are quite ancient. The Apastamba Shrautasutra (30 chapters) has the Hiranyakeshiya as its supplementary text; both follow the Taittiriya tradition. The Manava Shrautasutra, connected to the Maitrayani Samhita, is very ancient. The Vaikhanasa Shrautasutra remains unprinted, surviving only in scattered manuscripts.
+**For Krishna Yajurveda:** six Shrautasutras exist, of which only a few have been printed. The Baudhayana and Bharadvaja Shrautasutras are quite ancient. The Apastamba Shrautasutra (30 chapters) has the Hiranyakeshiya as its supplementary text; both follow the Taittiriya tradition. The Manava Shrautasutra, connected to the Maitrayani Samhita, is very ancient. The Vaikhanasa Shrautasutra remains unprinted, surviving only in scattered manuscripts.
 
 **For the Samaveda:** the Arsheya-kalpa (or Masaka-sutra), the Latyayana, Drahyayana, and Jaiminiya Shrautasutras, and the Samavidhana-Brahmana. Of these, the Masaka-, Latyayana, and Drahyayana Sutras are the principal ones in current circulation. The Masaka-sutra, the oldest of the three (also called "Arsheya-kalpa"), details the Soma-yaga rites described in the Panchavimsha Brahmana. The Latyayana Shrautasutra is the principal text for the Kauthuma shakha, following the Panchavimsha Brahmana; the Drahyayana is connected with the Ranayaniya shakha — the two do not differ significantly.
 
@@ -1172,41 +1172,41 @@ The Ashvalayana Shrautasutra has 12 parts and generally follows the Aitareya Bra
 
 These same authors composed further Sutra-texts as well — the Grihyasutras and the Samayacharika-sutras. Where the Shrautasutras belong to the Shruti tradition, these are *Smartasutras* (belonging to Smriti). The Grihyasutras set out the rules a householder should follow in family and domestic life, along with the customary practices expected of each person in society — hence also called Dharmasutras. Later works such as the Manusmriti and Yajnavalkya-smriti drew on these.
 
-The Ashvalayana Grihyasutra has four chapters, each divided into further sections (Kandikas). Among its subjects: the Pakayajna, Balikarana, and the daily duties of a twice-born person — Chaula (tonsure), Upanayana (sacred-thread initiation), and other rites of passage, sixteen in number altogether. These rites are far simpler than the Shrauta rites, needing little preparation or material — reflecting the underlying principle that a person's own personal rites should be performed modestly, according to means, without excess or ostentation.
+The Ashvalayana Grihyasutra has four chapters, each divided into further sections (Kandikas). Among its subjects: the Pakayajna, Balikarana, and the daily duties of a twice-born person — Chaula (tonsure), Upanayana (sacred-thread initiation), and other rites of passage, sixteen in number altogether. These rites are far simpler than the Shrauta rites, needing little preparation or material — the aim of performing these rites appearing to be that the purpose of every act a person does should not be worldly gain alone, but that there should be fruit in the world beyond, with the touch of sin and merit.
 
 **For the Rigveda:** two Grihyasutras — Ashvalayana and Sankhyayana. The Sankhyayana Grihyasutra (6 parts) generally follows the Kaushitaki Brahmana; related to it is the Shambhavya Grihyasutra, covering some distinct matters, though unprinted and surviving only in manuscript. The Ashvalayana Grihyasutra is closely tied to the Aitareya Brahmana and is described as the latter portion of the Ashvalayana Shrautasutra, in 4 adhyayas, with 24, 10, 12 and 2 sections called "Kandikas" respectively.
 
-**For Shukla Yajurveda:** the Parasvata (also called Kashyapa or Vajasaneya) Grihyasutra, largely following the Katyayana Shrautasutra's subject matter; its influence is visible in the Yajnavalkya Dharmasutra as well.
+**For Shukla Yajurveda:** the Paraskara (also called Kathiya or Vajasaneya) Grihyasutra, largely following the Katyayana Shrautasutra's subject matter; its influence is visible in the Yajnavalkya Dharmasutra as well.
 
-**For Krishna Yajurveda:** eight Grihyasutras, of which only 3–4 are printed. The Apastamba and Baudhayana Grihyasutras are especially popular in South India; the Hiranyakeshiya Kalpasutra closely follows Apastamba. The Bharadvaja Grihyasutra is not widely used. The Manava Grihyasutra mainly expounds subjects from its corresponding Shrautasutra and uniquely describes the Vinayaka-puja procedure, absent from other sutras. The later Karaka-Grihyasutra follows the Manava Grihyasutra, quoting many of its passages directly.
+**For Krishna Yajurveda:** seven Grihyasutras, of which only 3–4 are printed. The Apastamba and Baudhayana Grihyasutras are especially popular in South India; the Hiranyakeshiya Kalpasutra closely follows Apastamba. The Bharadvaja Grihyasutra is not widely used. The Manava Grihyasutra mainly expounds subjects from its corresponding Shrautasutra and uniquely describes the Vinayaka-puja procedure, absent from other sutras. The later Kathaka-Grihyasutra follows the Manava Grihyasutra, quoting many of its passages directly.
 
 ### Page 36
 
-The Vaikhanasa Grihyasutra, though ancient, discusses many distinctive subjects of its own.
+The Vaikhanasa Grihyasutra, though not especially ancient, sets out many new subjects.
 
-**For the Samaveda:** the principal Grihyasutra is the Gobhila Grihyasutra, unusually thorough and complete in its treatment. It follows mantras drawn from the Samaveda Samhita used specifically in domestic rites, in their traditional compiled order — a companion "Mantra-brahmana" gathers, in one place, exactly those domestic-rite mantras not found in the Rigveda, and is cited repeatedly within the Gobhila-sutra. Also notable is the Khadira Grihyasutra of the Drahyayana shakha, also used by the Ranayaniya and other shakhas, with no significant difference in content from the Gobhila-sutra.
+**For the Samaveda:** the principal Grihyasutra is the Gobhila Grihyasutra, very ancient, and sets out its subjects well and completely. It follows mantras drawn from the Samaveda Samhita used specifically in domestic rites, in their traditional compiled order — a companion "Mantra-brahmana" gathers, selected from the Rigveda and other Vedas and put together in one place in an order, the mantras needed for domestic rites that are not found in the Samaveda, and is cited repeatedly within the Gobhila-sutra. Also notable is the Khadira Grihyasutra of the Drahyayana shakha, also used by the Ranayaniya and other shakhas, with no significant difference in content from the Gobhila-sutra.
 
 **For the Atharvaveda:** the Kaushika Grihyasutra, which uniquely details the Atharvaveda's kamya-karmas (rites performed for specific desired outcomes) — a level of detail no other sutra provides, making this text especially valuable for understanding the social life of the Vedic era.
 
 ### The Sixteen Samskaras
 
-From birth to death, a twice-born person undergoes numerous prescribed rites — around 40 in all — of which the principal ones are known as the Shodasha-samskaras, that is, the 16 samskaras. The chief among them: Jatakarma, Namakarana, Chudakarma, Upanayana, Vivaha, Garbhadhana, Simantonnayana, and the Antyeshti (funeral rites).
+From birth to death, a twice-born person undergoes numerous prescribed rites — around 40 in all — of which the principal ones are known as the Shodasha-samskaras, that is, the 16 samskaras. The chief among them: Jatakarma, Namakarana, Chudakarma, Upanayana, Vivaha, Garbhadhana, Simanta, the Pancha-yajnas, and the Antyeshti (funeral rites).
 
-**Jatakarma:** the rites performed immediately after birth, before the umbilical cord is cut.
+**Jatakarma:** the rite to be performed soon after the birth of the child, that is, as soon as the birth-impurity (jatashauca) is over.
 
-**Namakarana:** the naming ceremony, in which parents give the child both a chosen name and one based on the birth star (nakshatra), usually performed on the tenth day after birth. Naming convention prescribes that a Brahmin's name end in "-sharma," a Kshatriya's in "-varma," and a Vaishya's in "-gupta."
+**Namakarana:** the naming ceremony, in which parents give the child both a chosen name and one based on the birth star (nakshatra), usually performed on the eleventh day after birth. Naming convention prescribes that a Brahmin's name end in "-sharma," a Kshatriya's in "-varma," and a Vaishya's in "-gupta."
 
-**Chudakarma:** the first tonsure, ordinarily performed within the child's third year, timing varying by family tradition.
+**Chudakarma:** the first tonsure, ordinarily performed within the child's third year, the hair being cut by rule and a tuft (shikha) left according to custom.
 
 **Upanayana:** among the most important rites for a twice-born person — it is from this rite that one gains the authority (adhikara) to study the Vedas. The boy is dressed appropriately, invested with the sacred thread (yajnopavita), and taught the sacred Gayatri (Savitri) mantra by his guru. This rite is also called a "second birth" — hence Brahmins, Kshatriyas, and Vaishyas, once they undergo it, are called "dvija" (twice-born).
 
 ### Page 37
 
-This rite is prescribed for a Brahmin boy in his eighth year, a Kshatriya boy in his eleventh, and a Vaishya boy in his twelfth. Afterward, the boy either remains a lifelong celibate student (Naishthika-brahmachari) or lives in his guru's household, subsisting by begging alms and devoting himself continuously to Vedic study — performing the morning and evening twilight (sandhya) rites daily, living on alms alone, sleeping on the ground, speaking only when necessary, and acting according to the guru's instruction at all times. This entire way of life is called the Brahmacharya-ashrama; while some undertake it for life, most move on to the next life-stage once its prescribed period concludes — completing Vedic study, mastering other branches of learning, and, upon completing the Samavartana rite (marking the end of studentship) and proving themselves worthy, becoming eligible for marriage (vivaha).
+This rite is prescribed for a Brahmin boy in his eighth year, a Kshatriya boy in his eleventh, and a Vaishya boy in his twelfth. Afterward, the boy, or brahmachari, serves his guru, subsisting by begging alms and devoting himself continuously to Vedic study — performing the morning and evening twilight (sandhya) rites daily, living on alms alone, sleeping on the ground, not sleeping by day, and acting according to the guru's instruction at all times. This entire way of life is called the Brahmacharya-ashrama, the first of the four ashramas; one may not pass to the later ashramas without keeping its rules. Having studied the Veda in it for twelve years, finishing other studies, and, upon completing the Samavartana rite (marking the end of studentship) and proving themselves worthy, becoming eligible for marriage (vivaha).
 
-The marriage rite includes several significant elements: Panigrahana (taking the bride's hand), circumambulation of the fire, Saptapadi (seven steps taken together), and the viewing of the pole star and the star Arundhati, among others — the Rigveda's Surya-sukta (Mandala 10, Sukta 84 [as printed]) supplies the mantras specifically used in marriage. Panigrahana signifies that the couple are no longer to be separated. Having the bride step on a stone (Ashmarohana) signifies she should remain as steadfast as that stone. The Saptapadi — seven steps taken together — signifies that from that point on, the couple will share equally in life's joys and sorrows. The Lajahoma is the bride's fire-offering of puffed rice. Provision for a widow's remarriage is indicated where circumstances allow. In the Dhruva-darshana, the couple view the fire and then the pole star; in the Arundhati-darshana, the bride views and venerates the star Arundhati — signifying that, following the example of the sage Vasishtha's devoted wife Arundhati, she should conduct herself as a virtuous wife who raises worthy children and manages the household well. Since these marriage customs have changed little since Vedic times, much the same practices continue even today. Through marriage, a man enters the householder stage (Grihastashrama) — regarded as foremost among the four life-stages, since it alone makes possible the fulfillment of all four aims of human life (purushartha).
+The marriage rite includes several significant elements: Panigrahana (taking the bride's hand), circumambulation of the fire, Saptapadi (seven steps taken together), and the viewing of the pole star and the star Arundhati, among others — the Rigveda's Surya-sukta (Mandala 10, Sukta 84) supplies the mantras specifically used in marriage. Panigrahana signifies that the couple are no longer to be separated. Having the bride step on a stone (Ashmarohana) signifies she should remain as steadfast as that stone. The Saptapadi — seven steps taken together — signifies that from that point on, the couple will share equally in life's joys and sorrows. Parinaya is the couple's walking round the fire together three times. Aupasana is to be performed by the couple morning and evening for life, the fire established at the marriage being kept at all times for the Aupasana; hence the fire is also called Grihapati. The viewing of the pole star and of Arundhati signifies that the couple should live together lovingly and inseparably, or that, as Arundhati, wife of the sage Vasishtha, was devoted to her husband, the bride should be a devoted wife, serve her husband, bear ten sons and live happily. Since these marriage customs have changed little since Vedic times, much the same practices continue even today. Through marriage, a man enters the householder stage (Grihastashrama) — regarded as foremost among the four life-stages, since it alone makes possible the fulfillment of all four aims of human life (purushartha).
 
-Beyond these life-cycle rites, a householder has ongoing daily duties, among which the **Panchamahayajnas** (five great sacrifices) are most important. The Taittiriya Aranyaka (Krishna Yajurveda), Prapathaka 1, Anuvaka 2, states:
+Beyond these life-cycle rites, a householder has ongoing daily duties, among which the **Panchamahayajnas** (five great sacrifices) are most important. The Taittiriya Aranyaka (Krishna Yajurveda), Prapathaka 2, Anuvaka 10, states:
 
 > पञ्च वा एते महायज्ञाः सततं प्रतायन्ते सततं संतिष्ठन्ते देवयज्ञः पितृयज्ञो भूतयज्ञो मनुष्ययज्ञो ब्रह्मयज्ञ इति ।
 >
@@ -1220,9 +1220,9 @@ Beyond these life-cycle rites, a householder has ongoing daily duties, among whi
 
 That is: Devayajna, Pitriyajna, Bhutayajna, Manushyayajna, and Brahmayajna together make up the Panchamahayajna. These must be performed daily, begun and completed within the same day. The Taittiriya Aranyaka details each:
 
-> यदग्नौ जुहोति तद्देवयज्ञः संतिष्ठते, यत्पितृभ्यः स्वधा करोति तत्पितृयज्ञः संतिष्ठते, यद्भूतेभ्यो बलिं हरति तद्भूतयज्ञः संतिष्ठते, यद्ब्राह्मणेभ्योऽन्नं ददाति तन्मनुष्ययज्ञः संतिष्ठते, यत्स्वाध्यायमधीयीतैकामप्यृचं यजुः साम वा तद्ब्रह्मयज्ञः संतिष्ठते ॥
+> यदग्नौ जुहोत्यपि समिधं तद्देवयज्ञः संतिष्ठते, यत्पितृभ्यः स्वधा करोत्यप्यपस्तत्पितृयज्ञः संतिष्ठते, यद्भूतेभ्यो बलिं हरति तद्भूतयज्ञः संतिष्ठते, यद्ब्राह्मणेभ्योऽन्नं ददाति तन्मनुष्ययज्ञः संतिष्ठते, यत्स्वाध्यायमधीयीतैकामप्यृचं यजुः साम वा तद्ब्रह्मयज्ञः संतिष्ठते ॥
 >
-> "Offering into the fire constitutes the sacrifice to the gods. Offering 'svadha' to the ancestors constitutes the sacrifice to the ancestors. Giving 'bali' (a food-offering) to [all] beings constitutes the sacrifice to beings. Giving food to fellow humans constitutes the sacrifice to humankind. Reciting even a single verse of the Rig, Yajus, or Sama constitutes the sacrifice of sacred study."
+> "Offering even a samidh into the fire constitutes the sacrifice to the gods. Offering 'svadha' with even water to the ancestors constitutes the sacrifice to the ancestors. Giving 'bali' (a food-offering) to [all] beings constitutes the sacrifice to beings. Giving food to fellow humans constitutes the sacrifice to humankind. Reciting even a single verse of the Rig, Yajus, or Sama constitutes the sacrifice of sacred study."
 
 **Devayajna:** offering the Purodasha and other oblations into the fire with a simple homa, worshipping the intended deity — complete in a single such offering, requiring no elaborate effort.
 
@@ -1232,17 +1232,17 @@ That is: Devayajna, Pitriyajna, Bhutayajna, Manushyayajna, and Brahmayajna toget
 
 **Manushyayajna:** giving food and other necessities, honestly earned, to Brahmins, guests, and people generally.
 
-**Brahmayajna:** studying one's own Vedic shakha — or, having done so, studying one of the other Vedas as well. Its detailed procedure is described earlier in the text and will be revisited later in this book.
+**Brahmayajna:** studying one's own Vedic shakha — or, having done so, studying one of the other Vedas as well. Its manner of performance is described in detail in the following eleventh Anuvaka; for fear of length it is not described here, and will be described later as occasion arises.
 
 Those devoted to their duties perform these five great sacrifices daily even now.
 
-Turning to practical customs: **Garbhadhana** is the rite performed to properly solemnize conception after a wife reaches fertility (also called "Nishekaprashasti"). Some hold it should be performed within a certain number of nights...
+Turning to practical customs: **Garbhadhana** is the rite performed to properly solemnize conception after a wife reaches fertility (also called "Nishekaprashasti"). Simanta is the rite to be performed for the wife in the sixth or eighth month of her first pregnancy.
 
 ### Page 39
 
-...following menses, alongside the other periodic (Panchamahayajna-related) rites — the new-moon, full-moon, and seasonal yajnas that a householder must perform. Optional (kamya) rites, such as the Soma sacrifice, may be undertaken as opportunity allows, with no strict obligation.
+Besides the Panchamahayajnas described above, the householder must perform yajnas such as the Darsha-Purnamasa on the parva-days, the new-moon and full-moon days. Optional (kamya) rites and other yajnas such as the Soma may be undertaken when opportunity offers; there is no rule that they must be done.
 
-**Antyeshti:** after death, the rites performed on behalf of the departed — cremation (Dahana), gathering of the remains (Sanchayana), and further rites (Ekoddishta, Sapindikarana, Parvana-shraddha, Masika-shraddha, the annual Pitrimedha, and others) continuing for a fixed period and recurring yearly thereafter. These funeral (Shraddha) rites are distinct from the daily Pitriyajna discussed earlier, and are treated in great detail both in the Grihyasutras and in dedicated works such as the Hiranyakeshiya-Shraddhakalpa — not elaborated further here.
+**Antyeshti:** after death, the rites performed on behalf of the departed — cremation (Dahana), gathering of the remains (Sanchayana), the daily rite (Nityakarma), and further rites (Ekoddishta, Sapindikarana, Parvana-shraddha, Masika-shraddha, the annual Pitrimedha, and others) performed during the twelve days from the day of death and recurring yearly thereafter. These funeral (Shraddha) rites are distinct from the daily Pitriyajna discussed earlier, and are treated in great detail both in the Grihyasutras and in dedicated works such as the great work of Hemadri, the Shraddhakalpa — not elaborated further here.
 
 The subjects of the Grihyasutras have now been surveyed. While the overall pattern of these rites is broadly shared across all Vedas and shakhas, considerable variation exists in specific procedure and mantra.
 
@@ -1256,27 +1256,27 @@ Tradition holds each Veda or shakha once had its own Dharmasutra, though only th
 
 in its treatment of subject matter; it too remains current in South India. Sayanacharya himself, the celebrated Veda-commentator, belonged to the Baudhayana tradition. The sutra's later portion is thought to be a later addition rather than part of the original text.
 
-Among these Dharmasutras is also the **Gautama-Dharmashastra**, traditionally linked to the Samaveda's Ranayaniya shakha — its ninth chapter closely follows the Samavidhana-Brahmana, supporting this connection, though its antiquity makes it hard to date with real confidence; it is provisionally placed around 800 BCE.
+Among these Dharmasutras is also the **Gautama-Dharmashastra**, traditionally linked to the Samaveda's Ranayaniya shakha — its twenty-sixth chapter follows the Samavidhana-Brahmana word for word, supporting this connection, though its antiquity makes it hard to date with real confidence; its date is said to be not later than 500 BCE.
 
-The **Vasishtha-Dharmashastra**, in 30 chapters, survives in error-ridden manuscripts with no reliable commentary; its later chapters seem to have a different origin than the earlier ones, and its middle portion includes verse material. It appears ancient, describes two distinct marriage procedures (per Apastamba's references to it), and is still studied by certain Rigveda-adherents today who claim it as their own — though it draws on other texts as authoritative in turn. Since northern Indian scholars relied on it for Vedic custom, it likely gained wider currency in the north; and since it quotes the Gautama-sutra while the Manava-Dharmashastra quotes it in turn, it is dated between the two — a few centuries BCE — though evidently followed by northern Rigvedins even earlier.
+The **Vasishtha-Dharmashastra**, in 30 chapters, survives in error-ridden manuscripts with no reliable commentary; its later chapters seem to have a different origin than the earlier ones, and its middle portion includes verse material. It appears ancient and, as in the Apastamba-sutra, describes six kinds of marriage, not eight as at present; Kumarila Bhatta says in his work that the Rigveda schools studied it well and followed it, and he quotes many parts of it as authority. Since northern Indian scholars relied on it for Vedic custom, it likely gained wider currency in the north; and since it quotes the Gautama-sutra while the Manava-Dharmashastra quotes it in turn, it is dated between the two — a few centuries BCE — though evidently followed by northern Rigvedins even earlier.
 
-Beyond these, several other Dharmasutras are known only by citation in other texts. The **Manava-sutra** is notable among these, mixing prose and verse; some of its sentences are quoted elsewhere. A prose-verse Dharmashastra by certain scholars (surname reading approximately "Shambavi") survives similarly only in scattered citations, evidently once a substantial work, since it treated many subjects — later authors such as Parashara
+Beyond these, several other Dharmasutras are known only by citation in other texts. The **Manava-sutra** is notable among these, mixing prose and verse; some of its sentences are quoted elsewhere. A prose-verse Dharmashastra by the brothers Shankha and Likhita survives similarly only in scattered citations, evidently once a substantial work, since it treated many subjects — later authors such as Parashara
 
 ### Page 41
 
-cited many of its statements as authoritative. This text is thought connected to the Vajasaneya Samhita of Shukla Yajurveda, and is associated with Kumarila Bhatta (c. 700 CE), a conclusion supported by numerous corresponding passages.
+cited many of its statements as authoritative. This text belongs to the Vajasaneya Samhita of Shukla Yajurveda, as Kumarila Bhatta (c. 700 CE) says; this is confirmed by many sentences in it.
 
 **The Vaikhanasa Dharmasutra** is not very ancient. Its four-part Prashna section discusses matters connected to Narayana/Vishnu, alongside Varnashrama-dharma and the duties of the Vanaprastha stage, as in a Grihyasutra; it belongs to the Taittiriya tradition.
 
 ### Shulbasutras
 
-These describe the construction of yajna-altars and are thus tied to the Shrautasutras. Only three survive: the **Apastamba, Baudhayana,** and **Katyayana Shulbasutras** — all connected to the Yajurveda; no equivalent texts are known for the other Vedas. The Apastamba Shulbasutra has three commentaries (Kapardi-bhashya, the oldest, in 6 patalas/26 khandas; Sundararaja's; and Karavindiya's) and has been printed in the Benares Sanskrit Series. The Baudhayana and Katyayana Shulbasutras have been translated into English with diagrams and printed in Calcutta, with commentaries by Dvarakanathayajvan (on Baudhayana) and by Someshvara's extensive *Somasudramanchandrika* (on Katyayana). These texts describe, in painstaking detail, the construction of the fire-pit and ritual implements, their use, and the precise dimensions required for the brick-built altar in the Agni-chayana rite — an established and carefully followed ancient custom. The Shulbasutras are considered the foundational source of the discipline of geometry/architecture (shilpa-shastra).
+These describe the construction of yajna-altars and are thus tied to the Shrautasutras. Only three survive: the **Apastamba, Baudhayana,** and **Katyayana Shulbasutras** — all connected to the Yajurveda; no equivalent texts are known for the other Vedas. The Apastamba Shulbasutra has three commentaries (Kapardi-bhashya, the oldest, in 6 patalas/26 khandas; Sundararaja's; and Karavindiya's) and has been printed as No. 79 in the series of the Mysore Oriental Library. The Baudhayana and Katyayana Shulbasutras have been translated into English with diagrams and printed at Kashi (Benares), with commentaries by Dvarakanathayajvan (on Baudhayana) and by Someshvara's extensive *Somasudramanchandrika* (on Katyayana). These texts describe, in painstaking detail, the construction of the fire-pit and ritual implements, their use, and the precise dimensions required for the brick-built altar in the Agni-chayana rite — an established and carefully followed ancient custom. The Shulbasutras are considered the foundational source of the discipline of geometry/architecture (shilpa-shastra).
 
 ### Parishishtas (Supplements)
 
 A few further Veda-related texts from this same era belong here: the Parishishta-sutras, the Anukramanikas, and the Charanavyuhas.
 
-The Parishishta-sutras are generally composed, like the earlier Sutra-texts, in a compact style (in the Anushtubh meter), on Vedic subjects, though in a comparatively later style of composition. They fill in matters left incomplete in the Vedanga-related Kalpa-sutras — 
+The Parishishta-sutras are generally not as compact as the earlier Sutra-texts; they are written in the Anushtubh meter, on Vedic subjects, though in a comparatively later style of composition. They fill in matters left incomplete in the Vedanga-related Kalpa-sutras — 
 
 ### Page 42
 
@@ -1284,11 +1284,11 @@ which, being composed concisely, left many such points untreated or barely touch
 
 Among the Parishishtas, the **Ashvalayana-Grihya-Parishishta** (4 chapters, all Rigveda-related) is important. The **Gobhila-Sangraha-Parishishta** is its Samaveda counterpart, covering domestic and especially kamya-karma rites. Related to it is the **Karma-pradipa** (also called Samagrihya, Chandogagrihya-Parishishta, or Gobhila-smriti), attributed either to Katyayana or to a Gobhila-follower, covering subjects that overlap with the main Grihyasutras plus additional material.
 
-Katyayana, connected to Shukla Yajurveda, composed several further Parishishtas — three worth noting: one detailing sacred symbols; one (the "Svaradhyaya") giving the gotra-pravaras and genealogies of the rishis, useful for determining gotra in marriage matters; and the Charanavyuha, listing the names of the shakhas.
+Katyayana, connected to Shukla Yajurveda, composed several further Parishishtas — three worth noting: the Nigama-parishishta, explaining words; the Pravaradhyaya, giving the gotra-pravaras and genealogies of the rishis, useful for determining gotra in marriage matters; and the Charanavyuha, listing the names of the shakhas.
 
 ### Anukramanikas (Indices)
 
-An "Anukramanika" is a systematic index of the mantras, words, and other elements occurring in a text, in their original sequence. The Rigveda's Anukramanikas list its suktas, rishis, meters, deities, and other details in the order they occur in the Samhita. About 8 such indices exist for the Rigveda, all attributed to Shaunaka; similar information also appears within the Rigveda's own Pratishakhya texts. The best known is Katyayana's **Sarvanukramanika**, covering every sukta's order along with rishi, deity, and meter, tied to the exposition of Vedartha; its closing section states it was composed ahead of six other, now-lost, Anukramani-type works, and it has since become the standard reference, superseding the others.
+An "Anukramanika" is a systematic index of the mantras, words, and other elements occurring in a text, in their original sequence. The Rigveda's Anukramanikas list its suktas, rishis, meters, deities, and other details in the order they occur in the Samhita. About 7 such indices exist for the Rigveda, all attributed to Shaunaka; similar information also appears within the Rigveda's own Pratishakhya texts. The best known is Katyayana's **Sarvanukramanika**, covering every sukta's order along with rishi, deity, and meter, tied to the exposition of Vedartha; its commentary, the Vedarthadipika, written by Shadgurushishya, says that before the Sarvanukramani there was a separate anukramanika for the mantras, the rishis and the deities, now lost, said to be Shaunaka's; Katyayana must have composed his work taking these in.
 
 There is also, for the Rigveda, the **Arsha-Anukramani** (about 300 shlokas), listing which rishi composed which mantra. Similarly, the **Chandonukramani**...
 
@@ -1296,21 +1296,21 @@ There is also, for the Rigveda, the **Arsha-Anukramani** (about 300 shlokas), li
 
 ...(about 300 shlokas) gives the names of the meters of the Rigveda, how many mantras of each meter there are in each Mandala, and how many in the whole Samhita; of the Chandonukramanis only 5 texts are now available. The Anuvakanukramani has only about 40 shlokas. It gives the opening words of the Rigveda's 85 Anuvakas and the number of suktas in those Anuvakas, and states the Rigveda's total as 1,017 suktas, or 1,025 suktas according to the Bashkala shakha, 10580 mantras (the mantra count given here is not correct), 153826 words and 432000 syllables, along with some other details.
 
-The **Padanukramani** catalogs the Veda's individual words; the **Suktanukramani** would detail the suktas themselves, though this text does not appear to survive. The **Devatanukramani** lists the deity names, but only partially survives. Sage Shaunaka is also credited with the **Brihaddevata** and the **Rigvidhana**. The Brihaddevata (1200 shlokas across 8 chapters) explains at length which deities belong to which sukta and the etymology of individual words; the Rigvidhana explains the practical ritual application of the Rigveda's mantras. Both are extremely ancient — suggesting that even while the Rigveda Samhita was still taking its final shape, its practical use and application were already evolving in various directions.
+The **Padanukramani** catalogs the Veda's individual words; the **Suktanukramani** would detail the suktas themselves, though this text does not appear to survive. The **Devatanukramani** lists the deity names, but only partially survives. Sage Shaunaka is also credited with the **Brihaddevata** and the **Rigvidhana**. The Brihaddevata (1200 shlokas across 8 chapters) explains at length which deities belong to which sukta each chapter explaining one Ashtaka of the Rigveda; the Rigvidhana explains the practical ritual application of the Rigveda's mantras. Both are extremely ancient — and the Rigveda Samhita was arranged as it now stands in their time and has remained unchanged since then, without the slightest alteration.
 
 For Shukla Yajurveda's Madhyandina branch, Katyayana composed an Anukramanika broadly following the Rigveda's Sarvanukramani in covering rishi, deity, and meter (with some differences), and separately describing the Samhita's meters, based on the Rigveda's own model.
 
-For Krishna Yajurveda, three Anukramanikas exist. The Atreya-shakha's has three parts (part one in prose, part two in verse), mostly just listing the Samhita's names without much further elaboration. The later **Charanavyuhanukramani** lists rishis and mantras in sequence but differs considerably from the Rigveda's own Sarvanukramani and contains many unfamiliar names; it is said to have been composed by an ascetic named (approximately) Lomagashti for his disciples.
+For Krishna Yajurveda, two Anukramanikas exist. The Atreyanukramani has two parts (part one in prose, part two in verse); it gives the names found in the Samhita, without much further detail. The **Charayaniyanukramani** belongs to the Kathaka shakha and gives the names of rishis and the sequence of mantras; with regard to the Rigveda mantras it differs in many places from the Rigveda's Sarvanukramani and indicates many new names; it is said to have been composed by the sage Atri and taught to a disciple named Laugakshi.
 
 For the Samaveda, the **Arsha** and **Daivata** Anukramanikas list rishis and deities respectively, following the Samaveda's
 
 ### Page 44
 
-Saingiya-shakha tradition. Across these various indices, the names of Yaska, Shaunaka, Ashvalayana, and other sages, along with citations from their works, appear at many points.
+Naigeya-shakha tradition. Across these various indices, the names of Yaska, Shaunaka, Ashvalayana, and other sages, along with citations from their works, appear at many points.
 
 Connected to the Atharvaveda's Parishishtas is one called the **Charanavyuha**. More than 70 Parishishtas exist for the Atharvaveda in total, this being one of them; it states that the Atharvaveda contains 2,000 suktas and 12380 mantras.
 
-**Prayoga and Paddhati texts:** beyond understanding ritual procedure in the abstract, separate practical manuals were composed to make actual performance convenient for ritual specialists — of great help to those handling Shrauta and Grihya rites. A **Prayoga** text lays out, step by step, exactly which act comes first and which follows, together with the specific mantra each officiant uses at each stage — invaluable to the ritvijas actually conducting the rite. A **Paddhati** gathers together, in one place, everything the Sutras say on a given ritual topic. Both genres are the work of later authors building on the older Sutras and their methods, typically composed in verse. Kumarila Bhatta (c. 700 CE) is the earliest known author in this genre.
+**Prayoga and Paddhati texts:** beyond understanding ritual procedure in the abstract, separate practical manuals were composed to make actual performance convenient for ritual specialists — of great help to those handling Shrauta and Grihya rites. A **Prayoga** text lays out, step by step, exactly which act comes first and which follows, together with the specific mantra each officiant uses at each stage — invaluable to the ritvijas actually conducting the rite. A **Paddhati** gathers together, in one place, everything the Sutras say on a given ritual topic. Besides these there are also works called Karikas, written following the Sutras and the Paddhatis, which describe the rites in verse. Of these Karikas, the one written by Kumarila Bhatta (c. 700 CE) is the first.
 
 ---
 
@@ -1318,12 +1318,12 @@ Connected to the Atharvaveda's Parishishtas is one called the **Charanavyuha**. 
 
 The previous chapter raised the question of how the Veda came to be divided into so many shakhas, and why. The Veda was originally a single, unified body of text. Consider first whether it would even be feasible for one person to study it in that undivided form: by ordinary human capacity, attempting to study it exactly as it originally existed would make serious Vedic study nearly impossible — and recognizing this is itself the reason behind its division:
 
-> पूर्वं भगवता कृष्णद्वैपायनेन जगदुपकारार्थम् एकीभूतस्य तस्य वेदस्य व्यस्तम् ।
+> पूर्वं भगवता कृष्णद्वैपायनेन जगदुपकारार्थमेकीभूयस्थिता वेदा व्यस्ताः ।
 >
-> पूर्वं भगवता कृष्ण-द्वैपायनेन जगद्-उपकारार्थम् एकी-भूतस्य तस्य वेदस्य व्यस्तम्
-> *pūrvaṃ bhagavatā kṛṣṇa-dvaipāyanena jagad-upakārārtham ekī-bhūtasya tasya vedasya vyastam*
+> पूर्वं भगवता कृष्ण-द्वैपायनेन जगदुपकारार्थमेकीभूयस्थिता वेदा व्यस्ताः
+> *pūrvaṃ bhagavatā kṛṣṇa-dvaipāyanena jagadupakārārthamekībhūyasthitā vedā vyastāḥ*
 >
-> "Formerly, by the venerable Krishna-Dvaipayana [Vyasa], for the benefit of the world, this Veda — which had been one unified whole — was divided."
+> "Formerly, by the venerable Krishna-Dvaipayana [Vyasa], for the benefit of the world, the Vedas, which stood as one, were divided."
 
 > सकलवेदपरिपालनं तैश्चैव पुरुषेणेति शाखाभेदप्रवृत्तिः ।
 >
@@ -1341,9 +1341,9 @@ That is: Vyasa, having mastered the whole Veda himself, divided it and taught it
 
 All four Vedas originally had numerous shakhas; only a handful survive in practice now, and some are known only by name. The Rigveda has 21 shakhas, of which the Ashvalayana, Sankhyayana and some others are well known. The Yajurveda first splits into Shukla and Krishna; Shukla Yajurveda has 15 shakhas, of which only two, Kanva and Madhyandina, are prominent, and Krishna Yajurveda 86, of which a few, such as Apastamba, are in use. Of the Samaveda's 1000 shakhas very few are found today, and of these only Kauthuma is in currency. The Atharvaveda has nine shakhas, of which Shaunaka is well known. These are all Samhita-portions.
 
-Brahmana-portions are believed to have once existed for many of these shakhas too, though only a few survive: for the Rigveda, the Aitareya and Kaushitaki; for the Yajurveda, the Shatapatha, Taittiriya, Maitrayaniya, and Kathaka; for the Samaveda, the Tandya, Shadvimsha, and Jaiminiya; and for the Atharvaveda, the Gopatha Brahmana.
+Brahmana-portions are believed to have once existed for many of these shakhas too, though only a few survive: for the Rigveda, the Aitareya and Kaushitaki; for the Yajurveda, the Shatapatha and Taittiriya; for the Samaveda, the Tandya, Shadvimsha and others; and for the Atharvaveda, the Gopatha Brahmana.
 
-Shakhas do not differ significantly in antiquity, but do show some variation in matters of pronunciation and recitation sequence — for instance, the Shakala-shakha recites certain suktas (such as ones connected to Gotama and a Kshatriya rishi) in a particular order that the Bashkala-shakha omits or handles differently, and the Ashvalayana followers are thought not to include certain Khila-suktas that the Bashkala tradition does. Such differences are essentially a matter of textual lineage rather than substance.
+Shakhas do not differ significantly in antiquity, but do show some variation in matters of pronunciation and recitation sequence — for instance, the Shakala-shakha recites the suktas seen by Gotama, Kutsa, Kashyapa and Kakshivat in a different order: after the hymn seen by Gotama they recite those seen by Kutsa and Kashyapa and then the hymn seen by Kakshivat, whereas the Bashkalas recite Gotama, Kakshivat and then Kutsa, and the Ashvalayana followers are thought not to include certain Khila-suktas that the Bashkala tradition does. Such differences are essentially a matter of textual lineage rather than substance.
 
 The text here gives the "Sankhyayana Samhita Krama" (सांख्यायनसंहिताक्रमः) — a short reference table showing where key suktas begin and end within the Sankhyayana sequence, by opening/closing words and Mandala-Sukta-Mantra reference:
 
@@ -1364,7 +1364,7 @@ The "Bashkala Samhita Krama" (बाष्कलसंहिताक्रम�
 |---|---|---|---|---|---|
 | मधुच्छन्दा वैश्वामित्रः *(Madhuchchandā Vaiśvāmitraḥ)* | अग्निमीळे *(agnimīḷe)* | 1-1-1 | श्रुष्टिमंतं *(śruṣṭimaṃtaṃ)* | 1-93-12 | गोतमो राहूगणः *(Gotamo Rāhūgaṇaḥ)* |
 | कक्षीर्वा [as printed] औशिजः *(Kakṣīrvā [as printed] Auśijaḥ)* | नासत्याभ्यां *(nāsatyābhyāṃ)* | 1-116-1 | जुषध्वं *(juṣadhvaṃ)* | 1-139-11 | परुच्छेपो दैवोदासिः *(Parucchepo Daivodāsiḥ)* |
-| कुत्स आंगिरसः *(Kutsa Āṅgirasaḥ)* | इमंस्तोम *(imaṃstoma)* | 1-94-1 | उतद्याः *(utadyāḥ)* | 1-115-6 | कुत्स आंगिरसः |
+| कुत्स आंगिरसः *(Kutsa Āṅgirasaḥ)* | इमंस्तोम *(imaṃstoma)* | 1-94-1 | उतद्यौः *(utadyauḥ)* | 1-115-6 | कुत्स आंगिरसः |
 | दीर्घतमा औचथ्यः *(Dīrghatamā Aucathyaḥ)* | वेदिषदेप्रिय *(vediṣadepriya)* | 1-140-1 | हरिश्रियं *(hariśriyaṃ)* | 8-50-10 | पुष्टिगुः काण्वः *(Puṣṭiguḥ Kāṇvaḥ)* |
 | भर्गः प्रागाथः *(Bhargaḥ Prāgāthaḥ)* | अग्न आयाह्य *(agna āyāhya)* | 8-60-1 | सोमस्यपीतये *(somasyapītaye)* | 8-94-12 | बिन्दुरांगिरसः *(Bindur-āṅgirasaḥ)* |
 | श्रुष्टिगुः काण्वः *(Śruṣṭiguḥ Kāṇvaḥ)* | यथामनौ *(yathāmanau)* | 8-51-1 | जनसंनशे *(janasaṃnaśe)* | 8-55-5 | कृशः काण्वः *(Kṛśaḥ Kāṇvaḥ)* |
@@ -1408,7 +1408,7 @@ The source gives, in full, the opening of this supplementary hymn (five verses s
 
 ### Acharya Shaila
 
-Among the many disciples who studied under the sage Vyasa, two taught the Rigveda onward; one of them was named Shaila. Per Panini's grammar (2-4-5), his mother's name was Vila and his father's Shila, from which "Shaila" derives. When Yudhishthira performed the Rajasuya sacrifice, Vyasa summoned many disciples, including one named Shailin — a brief account appears in the Mahabharata's Sabha-parva, chapter 4:
+Among the many disciples who studied under the sage Vyasa, two taught the Rigveda onward; one of them was named Paila. Per Panini's grammar (2-4-5), his mother's name was Pila and his father's Paila. When Yudhishthira performed the Rajasuya sacrifice, Vyasa summoned many disciples, among them one named Paila — a brief account appears in the Mahabharata's Sabha-parva, chapter 36:
 
 > शैलो होता वसोः पुत्रो धौम्येन सहितोऽभवत् ।
 >
@@ -1417,17 +1417,17 @@ Among the many disciples who studied under the sage Vyasa, two taught the Rigved
 >
 > "Shaila, the Hotr priest, son of Vasu, was present together with Dhaumya."
 
-From this we learn only that Shaila was Vasu's son. Since the Hotr's ritual duty is specifically performed by those trained in the Rigveda, and Shaila performed this role, he must have studied the Rigveda — confirmed by Puranic accounts stating that Shaila studied the Rigveda and created two branches from it, taught respectively to two disciples: **Indramati** and **Bashkala**. Indramati went on to found several further sub-branches ("avantara-shakhas") through his own line. The Indramati Samhita passed first to Mandukeya, then to Satyashravas, then to Satyahita, then to Satyashriya — though whether Satyashravas, Satyahita, and Satyashriya were three brothers or successive teacher-disciple generations remains uncertain; one tradition holds them to be three brothers.
+From this we learn only that Paila was Vasu's son. Since the Hotr's ritual duty is specifically performed by those trained in the Rigveda, and Paila performed this role, he must have studied the Rigveda — confirmed by Puranic accounts stating that Paila studied the Rigveda and created two branches from it, taught respectively to two disciples: **Indramati** and **Bashkala**. Indramati went on to found several further sub-branches ("avantara-shakhas") through his own line. The Indramati Samhita passed first to Mandukeya, then to Satyashravas, then to Satyahita, then to Satyashriya — though whether Satyashravas, Satyahita, and Satyashriya were three brothers or successive teacher-disciple generations remains uncertain; one tradition holds them to be three brothers.
 
-There is further debate concerning Indrapramati: some sources make him the son of Vasishtha instead (per the Brahmanda-purana, pāda 3-8-97, Vasu's son Upamanyu — himself credited with composing a Nirukta text — is mentioned in this connection), and whether this is the same Indrapramati as Shaila's disciple, or a different person of the same name, cannot be settled from the available evidence. (The Mahabharata, Anushasana-parva, adhyaya 4, shlokas 58-67, describes the lineage of one Gartsamada, but what is found there is the name of Vagindra's son, Pramati.) What can be said with reasonable confidence is that Shaila, Vasu, Indrapramati, and Upamanyu were connected to one another from early on. Shakapurni and Bharadvaja appear at the end of this lineage as belonging to their disciples' generation, as shown in the genealogical chart:
+There is further debate concerning Indrapramati: some sources make him the son of Vasishtha instead (per the Brahmanda-purana, pāda 3-8-97, Vasu's son Upamanyu — himself credited with composing a Nirukta text — is mentioned in this connection), and whether this is the same Indrapramati as Paila's disciple, or a different person of the same name, cannot be settled from the available evidence. (The Mahabharata, Anushasana-parva, adhyaya 4, shlokas 58-67, describes the lineage of one Gartsamada, but what is found there is the name of Vagindra's son, Pramati.) What can be said with reasonable confidence is that Paila, Vasu, Indrapramati, and Upamanyu were connected to one another from early on. The disciples of Shakapurni, Bashkali, Bharadvaja and others are not shown in the genealogical chart below:
 
 ![Genealogical chart: the lineage of Shaila's disciples (source: printed page 48)](figures/shaila_disciples_lineage_p48.png)
 
 **Transliteration of the chart above:**
 
-- **Śaila**
-  - **Indra-pramati** → Māṇḍūkeya → Satyaśravas → Satyahita → Satyaśrīya → (**Devamitra, Śākalya, Rathītara, Śākapūrṇi, Bāṣkali, Bharadvāja**) → (**Mudgala, Gālava, Bāleya, Vātsya, Śyaiśiri**)
-  - **Bāṣkala** → (**Baudhya, Agnimātara, Parāśara, Jātūkarṇya**)
+- **Paila**
+  - **Indra-pramati** → Māṇḍūkeya → Satyaśravas → Satyahita → Satyaśrīya → (**Devamitra, Śākalya, Rathīratha, Śākapūrṇi, Bāṣkali, Bharadvāja**) → (**Mudgala, Gālava, Khālīya, Vātsya, Śaiśiri**)
+  - **Bāṣkala** → (**Bādhya, Agnimāṭhara, Parāśara, Jātūkarṇya**)
 
 This chart illustrates the tradition by which the Rigveda's shakhas trace back to these sages as their common source — a matter now to be examined in detail.
 
@@ -1442,49 +1442,49 @@ Patanjali, in the Paspashahnika section of his Mahabhashya, writes:
 >
 > "The Bahvricha [Rigveda tradition] exists in twenty-one forms [i.e., has 21 shakhas]."
 
-That is: the Rigveda has 21 shakhas — a claim already supported, as noted in Chapter 2, by other evidence. A further citation from the same source lists several by name, along with the shakha-counts of the other Vedas:
+That is: the Rigveda has 21 shakhas — a claim for which the Prapancha-hridaya, in its second Veda-section, supplies enough support. A further citation from that work lists several by name, along with the shakha-counts of the other Vedas:
 
-> बाह्वृच्यमेकविंशतिधा । अथर्ववेदो नवधा । ... बाह्वृचस्य—ऐतरेय-बाष्कल-कौषीतक-जानन्ती-बाह्वि-गौतम-शाकल्य-बाभ्रव्य-शैंग्य-मुद्गल-शौनकशाखाः ।
+> बाह्वृच्यमेकविंशतिधा । अथर्ववेदो नवधा । ... बाह्वृचस्य—ऐतरेय-बाष्कल-कौषीतक-जानन्ती-बाहवि-गौतम-शाकल्य-बाभ्रव्य-पैंग-मुद्गल-शौनकशाखाः ।
 >
-> *(approximate reading, given scan condition)* "The Bahvricha [tradition] is twenty-one-fold; the Atharvaveda nine-fold... Among the shakhas of the Bahvricha [Rigveda]: Aitareya, Bashkala, Kaushitaka, Jananti, Bahvi, Gautama, Shakalya, Bhabhravya, Shaingya, Mudgala, and Shaunaka."
+> *(approximate reading, given scan condition)* "The Bahvricha [tradition] is twenty-one-fold; the Atharvaveda nine-fold... Among the shakhas of the Bahvricha [Rigveda]: Aitareya, Bashkala, Kaushitaka, Jananti, Bahvi, Gautama, Shakalya, Babhravya, Paingya, Mudgala, and Shaunaka."
 
-That is: the Rigveda has 21 shakhas, the Atharvaveda 9; among the Rigveda's shakhas, those named here are Aitareya, Bashkala, Kaushitaki, Jananti, Bahvi, Gautama, Shakalya, Bhabhravya, Shaingya, Mudgala, and Shaunaka (eleven of the full twenty-one are named explicitly in this passage).
+That is: the Rigveda has 21 shakhas, the Atharvaveda 9; among the Rigveda's shakhas, those named here are Aitareya, Bashkala, Kaushitaki, Jananti, Bahvi, Gautama, Shakalya, Babhravya, Paingya, Mudgala, and Shaunaka (eleven of the full twenty-one are named explicitly in this passage).
 
 A further, more granular breakdown of Rigveda sub-branches appears in a citation the text gives just after the "21 shakhas" passage above:
 
-> सर्वे ते बह्वृचाः पुष्पिशिखो भूत्वा पञ्चविंशतिधा भिन्नाः । तद्यथा शाकलाः । बाष्कलाः । माण्डव्या इति । तत्र दश शाकलाः । अष्टौ बाष्कलाः । सप्त माण्डव्या इत्ययं ब्राह्मणबद्ध्यचानां शाखा पुष्पिशिखो भूत्वा पञ्चविंशतिधा भिन्नाः ।
+> सर्वे ते बह्वृचाः पुष्प एको भूत्वा विंशतिधा भिन्नाः । तद्यथा शाकलाः । बाष्कलाः । मांडव्या इति । तत्र दश शाकलाः । अष्टौ बाष्कलाः । सप्त मांडव्या इत्ययं ब्राह्मण बह्वृचानां शाखा पुष्प एको भूत्वा पंचविंशतिधा भिन्नाः ।
 >
-> सर्वे ते बह्वृचाः पुष्पिशिखो भूत्वा पञ्चविंशतिधा भिन्नाः । तद्यथा शाकलाः । बाष्कलाः । माण्डव्या इति । तत्र दश शाकलाः । अष्टौ बाष्कलाः । सप्त माण्डव्या इत्य् अयं ब्राह्मण-बद्ध्यचानां शाखा पुष्पिशिखो भूत्वा पञ्चविंशतिधा भिन्नाः ।
-> *sarve te bahvṛcāḥ puṣpiśikho bhūtvā pañcaviṃśatidhā bhinnāḥ | tadyathā śākalāḥ | bāṣkalāḥ | māṇḍavyā iti | tatra daśa śākalāḥ | aṣṭau bāṣkalāḥ | sapta māṇḍavyā ity ayaṃ brāhmaṇa-baddhyacānāṃ śākhā puṣpiśikho bhūtvā pañcaviṃśatidhā bhinnāḥ |*
+> सर्वे ते बह्वृचाः पुष्प एको भूत्वा विंशतिधा भिन्नाः । तद्यथा शाकलाः । बाष्कलाः । मांडव्या इति । तत्र दश शाकलाः । अष्टौ बाष्कलाः । सप्त मांडव्या इत्य् अयं ब्राह्मण-बह्वृचानां शाखा पुष्प एको भूत्वा पंचविंशतिधा भिन्नाः ।
+> *sarve te bahvṛcāḥ puṣpa eko bhūtvā viṃśatidhā bhinnāḥ | tadyathā śākalāḥ | bāṣkalāḥ | māṃḍavyā iti | tatra daśa śākalāḥ | aṣṭau bāṣkalāḥ | sapta māṃḍavyā ity ayaṃ brāhmaṇa-bahvṛcānāṃ śākhā puṣpa eko bhūtvā paṃcaviṃśatidhā bhinnāḥ |*
 >
-> "All these Bahvrichas, having become 'Pushpishikha,' are divided into twenty-five kinds — namely, the Shakalas, the Bashkalas, and the Mandavyas. Of these: ten are Shakala, eight are Bashkala, and seven are Mandavya. This [Brahmana-linked] shakha grouping, having become Pushpishikha, is thus divided into twenty-five kinds."
+> "All these Bahvrichas, having become one 'Pushpa,' are divided into twenty kinds — namely, the Shakalas, the Bashkalas, and the Mandavyas. Of these: ten are Shakala, eight are Bashkala, and seven are Mandavya. This shakha grouping of the Brahmana Bahvrichas, having become one Pushpa, is divided into twenty-five kinds."
 
-(10 + 8 + 7 = 25, confirming the reading "pañcaviṃśatidhā," twenty-five-fold, throughout this passage.)
+(10 + 8 + 7 = 25; the printed text is very corrupt, and the ancient reading must have had twenty-one — Kannada p. 50.)
 
 
 ### Page 50
 
-The Rigveda's shakhas fall into three broad groups — Shakala, Bashkala, and Mandavya — with the Shakala group having 5 sub-divisions, Bashkala 8, and Mandavya a further number, adding up across all groups.
+The Rigveda's shakhas fall into three broad groups — Shakala, Bashkala, and Mandavya — with the Shakala group having 10 divisions, Bashkala 8, and Mandavya 7, twenty-five in all.
 
-The author Achalanka (of the *Rajavartika*) mentions Vedic shakha names at two points in his work, though the printed text contains errors that prevent a fully accurate reading here. One such citation lists a long series of names — Shakalya, Bashkala, Kauthumi, Satyamugri, Jabalayana, Kalasha, Madhyandina, Mauda, Vaishvalayana, Badarayana, and others — totaling 67 shakha-founders across all four Vedas, of which only the first two (Shakala and Bashkala) belong specifically to the Rigveda.
+The author Akalanka-deva, a Jain acharya, (of the *Rajavartika*) mentions Vedic shakha names at two points in his work, though the printed text contains errors that prevent a fully accurate reading here. One such citation lists a long series of names — Shakalya, Bashkala, Kauthumi, Satyamugri, Charayana, Katha, Madhyandina, Mauda, Paippalada, Badarayana, Ambashtakrita (?), Aitikayana, Vasu, Jaimini, and others — totaling 67 shakha-founders across all four Vedas, of which only the first two (Shakala and Bashkala) belong specifically to the Rigveda.
 
 The Charanavyuha, among the Atharvaveda's Parishishtas, states:
 
-> तत्र ऋग्वेदस्य सप्त शाखा भवन्ति । तद्यथा आश्वलायनाः । शांखायनाः । साध्यायनाः । शाकलाः । बाष्कलाः । ऐदुम्बराः माण्डूकाश्चेति ।
+> तत्र ऋग्वेदस्य सप्त शाखा भवन्ति । तद्यथा आश्वलायनाः । शांखायनाः । साध्यायनाः । शाकलाः । बाष्कलाः । औदुंबराः मांडूकाश्चेति ।
 >
-> "Of these, the Rigveda has seven shakhas, namely: Ashvalayana, Sankhyayana, Sadhyayana, Shakala, Bashkala, Aidumbara, and Mandukya."
+> "Of these, the Rigveda has seven shakhas, namely: Ashvalayana, Sankhyayana, Sadhyayana, Shakala, Bashkala, Audumbara, and Mandukya."
 
-— though who exactly "Sadhyayana" and "Aidumbara" refer to is difficult to establish. A citation from the Skanda Purana (via the Anubhashya, 1-1-1) describes Vyasa's successive divisions of the text — fourfold, then twenty-four-fold, then hundred-fold and thousand-fold, and finally, with an eye to conveying its meaning, twelve-fold, at which point he composed the Brahma-sutras. In short, this source holds that the Rigveda had twenty-four shakhas.
+— though who exactly "Sadhyayana" and "Audumbara" refer to is difficult to establish. A citation from the Skanda Purana (via the Anubhashya, 1-1-1) describes Vyasa's successive divisions of the text — fourfold, then twenty-four-fold, then hundred-fold and thousand-fold, and finally, with an eye to conveying its meaning, twelve-fold, at which point he composed the Brahma-sutras. In short, this source holds that the Rigveda had twenty-four shakhas.
 
 ### Page 51 — The Five Main Groupings of the Rigveda's Shakhas
 
 Among the Rigveda's 21 shakhas, the significant ones can be grouped into five:
 
-> एतेषां शाखाः पञ्चविधा भवन्ति । शाकलाः । बाष्कलाः । अश्वलायनाः । शांबायनाः । माण्डूकेयाश्चेति ।
+> एतेषां शाखाः पञ्चविधा भवन्ति । शाकलाः । बाष्कलाः । आश्वलायनाः । शांखायनाः । माण्डूकेयाश्चेति ।
 >
-> "Of these, the shakhas are of five kinds: Shakala, Bashkala, Ashvalayana, Shambayana, and Mandukeya."
+> "Of these, the shakhas are of five kinds: Shakala, Bashkala, Ashvalayana, Shankhayana, and Mandukeya."
 
-That is, the full 21 are distributed across these five groupings. Max Müller, however, wrote of this differently, noting in his own English scholarship:
+That is, some are Shakala, some Bashkala, some Ashvalayana, and so on, twenty-five in all; in the Charanavyuha the groups Shakala, Bashkala, Shankhayana and Mandukeya have five shakhas each and the Ashvalayana one, 21 shakhas in all. Max Müller, however, wrote of this differently, noting in his own English scholarship:
 
 > "We miss the names of several old Sakhas such as the Aitareyins, Saisiras, Kaushitakins, Paingins."
 
@@ -1492,25 +1492,25 @@ That is, the full 21 are distributed across these five groupings. Max Müller, h
 
 > "The Saisira sakha, however, may perhaps be considered as a subdivision of the Sakala sakha."
 
-— which finds support in the Puranas, as we shall see. Hariprasad, too, holds that "Shakala" must have been an actual sage, citing his own *Veda-sarvasva*: "It is understood that the person who first made the divisions of this Samhita's suktas and Mandalas known to everyone was a sage named Shakala" (p. 24), and elsewhere: "The Rik Samhita's expositor was Shakala, who was very ancient; and the compiler of the [ordered] Sat-samhita was Shakalya, who came later than Shakala." Some deficiency appears in Max Müller's fivefold grouping, however, and Hariprasad's claim — that Shakala predates Shakalya — appears to be a significant error, as the following evidence shows.
+— which finds support in the Puranas, as we shall see. Hariprasad, too, holds that "Shakala" must have been an actual sage, citing his own *Veda-sarvasva*: "It is understood that the person who first made the divisions of this Samhita's suktas and Mandalas known to everyone was a sage named Shakala" (p. 24), and elsewhere: "The Rik Samhita's expositor was Shakala, who was very ancient; and the originator of the Pada-samhita was Shakalya, who came later than Shakala." Some deficiency appears in Max Müller's fivefold grouping, however, and Hariprasad's claim — that Shakala predates Shakalya — appears to be a significant error, as the following evidence shows.
 
 ### Section 8 — The Shakala Shakhas
 
-Much confusion surrounds the name "Shakala" — whether it refers to a founding sage or to his disciple Shakalya, and which came first. A few illustrative parallels help: the disciples of the Vajasaneya lineage are collectively called "Vajasaneya," their shared Samhita named after that same source; disciples of Yajnavalkya called "Charaka" likewise gave their name to the Charaka shakhas; and Kalapi's disciples became known as "Kalapa." In just this way, Shakalya's disciples came to be called "Shakala," and the Samhita they propagated became traditionally known as the "Shakala Samhita." In support, two verses from chapter 60 of the Vayu Purana:
+Much confusion surrounds the name "Shakala" — whether it refers to a founding sage or to his disciple Shakalya, and which came first. A few illustrative parallels help: the disciples of the Vajasaneya lineage are collectively called "Vajasaneya," their shared Samhita named after that same source; the many disciples of Vaishampayana, the teacher of the Yajus, were called "Charaka-adhvaryu," and the Katha and other shakhas composed by them were likewise called Charaka shakhas; and Kalapi's disciples became known as "Kalapa." In just this way, Shakalya's disciples came to be called "Shakala," and the Samhita they propagated became traditionally known as the "Shakala Samhita." In support, two verses from chapter 60 of the Vayu Purana:
 
-> देवमित्रस्तु शाकल्यो महात्मा द्विजसत्तमः । चकार संहिताः पञ्च बुद्धिमान् पदवित्तमः ॥ ६३ ॥ तच्छिष्या अभवन् पञ्च मुद्गलो गोलकस्तथा । खालीयश्च तथा वत्स्यः शोकरीयस्तथा पञ्चमः ॥ ६४ ॥ *(Anandashrama edition, Vayu Purana)*
+> देवमित्रस्तु शाकल्यो महात्मा द्विजसत्तमः । चकार संहिताः पञ्च बुद्धिमान् पदवित्तमः ॥ ६३ ॥ तच्छिष्या अभवन् पञ्च मुद्गलो गोलकस्तथा । खालीयश्च तथा मत्स्यः शोशरेयस्तु पञ्चमः ॥ ६४ ॥ *(Anandashrama edition, Vayu Purana)*
 >
-> "Devamitra Shakalya, the great-souled, foremost of the twice-born, wise, and most learned in the [Vedic] words, composed five Samhitas. His five disciples were: Mudgala, Golaka, Khaliya, Vatsya, and Shokariya."
+> "Devamitra Shakalya, the great-souled, foremost of the twice-born, wise, and most learned in the [Vedic] words, composed five Samhitas. His five disciples were: Mudgala, Golaka, Khaliya, Matsya, and Shosareya."
 
-A parallel passage in the Brahmanda Purana (ch. 35) gives nearly the same account with the father's name as "Vedamitra" and slightly different disciple names — Mudgala, Goshala, Khiliyan, Vatsya, and Shaishireya — the last name here matching Max Müller's "Saisira."
+A parallel passage in the Brahmanda Purana (ch. 35) gives nearly the same account with the father's name as "Vedamitra" and slightly different disciple names — Mudgala, Gokhala, Khaliyan, Vatsa, and Shaishireya — the last name here matching Max Müller's "Saisira."
 
 ### Page 53
 
 Further support appears in the Vishnu Purana (ch. 3-4):
 
-> देवमित्रस्तु शाकल्यः संहितां तामधीतवान् । चकार संहिताः पञ्च शिष्येभ्यः प्रददौ च ताः । तस्य शिष्यास्तु ये पञ्च तेषां नामानि मे शृणु ॥ २१ ॥ मुद्गलो गोशलश्चैव वात्स्यः शालीय एव च । शिशिरः पञ्चमश्चात्र श्यैत्रेयः स महामुनिः ॥ २२ ॥
+> देवमित्रस्तु शाकल्यः संहितां तामधीतवान् । चकार संहिताः पञ्च शिष्येभ्यः प्रददौ च ताः । तस्य शिष्यास्तु ये पञ्च तेषां नामानि मे शृणु ॥ २१ ॥ मुद्गलो गोखलश्चैव वात्स्यः शालीय एव च । शिशिरः पंचमश्चासीन्मैत्रेयः स महामुनिः ॥ २२ ॥
 >
-> "Devamitra's [son] Shakalya studied that Samhita, composed five Samhitas, and gave them to his disciples. Hear their five names: Mudgala, Goshala, Vatsya, and Shaleya; and Shishira as the fifth, the great sage also called Shyaitreya."
+> "Devamitra's [son] Shakalya studied that Samhita, composed five Samhitas, and gave them to his disciples. Hear their five names: Mudgala, Gokhala, Vatsya, and Shaliya; and Shishira as the fifth, Maitreya, that great sage."
 
 The author notes that printed Puranic editions show considerable corruption in these founder-names, but by comparing several manuscript copies held at Dayananda College — including two unusually clean copies of the Vishnu Purana (nos. 1850 and 4547) against a Brahmanda Purana manuscript (no. 2811) — a corrected reading emerges:
 
@@ -1535,18 +1535,18 @@ The considerable variation among these textual traditions shouldn't surprise us 
 
 ### 1. The Mudgala Shakha
 
-No Samhita text survives for this shakha, and no clearly identifiable family or sutra-tradition currently claims descent from it. Taking one Rigveda-related passage as a starting point: the name "Mudgala" occurs twice in the Brihaddevata (adhyaya 6, verse 46; adhyaya 9, verses 89–90), each time in close association with Shakapurni (a known Rigveda shakha-founder) and the teacher Shakatayani, suggesting Mudgala was himself either a teacher, a shakha-founder, or at least a contemporary scholar of standing. From this the author concludes that this Mudgala was likely a disciple of Shakalya, and that his father was named Bhrigvashva — a name also found in the Nirukta (9, 23).
+No Samhita text survives for this shakha, and no clearly identifiable family or sutra-tradition currently claims descent from it. Taking one Rigveda-related passage as a starting point: the name "Mudgala" occurs twice in the Brihaddevata (adhyaya 6, verse 46; adhyaya 9, verses 89–90), each time in close association with Shakapurni (a known Rigveda shakha-founder) and the teacher Shakatayana, suggesting Mudgala was himself either a teacher, a shakha-founder, or at least a contemporary scholar of standing. From this the author concludes that this Mudgala was likely a disciple of Shakalya, and that his father was named Bhrigvashva — a name also found in the Nirukta (9, 23).
 
 ### Page 55
 
-A further anecdote recounts Bhrigvashva's son Mudgala the sage winning a battle fought alongside two companions, Vrishabha and Dridhana. Separately, the Rigveda's Mandala 10, Sukta 102 is attributed to a rishi called Bharmyashva-Mudgala — though whether this is the same Mudgala is genuinely uncertain, resting more on inference and traditional anecdote (as related by Yaska) than solid evidence; the name "Mudgala" may equally have been carried by other, later individuals within the same textual lineage, including possibly disciples of Jaimini. The author cautions that tracing this identity is largely speculative and should be treated with appropriate scholarly caution.
+A further anecdote recounts Bhrigvashva's son Mudgala the sage winning a battle fought alongside two companions, Vrishabha and Drughana. Separately, the Rigveda's Mandala 10, Sukta 102 is attributed to a rishi called Bharmyashva-Mudgala ; in some of the mantras of this hymn the word Mudgala occurs. One view holds that this word does not denote any person and that Yaska portrayed an imaginary historical event in order to make the mantras clear; but this cannot stand: it is groundless, mere conjecture. This Mudgala was a contemporary of great sages such as Jaimini and composed mantras, and Jaimini and the other sages themselves said that the mantras composed by Mudgala are eternal. Mudgala is therefore not a fiction but a real person.
 
-For a fuller genealogy, the author draws on the Western Indologist F. E. Pargiter's *Chronology of Ancient India*, which traces a lineage (under "Divodasa", pp. 11 and 46): **Bhrigvashva (Mudgala) → Vadhryashva → Divodasa** (per the Vayu Purana). The author questions whether this sequence is truly compatible with Mudgala having been a disciple of Shakalya, given the number of generations that would have to separate Vyasa's era from Shakalya's — and notes that another scholar, Professor Sitanath Pradhan, connects Divodasa (Vadhryashva's son) to specific Rigveda mantras, along with a possibly related figure named Sujata...
+For a fuller genealogy, the author draws on a book written in 1927 by Professor Sitanath Pradhan of Calcutta, *Chronology of Ancient India*, who mentions this same Bharmyashva-Mudgala in many places and tries to show his lineage (pp. 11 and 86): **Bhrigvashva → Mudgala (Anupa) → Vadhryashva → Divodasa**. The author accepts this lineage as correct, but a question arises: by it Divodasa falls fourth in line from Bhrigvashva, and whether that is possible is worth considering. In the author's view one of Mudgala's teachers was Shakalya, and Vyasa must have been earlier than this Shakalya. Professor Pradhan shows a description of Divodasa, son of Vadhryashva, in some mantras of the Rigveda; and moreover, as he says, the Rigveda also gives a description of Sudasa, son of Paijavana, who was Divodasa's son or his contemporary. But here one point surprises us...
 
 
 ### Page 56
 
-...raising the further question of whether Divodasa and a contemporary called Saijavana (or similar) are one figure or two — a genuine puzzle the author flags rather than resolves. Mahabharata and Puranic tradition generally place Mudgala in the Angirasa lineage; the Vana-parva (ch. 261) tells of a Mudgala's renowned charity, praised by Yudhishthira, and local Bihar tradition associates him with the town of Monghyr (Munger) on the Ganga — though none of this is firmly evidenced. The author concludes that "Mudgala" was clearly borne by several different sages across different eras — the Bhrigvashva-lineage Mudgala should not be casually equated with the Rigveda shakha-founder Mudgala — and cross-references a Nirukta passage (11-6) naming Shatabalaksha as this Mudgala's son and Vadhryashva as his brother, and two Ayurvedic Charaka Samhita sages named "Maudgalya" (Sutra-sthana 25-8 and 26-3, 8), contemporaries of the Mahabharata era. Besides these places, Mudgala is mentioned also in the Ashvalayana Shrautasutra (12-12) and at its beginning.
+...The point is this: when the sage Vyasa had all his disciples study the Veda, was there a Divodasa at all or not? Why is nothing said about his son, or about Sudasa, son of his contemporary Paijavana? And why does the description of that Sudasa come in the Rigveda? These matters call for thought and cause wonder. Mahabharata and Puranic tradition generally place Mudgala in the Angirasa lineage; the Vana-parva (ch. 261) tells of a Mudgala's renowned charity, told by Vyasa to Yudhishthira, and local Bihar tradition associates him with the town of Monghyr (Munger) on the Ganga — though none of this is firmly evidenced. The author concludes that "Mudgala" was clearly borne by several different sages across different eras — the Bhrigvashva-lineage Mudgala should not be casually equated with the Rigveda shakha-founder Mudgala — and cross-references a Nirukta passage (11-6) naming Shatabalaksha as this Mudgala's son and Vadhryashva as his brother, and two sages of the Ayurvedic Charaka Samhita, Parikshi and Purnaksha (called "Maudgalya"; Sutra-sthana 25-8 and 26-3, 8), contemporaries of the Mahabharata era. Besides these places, Mudgala is mentioned also in the Ashvalayana Shrautasutra (12-12) and at its beginning.
 
 ### 2. The Galava Shakha
 
@@ -1562,25 +1562,25 @@ The Aitareya Aranyaka (5-3) records an actual point of ritual disagreement betwe
 >
 > "'This [rite] should not be compressed into a single day' — so said Jatukarnya. 'It should be so compressed' — said Galava."
 
-— confirming Galava as a genuine shakha-founding teacher of the Shakala tradition. The Charaka Samhita's opening section, describing sages gathered in the Himalayas (itself compiled in the Mahabharata era, when Vedic shakhas and Brahmana texts were actively circulating), names a Galava the author identifies with this same Rigveda teacher; and the Mahabharata's Sabha-parva (ch. 8, verses 15 and 21) lists a Galava among the sages present in Yudhishthira's magical assembly hall, strengthening the identification.
+— confirming Galava as a genuine shakha-founding teacher of the Shakala tradition. The Charaka Samhita's opening section, describing sages gathered in the Himalayas (itself compiled in the Mahabharata era, when Vedic shakhas and Brahmana texts were actively circulating), names a Galava the author identifies with this same Rigveda teacher; and the Mahabharata's Sabha-parva (ch. 4, verses 15 and 21; and ch. 7, verse 10) lists a Galava among the sages present in Yudhishthira's magical assembly hall, strengthening the identification.
 
 ### Page 58 — Babhravya = Galava: A Historical Tangle
 
-The Skanda Purana's Nagara-khanda describes a Galava serving as minister to a Kaurava king, comparable to Vidura. The Aitareya Brahmana (7-1) and the Ashvalayana Shrautasutra know one Giraja Babhravya, and the Jaiminiya Upanishad Brahmana (3-41-1 and 4-17-1) one Shankha Babhravya. The Matsya Purana (21-30) names a "Babhravya" as minister to Subalaka, king of southern Panchala, credited there with devising the Rigveda's sequential ordering — likely the same tradition, differently named, and the author suggests "Subalaka" may simply have been conflated with "Galava" in transmission. Untangling exactly which Galava/Babhravya is which — sage, minister, or a descendant/lineage bearing the name — remains genuinely unresolved; the author notes a similar historical tangle exists around a King Hiranyanabha Kaushalya in a Samaveda-related account (the Harivamsha, adhyaya 20, describes this Brahmadatta), and that even Pargiter's scholarship (pp. 64, 65) could not fully resolve this class of problem.
+The Skanda Purana's Nagara-khanda (p. 168) shows a Galava meeting Vidura, the minister of the Kaurava kingdom. The Aitareya Brahmana (7-1) and the Ashvalayana Shrautasutra know one Giraja Babhravya, and the Jaiminiya Upanishad Brahmana (3-41-1 and 4-17-1) one Shankha Babhravya. The Matsya Purana (21-30) names a "Babhravya" as minister to Subalaka and to Brahmadatta, king of southern Panchala, credited there with devising the Rigveda's sequential ordering — likely the same tradition, differently named, and the author suggests "Subalaka" may simply have been conflated with "Galava" in transmission. Untangling exactly which Galava/Babhravya is which — sage, minister, or a descendant/lineage bearing the name — remains genuinely unresolved; the Harivamsha (adhyaya 20) describes this Brahmadatta, who was a contemporary of Pratipa, grandfather of Bhishma; the author notes that a similar historical difficulty arises in a Samaveda passage over King Hiranyanabha Kausalya, and that even Pargiter, in his Ancient Indian Historical Tradition (pp. 64, 65), has so far been unable to resolve this difficulty.
 
 ### 3. The Shaleeya Shakha
 
-Also textless today, attested only by scattered grammatical citations — e.g., the Kashika-vritti lists "Shaleeya" alongside Ashvalayana, Aitikayana, Aupagana, and Aupamanyava in one place (1-1-1), and alongside Gargiya and Vatsiya in another (4-2-114).
+Also textless today, attested only by scattered grammatical citations — e.g., the Kashika-vritti lists "Shaleeya" alongside Ashvalayana, Aitikayana, Aupagava, and Aupamanyava in one place (1-1-1), and alongside Gargiya and Vatsiya in another (4-2-114).
 
 ### Page 59 — 4. The Vatsya Shakha
 
-Its relationship to the Shaleeya shakha is unclear. Patanjali's Mahabhashya (4-2-104), illustrating a grammatical rule for naming schools (gotra-charana), lists example forms including "Vatsyakam," confirming Vatsya as a recognized shakha name. Manuscript variants of the Sankhyayana Aranyaka (8-3 and 8-4) and the Aitareya Aranyaka (3-23) waver between the readings "Vatsya" and "Baadhva" at a few points (Sayanacharya's commentary follows "Baadhva"), though the author argues "Vatsya" is likely the correct original reading. A possible further connection to a "Vatsa" or "Kaundinya" shakha within the Shukla Yajurveda tradition cannot be confirmed without better manuscript evidence.
+Its relationship to the Shaleeya shakha is unclear. Patanjali's Mahabhashya (4-2-104), illustrating a grammatical rule for naming schools (gotra-charana), lists example forms including "Vatsakam," confirming Vatsya as a recognized shakha name. Manuscript variants of the Sankhyayana Aranyaka (8-3 and 8-4) and the Aitareya Aranyaka (3-23) waver between the readings "Vatsya" and "Baadhva" at a few points (Sayanacharya's commentary follows "Baadhva"), though the author argues "Vatsya" is likely the correct original reading. The Shukla Yajurveda also mentions a shakha called "Vatsa" or "Paundravatsa"; but since variant readings are already found, there seems no need to add to them by asking whether it should be Vatsa or Vatsya.
 
 ### 5. The Shaishiri Shakha
 
 Likewise without a surviving Samhita or living tradition, but well attested by citation. The Anuvakanukramani opens:
 
-> ऋग्वेदे शैशिरीयायां संहितायां यथाक्रमम् । प्रमाणानुवाकानां सूक्त्यैः शृणुत शाकलाः ॥
+> ऋग्वेदे शैशिरीयायां संहितायां यथाक्रमम् । प्रमाणमनुवाकानां सूक्तैः शृणुत शाकलाः ॥
 >
 > "O Shakalas, hear now, in due order, the number of suktas in each Anuvaka of the Shaishiriya Samhita of the Rigveda."
 
@@ -1590,17 +1590,17 @@ And the Rik-Pratishakhya opens with a similar reference to expounding its subjec
 
 references "Shakalya, in the Shaishiriya [tradition]" (Saṃ. 221, 225) in its closing portion. The Vikrtavalli notes that the sage Vyadi described, within this same Shaishiriya-Samamnaya tradition, the eight types of textual modification (vikriti) beginning with the Jata-patha.
 
-**Extent of the Shaishiriya shakha:** 85 Anuvakas, 1,017 Suktas, 2,006 Vargas, 10,417 mantras — broadly matching the Anuvakanukramani and Rik-Pratishakhya figures cited earlier, though nothing further about this shakha's specific Samhita is known. **Notably, Sayanacharya's own commentary belongs to this Shaishiriya shakha tradition** — a detail worth keeping in mind, since it is this very commentary that the present translation follows throughout. A Brahmanda Purana account (third pāda, 67-6) also describes a sage named Shishira, born a Kshatriya (son of Ashvasena, in the lunar/Chandravamsha lineage of Shunahshotra) who became a Brahmin — plausibly an ancestor within this shakha's lineage.
+**Extent of the Shaishiriya shakha:** 85 Anuvakas, 1,017 Suktas, 2,006 Vargas, 10,417 mantras — broadly matching the Anuvakanukramani and Rik-Pratishakhya figures cited earlier, though nothing further about this shakha's specific Samhita is known. **Notably, Sayanacharya's own commentary belongs to this Shaishiriya shakha tradition** — a detail worth keeping in mind, since it is this very commentary that the present translation follows throughout. A Brahmanda Purana account (third pāda, 67-6) also describes a sage named Shishira, born a Kshatriya (grandson of Shala, son of Arshishena, of the lunar/Chandravamsha lineage of Shunahotra) who became a Brahmin — plausibly an ancestor within this shakha's lineage.
 
 ### The Shakalya Samhita
 
 The five Shakala sub-shakhas discussed above all trace to a common root text — called the Shakalya, Shakalaka, or Shakaleeya Samhita — held in especially high regard within Vedic tradition. The Vyakarana-Mahabhashya states:
 
-> शाकल्यस्य संहितामनुस्रावयन्ति ... शाकल्येन सृष्टां संहितामनुनिशाम्य देवः प्रांशावर्णः ॥ १-४-८४ ॥
+> शाकल्यस्य संहितामनुप्रावर्षत् ... शाकल्येन सुकृतां संहितामनुनिशम्य देवः प्रावर्षत् ॥ १-४-८४ ॥
 >
-> "They continuously recite Shakalya's Samhita... having heard the Samhita composed by Shakalya, the gods [approved/were pleased]."
+> "It rained after Shakalya's Samhita ... having heard the Samhita well made by Shakalya, the god rained."
 
-That is: once Shakalya completed his Samhita, the gods heard it and gave their approval. Tradition holds that Katyayana's Rik-Sarvanukramani was itself composed following this Samhita, which opens: *"atha ṛgvedāmnāye śākalake..."* ("Now, in the traditionally transmitted Rigveda, in the Shakala [recension]...").
+That is: once Shakalya completed his Samhita, the gods heard it and sent rain. Tradition holds that Katyayana's Rik-Sarvanukramani was itself composed following this Samhita, which opens: *"atha ṛgvedāmnāye śākalake..."* ("Now, in the traditionally transmitted Rigveda, in the Shakala [recension]...").
 
 
 ### Page 61

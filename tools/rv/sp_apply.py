@@ -29,6 +29,10 @@ def main():
         out=[]; nxt=re.compile(pat.replace('%s','[^\\s—:>]+'))
         for m in re.finditer(pat%re.escape(str(page)),t):
             n=nxt.search(t,m.end()); out.append((m.start(),n.start() if n else len(t)))
+        if pat.startswith('(?m)^### Page') and str(page).isdigit():      # a combined heading 'Pages 46–47' / 'Page 15–16' carries every page of its range
+            for m in re.finditer(r'(?m)^### Pages? (\d+)\s*[–-]\s*(\d+)\b',t):
+                if int(m.group(1))<=int(page)<=int(m.group(2)) and int(m.group(1))!=int(page):
+                    n=nxt.search(t,m.end()); out.append((m.start(),n.start() if n else len(t)))
         return out
     for r in rows:
         pg,tg,old,new=r['page'],r['target'],r['old'],r['new']; st='applied'
