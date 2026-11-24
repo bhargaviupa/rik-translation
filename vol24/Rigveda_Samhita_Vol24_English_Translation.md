@@ -24925,6 +24925,283 @@ Ushas, bear (elsewhere) the ill-omened dream for Trita and Dwita, who eat and do
 > ए॒वा दु॒ष्पष्ट्यं॒ सर्व॑मा॒प्त्ये सं न॑यामस्यने॒हसो॑ व  
 > ऊ॒तयः॑ सु॒ऊतयो॑ व ऊ॒तयः॑ ॥ १७ ॥
 
+### Printed p. 545
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । कलां । यथा । शफं । यथा । ऋणं । संनयामसि ।  
+> एव । दु-sत्त्वं । सर्वं । आप्त्ये । सं । नयामसि । अनेहसः । वः । ऊतयः ।  
+> सुऊतयः । वः । ऊतयः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संज्ञापितं पशुं दानार्थं संस्कुर्वंतो यथा येन प्रकारेण कलां
+> शफमिति संदायान्यत्र संनयंति । अथापरो यथाशब्दः पूरणः । अथवा । यथा
+> कलां हृदयाद्यवयवमनदानार्हं संनयंति यथा च शफं शफोपलक्षितमनवदानार्हं शफास्थ्यादिकं संनयंति । यथा ना ऋणं शनैः संनयंति एवैवं
+> दुष्टत्वं सर्वमाप्त्ये वर्तमानं सं नयामसि । संनयामः । अपसारयामः ॥
+
+##### Gist of the bhāṣya
+
+Just as those who prepare the slaughtered animal for the offering put together the parts (kalā) and the hoofs (śapha) and bring them together elsewhere; or else, just as they put together the part (kalā), such as the heart and other limbs that are not fit for the cutting of the oblation, and the hoofs, the hoof-bones and the like, which are also not fit for it; and just as a man gradually puts together, that is, pays off, a debt; so we remove, that is, put away, all the bad dream that rests in Āptya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- कलां (*kalāṃ*)—the heart and other limbs of the animal
+- यथा (*yathā*)—in what manner
+- शफं (*śaphaṃ*)—the hoof parts (which in the sacrifice we offer, collecting them together)
+- यथा (*yathā*)—in what manner
+- ऋणं (*ṛṇaṃ*)—a debt
+- सं नयामसि (*saṃ nayāmasi*)—we discharge in due order
+- एव (*eva*)—in the same manner
+- अप्प्ये (*appye*)—clinging to Trita Āptya
+- सर्वं (*sarvaṃ*)—all the …
+- सं नयामसि (*saṃ nayāmasi*)—we shall drive far away
+- वः (*vaḥ*)—your
+- ऊतॆयः (*ūtèyaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतॆयः (*ūtèyaḥ*)—protections
+- सुऊतॆयः (*suūtèyaḥ*)—are most excellent
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Just as we offer together in the sacrifice the heart and other limbs of the animal and the hoof parts, and just as we gradually discharge a debt, so we shall drive far away all the … that clings to Trita Āptya. O gods, your protections are free from sin. Your protections are most excellent.
+
+##### English translation
+As (in the sacrifice) we put severally together the proper parts and the hoofs, and as we discharge a debt, so we transfer all the ill-omened dream that rests on Aptya ; your aids are void of harm, your aids are true aids.
+
+### Printed p. 546
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अजै॑ष्मा॒द्यास॑नाम॒ चाभू॒माना॑गसो व॒यं !  
+> उषो यस्माद्दुःस्वप्नादभैष्माप तदुच्छत्वनेहसो व  
+> ऊतयः सुऊतयो न ऊतयः ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजैष्म । अद्य । आसनाम । च । अभूम । अनागसः । वयं ।  
+> उषः । यस्मात् । दुःस्वप्नात् । अभैष्म । अप । तत् । उच्छतु । अनेकसः । वः ।  
+> ऊतयः । सुऊतयः । वः । ऊतयः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं त्रिता अद्याजैष्म । जयेम । असनाम च । संभजेम च सुस्वप्नं सुखं
+> वा । अनागसोऽपापा अभूम । भवेम । हे उषः यस्माद्दुष्स्वप्नादभैष्म भीताः
+> स्म तत्पापमपोच्छतु । अपगच्छतु ॥
+
+##### Gist of the bhāṣya
+
+We, the Tritas, have today conquered (ajaiṣma, "may we conquer"), and have obtained (asanāma, "may we share in") a good dream or happiness, and have become free from sin (anāgasaḥ). O Uṣas, may that sin go away (apocchatu, "go away") from which bad dream we were afraid.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- अद्य (*adya*)—now
+- अजैष्म (*ajaiṣma*)—may we obtain victory
+- आसनाम च (*āsanāma ca*)—may we obtain all happiness
+- अनागसः (*anāgasaḥ*)—may we also be free from sin
+- अभूम (*abhūma*)—may we be
+- यस्मात् दुःस्वप्नात् (*yasmāt duḥsvapnāt*)—from which bad dream
+- वयं (*vayaṃ*)—we
+- अभ्यैष्म (*abhyaiṣma*)—have been afraid
+- तत् (*tat*)—that
+- अप उच्छतु (*apa ucchatu*)—may it go far away and perish
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- अनेहसः (*anehasaḥ*)—are free from sin
+- वः (*vaḥ*)—your
+- ऊतयः (*ūtayaḥ*)—protections
+- सुऊतयः (*suūtayaḥ*)—are most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, may we now obtain victory; may we obtain all happiness; may we also be free from sin. May the bad dream of which we have been afraid go far away and perish. O gods, your protections are free from sin. Your protections are most excellent.
+
+##### English translation
+May we be to-day victorious, and obtain (happiness) ; may we be free from evil ; Ushas, may that illdream depart, of which we were afraid ; your aids are void of harm, your aids are true aids.
+
+### Printed p. 547
+
+The forty-eighth sūkta
+
+## Sūkta 48 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वादोरभक्षीति पंचदशर्चं षष्ठं सूक्तं काण्वस्य प्रगाथस्यार्षं सोमदेवताशं त्रैष्टुभं । पंचमी जगती । सोमो देवता । तथा चानुक्रांतं ।
+> स्वादोः पंचोना प्रगाथः सौम्यं त्रैष्टुभं पंचमी जगतीति ॥ सूक्तविनियोगो
+> लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning स्वादोरभक्षि (*svādorabhakṣi*), of fifteen Ṛks, is the sixth sūkta. Its seer is Pragātha, of the Kāṇva line; its deity is Soma; its metre is Triṣṭubh, and the fifth Ṛk is Jagatī. So says the Anukramaṇikā: स्वादोः पंचोना प्रगाथः सौम्यं त्रैष्टुभं पंचमी जगतीति (*svādoḥ paṃconā pragāthaḥ saumyaṃ traiṣṭubhaṃ paṃcamī jagatīti*). The application of the sūkta is according to the Liṅga (the indication in the text itself).
+
+This sūkta beginning "Svādor abhakṣi" is the sixth sūkta in the sixth anuvāka. It contains fifteen Ṛks. The seer of this sūkta is named Pragātha Kāṇva; Soma is the deity; the fifth Ṛk of this sūkta is in the Jagatī metre, and the remaining Ṛks are in the Triṣṭubh metre. In the Anukramaṇikā it is said: स्वादोः पंचोना प्रगाथः सौम्यं त्रैष्टुभं पंचमी जगती (*svādoḥ paṃconā pragāthaḥ saumyaṃ traiṣṭubhaṃ paṃcamī jagatī*). The application of the sūkta is Laiṅgika.
+
+Maṇḍala 8; Anuvāka 6; Sūkta 48 **NOTE**. Aṣṭaka 6; Adhyāya 4; Varga 11, 12, 13. Number of Ṛks in the sūkta: 15. Seer: Pragātha Kāṇva. Deity: Soma. Metre: Ṛks 1–4, 6–15 Triṣṭubh; Ṛk 5 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वादोरभक्षि वयसः सुमेधाः स्वाध्यो वरिवोवित्तरस्य ।  
+> विश्वे यं देवा उत मर्त्यासो मधु ब्रुवंतो अभि  
+> संचरंति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वादोः । अभक्षि । वयसः । सुमेधाः । सुआध्यः । वरिवोवित्तरस्य ।  
+> विश्वे । यं । देवाः । उत । मर्त्यासः । मधु । ब्रुवंतः । अभि । संचरंति ॥ १ ॥
+
+### Printed p. 548
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं प्रगाथः सुमेधाः शोभनप्रज्ञः स्वाध्यः स्वाध्ययनः सुकर्मा वरिवोवित्तरस्यातिशयेन पूजां लभमानस्य स्वादोः सुष्पदनीयस्य स्वादुभूतस्य वयसोऽन्नस्य ॥ एताः कर्मणि षष्ठ्यः ॥ उक्तलक्षणं वयोऽन्नं सोमाख्यमभक्षि ।
+> भक्षयेय । यं यदन्नं विश्वे देवाः सर्वॆऽपींद्रादय उतापि च मर्त्यासो
+> मर्त्या मनुष्या मधु ब्रुवंतो मनोहरमेतदिति शब्दायंतोऽभि संचरंति
+> अभिसंगच्छंते प्राप्नुवंति तदन्नमभक्ष्ति ॥
+
+##### Gist of the bhāṣya
+
+I, Pragātha, of good understanding (sumedhāḥ) and good study and works (svādhyaḥ), may I enjoy (abhakṣi, "may I eat") the food (vayas) called Soma, which is very sweet and receives the highest honour (varivovittara) **NOTE**. The food which all the gods, Indra and the rest, and also mortals, men, calling it "honey", that is, delightful, approach and obtain, that food may I enjoy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—which Soma
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- उत (*uta*)—and
+- मर्त्यासः (*martyāsaḥ*)—men
+- मधु ब्रुवंतः (*madhu bruvaṃtaḥ*)—saying that it is exceedingly delicious
+- अभि संचरंति (*abhi saṃcaraṃti*)—eat it
+- स्वादोः (*svādoḥ*)—delicious
+- वरिवोवित्तरस्य (*varivovittarasya*)—exceedingly worthy of worship
+- वयसः (*vayasaḥ*)—food
+- सुमेधाः (*sumedhāḥ*)—possessed of excellent understanding
+- स्वाध्यः (*svādhyaḥ*)—possessed of excellent works, I
+- अभक्षि (*abhakṣi*)—may I enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+May I, possessed of excellent understanding and excellent works, enjoy that delicious food, exceedingly worthy of worship, which all the gods and all men, saying that Soma is exceedingly delicious, eat.
+
+##### English translation
+May I, the wise and devout, enjoy the delicious, abundantly honoured Soma food, which all gods and mortals, pronouncing sweet, seek to obtain.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंतश्च प्रागा अदितिर्भवास्यवयाता हरसो दैव्यस्य ।  
+> इंदविंद्रस्य सख्यं जुषाणः श्रौष्टीव धुरमनु राय ऋध्याः ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंतरिति । च । प्र । अगाः । अदितिः । भवासि । अवयाता । हरसः । दैव्यस्य ।  
+> इंदो इति । इंद्रस्य । सख्यं । जुषाणः । शौष्ट्री इव । धुरं । अनु । राये । ऋढ्याः ॥
+
+### Printed p. 549
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नीषोमप्रणयनेऽंतश्चेत्येषा । तथा च सूत्रितं । अंतश्च प्रागा अदितिर्भवासि श्येनो न योनिं सदनं धिया कृतं । आ. ४-१० । इति ॥
+> हे सोम त्वमंतश्च प्रागाः । हृदयस्य यागागारस्य वांतर्गच्छसि । गत्वा
+> चादितिरदीनस्त्वं दैव्यस्य हरसः क्रोधस्यावयाता पृथक्कर्ता भवासि । भवसि । हर इति
+> क्रोधनाम । हे इंदो सोम त्वमिंद्रस्य सख्यं जुषाणः सेवमानः श्रौष्टि ।
+> श्रुष्टिति क्षिप्रनाम । तत्संबंधी श्रौष्टि । क्षिप्रगाम्यश्वो धुरमिव रायेऽस्माकं
+> धनलाभायान्वृध्याः । अनुगच्छसि । अथवाश्वो यथा धुरं वृत्त्वाभिमतदेशं
+> प्रापयति तद्वदस्मान्प्रापय । अनुपूर्व ऋधिर्गत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Ṛk beginning अंतश्च (*aṃtaśca*) is used in the Agnīṣoma-praṇayana, as the sūtra says (Ā. 4-10). O Soma, you go within, into the heart or into the sacrificial house; and having gone, you, the undiminished one, become the separator of divine anger (hara, which means "anger"). O Indu, Soma, enjoying (juṣāṇaḥ, "serving") the friendship of Indra, as a swift-going horse (śrauṣṭi, from śruṣṭi, "swift") follows its yoke, so you follow, for our gain of wealth. Or else: as a horse, having taken up the yoke, brings one to the desired place, so bring us there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंतश्च (*aṃtaśca*)—and into the heart
+- प्रागाः (*prāgāḥ*)—you enter
+- अदितिः (*aditiḥ*)—you, of perfect form
+- दैव्यस्य (*daivyasya*)—belonging to the gods
+- हरसः (*harasaḥ*)—of anger
+- अवयाता (*avayātā*)—as the destroyer
+- भवासि (*bhavāsi*)—you are
+- इंदो (*iṃdo*)—O Soma
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सख्यं (*sakhyaṃ*)—friendship
+- जुषाणः (*juṣāṇaḥ*)—enjoying
+- श्रौष्टी (*śrauṣṭī*)—a swift horse
+- धुरं इव (*dhuraṃ iva*)—as it bears a burden
+- राये (*rāye*)—for our gain of wealth
+- अनु ऋध्याः (*anu ṛdhyāḥ*)—take us to that place and bring us together
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you enter also into the hearts of the gods and remove their anger. O Soma, of perfect form, enjoying the friendship of Indra, as a swift horse bears a burden, take us to that place for the gain of wealth and bring us together.
+
+##### English translation
+You enter within, and, unimpaired, you avert the anger of the gods; Soma, enjoining the friendship of Indra, may you bring us to wealth as a swift (horse) its burden.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrificial act called Agnīṣoma-praṇayana this Ṛk beginning अंतश्च (*aṃtaśca*) is to be recited, as is set forth by the sūtra of the Ātvalāyana-śrauta-sūtra अंतश्च प्रागा अदितिर्भवासि श्योनो न योनिं सदनं धिया कृतं (*aṃtaśca prāgā aditirbhavāsi śyono na yoniṃ sadanaṃ dhiyā kṛtaṃ*) (Ā. 4-10) **NOTE**.
+
+### Printed p. 550
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपाम सोमममृता अभूमागन्म ज्योतिरविदाम देवान् ।  
+> किं नूनमस्मान्नृणवदरातिः किमु धूर्तिरमृत मर्त्यस्य ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपाम । सोमं । अमृताः । अभूम । अगन्म । ज्योतिः । अविदाम । देवान् !  
+> किं । नूनं । अस्मान् । कृणवत् । आरातिः । किं । ऊं इति । धूर्तिः । अमृत । मर्त्यस्य ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपाम सोममित्यादिके द्वे सोमपानोत्तरकालीनस्याभिमर्शने हृदयाभिमर्शने च क्रमेण विनियुक्ते । तथा च सूत्रितं । अपाम सोमममृता अभूम
+> शं नो भव हृद आ पीत इंदविति मुखहृदये अभिमृशेरन्निति ॥
+> हे अमृतामरण सोम त्वामपाम । पानं करपाम । कुर्मः । ततोऽमृता
+> अभूम । भवेम । यस्मात्त्वममृतः अतस्तव पानाद्वयमप्यमृताः स्याम ।
+> पश्चाज्योतिर्द्योतमानं स्वर्गमगन्म । अविदाम ज्ञातवंतो देवान् ! तथाभूतानस्मान्नूनमिदानीमरातिः शत्रुः किं कृणवत् । कुर्यात् । किमु किंवा मर्त्यस्येदानीं मनुष्यभूतस्य मम धूर्तिर्हिंसकः किं कृणवत् । कुर्यात् ॥
+
+##### Gist of the bhāṣya
+
+The two verses beginning अपाम सोमं (*apāma somaṃ*) are applied, in order, to the touching after the drinking of Soma and to the touching of the heart; so the sūtra says that they should touch the mouth and the heart. O immortal Soma, we drink you, and thereby we become immortal; since you are immortal, we too may become immortal by drinking you. Afterwards we went to the light, the shining heaven. We have come to know the gods. Such as we are, what will the enemy (arāti) do to us now? Or what will the injurer (dhūrti) do now to me, who am a mortal?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमं (*somaṃ*)—Soma
+- असाम (*asāma*)—we shall drink
+- अमृताः (*amṛtāḥ*)—free from death
+- अभूम (*abhūma*)—we shall become
+- ज्योतिः (*jyotiḥ*)—to the shining heaven
+- अगन्म (*aganma*)—we shall go and reach
+- देवान् (*devān*)—the gods
+- अविदाम (*avidāma*)—we shall know
+- नूनं (*nūnaṃ*)—surely
+- अस्मान् (*asmān*)—us
+- अरातिः (*arātiḥ*)—the enemy
+- किं कृणवत् (*kiṃ kṛṇavat*)—what can he do
+- अमृत (*amṛta*)—O Soma, free from death
+- मर्त्यस्य (*martyasya*)—in the case of me, a man
+- धूर्तिः (*dhūrtiḥ*)—the enemy who is of the nature of injury
+- किमु (*kimu*)—what indeed can he do
+
+##### भावार्थ (Bhāvārtha)
+
+We drink Soma. We become free from death. We go and reach the shining heaven. We come to know the gods. O Soma, free from death, what can the enemy do to us? What can the enemy, who is of the nature of injury, do to me, a man?
+
 ---
 
-**Progress note:** Done through printed p. 544. Sukta 47 Rks 13-17: Trita Aptya dream-averting verses, Special Topics
+**Progress note:** Done through printed p. 550. Sukta 47 Rks 17-18 end; Sukta 48 Rks 1-3 (Soma, Pragatha Kanva); Special Topics
