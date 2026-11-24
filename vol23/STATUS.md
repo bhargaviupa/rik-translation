@@ -19,6 +19,9 @@ Translated by `api_front.py 23 2 94 preface` (one request, $0.040, checks PASS, 
 ## Plan (free)
 `api_batch.py plan 23 --windows 150`: 129 windows, about 849 pages, 2,774,590 input tokens, estimate **$9.7–19.4** (input $2.77 + output $6.94–16.65). Not submitted.
 
+## Batch
+Submitted Nov 24 2026 (user's yes): ONE batch of 129 windows, id in `vol23/work/api_batch.json` (`msgbatch_01AgqnECQJUJP2opjNg62PHJ`), estimate $9.7–19.4, ceiling $25. Next: `api_batch.py status 23` until ended, then `collect 23` (no commits by hand while it runs).
+
 ## Open items
 1. (user) budget stated Nov 24: API $25 and the agent budget (66%) both expire Nov 25; yes to the body estimate not given yet.
 2. (dispatcher) the body in few, large stages.
