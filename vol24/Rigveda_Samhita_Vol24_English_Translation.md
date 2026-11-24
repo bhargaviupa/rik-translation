@@ -3593,6 +3593,270 @@ I approach you, thunderer, with praises, as (a cowherd goes) with cattle to the 
 
 O foremost slayer of Vṛtra, that is, the greatest slayer of the asura Vṛtra or of troubles. Of what kind? O fierce one (ugra), possessed of formidable strength, O praṇetaḥ, one who leads forward wealth and the like to the reciters. Such as you are, O vasu, O Indra, who make enemies dwell (vāsayitṛ): the plural "us" (naḥ) is used in honour. All praises or rites of me, named Viśvamanas, come near with the mind, well; come to them. The meaning is: as one to be praised or as one to be worshipped, come with the speed of the mind.
 
+### Printed p. 80
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतम (*vṛtrahaṃtama*)—O one who slays Vṛtra to the highest degree
+- उग्र (*ugra*)—one of exceedingly great strength
+- प्रणीतः (*praṇītaḥ*)—the best leader of the reciters
+- वसो (*vaso*)—one who overthrows enemies, O Indra
+- विश्वमनसः (*viśvamanasaḥ*)—named Viśvamanas
+- नः (*naḥ*)—my
+- विश्वानि (*viśvāni*)—all rites, turned towards them
+- धिया (*dhiyā*)—with the speed of the mind
+- सु (*su*)—swiftly
+- आधि गहि (*ādhi gahi*)—be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who slay enemies to the highest degree, who are of exceedingly great strength, the best leader of the reciters, who overthrow enemies: be gracious swiftly, with the speed of the mind, turning towards all the rites of me, who am named Viśvamanas.
+
+##### English translation
+Fierce destroyer of Vritra, bringer (of wealth to your worshippers), subduer of enemies, preside over all (the offerings) of us, Vishwamanas, with a (favourable) mind.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं ते॑ अ॒स्य वृ॑त्रहन्वि॒द्याम॑ शूर॒ नव्य॑सः ।  
+> वसोः॑ स्मा॒र्हस्य॑ पुरुहूत॒ राध॑सः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । ते । अस्य । वृत्रहन् । विद्याम । शूर । नव्यसः ।  
+> वसोः । स्पार्हस्य । पुरुहूत । राधसः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्रस्य हंतः शूर बलवन् पुरुहूत पुरुभिर्बहुभिराह्वातव्येंद्र
+> नव्यसो नवीयसः ॥ ईयसुन ईकारलोपश्यांदसः ॥ नवतरं स्वाह्यस्य स्पृहणीयं
+> राधसः ॥ राध साध संसिद्धौ ॥ शर्मादेः संसाधकं ते त्वदीयमस्य वसोः ॥
+> क्रियाग्रहणं कर्तव्यमिति वसोः संप्रदानसंज्ञा । चतुर्थ्यर्थे बहुलं छंदसीति
+> वसोः षष्ठी ॥ त्वदीयमिदं परिदृश मानं धनं वयं विद्याम । लभेमहि ॥ विद्लृ
+> लाभे ! अदादिकः । छांदसो विकरणस्य लुक् ॥
+
+##### Gist of the bhāṣya
+
+O slayer of Vṛtra (Vṛtrahan), that is, slayer of Vṛtra; O hero (śūra), O mighty one; O Indra, called by many (purūhūta). नव्यसो (*navyaso*) means "newer" (navīyasaḥ). राधसः (*rādhasaḥ*) is derived from the root rādh/sādh in the sense of accomplishing, so it means that which accomplishes happiness and the like; it is desirable. ते (*te*) means "yours", and वसोः (*vasoḥ*) ("wealth") is here in the genitive in the sense of the dative. We obtain (विद्याम (*vidyāma*), that is, may we gain) this wealth of yours that is seen here.
+### Printed p. 81
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—destroyer of enemies
+- शूर (*śūra*)—endowed with power
+- पुरुहूत (*puruhūta*)—worthy of being invoked by many, O Indra
+- नव्यसः (*navyasaḥ*)—that which is new
+- स्पार्हस्य (*spārhasya*)—that which is attractive
+- राधसः (*rādhasaḥ*)—that which accomplishes what is auspicious
+- ते (*te*)—your
+- अस्य वसोः (*asya vasoḥ*)—this wealth
+- वयं (*vayaṃ*)—we
+- विद्याम (*vidyāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies, endowed with power, worthy of being invoked by many: may we obtain this wealth of yours, which is new, attractive and a bringer of happiness.
+
+##### English translation
+May we, hero, slayer of Vritra, invoked of many, become possessed of this your new, desirable, and happiness-producing wealth.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ यथा॒ ह्यस्ति॒ तेऽप॑रीतं नृतो॒ शवः॑ ।  
+> अमृ॑क्ता रा॒तिः पु॑रुहूत दा॒शुषे॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । यथा । हि । अस्ति । ते । अपरिऽइतं । नृतो इति । शवः ।  
+> अमृक्ता । रातिः । पुरुहूत । दाशुषे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृतो सर्वस्यांतर्यामितया नर्तयितरिंद्र ते त्वदीयं शवो बलं
+> यथापरीतमस्ति शत्रुभिरपरिगतमव्याप्तं भवति । हि प्रसिद्धौ । तथा हे पुरुहूत
+> पुरुभिर्बहुभिराहूतेंद्र दाशुषे हविर्गत्तवशे यजमानाय रातिर्धनादिदानममृक्ता शत्रुभिरहिंसितं भवति । त्वत्तो लब्धं यजमानस्य धनं शत्रुवो स हिंसंति ।
+> यथा त्वदीयबलस्य रक्षक एवं तस्य धनस्यापि रक्षक इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O नृतो (*nṛto*), O Indra, who make all dance as the inner controller of all: your strength is unassailed (अपरीतं (*aparītaṃ*)), that is, not encompassed or overcome by enemies; हि (*hi*) is used in the sense of "well known". In the same way, O Purūhūta, called by many, the gift (रातिः (*rātiḥ*)) of wealth and the like to the sacrificer, who has made the offering of oblation, is unharmed (अमृक्ता (*amṛktā*)) by enemies. The wealth received from you by the sacrificer is not injured by enemies. The meaning is: as you are the protector of your own strength, so you are also the protector of his wealth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृतो (*nṛto*)—one who is the inner controller in all and impels all
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- शवः (*śavaḥ*)—strength
+- यथा (*yathā*)—in whatever manner
+- अपरीतं (*aparītaṃ*)—unopposed by enemies
+### Printed p. 82
+- अस्ति हि (*asti hi*)—it is (in that same manner)
+- पुरुहूत (*puruhūta*)—O Indra, worthy of being invoked by many
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblation
+- रातिः (*rātiḥ*)—the wealth that you give
+- अमृक्ता (*amṛktā*)—does not fall prey to the harm of enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the inner controller in all, who impel all: in whatever manner your strength is unopposed by enemies, in that same manner, O Indra, worthy of being invoked by many, the wealth that you give to the sacrificer who offers oblation does not fall prey to the harm of enemies.
+
+##### English translation
+As Indra, inspirer (of men), your strength is irresistible, (so) invoked of many, your munificence to the donor (of oblations) cannot be marred.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वृ॑षस्व महामह म॒हे नृ॑तम॒ राध॑से ।  
+> दृ॒ळश्चि॑द्दृह्य मघवन्म॒घत्त॑ये ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वृषस्व । महामह । महे । नृतम । राधसे ।  
+> दृढः । चित् । दृढ । मघवन् । मघत्तये ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महामहातिशयेन सर्वैः पूजनीय नृतम नेतृतमेंद्र महे
+> महते राधसे शत्रुधनानां संसाधकाय बलाय बलार्थमा वृषस्व । स्वोदरमासिंच । सोमं पिबेत्यर्थः । हे मघवन् धनवन्निंद्र सोमपानेन मत्तः सन्
+> दृळश्चिद्दृढानि परैरबाधितान्यपि शत्रुपुराणि मघत्तये मघानां धनानां लाभाय
+> दृह्य । जिघांस । विदारयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Mahāmaha, worshipful by all to the highest degree, O नृतम (*nṛtama*), the best leader, Indra: pour (आ वृषस्व (*ā vṛṣasva*)) into your own belly, for great (महे (*mahe*)) राधसे (*rādhase*), that is, for strength which accomplishes the seizing of the enemies' wealth; the meaning is, drink the Soma. O मघवन् (*maghavan*), wealthy Indra, intoxicated by drinking Soma, destroy (दृह्य (*dṛhya*), that is, wish to slay, tear apart) the strong (दृढानि (*dṛḍhāni*)) cities of the enemies, even those not broken by others, for the gain of riches (मघत्तये (*maghattaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महामह (*mahāmaha*)—worthy of exceedingly great worship
+- नृतम (*nṛtama*)—the excellent leader, O Indra
+- महे (*mahe*)—great
+- राधसे (*rādhase*)—to carry off the enemy's wealth (to drink the Soma that gives strength)
+### Printed p. 83
+- आ वृषस्व (*ā vṛṣasva*)—open your belly and drink the Soma
+- मघवन् (*maghavan*)—O Indra, possessor of wealth
+- दृळश्चित् (*dṛḷaścit*)—even the very strong cities of the enemy
+- मघवत्तये (*maghavattaye*)—for the carrying off of the enemy's wealth
+- दृह्य (*dṛhya*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of exceedingly great worship, the excellent leader: open your belly to drink the Soma that gives strength to carry off great wealth of the enemy. Drink the Soma. O Indra, possessor of wealth, destroy even the very strong cities of the enemy, to carry off the enemy's wealth.
+
+##### English translation
+Most adorable, chief leader (of men), invigorate (yourself with the Soma) for (the conquest of) great wealth : consume, Magavan, the strong (cities of the Asuras) for the rich spoil.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू अ॒न्यत्रा॑ चिदद्रिव॒स्वन्नो॑ जग्मुरा॒शसः॑ ।  
+> मघ॑वङ्॒ग्धि तव॒ तन्न॑ ऊ॒तिभिः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । अन्यत्र । चित् । अद्रिवः । त्वत् । नः । जग्मुः । आशसः ।  
+> मघवन् । शग्नि । तव । तत् । नः । ऊतिभिः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो वज्रवन्निंद्र त्वं धनवान् दाता चेत्यपरिज्ञाय नोऽस्मदीयान्याशस आशंसनान्यभिलाषास्त्वत्त्वत्तोऽन्यत्र देवादौ नू चित् पुरा जग्मुः । अगच्छन् ।
+> तत्र फलं नालभंत । इदानीं त्वं धनवान् दानशील इत्यस्माभिर्ज्ञातं । अत एव हे
+> मघवन् धनवन्निंद्र तव त्वदीयं तच्छत्रुपुरविदारणलब्धं धनमूतिभिस्त्वद्रक्षणैर्नोऽस्मभ्यं शग्धि । देहि ॥ शग्धीति दानकर्मा । शक्नोतेर्लोटि छांदसो विकरणस्य
+> लुक् ॥
+
+##### Gist of the bhāṣya
+
+O अद्रिवो (*adrivo*), Indra, wielder of the thunderbolt: not knowing that you are wealthy and a giver, our desires (आशस (*āśasa*), that is, wishes and longings) went formerly (नू चित् (*nū cit*)) elsewhere than to you, to other gods and the like, and obtained no fruit there. Now we have learned that you are wealthy and generous. For that very reason, O मघवन् (*maghavan*), wealthy Indra, give (शग्धि (*śagdhi*)) us that wealth of yours, won by the tearing open of the enemies' cities, with your protections. शग्धीति (*śagdhīti*) is a word meaning giving.
+### Printed p. 84
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, wielder of the thunderbolt (before we came to know that you are the giver of wealth)
+- नः (*naḥ*)—our
+- आशसः (*āśasaḥ*)—desires
+- त्वत् (*tvat*)—than you
+- अन्यत्र (*anyatra*)—in other gods
+- नू चित् (*nū cit*)—formerly
+- जग्मुः (*jagmuḥ*)—went and joined (it has only now been learned that you alone are the giver of wealth; therefore)
+- मघवन् (*maghavan*)—O Indra, possessor of wealth
+- तव (*tava*)—your
+- तत् (*tat*)—that wealth obtained from the enemies
+- ऊतिभिः (*ūtibhiḥ*)—with your protections
+- नः (*naḥ*)—to us
+- शग्धि (*śagdhi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt: before we knew you to be the giver of wealth, our desires went and joined other gods than you. It has only now been learned that you alone give wealth. Therefore, O Indra, possessor of wealth, give us, with your protections, the wealth obtained from the enemies.
+
+##### English translation
+Wielder of the thunderbolt, our solicitations have been formerly addressed to other gods than you : give us, Maghavan, of your (spoil, and guard it) for us with (your) protections.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒ह्य१॒ं॑ १ ग नृ॑तो॒ त्वद॒न्यं विं॒दामि॒ राध॑से ।  
+> रा॒ये द्यु॒म्नाय॒ शव॑से च गिर्वणः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । अंग ' नृतो इति । त्वत् । अन्यं । विंदामि । राधसे ।  
+> राये । द्युम्नाय । शवसे । च । गीर्वणः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृतो नर्तयितर्गीर्वणो गीर्भिः स्तुतिभिर्वननीय संभजनीयेंद्र
+> राधसे बलसंसाधकायान्नाय राये धनाय द्युम्नाय द्योतमानाय यशसे
+> शवसे वर्धकाय बलाय च त्वत्त्वत्तोऽन्यं नहि विंदामि । न लभे । अंग प्रसिद्धौ ॥
+
+##### Gist of the bhāṣya
+
+O नृतो (*nṛto*), who make all dance, O गीर्वणो (*gīrvaṇo*), Indra, who are to be loved and served with praises (गीर्भिः (*gīrbhiḥ*)): for राधसे (*rādhase*), that is, food which accomplishes strength; for राये (*rāye*), wealth; for द्युम्नाय (*dyumnāya*), shining fame; and for शवसे (*śavase*), strength which increases: I find (विंदामि (*viṃdāmi*)), that is, I obtain, no other than you. अंग (*aṃga*) is used in the sense of "well known".
+### Printed p. 85
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृतो (*nṛto*)—impeller of all
+- गिर्वण (*girvaṇa*)—worshipped with praises, O Indra
+- राधसे (*rādhase*)—for food that accomplishes strength
+- राये (*rāye*)—for wealth
+- द्युम्नाय (*dyumnāya*)—for shining fame
+- शवसे च (*śavase ca*)—and for the increase of strength
+- त्वत् (*tvat*)—apart from you
+- अन्यं (*anyaṃ*)—another deity
+- नहि विंदामि (*nahi viṃdāmi*)—I do not approach
+- अंग (*aṃga*)—this is certain
+
+##### भावार्थ (Bhāvārtha)
+
+O impeller of all, worshipped with praises, O Indra: for food that accomplishes strength, for wealth, for shining fame and also for the increase of strength, I approach no deity other than you. This is certain.
+
+##### English translation
+Verily, impeller (of men), you are to be worshipped by praise; I apply to no other than you for sustenance, riches, reputation, and strength.
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एंदु॒मिंद्रा॑य सिंचत॒ सिबा॑ति सो॒म्यं मधु॑ ।  
+> प्र राध॑सा चोदयाते महित्व॒ना ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंदुं । इंद्राय । सिंचत । पिबाति । सोम्यं । मधु ।  
+> प्र । राधसा । चोदयाते । महित्वना ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः इंदुं स्यंदनशीलं सोममिंद्रार्थमा सिंचत । आश्रयणद्रव्येण सेचनं कुरुत । अभिषुतेत्यर्थः । ततः सोम्यं सोममयं मधु
+> मधुकरं सोमरसं पिबाति । पिबतु । पीत्वा च स इंद्रो महित्वना स्वमहत्वेनैव
+> राधसान्नेन सह धनादिकं स्तोतृभ्यः प्र चोदयाते । प्रकर्षेण चोदयति ।
+> यद्वा । यजमानो महित्वना । इंद्राय प्रदीयमानत्पादस्य महत्त्वं । महत्त्वयुक्तन राधसान्नेन सह स्तोतृन् प्रचोदयति । इंद्राय हविर्दत्तेति
+> स्तोतृन्प्रेरयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O priests, pour (सिंचत (*siṃcata*)) the flowing (इंदुं (*iṃduṃ*)) Soma for Indra, that is, perform the sprinkling with the vessel material; the meaning is, press the Soma. Then let him drink (पिबाति (*pibāti*), that is, let him drink) the Soma-made honey, the Soma juice. Having drunk, Indra, by his own greatness (महित्वना (*mahitvanā*)), together with राधसा (*rādhasā*), that is, food, impels (चोदयाते (*codayāte*), that is, urges forcefully) wealth and the like towards the reciters. Or else: the sacrificer, by greatness (महित्वना (*mahitvanā*)), that is, the greatness of what is being given to Indra, together with food endowed with greatness, urges the reciters on; the meaning is that he impels the reciters, saying "an oblation has been given to Indra". **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 79. Sukta 23 Rk 30 end, Sukta 24 Rk 1-7 bhashya, pp. 72-79
+**Progress note:** Done through printed p. 85. Ṛk 7 (end) to Ṛk 13 of Sūkta 24 (pp. 80-85)
