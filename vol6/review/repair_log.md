@@ -507,3 +507,36 @@
 | 295 | `among the names of food (Ni. 3-9)` → `among the twenty-eight names of food (Ni. 3-9)` | SECOND-PASS S3: Kannada ಇತ್ಯಾದಿ ೨೮ ಅನ್ನನಾಮಗಳಲ್ಲಿ (ನಿ. ೩-೯) |
 | 296 | `*ko* affix` → `*kū* affix` | SECOND-PASS S7: Kannada ಕೂಪ್ರತ್ಯಯ (the sūtra list kūpa-jambū... is kū-affix) |
 | 296 | `Phiṭ. [17?]` → `Phiṭ. 17` | SECOND-PASS S3: Kannada (ಫಿ. ಸೂ. ೧೭) |
+
+### 2026-11-24 second pass, batch e310-339.tsv
+| page | old → new | why |
+|---|---|---|
+| 310 | `Pā. [1-1-12?]` → `Pā. 1-1-17` | SECOND-PASS S1: Kannada bhāṣya block of p.310: ಪಾ. ಸೂ. ೧-೧-೧೭ |
+| 310 | `*tubhyam* — to you` → `*tubhyam* — you` | SECOND-PASS S14: Kannada ತುಭ್ಯಂ—ನಿನ್ನನ್ನು (accusative) |
+| 310 | `(to you) who desire it` → `(to you) who are full of trust` | SECOND-PASS S14: Kannada ಉಶತಃ—ವಿಶ್ವಾಸಯುಕ್ತನಾದ (ನಿನಗೆ) |
+| 310 | `kindles you, the desirous, in his own house` → `kindles you, the trusting one, in his own house` | SECOND-PASS S14: Kannada ವಿಶ್ವಾಸಯುಕ್ತನಾದ ನಿನಗೆ (bhāvārtha) |
+| 310 | `twenty-two names of food` → `twenty-eight names of food` | SECOND-PASS S2: Kannada ೨೮ ಅನ್ನನಾಮಗಳಲ್ಲಿ |
+| 311 | `twenty-two names of food` → `twenty-eight names of food` | SECOND-PASS S2: Kannada ೨೮ ಅನ್ನನಾಮಗಳಲ್ಲಿ |
+| 311 | `[4-5-3; 7-8-6; 7-24-2; 9-4-7?; 9-40-6; 10-116-4]` → `4-5-3; 7-8-6; 7-24-2; 9-4-7; 9-40-6; 10-116-4` | SECOND-PASS S1: Kannada ೪-೫-೩ ; ೭-೮-೬ ; ೭-೨೪-೨ ; ೯-೪-೭ ; ೯-೪೦-೬ ; ೧೦-೧೧೬-೪ |
+| 311 | `rāyo yāsat` → `rāyā yāsat` | SECOND-PASS S7: Kannada ಸರಥಂ ಯಂ ಜುನಾಸಿ ರಾಯಾ ಯಾಸತ್ (rāyā, not rāyo) |
+| 312 | `wins, unbroken, and obtains` → `certainly wins and obtains` | SECOND-PASS S14: Kannada ಖಂಡಿತವಾಗಿಯೂ ಜಯಿಸಿ (khaṇḍitavāgiyū = certainly) |
+| 313 | `, Pā. [8-1-66],` → `,` | SECOND-PASS S2: Kannada prints no sūtra number after ಯದ್ವೃತ್ತಾನಿತ್ಯಮ್ on p.313 |
+| 315 | `what he needs for the fulfilment of the rites` → `what he needs in return` | SECOND-PASS S16: Kannada ತತ್ಪತಿಫಲವಾಗಿ ಯಜಮಾನನಿಗೆ ಬೇಕಾದುದೂ (no fulfilment of rites) |
+| 317 | `Others derive it from the root` → `Therefore it is derived from the root` | SECOND-PASS S14: Kannada ಆದುದರಿಂದ ಸಂತತಿ ಎಂಬರ್ಥವನ್ನು ಕೊಡುವ ಜಾ ಎಂಬ ಮೂಲದಿಂದಲಾಗಲಿ ... ನಿಷ್ಪನ್ನವಾಗಿದೆ |
+| 318 | ` by *asaṃyogāl liṭ kit*, no guṇa` → ` since the affix is treated as *kit*, no guṇa` | SECOND-PASS S16: Kannada: ಪ್ರತ್ಯಯಕ್ಕೆ ಕಿದ್ವದ್ಭಾವವಿರುವುದರಿಂದ; no sūtra name asaṃyogāl liṭ kit on p.318 |
+| 321 | `Tiṣṭhatīva hi` → `Tiṣṭhaty eva hi` | SECOND-PASS S7: Kannada ತಿಷ್ಠತ್ಯೇವ ಹಿ ಭೂತಾನಾಂ (ty eva, not tīva) |
+| 322 | `twenty-two names of strength` → `twenty-eight names of strength` | SECOND-PASS S2: Kannada ೨೮ ಬಲನಾಮಗಳಲ್ಲಿ |
+| 322 | `one who also is beneficent in giving us, through rain, the wealth of crops, and intent on ` → `the intellect that is beneficent, giving us through rain the wealth of crops, and intent o` | SECOND-PASS S14: Kannada ಕಲ್ಯಾಣಾತ್ಮಕವಾದುದೂ ಕರ್ಮನಿರತವಾದುದೂ ಆದ ಬುದ್ಧಿಯನ್ನೂ |
+| 323 | `*iṅ gatau* with Uṇādi` → `*iṇ gatau* with Uṇādi` | SECOND-PASS S7: Kannada ಇಣ್ ಗತೌ ಧಾತು (iṇ, not iṅ) |
+| 324 | `Pā. [6-3-25]; both` → `; both` | SECOND-PASS S2: Kannada bhāṣya tail (p.325) prints no sūtra number here |
+| 324 | `devatādvandve ca*, Pā. [6-2-141])` → `devatādvandve ca*)` | SECOND-PASS S2: Kannada bhāṣya tail (p.325) prints no sūtra number here |
+| 325 | `*vasvaḥ satrā* — together with the wealth` → `*vasvaḥ satrā* — of wealth, at once` | SECOND-PASS S14: Kannada ವಸ್ವಃ ಸತ್ರಾ—ಧನಕ್ಕೆ ಒಡನೆಯೇ |
+| 327 | `*iṅ gatau*? [as read, *i* "to go"]` → `*iṇ gatau*` | SECOND-PASS S7: Kannada ಇಣ್ ಗತೌ ಧಾತು |
+| 328 | `Pā. [7-2-82]` → `Pā. 8-2-82` | SECOND-PASS S1: Kannada ಅನೇಮುಕ್ (ಪಾ. ಸೂ. ೮-೨-೮೨) |
+| 328 | `Pā. [6-1-186]` → `Pā. 6-1-176` | SECOND-PASS S1: Kannada ತಾಸ್ಯನುದಾತ್ತೇತ್ (ಪಾ. ಸೂ. ೬-೧-೧೭೬) |
+| 329 | `*mināti* — is injured (is destroyed)` → `*mināti* — torments` | SECOND-PASS S14: Kannada ಮಿನಾತಿ—ಹಿಂಸೆಪಡಿಸುತ್ತದೆ |
+| 329 | `*kaviḥ san* — being the seer` → `*kaviḥ san* — able to know all that went before` | SECOND-PASS S17: Kannada ಕವಿಃ ಸನ್—ಹಿಂದೆ ನಡೆದುದನ್ನೆಲ್ಲಾ ತಿಳಿಯಬಲ್ಲವನಾಗಿ |
+| 330 | `composed sixteen sūktas` → `composed sixteen sūktas beginning from Ṛk Saṃhitā 7-1-1` | SECOND-PASS S3: Kannada ಋಕ್ಸಂಹಿತೆಯ ೭-೧-೧ ರಿಂದ ಹದಿನಾರು ಸೂಕ್ತಗಳನ್ನು |
+| 332 | `Uṇ. [4-650?] (p. 329 prints 4-210)` → `Uṇ. 4-650` | SECOND-PASS S1: Kannada p.332 ನಹೇರ್ದಿವಿ ಭಶ್ಚ (ಉ. ಸೂ. ೪-೬೫೦) |
+| 335 | `(Ni. [3-19?])` → `(Ni. 3-19)` | SECOND-PASS S1: Kannada (ನಿ. ೩-೧೯) |
+| 336 | `havirniyanādi` → `havirnayanādi` | SECOND-PASS S7: Kannada ಅಮೃತಾನಿ-ನಿತ್ಯಾನಿ ಹವಿರ್ನಯನಾದೀನಿ |

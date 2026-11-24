@@ -13,3 +13,5 @@ block-not-read	268	bhāṣya block (Devanagari and IAST) still has tai. brā. [1
 block-not-read	252, 255	Kannada grammar tails print ६-७ / ८-९ while its own Saṃhitā/Pada blocks print ५-६ / ७-८; English follows the blocks (a question row)
 block-not-read	280, 284, 293	bhāṣya-tail characterisations still have [?] numerals (Uṇ. [2-28?] on p. 280; Uṇ. 2-97, 4-73, Phiṭ., Pā. 5-2-122 on pp. 284, 293); they come from the bhāṣya, not from the Kannada numerals; for the editor
 other	283	The Kannada heading prints "ಸೂಕ್ತ-೨೧" where the English gives 71 (question row)
+boundary-shifted	315-316	English p. 315 carries the whole Special Topics paragraph incl. the first lines of Kannada p. 316; English p. 316 repeats its end as "(Completion)"
+boundary-shifted	324-325	English p. 324 carries the whole bhāṣya of 72.9 incl. the grammatical tail that is on Kannada p. 325
