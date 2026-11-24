@@ -7532,6 +7532,279 @@ Bearing the clipped sacred grass, offering in due order the(sacrificial) food, p
 
 O Viśve Devāḥ, come forth; come to our rites. O Maruts; O Viṣṇu, the deity so named, who pervades everywhere by his own strength; O Aśvins; O Pūṣan, who nourishes by praise and the like, the deity so named: and the Maruts and the other gods, come to our sacrifice with the praise made by me, माकीनया (*mākīnayā*) (that is, made by me). Further, Indra also, first, that is, chief among the gods, let him come: he is the showerer, the one who pours out the desires. Sanisyubhiḥ means by praisers who desire the sharing (sani is partaking) of that. He is the slayer of Vṛtra, the demon who covers the waters, and so he is praised.
 
+### Printed p. 167
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- विष्णो (*viṣṇo*)—O Viṣṇu
+- अश्विना (*aśvinā*)—O Aśvin deities
+- पूषन् (*pūṣan*)—O god Pūṣan
+- माकीनया (*mākīnayā*)—recited by me
+- धिया (*dhiyā*)—pleased with the praise
+- आ प्रयात (*ā prayāta*)—all of you, come
+- वृषा (*vṛṣā*)—the showerer of desires
+- यः (*yaḥ*)—who
+- सनिष्युभिः (*saniṣyubhiḥ*)—by his worshippers
+- वृत्रहा (*vṛtrahā*)—as the slayer of Vṛtra
+- गृणे (*gṛṇe*)—is praised, such a one
+- प्रथमः (*prathamaḥ*)—chief among the gods
+- इंद्रः (*iṃdraḥ*)—Indra
+- आ यातु (*ā yātu*)—let him come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, O Viṣṇu, O Aśvin deities, O god Pūṣan, pleased with the praise recited by me, come, all of you. May Indra also come to us, Indra who is chief among the gods, the showerer of desires, whom his worshippers praise as the slayer of Vṛtra.
+
+##### English translation
+Maruts, Aswins, Pushan, come hither (induced) by my praise : may Indra, the first (of the gods). also come, the showerer (of benefits), he who is praised by (his) worshippers as the slayer of Vritra.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि नो॑ देवासो अद्रु॒होऽच्छि॑द्रं॒ शर्म॑ यच्छत ।  
+> न यद्दू॒राद्व॑सवो॒ नू चि॒दंति॑तो॒ वरू॑थमाद॒धर्ष॑ति ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । नः । देवासः । अद्रुहः । अच्छिद्रं । शर्म । यच्छत ।  
+> न । यत् । दूरात् । वसवः । नु । चित् । अंतितः । वरूथं । आदधर्षति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रुहः स्तोतृणामद्रोग्यारः । यद्वा ॥ म्रुहेर्णादिकः कर्मणि
+> क्विप् ॥ शत्रुभिरहिंस्याः । हे देवासो मरुदादयो देवाः अच्छिद्रं बाधकरहितं
+> साधीयो वा शर्म । शृणाति दुःखादिकमिति शर्म गृहं । तन्नोऽस्मभ्यं वि यॆच्छत ।
+
+##### Gist of the bhāṣya
+
+O Adruhaḥ, you who do not injure the praisers, or else you who cannot be harmed by enemies; O gods, Maruts and the others, give us a house (śarma, so called because it breaks sorrow and the like) that is faultless, free from obstruction, or very good. Give that to us.
+
+### Printed p. 168
+
+> हे वसवः शत्रूणां वासयितारो मरुदादयः दूराद्दूरदेशादंतितोऽंतिकदेशाद्वा कश्चिदागत्य नू चित्कदाचिदपि वरूथं वरणीयं संभजनीयं यद्गृहं
+> नादधर्षति आधर्षणं हिंसनं न करोति तद्गृहं प्रयच्छतेति समन्वयः ॥ धृष
+> प्रसहन इत्यस्य विभाषितणिच त्वात् यदा णिच् नास्ति तदा रूपं ॥
+
+##### Gist of the bhāṣya
+
+O Vasus, Maruts and the others, who cause the enemies to dwell: whatever house is such that no one, coming from afar or from near, at any time assails or harms it, that desirable house, to be partaken of, give to us. This is the construction. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रुहः (*adruhaḥ*)—O you who do no harm
+- देवासः (*devāsaḥ*)—O gods, Maruts and the others
+- अच्छिद्रं (*acchidraṃ*)—faultless
+- शर्म (*śarma*)—a house
+- नः (*naḥ*)—to us
+- वि यच्छत (*vi yacchata*)—give
+- वसवः (*vasavaḥ*)—O Maruts and the others, who overthrow enemies
+- यत् (*yat*)—which house
+- दूरात् (*dūrāt*)—from afar
+- अंतितः (*aṃtitaḥ*)—from a near place also
+- नू चित् (*nū cit*)—at any time (by anyone)
+- न आदधर्षत् (*na ādadharṣat*)—cannot be harmed, such
+- वरूथं (*varūthaṃ*)—give an excellent house
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts and the other gods, who do no harm, give us a house free from fault. O Maruts and the others, who overthrow enemies, give us an excellent house, such that no one, whether from afar or from near, can besiege and harm it.
+
+##### English translation
+Unoppressive deities, bestow upon us a mansion without defect, so that, subduers (of foes), no one may injure our defences, whether from afar or nigh.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्ति॒ हि वः॑ सजा॒त्यं॑ रिशादसो॒ देवा॑सो॒ अस्ताप्यं॑ ।  
+> प्र णः॒ पूर्व॑स्मै सुवि॒ताय॑ वोचत म॒क्षू सु॒म्नाय॒ नव्य॑से॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्ति । हि । वः । सजात्यं । रिशादसः । देवासः । अस्ति । अप्यं ।  
+> प्र । नः । पूर्वस्मै । सुविताय । वोचत । मक्षु । सुम्नाय । नव्यसे ॥ १० ॥
+
+### Printed p. 169
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रिशादसो रिशतां हिंसतामसितारो देवासो देवा द्योतमाना
+> मरुदादयः वो युष्माकं सजात्यमस्ति । परस्परं समानजातिभावोऽस्ति खलु ।
+> किंचाप्यं । आपिर्बंधुः । तस्य भाव आप्यं । स्तोतृषु स्तुत्यलक्षणेन संबंधाद्वैवस्वतेन मनुना मया स्तोत्रा सह युष्माकं बंधुभावोऽस्ति खलु । ततः
+> पूर्वस्मै प्रथमभाविने सुविताय । सुष्टीयते सर्वैरागम्यत इति सुवितोऽभ्युदयः । तस्मै नव्यसे नवीयसे नवतराय सुम्माय च उभयं मक्षु शीघ्रं
+> नोऽस्माकं प्र वोचत । प्रकर्षण ब्रूत । अभ्युदयधनानि प्रयच्छतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O destroyers of the enemies who do harm, O shining gods, Maruts and the others: there is among you the condition of one kind (sajātya); you are of the same class with one another. Further, there is āpya: āpi is a kinsman, and his state is āpya. Through the relation that consists in praise, there is kinship between you and me, the praiser, Manu Vaivasvata. Therefore, for the earlier, first-arising suvita (what all attain well, prosperity), and for the newer, the very new, sumna (happiness): both of these, speak forth to us quickly. The meaning is: give us prosperity and wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रिशादसः (*riśādasaḥ*)—you who harm the enemies
+- देवासः (*devāsaḥ*)—O gods
+- वः (*vaḥ*)—among you
+- सजात्यं (*sajātyaṃ*)—a relation of belonging to one group
+- अस्ति हि (*asti hi*)—there is, is there not
+- आप्यं (*āpyaṃ*)—your kinship with your praisers
+- अस्ति (*asti*)—there is
+- पूर्वस्मै (*pūrvasmai*)—that has come from before
+- सुविताय (*suvitāya*)—for prosperity
+- नव्यसे (*navyase*)—new
+- सुम्नाय (*sumnāya*)—for happiness
+- मक्षु (*makṣu*)—quickly
+- नः (*naḥ*)—to us
+- प्र वोचत (*pra vocata*)—recite the blessing (svasti-vācana)
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, who harm the enemies, there is indeed a relation among you of belonging to one group. Your relation with your praisers is also well known. Recite the blessing for us quickly, for the prosperity that has come from before and for new happiness.
+
+##### English translation
+There is identity of race among you, deities, destroyers of foes ; there is kindred (with me your worshipper) ; therefore utter at once the command for our former prosperity and for new happiness.
+
+##### विशेषविषयगळु (Special Topics)
+
+Rishādasaḥ: रिशतां हिंसतामसितारः (*riśatāṃ hiṃsatāmasitāraḥ*). Those who put down, who harm, the enemy people who do harm; that is, those who harm and kill enemies, destroyers of enemies, is the meaning. Yāska. For this word:
+रिशादसः । अस्ति हि वः सजात्यं रिशादसो देवासो अस्त्याप्यं । अस्ति हि वः समानजातिता रेशयदारिणो देवाः । अस्त्याप्यं । आप्यमाप्नोषेः ॥ (*riśādasaḥ | asti hi vaḥ sajātyaṃ riśādaso devāso astyāpyaṃ | asti hi vaḥ samānajātitā reśayadāriṇo devāḥ | astyāpyaṃ | āpyamāpnoṣeḥ ‖*) (3. 6-14). **NOTE**
+
+### Printed p. 170
+The gods harm and kill the enemy people who needlessly do violence to others. Since this quality is seen in all the gods, it is said that there is a kind of kinship among the gods. The word āpya is derived from the root āpḷ vyāptau, meaning to obtain, and here it indicates the sense of kinship; so the explanation (nirvacana) has been given.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दा हि व॒ उप॑स्तुतिमि॒दा वा॒मस्य॑ भ॒क्तये॑ ।  
+> उप॑ वो विश्ववेदसो नम॒स्कुरा असृ॒क्षन्या॑मिव ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदा । हि । वः । उपस्तुतिं । इदा । वामस्य । भक्तये ।  
+> उप । वः । विश्ववेदसः । नमस्युः । आ । असृक्षि । अन्यां इव ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्ववेदसः सर्वधना हे देवाः नमस्युरन्नमिच्छन् मनुरहं वो
+> युष्मद्विषयामुपस्तुतिमन्यामिवादृष्टपूर्वामिव स्थितां । कैश्चिदप्यकृतामित्यर्थः ।
+> तादृशीमुपस्तुतिमिदा हि । हिरवधारणे । इदानीमेवोपासृक्षि । उपासृजामि ।
+> करोमीत्यर्थः । किमर्थ० । वो युष्मत्संबंधिनो वामस्य वननीयस्येदेदानीमेव भक्तये संभजनाय । लाभायेत्यर्थः ॥ अस्पृक्षीति सृजेर्लुजि रूपं ।
+> पादादित्वादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O all-wealthy gods: I, Manu, namasyu, desiring food, now indeed compose the praise relating to you, a praise that is as if of another, as if unseen before; the meaning is that no one has made it. Why? For the vāma, the desirable thing belonging to you, to partake of it now, that is, for gain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसः (*viśvavedasaḥ*)—O gods who possess all wealth
+- नमस्युः (*namasyuḥ*)—I who desire food
+- वः (*vaḥ*)—that belongs to you
+- वामस्य (*vāmasya*)—and is attractive, wealth and the like
+- इदा (*idā*)—now
+- भक्तये (*bhaktaye*)—in order to obtain
+- वः (*vaḥ*)—that praises you
+- उपस्तुतिं (*upastutiṃ*)—the hymn
+- अन्यां इव (*anyāṃ iva*)—as if newly made, not recited by others
+- इदा हि (*idā hi*)—now
+- उप आ अस्पृक्षि (*upa ā aspṛkṣi*)—having made it, I recite
+
+##### भावार्थ (Bhāvārtha)
+
+O gods who possess all wealth, I, who desire food, make now the hymn that praises you, as if newly made, not made or recited by others, and recite it now, in order to obtain at once the wealth and the like that belong to you and are attractive.
+
+### Printed p. 171
+
+##### English translation
+Deities, possessed of all wealth, I, desirous of offering worship, address to you verily unprecedented praise, for the sake of obtaining desired affluence.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदु॒ ष्य वः॑ सवि॒ता सु॑प्रणीत॒योऽस्था॑दू॒र्ध्वो वरे॑ण्यः ।  
+> नि द्वि॒पाद॒श्चतु॑ष्पादो अ॒र्थिनोऽवि॑श्रन्पतयि॒ष्णवः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ऊं इति । स्यः । वः । सविता । सुप्रनीतयः । अस्थात् । ऊर्ध्वः । वरेण्यः ।  
+> नि । द्विपादः । चतुःऽपादः । अर्थिनः । अविश्रन् । पतॆयिष्णवः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुप्रणीतयः । शोभनप्रणीति स्तुतिः । शोभनप्रणयनाः शोभनस्तुतयो
+> मरुतः वो युष्माकं मध्य ऊर्ध्व ऊर्ध्व० गंता वरेण्यः सर्वैर्वर्णीयः
+> संभजनीयः स सविता सर्वस्य स्वकर्मणि प्रेरक एतन्नामकः स देवो यदोदस्थात
+> स्वतेजसोद्धतोऽभूत् तदार्थिनो द्विपादो पादद्वययुक्ताः पुरुषाश्चतुष्पादः
+> पादचतुष्टययुक्ता आश्वादयः पतयिष्णवः पतनशीलाः दक्षिणश्च न्यविश्रन् ।
+> स्वस्वकार्येषु निविशंते । सूर्य उदिते केचन पुरुषा अग्निहोत्रादिकं कुर्वंति
+> केचन देवताविषयं स्तोत्रं कुर्वंति । पश्वादयस्तृणादिभक्षणार्थं सर्वत्र
+> संचरंति ॥ न्यविश्रन् । निपूर्वाद्विशतेर्लज व्यत्ययेन परस्मैपदं । बहुलं छंदसीति
+> रुडागमः ॥
+
+##### Gist of the bhāṣya
+
+O Suprāṇītayaḥ, those of good praise, the Maruts: the word means those who have good guidance, good praises. When that Savitṛ, the deity so named, the impeller of everyone in his own work, who goes upward among you, to be chosen and partaken of by all, rises up (udasthāt: has risen, uplifted by his own radiance), then those who are in need, the bipeds, men with two feet, the quadrupeds, horses and the like with four feet, and the flying ones, those that tend to fly, and the birds, enter upon their own tasks. **NOTE** When the sun has risen some men perform the agnihotra and the like, some make praise of the deities, and animals and the rest roam everywhere to eat grass and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुप्रणीतयः (*supraṇītayaḥ*)—O Maruts, worthy of excellent praise
+- यदा (*yadā*)—when
+- वः (*vaḥ*)—among you
+- ऊर्ध्वः (*ūrdhvaḥ*)—who moves upward
+- वरेण्यः (*vareṇyaḥ*)—worthy of worship by all
+- स्यः सविता (*syaḥ savitā*)—Savitṛ, the impeller of the world
+- उदस्थात् (*udasthāt*)—appears with his radiances (then)
+- अर्थिनः (*arthinaḥ*)—who strive to accomplish each his own desired ends
+- द्विपादः (*dvipādaḥ*)—men who have two feet
+- चतुष्पादः (*catuṣpādaḥ*)—horses and the like that have four feet
+- हतयिष्णवः (*hatayiṣṇavaḥ*)—the birds that fly about
+- नि अविश्रन् (*ni aviśran*)—are intent on their own tasks
+
+### Printed p. 172
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, worthy of excellent praise, when Savitṛ, who moves upward among you, worthy of worship by all, the impeller of the world, the renowned, appears with his radiances, then men who have two feet, horses and the like that have four feet, and the birds that fly about, all striving to accomplish their own desired ends, are intent on their own tasks.
+
+##### English translation
+Devoutly praised (Maruts), when the adorable Savitri has risen above you, then bipeds and quadrupeds, and the flying birds seeking (their objects), enter (upon their fuuctions).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वंदे॑वं॒ वोऽव॑से दे॒वंदे॑वम॒भिष्ट॑ये ।  
+> दे॒वंदे॑वं हुवेम॒ वाज॑सातये गृ॒णंतो॑ दे॒व्या धि॒या ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवंऽदेवं । वः । अवसे । देवंऽदेवं । अभिष्टये ।  
+> देवंऽदेवं । हुवेम । वाजसातये । गृणंतः । देव्या । धिया ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचमेऽहनि प्रउगशस्त्रे देवंदेवमिति वैश्वदेवस्त्रृचः । सूत्रितं च ।
+> देवंदेवं बृहदु गायिषे वचः । आ. ७-१२ । इति ॥
+> वयं देव्या द्योतमानया धिया स्तुत्या गृणंतः स्तुवंतः संतो वो
+> युष्माकं मध्ये देवं देवं दीप्यमानं देवमवसे कर्मरक्षणायाह्वयाम ।
+> अनुक्रमेणाह । अभिष्टयेऽभिलषितप्राप्त्यर्थं च देवं देवं वयमाह्सयाम ।
+> ततो वाजसातयेऽन्नलाभाय हुवेम । ह्वयाम ॥
+
+##### Gist of the bhāṣya
+
+On the fifth day, in the प्रउगशस्त्रे (*praugaśastre*), the triplet beginning देवंदेवमिति (*devaṃdevamiti*) is addressed to the Viśve Devāḥ; the sūtra is cited as Ā. 7-12, beginning देवंदेवं बृहदु गायिषे वचः (*devaṃdevaṃ bṛhadu gāyiṣe vacaḥ*). We, praising with shining praise, call, among you, each shining god for the protection of our rite. He says it in order: for the obtaining of what we desire we call each god; then for the gain of food we call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- O gods
+- देव्या (*devyā*)—with shining
+- धिया (*dhiyā*)—praise
+- गृणंतः (*gṛṇaṃtaḥ*)—we who praise
+- वः (*vaḥ*)—who are among you
+- देवंदेवं (*devaṃdevaṃ*)—each god
+
 ---
 
-**Progress note:** Done through printed p. 166. Mandala 8 Sukta 27 Rks 3-8 (8 in part)
+**Progress note:** Done through printed p. 172. Mandala 8 Sukta 27 Rks 8-13 (13 in part)
