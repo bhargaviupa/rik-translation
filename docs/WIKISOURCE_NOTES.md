@@ -2,6 +2,8 @@
 
 *Written Nov 23 2026 from the work of the Sāyaṇa-bhāṣya session. Decision of the user: the text of sa.wikisource.org is the correct base for the Saṃhitā, the Pada-pāṭha and Sāyaṇa's bhāṣya. Where a volume's machine-read text differs from it, the volume's text is the one that was misread. Nothing here has been compared with the printed edition.*
 
+The complete Devanagari text, readable, is in `refs/wikisource/export/Rigveda_Devanagari_M00.md` … `M10.md` (one file per maṇḍala; M00 is Sāyaṇa's bhāṣya-bhūmikā), made by `tools/rv/ws_export.py` from the index.
+
 Files and tools: `refs/wikisource/raw/` (the raw wikitext, `tools/rv/ws_pull.py`), `refs/wikisource/index/ws.sqlite` (rebuilt with `python3 tools/rv/ws_index.py build`; not committed), `refs/wikisource/index/checks.tsv`, `tools/rv/ws_vs_refmandala.py` (comparison with `refs/mandala/`), `publish/tools/ws_layers.py` (prototype for the print build, off by default). Reference points: **M.S** sūkta, **M.S.R** Ṛk, **M.S.R.P** paragraph of Sāyaṇa's text (R = 0 is his introduction to the sūkta).
 
 ## Spellings that are conventions, not differences of text
