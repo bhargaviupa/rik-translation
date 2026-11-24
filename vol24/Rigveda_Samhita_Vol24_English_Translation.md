@@ -31355,6 +31355,281 @@ In the Acchāvāka śastra mentioned before, the pragātha आ वृषस्�
 - आ वृषस्व (*ā vṛṣasva*)—pour into the belly
 - हरिवः (*harivaḥ*)—who bears the name Hari
 
+### Printed p. 691
+
+possessing horses, O Indra.
+
+- त्वा (*tvā*)—you
+- पृत्सु (*pṛtsu*)—in battles
+- सासहिं (*sāsahiṃ*)—as one who defeats enemies
+- अदृष्टं चित् (*adṛṣṭaṃ cit*)—as one who cannot be struck down
+- दधृष्टणिं (*dadhṛṣṭaṇiṃ*)—as one who confronts others
+- विद्म हि (*vidma hi*)—we indeed know
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of abundant wealth, pour the pressed Soma juice into your belly. O Indra, who have the horses called Hari, we know that in battles you alone are the destroyer of enemies, and that you confront others and cannot be struck down by others.
+
+##### English translation
+Indra, possessor of much wealth, pour the effused Soma within you ; possessor of (bright) coursers, we know you, the overpowerer in battles, the unconquerable, the conqueror.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप्रा॑मिसत्य मघव॒न्तथेद॑स॒दिंद्र॒ क्रत्वा॒ यथा॒ वशः॑ ।  
+> स॒नेम॒ वाजं॒ तव॑ शिप्रि॒न्नव॑सा म॒क्कू चि॒द्यंतो॑ अद्रिवः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्रामिसत्य । मघवन् । तथा । इत् । असत् । इंद्र । क्रत्वा । यथा । वशः ।  
+> सनेम । वाजं । तव । शिप्रिन् । अवसा । मक्षु । चित् । यंतः । अद्रिवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अप्रामिसत्याहिंसितसत्य हे मघवन्निंद्र तथेदसत् । तथैव भवति । हे
+> इंद्र क्रत्वा कर्मणा प्रज्ञानेन यथा येन प्रकारेण वशः कामयेः । हे शिप्रिना
+> अवसा रक्षणेन निमित्तेन वाजमन्नं सनेम संभजेम वयं तव त्वदनुग्रहात् ।
+> कीदृशा वयं । मक्षु चिच्छीघ्रमेव यंतः शत्रून्गच्छंतोऽभिभवंतः । हे अद्रिवः ।
+> अद्रिर्वज्रः । तद्वन्निंद्रॆति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, of unbroken truth, Maghavan, तथेदसत् (*tathedasat*): it happens just so. O Indra, by kratu, that is, by action or by wisdom, in whatever manner you desire, so it comes to pass. O Śiprin, by protection as the cause, may we obtain food, vāja, by your favour. Of what kind are we? Going quickly, makṣu cit, against the enemies and overcoming them. O Adrivat: adri is the thunderbolt, and Indra has it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्रामिसत्य (*aprāmisatya*)—O one whose nature is truth that is not injured
+- मघवन् (*maghavan*)—O wealthy one
+- इंद्र (*iṃdra*)—O Indra
+- क्रत्वा (*kratvā*)—by your action, which is full of wisdom
+- यथा (*yathā*)—in what
+
+### Printed p. 692
+
+manner
+- वशः (*vaśaḥ*)—you desire
+- तथा इत् असत् (*tathā it asat*)—in just that way it comes to fruition
+- शिप्रिन् (*śiprin*)—O one with the fine cheek
+- अद्रिवः (*adrivaḥ*)—O Indra, who carry the thunderbolt
+- तव (*tava*)—by your favour
+- मक्षु चित् (*makṣu cit*)—the moment we resolve
+- यंतः (*yaṃtaḥ*)—we, who are able to confront and defeat enemies
+- अवसा (*avasā*)—while your protection is there
+- वाजं (*vājaṃ*)—food
+- सनेम (*sanema*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whose nature is truth that is not injured, and who are wealthy, in whatever manner you desire by your action full of wisdom, in that very way everything comes to fruition. O Indra, with the fine cheek, who carry the thunderbolt, by your favour, may we, who the moment we resolve are able to confront and defeat enemies, obtain food through your protection.
+
+##### English translation
+Indra, Maghavan of unbroken truth, it ever comes to pass as you in your knowledge may desire ; by your protection, O handsome-jawed, may we obtain food, speedily, O thunderer, subduing our enemies.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शग्थ्य ३ षु शचीपत इंद्र विश्वाभिरूतिभिः ।  
+> भगं॒ न हि त्वा॑ य॒शसं॑ वसु॒विद॒मनु॑ शूर॒ चरा॑मसि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शग्गि । ऊं इति । सु । शचीऽपते । इंद्र । विश्वाभिः । ऊतिऽभिः ।  
+> भगं । न । हि । त्वा । यशसं । वसुविदं । अनु । शूर । चरामसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शचीपत इंद्र शग्धि । देह्यभिमतं । विश्वाभिः सर्वाभिरूतिभिर्मरुद्भिः सह ।
+> हे शूर भगं न भाग्यमिव यशसं यशस्विनं वसुविदं धनस्य लंभकं त्वा त्वामनु
+> चरामसि । अनुचरामः । परिचरामेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Śacīpati Indra, शग्धि (*śagdhi*): give what we desire, together with all your aids, the Maruts. O hero, like bhaga, that is, like good fortune, you are glorious and a finder of wealth, the obtainer of riches; we follow you, अनुचरामः (*anucarāmaḥ*), that is, we attend upon you.
+
+### Printed p. 693
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीते (*śacīte*)—O protector of rites
+- इंद्र (*iṃdra*)—O Indra
+- विश्वाभिः (*viśvābhiḥ*)—all
+- सु ऊतिभिः (*su ūtibhiḥ*)—together with your protections
+- शग्नि (*śagni*)—grant our desired object
+- शूर (*śūra*)—O mighty Indra
+- भगं न (*bhagaṃ na*)—who are like the deity of fortune
+- यशसं (*yaśasaṃ*)—glorious
+- वसुविदं (*vasuvidaṃ*)—and the obtainer of wealth
+- त्वा अनु (*tvā anu*)—looking to you alone
+- चरामसि (*carāmasi*)—we serve
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of rites, with all your excellent protections grant our desired object. O mighty Indra, looking to you alone, who are like the deity of fortune, glorious and the obtainer of wealth, we worship.
+
+##### English translation
+Indra, lord of rites, give us (our desire) with all your helping powers ; hero, we worship you as happiness, the glorious, the obtainer of wealth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पौ॒रो अश्व॑स्य पुरु॒कृद्गवा॑म॒स्युत्सो॑ देव हिर॒ण्ययः॑ ।  
+> नकि॒र्हि दानं॑ परि॒मर्धि॑ष॒त्वे यद्य॒द्यामि॒ तदा भ॑र ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पौरः । अश्वस्य । पुरुऽकृत् । गवां । आसि । उत्सः । देव । हिरण्ययः ।  
+> नकिः । हि । दानं । परिमर्धिषत् । त्वे इति । यत्ऽयत् । यामि । तत् । आ । भर ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमश्वस्य पौरः पूरयितासि । भवसि । तथा गवां पुरुकृद्बहुकर्तासि ।
+> हे देव हिरण्ययो हिरण्मयशरीरस्त्वमुत्स उत्ससदृशोऽसि । हे इंद्र त्वे त्वयि
+> वर्तमानं दानमस्मद्विषयं देयं धनं वा नकिः परिमर्धिषत् । न कश्चिद्दिनस्ति ।
+> अतो यद्यद्यामि याचे तदा भर । आहर मह्यं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the filler, the one who makes plentiful, of the horse; likewise you are the great maker of cows. O god, golden one, golden-bodied, you are like a spring. O Indra, the gift or wealth to be given that lies in you, in respect of us, no one injures. Therefore, whatever I ask, bring that, bring it to me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra, you) अश्वस्य (*aśvasya*)—for horses
+- पौरः (*pauraḥ*)—the giver of nourishment
+- असि (*asi*)—you are
+- गवां (*gavāṃ*)—for cows
+- पुरुकृत् (*purukṛt*)—the cause of increase, you are
+- देव (*deva*)—O Indra, divine in nature
+
+### Printed p. 694
+
+- हिरण्ययः (*hiraṇyayaḥ*)—you who possess a form of gold
+- उत्सः (*utsaḥ*)—are like a spring that grants what is wished
+- ते (*te*)—which is situated in you
+- दानं (*dānaṃ*)—and is to be given to us, the wealth
+- नकिः परिमर्धिषत् (*nakiḥ parimardhiṣat*)—no one can destroy
+- यद्यत् यामि (*yadyat yāmi*)—whatever I desire
+- तत् (*tat*)—all that
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the giver of nourishment to horses and the cause of increase to cows. O Indra, divine in nature, you who possess a form of gold are like a spring that grants what is wished. No one can destroy the wealth that is situated in you and is to be given to us. Whatever I desire, bring and provide all that.
+
+##### English translation
+You are the increaser of horses, the multiplier of cows ; you, deity, with your golden body are a very fountain ; none can harm the gifts laid up for me in you ; bring me whatever I ask.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह्येहि॒ चेर॑वे वि॒दा भगं॒ वसु॑त्तये ।  
+> उद्या॑वृषस्व मघव॒न्गवि॑ष्टय॒ उदिं॒द्राश्व॑मिष्टये ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वं । हि । आ । इहि । चेरवे । विदाः । भगं . वसुत्तये ।  
+> उत् । ववृषस्व । मघवन् । गोइष्टये ! उत् । इंद्र । अश्वं इष्टये ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यग्निष्टोमे बृहत्साम तदानीं निष्केवल्ये प्रगाथोऽनुरूपः । सूतं
+> च । त्वं हैहि चेरव इति प्रगाथा एते भवंति । आ. ५-१५ । इति ॥ महाव्रते निष्केवल्य
+> उत्तरपक्षेयं प्रगाथः ! तथैव पंचमारण्यके सूत्रितं ' त्वामिद्दि दवामदे त्वं
+> हैहि चेरव इति बृहतः स्तोत्रियानुरूपौ प्रगाथौ । ऐ. आ. ५-२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+If the Bṛhatsāman is used in the Agniṣṭoma, then in the niṣkevalya śastra this pragātha is the anurūpa. The sūtra is: त्वं हैहि चेरव इति प्रगाथा एते भवंति (*tvaṃ haihi cerava iti pragāthā ete bhavaṃti*) (Ā. 5-15) **GLOSS**. In the Mahāvrata, in the niṣkevalya, this pragātha belongs to the latter alternative. So it is aphorised in the Fifth Āraṇyaka: त्वामिद्दि दवामदे त्वं हैहि चेरव इति बृहतः स्तोत्रियानुरूपौ प्रगाथौ । (*tvāmiddi davāmade tvaṃ haihi cerava iti bṛhataḥ stotriyānurūpau pragāthau |*) (Ai. Ā. 5-2-2) **GLOSS**.
+
+### Printed p. 695
+
+> हे इंद्र त्वं हि त्वं खलु । सामर्थ्यद्दातेति गम्यते । अत एहि । आगच्छ ।
+> आगत्य चास्मभ्यं भगं भजनीयं धनं विदाः । लभस्व । दत्स्व । किमर्थं । वसुत्तयेऽस्माकं वसुदानाय । हे मघवन् गविष्टये गा इच्छते मह्यमुद्ववृषस्व । उत्सिंचस्व
+> गामिति शेषः । तथा हे इंद्र अश्वमिष्टयेऽश्वैषणवते मह्यमश्वानुद्ववृषस्व ।
+> उत्सिंचस्व । देहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you indeed, tvaṃ hi: from your ability it is understood that you are a giver. Therefore come; and having come, vidāḥ, obtain and give us bhaga, wealth fit to be shared. For what purpose? vasuttaye, for the gift of wealth to us. O Maghavan, to me who desire cows, gavi-ṣṭaye, pour out, udvavṛṣasva, shed forth; the word "cow" is to be supplied. Likewise, O Indra, to me who desire horses, pour out horses; shed forth, give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं हि (*tvaṃ hi*)—you are the best of givers
+- एहि (*ehi*)—come here
+- चेरवे (*cerave*)—to your worshipper
+- वसुत्तये (*vasuttaye*)—for giving wealth to us
+- भगं (*bhagaṃ*)—the worshipful wealth
+- विदाः (*vidāḥ*)—bring about
+- मघवन् (*maghavan*)—O wealthy Indra
+- गविष्टये (*gaviṣṭaye*)—to me, who desire cows
+- उध्ववृषस्व (*udhvavṛṣasva*)—provide cows
+- अश्वमिष्टये (*aśvamiṣṭaye*)—to me, who desire horses
+- उत् (व वृषस्व) (*ut (va vṛṣasva)*)—provide horses
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the best of givers. Therefore come to us. To give wealth to your worshipper, bring about the worshipful wealth. O wealthy Indra, to me who desire cows provide cows. To me who desire horses provide horses.
+
+##### English translation
+You are (bounteous), come ; may you obtain wealth to distribute to the worshipper ; shower your bounty, Maghavan, on me desiring cows, shower it, Indra, on me desiring horses.
+
+##### विशेषविषयगळु (Special Topics)
+
+If the sāman mantras called Bṛhatsāman are sung in the Agniṣṭoma sacrifice, then in the niṣkevalya śastra mantras this pragātha beginning त्वं हैहि (*tvaṃ haihi*) is to be recited as the anurūpa pragātha, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra त्वं हैहि चेरव इति प्रगाथा एते भवंति (*tvaṃ haihi cerava iti pragāthā ete bhavaṃti*) (Ā. 5-15). In the Mahāvrata rite, in the niṣkevalya śastra mantras, this pragātha is to be recited in the latter alternative, as is specified in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence त्वामिद्दि हवामहे त्वं हैहि चेरव इति बृहत् स्तोत्रियानुरूपौ प्रगाथौ (*tvāmiddi havāmahe tvaṃ haihi cerava iti bṛhat stotriyānurūpau pragāthau*) (Ai. Ā. 5-2-2). **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं पु॒रू स॒हस्रा॑णि श॒तानि॑ च यू॒था दा॒नाय॑ मंहसे ।  
+> आ पु॑रंद॒रं च॑क्रम॒ विप्र॑वचस॒ इंद्रं॒ गायं॒तोऽव॑से ॥ ८ ॥
+
+### Printed p. 696
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । पुरु । सहस्राणि । शतानि । च । यथा । दानाय । मंहसे ।  
+> आ । पुरंऽदरं । चकृम । विप्रवचसः । इंद्रं । गायंतः । अवसे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं पुरु पुरूणि बहूनि सहस्राणि शतानि च यूथा गवादियूथानि
+> दानाय यजमानविषयाय मंहसे । अनुमन्यसे । यद्वा । दानाय दात्रे
+> यजमानाय मंहसे । प्रयच्छसि । मंहतिर्दानकर्मा । अथ परोक्षेण ब्रवीति ।
+> पुरंदरं शत्रुपुराणां दारयितारमिंद्रमवसे रक्षणाय प्रीतये वा गायंतः
+> स्तुवंतो विप्रवचसो विविधप्रकृष्टवचना वयमा आगंतारमभिमुखं वा चक्रुम ।
+> कुर्मः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you grant, maṃhase, that is, you approve, many hundreds and thousands of herds of cows and the like, for the sake of giving to the sacrificer. Or else: maṃhase, you give, to the giver, the sacrificer; maṃhati is a word for the act of giving. Then he speaks indirectly: singing, that is, praising, Indra Purandara, the destroyer of the cities of enemies, for protection or for pleasure, we, vipravacasas, whose words are varied and excellent, make him, who is to come, turned towards us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वं (*tvaṃ*)—you
+- पुरु सहस्राणि (*puru sahasrāṇi*)—numbering many thousands
+- (पुरु (*puru*)) शतानि चॆ (*śatāni cè*)—and numbering many hundreds
+- यूथा (*yūthā*)—the herds of cows
+- दानाय (*dānāya*)—to give to the performer of the sacrifice
+- मंहसे (*maṃhase*)—you approve
+- पुरंदरं (*puraṃdaraṃ*)—the destroyer of enemy cities
+- इंद्रं (*iṃdraṃ*)—Indra
+- अवसे (*avase*)—for protection
+- गायंतः (*gāyaṃtaḥ*)—we who praise with song
+- विप्रवचसः (*vipravacasaḥ*)—having excellent words of praise
+- आ चक्रम (*ā cakrama*)—we cause Indra to turn towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you approve the giving to the performer of the sacrifice of herds of cows numbering many thousands and many hundreds. We, who praise in song, for protection, Indra, the destroyer of enemy cities, having excellent words of praise, cause Indra to turn towards us.
+
+##### English translation
+You grant many hundreds and thousands of herds as a gift (to the offerer). Uttering long praises, we, hymning Indra, the destroyer of cities, bring him before us for our protection.
+
 ---
 
-**Progress note:** Done through printed p. 690. Ṛk 19-20 of Sūkta 60; Sūkta 61 Ṛk 1-3 start
+**Progress note:** Done through printed p. 696. Sūkta 61 Ṛk 3 end, Ṛk 4-8
