@@ -18924,6 +18924,265 @@ Ascend, Aswins, your sky-touching chariot with a golden seat and golden reins.
 > हि॒र॒ण्ययी॑ वां॒ रभि॑री॒षा अक्षो॑ हिर॒ण्ययः॑ ।  
 > उ॒भा च॒क्रा हि॑र॒ण्यया॑ ॥ २९ ॥
 
+### Printed p. 469
+#### Ṛk 29 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्ययी । वां । रभीः । ईषा । अक्षः । हिरण्ययः ।  
+> उभा । चक्रा । हिरण्यया ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां युवयो रभिरारंभणीयालंभनभूता रथस्येषा हिरण्ययी
+> हिरण्मयी हिरण्यविकारा । अक्षश्च हिरण्ययो हिरण्मयो हिरण्यनिर्मितः ॥ ईषा अक्षादिषु च्छंदसि । पा. ६-१-१२७-२ । इति प्रकृतिभावः ॥ अपि चोभोभे द्वे अपि चक्रा
+> चक्रे रथचरणे हिरण्यया हिरण्मये सुवर्णनिर्मिते ॥ सुपां सुलुगिति द्विवचनस्याकारः । ऋत्त्ववास्त्ववं स्तैत्यादिना हिरण्यशब्दान्मयटो मलोपो निपात्यते ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, the रभिः (*rabhiḥ*) (the supporting part of the chariot) and the ईषा (*īṣā*) (shaft) of your chariot are golden, made of gold; the axle too is golden. Both wheels, the two parts of the chariot, are also golden, made of gold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वां (*vāṃ*)—your
+- रभिः (*rabhiḥ*)—supporting the chariot
+- ईषा (*īṣā*)—the shaft (the pole)
+- हिरण्ययी (*hiraṇyayī*)—is made of gold
+- अक्षः (*akṣaḥ*)—the axle too
+- हिरण्मयः (*hiraṇmayaḥ*)—is made of gold
+- उभा चक्रा (*ubhā cakrā*)—both wheels also
+- हिरण्यया (*hiraṇyayā*)—are made of gold
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the shaft (the pole) that supports your chariot is made of gold. The axle is made of gold. Both wheels also are made of gold.
+
+##### English translation
+Golden is its supporting shaft, golden the axle, golden both the wheels.
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तेन॑ नो वाजिनीवसू परा॒वत॑श्चि॒दा ग॑तं ।  
+> उपे॒मां सु॑ष्टु॒तिं मम॑ ॥ ३० ॥
+
+### Printed p. 470
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तेन । नः । वाजिनीवसू इति वाजिनीवसू । परावतः । चित् । आ । गतः ।  
+> उप । इमां । सुस्तुतिं । मम ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू अन्नवद्धनावश्विन् य उक्तो हिरण्मयसर्वावयवो
+> रथः तेन रथेन नोऽस्मान्सरावतश्चिद्दूरदेशादप्या गतं । आगच्छतं ॥ गमेश्छांदसः
+> शपो लुक् । अनुदात्तोपदेशेत्यनुनासिकलोपः ॥ इदानीमृषिरेकवदाह । मम
+> मदीयामिमामिदानीं क्रियमाणां सुष्टुतिं शोभनां स्तुतिं चोपगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, possessors of wealth in the form of food, with that chariot just described, every part of it golden, come to us even from a far-off place. The seer now speaks in the singular: come also to this my well-made praise that is now being offered.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—O Aśvin deities, possessors of wealth of food
+- तेन (*tena*)—with that renowned chariot of yours
+- नः (*naḥ*)—toward our sacrifice
+- परावतश्चित् (*parāvataścit*)—even from a very distant region
+- आ गतं (*ā gataṃ*)—be gracious to come
+- मम (*mama*)—recited by me
+- इमां सुष्टुतिं (*imāṃ suṣṭutiṃ*)—to the vicinity of this excellent praise
+- उप (*upa*) (come)—be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, possessors of wealth of food, with your renowned chariot, come graciously toward our sacrifice even from a very distant region. Come graciously near to this excellent praise recited by me.
+
+##### English translation
+Come to us, affluent in sacrifices, from afar, come to this my adoration.
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ व॑धेथे परा॒कात्पू॒र्वीर॒श्नंता॑वश्विना ।  
+> इषो दासीरमर्तार्क्य ॥ ३१ ॥
+
+### Printed p. 471
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वहेथे इति । पराकात् । पूर्विः । अश्नंतौ । अश्विना ।  
+> इषः । दासीः । अमूर्त्या । ३१ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमर्त्यामरणावश्विनाश्विन् दासीः । दासा उपक्षपयितारोऽसुराः ।
+> तत्संबंधिनीः पूर्वीः पुरीरश्नंतौ भक्षयंतौ भंजंतौ युवामिषोऽन्नानि पराकात्परागताद्दूरदेशादा वहेथे । अस्मान्त्रापयथः । यद्वा । अश्नंतौ व्याप्नवंतौ ॥
+> अशू व्याप्त् । अस्माद्व्यत्ययेन श्ना परस्थैपदं च ॥ पूर्विर्बह्वीर्दासीर्दासस्योपक्षपयितुः शत्रोः संबंधिनीरिषोऽन्नानि शत्रुभ्योऽपहृत्यास्मान्त्रापयथः ॥
+
+##### Gist of the bhāṣya
+
+O immortal Aśvins (free from death): the दासीः (*dāsīḥ*) belong to the दासा (*dāsā*), the Asuras, who are destroyers (of others). Devouring, that is, breaking, their many cities, you two bring food from a far-off distant place; you cause us to obtain it. Alternatively: अश्नंतौ (*aśnaṃtau*) means "pervading" (from the root अशू व्याप्त् (*aśū vyāpt*)). Seizing from the enemies the abundant food belonging to the enemy, the destroyer called दास (*dāsa*), you cause us to obtain it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्त्या (*amartyā*)—those free from the nature of death
+- अश्विना (*aśvinā*)—O Aśvin deities
+- दासीः (*dāsīḥ*)—of the violent Asuras
+- पूर्वीः (*pūrvīḥ*)—the cities
+- अश्नंतौ (*aśnaṃtau*)—you who destroy
+- इषः (*iṣaḥ*)—the foods
+- पराकात् (*parākāt*)—even from a very distant region
+- आवहेथे (*āvahethe*)—bring for us
+
+##### भावार्थ (Bhāvārtha)
+
+O immortal Aśvin deities, you who destroy the cities of the violent Asuras, bring food for us even from a very distant region.
+
+##### English translation
+Immortal Aswins, Destroyers of the cities of the Dasas, bring to us food from afar.
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ द्यु॒म्नैरा श्रवो॑भि॒रा रा॒या या॑तमश्विना ।  
+> पुरु॑श्चंद्रा॒ नास॑त्या ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । द्युम्नैः । आ । श्रवःभिः । आ । राया । याशं । अश्विना ।
+
+### Printed p. 472
+
+> पुरुचंद्रा । नासत्या ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुश्चंद्रा बहुहिरण्यौ यद्वा पुराणां बहूनामाह्लादकौ ॥ ह्रस्वाच्चंद्रोत्तरपदे मंत्र इति सुट् । पादादित्वात्पाष्ठिकमामंत्रिताद्युदात्तत्वं ॥ हे
+> नासत्या सत्यस्वभावौ सत्यस्य नेतारौ नासिकाप्रभवौ वा ॥ आमंत्रितं पूर्वमविद्यमानवदिति पूर्वस्यामंत्रितस्याविद्यमानवद्भावादिदमप्यामंत्रितमाद्युदात्तं । न च
+> नामंत्रिते समानाधिकरण इत्यविद्यमानवत्त्वनिषेधः पुरुषश्चंद्रेत्यस्य विशेषवचनत्वात् ॥
+> ईदृशा हे अश्विनाश्विन् द्युम्नैर्दॊतमानैरन्नैर्दातवैः सार्धं नोऽस्माना
+> यातं । आगच्छतं । तथा श्रवोभिः श्रवणीय्यैर्यशोभिश्चास्मानागच्छतं । तथा राया
+> धनेन चास्मानागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O पुरुश्चंद्रा (*puruścaṃdrā*), possessors of much gold, or else delighters of many; O नासत्या (*nāsatyā*), of true nature, leaders of truth, or else born from the nose. Such, O Aśvins, come to us with द्युम्नैः (*dyumnaiḥ*), shining foods fit to be given; likewise come to us with श्रवोभिः (*śravobhiḥ*), glories worth hearing; and likewise come with राया (*rāyā*), wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुश्चंद्रा (*puruścaṃdrā*)—you who cause joy to many
+- नासत्या (*nāsatyā*)—you who are of true nature
+- अश्विना (*aśvinā*)—O Aśvin deities
+- द्युम्नैः (*dyumnaiḥ*)—with shining foods
+- आ यातं (*ā yātaṃ*)—be gracious to come
+- श्रवोभिः (*śravobhiḥ*)—with glories
+- राया (*rāyā*)—with wealth
+- नः (*naḥ*)—to us
+- आ (यातं) (*ā (yātaṃ)*)—be gracious to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who cause joy to many and are of true nature, come graciously to us with shining foods, with glories, and with wealth.
+
+##### English translation
+Come to us, Aswins, with food, with fame, with riches, Nasatyas, delighters of many.
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एह वां॑ पुषि॒तप्स॑वो॒ वयो॑ वहंतु प॒र्णिनः॑ ।  
+> अच्छा॑ स्वध्व॒रं जनं॑ ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इह । वां । पुषितप्सवः । वयः । वहंतु । पर्णिनः ।
+
+### Printed p. 473
+
+> अच्छ । सुअध्वरं । जनं ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् इहास्मिन्यागे नां युवां पुषितप्सवः । पुषिः स्नेहनकर्मा ।
+> स्निग्धरूपाः पर्णिनः पक्षोपेताः । यद्वा । लुप्तोपममेतत् । दक्षिण इव शीघ्रगामिनः । वयो गंतारोऽश्वाः स्वध्वरं शोभनयज्ञं यजमानलक्षणं जनमच्छाभि
+> मुखमा वहंतु । आनयंतु ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, here at this sacrifice, your horses, पुषितप्सवः (*puṣitapsavaḥ*) (पुषिः (*puṣiḥ*) is a word meaning "anointing"), of sleek form, पर्णिनः (*parṇinaḥ*), winged; or else this is an elided simile: swift-moving like birds. The वयः (*vayaḥ*), the going horses, are to bring you toward the people, the sacrificer, who performs a good sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) प्रषितप्सनः (*praṣitapsanaḥ*)—having a sleek body
+- पर्णिनः (*parṇinaḥ*)—having wings like birds
+- वयः (*vayaḥ*)—the swift-going horses
+- नां (*nāṃ*)—you
+- इह (*iha*)—here
+- स्वध्वरं (*svadhvaraṃ*)—engaged in an excellent sacrifice
+- जनं अच्छ (*janaṃ accha*)—toward the sacrificer
+- आ वहंतु (*ā vahaṃtu*)—let them bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, may the horses, with sleek bodies, winged like birds and swift-going, bring you here toward the sacrificer engaged in an excellent sacrifice.
+
+##### English translation
+Let your sleek, winged, rapid (horses) bring you to the presence of the man offering holy sacrifice.
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथं॑ वा॒मनु॑गायसं॒ य इ॒षा वर्त॑ते स॒ह ।  
+> न च॒क्रम॒भि बा॑धते ॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथं । वां । अनुगायसं । यः । इषा । वर्तते । सह ।  
+> न । चक्रं । अभि । बाधते ॥ ३४ ॥
+
+### Printed p. 474
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ यो रथोऽस्मभ्यं देयेनान्नेन सह वर्तते वां युवयोः
+> स्वभूतमनुगायसं स्तोतृभिरनुगातव्यं तं रथं चक्रं परसैन्यं नाभि बाधते ।
+> नाभिहंति । यद्वा । चक्रं वीर्यकर्मसाधनं ॥ घइर्थे कविधानमिति कः । कृञादीनां के । का. ६-१-१२-१ । इति द्विर्वचनं । अस्मिन्पक्षेऽन्यः शत्रुरिति कर्तृपदमध्याहर्तव्यं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, the chariot that is accompanied by the food to be given to us, which is yours and is अनुगायसं (*anugāyasaṃ*), to be sung after by the praisers: that chariot the चक्रं (*cakraṃ*), the enemy's army, does not assail; it does not strike it. Alternatively: चक्रं (*cakraṃ*) is the instrument of heroic deeds. In this view the subject word "another enemy" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) यः (*yaḥ*)—which chariot of yours
+- इषा सह (*iṣā saha*)—together with the food to be given to us
+- वर्तते (*vartate*)—exists, such
+- वां (*vāṃ*)—your
+- अनुगायसं (*anugāyasaṃ*)—praised by the praisers
+- रथं (*rathaṃ*)—chariot
+- चक्रं (*cakraṃ*)—the enemy army
+- न अभि बाधते (*na abhi bādhate*)—certainly cannot harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the enemy army certainly cannot harm your chariot, which is accompanied by the food to be given to us and is praised by the praisers.
+
+##### English translation
+No hostile force arrests that car of yours which is hymned (by the devout), and which is laden with food.
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒र॒ण्यये॑न॒ रथे॑न द्र॒वत्पा॑णिभि॒रश्वैः॑ ।  
+> धीज॑वना॒ नास॑त्या ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्ययेन । रथेन । द्रवत्पाणिभिः । अश्वैः ।  
+> धीजवना । नासत्या ॥ ३५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 468. pp. 463-468 (batch API)
+**Progress note:** Done through printed p. 474. pp. 469-474 (batch API)
