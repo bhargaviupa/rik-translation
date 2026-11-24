@@ -12146,6 +12146,259 @@ That Indra who, even without a joining substance (अभिश्रिषः (*
 - संधिं (*saṃdhiṃ*)—the neck that has to be joined to the body
 - संदाता (*saṃdātā*)—who joins together; such (an Indra)
 
+### Printed p. 306
+*(The Pratipadārtha and Bhāvārtha of the previous Ṛk continue here.)*
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवा (*maghavā*)—the opulent one
+- पुरूवसुः (*purūvasuḥ*)—Indra, who has abundant wealth
+- विह्रुतं (*vihrutaṃ*)—the severed limb
+- पुनः (*punaḥ*)—again
+- इष्टर्ता (*iṣṭartā*)—restores (joins together)
+
+##### भावार्थ (Bhāvārtha)
+
+Even when healing materials are not at hand, Indra can join together the neck that has to be united with the body, before blood flows from the severed necks. That opulent Indra, who has abundant wealth, restores the severed limb again.
+
+##### English translation
+He who without healing materials before the flow of blood from the necks was the effector of the re-union, the opulent Maghavan, again makes whole the dissevered (parts).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा भू॑म॒ निष्प्या॑ इ॒वेंद्र॒ त्वदर॑णा इव ।  
+> वना॑नि॒ न प्र॑जहि॒तान्य॑द्रिवो दु॒रोषा॑सो अमन्महि ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । भूम । निष्प्याः इव । इंद्र । त्वत् । अरणाः इव ।  
+> वनानि । न । प्रजहितानि । अद्रिवः । दुरोषासः । अमन्महि ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वत्त्वत्तस्त्वत्रसादान्निष्ट्या इव । नीचैर्भूता हीना निष्ट्याः । त इव
+> वयं मा भूम । तथारणा इवारमणा दुःखिन इव वयं मा भूम । अपि च
+> प्रजहितानि प्रक्षीणानि शाखादिभिर्वियुक्तानि वनानि न वृक्षजातानीव वयं पुत्रादिभिर्वियुक्ता मा भूम । हे अद्रिवो वज्रवन्निंद्र दुरोषास ओषितुमन्वैर्दग्धुमशक्या दुर्येषु गृहेषु निवसंतो वा वयममन्महि । त्वां स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by your favour may we not be like the abject (निष्ट्याः (*niṣṭyāḥ*)), those who have fallen low and are lowly. May we not be like the अरणाः (*araṇāḥ*), the joyless, the afflicted. Further, may we not be, like trees that are प्रजहितानि (*prajahitāni*), wasted and bereft of branches and the like, bereft of sons and others. O thunderer (अद्रिवः (*adrivaḥ*)), Indra, we praise you, being unconsumable by others, or dwelling in houses (दुर्येषु (*duryeṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वत् (*tvat*)—by your favour
+- निष्टा इव (*niṣṭā iva*)—like lowly men
+- मा भूम (*mā bhūma*)—may we not become
+- अरणा इव (*araṇā iva*)—may we not join even the company of the afflicted
+
+### Printed p. 307
+- प्रजहितानि (*prajahitāni*)—without branches
+- वनानि न (*vanāni na*)—like trees; do not make us without sons and the like
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- दुरोषासः (*duroṣāsaḥ*)—dwelling in abodes that others cannot spoil
+- अमन्महि (*amanmahi*)—may we be in a state of praising you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your favour may we be in the most excellent state. Grant that we may not be in a lowly condition like abject men. May we not even join the company of the afflicted. Do not make us bereft of sons and the like, as trees are without branches and the like. O Indra, bearer of the thunderbolt, may we live in dwellings that others cannot spoil and be in a state to praise you.
+
+##### English translation
+May we never be like the abject, Indra, through your favour, nor suffer affliction: may we never be like branchless trees; for, thunderer, unconsumeable (by foes) we glorify you.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अम॑न्म॒हीद॑ना॒शवो॑ऽनु॒ग्रास॑श्च वृत्रहन् ।  
+> स॒कृत्सु ते॑ मह॒ता शू॑र॒ राध॑सा॒नु॒ स्तोमं॑ मुदीमहि ॥१४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमन्महि । इत् । अनाशवः । अनुग्रासः । च । वृत्रहन् ।  
+> सकृत् ! सु । ते । महता । शूर । राधसा । अनु । सोमं । मुदीमहि ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्रस्यासुरस्य हंतरिंद्र अनाशवोऽशीघ्रा अत्वरमाणा अनुग्रासोऽनुग्रा अनुद्गूर्णाश्च संतो वयं भक्तिश्रद्धापुरःसरं शनैस्त्वाममन्महीत् ।
+> स्तुम एव । हे शूर वीर्यवन्निंद्र ते त्वदर्थं सकृदेकवारमपि महता प्रभूतेन राधसा धनेन हविर्लक्षणेन सह सु शोभनं स्तोमं स्तोत्रमनु मुदीमहि ।
+> अनुमोदेमहि । अनुब्रवामेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slayer of the asura Vṛtra, being unhasty (अनाशवः (*anāśavaḥ*)), not hurried, and अनुग्रासः (*anugrāsaḥ*), not fierce or violent, we praise you quietly, with devotion and faith. O valiant Indra, we rejoice in (that is, recite) a fine hymn for you, once at least, together with abundant wealth in the form of the oblation.
+
+### Printed p. 308
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Indra, slayer of Vṛtra
+- अनाशवः (*anāśavaḥ*)—being without hasty performance of the rite
+- अनुग्रासः च (*anugrāsaḥ ca*)—and being without mental wavering
+- अमन्महि इत् (*amanmahi it*)—we surely praise (you with pure devotion and with a calm mind)
+- शूर (*śūra*)—O Indra, the valiant
+- ते (*te*)—addressing you
+- सकृत् (*sakṛt*)—even for a short time
+- महता (*mahatā*)—with abundant
+- राधसा (*rādhasā*)—with the oblation (accompanied by wealth)
+- सु (*su*)—beautiful
+- स्तोमं (*stomaṃ*)—the hymn
+- अनु मदीमहि (*anu madīmahi*)—we have the desire to recite
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, without the least haste in the performance of the rite and without mental wavering, we surely praise you with pure devotion and a calm mind. O mighty Indra, addressing you, we wish to recite, even for a short time, a hymn made beautiful by an excellent oblation.
+
+##### English translation
+Neither rash nor irate, we verily glorify you, slayer of Vritra; may we propitiate you, hero, for once (at least) by our praise with great (sacrificial) wealth.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदि॒ स्तोमं॒ मम॒ श्रव॑द॒स्माक॒मिंद्र॒मिंद॑वः ।  
+> ति॒रः प॒वित्रं॑ ससृ॒वांस॑ आ॒शवो॒ मंदं॑तु तुग्रा॒वृधः॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । स्तोमं । मम । श्रवत् । अस्माकं । इंद्रं । इंदवः ।  
+> तिरः । पवित्रं । ससृवांसः । आशवः । मंदंतु । तुग्र्यवृधः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो मम मदीयं स्तोत्रं यदि श्रवत् शृणुयात् तदानीं
+> तमिंद्रमस्माकमस्मदीया इंदवः सोमा मदंतु । मादयंतु । हर्षयंतु ।
+> कीदृशाः सोमाः । तिरस्तिर्यगवस्थितं पवित्रं पवनसाधनं दशापवित्रं सस्यवांसः
+> प्राप्तवंतः । दशापवित्रेण पूता इत्यर्थः । आशवः शीघ्रं मदजनकास्तुग्रावृधस्तुग्राभिर्वसतीवर्येकधनाख्याभिरद्भिवर्धमानाः ॥
+
+##### Gist of the bhāṣya
+
+If this Indra should hear my praise, then may our Somas (इंदवः (*iṃdavaḥ*)) gladden him, that is, delight and cheer him. What kind of Somas? Those that have passed across the strainer lying athwart, the ten-fold filter (दशापवित्रं (*daśāpavitraṃ*)), that is, purified by it; swift, quickly producing exhilaration; and growing (तुग्रावृधः (*tugrāvṛdhaḥ*)) through the तुग्रा (*tugrā*) waters called Vasatīvarī and Ekadhanā.
+
+### Printed p. 309
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मम (*mama*)—my
+- स्तोमं (*stomaṃ*)—this hymn
+- यदि (*yadi*)—if by chance
+- श्रवत् (*śravat*)—Indra should hear, then
+- अस्माकं (*asmākaṃ*)—our (offered by us)
+- तिरः (*tiraḥ*)—placed athwart
+- पवित्रं (*pavitraṃ*)—the purifying vessel known as the ten-fold filter
+- ससृवांसः (*sasṛvāṃsaḥ*)—those that enter it and become pure
+- आशवः (*āśavaḥ*)—those that quickly produce joy
+- तुग्रावृधः (*tugrāvṛdhaḥ*)—those that grow in company with Vasatīvarī and the rest
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- इंद्रं (*iṃdraṃ*)—Indra
+- मदंतु (*madaṃtu*)—may they satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+If Indra should hear this praise of mine and be pleased, then may the Soma juices offered by us, which pass into the purifying vessel known as the ten-fold filter, placed athwart, and become pure, which quickly produce joy, and which grow in company with Vasatīvarī and other waters, satisfy Indra.
+
+##### English translation
+If he hear our praise, then may our libations, flowing through the filter, dropping quickly, and diluted with consecrated water, exhilarating Indra.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्व१॒ं॑द्य स॒धस्तु॑तिं वा॒वातुः॒ सख्यु॒रा ग॑हि ।  
+> उप॑स्तुतिर्म॒घोनां॒ प्र त्वा॑व॒त्वधा॑ ते वश्मि सुष्टु॒तिं ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । अद्य । सध्वस्तुतिं । ववातुः । सख्युः । आ । गहि ।  
+> उपस्तुतिः । मघोनां । प्र । त्वा । अवतु । अध । ते । वश्मि । सुस्तुतिं ॥ १६ ॥
+
+### Printed p. 310
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नावातुः संभक्तुस्त्वां सेवमानस्य सख्युः स्तोत्रुः सधस्तुतिमन्यैर्युत्विग्भिः सह क्रियमाणां स्तुतिमद्येदानीं तु क्षिप्रमा गहि । आगच्छ । मघोनां
+> हविष्मतामन्येषामपि यजमानानामुपस्तुतिः स्तोत्रं त्वा त्वां प्रावतु । प्रगच्छतु।
+> प्रतर्पयतु वा । अधाधुना सुष्टुतिं त्वद्विषयां शोभनां स्तुतिमहमपि वश्मि ।
+> कामये ॥
+
+##### Gist of the bhāṣya
+
+O Indra, come quickly today to the praise (सधस्तुतिं (*sadhastutiṃ*)) that your friend, the worshipper who serves you, offers together with the other priests. Let the praise (उपस्तुतिः (*upastutiḥ*)) of other wealthy sacrificers who have oblations also reach you, or satisfy you. Now I too desire to offer a fine praise addressed to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) नावातुः (*nāvātuḥ*)—of the one who serves you
+- सख्युः (*sakhyuḥ*)—of your friend, the praiser
+- सधस्तुतिं (*sadhastutiṃ*)—the praise recited together with the other priests (to hear it)
+- अद्य (*adya*)—now
+- तु (*tu*)—at once
+- आ गहि (*ā gahi*)—be pleased to come
+- मघोनां (*maghonāṃ*)—of the other sacrificers with oblations
+- उपस्तुतिः (*upastutiḥ*)—the hymn recited by them also
+- त्वा (*tvā*)—you
+- प्र अवतु (*pra avatu*)—let it come and reach you (be satisfying to you)
+- ते (*te*)—addressing you
+- अध (*adha*)—now
+- सुष्टुतिं (*suṣṭutiṃ*)—to recite an excellent praise
+- वश्मि (*vaśmi*)—I also desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come at once to hear the praise that your friend, the worshipper who serves you, recites with the other priests. May the praise recited by other sacrificers with oblations also reach you and satisfy you. Addressing you, I too now wish to recite an excellent praise.
+
+##### English translation
+Come quickly to-day to the collected laudation of your devoted friend: may the subsidiary praise of wealthy (worshippers) reach you, but now I wish (to offer) your complete eulogium.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोता॒ हि सोम॒मुद्रि॑भि॒रेमे॑नम॒प्सु धा॑वत ।  
+> ग॒व्या वस्त्रे॑व वा॒सयं॑त॒ इन्नरो॒ निर्धु॑क्षन्व॒क्षणा॑भ्यः १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोत । हि । सोमं । अद्रिभिः । आ । ईं । एनं । अप्सु । धावत ।
+
+### Printed p. 311
+
+> गव्या । वस्त्रा इव । वासयंतः । इत् । नरः । निः । धुक्षन् । वक्षणाभ्यः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवः अद्रिभिर्ग्रावभिः सोमं सोत । हिरवधारणे । अभिषुणुतैव ।
+> एनमिममप्पु वसतीवरीष्वा धावत । अस्य सोमस्य धवनं कुरुत । अदाभ्यग्रहे
+> हिमादासुत इत्यादिभिर्मंत्रैर्वसतीवरीष्वाधवनं सोमस्य क्रियते । तत्कुरुतेत्यर्थः । गव्या गवि भवानि वस्त्रेव वस्त्राण्याच्छादकानि चर्माणीव मेघान् वासयंत इदाच्छादयंत एव नरो नेतार इंद्रस्यानुचरा मरुतो वक्षणाभ्यो नदीभ्यो नदीनामर्थाय निर्धुक्षन् । उदकानि निर्दुहंति । क्षारयंति । यत एवमतः
+> कारणादिंद्रयागाय सोममद्रिभिरभिषुणुतैव । मोदासिषतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryus, press the Soma with the stones (अद्रिभिः (*adribhiḥ*)). हि (*hi*) is for emphasis: press it indeed. Run this Soma into the Vasatīvarī waters, that is, perform the running of the Soma; this is done with mantras such as हिमादासुत (*himādāsuta*) in the Adābhya-graha. Do that. The leaders (नरः (*naraḥ*)), the Maruts, Indra's followers, covering the clouds as though they were coverings (वस्त्रा (*vastrā*)), hides made of cow-skin, milk out (निर्धुक्षन् (*nirdhukṣan*)) the waters for the streams, the rivers; they make the waters flow. Since this is so, press the Soma with the stones for the Indra sacrifice; the meaning is "give delight".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Adhvaryus) अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- ईं सोमं (*īṃ somaṃ*)—this Soma juice
+- सोत (*sota*)—press
+- एनं हि (*enaṃ hi*)—this pressed juice
+- अप्पु (*appu*)—joining it with the waters Vasatīvarī and the rest
+- आ धावत (*ā dhāvata*)—prepare it according to rule (if you do so)
+- गव्या (*gavyā*)—obtained from cows
+- वस्त्रेव (*vastreva*)—as one covers with hide
+- वासयंत इत् (*vāsayaṃta it*)—covering the sky with clouds
+- नरः (*naraḥ*)—the Maruts, the leaders
+- वक्षणाभ्यः (*vakṣaṇābhyaḥ*)—for the currents of the rivers
+- निर्धुक्सन् (*nirdhuksan*)—they milk out the rain-waters
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, press this Soma juice with the pressing stones. Join the pressed juice with Vasatīvarī and the other waters and prepare it according to rule. If you do so, the Maruts, the leaders, covering the sky with clouds as one covers with cow-hide, milk out the rain-waters for the currents of the rivers.
+
+##### English translation
+Extract the Soma juice with the bruising stones, wash it with the consecrated waters; (for by so doing) the leaders (of the rain, the Maruts) clothing (the sky with clouds) as with a vesture of the hide of the cow, milk forth (the water) for the rivers.
+
 ---
 
-**Progress note:** Done through printed p. 305. pp. 300-305 (batch API)
+**Progress note:** Done through printed p. 311. pp. 306-311 (batch API)
