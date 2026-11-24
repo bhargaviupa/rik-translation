@@ -6,7 +6,7 @@
 - **Pages read:** 618 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–599, 600–619)
 - **Findings:** 1187 — applied 870, questions 317; edits ok 878, failed 0
 - **Reader tokens (batches so far):** 5113k; per page 8.3k
-- **Last commit:** @C@
+- **Last commit:** f19b850
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -32,7 +32,7 @@
 | 19 | 520–549 | 100 | 84 | 84 / 0 | 16 | 243k | 369af22 | 84 edits: 21 S1, about 40 S2 removals of sūtra numbers the Kannada does not print, 33 S7 quotation edits (IAST + Devanagari pairs); no page shifts; p. 540 prints 6-1-167 vs p. 521 6-1-197 (each page's own number applied); findings.tsv/questions.tsv p. 532 rows were trimmed by hand by the reader |
 | 20 | 550–579 | 78 | 56 | 56 / 0 | 22 | 246k | 5fbbab4 | 46 number repairs (16 S1/S3, 13 sūtra numbers, 18 removals), 7 R3 quotation edits; pp. 559 and 571 have no head in the supplied text (inside 558 and 570); English pp. 570/571 shifted (open items) |
 | 21 | 580–599 | 46 | 31 | 31 / 0 | 15 | 204k | 72888b7 | 4 S1 + 17 S2 + 2 S3 number repairs, 3 S13, 3 S14; no page shifts |
-| 22 | 600–619 | 62 | 49 | 49 / 0 | 13 | TOK21 | @C@ | 28 S2 + 8 S3 number repairs, incl. the Dadhyañc/Manu numerals of pp. 616–618 settled from the Kannada ([?] marks removed; Kannada prints ೬-೬--೬-೧ read as 6-6-6-1); 10 R3/S13; no page shifts |
+| 22 | 600–619 | 62 | 49 | 49 / 0 | 13 | TOK21 | f19b850 | 28 S2 + 8 S3 number repairs, incl. the Dadhyañc/Manu numerals of pp. 616–618 settled from the Kannada ([?] marks removed; Kannada prints ೬-೬--೬-೧ read as 6-6-6-1); 10 R3/S13; no page shifts |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
