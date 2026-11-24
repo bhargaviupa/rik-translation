@@ -5,7 +5,7 @@
 - **Stage:** S2 reading in page batches
 - **Pages read:** 250 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241)
 - **Findings:** 484 — applied 341, questions 143; edits ok 351, failed 0
-- **Reader tokens (batches so far):** 2035k; per page 8.1k
+- **Reader tokens (batches so far):** 2247k; per page 9.0k
 - **Last commit:** 4a72102
 
 ## 2. Batches
@@ -19,7 +19,7 @@
 | 5 | 122–151 | 67 | 52 | 52 / 0 | 15 | 272k | 823a12c | 20 S2 removals, 7 S7 quotation repairs; English p. 141 carries the first lines of Kannada p. 142 |
 | 7 | 152–181 | 43 | 35 | 35 / 0 | 8 | 223k | 7998fe1 | 19 S1 + 8 S2 number repairs, 2 S7 quotation repairs; two English headings each for pp. 154 and 179 (handled) |
 | 8 | 182–211 | 52 | 40 | 40 / 0 | 12 | 265k | 24b7437 | 18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question |
-| 9 | 212–241 | 42 | 37 | 37 / 0 | 5 | TOK8 | 4a72102 | 22 S2, 4 S3 number repairs, R3 quotation repairs (Taittirīya, Skandasvāmin); English pp. 232–235 shifted against the Kannada (see open items); duplicate removed from English p. 213/214 |
+| 9 | 212–241 | 42 | 37 | 37 / 0 | 5 | 212k | 4a72102 | 22 S2, 4 S3 number repairs, R3 quotation repairs (Taittirīya, Skandasvāmin); English pp. 232–235 shifted against the Kannada (see open items); duplicate removed from English p. 213/214 |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
