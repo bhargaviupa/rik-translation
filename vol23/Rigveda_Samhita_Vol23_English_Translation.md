@@ -570,6 +570,339 @@ O Indra and Varuṇa, you opened out completely, by your vigour, the doors of th
 ##### English translation
 Indra and Varuna, you have forced open by your strength the barriers of the waters: you have established Surya as the lord in heaven : in the exhilaration of the inspiring (Soma) you have replenished the dry (beds of the rivers) : do you also fulfil the objects of our sacred rites.
 
+### Printed p. 16
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वामिद्यु॒त्तु पृत॑नासु॒ वह्न॑यो यु॒वां क्षेम॑स्य प्रस॒वे  ॒॑
+> मितज्ञवः ।  
+> ई॒शा॒ना वस्व॑ उ॒भय॑स्य का॒रव॒ इंद्रा॑वरुणा सु॒हवा॑ हवामहे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । इत् । युत्सु । पृतनासु । वह्नयः । युवां । क्षेमस्य । प्रसवे ।  
+> मितज्ञवः ।  
+> ईशाना । स्वः । उभयस्य । कारवः । इंद्रावरुणा । सुहवा । हवामहे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ वह्नयो हविषां स्तोत्राणां ना वोढार ऋत्विजो युत्तु
+> युद्धेषु पृतनासु शत्रुसेनासु रक्षणार्थं युवामिद्युवामेव हवंते । आह्वयंति । मितज्ञवः संकुचितजानुका अंगिरसोऽपि क्षेमस्य रक्षणस्य प्रसव उत्पादने
+> निमित्तभूते सति युवामेव हवंते । अतः कारणात् हे इंद्रावरुणौ कारवः
+> स्तोतारो वयमप्युभयस्य दिव्यस्य पार्थिवस्य च वस्टो वसुनो धनस्येशानेश्वरौ
+> सुहवा सुखेन ह्वातव्यौ युवामेव हवामहे । आह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+Addressing Indra and Varuṇa, Sāyaṇa says that the वह्नयः (*vahnayaḥ*), the carriers of the oblations and hymns, that is, the priests, invoke the two of them alone in battles, in the hostile armies, for protection. The Aṅgirases, the मितज्ञवः (*mitajñavaḥ*) who kneel with bent knees, likewise invoke the two of them alone when the begetting of protection (क्षेमस्य प्रसवे (*kṣemasya prasave*)) is the occasion. For this reason the singers (कारवः (*kāravaḥ*)), "we" too, invoke the two of them alone, who are the lords (ईशाना (*īśānā*)) of the wealth of both kinds, celestial and terrestrial, and who are easy to invoke (सुहवा (*suhavā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै इंद्रावरुणरे (*èlai iṃdrāvaruṇare*)) वह्नयः (*vahnayaḥ*)—priests who carry the oblations
+- युत्तु (*yuttu*)—engaged in battles
+- पृतनासु (*pṛtanāsu*)—for the protection of the armies
+- युवां इत् (*yuvāṃ it*)—you alone (they call)
+- मितज्ञवः (*mitajñavaḥ*)—the Aṅgirases also, who pray kneeling on their knees
+- क्षेमस्य (*kṣemasya*)—of protection
+- प्रसवे (*prasave*)—for the sake of
+- युवां (*yuvāṃ*)—you alone they call
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—(therefore) O Indra and Varuṇa
+- कारवर् (*kāravar*)—we also, the singers
+- उभयस्य (*ubhayasya*)—of both, the world of heaven and the world of earth
+- वस्वः (*vasvaḥ*)—of wealth
+- ईशाना (*īśānā*)—you who are the lords
+- सुहवा (*suhavā*)—you, who are worthy of easy invocation
+- हवामहे (*havāmahe*)—we pray to and invoke
+
+### Printed p. 17
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, the priests who carry the oblations invoke you alone for the protection of the armies engaged in battles. The Aṅgirases also, who pray kneeling on their knees, invoke you alone for the sake of protection. Therefore, O Indra and Varuṇa, we too, the singers, pray to and invoke you alone, who are the lords of the wealth of both the world of heaven and the world of earth, and who are worthy of easy invocation.
+
+##### English translation
+The bearers (of offerings) invoke you, Indra and Varuna, in wars, in battles: on bended knees (the Angirasas invoke you) for the begetting of prosperity; and we, your worshippers, invoke you, who are entitled to respectful homage, the lords of both celestial and terrestrial treasures.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑वरुणा॒ यदि॒मानि॑ च॒क्रथु॒र्विश्वा॑ जा॒तानि॒ भुव॑नस्य  ॒॑
+> मज्मना ।  
+> क्षेमे॑ण मि॒त्रो वरु॑णं दुव॒स्यति॑ म॒रुद्भि॑रु॒ग्रः शुभ॑म॒न्य  ॑
+> ईयते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ंद्रावरुणा । यत् । इमानि । चक्रथुः । विश्वा । जातानि । भुवनस्य । मज्मना ।  
+> क्षेमेण । मित्रः । वरुणं । दुवस्यति । मरुद्भिः । उग्रः । शुभं । अन्यः । ईयते॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणौ यद्यौ युवां भुवनस्य लोकस्य संबंधिनीमानि परिदृश्यमानानि विश्वा सर्वाणि जातानि जातिमंति भूतजातानि मज्मनात्मीयेन बलेन चक्रथुः
+> कृतवंतौ तयोर्युवयोर्मध्य एकं वरुणं क्षेमेण रक्षणहेतुना मित्रो
+> देवो दुवस्यति । परिचरति । मित्रावरुणौ हि परस्परं प्राप्तसख्यौ । अत एव सहचरा
+> 2                                                                    [ Vol. 23 ]
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, since (यद्यौ (*yadyau*)) you two have made by your own might (मज्मना (*majmanā*)) all these visible creatures (जातानि (*jātāni*)) belonging to the world (भुवनस्य (*bhuvanasya*)), then of the two of you the god Mitra serves (दुवस्यति (*duvasyati*)) the one, Varuṇa, for the sake of protection (क्षेमेण (*kṣemeṇa*)). Mitra and Varuṇa are indeed friends of each other, and for that very reason they are seen going together.
+
+### Printed p. 19
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दृश्येते । अन्य एक इंद्रो मरुद्भिर्मरुद्धणैरुग्र उद्धूर्णबलः सञ्छभुं शोभनमलंकारमीयते । प्राप्नोति । यद्वा । मरुद्भिर्मध्यस्थानैर्देवगणैः सार्धमुग्र
+> ओजस्तींद्रः शुभमुदकमीयते । प्रेरयति ॥
+
+##### Gist of the bhāṣya
+
+The other one, Indra, together with the Maruts, the hosts of gods, is fierce (उग्र (*ugra*)), of surging strength, and being so attains (ईयते (*īyate*)) a splendid ornament (शुभं (*śubhaṃ*)). Or else: Indra, fierce in his might together with the Maruts, the gods of the middle region, sends forth (ईयते (*īyate*) means प्रेरयति (*prerayati*)) fair water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- यत् (*yat*)—you who
+- भुवनस्य (*bhuvanasya*)—belonging to the whole world
+- विश्वा (*viśvā*)—all
+- इमा जातानि (*imā jātāni*)—these creatures
+- मज्मना (*majmanā*)—by your power
+- चक्रथुः (*cakrathuḥ*)—have produced (of the two of you, one)
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- क्षेमेण (*kṣemeṇa*)—for protection
+- मित्र: (*mitra:*)—the god Mitra
+- दुवस्यति (*duvasyati*)—worships
+- अन्यः (*anyaḥ*)—the other, Indra
+- मरुद्धिः (*maruddhiḥ*)—together with the Maruts
+- उग्रः (*ugraḥ*)—being endowed with exceeding power
+- शुभं (*śubhaṃ*)—an excellent ornament
+- ईयते (*īyate*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, you who have produced by your power all these creatures belonging to the whole world: of the two of you, Mitra worships Varuṇa for protection. The other, Indra, together with the Maruts, endowed with exceeding power, obtains an excellent ornament; or else he sends forth excellent rain-water.
+
+##### English translation
+Indra and Varuna, inasmuch as you have created by your might all these beings of the world, therefore Mitra worships Varuna for prospe- rity, whilst the other, the fierce Indra associated with the Maruts, acquires glory.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हे शु॒ल्काय॒ वरु॑णस्य॒ नु त्वि॒ष ओजो॑ मिमाते ध्रु॒वम॑स्॒त  
+> यत्स्वं ।  
+> अजा॑मिम॒न्यः शृ॒थय॑न्त॒माति॑रद्द॒भ्रेभि॑र॒न्यः प्र वृ॑णोति॒  ॑
+> भूयसः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महे । शुल्काय । वरुणस्य । नु । त्विषे । ओजः । मिमाते इति । ध्रुवं ' अस्य ।  
+> यत् । स्वं ।  
+> अजामिं । अन्यः । श्नथयन्तं । आ । अतिरत् । दभ्रेभिः । अन्यः । प्र । वृणोति ।  
+> भूयसः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरुणस्य । उपलक्षणमेतत् । इंद्रस्य वरुणस्य च त्विषे दीप्त्यर्थमोजो
+> बलं नु क्षिप्रं मिमाते । स्तोत्रेण निर्मिमाते यजमानपत्न्यौ । स्तोत्रेण हि बलं
+> जायते । किमर्थं । महे महते शुल्काय धनाय । ईदृशस्य धनस्य लाभार्थं ।
+> अस्येंद्रस्य वरुणस्य च ध्रुवं नित्यं स्वं स्वकीयमसाधारणं यदोजो
+> विद्यते तदोजो मिमाते इत्यन्वयः । तयोरिंद्रावरुणयोरन्य एको वरुणोऽजामिमबंधुमस्तुवंतं श्नथयंतं हिंसंतं कर्माण्यकुर्वंतमस्तोतारमयजमानं चातिरत् । अभिहंति । अन्य एक इंद्रो दभ्रेभिरल्पैरेवोपाय्कॆर्भूयसो बहुतराञ्छत्रून् वृणोति । प्रकर्षणावृतान् बाधितान् करोति । यद्वा ।
+> भूयसो यजमानान्नृ वृणोति । प्रवरानुत्कृष्टान् करोति ॥
+
+##### Gist of the bhāṣya
+
+वरुणस्य (*varuṇasya*) is only indicative: it means "of Indra and of Varuṇa". For radiance (त्विषे (*tviṣe*)) the sacrificer and his wife quickly (नु (*nu*)) fashion (मिमाते (*mimāte*)) strength (ओजः (*ojaḥ*)) by praise, for strength is born of praise. For what purpose? For great (महे (*mahe*)) wealth (शुल्काय (*śulkāya*)), to gain such wealth. The construction is: they fashion that strength which is constant, their own and unshared, belonging to Indra and Varuṇa. Of these two, the one, Varuṇa, overcomes (अतिरत् (*atirat*), he strikes down) the unkindred (अजामिं (*ajāmiṃ*), one who is no kinsman, who does not praise), who harms (श्नथयंतं (*śnathayaṃtaṃ*)), who performs no rites, the non-singer, the non-sacrificer. The other, Indra, with scanty means (दभ्रेभिः (*dabhrebhiḥ*)) alone, प्र वृणोति (*pra vṛṇoti*) the more numerous (भूयसः (*bhūyasaḥ*)) enemies: he makes them thoroughly hemmed in, hindered. Or else: he chooses the more numerous sacrificers and makes them excellent, pre-eminent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—great
+- शुल्काय (*śulkāya*)—for wealth
+- वरुणस्य (*varuṇasya*)—of Indra and Varuṇa
+- त्वषे (*tvaṣe*)—to increase the splendour
+- नु (*nu*)—quickly
+- अस्य (*asya*)—for these Indra and Varuṇa
+- ध्रुवं (*dhruvaṃ*)—constant
+- स्वं (*svaṃ*)—and peculiar to each of them
+- यत् (*yat*)—whatever
+- ओजः (*ojaḥ*)—vigour there is, that vigour
+- मिमाते (*mimāte*)—the sacrificer and his wife produce by praises and the like
+- अन्यः (*anyaḥ*)—one of these, Varuṇa
+- अजामिं (*ajāmiṃ*)—one who is not a praiser but stays far away
+- शृथयंतं (*śṛthayaṃtaṃ*)—and is a harmer, one fallen from the rite
+- अतिरत् (*atirat*)—destroys
+- अन्यः (*anyaḥ*)—the other, Indra
+- दभ्रेभिः (*dabhrebhiḥ*)—with scanty means alone
+- भूयसः (*bhūyasaḥ*)—the more numerous enemies
+- प्र वृणोति (*pra vṛṇoti*)—destroys completely
+
+##### भावार्थ (Bhāvārtha)
+
+For the sake of great wealth, to increase the splendour of Indra and Varuṇa, the sacrificer and his wife produce by praises and the like that constant vigour, peculiar to each, which belongs to these two. Of them, Varuṇa destroys the one fallen from the rite, who does not praise him but keeps far away and is a harmer. The other, Indra, with scanty means alone completely destroys the more numerous enemies.
+
+### Printed p. 20
+
+##### English translation
+In honour of (Indra and Varuna) the sacrificer and his wife for (the obtaining of ) great wealth, confer (by their praises) that strength which is peculiar to each of them, and ever-enduring ; one of them (Varuna) destroys the unfriendly man neglecting (his worship): the other, (Indra), with scanty (means), discomfits numerous (enemies).
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तमंहो॒ न दु॑रि॒तानि॒ मर्त्य॒मिंद्रा॑वरुणा॒ न तपः॒ कुत॑श्च॒न ।  
+> यस्य॑ देवा॒ गच ॑थो वी॒थो अ॑ध्व॒रं न तं मर्त॑स्य नशते॒  ॑
+> परिह्वतिः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तं । अंहः । न । दुः इतानि । मर्त्यं । इंद्रावरुणा । न । तपः । कुतः । चन ।  
+> यस्य । देवा । गच्छथः । वीथः । अध्वरं । न । तं । मर्तस्य । नशते । परिह्वृतिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्रावरुणेंद्रावरुणौ तं मर्त्यं मनुष्यमंहः पापं न नशते । न
+> व्याप्नोति । न च दुरितानि दुर्गमनानि पापफलानि च प्राप्नुवंति : कुतश्चन कस्मादपि
+> निमित्तात्तपः संतापश्च तं न प्राप्नोति । हे देवा देवौ दानादिगुणयुक्तानिंद्रावरुणौ यस्य मर्त्यस्य मनुष्यस्याध्वरं यज्ञं गच्छथः प्राप्नुथो युवां वीथः
+> कामयेथे च यस्य हवींषि तं मनुष्यं परिह्वतिः परिबाधा न नशते । उक्तप्रकारेण न प्राप्नोति ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, sin (अंहः (*aṃhaḥ*)) does not reach (नशते (*naśate*) means व्याप्नोति (*vyāpnoti*)) that mortal (मर्त्यं (*martyaṃ*)), nor do evil-goings (दुरितानि (*duritāni*)), the fruits of sin, reach him; nor does तपः (*tapaḥ*), affliction, from any cause whatever (कुतश्चन (*kutaścana*)). O gods, Indra and Varuṇa, endowed with qualities such as generosity: whose sacrifice (अध्वरं (*adhvaraṃ*)) you two attend (गच्छथः (*gacchathaḥ*)) and whose oblations you desire (वीथः (*vīthaḥ*)), that man is not reached by परिह्वतिः (*parihvatiḥ*), harassment, in the manner stated.
+
+### Printed p. 21
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—you who are divine in nature
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- यस्य (*yasya*)—whose
+- मर्तस्य (*martasya*)—man's
+- अध्वरं (*adhvaraṃ*)—sacrifice
+- गच्छथः (*gacchathaḥ*)—you go to
+- वीधः (*vīdhaḥ*)—and desire and favour it
+- तं मर्त्यं (*taṃ martyaṃ*)—that sacrificer
+- अ०हः (*a0haḥ*)—sin
+- न नशते (*na naśate*)—does not cling to
+- दुरितानि (*duritāni*)—the fruits of sin also
+- न (*na*)—do not cling
+- कुतश्चन (*kutaścana*)—of whatever kind
+- तपः (*tapaḥ*)—affliction also
+- न (*na*)—does not cling
+- तं (*taṃ*)—that same man
+- परिहृतिः (*parihṛtiḥ*)—harm also
+- न (*na*)—does not approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, who are divine in nature: neither sin nor the fruits of sin cling to that sacrificer to whose sacrifice you go and which you desire and favour out of regard. No affliction of any kind clings to him. No harm approaches that man.
+
+##### English translation
+Sin contaminates not, difficulties assail not, nor distress at any time afflicts the mortal, Indra and Varuna, to whose sacrifices you, deities, repair, and of which you approve : such a man ruin, never destroys.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒र्वाङ्न॑रा॒ दैव्ये॒नाव॒सा ग॑तं शृणु॒तं हवं॒ यदि॑ मे॒  ॑
+> जुजोषथः ।  
+> यु॒वोर्हि स॒ख्यमु॒त वा॒ यदाप्यं॑ मार्डि॒कमिं॑द्रावरुणा॒  ॑
+> नि यच्छतं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वाक् । नरा । दैव्येन । अवसा । आ । गतं । शृणुतं । हवं । यदि । मे ।  
+> जुजोषथः ।  
+> युवोः । हि । सख्यं । उत । वा । यत् । आप्यं । मार्डिकं । इंद्रावरुणा । नि ।  
+> यच्छतं ॥ ८ ॥
+
+### Printed p. 22
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेताराविंद्रावरुणौ दैव्येन देवसंबंधिनावसा रक्षणेन सहर्वागस्मदभिमुखमा गतं । आगच्छतं । अगत्य च मदीयं हवं स्तोत्रं शृणुतं । यदि
+> मे मम जुजोषथः प्रीयेथे । मयि प्रीतिरस्ति चेत् युवाभ्यामागंतव्यं
+> मदीयं स्तोत्रं श्रोतव्यं च भवतीत्यर्थः । युवोर्हि युवयोः खलु
+> यत्सख्यं सखित्वमुत वापि च यदाप्यमापित्वं बांधवं मार्डिकं मृडीकस्य
+> सुखस्य साधनं तदुभयं हे इंद्रावरुणौ नि यच्छतं । अस्मभ्यं प्रयच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O leaders (नरा (*narā*)), Indra and Varuṇa, come (आ गतं (*ā gataṃ*)) toward us (अर्वाक् (*arvāk*)) with divine (दैव्येन (*daivyena*)) protection (अवसा (*avasā*)), and having come, hear my invocation, that is, my hymn. यदि मे जुजोषथः (*yadi me jujoṣathaḥ*): if you take pleasure in me, that is, if there is affection for me, then you must come and my hymn must be heard; this is the meaning. Your friendship (सख्यं (*sakhyaṃ*)) and your kinship (आप्यं (*āpyaṃ*)), which is the means of मृडीक (*mṛḍīka*), of happiness (मार्डिकं (*mārḍikaṃ*)): both of these, O Indra and Varuṇa, grant (नि यच्छतं (*ni yacchataṃ*)) to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Indra and Varuṇa, leaders
+- दैव्येन (*daivyena*)—belonging to the gods
+- अवसा (*avasā*)—with protection
+- अर्वाक् (*arvāk*)—toward us
+- आ गतं (*ā gataṃ*)—be gracious and come
+- इंद्रा वरुणा (*iṃdrā varuṇā*)—O Indra and Varuṇa
+- यदि (*yadi*)—if
+- मे (*me*)—in me
+- जुजोषथः (*jujoṣathaḥ*)—you have placed affection
+- हवं (*havaṃ*)—our hymn
+- शृणुतं (*śṛṇutaṃ*)—hear
+- युवोः हि (*yuvoḥ hi*)—of you two indeed
+- सख्यं (*sakhyaṃ*)—the friendship
+- उत वा (*uta vā*)—and moreover
+- यत् (*yat*)—which
+- आप्यं (*āpyaṃ*)—your kinship
+- मार्डिकं (*mārḍikaṃ*)—is the means of happiness, that also
+- नि यच्छतं (*ni yacchataṃ*)—graciously grant to us
+
+##### भावार्थ (Bhāvārtha)
+
+O leaders, Indra and Varuṇa, be gracious and come toward us with divine protection. If you have affection for me, hear our praise. Graciously grant us your friendship and your kinship, which is the means of happiness.
+
+##### English translation
+Leaders of rites, come to our presence with divine protection : if you have any regard for me, hear my invocation: verily your friendship, your affinity, is the source of happiness: grant them, Indra and Varuna, (unto us).
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मिंद्रावरुणा॒ भरे॑भरे पुरोयो॒धा भ॑वतं  
+> कृष्टोऽजसा ।
+
+### Printed p. 23
+
+> यद्वां हवंत उभये अध स्पृधि नरस्तोकस्य तनयस्य  
+> सातिषु ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । इंद्रावरुणा । भरेऽभरे । पुरःऽयोधा । भवतं । कृष्टिऽजसा ।  
+> यत् । वां । हवंते । उभये । अध । स्पृधि । नरः । तोकस्य । तनयस्य । सातिषु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कृष्णोजसा शत्रूणां कर्षकमोजो बलं ययोस्तादृशौ हे इंद्रावरुणौ भरे भरे संग्रामे संग्रामेऽस्माकं पुरोयोधा पुरस्ताद्योद्धारौ
+> भवतं । यदौ वामुभय उभयविधाः पूर्वकालीना इदानींतनाश्च नरो
+> नेतारः स्तोतारः स्पृधि युद्धे यौ युवां हवंते । आधापि च तोकस्य पुत्रस्य
+> तनयस्य पौत्रस्य सातिषु संभजनीयेषु निमित्तभूतेषु च यौ युवां हवंते ।
+> तावस्माकं पुरोयोधा भवतमित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra and Varuṇa, whose strength (ओजः (*ojaḥ*)) draws in (*karṣakaṃ*) the enemies (कृष्टि (*kṛṣṭi*)): in every battle (भरे भरे (*bhare bhare*)) become our front-fighters (पुरोयोधा (*puroyodhā*)). The two kinds of men, those of former times and those of the present, the leaders and singers, who invoke you two in strife (स्पृधि (*spṛdhi*)), in battle, and moreover who invoke you on occasions of winning (सातिषु (*sātiṣu*)), occasions to be shared and productive of the benefit, of a son (तोकस्य (*tokasya*)) and a grandson (तनयस्य (*tanayasya*)): you two, thus invoked, are to become our front-fighters. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृष्णोजसा (*kṛṣṇojasā*)—you who have the power to seize and drag in the enemies
+- इंद्रावरुणा (*iṃdrāvaruṇā*)—O Indra and Varuṇa
+- यत् वां (*yat vāṃ*)—you two whom
+- उभये नरः (*ubhaye naraḥ*)—the former singers and likewise the present singers
+- स्पृधि (*spṛdhi*)—in battle
+- हवंते (*havaṃte*)—are invoking
+- अध (*adha*)—and moreover
+- तोकस्य (*tokasya*)—of a son
+- तनयस्य (*tanayasya*)—of his son
+- सातिषु (*sātiṣu*)—are invoking for protection also (you two, such as these)
+- भरे भरे (*bhare bhare*)—in every battle
+- अस्माकं (*asmākaṃ*)—our
+- पुरोयोधा (*puroyodhā*)—fighters standing in front
+- भवतं (*bhavataṃ*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Varuṇa, who have the power to seize and drag in the enemies: you two whom the former singers, and likewise the present singers, invoke in battle, and also invoke for the protection of their sons, grandsons and the like: such as you are, be in every battle fighters standing in front of us.
+
 ---
 
-**Progress note:** Done through printed p. 15. pp. 8-15 (batch API)
+**Progress note:** Done through printed p. 23. pp. 16-23 (batch API)
