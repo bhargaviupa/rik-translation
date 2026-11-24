@@ -46,3 +46,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 37 | 675–685 | 50 | 46 | 4 questions; 8-23-12 vs supplied 8-23-17 not logged by the reader: to be caught by the closing number check | see git log |
 | 38 | 686–696 | 37 | 34 | 3 questions | see git log |
 | 39 | 697–708 | 81 | 77 | 4 questions; p. 709 not applicable; no other-script letters found in pp. 697–708 (the Tamil word of S0 is in the page 708 area: reader found none; to be re-checked in the closing step) | see git log |
+| 41 | 2–16 | 27 | 22 | 5 questions | see git log |
