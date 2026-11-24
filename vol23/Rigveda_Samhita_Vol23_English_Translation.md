@@ -10587,6 +10587,358 @@ Example: मा चिदन्यद्विशंसत ॥ (*mā cidanyadvi�
 (9) Lament: grieving. Example: सुदेवो आद्य प्रपतेदनावृत् ॥ (*sudevo ādya prapatedanāvṛt ‖*) न विजानामि यदि वेदमस्मि ॥ (*na vijānāmi yadi vedamasmi ‖*) and so on.
 (10) Censure: a mantra containing censure or praise. Example: केवलाघो भवति केवलादी ॥ (*kevalāgho bhavati kevalādī ‖*) भोजस्येदं पुष्करिणीव वेश्म (*bhojasyedaṃ puṣkariṇīva veśma*) (here both censure of gambling and praise of agriculture) and so on. The mantras given above as examples are the opening words of the respective Ṛks. The whole…
 
+### Printed p. 264
+
+The Ṛks are to be looked up and understood in the alphabetical index of Ṛks (Ṛ. Saṃ. Part 1, pp. 717-920). Of the ten kinds of mantra described above, for an example of the seventh, the Ṛk that contains the subject of oath and curse, Yāska has recited this very Ṛk as his example: अद्या मुरीय यदि यातुधानो अस्मि (*adyā murīya yadi yātudhāno asmi*) (Ṛ. Saṃ. 7-104-15).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो माया॑तुं॒ यातु॑धा॒नेत्याह॒ यो वा॑ र॒क्षाः शुचि॑र॒स्मित्याह॑ ।  
+> इंद्र॒स्तं हं॑तु मह॒ता व॒धेन॒ विश्व॑स्य जं॒तोर॑ध॒मस्प॑दीष्ट ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । मा । अयातुं । यातुधान । इति । अह । यः । वा । रक्षाः । शुचिः । अस्मि ।  
+> इति । अह ।  
+> इंद्रः । तं । हंतु । महता । वधेन । विश्वस्य । जंतोः । अधमः । पदीष्ट ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो राक्षसो मामयातुमराक्षसं संतं हे यातुधान हे राक्षसेति
+> संबोध्याह ब्रूते यो ना यश्च रक्षा राक्षसः शुचिरस्मि शुद्धो भवामि न राक्षसोऽस्मिताह ब्रूते तमुभयविधुं राक्षसमिंद्रो महता प्रौढेन वधेनायुधेन
+> वज्रेण हंतु । हिनस्तु । स च विश्वस्य सर्वस्य जंतोर्जनस्याधमो निकृष्टः सन् पदीष्ट ।
+> पततु ॥
+
+##### Gist of the bhāṣya
+
+The Rākṣasa who calls me, who am no Rākṣasa (अयातुं (*ayātuṃ*)), "O Yātudhāna, O Rākṣasa", addressing me thus; and the Rākṣasa who says "I am pure, I am not a Rākṣasa": may Indra slay both kinds of Rākṣasa with a mighty, formidable वधेन (*vadhena*) (weapon), the thunderbolt. And may that one, the lowest (अधमः (*adhamaḥ*)) of all beings, fall (पदीष्ट (*padīṣṭa*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Rākṣasa
+- अयातुं मा (*ayātuṃ mā*)—me, who am not an Asura
+- यातुधान (*yātudhāna*)—O Rākṣasa
+- इति (*iti*)—thus addressing
+- आह (*āha*)—calls
+- यो वा रक्षा (*yo vā rakṣā*)—or which Rākṣasa
+- शुचिः अस्मि (*śuciḥ asmi*)—I myself am pure
+- इति आह (*iti āha*)—thus praises himself
+- तं (*taṃ*)—such a Rākṣasa
+- इंद्रः (*iṃdraḥ*)—Indra
+- महता (*mahatā*)—exceedingly mighty
+- वधेन (*vadhena*)—with the weapon that is the instrument of slaying
+- हंतु (*haṃtu*)—let him destroy
+- विश्वस्य (*viśvasya*)—of all
+- जनस्य (*janasya*)—than people
+- अधमः (*adhamaḥ*)—(that Rākṣasa) lower
+- पदीष्ट (*padīṣṭa*)—let him fall rolling down
+
+##### भावार्थ (Bhāvārtha)
+
+The Rākṣasa who addresses me, who am no Rākṣasa, as "O Rākṣasa", or the Rākṣasa who points to himself and praises himself, saying "I am pure": let Indra destroy such a Rākṣasa with the thunderbolt, exceedingly mighty and an instrument of slaying. May that Rākṣasa, lower than all people, fall rolling down.
+
+##### English translation
+May Indra slay with his mighty weapon him who calls me the Yatudhana, which I am not,—the Rakshasa, who says (of himself), I am pure: may he, the vilest of all beings, perish.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र या जिगा॑ति ख॒र्गले॑व॒ नक्त॒मप॑ द्रु॒हा त॒न्वं१॒॑गूह॑माना ।  
+> व॒प्रा अ॑नं॒ता अव॒ सा प॑दीष्ट॒ ग्रावा॑णो घ्नंतु र॒क्षस॑  ॒
+> उपब्दैः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । या । जिगाति । खर्गलाइव । नक्तं । अप । द्रुहा । तन्वं । गूहमाना ।  
+> वन्वान् । अनंतान् । अव । सा । पदीष्ट । ग्रावाणः । घ्नंतु । रक्षसः । उपब्दैः ॥१७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या राक्षसी नक्तं रात्रौ द्रुहा द्रोहेण युक्ता खर्गलेवोलूकीव प्र
+> जिगाति प्रगच्छति । किं कुर्वती । तन्नं स्वकीयं शरीरमप गूहमानापवृण्वती
+> प्रकाशयंती । सा राक्षस्यनंतानपर्यंतान्वन् गर्तानव पदिष्ट । अवाङ्मुखी
+> पततु । ग्रावाणः सोमाभिषवार्थाः पाषाणाश्चोपब्बैरभिषवशब्दै रक्षसो राक्षसान् घ्नंतु । हिंसंतु ॥
+
+##### Gist of the bhāṣya
+
+The female Rākṣasa who goes forth at night, full of malice (द्रुहा (*druhā*)), like an owl (*ulūkīva*). What is she doing? Uncovering (*apavṛṇvatī*), that is, displaying, her own body. May that Rākṣasī fall head downward into the endless, boundless pits. The stones (ग्रावाणः (*grāvāṇaḥ*)) used for pressing Soma slay, that is, harm, the Rākṣasas with their pressing-sounds (उपब्दैः (*upabdaiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—which female Rākṣasa
+- नक्तं (*naktaṃ*)—at night
+- द्रुहा (*druhā*)—filled with malicious intent
+- तन्नं (*tannaṃ*)—her whole body
+- अप गूहमाना (*apa gūhamānā*)—uncovering and showing
+- खर्गलेव (*khargaleva*)—like an owl
+- प्र जिगाति (*pra jigāti*)—roams about
+- सा (*sā*)—that female Rākṣasa
+- अनंतान् (*anaṃtān*)—without a bottom (of endless depth)
+- वव्रान् (*vavrān*)—into the chasm
+- अव पदीष्ट (*ava padīṣṭa*)—let her fall rolling head downward
+- ग्रावाणः (*grāvāṇaḥ*)—the stones that press Soma
+- उपबैः (*upabaiḥ*)—with the sounds of pressing Soma
+- रक्षसः (*rakṣasaḥ*)—the Rākṣasas
+- घ्नंतु (*ghnaṃtu*)—let them harm
+
+##### भावार्थ (Bhāvārtha)
+
+The female Rākṣasa who roams at night like an owl, full of malice and uncovering her whole body (naked): let that Rākṣasī fall head downward into the bottomless (endlessly deep) chasm. Let the stones that press Soma harm the Rākṣasas with their sounds of pressing Soma.
+
+##### English translation
+May the cruel female fiend who, throwing off the concealment of her person, wanders about at night like an owl, fall headlong down into the unbounded caverns : may the stones that grind the Soma destroy the Rakshasas by their noise.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि ति॑ष्ठध्वं मरुतो वि॒क्षि१॒॑च्छत॑ गृभा॒यत॑ र॒क्षसः॒ सं पि॑नष्टन ।  
+> वयो॒ ये भू॒त्वी प॒तयं॑ति न॒क्तभि॒र्ये वा॒ रिपो॑ दधि॒रे ॒ ॒॑
+> देवे अध्वरे ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । तिष्ठध्वं। मरुतः । विक्षु । इच्छत । गृभायत । रक्षसः । सं । पिनप्पन ।  
+> वयः । ये । भूत्वी । पतयंति । नक्तभिः । ये । वा । रिपः ! दधीरॆ । देवे ।  
+> अध्वरे ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यूयं विक्षु प्रजासु वि तिष्ठध्वं । विविधं तिष्ठत । तत्र गूढान्रासान् हंतुमिच्छत । अन्विच्छत । तदनंतरं रक्षसस्तान्राक्षसान् गृभायत । गृभ्णीत ।
+
+##### Gist of the bhāṣya
+
+O Maruts, stand variously (वि तिष्ठध्वं (*vi tiṣṭhadhvaṃ*)) among the people (विक्षु (*vikṣu*)); there desire, seek, to slay the hidden Rākṣasas. After that seize those Rākṣasas
+
+### Printed p. 267
+
+> गृह्णीत । गृहीत्वा च सं पिनष्टन । चूर्णयत । ये राक्षसा वयः पक्षिणो भूत्वी
+> भूत्वा नक्तभी रात्रिभी रात्रिषु पतयंति आगच्छंति । ये वाये च देवे दिप्तेऽध्वरे
+> यागे रिपो हिंसा दधिरे विदधिरे । तानाक्षसान् सं पिनष्टनेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+…and having seized them, grind them to powder (सं पिनष्टन (*saṃ pinaṣṭana*)). The Rākṣasas who, becoming birds (वयः (*vayaḥ*)), fly about at night; or those who in the brilliant sacrifice inflict injuries (रिपः (*ripaḥ*)): grind those Rākṣasas to pieces. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- विक्षु (*vikṣu*)—among the people who are sacrificers
+- वि तिष्ठध्वं (*vi tiṣṭhadhvaṃ*)—stand firm
+- इच्छत (*icchata*)—desire (to protect them from the Asuras) **NOTE**
+- ये (*ye*)—which Rākṣasas
+- वयः (*vayaḥ*)—as birds
+- भूत्वी (*bhūtvī*)—having assumed another form
+- नक्तभिः (*naktabhiḥ*)—in the times of night
+- पतयंति (*patayaṃti*)—fly about
+- ये वा (*ye vā*)—or who
+- देवे (*deve*)—in the brilliant
+- अध्वरे (*adhvare*)—sacrifice
+- रिपः (*ripaḥ*)—injuries
+- दधिरे (*dadhire*)—cause
+- रक्षसः (*rakṣasaḥ*)—such Rākṣasas
+- गृभायत (*gṛbhāyata*)—seize
+- सं पिनष्टन (*saṃ pinaṣṭana*)—grind them to pieces
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, standing firm among the people who are sacrificers, desire to protect them from the onslaught of the Asuras. The Rākṣasas who change form into birds and fly about at night, or who cause injuries in the brilliant sacrifice: seize such Rākṣasas and make them into powder (destroy them).
+
+##### English translation
+Stay, Maruts, amongst the people, desirous (of protecting them); seize the Rakshasas, grind them to pieces: whether they fly about like birds by night, are whether they have offered obstruction to the sacred sacrifice-
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र व॑र्तय दि॒वो अश्मा॑नमिंद्र॒ सोम॑शितं मघव॒न्तसं  ॑
+> शिशाधि ।  
+> प्राक्ता॒दपा॑क्तादध॒रादुद॑क्ताद॒भि ज॑हि र॒क्षसः॒ पर्व॑तेन ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शृ । वर्तय । दिवः । अश्मानं । इंद्र । सोमशितं । मघवन् । सं । शिशाधि ।
+
+### Printed p. 268
+
+> प्राक्तात् । अपाक्तात् । अधरात् । उदक्तात् । अभि । जहि । रक्षसः । पर्वतेन ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र दिवोऽन्तरिक्षादश्मानमशनिं प्रवर्तय । प्रेरय राक्षसान् हंतुं ।
+> तथा सोमशितं सोमेन तीक्ष्णीभूतं यजमानं हे मघवन् धनवन्निंद्र सं
+> शिशाधि ! संस्कुरु । अपि च पाक्तात् प्राच्या अपाक्तात् प्रतीच्या अधरादवाचा
+> उदक्तादुत्तरतः सर्वस्मादपि दिग्भागाद्रक्षसो राक्षसान् पर्वतेन पर्ववता
+> वज्रेणाभि जहि । मारय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, hurl (प्रवर्तय (*pravartaya*)), send, the thunderbolt (*aśmānamaśaniṃ*) from heaven, from the atmosphere, to slay the Rākṣasas. And, O wealthy Maghavan Indra, refine (सं शिशाधि (*saṃ śiśādhi*)), prepare, the sacrificer who is sharpened by Soma. Moreover, from the east (पाक्तात् (*pāktāt*)), from the west (अपाक्तात् (*apāktāt*)), from below, the south (अधरात् (*adharāt*)), from the north (उदक्तात् (*udaktāt*)), from every quarter, strike (अभि जहि (*abhi jahi*)), kill, the Rākṣasas with the mountain-like thunderbolt (पर्वतेन (*parvatena*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- दिवः (*divaḥ*)—from the atmosphere
+- अश्मानं (*aśmānaṃ*)—your thunderbolt (for the destruction of the Rākṣasas)
+- प्र वर्तय (*pra vartaya*)—employ
+- मघवन् (*maghavan*)—O wealthy Indra
+- सोमशितं (*somaśitaṃ*)—the sacrificer whose intellect is sharpened by drinking Soma
+- सं शिशाधि (*saṃ śiśādhi*)—make well refined
+- प्राक्तात् (*prāktāt*)—from the eastern quarter
+- अपाक्तात् (*apāktāt*)—from the western quarter
+- अधरात् (*adharāt*)—from the southern quarter
+- उदक्तात् (*udaktāt*)—from the northern quarter
+- रक्षसः (*rakṣasaḥ*)—the Rākṣasas
+- पर्वतेन (*parvatena*)—with the thunderbolt
+- अभि जहि (*abhi jahi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to destroy the Rākṣasas employ your thunderbolt from the atmosphere. O wealthy Indra, make the sacrificer, whose intellect is sharpened by drinking Soma, well refined. Destroy the Rākṣasas with the thunderbolt from the east, from the west, from the south and from the north.
+
+##### English translation
+Hurl, Indra, your thunderbolt from heaven ; sanctify, Maghavan, (the worshipper) sharpened by the Soma beverage : slay with the thunderbolt the Rakshasas, on the east, on the west, on the south, on the north.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒त उ॒ त्ये प॑तयंति॒ श्वया॑तव॒ इंद्रं॑ दिप्संति दि॒प्सवोऽदा॑भ्यं ।
+
+**NOTE**
+
+> ॥ श्री ९ ॥  
+> ॥ श्री महागणाधिपतये नमः ॥  
+> वागीशाद्याः सुमनसः सर्वार्थानामुक्रमे -  
+> यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥  
+> यस्य निश्यसितं वेदा यो वेदेभ्योऽखिलं जगत् ।  
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥  
+> वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।  
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+
+Eighth Maṇḍala, Preface. Of the ten maṇḍalas in the Ṛgveda Saṃhitā, the deity of all the sūktas of the ninth maṇḍala is Pavamāna Soma **NOTE**. In this maṇḍala there is no praise of another deity. But in the remaining nine maṇḍalas there is praise of all the other deities, leaving aside the deity Soma. When the sūktas of these maṇḍalas are divided, all the maṇḍalas begin with sūktas praising Agni; that is, the first sūkta and some of the sūktas following it are devoted to Agni. But in this eighth maṇḍala, contrary to this, at the beginning the Indra-deity
+
+### Printed p. 270
+
+##### English translation
+assail the indomitable Indra; Sakra whets his thunderbolt for the miscreants; quickly let him hurl the bolt upon the fiends.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ यातू॒नाम॑भवत्पराश॒रो ह॑वि॒र्मथी॑नाम॒भ्या॒३॒॑३-  ॑
+> विवासतां ।  
+> अ॒भीदु॑ श॒क्रः प॑र॒शुर्यथा॒ वनं॒ पात्रे॑व भिं॒दन्स॒त ऎ॑ति  ॒॑
+> रक्षसः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । यातूनां । अभवत् । पराशरः । हविःमथीनां । अभि । आविवासतां ।  
+> अभि । इत् । ऊं इति । शक्रः । परशुः । यथा । वनं । पात्रा इव । भिंधन् । सतः ।  
+> एति । रक्षसः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यातूनां हिंसकानां रक्षसामयमिंद्रः पराशरः पराशातयिता हिं सिताभवत् ।
+> कीदृशानां । हविर्मथीनां हवींषि मथ्यतामभिमुखमाविवासतामागच्छतां । अपि
+> चायं शक्र इंद्रो वनं वृक्षजातं परशुर्यथा छिंदन्कुठार इव पात्रेव मृन्मयानि पात्राणि भिंदन् मुद्गर इव च सतः । प्राप्तनामैतत् । यदाह यास्कः ।
+> तिरः सत इति प्राप्तस्य । नि. ३-२८ । इति । प्राप्तान्रक्षसो राक्षसान् भिंदन् हिंसन्नभ्येति । अभिगच्छति । इदु पूरणे ॥
+
+##### Gist of the bhāṣya
+
+Of the Yātus, the harmful Rākṣasas, this Indra has been the पराशरः (*parāśaraḥ*), the scatterer, the destroyer. Of what kind? Of those who are हविर्मथीनां (*havirmathīnāṃ*), who churn up the oblations, and who come (आविवासतां (*āvivāsatāṃ*)) against him. Moreover this Śakra Indra, as an axe cutting the forest, the mass of trees (वनं वृक्षजातं (*vanaṃ vṛkṣajātaṃ*)), and as a mallet breaking earthen vessels, goes against the सतः (*sataḥ*), the present Rākṣasas, crushing them. सतः (*sataḥ*) is a name for "present, arrived"; as Yāska says, तिरः सत इति प्राप्तस्य । (*tiraḥ sata iti prāptasya |*) (Ni. 3-28). Crushing, harming the arrived Rākṣasas, he goes up to them. इदु (*idu*) is a particle of emphasis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हविर्मथीनां (*havirmathīnāṃ*)—to destroy the oblation
+- अभि आविवासतां (*abhi āvivāsatāṃ*)—coming to confront
+- यातूनां (*yātūnāṃ*)—for the Rākṣasas
+- इंद्रः (*iṃdraḥ*)—Indra
+- पराशरः (*parāśaraḥ*)—as a harmer
+- अभवत् (*abhavat*)—has become
+- वनं (*vanaṃ*)—the forest trees
+- परुशुः (*paruśuḥ*)—the axe
+- यथा (*yathā*)—as it splits
+- मुद्दरः (*muddaraḥ*)—the mallet
+- पात्रेव (*pātreva*)—as easily as it breaks earthen pots
+- शक्रः (*śakraḥ*)—Indra
+- सतः (*sataḥ*)—those who come against him
+- रक्षसः (*rakṣasaḥ*)—the Rākṣasas
+- भिंदन् इत् (*bhiṃdan it*)—even while splitting
+- अभ्येति (*abhyeti*)—comes
+
+### Printed p. 271
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is a harmer of the Rākṣasas who come to destroy the oblation. As easily as an axe can split forest trees, as easily as a mallet can break an earthen pot, so easily does Indra come splitting all the Rākṣasas who fall upon him.
+
+##### English translation
+Indra has ever been the discomfiter of the evil spirits coming to obstruct (the rites of) the offerers of oblations : Sakra advances, crushing the present Rakshasas, as a hatchet cuts down (the trees of) a forest, as (a mallet smashes) the earthen vessels.
+
+##### विशेषविषयगळु (Special Topics)
+
+पराशरः (*parāśaraḥ*)—Yāska has given a nirukta for this word: पराशरः पराशीर्णस्य वसिष्ठस्य स्थविरस्य जज्ञे । (*parāśaraḥ parāśīrṇasya vasiṣṭhasya sthavirasya jajñe |*) पराशरः शतयातुर्वसिष्ठः इत्यपि निगमो भवति । (*parāśaraḥ śatayāturvasiṣṭhaḥ ityapi nigamo bhavati |*) इंद्रोऽपि पराशर उच्यते । परा शातयिता यातूनां । (*iṃdro 'pi parāśara ucyate | parā śātayitā yātūnāṃ |*) इंद्रो यातूनामभवत्सराशरः इत्यपि निगमो भवति ॥ (*iṃdro yātūnāmabhavatsarāśaraḥ ityapi nigamo bhavati ‖*) (Ni. 6-30).
+Parāśara means a ṛṣi named Parāśara, born of the ṛṣi Vasiṣṭha, who was old and of a worn-out body. Indra too is named Parāśara, because he destroys the other Rākṣasas called Yātudhānas, and this is the reason Indra came to have the name Parāśara. The two śruti sentences पराशरः शतयातुर्वसिष्ठः (*parāśaraḥ śatayāturvasiṣṭhaḥ*) and इंद्रो यातूनामभवत्पराशरः (*iṃdro yātūnāmabhavatparāśaraḥ*) are the examples in this matter.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उलू॑कयातुं शुशु॒लूक॑यातुं ज॒हि श्वया॑तुमु॒त कोक॑यातुं ।  
+> सु॒प॒र्णया॑तुमु॒त गृध्र॑यातुं दृ॒षदे॑व॒ प्र मृ॑ण॒ रक्ष॑  
+> इंद्र ॥ २२ ॥
+
+### Printed p. 272
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उलूकयातुं । शुशुलूकयातुं । जहि । श्वयातुं । उत । कोकयातुं ।  
+> सुपर्णयातुं । उत । गृध्रयातुं । दृषदाइव । प्र । मृण । रक्षः । इंद्र॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उलूकयातुं । उलूकैः परिकरभूतैः सह यातयति हिनस्तीति याति गच्छतीति
+> वोलूकयातुः । यद्वा । उलूकरूपी यातीत्युलूकयातुः । हे इंद्र तादृशं
+> राक्षसं जहि । विनाशय ॥ तथा च बृहद्देवतायामुक्तं । उलूकयातुं जह्यतान्नानारूपान्निशाचरान् । स्त्रीपुंरूपांश्च तिर्यंचो जिघांसूनिंद्र मे जहीति ।
+> बृ. ६-८४१ ॥ एवमुत्तरत्रापि योज्यं । शुशुलूकयातुं । उलूका द्विविधाः बृहदुलूका अल्लोलूकाश्चति । तत्रोलूकयातुमिति बृहदुलूकाभिप्रायेणोक्तं ।
+> शिशुरल्प उलूकः शुशुलूकः । तद्रूपेण वर्तमानु राक्षसु श्वयातुं श्वरूपेण
+> वर्तमानं राक्षसमुतापि च कोकयातुं । कोकश्चक्रवाकः । तद्रूपेण वर्तमानं राक्षसं सुपर्णयातुं । सुपर्णः श्येनः । तदाकारं यातुधानमुतापि च
+> गृद्रयातुं गृध्ररूपं च यातुधानु । एतान् सर्वान्नानाकारान् हे इंद्र
+> जहि । किं बहुना दृष्टदेव पाषाणेनेव वज्रेण रक्षो राक्षसमात्रं प्र मृण ।
+> मारय ॥
+
+##### Gist of the bhāṣya
+
+उलूकयातुं (*ulūkayātuṃ*): one who harms, or goes, together with owls as his retinue; or else, one who goes in the form of an owl. O Indra, kill such a Rākṣasa. So too it is said in the Bṛhaddevatā: उलूकयातुं जह्यतान्नानारूपान्निशाचरान् । स्त्रीपुंरूपांश्च तिर्यंचो जिघांसूनिंद्र मे जहीति । (*ulūkayātuṃ jahyatānnānārūpānniśācarān | strīpuṃrūpāṃśca tiryaṃco jighāṃsūniṃdra me jahīti |*) (Bṛ. 6-841) **NOTE**. So it is to be construed in what follows too. शुशुलूकयातुं (*śuśulūkayātuṃ*): owls are of two kinds, large owls and small owls; उलूकयातुं (*ulūkayātuṃ*) is said with the large owl in mind. A *śiśuḥ* (young, small) owl is a शुशुलूकः (*śuśulūkaḥ*); the Rākṣasa existing in that form. श्वयातुं (*śvayātuṃ*): the Rākṣasa existing in the form of a dog. कोकयातुं (*kokayātuṃ*): *kokaḥ* is the cakravāka; the Rākṣasa existing in that form. सुपर्णयातुं (*suparṇayātuṃ*): सुपर्णः (*suparṇaḥ*) is the hawk (श्येनः (*śyenaḥ*)); the Yātudhāna of that shape. गृद्रयातुं (*gṛdrayātuṃ*): the Yātudhāna in the form of a vulture. O Indra, kill all these of various shapes. Why say more? As with a stone (दृषदेव (*dṛṣadeva*)), with the thunderbolt crush all Rākṣasas, kill them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- उलूकयातुं (*ulūkayātuṃ*)—him who is in the form of a large owl
+- शुशुलूकयातुं (*śuśulūkayātuṃ*)—him who is in the form of a small owl
+- श्वयातुं (*śvayātuṃ*)—him who is in the form of a dog
+- उत (*uta*)—and
+- कोकयातुं (*kokayātuṃ*)—him who is in the form of a cakravāka bird
+- सुपर्णयातुं (*suparṇayātuṃ*)—him who is in the form of a hawk
+- उत (*uta*)—and
+- गृध्रयातुं (*gṛdhrayātuṃ*)—the Rākṣasa who is in the form of a vulture
+- जहि (*jahi*)—destroy
+- दृषदेव (*dṛṣadeva*)—with the thunderbolt itself
+- रक्षः (*rakṣaḥ*)—all the Rākṣasas
+- प्र मृण (*pra mṛṇa*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Asuras by deceit take on various forms. Whether they are in the form of a large owl, or a small owl, in the form of a dog, or a cakravāka bird, in the form of a hawk, or of a vulture, destroy all such Rākṣasas. Destroy them all with the thunderbolt itself.
+
+##### English translation
+Destroy the evil spirit, whether in the form of an owl, or of an
+
 ---
 
-**Progress note:** Done through printed p. 263. pp. 258-263 (batch API)
+**Progress note:** Done through printed p. 272. pp. 264-272 (batch API)
