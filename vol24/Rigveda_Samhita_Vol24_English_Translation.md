@@ -33936,6 +33936,305 @@ Number of ṛks in the sūkta: 12.
 Devatā: Indra.
 Chandas: Gāyatrī.
 
+### Printed p. 747
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र॒ प्रागपा॒गुवद॒ङ्ग्य॑ग्वा हू॒यसे॒ नृभिः॑ ।  
+> आ याहि तूयमाशुभिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । प्राक् । अपाक् । उदक् । न्यक् । वा । हूयसे । नृभिः ।  
+> आ । याहि । तूयं । अशुभिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नृभिः कर्मनेतृभिरस्मदीयैरध्वय्यार्वादिभिः प्राग्वापागुदग्वा
+> न्यग्वा यत्कुतश्चिद्भूयसेऽतस्तूयं तोर्णमाशुभिराशुगामिभिरश्वैरा याहि ।
+> आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are called by our leaders of the rite, the adhvaryu and the others, from the east, the west, the north or the south, from wherever it may be; therefore come quickly with your swift-going horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नृभिः (*nṛbhiḥ*)—by us, the leaders of the rite
+- प्राक् (*prāk*)—whether in the eastern quarter
+- अपाक् (*apāk*)—or in the western quarter
+- उदक् (*udak*)—or in the northern quarter
+- न्यग्वा (*nyagvā*)—or in the southern quarter
+- यत् हूयसे (*yat hūyase*)—from whatever quarter you are called
+- तूयं (*tūyaṃ*)—quickly
+- अशुभिः (*aśubhiḥ*)—with your swift-going horses
+- आ याहि (*ā yāhi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whether you are called by us, the leaders of the rite, from the eastern quarter, the western quarter, the northern quarter, the southern quarter, or from whatever quarter, be pleased to come quickly to our sacrifice with your swift-going horses.
+
+##### English translation
+Whether you are invoked by us, the leaders of rites, from the east, the west, the north, or the south, come hither quickly with your rapid steeds.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा प्रस्रवणे दिवो मादयासे स्वर्णरे ।  
+> यद्वा समुद्रॆ अंधसः ॥ २ ॥
+
+### Printed p. 748
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । प्रस्रवणे । दिवः । मादयासे । स्वःनरे ।  
+> यत् । ना । समुद्रे । अंधसः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्वाथवा दिवो द्युलोकस्य प्रस्रवणेऽमृतनिष्यंदनस्थाने मादयासे
+> माद्यसि । यद्वा स्वर्णरे स्वर्गनयने वा भूलोकेऽन्यस्य यागदेशे माद्यसि ।
+> यद्वांधसः । अंधोऽन्नं । तेन तत्कारणमुदकं लक्ष्यते । तस्य समुद्रॆ समुंदनापादानभूतेऽंतरिक्षे माद्यसि । तत्र तत्र वर्तमानमपि हुव इत्युत्तरत्र
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Or else, you rejoice in the place of the flowing of heaven, the heavenly world, where the nectar drips; or you rejoice in a place that leads to heaven, another sacrificial site on earth. Or अंधसः (*aṃdhasaḥ*): अंधोऽन्नं (*aṃdho 'nnaṃ*): food, and by it its cause, water, is meant; in its ocean, the atmosphere, you rejoice. Wherever you are, the verb हुव (*huva*) is construed in what follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यद्वा (*yadvā*)—if perhaps
+- दिवः (*divaḥ*)—of the heavenly world
+- प्र स्रवणे (*pra sravaṇe*)—in the original place of the ambrosia
+- मादयसे (*mādayase*)—you rejoice
+- स्वर्णरे (*svarṇare*)—in another sacrificial place that leads to heaven
+- यद्वा (*yadvā*)—or
+- अंधसः (*aṃdhasaḥ*)—of water
+- समुद्रॆ (*samudrè*)—in the atmosphere, the resting place (we call such an Indra)
+
+##### भावार्थ (Bhāvārtha)
+
+Whether Indra rejoices in the original place in the heavenly world, from which the ambrosia flows, or is in the atmosphere, the resting place of water, we call that very Indra.
+
+##### English translation
+Whether you rejoice in thc ambrosia-fountain of heaven, or in some other heaven-ward-leading sacrifice (on earth). or in the ocean-like firmament of the waters ;
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा गीर्भिर्महामुरुं हुवे गामिव भोजसे ।  
+> इंद्र सोमस्य प्रीतये ॥ ३ ॥
+
+### Printed p. 749
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । गीर्भिः । महां । उरुं । हुवे । गांइव । भोजसे ।  
+> इंद्र । सोमस्य । प्रीतये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां गीर्भिः स्तुतिभिर्हुवे । आह्वयामि । कीदृशं त्वां । महां
+> महांतमुरुं प्रभूतं । किमर्थं । सोमस्य पीतये पानाय । ह्वाने दृष्टांतः ।
+> भोजसे भोगाय गामिव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, I call you with praises. What kind of you? Great and vast. For what purpose? For drinking the Soma. An illustration of the calling: as one calls a cow for enjoyment. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- भोजसे (*bhojase*)—to eat grass
+- गां इव (*gāṃ iva*)—as one calls a cow
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for the drinking
+- महां (*mahāṃ*)—great-souled
+- उरुं (*uruṃ*)—of a vast form
+- त्वा (*tvā*)—you
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- आ हुवे (*ā huve*)—I call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as one calls a cow to eat grass, I call you, the great-souled one of vast form, with praises, for the drinking of the Soma juice.
+
+##### English translation
+Indra, by my praises I invoke you, great and strong one, to drink the Soma. as a bull to eat (his fodder).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त इंद्र महिमानं हरयो देव ते महः ।  
+> रथे वहंतु बिभ्रतः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । इंद्र । महिमानं । हरयः । देव । ते । महः ।  
+> रथे । वहंतु । बिभ्रतः ॥ ४ ॥
+
+### Printed p. 750
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव महिमानं माहात्म्यं रथे बिभ्रतो धारयंतो
+> हरयोऽश्वा आ वहंतु । तथा हे देव ते महस्तेजो रथे बिभ्रतोऽश्वा आ वहंतु ।
+> अत्र महिन्नो महसश्च पृथगावहनासंभवात्ताभ्यां विशिष्टं वहंतित्यर्थः ।
+> अथवा महिमानं बिभ्रतस्ते त्वां रथे वहंतु महो बिभ्रतश्च त्वां वंहत्विति
+> योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, let your horses, bearing your greatness in the chariot, bring it hither. Likewise, O god, let the horses, bearing your splendour in the chariot, bring it hither. Here, since greatness and splendour cannot be brought separately, the meaning is that the horses carry you distinguished by those two. Or else it is to be construed thus: let the horses, bearing greatness, carry you in the chariot, and bearing splendour, carry you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- महिमानं (*mahimānaṃ*)—greatness
+- रथे (*rathe*)—in the chariot
+- बिभ्रतः (*bibhrataḥ*)—bearing
+- हरयः (*harayaḥ*)—your horses
+- आ वहंतु (*ā vahaṃtu*)—let them bring here
+- देव (*deva*)—O Indra, of divine nature
+- ते महः (*te mahaḥ*)—let them bring also your splendour, placing it in the chariot
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let your horses bring to us your greatness and your splendour, placing them in the chariot. Or else, let them bring you, who bear greatness and splendour, seated in the chariot.
+
+##### English translation
+Let your steeds, Indra, bearing you in your chariot, bring hither your might, (may they bring hither) your splendour, O divine one.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र गृणीष उ स्तुषे महा उग्र ईशानकृत् ।  
+> एहि नः सुतं पिब ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । गृणेषे । ऊं इति । स्तुषे । महान् । उग्रः । ईशानकृत् ।  
+> आ । इहि । नः । सुतं । पिब ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं गृणीषे । उच्यसे । इदं देहीदं कुर्विति । तथा स्तुष उ ।
+> स्तूयसे च । उ इति चार्थे कीदृशस्वं । महान् गुणैः प्रवृद्ध उग्र उद्धर्णबल
+> ईशानकृदैश्वर्यकर्ता । तादृशस्वमेहि । आगच्छ । आगत्य च नः सुतं सोमं पिब ।
+
+##### Gist of the bhāṣya
+
+O Indra, you are addressed with "give this, do this", and likewise you are praised; उ (*u*) is used in the sense of "and". What kind are you? Great, grown in qualities; fierce, of overpowering strength; the maker of sovereignty. Such as you are, come; and having come, drink our pressed Soma.
+
+### Printed p. 751
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- महान् (*mahān*)—you of great qualities
+- उग्रः (*ugraḥ*)—of exceeding strength
+- ईशानकृत् (*īśānakṛt*)—giver of prosperity
+- गृणीषे (*gṛṇīṣe*)—you are described by your various deeds
+- स्तुषे उ (*stuṣe u*)—and you are also praised
+- एहि (*ehi*)—be pleased to come here
+- नः (*naḥ*)—by us
+- सुतं (*sutaṃ*)—the pressed Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, who have great qualities, exceeding strength and the work of lordship, are described by your various deeds and are also praised. Come here. Drink the Soma pressed by us.
+
+##### English translation
+Indra, you are invoked, you are praised, the great, the strong, the wielder of sovereignty ; come hither and drink our libation.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सुतावंतस्त्वा वयं प्रयस्वंतो हवामहे ।  
+> इदं नो बर्हिरासदे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुतवंतः । त्वा । वयं । प्रयस्वंतः । हवामहे ।  
+> इदं । नः । बर्हिः । आसदे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतावंतोऽभिषुतसोमवंतः प्रयस्वंतश्चरुपुरोडाशाद्यन्नवंतश्च वयं
+> त्वा त्वां हवामहे । आह्वयामः । किमर्थं । इदं नोऽस्मदीयं बर्हिर्बर्हिषि
+> यज्ञे बर्हिषि वासद आसादनाय ॥
+
+##### Gist of the bhāṣya
+
+We, who possess pressed Soma and who possess प्रयस् (*prayas*), that is, food such as the caru and the puroḍāśa, call you. For what purpose? For sitting on our sacred grass in the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) सुतावंतः (*sutāvaṃtaḥ*)—we who have pressed the Soma juice
+- प्रयस्वंतः (*prayasvaṃtaḥ*)—and who possess food such as the caru and the puroḍāśa
+- वयं (*vayaṃ*)—we
+- त्वा (*tvā*)—you
+- नः (*naḥ*)—prepared by us
+- इदं बर्हि (*idaṃ barhi*)—on this seat of sacred grass
+- आ सदे (*ā sade*)—to sit
+- हवाम हे (*havāma he*)—we call
+
+### Printed p. 752
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we, who have pressed the Soma juice and possess food such as the caru and the puroḍāśa, pray to you and call you to sit on this seat of sacred grass prepared by us.
+
+##### English translation
+Bearing the effused Soma and the sacrificial food, we invoke you, Indra, to sit on our sacred grass.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्चिद्दि शश्वतामसींद्र साधारणस्त्वं ।  
+> तं त्वा वयं हवामहे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । चित् । हि । शश्वतां । असि । इंद्र । साधारणः । त्वं ।  
+> तं । त्वा । वयं । हवामहे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं यच्चिद्धि यस्मात्खलु शश्वतां बहूनां यजमानानां साधारणोऽसि । चिदिति पूरणः । हीति प्रसिद्धौ । तं तादृशं साधारणं त्वा त्वां वयं
+> हवामहे । आह्वयामः । इतरेभ्यः पूर्वमिति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, since you are common to many sacrificers, चित् (*cit*) being a filler and हि (*hi*) meaning "well known", we call such a common you; the meaning is, before the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- यच्छिद्धि (*yacchiddhi*)—by which greatness of yours
+- शश्वतां (*śaśvatāṃ*)—to many sacrificers
+- साधारणः (*sādhāraṇaḥ*)—as one worthy of worship, equal to all of them
+- आसि (*āsi*)—you are
+- तं त्वा (*taṃ tvā*)—you, who have such greatness and are worshipped alike by all
+- वयं (*vayaṃ*)—we
+- हवामहे (*havāmahe*)—call
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by whatever greatness of yours you are worshipped alike by all the many sacrificers, you, who have such greatness and are worshipped alike by all, we call.
+
 ---
 
-**Progress note:** Done through printed p. 746. Mandala 8 sukta 64 rks 7-12, sukta 65 introduction
+**Progress note:** Done through printed p. 752. Mandala 8 sukta 65 rks 1-7
