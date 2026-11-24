@@ -32808,6 +32808,273 @@ May inquiry pervade that calumniating and hostile mortal who wishes to do us har
 > पाकत्रा । स्तन । देवाः । हृत्सु । जानीथ । मर्त्यं ।  
 > उप । द्वयुं । च । अद्वयुं । च । वसवः ॥ १५ ॥
 
+### Printed p. 777
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा दानादिगुणयुक्ता आदित्याः यूयं पाकत्रा पाकेषु विपक्वप्रज्ञेषु स्तोतृषु स्थन । भवथ । यद्वा ॥ प्रथमार्थे त्राप्रत्ययः ॥ पाकत्रा पाकाः
+> परिपक्वज्ञाना भवथ । यत एवमतः कारणादृत्स्वात्मीयेषु हृदयेषु द्वयुं
+> द्विप्रकारयुक्तं कपटिनं चाद्वयुं च तद्विलक्षणं कापट्यरहितं च मर्त्यं मनुष्यमुपेत्य हे वसवो वासकाः जानीथ । अवगच्छथ ॥
+
+##### Gist of the bhāṣya
+
+O gods, Ādityas endowed with qualities such as generosity, you are पाकत्रा (*pākatrā*), that is, you are present among worshippers whose wisdom is ripe. Or else, the affix त्रा (*trā*) is used in the sense of the first case: you are पाकाः (*pākāḥ*), those of fully matured knowledge. Because this is so, you come to a mortal man, whether द्वयुं (*dvayuṃ*) (of two kinds, deceitful) or अद्वयुं (*advayuṃ*) (the opposite, free from deceit), in the hearts that are their own, and you, O Vasus, the givers of dwelling, know him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods! (you)
+- पाकत्रा (*pākatrā*)—in one who has ripe discriminating knowledge
+- स्तन (*stana*)—you are indeed gracious
+- हृत्तु (*hṛttu*)—in the heart of every person
+- द्वयुं च (*dvayuṃ ca*)—one who has a twofold nature (a deceitful life, one thing outside and another within)
+- अद्वयुं च (*advayuṃ ca*)—one who has a nature that is uniform and free from deceit
+- मर्त्यं (*martyaṃ*)—the man
+- वसवः (*vasavaḥ*)—O gods, givers of dwelling
+- उप जानीथ (*upa jānītha*)—you know
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, you are gracious to one who has ripe discriminating knowledge. You, the givers of dwelling, surely know the deceitful nature, and the pure nature of devotion, that is in the heart of every person.
+
+##### English translation
+Deities, you are (propitious) to sincere (worshippers), you know; Vasus, the hearts of men, and distinguish between the single and double minded.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ शर्म॒ पर्व॑ताना॒मोतापां वृ॑णीमहे ।  
+> द्यावा॑क्षामा॒रे अ॒स्मद्रप॑स्कृतं ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । शर्म । पर्वतानां । आ । उत । अपां । पृचेदुहे ।
+
+### Printed p. 778
+
+> द्यावाक्षामा । आरे । अस्मत् । रपः । कृतं ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर्वतानां मेघानां गिरीणां वा संबंधि शर्म सुखं वयमा वृणीमहे ।
+> अभिमुख्येन संभजामहे । उतापि चापामुदकानां च । हे द्यावाक्षामा
+> द्यावापृथिव्य अस्मदारेऽस्मत्तो विप्रकृष्टे देशे रषः पापं कृतं । कुरुतं ।
+> आस्मत्तो वियोजयतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We choose, that is, we seek to share in, the comfort that belongs to the mountains, or to the clouds, and also that of the waters. O Heaven and Earth, put sin far from us, in a distant place; that is, separate it from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पर्वतानां (*parvatānāṃ*)—that which is obtained from the mountains
+- शर्म (*śarma*)—comfort
+- आ वृणीमहे (*ā vṛṇīmahe*)—we respectfully desire
+- उत (*uta*)—and
+- अपां (*apāṃ*)—the comfort obtained from the waters
+- आ (वृणीमहे) (*ā (vṛṇīmahe)*)—we desire
+- द्यावाक्षमा (*dyāvākṣamā*)—O Heaven and Earth
+- रपः (*rapaḥ*)—sin
+- अस्मत् (*asmat*)—from us
+- आरे (*āre*)—as though very far away
+- कृतं (*kṛtaṃ*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+We respectfully desire the comfort obtained from the mountains, and we desire the comfort obtained from the waters. O Heaven and Earth, place sin very far from us.
+
+##### English translation
+We solicit the happiness of the mountains and of the waters; Heaven and Earth, remove sin far from us.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नो॑ भ॒द्रेण॒ शर्म॑णा यु॒ष्माकं॑ ना॒वा व॑सवः ।  
+> अति॒ विश्वा॑नि दुरि॒ तापि॑पर्तन ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । भद्रेण । शर्मणा । युष्माकं । नावा । वसवः ।
+
+### Printed p. 779
+
+> अति । विश्वानि । दुःखता । पिपर्तन ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसवो वासयितार आदित्याः ते पूर्वोक्तगुणा यूयं भद्रेण
+> शोभनेन शर्मणा सुखेन युष्माकं नावा नोऽस्मान् विश्वानि सर्वाणि दुरिता
+> दुर्गमनान्यति पिपर्तन । पिपृत । अतिपारयत ॥
+
+##### Gist of the bhāṣya
+
+O Vasus, Ādityas who cause to dwell, you of the qualities stated before: with auspicious comfort, in your boat, carry us across all hard-to-pass difficulties; that is, ferry us over them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—O Ādityas, givers of dwelling
+- ते (*te*)—you, of the qualities described before
+- भद्रेण (*bhadreṇa*)—auspicious
+- शर्मणा (*śarmaṇā*)—with comfort
+- युष्माकं (*yuṣmākaṃ*)—your
+- नाना (*nānā*)—by boat
+- नः (*naḥ*)—us
+- विश्वानि (*viśvāni*)—all
+- दुरिता (*duritā*)—from sins also
+- अति पिपर्तन (*ati pipartana*)—carry across
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, givers of dwelling, you of the qualities described before, with auspicious comfort carry us in your boat across all sins.
+
+##### English translation
+Convey us, Vasus, in your vessel, with auspicious felicity, beyond all calamities.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तु॒चे तना॑य॒ तत्सु नो॒ द्राघी॑य॒ आयु॑र्जी॒वसे॑ ।  
+> आदि॑त्यासः सुमहसः कृ॒णोत॑न ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुचे । तनाय । तत् । सु । नः । द्राघीयः । आयुः । जीवसे ।  
+> आदित्यासः । सुमहसः । कृणोतन ॥ १८ ॥
+
+### Printed p. 780
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्यासोऽदितेः पुत्राः सुमहसः शोभनतेजस्काः नोऽस्माकं तुचे
+> पुत्राय तनाय तत्तनयाय पौत्राय च जीवसे जीवनाय द्राघीयो दीर्घतमं तत्प्रसिद्धमायुर्जीवितं सु सुष्टु कृणोतन ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, sons of Aditi, of fair radiance: for our son and grandson, for their living, make well the longest, well-known life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुमहसः (*sumahasaḥ*)—of excellent radiance
+- आदित्यासः (*ādityāsaḥ*)—O Ādityas
+- नः (*naḥ*)—our
+- तुचे (*tuce*)—for sons
+- तनाय (*tanāya*)—for grandsons
+- जीवसे (*jīvase*)—for an excellent life
+- द्राघीयः (*drāghīyaḥ*)—long
+- तत् (*tat*)—well-known
+- आयुः (*āyuḥ*)—long life and the wealth that supports that life
+- सु (*su*)—in an excellent manner
+- कृणोतन (*kṛṇotana*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas of excellent radiance, for our sons and grandsons, for an excellent life, make in an excellent manner a long and well-known life and the wealth that supports that life.
+
+##### English translation
+Radiant Adityas, grant to our sons and grandsons to enjoy long life.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञो ही॒ळो वो॒ अंत॑र॒ आदि॑त्या॒ अस्ति॑ मृ॒ळत॑ ।  
+> यु॒ष्टे इद्दो॒ अपि॑ स्मसि सजा॒त्ये॑ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञः । हीळः । वः । अंतरः । आदित्याः । अस्ति । मृळत ।  
+> युष्मे इति । इत् । वः । अपि । स्मसि । सजात्ये ॥ १९ ॥
+
+### Printed p. 781
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः हीळः ॥ हीडिर्गत्यर्थः ॥ गंतव्यः प्राप्तवोऽस्माभिरनुष्ठितो
+> यज्ञो वो युष्माकमंतरोऽस्ति । अंतिके वर्तमानो भवति । अतोऽस्मान्मृळत । सुखयत । वो युष्माकं सजात्ये सजातत्वे ज्ञातित्वे बांधवे वर्तमाना
+> वयं युष्टे इद्युष्मास्वेवापि स्मसि । सर्वदा भवानोऽपि ॥ इदंतो मसिः ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, हीळः (*hīḷaḥ*) (the root हीडि (*hīḍi*) has the sense of going) means "to be reached, attained": the sacrifice performed by us is near you, being present close by. Therefore make us happy. We, who stand in the relation of kinship and relatives to you, are in you alone, always. The ending मसि (*masi*) has the augment इद् (*id*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- हीळः (*hīḷaḥ*)—performed in the best manner
+- यज्ञः (*yajñaḥ*)—the sacrifice
+- वः (*vaḥ*)—to you
+- अंतरः (*aṃtaraḥ*)—very near
+- अस्ति (*asti*)—is (therefore)
+- मृळत (*mṛḷata*)—make us happy
+- वः (*vaḥ*)—your
+- सजात्ये (*sajātye*)—we who are in kinship
+- युष्टे इत् (*yuṣṭe it*)—in you alone
+- अपि स्मसि (*api smasi*)—may we be dependent
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, the sacrifice performed in the best manner is very near to you. Therefore make us happy. May we, who are in kinship with you, be dependent on you alone.
+
+##### English translation
+The duly-presented sacrifice is ready for you, Adityas; grant us, therefore, happiness : may we ever abide in near relationship with you.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हद्वरू॑थं म॒रुतां॑ दे॒वं त्रा॒तर॑म॒श्विना॑ ।  
+> मि॒त्रमी॑महे॒ वरु॑णं स्व॒स्तये॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत् । वरूथं । मरुतां । देवं । त्रातारं । अश्विना ।  
+> मित्रं । ईमहे । वरुणं । स्वस्तये । २० ॥
+
+### Printed p. 782
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुतां देवानां स्वामिनां त्रातारं पालयितारं देवमिंद्रमश्विनाश्विनौ
+> च मित्रं वरुणं च बृहत्प्रौढं वरूथं शीतातपादिनिवारकं गृहं स्वस्तयेऽविनाशायेमहे । याचामहे ॥
+
+##### Gist of the bhāṣya
+
+We ask for the sake of well-being, that is, indestructibility, a large and sturdy dwelling that keeps off cold, heat and the like. We ask it of the god Indra, the protector and guardian of the Maruts, the gods who are lords, and of the Aśvins, Mitra and Varuṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतां (*marutāṃ*)—of the Marut deities
+- त्रातारं (*trātāraṃ*)—the protector
+- देवं (*devaṃ*)—Indra
+- the Aśvin deities
+- मित्रं (*mitraṃ*)—Mitra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- बृहत् (*bṛhat*)—very great (extensive)
+- वरूथं (*varūthaṃ*)—a dwelling that wards off cold and heat
+- स्वस्तये (*svastaye*)—for our welfare
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+We ask Indra, the protector of the Marut deities, the Aśvin deities, Mitra and Varuṇa, for a very extensive dwelling that wards off cold and heat, for our good life.
+
+##### English translation
+We solicit of the divine protector of the Maruts, of the Aswins, of Mitra, and of Varuna, a spacious dwelling for our welfare.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ने॒हो मि॑त्रार्यमन्नृ॒वद्व॑रुण॒ शंस्यं॑ ।  
+> त्रि॒वरू॑थं मरुतो यंत नश्फ॒र्दिः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनेहः । मित्र । अर्यमन् । नृवत् । वरुण । शंस्यं ।  
+> त्रिवरूथं । मरुतः । यंत । नः । छर्दिः ॥ २१ ॥
+
 ---
 
-**Progress note:** Done through printed p. 776. pp. 771-776 (batch API)
+**Progress note:** Done through printed p. 782. pp. 777-782 (batch API)
