@@ -453,9 +453,9 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 505	yes	3	1	0	0	0	0	0	0	0
 506	NO	3	2	0	1	0	1	0	0	0
 507	yes	0	0	0	0	0	2	0	0	0
-508	yes	3	0	0	1	0	0	0	0	0
-510	yes	1	1	0	0	0	3	0	0	0
-511	yes	1	0	0	1	0	1	0	0	0
+508	yes	1	0	0	0	0	0	0	0	0
+510	yes	1	1	0	0	0	2	0	0	0
+511	yes	1	0	0	0	0	1	0	0	0
 512	yes	2	1	0	0	0	0	0	0	0
 513	yes	2	1	0	0	0	3	0	0	0
 514	NO	1	1	0	0	0	0	0	0	0

@@ -449,3 +449,13 @@
 - p. 502 (English line 9050) [R1]: `*ḍupacīṣ pākhe*` → `*ḍupaciṣ pāke*` — ಡುಪಚಿಷ್ ಪಾಕೇ ಧಾತು (second pass S3, findings.tsv)
 - p. 503 (English line 9050) [R1]: `*varaṃ ca tad ahaś ca varāhaḥ*:` → `*varaṃ ca tad ahaś ca varāhaḥ* (an auspicious day):` — ವರಂ ಚ ತದಹೋ ವರಾಹಃ (ಶುಭದಿನ) (second pass S3, findings.tsv)
 - p. 503 (English line 9050) [R1]: `*na lokāvyayaniṣṭhākhalarthatṛnām* (Pā. Sū. 2-3-69): the genitive is barred` → `*na lokāvyaya…*: the genitive is barred` — ನಲೋಕಾವ್ಯಯ— ಎಂಬುದರಿಂದ ಷಷ್ಠಿನಿಷೇಧ (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 505 (English line 9090) [R1]: `jhi*, *jher jus*: *us*` → `jhi*, *parasmaipadānām…*: *us*` — ಝಿಗೆ ಪರಸ್ಮೈಪದಾನಾಂ—ಎಂಬುದರಿಂದ ಉಸಾದೇಶ (second pass S3, findings.tsv)
+- p. 508 (English line 9132) [R1]: `(Pā. Sū. 7-1-41): loss of *t*` → `(Pā. Sū. 7-1-45): loss of *t*` — ಲೋಪಸ್ತ ಆತ್ಮನೇಪದೇಷು (ಪಾ. ಸೂ. ೭-೧-೪೫) (second pass S3, findings.tsv)
+- p. 509 (English line 9132) [R1]: `(Pā. Sū. 3-2-91 as printed [?]; for 3-2-61)` → `(Pā. Sū. 3-2-91)` — ಸತ್ತೂದ್ವಿಷ-(ಪಾ. ಸೂ. ೩-೨-೯೧) (second pass S3, findings.tsv)
+- p. 508 (English line 9130) [R1]: `one who is firm and steady in all tasks such as war` → `one who is active in all tasks such as war` — ಯುದ್ಧವೇ ಮೊದಲಾದ ಸಕಲ ಕಾರ್ಯಗಳಲ್ಲಿಯೂ ಚಟುವಟಿಕೆಯುಳ್ಳವನು (second pass S3, findings.tsv)
+- p. 517 (English line 9258) [R3]: `*nu*, *muṃkṣu*, *dravat* and so on` → `*nu*, *muṃkṣu*, *druvat* and so on` — ನು, ಮುಂಕ್ಷು, ದ್ರುವತ್ ಎಂಬುದಾಗಿ ಏಕತ್ರ ಪಾಠಮಾಡಿದ್ದಾರೆ (second pass S3, findings.tsv)
+- p. 512 (English line 9164) [R1]: `*avanīḥ*, protectors [or 'refreshers', that are the cause of sustenance]` → `*avanīḥ*, that are the cause of protection` — ಅವನೀ ರಕ್ಷಣಹೇತುಭೂತಾ ಅಪಃ; ಪ್ರತಿಪದಾರ್ಥ: ರಕ್ಷಣಹೇತುವಾದವೂ ಆದ ನೀರುಗಳನ್ನು (second pass S3, findings.tsv)
+- p. 512 (English line 9174) [R1]: `the *va* and the following *ā* acute by the suffix's initial acute` → `the *a* following the *v* acute by the suffix's initial acute` — ವಕಾರೋತ್ತರಾಕಾರವು ಉದಾತ್ತವಾಗುತ್ತದೆ (second pass S3, findings.tsv)
+- p. 512 (English line 9174) [R1]: `(U. Sū. 2-259 as read [?]; faint; the tail has 2-103)` → `(U. Sū. 2-259; the tail has 2-103)` — ಅರ್ತಿಸೃಧೃಧಮಿ- (ಉ. ಸೂ. ೨-೨೫೯) (second pass S3, findings.tsv)
