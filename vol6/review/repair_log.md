@@ -939,3 +939,38 @@
 | 577 | `, Pā. Sū. 4-1-6` → `` | SECOND-PASS S2: Kannada gives no number for ugitaś ca |
 | 579 | `*reḷati, heḷate*` → `*reḷate, heḷate*` | SECOND-PASS S7: Kannada ರೇಳತೆ, ಹೇಳತೆ |
 | 579 | `1-[24]-11` → `1-24-11` | SECOND-PASS S1: Kannada prints (ಋ. ಸಂ. ೧-೨೪-೧೧) |
+
+### 2026-11-24 second pass, batch e580-599.tsv
+| page | old → new | why |
+|---|---|---|
+| 580 | `the raised region of the jaw, the chin, of the demon` → `the raised region of the (jaw's) palate of the demon` | SECOND-PASS S14: Kannada ದವಡೆಯ ತಾಲು ಪ್ರದೇಶ = (jaw's) palate region; chin not in Kannada |
+| 580 | `is also of the nature of a legend` → `is also included, being of the nature of a legend` | SECOND-PASS S17: Kannada ಐತಿಹಾಸಿಕರೂಪವಾದ ವೃತ್ರಾಸುರವಧೆಯೂ ಕ್ರೋಢೀಕೃತವಾಗಿರುತ್ತದೆ: 'also included' |
+| 580 | `by "yaño 'ci ca"; reduplication` → `by "yaño 'ci ca" (Pā. Sū. 2-4-74); reduplication` | SECOND-PASS S3: Kannada ಯಜೋಚಿಚ (ಪಾ. ಸೂ. ೨-೪-೭೪); number missing in English |
+| 580 | `"guṇo yaṅluk-oḥ"; after` → `"guṇo yaṅluk-oḥ" (Pā. Sū. 7-4-82); after` | SECOND-PASS S3: Kannada ಗುಣೋಯಜ್ ಲುಕೋಃ (ಪಾ. ಸೂ. ೭-೪-೮೨); number missing in English |
+| 581 | `"ārdhadhātukasyeḍ valādeḥ" (Pā. Sū. 7-2-35);` → `"ārdhadhātukasyeḍ valādeḥ";` | SECOND-PASS S2: Kannada prints no sūtra number here; English number not in the print |
+| 581 | `, Pā. Sū. 7-4-76) continuing` → `) continuing` | SECOND-PASS S2: Kannada ಭೃಇಾಮಿತ್ ಸೂತ್ರದಿಂದ prints no number; English number not in the print |
+| 582 | `on the *sānu* (jaw) region` → `on the *sānu* region` | SECOND-PASS S16: Kannada ಸಾನು ಪ್ರದೇಶದಲ್ಲಿ has no 'jaw' |
+| 584 | `, Pā. Sū. 6-1-163)` → `)` | SECOND-PASS S2: Kannada ಚಿತಃ ಎಂಬುದರಿಂದ prints no number; English number not in the print |
+| 586 | `the cloud named *mṛga*, which is to be sought for the sake of sending down the asura or th` → `the asura named *mṛga*, or the cloud which is to be sought for the sake of pouring down ra` | SECOND-PASS S14: Kannada ಮೃಗವೆಂದು ಹೆಸರುಳ್ಳ ಅಸುರನನ್ನು ಅಥವಾ ವೃಷ್ಟಿಯನ್ನು ಸುರಿಸುವುದಕ್ಕಾಗಿ ಹುಡುಕಬೇಕಾಗಿರುವ ಮೇಘವನ್ನು: asura named mṛga or the cloud |
+| 586 | `thus set a limit to the (threat to the) protection of your sovereignty (*svarājyarakṣaṇa*)` → `thus show honour to the empire, which consists in the protection of your own sovereignty (` | SECOND-PASS S14: Kannada ಸ್ವರಾಜ್ಯರಕ್ಷಣರೂಪವಾದ ಸಾಮ್ರಾಜ್ಯಕ್ಕೆ ಮರ್ಯಾದೆಯನ್ನು ಮಾಡಿರುತ್ತೀಯೆ: honour (ಮರ್ಯಾದೆ), not 'limit' |
+| 587 | `(Ṛ. Saṃ. 1-11-[7] [?])` → `(Ṛ. Saṃ. 1-11-7)` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೧-೧೧-೭ |
+| 587 | `(Ṛk. Saṃ. 1-[51]-[5] [?])` → `(Ṛk. Saṃ. 1-51-5)` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೧-೫೧-೫ |
+| 587 | `(Ṛk. Saṃ. 3-[34]-[6] [?])` → `(Ṛk. Saṃ. 3-24-6)` | SECOND-PASS S1: Kannada ಋ. ಸಂ. ೩-೨೪-೬ |
+| 587 | `(Ṛ. Saṃ. 5-30-[6] [?])` → `(Ṛ. Saṃ. 5-30-6)` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೫-೩೦-೬ |
+| 587 | `(Ṛk. Saṃ. 8-[14]-[14] [?])` → `(Ṛk. Saṃ. 8-14-14)` | SECOND-PASS S2: Kannada ಋ. ಸಂ. ೮-೧೪-೧೪ |
+| 587 | `(Ṛ. Saṃ. 1-147-2)` → `(Ṛ. Saṃ. 10-147-2)` | SECOND-PASS S1: Kannada ಋ. ಸಂ. ೧೦-೧೪೭-೨ |
+| 587 | `, Pā. Sū. 8-2-42)` → `)` | SECOND-PASS S2: Kannada ರದಾಭ್ಯಾಂ ಸೂತ್ರದಿಂದ prints no number; English number not in the print |
+| 589 | `is placed (for your good)` → `is deposited` | SECOND-PASS S16: Kannada ಸನ್ನಿಹಿತವಾಗಿದೆ has no 'for your good' |
+| 590 | `(Ni. 3-10 [as printed])` → `(Ni. 3-11)` | SECOND-PASS S1: Kannada (ನಿ. ೩-೧೧) |
+| 590 | `the point of the sūkta is to say that` → `it is proper to say that` | SECOND-PASS S13: Kannada ಅರ್ಥವನ್ನು ಹೇಳುವುದೇ ಸೂಕ್ತವಾಗಿರುವುದು: 'proper', not the word sūkta |
+| 590 | `the words *śate*, *sahasra*` → `the words *śata*, *sahasra*` | SECOND-PASS S13: Kannada ಶತ, ಸಹಸ್ರ ಎಂಬ ಶಬ್ದಗಳ ಪ್ರಯೋಗ |
+| 590 | `, Pā. Sū. 7-4-42)` → `)` | SECOND-PASS S2: Kannada ದಧಾತೇರ್ಹಿಃ ಎಂಬ ಸೂತ್ರದಿಂದ prints no number; English number not in the print |
+| 591 | `, Pā. Sū. 6-1-79)` → `)` | SECOND-PASS S2: Kannada ವಾಂತೋಯಿಪ್ರತ್ಯಯೇ prints no number; English number not in the print |
+| 591 | `, Pā. Sū. 4-1-4)` → `)` | SECOND-PASS S2: Kannada ಅಜಾದ್ಯತ—ಸೂತ್ರದಿಂದ prints no number; English number not in the print |
+| 594 | `(Ṛ. Saṃ. 8-34-18)` → `(Ṛ. Saṃ. 8-34-16)` | SECOND-PASS S1: Kannada (ಮ. ಸಂ. ೮-೩೪-೧೬) |
+| 594 | `by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5) *at*` → `by "ātmanepadeṣv anataḥ" *at*` | SECOND-PASS S2: Kannada ಆತ್ಮನೇಪದೇಷ್ಟನತಃ ಎಂಬುದರಿಂದ prints no number on this page |
+| 597 | `, Pā. Sū. 3-2-107)` → `)` | SECOND-PASS S2: Kannada ಕ್ವಸುಶ್ಚ ಎಂಬುದರಿಂದ prints no number; English number not in the print |
+| 597 | `, Pā. Sū. 7-2-67)` → `)` | SECOND-PASS S2: Kannada ವಸ್ವೇಕಾ—ಸೂತ್ರದಿಂದ prints no number; English number not in the print |
+| 597 | ` (Pā. Sū. 7-2-68)` → `` | SECOND-PASS S2: Kannada ವಿಭಾಷಾಗಮಹನವಿದ-ವಿಶಾಂ prints no number; English number not in the print |
+| 598 | `, Pā. Sū. 6-4-14)` → `)` | SECOND-PASS S2: Kannada ಅತ್ವಸಂತಸ್ಯ—ಎಂಬುದರಿಂದ prints no number; English number not in the print |
+| 594 | `*na* (the *nṛ* of *naḥ*) 'for us'` → `*naḥ* 'our'` | SECOND-PASS S13: Kannada ನಃ-ನಮ್ಮ, ಅಥವಾ ನಮಗಾಗಿ: the word is naḥ; 'nṛ' is not in the Kannada |
