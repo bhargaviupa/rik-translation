@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generic print build for the volumes translated from the supplied machine-read text (Vol 15 onwards).
 
-  python3 publish/volbook.py N [eng|kan] [--html-only]
+  python3 publish/volbook.py N [eng|kan] [--html-only] [--wikisource]
 
 Reads volN/pubcfg.json and writes publish/out/<out>_Eng.pdf / <out>_Kan.pdf (+ .html).  Nothing in the volume's .md files is changed.
 
@@ -359,6 +359,13 @@ def abbreviations(cfg):
 def build_eng(cfg, html_only):
     md = (ROOT / cfg['english_md']).read_text(encoding='utf-8')
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
+    if cfg.get('wikisource') or '--wikisource' in sys.argv:
+        # Saṃhitā, Pada and Sāyaṇa-bhāṣya from the one Wikisource reference (refs/wikisource/index; publish/tools/ws_layers.py), in memory only
+        sys.path.insert(0, str(ROOT / 'publish' / 'tools'))
+        import ws_layers
+        vc = json.loads((ROOT / f'vol{cfg["vol"]}' / 'volcfg.json').read_text(encoding='utf-8'))
+        md, wr = ws_layers.apply(md, (vc.get('mandalas') or [None])[0])
+        print(f'[eng] from Wikisource: Saṃhitā {wr["samhita"]}, Pada {wr["pada"]}, bhāṣya {wr["bhashya"]} Ṛks, introductions {wr["intro"]}; blocks left as in the volume: {len(wr["kept"])}')
     md, added = add_missing_headings(md, cfg.get('missing_headings', []))
     md, nconv = convert_inline(md)
     md, niast = add_block_iast(md, cfg.get('iast_block_labels', ('संहितापाठः', 'पदपाठः')))
