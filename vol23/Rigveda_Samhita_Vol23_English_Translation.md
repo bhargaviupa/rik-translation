@@ -6916,6 +6916,269 @@ May the first-born immortals (by his command) bestow upon us the food that is ne
 > तं । शग्मासः । अरुषासः । अश्वाः । बृहस्पतिं । सहवाहः । वहंति ।  
 > सहः । चित् । यस्य । नीलवत् । सधस्थं । नभः । न । रूपं । अरुषं । वसानाः ॥६॥
 
+### Printed p. 167
+#### Ṛk 6 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शग्मासः शग्माः सुखकराः शक्ता वारुषास आरोचमानाः सहवाहः संहत्य
+> वाहका अश्वास्तं बृहस्पतिं वहंति । वहंतु । यस्य बृहस्पतेः सहश्चिद्बलं च भवति ।
+> नीलवत् । नीलं निलयो निवासः । तद्युक्तं सधस्थं सहस्थानं च यस्य । तं बृहस्पतिमित्यन्वयः । कीदृशा अश्वाः । नभो नादित्यमिवारुषमारोचमानं रूपं वसाना
+> धारयंतः ॥
+
+##### Gist of the bhāṣya
+
+The horses are "शग्मासः (*śagmāsaḥ*)", that is, they give happiness or are capable, and "अरुषासः (*aruṣāsaḥ*)", shining. "सहवाहः (*sahavāhaḥ*)" means that they carry jointly. They carry that Bṛhaspati; the verb is to be read as an imperative: "let them carry". Of that Bṛhaspati, "सहश्चित् (*sahaścit*)" means his strength also is there. "नीलवत् (*nīlavat*)": नीलं (*nīlaṃ*) means a dwelling or residence. He has a "sadhastha", a common abode, joined to that dwelling. The construction is "that Bṛhaspati". Sāyaṇa then asks what kind of horses they are. They wear, that is, bear, a shining form like the sun ("nabho na"). Here "nabhas" is explained as the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नभो न (*nabho na*)—like the sun
+- अरुषं (*aruṣaṃ*)—attractive
+- रूपं (*rūpaṃ*)—form
+- वसानाः (*vasānāḥ*)—possessing
+- शग्मासः (*śagmāsaḥ*)—giving happiness
+- अरुषासः (*aruṣāsaḥ*)—golden-hued
+- सहवाहः (*sahavāhaḥ*)—carrying together
+- अश्वाः (*aśvāḥ*)—horses
+- यस्य (*yasya*)—of which Bṛhaspati
+- सहश्चित् (*sahaścit*)—all the strength
+- नीलवत् (*nīlavat*)—like the power of a dwelling-place
+- सधस्थं (*sadhasthaṃ*)—those that are gathered together
+- तं (*taṃ*)—such
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- वहंति (*vahaṃti*)—let them bear and bring
+
+##### भावार्थ (Bhāvārtha)
+
+May the horses, which have an attractive form like the sun, give happiness, are golden-hued and carry together, bear and bring that Bṛhaspati, whose strength, all of it, is gathered together like the total power of a dwelling-place.
+
+##### English translation
+May his powerful brilliant horses, wearing a lustrous form like (that of) the sun, acting together, bring hither) that Brihaspati, in whom strength abides like that of a substantial mansion.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि शुचिः॑ श॒तप॑त्रः॒ स शुं॒धुर्हिर॑ण्यवाशीरिषि॒रः स्व॒र्षाः ।  
+> बृह॒स्पतिः॒ स स्वा॑वे॒श ऋ॒ष्ट्वः पु॒रू सखि॑भ्य आसु॒तिं करि॑ष्ठः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । शुचिः । शतपत्रः । सः । शुंध्युः । हिरण्यवाशीः । इषिरः । स्वःसाः ।  
+> बृहस्पतिः । सः । सुआवेशः । ऋष्वः । पुरु । सखिभ्यः । आसुतिं । करिष्यः ॥ ७ ॥
+
+### Printed p. 168
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि स खलु बृहस्पतिः शुचिः शुद्धः शतपत्रो बहुविधवाहनः । स एव शुंध्युः ।
+> सर्वेषां शोधयिता हिरण्यवाशीः । वाशीति वाज्ञाम । हितरमणीयवाक् । यद्वा ।
+> वाशीभिस्तक्षताश्मन्मयीभिः । ऋ. १८-१०१-१० । इति निगमाद्वाश्यायुधं । स्वर्णमयायुधः । इषिरो गंताभ्येषणीयो वा स्वर्षाः स्वर्गस्य संभक्ता । यद्वा । सरणशीलस्योदकस्य सनिता दाता । स एव बृहस्पतिः स्वावेशः सुनिवास ऋष्टो दर्शनीयः ।
+> ईदृशो देवः सखिभ्यः स्तोतृभ्यः पुरु बहुलमासुतिमन्नं करिष्ठः कर्तृतमो
+> दातृतमो भवति ॥
+
+##### Gist of the bhāṣya
+
+That Bṛhaspati is pure, and "शतपत्रः (*śatapatraḥ*)", having many kinds of vehicles. He is the purifier of all. "हिरण्यवाशीः (*hiraṇyavāśīḥ*)": *vāśī* is a name for speech, so it means one whose speech is agreeable and delightful. Or else, from the Vedic text वाशीभिस्तक्षताश्मन्मयीभिः (*vāśībhistakṣatāśmanmayībhiḥ*) (Ṛ. Saṃ. 18-101-10), *vāśī* is a weapon, so he has a golden weapon. "इषिरः (*iṣiraḥ*)" means a goer, or one to be desired. "स्वर्षाः (*svarṣāḥ*)" means a sharer of heaven; or else a giver of flowing water. That same Bṛhaspati is "स्वावेश (*svāveśa*)", well-housed, and "ऋष्ट्वः (*ṛṣṭvaḥ*)", worthy to be seen. Such a god is the most bountiful giver of abundant food to his friends, the worshippers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स हि (*sa hi*)—that very Bṛhaspati
+- शुचिः (*śuciḥ*)—pure
+- शतपत्रः (*śatapatraḥ*)—possessing many kinds of vehicles
+- सः (*saḥ*)—he himself
+- शुंध्युः (*śuṃdhyuḥ*)—the purifier
+- हिरण्यवाशीः (*hiraṇyavāśīḥ*)—possessing a golden weapon
+- इषिरः (*iṣiraḥ*)—the desired one
+- स्वर्षाः (*svarṣāḥ*)—the giver of excellent water
+- स्वावेशः (*svāveśaḥ*)—possessing an excellent dwelling-place
+- ऋष्ट्वर् (*ṛṣṭvar*)—worthy to be seen
+- सः बृहस्पतिः (*saḥ bṛhaspatiḥ*)—that very Bṛhaspati
+- सखिभ्यः (*sakhibhyaḥ*)—to the worshippers who are his friends
+- पुरु (*puru*)—very abundant
+- आसुतिं (*āsutiṃ*)—food
+- करिष्ठः (*kariṣṭhaḥ*)—the giver
+
+##### भावार्थ (Bhāvārtha)
+
+That same venerable Bṛhaspati is pure and has many kinds of vehicles. He is the purifier and has a golden weapon. He is much desired, gives excellent water, has an excellent dwelling-place and is worthy to be seen; that same Bṛhaspati gives abundant food to the worshippers who are his friends.
+
+##### English translation
+He verily is pure, borne by numerous conveyances, he is the purifier, armed with golden weapons, the object of desire, the enjoyer of heaven : he, Brihaspati, is well domiciled, of goodly aspect, a most bountiful giver of ample food to his friends.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वी दे॒वस्य॒ रोद॑सी॒ जनि॑त्री॒ बृह॒स्पतिं॑ नावृधतुर्महि॒त्वा ।  
+> द॒क्षाय्या॑य दक्षता सखायः॒ कर॒द्ब्रह्म॑णे सु॒तरा॑ सुगा॒धा ॥
+
+### Printed p. 169
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवी इति । देवस्य । रोदसी इति । जनित्त्री इति । बृहस्पतिं । ववृधतुः । महित्वा ।  
+> दक्षय्याय । दक्षत । सखायः । करत् । ब्रह्मणे । सुतरा । सुगाधा ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवी देव्यौ दानादिगुणयुक्ते देवस्य बृहस्पतेर्जनित्रि जनयित्र्यौ.
+> रोदसी द्यावापृथिव्यौ महित्वा महत्वेन युक्तं बृहस्पतिं ववृधतुः । वर्धयामासतुः। हे सखायः यूयमपि दक्षाय्याय वर्धनीयाया। द्वितीयार्थे चतुर्थि ।
+> वर्धनीयं तं बृहस्पतिं दक्षत । वर्धयत । स च बृहस्पतिर्ब्रह्मणे बृंहिताय
+> प्रभूतायान्न्याय तदर्थं सुतरा सुतरणानि सुखेन तरणीयानि सुगाधा सुखेनावगाहनीयान्न्युदकानि करत् । करोतु ॥
+
+##### Gist of the bhāṣya
+
+The two goddesses, endowed with qualities such as generosity, are the generatrices of the god Bṛhaspati; they are "रोदसी (*rodasī*)", heaven and earth. By their greatness they made Bṛhaspati, who is endowed with greatness, grow. "O friends ("सखायः (*sakhāyaḥ*)"), you also magnify him." In "दक्षाय्याय (*dakṣāyyāya*)" ("to the one to be magnified") the dative stands in the sense of the accusative: magnify that Bṛhaspati who is to be magnified. And may that Bṛhaspati, for "brahman", that is, for great and abundant food, make waters that are easy to cross ("सुतरा (*sutarā*)") and easy to ford, that is, plunge into with ease ("सुगाधा (*sugādhā*)").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवी (*devī*)—divine in nature
+- देवस्य (*devasya*)—to Bṛhaspati
+- जनित्रि (*janitri*)—the two who are the begetters; that is, heaven and earth
+- महित्वा (*mahitvā*)—by their greatness
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- ववृधतुः (*vavṛdhatuḥ*)—made grow
+- सखायः (*sakhāyaḥ*)—O friends
+- दक्षाय्याय (*dakṣāyyāya*)—Bṛhaspati, who is increasing
+- दक्षत (*dakṣata*)—do you make him grow (may that same Bṛhaspati)
+- ब्रह्मणे (*brahmaṇe*)—for abundant food
+- सुतरा (*sutarā*)—easy to cross
+- सुगाधा (*sugādhā*)—of a suitable depth
+- करत् (*karat*)—let him produce (the waters)
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth, who are divine in nature and are the begetters of Bṛhaspati, made Bṛhaspati grow by their greatness. O friends, you also make the increasing Bṛhaspati grow. May that same Bṛhaspati, for abundant food, produce waters that are easy to cross and of a suitable depth.
+
+##### English translation
+the divine heaven and earth, the generatrices of the deity, have, by their might, given growth to Brihaspati: magnify, friends, the magnifiable and may he render (the waters) easy to be crossed and forded for (the attainment of) food.
+
+### Printed p. 170
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं नां॑ ब्रह्मणस्पते सुवृ॒क्तिर्ब्रह्मेंद्रा॑य व॒ज्रिणे॑ अकारि।  
+> अ॒वि॒ष्टं धियो॑ जिगृ॒तं पुरं॑धीर्जज॒स्तम॒र्यो व॒नुषा॒मरा॑तीः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । वां । ब्रह्मणः । पते । सुवृक्तिः । ब्रह्म । इंद्राय । वज्रेणे । अकारि ।  
+> अविष्टं । धियः । जिगृतं । पुरंधीः । जजस्तं । अर्यः । वनुषां । अरातीः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ब्रह्मणस्पते तुभ्यं वज्रिणे वज्रवत इंद्राय च नां युवाभ्यां ॥
+> तादर्थ्ये चतुर्थी ॥ ब्रह्म मंत्ररूपेयं सुवृक्तिः सुप्रवृत्ता स्तुतिरकारि । मया
+> कृताभूत् । तौ युवां धियोऽस्मदीयानि कर्माण्यविष्टं । रक्षतं । तथा पुरंधीः
+> पुरुधीर्बह्वीः स्तुतीर्जिगृतं । निगिरतं । शृणुतमिति यावत् । अर्योऽरीरभिगंत्रिर्वनुषां संभक्त्यणामस्माकमरातीः शत्रुसेना जजस्तं । उपक्षपयतं ॥
+
+##### Gist of the bhāṣya
+
+O Brahmaṇaspati, for you and for Indra the wielder of the thunderbolt, by "नां (*nāṃ*)", that is, for you two (the dative in the sense of purpose), this prayer in the form of a mantra, a well-directed praise, has been made ("अकारि (*akāri*)") by me. Do you two protect our rites ("धियः (*dhiyaḥ*)"). So also *purandhīḥ*, the many praises: "जिगृतं (*jigṛtaṃ*)" means swallow them, that is, hear them. "अर्यः (*aryaḥ*)" are the enemies who come against us; "वनुषां (*vanuṣāṃ*)", of us who are your worshippers. Destroy ("jajastam") the hostile armies, that is, make them waste away.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मणस्पते (*brahmaṇaspate*)—O Brahmaṇaspati (to you also)
+- वज्रिणे (*vajriṇe*)—who bears the thunderbolt
+- इंद्राय (*iṃdrāya*)—and to Indra
+- नां (*nāṃ*)—addressed to you two
+- ब्रह्म (*brahma*)—in the form of a mantra
+- इयुं सुवृक्तिः (*iyuṃ suvṛktiḥ*)—this most excellent praise
+- अकारि (*akāri*)—has been composed by me
+- धियः (*dhiyaḥ*)—these our rites
+- अविष्टं (*aviṣṭaṃ*)—protect, you two
+- पुरंधीः (*puraṃdhīḥ*)—these praises of many kinds
+- जिगृतं (*jigṛtaṃ*)—hear
+- वनुषां (*vanuṣāṃ*)—of us, your worshippers
+- अर्यः (*aryaḥ*)—who oppose
+- अरातीः (*arātīḥ*)—the enemies
+- जजस्तं (*jajastaṃ*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, this most excellent praise, in the form of a mantra, has been composed by me, addressed to you and to Indra who bears the thunderbolt. Protect, you two, these our rites. Hear these praises of many kinds. Destroy the enemies who oppose us, your worshippers.
+
+### Printed p. 171
+
+##### English translation
+This praise has been offered as prayer to you both, Brahmanaspati and Indra, the wielder of the thunderbolt: protect our ceremonies: hear our manifold praise; annihilate the assailing adversaries of your worshippers.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॑स्पते यु॒वमिंद्र॑श्च॒ वस्वो॑ दि॒व्यस्ये॑शाथे उ॒त पार्थि॑वस्य ।  
+> ध॒त्तं र॒यिं स्तु॑व॒ते की॒रये॑ चिद्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पते । युवं । इंद्रः । च । वस्वः । दिव्यस्य । ईशाथे इति । उत । पार्थिवस्य ।  
+> धत्तं । रयिं । स्तुवते । कीरये । चित् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयसवन उक्थ्ये ब्राह्मणाच्छंसिनो बृहस्पते युवमिति शस्त्रयाज्या ।
+> सूत्रितं च । बृहस्पते युवमिंद्रश्च वस्व इति याज्या । आ. ६-१ । इति ॥ वाजपेयेऽतिरिक्तोक्षस्येषेव परिधानीया । सूत्रितं च । बृहस्पते युवमिंद्रश्च वस्व इति
+> परिधानीया । आ. ९-९ । इति ॥
+> हे बृहस्पते त्वं चेंद्रश्च युवां दिव्यस्य दिवि भवस्य वस्वो वसुनो धनस्येशाथे । अतः कारणात् स्तुवते स्तोत्रं कुर्वते कीरये । स्तोतृनामैतत् । स्तोत्रे
+> रयिं धनं धत्तं । दत्तं । चिदिति पूरणः । अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+In the third savana of the Ukthya rite, the verse बृहस्पते युवं (*bṛhaspate yuvaṃ*) is the śastra-yājyā of the Brāhmaṇācchaṃsin. It is also prescribed in the sūtra बृहस्पते युवमिंद्रश्च वस्व इति याज्या (*bṛhaspate yuvamiṃdraśca vasva iti yājyā*) (Ā. 6-1). In the Vājapeya, it is the concluding verse (pariḍhānīyā) for the atiriktokṣa; the sūtra reads बृहस्पते युवमिंद्रश्च वस्व इति परिधानीया (*bṛhaspate yuvamiṃdraśca vasva iti paridhānīyā*) (Ā. 9-9). **NOTE**
+
+O Bṛhaspati, you and Indra, you two, are lords of the wealth born in heaven ("divyasya"). For that reason, to the praiser (*kīri*, a name for a worshipper) who praises, give ("dhattam", that is, "dattam") wealth ("rayi"). "Cit" is a filler (पूरणः (*pūraṇaḥ*)). The rest has been dealt with already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati (you)
+- इंद्रः च (*iṃdraḥ ca*)—and Indra
+- युवं (*yuvaṃ*)—you two
+- दिव्यस्य (*divyasya*)—that which is born in the world of the gods
+- उत (*uta*)—and
+- पार्थिवस्य (*pārthivasya*)—that which is born on earth
+- वस्वः (*vasvaḥ*)—of all wealth
+- ईशाथे (*īśāthe*)—you are the lords
+- स्तुवते (*stuvate*)—who praises you
+- कीरये (*kīraye*)—to the praiser
+- रयिं (*rayiṃ*)—wealth
+- धत्तं (*dhattaṃ*)—give
+- यूयं (*yūyaṃ*)—all of you
+- सदा (*sadā*)—always
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 175
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, you together with Indra are lords of all wealth, both what is born in the world of the gods and what is born on earth. Give wealth to the praiser who praises you. May all of you always protect us with blessings.
+
+##### English translation
+You two, Brihaspati and Indra, are lords of both celestial and terrestrial treasure ; grant riches to the worshipper who praises you : and do you (gods) ever cherish us with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the third savana of the Ukthya sacrifice, the priest called Brāhmaṇācchaṃsin is to use this Ṛk, बृहस्पते युवं (*bṛhaspate yuvaṃ*), as the śastra-yājyā mantra. This is set out by the sūtra of the Āśvalāyana Śrautasūtra बृहस्पते युवमिंद्रश्च वस्व इति याज्या (*bṛhaspate yuvamiṃdraśca vasva iti yājyā*) (Ā. 6-1). It is also set out that, in the sacrifice called Vājapeya, at the close of the atiriktokṣa mantras, this Ṛk is to be recited as the last Ṛk, by the sūtra of the Āśvalāyana Śrautasūtra बृहस्पते युवमिंद्रश्च वस्व इति परिधानीया (*bṛhaspate yuvamiṃdraśca vasva iti paridhānīyā*) (Ā. 9-9).
+
+## Sūkta 98 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध्वर्यव इति सप्तर्चं नवमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं सप्तम्यंद्राबार्हस्पत्या । तथा चानुक्रांतं । अध्वर्यवः सप्तोक्तदेवतांत्येति ॥
+> पूर्वसूक्तेन सहोक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, अध्वर्यवः (*adhvaryavaḥ*), has seven Ṛks. Its seer is Vasiṣṭha and its metre is Triṣṭubh. Its deity is Indra, and for the seventh Ṛk, Indra and Bṛhaspati. So the Anukramaṇī says: अध्वर्यवः सप्तोक्तदेवतांत्येति (*adhvaryavaḥ saptoktadevatāṃtyeti*). The viniyoga is stated together with that of the preceding sūkta.
+
+##### Anuvāda
+
+This sūkta, अध्वर्यवः (*adhvaryavaḥ*), is the ninth sūkta in the sixth anuvāka. It has seven Ṛks. Vasiṣṭha is the seer of this sūkta, and its metre is Triṣṭubh. The deity of the seventh Ṛk is Indra-Bṛhaspati; for the remaining Ṛks the deity is Indra. The Anukramaṇī says अध्वर्यवः सप्तोक्तदेवतांत्या (*adhvaryavaḥ saptoktadevatāṃtyā*). The viniyoga of this sūkta has also been stated in the preceding sūkta.
+
 ---
 
-**Progress note:** Done through printed p. 166. pp. 161-166 (batch API)
+**Progress note:** Done through printed p. 175. pp. 167-175 (batch API)
