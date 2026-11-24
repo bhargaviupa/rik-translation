@@ -33075,6 +33075,266 @@ We solicit of the divine protector of the Maruts, of the Aswins, of Mitra, and o
 > अनेहः । मित्र । अर्यमन् । नृवत् । वरुण । शंस्यं ।  
 > त्रिवरूथं । मरुतः । यंत । नः । छर्दिः ॥ २१ ॥
 
+### Printed p. 783
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्र हे अर्यमन् हे वरुण हे मरुतः ते सर्वे यूयमनेहोऽहिंसितं नृवन्नृभिः पुत्रादिभिरुपेतं शंस्यं स्तुत्यं त्रिवरूथं त्रयाणां शीतातपवर्षाणां निवारकं यद्वा त्रिभूमिकं छर्दिर्गृहं यंत । यच्छत । दत्तेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Addressing Mitra, Aryaman, Varuṇa and the Maruts, Sāyaṇa says that all of them are asked to give a house (*chardiḥ*) that is free from harm, furnished with sons and others (नृवत् (*nṛvat*)), praiseworthy, and a protector against three things — cold, heat and rain. Alternatively it is "three-storeyed" (त्रिभूमिकं (*tribhūmikaṃ*)). यंत (*yaṃta*) means "give".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्र (*mitra*)—O Mitra
+- अर्यमन् (*aryaman*)—O Aryaman
+- वरुण (*varuṇa*)—O Varuṇa
+- मरुतः (*marutaḥ*)—O Maruts (all of you)
+- आनेहः (*ānehaḥ*)—free from sin
+- नृवत् (*nṛvat*)—furnished with sons and others
+- शंस्यं (*śaṃsyaṃ*)—praiseworthy
+- त्रिवरूथं (*trivarūthaṃ*)—a protector against cold, heat and rain
+- छर्विः (*charviḥ*)—the house
+- नः (*naḥ*)—to us
+- यंत (*yaṃta*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, O Aryaman, O Varuṇa, O Maruts, all of you give us a house that is free from sin, furnished with sons and others, praiseworthy, a protector against cold, heat and rain (or: having three storeys).
+
+##### English translation
+Mitra, Aryaman, Varuna, and Maruts, grant us a secure, excellent and well-peopled dwelling, a three-fold shelter.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये चि॒द्दि मृ॒त्युबं॑धव॒ आदि॑त्या॒ मन॑वः॒ स्मसि॑ ।  
+> प्र सू न॒ आयु॑र्जी॒वसे॑ तिरेतन ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । चित् । हि । मृत्युबंधवः । आदित्याः । मनवः । स्मृः ।  
+> प्र । सु । नः । आयुः । जीवसे । तिरेतन ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः ये चिद्ये च वयं मनवो मनुष्या हि यस्मान्मृत्युबंधवः
+
+##### Gist of the bhāṣya
+
+O Ādityas, because we, who are human beings (मनवः (*manavaḥ*)), are kinsmen of death…
+
+### Printed p. 784
+
+> स्मसि मृत्योर्यमस्य बंधुभूताः प्रत्यासन्नमरणा भवामः अतो हेतोस्तेषां
+> नोऽस्माकं जीवसे जीवनाय चिरकालावस्थानायायुर्जीवितं सु प्रतिरेतन ।
+> शोभनं प्रवर्धयत ॥
+
+##### Gist of the bhāṣya
+
+…that is, of Mṛtyu, Yama — being near to death, therefore, for our living (जीवसे (*jīvase*)), that is, for staying a long time, you should well (सु (*su*)) increase our life-span (आयुः (*āyuḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- ये (*ye*)—we who
+- मनवः चित् (*manavaḥ cit*)—are indeed human beings
+- हि (*hi*)—therefore
+- मृत्युबंधवः (*mṛtyubaṃdhavaḥ*)—being subject to death
+- स्मसि (*smasi*)—we are (therefore)
+- नः (*naḥ*)—our
+- जीवसे (*jīvase*)—for long life
+- आयुः (*āyuḥ*)—life
+- सु (*su*)—abundantly
+- प्र तिरेतन (*pra tiretana*)—fill up for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, for the very reason that we are human beings, we are subject to death. Therefore, for our long life, provide us with long life and the wealth of living.
+
+##### English translation
+Since, Adityas, we mortals are of kin to death, you benevolently (exert yourselves to) prolong our lives.
+
+## Sūkta 19 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं गूर्धयेति सप्तत्रिंशदृचु सप्तमं सूक्तं काण्वस्य सोभरेरार्षं
+> प्रथमातृतीयाद्ययुजः ककुभो द्वितीयाचतुर्थ्यादियुजः सतोबृहत्यः । पितुर्न
+> पुत्र एषा सप्तविंशी द्विपदा विंशत्यक्षरा विराट् । यमादित्यास इत्येषा चतुस्त्रिश्युष्टिक् । यूयं राजान एषा पंचत्रिंशी सतोबृहती । अदान्म इत्येषा ककुप् ।
+> उत म इत्येषा सप्तत्रिंशी पंक्तिः । षट्त्रिंशी सप्तत्रिंशी च त्रसदस्युनाम्मो राज्यो
+> दानस्तुतिरूपत्वात्तद्देवताके । चतुस्त्रिंशीपंचत्रिंश्यावादित्यदेवताके । शिष्टा
+> आग्नेय्यः । तथा चानुक्रांतं । तं गूर्धय सप्तत्रिंशत् सोभरिराग्नेयं काकुभं
+> प्रागाथं हपितुर्न द्विपदांत्ये ककुप्पंक्ती त्रसदस्योर्दानस्तुतिस्तत्तूर्वे उष्णि
+> कृतोबृहत्यावादित्येभ्य इति ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta तं गूर्धय (*taṃ gūrdhaya*) has thirty-seven ṛks and is the seventh sūkta (of the anuvāka). Its ṛṣi is Sobhari Kāṇva. The first, third and the other odd ṛks are Kakubh; the second, fourth and the other even ones are Satobṛhatī. The twenty-seventh, पितुर्न (*piturna*), is a Dvipadā Virāj of twenty syllables. यमादित्यास (*yamādityāsa*), the thirty-fourth, is an Uṣṇik. यूयं राजान (*yūyaṃ rājāna*), the thirty-fifth, is a Satobṛhatī. अदान्म (*adānma*) is a Kakubh. उत म (*uta ma*), the thirty-seventh, is a Paṅkti. The thirty-sixth and thirty-seventh praise the gift of King Trasadasyu, so they have that as deity. The thirty-fourth and thirty-fifth have the Ādityas as deity. The rest are addressed to Agni. He quotes the Anukramaṇī: तं गूर्धय सप्तत्रिंशत् सोभरिराग्नेयं काकुभं प्रागाथं हपितुर्न द्विपदांत्ये ककुप्पंक्ती त्रसदस्योर्दानस्तुतिस्तत्तूर्वे उष्णि कृतोबृहत्यावादित्येभ्य इति ॥ (*taṃ gūrdhaya saptatriṃśat sobharirāgneyaṃ kākubhaṃ prāgāthaṃ hapiturna dvipadāṃtye kakuppaṃktī trasadasyordānastutistattūrve uṣṇi kṛtobṛhatyāvādityebhya iti ‖*). The use of the sūkta has been stated.
+
+The Kannada Anuvāda: this sūkta तं गूर्धय (*taṃ gūrdhaya*) is the seventh sūkta in the third anuvāka.
+
+### Printed p. 785
+It has thirty-seven ṛks. Its ṛṣi is Sobhari, born in the Kaṇva lineage. In it the odd-numbered ṛks 1, 3 and so on have the Kakubh metre; the even-numbered ṛks 2, 4 and so on have the Satobṛhatī metre. The 27th ṛk, पितुर्नः (*piturnaḥ*), is of the metre Dvipadā Virāj of twenty syllables. The 34th ṛk, यमादित्यासः (*yamādityāsaḥ*), has the Uṣṇik metre of thirty-four syllables. The 35th, यूयं राजानः (*yūyaṃ rājānaḥ*), is Satobṛhatī of thirty-five syllables. The 36th, अदान्मे (*adānme*), is Kakubh. The 37th, उत मे (*uta me*), is Paṅkti. Since the praise of a gift made by a king named Trasadasyu is stated in the 36th and 37th ṛks, the deity of those two is the praise of Trasadasyu's gift. The 34th and 35th are addressed to the Ādityas. The remaining ṛks are addressed to Agni. In the Anukramaṇī it is said: तं गूर्धय सप्तत्रिंशत् सोभरिराग्नियं काकुभं प्रागाध ह पितुर्न द्विपदांत्ये ककुप्पंक्ति त्रसदस्योर्दानस्तुतिस्तत्तूर्वे उष्णिकृतोबृहत्यावादित्येभ्यः (*taṃ gūrdhaya saptatriṃśat sobharirāgniyaṃ kākubhaṃ prāgādha ha piturna dvipadāṃtye kakuppaṃkti trasadasyordānastutistattūrve uṣṇikṛtobṛhatyāvādityebhyaḥ*). The use of the sūkta has been given earlier.
+
+Sūkta—19
+Maṇḍala 8; Anuvāka 3; Sūkta 19.
+Aṣṭaka 6; Adhyāya 1; Vargas 29, 30, 31, 32, 33, 34, 35.
+Number of ṛks in the sūkta: 37.
+Ṛṣi: Sobhari Kāṇva.
+Devatā: 1-33 Agni; 34-35 the Ādityas; 36-37 the praise of Trasadasyu's gift.
+Chandas: 1-26, 28-33 Prāgātha Kākubha; 27 Dvipadā; 34 Uṣṇik; 35 Satobṛhatī; 36 Kakubh; 37 Paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं गू॑र्धया॒ स्व॑र्णरं दे॒वासो॑ दे॒वम॑र॒तिं  ॑
+> द॑धन्विरे ।  
+> दे॒व॒त्रा ह॒व्यमोहि॑रे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । गूर्धय । स्वःनरं । देवासः । देवं।अरतिं । दधन्विरे ।  
+> देवत्रा । हव्यं । आ । ऊहिरे ! १ !!  
+> [ 50 ]                                                                 [ Vol. 23 ]
+
+### Printed p. 786
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः तं प्रसिद्धमग्निं गूर्धय । स्तुहि । गूर्धयतिः स्तुतिकर्मा ।
+> कीदृशं । स्वर्णरं सर्वस्य नेतारं सर्वैर्यजमानैः कर्मादौ नीतं वा । अथवा
+> स्वर्गं प्रति हविषां नेतारं । देवासः दीव्यंति स्तुवंतीति देवा ऋत्विजो देवं
+> दानादिगुणयुक्तमरतिमर्यं स्वामिनं यद्वाभिप्राप्तद्रव्यं दधन्वरे । धन्वंति ।
+> गच्छंति । स्तुत्यादिभिः प्राप्नुवंति । धनिर्गत्यर्थः । प्राप्य च तेनाग्निना देवत्रा देवान् ॥
+> देवमनुष्येत्यादिना द्वितीयार्थे त्राप्रत्ययः ॥ हव्यं चरुपुरोडाशादिलक्षणं
+> हविरोहिरे अभिप्राययंति ॥ वहेर्यजादित्वात्संप्रसारणं ॥
+
+##### Gist of the bhāṣya
+
+O praiser, praise (गूर्धय (*gūrdhaya*); the root means praise) that well-known Agni, the leader (स्वर्णरं (*svarṇaraṃ*)) of all, or the one led forward by all sacrificers at the beginning of the rite; or the leader of oblations to heaven. The gods (देवासः (*devāsaḥ*)) are the priests, who shine and praise. They approach (दधन्विरे (*dadhanvire*) — from धनि (*dhani*), meaning going; they reach by praises and so on) the god, endowed with the quality of generosity, the lord (अरतिं (*aratiṃ*)), or the lord of the thing desired. Having reached him, through that Agni they carry (ऊहिरे (*ūhire*)) the oblation (हव्यं (*havyaṃ*), the caru, puroḍāśa and the like) to the gods (देवत्रा (*devatrā*), the suffix त्रा (*trā*) having the sense of the accusative).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वर्णरं (*svarṇaraṃ*)—leader of the venerable sacrifices and the like
+- तं (*taṃ*)—that Agni
+- गूर्धय (*gūrdhaya*)—praise (O praiser)
+- देवासः (*devāsaḥ*)—the priests and others
+- देवं (*devaṃ*)—endowed with the quality of generosity
+- अरतिं (*aratiṃ*)—the lord, that Agni
+- दधन्विरे (*dadhanvire*)—approach with praises and the like
+- हव्यं (*havyaṃ*)—the oblation
+- देवत्रा (*devatrā*)—to the gods
+- आ ऊहिरे (*ā ūhire*)—send through Agni
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise Agni, the leader of the sacrifices and the like that lead to heaven. The priests and others approach with praises Agni, who is endowed with generosity and is the lord, and through that Agni they send oblations to the gods.
+
+##### English translation
+Glorify (Agni), the leader of all (sacred rites): the priests approach the divine lord, (and through him) convey the oblation to the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विभू॑तरातिं विप्र चि॒त्रशो॑चिषम॒ग्निमा॑ळिष्व यं॒तुरं॑।  
+> अ॒स्य मेध॑स्य सो॒म्यस्य॑ सोभरे॒ प्रेम॑ध्व॒राय॒  ॑
+> पूर्व्यं ॥ २ ॥
+
+### Printed p. 787
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विभूतरातिं । विप्र । चित्रशोचिषं । अग्निं । ईळिष्व । यंतुरं ।  
+> अस्य । मेधस्य । सोम्यस्य । सोभरे । प्र । ईं । अध्वराय । पूर्व्यं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरात्मानं संबोध्य।स्तुतौ प्रेरयति । हे विप्र मेधाविन् सोभर एतत्संज्ञर्षे अध्वराय यागायेमिममग्निं प्रेळिष्ट । प्रस्तुहि । कीदृशं । विभूतरातिं
+> विभूतदानं चित्रशोचिषं चायनीयतेजस्कं विचित्रदीप्तिकं वा सोम्यस्य सोमसाध्यस्यास्य मेधस्य यज्ञस्य यंतुरं नियंतारं पूर्व्यं चिरंतनं ॥
+
+##### Gist of the bhāṣya
+
+The ṛṣi addresses himself and urges himself to praise. O wise Sobhari (the ṛṣi of this name), praise (प्रेळिष्ट (*preḷiṣṭa*), प्रस्तुहि (*prastuhi*)) this Agni for the sacrifice (अध्वराय (*adhvarāya*)). He is of what kind? विभूतरातिं (*vibhūtarātiṃ*), of abundant giving; चित्रशोचिषं (*citraśociṣaṃ*), of worthy radiance or of varied brilliance; the regulator (यंतुरं (*yaṃturaṃ*)) of this sacrifice (मेधस्य (*medhasya*)) that is accomplished with Soma (सोम्यस्य (*somyasya*)); ancient (पूर्व्यं (*pūrvyaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—wise
+- सोभरे (*sobhare*)—O Sobhari
+- अध्वराय (*adhvarāya*)—for the conduct of the sacrifice
+- विभूतरातिं (*vibhūtarātiṃ*)—one who gives wealth abundantly
+- चित्रशोचिषु (*citraśociṣu*)—one of attractive radiance
+- सोम्यस्य (*somyasya*)—in which Soma is offered
+- अस्य मेदस्य (*asya medasya*)—of this sacrifice
+- यंतुरं (*yaṃturaṃ*)—the regulator
+- पूर्व्यं (*pūrvyaṃ*)—the ancient
+- ईं अग्निं (*īṃ agniṃ*)—this very Agni
+- प्र ईळिष्ट (*pra īḷiṣṭa*)—praise well
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Sobhari, for the conduct of the sacrifice praise well this very Agni, who gives wealth abundantly, is of attractive radiance, is the regulator of this sacrifice in which Soma is offered, and is ancient.
+
+##### English translation
+Praise, pious Sobhari, at the sacrifice this ancient Agni, who is the giver of opulence, the wonderfully luminous, the regulator of this rite, at which the Soma is presented.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यजि॑ष्ठं त्वा वन्यमहे दे॒वं दे॑व॒त्रा होता॑  
+> र॒मम॑र्त्यं ।
+
+### Printed p. 788
+
+> अस्य यज्ञस्य सुक्रतुं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यजिष्ठं । त्वा । ववृमहे । देवं । देवत्रा । होतारं । अमर्त्यं ।  
+> अस्य । यज्ञस्य । सुक्रतुं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिप्लविकेषूक्ष्येषु तृतीयसवने प्रशास्तुः शस्त्रे यजिष्ठं त्वेत्यादिकौ
+> प्रगाथौ वैकल्पिकौ स्तोत्रियानुरूपौ । सूत्रितं च । यजिष्ठं त्वा ववृमहे यः
+> समिधा य आहुती । आ. ७-८. । इति ॥
+> हे अग्ने यजिष्ठमिष्टतमं त्वा ववृमहे । वृणीमहे । संभजामहे ।
+> कीदृशं त्वां । देवत्रा देवेषु मध्ये देवमतिशयेन दानादिगुणयुक्तं होतारं
+> देवानामाह्वातारममर्त्यमविनाशमस्य यज्ञस्य यागस्य सुकृतं सुष्टु कर्तारं ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava ṣaḍahas, in the Ukthya (rites), at the third pressing, in the Praśāstṛ's recitation, the two Pragāthas beginning यजिष्ठं त्व (*yajiṣṭhaṃ tva*) are optional, as Stotriya and Anurūpa. It is stated in the Sūtra: यजिष्ठं त्वा ववृमहे यः समिधा य आहुती । (*yajiṣṭhaṃ tvā vavṛmahe yaḥ samidhā ya āhutī |*) (Ā. Sū. 7-8).
+O Agni, we choose (ववृमहे (*vavṛmahe*)) you, the most worthy of sacrifice; we resort to you. You are the god (देवत्रा (*devatrā*)), among the gods, endowed in the highest degree with generosity and other qualities; the Hotṛ, the invoker of the gods; immortal; the good performer (सुक्रतुं (*sukratuṃ*)) of this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवत्रा (*devatrā*)—among the gods (O Agni)
+- देवं (*devaṃ*)—the venerable
+- होतारं (*hotāraṃ*)—one who calls the gods to the sacrifice
+- यजिष्ठं (*yajiṣṭhaṃ*)—the most venerable
+- अमर्त्यं (*amartyaṃ*)—free from mortality
+- अस्य यज्ञस्य (*asya yajñasya*)—of this sacrifice
+- सुक्रतुं (*sukratuṃ*)—the excellent conductor
+- त्वा (*tvā*)—you
+- ववृमहे (*vavṛmahe*)—we invoke and worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are the most excellent among the gods, the caller of the gods to the sacrifice, the most venerable, free from mortality, the excellent conductor of this sacrifice; we call and worship you.
+
+##### English translation
+We adore you, the most adorable deity, the invoker of the gods, the immortal, the perfecter of this sacrifice;
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ukthya sacrifices connected with the Abhiplava, at the time of the third pressing, the priest called Praśāstṛ
+
 ---
 
-**Progress note:** Done through printed p. 782. pp. 777-782 (batch API)
+**Progress note:** Done through printed p. 788. pp. 783-788 (batch API)
