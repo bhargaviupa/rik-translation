@@ -6086,6 +6086,280 @@ In the animal rite whose deity is Sarasvat, "स वावृधे (*sa vāvṛ
 Sarasvat is the wind of the middle region. "नर्यः (*naryaḥ*)" is beneficial to men; "वृषा (*vṛṣā*)" is capable of sprinkling; "शिशुः (*śiśuḥ*)" is small, seen as small at the time of his manifestation; "वृषभः (*vṛṣabhaḥ*)" is the one who rains. Such is Sarasvat; among the *yoṣaṇās*, the women fit for sacrifice, that is, his own wives, the waters of the middle region, he "ववृधे (*vavṛdhe*)", grows. That Sarasvat gives to the sacrificers who have oblations a strong ("वाजिनं (*vājinaṃ*)") son; and for gain ("सातये (*sātaye*)") he "vi mamṛjīta", adorns and prepares their body for gain. **NOTE**
 Although this is a praise of Sarasvat, the use stated in the Chandomika Sārasvata tṛca for this Ṛk is not contradicted, since that pressing is for the pleasing of Sarasvatī.
 
+### Printed p. 147
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—beneficial to all men
+- वृषा (*vṛṣā*)—the maker of rain
+- वृषभः (*vṛṣabhaḥ*)—one having the power of sprinkling
+- सः (*saḥ*)—the deity Sarasvat (the wind)
+- शिशुः (*śiśuḥ*)—though possessed of little strength at the beginning
+- यज्ञियासु (*yajñiyāsu*)—worthy of sacrifice
+- योषणासु (*yoṣaṇāsu*)—in the midst of the rain-waters that are his wives
+- ववृधे (*vavṛdhe*)—he grows
+- सः (*saḥ*)—that same deity Sarasvat
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to the sacrificers who possess oblations
+- वाजिनं (*vājinaṃ*)—a son endowed with strength
+- दधाति (*dadhāti*)—he gives
+- सातये (*sātaye*)—so that they may become worthy of receiving his gift
+- तन्नं (*tannaṃ*)—their bodies
+- वि मामृजीत (*vi māmṛjīta*)—he refines
+
+##### भावार्थ (Bhāvārtha)
+
+The wind (the deity Sarasvat), who is beneficial to all men, a maker of rain, possessed of the power of sprinkling, grows, though of little strength at the beginning, in the midst of the rain-waters that are worthy of sacrifice and are his wives. That same deity Sarasvat gives strong sons to the sacrificer who has oblations. He refines their bodies so that they become worthy of his gift.
+
+##### English translation
+The showerer Saraswat, the friend of man, a showerer (of benefits), even whilst yet a child, (continually increases among his adorable wives (the rains) : he bestows upon the affluent (worshippers) a vigorous son ; he purifies their persons (to fit them) for the reception (of his bounties).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice whose deity is Sarasvat, when the puroḍāśa offering is made, this Ṛk beginning स वावृधे (*sa vāvṛdhe*) is to be recited as the yājyā mantra. This is explained by the Āśvalāyana Śrauta Sūtra in the sūtra स वावृधे नर्यो योषणासु यस्य व्रतं पशवो यंति सर्वॆ (*sa vāvṛdhe naryo yoṣaṇāsu yasya vrataṃ paśavo yaṃti sarvè*) (Ā. 3-8).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्या नः॒ सर॑स्वती जुषा॒णोप॑ श्रवत्सु॒भगा॑ य॒ज्ञे अ॒स्मिन् ।  
+> मि॒तज्नु॑ भिर्नम॒स्यै॑रिया॒ना रा॒या यु॒जा चि॒दुत्त॑रा॒ सखि॑भ्यः॥
+
+### Printed p. 148
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्या । नः । सरस्वती । जुषाणा । उप । श्रवत् । सुभगा । यज्ञे । अस्मिन् ।  
+> मितज्ञुभिः । नमस्यैः । इयाना । राया । युजा । चित् । उत्तरा । सखिभ्यः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशरात्रेऽष्टमेऽहनि प्रउग उत स्या न इति सारस्वतः सप्तमस्तृचः । सूत्रितं
+> च । उत स्या नः सरस्वती जुषाणेति प्रउगं । आ. ८-१० । इति ॥ सारस्वते पशौ पुरोडाशस्कोत स्या न इत्यनुवाक्या । सूत्रितं च । उतस्या नः सरस्वती जुषाणा सरस्वत्यभि
+> नो नेषि वस्यः । आ. ३-७ । इति ॥
+> उतापि च जुषाणा प्रीयमाणा सुभगा शोभनधना स्या सा सरस्वती नोऽस्माकमस्मिन्ज्ञ उप श्रवत् । अस्मदीयाः स्तुतीरुपशृणोतु । कीदृशी सा । मितज्जुभिः
+> प्रह्वैर्जानुभिर्नमस्यॆर्नमस्कारैर्दॆवैरियानोपगम्यमाना । चिच्छब्दश्चार्थे
+> युजा नित्ययुक्तेन राया धनेन च संगता सखिभ्य उत्तरोत्कृष्टतरा । ईदृश्यस्मदीयाः स्तुतीरुपशृणोत्वित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+On the eighth day of the Daśarātra, in the Prauga recitation, the seventh tṛca is addressed to Sarasvatī and begins उत स्या नः (*uta syā naḥ*); the sūtra says: उत स्या नः सरस्वती जुषाणेति प्रउगं (*uta syā naḥ sarasvatī juṣāṇeti praugaṃ*) (Ā. 8-10). In the Sārasvata animal sacrifice, in the puroḍāśa offering, this Ṛk is the anuvākyā; the sūtra (Ā. 3-7) cites उत स्या नः सरस्वती (*uta syā naḥ sarasvatī*) together with the following half-verse "Sarasvatī, lead us to what is better". **NOTE**
+"Uta" means "and also". That Sarasvatī, pleased (जुषाणा (*juṣāṇā*)) and of good fortune, i.e. of beautiful wealth, is to hear (उप श्रवत् (*upa śravat*)) in this sacrifice of ours: let her listen to our praises. What is she like? She is approached (इयाना (*iyānā*)) by the gods (so Sāyaṇa) with bowed, bent knees and with acts of homage (नमस्यैः (*namasyaiḥ*)). The word चित् (*cit*) has the sense of "and". She is joined with wealth (राया (*rāyā*)) that is her constant companion (युजा (*yujā*)), and is more excellent (उत्तरा (*uttarā*)) than her friends. Such a Sarasvatī is to listen to our praises: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मितज्ञभिः (*mitajñabhiḥ*)—by those who kneel
+- नमस्यैः (*namasyaiḥ*)—by worshippers who bow with humility
+- इयाना (*iyānā*)—she who is entreated
+- युजा (*yujā*)—ever connected with herself
+- राया चित् (*rāyā cit*)—by wealth alone
+- सखिभ्यः (*sakhibhyaḥ*)—to her friends
+- उत्तरा (*uttarā*)—she who gives excellently
+- उत (*uta*)—and
+- जुषाणा (*juṣāṇā*)—she who accepts our worship
+- सुभगा (*subhagā*)—she who has excellent wealth
+- स्या (*syā*)—the famous one
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- नः (*naḥ*)—our
+- अस्मिन् यज्ञे (*asmin yajñe*)—in this sacrifice
+- उप श्रवत् (*upa śravat*)—let her hear our praise
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Sarasvatī, who is entreated by worshippers kneeling and bowing with humility, who gives excellently to all her friends by the wealth that is ever joined with her, who accepts our worship, who has excellent wealth and is famous, hear our praise in this sacrifice of ours.
+
+##### English translation
+May the auspicious and gracious Saraswati hear (our praises) at this
+
+### Printed p. 149
+
+sacrifice, approached as she is with reverence and with bended knees, and most liberal to her friends with the riches she possesses.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the eighth day of the sacrifice called Daśarātra, when the mantras of the Pralug-śastra are recited, the first three Ṛks of this sūkta, beginning उत स्या नः (*uta syā naḥ*), are to be recited as the seventh tṛca, whose deity is Sarasvatī. This is explained by the Āśvalāyana Śrauta Sūtra in the sūtra उत स्या नः सरस्वती जुषाणेति प्रलुगं (*uta syā naḥ sarasvatī juṣāṇeti pralugaṃ*) (Ā. 8-10). And in the animal sacrifice whose deity is Sarasvatī, in the puroḍāśa offering, this Ṛk उत स्या नः (*uta syā naḥ*) is to be recited as the anuvākyā mantra; this is explained by the Āśvalāyana Śrauta Sūtra in the sūtra उत स्या नः सरस्वती जुषाणा सरस्वत्यभि नो नेषि वस्यः (*uta syā naḥ sarasvatī juṣāṇā sarasvatyabhi no neṣi vasyaḥ*) (Ā. 3-7).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा जुह्वा॑ना यु॒ष्मदा नमो॑भिः॒ प्रति॒ स्तोमं॑ सरस्वति  
+> जुषस्व ।  
+> तव॒ शर्म॑न्प्रि॒यत॑मे॒ दधा॑ना॒ उप॑स्थेयाम शर॒णं न वृ॒क्षं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमा । जुह्वानाः । युष्मत् । आ । नमःभिः । प्रति । स्तोमं । सरस्वति ! जुषस्व ।  
+> तव । शर्मन् । प्रियतमे । दधानाः । उप । स्थेयाम । शरणं । न । वृक्षं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवित्रेष्टां सारस्वतस्य हविष इमा जुह्वाना इति याज्या । सूत्रितं च ।
+> इमा जुह्वाना युष्मदा नमोभिर्दधिक्राव्यो अकारिसं । आ. २-१२ । इति ॥
+> हे सरस्वति इमेमान्यस्मदीयानि हवींषि जुह्वानास्तुभ्यं जुह्वतो वयं
+> नमोभिस्त्वद्विषयैर्नमस्कारैर्युष्मत्त्वत्सकाशादा ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ आददीमहि धनानीति शेषः । स्तोमं चास्मदीयं स्तोत्रं प्रति जुषस्व
+> प्रतिसेवस्व। वयं च प्रियतमेऽतिशयेन प्रिये तव त्वदीये शर्मञ्छर्मणि सुखे
+> दधाना निधीयमानाः संतः शरणं न वृक्षमाश्रयभूतं वृक्षमिवोप स्थेयाम ।
+> त्वामुपतिष्ठेम ! संगच्छेमहि ॥
+
+##### Gist of the bhāṣya
+
+In the Pavitreṣṭi, in the offering of the Sārasvata oblation, the Ṛk इमा जुह्वाना (*imā juhvānā*) is the yājyā; the sūtra is cited (Ā. 2-12).
+O Sarasvatī, offering these oblations of ours to you, with acts of homage directed to you, we would take from you (युष्मत् (*yuṣmat*))—the prefix आ (*ā*) being heard, a suitable verb has to be supplied—"may we take wealth" (आददीमहि धनानीति (*ādadīmahi dhanānīti*) is the remainder). And accept (जुषस्व (*juṣasva*)) our praise. And we, placed in your happiness (शर्मन् (*śarman*)), which is exceedingly dear, would stand near you (उप स्थेयाम (*upa stheyāma*)) like a tree that is a refuge (शरणं न वृक्षं (*śaraṇaṃ na vṛkṣaṃ*)); that is, we would approach you and unite with you.
+
+### Printed p. 150
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरस्वति (*sarasvati*)—O goddess Sarasvatī
+- इमा (*imā*)—these oblations
+- जुह्वानाः (*juhvānāḥ*)—offering in the form of libations
+- नमोभिः (*namobhiḥ*)—serving you with homage
+- युष्मत् (*yuṣmat*)—from you
+- आ (ददीमहि) (*ā (dadīmahi)*)—may we obtain wealth
+- स्तोमं (*stomaṃ*)—our praise
+- प्रति जुषस्व (*prati juṣasva*)—accept
+- वयं च (*vayaṃ ca*)—we also
+- प्रियतमे (*priyatame*)—which is most beneficial
+- तव (*tava*)—and given by you
+- शर्मन् (*śarman*)—in happiness
+- दधानाः (*dadhānāḥ*)—established
+- शरणं (*śaraṇaṃ*)—that is a support for the creeper
+- वृक्षं न (*vṛkṣaṃ na*)—like a tree, you who give a firm support
+- उप स्थेयाम (*upa stheyāma*)—we shall stand taking refuge
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sarasvatī, offering these oblations in the form of libations and serving you with homage, may we obtain wealth from you. Accept our praise. We also, established in the happiness that is most beneficial and given by you, shall stand taking refuge in you alone, who give a firm support like a tree that is a support for the creeper.
+
+##### English translation
+Presenting to you, Saraswati, these oblations with reverence (may we receive from you affluence): be gratified by our praise; and may we, being retained in your dearest felicity, ever recline upon you, as on a sheltering tree.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pavitreṣṭi, in the oblation offered to the deity Sarasvatī, this Ṛk beginning इमा जुह्वानाः (*imā juhvānāḥ*) is to be recited as the yājyā mantra. This is explained by the Āśvalāyana Śrauta Sūtra in the sūtra इमा जुह्वाना युष्मदा नमोभिर्दधिक्राव्यो अकारिषं (*imā juhvānā yuṣmadā namobhirdadhikrāvyo akāriṣaṃ*) (Ā. 2-12).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमु॑ ते सरस्वति॒ वसि॑ष्ठो॒ द्वारा॑वृ॒तस्य॑ सुभगे॒ व्या॑वः ।  
+> वर्ध॑ शुभ्रे स्तुव॒ते रा॑सि॒ वाजा॑न्यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ ६ ॥
+
+### Printed p. 151
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ऊं इति । ते । सरस्वति । वसिष्ठः । द्वारौ । ऋतस्य । सुभगे । वि । आवरित्यावः ।  
+> वर्ध । शुभ्रे । स्तुवते । रासि । वाजान् । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुभगे शोभनधने सरस्वति आयं वसिष्ठस्ते त्वां यंतुर्ऋतस्य यज्ञस्य
+> संबंधिन्यौ द्वारौ पूर्वापरे व्यावः । विवृणोति । उ इति पूरकः । हे शुभ्रे शुभ्रवर्णॆ देवि वर्ध । वर्धस्व । तथा स्तुवते स्तोत्रं कुर्वते वसिष्ठाय वाजानन्नानि
+> रासि । प्रदेहि । अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+O Subhagā, Sarasvatī of beautiful wealth, this Vasiṣṭha has opened for you (*tvāṃ yaṃtuḥ*) the two doors of ṛta, that is of the sacrifice, the former and the latter (व्यावः (*vyāvaḥ*): he has uncovered). **NOTE** The particle उ (*u*) is a mere filler. O Śubhrā, white-hued goddess, grow (वर्ध (*vardha*)). Likewise give (रासि (*rāsi*)) foods (वाजान् (*vājān*)) to Vasiṣṭha, who praises. The rest has been explained elsewhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुभगे (*subhage*)—you of excellent wealth
+- सरस्वति (*sarasvati*)—O goddess Sarasvatī
+- अयं वसिष्ठः (*ayaṃ vasiṣṭhaḥ*)—this Vasiṣṭha
+- ते (*te*)—for your movement
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- द्वारौ (*dvārau*)—the two doors, the former and the latter
+- व्याव उ (*vyāva u*)—has kept open
+- शुभ्रे (*śubhre*)—O goddess of white hue
+- वर्ध (*vardha*)—grow
+- स्तुवते (*stuvate*)—to Vasiṣṭha, the praiser
+- वाजान् (*vājān*)—foods
+- रासि (*rāsi*)—give (O Sarasvatī and the other deities)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sarasvatī of excellent wealth, this Vasiṣṭha has kept open for your coming both doors of the sacrifice, the former and the latter. O goddess of white hue, grow. Give foods to Vasiṣṭha who praises you. O Sarasvatī and the other deities, protect us always with blessings.
+
+##### English translation
+Auspicious Saraswati, for you Vasishtha has set open the two doors (the east and west) of sacrifice : white complexioned (goddess), be magni- fied ; bestow food on him who glorifies you: and do you (gods) ever cherish us with blessings.
+
+### Printed p. 152
+
+## Sūkta 96 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहदु गायिष इति षडृचं सप्तमं सूक्तं वसिष्ठस्यार्षं । आद्या बृहती
+> द्वितीया सतोबृहती तृतीया प्रस्तारपंक्तिः शिष्टास्तिस्रो गायत्र्यः । आद्यस्तृचः
+> सरस्वतीदेवताकोऽंत्यश्च सरस्वद्देवताकः । तथा चानुक्रांतं । बृहदु प्रगाथः
+> प्रस्तारपंक्तिः परास्तिस्सो गायत्र्यः सरस्वत इति ॥ पंचमेऽहनि प्रलुगशस्त्र आद्यः
+> प्रगाथः सरस्वतस्तृचः । सूत्रितं च । बृहदु गायिष इति बार्हतं प्रलुगं प्रगाथानेके । आ. ७-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta बृहदु गायिषे (*bṛhadu gāyiṣe*), of six Ṛks, is the seventh sūkta (of this anuvāka) and has Vasiṣṭha as seer. The first Ṛk is a Bṛhatī, the second a Satobṛhatī, the third a Prastārapaṅkti, the remaining three Gāyatrīs. The first tṛca has Sarasvatī as deity and the last has Sarasvat. So the Anukramaṇī says: बृहदु प्रगाथः प्रस्तारपंक्तिः परास्तिस्सो गायत्र्यः सरस्वत इति ॥ (*bṛhadu pragāthaḥ prastārapaṃktiḥ parāstisso gāyatryaḥ sarasvata iti ‖*). On the fifth day, in the Pralug-śastra, the first Pragātha is the Sārasvata tṛca; the sūtra says बृहदु गायिष इति बार्हतं प्रलुगं प्रगाथानेके (*bṛhadu gāyiṣa iti bārhataṃ pralugaṃ pragāthāneke*) (Ā. 7-12).
+
+##### Anuvāda
+
+This sūkta बृहदु गायिषे (*bṛhadu gāyiṣe*) is the seventh sūkta in the sixth anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta. Its first Ṛk is in the Bṛhatī metre, the second in the Satobṛhatī, the third in the metre called Prastārapaṅkti; the remaining three Ṛks are in the Gāyatrī metre. The first three Ṛks have Sarasvatī as deity. In the Anukramaṇī it is said: बृहदु प्रगाथः प्रस्तारपंक्तिः परास्तिस्रो गायत्रैः सरस्वते (*bṛhadu pragāthaḥ prastārapaṃktiḥ parāstisro gāyatraiḥ sarasvate*). On the fifth day of the sacrifice, among the mantras of the Praüga-śastra, the first three Ṛks are to be recited as the Sārasvata tṛca; this is explained by the Āśvalāyana Śrauta Sūtra in the sūtra बृहदु गायिष इति बार्हतं प्रउगं प्रगाथानेके (*bṛhadu gāyiṣa iti bārhataṃ praugaṃ pragāthāneke*) (Ā. 7-12).
+
+##### Particulars
+
+Maṇḍala 7; Anuvāka 6; Sūkta 96; Aṣṭaka 5; Adhyāya 6; Varga 20. Number of Ṛks in the sūkta: 6. Ṛṣi: Vasiṣṭha. Devatā: 1-3 Sarasvatī; 4-6 Sarasvat. Chandas: 1 Bṛhatī; 2 Satobṛhatī; 3 Prastārapaṅkti; 4-6 Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हदु॑ गायिषे॒ वचो॑ऽसु॒र्या॑ न॒दीनां॑ ।  
+> सर॑स्वती॒मिन्म॑हया सुवृ॒क्तिभिः॒ स्तोमै॑र्वसिषं॒ रोद॑सी ॥ १ ॥
+
+### Printed p. 153
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत् । ऊं इति । गायिषे । वचः । असुर्या । नदीनां ।  
+> सरस्वतीं । इत् । महय । सुवृक्तिभिः । स्तोमैः । वसिष्ठ । रोदसी इति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयर्षिरात्मानं संबोध्य सरस्वत्याः स्तुतौ प्रेरयति। हे वसिष्ठ त्वं बृहदु
+> बृहदेव महदेव वचः स्तोत्रं गायिषे । गायसि । किमर्थं । नदीनां मध्येऽसुर्या ॥ असुराशब्दाच्च तुर्थ्येकवचनस्य ड्यादेशः ॥ असुरायै बलवत्यै नदीरूपायै सरस्वत्यै । अस्याः प्रीणनार्थमित्यर्थः । तथा रोदसी द्यावापृथिव्योः
+> स्थितां दिवि देवतारूपेण भूम्यां वाग्रूपेण निवसंतीं सरस्वतीमित् स्वरस्वतीमेव
+> सुवृक्तिभिः सुष्टु दोषवर्जितैः स्तोमैः स्तोत्रैर्महय । पूजय । सर्वदा सरस्वतीमेव स्तुहि नान्यां देवतामिति भावः ॥
+
+##### Gist of the bhāṣya
+
+The seer, addressing himself, urges himself to praise Sarasvatī. O Vasiṣṭha, you sing a great (बृहदु (*bṛhadu*)) hymn, speech (वचः (*vacaḥ*)). For what? In the midst of the rivers, for the strong (असुर्या (*asuryā*)) Sarasvatī in the form of a river, that is, to please her. And Sarasvatī, who stands in heaven and earth (रोदसी (*rodasī*)), dwelling in heaven as a deity and on earth in the form of speech: Sarasvatī alone (सरस्वतीमित् (*sarasvatīmit*); the bhāṣya prints स्वरस्वतीमेव (*svarasvatīmeva*) **NOTE** ) worship (महय (*mahaya*)) with well-made, faultless praises (सुवृक्तिभिः स्तोमैः (*suvṛktibhiḥ stomaiḥ*)). The meaning is: always praise Sarasvatī alone, not any other deity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसिष्ठ (*vasiṣṭha*)—O Vasiṣṭha
+- नदीनां (*nadīnāṃ*)—in the midst of all the rivers
+- असुर्या (*asuryā*)—for the satisfaction of Sarasvatī, who is exceedingly powerful
+- बृहदु (*bṛhadu*)—possessed of great power
+- वचः (*vacaḥ*)—hymn
+- गायिषे (*gāyiṣe*)—you recite
+- रोदसी (*rodasī*)—pervading both heaven and earth
+- सरस्वतीं इत् (*sarasvatīṃ it*)—the goddess Sarasvatī alone
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—excellently composed
+- स्तोमैः (*stomaiḥ*)—with praises
+- महय (*mahaya*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Vasiṣṭha, recite a hymn of great power for the satisfaction of Sarasvatī, who is exceedingly powerful among all the rivers. Worship with excellently composed praises the goddess Sarasvatī alone, who pervades both heaven and earth.
+
+##### English translation
+You chant, Vasishtha, a powerful hymn to her who is the most mighty of rivers : worship, Vasishtha, with well-selected praises, Saraswathi who is both in heaven and earth.
+
 ---
 
-**Progress note:** Done through printed p. 146. pp. 140-146 (batch API)
+**Progress note:** Done through printed p. 153. pp. 147-153 (batch API)
