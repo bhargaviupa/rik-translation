@@ -19712,6 +19712,301 @@ His might is manifest, for Indra folds and unfolds both heaven and earth, as (on
 > वि । चित् । वृत्रस्य । दोधतः । वज्रेण । शतपर्वणा ।  
 > शिरः । बिभेद । वृष्टिना ॥ ६ ॥
 
+### Printed p. 487
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चिच्छब्दोऽप्यर्थे । स च भिन्नक्रमः । वृत्रस्य चिदावरकस्यापि दोधतोऽत्यर्थं
+> जगत्कंपयतोऽसुरस्य शिरो मूर्धानं शतपर्वणा शतसंख्यापर्वाणि धारा यस्य
+> ताृशेन वृष्टिना वीर्यवता वज्रेणेंद्रो वि बिभेद । विचिच्छेद ॥
+
+##### Gist of the bhāṣya
+
+The word चित् (*cit*) has the sense of "even" (*api*) and is to be construed out of order. Indra split the head of Vṛtra with his thunderbolt. Vṛtra is the enveloper, and the demon who violently shakes the world. The bolt has a hundred edges (its streams or points number a hundred) and is powerful (वीर्यवता (*vīryavatā*), "full of vigour"). Sāyaṇa's वि बिभेद (*vi bibheda*) is glossed विचिच्छेद (*viciccheda*), "cut apart".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रस्य चित् (*vṛtrasya cit*)—even though he had enveloped the whole world
+- दोधतः (*dodhataḥ*)—of the demon who was making everything tremble
+- शिरः (*śiraḥ*)—the head
+- शतपर्वणा (*śataparvaṇā*)—having a hundred joints (edges)
+- वृष्णिना (*vṛṣṇinā*)—powerful
+- वज्रेण (*vajreṇa*)—with the thunderbolt weapon
+- वि बिभेद (*vi bibheda*)—split apart
+
+##### भावार्थ (Bhāvārtha)
+
+Even though he had enveloped the whole world, the demon was making everything tremble; his head Indra split apart with the hundred-edged, powerful thunderbolt.
+
+##### English translation
+He has cloven with the powerful hundred-edged thunderbolt the head of the turbulent Vritra.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा अ॒भि प्र णो॑नुमो वि॒पामग्रे॑षु धी॒तयः॑ ।  
+> अ॒ग्नेः शो॒चिर्न दि॒द्युतः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । अभि । प्र । नोनुमः । विपां । अग्रेषु । धीतयः ।  
+> अग्नेः । शोचिः । न । दिद्युतः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिप्लविकेषूक्ष्येषु तृतीयसवने प्रशास्तुः शस्त्र इमा अभीति तृचो वैकल्पिकोऽनुरूपः । सूत्रितं च । इमा अभि प्र णोनुम इत्यथ ब्राह्मणाच्छंसिनः ।
+> आ. ७-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava-type Ukthya sacrifices, at the third pressing, the three Ṛks beginning इमा अभि (*imā abhi*) form the optional anurūpa triplet in the Praśāstṛ's Śastra. It is laid down in the sūtra: इमा अभि प्र णोनुम इत्यथ ब्राह्मणाच्छंसिनः (*imā abhi pra ṇonuma ityatha brāhmaṇācchaṃsinaḥ*) (Ā. 7-8).
+
+### Printed p. 488
+
+> विपां स्तोत्कणामग्रेषु पुरस्तादिमा आस्मदीया धीतयो धियः स्तोत्राण्यभि प्र णोनुमः । अभिमुख्येन पुनः पुनः प्रवदामः ॥ णु शब्दे ॥ कीदृशीः
+> स्तुतीः । अग्नेः शोचिर्न दीप्तिरिव दिद्युतो दीप्यमाना वेदिरूपाः ॥
+
+##### Gist of the bhāṣya
+
+In front of the praisers we repeatedly utter these praises of ours, facing Indra (the root णु (*ṇu*) is in the sense of sound). They are like the flame of Agni, shining, of the nature of the altar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विपां (*vipāṃ*)—of the worshippers
+- अग्रेषु (*agreṣu*)—in the front parts
+- अग्नेः (*agneḥ*)—of Agni
+- शोचिर्न (*śocirna*)—like the radiance
+- दिद्युतः (*didyutaḥ*)—shining
+- इमाः (*imāḥ*)—these, directed to Indra
+- धीतयः (*dhītayaḥ*)—praises
+- अभि प्र णोनुमः (*abhi pra ṇonumaḥ*)—we recite again and again
+
+##### भावार्थ (Bhāvārtha)
+
+In front of the worshippers we repeatedly recite these praises, directed to Indra and shining like the radiance of Agni.
+
+##### English translation
+In front of the worshippers we repeatedly utter our praises, radiant as the flame of fire.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ukthya sacrifices connected with the Abhiplava, at the third pressing, the priest called Praśāstṛ, when reciting the Śastra mantras, is to recite the three Ṛks beginning इमा अभि (*imā abhi*) (Ṛks 7–9) as the optional anurūpa triplet. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra इमा अभि प्र णोनुम इत्यथ ब्राह्मणाच्छंसिनः (*imā abhi pra ṇonuma ityatha brāhmaṇācchaṃsinaḥ*) (Ā. 7-8).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गुहा॑ स॒तीरुप॒ त्मना॒ प्र यच्छोचं॑त धी॒तयः॑ ।  
+> कण्वा॑ ऋ॒तस्य॒ धार॑या ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गुहा । सतीः । उप । त्मना । प्र । यत् । शोचंत । धीतयः !  
+> कण्वाः । यतस्य । धारया ॥ ८ ॥
+
+### Printed p. 489
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गुहा गुहायां सतीः सत्यो भवंत्यो यद्या धीतयः स्तुतयः कर्माणि
+> ना त्मनात्मना स्वेनेंद्रेणोपगम्यमानाः प्रशोचंत प्रादीप्यंत । यद्वा । आत्मना
+> स्वत एनेंद्रमुपगच्छंत्यः प्रदीप्यंते । ताः स्तुतीः कण्वाः कण्वगोत्रा ऋषय
+> ऋतस्योदकस्य सोमात्मकस्य धारया सहिताः कुर्वंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The praises or acts, hidden in secret and real, which shone forth as they approached Indra of their own accord: the Kaṇva-born seers make those praises accompanied by the stream of water, whose nature is Soma ("make" is the understood verb). Alternatively: of themselves, approaching Indra, they shine forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गुहा (*guhā*)—secretly
+- सतीः (*satīḥ*)—offered
+- यत् (*yat*)—which
+- धीतयः (*dhītayaḥ*)—praises
+- त्मना उप (*tmanā upa*)—approaching Indra of their own accord
+- प्र शोचंत (*pra śocaṃta*)—shone forth (such praises)
+- कण्वाः (*kaṇvāḥ*)—the seers born in the Kaṇva line
+- ऋतस्य (*ṛtasya*)—of the water, whose form is Soma
+- धारया (*dhārayā*)—with the stream, mixed
+
+##### भावार्थ (Bhāvārtha)
+
+The praises, offered in secret, which shone forth greatly as they approached Indra of their own accord, those praises the seers born in the Kaṇva line mixed with the stream of water that is Soma. (They offered them to Indra.)
+
+##### English translation
+The praises that are offered in secret shine brightly when approaching (Indra) of their own will : the Kanwas (combine them) with the stream of the Soma.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तमिं॑द्र नशीमहि र॒यिं गोमं॑तम॒श्विनं॑ ।  
+> प्र ब्रह्म॑ पू॒र्वचि॑त्तये ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तं । इंद्र । नशीमहि । रयिं । गोऽमंतं । अश्विनं ।  
+> प्र । ब्रह्म । पूर्वचित्तये ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र गोमंतं गोभिर्युक्तमश्विनमश्वैरुपेतं तं प्रसिद्धं रयिं
+
+##### Gist of the bhāṣya
+
+O Indra, may we obtain that well-known wealth of yours, furnished with cattle and horses.
+
+### Printed p. 490
+
+> त्वदीयं धनं प्र नशीमहि । प्राप्नुयाम । तथा ब्रह्म परिवृढमन्नं च पूर्वचित्तयेऽन्येभ्यः पूर्वमेव ज्ञानाय प्राप्नवाम ॥
+
+##### Gist of the bhāṣya
+
+Likewise may we obtain ब्रह्म (*brahma*), abundant food, for knowledge before others, that is, ahead of them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- गोमंतं (*gomaṃtaṃ*)—accompanied by cattle
+- अश्विनं (*aśvinaṃ*)—furnished with horses
+- तं (*taṃ*)—that well-known
+- रयिं (*rayiṃ*)—wealth
+- पूर्वचित्तये (*pūrvacittaye*)—before it comes to the knowledge of others
+- प्र नशीमहि (*pra naśīmahi*)—cause us to obtain
+- ब्रह्म (*brahma*)—food also
+- प्र (*pra*)—may we attain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, cause us to obtain that well-known wealth, with cattle and horses, before it comes to the knowledge of others. May we also attain abundant food.
+
+##### English translation
+May we obtain, Indra, that wealth which compraises cattle, horses, and food, before it be known to others.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमिद्दि पि॒तुष्परि॑ मे॒धामृ॒तस्य॑ ज॒ग्रभ॑ ।  
+> आ॒हं सूर्य॑ इवाजनि ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । इत् । हि । पितुः । परि । मेधां । ऋतस्य । जग्रभ ।  
+> अहं । सूर्यःइव । अजनि ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पितुः पालकस्यर्तस्य सत्यस्यावितथस्येंद्रस्य मेधामनुग्रहात्मिकां बुद्धिमहमिदहमेव परि जग्रभ । परिगृहीतवानस्मि नान्ये । हि यस्मादेवं तस्मादहं सूर्य
+> इवाजनि सूर्यो यथा प्रकाशमानः सन् प्रादुर्भवति तथाजनिषं । प्रादुरभूवं !!
+
+##### Gist of the bhāṣya
+
+I alone have taken up the graciousness-natured intelligence (मेधा (*medhā*)) of Indra, the protector (पितुः (*pituḥ*)), true and unfailing; no one else has. Since this is so, I have been born, that is, have appeared, shining like the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हितुः (*hituḥ*)—of the protector
+- ऋतस्य (*ṛtasya*)—of Indra, who is of the nature of truth
+- मेधां (*medhāṃ*)—the intelligence of gracious nature
+- बुद्दियन्नु (*buddiyannu*)—intelligence
+
+### Printed p. 491
+- अहमित् (*ahamit*)—I alone
+- परि जग्रभ (*pari jagrabha*)—have obtained
+- हि (*hi*)—therefore
+- अहं (*ahaṃ*)—I
+- सूर इव (*sūra iva*)—shining like the sun
+- अजनि (*ajani*)—have become
+
+##### भावार्थ (Bhāvārtha)
+
+The gracious intelligence (his favour) of Indra, protector of the world and true in nature, I alone have obtained. Therefore I have become shining like the sun.
+
+##### English translation
+I have verily acquired the favour of the true protector (Indra): I have become (bright) as the sun,
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं प्र॒श्नेन॒ मन्म॑ना॒ गिरः॑ शुंभामि कण्व॒वत् ।  
+> येनेंद्रः॒ शुष्म॒मिद्द॒धे ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । प्रश्नेन । मन्मना । गिरः । शुंभामि । कण्ववत् ।  
+> येन । इंद्रः । शुष्मं । इत् । दधे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कण्ववन्मम जनकः कण्व इवाहं प्रश्नेन नित्येन वेदरूपेण मन्मना मननसाधनेनेंद्रविषयेण स्तोत्रेण गिरो वाचः शुंभामि । अलंकरोमि । यदा
+> हींद्रविषये प्रयुज्यंते तदानीं यथार्थत्वाद्वाचोऽलंकृता भवंति । येन
+> खलु स्तोत्रेणेंद्रः शुष्मं शत्रूणां शोषकं बलं दध इत् धत्त एव धारयत्येव ।
+> यत्सोत्रमिंद्र ईदृशं बलमवश्यं जनयति तेन मन्मनेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Like Kaṇva, my father, I adorn my words with the eternal, Veda-natured praise (प्रश्नेन (*praśnena*)), the means of reflection, directed to Indra. When words are applied to Indra they become adorned, being true to their object. By which praise Indra assuredly holds शुष्मं (*śuṣmaṃ*), strength that dries up enemies; a praise that surely produces such strength in Indra is मन्मना (*manmanā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by which praise (influence)
+- इंद्रः (*iṃdraḥ*)—Indra
+- शुष्मं (*śuṣmaṃ*)—the strength that destroys enemies
+- दधे इत् (*dadhe it*)—holds; by such
+- प्रश्नेन (*praśnena*)—ancient and Veda-natured
+- मन्मना (*manmanā*)—and meditative praise
+- गिरः (*giraḥ*)—my words
+- कण्ववत् (*kaṇvavat*)—as Kaṇva, our father,
+
+### Printed p. 492
+ formerly refined his speech
+- अहं (*ahaṃ*)—I
+- शुंभामि (*śuṃbhāmi*)—I make refined
+
+##### भावार्थ (Bhāvārtha)
+
+As Kaṇva, our father, formerly refined his speech, so I make my words refined by that ancient, Veda-natured, meditative praise, by whose influence Indra holds his enemy-destroying strength.
+
+##### English translation
+I grace my words with ancient praise, like Kanwa; whereby Indra assuredly enjoys vigour.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये त्वामिं॑द्र॒ न तु॑ष्टु॒वुर्ऋष॑यो॒ ये च॑ तुष्टु॒वुः।  
+> ममेद्व॑र्धस्व॒ सुष्टु॑तः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । त्वां । इंद्र । न । तुस्तुवुः । ऋषयः । ये । च । तुस्तुवुः ।  
+> मम । इत् । वर्धस्व । सुस्तुतः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ये जनास्त्वां न तुष्टुवुः न स्तुवंति ये चर्षयो मंत्राणां
+> द्रष्टारो जनास्तुष्टुवुः त्वां स्तुवंति उभयेषां मध्ये पुमेन्ममैव स्तोत्रेण
+> सुष्टुतः शोभनं स्तुतः सन् वर्धस्व । वृद्धो भव ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those people who do not praise you, and those seers, the beholders of the mantras, who do praise you: among both, being well praised by my praise alone, grow, become great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ये (*ye*)—those people
+- त्वां (*tvāṃ*)—you
+- न तुष्टुवुः (*na tuṣṭuvuḥ*)—who do not praise
+- ये च ऋषयः (*ye ca ṛṣayaḥ*)—and those seers
+- तुष्टुवुः (*tuṣṭuvuḥ*)—who praise you; among all of them
+- ममेत् (*mamet*)—by my praise alone
+- सुष्टुतः (*suṣṭutaḥ*)—greatly praised
+- वर्धस्व (*vardhasva*)—grow great
+
 ---
 
-**Progress note:** Done through printed p. 486. pp. 481-486 (batch API)
+**Progress note:** Done through printed p. 492. pp. 487-492 (batch API)
