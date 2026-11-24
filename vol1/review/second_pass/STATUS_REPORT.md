@@ -6,12 +6,12 @@
 - **Pages read:** 10 of 720 (360–369)
 - **Findings:** 73 — applied 52, questions 21; edits ok 31, failed 0
 - **Reader tokens (batches so far):** 169k; per page 16.9k
-- **Last commit:** @C@
+- **Last commit:** f594e7e
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
 |---|---|---|---|---|---|---|---|---|
-| pilot | 360–369 | 73 | 52 | 31 / 0 | 21 | 169k | @C@ | pilot; 52 edits first applied, then 21 Devanagari edits (and 6 IAST partners) reverted by the new sp_sanskrit gate, 6 re-applied after the word-join refinement: net 31 English edits stand; 15 citation lines are questions; English not page-aligned to the Kannada on these pages (judged by content) |
+| pilot | 360–369 | 73 | 52 | 31 / 0 | 21 | 169k | f594e7e | pilot; 52 edits first applied, then 21 Devanagari edits (and 6 IAST partners) reverted by the new sp_sanskrit gate, 6 re-applied after the word-join refinement: net 31 English edits stand; 15 citation lines are questions; English not page-aligned to the Kannada on these pages (judged by content) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
