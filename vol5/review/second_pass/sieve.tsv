@@ -215,7 +215,7 @@ page	in_kannada	ref_en_only	num_en_only	quote_not_found	q_marks	sic	remarks	glos
 253	yes	1	1	0	0	0	0	0	0	0
 254	yes	1	1	0	0	0	0	0	0	0
 255	yes	2	2	0	0	0	0	0	3	0
-256	yes	0	0	0	0	0	0	0	0	0
+256	yes	0	0	0	0	1	1	0	0	0
 257	yes	1	1	0	0	0	0	0	0	0
 258	yes	0	0	0	0	0	0	0	7	0
 259	yes	2	2	0	1	1	1	0	0	0
