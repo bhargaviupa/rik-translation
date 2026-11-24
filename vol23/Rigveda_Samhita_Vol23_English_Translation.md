@@ -23749,6 +23749,337 @@ What others than ourselves adore the Aswins with praises? The Rishi Vatsa, the s
 
 > आ वां॒ विप्र॑ इ॒हाव॒सेऽह्व॒त्स्मे॑भिरश्विना ।
 
+### Printed p. 575
+
+> अरिप्रा वृत्रहंतमा ता नो भूतं मयोभुवा ॥९५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । विप्रः । इह । अवसे । अह्वत् । स्तोमेभिः । अश्विना ।  
+> अरिप्रा । वृत्रहन्तमा । ता । नः । भूतं । मयःभुवा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् विप्रो मेधावी स्तोतेहास्मिन्यागेवसे रक्षणार्थं स्तोमेभिः स्तोत्रैर्वां युवामाह्वत् । आहूतवान् ॥ ह्वयतेर्लुजु लिपिसिचिह्वश्चेति
+> च्छेरजादेशः ॥ हे अरिप्रा । रिप्रमिति पापनाम । अपापौ हे वृत्रहंतमा वृत्राणां
+> शत्रूणां हंतृतमौ ता तौ तादृशौ युवां नोऽस्माकुं मयोभुवा सुखस्य भाव
+> यितारौ भूतं । भवतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes विप्रो (*vipro*) to be the wise worshipper, who in this sacrifice has invoked the two Aśvins with hymns of praise for the sake of protection. *ripram* is a name for sin, so अरिप्रा (*ariprā*) means "sinless". वृत्रहंतमा (*vṛtrahaṃtamā*) means the best slayers of the वृत्राणां (*vṛtrāṇāṃ*), that is, of enemies. Being such, may they become the producers of happiness (मयोभुवा (*mayobhuvā*)) for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- विप्रः (*vipraḥ*)—the wise praiser
+- इह (*iha*)—in this sacrifice
+- अवसे (*avase*)—for protection
+- स्तोमेभिः (*stomebhiḥ*)—with praises
+- वां (*vāṃ*)—you
+- आ अह्वत् (*ā ahvat*)—has called
+- अरिप्रा (*ariprā*)—sinless ones
+- वृत्रहंतना (*vṛtrahaṃtanā*)—destroyers of enemies, O Aśvin deities
+- ता (*tā*)—you, the renowned
+- नः (*naḥ*)—to us
+- मयोभुवा (*mayobhuvā*)—bringers of happiness
+- भूतं (*bhūtaṃ*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, the wise praiser has called you in this sacrifice with praises for protection. O sinless ones, destroyers of enemies, O Aśvins, you the renowned, be bringers of happiness to us.
+
+##### English translation
+The wise adorer invokes you hither with praises, Aswins, for protection: sinless, utter destroyers of enemies, be to us the sources of felicity.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यद्वां॒ योष॑णा॒ रथ॒मति॑ष्ठद्वाजिनीवसू ।
+
+### Printed p. 576
+
+> विश्वान्यश्विना युवं प्र धीतान्यगच्छतं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । वां । योषणा । रथं । अतिष्ठत् । वाजिनीवसू इति वाजिनीऽवसू ।  
+> विश्वानि । अश्विना । युवं । प्र । धीतासि । अगच्छतं ॥ १८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू । वाजिनी हविष्मती यागक्रिया । तस्यां विद्यमानस्वांशलक्षणधनावश्विनौ योषणा योषित्सूर्याजिधावनेन प्रियमाणा सती वां
+> युवयो रथं यद्यदातिष्ठत् अस्थितवती आरूढवती तदा हे अश्विनाश्विनौ युवं
+> युवां धीतानि ध्यातान्यभिलषितानि विश्वानि सर्वाणि प्रकर्षेणागच्छतं । प्रापतं ॥
+
+##### Gist of the bhāṣya
+
+वाजिनी (*vājinī*) is the sacrificial act that has oblations. The Aśvins have as their wealth what lies in it, namely their own share. When योषणा (*yoṣaṇā*), the woman Sūryā, being won by the race, mounted (अतिष्ठत् (*atiṣṭhat*)) your chariot, then, O Aśvins, you attained fully all things thought of, that is, desired.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—O Aśvins, possessing the wealth that arises in the sacrificial act
+- योषणा (*yoṣaṇā*)—the goddess Sūryā
+- वां (*vāṃ*)—your
+- रथं (*rathaṃ*)—chariot
+- यत् (*yat*)—when
+- आ अतिष्ठत् (*ā atiṣṭhat*)—she mounted and sat (then)
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you
+- धीतानि (*dhītāni*)—desired by you
+- विश्वानि (*viśvāni*)—all desires
+- प्र अगच्छतं (*pra agacchataṃ*)—you obtained fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, possessing all the wealth that arises in the sacrificial act, when the goddess Sūryā mounted your chariot, you fully obtained all the desires you wished for.
+
+##### English translation
+Affluent in sacrifices, when the maiden (Surya) mounted your chariot, then, Aswins, you obtained all your desires.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अतः॑ स॒हस्र॑निर्णिजा॒ रथे॒ना या॑तमश्विना ।  
+> व॒त्सो नां॒ मधु॑म॒द्वचोऽशं॑सीत्का॒व्यः क॒विः ॥ ११ ॥
+
+### Printed p. 577
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतः । सहस्रनिर्निजा । रथेन । आ । यातं । अश्विना ।  
+> वत्सः । वां । मधुमत् । वचः । अशंसीत् । काव्यः । कविः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विनौ येषु लोकेषु यत्र वर्तेथे अतोऽस्मात्स्थानात्सहस्रनिर्णिजा । निर्णिगिति रूपनाम । स्वर्णमयतया बहुविधरूपयुक्तन रथेना
+> यातं । आगच्छतं । काव्यः कवेः पुत्रः कविर्मेधावी वत्स ऋषिर्वां युवाभ्यां
+> युवयोरर्थं मधुमन्माधुर्योपेतं वचो वचनमुक्थमशंसीत् । शंसितवान् । यत एवमत आगच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, from whatever worlds you are in, from that place come with a chariot that is सहस्रनिर्णिजा (*sahasranirṇijā*). *nirṇik* is a name for form; the chariot, being golden, has many kinds of form. The sage Vatsa, son of the poet (काव्यः कवेः पुत्रः (*kāvyaḥ kaveḥ putraḥ*)) and himself wise (कविः (*kaviḥ*)), has recited for you a sweet utterance, a hymn (*ukthaṃ*). Since this is so, come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities (in whatever worlds you may be)
+- अतः (*ataḥ*)—from there itself
+- सहस्रनिर्णिजा (*sahasranirṇijā*)—with a golden chariot of many forms
+- रथेन (*rathena*)—with the chariot
+- आ यातु (*ā yātu*)—be pleased to come
+- काव्यः (*kāvyaḥ*)—son of a poet
+- कविः (*kaviḥ*)—wise
+- वत्सः (*vatsaḥ*)—the sage named Vatsa
+- वां (*vāṃ*)—addressing you
+- मधुमत् (*madhumat*)—sweet
+- वचः (*vacaḥ*)—hymn-words
+- अशंसीत् (*aśaṃsīt*)—has recited
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, in whatever worlds you may be, from there itself be pleased to come with your golden chariot of many forms. The sage named Vatsa, son of a poet and himself wise, has recited, addressing you, words of praise full of sweetness.
+
+##### English translation
+From wheresoever (you may be) come, Aswins, with your thousandfold diversified chariot: the sage Vatsa, the son of Kavi, has addressed you with sweet words.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒मं॒द्रा पु॑रू॒वसू॑ मनो॒तरा॑ रयी॒णां ।
+
+### Printed p. 578
+
+> स्तोमं मे अश्विनाविममभि वह्नी अनूषातां ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुमंद्रा । पुरूवसू इति पुरुवसू । मनोतरा । रयीणां ।  
+> स्तोमं । मे । अश्विनौ । इमं । अभि । वह्नी इति । अनूषातां ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुमंद्रा बहुमदौ बहुभिः सोमैर्मादयितव्यौ वा पुरूवसू बहुधना
+> बहूनां निवासकौ ना रयीणां धनानां मनोतरा मंतारौ दातारौ ॥ मन्यतेस्तृचि पृषोदरादित्वाद्रूपसिद्धिः । नामन्यतरस्यामिति रैशब्दानाम उदात्तत्वं ॥
+> वह्नी कृत्सस्य जगतो वोढारौ ईदृशावश्विन् मे ममेमं स्तोत्रमभ्यनूषातां । सम्यक्स्तुतमिति प्राशंसिषातां ॥ णु स्तुता ॥ यद्वा । नुवतिरत्र
+> श्रवणार्थे वर्तते । अभिप्राप्तावशौष्टां ॥
+
+##### Gist of the bhāṣya
+
+पुरुमंद्रा (*purumaṃdrā*): those who delight many, or who are to be gladdened by many Somas. पुरूवसू (*purūvasū*): of much wealth, or dwelling-places of many. मनोतरा (*manotarā*): thinkers (मंतारौ (*maṃtārau*)), that is, givers, of riches (रयीणां (*rayīṇāṃ*), wealth); the form is established by the Pṛṣodarādi class, deriving from the root मन्यते (*manyate*) with the affix *tṛc*. वह्नी (*vahnī*): bearers of the whole world. Such Aśvins have *abhyanūṣātāṃ* this hymn of mine, that is, praised it well. Alternatively, the root नुवति (*nuvati*) is used here in the sense of hearing: they have approached and listened.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुमंद्रा (*purumaṃdrā*)—those who give joy to many
+- पुरुवसू (*puruvasū*)—those who have abundant wealth
+- रयाणां (*rayāṇāṃ*)—of riches
+- मनोतरा (*manotarā*)—givers
+- वह्नी (*vahnī*)—bearers of the world
+- अश्विन्सौ (*aśvinsau*)—O Aśvin deities
+- मे (*me*)—my
+- इमं स्तोमं (*imaṃ stomaṃ*)—this hymn
+- आभ्यनूषातां (*ābhyanūṣātāṃ*)—having attended to it, praise it
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who give joy to many, who have abundant wealth, who are givers of riches and bearers of the world, attend to this hymn of mine and praise it.
+
+##### English translation
+Delighters of many, abounding in wealth, bestowers of riches, Aswins, sustainers of all, approve of this my adoration.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नो॒ विश्वा॑न्यश्विना ध॒त्तं राधां॒स्यह्र॑या ।
+
+### Printed p. 579
+
+> कृतं न ऋत्वियावतो मा नो रीरधतं निदे ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । विश्वानि । अश्विना । धत्तं । राधांसि । अह्रया ।  
+> कृतं । न । ऋत्विय्यवतः । मा । नः । रीरधतु । निदे ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् अह्रयाह्रयाण्यह्रीतिकरणान्यलज्जाहेतूनि प्रशस्तानि विश्वानि
+> सर्वाणि राधांसि धनानि नोऽस्मभ्यमा धत्तं । प्रयच्छतं । अपि च नोऽस्मानृत्वियावतः । ऋत् काले भवं प्रजोत्पादनरूपं कर्म ऋत्वियं । तद्वतः कुरुतं ।
+> तथा निदे निंदायै निंदकाय वा नोऽस्मान्मा रीरधतं । मा वशं नैष्टं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, grant (आ धत्तं (*ā dhattaṃ*)) us all राधांसि (*rādhāṃsi*), riches that are अह्रया (*ahrayā*), that is, praiseworthy and not causes of shame. Further, make us ऋत्वियावतः (*ṛtviyāvataḥ*): an action that occurs at the proper season (ऋत् (*ṛt*)), namely the act of begetting offspring, is ऋत्वियं (*ṛtviyaṃ*); make us possessors of it. And do not subject us (मा रीरधतं (*mā rīradhataṃ*)) to blame or to the reviler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अह्रया (*ahrayā*)—so that there is no room for a life of shame
+- विश्वानि (*viśvāni*)—all
+- राधांसि (*rādhāṃsi*)—riches
+- नः (*naḥ*)—to us
+- आ धत्तं (*ā dhattaṃ*)—give
+- नः (*naḥ*)—us
+- ऋत्वियावतः (*ṛtviyāvataḥ*)—capable of begetting offspring at the proper time
+- कृतं (*kṛtaṃ*)—make
+- नः (*naḥ*)—us
+- निदे (*nide*)—to one who reviles us
+- मा रीरधतं (*mā rīradhataṃ*)—do not make us subject
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, give us all riches, so that there is no room for a life of shame. Make us capable of begetting offspring at the proper time. Do not let us become subject to one who reviles us.
+
+##### English translation
+Grant us, Aswins, all riches that may not bring us shame, make us the begetters of progeny in due season, subject us not to reproach.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्ना॑सत्या परा॒वति॒ यद्वा॒ स्थो अध्यंब॑रे ।  
+> अतः॑ स॒हस्र॑निर्णिजा॒ रथे॒ना या॑तमश्विना ॥ १४ ॥
+
+### Printed p. 580
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । नावत्या । परावति । यत् । वा । स्थः । अधि । अंबरे ।  
+> अतः । सहस्रनिर्निजा ! रथेन । आ । यातं । अश्विना ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या सत्यस्वभावौ सत्यस्य नेतारौ नासिकाप्रभवौ वाश्विन् यद्यदि परावति दूरदेशे स्थः । यद्वा यदि चांबरे । अंतिकनामैतत् । समीपे स्थः भवथः ॥
+> अधिः सप्तम्यर्थानुवादी ॥ अतोऽस्मात्सर्वस्तात्स्थानात्सहस्रनिर्णिजा बहुविधरूपेण
+> रथेन हे अश्विनौ आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O नासत्या (*nāsatyā*), of true nature, or leaders of truth, or born from the nose: if you are far off (परावति (*parāvati*)), in a distant place, or if you are in अंबरे (*aṃbare*) (this is a name for "near"), that is, close by, then from that place, O Aśvins, come with a chariot of many kinds of form (सहस्रनिर्णिजा (*sahasranirṇijā*)). अधि (*adhi*) merely repeats the sense of the locative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—O Aśvin deities, of true nature
+- यत् (*yat*)—if perchance
+- परावति (*parāvati*)—in a very distant place
+- स्थः (*sthaḥ*)—you are
+- यद्वा (*yadvā*)—or
+- अंबरे अधि (*aṃbare adhi*)—in the atmosphere
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अतः (*ataḥ*)—from all such regions
+- सहस्रनिर्णिजा (*sahasranirṇijā*)—of manifold form
+- रथेन (*rathena*)—with the chariot
+- आ यातं (*ā yātaṃ*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, of true nature, whether you are in a very distant place or in the atmosphere, from all such regions be pleased to come with your chariot of manifold form.
+
+##### English translation
+Whether, Nasatyas, you be far off, or whether you be nigh, come from thence with your thousandfold diversified chariot.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वां॑ नासत्या॒वृषि॑गि॒र्भिर्व॒त्सो अवी॑वृधत् ।  
+> तस्यॆ॑ स॒हस्र॑निर्णिज॒मिषं॑ धत्तं घृत॒श्चुतं॑ ॥ १५ ॥
+
+### Printed p. 581
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नां । नासत्यौ । ऋषिः । गीःऽभिः । वत्सः । अवीवृधत् ।  
+> तस्यै । सहस्रनिर्निजं । इषु । धत्तं । धृतश्चतु ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्यौ यो वत्साख्य ऋषिर्वां युवां गीर्भिः स्तुतिभिरवीवृधत् अवर्धयत् तस्मा ऋषये सहस्रनिर्णिजं बहुविधरूपं धृतश्चुतं धृतं क्षरंतीमिषमन्नं
+> धत्तं । प्रयच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, to that Ṛṣi named Vatsa who has magnified you with hymns (गीर्भिः (*gīrbhiḥ*)), give (धत्तं (*dhattaṃ*)) food (इषं (*iṣaṃ*)) of many kinds of form, घृतश्चुतं (*ghṛtaścutaṃ*), that is, dripping ghee.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्यौ (*nāsatyau*)—O Aśvin deities, of true nature
+- वत्सः (*vatsaḥ*)—named Vatsa
+- यः ऋषिः (*yaḥ ṛṣiḥ*)—which Ṛṣi
+- नां (*nāṃ*)—you
+- गीर्भिः (*gīrbhiḥ*)—with hymns
+- अवीवृधत् (*avīvṛdhat*)—caused to prosper
+- तस्मै (*tasmai*)—to that Ṛṣi
+- सहस्रनिर्णिजं (*sahasranirṇijaṃ*)—having thousands of forms
+- घृतश्चुतं (*ghṛtaścutaṃ*)—dripping like ghee
+- इषं (*iṣaṃ*)—food
+- धत्तं (*dhattaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, of true nature, to that Ṛṣi named Vatsa who has caused you to prosper with hymns, give food that has thousands of forms and drips like ghee.
+
+##### English translation
+Give, Nasatyas, food of many kinds dripping with butter to him, the Rishi Vatsa, who has magnified you both with hymns
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रास्मा॒ ऊर्जं॑ घृत॒श्चुत॒मश्वि॑ना॒ यच्छ॑तं यु॒वं ।  
+> यो वां॑ सु॒म्नाय॑ तु॒ष्टव॑द्वसू॒याद्दा॑नुनस्पती ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अस्मै । ऊर्जं । धृतश्चतुं । अश्विना । यच्छतं । युवं ।
+
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 574. pp. 569-574 (batch API)
+**Progress note:** Done through printed p. 581. pp. 575-581 (batch API)
