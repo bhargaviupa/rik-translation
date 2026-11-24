@@ -740,3 +740,54 @@
 | page | old → new | why |
 |---|---|---|
 | 5 | `ceremoney [sic]` → `ceremony` | SECOND-PASS H29: the supplied text (Kannada book, p. 5, printed English) reads ceremony; the supplied text is the base, so the [sic] mark of the earlier reading is dropped |
+
+### 2026-11-24 second pass, batch e490-519.tsv
+| page | old → new | why |
+|---|---|---|
+| 490 | `Agni is the chief vessel in a sacrifice` → `Agni has the chief role in a sacrifice` | SECOND-PASS S14: Kannada ಯಜ್ಞದಲ್ಲಿ ಅಗ್ನಿಗೇ ಮುಖ್ಯಪಾತ್ರವಿರುವುದರಿಂದ (pātra = role, as the same book renders it on p. 500) |
+| 491 | `, Pā. [6-4-8]; loss of *su*` → `; loss of *su*` | SECOND-PASS S2: Kannada prints no sūtra number after ಸರ್ವನಾಮಸ್ಥಾನೇಚಾಸಂಬುದ್ಧೌ |
+| 497 | `Pā. [6-1-213]` → `Pā. [6-1-123]` | SECOND-PASS S1: Kannada ಯತೋಽನಾವಃ (ಪಾ. ಸೂ. ೬-೧-೧೨೩) |
+| 498 | `, Pā. [7-4-35]; after` → `; after` | SECOND-PASS S2: Kannada ನಛಂದಸ್ಯಪುತ್ರಸ್ಯ ಎಂಬುದರಿಂದ prints no number |
+| 501 | `, Pā. [7-1-54]; the lengthening` → `; the lengthening` | SECOND-PASS S2: Kannada ಹ್ರಸ್ವನದ್ಯಾಪೋನುಟ್ prints no number |
+| 502 | `U. Sū. 4-666 [?]` → `U. Sū. 4-666` | SECOND-PASS S1: Kannada (ಉ. ಸೂ. ೪-೬೬೬) prints the number clearly |
+| 506 | `explained in the one-before-last sūkta's single mantra [as read: "the sixty-eighth"?]` → `explained in the first mantra of the 77th sūkta` | SECOND-PASS S13: Kannada ಋತವಾ—೭೭ನೇ ಸೂಕ್ತದ ಒಂದನೇ ಮಂತ್ರದಲ್ಲಿ ವ್ಯಾಖ್ಯಾನವಾಗಿದೆ |
+| 506 | `, Pā. [3-1-44]; since` → `; since` | SECOND-PASS S2: Kannada ಚ್ಛೇಸಿಚ್ prints no number |
+| 506 | `, Pā. [7-3-103]; *ru*` → `; *ru*` | SECOND-PASS S2: Kannada ಬಹುವಚನೇಝಲ್ಯೇತ್ prints no number |
+| 507 | `Pā. [6-4-51]` → `Pā. [9-4-51]` | SECOND-PASS S1: Kannada ಶೇರನಿಟಿ (ಪಾ. ಸೂ. ೯-೪-೫೧) (adhyāya 9 impossible; listed in open.tsv) |
+| 510 | `Pā. Sū. 6-1-[168?] [?]` → `Pā. Sū. 6-1-168` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೬೮) |
+| 510 | `Pā. Sū. 6-1-[198?]` → `Pā. Sū. 6-1-198` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೯೮) |
+| 510 | `Pā. Sū. 3-1-[22?] [?]` → `Pā. Sū. 3-1-22` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೩-೧-೨೨) |
+| 510 | `Pā. Sū. 2-4-[74?] [?]` → `Pā. Sū. 2-4-74` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೨-೪-೭೪) |
+| 510 | `Pā. Sū. 7-4-[82?]` → `Pā. Sū. 7-4-82` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೭-೪-೮೨) |
+| 510 | `Pā. Sū. 8-4-[14?]` → `Pā. Sū. 8-4-14` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೮-೪-೧೪) |
+| 511 | `Pā. Sū. 8-3-46 [?] (number read thus, doubtful)` → `Pā. Sū. 8-3-46` | SECOND-PASS S1: Kannada bhāṣya tail prints ಪಾ. ಸೂ. ೮-೩-೪೬ (also p. 513) |
+| 512 | `Ni. 3-[9?] [?]` → `Ni. 3-9` | SECOND-PASS S1: Kannada (ನಿ. ೩-೯) |
+| 512 | `Ni. 3-[13?] [?]` → `Ni. 3-13` | SECOND-PASS S1: Kannada (ನಿ. ೩-೧೩) |
+| 512 | `> नमुस्यत हव्यदातिं` → `> नमस्यत हव्यदातिं` | SECOND-PASS S7: Kannada quotation ನಮಸ್ಯತ ಹವ್ಯದಾತಿಂ (ಋ. ಸಂ. ೩-೨-೮): letters मु -> म (ಮು -> ಮ) |
+| 512 | `*namusyata havyadātiṃ` → `*namasyata havyadātiṃ` | SECOND-PASS S7: Kannada quotation ನಮಸ್ಯತ ಹವ್ಯದಾತಿಂ: letters mu -> ma |
+| 513 | `Pā. Sū. 7-2-116 [?]` → `Pā. Sū. 7-2-116` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೭-೨-೧೧೬) |
+| 513 | `Pā. Sū. 6-3-14 [?]` → `Pā. Sū. 6-3-14` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೩-೧೪) |
+| 513 | `Pā. Sū. 6-1-171 [?]` → `Pā. Sū. 6-1-171` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೭೧) |
+| 513 | `Pā. Sū. 8-3-46 [?]), since` → `Pā. Sū. 8-3-46), since` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೮-೩-೪೬) |
+| 513 | `Pā. Sū. 3-1-27 [?]` → `Pā. Sū. 3-1-27` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೩-೧-೨೭) |
+| 513 | `, Pā. Sū. 6-1-97)` → `)` | SECOND-PASS S2: Kannada ಅತೋಗುಣೇ ಸೂತ್ರದಿಂದ prints no number |
+| 513 | `Pā. Sū. 6-1-[171?]` → `Pā. Sū. 6-1-171` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೭೧) |
+| 514 | `Pā. Sū. 3-2-67 [?] — number not read` → `Pā. Sū. 3-2-67` | SECOND-PASS S1: Kannada p. 515 (ಪಾ. ಸೂ. ೩-೨-೬೭) |
+| 514 | `Pā. Sū. 6-4-41 [?])` → `Pā. Sū. 6-4-41)` | SECOND-PASS S1: Kannada p. 515 (ಪಾ. ಸೂ. ೬-೪-೪೧) |
+| 514 | `(Pā. [1-4-18, vārttika 3?] [?])` → `(Pā. Sū. 1-4-18-3)` | SECOND-PASS S1: Kannada bhāṣya tail (ಪಾ. ಸೂ. ೧-೪-೧೮-೩) |
+| 515 | `Pā. Sū. 3-2-67 [?])` → `Pā. Sū. 3-2-67)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೩-೨-೬೭) |
+| 515 | `Pā. Sū. 6-4-41 [?])` → `Pā. Sū. 6-4-41)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೪-೪೧) |
+| 515 | `Pā. Sū. 5-3-55 [?])` → `Pā. Sū. 6-2-55)` | SECOND-PASS S1: Kannada here prints ಅತಿಶಾಯನೇ ತಮಬಿಷ್ಠನೌ (ಪಾ. ಸೂ. ೬-೨-೫೫) (5-3-55 on pp. 502, 518) |
+| 515 | `Pā. Sū. 6-2-139 [?])` → `Pā. Sū. 6-2-139)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೨-೧೩೯) |
+| 515 | `Pā. Sū. 5-1-115 [?])` → `Pā. Sū. 5-1-115)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೫-೧-೧೧೫) |
+| 516 | `Pā. Sū. 6-1-34 [?])` → `Pā. Sū. 6-1-34)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೩೪) |
+| 516 | `Pā. Sū. 8-2-17 [?], number as read, doubtful)` → `Pā. Sū. 8-2-17)` | SECOND-PASS S1: Kannada bhāṣya tail (ಪಾ. ಸೂ. ೮-೨-೧೭) |
+| 516 | `Pā. Sū. 8-3-9 [?])` → `Pā. Sū. 8-3-9)` | SECOND-PASS S1: Kannada p. 519 (ಪಾ. ಸೂ. ೮-೩-೯) |
+| 518 | `(Ṛ. Saṃ. 10-95-7 [?])` → `(Ṛ. Saṃ. 10-95-7)` | SECOND-PASS S1: Kannada (ಋ. ಸಂ. ೧೦-೯೫-೭) |
+| 518 | `Pā. Sū. 3-2-[87])` → `Pā. Sū. 3-2-82)` | SECOND-PASS S1: Kannada ಬ್ರಹ್ಮಭ್ರೂಣ ವೃತ್ರೇಷು ಕ್ವಿಪ್ (ಪಾ. ಸೂ. ೩-೨-೮೨) |
+| 518 | `Pā. Sū. 5-3-[55])` → `Pā. Sū. 5-3-55)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೫-೩-೫೫) |
+| 518 | `, Pā. Sū. 1-4-17) gives` → `) gives` | SECOND-PASS S2: Kannada ಸ್ವಾದಿಷ್ಟಸರ್ವನಾಮಸ್ಥಾನೇ ಸೂತ್ರದಿಂದ prints no number |
+| 518 | `, Pā. Sū. 8-2-7) drops` → `) drops` | SECOND-PASS S2: Kannada ನಲೋಪಃ ಪ್ರಾತಿಪದಿಕಾಂತಸ್ಯ prints no number |
+| 518 | `Pā. Sū. 8-2-[17])` → `Pā. Sū. 8-2-17)` | SECOND-PASS S1: Kannada ನಾದ್ವಸ್ಯ (ಪಾ. ಸೂ ೮-೨-೧೭) |
+| 519 | `, Pā. Sū. 3-4-80);` → `);` | SECOND-PASS S2: Kannada ಥಾಸಃ ಸೇ ಎಂಬುದರಿಂದ prints no number |
+| 519 | `, Pā. Sū. 3-1-73);` → `);` | SECOND-PASS S2: Kannada ಸ್ವಾದಿಭ್ಯಃ ಶ್ನುಃ ಎಂಬುದರಿಂದ prints no number |
