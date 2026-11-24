@@ -699,3 +699,56 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 389	H29	R6	special topic: ūrva/pṛthivī (ರೂಪ್ಯತೇ ...)	Kannada ವೃದ್ಧಿ ಪ್ರಾಸ; English increase or decrease		ಪ್ರಾಸ is not a word; English read ಹ್ರಾಸ.	question	
 390	H29	R3	śruti quotation Tai. Ā. 8-7	Kannada ಏಷ ಹ್ಯೇವಾನಂದ ಯಾತಿ; English eṣa hy evānandaṃ dadāti		Print ಯಾತಿ (also in the bhāṣya); English dadāti.	question	
 397	H29	R6	pratipadārtha iddham	Kannada ಇದ್ದಾಂ; English iddham		Print ಇದ್ದಾಂ; English iddham.	question	
+402	S17	R1	pratipadārtha viśvam āyuḥ / second vi aśyuḥ	fully the whole life-time; *vi aśyuḥ* — may they obtain;	fully the whole life-time; *vi aśyuḥ* — may they live;	Kannada ವಿ ಅಶ್ಯುಃ—ಜೀವಿಸಲಿ (second occurrence: live); English repeated obtain.	applied	
+402	S16	R1	pratipadārtha sūrayaḥ	*sūrayaḥ* — (you) the wise who praise (you)	*sūrayaḥ* — the wise who praise (you)	Kannada ಸೂರಯಃ—(ನಿನ್ನನ್ನು) ಸ್ತುತಿಸುವ ವಿದ್ವಾಂಸರೂ: only one (you); the first (you) is an addition.	applied	
+403	S2	R1	Yāska śrava icchamānaḥ (Ni.)	'desiring fame' (Ni. 9-11).	'desiring fame'.	Kannada prints no Nirukta number after this quotation (the numbers ೧೧-೧೦ and ೪-೨೪ follow the 2nd and 3rd quotations).	applied	
+403	S7	R3	Yāska quotes the Ṛk āsasrāṇāsaḥ (6-37-3)	*asasrāṇāsaḥ* [as printed]	*āsasrāṇāsaḥ* [as printed]	Kannada ಆಸಸ್ರಾಣಾಸಃ (long ā in the first syllable); English has short a. Letter ā restored.	applied	
+407	S7	R3	Skandasvāmin smadūdhnīḥ quotation	amṛtapacanāt praśastam	amṛtapacanatvāt praśastam	Kannada ಅಮೃತಪಚನತ್ವಾತ್ (…tvāt); English dropped tva.	applied	
+408	S7	R3	Skandasvāmin dyubhaktāḥ quotation	*divaṃ yo bhajante tā dyubhaktāḥ | svargaṇivāsinya	*divaṃ yā bhajante tā dyubhaktāḥ | svarganivāsinya	Kannada ದಿವಂ ಯಾ ಭಜಂತೇ ತಾ ... ಸ್ವರ್ಗನಿವಾಸಿನ್ಯ: yā (not yo) and na (not ṇa).	applied	
+408	S7	R3	samayā adrim quotation	merokḥ samīpeneti	meroḥ samīpeneti	Kannada ಮೇರೋಃ ಸಮೀಪೇನೇತ್ಯರ್ಥಃ: meroḥ; the English kḥ is a slip.	applied	
+408	S7	R3	dhenava quotation	dhinoter prīṇanārthasya	dhinoteḥ prīṇanārthasya	Kannada ಧಿನೋತೇಃ ಪ್ರೀಣನಾರ್ಥಸ್ಯ: genitive dhinoteḥ.	applied	
+408	S7	R3	dhenava quotation	āhutayaḥ ātyartham	āhutayaḥ atyartham	Kannada ಅತ್ಯರ್ಥಂ ಕಾಮಯಮಾನಾಃ: short a; English ā.	applied	
+409	S2	R1	grammar vāvaśānāḥ: yaṅ sūtra number	kriyāsamabhihāre yaṅ*, Pā. [3-1-22]	kriyāsamabhihāre yaṅ*	Kannada ಧಾತೋರೇಕಾಚೋಹಲಾದೇಃ ... ಯಜ್ prints no sūtra number; 3-1-22 was added from memory.	applied	
+409	S2	R1	grammar smadūdhnīḥ: alopo naḥ number	*alopo 'naḥ*, Pā. [6-4-134]	*alopo 'naḥ*	Kannada ಅಲ್ಲೋಪೋಽನಃ prints no sūtra number; 6-4-134 was added from memory.	applied	
+409	S14	R1	grammar pīpayanta: tense	*laṅ*, third person plural, *jhi* → *anta*; *cli*	*luṅ*, third person plural, *jhi* → *anta*; *cli*	Kannada ಇದರಮೇಲೆ ಲುಜ್ (=luṅ) ಪ್ರಥಮಪುರುಷ ಬಹುವಚನ ಝ ಪ್ರತ್ಯಯ; the caṅ formation is luṅ, not laṅ.	applied	
+409	S13	R1	grammar pīpayanta: sūtra for reduplicate i	*sanvallaghuni…*	*sanyataḥ*	Kannada ಸನ್ಯತಃ ಎಂಬುದರಿಂದ ಅಭ್ಯಾಸಕ್ಕೆ ಇತ್ವ.	applied	
+409	S2	R1	grammar pīpayanta: lengthening sūtra and number	*dīrgho laghoḥ*, Pā. Sū. 7-4-94	*dīrgho 'kitaḥ*, Pā. Sū. 7-4-83	Kannada ದೀರ್ಘೋಽಕೃತಃ (ಪಾ. ಸೂ. ೭-೪-೮೩) (the same sūtra as above on the page, there spelt ಅಕಿತಃ); number from the Kannada.	applied	
+404	S2	R1	grammar aśyuḥ: yāsuṭ sūtra number	*yāsuṭ parasmaipadeṣūdāttaḥ ṅic ca*, Pā. [3-4-103]	*yāsuṭ parasmaipadeṣūdāttaḥ ṅic ca*	Kannada ಯಾಸುಟ್ ಪರ—ಎಂಬುದರಿಂದ prints no sūtra number; 3-4-103 was added from memory.	applied	
+404	S2	R1	grammar sanema: lopo vyor vali number	*lopo vyor vali*, Pā. [6-1-66]	*lopo vyor vali*	Kannada ಲೋಪೋವ್ಯೋರ್ವಲಿ prints no sūtra number; 6-1-66 was added from memory.	applied	
+412	S2	R1	Ṛk 10-92-5 citation (ārṣṭiṣeṇo hotram)	(Ṛ. Saṃ. 10-98-5)	(Ṛ. Saṃ. 10-92-5)	Kannada (ಋ. ಸಂ. ೧೦-೯೨-೫).	applied	
+413	S7	R3	Skandasvāmin: naktā iti rātrināma	yajñārāḥ rātrau	yaṣṭāraḥ rātrau	Kannada ಯಷ್ಟಾರಃ ರಾತ್ರೌ: yaṣṭāraḥ.	applied	
+413	S7	R3	Skandasvāmin: uṣasā ca atra	ānanteryodaharvlakṣate	ānantaryād ahar lakṣate	Kannada ಆನಂತರ್ಯಾದಹರ್ಲಕ್ಷತೇ.	applied	
+413	S7	R3	Skandasvāmin: naktoṣasor eva	*naktoṣasor iva kṛṣṇaṃ	*naktoṣasor eva kṛṣṇaṃ	Kannada ನಕ್ತೋಷಸೋರೇವ ಕೃಷ್ಣಂ: eva.	applied	
+414	S2	R1	grammar tve: tvamāvekavacane number	*tvamāvekavacane*, Pā. [7-2-97]	*tvamāvekavacane*	Kannada ತ್ವಮಾನೇಕವಚನೇ prints no sūtra number; 7-2-97 was added from memory.	applied	
+414	S3	R1	grammar yajñiyāsaḥ: yajñartvigbhyāṃ ghakhañau number	*yajñartvigbhyāṃ ghakhañau*;	*yajñartvigbhyāṃ ghakhañau*, Pā. Sū. 5-1-71;	Kannada (ಪಾ. ಸೂ. ೫-೧-೭೧) printed; English omitted the number.	applied	
+414	S7	R3	grammar yajñiyāsaḥ: āj jaser asuk	*asuk* by *ajjhasor asuk*	*asuk* by *āj jaser asuk*	Kannada ಆಜ್ಜಸೇರಸುಕ್.	applied	
+416	S14	R1	pratipadārtha sisakṣi	*sisakṣi* — you protect	*sisakṣi* — you serve	Kannada ಸಿಸಕ್ಷಿ—ಸೇವಿಸುತ್ತೀ (you serve).	applied	
+417	S16	R1	Sāyaṇa on chāyā: umbrella shade	distress of rain, sun and so on	distress of the sun and so on	Kannada ಬಿಸಲು ಮೊದಲಾದ ಕ್ಲೇಶಗಳಿಂದ (sunshine etc.), and the Sanskrit chāyātapādi: no rain.	applied	
+417	S7	R3	grammar susūdaḥ: yadvṛttān nityam	*yaddhṛttānnityam*	*yadvṛttānnityam*	Kannada ಯದ್ವೃತ್ತಾ…: dvṛ, not ddhṛ (English p. 416 itself has yadvṛttān).	applied	
+417	S13	R1	grammar syāma: śnasor allopaḥ	*śnasor alloḥ* (Pā. [6-4-111])	*śnasor allopaḥ* (Pā. [6-4-111])	Kannada ಶ್ನಸೋರಲ್ಲೋಪಃ (ಪಾ. ಸೂ. ೬-೪-೧೧೧).	applied	
+418	S2	R1	grammar sisakṣi: bhṛñām it number	the *bhṛñām it* sūtra [Pā. [7-4-76]]	the *bhṛñām it* sūtra	Kannada ಭೃಞಾಮಿತ್ ಸೂತ್ರದಿಂದ prints no sūtra number; 7-4-76 was added from memory.	applied	
+420	S7	R3	Nirukta 1-7 vīra quotation	*vetrā vā syād gatikarmaṇo vīrayate vā*	*vetter vā syād gatikarmaṇo vīrayatir vā*	Kannada ವೇತ್ತೇರ್ವಾ ಸ್ಯಾದ್…ವೀರಯತೀರ್ವಾ; English vetrā…vīrayate not in the print.	applied	
+421	S7	R3	Nirukta 5-2 quotation	Vanuṣyatir hiṃsākarmā	Vanuṣyatir hantikarmā	Kannada ವನುಷ್ಯತಿರ್ಹಂತಿಕರ್ಮಾ ನವಗತಸಂಸ್ಕಾರೋ (and the gloss ಹನನ); English hiṃsā is not in the print.	applied	
+421	S7	R3	grammar vanuyāma: dhātupāṭha entry	*vanu ca noktyate*	*vanu ca nocyate*	Kannada ವನು ಚ ನೋಚ್ಯತೇ.	applied	
+421	S2	R1	grammar arvadbhiḥ: sūtra name and number	*arvaṇas tṛ asāvanañaḥ*, Pā. [6-4-127]	*arvaṇas trasāvanañaḥ*	Kannada ಆರ್ವಣಸ್ತ್ರಸಾವನಞ್ prints no sūtra number (6-4-127 added from memory); sūtra read as one word trasāvanañaḥ (ತೃ ಅಂತಾದೇಶ).	applied	
+421	S7	R3	grammar īśānāsaḥ: āj jaser asuk	*asuk* by *ajjhasor asuk*	*asuk* by *āj jaser asuk*	Kannada ಆಜ್ಜಸೇರಸುಕ್.	applied	
+421	S2	R1	grammar pitṛvittasya: sūkta number	first mantra of the seventy-third sūkta	first mantra of the seventy-second sūkta	Kannada ೭೨ ನೇ ಸೂಕ್ತದ ಒಂದನೇ ಮಂತ್ರದಲ್ಲಿ.	applied	
+423	S14	R1	pratipadārtha te	*te* — to you; *manase*	*te* — your; *manase*	Kannada ತೇ—ನಿನ್ನ (your).	applied	
+425	S2	R1	grammar ucathāni: saṃprasāraṇāc ca number	*saṃprasāraṇāc ca*, Pā. [6-1-108]	*saṃprasāraṇāc ca*	Kannada ಸಂಪ್ರಸಾರಣಾಚ್ಚ ಸೂತ್ರದಿಂದ prints no sūtra number; 6-1-108 was added from memory.	applied	
+425	S1	R1	grammar juṣṭāni: juṣṭārpite number	*juṣṭārpite ca chandasi*, Pā. [6-1-207]	*juṣṭārpite ca chandasi*, Pā. [6-1-209]	Kannada (ಪಾ. ಸೂ. ೬-೧-೨೦೯, ೨೧೦).	applied	
+425	S13	R1	grammar santu: śnasor allopaḥ	*śnasor alloḥ*, Pā. [6-4-111]	*śnasor allopaḥ*, Pā. [6-4-111]	Kannada ಶ್ನಸೋರಲ್ಲೋಪಃ (ಪಾ. ಸೂ. ೬-೪-೧೧೧).	applied	
+425	S3	R1	grammar hṛde: ūḍidaṃpadādi number	the ending acute by *ūḍidaṃpadādi…*). *śakema*	the ending acute by *ūḍidaṃpadādi…*, Pā. Sū. 7-1-171). *śakema*	Kannada ಊಡಿದಂ ಪದಾದಿ—(ಪಾ. ಸೂ ೭-೧-೧೭೧) printed; English omitted the number.	applied	
+426	S7	R3	Anukramaṇikā quotation in Anuvāda	*upa prayanto nava gotamo rāhūgaṇo gāyatram tṛtī…*	*upa prayanto nava gotamo rāhūgaṇo gāyatraṃ tv iti*	Kannada ಉಪಪ್ರಯಂತೋ ನವ ಗೋತಮೋ ರಾಹೂಗಣೋ ಗಾಯತ್ರಂ ತ್ವಿತಿ (also in the Sāyaṇa introduction, English p. 426).	applied	
+429	S13	R1	Special topics adhvaram	Agni, Soma and the like	Agniṣṭoma and the like	Kannada ಅಗ್ನಿಷ್ಟೋಮಾದಿ ಅನೇಕ ಭೇದಪ್ರಭೇದಗಳು.	applied	
+429	S14	R1	Special topics ca	mean 'both far away and near'	mean 'even though far away'	Kannada ಆರೇ ಚ ಎಂಬ ಶಬ್ದಗಳಿಗೆ ದೂರದಲ್ಲಿದ್ದರೂ ಕೂಡ ಎಂದರ್ಥ.	applied	
+429	S2	R1	grammar upa prayantaḥ: iṇo yaṇ	*iko yaṇaci*, Pā. [6-1-77]	*iṇo yaṇ*, Pā. [6-4-81]	Kannada ಇಣೋ ಯಣ್ (ಪಾ. ಸೂ. ೬-೪-೮೧).	applied	
+412	S7	R3	Ṛk 10-14-6 first word (Devanagari)	केषां वयं सुमतौ यज्ञियानामपि	तेषां वयं सुमतौ यज्ञियानामपि	Kannada ತೇಷಾಂ ವಯಂ: first letter ತ (ta), not ಕ (ka); क→त in the Devanagari.	applied	
+412	S7	R3	Ṛk 10-14-6 first word (IAST)	*keṣāṃ vayaṃ sumatau yajñiyānām	*teṣāṃ vayaṃ sumatau yajñiyānām	Kannada ತೇಷಾಂ ವಯಂ: k→t in the IAST.	applied	
+400	H29	R3	grammar page: sūtra dvyaco 'tastiṅaḥ (and other sūtra names, pp. 400-429)	Kannada ದ್ವ್ಯಚೋಽತಸ್ತಿಜಿಃ; later ಫೇರ್ಜತಿ (gher ṅiti), ಝರ್ಜಸ್ (jher jus), ಣಿಶ್ರಿದ್ಯುಸುಭ್ಯಃ, ನಾ ಛಂದಸಿ (English vā chandasi), ತಿಜ್ಜತಿಜಿಃ; English gives the usual sūtra names		Kannada prints a misprint; English silently put it right (H29).	question	
+403	H29	R3	Nirukta quotations in Special Topics (pp. 403, 407, 420)	Kannada ರೇಕ್ಷಃ (English rekṇaḥ); ಶೂಯತ ಇತಿ ಸತಃ (English śrūyate, without iti sataḥ); ಋತುರರ್ತೇರ್ಗತಿಕರ್ಮಣಃ (English ṛtam ṛter gatikarmaṇaḥ); ಪಿತ್ರಸ್ಯೇವ ರಾಯಃ (English pitryasyeva rāyaḥ)		Kannada prints a misprint; English silently put it right (H29).	question	
+403	H29	R3	Ṛk quotations 1-126-1 and 10-50-1 (Devanagari and IAST of the English)	Kannada ಅಮಂದರ್ನ್ ಸ್ತೋರ್ಮ್ಯಾ ... ಸಹಸ್ರಮನಿಮಿತ; ಸುಮಖಂ; English amandān stomān ... amimīta		Kannada prints a misprint; English silently put it right (H29).	question	
+407	H29	R6	pratipadārtha and quotations (pp. 407, 412, 413, 416, 419)	Kannada ಅದ್ರಿಂ ಸುಮಯಾ (English adrim samayā); ಸ್ಮದೂದ್ನೀಃ; ಅರ್ಷಿಷೇಣೋ ... ನಿರ್ಷೀರ್ದ (English ārṣṭiṣeṇo ... niṣīdan); ಸುಮತಾ (English sumatau); ಭುವನಾನಾಮಧಿಶ್ರೀಃ (English abhiśrīḥ); ಯಜೂಯತಾಂ (English ṛjūyatām); ರ್ಯಾ ಮರ್ತಾನ್, ಸುಮೂದಃ, ಅಶಗ್ವಳಿಂದ, ನ್ಯನ್, ವೀರ್ರಾನ್		Kannada prints a misprint; English silently put it right (H29).	question	
+412	H29	R3	Ṛk 10-14-6 in Special Topics (printed ತೇಷಾಂ ವಯಂ ಸುಮತಾ)	English keṣāṃ ... sumatau		Kannada prints a misprint; English silently put it right (H29).	question	
+413	H29	R3	Skandasvāmin: yathā tava kṛṣṇāruṇau varṇāv api bhinnau bhavete / Nirukta 12-40	Kannada ಭಿನ್ನಾ ಭವತ; ಮತ್ಸು (English matau)		Kannada prints a misprint; English silently put it right (H29).	question	
+420	H29	R3	Brāhmaṇa quotation śataṃ tvā hemantān dhiṣīya (Tai. Saṃ. 1-5-8-5)	Kannada p. 420 ಇಂಧಿಷೀಯೇತಿ ನಾವೃತದಾಹ; p. 421 ಹೇಮಂತಾನಿಂದಿಷೀಯೇತಿ ವಾವೈತದಾಹ; English dhiṣīya iti vāva tad āha		Kannada prints a misprint; English silently put it right (H29).	question	
+428	H29	R3	pp. 428-429: Special topics on mantram (printed ಮನನಸಾಧನಮೇತತ್ತೂಕ್ತರೂಪಂ)	Kannada ಏತತ್ತೂಕ್ತರೂಪಂ; English etat stotrarūpam		Kannada prints a misprint; English silently put it right (H29).	question	

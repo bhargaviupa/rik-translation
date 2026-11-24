@@ -623,3 +623,56 @@
 | page | old → new | why |
 |---|---|---|
 | 399 | `saṃbaddhaḥ haviroktā` → `saṃbaddhaḥ havirbhoktā` | SECOND-PASS S7: Kannada ಸರ್ವಾನ್ನ ಸಂಬದ್ಧಃಹವಿರ್ಭೋಕ್ತಾ |
+
+### 2026-11-24 second pass, batch e400-429.tsv
+| page | old → new | why |
+|---|---|---|
+| 402 | `fully the whole life-time; *vi aśyuḥ* — may they obtain;` → `fully the whole life-time; *vi aśyuḥ* — may they live;` | SECOND-PASS S17: Kannada ವಿ ಅಶ್ಯುಃ—ಜೀವಿಸಲಿ (second occurrence: live); English repeated obtain. |
+| 402 | `*sūrayaḥ* — (you) the wise who praise (you)` → `*sūrayaḥ* — the wise who praise (you)` | SECOND-PASS S16: Kannada ಸೂರಯಃ—(ನಿನ್ನನ್ನು) ಸ್ತುತಿಸುವ ವಿದ್ವಾಂಸರೂ: only one (you); the first (you) is an addition. |
+| 403 | `'desiring fame' (Ni. 9-11).` → `'desiring fame'.` | SECOND-PASS S2: Kannada prints no Nirukta number after this quotation (the numbers ೧೧-೧೦ and ೪-೨೪ follow the 2nd and 3rd quotations). |
+| 403 | `*asasrāṇāsaḥ* [as printed]` → `*āsasrāṇāsaḥ* [as printed]` | SECOND-PASS S7: Kannada ಆಸಸ್ರಾಣಾಸಃ (long ā in the first syllable); English has short a. Letter ā restored. |
+| 407 | `amṛtapacanāt praśastam` → `amṛtapacanatvāt praśastam` | SECOND-PASS S7: Kannada ಅಮೃತಪಚನತ್ವಾತ್ (…tvāt); English dropped tva. |
+| 408 | `*divaṃ yo bhajante tā dyubhaktāḥ | svargaṇivāsinya` → `*divaṃ yā bhajante tā dyubhaktāḥ | svarganivāsinya` | SECOND-PASS S7: Kannada ದಿವಂ ಯಾ ಭಜಂತೇ ತಾ ... ಸ್ವರ್ಗನಿವಾಸಿನ್ಯ: yā (not yo) and na (not ṇa). |
+| 408 | `merokḥ samīpeneti` → `meroḥ samīpeneti` | SECOND-PASS S7: Kannada ಮೇರೋಃ ಸಮೀಪೇನೇತ್ಯರ್ಥಃ: meroḥ; the English kḥ is a slip. |
+| 408 | `dhinoter prīṇanārthasya` → `dhinoteḥ prīṇanārthasya` | SECOND-PASS S7: Kannada ಧಿನೋತೇಃ ಪ್ರೀಣನಾರ್ಥಸ್ಯ: genitive dhinoteḥ. |
+| 408 | `āhutayaḥ ātyartham` → `āhutayaḥ atyartham` | SECOND-PASS S7: Kannada ಅತ್ಯರ್ಥಂ ಕಾಮಯಮಾನಾಃ: short a; English ā. |
+| 409 | `kriyāsamabhihāre yaṅ*, Pā. [3-1-22]` → `kriyāsamabhihāre yaṅ*` | SECOND-PASS S2: Kannada ಧಾತೋರೇಕಾಚೋಹಲಾದೇಃ ... ಯಜ್ prints no sūtra number; 3-1-22 was added from memory. |
+| 409 | `*alopo 'naḥ*, Pā. [6-4-134]` → `*alopo 'naḥ*` | SECOND-PASS S2: Kannada ಅಲ್ಲೋಪೋಽನಃ prints no sūtra number; 6-4-134 was added from memory. |
+| 409 | `*laṅ*, third person plural, *jhi* → *anta*; *cli*` → `*luṅ*, third person plural, *jhi* → *anta*; *cli*` | SECOND-PASS S14: Kannada ಇದರಮೇಲೆ ಲುಜ್ (=luṅ) ಪ್ರಥಮಪುರುಷ ಬಹುವಚನ ಝ ಪ್ರತ್ಯಯ; the caṅ formation is luṅ, not laṅ. |
+| 409 | `*sanvallaghuni…*` → `*sanyataḥ*` | SECOND-PASS S13: Kannada ಸನ್ಯತಃ ಎಂಬುದರಿಂದ ಅಭ್ಯಾಸಕ್ಕೆ ಇತ್ವ. |
+| 409 | `*dīrgho laghoḥ*, Pā. Sū. 7-4-94` → `*dīrgho 'kitaḥ*, Pā. Sū. 7-4-83` | SECOND-PASS S2: Kannada ದೀರ್ಘೋಽಕೃತಃ (ಪಾ. ಸೂ. ೭-೪-೮೩) (the same sūtra as above on the page, there spelt ಅಕಿತಃ); number from the Kannada. |
+| 404 | `*yāsuṭ parasmaipadeṣūdāttaḥ ṅic ca*, Pā. [3-4-103]` → `*yāsuṭ parasmaipadeṣūdāttaḥ ṅic ca*` | SECOND-PASS S2: Kannada ಯಾಸುಟ್ ಪರ—ಎಂಬುದರಿಂದ prints no sūtra number; 3-4-103 was added from memory. |
+| 404 | `*lopo vyor vali*, Pā. [6-1-66]` → `*lopo vyor vali*` | SECOND-PASS S2: Kannada ಲೋಪೋವ್ಯೋರ್ವಲಿ prints no sūtra number; 6-1-66 was added from memory. |
+| 412 | `(Ṛ. Saṃ. 10-98-5)` → `(Ṛ. Saṃ. 10-92-5)` | SECOND-PASS S2: Kannada (ಋ. ಸಂ. ೧೦-೯೨-೫). |
+| 413 | `yajñārāḥ rātrau` → `yaṣṭāraḥ rātrau` | SECOND-PASS S7: Kannada ಯಷ್ಟಾರಃ ರಾತ್ರೌ: yaṣṭāraḥ. |
+| 413 | `ānanteryodaharvlakṣate` → `ānantaryād ahar lakṣate` | SECOND-PASS S7: Kannada ಆನಂತರ್ಯಾದಹರ್ಲಕ್ಷತೇ. |
+| 413 | `*naktoṣasor iva kṛṣṇaṃ` → `*naktoṣasor eva kṛṣṇaṃ` | SECOND-PASS S7: Kannada ನಕ್ತೋಷಸೋರೇವ ಕೃಷ್ಣಂ: eva. |
+| 414 | `*tvamāvekavacane*, Pā. [7-2-97]` → `*tvamāvekavacane*` | SECOND-PASS S2: Kannada ತ್ವಮಾನೇಕವಚನೇ prints no sūtra number; 7-2-97 was added from memory. |
+| 414 | `*yajñartvigbhyāṃ ghakhañau*;` → `*yajñartvigbhyāṃ ghakhañau*, Pā. Sū. 5-1-71;` | SECOND-PASS S3: Kannada (ಪಾ. ಸೂ. ೫-೧-೭೧) printed; English omitted the number. |
+| 414 | `*asuk* by *ajjhasor asuk*` → `*asuk* by *āj jaser asuk*` | SECOND-PASS S7: Kannada ಆಜ್ಜಸೇರಸುಕ್. |
+| 416 | `*sisakṣi* — you protect` → `*sisakṣi* — you serve` | SECOND-PASS S14: Kannada ಸಿಸಕ್ಷಿ—ಸೇವಿಸುತ್ತೀ (you serve). |
+| 417 | `distress of rain, sun and so on` → `distress of the sun and so on` | SECOND-PASS S16: Kannada ಬಿಸಲು ಮೊದಲಾದ ಕ್ಲೇಶಗಳಿಂದ (sunshine etc.), and the Sanskrit chāyātapādi: no rain. |
+| 417 | `*yaddhṛttānnityam*` → `*yadvṛttānnityam*` | SECOND-PASS S7: Kannada ಯದ್ವೃತ್ತಾ…: dvṛ, not ddhṛ (English p. 416 itself has yadvṛttān). |
+| 417 | `*śnasor alloḥ* (Pā. [6-4-111])` → `*śnasor allopaḥ* (Pā. [6-4-111])` | SECOND-PASS S13: Kannada ಶ್ನಸೋರಲ್ಲೋಪಃ (ಪಾ. ಸೂ. ೬-೪-೧೧೧). |
+| 418 | `the *bhṛñām it* sūtra [Pā. [7-4-76]]` → `the *bhṛñām it* sūtra` | SECOND-PASS S2: Kannada ಭೃಞಾಮಿತ್ ಸೂತ್ರದಿಂದ prints no sūtra number; 7-4-76 was added from memory. |
+| 421 | `Vanuṣyatir hiṃsākarmā` → `Vanuṣyatir hantikarmā` | SECOND-PASS S7: Kannada ವನುಷ್ಯತಿರ್ಹಂತಿಕರ್ಮಾ ನವಗತಸಂಸ್ಕಾರೋ (and the gloss ಹನನ); English hiṃsā is not in the print. |
+| 421 | `*vanu ca noktyate*` → `*vanu ca nocyate*` | SECOND-PASS S7: Kannada ವನು ಚ ನೋಚ್ಯತೇ. |
+| 421 | `*arvaṇas tṛ asāvanañaḥ*, Pā. [6-4-127]` → `*arvaṇas trasāvanañaḥ*` | SECOND-PASS S2: Kannada ಆರ್ವಣಸ್ತ್ರಸಾವನಞ್ prints no sūtra number (6-4-127 added from memory); sūtra read as one word trasāvanañaḥ (ತೃ ಅಂತಾದೇಶ). |
+| 421 | `*asuk* by *ajjhasor asuk*` → `*asuk* by *āj jaser asuk*` | SECOND-PASS S7: Kannada ಆಜ್ಜಸೇರಸುಕ್. |
+| 421 | `first mantra of the seventy-third sūkta` → `first mantra of the seventy-second sūkta` | SECOND-PASS S2: Kannada ೭೨ ನೇ ಸೂಕ್ತದ ಒಂದನೇ ಮಂತ್ರದಲ್ಲಿ. |
+| 423 | `*te* — to you; *manase*` → `*te* — your; *manase*` | SECOND-PASS S14: Kannada ತೇ—ನಿನ್ನ (your). |
+| 425 | `*saṃprasāraṇāc ca*, Pā. [6-1-108]` → `*saṃprasāraṇāc ca*` | SECOND-PASS S2: Kannada ಸಂಪ್ರಸಾರಣಾಚ್ಚ ಸೂತ್ರದಿಂದ prints no sūtra number; 6-1-108 was added from memory. |
+| 425 | `*juṣṭārpite ca chandasi*, Pā. [6-1-207]` → `*juṣṭārpite ca chandasi*, Pā. [6-1-209]` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೨೦೯, ೨೧೦). |
+| 425 | `*śnasor alloḥ*, Pā. [6-4-111]` → `*śnasor allopaḥ*, Pā. [6-4-111]` | SECOND-PASS S13: Kannada ಶ್ನಸೋರಲ್ಲೋಪಃ (ಪಾ. ಸೂ. ೬-೪-೧೧೧). |
+| 425 | `the ending acute by *ūḍidaṃpadādi…*). *śakema*` → `the ending acute by *ūḍidaṃpadādi…*, Pā. Sū. 7-1-171). *śakema*` | SECOND-PASS S3: Kannada ಊಡಿದಂ ಪದಾದಿ—(ಪಾ. ಸೂ ೭-೧-೧೭೧) printed; English omitted the number. |
+| 426 | `*upa prayanto nava gotamo rāhūgaṇo gāyatram tṛtī…*` → `*upa prayanto nava gotamo rāhūgaṇo gāyatraṃ tv iti*` | SECOND-PASS S7: Kannada ಉಪಪ್ರಯಂತೋ ನವ ಗೋತಮೋ ರಾಹೂಗಣೋ ಗಾಯತ್ರಂ ತ್ವಿತಿ (also in the Sāyaṇa introduction, English p. 426). |
+| 429 | `Agni, Soma and the like` → `Agniṣṭoma and the like` | SECOND-PASS S13: Kannada ಅಗ್ನಿಷ್ಟೋಮಾದಿ ಅನೇಕ ಭೇದಪ್ರಭೇದಗಳು. |
+| 429 | `mean 'both far away and near'` → `mean 'even though far away'` | SECOND-PASS S14: Kannada ಆರೇ ಚ ಎಂಬ ಶಬ್ದಗಳಿಗೆ ದೂರದಲ್ಲಿದ್ದರೂ ಕೂಡ ಎಂದರ್ಥ. |
+| 429 | `*iko yaṇaci*, Pā. [6-1-77]` → `*iṇo yaṇ*, Pā. [6-4-81]` | SECOND-PASS S2: Kannada ಇಣೋ ಯಣ್ (ಪಾ. ಸೂ. ೬-೪-೮೧). |
+| 412 | `> केषां वयं सुमतौ यज्ञियानामपि` → `> तेषां वयं सुमतौ यज्ञियानामपि` | SECOND-PASS S7: Kannada ತೇಷಾಂ: क→त. |
+| 412 | `> *keṣāṃ vayaṃ sumatau yajñiyānām` → `> *teṣāṃ vayaṃ sumatau yajñiyānām` | SECOND-PASS S7: Kannada ತೇಷಾಂ: k→t. |
+
+### 2026-11-24 second pass, batch e400-429_2.tsv
+| page | old → new | why |
+|---|---|---|
+| 420 | `vetrā vā syād gatikarmaṇo vīrayate vā*` → `vetter vā syād gatikarmaṇo vīrayatir vā*` | SECOND-PASS S7: Kannada ವೇತ್ತೇರ್ವಾ ಸ್ಯಾದ್…ವೀರಯತೀರ್ವಾ; English vetrā…vīrayate not in the print. |
