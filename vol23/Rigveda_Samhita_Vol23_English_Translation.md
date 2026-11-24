@@ -28225,6 +28225,281 @@ Bestow upon us, Indra, that which, when pouring out the libation, we solicit of 
 
 O Indra, when the praiser (विचर्षणिः (*vicarṣaṇiḥ*), the special seer) makes his songs of praise for you अतिप्रशर्धयत् (*atipraśardhayat*), exceedingly capable of overpowering enemies (the root शृधु प्रसहने (*śṛdhu prasahane*)), and when those songs serve you or please you, then, like branches (वयाः इव (*vayāḥ iva*)) which, attached to one tree, grow upward, so all qualities grow up in you through praise.
 
+### Printed p. 678
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचर्षणिः (*vicarṣaṇiḥ*)—one endowed with the power of discrimination
+- स्तोता (*stotā*)—the eulogist
+- ते (*te*)—addressed to you
+- गिरः (*giraḥ*)—praises
+- यत् (*yat*)—when
+- अतिप्रशर्धयत् (*atipraśardhayat*)—he makes (them) possessed of the power to destroy enemies
+- यत् (*yat*)—when
+- जुषंत (*juṣaṃta*)—those praises extol you and serve you, then
+- वया इव (*vayā iva*)—as the branches of trees spread out and extend
+- अनु रोहते (*anu rohate*)—your qualities too expand and spread
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the discriminating eulogist makes the praises addressed to you possessed of the power to destroy enemies, and when those praises extol you and serve you, then, as the branches of trees spread and extend, your qualities too expand and spread.
+
+##### English translation
+When your discriminating eulogist has addressed to you overpowering praises, then, if they are acceptable to you, they expand like the branches (of a tree).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒त्न॒वज्ज॑नया॒ गिरः॑ शृणु॒धी ज॑रि॒तुर्हवं॑ ।  
+> मदे॑मदे वनक्षिथा सु॒कृत्व॑ने ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रत्नवत् । जनय । गिरः । शृणुधि । जरितुः । हवं ।  
+> मदेऽमदे । ववक्षिथ । सुकृत्वने ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्रत्नवत् पुरा यथा स्तोतृभ्योऽपेक्षितफलप्रदानेन स्तुतीर्जनयसि एवमिदानीमपि गिरः स्तुतीर्जनय । उत्पादय । जरितुः स्तोतुर्हवमाह्वानं
+> च शृणुधि । शृणु । जानीहि । तादृशस्त्वं मदे मदे सोमेन तर्पणे तर्पणे सति
+> सुकृत्वने शोभनकर्त्रॆ यजमानाय नवक्षिथ । अपेक्षितं फलं वहिसि । ददासीत्यर्थ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, as formerly you brought forth praises for the worshippers by granting the fruit they desired, so now too bring forth (जनय (*janaya*)) praises, and hear (शृणुधि (*śṛṇudhi*): listen, take note of) the invocation of the eulogist. Being such, in every exhilaration (मदे मदे (*made made*): whenever you are gratified with Soma) bring the desired fruit to the sacrificer who does good works; that is, you give it.
+
+### Printed p. 679
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रत्नवत् (*pratnavat*)—as in former times you, granting the desired object, inspired praise from the ancient seers
+- गिरः (*giraḥ*)—(granting the desired object to us also) cause praises to be produced (by us too)
+- जनय (*janaya*)—make them arise
+- जरितुः (*jarituḥ*)—of the eulogist
+- हवं (*havaṃ*)—the invocation
+- शृणुधि (*śṛṇudhi*)—hear
+- मदे मदे (*made made*)—whenever you are gratified
+- सुकृत्वने (*sukṛtvane*)—to the sacrificer, the performer of excellent rites
+- ववक्षिथ (*vavakṣitha*)—supply the desired fruit
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as you granted the desired object to all the ancient seers and inspired praise from them, so grant the desired object to us too and inspire us to compose praises. Hear the invocation of the eulogist. Whenever you are gratified, supply the desired fruit to the sacrificer who performs excellent rites.
+
+##### English translation
+Generate your eulogies as of old ; hear the invocation of the adorer bear in your reiterated exultation (blessings) to the liberal donor (of the oblation).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रीळं॑त्यस्य सू॒नृता॒ अपो॒ न प्र॒वता॑ य॒तीः ।  
+> अ॒या धि॒या य उ॒च्यते॒ पति॑र्दि॒वः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रीळंति । अस्य । सूनृताः । आपः । न । प्रवता । यतीः ।  
+> अया । धिया । यः । उच्यते । पतिः । दिवः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य सूनृताः प्रियसत्यात्मिका वाचः क्रीळंति । विहरंति । तत्र दृष्टांतः ।
+> प्रवता व्रवणेन मार्गेण यतीर्गच्छंत्य आपो नाप इव । यथा निन्नोतेन पथा
+> गच्छंत्य आप उत्पतननिपतनेन विहरंति तद्वत् । दिवः स्वर्गस्य पतिः पालयिता य
+> इंद्रोऽयानया धिया स्तुत्योच्यते प्रतिपाद्यते अस्येंद्रस्येत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The pleasant and truthful words of this Indra sport, that is, roam about. An illustration: like waters (आपो न (*āpo na*)) going by a downward course (प्रवता (*pravatā*)), which roam about by leaping up and falling down while going along a sloping path. Indra, who is called the lord and protector of heaven by this praise, is the Indra of whom (अस्येंद्रस्य (*asyeṃdrasya*)) the words are said; such is the construction.
+
+### Printed p. 680
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- दिवः (*divaḥ*)—of heaven
+- पति (*pati*)—as protector
+- अया धिया (*ayā dhiyā*)—by this praise
+- उच्यते (*ucyate*)—is declared
+- अस्य (*asya*)—of that same Indra, who is praised
+- सूनृताः (*sūnṛtāḥ*)—the pleasant and truthful words of praise
+- प्रवता (*pravatā*)—downward
+- यतीः (*yatīḥ*)—flowing
+- आपो न (*āpo na*)—like waters
+- क्रीळंति (*krīḷaṃti*)—sport freely
+
+##### भावार्थ (Bhāvārtha)
+
+The pleasant and truthful words of praise of that Indra who is declared by this praise to be the protector of heaven sport freely, like waters flowing downward.
+
+##### English translation
+The kind and true words of him who in this hymn is called the lord of heaven sport like waters flowing by a downward (channel).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो पति॒र्य उ॒च्यते॑ कृष्टी॒नामेक॒ इद्व॒ती ।  
+> न॒मो॒वृ॒धैर॑व॒स्युभिः॑ सु॒ते र॑ण ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । पतिः । यः । उच्यते । कृष्णीनां । एकः । इत् । वशी ।  
+> नमःवृधैः । अवस्युभिः । सुते । रण ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतो अपि च वशी वशयितैक इदेक एव कृष्टीनां मनुष्याणां पतिः पालयितेति य इंद्र उच्यते । कैः । नमोवृधैर्नमसा स्तोत्रेष हविषा वा वर्धयितृभिरवस्युभी रक्षणेच्छुभिः स त्वं पूर्वोक्ते सुतेऽभिषुते सोमे रण । रमस्व ।
+> यद्वा । हे स्तोतः तमिंद्रं सुते सोमे स्तुहि । रणतिः शब्दार्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra is called the controller (वशी (*vaśī*)) and the one and only lord, protector, of men (कृष्टीनां (*kṛṣṭīnāṃ*)). By whom? By those who increase him with reverence, with praises or with oblation, and who desire protection (अवस्युभिः (*avasyubhiḥ*)). Such as you are, delight (रण (*raṇa*): take pleasure) in the Soma that has been pressed, as mentioned before. Or else: O eulogist, praise that Indra at the pressed Soma; the root रणतिः (*raṇatiḥ*) has the sense of sound.
+
+### Printed p. 681
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतो (*uto*)—and (O Indra)
+- यः (*yaḥ*)—you who
+- अवस्युभिः (*avasyubhiḥ*)—by those who desire protection
+- नमोवृधैः (*namovṛdhaiḥ*)—and who bring about increase by praises, the eulogists
+- वशी (*vaśī*)—as controller of the world
+- कृष्टीनां (*kṛṣṭīnāṃ*)—of all the people
+- एक इत् (*eka it*)—the unrivalled
+- पतिः (*patiḥ*)—as protector
+- उच्यते (*ucyate*)—are described (such as you are)
+- सुते (*sute*)—when the Soma juice is pressed
+- रण (*raṇa*)—show delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are described by the eulogists, who desire protection and bring about increase by praises, as the controller of the world and the unrivalled protector of all the people, such as you are, show delight when the Soma juice is pressed.
+
+##### English translation
+Or he, who is called the one absolute lord of men, praise him, when the libation is effused, with magnifying songs, imploring his protection.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒हि श्रु॒तं वि॑प॒श्चितं॒ हरी॒ यस्य॑ प्रस॒क्षिणा॑ ।  
+> गंता॑रा दा॒शुषो॑ गृ॒हं न॑म॒स्विनः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुहि । श्रुतं । विर्पऽचितं । हरी इति । यस्य । प्रसक्षिणा ।  
+> गंतारा । दाशुषक । गृहं । नमस्विनः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः विपश्चितं विशिष्टज्ञानं श्रुतं विश्रुतं प्रख्यातं तमिंद्रं स्तुहि ।
+> प्रशंस । यस्येंद्रस्य हरी अश्व प्रसक्षिणा शत्रूणां प्रसहनशीलौ नमस्विनो
+> हविष्मतो दाशुषो दत्तवतो यजमानस्य गृहं गंतारा गमनशीलौ च तमिंद्रं
+> स्तुहीति संबंधः । गमेस्ताच्छिलिकस्त्रन् ॥
+
+##### Gist of the bhāṣya
+
+O eulogist, praise that Indra who is endowed with special knowledge (विपश्चितं (*vipaścitaṃ*)) and is renowned (श्रुतं (*śrutaṃ*)). The construction is: praise that Indra whose two bay horses are inclined to overpower enemies (प्रसक्षिणा (*prasakṣiṇā*)) and are given to going to the house of the sacrificer who has given (दाशुषः (*dāśuṣaḥ*)) and has oblations (नमस्विनः (*namasvinaḥ*)).
+
+### Printed p. 682
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O eulogist) यस्य (*yasya*)—of the Indra whose
+- हरी (*harī*)—horses
+- प्रसक्षिणा (*prasakṣiṇā*)—as destroyers of enemies
+- नमस्विनः (*namasvinaḥ*)—who has oblations
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer
+- गृहं (*gṛhaṃ*)—to the house
+- गंतारा (*gaṃtārā*)—enter, such (Indra)
+- विपश्चितं (*vipaścitaṃ*)—endowed with special knowledge
+- श्रुतं (*śrutaṃ*)—and renowned
+- स्तुहि (*stuhi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O eulogist, praise that Indra, endowed with special knowledge and renowned, whose horses, as destroyers of enemies, go to the house of the sacrificer who has oblations.
+
+##### English translation
+Praise the renowned, the sapient (Indra), whose victorious horses proceed to the dwelling of the devout donor (of the libation),
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तू॒तु॒जा॒नो म॑हेम॒तेऽश्वे॑भिः प्रषि॒तप्सु॑भिः ।  
+> आ या॑हि य॒ज्ञमा॒शुभिः॒ शमिद्धि ते॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तूतुजानः । महेऽमते । अश्वेभिः । प्रषितप्सुऽभिः ।  
+> आ । याहि । यज्ञं । आशुभिः । शं । इत् । हि । ते ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महेमतॆ । महते फलाय मतिर्बुद्धिर्यस्यासौ महेमतिः ॥ अलुक्
+> छांदसः ॥ स तादृश हे इंद्र तूतुजानस्वरमाणः सन् प्रुषितप्सुभिः स्निग्धरूपैराशुभिः शीघ्रगामभिरश्वेभिरश्चैर्यज्ञमस्मदीयमा याहि । आगच्छ । हि यस्मात्ते
+> तव तस्मिन्यज्ञे शमित् सुखं विद्यत एव अत आगच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O महेमते (*mahemate*): one whose mind (मतिः (*matiḥ*)) is set on great fruit (महेमतिः (*mahematiḥ*)); the lengthened form with अलुक् (*aluk*) is Vedic. O Indra, such as you are, hastening (तूतुजान (*tūtujāna*)), come to our sacrifice with your swift horses (आशुभिः (*āśubhiḥ*)) of glossy form (प्रुषितप्सुभिः (*pruṣitapsubhiḥ*)). Because there is indeed happiness (शमित् (*śamit*)) for you in that sacrifice, therefore come; such is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महेमते (*mahemate*)—O Indra, whose mind gives great fruit
+- तूतुजानः (*tūtujānaḥ*)—being hastened
+
+### Printed p. 683
+- प्रषितप्सुभिः (*praṣitapsubhiḥ*)—with charming form
+- आशुभिः (*āśubhiḥ*)—and swift-going
+- अश्वेभिः (*aśvebhiḥ*)—with horses
+- यज्ञं (*yajñaṃ*)—to our sacrifice
+- आ याहि (*ā yāhi*)—deign to come
+- हि (*hi*)—for
+- ते (*te*)—for you
+- शमित् (*śamit*)—there is happiness (in the sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of great fruit, hasten to come to us, and deign to come to our sacrifice with your horses of charming form and swift going. For there is happiness for you in the sacrifice.
+
+##### English translation
+Munificently minded, you, who are quick of movement, comc with shining and swift steeds to the sacrifice, for verilly there is gratification to you thereby.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ शविष्ठ सत्पते र॒यिं गृ॒णत्सु॑ धारय ।  
+> श्रवः॑ सू॒रिभ्यो॑ अ॒मृतं॑ वसुत्त्व॒नं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । शविष्ठ । सत्पते । रयिं । गृणत्सु ! धारय ।  
+> श्रवः । सूरिभ्यः । अमृतं । वसुत्वनं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शविष्ठ बलवत्तम सत्पते सतां पालयितरिंद्र गृणत्स्वस्मासु रयिं धनं
+> धारय । अवस्थापय । अपि च सूरिभ्यः स्तोतृभ्योऽमृतमनश्वरं वसुत्वनं व्याप्तिमच्छ्रवोऽन्नं यशो वा देहीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O most mighty (शविष्ठ (*śaviṣṭha*)), protector of the good (सत्पते (*satpate*)) Indra, establish (धारय (*dhāraya*)) wealth among us who praise (गृणत्सु (*gṛṇatsu*)). And give to the eulogists (सूरिभ्यः (*sūribhyaḥ*)) imperishable, far-reaching fame (श्रवः (*śravaḥ*)), food or renown; "give" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्य (*śaviṣya*)—O one of exceeding strength (शविष्ठ (*śaviṣṭha*) in the verse)
+- सत्पते (*satpate*)—protector of good people
+- इंद्र (*iṃdra*)—O Indra
+- गृणत्सु (*gṛṇatsu*)—among us the eulogists
+- रयिं (*rayiṃ*)—wealth
+- धारय (*dhāraya*)—establish
+- सूरिभ्यः (*sūribhyaḥ*)—**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 677. pp. 672-677 (batch API)
+**Progress note:** Done through printed p. 683. pp. 678-683 (batch API)
