@@ -21,3 +21,4 @@ Batches are of **15 printed pages** (not 30): a Kannada page is ~3 500 character
 | 12 | 360–367 | 18 | 11 | 7 questions; p. 366 not in the supplied text | see git log |
 | 13 | 368–382 | 32 | 30 | 3 questions; p. 372 not in the supplied text; 3 rows restore misprints of the source's own English (libitations, yoyage, whily) — easy to drop | see git log |
 | 14 | 383–397 | 18 | 18 | 0 questions; p. 390 not in the supplied text | see git log |
+| 15 | 398–412 | 24 | 19 | 7 questions; p. 408 not in the supplied text | see git log |

@@ -7323,11 +7323,11 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 ---
 
 **Rik 57.2, grammar (end)** *(p. 399, PDF 415 — grammar page, noted briefly)*
-- **iṣṭaye** (end): since *ktin* is *nit*, it would be initial-acute, but by *vyatyaya* … *mantre vṛṣeṣapacamanaviduṣyā…*: *ktin* acute; dative.
+- **iṣṭaye** (end): since *ktin* is *nit*, it would be initial-acute, but by *vyatyaya* … *mantre vṛṣeṣapacamanaviduṣyā…* (Pā. Sū. 3-3-96): *ktin* acute; dative.
 - **nimneva savanā**: both words are neuter plural; the *śi* that replaces *jas/śas* is dropped by *śeś chandasi bahulam* (Pā. Sū. 6-1-70).
-- **samaśīta**: *śīṅ svapne*, *adādi*; *laṅ* third singular, *ta*; *sārvadhātukam apit* makes it *ṅit*; *adiprabhṛtibhyaḥ śapaḥ*: *luk*; *guṇa* of *śīṅ* (*sārvadhātuke guṇaḥ*, Pā. Sū. 7-4-21) does not come, by *saṃjñāpūrvako vidhir anityaḥ* (Pari. 93); *aṭ*; *yat* before: no *nighāta*; the *aṭ* is acute.
-- **haryataḥ**: *hary gatikāntyoḥ*; *bhṛmṛdṛśīyajiparvibandhi…* (U. Sū. 3-110): *atac*; *citaḥ*: end-acute.
-- **śnathitā**: *śnatha kṣatha kratha hiṃsārthāḥ*; *tācchīlye tṛn*; *ārdhadhātukasyeḍ valādeḥ*: *iṭ*; *śnathitṛ*; *nit*: initial-acute; nominative singular *su*: *ṛdudaśanas…*: *anaṅ*; *aptṛntṛc…*: lengthening of the penultimate; *halṅyādi*: *su* dropped; *nalopaḥ prātipadikāntasya*: *n* dropped. **|| 2 ||**
+- **samaśīta**: *śīṅ svapne*, *adādi*; *laṅ* third singular, *ta*; *sārvadhātukam apit* makes it *ṅit*; *adiprabhṛtibhyaḥ śapaḥ*: *luk*; *guṇa* of *śīṅ* (*sārvadhātuke guṇaḥ*, Pā. Sū. 7-4-21) does not come, by *saṃjñāpūrvako vidhir anityaḥ* (Pari. 95); *aṭ*; *yat* before: no *nighāta*; the *aṭ* is acute.
+- **haryataḥ**: *hary gatikāntyoḥ*; *bhṛmṛdṛśīyajiparvibandhi…* (U. Sū. 3-390): *atac*; *citaḥ*: end-acute.
+- **śnathitā**: *śnatha knatha kratha hiṃsārthāḥ*; *tācchīlye tṛn*; *ārdhadhātukasyeḍ valādeḥ*: *iṭ*; *śnathitṛ*; *nit*: initial-acute; nominative singular *su*: *ṛdudaśanas…*: *anaṅ*; *aptṛntṛc…*: lengthening of the penultimate; *halṅyādi*: *su* dropped; *nalopaḥ prātipadikāntasya*: *n* dropped. **|| 2 ||**
 
 ---
 
@@ -7368,20 +7368,20 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **English Translation (the source's own, p. 401)** — "Beautiful Ushas, now present the oblation in this rite to the formidable, praise-deserving Indra, whose all-sustaining, celebrated and characteristic radiance has impelled him hither and thither, (in quest) of (sacrificial) food, as a charioteer drives his horses (in various directions)." *(Printed "Transation" [sic].)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 401**
-- **uṣaḥ** — "This is the name of a deity named Uṣas. In the Nirukta (Ni. 3-19) sixteen synonyms are given for Uṣas. The Nirukta, explaining the word *uṣas* as 'रात्रेरेव ह्यपरः कालः उष आप्यो भवतीति रात्रिनामभ्य उत्तराणि उषोनामानि (*rātrer eva hy aparaḥ kālaḥ uṣa āpyo bhavatīti rātrināmabhya uttarāṇi uṣonāmāni*)', clarifies the meaning of the word *uṣas* in the mantra '*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāya evā rātry uṣase yonim āraik*'" *(no reference number is printed for the mantra)*; *(I give the mantra, as printed, in three layers:)*
+- **uṣaḥ** — "This is the name of a deity named Uṣas. In the Nirukta (Ni. 2-19) sixteen synonyms are given for Uṣas. The Nirukta, explaining the word *uṣas* as 'रात्रेरेव ह्यपरः कालः उष आख्यो भवतीति रात्रिनामभ्य उत्तराणि उषोनामानि (*rātrer eva hy aparaḥ kālaḥ uṣa ākhyo bhavatīti rātrināmabhya uttarāṇi uṣonāmāni*)', clarifies the meaning of the word *uṣas* in the mantra '*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāya evā rātry uṣase yonim āraik*'" *(no reference number is printed for the mantra)*; *(I give the mantra, as printed, in three layers:)*
 
   > **इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुस्सवाय एवा रात्र्युषसे योनिमारैक् ॥**
 
   *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāya evā rātry uṣase yonim āraik ||* — **GLOSS** "In sum, the time of the latter half of the night is *uṣaḥ-kāla*, and the deity that presides over that time is Uṣas."
 - **panīyase** — "To the root *pan*, the sense of praise, the suffix added after it in the sense of 'excess': one who is most worthy of praise."
 - **na** — "The word *na* here means *saṃprati*, 'now' — the Nirukta (Ni. 7-31) 'अस्त्युपमार्थस्य संप्रत्यर्थे प्रयोग इहेव निधेहि (*asty upamārthasya saṃpratyarthe prayoga iheva nidhehi*)' establishes *na* as *ivārtha* and *saṃpratyartha*."
-- **indriyam** — "*Indrasya paramaiśvaryasya liṅgam*: it means the radiance of Indra — the radiance that displays the supreme sovereignty in Indra. Indra receives the share of the sacrifice, rich in oblation, through that radiance."
+- **indriyam** — "*Indratvasya paramaiśvaryasya liṅgam*: it means the radiance of Indra — the radiance that displays the supreme sovereignty in Indra. Indra receives the share of the sacrifice, rich in oblation, through that radiance."
 - **harito na** — "Here the sense is 'like horses': as riders drive their horses to the place they wish, Indra sends his radiance there to receive the share of the oblation."
 
 **Vyākaraṇa-prakriyā** *(pp. 401–402 — grammar pages, noted briefly)*
-- **asmai**: dative of *idam*; *ūḍidam…* (Pā. Sū. 6-1-171): ending acute.
+- **asmai**: dative of *idam*; *ūḍidam…* (Pā. Sū. 3-1-171): ending acute.
 - **uṣaḥ**: vocative, at the head of the pāda: no *nighāta*; *āmantritasya ca* (Pā. Sū. 6-1-198): initial-acute.
-- **śubhre**: *śubha dīptau*; *spāyitañcivañcy…* (U. Sū. 2-170, as printed): *rak*; *kit*: no *guṇa*; feminine *ṭāp*; vocative; *āmantritasya ca* (Pā. Sū. 8-1-19): *nighāta*.
+- **śubhre**: *śubha dīptau*; *svāyitañcivañciśaśi…* (U. Sū. 2-170, as printed): *rak*; *kit*: no *guṇa*; feminine *ṭāp*; vocative; *āmantritasya ca* (Pā. Sū. 8-1-19): *nighāta*.
 - **bhara**: *hṛ haraṇe*; *loṭ* second singular; *hi* for *sip*; *ato heḥ*: loss; *śap*; *hṛgrahor bhaś chandasi*: *bh*; *dvyaco 'tas tiṅaḥ* (Pā. Sū. 6-3-135): lengthening in the Saṃhitā (*bharā*; the Saṃhitā of this print has *bhara*).
 - **panīyase**: *pana vyavahāre stutau ca*; *uṇādayo bahulam*: *asun*: *panas*; in the sense of excess, *dvivacanavibhajyopapade tarabīyasunau*: *īyasun*; *ṭeḥ* drops *as*: *panīyas*; *nit*: initial-acute; dative.
 - **indriyam**: *indriyam indraliṅgam* (Pā. Sū. 5-2-93): *gha* (*ghac*) by *nipāta*; *citaḥ*: end-acute.
@@ -7428,7 +7428,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **prabhūvaso** — "By the derivation '*prabhūtaṃ vasu yasya*', one of special wealth; or, by this word the sense 'one who always increases his lordship' is shown."
 - **puruṣṭuta** — "*Purubhiḥ bahubhiḥ yajamānaiḥ stuta*: praised by all sacrificers who are consecrated for the sacrifice."
 - **girvaṇaḥ** — "*Gīrbhiḥ vananīyaḥ*: one who is always praised with hymns."
-- **nahi saghat** — "*Nahi prāpnoti*: the word, from the root *saghu hiṃsāyām*, ought to have meant 'does not hurt'; but by the rule *dhātūnām anekārthatvāt* ('roots have many meanings') it is shown to mean 'does not receive'."
+- **nahi saghat** — "*Nahi prāpnoti*: the word, from the root *ṣagha hiṃsāyām*, ought to have meant 'does not hurt'; but by the rule *dhātūnām anekārthatvāt* ('roots have many meanings') it is shown to mean 'does not receive'."
 - **prati no harya tad vacaḥ** — "Take special pleasure in the praise we speak. As an illustration: as the earth lovingly nourishes all the beings in it, so you, listening to our praise-words with regard, protect us."
 
 **Vyākaraṇa-prakriyā** *(p. 404 — grammar page, noted briefly; continues p. 405)*
@@ -7441,7 +7441,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **Rik 57.4, grammar (end)** *(p. 405, PDF 421 — grammar page, noted briefly)*
 - **ārabhya**: *rabha rābhasye*, *bhvādi*; *ktvā* with the prefix; since the *ā* is a prefix and the word is a compound, *samāse 'nañpūrve ktvo lyap* (no number printed): *lyap*; being *pit*, anudātta (so the root's accent stays).
 - **carāmasi**: *cara gatibhakṣaṇayoḥ*; *laṭ* first plural *masi* [*mas*]; *kartari śap*; *ato dīrgho yañi*: lengthening of the *a* before *m*; *idanto masi* (Pā. Sū. 7-1-46): *i* augment; no *nighāta*, because of the *ye* [= *yat*-word] before; *śap* is *pit*, anudātta; *lasārvadhātukam* [the *masi*] is also anudātta; the root's accent remains.
-- **saghat**: *saghu hiṃsāyām*; since roots have many meanings, here it is used in the sense of "reaching"; *dhātvādeḥ ṣaḥ saḥ*; *leṭ* third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: *i* dropped; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94): *aṭ*; *bahulaṃ chandasi*: *śap* → *luk*; at the beginning of a pāda: no *nighāta*; *pit*: anudātta; initial-acute of the root.
+- **saghat**: *ṣagha hiṃsāyām*; since roots have many meanings, here it is used in the sense of "reaching"; *dhātvādeḥ ṣaḥ saḥ*; *leṭ* third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: *i* dropped; *leṭo 'ḍāṭau* (Pā. Sū. 3-4-94): *aṭ*; *bahulaṃ chandasi*: *śap* → *luk*; at the beginning of a pāda: no *nighāta*; *pit*: anudātta; initial-acute of the root.
 - **kṣoṇīriva**: *kṣoṇī* ends in *ī*, hence always feminine; with *su* following, *halṅyābbhyo…* would drop it, but here the Veda keeps it; *sasajuṣo ruḥ*: *ru*.
 - **harya**: *hary gatikāntyoḥ* ("desire"); *loṭ* second singular *sip* → *hi*; *śap*; *ato heḥ*: *hi* dropped; *nighāta* by *tiṅ atiṅaḥ*. **|| 4 ||**
 
@@ -7493,8 +7493,8 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **asya**: *idam*, genitive singular; *ūḍidam…*: ending acute.
 - **stotuḥ**: *ṣṭuñ stutau*; *tṛc* in the agent sense; *citaḥ*: end-acute; genitive singular.
 - **pṛṇa**: *pṛṇa prīṇane*, *tudādi*; *loṭ* second singular *sip* → *hi*; *tudādibhyaḥ śaḥ*; *sārvadhātukam apit*; no *laghūpadhaguṇa* (*pugantalaghūpadhasya ca*); *ato heḥ*: *luk*; *tiṅ atiṅaḥ*: *nighāta*.
-- **mame**: *māṅ māne śabde ca*, *juhotyādi*; *jit*: *ātmanepada*; *liṭ* third singular; *ta* → *e* (*liṭas tajhayor eśirec*); *śit*-ness: *sarvādeśa*; since *liṅ*-nimitta: doubling; *hrasva*; *asaṃyogāl liṭ kit*: *kit*; *āto lopa iṭi ca* (Pā. Sū. 6-4-64): loss of *ā*; *nighāta*.
-- **neme**: *ṇamu prahvatve (śabde ca)*; *liṭ* third singular; *eś*; doubling; *kit*; since the root has a single consonant between *a*s, *atra*: *ata ekahalmadhye 'nādeśāder liṭi* (Pā. Sū. 6-4-120): *e* for the root-vowel and loss of the reduplicative; *neme*; *tiṅ atiṅaḥ*: *nighāta*. **|| 5 ||**
+- **mame**: *māṅ māne śabde ca*; *jit*: *ātmanepada*; *liṭ* third singular; *ta* → *e* (*liṭas tajhayor eśirec*); *śit*-ness: *sarvādeśa*; since *liṅ*-nimitta: doubling; *hrasva*; *asaṃyogāl liṭ kit*: *kit*; *āto lopa iṭi ca* (Pā. Sū. 6-4-64): loss of *ā*; *nighāta*.
+- **neme**: *ṇamu prahvatve (śabde ca)*; *liṭ* third singular; *eś*; doubling; *kit*; since the root has a single consonant between *a*s, *ata ekahalmadhye 'nādeśāder liṭi* (Pā. Sū. 6-4-120): *e* for the root-vowel and loss of the reduplicative; *neme*; *tiṅ atiṅaḥ*: *nighāta*. **|| 5 ||**
 
 ---
 
@@ -7528,27 +7528,27 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Translation of the bhāṣya:** "O *vajrin*, holder of the *vajra*, Indra, you, *taṃ parvatam*, that well-known cloud (*parvata*, the one with joints) or the Asura Vṛtra — *mahām*, great in extent, *urum*, broad — *vajreṇa*, with your thunderbolt, *parvaśaḥ*, joint by joint, *cakartitha*, cut up into pieces; and the waters *nivṛtāḥ*, enclosed by that cloud, *sartavai*, to flow, you *ava asṛjaḥ*, let down, turned the mouth downward. Therefore you alone *dadhiṣe*, hold, *viśvam kevalam sahaḥ*, all-pervading strength; none other: *satrā*, truly — *satra* is a name for truth, since 'satrā' is read among the names of truth ('*satrā itthā*')."
 
-**Pratipadārtha** *(p. 409)* — "**vajrin** — wielder of the thunderbolt; **indra** — O Indra; **tvam** — you; **tam** — that well-known; **mahān** — great; **urum** — wide; **parvatam** — cloud, or Vṛtra; **vajreṇa** — with your thunderbolt; **parvaśaḥ** — in each joint; **cakartitha** — cut up in pieces; **nivṛtāḥ** — enclosed by that cloud; **apaḥ** — waters; **sartavai** — to flow; **ava asṛjaḥ** — let down; **kevalam** — you alone; **viśvam sahaḥ** — all power; **dadhiṣe** — hold; **satrā** — this is truth."
+**Pratipadārtha** *(p. 409)* — "**vajrin** — wielder of the thunderbolt; **indra** — O Indra; **tvam** — you; **tam** — that well-known; **mahām** — great; **urum** — wide; **parvatam** — cloud, or Vṛtra; **vajreṇa** — with your thunderbolt; **parvaśaḥ** — in each joint; **cakartitha** — cut up in pieces; **nivṛtāḥ** — enclosed by that cloud; **apaḥ** — waters; **sartavai** — to flow; **ava asṛjaḥ** — let down; **kevalam** — you alone; **viśvam sahaḥ** — all power; **dadhiṣe** — hold; **satrā** — this is truth."
 
 **Bhāvārtha** *(p. 409)* — "O Indra, wielder of the thunderbolt, you cut that great, broad, well-known cloud into pieces, joint by joint, with your thunderbolt, and let down the waters shut up in it to flow. Therefore it is true that you alone possess all power."
 
 **English Translation (the source's own, p. 409)** — "Weilder [sic] of the thunderbolt, you have shattered with your bolt, the broad and massive cloud into fragments, and have sent down the waters that were confined in it, to flow (at will); verily you alone possess all power."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 409–410**
-- **mahān** — "Great in extent."
+- **mahām** — "Great in extent."
 - **parvatam** — "This word is explained as the cloud (Ni. 2-21), or Vṛtra the Asura in the form of a cloud, or the mountain. Yāska says 'पर्ववान् पर्वतः । पर्व पुनः प्रीणातेर्वा । देवानस्मिन् प्रीणन्तीति । मेघोऽपि गिरिरेतस्मादेव (*parvavān parvataḥ | parva punaḥ prīṇāter vā | devān asmin prīṇantīti | megho 'pi girir etasmād eva*)' (Ni. 1-20)." *(The sense: 'a parvata has joints; "parva" is from "prī", to please; the gods are pleased in it; the cloud too is a *giri*, from the same'.)*
 - **satrā** — "It conveys the sense of 'truth'. In the Nirukta the word *satrā* is read among the synonyms of truth: '*satrā itthā*' (Ni. 3-10)."
 - **parvaśaḥ** — "Joint by joint; in pieces."
 
 **Vyākaraṇa-prakriyā** *(pp. 410–411 — grammar pages, noted briefly)*
-- **mahān**: *mahat*; in the accusative singular *mahāntam*; in the Saṃhitā, *n* and *t* are lost in the Veda.
+- **mahām**: *mahat*; in the accusative singular *mahāntam*; in the Saṃhitā, *n* and *t* are lost in the Veda.
 - **parvaśaḥ**: *saṃkhyaikavacanāc ca vīpsāyām* (Pā. Sū. 5-4-43): *śas* is added to the word *parva* whose sense is "one by one" when repetition is meant.
 - **cakartitha**: *kṛtī chedane*; *liṭ* second singular; *parasmaipadānām ṇalatusus…*: *thal*; doubling; *halādiḥ śeṣaḥ*; *ur at*; *kuhoś cuḥ*: *c*; *ārdhadhātukasyeḍ valādeḥ*: *iṭ*; *pugantalaghūpadhasya ca*: *guṇa*; *tiṅ atiṅaḥ*: *nighāta*.
 - **asṛjaḥ**: *sṛja visarge*, *tudādi*; *laṅ* second singular; *śa*; no *laghūpadha-guṇa*; *nighāta*.
 - **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ* (Pā. Sū. 3-4-14): *tavai* in the sense of the action; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; *kṛn mejantaḥ* (Pā. Sū. 1-1-39): *avyaya*; *avyayād āpsupaḥ* (Pā. Sū. 2-4-82): *luk* [of the case ending]; *antaś ca tavai yugapat* (Pā. Sū. 6-1-200): both the first and final syllables are acute at once.
-- **dadhiṣe**: *ḍudhāñ*; Vedic *liṭ*; *thāsaḥ se*: *se*; doubling; *hrasva*; *jaśtva*; *kṛsṛbhṛvṛstudru…*: *iṭ* is allowed here because of *kṛsṛ…* limit — so *iṭ*; *asaṃyogāl liṭ kit*: *kit*; *ātolopa iṭi ca*: loss of *ā*; *ṣatva*; *tiṅ atiṅaḥ*: *nighāta*. **|| 6 ||**
+- **dadhiṣe**: *ḍudhāñ*; Vedic *liṭ*; *thāsaḥ se*: *se*; doubling; *hrasva*; *jaśtva*; *krādiniyama*: though *aniṭ*, it takes *iṭ* in *liṭ*; *asaṃyogāl liṭ kit*: *kit*; *ātolopa iṭi ca*: loss of *ā*; *ṣatva*; *tiṅ atiṅaḥ*: *nighāta*. **|| 6 ||**
 
-**Closing note** *(p. 411, printed large)* — "**ಐವತ್ತೇಳನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-seventh sūkta is ended."
+**Closing note** *(p. 411, printed large)* — "**ಐವತ್ತ ಏಳನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-seventh sūkta is ended."
 
 ---
 
