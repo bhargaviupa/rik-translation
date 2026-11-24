@@ -30528,6 +30528,294 @@ Most resplendent (Agni), shine forth and illuminate (us); give happiness to your
 
 O Agni, just as you burn thoroughly dry wood lying on the earth (the root is of the sense of injury, and the meaning is that you burn it well), so burn, O Mitramahas, whoever among those hostile to us, an evil-minded one, desires to harm us; burn him. **NOTE**
 
+### Printed p. 673
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रमहः (*mitramahaḥ*)—O worshipful one, to us who are your friends
+- अग्ने (*agne*)—O Agni
+- क्षमि (*kṣami*)—on the earth
+- वृद्धं अतसं (*vṛddhaṃ atasaṃ*)—old, dry wood
+- यथा चित् (*yathā cit*)—in the way in which
+- संबूर्वसि (*saṃbūrvasi*)—you burn completely **NOTE**
+- एव (*eva*)—in the same way
+- यः कश्च (*yaḥ kaśca*)—whoever
+- दुर्मन्मा (*durmanmā*)—being evil-minded
+- अस्मध्रुक् (*asmadhruk*)—wishing us harm
+- वेनति (*venati*)—who wishes to deceive us, him too
+- दह (*daha*)—burn completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, worshipful to us all who are your friends, as you burn completely old, dry wood lying on the earth, in the same way burn completely whoever, being evil-minded and wishing us harm, desires to deceive us.
+
+##### English translation
+As, Agni, you consume old timber on the earth, so cherisher of friends, do you burn our injurer, whoever evil-minded wishes (our ill).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॒ मर्ता॑य रि॒पवे॑ रक्ष॒स्विने॒ माघशं॑साय रीरधः ।  
+> अस्रे॑दद्भिस्त॒रणि॑भिर्यविष्ठ्य शि॒वेभिः॑ पाहि पा॒युभिः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । मर्ताय । रिपवे । रक्षस्विने । मा । अघशंसाय । रीरधः ।  
+> अस्रेधत्भिः । तरणिभिः । यविष्ठ्य । शिवेभिः । पाहि । पायुभिः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मान्मर्ताय मरणधर्माय रिपवे शत्रवे हिंसित्रे रक्षस्विने बलवते
+> मा रीरधः । वशमानये । तथाघशंसाय पापशंसकाय मा रीरधः । हे यविष्ठ्य
+> युवतम अस्रेधद्भिरहिंसकैस्तरणिभिस्तारकैः शिवेभिः सुखकर्वैः पायुभिः पालनैर्नोऽस्मान्पाहि । रक्ष ॥
+> XXIV 43
+
+##### Gist of the bhāṣya
+
+Do not subject us to a mortal, that is, a creature subject to death, an enemy, a injurer, a strong one (the sense is: do not bring us under his control); likewise not to one who speaks of sin. O most youthful Agni, protect us with protections that do not harm, that carry across, that bring happiness.
+
+### Printed p. 674
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्य (*yaviṣya*)—O Agni, the very youthful
+- रक्षस्विने (*rakṣasvine*)—to the one endowed with strength
+- मर्ताय (*martāya*)—and of human form
+- रिपवे (*ripave*)—to the injuring enemy
+- नः (*naḥ*)—us
+- मा रीरधः (*mā rīradhaḥ*)—do not hand over
+- अघशंसाय (*aghaśaṃsāya*)—to one who wishes us harm too
+- मा (*mā*)—do not hand us over
+- अस्रेधद्भिः (*asredhadbhiḥ*)—that do not injure
+- तरणिभिः (*taraṇibhiḥ*)—that carry across sorrow
+- शिवेभिः (*śivebhiḥ*)—that are auspicious
+- पायुभिः (*pāyubhiḥ*)—with protections
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the very youthful, do not hand us over to an injuring enemy who is strong and of human form. Do not hand us over to one who wishes us harm. Protect us with protections that do not injure, that carry us across sorrow and that are auspicious.
+
+##### English translation
+Subject us not to a strong mortal enemy, nor to the malevolent; O most youthful, guard us with your unharming delivering, auspicious protections.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒हि नो॑ अग्न॒ एक॑या पा॒ह्यु१॒॑ १ त द्वि॒तीय॑या ।  
+> पा॒हि गी॒र्भिस्ति॒ सृभि॑रूर्जा० पते पा॒हि च॑त॒सृभि॑र्वसो ॥ ९ ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पाहि । नः । अग्ने । एकया । पाहि । उत । द्वितीयया ।  
+> पाहि । गीःभिः । तिसृभिः । ऊर्जां । पते । पाहि । चतसृभिः । वसो इति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नोऽस्मानेकयर्चा गिरा पाहि । रक्ष । उतापि च द्वितीयॆयर्चा
+> पाहि । पालय । पाहि । तिसृभिर्गिर्भिरूर्जामन्नानां बलानां वा पते स्वामिन् ।
+> तथा पाहि चतसृभिर्गर्भिर्हे वसो वासकाग्ने ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect us with one ṛc, one hymn, and also protect us with a second ṛc. Protect us with three hymns, O lord of foods or of strengths, O master. Likewise protect us with four hymns, O Vasu, dweller-giving Agni.
+
+### Printed p. 675
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—us
+- एकया (*ekayā*)—with a single utterance in the form of a ṛc
+- पाहि (*pāhi*)—protect
+- उत (*uta*)—and
+- द्वितीयया (*dvitīyayā*)—with a second ṛc
+- पाहि (*pāhi*)—protect
+- ऊर्जां पते (*ūrjāṃ pate*)—O Agni, protector of food
+- त्रिसृभिः (*trisṛbhiḥ*)—with three **NOTE**
+- गीर्भिः (*gīrbhiḥ*)—utterances (in the form of ṛcs)
+- पाहि (*pāhi*)—protect
+- वसो (*vaso*)—O Agni, giver of dwelling
+- चतस्सृभिः (*catassṛbhiḥ*)—with a group of four ṛcs
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us with our utterance of a single ṛc and with a group of utterances of two ṛcs. Further, O protector of food, protect us with a group of three ṛcs. O giver of dwelling, protect us also with a group of four ṛcs. **NOTE**
+
+##### English translation
+Agni, protect us by one (rich), or protect us by a second ; lord of strength. protect ns by three songs ; protect us, giver of dwellings, by four. **NOTE**
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒हि विश्व॑स्माद्र॒क्षसो॒ अरा॑व्लः॒ प्र स्म॒ वाजे॑षु नोऽव ।  
+> त्वामिद्धि नेदि॑ष्ठं दे॒वता॑तय आ॒सिं नक्षा॑महे वृ॒धे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पाहि । विश्वस्मात् । रक्षसः । अराव्नः । प्र । स्म । वाजेषु । नः । अव ।  
+> त्वां । इत् । हि । नेदिष्टं । देवतातये । आपिं । नक्षामहे । वृधे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विश्वस्मात्सर्वस्माद्रक्षसोऽरावोऽदातुः सकाशात्पाहि । रक्षास्मान् ।
+> वाजेषु संग्रामेषु नोऽस्यान् प्राव । प्रकर्षेण रक्ष । स्मेति पूरणः । हि यस्मान्नेदिष्टमासन्नमापिं बंधुभूतं त्वामित्तामेव देवतातये यज्ञाय यज्ञसिद्ध्यर्थं वृधे वर्धनाय नक्षामहे व्याप्नुमः । नक्षतिर्वाप्तिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect us from every rākṣasa, from the one who does not give. In battles protect us fully; the particle स्म (*sma*) is a filler. Because you are nearest, close, a kinsman, you alone do we approach for the sacrifice, to accomplish the sacrifice, and for increase; the root meaning is that of obtaining.
+
+### Printed p. 676
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आराव्हः (*ārāvhaḥ*)—of the non-givers **NOTE**
+- विश्वस्मात् रक्षसः (*viśvasmāt rakṣasaḥ*)—from all enemies
+- पाहि (*pāhi*)—protect
+- वाजेषु (*vājeṣu*)—in battles
+- नः (*naḥ*)—us
+- प्र अव (*pra ava*)—protect fully
+- हि (*hi*)—because
+- नेदिष्टं (*nediṣṭaṃ*)—who are nearest to us
+- आपिं (*āpiṃ*)—a kinsman
+- त्वां (*tvāṃ*)—you
+- इत् (*it*)—alone
+- देवतातये (*devatātaye*)—for the sacrifice, the work of the gods
+- वृधे (*vṛdhe*)—and for our increase
+- नक्षामहे (*nakṣāmahe*)—we approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us from all injuring enemies, the non-givers. Protect us fully in battles. Because we approach you alone, who are nearest to us and a kinsman, for the sacrifice, the work of the gods, and for our increase.
+
+##### English translation
+Protect us from every impious Rakshasa, shield us in battles; we approach you, our nearest neighbour, our kinsman, for sacrifice and for increase.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ अग्ने वयो॒वृधं॑ र॒यिं पा॑वक॒ शंस्यं॑ ।  
+> रास्वा॑ च न उपमाते पुरु॒स्पृहं॒ सुनी॑ती॒ स्वय॑शस्तरं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । आग्ने । वयःवृधं । रयिं । पावक । शंस्यं ।  
+> रास्व । च । नः । उपमाते । पुरुस्पृहं । सुनीती । स्वयशःतरं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने पावक शोधक वयोवृधमन्नस्य वर्धकं शंस्यं शंसनीयं
+> रयिं धनं नोऽस्मभ्यमा हरेति शेषः । आहृत्य च हे उपमाते । उपास्मत्समीपे
+> माति नो धनमित्युपमातिः । हे तादृशाग्ने नोऽस्मभ्यं सुनीती सुनीत्या
+> शोभननयनेन पुरुस्पृहं बहुभिः स्पृहणीयं स्वयशस्तरमत्यंतं स्वभूतकीर्ति
+> धनं रास्व च । देहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, purifier, bring to us wealth that increases food and is praiseworthy (the verb "bring" is to be supplied). And having brought it, O Upamāti, one who measures our wealth close to us, O Agni such as you are, give us, by good guidance, wealth desired by many and bringing exceedingly its own fame.
+
+### Printed p. 677
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पावक (*pāvaka*)—O purifier
+- अग्ने (*agne*)—O Agni
+- वयोवृधं (*vayovṛdhaṃ*)—that increases our food
+- शंस्यं (*śaṃsyaṃ*)—and is praiseworthy
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—to us
+- आ (हर) (*ā (hara)*)—bring hither
+- उपमाते (*upamāte*)—O Agni, who are near us and see the measure of our wealth
+- नः (*naḥ*)—to us
+- सुनीति (*sunīti*)—by the most excellent way
+- पुरुस्पृहं (*puruspṛhaṃ*)—desired by many
+- स्वयशस्तरं (*svayaśastaraṃ*)—and bringing excellent fame **NOTE**
+- रास्व (*rāsva*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, purifier, bring us wealth that increases our food and is praiseworthy. O Agni, who are near us and see the measure of our wealth, give us, by the most excellent way, wealth that is desired by many and is the cause of excellent fame.
+
+##### English translation
+Purifying Agni, bestow upon us food-augmenting excellent wealth ; and (bring) us, O meter-out of good, by auspicious guidance, (a treasure) desired by many and bringing its own fame.
+
+#### Ṛk 12
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॒ वंसा॑म॒ पृत॑नासु॒ शर्ध॑त॒स्तरं॑तो अ॒र्य आ॒दिशः॑ ।  
+> स त्वं नो॑ वर्ध॒ प्रय॑सा शचीवसो॒ जिन्वा॒ धियो॑ वसु॒विदः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । वंसाम । पृतनासु । शर्धतः । तरंतः । आर्यः । आदिशः ।  
+> सः । त्वं । नः । वर्ध । प्रयसा । शचीवसो इति शचीवसो। जिन्न । धियः । वसुविदः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येन धनेन हृतनासु संग्रामेषु शर्धतो वेगं कुर्वतोऽर्योऽरीञ्छत्रूनादिक अदेष्ट्वाञ्स्त्रप्रक्षेप्तांस्तरंतो वंसाम हिंसाम तद्धनं देहि । हे
+> शचीवसो प्रज्ञया वासयितः कर्म धनं वा स प्रसिद्धस्त्वं नोऽस्मान्वर्ध । वर्धय ।
+
+##### Gist of the bhāṣya
+
+By which wealth we may strike down, in battles, the enemies who press on with speed and who hurl weapons, give us that wealth. O Śacīvasu, one who causes to dwell by wisdom, or one whose wealth is rites: you, the famous one, make us grow. **NOTE**
+
+### Printed p. 678
+
+> प्रीणयॆ । प्रयसान्नेन त्वं वा वर्ध । अस्मदीयेन प्रयसा हविषा वसुविदो
+> वसूनां लंभकानि धियः कर्माण्यस्मदीयानि जिन्न । प्रीणय ॥
+
+##### Gist of the bhāṣya
+
+Satisfy us. Or else: you grow with food; with our oblation, satisfy our rites, which are the finders of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीवसो (*śacīvaso*)—O Agni, who have wealth in the form of rites
+- येन (*yena*)—by which wealth
+- पृतनासु (*pṛtanāsu*)—in battles
+- शर्धतः (*śardhataḥ*)—who fall swiftly upon us
+- आदिशः (*ādiśaḥ*)—and who hurl weapons
+- अर्यः (*aryaḥ*)—enemies
+- तरंतः (*taraṃtaḥ*)—making fall back
+- वंसाम (*vaṃsāma*)—may we be able to injure them, give such wealth
+- सः (*saḥ*)—famous
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- प्रयसा (*prayasā*)—with foods
+- वर्ध (*vardha*)—make grow
+- वसुविदः (*vasuvidaḥ*)—which increase our wealth
+- धियः (*dhiyaḥ*)—the rites
+- जिन्व (*jinva*)—bring to completion
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have wealth in the form of rites, give us such wealth by whose help we may defeat and injure in battles the enemies who fall swiftly upon us and hurl weapons. You, the famous one, make us grow with foods. Bring to completion the rites that increase our wealth.
+
+##### English translation
+By which we may escape and destroy in battles our impetuous weapon - aiming enemies ; O you who by wisdom establish our rites, bless us with food, prosper our wealth-obtaining offerings.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शिशा॑नो वृष॒भो य॑था॒ग्निः शृंगे॒ दवि॑ध्वत् ।  
+> ति॒ग्मा अ॑स्य॒ हन॑वो॒ न प्र॑ति॒धृषे॑ सु॒जंभः॒ सह॑सो य॒हुः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिशानः । वृषभः । यथा । अग्निः । शृंगे इति । दविध्वत् ।  
+> तिग्माः । अस्य । हनवः । न । प्रतिधृषे । सुजंभः । सहसः । यॆहुः ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 672. Mandala 8 Sukta 60 rks 1-7 (pp. 667-672)
+**Progress note:** Done through printed p. 678. Mandala 8 Sukta 60 rks 8-13 (pp. 673-678)
