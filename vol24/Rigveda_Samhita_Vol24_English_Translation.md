@@ -11393,6 +11393,367 @@ Sing aloud (priests) to the fierce, Victorious (Indra) the overpowerer, the subd
 > यः । विश्वानि । अभि । व्रता । सोमस्य । मदे । अंधसः ।  
 > इंद्रः । देवेषु । चेतति ॥ २८ ॥
 
+### Printed p. 254
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंधसोऽद्यमानस्य सोमस्य मदे संजाते विश्वानि सर्वाणि व्रता व्रतानि
+> कर्माणि य इंद्रो देवेष्वभि चेतति ज्ञापयति तस्मा इंद्राय देवत्तं ब्रह्म
+> गायतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the exhilaration that arises from the Soma-food being consumed, Indra makes known among the gods all pious acts (व्रता (*vratā*) means rites). The sense is: to that Indra sing the hymn obtained through the favour of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंधसः (*aṃdhasaḥ*)—of the Soma fit to be eaten (fit to be drunk)
+- सोमस्य (*somasya*)—of the Soma juice
+- मदे (*made*)—when exhilaration has arisen
+- यः (*yaḥ*)—which Indra
+- विश्वानि (*viśvāni*)—all
+- व्रता (*vratā*)—deeds of valour
+- देवेषु (*deveṣu*)—among the gods
+- अभि चेतति (*abhi cetati*)—makes known; sing the Sāman to such an Indra
+
+##### भावार्थ (Bhāvārtha)
+
+O Udgātṛs, when Indra is exhilarated by the Soma juice fit to be drunk, that Indra makes many deeds of valour known to the gods. Praise such an Indra by singing Sāman mantras in the form of hymns addressed to him.
+
+##### English translation
+Indra who, in the exhilaration of the quaffed Soma, makes known among the gods all pious rites.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह त्या स॑ध॒माद्या॒ हरी॒ हिर॑ण्यकेश्या ।  
+> वो॒ळ्ळाम॒भि प्रयो॑ हि॒तं ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । त्या । सधमाद्या । हरी इति । हिरण्यकेश्या ।  
+> वोळ्ळां । अभि । प्रयः । हितं ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इह । त्या । सध्वमाद्या । हरी इति । हिरण्यकेश्या ।
+> वोळ्हां । अभि । प्रयः । हितं ॥ २९ ॥
+> इह यज्ञे त्या तौ प्रसिद्धौ सधमाद्या सह माद्यंतौ हिरण्यकेश्या हिरण्यकेश्यौ
+> हरी अश्वा हितं हितकरं प्रयः सोमरूपमन्नमभ्यभिलक्ष्य वोळ्हां । इंद्रं
+> वहतां । प्रापयतामिति ॥
+
+##### Gist of the bhāṣya
+
+Here, in this sacrifice, those two well-known horses of Indra, who rejoice together (सधमाद्या (*sadhamādyā*)) and are golden-maned (हिरण्यकेश्या (*hiraṇyakeśyā*)), are to bring Indra here, conveying him towards the beneficial food, that is, the food in the form of Soma; "let them carry" means let them bring Indra.
+
+### Printed p. 255
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इह (*iha*)—in this sacrifice
+- त्या (*tyā*)—the well-known (two)
+- सधमाद्या (*sadhamādyā*)—who are always together and rejoicing
+- हिरण्यकेश्या (*hiraṇyakeśyā*)—shining with manes that glitter like gold
+- हरी (*harī*)—the two horses of Indra
+- हितं (*hitaṃ*)—beneficial
+- प्रयः अभि (*prayaḥ abhi*)—towards the food in the form of Soma, with the desire for it (in order to eat it)
+- वॊळ्तां (*vòḷtāṃ*)—let them bring Indra **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+May those well-known horses of Indra, who are always together and happy, adorned with a row of hair on the neck that glitters like gold, bring Indra to this sacrificial ground, towards the food in the form of Soma.
+
+##### English translation
+May those two golden-maned steeds, together exulting, bring him hither to the salutaey (sacrificial) food.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वांचं॑ त्वा पुरुष्टुत प्रि॒यमे॑धस्तुता॒ हरी॑ ।  
+> सो॒म॒पेया॑य वक्षतः ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वाचं । त्वा । पुरुस्तुत । प्रियमेधस्तुता । हरी इति ।  
+> सोमपेयाय । वक्षतः ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरष्टुतेंद्र त्वा त्वां प्रियमेधस्तुता हरी अश्वा सोमपेयाय
+> सोमपानायार्वांचमस्मदभिमुखं वक्षतः । वहतः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, praised by many, your two horses, praised by Priyamedha, are to carry you towards us for the drinking of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुषत (*puruṣata*)—O Indra, praised by many
+- त्वा (*tvā*)—you
+- प्रियमेधस्तुता (*priyamedhastutā*)—praised by me, who am named Priyamedha
+- हरी (*harī*)—the horses
+- सोमपेयाय (*somapeyāya*)—for the drinking of Soma
+- अर्वांचं (*arvāṃcaṃ*)—facing us
+- वक्षतः (*vakṣataḥ*)—let them bring
+
+### Printed p. 256
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised by many people, may your horses, praised by me, who am famed by the name Priyamedha, bring you to us, facing us, for the drinking of Soma.
+
+##### English translation
+Indra, the glorified of many, let your horses, praised by Priyamedha, bring you down to drink the Soma.
+
+## Sūkta 33 (Maṇḍala 8)
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयं घ त्वेत्येकोनविंशत्यृचं तृतीयं सूक्तं काण्वस्य मेध्यातिथेरार्षं
+> बृहतीछंदस्कं। षोडश्याद्यास्ति स्रो गायत्र्य एकोनविंश्यनुष्टुप् । इंद्रो देवता।
+> तथा चानुक्रांतं । वयं फैकोना मेध्यातिथिर्भार्हतं त्रिगायत्र्यनुष्टुबंतमिति॥
+> महाव्रते निष्केवल्ये बार्हततृचाशीतावादितः पंचदशर्चः । तथैव पंचमारण्यके
+> शौनकेन सूत्रते । वयं घ त्वा सुतावंत इति पंचदश नो షు त्वा नाघतश्चनेत्येतस्य
+> द्विपदां चोद्धरति । ऐ. आ. ५-२-४ । इति ॥ चातुर्विंशिकेऽहनि माध्यंदिनसवने
+> ब्राह्मणाच्छंसिशस्त्रे वयं घ त्वेति तृचो वैकल्पिकः स्तोत्रियः । तथा च सूत्रं ।
+> वयं घ त्वा सुतावंतः क ईं वेद सुते सचा । आ. ७-४ । इति ॥ स्वरसाम्ययमेव
+> तृचोऽनुरूपः । सूत्रितं च । वयं घ त्वा सुतावंत इति तिस्रो बृहत्यः । आ. ८-५ ।
+> इति ॥ तस्मिन्नेव शस्त्रे क ईं वेदेति वैकल्पिकोऽनुरूपः । सूत्रमुक्तमेव ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning वयं घ त्वा (*vayaṃ gha tvā*) is the third hymn, of nineteen Ṛks, with Medhyātithi Kāṇva as seer, in the Bṛhatī metre; the three Ṛks beginning with the sixteenth are Gāyatrī, and the nineteenth is an Anuṣṭubh. Indra is the deity. The Anukramaṇī says the same: Medhyātithi, Bārhata, three Gāyatrīs, ending with an Anuṣṭubh. Use: in the Mahāvrata, in the Niṣkevalya, the first fifteen Ṛks are used as Bārhata tṛcas **NOTE**. Śaunaka states this in the fifth Āraṇyaka (Ai. Ā. 5-2-4) **NOTE**. On the Cāturviṃśika day, at the midday pressing, in the Brāhmaṇācchaṃsin's recitation, the three Ṛks beginning वयं घ त्वा (*vayaṃ gha tvā*) are an optional Stotriya tṛca; the sūtra says वयं घ त्वा सुतावंतः क ईं वेद सुते सचा (*vayaṃ gha tvā sutāvaṃtaḥ ka īṃ veda sute sacā*) (Ā. 7-4). In the same way this tṛca is the Anurūpa (the bhāṣya reads स्वरसाम्ययमेव (*svarasāmyayameva*) **NOTE**); the sūtra says वयं घ त्वा सुतावंत इति तिस्रो बृहत्यः (*vayaṃ gha tvā sutāvaṃta iti tisro bṛhatyaḥ*) (Ā. 8-5). In that same recitation the tṛca क ईं वेद (*ka īṃ veda*) is the optional Anurūpa; the sūtra has been quoted. **NOTE**
+
+##### Anuvāda
+
+This hymn, beginning वयं घ त्वा (*vayaṃ gha tvā*), is the third hymn in the fifth Anuvāka. It has nineteen Ṛks. Its seer is Medhyātithi Kāṇva; the deity is Indra; the metre is Bṛhatī, but the three Ṛks from the sixteenth onwards are in the Gāyatrī metre. The Anukramaṇī says: वयं फैकोना मेध्यातिथिर्बार्हतं त्रिगायत्र्यनुष्टुबंतं (*vayaṃ phaikonā medhyātithirbārhataṃ trigāyatryanuṣṭubaṃtaṃ*). In the Mahāvrata rite, at the time of reciting the Niṣkevalya śastra mantras, the first fifteen Ṛks of this hymn are applied to the Ṛks of Bṛhatī metre, as is expounded by the sage Śaunaka in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sūtra वयं घ त्वा सुतावंत इति पंचदश मो षु त्वा वाघतश्च नेत्येतस्य द्विपदां चोद्धरति (*vayaṃ gha tvā sutāvaṃta iti paṃcadaśa mo ṣu tvā vāghataśca netyetasya dvipadāṃ coddharati*) (Ai. Ā. 5-2-4). In the day called Cāturviṃśika of the sacrifice, at the time of the midday pressing, among the śastra mantras that the priest called Brāhmaṇācchaṃsin has to recite, the three Ṛks beginning with वयं घ त्वा (*vayaṃ gha tvā*) are to be recited as the optional Stotriya tṛca
+### Printed p. 257
+as is expounded by the Āśvalāyana Śrauta Sūtra, वयं घ त्वा सुतावंतः क ईं वेद सुते सजा (*vayaṃ gha tvā sutāvaṃtaḥ ka īṃ veda sute sajā*) (Ā. 2-4). In the rite called स्वरसाम्मियॆंब (*svarasāmmiyèṃba*) too, these three Ṛks are to be recited as the Anurūpa tṛca, as expounded by the Āśvalāyana Śrauta Sūtra, वयं घ त्वा सुतावंतॆ इति तिस्रो बृहत्यः (*vayaṃ gha tvā sutāvaṃtè iti tisro bṛhatyaḥ*) (Ā. 2-5). In the śastra mantras of the same rite, the tṛca beginning क ईं वेद (*ka īṃ veda*) (the Ṛks 7 to 9 of this hymn) is to be recited as the Anurūpa tṛca; the sūtra that lays this down (Ā. 2-4) is thus indicated.
+
+##### Particulars
+
+- Maṇḍala: 8
+- Anuvāka: 5
+- Sūkta: 33
+- Aṣṭaka: 6
+- Adhyāya: 3
+- Varga: 7, 8, 9, 10
+- Number of Ṛks in the hymn: 19
+- Ṛṣi: Medhātithi Kāṇva
+- Devatā: Indra
+- Chandas: Ṛks 1 to 15 Bṛhatī; Ṛks 16 to 18 Gāyatrī; Ṛk 19 Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं घ॑ त्वा सु॒तावं॑त॒ आपो॒ न वृ॒क्तब॑र्हिषः ।  
+> प॒वित्र॑स्य प्र॒स्रव॑णेषु वृत्रह॒न्परि॑ स्तो॒तार॑ आसते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । घ । त्वा । सुतवंतः । आपः । न । वृक्तबर्हिषः ।  
+> पवित्रस्य । प्रस्रवणेषु । वृत्तहन् । परि । स्तोतारः । आसते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन्निंद्र त्वा त्वां वयं घ वयं खलु सुतवंतः सोममभिषुतवंत
+> आपो नाप इव प्रवणमभिगच्छामः । पवित्रस्य सोमानां प्रस्रवणेषु व्यक्तबर्हिषः
+> स्तीर्णबर्हिषः स्तोतारश्च त्वां पर्युपासते ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slayer of Vṛtra, we, who have pressed the Soma, come to you as waters go to a slope. And at the flowing of the pure Soma, the praisers who have strewn the grass (व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*), glossed स्तीर्णबर्हिषः (*stīrṇabarhiṣaḥ*), "with grass spread") sit around and attend you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Indra, slayer of Vṛtra
+- त्वा (*tvā*)—with reference to you
+- वयं (*vayaṃ*)—we
+- सुतवंतः (*sutavaṃtaḥ*)—pressing the Soma juice
+- आपोन (*āpona*)—like water that flows down to a low-lying entrance
+### Printed p. 258
+- पवित्रस्य (*pavitrasya*)—of the pure Soma
+- प्रस्रवणेषु (*prasravaṇeṣu*)—when it has been pressed and prepared; we are performing the pressing of Soma
+- व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*)—who have spread, as a seat for you to come and sit in the sacrifice, the cut darbha grass and prepared it
+- स्तोत्रारः (*stotrāraḥ*)—the priests who are reciting hymns, attend you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, just as water flows to low ground and comes to rest, the Soma juice that we press for you flows in the sacrifice that we perform, gathers together and comes to rest in one place. When such Soma has been prepared for you, the priests, having made ready a seat of darbha grass for your coming and sitting, serve you with hymns and the like.
+
+##### English translation
+We are pouring forth to you the Soma juice like water: the praisers strewing the clipped sacred grass, worship you, slayer of Vritra, in the, streams (falling) from the filter.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वरं॑ति त्वा सु॒ते नरो॒ वसो॑ निरे॒क उ॒क्किनः॑ ।  
+> क॒दा सु॒तं तृ॑षा॒ण ओक॒ आ ग॑म॒ इंद्र॑ स्व॒ब्दीव॒ वंस॑गः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वरंति । त्वा । सुते । नरः । वसो इति । निरेके । उक्किनः ।  
+> कदा । सुतं । तृषाणः । ओकः । आ । गमः । इंद्र । स्वब्दीऽइव । वंसगः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासयितरिंद्र त्वा त्वां सुतेऽभिषुते सोमे निरेके निर्गमन
+> उक्तिनो नरो नेतारः स्वरंति । शब्दायंते । अपि चेंद्रः सुतं सोमं प्रति
+> तृषाणस्तृष्यन् स्वद्बीव स्वभूतशब्द इव वंसगो वननीयगमनो वृषभः शब्दं
+> कुर्वन् तदौकः स्थानमागमत् ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, bestower of dwelling, Indra, when the Soma has been pressed, at its outflow (निर्गमन (*nirgamana*), "coming forth"), the leaders, the priests who speak praises, sound your praise. And Indra, thirsty for the pressed Soma, like a bull of lovely gait that utters a roar, came to that abode (स्थानमागमत् (*sthānamāgamat*), "to the place").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे वसो (*he vaso*)—O Indra, giver of dwelling
+- सुते (*sute*)—the Soma juice, the creepers having been crushed and pressed
+- निरेके (*nireke*)—as it is flowing fresh
+- उक्तिनः (*uktinaḥ*)—reciting the hymns that have been spoken
+- वरः (*varaḥ*)—the priests and others who take the chief parts in the sacrifice **NOTE**
+- त्वां (*tvāṃ*)—you
+- स्वरंति (*svaraṃti*)—praise with a loud voice (such an Indra)
+- सुतं (*sutaṃ*)—the pressed and prepared Soma juice, desiring it
+- तृषाणः (*tṛṣāṇaḥ*)—being thirsty
+- स्वद्व वंसगः (*svadva vaṃsagaḥ*)—bellowing like a bull
+- कदा (*kadā*)—when
+- ओकः (*okaḥ*)—to this place where the sacrifice is performed
+- आ गमः (*ā gamaḥ*)—will he come?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling, when the Soma creepers are crushed with a stone, the Soma juice that comes out of them flows. At that time the priests and sacrificers who lead the sacrifice praise you with a firm, loud voice. When will such an Indra, thirsty like a bellowing bull, come to this sacrificial place for the drinking of Soma?
+
+##### English translation
+The leaders (of rites), repeating praises, shout to you, Vasu, when the libation issues forth; when, Indra, bellowing like a bull, do you come to the dwelling thirsting for the Soma?
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कण्व॑भिर्धृष्ण॒वा धृ॒षद्वाजं॑ दर्षि सह॒स्रिणं॑ ।  
+> पि॒शंग॑रूपं मघवन्वि चर्षणे म॒क्षु गोमं॑तमीमहे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कण्वभिः । धृष्णो इति । आ । धृषत् । वाजं । दर्षि । सहस्रिणं ।  
+> पिशंगरूपं । मघवन् । विचर्षणे । मक्षु । गोमंतं । ईमहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धृष्णो धर्षकेंद्र कण्वेभिः कण्णानुद्दिश्य ॥ विभक्तिव्यत्ययः ॥ सहस्रिणं
+> सहस्रसंख्याकं वाजमा दर्षि । देहि । हे मघवन्थनवन् विचर्षणे विद्रष्टरिंद्र
+> धृषद्धृष्टं पिशंगरूपं गोमंतं च वाजं मक्षु शीघ्रमीमहे । याचामहे ।
+> श्वामिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O bold Indra, assailant of foes, give to the Kaṇvas (the Sanskrit has कण्वेभिः (*kaṇvebhiḥ*), glossed as "with reference to the Kaṇvas", an interchange of case) food numbering a thousand. O wealthy Indra, far-seeing, we quickly ask for food that is bold, tawny in form and rich in cattle; the word "you" is to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे धृष्णो (*he dhṛṣṇo*)—O Indra, assailant of foes
+- कण्णेभिः (*kaṇṇebhiḥ*)—with reference to the sons of the sage Kaṇva
+- सहस्रिणं (*sahasriṇaṃ*)—numbering a thousand (much)
+- वाजं (*vājaṃ*)—food
+- आ दर्षि (*ā darṣi*)—give
+- मघवन् (*maghavan*)—wealthy
+- विचर्षणे (*vicarṣaṇe*)—O Indra, who sees and knows everything
+- धृषक् (*dhṛṣak*)—that which gives strength
+- पिशंगरूपं (*piśaṃgarūpaṃ*)—that which has ripened (matured) and turned yellow in colour
+- गोमंतं (*gomaṃtaṃ*)—barley
+- मक्षु (*makṣu*)—quickly
+- ईमहे (*īmahe*)—we pray to obtain from you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, assailant of foes, give to us, the descendants of the sage Kaṇva, food and eatables numbering a thousand, that is, of many kinds or in abundance. O Indra, who sees all and are wealthy, we pray to you to give us quickly barley (rice), which is nourishing, well ripened and yellow in colour.
+
+##### English translation
+Resolute (Indra) bestow abundantly upon the descendants of Kauwa thousands of viands; wise Maghavan, we earnestly solicit you for (wealth) of gold and cattle.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒हि गायांध॑सो॒ मद॒ इंद्रा॑य मेध्यातिथे ।  
+> यः संमि॑श्लो॒ हर्यो॒र्यः सु॒ते सचा॑ व॒ज्री रथो॑ हिर॒  ॑
+> ण्ययः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पाहि । गाय । अंधसः । मदे । इंद्राय । मेध्यआतिथे !  
+> यः । संमिश्लः । हर्योः । यः । सुते । सचा । वज्री । रथः । हिरण्ययः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मेध्यातिथे पाहि । सोमं पिब । अंधसः पीतस्य सोमस्य मदे तस्मा
+> इंद्राय गाय । स्तोत्रं पठ च । य इंद्रो हर्योरश्वयोः संमिश्लः स्वरथे
+> संमिश्लयिता । यश्च सुते सोमे सचा सहायः । य इंद्रो वज्रे । यस्य रथो
+> हिरण्ययो हिरण्मयः ॥
+
+##### Gist of the bhāṣya
+
+O Medhyātithi, drink the Soma. In the exhilaration of the drunk Soma, sing, that is, recite a hymn, to that Indra who joins his two horses to his own chariot; who is a companion at the pressed Soma; who bears the thunderbolt **NOTE**; and whose chariot is golden, that is, made of gold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मेध्यातिथे (*medhyātithe*)—O Medhyātithi
+- पाहि (*pāhi*)—drink the Soma
+- अंथगः (*aṃthagaḥ*)—from the drinking of Soma
+- मदे (*made*)—when satisfaction has arisen
+- यः (*yaḥ*)—which Indra
+- हर्योः (*haryoḥ*)—his two horses
+
+### Printed p. 261
+- संमिश्लः (*saṃmiślaḥ*)—yokes to his chariot
+- यः (*yaḥ*)—who
+- सुते (*sute*)—when the Soma juice has been pressed
+- सचा (*sacā*)—comes and joins with me
+- वज्री (*vajrī*)—who holds the thunderbolt
+- रथः (*rathaḥ*)—whose chariot
+- हिरण्ययः (*hiraṇyayaḥ*)—is made of gold; to that Indra
+- इंद्राय (*iṃdrāya*)—to that Indra
+- गाय (*gāya*)—recite a hymn
+
+##### भावार्थ (Bhāvārtha)
+
+O Medhyātithi, drink the Soma. When satisfaction has arisen from the drinking of Soma, recite a hymn to that Indra who yokes his two horses to his chariot, who comes and joins us at the time of the pressing of the Soma juice, who bears the thunderbolt, and whose chariot is made of gold.
+
+##### English translation
+Drink, Medhyatthi, and in the exhilaration of the draught sing to Indra, to him who has harnessed his horses, who, when the Soma is poured out, is present, the wielder of the thunderbolt, whose chariot is of gold.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः सु॑ष॒व्यः सु॒दक्षि॑ण इ॒नो यः सु॒क्रतु॑र्गृ॒णे ।  
+> य आ॑क॒रः स॒हस्रा॒ यः श॒ताम॑घ॒ इंद्रो॒ यः पू॒र्भिदा॑रि॒तः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । सुसव्यः । सुदक्षिणः । इनः । यः । सुक्रतुः । गृणे ।  
+> यॆः । आकरः । सहस्रा । यः । शतमघः । इंद्रः । यः । पूभित् । अरितः । ५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सुषव्यः शोभनसव्यहस्तः । यश्च सुदक्षिणः । यश्चेन ईश्वरः । नियुत्वानिन
+> इतीश्वरनामसु पातात् । यश्चापि सुक्रतुः सुप्रज्ञः । सहस्रा सहस्राणां बहूनां
+> यश्चाकरः कर्ता । यश्चापि शतमघो बहुधनः । यश्च पूर्भित् पुरां भेत्ता ।
+> यश्चारितः पत्यृतः स्तोमान् । तथा च यास्कः । य आरितः कर्मण्यकर्मणि स्थिरः
+> पत्यृतः स्तोमान् । नि. ५-१५ । इति । स इंद्रो गृणे । आस्माभिः स्तूयते च ॥
+
+##### Gist of the bhāṣya
+
+That Indra who is सुषव्यः (*suṣavyaḥ*), glossed as having a beautiful left hand; who is सुदक्षिणः (*sudakṣiṇaḥ*); who is इनः (*inaḥ*), a lord, for the word is read among the names of lords (the text says इतीश्वरनामसु पातात् (*itīśvaranāmasu pātāt*) **NOTE**); who is सुक्रतुः (*sukratuḥ*), of good understanding; who is the maker of thousands, of many things; who is शतमघः (*śatamaghaḥ*), of much wealth; who is पूर्भित् (*pūrbhit*), the breaker of cities; and who is आरितः (*āritaḥ*), glossed पत्यृतः स्तोमान् (*patyṛtaḥ stomān*). Yāska says accordingly: य आरितः कर्मण्यकर्मणि स्थिरः पत्यृतः स्तोमान् । (*ya āritaḥ karmaṇyakarmaṇi sthiraḥ patyṛtaḥ stomān |*) (Ni. 5-15) **GLOSS** That Indra is praised by us.
+
 ---
 
-**Progress note:** Done through printed p. 253. Mandala 8 sukta 32 rks 22-28
+**Progress note:** Done through printed p. 261. Ṛk 28-30 of Sūkta 32; Sūkta 33 Ṛk 1-5 (pp. 254-261)
