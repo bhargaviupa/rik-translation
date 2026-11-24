@@ -3469,6 +3469,480 @@ This hymn मोषु वरुण (*moṣu varuṇa*) is the nineteenth hymn i
 > मो इति । सु । वरुण । मृत्मयं । गृहं । राजन् । अहं । गमं ।  
 > मृळ । सुक्षत्र । मृळय ॥ १ ॥
 
+### Printed p. 84
+#### Ṛk 1 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन्नीश्वर वरुण त्वदीयं मृन्मयं मृदादिभिर्निर्मितं गृहं मो मा
+> उ मैवाहं गमं गतोऽस्मि । अपि तु सु शोभनं सुवर्णमयमेव त्वदीयं
+> गृहं प्राप्नवानि । स त्वं मां मृळ । सुखय। हे सुक्षत्र शोभनधन वरुण मृळय।
+> उपदयां च कुरु ॥
+
+##### Gist of the bhāṣya
+
+"O king, lord Varuṇa, may I never go to your house made of clay and similar materials. Let me instead reach your fine house, made wholly of gold. Make me happy, and O Sukṣatra, Varuṇa of fine wealth, be gracious: show compassion."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O Varuṇa, the lord
+- वरुण (*varuṇa*)—O god Varuṇa
+- मृन्मयं (*mṛnmayaṃ*)—made of clay
+- गृहं (*gṛhaṃ*)—to the house
+- अहं (*ahaṃ*)—I
+- मो गमं (*mo gamaṃ*)—let me not go
+- सु (*su*)—may I go to the excellent house of gold
+- सुक्षत्र (*sukṣatra*)—O god possessing excellent wealth
+- मृळ (*mṛḷa*)—make us happy
+- मृळय (*mṛḷaya*)—show compassion
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, lord, do not let me go to a house built of clay; let me go to the house made of gold. O god of excellent wealth, make us happy. Show compassion to us.
+
+##### English translation
+May I never go, royal Varuna, to a house made of clay: grant me happiness, possessor of wealth, grant me happiness.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदेमि॑ प्रस्थु॒रन्नि॑व॒ दृति॒र्न ध्मा॒तो अ॑द्रिवः ।  
+> मृ॒ळा सु॑कक्षत्र मृ॒ळय॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । एमि । प्रस्सुरन् इव । दृतिः । न । ध्मातः । अद्र्विवः ।  
+> मृळ । सुक्षेत्र । मृळय ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सायुजभाष्यसहिता [ मं. ७. आ. ५. सू. ८९.
+> ॥ सायुजभास्कं ॥
+> हे अद्रिव आयुधवन्वरुण यद्यदा प्रस्फरन्निव शैत्येन प्रविचलन्निव त्वद्भया.
+> द्वेपमानो दृतिर्न दृतिरिव ध्मातो वायुना पूर्णः सन् त्वया बद्धोऽहमेमि
+> गच्छामि तदानीं मृळ । सुखय । हे सुक्षेत्र सुधन मृळय । उपदयां कुरु ॥
+
+##### Gist of the bhāṣya
+
+"O Adrivat, weapon-bearing Varuṇa, when I go, trembling from cold as it were, quivering in fear of you, like a skin (dṛti) filled with wind, bound by you, then make me happy. O Sukṣetra, of good wealth, show compassion."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Varuṇa, bearer of weapons
+- ध्मातः (*dhmātaḥ*)—filled with wind
+- दृतिः न (*dṛtiḥ na*)—like a leather bag (bellows)
+- प्रस्सुरन्निव (*prassuranniva*)—with the humility of "perhaps I am trembling (from fear and devotion on seeing you)"
+- यत् (*yat*)—when
+- एमि (*emi*)—I approach you (then)
+- मृळ (*mṛḷa*)—make us happy
+- सुक्षत्र (*sukṣatra*)—O Varuṇa of excellent wealth
+- मृळय (*mṛḷaya*)—show compassion to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, bearer of weapons, when I approach you, trembling, with the humility of one who trembles from fear and devotion on seeing you, like a leather bag (bellows) filled with wind, then make us happy. O Varuṇa of excellent wealth, show compassion to us.
+
+##### English translation
+When, Varuna, I am throbbing as if (with awe) like an inflated skin, grant me happiness, possessor of wealth, grant me happiness.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रत्वः॑ समह दी॒नता॑ प्रती॒षं ज॑गमा शुचे:  
+> मृ॒ळा सु॑क्षत्र मृ॒ळय॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रत्त्वः । समह । दीनता । प्रतिईपं । जगम । शुचे ।  
+> मृळ । सुक्षेत्र । मृळय ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अ. ५. अ. ६. व- ११.] ऋग्वेदसंहिता '87
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे समह सधन शुचे स्वभावतो निर्मल वरुण दीनता दीनतयाशक्ततया
+> क्रत्वः कर्मणः कर्तव्यत्वेन विहितस्य श्रौतस्मार्तादिलक्षणस्य प्रतीपं प्रतिकूलमननुष्ठानं जगम । प्राप्तवानस्मि । आत एव त्वया बद्धः । तादृशं मां मृळ । सुखय ।
+> अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+"O Samaha, possessor of wealth, O Śuci, naturally pure Varuṇa: through weakness (dīnatā) I have come to the contrary, to the non-performance, of the rite enjoined as a duty, of the śrauta, smārta and similar kinds. For that very reason I am bound by you. Make me, such as I am, happy." The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समह (*samaha*)—O one endowed with wealth
+- शुचे (*śuce*)—O self-pure Varuṇa
+- दीनता (*dīnatā*)—whether through weakness or through ignorance
+- क्रत्वः (*kratvaḥ*)—to the obligatory rites, śrauta, smārta and the rest
+- प्रतीपं (*pratīpaṃ*)—contrary
+- जगम (*jagama*)—even if I have acted
+- मृळ (*mṛḷa*)—give me happiness
+- सुकृत्र (*sukṛtra*)—O Varuṇa of excellent wealth
+- मृळय (*mṛḷaya*)—show compassion to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, possessor of wealth and self-pure, even if, through weakness or through ignorance, I have acted contrary to the enjoined obligatory rites of the śrauta, smārta and other kinds, give me happiness. O Varuṇa of excellent wealth, show compassion to us.
+
+##### English translation
+Opulent and pure (Varuna), if through infirmity I have done what is contrary (to the law), yet grant me happiness, possessor of wealth, grant me happiness.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒सां मध्ये॑ तस्थि॒वांसं॒ तृष्णा॑ विदज्जरि॒तारं॑ ।  
+> मृ॒ळा सु॑क्षेत्र मृ॒ळय॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपां । मध्ये । तस्थि5वांसं । तृष्णा । अविदत् । जरितारं ।  
+> मृळ । सुक्षेत्र । मृळय ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ५८ सायणभाव्यसहिता [मं ७ अ. ५ सू. ८९
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपां समुद्राणामुदकानां मध्ये तस्थिवांसं स्थितवंतमपि जरितारं तव
+> स्तोतारं मा तृष्णा पिपासाविदत् । आप्तवती । लवणोत्कटस्य सामुद्रजलस्य पानानर्हत्वात् । अतस्तादृशं मां मृळ । सुखय । अन्यद्धतं ॥
+
+##### Gist of the bhāṣya
+
+"Though I, your worshipper, stand in the midst of the waters, the seas, thirst has found (reached) me, since the water of the sea, being full of salt, is unfit for drinking. Therefore make me, such as I am, happy." The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां (*apāṃ*)—of the waters of the sea
+- मध्यॆ (*madhyè*)—in the middle
+- तस्थिवांसं (*tasthivāṃsaṃ*)—even though standing
+- जरितारं (*jaritāraṃ*)—me, your worshipper
+- तृष्णा (*tṛṣṇā*)—thirst
+- अविदत् (*avidat*)—has pervaded
+- सुक्षत्र (*sukṣatra*)—O Varuṇa of excellent wealth
+- मृळ (*mṛḷa*)—make me happy
+- मृळय (*mṛḷaya*)—show compassion to me
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, though I stand in the midst of the waters of the sea, thirst has pervaded me, your worshipper, because they are unfit for drinking. O Varuṇa of excellent wealth, make me happy. Show compassion to me.
+
+##### English translation
+Thirst distresses (me) your worshipper in the midst of the waters: grant me happiness, possessor of wealth, grant me happiness.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चरा॑मसि ।  
+> अचि॑त्ती॒ यत्तन॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो  
+> देव रीरिषः ॥ ५ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । किं । च । इदं । वरुण । दैव्ये । जने । अभिद्रोहं । मनुष्याः । चरामसि ।  
+> अचित्ती । यत् । तव । धर्म । युयोपिम । मा । नः । तस्मात् । एनसः । देव ।  
+> रिरिषः ॥ ५ ॥
+
+### Printed p. 86
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देनसुवां हविःषु वारुणस्य हविषो यत्किं चेदमिति याज्या । सूत्रितं च ।
+> यत्किंचेदं वरुण दैव्ये जन उप ते स्तोमान्सशुपा इवाकरमिति द्वे ` । आ. ४-११ ।
+> इति ॥
+> हे वरुण वैवै देवसमूहरूपे जने यदिदं किंचनाभिद्रोहमपकारजातं मनुष्या वयु चरामसि चरामः निर्वर्तयामः । तथाचित्त्यचित्त्याज्ञानेन
+> तव त्वदीयं यद्धर्म धारकं कर्म युयोपिम वयं विमोहितवंतः । हे देव
+> तस्मादेनसः पापानोऽस्मान्मा रीरिषः । मा हिंसीः ॥
+
+##### Gist of the bhāṣya
+
+In the Devasu offerings (देनसुवां हविःषु (*denasuvāṃ haviḥṣu*)), the Varuṇa oblation has यत्किं चेदं (*yatkiṃ cedaṃ*) as its yājyā, and the sūtra (Ā. 4-11) prescribes it, "the two (ṛks) beginning यत्किंचेदं (*yatkiṃcedaṃ*)". "O Varuṇa, whatever offence, whatever injury, we men commit against the people who are the host of the gods; and whatever supporting rite (dharma) of yours we have bewildered (confused) through ignorance (acitti): O god, from that sin do not harm us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- दैव्ये (*daivye*)—belonging to the host of the gods
+- जने (*jane*)—in the matter of the people
+- इदं यत्किंचन (*idaṃ yatkiṃcana*)—whatever that can be specifically pointed out
+- अभिद्रोहं (*abhidrohaṃ*)—an injurious act
+- मनुष्याः (*manuṣyāḥ*)—we men
+- चरामसि (*carāmasi*)—even if we have committed
+- अचित्ती (*acittī*)—through ignorance
+- तव (*tava*)—belonging to your ordinance
+- यत् (*yat*)—whatever
+- धर्म (*dharma*)—the law that upholds the world
+- युयोपिम (*yuyopima*)—even if we have transgressed
+- देव (*deva*)—O Varuṇa, divine in nature
+- तस्मादेनसः (*tasmādenasaḥ*)—from such sins (on account of them)
+- नः (*naḥ*)—us
+- मा रीरिषः (*mā rīriṣaḥ*)—do not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, even if we men have committed any injurious act whatever, that can be specifically pointed out, against the people belonging to the host of the gods, or have through ignorance transgressed any world-upholding law belonging to your ordinance, O Varuṇa, divine in nature, do not harm us on account of such sins.
+
+##### English translation
+Whatever the offence which we men commit, Varuna, against divine beings, whatever law of you we may through ignorance violate, do not you, divine Varuna, punish us on account of that iniquity.
+
+##### विशेषविषयगळु (Special Topics)
+
+Among the eight homas offered to various deities, called Devasuvas, this ṛk beginning यत्किंचेदं (*yatkiṃcedaṃ*) is to be recited as the yājyā mantra in the havirhoma offered to the deity Varuṇa; this is set out in the Āśvalāyana Śrauta Sūtra
+
+### Printed p. 90
+by the sūtra यत्किंचेदं वरुण दैव्ये जन उप ते स्तोमान्बशुषा इवा करमिति द्वे (*yatkiṃcedaṃ varuṇa daivye jana upa te stomānbaśuṣā ivā karamiti dve*) (Ā. 4-11).
+
+## Sūkta 90 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षष्ठेऽनुवाके पंचदश सूक्तानि । तत्र प्र वीरयेति सप्तर्चं प्रथमं सूक्तं
+> वसिष्ठस्यार्षं त्रैष्टुभं वायव्यं । यासु पंचम्याद्यासु द्विवचनमस्ति ता ऐंद्रवायव्यः । तथा चानुक्रांतं। प्र वीरया सप्त वायव्यं हैंद्रश्च या द्विवदुक्ता
+> इति ॥ तृतीये छंदोमे प्रउगशस्त्रे प्र वीरयेति वायव्यस्तृचः । सूत्रितं च ।
+> प्र वीरया शुचयो दद्रिरे नां ते सत्येन मनसा दीध्यानाः । आ. ८.११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sixth anuvāka has fifteen sūktas. The first of them, the sūkta of seven ṛks beginning प्र वीरया (*pra vīrayā*), has Vasiṣṭha as its seer, Triṣṭubh as its metre, and Vāyu as its deity. The ṛks from the fifth on, in which a dual occurs, are addressed to Indra and Vāyu. So the Anukramaṇī says: प्र वीरया सप्त वायव्यं हैंद्रश्च या द्विवदुक्ता इति (*pra vīrayā sapta vāyavyaṃ haiṃdraśca yā dvivaduktā iti*). In the third Chandoma day, in the Prauga-śastra, the three ṛks beginning प्र वीरया (*pra vīrayā*) form the Vāyu tṛca. The sūtra says: प्र वीरया शुचयो दद्रिरे नां ते सत्येन मनसा दीध्यानाः (*pra vīrayā śucayo dadrire nāṃ te satyena manasā dīdhyānāḥ*) (Ā. 8.11).
+
+##### Anuvāda
+
+In the sixth anuvāka of the seventh maṇḍala there are fifteen sūktas. Of these the sūkta प्र वीरया (*pra vīrayā*) is the first; it has seven ṛks. The seer of this sūkta is Vasiṣṭha, the deity Vāyu, the metre Triṣṭubh. The dual words in the fifth ṛk and in the ṛks that follow it indicate Indra and Vāyu. The Anukramaṇī says प्र वीरया सप्त वायव्यं हैंद्रश्च या द्विवदुक्ता (*pra vīrayā sapta vāyavyaṃ haiṃdraśca yā dvivaduktā*). At the time of reciting the third Chandoma mantras, when the Prauga-śastra mantras are recited, the three ṛks beginning प्र वीरया (*pra vīrayā*) are to be recited as the Vāyu tṛca; this is set out by the Āśvalāyana Śrauta Sūtra प्र वीरया शुचयो दद्रिरे नां ते सत्येन मनसा दीध्यानाः (*pra vīrayā śucayo dadrire nāṃ te satyena manasā dīdhyānāḥ*) (Ā. 8.11).
+
+Sūkta 90.
+Maṇḍala 7; Anuvāka 5; Sūkta 90.
+Aṣṭaka 5; Adhyāya 6; Varga 12.
+Number of ṛks in the sūkta: 7.
+Seer: Vasiṣṭha.
+Deity: 1-4, Vāyu; 5-7, Indra and Vāyu.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वी॑र॒या शुच॑यो दद्रिरे वामध्व॒र्युभि॒र्मधु॑मंतः  ॒॑
+> सुतासः ।
+
+### Printed p. 91
+
+> वह वायो नियुतो याह्यच्छा पिबा सुतस्यांधसो  
+> मदाय ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वीरया । शुचयः । दद्रिरे । वां । अध्वर्युभिः । मधुमंतः । सुतासः ।  
+> वह । वायो इति । नियुतः । याहि । अच्छ । पिब । सुतस्य । अंधसः । मदाय ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो वीरया वीराय विविधमीरयित्रे ! सुपां सुलुगिति चतुर्थ्या
+> याजादेशः ॥ वां ते । व्यत्ययेन द्विवचनं ॥ तुभ्यं शुचयः शुद्धा मधुमंतो
+> माधुर्योपेताः सुतासोऽभिषुताः सोमा ऐतरेयिभिर्नवमेऽहनि प्रउगेऽध्वर्युभिरध्वरस्य नेतृभिऋत्विग्भिः प्रदद्रिरे । प्रदीयंते ॥ दद दान इत्यस्यैतद्रूपं ॥ यत एवमतः कारणात् हे वायो नियुतो वडवा वह । रथं प्रापय ।
+> तेन च रथेनाच्छ याहि । अस्मद्यज्ञमभिगच्छ । अभिगत्य च सुतस्याभिसुतस्यांधसोऽन्नस्य सोमलक्षणस्य स्वकीयं भागं पिब । किमर्थं । मदाय मदोत्पत्त्यर्थं ॥
+
+##### Gist of the bhāṣya
+
+"O Vāyu, to you, vīrayā, who stir (īray) in manifold ways—the dative is replaced by the ending yāc, and vāṃ stands for te, a dual for a singular by exchange of number—the pure, sweet (honeyed) Soma juices, pressed, are offered by the Aitareyins, by the adhvaryus, the priests who lead the sacrifice, on the ninth day, in the Prauga. Since this is so, O Vāyu, harness your niyut mares, bring the chariot, and come with it towards us, to our sacrifice. Having come, drink your own share of the pressed Soma, the food, for exhilaration."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O god Vāyu
+- वीरया (*vīrayā*)—endowed with vigour
+- नां (*nāṃ*)—towards you
+- शुचयः (*śucayaḥ*)—pure
+- मधुमंतः (*madhumaṃtaḥ*)—endowed with sweetness
+- सुतासः (*sutāsaḥ*)—pressed Soma juices
+- अध्वर्युभिः (*adhvaryubhiḥ*)—by the adhvaryus
+- प्र दद्रिरे (*pra dadrire*)—are offered
+- नियुतः (*niyutaḥ*)—your horses
+- वह (*vaha*)—yoke to the chariot
+- अच्छ (*accha*)—facing us
+- याहि (*yāhi*)—be pleased to come
+- सुतस्य (*sutasya*)—of what is pressed and ready
+- अंधसः (*aṃdhasaḥ*)—of the portion of the food in the form of Soma
+- मदाय (*madāya*)—for satisfaction
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O god Vāyu, towards you, who are endowed with vigour, pure, sweet, pressed Soma juices are offered by the adhvaryus. Yoke your horses to the chariot. Be pleased to come towards us. For your satisfaction, drink the portion of the food in the form of Soma that has been pressed and made ready.
+
+### Printed p. 94
+
+##### English translation
+The sweet and pure Soma juices are offered to you, the hero Vayu, by the priests : therefore harness your Niyut steeds, come hither and drink of the effused Soma for your exhilaration.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒शा॒नाय॒ प्रहु॑तिं॒ यस्त॒ आन॒ट्टुचिं॒ सोमं॑ शुचिपा॒स्तुभ्यं॑ वायो ।  
+> कृ॒णोषि॒ तं मर्त्ये॑षु प्रश॒स्तं जा॒तोजा॑तो जायते  ॒॑
+> वाज्यस्य ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईशानाय । प्रहुतिं । यः । ते । आनट् शुचिं । सोमं । शुचिपाः । तुभ्यं ।  
+> वायो इति ।  
+> कृणोषि । तं । मर्त्येषु प्रशस्तं । जातःजातः । जायते । वाजी । अस्य ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुनासीरीये पर्वणि वायव्यस्य हविष ईशानायेति याज्या । सूत्रितं च ।
+> स त्वं नो देव मनसेशानाय प्रहुतिं यस्त आनट् । आ २-२८ । इति ॥ वायव्ये
+> पशावेषैव पशुपुरोडाशस्य याज्या । सूत्रितं च । ईशानाय प्रहुतिं यस्त आनट्
+> प्र वो वायुं रथयुजं कृणुध्वं । आ ३-८ । इति ॥
+> हे वायो ईशानायेश्वराय ते तुभ्यं त्वदर्थं प्रहुतिं प्रकृष्टामाहुतिं
+> चरुपुरोडाशादिसाध्यां यो यजमान आनट् प्राप्नोत् । दद्यादित्यर्थः । तथा हे
+> शुचिपाः शुद्धस्य सोमस्य पातर्वायो तुभ्यं शुचिं शुद्धं सोमं च यः प्रयच्छति मर्त्येषु मनुष्येषु मध्यॆ तं यजमानं प्रशस्तं मुख्यं कृणोषि ।
+> करोषि । स च जातो जातः सर्वत्र प्रादुर्भूतः प्रख्यातः सन् वाज्यस्य प्राप्तव्यस्य
+> धनस्य प्राप्तये जायते । अवकल्पते । सर्वं धनं लभत इत्यर्थः ॥
+> अ. ५.- अ. ६. प. १२.] कविगैदसंहिता ९३
+
+##### Gist of the bhāṣya
+
+In the Śunāsīrīya parvan, ईशानाय (*īśānāya*) is the yājyā for the Vāyavya oblation; the sūtra says स त्वं नो देव मनसेशानाय प्रहुतिं यस्त आनट् (*sa tvaṃ no deva manaseśānāya prahutiṃ yasta ānaṭ*) (Ā. 2-28). In the Vāyavya animal sacrifice this same ṛk is the yājyā of the animal's purodāśa; the sūtra says ईशानाय प्रहुतिं यस्त आनट् प्र वो वायुं रथयुजं कृणुध्वं (*īśānāya prahutiṃ yasta ānaṭ pra vo vāyuṃ rathayujaṃ kṛṇudhvaṃ*) (Ā. 3-8). "O Vāyu, to you, the lord (īśāna), the sacrificer who offers (āna, reaches) an excellent oblation (prahuti) prepared with caru, purodāśa and the like, i.e. gives it; and, O Śucipā, drinker of pure Soma, who gives you pure Soma: that sacrificer among mortals you make eminent, foremost. Being born and born, i.e. appearing and becoming renowned everywhere, he becomes fit for the attainment of the wealth that is to be attained (vājya); i.e. he obtains all wealth."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पायो (*pāyo*)—O god Vāyu
+- ईशानाय (*īśānāya*)—to you, the lord of all
+- ते (*te*)—towards you
+- प्रहुतिं (*prahutiṃ*)—the oblation accompanied by caru and purodāśa
+- यः (*yaḥ*)—which sacrificer
+- आनट् (*ānaṭ*)—offers (and moreover)
+- शुचिपाः (*śucipāḥ*)—O Vāyu, drinker of pure Soma
+- तुभ्यं (*tubhyaṃ*)—to you
+- शुचि: (*śuci:*)—pure
+- सोमं (*somaṃ*)—the Soma juice (whoever offers)
+- तं (*taṃ*)—that sacrificer
+- मर्त्येषु (*martyeṣu*)—among men
+- प्रशस्तं (*praśastaṃ*)—as most eminent
+- कृणोषि (*kṛṇoṣi*)—you make
+- जातोजातः (*jātojātaḥ*)—that sacrificer, born everywhere, i.e. renowned
+- वाज्यस्य (*vājyasya*)—for the attainment of wealth
+- जायते (*jāyate*)—obtains fitness
+
+##### भावार्थ (Bhāvārtha)
+
+O god Vāyu, whichever sacrificer offers to you, the lord of all, an oblation accompanied by caru and purodāśa; and O Vāyu, drinker of pure Soma, whoever offers you pure Soma juice, that sacrificer you make most eminent among men. That sacrificer, born everywhere, renowned in every place, obtains fitness for the attainment of full wealth.
+
+##### English translation
+Drinker of Soma juice, Vayu, you elevetes him who among mortals offers to you who are the lord, an excellent oblation, the pure Soma: repeatedly born, he is born for the acquirement of wealth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒ये नु यं ज॒ज्ञतू॒ रोद॑सी॒मे रा॒ये दे॒वी धि॒षणा॑  ॒
+> धाति देवं ।  
+> अध॑ वा॒युं नि॒युतः॑ सश्चत॒ स्वा उ॒त श्वे॒तं वसु॑धितिं निरे॒के॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राये । नु । यं । जज्ञतुः । रोदसी इति । इमे इति । राये । देवी । धिषणा ।  
+> धाति । देवं ।  
+> अध । वायुं । नियुतः । सश्चत । स्वाः । उत । श्वेतं । वसुधितिं । निरेके ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सारांशभाष्यसंहिता [ मं. ५-अ. ५. सं. ६०.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नियुत्वद्गुणविशिष्टवायुदेवताके पशौ राये नु यमिति पुरोडाशस्य
+> सूत्रितं च । राये नु यं जज्जतू रोदसीमे प्र वायुमच्छा बृहती
+> मनीषा । आ. ३-८ । इति ॥
+> इमे रोदसी द्यावापृथिव्यौ यं वायुं राये धनार्थं नु क्षिप्रं जज्ञतुः
+> जनयामासतुः तु देवं दानादिगुणयुक्तं वायुं देवी द्योतमाना धिषणा
+> स्तुती राये धनार्थं धाति । धारयति । धनं यथा लभ्यते तथा प्रेरयतीत्यर्थः ।
+> अधाधुनैवं स्तुता प्रवृत्तायां स्वाः स्वकीया नियुतो वडना रथवाहा वायुं
+> सश्चत । सचंते । सेवंते । उतापि च श्वेतं शुभ्रवर्णं निरेके । नितरां रेको
+> रिक्तता निरेकः । दारिद्रमित्यर्थः । तस्मिन्सति वसुधितिं वसूनां धातारं प्रदातारं
+> तं वायुं नियुतोऽस्मद्यज्ञं प्रापयंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice whose deity is Vāyu endowed with niyuts, राये नु यं (*rāye nu yaṃ*) is the yājyā of the purodāśa; the sūtra says राये नु यं जज्जतू रोदसीमे प्र वायुमच्छा बृहती मनीषा (*rāye nu yaṃ jajjatū rodasīme pra vāyumacchā bṛhatī manīṣā*) (Ā. 3-8). "These two worlds, heaven and earth, quickly begot Vāyu for the sake of wealth. The shining praise (dhiṣaṇā) holds (dhāti) the divine Vāyu, who is endowed with the quality of giving, for wealth; i.e. it impels him so that wealth is obtained. Now, when the praise has thus begun, his own niyuts, the chariot-drawing mares, attend (saścata) Vāyu. And in the nireka, i.e. emptiness, poverty, the niyuts bring to our sacrifice that Vāyu, the white, the vasudhiti, the bestower of wealth."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—which Vāyu
+- इमे रोदसी (*ime rodasī*)—these two, heaven and earth
+- नु (*nu*)—quickly
+- राये (*rāye*)—for the giving of wealth
+- जज्ञतुः (*jajñatuḥ*)—brought into being
+- देवं (*devaṃ*)—that same Vāyu, endowed with giving and other qualities
+- देवी (*devī*)—shining
+- धिषणा (*dhiṣaṇā*)—praise
+- राये (*rāye*)—for the sake of wealth
+- धाति (*dhāti*)—holds
+- अध (*adha*)—at the very time of reciting the praise
+- स्वाः (*svāḥ*)—of that same Vāyu
+- नियुतः (*niyutaḥ*)—the horses
+- वायुं (*vāyuṃ*)—Vāyu
+- सश्चत (*saścata*)—attend
+- उत (*uta*)—and
+- श्वेतं (*śvetaṃ*)—the white-coloured
+- वसुधितिं (*vasudhitiṃ*)—Vāyu, the giver of wealth
+- निरेके (*nireke*)—they bring to the region stricken by poverty
+
+##### भावार्थ (Bhāvārtha)
+
+Vāyu, whom these two, heaven and earth, quickly brought into being for the giving of wealth, that same Vāyu, endowed with giving and other qualities, whom the shining praise holds for wealth: the horses of that same Vāyu, at the very time of this recitation of praise, attending him, bring the god Vāyu, white-coloured and the giver of wealth, to the region stricken by poverty.
+
+##### English translation
+His own niyut steeds bear to the place of poverty the white-
+complexioned dispenser of wealth, Vayu, whom heaven and earth bore for
+the sake of riches, whom the divine language of praise sustains as a deity
+for the sake of riches.
+
+### Printed p. 95
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice offered to the deity called Niyutvān Vāyu, this ṛk beginning राये नु यं (*rāye nu yaṃ*) is to be recited as the yājyā mantra of the purodāśa homa; this is set out by the Āśvalāyana Śrauta Sūtra राये नु यं जज्ञतू रोदसीमे प्र वायुमच्छा बृहती मनीषा (*rāye nu yaṃ jajñatū rodasīme pra vāyumacchā bṛhatī manīṣā*) (Ā. 3-8).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒च्छन्नु॒षसः॑ सु॒दिना॑ अरि॒प्रा उ॒रु ज्योति॑र्वि विदु॒र्दिध्या॑नाः ।  
+> गव्यं॑ चिदू॒र्वमु॒तिजो॒ वि व॑व्र॒स्तेषा॒वनु॑ प्र॒दिवः॑ सस्रु॒रापः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उच्छन् । उषसः । सुदिनाः । अरिप्राः । उरु । ज्योतिः । विविदुः । दीध्यानाः ।  
+> गव्यं । चित् । ऊर्वं । उशिजः । वि । वव्रुः । तेषां । अनु । प्रदिवः । सस्रुः ।  
+> आपः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीये छंदोमे प्रउगशस्त्रे वायव्यतृचस्योचच्छन्नुषस इति तृतीया ।
+> सूत्रितं च । उच्छन्नुषसः सुदिना अरिप्रा इत्येकपातिन्यः । आ. ८-१० । इति ॥
+> येऽंगिरसो वायुमस्तोषत तेषामरिप्राः पापरहिता उषसः सुदिनाः
+> शोभनदिनस्य हेतुभूताः सत्य उच्छन् । औच्छन् । व्यवासयन् । ते च दीध्याना
+> दीप्यमानाः संत उरु विस्तीर्णं ज्योतिः सूर्याख्यं विविदुः। वायोः प्रसादादलभंत । अपि चोशिजः कामयमानास्तेऽंगिरसो गव्यं चिद्गॊसंघरूपमप्यूर्वं
+> धनं पणिभिरपहृतं वि वव्रुः । व्यवृण्वन् । अलभंत । तथा तेषामंगिरसामर्थाय
+> प्रदिवः पुराण्य आपोऽनु ससुः । अन्वसरन् । अन्वगच्छन् । हिताहिताचरणपरा आसन्नित्यर्थः । अवरकस्यासुरस्य वायुना हननादसुरेणाहृतानुषःप्रभृतीन् पुनर्लब्धवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the second Chandoma day, in the Prauga-śastra, of the Vāyavya tṛca, this is the third ṛk; the sūtra says उच्छन्नुषसः सुदिना अरिप्रा इत्येकपातिन्यः (*ucchannuṣasaḥ sudinā ariprā ityekapātinyaḥ*) (Ā. 8-10). The Aṅgirases who praised Vāyu: for them the sinless dawns, causes of a good day, dawned. Shining, they found the wide light called the Sun, through Vāyu's favour. And desiring, those Aṅgirases won the abundance of wealth, in the form of herds of cows, that the Paṇis had carried off. For their sake the ancient waters flowed along (followed); they were intent on acting for good and ill. Since the lowly asura was slain by Vāyu, they regained the dawns and other things carried off by the asura.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरिप्राः (*ariprāḥ*)—sinless
+- उषसः (*uṣasaḥ*)—the dawns (for the Aṅgirases, the worshippers of Vāyu)
+- सुदिनाः (*sudināḥ*)—as the cause of excellent days
+- उच्छन् (*ucchan*)—appeared
+
 ---
 
-**Progress note:** Done through printed p. 83. pp. 76-83 (batch API)
+**Progress note:** Done through printed p. 95. pp. 84-95 (batch API)
