@@ -791,3 +791,91 @@
 | 518 | `Pā. Sū. 8-2-[17])` → `Pā. Sū. 8-2-17)` | SECOND-PASS S1: Kannada ನಾದ್ವಸ್ಯ (ಪಾ. ಸೂ ೮-೨-೧೭) |
 | 519 | `, Pā. Sū. 3-4-80);` → `);` | SECOND-PASS S2: Kannada ಥಾಸಃ ಸೇ ಎಂಬುದರಿಂದ prints no number |
 | 519 | `, Pā. Sū. 3-1-73);` → `);` | SECOND-PASS S2: Kannada ಸ್ವಾದಿಭ್ಯಃ ಶ್ನುಃ ಎಂಬುದರಿಂದ prints no number |
+
+### 2026-11-24 second pass, batch e520-549.tsv
+| page | old → new | why |
+|---|---|---|
+| 520 | `, Pā. Sū. 3-4-99 [?])` → `)` | SECOND-PASS S2: Kannada prints no number for नित्यं ङितः (ನಿತ್ಯಂ ಜಿತಃ ಸೂತ್ರದಿಂದ) |
+| 520 | `Pā. Sū. 3-1-52 [?]` → `Pā. Sū. 3-1-5` | SECOND-PASS S1: Kannada ಪಾ ಸೂ. ೩-೧-೫ |
+| 520 | `Pā. Sū. 7-4-20 [?]` → `Pā. Sū. 7-4-20` | SECOND-PASS S2: Kannada ಪಾ. ಸೂ ೭-೪-೨೦ (doubt mark removed) |
+| 520 | `, Pā. Sū. 7-3-101)` → `)` | SECOND-PASS S2: Kannada prints no number for ಅತೋದೀರ್ಘೋ ಯಞ್ ಸೂತ್ರ |
+| 521 | `, Pā. Sū. 7-1-23)` → `)` | SECOND-PASS S2: Kannada prints no number for ಸ್ವಮೋರ್ನಪುಂಸಕಾತ್ |
+| 522 | `(Ā. Sū. 4-13 [?])` → `(Ā. Sū. 4-13)` | SECOND-PASS S1: Kannada (ಆ. ೪-೧೩) |
+| 522 | `(Ā. Sū. 2-13 [?])` → `(Ā. Sū. 2-13)` | SECOND-PASS S1: Kannada (ಅ. ೨-೧೩) |
+| 524 | `delighting the clouds and destroying them` → `shaking the clouds and destroying them` | SECOND-PASS S14: Kannada ಮೇಘಗಳನ್ನು ಅಲ್ಲಾಡಿಸಿ, ಅವುಗಳನ್ನು ನಾಶಮಾಡುವವನೂ (ಅಲ್ಲಾಡಿಸಿ = shaking) |
+| 526 | `(Ni. [1-12] [?])` → `(Ni. 2-24)` | SECOND-PASS S2: Kannada (ನಿ ೨-೨೪) |
+| 526 | `(Ni. [2-7] [?])` → `(Ni. 3-9)` | SECOND-PASS S2: Kannada (ನಿ. ೩-೯) after the food names |
+| 526 | `Ni. 3-[9] [?]` → `Ni. 3-9` | SECOND-PASS S1: Kannada (ನಿ. ೩-೯) |
+| 527 | `Uṇ. Sū. 4-[117]? [?]` → `Uṇ. Sū. 4-557` | SECOND-PASS S2: Kannada (ಉ. ಸೂ. ೪-೫೫೭) |
+| 527 | `Pā. Sū. 6-3-[137]` → `Pā. Sū. 6-3-137` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೩-೧೩೭) |
+| 527 | `Pā. Sū. 3-1-134` → `Pā. Sū. 3-1-124` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ ೩-೧-೧೨೪) |
+| 527 | `Pā. Sū. 6-1-159 [?]` → `Pā. Sū. 6-1-159` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೫೯) |
+| 527 | `, Pā. Sū. 7-2-115)` → `)` | SECOND-PASS S2: Kannada prints no number for ಅಚೋಞ್ಞಿತಿ |
+| 527 | ` (Pā. Sū. 6-4-14 [?])` → `` | SECOND-PASS S2: Kannada prints no number for ಅತ್ವಸಂತಸ್ಯ ಚಾ— |
+| 527 | ` (Pā. Sū. 7-3-86)` → `` | SECOND-PASS S2: Kannada prints no number for ಪುಗಂತಲಘೂಪಧಸ್ಯ ಚ |
+| 527 | ` (Pā. Sū. 6-2-139)` → `` | SECOND-PASS S2: Kannada prints no number for ಗತಿಕಾರಕೋಪಪದಾತ್ ಕೃತ್ |
+| 527 | ` (Pā. Sū. 5-2-94)` → `` | SECOND-PASS S2: Kannada prints no number for ತದಸ್ಯಾಸ್ತ್ಯಸ್ಮಿನ್ನಿತಿ ಮತುಪ್ |
+| 526 | `maghaṃ reṇkaḥ` → `maghaṃ rekṣṇaḥ` | SECOND-PASS S7: Kannada ಮಘಂ ರೇಕ್ಷ್ಣಃ (letters ಕ್ಷ್ಣ = kṣṇ) |
+| 526 | `beginning with *vājaḥ*` → `beginning with *andhaḥ, vājaḥ*` | SECOND-PASS S17: Kannada ಅಂಧಃ ವಾಜಃ ಮೊದಲಾದ |
+| 529 | `shining in the sky like gold,` → `shining glitteringly in the sky,` | SECOND-PASS S16: Kannada ಥಳಥಳನೆ ಹೊಳೆಯುತ್ತಾ (no 'like gold') |
+| 529 | `makes the ears split (*karṇaśakora-*)` → `is harsh to the ears (*karṇakaṭhora-*)` | SECOND-PASS S13: Kannada ಕರ್ಣಕಠೋರವಾದ (kaṭhora = harsh) |
+| 530 | `shakes the water-laden black clouds` → `scatters the water-laden black clouds` | SECOND-PASS S14: Kannada ಮೇಘಗಳನ್ನು ... ಚದುರಿಸುತ್ತಾ (ಚದುರಿಸು = scatter) |
+| 530 | `atibrūhati` → `atibṛhati` | SECOND-PASS S7: Kannada ವಾತಿಬೃಹತಿ (ಬೃ = bṛ); ū → ṛ |
+| 530 | `अतिब्रूहति` → `अतिबृहति` | SECOND-PASS S7: Kannada ಬೃಹತಿ; ब्रू → बृ |
+| 531 | `ano 'pragṛhyasyānunāsikaḥ` → `aṇo 'pragṛhyasyānunāsikaḥ` | SECOND-PASS S7: Kannada ಅಣೋಽಪ್ರಗೃಹ್ಯಸ್ಯಾನುನಾಸಿಕಃ (ಣ = ṇ) |
+| 531 | `अनोऽप्रगृह्यस्यानुनासिकः` → `अणोऽप्रगृह्यस्यानुनासिकः` | SECOND-PASS S7: Kannada ಅಣೋಽ...; नो → णो |
+| 531 | `*dig-* group of words [?]` → `*akṣādi* group of words` | SECOND-PASS S7: Kannada ಅಕ್ಷಾದಿಗಣದಲ್ಲಿ ಸೇರಿರುವುದರಿಂದ |
+| 531 | `, Pā. Sū. 8-4-57 [?])` → `, Pā. Sū. 8-4-57)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೮-೪-೫೭) |
+| 532 | `, Pā. Sū. 6-4-48)` → `)` | SECOND-PASS S2: Kannada prints no number for ಅತೋಲೋಪಃ |
+| 534 | `(Ni. [?] — numerals unclear in print)` → `(Ni. 2-24)` | SECOND-PASS S1: Kannada (ನಿ. ೨-೨೪) |
+| 535 | `, Pā. Sū. 6-4-77)` → `)` | SECOND-PASS S2: Kannada prints no number for ಅಚಿಶ್ನುಧಾತುಭ್ರುವಾಮ್ |
+| 535 | `(Pā. Sū. 6-4-162 [?])` → `(Pā. Sū. 6-4-162)` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೪-೧೬೨) |
+| 535 | `, Pā. Sū. 6-4-155 [?])` → `, Pā. Sū. 6-4-155)` | SECOND-PASS S1: Kannada (ಪಾ ಸೂ. ೬-೪-೧೫೫) |
+| 536 | `Uṇ. Sū. 1-[158?] [?]` → `Uṇ. Sū. 1-157` | SECOND-PASS S1: Kannada (ಉ. ಸೂ. ೧-೧೫೭) |
+| 536 | `, Pā. Sū. 3-1-78)` → `)` | SECOND-PASS S2: Kannada prints no number for ರುಧಾದಿಭ್ಯಃ ಶ್ನಮ್ |
+| 536 | `, Pā. Sū. 8-3-24)` → `)` | SECOND-PASS S2: Kannada prints no number for ನಶ್ಚಾಪದಾಂತಸ್ಯ ಝಲಿ |
+| 536 | `, Pā. Sū. 8-4-58)` → `)` | SECOND-PASS S2: Kannada prints no number for ಅನುಸ್ವಾರಸ್ಯಯಯಿ ಪರಸವರ್ಣಃ |
+| 536 | `, Pā. Sū. 8-1-28)` → `)` | SECOND-PASS S2: Kannada prints no number for ತಿಜ್ಞತಿಜಃ |
+| 537 | ` (79.4–6)` → `` | SECOND-PASS S16: Kannada gives no Ṛk numbers here |
+| 537 | `(Ā. Sū. 4-13 [?])."` → `(Ā. Sū. 4-13)."` | SECOND-PASS S1: Kannada (ಆ. ೪-೧೩) |
+| 538 | `(Ni. [2-7] [?])` → `(Ni. 3-9)` | SECOND-PASS S2: Kannada (ನಿ. ೩-೯) after ವಾಜ |
+| 538 | `(Ni. [6-2?] [?])` → `(Ni. 6-7)` | SECOND-PASS S2: Kannada (ನಿ. ೬-೭) |
+| 538 | `prakaraṇādiniśāt [?]` → `prakaraṇādivaśāt` | SECOND-PASS S7: Kannada ಪ್ರಕರಣಾದಿವಶಾತ್ |
+| 538 | `प्रकरणादिनिशात् [?]` → `प्रकरणादिवशात्` | SECOND-PASS S7: Kannada ಪ್ರಕರಣಾದಿವಶಾತ್ |
+| 538 | `prathamāsthāvat` → `prathamāyāstāvat` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್ (ದ್ವಿತೀಯಾಸ್ತಾವತ್ etc.); sthā → stā |
+| 538 | `प्रथमास्थावत्` → `प्रथमायास्तावत्` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್; स्था → स्ता |
+| 538 | `dvitīyāsthāvat` → `dvitīyāstāvat` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್ (ದ್ವಿತೀಯಾಸ್ತಾವತ್ etc.); sthā → stā |
+| 538 | `द्वितीयास्थावत्` → `द्वितीयास्तावत्` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್; स्था → स्ता |
+| 538 | `tṛtīyāsthāvat` → `tṛtīyāstāvat` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್ (ದ್ವಿತೀಯಾಸ್ತಾವತ್ etc.); sthā → stā |
+| 538 | `तृतीयास्थावत्` → `तृतीयास्तावत्` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್; स्था → स्ता |
+| 539 | `caturthyāsthāvat` → `caturthyāstāvat` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್ (ದ್ವಿತೀಯಾಸ್ತಾವತ್ etc.); sthā → stā |
+| 539 | `चतुर्थ्यास्थावत्` → `चतुर्थ्यास्तावत्` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್; स्था → स्ता |
+| 539 | `pañcamyāsthāvat` → `pañcamyāstāvat` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್ (ದ್ವಿತೀಯಾಸ್ತಾವತ್ etc.); sthā → stā |
+| 539 | `पञ्चम्यास्थावत्` → `पञ्चम्यास्तावत्` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್; स्था → स्ता |
+| 539 | `ṣaṣṭhyāsthāvat` → `ṣaṣṭhyāstāvat` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್ (ದ್ವಿತೀಯಾಸ್ತಾವತ್ etc.); sthā → stā |
+| 539 | `षष्ठ्यास्थावत्` → `षष्ठ्यास्तावत्` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್; स्था → स्ता |
+| 539 | `saptamyāsthāvat` → `saptamyāstāvat` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್ (ದ್ವಿತೀಯಾಸ್ತಾವತ್ etc.); sthā → stā |
+| 539 | `सप्तम्यास्थावत्` → `सप्तम्यास्तावत्` | SECOND-PASS S7: Kannada …ಸ್ತಾವತ್; स्था → स्ता |
+| 540 | ` (Pā. Sū. 5-2-94)` → `` | SECOND-PASS S2: Kannada prints no number for ತದಸ್ಯಾಸ್ತ್ಯಸ್ಮಿನ್ನಿತಿಮತುಪ್ |
+| 540 | `, Pā. Sū. 2-1-2)` → `)` | SECOND-PASS S2: Kannada prints no number for ಸುಬಾಮಂತ್ರಿತೇ ಪರಾಂಗವತ್ ಸ್ವರೇ |
+| 540 | `, Pā. Sū. 2-4-75)` → `)` | SECOND-PASS S2: Kannada prints no number for ಜುಹೋತ್ಯಾದಿಭ್ಯಃ ಶ್ಲುಃ |
+| 540 | `, Pā. Sū. 6-1-10)` → `)` | SECOND-PASS S2: Kannada prints no number for ಶ್ಲೌ |
+| 540 | `Uṇ. Sū. 4-[188?] [?]` → `Uṇ. Sū. 4-628` | SECOND-PASS S2: Kannada (ಉ. ಸೂ. ೪-೬೨೮) |
+| 540 | `(Pā. Sū. 6-1-197) the initial` → `(Pā. Sū. 6-1-167) the initial` | SECOND-PASS S1: Kannada (ಪಾ ಸೂ. ೬-೧-೧೬೭) |
+| 542 | `(Ni. [1-17?] [?])` → `(Ni. 2-28)` | SECOND-PASS S2: Kannada (ನಿ. ೨-೨೮) |
+| 542 | ` (Pā. Sū. 2-4-73)` → `` | SECOND-PASS S2: Kannada prints no number for ಬಹುಲಂ ಛಂದಸಿ |
+| 542 | ` (Pā. Sū. 3-1-68)` → `` | SECOND-PASS S2: Kannada prints no number for ಕರ್ತರಿ ಶಪ್ |
+| 543 | `, Pā. Sū. 6-4-24)` → `)` | SECOND-PASS S2: Kannada prints no number for ಅನಿದಿತಾಂ ಹಲ ಉಪಧಾಯಾಃ ಕ್ತಿ |
+| 543 | ` (Pā. Sū. 5-2-94)` → `` | SECOND-PASS S2: Kannada prints no number for ತದಸ್ಯಾಸ್ತಿ |
+| 543 | `, Pā. Sū. 6-1-37)` → `)` | SECOND-PASS S2: Kannada prints no number for ನ ಸಂಪ್ರಸಾರಣೇ ಸಂಪ್ರಸಾರಣಂ |
+| 543 | ` (Pā. Sū. 6-1-108)` → `` | SECOND-PASS S2: Kannada prints no number for ಸಂಪ್ರಸಾರಣಾಚ್ಚ |
+| 543 | `Kā. 6-1-[166], vārttika 1 [?]` → `Kā. 6-1-176, vārttika 1` | SECOND-PASS S1: Kannada (ಕಾ. ೬-೧-೧೭೬-೧) |
+| 545 | `(Ṛ. Saṃ. 2-1-6 [?])` → `(Ṛ. Saṃ. 2-1-6)` | SECOND-PASS S1: Kannada (ಋ. ಸಂ. ೨-೧-೬) |
+| 545 | `(Ni. [1-9?] [?])` → `(Ni. 2-21)` | SECOND-PASS S2: Kannada (ನಿ. ೨-೨೧) |
+| 546 | `Pā. Sū. 6-1-[161]` → `Pā. Sū. 6-1-161` | SECOND-PASS S1: Kannada (ಪಾ. ಸೂ. ೬-೧-೧೬೧) |
+| 546 | ` (Pā. Sū. 6-4-75)` → `` | SECOND-PASS S2: Kannada prints no number for ಬಹುಲಂ ಛಂದಸ್ಯಮಾಜ್ಯೋಗೇಽಪಿ |
+| 546 | `asya tvā vīra` → `asya ghā vīra` | SECOND-PASS S7: Kannada ಆಸ್ಯ ಘಾ ವೀರ (ಘಾ = ghā) |
+| 546 | `अस्य त्वा वीर` → `अस्य घा वीर` | SECOND-PASS S7: Kannada ಘಾ |
+| 547 | ` (or *svar*)` → `` | SECOND-PASS S16: Kannada says only ಕ್ಷರ ಧಾತುವಿಗೆ |
+| 548 | `(Āśv. 4-[13] [?])` → `(Āśv. 4-13)` | SECOND-PASS S1: Kannada (ಆ. ೪-೧೩) |
+| 548 | `(Ni. [2-1] [?])` → `(Ni. 3-1)` | SECOND-PASS S2: Kannada (ನಿ. ೩-೧) |
