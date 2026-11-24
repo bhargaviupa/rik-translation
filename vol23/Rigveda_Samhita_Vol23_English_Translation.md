@@ -8469,6 +8469,154 @@ Vaṣaṭkāra is a mighty weapon like the thunderbolt. If the sacrificer has an
 
 In the word नौषट् (*nauṣaṭ*) the word षट् (*ṣaṭ*) is present. Here ṣaṭ means the six seasons.
 
+### Printed p. 206
+
+In one year there are six seasons. So when he offers the oblation with the vaṣaṭkāra, it is as though he had satisfied the six seasons. Not only that: since everything is thereby satisfied, he becomes victorious in all undertakings. The next passage explains this at length.
+
+प्रतितिष्ठति य एवं वेद तदु ह स्माह हिरण्यदन्बैद एतानि वा एतेन षट् प्रतिष्ठापयति द्यौरंतरिक्षॆः प्रतिष्ठितान्तरीक्षं पृथिव्यां पृथिव्यप्स्वापः सत्ये सत्यं ब्रह्मणि ब्रह्म तपसीत्येता एव तत्पत्रिष्ठांतीरिदं सर्वमनु प्रतितिष्ठति यदिदं किंच प्रतितिष्ठति य एवं वेद........ ॥ (*pratitiṣṭhati ya evaṃ veda tadu ha smāha hiraṇyadanbaida etāni vā etena ṣaṭ pratiṣṭhāpayati dyauraṃtarikṣèḥ pratiṣṭhitāntarīkṣaṃ pṛthivyāṃ pṛthivyapsvāpaḥ satye satyaṃ brahmaṇi brahma tapasītyetā eva tatpatriṣṭhāṃtīridaṃ sarvamanu pratitiṣṭhati yadidaṃ kiṃca pratitiṣṭhati ya evaṃ veda........ ‖*) (Ai. Brā. 11.6)
+
+On this matter the son of the ṛṣi Bida, whose row of teeth was golden, has spoken thus: by the vaṣaṭkāra the Hotṛ establishes six supports, from the world of heaven up to Brahman. That is: since the atmosphere lies below heaven, heaven rests upon the atmosphere. Likewise the atmosphere rests on the earth, the earth on the waters below it, and the waters on truth. If people are truthful, rain falls in due season; therefore it is said that the waters are established in truth. That truth is established in Brahman (the Veda), and Brahman in austerity (tapas), which has the form of the vaṣaṭkāra mantra. It should therefore be understood that the whole world abides in the vaṣaṭkāra. The man who knows this becomes, as it were, the conqueror of everything.
+
+There are three kinds of vaṣaṭkāra; their nature is now explained:
+
+त्रयो वै वषट्कारा नज्रो धामच्छद्रिक्तः । (*trayo vai vaṣaṭkārā najro dhāmacchadriktaḥ |*) (Ai. Brā. 11-7)
+
+Of vaṣaṭkāras there are three kinds: vajra, dhāmacchad and rikta.
+
+स यमेवोच्चैर्बलि वषट्क्योति स वज्रः । तु तं प्रहरति द्विषते भ्रातृव्याय वधं योऽस्य स्तृत्यस्तस्यॆ स्तरवे तस्मात्स भ्रातृव्यवता वषट्कृत्यः ॥ (*sa yamevoccairbali vaṣaṭkyoti sa vajraḥ | tu taṃ praharati dviṣate bhrātṛvyāya vadhaṃ yo 'sya stṛtyastasyè starave tasmātsa bhrātṛvyavatā vaṣaṭkṛtyaḥ ‖*)
+
+Because the Hotṛ pronounces this vaṣaṭkāra in a firm, forceful voice, it has come to be named vajra. When the sacrificing Yajamāna wishes to destroy his enemies, he applies this vaṣaṭkāra, and in the form of the thunderbolt it strikes and destroys the Yajamāna's enemy. Therefore a Yajamāna who desires the destruction of an enemy should use this vaṣaṭkāra, which is of the nature of the thunderbolt.
+
+अथ यः समः संततोऽनिर्हाणर्चः स धामच्छत् । तं तु प्रजाप शरवश्चानूपतिष्ठंते तस्मात्स प्रजाकामेन पशुकामेन वषट्कृत्यः ॥ (*atha yaḥ samaḥ saṃtato 'nirhāṇarcaḥ sa dhāmacchat | taṃ tu prajāpa śaravaścānūpatiṣṭhaṃte tasmātsa prajākāmena paśukāmena vaṣaṭkṛtyaḥ ‖*)
+
+### Printed p. 207
+
+Here an explanation of the manner of pronouncing the vaṣaṭkāra is needed. It was stated earlier that the word vauṣaṭ is to be added at the end of the Yājyā mantra and recited. In pronouncing the vaṣaṭkāra vauṣaṭ in this connection, it must be pronounced in three ways, according to the three kinds of vaṣaṭkāra: vajra, dhāmacchad and rikta. When the vaṣaṭkāra called vajra is used, the Yājyā mantra is pronounced in an ordinary voice, and at the end vauṣaṭ is pronounced in a firm voice; and the last syllable of the Yājyā mantra is joined with the Oṃkāra, that is, the last syllable is pronounced as though accompanied by Oṃ, and after that vauṣaṭ is pronounced in a firm voice. In the Ṛk given earlier as an example,
+
+त्रिर्देवः पृथिवीमेष एतां वि चक्रमे शतर्चसु महित्वा । प्र विष्णुरस्तु तवसस्तवीयान्वेषं ह्यस्य स्थविरस्य नाम ॥ (*trirdevaḥ pṛthivīmeṣa etāṃ vi cakrame śatarcasu mahitvā | pra viṣṇurastu tavasastavīyānveṣaṃ hyasya sthavirasya nāma ‖*)
+
+the last part is स्थविरस्य नाम (*sthavirasya nāma*). If Oṃ is added to it, it becomes स्थविरस्य नामों (*sthavirasya nāmoṃ*). In this way the Ṛk is pronounced as स्थविरस्य नामों (*sthavirasya nāmoṃ*) in an even voice, and then the word vauṣaṭ is pronounced in a firm voice. This is the method of pronouncing the vaṣaṭkāra called vajra. Now, to pronounce the vaṣaṭkāra called dhāmacchad, the Yājyā mantra is pronounced without any alteration, that is, only as स्थविरस्य नाम (*sthavirasya nāma*) (without Oṃ at the end), and then the word vauṣaṭ is recited. This is the manner of pronouncing the dhāmacchad vaṣaṭkāra. A Yajamāna who desires offspring and cattle should offer the oblation by this method of the dhāmacchad vaṣaṭkāra.
+
+अथ येनैव षळवराध्योति स रिक्तः । र्णक्त्यात्मानं रिणक्ति यजमानं पाहीयान्वषट्यर्ता भवति पापीयान्यस्मै वषट्करोति तस्मात्तस्याशां नेयात् (*atha yenaiva ṣaḷavarādhyoti sa riktaḥ | rṇaktyātmānaṃ riṇakti yajamānaṃ pāhīyānvaṣaṭyartā bhavati pāpīyānyasmai vaṣaṭkaroti tasmāttasyāśāṃ neyāt*)
+
+If, when pronouncing the word vauṣaṭ, the word ṣaṭ is pronounced softly in a low voice, that vaṣaṭkāra is called rikta. Rikta means "empty". So if the oblation is offered with this rikta vaṣaṭkāra, the sacrificing Yajamāna falls into an empty state, with nothing, and sin befalls him as well. The Ṛtvij who has the oblation offered also becomes the worst of sinners. Therefore neither a Yajamāna nor an Ṛtvij who desires well-being should ever use this rikta vaṣaṭkāra.
+
+किं स यजमानस्य पापभद्रमाद्रियेतेति ह स्माह योऽस्य होता स्यादित्यत्रैवैनं यथा कामयेत तथा कुर्यात् । यं कामयेत यथैवानीजानोऽभूत्तथैवेजानः स्यादिति यथैवास्य ऋचु ब्रूयात्तथैवास्य वषट्कुर्यात्सदृशमेवैनं तत्करोति ॥ (*kiṃ sa yajamānasya pāpabhadramādriyeteti ha smāha yo 'sya hotā syādityatraivainaṃ yathā kāmayeta tathā kuryāt | yaṃ kāmayeta yathaivānījāno 'bhūttathaivejānaḥ syāditi yathaivāsya ṛcu brūyāttathaivāsya vaṣaṭkuryātsadṛśamevainaṃ tatkaroti ‖*)
+
+### Printed p. 208
+
+The Ṛtvij called Hotṛ, who plays the chief part in the sacrifice, if he wishes to do either good or ill to the sacrificing Yajamāna, may do so accordingly. In whatever way the Hotṛ wishes, he may act in that way. How? If the Hotṛ wishes that the Yajamāna should not receive the proper fruit of having sacrificed, then, instead of pronouncing the Yājyā mantra in the ordinary way and the vaṣaṭkāra firmly, the Hotṛ pronounces the Yājyā and the vaṣaṭkāra mantras in one and the same even voice; then the Yajamāna does not obtain the fruit of his sacrifice.
+
+यं कामयेत पापीयान्स्यादित्युच्चैस्तरामस्य ऋचमुक्त्वा शनैस्तरां वषट्कार्यात्पापीयांसमेवैनु तत्करोति (*yaṃ kāmayeta pāpīyānsyādityuccaistarāmasya ṛcamuktvā śanaistarāṃ vaṣaṭkāryātpāpīyāṃsamevainu tatkaroti*)
+
+If the Hotṛ wishes that the Yajamāna should not obtain the fruit of the sacrifice but only sin, then he recites the Ṛk of the Yājyā mantra in a firm voice and the vaṣaṭkāra in a soft voice. If he does so, sin befalls the Yajamāna.
+
+यं कामयेत श्रेयान्सादिति शनैस्तरामस्य ऋचमुक्तोच्चैस्तरां वषट्कुर्याच्छ्रिय एवैनं तच्छ्रियवादधाति । (*yaṃ kāmayeta śreyānsāditi śanaistarāmasya ṛcamuktoccaistarāṃ vaṣaṭkuryācchriya evainaṃ tacchriyavādadhāti |*)
+
+Otherwise, if the Hotṛ desires that the Yajamāna should have well-being, he recites the Yājyā mantra in a soft voice and the vaṣaṭkāra in a firm voice. If he does so, well-being comes to the Yajamāna.
+
+संततमृचा वषट्कृत्यं संतत्यै । संधीयते प्रजया पशुभिर्य एवं वेद ॥ (*saṃtatamṛcā vaṣaṭkṛtyaṃ saṃtatyai | saṃdhīyate prajayā paśubhirya evaṃ veda ‖*) (Ai. Brā. 11-7)
+
+In pronouncing the Yājyā mantra and the vaṣaṭkāra one important matter must be observed. The Yājyā mantra must not be pronounced to its end, then followed by a short pause, and the vaṣaṭkāra pronounced after that. The vaṣaṭkāra is to be regarded as one (final) part of the Yājyā mantra, and from the beginning of the Ṛk up to vauṣaṭ it is to be pronounced as one continuous stream, without any stop whatever in between. The man who knows this obtains offspring and wealth in cattle and is happy.
+
+There are certain rules that the Hotṛ must follow when reciting the vaṣaṭkāra. They must be observed without fail. Otherwise, just as danger arises from the use of a sharp weapon, harm will arise from the use of the vaṣaṭkāra—
+
+यस्यै देवताय्कॆ हविर्गृहीतं स्यात्तां ध्यायेद्वषट्करिष्यन्साक्षादेव तद्देवतां प्रीणाति व्रत्यक्षाद्देवतां यजति ॥ (*yasyai devatāykè havirgṛhītaṃ syāttāṃ dhyāyedvaṣaṭkariṣyansākṣādeva taddevatāṃ prīṇāti vratyakṣāddevatāṃ yajati ‖*) (Ai. Brā. 11-8)
+
+### Printed p. 209
+
+The deity to whom the Hotṛ offers the oblation with the vaṣaṭkāra, that deity he should meditate on in his mind while reciting the mantra, and then offer the oblation with the vaṣaṭkāra. If he does so, it is as though he had made the deity visibly present and satisfied it. If one asks whether it is possible to see the deities directly, that is, to realize them face to face: it is not possible to see them directly with the eyes. But by meditation in the mind one can imagine in the mind that the deity stands visibly before oneself. This may be called "direct".
+
+वज्रो वै षषट्कारः स एष प्रहृतोऽशांतो दीदाय तस्य हैतस्य न सर्व इव शांतिं वेद न प्रतिष्ठां तस्माद्दाप्येतर्हि भूयानिव मृत्युस्तस्य हैषैव शांतिरेषा प्रतिष्ठा वागित्येव तस्माद्वषट्कृत्य वागित्यनुमंत्रयेत स एनं शांतो न हिनस्ति ॥ (*vajro vai ṣaṣaṭkāraḥ sa eṣa prahṛto 'śāṃto dīdāya tasya haitasya na sarva iva śāṃtiṃ veda na pratiṣṭhāṃ tasmāddāpyetarhi bhūyāniva mṛtyustasya haiṣaiva śāṃtireṣā pratiṣṭhā vāgityeva tasmādvaṣaṭkṛtya vāgityanumaṃtrayeta sa enaṃ śāṃto na hinasti ‖*)
+
+It was said earlier that the vaṣaṭkāra is as sharp as the thunderbolt and that harm results if it is not rightly used. Not everyone knows its use. Just as many fall to death in battles when a weapon is used wilfully without knowing its method, so here too many may suffer harm through misuse of the vaṣaṭkāra mantra. Therefore, to pacify it, the mantra beginning नागोजः (*nāgojaḥ*) must be recited. By reciting this mantra the harm that could arise from misuse of the vaṣaṭkāra is removed. There is no other remedy for averting harm. Therefore at the time of sacrifice the mantra नागोजः (*nāgojaḥ*) must be pronounced after every vaṣaṭkāra. If this is done, no evil comes from the vaṣaṭkāra, which is of the nature of the thunderbolt. This is the view of some. Others speak differently.
+
+वषट्कार मा मां प्रमृक्षो माहु त्वां प्रमृक्षु बृहता मन उपह्वये व्यानेन शरीरं प्रतिष्ठासि प्रतिष्ठां गच्छ प्रतिष्ठां मा गमयेति वषट्कारमनुमंत्रयेत ॥ (*vaṣaṭkāra mā māṃ pramṛkṣo māhu tvāṃ pramṛkṣu bṛhatā mana upahvaye vyānena śarīraṃ pratiṣṭhāsi pratiṣṭhāṃ gaccha pratiṣṭhāṃ mā gamayeti vaṣaṭkāramanumaṃtrayeta ‖*)
+
+The Yajamāna who sacrifices should address the anumantraṇa (pacification) thus: "O vaṣaṭkāra, do not thrust me, who am performing the sacrifice, aside and destroy me; I too shall not push you. By this great sacrificial rite I win over your mind. With Vyāna and the other vital airs I pervade your body and cooperate with you. You are the support of the whole host of living beings. Therefore go to your own excellent abode, and grant that I too may go to mine." So the Yajamāna should pray.
+
+तदु ह स्माह दीर्घमेतत्सदप्रभ्वोजः सह ओजः । (*tadu ha smāha dīrghametatsadaprabhvojaḥ saha ojaḥ |*)
+
+### Printed p. 210
+
+ओजश्च ह वै सहश्च वषट्कारस्य प्रियतमे तन्वौ प्रियेणैवैनं तद्धाम्ना समर्धयति प्रियेण धाम्ना समृध्यते य एवं वेद ॥ (*ojaśca ha vai sahaśca vaṣaṭkārasya priyatame tanvau priyeṇaivainaṃ taddhāmnā samardhayati priyeṇa dhāmnā samṛdhyate ya evaṃ veda ‖*)
+
+Some Brahmavādins say: "This mantra is very long, so reciting it is a great labour. Besides, does it pacify the vaṣaṭkāra, which is of the nature of the thunderbolt, or not? Therefore one may recite the short mantra ओजः सह ओजः (*ojaḥ saha ojaḥ*), which also pacifies the vaṣaṭkāra." This mantra has only three words. Ojas means capacity; sahas means strength. These two are said to be the dear bodies of the vaṣaṭkāra. By thus pronouncing the bodies dear to the vaṣaṭkāra, the anger and the like that arise in the vaṣaṭkāra through deficiency in the mantra and so on are pacified, and it works for the Yajamāna's good. The third word in the mantra, ओजः (*ojaḥ*), is repeated out of respect; it has no separate meaning. For the man who knows this, the vaṣaṭkāra brings prosperity.
+
+वाच्य वै प्राणापानौ च वषट्कारस्त एते वषट्कृते वषट्कृते व्युत्क्रामंति ताननुमंत्रयेत नागोजः सह ओजो मयि प्राणापानावित्यात्मन्येव तद्धोता वाचं च प्राणापानौ च प्रतिष्ठापयति सर्वायुः सर्वायुत्वाय सर्वमायुरेति य एवं वेद ॥ (*vācya vai prāṇāpānau ca vaṣaṭkārasta ete vaṣaṭkṛte vaṣaṭkṛte vyutkrāmaṃti tānanumaṃtrayeta nāgojaḥ saha ojo mayi prāṇāpānāvityātmanyeva taddhotā vācaṃ ca prāṇāpānau ca pratiṣṭhāpayati sarvāyuḥ sarvāyutvāya sarvamāyureti ya evaṃ veda ‖*) (Ai. Brā. 11-8)
+
+Speech, prāṇa (the out-breath) and apāna (the in-breath) are the nature of the vaṣaṭkāra. Whenever the Hotṛ pronounces the vaṣaṭkāra at the end of a mantra, this speech, prāṇa and apāna go out of the Hotṛ's body. To prevent that, they should be included in the anumantraṇa. The anumantraṇa is नागोजः सह ओजो वयि प्राणापान् (*nāgojaḥ saha ojo vayi prāṇāpān*)**NOTE**. Its meaning is: "O vaṣaṭkāra, whose dear bodies are the two, capacity and strength, by your favour may capacity and strength abide in me; and may speech, prāṇa and apāna not leave my body but remain steady in me." By reciting this mantra the Hotṛ becomes able to hold speech, prāṇa and apāna from going out and to keep them in himself. And for this reason he obtains his appointed full lifespan (up to a hundred years). The man who knows this also obtains a full lifespan and is happy.
+
+Svastibhiḥ: अविनाशो यथा भवति तथा । (*avināśo yathā bhavati tathā |*) Sāyaṇa explains the word svasti as an adverb: "so as not to perish, so as to remain uninterruptedly in excellent condition without any danger". The word svasti (Ni. 3-21): स्वस्तित्यविनाशिनाम अस्तिरभिपूजितः सु अस्तीति । (*svastityavināśināma astirabhipūjitaḥ su astīti |*) it has the meaning "imperishable" (not undergoing destruction).
+
+### Printed p. 211
+
+In this word, composed of the two words su + asti, the Nirukta authors have explained that asti is in the sense of worship. This word is used in this same sense in many places—
+
+स नः पितेव सूनवेग्ने सूपायनो भव । स च स्नानः स्वस्तये ॥ (*sa naḥ piteva sūnavegne sūpāyano bhava | sa ca snānaḥ svastaye ‖*) (Ṛ. Saṃ. 1-1-9)
+
+Here स्वस्तये (*svastaye*) means "for our welfare". And having stated the word svasti in पथ्या स्वस्तिः पंथा अंतरिक्षं तन्निवासात् । (*pathyā svastiḥ paṃthā aṃtarikṣaṃ tannivāsāt |*) (Ni. 11-45), the Nirukta quotes the verse—
+
+स्वस्तिरिद्दि प्रपथे श्रेष्ठा रेक्ण स्वत्यभि या नाममेति । सा नो अमा सो अरणे नि पातु स्वावेशा भवतु देवगोपा ॥ (*svastiriddi prapathe śreṣṭhā rekṇa svatyabhi yā nāmameti | sā no amā so araṇe ni pātu svāveśā bhavatu devagopā ‖*) (Ṛ. Saṃ. 10-63-76) (Ṛ. Saṃ. 10-63-79)**NOTE**
+
+and, having cited this passage, explains the greatness of svasti with the commentary:
+
+स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्णस्वती धनवत्यभ्येति या वसूनि वननीयानि सा नोःऽमा गृहे सा निरमणॆः सा निर्गमने पातु स्वावेशाभवतु देवी गोप्री देवान् गोपायत्विति देवा एनां गोपायंत्विति वा ॥ (*svastireva hi prapathe śreṣṭhā rekṇasvatī dhanavatyabhyeti yā vasūni vananīyāni sā noḥ 'mā gṛhe sā niramaṇèḥ sā nirgamane pātu svāveśābhavatu devī goprī devān gopāyatviti devā enāṃ gopāyaṃtviti vā ‖*) (Ni. 11-45)
+
+Svasti dwells in the atmosphere; it is the most praiseworthy of all deities; it is wealthy; it sends down waters. May it bring protection to one who dwells in the forest and to one who dwells in a house, both in the forest and inside and outside the house. May this shining goddess protect the gods, and the gods protect this goddess, by the offering of oblations; or else may this goddess protect us who offer oblations. May the rays that dwell in the heaven-region protect this goddess. So they have explained.
+
+Skandasvāmin:
+
+स्वस्ति अंतर्णीत मत्त्वर्थोऽत्र स्वस्तिशब्दः स्वस्तिमतं अविनष्टं जीवंतमित्यर्थः। (*svasti aṃtarṇīta mattvartho 'tra svastiśabdaḥ svastimataṃ avinaṣṭaṃ jīvaṃtamityarthaḥ|*)
+
+Since the word svasti is used here in the sense of impelling, he explains the meaning thus: the Aśvin deities protected the ṛṣi Atri so that he remained alive. And he cites, saying that Kutsa also spoke thus, this mantra**NOTE**:
+
+याभिः शुचंतिं धनसां सुषंसदं तप्तं घर्ममोम्यावंतमत्रये । याभिः पृश्निगुं पुरुकुत्समावतं ताभिरू षु ऊतिभिरश्विना गतं ॥ (*yābhiḥ śucaṃtiṃ dhanasāṃ suṣaṃsadaṃ taptaṃ gharmamomyāvaṃtamatraye | yābhiḥ pṛśniguṃ purukutsamāvataṃ tābhirū ṣu ūtibhiraśvinā gataṃ ‖*) (Ṛ. Saṃ. 1-112-7)
+
+Here the hundredth sūkta ends.
+
+### Printed p. 213
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+ऋक्संहिताभाष्येपंचमाष्टके षष्ठोऽध्यायः समाप्तः ॥ (*ṛksaṃhitābhāṣyepaṃcamāṣṭake ṣaṣṭho 'dhyāyaḥ samāptaḥ ‖*)
+
+इति श्री मद्राजाधिराजपरमेश्वर वैदिकमार्गप्रवर्तक श्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणामात्येन विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये पंचमाष्टके षष्ठोऽध्यायः समाप्तः ॥ (*iti śrī madrājādhirājaparameśvara vaidikamārgapravartaka śrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇāmātyena viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye paṃcamāṣṭake ṣaṣṭho 'dhyāyaḥ samāptaḥ ‖*) ॥ ओं तत्त्वत् ॥ (*‖ oṃ tattvat ‖*)
+
+Here, in the fifth Aṣṭaka of the Ṛgveda Saṃhitā with the commentary of Śrī Sāyaṇa and with the Kannada translation, the sixth adhyāya is concluded.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+॥ शुभं भूयात् ॥ (*‖ śubhaṃ bhūyāt ‖*) ॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+
+॥ श्री ॥ (*‖ śrī ‖*) ॥ श्री महागणाधिपतये नमः ॥ (*‖ śrī mahāgaṇādhipataye namaḥ ‖*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुक्रमे . यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmukrame . yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्यसितं वेदा यो वेदेभ्योखिलं जगत्' । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśyasitaṃ vedā yo vedebhyokhilaṃ jagat ' | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्याया सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyā sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda Saṃhitā with the commentary of Sāyaṇa.
+
+Now the seventh adhyāya in the fifth Aṣṭaka.
+
+The seventh adhyāya in the fifth Aṣṭaka. The hundred-and-first sūkta in the seventh Maṇḍala.
+
+## Sūkta 101 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ सप्तमो व्याख्यायते । सप्तममंडलस्य षष्ठेऽनुवाक एकादश सूक्तानि
+> व्याख्यातानि । तिस्रो वाच इति षडृचं द्वादशं सूक्तं । अत्रानुक्रम्यते । तिस्रः षट्
+> पार्जन्यं त्विति । एते कुमार आग्नेयोऽपश्यद्वसिष्ठ एव वेति वक्ष्यमाणत्वादग्निपुत्रः
+> कुमार ऋषिर्वसिष्ठो वा । अनुक्तत्वात्रिष्टुप् । इदमुत्तरं च पर्जन्यदेवत्यं ॥
+> अत्र शौनकः । आस्यदघ्नं विगाह्यापः प्राज्मुखः प्रयतः शुचिः । सूक्ताभ्यां तिस्र
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: now the seventh adhyāya is explained. In the sixth anuvāka of the seventh Maṇḍala eleven sūktas have been explained. The twelfth sūkta is the six-verse hymn तिस्रो वाच (*tisro vāca*). Here the Anukramaṇī states: तिस्रः षट् पार्जन्यं त्विति (*tisraḥ ṣaṭ pārjanyaṃ tviti*). Because it will be said एते कुमार आग्नेयोऽपश्यद्वसिष्ठ एव वेति (*ete kumāra āgneyo 'paśyadvasiṣṭha eva veti*), the seer is Kumāra, the son of Agni, or else Vasiṣṭha. The metre is Triṣṭubh, since no other is stated. This sūkta and the following one have Parjanya as their deity. Here Śaunaka (says): after entering water up to the mouth, facing east, restrained and pure, with the two sūktas ….
+
 ---
 
-**Progress note:** Done through printed p. 205. pp. 199-205 (batch API)
+**Progress note:** Done through printed p. 213. pp. 206-213 (batch API)
