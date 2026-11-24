@@ -14226,6 +14226,279 @@ Be propitious to the cows b- prcpitious to the people, slay the Rakshasas, remed
 > अत्रेऽइव ! शृणुतं । पूर्व्यस्तुतिं । श्याव अश्वस्य । सुन्वतः । मदच्युता ।  
 > सजोषसौ । उषसा ! सूर्येण । च । अश्विना । तिरःअह्न्यं ॥ १९ ॥
 
+### Printed p. 313
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ मदच्युता शत्रुणां मदस्य ज्ञावयितारौ युवां सुन्वतोभिषवं कुर्वतः श्यावाश्वस्य मम पितामहस्यात्रेरिव पूर्वस्तुतिं मुख्यां स्तुतिं
+> शृणुतं । उषसा सूर्येण च संगतौ तिरोअह्न्यं सोमं पिबतं । तिरोहिते
+> पूर्वस्त्विन्नहन्यपरेद्युः प्रातरश्विनोर्याग इति !
+
+##### Gist of the bhāṣya
+
+O Aśvins, you who bring down the pride of enemies **NOTE**, hear the chief praise of me, Śyāvāśva, who press the Soma, as you heard that of Atri, my grandfather. United with Uṣas and with Sūrya, drink the Soma prepared on the previous day. He adds that on the day that has passed, the offering to the Aśvins is made in the morning of the next day **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- मदच्युता (*madacyutā*)—you who destroy the pride of enemies
+- सुन्वतः (*sunvataḥ*)—of him who presses the Soma and offers it
+- श्यावाश्वस्य (*śyāvāśvasya*)—of Śyāvāśva
+- पूर्व स्तुतिं (*pūrva stutiṃ*)—the chief praise
+- अत्रेरिव (*atreriva*)—as the praise of Atri was heard
+- शृणुतं (*śṛṇutaṃ*)—hear
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- तिरोः अह्न्यं (*tiroḥ ahnyaṃ*)—drink the Soma prepared on the previous day
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who destroy the pride of enemies, hear the chief praise of Śyāvāśva, who presses the Soma and offers it, as you heard the praise of Atri. Being united with Uṣas and with Sūrya, drink the Soma prepared on the previous day.
+
+##### English translation
+Humblers of the pride (of your enemies), hear the earnest praise of Shyavashwa offering libations as (you did) that of Atri, and, united with the dawn and with Surya. (drink), Aswins, (the Soma) prepared the previous day.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर्गा॑ इव सृजतं सुष्टु॒तीरुप॑ श्या॒वाश्व॑स्य सुन्व॒तो म॑दच्युता ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चाश्वि॑ना ति॒रोअ॑ह्न्यं ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सर्गान् इव । सृजतं ! सुस्तुतीः । उप । श्याव अश्वस्य । सुन्वतः । मद्च्युता ।  
+> सजोषसौ । उषसा । सूर्येण । च । अश्विना । तिरः आह्न्यं ॥ २० ॥
+
+### Printed p. 314
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ श्यावाश्वस्य मम सुष्टुतीः शोभनाः स्तुतीः सर्गानिव । आभरणानि
+> वा हवींषि वा सर्गाः । तान्यथा तथात्मन्युप सृजतं । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, bring to yourselves my, Śyāvāśva's, good praises, as one brings sargas. Sargas are either ornaments or oblations; as one fastens these on oneself, so fasten my praises on yourselves. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदच्युता (*madacyutā*)—you who destroy the pride of enemies
+- अश्विना (*aśvinā*)—O Aśvin deities
+- सुन्वतः (*sunvataḥ*)—of him who presses the Soma and offers it
+- श्यावाश्वस्य (*śyāvāśvasya*)—of Śyāvāśva
+- सुष्टुतीः (*suṣṭutīḥ*)—excellent praises
+- सर्गान् इव (*sargān iva*)—as one puts on ornaments
+- उप सृजतं (*upa sṛjataṃ*)—offer to yourselves
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- तिरो आह्न्यं (*tiro āhnyaṃ*)—drink the Soma prepared on the previous day
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who destroy the pride of enemies, take to yourselves the excellent praises of Śyāvāśva, who presses the Soma and offers it, as one puts on ornaments. Being united with Uṣas and with Sūrya, drink the Soma prepared on the previous day.
+
+##### English translation
+Humblers of the pride (of your enemies), accept the earnest praises of Shyavashwa offering you libations as if you were accepting oblations; and, united with the dawn and with Surya, (drink), Aswins, (the Soma) prepared the previous day.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒श्मीरि॑व यच्छतमध्व॒रा उप॑ श्या॒वाश्व॑स्य सुन्व॒तो म॑दच्युता ।  
+> स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चाश्वि॑ना ति॒रोअ॑ह्न्यं ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रश्मीन् इव । यच्छतं । अध्वरान् । उप । श्याव अश्वस्य । सुन्वतः । मद्च्युता ।  
+> सजोषसौ । उषसा । सूर्येण । च । अश्विना । तिरः आह्न्यं ॥ २१ ॥
+
+### Printed p. 315
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् श्यावाश्वस्य ममाध्वराष्ट्रीनिव यथाश्वप्रग्रहांस्तद्वदुप यच्छतं ।
+> उपगच्छतं । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, hold fast to my, Śyāvāśva's, sacrifices, as one holds the reins of horses; that is, approach them. The rest is established **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदुच्युता (*maducyutā*)—you who destroy the pride of enemies
+- अश्विना (*aśvinā*)—O Aśvin deities
+- सुन्वतः (*sunvataḥ*)—of the sacrificer
+- श्वावाश्वस्य (*śvāvāśvasya*)—of me, named Śyāvāśva
+- अध्वरान् (*adhvarān*)—the sacrifices
+- रश्मीनिव (*raśmīniva*)—as one holds the bridles of horses
+- उप यच्छतं (*upa yacchataṃ*)—come, resorting to them firmly
+- उषसा (*uṣasā*)—with Uṣas
+- सूर्येण च (*sūryeṇa ca*)—and with Sūrya
+- सजोषसा (*sajoṣasā*)—being united
+- तिरो अह्न्यं (*tiro ahnyaṃ*)—drink the Soma prepared on the previous day
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who destroy the pride of enemies, come, resorting firmly to the sacrifices of me, the sacrificer named Śyāvāśva, as one holds the bridles of horses. Being united with Uṣas **NOTE** and with Sūrya, drink the Soma prepared on the previous day.
+
+##### English translation
+Humblers of the pride (of your enemies), seize the sacrifices of Shyavashwa offering libations as you seize your reins; and united with the dawn and with Surya, (drink), Aswins, (the Soma) prepared the previous day.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्वाग्रथं॒ नि य॑च्छतं॒ पिब॑तं सो॒म्यं मधु॑ ।  
+> आ या॑तमश्वि॒ना ग॑तमव॒स्युर्वा॑म॒हं हु॑वे ध॒त्तं रत्ना॑नि  ॒॑
+> दाशुषे ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्वाक् । रथं । नि । यच्छतं । पिबतं । सोम्यं । मधु ।  
+> आ । यातं । अश्विना । आ । गतं । अवस्युः । नां । अहं । हुवे । धत्तं । रत्नानि ।  
+> दाशुषे ॥ २२ ॥
+
+### Printed p. 316
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां स्वीयं रथमर्वागस्मदभिमुखं नि यच्छतं । सोम्यं
+> सोममयं मध्वमृतं च पिबतं । यज्ञमा यातं च । सोमं प्रत्या गतं ।
+> आगच्छतं च । अवस्य रक्षणकामोऽहं श्यावाश्वो वां हुवे । ह्वयामि । दाशुषे
+> हवींषि प्रयच्छते मह्यं रत्नानि धत्तं । धारयतं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, direct your own chariot towards us. Drink the Soma-made sweet nectar. Come to the sacrifice and come towards the Soma. I, Śyāvāśva, desiring protection, invoke you. Bestow jewels on me, who offer oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- रथं (*rathaṃ*)—your chariot
+- अर्वाक् नि यच्छतं (*arvāk ni yacchataṃ*)—drive it down towards us
+- सोम्यं (*somyaṃ*)—made of Soma
+- मधु (*madhu*)—the nectar
+- पिबतं (*pibataṃ*)—drink
+- आ यातं (*ā yātaṃ*)—come to us
+- आ गतं (*ā gataṃ*)—come towards the Soma
+- अवस्युः (*avasyuḥ*)—desiring your protection
+- अहं (*ahaṃ*)—I
+- वां (*vāṃ*)—you
+- हुवे (*huve*)—I pray and call
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblations
+- रत्नानि (*ratnāni*)—jewels
+- धत्तं (*dhattaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, drive your chariot down towards us. Drink the nectar made of Soma. Come to us. Come towards our Soma. I, desiring your protection, pray and call you. Give jewels to the sacrificer who offers oblations.
+
+##### English translation
+Direct your chariot downwards, drink the Soma nectar; come, Aswins, come (hither); desirous of your protection, I invoke you; give precious riches to the donor of the offering.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒मो॒वा॒के प्रस्थि॑ते अध्व॒रे न॑रा वि॒वक्ष॑णस्य पी॒तये॑ ।  
+> आ या॑तमश्वि॒ना ग॑तमव॒स्युर्वा॑म॒हं हु॑वे ध॒त्तं रत्ना॑नि  ॒॑
+> दाशुषे ॥ २३ ॥
+
+### Printed p. 317
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नमः प्रस्थिते । अध्वरे । नरा । विवक्षणस्य । पीतये ।  
+> आ । यातं । अश्विना । आ । गतं । अवस्युः । वां । अहं । हुवे । धत्तं । रत्नानि ।  
+> दारुषे ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दे अश्विन् नरा नेतार् युवां विवक्षणस्य हवनशीलस्य मम प्रस्थिते
+> नमोवाके । नमस्काराय प्रोच्यते स नमोवाकः । तस्मिन्नध्वरे यज्ञे । तथा च
+> ब्राह्मणः । उभयं सह वा एतदृज्ञ एव यत्सूक्तवाकश्च नमोवाकश्च । शत. १-९-१-४ । इति । पीतये सोमपानाया यातं । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, leaders, when the namovāka, which is uttered for the sake of adoration, has begun at the sacrifice of me, the one who invokes, come for the drinking of the Soma. The Brāhmaṇa is cited: उभयं सह वा एतदृज्ञ एव यत्सूक्तवाकश्च नमोवाकश्च । (*ubhayaṃ saha vā etadṛjña eva yatsūktavākaśca namovākaśca |*) (Śata. 1-9-1-4) **GLOSS** **NOTE**. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders
+- आश्विना (*āśvinā*)—O Aśvin deities
+- विवक्षणस्य (*vivakṣaṇasya*)—of me, the praiser
+- नमोवाके (*namovāke*)—the praise accompanied by adoration
+- प्रस्थिते (*prasthite*)—when it has begun
+- अध्वरे (*adhvare*)—at the sacrifice
+- पीतये (*pītaye*)—for the drinking of Soma
+- आ यातं (*ā yātaṃ*)—be gracious
+- आ गतं (*ā gataṃ*)—come towards the Soma
+- अवस्युः (*avasyuḥ*)—desiring your protection
+- अहं (*ahaṃ*)—I
+- वां (*vāṃ*)—you
+- हुवे (*huve*)—I pray and call
+- दाशुषे (*dāśuṣe*)—to me, who offer oblations
+- रत्नानि (*ratnāni*)—jewels
+- धत्तं (*dhattaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders, when the praise of me, the praiser, accompanied by adoration, has begun, be gracious at the sacrifice for the drinking of Soma. Come towards the Soma. I, desiring your protection, pray and call you. Give jewels to me, who offer oblations.
+
+##### English translation
+Come, leaders of rites, when the sacrifice, at which your adoration is recited, is commenced, to drink of the Soma offered by me; come, Aswins, come (hither); desirous of protection, I invoke you; give precious r i h s to the donor of the offering. **NOTE**
+
+#### Ṛk 24
+### Printed p. 318
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वाहा॑कृतस्य तृंपतं सु॒तस्य॑ देवा॒नंध॑सः ।  
+> आ या॑तमश्वि॒ना ग॑तमव॒स्युर्वा॑म॒हं हु॑वे ध॒त्तं रत्ना॑नि  ॒॑
+> दाशुषे ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वाहाकृतस्य । तृंपतं । सुतस्य । देवौ । अंधसः ।  
+> आ । यातं । अश्विना । आ । गतं । अवस्युः । वां । अहं । हुवे । धत्तं । रत्नानि ।  
+> दाशुषे ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ देवौ युवां सुतस्याभिषुतस्य स्वाहाकृतस्य हुतस्यांधसः
+> सोमस्य तृंपतं । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O divine Aśvins, satisfy yourselves with the pressed Soma, the oblation offered with the exclamation svāhā. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवौ (*devau*)—divine
+- अश्विना (*aśvinā*)—O Aśvin deities
+- सुतस्य (*sutasya*)—which has been pressed and made ready
+- स्वाहाकृतस्य (*svāhākṛtasya*)—which is offered with the exclamation svāhā
+- अंधसः (*aṃdhasaḥ*)—the Soma
+- तृंपतं (*tṛṃpataṃ*)—drink to satiety
+- आ यातं (*ā yātaṃ*)—be gracious to our sacrifice
+- आ गतं (*ā gataṃ*)—be gracious to our sacrifice
+- अवस्युः (*avasyuḥ*)—desiring your protection
+- अहं (*ahaṃ*)—I
+- हुवे (*huve*)—I call you
+- दाशुषे (*dāśuṣe*)—to me, who offer oblations
+- रत्नानि (*ratnāni*)—jewels
+- धत्तं (*dhattaṃ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Aśvin deities, drink to satiety the Soma that has been pressed and made ready and offered with the exclamation svāhā. Be gracious to our sacrifice. I, desiring your protection, call you. Give jewels to me, who offer oblations.
+
+##### English translation
+Divne (Aswins), partake to satiety of the sacrificial beverage, consecrated with the exclamation Swaha; come, Aswins, come (hither);
+
 ---
 
-**Progress note:** Done through printed p. 312. Vol 24 Mandala 8 sukta 35 rks 13-19, pp. 307-312
+**Progress note:** Done through printed p. 318. Ṛk 19-24 of Sūkta 35, pp. 313-318
