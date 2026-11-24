@@ -74,3 +74,17 @@ About 560 of 609 pages carry at least one flagged place; the pilot (10 pages fro
 
 ## S1 addendum (Nov 24 2026)
 The Kannada book was remade after fixing `html_to_kn.kn_pages` (a "NOT IN THE SUPPLIED TEXT" mark was written for a page that the script had already found inside the page before: pp. 216, 374, 396, 458, 476). Now: 618 page marks, pp. 2–619 each once, in order; still without text: **8, 66, 559, 571** (their text, if any, is inside the page before). 47 stray lines (image descriptions, "Pages: N/N", ornament signs) stay as the shared tool writes them, italic notes `*[stray line as supplied: …]*`. 0 Devanagari letters (danda excepted) and 0 Telugu in the file. Sanskrit blocks stand as supplied (Kannada script).
+
+## S3 addendum — before and after (Nov 24 2026, after the last batch)
+| Check (`recheck.py 6`, same tool, same files) | S0 (before anything) | After S2 repairs |
+|---|---|---|
+| `[?]` in the English | 565 on 251 pages | 449 on 229 pages (452 by a plain count) |
+| Devanagari quotations that differ | 191 on 129 pages | 191 on 130 pages (the check compares letters; edits of quotations were made in the English and the numbers did not drop: the remaining differences are the Kannada's own misprints, see questions) |
+| References only in the English | 1,102 on 527 pages | 736 on 512 pages |
+| References only in the supplied text | 374 on 225 pages | 160 on 113 pages |
+| Plain numbers only in the English | 223 on 132 pages | 181 on 113 pages |
+| Pages with none of these | 56 | 64 |
+| `recheck_numbers.py` manual (no anchored candidate) | 1,070 | 735 |
+| Reference names (`refs_apply.py 6` preview) | 144 English + 164 Kannada places | written: 164 Kannada (Nov 24), 52 English (after the batches); preview now empty |
+| Other scripts in the English | 1 (p. 342 `alloपaḥ`) | 0 (repaired) |
+| `**GLOSS**` / `[sic]` / "as read" / "as printed" | 115 / 49 / 738 / 640 | 115 / 47 / 608 / 633 (legacy marks kept; the ones that sat in a repaired number or word went with it) |
