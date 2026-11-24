@@ -20930,6 +20930,301 @@ Thunderer, smite all your enemies that they may be scattered,—be to us a most 
 > अस्माकं । सु । रथं । पुरः । इंद्रः । कृणोतु । सातये ।  
 > न । यं । धूर्वंति । धूर्तयः ॥ ९ ॥
 
+### Printed p. 459
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमिंद्रं धूर्तयोः हिंसका न धूर्वंति न हिंसंति स इंद्रोऽस्माकं
+> सातयेऽभीष्टलाभाय सु रथः कल्याणं रथं पुरः कृणोतु । पुरस्करोतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra, whom the harmers (धूर्तयोः (*dhūrtayoḥ*)) do not harm, may that Indra, for the attainment of what we desire (सातये (*sātaye*)), put in front, that is, bring forward, a good chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं (*yaṃ*)—the Indra whom
+- धूर्तयः (*dhūrtayaḥ*)—the harming enemies
+- न धूर्वंति (*na dhūrvaṃti*)—cannot harm
+- इंद्रः (*iṃdraḥ*)—that same Indra
+- अस्माकं (*asmākaṃ*)—for us
+- सातये (*sātaye*)—for the obtaining of what we desire
+- सु (*su*)—an excellent
+- रथं (*rathaṃ*)—chariot
+- पुरः (*puraḥ*)—before us
+- कृणोतु (*kṛṇotu*)—let him make ready
+
+##### भावार्थ (Bhāvārtha)
+
+May that same Indra, whom the harming enemies cannot harm, make ready before us an excellent chariot for the obtaining of what we desire.
+
+##### English translation
+May Indra, whom no foes can harm, send before us a beautiful chariot for the acquisition (of our desires).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒ज्याम॑ ते॒ परि॒ द्विषोऽरं॑ ते शक्र दा॒वने॑ ।  
+> ग॒मेमेदिं॑द्र॒ गोम॑तः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृज्याम । ते । परि । द्विषः । अरं । ते । शक्र । दावने ।  
+> गमेम । इत् । इंद्र । गोऽमतः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शक्रेंद्र याचमाना वयं ते तव द्विषो द्वेष्टन् परि वृज्याम !
+> नोपगच्छेम । किंतु ते तव गोमतः पशुमतो दावनेऽभीष्टदानायारं
+> पर्यॊप्तं गमेमेत् । गच्छेमैव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Śakra Indra, we who beg of you may keep away from your enemies, that is, may not go near them; but may we go indeed in abundance, that is, sufficiently, to your giving of the desired gifts, you who are rich in cattle.
+
+### Printed p. 460
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्र (*śakra*)—O mighty one
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- द्विषः (*dviṣaḥ*)—enemies
+- परि वृज्याम (*pari vṛjyāma*)—may we escape
+- ते (*te*)—your
+- गोमतः (*gomataḥ*)—possessed of cattle
+- दावने (*dāvane*)—to receive the gift
+- अरं (*araṃ*)—as much as to be satisfied
+- गमेमेत् (*gamemet*)—we shall come to you
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, may we escape your enemies. We come to you in abundance to receive your gift, rich in cattle.
+
+##### English translation
+Strong Indra, may we escape your enemies; may we come to you abundantly for your gifts, rich in cattle.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शनै॑श्चि॒द्यंतो॑ अद्रि॒वोऽश्वा॑नंतः शत॒ग्विनः॑ ।  
+> वि॒वक्ष॑णा अने॒हसः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शनैः । चित् । यंतः । अद्रिवः । अश्ववंतः । शतग्विनः ।  
+> विवक्षणाः । अनेकसः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवो वज्रन् वयं शनैर्मंदं मंदं यंतो गच्छंतोऽश्वावंतोऽश्ववंतः शतग्विनो बहुधना विवक्षणा वोधव्यं वहंतोऽनेहस उपद्रवरहिताश्च
+> संतो गमेमेदिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O wielder of the bolt (अद्रिवो (*adrivo*)), we going slowly, little by little, possessed of horses, of much wealth (शतग्विनो (*śatagvino*) explained as of much wealth), bearing what is to be borne (विवक्षणा (*vivakṣaṇā*)), and free from calamity, may come to you; this is the connection with गमेमेदिति (*gamemediti*) of the preceding Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- शनैः (*śanaiḥ*)—slowly
+- यंतः (*yaṃtaḥ*)—we who approach you
+- अश्वावंतः (*aśvāvaṃtaḥ*)—possessed of horses
+- शतग्विनः (*śatagvinaḥ*)—possessed of abundant wealth
+- विवक्षणाः (*vivakṣaṇāḥ*)—bearers of wealth
+- अनेहसः (*anehasaḥ*)—free from calamity
+
+### Printed p. 461
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, may we who approach you slowly be possessed of horses, of abundant wealth, bearers of wealth, and free from calamity.
+
+##### English translation
+(May we come), thunderer, slowly approaching you,—may we be rich in horses, possessed of abundant treasure, ready to offer, and unharmed (by calamity).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वा हि ते॑ दि॒वेदि॑वे स॒हस्रा॑ सू॒नृता॑ श॒ता ।  
+> ज॒रि॒तृभ्यो॑ वि॒मंह॑ते ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वा । हि । ते । दिवेऽदिवे । सहस्रा । सूनृता । शता ।  
+> जरितृभ्यः । विमंहते ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव जरितृभ्यः स्तोतृभ्यः सहस्रा सहस्राणि शता शतानि चोर्द्वॊर्ध्वानि मुख्यानि सूनृता सूनृतानि साधनानि दिवे दिवेऽन्वहं विमंहते । यजमानः
+> प्रयच्छति । मंहतिर्दानकर्मा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, to your praisers, thousands and hundreds of excellent, that is, chief, pleasing gifts (सूनृता (*sūnṛtā*) explained as means), day by day, the sacrificer gives (विमंहते (*vimaṃhate*)). The root मंहतिर्दानकर्मा (*maṃhatirdānakarmā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- जरितृभ्यः (*jaritṛbhyaḥ*)—to the praisers
+- सहस्रा (*sahasrā*)—by the thousand
+- शता (*śatā*)—by the hundred
+- ऊर्ध्वा (*ūrdhvā*)—most excellent
+- सून्वृता (*sūnvṛtā*)—auspicious
+- दिवे दिवे (*dive dive*)—every day
+- विमंहते (*vimaṃhate*)—the sacrificer gives
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to your praisers the sacrificer gives every day things to be enjoyed, by the thousand and by the hundred, most excellent and auspicious.
+
+### Printed p. 462
+
+##### English translation
+(The sacrificer) gives to your praisers day by day hundreds and thousands of excellent and auspicious gifts.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्मा हि त्वा॑ धनंज॒यमिंद्र॑ दृ॒ळ्हा चि॑दारु॒जं ।  
+> आ॒दा॒रिणं॒ यथा॒ गयं॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्म । हि । त्वा । धनंऽजयं । इंद्र । दृळ्हा । चित् । आरुजं ।  
+> आदारिणं । यथा । गयं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां धनंजयं धनानां जेतारं दृढा चिद्दृढानामपि शत्रूणामारुजमाभिमुख्येन भंक्तारमादारिणमादर्तारं च यथा गयं गृहमिवोपद्रवेभ्यो रक्षकं चॆ विद्म । जानीम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, we know you as the winner of wealth, as the breaker, facing him, of even firm enemies, as the one who bursts open (आदारिणं (*ādāriṇaṃ*) explained in the bhāṣya by भंक्तारमादारिणमादर्तारं (*bhaṃktāramādāriṇamādartāraṃ*)), and, like a house, as the protector from calamities.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- धनंजयं (*dhanaṃjayaṃ*)—as the winner of wealth from enemies
+- दृढा चित् (*dṛḍhā cit*)—even the most powerful enemies
+- अरुजं (*arujaṃ*)—as the one who destroys
+- आदारिणं (*ādāriṇaṃ*)—as the one who makes a way
+- यथा गयं (*yathā gayaṃ*)—as the protector from calamity like a house
+- विद्म हि (*vidma hi*)—we have known
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we have known you as the winner of wealth, as the one who subdues even the most powerful enemies, as the one who makes a way for us, and, like a house, as the protector from calamity.
+
+##### English translation
+We know you, Indra, as the conqueror of wealth, the breaker of firm obstacles, the opener, and (guarding from harm) as a house
+
+### Printed p. 463
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒कु॒हं चि॑त्वा कवे॒ मंदं॑तु धृष्ण॒विंद॑वः ।  
+> आ त्वा॑ प॒णिं यदीम॑हे ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ककुहं । चित् । त्वा । कवे । मंदंतु । धृष्णो इति । इंदवः ।  
+> आ । त्वा । पणिं । यत् । ईमहे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतकर्मन् धृष्णो धर्षकेंद्र यद्यदा पणिं पणमानं त्वा
+> श्वामा अभिमुख्येनेमहे अभीष्यं याचामहे तदा ककुहमुच्छ्रितं त्वा
+> श्वामिंदवश्चित् सोमा आपि मंदंतु । मादयंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O seer, O bold Indra, the assailer, when we, facing you, the one who barters (पणिं (*paṇiṃ*) explained as पणमानं (*paṇamānaṃ*)), ask for what we desire, then let the Soma drops delight you who are exalted (ककुहमुच्छ्रितं (*kakuhamucchritaṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O one of far-reaching works
+- धृष्णो (*dhṛṣṇo*)—O assailer of enemies, Indra
+- यत् (*yat*)—when
+- पणिं (*paṇiṃ*)—you who are the one who barters
+- त्वा (*tvā*)—you
+- आ (*ā*)—facing you
+- ईमहे (*īmahe*)—we ask, then
+- ककुहं (*kakuhaṃ*)—who are in an exalted place
+- त्वा (*tvā*)—you
+- इंदवः चित् (*iṃdavaḥ cit*)—the Soma juices also
+- मंदंतु (*maṃdaṃtu*)—let them satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of far-reaching works, assailer of enemies, when, approaching you who are the one who barters, we ask of you, then let the Soma juices satisfy you who are in an exalted place.
+
+##### English translation
+Wise (Indra), overcomer enemies, when we solicit you the barterer, may the drops of the Soma exhilarate you the exalted one.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ रे॒वा अदा॑शुरिः प्रम॒मर्ष॑ म॒घत्त॑ये ।  
+> तस्य॑ नो॒ वेद॒ आ भ॑र ॥ १५ ॥
+
+### Printed p. 464
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । रेवान् । अदाशुरिः । प्रममर्ष । मघत्तये ।  
+> तस्य । नः । वेदः । आ । भर ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मघत्तये धनदानाय ते तुभ्यं यः पुमान्रेवान् धनवान्
+> सन्नदाशुरिरदानशीलः प्रममर्ष अभ्यसूयति तस्य पुंसो वेदो धनं नोऽस्मभ्यमा
+> भर । आहर ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, whatever man, though rich, being niggardly (अदाशुरि (*adāśuri*) explained as not given to giving), shows envy at giving wealth to you (मघत्तये (*maghattaye*) explained as for the giving of wealth), of that man bring us the wealth (वेदः (*vedaḥ*) explained as wealth).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- रेवान् (*revān*)—though wealthy
+- अदाशुरिः (*adāśuriḥ*)—being ungenerous
+- ते (*te*)—to you
+- मघत्तये (*maghattaye*)—to offer wealth
+- प्रममर्ष (*pramamarṣa*)—shows impatience
+- तस्य (*tasya*)—of such a man
+- वेदः (*vedaḥ*)—the wealth
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of that man who, though wealthy, being ungenerous, shows impatience at offering wealth to you, bring the wealth to us.
+
+##### English translation
+Grant to us the possessions of that rich man who, through his niggardliness, reviles you as to your bestowal of wealth.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒म उ॑ त्वा॒ वि च॑क्षते॒ सखा॑य इंद्र सो॒मिनः॑ ।  
+> पु॒ष्पावं॑तो॒ यथा॑ प॒शुं ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । ऊं इति । त्वा । वि । चक्षते । सखायः । इंद्र । सोमिनः ।  
+> पुष्टवंतः । यथा । पशुं ॥ १६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 458. Sūkta 45 Ṛks 1-9
+**Progress note:** Done through printed p. 464. Sūkta 45 Ṛks 9-16
