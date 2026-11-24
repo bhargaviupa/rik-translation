@@ -14984,6 +14984,284 @@ Sing, Kanwas, the mighty (Indra), of widely-sung renown, the protector of the go
 > य ऋ॒ते चि॒द्गास्प॒देभ्यो॒ दात्सखा॒ नृभ्यः॒ शची॑वान् ।  
 > ये अ॑स्मि॒न्नाम॒मश्रि॑यन् ॥ ३९ ॥
 
+### Printed p. 375
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ऋते । चित् । गाः ! पदेभ्यः । दात् । सखा । नृभ्यः । शचीऽवान् ।  
+> ये । अस्मिन् । कामं । आश्रियन् ॥ ३९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पणिभिर्देवगवीष्वपहृतासु पदेभ्यो गतानां गवां मार्गे संलग्नेभ्योऽन्वेषणसाधनभूतेभ्य ऋते चिदृतेऽपि विनापि सखा मित्रभूतः शचीवान् कर्मवान्
+> प्रशस्तकर्मा य इंद्रो नृभ्यो नेतृभ्यो देवेभ्यो गाः पणिभिरपहृता दात्
+> पुनर्दत्तवान् । ये देवा अस्मिन्निंद्रे काममभिलाषमश्रियन् असेवंत प्राप्नु वन् ।
+> तेभ्यो नृभ्य इत्यन्वयः । तमिंद्रं गातेति पूर्वेण सहैकवाक्यता ॥
+
+##### Gist of the bhāṣya
+
+The Paṇis had stolen the cattle of the gods. Indra, who is a friend and a man of action (शचीवान् (*śacīvān*), "of good deeds"), gave those cattle back to the leaders (नृभ्यः (*nṛbhyaḥ*)), that is, to the gods. He did so ऋते चित् (*ṛte cit*), "even without" the means of searching, namely the cattle's footprints (पदेभ्यः (*padebhyaḥ*)) lying on the path of the cattle that had been led away. The gods are those who "resorted to" (अश्रियन् (*aśriyan*), "served, attained") their desire (कामं (*kāmaṃ*), "longing") in this Indra. The construction is "to those leaders". This is to be taken as one sentence with the preceding verse, तमिंद्रं गात (*tamiṃdraṃ gāta*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which leaders of rites
+- अस्मिन् (*asmin*)—in this Indra himself
+- कामं (*kāmaṃ*)—their faith
+- अश्रियन् (*aśriyan*)—fully cultivated, such (leaders)
+- नृभ्यः (*nṛbhyaḥ*)—to the leaders of rites
+- सखा (*sakhā*)—and a friend
+- शचीवान् (*śacīvān*)—a man of action, who is
+- यः (*yaḥ*)—which Indra
+- ऋते चित् (*ṛte cit*)—without any other means of searching
+- पदेभ्यः (*padebhyaḥ*)—by the marks of the cattle's footsteps alone
+- गाः (*gāḥ*)—having searched for the cattle seized by the Paṇis
+- दात् (*dāt*)—gave back (praise such an Indra)
+
+##### भावार्थ (Bhāvārtha)
+
+Praise that Indra who, being a friend and a man of action to those leaders of rites who cultivated their love for this Indra with devotion and placed their faith in him alone, searched out the cattle taken by the Paṇis, without any other means of searching, by the marks of the cattle's footsteps alone, and gave them back to those leaders.
+
+##### English translation
+He who, a friend (to his worshippers), the doer of great deeds, tracing the cattle by their foot-marks, being without (other means of detection), restored them to those leaders (of rites) who willingly put their trust in him.
+
+### Printed p. 376
+
+#### Ṛk 40
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒त्था धीवं॑तमद्रिवः का॒ण्वं मेध्या॑तिथिं ।  
+> मे॒षो भू॒तो॒३॒॑३भि यन्नयः॑ ॥ ४० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इत्था । धीऽवंतं । अद्रिऽवः । काण्वं । मेध्यऽ अतिथिं ।  
+> मेषः । भूतः । अभि । यन् । अयः ॥ ४८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इष्टेत्थमनेनोक्तेन प्रकारेण धीवंतं स्तुतिमंतं काण्वं कण्वपुत्रं मेध्यातिथिं यज्ञार्हातिथिमेतत्संज्ञमृषिं हे आद्रिवो वज्रवन्निंद्र मेषो भूतो
+> मेषरूपतां प्राप्तोऽभि यन्नभिगच्छन् ॥ य इत्यनुवर्तते । तद्योगाच्च
+> तिजतो निघाताभावः ॥ यस्त्वमयः आगमयः तं त्वां स्तुम इत्यर्थः । मेधातिथेर्मेषेति सुब्रह्मण्यामंत्रैकदेशस्य व्याख्यानरूपं ब्राह्मणं छंदोगैरेवमाम्नायते । मेधातिथिं हि काण्वायनिं मेषो भूत्वाजहार । षड्वि. ब्रा. १-१ ।
+> इति । तदभिप्रायेणेयं स्तुतिः कृता ॥
+
+##### Gist of the bhāṣya
+
+In the manner just stated, O Indra, wielder of the thunderbolt (अद्रिवः (*adrivaḥ*)), you "became a ram" (मेषो भूतः (*meṣo bhūtaḥ*)), that is, took the form of a ram, and came "approaching" (अभि यन् (*abhi yan*)) the seer of this name, Medhyātithi Kāṇva, the son of Kaṇva, who is endowed with hymns (धीवंतं (*dhīvaṃtaṃ*)) and worthy as a guest of the sacrifice. The word यः (*yaḥ*) ("who") is carried over from the preceding verse, and because of that connection the verb has no accent-lowering (निघात (*nighāta*)). The meaning is: "we praise you, who came." The Brāhmaṇa that explains a part of the Subrahmaṇyā mantra, "मेधातिथेर्मेष (*medhātithermeṣa*)", is recited thus by the Chandogas: मेधातिथिं हि काण्वायनिं मेषो भूत्वाजहार (*medhātithiṃ hi kāṇvāyaniṃ meṣo bhūtvājahāra*) (Ṣaḍvi. Brā. 1-1)**NOTE**. This hymn was composed with that in view.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, wielder of the thunderbolt
+- इत्या (*ityā*)—in the same way, in many ways
+- धीवंतं (*dhīvaṃtaṃ*)—who possesses hymns
+- काण्वं (*kāṇvaṃ*)—and is the son of Kaṇva
+- मेध्यातिथिं (*medhyātithiṃ*)—to Medhyātithi
+- मेषो भूतः (*meṣo bhūtaḥ*)—having become a ram
+- अभि यन् (*abhi yan*)—approaching
+- अयः (*ayaḥ*)—you have come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt, in the same way, in many ways, you have come, approaching in the form of a ram, to favour Medhyātithi, the son of Kaṇva, who recites hymns that praise you.
+
+##### English translation
+You, thunderer, approaching in the form of a ram, have come to Medhyatithi, of the race of Kanwa, thus propitiating you.
+
+### Printed p. 377
+
+#### Ṛk 41
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शिक्षा॑ विभिंदो अस्मै च॒त्वार्य॒युता॒ दद॑त् ।  
+> अ॒ष्टा प॒रः स॒हस्र ॥ ४१ ॥॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिक्ष । विभिंदो इति विभिंदो । अस्मै । चत्वारि । आयुता । ददत् ।  
+> अष्ट । परः । सहस्रा ॥ ४१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विभिंदुनान्नो राज्यः सकाशाद्बहु धनं लब्ध्वा तदीयं दानमिदमादिकेन
+> द्वचेन प्रशंसति । हे विभिंदो राजन् ददद्दाता त्वमस्मै मह्यमृषये चत्वार्ययुतायुतानि दशसहस्राणि चत्वारि: शतृहस्राणि शिक्ष । अशिक्षः । दत्तवानसि । परः परस्तादूर्ध्वमष्टसंख्याकानि सहस्रा सहस्राणि च दत्तवानसि ॥
+
+##### Gist of the bhāṣya
+
+The seer, having obtained much wealth from a king named Vibhindu, praises that king's gift with this verse and the next (a couplet). "O King Vibhindu, you, the giver (ददत् (*dadat*)), have given to me, this seer, four आयुता (*āyutā*)", which are ten-thousands, that is, four times ten thousand (the printed चत्वारि: शतृहस्राणि (*catvāri: śatṛhasrāṇi*)**NOTE**). शिक्ष (*śikṣa*) is "you have given" (the text glosses it अशिक्षः (*aśikṣaḥ*), "you gave"). Beyond that (परः (*paraḥ*)) you have given eight thousands.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विभिंदो (*vibhiṃdo*)—O King Vibhindu
+- ददत् (*dadat*)—you, who give generously
+- अस्मै (*asmai*)—to me, the seer
+- चत्वारि (*catvāri*)—multiplied by four
+- आयुता (*āyutā*)—ten-thousands
+- शिक्ष (*śikṣa*)—have given
+- परः (*paraḥ*)—afterwards
+- अष्ट (*aṣṭa*)—multiplied by eight
+- सहस्रा (*sahasrā*)—thousands you have also given
+
+##### भावार्थ (Bhāvārtha)
+
+O King Vibhindu, you who give generously have given me, the seer, first forty thousand and afterwards eight thousand.
+
+##### English translation
+Liberal Vibhindu, you have given to me four times ten thousand, and afterwards eight thousand.
+
+#### Ṛk 42
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त सु त्ये प॑यो॒वृधा॑ मा॒की रण॑स्य न॒प्ताः॑ ।
+
+### Printed p. 378
+
+> जनित्त्वनाय मामहे ॥ ४२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । सु । त्ये इति । पयःवृधा । माकी इति । रणस्य । नप्ता ।  
+> जनित्वनाय । ममहे ॥ ४२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च सु सुष्टु तै ते सर्वत्र प्रसिद्धे पयोवृधा पयस उदकस्य
+> वर्धयित्र्यौ माकी निर्मात्र्यौ भूतजातस्य रणस्य । स्तोतृनामैतत् । स्तोतुर्नप्त्या नप्त्या न पातयित्र्यौ सर्वदानुग्रहशीले द्यावापृथिव्यौ जनित्वनाय
+> पूर्वोक्तधनस्य जननाय प्रादुर्भावाय लाभाय ममहे । स्तुतवानस्मि । द्यावापृथिव्योः प्रसन्नयोरेवेदं दानं लभ्यते नान्यदेति दानमाहात्म्यप्रशंसाधिगंतव्या ॥
+
+##### Gist of the bhāṣya
+
+"And also, those two (त्ये (*tye*)) well known everywhere, the increasers of water (पयोवृधा (*payovṛdhā*)), the makers (माकी (*mākī*)) of the born creatures." रण (*raṇa*) is a name of the worshipper (स्तोतृ (*stotṛ*)); नप्ता (*naptā*) means those who "do not let fall" the worshipper, that is, heaven and earth, always gracious. "For the generation (जनित्वनाय (*janitvanāya*)), that is, the coming forth or gain, of the wealth spoken of before, I have praised (ममहे (*mamahe*)) them." The gift is obtained only when heaven and earth are pleased, and not otherwise; thus the greatness of the gift is to be understood.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- सु (*su*)—exceedingly
+- त्ये (*tye*)—well known
+- पयोवृधा (*payovṛdhā*)—who increase water
+- माकी (*mākī*)—who are the makers of all beings
+- रणस्य (*raṇasya*)—to the praiser
+- नप्ता (*naptā*)—who show favour, heaven and earth
+- जनित्वनाय (*janitvanāya*)—for the production of the wealth to be given to me
+- ममहे (*mamahe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise heaven and earth, the well known, the increasers of water, the makers of all beings, those who show favour to the praiser, for the production (the gain) of the wealth that is to be given to me.
+
+##### English translation
+I glorify those two (heaven and earth), the augmenters of water, the originators (of beings), the benefactors of the worshipper, on account of their generation (of the wealth so given to me)
+
+### Printed p. 379
+
+## Sūkta 3 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पिबा सुतस्येति चतुर्विंशत्यृचं तृतीयं सूक्तं काण्वस्य मेध्यातिथेरार्षं।
+> आयुजो बृहत्यो युजः सतोबृहत्य एकविंश्यनुष्टुब्वाविंशीत्रयोविंश्यौ
+> गायत्र्यौ चतुर्विंशी बृहती । एताश्चतस्रः कुरयाणस्य पुत्रस्य पाकस्थामनान्नो
+> राज्ञो दानस्तुतिप्रतिपादिकाः । आतस्तद्देवताकाः । शिष्टा ऐंद्रः । तथा चानुक्रांतं ।
+> पिब चतुर्विंशतिर्मेध्यातिथिः प्रागाथं त्वनुष्टुब्वायत्र्यौ बृहती चांत्याः कौरयाणस्य पाकस्थान्नो दानस्तुतिरिति ॥ महाव्रते निष्केवल्ये बार्हततृचाशीतौ दानस्तुतीर्विनेदं सूक्तं सप्तमष्टम्योश्चोद्धारः । तथैव पंचमारण्यके सूत्रितं ।
+> पिबा सुतस्य रसिन इति विंशतेः सप्तमीं चाष्टमीं चोद्धरति । ऐ. आ. ५-२-४ । इति ॥
+> ज्योतिष्टोमे निष्केवल्य आद्यो रथंतरसामप्रगाथः शंसनीयः । सूत्र्यते हि ।
+> पिबा सुतस्य रसिन इति सामप्रगाथः । आ. ५-१५ । इति ॥ चातुर्विंशिकेऽहनि निष्केवल्येऽव्ययं प्रगाथः । सूत्रते हि । उक्तो रथंतरस्कोभयं शृणवच्च न इति बृहतः ।
+> आ. ७-३ । इति ॥ एवमन्यत्रापि यदि रथंतरं पृष्ठं भवति तत्र सर्वत्रायं प्रगाथो
+> द्रष्टव्यः ॥ पंचमेऽहनि प्रउगशस्त्रे पिबा सुतस्येत्ययमैंद्रः प्रगाथः । सूत्रितं च।
+> पिबा सुतस्य रसिनो देवं देवं वोऽवसे । आ. ७-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The third hymn, पिबा सुतस्य (*pibā sutasya*), of twenty-four ṛks, has as its seer Medhyātithi Kāṇva. The odd verses are Bṛhatī, the even verses Satobṛhatī. The twenty-first is Anuṣṭubh, the twenty-second and twenty-third are Gāyatrī, and the twenty-fourth is Bṛhatī. These last four set forth the praise of the gift of King Pākasthāman, son of Kurayāṇa, and so have that for their deity; the rest are addressed to Indra. As the Anukramaṇī says: पिब चतुर्विंशतिर्मेध्यातिथिः प्रागाथं त्वनुष्टुब्वायत्र्यौ बृहती चांत्याः कौरयाणस्य पाकस्थान्नो दानस्तुतिरिति ॥ (*piba caturviṃśatirmedhyātithiḥ prāgāthaṃ tvanuṣṭubvāyatryau bṛhatī cāṃtyāḥ kaurayāṇasya pākasthānno dānastutiriti ‖*).
+
+Use of the hymn. In the Mahāvrata, in the Niṣkevalya recitation, this hymn is used for the Bārhata tṛca-and-pragātha series with the exception of the praises of gifts; the seventh and eighth are taken up separately (*uddhāraḥ*). So it is laid down in the fifth Āraṇyaka: पिबा सुतस्य रसिन इति विंशतेः सप्तमीं चाष्टमीं चोद्धरति (*pibā sutasya rasina iti viṃśateḥ saptamīṃ cāṣṭamīṃ coddharati*) (Ai. Ā. 5-2-4). In the Jyotiṣṭoma, in the Niṣkevalya, the first pragātha to be recited is the Rathantara-sāma one, as is laid down: पिबा सुतस्य रसिन इति सामप्रगाथः (*pibā sutasya rasina iti sāmapragāthaḥ*) (Ā. 5-15). On the Cāturviṃśika day, in the Niṣkevalya, the pragātha is to be recited, as is laid down: उक्तो रथंतरस्कोभयं शृणवच्च न इति बृहतः (*ukto rathaṃtaraskobhayaṃ śṛṇavacca na iti bṛhataḥ*) (Ā. 7-3). So elsewhere too, wherever the Rathantara is the Pṛṣṭha, this pragātha is to be seen. On the fifth day, in the Praüga-śastra, this pragātha पिबा सुतस्य (*pibā sutasya*) is the Aindra one, as is laid down: पिबा सुतस्य रसिनो देवं देवं वोऽवसे (*pibā sutasya rasino devaṃ devaṃ vo 'vase*) (Ā. 7-12).
+
+##### Anuvāda
+
+This hymn, पिबा सुतस्य (*pibā sutasya*), is the third hymn in the first anuvāka. It has twenty-four ṛks. Its seer is Medhyātithi Kāṇva. In this hymn the odd-numbered ṛks are in the Bṛhatī metre and the even-numbered ones in the Satobṛhatī metre. But the twenty-first ṛk is in the Anuṣṭubh metre, the twenty-second and twenty-third in Gāyatrī, and the twenty-fourth in Bṛhatī. As these four ṛks, that is, ṛks 21-24, contain the praise of the gift of King Pākasthāman, son of Kurayāṇa, the praise of that king's gift is the deity of these four ṛks. The remaining ṛks have Indra as their deity. The Anukramaṇī says: पिब चतुर्विंशतिर्मध्यातिथिः प्रागाथं त्वनुष्टुब्गायत् बृहती चांत्याः कौरयाणस्य पाकस्थाम्यो दानस्तुतिः (*piba caturviṃśatirmadhyātithiḥ prāgāthaṃ tvanuṣṭubgāyat bṛhatī cāṃtyāḥ kaurayāṇasya pākasthāmyo dānastutiḥ*). In the Mahāvrata rite, just as the Niṣkevalya-śastra mantras are recited, this hymn is used for the ṛks in the Bṛhatī metre, with the exception of these ṛks of the hymn whose deity is the praise of gifts and of the seventh and eighth ṛks. This is stated in the Aitareya Āraṇyaka in the sentence पिबा सुतस्य रसिन इति विंशतेः सप्तमीं चाष्टमीं जोद्धरति (*pibā sutasya rasina iti viṃśateḥ saptamīṃ cāṣṭamīṃ joddharati*) (Ai. Ā. 5-2-4).
+
+### Printed p. 380
+
+In the Jyotiṣṭoma sacrifice, when the Niṣkevalya-śastra mantras are recited, the use of this hymn for the Rathantara-sāma pragātha mantras, which are recited first, is explained in the Āśvalāyana Śrauta Sūtra by the sūtra पिबा सुतस्य रसिन इति सामप्रगाथः (*pibā sutasya rasina iti sāmapragāthaḥ*) (Ā. 5-15). On the day of the sacrifice called Cāturviṃśika, the use of this hymn's pragātha mantras for the Niṣkevalya-śastra mantras is explained in the Āśvalāyana Śrauta Sūtra by the sūtra उक्तो रथंतरस्कोभयं शृणवच्च न इति बृहतः (*ukto rathaṃtaraskobhayaṃ śṛṇavacca na iti bṛhataḥ*) (Ā. 7.3). In the same way, it is to be understood that in other places also, in all circumstances where the Rathantara-pṛṣṭha mantras are to be recited, the pragātha mantras of this hymn are to be recited. Further, on the fifth day of the sacrifice, when the Pralugaśastra**NOTE** mantras are recited, the pragātha mantra पिबा सुतस्य (*pibā sutasya*) is to be recited as an Aindra tṛca, as is explained in the Āśvalāyana Śrauta Sūtra by the sūtra पिबा सुतस्य रसिनो देवंदेवं वोऽवसे (*pibā sutasya rasino devaṃdevaṃ vo 'vase*) (Ā. 7.12).
+
+##### Particulars of the hymn
+
+- Maṇḍala 8; Anuvāka 1; Sūkta 3.
+- Aṣṭaka 5; Adhyāya 7; Vargas 25, 26, 27, 28, 29.
+- Number of ṛks in the hymn: 24.
+- Seer: मेध्यातिथिः काण्वः (*medhyātithiḥ kāṇvaḥ*).
+- Deity: 1-20 Indra; 21-24 पाकस्थाम्नः कौरयाणस्य दानस्तुतिः (*pākasthāmnaḥ kaurayāṇasya dānastutiḥ*).
+- Metre: 1-20 प्रागाथं (*prāgāthaṃ*); 21 Anuṣṭubh; 22, 23 Gāyatrī; 24 Bṛhatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबा॑ सु॒तस्य॑ र॒सिनोः॒ मत्सा॑ न इंद्र॒ गोम॑तः ।  
+> आ॒पिर्नो॑ बोधि सध॒माद्यो॑ वृ॒धे॒३॒॑३स्मा अ॑वंतु ते॒ धियः॑॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिब । सुतस्य । रसिनः । मत्स्य । नः । इंद्र । गोऽमतः ।  
+> आपिः । नः । बोधि । सधमाद्यः । वृधे । अस्मान् । अवंतु । ते । धियः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे, इंद्र रसिनो रसवतो गोमतो गोविकारैः पयःप्रभृतिभिः
+> त्रयणद्रव्यैर्युक्तस्य नोऽस्मदीयस्य सुतस्याभिषुतस्य ॥ क्रियाग्रहणं कर्तव्यमिति
+
+##### Gist of the bhāṣya
+
+O Indra, drink of our pressed Soma (सुतस्य (*sutasya*)), "sapid" (रसिनः (*rasinaḥ*)) and mixed with the products of the cow (गोमतः (*gomataḥ*)), milk and the like, that is, with the three substances. Here the word for the Soma stands in the genitive in the sense of the dative, because the thing taken is the recipient of the act.
+
+### Printed p. 381
+
+> कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठि ॥ ईदृशं सोमं पिब । पीत्वा च मत्स्य ।
+> तृप्तो भव । अपि च सधमाद्यः सह मादयितव्यः संहितैरस्माभिस्तर्पयितव्यस्त्वमापिरापयिता बंधुः सन्नोऽस्माकं वृथे वर्धनाय बोधि । बुध्यस्व । ते त्वदीया
+> धियो बुद्धयोऽनुग्रहात्मिका आस्मान् स्तोत्थनवंतु । रक्षंतु ॥
+
+##### Gist of the bhāṣya
+
+Drink such a Soma and, having drunk, be satisfied (मत्स्य (*matsya*)). And, as one with whom we are to rejoice together (सधमाद्यः (*sadhamādyaḥ*)), to be satisfied by us, being a kinsman who helps us (आपिः (*āpiḥ*)), "be aware" (बोधि (*bodhi*)) of our growth (वृधे (*vṛdhe*)). May your thoughts (धियः (*dhiyaḥ*)), which are of the nature of favour, protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- रसिनः (*rasinaḥ*)—which is sapid
+- गोमतः (*gomataḥ*)—mixed with milk and the like
+- नः (*naḥ*)—offered by us
+- सुतस्य (*sutasya*)—the Soma that has been pressed and made ready
+- पिब (*piba*)—drink
+- मत्स्य (*matsya*)—be satisfied
+- सधमाद्यः (*sadhamādyaḥ*)—you who are satisfied together with us
+- आपिः (*āpiḥ*)—being a trusted kinsman to us
+- नः (*naḥ*)—our
+- वृथे (*vṛthe*)—that you should be a helper for every kind of growth
+- बोधि (*bodhi*)—know
+- ते (*te*)—your
+- धियः (*dhiyaḥ*)—thoughts of the nature of favour
+- आस्मान् (*āsmān*)—us
+- अवंतु (*avaṃtu*)—may they protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink the Soma that is sapid, mixed with milk and the like, offered by us, pressed and made ready. Be also satisfied with it. Being one who rejoices together with us, and a trusted kinsman to us, know that you are to be a helper for every kind of growth of ours. May your thoughts of the nature of favour protect us.
+
+##### English translation
+Drink, Indra, of our sapid libation mixed with milk, and be satisfied : regard yourself as our kinsman, to be exhilarated along with us for our welfare : may your (good) intentions protect us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भू॒याम॑ ते सुम॒तौ वा॒जिनो॑ व॒यं मा नः॑ स्तर॒भिमा॑तये ॥  
+> अ॒स्माइच्चि॒त्राभ॑रवताद॒भिष्टि॑भि॒रा नः॑ सु॒म्नेषु॑ यामय ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूयाम । ते । सुमौ । वाजिनः । वयं । मा । नः । स्तः । अभिमातये ।
+
 ---
 
-**Progress note:** Done through printed p. 374. pp. 367-374 (batch API)
+**Progress note:** Done through printed p. 381. pp. 375-381 (batch API)
