@@ -25681,6 +25681,259 @@ Manu, consent (to prepare it) for the son of Kanwa ; for I invoke Brihaspati, th
 
 The Aśvin deities, chief among all the gods, whose friendship we are exceedingly to obtain, famous for their excellent deeds, impelled to receive our oblation, famous: these I call quickly.
 
+### Printed p. 619
+
+##### English translation
+I invoke those Aswins, who are famed for great deeds, induced (to come hither) for acceptance (of our oblations), of whom among the gods the friendship is especially to be obtained.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ययो॒रधि॒ प्र य॒ज्ञा अ॑सू॒रे संति॑ सू॒रयः॑ ।  
+> ता य॒ज्ञस्या॑ध्व॒रस्य॒ प्रचे॑तसा स्व॒धाभि॒र्या पिब॑तः ॒ ॑
+> सोम्यं मधु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ययोः । अधि । प्र । यज्ञाः । असूरे । संति । सूरयः ।  
+> ता । यज्ञस्य । आध्वरस्य । प्रचेतसा । स्वधाभिः । या । पिबतः । सोम्यं ।  
+> मधु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ययोरश्विनोरध्युपरि यज्ञा ज्योतिष्टोमादयः सर्वे यागाः प्र संति
+> प्रभवंति । भिन्नस्य यज्ञशिरसोऽश्वभ्यां संधानात् । तथा च यज्ञस्य शिरोऽच्छिद्यतेत्युपक्रम्य तैत्तिरीयकं । तावेतद्यज्ञशिरः प्रत्यधत्तां यदाश्विनो गृह्यते यज्ञस्य
+> निष्कृत्यै । तै. सं. ६-४-९.५ । इति । असूरे स्तोत्ररहितेऽपि देशे ययोश्च सूरयः
+> स्तोतारः संति तावश्विनावध्वरस्य हिंसाप्रत्यवायरहितस्य यज्ञस्य ज्योतिष्टोमादेः
+> प्रचेतसा प्रकृष्टं ज्ञातारौ स्वधाभिर्बलहेतुभिः स्तुतिभिराक्वयामीति शेषः । या
+> यावश्विनौ सोम्यं सोममयं मधु मधुरं सोमरसं पिबतः ॥
+
+##### Gist of the bhāṣya
+
+The Aśvins are those above whom (अधि (*adhi*)) all sacrifices, the Jyotiṣṭoma and the rest, arise, because the Aśvins rejoin the severed head of the sacrifice. Sāyaṇa quotes the Taittirīya, which begins "the head of the sacrifice was cut off" and continues: "the two set that head of the sacrifice back when the Āśvina cup is taken, for the completion of the sacrifice" (Tai. Saṃ. 6-4-9.5). असूरे (*asūre*) means even in a place without praise; those two have praisers (सूरयः (*sūrayaḥ*)). The two Aśvins are fully knowing (प्रचेतसा (*pracetasā*)) of the sacrifice, the Jyotiṣṭoma and the rest, which is free from harm and obstruction (अध्वरस्य (*adhvarasya*)). I call them with praises, the sources of strength (स्वधाभिः (*svadhābhiḥ*)): this is the word to be supplied. The two who drink the Soma-made sweet Soma juice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ययोः अधि (*yayoḥ adhi*)—with reference to which Aśvin deities
+- यज्ञाः (*yajñāḥ*)—the sacrifices, Jyotiṣṭoma and the rest
+- प्र संति (*pra saṃti*)—are accomplished
+- ययोः (*yayoḥ*)—for which Aśvin deities
+- असूरे (*asūre*)—even in a place without praisers
+- सूरयः (*sūrayaḥ*)—there are praisers
+- या (*yā*)—who
+### Printed p. 620
+- सोम्यं (*somyaṃ*)—connected with Soma
+- मधु (*madhu*)—the sweet drink
+- पिबतः (*pibataḥ*)—drink
+- ता (*tā*)—such
+- अध्वरस्य (*adhvarasya*)—free from harm
+- यज्ञस्य (*yajñasya*)—of the Jyotiṣṭoma and the rest
+- प्रचेतसा (*pracetasā*)—the Aśvins who are the knowers
+- स्वधाभिः (*svadhābhiḥ*)—I call with excellent praises
+
+##### भावार्थ (Bhāvārtha)
+
+The Aśvin deities with reference to whom the Jyotiṣṭoma and other sacrifices are accomplished, who have praisers even in a place without praisers, who drink the Soma-connected sweet drink, and who are the knowers of such harmless sacrifices as the Jyotiṣṭoma: I call them with excellent praises.
+
+##### English translation
+Upon whom (all) sacrifices are dependant, of whom there are worshippers in a place where there is no worship, those two familiar with undecaying sacrifices (I invoke) with praises, that you may drink the sweet juice of the Soma.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्याश्वि॑ना॒वपा॒ग्यत्पाक्षो वा॑जिनीवसू ।  
+> यद्दु॒ह्यव्यन॑वि तु॒र्वशे॒ यदौ॑ हु॒वे वा॒मथ॒ मा  ॑
+> गतं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । अश्विन् । अपाक् । यत् । प्राक् । स्थः । वाजिनीवसू इति  
+> वाजिनीऽवसू ।  
+> यत् । द्रुह्यवि । अनवि । तुर्वशे । यदौ । हुवे । वां । अथ मा ।  
+> आ । गतं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ अद्येदानीं यद्यद्यपाक् प्रतीज्यां दिशि स्थः भवथः वर्तेथे । हे
+> वाजिनीवसू अन्नवद्धन् यद्यदि प्राक् प्राज्यां दिशि स्थः भवथः । यद्यदि वा द्रुह्मु -
+
+##### Gist of the bhāṣya
+
+O Aśvins, today, if you are (स्थः (*sthaḥ*)) in the western quarter; O lords of food (वाजिनीवसू (*vājinīvasū*)), if you are in the eastern quarter; or if you are among Druhyu....
+### Printed p. 621
+
+> प्रभृतिषु चतुर्षि स्तोतृषु संनिहितौ भवथः । एवं सर्वत्र संनिहितौ नां युवां
+> हुवे । अहमाह्वयामि । अथानंतरमेव मा मामा गतं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+...and the other three, the praisers, you are present near them. Thus you are present everywhere, and I call you; immediately thereafter come to me (आ गतं (*ā gataṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—you who have wealth of food
+- अश्विनौ (*aśvinau*)—O Aśvin deities
+- अद्य (*adya*)—now
+- यत् (*yat*)—if perchance
+- अपाक् (*apāk*)—in the western direction
+- स्थः (*sthaḥ*)—you are
+- यत् (*yat*)—or
+- प्राक् (*prāk*)—in the eastern direction
+- यत् (*yat*)—or if perchance
+- द्रुह्यवि (*druhyavi*)—with Druhyu
+- अनवि (*anavi*)—with Anu
+- तुर्वशे (*turvaśe*)—with Turvaśa
+- यदौ (*yadau*)—with Yadu, sporting
+- वां (*vāṃ*)—you
+- हुवे (*huve*)—I call
+- अथ (*atha*)—immediately thereafter
+- मा (*mā*)—to me
+- आ गतं (*ā gataṃ*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, rich in food, whether you now are in the western quarter, or in the eastern, or sporting with Druhyu, Anu, Turvaśa or Yadu, come graciously to us as soon as I praise and call you.
+
+##### English translation
+Whether, Aswins, you abide to-day in the west ; whether, opulent in food, you abide in the east ; whether you sojourn with Druhyu, Anu, Turvasha, or Yadu, I invoke you ; therefore come to me.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदं॒तरि॑क्षे॒ पत॑थः पुरुभुजा॒ यद्वे॒मे रोद॑सी॒  ॑
+> अनु ।  
+> यद्वा॑ स्व॒धाभि॑रथि॒तिष्ठ॑थो॒ रथ॒मत॒ आ या॑तमश्विना ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अंतरिक्षे । पतथः । पुगुभुजा । यत् । वा । इमे इति । रोदसी  
+> इति । अनु ।  
+> यत् । वा । स्वधाभिः । अधिष्ठिष्ठथः । रथं । अतः । आ । यातु । अश्विना ॥
+
+### Printed p. 622
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुभुजा बहूनां पालयितारौ बहुलहविषो भोक्तारौ ना यद्यद्यंतरिक्षे पतथः गच्छथः । यद्वा यदि वेमे रोदसी द्यावापृथिव्यावनुलक्ष्य
+> गच्छथः । यद्वा यदि वा स्वधाभिरात्मीयैस्तेजोभिर्बलैर्वा सार्धं रथमधितिष्ठथः
+> रथ उपविशथः ॥ अधिशीज् स्थासामित्याधारस्य कर्मसंज्ञा ॥ अतः सर्वस्मात्स्थानात्
+> हे अश्विनौ आ यातं । आगच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O protectors of many (पुरुभुजा (*purubhujā*)), enjoyers of abundant oblations, if you move through the atmosphere; or if you go toward these two worlds, heaven and earth (रोदसी (*rodasī*)); or if you sit in your chariot together with your own splendours or powers (स्वधाभिः (*svadhābhiḥ*)): therefore, from every place, O Aśvins, come (आ यातं (*ā yātaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुभुजा (*purubhujā*)—protectors of many
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यत् (*yat*)—if perchance
+- अंतरिक्षे (*aṃtarikṣe*)—in the atmosphere
+- पतथः (*patathaḥ*)—you move about
+- यद्वा (*yadvā*)—or
+- इमे रोदसी अनु (*ime rodasī anu*)—you move over both these, heaven and earth
+- यद्वा (*yadvā*)—or if perchance
+- स्वधाभिः (*svadhābhiḥ*)—together with your splendours
+- रथं (*rathaṃ*)—your chariot
+- अधितिष्ठथः (*adhitiṣṭhathaḥ*)—you are seated on, however it may be
+- आतः (*ātaḥ*)—from all those places
+- आ यातं (*ā yātaṃ*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, protectors of many, whether you move through the atmosphere, or between these two, heaven and earth, or mount your chariot with your splendours, come to us from all those places.
+
+##### English translation
+Protectors of many, whether you traverse the firmament, or pass along earth and heaven : whether you ascend your chariot with (all) your splendours; come from thence, Aswins, hither.
+
+## Sūkta 11 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वमग्न इति दशर्चं षष्ठं सूक्तं कण्णगोत्रस्य वत्सस्यार्षमाग्नॆयं । आद्या
+> प्रतिष्ठागायत्रि अष्टकसप्तकषट्कोपेतत्वात् । द्वितीया वर्धमाना षट्कसप्तकाष्टकोपेतत्वात् । तथा चोक्तं । षट्कसप्तकाष्टकैव वर्धमाना विपरीता प्रतिष्ठेति ।
+> दशमी त्रिष्टुप् शिष्टा गायत्र्यः । तथा चानुक्रांतं । त्वमग्ने दश वत्स आग्नॆये
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, "त्वमग्ने (*tvamagne*)", of ten ṛcs, has as its seer Vatsa of the Kaṇva gotra; its deity is Agni. The first is Pratiṣṭhā Gāyatrī, having eight, seven and six syllables; the second is Vardhamānā, having six, seven and eight. As is said: Vardhamānā is six, seven, eight; the reverse is Pratiṣṭhā. The tenth is Triṣṭubh; the rest are Gāyatrīs. And the Anukramaṇī says so: "त्वमग्ने दश वत्स आग्नेये (*tvamagne daśa vatsa āgneye*)".
+### Printed p. 623
+
+> गायत्रे०त्या त्रिष्टुबाद्या प्रतिष्ठोपाद्या वर्धमानेति ॥ प्रातरनुवाकस्याग्नेये
+> क्रत् गायत्रे छंदस्याश्विनशस्त्रे चोत्तमावर्जमेतत्सूक्तं । सूत्र्यते हि । त्वमग्ने
+> व्रतपा इत्युत्तमामुद्धरेत् । आ. ४.१३ । इति ॥ व्रातपत्यामाद्यानुवाक्या । सूत्रितं
+> च । त्वमग्ने व्रतपा असि यद्वो वयं प्रमिनाम व्रतानि । आ. ३.१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+(continuing the Anukramaṇī) "...Gāyatrī, the last Triṣṭubh, the first Pratiṣṭhā, the second Vardhamānā." In the Prātaranuvāka, in the Āgneya-kratu of the Gāyatra metre, and in the Āśvina-śastra, this sūkta is used except the last ṛc. It is taught in the sūtra: "त्वमग्ने व्रतपा इत्युत्तमामुद्धरेत् (*tvamagne vratapā ityuttamāmuddharet*)" (Ā. 4.13). In the Vrātapatya offering the first is the anuvākyā; and it is taught: "त्वमग्ने व्रतपा असि यद्वो वयं प्रमिनाम व्रतानि (*tvamagne vratapā asi yadvo vayaṃ pramināma vratāni*)" (Ā. 3.13).
+
+##### Anuvāda
+
+This sūkta "Tvamagne" is the sixth sūkta in the second anuvāka. It has ten ṛcs. Its seer is Vatsa, born in the Kaṇva gotra; the deity is Agni. The first ṛc of the sūkta is in the metre Pratiṣṭhā Gāyatrī, the second in the metre Vardhamānā. If a ṛc has three pādas with six, seven and eight syllables respectively, the metre is called Vardhamānā; in the reverse, with eight, seven and six syllables, it is called Pratiṣṭhā. The tenth ṛc is in Triṣṭubh; the remaining ṛcs are in Gāyatrī. In the Anukramaṇī: "त्वमग्ने दश वत्स आग्नेये गायत्रीऽन्त्या त्रिष्टुबाद्या प्रतिष्ठोपाद्या वर्धमाना (*tvamagne daśa vatsa āgneye gāyatrī 'ntyā triṣṭubādyā pratiṣṭhopādyā vardhamānā*)". At the recitation of the Prātaranuvāka mantras, this sūkta is applied, except its last ṛc, for the Gāyatrī ṛcs connected with the Āgneya-kratu, as expounded by the Āśvalāyana Śrautasūtra, "त्वमग्ने व्रतपा इत्युत्तमामुद्धरेत् (*tvamagne vratapā ityuttamāmuddharet*)" (Ā. 4-13). In the Vrātapatya offering also, the first ṛc of this sūkta, "Tvamagne", is to be recited as the anuvākyā mantra, as expounded by the Āśvalāyana Śrautasūtra, "त्वमग्ने व्रतपा असि यद्वो वयं प्रमिनामि व्रतानि (*tvamagne vratapā asi yadvo vayaṃ pramināmi vratāni*)" (Ā. 3-13).
+
+Sūkta 11; Maṇḍala 8; Anuvāka 2; Sūkta 11; Aṣṭaka 5; Adhyāya 8; Vargas 35, 36. Number of ṛcs in the sūkta: 10.
+Ṛṣi: Vatsa Kāṇva. Devatā: Agni. Chandas: 1. Pratiṣṭhā; 2. Vardhamānā (printed वर्धवयना (*vardhavayanā*)); 3–9. Gāyatrī; 10. Triṣṭubh. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा ।  
+> त्वं य॒ज्ञॆष्टीड्यः॑ ॥ १ ॥
+
+### Printed p. 624
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । व्रतपाः । असि । देवः । आ । मर्त्येषु । आ ।  
+> त्वं । यज्ञेषु । ईड्यः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने देवो द्योतमानस्त्वं मर्त्येष्णा मनुष्येषु च देवेषु च
+> मध्ये व्रतपा असि । व्रतानां कर्मणां रक्षिता भवसि । अतः कारणाद्यज्ञेषु त्वमीड्यः
+> स्तुत्योऽसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, shining god, you are the keeper of vows (व्रतपा (*vratapā*)) among mortals, that is, among both men and gods; you are the protector of rites (व्रतानां कर्मणां (*vratānāṃ karmaṇāṃ*)). For that reason you are to be praised (ईड्यः (*īḍyaḥ*)) at sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- देवः (*devaḥ*)—you who are shining
+- त्वं (*tvaṃ*)—you
+- मर्त्येषु आ (*martyeṣu ā*)—among men
+- (देवेषु) आ (*(deveṣu) ā*)—among gods
+- व्रतपाः (*vratapāḥ*)—protector of rites
+- आसि (*āsi*)—you are (therefore)
+- त्वं (*tvaṃ*)—you
+- यज्ञेषु (*yajñeṣu*)—in sacrifices
+- ईड्यः (*īḍyaḥ*)—are to be praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, shining one, you are the protector of rites among men and among gods. For that very reason you are to be praised in sacrifices.
+
+##### English translation
+Agni, you are a god among mortals, (and among gods); you are the guardian of religious oblations : you are to be hymned at sacrifices.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑सि प्र॒शस्यो॑ वि॒दथे॑षु सहंत्य ।  
+> अग्ने॑ र॒थीर॑ध्व॒राणां॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । असि । प्रशस्यः । विदथेषु । सहंत्य ।  
+> अग्ने । रथीः । अध्वराणां ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 618. pp. 613-618 (batch API)
+**Progress note:** Done through printed p. 624. pp. 619-624 (batch API)
