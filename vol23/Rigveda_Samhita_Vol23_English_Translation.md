@@ -25934,6 +25934,289 @@ Agni, you are a god among mortals, (and among gods); you are the guardian of rel
 > त्वं । असि । प्रशस्यः । विदथेषु । सहंत्य ।  
 > अग्ने । रथीः । अध्वराणां ॥ २ ॥
 
+### Printed p. 625
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे संहत्य शत्रूणामभिभवितरग्ने विदथेषु यज्ञेषु त्वं प्रशस्यः स्तुत्योऽसि
+> अध्वराणां यागानां रथीर्नेता च भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, victor over the enemies you overpower, you are to be praised in the sacrifices (vidatha), and you are also the leader (charioteer) of the sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहन्त्य (*sahantya*)—possessing the power to defeat enemies
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- विदथेषु (*vidatheṣu*)—in sacrifices
+- प्रशस्यः असि (*praśasyaḥ asi*)—you are most worthy of worship
+- अध्वराणां (*adhvarāṇāṃ*)—of the sacrifices
+- रथीः (*rathīḥ*)—you are also the leader
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, possessing the power to defeat enemies, you are most worthy of worship in the sacrifices, and you are also the leader of the sacrifices.
+
+##### English translation
+Victor (over enemies), you are to be hymned at solemn rites : you, Agni, are the charioteer of sacrifices.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वम॒स्मदप॒ द्विषो॑ युयो॒धि जा॑तवेदः ।  
+> अदे॑वीरग्ने॒ अरा॑तीः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्वं । अस्मत् । अप । द्विषः । युयोधि । जातवेदः ।  
+> अदेवीः । अग्ने । अरातीः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातानां वेदितरग्ने स पूर्वोक्तगुणस्त्वमस्मदस्मत्तो
+> द्विषो द्वेष्टाञ्छत्रूनप युयोधि । पृथक्कुरु । अदेवीरासुरीररातीः शत्रुसेनाश्च पृथक्कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, knower of all that is born, Agni: you, of the qualities stated before, drive away from us the haters, our enemies; separate them from us. Also separate the godless, demonic hostile hosts (arātī).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—you who are Jātavedas
+- अग्ने (*agne*)—O Agni
+- सः (*saḥ*)—you, having the qualities described before
+
+### Printed p. 626
+- त्वं (*tvaṃ*)—you
+- अस्मत् (*asmat*)—from us
+- द्विषः (*dviṣaḥ*)—the enemies who hate us
+- अप युयोधि (*apa yuyodhi*)—separate and drive far away
+- अदेवीः (*adevīḥ*)—demonic
+- अरातीः (*arātīḥ*)—drive the enemies far away
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who know everything that is born and are Jātavedas, you, famed for the qualities described before, separate from us all the enemies who hate us and drive them far away. Drive far away also the enemies of demonic nature.
+
+##### English translation
+You, Jatavedas, drive away from us those who hate us; (drive away), Agni, the impious hostile hosts.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंति॑ चि॒त्संत॒मह॑ य॒ज्ञं मर्त॑स्य रि॒पोः ।  
+> नोप॑ वेषि जातवेदः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंति । चित् । संतं । अह । यज्ञं । मर्तस्य । रिपोः ।  
+> न । उप । वेषि । जातवेदः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदः अंति चिदंतिकेऽपि संतं भवंतं समीपे विद्यमानमपि रिपोरस्मच्छत्रोर्मर्तस्य मनुष्यस्य यज्ञं नोप वेषि । अहशब्दोऽवधारणे । नैव
+> कामयसे ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, even though you are near, present close by, you do not come to the sacrifice of the mortal, our enemy; the word अह (*aha*) is for emphasis: you do not desire it at all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, who are Jātavedas
+- अंति चित् (*aṃti cit*)—very close by
+- संतं (*saṃtaṃ*)—though being
+- रिपोः (*ripoḥ*)—who is our enemy
+- मर्तस्य (*martasya*)—of the man
+- यज्ञं (*yajñaṃ*)—the oblation connected with the sacrifice
+- न उप वेषि अह (*na upa veṣi aha*)—you certainly do not desire
+
+### Printed p. 627
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, Jātavedas, even though you are very near, you certainly do not desire the sacrificial oblation of the man who is our enemy.
+
+##### English translation
+You desire not, Jatavedas, the sacrifice of the man who is our adversary, although placed before you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मर्ता॒ अम॑र्त्यस्य ते॒ भूरि॒ नाम॑ मनामहे ।  
+> विप्रा॑सो जा॒तवे॑दसः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मर्ताः । अमर्त्यस्य । ते । भूरि । नाम । मनामहे ।  
+> विप्रासः । जातवेदसः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्ता मनुष्या विप्रासो मेधाविनो वयं हे अग्ने जातवेदसो
+> जातानां वेदितुरमर्त्यस्य मरणरहितस्य देवस्य भूरि विस्त्रतं नाम स्तोत्रं मनामहे । जानीमः । कुर्म इति यावत् ॥
+
+##### Gist of the bhāṣya
+
+We mortals, wise (vipra), O Agni Jātavedas, knower of all that is born, immortal, deathless god: we compose (मनामहे (*manāmahe*), "we know", that is, "we make") your abundant, widespread name, that is, praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) जातवेदसः (*jātavedasaḥ*)—you who are of born wisdom
+- अमर्त्यस्य (*amartyasya*)—and free from the nature of death
+- ते (*te*)—for you
+- मर्ताः (*martāḥ*)—we who are human
+- विप्रासः (*viprāsaḥ*)—and wise
+- भूरि (*bhūri*)—abundant
+- नाम (*nāma*)—praise
+- मनामहे (*manāmahe*)—we compose
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who know all that is born and are free from the nature of death: addressing you, we who are human and wise compose abundant praise.
+
+### Printed p. 628
+
+##### English translation
+Prudent mortals, we offer abundant homage to you, who are immortal and all-knowing.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विप्रं॒ विप्रा॒सोऽव॑से दे॒वं मर्ता॑स ऊ॒तये॑ ।  
+> अ॒ग्निं गी॒र्भिर्ह॑वामहे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विप्रं । विप्रासः । अवसे । देवं । मर्तासः । ऊतये ।  
+> अग्निं । गीःभिः । हवामहे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रासो मेधाविनो मर्तासो मर्ता मनुष्या वयं विप्रं मेधाविनं
+> देवं दानादिगुणयुक्तमग्निमवसे हविर्भिस्तर्पयितुमूतयेऽस्माकं रक्षणार्थं
+> च गीर्भिर्हवामहे । आह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+We wise mortals call (हवामहे (*havāmahe*), invite) with hymns Agni, the wise god endowed with qualities such as generosity, in order to gratify him with oblations (अवसे (*avase*)) and for our protection (ऊतये (*ūtaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रासः (*viprāsaḥ*)—we who are wise
+- मर्तासः (*martāsaḥ*)—and human
+- विप्रं (*vipraṃ*)—who is wise
+- देवं (*devaṃ*)—and endowed with qualities such as generosity
+- अग्निं (*agniṃ*)—Agni
+- ऊतये (*ūtaye*)—for our protection
+- अवसे (*avase*)—to gratify with oblation
+- गीर्भिः (*gīrbhiḥ*)—praying with praises
+- हवामहे (*havāmahe*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+We who are wise and human call Agni, who is wise and endowed with generosity and other qualities, praying with praises, to gratify him with oblations for our protection.
+
+##### English translation
+Prudent mortals, we invoke the sage deity Agni with hymns to propitiate him for our protection.
+
+### Printed p. 629
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ व॒त्सो मनो॑ यमत्पर॒माच्चि॑त्स॒धस्था॑त् ।  
+> अग्ने॒ त्वांका॑मया गि॒रा ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । वत्सः । मनः । यमत् । परमात् । चित् । सधस्थात् ।  
+> अग्ने । त्वांकामया । गिरा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिप्लविकेषूक्ष्येषु तृतीयसवन आ ते वत्स इति वैकल्पिकः स्तोत्रियस्तृचः ।
+> सूत्रितं च । आ ते वत्सो मनो यमदाग्ने स्फूरं रयिं भर । अ. ७-८ । इति ॥
+> हे अग्ने वत्स ऋषिस्ते तव मनः परमाच्चिदुत्कृष्टादपि सधस्थात्सहस्थानाद्युलोकादा यमत् । आयमयति । केन साधनेन । त्वांकामया त्वामभिलषंत्या
+> गिरा स्तुत्या ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava ukthya rites, at the third pressing, the Ṛk आ ते वत्स (*ā te vatsa*) is an optional stotriya tṛca. It is prescribed in the sūtra: आ ते वत्सो मनो यमदाग्ने स्फूरं रयिं भर (*ā te vatso mano yamadāgne sphūraṃ rayiṃ bhara*), Ā. Sū. 7-8. O Agni, the seer Vatsa draws your mind (मनः (*manaḥ*)) even from the highest common abode (सधस्थात् (*sadhasthāt*)), the world of heaven. By what means? By praise (गिरा (*girā*)) that longs for you (त्वांकामया (*tvāṃkāmayā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- वत्सः (*vatsaḥ*)—the seer named Vatsa
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- परमाच्चित् (*paramāccit*)—from the most excellent
+- सधस्थात् (*sadhasthāt*)—even from the world of the gods
+- त्वांकामाय (*tvāṃkāmāya*)—that desires you alone
+- गिरा (*girā*)—by words in the form of praise
+- आ यमत् (*ā yamat*)—draws
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the seer named Vatsa draws your mind, even from the most excellent world of the gods, by a means in the form of praise that desires you alone.
+
+##### English translation
+Vatsa, by the praise that seeks to propitiate you, Agni, would draw your thought from the supreme assembly (of the gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, in the Abhiplava-related ukthya sacrifices at the time of the third pressing, as आ ते वत्सः (*ā te vatsaḥ*)
+
+### Printed p. 630
+is to be recited as an optional stotriya tṛca, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra, आ ते वत्सो मनो यॆमदाग्ने स्थूरं रयिं भर (*ā te vatso mano yèmadāgne sthūraṃ rayiṃ bhara*) (Ā. 7-8).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒त्रा हि स॒दृज्जसि॒ विशो॒ विश्वा॒ अनु॑ प्र॒भुः ।  
+> स॒मत्सु॑ त्वा हनामहे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुत्रा । हि । सद्यज् । असि । विशः । विश्वाः । अनु । प्रभुः ।  
+> समत्सु । त्वा । हवामहे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने पुरुत्रा हि बहुषु देशेषु त्वं सदृज्जसि । समानं द्रष्टा भवसि । अत
+> एव विश्वाः सर्वा विशः प्रजा अनुलक्ष्य प्रभुरीश्वरो भवसि । ईदृशं त्वां समत्तु
+> संग्रामेषु रक्षणार्थं हवामहे । आह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in many places (पुरुत्रा (*purutrā*)) you are सदृज्जसि (*sadṛjjasi*), that is, you see equally. Therefore, looking upon all (विश्वाः (*viśvāḥ*)) peoples (विशः (*viśaḥ*)), you are lord (प्रभुः (*prabhuḥ*)). Such as you we call (हवामहे (*havāmahe*), invite) in battles (समत्सु (*samatsu*)) for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) पुरुत्रा हि (*purutrā hi*)—you, being in many regions
+- सदृज्जसि (*sadṛjjasi*)—look upon all in an equal manner
+- विश्वाः (*viśvāḥ*)—all
+- विशः अनु (*viśaḥ anu*)—the peoples
+- प्रभुः (*prabhuḥ*)—you are lord (therefore)
+- समत्सु (*samatsu*)—in battles
+- त्वा (*tvā*)—you
+- हवामहे (*havāmahe*)—we call for help
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, being in many regions you look upon all in an equal manner. You are lord over all peoples. Therefore we call you to our help in battles.
+
+##### English translation
+You look upon many places, you are lord over all people ; we call upon you, in battles.
+
 ---
 
-**Progress note:** Done through printed p. 624. pp. 619-624 (batch API)
+**Progress note:** Done through printed p. 630. pp. 625-630 (batch API)
