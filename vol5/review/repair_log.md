@@ -1333,3 +1333,16 @@
 - p. 14 (English line 356) [H25]: `the light of the day exists even in the dark of night` → `darkness is fixed to the night and light to the day` — ರಾತ್ರಿಯಲ್ಲಿ ಕತ್ತಲೆಯೂ ಅಹಸ್ಸಿನಲ್ಲಿ ಪ್ರಕಾಶವೂ ನಿಯತವು (second pass S3, findings.tsv)
 - p. 15 (English line 388) [H27]: `O *ṛtāvṛdhā*, promoters of the sacrifice, *somam pātam*, drink the Soma. The rest is clear.` → `The rest is clear.` — ...ಸುಷ್ಟು ರಕ್ಷತಂ । ಸ್ಪಷ್ಟಮನ್ಯತ್ ॥ (the bhāṣya has no ṛtāvṛdhā ... pātam clause) (second pass S3, findings.tsv)
 - p. 16 (English line 402) [H10]: `*ti, tu, tra, tha, si, su, sara, ka, sa*` → `*ti, tu, tra, ta, tha, si, su, sara, ka, sa*` — ತಿತುತ್ರತಥಸಿಸುಸರಕಸೇಮಚ(ಪಾ. ಸೂ. ೭-೨-೯) ... ಈ ಹತ್ತು ಕೃಪ್ಪ್ರತ್ಯಯಗಳಿಗೆ (second pass S3, findings.tsv)
+
+## Second pass S3, 2026-11-24
+- p. 19 (English line 456) [H25]: `by the *nit*-accent the second member would be initial-acute; but *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) leaves the first member's natura` → `by the *nit*-accent the second member is initial-acute; by the *kṛduttarapadaprakṛtisvara* of *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) that` — ನಿತ್ಸ್ವರದಿಂದ ಉತ್ತರಪದವು ಆದ್ಯುದಾತ್ತ. ಗತಿಕಾರಕೋ---(ಪಾ. ಸೂ.೬-೨-೧೩೯) ಎಂಬ ಕೃದುತ್ತರಪದ ಪ್ರಕೃತಿಸ್ವರದಿಂದ ಅದೇ ಸ್ವರ ನಿಲ್ಲುತ್ತೆ (the second member's accent stays; the bhāṣya also says kṛduttarapadaprakṛtisvaratvam) (second pass S3, findings.tsv)
+- p. 19 (English line 458) [H10]: `pūrvavidhau*, Pā. Sū. 1-1-57` → `pūrvavidhau*, Pā. Sū. 1-1-52` — ಅಚಃಪರಸ್ಮಿನ್---(ಪಾ. ಸೂ. ೧-೧-೫೨) (second pass S3, findings.tsv)
+- p. 21 (English line 507) [H26]: `*ākāt, parākāt*` → `*āke, parāke*` — ಆಕೇ ಪರಾಕೇ ಮೊದಲಾದ ಐದು ದೂರನಾಮಗಳ (second pass S3, findings.tsv)
+- p. 22 (English line 548) [H26]: `*guṇa* and *āv*-substitution` → `*guṇa* and *av*-substitution` — ಗುಣಾವಾದೇಶೌ (= guṇa + avādeśa; the grammar p. 24 says ಅವಾದೇಶ, and L566 has av) (second pass S3, findings.tsv)
+- p. 22 (English line 548) [H28]: `*kvip* of *kṛ* in the past sense after *su*;` → `*kvip* of *kṛ* in the past sense after *su* (Pā. Sū. 3-2-89);` — ಸುಕೃತೇ । ಸುಕರ್ಮಪಾಪೇತ್ಯಾದಿನಾ । ಪಾ. ೩-೨-೮೯ । ಕರೋತೇರ್ಭೂತೇ ಕಾಲೇ ಕ್ವಿಪ್ (second pass S3, findings.tsv)
+- p. 24 (English line 568) [H26]: `root *ḍukṛñ karaṇe*` → `root *kṛñ karaṇe*` — ಸುಕೃತೇ---ಸು ಉಪಸರ್ಗ. ಕೃಞ್ ಕರಣೇ ಧಾತು (second pass S3, findings.tsv)
+- p. 30 (English line 677) [H26]: `*nalavattettaneya sūktavu*` → `*nalavatteṃṭaneya sūktavu*` — ನಲವತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು (second pass S3, findings.tsv)
+- p. 30 (English line 689) [H26]: `"nalavattettaneya sūktavu"` → `"nalavatteṃṭaneya sūktavu"` — ನಲವತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು (second pass S3, findings.tsv)
+- p. 30 (English line 701) [H29]: `*saha ṣoḍaśoṣasyam*` → `*saha ṣoḷaśoṣasyaṃ*` — ಸಹ ಷೋಳಶೋಷಸ್ಯಂ ಎಂದು ಅನುಕ್ರಮಣಿಕೆಯಲ್ಲಿ (second pass S3, findings.tsv)
+- p. 31 (English line 745) [H29]: `root *uchī vivāse*` → `root *uchī nivāse*` — ಉಚ್ಚ । ಉಛೀ ನಿವಾಸೇ (Sāyaṇa text as supplied) (second pass S3, findings.tsv)
+- p. 31 (English line 745) [H28]: `*matup* ('he has it'), the *v* for *m*` → `*matup* ('he has it', Pā. Sū. 5-2-14), the *v* for *m*` — ತದಸ್ಯಾಸ್ತಿ । ಪಾ. ೫-೨-೧೪ । ಇತಿ ದಾಸ್ವತೀ (second pass S3, findings.tsv)
