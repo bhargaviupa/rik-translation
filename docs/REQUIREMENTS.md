@@ -580,7 +580,7 @@ Sūkta introduction of Sāyaṇa where the print has one; then for each Ṛk, in
 | 3 | Maṇḍala 1 Sū. 20–32, Adhyāya 2 | scans; supplied text whole (pp. 2–647) | L1 | Sū. 29 Ṛk 6–7 and Sū. 30 (pp. 452–517) were once written without the page images and are to be redone from the supplied text |
 | 4 | Maṇḍala 1 Sū. 33–46, Adhyāya 3 | scans; supplied text whole (pp. 2–608) | L1 | accent doubts; GLOSS markers |
 | 5 | Maṇḍala 1 Sū. 47–61, Adhyāya 4, Pariśiṣṭa | scans; supplied text pp. 2–708 in 7 files | L1 | pp. 273–286 and 584 stand in two files; the user's readings for pp. 578–625 not applied |
-| 6 | Maṇḍala 1 Sū. 62–80, Adhyāya 5 | scans; supplied text whole (pp. 2–619) | L1 | p. 82 a separate file; numeral rows await the user |
+| 6 | Maṇḍala 1 Sū. 62–80, Adhyāya 5 | scans; supplied text whole (pp. 2–619) | L1 | p. 82 a separate file; the numerals of the supplied text are correct and are not verified by the user (Nov 24 2026) |
 | 7 | Maṇḍala 1 Sū. 81–94, Adhyāya 6 | scans only | L1 | no supplied text yet; numeral file of the user |
 | 8 | Maṇḍala 1 Sū. 95–112, Adhyāya 7 | scans (and an alternate scan on a branch) | L1 | no supplied text yet; numeral differences; about 280 flagged pages |
 | 9 | Maṇḍala 1 Sū. 113–121, Adhyāya 8 | scans | L1 | no supplied text yet; numeral differences |
