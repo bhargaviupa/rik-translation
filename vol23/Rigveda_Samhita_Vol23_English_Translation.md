@@ -23472,6 +23472,283 @@ Aswins, partakers of sacrificial food, decorated with golden ornaments, wise, an
 
 O Aśvins, नहुषस्परि (*nahuṣaspari*): नहुष (*nahuṣa*) is a name for man, and here by implication the world connected with him, the human world; परि (*pari*) merely repeats the sense of the ablative. Come by the well-made, faultless or well-directed praises (सुवृक्तिभिः (*suvṛktibhiḥ*)) as the cause; come also from the अंतरिक्ष (*aṃtarikṣa*), the middle world lying between. And having come, O Aśvins, drink the pressed (सुतं (*sutaṃ*)) sweet Soma at the sacrifice (सवने (*savane*)) of us the Kaṇvas, of the Kaṇva family, in the morning pressing and the rest (पिबाथः (*pibāthaḥ*) = पिबतं (*pibataṃ*)). **NOTE**
 
+### Printed p. 569
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities)
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—drawn by our excellent praises
+- नहुषस्परि (*nahuṣaspari*)—from the world of men
+- आ यातं (*ā yātaṃ*)—be gracious, come
+- अंतरिक्षात् (*aṃtarikṣāt*)—(coming) from the firmament also
+- कण्वानां (*kaṇvānāṃ*)—of us, born in the line of Kaṇva
+- सवने (*savane*)—in the sacrifice
+- सुतं (*sutaṃ*)—pressed
+- मधु (*madhu*)—and sweet; the Soma
+- पिबाथः (*pibāthaḥ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, drawn by our excellent praises, be gracious and come from the world of men. Coming also from the firmament, drink, in our sacrifice, the pressed and sweet Soma, we who are born in the line of Kaṇva.
+
+##### English translation
+Come from (the world of) man, come from the firmament, (attracted) by our pious praises; drink Aswins, the Soma offered at the sacrifice of the Kanwas.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ यातं दि॒वस्पर्यांतरि॑क्षादधप्रिया ।  
+> पु॒त्रः कण्व॑स्य वामि॒ह सु॒षाव॑ सो॒म्यं मधु॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । यातं । दिवः । परि । आ । अंतरिक्षात् । अधप्रिया ।  
+> पुत्रः । कण्वस्य । वां । इह । सुसाव । सोम्यं । मधु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् दिवस्परि दिवोऽधि द्युलोकान्नोऽस्ताना यातं । आगच्छतं ॥
+> पंचम्याः परावध्यर्थ इति विसर्जनीयस्य सत्वं॥ हे अधप्रियाधोऽधस्तादस्मिल्लोके
+> विद्यमानेन सोमेन प्रीयमाणौ । यद्वा । कथप्रिया ॥ छांदसो वर्णलोपः ॥
+> कथया स्तुत्या प्रीयमाणौ । हे ईदृशावश्विनौ अंतरिक्षादस्यागच्छतं । इहास्मिन्यज्ञे
+> ५
+
+##### Gist of the bhāṣya
+
+O Aśvins, come to us from above heaven, from the world of heaven; दिवस्परि (*divaspari*) is equivalent to दिवोऽधि (*divo 'dhi*). The visarjanīya takes s because परि (*pari*) is used in the sense of the ablative. O अधप्रिया (*adhapriyā*), you who are pleased by the Soma that is present below, in this world. Or else the word is कथप्रिया (*kathapriyā*), with the Vedic loss of a letter: you who are pleased by कथया (*kathayā*), by praise. O Aśvins, being such, come also from the firmament. Here, in this sacrifice, the son of the seer Kaṇva
+
+### Printed p. 570
+
+> कण्वस्यर्षेः पुत्रः सोम्यं सोममयं मधु वां युवाभ्यां युवयोरर्थं
+> सुषाव । अभिषुणोति । अत आ यातमित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+…has pressed for you, for your sake, the honey made of Soma. Therefore the construction is "come".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities)
+- दिवस्परि (*divaspari*)—from the upper region of the world of heaven
+- नः (*naḥ*)—towards us
+- आ यातं (*ā yātaṃ*)—be gracious, come
+- अधप्रिया (*adhapriyā*)—O Aśvins, who love the earth, the lower region
+- अंतरिक्षात् आ (*aṃtarikṣāt ā*)—come also from the firmament
+- इह (*iha*)—in this sacrifice of ours
+- कण्वस्य (*kaṇvasya*)—of the seer Kaṇva
+- पुत्रः (*putraḥ*)—the son
+- सोम्यं (*somyaṃ*)—made of Soma
+- मधु (*madhu*)—the honey
+- वां (*vāṃ*)—addressing you two
+- सुषाव (*suṣāva*)—presses
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, come to us also from the world of heaven. O Aśvins, lovers of the earth, come also from the firmament. In this sacrifice of ours the son of the seer Kaṇva presses, for you two, the honey made of Soma.
+
+##### English translation
+Come to us from above the heaven, you who love the (world) below, (come) from the firmament ; the son of Kanwa has here poured forth for you the sweet Soma libation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ यात॒मुप॑श्रु॒त्यश्वि॑ना॒ सोम॑पीतये ।  
+> स्वाहा॒ स्तोम॑स्य वर्धना॒ प्र क॑वी धी॒तिभि॑र्नरा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । यातं । उपश्रुति । अश्विना । सोमपीतये ।  
+> स्वाहा । स्तोमस्य । वर्धना । प्र । कवी इति । धीतिभिः । नरा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् नोऽस्माकमुपश्रुति । श्रूयत इति श्रुत् स्तुतिः । उपगता
+> श्रुद्यस्मिन् तस्मिन्यज्ञे सोमपीतये सोमपानाया यातं । आगच्छतं । हे वर्धना
+
+##### Gist of the bhāṣya
+
+O Aśvins, उपश्रुति (*upaśruti*) means "to our …": what is heard is श्रुत् (*śrut*), praise; it is the sacrifice in which praise is present. To that sacrifice, for the drinking of Soma, come. O increasers
+
+### Printed p. 571
+
+> वर्धनौ कवी क्रांतदर्शिनावश्विन् स्वाहा स्वाहाकृतौ स्वाहाकारेण सम्यगिष्टौ संतौ ।
+> यद्वा । स्वाहेति वाज्ञाम । स्तुतिरूपया वाचा स्तुतौ वाचा सोमस्य स्तोतुः
+> प्रवर्धकौ भवतं । तथा हे नरा नेतारावश्विन् धीतिभिः कर्मभिर्यष्टुश्च प्रवर्धकौ
+> भवतं । यद्वा । स्वाहेत्यादीनामंत्रितानि । हे स्वाहा स्वाहाकृतौ सोमस्य
+> स्तोत्रस्य स्तोतुर्वा हे प्रवर्धना प्रवर्धयितार् ह्ये कवी क्रांतदर्शिनौ धीतिभिर्बुद्धिभिरात्मीयैः कर्मभिर्वा हे नरा सर्वेषां नेतारावश्विन् सोमपानाया
+> यातमित्येकमेव वाक्यं ॥ अस्मिन्नक्षे धीतिभिरित्यपरांगवत्त्वाभावश्चांदसः ॥ यद्वा ।
+> धीतिभिर्धातव्याभिर्युष्मदीयाभिरूतिभिः सार्धमा यातमिति क्रियया संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O increasers, O कवी (*kavī*), far-seeing Aśvins, स्वाहा (*svāhā*): being well worshipped with the cry svāhā. Or else स्वाहा (*svāhā*) is a name of speech: praised with speech in the form of praise, be increasers of the Soma-offerer, the praiser. Likewise, O नरा (*narā*), leaders, be increasers of the sacrificer also, through धीतिभिः (*dhītibhiḥ*), through his acts. Or else स्वाहा (*svāhā*) and the following words are vocatives: O svāhā-worshipped ones, O increasers of the Soma, of the hymn or of the praiser, O far-seeing ones, through your thoughts or your own acts, O leaders of all, Aśvins, "come for the drinking of Soma" is one single sentence. In this verse the word धीतिभिः (*dhītibhiḥ*) has no subordinate construction; this is Vedic. Or else: with your धीतिभिः (*dhītibhiḥ*), with the protections that are to be held, come; so the connection is with the verb.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्र वर्धना (*pra vardhanā*)—you who attain increase
+- कवी (*kavī*)—far-seeing ones
+- स्वाहा (*svāhā*)—you who are offered the sacrifice with the cry svāhā
+- स्तोमस्य (*stomasya*)—causes of the growth of the praiser
+- नरा (*narā*)—and leaders
+- अश्विना (*aśvinā*)—O Aśvin deities
+- धीतिभिः (*dhītibhiḥ*)—pleased by our acts
+- नः (*naḥ*)—our
+- उपश्रुति (*upaśruti*)—to the sacrifice accompanied by praise
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- आ यातं (*ā yātaṃ*)—be gracious, come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, you who attain increase, are far-seeing, are offered the sacrifice with the cry svāhā, are causes of the growth of the praiser, and are leaders: pleased by our acts, be gracious and come to our sacrifice accompanied by praise, for the drinking of Soma.
+
+##### English translation
+Come, Aswins, to drink the Soma at our sacrifice, you who are praised (by him) (and honoured) by his pious acts, benefactors of the worshipper, sages and leaders of rites.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यच्चि॒द्दि नां॑ पु॒र ऋष॑यो जुहू॒रेऽव॑से नरा ।  
+> आ या॑तमश्वि॒ना ग॑त॒मुपे॒मां सु॑ष्टु॒तिं मम॑ ॥ ६ ॥
+
+### Printed p. 572
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । चित् । हि । नां । पुरा । ऋषयः । जहूरे ; अवसे । नरा ।  
+> आ । यातं । अश्विना । गतं । उप । इमां । सुस्तुतिं । मम : ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारावश्विन् यच्चिद्धि यदा खलु नां युवां पुरा पूर्वस्मिन्नाल
+> ऋषयोऽतींद्रियार्थदर्शिनः स्तोतारोऽवसे रक्षणाय जुहूरे जुहुविरे स्तुतिभिराह्वयन् ॥ ह्वयतेर्लिट्यभ्यस्तस्य चेति संप्रसारणं । हल इति दीर्घः । इरयो र
+> इति रेभावः ॥ तदानीं हे अश्विनौ आ यातं । आगच्छतं । आगतवंतौ स्थः । अतो
+> मम मदीयामिमां सुष्टुतिं शोभनां स्तुतिमप्युपा गतं । उपागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O leaders, Aśvins, whenever in former times the seers, the praisers who see what is beyond the senses, called you with praises for protection (जुहूरे (*juhūre*) = जुहुविरे (*juhuvire*)), at those times, O Aśvins, you came; you did come. Therefore come also to this my good praise, *upā gataṃ*, approach it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Aśvin deities, leaders
+- वां (*vāṃ*)—you
+- पुरा (*purā*)—in former times
+- यच्छिद्धि (*yacchiddhi*)—at whatever times
+- ऋषय (*ṛṣaya*)—the seers, the praisers
+- अवसे (*avase*)—for protection
+- जुहूरे (*juhūre*)—called, each time
+- आ यातं (*ā yātaṃ*)—you came (therefore)
+- अश्विना (*aśvinā*)—O Aśvin deities
+- मम (*mama*)—my
+- इमां सुष्टुतिं उप (*imāṃ suṣṭutiṃ upa*)—towards this praise now offered
+- आ गतं (*ā gataṃ*)—be gracious, come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders, whenever in former times the seers called you for their protection, you came each time. Therefore, O Aśvin deities, be gracious now and come towards the praise offered by me.
+
+##### English translation
+Leaders of rites, when the Rishis formerly invoked you for protection, you came; so now, Aswins, come at my devout praises.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वश्चि॑द्रोच॒नादध्या नो॑ गंतं स्वर्विदा ।  
+> धी॒भिर्व॑त्सप्रचेतसा॒ स्तोमे॑भिर्हवनश्रुता ॥ ७ ॥
+
+### Printed p. 573
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । चित् । रोचनात् । अधि । आ । नः । गंतं । स्वःविदा ।  
+> धीभिः । वत्सप्रचेतसा । स्तोमेभिः । हवनश्रुता ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्वर्विदा स्वः सूर्यस्य द्युलोकस्य वा लंभयितारावश्विन् दिवश्चिद्दुलोकाच्च रोचनादधि रोचमानादंतरिक्षाच्च नोऽस्माना गंतं । आगच्छतं ॥
+> पूर्ववदधिः पंचम्यर्थानुवादकः ॥ हे वत्सप्रचेतसा वत्से स्तोतरि प्रकृष्टज्ञानौ ।
+> यद्वा । वत्सं निवासकं वेदितव्यं वा प्रकृष्टं चेतो ज्ञानं ययोस्तौ तथोक्तौ ।
+> तौ युवां धीभिरात्मीयाभिर्बुद्धिभिः सहागच्छतं । हे हवनश्रुता हवनस्यास्मदीयस्याह्वानस्य स्तोत्रस्य श्रोतारौ स्तोमेभिः स्तोत्रैरस्कृत्यतैर्युज्यमानौ संतानागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+O स्वर्विदा (*svarvidā*), bringers of स्वः (*svaḥ*), the sun or the world of heaven, O Aśvins, come to us from heaven, from the world of heaven, and from the shining firmament; as before, अधि (*adhi*) restates the sense of the ablative. O वत्सप्रचेतसा (*vatsapracetasā*): of excellent knowledge towards वत्से (*vatse*), the praiser. Or else: those two who have an abiding or knowable वत्सं (*vatsaṃ*) and excellent mind, that is, knowledge. You two, come together with your own thoughts. O हवनश्रुता (*havanaśrutā*), hearers of our invocation and praise, come joined with the praises स्तोमेभिः (*stomebhiḥ*), the hymns, that are being adorned (for you).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वर्विदा (*svarvidā*)—O Aśvin deities, who have your refuge in the world of heaven
+- दिवश्चित् (*divaścit*)—whether from the world of heaven
+- रोचनादधि (*rocanādadhi*)—or from the firmament
+- नः (*naḥ*)—to us
+- आ गंतं (*ā gaṃtaṃ*)—be gracious, come
+- वत्सप्रचेतसा (*vatsapracetasā*)—O Aśvin deities, who have the excellent mind to do good to the praiser, who is like a son (वत्स (*vatsa*))
+- धीभिः (*dhībhiḥ*)—come with your gracious thoughts
+- हवनश्रुता (*havanaśrutā*)—O Aśvins, who hear our invocation
+- स्तोमेभिः (*stomebhiḥ*)—come joined also with the praises offered by us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who have your refuge in the world of heaven, be gracious and come to us, whether from the world of heaven or from the firmament. O Aśvin deities, who have the excellent mind to do good to your praiser, who is like a son to you, come with your gracious thoughts. O Aśvins, who hear our invocation, come joined also with the praises offered by us.
+
+##### English translation
+Familiar with heaven, come to us from the sky, or from above the bright (firmament): favourably inclined to the worshipper, (come), induced by his pious acts; hearers of invocations (come, induced) by our praises.
+
+### Printed p. 574
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किम॒न्ये पर्या॑सते॒ऽस्मत्सोमे॑भिर॒श्विना॑ ।  
+> पु॒त्रः कण्व॑स्य वा॒मृषि॑र्गि॒र्भिर्व॒त्सो अ॑वीवृधत् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । अन्ये । परि । आसते । आस्मत् । स्तोमेभिः । आश्विना ।  
+> पुत्रः । कण्वस्य । वां । ऋषिः । ग्रीभिः । वत्सः । अवीवृधत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मदस्मत्तोऽन्ये व्यतिरिक्ताः स्तोतारः स्तोमेभिः स्तोत्रैरश्विनाश्विन् देवौ
+> किं पर्यासते । अस्मद्व्यतिरिक्ताः केऽप्यश्विना स्तोतुं न शक्नुवंतीत्यर्थः । कण्वस्यर्षेः
+> पुत्र ऋषिर्मंत्रद्रष्टा वत्सो गीर्भिः स्तुतिभिर्हे अश्विना वां युवामवीवृधत् ।
+> अवर्धयत् ॥
+
+##### Gist of the bhāṣya
+
+Do praisers other than ourselves sit around the divine Aśvins with praises? That is, no one apart from us is able to praise the Aśvins. The seer Vatsa, son of the seer Kaṇva, the seer of the mantra, has magnified you, O Aśvins, with his praises; अवीवृधत् (*avīvṛdhat*) means "made grow".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities (you)
+- अस्मत् (*asmat*)—than us
+- अन्ये (*anye*)—other praisers
+- स्तोमेभिः (*stomebhiḥ*)—with hymns
+- किं पयासते (*kiṃ payāsate*)—can they worship you more?
+- कण्वस्य (*kaṇvasya*)—of the seer Kaṇva
+- पुत्रः (*putraḥ*)—the son
+- ऋषिः (*ṛṣiḥ*)—and seer of the mantra
+- वत्सः (*vatsaḥ*)—the seer Vatsa
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- वां (*vāṃ*)—you
+- अवीवृधत् (*avīvṛdhat*)—has made grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, what other praisers than ourselves can worship you more? The seer Vatsa, son of the seer Kaṇva and seer of the mantra, has made you grow with his praises.
+
+##### English translation
+What others than ourselves adore the Aswins with praises? The Rishi Vatsa, the son of Kanwa, has magnified you with hymns.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ विप्र॑ इ॒हाव॒सेऽह्व॒त्स्मे॑भिरश्विना ।
+
 ---
 
-**Progress note:** Done through printed p. 568. pp. 563-568 (batch API)
+**Progress note:** Done through printed p. 574. pp. 569-574 (batch API)
