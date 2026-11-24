@@ -879,3 +879,63 @@
 | 547 | ` (or *svar*)` → `` | SECOND-PASS S16: Kannada says only ಕ್ಷರ ಧಾತುವಿಗೆ |
 | 548 | `(Āśv. 4-[13] [?])` → `(Āśv. 4-13)` | SECOND-PASS S1: Kannada (ಆ. ೪-೧೩) |
 | 548 | `(Ni. [2-1] [?])` → `(Ni. 3-1)` | SECOND-PASS S2: Kannada (ನಿ. ೩-೧) |
+
+### 2026-11-24 second pass, batch e550-579.tsv
+| page | old → new | why |
+|---|---|---|
+| 550 | `Ni. [3-13?] [?]` → `Ni. 3-13` | SECOND-PASS S1: Kannada prints (ನಿ. ೩-೧೩) |
+| 550 | `3-[34]-[8] [?]` → `3-34-8` | SECOND-PASS S1: Kannada prints (ಋ. ಸಂ. ೩-೩೪-೮) |
+| 551 | `8-[?]-[?] [?]` → `8-92-7` | SECOND-PASS S3: Kannada prints (ಋ. ಸಂ. ೮-೯೨-೭) |
+| 551 | `त्वमु वः सत्रासाहं` → `त्यमु वः सत्रासाहं` | SECOND-PASS S7: Kannada quotation ತ್ಯಮು ವಃ ಸತ್ರಾಸಾಹಂ: ತ್ವ (tva) changed to ತ್ಯ (tya); accusative satrāsāham agrees with tyam |
+| 551 | `*tvam u vaḥ satrāsāhaṃ` → `*tyam u vaḥ satrāsāhaṃ` | SECOND-PASS S7: same repair in the IAST line: tva to tya (Kannada ತ್ಯಮು) |
+| 551 | `in Ṛk 2-21-2 the word *satrāsahaḥ*, in Ṛk 2-21-3 the word *satrāsahe*` → `in Ṛk 2-21-3 the word *satrāsahaḥ*, in Ṛk 2-21-2 the word *satrāsahe*` | SECOND-PASS S15: Kannada: ಸತ್ರಾಸಹಃ ಋ. ಸಂ. ೨-೨೧-೩, ಸತ್ರಾಸಹೇ ಋ. ಸಂ. ೨-೨೧-೨ (numbers had been swapped) |
+| 551 | `Ni. [2-17] [?]` → `Ni. 3-9` | SECOND-PASS S1: Kannada prints (ನಿ. ೩-೯) |
+| 551 | `not to be obtained by others` → `impossible to attain` | SECOND-PASS S16: Kannada ಹೊಂದುವುದಕ್ಕೆ ಅಸಾಧ್ಯವಾದ has no 'by others' |
+| 551 | `being *ñ*-marked` → `being *ṇ*-marked` | SECOND-PASS S13: Kannada ಣಿತ್ತಾದುದರಿಂದ (ṇit) |
+| 552 | ` (Pā. Sū. 7-3-84)` → `` | SECOND-PASS S2: Kannada gives no number for sārvadhātukārdhadhātukayoḥ |
+| 552 | `3-[96?] [?]` → `3-378` | SECOND-PASS S1: Kannada prints (ಉ. ಸೂ. ೩-೩೭೮) |
+| 552 | `because of the *n*-mark` → `because of it` | SECOND-PASS S16: Kannada ತನ್ನಿಮಿತ್ತವಾಗಿ (because of it); no n-mark stated |
+| 554 | `*jīvātumantaḥ savyottarair yaḥ pasasthāḥ*` → `*jīvātumantau savyottaryupasthāḥ*` | SECOND-PASS S7: Kannada sūtra quotation ಜೀವಾತುಮಂತೌ ಸವ್ಯೋತ್ತರ್ಯುಪಸ್ಥಾಃ: ḥ>au; savyottarair yaḥ pasasthāḥ > savyottaryupasthāḥ |
+| 554 | `Pā. Sū. 6-2-[139]?` → `Pā. Sū. 4-6-66` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೪-೬-೬೬) |
+| 555 | `Pā. Sū. 1-1-39` → `Pā. Sū. 1-1-29` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೧-೧-೨೯) |
+| 556 | `twenty(-odd)` → `twenty` | SECOND-PASS S16: Kannada ಇಪ್ಪತ್ತು |
+| 557 | `Uṇ. Sū. 1-[141]` → `Uṇ. Sū. 1-143` | SECOND-PASS S1: Kannada prints (ಉ. ಸೂ. ೧-೧೪೩) |
+| 557 | ` (Pā. Sū. 3-4-80)` → `` | SECOND-PASS S2: Kannada gives no number for thāsaḥ se |
+| 557 | `7-4-35 [?]` → `7-4-35` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೭-೪-೩೫) |
+| 559 | `, Pā. Sū. 3-3-108 [?]` → `, Vā. 2233` | SECOND-PASS S1: Kannada prints (ವಾ. ೨೨೩೩) for sampadādibhyaḥ kvip, no sūtra number |
+| 562 | `ṣiti śiṣṭasvarabalīyastvam` → `sati śiṣṭasvarabalīyastvam` | SECOND-PASS S7: Kannada ಸತಿಶಿಷ್ಟಸ್ವರಬಲೀಯಸ್ತ್ವಮ್: ṣi to sa |
+| 562 | ` (Pā. Sū. 3-4-79)` → `` | SECOND-PASS S2: Kannada gives no number for ṭita ātmanepadānām |
+| 562 | ` (Pā. Sū. 1-2-4)` → `` | SECOND-PASS S2: Kannada gives no number for sārvadhātukam apit |
+| 563 | `5-2-[?]` → `5-2-2` | SECOND-PASS S3: Kannada prints (ಐ. ಆ. ೫-೨-೨) |
+| 566 | `Pā. Sū. 8-1-34` → `Pā. Sū. 8-1-38` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೮-೧-೩೮) |
+| 566 | `being *ñit*` → `being *l*-marked` | SECOND-PASS S13: Kannada ಲಿತ್ತಾದುದರಿಂದ |
+| 566 | `, Pā. Sū. 7-1-1` → `` | SECOND-PASS S2: Kannada gives no number for yuvor anākau |
+| 566 | ` (Pā. Sū. 7-3-86)` → `` | SECOND-PASS S2: Kannada gives no number here for pugantalaghūpadhasya ca |
+| 567 | `, Pā. Sū. 5-2-121` → `` | SECOND-PASS S2: Kannada gives no number for asmāyāmedhā-srajo vini |
+| 567 | ` (Pā. Sū. 5-3-55)` → `` | SECOND-PASS S2: Kannada gives no number for atiśāyane tamabiṣṭhanau |
+| 567 | `, Pā. Sū. 6-4-155` → `` | SECOND-PASS S2: Kannada gives no number for ṭeḥ |
+| 567 | `, Pā. Sū. 2-4-72` → `` | SECOND-PASS S2: Kannada gives no number for adiprabhṛtibhyaḥ śapaḥ |
+| 567 | ` (Pā. Sū. 2-4-76)` → `` | SECOND-PASS S2: Kannada gives no number for bahulaṃ chandasi |
+| 567 | `, Pā. Sū. 6-1-10` → `` | SECOND-PASS S2: Kannada gives no number for ślau |
+| 567 | `, Pā. Sū. 6-4-144` → `` | SECOND-PASS S2: Kannada gives no number for nas taddhite |
+| 567 | `Pā. Sū. 5-1-[128 *gaṇa*]` → `Pā. Sū. 5-1-128 *ga*` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೫-೧-೧೨೮ ಗ) |
+| 567 | `Pā. Sū. 6-2-130 [?]` → `Pā. Sū. 6-2-130` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೬-೨-೧೩೦) |
+| 569 | `yaś cītvā` → `yat pītvā` | SECOND-PASS S7: Kannada quotation ವರ್ಷಿತಾ ಯತ್ಪೀತ್ವಾ ಇಂದ್ರೋ ವರ್ಷತಿ; gloss 'drinking Soma' agrees: yaś cītvā > yat pītvā |
+| 569 | `Ai. Br. [3-25] [?]` → `Ai. Br. 3-25` | SECOND-PASS S1: Kannada prints (ಐ. ಬ್ರಾ. ೩-೨೫) |
+| 570 | `nikṣayeṇa` → `niścayena` | SECOND-PASS S7: Kannada ನಿಶ್ಚಯೇನ (kṣa > śca); Kannada gloss ಬಲವಾಗಿ agrees |
+| 570 | `7-2-62 [?]` → `7-2-62` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೭-೨-೬೨) |
+| 571 | ` (Pā. Sū. 6-1-97)` → `` | SECOND-PASS S2: Kannada gives no number for ato guṇe |
+| 572 | `Hasten, assail, subdue` → `Hasten, assault, subdue` | SECOND-PASS S13: Kannada printed English Translation: Hasten, assault, subdue |
+| 573 | `forty-four (?) words` → `forty-four words` | SECOND-PASS S1: Kannada ನಲವತ್ತನಾಲ್ಕು |
+| 574 | `Pā. Sū. 3-1-34` → `Pā. Sū. 2-1-34` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೨-೧-೩೪) |
+| 574 | `Pā. Sū. 3-4-94` → `Pā. Sū. 3-4-44` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ ೩-೪-೪೪) |
+| 574 | `, Pā. Sū. 2-4-72` → `` | SECOND-PASS S2: Kannada gives no number for adiprabhṛtibhyaḥ śapaḥ |
+| 574 | `, Pā. Sū. 3-1-73` → `` | SECOND-PASS S2: Kannada gives no number for svādibhyaḥ śnuḥ |
+| 574 | `, Pā. Sū. 8-4-1` → `` | SECOND-PASS S2: Kannada gives no number for raṣābhyāṃ no ṇaḥ samānapade |
+| 575 | `Pā. Sū. 3-4-97` → `Pā. Sū. 3-4-92` | SECOND-PASS S1: Kannada prints (ಪಾ. ಸೂ. ೩-೪-೯೨) |
+| 577 | `*ṭhinu prīṇane* [sic: as printed; *dhinu prīṇane*]` → `*dhinu prīṇane*` | SECOND-PASS S13: Kannada prints ಧಿನು ಪ್ರೀಣನೇ (dhinu) |
+| 577 | `, Pā. Sū. 3-1-77` → `` | SECOND-PASS S2: Kannada gives no number for tudādibhyaḥ śaḥ |
+| 577 | ` (Pā. Sū. 6-2-1)` → `` | SECOND-PASS S2: Kannada gives no number for bahuvrīhau prakṛtyā pūrvapadam here |
+| 577 | `, Pā. Sū. 4-1-6` → `` | SECOND-PASS S2: Kannada gives no number for ugitaś ca |
+| 579 | `*reḷati, heḷate*` → `*reḷate, heḷate*` | SECOND-PASS S7: Kannada ರೇಳತೆ, ಹೇಳತೆ |
+| 579 | `1-[24]-11` → `1-24-11` | SECOND-PASS S1: Kannada prints (ಋ. ಸಂ. ೧-೨೪-೧೧) |

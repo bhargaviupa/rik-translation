@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 548 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549)
-- **Findings:** 1001 — applied 734, questions 267; edits ok 742, failed 0
-- **Reader tokens (batches so far):** 4663k; per page 8.5k
-- **Last commit:** 369af22
+- **Pages read:** 578 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579)
+- **Findings:** 1079 — applied 790, questions 289; edits ok 798, failed 0
+- **Reader tokens (batches so far):** 4663k; per page 8.1k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -30,24 +30,25 @@
 | 17 | 460–489 | 42 | 30 | 30 / 0 | 12 | 244k | e0252e0 | 14 number fixes, 10 number removals, 6 R3 quotation repairs; English pp. 471/472 and 480/481 shifted (open items); one edit-file slip left an extra harmless p. 471 row in findings.tsv; reader hit the usage limit and was resumed |
 | 18 | 490–519 | 66 | 47 | 47 / 0 | 19 | 253k | f10e549 | 31 S1 + 11 S2 number repairs, 2 S7; Pāṇini adhyāya 9 printed on p. 507, and 6-2-55 vs 5-3-55 on p. 515 (open items); English from p. 490 is a condensed rendering; no page shifts |
 | 19 | 520–549 | 100 | 84 | 84 / 0 | 16 | 243k | 369af22 | 84 edits: 21 S1, about 40 S2 removals of sūtra numbers the Kannada does not print, 33 S7 quotation edits (IAST + Devanagari pairs); no page shifts; p. 540 prints 6-1-167 vs p. 521 6-1-197 (each page's own number applied); findings.tsv/questions.tsv p. 532 rows were trimmed by hand by the reader |
+| 20 | 550–579 | 78 | 56 | 56 / 0 | 22 | TOK19 | @C@ | 46 number repairs (16 S1/S3, 13 sūtra numbers, 18 removals), 7 R3 quotation edits; pp. 559 and 571 have no head in the supplied text (inside 558 and 570); English pp. 570/571 shifted (open items) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
-| S2 | 240 | 1 | 241 |
-| H29 | 3 | 233 | 236 |
-| S1 | 154 | 3 | 157 |
-| S7 | 130 | 9 | 139 |
+| S2 | 260 | 1 | 261 |
+| H29 | 3 | 253 | 256 |
+| S1 | 173 | 3 | 176 |
+| S7 | 137 | 11 | 148 |
 | S14 | 81 | 6 | 87 |
-| S16 | 38 | 3 | 41 |
-| S3 | 37 | 0 | 37 |
-| S13 | 14 | 7 | 21 |
+| S16 | 41 | 3 | 44 |
+| S3 | 39 | 0 | 39 |
+| S13 | 18 | 7 | 25 |
 | S17 | 13 | 1 | 14 |
 | S18 | 13 | 0 | 13 |
 | R3 | 8 | 4 | 12 |
-| S15 | 3 | 0 | 3 |
+| S15 | 4 | 0 | 4 |
 
-By reader: R1 617, R3 252, R6 132
+By reader: R1 666, R3 261, R6 152
 
 ## 4. Open items (not findings)
 - **marker** (pages 65-66): The text of p. 66 stands inside the p. 65 block of the Kannada book (head missing): the page marker needs a fix; the English p. 66 matches that text
@@ -76,9 +77,10 @@ By reader: R1 617, R3 252, R6 132
 - **other** (pages 475-476): Kannada p. 476 has its own mark and head; English pp. 475/476 divide exactly as the Kannada (p. 476 starts at ಮಹೇ)
 - **other** (pages 507): Kannada prints Pāṇini adhyāya 9 (ಶೇರನಿಟಿ ಪಾ. ಸೂ. ೯-೪-೫೧); applied as printed (English 6-4-51 replaced by 9-4-51)
 - **other** (pages 515): Kannada prints ಅತಿಶಾಯನೇ ತಮಬಿಷ್ಠನೌ as ಪಾ. ಸೂ. ೬-೨-೫೫; pp. 502 and 518 print ೫-೩-೫೫; applied as printed on p. 515
+- **boundary-shifted** (pages 570-571): English p. 570 (jaghantha entry) carries the first lines of the Kannada p. 571 text (inside the Kannada p. 570 block, head 571 missing); English p. 571 starts at arcan
 
 ## 5. Questions for the editor
-264 rows in `questions.tsv`; by kind: H29 233, R3 4, S1 3, S13 7, S14 6, S16 3, S17 1, S2 1, S7 9
+286 rows in `questions.tsv`; by kind: H29 253, R3 4, S1 3, S13 7, S14 6, S16 3, S17 1, S2 1, S7 11
 
 ## 6. Files
 `vol6/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
