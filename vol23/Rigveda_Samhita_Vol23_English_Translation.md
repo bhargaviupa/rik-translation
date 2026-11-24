@@ -32246,6 +32246,288 @@ The paths of travel of these Ādityas are unobstructed and unharmed. For that ve
 The paths of these Adityas are unobstructed and unopposed; may
 they yield us security and augment our happiness,
 
+### Printed p. 765
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तत्सु नः॑ सवि॒ता भगो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> शर्म यच्छंतु सप्रथो यदीमहे । ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । सु । नः । सविता । भगः । वरुणः । मित्रः । अर्यमा ।  
+> शर्म । यच्छंतु । सप्रथः । यत् । ईमहे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सवित्रादयश्चत्वारो देवाः सप्रथः सर्वतः पृथु विस्तीर्णं तच्छर्म सुखं
+> गृहं वा नोऽस्मभ्यं सु सुष्टु यच्छंतु । ददतु । यच्छर्मेमहे वयं
+> याचामहे ॥
+
+##### Gist of the bhāṣya
+
+The four deities beginning with Savitṛ are asked to give us well that wide (सप्रथः (*saprathaḥ*), extending everywhere) शर्म (*śarma*), meaning happiness or a house. The words यच्छर्मेमहे (*yaccharmemahe*) mean that this is what we beg for.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—Savitṛ
+- भगः (*bhagaḥ*)—Bhaga
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अरमा (*aramā*)—Aryaman
+- नः (*naḥ*)—to us
+- यत् (*yat*)—whatever house and so on
+- ई महे (*ī mahe*)—we beg
+- तत् (*tat*)—such
+- सप्रथः (*saprathaḥ*)—exceedingly extensive
+- शर्म (*śarma*)—house, wealth and so on
+- सु (*su*)—abundantly
+- यच्छंतु (*yacchaṃtu*)—let them give
+
+##### भावार्थ (Bhāvārtha)
+
+May Savitṛ, Bhaga, Varuṇa, Mitra and Aryaman give us the house, wealth and the like that we beg for, in great extent and abundance.
+
+##### English translation
+May Savitri, Bhaga, Varuna, Mitra, and Aryaman bestow upon us that ample felicity which we solicit.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> देवेभिर्देन्यदितेऽरिष्टभर्मन्नागहि ।
+
+### Printed p. 766
+
+> स्मत्सूरिभिः पुरुप्रिये सुशर्मभिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवेभिः । देवि । अदिते । अरिष्टभर्मन् । आ । गहि ॥  
+> स्मत् । सूरिभिः । पुरुप्रिये । सुशर्मभिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवि दानादिगुणयुक्ते हे अरिष्टभर्मन्नहिंसितभरणे हे पुरुप्रिये
+> बहुभिः प्रीयमाणे हे एवंगुणविशिष्टेऽदिते सूरिभिः प्राज्ञैः सुशर्मभिः सुसुखैर्देवेभिर्देवैरात्मीयैः पुत्रैः सार्धं । स्मदिति निपातः शोभनार्थः । स्मच्छोभनं
+> यथा भवति तथा गहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+Addressed: O goddess endowed with the quality of giving and so on; O अरिष्टभर्मन् (*ariṣṭabharman*), whose bearing (of her charges) is unharmed; O पुरुप्रिये (*purupriye*), loved by many; O Aditi, so qualified. Come with the divinities, your own sons, who are wise (सूरिभिः (*sūribhiḥ*)) and of good happiness (सुशर्मभिः (*suśarmabhiḥ*)). स्मत् (*smat*) is a particle meaning "well": come in such a way that it is well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवि (*devi*)—divine in nature
+- अरिष्टभर्मन् (*ariṣṭabharman*)—one whose bearing is unharmed
+- पुरुप्रिये (*purupriye*)—dear to many
+- अदिते (*adite*)—O Aditi
+- सूरिभिः (*sūribhiḥ*)—endowed with wisdom
+- सुशर्मभिः (*suśarmabhiḥ*)—endowed with excellent happiness
+- देवेभिः (*devebhiḥ*)—together with the gods, your sons
+- स्मत् (*smat*)—in a way that is good for us
+- आ गहि (*ā gahi*)—be gracious, come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aditi, divine in nature, of unharmed bearing, dear to many, be gracious to us in a way that is good for us, together with the gods, your sons, who are wise and endowed with excellent happiness.
+
+##### English translation
+Divine Aditi, bringer of safety, beloved of many, come propitiously with the wise and happy divinities.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि पुत्रासो अदितेर्विदुर्द्वेषांसि योतवे ।  
+> अंहोश्चिदुरुचक्रयोऽनेहसः ॥ ५ ॥
+
+### Printed p. 767
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हि । पुत्रासः । अदितेः । विदुः । द्वेषांसि । योतवे ।  
+> अंहोः । चित् । उरुचक्रयः । अनेहसः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदितेः पुत्रासः पुत्रास्ते हि ते खलु मित्रादयो देवा द्वेषांसि द्वेष्टाणि
+> राक्षसादीनि योतवे पृथक्कर्तुं विदुः । जानंति ॥ विदो लटो वेति विद उत्तरस्य
+> झेरुसादेशः ॥ तथोरुचक्रयो विस्तीर्णस्य कर्मणः कर्तारोऽनेहसोऽनाहंतारो रक्षकास्तेऽहोश्चिदाहननशीलात्पापादपि योतवे पृथक्कर्तुमस्माञ्ज्ञानंति ॥
+
+##### Gist of the bhāṣya
+
+Those sons of Aditi, Mitra and the other gods, know how to separate (योतवे (*yotave*)) from us the hateful ones, the Rākṣasas and the like. Likewise, as makers of far-reaching work (उरुचक्रयः (*urucakrayaḥ*)) and protectors, not smiters (अनेहसः (*anehasaḥ*)), they know how to separate us even from sin (अंहोः (*aṃhoḥ*)), which is of a smiting nature. He explains विदुः (*viduḥ*) as meaning "they know", the ending being replaced by *jherus* after विद (*vida*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदितेः (*aditeḥ*)—of Aditi
+- पुत्रासः (*putrāsaḥ*)—sons
+- ते हि (*te hi*)—those well-known ones, Mitra and the others
+- द्वेषांसि (*dveṣāṃsi*)—our enemies
+- योतवे (*yotave*)—to separate and drive far away
+- विदुः (*viduḥ*)—they know
+- उरुचक्रयः (*urucakrayaḥ*)—doers of great deeds
+- अनेहसः (*anehasaḥ*)—givers of protection
+- अंहोश्चित् (*aṃhościt*)—they know how to free us even from sin
+
+##### भावार्थ (Bhāvārtha)
+
+The sons of Aditi, the well-known Mitra and the others, know the way to separate our enemies and drive them far away. Doers of great deeds and givers of protection, they know how to free us even from sin.
+
+##### English translation
+These sons of Aditi know how to drive away (our) enemies ; and, doers of great deeds and donors of security, (they know how to extricate us) from sin-
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदिर्तिनो दिवा पशुमदितिर्नक्तमद्वयाः ।  
+> अदितिः पात्वंहसः सदावृधा ॥ ६ ॥
+
+### Printed p. 768
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदितिः । नः । दिवा । पशुं । अदितिः । नक्तं । अद्वयाः ॥  
+> अवितिः । पातु । अंहसः । सदावृधा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं पशुमदितिरदीनाखंडनीया वा देवमाता दिवाहनि पातु ।
+> रक्षतु । तथाद्वया बाह्याभ्यंतरभेदेन प्रकारद्वयरहिता सर्वदैकप्रकारा कपटरहिता सादितिर्नक्तं रात्रौ चास्मदीयं गवादिपशुजातं रक्षतु । तथास्मानप्यंहसः
+> पापात् पातु । रक्षतु । केन साधनेन । सदावृधा सर्वदा वृद्धिमतात्मीयेन
+> रक्षणेन ॥
+
+##### Gist of the bhāṣya
+
+May Aditi, the undiminished or unbreakable mother of the gods, protect our cattle by day. And Aditi, अद्वया (*advayā*), that is, without a twofold nature of outer and inner, always of one kind and free from deceit, protects by night our cattle, cows and the rest. She also protects us from sin (अंहसः (*aṃhasaḥ*)). By what means? सदावृधा (*sadāvṛdhā*): by her own protection, which always brings growth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदितिः (*aditiḥ*)—Aditi
+- नः (*naḥ*)—our
+- पशुं (*paśuṃ*)—cattle
+- दिवा (*divā*)—by day
+- पातु (*pātu*)—let her protect
+- अद्वया (*advayā*)—free from a deceitful mind
+- अदितिः (*aditiḥ*)—Aditi
+- नक्तं (*naktaṃ*)—by night too (let her protect)
+- अदितिः (*aditiḥ*)—that same Aditi
+- सदावृधा (*sadāvṛdhā*)—by protection that always brings growth
+- अंहसः (*aṃhasaḥ*)—let her protect from sin too
+
+##### भावार्थ (Bhāvārtha)
+
+May Aditi protect our cattle by day. May Aditi, free from a deceitful mind, protect them by night. May that same Aditi protect us from sin as well, with protections that always bring growth.
+
+##### English translation
+May Aditi protect our cattle by day, and free from duplicity, (guard them) by night; may Aditi, by her constant favour, preserve us from sin.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत स्या नो दिवा मतिरदितिरूत्या गमत् ।  
+> सा शंताति मयस्करदप स्रिधः ॥ ७ ॥
+
+### Printed p. 769
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्या । नः । दिवा । मतिः । अदितिः । ऊत्या । आ । गमत् ॥  
+> सा । शंताति । मयः । करत् । अप । स्रिधः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च स्या सा पूर्वोक्ता मतिर्मंत्री मंतव्या स्तोतव्या वादितिरूता
+> रक्षया सार्धं दिवाहनि नोऽस्माना गमत् । आगच्छतु । अगत्य च शंताति शांतिकरं
+> मयः सुखं सादितिः करत् । करोतु । स्रिधो बाधकाञ्छत्रूंश्चापगमयतु ॥
+> स्रिधिर्बाधनार्थः । शिवशमरिष्टस्य करे । पा. ४-४-१४३. । इति शंशब्दात्करणार्थे
+> तातिल्पत्ययः ॥
+
+##### Gist of the bhāṣya
+
+And that Aditi mentioned before, मतिः (*matiḥ*), the counsellor or the one to be thought of and praised, comes to us by day together with protection. Having come, may she bring tranquillising happiness (मयः (*mayaḥ*)), and drive away the harassing enemies; स्रिधः (*sridhaḥ*) has the sense of harassing. The suffix तातिल् (*tātil*) in the sense of making comes after the word शं (*śaṃ*) (Pā. Sū. 4-4-143).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- स्या (*syā*)—the well-known
+- मतिः (*matiḥ*)—worthy of praise
+- अदितिः (*aditiḥ*)—Aditi
+- ऊत्या (*ūtyā*)—together with protections
+- दिवा (*divā*)—by day
+- नः (*naḥ*)—to us
+- आ गमत् (*ā gamat*)—let her come
+- सा (*sā*)—that same Aditi
+- शंताति (*śaṃtāti*)—tranquillising
+- मयः (*mayaḥ*)—happiness
+- करत् (*karat*)—let her bring about
+- स्रिधः (*sridhaḥ*)—harassing enemies
+- अप (*apa*)—let her thrust far away
+
+##### भावार्थ (Bhāvārtha)
+
+May Aditi, well known and worthy of praise, come to us by day together with protections. May she bring us tranquillising happiness and thrust the harassing enemies far away.
+
+##### English translation
+May the monitress Aditi come to us for our protection by day : may she grant us tranquil felicity, and drive away (our) enemies.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत त्या दैन्व्या भिषजा शं नः करतो अश्विना ।  
+> युयुयातामितो रपो अप स्रिधः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 770
+
+> उत । त्या । दैव्या । भिषजा । शं । नः । करतः । अश्विना ॥  
+> युयुयातां । इतः । रपः । अप । स्रिधः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च त्या तौ प्रसिद्धौ देव्या देवेषु भवौ भिसजा चिकित्सकौ ईदृशावश्विनाश्विनौ नोऽस्माकं शं सुखं रोगाणां शमनं वा करतः। कुरुतां । इतोऽस्मत्तो
+> रपः पापं युयुयातां । पृथक्कुर्यातां । स्त्रिधः शत्रूंश्चापगमयतां ॥
+
+##### Gist of the bhāṣya
+
+And those two well-known divine ones, born among the gods, the physicians, such Aśvins, bring us happiness (शं (*śaṃ*)), or the quieting of diseases. May they separate sin (रपः (*rapaḥ*)) from us, and drive away the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- त्या (*tyā*)—the well-known
+- दैन्व्या (*dainvyā*)—born among the gods
+- भिषजा (*bhiṣajā*)—physicians of the gods
+- अश्विना (*aśvinā*)—the Aśvin deities
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—happiness that removes disease
+- करतः (*karataḥ*)—they bring about
+- इतः (*itaḥ*)—from us
+- रपः (*rapaḥ*)—sin
+- युयुयातां (*yuyuyātāṃ*)—let them separate
+- स्रिधः (*sridhaḥ*)—harassing enemies
+- अप (*apa*)—let them drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Aśvin deities, born among the gods and physicians of the gods, bring us happiness that removes disease. May they separate sin from us, and drive far away our harassing enemies.
+
+##### English translation
+May the two divine physicians, the Aswins, grant us health: may they drive away from hence iniquity : (may they drive) away our foes.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शमग्निरग्निभिः करच्छं नस्तपतु सूर्यः ।  
+> शं वातो वात्वरसा अप स्रिधः ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 764. pp. 759-764 (batch API)
+**Progress note:** Done through printed p. 770. pp. 765-770 (batch API)
