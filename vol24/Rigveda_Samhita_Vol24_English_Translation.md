@@ -16453,6 +16453,334 @@ They two, Indra and Agni. are present in the midst of battles : do you two, lead
 > ययो॒र्विश्व॑मि॒दं जग॑दि॒यं द्यौः पृ॑थि॒वी म॒ह्यु१॒॑गपस्थे॑  
 > बिभृ॒थो वसु॒ नभं॑तामन्य॒के स॑मे ॥ ४ ॥
 
+### Printed p. 364
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अर्च । नभाकवत् । इंद्राग्नी इति । यजसा । गिरा ।  
+> ययोः । विश्वं । इदं । जगत् । इयं । द्यौः । पृथिवी । मही । उपस्थे । बिभृथः ।  
+> वसु । नभंतां । अन्यके । समे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नाभाक नभाकवदिंद्राग्नी यजसा यागेन गिरा स्तुत्या चाभ्यर्च ।
+> अभिपूजय ! ययोरिंद्राग्नोर्विस्त्वं सर्वमिदं जगत्तिष्ठति । ययोश्चोपस्थ
+> इयं दौर्मही महती पृथिवी च द्यावापृधिव्यावुभे वसु धनं बिभृतः धारयतः।
+> सिद्धमन्यत् ।
+
+##### Gist of the bhāṣya
+
+O Nābhāka, worship Indra and Agni as Nābhāka did, with sacrifice and with praise. On those two, Indra and Agni, this whole world stands; and in the lap of those two, heaven and the great earth, both of them, bear wealth. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नभाकवत् (*nabhākavat*)—(O Nābhāka) as Nābhāka worshipped
+- ययोः (*yayoḥ*)—on the support of which Indra and Agni
+- विश्वं (*viśvaṃ*)—all
+- इदं जगत् (*idaṃ jagat*)—this whole world stands
+- उपस्थे (*upasthe*)—on the lap of which Indra and Agni
+- इयं द्यौः (*iyaṃ dyauḥ*)—this heaven
+- मही (*mahī*)—the great
+- पृथिवी (*pṛthivī*)—earth
+- वसु (*vasu*)—wealth
+- बिभृतः (*bibhṛtaḥ*)—cause to be borne, such as they are
+- इंद्राग्नी (*iṃdrāgnī*)—Indra and Agni
+- यजसा (*yajasā*)—with sacrifice
+- गिरा (*girā*)—and with praise
+- अभ्यर्चॆ (*abhyarcè*)—worship
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Nābhāka, on the support of which Indra and Agni this whole world stands, on the lap of which Indra and Agni this heaven and the great earth are made to bear wealth, such are those whom you are to worship. May all our enemies perish at the same time. **NOTE**
+
+##### English translation
+Worship, like Nabhaka, Indra and Agni with sacrifice and praise, of whom is this universe, upon whose lap this heaven and the spacious earth deposit their treasure : may all our enemies perish.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ब्रह्मा॑णि नभाक॒वदिं॑द्रा॒ग्नि भ्या॑मिरज्यत ।  
+> या स॒प्तबु॑ध्नमर्ण॒वं जि॒ह्मबा॑रमपोर्णु॒त इंद्र॒ ईशा॑न॒  
+> ओज॑सा॒ नभं॑तामन्य॒के स॑मे ॥ ५ ॥
+
+### Printed p. 365
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ब्रह्माणि । नभाक्यवत् । इंद्राग्निभ्यां । इरज्यत ।  
+> या । सप्तबुध्वं । अर्णवं । जिह्मजारं । अपूर्णुतः । इंद्रः । ईशानः । ओजसा ।  
+> नभंतां । अन्यके ! समे ॥ ५ :
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्माणि स्तोत्राणींद्राग्निभ्यां नभाकवत्प्रेरज्यत । नाभाकः प्रेरयते । या
+> याविंद्राग्नी सप्तबुद्धं सप्तमूलं जिह्मबारं पिहितद्वारमर्णवमपोर्णुतः
+> तेजोभिराच्छादयतः तयोर्मध्य ओजसा बलेनेंद्र ईशान ईश्वरो भवति ।
+> सिद्दमन्यत् ।
+
+##### Gist of the bhāṣya
+
+Praises are sent forth to Indra and Agni as Nābhāka sends them. Those two, Indra and Agni, who cover with their splendours the seven-rooted ocean whose door is closed: among them, by his might, Indra is the lord. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the Indra and Agni who
+- सप्तबुध्नं (*saptabudhnaṃ*)—having roots seven in number
+- जिह्मजारं (*jihmajāraṃ*)—and having a closed door
+- अर्णवं (*arṇavaṃ*)—the ocean
+- अपोर्णुत (*aporṇuta*)—cover with their splendours
+- ओजसा (*ojasā*)—and (among whom) by his own valour
+- इंद्रः (*iṃdraḥ*)—Indra
+- ईशान (*īśāna*)—is the lord, such
+- इंद्राग्निभ्यां (*iṃdrāgnibhyāṃ*)—to Indra and Agni
+- ब्रह्माणि (*brahmāṇi*)—praises
+- नभाकवत् (*nabhākavat*)—as Nābhāka offered
+- प्र इरज्यत (*pra irajyata*)—offer
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+Offer praises, as Nābhāka offered them, to Indra and Agni, who cover with their splendours the ocean that has roots seven in number and a closed door, and among whom Indra is lord by his own valour. May all our enemies perish at the same time.
+
+##### English translation
+Address like Nabhaka your praises to Indra and Agni, who overspread (with their lustre) the seven-rooted ocean whose gates are hidden, and of whom Indra by his might is the lord : may all our enemies perish.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपि॑ वृश्च पुराण॒वद्वृ॒तते॑रिव गुष्टि॒तमोजो॑ दा॒सस्य॑ दंभय।  
+> व॒यं तद॑स्य॒ संभृ॑तं॒ वस्वींद्रे॑ण॒ वि भ॑जेमहि॒ नभं॑तामन्य॒के  ॑
+> समे ॥ ६ ॥
+
+### Printed p. 366
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपि । वृश्च । पुराणवत् । व्रततेऽइव । गुष्टितं । ओजः । दासस्य । दंभय ।  
+> वयं । तत् । अस्य । संभृतं । वसु । इंद्रेण । वि । भजेमहि । नभंतां । अन्यके ।  
+> समे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपि च हे इंद्र पुराणवत्पत्नो यथा व्रततेरिव यथा वल्ल्या गुष्टितं
+> निर्गतां शाखां वृश्चति तथा शत्रोणां वृश्च । छेदय । तदेवाह । दासस्य दासनामकस्य शत्रोरोजो बलं दंभय । नाशय । अथ परोक्षस्तुतिः । वयं नाभाका अस्य
+> दासस्य संभृतं वस्वींद्रेण हेतुना वि भजेमहि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, as an old (sickle) cuts the branch that has gone out from a creeper, so cut off the shoots of the enemies, that is, cut them off; he says the same: destroy the might of the enemy named Dāsa. Then an indirect praise: we, the Nābhākas, through Indra as the cause, would share the wealth gathered by this Dāsa. The rest is established. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- व्रततेरिव (*vratateriva*)—from the creeper
+- गुष्टितं (*guṣṭitaṃ*)—the excess branch that has gone out
+- पुराणवत् (*purāṇavat*)—as an old sickle cuts
+- वृश्च (*vṛśca*)—cut off the shoots of the enemies
+- दासस्य (*dāsasya*)—of the Asura
+- ओजः (*ojaḥ*)—the valour
+- दंभय (*daṃbhaya*)—destroy
+- वयं (*vayaṃ*)—we, the Nābhākas
+- अस्य (*asya*)—by this Asura
+- संभृतं (*saṃbhṛtaṃ*)—gathered
+- तत् वसु (*tat vasu*)—that wealth
+- इंद्रेण (*iṃdreṇa*)—with the help of Indra
+- वि भजेमहि (*vi bhajemahi*)—may we enjoy
+- अन्यके (*anyake*)—our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as an old sickle cuts the excess branch that has come out from a creeper, cut off the shoots of the enemies. Destroy the valour of the Asura. May we, the Nābhākas, enjoy with the help of Indra the wealth that was gathered by this Asura. May our enemies perish at the same time.
+
+##### English translation
+Cut off (the foe), Indra, as an old (pruner) the protruding (branch) of a creeper; humble the strength of the Dasa; may we divide his accumulated treasure (despoiled) by Indra: may all our enemies perish.
+
+### Printed p. 367
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्रा॒ग्नी जना॑ इ॒मे वि॒ह्वयं॑ते॒ तना॑ गि॒रा ।  
+> अ॒स्माके॑भि॒र्नृभि॑र्व॒यं सा॑स॒ह्याम॑ पृतन्य॒तो व॑नु॒याम॑  
+> वनुष्य॒तो नभं॑तामन्य॒के स॑मे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्राग्नी इति । जनाः । इमे । विह्वयंते । तना । गिरा ।  
+> अत्माकेभिः । नृपतिः । वयं । ससह्याम । पृतन्यतः । वनुयाम । वनुष्यतः ।  
+> नभंतां । अन्यके । समे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्य इमे जनास्तना धनेन गिरा स्तुत्या चेंद्राग्नी विह्वयंते विशेषेण
+> ह्वयंति तेषु मध्यॆ वयं नाभाकाः पृतन्यतः पृतनामिच्छंतोऽस्माकेभिरस्माकीनैर्न्रभिर्मनुष्यैः सहस्याम । शत्रुनभिभवेम । वनुष्यतः । स्तुतिमिच्छंतः
+> शत्रुन्वनुयाम च । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+When these people call upon Indra and Agni in a special manner with wealth and with praise, then among them we, the Nābhākas, desiring battle, may overcome with our own men the enemies; desiring praise, may we also vanquish the enemies. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—those who
+- इमे जनाः (*ime janāḥ*)—these sacrificers
+- तना (*tanā*)—with wealth
+- गिरा (*girā*)—and with praise
+- इंद्राग्नी (*iṃdrāgnī*)—Indra and Agni
+- विद्वयंते (*vidvayaṃte*)—pray to in a special manner (among them)
+- वयं (*vayaṃ*)—we, the Nābhākas
+- पृतन्यतः (*pṛtanyataḥ*)—confronting the enemies
+- अस्माकेभिः (*asmākebhiḥ*)—with our own
+- नृभिः (*nṛbhiḥ*)—heroic men
+- ससह्याम (*sasahyāma*)—let us overcome the enemies
+- वनुष्यतः (*vanuṣyataḥ*)—those who love praise
+- वनुयाम (*vanuyāma*)—let us praise
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+Among those sacrificers who pray to Indra and Agni in a special manner with wealth and with praise, we, the Nābhākas, confronting the enemies, let us overcome the enemies with our own heroic men. Let us praise those who love praise. May all our enemies perish at the same time.
+
+### Printed p. 368
+
+##### English translation
+Inasmuch as these people honour Indra and Agni with gifts and with praises, so may we, defying hosts, overcome (our foes) with our warriors ; let us praise those seeking praise: may all our enemies perish.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या नु श्वे॒ताव॒वो दि॒व उ॒च्चरा॑त॒ उप॒ द्युभिः॑ ।  
+> इं॒द्रा॒ग्न्योरनु॑ व्र॒तमुहा॑ना यंति॒ सिंध॑वो॒ यान्तिं॑  
+> बं॒धादमुं॑चतां॒ नभं॑तामन्य॒के स॑मे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । नु । श्वेत् । अवः । दिवः । उत्चरातः । उप । द्युभिः ।  
+> इंद्राग्नोः । अनु । व्रतं । उहानाः । यंति । सिंधवः । यान् । सीं । बंधात् ।  
+> आमुंचतां । नभंतां । अन्यके । समे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या नु यावेवेंद्राग्नी श्वेतौ श्वेतवर्णौ । सत्त्वगुणोपेतावित्यर्थः ।
+> अवोऽधस्ताद्दुभिर्दिप्तिभिर्दिव उपोच्चरातः उच्चरतः तयोरेवेंद्राग्नोरुहाना हनिर्वहंतो यजमाना व्रतं कर्मानु यंति । अपि सीमिमाविंद्राग्नी
+> यान्प्रसिद्धान् सिंधवः सिंधून् बंधाद्बंधनादमुंचतां । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Those two, Indra and Agni, who are white, that is, endowed with the quality of sattva, rise from below to heaven with their splendours; for those two, the sacrificers who bear the oblation follow the rite, that is, the ritual act. Further, this Indra and Agni have released from bondage those well-known rivers. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या नु (*yā nu*)—the Indra and Agni who
+- श्वेता (*śvetā*)—being white in colour
+- अवः (*avaḥ*)—appearing from the lower part
+- द्युभिः (*dyubhiḥ*)—with their splendours
+- दिवः उप (*divaḥ upa*)—towards the heavenly world
+- उच्चरातः (*uccarātaḥ*)—fly up, such
+- इंद्राग्न्योः (*iṃdrāgnyoḥ*)—to Indra and Agni
+- उहानाः (*uhānāḥ*)—the sacrificers who bear the oblation
+- व्रतं (*vrataṃ*)—the rite
+- अनु यंति (*anu yaṃti*)—perform
+- सीं (*sīṃ*)—these same Indra and Agni
+- यान् (*yān*)—the well-known
+- सिंधवः (*siṃdhavaḥ*)—rivers
+- बंधात् (*baṃdhāt*)—from the obstruction
+- अमुंचतां (*amuṃcatāṃ*)—release
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+### Printed p. 369
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers who bear the oblation perform the rite for those Indra and Agni who, being white in colour, appear from the lower part and fly up with their splendours towards the heavenly world. These same Indra and Agni release the well-known rivers from the obstruction. May our enemies perish at the same time.
+
+##### English translation
+Offering oblations, (the worshippers) approach to the worship of Indra and Agni, who are of a white complexion, and rise from below with bright rays to heaven: they verily have liberated the waters from bondage: may all our enemies perish.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒र्विष्ट॑ इं॒द्रोप॑मातयः पू॒र्विरु॒त प्रश॑स्तयः॒ सूनो॑  
+> हि॒न्वस्य॑ हरिवः ।  
+> वस्वो॑ वी॒रस्या॒पृचो॒ या नु साधं॑त नो॒ धियो॒ नभं॑तामन्य॒के स॑मे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्विः । ते । इंद्र । उपमातयः । पूर्विः । उत । प्रशस्तयः । सूनो इति ।  
+> हिन्वस्य । हरिवः ।  
+> वस्वः । वीरस्य । आपृचः । याः । नु । साधंत । नः । धियः । नभंतां । अन्यके । समे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिवो वज्रिन् सूनो प्रेरयितरिंद्र हिन्वस्य प्रीणयितुर्वस्वो दीपकस्य
+> वीरस्सापृचो धनान्युपयच्छतस्ते तव ता उपमातय उपमानानि पूर्विर्बहूनि ।
+> उतापि च प्रशस्तयः पूर्विः । या नो धियः प्रज्ञां साधंत असाधयन् ।
+> सिद्धमन्यत् ॥
+> XXIV 24
+
+##### Gist of the bhāṣya
+
+O Indra, lord of bay horses, wielder of the thunderbolt, instigator: you who please, who shine, the hero, who bestow wealth, those many comparisons of you, and likewise the many praises, are such as have accomplished our understanding, that is, our wisdom. The rest is established. **NOTE**
+
+### Printed p. 370
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—wielder of the thunderbolt
+- सूनो (*sūno*)—and instigator
+- इंद्र (*iṃdra*)—O Indra
+- हिन्वस्य (*hinvasya*)—who do what pleases
+- वस्वः (*vasvaḥ*)—the giver of wealth
+- वीरस्य (*vīrasya*)—the hero
+- आपृचः (*āpṛcaḥ*)—and the generous giver
+- ते (*te*)—given by you
+- याः नु (*yāḥ nu*)—which wealth and the like
+- नः धियः (*naḥ dhiyaḥ*)—our understanding
+- साधंत (*sādhaṃta*)—make well refined, such
+- उपमातयः (*upamātayaḥ*)—exemplary gifts
+- पूर्विः (*pūrviḥ*)—are abundant
+- उत (*uta*)—and
+- प्रशस्तयः (*praśastayaḥ*)—excellences of quality
+- पूर्विः (*pūrviḥ*)—are abundant
+- अन्यके (*anyake*)—all our enemies
+- समे (*same*)—at the same time
+- नभंतां (*nabhaṃtāṃ*)—let them perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt and instigator, from you, who do what pleases, the giver of wealth, the hero and the generous giver, those exemplary gifts, such wealth and the like as make our understanding well refined, are abundant. The excellences of quality too are abundant. May all our enemies perish at the same time.
+
+##### English translation
+Indra, wielder of the thunderbolt, instigator (of acts), may the numerous merits, the many excellences of you, who are the bestower of affluence and of male offspring, perfect our understandings; may all our enemies perish.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं शि॑शीता सुवृ॒क्तिभि॑स्तो॒षं सत्वा॑नमृ॒ग्मियं॑ ।  
+> उ॒तो नु चि॒द्य ओज॑सा॒ शुष्ण॑स्यां॒डानि॒ भेद॑ति॒ जेष॒त्स॑र्वतीर॒पो नभं॑तामन्य॒के स॑मे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । शिशीत । सुवृक्तिभिः । त्वेषं । सत्वानं । ऋग्मियं ।  
+> उतो इति । नु । चित् । यः । ओजसा । शुष्णस्य । अंडानि । भेदति । जेषत् । स्ववतीः।  
+> अपः । नभंतां । अन्यके । समे ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 363. Rk 9 (end) to Sukta 40 Rk 4 (pp. 357-363)
+**Progress note:** Done through printed p. 370. Sukta 40 Rk 4-10 (pp. 364-370)
