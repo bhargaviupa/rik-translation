@@ -23234,6 +23234,279 @@ O Indra, "of the great, to you" is the sense; the plural is used by interchange 
 - गिरा (*girā*)—with the word of praise
 - गाये (*gāye*)—I praise with song
 
+### Printed p. 508
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I exceedingly desire the coming of you, the great one. Towards Indra, the giver of what is desired, for his excellent coming and also his going to the sacrifice, we give praise with sacrificial rites and with praises. O Indra, you, the friend of the Maruts, are worthy of worship by all men. I praise you with homage, with words of praise and in the form of song.
+
+##### English translation
+I desire the coming of you, the mighty one; we give praise with oblations and hymns to the showerer who hastens readily (to the sacrifice); associated with the Maruts, you are worshipped of all men; I glorify you with adoration and praise.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये पा॒तयं॑ते॒ अज्म॑भिर्गिरी॒णां स्नुभि॑रेषां ।  
+> य॒ज्ञं म॑हि॒ष्वणी॑नां सु॒म्मं तु॑वि॒ष्वणी॑नां॒ प्राध्व॒रे ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । पातॆयंते । अज्मभिः । गिरीणां । सुभिः । एषां ।  
+> यजं । महिस्वनीनां । सुम्मं । तुविस्वनीनां । प्र । अध्वरे । १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो गिरीणां मेघानां स्नुभिः प्रस्यवद्भिरज्मभिर्बलैर्बलकरैरुदकैः
+> सह पातॆयंते पतंति गच्छंति एषां मरुतां महिष्पणीनां प्रभूतध्वनीनां यज्ञं
+> कुर्म इति शेषः । कृत्वा च तुविष्टणीनां बहुध्वनीनां सुम्मं सुखं तैः कृतमध्वरे
+> यज्ञे प्र प्राप्नुयाम । अथवा । चतुर्थ्यर्थ षष्ठि । प्रभूतस्वनेभ्यः सुम्ममुक्तलक्षणं हविः प्र प्राप्नुयामाध्वरे यज्ञे ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts who, together with the strong waters, the waters that give strength, flowing from the peaks of the mountains, that is, the clouds, fall and move along, of these Maruts of abundant sound we perform the sacrifice (these words are to be supplied). Having done so, may we obtain in the sacrifice the happiness made by those of many sounds. Or else, the sixth case stands for the fourth: to those of abundant sound may we offer in the sacrifice the oblation that has the character of the happiness spoken of.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts
+- गिरीणां (*girīṇāṃ*)—of the clouds
+- स्नुभिः (*snubhiḥ*)—situated in the elevated regions
+- अज्मभिः (*ajmabhiḥ*)—together with the waters that give strength
+- पातयंते (*pātayaṃte*)—move about
+
+### Printed p. 509
+
+- एषां (*eṣāṃ*)—of these **NOTE**
+- महिष्टणीनां (*mahiṣṭaṇīnāṃ*)—towards the Maruts of abundant sounds
+- यज्ञं (*yajñaṃ*)—we perform the sacrifice
+- तुविष्टणीनां (*tuviṣṭaṇīnāṃ*)—given by those Maruts of abundant sounds
+- सुम्मं (*summaṃ*)—happiness
+- अध्वरे (*adhvare*)—in the sacrifice
+- प्र (*pra*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+Towards those Maruts of abundant sounds, who move about together with the waters that are situated in the elevated regions of the clouds and give strength, we perform the sacrifice. May we obtain in the sacrifice the happiness given by those Maruts of abundant sounds.
+
+##### English translation
+(We present) the oblation to those loud-sounding (Maruts) who rush along with the streaming trains of the clouds; may we obtain in the sacrifice the happiness which those deep-roarers bestow.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒भं॒गं दु॑र्मती॒नामिंद्र॑ शवि॒ष्ठा भ॑र ।  
+> र॒यिम॒स्मभ्यं॒ युज्यं॑ चोदयन्मत्ते॒ ज्येष्ठं॑ चोदयन्मत्ते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रभंगं । दुःमतीनां । इंद्र । शविष्ठ । आ । भर ।  
+> रयिं । अस्मभ्यं । युज्यं । चोदयत् ऽमते । ज्येष्ठं । चोदयत् ऽमते ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दुर्मतीनां दुष्टमनस्कानां वृत्रादीनां प्रभंगं प्रकर्षेण भंजकं त्वां
+> याचामह इति शेषः । हे इंद्र शविष्ठातिशयेन बलवन् स्तुतस्त्वमस्सभ्यं रयिं
+> धनं युज्यं योग्यमस्माकमुचितं धनमा भर । आहर । हे चोदयन्नते ।
+> चोदयंती धनं प्रेरयंती मतिर्यस्य स तथोक्तः । हे तादृश देव । किंच
+> हे चोदयन्नत उक्तार्थ ज्येष्ठं धनमा भर ॥
+
+##### Gist of the bhāṣya
+
+We beg you **NOTE**, the crusher, the thorough breaker of the ill-minded ones such as Vṛtra (the words "we beg" are to be supplied). O Indra, most mighty, being praised, bring us suitable wealth, wealth fitting for us. O you whose mind impels wealth, the one so called, O such god. Moreover, O you whose mind impels, in the sense already said, bring the best wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दुर्मतीनां (*durmatīnāṃ*)—of the enemies of evil mind
+- प्रभंगं (*prabhaṃgaṃ*)—I beg Indra, the destroyer
+- शविष्ठ (*śaviṣṭha*)—possessing exceedingly great power
+- इंद्र (*iṃdra*)—O Indra
+
+### Printed p. 510
+
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- युज्यं (*yujyaṃ*)—suitable
+- रयिं (*rayiṃ*)—wealth
+- आ भर (*ā bhara*)—bring and provide
+- चोदयन्मते (*codayanmate*)—O Indra, whose mind impels wealth
+- ज्येष्ठं (*jyeṣṭhaṃ*)—provide the best wealth
+- चोदयन्मते (*codayanmate*)—O Indra, whose mind does good to us (provide us wealth)
+
+##### भावार्थ (Bhāvārtha)
+
+I beg Indra, the destroyer of the enemies of evil mind. O Indra, possessing exceedingly great power, bring us suitable wealth. O Indra, whose mind impels wealth and does good to us, provide us the most excellent wealth.
+
+##### English translation
+(We worship) the crusher of the malevolent; most powerful Indra, bring to us suitable wealth, O inspirer,—(bring) most excellent (wealth), O inspirer.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सनि॑तः॒ सुस॑नित॒रुग्र॒ चित्र॒ चेति॑ष्ठ॒ सूनृ॑त ।  
+> प्रा॒सहा॑ सम्रा॒ट् सहु॑रिं॒ सहं॑तं भु॒ज्युं वाजे॑षु॒ पूर्व्यं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सवितरिति । सुऽनितः । उग्र । चित्र । चेतिष्ठ । सूनृत ।  
+> प्रऽसहा । संराट् । सदुरिं । सहंतं । भुज्युं । वाजेषु । पूर्व्यं ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सनितः संभक्तर्दातर्वोग्नोद्गूर्णबल चित्र चायनीय चेतिष्ठात्यंतं
+> चेतयितः सूनृत सुसत्य प्रासहा प्रसह्य हे सम्राट् सर्वस्य स्वामिन् सम्यग्राजमान
+> वा त्वं सहुरिं सहनशीलं भुज्युं भोजयितारं पूर्वं प्रवृद्धं । मुख्यमित्यर्थः ।
+> ईदृशं धनं वाजेषु संग्रामेष्वाभरेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O giver, one who shares **NOTE**; O wonderful one, worthy of honour; O most awakening one, who awakens exceedingly; O truthful one, of good truth; overpowering by force; O universal ruler, lord of all, shining well: you bring in battles, that is, in conflicts, such wealth, enduring, making enjoyment, and primary, that is, chief (the word "bring" is to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गनितः (*ganitaḥ*)—giver of wealth
+- सुसनितः (*susanitaḥ*)—the most excellent giver
+- उग्र (*ugra*)—possessing exceedingly great strength
+- चित्र (*citra*)—of attractive nature
+- चेतिष्ठ (*cetiṣṭha*)—giver of consciousness
+- सूनृत (*sūnṛta*)—impeller of truth
+- प्रासहा (*prāsahā*)—able to check the power of enemies
+- सम्राट् (*samrāṭ*)—universal sovereign, such, O Indra
+
+### Printed p. 511
+
+- सदुरिं (*saduriṃ*)—that which is enduring
+- सहंतं (*sahaṃtaṃ*)—that which is able to hold back enemies
+- भुज्यं (*bhujyaṃ*)—that which is suitable for enjoyment
+- पूर्व्यं (*pūrvyaṃ*)—that which is most chief, such wealth
+- वाजेषु (*vājeṣu*)—in battles provide us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of wealth, most excellent giver, giver of consciousness, impeller of truth, able to check the power of enemies, provide us in battles wealth that is enduring, able to hold back enemies, suitable for enjoyment and most chief.
+
+##### English translation
+O bountiful, most bountiful, mighty, wonderful, best giver of knowledge and supremeley truthful, by your prowess, universal ruler, (bring to us) in conflicts ample wealth, overpowering those who attack us and causing enjoyment.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ स ए॑तु॒ य ईव॒दा अदे॑वः पू॒र्तमा॑द॒दे ।  
+> यथा॑ चि॒द्वशो॑ अ॒श्वः पृ॑थु॒श्रव॑सि कानी॒ते॒३॒॑३ स्या व्युष्या॑द॒दे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सः । एतु । यः । ईवत् । आ । अदेवः । पूर्तं । आददे ।  
+> यथा । चित् । वशः । अश्वैः । पृथुश्रवसि । कानीते । अस्याः । विउषि । आददे ॥२१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र शौनकः । वशायाश्वायु यत्पादात्मानीतस्तु पृथुश्रवाः । तदत्र स्तूयते
+> दानमा स एत्वेवमादिभिः । बृ. ६-८८७ ॥ एतु आगच्छतु स योऽदेवो देवादन्यो
+> मनुष्यो वश ईवद्गमनवद्गवादिलक्षणं पूर्तं पूर्णवाददे आदत्ते । स्वीकृतवानित्यर्थः । देवश्चेन्मयाप्यागंतुमर्हति । आतः प्रकाशेनैवागच्छत्त्यर्थः ।
+> कथमस्य धनावाप्तिप्रसंग आगमनप्रसंगश्चेति तदुच्यते । यथा चित् । चिदिति पूरणः ।
+> येन कारणेन यस्माद्वा वश एतत्संज्ञकोऽश्वोऽश्वपुत्रः पृथुश्रवेस्यॆ(तन्नामके
+> राज्ञि कावीते कनिष्ठपुत्रे कन्यायाः पुत्रेऽस्या उषसो व्युषि व्युष्टावाददे आदत्ते
+> तेन कारणेन तस्माद्वा कारणादायातिति । एवमद्यो बंधुवर्गॊ ना ब्रूते ॥
+
+##### Gist of the bhāṣya
+
+Here Śaunaka says: वशायाश्वायु यत्पादात्मानीतस्तु पृथुश्रवाः । तदत्र स्तूयते दानमा स एत्वेवमादिभिः । (*vaśāyāśvāyu yatpādātmānītastu pṛthuśravāḥ | tadatra stūyate dānamā sa etvevamādibhiḥ |*) (Bṛ. 6-887) **GLOSS** **NOTE**. Let him come, he who, being a non-god, that is, a man other than a god, has accepted the complete gift, having the character of cows and the like, of the one who goes (to it); that is, has received it. If he were a god, he might come to me too; therefore he would come with brilliance **NOTE**. How does he come to have the occasion for obtaining wealth and for coming? That is told: the word for "as" is a filler. Because Vaśa, so named, the son of Aśva, receives at the dawn of this Uṣas, from King Pṛthuśravas of that name, the youngest son, the son of a maiden, for that reason, or therefore, let him come. Thus the group of relatives speaks **NOTE**.
+
+### Printed p. 512
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदेवः (*adevaḥ*)—though only a human, not belonging to the company of the gods
+- यः (*yaḥ*)—which Vaśa
+- ईवत् (*īvat*)—of the form of cows and the like
+- पूर्तं (*pūrtaṃ*)—and complete, this gift
+- आददे (*ādade*)—receives
+- सः (*saḥ*)—that same Vaśa
+- एतु (*etu*)—let him come to receive this gift
+- अस्याः व्युषि (*asyāḥ vyuṣi*)—at the very time of the appearance of this Uṣas
+- कानीते (*kānīte*)—the son of Kanīta
+- पृथुश्रवसि (*pṛthuśravasi*)—by the king named Pṛthuśravas
+- अश्वः (*aśvaḥ*)—the son of Aśva
+- वशः (*vaśaḥ*)—Vaśa
+- यथा चित् (*yathā cit*)—in what manner
+- आददे (*ādade*)—he receives the gift, in that manner let him come here
+
+##### भावार्थ (Bhāvārtha)
+
+Let that Vaśa, who, though only a human and not belonging to the company of the gods, is worthy to receive this complete gift, of the form of cows and the like, come to receive this gift. Let him come here in the same manner as Vaśa, the son of Aśva, receives the gift from the king named Pṛthuśravas, the son of Kanīta, at the very time of the appearance of this Uṣas.
+
+##### English translation
+Let him draw near, who though not a god, would receive this complete living gift,—since Vasha, the son of Ashwa, receives it at the dawn of this (morning) at the hands of Prithushravas, the son of Kanita.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ष॒ष्टिं स॒हस्राश्व॑स्या॒युता॑सन॒मुष्टा॑नां विंश॒तिं श॒ता ।  
+> दश॒ श्यावी॑नां श॒ता दश॒ त्रै॑रुषीणां॒ दश॒ गवां॑ स॒हस्रा॑ ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> षष्टिं । सहस्रा । अश्वस्य । आयुता । असनं । उष्णानां । विंशतिं । शता ।  
+> दश । श्यावीनां । शता । दश । त्रिअरुषीणां । दश । गवां । सहस्रा ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स वश अगत्य ब्रूते । अश्वस्याश्वसंबंधिनः षष्टिं सहस्रा सहस्राण्ययुतायुतानि चासनं । अभजं । उष्णाणां विंशतिं शता शतानि चासनं । श्यावीनां श्याववर्णानां वडवानां दश शता शतानि चासनं । त्रैरुषीणां त्रीण्यारोचमानानि शुभ्राणि
+> ककुप्पृष्ठपार्श्वादिस्थानानि यासां तादृशीनां गवां दश सहस्रा सहस्राण्यभजं ॥
+
+##### Gist of the bhāṣya
+
+That Vaśa, having come, says: I obtained sixty thousand, and ten thousands, of horses; I obtained twenty hundreds of the उष्णाणां (*uṣṇāṇāṃ*) **NOTE**; I obtained ten hundreds of brown mares; and I obtained ten thousands of cows that have three shining white places, such as the hump, the back and the sides.
+
+### Printed p. 513
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- षष्टिं सहस्रा (*ṣaṣṭiṃ sahasrā*)—numbering sixty thousand
+- आयुता (*āyutā*)—numbering ten thousand, such
+- अश्वस्य (*aśvasya*)—herds of horses
+- आसनं (*āsanaṃ*)—I obtained
+- विंशतिं शता (*viṃśatiṃ śatā*)—numbering twenty thousand
+- उष्णाणां (*uṣṇāṇāṃ*)—herds of camels also I obtained
+- दश शता (*daśa śatā*)—numbering a thousand
+- श्यावीनां (*śyāvīnāṃ*)—brown horses also I obtained
+- दश दश सहस्रा (*daśa daśa sahasrā*)—by the number of ten times ten thousand
+- त्रैरुषीणां (*trairuṣīṇāṃ*)—having three kinds of excellent marks
+- गवां (*gavāṃ*)—a herd of cows I obtained
+
+##### भावार्थ (Bhāvārtha)
+
+I obtained herds of horses numbering sixty thousand and numbering ten thousand. I obtained herds of camels numbering twenty thousand. I obtained brown horses numbering a thousand. I obtained a herd of cows, ten times ten thousand in number, endowed with three kinds of white and excellent marks.
+
+##### English translation
+" I have received sixty thousand horses, and tens of thousands;—a score of hundreds of camels,—a thousand brown mares,—and ten times ten thousand cows with three red patches.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दश॑ श्या॒वा ऋ॒धद्र॑यो वी॒तवा॑रास आ॒शवः॑ ।  
+> म॒थ्रा ने॒मिं नि वा॑वृतुः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दश । श्यावाः । यधत्करयः । वीतवारासः । आशवः ।  
+> मथ्राः । नेमिं । नि । ववृतुः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दश दशसंख्याकाः श्यावाः श्याववर्णा आशवोऽश्वा नेमिं रथनेमिं नि वावृतुः।
+> निवर्तयंति । रथं वहंतीत्यर्थः । ईदृशास्त युद्धद्रयः प्रवृद्धवेगा वीतवारासः
+> क्रांतबलाः प्राप्तबला वाशवो मथ्रा मथनशीलाः ॥
+> XXIV 33
+
+##### Gist of the bhāṣya
+
+Ten brown horses, of brown colour, turn the felly, that is, the felly of the chariot; that is to say, they draw the chariot. Such horses are of increased speed **NOTE**, have obtained strength, have overcome by strength, or are swift; they are of churning nature.
+
 ---
 
-**Progress note:** Done through printed p. 507. Sūkta 46 Ṛk 11 end, Ṛk 12-17 (pp. 502-507)
+**Progress note:** Done through printed p. 513. Sūkta 46 Ṛk 17 end, Ṛk 18-23 (pp. 508-513)
