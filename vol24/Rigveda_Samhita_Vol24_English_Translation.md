@@ -19940,6 +19940,338 @@ This Agni, the best among all the gods, standing in an exalted position in the h
 ##### English translation
 Agni, the head (of the gods), the summit of heaven,—he the lord of the earth,—gladdens the seed of the waters.
 
+### Printed p. 439
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॑ग्ने॒ शुच॑य॒स्तव॑ शु॒क्रा भ्राजं॑त ईरते ।  
+> तव॒ ज्योतीं॑ष्य॒र्चयः॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् ! अग्ने । शुचयः । तव । शुक्राः । भ्राजंतः । ईरते ।  
+> तव । ज्योतींषि । अर्चयः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तव शुचयो निर्मलाः शुक्राः शुक्लवर्णा भ्राजंतो दीप्यमाना
+> अर्चयः प्रभास्तव ज्योतिंषि तेजांस्युदीरते । प्रेरयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, your pure, white, shining flames, which are your rays, send forth your splendours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your
+- शुचयः (*śucayaḥ*)—pure
+- शुक्राः (*śukrāḥ*)—of bright colour
+- भ्राजंतः (*bhrājaṃtaḥ*)—shining
+- अर्चयः (*arcayaḥ*)—rays
+- ज्योतींषि (*jyotīṃṣi*)—splendours
+- उदीरते (*udīrate*)—cause to spread out
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your pure, bright and shining rays cause your splendours to spread out.
+
+##### English translation
+Agni, your pure, bright, shining flames send forth your splendours.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईशि॑षे॒ वार्य॑स्य॒ हि दा॒त्रस्या॑ग्ने॒ स्व॑र्पतिः ।  
+> स्तो॒ता स्यां॒ तव॒ शर्म॑णि ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईशिषे । वार्यस्य । हि । दात्रस्य । अग्ने । स्वःपतिः ।  
+> स्तोता । स्यां । तव । शर्मणि ॥ १८ ॥
+
+### Printed p. 440
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स्वर्पतिः स्वर्गस्य स्वामिा त्वं वार्यस्य वरणीयस्य दात्रस्य दातव्यस्य
+> धनस्येशिषे । ईश्वरोऽसि । शर्मणि सुखे निमित्ते तव स्तोता स्यां। भवेयं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, lord of heaven, you have mastery over wealth that is desirable and fit to be given. For the sake of happiness may I be your praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- स्वर्पतिः (*svarpatiḥ*)—you, the lord of heaven
+- वार्यस्य (*vāryasya*)—desired
+- दात्रस्य (*dātrasya*)—fit to be given
+- ईशिषे हि (*īśiṣe hi*)—you are the master
+- शर्मणि (*śarmaṇi*)—for our happiness
+- तव (*tava*)—your
+- स्तोता (*stotā*)—praiser
+- स्यां (*syāṃ*)—I become
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you, the lord of heaven, are master of all wealth that is desired by all and fit to be given. For our happiness I become your praiser.
+
+##### English translation
+Agni, lord of heaven, you preside over (all) that is to be desired or given ; may I be your eulogist for happiness.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाम॑ग्ने मनी॒षिण॒स्त्वां हि॑न्वंति॒ चित्ति॑भिः ।  
+> त्वां व॑र्धंतु नो॒ गिरः॑ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वां । अग्ने । मनीषिणः । त्वां । हिन्वंति । चित्तभिः ।  
+> त्वां । वर्धंतु । नः । गिरः ॥ १९ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां मनीषिणो मनस ईश्वराः स्तोतारः स्तुतिभिः स्तुवंतीति शेषः।
+> किंच त्वामेव चित्तिभिः कर्मभिर्हिन्वंति । प्रीणयंति । नोऽस्माकं गिरः स्तुतयस्त्यामेव वर्धंतु । वर्धयंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, the wise, who are masters of their minds, the praisers, praise you with their hymns (the word "praise" is to be supplied). Moreover they gladden you with their rites. May our praises make you grow.
+
+### Printed p. 441
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वां (*tvāṃ*)—you
+- मनीषिणः (*manīṣiṇaḥ*)—praisers of steadfast resolve
+- चित्तिभिः (*cittibhiḥ*)—with excellent rites
+- हिन्वंति (*hinvaṃti*)—they satisfy
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—praises
+- वर्धंतु (*vardhaṃtu*)—may they make grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, praisers of steadfast resolve praise you. They satisfy you with excellent rites. May our praises make you grow.
+
+##### English translation
+You, Agni, the wise (praise), you they rejoice with (pious) rites ; may our praises invigorate you.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद॑ब्धस्य स्व॒धाव॑तो दू॒तस्य॒ रेभ॑तः॒ सदा॑ ।  
+> अ॒ग्नेः स॒ख्यं वृ॑णीमहे ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदब्बस्य । स्वधावतः । दूतस्य । रेभतः । सदा ।  
+> अग्नेः । सख्यं । वृणीमहे ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अदब्धस्य केनाप्यहिंसितस्य स्वधावतो बलवतो दूतस्य देवानां
+> रेभतो देवान् स्तुवतस्तव सख्यं सदा वयं वृणीमहे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, unharmed by anyone, strong, the messenger of the gods, who praises the gods, we always choose your friendship.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदब्बस्य (*adabbasya*)—of the unharmed
+- स्वधावतः (*svadhāvataḥ*)—of the powerful
+- दूतस्य (*dūtasya*)—of the messenger of the gods
+- रेभतः (*rebhataḥ*)—who praises the gods
+- अग्नेः (*agneḥ*)—of Agni
+- सख्यं (*sakhyaṃ*)—the friendship
+- सदा (*sadā*)—always
+- वृणीमहे (*vṛṇīmahe*)—we desire
+
+##### भावार्थ (Bhāvārtha)
+
+We always desire the friendship of Agni, who is unharmed, powerful, the messenger of the gods, and the praiser of the gods.
+
+### Printed p. 442
+
+##### English translation
+We ever choose the friendship of Agni, the unharmed, the strong, the messenger, the praiser (of the gods).
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निः शुचि॑व्रततमः॒ शुचि॒र्विप्रः॒ शुचिः॑ क॒विः ।  
+> शुची॑ रोचत॒ आहु॑तः ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । शुचिव्रततमः । शुचिः । विप्रः । शुचिः । कविः ।  
+> शुचिः । रोचते । आहुतः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुचिव्रततमोऽतिशयेन शुद्धकर्मा शुचिः शुद्ध एव विप्रो मेधान्वी शुचिः
+> शुद्धः सन्नेव कविः क्रांतकर्मा शुचिरेवाहुतोऽग्नी रोचते । प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Agni, supremely pure in his acts, pure, wise, pure and of far-reaching action, pure indeed, being offered into, shines forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचिव्रततमः (*śucivratatamaḥ*)—whose acts are wholly pure
+- शुचिः (*śuciḥ*)—pure
+- विप्रः (*vipraḥ*)—wise
+- कविः (*kaviḥ*)—of far-reaching action
+- आहुतः (*āhutaḥ*)—one to whom the offering is made
+- अग्निः (*agniḥ*)—Agni
+- रोचते (*rocate*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, whose acts are wholly pure, pure and wise, pure and of far-reaching action, to whom the offering is made in purity, shines forth.
+
+##### English translation
+The pure Agni shines forth when worshipped,—the purest offerer, the pure priest, the pure sage.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वा॑ धी॒तयो॒ मम॒ गिरो॑ वर्धंतु वि॒श्वहा॑ ।  
+> अग्ने॑ स॒ख्यस्य॑ बोधि नः ॥ २२ ॥
+
+### Printed p. 443
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वा । धीतॆयः । मम । गिरः । वर्धंतु । विश्वहा ।  
+> अग्ने । सख्यस्य । बोधि । नः ॥ २२ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे अग्ने त्वा त्वां मम धीतयः कर्माणि गिरः स्तुतयश्च विश्वहा
+> सर्वदा वर्धंतु । वर्धयंतु । नोऽस्माकं सख्यस्य सख्यं सखिकर्म स्तुत्यादिकं
+> बोधि । बुध्यस्व ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: And, O Agni, may my rites and my praises make you grow at all times. Be mindful of the friendly offices, the praises and the like, that are ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- अग्ने (*agne*)—O Agni
+- मम (*mama*)—my
+- धीतयः (*dhītayaḥ*)—rites
+- गिरः (*giraḥ*)—praises
+- त्वा (*tvā*)—you
+- विश्वहा (*viśvahā*)—always
+- वर्धंतु (*vardhaṃtu*)—may they make grow
+- सख्यस्य (*sakhyasya*)—friendship
+- भोधि (*bhodhi*)—know **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may my rites and praises always make you grow. Take note of our friendship.
+
+##### English translation
+May my rites also and my praises ever invigorate you: Agni, take thought of our friendship.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑ग्ने॒ स्याम॒हं त्वं त्वं वा॑ घा॒ स्या अ॒हं ।  
+> सुष्टे॑ स॒त्या इ॒हाशिषः॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अग्ने । स्यां । अहं । त्वं । त्वं । वा । घ । स्याः । अहं ।  
+> स्युः । ते । सत्याः । इह । आशिषः ॥ २३ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यद्यद्यहं त्वं बहुधनः स्यां भवेयं त्वं वा घ त्वं ना खल्वहं
+> दरिद्रः स्तोता स्याः भवेः ततस्तवाशिष आशासनानीहासद्विषये सत्याः सत्यानि स्युः ।
+> भवेयुः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, if I were you, rich in wealth, or if you were truly I, a poor praiser, then the wishes of you, the praiser, would come true in this matter.
+
+### Printed p. 444
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—if by chance
+- अहं (*ahaṃ*)—I
+- त्वं (*tvaṃ*)—you, the rich
+- स्यां (*syāṃ*)—I were
+- वा (*vā*)—or
+- त्सं घ (*tsaṃ gha*)—you indeed **NOTE**
+- स्याः (*syāḥ*)—you were
+- इह (*iha*)—in this matter
+- ते आशिषः (*te āśiṣaḥ*)—all your desires
+- सत्याः (*satyāḥ*)—to be fulfilled
+- स्युः (*syuḥ*)—would surely become
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, if I were in your form and master of wealth, or if you were in the form of me, the poor one, then your desires would surely be fulfilled.
+
+##### English translation
+Agni, if I were you or you were I, your wishes here should come true.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वसु॒र्वसु॑पति॒र्हि क॒मस्य॑ग्ने वि॒भाव॑सुः ।  
+> स्याम॑ ते सुम॒तावसि॑ ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वसुः । वसुपतिः । हि । कं । असि । अग्ने । विभावसुः ।  
+> स्याम । ते । सुमतौ । आपि ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं विभावसुर्दिप्तिधनो वसुपतिर्धनपतिर्वसुर्वासयिता चासि
+> भवसि हि यस्मात् अतो वयमपि ते तव सुमतावनुग्रहबुद्धौ स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Agni, you are the one whose wealth is radiance, the lord of wealth, and the one who gives dwelling. Therefore may we also be in your favourable thought.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विभावसुः (*vibhāvasuḥ*)—whose wealth is radiance
+- वसुपतिः (*vasupatiḥ*)—lord of wealth
+- वसुः (*vasuḥ*)—giver of dwelling
+- आसि (*āsi*)—you are
+- हि (*hi*)—therefore
+- ते (*te*)—your
+- सुमतौ (*sumatau*)—in favourable thought
+- स्याम (*syāma*)—may we be
+
 ---
 
-**Progress note:** Done through printed p. 438. Mandala 8 sukta 44 rks 9-16
+**Progress note:** Done through printed p. 444. Mandala 8 sukta 44 rks 17-24
