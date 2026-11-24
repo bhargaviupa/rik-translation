@@ -35615,6 +35615,278 @@ O gods, for the sinner, the doer of harm, there is great sin; for the sinless th
 
 O divine Ādityas, the sin of one who always does sinful deeds is exceedingly great. The wealth given by you is only for the sinless. We are free from sin; therefore provide wealth for us.
 
+### Printed p. 784
+
+##### English translation
+Great, O deities, is (the guilt) of the sinner, but to the sinless is happiness ; Adityas, you are void of sin.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नः॒ सेतुः॑ सिषेद॒यं म॒हे वृ॑णक्तु न॒स्परि॑ ।  
+> इंद्र॒ इद्धि श्रु॒तो व॒ती ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । सेतुः । सिसेत् । अयं । महे । वृणक्तु । नः । परि ।  
+> इंद्रः । इत् । हि । श्रुतः । वशी ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मान्सेतुर्बंधको जालो मा सिषेत् । मा बध्नातु । नोऽस्मान्महे
+> महते कर्मणे परि वृणक्तु । परिवर्जयतु जालात् । कः । इंद्र इदिंद्र एव श्रुतो
+> विश्रुतो वशी सर्वस्य वशीकर्ता । स परि वृणक्तु ॥
+
+##### Gist of the bhāṣya
+
+Let the snare, the binding net, not bind us. For the great rite let it release us; let it keep us away from the net. Who? Indra alone, the renowned, the subduer, the one who brings everything under his control; let him release us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—us
+- सेतुः (*setuḥ*)—the binding net
+- मा निषेत् (*mā niṣet*)—let it not hold back
+- श्रुतः (*śrutaḥ*)—the famous one
+- वशी (*vaśī*)—who keeps everything under his control
+- आयं इंद्र इत् (*āyaṃ iṃdra it*)—this Indra himself
+- महे (*mahe*)—for the accomplishment of a great work
+- नः (*naḥ*)—us
+- परि वृणक्तु (*pari vṛṇaktu*)—let him free from this binding net
+
+##### भावार्थ (Bhāvārtha)
+
+Let the binding net not hold us back. Let this Indra himself, the famous one who keeps everything under his control, free us from this binding net for the accomplishment of a great work.
+
+##### English translation
+Let not the snare bind us ; may Indra, the renowned, the subduer of all, deliver us for a glorious act.
+
+### Printed p. 785
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ मृ॒चा रि॑पू॒णां वृ॑जि॒नाना॑मविष्यवः ।  
+> देवा॑ अ॒भि प्र मृ॑क्षत ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । मृचा । रिपूणां । वृजिनानां । आविष्यवः ।  
+> देवाः । अभि । प्र । मृक्षत ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अविष्यवो रक्षितुमिच्छंतो देवाः नोऽस्मान्वृजिनानां हिंसकानां
+> रिपूणां मृचा ! मृचिर्हिंसाकर्मा । यत्कुषरेण मर्चयता सुपेशसा !
+> आ. गृ. १-१७-१५ । इत्यादिषु तथा दृष्टत्वात् । हिंसकेन जालेन माभि प्र मृक्षत ।
+> अभिमर्शनमुपरि जालस्य प्रेरणं मा कुरुत । यद्वा ! मृचा जालेन प्राप्ता बाधा
+> नोऽस्माकं मा भवतु । हे देवाः यूयं च परिमार्जयत । परिहरत ॥
+
+##### Gist of the bhāṣya
+
+O gods, desiring to protect us, do not touch us with the मृचा (*mṛcā*) of the harming enemies. मृचि (*mṛci*) has the sense of harming, as is seen in such passages as यत्कुषरेण मर्चयता सुपेशसा (*yatkuṣareṇa marcayatā supeśasā*) (Ā. Gṛ. 1-17-15) **NOTE**. Do not lay on us the touch, the casting over us, of a harming net. Or else: let no distress that comes to us from the मृचा (*mṛcā*), the net, befall us; and you, O gods, keep it away.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अविष्यवः (*aviṣyavaḥ*)—you who wish to protect us
+- देवाः (*devāḥ*)—O gods
+- नः (*naḥ*)—us
+- वृजिनानां (*vṛjinānāṃ*)—of the sinful
+- रिपूणां (*ripūṇāṃ*)—enemies
+- मृचा (*mṛcā*)—by the harming net
+- मा अभि प्र मृक्षत (*mā abhi pra mṛkṣata*)—do not give an opportunity for us to be bound and harmed
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, who wish to protect us, do not give the enemies, the sinful ones, the opportunity to bind and harm us with their harming net.
+
+##### English translation
+O deities, ready to protect, molest us not with the destructive net of our wicked enemies.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वाम॑दिते मह्य॒हं दे॒व्युप॑ ब्रुवे ।  
+> सु॒मृ॒ळी॒काम॒भिष्ट॑ये ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 786
+
+> १ हदपाकि १  
+> उत । त्वां । अदिते । महि । अहं । देवि । उप ! ब्रुपे ।  
+> सुमृळीकां । अभिष्टये ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आधाने पवमानेष्टिषूत त्वामदित इत्यनुवाक्या । सूत्रितं च । उत त्वामदिते
+> महि महीमू षु मातरं । आ. २-१ । इति ॥ आदित्यपशौ वसाया अनुवाक्येयमेव ।
+> सूत्रितं च । उत त्वामदिते मह्यनेहो न उरुव्रजे ! आ. ३-८ । इति ॥
+> हे महि महत्यदिते देवमातर्देवि त्वामहं मत्स्यप्रमुखोऽहमुप
+> ब्रुवे । उपेत्य सौमि । कीदृशीं । सुमृळीकां सुष्टु सुखयित्रिं । किमर्थं ।
+> अभिष्टयेऽभिमताय ॥
+
+##### Gist of the bhāṣya
+
+In the Pavamāna offerings of the Ādhāna, "uta tvām aditaḥ" is the anuvākyā, and it is laid down in the sūtra उत त्वामदिते महि महीमू षु मातरं (*uta tvāmadite mahi mahīmū ṣu mātaraṃ*) (Ā. 2-1). In the animal offering to Āditya this same Ṛk is the anuvākyā for the vapā, and it is laid down in the sūtra उत त्वामदिते मह्यनेहो न उरुव्रजे (*uta tvāmadite mahyaneho na uruvraje*) (Ā. 3-8). O great Aditi, mother of the gods, goddess, I, the chief of the fishes, approaching, address you. How is she? The well gladdening one, the giver of happiness. For what purpose? For the desired.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महि (*mahi*)—O one of great nature
+- देवि (*devi*)—O divine one
+- अदिते (*adite*)—O goddess Aditi
+- सुमृळीकां (*sumṛḷīkāṃ*)—you who give excellent happiness
+- त्वां (*tvāṃ*)—you
+- अभिष्टये (*abhiṣṭaye*)—for the fulfilment of my desire
+- अहं (*ahaṃ*)—I, the chief of the fishes
+- उप ब्रुवे (*upa bruve*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Aditi, of great nature and divine, I praise you, the giver of excellent happiness, for the fulfilment of my desire.
+
+##### English translation
+I address you who give abundant delight, the great goddess Aditi, for the attainment of my desire.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pavamāna offerings of the Agni-ādhāna, this Ṛk उत त्वामदिते (*uta tvāmadite*) is to be recited as the anuvākyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra उत त्वामदिते महि महीमू षु मातरं (*uta tvāmadite mahi mahīmū ṣu mātaraṃ*) (Ā. 2-1). Again, in the animal offering made to Āditya, when the vapā offering is made, this Ṛk is to be recited as the anuvākyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra उत त्वामदिते मह्यनेहो न उरुव्रजे (*uta tvāmadite mahyaneho na uruvraje*) (Ā. 3-8).
+
+### Printed p. 787
+
+अहं (*ahaṃ*)—In this Ṛk the seer of the sūkta says of himself that he is the chief of the fishes.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पर्षि॑ दी॒ने ग॑भी॒र आ उग्र॑पुत्रे॒ जिघां॑सतः ।  
+> माकि॑स्तो॒कस्य॑ नो रिषत् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्षि । दीने । गभीरे । आ । उग्रपुत्रे । जिघांसतः ।  
+> माकिः । तोकस्य । नः । रिषत् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अदिते आ पर्षि । सर्वतः पालयसि । दीने क्षीणे गभीर उदके । उदकनामैतत् गंभीरं गहनमिति तन्नामसु पाठात् । उग्रपुत्रे । उद्गूर्णाः पुत्रा यस्मिन्
+> तत् । तस्मिन्नुदके जिघांसतो हिंसतो जालं तोकस्यास्माकं तनयस्य तनयं
+> माकी रिषत् । मैव हिंसां करोतु ॥
+
+##### Gist of the bhāṣya
+
+O Aditi, you protect on every side (आ पर्षि (*ā parṣi*)). In the diminished, shallow, deep water; गभीर (*gabhīra*) is a name of water, since it is read among its names as "gambhīra, gahana". उग्रपुत्रे (*ugraputre*) means that in which fierce sons are raised up; in that water, let the one who wishes to slay not harm our child, the child of our child; let him not do harm at all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O goddess Aditi) आ पर्षि (*ā parṣi*)—you are the protector everywhere
+- दीने (*dīne*)—which is without depth
+- उग्रपुत्रे (*ugraputre*)—in which there are fierce crocodiles and the like
+- गभीरे (*gabhīre*)—in this water
+- नः शोकस्य (*naḥ śokasya*)—to our son **NOTE**
+- जिघांसतः (*jighāṃsataḥ*)—the net of the enemy who desires harm
+- माकिः रिषत् (*mākiḥ riṣat*)—let it certainly not cause harm
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Aditi, you are our protector everywhere. In this water, which is without depth and in which there are fierce crocodiles and the like, let the net of the enemy who desires harm to our son not cause harm.
+
+##### English translation
+You protect on every side ; let not (the net) of the destroyer hurt our children, in this shallow water full of mighty offspring.
+
+### Printed p. 788
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ने॒हो न॑ उरुप्रज॒ उरू॑चि॒ वि प्रस॑र्तवे ।  
+> कृ॒धि तो॒काय॑ जी॒वसे॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनेहः । नः । उरुव्रजे । उरूचि । वि । प्रसर्तवे ।  
+> कृधि । तोकाय । जीवसे ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यस्य पशावनेहो न इति पुरोडाशस्यानुवाक्या । सूत्रं च । आनेहो न
+> उरुव्रजेदितिर्ह्यजनिष्ट । आ. ३-८. इति ॥
+> अनेहोऽपापान्नोऽस्मान् हे उरुव्रजे विस्तीर्णगमने । दूरमियमदितिर्भूमिरूपा गता भवत्यतिविस्तृतत्वात् । अथवोरुगमने धीरेऽहे उरूचि उरुत्वं
+> वि प्रसर्तवेऽभिसरणाय कृधि । कुरु । कस्यै । तोकाय पुत्राय मत्साय जीवसे
+> जीवनाय । यथा जीवेनापृत्यान्नक्षितुं तथोरुत्वं कुर्विति ॥
+
+##### Gist of the bhāṣya
+
+In the animal offering to Āditya, "anehoḥ naḥ" is the anuvākyā of the puroḍāśa, and it is laid down in the sūtra आनेहो न उरुव्रजेदितिर्ह्यजनिष्ट (*āneho na uruvrajeditirhyajaniṣṭa*) (Ā. 3-8). Us, the sinless, O Aditi of wide going; she, as the earth, has gone far, being exceedingly extensive. Or else, O one of wide going, **NOTE** make breadth for going forth, for approaching; for whom? For our son, the fish, for life. Make breadth so that he may be able to eat food with life. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुव्रजे (*uruvraje*)—you who have wide going
+- उरूची (*urūcī*)—who move in far regions
+- O Aditi
+- तोकाय (*tokāya*)—for our son
+- जीवसे (*jīvase*)—so that he may live well
+- अनेहः (*anehaḥ*)—sinless
+- नः (*naḥ*)—to us
+- वि प्रसर्तवे (*vi prasartave*)—to come quickly
+- कृधि (*kṛdhi*)—make a resolve
+
+##### भावार्थ (Bhāvārtha)
+
+O Aditi, of wide going and moving in far regions, make up your mind to come quickly to us, the sinless, so that our son may live well.
+
+##### English translation
+Wide-traversing, far-reaching goddess, put forth your power to come to us, innocent ones, that our children may live.
+
+### Printed p. 789
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal offering made to please Āditya, when the puroḍāśa is offered, this Ṛk "anehoḥ naḥ" is to be recited as the anuvākyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra अनेहो न उरुव्रजेऽदितिर्ह्यजनिष्ट (*aneho na uruvraje 'ditirhyajaniṣṭa*) (Ā. 3-8).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये मू॒र्धानः॑ क्षिती॒नामद॑ब्धासः॒ स्वय॑शसः ।  
+> व्र॒ता रक्षं॑ते अ॒द्रुहः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । मूर्धानः । क्षितीनां । अदब्धासः । स्वयशसः ।  
+> व्रता । रक्षंते । अद्रुहः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मूर्धानः सर्वेषां मूर्धस्थानीया उच्छयंतः क्षितीनां मनुष्याणामदब्बासोऽहिंसकाः स्वयशसः स्वायत्तकीर्तयो व्रता व्रतान्यस्मदीयानि
+> कर्माणि रक्षंते पालयंतेऽद्रुहोऽद्रोग्यार्थः संतः ॥
+
+##### Gist of the bhāṣya
+
+They who are the heads, standing as the head of all, exalted; अदब्धासः (*adabdhāsaḥ*), not harming mankind; स्वयशसः (*svayaśasaḥ*), having glory of their own; they protect our rites, being free from malice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—who
+- मूर्धानः (*mūrdhānaḥ*)—who are at the top of all
+- क्षितीनां (*kṣitīnāṃ*)—to men
+- अदब्धासः (*adabdhāsaḥ*)—who do no harm
+- स्वयशसः (*svayaśasaḥ*)—who have glory acquired by themselves, such Ādityas
+- अद्रुहः (*adruhaḥ*)—without wishing us ill
+- व्रता (*vratā*)—our Vedic rites
+- रक्षंते (*rakṣaṃte*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+The Ādityas, who are above all gods and men, who do no harm to men and have glory acquired by themselves, protect our Vedic rites without wishing us ill.
+
+##### English translation
+You who are the heads of men, unharming, and of self-sustained glory, who, benevolent ones, protect our rites.
+
 ---
 
-**Progress note:** Done through printed p. 783. Ṛk 1 end, Ṛk 2-7 of the Ādityas sūkta, pp. 778-783
+**Progress note:** Done through printed p. 789. Ṛk 7 end, Ṛk 8-13, pp. 784-789
