@@ -3885,6 +3885,276 @@ Flow, Soma, to all praises to procure food (for us) ; you, the exhilarator of th
 > सः । तु । पवस्व परि । पार्थिवं । रजः । दिव्या च । सोम । धर्मभिः ।  
 > त्वां । विप्रासः । मतिभिः । विचक्षण । शुभ्रं । हिन्वंति । धीतिभिः ॥ २४ ॥
 
+### Printed p. 85
+
+#### Ṛk 24 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तादृशस्त्वं पार्थिवं रजो लोकं प्रति दिव्यानि च रजांसि प्रतिः
+> धर्मभिर्धारकैः सह तु क्षिप्रं परि पवस्व । परितः क्षर । हे विचक्षण विद्रष्टः सोम
+> विप्रासो विप्रा मेधाविनो मतिभिः स्तुतिभिर्थीतिभिरंगुलीभिश्च शुभ्रं श्वेतवर्णं
+> त्वां हिन्वंति । प्रेरयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma: "O Soma, being such, flow swiftly, together with your supports, towards the terrestrial world and the celestial regions." परि पवस्व (*pari pavasva*) is glossed "flow all around". "O far-seeing Soma, the wise ones, the sages, with praises and with धीतिभिः (*dhītibhiḥ*), that is, the fingers, urge you on (हिन्वंति (*hinvaṃti*) means "impel"), you who are of white colour."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- सः (*saḥ*)—you, the well-known one
+- पार्थिवं रजः (*pārthivaṃ rajaḥ*)—to the terrestrial world
+- च (*ca*)—and
+- दिव्या (*divyā*)—facing also the celestial world
+- धर्मभिः (*dharmabhiḥ*)—together with your powers that sustain
+- तु (*tu*)—swiftly
+- पवस्व (*pavasva*)—flow
+- विचक्षण (*vicakṣaṇa*)—O Soma, who are of subtle vision
+- विप्रासः (*viprāsaḥ*)—the wise
+- मतिभिः (*matibhiḥ*)—with praises
+- धीतिभिः (*dhītibhiḥ*)—with fingers
+- शुभ्रं (*śubhraṃ*)—of bright colour
+- त्वां (*tvāṃ*)—you
+- हिन्वंति (*hinvaṃti*)—urge on
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you the well-known, flow swiftly, together with your sustaining powers, towards the terrestrial world and the celestial world. O Soma of subtle vision, the wise urge you on, bright in colour, with praises and with their fingers.
+
+##### English translation
+Flow quickly, Soma, with your supports, to the terrestrial and celestial worlds ; the sages express you radiant. O observer of all, with praises and with their fingers,
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑माना अस्यक्त प॒वित्र॒मति॒ धार॑या ।  
+> म॒रुत्वं॑तो मत्स॒रा इं॑द्रि॒या हया॑ मे॒धाम॒भि प्रयां॑सि  
+> च ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानाः । अस्पृश्यत : पवित्रं अति । धारया ।  
+> मरुत्वंतः । मत्सराः ! इंद्रियाः । हयाः । मेधां । अभि । प्रयांसि । च ॥ २५॥
+
+### Printed p. 86
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानाः पूयमानाः सोमा धारयात्मीयया पवित्रमतीत्यासृक्षत ।
+> सृज्यंते । कीदृशाः । मरुत्वंतो मरुद्भिर्युक्ता मत्सरा मदकरा इंद्रिया
+> इंद्रजुष्टाः । मेधां स्तुतिं प्रयांस्यन्नानि चाभिलक्ष्य स्तोतृभ्य उभयं कर्तुं
+> वा हया गंतार एते सृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+The Soma juices, being purified (पवमानाः (*pavamānāḥ*)), are released through the filter in their own stream. What sort are they? मरुत्वंतः (*marutvaṃtaḥ*): joined with the Maruts; मत्सराः (*matsarāḥ*): intoxicating; इंद्रियाः (*iṃdriyāḥ*): dear to Indra. They are हयाः (*hayāḥ*), "goers". Having in view मेधां (*medhāṃ*), praise, and प्रयांसि (*prayāṃsi*), foods, or in order to provide both to the praisers, these are released.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वंतः (*marutvaṃtaḥ*)—joined with the Maruts
+- मत्सराः (*matsarāḥ*)—causing delight
+- इंद्रियाः (*iṃdriyāḥ*)—pleasing to Indra
+- हयाः (*hayāḥ*)—swift-moving
+- मेधां अभि (*medhāṃ abhi*)—with a view to praise
+- प्रयांसि च (*prayāṃsi ca*)—and providing foods
+- पवमानाः (*pavamānāḥ*)—the Soma juices that are being purified
+- पवित्रं अति (*pavitraṃ ati*)—crossing the ten-fold filter
+- धारया (*dhārayā*)—in the form of a stream
+- असृक्षत (*asṛkṣata*)—flow out
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, which are joined with the Maruts, delight-giving, dear to Indra, swift-moving, providing foods with a view to praise, and undergoing purification, cross the ten-fold filter and flow out in the form of a stream.
+
+##### English translation
+Your purified juices are let flow through the filter in a stream accompanied by the Maruts, exhilarating, pleasing Indra, swift-moving, bringing praise and food.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पो वसा॑नः॒ परि॒ कोश॑मर्ष॒तींदु॑र्हिया॒नः सो॒तृभिः॑ ।  
+> ज॒नय॒ इज्ज्योति॑र्मं॒दना॑ अवीवश॒द्गाः कृ॑ण्वा॒नो न नि॒र्णिजं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपः । वसानः । परि । कोशं । अर्षति । इंदुः । हियानः । सोतृभिः ।  
+> जनयन् । ज्योतिः ! मंदनाः । अवीवशत् । गाः । कृष्ण्वानः । न । निःनिजं ॥ २६ ॥
+
+### Printed p. 87
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपो वसतीवरीर्वसान आच्छादयन् सोतृभिरभिषुण्वद्भिर्हियानः प्रेर्यमाणः इंदुः सोमः कोशं कलशं पर्यर्षति । प्रति गच्छति । किं च ज्योतिर्दिप्तिं
+> जनयन्नुत्पादयन् गा गव्यानि क्षेरादीनि निर्णिजमात्मनो रूपं कृष्णानः कुर्वन्
+> मिश्रयन् सोऽयं सोमः । नः संप्रत्यर्थे । इदानीं मंदनाः स्तुतीरवीवशत् ।
+> कामयते ॥ वश कांत् । लुजु चजि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Indu, that is Soma, clothing himself in the अपः (*apaḥ*) (the Vasatīvarī waters) and urged on by the pressers (सोतृभिः (*sotṛbhiḥ*)), goes to the receptacle (कोशं (*kośaṃ*)), the vessel. Moreover, generating light (ज्योतिः (*jyotiḥ*), radiance) and making गाः (*gāḥ*), the cow-products such as milk, into निर्णिजं (*nirṇijaṃ*), his own form, mixing with them, this Soma now (न (*na*) is used in the sense of "now") desires (अवीवशत् (*avīvaśat*)) the praises (मंदनाः (*maṃdanāḥ*)). He glosses अवीवशत् (*avīvaśat*) as "desires", from the root वश (*vaśa*) in the sense of wishing, with the luṅ/caṅ form.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपः (*apaḥ*)—the Vasatīvarī waters
+- वसानः (*vasānaḥ*)—clothed in
+- सोतृभिः (*sotṛbhiḥ*)—by the pressing priests
+- हियानः (*hiyānaḥ*)—pressed
+- इंदुः (*iṃduḥ*)—Soma
+- कोशं परि (*kośaṃ pari*)—towards the vessel
+- अर्षति (*arṣati*)—flows
+- ज्योतिः (*jyotiḥ*)—radiance
+- जनयन् (*janayan*)—producing
+- गाः (*gāḥ*)—milk and the like
+- निर्णिजं (*nirṇijaṃ*)—having a form of his own
+- कृष्ण्वानः (*kṛṣṇvānaḥ*)—making
+- न (*na*)—now
+- मंदनाः (*maṃdanāḥ*)—praises
+- अवीवशत् (*avīvaśat*)—desires
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, mingled with the Vasatīvarī waters and pressed by the pressing priests, flows towards the vessel. Producing radiance, and making milk and the like take on his own form, he now desires praises.
+
+##### English translation
+Indu clothed with waters effused by the worshippers rushes to the receptacle, generating light, identifying its form with the (products of the) cows, he covets now (our) praises-
+
+## Sūkta 108 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पहस्वेति षोडशर्चं पंचमं सूक्तं । आद्यद्वृचस्य गौरिवीतिर्नाम शक्तिपुत्र
+> ऋषिः । तृतीयायाः शक्तिर्नाम वासिष्ठः । ततः पंचानां द्वृचानामूरुर्नामांगिरस ऋजिश्वा नाम भारद्वाज ऊर्ध्वसद्मा नामांगिरसः कृतयशा नाम कश्चित्
+> सोऽप्यांगिरस ऋणंचयो नाम राजर्षिरित्येते क्रमेणर्षयः । एवं त्रयोदश
+
+##### Gist of the bhāṣya
+
+The sūkta पहस्वेति (*pahasveti*) has sixteen Ṛks and is the fifth sūkta. For the first two Ṛks the seer is Gauriviti, son of Śakti; for the third, Śakti Vāsiṣṭha. Then for five pairs of Ṛks the seers are, in order, Ūru Āṅgirasa; Ṛjiśvā Bhāradvāja; Ūrdhvasadmā Āṅgirasa; Kṛtayaśā, also an Āṅgirasa; and Ṛṇaṃcaya, a royal seer. Thus thirteen Ṛks go by.
+
+### Printed p. 88
+
+> गताः ततस्ति सृणां वासिष्ठः शक्तिः । प्रथमातृतीयाद्या आयुजः ककुभः । द्वितीया
+> चतुर्थ्याद्या युजः सतोबृहत्यः । स सुन्वे यो वसूनामित्येषा तु यवमध्या
+> गायत्री । पवमानः सोमो देवता। तथा चानुक्रम्यते । पवस्व षोळश गौरिवीतिर्द्वृचं शक्तिरेकामूरुर्यजिश्वोर्ध्वसद्मा कृतयशा ऋणंचय इत्यृषयो
+> द्वृचास्तिस्रः शक्तिः काकुभाः प्रगाथाः स सुन्वे गायत्री यवमध्यॆति ॥ गतो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+After the thirteen, for the following three Ṛks the seer is Śakti Vāsiṣṭha. The first, third and the other odd-numbered Ṛks are Ayuj Kakubh; the second, fourth and the other even-numbered Ṛks are Yuj Satobṛhatī. But the Ṛk स सुन्वे यो वसूनां (*sa sunve yo vasūnāṃ*) is a Gāyatrī of the Yavamadhyā kind. The deity is Pavamāna Soma. He cites the Anukramaṇī, which says the same (seers, metres and the Gāyatrī Yavamadhyā). The viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta beginning "Pavasva" is the fifth sūkta in the seventh anuvāka. It contains sixteen Ṛks. For the first two Ṛks of this sūkta the seer is Gauriviti, son of the seer Śakti; for the third Ṛk the seer is Śakti, son of Vasiṣṭha. From there onward, for two Ṛks (4-5) the seer is Ūru Āṅgirasa; for the next two (6-7) Ṛjiśvā, son of Bharadvāja; for the next two (8-9) Ūrdhvasadmā Āṅgirasa; for the next two (10-11) Kṛtayaśā Āṅgirasa; and for the next two (12-13) the royal seer called Ṛṇaṃcaya. After thirteen Ṛks in this way, for the next three Ṛks (14-16) the seer is the Śakti, son of the seer Vasiṣṭha, mentioned earlier. The deity is Pavamāna Soma. The odd-numbered Ṛks of this sūkta, 1, 3 and so on, are in the Kakubh metre; but the thirteenth Ṛk only, "स सुन्वे यो वसूनां (*sa sunve yo vasūnāṃ*)", is in the metre called Gāyatrī Yavamadhyā. The even-numbered Ṛks, 2, 4 and so on, are in the Satobṛhatī metre. In the Anukramaṇī it is said: "Pavasva, sixteen; Gauriviti, two Ṛks; Śakti, one; Ūru, Ṛjiśvā, Ūrdhvasadmā, Kṛtayaśā, Ṛṇaṃcaya are the seers, two Ṛks each; three: Śakti; Kākubha Pragāthas; 'Sa sunve' Gāyatrī Yavamadhyā." The viniyoga has been stated earlier.
+
+Sūkta—108
+Maṇḍala—9. Anuvāka—7. Sūkta—108.
+Aṣṭaka—7. Adhyāya—5. Varga—13, 14, 19.
+Number of Ṛks in the sūkta—16.
+Seer: 1, 2: Gauriviti. 1-3, 14-16: Śakti. 4, 5: Ūru. 6, 7, 9: Ṛjiśvā **NOTE**. 8, 9: Ūrdhvasadmā. 10, 11: Kṛtayaśā. 12, 13: Ṛṇaṃcaya.
+Deity: Pavamāna Soma.
+Metre: 1, 3, 5, 7, 9, 11, 15: Kakubh. 2, 4, 6, 8, 10, 12, 14, 16: Satobṛhatī. 13: Gāyatrī Yavamadhyā.
+
+### Printed p. 89
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व॒ मधु॑मत्तम॒ इंद्रा॑य सोम क्रतु॒वित्त॑मो॒ मदः॑ ।  
+> महि॑ द्यु॒क्षत॑मो॒ मदः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । मधुमत् ऽतमः । इंद्राय । सोम । क्रतुवित् ऽतमः । मदः ।  
+> महि । द्युक्षतमः । मदः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मधुमत्तमोऽतिशयेन माधुर्योपेतस्त्वमिंद्रायेंद्रार्थं
+> मदो मदकरः सन् पवस्व । क्षर । कीद्रशः ! क्रतुवित्तमोऽत्यंतं प्रज्ञायाः
+> कर्मणो ना लंभको महि महान् महानीयो वा द्युक्षतमोऽत्यंतं दीपो
+> मदो मदहेतुः ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, being most sweet, abounding in sweetness, flow (पवस्व (*pavasva*), "stream") for Indra, as an intoxicating drink (मदः (*madaḥ*)). Of what sort? क्रतुवित्तमः (*kratuvittamaḥ*): one who greatly obtains the knowledge of the rite. महि (*mahi*): great, or worthy of honour. द्युक्षतमः (*dyukṣatamaḥ*): most brilliant. मदः (*madaḥ*): the cause of intoxication."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- मधुमत्तमः (*madhumattamaḥ*)—endowed with sweetness
+- क्रतुवित्तमः (*kratuvittamaḥ*)—the best accomplisher of rites
+- महि (*mahi*)—the great
+- द्युक्षतमः (*dyukṣatamaḥ*)—most resplendent
+- मदः (*madaḥ*)—the delight-giver; you
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- मदः (*madaḥ*)—producing delight
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are endowed with sweetness, the best accomplisher of rites, great, most resplendent and delight-giving, flow, producing delight, for Indra's drinking.
+
+##### English translation
+Soma, who are most sweet-flavoured, most intelligent, the exhilarator, flow for Indra, the great, the most brilliant, the exhilarating.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ ते पी॒ता वृ॑ष॒भो वृ॑षा॒यते॒ऽस्य पी॒ता स्व॒र्विदः॑ ।  
+> स सु॒प्रके॑तो अ॒भ्य॑क्रमा॒दिषोच्चा॒ वाजं॒ नैत॑शः ॥ २ ॥
+
+### Printed p. 90
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । ते । पीत्वा । वृषभः । वृषयते । अस्य । पीता । स्वःविदः ।  
+> सः । सुप्रकेतः । अभि । अक्रमीत् । इषः । अच्छ । वाजं । न । एतशः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषभः कामानां वर्षक इंद्रो यस्य ते त्वां पीता वृषायते वृषभवदाचरति । किं च स्वर्दृशः सर्वस्य दर्शकस्यास्य ते तव पीता पाने सति सुप्रकेतः
+> सुप्रज्ञः स इंद्र इपः शत्रूणामन्नान्यभ्यक्रमीत् । अभिक्रामति । तत्र दृष्टांतः ।
+> वाजं नैतशः । एतश इत्यश्वनाम । यथाश्वो वाजं संग्राममभिगच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+वृषभः (*vṛṣabhaḥ*) is Indra, the showerer of desires. Having drunk you, he acts like a bull (वृषायते (*vṛṣāyate*)). Moreover, when there is the drinking of you, who are the beholder of all (स्वर्दृशः (*svardṛśaḥ*)), सुप्रकेतः (*supraketaḥ*), the well-minded Indra, advances upon (अभ्यक्रमीत् (*abhyakramīt*)) the इषः (*iṣaḥ*), the foods of the enemies. The illustration is वाजं नैतशः (*vājaṃ naitaśaḥ*): एतशः (*etaśaḥ*) is a name for a horse; as a horse goes to the वाजं (*vājaṃ*), the battle, so does he.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एतशः (*etaśaḥ*)—a horse
+- वाजं न (*vājaṃ na*)—as it enters the battlefield
+- वृषभः (*vṛṣabhaḥ*)—Indra, the showerer of desires
+- यस्य ते (*yasya te*)—you, by drinking whom
+- पीतात्वा (*pītātvā*)—having drunk
+- वृषायते (*vṛṣāyate*)—he becomes powerful like a bull
+- स्वर्द्वशः (*svardvaśaḥ*)—the beholder of all
+- अस्य (*asya*)—of this same you
+- पीता (*pītā*)—when there is drinking
+- सुप्रकेतः (*supraketaḥ*)—of excellent understanding
+- सः (*saḥ*)—that same Indra
+- इषः अच्छ (*iṣaḥ accha*)—confronting the enemies' food
+- अभ्यक्रमीत् (*abhyakramīt*)—advances upon
+
+##### भावार्थ (Bhāvārtha)
+
+As a horse enters the battlefield, Indra, the showerer of desires, by drinking you becomes powerful like a bull; when there is the drinking of you, the beholder of all, that same Indra, of excellent understanding, confronts the enemies' food and advances upon it.
+
+##### English translation
+By drinking whom the showerer Indra is invigorated, by drinking you who are the beholder of everything, the intelligent (Indra) reaches the viands (of the enemy) as a horse (reaches) the battle.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह्य१॒ं॑ग दैव्या॒ पव॑मान॒ जनि॑मानि द्यु॒मत्त॑मः ।  
+> अ॒मृ॒त॒त्वा य॑ घो॒षयः॑ ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 84. pp. 79-84 (batch API)
+**Progress note:** Done through printed p. 90. pp. 85-90 (batch API)
