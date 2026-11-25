@@ -30440,6 +30440,227 @@ Agni you are of purifying radiance, of unsoiled Instre, of full brightness, you 
 
 O ऊर्जः । नपात् (*ūrjaḥ | napāt*), son of earthly food (ऊर्जः (*ūrjaḥ*)) such as the forest wood, O जातवेदः (*jātavedaḥ*), knower of all born things, Agni: rejoice (मंदस्व (*maṃdasva*) = मोदस्व (*modasva*)) in the praises (सुशस्तिभिः (*suśastibhiḥ*)) we make, and be well pleased and satisfied (हितः (*hitaḥ*)) with the rites (धीतिभिः (*dhītibhiḥ*)) such as the Agnihotra performed by us. Moreover the foods (इषः (*iṣaḥ*)) in the form of oblations, which are of many forms (भूरिवर्पसः (*bhūrivarpasaḥ*); वर्ष (*varṣa*) is a name for form), of wonderful satisfaction (चित्रोतयः (*citrotayaḥ*)), and of lovely birth (वामजाताः (*vāmajātāḥ*)), the sacrificers place together in you alone (त्वे (*tve*) = *tvayi*; सं दधुः (*saṃ dadhuḥ*) = संदधति (*saṃdadhati*)). Or else भूरिवर्पसः (*bhūrivarpasaḥ*) and so on is an epithet of the agent, and then चित्रोतयः (*citrotayaḥ*) is to be construed as "of wonderful protection".
 
+### Printed p. 916
+#### Ṛk 3 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जः (*ūrjaḥ*)—of food, or of the araṇi (the tree) that grows on the earth
+- नपात् (*napāt*)—O son
+- जातवेदः (*jātavedaḥ*)—O Agni, who know all things that have come into being
+- सुशस्तिभिः (*suśastibhiḥ*)—with the praises offered by us
+- मंदस्व (*maṃdasva*)—be gladdened (and likewise)
+- धीतिभिः (*dhītibhiḥ*)—with the rites such as Agnihotra that we perform
+- हितः (*hitaḥ*)—be satisfied (and)
+- भूरिवर्पसः (*bhūrivarpasaḥ*)—those that shine with many kinds of forms
+- चित्रोतयः (*citrotayaḥ*)—those that bring satisfaction in diverse (many) ways
+- *�vāmajātāḥ*—those that are excellently prepared
+- इषः (*iṣaḥ*)—the foods that have the character of oblations
+- त्वे (*tve*)—in you alone
+- सं दधुः (*saṃ dadhuḥ*)—the sacrificers offer them by performing the homa
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of food (of strength) or of the araṇi, knower of all that is born, be gladdened by the praises we offer and be satisfied by the rites such as Agnihotra that we perform. The sacrificers offer into you alone, by homa, foods that have the character of oblations, that are of many forms, that bring satisfaction in many ways, and that are well prepared.
+
+##### English translation
+Son of strength, Jatavedas, rejoice in our adorations, (be) satisfied by our offerings; (the worshippers) have placed before you viands of many sorts of wonderful efficacy, of excellent origin.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒र॒ज्यन्न॑ग्ने प्रथयस्व जं॒तुभि॑र॒स्मे रायो॑ अमर्त्य ।  
+> स द॑र्श॒तस्य॒ वपु॑षो॒ वि रा॑जसि पृ॒णक्षि॑ सान॒सिं क्रतुं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इरज्यन् । अग्ने । प्रथयस्व । जंतुभिः । अस्मे इति । रायः । अमर्त्य ।  
+> सः । दर्शतस्य । वपुषः । वि । राजसि । पृणक्षि । सानसिं । क्रतुं ॥ ४ ॥
+
+### Printed p. 917
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जंतुभिर्जातैः शत्रुभिः सहेरज्यन्नीर्ष्यन् स्पर्धां कुर्वन् ॥
+> इरज् ईर्ष्यायां । कंड्वादिः ॥ यद्वा! इरज्यतिरैश्वर्यकर्मा । जंतुभिर्जायमानैरात्मीयैस्तेजोभिरिरज्यन्नीश्वरो भवन् । हे अमर्त्य मरणरहिताग्ने आस्मे
+> अस्माकं ॥ सुपां सुलुगिति षष्ठ्याः शेआदेशः ॥ रायो धनानि प्रथयस्व । विस्तारय ॥
+> रयिशब्दाच्छसः स्थाने व्यत्ययेन जस् । शसो वा व्यत्ययेनोडिदमिति विभक्तुदात्तत्वं न क्रियते ॥ स त्वं दर्शतस्य दर्शनीयस्य वपुषस्तेजोमयस्य शरीरस्य वि
+> राजसि । तृतीयार्थे षष्ठि ना । ईदृशेन शरीरेण विशेषेण दीप्यसे । यद्वा ।
+> राजतिरैश्वर्यकर्मा वपुरिति च रूपनाम । दर्शनीयेन रूपेण वि राजसि । विशेषेणेशिषे । अत एव सानसिं संभजनीयं क्रतुं कर्म पृणक्षि । अस्माभिः संपर्कयसि ।
+> फलेन वा संयोजयसि ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, इरज्यन् (*irajyan*)": being jealous, rivalling, with जंतुभिः (*jaṃtubhiḥ*), that is, with born enemies. Or else: इरज्यति (*irajyati*) is a verb of lordship; becoming lord by his own splendours that are being born. "O immortal Agni", free from death, "अस्मे (*asme*)", for us, "रायः (*rāyaḥ*)", riches, "प्रथयस्व (*prathayasva*)", spread them out. "That you", with a "दर्शतस्य (*darśatasya*)", beautiful, "वपुषः (*vapuṣaḥ*)", luminous body, "वि राजसि (*vi rājasi*)": you shine specially with such a body (the genitive is in the sense of the instrumental). Or else: राजति (*rājati*) is a verb of lordship and वपुषः (*vapuṣaḥ*) is a name for form; you rule specially with a beautiful form. Therefore you पृणक्षि (*pṛṇakṣi*) the सानसिं क्रतुं (*sānasiṃ kratuṃ*), the rite that is to be shared: you join it with us, or you unite it with its fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जंतुभिः (*jaṃtubhiḥ*)—with enemies
+- इरज्यन् (*irajyan*)—one who fights
+- अमर्त्य (*amartya*)—one free from death
+- अग्ने (*agne*)—O Agni
+- अस्मे (*asme*)—to us
+- रायः (*rāyaḥ*)—wealth
+- प्रथयस्व (*prathayasva*)—give abundantly (or: increase the wealth that is with us)
+- सः (त्वं) (*saḥ (tvaṃ)*)—such as you are
+- दर्शतस्य (*darśatasya*)—attractive
+- वपुषः (*vapuṣaḥ*)—with your luminous body
+- विराजसि (*virājasi*)—you shine specially [or: दर्शतस्य वपुषः (*darśatasya vapuṣaḥ*)—with your attractive form; वि राजसि (*vi rājasi*)—you are lord of all] (therefore)
+- सानसिं (*sānasiṃ*)—that is to be obtained
+- क्रतुं (*kratuṃ*)—the fruit of the rite
+- पृणक्षि (*pṛṇakṣi*)—you cause it to reach us
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who fight with enemies and are free from death, give us wealth in abundance, or spread out, that is, increase, the wealth that is with us. You, whose form is attractive, shine specially with the radiance of your luminous body; or you are lord of all by your attractive form. Therefore unite with us the fruits of the sacrifice that are to be obtained by us (make them reach us).
+
+##### English translation
+Contending with enemies, bestow upon us, immortal Agni, riches; you shine with a graceful person, you fulfill (the purpose of) the enjoyable rite.
+
+### Printed p. 918
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ष्क॒र्तार॑मध्व॒रस्य॒ प्रचे॑तसं॒ क्षयं॑तं॒ राध॑सो म॒हः ।  
+> रा॒तिं वा॒मस्य॑ सु॒भगां॑ म॒हीमिषं॒ दधा॑सि सान॒सिं र॒यिं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इष्कर्तारं । अध्वरस्य । प्रचेतसं । क्षयंतं । राधसः । महः ।  
+> रातिं । वामस्य । सुभगां । महीं । इषं । दधासि । सानसिं । रयिं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इष्कर्तारं निष्कर्तारं ॥ छांदसो वर्णलोपः ॥ अध्वरस्य यज्ञस्य निष्कर्तारं
+> संस्कर्तारं प्रचेतसं प्रकृष्टज्ञानं महोमहतो राधसो धनस्य क्षयंतमीश्वरं ।
+> क्षयतिरैश्वर्यकर्मा । नामस्य वननीयस्य धनस्य रातिं दातारं ॥ रातेः कर्तरि
+> क्तिच् ॥ ईदृशं त्वां स्तुम इति शेषः । स त्वं सुभगां सौभाग्योपेतां महीं
+> महतीमिषमन्नं सानसिं संभक्तव्यं रयिं धनं च दधासि । स्तोतृभ्यो ददासि ॥
+
+##### Gist of the bhāṣya
+
+इष्कर्तारं (*iṣkartāraṃ*) is निष्कर्तारं (*niṣkartāraṃ*) (the Vedic dropping of a letter). The one who perfects, prepares, the अध्वरस्य (*adhvarasya*), the sacrifice; प्रचेतसं (*pracetasaṃ*), of excellent knowledge; क्षयंतं (*kṣayaṃtaṃ*), the lord of महः (*mahaḥ*), great राधसः (*rādhasaḥ*), wealth (क्षयति (*kṣayati*) is a verb of lordship); रातिं (*rātiṃ*), the giver, of वामस्य (*vāmasya*), desirable wealth. The words "we praise you who are such" are to be supplied. Such as you are, you bestow सुभगां (*subhagāṃ*), fortunate, महीं (*mahīṃ*), great, इषं (*iṣaṃ*), food, and सानसिं (*sānasiṃ*), shareable रयिं (*rayiṃ*), wealth; you give them to the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) अध्वरस्य (*adhvarasya*)—of the sacrifice
+- इष्कर्तारं (*iṣkartāraṃ*)—the perfecter (one who makes it proceed well)
+- प्रचेतसं (*pracetasaṃ*)—one endowed with excellent knowledge
+- महः (*mahaḥ*)—great
+- राधसः (*rādhasaḥ*)—of wealth
+- क्षयंतं (*kṣayaṃtaṃ*)—the lord
+- वामस्य (*vāmasya*)—of the wealth desired by all
+- रातिं (*rātiṃ*)—the giver (one who gives); we praise you who are such (such as you are)
+- सुभगां (*subhagāṃ*)—fortunate
+- महीं (*mahīṃ*)—abundant
+- इषं (*iṣaṃ*)—food
+- सानसिं (*sānasiṃ*)—that we are to obtain
+- रयिं (*rayiṃ*)—wealth
+- दधासि (*dadhāsi*)—you give to the people who praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we praise you, who perfect the sacrifice so that it proceeds well, who have excellent understanding, who are the owner of abundant wealth, and who give to each the wealth that all desire. Such as you are, you give to us who praise you auspicious and abundant food and the wealth that we are to obtain.
+
+### Printed p. 919
+
+##### English translation
+(We praise you), the perfector of the sacrifice, the sage, the lord of great wealth, the giver of what is desirable; you bestow auspicious and abundant food, and enjoyable riches.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तावा॑नं महि॒षं वि॒श्वद॑र्शतम॒ग्निं सु॒म्नाय॑ दधिरे पु॒रो  ॑
+> जनाः ।  
+> श्रुत्क॑र्णं स॒प्रथ॑स्तमं त्वा गि॒रा दैव्यं॒ मानु॑षा यु॒गा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतवानं । महिषं । विश्वदर्शतं । अग्निं । सुम्नाय । दधिरे । पुरः । जनाः ।  
+> श्रुत्कर्णं । सप्रथस्तमं त्वा । गिरा । दैव्यं । मानुषा । युगा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतावानं सत्यवंतं यज्ञवंतं वा ॥ छंदसीवनिपाविति मत्त्वर्थीयो वनिप् ॥
+> महिषं महांतं पूज्यं वा विश्वदर्शतं विश्वैः सर्वैर्दर्शनीयं । यद्वा । विश्वं
+> दर्शनं यस्य॥ बहव्रीहौ विश्वं संज्ञायामिति पूर्वपदांतोदात्तत्वं ॥ ईदृशमग्निं
+> सुम्माय सुखार्थं जना ऋत्विग्यजमानरूपाः पुरो दधिरे । पुरो दधते । सर्वकर्मभ्यः पुरस्ताद्दारयंति । यद्वा । पुरः पुरस्तात्पूर्वस्यां दिश्याहवनीयरूपेण
+> धारयंति । परोऽर्धर्चः प्रत्यक्षकृतः । अपि च हे अग्ने श्रुत्कर्णं श्रुत् स्तुतीः
+> सम्यक् शृण्वन्कर्णः श्रोत्रेंद्रियं यस्य तादृशं सप्रथस्तममतिशयेन प्रख्यातं
+> यद्वा सर्वतो विस्तार्यमाणं दैव्यं देवानां हनिर्वोढृत्वेन संबंधिनं ईदृशं
+> त्वा त्वां मानुषा मानुषाणि मनोरपत्यानि युगा युगानि युगलानि पत्नीयजमानरूपाणि गिरा स्तुत्या स्तुवंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+ऋतावानं (*ṛtāvānaṃ*): one who has truth, or who has sacrifice (the affix vanip in the sense of "possessing" under the rule छंदसीवनिपाविति (*chaṃdasīvanipāviti*)). महिषं (*mahiṣaṃ*): great or worshipful. विश्वदर्शतं (*viśvadarśataṃ*): to be seen by all; or else, one whose appearance is all. Such an Agni the जनाः (*janāḥ*), the people in the form of ṛtvijs and sacrificers, पुरो दधिरे (*puro dadhire*) place in front for the sake of happiness (सुम्नाय (*sumnāya*)): they set him in front of all rites; or else, पुरः (*puraḥ*) means "in front, in the eastern direction", and they hold him there in the form of the Āhavanīya. The second half of the ṛk is addressed directly (परोऽर्धर्चः प्रत्यक्षकृतः (*paro 'rdharcaḥ pratyakṣakṛtaḥ*)). Further, O Agni, श्रुत्कर्णं (*śrutkarṇaṃ*): one whose ear listens well to praises; सप्रथस्तमं (*saprathastamaṃ*): most renowned, or spread out on all sides; दैव्यं (*daivyaṃ*): connected with the gods as the bearer of oblations to them. You, so described, मानुषा युगा (*mānuṣā yugā*), the human pairs, the descendants of Manu, in the form of the sacrificer and his wife, praise गिरा (*girā*) with praise (the verb "praise" is to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावानं (*ṛtāvānaṃ*)—one who is truthful, or worthy of sacrifice
+- महिषं (*mahiṣaṃ*)—the worshipful
+- विश्वदर्शतं (*viśvadarśataṃ*)—one fit to be seen by all
+- अग्निं (*agniṃ*)—Agni
+- सुम्माय (*summāya*)—that there may be happiness for all
+- जनाः (*janāḥ*)—the ṛtvijs and sacrificers
+- पुरः (*puraḥ*)—at the beginning of all rites also
+
+### Printed p. 920
+- दधिरे (*dadhire*)—they establish [or: पुरः (*puraḥ*)—in the Āhavanīya fire that is in the eastern direction; दधिरे (*dadhire*)—they establish] (O Agni)
+- श्रुत्कर्णं (*śrutkarṇaṃ*)—one who listens with your ears to praises
+- सप्रथस्तमं (*saprathastamaṃ*)—the well renowned, or one who spreads everywhere
+- दैव्यं (*daivyaṃ*)—one connected with the gods, since he carries oblations to the gods
+- त्वा (*tvā*)—you
+- मानुषा (*mānuṣā*)—human
+- युगा (*yugā*)—the two, the sacrificer and his wife
+- गिरा (*girā*)—with words in the form of praise—they praise
+
+##### भावार्थ (Bhāvārtha)
+
+For the happiness of all, the ṛtvijs and sacrificers establish Agni, who is truthful or worthy of sacrifice, worshipful, and fit to be seen by all, at the beginning of all rites, in the Āhavanīya fire-pit in the eastern direction. O Agni, you who listen with your ears to praise, who are well renowned or who quickly pervade and spread, and who belong to the gods, are praised with hymns and the like by the human couple, the sacrificer and his wife.
+
+##### English translation
+Men for the sake of happiness place before them Agni, the speaker of truth, the mighty, the contemplator of all; the posterity of Manu in pairs (propitiate) with praises you, whose ears are open (to their praises), who are most renowned, and the (minister) of the gods.
+
+## Sūkta 141 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+The sage Śaunaka has praised this sūkta in this way in his work called Ṛgvidhāna:
+अग्ने अच्छा वदेत्येतद्धनकामः प्रयोजयेत् । नियतः सर्पिषा हुत्वा जपेदयुतशः पुनः ॥ ५० ॥ (*agne acchā vadetyetaddhanakāmaḥ prayojayet | niyataḥ sarpiṣā hutvā japedayutaśaḥ punaḥ ‖ 50 ‖*)
+खादिरीणां हि समिधां जुहुयाद्दशतीर्दश । दशकृत्वः सदारेण रायस्पोषेण पुष्यति ॥ ५१ ॥ (*khādirīṇāṃ hi samidhāṃ juhuyāddaśatīrdaśa | daśakṛtvaḥ sadāreṇa rāyaspoṣeṇa puṣyati ‖ 51 ‖*)
+१ ॥ बिल्वोदुंबरपालाशीस्तथा रौहितकीश्च याः । जुहुयाद्दनकामस्तु रायस्पोषेण पुष्यति ॥ ५२ ॥ (*1 ‖ bilvoduṃbarapālāśīstathā rauhitakīśca yāḥ | juhuyāddanakāmastu rāyaspoṣeṇa puṣyati ‖ 52 ‖*)
+
+### Printed p. 921
+२ ॥ वैभीदकेध्मो बैल्वकीर्जुहुयादर्धमासभुक् । द्विषद्द्वेषेण तस्यांते सूक्तमेतत्प्रयोजयेत् ॥ ५३ ॥ (*2 ‖ vaibhīdakedhmo bailvakīrjuhuyādardhamāsabhuk | dviṣaddveṣeṇa tasyāṃte sūktametatprayojayet ‖ 53 ‖*)
+द्विषंतं धनिनं हत्वा द्विषतो विंदते धनं । अथवा जप्यमेव स्याद्रायस्पोषधनार्थिः (*dviṣaṃtaṃ dhaninaṃ hatvā dviṣato viṃdate dhanaṃ | athavā japyameva syādrāyaspoṣadhanārthiḥ*) **NOTE**
+(Ṛgvidhāna, adhyāya 4, verses 51-54.)
+One who desires wealth should employ the mantras of this sūkta beginning "अग्ने अच्छा (*agne acchā*)", and, with a purified mind, offer homa in the fire and also mutter the sūkta ten thousand times. While performing the homa he should, together with his wife, offer a thousand khādira sticks. He should also offer homa with sticks of the bilva, udumbara, muttuga (palāśa) and other trees. If he offers homa thus, wealth and prosperity are obtained. For the removal of enemies who hate him, the practitioner should perform homa with sticks of the vaibhedaka tree and of the bilva tree for fifteen days, taking one meal a day. After the homa he should mutter this sūkta. If he does so, even if his enemy is wealthy, the enemy is destroyed and the practitioner obtains all his wealth; and so on.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्न इति षडृचं त्रयोदशं सूक्तं । तापसगुणविशिष्टस्याग्नेरार्षं वैश्वदेवमानुष्टुभं । तथा चानुक्रांतं । अग्नेऽच्छाग्निस्तापसो वैश्वदेवमानुष्टुभं हीति ॥
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+This sūkta beginning अग्न (*agna*) is the thirteenth sūkta, of six ṛks. Its seer is Agni endowed with the quality of austerity (tāpasa); its deity the Viśvedevas; its metre Anuṣṭubh. So the Anukramaṇī has it: अग्नेऽच्छाग्निस्तापसो वैश्वदेवमानुष्टुभं हीति (*agne 'cchāgnistāpaso vaiśvadevamānuṣṭubhaṃ hīti*). The viniyoga has been given already (गतो विनियोगः (*gato viniyogaḥ*)).
+
+##### Anuvāda
+
+This sūkta beginning "Agne" is the thirteenth sūkta in the eleventh anuvāka. It has six ṛks. The seer of this sūkta is Agni endowed with the quality of austerity; the deity is the Viśvedevas; the metre is Anuṣṭubh. In the Anukramaṇī it is said: अग्नेच्छाग्निस्तापसो वैश्वदेवमानुष्टुभं हि (*agnecchāgnistāpaso vaiśvadevamānuṣṭubhaṃ hi*). The use of the sūkta has been stated earlier.
+
+##### Particulars
+
+- Maṇḍala 10; Anuvāka 11; Sūkta 141
+- Aṣṭaka 8; Adhyāya 7; Varga 29
+- Number of ṛks in the sūkta: 6
+- Ṛṣi: Agni Tāpasa
+- Devatā: Viśvedevas
+- Chandas: Anuṣṭubh
+
 ---
 
-**Progress note:** Done through printed p. 915. pp. 910-915 (batch API)
+**Progress note:** Done through printed p. 921. pp. 916-921 (batch API)
