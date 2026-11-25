@@ -24030,6 +24030,140 @@ Before creation only the non-existent was there. These Ṛṣis were in that for
 
 They wove the sacrificial thread that is of the nature of the universe; they became the cause of the extension of the world: thus the power of the Ṛṣis is praised. For that very reason they are also said to be of the nature of Brahman, the root of creation.
 
+### Printed p. 876
+
+प्राणा वा ऋषयः प्रथमजास्तद्धि ब्रह्म प्रथमजं (*prāṇā vā ṛṣayaḥ prathamajāstaddhi brahma prathamajaṃ*) (Śa. Brā. 8-6-15)
+
+Thus the identity of the Ṛṣis with Brahman is shown. If this is one kind of explanation, another explanation is possible as against it. As stated in the Vācaspatya, यमति ज्ञानेन संसारहारं (*yamati jñānena saṃsārahāraṃ*): because one crosses to the farther shore of worldly existence by means of knowledge, the word ṛṣi, formed from the root ऋष् (*ṛṣ*), comes to mean the knowers. Thus according to one explanation the Ṛṣis are the root cause of the creation of the world, and according to the other they are the cause of the cessation of worldly existence. That Agastya possessed both these powers is described in the Ṛk 1-179-6. In the words उभौ वर्णौ पुपोष (*ubhau varṇau pupoṣa*) are described both the power of creation, obtained through the fulfilment of desire, and the power that is the means of cessation of worldly existence, obtained through spiritual knowledge.
+
+The explanation given above tells that the word ṛṣi is formed from the root meaning "to go", ऋषी (यष्) गत् (*ṛṣī (yaṣ) gat*). Moreover, the scholar Monier Williams, in his Sanskrit-English Dictionary, states that the word ṛṣi can also be formed from the root दृश् (*dṛś*) (to see), and, giving the meaning of the word ऋषिकृत् (*ṛṣikṛt*), shows two authorities and gives the meaning "Causing to see, enlightening". Of these examples, first:
+
+इमामग्ने शरणिं मीमृषो न इममध्वानं यमगाम दूरात् । आपिः पिता प्रमतिः सोम्यानां भृमिरस्यृषिकृष्णर्त्यानां ॥ (*imāmagne śaraṇiṃ mīmṛṣo na imamadhvānaṃ yamagāma dūrāt | āpiḥ pitā pramatiḥ somyānāṃ bhṛmirasyṛṣikṛṣṇartyānāṃ ‖*) (Ṛ. Saṃ. 1-31-16)
+
+In this Ṛk the word ऋषिकृत् (*ṛṣikṛt*) is an epithet of Agni. Sāyaṇa has given this word the meaning "maker of vision". Likewise:
+
+ऋषिमना य ऋषिकृत्स्वर्षाः सहस्रणीथः पदवीः कवीनां । तृतीयं धाम महिषः सिषासन्मो निराजमनु राजति ष्टुप् ॥ (*ṛṣimanā ya ṛṣikṛtsvarṣāḥ sahasraṇīthaḥ padavīḥ kavīnāṃ | tṛtīyaṃ dhāma mahiṣaḥ siṣāsanmo nirājamanu rājati ṣṭup ‖*) (Ṛ. Saṃ. 9-96-18)
+
+In this Ṛk also the word ऋषिमनाः (*ṛṣimanāḥ*) is explained as सर्वदर्शनशीलमनस्यः (*sarvadarśanaśīlamanasyaḥ*) and ऋषिकृत् (*ṛṣikṛt*) as सर्वस्य दर्शनकर्ता (*sarvasya darśanakartā*). Even in worldly usage the word darśana, a synonym for knowledge of the truth, conveys this sense.
+
+### Printed p. 877
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मा॑द्य॒ज्ञा त्स॑र्व॒दुतः॒ संभृ॑तं पृषदा॒ज्यं ।  
+> प॒शून्तांश्च॑क्रे वाय॒व्या॑नार॒ण्यान्ना॒ म्याश्च॒ ये ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्यात् । यज्ञात् । सर्वहुतः । संभृतं । पृषत् अज्यं ।  
+> पशून् । तान् । चक्रे । नायव्यान् । अरण्यान् । ग्राम्याः च । ये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सर्वहुतः । सर्वात्मकः पुरुषो यस्मिन्यज्ञे हूयते सोऽयुं सर्वहुत् ।
+> तादृशात्तस्यात्पूर्वोक्तान्मानसाद्यज्ञात्पृषदाज्यं दधिमिश्रमाज्यं संभृतं !
+> संपादितं । दधि चाज्यं चेत्येवमादिभोग्यजातं सर्वं संपादितमित्यर्थः । तथा
+> वायव्यान्वायुदेवताकालोकप्रसिद्धानारण्यान्सशूंश्चक्रे । उत्पादितवान्
+> आरण्या हरिणादयः । तथा ये च ग्राम्या गवाश्वादयः तानपि चक्रे । पशूनानुंतरिक्षद्वारा वायुदेवत्वत्वं यजुब्र्राह्मणे समाम्नायते । वायवःस्थेत्साह
+> वायुर्वा अंतरिक्षस्साध्यक्षाः । अंतरिक्षदेवत्याः खलु वै पशवः । वायव एवैनान्वरिददाति । तै. ब्रा. ३-२-१-३ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains सर्वहुतः (*sarvahutaḥ*) as that sacrifice in which the Puruṣa, who is the self of all, is offered. From that mental sacrifice spoken of before, पृषदाज्यं (*pṛṣadājyaṃ*), ghee mixed with curds, was brought into being; that is, all enjoyable things beginning with curds and ghee were produced. Likewise the Puruṣa made the animals of which Vāyu is the deity, known in the world as the wild ones, the deer and the like, and he made also those that are tame, the cows, horses and the rest. That animals have Vāyu as their deity through the atmosphere is taught in the Yajur Brāhmaṇa: the wind is the atmosphere; the animals have the atmosphere as their deity, अंतरिक्षदेवत्याः खलु वै पशवः (*aṃtarikṣadevatyāḥ khalu vai paśavaḥ*); वायव एवैनान्वरिददाति (*vāyava evainānvaridadāti*) (Tai. Brā. 3-2-1-3). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सर्वहुतः (*sarvahutaḥ*)—having as oblation the Virāṭ Puruṣa, who is of the form of the universe
+- तस्मात् यज्ञात् (*tasmāt yajñāt*)—from that sacrifice
+- पृषदाज्यं (*pṛṣadājyaṃ*)—ghee mixed with curds (curds and ghee)
+- संभृतं (*saṃbhṛtaṃ*)—was produced
+- वायन्यान् (*vāyanyān*)—those, birds and the like, that have Vāyu as their deity
+- तान् (*tān*)—them
+- चक्रे (*cakre*)—he made
+- अरण्यान् (*araṇyān*)—and the beasts and the like that dwell in the forest
+- ये च ग्राम्याः (*ye ca grāmyāḥ*)—and the animals that dwell in the village, cows, horses and the like; he brought them into being
+
+##### भावार्थ (Bhāvārtha)
+
+From that sacrifice, which has as its oblation the Virāṭ Puruṣa who is of the form of the universe, ghee mixed with curds was produced. Afterwards the Puruṣa brought into being the birds and the like, the beasts of the forest, and the village-dwelling cows, horses and the like.
+
+### Printed p. 878
+
+##### English translation
+From that victim, in whom the universal oblation was offered, the mixture of curds and butter was produced, (then) he made those animals over whom Vayu presides, those that are wild, and those that are tame.
+
+##### विशेषविषयगळु (Special Topics)
+
+(1) The universal sacrifice (सर्वमेध (*sarvamedha*)), (2) the greatness of ghee, and (3) the birth of animals and the rest are told here. These matters will be explained in the present context.
+
+The account of the things produced from the sacrifice in which the Puruṣa, the self of all, was offered as the oblation also shows the sacrifice to be the root of everything, which is described by the word सर्वहुत् (*sarvahut*). That which is the root of the origin of the whole universe also devours the whole universe; this was described before in the words अद्यतेऽत्ति च भूतानि (*adyate 'tti ca bhūtāni*). This is also known as the सर्वमेध (*sarvamedha*). The sacrificial procedure that describes the सर्वमेध (*sarvamedha*) is as follows. A spiritual principle is also contained in this description. It is well known as a sacrificial act lasting ten nights. (Although in the word सर्वहुतः (*sarvahutaḥ*) the Puruṣa sacrifice is meant here, the सर्वमेध (*sarvamedha*) also teaches the same principle.)
+
+ब्रह्म वै स्वयंभु तपोऽतप्यत । तदैक्षत न वै तपस्यानंत्यमस्ति हंताहं भूतेष्वात्मानं जुहवानि भूतानि चात्मनीति तत्सर्वेषु भूतेष्वात्मानग्ं हुत्वा भूतानि चात्मनि सर्वेषां भूतानाग् श्रैष्ठ्यग् स्वाराज्यमाधिपत्यं पर्येत्तथैवैतद्यजमानः सर्वमेधे सर्वान् मेधान् हुत्वा सर्वाणि भूतानि श्रैष्ठ्यग् स्वाराज्यमाधिपत्यं पर्येति ॥ (*brahma vai svayaṃbhu tapo 'tapyata | tadaikṣata na vai tapasyānaṃtyamasti haṃtāhaṃ bhūteṣvātmānaṃ juhavāni bhūtāni cātmanīti tatsarveṣu bhūteṣvātmānagṃ hutvā bhūtāni cātmani sarveṣāṃ bhūtānāg śraiṣṭhyag svārājyamādhipatyaṃ paryettathaivaitadyajamānaḥ sarvamedhe sarvān medhān hutvā sarvāṇi bhūtāni śraiṣṭhyag svārājyamādhipatyaṃ paryeti ‖*) (Śa. Cā. 13-7-1-1) **NOTE**
+
+The self-existent Supreme Brahman practised austerity. By this austerity alone continuing existence and growth are not possible. Therefore he resolved to perform a sacrifice of mutual oblation: "I shall offer myself as an oblation in all beings, and I shall offer all beings in myself." In this way, by the performance of the sacrifice of the nature of a resolve, he obtained the self-rule and the lordship of all the worlds.
+
+तेन हैतेन विश्वकर्मा भौवन ईजे । तेनेष्टात्यतिष्ठत्सर्वाणि भूतानीदग्ं सर्वमभवदतितिष्ठति सर्वाणि भूतानीदग्ं सर्वं भवति य एवं विद्वान्सर्वमेधेन यजते यो वैतदेवं वेद ॥ (*tena haitena viśvakarmā bhauvana īje | teneṣṭātyatiṣṭhatsarvāṇi bhūtānīdagṃ sarvamabhavadatitiṣṭhati sarvāṇi bhūtānīdagṃ sarvaṃ bhavati ya evaṃ vidvānsarvamedhena yajate yo vaitadevaṃ veda ‖*) (Śa. Cā. 13-7-194) **NOTE**
+
+### Printed p. 879
+
+Viśvakarman Bhauvana (Puruṣa, Prajāpati, Viśvakarman and Hiraṇyagarbha are all words that teach one and the same principle) performed this सर्वमेध (*sarvamedha*). As its fruit he brought all the beings of the universe under his rule, and, himself all-pervading, obtained every kind of lordship. It is praised that the sacrificer obtains the same rank if he knows this principle and performs it. If it is asked what the nature of the सर्वमेध (*sarvamedha*) performed by Viśvakarman Bhauvana was, its description is as follows.
+
+Although the ritual procedures of the Puruṣa sacrifice and the सर्वमेध (*sarvamedha*) are different, the principle intended by the word सर्वहुतः (*sarvahutaḥ*) is one; therefore, by describing those procedures, the purport of the sentence अद्यतेऽत्तिच भूतानि (*adyate 'ttica bhūtāni*) is conveyed, and the matter of the whole world being offered as an oblation to Viśvakarman and he becoming the inner controller of all is told here. And the nature of the Puruṣa sacrifice will be described in the Special Topics of the Ṛk.
+
+The nature of the सर्वमेध (*sarvamedha*) performed by Viśvakarman Bhauvana and its fruits: this description is in the form of injunction.
+
+स वा एष सर्वमेधो दशरात्रो यज्ञक्रतुर्भवति । दशाक्षरा विराद्विराडु कृत्स्नमन्नं कृत्स्नस्यॆवान्याद्यस्यावरुद्धै तस्मिन्नग्निं परार्ध्यं चिनोति परमो वा एष यज्ञक्रतूनां यत्सर्वमेधः परमेणैवैनं परमतां गमयति । (*sa vā eṣa sarvamedho daśarātro yajñakraturbhavati | daśākṣarā virādvirāḍu kṛtsnamannaṃ kṛtsnasyèvānyādyasyāvaruddhai tasminnagniṃ parārdhyaṃ cinoti paramo vā eṣa yajñakratūnāṃ yatsarvamedhaḥ parameṇaivainaṃ paramatāṃ gamayati |*) (Pa. Bra. 13-7-1-2) **NOTE**
+
+If every kind of wealth of food is to be obtained, the sacrifice of the form of the सर्वमेध (*sarvamedha*) must be performed. Food is in the form of the Virāṭ; the Virāṭ metre has ten syllables. Its favour is possible only through the सर्वमेध (*sarvamedha*), which lasts ten nights. The सर्वमेध (*sarvamedha*) is the best of all other sacrificial acts. Therefore this sacrifice should be performed after constructing the fire-altar, the best of all. As the fruit of performing this same sacrifice Viśvakarman Bhauvana obtained the highest station; so it is said.
+
+तस्याग्निष्टु दग्निष्टोमः प्रथममहर्भवति। अग्निर्वा अग्निष्टु दग्निष्टोमोऽग्निमुखा उ वै सर्वे देवाः सर्वेषां देवानामाप्तै तस्याग्नेया ग्रहा भवंत्याग्नेय्यः पुरोरुचः सर्वमाग्नेयमासदिति । (*tasyāgniṣṭu dagniṣṭomaḥ prathamamaharbhavati| agnirvā agniṣṭu dagniṣṭomo 'gnimukhā u vai sarve devāḥ sarveṣāṃ devānāmāptai tasyāgneyā grahā bhavaṃtyāgneyyaḥ purorucaḥ sarvamāgneyamāsaditi |*) (Śa. Brā. 13-7-13) **NOTE**
+
+The first day is the Agniṣṭoma, which praises Agni. The Agniṣṭut Agniṣṭoma is Agni, the all-pervading. All the gods depend on Agni for their food. Therefore the favour of all the gods is obtained by this rite.
+
+### Printed p. 880
+
+इंद्रस्तदुक्थो द्वितीयमहर्भवति । इंद्रो वै सर्वे दॆवाः सर्वेषां देवानामाप्तैश्च तस्यैंद्रा ग्रहा भवंति ॥ (*iṃdrastaduktho dvitīyamaharbhavati | iṃdro vai sarve dèvāḥ sarveṣāṃ devānāmāptaiśca tasyaiṃdrā grahā bhavaṃti ‖*) (Śa. Brā. 13-7-1-4)
+
+The rite of the second day is the Ukthya that praises Indra. This is called the Indra-stuti Uktha. Since Indra is the embodiment of the union of all the gods, if he is worshipped the favour of all the gods is obtained.
+
+सूर‍्यस्तुदुक्थो द्वितीयमहर्भवति । सूरो वै सर्वे देवाः सर्वेषां देवानामाप्तै सौर्या ग्रहा भवंति ॥ (*sūryastuduktho dvitīyamaharbhavati | sūro vai sarve devāḥ sarveṣāṃ devānāmāptai sauryā grahā bhavaṃti ‖*) (Śa. Brā. 13.1-5)
+
+The Sūrya-stuti Uktha, which praises Sūrya, is the ritual procedure of the third day. Since all the gods are contained in Sūrya, as the fruit of this rite the favour of all the gods is obtained in full.
+
+वैश्वदेवश्चतुर्थमहर्भवति । विश्वे वै सर्वॆ देवाः सर्वेषां देवानामाप्तै वैश्वदेवा ग्रहा भवंति ॥ (*vaiśvadevaścaturthamaharbhavati | viśve vai sarvè devāḥ sarveṣāṃ devānāmāptai vaiśvadevā grahā bhavaṃti ‖*) (Śa. Brā. 13.7:1-6)
+
+On the fourth day the Vaiśvadeva graha is appointed for the Viśvedevas. All the gods are contained in them. Therefore, by their praise the favour of all the gods is obtained in full.
+
+अश्वमेधिकं मध्यमं पंचममहर्भवति । तस्मिन्नश्वं मेध्यमालभतेऽश्वमेधस्यॆवाप्तैः ॥ (*aśvamedhikaṃ madhyamaṃ paṃcamamaharbhavati | tasminnaśvaṃ medhyamālabhate 'śvamedhasyèvāptaiḥ ‖*) (Śa. Brā. 13-7-1-7)
+
+The fifth day is connected with the rites of the Aśvamedha. (The Āditya, who is of the form of the twenty-one, is the Aśvamedha. Śa. Brā. 13-5-1.5.) One should obtain a horse fit for the worship of this Āditya of the form of the Aśvamedha, or of the Aśvamedha that is of the form of Āditya, perform these acts, and win the divine favour of the Āditya who is of the form of the Aśvamedha.
+
+पौरुषमेधिकं मध्यमगं षष्ठमहर्भवति । तस्मिन्मेध्यान्पुरुषानालभते पुरुषमेध्यस्यॆवाप्तैः । (*pauruṣamedhikaṃ madhyamagaṃ ṣaṣṭhamaharbhavati | tasminmedhyānpuruṣānālabhate puruṣamedhyasyèvāptaiḥ |*) (Śa. Brā. 13-7-1-8)
+
+On the sixth day, which is of the nature of the Puruṣa sacrifice, one should obtain the men prescribed for this sacrifice and, by the rite performed with their help, obtain the desired end.
+
+### Printed p. 881
+
+अप्पोर्यामः सप्तममहर्भवति । सर्वेषां यज्ञक्रतूनामाप्त्यै तस्मिन्सर्वान्मेध्यानालभते यच्च प्राणि यच्छा प्राणं वसा वपावतां जुहोति त्वच उत्कर्तनवपाकानाग्ं संव्रश्चमोषधिवनस्पतीनां प्रकिरंति शुष्काणां चाद्राणां चान्नमन्नं जुहोत्यन्नस्यान्नसाप्त्यै सर्वं जुहोति सर्वस्मै जुहोति सर्वस्याप्त्यै सर्वस्यावरुद्ध्यै प्रातःसवनॆः हुतासु वपास्वेवमेव तृतीयसवने हुतेषु हविषु । (*apporyāmaḥ saptamamaharbhavati | sarveṣāṃ yajñakratūnāmāptyai tasminsarvānmedhyānālabhate yacca prāṇi yacchā prāṇaṃ vasā vapāvatāṃ juhoti tvaca utkartanavapākānāgṃ saṃvraścamoṣadhivanaspatīnāṃ prakiraṃti śuṣkāṇāṃ cādrāṇāṃ cānnamannaṃ juhotyannasyānnasāptyai sarvaṃ juhoti sarvasmai juhoti sarvasyāptyai sarvasyāvaruddhyai prātaḥsavanèḥ hutāsu vapāsvevameva tṛtīyasavane huteṣu haviṣu |*) (5. Ca. 13-7-9) **NOTE**
+
+The seventh day is called Aptoryāma. It is a means of accomplishing every kind of Soma sacrifice. One should obtain all the offerings, living and non-living, connected with this sacrifice and duly offer their vaṣaṭ. By offering juicy and dry herbs and the parts of trees, one obtains the means of every kind of wealth of food.
+
+त्रिणवमष्टममहर्भवति । वज्रो वै त्रिणवो वज्रेण खलु वै क्षत्रग्ं स्पृतं तद्वज्रेणैव क्षत्रग्ं स्पृणोति ॥ (*triṇavamaṣṭamamaharbhavati | vajro vai triṇavo vajreṇa khalu vai kṣatragṃ spṛtaṃ tadvajreṇaiva kṣatragṃ spṛṇoti ‖*) (Śa. Brā. 13-7-1-10)
+
+The eighth is the day of the Triṇava. The Triṇava (Soma) is the thunderbolt weapon. Only with the help of the thunderbolt weapon is the gain of kṣatra possible, and lordship also.
+
+त्रयस्त्रिगंशं नवममहर्भवति । प्रतिष्ठा वै त्रयस्त्रिगंशः प्रतिष्ठिश्यै ॥ (*trayastrigaṃśaṃ navamamaharbhavati | pratiṣṭhā vai trayastrigaṃśaḥ pratiṣṭhiśyai ‖*) (Śa. Brā. 13-7-1-11)
+
+The Trayastriṃśa stoma is the support of everything. Therefore on the ninth day, which is of the Trayastriṃśa form and a means of establishment, the work should be performed duly.
+
+विश्वजित्सर्वपृष्टोऽतिरात्रो दशममहर्भवति । सर्वं वै विश्वजित्सर्वपृष्टोऽतिरात्रः सर्वग्० सर्वमेधः सर्वस्याप्तै सर्वस्यावरुद्धॆति ॥ (*viśvajitsarvapṛṣṭo 'tirātro daśamamaharbhavati | sarvaṃ vai viśvajitsarvapṛṣṭo 'tirātraḥ sarvag0 sarvamedhaḥ sarvasyāptai sarvasyāvaruddhèti ‖*) (Śa. Brā. 13-7-1-12)
+
+The tenth day is called the Viśvajit Atirātra, containing all the Pṛṣṭha praises. This Viśvajit Atirātra is all-pervading. Therefore one who desires to obtain everything should perform this rite.
+
+तेन हैतेन विश्वकर्मा भावन ईजे (*tena haitena viśvakarmā bhāvana īje*) (Śa. Brā. 13-7-1-14)
+
 ---
 
-**Progress note:** Done through printed p. 875. pp. 867-875: Sūkta 90 Ṛk 7 Special Topics (Sādhyas, Aṅgirases)
+**Progress note:** Done through printed p. 881. pp. 876-881: Sūkta 90 Ṛk 8, Special Topics (Sarvamedha)
