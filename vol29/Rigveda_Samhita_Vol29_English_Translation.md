@@ -28609,6 +28609,332 @@ These stones, having ten reins, swiftly moving, their delightful whirling goes r
 > ते सो॒मादो॒ हरी॒ इंद्र॑स्य निंसतें॒शुं दु॒हंतो॒ ॒॑ ॑
 > अभ्या॑सते॒ गवि॑ ।
 
+### Printed p. 1017
+
+> तेभिर्दुर्ग्धं पपिवान्त्सोम्यं मध्विंद्रो वर्धते प्रथते
+> वृषायते ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । सोमऽदः । हरी इति । इंद्रस्य । निंसते । अंशुं । दुहंतः । अधि । आसते । गवि ।  
+> तेभिः । दुग्धं । पपिवान् । सोम्यं । मधु । इंद्रः । वर्धते । प्रथते । वृषयते॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते सोमादः सोमस्यात्तारस्ते प्रकृता एते ग्रावाण इंद्रस्य हरी अश्वा
+> निंसते । निक्षंति । चुंबंति । प्राप्नुवंतीत्यर्थः । किंच गव्यधिषवणचर्मण्यंशु सोमं
+> दुहंत आसते । किंचेंद्रस्तेभिस्तैर्दुग्धं सोम्यं सोममयं मध्वमृतं
+> पपिवान्पीतवान्वर्धते । वृद्धशरीरो भवति । प्रथते । विस्तीर्णशरीरश्च भवति ।
+> वृषायते वृषेवाचरति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that these stones, the eaters of Soma (सोमादः (*somādaḥ*)), reach Indra's two bay horses: निंसते (*niṃsate*) is explained as they kiss, they touch, they attain. Moreover, they sit milking out the Soma on the cowhide that serves as the pressing board. Indra, having drunk the Soma-made ambrosia milked out by them, grows, that is, his body becomes large; he spreads, that is, his body becomes extended; he acts like a bull.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमादः (*somādaḥ*)—the Soma-eating
+- ते (*te*)—stones (pressing stones)
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- हरी (*harī*)—the horses
+- निंसते (*niṃsate*)—approach
+- गवि अधि (*gavi adhi*)—upon the cowhide that serves as the base for pressing
+- अंशुं (*aṃśuṃ*)—the Soma
+- दुहंतः (*duhaṃtaḥ*)—pressing out
+- आसते (*āsate*)—are placed
+- तेभिः (*tebhiḥ*)—by these
+- दुग्धं (*dugdhaṃ*)—pressed out
+- सोम्यं (*somyaṃ*)—of the nature of the Soma juice
+- मधु (*madhu*)—the ambrosia
+- पपिवान् (*papivān*)—having drunk
+- इंद्रः (*iṃdraḥ*)—Indra
+- वर्धते (*vardhate*)—becomes strong
+- प्रथते (*prathate*)—grows, expanded
+- वृषायते (*vṛṣāyate*)—becomes endowed with vigour
+
+##### भावार्थ (Bhāvārtha)
+
+The stones that eat Soma approach Indra's horses. They are placed to press out the Soma on the cowhide that serves as the base for pressing. Indra, having drunk the ambrosia of the nature of Soma juice pressed out by them, becomes strong, grows expanded, and becomes endowed with vigour.
+
+##### English translation
+These devourers of Soma kiss Indra's horses, milking forth the juice they repose upon the cow, Indra having quaffed the sweet Soma juice milked fotrh by them increases, waxes broad, grows vigorous. **NOTE**
+
+### Printed p. 1018
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ वो अं॒शुर्न किला॑ रिषाथ॒नेळा॑वंतः॒ सद॒मित्स्थ॒नाशि॑ताः ।  
+> रै॒व॒त्येव॒ मह॑सा॒ चार॑वः स्थन॒यस्य॑ ग्रावाणो॒ अजु॑षध्वमध्व॒रं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । वः । अंशुः । न । किल । रिषाथन । इळावंतः । सदं । इत् । स्थन । आशिताः ।  
+> रैवत्या इव । महसा । चारवः । स्थन । यस्य । ग्रावाणः । अजुषध्वं । अध्वरं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंशुः सोमो वो युष्माकं वृषा यज्ञे वर्षिता भविष्यति । यूयमपि
+> न रिषाथन किल । न रिष्यथ । न शीर्णा भवथ किल । किंचेळावंतोऽन्नवंत इव
+> यूयं सदमित् सदैवाशिता भोजिताः स्थन । भवथ । किंच रैवत्येव यथा
+> रेवंतस्तेजसा युक्ता भवंति तद्वनहसा तेजसा युक्ताश्चारवः कल्याणाः स्थन । भवथ ।
+> हे ग्रावाणः यूयं यस्य यजमानस्याध्वरं यज्ञमजुषध्वं । असेवध्वं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the Soma (अंशुः (*aṃśuḥ*)) will be the showerer for you in the sacrifice. You also will not be harmed, will not be worn down. Moreover, as though endowed with food, you are always fed. Just as the wealthy are endowed with splendour, so you, endowed with splendour, are fair, auspicious. O stones, you are so in the sacrifice of that sacrificer whose sacrifice you have served.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—for you
+- अंशुः (*aṃśuḥ*)—the Soma
+- वृषा (*vṛṣā*)—becomes the showerer (in the sacrifice) (pours out the juice)
+- न रिषाधन किल (*na riṣādhana kila*)—you also will not be harmed
+- इळावंतः (*iḷāvaṃtaḥ*)—you who have food
+- सदमित् (*sadamit*)—always
+- अशिताः (*aśitāḥ*)—having been fed
+- स्थन (*sthana*)—you are
+- ग्रावाणः (*grāvāṇaḥ*)—O stones
+- यस्य (*yasya*)—of whichever sacrificer
+- अध्वरं (*adhvaraṃ*)—the sacrifice
+- अजुषध्वं (*ajuṣadhvaṃ*)—you serve, there
+- रैवत्येव (*raivatyeva*)—like wealthy men endowed with splendour
+- महसा (*mahasā*)—endowed with brightness
+- चारवः (*cāravaḥ*)—auspicious
+- स्थन (*sthana*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O stones, the Soma pressed by you pours out its juice for you in the sacrifice. You also will not be harmed. You who have food are always fed. O stones, in the sacrifice of whichever sacrificer you serve, you are bright and auspicious, like wealthy men endowed with splendour.
+
+##### English translation
+The Soma is your showerer (at the sacrifice); you are unharmed, (like those) abounding in food, you are constantly feeding; like the wealthy (possessed) of splendour, you, O stones, are beautiful (at the sacrifice of him) whose sacrifice you delighted in
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तृ॒दि॒ला अतृ॑दिलासो॒ अद्र॑योश्रम॒णा अशृ॑थिता॒ अमृ॑त्यवः ।  
+> अ॒ना॒तु॒रा अ॒जराः॒ स्थाम॑विष्णवः सुपी॒वसो॒ अत्य॑षिता॒ अतृ॑ष्णजः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तृदिलाः । अतृदिलासः । अद्रयः । आश्रमणाः । अशृथिताः । अमृत्यवः ।  
+> अनातुराः । अजराः । स्थ । अमविष्णवः । सुपीवसः । अतृषिताः । अतृष्णजः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्रमणाः श्रमवर्जिता अशृथिता अन्न्यैरशिथिलीकृता अमृत्यवोऽमागिता
+> अनातुरा आरोगा अजरा जरारहिताः स्थ । भवथ ! किंचामविष्णव उत्कृष्टपणावक्षेपणगत्युपेता हे ग्रावाणः तृदिला अन्न्येषां भेदका अतृदिलासः स्वयमन्येनाभिन्नाः सुपीवसः सुबला अतृषितास्त्रृष्णारहिता अतृष्णजो निःस्पृहा भवथ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: you are free from fatigue, not loosened (अशृथिता (*aśṛthitā*)) by others, deathless, free from disease, free from old age. Moreover, you have अमविष्णवः (*amaviṣṇavaḥ*), a motion of excellent hurling up and down. O stones, you are तृदिला (*tṛdilā*), splitters of others, and अतृदिलासः (*atṛdilāsaḥ*), yourselves not split by others; you are very strong, free from thirst, and free from desire. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रयः (*adrayaḥ*)—O stones, you
+- अश्रमणाः (*aśramaṇāḥ*)—without fatigue
+- अशृथिताः (*aśṛthitāḥ*)—not harmed by others
+- अमृत्यर्वः (*amṛtyarvaḥ*)—deathless
+- अनातुराः (*anāturāḥ*)—free from disease
+- अजराः (*ajarāḥ*)—free from old age
+- स्थ (*stha*)—you are
+- अमविष्णवः (*amaviṣṇavaḥ*)—having rising and falling
+- तृदिलाः (*tṛdilāḥ*)—splitters of the Soma
+- अतृदिलासः (*atṛdilāsaḥ*)—not subject to the blows of others
+- सुपीवसः (*supīvasaḥ*)—having exceeding strength
+- अतृषिताः (*atṛṣitāḥ*)—free from thirst
+- अतृष्णर्ज (*atṛṣṇarja*)—free from desire
+
+##### भावार्थ (Bhāvārtha)
+
+O stones, you are without fatigue, not harmed by others, deathless, free from disease, free from old age, having rising and falling (rising up and coming down)
+
+### Printed p. 1021
+
+splitters of the Soma, not subject to the blows of others, having exceeding strength, free from thirst and free from desire.
+
+##### English translation
+Splitting, but unsplit, you, O stones, are untiring, unrelaxing, immortal, free from disease, undecaying, rising and falling, powerful, unthirsting, not generating thirst.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध्रु॒वा ए॒व वः॑ पि॒तरो॑ यु॒गेयु॑गे॒ क्षेम॑कामासः॒ सद॑सो॒  ॑
+> न युंजते ।  
+> अ॒जु॒र्यासो॑ हरि॒षाचो॑ ह॒रिद्र॑व॒ आ द्यां रवे॑ण पृथि॒वीम॑शुश्रवुः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ध्रुवाः । एव । वः । पितरः । युगेऽयुगे । क्षेमकामासः । सदसः । न । युंजते ।  
+> अजुर्यासः । हरिऽसाचः । हरिद्रवः ' आ । द्यां । रवेण । पृथिवीं । अशुश्रवुः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ग्रावाणः युगेयुगे सर्वॆषु युगेषु ध्रुवा एव निश्चला एव वो
+> युष्माकं पितरः पितृभूताः पर्वताः क्षेमकामासः क्षेमकामाः सदसो न
+> युंजते । सदांस्यात्मना न संयोजयंति । अजुर्यासो जरारहिता हरिषाचः
+> सोमस्य संभक्तारो हरिद्रवः सोमसंसर्गाद्धरितवर्णा द्यां दिवं पृथिवीं च
+> रवेणाभिषवशब्देनाशुश्रवुः । श्रावयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O stones, in every age your fathers, the mountains, are firm, immovable, and desirous of security; they do not join together with assemblies (सदसो (*sadaso*)), that is, they do not connect them with themselves. They (the stones) are free from decay, sharers of Soma (हरिषाचः (*hariṣācaḥ*)), green in colour through contact with Soma, and with the sound of pressing they make heaven and earth hear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O stones,) वः (*vaḥ*)—your
+- पितरः (*pitaraḥ*)—the mountains, that are your fathers
+- युगे युगे (*yuge yuge*)—though many ages pass
+- ध्रुवा एव (*dhruvā eva*)—are immovable and firm
+- क्षेमकामासः (*kṣemakāmāsaḥ*)—desiring a good state
+- सदसः (*sadasaḥ*)—with the sacrificial assemblies
+- न युंजते (*na yuṃjate*)—do not enter into connection
+- अजुर्यासः (*ajuryāsaḥ*)—free from decay
+- हरिषाचः (*hariṣācaḥ*)—having Soma
+- हरिद्रवः (*haridravaḥ*)—of green colour
+- रवेण (*raveṇa*)—with their sound
+- द्यां (*dyāṃ*)—heaven
+- पृथिवीं (*pṛthivīṃ*)—and earth
+- आ अशुश्रवुः (*ā aśuśravuḥ*)—fill (they make heaven and earth all hear their sound)
+
+##### भावार्थ (Bhāvārtha)
+
+O stones, your fathers, the mountains, though many ages pass, are immovable, steadfast, firm of body and desirous of a good state, yet do not enter into connection with the sacrificial assemblies. These stones are free from decay, have Soma, are of green colour, and fill heaven and earth with their sound.
+
+##### English translation
+Your progenitors (the mountains), stable from age to age, desirous of repose, seek not to mix with (religious) assemblies; exempt from decay, enjoying the Soma, flowing green (with Soma), they made heaven and earth resound with their clamour.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदिद्व॑दं॒त्यद्र॑यो वि॒मोच॑ने॒ याम॑न्नंज॒स्पा इ॑व॒ घेदु॑प॒ब्बिभिः॑ ।  
+> वपं॑तो॒ बीज॑मिव धान्या॒कृतः॑ पृं॒चंति॒ सोमं॒ न मि॑नंति॒  ॑
+> बप्सतः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इति । वदंति । अद्रयः । विमोचने । यामन् । अंजःसाः इव । घ । इत् ।  
+> उपब्बिभिः ।  
+> वपंतः । बीजं इव । धान्याकृतः । पृंचंति । सोमं । न । मिनंति । बप्सतः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्रय आदरणीया ग्रावाणो यामन् यामनि गमनेंजस्पाः ।
+> अंजसा पांति रक्षंतीत्यंजस्पाः । तेषां रथानामिवोपब्धिभिस्तदित्तदेवाभिषवकर्म-
+
+### Printed p. 1022
+
+> विमोचने फेत् तत्सोमरसविमोचनवेलायामपि वदंति । प्रकाशयंति । किंच
+> बप्सतः सोमं भक्षयंतो ग्रावाणो वपंतो धान्याकृतः कृषीवला बीजमिव
+> यथा पृंचंति तद्वत्सोमं पृंचंति । संपर्चयंतीत्यर्थः । नैनं मिनंति ।
+> न हिंसंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the honoured stones in the going (यामन् (*yāman*)) of chariots, the swift protectors (añjaspāḥ, those that protect swiftly), are as chariots with their sounds; in the same way the stones proclaim their pressing work at the time of the release of the Soma juice. Moreover, the stones, eating the Soma, mix the Soma as cultivators sow seed, and they do not injure it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यामन् (*yāman*)—at the time of moving
+- उपब्बिभिः (*upabbibhiḥ*)—with their sounds
+- अंजस्पा इव (*aṃjaspā iva*)—as chariots make known their movement
+- अद्रयः (*adrayaḥ*)—the stones that press the Soma
+- विमोचने फेत् (*vimocane phet*)—at the time when the Soma juice pours out
+- तदित् (*tadit*)—their pressing work
+- वदंति (*vadaṃti*)—make known
+- वपंतः (*vapaṃtaḥ*)—sowing the seed
+- धान्याकृतः (*dhānyākṛtaḥ*)—the farmers
+- बीजमिव (*bījamiva*)—as they hold the seed in the fist
+- बप्सतः (*bapsataḥ*)—the stones that hold the Soma
+- सोमं (*somaṃ*)—the Soma
+- पृंचंति (*pṛṃcaṃti*)—swallow
+- न मिनंति (*na minaṃti*)—do not injure it
+
+##### भावार्थ (Bhāvārtha)
+
+As chariots at the time of moving make known their movement by their sounds, so the stones that press the Soma make known the pressing work by their sound at the time when the Soma juice pours out. As farmers who sow seed hold the seed in the fist, so the stones that hold the Soma swallow the Soma. They do not injure it.
+
+##### English translation
+The stones proclaim it with their clamour at the issue of the Soma-juice, like the quick-protecting (chariots) on the road; like cultivators sowing the seed, they, devouring the Soma, mix it, and do not hurt it
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ते अ॑ध्व॒रे अधि॒ वाच॑मक्र॒ता क्री॒ळयो॒ न मा॒तरं॑  ॒॑
+> तुदंतः ।  
+> वि शू मुं॑चा सुषु॒वुषो॑ मनी॒षां वि व॑र्तंता॒मद्र॑य॒श्चाय॑मानाः ॥ १४ ॥
+
+### Printed p. 1023
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुते । अध्वरे । अधि । वाचं । अक्रत । क्रीळयः । न । मातरं । तुदंतः ।  
+> वि । सु । मुंच । सुसुवुषः । मनीषां । वि । वर्तंतां । अद्रयः । चायमानाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चायमानाः पूज्यमाना आद्रय आदरणीया ग्रावाणोऽध्वरेऽधि यज्ञे
+> सुते सोमेऽभिषुते मातरं तुदंतो हस्तेन ताडयंत आ क्रिळयो नाक्रीडकाः
+> कुमाराः शब्दं यथा कुर्वंति तथा वाचं शब्दमक्रत । कृण्वंति । सुषुवुषः
+> सोममभिषुतवतो ग्राव्यो मनीषां स्तुतिं वि मुंच । विशेषेण मुंच ।
+> किंचाद्रयो वि वर्तंतां । अभिषवशब्दं विमुंचंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the honoured, worshipped stones, in the sacrifice when the Soma has been pressed, make a sound as playing children make a sound, striking their mother with the hand. Then he addresses the one who has pressed the Soma: release praise (मनीषां (*manīṣāṃ*)) in a special manner. And let the stones turn away, that is, let them release the sound of pressing. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरं (*mātaraṃ*)—the mother
+- तुदंतः (*tudaṃtaḥ*)—striking with their hands for play
+- आ क्रीळयो न (*ā krīḷayo na*)—as playing children make a sound
+- चायमानाः (*cāyamānāḥ*)—honoured
+- अद्रयः (*adrayaḥ*)—the stones
+- अध्वरेऽधि (*adhvare 'dhi*)—in the sacrifice
+- सुते (*sute*)—when the Soma is pressed
+- वाचं (*vācaṃ*)—a sound
+- अकृत (*akṛta*)—make
+- सुषुवुषः (*suṣuvuṣaḥ*)—of the stones that press the Soma
+- मनीषां (*manīṣāṃ*)—the praise
+- वि मुंच (*vi muṃca*)—recite
+- अद्रयः (*adrayaḥ*)—let the stones
+- वि वर्तंतां (*vi vartaṃtāṃ*)—stop their sound
+
+##### भावार्थ (Bhāvārtha)
+
+As playing children make a sound, striking their mother in play, the honoured stones in the sacrifice praise the stones that press the Soma. Let the stones stop their sound.
+
+##### English translation
+(The Soma) being effused at the sacrifice, they made a noise like (children) at play, striking their mother. Proclaim the praise of (the stone), which has effused (the Soma-juice); let the honoured stones relax.
+
+### Printed p. 1024
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+Removing the darkness of the heart by the illumination of the meaning of the Veda, may Vidyātīrtha-Maheśvara grant the four aims of man.
+
+इति श्रीमद्राजाधिराजपरमेश्वरनैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्येष्टमाष्टके चतुथोऽध्यायः समाप्तः (*iti śrīmadrājādhirājaparameśvaranaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣyeṣṭamāṣṭake catutho 'dhyāyaḥ samāptaḥ*)
+
+Thus, in the Mādhavīya Vedārtha-prakāśa composed by Sāyaṇācārya, the bearer of the burden of the empire of the glorious king Vīra Bukka, the great lord of kings and promoter of the Vedic path, the fourth chapter in the eighth aṣṭaka of the commentary on the Ṛk-saṃhitā is ended.
+
+Here ends the fourth chapter in the eighth aṣṭaka of the Ṛgveda-saṃhitā, with the commentary of Śrī Sāyaṇa and with a Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+Whatever is deficient in a syllable or a word, or whatever is wanting in a measure, may all that be forgiven, O Lord of Speech; salutation to you.
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+May there be auspiciousness.
+
+मंगळं (*maṃgaḷaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 1016. Sukta 94 Rks 3-9 (pressing stones), pp. 1010-1016
+**Progress note:** Done through printed p. 1024. Sukta 94 Rks 9-14, colophon, pp. 1017-1024
