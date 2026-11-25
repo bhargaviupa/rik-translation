@@ -25017,6 +25017,110 @@ One who has been consecrated for the sacrifice is equal to the gods. Therefore h
 
 Among the animals that go forth from this Āhavanīya fire the horse is first. Then the rāsabha (donkey). Then the male goat (aja). Of these, the horse represents the Kṣatriya, the rāsabha (donkey) the Vaiśya and the Śūdra, and the male goat (aja) the Brāhmaṇa. Since among the animals that move forward from the Āhavanīya fire the horse goes forth first, the Kṣatriya goes forth first and the other three groups must follow him. When returning from there
 
+### Printed p. 921
+
+The male goat (aja) goes forth first. Therefore the Brāhmaṇa begins first, and the others must follow him. Whether advancing or returning, the donkey (rāsabha) is never in front. Therefore no one follows the Vaiśya and the Śūdra. The Vaiśya and the Śūdra must always remain subordinate to the Brāhmaṇa and the Kṣatriya.
+
+In the same way, even after death, a difference is indicated: that in the building of the burial mounds also, each must be according to his varṇa.
+
+तद्वै नमहत्कुर्यात् । नेन्महदघं करवाणीति यावानुद्बाहुः पुरुषस्तावत् क्षत्रियस्य कुर्यान्मुखदघ्नं ब्राह्मणस्कोपस्थदघ्नं स्त्रिया ऊरुदघ्नं वैश्यस्याष्ठीवद्दघ्नं शूद्रस्यैवं वीर्या ह्येत इति ॥ (*tadvai namahatkuryāt | nenmahadaghaṃ karavāṇīti yāvānudbāhuḥ puruṣastāvat kṣatriyasya kuryānmukhadaghnaṃ brāhmaṇaskopasthadaghnaṃ striyā ūrudaghnaṃ vaiśyasyāṣṭhīvaddaghnaṃ śūdrasyaivaṃ vīryā hyeta iti ‖*) (Śa. Brā. 13-8-3-11)
+
+In the cemetery the mound is to be made according to the strength of each. If it is made larger than that, it amounts to increasing the sin of each. For the Brāhmaṇa it is to be made up to the mouth, for the Kṣatriya up to the arm, for the Vaiśya and for women up to the thigh, and for the Śūdra up to the knee. That is what shows the strength of each.
+
+Moreover, in some places it is also stated that the close relation which the Brāhmaṇa has with the sacrifice is not found with any other varṇa. For example—
+
+प्रजापतिरज्ञमसृजत यज्ञं सृष्टमनु ब्रह्मक्षत्रे असृज्येतां ब्रह्मक्षत्रे अनु द्वय्य? प्रजा असृज्यंत हुतादश्चहुतादश्च ब्रह्मवानुहुतादः क्षत्रमन्वहुताद एता वै प्रजा हुतादो यद्राह्मणा अथैता अहुतादो यद्राजन्यो वैश्यः शूद्रस्ताभ्यो यज्ञ उदक्रामत्तं ब्रह्मक्षत्रे अन्वैतां यान्येव ब्रह्मण आयुधानि तैर्ब्रह्मान्वैद्यानि क्षत्रस्य तैः क्षत्रं ॥ (*prajāpatirajñamasṛjata yajñaṃ sṛṣṭamanu brahmakṣatre asṛjyetāṃ brahmakṣatre anu dvayya? prajā asṛjyaṃta hutādaścahutādaśca brahmavānuhutādaḥ kṣatramanvahutāda etā vai prajā hutādo yadrāhmaṇā athaitā ahutādo yadrājanyo vaiśyaḥ śūdrastābhyo yajña udakrāmattaṃ brahmakṣatre anvaitāṃ yānyeva brahmaṇa āyudhāni tairbrahmānvaidyāni kṣatrasya taiḥ kṣatraṃ ‖*) (Ai. Brā. 34-19)
+
+Prajāpati brought the sacrifice into being. After the sacrifice he created two powers, Brahma and Kṣatra. Relying on these powers, two kinds of progeny came into being. Of these, one is fit to eat the portion of the sacrifice; the other is not entitled to it. The Brāhmaṇas, being entitled to eat the portion of the sacrifice, became known as Hutāda. The Rājanya, the Vaiśya and the Śūdra, born of the Kṣatra power, came to be known as Ahutāda. Therefore the sacrifice moved away, leaving these three groups. Then both the powers, Brahma and Kṣatra,
+
+### Printed p. 922
+
+followed the sacrifice and set out. The Brahma power went with the weapon belonging to Brahma, and the Kṣatra power with the weapon belonging to Kṣatra.
+
+एतानि वै ब्रह्मण आयुधानि यद्यज्ञायुधान्यथैतानि क्षत्रस्यायुधानि यदश्वरथः कवच इषुधन्व तं क्षत्रमनन्वाप्य न्यवर्ततायुधेभ्यो ह स्मास्यविजमानःपराजीवैत्यथैनं ब्रह्मान्वैत्तमाप्नोत्तमाप्त्वा परस्तान्निरुद्धातिष्ठत्स अप्तः परस्तान्निरुद्धस्तिष्ठन् ज्ञात्वा स्वान्यायुधानि ब्रहोत्पावर्तत तस्माद्दाप्येतर्हि यज्ञो ब्रह्मण्येव ब्राह्मणेषु प्रतिष्ठितः ॥ (*etāni vai brahmaṇa āyudhāni yadyajñāyudhānyathaitāni kṣatrasyāyudhāni yadaśvarathaḥ kavaca iṣudhanva taṃ kṣatramananvāpya nyavartatāyudhebhyo ha smāsyavijamānaḥparājīvaityathainaṃ brahmānvaittamāpnottamāptvā parastānniruddhātiṣṭhatsa aptaḥ parastānniruddhastiṣṭhan jñātvā svānyāyudhāni brahotpāvartata tasmāddāpyetarhi yajño brahmaṇyeva brāhmaṇeṣu pratiṣṭhitaḥ ‖*) (Ai. Brā. 34-19)
+
+The weapons of the Brahma power are nothing other than the implements of the sacrifice. But the horse, the chariot, the armour, the arrow and the bow are all weapons belonging to the Kṣatra. All these weapons belonging to the Kṣatra, even when gathered together, had no strength to obtain the sacrifice, and trembling they turned back. The weapon that represents the Brahma power obtained the sacrifice. Then, to hold it back from above, the Kṣatra regarded the Brahma power as its own power and came under its sway. Therefore even now the sacrifice is established in the Brāhmaṇa, who possesses the Brahma power.
+
+Thus, although in many places pre-eminence is given to Brāhmaṇahood, the Brāhmaṇa, the Kṣatriya, the Vaiśya and the Śūdra are all sons of Prajāpati, and therefore all of them permanently possess an equal divinity. And that all are worthy of the same divine favour and of well-being is stated in many places in the Saṃhitās, the Upaniṣads and the other texts. Moreover, these varṇas, Brāhmaṇa, Kṣatriya, Vaiśya and Śūdra, are found not only in the human race; the gods also have this division of varṇas. Among them there is no such difference as that the Brāhmaṇas are the best, the Kṣatriyas lower than they, and the Vaiśyas inferior to the Kṣatriyas. Therefore it is not right to condemn the original principle of the excellent and ideal division of varṇas because of the social arrangements of high and low that exist in present practice. The view that the Brāhmaṇa, the Kṣatriya, the Vaiśya and the Śūdra were all born from Brahma and all possess a portion of Brahma, and that therefore there is no ground for high and low, is stated in many places.
+
+Passages stating that all the varṇas were born from Brahma and that all possess divinity:—
+
+ब्रह्म वा इदमग्र आसीदेकमेव तदेकं सन्नव्यभवत् । तच्छ्रेयोरूपमत्यसृजत क्षत्रं यान्येतानि देवत्रा क्षत्राणींद्रो वरुणः सोमो रुद्रः (*brahma vā idamagra āsīdekameva tadekaṃ sannavyabhavat | tacchreyorūpamatyasṛjata kṣatraṃ yānyetāni devatrā kṣatrāṇīṃdro varuṇaḥ somo rudraḥ*)
+
+### Printed p. 923
+
+पर्जन्यो यमो मृत्युरीशान इति । तस्मात् क्षत्रात्परं नास्ति तस्मात् ब्राह्मणः क्षत्रियमधस्तादुपास्ते राजसूये क्षत्र एव तद्यशो दधाति सैषा क्षत्रस्य योनिरद्ब्रह्म । तस्माद्यद्यपि राजा परमतां गच्छति ब्रह्मैवांतत उपनिश्रयति स्वां योनिं य उ एनं हिनस्ति स्वां स योनिमृच्छति स पापीयान्भवति यथा श्रेयाग्‌ंसं हिसित्वा । (*parjanyo yamo mṛtyurīśāna iti | tasmāt kṣatrātparaṃ nāsti tasmāt brāhmaṇaḥ kṣatriyamadhastādupāste rājasūye kṣatra eva tadyaśo dadhāti saiṣā kṣatrasya yoniradbrahma | tasmādyadyapi rājā paramatāṃ gacchati brahmaivāṃtata upaniśrayati svāṃ yoniṃ ya u enaṃ hinasti svāṃ sa yonimṛcchati sa pāpīyānbhavati yathā śreyāgṃsaṃ hisitvā |*) (Bṛ. U. 1-4-11)
+
+Before creation Brahma alone existed. Being alone, he did not grow. He created a Kṣatra that surpassed himself; that is, a power able to give protection even to himself. That became famous as the Kṣatriya varṇa. Because it had the power to protect Brahma, it is said to be greater even than Brahma. Indra and the others were born in this Kṣatriya line. Indra is the king of all the gods; Varuṇa is the king of all water creatures; Soma is the king of the Brāhmaṇas; Rudra is the king of all cattle, Parjanya of the lightnings, Yama of the ancestors, Mṛtyu of all diseases, and Īśāna of the luminous bodies.
+
+Since in this way the Kṣatriya is the protector even of the Brāhmaṇas, at the Rājasūya sacrifice the Brāhmaṇa stands in a place lower than the Kṣatriya and worships him. It means that at that time no one is greater than the Kṣatriya. But since Brahma is the origin of that same Kṣatriya, after the sacrifice he comes and pays honour to the Brāhmaṇa. Although he is the protector of the Brāhmaṇa, he must not show him any kind of disrespect.
+
+स नैव व्यभवत् स विशमसृजत । यान्येतानि देवजातानि गणश आख्यायंते— वसवो रुद्रा आदित्या विश्वे देवा मरुत इति । (*sa naiva vyabhavat sa viśamasṛjata | yānyetāni devajātāni gaṇaśa ākhyāyaṃte— vasavo rudrā ādityā viśve devā maruta iti |*) (Bṛ. U. 1-4-12.)
+
+Even with the two principles (varṇas), Brahma and Kṣatra, it seemed not enough. The need was also felt to bring forth the Vaiśya, who gives scope for the fullness of the Brahma and Kṣatra dharmas. The gods who are spoken of by the designation of a group (gaṇa) became of the Vaiśya form. They are the Vasus, the Rudras, the Ādityas, the Viśvedevas and the Maruts.
+
+स नैव व्यभवत्स शौद्रं वर्णमसृजत पूषणमियं वै पूषेयं हीदं सर्वं पुष्यति यदिदं किंच ॥ (*sa naiva vyabhavatsa śaudraṃ varṇamasṛjata pūṣaṇamiyaṃ vai pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yadidaṃ kiṃca ‖*) (Bṛ. U. 1-4-13)
+
+Although the three varṇas, Brahma, Kṣatra and Vaiśya, existed, he understood that there was still no room for his growth. Then he created the Śūdra varṇa, which brings completeness to his growth. This was spoken of by the designation Pūṣan. This earth is Pūṣan; it has this name because it nourishes everything;
+
+### Printed p. 924
+
+and so if the perfection of Brahma is not possible without the Śūdra as well, the Brahma portion and the divinity in the Śūdra are understood. In creation, one varṇa after another is manifested in sequence; nothing is said about high and low.
+
+Even through these four varṇas the fullness of Brahma was not achieved. A principle that would bring harmony to all of them had to be produced. Therefore,
+
+स नैव व्यभवत्तच्छेयोरूपमत्यसृजत धर्मं तदेतत् क्षत्रस्य क्षत्रं यद्धर्मस्तस्माद्धर्मात्परं नास्त्यथो अबलीयान् बलीयांसमाशंस ते धर्मेण यथा राज्ञैव यो वै स धर्मः सत्यं वै तत्तस्मात्सत्यं वदंतमाहुर्धर्मं वदतीति धर्मं वा वदंतं सत्यं वदतीत्येतद्ध्येवैतदुभयं भवति ॥ ( (*sa naiva vyabhavattaccheyorūpamatyasṛjata dharmaṃ tadetat kṣatrasya kṣatraṃ yaddharmastasmāddharmātparaṃ nāstyatho abalīyān balīyāṃsamāśaṃsa te dharmeṇa yathā rājñaiva yo vai sa dharmaḥ satyaṃ vai tattasmātsatyaṃ vadaṃtamāhurdharmaṃ vadatīti dharmaṃ vā vadaṃtaṃ satyaṃ vadatītyetaddhyevaitadubhayaṃ bhavati ‖ (*) (Bṛ. U. 1-4-14)
+
+Brahma understood that without the restraint of dharma the power of the Kṣatriya might grow violent and turn into an evil power, and so he created dharma, whose form is well-being. This dharma alone became able to keep the Kṣatriya under control. Than this dharma, which can control the Kṣatriya who is able to control everything, nothing else is greater. Just as with the help of the king a weak man overcomes a strong man (one without dharma), so with the help of dharma one without power overcomes the powerful. Dharma is truth. Therefore one who speaks truth is called a speaker of dharma, and one who speaks dharma is called a speaker of truth. Truth and dharma are not different from each other.
+
+तदेतद्ब्रह्म क्षत्रं विट् शूद्रस्तदग्निनैव देवेषु ब्रह्माभवद्ब्राह्मणो मनुष्येषु क्षत्रियेण क्षत्रियो वैश्येन वैश्यः शूद्रेण शूद्रस्तस्मादग्नावेव देवेषु लोकमिच्छंते ब्राह्मणे मनुष्येष्टेताभ्यां हि रूपाभ्यां ब्रह्माभवत् ॥ (*tadetadbrahma kṣatraṃ viṭ śūdrastadagninaiva deveṣu brahmābhavadbrāhmaṇo manuṣyeṣu kṣatriyeṇa kṣatriyo vaiśyena vaiśyaḥ śūdreṇa śūdrastasmādagnāveva deveṣu lokamicchaṃte brāhmaṇe manuṣyeṣṭetābhyāṃ hi rūpābhyāṃ brahmābhavat ‖*) (Bṛ. U. 1-4-15)
+
+This Brahma alone became transformed into the forms of Brāhmaṇa, Kṣatriya, Vaiśya and Śūdra. This Brahma, of the form of Virāj, became Agni among the gods, a Brāhmaṇa born of a divine portion among the Brāhmaṇas, a Vaiśya who had attained divinity among the Vaiśyas, and a Śūdra who had attained divinity among the Śūdras. Thus it is praised that the divinity of the Supreme Brahma pervades all these varṇas.
+
+Therefore, when offering prayer to the Lord for the welfare of the world, prayer is made that well-being may come to all. It is not prayed that divine favour should be obtained only by some varṇas, nor is it asked that one varṇa should have more well-being and another varṇa well-being according to its varṇa.
+
+### Printed p. 925
+
+The prayer asks that the divine favour of the Lord should be of one and the same kind in all human beings. For example—
+
+ताभिस्सर्वाभी रुचे जनाय नस्कृधि । या वो देवास्सूर्ये रुचो गोष्वश्वेषु या रुचः । इंद्राग्नी ताभिस्सर्वाभी रुचं नो धत्त बृहस्पते । रुचं नो धेहि ब्राह्मणेषु रुचग्ं राजसु नस्कृधि । रुचं विश्येषु शूद्रेषु मयि धेहि रुचारुचं ॥ (*tābhissarvābhī ruce janāya naskṛdhi | yā vo devāssūrye ruco goṣvaśveṣu yā rucaḥ | iṃdrāgnī tābhissarvābhī rucaṃ no dhatta bṛhaspate | rucaṃ no dhehi brāhmaṇeṣu rucagṃ rājasu naskṛdhi | rucaṃ viśyeṣu śūdreṣu mayi dhehi rucārucaṃ ‖*) (Kṛ. Saṃ. 5-7-6-2, 3) **NOTE**
+
+O Agni, the radiance of yours that spreads in the form of the sun's rays and pervades the whole atmosphere, grant that divine lustre, together with that full radiance, to us human beings also. Grant favour also in our cattle, horses and the rest. O Indra and Agni, O Bṛhaspati, fill with your radiant splendour us, the sacrificers (the Brāhmaṇas), and our kings who help our sacrifice, and the Vaiśyas and the Śūdras who belong to us. In this prayer it is prayed that divine favour may be obtained by all in the same way.
+
+ब्रह्मक्षत्रे च विशि प्रतिष्ठिते (*brahmakṣatre ca viśi pratiṣṭhite*) (Śa. Brā. 11-2-7.16)
+
+Both for performing sacrificial rites and for other kinds of activity, the Brāhmaṇas and the Kṣatriyas also rely on the help of all the subjects, the Vaiśyas and the rest. Their welfare depends on them (viś means all the subjects of the kingdom; in the Ṛk-saṃhitā this word is used in this sense in many places); thus gratitude is also expressed.
+
+In this way there are also many passages that show a good means for the Vaiśyas, Śūdras and others, and that they too are born of a divine portion, and that the welfare of the other varṇas is possible only through their help, showing gratitude and respect. Therefore there is no room for the statement that the Brāhmaṇas displayed their distinction and regarded others as their servants.
+
+The Brahmins saw their opportunity, through the Purohitship, of gaining practical power during the confusion and difficulties of wars of invasion, and secured it .... .
+
+(Index Vol. II p. 249).
+
+### Printed p. 926
+
+There is no room for such criticisms, and others of the same kind, as that when the kings and others were engaged in war and absorbed in other tasks and troubled in mind, the Brāhmaṇas waited for that very opportunity and, by the influence of their priestly office, made their powerful position secure and displayed their arrogance over others. Besides the scriptural passages cited above, hundreds of other occasions support the view that the welfare of the whole world was the aim of the Brāhmaṇas. Moreover, many occasions on which Brāhmaṇas received instruction in the truth from Kṣatriyas are told in the Upaniṣads. There are many proofs that the knowledge of the truth and the well-being of the world were the only aim of all the varṇas; there is no room for the harsh criticisms made by English scholars and by those Indians who, following them, blindly approve their opinion. (Some well-known English scholars themselves do not accept these criticisms.)
+
+The Vedic Characteristics of caste are heredity, persuit of a common occupation and restriction on inter-marriage.
+
+(Index, Macdonell & Keith-Vol. II p. 258)
+
+Following the occupation received by hereditary succession, working for the welfare of all, yet doing only the actions proper to one's own nature and one's own duty, and so on, was the aim of the division of varṇas. It was from this point of view that restrictions existed also in the matter of marriage, and not from any other point of view. Keith, Macdonell and others have also stated this opinion.
+
+Knowledge was the chief thing. The knower is worthy of reverence, whatever his varṇa may be: this view is stated in many passages in the Saṃhitās, Brāhmaṇas and Upaniṣads. For many sūktas of the Ṛgveda-saṃhitā, persons of varṇas other than the Brāhmaṇa are the seers. The seer Viśvāmitra is said to be the son of King Gādhi. Devāpi and Śaṃtanu are said to be the two sons of the royal sage Ṛṣṭiṣeṇa. Kavaṣa Ailūṣa is well known as the son of a Śūdra (slave) woman. These, and many seers of other varṇas as well, are seen to have praised the gods through their excellent knowledge and to have obtained positions and honours equal to those of the Brāhmaṇa seers.
+
+In the matter of marriage, although there was a strict rule that those of each varṇa should form marriage relations within their own varṇa, there are many instances in which Brāhmaṇas and others of the higher varṇa married daughters of those of a lower class. That Sukanyā, the daughter of King Śaryāta, married the Brāhmaṇa seer Cyavana is indicated in works such as the Śatapatha Brāhmaṇa 4-1-5-7. Likewise, that the daughter of the king Rathavīti
+
+### Printed p. 927
+
+married the seer Śyāvāśva is stated in the Bṛhaddevatā 5-50. The rule was that the higher varṇa (the Brāhmaṇas) might form marriage relations with all four varṇas, the kings (Kṣatriyas) with Kṣatriyas, Vaiśyas and Śūdras, the Vaiśyas with Vaiśyas and Śūdras, and the Śūdras only with Śūdras. This is the general rule, but in many instances exceptions to this rule are also seen.
+
+Conduct and practice—As a rule, one varṇa did not enter into the conduct and practices of another varṇa. That when occasion arose they acted against this rule can be inferred from many instances. It is said that the seer Dīrghatamas at one time followed the occupation of merchants (Ṛ. Saṃ. 1-112-11). Viśvāmitra was the priest of the king named Sudās, the king of the Tṛtsu people. That this Viśvāmitra was a king is said in the Pañcaviṃśa Brāhmaṇa (Paṃ. Brā. 11-12 2) **NOTE**, and in the Aitareya Brāhmaṇa (Ai. Brā. 7-18-9) he is called a king descended from the line of Jahnu. It is said that Devāpi, the son of the king named Ṛṣṭiṣeṇa, performed a sacrifice for his younger brother, King Śaṃtanu, and that he himself was the priest in that sacrifice (Ni. 2.10). Thus there is a custom of calling kings, that is, Kṣatriyas, who were capable of conducting the priestly office and other duties that belong to the Brāhmaṇa class, and who praised Indra and the other gods with sūktas of their own making, royal sages (Pañcaviṃśa Brāhmaṇa 12-12-6; 18-10-5; Jaiminīya Upaniṣad Brāhmaṇa 1.4-2; Aitareya Brāhmaṇa 7-17-6, and so on).
+
+On many occasions priests of the Brāhmaṇa varṇa went with their kings in times of war and took part in the fighting; this is indicated in places such as Ṛ. Saṃ. 3.53-12, 13; 1-129-4; 1-152-7; 1-157-2; 7-83-4; 10-38 and so on.
+
+Purity of the Āryas—In the age of the Vedas, as a rule the Brāhmaṇas (the seers and others) and the kings formed marriage relations only within the Ārya people, and so there was no likelihood of the lineage of these two varṇas becoming mixed with people of other races. In the course of time the kings began to form relations with the kings of other countries (even though they were not of the Ārya race). Therefore the purity of the Āryas gradually decreased among them. But the seers and the Brāhmaṇas, their descendants, have wholly given up marriage and other relations with races other than the Āryas, and have preserved up to now the purity of their own, that is, the Ārya race. In the Vaiśya and Śūdra varṇas, many divisions and sub-divisions (sub-sects) arose according to their respective occupations and became the cause of various groups. Even so, the greater part of the Vaiśyas have preserved the purity of the Ārya race. Many of the groups now called Śūdras
+
 ---
 
-**Progress note:** Done through printed p. 920. pp. 915-920: Macdonell and Keith on varṇa, Ṛk and Brāhmaṇa evidence
+**Progress note:** Done through printed p. 927. pp. 921-927: varna discussion, Brahmana/Upanishad passages, caste and marriage
