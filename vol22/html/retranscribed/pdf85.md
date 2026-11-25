@@ -8,5 +8,5 @@
 English Translation
 The Soma effused with reiterated prayer delights Indra : the effused juices, (offered) with repeated praise, (exhilarate) Maghavan : therofore (the priests), combining together and making like exertion, invoke Indra for protection, as sons (apply) to a father.
 ಸಂಹಿತಾಪಾಠಃ
-ಚಕಾರ ತಾ ಕೃಣವನ್ನೂತನಾ[?] ಯಾನಿ[?] ಬ್ರುವಂತಿ ವೇಧಸಃ ಸುತೇಷು |
-ಜನೀರಿವ ಪತಿರೇಕಃ ಸಮಾನೋ ನಿ ಮಾಮೃಜೇ[?] ಪುರ ಇಂದ್ರಃ ಸು[?] ಸರ್ವಾಃ ॥
+ಚಕಾರ ತಾ ಕೃಣವನ್ನೂನಮನ್ಯಾ ಯಾನಿ ಬ್ರುವಂತಿ ವೇಧಸಃ ಸುತೇಷು |
+ಜನೀಇವ ಪತಿರೇಕಃ ಸಮಾನೋ ನಿ ಮಮೃಜೇ ಪುರ ಇಂದ್ರಃ ಸು ಸರ್ವಾಃ ॥
