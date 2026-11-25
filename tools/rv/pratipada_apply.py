@@ -33,6 +33,7 @@ def one_letter(a, b):
     if len(ra) > 1 or len(rb) > 1 or (len(ra) == 0 and len(rb) == 0): return False
     if re.search('[\u0C85-\u0C94]', b[1:]) : return False        # an independent vowel inside the word: a compound split / sandhi, not a misreading
     if 'ಃ' in b.rstrip(TAIL) or 'ಃ' in a.rstrip(TAIL): return False                      # a visarga inside the word: sandhi (ರಾಧೋಭಿಃ / ರಾಧಃಭಿಃ)
+    if (not ra or not rb) and i == 0 and re.match('[\u0C85-\u0C94]', ra or rb): return False       # an initial vowel added or dropped: sandhi / augment (ಆಜಗ್ಮುಃ / ಜಗ್ಮುಃ), not a misreading
     if ra and rb:
         VOICE = {frozenset(x) for x in ('ಕಗ', 'ಚಜ', 'ಟಡ', 'ತದ', 'ಪಬ', 'ಖಘ', 'ಛಝ', 'ಥಧ', 'ಫಭ')}
         if frozenset((ra, rb)) in VOICE: return False                               # voiced/voiceless: the sandhi of a joined word (ಗೋಮದ್ಭಿಃ / ಗೋಮತ್ಭಿಃ)

@@ -1,151 +1,176 @@
 #!/usr/bin/env python3
-"""Fill the `[[block: samhita|pada|bhashya]]` placeholders of a scan-based volume's assembled text from the Wikisource index (shared tool).
+"""Fill the [[block: samhita|pada|bhashya]] markers of a scan-made text from the Wikisource index (shared tool; Vol 25 first). No API, no network.
 
-  python3 tools/rv/ws_fill.py VOL                 # dry run: count table per sūkta, nothing written
-  python3 tools/rv/ws_fill.py VOL --show M.S.R    # dry run: print the three blocks as they would be placed for one Ṛk
-  python3 tools/rv/ws_fill.py VOL --write         # fill the sūktas whose counts agree; the others stay untouched and are listed
-  options: --file PATH (default volN/html/rig_N.md)   --keep-marks (keep the wiki's “ " pratīka marks in the bhāṣya)
+  python3 tools/rv/ws_fill.py VOL [--show M.S.R] [--write] [--src FILE] [--out FILE]
+      reads volN/html/rig_N.md (the file made by tools/rv/scan_assemble.py), finds the sūkta headings (the box with `ಮಂಡಲ—… ಸೂಕ್ತ—…`),
+      numbers the Ṛks of each sūkta by its [[block: samhita]] markers, and prints what it could fill. Without --write nothing is written.
+      --show M.S.R  also prints the three blocks as they would be filled for that Ṛk (look at one before running on the volume).
+      --write       writes volN/html/rig_N.filled.md (the source file stays as it is) and volN/review/ws_fill_log.tsv.
 
-WHAT IT DOES. The file is made by scan_assemble.py from page transcriptions that skipped the three Sanskrit layers (they are
-the worst-read part of a scan). Each skipped block is a marker line. This tool
-  1. finds the sūktas by their header line (`ಮಂಡಲ—8 ॥ ಅನುವಾಕ—7 ॥ ಸೂಕ್ತ—68 ॥`; Kannada digits); a header whose number is not the
-     expected next one is used as read only if it is in the index, otherwise the expected number is taken and the sūkta is listed;
-  2. joins consecutive markers of one kind that only a page break separates (running head, `---`, the label line) into ONE block;
-  3. the bhāṣya block just before a header is the sūkta introduction (Ṛk 0); the k-th `samhita` block of a sūkta is Ṛk k, the k-th
-     `pada` block is Ṛk k, the other bhāṣya blocks go in order to the Ṛks that carry Sāyaṇa's text (the commentary of two or three
-     Ṛks stands with the last of them; the ritual-use paragraph that Sāyaṇa states before the next Ṛk is moved as `ws_layers.sukta_paras` does);
-  4. compares the counts with the index. A sūkta whose counts do not agree is NOT filled and is listed. Nothing in Wikisource is
-     edited or compared with the print; its known defects (5.5.11, 9.97 Ṛk 10, 10.27 Ṛk 1) are listed if met.
-The Devanagari of the index is converted letter for letter by publish/tools/translit/deva_to_kannada.py: Saṃhitā and Pada plain (no accent marks), the
-bhāṣya as Sāyaṇa's paragraphs, one per line, blank line between paragraphs. The wiki's pratīka marks (“ ") are dropped from the bhāṣya unless --keep-marks.
-Report: volN/review/ws_fill_report.tsv (one row per sūkta).
-"""
-import os, re, sys, sqlite3, importlib.util
+WHAT IT FILLS (Kannada script made with publish/tools/translit/deva_to_kannada.py; Wikisource is never edited, never compared):
+  samhita  the Ṛk's plain Saṃhitā (index column `samhita`, no accents), the Ṛk number as `|| ೧ ||`
+  pada     the Ṛk's plain Pada (`pada`), words as `a | b | c`, `ऽ` kept as `ಽ`, the Ṛk number as `|| ೧ ||`
+  bhashya  Sāyaṇa's text printed after that Ṛk (index: the Ṛk's own section; Sāyaṇa often comments on two or three Ṛks together
+           and the text stands after the last of them, so the Ṛks before it have NO bhāṣya block in the print: `rik.bh_at`)
+           and, before the sūkta heading, the sūkta introduction (index `sukta.intro`).
+  The wiki's quotation marks that mark the headwords (“ ” ") are not in the print and are left out; ‘ ’ and footnote marks [१] stay.
+  danda `।` → `|`, double danda `॥` → `||` (as in the supplied files).
+
+HOW THE MARKERS ARE READ. A marker line preceded (within the two lines before) by a label line (ಸಂಹಿತಾಪಾಠ…, ಪದಪಾ…, ಸಾಯಣಭಾಷ್ಯ…) starts a block. A bare marker
+of the same kind as the one before, with no prose between, is the continuation of that block over a page break and is dropped (the block is
+filled once, at the first marker). In a sūkta: samhita starts Ṛk n+1; pada belongs to it; a bhashya after the pada belongs to that Ṛk when the
+index has a bhāṣya for it, otherwise (and always after the last Ṛk) it is the introduction of the next sūkta.
+
+CHECKS (REQUIREMENTS D17): a sūkta is filled only if the count is right: Ṛks = index `n_rik` (and the heading's `ಋಕ್ಸಂಖ್ಯೆ` when it can be read), every Ṛk has
+one samhita and one pada, the Ṛks with a bhāṣya in the index have exactly one bhashya block and no other Ṛk has one, the introduction is there when the
+index has one. Otherwise the sūkta is left as it is and the reason is logged. Sūktas whose layout in the index is not `per-rik` (5.5.11, 9.97 Ṛk 10,
+10.27 Ṛk 1: known defects of the pages, REQUIREMENTS B5.6) are left as they are and logged."""
+import os, re, sys, json, sqlite3
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
-sys.path.insert(0, os.path.join(ROOT, 'publish', 'tools', 'translit')); sys.path.insert(0, os.path.join(ROOT, 'publish', 'tools'))
+sys.path.insert(0, os.path.join(ROOT, 'publish', 'tools', 'translit'))
 from deva_to_kannada import deva2kn
-import ws_layers
-
-MARK = re.compile(r'^\[\[block:\s*(samhita|pada|bhashya)\s*\]\]\s*$')
-HEAD = re.compile(r'ಸಾಯಣ ?ಭಾಷ್ಯ ?ಸ[ಹಂ]ಿತಾ|ಋಗ್ವೇದ ?ಸಂಹಿತಾ|ಮಂ\. ?[೦-೯]+')
-LABEL = re.compile(r'^[॥।|#*\s]*(ಸಂಹಿತಾ ?ಪಾ.{0,3}|ಪದ ?ಪಾ.{0,3}|ಸಾಯಣ ?ಭಾಷ್ಯಂ)[॥।|#*\s]*$')
-SIG = re.compile(r'^\[?\s*(xxv\.?\s*\S{0,3}|[0-9]{1,3})\s*\]?$')   # printer's signature at the foot of a page: [ xxv. 2 ]
-HDR = re.compile(r'ಮಂಡಲ\s*[—–-]\s*([೦-೯0-9]+)[^ಸ\n]*?ಸೂಕ್ತ\s*[—–-]\s*([೦-೯0-9]+)')
+DB = os.path.join(ROOT, 'refs', 'wikisource', 'index', 'ws.sqlite')
 KD = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')
-KNOWN_DEFECT = {(5, 5): 'Ṛk 11', (9, 97): 'Ṛk 10', (10, 27): 'Ṛk 1'}
+DD = str.maketrans('०१२३४५६७८९', '0123456789')
+LABEL = re.compile(r'^[\s॥|#\[\]•*]*(ಸಂಹಿತಾಪಾ|ಪದಪಾ|ಸಾಯಣಭಾಷ್ಯಂ|ಸಾಯಣಭಾಷ್ಯಮ್|ಸಾಯಣ ಭಾಷ್ಯಂ)[^\n]{0,12}$')   # a label line, not the running head (…ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ / ಋಗ್ವೇದಸಂಹಿತಾ)
+MARK = re.compile(r'^\[\[block:\s*(samhita|pada|bhashya)\s*\]\]\s*$')
 
+def num(s):
+    s = re.sub(r'\[\?\]', '', s).translate(KD); m = re.search(r'\d+', s)
+    return (int(m.group()) if m else None)
 
-def parse(lines):
-    """-> (groups, headers). group = dict(kind, lines=[marker line numbers]); header = (line no, m, s)"""
-    marks = [(i, MARK.match(l).group(1)) for i, l in enumerate(lines) if MARK.match(l)]
-    heads = [(i, int(m.group(1).translate(KD)), int(m.group(2).translate(KD))) for i, l in enumerate(lines) for m in [HDR.search(l)] if m]
-    groups = []
-    for i, kind in marks:
-        if groups and groups[-1]['kind'] == kind:
-            j = groups[-1]['lines'][-1]
-            between = [l.strip() for l in lines[j + 1:i]]
-            if all(not t or t == '---' or HEAD.search(t) or LABEL.match(t) or SIG.match(t) for t in between) and not any(h[0] > j and h[0] < i for h in heads):
-                groups[-1]['lines'].append(i); continue
-        groups.append({'kind': kind, 'lines': [i]})
-    return groups, heads
+ACC = re.compile('[\u0951-\u0954\u1CD0-\u1CFF\uA8E0-\uA8F7]')      # Vedic accent signs: the supplied machine text has none (a few pages of the index give the plain Saṃhitā with accents)
 
+def kn(text, number_tail=True):
+    t = ACC.sub('', text).replace('“', '').replace('”', '').replace('"', '')
+    t = re.sub(r'॥\s*([०-९]+)\s*॥?\s*$', lambda m: '|| ' + m.group(1) + ' ||', t, flags=re.M)
+    t = t.replace('।', '|').replace('॥', '||')
+    return deva2kn(t)
 
-def plan(lines, con):
-    """per sūkta: dict(m, s, intro, samhita[], pada[], bhashya[], header line)"""
-    groups, heads = parse(lines)
-    events = sorted([(g['lines'][0], 'g', g) for g in groups] + [(h[0], 'h', h) for h in heads], key=lambda e: e[0])
-    suk, cur, prev = [], None, None
-    for k, (pos, typ, x) in enumerate(events):
-        if typ == 'h':
-            _, m, s = x
-            note = ''
-            exp = None if prev is None else ((prev[0], prev[1] + 1))
-            if not con.execute('select 1 from sukta where m=? and s=?', (m, s)).fetchone() or (exp and (m, s) != exp and (m, s) != (prev[0] + 1, 1)):
-                if exp: note = f'header read {m}.{s}, expected {exp[0]}.{exp[1]}: expected number used'; m, s = exp
-                else: note = f'header {m}.{s} not in the index'
-            cur = {'m': m, 's': s, 'line': pos, 'intro': None, 'samhita': [], 'pada': [], 'bhashya': [], 'note': note, 'order': [], 'gaps': []}
-            suk.append(cur); prev = (m, s)
-            if k and events[k - 1][1] == 'g' and events[k - 1][2]['kind'] == 'bhashya' and events[k - 1][2].get('_pending'):
-                cur['intro'] = events[k - 1][2]
-        else:
-            if k + 1 < len(events) and events[k + 1][1] == 'h' and x['kind'] == 'bhashya':
-                x['_pending'] = True
-                # the introduction belongs to the NEXT header: attach when that header is created (above)
-            elif cur is not None:
-                last = [e for e in cur['order'] if True][-1:] if cur['order'] else []
-                if last and (last[0][0], x['kind']) not in (('samhita', 'pada'), ('pada', 'bhashya'), ('pada', 'samhita'), ('bhashya', 'samhita')):
-                    cur['gaps'].append(f"{last[0][0]} then {x['kind']} at lines {last[0][1] + 1}, {x['lines'][0] + 1} (Ṛk {len(cur['samhita'])})")
-                cur['order'].append((x['kind'], x['lines'][-1])); cur[x['kind']].append(x)
-    # the introductions of the first sūkta of a file stand before its header: attach (done above through _pending)
-    return suk
+def parse(src):
+    """events: ('H', line, M, S, rikcount|None, flags) / (kind, line, is_new, parent_line) with kind sa|pa|bh; a continuation points at the line of the block it continues."""
+    L = src.split('\n'); ev = []; lastkind = None; prose = False; parent = None
+    for i, l in enumerate(L):
+        if 'ಮಂಡಲ—' in l:
+            mm = re.search(r'ಮಂಡಲ—\s*([^\s।॥|]+)', l); ss = re.search(r'ಸೂಕ್ತ—\s*([^\s।॥|]+)', l)
+            if mm and ss:
+                flags = []
+                if '[?]' in mm.group(1) or '[?]' in ss.group(1): flags.append('heading digits marked [?]')
+                rc = None
+                for k in range(i + 1, min(i + 6, len(L))):
+                    r = re.search(r'ಋಕ್ಸಂಖ್ಯೆ—\s*([^\s।॥|]+)', L[k])
+                    if r: rc = num(r.group(1)); break
+                ev.append(('H', i, num(mm.group(1)), num(ss.group(1)), rc, flags)); lastkind = 'H'; prose = False; continue
+        m = MARK.match(l.strip())
+        if m:
+            kind = {'samhita': 'sa', 'pada': 'pa', 'bhashya': 'bh'}[m.group(1)]
+            prev = [x.strip() for x in L[max(0, i - 3):i] if x.strip()][-2:]
+            labelled = any(LABEL.match(x) for x in prev)
+            new = labelled or kind != lastkind or prose
+            if new: parent = i
+            ev.append((kind, i, new, parent)); lastkind = kind; prose = False; continue
+        s = l.strip()
+        if s and s != '---' and not LABEL.match(s) and 'ಋಗ್ವೇದಸಂಹಿತಾ' not in s and 'ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ' not in s and not s.startswith('xxv') and not s.startswith('<!--') and not (len(s) < 90 and re.search(r'ಮಂ\.\s*[೦-೯]|ಸೂ\.\s*[೦-೯]|ವ\.\s*[೦-೯]', s)) and not re.match(r'^\[?\s*(xxv)?\.?\s*[0-9A-Za-z೦-೯]{1,4}\s*\]?\.?$', s):
+            prose = True
+    return L, ev
 
-
-def block_text(kind, con, m, s, r, paras, keep_marks):
-    if kind == 'bhashya':
-        ps = paras.get(r, [])
-        if not ps: return None
-        out = []
-        for p in ps:
-            t = p if keep_marks else re.sub('[“"]', '', p)
-            out += [deva2kn(x.strip()) for x in t.split('\n') if x.strip()] + ['']
-        return out[:-1]
-    row = con.execute(f'select {"samhita" if kind == "samhita" else "pada"} from rik where m=? and s=? and r=?', (m, s, r)).fetchone()
-    if not row or not row[0]: return None
-    return [deva2kn(x.strip()) for x in row[0].split('\n') if x.strip()]
-
+def paras(con, m, s, r):
+    return '\n'.join(x[0] for x in con.execute('select deva from para where m=? and s=? and r=? order by p', (m, s, r)))
 
 def main():
     a = sys.argv[1:]
-    if not a: sys.exit(__doc__)
-    vol = a[0]; write = '--write' in a; keep = '--keep-marks' in a
-    show = a[a.index('--show') + 1] if '--show' in a else None
-    path = a[a.index('--file') + 1] if '--file' in a else os.path.join(ROOT, f'vol{vol}', 'html', f'rig_{vol}.md')
-    lines = open(path, encoding='utf8').read().split('\n')
-    con = ws_layers.connect()
-    suk = plan(lines, con)
-    rows, repl, listed = [], {}, []
-    for S in suk:
-        m, s = S['m'], S['s']
-        n = con.execute('select count(*) from rik where m=? and s=?', (m, s)).fetchone()[0]
-        paras = ws_layers.sukta_paras(con, m, s)
-        keys = [r for r in sorted(paras) if r >= 1]
-        has_intro = 0 in paras
-        got = (len(S['samhita']), len(S['pada']), len(S['bhashya']), 1 if S['intro'] else 0)
-        want = (n, n, len(keys), 1 if has_intro else 0)
-        ok = got == want and n > 0
-        rows.append((m, s, n, *got, *want[2:], 'filled' if ok else 'NOT FILLED', '; '.join(filter(None, [S['note']] + ([] if ok else S['gaps'])))))
-        if (m, s) in KNOWN_DEFECT: listed.append(f'{m}.{s}: known Wikisource defect at {KNOWN_DEFECT[(m, s)]} (NOTE)')
-        if not ok: continue
-        def put(g, text):
-            repl[g['lines'][0]] = text
-            for j in g['lines'][1:]: repl[j] = None
-        if S['intro']: put(S['intro'], block_text('bhashya', con, m, s, 0, paras, keep))
-        for k, g in enumerate(S['samhita'], 1): put(g, block_text('samhita', con, m, s, k, paras, keep))
-        for k, g in enumerate(S['pada'], 1): put(g, block_text('pada', con, m, s, k, paras, keep))
-        for r, g in zip(keys, S['bhashya']): put(g, block_text('bhashya', con, m, s, r, paras, keep))
-        if show == f'{m}.{s}.{1}' or (show and show.startswith(f'{m}.{s}.')):
-            r = int(show.split('.')[2])
-            print(f'--- {show}: Saṃhitā ---'); print('\n'.join(block_text('samhita', con, m, s, r, paras, keep) or ['(none)']))
-            print(f'--- {show}: Pada ---'); print('\n'.join(block_text('pada', con, m, s, r, paras, keep) or ['(none)']))
-            print(f'--- {show}: Bhāṣya (blocks under Ṛk {r}) ---'); print('\n'.join(block_text('bhashya', con, m, s, r, paras, keep) or ['(no bhāṣya block under this Ṛk)']))
-    hdr = ('M', 'S', 'riks_index', 'samhita_blocks', 'pada_blocks', 'bhashya_blocks', 'intro_blocks', 'bhashya_expected', 'intro_expected', 'status', 'note')
-    print('\t'.join(hdr))
-    for r in rows: print('\t'.join(map(str, r)))
-    bad = [r for r in rows if r[9] != 'filled']
-    print(f'\n{len(rows)} sūktas found; {len(rows) - len(bad)} agree with the index; {len(bad)} do not (listed, not filled). Known defects met: {listed or "none"}')
-    left = sum(1 for l in lines if MARK.match(l))
+    show = None; write = '--write' in a
+    if write: a.remove('--write')
+    src_f = out_f = None
+    for opt in ('--show', '--src', '--out'):
+        if opt in a:
+            i = a.index(opt); v = a[i + 1]; del a[i:i + 2]
+            if opt == '--show': show = v
+            elif opt == '--src': src_f = v
+            else: out_f = v
+    vol = a[0]
+    src_f = src_f or os.path.join(ROOT, f'vol{vol}', 'html', f'rig_{vol}.md'); out_f = out_f or os.path.join(ROOT, f'vol{vol}', 'html', f'rig_{vol}.filled.md')
+    L, ev = parse(open(src_f, encoding='utf8').read())
+    con = sqlite3.connect(DB); con.row_factory = sqlite3.Row
+    log = []; suk = {}; order = []; cont = {}                # cont: continuation line -> line of the block it continues
+    cur = None; r = 0; phase = None; pending = []
+    for e in ev:
+        k = e[0]
+        if k == 'H':
+            _, i, m_, s_, rc, fl = e; fl = list(fl)
+            if cur is not None:                                      # the heading digits are read from a small old-style face: the sequence decides when they disagree
+                exp = (cur['m'], cur['s'] + 1)
+                if (m_, s_) != exp:
+                    er = con.execute('select n_rik from sukta where m=? and s=?', (exp[0], exp[1])).fetchone()
+                    if er and (rc is None or er[0] == rc or fl):
+                        fl.append(f'heading read {m_}.{s_}, taken as {exp[0]}.{exp[1]} (the next in sequence)'); m_, s_ = exp
+            cur = {'ref': f'{m_}.{s_}', 'm': m_, 's': s_, 'rc': rc, 'flags': fl, 'riks': {}, 'intro': pending, 'line': i}
+            pending = []; r = 0; phase = 'H'
+            cur['idx'] = con.execute('select * from sukta where m=? and s=?', (m_, s_)).fetchone()
+            cur['rows'] = {x['r']: x for x in con.execute('select * from rik where m=? and s=? order by r', (m_, s_))}
+            suk[(m_, s_)] = cur; order.append((m_, s_)); continue
+        _, i, new, parent = e
+        if not new: cont[i] = parent; continue
+        if cur is None:
+            if k == 'bh': pending.append(i)
+            continue
+        if k == 'sa':
+            if phase == 'sa': cont[i] = cur['riks'][r]['sa']; continue     # a second samhita label with no pada between: the same Ṛk
+            r += 1; cur['riks'].setdefault(r, {})['sa'] = i; phase = 'sa'
+        elif k == 'pa':
+            if r == 0 or phase in ('pa', 'bh'): cur.setdefault('bad', []).append(f'pada marker at line {i + 1} without a samhita marker of its own'); continue
+            cur['riks'][r]['pa'] = i; phase = 'pa'
+        else:
+            if phase in ('pa', 'sa'): cur['riks'][r]['bh'] = i; phase = 'bh'      # the bhāṣya after a Ṛk's pada (or samhita, when the pada marker is missing) belongs to that Ṛk
+            else: pending.append(i); phase = 'bh_intro'               # a second one, or one before any Ṛk: the introduction of the next sūkta
+    fill = {}; ok = bad = 0
+    for key in order:
+        c = suk[key]; ref = c['ref']; idx = c['idx']; why = []
+        if idx is None: log.append((ref, 'SKIP', 'not in the index')); bad += 1; continue
+        if idx['layout'] != 'per-rik': log.append((ref, 'SKIP', f'index layout {idx["layout"]} (known defect of the page)')); bad += 1; continue
+        n = idx['n_rik']; got = len(c['riks']); why.extend(c.get('bad', []))
+        if got != n: why.append(f'Ṛks in print {got}, index {n}')
+        if c['rc'] and c['rc'] != n: why.append(f'heading says {c["rc"]} Ṛks, index {n}')
+        gaps = []
+        for x in range(1, n + 1):
+            blk = c['riks'].get(x, {}); row = c['rows'].get(x)
+            if row is None: why.append(f'Ṛk {x}: not in the index'); continue
+            if 'sa' not in blk: gaps.append(f'Ṛk {x}: no samhita block in print')
+            if 'pa' not in blk: gaps.append(f'Ṛk {x}: no pada block in print')
+            if bool(row['n_para']) != ('bh' in blk): gaps.append(f'Ṛk {x}: bhāṣya block {"missing in print" if row["n_para"] else "in print, none in the index"}')
+        intro_idx = bool((idx['intro'] or '').strip()); intro_ok = intro_idx and len(c['intro']) >= 1
+        if intro_ok and len(c['intro']) > 1: gaps.append(f'{len(c["intro"])} bhāṣya blocks before the heading: the last (line {c["intro"][-1] + 1}) taken as the introduction, the others (lines {[x + 1 for x in c["intro"][:-1]]}) left as markers: check')
+        if intro_idx and not intro_ok: gaps.append('introduction not filled: no bhāṣya block before the heading in print, index has one')
+        if not intro_idx and c['intro']: gaps.append('introduction block in print, none in index (not filled)')
+        if why: log.append((ref, 'SKIP', '; '.join(why) + ((' | ' + '; '.join(c['flags'])) if c['flags'] else ''))); bad += 1; continue
+        for x in range(1, n + 1):
+            row = c['rows'][x]; blk = c['riks'].get(x, {})
+            if 'sa' in blk: fill[blk['sa']] = kn(row['samhita'])
+            if 'pa' in blk: fill[blk['pa']] = kn(row['pada'])
+            if 'bh' in blk and row['n_para']: fill[blk['bh']] = kn(paras(con, c['m'], c['s'], x))
+        if intro_ok: fill[c['intro'][-1]] = kn(idx['intro'])
+        note = '; '.join(gaps + c['flags'])
+        log.append((ref, 'FILLED' if not gaps else 'PARTIAL', f'{n} Ṛks' + ((' | ' + note) if note else ''))); ok += 1
+    if pending: log.append(('-', 'NOTE', f'{len(pending)} bhāṣya block(s) after the last sūkta heading, not assigned (lines {[x + 1 for x in pending][:5]})'))
+    markers = sum(1 for l in L if MARK.match(l.strip())); dropped = [i for i, par in cont.items() if par in fill]
+    print(f'{len(order)} sūkta headings read; filled {ok}, left {bad}; {len(fill)} blocks filled; markers in the file {markers}, continuation markers dropped {len(dropped)}')
+    for ref, st, tx in log:
+        if st != 'FILLED': print(f'  {st} {ref}: {tx}')
+    if show:
+        m_, s_, r_ = [int(x) for x in show.split('.')]
+        c = suk.get((m_, s_))
+        if not c or r_ not in c['riks']: print('--show: that Ṛk is not in the file')
+        else:
+            for kind in ('sa', 'pa', 'bh'):
+                b = c['riks'][r_].get(kind)
+                print(f'--- {show} {kind} (marker at line {b + 1 if b is not None else "-"}) ---'); print((fill.get(b, '(not filled: the sūkta was left)')) if b is not None else '(no block in print)')
     if write:
-        out = []
-        for i, l in enumerate(lines):
-            if i in repl:
-                if repl[i] is not None: out += repl[i]
-            else: out.append(l)
-        open(path, 'w', encoding='utf8').write('\n'.join(out))
-        rep = os.path.join(ROOT, f'vol{vol}', 'review', 'ws_fill_report.tsv'); os.makedirs(os.path.dirname(rep), exist_ok=True)
-        open(rep, 'w', encoding='utf8').write('\t'.join(hdr) + '\n' + '\n'.join('\t'.join(map(str, r)) for r in rows) + '\n')
-        left2 = sum(1 for l in out if MARK.match(l))
-        print(f'written {os.path.relpath(path, ROOT)}; marker lines before {left}, after {left2}; report {os.path.relpath(rep, ROOT)}')
+        drop = set(dropped); out = [fill[i] if i in fill else l for i, l in enumerate(L) if i not in drop]
+        open(out_f, 'w', encoding='utf8').write('\n'.join(out))
+        os.makedirs(os.path.join(ROOT, f'vol{vol}', 'review'), exist_ok=True)
+        with open(os.path.join(ROOT, f'vol{vol}', 'review', 'ws_fill_log.tsv'), 'w', encoding='utf8') as g:
+            g.write('sukta\tstatus\ttext\n')
+            for x in log: g.write('\t'.join(x) + '\n')
+        print(f'written: {os.path.relpath(out_f, ROOT)} and vol{vol}/review/ws_fill_log.tsv')
 
-
-if __name__ == '__main__':
-    main()
+if __name__ == '__main__': main()

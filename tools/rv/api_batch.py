@@ -299,6 +299,7 @@ def apply_answer(w, text):
     en = re.sub(r' ?\((?:the )?(?:sentence|block|text|verse) (?:breaks off|ends|stops|continues)[^)\n]*\)', '', en)   # '(the sentence breaks off here; it continues in the next window)' (Vol 23 w0206)
     en = re.sub(r'⟦([^⟧⟦*\n\u0C80-\u0CFF]{1,40})\*', r'*\1*', en); en = re.sub(r'\*([^*⟦⟧⟩\n\u0C80-\u0CFF]{1,40})⟩', r'*\1*', en)   # garbled italic marks: '⟦apa*' and '*na⟩' for '*apa*', '*na*' (Vol 23 w0337)
     en = re.sub(r' ?(?:The|the) (?:grammatical discussion|discussion|sentence|text|block|commentary|explanation)[^.\n]{0,160}\b(?:breaks off|ends|stops) (?:here|at the end of (?:the|this) window)[^.\n]*\.', '', en)   # Vol 23 w0389, w0396, w0551
+    en = re.sub(r' ?\*?\((?:the )?(?:Kannada )?(?:sentence|block|text|verse|quotation)[^)\n]{0,40}(?:breaks off|continues)[^)\n]*\)\*?', '', en)   # '*(the Kannada text breaks off here; the next window continues)*' (Vol 30 w0850)
     en, fixed = autofix_inline(w, en, kn)
     en, latin = latin_fallback(en, kn); fixed += latin
     en, qi = quoted_iast_to_segments(en, kn); fixed += qi
