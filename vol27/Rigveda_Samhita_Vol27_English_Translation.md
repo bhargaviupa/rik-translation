@@ -4155,6 +4155,274 @@ By drinking whom the showerer Indra is invigorated, by drinking you who are the 
 > त्वं ह्य१॒ं॑ग दैव्या॒ पव॑मान॒ जनि॑मानि द्यु॒मत्त॑मः ।  
 > अ॒मृ॒त॒त्वा य॑ घो॒षयः॑ ॥ ३ ॥
 
+### Printed p. 91
+#### Ṛk 3 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । अंग । दैव्या । पवमान । जनिमानि । द्युमत् 5तमः ।  
+> अमृतत्वाय । घोषयः ॥ ३ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान सोम द्युमत्तमोऽतिशयेन दीप्तिमांस्त्वं
+> त्वमेव दैव्या देवसंबंधीनि जनिमानि जन्मानि । देवानित्यर्थः । तानभिलक्षामृत
+> त्वाय तेषाममरणायांग क्षिप्रं घोषयः । शब्दायसे ॥ घुषिर् विशब्दनॆ ।
+> ण्यंतस्य लेटि रूपं । हियोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O purifying Soma, you who are the most radiant, you alone, for the immortality of the gods, quickly proclaim (घोषयः (*ghoṣayaḥ*), you cause to sound) the births pertaining to the gods, that is, the gods themselves. He explains घोषयः (*ghoṣayaḥ*) as "you cause to sound", from the root घुषिर् (*ghuṣir*) in the sense of sounding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva, called Pavamāna
+- द्युमत्तमः (*dyumattamaḥ*)—shining exceedingly
+- त्वं हि (*tvaṃ hi*)—you alone
+- दैव्या (*daivyā*)—pertaining to the gods
+- जनिमानि (*janimāni*)—the births (of all the gods)
+- अमृतत्वाय (*amṛtatvāya*)—so that freedom from death may come about
+- अंग (*aṃga*)—quickly
+- घोषयः (*ghoṣayaḥ*)—you have proclaimed
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, called Pavamāna, you who shine exceedingly have proclaimed that all the gods may have freedom from death.
+
+##### English translation
+For you, Pavamana, who are most brilliant, quickly shout to the races of the gods for (the sake of their) immortality:—
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येना॒ नव॑गो द॒ध्यज्ज॑पोर्णु॒ते येन॒ विप्रा॑स आपि॒रे ।  
+> दे॒वानां॑ सु॒म्मे अ॒मृत॑स्य॒ चारु॑णो॒ येन॒ श्रवां॑स्यान॒शुः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । नवग्वः । दध्यज् । अपऊर्णुते । येन । विप्रासः । आपिरे ।  
+> देवानां । सुम्मे । अम्यतस्य । चारुणः । येन । श्रवांसि । आनशुः ॥ ४ ॥
+
+### Printed p. 92
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नवगो नवनीयगतिः यद्वा नवभिर्मासैः सत्रस्यानुष्ठाता दध्यजीतन्नामकोऽंगिरा येन सोमेन पणिभिरपहृतानां गवां द्वारमपोर्णुते
+> आपाच्छादयति विवृतमकार्षित् विप्रासस्तन्मुखाः सर्वे मेधाविनोऽंगिरसो येन
+> च सोमेनापिरे एतैरपहृता गा आप्नुवन् किंच देवानामिंद्रादीनां सुम्मे
+> सुखे यज्ञेन संजाते सति चारुणः कल्याणस्यामृतस्कोदकस्य संबंधीनि श्रवांस्यन्नानि येन च सोमेन यजमाना आनशुः आप्नुवन् अलभंत स त्वं देवानाममृतत्वाय शब्दायस इति पूर्वेण समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+नवगो (*navago*) means one whose course is to be praised; or else, one who performs a sattra of nine months. Dadhyañc, an Aṅgiras, by which Soma opens the door of the cows carried off by the Paṇis, which had been covered; all the wise Aṅgirases, led by him, by which Soma obtained the cows carried off by these. Further, when the sacrifice that gives happiness to the gods, Indra and the rest, has come into being, the sacrificers by which Soma obtained the foods connected with the auspicious ambrosial water. The construction is with the preceding: "you proclaim for the immortality of the gods".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नवग्वः (*navagvaḥ*)—who performed the sattra sacrifice in nine months
+- दध्यज् (*dadhyaj*)—the sage named Dadhyañc
+- येन (*yena*)—by whose help of yours
+- अपोर्णुते (*aporṇute*)—he is able to open the door that had shut in the cows
+- विप्रासः (*viprāsaḥ*)—the wise Aṅgirases
+- येन (*yena*)—by whose help of yours
+- आपिरे (*āpire*)—they obtained all the cows (and)
+- देवानां (*devānāṃ*)—for the gods, Indra and others
+- सुम्मे (*summe*)—when the happy sacrifice has begun
+- चारुणः (*cāruṇaḥ*)—beneficial
+- अमृतस्य (*amṛtasya*)—connected with water
+- श्रवांसि (*śravāṃsi*)—the foods
+- येन (*yena*)—by whose help of yours
+- आनशुः (*ānaśuḥ*)—the sacrificers obtained (you, such as you are, proclaimed freedom from death to the gods)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, by whose help the sage named Dadhyañc, who performed the sattra sacrifice in nine months, is able to open the door that had shut in the cows; by whose help the wise Aṅgirases obtained all the cows; by whose help the sacrificers obtained the beneficial foods connected with water when the sacrifice giving happiness to Indra and the other gods began: you proclaimed freedom from death to the gods.
+
+##### English translation
+(You) through whom Dadhyanch the offerer of the nine days' rite opened (the cave), through whom the rishis recovertd (the stolen cows), through whom under the protection of the gods the worshippers obtained the sustenance of the delicious (ambrosial) water—
+
+### Printed p. 93
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य धार॑या सु॒तोऽव्यो॒ वारे॑भिः पवते म॒दिंत॑मः ।  
+> क्रीळ॑न्नू॒र्मिर॒पामि॑व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । धारया । सुतः । अव्यः । वारेभिः । पवते , मदिन् ऽतमः ।  
+> क्रीळन् । ऊर्मिः । आपां इव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्य स एष सुतोऽभिषुतः सोमोऽव्योऽनेर्वारेभिर्वालैस्तेभ्यः पवित्रेभ्यो
+> धारयात्मीयया पवते । कलशमभिलक्ष्य क्षरति । कीदृशः । मदिंतमो मादयितृतमोऽपामिवोदकानामूर्मिः संघात इव क्रीळन्नितस्ततः संक्रीडमानः पवते ॥
+
+##### Gist of the bhāṣya
+
+This Soma, pressed, flows from those purifiers, the hairs of the sheep, in his own stream; he flows aiming at the vessel. Of what kind? Most exhilarating, sporting here and there like a wave of waters, a mass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिंतमः (*madiṃtamaḥ*)—the one who gives exceeding joy
+- स्यः (*syaḥ*)—the well-known
+- सुतः (*sutaḥ*)—the pressed
+- एषः (*eṣaḥ*)—Soma-deva
+- अव्यः (*avyaḥ*)—of wool
+- वारेभिः (*vārebhiḥ*)—through the fibres of the ten-fold strainer
+- धारया (*dhārayā*)—in the form of a stream
+- अपां (*apāṃ*)—of waters
+- ऊर्मिः इव (*ūrmiḥ iva*)—like waves
+- क्रीळन् (*krīḷan*)—sporting
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, who gives exceeding joy, the well-known, the pressed, flows through the fibres of the woollen ten-fold strainer in the form of a stream, sporting like waves of water.
+
+##### English translation
+This (Soma) when effused flows most exhilarating through the woolen fleece, sporting like a wave of water.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒स्रिया॒ अप्या॑ अं॒तरश्म॑नो॒ निर्गा अकृं॑त॒दोज॑सा ।  
+> अ॒भि व्र॒जं त॑त्निषे॒ गव्य॒मश्वं॑ व॒र्मीव॑ धृष्ण॒वा रु॑ज ॥ ६ ॥
+
+### Printed p. 94
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उस्त्रियाः । अप्याः । अंतः । अश्मनः । निः । गाः । अकृंतत् । ओजसा ।  
+> अभि । व्रजं । तत्निषे । गव्यं । अश्वं । वर्मीऽइव । धृष्ट्णो इति । आ । रुज ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोम उस्रिया उत्सरणशीला अप्याः ॥ अप इत्यंतरिक्षनाम । तस्माद्भवे
+> छंदसीति यत् ॥ अंतरिक्षस्था अहिप्रभृतिभिरसुरैरपहृत्य निहिता गा अपोऽश्मनः ।
+> मेघनामैतत् । मेघादंतरोजसा बलेन निरकृंतत् निरच्चिनत् । अंतरिक्षादृष्टिमकार्षिदित्यर्थः । स त्वमसुरैरपहृतं गव्यं गोसंबंधिनमश्वमश्वेषु
+> भवं व्रजं समूहमभि तत्निषे । अभितो व्याप्योषि ॥ तनु विस्तारे । छांदसे लिट
+> तनिपत्योश्चंदसीत्युपधालोपः ॥ किं च हे धृष्णो शत्रुधर्षणशील सोम स त्वं
+> वर्मीव कवचीव शूर आ रुज । असुरानाजहि ॥
+
+##### Gist of the bhāṣya
+
+The Soma who with his might split from within the rock the quick-flowing waters of the atmosphere, carried off by Ahi and other Asuras and set down; *apaḥ* is a name of the atmosphere, and अश्मनः (*aśmanaḥ*) a name of the cloud. That is, he made rain fall from the atmosphere. You spread over, on all sides, the herd connected with cows and horses carried off by the Asuras. Further, O bold Soma, who are accustomed to overpower enemies, like a mailed hero, smite the Asuras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—you who
+- उस्रियाः (*usriyāḥ*)—flowing
+- अप्याः (*apyāḥ*)—abiding in the atmosphere
+- गाः (*gāḥ*)—the waters
+- ओजसा (*ojasā*)—by your own power
+- अश्मनः अंतः (*aśmanaḥ aṃtaḥ*)—from within the cloud
+- निः अकृंतत् (*niḥ akṛṃtat*)—split and poured down
+- गव्यं (*gavyaṃ*)—connected with cows
+- अश्वं (*aśvaṃ*)—consisting of horses
+- व्रजं (*vrajaṃ*)—the herd
+- अभि तत्निषे (*abhi tatniṣe*)—you stand pervading
+- धृण्णो (*dhṛṇṇo*)—O Soma, overpowerer of enemies
+- वर्मीव (*varmīva*)—like a hero wearing armour
+- आ रुज (*ā ruja*)—conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who by your own power split and poured down from within the cloud the flowing waters of the atmosphere, such as you are, you stand pervading the herd connected with cows and horses. O Soma, overpowerer of enemies, like a hero who wears armour, conquer the enemies.
+
+##### English translation
+You, who by your might extricated from the rock the quick-moving cows abiding in the waters, you have spread out a pasturage for cattle and horses ; like a mailed (warrior) slay (the Asuras), brave (Soma)-
+
+### Printed p. 95
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सो॑ता॒ परि॑ षिंच॒ताश्वं॒ न स्तोम॑म॒पुरं॑ रज॒स्तुरं॑ ।  
+> वनक्रक्षमुदपुतं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सोत । परि । सिंचत . अश्वं । न । स्तोमं । अप्तुरं । रजतुरं ।  
+> वसक्रक्ष्यं । उदपुप्रतं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः आ सोत । सोममभिसुणुत ॥ षुञ् अभिषवे । लोटि
+> च्छांदसो विकरणस्य लुक् । तप्तनप्तनथनाश्चेति तस्य तबादेशः ॥ किंच परि षिंचत ।
+> परितस्तं वसतीवर्यादिभिः सिंचत । कीदृशं । अश्वं नाश्वमिव वेगिनं स्तोमं
+> स्तोतव्यमपुरमंतरिक्षस्थितानामुदकानां प्रेरकं रजस्तुरं तेजसां च प्रेरकं ।
+> वनऋक्षमुदकानामर्षकं । यद्वा । काष्ठेषु पात्रेषु विप्रकीर्णं । उदपुतमुदके गच्छंतं प्लवमानं सोममभिसुणुताभिषिंचत च ॥
+
+##### Gist of the bhāṣya
+
+O priests, press Soma, and sprinkle him all around with the vasatīvarī waters. Of what kind? Swift like a horse, to be praised, the impeller of the waters standing in the atmosphere, the impeller of lights, the sender-forth of waters; or else, scattered about in wooden vessels; going in the water, floating. Press and sprinkle such Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वं न (*aśvaṃ na*)—swift-going like a horse
+- स्तोमं (*stomaṃ*)—praiseworthy
+- अप्तुरं (*apturaṃ*)—impelling the waters
+- रजस्तुरं (*rajasturaṃ*)—causing light to spread
+- वनऋक्षं (*vanaṛkṣaṃ*)—that pours down rain
+- उदपुत्रं (*udaputraṃ*)—that moves in the waters
+- आ सोत (*ā sota*)—press
+- परि षिंचित (*pari ṣiṃcita*)—sprinkle all around
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, press Soma, who is swift-going like a horse, praiseworthy, impelling the waters, causing light to spread, pouring down rain, moving in the waters. Sprinkle him all around.
+
+##### English translation
+Pour forth (the Soma), sprinkle it round like a horse, adorable, dispenser of rain, dispenser cf light, showerer of fluid, swimming in water—
+
+### Printed p. 96
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑धारं वृष॒भं प॑यो॒वृधं॑ प्रि॒यं दे॒वाय॒ जन्म॑ने ।  
+> ऋ॒तेन॒ य ऋ॒तजा॑तो विवावृ॒धे राजा॑ दे॒व ऋ॒तं बृ॒हत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रधारं । वृषभं । पयःवृधं । प्रियं । देवाय । जन्मने ।  
+> ऋतेन । यः । ऋतजातः । विववृधे । राजा । देवः । ऋतं । बृहत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रधारं बहुधारोपेतं वृषभं कामानां वर्षकं पयोवृधमुदकानां वर्धकं प्रियं प्रीणयितारं तं सोमं देवाय देवसंबंधिने जन्मने
+> देवेभ्यस्तदर्थमभिषुणुत । ऋतजात उदकाज्ञातो यो राजा सोम ऋतेन
+> वसतीवर्याख्येनोदकेन विववृधे विशेषेण वर्धते। कीदृशः । देवो द्योतमानः स्तोतव्यो वा ऋतं सत्यभूतः सन् बृहन्महान् । तमासुनुतेति पूर्वेण
+> समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Press that Soma, who has a thousand streams, a showerer of desires, increaser of waters, dear, a pleaser, for the gods, for the divine race. The king Soma, born of water, grows exceedingly by the water called vasatīvarī. Of what kind? Divine, shining or to be praised, true in nature, great. The construction is with the preceding: "press him".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Soma who
+- ऋतजातः (*ṛtajātaḥ*)—born of water
+- राजा (*rājā*)—and lord
+- ऋतेन (*ṛtena*)—joined with water
+- वि ववृधे (*vi vavṛdhe*)—grows, such a one
+- देवः (*devaḥ*)—of divine nature
+- ऋतं (*ṛtaṃ*)—true in nature
+- बृहत् (*bṛhat*)—great, such a one
+- सहस्रधारं (*sahasradhāraṃ*)—having many streams
+- वृषभं (*vṛṣabhaṃ*)—showerer of desires
+- पयोवृधं (*payovṛdhaṃ*)—increaser of water
+- प्रियं (*priyaṃ*)—causing joy: such Soma
+- देवाय जन्मने (*devāya janmane*)—for the satisfaction of the divine people
+- press him
+
+##### भावार्थ (Bhāvārtha)
+
+Press for the satisfaction of the divine people that Soma who, born of water and a lord, grows joined with the waters, and who is of divine nature, who has many streams, is a showerer of desires, an increaser of waters, causing joy.
+
 ---
 
-**Progress note:** Done through printed p. 90. pp. 85-90 (batch API)
+**Progress note:** Done through printed p. 96. pp. 91-96 (batch API)
