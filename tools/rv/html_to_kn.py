@@ -109,6 +109,9 @@ def deva_to_kn_line(l):
     if not re.search('[ऀ-ॣ०-ॿ]',l): return l,False
     from deva_to_kannada import deva2kn
     return re.sub('[ऀ-ॣ०-ॿ]+',lambda m:deva2kn(m.group(0)),l),True
+def TR(st,i,kind,sec):
+    """optional trace for tools/rv/blocks_to_markers.py: st['trace'] collects (index of the line among the page's non-empty lines, 'lab'|'blk'|'txt', section)"""
+    if 'trace' in st: st['trace'].append((i,kind,sec))
 def kn_page(printed,head,text,section=None,st=None):
     """returns (markdown of the page, section at the end of the page).  st: dict carried from page to page (ref index, last verse, pending label)."""
     st=st if st is not None else {}; ref=st.get('ref'); st['page']=printed
@@ -134,16 +137,16 @@ def kn_page(printed,head,text,section=None,st=None):
                 out.extend(['',f'<!-- printed {nx} -->',f'*[{l}]*','']); st['page']=nx; st.setdefault('extra',[]).append(nx)
                 LOG.append(f'p. {nx}: running head not recognised by the page splitter ("{l[:40]}"): page marker inserted by script (add "### Printed p. {nx}" in en.md)'); continue
         k=label_of(l)
-        if k: setlabel(k); continue
+        if k: TR(st,i,'lab',k); setlabel(k); continue
         if len(l)<=24 and _ratio(l.lower().rstrip('. '),'english translation')>=0.8: setlabel('english',l,f'garbled label "{l}" -> English Translation.'); continue
         if l.startswith('[figure'): out.append(l); continue
         if stray(l): out.append(f'*[stray line as supplied: {l}]*'); continue
         force=st.get('force'); fz=fuzzy_label(l,section if not force else {'pada':'samhita','bhashya':'pada'}[force])
         if force:                                   # the block before ended with its verse number: the next section is certain
             c=_core(l)
-            if fz==force or (len(c)<=14 and len(c.split())<=3 and not ENDNUM.search(l)): setlabel(force,l,f'garbled label "{l}" -> {CANON[force]}'); continue
+            if fz==force or (len(c)<=14 and len(c.split())<=3 and not ENDNUM.search(l)): TR(st,i,'lab',force); setlabel(force,l,f'garbled label "{l}" -> {CANON[force]}'); continue
             setlabel(force,None,f'label {CANON[force]} missing in the supplied text: inserted')
-        elif fz: setlabel(fz,l,f'garbled label "{l}" -> {CANON[fz]}'); continue
+        elif fz: TR(st,i,'lab',fz); setlabel(fz,l,f'garbled label "{l}" -> {CANON[fz]}'); continue
         if section!='samhita':
             rid=verse_start(l,ref,st.get('last'))
             if rid and quote_follows(lines,i): LOG.append(f'p. {printed}: verse-like lines {l[:30]}… followed by a printed reference: a quotation in the commentary, no label inserted'); rid=None
@@ -151,13 +154,14 @@ def kn_page(printed,head,text,section=None,st=None):
                 st['last']=rid; prev=out[-1] if out else ''
                 c=_core(prev)
                 if prev and not prev.startswith(('*','<!--')) and c and len(c)<=14 and len(c.split())<=3 and not ENDNUM.search(prev):   # a short unreadable line right before the verse = its label
-                    out.pop(); setlabel('samhita',prev.lstrip('> '),f'garbled label "{prev.lstrip("> ")}" before the verse {rid[1]}.{rid[2]} -> {CANON["samhita"]}')
+                    out.pop(); TR(st,i-1,'lab','samhita'); setlabel('samhita',prev.lstrip('> '),f'garbled label "{prev.lstrip("> ")}" before the verse {rid[1]}.{rid[2]} -> {CANON["samhita"]}')
                 else: setlabel('samhita',None,f'label {CANON["samhita"]} missing before the verse {rid[1]}.{rid[2]}: inserted')
         elif st.get('fresh'):
             rid=verse_start(l,ref,st.get('last'),True) or verse_start(l,ref,None,True); st['fresh']=False
             if rid: st['last']=rid
         if section=='bhavartha' and is_latin(l): setlabel('english',None,'label English Translation missing: inserted before the Latin text')
         if section=='bhashya' and re.match(r'ಅನುವಾದ(ವು)?\s*[—-]',l): st['plain']=True; LOG.append(f'p. {printed}: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block ({l[:30]}…)')   # Vol 19: the sūkta introductions' Anuvāda and particulars stood inside the bhāṣya block 5 times
+        TR(st,i,'blk' if section in BLOCK and not st.get('plain') else 'txt',section)
         out.append(('> '+l) if section in BLOCK and not st.get('plain') else l); st['content']=True
         if section in ('samhita','pada') and ENDNUM.search(l): st['force']={'samhita':'pada','pada':'bhashya'}[section]
     out=drop_dup_figures(out,printed)
@@ -196,7 +200,10 @@ def kn_pages(specs,pages,section=None,mandalas=None,warm=12):
         if p not in P: md.append(f'<!-- printed {p}: NOT IN THE SUPPLIED TEXT -->\n'); continue
         t,section=kn_page(p,H.get(p,''),P[p],section,st); md.append(t)
     EXTRA[:]=st['extra']
-    return '\n'.join(md),section
+    txt='\n'.join(md)
+    for p in pages:        # a page without a head of its own may still be found inside the page before it: then no 'NOT IN THE SUPPLIED TEXT' mark for it
+        if re.search(r'(?m)^<!-- printed %d -->$'%p,txt): txt=re.sub(r'(?m)^<!-- printed %d: NOT IN THE SUPPLIED TEXT -->\n?\n?'%p,'',txt)
+    return txt,section
 if __name__=='__main__':
     a=sys.argv[1:]; sec=a[a.index('--section')+1] if '--section' in a else None
     specs=[x for x in a if '.html' in x or '.md' in x]; pi=a.index('--pages')+1; pages=[int(x) for x in a[pi:] if x.isdigit()]

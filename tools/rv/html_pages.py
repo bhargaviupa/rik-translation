@@ -4,6 +4,7 @@ import: pages(path) -> {printed_page: text}  (page = text from one running head 
 import re,html,sys
 KD=str.maketrans('೦೧೨೩೪೫೬೭೮೯','0123456789')
 ANOMALIES=[]
+LINE_PAGE=[]      # pages_md fills it: LINE_PAGE[line index of the file] = the page the line belongs to (None before the first head); read by tools/rv/blocks_to_markers.py
 def pages(path,heads=None,title=('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಸಾಯಣಭಾವ್ಯಸಹಿತಾ')):
     """HTML form. Head numbers are noisy (OCR: '750' for 790, '79]' for 791): numbers that disagree with their neighbours are replaced by the
     offset-median rule (as in pages_md); a head with no number takes the previous number + 1."""
@@ -54,6 +55,13 @@ def pages_md(path,heads=None):
         if VOL1_HEAD.fullmatch(h):                          # Vol 1 heads: 'ಪೂರ್ವಪೀಠಿಕೆ 3', '4 ಋಗ್ವೇದಭಾಷ್ಯದ' (and OCR variants of the second word)
             n=_head_number(h)
             if n is not None: H.append([ln,n,h]); continue
+        D='[೦-೯0-9]'
+        if (re.search(r'\[\s*ಮ.{0,3}'+D+r'{1,2}\W{1,3}[ಅಆ]\W{0,3}'+D+r'{1,2}\W{1,3}ಸೂ',h) or re.search(r'[ಅಆ]\W{0,3}'+D+r'\W{1,3}[ಅಆ]\W{0,3}'+D+r'{1,2}\W{1,4}[ವಪನ]\W{0,3}'+D+r'{1,2}\W{0,3}\]',h)) and not re.search('ಪಾರಃ|ಪಾಠಃ|ಪಾದಃ',h):   # structure of the head whatever its words were read as (Vol 27): '[ ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೧೦' (even pages) and 'ಅ. ೭. ಅ. ೫. ವ. ೧೪ ]' (odd pages)
+            n=_head_number(h)
+            if n is not None: H.append([ln,n,h]); continue
+        if re.search(r'ಭಾ.{1,3}ಸಂ?ಹಿ ?ತಾ|ಗ್ವೇದ.{0,2}ಹಿ ?ತಾ',h) and not re.search('ಪಾರಃ|ಪಾಠಃ|ಪಾದಃ',h):    # OCR variants of the running head (Vol 23, 30): ಸಾಯಣಭಾವ್ಯ/ಭಾಷ್ಪ/ಭಾಜ್ಯ/ಭಾನ್ಯಸಹಿತಾ, ಋಗ್ವೇದಸಹಿತಾ, ಋಗ್ವೇದಹಿತಾ
+            n=_head_number(h)
+            if n is not None: H.append([ln,n,h]); continue
         if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಭಾಷ್ಯಸಹಿತಾ','ಗ್ವೇದಸಂಹಿತಾ','ಷ್ಯಸಂಹಿತಾ')):      # 'ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ' (OCR: anusvara) heads were missed in Vol 19 (pp. 176, 194, 236, 262, 278, 308, 366, 390, 436 …)
             n=_head_number(h)
             if n is not None: H.append([ln,n,h])
@@ -68,12 +76,13 @@ def pages_md(path,heads=None):
         fixed.append(t)
     for i in range(1,len(H)):
         if fixed[i]>fixed[i-1]+1 and fixed[i]==H[i][1]: ANOMALIES.append((H[i][0]+1,H[i][1],H[i][1],'skip from %d (page without a running head, merged into the page before?)'%fixed[i-1]))
-    out={}; cur=None; hi={ln:(k,fixed[k]) for k,(ln,n,h) in enumerate(H)}
+    out={}; cur=None; hi={ln:(k,fixed[k]) for k,(ln,n,h) in enumerate(H)}; del LINE_PAGE[:]
     for ln,l in enumerate(lines):
         if ln in hi:
-            cur=hi[ln][1]; out.setdefault(cur,[])
+            cur=hi[ln][1]; out.setdefault(cur,[]); LINE_PAGE.append(cur)
             if heads is not None: heads.setdefault(cur,H[hi[ln][0]][2])
             continue
+        LINE_PAGE.append(cur)
         if l.startswith('![') or 'base64,' in l: continue
         if cur is not None: out[cur].append(re.sub(r'^#+\s*','',l))
     return {k:re.sub(r'\n\s*\n+','\n','\n'.join(v)).strip() for k,v in out.items()}
