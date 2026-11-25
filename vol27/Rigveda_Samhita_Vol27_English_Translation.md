@@ -13588,6 +13588,249 @@ Tvaṣṭṛ, the maker of forms; Savitṛ, the impeller of all to good and bad;
 
 Prajāpati, the maker of the forms of the world, the impeller of all, the self of all, the divine self, the begetter of all, made us husband and wife while we were still in the womb. No one at all can injure the deeds of this Prajāpati. Both heaven and earth have known this relation of ours as husband and wife.
 
+### Printed p. 369
+
+##### English translation
+(Yami speaks). The divine omniform generator Twashtri, the progenitor, made us two husband and wife, even in the womb : none frustrate his undertaking ; earth and heaven are conscious of this our (union)
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को अ॒स्य वे॑द प्रथ॒मस्याह्नः॒ क ईं॑ ददर्श॒ क इ॒ह प्र वो॑चत् ।  
+> बृ॒हन्मि॒त्रस्य॒ वरु॑णस्य॒ धाम॒ कदु॑ ब्रव आहनो॒ वीच्या॒ न्नान् ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । अस्य । वेद । प्रथमस्य । अह्नः । कः । ईं । ददर्श । कः । इह । प्र । वोचत् ।  
+> बृहत् । मित्रस्य । वरुणस्य । धाम । कत् । ऊं इति। ब्रवः । आहनः । वीच्या । न्यान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमस्याह्नः संबंध्यस्येदमन्योन्यसंगमनं को वेद । जानाति । प्रथमेs
+> हनि यत्क्रियते तदनुमानमाश्रित्य न कश्चिदपि ज्ञातुं शक्नोतीत्यर्थः । इहास्मिन्देशे प्रत्यक्षतः क ईमिदं संगमनं ददर्श । पश्यति । कः प्र वोचत् । प्रख्यापयति ।
+> न कोऽपीत्यर्थः ॥ मत्रस्य वरुणस्य मित्रावरुणयोर्बृहन्महद्दाम स्थानमहोरात्रं यदस्ति तत्र न्यान्मनुष्यान् वीच्या नरकेण हे आहन आहंतर्मर्यादया
+> हिंसितः । स्वकृतशुभाशुभकर्मापेक्षया मनुष्यादिप्राणिनां नरकपातेन स्वर्गप्रापणेन निग्रहानुग्रहयोः कर्तरित्यर्थः । एवंभूत हे यम त्वं कदु ब्रवः ,
+> किं वा ब्रवीषि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the verse as Yamī's speech. Who knows this mutual union belonging to the first day? Whatever is done on the first day, no one can know it by inference. Who has seen this union here, directly, in this place? Who will proclaim it? No one. The great abode of Mitra and Varuna is day and night. In that abode, O Āhana, you restrain men by hell, and by sending them to heaven you are the agent of both restraint and favour for men and other beings, according to the good and evil deeds each has done. Being such, O Yama, what do you say, or what will you answer?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमस्य अह्नः (*prathamasya ahnaḥ*)—of the first day
+- अस्य (*asya*)—this mutual union
+- कः वेद (*kaḥ veda*)—who indeed knows
+- इह (*iha*)—in this place
+- ईं (*īṃ*)—this union
+- कः ददर्श (*kaḥ dadarśa*)—who has seen
+- कः प्रवोचत् (*kaḥ pravocat*)—who can proclaim and tell
+- मित्रस्य (*mitrasya*)—of Mitra
+- वरुणस्य (*varuṇasya*)—of Varuna
+- बृहत् धाम (*bṛhat dhāma*)—in the great abode, day and night
+- नृन् (*nṛn*)—men
+- वीच्या (*vīcyā*)—by hell
+- आहनः (*āhanaḥ*)—O Yama, who afflict
+- कदु ब्रवः (*kadu bravaḥ*)—what will you say in this matter?
+
+### Printed p. 370
+
+##### भावार्थ (Bhāvārtha)
+
+Who indeed knows this mutual union of the first day? Who has seen this union in this place? Who can proclaim it? O Yama, you who afflict men in the form of hell in the great abode of Mitra and Varuna, namely day and night, what will you say in this matter?
+
+##### English translation
+(Yami speaks). Who knows anything of this (his) first day (of intercourse)? Who will behold it? Who will here reveal it? The dwelling of Mitra and of Varuna is vast. What do you say, you who punish men with hell?
+
+##### विशेषविषयगळु (Special Topics)
+
+The derivation and explanation that Yāska has written concerning the word आहनः (*āhanaḥ*) is set out in the Special Topics of the next Ṛk (see page 372).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒मस्य॑ मा य॒म्यं१॒॑ १ काम॒ आग॑न्त्समा॒ने योन्॑सह॒शेया॑य ।  
+> जा॒येव॒ पत्ये॑ त॒न्वं॑ रिरिच्यां॒ वि चि॑द्वृहेव॒ रथ्ये॑व च॒क्रा ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यमस्य । मा । यम्यं। कामः। आ । अगन् । समाने । योन् । सहशेय्याय ।  
+> जायाऽइव । पत्ये । तन्वं । रिरिच्यां । वि । चित् । वृहेव । रथ्या इव । चक्रा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमस्य तव कामोऽभिलाषो यम्यं यमीं मां मां प्रत्यागन् ।
+> आगच्छतु । मनोपरि तव यमस्य संभोगेच्छा जायतामित्यर्थः : किमर्थं ।
+> समाने योनावेकस्मिन् स्थाने शय्याख्ये सहशेय्याय सहशयनार्थं । तदनंतरं
+> पूर्णमनोरथा सती जायेव पत्ये यथा भार्या पत्युरर्थाय परया प्रीत्या
+
+##### Gist of the bhāṣya
+
+Yama, may your desire, your longing, come towards me, Yamī; that is, may the wish for union arise in you. For what purpose? For lying together in one place, called the bed. Thereafter, as a wife whose wishes are fulfilled, trusting her husband and wishing for love, displays her body to him with the highest affection, so may I lay bare my own body for you.
+
+### Printed p. 371
+
+> विश्वस्ता सती रतिकामा स्वशरीरं प्रकाशयति एवं तन्नमात्मीयं शरीरं रिरिच्यां
+> विविच्यां । त्वदर्थं प्रकाशयेयमित्यर्थः । किंच । चिदिति पूरणः । विवृहेव !! वृहू
+> उद्यमने ॥ धर्मार्थकामान्विविधमुद्यच्छावः । तत्र दृष्टांतः । रथ्येव चक्रा
+> रथस्यावयवभूते चक्रे यथा रथमुद्यच्छतस्तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"Moreover, चित् (*cit*) is an expletive." The word विवृहेव (*vivṛheva*) is from the root वृहू (*vṛhū*) in the sense of lifting up: let us both exert ourselves in various ways for dharma, artha and kāma. The illustration is रथ्येव चक्रा (*rathyeva cakrā*): as two wheels, being parts of a chariot, bear up the chariot, so we.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समाने योन् (*samāne yon*)—in one bed
+- सहशेय्याय (*sahaśeyyāya*)—to lie together
+- यमस्य (*yamasya*)—of you, Yama
+- कामः (*kāmaḥ*)—desire
+- यम्यं (*yamyaṃ*)—me, who am named Yamī
+- मा (*mā*)—me (to join me)
+- आगन् (*āgan*)—may arise
+- पत्ये (*patye*)—for her husband
+- जायेव (*jāyeva*)—as a wife offers her body completely
+- तन्वं (*tanvaṃ*)—my body
+- रिरिच्यां (*riricyāṃ*)—I will offer to you
+- चक्रा (*cakrā*)—the wheels of a chariot
+- रथ्येव (*rathyeva*)—as they bear the chariot together
+- वि वृहेव (*vi vṛheva*)—let us both together carry out dharma, artha and kāma
+
+##### भावार्थ (Bhāvārtha)
+
+O Yama, may the desire arise in you to cooperate with me, that we two may lie together in one bed. As a wife offers her body completely to her husband, I will offer my body to you. As the wheels of a chariot bear the chariot together, let us two together carry out dharma, artha and kāma.
+
+##### English translation
+(Yami speaks). O yama, the desire may come to you to lie with me in the same bed ; I will abandon my person to you as a wife to her husband; let us exert ourselves in union like the two wheels of a waggon.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ति॑ष्ठंति॒ न नि मि॑षंत्ये॒ते दे॒वानां॒ स्पश॑ इ॒ह ये चरं॑ति ।  
+> अ॒न्येन॒ मदा॑हनो याहि॒ तूयं॒ तेन॒ वि वृ॑ह॒ रथ्ये॑व च॒क्रा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तिष्ठंति । न । नि । मिषंति । एते । देवानां । स्पशः । इह । ये । चरंति ।  
+> अन्येन । मत् । आहनः । याहि । तूयं । तेन । वि । वृह । रथ्या इव । चक्रा ॥ ८ ॥
+
+### Printed p. 372
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यम्या प्रख्यातो यमः पुनराह । इहास्मिल्लोके देवानां संबंधिनो
+> ये स्पशोऽहोरात्रादयश्चाराश्चरंति सर्वॆषां शुभाशुभलक्षणकर्मप्रत्यवेक्षणार्थं परिभ्रमंति एते चाराः क्षणमात्रमपि चरणव्यापाररहिता न तिष्ठंति । न नि
+> मिषंति । मेषणं न कुर्वंति । शुभमशुभं वा यः करोति तं निरीक्षंते चेत्यर्थः।
+> हे आहनो ममापहंत्र्यसह्यभाषणेन दुःखयित्रि त्वं मन्मत्तोऽन्येन त्वत्सदृशेन
+> सह तूयं क्षिप्रं याहि । संगच्छ । गत्वा च तेन वि वृह । धर्मार्थकामानुद्यच्छ ।
+> तत्र दृष्टांतः । रथ्येव चक्रा यथा रथावयवभूते चक्रे रथमुद्यच्छतस्तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Yama, thus addressed by Yamī, speaks again. Here in this world the spies, the day-and-night and other watchers belonging to the gods, roam about to observe everyone's deeds, good and evil. These spies do not stand still, free from movement, even for a moment; they do not wink, that is, they do not close their eyes; they watch whoever does good or evil. O Āhanā, you who afflict me with unbearable speech, go quickly, join one other than me, one like you; and having gone, वि वृह (*vi vṛha*) with him: carry out dharma, artha and kāma. The illustration is रथ्येव चक्रा (*rathyeva cakrā*): as two wheels, parts of a chariot, bear up the chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Yamī) देवानां (*devānāṃ*)—appointed by the gods
+- ये स्पशः (*ye spaśaḥ*)—the spies who exist, they
+- इह चरंति (*iha caraṃti*)—move about everywhere here
+- एते (*ete*)—they
+- न तिष्ठंति (*na tiṣṭhaṃti*)—do not rest even a little
+- न निमिषंति (*na nimiṣaṃti*)—watch everything without closing the eyes
+- आहनः (*āhanaḥ*)—O Yamī, who afflict me with your sinful desire
+- मत् (*mat*)—than me
+- अन्येन (*anyena*)—with another
+- तूयं (*tūyaṃ*)—quickly
+- याहि (*yāhi*)—enter into a relation
+- चक्रा (*cakrā*)—the wheels of a chariot
+- रथ्येव (*rathyeva*)—as they bear the chariot together
+- तेन (*tena*)—joined with him
+- वि वृह (*vi vṛha*)—may you two together carry out your tasks
+
+##### भावार्थ (Bhāvārtha)
+
+O Yamī, the spies appointed by the gods move about everywhere here. They do not rest even a little. They watch everything without closing the eye. O Yamī, you who afflict me by your sinful desire, quickly enter a relation with one other than me. As the wheels of a chariot bear the chariot together, join him and let you two together carry out your tasks.
+
+##### English translation
+(Yama Speaks)- The spies of the Gods who wander upon earth, never stop, never close their eyes. Associate quickly, destructress, with some other than with me, ond exert yourselves in union, like the two wheels of a waggon.
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word आहने (*āhane*), Yāska has given an etymology for the latter half of this Ṛk:
+
+### Printed p. 373
+आहनः । अन्येन मदाहनो याहि तूयं । अन्येन मवहनो गच्छ क्षिप्रमाहंसीव भाषमाणेत्यसभ्यभाषणादाहना इव भवत्येतस्मादाहनः स्यात् ( (*āhanaḥ | anyena madāhano yāhi tūyaṃ | anyena mavahano gaccha kṣipramāhaṃsīva bhāṣamāṇetyasabhyabhāṣaṇādāhanā iva bhavatyetasmādāhanaḥ syāt (*) (Se. 5-2)**NOTE**
+
+That is: O immodest woman, leaving me, go quickly with another man of another family. O woman of bad conduct, leaving me, go off quickly with another man. This way you speak causes me great anguish. The word आहना (*āhanā*) means one who speaks bad words, that is, speaks like the speech of women of immodest behaviour, adulterous women. आहनः (*āhanaḥ*) is a word in the vocative singular. For this too the meaning stated above applies.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रात्री॑भिरस्मा॒ अह॑भिर्दशस्ये॒त्सूर्य॑स्य॒ चक्षु॒र्मुहु॒रुन्मि॑मायात् ।  
+> दि॒वा पृ॑थि॒व्या मि॑थु॒ना सबं॑धू य॒मीर्य॒मस्य॑ बिभ्यया॒द.  ॑
+> जामि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रात्रीभिः । अस्मै । अहःभिः दशस्येत् । सूर्यस्य । चक्षुः । मुहुः । उत् मिमायात् ।  
+> दिपा । पृथिव्या । मिथुना । सबंधू इति सबंधू । यमीः । यमस्य । बिभृयात् ।  
+> अजामि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रात्रिभिरहभिरहोरात्रयोरस्मै यमाय कल्पितं भागं सर्वो यजमानो
+> दशस्येत् । प्रयच्छतु । सूर्यस्य संबंधि चक्षुस्तेजो मुहुर्मुहुरस्यॆ
+> यमायोन्मिमियात् । उदेतु । दिवा पृथिव्या द्यावापृथिवीभ्यां सह मिथुनौ
+> सबंधू समानबंधू अहोरात्रे अस्मै यमाय । एतज्जात्वेयं यमीर्यमस्याजाम्यभ्रातरं बिभृयात् । धारयतु । यत्नेन परिगृह्णातित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Let every sacrificer give to this Yama, in the nights and days, the portion appointed for him. Let the eye, the brightness, of the Sun rise again and again for this Yama. Day and night, a pair, kindred, together with heaven and earth, are for this Yama. Knowing this, let this Yamī bear, that is, take up with effort, the non-brother of Yama.**NOTE**
+
+### Printed p. 374
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मै (*asmai*)—addressing this Yama
+- रात्रीभिः (*rātrībhiḥ*)—in the times of night
+- अहभिः (*ahabhiḥ*)—in the days
+- दशस्येत् (*daśasyet*)—let the sacrificer offer the oblation
+- सूर्यस्य (*sūryasya*)—of the Sun
+- चक्षुः (*cakṣuḥ*)—the brightness
+- मुहुः (*muhuḥ*)—many times
+- उन्मिमायात् (*unmimāyāt*)—let it appear for this Yama
+- दिवा पृथिव्या (*divā pṛthivyā*)—with heaven and earth
+- मिथुना (*mithunā*)—joined together
+- सबंधू (*sabaṃdhū*)—having equal kinship: let day and night be for Yama's satisfaction
+- यमीः (*yamīḥ*)—this Yamī
+- यमस्य (*yamasya*)—with Yama
+- अजामि (*ajāmi*)—a relation that is not brotherly
+- बिभृयात् (*bibhṛyāt*)—let her attain
+
+##### भावार्थ (Bhāvārtha)
+
+Throughout days and nights let sacrificers offer the oblation to this Yama alone. At many times let the Sun's brightness appear for this Yama alone. Let day and night, joined with heaven and earth and having equal kinship, be for Yama's satisfaction. Let Yamī attain with Yama a relation that is not brotherly (a conjugal one).
+
+##### English translation
+(Yama speaks). To him (Yama) let every worshipper sacrifice both day and night, on him let the eyes of the Sun repeatedly rise; (for him may) the kindred pair (day and night unite) with heaven and earth. Yamī will adhere to the non-affinity of Yama.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ घा॒ ता ग॑च्छा॒नुत्त॑रा यु॒गानि॒ यत्र॑ जा॒मयः॑ कृ॒णव॒न्नजा॑मि ।  
+> उप॑ बर्बृहि वृष॒भाय॑ बा॒हुम॒न्यमि॑च्छस्व सुभगे॒ पतिं॒  
+> मत् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । घ । ता । गच्छान् । उत्तरा । युगानि । यत्र । जामयः । कृणवन् । अजामि ।  
+> उप । बर्बृहि । वृषभाय । बाहुं । अन्यं । इच्छस्व । सुभगे । पतिं । मत् ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 368. pp. 363-368 (batch API)
+**Progress note:** Done through printed p. 374. pp. 369-374 (batch API)
