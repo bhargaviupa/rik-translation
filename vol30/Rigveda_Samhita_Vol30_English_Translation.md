@@ -22056,6 +22056,219 @@ As a smiling woman approaches her beloved and sports with him, the woman called 
 ##### English translation
 The Apsaras, smiling affectionately like a wife at her lover, cherishes him in the highest heaven : she wanders in the abodes of her beloved ; he, Vena, being loved, sits down on his golden wing.
 
+### Printed p. 670
+
+*(Special Topics, continued from Ṛk 5)*
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, in describing that the god named Vena dwells in the midst of clouds accompanied by lightning, the description is compared to a young woman approaching her beloved with a gentle smile. Just as a young woman approaches the man dear to her with a gentle smile and sports with him, so the woman called Vidyut (lightning), who appears from time to time in the midst of the cloud-mass, joins this Vena in the upper part of the atmosphere and cherishes him. Here the young woman's smiling is compared with the shining lightning. Further, अप्सराः (*apsarāḥ*) means a beautiful woman who shines with beauty and charm like an Apsaras. From the standpoint of Vena, अप्सराः (*apsarāḥ*) means आपांसारयित्र्यप्पु क्रीडार्थं सरंतीति वा (*āpāṃsārayitryappu krīḍārthaṃ saraṃtīti vā*), that is, she who is the essence of water, or she who moves about in the water for sport. The lightning (vidyut) that appears from time to time in the midst of the water-laden cloud-masses is here designated by the words अप्सराः (*apsarāḥ*) and योषा (*yoṣā*). And just as a young woman and her beloved meet in a secluded, private place, so Vena and his beloved Vidyut are described as meeting in the upper part of the atmosphere (परमे व्योमन् (*parame vyoman*)). Moreover, just as a young woman moves about in the region where her beloved is and sits near him and sports, so this woman Vidyut, ranging from time to time through the atmosphere, sits with Vena in the shining cloud-mass (that is, remains hidden in the cloud-mass) and sports; this is the sense of the simile stated here.
+
+In sum: Vena dwells in the cloud in the atmosphere. In that very cloud the vidyut, the lightning, appears from time to time. The seer has described just this by comparing it with a smiling young woman approaching her beloved and sporting with him. This simile is very apt both in the likeness of the things and in the presentation of the subject.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाके॑ सुप॒र्णमुप॒ यत्पतं॑तं हृ॒दा वेनं॑तो अ॒भ्यच॑क्षत त्वा ।  
+> हिर॑ण्यपक्षं॒ वरु॑णस्य दू॒तं य॒मस्य॒ योन्॑शकु॒नं भु॑र॒ण्युं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नाके । सुपर्णं । उप । यत् । पतंतं । हृदा । वेनंतः । अभि । अचक्षत । त्वा ।  
+> हिरण्यपक्षं । वरुणस्य । दूतं । यमस्य । योन्शकुनं । भुरण्युं ॥ ६ ॥
+
+### Printed p. 671
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिष्टवे नाके सुपर्णमित्येषा । सूत्रितं च । नाके सुपर्णमुप यत्पतंतमिति समाप्य प्रणवेनोपविशेत् । आ. ४-७ । इति ॥
+> हे वेन त्वा त्वां हृदा हृदयेन मनसा वेनंतः कामयमानाः स्तोतारो
+> नाके०तरिक्षे यद्यदाभ्यचक्षत अभिपश्यंति तदानीं त्वमुप आगच्छसीति शेषः । कथंभूतं । सुपर्णं शोभनपतनं पतंतमंतरिक्षे गच्छंतं हिरण्यपक्षं हिरण्मयाभ्यां
+> पक्षाभ्यामुपेतं वरुणस्य जलाभिमानिनो देवस्य दूतं चारं यमस्य नियामकस्य
+> वैद्युताग्नेर्योन् स्थाने०तरिक्षे शकुनं पक्षिरूपेण वर्तमानं भुरण्यं भर्तारं ।
+> यद्वा। वृष्टिप्रदानादिना सर्वस्य जगतः पोषकं ॥ भुरण धारणपोषणयोः ।
+> कंड्वादिः । अस्मादौणादिक उप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk नाके सुपर्णं (*nāke suparṇaṃ*) is used in the Abhiṣṭava. The sūtra says: नाके सुपर्णमुप यत्पतंतमिति समाप्य प्रणवेनोपविशेत् (*nāke suparṇamupa yatpataṃtamiti samāpya praṇavenopaviśet*) (Ā. 4-7). "O Vena, when the praisers, desiring you (वेनंतः (*venaṃtaḥ*) = कामयमानाः (*kāmayamānāḥ*)) with the heart, i.e. with the mind, behold you in the नाके (*nāke*), the atmosphere, then you come near" — "you come" is to be supplied. What kind of one? सुपर्णं (*suparṇaṃ*): one of fine flight, moving through the atmosphere; हिरण्यपक्षं (*hiraṇyapakṣaṃ*): endowed with two golden wings; दूतं (*dūtaṃ*): the messenger, the agent, of Varuṇa, the god presiding over water; शकुनं (*śakunaṃ*): existing in the form of a bird in the योन् (*yon*), the place, the atmosphere, of Yama, the regulator, i.e. the lightning-fire; भुरण्युं (*bhuraṇyuṃ*): the bearer; or else, the nourisher of the whole world by granting rain and so on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुपर्णं (*suparṇaṃ*)—one who rains well **NOTE**
+- पतंतं (*pataṃtaṃ*)—one who moves in the atmosphere
+- हिरण्यपक्षं (*hiraṇyapakṣaṃ*)—one endowed with golden wings
+- वरुणस्य (*varuṇasya*)—of Varuṇa, the god presiding over water
+- दूतं (*dūtaṃ*)—the messenger
+- यमस्य (*yamasya*)—of the lightning-fire, the regulator of rain
+- योन् (*yon*)—in the place, the atmosphere
+- शकुनं (*śakunaṃ*)—one who is like a bird
+- भुरण्युं (*bhuraṇyuṃ*)—one who proclaims the whole world by granting rain and so on **NOTE**
+- त्वा (*tvā*)—you
+- हृदा (*hṛdā*)—with the mind
+- वेनंतः (*venaṃtaḥ*)—the desiring praisers
+- नाके (*nāke*)—in the atmosphere
+- यत् (*yat*)—when
+- अभि अचक्षत (*abhi acakṣata*)—behold
+- उप (*upa*) (आगच्छसि (*āgacchasi*))—you come near
+
+##### भावार्थ (Bhāvārtha)
+
+O god Vena, when the praisers who wish with all their heart for your coming behold you in the atmosphere—you who bestow rain, move through the atmosphere, are endowed with golden wings, are the messenger of Varuṇa the god presiding over water, are like a bird in the atmosphere, the place of the lightning-fire that regulates rain, and nourish the whole world by granting rain and so on—then you come near them. That is, you approach them in the form of rain-water (you pour down rain).
+
+##### English translation
+Those desiring you in their hearts contemplated you travelling as a strong-winged bird in the sky, the golden-winged messenger of Varuna, the bird which nourishes (the world) in Yama's dwelling.
+
+### Printed p. 672
+
+##### विशेषविषयगळु (Special Topics)
+
+That the Ṛk नाके सुपर्णं (*nāke suparṇaṃ*) is to be recited in the Abhiṣṭava is explained by the sūtra of the Āśvalāyana Śrauta-sūtra: नाके सुपर्णमुपयत्पतंतमिति समास्य प्रणवेनोसविशेत् (*nāke suparṇamupayatpataṃtamiti samāsya praṇavenosaviśet*) (Ā. 4-7). **NOTE**
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वो गं॑ध॒र्वो अधि॒ नाके॑ अस्थात्प्र॒त्यज् चि॒त्रा बिभ्र॑द॒स्यायु॑धानि ।  
+> वसा॑नो॒ अत्कं॑ सुर॒भिं दृ॒शे कं स्व१॒॑ १ र्ण नाम॑ जनत प्रि॒याणि॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वः । गंधर्वः । अधि । नाके । अस्थात् । प्रत्यज् । चित्रा । बिभ्रत् । अस्य । आयुधानि।  
+> वसानः । अत्कं । सुरभिं । दृशे । कं । स्वः । न । नाम । जनत । प्रियाणि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्ध्व उपरिदेशे वर्तमानो गंधर्वो गवामुदकानां धर्ता । गवि गन्
+> धृइतो व इति गोशब्दोपपदाद्दृञ् धारण इत्यस्माद्वप्रत्यय उपपदस्य गन्भावश्च ॥
+> ईदृशो वेनः प्रत्यङ्जस्मत्प्रत्यंचनोऽभिमुखः सन्नाकेऽध्यंतरिक्षेऽस्थात् । तिष्ठति । किं
+> कुर्वन्। अस्यात्मनः स्वभूतानि चित्रा चित्राणि चायनीयान्याश्चर्यभूतानि वायुधानि
+> बिभ्रद्दारयन् ॥ बिभर्तेः शतरि भृञामिदित्यभ्यासस्यॆत्वं । नाभ्यस्ताच्छतुरिति नुम्मतिषेधः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ तथा सुरभिं शोभनमत्कमात्मीयं व्याप्तं
+> रूपं वसानः सर्वत्राच्छादयन् । किमर्थं । दृशे दर्शनार्थं ॥ दृशे विख्ये चेति
+> केप्रत्ययांतो निपात्यते ॥ कमिति पूरणः । तत्र दृष्टांतः । स्वर्ण । स्वः शोभनारण
+> आदित्यः । स यथात्मीयं रूपं दर्शनाय सर्वत्राच्छादयति तद्वत् । तदनंतरं
+> नाम नामानि नमनशीलान्युदकानि प्रियाणि सर्वेषामनुकूलानि जनत । जनयति ।
+> वृष्टिमुत्पादयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+ऊर्ध्वः (*ūrdhvaḥ*) is one stationed in the upper region; गंधर्वः (*gaṃdharvaḥ*) is the bearer of *gavāṃ*, of waters (गवि गन् धृइतो व इति (*gavi gan dhṛito va iti*): from the word गो (*go*) as the preceding member, the root *dhṛñ* in the sense of holding, with the affix व (*va*), and गन् (*gan*) as substitute of the preceding member). Such a Vena, प्रत्यङ् (*pratyaṅ*), facing us, stands नाके अधि (*nāke adhi*) in the atmosphere. Doing what? Bearing (बिभ्रत् (*bibhrat*)) his own wonderful (चित्रा (*citrā*)) weapons, which are worthy of being gathered, marvellous. Likewise, वसानः (*vasānaḥ*), covering everywhere his own beautiful, pervading form (*surabhiṃ atkaṃ*). For what purpose? दृशे (*dṛśe*), for being seen; कं (*kaṃ*) is a filler. The example is स्वः न (*svaḥ na*): स्वः (*svaḥ*) is the Sun, of beautiful rays; as he covers his own form everywhere for being seen, so does Vena. Thereafter he जनत (*janata*), generates, नाम (*nāma*), the waters, bending down in their nature, प्रियाणि (*priyāṇi*), agreeable to all; the meaning is that he produces rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्ध्वः (*ūrdhvaḥ*)—one who is in the lofty region of the atmosphere
+- गंधर्वः (*gaṃdharvaḥ*)—one who bears the waters, that is, the support of the waters; this Vena
+- प्रत्यज् (*pratyaj*)—facing us
+
+### Printed p. 673
+
+- नाकेअधि (*nākeadhi*)—in the region of the atmosphere
+- अस्थात् (*asthāt*)—he stays
+- सः (*saḥ*)—that Vena
+- अस्य (*asya*)—his own
+- चित्रा (*citrā*)—of many kinds
+- आयुधानि (*āyudhāni*)—weapons
+- बिभ्रत् (*bibhrat*)—bearing
+- सुरभिं (*surabhiṃ*)—beautiful
+- अत्कं (*atkaṃ*)—with his form
+- स्वः न (*svaḥ na*)—like the Sun
+- वसानः (*vasānaḥ*)—covering everywhere
+- प्रियाणि (*priyāṇi*)—dear to all
+- नाम (*nāma*)—the waters
+- जनत (*janata*)—he produces
+
+##### भावार्थ (Bhāvārtha)
+
+This god Vena, who is in the lofty region of the atmosphere and is the support of the waters, stays in the region of the atmosphere facing us. Bearing his wonderful weapons, and covering everything with his excellent form like the Sun, that Vena produces the rain-water that is dear to all; that is, he pours down rain.
+
+##### English translation
+The Gandharva stood erect upon the firmament, brandishing towards us his wonderful weapons, investing ali) in his beautiful diffusive (form), to make them visible, like the sun he generated the precious (rains). **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्र॒प्सः स॑मु॒द्रम॒भि यज्जिगा॑ति॒ पश्य॒न्गृध्र॑स्य॒ चक्ष॑सा॒ विध॑र्मन् ।  
+> भा॒नुः शु॒क्रेण॑ शो॒चिषा॑ चका॒नस्तृ॒तीये॑ चक्रे॒ रज॑सि प्रि॒याणि॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्रप्सः । समुद्रं । अभि । यत् । जिगाति । पश्यन् । गृध्रस्य । चक्षसा । विधर्मन् ।  
+> भानुः । शुक्रेण । शोचिषा । चकानः । तृतीये । चक्रे । रजसि । प्रियाणि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्गैऽभिष्टवे द्रप्सः समुद्रमित्येषा । सूत्रितं च । द्रप्सः समुद्रमभि
+> यज्जिगाति सखे सखायमभ्या ववृत्स्व । आ. ४-७ । इति ॥
+> विधर्मान्विधर्मणि विधारकेंतरिक्षे स्थितो द्रप्सो द्रवणशीलः । यद्वा । द्रप्सा
+> 43
+
+##### Gist of the bhāṣya
+
+In the Pravargya Abhiṣṭava the Ṛk द्रप्सः समुद्रं (*drapsaḥ samudraṃ*) is used. The sūtra says: द्रप्सः समुद्रमभि यज्जिगाति सखे सखायमभ्या ववृत्स्व (*drapsaḥ samudramabhi yajjigāti sakhe sakhāyamabhyā vavṛtsva*) (Ā. 4-7). विधर्मन् (*vidharman*) is विधर्मणि (*vidharmaṇi*), in the sustaining atmosphere; stationed there, he is द्रप्सः (*drapsaḥ*), of flowing nature; or else, द्रप्सा (*drapsā*) are drops of water, and he is possessed of them.
+
+### Printed p. 674
+
+> उदकबिंदवः । तद्वान् ॥ अर्श आदित्वादच्॥ गृध्रस्य गृधो रसानभिकांक्षतः सूर्यस्य
+> चक्षसा तेजसा पश्यन् प्रकाशमानो वेनो यद्यदा समुद्रं समुंदनशीलं मेघमभि जिगाति अभिगच्छति तदानीं भानुः सूर्यः शुक्रेण शुभ्रेण शोचिषा तेजसा
+> तृतीये रजसि लोके चकानो दीप्यमानः प्रियाणि सर्वेषामभीष्टान्न्युदकानि
+> चक्रे । करोति ॥
+
+##### Gist of the bhāṣya
+
+गृध्रस्य (*gṛdhrasya*) means of the Sun, who is eager for the juices (रसानभिकांक्षतः (*rasānabhikāṃkṣataḥ*)). Looking चक्षसा (*cakṣasā*), with the brilliance, i.e. shining, Vena, when he goes towards the समुद्रं (*samudraṃ*), the cloud, of flowing nature, then भानुः (*bhānuḥ*), the Sun, with bright (शुक्रेण (*śukreṇa*)) radiance, shining in the third sphere (तृतीये रजसि (*tṛtīye rajasi*)), the world, makes (चक्रे (*cakre*) = करोति (*karoti*)) the waters प्रियाणि (*priyāṇi*), desired by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विधर्मन् (*vidharman*)—one who is in the atmosphere
+- द्रप्सः (*drapsaḥ*)—one possessed of liquid drops of water
+- गृध्रस्य (*gṛdhrasya*)—of the Sun
+- चक्षसा (*cakṣasā*)—with the brilliance
+- पश्यन् (*paśyan*)—Vena, who is shining
+- यत् (*yat*)—when
+- समुद्रं (*samudraṃ*)—the cloud
+- अभि (*abhi*)—aiming at, that is, facing the cloud
+- जिगाति (*jigāti*)—goes, then
+- भानुः (*bhānuḥ*)—the Sun
+- शुक्रेण (*śukreṇa*)—with bright or shining
+- शोचिषा (*śociṣā*)—radiance
+- तृतीये रजसि (*tṛtīye rajasi*)—in the heaven-world (in the atmosphere)
+- चकानः (*cakānaḥ*)—shining
+- प्रियाणि (*priyāṇi*)—the waters dear to all
+- चक्रे (*cakre*)—he produces
+
+##### भावार्थ (Bhāvārtha)
+
+When this god Vena, who is in the atmosphere in the form of liquid drops of water and shines with the Sun's brilliance, goes towards the cloud, then the Sun, with his bright radiance shining in the third world, heaven (the atmosphere), produces the rain-waters beneficial to all.
+
+##### English translation
+When (Vena as) the drop of rain approaches the firmament, contemplating (all things) with the eye of the hawk in the supporting (firmament), then the sun shining with brilliant radiance, makes the precious (showers) in the third sphere.
+
+##### विशेषविषयगळु (Special Topics)
+
+That the Ṛk द्रप्सः समुद्रं (*drapsaḥ samudraṃ*) is to be recited in the Pravargya Abhiṣṭava is explained by the sūtra of the Āśvalāyana Śrauta-sūtra: द्रप्सः समुद्रमभि यज्जिगाति सखे सखायमभ्या ववृत्स्व (*drapsaḥ samudramabhi yajjigāti sakhe sakhāyamabhyā vavṛtsva*) (Ā. 4-7).
+
+### Printed p. 675
+
+## Sūkta 124 (Maṇḍala 10)
+
+Formerly Agni had three elder brothers. They undertook the work of carrying the oblations to the gods and conducted the sacrificial rites. While so engaged, they died from the thunderbolt-blow of the vaṣaṭ-oblations offered in the sacrifices. Seeing this, Agni was afraid that the same fate might befall him, and out of fear fled without telling anyone and hid in the water and in the plants and trees. As a result, with no one to carry the oblation to the gods in sacrifices, the gods were in difficulty and there arose the danger that the performance of sacrifice would stop. Therefore the gods Soma, Varuṇa and others, searching for Agni, came to the water where he lay hidden and prayed that Agni should rise from the water, carry the oblations to them as before, and help in the sacrificial rites. This prayer is what is stated in this sūkta. This matter is explained at length in the 51st sūkta of this same tenth Maṇḍala, beginning महत्तदुल्बं (*mahattadulbaṃ*) (see Ṛ. Saṃ. Part 28, pp. 250-257).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमं नो अग्न इति नवर्चं द्वादशं सूक्तं । द्वितीयाद्याभिस्ति सृभिरग्नि र्यषिर्भूत्वा स्वात्मानं देवतारूपिणमस्तौत् । आतस्तासां स एवर्षिर्देवता च । शिष्टाभिरग्निवरुणसोमा अस्तुवन् । अतस्तासां षण्णां ते ऋषयः । आद्याग्नेयी । नवमींद्रदेवत्या । शिष्टासु चतसृषु लिंगोक्तदेवता । सप्तमी जगती शिष्टास्त्रिष्टुभः । तथा
+> चानुक्रांतं । इमं नो नव्यंद्र्युत्तमा निहवोऽग्निवरुणसोमानामाद्याग्नेयी
+> तिस्रश्चाग्नेरात्मस्तवः शिष्टा यथानिपातं सप्तमी जगतीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta इमं नो अग्न (*imaṃ no agna*) has nine Ṛks and is the twelfth sūkta. With the three Ṛks beginning from the second Agni, having become the seer, praised himself in the form of the deity; so for these he is both seer and deity. With the remaining Ṛks, Agni, Varuṇa and Soma praised; therefore they are the seers of those six. The first is addressed to Agni; the ninth has Indra as deity; in the remaining four the deity is the one indicated by the text. The seventh is Jagatī, the rest Triṣṭubh. So the Anukramaṇī says: इमं नो नव्यंद्र्युत्तमा निहवोऽग्निवरुणसोमानामाद्याग्नेयी तिस्रश्चाग्नेरात्मस्तवः शिष्टा यथानिपातं सप्तमी जगतीति ॥ (*imaṃ no navyaṃdryuttamā nihavo 'gnivaruṇasomānāmādyāgneyī tisraścāgnerātmastavaḥ śiṣṭā yathānipātaṃ saptamī jagatīti ‖*). The viniyoga has been stated.
+
+##### Anuvāda
+
+This sūkta इमं नो अग्ने (*imaṃ no agne*) is the twelfth sūkta in the tenth anuvāka. It has nine Ṛks. In this sūkta, from the second Ṛk to the following three Ṛks, that is, up to Ṛks 2-4, Agni himself as seer has praised himself. Therefore for those three Ṛks Agni is both seer and deity. Of the remaining Ṛks, for the 1st Ṛk Agni is the seer. For Ṛks 5-9 Agni, Varuṇa and Soma are the seers; for the first Ṛk Agni is the deity. For the ninth Ṛk Indra is the deity; for the remaining four Ṛks, that is Ṛks 5-8, those who are praised in them are the deities. The seventh Ṛk of this sūkta is in the Jagatī metre; the remaining Ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is said: इमं नो नव्येंद्रुत्तमा निहवोS ग्निवरुणसोमानामाद्याग्नेया तिस्रश्चाग्नेरात्मस्तवः शिष्टा यथानिपातं सप्तमी जगती (*imaṃ no navyeṃdruttamā nihavoS gnivaruṇasomānāmādyāgneyā tisraścāgnerātmastavaḥ śiṣṭā yathānipātaṃ saptamī jagatī*). The viniyoga has been stated earlier. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 669. pp. 664-669 (batch API)
+**Progress note:** Done through printed p. 675. pp. 670-675 (batch API)
