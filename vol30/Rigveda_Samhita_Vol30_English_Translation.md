@@ -42427,6 +42427,245 @@ The sūkta बृहस्पतिरिति (*bṛhaspatiriti*) is a *tṛca
 
 This sūkta, बृहस्पतिः (*bṛhaspatiḥ*), is the thirty-first sūkta in the twelfth anuvāka. It has three Ṛks. For this sūkta the seer is Tapurmūrdhā, son of Bṛhaspati; Bṛhaspati is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said: Bṛhaspati, Tapurmūrdhā Bārhaspatya, Bārhaspatya **NOTE**. The viniyoga has already been stated earlier.
 
+### Printed p. 1234
+Maṇḍala 10; Anuvāka 12; Sūkta 18; Aṣṭaka 8; Adhyāya 8; Varga 40. Number of Ṛks in the sūkta: 3. Ṛṣi: Tapurmūrdhā Bārhaspatya. Deity: Bṛhaspati. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॒स्पति॑र्नयतु दु॒र्गहा॑ ति॒रः पुन॑र्नॆषद॒घशं॑साय॒ मन्म॑ ।  
+> क्षि॒पदश॑स्ति॒मप॑ दुर्म॒तिं ह॒न्नथा॑ कर॒द्यज॑मानाय॒ शं योः॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पतिः । नयतु । दुःगहा । तिरः । पुनः । नेषत् । अघशंसाय । मन्म ।  
+> क्षिपत् । अशस्तिं । अप । दुःमतिं । हन् । अथ । करत् । यजमानाय । शं । योः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहस्पतिर्बृहतां देवानां पतिः पालयिता ॥ तद्बृहतोः करपत्योश्चोरदेवतयोः सुट् तलोपश्च । म. ६-१-१५७ । इति सुडागमस्तलोपश्च । उभे
+> वनस्पत्यादिश्विति पूर्वोत्तरपदयोर्युगपत्रकृतिस्वरत्वं ॥ दुर्गहा दुर्गमनानां
+> हंता स देवस्तिरो नयतु । तिरस्कर्तव्यानि पापान्यपसारयतु । अघशंसायास्माकमनर्थमाशंसमानाय पुरुषाय मन्म । मन्यतेर्दिप्तिकर्मणो मन्म । दीप्तमायुधं पुनर्नॆषत् । नयतु ॥ नयतेर्लेट्यडागमः । सिब्बहुलमिति सिप् ॥ अपि
+> चाशस्तिमयशस्विनं शत्रुं क्षिपतु । आस्मत्तः प्रेरयतु । दुर्मतिं दुर्बुद्धिं चाप
+> हन् । अपहंतु । आथानंतरं शं रोगाणां शमनं योर्भयानां यावनं च
+> करत् ॥
+
+##### Gist of the bhāṣya
+
+Bṛhaspati is the lord and protector of the great gods. He who is the destroyer of what is hard to get through, that god, is asked to put aside, i.e. drive away, the sins that are to be set aside. For the man who wishes us harm (अघशंसाय (*aghaśaṃsāya*)) let him bring again the shining weapon, मन्म (*manma*), from the root मन्यते (*manyate*) in the sense of shining. Further, let him cast away the inglorious enemy, driving him from us, and destroy the evil mind. Then let him bring शं (*śaṃ*), the calming of diseases, and योः (*yoḥ*), the warding off of fears.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati, the protector of the great gods
+- दुर्गहा (*durgahā*)—the remover of difficulties; that god
+- तिरः नयतु (*tiraḥ nayatu*)—may he ward off the sins
+- अघशंसाय (*aghaśaṃsāya*)—for the man who speaks harmful or sinful words concerning us
+- मन्म (*manma*)—the shining
+
+### Printed p. 1235
+- weapon
+- पुनः नेषत् (*punaḥ neṣat*)—may he bring again; and
+- अशस्तिं (*aśastiṃ*)—the inglorious (wicked) enemy
+- क्षिपत् (*kṣipat*)—may he drive him away from our presence
+- दुर्मतिं (*durmatiṃ*)—the evil mind
+- अप हन् (*apa han*)—may he destroy
+- अथ (*atha*)—afterwards
+- श (*śa*)—calming of disease **NOTE**
+- योः (*yoḥ*)—warding off of fear
+- करत् (*karat*)—may he bring about
+
+##### भावार्थ (Bhāvārtha)
+
+Bṛhaspati, protector of the gods, removes difficulties. May that god ward off our sins. To punish the man who speaks evil of us, may he bear and bring a shining weapon. May he drive the wicked enemy away from our neighbourhood. May he destroy the evil mind, and bring about the calming of disease and the warding off of fear.
+
+##### English translation
+Let Brihaspati, the overcomer of difficulties, put aside (all sins), let him thrust aside the weapon of the calumniator; may he hurl down the inglorious (enemy), may he baffle the malevolent, and bestow upon the sacrificer health and prosperity.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नरा॒शंसो॑ नोऽवतु प्रया॒जे शं नो॑ अस्त्वनुया॒जो  ॑
+> हवेषु ।  
+> क्षि॒पदश॑स्ति॒मप॑ दुर्म॒तिं ह॒न्नथा॑ कर॒द्यज॑मानाय॒ शं योः॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नराशंसः । नः । अवतु । प्रयाजे । शं । नः । अस्तु । अनुऽयाजः । हवेषु ।  
+> क्षिपत् । अशस्तिं । अप । दुःऽमतिं । हन् । अथ । करत् । यजमानाय । शं । योः॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पंचसु प्रयाजेषु द्वितीयः प्रयाजो नराशंसदेवताकः । तस्मिन्प्रयाजे
+> देवताभूतो नराशंसो नरैः शंसनीयोऽग्निर्नोऽस्मानवतु । रक्षतु । हवेष्वाह्वानेषु सत्त्वनुयाजः । त्रयोऽनुयाजाः । द्वितीयोऽनुयाजो नराशंसः ।
+
+##### Gist of the bhāṣya
+
+Among the five Prayāja offerings the second Prayāja has Narāśaṃsa as its deity. Narāśaṃsa, the Agni who is to be praised by men and is the deity of that Prayāja, is asked to protect us. At the invocations (हवेषु (*haveṣu*)), when there are Anuyājas: there are three Anuyājas, and the second Anuyāja is Narāśaṃsa.
+
+### Printed p. 1236
+
+> तस्यानुयाजस्य देवताभूतो नराशंसोऽग्निश्च नोऽस्माकं शं सुखकरोऽस्तु ।
+> बृहस्पतिश्चाशस्तिं क्षिपदित्यादि पूर्ववत् ॥
+
+##### Gist of the bhāṣya
+
+Narāśaṃsa, Agni, the deity of that Anuyāja, is asked to be a bringer of happiness for us. Bṛhaspati too is asked to cast away the inglorious enemy, and so on, as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रयाजे (*prayāje*)—at the second of the five Prayāja offerings, whose deity is
+- नराशंसः (*narāśaṃsaḥ*)—Agni named Narāśaṃsa, praised by men
+- नः (*naḥ*)—us
+- अवतु (*avatu*)—may he protect
+- हवेषु (*haveṣu*)—after the gods have been invoked
+- अनुयाजः (*anuyājaḥ*)—Agni named Narāśaṃsa, the deity of the second of the three Anuyāja offerings
+- नः (*naḥ*)—to us
+- शं अस्तु (*śaṃ astu*)—may he bring happiness
+- अशस्तिं (*aśastiṃ*)—the inglorious enemy
+- क्षिपत् (*kṣipat*)—may he drive him away from our presence
+- दुर्मतिं (*durmatiṃ*)—the evil mind
+- अप हन् (*apa han*)—may he destroy
+- अथ (*atha*)—afterwards
+- शं (*śaṃ*)—calming of disease
+- योः (*yoḥ*)—warding off of fear
+- करत् (*karat*)—may he bring about
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni named Narāśaṃsa, praised by men, the deity of the second of the five Prayāja offerings, protect us. After the gods have been invoked, may Agni named Narāśaṃsa, the deity of the second of the three offerings called Anuyāja, bring us happiness. May he drive the wicked enemy away from our neighbourhood, destroy the evil mind, and bring about the calming of disease and the warding off of fear.
+
+##### English translation
+May Narashamsa protect us at the Prayaja rite ; may he be (the giver of) felicity to us as the Anuyaja (divinity) at oblations; may Brihaspati hurl down the inglorious (enemy), may he baffle the malevolent, and bestow upon the sacrsficer health and prosperity.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तपु॑र्मूर्धा तपतु र॒क्षसो॒ ये ब्र॑ह्म॒द्विषः॒ शर॑वे॒ हंत॒वा उ॑।  
+> क्षि॒पदश॑स्ति॒मप॑ दुर्म॒तिं ह॒न्नथा॑ कर॒द्यज॑मानाय॒ शं योः॥३॥
+
+### Printed p. 1237
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तपुःमूर्धा । तपतु । रक्षसः । ये । ब्रह्मद्विषः । शरवे । हंतवै । ऊं इति ।  
+> क्षिपत् । अशस्तिं । अप । दुःमतिं । हन् । अथ । करत् । यजमानाय । शं । योः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तपुर्मूर्धा तापकशिरस्को बृहस्पती रक्षसो ये ब्रह्मद्विषो ब्राह्मणद्वेष्टारो राक्षसाः तान्राक्षसांस्तपतु । तापयतु । दहत्वित्यर्थः । किमर्थं । शरवे शरुं
+> हिंसकं रक्षसामधिपतिं हंतवै हंतुं । अनुचरान्पूर्वं नाशयतु पश्चादेनमपि
+> नाशयत्वित्यर्थः ॥ शृ हिंसायामित्यस्माच्छास्वस्निहीत्यादिनोप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तत्वं । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थी ।
+> हंतेस्तुमर्थे सेसेनिति तनैप्रत्ययः । अंतश्च तनै युगपदित्याद्यंतयोर्युगपदुदात्तत्वं । उशब्दः पूरकः ॥
+
+##### Gist of the bhāṣya
+
+Tapurmūrdhā, "he whose head burns", is Bṛhaspati. Those Rākṣasas who hate the Brahmins (ब्रह्मद्विषः (*brahmadviṣaḥ*)), let him burn, i.e. consume with heat. Why? To slay (हंतवै (*haṃtavai*)) the शरवे (*śarave*), the harmful lord of the Rākṣasas. The sense is: let him first destroy the followers, and afterwards destroy him also. The word उ (*u*) is a filler. The remaining half (क्षिपत् (*kṣipat*) and so on) is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तपुमूर्धा (*tapumūrdhā*)—Bṛhaspati, the father of the ṛṣi named Tapumūrdhā
+- ब्रह्मद्विषः (*brahmadviṣaḥ*)—haters of the Brahmins
+- ये रक्षसः (*ye rakṣasaḥ*)—those Rākṣasas who exist, them
+- तपतु (*tapatu*)—may he burn (consume and destroy)
+- शरवे उ (*śarave u*)—also the harmful chief of the Rākṣasas
+- हंतवै (*haṃtavai*)—in order to slay (may he burn him)
+- अशस्तिं (*aśastiṃ*)—the wicked enemy
+- क्षिपत् (*kṣipat*)—may he drive him away from our presence
+- दुर्मतिं (*durmatiṃ*)—the evil mind
+- अप हन् (*apa han*)—may he destroy
+- अथ (*atha*)—afterwards
+- शं (*śaṃ*)—calming of disease
+- योः (*yoḥ*)—warding off of fear
+- करत् (*karat*)—may he bring about
+
+##### भावार्थ (Bhāvārtha)
+
+May Bṛhaspati, father of the ṛṣi Tapumūrdhā, burn and destroy the Rākṣasas who hate the Brahmins, and their harmful leader. May he drive the wicked enemy away from our neighbourhood, destroy the evil mind, and bring about the calming of disease and the warding off of fear.
+
+##### English translation
+May Tapurmurdhan consume the Rakshasas, who are the enemies of the Brahmanas, (and then proceed) to slay (their) malignant (chief); may be baffle the malevolent, and bestow upon the sacrificer health and prosperity. 
+
+### Printed p. 1238
+## Sūkta 183 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपश्यमिति तृचं द्वात्रिंशं सूक्तं त्रैष्टुभं । प्रजापतिपुत्रः प्रजावान्नामर्षिः।
+> ऋचः क्रमेण यजमानपत्निहोतृणामाशिषः प्रतिपादिकाः । अतस्तद्देवताकाः ।
+> तथा चानुक्रांतं । अपश्यं प्रजावान्प्राजापत्योऽन्वृचं यजमानपत्निहोत्राशिष
+> इति ॥ प्रवर्ग्येऽभिष्टव एतत्तूक्तं । सूत्र्यते हि । अपश्यं त्वेत्येतस्याद्यया यजमानमीक्षते द्वितीयया पत्निं तृतीययात्मानं ॥ अ. ४-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The thirty-second sūkta, अपश्यं (*apaśyaṃ*), is a triplet in Triṣṭubh metre. The ṛṣi is Prajāvān, son of Prajāpati. The Ṛks in order set forth the blessings of the sacrificer, the wife and the Hotṛ, and so have them as deities. So the Anukramaṇī says: अपश्यं प्रजावान्प्राजापत्योऽन्वृचं यजमानपत्निहोत्राशिष इति॥ (*apaśyaṃ prajāvānprājāpatyo 'nvṛcaṃ yajamānapatnihotrāśiṣa iti‖*) This sūkta is recited at the Abhiṣṭava in the Pravargya; for the sūtra says: अपश्यं त्वेत्येतस्याद्यया यजमानमीक्षते द्वितीयया पत्निं तृतीययात्मानं॥ (*apaśyaṃ tvetyetasyādyayā yajamānamīkṣate dvitīyayā patniṃ tṛtīyayātmānaṃ‖*) (Ā. 4-6).
+
+##### Anuvāda
+
+This sūkta, अपश्यं (*apaśyaṃ*), is the thirty-second sūkta in the twelfth anuvāka. It has three Ṛks. The ṛṣi of this sūkta is Prajāvān, son of Prajāpati. In its three Ṛks the sacrificer, his wife and the Hotṛ priest are addressed in order; therefore these are the deities of the respective Ṛks. The metre is Triṣṭubh. In the Anukramaṇī it is stated: अपश्यं प्रजावान् प्राजापत्योऽन्वचं यजमानपत्निहोत्राशिषः (*apaśyaṃ prajāvān prājāpatyo 'nvacaṃ yajamānapatnihotrāśiṣaḥ*). That this sūkta is to be recited at the Abhiṣṭava of the ceremony called Pravargya is explained by the sūtra of the Āśvalāyana Śrauta Sūtra: अपश्यं तैत्येतस्याद्यया यजमानमीक्षते द्वितीयया पत्नीं तृतीययात्मानं (*apaśyaṃ taityetasyādyayā yajamānamīkṣate dvitīyayā patnīṃ tṛtīyayātmānaṃ*) (Ā. 4-6).
+
+Maṇḍala 10; Anuvāka 12; Sūkta 183; Aṣṭaka 8; Adhyāya 8; Varga 41. Number of Ṛks in the sūkta: 3. Ṛṣi: Prajāvān Prājāpatya. Deity: the sacrificer, the wife and the Hotṛ's blessings, Ṛk by Ṛk. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॑श्यं त्वा॒ मन॑सा॒ चेकि॑तानं॒ तप॑सो जा॒तं तप॑सो॒ विभू॑तं ।  
+> इ॒ह प्र॒जामि॒ह र॒यिं ररा॑णः॒ प्र जा॑यस्व प्र॒जया॑ पुत्रकाम॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपश्यं । त्वा । मनसा । चेकितानं । तपसः । जातु । तपसः । विभूतं ।  
+> इह । प्रजां । इह । रयिं । रराणः । प्र । जायस्व । प्रजया । पुत्रकाम ॥ १ ॥
+
+### Printed p. 1239
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमान त्वा त्वां मनसा बुद्ध्यापश्यं । अदर्शं । कीदृशं । चेकितानं
+> कर्माणि भृशं जानंतं तपसो दीक्षारूपाद्वृताज्ञातं पुनरुत्पन्नं यद्वा
+> जन्मांतरानुष्ठितात्सुकृतादुत्पन्नं तपसोऽनुष्ठीयमानाद्यज्ञाद्देतोर्विभूते
+> व्याप्तं सर्वत्र प्रख्यातं । हे पुत्रकाम पुत्रान्कामयमान स त्वमिहास्मिल्लोके
+> प्रजां पुत्रपौत्रादिरूपां रराणो रमयन् रयिं धनमिहास्मिल्लोके रमयन्
+> प्रजया प्रजनेन प्र जायस्व । पुत्रादिरूपेणोत्पद्यस्व । प्रजा उत्पादयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O sacrificer, I saw you with the mind, with the understanding." What kind? चेकितानं (*cekitānaṃ*): one who knows the rites well; तपसो जातं (*tapaso jātaṃ*): born again from the austerity in the form of the dīkṣā vow; or, alternatively, born of good deeds performed in another birth; तपसो विभूतं (*tapaso vibhūtaṃ*): pervading, famed everywhere through the sacrifice being performed. "O you who desire sons (पुत्रकाम (*putrakāma*)), you here in this world, delighting in offspring in the form of sons, grandsons and so on, and delighting in wealth here in this world, be born through offspring, i.e. arise in the form of a son; the meaning is: beget offspring."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (The wife's speech to the sacrificer. O sacrificer)
+- चेकितानं (*cekitānaṃ*)—one who knows well the rites such as the sacrifice
+- तपसः (*tapasaḥ*)—by the rite in the form of the dīkṣā
+- जातं (*jātaṃ*)—one born again, or one born of good deeds done in another birth
+- तपसः (*tapasaḥ*)—by the austerity of the sacrifice and the like which you perform
+- विभूतं (*vibhūtaṃ*)—and renowned everywhere
+- त्वा (*tvā*)—you
+- मनसा (*manasā*)—with the understanding
+- अपश्यं (*apaśyaṃ*)—I saw and knew
+- पुत्रकाम (*putrakāma*)—O sacrificer who desire sons, you
+- इह (*iha*)—in this world
+- प्रजां (*prajāṃ*)—the line of sons, grandsons and so on
+- रराणः (*rarāṇaḥ*)—(obtaining) and enjoying
+- रयिं (*rayiṃ*)—and obtaining wealth also
+- इह (*iha*)—in this world
+- प्रजया (*prajayā*)—in the form of a son (you yourself)
+- प्र जायस्व (*pra jāyasva*)—be born (beget sons and the rest)
+
+##### भावार्थ (Bhāvārtha)
+
+(The wife's speech addressed to the sacrificer.) O sacrificer, you who know well the rites such as the sacrifice, who are regarded as born again through the rite of the dīkṣā, or who are born of the special good deeds of another birth, and who have become famed through performing sacrifices and other rites: I saw and knew you with the understanding. O sacrificer who desire sons, obtaining in this world the line of sons, grandsons and so on, and wealth, be born yourself in this world in the form of a son; that is, beget sons.
+
+##### English translation
+(The wife speaks :) I beheld you in my mind conversant (with sacred rites), born of penance, renowned for penance; enjoying in this world progeny and riches, do you who are desirous of offspring beget offspring.
+
+##### विशेषविषयगळु (Special Topics)
+
+As the Śruti sentence आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*) says, the father himself is born as a son from his own part. Since sons are born from the father's seed, it is said that the father himself is born as the son.
+
 ---
 
-**Progress note:** Done through printed p. 1233. pp. 1228-1233 (batch API)
+**Progress note:** Done through printed p. 1239. pp. 1234-1239 (batch API)
