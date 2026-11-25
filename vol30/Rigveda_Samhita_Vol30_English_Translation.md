@@ -29790,6 +29790,219 @@ Bold (Indra) has annihilated the (hitherto) unbaffled (hosts of the Asura), the 
 > इंद्र॑स्य॒ वज्रा॑दबिभेदभि॒श्नथः॒ प्राक्रा॑मच्छुं॒ध्यूरज॑हादु॒षा  ॑
 > 57
 
+### Printed p. 898
+#### Ṛk 5 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयुद्धसेनः । विभ्वा । विभिंदता । दाशत् । वृत्रहा । तुज्यानि । तेजते ।  
+> इंद्रस्य । वज्रात् । अबिभेत् । अभिश्चथः । प्र । अक्रामत् । शुंध्यूः । अजहात् ।  
+> उषाः । अनः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विभ्वा विभुना व्याप्तेन विभिंदता विदारयता एवंविधेनापि परकीयबलेनायुद्धसेनोऽप्रहृतसेनः । यद्वा । विभ्वा विभुव्याप्तो विभिंदता शत्रुबलानि विदारयता वज्रेण । वृत्रहा वृत्रं हतवान् एवंविधॆ इंद्रो दाशत् । दाशति । स्तोतृभ्यो
+> धनं प्रयच्छति ॥ दाश्य दाने । लेट्यडागमः । तथा तुज्यानि प्रेयाणि शत्रुबलानि
+> तेजते । तनूकरोति । अल्पीकरोति ॥ तिज निशाने ॥ यद्वा । शत्रुन्प्रति प्रेयाण्यायुधानि तेजते । निश्यति । तीक्ष्णीकरोति । ईदृशस्येंद्रस्याभिश्चथोऽभितो हिंसका
+> द्वज्रात्सर्वं शत्रुजातमबिभेत् । भीतिं प्राप्नोत् । एवमसुरेष्ट्विंद्रॆण निरस्तेषु
+> शुंध्यूः शोधयितादित्यः प्राक्रामत् । जगत्पकाशनाय गंतुं प्रक्रांतवान् । उषा
+> उषोदेवता चानः स्वकीयं शकटं रथमजहात् । गंतुं पर्यत्यजत् ॥ ओहाक्
+> त्यागे ॥
+
+##### Gist of the bhāṣya
+
+विभ्वा (*vibhvā*) means "by the pervading" and विभिंदता (*vibhiṃdatā*) "by the rending". Even against an enemy force of such a kind, Indra's army is अयुद्धसेनः (*ayuddhasenaḥ*), one whose army is not struck. Alternatively, विभ्वा (*vibhvā*) is the pervading thunderbolt and विभिंदता (*vibhiṃdatā*) the thunderbolt that splits the enemy hosts. Indra, the slayer of Vṛtra, दाशत् (*dāśat*): he gives wealth to his praisers (root दाश्य (*dāśya*), to give). तुज्यानि (*tujyāni*) are the hostile enemy forces rushing forward, and तेजते (*tejate*) means he makes them slight and reduces them (root तिज (*tija*), to sharpen). Or else: he sharpens, makes keen, the weapons directed against the enemies. All the enemy host was afraid of the thunderbolt of such an Indra, which injures on every side. When the Asuras had thus been cast down by Indra, शुंध्यूः (*śuṃdhyūḥ*), the purifier, the Sun, set out to illuminate the world. Uṣas, the deity of dawn, also left her own cart (अनः (*anaḥ*)), her chariot; she gave it up in order to depart.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विभ्वा (*vibhvā*)—all-pervading
+- विभिंदता (*vibhiṃdatā*)—with the thunderbolt that cleaves the enemy armies
+- अयुद्धसेनः (*ayuddhasenaḥ*)—possessing an irresistible force
+- वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra, Indra
+- दाशत् (*dāśat*)—gives wealth to the praising people
+- तुज्यानि (*tujyāni*)—the enemy armies rushing forward with zeal
+- तेजते (*tejate*)—makes them dwindle; or [तुज्यानि (*tujyāni*)—his weapons to be used against enemies; तेजते (*tejate*)—he sharpens them]
+- इंद्रस्य (*iṃdrasya*)—of such an Indra
+- अभिश्नथः (*abhiśnathaḥ*)—enemy-destroying
+- वज्रात् (*vajrāt*)—from the thunderbolt
+- अबिभेत् (*abibhet*)—caused fear to the enemies (afterwards)
+- शुंध्यूः (*śuṃdhyūḥ*)—the Āditya (Sun) who purifies everything with his light
+- प्र अक्रामत् (*pra akrāmat*)—began to shine
+- उषाः (*uṣāḥ*)—the deity Uṣas also
+- अनः (*anaḥ*)—her cart, that is, her chariot
+- अजहात् (*ajahāt*)—abandoned and departed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, of irresistible prowess and slayer of Vṛtra, with his all-pervading thunderbolt that can split the enemy armies, kills and thins the enemy armies that rush upon him with zeal,
+
+### Printed p. 899
+or he sharpens his weapons for use against the enemies, and gives wealth to the people who praise him. With his enemy-destroying thunderbolt he strikes fear into the enemies. After Indra had thus destroyed the enemies, the goddess Uṣas abandoned her chariot and departed; that is, the time of dawn passed, and the Sun, the purifier, rose and lit the whole world with his radiance.
+
+##### English translation
+(Indra), leading an irresistible army, slaying Vritra with the perva-
+ding piercing (bolt), gives (wealth to his worshippers), thins the (hosts of the
+Asuras) which have to be attacked ; (the whole host of the enemy) was afraid
+of Indra's wide-destroying thunderbolt. the purifying (Sun) came forth,
+Ushas left her waggon.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता त्या ते॒ श्रुत्या॑नि॒ केव॑ला॒ यदेक॒ एक॒मकृ॑णोरय॒ज्ञं ।  
+> मा॒सां वि॒धान॑मदधा॒ अधि॒ द्यवि॒ त्वया॒ विभि॑न्नं भरति प्र॒धिं  ॒
+> पिता ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एता । त्या । ते । श्रुत्यानि । केवला । यत् । एकः । एकं । अकृणोः । अयज्ञं ।  
+> मासां । विधानं । अदधाः । अधि । द्यवि । त्वया । विभिन्नं । भरति । प्रधिं । पिशा ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्या तानि ते तव त्वदीयानि वीर्यकर्माण्येतैतान्येव केवला
+> केवलानि श्रुत्यानि शोतव्यानि स्तुत्यर्हाणि । नान्यदीयानि । कानि पुनस्तानि । एकोऽसहायस्त्वमेकं प्रधानभूतमयज्ञं यज्ञरहितमसुरमकृणोः अहिंसीरिति यदेशदेकं कर्म ॥ कृवि हिंसाकरणयोः । अत्र हिंसार्थः । इदित्वान्नुम् । धिन्विकृण्वोरच्चेत्युप्रत्ययोऽकारांतादेशश्च । तस्य लोपे सति स्थानिवद्भावाल्लघपधगुणाभावः ॥
+> तथा मासां मासानां ॥ पद्दन्नित्यादिना मासशब्दस्य मास्भावः । ऊडिदमित्यादिना
+
+##### Gist of the bhāṣya
+
+O Indra, only these deeds of valour of yours are श्रुत्यानि (*śrutyāni*), worthy to be heard and praised; they are not another's. Which are they? The one deed: that you, alone and unaided, अकृणोः (*akṛṇoḥ*), injured the one chief Asura, who was without sacrifice (अयज्ञं (*ayajñaṃ*)). The root is कृवि (*kṛvi*), in the sense of injuring here. Next: मासां (*māsāṃ*) is "of the months", the word मास (*māsa*) becoming मास् (*mās*) by the rule beginning पद्दन् (*paddan*), and the case-ending taking the udātta by the rule beginning *ūḍidaṃ* (continued on the next page).
+
+### Printed p. 900
+
+> विभक्तेरुदात्तत्वं ॥ मासानां विधानं विधातारं कर्तारं सूर्यमधि द्यवि द्युलोक
+> उपर्यदधाः । आधारयः ॥ विपूर्वाद्दधातेः कृत्यल्युटो बहुलमिति कर्तरि ल्युट् ॥
+> इदमपरं कर्म। तथा पिता पालको द्युलोको विभिन्नं विदारितं वृत्राद्विभक्तं प्रधिं
+> रथचक्रस्य पार्श्वं । पार्श्वफलके प्रधी इत्युच्येते । ईदृशं सूर्यरथसंबंधिनं
+> प्रधिमन्वैर्धारयितुमशक्त्यं त्वय्येव भरति । धारयति । इदमपरं कर्म । एतत्प्रभृतीनि
+> त्वया कृतानि कर्माणि परेषामसाधारणानि सर्वदाम्ना तव्यानीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+You placed the maker of the months, the Sun, above in the heaven-world (अधि द्यवि (*adhi dyavi*)); अदधाः (*adadhāḥ*) means "you set up". This is another deed. Likewise पिता (*pitā*), the protector, the heaven-world, bears in you (त्वय्येव भरति (*tvayyeva bharati*)) the प्रधि (*pradhi*), the rim of the chariot wheel of the Sun, which had been split and separated from Vṛtra; the felly of a wheel is called प्रधि (*pradhi*). Others are unable to support this rim belonging to the Sun's chariot. This too is a deed. The sense: the deeds done by you, beginning with these, are not shared by others and are to be extolled always.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्या (*tyā*)—famous
+- ते (*te*)—your
+- एता (*etā*)—deeds of daring
+- केवला (*kevalā*)—chiefly (impossible for others to do)
+- श्रुत्यानि (*śrutyāni*)—those that deserve to be praised
+- एकः (*ekaḥ*)—you, the valiant one without helper
+- एकं (*ekaṃ*)—the chief
+- अयज्ञं (*ayajñaṃ*)—the Asura who does not perform sacrifice
+- अकृणोः (*akṛṇoḥ*)—that you injured and killed; that very deed is worthy of praise
+- यत् (*yat*)—whatever there is
+- मासां (*māsāṃ*)—of the divisions of time such as months
+- विधानं (*vidhānaṃ*)—the maker, the Sun
+- अधि द्यवि (*adhi dyavi*)—in the upper part of heaven
+- अदधाः (*adadhāḥ*)—you have established
+- पिता (*pitā*)—the heaven-world that protects all
+- विभिन्नं (*vibhinnaṃ*)—split by Vṛtra
+- प्रधिं (*pradhiṃ*)—the rim of the Sun's chariot wheel
+- त्वया (*tvayā*)—with your help
+- भरति (*bharati*)—bears
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these famous deeds of daring of yours no one else can do; you alone can. Such acts are worthy of praise. The deed of killing, alone and without the help of others, the Asuras who were hostile to sacrifice is likewise praiseworthy. You have established the Sun, the maker of the divisions of time such as months, in the upper part of the heaven-world. The heaven-world, which protects all by giving rain and the like, holds up with your help alone the rim of the Sun's chariot wheel, split by Vṛtra.
+
+##### English translation
+These wondrous exploits are yours alone, in that you unaided has
+injured the chief neglector of sacrifice; you have placed in the sky the regu-
+lator of the months, through your aid the paternal (heaven) upholds the
+circumference of the wheel (of the Sun' s car) which had been shattered
+(by Vritra).
+
+### Printed p. 901
+## Sūkta 139 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यरश्मिरिति षडृचमेकादशं सूक्तं त्रैष्टुभं । विश्वावसुर्नाम गंधर्व
+> ऋषिः । स च पूर्वेण तृचेन सवितारं स्तुतवान् उत्तरेण स्वात्मानं । अतः प्रथमतृचस्य सविता देवता द्वितीयस्य गंधर्वः । तथा चानुक्रांतं । सूर्यरश्मिर्देवगंधर्वो विश्वावसुरात्मानमस्तौत्पूर्वार्धे सवितारमिति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The eleventh sūkta, beginning सूर्यरश्मिः (*sūryaraśmiḥ*), has six Ṛks and is in the Triṣṭubh metre. The seer is the Gandharva named Viśvāvasu. With the first triplet he praised Savitṛ, and with the latter one himself. Hence the deity of the first triplet is Savitṛ, and of the second the Gandharva. So the Anukramaṇī says: सूर्यरश्मिर्देवगंधर्वो विश्वावसुरात्मानमस्तौत्पूर्वार्धे सवितारमिति । (*sūryaraśmirdevagaṃdharvo viśvāvasurātmānamastautpūrvārdhe savitāramiti |*). The application (viniyoga) has already been stated.
+
+##### Anuvāda
+
+This sūkta, "सूर्यरश्मि (*sūryaraśmi*)", is the eleventh sūkta in the eleventh anuvāka. It contains six Ṛks. The seer of this sūkta is the Gandharva named Viśvāvasu. With the first three Ṛks of this sūkta that Gandharva praised the deity Savitṛ, and with the last three Ṛks he praised himself. Therefore the deity of the first three Ṛks is Savitṛ and of the last three the Gandharva; the metre is Triṣṭubh. The Anukramaṇī says: सूर्यरश्निर्देवगंधर्वो विश्वासुरात्मानमस्तौत् पूर्वार्धे सवितारं (*sūryaraśnirdevagaṃdharvo viśvāsurātmānamastaut pūrvārdhe savitāraṃ*). The application has been stated before.
+
+Sūkta 139. Maṇḍala 10; Anuvāka 11; Sūkta 139; Aṣṭaka 8; Adhyāya 7; Varga 27. Number of Ṛks in the sūkta: 6. Seer: Viśvāvasu, the divine Gandharva. Deity: 1–3 Savitṛ; 4–6 Viśvāvasu. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूर्य॑रश्मि॒र्हरि॑केशः पु॒रस्ता॑त्सवि॒ता ज्योति॒रुद॑या॒ अज॑स्रं ।  
+> तस्य॑ पू॒षा प्र॑स॒वेया॑ति वि॒द्वान्सं॒पश्य॒न्विश्वा॒ भुव॑नानि गो॒पाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्यरश्मिः । हरिकेशः । पुरस्तात् । सविता । ज्योतिः । उत् । अयान् । अजस्रं ।  
+> तस्य । पूषा । प्रसवे । याति । विद्वान् । संपश्यन् । विश्वा । भुवनानि । गोपाः ॥१॥
+
+### Printed p. 902
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यरश्मिः । उषसः प्रादुर्भानानंतरं सूर्यस्योदयात्पूर्वं यः
+> कालस्तस्य कालस्याभिमानी देवः सवितेत्युच्यते ! सूर्यरश्मिः सूर्यस्य सर्वस्य
+> प्रेरकस्यादित्यस्य रश्मिरेव रश्मियस्य स तथोक्तः हरिकेशः हरयो हरणशीला
+> हरितवर्णा वा केशाः केशस्थानीयाः प्रकाशमाना वा दीप्तयो यस्य ईदृशः सविता
+> सर्वस्य प्रेरको देवः पुरस्तात्पूर्वस्यां दिश्यजस्रमनवरतं ज्योतिस्तेज उदयान् ।
+> उद्याति । उद्दमयति ॥ यातेरंतर्भावितण्यर्थाच्छंदसो लज् । व्यत्ययेन बहुवचनं । संहितायां दीर्घादटि समानपाद इति नकारस्य रुत्वं । आतोऽट नित्यमिति
+> सानुनासिक आकारः॥ तस्य सवितुः प्रसने प्रेरणेऽनुज्ञायां सत्यां विद्वाञ्ज्ञानन्नोपा
+> गोपायिता रक्षिता पूषा पोषको देव आदित्यो याति । नभसि गच्छति । किं कुर्वन्।
+> विश्वा विश्वानि सर्वाणि भुवनानि भूतजातानि संपश्यन् । सम्यक् प्रकाशयन् ॥
+
+##### Gist of the bhāṣya
+
+सूर्यरश्मिः (*sūryaraśmiḥ*): the deity who presides over the time that lies after the appearance of Uṣas and before the rising of the Sun is called Savitṛ. He is called सूर्यरश्मिः (*sūryaraśmiḥ*) because the rays of the Sun, the impeller of all, are his own rays. हरिकेशः (*harikeśaḥ*): he whose "hairs", that is, shining radiances like hairs, are हरि (*hari*), either capturing or tawny. Such a Savitṛ, the impelling deity of all, उदयान् (*udayān*) sends up unceasingly ज्योतिः (*jyotiḥ*), light, in the eastern quarter (the form is from या (*yā*) with the causative sense implied, with change of number). At the impulsion, that is, the permission, of that Savitṛ, Pūṣan, the nourishing deity, the Āditya, who is विद्वान् (*vidvān*) (knowing) and गोपाः (*gopāḥ*) (protector), moves in the sky, looking upon all beings, that is, illuminating them well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यरश्मि (*sūryaraśmi*)—he who is endowed with the rays of the Sun
+- हरिकेशः (*harikeśaḥ*)—he who has radiances like tawny hair
+- सविता (*savitā*)—the god Savitṛ
+- पुरस्तात् (*purastāt*)—in the eastern quarter
+- अजस्रं (*ajasraṃ*)—at all times, that is, every morning
+- ज्योतिः (*jyotiḥ*)—his radiance
+- उदयान् (*udayān*)—sends forth
+- तस्य (*tasya*)—of that god Savitṛ
+- प्रसवे (*prasave*)—by the impulsion
+- विद्वान् (*vidvān*)—the one who knows everything
+- गोपाः (*gopāḥ*)—the protector
+- पूषा (*pūṣā*)—the Āditya who nourishes all
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—creatures or worlds
+- संपश्यन् (*saṃpaśyan*)—looking at (pervading with rays)
+- याति (*yāti*)—travels in the sky
+
+##### भावार्थ (Bhāvārtha)
+
+The god Savitṛ, accompanied by the rays of the Sun and shining with his tawny (golden) radiance like hair, rises every day in the east after the time of dawn and spreads his light. By the impulsion of this very Savitṛ, the Āditya, who knows all and nourishes all, moves in the sky looking at all the worlds and the creatures in them.
+
+##### English translation
+Savitri, the solar-rayed, the yellow-haired, sent up the undying light
+from the east; at his command the sage Pushan, the preserver, follows,
+looking upon all creatures.
+
+### Printed p. 903
+
+##### विशेषविषयगळु (Special Topics)
+
+The difference between Savitṛ and Sūrya or Āditya is this: उषसः प्रादुर्भावानंतरं सूर्यस्योदयात्पूर्वं यः कालः तस्याभिमानी देवः सवितेत्युच्यते (*uṣasaḥ prādurbhāvānaṃtaraṃ sūryasyodayātpūrvaṃ yaḥ kālaḥ tasyābhimānī devaḥ savitetyucyate*). When night has passed and the time of dawn has come, the Sun that is just then rising at the end of that dawn is called Savitṛ. Afterwards, when he has risen fully and shines in the sky, he is called Sūrya or Āditya. Because at the beginning of sunrise the rays have a slight tinge of red and yellow, Savitṛ is here described as हरिकेशः (*harikeśaḥ*), one with golden hair. After the end of night dawn appears; the darkness of night departs and it becomes light. But the Sun has not yet risen. This time, filled only with light without the rays of the Sun, is called the time of dawn. After the dawn, golden rays are seen little by little in the east. The Sun, rising slowly in this way, is called Savitṛ only at that time; after he has fully risen he is spoken of as Sūrya. The seer Hiraṇyastūpa described the same matter, in order, as follows:
+
+ह्वयाम्यग्निं प्रथमं स्वस्तये ह्वयामि मित्रावरुणाविहावसे । ह्वयामि रात्रीं जगतो निवेशनीं ह्वयामि देवं सवितारमूतये ॥ (*hvayāmyagniṃ prathamaṃ svastaye hvayāmi mitrāvaruṇāvihāvase | hvayāmi rātrīṃ jagato niveśanīṃ hvayāmi devaṃ savitāramūtaye ‖*)
+आ कृष्णेन रजसा वर्तमानो निवेशयन्नमृतं मर्त्यं च । हिरण्ययेन सविता रथेना देवो याति भुवनानि पश्यन् ॥ (*ā kṛṣṇena rajasā vartamāno niveśayannamṛtaṃ martyaṃ ca | hiraṇyayena savitā rathenā devo yāti bhuvanāni paśyan ‖*)
+(Ṛ. Saṃ. 1-35-1, 2)
+
+Here first the Agni that shines at night is praised; then Mitra and Varuṇa, the presiding deities of day and night; then Night; then the god Savitṛ, in order. It says that this god Savitṛ rises, dispels the darkness of night with his radiance, and comes, rising on a chariot shining with golden lustre (in the present Ṛk the rays of Savitṛ are described as golden hair), looking at all the worlds. The sequence is: first night; then, when night has passed, dawn; then the appearance of Savitṛ; then sunrise; then day and again night. Thus these divisions of time follow one another without interruption. Here the usage is to call the Sun that is just rising after dawn the god Savitṛ.
+
 ---
 
-**Progress note:** Done through printed p. 897. pp. 892-897 (batch API)
+**Progress note:** Done through printed p. 903. pp. 898-903 (batch API)
