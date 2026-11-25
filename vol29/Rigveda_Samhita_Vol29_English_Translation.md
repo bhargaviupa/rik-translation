@@ -27479,6 +27479,280 @@ O lords of all the worlds, gods endowed with qualities such as radiance, there i
 
 O gods, lords of all the worlds, give us all the wealth that belongs to all of you, that is great and attractive. All of you are of exceedingly great fame. All of you are worthy of worship in sacrifices.
 
+### Printed p. 990
+
+##### English translation
+Lords of all worlds, (give us) the abundant wealth of the gods; for (you) all are endowed with great glory, (you) all are to be worshipped at the sacrifices,
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते घा॒ राजा॑नो अ॒मृत॑स्य मं॒द्रा अ॑र्य॒मा मि॒त्रो वरु॑णः॒  ॑
+> परिज्मा ।  
+> कद्रु॒द्रो नृ॒णां स्तु॒तो म॒रुतः॑ पू॒षणो॒ भगः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । घ । राजानः । अमृतस्य । मंद्राः । अर्यमा । मित्रः । वरुणः । परिज्मा ।  
+> कत् । रुद्रः । नृणां । स्तुतः । मरुतः । पूषणः । भगः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्यमा देवो मित्रश्च परिज्मा सर्वतो गामी सर्वत्राप्रतिहतगतिर्वरुणोऽन्यो देवजनश्वर्त्विग्भिः स्तुतो रुद्रश्च पूषणः सर्वस्य पोषयितारो
+> मरुतश्च भगश्च एते देवा मंद्राः सर्वैः स्तुत्याः संतो नृणां मनुष्याणां कत्
+> सुखं प्रयच्छतेति शेषः । ते सर्वेऽमृतस्यामृतसदृशस्य हविषो राजानो घ ।
+> ईश्वराः खलु ॥
+
+##### Gist of the bhāṣya
+
+Aryaman the god and Mitra, and Parijmā, the one who goes everywhere, Varuṇa, whose course is nowhere obstructed, and another divine person, Rudra, who is praised by the priests, and Pūṣan, the nourisher of all, the Maruts and Bhaga: these gods, being praised by all, give happiness to men (the verb is supplied). All of them are indeed lords of the oblation that is like ambrosia.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरमा (*aramā*)—Aryaman
+- मित्रः (*mitraḥ*)—Mitra
+- परिज्जा (*parijjā*)—the one who moves everywhere
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- स्तुतः (*stutaḥ*)—praised by the priests
+- रुद्रः (*rudraḥ*)—Rudra
+- पूषणः (*pūṣaṇaḥ*)—the nourishers of the world
+- मरुतः (*marutaḥ*)—the Maruts
+- भगः (*bhagaḥ*)—Bhaga
+- ते (*te*)—all these well-known gods
+- मंद्राः (*maṃdrāḥ*)—being praised by all
+- नृणां (*nṛṇāṃ*)—to men
+- कत् (*kat*)—they are givers of happiness
+- अमृतस्य (*amṛtasya*)—to the oblation that is equal to ambrosia
+- राजानः (*rājānaḥ*)—they are lords
+
+##### भावार्थ (Bhāvārtha)
+
+Aryaman, Mitra, Varuṇa, who moves everywhere, Rudra, who is praised by the priests, the Maruts, who are nourishers of the world, and Bhaga: all these well-known gods, being praised by us, are givers of happiness to men. They are also lords of the oblation that is equal to ambrosia.
+
+### Printed p. 991
+
+##### English translation
+They are the lords of the ambrosia, adorable,—Aryaman, Mitra, the circumambient Varuna, Rudra, who is hymned by the priests, the Maruts, Pushan, Bhaga.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॒ नक्त॑म॒पां वृ॑षण्वसू॒ सूर्या॒मासा॒ सद॑नाय  ॒॑
+> सधन्या ।  
+> सचा॒ यत्साद्ये॑षा॒महि॑र्बु॒ध्नेषु॑ बु॒द्ध्यः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । नक्तं । अपां । वृषण्वसू इति वृषण्वसू । सूर्यामासा । सदनाय ।  
+> सधन्या ।  
+> सचा । यत् । सादि । एषां । अहिः । बुध्नेषु । बुद्ध्यः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे वृषण्वसू वर्षणधनावश्विन् युवामपामुदकानां संबंधिनौ
+> सधन्या सधन्या समानधना सूर्यामासा सूर्याचंद्रमसौ बुध्नेष्टंतरिक्षेषु
+> निवासस्थानेष्टु मेघेषु यद्योऽहिर्बुध्न्यो देवो सादि सीदति तिष्ठति एषामेभिः
+> सचा सह युवां नक्तं रात्रावहनि चोरुष्यतमिति वक्ष्यमाणेन संबंधः ॥
+
+##### Gist of the bhāṣya
+
+And, O Vṛṣaṇvasū, Aśvins, you who shower wealth and belong to the waters; and the sun and the moon, who possess equal wealth, when the god Ahirbudhnya sits in the clouds, in the regions of the atmosphere that are his dwelling places, together with these you, by night and by day, (protect us): the connection is with the word चोरुष्यतमिति (*coruṣyatamiti*) to be spoken later.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- वृषण्वसू (*vṛṣaṇvasū*)—O Aśvin deities, bestowers of what is desired
+- अपां (*apāṃ*)—lords of the waters
+- सधन्या (*sadhanyā*)—possessed of equal wealth
+- सूरामासा (*sūrāmāsā*)—O sun and moon deities
+- नक्तं (*naktaṃ*)—by day and night
+- सदनाय (*sadanāya*)—come to our sacrificial house
+- यत् (*yat*)—which
+- अहिर्बुध्न्यः (*ahirbudhnyaḥ*)—the god Ahirbudhnya
+- बुधेषु (*budheṣu*)—in the clouds of the atmosphere
+- सादि (*sādi*)—he who sits, he also
+- एषां सचा (*eṣāṃ sacā*)—with these gods (may he protect us by day and night)
+
+### Printed p. 992
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, bestowers of what is desired; O sun and moon deities, lords of the waters and possessed of equal wealth: come by day and night to our sacrificial house. May the god Ahirbudhnya, who sits in the clouds of the atmosphere, also protect us together with these gods.
+
+##### English translation
+And (you two Ashwins) showering wealth, (you)sun and moon, (lords) of the waters, equally rich, (come) by night to our abode, when Ahirbudhnya sits down in their company in the firmamental (clouds).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॑ दे॒वाव॒श्विना॑ शु॒भस्पती॒ धाम॑भिर्मि॒त्रावरु॑णा  
+> उरुष्यतां ।  
+> म॒हः स रा॒य एष॒तेति॒ धन्वे॑व दुरि॒ता ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । देवा । अश्विना । शुभः । पती इति । धामभिः । मित्रावरुणौ । उरुष्यतां ।  
+> महः । सः । रायः । आ । ईषते । अति । धन्व इव । दुःइता ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च शुभस्पती शुभस्योदकस्य पती अश्विनाश्विन् देवौ नोऽस्मान्थामभिरात्मीयैः शरीरैरुरुष्यतां । रक्षतां । किंच मित्रावरुणावात्मीयै: शरीरैरुरुष्यतां ।
+> रक्षेतां । यं यजमानं पुरुषममी देवा रक्षंति स महो महांति रायो
+> धनान्येषते । अभिमुख्येन प्राप्नोति । गच्छति । किंच दुरिता दुरितानि शीघ्रमत्यतिगंतातिक्रांता च भवति । तत्र दृष्टांतः । धन्वेव यथा पथिको निरुदकान्देशानति.
+> क्रामति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+And the two divine Aśvins, lords of the good water, protect us with their own bodies. Further, Mitra and Varuṇa also protect with their own bodies. The man, the sacrificer, whom these gods protect, reaches great riches, going towards them; and he also quickly passes beyond calamities. The illustration: as a traveller crosses waterless regions, so is it, is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- शुभस्पती (*śubhaspatī*)—lords of water
+- देवौ (*devau*)—of divine nature
+- अश्विना (*aśvinā*)—the Aśvin deities
+- नः (*naḥ*)—us
+- धामभिः (*dhāmabhiḥ*)—coming with their bodies
+- उरुष्यतां (*uruṣyatāṃ*)—
+
+### Printed p. 993
+
+  may they protect us
+- मित्रावरुणौ (*mitrāvaruṇau*)—may Mitra and Varuṇa also protect us (the sacrificer whom they protect)
+- सः (*saḥ*)—that sacrificer
+- महः (*mahaḥ*)—abundant
+- रायः (*rāyaḥ*)—riches
+- एषते (*eṣate*)—obtains
+- धन्वेव (*dhanveva*)—as a traveller crosses a desert
+- दुरिता (*duritā*)—difficult circumstances
+- अति (*ati*)—he crosses
+
+##### भावार्थ (Bhāvārtha)
+
+May the Aśvin deities, lords of water and of divine nature, come with their bodies and protect us. May Mitra and Varuṇa also protect us. The sacrificer protected by them obtains abundant riches. As a traveller crosses a desert, he crosses difficult circumstances.
+
+##### English translation
+And may the divine Ashwins, the lords of pure (water), and Mitra and Varuna protect us with their bodies; he (whom they protect) acquires ample riches, (and passes) through misfortunes as (a traveller through) a desert.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॑ रु॒द्रा चि॑न्मृळताम॒श्विना॒ विश्वे॑ दे॒वासोः॒ रथ॒स्पति॒र्भगः॑ ।  
+> ऋ॒भुर्वाज॑ ऋभुक्षणः॒ परि॑ज्मा विश्ववेदसः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । रुद्रा । चित् । मृळतां । अश्विना । विश्वे । देवासः । रथःऽपतिः । भगः ।  
+> ऋभुः । वाजः । ऋभुक्षणः । परिज्मा । विश्ववेदसः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत चिदपि च रुद्रा रुद्रपुत्रावश्विनाश्विन् नोऽस्मान्मृळतां । सुखयतां ।
+> किंच रथस्पती रथस्य पतिः पूषर्भुर्वाजोन्नवान्भगश्च परिज्मा परितो गंता
+> वायुश्चेति विश्वे सर्वॆ देवासो देवाः सुखयंतु । हे विश्ववेदसो विश्ववेदाः
+> सर्वप्रज्ञा सर्वधना ना हे ऋभुक्षणो महांतो ब्रह्मादयो देवाः यूयं
+> सुखयत ॥
+> kxix 63
+
+##### Gist of the bhāṣya
+
+And may the two Aśvins, the sons of Rudra, make us happy. Further, the lord of the chariot, भगश्च (*bhagaśca*) Bhaga, and Parijmā, the one who goes all round, namely Vāyu, and so all the gods, may make us happy; Ṛbhu and Vāja, the possessor of food, are also named. **NOTE** O Viśvavedasaḥ, all-knowing, possessed of all wealth, and O Ṛbhukṣaṇaḥ, great gods beginning with Brahmā: make us happy.
+
+### Printed p. 994
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत चित् (*uta cit*)—and with the gods praised above
+- रुद्रा (*rudrā*)—the sons of Rudra
+- अश्विनी (*aśvinī*)—the Aśvin deities
+- नः (*naḥ*)—us
+- मृळतां (*mṛḷatāṃ*)—may they make happy
+- रथपतिः (*rathapatiḥ*)—Pūṣan, the protector of the chariot
+- ऋभु (*ṛbhu*)—Ṛbhu
+- वाजः (*vājaḥ*)—endowed with food
+- भगः (*bhagaḥ*)—Bhaga
+- परिज्मा (*parijmā*)—Vāyu, who moves everywhere
+- विश्वे देवासः (*viśve devāsaḥ*)—may all the gods be givers of happiness to us
+- विश्ववेदसः (*viśvavedasaḥ*)—knowers of all
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—great ones: O gods, be givers of happiness to us
+
+##### भावार्थ (Bhāvārtha)
+
+May the sons of Rudra and the Aśvin deities make us happy. May Pūṣan, the protector of the chariot, Ṛbhu, Bhaga, who is endowed with food, Vāyu, who moves everywhere, and all the gods be givers of happiness to us. O gods, who know all and are great, be givers of happiness to us.
+
+##### English translation
+And may the Rudras, the Ashwins, make us happy, (may) the universal gods, the lord of chariots, Bhaga, Ribhu, Vaja, Ribhukshana, the circumambient (Vayu), and the omniscient (deities make us happy). **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒भुर्ऋ॑भु॒क्षा ऋ॒भुर्वि॑ध॒तो मद॒ आ ते॒ हरी॑ जूजुवा॒नस्य॑  ॒॑
+> वाजिना ।  
+> दु॒ष्टरं॒ यस्य॒ साम॑ चि॒दृध॑ग्य॒ज्ञो न मानु॑षः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋभुः । ऋभुक्षाः । ऋभुः । विधतः । मदः । आ । ते । हरी इति । जूजुवानस्य ।  
+> वाजिना ।  
+> दुस्तरं । यस्य । साम । चित् । ऋधक् । यज्ञः । न । मानुषः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋभुक्षा महानिंद्र ऋभुर्यज्ञेन भाति । किंच विधतस्तां परिचरतो
+> यजमानस्य मदो हर्षोऽपृभुर्यज्ञेन भाति । हे इंद्र आ जूजुवानस्याति-
+
+##### Gist of the bhāṣya
+
+Ṛbhukṣan, the great Indra, shines through the sacrifice. Further, the joy, the delight, of the sacrificer who serves him shines through the sacrifice. **NOTE** O Indra, of you who come very swiftly,
+
+### Printed p. 995
+
+> शीघ्रमागच्छतस्ते तव हरी अश्वावपि वाजिना वाजिनौ बलवंतौ । किंच यस्येंद्रस्य
+> संबंधि साम चिद्दीयमानं सामापि दुष्टरं रक्षोभिरप्रापणीयं । एष यज्ञो
+> मानुषो मनुष्यसाधारणो न किंचर्धक् पृथक् । दिव्य इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+your two horses are also strong. Further, the Sāman, which is being sung for Indra, is hard to cross, that is, it cannot be reached by the Rākṣasas. This sacrifice is not human, not common to men: it is apart, that is, it is divine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुक्षा (*ṛbhukṣā*)—the great Indra
+- ऋभुः (*ṛbhuḥ*)—shines through the sacrifice (O Indra)
+- विधतः (*vidhataḥ*)—of the sacrificer who worships you
+- मदः (*madaḥ*)—the joy also
+- ऋभुः (*ṛbhuḥ*)—shines through the sacrifice alone
+- आ जूजुवानस्य (*ā jūjuvānasya*)—coming towards the sacrifice
+- ते (*te*)—your
+- हरी (*harī*)—the two horses also
+- वाजिना (*vājinā*)—are possessed of strength
+- यस्य (*yasya*)—of that same Indra whom it praises
+- साम चित् (*sāma cit*)—the Sāman also, of the form of song
+- दुष्टरं (*duṣṭaraṃ*)—is beyond the blows of the Rākṣasas
+- यज्ञः (*yajñaḥ*)—the sacrifice
+- न मानुषः (*na mānuṣaḥ*)—is not connected with men
+- ऋधक् (*ṛdhak*)—apart from them, it has divinity
+
+##### भावार्थ (Bhāvārtha)
+
+The great Indra shines through the sacrifice. O Indra, the joy of the sacrificer who worships you also shines through the sacrifice alone. Your horses, which come towards the sacrifice, are also possessed of strength. The Sāman of the form of song that praises you cannot be approached by the asuras. The sacrifice does not have the deficiency natural to men; it has divinity.
+
+##### English translation
+The mighty (Indra) is resplendent through the sacrifice), the joy of the worshipper is resplendent ; vigorous are the two horses of you rapidly approaching, whose hymn is unassailable (by the Rakshasas); (this) sacrifice is apart, not human.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒धी नो॒ अह्र॑यो देव सवितः॒ स च॑ स्तुषे म॒घोनां॑ ।  
+> स॒हो न॒ इंद्रो॒ वह्नि॑भि॒र्न्ये॑षां चर्षणी॒नां च॒क्रं र॒श्मिं न  ॑
+> योयुवे ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 989. Sukta 92 Rk 13-15 end; Sukta 93 intro, Rk 1-3 (pp. 982-989)
+**Progress note:** Done through printed p. 995. Sukta 93 Rk 4-8 and Samhita of Rk 9 (pp. 990-995)
