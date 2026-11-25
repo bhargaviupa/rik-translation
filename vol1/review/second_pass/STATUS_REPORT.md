@@ -5,7 +5,7 @@
 - **Stage:** S2 reading in page batches
 - **Pages read:** 280 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270)
 - **Findings:** 1114 — applied 956, questions 158; edits ok 960, failed 0
-- **Reader tokens (batches so far):** 2772k; per page 9.9k
+- **Reader tokens (batches so far):** 3040k; per page 10.9k
 - **Last commit:** 3a47bde
 
 ## 2. Batches
@@ -20,7 +20,7 @@
 | 7 | 151–180 | 178 | 162 | 162 / 0 | 16 | 344k | 0d0d282 | 162 edits (96 Devanagari/IAST repairs via sp_sanskrit, 22 S1 + 1 S3, 28 S13 names); where the Kannada word is a plausible misprint and the English had another reading the Kannada was followed as printed and flagged as a question (pp. 166, 178); pp. 151–167 in the Gaps file, 168–180 in the main file; 7 open.tsv rows (Kannada totals/branch numbers that do not fit) |
 | 8 | 181–210 | 79 | 71 | 71 / 0 | 8 | 317k | d2c93de | 71 edits (28 S14 sense, 12 S13 names, 9 S16, 8 S2, 5 S3, 4 S15, 4 S1, 1 S7), 8 Gaps index count rows corrected; first batch under the Nov 25 method (no questions: 15 kn_misprints, 7 decided_by_default rows; no Devanagari/IAST lines edited); Kannada p. 198 block holds printed 198+199; an older '## Page 191' summary in the main file (two-level heading) is out of sp_apply's reach (listed in decided_by_default) |
 | 9 | 211–240 | 87 | 74 | 74 / 0 | 13 | 279k | 0a76ccd | 74 edits (24 S14 sense, 16 S13 names, 12 S3 + 11 S1 numbers, 5 S16, 4 S15); the supplied Kannada p. 215 is a copy of p. 216 (true p. 215 absent: English p. 215 unchecked); several paragraphs on pp. 214, 217, 232 replaced as wrong as a whole; Kannada table references applied as printed even where odd (7-1-0 p. 224, p. 239 numbering, 1237 vs 80 years: open.tsv) |
-| 10 | 241–270 | 55 | 46 | 46 / 0 | 9 | TOK9 | 3a47bde | 46 edits (33 R6 names/terms, 13 R1 incl. whole-paragraph replacements on pp. 247, 248, 253, 254, 257, 258, 260 where the English was wrong as a whole); no page shifts; p. 241 Kannada 101 sūktas vs quoted Sanskrit 1001 applied as printed (open.tsv); p. 258 Chaturvedasvāmin account has no English (not added) |
+| 10 | 241–270 | 55 | 46 | 46 / 0 | 9 | 268k | 3a47bde | 46 edits (33 R6 names/terms, 13 R1 incl. whole-paragraph replacements on pp. 247, 248, 253, 254, 257, 258, 260 where the English was wrong as a whole); no page shifts; p. 241 Kannada 101 sūktas vs quoted Sanskrit 1001 applied as printed (open.tsv); p. 258 Chaturvedasvāmin account has no English (not added) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
