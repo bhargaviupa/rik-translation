@@ -10,11 +10,12 @@ import os, re, sys, csv, subprocess, difflib
 from concurrent.futures import ThreadPoolExecutor
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 KD = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')
+BASE = 0   # page-file number minus PDF page (Vol 26 part 2: files p1001.. are PDF pages 1..)
 def one(vol, pdf, pg):
     d = os.path.join(ROOT, f'vol{vol}', 'work', 'ocr'); os.makedirs(d, exist_ok=True); out = os.path.join(d, f'p{pg:04d}')
     if os.path.exists(out + '.txt') and os.path.getsize(out + '.txt'): return
     png = out + '_tmp'
-    subprocess.run(['pdftoppm', '-f', str(pg), '-l', str(pg), '-scale-to-x', '2304', '-scale-to-y', '-1', '-gray', '-png', '-singlefile', pdf, png], check=True)
+    subprocess.run(['pdftoppm', '-f', str(pg - BASE), '-l', str(pg - BASE), '-scale-to-x', '2304', '-scale-to-y', '-1', '-gray', '-png', '-singlefile', pdf, png], check=True)
     subprocess.run(['tesseract', png + '.png', out, '--psm', '3', '-l', 'kan+eng'], capture_output=True); os.remove(png + '.png')
 def run(vol, pdf, first, last, jobs):
     with ThreadPoolExecutor(jobs) as ex: list(ex.map(lambda p: one(vol, pdf, p), range(first, last + 1)))
@@ -38,5 +39,5 @@ def numbers(vol, first, last):
 if __name__ == '__main__':
     a = sys.argv[1:]
     if a[0] == 'run':
-        jobs = int(a[a.index('--jobs') + 1]) if '--jobs' in a else 3; run(a[1], a[2], int(a[3]), int(a[4]), jobs)
+        jobs = int(a[a.index('--jobs') + 1]) if '--jobs' in a else 3; BASE = int(a[a.index('--base') + 1]) if '--base' in a else 0; run(a[1], a[2], int(a[3]), int(a[4]), jobs)
     else: numbers(a[1], int(a[2]), int(a[3]))

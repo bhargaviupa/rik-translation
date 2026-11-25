@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Enlarged crops around the doubtful numbers of a scan-made volume, for a focused re-reading (shared tool; Vol 25 first). No API, no cost.
 
-  python3 tools/rv/scan_crops.py VOL [--kinds number,head] [--per 10]
+  python3 tools/rv/scan_crops.py VOL [--kinds number,head] [--per 10] [--pdf PATH] [--base N]   (Vol 26 part 2: --pdf vol26/scans/Rig_Vol26_part2.pdf --base 1000)
 For each open question of volN/review/questions.tsv of those kinds (and not yet answered): the page is rendered, Tesseract (kan+eng, TSV with word boxes, cached in
 volN/work/ocr/pNNNN.tsv) gives the printed lines with their boxes; the line that holds the mark is found by matching the letters before and after the mark
 (digits ignored) against each printed line. The crop is that line's neighbourhood (a head: the whole head line), enlarged to about 1560 px wide. `per` crops are stacked
@@ -15,7 +15,7 @@ def letters(s): return LET.sub('', s)
 def page_png(vol, pg):
     d = os.path.join(ROOT, f'vol{vol}', 'work', 'crops'); os.makedirs(d, exist_ok=True); out = os.path.join(d, f'full{pg:04d}')
     if not os.path.exists(out + '.png'):
-        subprocess.run(['pdftoppm', '-f', str(pg), '-l', str(pg), '-scale-to-x', '2304', '-scale-to-y', '-1', '-gray', '-png', '-singlefile', PDFS[vol], out], check=True)
+        subprocess.run(['pdftoppm', '-f', str(pg - BASE), '-l', str(pg - BASE), '-scale-to-x', '2304', '-scale-to-y', '-1', '-gray', '-png', '-singlefile', PDFS[vol], out], check=True)
     return out + '.png'
 def lines_of(vol, pg, png):
     tsv = os.path.join(ROOT, f'vol{vol}', 'work', 'ocr', f'p{pg:04d}.tsv')
@@ -32,7 +32,8 @@ def lines_of(vol, pg, png):
     return sorted(out, key=lambda x: x[1])
 def main():
     a = sys.argv[1:]; vol = a[0]; kinds = (a[a.index('--kinds') + 1] if '--kinds' in a else 'number,head').split(','); per = int(a[a.index('--per') + 1]) if '--per' in a else 10; tag = a[a.index('--tag') + 1] if '--tag' in a else ('num' if 'word' not in kinds else 'word')
-    PDFS[vol] = os.path.join(ROOT, f'vol{vol}', 'scans', f'Rig_Vol{vol}.pdf')
+    PDFS[vol] = os.path.join(ROOT, a[a.index('--pdf') + 1]) if '--pdf' in a else os.path.join(ROOT, f'vol{vol}', 'scans', f'Rig_Vol{vol}.pdf')
+    global BASE; BASE = int(a[a.index('--base') + 1]) if '--base' in a else 0
     Q = [q for q in csv.DictReader(open(os.path.join(ROOT, f'vol{vol}', 'review', 'questions.tsv'), encoding='utf8'), delimiter='\t') if q['kind'] in kinds and not q['answer']]
     os.makedirs(os.path.join(ROOT, f'vol{vol}', 'work', 'ocr'), exist_ok=True); cd = os.path.join(ROOT, f'vol{vol}', 'work', 'crops')
     try: font = ImageFont.load_default(size=26)
@@ -77,5 +78,5 @@ def main():
     with open(os.path.join(cd, f'nomatch_{tag}.tsv'), 'w', encoding='utf8') as o:
         for r in nomatch: o.write('\t'.join(r) + '\n')
     print(f'{len(Q)} questions: {len(items)} cropped into {n} mosaics; {len(nomatch)} without a matching printed line → {cd}')
-PDFS = {}
+PDFS = {}; BASE = 0
 main()
