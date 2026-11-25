@@ -450,6 +450,246 @@ On the fourth day, in the Marutvatīya, the tṛca तं त्वा यज्
 - पुरुमाय्यं (*purumāyyaṃ*)—me, of abundant wisdom
 - वाजेषु (*vājeṣu*)—in battles
 
+### Printed p. 13
+
+- *āvitha*—protected (in the same manner)
+- तं (*taṃ*)—the famed one
+- त्वा (*tvā*)—you
+- यज्ञेभिः (*yajñebhiḥ*)—with the offering of Soma, the means of sacrifice
+- ईमहे (*īmahe*)—we worship and beg
+- तं (*taṃ*)—that same you
+- गीर्भिः (*gīrbhiḥ*)—with praises we extol and beg
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy to be worshipped with praises, in the same manner as you protected me, of abundant wisdom, in battle, we worship and beg you, the famed one, with the offering of Soma, the means of sacrifice. With praises too we extol and beg that same you.
+
+##### English translation
+We address you with sacrificial gifts, (we address) you with songs, O Indra, most worthy of song, as you have protected me, the offerer of many praises, in battles
+
+##### विशेषविषयगळु (Special Topics)
+
+On the fourth day of the sacrifice, at the time of the recitation of the Marutvatīya śastra mantras, the three ṛks beginning तं त्वा यज्ञेभिः (*taṃ tvā yajñebhiḥ*) (ṛks 10 to 12 of this sūkta) are to be recited as the pratipat-sūcana **NOTE**; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, तं त्वा यज्ञेभिरीमह इदं वसो सुतमंध इति मरुत्वतीयस्य प्रतिपदनुचरौ (*taṃ tvā yajñebhirīmaha idaṃ vaso sutamaṃdha iti marutvatīyasya pratipadanucarau*) (Ā. 6. 11 **NOTE**).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ ते स्वा॒दु स॒ख्यं स्वा॒द्वी प्रणी॑तिरद्रिवः ।  
+> य॒ज्ञो वि॑तंत॒साय्यः॑ ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । ते । स्वादु । सख्यम् । स्वाद्वी । प्रऽनीतिः । अद्रिऽवः ।  
+> यज्ञः । वितंतसाय्यः ॥११
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः वज्रवन्निंद्र यस्य स्तुत्यत्वेन प्रसिद्धस्य ते तव सख्यं स्वादु अतीवानुभवार्हम् । किंच ते प्रणीतिः प्रणयनं धनादीनां स्वाद्वी स्वादु सुहर्षकम् । तथोभे त्वद्विषयो यज्ञः च वितंतसाय्यः विशेषेण तननीयः ॥
+
+##### Gist of the bhāṣya
+
+O wielder of the stone, Indra, whose friendship, famed as the object of praise, is exceedingly sweet, fit to be enjoyed; and further, your leading forth of wealth and the like is sweet, delightful; likewise the sacrifice directed to you is to be extended, spread out widely.
+
+### Printed p. 14
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt weapon
+- यस्य (*yasya*)—very famed
+- ते (*te*)—with you
+- सख्यं (*sakhyaṃ*)—friendship
+- स्वादु (*svādu*)—is most beneficial
+- प्रणीतिः (*praṇītiḥ*)—the gifts of wealth and the like that proceed from you also
+- स्वाद्वी (*svādvī*)—are delightful
+- यज्ञः (*yajñaḥ*)—the sacrifice directed to you also
+- वितंतसाय्यः (*vitaṃtasāyyaḥ*)—are performed extensively
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt weapon, friendship with you, the very famed, is most beneficial. The gifts of wealth and the like that proceed from you are also delightful. The sacrifice directed to you also is performed extensively.
+
+##### English translation
+You, the thunderer, whose friendship is sweet, sweet too is your liberality, and your sacrifice pre-eminently to be performed.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रु ण॑स्त॒न्वे॒३॒॑ तन॑ उ॒रु क्षया॑य नस्कृधि ।  
+> उ॒रु णो॑ यंधि जी॒वसे॑ ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरु । नः । तन्वे । तने । उरु । क्षयाय । नः । कृधि ।  
+> उरु । नः । यंधि । जीवसे ॥१२
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नः अस्माकं तन्वे आत्मजाय उरु प्रभूतं कृधि कुरु । सामर्थ्याद्धनं सुखं वेति गम्यते । तथा तने तत्पुत्राय उरु कृधि । तथा क्षयाय निवासाय उरु कृधि । नः अस्माकं जीवसे जीवनाय यंधि प्रयच्छाभिमतम् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, make ample for our own selves, that is, for our offspring (by implication wealth or happiness is understood); likewise make ample for their sons; likewise make ample for our dwelling; and for our living grant what we desire.
+
+### Printed p. 15
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) नः (*naḥ*)—our
+- तन्वे (*tanve*)—to sons and the like
+- उरु (*uru*)—abundant wealth
+- कृधि (*kṛdhi*)—give
+- तने (*tane*)—to their sons and the like also
+- उरु (*uru*)—give abundant wealth
+- नः (*naḥ*)—our
+- क्षयाय (*kṣayāya*)—for dwelling
+- उरु (*uru*)—build ample dwelling places
+- नः (*naḥ*)—our
+- जीवसे (*jīvase*)—for living
+- यंधि (*yaṃdhi*)—supply our desires abundantly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, give abundant wealth to our sons and the like. Give abundant wealth to their sons and the like also. For our dwelling build ample dwelling places. For our living supply our desires in the highest degree.
+
+##### English translation
+Give ample (wealth) to our own selves, give ample (wealth) to our children, give ample (wealth) to our dwelling,—grant us (our desire) that we may live.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रुं नृभ्य॑ उ॒रुं गव॑ उ॒रुं रथा॑य॒ पंथा॑म् ।  
+> दे॒ववी॑तिं मनामहे ॥१३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुम् । नृऽभ्यः । उरुम् । गवे । उरुम् । रथाय । पंथाम् ।  
+> देवऽवीतिम् । मनामहे ॥१३
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नृभ्यः अस्मदीयेभ्यो भृत्येभ्यः उरुं हितं मनामहे याचामहे । तथा गवे । एतदुपलक्षणम् । गवाश्वादिकाय तथा रथाय पंथां पंथानं मार्गम् । अथवा नृप्रभृतीनां संचाराय शोभनं मार्गं मनामहे । तथा देववीतिं यज्ञं मनामहे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for our men, our servants, we beg ample benefit; likewise for the cow, which stands for cows, horses and the like, and for the chariot, a path, a road; or else, for the movement of men and others, we beg an excellent road; likewise we beg the sacrifice to the gods, देववीतिं (*devavītiṃ*).
+
+### Printed p. 16
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) नृभ्यः (*nṛbhyaḥ*)—for our servants and other people
+- उरुं (*uruṃ*)—abundant benefit
+- मनामहे (*manāmahe*)—we beg
+- गवे (*gave*)—for our cattle and the like
+- उरुं (*uruṃ*)—extensive
+- पंथां (*paṃthāṃ*)—we beg a road
+- रथाय (*rathāya*)—for the movement of our chariots
+- उरुं (*uruṃ*)—we beg an extensive road
+- देववीतिं (*devavītiṃ*)—we beg also the conveniences of the sacrifices directed to the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for our servants and other people we beg abundant benefit. For our cattle and the like we beg an extensive road. For the movement of our chariots also we beg an extensive road. We beg also the conveniences of the sacrifices directed to the gods.
+
+##### English translation
+We solicit a spacious (road) for our servants, a spacious road for our cattle, a spacious road for our chariot, and (an abundant) sacrifice.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ मा॒ षड्द्वाद्वा॒ नरः॒ सोम॑स्य॒ हर्ष्या॑ ।  
+> तिष्ठं॑ति स्वादुरा॒तयः॑ ॥१४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । मा । षट् । द्वाऽद्वा । नरः । सोमस्य । हर्ष्या ।  
+> तिष्ठंति । स्वादुऽरातयः ॥१४
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदाद्याः षड़ृच ऋक्षाश्वमेधयोर्दानस्तुतिरूपाः । यद्यपि बृहद्देवतानुक्रमण्याम् ‘ऋक्षाश्वमेधयोरत्र पंच दानप्रशंसकाः' (बृहद्दे. ६. ९२ ) इत्युक्तं तथापि उप मा षट्' इत्यस्या राजदानस्तुतिशेषत्वादविरोधः । अनेनैवाशयेनानुक्रमण्याम् ' अंत्याः षळृच ऋक्षाश्वमेधयोर्दानस्तुतिः' इत्युक्तम् । मा मां प्रियमेधं यज्ञे प्रसर्पंतः षट् एतत्संख्याकाः नरः नेतारो राजानः सोमस्य पीतस्य हर्ष्या हर्षेण स्वादुरातयः सुष्ठूपभोगार्हदानाः संतः द्वाद्वा द्वौ द्वौ पितृपुत्ररूपेण युग्मौ भूत्वा माम् उप तिष्ठंति । तेषां युग्मानां नाम तूत्तरत्र स्पष्टीक्रियते ॥
+
+##### Gist of the bhāṣya
+
+The six ṛks beginning with this are in praise of the gifts of Ṛkṣa and Aśvamedha. Although in the Bṛhaddevatā it is said ऋक्षाश्वमेधयोरत्र पंच दानप्रशंसकाः (*ṛkṣāśvamedhayoratra paṃca dānapraśaṃsakāḥ*) (Bṛ. De. 6. 92) **GLOSS**, yet since the ṛk उप मा षट् (*upa mā ṣaṭ*) is a remainder of the praise of royal gifts, there is no contradiction; with this very intent the Anukramaṇī says that the last six ṛks are praise of the gifts of Ṛkṣa and Aśvamedha. Six leaders, kings, in numbers six, approach me, Priyamedha, at the sacrifice, in the delight of the Soma they have drunk, giving gifts worthy of full enjoyment; they stand near me, having become pairs, two and two, in the form of father and son. The names of these pairs are made clear later.
+
+### Printed p. 17
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्वाद्वा (*dvādvā*)—who are grouped in twos, as father and son
+- स्वादुरातयः (*svādurātayaḥ*)—who give beneficial gifts
+- षट् (*ṣaṭ*)—who are six in number
+- नरः (*naraḥ*)—kings
+- सोमस्य (*somasya*)—produced by drinking the Soma juice
+- हर्ष्या (*harṣyā*)—filled with joy
+- मा (*mā*)—me
+- उप तिष्ठंति (*upa tiṣṭhaṃti*)—come near and stand
+
+##### भावार्थ (Bhāvārtha)
+
+The kings, grouped in twos as father and son, who give beneficial gifts and are six in number, filled with the joy produced by drinking the Soma juice, come near and stand by me.
+
+##### English translation
+Six princes come to me in pairs, bearing pleasant gifts, in the exhilaration of the Soma.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ज्राविं॑द्रो॒त आ द॑दे॒ हरी॒ ऋक्ष॑स्य सू॒नवि॑ ।  
+> आ॒श्व॒मे॒धस्य॒ रोहि॑ता ॥१५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋज्रौ । इंद्रोते । आ । ददे । हरी इति । ऋक्षस्य । सूनवि ।  
+> आश्वऽमेधस्य । रोहिता ॥१५
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रोते एतन्नामक आतिथिग्वेऽतिथिग्वनाम्नो राज्ञः पुत्रे । ' अतिथिग्वाय शंबरम्' (ऋ. सं. १. ५१. ६)  ‘ अतिथिग्वाय शंस्यम्' (ऋ. सं. ६. २६. ३) इत्यादिष्वतिथिग्वः प्रसिद्धः । तत्पुत्र इंद्रोते ऋज़ौ ऋजुगामिनावश्वौ आ ददे स्वीकृतवानस्मि । तथा ऋक्षस्य सूनवि ऋक्षनाम्नः पुत्रेऽन्यस्मिन् राजनि हरी हरितवर्णावश्वौ आ ददे। तथा आश्वमेधस्य अश्वमेधपुत्रे राजनि रोहिता रोहितवर्णावश्वौ आ ददे। नन्वनुक्रमण्यामुभयोरेव दानप्रशंसारूपत्वमुक्तम् अत्र कथं त्रयाणां दानकीर्तनमिति । नैष दोषः । ऋक्षाश्वमेधपुत्रयोरेव यागेऽस्यर्षेः प्रवृत्तेस्तयोरेव दानं प्रस्तुतम्। इंद्रोतस्तु स्वपित्रा सह तयोर्यज्ञदिदृक्षयागत्य तयोर्दानं दृष्ट्वा स्वपित्रा प्रेरितो दत्तवानश्वौ। अतस्तद्दानं प्रासंगिकमिति । एवमृक्षाश्वमेधयोर्दानस्तुतित्वं न व्याहन्यते । पितृपुत्रयोरभेदात्तयोः पक्षकर्तृत्वाच्च। इंद्रोतदानस्थ प्रासंगिकत्वं ‘षळश्वान्' इत्यत्र विस्पष्टयिष्यते ॥
+> [ xxv. 2 ]
+
+##### Gist of the bhāṣya
+
+Indrota is the son of the king named Atithigva; Atithigva is famed in passages such as अतिथिग्वाय शंबरम् (*atithigvāya śaṃbaram*) (Ṛ. Saṃ. 1. 51. 6) and अतिथिग्वाय शंस्यम् (*atithigvāya śaṃsyam*) (Ṛ. Saṃ. 6. 26. 3). From him, Indrota, I have received two straight-going horses. Likewise from the son of Ṛkṣa, another king, I have received two bay horses; and from the king, the son of Aśvamedha, two roan horses. An objection is raised: the Anukramaṇī says that the praise of gifts concerns only the two; how then is the gift of three recorded here? Answer: this is no fault. The seer's engagement at the sacrifice was with the sons of Ṛkṣa and Aśvamedha, so only their gift is the subject. But Indrota came with his own father, desiring to see their sacrifice, saw their gift, and urged by his father gave horses; so his gift is incidental. Thus the character of the ṛks as praise of the gifts of Ṛkṣa and Aśvamedha is not contradicted, since father and son are not different and they are the patrons. The incidental character of Indrota's gift will be made clear at षळश्वान् (*ṣaḷaśvān*).
+
+### Printed p. 18
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रोते (*iṃdrote*)—from Indrota, the son of Atithigva
+- ऋज्रौ (*ṛjrau*)—two horses that go straight
+- आ ददे (*ā dade*)—I received
+- ऋक्षस्य (*ṛkṣasya*)—of one named Ṛkṣa
+- सूनवि (*sūnavi*)—from the son
+- हरी (*harī*)—I obtained two horses of green colour
+- आश्वमेधस्य (*āśvamedhasya*)—from the king, son of Aśvamedha
+- रोहिता (*rohitā*)—I obtained two horses of golden colour also
+
+##### भावार्थ (Bhāvārtha)
+
+From Indrota, the son of Atithigva, I received two horses that go straight. From the son of one named Ṛkṣa I obtained two horses of green colour. From the king, the son of Aśvamedha, I obtained two horses of golden colour.
+
+##### English translation
+I receive two straight-going steeds from Indrota, two bay from the son of Riksha, two roan from the son of Ashwamedha.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒रथाँ॑ आतिथि॒ग्वे स्व॑भी॒शूँरा॒र्क्षे ।  
+> आ॒श्व॒मे॒धे सु॒पेश॑सः ॥१६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुऽरथान् । आतिथिऽग्वे । सुऽअभीशून् । आर्क्षे ।  
+> आश्वऽमेधे । सुऽपेशसः ॥१६
+
 ---
 
-**Progress note:** Done through printed p. 12. Mandala 8 Sukta 68 rks 5-10, pp. 7-12
+**Progress note:** Done through printed p. 18. Mandala 8 Sukta 68 rks 11-16, pp. 13-18
