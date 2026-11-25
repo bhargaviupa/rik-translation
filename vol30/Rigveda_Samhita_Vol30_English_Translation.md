@@ -27418,6 +27418,250 @@ O Indra, whatever enemy, harming us like a wolf or a thief, swings and hurls his
 ##### English translation
 The man who, like a wolf, prowls around us, O Indra, cast him beneath our feet, for you are the resister, the overcomer (of foes); may the bowstrings on the bows of our enemies be destroyed.
 
+### Printed p. 832
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो न॑ इंद्राभि॒दास॑ति॒ सना॑भि॒र्यश्च॒ निष्प्यः॑ ।  
+> अव॒ तस्य॒ बलं॑ तिर म॒हीव॒ दौरध॒ त्मना॒ नभं॑तामन्य॒केषां॑  
+> ज्या॒का अधि॒ धन्व॑सु ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । इंद्र । अभिदासति । सनाभिः । यः । च । निष्ट्यः ।  
+> अव । तस्य । बलं । तिर । महीइव । द्याः । अध । त्मना । नभंतां । अन्यकेषां ।  
+> ज्याकाः । अधि । धन्वसु ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यः सनाभिः समानजन्मा शत्रुर्नोऽस्मानभिदासति उपक्षयति यश्च
+> निष्टो निकृष्टजन्मास्मानुपक्षयति ॥ जातार्थे निकृष्टवाचिनो निःशब्दादव्ययात्यप् ।
+> पा. ४-२-१०४ । ह्रस्वात्तादौ तद्धिते । पा. ८-३-१०१ । इति षत्वं ॥ आधानंतरमेव
+> महीव द्यौर्महती द्यौरिव विस्त्रतं तस्य शत्रोर्बलं त्मनात्मना ॥ मंत्रेष्वाज्यादेरात्मन इत्याकारलोपः ॥ स्वयमेवाव तिर । जहि । अवतिरतिर्वधकर्मा ।
+> गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the enemy who is सनाभिः (*sanābhiḥ*), of the same birth as ourselves, and assails (अभिदासति (*abhidāsati*), "harms") us, and the one who is निष्ट्यः (*niṣṭyaḥ*), of lower birth and harms us: the word निष्ट्यः (*niṣṭyaḥ*) is formed from the indeclinable निः (*niḥ*) denoting the inferior, with the affix in the sense of "born". Of that enemy, break the strength, which is vast like the great heaven (महीव द्यौः (*mahīva dyauḥ*)), yourself (त्मना (*tmanā*) = त्मना (*tmanā*), with loss of the long ā in mantras). अव तिर (*ava tira*) means "slay"; the root तिर (*tira*) has the sense of killing. The rest is already explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—which
+- सनाभिः (*sanābhiḥ*)—enemy belonging to our own kin
+- यश्च (*yaśca*)—and which
+- निष्पृः (*niṣpṛḥ*)—enemy born in a family lower than ours
+- नः (*naḥ*)—us
+- अभिदासति (*abhidāsati*)—troubles
+- महीव द्यौः (*mahīva dyauḥ*)—great like the wide atmosphere
+- तस्य (*tasya*)—of that enemy
+- बलं (*balaṃ*)—strength
+- त्मना (*tmanā*)—you yourself
+- अव तिर (*ava tira*)—destroy
+- अन्यकेषां (*anyakeṣāṃ*)—of the enemy folk
+- अधि धन्वसु (*adhi dhanvasu*)—on the bows, tied tight
+- ज्याकाः (*jyākāḥ*)—bowstrings (cords)
+- नभंतां (*nabhaṃtāṃ*)—may they be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whether the enemy who troubles us is of our own kin or of low birth, reduce and destroy, yourself, the strength of that enemy, which is great like the wide atmosphere. May the well-fitted bowstrings on the bows of the enemy folk be destroyed.
+
+### Printed p. 833
+
+##### English translation
+He who assails us, Indra, whether he be of the same caste or of degraded caste—scatter of yourself his host; (though it be vast) as the wide heaven ; may the bowstrings on the bows of our enemies be destroyed.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमिं॑द्र त्वा॒यवः॑ सखि॒त्वमा र॑भामहे ।  
+> ऋ॒तस्य॑ नः प॒था न॒याति॒ विश्वा॑नि दुरि॒ता नभं॑तामन्य॒केषां॑ ॒ ॒॑
+> ज्या॒का अधि॒ धन्व॑सु ॥ ६॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । इंद्र । त्वायवः । सखित्वं । आ । रभामहे ।  
+> ऋतस्य । नः । पथा । नय । अति । विश्वानि । दुःइता । नभंतां । अन्यकेषां । ज्याकाः ।  
+> अधि । धन्वसु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वायवस्त्वामात्मन इच्छंतो वयं सखित्वं सखिकर्म यज्ञात्मकमा रभामहे । उपक्रमामहे । ऋतस्य सत्यस्य यज्ञस्य पथा मार्गेण ॥ भस्य
+> टीर्लोपः उदात्तनिवृत्ति स्वरेण तृतीयाया उदात्तत्वं ॥ विश्वानि सर्वाणि दुरिता
+> दुरितानि दुर्गमनानि पापानि तत्पलानि च नोऽस्मानति नय । अतिपारय । गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we who desire you (त्वायवः (*tvāyavaḥ*), wishing you for ourselves) undertake (आ रभामहे (*ā rabhāmahe*), "begin") the work of friendship, the sacrificial act that makes you our friend. By the path (पथा (*pathā*)) of ऋतस्य (*ṛtasya*), of truth or of sacrifice, lead us across all evils (दुरिता (*duritā*)), that is, hard-to-traverse sins and their fruits. अति नय (*ati naya*) means "carry us across". The rest is already explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वायवः (*tvāyavaḥ*)—desiring you
+- वयं (*vayaṃ*)—we
+- सखित्वं (*sakhitvaṃ*)—the sacrificial act that is the means to your friendship
+- आ रभामहे (*ā rabhāmahe*)—we begin
+- ऋतस्य पदा (*ṛtasya padā*)—by the path of truth, or by means of sacrifice
+- विश्वानि (*viśvāni*)—all
+- नः दुरिता (*naḥ duritā*)—our sins or troubles (having removed them)
+- अति नय (*ati naya*)—carry us across
+- अन्यकेषां (*anyakeṣāṃ*)—of our enemies
+- अधि धन्वसु (*adhi dhanvasu*)—on the bows, fitted
+- ज्याकाः (*jyākāḥ*)—bowstrings
+- नभंतां (*nabhaṃtāṃ*)—may they be destroyed
+
+### Printed p. 834
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, desiring you, we begin the sacrificial act that is the means of your friendship. By the path of truth, or by means of sacrifice, remove all our sins or troubles and carry us also across them. May the bowstrings on the bows of our enemies be destroyed.
+
+##### English translation
+Devoted to you, Indra, we strive after your friendship; lead us by the path of sacrifice beyond all evils; may the bowstrings on the bows of our enemies be destroyed.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मभ्यं॒ सु त्वमिं॑द्र॒ तां शि॑क्ष॒ या दोह॑ते॒ प्रति॒ वरं॑ जरि॒त्रे ।  
+> अच्छि॑द्रोध्नी पी॒पय॒द्यथा॑ नः स॒हस्र॑धारा॒ पय॑सा म॒ही गौः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मभ्यं । सु । त्वं । इंद्र । तां । शिक्ष । या । दोहते । प्रति । वरं । जरित्रे ।  
+> अच्चिद्रऊध्नी । पीपयत् । यथा । नः । सहस्रधारा । पयसा । मही । गौः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं तां गामस्मभ्यं स्तोतृभ्यः सु शिक्ष । प्रदेहि । शिक्षतिर्दानकर्मा ।
+> या गौर्जरित्रे स्तोत्रे वरं वरणीयं पयः प्रति दोहते प्रतिदिनं नैरंतर्येण
+> दुग्धे ॥ दुहेर्बहुलं छंदसीति शपो लुगभावः। अदुपदेशाल्लसार्वधातुकानुदात्तत्वे
+> शपः पित्वादनुदात्तत्वं । धातुस्वरः शिष्यते । वरं । वृञ् वरण इत्यस्मादृहवृद्धनिश्चिगमश्चेति कर्मण्यण् ॥ सा प्रत्या गौरच्चिद्रोद्धी निविडोधस्का अत एव सहस्रधारा
+> बहुभिः क्षिरधाराभिरुपेता मही महती सती यथा नोऽस्मान्वयसा क्षीरेण पीपयत्
+> प्रवर्धयेत् तथा तां कुर्विति शेषः ॥ ओप्यायी वृद्दौ । ण्यंताच्छांदसो लुज् ।
+> व्यत्ययेन धातोः पीभावः । अडभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, give (शिक्ष (*śikṣa*); the root शिक्ष (*śikṣa*) means giving) to us, your praisers, that cow which daily and without break yields choice (वरं (*varaṃ*), desirable) milk to the praiser (जरित्रे (*jaritre*)). वरं (*varaṃ*) is from the root वृञ् (*vṛñ*) in the sense of choosing, with the affix *aṇ* in the object sense. That cow has an unbroken, compact udder, and therefore is सहस्रधारा (*sahasradhārā*), furnished with many streams of milk, and great (मही (*mahī*)). Do so that she may nourish us with milk (पीपयत् (*pīpayat*), "may make grow"); "do thus" is to be supplied. The root ओप्यायी (*opyāyī*) is used in the sense of growth. The Vedic aorist after the causative, the replacement of the root by पी (*pī*), and absence of the augment *aṭ* are mentioned.
+
+### Printed p. 835
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- या (*yā*)—which cow
+- जरित्रे (*jaritre*)—to the one who praises
+- वरं (*varaṃ*)—excellent milk, or as much as is desired
+- प्रति (*prati*)—every day
+- दोहते (*dohate*)—yields
+- तां (*tāṃ*)—such a cow
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- सुशिक्ष (*suśikṣa*)—give
+- गौः (*gauḥ*)—the cow you thus give us
+- मही (*mahī*)—abundant
+- सहस्रधारा (*sahasradhārā*)—with many streams of milk
+- अच्छिद्रोद्ध्नी (*acchidroddhnī*)—always yielding milk without break (every day)
+- यथा (*yathā*)—in the way in which
+- नः (*naḥ*)—us
+- पयसा (*payasā*)—with milk
+- पीपयत् (*pīpayat*)—she may fill
+- (so) do
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, give us that cow which every day yields to the praiser as much milk as he desires. Make that cow which you give us, with many streams of milk, yielding abundant milk without break, fill us with milk.
+
+##### English translation
+Give to us, Indra (the cow) which gives milk to the worshipper according to his desire, so that the mighty cow possessed of an unfailing udder, the shedder of a thousand streams, may supply us plentifully with milk.
+
+## Sūkta 134 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उभे यदिति सप्तर्चं षष्ठं सूक्तं । युवनाश्वपुत्रस्य मांधातुरार्षं ।
+> पूर्वेणेत्यर्धर्चसहितायाः सप्तम्यास्तु गोधा नाम ब्रह्मवादिन्यृषिः । सप्तमी
+> पंक्तिः । शिष्टाः षळष्टका महापंक्तयः । इंद्रो देवता । तथा चानुक्रातं । उभे
+> यन्मांधाता यौवनाश्वो महापांक्तं पंक्तिरंत्या तामध्यर्धां गोधापश्यदिः ॥
+> गतः सूक्तविनियोगः ॥ चातुर्विंशिकेऽहनि माध्यंदिनेच्छावाकस्याद्यश्चो
+> वैकल्पिकः स्तोत्रियः । सूत्रितं च । उभे यदिंद्र रोदसी अव यत्त्वं शतक्रतो ।
+> आ. ७-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta उभे यत् (*ubhe yat*) has seven Ṛks and is the sixth sūkta. Its seer is Māndhātā, son of Yuvanāśva. The seer of the seventh Ṛk, together with the half-Ṛk of the sixth beginning पूर्वेण (*pūrveṇa*), is Godhā, a woman brahmavādin. The seventh is in Paṅkti metre; the remaining six are Mahāpaṅktis. The deity is Indra. The Anukramaṇī is quoted: उभे यन्मांधाता यौवनाश्वो महापांक्तं पंक्तिरंत्या तामध्यर्धां गोधापश्यदिः (*ubhe yanmāṃdhātā yauvanāśvo mahāpāṃktaṃ paṃktiraṃtyā tāmadhyardhāṃ godhāpaśyadiḥ*). The general use of the sūkta has been stated. On the Cāturviṃśika day, at the midday pressing, the first Ṛk of the sūkta is an optional Stotriya of the Acchāvāka. It is prescribed in the sūtra उभे यदिंद्र रोदसी अव यत्त्वं शतक्रतो (*ubhe yadiṃdra rodasī ava yattvaṃ śatakrato*) (Ā. 7-4).
+
+##### Anuvāda
+
+This sūkta beginning उभे यत् (*ubhe yat*) is the sixth sūkta in the eleventh anuvāka. It has seven Ṛks. The seer of this sūkta is Māndhātā, son of Yuvanāśva.
+
+### Printed p. 836
+
+The seer of the latter half of the sixth Ṛk of this sūkta, beginning with पूर्वेण (*pūrveṇa*), and of the seventh Ṛk, is Godhā; the seventh Ṛk of this sūkta is in the Paṅkti metre; the remaining six Ṛks are in the metre called Mahāpaṅkti. In the Anukramaṇī it is said: उभे यन्मांधाता यौवनाश्वो महापांक्तं पंक्तिरंत्या तामध्यर्धां गोधापश्यत् (*ubhe yanmāṃdhātā yauvanāśvo mahāpāṃktaṃ paṃktiraṃtyā tāmadhyardhāṃ godhāpaśyat*). The use of the sūkta has been stated before. On the day of the sacrifice called Cāturviṃśika, at the midday pressing, the priest called Acchāvāka may optionally recite the first three Ṛks of this sūkta for the Stotriya triplet; this is explained by the Āśvalāyana Śrauta sūtra उभे यदिंद्र रोदसी अव यत्त्वं शतक्रतो (*ubhe yadiṃdra rodasī ava yattvaṃ śatakrato*) (Ā. 7-4).
+
+Sūkta 134. Maṇḍala 10; Anuvāka 11; Sūkta 134. Aṣṭaka 8; Adhyāya 7; Varga 22. Number of Ṛks in the sūkta: 7. Seer: 1–5 and the first half of 6, Māndhātā Yauvanāśva; the latter half of 6 and 7, Godhā. Deity: Indra. Metre: 1–6 Mahāpaṅkti; 7 Paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भे यदिं॑द्र॒ रोद॑सी आप॒प्राथो॒षा इ॑व ।  
+> म॒हांतं॑ त्वा म॒हीनां॑ स॒म्राजं॑ चर्षणी॒नां दे॒वी जनि॑त्र्यजीजनद्भ॒द्रा जनि॑त्र्यजीजनत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभे इति । यत् । इंद्र । रोदसी इति । आपप्राथ । उषाः इव ।  
+> महांतं । त्वा । महीनां । संराजं । चर्षणीनां । देवी । जनित्री । अजीजनत् ।  
+> भद्रा । जनित्री । अजीजनत् ॥ १ ॥
+
+### Printed p. 837
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र उभे रोदसी द्यावापृथिव्यौ यद्यस्त्वमापप्राथ तेजसाप्रथयसि
+> आपूरयसि ॥ प्रा पूरणे आदादिकः । छांदसो लिट् ॥ उषा इव यथोषाः स्वभासा
+> सर्वं जगदापूरयति तद्वत् । तं महीनां महतां देवानामपि महांतमधिकं
+> चर्षणीनां मनुष्याणामपि सम्राजमीश्वरमिंद्रं त्वा त्वां देवी देवनशीला
+> जनित्र्यदितिरजीजनत् । अजनयत् ॥ जनेर्न्यंताल्लुजि चजि रूपमेतत् ॥ यस्मादेषा
+> जनित्रीदृशं पुत्रमजीजनत् अतः कारणात्सा भद्रा कल्याणी प्रशस्ता जाता ॥ जनेर्न्यंतात्साधुकारिणि तृन् । जनिता मंत्र इतीडाद् णिलोपो निपात्यते । ऋन्नेभ्य
+> इति जिप् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, since you fill (आपप्राथ (*āpaprātha*), "make full") both heaven and earth with your splendour, like the dawn (उषा इव (*uṣā iva*)) that fills the whole world with its light, — you, great (महांतं (*mahāṃtaṃ*)) even among the great gods (महीनां (*mahīnāṃ*)), and lord (सम्राजं (*samrājaṃ*)) even of men (चर्षणीनां (*carṣaṇīnāṃ*)) — Aditi, the divine (देवी (*devī*)) progenitress (जनित्री (*janitrī*)), gave birth to (अजीजनत् (*ajījanat*)). Because she bore such a son, therefore she became भद्रा (*bhadrā*), auspicious and praised. The root प्रा (*prā*) is in the sense of filling; the verb form is a Vedic perfect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—you who
+- उषा इव (*uṣā iva*)—as the dawn fills the whole world with its radiance
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- आपप्राथ (*āpaprātha*)—you fill with your splendour
+- (तं (*taṃ*)—such)
+- महीनां (*mahīnāṃ*)—among the great gods
+- महांतं (*mahāṃtaṃ*)—the greater one
+- चर्षणीनां (*carṣaṇīnāṃ*)—of all men
+- सम्राजं (*samrājaṃ*)—the lord
+- त्वा (*tvā*)—you
+- देवी (*devī*)—the divine one
+- जनित्री (*janitrī*)—she who bears good sons, Aditi
+- अजीजनत् (*ajījanat*)—gave birth to
+- जनित्री (*janitrī*)—Indra, the good son
+- अजीजनत् (*ajījanat*)—for which reason she bore him, for that reason Aditi
+- भद्रा (*bhadrā*)—became worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as the dawn fills the whole world with its radiance, you fill both heaven and earth with your splendour (your own power). You, who are greater than all the gods and lord even of men — the divine Aditi bore you. For this very reason, because she bore you, Aditi became worthy of praise.
+
+##### English translation
+You, Indra, who fill both heaven and earth (with light) like the dawn—the devine progenitress has given birth to you, the mighty of the mighty (gods), the sovereign of men; auspicious progenitress has given you birth.
+
 ---
 
-**Progress note:** Done through printed p. 831. pp. 826-831 (batch API)
+**Progress note:** Done through printed p. 837. pp. 832-837 (batch API)
