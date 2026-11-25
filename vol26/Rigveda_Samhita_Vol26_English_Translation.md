@@ -192,6 +192,120 @@ The same meaning is stated in the Taittirīya Saṃhitā. The man who knows this
 
 Earlier, when the metres Triṣṭubh and Jagatī flew to heaven to bring Soma, they did not reach heaven but grew weary half way and had to return; it was said already that for that reason, of their four syllables, the metre Jagatī lost three syllables and the metre Triṣṭubh lost one syllable. It was also said earlier that when Gāyatrī brought Soma, she brought back the four syllables that Triṣṭubh and Jagatī had lost, added them to her own four syllables, and made for herself eight syllables in all. Seeing this, the metres Triṣṭubh and Jagatī came to Gāyatrī and said: O Gāyatrī, it is well that you brought back the four syllables that we left behind in heaven. But you have joined them with your four syllables
 
+### Printed p. 13
+
+alone is not right. Since those syllables belong to us, you must give them back to us. So they asked. Gāyatrī refused their words and spoke thus: Whatever object is in our possession, that is, whatever we have acquired, it is right that it should belong to us. Even in worldly dealings, those who know the law say that if a thing is in the possession and enjoyment of someone, it belongs to him. Having gone to the world of heaven and accomplished the bringing of Soma, it is I alone, who brought back the syllables you had lost, who should have those syllables. I cannot give them to you. Hearing this, the Triṣṭubh and Jagatī went to the gods and made their complaint to them. The gods too upheld the very rule current in worldly dealings, that a thing belongs to the one in whose possession it is, and, supporting it, declared: What Gāyatrī says is right; since she brought those syllables, they should belong to her. How so? In battles and the like, whatever each of the victors gets from the things left behind by the defeated enemy forces fleeing, all agree that it is his own. So here too it should be. Thus the gods set out the rule. Therefore Gāyatrī, besides her own four syllables, had the four syllables of Triṣṭubh and Jagatī brought from heaven, and so came to have eight syllables in all. The metre Triṣṭubh was left with three syllables. The metre Jagatī was left with only one syllable.
+
+साष्टाक्षरा गायत्री प्रातस्सवनमुदयच्छन्नाशक्कोत्रिष्टुप् त्र्यक्षरा माध्यंदिनं सवनमुद्यंतुं तां गायत्र्यब्रवीदायान्यपि मेऽत्रास्त्विति सा तथेत्यब्रवीत्रिष्टुप्तां वै मैतैरष्टाभिरक्षरैरुपसंधेहीति तथेति तामुपसमदधादेतद्वै तद्दायत्रै मध्यंदिने यन्मरुत्वतीयस्कोत्तरे प्रतिपदो यश्चानुचरः सैकादशाक्षरा भूत्वा माध्यंदिनं सवनमुदयच्छत् ॥ (*sāṣṭākṣarā gāyatrī prātassavanamudayacchannāśakkotriṣṭup tryakṣarā mādhyaṃdinaṃ savanamudyaṃtuṃ tāṃ gāyatryabravīdāyānyapi me 'trāstviti sā tathetyabravītriṣṭuptāṃ vai maitairaṣṭābhirakṣarairupasaṃdhehīti tatheti tāmupasamadadhādetadvai taddāyatrai madhyaṃdine yanmarutvatīyaskottare pratipado yaścānucaraḥ saikādaśākṣarā bhūtvā mādhyaṃdinaṃ savanamudayacchat ‖*)
+
+It has been explained earlier that there are three pressings, the morning pressing (प्रातःसवन (*prātaḥsavana*)), the midday pressing (माध्यंदिनसवन (*mādhyaṃdinasavana*)) and the third pressing (तृतीयसवन (*tṛtīyasavana*)). There is the rule that the proceedings of the morning pressing are to be carried out with mantras of the Gāyatrī metre, the proceedings of the midday pressing with mantras of the Triṣṭubh metre, and the proceedings of the third pressing with mantras of the Jagatī metre.
+
+Since the Gāyatrī metre had come to have eight syllables, it became complete, as it were, and capable of carrying out the proceedings of the morning pressing. But the metre Triṣṭubh, having lost one syllable and having only three syllables, was left without the capacity to carry out the proceedings of the midday pressing. Seeing the metre Triṣṭubh thus incapable, Gāyatrī said: O metre Triṣṭubh, since you have no power to carry out the work, I shall come to help you in the proceedings of the midday pressing.
+
+### Printed p. 14
+
+But in return for that help, I too must have a share in the midday pressing. If you agree to that, I shall help you. Hearing this, the metre Triṣṭubh agreed that it should be so, and said: O Gāyatrī, I now have only three syllables. If your eight syllables are joined with them, I shall have eleven syllables, and so I shall have the strength to carry out the work. Accordingly Gāyatrī joined her eight syllables with the three syllables of the metre Triṣṭubh. Because this was done, the metre Triṣṭubh too became capable of carrying out the work at the midday pressing. Triṣṭubh agreed, saying that it should be so, to Gāyatrī's asking that she too should have a share in the midday pressing; this is right. Now what is Gāyatrī's share in the midday pressing? In the last part of the Marutvatīya and third śastra mantras recited at the time of the midday pressing, in the tṛca (a tṛca is 3 ṛks) beginning आ त्वा रथं यथोतये (*ā tvā rathaṃ yathotaye*) (Ṛ. Saṃ. 6-68-1)**NOTE**, and in the tṛca after it, विश्वासानरस्य वस्पतिः (*viśvāsānarasya vaspatiḥ*) (Ṛ. Saṃ. 8-68-4), two ṛks each are in the Gāyatrī metre. That is, in the tṛca आ त्वा रथं यथोतये (*ā tvā rathaṃ yathotaye*) the two ṛks तुविशुष्क तुविक्रतो (*tuviśuṣka tuvikrato*) and यस्य शे महिना महः (*yasya śe mahinā mahaḥ*) (Ṛ. Saṃ. 6-68-2, the 3rd ṛks), and in the second tṛca विश्वासानरस्य वस्पतिः (*viśvāsānarasya vaspatiḥ*) the two ṛks अभिष्टये सदावृधं (*abhiṣṭaye sadāvṛdhaṃ*) and परोमात्रम्यचेषं (*paromātramyaceṣaṃ*) (Ṛ. Saṃ. 6-68-, the 6th ṛks)**NOTE**, together make four mantras in the Gāyatrī metre in the pratipat tṛcas. Pratipat tṛca means the ṛks recited at the beginning. Further, the first ṛk of the tṛca recited at the end, called anucara, the mantra इदं वसो सुतमंधः (*idaṃ vaso sutamaṃdhaḥ*), is also in the Gāyatrī metre. Therefore the 4 ṛks of the Gāyatrī metre in the pratipat tṛcas and the 1 ṛk of the Gāyatrī metre in the anucara tṛca, in all 5 ṛks in the Gāyatrī metre, are in the midday pressing. These 5 ṛks are assigned as the share that should go to Gāyatrī in the midday pressing.
+
+नाशक्कोज्जगत्येकाक्षरा तृतीयसवनमुद्यंतुं तां गायत्र्यब्रवीदायान्यपि मेऽत्रास्त्विति सा तथेत्यब्रवीज्जगती तां वै मैतैरेकादशभिरक्षरैरुपसंधे हीति तथेति तामुपसमदधादेतद्वै तद्गायत्र्यै तृतीयसवने यद्वैश्वदेवस्योत्तरे प्रतिपदो यश्चानुचरः सा द्वादशाक्षरा भूत्वा तृतीयसवनमुदयच्छत् ॥ (*nāśakkojjagatyekākṣarā tṛtīyasavanamudyaṃtuṃ tāṃ gāyatryabravīdāyānyapi me 'trāstviti sā tathetyabravījjagatī tāṃ vai maitairekādaśabhirakṣarairupasaṃdhe hīti tatheti tāmupasamadadhādetadvai tadgāyatryai tṛtīyasavane yadvaiśvadevasyottare pratipado yaścānucaraḥ sā dvādaśākṣarā bhūtvā tṛtīyasavanamudayacchat ‖*)
+
+The metre Jagatī too, having lost three syllables, had only one syllable. Therefore it too became unable to carry out the proceedings of the third pressing. Then too Gāyatrī addressed Jagatī: O Jagatī, I shall help you in the proceedings of the third pressing. But I too must have a share in it. Jagatī agreed and said: Do so. That is, the eight syllables of Gāyatrī and the three syllables of Triṣṭubh together became eleven syllables and became capable of carrying out the work in the midday
+
+### Printed p. 15
+
+pressing. Those eleven syllables now joined the one syllable of Jagatī, became twelve syllables, and became capable of carrying out the proceedings of the third pressing. How so? At the end of the Vaiśvadeva śastra mantras recited at the time of the third pressing, the ṛks recited as pratipat tṛcas and the ṛks recited as anucara are also mantras of the Gāyatrī metre. In this way these mantras, as Jagatī-metre mantras of twelve syllables in all, became capable of accomplishing the work of the third pressing; this is the meaning.
+
+ततो ना अष्टाक्षरा गायत्र्यभवदेकादशाक्षरा त्रिष्टुब् द्वादशाक्षरा जगती । सर्वैश्चंदोभिः समावद्वीर्यैः समावज्जामिभी राध्योति य एवं वेद । एकं वै सत्तत्रेधाभवत्तस्मादाहुर्दातव्यमेवं विदुष इत्येकं हि सत्तत्रेधाभवत् ॥ (*tato nā aṣṭākṣarā gāyatryabhavadekādaśākṣarā triṣṭub dvādaśākṣarā jagatī | sarvaiścaṃdobhiḥ samāvadvīryaiḥ samāvajjāmibhī rādhyoti ya evaṃ veda | ekaṃ vai sattatredhābhavattasmādāhurdātavyamevaṃ viduṣa ityekaṃ hi sattatredhābhavat ‖*)
+
+(Ai. Brā. 13-28)
+
+Therefore the metre Gāyatrī came to have eight syllables, the metre Triṣṭubh eleven syllables, and the metre Jagatī twelve syllables. These three metres obtained a position and standing equal to all the other metres, and excellence. The man who knows this obtains excellence and an honoured position. Because Gāyatrī's form, which earlier had only four syllables, afterwards acquired four syllables more and entered also into the metres Triṣṭubh and Jagatī (that is, because her eight syllables were mingled with the syllables of the metres Triṣṭubh and Jagatī), her form, that is, her greatness, became greater threefold. Therefore the wise who know the secret of dharma say that gold and the like should be given as a gift to the man who knows this greatness of Gāyatrī.
+
+**The Episode of the Fetching of Soma (the Sauparṇa Story) is ended.**
+
+**Some ṛks in the Ṛgveda and other texts on this subject, on the occasion of the fetching of Soma, and so on**
+
+**The occasion of the fetching of Soma. The effort of the falcon.**
+
+First: by सोमाहरणात् (*somāharaṇāt*), that is, because she brought the Soma that is the chief thing in the sacrifice, the special power of Gāyatrī has been indicated. This account of the fetching of Soma is described in all the most important places in the Saṃhitās and the Brāhmaṇas. First of all it is told in the form of a story in the Ṛk-saṃhitā itself. In the 26th and 27th sūktas of Ṛ. Saṃ. 4
+
+### Printed p. 16
+
+Indra, describing his own prowess, explains how that prowess increased through drinking Soma, and how Gāyatrī brought that Soma.
+
+[Whether this description is the speech of the seer Vāmadeva or of Indra, and whether the deity of these sūktas is Indra or the Supreme Self, are also matters to be noted. On the present occasion that discussion is unnecessary.]
+
+प्र सु ष विभ्यो मरुतो विरस्तु प्र श्येनः श्येनेभ्य आशुपत्ता । अचक्रया यत्त्वधया सुपर्णो हव्यं भरन्मनवे देवजुष्टं ॥ (*pra su ṣa vibhyo maruto virastu pra śyenaḥ śyenebhya āśupattā | acakrayā yattvadhayā suparṇo havyaṃ bharanmanave devajuṣṭaṃ ‖*)
+
+(Ṛ. Saṃ. 4-26-4)
+
+O Maruts, may this Suparṇa, which brought swiftly to Manu, in a chariot without wheels, this Soma desired by the gods, be superior in valour to the other falcons and obtain greater honour.
+
+भरद्यदि विरतो वेविजानः पथोरुणा मनोजवा असर्जि । तूयं ययौ मधुना सोम्येनोत श्रवो विविदे श्येनो अत्र ॥ (*bharadyadi virato vevijānaḥ pathoruṇā manojavā asarji | tūyaṃ yayau madhunā somyenota śravo vivide śyeno atra ‖*)
+
+(Ṛ. Saṃ. 4-26-5)
+
+Because this falcon, having rebuked the Soma guardians, carried off the Soma and came flying through the atmosphere with the speed of thought and did a service, the whole company of falcons obtained honour on the earth.
+
+ऋजीषी श्येनो ददमानो अंशुं परावतः शकुनो मंद्रं मदं । सोमं भरद्दादृहाणो देवानान्दिवो अमुष्मादुत्तरादादाय ॥ (*ṛjīṣī śyeno dadamāno aṃśuṃ parāvataḥ śakuno maṃdraṃ madaṃ | somaṃ bharaddādṛhāṇo devānāndivo amuṣmāduttarādādāya ‖*)
+
+(Ṛ. Saṃ. 4-26-6)
+
+This bird, flying straight through the atmosphere at the speed of thought, followed by the gods, brought the Soma and increased in them the power of resolve and faith. By the fetching of Soma it did a service to the world.
+
+आदाय श्येनो अभरत्सोमं सहस्रं सना अयुतं च साकं । अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥ (*ādāya śyeno abharatsomaṃ sahasraṃ sanā ayutaṃ ca sākaṃ | atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ ‖*)
+
+(Ṛ. Saṃ. 4-26-7)
+
+(Ṛ. Saṃ. 4-26-7)**NOTE**
+
+This falcon brought Soma from the world of heaven and helped in the performance of thousands of sacrifices. Satisfied by drinking this Soma, Indra's prowess increased and he beat down all his enemies.
+
+### Printed p. 17
+
+अव यच्छ्येनो अस्वनीदथ द्योर्वि यद्यदि वात ऊहुः पुरंधिं । सृजद्यदस्मा अव ह क्षिपज्जां कृशानुरस्ता मनसा भुरण्यन् ॥ (*ava yacchyeno asvanīdatha dyorvi yadyadi vāta ūhuḥ puraṃdhiṃ | sṛjadyadasmā ava ha kṣipajjāṃ kṛśānurastā manasā bhuraṇyan ‖*)
+
+(Ṛ. Saṃ. 4-27-3)
+
+(Ṛ. Saṃ. 4-27-3)**NOTE**
+
+Having fetched the Soma, as the falcon was coming down from the atmosphere, expressing joy, Kṛśānu, one of the Soma guardians and an archer, also came down with the speed of thought, pursued it and shot an arrow at it with his bow.
+
+ऋजिष्य ईमिंद्रावतो न भुज्यं श्येनो जभार बृहतो अधि ष्ठोः । अंतः पतत्पतत्र्यस्य पर्णमध यामनि प्रसितस्य तद्वेः ॥ (*ṛjiṣya īmiṃdrāvato na bhujyaṃ śyeno jabhāra bṛhato adhi ṣṭhoḥ | aṃtaḥ patatpatatryasya parṇamadha yāmani prasitasya tadveḥ ‖*)
+
+(Ṛ. Saṃ. 4-27-4)
+
+As this falcon was coming down from the atmosphere, which is under Indra's lordship, it was struck by Kṛśānu's arrow, lost one feather of its body in its struggle, and was wounded.
+
+When the story is thus, it becomes laborious to find out what the essential meaning is here. Even so, in the Aitareya Āraṇyaka, introducing the seer Vāmadeva, the author of this sūkta, this same occasion is explained from the point of view of the principle. There, quoting from the Ṛk-saṃhitā the ṛk
+
+गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा । शतं मा पुर आयसीररक्षन्नध श्येनो जवसा निरदीयं ॥ (*garbhe nu sannanveṣāmavedamahaṃ devānāṃ janimāni viśvā | śataṃ mā pura āyasīrarakṣannadha śyeno javasā niradīyaṃ ‖*)
+
+(Ṛ. Saṃ. 4-27-1)
+
+it says गर्भ एव एतच्छयानो वामदेव एवमुवाच (*garbha eva etacchayāno vāmadeva evamuvāca*) (Ai. Ā. 2-5), that Vāmadeva, while still in the womb, understood and declared this principle. The meaning of the above mantra is that, while still in the womb, Vāmadeva came to know the origin and nature of all the gods, and that although there was a bondage made of hundreds of iron bars, he escaped it like a falcon and flew towards the earth. The purport of this part is not easy. Śaṅkarācārya, Ānandatīrtha and Sāyaṇa too, in explaining this occasion, hold that the purport is that Vāmadeva entered hundreds of bodies in the form of bonds, finally became a knower, was freed from them and attained liberation. But if one examines the context of the Aitareya Āraṇyaka, it says स एवं विद्वान् अस्माच्चरीरभेदादूर्व्व उत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान्यामानाप्तामृतः समभवत्समभवत् । (*sa evaṃ vidvān asmāccarīrabhedādūrvva utkramyāmuṣmin svarge loke sarvānyāmānāptāmṛtaḥ samabhavatsamabhavat |*) (Ai. A. 2-5)**NOTE**. It says that Vāmadeva, who knew this principle while still in the womb, gave up the earthly body and obtained liberation. Therefore the sentence of the mantra Ṛ. Saṃ. 4-27-1 is understood to apply to Vāmadeva himself.
+
+### Printed p. 18
+
+Moreover, on the basis of the statement that in mantras such as 1-32-14 and 10-99-8 Indra is described as like a falcon, some scholars hold that the mantra गर्भे नु (*garbhe nu*) .... ... points to Indra himself. But that is wrong. Still others have said that it is the speech of Soma (Ludwig).
+
+**2. Gāyatrī, of the form of a bird, is the falcon.**
+
+Sāyaṇa alone says:
+
+श्येनभावं समास्थाय गर्भाद्योगेन निस्सृतः । ऋषिगर्भे शयानःसन् ब्रूते गर्भे नु सन्निति ॥ (*śyenabhāvaṃ samāsthāya garbhādyogena nissṛtaḥ | ṛṣigarbhe śayānaḥsan brūte garbhe nu sanniti ‖*)
+
+(Introduction to the commentary on Ṛ. Saṃ. 4-27-1)
+
+that Vāmadeva himself, freed from the womb through the greatness of his yoga, recites this sentence. English critics such as Ludwig have not examined what the reason and the basis are for this falcon being described in the form of Gāyatrī. In describing this same occasion the falcon is referred to by the word सुपर्ण (*suparṇa*) and also by the word Gāyatrī. In some places, in explaining the word falcon, Sāyaṇa has explained शैनः शंसनीयगतिमान्पक्षी पक्ष्याकारा गायत्री (*śainaḥ śaṃsanīyagatimānpakṣī pakṣyākārā gāyatrī*). Since in this way different words, falcon, Suparṇa and Gāyatrī, are used in these contexts, an exact meaning cannot be given here without knowing the narration of this story. Therefore, after knowing this part of the story told in the Taittirīya Saṃhitā, the Aitareya Brāhmaṇa and the Śatapatha Brāhmaṇa, one can examine what the essential meaning is in the matter of Gāyatrī's bringing Soma.
+
+**3. The incidental story of Kadrū and Suparṇī. The sons of Suparṇī are the metres.**
+
+In the Taittirīya Saṃhitā this part of the story is described in this way.
+
+कद्रूश्च वै सुपर्णि चात्मरूपयोरस्पर्धेताग्ं सा कद्रूस्सुपर्णिमजयत्साब्रवीत्तृतीयस्यामितो दिवि सोमस्तमाहर तेनात्मानं निष्क्रीणीष्टेतीयं वै कद्रूरसौ सुपर्णि छंदाग्‌सि सौपर्णेयास्साब्रवीदस्मै वै पितरौ पुत्रान् बिभृतस्तृतीयस्यामितो दिवि सोमस्तमाहर तेनात्मानं निष्क्रीणेष्टेति मा कद्रूरवोचदिति जगत्युदपतच्चतुर्दशाक्षरा सती साप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमीयेताग्ं (*kadrūśca vai suparṇi cātmarūpayoraspardhetāgṃ sā kadrūssuparṇimajayatsābravīttṛtīyasyāmito divi somastamāhara tenātmānaṃ niṣkrīṇīṣṭetīyaṃ vai kadrūrasau suparṇi chaṃdāgsi sauparṇeyāssābravīdasmai vai pitarau putrān bibhṛtastṛtīyasyāmito divi somastamāhara tenātmānaṃ niṣkrīṇeṣṭeti mā kadrūravocaditi jagatyudapataccaturdaśākṣarā satī sāprāpya nyavartata tasyai dve akṣare amīyetāgṃ*)
+
+सा पशुभिश्च दीक्षया चागच्छत्तस्माज्जगती छंदसां पशव्यतमा तस्मात्पशुमंतं दीक्षोपनमति त्रिष्टुगुदपतत्रयोदशाक्षरा सती साप्राप्य न्यवर्तत तस्यै द्वे (*sā paśubhiśca dīkṣayā cāgacchattasmājjagatī chaṃdasāṃ paśavyatamā tasmātpaśumaṃtaṃ dīkṣopanamati triṣṭugudapatatrayodaśākṣarā satī sāprāpya nyavartata tasyai dve*) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 12. Soma fetching story (Ai. Brā.), the three pressings
+**Progress note:** Done through printed p. 18. Soma fetching story concluded; Ṛk 4-26/4-27 quoted; Vāmadeva; Kadrū-Suparṇī begins
