@@ -7048,6 +7048,219 @@ Kāṣṭhāyāḥ: here the word kāṣṭhā has the sense of battle. Explaini
 > आ॒रे अ॒घा को न्वि१॒॑गत्था द॑दर्श॒ यं युं॒जंति॒ तम्मा स्था॑पयंति ।  
 > नास्मै॒ तृणं॒ नोद॒कमा भ॑रं॒त्युत्त॑रो धु॒रो व॑हति प्र॒देदि॑शत् ॥ १० ॥
 
+### Printed p. 189
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आरे । अघा । कः । नु । इत्था । ददर्श । यं । युंजंति । तं । ऊं इति । आ । स्थापयंति ।  
+> न । अस्मै । तृणं । न ' उदकं । आ । भरंति । उत्तरः । धुरः । वहति । प्रदेदिशत्॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य आरे समीप एवाघाघानि दुःखानि शत्रुरूपाणि करोति तं को नरो
+> न्विदानीमिथ्येत्थं ददर्श । पश्यति । किंच यं द्रुघणं युंजंति रथे तमु तमेवा
+> स्थापयंति । आरोहयंतीत्यर्थः । अथवा यं रथे युंजंति तमेव प्रहरणार्थमा
+> स्थापयंति । उभयविधं कार्यमेकः करोतीत्यर्थः । किंचास्मै तृणं ना भरंति ।
+> नाहरंति । तथोदकं नाहरंति ॥ हृग्रहोर्भ इति भत्वं ॥ ईदृशो द्रुघण उत्तरो
+> दक्षिणस्य वृषभस्य स्वयमुत्तरः सन् धुरो रथभारस्य रथधुरं वहति प्रदेदिशत्
+> प्रकर्षण जयं स्वामिने प्रदिशन् शत्रूणां ना भयं प्रदिशन् वहति ॥ दिश अतिसर्जन
+> इत्यस्माद्यज्लुगंताच्छतरि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa asks who has seen in this way the man who, standing close by, inflicts sufferings that are enemies. He says that the द्रुघण (*drughaṇa*) (the mace) which they yoke on the chariot, that very one they set up (स्थापयंति (*sthāpayaṃti*)), that is, they mount it. Or else, the one they yoke on the chariot they set up for striking. The sense is that one thing does both kinds of work. They bring it neither grass nor water. The mace, standing on the further side of the right-hand bull, itself bears the burden of the chariot, the chariot-pole. It bears it while pointing out (प्रदेदिशत् (*pradediśat*)) victory to its master and no fear to the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- आरे (*āre*)—being near
+- अघा (*aghā*)—the man who causes suffering
+- कः नरः (*kaḥ naraḥ*)—what man indeed
+- नु (*nu*)—now
+- इत्था (*itthā*)—in this manner
+- ददर्श (*dadarśa*)—sees (looks on)?
+- यं (*yaṃ*)—which mace
+- युंजंति (*yuṃjaṃti*)—they yoke on the chariot together with the bull
+- तमु (*tamu*)—that very mace
+- आ स्थापयंति (*ā sthāpayaṃti*)—they set up (use) for slaying the enemy
+- अस्मै (*asmai*)—for this mace
+- तृणं (*tṛṇaṃ*)—grass (food)
+- न आ भरंति (*na ā bharaṃti*)—they do not supply
+- न उदकं (*na udakaṃ*)—nor do they give water to drink (even so, this mace)
+- उत्तरः (*uttaraḥ*)—being on the other side of the yoke, the chariot's burden
+- वहति (*vahati*)—carries
+- प्रदेदिशत् (*pradediśat*)—secures victory (in battle) for its master
+
+##### भावार्थ (Bhāvārtha)
+
+(Here the द्रुघण (*drughaṇa*) is praised.) Who, standing near us and seeing the suffering caused by our enemies, would keep quiet? I yoke this mace of mine to the chariot when fighting to slay the enemy. It is natural to yoke two bulls to a chariot or a cart. But since I have only one bull, the bull is yoked to one side of the chariot and this mace to the other. Unlike bulls, this mace needs no grass to be given to it, nor water to be given to drink,
+
+### Printed p. 190
+
+yet it bears the burden of the chariot along with the bull and secures victory in battle for its master.
+
+##### English translation
+Who has thus beheld the evils nigh at hand? The (bull) which they yoke, they stop; to him they bring neither fodder nor water. Being above (the bull) he bears the chariot-pole announcing (victory to his lord).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रि॒वृ॒क्तेव॑ पति॒विद्य॑मान॒ट् पीप्या॑ना॒ कूच॑क्रेणेव सिं॒चन् ।  
+> ए॒षै॒ष्या॑ चिद्र॒थ्या॑ जयेम सुमं॒गलं॒ सिन॑वदस्तु सा॒तं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परिवृक्ता इव । पतिविद्यं । आनट् । पीप्याना । कूचक्रेण इव । सिंचन् ।  
+> एषएष्या । चित् । रथ्या । जयेम । सुमंगलं । सिनवत् । अस्तु । सातं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र मुद्दलानी सारथिः स्तूयते । एषा मुद्दलानी परिवृक्तेव ॥ वृजी वर्जने॥
+> परित्यक्ता पत्या पत्या वियुक्ता योषिदिव । सा यथा पतिविद्यं । विद्यो वेद्यो
+> लंबनीयः । पतिश्चासौ विद्यश्च । पतिविद्यमानशे तद्वत्पतिविद्यमानट् ॥ आनड् व्याप्तिकर्मा । नशेर्लुजि मंत्रे घसेति चेर्लुक् । छंदस्यपि दृश्यते । पा. ६-४-७३ ।
+> इत्यनजादीनामप्यडागमः । अश्नोतेर्लिटि वा णल्लोपश्चांदसः ॥ तथा पतिसमीपं
+> सारथित्वेनागत्य पीप्याना वर्धमाना भवति । किमिव । कूचक्रेणेव सिंचन् । कुः
+> पृथिवी । तस्याश्चक्रो वलयः कूचक्रः । तेन वर्षणीयत्वेन निमित्तेन सिंचञ्चलं
+> वर्षन्नेघ इव । स यथांतरिक्षे स्वल्पमात्रोऽपि वर्षणसमये महान्भवति
+> तद्वदियमपि शत्रुमध्यॆ शरधारा वर्षंती वर्धत इत्यर्थः । तथैषैष्या । एषितव्यो
+> गोसंघ एषः । तमिच्छतीत्येपैषी । ईदृश्या तया रथ्या सारथिभूतया जयेम
+> शत्रुभिरपहृतं गोसंघं । तस्याः सातं दत्तं संभजनं वा सुमंगलं शोभन.
+> मंगलवत् सिनवत् । सिनमन्नं । तद्वच्चास्तु । गोरूपान्नवच्च भवतु ॥
+
+##### Gist of the bhāṣya
+
+Here Mudgalānī, the charioteer, is praised. She is like a woman forsaken (परिवृक्तेव (*parivṛkteva*); root वृजी वर्जने (*vṛjī varjane*)), abandoned by her husband and separated from him. As such a woman reaches (आनट् (*ānaṭ*), which means "pervading") her husband, who is to be obtained, पतिविद्यं (*patividyaṃ*) (*vidyaḥ* meaning *vedyaḥ*, "to be reached"), so Mudgalānī, having come to her husband's side as charioteer, swells and grows (पीप्याना (*pīpyānā*)). Like what? Like one pouring with the कूचक्र (*kūcakra*). कुः (*kuḥ*) is the earth, its circle is कूचक्रः (*kūcakraḥ*); for the sake of that rain-needing earth a cloud pours water. As a cloud, small in the sky, becomes great at the time of raining, so she too, raining streams of arrows in the midst of the enemy, grows. Further, एषः (*eṣaḥ*) is the herd of cows that is to be sought; she who desires it is *eṣaiṣī*. With her, the charioteer, may we win the herd of cows carried off by the enemies. May her gift or share (सातं (*sātaṃ*)) be auspicious (सुमंगलं (*sumaṃgalaṃ*)) and like food (सिनवत् (*sinavat*); सिनमन्नं (*sinamannaṃ*)): may it be like food in the form of cows.
+
+### Printed p. 191
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परिवृक्ता इव (*parivṛktā iva*)—like a woman forsaken by her husband
+- पतिविद्यं (*patividyaṃ*)—the proximity of her husband
+- आनट् (*ānaṭ*)—as she reaches it and rejoices, so this charioteer Mudgalānī
+- कूचक्रेणेव (*kūcakreṇeva*)—over the circle of the earth
+- सिंचन् (*siṃcan*)—as a cloud that rains spreads out large in the sky while raining
+- पीप्याना (*pīpyānā*)—grows with joy
+- एष्यष्या (*eṣyaṣyā*)—eager in the search for cows
+- रथ्या चित् (*rathyā cit*)—by Mudgalānī, the charioteer herself
+- जयेम (*jayema*)—we win victory in battle
+- सातं (*sātaṃ*)—won (given) by that Mudgalānī
+- सुमंगलं (*sumaṃgalaṃ*)—the auspicious herd of cows
+- सिनवत् (*sinavat*)—like food, a dear possession to us
+- अस्तु (*astu*)—may it be
+
+##### भावार्थ (Bhāvārtha)
+
+As a wife who has parted from her husband rejoices when she is reunited with him, so this charioteer Mudgalānī grows with joy (swells), as a cloud raining over the earth's disc spreads huge in the sky at the time of raining. Through this Mudgalānī, eager in the search for cows, we win victory in battle. May the auspicious herd of cows given by her, that is, obtained from the enemies in battle, be as dear to us as food.
+
+##### English translation
+As a wife who has been abandoned rejoices to find her husband, as cloud expanding when pouring forth rain with the aid of the earth's disc; with her eager (to recover the cattle) for our charioteer, may we win (the prize), may good fortune, together with food, be given to us.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं विश्व॑स्य॒ जग॑त॒श्चक्षु॑रिंद्रासि॒ चक्षु॑षः ।  
+> वृषा॒ यदा॒जिं वृष॑णा॒ सिषा॑ससि चो॒दय॒न्वध्रि॑णा यु॒जा॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । विश्वस्य । जगतः । चक्षुः । इंद्र । असि । चक्षुषः ।  
+> वृषा । यत् । आजिं । वृषणा । सिसाससि । चोदयन् । वध्रिणा । युजा ॥ १२ ॥
+
+### Printed p. 192
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूक्तस्य विकल्पेनैंद्रत्वादादाविंद्रस्य स्तुतत्वादंतेऽपींद्रः स्तूयते । हे
+> इंद्र त्वं विश्वस्य सर्वस्य जगतश्चक्षुषश्चक्षुष्मतः पश्यतो ना जगतश्चक्षुरसि । प्रत्येकमुत्पत्तिविशिष्टचक्षुःसद्भावेऽपि सर्वस्य साधारणं चक्षुरसि । त्वया द्रष्टव्यानैहिकामुष्मिकपदार्थान्पश्यंतीत्यर्थः । त्वामेव हि यज्ञादिना लब्ध्वा पुरुषार्थान्साधयंति।
+> यद्वा । विश्वस्य जगतो यन्निजं चक्षुरस्ति तस्यापि चक्षुषस्त्वं चक्षुरसि । यद्यस्माद्वृषाभिमतवर्षकस्त्वमाजिं मुद्दलस्य मम संग्रामं वध्रिणा पाशेन युजा
+> युजौ युक्तौ वृषणा वृषण् वर्षकावश् रथे योजयित्वा चोदयञ्चतुरुषु
+> प्रेरयन् सिषाससि आजिं स्तंभकुमिच्छसि तस्माच्चक्षुरसि ॥
+
+##### Gist of the bhāṣya
+
+Since the sūkta is optionally addressed to Indra, and Indra was praised at the beginning, Indra is praised at the end as well. O Indra, you are the eye of the whole world, of everything that has eyes and sees. Although each being has its own eye, you are the common eye of all: through you they see the things to be seen, of this world and the next, and having obtained you by sacrifice and the like they accomplish the aims of man. Or else: of the world's own eye you are the eye. Because you, the showerer who grants what is wished, desire (सिषाससि (*siṣāsasi*)) the battle of me, Mudgala, urging forward the two showerers yoked to the chariot with the rope, therefore you are the eye. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- विश्वस्य जगतः (*viśvasya jagataḥ*)—of the whole world
+- चक्षुषः (*cakṣuṣaḥ*)—that has the power of seeing
+- चक्षुषि असि (*cakṣuṣi asi*)—you are of the form of the eye, that is, you hold the first place like the eye **NOTE**
+- विश्वस्य जगतः (*viśvasya jagataḥ*)—of the whole world
+- चक्षुषिः (*cakṣuṣiḥ*)—to Āditya (the Sun), who is the form of the eye
+- चक्षुषि असि (*cakṣuṣi asi*)—you are like an eye
+- यत् (*yat*)—for that very reason
+- वृषा (*vṛṣā*)—you who shower the things desired
+- आजिं (*ājiṃ*)—the battle I, Mudgala, am conducting, or in the battle
+- वध्रिणा (*vadhriṇā*)—with the rope
+- वृषणा (*vṛṣaṇā*)—your horses
+- युजा (*yujā*)—having tied to the chariot
+- चोदयन् (*codayan*)—urging the chariot to go through the midst of the enemies
+- सिषाससि (*siṣāsasi*)—you wish to win victory for us in battle
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the eye of the whole world that has the power of seeing; or else you are like an eye to the Sun, who is the eye of the whole world. Therefore you, so mighty and granting what is wished, in this battle that I, Mudgala, am conducting, wish to win victory for us, yoking your horses to the chariot with a rope and urging it through the midst of the enemies.
+
+##### English translation
+You, Indra, are the eye of the eye of the whole world, when, showerer (of benifits), urging on your two vigours steeds, harnessed to the car, you engage in battle.
+
+### Printed p. 193
+
+## Sūkta 103 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+Introduction. Concerning this sūkta (आशुः शिशानः (*āśuḥ śiśānaḥ*)) the Ṛgvidhāna says as follows:
+
+सर्वत्र तु परा शांतिर्ज्ञेयोऽप्रतिरथस्त्वृषिः । (*sarvatra tu parā śāṃtirjñeyo 'pratirathastvṛṣiḥ |*)
+यमेव देशं गजेत शत्रुं वाप्यनुमंत्रितः ॥ (*yameva deśaṃ gajeta śatruṃ vāpyanumaṃtritaḥ ‖*)
+नाजित्वा विनिवर्तेत परं हि ब्रह्मणो बलं । (*nājitvā vinivarteta paraṃ hi brahmaṇo balaṃ |*)
+सर्वकामैर्जपेदेतत्सर्वकामसमृद्धये ॥ (*sarvakāmairjapedetatsarvakāmasamṛddhaye ‖*)
+संग्राममभ्युद्यताय राज्णे चैतत्पयोजयेत् । (*saṃgrāmamabhyudyatāya rājṇe caitatpayojayet |*)
+सर्वान् विजयते शत्रून्न पराजीयतेऽपरैः ॥ (*sarvān vijayate śatrūnna parājīyate 'paraiḥ ‖*)
+पथि स्वस्ययनं चैतत्तस्करेभ्यश्चरन् पथि । (*pathi svasyayanaṃ caitattaskarebhyaścaran pathi |*)
+भूतोरगपिशाचेभ्यः सर्वेभ्यः परिरक्षति ॥ (*bhūtoragapiśācebhyaḥ sarvebhyaḥ parirakṣati ‖*)
+(Ṛgvidhāna, Adhyāya 4, Śloka 6-9)
+
+Apratiratha, the seer of this sūkta, recited it for peace everywhere. A king who is addressed with the mantras of this sūkta, to whatever country he goes to conquer his enemies, does not return without conquering them there; for such is the power and might of this sūkta. Moreover, if this sūkta is muttered, all the desires one wishes for are fulfilled. Above all, if a king setting out to fight his enemies is consecrated with this sūkta, he conquers all his enemies and is not himself defeated. Even when travelling on the road, the muttering of this sūkta removes the fear of thieves and robbers; everything goes off auspiciously. It protects from all fears, from ghosts, serpents, piśācas and the like.
+
+Concerning this sūkta the great sage Śaunaka says as follows in his work called Bṛhaddevatā:
+
+युध्यन् संख्यॆ जयं प्रेप्सुरैंद्रोऽप्रतिरथो जगौ । (*yudhyan saṃkhyè jayaṃ prepsuraiṃdro 'pratiratho jagau |*)
+आशुरैंद्रमप्पा देवी अमीषामित्यृचि स्तुता । (*āśuraiṃdramappā devī amīṣāmityṛci stutā |*)
+चतुर्थी बार्हस्पत्या स्यान्नाकुले च महानिति ॥ (*caturthī bārhaspatyā syānnākule ca mahāniti ‖*)
+द्वृचस्तु मारुतः प्रेतेत्यैंद्री ना ब्रह्म यत्परं ॥ (*dvṛcastu mārutaḥ pretetyaiṃdrī nā brahma yatparaṃ ‖*)
+तत्रानिरुक्तसूक्तादावृगेका सूर्यमर्चति ॥ (*tatrāniruktasūktādāvṛgekā sūryamarcati ‖*)
+(Bṛ. De. Adhyāya 8, Śloka 13-15)
+
+### Printed p. 194
+
+Apratiratha Aindra recited this sūkta in order to gain victory while fighting. Indra is the deity of this sūkta beginning आशुः शिशानः (*āśuḥ śiśānaḥ*); but in the twelfth Ṛk, beginning अमीषां चित्तं (*amīṣāṃ cittaṃ*), a goddess called अप्पा (*appā*) is praised. The deity of the fourth Ṛk of this sūkta is Bṛhaspati, and in the khila mantras of the seer Nakula, the mantra महान् (*mahān*) also has Bṛhaspati as its deity. In the next two Ṛks beginning प्रेता (*pretā*) (the 13th Ṛk and one Ṛk of the khila mantras) the Maruts are praised, but for the first प्रेता (*pretā*) Ṛk (the 13th) Indra too is an alternative deity. In the first Ṛk of the following khila sūkta, beginning ब्रह्म (*brahma*), the Sun is praised.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशुः शिशान इति त्रयोदशर्चं चतुर्थं सूक्तमिंद्रपुत्रस्याप्रतिरथनाम्न
+> आर्षं । त्रयोदश्यनुष्टुप् शिष्टास्त्रिष्टुभः । बृहस्पते परि दीयेत्यस्या बृहस्पतिर्देवता । अमीषां चित्तमित्यस्या अस्वाख्या देवी देवता । शिष्टा ऐंद्रः ! त्रयोदशी
+> विकल्पेन मारुती । तथा चानुक्रांतं । आशुः सप्तोन्नैंद्रोऽप्रतिरथश्चतुर्थि
+> बार्हस्पत्योपांत्याष्वादेव्यंत्यानुष्टुम्मारुती वेति ॥ साग्निचिते क्रत् चित्यग्निषु
+> प्रणीयमानेषु दक्षिणतो व्रजता ब्रह्मणैत्तूक्तं जप्यं । तथा च सूत्रितं । दक्षिणतश्च
+> व्रजञ्चपत्याशुः शिशान इति सूक्तं समाप्य । आ. १-१२ । इति । ब्रह्माप्रतिरथं जपित्वा ।
+> आ. ४-८ । इति च ॥ युद्धार्थं राज्यः सन्नहनेऽनेन सूक्तेन राजेक्षितव्यः । सूत्रितं
+> च । अथैनमन्वीक्षेताप्रतिरथशाससौपर्णैः । आ- गृ. ३-१२-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta आशुः शिशान (*āśuḥ śiśāna*), of thirteen Ṛks, the fourth, has as its seer Apratiratha, the son of Indra. The thirteenth is anuṣṭubh, the rest triṣṭubh. The deity of बृहस्पते परि दीय (*bṛhaspate pari dīya*) is Bṛhaspati; of अमीषां चित्तं (*amīṣāṃ cittaṃ*) the goddess called अस्वाख्या (*asvākhyā*); the rest are Aindra; the thirteenth is optionally Mārutī. **NOTE** So it is recorded in the Anukramaṇī: आशुः सप्तोन्नैंद्रोऽप्रतिरथश्चतुर्थि बार्हस्पत्योपांत्याष्वादेव्यंत्यानुष्टुम्मारुती वेति ॥ (*āśuḥ saptonnaiṃdro 'pratirathaścaturthi bārhaspatyopāṃtyāṣvādevyaṃtyānuṣṭummārutī veti ‖*). In the agnicayana rite, while the piled fires are being carried forward, the Brahman priest, walking to the south, is to mutter this sūkta; so it is laid down in the sūtra: दक्षिणतश्च व्रजञ्चपत्याशुः शिशान इति सूक्तं समाप्य (*dakṣiṇataśca vrajañcapatyāśuḥ śiśāna iti sūktaṃ samāpya*) (Ā. 1-12), and ब्रह्माप्रतिरथं जपित्वा (*brahmāpratirathaṃ japitvā*) (Ā. 4-8). A king arming for battle is to be looked upon with this sūkta; so it is laid down: अथैनमन्वीक्षेताप्रतिरथशाससौपर्णैः (*athainamanvīkṣetāpratirathaśāsasauparṇaiḥ*) (Ā. Gṛ. 3-12-13).
+
+##### Anuvāda
+
+This sūkta आशुः शिशानः (*āśuḥ śiśānaḥ*) is the fourth sūkta in the ninth anuvāka. It has thirteen Ṛks. Its seer is Apratiratha, the son of Indra; the thirteenth Ṛk is in the anuṣṭubh metre and the remaining Ṛks in triṣṭubh. The deity of the fourth Ṛk, बृहस्पते परिदीया (*bṛhaspate paridīyā*), is Bṛhaspati; of the twelfth Ṛk, अमीषां चित्तं (*amīṣāṃ cittaṃ*), a goddess named अप्पा (*appā*); the remaining Ṛks are addressed to Indra. For the thirteenth Ṛk the Maruts are an alternative deity. In the Anukramaṇī it is said: आशुः सप्तोनैंद्रोऽप्रतिरथश्चतुर्थि बार्हस्पत्योपांत्यास्वादेव्यंत्यानुष्टुग्मारुती पा (*āśuḥ saptonaiṃdro 'pratirathaścaturthi bārhaspatyopāṃtyāsvādevyaṃtyānuṣṭugmārutī pā*). In the sacrifice with agni-piling, when the piled fires are carried forward, this sūkta is to be muttered by the priest called Brahman as he goes facing south, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra दक्षिणतश्च व्रजन् जपत्याशुः शिशान इति सूक्तं समाप्य (*dakṣiṇataśca vrajan japatyāśuḥ śiśāna iti sūktaṃ samāpya*) (Ā. 1-12); and also by the sūtra ब्रह्माप्रतिरथं जपित्वा (*brahmāpratirathaṃ japitvā*) (Ā. 4-8). That a king who has armed himself and is setting out for battle is to be looked upon with the recitation of this sūkta is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra अथैनवं वीक्षीताप्रतिरथशाससौपर्णॆः (*athainavaṃ vīkṣītāpratirathaśāsasauparṇèḥ*) (Ā. Gṛ. 3-12-13).
+
 ---
 
-**Progress note:** Done through printed p. 188. pp. 183-188 (batch API)
+**Progress note:** Done through printed p. 194. pp. 189-194 (batch API)
