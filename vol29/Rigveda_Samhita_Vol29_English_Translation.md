@@ -6185,6 +6185,154 @@ What is the nature of the growth of Viśvakarman in the sentence हविषा
 
 प्रजापतिः प्रजा असृजत । तास्सृष्टास्समश्लिष्यन् । ता रूपेणानु प्राविशत् । तस्मादाहुः । रूपं वै प्रजापतिरिति । ता नाम्नानुप्राविशत् । तस्मादाहुः । नाम वै प्रजापतिरिति ॥ (*prajāpatiḥ prajā asṛjata | tāssṛṣṭāssamaśliṣyan | tā rūpeṇānu prāviśat | tasmādāhuḥ | rūpaṃ vai prajāpatiriti | tā nāmnānuprāviśat | tasmādāhuḥ | nāma vai prajāpatiriti ‖*) (Tai. Brā. 2-2-7-1)
 
+### Printed p. 231
+
+The creatures created by Prajāpati did not attain an individual state; all of them remained joined together. Then, in order to separate them individually, he gave them name and form, divided those that were together by these names and forms, and himself too entered into them. These names and forms became the root of the expansion of the world.
+
+Just as the sacrifice is the means of Viśvakarman's growth, so also this same sacrifice is the means of growth of the individual creature, divided by name and form. Just as unity between Viśvakarman and the sacrifice has been shown, so there must be identity between the individual creature and the sacrifice performed by him. Just as Viśvakarman offers himself as the oblation (स्वयं यजस्व तन्वं वृधानः (*svayaṃ yajasva tanvaṃ vṛdhānaḥ*)), so the creature created by him must also offer himself, in the form of an oblation, in this individual sacrifice. How? —
+
+अथ यद्यज्ञं तनुते । यज्ञेनैवैतद्देवेभ्य आत्मानं निष्क्रीणीते यथैव तत्प्रजापतिर्निरक्रीणीतैवमथ यद्धनिर्निवपति हविषैवैतद्यज्ञं निष्क्रीणाति हविरनुवाकयानुवाक्यामवदानेनावदानं याज्यया याज्यां वसट्कारेण वषट्कारमाहुत्या तस्याहुतिरेवानिष्क्रीता भवति ॥ (*atha yadyajñaṃ tanute | yajñenaivaitaddevebhya ātmānaṃ niṣkrīṇīte yathaiva tatprajāpatirnirakrīṇītaivamatha yaddhanirnivapati haviṣaivaitadyajñaṃ niṣkrīṇāti haviranuvākayānuvākyāmavadānenāvadānaṃ yājyayā yājyāṃ vasaṭkāreṇa vaṣaṭkāramāhutyā tasyāhutirevāniṣkrītā bhavati ‖*) (Śa. Prā. 11-1-8-1) **NOTE**
+
+By this sacrifice the sacrificer repays his debt to the gods. Just as Prajāpati, offering himself as the oblation in the sacrifice performed by himself, gave satisfaction to the gods, so now also the sacrificer must offer himself to the gods in the form of an oblation. (Vows such as fasting are the purport of this.) If the sacrificer spends the period of the consecration with excellent observance of rules and with his senses subdued, it is as if he had given satisfaction to the gods. Thus the necessity of self-sacrifice is declared. Self-sacrifice does not mean suicide; self-renunciation is the aim.
+
+After creation, in the period of continuance, just as the differences of name and form exist, differences of place and time too are necessarily present. The sentence quoted below tells how, just as Viśvakarman pervades all regions (space), the sacrifice also attains unity with heaven and earth and the atmosphere and has identity with them.
+
+उषा वा अश्वस्य मेध्यस्य शिरः । सूर्यश्चक्षुर्वातः प्राणो व्यात्तमग्निर्वैश्वानरः संवत्सर आत्माश्वस्य मेध्यस्य । द्यौः पृष्ठमंतरिक्षमुदरं पृथिविः पाजस्यं दिशः पार्श्वे अवांतरदिशः पर्शव ऋतवोंगानि मासाश्चार्र्धमासाश्च पर्वाण्यहोरात्राणि प्रतिष्ठा नक्षत्राण्यस्थिति नभो मांसानि । (*uṣā vā aśvasya medhyasya śiraḥ | sūryaścakṣurvātaḥ prāṇo vyāttamagnirvaiśvānaraḥ saṃvatsara ātmāśvasya medhyasya | dyauḥ pṛṣṭhamaṃtarikṣamudaraṃ pṛthiviḥ pājasyaṃ diśaḥ pārśve avāṃtaradiśaḥ parśava ṛtavoṃgāni māsāścārrdhamāsāśca parvāṇyahorātrāṇi pratiṣṭhā nakṣatrāṇyasthiti nabho māṃsāni |*)
+
+### Printed p. 232
+
+ऊवध्यं सिकताः सिंधवो गुदा..................यद्विजृंभते तद्विद्योतते यद्विधूनुते तत्स्ननयति यन्मेहति तद्वर्षति वागेवास्य वाक् ॥ (*ūvadhyaṃ sikatāḥ siṃdhavo gudā..................yadvijṛṃbhate tadvidyotate yadvidhūnute tatsnanayati yanmehati tadvarṣati vāgevāsya vāk ‖*) (Bṛ. 81 1-1) **NOTE**
+
+It is declared that Uṣas, the giver of vitality and radiance to the world, is the head of this sacrificial horse; the sun is its eye; the wind is its inhalation and exhalation; the Vaiśvānara fire is its opened mouth; the year is its body; the heaven is its back; the atmosphere is its belly; the earth is its hoof; the directions are its sides; the intermediate directions are its ribs; the seasons and the solstices are its limbs; the months and fortnights are its joints; days and nights are its feet; the stars are its bones; the rivers are its blood-vessels; the trees are its hairs; when it yawns there is lightning; when it neighs there is thunder. Thus the limbs of the sacrificial horse are all space and time. That is, it is declared that the whole universe, divided by name and form, is itself a part of the principle of sacrifice. Therefore everything that is produced grows only in the form of sacrifice. From creation until dissolution, everything that is produced passes through three stages: the stage of the morning, the stage of midday, and the condition of the evening. In every life these three stages exist. All of these have the form of sacrifice, and only if all three are full is life full. How? —
+
+, पुरुषो वाव यज्ञस्तस्य यानि चतुर्विंशतिवर्षाणि तत्प्रातःसवनं चतुर्विंशत्यक्षरा गायत्री प्रातःसवनं तदस्य वसवोऽन्वायत्ताः प्राणा वाव वसव एते हीदं सर्वं वासयंति ॥ (*, puruṣo vāva yajñastasya yāni caturviṃśativarṣāṇi tatprātaḥsavanaṃ caturviṃśatyakṣarā gāyatrī prātaḥsavanaṃ tadasya vasavo 'nvāyattāḥ prāṇā vāva vasava ete hīdaṃ sarvaṃ vāsayaṃti ‖*) (Bhā. U. 3-16-1) **NOTE**
+
+Man himself is the sacrifice. His first twenty-four years are the morning pressing. The Gāyatrī has twenty-four syllables. Therefore the morning pressing must be performed with the help of a mantra in the Gāyatrī metre. The Vasus belong to this morning pressing. The vital breaths of man are these Vasus. Because they make everything here fit to dwell in, the breaths are called Vasus.
+
+तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्पाणा वसव इदं मे प्रातःसवनं माध्यंदिनं सवनमनुसंतनुतेति माहं प्राणानां वसूनां मध्ये यज्ञो विलोप्सियेत्युद्धैव तत एत्यगदो ह भवति ॥ (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyātpāṇā vasava idaṃ me prātaḥsavanaṃ mādhyaṃdinaṃ savanamanusaṃtanuteti māhaṃ prāṇānāṃ vasūnāṃ madhye yajño vilopsiyetyuddhaiva tata etyagado ha bhavati ‖*) (Bhā. U. 3-16-2)
+
+If in this period of life man is afflicted by disease, then he should pray: "O breaths, who are the Vasus, let this morning pressing of mine, which is my life, not be cut short here; let it continue on into the midday pressing; let this sacrifice of my life go on." If he prays thus, he is freed from the disease.
+
+### Printed p. 233
+
+अथ यानि चशुश्चत्वांरंशद्वर्षाणि तन्माध्यंदिनं सवनं चतुश्चत्वांरंशदक्षरा त्रिष्टुप् त्रैष्टुभं माध्यंदिनं सवनं तदस्य रुद्रा आन्वायत्ताः प्राणा वाव रुद्रा एते हीदं सर्वं रोदयंति ॥ (*atha yāni caśuścatvāṃraṃśadvarṣāṇi tanmādhyaṃdinaṃ savanaṃ catuścatvāṃraṃśadakṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ tadasya rudrā ānvāyattāḥ prāṇā vāva rudrā ete hīdaṃ sarvaṃ rodayaṃti ‖*) (Chā. U. 3-16-3)
+
+The next forty-four years, after the time of the morning pressing, are of the form of the midday pressing. The Triṣṭubh metre has forty-four syllables. Therefore the midday pressing must be performed with the help of a mantra in the Triṣṭubh metre. In this period the vital breaths of man are of the form of the Rudras. Because in time of trouble they make all weep (रोदयंति (*rodayaṃti*)), they are called Rudras.
+
+तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयत् प्राणा रुद्रा इदं मे माध्यंदिनं सवनं तृतीयसवनमनुसंतनुतेति माहं प्राणानां रुद्राणां मध्यॆ यज्ञो विलोप्पीयेत्युद्धैव तत एत्यगदो ह भवति ॥ (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyat prāṇā rudrā idaṃ me mādhyaṃdinaṃ savanaṃ tṛtīyasavanamanusaṃtanuteti māhaṃ prāṇānāṃ rudrāṇāṃ madhyè yajño viloppīyetyuddhaiva tata etyagado ha bhavati ‖*) (Chā. U. 3-16-4)
+
+If man is afflicted by disease in this period of his life, then he should pray: "O breaths, who are of the form of the Rudras, let this sacrifice of mine, which is my midday pressing, continue up to the evening pressing; let it not end here." If he prays thus, man is freed from the disease.
+
+अथ यान्यष्टा चत्वारिंशद्वर्षाणि तत्तृतीयसवनमष्टाचत्वारिंशदक्षरा जगती जागतं तृतीयसवनं तदस्यादित्या अन्वायत्ताः प्राणा वावादित्या एते हीदं सर्ववाददते । (*atha yānyaṣṭā catvāriṃśadvarṣāṇi tattṛtīyasavanamaṣṭācatvāriṃśadakṣarā jagatī jāgataṃ tṛtīyasavanaṃ tadasyādityā anvāyattāḥ prāṇā vāvādityā ete hīdaṃ sarvavādadate |*) (Bhā. U. 3-16-5)
+
+The next forty-eight years are of the form of the evening pressing. The Jagatī metre has forty-eight syllables. Therefore the evening pressing is to be performed with the help of a mantra in the Jagatī form. The Ādityas belong to this pressing. In this period the breaths, in the form of the Ādityas, take hold of everything, and therefore they are called Ādityas.
+
+तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात् प्राणा आदित्या इदं मे तृतीयसवनमायुरनुसंतनुतेति माहं प्राणानां मादित्यानां मध्यॆ यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति ॥ (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyāt prāṇā ādityā idaṃ me tṛtīyasavanamāyuranusaṃtanuteti māhaṃ prāṇānāṃ mādityānāṃ madhyè yajño vilopsīyetyuddhaiva tata etyagado haiva bhavati ‖*) (Chā. U. 3-16-6)
+
+If in this period of man's life he is troubled by disease, then he prays: "O breaths, who are of the nature of the Ādityas, let this oblation of mine, which is my life, go on as long as my full span of life lasts; let it not stop at half the span." Praying thus and so on, he is freed from disease. And further —
+
+### Printed p. 234
+
+स यदशिशिषति यत्पिपासति यान्न रमते ता अस्य दीक्षाः । (*sa yadaśiśiṣati yatpipāsati yānna ramate tā asya dīkṣāḥ |*) (Chā. U. 3-17-1)
+
+As long as man, afflicted by hunger and thirst, does not enjoy pleasure and keeps a discipline, that is the period of consecration in this sacrifice of his life.
+
+अथ यदत्नाति यत्पिबति यद्रमते तदुपसदैरेति ॥ (*atha yadatnāti yatpibati yadramate tadupasadaireti ‖*) (Bhā. U. 3-17-2)
+
+When man partakes of food and drink and enjoys pleasure, he joins the rite called Upasad. (It is a vow of living only on milk and the like. Śrī Śaṅkarācārya has explained: उपसदां च पयोव्रतत्वनिमित्तं सुखमस्ति (*upasadāṃ ca payovratatvanimittaṃ sukhamasti*) **GLOSS**.)
+
+आथ युद्धसति यज्जक्षति यन्मैथुनं चरति स्तुतशस्त्रैरेव तदेति ॥ (*ātha yuddhasati yajjakṣati yanmaithunaṃ carati stutaśastraireva tadeti ‖*) (Chā. U. 3-17-3)
+
+When man laughs with delight and goes on enjoying pleasures, he attains a state equal to the rite of praise with śastras and the like.
+
+अथ यत्तपो दानमार्जवमहिंसा सत्यवचनमिति ता अस्य दक्षिणाः ॥ (*atha yattapo dānamārjavamahiṃsā satyavacanamiti tā asya dakṣiṇāḥ ‖*) (Chā. U. 3-17-4)
+
+Austerity, charity, honesty, non-violence and truthfulness: these are the excellent sacrificial fees that man must offer in this sacrifice of man.
+
+तस्मादाहुः सोष्यत्यसोष्टेति पुनरुत्पादनमेवास्य तन्मरणमेवावभृथः ॥ (*tasmādāhuḥ soṣyatyasoṣṭeti punarutpādanamevāsya tanmaraṇamevāvabhṛthaḥ ‖*) (Chā. U. 3-17-5)
+
+Therefore, it is said of him "he will be born" and "he has been born"; saying that his mother bears him or has borne him is birth. When, after birth, the sacrifice of man is completed, death at the final time is the concluding bath of this sacrifice. (This is the principle taught by Ghora Āṅgirasa to Kṛṣṇa, son of Devakī.)
+
+Thus the individual sacrifice of man described in the Upaniṣads is a reflection of the universal sacrifice of Viśvakarman, who is without beginning and end. The sacrifice of Viśvakarman has no beginning and no end; it goes on continuously. As the fruit of this sacrifice, creation, continuance and dissolution too go on continuously. Therefore, although it is without beginning and end, since every creation is the fruit of its own sacrifice, every sacrifice necessarily has a measure in the form of time or space (Time and Space). For this period in the form of time, the year is the measure (Unit). For the year
+
+### Printed p. 235
+
+the spring, summer and autumn are limbs; in the same way the sacrifice, which is of the nature of the year, has these three limbs. The three, the offering of ghee, the offering of the fuel-stick and the offering of the oblation, reflect these limbs.
+
+Next, Viśvakarman, who is denoted by names such as Prajāpati and Puruṣa and who is of universal form, following the earlier pattern, offers himself as the complete oblation in every sacrifice that is his creation. (The sentences beginning स्वयं यजस्व (*svayaṃ yajasva*) declare this point.) Therefore creation and the rest, which go on continuously in the form of repetition, are themselves the sacrifice.
+
+तस्मात्पश्चाद्वरीयसः प्रजननादिमाः प्रजाः प्रजायंते ॥ (*tasmātpaścādvarīyasaḥ prajananādimāḥ prajāḥ prajāyaṃte ‖*) (Śa. Cā. 3-5-1-11) **NOTE**
+
+The sacrifice is compared to a woman giving birth: from this very extensive female womb, in the form of sacrifice, creatures are born. Everything produced, from the gods and asuras down to the atom of earth, is the fruit of this sacrifice. The performers of this sacrifice are three: (1) Prajāpati, (2) Agni, (3) and the sacrificer in human form. The action of these three must follow one rule. In the time of his individual sacrifice of man, man must follow the sacrificial action of this Viśvakarman (Prajāpati). For that the help of Agni is indispensable. This mutually helpful action is indispensable for this universal course of things to go on without obstruction. This matter is stated in the Taittirīya Brāhmaṇa as follows.
+
+पुरुषसंमितो यज्ञः । यज्ञः पुरुषसम्मितः । अग्ने तदस्य कल्पय । त्वगंहि वेत्थ यथातथं । यत्पाकत्रा मनसा दीनदक्षान ॥ (*puruṣasaṃmito yajñaḥ | yajñaḥ puruṣasammitaḥ | agne tadasya kalpaya | tvagaṃhi vettha yathātathaṃ | yatpākatrā manasā dīnadakṣāna ‖*) (Tai. Brā. 3-7-11-5)
+
+The sacrifice is of the measure of man. O Agni, you are the one who knows the whole principle of sacrifice. Therefore help man too in the performance of this sacrifice and raise him up. Thus it prays. If man (the sacrificer), knowing this principle of sacrifice, performs his action, then he too attains the measure of this original Puruṣa; that is, one of contracted form, by his sacrificial action, attains expansion and is freed from contraction. This kind of expansion is to be kept as the aim of the sacrifice. Viśvakarman too, having contracted himself, attained by this very sacrifice his expansion in the form of the manifestation of the universe: this is the purport of the present Ṛk.
+
+### Printed p. 236
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒चस्पतिं॑ वि॒श्वक॑र्माणमू॒तये॑ मनो॒जुवं॒ वाजे॑ अ॒द्या  ॑
+> हु॑वेम ।  
+> स नो॒ विश्वा॑नि॒ हव॑नानि जोषद्वि॒श्वशं॑भू॒रव॑से सा॒धुक॑र्मा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाचः । पतिं । विश्वकर्माणं । ऊतये । मनःजुवं । वाजे । अद्य । हुवेम ।  
+> सः । नः । विश्वानि । हवनानि । जोषत् । विश्वशंभूः । अवसे । साधुकर्मा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाचस्पतिं मंत्रात्मकस्य वचसः स्वामिनं विश्वकर्माणं विश्वकर्तारं मनोजुवं मनोवेगगमनं वाजे यज्ञेऽद्यास्मिन्दिन ऊतये तर्पणाय हुवेम ।
+> आह्वयाम । स देवो नोऽस्माकं विश्वानि सर्वाणि हवनानि जोषत् । सेवतां ।
+> किमर्थं । अवसेऽस्माकं रक्षणाय । स विशेष्यते । विश्वशंभूर्विश्वस्य सुखस्योत्पादकः
+> साधुकर्मा च ॥
+
+##### Gist of the bhāṣya
+
+He explains वाचस्पतिं (*vācaspatiṃ*) as the lord of speech in the form of mantras, विश्वकर्माणं (*viśvakarmāṇaṃ*) as the maker of the whole, and मनोजुवं (*manojuvaṃ*) as one whose motion is swift as the mind. वाजे (*vāje*) means in the sacrifice, अद्य (*adya*) on this day, and ऊतये (*ūtaye*) for satisfaction. हुवेम (*huvema*) means "we invoke". That god is to accept (जोषत् (*joṣat*) means "may he serve") all our invocations (हवनानि (*havanāni*)). For what purpose? अवसे (*avase*): for our protection. He is further qualified: विश्वशंभूः (*viśvaśaṃbhūḥ*) is the producer of the happiness of the whole world, and he is also one of good works (साधुकर्मा (*sādhukarmā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाचस्पतिं (*vācaspatiṃ*)—the lord of words in the form of mantras
+- विश्वकर्माणं (*viśvakarmāṇaṃ*)—the maker of the whole world
+- मनोजुवं (*manojuvaṃ*)—one who is swift like the mind, that Viśvakarman
+- वाजे (*vāje*)—in the sacrifice
+- अद्य (*adya*)—now
+- ऊतये (*ūtaye*)—for protection
+- हुवेम (*huvema*)—we call
+- विश्वशंभूः (*viśvaśaṃbhūḥ*)—one who brings welfare to all
+- साधुकर्मा (*sādhukarmā*)—one of excellent action; such
+- सः (*saḥ*)—that god Viśvakarman
+- नः (*naḥ*)—our
+- विश्वानि हवनानि (*viśvāni havanāni*)—all invocations
+- अवसे (*avase*)—for our protection
+- जोषत् (*joṣat*)—may he accept
+
+##### भावार्थ (Bhāvārtha)
+
+We now call, praying in the sacrifice for protection, Viśvakarman, who is the lord of words in the form of mantras, the maker of the whole world, and swift as the mind. May the god Viśvakarman, who brings welfare to all and is of excellent action, accept (hear) all our invocations for our protection.
+
+### Printed p. 237
+
+##### English translation
+Let us this day invoke for our protection the lord of speech, the creator of all, who is swift as thought; may he, the bestower of all happiness, the doer of good works, be propitiated by all our oblations, (so as) to grant us his protection.
+
+##### विशेषविषयगळु (Special Topics)
+
+The previous Ṛks have praised the self-sacrifice of Viśvakarman as the root cause of the creation, fullness and growth of the world. The same Viśvakarman is praised in the present Ṛk by the epithet वाचस्पतिं विश्वकर्माणं (*vācaspatiṃ viśvakarmāṇaṃ*). It is most fitting in the present context that Viśvakarman, who is of the form of sacrifice and the root cause of creation, continuance and dissolution, is revealed by this epithet. It is quite necessary to examine here the true purport of this epithet. Creation, the sacrifice that is the root of creation, and Viśvakarman, the cause of both: these are the main subject of the present sūkta.
+
+In this context the epithet वाचस्पतिं (*vācaspatiṃ*) makes known three matters. Firstly,
+
+1. 1) The relation between speech and Viśvakarman.
+2) The relation of cause and effect between speech and the universal sacrifice of Viśvakarman, who is of the nature of sacrifice.
+3) The fixed relation between speech and Viśvakarman's actions such as creation and continuance.
+
+In the present case this matter is examined on the basis of the Vedic sentences that make known these three matters. In explaining the special topics of the Ṛk चत्वारि वाक्परिमिता पदानि........ (*catvāri vākparimitā padāni........*) (Ṛ. Saṃ. 1-164-45), the divisions of speech such as noun and verb have been explained at length. भूः (*bhūḥ*)
+
 ---
 
-**Progress note:** Done through printed p. 230. pp. 225-230: end of Rk 10-81-6 and Special Topics (yajna, Prajapati)
+**Progress note:** Done through printed p. 237. Vol 29 pp. 231-237: end of Special Topics on sacrifice (Sūkta 81), Ṛk 7 with bhāṣya, beginning of Special Topics
