@@ -9134,6 +9134,236 @@ When the ceremony of the three fires is instituted for you by those who support 
 > क्रिये । ते । पृश्निः । उपसेचनी । भूत् । क्रिये । दर्विः । अरेपाः ।  
 > यया । स्वे । पात्रे । सिंचसे । उत् ॥ १० ॥
 
+### Printed p. 239
+
+#### Ṛk 10 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव संबंधिनः सोमस्य श्रिये श्रयणाय पृश्निर्गौः पृश्निवर्णोपसेचनी पयसो दॊग्नि भूत् । भवतु । तथा दर्विररणिररेपा अपापा सती
+> ते श्रिये हविषः श्रयणाय भूत् । भवतु । यया दर्न्या स्वे स्वकीये पात्रे
+> पानसाधने मुख उत्सिंचसे उपर्याकृष्ण पिबसि सा श्रिये भूदिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for the sake of the "mixing" (श्रिये (*śriye*), "resorting to") of your Soma, let the spotted cow (पृश्निः (*pṛśniḥ*), a cow of dappled colour) be the one that yields milk for sprinkling it. Likewise let the ladle (दर्विः (*darviḥ*), the churning-stick), free from fault (अरेपाः (*arepāḥ*), "sinless"), serve for the mixing of your oblation. The ladle with which you pour the Soma upward into your own vessel, that is, into your mouth, the instrument of drinking, drawing it up and drinking it — let that be for mixing. This is how the sentence is connected.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—with your Soma
+- श्रिये (*śriye*)—for mixing
+- पृश्निः (*pṛśniḥ*)—the cow of spotted colour
+- उपसेचनी (*upasecanī*)—the giver of milk
+- भूत् (*bhūt*)—let her be
+- यया (*yayā*)—with which ladle
+- स्वे पात्रे (*sve pātre*)—in your mouth, the means of drinking
+- उत् सिंचसे (*ut siṃcase*)—you pour out the Soma
+- दर्विः (*darviḥ*)—that same ladle
+- अरेपाः (*arepāḥ*)—free from fault
+- श्रिये (*śriye*)—fit for mixing the oblation
+- भूत् (*bhūt*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for mixing with your Soma, let the spotted cow give milk. Let the ladle, the means of pouring the Soma into your mouth, be free from fault and fit for drinking.
+
+##### English translation
+May the spotted cow yield milk for mixing with your (Soma), may the ladle for the mixture wherewith you pour it into your own vessel be free from defect.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं वा॒ यद॑सुर्य॒ प्रति॑ त्वा सुमि॒त्र इ॒त्थास्ता॑द्दुर्मि॒त्र इ॒त्थास्तौ॑त् ।  
+> आवो॒ यद्द॑स्यु॒हत्ये॑ कुत्सपु॒त्रं प्रावो॒ यद्द॑स्यु॒हत्ये॑ कुत्स्व॒त्सं ॥ ११ ॥
+
+### Printed p. 240
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । वा । यत् । असुर्य । प्रति । त्वा । सुमित्रः । इत्था । अस्तौत् । दुःमित्रः ।  
+> इत्था । अस्तौत् ॥  
+> आवः । यत् । दस्युहत्ये । कुत्सपुत्रं । प्र । आवः । यत् । दस्युहत्ये । कुत्सवत्सं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुर्य बलवन्निंद्र । अवध्यत्वेनासुरसंबंधित्वात् । त्वा त्वां प्रति शतं
+> ना शतसंख्याकं धनं । वाशब्देनापरिमितं धनं ना । यद्यदा कामितवानित्यर्थः ।
+> यद्यदा च दस्युहत्ये दस्युनने शत्रुवधे कुत्सपुत्रं दुर्मित्रमावः रक्षितवानसि ।
+> तथा कुत्सवत्सं कुत्रपुत्रं प्रावः प्रकर्षण रक्षितवानसि ॥ अव रक्षणादौ । लज्याडजादीनामित्याडागमः । पादादित्वादनिघातः। पुनरुक्तिरादरार्थ०॥ तदानीं सुमित्रो
+> नाम्मेष्ठमस्तौत् । तथा दुर्मित्रो गुणत इत्थमस्तौत् । तद्विपरीतं वा द्रष्टव्यं ।
+> सुमित्रो नाम्मा दुर्मित्रो गुणत इति कात्यायनेन तथोक्तेः । स इत्थेष्ठमनेन
+> कृतप्रकारेणास्तौत् । अस्तावीत् । इत्थास्तौदिति द्विरुक्तिः स्तुतिसमाप्त्यर्थ० ॥
+
+##### Gist of the bhāṣya
+
+O mighty Indra (असुर्य (*asurya*); as unslayable he belongs to the asura-power), "towards you" (त्वा प्रति (*tvā prati*)) a hundred, that is, a hundredfold wealth; the word वा (*vā*) shows that the wealth is immeasurable. "When" (यत् (*yat*)) he desired it — that is the meaning — and when, at the slaughter of the Dasyus, the killing of enemies, you protected Kutsa's son Durmitra; and likewise when you protected Kutsa's darling, the son of Kutsa, with special favour: then Sumitra praised you thus by name, and Durmitra praised you thus by quality. Or else it is to be seen the other way round, since Kātyāyana says so: "Sumitra by name, Durmitra by quality". He praised in the manner just described. The doubled इत्थास्तौत् (*itthāstaut*) is for the completion of the praise; the repetition of the other words is for emphasis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुर्य (*asurya*)—O Indra, possessed of power
+- शतं वा (*śataṃ vā*)—wealth immeasurable, asking that it be given
+- त्वा प्रति (*tvā prati*)—you
+- यत् (*yat*)—when I prayed (and)
+- यत् (*yat*)—when
+- दस्युहत्ये (*dasyuhatye*)—at the time of slaying the enemies
+- कुत्सपुत्रं (*kutsaputraṃ*)—Durmitra, son of the sage Kutsa
+- आवः (*āvaḥ*)—you protected (likewise)
+- कुत्सवत्सं (*kutsavatsaṃ*)—Kutsa's son
+- प्रावः (*prāvaḥ*)—you protected, then
+- सुमित्रः (*sumitraḥ*)—the sage named Sumitra
+- इत्या (*ityā*)—in this manner, you
+- अस्तौत् (*astaut*)—praised (and)
+- दुर्मित्रः (*durmitraḥ*)—that same sage called Durmitra
+- इत्या (*ityā*)—in this manner
+- अस्तौत् (*astaut*)—praised
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, when he prayed to you to give immeasurable wealth, when you protected Kutsa's son Durmitra or Sumitra at the slaughter of the enemy Dasyus, the sage named Sumitra praised you in this manner. That same sage Sumitra, bearing the name Durmitra, praised you in this manner.
+
+### Printed p. 241
+
+##### English translation
+When you mighty (Indra, gave) hundredfold (riches), Sumitra praised you thus, Durmitra praised you thus, when at the slaughter of the Dasyus you protected Kutsa's son, when at the slaughter of the Dasyus you protected Kutsa's darling,
+
+##### विशेषविषयगळु (Special Topics)
+
+This sūkta was seen by the sage Sumitra or Durmitra, a son of Kutsa. Sumitra means "good friend"; Durmitra means "bad friend". One of these two names may be his real name, and the other may have become famous in accordance with his nature; that is, his own quality is the reason he got this name. In the first half of this last Ṛk the words इत्यास्तत् (*ityāstat*) are read twice. **NOTE**. In the second half the words "at the slaughter of the Dasyus, Kutsa's son (darling)" are likewise read as a repetition. In the first half the seer has stated both names, Sumitra and Durmitra, which were in use for him. The commentator explains that the Ṛk has the repetition for the sake of rhyme and for the completion of the sūkta.
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरनैदिकमार्गप्रवर्तकश्रिवीरबुक्कमहीपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्येष्टमाष्टके पंचमोध्यायः समाप्तः ॥ (*iti śrīmadrājādhirājaparameśvaranaidikamārgapravartakaśrivīrabukkamahīpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣyeṣṭamāṣṭake paṃcamodhyāyaḥ samāptaḥ ‖*) ओं तत्त्वत् (*oṃ tattvat*)
+
+Here ends the fifth chapter in the eighth aṣṭaka of the Ṛgveda Saṃhitā, with Śrī Sāyaṇa's commentary and a Kannada translation. May it be auspicious. Blessings.
+
+Śrī. Salutation to Śrī Mahāgaṇādhipati.
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत्॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet‖*)
+
+अष्टमे पंचमाध्यायं व्याख्याय श्रुतिकोविदः । सायणार्यस्ततोध्यायं षष्ठं च व्याचिकीर्षति ॥ (*aṣṭame paṃcamādhyāyaṃ vyākhyāya śrutikovidaḥ | sāyaṇāryastatodhyāyaṃ ṣaṣṭhaṃ ca vyācikīrṣati ‖*)
+
+Ṛgveda Saṃhitā with Sāyaṇa's commentary, Part 30. The sixth chapter in the eighth aṣṭaka. The sūktas of the tenth maṇḍala.
+
+## Sūkta 106 (Maṇḍala 10)
+
+Introduction. The seer of this sūkta is Bhūtāṃśa, of the Kaśyapa line. Because he had no children he praised the Aśvin deities. In the Bṛhaddevatā this is said about this seer:
+
+भूतांशस्तु प्रजाकामः कर्माणि कृतवान्पुरा । न हि लेभे प्रजाः काश्चित्काश्यपो मुनिसत्तमः ॥ (*bhūtāṃśastu prajākāmaḥ karmāṇi kṛtavānpurā | na hi lebhe prajāḥ kāścitkāśyapo munisattamaḥ ‖*) (Bṛ. De. 8-18)
+
+### Printed p. 244
+
+In former times the seer Bhūtāṃśa of the Kaśyapa line, desiring to have children, performed many rites such as sacrifices. Yet this best of seers got no children.
+
+उवाच भार्या भूतांशं सुतानिच्छसि यावतः । तावतो जनयिष्यामि देवता द्वंद्वशः स्तुहि ॥ (*uvāca bhāryā bhūtāṃśaṃ sutānicchasi yāvataḥ | tāvato janayiṣyāmi devatā dvaṃdvaśaḥ stuhi ‖*) (Bṛ. De. 8-19)
+
+Then his wife said to the seer Bhūtāṃśa: "O best of seers, as many children as you wish, so many I shall bear. Therefore, to obtain children, praise the deities together, two by two."
+
+तमभ्ययुस्तु सर्वाणि द्वंद्वानि स्तुतिकाम्यया । तान्यवेक्ष्याथ तच्चक्रे नासत्यौ सूक्तभागिन् ॥ (*tamabhyayustu sarvāṇi dvaṃdvāni stutikāmyayā | tānyavekṣyātha taccakre nāsatyau sūktabhāgin ‖*) (Bṛ. De. 8-20)
+
+Knowing this, all the deities who exist in pairs came to him, desiring to be praised. The seer, looking at those paired deities, praised them in this sūkta (the 106th). But the chief deities of this sūkta are the Aśvins.
+
+तदेतदंततो भावादाश्विनं सूक्तमुच्यते । न ह्यस्मिन्देवतालिंगं प्रागन्याद्दृश्यते पदात् ॥ (*tadetadaṃtato bhāvādāśvinaṃ sūktamucyate | na hyasmindevatāliṃgaṃ prāganyāddṛśyate padāt ‖*) (Bṛ. De. 8-21)
+
+In this 106th sūkta it is not made clear until the end which deity is praised. The deity cannot be determined from characteristics such as names in the sūkta. Since the word अश्विनोः (*aśvinoḥ*) is used in the last pāda of the last Ṛk (11) of the sūkta, it has to be said that the Aśvins are chiefly praised in this sūkta. In this sūkta there are words that are especially out of use, difficult and of obscure meaning. In every sentence the subject is set forth by means of an upamāna (illustration).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्रोभा उ नूनुमित्येकादशर्चमाद्यं सूक्तं । अनुवाकापेक्षया सप्तमं
+> सूक्तं । त्रैष्टुभमश्विदैवत्यं । कश्यपपुत्रो भूतांशो नामर्षिः । तथा चानुक्रम्यते । उभौ भूतांशः काश्यप आश्विनमिति ॥ अप्पोर्यामेऽच्छावाकातिरिक्कोक्ष्य
+> एतत्तूक्तं । सूत्रितं च । उभा उ नूनं दैन्व्या होतारा प्रथमा पुरोहितेति
+> परिधानीया । आ. ९-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+Of these sūktas, the first, उभा उ नूनं (*ubhā u nūnaṃ*), has eleven Ṛks; counted by anuvāka it is the seventh sūkta. It is in the Triṣṭubh metre and its deity is the Aśvins. The seer is Bhūtāṃśa, a son of Kaśyapa. So the Anukramaṇī says: उभौ भूतांशः काश्यप आश्विनं (*ubhau bhūtāṃśaḥ kāśyapa āśvinaṃ*). In the Aptoryāma this sūkta is recited among the Atirikta-ukthya verses of the Acchāvāka. It is also given in the sūtra: उभा उ नूनं दैन्व्या होतारा प्रथमा पुरोहितेति परिधानीया (*ubhā u nūnaṃ dainvyā hotārā prathamā purohiteti paridhānīyā*) (Ā. 9-11). **NOTE**
+
+### Printed p. 245
+
+##### Anuvāda
+
+Although the sūkta उभा उ नूनं (*ubhā u nūnaṃ*) is the first in this chapter, it is the seventh sūkta in the ninth anuvāka of the tenth maṇḍala. It has eleven Ṛks. The seer of this sūkta is Bhūtāṃśa, son of Kaśyapa; the deity is the Aśvins; the metre is Triṣṭubh. In the Anukramaṇī it is said: उभौ भूतांशः काश्यप आश्विनं (*ubhau bhūtāṃśaḥ kāśyapa āśvinaṃ*). It is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, उभा उ नूनं दैव्या होतारा प्रथमा पुरोहितेति परिधानीया (*ubhā u nūnaṃ daivyā hotārā prathamā purohiteti paridhānīyā*) (Ā. 9-11), that this sūkta is to be recited by the priest called Acchāvāka among the Atirikta-ukthya mantras in the Aptoryāma.
+
+Sūkta 106. Maṇḍala 10. Anuvāka 9. Sūkta 186. **NOTE**
+Aṣṭaka 8. Adhyāya 6. Varga 1, 2.
+Number of Ṛks in the sūkta: 11.
+Seer: Bhūtāṃśa Kāśyapa.
+Deity: Aśvins.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भा उ॑ नू॒नं तदिद॑र्थयेथे॒ वि त॑न्वाथे॒ धियो॒ वस्त्रा॒पसे॑व ।  
+> स॒ध्री॒ची॒ना यात॑वे॒ प्रेम॑जीगः सु॒दिने॑व॒ पृक्ष॒ आ तं॑सयेथे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभौ । ऊं इति । नूनं । तत् । इत् । अर्थयेथे इति । वि । तन्नाथे इति । धियः ।  
+> वस्त्रा । अपसा इव ।  
+> सध्रीचीना । यातवे । प्र । ईं । अजीगरिति । सुदिनाइव । पृक्षः । आ । तंसयेथे  
+> इति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनावुभौ युवां नूनमिदानीं तदिदस्माभिर्दीयमानं हविः क्रियमाणं स्तोत्रमेवार्थयेथे । प्रार्थयथः ॥ अर्थ याज्ञायां चौरादिकः
+
+> अनुदात्तेत् । उः पूरणः ॥ संप्रार्थ्य च धियः कर्माणि स्तुतीर्वा वि तन्वाथे !
+> विस्तारयथः ॥ तनु विस्तारे तानादिकः ॥ तत्र दृष्टांतः । अपसेवापस्विनौ कुविंदौ
+> यथा वस्त्रा वस्त्राणि विस्तारयतः ॥ अपःशब्दान्मत्वर्थियो विनिः । तस्य बहुलं
+> छंदसीति लुक् । प्रातिपदिकस्वरेणांतोदात्तः । उभयत्र सुप आकारः !! ईमयं
+> यजमानः सध्रीचीना सध्रीचीनौ सहांचनौ युवां ॥ सहपूर्वादंचतेः क्विनि सहस्य
+> सध्रिरिति सध्रादेशः । विभाषांचेरदिक् स्त्रीयामिति खः । सुप आजादेशः ॥ तौ यातवे॥
+> तुमर्थे तनेन्तृयः ॥ अभिमतप्राप्त्यर्थं प्राजीगः । प्रकर्षेण स्तौति । यद्वा ।
+> युवां प्रति स्तुतीरुद्दिरति ॥ गृ शब्दे । गृ निगरणे वा । एताभ्यां लुजि बहुलं
+> छंदसीति विकरणस्य श्लुः । बहुलं छंदसीत्यभ्यासस्यॆत्वं । दीर्घश्चांदसः । गुणे
+> कृते हल् ज्यादिना तिपो लोपः ॥ किंच सुदिनेव सुदिनेष्टन्नानि : यथालंकुर्वंति ।
+> यद्वा! सुदिना सुदिन् । अहोरात्रयोः प्रवर्तकत्वेन तद्वंतौ सूर्याचंद्रमसौ
+> स्वरश्मिभिर्यथान्यलंकुरुतः । तद्विद्युवां पृक्षः । अन्ननामैतत् । भोक्तृभिः
+> संपृच्यंत इति वृक्षोऽन्नानि । आ तंसयेथे । समंतादलंकुरुथः ॥ तसि भूष
+> अलंकारे चौरादिकः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, both of you, now you ask for this oblation being given by us, or this praise being made. अर्थयेथे (*arthayethe*) means "you pray"; the root अर्थ (*artha*) is in the sense of asking and belongs to the Curādi class.
+
+### Printed p. 246
+
+##### Gist of the bhāṣya
+
+Having prayed, you spread out the धियः (*dhiyaḥ*), the rites or the praises; तनु (*tanu*) is in the sense of spreading, of the Tanādi class. The illustration: as two weavers (*apasvinau kuviṃdau*) spread out cloths. This sacrificer, as you two go together (सध्रीचीना (*sadhrīcīnā*), "going along together"), praises you forth to obtain what he desires, that you may come; or else he raises praises towards you. Further: as on good days (सुदिनेव (*sudineva*)) people adorn their foods; or else, सुदिना (*sudinā*) are the sun and moon, who, as the makers of day and night, adorn with their own rays. In the same way you adorn पृक्षः (*pṛkṣaḥ*); this is a name for food, which is "mixed" by those who eat it, so the foods. आ तंसयेथे (*ā taṃsayethe*): you adorn all round; the root तसि (*tasi*) is in the sense of adorning, of the Curādi class.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै अश्विनीदेवतॆगळे (*èlai aśvinīdevatègaḷe*))—O Aśvins
+- उभौ (*ubhau*)—both of you
+- नूनं (*nūnaṃ*)—now
+- तदित् (*tadit*)—the praises or the oblation offered by us
+- अर्थयेथे (*arthayethe*)—you desire
+- वस्त्रा (*vastrā*)—cloths
+- अपसेव (*apaseva*)—as two weavers spread out cloths
+- धियः (*dhiyaḥ*)—our rites
+- वि तन्नाथे (*vi tannāthe*)—you cause them to spread
+- ईं (*īṃ*)—this sacrificer
+- सध्रीचीना (*sadhrīcīnā*)—you who are gathered together
+- यातने (*yātane*)—for the attainment of his desired object **NOTE**
+- प्र अजीगः (*pra ajīgaḥ*)—prays and praises
+- सुदिनेव (*sudineva*)—like the sun and moon, the excellent makers of the day
+- पृक्षः (*pṛkṣaḥ*)—food
+- आ तंसयेथे (*ā taṃsayethe*)—you adorn all round
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, both of you now desire the oblation or the praise offered by us. As two weavers spread out cloths, you cause our rites to be spread out. This sacrificer prays to you, who are gathered together, and praises you for the attainment of his desired object. Like the sun and moon, the excellent makers of the day, you adorn the food all round.
+
+##### English translation
+You both demand the oblation (Aswins), you spread out the ceremonials as two weavers (stretch) cloths; (the institutor of the rite) praised you
+
 ---
 
-**Progress note:** Done through printed p. 238. pp. 232-238 (batch API)
+**Progress note:** Done through printed p. 246. pp. 239-246 (batch API)
