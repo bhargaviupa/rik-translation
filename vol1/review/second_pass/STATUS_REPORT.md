@@ -5,7 +5,7 @@
 - **Stage:** S2 reading in page batches
 - **Pages read:** 489 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489)
 - **Findings:** 1437 — applied 1221, questions 216; edits ok 1226, failed 0
-- **Reader tokens (batches so far):** 4612k; per page 9.4k
+- **Reader tokens (batches so far):** 4861k; per page 9.9k
 - **Last commit:** 818ab07
 
 ## 2. Batches
@@ -27,7 +27,7 @@
 | 14 | 370–399 | 18 | 16 | 16 / 0 | 2 | 264k | 19d3a27 | 16 edits (5 S14, 4 S13, S1, S2, S3, S15, S16, S17); Bhāṣya-bhūmikā pages, mostly Sanskrit passages that are not edited; Śābara's view reversed on p. 386 and the number of priests on p. 379 corrected; English has no section for printed pp. 372–373 (open.tsv: needs a translation); 23 kn_misprints rows |
 | 15 | 400–429 | 20 | 17 | 17 / 0 | 3 | 207k | 6c37c14 | 17 edits (11 S13 names/terms, S1, S14, S15, 2 S16, S17); mostly Sanskrit blocks with the Kannada's anuvāda, little English prose to correct; pp. 409, 422, 428 have no mark in the Kannada book but their text and the English sections line up; a Kannada paragraph on p. 422 (Pūrva-Mīmāṃsā 10-8) is missing from the English (not added) |
 | 16 | 430–459 | 29 | 21 | 21 / 0 | 8 | 248k | 844066c | 21 edits (9 S13 names/terms, 5 numbers S1/S3, roles reversed on p. 439, 2 S16, 2 inline S7); English has no section for printed p. 447 (Aditi example, Tai. Saṃ. 6-1-5): not added (open.tsv); stray numbers 58/59/60 at the end of Kannada pp. 437, 445, 453; Tai. Brā. '1-14' on p. 449 applied as printed |
-| 17 | 460–489 | 18 | 18 | 18 / 0 | 0 | TOK16 | 818ab07 | 18 edits (6 S13 names, 5 S14 incl. Babara/Kusurubinda roles reversed on p. 468, 5 S16, 2 S1); Sanskrit out of scope (no sp_sanskrit, no conversion); p. 473 text sits inside the p. 472 block (matches English Page 473) |
+| 17 | 460–489 | 18 | 18 | 18 / 0 | 0 | 249k | 818ab07 | 18 edits (6 S13 names, 5 S14 incl. Babara/Kusurubinda roles reversed on p. 468, 5 S16, 2 S1); Sanskrit out of scope (no sp_sanskrit, no conversion); p. 473 text sits inside the p. 472 block (matches English Page 473) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
