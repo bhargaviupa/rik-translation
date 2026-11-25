@@ -22173,6 +22173,264 @@ May all the men who belong to us be (gratified) in all that is desirable, augmen
 > कृष्णः । श्वेतः । अरुषः । यामः । अस्य । ब्रध्नः । यज्रः । उत । शोणः । यशस्वान् ।  
 > हिरण्यरूपं । जनिता । जजान ॥ ९ ॥
 
+### Printed p. 644
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र यच्छब्दमध्याहृत्य योज्यं । यामः । याति गच्छत्यस्मिन्निति यामो
+> रथः प्रजापतिना निर्मितः । कीदृशः । कृष्णोऽसितवर्णः श्वेतः सितवर्णोरुऽष
+> आरोचमानो ब्रध्नो महानृज ऋजुगाम्युतापि च शोणो रक्तवर्णो यशस्वान्कीर्तिमान् । यद्वा । यश इति धननाम । हविर्लक्षणेन धनेन युक्तः । हिरण्यरूपं सुवर्णसदृशं तं रथमस्याग्नेरर्थाय जनिता सर्वस्य जगतो जनयिता
+> प्रजापतिर्जजान । जनयामास । अस्मै दत्तवानित्यर्थः । कथमेकस्यॆव रथस्य कृष्णादिनानारूपत्वं संभवतीति चेत् अग्नेः सामर्थ्यतिशयेन संभवतीत्यर्थः । यद्वा ।
+> हिरण्यरूपमिति रथवाचिना शब्देन सह सामानाधिकरण्यात्कृष्णादिशब्दा द्वितीयांतॆ_
+> त्वेन योज्याः । अत्र सर्वगुणोक्तरथवत्तयाग्निः स्तूयत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says the relative word यत् (*yat*) is to be supplied and construed here. यामः (*yāmaḥ*) is the chariot in which one goes, created by Prajāpati. Of what kind? कृष्णः (*kṛṣṇaḥ*) is dark-coloured, श्वेतः (*śvetaḥ*) white, अरुषः (*aruṣaḥ*) shining, ब्रध्नः (*bradhnaḥ*) great, ऋज्रः (*ṛjraḥ*) going straight, शोणः (*śoṇaḥ*) red, and यशस्वान् (*yaśasvān*) famous. Or else *yaśaḥ* is a name for wealth: it is endowed with wealth in the form of oblations. Prajāpati, the begetter of the whole world, produced (जजान (*jajāna*)) for this Agni that chariot, gold-like in form; that is, he gave it to him. If it is asked how one chariot can have the various forms black and so on, the answer is that it is possible through Agni's surpassing power. Or else, because of their agreement in case with the chariot-denoting word हिरण्यरूपं (*hiraṇyarūpaṃ*), the words "black" and so on are to be construed as in the accusative. The sense is that Agni is here praised as possessing a chariot with all these qualities.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यशस्वान् (*yaśasvān*)—very famous
+- यामः (*yāmaḥ*)—the chariot of this Agni
+- कृष्णः (*kṛṣṇaḥ*)—black-coloured
+- श्वेतः (*śvetaḥ*)—white-coloured
+- अरुषः (*aruṣaḥ*)—golden-hued
+- ब्रध्नः (*bradhnaḥ*)—great
+- ऋज्रः (*ṛjraḥ*)—going straight
+- उत (*uta*)—and
+- शोणः (*śoṇaḥ*)—red-coloured, it is
+- अस्य (*asya*)—of this Agni
+- हिरण्यरूपं (*hiraṇyarūpaṃ*)—the chariot of golden form
+- जनिता (*janitā*)—Prajāpati, the begetter of all
+- जजान (*jajāna*)—produced
+
+##### भावार्थ (Bhāvārtha)
+
+The chariot of this very famous Agni is black, white, golden-hued, great, going straight, and red. The begetter of all, Prajāpati, produced this golden chariot of Agni.
+
+##### English translation
+His chariot is black, white red, tawny, dark red, crimson, and glorious; the progenitor of all has given him a chariot of Gold.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा ते॑ अग्ने विम॒दो म॑नी॒षामूर्जो॑ नपाद॒मृते॑भिः  ॒॑
+> सजोषाः ।  
+> गिर॒ आ व॑क्षत्सुम॒तीरि॑या॒न इष॒मूर्जं॑ सुक्षि॒तिं विश्व॒माभाः॑ ॥
+
+### Printed p. 645
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । ते । अग्ने । विमदः । मनीषां । ऊर्जः । नपात् । अमृतेभिः । सजोषाः ।  
+> गिरः । आ । वक्षत् । सुमतीः । इयानः । इषं । ऊर्जं । सुक्षितिं । विश्वं । आ ।  
+> अभारित्यभाः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवमुक्तप्रकारेण हे उर्जो नपादोषधिवनस्पतिपितृभूतस्यान्नस्य पौत्र
+> हे अग्ने अमृतेभिरमृतैर्हविलक्षणैरन्नॆः सजोषाः संगतो विमदो नामर्षिर्मनीषां प्रकृष्टां बुद्धिं कामयमानः संस्थे तुभ्यं गिरः स्तुतिलक्षणा वाच आ
+> वक्षत् । अभिमुख्येनोक्तवान् ॥ वक्तेश्छंदसि लेटि रूपं ॥ ततस्त्वमेतज्ञा त्वा
+> सुमतीरियानः शोभनलक्षणा बुद्धिः संगमयन्निषमन्नमूर्जं क्षीरादिकं रसं च
+> सुक्षितिं शोभननिवासं । यद्वा । क्षितयो मनुष्याः । शोभनपुत्रपौत्रादिकं ।
+> यत्किंचिद्देयमस्ति तद्विश्वं धनं चाभाः । तस्मै विमदायाहर । देहि ॥
+
+##### Gist of the bhāṣya
+
+In the manner stated, O Agni, grandson of strength (ऊर्जो नपात् (*ūrjo napāt*)), that is, grandson of the food that is plants, trees and ancestors: united with the immortal foods, the oblations, the seer named Vimada, desiring मनीषां (*manīṣāṃ*), excellent understanding, has addressed to you speech in the form of praise; आ वक्षत् (*ā vakṣat*) means he has spoken facing you, a Leṭ form of the root *vac* in the Veda. Therefore you, knowing this and bringing about सुमतीः (*sumatīḥ*), good understanding, convey to him food (इषं (*iṣaṃ*)), strength (ऊर्जं (*ūrjaṃ*)), that is, milk and other juice, and सुक्षितिं (*sukṣitiṃ*), a good dwelling. Or else क्षितयो (*kṣitayo*) are men: good sons, grandsons and the like. Whatever is to be given, all that, and wealth, bring (आभाः (*ābhāḥ*)) to that Vimada; give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जो नपात् (*ūrjo napāt*)—grandson of food
+- अग्ने (*agne*)—O Agni
+- अमृतेभिः (*amṛtebhiḥ*)—with foods in the form of oblations
+- सजोषाः (*sajoṣāḥ*)—united
+- विमदः (*vimadaḥ*)—the seer named Vimada
+- मनीषां (*manīṣāṃ*)—desiring discernment
+- ते (*te*)—addressing you
+- गिरः (*giraḥ*)—speech in the form of praise
+- आ वक्षत् (*ā vakṣat*)—recites and offers
+- सुमतीरियानः (*sumatīriyānaḥ*)—you who bring about excellent knowledge
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—milk and the like
+- सुक्षितिं (*sukṣitiṃ*)—excellent dwellings
+- विश्वं (*viśvaṃ*)—all wealth
+- आभाः (*ābhāḥ*)—bring to him
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, grandson of food, the seer Vimada, united with foods in the form of oblations and desiring discernment, recites and offers to you speech in the form of praise. You who bring about excellent knowledge, bring to him food, milk and the like, excellent dwellings and all wealth.
+
+##### English translation
+Grandson of strength, Agni, who are gratified by the ambrosial (viands), Vimada, (desirous of) wisdom, has recited your praises; do you, approaching with a kind intention, bestow upon us food, strength, and a prosperous abode.
+
+### Printed p. 646
+## Sūkta 21 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं नेत्यष्टर्चं पंचमं सूक्तमास्तारपंक्तिच्छंदस्कं । आद्यौ गायत्रा
+> पादौ ततो द्वौ जागत् सास्तारपंक्तिः । ऋषिदेवते पूर्ववत् । तथा चानुक्रांतं ।
+> अग्निं नाष्टावास्तारपांक्तमिति ॥ पृष्ठस्य चतुर्थेऽहन्याग्निं न स्वव्यक्तिभिरित्याज्यं ।
+> आ. ७-११ । इति ॥ महाव्रत अग्निमारुते यावतीष्त्वक्ष्विळांदं साम स्तुवीरन्
+> तदानीमादितस्तावत्य ऋचोऽनुरूपार्थाः । सूत्रितं च । यदीळांदं भूयसीषु
+> चेत् स्तुवीरन्नाग्निं न स्वव्यक्तिभिरिति तावतीरनुरूपः । ऐ. आ. ५-३-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अग्निं न (*agniṃ na*) has eight Ṛks and is the fifth sūkta; its metre is Āstārapaṅkti. The first two pādas are Gāyatra, then two are Jagatī; that is Āstārapaṅkti. Seer and deity as before. The Anukramaṇī says: अग्निं नाष्टावास्तारपांक्तमिति (*agniṃ nāṣṭāvāstārapāṃktamiti*). On the fourth day of the Pṛṣṭha rite it is the Ājya (hymn): *agniṃ na svavyaktibhirityājyaṃ* (Ā. 7-11). In the Mahāvrata, when at the Agnimāruta the Sāman called Iḷānda is chanted, the Ṛks from the beginning, as many as there are, serve as Anurūpa verses. It is stated in the sūtra: यदीळांदं भूयसीषु चेत् स्तुवीरन्नाग्निं न स्वव्यक्तिभिरिति तावतीरनुरूपः (*yadīḷāṃdaṃ bhūyasīṣu cet stuvīrannāgniṃ na svavyaktibhiriti tāvatīranurūpaḥ*) (Ai. Ā. 5-3-2).
+
+##### Anuvāda
+
+This sūkta beginning आग्निं न (*āgniṃ na*) is the fifth sūkta in the second anuvāka. It has eight Ṛks. Its seer and deity are the same as in the preceding sūkta. Its metre is Āstārapaṅkti: if in a Ṛk the first two pādas are like the Gāyatrī metre and the remaining two like the Jagatī metre, that Ṛk is Āstārapaṅkti. The Anukramaṇī's statement आग्निं नाष्टावास्तारपांक्तं (*āgniṃ nāṣṭāvāstārapāṃktaṃ*) is explained by Āśvalāyana's Śrauta Sūtra आग्निं न स्वव्यक्तिभिरित्याज्यं (*āgniṃ na svavyaktibhirityājyaṃ*) (Ā. 7-11): this sūkta is to be recited for the Ājyaśastra mantras on the fourth day of the Pṛṣṭha sacrifice. When the Āgnimāruta śastra mantras are recited in the Mahāvrata rite, praise is to be made with the Sāman mantra called Iḷānda; then the mantras of this sūkta are to be recited at the beginning as Anurūpa mantras, as explained by the Aitareya Āraṇyaka sentence यदीळांदं भूयसीषु चेत् स्तुवीरन्नाग्निं न स्वव्यक्तिभिरिति तावतीरनुरूपः (*yadīḷāṃdaṃ bhūyasīṣu cet stuvīrannāgniṃ na svavyaktibhiriti tāvatīranurūpaḥ*) (Ai. Ā. 5-3-2).
+
+Sūkta 21. Maṇḍala 10; Anuvāka 2; Sūkta 21; Aṣṭaka 7; Adhyāya 7; Vargas 4, 5. Number of Ṛks in the sūkta: 8. Ṛṣi: Vimada Aindra, or Prājāpatya, or Vasukṛt Vāsukra. Devatā: Agni. Metre: Āstārapaṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग्निं न स्ववृ॑क्तिभि॒र्होता॑रं त्वा वृणीमहे ।  
+> य॒ज्ञाय॑ स्ती॒र्णब॑र्हिषे॒ वि वो॒ मदे॑ शी॒रं पा॑व॒कशो॑चिषं॒  ॑
+> विवक्षसे ॥ १ ॥
+
+### Printed p. 647
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अग्निं । न । स्ववृक्तिभिः । होतारं । त्वा । वृणीमहे ।  
+> यज्ञाय । स्तीर्णबर्हिषे । वि । वः । मदे । शीरं । पावकशोचिषं । विवक्षसे ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वस्तव स्वभूते विमद एतदाख्य ऋषौ मयियायं स्तुतिः प्रवृत्तास्ति ।
+> नेति संप्रत्यर्थे । आतो वयमिदानीं स्वव्यक्तिभिः स्वयंकृताभिर्दोषवर्जिताभिः
+> स्तुतिभिर्होतारं देवानामाह्वातारं होमनिष्पादकं वाग्निं त्वा त्वामा वृणीमहे । अभिमुख्येन संभजामहे । किमर्थं । स्तीर्णबर्हिषे यज्ञाय ॥ तादर्थ्ये
+> चतुर्थी ॥ यज्ञार्थं । कीदृशं । शीरमोषध्यादिशु सर्वत्रानुशायिनं पावकशोचिषं शोधकदीप्तिं । विवक्षसे । महन्नामैतत् । हे अग्ने त्वमपि महान्भवसि ।
+> यद्वा । विमदे यज्ञस्य संबंधिनः सोमस्य पानजन्यविविधमदार्थं त्वामावृणीमह इति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in me, the seer named Vimada, who belong to you, this praise has arisen. न (*na*) is in the sense of "now". Therefore we now invoke (आ वृणीमहे (*ā vṛṇīmahe*)) you, the Hotṛ, the summoner of the gods or the accomplisher of the offering, Agni, with our own faultless praises, स्वव्यक्तिभिः (*svavyaktibhiḥ*) made by ourselves, facing you. For what? For the sacrifice with strewn sacred grass (स्तीर्णबर्हिषे (*stīrṇabarhiṣe*)), the dative being of purpose. Of what kind is he? शीरं (*śīraṃ*), lying within plants and the like everywhere; पावकशोचिषं (*pāvakaśociṣaṃ*), with purifying brilliance. विवक्षसे (*vivakṣase*) is a name meaning "great": you, Agni, too are great. Or else: we invoke you for the manifold exhilaration (विमदे (*vimade*)) arising from drinking the Soma belonging to the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni,) वः (*vaḥ*)—belonging to you
+- विमदे (*vimade*)—in me, named Vimada, praise has arisen
+- होतारं (*hotāraṃ*)—who calls the gods
+- शीरं (*śīraṃ*)—who lies hidden in plants and the like
+- पावकशोचिषं (*pāvakaśociṣaṃ*)—who has purifying radiance
+- अग्निं त्वा (*agniṃ tvā*)—you
+- स्तीर्णबर्हिषे (*stīrṇabarhiṣe*)—where the seat of darbha grass is spread and ready
+- यज्ञाय (*yajñāya*)—for the conduct of the sacrifice
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with excellent praises
+- आ वृणीमहे (*ā vṛṇīmahe*)—we worship and call
+- विवक्षसे (*vivakṣase*)—(O Agni) you are great
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in me, Vimada, who belong to you, praise has arisen. You who call the gods, who lie hidden in plants and the like, and who have purifying radiance, we worship and call with excellent praises for the conduct of the sacrifice at which the darbha seat is spread. O Agni, you are great.
+
+##### English translation
+We invoke you now, Agni, invoker (of the gods), with our voluntary (praises) for the sacrifice, at which the sacredgrass is spread; you, who underlie (all things), who (diffuse) purifying radiance, (we invoke) for your exhilaration ; you are mighty.
+
+### Printed p. 648
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामु॒ ते स्वा॒भुवः॑ शुं॒भंत्यश्व॑राधसः ।  
+> वेति॒ त्वामु॑प॒सेच॑नी॒ वि वो॒ मद॒ ऋजी॑तिरग्न॒ आहु॑ति॒र्विव॑क्षसे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । ऊं इति । ते । सुआभुवः । शुंभंति । अश्वराधसः ।  
+> वेति । त्वां । उपसेचनी । वि । वः । मदे । ऋजीतिः । अग्ने । आहुतिः । विवक्षसे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वाभुवः स्वप्रकाशेन दीप्यमाना अश्वराधसो व्याप्तधनास्ते यजमाना हे
+> अग्ने त्वामु त्वामेव शुंभंति । शोभयंति । यज्ञे हविर्भिर्दिर्पयंतीत्यर्थः ।
+> किंचोपसेचनी तवोपरिक्षरणशीलर्जितिऋजुगामिनी हूयमानाहुतिर्हे अग्ने
+> त्वां वेति । गच्छति । किमर्थं । वस्तव मदे मदनिमित्ते । तृप्त्यर्थमित्यर्थः । किंच
+> त्वमपि विवक्षसे । महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers, self-radiant (स्वाभुवः (*svābhuvaḥ*)) and possessed of pervasive wealth (अश्वराधसः (*aśvarādhasaḥ*)), adorn you alone, O Agni (शुंभंति (*śuṃbhaṃti*)); that is, they make you shine with oblations at the sacrifice. Further, the उपसेचनी (*upasecanī*), the oblation being offered, which tends to flow over you and goes straight, goes (वेति (*veti*)) to you, O Agni. For what? For मदे (*made*), for exhilaration, that is, for satisfaction. And you too are विवक्षसे (*vivakṣase*): you are great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni,) स्वाभुवः (*svābhuvaḥ*)—self-radiant
+- अश्वराधसः (*aśvarādhasaḥ*)—possessing pervasive wealth
+- ते (*te*)—the sacrificers
+- त्वां उ (*tvāṃ u*)—you alone
+- शुंभंति (*śuṃbhaṃti*)—adorn
+- अग्ने (*agne*)—O Agni
+- उपसेचनी (*upasecanī*)—that which is offered over you
+- ऋजीतिः (*ṛjītiḥ*)—going straight
+- आहुतिः (*āhutiḥ*)—the oblation
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—for special satisfaction
+- त्वां (*tvāṃ*)—you
+- वेति (*veti*)—approaches
+- विवक्षसे (*vivakṣase*)—you are great
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers, self-radiant and possessed of pervasive wealth, adorn you alone. O Agni, the oblation poured over you, going straight, approaches you for your special satisfaction. O Agni, you are great.
+
+##### English translation
+Self-radiant, opulent in horses, they glorify you; the oblation poured out over (you) proceeds in a straight course, Agni, to you for your exhilaration ; you are mighty.
+
+### Printed p. 649
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे ध॒र्माण॑ आसते जु॒हूभिः॑ सिंच॒तीरि॑व ।  
+> कृ॒ष्णा रू॒पाण्यर्जु॑नां॒ वि वो॒ मदे॒ विश्वा॒ अधि॒ श्रियो॑ धिषे॒  ॑
+> विवक्षसे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । धर्माणः । आसते । जुहूभिः । सिंचतीः इव ।  
+> कृष्णा । रूपाणि । अर्जुना । वि । वः ! मदे । विश्वाः । अधि । श्रियः । धिषे । विवक्षसे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धर्माणो यज्ञस्य धारयितार ऋत्विजो जुहूभिः संपूर्णाहुतिभिर्होमपात्रैस्वै त्वामेवासते । सेवंते । तत्र दृष्टांतः । सिंचतीरिव वृष्टिलक्षणाः
+> पृथिवीं सिंचंत्य आप अग्निं यथा स्वपितृत्वेन सेवंते तद्वत् । अग्नेरास इति श्रुतेस्तस्यापां पितृत्वं । यद्वा । जुहूभिः सिंचतीरिव सिच्यमाना आहुतय इव धर्माणस्त्वया धार्यमाणा रश्मयस्त्वै त्वय्यासते । निवसंति । हे अग्ने त्वं कृष्णा
+> कृष्णवर्णान्यर्जुनार्जुनानि श्वेतवर्णानि ज्वालांतर्गतरूपाणि च विश्वाः सर्वाः
+> श्रियः शोभा अधि धिषे । अधिकं यथा भवति तथा धारयसि । किमर्थं । वो
+> युष्माकं सर्वॆषां देवानां विमदे विविधसोमपानजन्यमदार्थं । यत
+> एवमतो विवक्षसे । त्वं महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+The धर्माणः (*dharmāṇaḥ*), the Ṛtviks who uphold the sacrifice, attend (आसते (*āsate*)) you alone with ladles (जुहूभिः (*juhūbhiḥ*)), the offering vessels filled with oblations. An illustration: सिंचतीरिव (*siṃcatīriva*), as the waters in the form of rain, sprinkling the earth, serve Agni as their father; that Agni is the father of the waters is known from the Śruti अग्नेरास (*agnerāsa*). Or else: like oblations being sprinkled with the ladles, the rays, upheld by you, dwell in you. O Agni, you hold more and more (अधि धिषे (*adhi dhiṣe*)) all splendours (श्रियः (*śriyaḥ*)): the black forms and the white (अर्जुना (*arjunā*)) forms, those seen within the flame. For what? For the manifold exhilaration of you, all the gods, arising from drinking Soma. Because this is so, you are विवक्षसे (*vivakṣase*), great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni,) सिंचतीरिव (*siṃcatīriva*)—as streams of rain sprinkle the earth
+- धर्माणः (*dharmāṇaḥ*)—the Ṛtviks, upholders of the sacrifice
+- जुहूभिः (*juhūbhiḥ*)—with their oblation vessels
+- त्वै (*tvai*)—you alone
+- आसते (*āsate*)—serve
+- त्वं (*tvaṃ*)—you
+- वः (*vaḥ*)—of you and the other gods
+- वि मदे (*vi made*)—for special satisfaction
+- कृष्णा (*kṛṣṇā*)—black
+- अर्जुना (*arjunā*)—white
+- रूपाणि (*rūpāṇi*)—forms
+- विश्वाः (*viśvāḥ*)—all
+- श्रियः (*śriyaḥ*)—splendours
+- अधि धिषे (*adhi dhiṣe*)—you possess
+- विनक्षसे (*vinakṣase*)—you are great **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 643. pp. 637-643 (batch API)
+**Progress note:** Done through printed p. 649. pp. 644-649 (batch API)
