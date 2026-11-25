@@ -49,7 +49,7 @@ In the Kṛṣṇa Yajurveda, after the words *vāyavaḥ stha* there stands the
 > *iṣe tvorje tvā vāyavaḥ stha devo vaḥ savitā punaḥ |*
 > *ṛgveda eka-mātras tu dvi-mātras tu yajuḥ smṛtaḥ ||20||*
 >
-> "Then again he thought of a syllable of two *mātrās* … [the second line, as printed, is unclear; the sense is not certain] … 'iṣe tvorje tvā vāyavaḥ stha devo vaḥ savitā punaḥ' — the Ṛgveda is of one *mātrā*; the Yajus is remembered as of two *mātrās*."
+> "Then again he thought of a syllable of two *mātrās* … [the sense is not certain] … 'iṣe tvorje tvā vāyavaḥ stha devo vaḥ savitā punaḥ' — the Ṛgveda is of one *mātrā*; the Yajus is remembered as of two *mātrās*."
 
 The Kannada comment: "The first mantra of the Śukla Yajurveda is declared to be the first mantra of the Yajurveda."
 
@@ -878,7 +878,7 @@ The Kāṇva-saṃhitā has 40 adhyāyas, 328 anuvākas and 2086 mantras. Their 
 | 4 | 44 | 359 |
 | **Total** | **328** | **2086** |
 
-*(Individual figures that are not fixed by a column total — for example the split between rows within a column — are as read from the enlarged slices; the column totals themselves are as printed.)*
+*(Individual figures that are not fixed by a column total — for example the split between rows within a column — are as read from the enlarged slices.)*
 
 ## The founders of the Kāṇva branch
 
@@ -938,7 +938,7 @@ It is known that those of the Kāṇva branch had some special connection with t
 > *imāś ca pañca-gotra-sthāḥ mukhyāḥ kāṇvīm upāśritāḥ |*
 > *śrī-pāñcarātra-tantrīye sarve 'smin mama karmaṇi ||116||*
 >
-> "The two, Aupagāyana and Kauśika, studying the Kāṇva branch, versed in the science of surrender (*prapatti*), each established in his own duty — let those born in their lineage worship me until the end of the aeon, together with the Pādma tantra called *Jaya*. In this matter the authority belongs to those two, the well-born; Śāṇḍilya, Bhāradvāja and the sage Mauñjāyana likewise: these five gotras, who are chiefly dependent on the Kāṇva [branch], [stand] in the Śrī-Pāñcarātra system, in all this my rite." (The verse numbers are given as printed: 109, 111, 115, 116; re-read on the 600 dpi scan.)
+> "The two, Aupagāyana and Kauśika, studying the Kāṇva branch, versed in the science of surrender (*prapatti*), each established in his own duty — let those born in their lineage worship me until the end of the aeon, together with the Pādma tantra called *Jaya*. In this matter the authority belongs to those two, the well-born; Śāṇḍilya, Bhāradvāja and the sage Mauñjāyana likewise: these five gotras, who are chiefly dependent on the Kāṇva [branch], [stand] in the Śrī-Pāñcarātra system, in all this my rite." (The verse numbers are given as printed: 109, 111, 115, 116.)
 
 ### Page 116
 
@@ -1032,7 +1032,7 @@ The numbers of the anuvākas, mantras, ṛks and yajus-mantras of the 40 adhyāy
 | 40 | 2 | 17 | 17 | 7 |
 | **Total** | **303** | **1975** | | |
 
-*(Table re-read on the 600 dpi scan in the [?] pass; rows 1–37 are on p. 117, rows 38–40 and the totals on p. 118. Bracketed figures are the print's variants. The anuvāka and mantra columns add up exactly to the printed totals 303 and 1975.)*
+*(Rows 1–37 are on p. 117, rows 38–40 and the totals on p. 118. Bracketed figures are the print's variants. The anuvāka and mantra columns add up exactly to the printed totals 303 and 1975.)*
 
 ### Page 118
 
@@ -1112,7 +1112,7 @@ In the Pūrvabhāga of the Brahmāṇḍa Purāṇa, chapter 35, verses 76–77,
 > *aṣṭau sahasrāṇi śatāni cāṣṭāśītir anyāny adhikaś ca pādaḥ |*
 > *etat pramāṇaṃ yajuṣām ṛcāṃ ca saśukriyaṃ sakhilaṃ yājñavalkyam ||*
 >
-> "In the Vājasaneyaka [Saṃhitā] the mantras are two thousand less a hundred [1900]; the group of ṛks is [thus] reckoned, and the Brāhmaṇa is four times as much. Eight thousand, [eight] hundred and eighty [8880], and one more *pāda*: this is the measure of the yajus-mantras and ṛks together, with the Śukriya and the Khila, of Yājñavalkya." (For *cāṣṭāśītir* the print reads चाष्टावशीतिर् (*cāṣṭāvaśītir*), as printed; the Kannada figure below is 8880.)
+> "In the Vājasaneyaka [Saṃhitā] the mantras are two thousand less a hundred [1900]; the group of ṛks is [thus] reckoned, and the Brāhmaṇa is four times as much. Eight thousand, [eight] hundred and eighty [8880], and one more *pāda*: this is the measure of the yajus-mantras and ṛks together, with the Śukriya and the Khila, of Yājñavalkya." (For *cāṣṭāśītir* the print reads चाष्टावशीतिर् (*cāṣṭāvaśītir*); the Kannada figure below is 8880.)
 
 In the Vājasaneya-saṃhitā there are 1900 ṛks, and four times as many Brāhmaṇa mantras. Or, taking ṛks, yajus-mantras and khila mantras all together, there are in all 8880 mantras and one *pāda*. This is the mantra-count found in the Yājñavalkya-saṃhitā.
 
@@ -1132,7 +1132,7 @@ One reading of the *Caraṇa-vyūha* is as follows:
 > *etat pramāṇaṃ yajuṣāṃ hi kevalaṃ sabālakhilyaṃ saśukriyaṃ ||*
 > *brāhmaṇaṃ ca caturguṇam ||*
 >
-> "In the Vājasaneyaka the mantras are two thousand less a hundred; the group of ṛks is reckoned, [and] likewise the other yajus-mantras. Eight [thousand], hundreds, [and] twenty-eight [8828], others, and an additional *pāda*: this is the measure of the yajus [portion] alone, with the Bālakhilya and the Śukriya. And the Brāhmaṇa is fourfold." (The verse is given as printed; its words are compressed; translation editorial and tentative, following the source's gloss below.)
+> "In the Vājasaneyaka the mantras are two thousand less a hundred; the group of ṛks is reckoned, [and] likewise the other yajus-mantras. Eight [thousand], hundreds, [and] twenty-eight [8828], others, and an additional *pāda*: this is the measure of the yajus [portion] alone, with the Bālakhilya and the Śukriya. And the Brāhmaṇa is fourfold." (Its words are compressed.)
 
 There is a slight difference between the reading of the *Caraṇa-vyūha* quoted above and the reading of the Purāṇa. According to the *Caraṇa-vyūha* there are in all 8820 and one *pāda* mantras in the Vājasaneya-saṃhitā.
 
@@ -1244,7 +1244,7 @@ According to the Purāṇas these 86 branches can be arranged in three main divi
 > *āliṃbir ādiḥ prācyānāṃ trayodeśyādayas tu te |*
 > *ity ete carakāḥ proktāḥ saṃhitāvādino dvijāḥ ||*
 
-(The Sanskrit is transcribed as printed; the second line's *yonoktāḥ*, the fifth line's *avame* and the seventh and ninth lines' *trayodeśyādayas* are doubtful in the print and are marked as read, not corrected. The bracketed "āsuriḥ? bra.pu." is the author's own variant note.)
+(The second line's *yonoktāḥ*, the fifth line's *avame* and the seventh and ninth lines' *trayodeśyādayas* are doubtful in the print and are marked as read, not corrected. The bracketed "āsuriḥ? bra.pu." is the author's own variant note.)
 
 Meaning: Vaiśampāyana had 86 pupils, and from them the Kṛṣṇa Yajurveda came to have 86 branches. Among these 86 branches there are three divisions: Udīcya (northern), Madhyadeśa (middle) and Prācya (eastern). For the Udīcya division Śyāmāyani was the chief, or founder; for the Madhyadeśa, Āruṇi or Āsuri, and for the Prācya division Āliṃbi and others were the founders.
 
@@ -1260,7 +1260,7 @@ Another passage on this subject has come to light in the Kāśikā-vṛtti (4-3-
 > *ṛcābhāruṇitāṃḍyāś ca madhyamīyās trayo 'pare ||*
 > *śyāmāyana udīcyeṣu uktaḥ kaṭhakalāpinau |*
 
-(Read as printed; *rakaḥ* and *kaṭhakalāpinau* are doubtful.)
+(*rakaḥ* and *kaṭhakalāpinau* are doubtful.)
 
 That is: among the branches of Caraka, or the Kṛṣṇa Yajurveda, in the eastern region the branches Āliṃbi, Palaṃga and Kamala; in the middle region the branches Ṛcābha, Āruṇi and Tāṇḍya; in the northern region the branches Śyāmāyana, Kaṭha and Kalāpa were the chief branches in currency.
 
@@ -1296,7 +1296,7 @@ In his bhāṣya on Yajurveda 7-23 and 25-27, the commentator Uvaṭa quotes som
 
 ### Page 125
 
-...are likewise quoted there as examples. Many authoritative passages of the Caraka-śrauta are found in the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra [as printed; the reference is doubtful]. In some places of the printed Kaṭha-saṃhitā this reading occurs:
+...are likewise quoted there as examples. Many authoritative passages of the Caraka-śrauta are found in the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra [the reference is doubtful]. In some places of the printed Kaṭha-saṃhitā this reading occurs:
 
 > इति श्रीमद्यजुषि काठके चरकशाखायाम् ।
 >
@@ -1334,7 +1334,7 @@ According to the Kāśikā-vṛtti (4-3-104) the students of this branch are cal
 >
 > "Now, Om: the Kāmalāyanas teach the Yājikalpa: in the spring indeed...."
 
-It is difficult to know whether "Kāmalina" and "Kāmalāyana" are one branch or different branches. In grammar "Kāmalinaḥ" is given; in some places "Kāmalāyanaḥ", in some "Kāmulāyanaḥ" [as printed]. There may be some connection among these three names.
+It is difficult to know whether "Kāmalina" and "Kāmalāyana" are one branch or different branches. In grammar "Kāmalinaḥ" is given; in some places "Kāmalāyanaḥ", in some "Kāmulāyanaḥ". There may be some connection among these three names.
 
 ### Page 126
 
@@ -1360,7 +1360,7 @@ In the Nirukta (2-13) Yāska mentions a branch by the name Ārcābhyāmnāya. Du
 >
 > "*Ārcābhyāmnāya*: *ārca* is a collection of ṛks; that which is recited facing (*abhi*) is *abhyāmnāya*; that in which the ṛks alone, unmixed with yajus and brāhmaṇa, are recited with face toward them is the *ārcābhyāmnāya*. That is, the Ṛgveda is meant. Others read *ṛcābhyāmnāya*."
 
-(The Sanskrit is transcribed from the Kannada print; some words in the second line are doubtful.)
+(Some words in the second line are doubtful.)
 
 What he has written applies to the Ṛgveda. But the author of the Kāśikā-vṛtti, in the 104th sūtra of the 3rd pāda of the 4th adhyāya of his vṛtti, writes:
 
@@ -1398,7 +1398,7 @@ As the pupils of Vaiśampāyana are called "Cārakāḥ", so the pupils of Kaṭ
 >
 > "The first, Kaṭha, and Tittiri, the elder [brother] of Vaiśampāyana."
 
-(Read as printed; the word *taittiriś* is not wholly clear.)
+(The word *taittiriś* is not wholly clear.)
 
 From this it is understood that there were several persons named Kaṭha, and that the first of them was one named by the designation "Ādya-kaṭha", a designation that became current. In verse 59 [?] of a chapter of the first (Ādi-)parvan of the Mahābhārata (the chapter number is faded and cut off at the page edge in both scans):
 
@@ -1408,7 +1408,7 @@ From this it is understood that there were several persons named Kaṭha, and th
 >
 > "Uddālaka, and Kaṭha, and Śvetaketu likewise."
 
-it is said. Here too the name of a sage Kaṭha has come. According to the Sabhā-parvan (4-24), at the time when Yudhiṣṭhira entered the assembly, certain sages were there; among them the names Kāpāla and Kaṭhara [as printed] are found.
+it is said. Here too the name of a sage Kaṭha has come. According to the Sabhā-parvan (4-24), at the time when Yudhiṣṭhira entered the assembly, certain sages were there; among them the names Kāpāla and Kaṭhara are found.
 
 ### Kaṭha is one *caraṇa*
 
@@ -1460,7 +1460,7 @@ Now the Kaṭha-brāhmaṇa is found only in the Kashmir country — that is, it
 
 ### Kaṭha literature
 
-The Kāṭhaka-saṃhitā is printed under the editorship of Adhyāpaka Śraudara [as printed; i.e., L. von Schroeder]. Dr. Kālenḍara [Dr. Caland] printed some portions of the Kaṭha-brāhmaṇa; Sūryakānta printed them with the other portions. In it the name of this brāhmaṇa is given as "Śatādhyayana-brāhmaṇa". The author of the Nyāyamañjarī, Bhaṭṭa, also writes so. The Kāṭhaka Yajña-sūtra has not been found up to now; but its Gṛhya portion has been printed. A statement of the Laugākṣi Dharma-sūtra is quoted in Maskarin's bhāṣya on the Gautama Dharma-sūtra (10-42).
+The Kāṭhaka-saṃhitā is printed under the editorship of Adhyāpaka Śraudara [i.e., L. von Schroeder]. Dr. Kālenḍara [Dr. Caland] printed some portions of the Kaṭha-brāhmaṇa; Sūryakānta printed them with the other portions. In it the name of this brāhmaṇa is given as "Śatādhyayana-brāhmaṇa". The author of the Nyāyamañjarī, Bhaṭṭa, also writes so. The Kāṭhaka Yajña-sūtra has not been found up to now; but its Gṛhya portion has been printed. A statement of the Laugākṣi Dharma-sūtra is quoted in Maskarin's bhāṣya on the Gautama Dharma-sūtra (10-42).
 
 ### Page 129
 
@@ -1502,7 +1502,7 @@ The Kāṭhaka Gṛhya-sūtra is printed at Lahore, Srinagar and other places. I
 >
 > *bahvṛcānām apy asti kaṭhaśākhā |*
 
-"Among the Bahvṛcas (Ṛgvedins) too there is a Kaṭha branch." (Gloss mine and tentative; the source gives no translation.)
+"Among the Bahvṛcas (Ṛgvedins) too there is a Kaṭha branch." (The source gives no translation.)
 
 In this inquiry there is doubt indeed.
 
@@ -1536,7 +1536,7 @@ That is: there are four Kālāpas: of them the first is Haridru, the second Chag
 
 ### Maitrāyaṇa and Kālāpa
 
-According to one reading of the Caraṇa-vyūha, in the Maitrāyaṇīya branch there are six sub-divisions: Mānava, Vārāha, Dundubha, Chāgaleya, Hāridravīya and Śyāmāyanīya. According to another reading of the same work there are seven sub-divisions: Mānava, Dundubha, Aikheya, Vārāha, Hāridravīya, Śyāma and Śyāmāyanīya. In both these readings Hāridravīya is common. In the first reading the name Bhagali [as printed; i.e., Chagali?] occurs. These Haridru and Bhagali were pupils of Kalāpi. Durga in his Nirukta bhāṣya (10-5) writes:
+According to one reading of the Caraṇa-vyūha, in the Maitrāyaṇīya branch there are six sub-divisions: Mānava, Vārāha, Dundubha, Chāgaleya, Hāridravīya and Śyāmāyanīya. According to another reading of the same work there are seven sub-divisions: Mānava, Dundubha, Aikheya, Vārāha, Hāridravīya, Śyāma and Śyāmāyanīya. In both these readings Hāridravīya is common. In the first reading the name Bhagali [i.e., Chagali?] occurs. These Haridru and Bhagali were pupils of Kalāpi. Durga in his Nirukta bhāṣya (10-5) writes:
 
 > हारिद्रवो नाम मैत्रायणीयानां शाखाभेदः ।
 >
@@ -1574,7 +1574,7 @@ In the Vāyu Purāṇa (61-66) and the Brahmāṇḍa Purāṇa, Pūrva-bhāga (
 
 it is said. That is: there are many *khila* and *upakhila* mantras belonging to the Hāridravīya branch.
 
-The verses describing the Hāridravīya branch are missing in both these Purāṇas. In some other works five sub-divisions of this branch are mentioned: Hāridrava, Āsuri, Gārgya, Śārkarākṣa and Āgrāvasīya [as printed; the last name is doubtful]. Āsuri and the other sub-divisions may be the *khila* and *upakhila* mantras of the Hāridrava branch.
+The verses describing the Hāridravīya branch are missing in both these Purāṇas. In some other works five sub-divisions of this branch are mentioned: Hāridrava, Āsuri, Gārgya, Śārkarākṣa and Āgrāvasīya [the last name is doubtful]. Āsuri and the other sub-divisions may be the *khila* and *upakhila* mantras of the Hāridrava branch.
 
 ## 12. Bhāgaleya branch
 
@@ -1675,7 +1675,7 @@ The Maitrāyaṇa-saṃhitā is printed. Professor Schroeder of Germany edited a
 > प्राचीनावीति ।
 > सुमंतुजैमिनिपैलवैशंपायनाः सशिष्याः ।
 > भृगुच्यवनाप्नवानौरवजामदग्नयः सशिष्याः ।
-> आंगिरसांबरीषयौवनाश्व-हरिद्रभागलिर्लवय (?) [as printed]
+> आंगिरसांबरीषयौवनाश्व-हरिद्रभागलिर्लवय (?)
 > तुंबुरु औलंपायनाः सशिष्याः ।
 >
 > *prācīnāvīti |*
@@ -1714,7 +1714,7 @@ Like the Mādhyandina, Kāṇva, Kāṭhaka and Cārāyaṇīya saṃhitās, the
 >
 > "Thus ends the Maitrāyaṇī-Mānava-Vārāha Saṃhitā."
 
-is written. From this it is learnt that these three branches had different Gṛhya-sūtras. If the Maitrāyaṇī and Mānava Gṛhyas were the same, the Maitrāyaṇīya Śrauta and the Mānava Śrauta would also have to be one. But it is not so; the two have much difference. The text of the Maitrāyaṇīya Śrauta, or its pariśiṣṭas, quoted in works such as Hemādri's agrees with the text of the Vārāha Śrauta and its pariśiṣṭas. The differences of these three branches are seen well in the Śulba-sūtras. Vibhūtibhūṣaṇa Datta in his book (*The Science of the Sulba*, Calcutta, 1932, page 6 [sic, as printed in English]) writes that the Maitrāyaṇīya Gṛhya has four khaṇḍas, the Mānava Gṛhya seven khaṇḍas, and the Vārāha Gṛhya three khaṇḍas. But there is doubt in the matter of khaṇḍas as stated by him. Therefore, though there is not much difference among the Maitrāyaṇīya, Mānava and Vārāha saṃhitās, there is evidence enough to say that they are different branches.
+is written. From this it is learnt that these three branches had different Gṛhya-sūtras. If the Maitrāyaṇī and Mānava Gṛhyas were the same, the Maitrāyaṇīya Śrauta and the Mānava Śrauta would also have to be one. But it is not so; the two have much difference. The text of the Maitrāyaṇīya Śrauta, or its pariśiṣṭas, quoted in works such as Hemādri's agrees with the text of the Vārāha Śrauta and its pariśiṣṭas. The differences of these three branches are seen well in the Śulba-sūtras. Vibhūtibhūṣaṇa Datta in his book (*The Science of the Sulba*, Calcutta, 1932, page 6) writes that the Maitrāyaṇīya Gṛhya has four khaṇḍas, the Mānava Gṛhya seven khaṇḍas, and the Vārāha Gṛhya three khaṇḍas. But there is doubt in the matter of khaṇḍas as stated by him. Therefore, though there is not much difference among the Maitrāyaṇīya, Mānava and Vārāha saṃhitās, there is evidence enough to say that they are different branches.
 
 Now the sub-divisions of the Maitrāyaṇīya branch (printed in English: "Sub-divisions") will be described. It was said before that the Maitrāyaṇīya branch has seven sub-divisions: Mānava, Dundubha, Aikeya, Vārāha, Hāridravīya, Śyāma and Śyāmāyanīya. Since the descriptions of the last three have already been given, the descriptions of the remaining four, beginning with Mānava, will now be given.
 
@@ -1754,7 +1754,7 @@ Among the pupils of Vaiśampāyana, or among their sub-pupils, there was one nam
 >
 > "And in the Yajurveda the Taittirīya branch is a mixture of mantra and brāhmaṇa. It is twofold by the division of saṃhitā and branch. There the saṃhitā has four parts, seven kāṇḍas and forty-four praśnas. There in the first kāṇḍa eight praśnas; the second and seventh five each; the third and fourth seven each; the fifth and sixth six, one each (?); hence eleven, eleven praśnas — four parts."
 
-(Transcribed as printed; the print itself marks one word with "(?)". The author of this commentary then says:) In this saṃhitā there are altogether 44 praśnas, or adhyāyas. The arrangement of praśnas in each kāṇḍa in the sentences quoted above is not correct; there is a slight difference. The correct reading must be this: in the first kāṇḍa 8 praśnas, in the second 6, in the third 5, in the fourth 7, in the fifth 7, in the sixth 6, in the seventh 5 — altogether 8 + 6 + 5 + 7 + 7 + 6 + 5 = 44 praśnas. The description of the matters spoken of in the seven kāṇḍas of the Taittirīya-saṃhitā is well known from the Kāṇḍānukramaṇikā.
+(The print itself marks one word with "(?)". The author of this commentary then says:) In this saṃhitā there are altogether 44 praśnas, or adhyāyas. The arrangement of praśnas in each kāṇḍa in the sentences quoted above is not correct; there is a slight difference. The correct reading must be this: in the first kāṇḍa 8 praśnas, in the second 6, in the third 5, in the fourth 7, in the fifth 7, in the sixth 6, in the seventh 5 — altogether 8 + 6 + 5 + 7 + 7 + 6 + 5 = 44 praśnas. The description of the matters spoken of in the seven kāṇḍas of the Taittirīya-saṃhitā is well known from the Kāṇḍānukramaṇikā.
 
 The Laugākṣi-smṛti has an extensive explanation of this division. There the descriptions of *prapāṭhaka* (praśna or adhyāya), *anuvāka* and so on are also given. Some verses of that description are given here:
 
@@ -1850,7 +1850,7 @@ The kāṇḍas, prapāṭhakas and anuvākas in the Taittirīya-saṃhitā are 
 
 Printed total, below the table: "In all **7 kāṇḍas, 44 prapāṭhakas, 651 anuvākas, 2199 pañcāśats**."
 
-*(Table re-read on the 600 dpi scan in the [?] pass. Every column adds up to its printed kāṇḍa total, and the pañcāśat totals add up to the printed 2199; the kāṇḍa totals of the anuvāka column add up to 652, against the printed 651 [sic].)*
+*(Every column adds up to its printed kāṇḍa total, and the pañcāśat totals add up to the printed 2199; the kāṇḍa totals of the anuvāka column add up to 652, against the printed 651 [sic].)*
 
 ### Page 139
 
@@ -1926,7 +1926,7 @@ The Taittirīya Āraṇyaka has 6 adhyāyas, and the Taittirīya Upaniṣad 4 ad
 
 Printed total: "In the Taittirīya Brāhmaṇa the total adhyāyas are 28, anuvākas 320, pañcāśats 1710 (1760)."
 
-*(Tables re-read on the 600 dpi scan in the [?] pass. All anuvāka columns and all pañcāśat columns except the third kāṇḍa's add up to their printed totals, and 499 + 547 + 664 = 1710. The third kāṇḍa's pañcāśat rows as read add up to 784, not the printed 664; one figure, probably row 7, is misread or misprinted, and row 6 carries a second figure on the next line, both marked [?].)*
+*(All anuvāka columns and all pañcāśat columns except the third kāṇḍa's add up to their printed totals, and 499 + 547 + 664 = 1710. The third kāṇḍa's pañcāśat rows as read add up to 784, not the printed 664; one figure, probably row 7, is misread or misprinted, and row 6 carries a second figure on the next line, both marked [?].)*
 
 ### Relation of the Taittirīya and Kaṭha branches
 
@@ -1974,7 +1974,7 @@ From this it is clear that the one called Vikhanas composed the Aukheya sūtra. 
 > *vaikhānasān vinānyeṣāṃ taptacakraṃ prakīrtitam || 13 ||*
 > *aukheyānāṃ garbhacakradīkṣā proktā mahātmanām || 28 ||*
 
-(Transcribed as printed. The source gives no translation of the verse and explains it as follows.)
+(The source gives no translation of the verse and explains it as follows.)
 
 That is: among the Aukheyas a special rite (*saṃskāra*) is in currency. When women are pregnant they make a mark of a wheel (*cakra*) on a heap of rice. The pregnant mother eats that rice. This custom is seen to have been in currency among the Vaikhānasas also in former times.
 
@@ -2105,7 +2105,7 @@ That is: the Sāmaveda includes a thousand branches. In the 2nd chapter of the P
 >
 > "There the Sāmaveda is a thousandfold … of these, the remaining [branches] of the Sāma and the Bahvṛca are twelve each … There the branches of the Sāmaveda: Talavakāra, Chandoga, Śāṭyāyana, Rāṇāyani, Durvāsasa, Bhāguri, Gau, Talavakārāli, Sāvarṇya, Gārgya, Vārṣagaṇya and Aupamanyava."
 
-(The dotted gap and the second clause are as printed; the second clause is doubtful.)
+(The second clause is doubtful.)
 
 It is said. That is: the Sāmaveda has a thousand branches. Of them only twelve branches are found now. What are they: Talavakāra, Chandoga, Śāṭyāyana, Rāṇāyani, Durvāsasa, Bhāguri, Gau, Talavakārāli, Sāvarṇya, Gārgya, Vārṣagaṇya and Aupamanyava. In these the names seventh and eighth [Talavakārāli and Sāvarṇya; as read] are wrong. In the Buddhist work called Divyāvadāna it stands thus:
 
@@ -2174,7 +2174,7 @@ In the section on the *ṛṣi-tarpaṇa* in the Nityānuṣṭhāna-prayoga of 
 >
 > "Rāṇāyani, Sātyamugri, Vyāsa, Bhāguri, Aurguṇḍi, Gaulgulavi, Bhānumān Aupamanyava, Karāṭa, Maśaka, Gārgya, Vārṣagaṇya, Kauthumi, Śālihotri, Jaimini."
 
-The names of thirteen [as printed; fourteen names are counted in the verse as read] ācāryas beginning with Rāṇāyani are given. In the same work:
+The names of thirteen [fourteen names are counted in the verse as read] ācāryas beginning with Rāṇāyani are given. In the same work:
 
 > शटः । भाल्लविः । काल्पविः । ताण्ड्यः । वृषाणः । शमुबाहुः ।
 > रुरुकिः । अगस्त्यः । बष्कशिराः । हूहूः ॥
@@ -2195,7 +2195,7 @@ The names of ten propagators (*pravacanakāras*), Śaṭa and the rest, are also
 > *dārālo gārgyasāvarṇī vārṣagaṇyaś ca te daśa |*
 > *kuthumiḥ śālihotraś ca jaiminiś ca trayodaśa || 2 ||*
 >
-> (As printed; several names are doubtful in the print, and no translation of the verses is given by the source other than the statement above that they list the 13 ācāryas.)
+> (Several names are doubtful in the print, and no translation of the verses is given by the source other than the statement above that they list the 13 ācāryas.)
 
 In the section on *tarpaṇa* of the Jaimini Gṛhya-sūtra too (1-14) the names of the 13 ācāryas spoken of below are:
 
@@ -2207,7 +2207,7 @@ In the section on *tarpaṇa* of the Jaimini Gṛhya-sūtra too (1-14) the names
 > *bhāguriṃ-gauruṃḍiṃ-gaurgulaviṃ-bhagavaṃtam aupamanyavaṃ-kā-*
 > *raḍiṃ-sāvarṇiṃ-gārgyavārṣagaṇyaṃ-daivaṃtyam iti ||*
 >
-> (As printed; the last word *daivaṃtyam* and the name *kāraḍim* are doubtful.)
+> (The last word *daivaṃtyam* and the name *kāraḍim* are doubtful.)
 
 [A small bracketed numeral, read as "[19?]", stands at the foot of the page in the print; it is not a page number.]
 
@@ -2239,11 +2239,11 @@ It cannot be firmly said that the description of the Sāma-saṃhitā-makers in 
 
 ### Page 147
 
-Among Pauṣpaṃji's pupils there were four propagators of saṃhitās. Their names are Laugākṣi, Kuthumi, Kuṣīdi and Lāṅgali. Of these, Laugākṣi had five pupils: Rāṇāyani, Tāṇḍya, Anoveṇa or Mūlacārī, Sakyaiputra [as printed] and Sātyamugra. According to the Brahmāṇḍa Purāṇa he had six pupils. The sixth pupil's name is Sunāmā; this name Sunāmā may be wrong.
+Among Pauṣpaṃji's pupils there were four propagators of saṃhitās. Their names are Laugākṣi, Kuthumi, Kuṣīdi and Lāṅgali. Of these, Laugākṣi had five pupils: Rāṇāyani, Tāṇḍya, Anoveṇa or Mūlacārī, Sakyaiputra and Sātyamugra. According to the Brahmāṇḍa Purāṇa he had six pupils. The sixth pupil's name is Sunāmā; this name Sunāmā may be wrong.
 
 ### Susāmā, a Sāma-singer of the Mahābhārata period
 
-In the Sabhā-parvan (36-34), at Yudhiṣṭhira's Rājasūya sacrifice, Dhanañjaya, Ṛṣabha and Susāmā were singing the Sāmans. In the Lāṭyāyana and Drāhyāyaṇa Śrauta-sūtras the expression "*iti dhānaṃjayyaḥ*" [as printed] is found. Who is this Dhanañjaya? There is a doubt whether he is the same Dhanañjaya spoken of in the Mahābhārata, or whether the names Dhanañjaya and Susāmā relate to one person. It cannot be said with certainty that it is just so.
+In the Sabhā-parvan (36-34), at Yudhiṣṭhira's Rājasūya sacrifice, Dhanañjaya, Ṛṣabha and Susāmā were singing the Sāmans. In the Lāṭyāyana and Drāhyāyaṇa Śrauta-sūtras the expression "*iti dhānaṃjayyaḥ*" is found. Who is this Dhanañjaya? There is a doubt whether he is the same Dhanañjaya spoken of in the Mahābhārata, or whether the names Dhanañjaya and Susāmā relate to one person. It cannot be said with certainty that it is just so.
 
 ### Kuthumi's three sons
 
@@ -2281,7 +2281,7 @@ Hiraṇyanābha's pupil was the prince Kṛta. In the Viṣṇu Purāṇa (4-19-
 
 *rāḍiḥ — mahāvīryaḥ — paṃcamaḥ — vāhanaḥ — tālakaḥ — pāṃḍakaḥ — kālikaḥ — rājakaḥ — gautamaḥ — ajabastya — somarājā — pṛṣṭaghnaḥ — parikṛṣṭaḥ — ulūkhalakaḥ — yavīyasaḥ — vaiśālī — aṃgulīyaḥ — kauśikaḥ — śālimaṃjari — pākaḥ — śadhīyaḥ — kāninaḥ — pārāśaryāḥ |*
 
-(Both lists are transcribed as printed; some names in the second list are doubtful.)
+(Some names in the second list are doubtful.)
 
 In both these Purāṇas there are only 23 names. Which the other name is, is not known. It cannot be said that everything in these names is correct. Of the Sāma-saṃhitā-makers it can only be said that Pauṣpaṃji and Kṛta were the chief.
 
@@ -2376,7 +2376,7 @@ According to Dr. Caland's edition the number of Sāma mantras is 1869.
 >
 > "In the Kauthumi Gṛhya: Let the wife, if she wishes, offer in the domestic fire; the two homas, evening and morning, [belong to] the householders; this fire is the wife's domestic fire."
 
-(Read as printed; the middle clause is doubtful and the source gives no translation — editorial and tentative.) The time of writing of this manuscript is given as the year 1655 Saṃvatsara. From these reasons it is learnt that the Kauthuma branch had independent Kalpa-sūtras.
+ The time of writing of this manuscript is given as the year 1655 Saṃvatsara. From these reasons it is learnt that the Kauthuma branch had independent Kalpa-sūtras.
 
 ## 2. Jaiminīyas
 
@@ -2390,7 +2390,7 @@ The saṃhitā, brāhmaṇa, śrauta-sūtra and gṛhya-sūtra of this branch ar
 | Ūhya = Rahasya-gāna | 356 |
 | **Total** | **3681** |
 
-(Figures as printed, read on the 600 dpi scan; 1232 + 291 + 1802 + 356 = 3681.)
+(1232 + 291 + 1802 + 356 = 3681.)
 
 Dr. Caland has given the number of Sāma mantras according to the lakṣaṇa-work called Dhāraṇa-lakṣaṇa. In the manuscript of the Jaiminīya branch in the library of the Panjab University that number is given with a slight difference. That is given below:
 
@@ -2432,8 +2432,6 @@ The total count of the Grāma-geya-gāna and Āraṇya-gāna is 1523. In the wor
 
 According to Dr. Caland the total mantra count of the Jaiminīya saṃhitā is 1687; in the Pūrvārcika 646 and in the Uttarārcika 1041 mantras. The Prakṛti ṛk count of the Pūrvārcika is 642. Why there is a difference of 4 mantras here is not clear; there is the possibility of mistakes in the manuscripts. Thus the Jaiminīya saṃhitā has 182 mantras fewer than the Kauthuma saṃhitā; but it is a matter worth noting that some ṛks that are in the Jaiminīya saṃhitā are not in the Kauthuma saṃhitā.
 
-(Figures re-read on the 600 dpi scan.)
-
 ### Jaiminīya and Talavakāra
 
 The brāhmaṇa of the Jaiminīya branch is also called the Talavakāra-brāhmaṇa. Jaimini had a pupil named Talavakāra. This brāhmaṇa may have been called by the names of these two; or there may be a sub-branch named Talavakāra in the Jaimini branch. The Brāhmaṇas of this branch are found in the Tinnevelly district of the Madras Presidency.
@@ -2463,7 +2461,7 @@ It is said. That is: those of the Sātyamugra branch recite the diphthongs (*san
 >
 > *nanu ca bhoḥ chaṃdogānāṃ sātyamugrirāṇāyanīyā ardha-mekāram ardham okāraṃ cādhīyate | sujāte e aśvasūnṛte | ardhvaryo o adribhiḥ sutam | śukraṃ te e anyadyajatam ||*
 >
-> "But, sir, the Sātyamugris and Rāṇāyanīyas among the Chandogas recite half an *e* and half an *o*: *sujāte e aśvasūnṛte*; *adhvaryo o adribhiḥ sutam*; *śukraṃ te e anyad yajatam*." (Translation editorial and tentative; the printed *ardhvaryo* is as read.)
+> "But, sir, the Sātyamugris and Rāṇāyanīyas among the Chandogas recite half an *e* and half an *o*: *sujāte e aśvasūnṛte*; *adhvaryo o adribhiḥ sutam*; *śukraṃ te e anyad yajatam*." (The printed *ardhvaryo* is as read.)
 
 It is said. No works of the Sātyamugra branch have been found by us so far.
 
@@ -2479,7 +2477,7 @@ Although the works of this branch are rare to obtain, it is not at all impossibl
 >
 > *tadyathā śārdūlaśākhinām—sa pūrvo mahānāmiti madhuścunnidhanam |*
 >
-> "Namely, of the followers of the Śārdūla branch: 'that earlier one [is] the Mahānāmnī', [the Sāman] whose finale is *madhuścut*." (Read as printed; translation editorial and tentative.)
+> "Namely, of the followers of the Śārdūla branch: 'that earlier one [is] the Mahānāmnī', [the Sāman] whose finale is *madhuścut*."
 
 It is said. That is: this reading belongs to the Śārdūla branch. Besides, many statements of this branch are cited as examples in this Śrāddha-kalpa section.
 
@@ -2493,7 +2491,7 @@ Mahīdāsa in his commentary on the Caraṇa-vyūha, when stating the names of t
 > *yayor idaṃ viśvam ejati tā vidvāṃsā havāmahe vāṃ |*
 > *vītaṃ somyaṃ madhu || iti vārṣagaṇyānām |*
 >
-> "You two, by whom this whole world moves, the knowing ones, we invoke: enjoy the Soma-sweet." — "[So reads the text] of the Vārṣagaṇyas." (Translation editorial and tentative.)
+> "You two, by whom this whole world moves, the knowing ones, we invoke: enjoy the Soma-sweet." — "[So reads the text] of the Vārṣagaṇyas."
 
 That is: this example of the Nāgī-gāyatrī is found in the saṃhitā of the Vārṣagaṇya.
 
@@ -2519,7 +2517,7 @@ In the vārtika on the Bṛhadāraṇyaka-bhāṣya, written by Sureśvara, a Ś
 > *hatvāvidyāṃ dhiyaiveyāt tad viṣṇoḥ paramaṃ padam || 219 ||*
 > *iti bhāllaviśākhāyāṃ śrutivākyam adhīyate || 220 ||*
 >
-> "Therefore, having renounced all actions through knowledge of the Self, having destroyed ignorance, one would reach by understanding alone that highest abode of Viṣṇu. — Thus a Śruti sentence is recited in the Bhāllavi branch." (Translation editorial and tentative; the source gives none.)
+> "Therefore, having renounced all actions through knowledge of the Self, having destroyed ignorance, one would reach by understanding alone that highest abode of Viṣṇu. — Thus a Śruti sentence is recited in the Bhāllavi branch." (The source gives none.)
 
 Here the sentence "*hatvāvidyāṃ dhiyaiveyāt tad viṣṇoḥ paramaṃ padam*" is the Śruti passage of the Bhāllavi branch. The branch had some Upaniṣads. In the Jaiminy-upaniṣad-brāhmaṇa (2-4-7) there is mention of the view of the Bhāllavis. Therefore it can be understood that this branch was in currency before the time of the Jaiminy-upaniṣad-brāhmaṇa. In the Jaiminīya-brāhmaṇa (3-156) the names Āṣāḍha Bhāllaveya and (1-271) Indradyumna Bhāllaveya are mentioned.
 
@@ -2589,7 +2587,7 @@ and in another place [3-3-24]:
 >
 > *yathaikeṣāṃ śākhināṃ tāṃḍināṃ paiṃgināṃ ca |*
 >
-> "As [is the reading] of some branch-followers, of the Tāṇḍins and of the Paiṅgins." (Translation editorial and tentative.)
+> "As [is the reading] of some branch-followers, of the Tāṇḍins and of the Paiṅgins."
 
 and again [3-3-36]:
 
@@ -2609,7 +2607,7 @@ Dr. Caland has given for study two mantras that occur in the Tāṇḍya-brāhma
 
 | Tāṇḍya-brāhmaṇa | Sāma-saṃhitā |
 |---|---|
-| इन्द्रं गीर्भिर्हवामहे (11-4-4) | इन्द्रं गीर्भिर्नवामहे [as printed] |
+| इन्द्रं गीर्भिर्हवामहे (11-4-4) | इन्द्रं गीर्भिर्नवामहे |
 | *indraṃ gīrbhir havāmahe* | *indraṃ gīrbhir navāmahe* |
 | अक्रांत्समुद्रः परमो विधर्मन् (15-1-1) | अक्रांत्समुद्रः प्रथमो विधर्मन् |
 | *akrāṃtsamudraḥ paramo vidharman* | *akrāṃtsamudraḥ prathamo vidharman* |
@@ -2634,7 +2632,7 @@ In the Śatapatha-brāhmaṇa [10-4-2-23]:
 >
 > *athetarau vedau vyauhat | dvādaśaiva bṛhatīsahasrāṇy aṣṭau yajuṣāṃ catvāri sāmānām | etāvad dhai tayor vedayor yat prajāpatisṛṣṭaṃ........ |*
 >
-> "Then he divided the other two Vedas: twelve thousand *bṛhatī* [verses]; eight of the Yajus, four of the Sāmans. So much, of those two Vedas, is what was created by Prajāpati…" (Translation of the quoted words mine, following the source's gloss below; the passage is printed with a gap.)
+> "Then he divided the other two Vedas: twelve thousand *bṛhatī* [verses]; eight of the Yajus, four of the Sāmans. So much, of those two Vedas, is what was created by Prajāpati…" (The passage is printed with a gap.)
 
 It is said. That is: the measure of the Sāma mantras amounts to four thousand mantras of the Bṛhatī metre. In the Bṛhatī metre there are 36 syllables. Therefore the measure of the Sāmaveda mantras amounts to 4000 × 36 = 144,000 syllables (the product is the source's own, and is correct). It cannot be said that this is exactly right. In the Vāyu Purāṇa also (1-61-63) and in the Brahmāṇḍa Purāṇa (2-35-71 and 72), when stating the count of Sāma mantras:
 
@@ -2670,7 +2668,7 @@ In another reading of the same Caraṇa-vyūha:
 > *aṣṭau śatāni daśabhir daśasaptasuvālakhilyaḥ sasuparṇaḥ prekṣyaṃ |*
 > *etat sāmagaṇaṃ smṛtam |*
 >
-> (As printed; doubtful.)
+> (Doubtful.)
 
 It is said. Besides this, in another sort of variant reading:
 
@@ -2829,7 +2827,7 @@ It is said in the Skanda Purāṇa, Nāgarakhaṇḍa, that there was a Pippalā
 >
 > *tathātharvaṇike paippalādaśākhāyāṃ maṃtro viṃśatikāṃḍaḥ | .... | tadbrāhmaṇam adhyāyāṣṭakaṃ |*
 >
-> "And in the Atharvaṇika, in the Paippalāda branch, the mantra [part] has twenty kāṇḍas…; its brāhmaṇa [has] eight adhyāyas." (This is the Prapañca-hṛdaya passage as printed here with its own gap. Translation tentative.)
+> "And in the Atharvaṇika, in the Paippalāda branch, the mantra [part] has twenty kāṇḍas…; its brāhmaṇa [has] eight adhyāyas."
 
 The Paippalāda branch had both a saṃhitā and a brāhmaṇa. Since it is mentioned in the Prapañca-hṛdaya that in the saṃhitā of the Paippalāda branch there are twenty kāṇḍas and in the brāhmaṇa eight adhyāyas, this branch must have had both the saṃhitā and the brāhmaṇa.
 
@@ -2883,7 +2881,7 @@ A scholar called Whitney has said that in the Paippalāda Atharvaveda in Kashmir
 | ओषं *oṣaṃ* | .... | क्षिप्रं *kṣipraṃ* | .... | 12-1-35 |
 | गृहेषु *gṛheṣu* | .... | आमा च *āmā ca* | .... | 12-4-38 |
 
-(The Atharva and Paippalāda readings are as printed; the reference numerals, printed in the right-hand column, are not certain.)
+(The reference numerals, printed in the right-hand column, are not certain.)
 
 In the monthly journal of the American Oriental Society the Paippalāda branch has been published in Roman script.
 
@@ -2909,7 +2907,7 @@ According to Sāyaṇa the usage is "Taudāḥ". In the Atharva-pariśiṣṭa (
 >
 > "'From the shoulder, from the chest…', thus is it remembered by the Staudāyanas."
 
-This sentence, in describing the *araṇi* (fire-stick), tells the intention of Staudāyani. (Translation of the Sanskrit editorial and tentative; the source gives the sense only as stated.)
+This sentence, in describing the *araṇi* (fire-stick), tells the intention of Staudāyani. (The source gives the sense only as stated.)
 
 ## 3. Maudāḥ
 
@@ -2929,7 +2927,7 @@ In the work called Pañcapaṭalikā (5-21) there is this verse —
 > *ācāryasaṃhitāyāṃ tu paryāyāṇāmataḥ param |*
 > *avasānasaṃkhyāṃ vakṣyāmi yāvatī yatra miśritāḥ ||*
 >
-> "In the Ācārya-saṃhitā, after the *paryāyas*, I shall tell the number of the closing [verses], as many as are mixed there." (Translation editorial and tentative; the source gives none.)
+> "In the Ācārya-saṃhitā, after the *paryāyas*, I shall tell the number of the closing [verses], as many as are mixed there." (The source gives none.)
 
 Here the expression "Ācārya-saṃhitā" is used. In the explanation of the Kauśika-sūtra (8-21) Dārila has written the meaning of this word thus (the sentence continues on the next page).
 
@@ -2940,7 +2938,7 @@ Here the expression "Ācārya-saṃhitā" is used. In the explanation of the Kau
 >
 > *punaruktaprayogaḥ paṃcapaṭalikāyāṃ kathitaḥ | ārṣīsaṃhitāyāḥ karmasaṃyogāt | ācāryasaṃhitābhyāsārthā |*
 >
-> "The repeated use is stated in the Pañcapaṭalikā: of the Ārṣī-saṃhitā, on account of connection with rites; the Ācārya-saṃhitā is for study." (Translation editorial and tentative; the first words are as read from the print.)
+> "The repeated use is stated in the Pañcapaṭalikā: of the Ārṣī-saṃhitā, on account of connection with rites; the Ācārya-saṃhitā is for study." (The first words are as read from the print.)
 
 The Ācārya-saṃhitā is useful for study (recitation). The Ārṣika-saṃhitā, being the original, shows the application (*viniyoga*) in rites and the like.
 
@@ -2985,7 +2983,7 @@ According to the Pañcapaṭalikā the total number of mantras in all the 18 kā
 
 ## Editions of the Śaunaka saṃhitā
 
-The first edition of this saṃhitā was published in Berlin in 1856, edited by Roth and Whitney. Afterwards Śaṅkara Pāṇḍuraṅga of Bombay published the Atharvaveda with the Sāyaṇa-bhāṣya. This edition is much more correct than the first edition. But in it too there are many mistakes. Recently [in 1932] one Rāmagopāla has published a work called "*Daṃtyoṣṭhya-vidhi*" [as printed]. If this work is examined [chiefly 1-11, 2-3, 2-5], many impure portions of the Śaunaka saṃhitā become clear.
+The first edition of this saṃhitā was published in Berlin in 1856, edited by Roth and Whitney. Afterwards Śaṅkara Pāṇḍuraṅga of Bombay published the Atharvaveda with the Sāyaṇa-bhāṣya. This edition is much more correct than the first edition. But in it too there are many mistakes. Recently [in 1932] one Rāmagopāla has published a work called "*Daṃtyoṣṭhya-vidhi*". If this work is examined [chiefly 1-11, 2-3, 2-5], many impure portions of the Śaunaka saṃhitā become clear.
 
 ## The Pañcapaṭalikā and the order of the Śaunaka branch
 
@@ -3003,7 +3001,7 @@ In the explanation of the Pāṇinian sūtra [6-4-144] both the bhāṣya and th
 >
 > "Of the Devadarśas the [fire-stick] has the measure of an arm [*bāhu*]; of the Jājalas, the measure of a thigh [*uru*]."
 
-(Translation of this verse editorial and tentative; the source gives the sense in the next sentence.)
+(The source gives the sense in the next sentence.)
 
 — thus the measure of the *araṇi* is described according to the branches of Devadarśa and the Jājalas. That is: there was a Jājala branch. Now it is not in use anywhere.
 
@@ -3072,7 +3070,7 @@ There is a commentary by one Keśava on the Kauśika-sūtras. In the explanation
 >
 > *tvam agne vratapā asi tṛcaṃ sūktaṃ kāmas tad agre iti paṃcarcaṃ sūktaṃ | ete cāraṇavaidyānāṃ paṭhyaṃte ||*
 >
-> "'Tvam agne vratapā asi' — a hymn of three ṛks; 'kāmas tad agre' — a hymn of five ṛks: these are recited by the Cāraṇavaidyas." (Translation editorial and tentative; the sense is the source's gloss below.)
+> "'Tvam agne vratapā asi' — a hymn of three ṛks; 'kāmas tad agre' — a hymn of five ṛks: these are recited by the Cāraṇavaidyas." (The sense is the source's gloss below.)
 
 It is said. That is: the Cāraṇavaidya branch followers study the sūkta of three ṛks "*tvam agne …*" and the sūkta of five ṛks "*kāmas tad agre …*". In the Atharva-pariśiṣṭa (22-2) —
 
@@ -3092,7 +3090,7 @@ It is said. That is: the Cāraṇavaidya branch followers study the sūkta of th
 > *ṣaṭsahasram ṛcām uktam ṛcaḥ ṣaḍviṃśatiḥ punaḥ ||*
 > *etāvad adhikaṃ teṣāṃ yajuḥ kim api vakṣyate |*
 >
-> "Now hear the extent of the saṃhitā of the Cāraṇavaidyas: six thousand ṛks are told, and again twenty-six ṛks; so much more of their yajus, something, will be told." (Translation editorial and tentative.)
+> "Now hear the extent of the saṃhitā of the Cāraṇavaidyas: six thousand ṛks are told, and again twenty-six ṛks; so much more of their yajus, something, will be told."
 
 That is: in the Cāraṇavaidya saṃhitā there are 6020 ṛks.
 
@@ -3106,7 +3104,7 @@ In the Caraṇa-vyūha the number of mantras of the Atharvaveda is given as "*dv
 > *dvādaśaiva sahasrāṇi brahmatvaṃ sābhicārikam |*
 > *etad vedarahasyaṃ syād ātharvaṇavedasya vistaraḥ ||*
 >
-> "Twelve thousand only — the Brahma[-priest's] part along with the hostile rites; this is the secret of the Veda, the extent of the Atharvaṇa Veda." (Translation editorial and tentative.)
+> "Twelve thousand only — the Brahma[-priest's] part along with the hostile rites; this is the secret of the Veda, the extent of the Atharvaṇa Veda."
 
 Having told in the Brahmāṇḍa and Vāyu Purāṇas the number of mantras of the Cāraṇavaidya saṃhitā, they give the mantra-numbers of some of the remaining branches. This appears very impure.
 
@@ -3132,7 +3130,7 @@ Having told in the Brahmāṇḍa and Vāyu Purāṇas the number of mantras of 
 > *sahasram anyad vijñeyam ṛṣibhir viṃśatiṃ vinā || 73 ||*
 > *etad aṃgirasā (etad aṃgirasam) proktaṃ teṣām āraṇyakaṃ punaḥ |*
 >
-> "Of the Atharvan ṛks the determined [number] is five thousand; another thousand is to be known by the sages, less twenty. This was told by Aṅgiras; and then their Āraṇyaka." (Translation editorial and tentative.)
+> "Of the Atharvan ṛks the determined [number] is five thousand; another thousand is to be known by the sages, less twenty. This was told by Aṅgiras; and then their Āraṇyaka."
 
 This text has been taken from the Vāyu Purāṇa. The variant reading of the Brahmāṇḍa Purāṇa is also given.
 
@@ -3171,7 +3169,7 @@ The last pāda of the 10th verse of the 10th sarga of the Kirātārjunīya is th
 >
 > *kṛtapadapaṃktir atharvaṇeva vedaḥ |*
 >
-> "…like the Veda of the Atharvan, with its ordered rows of words." (Read as printed; translation editorial and tentative; the first words of the verse are not quoted by the source.)
+> "…like the Veda of the Atharvan, with its ordered rows of words." (The first words of the verse are not quoted by the source.)
 
 In its commentary Mallinātha has written thus:
 
@@ -3194,7 +3192,7 @@ It is said in the Āgama that the compilation of the mantras of the Atharvaveda 
 1. **Main entries**: the ṛṣi's name (with father/clan epithet and sometimes a description such as *ṛṣikā* "woman seer", *sarpaḥ* "serpent", *rājarṣiḥ* "royal seer", *vātaraśanaḥ*), then the **references** to the Ṛgveda hymns he or she saw (in the form maṇḍala–sūkta, with ṛc numbers in some cases, printed in Kannada numerals), and finally, in square brackets, **the total number of ṛcas (verses) seen**, printed in ordinary (Arabic) numerals.
 2. **Cross-reference lines**, printed in mirrored pairs ("A B … B A"), for hymns seen jointly by two ṛṣis, so that the hymn can be found under either name.
 
-In this translation the names, epithets and the bracketed verse-counts are given in full (Devanagari with IAST; the counts are legible and are given as printed). **The Kannada-numeral hymn references are not reproduced**: at the available scan quality they cannot be read with the certainty required of a reference table, and a wrong reference is worse than none. Each main entry is therefore followed by its verse-count only; the references remain to be added from an enlarged re-reading of the print. The mirrored cross-reference lines are compressed: each ṛṣi is listed once, with the ṛṣis paired with him or her.
+In this translation the names, epithets and the bracketed verse-counts are given in full (Devanagari with IAST). **The Kannada-numeral hymn references are not reproduced**: at the available scan quality they cannot be read with the certainty required of a reference table, and a wrong reference is worse than none. Each main entry is therefore followed by its verse-count only; the references remain to be added from an enlarged re-reading of the print. The mirrored cross-reference lines are compressed: each ṛṣi is listed once, with the ṛṣis paired with him or her.
 
 ### Page 191 — "The Ṛṣis of the Ṛgveda" (ऋग्वेदस्य ऋषयः · *ṛgvedasya ṛṣayaḥ*)
 
@@ -4059,7 +4057,7 @@ In determining the time of Skandasvāmin, the first of the Ṛgveda commentators
 > *yaḥ samrāṭ kṛtavān sapta somasaṃsthās tathark-śrutim |*
 > *vyākhyāṃ kṛtvāthāpayan māṃ śrīskandasvāmy asti me guruḥ || 7 ||*
 
-(The three verses are transcribed from the print letter by letter; the doubtful words and the verse numbers were re-read on the 600 dpi scan. No translation of these verses is given in the source other than the following gloss.)
+(No translation of these verses is given in the source other than the following gloss.)
 
 From this it is learnt that Hariswāmī was the grandson of one Guhasvāmī, the son of Nāgasvāmī, and the pupil of Skandasvāmin, who composed the commentary on the Ṛgveda. It has already been written that Skandasvāmin composed his commentary about 630 C.E.; Hariswāmī, his pupil, may be guessed to be of about the same time. And Hariswāmī himself has written his own time in his commentary on the Śatapatha-brāhmaṇa:
 
@@ -4091,7 +4089,7 @@ Uvaṭa is the renowned one among the commentators on the Śukla Yajurveda. At t
 > *ṛṣyādīṃś ca namaskṛtya avantyām uvaṭo vasan |*
 > *mantrāṇāṃ kṛtavān bhāṣyaṃ mahīṃ bhoje praśāsati ||*
 >
-> "By Uvaṭa, son of the one called Vajraṭa, resident of Ānandapura, was the commentary made with well-determined words and sentences. Having bowed to the seers and the rest, Uvaṭa, dwelling in Avantī, made the commentary on the mantras while Bhoja ruled the earth." (The third line re-read on the 600 dpi scan; the translation is editorial and tentative, closely following the source's own gloss below, which also names Avantī as Uvaṭa's residence.)
+> "By Uvaṭa, son of the one called Vajraṭa, resident of Ānandapura, was the commentary made with well-determined words and sentences. Having bowed to the seers and the rest, Uvaṭa, dwelling in Avantī, made the commentary on the mantras while Bhoja ruled the earth."
 
 ### Page 263
 
@@ -4152,8 +4150,6 @@ Among the commentators on works such as the Mālatīmādhava there was a famous 
 >
 > "…whose straightforward description of the meanings of the words of the Yajurveda makes manifest the wonderful, renowned, heard [tradition]."
 
-(As printed, the verse is a continuation across pages; the verse number is 2, re-read on the 600 dpi scan.)
-
 Earlier there were two scholars, born of a good lineage and masters of all the śāstras, both named Gauradhara. They composed a pure commentary on the Yajurveda. The commentator Ratnakaṇṭha, writing the explanation of these verses, says:
 
 > ताद्दृशस्य गौरधरस्य ऋजुर्निर्मला निर्दोषा च यजुर्वेद-
@@ -4202,7 +4198,7 @@ A little discussion has been made about the time of this man. According to the v
 > *praṇamya lakṣmīṃ nṛhariṃ gaṇeśaṃ bhāṣyaṃ vilokyovaṭamādhavīyam |*
 > *yajurmanūnāṃ vilikhāmi cārthaṃ paropakārāya nijekṣaṇāya || 1 ||*
 >
-> "Having bowed to Lakṣmī, Nṛhari and Gaṇeśa, and having looked at the commentaries of Uvaṭa and of Mādhava, I write the meaning of the Yajus mantras, for the benefit of others and for my own seeing." (As printed; *manūnām* is read as in the print; translation editorial and tentative.)
+> "Having bowed to Lakṣmī, Nṛhari and Gaṇeśa, and having looked at the commentaries of Uvaṭa and of Mādhava, I write the meaning of the Yajus mantras, for the benefit of others and for my own seeing." (*manūnām* is read as in the print.)
 
 Here it is said that, relying on the commentaries of Uvaṭa and of Mādhava, he has written the commentary. These people say that this Mādhava was Veṅkaṭamādhava, and that Mahīdhara was in the 12th century. The source quotes in English:
 
@@ -4220,7 +4216,7 @@ In the *Mantra-mahodadhi* Mahīdhara has himself written his own time:
 >
 > "In the year born of Vikrama, measured by *bāṇa, veda, nṛpa* [5, 4, 16], on the eighth of Jyeṣṭha, before Śiva, the Mantra-mahodadhi was completed."
 
-In the commentary on this verse he has made the meaning clear as "*pañcacatvāriṃśaduttaraṣoḍaśaśatatame vikramasyāpāgte sati*" [as printed]; that is, he has written that the *Mantra-mahodadhi* was finished on the day of Jyeṣṭha aṣṭamī of the year 1645 of the Vikrama era. Therefore, if it is supposed that the commentary was finished some years before this or after it, it can be said that the commentary was composed about 1587 C.E.
+In the commentary on this verse he has made the meaning clear as "*pañcacatvāriṃśaduttaraṣoḍaśaśatatame vikramasyāpāgte sati*"; that is, he has written that the *Mantra-mahodadhi* was finished on the day of Jyeṣṭha aṣṭamī of the year 1645 of the Vikrama era. Therefore, if it is supposed that the commentary was finished some years before this or after it, it can be said that the commentary was composed about 1587 C.E.
 
 ---
 
@@ -4260,7 +4256,7 @@ In the Yajurveda, the divisions such as *khaṇḍa* are for the convenience of 
 >
 > *māṇavakānām āvartanasaukaryāya khaṇḍikāvicchedasya buddhimadbhir adhyāpakaiḥ kalpitatvāt | yathā bahvṛcānāṃ tatra tatra sūktamadhye 'pi vargavicchedaḥ kalpitaḥ | yathā vā taittirīyakāṇāṃ vākyamadhye 'pi paṃcāśacchabdasaṃkhyayā vicchedaḥ āvṛttisaukaryāya kalpyate | tadvad atrāpy anugantavyam |*
 >
-> "For the facility of repetition by students, the division into *khaṇḍikā* has been devised by the wise …; just as for the Bahvṛcas the division into *vargas* is devised here and there even in the middle of a hymn; or as for the Taittirīyakas a division by a count of fifty words is devised, even in the middle of a sentence, for ease of repetition; so should it be followed here too." (Translation editorial and tentative; one word in the first line is doubtful.)
+> "For the facility of repetition by students, the division into *khaṇḍikā* has been devised by the wise …; just as for the Bahvṛcas the division into *vargas* is devised here and there even in the middle of a hymn; or as for the Taittirīyakas a division by a count of fifty words is devised, even in the middle of a sentence, for ease of repetition; so should it be followed here too." (One word in the first line is doubtful.)
 
 By this [account], the Brāhmaṇas are expositions of the mantras. In the *upodghāta* he has said:
 
@@ -4290,7 +4286,7 @@ At the end of every adhyāya the name "*Kāṇva-veda-mantra-bhāṣya-saṃgrah
 >
 > *iti śrīmatparamahaṃsaparivrājakācāryavaryaśrīvāsudeva-purīpūjyapādaparamakāruṇyāsāditaśrīkṛṣṇabhaktisāmrājyasya śrīmajjñātavedabhaṭṭopādhyāyasya sūnunā śrīmadānanda-bhaṭṭopādhyāyena viracite kāṇvavedamantrabhāṣyasaṃgrahe catvāriṃśo 'dhyāyaḥ |*
 >
-> "Thus, in the *Kāṇva-veda-mantra-bhāṣya-saṃgraha* composed by the venerable Ānanda Bhaṭṭopādhyāya, son of the venerable Jñātaveda [as printed] Bhaṭṭopādhyāya, who obtained the empire of devotion to Kṛṣṇa through the supreme compassion of the revered feet of the venerable Vāsudeva-purī, teacher-supreme, the *paramahaṃsa* wanderer — the fortieth chapter."
+> "Thus, in the *Kāṇva-veda-mantra-bhāṣya-saṃgraha* composed by the venerable Ānanda Bhaṭṭopādhyāya, son of the venerable Jñātaveda Bhaṭṭopādhyāya, who obtained the empire of devotion to Kṛṣṇa through the supreme compassion of the revered feet of the venerable Vāsudeva-purī, teacher-supreme, the *paramahaṃsa* wanderer — the fortieth chapter."
 
 From this it is learnt that the name of this work is *Kāṇvaveda-mantra-bhāṣya-saṃgraha*, and that his father was Bhaṭṭopādhyāya.
 
@@ -4345,7 +4341,7 @@ His father was Nāgeśabhaṭṭa, his mother Bhāgīrathī, his place of reside
 > *ambā bhāgīrathī yasya nāgadevaḥ pitā sudhīḥ |*
 > *kāśyāṃ vāsaḥ sadā sasya cittaṃ yasya ramāpriye ||*
 >
-> "Whose mother is Bhāgīrathī, whose father is the wise Nāgadeva; whose residence is always at Kāśī; whose mind [is] on the beloved of Ramā [Viṣṇu]." (Translation editorial and tentative; the last words are as printed.)
+> "Whose mother is Bhāgīrathī, whose father is the wise Nāgadeva; whose residence is always at Kāśī; whose mind [is] on the beloved of Ramā [Viṣṇu]."
 
 That he composed a commentary on the entire Kāṇva Saṃhitā is clear from this verse of the Madras copy:
 
@@ -4423,7 +4419,7 @@ The name of his work is *Yajur-mañjarī*. This is not a commentary on the whole
 > *vivicya bhāṣyaṃ vividhāṃś ca kalpā-n etasya toṣāya mudā vyatānīt |*
 > *bhaṭṭaḥ svayaṃbhūtanayo 'tra vidvān śrīkālanāthaḥ sahakāribhāvam ||*
 >
-> (Transcribed as printed; the second half-verse is not syntactically clear in the print.)
+> (The second half-verse is not syntactically clear in the print.)
 
 That is: having examined the commentary and many *kalpas*, for the pleasure of the Mahārāja Devarāja, Kālanātha, son of Svayambhūbhaṭṭa, composed this commentary.
 
@@ -4505,7 +4501,7 @@ Concerning him, Rāy Bahādur Manomohana Cakravartī wrote an essay in the journ
 > *bālye khyāpitarājapaṇḍitapadaṃ śvetārcibimbojjvala-cchatrotsiktamahāmahastanupadaṃ dattvā nave yauvane |*
 > *yasmai yauvanaśeṣayogyam akhilakṣmāpālanārāyaṇaḥ śrīmān lakṣmaṇasenadevanṛpatir dharmādhikāraṃ dadau ||*
 >
-> "In his boyhood [Lakṣmaṇasena] had given him the title of Royal Scholar [*rāja-paṇḍita*], …; in the freshness of his youth the glorious King Lakṣmaṇasena Deva, a Nārāyaṇa among all the guardians of the earth, gave him the office of Dharmādhikāra [judge of religious law], fitted for the remainder of his youth." (The middle of the first line is doubtful in the print; translation editorial and tentative.)
+> "In his boyhood [Lakṣmaṇasena] had given him the title of Royal Scholar [*rāja-paṇḍita*], …; in the freshness of his youth the glorious King Lakṣmaṇasena Deva, a Nārāyaṇa among all the guardians of the earth, gave him the office of Dharmādhikāra [judge of religious law], fitted for the remainder of his youth." (The middle of the first line is doubtful in the print.)
 
 King Lakṣmaṇasena Deva gave him the office of Dharmādhikāra. This Lakṣmaṇasena Deva carried on the rule from 1169 to 1199 C.E. Therefore Halāyudha must have composed his works between 1174 and 1199 C.E.
 
@@ -4519,7 +4515,7 @@ He composed not only the *Brāhmaṇa-sarvasva* but other works too. At the begi
 > *mīmāṃsāsarvasvaṃ vaiṣṇavasarvasvaṃ yatkṛtaś śaivasarvasvam |*
 > *paṇḍitasarvasvam asau sarvasvaṃ sarvadharāṇām ||*
 >
-> (As printed; the verse is not securely intelligible, and the source gives only the following sentence of explanation.)
+> (The verse is not securely intelligible, and the source gives only the following sentence of explanation.)
 
 He composed also works called *Mīmāṃsā-sarvasva*, *Vaiṣṇava-sarvasva*, *Śaiva-sarvasva* and *Paṇḍita-sarvasva*. But none of these has been found up to now.
 
@@ -4556,7 +4552,7 @@ His time is not determined. Two persons have quoted his commentary: Brāhmaṇab
 > *tasmāj jāto vigatamatsaramānasānāṃ mantrārthatattvaviduṣāṃ jayanindriyāṇi |*
 > *ślāghyaḥ śrutābhijanamādhavarātaśiṣya ādityadarśana imāṃ vivṛtiṃ vyadhatta ||*
 >
-> "He who was the chief of the twice-born, renowned for pure virtues of truthfulness and uprightness of mind, of an unsullied intellect in faith, who performed the prescribed rites, whose one virtue was the Cārāyaṇīya school, a giver — from him was born [Ādityadarśana], praiseworthy, of Vedic lineage, a pupil of Mādhavarāta, who composed this *Vivṛti*." (Translation editorial and tentative; the words "*jayanindriyāṇi*" in the second verse are doubtful and are left outside the rendering.)
+> "He who was the chief of the twice-born, renowned for pure virtues of truthfulness and uprightness of mind, of an unsullied intellect in faith, who performed the prescribed rites, whose one virtue was the Cārāyaṇīya school, a giver — from him was born [Ādityadarśana], praiseworthy, of Vedic lineage, a pupil of Mādhavarāta, who composed this *Vivṛti*." (The words "*jayanindriyāṇi*" in the second verse are doubtful and are left outside the rendering.)
 
 His father was Vedadarśana, who studied only the Cārāyaṇīya branch. One named Mādhavarāta was his guru. His work is the foremost among the Vedic commentaries.
 
@@ -4612,7 +4608,7 @@ The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view
 >
 > *…dhātuke (6-4-67) iti yaṇādeśaḥ | anekārthā dhātavaḥ | tenāyam arthaḥ—jayathopacinutha vā | kimartham | kṣayāya | kṣi nivāsagatyoḥ | bhūtānāṃ nivāsāya sthitaye gamanāya ca nānārūpakarmopabhogārthaceṣṭāyai jñānāya ca | tasmai araṃgamāma vaḥ | gatyarthakarmaṇi (3-12-2) iti karmaṇi caturthī | taṃ yuṣmākaṃ sambandhinaṃ rasaṃ tūrṇam alaṃ paryāptaṃ vā kṛtvā gacchema jīvanārtham āsādyam āśāsmahe iti bhogāsaktair addhvaśi [?] āśāsyate ||*
 
-("…[in the affix] *-dhātuke* (6-4-67) the substitution of *yaṇ*. Roots have many meanings; hence this sense: 'you conquer, or you gather'. For what? For *kṣaya*. [The root] *kṣi* is in the sense of dwelling and going. For the dwelling, the staying, the going of beings, for the effort that is for the enjoyment of manifold actions, and for knowledge. To that [flavour] may we go enough, of you. By the rule *gatyarthakarmaṇi* (3-12-2) the dative is in the sense of the object. Making that flavour of yours, belonging to you, quickly sufficient or adequate, may we go [to it]: thus we hope to obtain it for our livelihood — so it is hoped by those who are attached to enjoyment." Translation editorial and tentative; the grammatical sūtra numbers are printed 6-4-67 and 3-12-2 (re-read on the 600 dpi scan with the user; as printed — the Pāṇinian rules are usually numbered 6-4-87 and 2-3-12), for the rules *huśnuvoḥ sārvadhātuke* and *gatyarthakarmaṇi dvitīyācatuthyau ceṣṭāyām anadhvani*; two words of the Sanskrit are doubtful.)
+("…[in the affix] *-dhātuke* (6-4-67) the substitution of *yaṇ*. Roots have many meanings; hence this sense: 'you conquer, or you gather'. For what? For *kṣaya*. [The root] *kṣi* is in the sense of dwelling and going. For the dwelling, the staying, the going of beings, for the effort that is for the enjoyment of manifold actions, and for knowledge. To that [flavour] may we go enough, of you. By the rule *gatyarthakarmaṇi* (3-12-2) the dative is in the sense of the object. Making that flavour of yours, belonging to you, quickly sufficient or adequate, may we go [to it]: thus we hope to obtain it for our livelihood — so it is hoped by those who are attached to enjoyment." Translation editorial and tentative; the grammatical sūtra numbers are printed 6-4-67 and 3-12-2 (as printed — the Pāṇinian rules are usually numbered 6-4-87 and 2-3-12), for the rules *huśnuvoḥ sārvadhātuke* and *gatyarthakarmaṇi dvitīyācatuthyau ceṣṭāyām anadhvani*; two words of the Sanskrit are doubtful.)
 
 > मुमुक्ष्वभिप्रायेण त्वित्थं योजना—हे आपः यस्य परमात्मनः क्षयाय नित्यानन्दद्वारेणानुज्ञानाय जिन्वथ यतध्वम् । तं युष्माकमेव सम्बन्धिनं परं स्वभावं वयं युष्मत्प्रसादात्पूर्णं पर्याप्तं वा कृत्वा गच्छेम जानीयाम प्राप्नुयाम च मोक्षप्राप्तिरस्माकमस्त्वित्याशास्महे इत्यर्थः । आपो जनयेथा च नः यस्माद्युष्मत्प्रसादादेवमाशास्महे तस्मादस्मान् मोक्षप्राप्तियोग्यान् जनयध्वं कुरुध्वम् । महानुभावत्वादेकैव च सर्वत्र देवता ब्रह्मरूपा आदित्यरूपा वा श्रूयते ॥
 >
@@ -4681,7 +4677,7 @@ The Nārāyaṇa quoted by Keśavasvāmī is the one who made the Bodhāyana-sū
 >
 > *"paścārdhāt pūrvārdhād avadāyeti gopālaḥ"*
 >
-> "'Having cut off from the latter half, from the former half' — [so says] Gopāla." (Read as printed; translation editorial and tentative.)
+> "'Having cut off from the latter half, from the former half' — [so says] Gopāla."
 
 The very Gopāla who is thus cited in the '*Bodhāyana-kārikā*' of Bhavasvāmī must be this one.
 
@@ -4720,7 +4716,7 @@ This mantra, "*raśmayaś ca devā garagiraḥ*", is in the Taittirīya Āraṇy
 >
 > *"yathoditakramapariṇatabhaktyekalabhya eva bhagavadbodhāyana-ṭaṅka-dramiḍa-guhadeva-kapardi-bhāruci-prabhṛtyavigīta-śiṣṭa-parigṛhīta-purātanavedavedānta-vyākhyāna-suvyaktārtha-śrutinikara nidarśito 'yaṃ panthāḥ"*
 >
-> "This path, attainable only by devotion matured in the manner stated, is shown by the host of Śruti texts of clear meaning, in the expositions of the ancient Veda and Vedānta by the revered Bodhāyana, Ṭaṅka, Dramiḍa, Guhadeva, Kapardin, Bhāruci and others, accepted by the unobjecting learned." (Translation editorial and tentative.)
+> "This path, attainable only by devotion matured in the manner stated, is shown by the host of Śruti texts of clear meaning, in the expositions of the ancient Veda and Vedānta by the revered Bodhāyana, Ṭaṅka, Dramiḍa, Guhadeva, Kapardin, Bhāruci and others, accepted by the unobjecting learned."
 
 Since the Ācārya calls them ancient commentators, they must have been earlier than him by 300–400 years at least. The Ācārya must have had acquaintance with Guhadeva's commentary. From the manner in which they write, it appears that Guhadeva's commentary may have been of the spiritual (*ādhyātmika*) style.
 
@@ -4748,7 +4744,7 @@ In the series of publications of the Government Oriental Library, Mysore, this c
 >
 > "Hereafter, the Agni-kāṇḍa itself, the Āgneya-ārṣeya."
 
-(Read as printed; the words are doubtful and the translation is editorial and tentative.) "*Ataḥ param*" ("hereafter") — if it must be written "next, further on", then the commentary on the preceding parts must have been composed.
+ "*Ataḥ param*" ("hereafter") — if it must be written "next, further on", then the commentary on the preceding parts must have been composed.
 
 In the commentary on the Rudrādhyāya in the Tanjore library, at the end it is written "*Jñāna-yajña-bhāṣya*". In another book-store at Tanjore, besides the Rudrādhyāya, there is Bhaṭṭabhāskara's commentary on the 4th kāṇḍa
 
@@ -4798,7 +4794,7 @@ Here "the root *jeh* has also the sense of going" — so it is said by Kṣura a
 
 (4) On the root number 856 of the Bhvādi group: —
 
-> "आपस्प्रोथ [as printed] दुन्दुभे दुच्छुनान्"—(तै. सं. ४-६-६)
+> "आपस्प्रोथ दुन्दुभे दुच्छुनान्"—(तै. सं. ४-६-६)
 >
 > *"āpasproth[a] dundubhe ducchunān"* — (Taittirīya Saṃhitā 4-6-6)
 
@@ -4810,7 +4806,7 @@ In Kṣura: "*apasprothanaṃ huṅkaraṇam iti*" — "*apasprothana* is the ma
 >
 > *"piteva putraṃ dasaye vacobhiḥ"* — (Taittirīya Saṃhitā 4-2-5)
 >
-> "Like a father [to] his son, I [satisfy him] with words." (Kṣura, below, glosses *dasaye* as *niravasāyayāmi stutibhiḥ*; translation mine and tentative.)
+> "Like a father [to] his son, I [satisfy him] with words." (Kṣura, below, glosses *dasaye* as *niravasāyayāmi stutibhiḥ*.)
 
 Here in Kṣura: "*piteva putraṃ dasaye niravasāyayāmi stutibhiḥ iti vyākhyānāt*" — "by the explanation: 'I make [him] rest/settle with praises'."
 
@@ -4840,7 +4836,7 @@ Even for words that denote inert things he joins patronymic (*apatyārthaka*) su
 >
 > *"ayaṃ puro bhuvas tasya prāṇo bhauvāyano vasantaḥ prāṇāyanaḥ"* — (Taittirīya Saṃhitā 4-3-2)
 >
-> "This is the front, Bhuvas; his Prāṇa [is] Bhauvāyana, the spring [is] Prāṇāyana." (The words are as in the print; translation editorial and tentative.)
+> "This is the front, Bhuvas; his Prāṇa [is] Bhauvāyana, the spring [is] Prāṇāyana." (The words are as in the print.)
 
 > तस्य भुवःशब्दाभिधेयस्य प्रजापतेः सम्बन्धी प्राणः ।
 > अत एवापत्यत्वमुपचर्य भौवायन इत्युच्यते ।
@@ -4865,8 +4861,6 @@ At Śāntiniketan there is a commentary on the Taittirīya Saṃhitā in Grantha
 > *iti naidhruvaveṃkaṭeśa viracite yajurvedabhāṣyasaṃgrahasāre | saptame kāṇḍe paṃcamapraśne paṃcaviṃśo 'nuvākaḥ | paṃcamakāṇḍaprabhṛti saptamakāṇḍaparyaṃtaṃ yajurvedabhāṣyasaṃgrahaṃ śrīpadapūrvanivāsena likhitam ||*
 >
 > "Thus in the *Yajurveda-bhāṣya-saṃgraha-sāra* composed by Naidhruva Veṅkaṭeśa: in the seventh kāṇḍa, fifth praśna, the twenty-fifth anuvāka. From the fifth kāṇḍa to the seventh kāṇḍa, the *Yajurveda-bhāṣya-saṃgraha* written by Śrīpada-pūrva-nivāsa."
-
-(As printed; the two names re-read on the 600 dpi scan.)
 
 The name of this work is *Veda-bhāṣya-saṃgraha-sāra*. He composed the commentary only for kāṇḍas 5 to 7.
 
@@ -4912,12 +4906,12 @@ It is said. Sentences of Haradatta are seen quoted both in Sāyaṇācārya's *D
 
 The name of his work is *Mantrārtha-dīpikā*. Among the auspicious verses there is one thus —
 
-> उवटे मन्त्रवाख्या [as printed] गुणविष्णौ ब्राह्मणीयसर्वस्वे ।
+> उवटे मन्त्रवाख्या गुणविष्णौ ब्राह्मणीयसर्वस्वे ।
 > वेदविलासिन्यामपि कौशलमीक्ष्य तथापि मे सद्भिः ॥ ९ ॥
 >
-> *uvaṭe mantravākhyā [as printed] guṇaviṣṇau brāhmaṇīyasarvasve | vedavilāsinyām api kauśalam īkṣya tathāpi me sadbhiḥ || 9 ||*
+> *uvaṭe mantravākhyā guṇaviṣṇau brāhmaṇīyasarvasve | vedavilāsinyām api kauśalam īkṣya tathāpi me sadbhiḥ || 9 ||*
 >
-> (As printed; the verse is not securely intelligible; the following is the source's own statement of what it means.)
+> (The verse is not securely intelligible; the following is the source's own statement of what it means.)
 
 Looking at Uvaṭa's Yajurveda commentary, Guṇaviṣṇu's commentary on the Chāndogya mantras, Halāyudha's *Brāhmaṇa-sarvasva* and Gauradhara's *Veda-vilāsinī*, he made this exposition. In verses 10, 11 and 12 he has said as follows —
 
@@ -4947,7 +4941,7 @@ Along with Sāyaṇācārya's commentary on the Sāma-saṃhitā, Mādhava's *Vi
 >
 > *saṃprati bahuyatnato mādhavīyavivaraṇākhyasyaivaikamātrasyātijīrṇāśuddhapustakam ekam ardhaśa ubhayasthānād āsāditam | taccāpīha śaraleśābhyāṃ ṭippaṇyākāreṇa mudritam |*
 >
-> "Now, with much effort, a single, very decayed and impure manuscript of the work called *Mādhavīya-vivaraṇa* alone, half and half, from two places, has been obtained; and it has been printed here in the form of notes." (The words "*śaraleśākhāṃ*" are doubtful in the print; translation editorial and tentative.)
+> "Now, with much effort, a single, very decayed and impure manuscript of the work called *Mādhavīya-vivaraṇa* alone, half and half, from two places, has been obtained; and it has been printed here in the form of notes." (The words "*śaraleśākhāṃ*" are doubtful in the print.)
 
 Only one manuscript copy of the *Vivaraṇa* has been found. In two places half and half were obtained. The copies are decayed and very impure. He says that, having taken the excellent portions of it, he has printed them as notes on Sāyaṇa's commentary on the Sāma-saṃhitā.
 
@@ -5045,7 +5039,7 @@ Sāyaṇācārya has put forward the view that the Āraṇyaka-saṃhitā is als
 >
 > *yo 'yaṃ chandonāmakaḥ saṃhitāgranthaḥ so 'yam āraṇyakenādhyāyena ṣaṭsaṃkhyāpūrakena saha ṣaḍbhir adhyāyair upetaḥ |*
 >
-> "This Saṃhitā-work named Chandas is furnished with six adhyāyas together with the Āraṇyaka adhyāya, which completes the number six." (Translation editorial and tentative; this is as the print reads.)
+> "This Saṃhitā-work named Chandas is furnished with six adhyāyas together with the Āraṇyaka adhyāya, which completes the number six."
 
 This is the sentence at the beginning of the commentary. He has written that the sixth adhyāya at the end of the Chandārcika is the Āraṇya-saṃhitā. This is an opinion contrary to the others.
 
@@ -5065,7 +5059,7 @@ His introduction was given before. In telling of the matter of Rāvaṇa, the co
 >
 > *atha vāmadevasya sāmnaḥ pravṛttir āpastambaśākhāyāṃ—viśvebhir devyaiḥ pṛtanā jayāmi jāgatena chandasā saptadaśena stomena vāmadevyena sāmnā vaṣaṭkāreṇa vajreṇa iti | atra sāmagāyane stobhastomādilakṣaṇam asmābhiḥ sāmabhāṣye proktam ||*
 >
-> "Now the application of the Vāmadevya Sāman in the Āpastamba branch: 'With all [the gods ?] I conquer the hosts, with the Jagatī metre, with the seventeenfold stoma, with the Vāmadevya Sāman, with the *vaṣaṭ*-call, with the thunderbolt' — thus. Here, in the singing of the Sāman, the characteristics of the *stobha*, *stoma* and the rest have been stated by us in the Sāma-bhāṣya." (The words *viśvebhir devyaḥ* are as printed; translation editorial and tentative.)
+> "Now the application of the Vāmadevya Sāman in the Āpastamba branch: 'With all [the gods ?] I conquer the hosts, with the Jagatī metre, with the seventeenfold stoma, with the Vāmadevya Sāman, with the *vaṣaṭ*-call, with the thunderbolt' — thus. Here, in the singing of the Sāman, the characteristics of the *stobha*, *stoma* and the rest have been stated by us in the Sāma-bhāṣya." (The words *viśvebhir devyaḥ* are as printed.)
 
 The characteristics of the singing of the Sāman, the *stobha* and the rest, have been told in the Sāma-bhāṣya. We shall give an example from his Sāma-commentary.
 
@@ -5087,7 +5081,7 @@ Commentary: —
 >
 > *vāmadevaḥ vṛdhaḥ sadā sadā vardhamānaḥ samaṣṭirūpaḥ paramātmā citraś cāyanīyaḥ pūjanīyaḥ yadvā vicitrakṛtimayaḥ sakhā mitrabhūtaḥ paramātmā keyo [sic] ūtī ūtyā santarpaṇena karmaṇā vā naḥ asmān ābhuvat abhimukhyenābhavat | anubhavagocaro 'bhavat ||*
 >
-> "*Vāmadeva*; *vṛdhaḥ* — ever, ever increasing, the Supreme Self in the form of the totality; *citra* — worthy to be honoured, worshipful; or consisting of manifold creations; *sakhā* — the Supreme Self who has become a friend; … by help (*ūti*), by satisfying, or by action, *ābhuvat*, was before [us], facing [us]; became the object of experience." (Translation editorial and tentative; the word "*keyo*" is as printed.)
+> "*Vāmadeva*; *vṛdhaḥ* — ever, ever increasing, the Supreme Self in the form of the totality; *citra* — worthy to be honoured, worshipful; or consisting of manifold creations; *sakhā* — the Supreme Self who has become a friend; … by help (*ūti*), by satisfying, or by action, *ābhuvat*, was before [us], facing [us]; became the object of experience." (The word "*keyo*" is as printed.)
 
 Sūryapaṇḍita in the *Gītā-bhāṣya* quotes many works connected with the Sāmaveda and also mantras. The Sāma tradition was well known to him. For him Rāvaṇa's commentary had special esteem. At the end of the *Gītā-bhāṣya* this is made manifest.
 
@@ -5099,7 +5093,7 @@ Sūryapaṇḍita in the *Gītā-bhāṣya* quotes many works connected with the
 > *viditvā vedārthaṃ daśavadanavāṇīpariṇataṃ śataślokīvyākhyāṃ paramaramaṇīyām akaravam |*
 > *tato gītābhāṣyaṃ nikhilanigamārthaikanilayaṃ vidhijñāryaḥ sūryo nṛharikaruṇāpāṅgaśaraṇaḥ || 6 ||*
 
-(As printed; the first two lines are doubtful. No translation is given by the source beyond the following gloss.)
+(The first two lines are doubtful. No translation is given by the source beyond the following gloss.)
 
 That is: having learnt the meaning of the Veda from Rāvaṇa's work, … I composed the *Gītā-bhāṣya*.
 
@@ -5107,7 +5101,7 @@ In the Sāma-commentary he must have mostly given the spiritual (*ādhyātmika*)
 
 ### 5. Mahāsvāmī
 
-(the 17th century [as printed in the heading])
+(the 17th century)
 
 In the catalogue written by Aufrecht [printed "Āparṭ"] there is the name of a Sāma commentary composed by Mahāsvāmī.
 
@@ -5153,7 +5147,7 @@ This commentary follows the Kauthuma branch. Some mantras are in this text; some
 > *halāyudhena yo kāṇvo kauthumo guṇaviṣṇunā |*
 > *khyātā na mantrā vyākhyātās tān vyākhyātum ihodyamaḥ ||*
 >
-> (As printed; the verse is not securely intelligible and the source gives no translation beyond the sentence that follows.)
+> (The verse is not securely intelligible and the source gives no translation beyond the sentence that follows.)
 
 Since it is thus said, Halāyudha, Sāyaṇa and others have quoted sentences of Guṇaviṣṇu's work. Guṇaviṣṇu was a scholar in the courts of the Mahārāja Ballāḷasena and Lakṣmaṇasena. Therefore he can be said to have been in the last part of the 12th century C.E.
 
@@ -5179,7 +5173,7 @@ After the commentary of the 6th khaṇḍa, he has made the commentary on the fi
 >
 > "Thus the twentieth chapter of the Pada[-pāṭha] made by the revered Śākalya."
 
-(The last word of the colophon is as printed and doubtful. This sentence closes the account of the Pada-pāṭha of the Mādhyandina branch begun on the preceding pages, which the earlier draft already has.)
+(This sentence closes the account of the Pada-pāṭha of the Mādhyandina branch begun on the preceding pages, which the earlier draft already has.)
 
 From this a doubt arises whether Śākalya himself wrote the Pada-pāṭha for the Mādhyandina branch also. There are no sufficient grounds to believe this sentence.
 
@@ -5207,7 +5201,7 @@ According to the printed copy the reading is "*śatavalśaṃ*" and "*sahasraval
 >
 > *yo asmān dhvarād yagṃ vayaṃ dhvarāma taṃ dhvara* (1-1-5)
 >
-> (The line is transcribed as printed; its words are doubtful. The point made is the difference of Pada-readings below.)
+> (Its words are doubtful. The point made is the difference of Pada-readings below.)
 
 In the printed book (the Pune copy) there are the two words "*dhvarāt*" and "*yam*"; in the Nāsik copy there is the reading "*dhvarāyam*", and for it the Pada-reading "*dhvara*" and "*ayam*".
 
@@ -5236,7 +5230,7 @@ The author of its Pada-pāṭha is Ātreya. This name is mentioned in many works
 >
 > "Ukha gave [it] to Ātreya, by whom the division into words was made."
 
-That is: Ukha taught Ātreya. He has written that Ātreya made the division into words (the transcription is as printed; the form of the first word is doubtful).
+That is: Ukha taught Ātreya. He has written that Ātreya made the division into words (the form of the first word is doubtful).
 
 3. In the Kāṇḍānukramaṇī there is a sentence with the same intention —
 
@@ -5286,7 +5280,7 @@ According to Śākalya '*mehanā*' is one word. In the view of Gārgya there are
 >
 > *chandogānāṃ tu mehanā śabdo naivāsti yad indra citra mu iha nāsti ity evaṃ rūpaḥ pāṭhaḥ teṣāṃ—citra | me | iha | na | asti ity eṣāṃ padānāṃ paṃcānāṃ me iha na ity evaṃ rūpāṇi madhyamāni padāni ||*
 >
-> "For the Chandogas [Sāma-singers] the word *mehanā* does not exist at all; their reading is of the form '*yad indra citra mu iha nāsti*'; in their [Pada-reading]: *citra | me | iha | na | asti* — of these five words the middle ones have the forms *me*, *iha*, *na*." (Translation editorial and tentative.)
+> "For the Chandogas [Sāma-singers] the word *mehanā* does not exist at all; their reading is of the form '*yad indra citra mu iha nāsti*'; in their [Pada-reading]: *citra | me | iha | na | asti* — of these five words the middle ones have the forms *me*, *iha*, *na*."
 
 In the Nirukta commentary, too, Durga writes in the same context thus —
 
@@ -5314,8 +5308,6 @@ The Pada-pāṭha of the Sāmaveda differs a little from the Pada-pāṭhas of t
 | स्वस्तये *svastaye* | सु+अस्तये *su + astaye* | सु अस्तीति *su astīti* (3-21) |
 | उस्रियाः *usriyāḥ* | उ+स्रियाः *u + sriyāḥ* | उस्राविणोऽस्यां भोगाः *usrāviṇo 'syāṃ bhogāḥ* (4-19) |
 | पुत्रस्य *putrasya* | पुत्+त्रस्य *put + trasya* | पुन्नरकं ततस्त्रायत इति *punnarakaṃ tatas trāyata iti* (2-11) |
-
-(The Nirukta references were re-read on the 600 dpi scan with the user; the Sanskrit of the third column is transcribed as printed.)
 
 ### Page 291
 
@@ -5453,7 +5445,7 @@ In different Saṃhitās there are sometimes different Pada-pāṭhas for one an
 >
 > "May we hear what is good with our ears, O gods; may we see what is good with our eyes, O worshipful ones."
 
-This occurs in the Ṛgveda (1-86-8 [as printed]), the Yajus (25-21), the Maitrāyaṇī Saṃhitā (4-14-2), the Kāṇva Saṃhitā (35-1) and the Taittirīya Āraṇyaka (1-1-1) and other places. Except for the last, in all the other Pada-pāṭhas "*yajatrāḥ*" is *nighāta*, that is, wholly *anudātta-svarita* in accent; but in the variant readings of the Taittirīya Āraṇyaka and the Maitrāyaṇī Saṃhitā this "*yajatrāḥ*" is a word with its first syllable *udātta*.
+This occurs in the Ṛgveda (1-86-8), the Yajus (25-21), the Maitrāyaṇī Saṃhitā (4-14-2), the Kāṇva Saṃhitā (35-1) and the Taittirīya Āraṇyaka (1-1-1) and other places. Except for the last, in all the other Pada-pāṭhas "*yajatrāḥ*" is *nighāta*, that is, wholly *anudātta-svarita* in accent; but in the variant readings of the Taittirīya Āraṇyaka and the Maitrāyaṇī Saṃhitā this "*yajatrāḥ*" is a word with its first syllable *udātta*.
 
 ### *Iṣṭā rāyaḥ*
 
@@ -5469,7 +5461,7 @@ In this matter the commentators hold different opinions. It is given below —
 >
 > *uvaṭa—iṣṭā rāyaḥ | yajateḥ kṛtasaṃprasāraṇasyaitadrūpaṃ niṣṭhāpratyaye parato dānārthasya | ā iṣṭā rāyaḥ maryādayā iṣṭāni dhanāni ||*
 >
-> "Uvaṭa: *iṣṭā rāyaḥ* — this is the form of [the root] *yaj*, in the sense of giving, with *saṃprasāraṇa* made, when the *niṣṭhā* suffix follows. *ā iṣṭā rāyaḥ*: wealth that is desired within bounds." (Translation editorial and tentative.)
+> "Uvaṭa: *iṣṭā rāyaḥ* — this is the form of [the root] *yaj*, in the sense of giving, with *saṃprasāraṇa* made, when the *niṣṭhā* suffix follows. *ā iṣṭā rāyaḥ*: wealth that is desired within bounds."
 
 > सायण—हे इष्टः । तृजन्तस्य संबुद्धिः ।
 > सायण—(बेरे स्थलदल्लि) हे इष्टः । ........ यद्वा इष्टा इति प्रथमान्तम् ।
@@ -5479,7 +5471,7 @@ In this matter the commentators hold different opinions. It is given below —
 > *sāyaṇa—(in another place) he iṣṭaḥ | ........ yadvā iṣṭā iti prathamāntam |*
 > *bhaṭṭabhāskara—he iṣṭaḥ eṣaṇaśīla |*
 >
-> "Sāyaṇa: *he iṣṭaḥ* — the vocative of a [word] ending in *tṛc*. Sāyaṇa (in another place): *he iṣṭaḥ* … or else *iṣṭā* is in the nominative. Bhaṭṭabhāskara: *he iṣṭaḥ* — O one of seeking nature." (Translation editorial and tentative.)
+> "Sāyaṇa: *he iṣṭaḥ* — the vocative of a [word] ending in *tṛc*. Sāyaṇa (in another place): *he iṣṭaḥ* … or else *iṣṭā* is in the nominative. Bhaṭṭabhāskara: *he iṣṭaḥ* — O one of seeking nature."
 
 > केचिन्निष्ठायां वर्णव्यत्ययेन इकारस्यैकारमाहुः । अना-
 > मंत्रितत्वं च मन्यंते । तदा आद्युदात्तत्वं च दुर्लभम् ।
@@ -5487,7 +5479,7 @@ In this matter the commentators hold different opinions. It is given below —
 >
 > *kecin niṣṭhāyāṃ varṇavyatyayena ikārasyaikāram āhuḥ | anāmaṃtritatvaṃ ca manyaṃte | tadā ādyudāttatvaṃ ca durlabham | śākhāṃtare tu—ā iṣṭaḥ eṣṭa iti matvā avagrahaṃ kurvaṃti ||*
 >
-> "Some, [in the word] *iṣṭā*, by a change of letters, say [that] *ikāra* [becomes] *aikāra*; and they consider it not a vocative; then the first-syllable *udātta* accent is hard to obtain. But in another branch, thinking '*ā iṣṭaḥ*, *eṣṭaḥ*', they make an avagraha." (Translation editorial and tentative.)
+> "Some, [in the word] *iṣṭā*, by a change of letters, say [that] *ikāra* [becomes] *aikāra*; and they consider it not a vocative; then the first-syllable *udātta* accent is hard to obtain. But in another branch, thinking '*ā iṣṭaḥ*, *eṣṭaḥ*', they make an avagraha."
 
 And —
 
@@ -5517,8 +5509,6 @@ Skandasvāmin too has, for the word "*ādityai*", written the different opinions
 >
 > *śākalyātreyaprabhṛtibhir nāvagrahītaṃ pūrvanirvacanābhiprāyeṇa | gārgyaprabhṛtibhir avagrahītam iti | tad eva kāraṇam | vicitrāḥ padakārāṇām abhiprāyāḥ | kvacid upasargaviṣaye 'pi*
 >
-> "By Śākalya, Ātreya and others it was not taken with an avagraha, in accordance with the earlier explanation; by Gārgya and others it was taken with an avagraha. That is the very reason: strange are the intentions of the Pada-makers; sometimes even in a matter of prefixes…" (the sentence continues on the next page; translation editorial and tentative).
+> "By Śākalya, Ātreya and others it was not taken with an avagraha, in accordance with the earlier explanation; by Gārgya and others it was taken with an avagraha. That is the very reason: strange are the intentions of the Pada-makers; sometimes even in a matter of prefixes…" (the sentence continues on the next page).
 
 ---
-
-**Progress note (Gap D / ALL GAPS):** Gap D — printed pp. 288–295 (PDF 314–321) — is translated. **All four gaps are now translated:** Gap A (pp. 95–167), Gap B (pp. 191–205), Gap C (pp. 261–283), Gap D (pp. 288–295). Remaining work (not translation): integrate this file into the Vol 1 build (replacing the five edition notices of the earlier draft), renumber the chapters to match the original contents table, rebuild `vol1_full.pdf`, run `voice.residual()`, update `CLAUDE.md`.

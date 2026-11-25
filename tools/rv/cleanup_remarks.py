@@ -1,10 +1,17 @@
 #!/usr/bin/env python3
 """Remove the translator's remarks from a legacy volume's English file, one KIND at a time (Vol 2 clean-up, user, Nov 17 2026).
 
-  python3 tools/rv/cleanup_remarks.py VOL KIND [--write]
+  python3 tools/rv/cleanup_remarks.py VOL KIND [--write] [--file NAME.md]     (--file: another English file of the volume, e.g. Vol 1's Gaps file)
 
 KINDs: oldnotes   old mid-file progress/target notes and the closing progress notes (-> one trailing progress note)
        notes      whole-line italic notes *( ... )* in which EVERY sentence is a process remark (mixed notes stay; listed in review/notes_kept.tsv)
+       paren      (Vol 1, Nov 25 2026) inside any parenthesis ( … ), *( … )* or bracket [ … ]: the clauses that are only a process remark
+                  ("re-read from the better scan in the [?] pass", "as printed", "gloss mine and tentative", "best-effort reading" …) go;
+                  clauses that carry content (a quotation, a reference number, Sanskrit, a figure, a `[?]`) stay; an emptied parenthesis goes whole.
+                  Unlike the other kinds it also works at the end of Sanskrit lines (the parenthesis itself must be free of Devanagari).
+       session    whole paragraphs in which the translating session talks (Progress, Target for next session, Pacing/Honesty/Confidence notes,
+                  Caveats, flag lists "- p. N — …", Superseded notes)
+       marks      no change: writes volN/review/open_readings.tsv, every `[?]` and `[sic]` left in the file (file, page, line, mark, context)
 Dry run by default: prints counts, damage checks and 30 before/after samples.  --write applies, appends to volN/review/removed_remarks.tsv
 (kind, page, line, text removed, line before, line after) so that any removal can be undone, and prints the damage report.
 Never touches lines with Devanagari/Kannada, `[?]`, `[sic]` (user decision); whole remarks only, never half a sentence."""
@@ -36,12 +43,13 @@ def process_sentence(s):
 KEEPNOTE = re.compile(r':\s*$')            # lead-in to a list: stays
 NOTE = re.compile(r'(\s*>?\s*)\*\((.*)\)\*\s*$')
 def load(vol):
-    p = os.path.join(ROOT, f'vol{vol}', f'Rigveda_Samhita_Vol{vol}_English_Translation.md')
+    name = sys.argv[sys.argv.index('--file') + 1] if '--file' in sys.argv else f'Rigveda_Samhita_Vol{vol}_English_Translation.md'
+    p = os.path.join(ROOT, f'vol{vol}', name)
     return p, open(p, encoding='utf8').read().split('\n')
 def pages(L):
     pg = 0; out = []
     for l in L:
-        m = re.match(r'### Pages? (\d+)', l)
+        m = re.match(r'#{2,4} (?:Printed )?(?:Pages?|pp?\.) ?(\d+)', l)
         if m: pg = int(m.group(1))
         out.append(pg)
     return out
@@ -130,7 +138,80 @@ def kind_asprinted2(L):
         n = ASP.sub(lambda m: m.group(0) if re.search('[\u0900-\u097f*]|sic|^\\s?\\[\\?', m.group(0)) else '', l)
         if n != l: rm[i] = n
     return rm
-KINDS = {'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+# ---- kind paren: process clauses inside parentheses and brackets
+PROC = re.compile(r're-?(read|rendered|checked|transcribed|verified)\b|better scan|600 dpi|numeral pass|\[\?\] pass|\bas printed\b|\bas legible\b|'
+                  r'\btentative\b|\bgloss(es)? (is |are )?(mine|my own)\b|\b(translation|rendering|sense)( of [a-z ]{0,30})? (is )?(mine|editorial)\b|best-effort|lower-confidence|'
+                  r'\bmisreading\b|\bearlier (text|rendering|heading|reading)\b|\btranscribed (from|as|letter)|\bSuperseded\b|\bread by me\b|\bnot corrected\b', re.I)
+CONTENT = re.compile(r'["“”‘’*=:]|[\u0900-\u097f\u0c80-\u0cff]|\d+-\d+|\[\?\]|\[sic\]')
+HARD = re.compile(r'\bmisreading\b|\bearlier (text|rendering|heading|reading)\b|\bread by me\b|\bwith the user\b|\b(was|were) missing\b|^Missing before\b|\bmatch(es)? the print\b|'
+                  r'\bas the print reads\b|\buser\'s reading\b|^Caveat\b|\bthis project\b|\bresidual uncertainty\b|\bcompleted by me\b|\bI see\b|\bThe user typed\b|'
+                  r'\bordinary resolution\b|footnote block appears\b', re.I)      # ours whatever else the clause holds
+MASK = [('[?] pass', '\x01'), ('[?]', '\x02'), ('[sic]', '\x03'), ('(?)', '\x04')]
+def mask(t):
+    for a, b in MASK: t = t.replace(a, b)
+    return t
+def unmask(t):
+    for a, b in MASK: t = t.replace(b, a)
+    return t
+GROUP = re.compile(r'(\s?)(\*?)([(\[])([^()\[\]\n]{1,900})([)\]])(\*?)')        # innermost groups only ([?], [sic], (?) are masked first)
+def proc_clause(c):
+    c = unmask(c).strip()
+    if not c or len(c) > 260: return False
+    if HARD.search(c): return True
+    if not PROC.search(c) or CONTENT.search(c.replace('[?] pass', 'pass')): return False
+    weak = re.sub(r'\bas (printed|legible)\b', '', c, flags=re.I)                 # 'as printed' alone marks a remark only in a short clause
+    return bool(PROC.search(weak)) or len(c) <= 60
+def clean_group(inner):
+    """inner text of a parenthesis -> (new inner or '' when nothing is left, changed?)"""
+    u = unmask(inner)
+    if re.search('[ऀ-ॿಀ-೿]', u) or not (PROC.search(u) or HARD.search(u)): return inner, False
+    keep_s = []; changed = False
+    for snt in sentences(u):
+        end = re.search(r'[.!?]["”)\]*]*\s*$', snt); body = snt[:end.start()] if end else snt
+        cl = re.split(r';\s+', body); keep = [c for c in cl if not proc_clause(c)]
+        if len(keep) < len(cl): changed = True
+        if keep:
+            t = '; '.join(keep)
+            if len(keep) < len(cl) and t[:1].islower() and body[:1].isupper(): t = t[:1].upper() + t[1:]
+            keep_s.append(t + (snt[end.start():].rstrip() if end else ''))
+    return mask(' '.join(keep_s)), changed
+def sub_paren(l):
+    def rep(m):
+        sp, a1, o, inner, c, a2 = m.groups()
+        if (o == '(') != (c == ')') or bool(a1) != bool(a2): return m.group(0)
+        new, ch = clean_group(inner)
+        if not ch: return m.group(0)
+        if not new.strip(): return ''
+        return sp + a1 + o + new + c + a2
+    t = mask(l)
+    for _ in range(3):
+        n = GROUP.sub(rep, t)
+        if n == t: break
+        t = n
+    return unmask(t)
+def kind_paren(L):
+    rm = {}
+    for i, l in enumerate(L):
+        if l.startswith('#') or not (PROC.search(l) or HARD.search(l)): continue
+        n = sub_paren(re.sub(r',\s+as printed(?=\s*[;)\]])', '', l))             # '(Jai. Sū. 2-1-8, as printed)' -> '(Jai. Sū. 2-1-8)'
+        if n == l: continue
+        n = re.sub(r'\s+$', '', n)
+        rm[i] = None if not n.strip() or n.strip() in ('>', '> *', '**') else n
+    return rm
+# (the notes '⚠ Note on a deliberate skip' / 'alphabetical rishi-index' of Vol 1 stay: publish/vol1_clean.py puts the Gaps translation in their place)
+# ---- kind session: whole paragraphs that are the translating session talking (progress, targets, pacing/honesty/confidence notes, flag lists)
+SESSION_LABEL = re.compile(r'^(?:>\s*)?\*\*(?:[⚠🎉] ?)?(Progress\b|MILESTONE|Known issues|Note on a source scanning|Target (for next session|reached)|Pacing note|Honesty notes?|Confidence notes?|Caveats?:|This batch (established|completed)|'
+                           r'Also completed this batch|The genuine highlight of this batch|IMPORTANT STRUCTURAL FLAG|Structural note|Notes on gaps)', re.I)
+SESSION_WORD = re.compile(r'\b(this|next|previous|last|earlier) (batch|session)\b|\bPROCESS INCIDENT\b|how you\'d like|\bPDF pages? \d+', re.I)
+def kind_session(L):
+    rm = {}
+    for i, l in enumerate(L):
+        if l.startswith('#') or re.search('[\u0900-\u097f\u0c80-\u0cff]', l) or 'Note on a deliberate skip' in l or 'alphabetical rishi-index' in l: continue
+        if SESSION_LABEL.match(l) or re.match(r'^(?:>\s*)?\*\((Superseded|Caveat|No outstanding issues|To be continued)\b.*\)\*\s*$', l) or re.match(r'^(?:>\s*)?- p\.\s?\d+', l) \
+           or (SESSION_WORD.search(l) and re.match(r'^(?:>\s*)?(\*\*|\*\(|\d+\. \*\*)', l)):
+            rm[i] = None
+    return rm
+KINDS = {'session': kind_session, 'paren': kind_paren, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
@@ -154,8 +235,20 @@ def damage(L):
     for i in range(2, len(L)):
         if L[i] == L[i - 1] == L[i - 2] == '': bad.append((i + 1, 'triple blank', ''))
     return bad
+def list_marks(vol):
+    d = os.path.join(ROOT, f'vol{vol}'); rows = []
+    for name in sorted(x for x in os.listdir(d) if x.endswith('English_Translation.md') and '_scan_' not in x):
+        L = open(os.path.join(d, name), encoding='utf8').read().split('\n'); pg = pages(L)
+        for i, l in enumerate(L):
+            for m in re.finditer(r'\[\?\]|\[sic\b[^\]]*\]', l):
+                rows.append((name.replace(f'Rigveda_Samhita_Vol{vol}_', '').replace('.md', ''), str(pg[i]), str(i + 1), m.group(0)[:5] + (']' if len(m.group(0)) > 5 else ''),
+                             ('…' if m.start() > 110 else '') + l[max(0, m.start() - 110):m.end() + 60].replace('\t', ' ')))
+    f = os.path.join(d, 'review', 'open_readings.tsv')
+    open(f, 'w', encoding='utf8').write('file\tprinted page\tline\tmark\tcontext\n' + ''.join('\t'.join(r) + '\n' for r in rows))
+    print(f'{len(rows)} marks -> {os.path.relpath(f, ROOT)}')
 def main():
     vol, kind = int(sys.argv[1]), sys.argv[2]; write = '--write' in sys.argv
+    if kind == 'marks': return list_marks(vol)
     p, L = load(vol); pg = pages(L)
     rm = KINDS[kind](L); lastset = rm.get('last')
     idx = sorted(k for k in rm if k != 'last')
