@@ -18794,6 +18794,168 @@ Then Indra, having fully performed the ājya-portion and the oblations that are 
 
 After the slaying of Vṛtra, all the gods who were near Indra said to Agni and Soma: "O deities Agni and Soma, you have now returned from Vṛtra's mouth. From now on carry and offer to us the oblations that are offered in homa for us in sacrifices and the like." To this, Agni and Soma said to the gods: "O gods, we have been in Vṛtra's body for a long time and have been deprived of splendour by his teeth and jaws and the like; that is, our power has shrunk. Our power, or splendour, has all remained standing in Vṛtra." **NOTE** Then the gods deliberated among themselves how to bring back the splendour of Agni and Soma that was in Vṛtra's body, **NOTE** and decided that, since the cow harms no one and behaves with friendliness toward all, they would send her and have the splendour that was in Vṛtra brought. Then they called the cow and told her to bring the splendour that was in Vṛtra. She said: "So be it. But the splendour that I bring must always stay in me, in the form of milk and ghee. People must obtain them from me and perform meals and the like. In this way the boon
 
+### Printed p. 638
+
+is given to me, I shall bring it," said the cow. The gods said "So be it" and gave her the boon accordingly. Having obtained the boon, the cow brought that splendour. As the result of this granting of a boon, even now the people of the world get nourishing food such as milk and ghee from cows from time to time and eat it. Here ghee, or ghṛta, is said to be the splendour of Agni. For that very reason, in sacrifices and the like, people make homa and other offerings in the fire with ghṛta, or ghee, and make the fire blaze. Milk is said to be the splendour of Soma. For Soma is in liquid form like milk, and to increase the taste of the Soma-juice they mix milk with it. This is called gavāśira. By mixing milk in this way the splendour, or essence (taste), of Soma increases. The man who knows the greatness of these splendours of Agni and Soma becomes splendid.
+
+ब्रह्मवादिनो वदंति किंदेवत्यं पौर्णमासमिति प्राजापत्यमिति ब्रूयात्तेनेंद्रं ज्येष्ठं पुत्रं निरवासाययदिति तस्माज्जेष्ठं पुत्रं धनेन निरवासयंति ॥ (*brahmavādino vadaṃti kiṃdevatyaṃ paurṇamāsamiti prājāpatyamiti brūyātteneṃdraṃ jyeṣṭhaṃ putraṃ niravāsāyayaditi tasmājjeṣṭhaṃ putraṃ dhanena niravāsayaṃti ‖*)
+
+(Tai. Saṃ. 2-5-20 to 7) **NOTE**
+
+The Brahmavādins ask who is the chief deity of this sacrifice called Paurṇamāsya (the full-moon sacrifice). The answer to be given is that Prajāpati is the deity presiding over the sacrifice. But in this sacrifice Prajāpati has no share of the oblation, has he? Then how is Prajāpati the deity of this sacrifice? The answer: formerly Prajāpati created all the sacrifices. This is stated in the Vedic sentence
+
+प्रजापतिर्यज्ञानसृजताग्निहोत्रं चाग्निष्टोमं च पौर्णमासीं चोक्त्यं चामावास्यां चातिरात्रं च (*prajāpatiryajñānasṛjatāgnihotraṃ cāgniṣṭomaṃ ca paurṇamāsīṃ coktyaṃ cāmāvāsyāṃ cātirātraṃ ca*)
+
+(Kṛ. Saṃ. 1-5-9-) **NOTE**
+
+That is, it is said here that Prajāpati created all sacrifices such as agnihotra, agniṣṭoma, paurṇamāsī (the sacrifice performed on the day of the full moon), ukthya, amāvāsyā (the sacrifice performed on the day of the new moon) and atirātra. All the sacrifices created by Prajāpati became his own property. Therefore, as is the custom in worldly practice, that is, as one gives his property to his eldest son, Prajāpati entrusted the chief deityship of these sacrifices to his eldest son Indra. This is stated in the very passage of the Taittirīya Saṃhitā तेनेंद्रं निरवासाययत्तेनेंद्रः परमां काष्ठामगच्छत् (*teneṃdraṃ niravāsāyayatteneṃdraḥ paramāṃ kāṣṭhāmagacchat*). Therefore all the oblations offered to Indra, the son, in the full-moon sacrifice must be regarded as offered to the father Prajāpati. It is for this very reason that
+
+### Printed p. 639
+
+this sacrifice called Paurṇamāsya is customarily said to be prājāpatya, that is, related to Prajāpati. Following this order, even now in worldly practice it is the custom for a father to give all his property, wealth and the rest, to his eldest son.
+
+**The reason why Prajāpati received this name** **NOTE**
+
+In this account there is an episode:
+
+इंद्रो वैवृत्रं हत्वा सर्वा विजितीर्विजित्याब्रवीत्सजापतिमहमेतवसानि यत्त्वमहं महानसानीति स प्रजासतिरब्रवीदथ कोऽहमिति यदैवैतदवोच इत्यब्रवीत्ततो वै को नाम प्रचापतिरभवत्को वै नाम प्रजापतिर्यन्महानिंद्रोऽभवत्तन्महेंद्रस्य महेंद्रत्वं ॥ (*iṃdro vaivṛtraṃ hatvā sarvā vijitīrvijityābravītsajāpatimahametavasāni yattvamahaṃ mahānasānīti sa prajāsatirabravīdatha ko 'hamiti yadaivaitadavoca ityabravīttato vai ko nāma pracāpatirabhavatko vai nāma prajāpatiryanmahāniṃdro 'bhavattanmaheṃdrasya maheṃdratvaṃ ‖*)
+
+(I. Patra - 12-30.) **NOTE**
+
+Formerly, after Indra had slain Vṛtra, having conquered all the regions of the earth, he said to Prajāpati: "O Prajāpati, you have now gained a great position and are worshipful. From now on I want your high rank." Prajāpati said: "If you take my rank, then who am I (कः (*kaḥ*))? What will my position be?" Indra replied: "O Prajāpati, as you yourself have just said, from now on your name will be कः (*kaḥ*) (Who); that is, you will be denoted by the word क (*ka*)." Therefore from that time Prajāpati became denoted by the word क (*ka*). This is well known. It is for this very reason that this matter is stated in the pratigraha mantras that are to be recited when accepting any gift, namely
+
+क इदं कस्मा अदादित्याह प्रजापतिर्वै कः । प्रजापतॆय एव तद्ददाति (*ka idaṃ kasmā adādityāha prajāpatirvai kaḥ | prajāpatèya eva taddadāti*)
+
+This is a Brāhmaṇa sentence of the other Vedas. Since the word क (*ka*) has the meaning "happiness", in matters and subjects related to Prajāpati, Prajāpati is said to be of the nature of happiness. Since Indra thus took on the greatness of Prajāpati, the appellation Mahān came to Indra; that is, Indra became Mahān Indra. This matter is stated in other Vedas also:
+
+इंद्रो वृत्रमहन्तं देवा अब्रुवन्महान्वा अयमभूद्यो वृत्रमवधीदिति तन्महेंद्रस्य महेंद्रत्वं । (*iṃdro vṛtramahantaṃ devā abruvanmahānvā ayamabhūdyo vṛtramavadhīditi tanmaheṃdrasya maheṃdratvaṃ |*)
+
+The gods, praising Indra's slaying of Vṛtra, said: Because this Indra slew Vṛtra he became Mahendra (gained a high position); that is, he became greater than all the gods. This is the reason for Indra's getting the name Mahendra, it is said.
+
+स महान्भूत्वा देवता अब्रवीदुद्धारं म उद्धरतेति यथाष्टेतिर्हि सृष्टि (*sa mahānbhūtvā devatā abravīduddhāraṃ ma uddharateti yathāṣṭetirhi sṛṣṭi*)
+
+### Printed p. 640
+
+यो वै भवति यः श्रेष्ठतामश्नुते स महान्भवति तं देवा अब्रुवन् स्वयमेव ब्रूष्ट यत्ते भविष्यतीति स एतं माहेंद्रं ग्रहमब्रूत माध्यंदिनं सवनानां निष्केवल्यमुक्थानां तिष्टुभं छंदसां पृष्ठं साम्यां तमस्मा उद्धारमुदहरन् उदस्मा उद्धारं हरंति य एवं वेद। (*yo vai bhavati yaḥ śreṣṭhatāmaśnute sa mahānbhavati taṃ devā abruvan svayameva brūṣṭa yatte bhaviṣyatīti sa etaṃ māheṃdraṃ grahamabrūta mādhyaṃdinaṃ savanānāṃ niṣkevalyamukthānāṃ tiṣṭubhaṃ chaṃdasāṃ pṛṣṭhaṃ sāmyāṃ tamasmā uddhāramudaharan udasmā uddhāraṃ haraṃti ya evaṃ veda|*) **NOTE**
+
+Then Indra, having gained a high position as stated above, called the gods and said: "O gods, since I have gained a high position, arrange on this account, that is, to congratulate me, a honorific reception." In worldly practice too, when a man gains exceptional prosperity, or distinction in learning and the like, or royal honour, since such a man becomes known as eminent among people, it is the custom for people to arrange a reception to congratulate him. Accordingly Indra questioned the gods on this matter. The gods also approved Indra's word and said: "O Indra, how is this reception to be given? How will you be pleased if it is done? You must tell us; we shall act accordingly." Indra said: "Among the grahas (a graha is a special vessel for drinking Soma), the Māhendra graha (the vessel of Soma offered to me, Mahendra) must be the best of all the grahas. Likewise you must approve that, among the three savanas, the Prātaḥsavana, the Mādhyandinasavana and the Tṛtīyasavana, the Mādhyandinasavana; among the śastras (mantras) such as the Āśvinaśastra and the Marutvatīya, the Niṣkevalyaśastra; among the metres such as Gāyatrī, the Triṣṭubh metre; and among the sāman chants, the Bṛhad-Rathantara sāman, which accomplishes the Pṛṣṭha stotra, are the best. For all of these are dear to me. This is the reception that you will give me." The gods agreed, saying "So be it," and approved the pre-eminence of the Māhendra graha and the others in sacrifices and the like. This matter is also stated in other Vedas:
+
+स एतं माहेंद्रमुदहरत वृत्रं हत्वान्यासु देवतास्वधीति यन्माहेंद्रो गृकृत उद्धारमेव तं यजमान उद्धरते व प्रजास्वधि (*sa etaṃ māheṃdramudaharata vṛtraṃ hatvānyāsu devatāsvadhīti yanmāheṃdro gṛkṛta uddhārameva taṃ yajamāna uddharate va prajāsvadhi*)
+
+The yajamāna who performs a sacrifice and knows this obtains pre-eminence and an eminent position among the people.
+
+तं देवा आब्रुवन्सर्वं वा आवोचथा अपि नोऽत्रास्त्विति स नेत्यब्रवीत्कथं वोऽपि स्यादिति तमब्रुवन्नस्येव नोऽस्तु मघवन्निति तानीक्षतैव ॥ (*taṃ devā ābruvansarvaṃ vā āvocathā api no 'trāstviti sa netyabravītkathaṃ vo 'pi syāditi tamabruvannasyeva no 'stu maghavanniti tānīkṣataiva ‖*)
+
+(I. Bṛ- 12-21) **NOTE**
+
+Then the gods said to Indra: "O Indra, we have honoured you and offered you in the sacrifice all the essential things that you wished. You alone have taken all the essential things. Give some of them to us too." Indra said: "That cannot be. I alone desired all these essential things. They all came to me. What reason is there to give them to you?" The gods again said: "O
+
+### Printed p. 641
+
+Indra, do not refuse our prayer in this way. Give us too a little share," they prayed; Indra looked at them with a look of favour. He said nothing more.
+
+ते देवा अब्रुवन्नियं वा इंद्रस्य प्रिया जाया वानवाता प्रासहा नामास्यामेवेच्छामहा इति तथेति तस्यामैच्छंत सैनानब्रवीत्वा तर्वः प्रतिवक्तास्मीति तस्मात्त्रयः पत्याविच्छंते तस्मादु स्स्यनुरात्रं पत्याविच्छते तां प्रातरुपायन्नैतदेव प्रत्यपदृत । (*te devā abruvanniyaṃ vā iṃdrasya priyā jāyā vānavātā prāsahā nāmāsyāmevecchāmahā iti tatheti tasyāmaicchaṃta sainānabravītvā tarvaḥ prativaktāsmīti tasmāttrayaḥ patyāvicchaṃte tasmādu ssyanurātraṃ patyāvicchate tāṃ prātarupāyannaitadeva pratyapadṛta |*) (Ai. Brā. 12-22)
+
+Since Indra said not a word, the gods did not understand Indra's intention. So they spoke among themselves thus: "This woman who is now before us is Indra's beloved wife. She is of the middle class. Her name is Nānātā. **NOTE** Kings have three kinds of wives. Among them it is the custom to call the wife of the best class Mahī, the wife of the middle class Nānātā, and the wife of the lowest class Parivṛtti. For this very reason, among the duties to be performed by women in the Aśvamedha sacrifice, the chief queen is designated by the word भूः (*bhūḥ*), the wife called Nānātā by the word भुव (*bhuva*), and the wife called Parivṛtti by the word सुवः (*suvaḥ*). Of these three, the wife of the middle class called Nānātā has the name Prāsahā. For this wife, knowing her husband's wishes, acting accordingly, and being able to do every task by force, is very dear to the king. So, understanding that it was proper to learn the intention of King Indra through her, they put their matter to her. Hearing it, Nānātā said: "O gods, now is not the proper time to tell Indra of your matter and learn his intention. In the world it is the custom for women to tell their husbands any important matter in the night, when they are in privacy. Since in privacy there is no kind of interruption or hindrance, the man listens sympathetically to what the women say and gives a fitting answer. Therefore tonight, when I am in privacy with Indra, I shall bring up your matter and learn Indra's intention. So, if you come tomorrow morning, I shall tell you Indra's reply." The gods said "So be it," and came the next day in the morning and asked; and Nānātā spoke this sentence, in the form of a mantra, as the reply:
+
+यद्वावान पुरुतमं पुराषाळा वृत्रहेंद्रो नामान्यप्राः । अचेति प्रासहस्पतिस्तु विष्मानिति ॥ (*yadvāvāna purutamaṃ purāṣāḷā vṛtraheṃdro nāmānyaprāḥ | aceti prāsahaspatistu viṣmāniti ‖*) (Ṛ. Saṃ. 10-74-6)
+
+Among the ancient men, Indra, having slain Vṛtra, in many other battles too became victorious
+
+### Printed p. 642
+
+and has gained fame throughout the world. Therefore Indra has the name Prāsahaspati. Pra means excessive, sahaḥ means strength, patiḥ means lord: one who is lord of excessive strength, very strong; this is a meaningful name. Having gained such a name by the great deed of slaying Vṛtra, he has spread it throughout the world that honorific names such as the Māhendra graha and the Mādhyandinasavana are very dear to him. This Indra also knows what the gods desire. And he is very strong: this is the meaning of the three pādas of this Ṛk. This is what Vāvātā told the gods. **NOTE**
+
+इंद्रो वै प्रासहस्पतिस्तु विष्णान् । यदीमुष्मसि कर्तवे करत्तदिति यदेवैतदवोचामाकरत्तदित्येवैनांस्तदब्रवीत् ॥ (*iṃdro vai prāsahaspatistu viṣṇān | yadīmuṣmasi kartave karattaditi yadevaitadavocāmākarattadityevaināṃstadabravīt ‖*)
+
+Hearing the reply that Vāvātā gave by the three pādas of the mantra as stated above, the gods spoke among themselves by the fourth pāda यदीमुष्मसि कर्तवे करत्तत् (*yadīmuṣmasi kartave karattat*): "If we gods also have a share in the sacrifice, and if Indra arranges that share of the sacrifice for us, our wish will have been fulfilled by Indra." Or, if the sentence of this fourth pāda is regarded as Vāvātā's reply, then the meaning of the fourth pāda is: "O gods, Indra will accomplish, or will do, the matter that you have considered and prayed to Indra for." That is what is stated clearly here.
+
+ते देवा अब्रुवन्यप्यस्या इहास्तु या नोऽस्मिन्न वै कमविददिति तथेति तस्या अप्यत्राकुर्वन् ॥ (*te devā abruvanyapyasyā ihāstu yā no 'sminna vai kamavidaditi tatheti tasyā apyatrākurvan ‖*)
+
+Hearing this reply of Vāvātā, the gods thought: "This Vāvātā has done us gods a great favour. So we must return the favour to her. It is not known whether this Vāvātā has any connection with the niṣkevalya śastra mantra or not. However that may be, let us arrange a fitting connection for this Vāvātā in the niṣkevalya śastra mantra," and they did so.
+
+तस्मादेषात्रापि शस्यते यद्वावान पुरुषमं पुराषाळिति । (*tasmādeṣātrāpi śasyate yadvāvāna puruṣamaṃ purāṣāḷiti |*)
+
+Since the gods thus arranged for Vāvātā, in the niṣkevalya śastra mantra, the connection of this Ṛk (यद्वावान (*yadvāvāna*) Ṛ. Saṃ. 10.74-6), this Ṛk is called the dhāyyā mantra in the niṣkevalya śastra mantra.
+
+सेना वा इंद्रस्य प्रिया जाया वानवा प्रासहा नाम को नाम प्रजापतिः श्वशुरस्तद्यास्य कामे सेना जयेत्तस्या अर्थात्तिष्ठंस्तृणमुभयुतः (*senā vā iṃdrasya priyā jāyā vānavā prāsahā nāma ko nāma prajāpatiḥ śvaśurastadyāsya kāme senā jayettasyā arthāttiṣṭhaṃstṛṇamubhayutaḥ*)
+
+### Printed p. 643
+
+परॆच्छिद्येतरां सेनामभ्यस्येत्प्रासहे कस्त्वा पश्यतीति तद्यथैवादः स्नुषा श्वशुराल्लज्जमाना निलीयमान्यैत्येवमेव सा सेना भज्यमाना निलीयमानैति यत्रैवं विद्वांस्तृणमुभयतः परिच्छिद्येतरां सेनामभ्यस्यति प्रासहे कस्त्वा पश्यतीति । (*parècchidyetarāṃ senāmabhyasyetprāsahe kastvā paśyatīti tadyathaivādaḥ snuṣā śvaśurāllajjamānā nilīyamānyaityevameva sā senā bhajyamānā nilīyamānaiti yatraivaṃ vidvāṃstṛṇamubhayataḥ paricchidyetarāṃ senāmabhyasyati prāsahe kastvā paśyatīti |*)
+
+The praise of Vāvātā, Indra's wife, who spoke this dhāyyā mantra, is given here in some detail. It has been said earlier that Vāvātā is Indra's beloved wife and that her name is Prāsahā. In worldly practice it is said that this Vāvātā, or Prāsahā, exists in the form of an army made ready for battle. For Indra's wife is the deity presiding over the army; in the Veda too it is said इंद्राणी वै सेनाय देवता (*iṃdrāṇī vai senāya devatā*). And since she said को नाम (*ko nāma*), "who am I", it has been explained earlier that Prajāpati is denoted by the word क (*ka*). That Prajāpati is the father-in-law of Indra's wife. That Indra is the son of Prajāpati is said in the Veda itself: प्रजापतिरिंद्रमसृजतानुजावरं देवानां (*prajāpatiriṃdramasṛjatānujāvaraṃ devānāṃ*). This being so, in worldly practice a man who desires battle, if he wishes his army to win victory, must do one thing. At the time of battle, when the two armies stand facing each other to fight, that man must go beyond his army, that is, advance a little from the middle of the army, stand on the ground, take a blade of grass, cut off its root and its tip, and throw the remaining middle part toward the enemy army (in front of him) as one throws an arrow. While throwing it thus, the blade of grass must be thrown with the mantra प्रासहे कस्त्या पश्यति (*prāsahe kastyā paśyati*): "O wife of Indra, named Prāsahā, Prajāpati, who is denoted by कः (*kaḥ*) and is your father-in-law, is looking at you with his eyes." If the blade of grass is thrown in this way with this mantra, the enemy army suffers defeat. This is made clear by an illustration. In worldly practice, in the house of a householder who is a great man and devoted to ancestral custom, when a young daughter-in-law sees her father-in-law, out of shyness she adjusts the end of her sari, draws in her hands and other limbs, and quietly goes off into the inner part of the house. In the same way, by the mantra-accompanied throwing of the blade of grass, the enemy army suffers defeat and, crossing mountains, forests and rivers, retreats and flees to its own country. Leaving this matter here as an aside, they proceed to expand the present context:
+
+तानिंद्र उवाचापि वोऽत्मास्त्विति ते देवा अब्रुवन्निराड्याज्यास्तु निष्केवल्यस्य या त्रयस्त्रिंशदक्षरा त्रयस्त्रिंशद्वै देवा अष्टौ वसव एकादश रुद्रा द्वाद. (*tāniṃdra uvācāpi vo 'tmāstviti te devā abruvannirāḍyājyāstu niṣkevalyasya yā trayastriṃśadakṣarā trayastriṃśadvai devā aṣṭau vasava ekādaśa rudrā dvāda.*)
+
+### Printed p. 644
+
+शादित्याः प्रजापतिश्च वषट्कारश्च देवता अक्षरभाजः करोत्यक्षरमक्षरमेव तद्देवता अनु प्रपिबंति देवपात्रेणैव तद्देवतास्तृप्यंति । (*śādityāḥ prajāpatiśca vaṣaṭkāraśca devatā akṣarabhājaḥ karotyakṣaramakṣarameva taddevatā anu prapibaṃti devapātreṇaiva taddevatāstṛpyaṃti |*) **NOTE**
+
+Hearing Vāvātā's word (reply), the gods went near Indra, and Indra said to them: "O gods, as you desire, a share of the sacrifice has been given to you in the niṣkevalya śastra of the sacrifice." Hearing that, the gods said: "We (the gods) are thirty-three. Namely, eight Vasus, eleven Rudras and twelve Ādityas; together with these, one Prajāpati and one vaṣaṭkāra; there being thus thirty-three deities in all, by the yājyā mantra of the metre called Virāj, which has thirty-three syllables, that is,
+
+पिबा सोममिंद्र मंदतु त्वा यं ते सुषाव हर्यश्वाद्रिः । सोतुर्बाहुभ्यां सुयतो नार्वा । (*pibā somamiṃdra maṃdatu tvā yaṃ te suṣāva haryaśvādriḥ | soturbāhubhyāṃ suyato nārvā |*)
+
+(Ṛ. Saṃ. 7-22-1)
+
+by this yājyā mantra, arrange the drinking of Soma." So they prayed to Indra. In this yājyā mantra there should be thirty-three syllables. But instead of that there are only twenty-nine syllables. Even so, by the order of combining the syllables, although the syllables are fewer, it must be regarded that there are thirty-three syllables in all. Thus the thirty-three syllables in the yājyā mantra, each syllable like one deity, satisfy all thirty-three deities. The harm that results if the yājyā oblation is offered with a mantra of another metre, leaving this order, is explained:
+
+यं कामयेतानायतवान् स्यादित्यविराजास्य यजेद्गायत्रा वा त्रिष्टुभा वान्येन वा छंदसा वषट्कुर्यादनायतनवंतमेवैनं तत्करोति यं कामयेतायतनवान् स्यादिति विराजास्य यजेत्पिबा सोममिंद्र मंदतु त्वेत्येतयायतनवंतमेवैनं तत्करोति । (*yaṃ kāmayetānāyatavān syādityavirājāsya yajedgāyatrā vā triṣṭubhā vānyena vā chaṃdasā vaṣaṭkuryādanāyatanavaṃtamevainaṃ tatkaroti yaṃ kāmayetāyatanavān syāditi virājāsya yajetpibā somamiṃdra maṃdatu tvetyetayāyatanavaṃtamevainaṃ tatkaroti |*)
+
+(Ṛ. Saṃ. 12-59) **NOTE**
+
+If the hotṛ wishes that the yajamāna who performs the sacrifice should lose his house and other possessions, then he should not recite the yājyā mantra to be recited in the niṣkevalya śastra with a Ṛk of the Virāj metre, but should make the homa reciting mantras of Gāyatrī, Triṣṭubh or another metre. If he does so, the yajamāna's house and other places of residence are destroyed. Therefore, if the yajamāna wishes that the wealth of his house should be lasting, the hotṛ must perform this yājyā homa with the very mantra पिबा सोममिंद्र (*pibā somamiṃdra*) (Ṛ. Saṃ. 7-22-1), a Ṛk of the Virāj metre. If he does so, prosperity of houses and other places of residence results for the yajamāna.
+
+### Printed p. 645
+
+**The reason why Indra received the name मरुत्वास् (*marutvās*)**
+
+The eternal companionship of Indra and the Maruts, the relation of king and subjects between them, the offering of oblations in the chief sacrificial acts to Indra together with the Maruts, and the help that the Maruts gave Indra when he waged battle with Vṛtrāsura, are praised in many places in the Saṃhitās and the Brāhmaṇas. An earlier story showing that Indra, joined with the Maruts, stood apart from the other gods is told in the Śatapatha Brāhmaṇa.
+
+आतिथ्येन वै देवा इष्ट्वा । तान्त्समदविंदत्ते चतुर्धाव्यद्रवन्नन्योन्यस्य श्रिया तिष्ठमाना अग्निर्वसुभिः सोमो रुद्रैर्वरुण आदित्यैरिंद्रो मरुद्भिर्भृहस्पतिर्विश्वैर्देवैः ॥ (*ātithyena vai devā iṣṭvā | tāntsamadaviṃdatte caturdhāvyadravannanyonyasya śriyā tiṣṭhamānā agnirvasubhiḥ somo rudrairvaruṇa ādityairiṃdro marudbhirbhṛhaspatirviśvairdevaiḥ ‖*)
+
+(Ca. Brā. 3-4-2-1) **NOTE**
+
+In the past, when the gods performed the ātithya rite, discord arose among them, and, unwilling to join one another, they formed four groups and separated. Agni with the Vasus, Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Maruts, and Bṛhaspati with the Viśvedevas, joining together in this way, made separate groups. **NOTE** In this story the close relation which Indra, having developed companionship with the Maruts, kept with them is told. Moreover, it is said in many places that Indra is the king and the Maruts are the subjects. For example, in the same Rathapatha Brāhmaṇa, **NOTE**
+
+क्षत्रं ना इंद्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति । (*kṣatraṃ nā iṃdro viśo maruto viśā vai kṣatriyo balavān bhavati |*)
+
+(Śa. Brā. 4-3-3-6)
+
+Indra is the king, who has the splendour of the warrior. The Maruts are his subjects. It indicates that it is only through the cooperation of his subjects that a king becomes powerful, and that through the help of the Maruts Indra's valour grew. It is because of such a close relation and companionship that the practice of offering oblations addressed to Indra and the Maruts together is seen in the Śrutis. And by Ṛks such as
+
+स नो मरुद्धिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः । (*sa no maruddhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*)
+
+(Ṛ. Saṃ. 1-171-5)
+
+there is an invocation and an offering of oblation to Indra and the Maruts together. Describing this companionship, in the Bṛhaddevatā
+
+मरुद्भिः सह यत्रेंद्रो मरुत्वांस्तत्र सोऽभवत् (*marudbhiḥ saha yatreṃdro marutvāṃstatra so 'bhavat*)
+
+(Bṛ. De. 4-56)
+
+### Printed p. 646
+
+by sentences of this kind the epithet that indicates the relation of these deities is explained. But in one sūkta the mutual hostility between Indra and the Maruts and Indra's anger are indicated as the result of a dispute that took place between them. The dispute between them, which is the root of this anger, is told thus:
+
+क्वंस्यावो मरुतः स्वधासीद्यन्मामेकं समधत्ताहिहेत्ये । अहं ह्युंस्रस्तविषस्तु विष्णान्विश्वस्व शत्रोरनमं वधस्नैः ॥ (*kvaṃsyāvo marutaḥ svadhāsīdyanmāmekaṃ samadhattāhihetye | ahaṃ hyuṃsrastaviṣastu viṣṇānviśvasva śatroranamaṃ vadhasnaiḥ ‖*)
+
+(Ṛ. Saṃ. 1-165-6)
+
+"O Maruts, it is false to say that I slew Ahi (Vṛtra) with your help. Where indeed was that power in you? Since my power is itself extraordinary, without desiring the help of other power, it helped me at the time of the slaying of Vṛtra. I alone am terrible, of marvellous power, and endowed with greatness." Thus Indra, looking at the Maruts with a look of contempt, shows his anger. Here that anger is indicated. It is well known that Indra obtained the help of the Maruts at the time of the slaying of Vṛtrāsura. Even so, when the Maruts mention that matter and ask that, in memory of that help, they too be given a share in the oblation that is due to Indra, Indra says that no help whatever came from the Maruts and that he killed all the enemies by his own power. The authors of the Nirukta, telling this same matter, say thus:
+
+अगस्त्य इंद्राय हविर्निरुप्य मरुद्भः संप्रदित्सांचकार । स इंद्र एत्य परिदेवयांचक्रे । (*agastya iṃdrāya havirnirupya marudbhaḥ saṃpraditsāṃcakāra | sa iṃdra etya paridevayāṃcakre |*)
+
+(Ni. 1.5)
+
+Stating the occasion that when the sage Agastya prepared an oblation for Indra and wished to offer a share in it to the Maruts too, Indra at once objected to it, the authors of the Nirukta quoted, to tell this matter, the Ṛk
+
+न नूनमस्ति नो श्वः कस्तद्वेद यदद्भुतं । अन्यस्य चित्तमभि संचरेण्यमुताधीतं विनश्यति ॥ (*na nūnamasti no śvaḥ kastadveda yadadbhutaṃ | anyasya cittamabhi saṃcareṇyamutādhītaṃ vinaśyati ‖*)
+
+(Ma. Sa. 1-170-1) **NOTE**
+
+In order that the force of that anger might lessen and not harm him, and in order that the share of the oblation rightly due to the Maruts might reach them, the prayer is here addressed to the Maruts. After this conciliatory speech Indra's friendship grew as before and he himself gives a share of his oblation to the Maruts also. The seer in the eighth maṇḍala praises this same matter, saying thus.
+
 ---
 
-**Progress note:** Done through printed p. 637. Vol 29 pp. 631-637: Indra-Agni, Indra supremacy, Vritra slaying account with Taittiriya passages
+**Progress note:** Done through printed p. 646. Vol 29 pp. 638-646: Vritra account end, Mahendra, Vavata/Prasaha, Indra and Maruts
