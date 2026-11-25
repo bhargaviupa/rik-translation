@@ -13444,6 +13444,94 @@ At times the same description occurs when the patrons drink this Soma-juice. For
 (6-47-3)
 the seer says. In another context, describing the power of Soma-drinking—
 
+### Printed p. 386
+
+"We have drunk Soma, and therefore we have become free from death. No man can now harm us. O immortal Indra, by your grace we too shall ascend to the atmosphere together with you, without fear." So the seer proclaims. (8-48-3)
+
+Birds fly to a tree full of leaves, and rivers full of water go and join the ocean; in the same way the stream of Soma juice goes and joins Indra. Just as grain and the like grow abundantly and strongly when rain falls, so the sacrificers, by offering Soma juice, make Indra grow strong. (19-43-4, 7)
+
+Indra is prayed to drink the Soma offered by the sacrificers and to accept the praises offered by them, and to be satisfied by them, as a good husband loves his wife and longs for her company. (3.52-3 : 4-32-16)
+
+To show in detail how the effect of Soma-drinking increases Indra's vigour, a seer in one sūkta has described Indra's nature thus; from it one learns in what various ways Indra, satisfied by Soma-drinking, shows his favour to the sacrificer:
+
+"I have drunk Soma fully. Therefore I shall supply the sacrificer with cattle and horses. The stream of Soma that I have drunk has given me exceeding vigour. As a cow runs lovingly to her calf, the hymn made by the seer has come and joined me. As a carpenter goes around a chariot-seat and perfects it, I too have made that hymn pervade my heart. Even the five peoples, the Gandharvas and others, are small before me. That is the power of Soma. Even if heaven and earth were joined together, they would not equal half of me. I have a greatness that surpasses the greatness of these two, heaven and earth. I establish this earth according to my resolve. The atmosphere is one half of me; the other half I have lowered down. I have the power to rule in the atmosphere. As the fruit of this Soma-drinking I have the strength to carry the oblation to all the gods and distribute it." (Ṛ. Saṃ. 10-19-1 to 3)
+
+### Printed p. 387
+
+Like the Soma offered to Indra, the hymns of praise and other kinds of worship offered by the sacrificer also greatly increase his valour and vigour. ब्रह्माणींद्र तवयानि वर्धना (*brahmāṇīṃdra tavayāni vardhanā*) (उक्थैर्वर्धमानाः (*ukthairvardhamānāḥ*)) (1-52-7, 1-54-8, 1-80-1, 2-11-2, 2-12-14, 3-32-12; 3-34-1, 5-31-10, 6-21-2; 6-44-13; 8-6-1, 21, 31, 35; 8-13-6, 8-14-5, 11; 8-82-27; 8-47-8: 10.50.4; 10.120 5).
+
+To give exceeding power to the valour stimulated by that Soma-drinking, the gods and men place the thunderbolt in Indra's hand. (1-63-2; 2-20-8; 3.32.12)
+
+Moreover, the other gods too place all their power in Indra himself. (1-80-15; 6.20-2; 10-48.3; 10-113-8; 10-120-3; 10.56-4; 8.15-8)
+
+And they seat him in a chariot and make him ready for battle. (1-53-3; 1.131-1; 6.17-8)
+
+In many places it is described that at the time of the slaying of the demon Vṛtra the Maruts give Indra encouragement and make his power stand firm and bring victory. That increases the effect of Soma-drinking still more. (या आभजो मरुत इंद्र सोमे ये त्वामवर्धन्नभवन् गणस्ते (*yā ābhajo maruta iṃdra some ye tvāmavardhannabhavan gaṇaste*)). (3.35.9; 3-32.4; 3.47.3; 6-7.11; 8-7-24; 10-23-1, 2; 10-113-3).
+
+In this context it is necessary to state the natural relation and companionship of Indra and the Maruts. This section is to show Indra's regard for Soma. But since it also indicates how stimulating that Soma-drinking is for the slaying of Vṛtra and what part the Maruts play in this, the matter too is incidental.
+
+In 1-165 a dispute between Indra and the Maruts is described. In 1-116-8 Indra boasts that he slew Vṛtra without the Maruts' help, by his own power. In 7.21-6 the same praise is made by Indra's devotee (स्वेना हि वृत्रं शवसा जघंथ (*svenā hi vṛtraṃ śavasā jaghaṃtha*)). Likewise in 10.138-6 too he is praised with एता त्या ते श्रुत्यानि केवला यदेकः (*etā tyā te śrutyāni kevalā yadekaḥ*) ... and so on. It is stated that because of this prowess all the gods fear Indra. (5.30.5). In 8-7-1 the Maruts are asked whether it was not an offence that they did not help their friend Indra in a time of difficulty, and how in such a situation they could be worthy of trust.
+
+### Printed p. 388
+
+In 4-18-11 Aditi, Indra's mother, grieved that all the other gods had abandoned her son without helping him, approaches Viṣṇu and prays that he help her son. But elsewhere there is a somewhat different account. It is stated that while Indra was fighting the demon Vṛtra, all the other gods, afraid of Vṛtra's terrible form, left Indra alone and fled, and that Indra, being a friend of the Maruts, destroyed Vṛtra with their help. (8-96-7). Sāyaṇa in this context has given the purport so that there is no contradiction between the earlier statements and this one. And he has supported his meaning by citing a passage of the Aitareya Brāhmaṇa. The passage of the Aitareya Brāhmaṇa is as follows:
+
+इंद्रो वै वृत्रं हनिष्यन्सर्वा देवता अब्रवीदनु मोपतिष्ठध्वमुप मा ह्वयधृमिति तथेति तं हनिष्यंत आद्रवन्नॊऽवेन्मां वै हनिष्यंत आद्रवंति हंतेमान्षया इति तानभिप्राश्वसीत्तस्य श्वसथादीषमाणा विश्वे देवा अद्रवन् मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्वेत्येवैनमेशां वाचं वदंत उपातिष्ठंत ! तदेतदृषिः पश्यन्नभ्यनूवाच वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवा आजहुर्यॆ सखायः । मरुद्धिरिंद्र सख्यं ते अस्त्वथेमा विश्वाः पृजना जयासीति । सोऽवेदिमे वै किल मे सचिवा इमे माकामयंत हंतेमानस्मिन्नुक्क अभजा इति (*iṃdro vai vṛtraṃ haniṣyansarvā devatā abravīdanu mopatiṣṭhadhvamupa mā hvayadhṛmiti tatheti taṃ haniṣyaṃta ādravannò 'venmāṃ vai haniṣyaṃta ādravaṃti haṃtemānṣayā iti tānabhiprāśvasīttasya śvasathādīṣamāṇā viśve devā adravan maruto hainaṃ nājahuḥ prahara bhagavo jahi vīrayasvetyevainameśāṃ vācaṃ vadaṃta upātiṣṭhaṃta ! tadetadṛṣiḥ paśyannabhyanūvāca vṛtrasya tvā śvasathādīṣamāṇā viśve devā ājahuryè sakhāyaḥ | maruddhiriṃdra sakhyaṃ te astvathemā viśvāḥ pṛjanā jayāsīti | so 'vedime vai kila me sacivā ime mākāmayaṃta haṃtemānasminnukka abhajā iti*) (Ai. Brā. 3-20)
+
+Indra, wishing to slay the demon Vṛtra, said to the gods: "O gods, follow me without wavering and be my helpers." They gave the assurance "We shall do so" and advanced to kill Vṛtra. Then Vṛtra, thinking "These gods are advancing to kill me; I shall frighten them," breathed out a mighty breath and made a terrible sound. Hearing that terrible sound all the gods were afraid and fled in all directions. But the Maruts alone did not abandon Indra. Standing right beside Indra they encouraged him: "O Indra, strike him. Show your prowess." Then the seer, praising the friendship of the Maruts, recited the mantra beginning वृत्रस्य त्वा (*vṛtrasya tvā*) and praised them (8-96-7). Then Indra said: "These Maruts are my true friends. They love me; therefore I shall give them a share too in the ukṣa mantra offered to me."
+
+### Printed p. 389
+
+In the Ṛksaṃhitā, in mantra 1.32-14, describing this same situation, he is praised with अहेर्यातारं (*aheryātāraṃ*). Here too the meaning is doubtful. It is stated here that Indra himself felt some fear at the time of Vṛtra's slaying. Two or three kinds of purport can be given, for example that from that fear he ran like a falcon, crossed the ninety-nine river-streams that he met on the way, and escaped. But that discussion is unnecessary at present. The matter of other gods who helped Indra is also praised in some places. For example:
+
+"O Aśvins, lords of radiance, having drunk the sweet Soma together with Indra, you helped him when he was destroying the demon Namuci, and at that time you protected him." (10-13-4)
+
+"O Indra, as parents protect their children, the two Aśvins protected Indra in a time of danger. When you drank Soma at the time of the display of your prowess, the goddess Sarasvatī stood at your side as helper with all her means of protection." (CO-C30-5)
+
+**NOTE**
+
+This episode is also told in the Vājasaneya Saṃhitā (10-33, 34). And in the Vājasaneya Saṃhitā Bhāṣya the commentator has cited a story told in the Śatapatha Brāhmaṇa. Its form is as follows:
+
+इंद्रस्येंद्रियमन्नस्य रसग्ंसोमस्य भक्षग्ंसुरयासुरो नमुचिरहरत्योऽश्विनौ च सरस्वतीं चोपाधावछेपानोऽस्मि नमुचये न त्वा दिवा न नक्तग्ं हनानि न दण्णेन न धन्वना न पृथेन न मुष्टिना न शुष्केण नाद्रॆणार्थ म इदमहार्षिदिदं म आजिहीर्षथेति । (*iṃdrasyeṃdriyamannasya rasagṃsomasya bhakṣagṃsurayāsuro namuciraharatyo 'śvinau ca sarasvatīṃ copādhāvachepāno 'smi namucaye na tvā divā na naktagṃ hanāni na daṇṇena na dhanvanā na pṛthena na muṣṭinā na śuṣkeṇa nādrèṇārtha ma idamahārṣididaṃ ma ājihīrṣatheti |*) (Śa. Brā. 12-7-3-1)
+
+Once the demon Namuci carried off Indra's valour, food, Soma and surā. Then Indra went to the Aśvins and to Sarasvatī and said: "I have given a promise that I shall not kill Namuci either by day or by night. Not only that, I have promised that I shall not kill him with wood, or with my hand, or with a fist, or with a dry instrument, or with a wet one. Because of this promise he has carried off my strength. Bring it back to me." They answered him as follows.
+
+### Printed p. 390
+
+अस्तु नोऽप्राप्यथाहरामेशि सह न एतदथाहरतेत्यब्रवीदिति । (*astu no 'prāpyathāharāmeśi saha na etadathāharatetyabravīditi |*)
+
+They said it would do if we too were given a share in that valour and in the other Soma and the rest. Indra agreed to that.
+
+तावश्विनी च सरस्वती च अपां फेनेन वज्रमसिंचन्न शुष्को नार्द्र इति तेनेंद्रो नमुचेरासुरस्य व्युष्टायाग्ं रात्रावनुदित आदित्ये न दिवा न नक्तमिति शिर उदवासयत् । (*tāvaśvinī ca sarasvatī ca apāṃ phenena vajramasiṃcanna śuṣko nārdra iti teneṃdro namucerāsurasya vyuṣṭāyāgṃ rātrāvanudita āditye na divā na naktamiti śira udavāsayat |*) (12-7-3-3)
+
+Then the Aśvins and Sarasvatī smeared the thunderbolt with foam. Then it was neither wet nor dry. With it Indra struck Namuci. Since he struck at dawn, when the night had passed and the sun had not yet risen, it was neither day nor night. With it he cut off Namuci's head.
+
+तस्मादेतदृषिणाभ्यनूक्तं . . . . . तस्य शीर्षंश्विन्ने लोहितमिश्रः सोमोऽतिष्ठत्तस्मादबीभत्संत त एतदंधसोर्निपानमपश्यन्सोमो राज्ञामृतग्ं सुत इति तेन्‌नग्ं स्वदयित्वात्मन्नदधत ॥ (*tasmādetadṛṣiṇābhyanūktaṃ . . . . . tasya śīrṣaṃśvinne lohitamiśraḥ somo 'tiṣṭhattasmādabībhatsaṃta ta etadaṃdhasornipānamapaśyansomo rājñāmṛtagṃ suta iti tennagṃ svadayitvātmannadadhata ‖*) (12-7-4)
+
+As soon as Namuci's head was split, the Soma became mixed with blood. Then it became loathsome. Then they, thinking "Soma the king, as soon as it is poured, becomes immortal," poured that too with this Soma and drank it; so the description runs. But here, in this last part, which are the two Somas, "this Soma" and "that Soma", deserves examination. For the moment that is not relevant.
+
+Likewise, in the Śatapatha Brāhmaṇa, in yet another situation, when Indra's power was dulled, the Aśvins, the physicians of the gods, and Sarasvatī are said to have caused his valour to be re-established. (12-7-10; 12-8-3-1)
+
+Just as Indra destroyed the power of the demons with the help of the Maruts, so with Bṛhaspati's help too Indra destroyed the enemies of the gods who opposed him. (8-85-12)
+
+### Printed p. 391
+
+Thus, delighted and stimulated by Soma-drinking, Indra goes to fight Vṛtra, sometimes accompanied by the Maruts and sometimes by Viṣṇu. (2-15-1; 2-19-2; 6-47-1, 2; 18-10-2)
+
+With the help of these Maruts and of Viṣṇu he goes to fight the demons who block the waters from flowing in the atmosphere. (1-22-19; 1-85-7; 4-18-11; 6-20-2; 8-89-12; 7-99-4, 5)
+
+The companionship of Indra and Viṣṇu is praised in many mantras. By such passages as आ यो विवाय सचथाय दैव्य इंद्राय विष्णुः सुकृते सुकृत्तरः (*ā yo vivāya sacathāya daivya iṃdrāya viṣṇuḥ sukṛte sukṛttaraḥ*) (1.156-5) the help given by Viṣṇu to Indra is made plain. (6-17-11; 8-12-27; 8-37-10; 10-13-2)
+
+On the companionship of Indra and Viṣṇu the Śatapatha Brāhmaṇa describes a situation in narrative form in the passages cited below.
+
+वृत्रे ह वा इदमग्रे सर्वमास यदृचो यद्यजूग्ंषि यत्सामानि तस्मा इंद्रो वज्रं प्राजिहीर्षत् । (*vṛtre ha vā idamagre sarvamāsa yadṛco yadyajūgṃṣi yatsāmāni tasmā iṃdro vajraṃ prājihīrṣat |*) (Śa. Brā. 5-5-5-1)
+
+In the beginning, Vṛtra, lord of the demons, had taken into himself all of the Ṛks, Yajus and Sāmans. With the aim of bringing them out and making them shine for the world, Indra tried to hurl the thunderbolt at that Vṛtra:
+
+स ह विष्णुमुवाच । वृत्ताय वै वज्रं प्रहरिष्याम्यनुमा तिष्ठस्वेति तथेति ह विष्णुरुवाचानु त्वा स्वास्ये प्रहरेति तस्मा इंद्रो वज्रमुद्ययाम स उद्यताद्वज्राद्वृत्रो बिभयां चकार ॥ (*sa ha viṣṇumuvāca | vṛttāya vai vajraṃ prahariṣyāmyanumā tiṣṭhasveti tatheti ha viṣṇuruvācānu tvā svāsye prahareti tasmā iṃdro vajramudyayāma sa udyatādvajrādvṛtro bibhayāṃ cakāra ‖*) (5-5-5-2)
+
+Then Indra said to Viṣṇu: "I intend to hurl the thunderbolt at Vṛtra in order to gather the Ṛks and the rest. You too help in this." Then Viṣṇu said: "So be it. I shall help in this work. Strike Vṛtra with the thunderbolt." On that assurance, when Indra hurled the thunderbolt at Vṛtra, Vṛtra was frightened. And he said to Indra as follows.
+
 ---
 
-**Progress note:** Done through printed p. 385. pp. 380-385 (batch API)
+**Progress note:** Done through printed p. 391. pp. 386-391 (batch API)
