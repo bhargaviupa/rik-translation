@@ -29585,6 +29585,211 @@ The bearers of oblations (the Angirasas), Indra honouring the sacrifice, have th
 On the word दंसयः (*daṃsayaḥ*) in this Ṛk, Yāska says: दंसयः कर्माणि दंसयंत एतानि । कुत्साय मन्मन्नह्यश्च दंसयः । इत्यपि निगमो भवति । (*daṃsayaḥ karmāṇi daṃsayaṃta etāni | kutsāya manmannahyaśca daṃsayaḥ | ityapi nigamo bhavati |*) (Ni. 4-25). दंसयः (*daṃsayaḥ*) means works; because these are done and finished, works are called दंसयः (*daṃsayaḥ*). Ordinarily the works done by servants (śūdras, farmers, cultivators) are called दंसयः (*daṃsayaḥ*).
 The explanation Sāyaṇa gives of this Ṛk differs from that of Durgācārya, the commentator on the Nirukta. For the word वोढारः (*voḍhāraḥ*) Sāyaṇa takes the Aṅgirasa seers who bear oblation or praise. Durgācārya takes this word to mean Indra's horses that carry Indra's chariot, and explains the Ṛk accordingly: O Indra, the horses that carry you, for your pleasure, split the cloud (Vala) to release the water that is in the clouds, and you, for the farmer (cultivator)
 
+### Printed p. 892
+…who were Aṅgiras sages bearing the oblation or the praise. Durgācārya, however, explains this word as Indra's horses that draw Indra's chariot, and has explained the Ṛk accordingly: "O Indra, the horses that bear you split open the cloud (Vala) to release the waters held in the clouds, for your pleasure. And you, to make the farmer's (the cultivator's) tasks easy, brought about the dawn-time, split the cloud that had held back the waters necessary for farming, and sent them out hither. The waters of the cloud, sent out by the clouds, fell upon the earth in the form of rain and helped the farmer in his farming." This is the main purport.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवा॑सृजः प्र॒स्वः॑ श्वं॒चयो॑ गि॒रीनुदा॑ज उ॒स्रा अपि॑बो॒ मधु॑  ॒
+> प्रियं ।  
+> अव॑र्धयो व॒निनो॑ अस्य॒ दंस॑सा शु॒शोच॒ सूर्य॑ ऋ॒तजा॑तया गि॒रा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । असृजः । प्रस्वः । श्वंचयः । गिरीन् । उत् । आजः । उस्राः । अपिबः । मधु ।  
+> प्रियं ।  
+> अवर्धयः। वनिनः । अस्य । दंससा । शुशोच । सूर्यः । ऋतजातया । गिरा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्रस्वः । प्रसूतिर्जन्म । तद्धेतुभूता अपोऽवासृजः । आवारकान्मेघादधः पातितवानसि । तथा गिरीन्पर्वतान्नलेन गोमतो बिलस्य विधानाय निहिताइंचयः । अभैत्सीरित्यर्थः ॥ श्वचि गत् । अस्माण्णंताल्लजि बहुलं छंदस्यमाज्योगेऽपीत्यडभावः । समानवाक्यॆ निघातयुष्मदस्मदादेशा वक्तव्याः। सा. ८-१ १८-५।
+> इति वचनात्पूर्वपदस्यासमानवाक्यगतत्वेनास्य तिज्ञतिज इति निघाताभावः ॥ तथा
+> वलासुरेण बिले निहिता उस्रा गाः पर्वतभेदानानंतरमुदाजः । उदगमयः । ततः
+> पयोदध्याज्यादिकं प्रियमनुकूलं मधु मधुरं हविरपिबः । पीतवानसि । यद्वा !
+> श्रयणसाधनासु तासु गोष्टागतासु यजमानैः प्रियमभीष्टं मधु सोमात्मकमपिबः । पिबसि । तथा वनिनो वनसंबद्धान्वृक्षान् । यद्वा । वनमित्युदकनाम । तद्युक्तान्समुद्रान् अवर्धयः । वृष्टिप्रदानेन वर्धयसि । ऋजताजया । ऋतं यज्ञं ।
+> तदर्थं जातं जन्म यस्याः तया गिरा वेदात्मिकया वाचा स्सूयमानस्यास्येंद्रस्य
+> दंससा कर्मणावृण्वतो वृत्रादेरपि नोदनात्मकेन सूर्यः शुशोच । नभसि
+
+##### Gist of the bhāṣya
+
+"O Indra, you sent down the waters, which are the cause of birth (प्रसूतिर्जन्म (*prasūtirjanma*)), from the covering cloud, causing them to fall. Likewise you split the mountains (गिरीन् (*girīn*)), which had been set to make the opening of the cave holding the cows" — this is the meaning of श्वंचयः (*śvaṃcayaḥ*) (the sense: "you split"). After the mountains were broken you led out (उदाजः (*udājaḥ*), "made to go up") the cows (उस्राः (*usrāḥ*)) that the Asura Vala had hidden in the cave. Then you drank the dear, favourable, sweet oblation: milk, curds, ghee and the like. Or else: when those cows, which are the means of nourishment, had come to the cow-pen, you drink the dear, desired honey of the nature of Soma offered by the sacrificers. Likewise you made grow the trees connected with the forest (वनिनः (*vaninaḥ*)); or else, since *vanaṃ* is a name for water, the oceans possessing it, by giving rain. ऋतजातया गिरा (*ṛtajātayā girā*): ṛta is the sacrifice; the speech whose birth is for its sake, the speech of the Veda; by the deed of this Indra, who is praised with it, a deed that even drives away such as Vṛtra who ward him off (वृण्वतो वृत्रादेरपि (*vṛṇvato vṛtrāderapi*)), the sun shone, blazed forth in the sky.
+**NOTE**
+
+### Printed p. 893
+
+> प्रदिदीपे । यद्वा । ऋतजातया गिरेति सूर्यस्यैव विशेषणं । त्रयीरूपया
+> वाचा प्रदीप्यत इत्यर्थः ऋग्भिः पूर्वाह्ने दिवि देव ईयत इत्यादिकं तैत्तिरीयकमत्रानुसंधेयं । तै. ब्रा. ३-१२-९-१ ॥ शुशोचेत्यस्य पदात्परत्वेऽपि पादादित्वादपादादाविति पर्युदासस्यानुवृत्तेर्निघाताभावः ॥
+
+##### Gist of the bhāṣya
+
+Or else, "by speech born of the ṛta" is an epithet of the sun alone: he is lit up by speech having the form of the triple Veda. The Taittirīya passage beginning ऋग्भिः पूर्वाह्ने दिवि देव ईयत (*ṛgbhiḥ pūrvāhne divi deva īyata*) and so on is to be recalled here (Tai. Brā. 3-12-9-1).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रस्वः (*prasvaḥ*)—(O Indra) the waters gathered in the clouds
+- अवासृजः (*avāsṛjaḥ*)—you have made fall downward upon the earth
+- गिरीन् (*girīn*)—the mountains that hid the cows
+- श्वंचयः (*śvaṃcayaḥ*)—you approached (after the splitting of the mountains)
+- उस्राः (*usrāḥ*)—the cows hidden by Vala
+- उदाजः (*udājaḥ*)—released and drove out of the cave (afterwards)
+- प्रियं (*priyaṃ*)—beneficial
+- मधु (*madhu*)—the sweet oblation
+- अपिबः (*apibaḥ*)—you drank
+- वनिनः (*vaninaḥ*)—the trees, or the oceans full of water
+- अवर्धयः (*avardhayaḥ*)—you have made to grow by giving rain
+- ऋतजातया (*ṛtajātayā*)—composed for the sacrifice
+- गिरा (*girā*)—praised by the Vedic speech
+- अस्य (*asya*)—of this Indra
+- दसंसा (*dasaṃsā*)—by the deed of slaying Vṛtra and others
+- सूर्यः (*sūryaḥ*)—the sun
+- शुशोच (*śuśoca*)—shone, blazing in the sky; or else:
+- [ऋतजातया (*ṛtajātayā*)—created for the sacrifice by the Supreme Self
+- गिरा (*girā*)—by the speech of praise consisting of Ṛk, Yajus and Sāman
+- सूर्यः (*sūryaḥ*)—the sun
+- शुशोच (*śuśoca*)—shone in the sky.]
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you made the waters gathered in the clouds fall on the earth in the form of rain. You approached the mountains in which Vala had hidden the cows of the gods, released the cows that were in them and drove them out. Afterwards you drank the sweet oblation offered to you in the sacrifice. By giving rain you made flourish the trees that are in the forest, or the oceans full of water. By your deed of slaying Vṛtra and the like — you who are praised by the Vedic speech created for the sacrifice by the Supreme Lord — or by the Vedic speech consisting of Ṛk, Yajus and Sāman, the sun blazed forth in the sky.
+
+##### English translation
+You has sent forth the generative (waters), you have cleft the mountains you have fetched forth the cows, you have quaffed the delicacies Soma, you have caused the trees of the forest to grow; through his expolits by means of the voice produced for the sacrifice the sun has shone bright.
+
+### Printed p. 894
+
+##### विशेषविषयगळु (Special Topics)
+
+Regarding the statement that the sun shines in the sky through speech in the form of the Veda, the commentator has cited passages of the Taittirīya Brāhmaṇa:
+ऋचां प्राची महती दिगुच्यते । (*ṛcāṃ prācī mahatī digucyate |*) (Tai. Brā. 3-12-9-1).
+The east is dear to the deities presiding over the Ṛgveda; likewise the south to the deities presiding over the Yajus, the west to the deities presiding over the Atharvaveda, and the north to the deities presiding over the Sāmaveda.
+ऋग्भिः पूर्वाह्ने दिवि देव ईयते । यजुर्वेदे तिष्ठति मध्यॆ अह्नः । सामवेदेनास्तमये महीयते । वेद्यरशून्यस्त्रिभिरीति सूर्यः ॥ (*ṛgbhiḥ pūrvāhne divi deva īyate | yajurvede tiṣṭhati madhyè ahnaḥ | sāmavedenāstamaye mahīyate | vedyaraśūnyastribhirīti sūryaḥ ‖*) (Tai. Brā. 3-12-9-1).
+The sun, shining in the sky, moves in the forenoon with the deities presiding over the Ṛk; at midday he is near the deities presiding over the Yajus; at sunset he is worshipped by the deity presiding over the Sāmaveda. Thus the sun, joined with the three Vedas, moves at all times.
+ऋग्भो जाताग्ं सर्वशो मूर्तिमाहुः । सर्वा गतिर्याजुषी हैव शश्वत् ॥ सर्वं तेजः सामरूप्यग्ं ह शश्वत् । सर्वग्ं हेदं ब्रह्मणा हैव सृष्टं ॥ (*ṛgbho jātāgṃ sarvaśo mūrtimāhuḥ | sarvā gatiryājuṣī haiva śaśvat ‖ sarvaṃ tejaḥ sāmarūpyagṃ ha śaśvat | sarvagṃ hedaṃ brahmaṇā haiva sṛṣṭaṃ ‖*) (Tai. Brā. 3-12-9-1, 2).
+Whatever forms the Āditya or other deities have, the wise say that all of them are produced from the Ṛk mantras. The movements and the like of the deities are obtained from the Yajus mantras. The splendour that is in the deities is established by the power of the Sāmaveda. Thus everything has been created by Brahman alone. And so on.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि सूर्यो॒ मध्यॆ॑ अमुच॒द्रथं॑ दि॒वो वि॒दद्दा॒साय॑ प्रति॒मान॒मार्यः॑ ।
+
+### Printed p. 895
+
+> दृळ्हानि पिप्रोरसुरस्य मायिन इंद्रो व्यास्यच्चकृवा ऋजिश्वना ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सूर्यः । मध्ये । अमुचत् । रथं । दिवः । विदत् । दासाय । प्रतिमानं ।  
+> आर्यः ।  
+> दृळ्हानि । पिप्रोः । असुरस्य । मायिनः । इंद्रः । वि । आस्यत् । चकृवान् । ऋजिश्वना ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्य मध्यॆ सूर्य आदित्यो रथं प्रस्थानाय व्यमुचत् ।
+> विमुक्तवान् ॥ मुचेर्लुजि लृदित्वाच्चेरजादेशः ॥ कदेति चेदुच्यते । यदार्योऽभिज्ञ इंद्रो दासायोपक्षपयित्रे वृत्रादये प्रतिमानं प्रतिकृतिं प्रतीकारं
+> विदत् वेत्ति जानाति । अलभत ना ! अपि च मायिनो मायाविनः ॥ मायाशब्दस्य
+> व्रीह्यादिषु पाठाद्वीह्यादिभ्यश्चेतीनिप्रत्ययः ॥ पिप्रोरेतन्नामोऽसुरस्य दृळ्हानि
+> दृढानि स्थिराणि पुराणि बलानि वर्जिश्वना राजर्षिणा चक्रवान् सख्यं कुर्वन्निंद्रो
+> व्यास्यत् । व्यक्षिपत् । विविधमाक्षिप्तवान् । व्यनीनशदित्यर्थः ॥ असु क्षेपणे ॥
+
+##### Gist of the bhāṣya
+
+In the middle of the heavenly world the sun, Āditya, unyoked his chariot for setting out (व्यमुचत् (*vyamucat*), "released"). When, it is asked? When the knowing Indra (आर्यः (*āryaḥ*)) learns (विदत् (*vidat*)) the requital, the counter-action (प्रतिमानं (*pratimānaṃ*)), against the Dāsa, the destroyer, Vṛtra and the like; he finds or obtains it.**NOTE**. And the Asura is māyin, possessed of illusion. Indra, making friendship with the royal sage Ṛjiśvan (printed वर्जिश्वना (*varjiśvanā*), चक्रवान् (*cakravān*)), cast down (व्यास्यत् (*vyāsyat*)) — scattered, destroyed — the firm, stable strongholds and forces of the Asura named Pipru. The verb is from the root meaning "to throw".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आर्यः (*āryaḥ*)—the knowing Indra
+- दासाय (*dāsāya*)—in regard to the destroying enemy, Vṛtra and the like
+- प्रतिमानं (*pratimānaṃ*)—retaliation
+- विदत् (*vidat*)—when he knew it should be done (resolved)
+- दिवः (*divaḥ*)—of the heavenly world (the sky)
+- मध्यॆ (*madhyè*)—in the middle
+- सूर्यः (*sūryaḥ*)—Āditya
+- रथं (*rathaṃ*)—his chariot (unyoking its horses)
+- वि अमुंचत् (*vi amuṃcat*)—left and stopped (and)
+- मायिनः (*māyinaḥ*)—of the illusionist
+- पिप्रोः (*piproḥ*)—named Pipru
+- असुरस्य (*asurasya*)—of the Asura
+- दृळ्हानि (*dṛḷhāni*)—the firm towns or armies
+- ऋजिश्वना (*ṛjiśvanā*)—with the royal sage named Ṛjiśvan
+- चकृवान् (*cakṛvān*)—having made friendship
+- इंद्रः (*iṃdraḥ*)—Indra
+- वि अस्यत् (*vi asyat*)—destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+When the knowing Indra resolved to requite his enemies, Vṛtra and others, Āditya in the middle of the sky unyoked the horses of his chariot and halted it. Indra, making friendship with the royal sage Ṛjiśvan, destroyed the towns, furnished with strong forts, of the illusionist Asura named Pipru, or his strong armies.
+
+##### English translation
+(See the next page.)
+
+### Printed p. 896
+The sun unyoked his chariot in the midst of the sky, (when) the Arya (Indra) euencountered the Dasa; associated with Rijiswan, Indra destroyed the stronghold of the guileful Asura, Pipru.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अना॑धृष्टानि धृषि॒तो व्या॑स्यन्नि॒धीरदे॑वा अमृणद॒यास्यः॑ ।  
+> मा॒सेव॒ सूर्यो॒ वसु॒ पुर्य॒मा द॑दे गृणा॒नः शत्रू॑रशृणाद्वि॒रुक्त॑ता ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनाधृष्टानि । धृषितः । वि । आस्यत् । निधीन् । अदेवान् । अमृणत् । अयास्यः ।  
+> मासाइव । सूर्यः । वसु । पुर्यं । आ । ददे । गृणानः । शत्रून् । अशृणात् ।  
+> विरुक्तता ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धृषितः शत्रूणां धर्षयिता प्रगल्भ इंद्रोऽनाधृष्टानीतः पूर्वं शत्रुभिरप्रधृष्टान्यबाधितान्यसुरबलानि व्यास्यत् । व्याक्षिप्तवान् । तथायास्योऽयासनीयश्चालयितुमशक्यः । यद्वा । आयास्योऽंगिराः । स्तोतृवाचिना शब्देन स्तुत्यो
+> लक्ष्यते । अयास्येनर्षिणा स्तुत्य इंद्रो निधीनसुरैर्निहितान्थनसमूहान् यद्वा
+> निधातृन्नि तरां बलानां धारयित्कनदेवान्देवविरोधिनोऽसुरानमृणत् । अहिंसीत्॥
+> मृण हिंसायां । तौदादिकः ॥ अपि च सूर्यो मासेव मासेनेव ॥ पवन्नित्यादिना
+> मासशब्दस्य मास्भावः । स यथा मासविशेषेण भौमान्रसानादत्ते तथा पुर्यमसुराणां पुरि भवं ॥ भवे छंदसीति यत् ! हलि चेति दीर्घस्य न भकुर्भुरां ।
+> पा. ८-२-७९ । इति प्रतिषेधः । यतोऽनाव इत्याद्युदात्तत्वं ॥ ईदृशं वसु धनमाददे । आदत्ते स्म ॥ आजो दोऽनास्यविहरण इत्यात्मनेपदं ॥ तथा गृणानः स्तोतृभिः स्तूयमानः सन् ॥ व्यत्ययेन कर्मणि कर्तृप्रत्ययः ॥ शत्रूञ्चितयित्कनसुरान्विरुक्तता विरोचमानेन वज्रेणाशृणात् । अहिंसीत् ॥
+
+##### Gist of the bhāṣya
+
+Indra, the bold (धृषितः (*dhṛṣitaḥ*)), the assailer of enemies, cast down (व्यास्यत् (*vyāsyat*)) the forces of the Asuras that till then had been unassailed (अनाधृष्टानि (*anādhṛṣṭāni*)), unhindered by enemies. Likewise he is अयास्यः (*ayāsyaḥ*), one who cannot be moved. Or else, अयास्यः (*ayāsyaḥ*) is Aṅgiras: by a word denoting the praiser, the one praised is indicated; Indra, praised by the sage Ayāsya, struck down the Asuras — the treasures (निधीन् (*nidhīn*)) laid up by them, the hoards of wealth; or else the "holders" who firmly hold the forces — the god-opposing (अदेवान् (*adevān*)) Asuras: अमृणत् (*amṛṇat*), he injured them. Further, "like the sun with the month" (मासेव (*māseva*)): as the sun by the course of the month draws earthly juices, so he took पुर्यं (*puryaṃ*), what is in the cities of the Asuras — wealth of such a kind (वसु (*vasu*)); he took it (आददे (*ādade*)). Likewise, being praised (गृणानः (*gṛṇānaḥ*)) by the praisers, he destroyed the enemies, the Asuras, with the shining (विरुक्तता (*viruktatā*)) thunderbolt (अशृणात् (*aśṛṇāt*)).
+
+### Printed p. 897
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृषितः (*dhṛṣitaḥ*)—Indra, the strong, who crushes enemies
+- अनाधृष्टानि (*anādhṛṣṭāni*)—the enemy armies not defeated until now
+- वि आस्यत् (*vi āsyat*)—destroyed (likewise)
+- अयास्यः (*ayāsyaḥ*)—Indra, who is unable to be shaken, or Indra praised by the sage Aṅgiras
+- निधीन् (*nidhīn*)—the wealth of the Asuras, or the exceedingly powerful
+- अदेवान् (*adevān*)—Asuras who are enemies of the gods
+- अमृणत् (*amṛṇat*)—injured (killed)
+- सूर्यः (*sūryaḥ*)—the sun
+- मासेव (*māseva*)—as in the summer month he draws and absorbs the juices of the earth, so Indra
+- पुर्यं (*puryaṃ*)—that was in the cities of the Asuras
+- वसु (*vasu*)—the wealth
+- आ ददे स्म (*ā dade sma*)—plundered
+- गृणानः (*gṛṇānaḥ*)—being praised by the praisers
+- शत्रून् (*śatrūn*)—the Asuras who were enemies
+- विरुक्मता (*virukmatā*)—with his shining thunderbolt
+- अश्वणात् (*aśvaṇāt*)—killed, injuring them
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the heroic crusher of enemies, defeated and destroyed the enemy armies that had been defeated by no one till then. Indra, whom no one could shake, seized and carried off the wealth of the Asuras. He injured and killed the Asuras who were enemies of the gods. As the sun in summer draws and absorbs the juices, the waters, lying on the earth, so Indra plundered the wealth that was in the enemy cities. Indra, praised by the praisers, injured the enemy Asuras with his thunderbolt gleaming brightly.
+
+##### English translation
+Bold (Indra) has annihilated the (hitherto) unbaffled (hosts of the Asura), the objeet of Ayasya's adoration has despoiled the impious of their treasurers; the sun as if with the (aid of the) moon has seized upon the wealth of the cities (of the Asuras), glorified (by his worshippers,) he has demolished the foe with his blaziug (thunderbolt).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अयु॑द्धसेनो वि॒भ्वा॑ विभिंद॒ता दाश॑द्वृत्र॒हा तुज्या॑नि तेजते ।  
+> इंद्र॑स्य॒ वज्रा॑दबिभेदभि॒श्नथः॒ प्राक्रा॑मच्छुं॒ध्यूरज॑हादु॒षा  ॑
+> 57
+
 ---
 
-**Progress note:** Done through printed p. 891. pp. 886-891 (batch API)
+**Progress note:** Done through printed p. 897. pp. 892-897 (batch API)
