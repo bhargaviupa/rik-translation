@@ -8,7 +8,7 @@ def kn2deva(s):
     out=[]
     for ch in s:
         o=ord(ch)
-        if 0x0C82<=o<=0x0CCD or 0x0CE0<=o<=0x0CE3:
+        if 0x0C81<=o<=0x0CCD or 0x0CE0<=o<=0x0CE3:
             out.append(chr(o-0x380))
         elif 0x0CE6<=o<=0x0CEF: out.append(chr(o-0x0CE6+0x0966))
         elif ch=='ಽ': out.append('ऽ')
