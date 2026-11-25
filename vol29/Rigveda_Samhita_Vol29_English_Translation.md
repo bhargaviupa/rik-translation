@@ -15307,7 +15307,7 @@ O Agni, burn the Yātudhāna Rākṣasas, who are in pairs and are kimādins. Th
 
 ### Printed p. 521
 
-- O wise Agni
+  O wise Agni
 - अदब्धं (*adabdhaṃ*)—who are unharmed
 - त्वा (*tvā*)—you
 - मन्मभिः (*manmabhiḥ*)—with praises
