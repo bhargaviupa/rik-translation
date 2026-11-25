@@ -15254,6 +15254,186 @@ The sacrificer takes ghee drawn four times and comes out a second time by the fr
 
 Then, taking ghee drawn four times, the assistant places a gold coin on the wheel-track of the northern chariot (Havirdhāna) and, with the words "O Viṣṇu, may you, endowed with wealth of cattle and wealth of food, be a benefactor to Mānava (the sacrificer). You have set these two worlds apart and established them. By your radiance you have upheld this earth on every side", with this praise of Viṣṇu
 
+### Printed p. 411
+
+The praise of Viṣṇu so described is recited (Ṛ. Saṃ. 7. 99. 3), and the ghee is offered with the call svāhā. Then he pours the remaining part into the wife's hand. As before, she prays, "Let the gods be informed of this arrival," and anoints with ghee the pin that is fixed to the axle of that cart-wheel. The reason for offering the ghee-oblation and anointing the axle-pin in this way is as follows:
+
+> देवा ह वै यज्ञं तन्वानाः । तेऽसुर रक्षकेभ्य आसंगाद्भिभयां चक्रुर्वज्रो वा आज्यं त एतेन वज्रेणाज्येन दक्षिणतो नाष्ट्रा रक्षाग् स्यवाघ्नंस्तथैषां नियानं नान्ववायंस्तथो एवैष एतेन वज्रेणाज्येन दक्षिणतो नाष्ट्रा रक्षाग् स्यवहंति तथास्य नियानं नान्ववयंति तद्यद्वैष्णवीभ्यामृग्भ्यां जुहोति वैष्णवग् हि हविर्भानं (श. ब्रा. ३-५-३-१५)
+
+##### Gist of the bhāṣya
+
+When the gods were spreading the sacrifice they feared an attack from the asura-rakṣases. Ghee is a thunderbolt; with this thunderbolt of ghee they struck the rakṣases from the south, and so the rakṣases could not follow their path. In the same way the performer now strikes the rakṣases from the south with the thunderbolt of ghee, and they do not follow his path. He offers with two Viṣṇu verses because the havirdhāna belongs to Viṣṇu. (Śa. Brā. 3-5-3-15)
+
+##### भावार्थ (Bhāvārtha)
+
+Once, when the gods were performing a sacrifice, they feared that an attack by asuras and rākṣasas might occur. With the help of ghee, which is equal to the thunderbolt weapon, they warded off the danger that could arise from the south. So even now, by offering ghee to the havirdhāna and anointing with it, the danger from that direction is averted. And since the havirdhāna belongs to the deity Viṣṇu, Viṣṇu must be praised and worshipped with Ṛk mantras. The need for the sacrificer's wife also to take part in this is as follows:
+
+> अथ यत्पत्न्यक्षस्य संतापमुपानक्ति । प्रजननमेवैतत्क्रियते यदा वै
+
+##### Gist of the bhāṣya
+
+As for the wife anointing the tip of the axle: this is done as an act of procreation. When a woman and a man are heated together, seed is shed, and from that there is birth. He anoints it outward (पराग् (*parāg*)), for seed is shed outward. Then he says, "Recite to the two havirdhānas as they are being moved forward." (Śa. Brā. 3-5-3-16)
+
+##### भावार्थ (Bhāvārtha)
+
+There is a hidden meaning in the wife's anointing the axle-pin, called saṃtāpa, with ghee. When husband and wife take pains together, the shedding of seed occurs and offspring is born. In the same way, even now their togetherness, and the wife's anointing of the pin with ghee while she stays beside the sacrificer, is the root of the production. As soon as she has anointed, he says to the hotṛ, "Recite the sentences praising the havirdhānas while they are moving."
+
+> अथ वाचयति । प्राची प्रेतमध्वरं कल्पयंती इत्यध्वरो वैयज्ञः प्राची
+
+##### Gist of the bhāṣya
+
+Then he has it recited: "Go eastward, preparing the sacrifice." Adhvara is the sacrifice; so this says, "Go eastward, preparing the sacrifice." "Lead the sacrifice upward; do not delay" means: lead this sacrifice upward to the world of the gods, do not delay. Then the text goes on to the asuric voice at the axle, that it must not (नेदिहासुर्या वाग्वादादि यद्युत्सर्जेतां (*nedihāsuryā vāgvādādi yadyutsarjetāṃ*)) sound here if the two should let it loose. (Śa. Brā. 3-5-3-17 **NOTE**) **NOTE**
+
+### Printed p. 412
+
+##### भावार्थ (Bhāvārtha)
+
+"O havirdhānas, move forward; make the sacrificial arrangement proceed" — he gives the direction to recite thus. The aim of this prayer is that the sacrifice be carried to the gods without suffering any deficiency. By the prayer "do not make this sacrifice halt," the meaning is that the sacrificer should be made to remain one whose rite is complete, not turning away from duty. Since the sound that arises at the axle is an asura sound, let the cart-wheel carry the cart forward without letting it sink. The creaking sound that arises in the region of the axle is a sign of ill omen. But if that asura-related creaking sound should arise — (here the Āsuryā Vāk is described in the Taittirīya Saṃhitā as Vāruṇī Durvāk; the praise of the havirdhāna in the Taittirīya Saṃhitā will be explained further on) —
+
+> एतद्वाचयेत् । स्वं गोष्ठमावदतं देवी दुर्य्य आयुर्मा निर्वादिष्टं
+
+##### Gist of the bhāṣya
+
+One should have this recited: "Make sound only in your own cattle-pen, O divine door-posts (or: divine ones); do not sound away my life, do not sound away my offspring." This is its expiation. (Śa. Brā. 3-5-3-18 **NOTE**)
+
+##### भावार्थ (Bhāvārtha)
+
+One must pray that no harm comes from that evil sound: "O you who have divine shelter, make your sound only for yourselves; do not cause the death of my life nor the cutting off of my progeny." The sacrificer must recite this. This is the remedy for it.
+
+> तदाहुः । उत्तरवेदेः प्रत्यज् प्रकामेत्रीन् विक्रमांस्तद्धविर्धाने स्थापयेत्सा हविर्धानयोर्मात्रॆति नात्रमात्रास्ति यत्रैव स्वयं मनसा
+
+##### Gist of the bhāṣya
+
+They say: for this expiation to be effective, he should go three paces westward from the northern altar and set the havirdhānas there; this is the measure of the two havirdhānas. But there is no fixed measure here: where he himself thinks fit in his mind, he may set them, neither very near nor far. (Śa. Brā. 3-5-3-19 **NOTE**)
+
+##### भावार्थ (Bhāvārtha)
+
+For this expiatory rite to succeed, he should go westward from the northern altar to a distance of three paces and set the havirdhānas there. This is the limit of the havirdhānas. But there is no fixed measure in this; he may set them wherever a place seems convenient to him. But that place must be neither very far from nor very near the northern altar.
+
+> तेऽभिमंत्रयते । अत्र रमेथां वर्षन् पृथिव्या इति वर्ष हैतत्पथिव्यै
+
+##### Gist of the bhāṣya
+
+He addresses them with a mantra: "Delight here on the height (वर्ष्मन् (*varṣman*)) of the earth." This is the height of the earth; the Āhavanīya is placed in heaven, as it were; he makes them stand on the navel, and that is the form of well-being. (Śa. Brā. 3-5-3-20)
+
+##### भावार्थ (Bhāvārtha)
+
+Reciting "Delight on this high region of the earth," one should salute the havirdhānas. This altar is the highest region on earth (high is to be understood as excellent), and he makes the havirdhānas stand resting on their navel. The navel is the support of good standing.
+
+### Printed p. 413
+
+> अथोत्तरेण पर्येत्याध्वर्युः । दक्षिणग्ं हनिर्धानमुपस्तभ्नाति विष्णोर्नुकं
+
+##### Gist of the bhāṣya
+
+Then the Adhvaryu goes round by the north and props up the southern havirdhāna, reciting "I have proclaimed the heroic deeds of Viṣṇu, who measured the earthly regions, who propped up the upper abode, striding three times, far-going" (Ṛ. Saṃ. 1. 154. 1), then "To Viṣṇu you" — and strikes in the wedge-post (मेधीं (*medhīṃ*)); it is different from what is done in ordinary human practice. (Śa. Brā. 3-5-3-21)
+
+##### भावार्थ (Bhāvārtha)
+
+Then the Adhvaryu goes round from the north and gives support to the southern havirdhāna and makes it stand. For it to stand firm, he recites (1. 154. 1): "I proclaim the heroic deeds of Viṣṇu, who has made in a special way all the worlds such as the earth; who moves variously in the worlds he created; who, having built the very wide intermediate region, has established all the worlds firmly; who is all-pervading," and makes it stand firm. It is set up in a way more special than the order of setting up in ordinary time. This setting up is made secure with Viṣṇu as its object.
+
+> अथ प्रतिप्रस्थाता । उत्तरग्ं हविर्धानमुपस्तभ्नाति दिवो वा विष्णवुत वा
+
+##### Gist of the bhāṣya
+
+Then the Pratiprasthātṛ props up the northern havirdhāna with "O Viṣṇu, from heaven or from the earth, or from the great wide intermediate region, fill both hands with wealth and give from right and left," and "To Viṣṇu you," and strikes in the wedge-post elsewhere than in ordinary practice. They serve with Viṣṇu formulas because the havirdhāna belongs to Viṣṇu.
+
+##### भावार्थ (Bhāvārtha)
+
+Then the Pratiprasthātṛ, the Adhvaryu's assistant, sets up the northern havirdhāna. "O Viṣṇu, from the heaven-world, from the earth, or from the very wide intermediate region, come with both your hands filled with wealth, and make us covered with wealth on both our left and right sides" — thus praising Viṣṇu, he sets it in a place different from that of the ordinary setting up. Since the havirdhāna belongs to Viṣṇu, the praise of Viṣṇu is absolutely necessary.
+
+> अथ मध्यमं छदिरुपस्पृश्य वाचयति । प्रतद्विष्णुः स्तवते वीर्येण मृगो
+
+##### Gist of the bhāṣya
+
+Then, touching the middle cover (छदि (*chadi*)), he has it recited: "Viṣṇu is praised for his might, fearsome like a wild beast, roaming where he will, dwelling on the mountains, in whose three wide strides all beings abide" (Ṛ. Saṃ. 1. 154. 2). This is the head-skull (*śīrṣakapālaṃ*) of this [havirdhāna]; the other skulls rest on it, and therefore he says "they abide upon." (Śa. Brā. 3-5-3-21)
+
+##### भावार्थ (Bhāvārtha)
+
+Covering the reed mat spread in the middle he recites: "Viṣṇu, in whose very wide, three-numbered foot-strides all beings stand established, and who, like lions and other forest beasts, is terrible to enemies, a great tormentor of enemies and dwelling on the high regions of the mountains — that Viṣṇu is especially praised together with his heroic deeds" (Ṛ. Saṃ. 1-154-2). 
+
+### Printed p. 414
+
+This reed mat is the head-skull form of the havirdhāna (of Viṣṇu). All the other skulls rest on it. Therefore he recites the best praise.
+
+> अथ रराट्यामुपस्पृश्य वाचयति विष्णो रराटमसीति ललाटग्ं हैवास्यैतदस्योच्छ्राय्या उपस्पृश्य वाचयति विष्णोः श्नप्रे स्थ इति प्रक्वे हैवा
+
+##### Gist of the bhāṣya
+
+Then, touching the front band (*rarāṭī*), he has it recited, "You are the forehead of Viṣṇu"; this is, as it were, his forehead. Touching the upright pieces he has it recited, "You two are the jaws (श्नप्रे (*śnapre*)) of Viṣṇu"; these are as it were his jaws. And as for the cover at the back, it is the head-skull. **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Then, touching the front binding, he praises: "O binding, you are the head-band, the ornament of Viṣṇu." Then, touching the straight upper strips, he praises: "You are the jaw regions of Viṣṇu." The cover at the back is the head-skull.
+
+> अथ लस्पूजन्या स्पंद्यया प्रसीव्यति । विष्णोः सूर्यसीत्यथ ग्रंथिं करोति
+
+##### Gist of the bhāṣya
+
+Then he sews with a needle and a thread, "You are the weaver of Viṣṇu"; then he makes a knot, "You are the firm one of Viṣṇu," lest it fall off; he undoes it when the rite in hand is finished, so that no seizure (*grāhaḥ*) finds the Adhvaryu or the sacrificer. He touches the finished work: "You are Viṣṇu's," for the havirdhāna is Viṣṇu's. (Śa. Brā. 3-5-3-25) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Praising "You are Viṣṇu's weaver," he threads the needle and sews the upper binding. So that it may not fall down, he tightens it with a knot and praises, "You are Viṣṇu's firm knot." As soon as the rite reaches the end of its recitation, he undoes that knot. For this reason no sloth touches either the Adhvaryu or the sacrificer. Since the havirdhāna itself belongs to Viṣṇu, he praises it, "You are connected with the self of Viṣṇu."
+
+Although the Taittirīya Saṃhitā also praises these same parts in this praise and description of the havirdhāna, there are some differences in the account there; therefore the passages there are cited here. The praise of the havirdhāna in the Taittirīya Saṃhitā is as follows —
+
+> बद्वमव स्यति वरुणपाशादेवैने मुंचति प्रणेनेक्ति मेध्यॆ एवैैने करोति
+
+##### Gist of the bhāṣya
+
+He unties the bound ones; thus he frees them from Varuṇa's noose; he cleanses them and makes them fit for sacrifice. Having offered with a verse addressed to Savitṛ, he sets the havirdhānas in motion; thus he sets them moving when impelled by Savitṛ. The ill-voice (दुर्वाक् (*durvāk*)) of Varuṇa is bound at both ends; if the axle should let it go, it would let it go against the sacrificer's houses; therefore he says "Speak well, O Speech divine (सुवाग्देव (*suvāgdeva*)), the ill-voice"; houses are the ill-voice's; the wife anoints them. (Tai. Saṃ. 6-2-9-1) **NOTE**
+
+### Printed p. 415
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the binding is loosened, it is as if Varuṇa's noose has been loosened, and the havirdhānas become fit to take part in the sacrificial act. After reciting a mantra addressed to the deity Savitṛ and offering the oblation, he brings the havirdhānas forward. Savitṛ's impulsion itself is what helps in bringing them forward thus. The reed strip that is joined on both sides belongs to Varuṇa. It must not make the creaking evil sound. If it makes that sound, trouble comes to the sacrificer's house. "It makes a sound aiming at the houses; it makes them ill-fortuned." — they cause trouble to the sacrificer's houses. "O Goddess of Speech, make a good sound fit to do good to our houses" — thus he prays. Then his wife anoints them with ghee.
+
+> पत्नी हि सर्वस्य मित्रं मित्रत्वाय यद्वै पत्नी यज्ञस्य करोति मिथुनं
+
+##### Gist of the bhāṣya
+
+The wife is a friend to all, for friendship; what the wife does for the sacrifice is a pairing (मिथुनं (*mithunaṃ*)), and this is the wife's continued taking-up of the sacrifice, for its unbrokenness. Following the track, the rakṣases would try to slay the sacrifice; he offers on the track with two Viṣṇu verses; the sacrifice is Viṣṇu; thus he strikes off the rakṣases from the sacrifice. If the Adhvaryu were to offer an oblation where there is no fire, he would become blind, and the rakṣases would strike the sacrifice.
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer's wife is a friend to all who take part in the sacrificial work. It is through the wife's participation that the pairing favourable to the sacrifice is obtained. As described in sentences such as "For the continuity of the sacrifice the wife takes hold" (Tai. Saṃ. 6-2-1-1), she holds the sacrificial thread so that the sacrifice may be accomplished without obstacle. In the present case she is the one who stops the sound of the cart's axle by anointing with ghee. If not, the rākṣasas would follow that sound, come, and cause obstacles to the sacrifice. To avoid that, the sacrificer follows yet another remedy. He recites mantras praising Viṣṇu and offers the oblation. The sacrifice itself is of Viṣṇu's form. Therefore with the help of reciting these Viṣṇu mantras he drives out the rākṣasas. If the Adhvaryu were to offer the oblation in a place without fire, he would become blind. Even then the rākṣasas might come and do violence to the sacrifice. Therefore —
+
+> हिरण्यमुपास्य जुहोत्यग्निवत्येव जुहोति नांधोद्वर्युर्भवति न यज्ञग्ं
+
+##### Gist of the bhāṣya
+
+Having thrown gold (*hiraṇyaṃ*) he offers; thus he offers as if in fire, the Adhvaryu does not become blind, and the rakṣases do not strike the sacrifice. "Go eastward, preparing the sacrifice" he says; thus he makes them go to the heavenly world. "Delight here on the height of the earth" he says, for the place of divine worship is the height of the earth. The havirdhāna is the head of the sacrifice. With the verse "From heaven or from Viṣṇu or from the earth" he strikes the wedge-post of the southern havirdhāna; thus from the head of the sacrifice the sacrificer wins blessings.
+
+### Printed p. 416
+
+##### भावार्थ (Bhāvārtha)
+
+To reflect Agni at the front of the cart, he puts a gold coin there before offering the oblation. Then his oblation becomes as if offered in fire. The Adhvaryu does not become blind. The sacrifice too has no harm from the rākṣasas. Then, addressing the havirdhānas, "Go forward towards the sacrifice," he prays and makes them go to heaven. Since the sacrificial altar is the very highest place, he prays to the havirdhānas set on that altar, "Delight on the high region."
+
+This havirdhāna is the head of the sacrifice. Reciting the mantra "दिवो वा विष्णो (*divo vā viṣṇo*)" he sets up the havirdhāna of the southern side. Therefore the sacrificer receives blessings right at the beginning of the sacrifice.
+
+> दंडो वा औपरस्तृतीयस्य हविर्धानस्य वषट्कारेणाक्षमच्चिनद्यत्तृतीयं
+
+##### Gist of the bhāṣya
+
+The staff (*daṃḍaḥ*) of the Upara [pit] broke the axle of the third havirdhāna by the vaṣaṭ call. The third cover is cited among the two havirdhāna covers for the winning of the third havirdhāna. The havirdhāna is the head of the sacrifice; "You are the forehead of Viṣṇu, you are the back of Viṣṇu," he says; therefore this head is (so) joined. "You are the weaver of Viṣṇu, you are the firm one of Viṣṇu," he says; for the havirdhāna is Viṣṇu's by deity. The first knot that is tied should not be left unloosed, lest the Adhvaryu die from retention of urine; therefore it should be loosened. (Tai. Saṃ. 6-2-9-4) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+By reciting the vaṣaṭkāra, the staff belonging to the Upara bamboo broke the axle of the third havirdhāna. Therefore, in the present case, the third cover spread over the havirdhāna is the representative of the third havirdhāna. The havirdhāna is the head of the sacrifice. "O havirdhāna, you are the forehead of Viṣṇu, you are the back of Viṣṇu" — thus he praises it. Therefore this head is divided many times. "You are Viṣṇu's thread; you are Viṣṇu's eternal state" — it is also praised thus. This havirdhāna is wholly of Viṣṇu as its deity. At the end there is the loosening of the knot (undoing). If the knot tied first is not undone, the Adhvaryu's bladder would be blocked and he might perish. Therefore this loosening of the knot is absolutely necessary — thus, and so on, is the praise of the havirdhāna. The true nature of these same havirdhāna carts and their greatness are described in the Aitareya Brāhmaṇa as follows (Ai. Brā. 1-23). It directs the order of reciting the mantras praising it.
+
+> हविर्धानाभ्यां प्रोह्यमाणाभ्यामनुब्रूहीत्याहाध्वर्युः ।
+
+##### Gist of the bhāṣya
+
+The Adhvaryu says: "Recite to the two havirdhānas as they are being carried forward."
+
+##### भावार्थ (Bhāvārtha)
+
+Addressing the havirdhānas that are to be brought to the sacrificial ground, the Adhvaryu tells the hotṛ, "Recite the mantras praising them." Of these, first,
+
 ---
 
-**Progress note:** Done through printed p. 410. pp. 405-410 (batch API)
+**Progress note:** Done through printed p. 416. pp. 411-416 (batch API)
