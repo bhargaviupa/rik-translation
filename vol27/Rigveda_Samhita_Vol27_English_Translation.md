@@ -15081,6 +15081,179 @@ In that Agni, the principal part of the sacrifice, the gods, Indra and the other
 
 Through the offering of oblation in the famous Agni, the gods, Indra and the others, obtain delight in the sacrificial house. They are established in the sacrificer's sacrificial house. Because they have obtained delight in this way, they have established radiance in the sun and have established the night in the moon. The eternal sun and moon spread their brightness all around.
 
+### Printed p. 405
+
+##### English translation
+In him the gods find pleasure at the sacrifice; they seat themselves on the altar of the sacrificer. They placed light in the sun; beams in the moon; and these untiring shed their light around.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॑न्दे॒वा मन्म॑नि सं॒चरं॑त्यपी॒च्ये॒३॒॑ ३ न व॒यम॑स्य विद्म ।  
+> मि॒त्रो नो॒ अत्रादि॑ति॒रना॑गान्त्सवि॒ता दे॒वो वरु॑णाय  
+> वोचत् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । देवाः । मन्मनि । संचरंति । अपीच्ये । न । वयं । अस्य । विद्म ।  
+> मित्रः । नः । अत्र । अदितिः । अनागान् । सविता । देवः । वरुणाय । वोचत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा इंद्रादयो यस्मिन्नग्नौ मन्मनि ज्ञानभूते ज्ञानवत्सर्वप्रकाशके सति
+> संचरंति स्वाधिकारे संप्रवर्तंते अपीच्येऽंतर्हिते स्थितमग्नेः स्वरूपं वयं न
+> विद्म । तत्त्वतो न जानीमः । आत्रास्मिन्यज्ञेऽंगभावाय वर्तमानो मित्रो वरुणाय सर्वेषां पापानां निवारयित्रेऽग्नये नोऽस्माननागानपापान्वोचत् ।
+> ब्रवीतु । तथादितिर्देवमाता सविता सर्वस्य प्रेरको देवश्च ब्रवीतु ॥
+
+##### Gist of the bhāṣya
+
+The gods, Indra and the others, move about, that is, go on with their own duties, when Agni is present as "mannani", that is, as the embodiment of knowledge, the knowing illuminator of all. When that form of Agni stands "अपीच्ये (*apīcye*)", hidden from view, we do not know it; we do not truly know it. Mitra, who is present here in this sacrifice as a part of it, is to speak of us as sinless to Varuṇa, that is, to Agni, the averter of all sins. In the same way Aditi, the mother of the gods, and Savitṛ, the god who impels everything, are to speak.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—the gods, Indra and the others
+- यस्मिन् (*yasmin*)—that same Agni
+- मन्मनि (*manmani*)—when he is manifest to our sight
+- संचरंति (*saṃcaraṃti*)—they move about
+- अस्य (*asya*)—this one's form
+- अपीच्ये (*apīcye*)—when Agni is hidden
+- वयं (*vayaṃ*)—we
+- न विद्म (*na vidma*)—cannot know
+- अत्र (*atra*)—taking a share in this sacrifice
+- मित्रः (*mitraḥ*)—the god Mitra
+- वरुणाय (*varuṇāya*)—before Agni, the averter of sin
+- नः (*naḥ*)—us
+- अनागान् (*anāgān*)—as free from sin
+- वोचत् (*vocat*)—let him declare
+- अदितिः (*aditiḥ*)—Aditi also
+- देवः (*devaḥ*)—the god in nature
+- सविता (*savitā*)—Savitṛ also, let him declare and speak
+
+### Printed p. 406
+
+##### भावार्थ (Bhāvārtha)
+
+When this Agni becomes visible to all of us and an object of knowledge, the gods, Indra and the others, move about here. When Agni is hidden we cannot know his form. May the god Mitra, who takes a share in this sacrifice, declare us sinless before Agni, the averter of sin. May Aditi, and Savitṛ, divine in nature, declare us sinless.
+
+##### English translation
+When he, the all-illumining, is there, the gods assemble ; but when he concealed, we know not (his abode) ; so at this sacrifice let Mitra and Aditi and Savitri proclaim us to Varuna as free from sin.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒धी नो॑ अग्ने॒ सद॑ने स॒धस्थे॑ यु॒क्त्वा रथ॑म॒मृत॑स्य द्रवि॒त्नुं।  
+> आ नो॑ वह॒ रोद॑सी दे॒वपु॑त्रे॒ माकि॑र्दे॒वाना॒मप॑ भूरि॒ह  ॑
+> साः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रुधि । नः । अग्ने i सदने । सधस्थे । युक्षव रथं । अमृतस्य । द्रवित्नुं ।  
+> आ । नः । वह । रोदसी इति । देवपुत्रे इति देवपुत्रे । माकिः । देवानां । अप ।  
+> भूः । इह । स्याः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सधस्थे सहस्थाने सर्वदेवतासाधारणे सदने यज्ञगृहे स्थितः सन्नोस्मदीयं वचनं श्रुधि । शृणु । किं तद्वचनं उच्यते । अमृतस्य देवपानस्य मधुनो द्रवित्नुं द्रावकं रथमात्मीयं युक्ष्व । आह्वानार्थं देवान्प्रति गमनायाश्चै: संयुक्ष्व । संयुक्तेन रथेन गत्वा नोऽस्माकं यज्ञं प्रति देवपुत्रे
+> देवस्य प्रजापतेर्दुहितरौ यद्वा देवाः पुत्रा ययोस्ते रोदसी द्यावापृथिव्यावा वह । प्रापय । देवानां मध्यॆ कश्चिद्देवोऽप भूरपभवितास्मद्यज्ञादपगंता
+> माकिः स्यात् । त्वं चेहास्मिन्यज्ञे स्याः । संनिहितो भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being seated in the "sadana", the sacrificial house, which is the "sadhasthe", the place shared by all the deities, hear our words. What are they? Harness your own chariot, which makes the ambrosia, the honey drunk by the gods, flow; harness it with horses so as to go to the gods to invite them. Having gone with the harnessed chariot, bring to our sacrifice "devaputre", the two daughters of the god Prajāpati, or else the two "रोदसी (*rodasī*)", heaven and earth, whose sons are the gods. Let no god among the gods be "अप भूः (*apa bhūḥ*)", fall away or go away from our sacrifice; and you also be here, present at this sacrifice.
+
+### Printed p. 407
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सधस्थे (*sadhasthe*)—where all the gods assemble
+- सदने (*sadane*)—being in the sacrificial house
+- नः (*naḥ*)—our praise
+- श्रुधि (*śrudhi*)—hear
+- अमृतस्य (*amṛtasya*)—ambrosia
+- द्रवित्नुं (*dravitnuṃ*)—that makes flow
+- रथं (*rathaṃ*)—the chariot
+- युक्षव (*yukṣava*)—harness
+- नः (*naḥ*)—to our sacrifice
+- देवपुत्रे (*devaputre*)—the daughters of Prajāpati
+- रोदसी (*rodasī*)—heaven and earth
+- आ वह (*ā vaha*)—bring
+- देवानां (*devānāṃ*)—among the gods
+- माकिः अप भूः (*mākiḥ apa bhūḥ*)—let no one escape
+- इह (*iha*)—in our sacrifice
+- स्याः (*syāḥ*)—you too be near
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, being in the sacrificial house where all the gods assemble, hear our praise. Harness your chariot that makes ambrosia flow. Bring to our sacrifice heaven and earth, the daughters of Prajāpati. Let none among the gods escape our sacrifice. You too be near us.
+
+##### English translation
+Agni, present in the dwelling common (to the deities) hear us : harness your swift chariot of ambrosia: bring to us the heaven and earth, the daughters of the divine (Prajapati), let none of the gods be absent, and you yourself be present.
+
+## Sūkta 13 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+The Havirdhāna carts.
+
+The carts that serve as the means of bringing Soma, king of the Gandharvas, to the sacrificial ground are called Havirdhāna carts. Just as Soma is lord over gods, men and the rest, so these carts that carry him are also in the form of lords over gods, men and the rest.
+
+सप्त क्षरंति शिशवे मरुत्वते पित्रे पुत्रासो अप्यवीवतन्नृतं । उभे इदस्योभयस्य राजत उभे यतेते उभयस्य पुष्यतः ॥ (*sapta kṣaraṃti śiśave marutvate pitre putrāso apyavīvatannṛtaṃ | ubhe idasyobhayasya rājata ubhe yatete ubhayasya puṣyataḥ ‖*)
+(Ṛ. Saṃ. 10-13-5)
+
+### Printed p. 408
+In this verse Soma is praised as a son to the Havirdhāna carts, and the Havirdhāna carts that have such a son are praised as lords over all gods, men and the rest, and also as nourishers of them all. Just as Soma is an indispensable means to the sacrifice, which nourishes and upholds the world, so the carts that bring that Soma are also means to it. Just as Soma is born of a divine portion, so these Havirdhāna carts too are born of a divine portion. The order of their origin is stated in the Aitareya Brāhmaṇa as follows.
+
+देवासुरा वा एषु लोकेषु समयतंत ते ना असुरा इमानेव लोकान् पुरोऽकुर्वत यथौजीयांसो बलीयांस एवं ते ना अयस्मयामेवेमामकुर्वत रजतामंतरिक्षं हरिणीं दिवं ते तथेमान् लोकान् पुरोऽकुर्वत ते देवा अब्रुवन् पुरो वा इमेऽसुरा इमान् लोकानक्रत पुर इमान् लोकान् प्रतिकरवामहा इति तथेति ते सद एवास्याः प्रत्यकुर्वताग्नीध्रमंतिक्षाद्दविर्धाने दिव .... ॥ (*devāsurā vā eṣu lokeṣu samayataṃta te nā asurā imāneva lokān puro 'kurvata yathaujīyāṃso balīyāṃsa evaṃ te nā ayasmayāmevemāmakurvata rajatāmaṃtarikṣaṃ hariṇīṃ divaṃ te tathemān lokān puro 'kurvata te devā abruvan puro vā ime 'surā imān lokānakrata pura imān lokān pratikaravāmahā iti tatheti te sada evāsyāḥ pratyakurvatāgnīdhramaṃtikṣāddavirdhāne diva .... ‖*)
+(Ai. Brā. 1-23)
+
+The gods and the Asuras contended for mastery over these worlds. Then the Asuras made all the worlds into strongholds: the earth a fortress of steel, the atmosphere one of silver, and the heaven a fortress of gold. Then all the gods assembled and resolved: "The Asuras have made these worlds into strongholds. Let us too, in opposition to them, make strongholds of greater power than theirs." So they strove, and made the Sadas from this earth, the Āgnīdhra from the atmosphere, and the Havirdhānas from the heaven; so it is stated. From this it is understood that the Havirdhānas are not merely helpful to the world but are protectors of the gods. Moreover the greatness of the Havirdhāna is praised exceedingly in the Śatapatha Brāhmaṇa. What is the Havirdhāna? How did the name Havirdhāna come to be? What is its importance? These matters are described as follows in the passages quoted below.
+
+पुरुषो वै यज्ञः । पुरुषस्तेन यज्ञो यदेनं पुरुषस्तनुत एष वै तायमानो यावानेव पुरुषस्तावान्विधीयते तस्मात्पुरुषो यज्ञः ॥ (*puruṣo vai yajñaḥ | puruṣastena yajño yadenaṃ puruṣastanuta eṣa vai tāyamāno yāvāneva puruṣastāvānvidhīyate tasmātpuruṣo yajñaḥ ‖*)
+(Ka. Brā. 3-5-3-1) **NOTE**
+
+The sacrifice is of the form of a man. Because the man extends and spreads out the sacrifice, there is identity between the sacrifice and the man. By such extension the sacrifice too attains just the measure of the man. Because of this likeness of measure, and also because of the relation of maker and the one made, the sacrifice has the name "man".
+
+### Printed p. 409
+शिर एवास्य हविर्ध्नं । वैष्णवं देवतयाथ यदस्मिन्सोमो भवति हविर्वै देवानाग्ं सोमस्तस्माद्दविर्ध्नं नाम ॥ ( (*śira evāsya havirdhnaṃ | vaiṣṇavaṃ devatayātha yadasminsomo bhavati havirvai devānāgṃ somastasmāddavirdhnaṃ nāma ‖ (*)
+(Śa. Brā. 3-5-3-2)
+
+For this sacrifice the Havirdhāna is the head; Viṣṇu is the deity of this Havirdhāna. Soma is contained in it. Soma is the oblation offered to the gods. Because it is filled with this Soma, this cart has the name Havirdhāna.
+
+उभयतोद्वारग्ं हविर्धानं भवति । उभयतोद्वारग्ं सदस्तस्मादयं पुरुष अंतग्ं संतृणः प्रणिक्ते हविर्धाने उपतिष्ठते (*ubhayatodvāragṃ havirdhānaṃ bhavati | ubhayatodvāragṃ sadastasmādayaṃ puruṣa aṃtagṃ saṃtṛṇaḥ praṇikte havirdhāne upatiṣṭhate*)
+(Śa. Brā. 3-5-3-7)
+
+This Havirdhāna has doors on both sides. In the same way the Sadas also has doors on both sides. The man too is in the same condition. After being purified he enters it.
+
+There is one Havirdhāna on the south side and one on the north. The southern Havirdhāna is the larger of the two; it is under the leadership of the Adhvaryu. The northern one is under the leadership of the Pratiprasthātṛ, the Adhvaryu's assistant. Both of them carry their respective Havirdhānas toward the west. Then, proceeding in pradakṣiṇa fashion, both lead them to the neighbourhood of the inner enclosure of the sacrificial altar.
+
+ते समवर्तयंति । दक्षिणेनैव दक्षिणमुत्तरेणोत्तरं यद्वर्षीयस्तद्दक्षिणं स्यात् ॥ (*te samavartayaṃti | dakṣiṇenaiva dakṣiṇamuttareṇottaraṃ yadvarṣīyastaddakṣiṇaṃ syāt ‖*)
+(Śa. Brā. ?-5-3-8) **NOTE**
+
+Then, in pradakṣiṇa fashion, they take those two Havirdhānas to the south and the north. The Havirdhāna of the south is the larger of the two.
+
+तयोः समववृक्तयोः। धदिरधिनिदधति । यदि छदिर्न विंदेयुष्फदिः संमितां भित्तिं प्रत्यानह्यंति रराट्यां परिश्रयंत्युच्छ्रायीभ्यां छदिः पश्चादधिनिदधति छदिः सम्मितां वा भित्तिं (*tayoḥ samavavṛktayoḥ| dhadiradhinidadhati | yadi chadirna viṃdeyuṣphadiḥ saṃmitāṃ bhittiṃ pratyānahyaṃti rarāṭyāṃ pariśrayaṃtyucchrāyībhyāṃ chadiḥ paścādadhinidadhati chadiḥ sammitāṃ vā bhittiṃ*)
+(Śa. Brā. 3-5-3-9)
+
+After the circumambulation they place them on the sacrificial altar and cover them with grass called "chadi" (or a mat made of darbha grass). Or, if a mat of reed grass is not found, a reed mat of equal size may be spread. They also set them between two straight screens. And they place a second mat behind the first one and cover them.
+
+### Printed p. 410
+विप्रा विप्रस्य बहृतो विपश्चितः । .... .... मही देवस्य सवितुः परिष्टुतिः स्वाहेति तत्सावित्रं प्रसवाय जुहोति (*viprā viprasya bahṛto vipaścitaḥ | .... .... mahī devasya savituḥ pariṣṭutiḥ svāheti tatsāvitraṃ prasavāya juhoti*)
+(Śa. Brā. 3-5-3.12)
+
+Then the priests are the Brahma-knowers, the most intelligent among the learned, and the inspirers of supreme faith and knowledge मही देवस्य सवितुः परिष्टुतिः (*mahī devasya savituḥ pariṣṭutiḥ*): "The praise of the god Savitṛ, divine in nature, is great." With these words of praise (the Adhvaryu) offers an oblation of ghee to Savitṛ, the impeller of all.
+
+अथापरं चतुर्गृहीतमाज्यं गृहीत्वा । उपनिष्क्रामति दक्षिणया द्वारा पत्नीं निष्क्रामयंति स दक्षिणस्य हविर्धानस्य दक्षिणायां वर्तन्याग्ं हिरण्यं निधाय जुहोतीदं विष्णुर्विचक्रमे त्रेधा निदधे पदं । समूढमस्य पाग्ं सुरे स्वाहेति सग् स्रवं पत्नैः पाणावानयति साक्षस्य संतापमुपानक्ति देवश्रुता देवेष्टाघोषतमिति प्रयच्छति प्रतिप्रस्थात्रेस्रुचं चाज्यविलापनीं च पर्याणयंति पत्निमुभौ जघनेनाग्नी (*athāparaṃ caturgṛhītamājyaṃ gṛhītvā | upaniṣkrāmati dakṣiṇayā dvārā patnīṃ niṣkrāmayaṃti sa dakṣiṇasya havirdhānasya dakṣiṇāyāṃ vartanyāgṃ hiraṇyaṃ nidhāya juhotīdaṃ viṣṇurvicakrame tredhā nidadhe padaṃ | samūḍhamasya pāgṃ sure svāheti sag sravaṃ patnaiḥ pāṇāvānayati sākṣasya saṃtāpamupānakti devaśrutā deveṣṭāghoṣatamiti prayacchati pratiprasthātresrucaṃ cājyavilāpanīṃ ca paryāṇayaṃti patnimubhau jaghanenāgnī*)
+(Śa. Brā. 3-5.3-13)
+
+The sacrificer takes ghee drawn four times and comes out a second time by the front door. His wife is led out by the door on the south side. Then the sacrificer places a gold coin on the right-hand wheel-track of the southern Havirdhāna and then recites the praise of Viṣṇu beginning इदं विष्णुर्विचक्रमे (*idaṃ viṣṇurvicakrame*) … समूढं (*samūḍhaṃ*) …: "Viṣṇu strode across these three worlds. By the dust raised by the stepping of his foot three times, this whole world was pervaded" (Ṛ. Saṃ. 1. 22. 17), and offers the ghee. The remaining part of the ghee he pours into his wife's hand. Then she, praying "The gods are to be informed of this arrival", smears with that ghee the linchpin fixed into the axle of the wheel of that chariot (the Havirdhāna). Afterwards the sacrificer entrusts the ghee vessel and the pin (saṃtāpa) to his assistant. Then his wife goes in by the door at the back.
+
+चतुर्गृहीतमाज्यं गृहीत्वा प्रतिप्रस्थातोत्तरस्य हविर्धानस्य दक्षिणायां वर्तन्यां हिरण्यं निधाय जुहोतिरावती धेनुमती ही भूतग्ं सूय वसिनी मनवे वशस्या । व्यस्नभ्नात् रोदसी विष्णुवेते दाधर्थ पृथिवीमभितो मयूख्यैः स्वाहेति सग्ग स्रवं पत्नैश्च पाणावानयति साक्षस्य संतापमुपानक्ति देवश्रुता देवेष्टाघोषतमिति तद्यदेवं जुहोति (*caturgṛhītamājyaṃ gṛhītvā pratiprasthātottarasya havirdhānasya dakṣiṇāyāṃ vartanyāṃ hiraṇyaṃ nidhāya juhotirāvatī dhenumatī hī bhūtagṃ sūya vasinī manave vaśasyā | vyasnabhnāt rodasī viṣṇuvete dādhartha pṛthivīmabhito mayūkhyaiḥ svāheti sagga sravaṃ patnaiśca pāṇāvānayati sākṣasya saṃtāpamupānakti devaśrutā deveṣṭāghoṣatamiti tadyadevaṃ juhoti*)
+
+Then, taking ghee drawn four times, the assistant places a gold coin on the wheel-track of the northern chariot (Havirdhāna) and, with the words "O Viṣṇu, may you, endowed with wealth of cattle and wealth of food, be a benefactor to Mānava (the sacrificer). You have set these two worlds apart and established them. By your radiance you have upheld this earth on every side", with this praise of Viṣṇu
+
 ---
 
-**Progress note:** Done through printed p. 404. pp. 399-404 (batch API)
+**Progress note:** Done through printed p. 410. pp. 405-410 (batch API)
