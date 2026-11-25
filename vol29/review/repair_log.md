@@ -9,3 +9,4 @@ Checked with `tools/rv/check_page_markers.py 29` (one `---` chunk of the supplie
 
 ## 2026-11-25 — preface installed
 Editor's preface (ಪೀಠಿಕೆ, lines 104–133 of `vol29/html/rig_29.md`; translated by one Sonnet agent) installed before printed p. 1: English `## Preface (Pīṭhike)` after the title line; Kannada `## ಪೀಠಿಕೆ` after the header `---`, as supplied (stray `}` after the date line kept in the Kannada); 1 NOTE row moved to the top of `review/notes.tsv` (window `preface`). Done on the user's instruction "go ahead with all".
+- 2026-11-25: tools/rv/refs_fix.py (user's reading of the print): ಸಿ.→ನಿ. (Ni.), ಮಿ./ಮ./ಪು. ಸಂ.→ಋ. ಸಂ. (Ṛ. Saṃ.), ಇ. ಬ್ರಾ.→ಐ. ಬ್ರಾ. (Ai. Brā.) before reference numbers; lines changed: kn 0, en 1 (English file: reference notes rewritten with Latin abbreviations and digits).
