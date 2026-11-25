@@ -338,6 +338,13 @@ def cmd_fix(a):
     w,which,old,new=a[1],a[2],a[3],a[4]; p=os.path.join(w,{'kn':'kn.md','en':'en.md'}[which]); t=rd(p)
     if t.count(old)!=1: sys.exit(f'FAIL: old text occurs {t.count(old)} times in {which}.md (must be exactly once; add context)')
     wr(p,t.replace(old,new)); open(os.path.join(w,'fixes.tsv'),'a',encoding='utf8').write(f'{which}\t{old}\t{new}\n'); print('fixed; re-run build and check')
+    if which=='kn':                                # a page marker put in by the fix: the page goes into pages.json too (Vol 29: agents did it by hand in more than 10 windows)
+        pj=os.path.join(w,'pages.json')
+        if os.path.exists(pj):
+            pg=json.load(open(pj)); have={x['printed'] for x in pg}; added=[]
+            for m in re.findall(r'<!-- printed (\d+)',new):
+                if int(m) not in have: pg.append({'printed':int(m),'pdf':None,'file_page':None,'numeral_rows':0}); have.add(int(m)); added.append(int(m))
+            if added: pg.sort(key=lambda x:x['printed']); open(pj,'w').write(json.dumps(pg)); print('pages.json: added printed page(s)',added,'(write "### Printed p. N" in en.md)')
 def cmd_commit(a):
     cfg=rvlib.Cfg(a[0]); w=a[1]; note=a[a.index('--note')+1]; mx=a[a.index('--max-doubts')+1] if '--max-doubts' in a else '0'
     if re.match(r'\s*Done through',note): sys.exit('FAIL: the note must not start with "Done through" (the script writes the position)')
