@@ -7918,6 +7918,174 @@ In the Ṛgveda Saṃhitā the 81st and 82nd hymns of the tenth maṇḍala are 
 
 The two Viśvakarman hymns in the Ṛgveda have 14 Ṛks in all. But here there are 17 mantras. That is, three mantras are added here beyond what is in the Ṛgveda: the 8th mantra, beginning विश्वकर्मा ह्यजनिष्टदेवः (*viśvakarmā hyajaniṣṭadevaḥ*), the 16th mantra, beginning विश्वकर्मन् हविषावर्धनेन (*viśvakarman haviṣāvardhanena*), and the 17th mantra, beginning समुद्राय वयुनाय (*samudrāya vayunāya*).
 
+### Printed p. 310
+
+## Sūkta 83 (Maṇḍala 10)
+
+**Introduction**
+
+The deity of this sūkta and of the next is Manyu, that is, the god who presides over anger. There are some instances in which the seers took certain feelings that arise in the mind to be deities and praised them. Manyu (anger, wrath) is one of these. In the same way Śraddhā, dāna (giving), tapas (meditation), Medhā, Prajñā, Kāma, Satya, Dama, Śama, Dharma, Yajña, the mind, the year or time, peace and bliss, and so on, have been regarded as deities of feeling. In the present sūkta and in the next, the deity presiding over anger, named Manyu, is praised. In the Taittirīya Upaniṣad of the Yajurveda there is also an anuvāka addressed to this deity:
+
+मन्युरकार्षिन्नमो नमः । मन्युरकार्षिन्मन्मन्युः करोति नाहं करोमि मन्युः कर्ता नाहं कर्ता मन्युः कारयिता नाहं कारयिता एष ते मन्यो मन्यवे स्वाहा ॥ (*manyurakārṣinnamo namaḥ | manyurakārṣinmanmanyuḥ karoti nāhaṃ karomi manyuḥ kartā nāhaṃ kartā manyuḥ kārayitā nāhaṃ kārayitā eṣa te manyo manyave svāhā ‖*) (Tai. U. 4-6) **NOTE**
+
+"O Manyu, god who presides over anger, here is homage to you. In this world you alone do all deeds; I do not do them. Whatever work is to be done, you alone are its doer and its impeller, not I. To you, so greatly glorious, I offer this oblation." This is the chief meaning of this mantra.
+
+We give some examples of mantras concerning the other deities of feeling, Śraddhā and the rest. Concerning the deity Śraddhā, in the Ṛgveda:
+
+श्रद्धयाग्निः समिध्यते श्रद्धया हूयते हविः । श्रद्धां भगस्य मूर्धनि वचसा वेदयामसि ॥ (*śraddhayāgniḥ samidhyate śraddhayā hūyate haviḥ | śraddhāṃ bhagasya mūrdhani vacasā vedayāmasi ‖*)
+
+प्रियं श्रद्धे ददतः प्रियं श्रद्धे दिदासतः । प्रियं भोजेषु यज्जस्विदं म उदितं कृधि ॥ (*priyaṃ śraddhe dadataḥ priyaṃ śraddhe didāsataḥ | priyaṃ bhojeṣu yajjasvidaṃ ma uditaṃ kṛdhi ‖*)
+
+यथा देवा असुरेषु श्रद्धामुग्रेषु चक्रिरे । एवं भोजेषु यज्वस्वस्माकमुदितं कृधि ॥ (*yathā devā asureṣu śraddhāmugreṣu cakrire | evaṃ bhojeṣu yajvasvasmākamuditaṃ kṛdhi ‖*)
+
+श्रद्धां देवा यजमाना वायुगोपा उपासते । श्रद्धां हृदय्यं याकूत्या श्रद्धया विंदते वसु ॥ (*śraddhāṃ devā yajamānā vāyugopā upāsate | śraddhāṃ hṛdayyaṃ yākūtyā śraddhayā viṃdate vasu ‖*)
+
+श्रद्धां प्रातर्हवामहे श्रद्धां मध्यंदिनं परि । श्रद्धां सूर्यस्य निम्रुचि श्रद्धे श्रद्धापयेह नः ॥ (*śraddhāṃ prātarhavāmahe śraddhāṃ madhyaṃdinaṃ pari | śraddhāṃ sūryasya nimruci śraddhe śraddhāpayeha naḥ ‖*)
+
+(Ṛ. Saṃ. 10-151-1 to 5) **GLOSS**
+
+श्रद्धायां प्राणे निविष्टोऽमृतं जुहोमि । ................................................अमृतापिधानमसि ॥ (*śraddhāyāṃ prāṇe niviṣṭo 'mṛtaṃ juhomi | ................................................amṛtāpidhānamasi ‖*) (Tri. U. 4-69) **NOTE** **GLOSS**
+
+श्रद्धायां प्राणे निविश्यामृतग्ं हुतं........... । समानमन्येनाप्यायस्व........................ ॥ (*śraddhāyāṃ prāṇe niviśyāmṛtagṃ hutaṃ........... | samānamanyenāpyāyasva........................ ‖*) (Trai. U. 4-70) **NOTE** **GLOSS**
+
+In mantras such as these there is praise of the deity Śraddhā. Concerning Kāma (desire):
+
+कामोऽकार्षिन्नमो नमः । कामोऽकार्षित्कामः करोति नाहं करोमि कामः कर्ता नाहं कर्ता कामः कारयिता नाहं कारयिता एष ते काम कामाय स्वाहा ॥ (*kāmo 'kārṣinnamo namaḥ | kāmo 'kārṣitkāmaḥ karoti nāhaṃ karomi kāmaḥ kartā nāhaṃ kartā kāmaḥ kārayitā nāhaṃ kārayitā eṣa te kāma kāmāya svāhā ‖*) (Tai. U. 4-61.) **GLOSS**
+
+क इदं कस्मा अदात् । कामः कामाय । कामो दाता । कामः प्रतिग्रहीता । कामग्० समुद्रमाविश । कामेन त्वा प्रतिगृह्णामि । कामैतत्ते । एषा ते काम दक्षिणा । उत्तानस्त्वांगीरसः प्रतिगृह्णातु ॥ (*ka idaṃ kasmā adāt | kāmaḥ kāmāya | kāmo dātā | kāmaḥ pratigrahītā | kāmag0 samudramāviśa | kāmena tvā pratigṛhṇāmi | kāmaitatte | eṣā te kāma dakṣiṇā | uttānastvāṃgīrasaḥ pratigṛhṇātu ‖*) (Tai. U. 3-10-1, 2) **GLOSS**
+
+Medhā:
+
+मेधा देवी जुषमाणान आगाद्विश्वाची भद्रा सुमनस्यमाना । त्वया जुष्टानुदमानादुरुक्तान्नृहद्वदेम विदथे सुवीराः ॥ (*medhā devī juṣamāṇāna āgādviśvācī bhadrā sumanasyamānā | tvayā juṣṭānudamānāduruktānnṛhadvadema vidathe suvīrāḥ ‖*)
+
+त्वया जुष्टऋषिर्भवति देवि त्वया ब्रह्मागतश्रीरुत त्वया । त्वया जष्टश्चित्रं विंदते वसु सानो जुषस्व द्रविणो न मेधे ॥ (*tvayā juṣṭaṛṣirbhavati devi tvayā brahmāgataśrīruta tvayā | tvayā jaṣṭaścitraṃ viṃdate vasu sāno juṣasva draviṇo na medhe ‖*) (Tai. U. 4.41-1, 2) **GLOSS**
+
+मेधां म इंद्रो ददातु मेधां देवी सरस्वती । मेधां मे अश्विनावुभावाधत्तां पुष्करस्रजा । अप्सरासु च या मेधा गंधर्वेषु च यन्मनः । दैवीं मेधा सरस्वती सा मां मेधा सुरभिर्जुषताग् स्वाहा ॥ (*medhāṃ ma iṃdro dadātu medhāṃ devī sarasvatī | medhāṃ me aśvināvubhāvādhattāṃ puṣkarasrajā | apsarāsu ca yā medhā gaṃdharveṣu ca yanmanaḥ | daivīṃ medhā sarasvatī sā māṃ medhā surabhirjuṣatāg svāhā ‖*) (Trai. U. 4-42-1, 2) **NOTE** **GLOSS**
+
+### Printed p. 312
+
+आमां मेधा सुरभिर्विश्वरूपा हिरण्यवर्णा जगती जगम्या । ऊर्जस्वती पयसा पिन्वमाना सामां मेधा सुप्रतीका जुषंतां ॥ (*āmāṃ medhā surabhirviśvarūpā hiraṇyavarṇā jagatī jagamyā | ūrjasvatī payasā pinvamānā sāmāṃ medhā supratīkā juṣaṃtāṃ ‖*) (Śrī. U. 4-43-1) **NOTE** **GLOSS**
+
+मयि मेधां मयि प्रजां मय्यग्निस्तेजो दधातु मयि मेधां मयि प्रजां मयींद्र इंद्रियं दधातु मयि मेधां मयि प्रजां मयि सूर्यो भ्राजो दधातु ॥ (*mayi medhāṃ mayi prajāṃ mayyagnistejo dadhātu mayi medhāṃ mayi prajāṃ mayīṃdra iṃdriyaṃ dadhātu mayi medhāṃ mayi prajāṃ mayi sūryo bhrājo dadhātu ‖*) (Tai. U. 4-44-1) **GLOSS**
+
+Vāc (speech):
+
+बृहस्पते प्रथमं वाचो अग्रं यश्चरत नामधेयं दधानाः । यदेषां श्रेष्ठं यदरिप्रमासीत्रेणा तदेषां निहितं गुहाविः ॥ (*bṛhaspate prathamaṃ vāco agraṃ yaścarata nāmadheyaṃ dadhānāḥ | yadeṣāṃ śreṣṭhaṃ yadaripramāsītreṇā tadeṣāṃ nihitaṃ guhāviḥ ‖*) **NOTE**
+
+सक्तुमिव तितउना पुनंतो यत्र धीरा मनसा वाचमुक्रत । अत्रा सखायः सख्यानि जानते भद्रेषां लक्ष्मीर्निहिताधि वाचि ॥ (*saktumiva titaunā punaṃto yatra dhīrā manasā vācamukrata | atrā sakhāyaḥ sakhyāni jānate bhadreṣāṃ lakṣmīrnihitādhi vāci ‖*)
+
+यज्ञेन वाचः पदवीयमायन्ता मन्वविंदन्नृषिषु प्रविष्टां । तामा भृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवंते ॥ (*yajñena vācaḥ padavīyamāyantā manvaviṃdannṛṣiṣu praviṣṭāṃ | tāmā bhṛtyā vyadadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navaṃte ‖*)
+
+उत त्वः पश्यन्न ददर्श वाचमुत त्वः शृण्वन्न शृणोत्येनां । उतो त्वस्यॆ तन्नं १ वि सस्रे जायेव पत्य उशती सुवासाः ॥ (*uta tvaḥ paśyanna dadarśa vācamuta tvaḥ śṛṇvanna śṛṇotyenāṃ | uto tvasyè tannaṃ 1 vi sasre jāyeva patya uśatī suvāsāḥ ‖*)
+
+उत त्वं सख्यॆ स्थितपीतमाहर्नैनं हिन्वंतपि वाजिनेषु । आधेन्वा चरति माययैष वाचं शुश्रुवा अफलामपुष्पां ॥ (*uta tvaṃ sakhyè sthitapītamāharnainaṃ hinvaṃtapi vājineṣu | ādhenvā carati māyayaiṣa vācaṃ śuśruvā aphalāmapuṣpāṃ ‖*)
+
+यस्तित्याज सचिविदं सखायं न तस्य वाच्यपि भागो अस्ति । यदीं शृणोत्यलकं शृणोति नहि प्रवेद सुकृतस्य पंथां ॥ (*yastityāja sacividaṃ sakhāyaṃ na tasya vācyapi bhāgo asti | yadīṃ śṛṇotyalakaṃ śṛṇoti nahi praveda sukṛtasya paṃthāṃ ‖*)
+
+अक्षण्यंतः कर्णवंतः सखायो मनोजवेष्टसमा बभूवुः । आदघ्नूस उपकक्षास उ त्वे प्रदा इव स्नात्वा उ त्वे ददृश्रे ॥ (*akṣaṇyaṃtaḥ karṇavaṃtaḥ sakhāyo manojaveṣṭasamā babhūvuḥ | ādaghnūsa upakakṣāsa u tve pradā iva snātvā u tve dadṛśre ‖*)
+
+हृदा तप्पेषु मनसो जवेषु यद्ब्राह्मणाः संयजंते सखायः । अत्राह त्वं वि जहुर्वेद्याभिरोहब्रह्माणो वि चरंत्यु त्वे ॥ (*hṛdā tappeṣu manaso javeṣu yadbrāhmaṇāḥ saṃyajaṃte sakhāyaḥ | atrāha tvaṃ vi jahurvedyābhirohabrahmāṇo vi caraṃtyu tve ‖*)
+
+इमे ये नार्वाङ्ग परश्चरंति न ब्राह्मणासो न सुतेकरासः । त एते वाचमभिपद्य पापया सिरीस्तंत्रं तन्वते अप्रजज्ञयः ॥ (*ime ye nārvāṅga paraścaraṃti na brāhmaṇāso na sutekarāsaḥ | ta ete vācamabhipadya pāpayā sirīstaṃtraṃ tanvate aprajajñayaḥ ‖*)
+
+सर्वॆ नंदंति यशसागतेन सभासाहेन सख्या सखायः । किल्पिषस्पृत्पितुषणिर्हैषामरं हितो भवति वाजिनाय ॥ (*sarvè naṃdaṃti yaśasāgatena sabhāsāhena sakhyā sakhāyaḥ | kilpiṣaspṛtpituṣaṇirhaiṣāmaraṃ hito bhavati vājināya ‖*)
+
+### Printed p. 313
+
+ऋचां त्वः पोषमास्ते पुपुष्वान्गायत्रं त्वो गायति शक्वरीषु । ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां वि मिवीत उ त्वः ॥ (*ṛcāṃ tvaḥ poṣamāste pupuṣvāngāyatraṃ tvo gāyati śakvarīṣu | brahmā tvo vadati jātavidyāṃ yajñasya mātrāṃ vi mivīta u tvaḥ ‖*)
+
+(Ṛ. Saṃ. 10-71-1 to 11) **GLOSS**
+
+Satya (truth):
+
+सत्येन वायुरावाति सत्येनादित्यो रोचते दिवि सत्यं वाचः प्रतिष्ठा सत्ये सर्वं प्रतिष्ठितं तस्मात्सत्यं परमं वदंति ॥ (*satyena vāyurāvāti satyenādityo rocate divi satyaṃ vācaḥ pratiṣṭhā satye sarvaṃ pratiṣṭhitaṃ tasmātsatyaṃ paramaṃ vadaṃti ‖*) (Tai. U. 4-79) **GLOSS**
+
+Tapas (austerity):
+
+तपसा देवा देवतामग्र आयन्तपसर्षयः सुवरन्वविंदन्तपसा सपत्नान्प्रणुदामारातीस्तपसि सर्वं प्रतिष्ठितं तस्मात्तपः परमं वदंति ॥ (*tapasā devā devatāmagra āyantapasarṣayaḥ suvaranvaviṃdantapasā sapatnānpraṇudāmārātīstapasi sarvaṃ pratiṣṭhitaṃ tasmāttapaḥ paramaṃ vadaṃti ‖*) (Tai. U. 4-79) **GLOSS**
+
+Dama (self-control):
+
+दमेन दान्ताः किल्पिषमवधून्वंति दमेन ब्रह्मचारिणः सुवरगच्छन्मो भूतानां दुराधर्षं दमे सर्वं प्रतिष्ठितं तस्माद्दमः परमं वदंति ॥ (*damena dāntāḥ kilpiṣamavadhūnvaṃti damena brahmacāriṇaḥ suvaragacchanmo bhūtānāṃ durādharṣaṃ dame sarvaṃ pratiṣṭhitaṃ tasmāddamaḥ paramaṃ vadaṃti ‖*) (Tai. U. 40-9) **GLOSS** **NOTE**
+
+Śama (tranquillity):
+
+शमेन शांताः शिवमाचरंति शमेन नाकं मुनयोऽन्वविंदञ्छमो भूतानां दुरादर्शञ्छमे सर्वं प्रतिष्ठितं तस्माच्छमः परमं वदंति ॥ (*śamena śāṃtāḥ śivamācaraṃti śamena nākaṃ munayo 'nvaviṃdañchamo bhūtānāṃ durādarśañchame sarvaṃ pratiṣṭhitaṃ tasmācchamaḥ paramaṃ vadaṃti ‖*) (Tai. U. 4 79) **GLOSS**
+
+Dāna (giving):
+
+दानं यज्ञानां वरूथं दक्षिणा लोके दातारग्ं सर्वभूतानुपजीवंति दानेनारातीरपानुदंत दानेन द्विषंतो मित्रा भवंति दाने सर्वं प्रतिष्ठितं तस्माद्दानं परमं वदंति ॥ (*dānaṃ yajñānāṃ varūthaṃ dakṣiṇā loke dātāragṃ sarvabhūtānupajīvaṃti dānenārātīrapānudaṃta dānena dviṣaṃto mitrā bhavaṃti dāne sarvaṃ pratiṣṭhitaṃ tasmāddānaṃ paramaṃ vadaṃti ‖*) (Trai. 4 79) **GLOSS** **NOTE**
+
+Dharma:
+
+धर्मो विश्वस्य जगतः प्रतिष्ठा लोके धर्मिष्ठं प्रजा उपसर्पंति धर्मेण पापमपनुदति धर्मे सर्वं प्रतिष्ठितं तस्माद्धर्मं परमं वदंति ॥ (*dharmo viśvasya jagataḥ pratiṣṭhā loke dharmiṣṭhaṃ prajā upasarpaṃti dharmeṇa pāpamapanudati dharme sarvaṃ pratiṣṭhitaṃ tasmāddharmaṃ paramaṃ vadaṃti ‖*) (Tai. U. 4-79) **GLOSS**
+
+Yajña (sacrifice):
+
+यज्ञ इति यज्ञेन हि देवा दिवं गता यज्ञेनासुरानपानुदंत यज्ञेन द्विषंतो मित्रा भवंति यज्ञे सर्वं प्रतिष्ठितं तस्माद्यज्ञं परमं वदंति॥ (*yajña iti yajñena hi devā divaṃ gatā yajñenāsurānapānudaṃta yajñena dviṣaṃto mitrā bhavaṃti yajñe sarvaṃ pratiṣṭhitaṃ tasmādyajñaṃ paramaṃ vadaṃti‖*) (Tai. U. 4-79) **GLOSS**
+
+### Printed p. 314
+
+The mind:
+
+मानसं वै प्राजापत्यं पवित्रं मानसेन मनसा साधु पश्यति मनसा ऋषयः प्रजा असजृंत मानसे सर्वं प्रतिष्ठितं तस्मान्मानसं परमं वदंति ॥ (*mānasaṃ vai prājāpatyaṃ pavitraṃ mānasena manasā sādhu paśyati manasā ṛṣayaḥ prajā asajṛṃta mānase sarvaṃ pratiṣṭhitaṃ tasmānmānasaṃ paramaṃ vadaṃti ‖*) (Trai. U. 4-79) **NOTE** **GLOSS**
+
+The year or time:
+
+स्वयंभुप्रजापतिः संवत्सर इति संवत्सरोऽसावादित्यो य एष आदित्ये पुरुषः स परमेष्ठी ब्रह्मात्मा ॥ (*svayaṃbhuprajāpatiḥ saṃvatsara iti saṃvatsaro 'sāvādityo ya eṣa āditye puruṣaḥ sa parameṣṭhī brahmātmā ‖*) (Tai. U. 4-79) **GLOSS**
+
+Dakṣiṇā (sacrificial fee):
+
+दक्षिणाश्वं दक्षिणा गां ददाति दक्षिणा चंद्रमुत यद्धिरण्यं । दक्षिणान्नं वनुते यो न आत्मा दक्षिणां वर्म कृणुते विजानन् ॥ (*dakṣiṇāśvaṃ dakṣiṇā gāṃ dadāti dakṣiṇā caṃdramuta yaddhiraṇyaṃ | dakṣiṇānnaṃ vanute yo na ātmā dakṣiṇāṃ varma kṛṇute vijānan ‖*) (Ṛ. Saṃ. 10-107-7) **GLOSS**
+
+Ānanda (bliss):
+
+आनंदो ब्रह्मेति व्यजानात् । आनंदाद्द्येव खल्विमानि भूतानि जायंते । आनंदेन जातानि जीवंति । आनंदं प्रयंत्यभिसंविशंति ॥ (*ānaṃdo brahmeti vyajānāt | ānaṃdāddyeva khalvimāni bhūtāni jāyaṃte | ānaṃdena jātāni jīvaṃti | ānaṃdaṃ prayaṃtyabhisaṃviśaṃti ‖*) (Tai. U. 3-6) **GLOSS**
+
+Śānti (peace):
+
+पृथिवी शांता साग्निना शांता सा मे शांता शुचग्ं शमयतु । अंतरिक्षग्ं शांतं तद्वायुना शांतं तन्ने शांतग्ं शुचग्ं शमयतु । द्यौः शांता सादित्येन शांता सा मे शांता शुचग्ं शमयतु । पृथिवी शांतिरंत. रिक्षग्ं शांतिर्दौः शांतिर्दिशः शांतिरनांतरदिशा: शांतिरग्निः शांतिर्वायुः शांतिरादित्यः शांतिश्चंद्रमाः शांतिर्नक्षत्राणि शांतिरापः शांतिरोषधयः शांतिर्वनस्पतयः शांतिर्गौः शांतिरजा शांतिरश्वः शांतिःपुरुषः शांतिर्ब्रह्म शांतिर्भ्राह्मणः शांतिः शांतिरेव शांतिः शांतिर्मे अस्तु शांतिः । तया. हगं शांत्या सर्वशांत्या मह्यं द्विपदे चतुष्पदे च शांतिं करोमि शांतिर्मे अस्तु शांतिः ॥ (*pṛthivī śāṃtā sāgninā śāṃtā sā me śāṃtā śucagṃ śamayatu | aṃtarikṣagṃ śāṃtaṃ tadvāyunā śāṃtaṃ tanne śāṃtagṃ śucagṃ śamayatu | dyauḥ śāṃtā sādityena śāṃtā sā me śāṃtā śucagṃ śamayatu | pṛthivī śāṃtiraṃta. rikṣagṃ śāṃtirdauḥ śāṃtirdiśaḥ śāṃtiranāṃtaradiśā: śāṃtiragniḥ śāṃtirvāyuḥ śāṃtirādityaḥ śāṃtiścaṃdramāḥ śāṃtirnakṣatrāṇi śāṃtirāpaḥ śāṃtiroṣadhayaḥ śāṃtirvanaspatayaḥ śāṃtirgauḥ śāṃtirajā śāṃtiraśvaḥ śāṃtiḥpuruṣaḥ śāṃtirbrahma śāṃtirbhrāhmaṇaḥ śāṃtiḥ śāṃtireva śāṃtiḥ śāṃtirme astu śāṃtiḥ | tayā. hagaṃ śāṃtyā sarvaśāṃtyā mahyaṃ dvipade catuṣpade ca śāṃtiṃ karomi śāṃtirme astu śāṃtiḥ ‖*) (Tai. Ā. 4-42) **GLOSS**
+
+Many more such examples can be given.
+
+It is necessary to say here a few things about the deity Manyu, the deity of the present sūktas. Manyu means anger, wrath. What great importance has this anger? The answer is that many works can be done through anger. A work that a man in his ordinary state cannot do, a man possessed by anger will do.
+
+### Printed p. 315
+
+Anger produces in a man a kind of zeal and strength. But it is rare for anger to help in a good work. Its strength and power are used chiefly in doing evil, that is, in striking, killing, tormenting and the like. Then why should it be regarded as a deity and honoured? What use is it? The answer is that in any work in which anger helps, its help is indispensable. Since strength and power are needed in war and the like, and when enemies are being slain, anger has to be honoured in a special way on those occasions. Therefore the slaying of enemies and war are set out at length in both these sūktas, and through them the praise of the deity Manyu is made especially great.
+
+In general, when war is made, it is unlikely that the soldiers on the two sides have seen one another before. They are not acquainted with one another. That being so, apart from the order of the commander of the army there is no reasonable cause for killing one another; that is, there is no personal hatred between them. Without hatred there is no chance of anger arising. Without anger the destruction of enemies does not take place. Therefore it is the custom among those eager for battle to work themselves into anger. They taunt one another, abuse one another, boast of themselves, raise questions of right and wrong, and put forward reasons such as "what we do is right, what the opponent does is wrong," and so make anger rise in their own minds. Even among forest peoples, when war has to be made, they perform a kind of dance (War-dance) and bring their anger to a high pitch.
+
+Concerning the application (viniyoga) and the fruit-statement (phalaśruti) of these two sūktas addressed to the deity Manyu, the work called Ṛgvidhāna, ascribed to Śaunaka, says as follows:
+
+यस्ते मन्यो इति सदा सपत्नष्टे त्वमे जपेत् । धृतेनाभिहुतं चाभ्यां धारयेदायसं मणिं ॥ (*yaste manyo iti sadā sapatnaṣṭe tvame japet | dhṛtenābhihutaṃ cābhyāṃ dhārayedāyasaṃ maṇiṃ ‖*) **NOTE**
+
+बुहुयादायसं शंकुमाध्यामेव चतुर्दशीं । खादिरे सुसमिद्धेग्नौ सपत्नान् प्रतिबाधते ॥ (*buhuyādāyasaṃ śaṃkumādhyāmeva caturdaśīṃ | khādire susamiddhegnau sapatnān pratibādhate ‖*) **NOTE**
+
+The man who wishes to conquer his enemies should always recite these two sūktas, beginning yaste manyo and tvayā manyo. Reciting each mantra of these sūktas, he should offer an iron bead in the fire together with a stream of ghee, and afterwards wear it on his body. And in a well-kindled consecrated fire, if he offers khadira sticks and iron nails
+
+### Printed p. 316
+
+(or arrow-heads) while reciting the fourteen mantras of these sūktas, that man becomes certainly able to harm his enemies.
+
+यथा हि परमं ब्रह्म गुह्यं पावनमद्भुतं । तथा संवननं हृद्यं नह्यस्माद्विद्यते परं ॥ (*yathā hi paramaṃ brahma guhyaṃ pāvanamadbhutaṃ | tathā saṃvananaṃ hṛdyaṃ nahyasmādvidyate paraṃ ‖*)
+
+Just as the knowledge of Brahman, most holy, wonderful and secret, is supreme, so there is no other knowledge, delightful to the mind, for the slaying of enemies.
+
+उपोष्य द्वादशाहानि जपन्नेतमृषिं सदा ! तन्मनाः प्रयतः स स्यात् त्रिरहोऽभ्युपयादपः ॥ (*upoṣya dvādaśāhāni japannetamṛṣiṃ sadā ! tanmanāḥ prayataḥ sa syāt triraho 'bhyupayādapaḥ ‖*)
+
+अंते तु द्वादशाहस्य शुचौ देशे समाहितः । पुंसः प्रतिकृतिं कुर्याद्भूमौ पांसुमयीं तथा ॥ (*aṃte tu dvādaśāhasya śucau deśe samāhitaḥ | puṃsaḥ pratikṛtiṃ kuryādbhūmau pāṃsumayīṃ tathā ‖*)
+
+तस्या हृदयदेशं तु समाक्रम्य जपेदृषिं । अमोघं कर्म जानीयादहोरात्रे गते सति ॥ (*tasyā hṛdayadeśaṃ tu samākramya japedṛṣiṃ | amoghaṃ karma jānīyādahorātre gate sati ‖*)
+
+The man who desires victory over an enemy should fast for twelve days and recite the mantras of these sūktas, pure and with his mind in it. For three days he should consecrate water with the mantras. At the end of the twelfth day, sitting in a clean place, he should make a doll of clay in the likeness of his enemy, or spread a thin layer of dust on the ground and draw on it the likeness (picture) of the enemy. Then, placing his hand on the heart of that doll or picture, he should recite the mantras until a day and a night have passed.
+
+त्रैहेण धनिनं वैश्यं चतूरात्रेण क्षत्रियं । राजानं पंचरात्रेण षड्रात्रेण द्विजोत्तमं ॥ (*traiheṇa dhaninaṃ vaiśyaṃ catūrātreṇa kṣatriyaṃ | rājānaṃ paṃcarātreṇa ṣaḍrātreṇa dvijottamaṃ ‖*)
+
+तपस्विनं सप्तरात्राज्जयोद्भुंजीत चैव तं । अपि वोपोषितः स्नातो जपेदेतत्सदा स्थितः ॥ (*tapasvinaṃ saptarātrājjayodbhuṃjīta caiva taṃ | api vopoṣitaḥ snāto japedetatsadā sthitaḥ ‖*)
+
+By reciting in this way for three days one can conquer a very wealthy Vaiśya. If he recites for four nights, a Kṣatriya; if for five nights, a king; if for six nights, an excellent Brāhmaṇa; if for seven nights, even an ascetic can be conquered. Afterwards, whether having eaten, or fasting and having bathed, he should continue to recite this mantra always.
+
 ---
 
-**Progress note:** Done through printed p. 309. Ṛk 7 special topics end; Taittirīya Saṃhitā text of the Viśvakarma hymn
+**Progress note:** Done through printed p. 316. Sūkta 83 introduction: Manyu, deities of feeling, Ṛgvidhāna
