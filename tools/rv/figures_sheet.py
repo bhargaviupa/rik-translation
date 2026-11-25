@@ -20,11 +20,9 @@ try:
     src = os.path.join(ROOT, c[0].split('@')[0]) if isinstance(c, list) else None
 except Exception: pass
 if not src or not os.path.exists(src):
-    mds = [f for f in os.listdir(H) if f.endswith('.md')]; assert len(mds) == 1, f'name the source file: {mds}'; src = os.path.join(H, mds[0])
-lines = open(src, encoding='utf8', errors='replace').read().split('\n')
-pg = html_pages.load(src); where = {}
-for p, t in pg.items():
-    for m in re.finditer(r'\[figure: ([^\]]+)\]', t): where[m.group(1)] = p
+    mds = sorted(f for f in os.listdir(H) if f.endswith('.md'))
+    srcs = [os.path.join(H, f) for f in mds]       # several supplied files (legacy volumes): all of them, in file-name order
+else: srcs = [src]
 VERSE = ('ಸಂಹಿತಾಪಾ', 'ಪದಪಾ', 'ಪದಸಾ', '॥', '||', '|')
 def classify(cap, before):
     c = cap.strip()
@@ -32,20 +30,27 @@ def classify(cap, before):
     if re.search(r'contains no text|decorative|illustration|portrait|photograph|emblem', c, re.I): return 'decorative picture'
     if any(x in before for x in ('ಸಂಹಿತಾಪಾ', 'ಪದಪಾ', 'ಸಂಹಿತಾಪಾರ')) or '||' in c or '॥' in c or '।' in c: return 'verse (Saṃhitā / Pada) or quotation'
     return 'other text'
-items = []
-for i, l in enumerate(lines):
-    m = re.fullmatch(r'\[figure: ([^\]]+)\]', l.strip())
-    if not m: continue
-    path = m.group(1); b = i - 1
-    while b >= 0 and not lines[b].strip(): b -= 1
-    before = lines[b].strip() if b >= 0 else ''
-    cap = []; k = i + 1
-    while k < len(lines) and not lines[k].strip(): k += 1
-    while k < len(lines) and lines[k].strip() and not lines[k].startswith('[figure:') and len(cap) < 14: cap.append(lines[k]); k += 1
-    cap = '\n'.join(cap)
-    try: w, h = Image.open(os.path.join(ROOT, path)).size
-    except Exception: w = h = 0
-    items.append(dict(n=len(items) + 1, path=path, line=i + 1, page=where.get(path), before=before, cap=cap, cls=classify(cap, before), w=w, h=h))
+items = []; seen = set()
+for src in srcs:
+    lines = open(src, encoding='utf8', errors='replace').read().split('\n')
+    pg = html_pages.load(src); where = {}
+    for p, t in pg.items():
+        for m in re.finditer(r'\[figure: ([^\]]+)\]', t): where[m.group(1)] = p
+    for i, l in enumerate(lines):
+        m = re.fullmatch(r'\[figure: ([^\]]+)\]', l.strip())
+        if not m or m.group(1) in seen: continue
+        seen.add(m.group(1))
+        path = m.group(1); b = i - 1
+        while b >= 0 and not lines[b].strip(): b -= 1
+        before = lines[b].strip() if b >= 0 else ''
+        cap = []; k = i + 1
+        while k < len(lines) and not lines[k].strip(): k += 1
+        while k < len(lines) and lines[k].strip() and not lines[k].startswith('[figure:') and len(cap) < 14: cap.append(lines[k]); k += 1
+        cap = '\n'.join(cap)
+        try: w, h = Image.open(os.path.join(ROOT, path)).size
+        except Exception: w = h = 0
+        items.append(dict(n=len(items) + 1, path=path, line=i + 1, page=where.get(path), before=before, cap=cap, cls=classify(cap, before), w=w, h=h, file=os.path.basename(src)))
+src = srcs[0] if len(srcs) == 1 else H
 out = os.path.join(V, 'review'); os.makedirs(out, exist_ok=True)
 from collections import Counter
 cnt = Counter(x['cls'] for x in items)
@@ -62,7 +67,7 @@ h = [f'<!doctype html><html><head><meta charset="utf-8"><title>Vol {vol}: pictur
      '<table><tr><th>Suggested class</th><th>Pictures</th></tr>' + ''.join(f'<tr><td>{E(k)}</td><td>{v}</td></tr>' for k, v in sorted(cnt.items())) + '</table>',
      '<p>Index: ' + '; '.join(f'{x["n"]} (p. {x["page"]})' for x in items) + '</p>']
 for x in items:
-    h.append(f'<section class="f"><div class="c">Picture {x["n"]} of {len(items)} — printed p. {x["page"]} — source line {x["line"]} — {x["w"]}×{x["h"]} px — <i>{E(x["cls"])}</i></div>'
+    h.append(f'<section class="f"><div class="c">Picture {x["n"]} of {len(items)} — printed p. {x["page"]} — {x["file"]} line {x["line"]} — {x["w"]}×{x["h"]} px — <i>{E(x["cls"])}</i></div>'
              f'<div>file: <code>{E(x["path"])}</code></div>'
              f'<img src="{os.path.relpath(os.path.join(ROOT, x["path"]), out)}">'
              f'<div>Line before the picture: <code>{E(x["before"][:140])}</code></div><div>Machine reading that follows it:</div><pre>{E(x["cap"]) or "(none)"}</pre></section>')

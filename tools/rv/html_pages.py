@@ -54,6 +54,10 @@ def pages_md(path,heads=None):
         if VOL1_HEAD.fullmatch(h):                          # Vol 1 heads: 'ಪೂರ್ವಪೀಠಿಕೆ 3', '4 ಋಗ್ವೇದಭಾಷ್ಯದ' (and OCR variants of the second word)
             n=_head_number(h)
             if n is not None: H.append([ln,n,h]); continue
+        D='[೦-೯0-9]'
+        if (re.search(r'\[\s*ಮ.{0,3}'+D+r'{1,2}\W{1,3}[ಅಆ]\W{0,3}'+D+r'{1,2}\W{1,3}ಸೂ',h) or re.search(r'[ಅಆ]\W{0,3}'+D+r'\W{1,3}[ಅಆ]\W{0,3}'+D+r'{1,2}\W{1,4}[ವಪನ]\W{0,3}'+D+r'{1,2}\W{0,3}\]',h)) and not re.search('ಪಾರಃ|ಪಾಠಃ|ಪಾದಃ',h):   # structure of the head whatever its words were read as (Vol 27): '[ ಮಂ. ೯. ಅ. ೭. ಸೂ. ೧೧೦' (even pages) and 'ಅ. ೭. ಅ. ೫. ವ. ೧೪ ]' (odd pages)
+            n=_head_number(h)
+            if n is not None: H.append([ln,n,h]); continue
         if re.search(r'ಭಾ.{1,3}ಸಂ?ಹಿ ?ತಾ|ಗ್ವೇದ.{0,2}ಹಿ ?ತಾ',h) and not re.search('ಪಾರಃ|ಪಾಠಃ|ಪಾದಃ',h):    # OCR variants of the running head (Vol 23, 30): ಸಾಯಣಭಾವ್ಯ/ಭಾಷ್ಪ/ಭಾಜ್ಯ/ಭಾನ್ಯಸಹಿತಾ, ಋಗ್ವೇದಸಹಿತಾ, ಋಗ್ವೇದಹಿತಾ
             n=_head_number(h)
             if n is not None: H.append([ln,n,h]); continue
