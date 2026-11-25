@@ -906,3 +906,8 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 180 | `"Vaidya" and "Vrighu"` → `"Vainya" and "Prithu"` | SECOND-PASS S13: Kannada p.180 ವೈನ್ಯ ಮತ್ತು ಪೃಥು |
 | 180 | `"Vena's son Vrighu"` → `"Vena's son Prithu"` | SECOND-PASS S13: Kannada p.180 ವೇನನ ಮಗ ಪೃಥು |
 | 180 | `"Vaidya Vrighu."` → `"Vainya Prithu."` | SECOND-PASS S13: Kannada p.180 ವೈನ್ಯ ಪೃಥು |
+
+### 2026-11-25 second pass, batch e_audit.tsv
+| page | old → new | why |
+|---|---|---|
+| 562 | `mlecchо ha vā` → `mleccho ha vā` | SECOND-PASS H21: letter of another script (Cyrillic o) inside a Latin word; found by the Nov 25 audit |

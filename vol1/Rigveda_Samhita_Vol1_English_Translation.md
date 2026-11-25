@@ -12097,7 +12097,7 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 ### "Te'suraḥ" (The Asuras)
 
 > हेळयो हेळयः इत्यसुरा उच्चरन्तः पराजिता । तस्माद्ब्राह्मणेन म्लेच्छितवै नापभाषितवै मलेच्छो ह वा एष यदपशब्दः ॥
-> *heḷayo heḷayaḥ ity asurā uccarantaḥ parājitāḥ | tasmād brāhmaṇena mlecchitavai nāpabhāṣitavai | mlecchо ha vā eṣa yad apaśabdaḥ ||* (Mahabhashya, Paspashahnika)
+> *heḷayo heḷayaḥ ity asurā uccarantaḥ parājitāḥ | tasmād brāhmaṇena mlecchitavai nāpabhāṣitavai | mleccho ha vā eṣa yad apaśabdaḥ ||* (Mahabhashya, Paspashahnika)
 >
 > "**The Asuras shouted 'heḷayo heḷayaḥ' (he 'rayo he 'rayaḥ) and were defeated. Therefore a brahmin should not speak the language of the barbarian, should not use bad forms. The word 'mleccha' here is equivalent to 'apaśabda' [incorrect speech]. Let us study Grammar that we may not be Mlecchas.**"
 
