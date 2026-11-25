@@ -19066,6 +19066,121 @@ While Gāyatrī (the falcon) was coming holding the Soma plant in her beak, she 
 
 Thus the same meaning is stated in the Taittirīya Saṃhitā. The man who knows this matter, that is, that the three pressings, the morning, midday and third, have obtained an equal place in strength, capacity and the like and in excellence, will be possessed of all prosperity and will live happily.
 
+### Printed p. 653
+
+**How Indra and Vāyu obtained the first drinking of Soma**
+
+In the Ṛk अग्रं पिब मधूनां (*agraṃ piba madhūnāṃ*) (Ṛ. Saṃ. 4-46-1) it is said that Vāyu, before Indra and the other gods, is entitled to drink Soma first. In support of this
+
+आ वायो भूष शुचिपा उप नः सहस्रं ते नियुतो विश्ववार । उपो ते अंधो मद्यमयामि यस्य देव दधिषे पूर्वपेयं ॥ (*ā vāyo bhūṣa śucipā upa naḥ sahasraṃ te niyuto viśvavāra | upo te aṃdho madyamayāmi yasya deva dadhiṣe pūrvapeyaṃ ‖*)
+
+(Ṛ. Saṃ. 7-92-1)
+
+this Ṛk is cited, and it is pointed out that there the seer prays that Vāyu should drink Soma first. How Vāyu obtained the foremost place among the gods in the drinking of Soma is told in an ancient story in the Aitareya Brāhmaṇa. We explain it here:
+
+देवा वै सोमस्य राज्योऽग्रपेये न समसादयन्नहं प्रथमः पिबीयमहं प्रथमः पिबीयमित्येवाकामयंत ते संपादयंतोऽब्रुवन् हंताजिमयाम स यो न उज्वेष्यति स प्रथमः सोमस्य पास्कृतीति तथेति त अजिमयुस्तेषामाजिं यतामभिस्पृष्टानां वायुर्मुखं प्रथमः प्रत्यपद्यताथेंद्रोऽथ मित्रावरुणावथाश्विनौ (*devā vai somasya rājyo 'grapeye na samasādayannahaṃ prathamaḥ pibīyamahaṃ prathamaḥ pibīyamityevākāmayaṃta te saṃpādayaṃto 'bruvan haṃtājimayāma sa yo na ujveṣyati sa prathamaḥ somasya pāskṛtīti tatheti ta ajimayusteṣāmājiṃ yatāmabhispṛṣṭānāṃ vāyurmukhaṃ prathamaḥ pratyapadyatātheṃdro 'tha mitrāvaruṇāvathāśvinau*)
+
+(Ai. Brā. 9-25)
+
+In former times all the gods, wishing to drink Soma together, fell into a dispute as to which of them should drink Soma first, and a debate began among them, each saying "I first, I first shall drink." As this matter could not be settled in any way, they all assembled, took counsel and came to an agreement, namely: "Let us all together arrange a contest. Whoever wins in it shall be entitled to drink Soma first." When all consented to that, the terms of the contest were fixed thus: they were to run from one place to another place far away, and whoever first reached a rock or a tree standing there was to be reckoned the winner. When all agreed to the compact that the one who thus won, being victorious among them, should drink Soma first, all the gods began to run at the same moment. Among all the gods who ran, Vāyu reached the appointed place ahead of everyone. Indra, coming close behind Vāyu, became second. After Indra, Mitra and Varuṇa, and after them the Aśvin gods, came running and reached the appointed place. Thus among these gods Vāyu ran ahead of all and became the winner.
+
+सोऽवेदिंद्रो वायुमुद्वै जयतीति तमनु परापतत्सह नावथोज्ययावेति स नेत्यब्रवीदहमेवोऽजेष्यामीति तृतीयं मेऽथोज्ययावेति (*so 'vediṃdro vāyumudvai jayatīti tamanu parāpatatsaha nāvathojyayāveti sa netyabravīdahamevo 'jeṣyāmīti tṛtīyaṃ me 'thojyayāveti*)
+
+### Printed p. 654
+
+नेति हैवाब्रवीदहमेवोज्जॆष्यामीति तुरीयं मेऽथोज्जयावेति तथेशि तं तुरीयेऽत्यार्जत तत्तु रीयभागिंद्रोऽभवत्रिभाग्वायुः ॥ (*neti haivābravīdahamevojjèṣyāmīti turīyaṃ me 'thojjayāveti tatheśi taṃ turīye 'tyārjata tattu rīyabhāgiṃdro 'bhavatribhāgvāyuḥ ‖*)
+
+While Vāyu was running, and Indra behind him, a conversation took place between them in this manner. Indra, seeing Vāyu running swiftly ahead of him, thought: "This Vāyu will run ahead of all and become the winner. Somehow I too must run along with him and win." So resolving, he used all his strength and ran close to Vāyu. Yet no sign appeared that he would leave Vāyu behind and go ahead, and then Indra said to Vāyu: "O Vāyu, we two are ahead of everyone. Therefore let us regard ourselves as having won together and let us both share the first drinking of Soma. Half for me, half for you. Let us thus co-operate and gain the victory." Hearing those words Vāyu said: "O Indra, I am ahead of you, even if only a little. Therefore I alone shall be the winner. In the first drinking of Soma everything must come to me. I cannot give you half." Then Indra said: "Very well, then I do not want half. Of three parts take two yourself, and give me one part only." Vāyu did not agree even to that, saying: "Whatever happens, I shall win. The whole share will come to me, and I do not wish to give you even one part in three." Then Indra again entreated Vāyu: "I do not want even one part in three. Still less: if you give me one part in four, that is enough. Agree at least to that." Being so asked, Vāyu agreed, saying "So be it." Therefore it was arranged that in the Indra-Vāyu cup (that is, when Indra and Vāyu drink Soma together) Indra should have one part and Vāyu three parts.
+
+तौ सहैवेंद्रवायू उदजयतां सह मित्रावरुण् सहाश्विन् त एषामेते यथोज्जि तं भक्षा इंद्रवाय्योः प्रथमोऽत मित्रामरुणयोरथाश्विनोt स एष इंद्रतुरियो ग्रहो गृह्यते यद्यैंद्रवायवः ॥ (*tau sahaiveṃdravāyū udajayatāṃ saha mitrāvaruṇ sahāśvin ta eṣāmete yathojji taṃ bhakṣā iṃdravāyyoḥ prathamo 'ta mitrāmaruṇayorathāśvinot sa eṣa iṃdraturiyo graho gṛhyate yadyaiṃdravāyavaḥ ‖*)
+
+Thus Indra and Vāyu, co-operating, won the contest and reached the appointed place first. After them Mitra and Varuṇa came and arrived. After them the Aśvin gods came. Therefore, in the order of the places which these gods obtained in the contest, they became entitled to drink Soma; that is, it was arranged that first Indra and Vāyu, then Mitra and Varuṇa, and after them the Aśvin gods should drink Soma. Thus the custom of two gods drinking Soma together came into use. Therefore in the Indra-Vāyu cup only one part in four is arranged for Indra in the drinking of Soma.
+
+### Printed p. 655
+
+तदेतदृषि: पश्यन्नभ्यनूनाच नियुत्वा इंद्रसारथिरिति । (*tadetadṛṣi: paśyannabhyanūnāca niyutvā iṃdrasārathiriti |*)
+
+The seer, knowing by divine vision that in the Indra-Vāyu cup Indra has one part in four, expressed this matter in the next Ṛk, namely शतेना नो अभिष्टिभिर्नियुत्वा इंद्रसारथिः (*śatenā no abhiṣṭibhirniyutvā iṃdrasārathiḥ*) (Ṛ. Saṃ. 4-46-2), by the phrase नियुत्वा इंद्रसारथिः (*niyutvā iṃdrasārathiḥ*). Here, as in the Nirukta statement नियुतो वायोः (*niyuto vāyoḥ*) (Ni. 2-28), the horses called नियुत (*niyuta*) are well known as the vehicle of the god Vāyu. Therefore the word meaning "possessed of niyuts" points to a connection with Vāyu. In the above Ṛk the word नियुत्वान् (*niyutvān*) indicates Indra together with Vāyu. Mantras such as अधा व युं नियुतः सश्च तस्माः (*adhā va yuṃ niyutaḥ saśca tasmāḥ*) (Tai. Brā. 2-8.1-1) support this matter. The word इंद्रसारथिः (*iṃdrasārathiḥ*) means: Indra who is the charioteer of Vāyu. Since Indra stands in the place of charioteer to Vāyu, this indicates that in the first drinking of Soma Indra has only a fourth part.
+
+तस्माद्दाप्येतर्हि भरताः सत्वनां वित्तिं प्रयंति तुरिये हैव संग्रहीतारो पदंतेऽमुन्वॆनानूकाशेन यदद इंद्रः सारथिरिव भूत्वोऽजयत् ॥ (*tasmāddāpyetarhi bharatāḥ satvanāṃ vittiṃ prayaṃti turiye haiva saṃgrahītāro padaṃte 'munvènānūkāśena yadada iṃdraḥ sārathiriva bhūtvo 'jayat ‖*)
+
+(Ai. Brā. 9-25)
+
+The above matter is explained by an example from worldly practice. Warriors in battle sit in chariots, win the battle with the help of their charioteers, and seize the wealth and other possessions of their enemies. When they have seized them, they give one part of that wealth, that is, one part in four, to the charioteers who helped them. This practice is current in the world. In the same way, in this contest arranged by the gods, Indra acted as charioteer to Vāyu, and since Vāyu was the winner, a fourth part of the first drinking of Soma obtained in the contest became Indra's share. The chief meaning is that Indra gained his fourth part by being the charioteer of Vāyu.
+
+**How Indra slew the demon Varāha**
+
+There is a legend that there was a demon named Varāha and that Indra slew him. Viṣṇu also has a part in it. The account given in the Caraka Brāhmaṇa on this matter is explained here.
+
+विस्गुणयज्ञः । स देवेभ्य आत्मानमंतरधात् । तमन्यदेवता नाविंदन्निंद स्ववेत् । स इंद्रमब्रवीत्को भवानिति । तमिंद्रः प्रत्यब्रवीदहु (*visguṇayajñaḥ | sa devebhya ātmānamaṃtaradhāt | tamanyadevatā nāviṃdanniṃda svavet | sa iṃdramabravītko bhavāniti | tamiṃdraḥ pratyabravīdahu*)
+
+### Printed p. 656
+
+दुर्गाणामसुराणां च हंता भवांस्तु क इति । सोऽब्रवीदहं दुर्गादाहर्ता त्वं तु यदि दुर्गाणामसुराणां हंता ततोऽयं वराहोनाममुष एकविंश्याः पुरां पारेऽश्ममयियानां वसति ततस्मिन्नसुराणां वसु वाममस्ति तमिमं जहीति ॥ तस्येंद्रस्ताः पुरो भित्वा हृदयमनिध्यत् अधि तत्र यदासीत्तद्विष्णुराहरदिति । सोऽयमितिहासः ॥ (*durgāṇāmasurāṇāṃ ca haṃtā bhavāṃstu ka iti | so 'bravīdahaṃ durgādāhartā tvaṃ tu yadi durgāṇāmasurāṇāṃ haṃtā tato 'yaṃ varāhonāmamuṣa ekaviṃśyāḥ purāṃ pāre 'śmamayiyānāṃ vasati tatasminnasurāṇāṃ vasu vāmamasti tamimaṃ jahīti ‖ tasyeṃdrastāḥ puro bhitvā hṛdayamanidhyat adhi tatra yadāsīttadviṣṇurāharaditi | so 'yamitihāsaḥ ‖*)
+
+The chief meaning of this is: Viṣṇu is the sacrifice. That Viṣṇu, in the form of the sacrifice, at one time left the gods and went away and stayed in a secret place. The other gods did not know this; only Indra knew. Then, when Indra went to the place where Viṣṇu was, Viṣṇu asked Indra who he was. In reply Indra said: "I am the one who destroys fortresses and demons. But who are you?" Viṣṇu again asked: "I am the one who seizes and brings away from the fortresses the wealth and other possessions belonging to the demons. Who are you? What is the work you do?" Then Viṣṇu said: "If you are, as you say, the destroyer of fortresses and of the wealth of the demons, then the demon named Varāha, who has seized wealth and hidden it with himself, dwells from here at the end of twenty-one forts, in a fort firmly built of stones. He has a great deal of the demons' wealth. Therefore slay that demon." Hearing this, Indra destroyed those cities of the demons and pierced the heart of the demon Varāha. Then Viṣṇu brought all the wealth that was with the demon from there. This is the chief meaning of this legend. The commentator says that this matter is stated also in the Ṛk
+
+अस्येदु मातुः सवनेषु सद्यो महः पितुं पपिवाञ्चार्वन्ना । मुषायद्विष्णुः पचतं सहीयान्विध्यद्वराहं तिरो अद्रिमस्ता (*asyedu mātuḥ savaneṣu sadyo mahaḥ pituṃ papivāñcārvannā | muṣāyadviṣṇuḥ pacataṃ sahīyānvidhyadvarāhaṃ tiro adrimastā*)
+
+(Ṛ. Saṃ. 1.61-6)
+
+and he explains the meaning by relating the words of the present Ṛk and of the quoted example to the legend above.
+
+अस्येदु मातुः इत्यत्र विष्णुना हे इंद्र त्वं दुर्गाणां हंतेत्यात्मानं. कथॆयसि तर्हि वाममुषं वराहमसुरं जहीत्युक्तार्थो विध्यद्वराहुं इति पादेन प्रतिपादितः ॥ (*asyedu mātuḥ ityatra viṣṇunā he iṃdra tvaṃ durgāṇāṃ haṃtetyātmānaṃ. kathèyasi tarhi vāmamuṣaṃ varāhamasuraṃ jahītyuktārtho vidhyadvarāhuṃ iti pādena pratipāditaḥ ‖*)
+
+The statement in the above legend: "O Indra, you only claim to be the destroyer of fortresses and demons. If so, slay the demon named Varāha, who has seized wealth and hidden it with himself", namely the meaning of Viṣṇu's words, is stated in the last quarter of the quoted Ṛk अष्टेदु मातुः (*aṣṭedu mātuḥ*) **NOTE** namely in विद्यद्वराहं शिरो अद्रिमस्ता (*vidyadvarāhaṃ śiro adrimastā*), the demon
+
+### Printed p. 657
+
+Varāha was slain. The Sanskrit passage says:
+
+इंद्रेण च विष्णो त्वं दुर्गादाहर्तेति ब्रूषे मया पुराणि जितान्यसुरश्च घातितस्तस्य वामं वस्वानयेत्युक्तो विष्णुमूर्तिस्तस्य वराहासुरस्य धनं मुमोष । सोऽर्थं मुषायुद्विस्ष्णुः पचतं सहीयान् इति पादेन सूचितः ॥ (*iṃdreṇa ca viṣṇo tvaṃ durgādāharteti brūṣe mayā purāṇi jitānyasuraśca ghātitastasya vāmaṃ vasvānayetyukto viṣṇumūrtistasya varāhāsurasya dhanaṃ mumoṣa | so 'rthaṃ muṣāyudvisṣṇuḥ pacataṃ sahīyān iti pādena sūcitaḥ ‖*)
+
+And Indra said to Viṣṇu: "O Viṣṇu, you only claim to be the one who brings away the wealth from the fortresses. Now I have conquered many enemy cities and killed the demon. Go and bring the wealth that is with that demon." Viṣṇu agreed to this and seized and brought the wealth that was with the demon Varāha. This account is made clear by the quarter of the quoted Ṛk मुषायद्विष्णुः पचतं सहीयान् (*muṣāyadviṣṇuḥ pacataṃ sahīyān*).
+
+स किं पुनर्मुषितवानिति तदत्रोच्यते । विश्वेत्ता इति । हे इंद्र ष्टेषितस्त्वया प्रेरितो विष्णुर्यज्ञरूपी ष्टेषितस्त्वं दुर्गादाहार्ता किल तर्हि त्वं तस्य धनान्याहरेति त्वया प्रेरितः सन्नुरुक्रमो भूत्वा विश्वेत्ता यानि च तत्र स्थितानि तानि सर्वाण्याभरत् । अभरत् । (*sa kiṃ punarmuṣitavāniti tadatrocyate | viśvettā iti | he iṃdra ṣṭeṣitastvayā prerito viṣṇuryajñarūpī ṣṭeṣitastvaṃ durgādāhārtā kila tarhi tvaṃ tasya dhanānyāhareti tvayā preritaḥ sannurukramo bhūtvā viśvettā yāni ca tatra sthitāni tāni sarvāṇyābharat | abharat |*) कानि तानीति । शतं महिषानपरिमितान् प्रशस्तान् पदार्थान् तेषां वाहनरूपान् महिषान्वा क्षीरपाक मोदनं च पक्वमात्रमेवौदनं चाभरत् । (*kāni tānīti | śataṃ mahiṣānaparimitān praśastān padārthān teṣāṃ vāhanarūpān mahiṣānvā kṣīrapāka modanaṃ ca pakvamātramevaudanaṃ cābharat |*)
+
+Moreover, it is said that that Viṣṇu again seized and brought many other things. The details of this are stated clearly in the present Ṛk beginning with विश्वेत्ता (*viśvettā*). O Indra, you said to Viṣṇu, the sacrifice in person: "O Viṣṇu, you claim to be the one who seizes and brings the wealth and other possessions from the fortresses of the demons. If so, take and bring the wealth and other possessions of this demon Varāha." As soon as he was urged by you (by Indra) in this way, Viṣṇu agreed, saying "So be it", went quickly to the city of the demon, and seized and brought all the wealth that was with the demon, that is, whatever things he had been told to bring. What those things were that Viṣṇu brought: the most excellent and countless best objects such as wealth, the buffaloes and other animals that carry them, and food cooked with milk and so on; he seized and brought all, as Indra had said. These details are clearly indicated in the present Ṛk.
+
+विथ्यद्वराहं इत्यत्रोक्तोऽर्थश्च चरमपादेनोच्यते । इंद्रस्तु वराहारं स्वीकृतासुरसर्वस्वं वराहरूपिणं वैमुषमेमुषनामानमथवैमुषं धनानामामोषकं वराहमसुरं हृदयेऽविध्यदिति शेषः ॥ (*vithyadvarāhaṃ ityatrokto 'rthaśca caramapādenocyate | iṃdrastu varāhāraṃ svīkṛtāsurasarvasvaṃ varāharūpiṇaṃ vaimuṣamemuṣanāmānamathavaimuṣaṃ dhanānāmāmoṣakaṃ varāhamasuraṃ hṛdaye 'vidhyaditi śeṣaḥ ‖*)
+
+### Printed p. 658
+
+Now they explain the meaning of the last quarter of the present Ṛk, विद्यद्वराहमिंद्र एमुषं (*vidyadvarāhamiṃdra emuṣaṃ*). This demon named Varāha, being in the form of a boar (varāha), had seized much wealth from many and kept it. Therefore it is customary to call him एमुषं (*emuṣaṃ*), that is, धनानामामोषकं (*dhanānāmāmoṣakaṃ*), one who steals wealth. The meaning that Indra, with his own strength and power, pierced the breast of the demon Eṃuṣa in the form of a boar and killed him is set out in the last quarter of the present Ṛk.
+
+In the Taittirīya Saṃhitā of the Kṛṣṇa Yajurveda too the account of this matter is given in the same way.
+
+यज्ञो देवेभ्यो निलायुत विष्णू रूपं कृत्वा स पृथिवीं प्राविशत्तं देवा हस्तान्त्सग्ं रभ्यैच्छन्तमिंद्र उपर्युपर्यत्यक्रामत्सोऽब्रवीत्नोमायमुपर्युपर्यत्यक्रमादित्यहं दुर्गे हंतेत्यथ कस्यमित्यकं दुर्गादाहर्तेति सोऽब्रवीद्दुर्गे वै हंतावोचथावराहोऽयं वाममोषः सप्तानां गिरीणां परस्ताद्वित्तं वेद्यमसुराणां बिभर्ति तं जहि (*yajño devebhyo nilāyuta viṣṇū rūpaṃ kṛtvā sa pṛthivīṃ prāviśattaṃ devā hastāntsagṃ rabhyaicchantamiṃdra uparyuparyatyakrāmatso 'bravītnomāyamuparyuparyatyakramādityahaṃ durge haṃtetyatha kasyamityakaṃ durgādāharteti so 'bravīddurge vai haṃtāvocathāvarāho 'yaṃ vāmamoṣaḥ saptānāṃ girīṇāṃ parastādvittaṃ vedyamasurāṇāṃ bibharti taṃ jahi*) यदि दुर्गॆ हंतासीति सदर्भपुंजीलमुदृह्य सप्तगिरीन् भित्वा तमहन्सोऽब्रविद्दुर्गाद्वा आहर्ता वोचथा एतमाहरेति तमेभ्यो यज्ञ एव यज्ञ माहरद्यत्तद्वित्तं वेध्यमसुराणामविंदंत तदेकं वेद्यै वेदित्वं ॥ (*yadi durgè haṃtāsīti sadarbhapuṃjīlamudṛhya saptagirīn bhitvā tamahanso 'braviddurgādvā āhartā vocathā etamāhareti tamebhyo yajña eva yajña māharadyattadvittaṃ vedhyamasurāṇāmaviṃdaṃta tadekaṃ vedyai veditvaṃ ‖*)
+
+(Tri. Saṃ. 6-2-4, 3 **NOTE**)
+
+To explain how the sacrificial altar came to be called vedi, a legend is told in the Yajurveda:
+
+In former times, for some reason, the sacrifice took the form of Viṣṇu, left the gods and went away. Then that Viṣṇu, in the form of the sacrifice, entered the earth and hid himself so that no one knew. The gods, not seeing him, searched everywhere, holding one another by the hand. Yet they did not find the place where Viṣṇu was. But when Indra was passing over the region where Viṣṇu had hidden himself, Viṣṇu below said: "Who is it? Who is passing over this place where I am?" Hearing that, Indra said: "I am the hero who strikes and destroys the fortresses of the demons. But who are you?" he asked. To that Viṣṇu replied: "I am the one who brings the wealth and other things found there after the fortresses of the demons have been destroyed." And addressing Indra he said: "O man, if you are indeed the one who destroys enemy cities as you claim,
+
+### Printed p. 659
+
+then beyond seven mountains from here there is a demon named Varāha. He has seized the wealth and other possessions of the demons and keeps them inside his strong fort. If you have the power to destroy the forts of the demons as you claim, strike and destroy that demon Varāha. Only then will your power be known." Hearing this, Indra took a bunch of darbha grass that was near, made it his weapon, split the seven impregnable mountains, and struck and killed that demon Varāha. Then he said to Viṣṇu: "O man, as you said, I have split the seven mountains and killed the demon who was there. By this my strength and power have become clear. You said that you are the one who brings the wealth and other things from the fortresses of the demons once they are destroyed. Now, as you claimed, go and bring the wealth and other things that are there. Then your power will become manifest." Viṣṇu said "So be it" and, in the very form of the sacrifice, seized the wealth and other things that were with that demon and brought them to the gods. The chief meaning of this legend is that because the gods obtained the demons' wealth through the sacrifice in this way, the place where the sacrifice is performed came to be called vedi.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रं स्तवेत्यष्टादशर्चं पंचमं सूक्तं वैश्वामित्रस्य रेणोरार्षं
+> त्रैष्टुभमैंद्रं । अनुक्रांतं च । इंद्रं स्तव द्व्यूना रेणुरिति ॥ सूर्यस्तुन्नाम्येकाह इदं सूक्तं निष्केवल्यनिविद्धानं । सूत्रितं च । सूर्यस्तुता यशस्वामः
+> पिबा सोममभींद्रं स्तवेति मध्यंदिनः । अ. ९.८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इंद्रं स्तव (*iṃdraṃ stava*) is the fifth sūkta, of eighteen Ṛks; its seer is Reṇu of the Viśvāmitra line, its metre Triṣṭubh and its deity Indra. The Anukramaṇī says: इंद्रं स्तव द्व्यूना रेणुरिति (*iṃdraṃ stava dvyūnā reṇuriti*). In the one-day rite named Sūryastut this sūkta is the nividdhāna of the niṣkevalya. A Sūtra is cited for this: in the Sūryastut for one who desires fame, the midday pressing has the sūkta पिबा सोममभींद्रं स्तव (*pibā somamabhīṃdraṃ stava*) (Sāyaṇa gives the reference as A. 9.8 **NOTE**).
+
+The Kannada Anuvāda: This sūkta Indraṃ stava is the fifth sūkta in the seventh anuvāka. In it there are eighteen Ṛks. The seer of this sūkta is Reṇu of the Viśvāmitra family; the deity is Indra; the metre is Triṣṭubh. In the Anukramaṇī it is said: इंद्रं स्तव द्व्यूना रेणुः (*iṃdraṃ stava dvyūnā reṇuḥ*). That this sūkta is to be recited as the nividdhāna sūkta among the niṣkevalya-śastra mantras in the one-day iṣṭi called Sūryastut is explained by the Sūtra of the Āśvalāyana Śrauta Sūtra: "Sūryastut for one desiring fame; in the midday: Pibā somam abhīndraṃ stava" (Ā. 9.8).
+
+- Maṇḍala 10; Anuvāka 7; Sūkta 89.
+- Aṣṭaka 8; Adhyāya 4; Vargas 14, 15, 16.
+- Number of Ṛks in the sūkta: 18.
+- Seer: Reṇu.
+- Deity: Ṛks 1-4 and 6-18, Indra; Ṛk 5, Indra and Soma.
+- Metre: Triṣṭubh.
+
 ---
 
-**Progress note:** Done through printed p. 652. pp. 647-652: Namuci legend, Ṛjīṣī, Soma and Gāyatrī (Sūkta 89 commentary)
+**Progress note:** Done through printed p. 659. pp. 653-659: Indra-Vayu soma share, Varaha legend, Sukta 89 start
