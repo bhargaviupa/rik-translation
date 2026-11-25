@@ -11391,6 +11391,239 @@ I regard Agni as a father, as a kinsman, as a brother, as a constant friend. I r
 
 O Agni, our praises (धियः (*dhiyaḥ*)), which are सनुत्रीः (*sanutrīḥ*), bestowing, are accomplished (सिद्धाः (*siddhāḥ*)), perfected; that is, they have been made by us for you. In our sacrificial house (दम आ (*dama ā*)) ….
 
+### Printed p. 295
+
+> यावस्थितस्त्वं नित्यहोता सततं होमनिष्पादको देवानामाह्वाता वा सन् यं
+> त्रायसे कर्मवैगुण्याद्रक्षसि सोऽहं त्प्रसादात्त्वत्सायुज्यं गतः सन्नृतवा
+> यज्ञवान् सत्यवान् ना स्यामिति शेषः रोहिदश्वो रोहित्संज्ञकाश्वः पुरुक्षुर्बह्वन्नस्थ स्यां ! किंचास्मा ईदृग्यूताय तुभ्यं द्युभिर्दिप्तेष्टहभिरहःसु दिवसेषु
+> वामं वननीयं हविरस्तु ॥
+
+##### Gist of the bhāṣya
+
+(Continuing Sāyaṇa on the preceding Ṛk.) Sāyaṇa says: you who are the constant होता (*hotā*), always accomplishing the oblation, or else the summoner of the gods, whom you protect from the defects of the rite, I, having attained your companionship by your grace, would be ऋतवा (*ṛtavā*), one possessed of sacrifice, possessed of truth. स्यां (*syāṃ*) is to be supplied. रोहिदश्वः (*rohidaśvaḥ*) means one who has a horse named Rohit. पुरुक्षुः (*purukṣuḥ*) means one rich in much food. Moreover, for you, so joined, let a desirable oblation be on the days (अहभिः (*ahabhiḥ*)), the shining (द्युभिः (*dyubhiḥ*)) days.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सनुत्रीः (*sanutrīḥ*)—full of devotion
+- अस्मे धियः (*asme dhiyaḥ*)—our praises
+- सिध्राः (*sidhrāḥ*)—have been composed for you alone **NOTE**
+- दम आ (*dama ā*)—in our sacrificial house
+- नित्यहोता (*nityahotā*)—you who are always the invoker
+- यं (*yaṃ*)—whom (me)
+- त्रायसे (*trāyase*)—you protect
+- सः (*saḥ*)—that I
+- ऋतवा (*ṛtavā*)—may I be always possessed of sacrifice
+- रोहिदश्वः (*rohidaśvaḥ*)—possessing a golden-coloured horse
+- पुरुक्षुः (*purukṣuḥ*)—possessing abundant food; may I become so
+- अस्मै (*asmai*)—to you
+- द्युभिः (*dyubhiḥ*)—shining
+- अहभिः (*ahabhiḥ*)—on days
+- वामं (*vāmaṃ*)—an attractive oblation
+- अस्तु (*astu*)—let it be offered
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, our devout praises have been composed for you alone. May I, whom you, the ever-present invoker in our sacrificial house, protect, be always possessed of sacrifice; may I have a golden-coloured horse and abundant food. May an attractive oblation be offered to you on shining days.
+
+##### English translation
+Agni, our earnest praises have been composed for you. May he whom you, the perpetual invoker of the gods, protect in the sacrificial chamber, be rich in sacrifices, the master of red steeds, the possessor of abundant food ; may the desirable (oblation) be granted him on shining days.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्युभि॑र्हि॒तं मि॒त्रमि॑व प्र॒योगं॑ प्र॒त्नमृ॒त्तिज॑मध्व॒रस्य॑ जा॒रं ।  
+> बा॒हुभ्या॑म॒ग्निमा॒यवो॑ऽजनंत वि॒क्षु होता॑रं॒ न्य॑सादयंत॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्युभिः । हितं । मित्रं इव । पुयोगं । प्रत्नं । ऋत्विजं । अध्वरस्य । जारं ।  
+> बाहुभ्यां । अग्निं । आयवः । अजनंत । विक्षु । हॊतारं । नि । असादयंत ॥ ५ ॥
+
+### Printed p. 296
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्युभिर्हितं दीप्तैराहितं मित्रमिव स्निग्धमिव प्रयोगं प्रयोक्तव्यं प्रश्नॆं
+> पुराणमृत्वजं होतृसंज्ञकं । अग्निर्वै देवानां होतासीदिति श्रुतेः । अध्वरस्य
+> जारं समापयितारं एवंभूतमग्निमायवो यजमाना मनुष्या बाहुभ्यामजनंत । जनितवंतः । किंच विक्षु मनुष्येषु । तदाकारेषु देवेष्टित्यर्थः ।
+> होतारमाह्वातारं न्यसादयंत । नियमेन सादितवंतः । देवानां यागार्थं
+> निरूपितवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+द्युभिर्हितं (*dyubhirhitaṃ*) means placed (हितं (*hitaṃ*)) by the shining ones. मित्रमिव (*mitramiva*) means like one who is affectionate. प्रयोगं (*prayogaṃ*) means one to be employed. प्रत्नं (*pratnaṃ*) means ancient. The ऋत्विजं (*ṛtvijaṃ*) is the priest called Hotṛ, according to the Śruti अग्निर्वै देवानां होतासीदिति (*agnirvai devānāṃ hotāsīditi*). अध्वरस्य जारं (*adhvarasya jāraṃ*) means the one who brings the sacrifice to completion. Such an Agni the आयवः (*āyavaḥ*), the sacrificers, men, generated (अजनंत (*ajanaṃta*)) with their arms. Moreover, among men (विक्षु (*vikṣu*))—that is, in rites of the gods of that form—they firmly seated him (न्यसादयंत (*nyasādayaṃta*)) as the summoner (होतारं (*hotāraṃ*)); the meaning is that they appointed him for the sacrifice of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युभिः (*dyubhiḥ*)—by radiances
+- हितं (*hitaṃ*)—covered
+- मित्रमिव (*mitramiva*)—like a friend
+- प्रयोगं (*prayogaṃ*)—helpful
+- प्रत्नं (*pratnaṃ*)—ancient
+- ऋत्विजं (*ṛtvijaṃ*)—the priest in the form of the Hotṛ
+- अध्वरस्य (*adhvarasya*)—for the sacrifice
+- जारं (*jāraṃ*)—its accomplisher
+- अग्निं (*agniṃ*)—Agni
+- आयवः (*āyavaḥ*)—men (the sacrificers)
+- बाहुभ्यां (*bāhubhyāṃ*)—with their arms
+- अजनंत (*ajanaṃta*)—have produced
+- विक्षु (*vikṣu*)—among men
+- होतारं (*hotāraṃ*)—as the Hotṛ
+- न्यसादयंत (*nyasādayaṃta*)—have established
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers have churned out and produced with their arms Agni, who is covered with radiances, helpful like a friend, ancient, the priest in the form of the Hotṛ, the accomplisher of the sacrifice. They have established him among men as the Hotṛ.
+
+##### English translation
+Men have generated with their arms Agni, who is decorated with rays of light, selected as a friend, the ancient priest, the accomplisher of the sacrifice, and they have appointed him amongst people, the invoker of the gods.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒यं य॑जस्य दि॒वि दे॑व दे॒वान्किं ते॒ पाकः॑ कृणव॒दप्र॑चेताः ।  
+> यथाय॑ज ऋ॒तुभि॑र्देव दे॒वने॒वा य॑जस्व त॒न्वं॑ सुजात ॥ ६ ॥
+
+### Printed p. 297
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वयं । यजस्व । दिवि । देव । देवान् । किं । ते । पाकः । कृणवत् । अप्रचेताः ।  
+> यथा । अयजः । ऋतुभिः । देव । देवान् । एव । यजस्व । तन्नं । सुजात ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमानाग्ने त्वं दिवि द्युलोके स्थितान्देवानिंद्रादीन् स्वयमात्मनैव यजस्व ! पाकः पक्तव्यप्रज्ञोऽप्रचेता अप्रकृष्टज्ञानो मनुष्यस्ते तव
+> किं कृणवत् । किं करोति । त्वयानधिष्ठितः किंचिदपि न जानातीत्यर्थः ! किंच हे देव
+> त्वमृतुभिः कालविशेषैर्देवान्यथायजः इष्टवानसि एवैवं हे सुजात शोभनजन्मन्नग्ने तन्नमात्मानमपि यजस्व ॥
+
+##### Gist of the bhāṣya
+
+O shining Agni, you yourself, by your own self, sacrifice to the gods such as Indra who stand in heaven (दिवि (*divi*), in the world of heaven). पाकः (*pākaḥ*) is one whose understanding is still to be ripened, अप्रचेताः (*apracetāḥ*) one of undeveloped knowledge, a man: what (किं कृणवत् (*kiṃ kṛṇavat*)) can he do for you? Not presided over by you, he knows nothing at all. Moreover, O Agni, as you have sacrificed to the gods in the ऋतुभिः (*ṛtubhiḥ*), the particular seasons, so too, O well-born (सुजात (*sujāta*)) Agni, sacrifice to your own body (तन्वं (*tanvaṃ*)), your own self.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining Agni
+- दिवि (*divi*)—dwelling in the world of heaven
+- देवान् (*devān*)—the gods
+- स्वयं (*svayaṃ*)—yourself
+- यजस्व (*yajasva*)—worship
+- साकः (*sākaḥ*)—one of unripe understanding **NOTE**
+- अप्रचेताः (*apracetāḥ*)—a man without excellent knowledge
+- ते (*te*)—knowing your greatness
+- किं कृणवत् (*kiṃ kṛṇavat*)—in what way can he worship?
+- देव (*deva*)—O Agni
+- ऋतुभिः (*ṛtubhiḥ*)—according to each season
+- देवान् (*devān*)—the gods
+- यथा आयजः (*yathā āyajaḥ*)—in whatever way you have worshipped
+- एव (*eva*)—in that same way
+- सुजात (*sujāta*)—O Agni of excellent birth
+- तन्नं (*tannaṃ*)—yourself also
+- यजस्व (*yajasva*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Agni, worship the gods who dwell in heaven yourself. A man of unripe understanding and without excellent knowledge, not knowing your greatness, cannot worship you well. O Agni, as you have worshipped the gods in accordance with each season, so, O Agni of excellent birth, worship yourself also.
+
+##### English translation
+Offer sacrifice yourself, divine (Agni), to the gods in heaven : what can one who is ignorant and of immature understanding effect for you ? As in due seasons, divine (Agni), you have sacrificed to the gods, so you, well-engendered (Agni), sacrifice to your own person.
+
+### Printed p. 298
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भवा॑ नो अग्नेऽवि॒तोत गो॒पा भवा॑ वय॒स्कृदु॒त नो॑  ॒
+> वयोधाः ।  
+> रास्वा॑ च नः सुमहो ह॒व्यदा॑तिं॒ त्रास्वो॒त न॑स्त॒न्वो॒३॒॑ ३ अप्र॑युच्छन् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भव । नः । अग्ने । अविता । उत । गोपाः । भव । वयःकृत् । उत । नः । वयःधाः।  
+> रास्व । च । नः । सुमहः । हव्यदातिं । त्रास्व । उत । नःतन्न्वः । अप्रयुच्छन् ॥ ७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं नोऽस्माकमविता दृष्टभयेभ्यो रक्षको भव । भूयाः ।
+> उतापि च गोपा अदृष्टभयेभ्यो गोप्ता रक्षको भव । उतापि च वयस्कदन्नस्य
+> कर्ता भव । वयोधा अन्नस्य दाता भव हे सुमह: सुष्टु पूजनीयाग्ने त्वं
+> स्वभूतां हव्यदातिं हविषो दातिं नोऽस्मभ्यं रास्व च । प्रयच्छ । उतापि च
+> नोऽस्माकं स्वभूतास्तन्वः शरीराण्यप्रयुच्छन्न प्रमाद्यंस्रास्व । पालय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, be our protector (अविता (*avitā*)) from visible dangers. Also be our गोपाः (*gopāḥ*), our guardian from invisible dangers. Also be the maker of food (*vayaskṛt*) and the giver of food (वयोधाः (*vayodhāḥ*)). O सुमहः (*sumahaḥ*), Agni who are well worthy of worship, grant (रास्व (*rāsva*)) to us your own हव्यदातिं (*havyadātiṃ*), the giving of the oblation. And protect (त्रास्व (*trāsva*)), watch over, our own bodies (तन्वः (*tanvaḥ*)), not being negligent (अप्रयुच्छन् (*aprayucchan*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—to us
+- अविता (*avitā*)—as protector
+- भव (*bhava*)—be
+- उत (*uta*)—and
+- गोपाः (*gopāḥ*)—be our guardian
+- उत (*uta*)—and
+- वयस्कत् (*vayaskat*)—be the producer of food for us **NOTE**
+- भव (*bhava*)—be
+- वयोधाः (*vayodhāḥ*)—be the giver of food
+- सुमहः (*sumahaḥ*)—O Agni, worthy of excellent worship
+- नः (*naḥ*)—to us
+- हव्यदातिं (*havyadātiṃ*)—fitness for giving oblations
+- रास्व (*rāsva*)—give
+- उत (*uta*)—and
+- नः (*naḥ*)—our
+- तन्वः (*tanvaḥ*)—bodies
+- अप्रयुच्छन् (*aprayucchan*)—carefully
+- त्रास्व (*trāsva*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, be our protector. Remove all our calamities and protect us; produce food for us and give it. O Agni, worthy of excellent worship, give us fitness for giving oblations. Carefully protect our bodies.
+
+### Printed p. 299
+
+##### English translation
+Be our protector, Agni, (in obvious peril) : be our presever (in un, seen danger), be the provider and giver of sustenance ; bestow upon us- mighty Agni, the donation of oblations, and ever attentive, protect our persons.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, which serves as the conclusion of the sūkta, Agni is prayed to grant protection and food and the like, to create in us the fitness to offer oblations and so forth to the gods, and to protect us at all times. Here the commentator explains two kinds of protection: protection from enemies and wild beasts that can be seen is one kind; protection from invisible things such as disease, and from sins, is the other.
+
+## Sūkta 8 (Maṇḍala 10)
+Introduction.
+The seer of this sūkta and of the one after it is Triśirā, son of Tvaṣṭṛ. This Triśirā was formerly the family priest of the gods. He had a connection with the Asuras; that is, he was born of an Asura woman. Therefore he also had a fondness for the Asuras. Fearing that this partisan of the Asuras might somehow harm the gods, Indra wished to kill him. In this matter Trita (the seer Trita Āptya) became his helper. In some places it is said that Indra killed him for the sake of this Trita, that is, to please Trita.
+
+In the Ṛk
+अस्मभ्यं तत्वाष्टं विश्वरूपमरंधयः साख्यस्य त्रिताय ॥ (*asmabhyaṃ tatvāṣṭaṃ viśvarūpamaraṃdhayaḥ sākhyasya tritāya ‖*)
+(Ṛ. Saṃ. 2-11-19)
+it is said that Indra killed Viśvarūpa out of friendship for Trita. In the Bṛhaddevatā (sixth chapter) this is said about him:
+प्र केतुनेति त्वाष्ट्रस्तु त्रिशिराः सूक्तमुत्तरं ॥ १४७ ॥ (*pra ketuneti tvāṣṭrastu triśirāḥ sūktamuttaraṃ ‖ 147 ‖*)
+ऋचस्त्वस्य षळाग्नेय्यं तृचस्त्वस्येति यः परः । (*ṛcastvasya ṣaḷāgneyyaṃ tṛcastvasyeti yaḥ paraḥ |*)
+तेनेंद्रमभितुष्टाव स्वप्नांत इति नः श्रुतिः ॥ १४८ ॥ (*teneṃdramabhituṣṭāva svapnāṃta iti naḥ śrutiḥ ‖ 148 ‖*)
+
+### Printed p. 300
+
+The seer of this sūkta beginning प्रकेतुना (*praketunā*) is Triśirā, son of Tvaṣṭṛ. In the first six Ṛks of this sūkta this seer praises Agni, and in the next three, Indra.
+अभवत्स हि देवानां पुरोधाः प्रियकाम्यया । (*abhavatsa hi devānāṃ purodhāḥ priyakāmyayā |*)
+असुराणां स्वसुः पुत्रस्त्रिशिरा विश्वरूपधृक् ॥ १४९ ॥ (*asurāṇāṃ svasuḥ putrastriśirā viśvarūpadhṛk ‖ 149 ‖*)
+तमृषिं प्रहितं त्विंद्रो देवेषु बुबुधेऽसुरैः । (*tamṛṣiṃ prahitaṃ tviṃdro deveṣu bubudhe 'suraiḥ |*)
+सोऽस्य वज्रेण तान्याशु शिरांसि त्रीण्यथाच्छिदत् ॥ १५० ॥ (*so 'sya vajreṇa tānyāśu śirāṃsi trīṇyathācchidat ‖ 150 ‖*)
+This seer Triśirā was formerly the family priest of the gods. Since he was the son of the Asuras' sister, he remained a partisan of the Asuras. The gods came to know of this and suspected that the Asuras themselves, for their own advantage, to learn the secrets of the gods, had installed him, under the name Viśvarūpa, as family priest among the gods, to act as a spy. Therefore Indra took his thunderbolt and cut off the three heads of this Triśiras.
+तस्य यत्सोमपानं तु मुखं सोऽभूत्कपिंजलः । (*tasya yatsomapānaṃ tu mukhaṃ so 'bhūtkapiṃjalaḥ |*)
+कलविंकः सुरापाणं अन्नादं तित्तिरिस्त्वभूत् ॥ १५१ ॥ (*kalaviṃkaḥ surāpāṇaṃ annādaṃ tittiristvabhūt ‖ 151 ‖*)
+Of the three heads of that Triśiras, the mouth that drank Soma became the bird called kapiñjala. The mouth that drank surā became the bird called kalaviṅka. The mouth that ate food became the bird called tittiri.
+तं वागभ्यवदद्ब्रह्मी ब्रह्महासि शतक्रतो । (*taṃ vāgabhyavadadbrahmī brahmahāsi śatakrato |*)
+प्रपन्नं हतवान्यस्माद्विश्वरूपं पराङ्मुखं ॥ १५२ ॥ (*prapannaṃ hatavānyasmādviśvarūpaṃ parāṅmukhaṃ ‖ 152 ‖*)
+At that time a bodiless voice was heard. Addressing Indra it said: "O Indra, you have gone behind Viśvarūpa, who was पराङ्मुखं (*parāṅmukhaṃ*), that is, not facing you but turned in another direction, and have killed him. Since he was a Brāhmaṇa, the guilt of brahmin-slaying has come upon you."
+तमभ्यसिंचत्तूक्तेन ऋषिराप इति स्वयं । (*tamabhyasiṃcattūktena ṛṣirāpa iti svayaṃ |*)
+सिंधुद्वीप्रोपनुत्त्यर्थं तस्याश्लीलस्य पाप्मन्य ॥ १५३ ॥ (*siṃdhudvīpropanuttyarthaṃ tasyāślīlasya pāpmanya ‖ 153 ‖*)
+(Bṛ. De. chapter 6)
+To remove this sin, Indra besought Sindhudvīpa, the seer of the next sūkta, and that seer, by reciting the sūkta of nine Ṛks beginning आपोहिष्ठा (*āpohiṣṭhā*) (Ṛ. Saṃ. 10-9th sūkta), water **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 294. pp. 289-294 (batch API)
+**Progress note:** Done through printed p. 300. pp. 295-300 (batch API)
