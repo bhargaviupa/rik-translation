@@ -41259,6 +41259,165 @@ The wice behold with their mind (seated) in their heart the Sun made manifeast b
 
 हृदा पश्यंति मनसा विपश्चितः (*hṛdā paśyaṃti manasā vipaścitaḥ*)—Here the words हृदा (*hṛdā*) and मनसा (*manasā*) have a special meaning. In worldly dealings, if we wish to know the nature of a thing, we know it by the eye or with the help of a sense organ. To know the nature of a thing through the sense organs of knowledge such as the eye, the help of the mind is also necessary. Nothing can be known without the help of the mind. Even if our mind is elsewhere while the eyes look at a thing, the nature of the thing is not known. This is a matter within everyone's experience. When one examines or meditates on a thing, there should be no room in the mind for modes other than that one object; that is, there must be concentration of mind. This concentration of mind is also called yoga. According to the Yoga-sūtra योगश्चित्तवृत्तिनिरोधः (*yogaścittavṛttinirodhaḥ*), yoga is to check the other activities in the mind (attention to other matters) and make that mind rest steadily in one place. This can be called, broadly, concentration of mind. Ascetics and yogins, when they meditate on the Supreme Self, meditate with this kind of concentration of mind. By this they attain direct realization of the object they meditate on, that is, of Brahman or of another deity. This is what is here विपश्चितः (*vipaścitaḥ*), that is, the knowers or
 
+### Printed p. 1197
+
+Scholars, with undivided minds, that is, with one-pointed concentration, fix the mind on Parabrahman alone and meditate on it continuously. By this they realise the golden Puruṣa, the inner controller in this sun-disc, that is, Parabrahman. One should understand that the Supreme Self abides as inner controller in all things created by Parabrahman, and that for this reason He is present also inside this sun-disc. On this point—
+
+असावादित्यो ब्रह्मेति ब्रह्मैव सन्ब्रह्माप्येति य एवं वेद ॥ (*asāvādityo brahmeti brahmaiva sanbrahmāpyeti ya evaṃ veda ‖*) (Kṛ. Ā. 2-2)**NOTE**
+
+It is said that this Āditya (the Sun), whom we now see with our eyes, is Parabrahman; one who worships this Brahman becomes Brahman itself and is united with Brahman. And further—
+
+आदित्यो ना एष एतन्मंडलं तपति तत्र ता ऋचस्तदृचा मंडलग्० स ऋचां लोकोऽथ य एष एतस्मिन्मंडलेऽर्चिर्दिर्प्यते तानि सामानि स साम्यां लोकोऽथ य एष एतस्मिन्मंडलेऽर्चिषि पुरुषस्तानि यजूग्०षि स यजुषा मंडलग्० स यजुषां लोकस्यॆषा त्रय्येव विद्या तपति य एषोऽन्तरादित्ये हिरण्मयः पुरुषः ॥ (*ādityo nā eṣa etanmaṃḍalaṃ tapati tatra tā ṛcastadṛcā maṃḍalag0 sa ṛcāṃ loko 'tha ya eṣa etasminmaṃḍale 'rcirdirpyate tāni sāmāni sa sāmyāṃ loko 'tha ya eṣa etasminmaṃḍale 'rciṣi puruṣastāni yajūg0ṣi sa yajuṣā maṃḍalag0 sa yajuṣāṃ lokasyèṣā trayyeva vidyā tapati ya eṣo 'ntarāditye hiraṇmayaḥ puruṣaḥ ‖*) (Kṛ. U. 4-14)**NOTE**
+
+In this Taittirīya Upaniṣad passage it is said that the golden Puruṣa in the middle of this sun-disc, that is, Brahman itself, shines in the form of the Sun.
+
+समुद्रे अंतः कवयो वि चक्षते (*samudre aṃtaḥ kavayo vi cakṣate*)—here the word समुद्र (*samudra*) is explained thus: समुद्रवंत्यस्माद्रश्मय इति समुद्रं सूर्यमंडलं । तस्मिन् अंतः मध्यॆ (*samudravaṃtyasmādraśmaya iti samudraṃ sūryamaṃḍalaṃ | tasmin aṃtaḥ madhyè*). Since the rays go out from the sun-disc, it is called समुद्र (*samudra*); that is the meaning given. समुद्र (*samudra*) means the sun-disc. The seers (क्रांतदर्शि (*krāṃtadarśi*)), that is, the wise who know through inner vision everything that happens in past, future and present, realise the golden Puruṣa, Parabrahman, who shines within it, in its middle. This is the intention.
+
+मरीचीनां पदं इच्छंति वेधसः (*marīcīnāṃ padaṃ icchaṃti vedhasaḥ*)—मरीचीनां पदं (*marīcīnāṃ padaṃ*) means the sun-disc, the source of the rays, or the world of the Sun, the highest abode, that is, Parabrahman. Here it is said that those who worship Parabrahman present within the sun-disc become that very Parabrahman, are united with it and attain liberation. The Śruti passage quoted above—
+
+उद्यंतमस्तंयंतमादित्यमभिध्यायन् कुर्वन् ब्राह्मणो विद्वान् सकलं भद्रमश्नुतेऽसावादित्यो ब्रह्मेति ब्रह्मैव सन्ब्रह्माप्येति ॥ (*udyaṃtamastaṃyaṃtamādityamabhidhyāyan kurvan brāhmaṇo vidvān sakalaṃ bhadramaśnute 'sāvādityo brahmeti brahmaiva sanbrahmāpyeti ‖*) (Śrī. Ā. 2-2)**NOTE**
+
+### Printed p. 1198
+
+—supports this. That is: the learned brāhmaṇa who meditates on and worships Āditya alone at sunrise and sunset not only obtains all welfare but, becoming this very Brahman that has the form of Āditya, is united with Him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+Meaning with reference to the Self (adhyātma)
+- असुरस्य (*asurasya*)—of Parabrahman
+- मायया (*māyayā*)—by māyā
+- अक्तं (*aktaṃ*)—the Self (the jīva) manifested in the form of the jīva
+- विपश्चितः (*vipaścitaḥ*)—the knowers of Vedānta
+- हृदा मनसा (*hṛdā manasā*)—by inward-turned insight or by the mind
+- पतंगं (*pataṃgaṃ*)—as the all-pervading Supreme Self
+- पश्यंति (*paśyaṃti*)—they understand (and)
+- कवयः (*kavayaḥ*)—the Vedāntins, the far-seeing
+- समुद्रे अंतः (*samudre aṃtaḥ*)—that all this world and the rest exist in the Supreme Self, the cause of all beings
+- विचक्षते (*vicakṣate*)—they know by seeing (meditating)
+- वेधसः (*vedhasaḥ*)—these Vedāntins, who know that all this world and the rest is unreal
+- मरीचीनां (*marīcīnāṃ*)—of the cognitions of activity
+- पदं (*padaṃ*)—the Parabrahman which is their substratum, of the nature of being, consciousness and bliss, and eternal; that is, union with Parabrahman
+- इच्छंति (*icchaṃti*)—they wish to attain
+
+##### भावार्थ (Bhāvārtha)
+
+In this world created by the māyā of the Supreme Self, they understand that the Self in all beings and the Supreme Self are one. These Vedāntins, by their inward-turned insight, or by mature intellect, understand that there is no difference between the individual self and the Supreme Self; the two are one; the Supreme Self Himself, as inner controller in the bodies of the various beings, is spoken of by the name "individual self". Therefore there is no difference at all between the individual self and the Supreme Self: the individual self is the Supreme Self, and the Supreme Self is the individual self. These Vedāntins understand this identity of the individual self and the Supreme Self, that He is all-pervading. And they understand that while the Supreme Self is in the unmanifest state, all beings, the world and the rest are all contained in that Supreme Self in seed form or subtle form; in the manifest state, or at the time of creation, the world and the rest all become manifest, that is, visible. Moreover, since all this world, visible to the eye, is not eternal, that is, since at the time of dissolution it merges in the Supreme Self, these Vedāntins wish to attain only the Parabrahman, which is always imperishable and eternal; and by worship of Brahman they attain the very attainment of Brahman.
+
+##### विशेषविषयगळु (Special Topics)
+
+असुरस्य मायया अक्तं विपश्चितः हृदा मनसा पतंगं पश्यंति (*asurasya māyayā aktaṃ vipaścitaḥ hṛdā manasā pataṃgaṃ paśyaṃti*)—Before creation Parabrahman, the Supreme Self, alone existed. Because He was in the unmanifest state, none of this world and the rest existed. Then the Supreme Self, by His māyā, that is, by His power or intelligence or resolve, desired to create the world and the rest—
+
+### Printed p. 1199
+
+सोऽकामयत । बहु स्यां प्रजायेयेति । स तपोऽतप्यत । स तपस्तप्ता । इदग्० सर्वमसृजत । यदिदं किंच । तत्सृष्ट्वा । तदेवानु प्राविशत् । (*so 'kāmayata | bahu syāṃ prajāyeyeti | sa tapo 'tapyata | sa tapastaptā | idag0 sarvamasṛjata | yadidaṃ kiṃca | tatsṛṣṭvā | tadevānu prāviśat |*) (Kṛ. U. 2-6)**NOTE**
+
+The Supreme Self, who before creation was in the unmanifest state, desired to create, that is, desired to become manifest Himself in many forms (बहु स्यां प्रजायेय (*bahu syāṃ prajāyeya*)), and performed tapas. Here tapas means meditation. In ordinary practice, if one is to make a thing, a maker (an agent), a material and a means of making are needed; but with the Supreme Self it is not so. By mere meditation, that is, by meditating "let it be thus", or by resolve (decision), everything comes into being; that is, the Supreme Self Himself appears in manifest form. Therefore there is no difference between the Supreme Self in the unmanifest state and the Supreme Self who has become manifest and transformed into the world and the rest. That is, there is no distinction or difference between the Supreme Self in the unmanifest state and the individual self in the manifest state. The Vedāntins understand this principle by an intellect matured through study of the Veda, study of the śāstras, reflection, meditation and the like. Here पतंगं (*pataṃgaṃ*) means पतति व्याप्नोतीति पतंगः (*patati vyāpnotīti pataṃgaḥ*): the Supreme Self who pervades all things, that is, who is present in them as inner controller. Since the Supreme Self is in all beings and impels their movements—अंतः प्रविष्टः शास्त्रा जनानान् सर्वात्मा (*aṃtaḥ praviṣṭaḥ śāstrā janānān sarvātmā*) (Tai. Ā. 3)—there is no difference between the individual self and the Supreme Self. The individual self is manifest, that is, visible to the eye; the Supreme Self, being in unmanifest form, is beyond the senses. All this is understood by those who know the truth of Vedānta. This is the intention.
+
+समुद्रे अंतः कवयो वि चक्षते (*samudre aṃtaḥ kavayo vi cakṣate*)—here समुद्र (*samudra*) is explained as समुद्ध्रवंत्यस्माद्भूतानीति समुद्रः परमात्मा (*samuddhravaṃtyasmādbhūtānīti samudraḥ paramātmā*). Since all classes of beings go forth from this Supreme Self, flow out from Him, that is, since the Supreme Self is the cause of their origin, समुद्र (*samudra*) means the Supreme Self. The Vedāntins understand that the world and the rest lie hidden in such a Supreme Self, that is, in the Supreme Self in the unmanifest state, and that at the time of creation they flow out from that very Supreme Self and become manifest. कवयः (*kavayaḥ*) means the far-seeing: those who, by their divine vision or knowledge, can know everything that happened, will happen and is happening in the past, future and present. Such Vedāntin knowers understand all this.
+
+मरीचीनां पदं इच्छंति वेधसः (*marīcīnāṃ padaṃ icchaṃti vedhasaḥ*)—here the word मरीचीनां (*marīcīnāṃ*) is explained as वृत्तिज्ञानानां (*vṛttijñānānāṃ*). वृत्ति (*vṛtti*) is engagement in the various kinds of action, the doing of actions; ज्ञान (*jñāna*) is understanding. Since the original source of all these is Brahman alone, मरीचीनां पदं (*marīcīnāṃ padaṃ*) means Parabrahman, the original cause of the paths of engagement and withdrawal. This Brahman has no destruction; the world and the rest that are created have destruction. But Brahman has no destruction and is eternal. Therefore the Vedāntin knowers wish to worship this Brahman, attain the eternal Brahman itself and be united with it.
+
+### Printed p. 1200
+
+This union with Brahman, the attainment of the highest abode, is liberation. This is what they desire. This is the intention.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒तं॒गो वाचं॒ मन॑सा बिभर्ति॒ तां गं॑ध॒र्वो॑ऽवद॒द्गर्भे॑  ॒
+> अंतः ।  
+> तां द्योत॑मानां स्व॒र्यं॑ मनी॒षामृ॒तस्य॑ प॒दे क॒वयो॒ नि  ॑
+> पांति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पतंगः । वाचं । मनसा । बिभर्ति । तां । गंधर्वः । अवदत् । गर्भे ! अंतरिति ।  
+> तां । द्योतमानां । स्वर्यं । मनीषां । ऋतस्यॆ । पदे । कवयः । नि । पांति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाग्देवत्ये पशौ पतंगो वाचमिति पुरोडाशस्यानुवाक्या । सूत्रितं च ।
+> यद्वाग्तदंत्यविचेतनानि पतंगो वाचं मनसा बिभर्ति । आ. ३-८ । इति ॥
+> पतंगः सूर्यो वाचं त्रयारूपां मनसा प्रज्ञया बिभर्ति । धारयति ।
+> श्रूयते हि । ऋग्भिः पूर्वाह्ने दिवि देव ईयते यजुर्वेदे तिष्ठति मध्यॆ अह्नः
+> सामवेदेनास्तमये महीयते वेदैरशून्यस्त्रिभिरीति सूर्यः । तै. ब्रा. ३-१२-९-१।
+> इति । तामेव वाचं गर्भे शरीरस्य मध्यॆ वर्तमानो गंधर्वः । गाः शब्दान्धारयतीति गंधर्वः प्राणवायुः । अंतर्मध्यॆऽवदत् । वदति । प्रेरयति । मारुतस्तूरसि
+> चरन्मंद्रं जनयति स्वरं । पा. शि. ७. । इति स्मरणात् । द्योतमानां स्वर्यं स्वर्गमयित्रीं स्वर्गाय हितां ना मनीषां मनस ईशित्रीं तां त्रयारूपां वाचमृतस्य
+> यज्ञस्य सत्यभूतस्य सूर्यस्य वा पदे स्थाने कवयो मेधाविन ऋषयो नि शांति ।
+> अध्यापनेन नितरां रक्षंति । यद्वा । पतंगः सर्वोपाधिशून्यो व्याप्तः परमात्मा । स
+> सृष्ट्वादौ वाचं मनसा बिभर्ति । कानि कानि स्रष्टव्यानीति पर्यालोचनेन मनसा
+> सकलार्थप्रतिपादकं वेदं परामृष्टवानित्यर्थः । स्मर्यते ६ । वेदशब्देभ्य एनादौ
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice to Vāc as deity, पतंगो वाचं (*pataṃgo vācaṃ*) is the anuvākyā of the puroḍāśa. It is also prescribed in the sūtra: यद्वाग्तदंत्यविचेतनानि पतंगो वाचं मनसा बिभर्ति (*yadvāgtadaṃtyavicetanāni pataṃgo vācaṃ manasā bibharti*) (Ā. 3-8).
+
+पतंगः (*pataṃgaḥ*) is the Sun; he bears (बिभर्ति (*bibharti*), holds) speech (वाचं (*vācaṃ*)), which has the form of the triple Veda, by the mind, that is, by intelligence. For it is heard: ऋग्भिः पूर्वाह्ने दिवि देव ईयते यजुर्वेदे तिष्ठति मध्यॆ अह्नः सामवेदेनास्तमये महीयते वेदैरशून्यस्त्रिभिरीति सूर्यः । (*ṛgbhiḥ pūrvāhne divi deva īyate yajurvede tiṣṭhati madhyè ahnaḥ sāmavedenāstamaye mahīyate vedairaśūnyastribhirīti sūryaḥ |*) (Tai. Brā. 3-12-9-1). That same speech is spoken within the womb, that is, in the middle of the body, by the Gandharva who dwells there. गंधर्व (*gaṃdharva*) is गाः शब्दान्धारयतीति गंधर्वः प्राणवायुः (*gāḥ śabdāndhārayatīti gaṃdharvaḥ prāṇavāyuḥ*), the vital breath. अंतः (*aṃtaḥ*) means in the middle; अवदत् (*avadat*) means he speaks, impels. For so the tradition says: मारुतस्तूरसि चरन्मंद्रं जनयति स्वरं (*mārutastūrasi caranmaṃdraṃ janayati svaraṃ*) (Pā. Śi. 7). That speech of the triple form is द्योतमानां (*dyotamānāṃ*) (shining), स्वर्यं (*svaryaṃ*) (leading to heaven, beneficial for heaven), and मनीषां (*manīṣāṃ*) (ruling the mind). In the place (पदे (*pade*)) of ऋतस्य (*ṛtasya*), that is, of the sacrifice, or of the Sun who is the true one, the wise (कवयः (*kavayaḥ*)), the intelligent seers, closely guard (नि पांति (*ni pāṃti*)) it, protecting it constantly by teaching.
+
+Another explanation (यद्वा (*yadvā*)): पतंगः (*pataṃgaḥ*) is the pervading Supreme Self, free of all limiting adjuncts. At the beginning of creation He bears speech by the mind: that is, by reflecting "what things are to be created", He considered by the mind the Veda which expounds all things. The tradition says: वेदशब्देभ्य एनादौ (*vedaśabdebhya enādau*) (continued in the next block).
+
+### Printed p. 1201
+
+> निर्ममे स महेश्वर इति । गर्भे हिरण्मये ब्रह्मांडेऽंतर्वर्तमानो गंधर्वो
+> हिरण्यगर्भस्तां वाचमवदत् । प्रथममुच्चारितवान् । द्योतमानत्वादिगुणविशिष्टां
+> तां वाचं कवयः क्रांतदर्शिनो देवा ऋतस्य सत्यस्य ब्रह्मणः पदे स्थाने नि पांति ।
+> निभृतं रक्षंति ॥
+
+##### Gist of the bhāṣya
+
+(Continuing the tradition begun in the previous block, निर्ममे स महेश्वर इति (*nirmame sa maheśvara iti*).) The Gandharva, Hiraṇyagarbha, who dwells within the golden womb, the Brahmāṇḍa (cosmic egg), first uttered that speech. That speech, endowed with qualities such as brilliance, is closely guarded by the seers (कवयः (*kavayaḥ*), far-seeing gods) in the place (पदे (*pade*)) of ऋतस्य (*ṛtasya*), that is, of the true Brahman; they preserve it with care.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+Meaning with reference to the deity
+- पतंगः (*pataṃgaḥ*)—the Sun, who is ever moving
+- वाचं (*vācaṃ*)—the speech which has the form of the three Vedas
+- मनसा (*manasā*)—by intelligence
+- बिभर्ति (*bibharti*)—he bears
+- तां (*tāṃ*)—that same speech
+- गर्भॆ (*garbhè*)—in the middle of the body
+- गंधर्वः (*gaṃdharvaḥ*)—the vital breath
+- अंतः (*aṃtaḥ*)—from within the body
+- अवदत् (*avadat*)—impels (and)
+- द्योतमानां (*dyotamānāṃ*)—shining
+- स्वर्यं (*svaryaṃ*)—a means to heaven
+- मनीषां (*manīṣāṃ*)—meditated on in the mind, or uttered with the mind
+- तां (*tāṃ*)—that speech which has the form of the three Vedas
+- ऋतस्य (*ṛtasya*)—of the sacrifice or of the Sun
+- पदे (*pade*)—in the place
+- कवयः (*kavayaḥ*)—the intelligent seers
+- नि पांति (*ni pāṃti*)—they protect by teaching
+
+##### भावार्थ (Bhāvārtha)
+
+The ever-moving Sun is able to carry on his course only through the greatness of the three Vedas, Ṛg, Yajus and Sāman. The vital breath in the middle of the body, being within the body, impels speech, that is, the utterance of the Veda. The seers recite those three Vedas, which are shining, that is, excellent, and a means to the attainment of heaven, at the sacrificial altar and cause their pupils to study them, and so protect them from being lost.
+
+##### English translation
+The Sun beares the (sacred) word in his mind, the Gandharva has spoken it (abiding) within the womb; sages cherish it in the place of sacrifice brilliant, heavenly, ruling the mind.
+
+##### विशेषविषयगळु (Special Topics)
+
+पतंगः वाचं मनसा बिभर्ति (*pataṃgaḥ vācaṃ manasā bibharti*)—The Sun bears by his intelligence the speech or mantra, consisting of the triple Veda, Ṛg, Yajus and Sāman; that is, by meditating in his mind on the Vedic words Ṛg, Yajus and Sāman, he obtains the power of his movement. On this point—
+
+### Printed p. 1202
+
+यचां प्राची महती दिगुच्यते । दक्षिणामाहुर्यजुषामपारां । अथर्वणामंगिरसां प्रतीची । साम्नामुदीची महती दिगुच्यते ॥ (*yacāṃ prācī mahatī digucyate | dakṣiṇāmāhuryajuṣāmapārāṃ | atharvaṇāmaṃgirasāṃ pratīcī | sāmnāmudīcī mahatī digucyate ‖*) (Tai. Brā. 3-12-9-1)
+
+so it is said in the Taittirīya Brāhmaṇa. The east is dear to the Ṛgveda, or to the deity presiding over the Ṛgveda. In the same way the south is assigned to the Yajurveda, the west to the Atharvaveda and the north to the Sāmaveda.
+
+ऋग्भिः पूर्वाह्ने दिवि देव ईयतॆ । यजुर्वेदे तिष्ठति मध्ये अह्नः । साम वेदेनास्तमये महीयते । वेदैरशून्यस्त्रिभिरीति सूर्यः ॥ (*ṛgbhiḥ pūrvāhne divi deva īyatè | yajurvede tiṣṭhati madhye ahnaḥ | sāma vedenāstamaye mahīyate | vedairaśūnyastribhirīti sūryaḥ ‖*) (Tai. Brā. 3-12-9-1)
+
+In the forenoon the Sun travels in heaven (the atmosphere) with the deities of the Ṛk; at midday he stays in the south near the deity presiding over the Yajurveda; in the evening he is honoured with the deities presiding over the Sāmaveda. In this way, with the help of the three Vedas, the Sun becomes manifest at the proper times in the proper regions; that is, he follows the order of his course.
+
+And in the Taittirīya Upaniṣad—
+
+आदित्यो ना एष एतन्मंडलं तपति तत्र ता ऋचस्तदृचा मंडलग्० स ऋचां लोकोऽथ य एष एतस्मिन्मंडलेर्चिर्दिर्प्यते तानि सामानि स साम्यां लोकोऽथ य एष एतस्मिन्मंडलेर्चिषि पुरुषस्तानि यजूग्०षि स यजुषा मंडलग्० स यजुषां लोकस्यॆषा त्रय्येव विद्या तपति य एषोन्तरादित्ये हिरण्मयः पुरुषः ॥ (*ādityo nā eṣa etanmaṃḍalaṃ tapati tatra tā ṛcastadṛcā maṃḍalag0 sa ṛcāṃ loko 'tha ya eṣa etasminmaṃḍalercirdirpyate tāni sāmāni sa sāmyāṃ loko 'tha ya eṣa etasminmaṃḍalerciṣi puruṣastāni yajūg0ṣi sa yajuṣā maṃḍalag0 sa yajuṣāṃ lokasyèṣā trayyeva vidyā tapati ya eṣontarāditye hiraṇmayaḥ puruṣaḥ ‖*) (Tai. U. 4-14)
+
+—so it is said. Here too it is described that Āditya moves in the atmosphere only through the greatness of the three Vedas, Ṛg, Yajus and Sāman; that is, these three Vedas are the support of the Sun's course. Only with the help of the Vedas does the Sun's movement go on.
+
+तां गंधर्वः अवदत् गर्भे अंतः (*tāṃ gaṃdharvaḥ avadat garbhe aṃtaḥ*)—here the word गंधर्व (*gaṃdharva*) is explained as गाः शब्दान् धारयतीति गंधर्वः प्राणवायुः (*gāḥ śabdān dhārayatīti gaṃdharvaḥ prāṇavāyuḥ*): because he holds words, that is, impels them and helps in uttering them, गंधर्व (*gaṃdharva*) means the vital breath. In the Pāṇinīya Śikṣā—मारुतस्तूरसि चरन् मंद्रं जनयति स्वरं (*mārutastūrasi caran maṃdraṃ janayati svaraṃ*) (Pā. Śi. 7)—it is said that the wind, moving in the chest, produces the low-pitched tone. Although we speak with the mouth, the help of the wind is indispensable for speaking, that is, for uttering words. That wind
+
 ---
 
-**Progress note:** Done through printed p. 1196. pp. 1191-1196 (batch API)
+**Progress note:** Done through printed p. 1202. pp. 1197-1202 (batch API)
