@@ -21268,6 +21268,98 @@ The Puruṣa is of the measure of a thumb. He abides in the middle of the body. 
 
 Even the year, which controls all affairs, goes on revolving, together with its days and nights, before this Parabrahman. This Paramātman, who is the controller even of time, the gods worship as the light
 
+### Printed p. 744
+
+that gives radiance even to the sphere of luminaries, and as the immortal. This same matter is praised in the Śvetāśvatara Upaniṣad in this way.
+
+आदिः स संयोगनिमित्तहेतुः परस्त्रिकालादकलोऽपि दृष्टः । तं विश्वरूपं भवभूत मीड्यं देवं स्वचित्तस्थमुपास्य पूर्व० ॥ ( (*ādiḥ sa saṃyoganimittahetuḥ parastrikālādakalo 'pi dṛṣṭaḥ | taṃ viśvarūpaṃ bhavabhūta mīḍyaṃ devaṃ svacittasthamupāsya pūrva0 ‖ (*) (Kṛ. U. 6-5) **NOTE**
+
+This Parabrahman, the one cause who brings about the relation of conjunction among all individual things, is beyond time. He is one without the divisions of present, past and future. He is without division. He is of the universal form, which shows unity in all divisions, and he is the ancient one. Since he is thus undivided among things that are divided, he is subject to time in the divided state, and beyond time in the undivided state. These two kinds of nature show the twofold state of the Parabrahman. The same is praised in the Maitrī Upaniṣad.
+
+Brahman has two natures, time and non-time. Brahman who is prior to the sun is of the nature of non-time. He who shines forth together with the appearance of the sun is of the nature of time. This nature is of the nature of division. **NOTE**
+
+Thus Īśvara, who is beyond time, which controls the whole world, and is the controller of it, is praised as अमृतत्वस्य ईशानः (*amṛtatvasya īśānaḥ*). Sāyaṇa has explained the word अमृतत्वस्य (*amṛtatvasya*) as देवत्वस्य (*devatvasya*). Since all the gods are immortal, the purport may be that he is the lord of those gods; or, since he is without beginning and end, he is beyond birth and death, and therefore the description अमृतत्वस्य ईशानः (*amṛtatvasya īśānaḥ*) stands. The purport of both explanations is in the end one. Therefore Īśvara is denoted by the word अक्षर (*akṣara*) (the meaning is: the imperishable one). This Īśvara, called अक्षर (*akṣara*), is the lord of the whole world. Yājñavalkya, explaining this to Gārgī, has described the lordship of the अक्षर (*akṣara*) in this way.
+
+एतस्य वा अक्षरस्य प्रशासने गार्गि सूराचंद्रमसौ विधृतौ तिष्ठत एतस्य वा अक्षरस्य प्रशासने गार्गि द्यावापृथिव्यौ विधृतौ तिष्ठत एतस्य वा अक्षरस्य प्रशासने गार्गि निमेषा मुहूर्ता अहोरात्राण्यर्धमासा मासा ऋतनः संवत्सरा इति विधृतास्तिष्ठन्त्येतस्य वा अक्षरस्य प्रशासने गार्गि प्राज्योऽन्या नद्यः स्यंदंते श्वेतेभ्यः पर्वतेभ्यः प्रतीच्योऽन्या यां यां च दिशमन्वेतस्य वा अक्षरस्य प्रशासने गार्गि।ददतो मनुष्याः प्रशंसंति यजमानं देवा देवीं पितरोऽन्वायत्ताः (*etasya vā akṣarasya praśāsane gārgi sūrācaṃdramasau vidhṛtau tiṣṭhata etasya vā akṣarasya praśāsane gārgi dyāvāpṛthivyau vidhṛtau tiṣṭhata etasya vā akṣarasya praśāsane gārgi nimeṣā muhūrtā ahorātrāṇyardhamāsā māsā ṛtanaḥ saṃvatsarā iti vidhṛtāstiṣṭhantyetasya vā akṣarasya praśāsane gārgi prājyo 'nyā nadyaḥ syaṃdaṃte śvetebhyaḥ parvatebhyaḥ pratīcyo 'nyā yāṃ yāṃ ca diśamanvetasya vā akṣarasya praśāsane gārgi|dadato manuṣyāḥ praśaṃsaṃti yajamānaṃ devā devīṃ pitaro 'nvāyattāḥ*) (Bṛ. U. 3-8.9) **NOTE**
+
+### Printed p. 745
+
+O Gārgī, by the command of this imperishable Akṣara, the sun and the moon are established in their fixed places. O Gārgī, by the command of this Īśvara, called Akṣara, the earth and the heaven are established apart. O Gārgī, by the ordaining of this Akṣara, moments, hours, days and nights, half-months, months, seasons and years each have their existence in keeping with their own natures. O Gārgī, by the ordaining of this Akṣara, the rivers that flow from the mountains flow each according to its own direction and join the seas. By the ordaining of this Supreme Puruṣa, who is of the form of the Akṣara, human beings praise those who give generously, the gods desire the sacrificer, and the fathers, performing libations and the like, are eager to bring satisfaction to the divine fathers.
+
+तद्वा एतदक्षरं गार्ग्यदृष्टं द्रष्टश्रुतं श्रोत्रमतं मंत्रविज्ञातं विज्ञातृ नान्यदतोऽस्ति द्रष्टृ नान्यदतोऽस्ति श्रोतृनान्यदतोऽस्ति मंतृ नान्यदतोऽस्ति विज्ञात्रेतस्मिन्नु खल्वक्षरे गार्ग्यकाश ओतश्च प्रोतश्चेति । (*tadvā etadakṣaraṃ gārgyadṛṣṭaṃ draṣṭaśrutaṃ śrotramataṃ maṃtravijñātaṃ vijñātṛ nānyadato 'sti draṣṭṛ nānyadato 'sti śrotṛnānyadato 'sti maṃtṛ nānyadato 'sti vijñātretasminnu khalvakṣare gārgyakāśa otaśca protaśceti |*) (Bra. Tā 3-8-11) **NOTE**
+
+O Gārgī, this Akṣara cannot be seen by anyone. He is able to see everything. He cannot be heard by anyone with the ear. He is able to hear everything. He is not caught by anyone's thought, but the whole world is the object of his thought. No one can know him. The whole world is the object of his knowledge. Apart from him there is no such hearer. Apart from him there is surely no such hearer, thinker or knower. In this Paramātman, who is of the form of the Akṣara, the ether is woven together like warp and weft: thus the greatness of the Puruṣa, the lord (the master) of immortality, is praised. **NOTE** Moreover:—
+
+सर्वेंद्रियगुणाभासं सर्वेंद्रियविवर्जितं । सर्वस्य प्रभुमीशानं सर्वस्य शरणं सुहृत् ॥ (*sarveṃdriyaguṇābhāsaṃ sarveṃdriyavivarjitaṃ | sarvasya prabhumīśānaṃ sarvasya śaraṇaṃ suhṛt ‖*) (Kṛ. U. 3-17)
+
+The qualities of all the senses appear to be in this Supreme Puruṣa. But this Paramātman is beyond the qualities of the senses. He is the lord and controller of all. Apart from him there is no other such excellent protector.
+
+Since Īśvara alone is the cause of creation, preservation and dissolution, all births and deaths are subject to him; the saying जातस्य मरणं ध्रुवं (*jātasya maraṇaṃ dhruvaṃ*) **GLOSS** lies hidden in his very resolve of creation. In the world that has come into being, neither gods nor men and the like can face death. At the end of the kalpa all the gods and all human beings and all things moving and unmoving, having brought to an end their worldly activity, must become one in him
+
+### Printed p. 746
+
+without fail. But Īśvara alone does not have to become one in any other thing. He has no other support. He is the cause of the mortality of the world. He himself is immortal. He alone is the lord of immortality (of not dying). This lord is compared to a bridge. A bridge joins two separated regions. And likewise it also makes a distinction between the two regions. In the same way, since Īśvara makes a connection between himself and the world, the meaning is that he is a bridge favourable to this path. And likewise he is also a bridge that shows the distinction between himself and the world. Therefore he is immortal and different from the mortal world, and is the lord of the mortal world. How? Thus—
+
+स ना एष महानज आत्मा योऽयं विज्ञानमयः प्राणेषु य एषोऽंतर्हृदय आकाशस्तस्मिन् शेते सर्वस्य वशी सर्वस्येशानः सर्वस्याधिपतिः स न साधुना कर्मणा भूयानो एवासाधुना कनीयानेष सर्वॆश्वर एष भूतिरधिपतिरेष भूतपाल एष सेतुर्विधरण एषां लोकानामसंभेदाय समेतं............ (*sa nā eṣa mahānaja ātmā yo 'yaṃ vijñānamayaḥ prāṇeṣu ya eṣo 'ṃtarhṛdaya ākāśastasmin śete sarvasya vaśī sarvasyeśānaḥ sarvasyādhipatiḥ sa na sādhunā karmaṇā bhūyāno evāsādhunā kanīyāneṣa sarvèśvara eṣa bhūtiradhipatireṣa bhūtapāla eṣa seturvidharaṇa eṣāṃ lokānāmasaṃbhedāya sametaṃ............*) (Bṛ. U. 4-4-22)
+
+This Paramātman is the great one, the unborn (the one without birth), full of knowledge. Well established in the ether of the heart, he is the master of all and the lord of all. He is the controller of all. Unlike other individual selves, he has no fruit of action. There is no difference of good fruit for a good deed and bad fruit for a bad deed. He is the Lord of all for all actions and the fruits of actions. He exists like a broad bridge, serving to keep all the worlds apart. This same matter is described in the Chāndogya Upaniṣad in this way.
+
+अथ य आत्मा स सेतुर्विधृतिरेषां लोकानामसंभेदाय नैतं सेतुमहोरात्रे तरतो न जरा न मृत्युर्न शोको न सुकृतं न दुष्कृतं सर्वे पाप्मानोऽतो निवर्तंतेऽपहतपाप्मा ह्येष ब्रह्मलोकः ॥ (*atha ya ātmā sa seturvidhṛtireṣāṃ lokānāmasaṃbhedāya naitaṃ setumahorātre tarato na jarā na mṛtyurna śoko na sukṛtaṃ na duṣkṛtaṃ sarve pāpmāno 'to nivartaṃte 'pahatapāpmā hyeṣa brahmalokaḥ ‖*) (Chā. U. 8.4-1) **NOTE**
+
+This great bridge serves to keep these worlds from colliding with one another and to keep them safe. Days and nights cannot cross this great bridge. Neither old age nor death can cross it. Neither good deed nor evil deed can cross it. If one approaches it, all sins are destroyed. This is the world of Brahman.
+
+तस्माद्वा एतं सेतुं तीर्त्वांधः सन्ननंधो भवति, विद्धः सन्नविद्धो भवत्युपतापी सन्ननुपतापी भवति तस्माद्वा एतं सेतुं तीर्त्वापि नक्तमहरेवा. भिनिष्पद्यते सकृद्विभातो ह्यैवैष ब्रह्मलोकः । (*tasmādvā etaṃ setuṃ tīrtvāṃdhaḥ sannanaṃdho bhavati, viddhaḥ sannaviddho bhavatyupatāpī sannanupatāpī bhavati tasmādvā etaṃ setuṃ tīrtvāpi naktamaharevā. bhiniṣpadyate sakṛdvibhāto hyaivaiṣa brahmalokaḥ |*) (Bhā. U. 8-4-2) **NOTE**
+
+### Printed p. 747
+
+If one crosses this great bridge, a blind man obtains sight. One stricken with disease obtains health. By crossing this great bridge, the night too shines like day. This world of Brahman is self-luminous and illuminates others. This is the bridge of the nature of immortality. Its nature is supreme. It is different from other worldly bridges. How? Thus—
+
+निष्कलं निष्क्रियं शांतं निरवद्यं निरंजनं । अमृतस्य परं सेतुं दग्धेंधनमिवानलं ॥ (*niṣkalaṃ niṣkriyaṃ śāṃtaṃ niravadyaṃ niraṃjanaṃ | amṛtasya paraṃ setuṃ dagdheṃdhanamivānalaṃ ‖*) (Krke. U. 6-19) **NOTE**
+
+This is undivided (without parts). It is without action, of tranquil nature, free from fault and pure. It is the supreme bridge to immortality. As firewood that has turned into embers attains brightness, so this is pure and luminous. In these descriptions, the bridge, which is of the nature of the Self, is described in the sense that it makes a connection with the worlds that are divided. Above, in the Bṛhadāraṇyaka and other texts, it has been told that this bridge serves to keep all the worlds apart and firm in their fixed places. In the Śvetāśvatara Upaniṣad, cited in the present place, it is described as a bridge that shows unity to the principles that are different. In the same sense it is told in the Muṇḍaka Upaniṣad too, in this way: this description is in the manner in which the Supreme Puruṣa is described in the Puruṣa-sūkta.
+
+यस्मिन् द्यौः पृथिवी चांतरिक्षमोतं मनः सह प्राणैश्च सर्वैः । तमेवैकं जानथ आत्मानमन्या वाचो विमुंचथामृतस्येष सेतुः ॥ (*yasmin dyauḥ pṛthivī cāṃtarikṣamotaṃ manaḥ saha prāṇaiśca sarvaiḥ | tamevaikaṃ jānatha ātmānamanyā vāco vimuṃcathāmṛtasyeṣa setuḥ ‖*) (Mu. U. 2.2.5)
+
+That Paramātman in whom heaven and earth and the atmosphere are woven together like warp and weft, in whom the mind together with all the vital breaths is well established, he alone is the Lord of all. Recite only the mantras that worship him. Give up the other dealings of speech. This Paramātman is like a bridge to immortality.
+
+Two kinds of function are indicated for the Supreme Puruṣa thus described: first, protection of the world, and second, control of the worlds. By अमृतत्वस्य ईशानः (*amṛtatvasya īśānaḥ*) both these points are understood. How the protection of the world is accomplished has been indicated before and will be explained again further on as occasion arises. In the present place, how the control of the worlds, indicated by the word ईशान (*īśāna*), is accomplished will be examined. All the passages that say Īśvara is the controller of the world also praise him as the inner controller of all.
+
+### Printed p. 748
+
+याज्ञवल्क्यंतर्यामिणं ब्रूहि (*yājñavalkyaṃtaryāmiṇaṃ brūhi*) (Bṛ. U. 3-7-2) O Yājñavalkya, explain the nature of this inner controller: when Uddālaka Āruṇi thus entreated Yājñavalkya, Yājñavalkya described the nature of Parameśvara, the inner controller, in this way. This description also makes known his immortality, as it is praised in the present Ṛk.
+
+यः पृथिव्यां तिष्ठन् पृथिव्या अंतरो यं पृथिवी न वेद यस्य पृथिवी शरीरं यः पृथिवीमंतरो यमयत्येष त आत्मांतर्याम्यमृतः ॥ (*yaḥ pṛthivyāṃ tiṣṭhan pṛthivyā aṃtaro yaṃ pṛthivī na veda yasya pṛthivī śarīraṃ yaḥ pṛthivīmaṃtaro yamayatyeṣa ta ātmāṃtaryāmyamṛtaḥ ‖*) (Bṛ. U. 3-7-3)
+
+This Paramātman, the inner controller of all, is established in the earth and has made the earth itself his body. Yet the earth has no full knowledge of him. Though he pervades the earth, he is greater than the earth. Remaining the inner controller of the earth, he is the controller of all the activities of the earth. He is immortal.
+
+In the same way, in the principles such as water, fire, atmosphere, wind, the world of heaven, the sun, the direction, the moon, the stars, ether, darkness and light, he is the inner controller and has made them his own bodies. He is the controller of all of them. None of them can know him fully. In the same way, explaining the principle relating to the elements and the principle relating to the self—
+
+यः सर्वेषु भूतेषु तिष्ठन्सर्वेभ्यो भूतेभ्यो अंतरो यं सर्वाणि भूतानि न विदुर्यस्य सर्वाणि भूतानि शरीरं यः सर्वाणि भूतान्यंतरो यमयत्येष त आत्मांतर्याम्यमृत इत्यधिभूतमथाध्यात्मं ॥ (*yaḥ sarveṣu bhūteṣu tiṣṭhansarvebhyo bhūtebhyo aṃtaro yaṃ sarvāṇi bhūtāni na viduryasya sarvāṇi bhūtāni śarīraṃ yaḥ sarvāṇi bhūtānyaṃtaro yamayatyeṣa ta ātmāṃtaryāmyamṛta ityadhibhūtamathādhyātmaṃ ‖*) (Cha. U. ka-7-25) **NOTE**
+
+This Paramātman is established in all beings. He is greater than all beings. None of these knows him fully. But all of them are his body. Being the inner controller in all of them, he is the controller of all of them. He is immortal. This is the principle relating to the elements. In the same way there is an account of the principle relating to the self. Explaining this matter, as explained above,
+
+यः प्राणे तिष्ठन् .... .... .... .... एष त आत्मांतर्याम्यमृतोऽतोऽन्यदार्तं ततो होद्दालक अरुणिरुपरराम ॥ (*yaḥ prāṇe tiṣṭhan .... .... .... .... eṣa ta ātmāṃtaryāmyamṛto 'to 'nyadārtaṃ tato hoddālaka aruṇirupararāma ‖*) (Bṛ. U. 7-7-16 to 23) **NOTE**
+
+To this Puruṣa, who is the inner controller in all the principles relating to the self, such as the vital breath, speech, eye, ear, mind, skin, understanding and semen, though all of them are bodies, none of them knows him
+
+### Printed p. 749
+
+fully. He is the controller of all of them. He is immortal: thus the immortality of Parameśvara is explained. This same greatness is praised in the Māṇḍūkya:
+
+एष सर्वॆश्वर एष सर्वज्ञ एषोऽंतर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानां ॥ (*eṣa sarvèśvara eṣa sarvajña eṣo 'ṃtaryāmyeṣa yoniḥ sarvasya prabhavāpyayau hi bhūtānāṃ ‖*) (Mā. U. 6) **NOTE**
+
+This Lord of all is described as the all-knowing one, the inner controller, the source of the whole world, its protector and the protector of all. The Puruṣa, full of radiance and full of immortality, who is described as honey for the whole world (Bṛ. U. 2.5), he alone is here praised as the inner controller. This same Supreme Puruṣa is praised in the present mantra as अमृतत्वस्य ईशानः (*amṛtatvasya īśānaḥ*).
+
+यदन्नेनातिरोहति (*yadannenātirohati*):—
+
+यत् यस्मात्कारणादन्नेन प्राणिनामन्नेन भोग्येन निमित्तेन अतिरोहति स्वकीयां कारणावस्थामतिक्रम्य परिदृश्यमानां जगदवस्थां प्राप्नोति ॥ (*yat yasmātkāraṇādannena prāṇināmannena bhogyena nimittena atirohati svakīyāṃ kāraṇāvasthāmatikramya paridṛśyamānāṃ jagadavasthāṃ prāpnoti ‖*) **NOTE**
+
+By what cause, that is, by what greatness Īśvara is the lord of the whole world, for that very reason, for the protection of the world created by himself, on account of the food that is to be enjoyed by the world, he passes beyond his causal state, undergoes change in the effect state and shines forth in the form of the world: thus Sāyaṇa has explained. The causal state is not to be perceived by the senses. The effect state is what is fully visible, that is, what is to be perceived by the senses. The meaning is that Īśvara, on account of food, expands and pervades in the form of the gross world, which is perceptible to the senses and belongs to ordinary dealings. The state of the world has been accepted by Īśvara for the enjoyment of the fruits of action by living beings; this state is merely an occasioning cause; in reality only Īśvara, who is the causal Self, is true: thus Sāyaṇa has explained. Besides this, in the Maṅgala-bhāṣya two kinds of meaning are given for this passage. First—
+
+1. यदमृतत्वं तत् अन्नेन कर्मफलाभिधेन असता ऐहिकामुष्मिकप्रपंचेन अतिरोहति न तिरोधानं गच्छति । (*yadamṛtatvaṃ tat annena karmaphalābhidhena asatā aihikāmuṣmikaprapaṃcena atirohati na tirodhānaṃ gacchati |*)
+
+The immortality of which the Supreme Puruṣa is lord: is that immortality not also a thing to be enjoyed? If it is a thing to be enjoyed, then, like the food of the world that undergoes change, does it too undergo change? Here the immortality does not undergo change like the food of the world. And of the false, which is called the fruit of action, which is of the nature of the world of this life and the next, which
+
 ---
 
-**Progress note:** Done through printed p. 743. Vol 29 pp. 735-743: Upaniṣad and Smṛti citations on Puruṣa as all, Special Topics of Ṛk 2
+**Progress note:** Done through printed p. 749. Vol 29 pp. 744-749: Special Topics of Ṛk 2 continued, Akṣara, setu, antaryāmin passages
