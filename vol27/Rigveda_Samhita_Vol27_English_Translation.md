@@ -13209,6 +13209,213 @@ The twice-born should pray to Yama Dharmarāja reciting this sūkta. Then, in bo
 > पुरायुषः प्रमीयेत न जातु स कथंचन ।
 > प्रीयतेऽस्य यमो राजा स्मृतिं चांते प्रयच्छति ॥ ३७ ॥
 
+### Printed p. 357
+(…) "To Dharmarāja, svāhā," saying this at the end of the mantra, he should offer the oblation. On the full-moon day of Vaiśākha he should always perform this rite. धर्मराजाय स्वाहेति मंत्रांते जुहायद्धविः । वैशाख्यां पौर्णमास्यां तु कर्म नित्यं प्रयोजयेत् ॥ (*dharmarājāya svāheti maṃtrāṃte juhāyaddhaviḥ | vaiśākhyāṃ paurṇamāsyāṃ tu karma nityaṃ prayojayet ‖*) 38 ॥
+
+At the time of this homa the mantras of the sūkta beginning परेयिवांसं (*pareyivāṃsaṃ*) (Maṇḍala 10, sūkta 18) are to be recited while the offering is made. If this is done, death will not befall him before the span of his life is complete; that is, he will live for a hundred years, the full life of a man. By this homa Yamarāja is pleased, and at the time of that man's death he will not lose his memory but will remain conscious to the end. At the end of every mantra "धर्मराजाय स्वाहा (*dharmarājāya svāhā*)" is to be added when offering. This homa rite is to be performed chiefly on the full-moon day of the month of Vaiśākha.
+
+अयने पर्वसु स्नात्वा यः प्रदद्यात्तिलोदकं । यमाय सगणाय्कॆव तद्भयं न स विंदते ॥ (*ayane parvasu snātvā yaḥ pradadyāttilodakaṃ | yamāya sagaṇāykèva tadbhayaṃ na sa viṃdate ‖*) 39 ॥ (Ṛgvidhāna, chapter 3)
+
+The man who, at the times of the northern and southern solstices and at the parvan times, bathes and offers tarpaṇa with tiloda­ka (water with sesame) to Yamarāja together with his retinue, has no fear whatever from Yama.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ओ चिदिति चतुर्दशर्चं दशमं सूक्तं । अत्रानुक्रम्यते ॥ ओ चित् षळूना
+> वैवस्वतयोर्यमयव्योः संवादः षष्ठ्ययुग्भिर्यमी मिथुनार्थं यमं
+> प्रोवाच स तां नवमियुग्निरनिच्छन् प्रत्याचष्ट इति । ततः षष्ठ्यां प्रथमातृतीयाद्ययुक्षु विवस्वतः पुत्रि यम्यृषिर्यमो देवता । यस्य वाक्यं स ऋषिया
+> तेनोच्यते सा देवतेति न्यायात् । तथा नवम्यां द्वितीयाचतुर्थिप्रभृतिषु
+> युक्षु वैवस्वतो यम ऋषियमी देवता । अनादेशपरिभाषया त्रिष्टुप् ॥
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+This tenth sūkta has fourteen ṛks. The Anukramaṇī says: ओ चित् षळूना वैवस्वतयोर्यमयव्योः संवादः षष्ठ्ययुग्भिर्यमी मिथुनार्थं यमं प्रोवाच स तां नवमियुग्निरनिच्छन् प्रत्याचष्ट इति । (*o cit ṣaḷūnā vaivasvatayoryamayavyoḥ saṃvādaḥ ṣaṣṭhyayugbhiryamī mithunārthaṃ yamaṃ provāca sa tāṃ navamiyugniranicchan pratyācaṣṭa iti |*). It is a dialogue between Yama and Yamī, the children of Vivasvat. In the even-numbered verses (the sixth being counted with the odd) Yamī, in the first, third and other odd verses, addresses Yama for the sake of union, and he in the ninth and the even verses refuses. Thus in the sixth verse and the odd verses beginning with the first, the daughter of Vivasvat, Yamī, is the seer and Yama the deity, by the maxim यस्य वाक्यं स ऋषिर्या तेनोच्यते सा देवता (*yasya vākyaṃ sa ṛṣiryā tenocyate sā devatā*) (the speaker of the words is the seer; the one addressed in them is the deity). Likewise in the ninth and the even verses beginning with the second and fourth, Yama, son of Vivasvat, is the seer and Yamī the deity. The metre is Triṣṭubh, by the general rule where no metre is stated. The viniyoga has been stated.
+
+##### Anuvāda
+
+This sūkta beginning ओ चित् (*o cit*) is the tenth sūkta in the first anuvāka. It has fourteen ṛks. The Anukramaṇī says: ओ चित् षळूना वैवस्वतयोर्यमयम्योः संवादः षष्ठयुग्भिर्यमी मिथुनार्थं यमं प्रोवाच स तां नवमियुग्निरनिच्छन् प्रत्याचष्टे (*o cit ṣaḷūnā vaivasvatayoryamayamyoḥ saṃvādaḥ ṣaṣṭhayugbhiryamī mithunārthaṃ yamaṃ provāca sa tāṃ navamiyugniranicchan pratyācaṣṭe*). In this sūkta, between Yama, the son of Vivasvān,
+
+### Printed p. 358
+and his sister, the woman Yamī, there is a conversation for the sake of mutual union. Verses 1, 3, 5–7, 11, 13 are spoken by Yamī and verses 2, 4, 8–10, 12, 14 by Yama, each addressing the other. Therefore for the odd-numbered verses 1, 3 etc. and for the sixth verse, the woman Yamī Vaivasvatī is the seer and Yama is the deity. By the maxim "the one whose words they are is the seer; the one spoken of by them is the deity", whoever recites the words in a ṛk is its seer, and the subject set forth in the words is its deity. Accordingly, the odd verses 1, 3 etc. (omitting the ninth) and the sixth are spoken by the woman Yamī, so Yamī is their seer; in them Yama is the subject, so Yama is their deity. In the same way, for the even verses 2, 4 etc. (omitting the sixth) and for the odd ninth verse, Yama Vaivasvata is the seer and Yamī is the deity. The metre is Triṣṭubh. The viniyoga was stated earlier.
+
+Sūkta 10
+Maṇḍala 10; Anuvāka 1; Sūkta 10.
+Aṣṭaka 7; Adhyāya 6; Vargas 6, 7, 8.
+Number of ṛks in the sūkta: 14.
+Seer: verses 1, 3, 5–7, 11, 13: Yamī Vaivasvatī; verses 2, 4, 8–10, 12, 14: Yama Vaivasvata.
+Deity: verses 1, 3, 5–7, 11, 13: Yama Vaivasvata; verses 2, 4, 8–10, 12, 14: Yamī Vaivasvatī.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ चि॒त्सखा॑यं स॒ख्या व॑वृत्यां ति॒रः पु॒रू चि॑दर्ण॒वं ज॑ग॒न्वान् ।  
+> पि॒तुर्नपा॑त॒मा द॑धीत वे॒धा अधि॒ क्षमि॑ प्रत॒रं दीध्या॑नः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओ इति । चित् । सखायं । सख्या । ववृत्यां । तिरः । पुरु ! चित् । अर्णवं । जगन्वान् ।  
+> पितुः । नपातं । आ । दधीत । वेधाः । अधि । क्षमि । प्रतरं । दीध्यानः ॥ १ ॥
+
+### Printed p. 359
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन्सूक्ते वैवस्वतयोर्यमयम्योः संवाद उच्यते । अस्यामृचि
+> यमं प्रति यमी प्रोवाच । तिरोऽंतर्हितमप्रकाशमानं । निर्जनप्रदेश
+> मित्यर्थः । पुरु चिद्ब्रह्वपि विस्तीर्णं चार्णवं समुद्रैकदेशमनांतरद्वीपं जगन्वान्
+> गतवती यमी । चिदिति पूजार्थे । पूजितमिष्टं । श्रेष्ठमित्यर्थः । सखायं गर्भवासादारभ्य सखीभूतं यमं सख्या सख्याय स्त्रीपुरुषसंपर्कजनितमित्रत्वाय ओ
+> ववृत्यां । आवर्तयामि । अभिमुख्येन स्थित्वा लज्ञां परित्यज्य त्वत्संभोगं करोमात्यर्थः । धर्मस्य त्वरिता गतिरिति न्यायेन कामस्य त्वरितत्वात् । अपि च पितुरावयोर्भविष्यतः पुत्रस्य पितृभूतस्य तवार्थायाधि क्षम्यधि पृथिव्यां । पृथिवीस्थानीये
+> ममोदर इत्यर्थः । प्रतरं प्रकृष्टं । सर्वगुणोपेतमित्यर्थः । नपातं गर्भलक्षणमपत्यं वेधा विधाता प्रजापतिर्दिध्यान अवयोरनुरूपस्य पुत्रस्य जननार्थमावां ध्यायन्ना दधीत । प्रजापतिर्धाता गर्भं दधातु ते । ऋ. १०-१८४-१.
+> इत्युक्तत्वात् ॥
+
+##### Gist of the bhāṣya
+
+In this sūkta a dialogue of Yama and Yamī, the children of Vivasvat, is told. In this ṛk Yamī speaks to Yama. तिरः (*tiraḥ*) means hidden, not shining, that is, a solitary place. Yamī has gone to पुरु चित् (*puru cit*), a very wide, part of the ocean, an island within it. चित् (*cit*) is in the sense of honour: the honoured, the beloved, the best. She says she turns (ववृत्यां (*vavṛtyāṃ*)) towards her friend Yama, who has been her companion since the womb, for सख्या (*sakhyā*), the friendship born of the union of woman and man: standing before him, giving up shame, she enjoys union with him, because by the maxim *dharmasya tvaritā gatiḥ* desire is hasty. Moreover, for the son who will be born, the father (Yama), अधि क्षमि (*adhi kṣami*), on the earth, that is, in her womb, which stands in the place of earth, प्रतरं (*prataraṃ*) excellent, endowed with all qualities, the नपातं (*napātaṃ*), offspring in the form of an embryo, may वेधाः (*vedhāḥ*), the creator Prajāpati, दीध्यानः (*dīdhyānaḥ*) reflecting on the birth of a son suited to the two of them, place it. This is because it is said: प्रजापतिर्धाता गर्भं दधातु ते (*prajāpatirdhātā garbhaṃ dadhātu te*), Ṛ. Saṃ. 10-184-1.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तिरः (*tiraḥ*)—to the solitary region
+- पुरु चित् (*puru cit*)—and very wide
+- अर्णवं (*arṇavaṃ*)—lying in the midst of the ocean, to that region
+- जगन्वान् (*jaganvān*)—I have come
+- चित् (*cit*)—the best
+- सखायं (*sakhāyaṃ*)—and intimate Yama
+- सख्या (*sakhyā*)—for gaining the love of us two
+- ओ ववृत्यां (*o vavṛtyāṃ*)—I shall make him turn towards me
+- वेधाः (*vedhāḥ*)—Prajāpati the creator
+- दीध्यानः (*dīdhyānaḥ*)—having reflected fully
+- पितुः (*pituḥ*)—for the child born of our (my and Yama's) relation
+- अधि क्षमि (*adhi kṣami*)—in my womb, which stands in the place of earth
+- प्रतरं (*prataraṃ*)—most excellent
+- नपातं (*napātaṃ*)—the embryo
+- आ दधीत (*ā dadhīta*)—may he place
+
+##### भावार्थ (Bhāvārtha)
+
+I have come to this island, solitary, very wide, in the midst of the ocean. I shall make Yama, the best and my intimate, turn towards me for gaining the love of us both. May Prajāpati the creator, after full reflection, place the most excellent embryo in my womb, which stands in the place of earth, for the child that will be born of the relation between me and Yama.
+
+##### English translation
+(Yami speaks). I invite my friend to friendship, having come o'er vast and desert ocean ; may Vedhas, after reflecting, place in my womb the offspring (of you) the father, endowed with excellent qualities.
+
+### Printed p. 360
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ते॒ सखा॑ स॒ख्यं व॑ष्ट्ये॒तत्सल॑क्ष्मा॒ यद्विषु॑रूपा॒ भवा॑ति ।  
+> म॒हस्पु॒त्रासो॒ असु॑रस्य वी॒रा दि॒वो ध॒र्तार॑ उर्वि॒या परि॑  
+> ख्यन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ते । सखा । सख्यं । वष्टि । एतत् । सलक्ष्मा । यत् । विषुरूपा । भवाति ।  
+> महः । पुत्रासः । असुरस्य ॥ वीराः । दिवः । धर्तारः । उर्विया । परि । ख्यन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यम आत्मानं परोक्षीकृत्य यमीं प्रत्युवाच । हे यमि ते तव सखा
+> गर्भवासलक्षणेन सखीभूतो यम एतदीदृशं त्वयोक्तं स्त्रीपुरुषलक्षणं सख्यं
+> न वष्टि । न कामयते। यद्यस्मात्कारणाद्यमी सलक्ष्मा समानयोनित्वलक्षणा विषुरूपा
+> भगिनीत्वाद्विसमरूपा भवाति भवति । तस्मान्न वष्टीत्यर्थः । इदानीं तिरः पुरू
+> चिदर्णवं जगन्वानित्यस्य प्रतिवचनमुच्यते । महो महतोऽसुरस्य प्राणवतः
+> प्रज्ञावतो वा प्रजापतेः पुत्रासः पुत्रभूता वीराः । वीरो वीरयत्यमित्रान्वेतेन् स्याद्गतिकर्मणो वीरयतेन्वा । नि. १-७ । इति निरुक्तं । शत्रुणां विविधमीरयितारो धर्तारो धारयितारो दिवो द्युलोकस्य । प्रदर्शनमेतत् ।
+> द्युप्रभृतीनां द्युलोकानामित्यर्थः ॥ .... .... .... ॥ [धर्तारः उर्विया उरवः मां
+> परिचक्षते न कर्तव्यमिति वदंति]
+
+##### Gist of the bhāṣya
+
+Yama, speaking of himself in the third person, answers Yamī. O Yamī, your friend Yama, who has been your companion since the womb, does not desire एतत् (*etat*), this kind of friendship of woman and man which you have spoken of. The reason: Yamī is सलक्ष्मा (*salakṣmā*), of the same womb, and being a sister is विषुरूपा (*viṣurūpā*), of unlike form; therefore he does not desire it. Now the reply to "तिरः पुरू चिदर्णवं जगन्वान् (*tiraḥ purū cidarṇavaṃ jaganvān*)" is given. महः (*mahaḥ*): of the great असुरस्य (*asurasya*), Prajāpati, who has life or wisdom, the sons are वीराः (*vīrāḥ*). The Nirukta says: वीरो वीरयत्यमित्रान्वेतेन् स्याद्गतिकर्मणो वीरयतेन्वा (*vīro vīrayatyamitrānveten syādgatikarmaṇo vīrayatenvā*) (Ni. 1-7). They are scatterers of enemies in many ways, धर्तारः (*dhartāraḥ*) upholders of the heaven; this is an illustration: of the heavens beginning with Dyu. [Bracketed gloss: धर्तारः उर्विया उरवः मां परिचक्षते न कर्तव्यमिति वदंति (*dhartāraḥ urviyā uravaḥ māṃ paricakṣate na kartavyamiti vadaṃti*).]
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Yamī) यत् (*yat*)—for which reason
+- विषुरूपा (*viṣurūpā*)—you, who as a woman are of a form different from mine
+- सलक्ष्मा भवाति (*salakṣmā bhavāti*)—are born in the same womb, therefore
+- ते (*te*)—your
+- सखा (*sakhā*)—I, your intimate
+- एतत् (*etat*)—the kind of
+- सख्यं (*sakhyaṃ*)—relation indicated by you
+- न वष्टि (*na vaṣṭi*)—do not desire
+- महः (*mahaḥ*)—of the great-souled
+- असुरस्य (*asurasya*)—Prajāpati
+- पुत्रासः (*putrāsaḥ*)—the sons
+- वीराः (*vīrāḥ*)—the mighty
+- दिवः (*divaḥ*)—of the heavenly world
+- धर्तारः (*dhartāraḥ*)—the upholders
+- उर्विया (*urviyā*)—and the exceedingly great, the gods
+- परि ख्यन् (*pari khyan*)—speak as forbidding this act
+
+##### भावार्थ (Bhāvārtha)
+
+O Yamī, because you, being of a form different from mine (though a woman), are born in the same womb, I, your intimate, do not desire the relation indicated by you. The sons of the great-souled Prajāpati, the mighty ones, the upholders of the heavenly world, the exceedingly great gods, speak as forbidding this act.
+
+### Printed p. 361
+
+##### English translation
+(Yama speaks). Your friend desires not this friendship, for although: of one origin, she is of different form; the hero sons of the great Asura (prajapati) the upholders of heaven, enjoying vast renown, do not permit this intercourse.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒शंति॑ घा॒ ते अ॒मृता॑स ए॒तदेक॑स्य चित्त्य॒जसं॒ मर्त्य॑स्य ।  
+> नि ते॒ मनो॒ मन॑सि धाय्य॒स्मे जन्युः॒ पति॑स्त॒न्व१॒॑ १ मा वि॑विश्याः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उशंति । घ । ते । अमृतासः । एतत् । एकस्य । चित् । त्यजसं । मर्त्यस्य ।  
+> नि । ते । मनs । मनसि । धायि । अस्मेइति । जन्युः । पतिः । तन्नं । आ । विविश्याः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनरपि यमा यमं प्रत्युवाच । घेति निपातोऽप्यर्थे । हे यम ते
+> प्रसिद्धा अमृतासः प्रजापत्यादयोऽपि देवा एतदीदृशं शास्त्रेणागम्यत्वेनोक्तं
+> त्यजसं । त्यज्यते परस्मै प्रदीयत इति त्यजसं दुहितृभगिन्यादिस्त्रीजातं । उशंति ।
+> कामयंते । एकस्य चित् सर्वस्य जगतो मुख्यस्यापि प्रजापत्यादेः स्वदुहितृभगिन्यादीनां संबंधोऽस्तीति शेषः । अतः कारणात्ते तव मनश्चित्तमस्मे अस्माकं ।
+> ममेत्यर्थः । मनसि चित्ते नि धायि । निधीयतां । अहं त्वां कामये त्वं मामपि
+> कामयस्वत्यर्थः । अपि च । जन्युरिति लुप्तोपममेतत् । जन्युरिव यथा जनयिता
+> प्रजापतिः पतिर्भर्ता भूत्वा स्वदुहितुः शरीरं संभोगेनाविष्टवान् तथा त्वमपि
+> मम पतिर्भूत्वा तन्नं मदीयं शरीरमा विविश्याः । संभोगेनाविश । योन्ना
+> प्रजननप्रक्षेपोपगूहनचुंबनादिना मां संभुक्षेत्रार्थः ॥
+
+##### Gist of the bhāṣya
+
+Yamī again speaks to Yama. घ (*gha*) is a particle in the sense of "even". O Yama, those well-known immortals, even gods such as Prajāpati, उशंति (*uśaṃti*) desire this kind of त्यजसं (*tyajasaṃ*), which scripture declares impermissible; त्यजसं (*tyajasaṃ*) means what is given away to another (त्यज्यते परस्मै प्रदीयत (*tyajyate parasmai pradīyata*)), that is, the class of women such as daughter and sister. Even in the case of एकस्य चित् (*ekasya cit*), the chief of the whole world, Prajāpati and others, there is such a relation with their own daughters and sisters (this is the supplied remainder). Therefore let your mind be placed, नि धायि (*ni dhāyi*), in my mind: I desire you, and you too desire me. Further, जन्युः (*janyuḥ*) is an elided comparison: as the begetter Prajāpati, becoming husband, entered the body of his own daughter in union, so you also, becoming my husband, आ विविश्याः (*ā viviśyāḥ*), enter त्वं (*tvaṃ*), my body, in union; that is, enjoy me by the insertion of the generative organ, embracing, kissing and the like.
+
+### Printed p. 362
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Yama) ते (*te*)—the well-known
+- अमृतासः (*amṛtāsaḥ*)—even the gods
+- एतत् (*etat*)—such
+- त्यजसं (*tyajasaṃ*)—forbidden relation of sister and the like also
+- उशंति (*uśaṃti*)—desire
+- एकस्य चित् (*ekasya cit*)—in the case of Prajāpati, lord of the whole universe, too, such a relation is well known
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- अस्मे (*asme*)—my
+- मनसि (*manasi*)—with the mind
+- नि धायि (*ni dhāyi*)—let it be made one
+- जन्युः (*janyuḥ*)—as Prajāpati, the begetter of all, becoming husband to his daughter gave happiness to her body, so
+- त्वं (*tvaṃ*)—my body
+- आ विविश्याः (*ā viviśyāḥ*)—entering, make it joyful
+
+##### भावार्थ (Bhāvārtha)
+
+O Yama, even the well-known gods desire such a forbidden relation as that of sister and the like. Such a relation is well known in the case of Prajāpati, lord of the whole universe. Let your mind become one with my mind. As Prajāpati, the begetter of all, becoming husband to his daughter, gave happiness to her body, so enter my body and make it joyful.
+
+##### English translation
+(Yami speaks). Even the immortals take pleasure in (a union) like this which is forbidden to every mortal; let your mind then concur with mine, and as prajapati the progenitor (of all) was the husband (of his own daughter), so you enjoy my person.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this ṛk, while Yamī urges Yama to unite with her, Yama says that union between brother and sister is forbidden. In reply Yamī says: the gods themselves have done many such forbidden acts; why should we not? There is no fault in it. Did not Prajāpati the creator, in the past, become infatuated with his own daughter and sport with her? Thus she cites as example the improper act done by the gods. Therefore it is necessary here to indicate the story told of Prajāpati's delighting in his own daughter. This matter is stated in the Aitareya Brāhmaṇa, chapter 13, eighth khaṇḍa, and we explain it here:
+
+प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्यन्ये तामृ शोभूत्वा रोहितं भूतामभ्यैत्तं देवा अपश्यन्नकृतं वै प्रजापतिः करोतीति ते तम्मैच्छन्य एनमारिष्यत्येशमन्योन्यस्मिन्नाविंदंस्तेषां या (*prajāpatirvai svāṃ duhitaramabhyadhyāyaddivamityanya āhuruṣasamityanye tāmṛ śobhūtvā rohitaṃ bhūtāmabhyaittaṃ devā apaśyannakṛtaṃ vai prajāpatiḥ karotīti te tammaicchanya enamāriṣyatyeśamanyonyasminnāviṃdaṃsteṣāṃ yā*)
+
 ---
 
-**Progress note:** Done through printed p. 356. pp. 351-356 (batch API)
+**Progress note:** Done through printed p. 362. pp. 357-362 (batch API)
