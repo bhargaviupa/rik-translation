@@ -16109,6 +16109,245 @@ Then all the gods magnified your exploits with praise, accompanied with libation
 > इंद्रो॒ धुनिं॑ च॒ चुमु॑रिं च दं॒भय॑ञ्छद्धामन॒स्या शृ॑णुते  ॒॑
 > दभीतये ॥ ९ ॥
 
+### Printed p. 488
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूरि । दक्षेभिः । वचनेभिः । यक्वभिः । सख्येभिः । सख्यानि । प्र । वोचत ।  
+> इंद्रः । धुनिं । च । चुमुरिं । च । दंभयन् । श्रद्वामनस्या । शृणुते । दभीतये॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः दक्षेभिर्वर्धनहेतुभिर्यक्वभिः ॥ छंदसीवनिपावितिवनिप्रत्ययः ।
+> अयस्मयादित्वेन भत्वाज्जश्वाभावः । पदत्वात्कुत्वं । का. १-४-२० ॥ मंत्रयुक्तैः
+> सख्येभिः ॥ तदर्हतीत्यर्थे छंदसि चेति यत्पत्ययः ॥ सख्युरिंद्रस्य योग्यैर्वचनेभिर्वचनैः स्तोत्रैः सख्यानि स्तुत्यस्तोतृलक्षणान्यभिलक्ष्य भूरि बहुवारमिंद्रं प्र
+> वोचत । प्रब्रूत । अभिष्टुत । इंद्रस्तु दभीतय एतन्नामकाय राजर्षये धुनिं
+> च चुमुरिं चैतन्नामकौ द्वावसुरौ दंभयन् हिंसञ्चुद्धामनस्या ॥ मनःशब्दात्कृच् ॥ श्रद्धायुक्तया मनस इच्छया शृणुते । युष्माभिः कृतानि स्तोत्राणि
+> शृणोति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the praisers: "O praisers, with praises (वचनैः (*vacanaiḥ*)) that promote growth (दक्षेभिः (*dakṣebhiḥ*)), that are joined with mantras (यक्वभिः (*yakvabhiḥ*)) and that are fitting for Indra the friend (सख्येभिः (*sakhyebhiḥ*)), praise Indra many times (भूरि (*bhūri*)), keeping in view the friendship that is characterised by the relation of the praised and the praisers." Indra, for the royal seer named Dabhīti, harms the two asuras named Dhuni and Chumuri, and with a mind full of faith, that is, with desire, he hears the praises you have made.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दक्षेभिः (*dakṣebhiḥ*)—capable of promoting growth
+- ऋक्वभिः (*ṛkvabhiḥ*)—joined with mantras
+- सख्येभिः (*sakhyebhiḥ*)—fitting for Indra the friend
+- वचनेभिः (*vacanebhiḥ*)—with praises
+- सख्यानि (*sakhyāni*)—in a fitting manner
+- भूरि (*bhūri*)—abundantly
+- प्र वोचत (*pra vocata*)—praise Indra
+- इंद्रः (*iṃdraḥ*)—Indra
+- दभीतये (*dabhītaye*)—for the royal seer Dabhīti
+- धुनिं च (*dhuniṃ ca*)—the demon Dhuni
+- चुमुरिं च (*cumuriṃ ca*)—and Chumuri
+- दंभयन् (*daṃbhayan*)—destroying
+- श्रद्धामनस्या (*śraddhāmanasyā*)—with an affectionate mind
+- शृणुते (*śṛṇute*)—hears the praises of the praisers
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, praise Indra abundantly and in a fitting manner with praises that are joined with mantras capable of promoting Indra's growth and that are fitting for Indra the friend. Indra, destroying for the royal seer Dabhīti the demon Dhuni and Chumuri, hears the praises of the praisers with an affectionate mind.
+
+##### English translation
+Celebrate the numerous benevolent (acts of Indra) with clever affectionate praises, together with texts; Indra subduing (the Asuras) Dhuni, and
+
+### Printed p. 489
+Chumuri for (the Rishi) Dabhiti beares the praises made to him with a desire for adoration.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं पु॒रूण्या भ॑रा॒ स्वश्वा॒ येभि॒र्मंसै॑ नि॒वच॑नानि॒ शंस॑न् ।  
+> सु॒गेभि॒र्विश्वा॑ दुरि॒ता त॑रेम वि॒दो षु ण॑ उर्वि॒या गा॒धम॒द्य ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । पुरूणि । आ । भर । सुअश्वा । येभिः । मंसै । निवचनानि । शंसन् ।  
+> सुगेभिः । विश्वा । दुःइता । तरेम । विदो इति । सु । नः । उर्विया । गाधं । आद्य ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं स्वश्वा स्वश्वानि शोभनाश्वयुक्तानि पुरूणि बहूनि धनानि मह्यमा भर । आहर ! प्रयच्छ । निवचनानि नितरां वक्तव्यानि स्तोत्राणि शंसन्नहं येभिर्धनैर्मंसै । मन्यतिरर्चतिकर्मा । देवान्पूजयानि तानि देहि ॥ मन्यतेर्लेटि
+> बहुलं छंदसीति विकरणस्य लुक् । सिप्यडागमः । सिपः पित्वेनानुदात्तत्वाद्धातुस्वरः ॥
+> सुगेभिः सुष्टु गंतव्यस्मैर्धनैः स्तोत्रैर्वा विश्वा सर्वाणि दुरिता दुरितानि पापानि
+> तरेम । हे इंद्र अद्यास्मिन्कर्मणि गाधं ग्रथ्यमानं क्रियमाणं नोऽस्मदीयं
+> स्तोत्रमुर्वियोरुत्वेन बहुमानेन सु सुष्टु विदो । विद उ । जानीह्येव ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, bring to me, that is, give, many riches (पुरूणि (*purūṇi*)) endowed with good horses (स्वश्वा (*svaśvā*)). Uttering praises that are to be spoken constantly (निवचनानि (*nivacanāni*)), I would honour the gods (मंसै (*maṃsai*); the root मन्यति (*manyati*) is a word of worship) with those riches; give them." With riches or praises that are easy to travel by (सुगेभिः (*sugebhiḥ*)), may we cross all evils (दुरिता (*duritā*)), that is, sins. "O Indra, today, in this rite, our praise (गाधं (*gādhaṃ*)), which is being composed and performed, know well (सु विदो (*su vido*)) with great regard (उर्विया (*urviyā*))." विद उ (*vida u*) is explained as जानीह्येव (*jānīhyeva*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- निवचनानि (*nivacanāni*)—excellent praises
+- शंसन् (*śaṃsan*)—reciting
+- येभिः (*yebhiḥ*)—with whichever riches
+- मंसै (*maṃsai*)—I shall worship you
+- स्वश्वा (*svaśvā*)—riches accompanied by excellent horses
+- त्वं (*tvaṃ*)—you
+- पुरूणि (*purūṇi*)—in great abundance
+- आ भर (*ā bhara*)—give to me
+- सुगेभिः (*sugebhiḥ*)—with those riches that are fit for a good life
+- विश्वा (*viśvā*)—all
+- दुरिता (*duritā*)—hardships
+- तरेम (*tarema*)—may we cross over
+- अद्य (*adya*)—at this time of the rite
+- गाधं (*gādhaṃ*)—being composed
+- नः (*naḥ*)—our praise
+- उर्विया (*urviyā*)—with great regard
+- सु विदो (*su vido*)—knowing, accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, give me abundantly those riches, endowed with excellent horses, with which I shall worship you while reciting excellent praises. With those riches that are fit for a good life, may we cross over all hardships. Knowing it, accept with great regard our praise that is composed at this time of the rite.
+
+##### English translation
+Do you, Indra, grant me ample riches and excellent horses with which I may honour (the gods) proffering praises; with well-acquired (riches) let us cross over all iniquity, accept our praise to day with the might.
+
+### Printed p. 490
+## Sūkta 114 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> घर्मेति दशर्चं द्वितीयं सूक्तं । सध्रिर्नाम वैरूप ऋषिः । तपसः पुत्रो
+> घर्मो वा । चतुर्थी जगती । शिष्टास्त्रिष्टुभः । तथा चानुक्रांतं । घर्मा सध्रिस्तापसो वा घर्मो वैश्वदेवं चतुर्थी जगतीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, beginning घर्मेति (*gharmeti*), has ten Ṛks. Its seer is Sadhri Vairūpa, or Gharma, the son of Tapas. The fourth Ṛk is in jagatī, the rest in triṣṭubh. Sāyaṇa quotes the Anukramaṇī: घर्मा सध्रिस्तापसो वा घर्मो वैश्वदेवं चतुर्थी जगतीति (*gharmā sadhristāpaso vā gharmo vaiśvadevaṃ caturthī jagatīti*). The viniyoga has already been given.
+
+##### Anuvāda
+
+This sūkta, beginning घर्मा (*gharmā*), is the second sūkta in the tenth anuvāka. It has ten Ṛks. Its seer is one named Sadhri Vairūpa, or Gharma, the son of Tapas; its deity is the Viśvedevas; the fourth Ṛk of this sūkta is in jagatī metre and the remaining Ṛks are in triṣṭubh. The Anukramaṇī says: घर्मा सध्रिस्तापसो वा घर्मो वैश्वदेवं चतुर्थि जगती (*gharmā sadhristāpaso vā gharmo vaiśvadevaṃ caturthi jagatī*); the viniyoga was stated earlier.
+**NOTE**
+
+Particulars: Maṇḍala 10; Anuvāka 10; Sūkta 114. Aṣṭaka 8; Adhyāya 6; Vargas 16, 17. Number of Ṛks in the sūkta: 10. Seer: Sadhri Vairūpa, or Gharma Tāpasa. Deity: the Viśvedevas. Metre: Ṛks 1–3 and 5–10 triṣṭubh; Ṛk 4 jagatī.
+
+### Printed p. 491
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घ॒र्मा समं॑ता त्रि॒वृतं॒ व्या॑पतु॒स्तयो॒र्जुष्टं॑ मात॒रिश्वा॑  
+> जगाम ।  
+> दि॒वस्पयो॒ दिधि॑षाणा अनेषन्नि॒दुर्दे॒वाः स॒हसा॑मानम॒र्कं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घर्मा । संअंता । त्रिवृतं । वि । आपतुः । तयोः । जुष्टिं । मातरिश्वा । जगाम ।  
+> दिवः । पयः । दिधिषाणाः । अवेषन् । विदुः । देवाः । सहसामानं । अर्क० ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समंता समंतौ संव्याप्तदिगंतौ घर्मा ॥ घर्मा
+> दीप्यमानावग्न्यादित्यौ त्रिवृतं । त्रयो ना इमे त्रिवृतो नोकाः । ऐ. आ. १-१-२ ।
+> इत्याम्नानात् । त्रैलोक्यं व्यापतुः । स्वतेजोभिर्व्याप्तवंतौ । मातरिश्वांतरिक्षे
+> वर्तमानो वायुस्तयोरग्न्यादित्त योर्जुष्टिं प्रीतिं जगाम । गतवान् । यदा
+> सहसामानं । सामशब्द उपलक्षकः । वेदत्रयतेजसहितं । सर्वं तेजः सामरूपं
+> ह शश्वदित्याम्नानात् । ईदृशमर्कमर्चनीयं सूर्यं देवा दीप्यमानाः स्वरश्मयो
+> विदुः विविदुः लेभिरे प्रापुः तदा दिधिषाणा लोकधारणशीलास्ते दिवो म्युलोकस्य
+> संबंधि पय उदकमवेशन् । व्याप्तवंतः । ववर्षुरित्यर्थः ॥ दिवस्वय इत्यत्र
+> षष्ठ्याः पतिपुत्रेऽसत्वं । दिधिषाणाः । धिष धारणे । चानश् । शपः श्लुः । यद्वा । धि
+> धारणे । सनंतस्य जानश् । अज्जनगमां सनीति दीर्घाभावश्चांदसः ॥ यद्वा । समंतौ
+> संगतौ घर्मौ स्वयं दीप्यमान् जीवेश्वरौ त्रिवृतं सत्त्वरजस्तमोगुणात्मिकां
+> मायां व्यापतुः । नियंतृनियंतव्यभावेन मातरिश्वा परमात्मा तयोर्जुष्टिं
+> संभोक्तव्यपदार्थैः संजातां प्रीतिं जगाम । गतवान् । तं परमात्मानं वेदमयमिमं सूर्यमिति देवा जानंति ॥
+
+##### Gist of the bhāṣya
+
+समंता (*samaṃtā*) means those two whose ends reach the quarters; घर्मा (*gharmā*) means the two shining ones, Agni and Āditya. They pervaded the threefold (त्रिवृतं (*trivṛtaṃ*)), the three worlds, with their own radiance, as the tradition has it: त्रयो ना इमे त्रिवृतो नोकाः (*trayo nā ime trivṛto nokāḥ*) (Ai. Ā. 1-1-2). Mātariśvā, the wind that dwells in the atmosphere, attained (जगाम (*jagāma*)) the pleasure (जुष्टिं (*juṣṭiṃ*)) of those two. Or else: when the shining gods, that is, the rays, found, reached, the adorable sun (अर्कं (*arkaṃ*)) together with the Sāman (सहसामानं (*sahasāmānaṃ*); the word Sāman stands for the whole, so "with the radiance of the three Vedas"; the tradition says *sarvaṃ tejaḥ sāmarūpaṃ ha śaśvaditi*), then those world-sustaining ones (दिधिषाणाः (*didhiṣāṇāḥ*)) poured down (अवेषन् (*aveṣan*)) the water (पयः (*payaḥ*)) belonging to the heavenly world.
+Another explanation: the two Gharmas, समंतौ (*samaṃtau*), the self-luminous individual self and the Lord, pervaded the threefold Māyā, whose nature is the three guṇas, sattva, rajas and tamas. Mātariśvā, the Supreme Self, as controller of what is to be controlled, attained the pleasure born of the objects to be enjoyed. The gods know him, the Supreme Self, as this Vedic sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समंता (*samaṃtā*)—those that pervade all the quarters
+- घर्मा (*gharmā*)—the shining Agni and Ādityas
+- त्रिवृतं (*trivṛtaṃ*)—the three worlds
+- व्यापतुः (*vyāpatuḥ*)—have pervaded
+- मातरिश्वा (*mātariśvā*)—the wind
+- तयोः (*tayoḥ*)—for Agni and Āditya
+- जुष्टिं (*juṣṭiṃ*)—pleasure
+- जगाम (*jagāma*)—has produced
+
+### Printed p. 492
+- सहसामानं (*sahasāmānaṃ*) (when)—one endowed with radiance in the form of the three Vedas
+- अर्कं (*arkaṃ*)—the adorable sun
+- दिधिषाणाः (*didhiṣāṇāḥ*)—having the power to sustain the worlds
+- देवाः (*devāḥ*)—the shining rays
+- विदुः (*viduḥ*)—approached; then
+- दिवः (*divaḥ*)—belonging to the heavenly world
+- पयः (*payaḥ*)—the waters
+- अवेषन् (*aveṣan*)—rained down
+
+##### भावार्थ (Bhāvārtha)
+
+Agni and Āditya, who pervade all the quarters and are shining, have pervaded the three worlds. The wind has produced pleasure for Agni and Āditya. When the shining rays, which have the power to sustain the worlds, approached the sun, who is adorable and endowed with radiance in the form of the three Vedas, then the waters belonging to the heavenly world rained down.
+
+##### English translation
+The two sources of heat (Agni and Aditya) spreading to the limit (of the horizon), have pervaded the threefold (universe); Matariswan has come to give them pleasure; (when) the shining (rays) reached the adorable (sun), having the brilliancy of the Saman, sustaining (the universe), they attained the water of heaven.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒स्रो दे॒ष्ट्राय॒ निर्ऋ॑ती॒रुपा॑सते दीर्घ॒श्रुतो॒ वि हि जा॒नंति॒  ॑
+> वह्नयः ।  
+> तासां॒ नि चि॑क्कुः क॒वयो॑ नि॒दानं॒ परे॑षु॒ या गुह्ये॑षु  ॒॑
+> व्रतेषु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिस्रः । देष्ट्राय । निःऋतिः । उप । आसते । दीर्घश्रुतः । वि । हि । जानंति । वह्नयः।  
+> शासां । नि । चिक्क्युः । कवयः । निदानं । परेषु । याः । गुह्येषु । व्रतेषु ॥ २ ॥
+
+### Printed p. 493
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> निर्ऋतीः । पृथिवीनामैतत् । अनेनेतरलोकावुपलक्ष्येते । तत्राधिष्ठितास्तिस्रोऽग्न्यादिदेवता देष्टाय हविषां प्रदानायोपासते । यजमाना उपाननं
+> कुर्वते । ततो दीर्घश्रुतः प्रभूतकीर्तयो वह्नयो जगतः प्रापिकास्ता देवता
+> वि जानंति । एतैः कृतामुपासनां मन्वत एव । यद्वा । निर्ऋतिः । निःशेषेणर्च्यंति
+> गच्छंतीति निर्ऋतयः । तास्ति स्रः सृष्टिस्थितिसंहृतीर्देष्ट्रायात्मनः कर्मभोगदानायोपासते ते दीर्घश्रुतो दीर्घ० संसारे शृण्वंतो मंतव्यदृश्यादिपदार्थं
+> जानंतः । मंत्रदृष्ट्यादिरूपमजानंत इत्यर्थः । अत एव वह्नयः संसारस्य
+> वोढारस्ता न जानंति । कवयः क्रांतदर्शिनस्तु तासां सृष्ट्यादीनामुग्न्यादीनां वा
+> निदानं मूलकारणं परमात्मानं नि चिक्क्युः । नितरां चिन्वंति जानंति । परेषूत्कृष्टेषु ना गुह्येषु ना गोप्तव्येषु कर्मसु यमनियमादिषु व्रतेषु याः
+> प्रवृत्तयः संति तासां निदानं नि चिक्क्युः । जानंति ॥ चिञ् चयने । लिटि विभाषांचेरित्यभ्यासामुत्तरस्य कवर्णादेशः ! यद्वा। चायतेर्लिटि चायः की । पा. ६-१-३५ ।
+> इतिच्छंदसि कीत्यादेशः ॥
+
+##### Gist of the bhāṣya
+
+निर्ऋतीः (*nirṛtīḥ*) is a name of the earth; by it the other worlds are also meant. The three deities, Agni and the others, stationed there are worshipped by the sacrificers (उपासते (*upāsate*)) so that they may give (देष्ट्राय (*deṣṭrāya*)) oblations. Then these deities, far-famed (दीर्घश्रुतः (*dīrghaśrutaḥ*)) and carriers (वह्नयः (*vahnayaḥ*)) who bring the world to its goal, know the worship done by these; they do acknowledge it.
+Or else: निर्ऋतिः (*nirṛtiḥ*) are those that go (ऋ (*ṛ*)) completely. The three, creation, preservation and dissolution, are served to give the self the fruit of its action. Those who hear for long (दीर्घश्रुतः (*dīrghaśrutaḥ*)) in the round of rebirth know only the thing to be thought of and seen; they do not know what the vision of the mantra and the like is. Hence the carriers (वह्नयः (*vahnayaḥ*)) of saṃsāra do not know them. But the seers (कवयः (*kavayaḥ*)), who see beyond, know thoroughly (नि चिक्क्युः (*ni cikkyuḥ*)) the origin (निदानं (*nidānaṃ*)), the root cause, the Supreme Self, of those, creation and the rest, or of Agni and the others. They know the origin of those activities that exist in the highest (परेषु (*pareṣu*)), secret (गुह्येषु (*guhyeṣu*)) works, that is, those to be guarded, and in the vows (व्रतेषु (*vrateṣu*)) such as the yamas and niyamas. Sāyaṇa then explains नि चिक्क्युः (*ni cikkyuḥ*) from the root चिञ् (*ciñ*) "to gather", with an alternative derivation from *cāyateḥ* (Pā. 6-1-35).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- निर्ऋतीः (*nirṛtīḥ*)—resting on the three worlds
+- तिस्रः (*tisraḥ*)—the deities Agni, Vāyu and Āditya
+- देष्ट्राय (*deṣṭrāya*)—to offer oblations
+- उपासते (*upāsate*)—the sacrificers worship
+- दीर्घश्रुताः (*dīrghaśrutāḥ*)—those of great fame
+- वह्नयः (*vahnayaḥ*)—these deities, who bear the worlds
+- वि जानंति (*vi jānaṃti*)—know their worship
+- कवयः (*kavayaḥ*)—the wise (knowers of reality)
+- परेषु (*pareṣu*)—in the highest
+- गुह्येषु (*guhyeṣu*)—and secret
+- व्रतेषु (*vrateṣu*)—works
+- याः (*yāḥ*)—those deities who are engaged in them
+- तासां (*tāsāṃ*)—of these deities
+- निदानं (*nidānaṃ*)—the root cause (the Supreme Self)
+- नि चिक्युः (*ni cikyuḥ*)—have fully known
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers worship, by offering oblations, the deities Agni, Vāyu and Āditya, who rest on the three worlds. These deities, who are of great fame and bear the worlds, know their worship. The wise fully know the root cause of those deities who are engaged in the highest and secret works.
+
+##### English translation
+The three Nirritis do obeisance for the gifts (of oblations), for (the gods), the far-famed sustainers (of the universe), know (their obeisance); the
+
 ---
 
-**Progress note:** Done through printed p. 487. pp. 482-487 (batch API)
+**Progress note:** Done through printed p. 493. pp. 488-493 (batch API)
