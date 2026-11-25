@@ -10596,6 +10596,201 @@ The भोजाः (*bhojāḥ*), those who feed others, givers by giving wealt
 
 Those who give pleasure by the gift of dakshina do not die. They do not attain a low state. They are not harmed. For them there is no destruction. All this multitude of beings that exists, the heaven that exists, all that the dakshina provides for the givers.
 
+### Printed p. 283
+
+##### English translation
+The givers of enjoyment do not die. they do not go to destruction, they suffer no injury, the givers of enjoyment snffer no pain. Dakshina gives them all this world and the entire heaven.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भो॒जा जि॑ग्युः सुर॒भिं योनि॒मग्रे॑ भो॒जा जि॑ग्युर्व॒ध्वं१॒॑  ॒॑
+> या सु॒वासाः॑ ।  
+> भो॒जा जि॑ग्युरंतः॒पेयं॒ सुरा॑या भो॒जा जि॑ग्यु॒र्ये अहू॑ताः प्र॒यंति॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भोजाः । जिग्युः । सुरभिं । योनिं । आग्रे । भोजाः । जिग्युः । वध्वं । या । सुनासाः ।  
+> भोजाः । जिग्युः । अंतःपेयं । सुरायाः । भोजाः । जिग्युः । ये । अहूताः ।  
+> प्रयंति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भोजा दातारोऽग्रे प्रथममेव योनिं क्षीरादेरुत्पत्तिस्थानं सुरभिं
+> धेनुं जिग्युः । शत्रुभ्यो जितवंतः ॥ जि जये । लिटि सन्‌लिटोर्जॆरित्यभ्यासादुत्तरस्य कवर्गादेशः ॥ तथा भोजा दातारो वध्वं वधूं नवोढां स्त्रीं जिग्युः । या
+> स्त्री सुवासाः शोभनवासा अस्ति तां जिग्युः । किंच भोजाः शत्रूणां सुराया
+> अंतःपेयमंतःपानं जिग्युः ॥ पा पाने । भावे यत् । ईद्यतीतीत्वं । अर्धधातुकलक्षणो गुणः । कृदुत्तरपदप्रकृतिस्वरत्वं ॥ ये शत्रवोऽहूता बलाधिक्येनाहूयमानाः प्रयंति प्रमुखमागच्छंति तान्भोजा दक्षिणाया दातारो जना
+> जिग्युः । जयंति ॥
+
+##### Gist of the bhāṣya
+
+The bhojas, the givers, at the very first won the cow, the source (योनिं (*yoniṃ*)) of milk and the like, from their enemies. Likewise the bhojas won the bride (वध्वं (*vadhvaṃ*)), a newly wedded woman, the woman who is well-clad (सुवासाः (*suvāsāḥ*)). Further, the bhojas won from their enemies the inner drink (अंतःपेयं (*aṃtaḥpeyaṃ*)) of surā. And those enemies who come forward unsummoned (अहूताः (*ahūtāḥ*)), that is, called forth on account of their superior strength, advancing to the front, them the bhojas, the givers of dakshina, conquer.
+
+### Printed p. 284
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भोजाः (*bhojāḥ*)—those who give dakshina
+- अग्रे (*agre*)—at the very first
+- योनिं (*yoniṃ*)—the source of milk and the like
+- सुरभिं (*surabhiṃ*)—the cow
+- जिग्युः (*jigyuḥ*)—win from their enemies
+- या (*yā*)—who
+- सुवासाः (*suvāsāḥ*)—adorned with excellent garments and the like
+- वध्वं (*vadhvaṃ*)—a beautiful maiden
+- जिग्युः (*jigyuḥ*)—obtain
+- भोजाः (*bhojāḥ*)—the givers of dakshina
+- सुरायाः (*surāyāḥ*)—of the enemies' surā
+- अंतःपेयं (*aṃtaḥpeyaṃ*)—the excellent drink
+- जिग्युः (*jigyuḥ*)—obtain
+- ये (*ye*)—which enemies
+- अहूताः (*ahūtāḥ*)—without confronting
+- प्रयंति (*prayaṃti*)—come under control; those enemies
+- भोजाः (*bhojāḥ*)—the givers of dakshina
+- जिग्युः (*jigyuḥ*)—conquer
+
+##### भावार्थ (Bhāvārtha)
+
+Those who give dakshina win from their enemies the cow, the source of milk and the like. They obtain a beautiful maiden adorned with excellent garments and the like. They drink the enemies' surā. Without toil they bring their enemies under control.
+
+##### English translation
+The givers of enjoyment first won the cow the source (of food), the givers of enjoyment have won a bride who was beautifully attaired, the givers of enjoyment have won deep potations of wine, the givers of enjoyment have conquered those who without being challenged advance to meet them.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भो॒जायाश्वं॒ सं मृ॑जंत्या॒शुं भो॒जया॑स्ते क॒न्या॒३॒॑शु शुंभ॑माना ।  
+> भो॒जस्ये॒दं पु॑ष्क॒रिणी॑व॒ वेश्म॒ परि॑ष्कृतं देवमा॒नेव॑ चि॒त्रं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भोजाय ! अश्वं । सं । मृजंति । आशुं । भोजाय । आस्ते । कन्या । शुंभमाना ।  
+> भोजस्य । इदं । पुष्करिणीइव । वेश्म । परिष्कृतं । देवमानाइव । चित्रं ॥ १० ॥
+
+### Printed p. 285
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भोजाय दात्र आशुं शीघ्रगामिनमश्वं सं मृजंति । परिचारकाः सम्यगलंकुर्वंति ॥ मृजू शौचालंकारयोः ॥ तथा कन्या । कन्यात्वेनात्र संनिकर्षादभिनवं
+> यौवनं लक्ष्यते । अभिनवयौवना शुंभमाना शरीरावयवशोभया वस्त्राद्यलंकारशोभया च शोभमाना स्त्री तस्मै भोजाय दात्र आस्ते । तथा भोजस्य
+> दातुरेव हृदयाह्लादकरं वेश्म गृहं भवति । कीदृशं । पुष्करिणीव । पुष्कराणि
+> पद्मानि यस्या संतीति पुष्करिणी सरसी । सा यथा पद्महंसादिभिरलंकृता भवति तद्वत्
+> परिष्कृतं वितानादिभिरलंकृतं ॥ परिपूर्वस्य करोतेर्भूषणार्थे संहितायां
+> सुडागमः । परिनिविभ्य इति सुटः षत्वं । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥ तथा
+> देवमानेव ॥ सुपां सुलुगिति प्रथमैकवचनस्याकारः ॥ देवमानमिव चित्रं
+> मनोहरं वेश्म तस्य भवति ॥
+
+##### Gist of the bhāṣya
+
+For the bhoja, the giver, attendants deck out the swift-going horse (आशुं (*āśuṃ*)), adorning it well. Likewise the kanyā: by the word kanyā, because of closeness to that state, fresh youth is meant here. A woman of fresh youth, shining (शुंभमाना (*śuṃbhamānā*)) with the beauty of her bodily limbs and the beauty of adornment by garments and the like, is for that bhoja, the giver. Likewise the dwelling (वेश्म (*veśma*)) of the giver alone becomes a delight to the heart. Of what kind? Like a puṣkariṇī: a lake which has lotuses (puṣkara). As that is adorned with lotuses, swans and the like, so the house is adorned (परिष्कृतं (*pariṣkṛtaṃ*)) with canopies and the like. Likewise, like a devamāna, a charming, wonderful dwelling belongs to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भोजाय (*bhojāya*)—for him who gives dakshina
+- आशुं (*āśuṃ*)—swift-going
+- अश्वं (*aśvaṃ*)—the horse
+- सं मृजंति (*saṃ mṛjaṃti*)—attendants adorn
+- कन्या (*kanyā*)—the beautiful maiden
+- शुंभमाना (*śuṃbhamānā*)—adorned
+- भोजाय (*bhojāya*)—to him who gives dakshina
+- आस्ते (*āste*)—is presented
+- पुष्करणीव (*puṣkaraṇīva*)—as a lake is adorned with lotus flowers
+- परिष्कृतं (*pariṣkṛtaṃ*)—well adorned
+- वेश्म (*veśma*)—the house
+- भोजस्य (*bhojasya*)—belongs to the giver of dakshina
+- देवमानेव (*devamāneva*)—like the dwelling place of the gods
+- चित्रं (*citraṃ*)—is charming (the same house)
+
+##### भावार्थ (Bhāvārtha)
+
+For the master of the sacrifice who gives dakshina, attendants adorn the swift-going horse. A beautiful maiden, adorned, is presented to him. As a lake is adorned with lotus flowers, a house adorned with banners and the like falls to the giver of dakshina. That same house is charming like the dwelling place of the gods.
+
+##### English translation
+For the giver of enjoyment they deck out a fleet horse, to the giver enjoyment is presented a maiden beautifully adorned, to the giver of enjoyment belongs this dwelling, adorned like a lake full of lotus flowers, delightful as a dwelling of the gods.
+
+### Printed p. 286
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भो॒जमश्वाः॑ सुष्टु॒वाहो॑ वहंति सु॒वृद्रथो॑ वर्तते॒  ॑
+> दक्षि॑णायाः ।  
+> भो॒जं दे॑वासोऽवता॒ भरे॑षु भो॒जः शत्रू॑न्त्समनी॒केषु॒  ॑
+> जेता ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भोजं । अश्वाः । सुष्टुवाहः । वहंति । सुवृत् । रथः । वर्तते । दक्षिणायाः ।  
+> भोजं । देवासः । अवत । भरेषु । भोजः । शत्रून् । संअनीकेषु । जेता ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुष्टुवाहः ॥ वह प्रापणे । वहश्चति णिप्रत्ययः ॥ शोभनवहनसमर्था
+> अश्वा भोजं दातारं वहंति । लक्ष्यं देशं प्रापयंति । ततो दक्षिणाया दातुर्यजमानस्य सुवृत् सुष्टु चक्रादिवर्तनं यस्य सोऽश्वादिसहितो रथो वर्तते ।
+> अथ प्रत्यक्षः । हे देवासो हे देवा इंद्रादयः भरेषु । भ्रियत आहवनीयादिरूपेणाग्निरत्रेति भरा यज्ञाः । यद्वा ॥ भृ भर्तने ॥ भृणंति भर्त्सयंति
+> योद्धारोऽत्रेति भराः संग्रामाः । तेषु भोजं दातारमवत । रक्षत । ततो
+> युष्माभिः पालितो भोजो धनादिदानेन जनानां भोजयिता सॆन् समनीकेषु
+> संग्रामेषु शत्रू इज्जॆता जयशीलो भवति ॥ जि जये । ताच्चिलिकस्तृन् । अत एव न
+> लोकाव्ययेति शत्रुशब्दस्य षष्ठिप्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+Horses well able to carry (सुष्टुवाहः (*suṣṭuvāhaḥ*)) bear the bhoja, the giver; they bring him to the goal he aims at. Then for the giver of dakshina, the sacrificer, there is at hand the chariot with the horses and the rest, whose wheels and the like turn well (सुवृत् (*suvṛt*)). Now he addresses directly: O gods, O Indra and the others, protect the giver, the bhoja, in the bharas. Bharas are sacrifices, since Agni is borne (भ्रियत (*bhriyata*)) in them in the forms of the āhavanīya and the rest; or else, from the root भृ भर्तने (*bhṛ bhartane*), bharas are battles, where the warriors threaten one another. Protect the giver in them. Then, protected by you, the bhoja, who feeds people by giving wealth and the like, becomes victorious over his enemies in the battles (समनीकेषु (*samanīkeṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुष्टुवाहः (*suṣṭuvāhaḥ*)—able to carry heavy loads
+- अश्वाः (*aśvāḥ*)—horses
+- भोजं (*bhojaṃ*)—him who gives dakshina
+- हंति (*haṃti*)—carry
+- दक्षिणायाः (*dakṣiṇāyāḥ*)—for the master of the sacrifice who gives dakshina
+- सुवृत् (*suvṛt*)—furnished with an excellent wheel
+- रथः (*rathaḥ*)—the chariot
+- वर्तते (*vartate*)—is ready
+- देवासः (*devāsaḥ*)—O gods
+- भरेषु (*bhareṣu*)—in battles
+- भोजं (*bhojaṃ*)—the giver of dakshina
+- अवत (*avata*)—protect
+- भोजः (*bhojaḥ*)—he who gives dakshina
+- समनीकेषु (*samanīkeṣu*)—in battles
+- शत्रून् (*śatrūn*)—the enemies
+- जेता (*jetā*)—becomes able to conquer
+
+### Printed p. 287
+
+##### भावार्थ (Bhāvārtha)
+
+Horses able to carry heavy loads carry him who gives dakshina. For the master of the sacrifice who gives dakshina, a chariot furnished with an excellent wheel is ready. O gods, protect in battles him who gives dakshina. He who gives dakshina conquers his enemies in battles.
+
+##### English translation
+Horses capable of bearing hevvy burdens bear the giver of enjoyment, a well-constructed chariot rolls along (for the giver) of the dakshina; O gods, protect the giver of enjoyment in combats; may the giver of enjoyment be the victor over his foes in battles.
+
+## Sūkta 108 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+Introduction. In this sūkta the conversation between the asuras called Paṇis and Saramā, the divine bitch (female dog) who was with Indra, is told. The matter of Saramā and her two pups, the two dogs called Sārameyau, is stated in the Ṛks
+इंद्रस्यांगिरसां जेष्टौ विदत्सरमा तनयाय धासिं । बृहस्पतिर्भिनदद्रिं विदद्गाः समुस्रियाभिर्नावशंत नरः ॥ (*iṃdrasyāṃgirasāṃ jeṣṭau vidatsaramā tanayāya dhāsiṃ | bṛhaspatirbhinadadriṃ vidadgāḥ samusriyābhirnāvaśaṃta naraḥ ‖*)
+अनूनोदत्र हस्तयतो अद्रिरार्चन्येन दश मासो नवग्वाः । ऋतं यती सरमा गा अविंदद्विश्वानि सत्यांगिराश्चकार ॥ (*anūnodatra hastayato adrirārcanyena daśa māso navagvāḥ | ṛtaṃ yatī saramā gā aviṃdadviśvāni satyāṃgirāścakāra ‖*)
+विश्वे अस्या वृषि माहिनायाः सं यद्योभिरंगिरसो नवंत । उत्स आसां परमे सदस्य ऋतस्य पथा सरमा विदद्दाः ॥ (*viśve asyā vṛṣi māhināyāḥ saṃ yadyobhiraṃgiraso navaṃta | utsa āsāṃ parame sadasya ṛtasya pathā saramā vidaddāḥ ‖*) (Ṛ. Saṃ. 5-85-7, 8)
+(the first of these is given with the reference Ṛ. Saṃ. 1-62-3). In the matter of her searching out the cows of the gods hidden by the Paṇis, and bringing the news and informing the gods, Sāyaṇa, in his commentary on Ṛ. Saṃ. 1-62-3, tells a story:
+अत्रेदमाख्यानं । सरमा नाम देवशुनी । पणिभिर्गोष्टपहृतासु तद्गवेषणाय तां सरमामिंद्रः प्राहैषीत् । यथा लोके व्याधो वनांतर्गत- मृगान्वेषणाय श्वानं विसृजति तद्वत् । सा च सरमैवमवोचत् । हे इंद्र अस्मदीयाय शिशवे तद्दोसंबंधि क्षीरान्नं यदि प्रयच्छसि तर्हि गमिष्या माति । स तथेत्यब्रवीत् । तथा च शाट्कायनकं । अन्नादिनीं ते सरमे प्रजां करोमि या नो गा अन्वविंद इति । ततो गत्वा गवां स्थानमज्ञासीत् । ज्ञात्वा चास्कै न्यवेदयत् । तथा निवेदितासु गोषु तमसुरं हत्वा ता गाः स इंद्रोऽलभतेति । अयमर्थोऽस्यां प्रतिपाद्यते ॥ (*atredamākhyānaṃ | saramā nāma devaśunī | paṇibhirgoṣṭapahṛtāsu tadgaveṣaṇāya tāṃ saramāmiṃdraḥ prāhaiṣīt | yathā loke vyādho vanāṃtargata- mṛgānveṣaṇāya śvānaṃ visṛjati tadvat | sā ca saramaivamavocat | he iṃdra asmadīyāya śiśave taddosaṃbaṃdhi kṣīrānnaṃ yadi prayacchasi tarhi gamiṣyā māti | sa tathetyabravīt | tathā ca śāṭkāyanakaṃ | annādinīṃ te sarame prajāṃ karomi yā no gā anvaviṃda iti | tato gatvā gavāṃ sthānamajñāsīt | jñātvā cāskai nyavedayat | tathā niveditāsu goṣu tamasuraṃ hatvā tā gāḥ sa iṃdro 'labhateti | ayamartho 'syāṃ pratipādyate ‖*) (Sā. Bhā.)
+
+Saramā is the bitch that is with the gods. When the demons named Paṇis had stolen the cows of the gods and hidden them in a cave, Indra sent this divine bitch Saramā to search for those cows. As in the world a hunter sends the hunting dog he keeps by him to look for animals, so Indra too sent this divine bitch to seek the cows. Then she spoke to Indra thus: "O Indra, if you give milk-food for my pup, I will go and bring the cows after searching for them." (As the people of the Śāṭyāyana school relate: अन्नादिनीं ते सरमे प्रजां करोमि या नो गा अन्वविंद इति (*annādinīṃ te sarame prajāṃ karomi yā no gā anvaviṃda iti*)—"O Saramā, I will provide food for your pup; go and find the cows and come back.") Indra said "So be it". The bitch set out, searched, found the region where the Paṇis had hidden the cows, and told Indra. Indra, learning it, destroyed those asuras, freed the cows of the gods and brought them back. This is the sense that is set forth in this Ṛk.
+
+Saramā is the bitch of the gods, that is, of Indra. It is known that she had two pups, that they were with Yama, the god of death, and that they were called Sārameyau after their mother's name:
+आति द्रव सारमेय् श्वान् चतुरक्षौ शबल् साधुना पथा । (*āti drava sāramey śvān caturakṣau śabal sādhunā pathā |*) (Ṛ. Saṃ. 10-14-10)
+यौ शे श्वानौ यमरक्षितार् चतुरक्षौ पथिरक्षी नृचक्षस् ॥ (*yau śe śvānau yamarakṣitār caturakṣau pathirakṣī nṛcakṣas ‖*) (Ṛ. Saṃ. 10-14-11)
+**NOTE**
+In these Ṛks the matter of the two dogs called Sārameyau, the pups of the divine bitch Saramā, and the matter of their having four eyes, is learnt.
+
+### Printed p. 288
+
+The matter of the divine bitch Saramā mentioned above going to the Paṇis and negotiating with them is described in the 108th sūkta of the 10th Maṇḍala of the Ṛgveda (the present sūkta) in this way—
+
 ---
 
-**Progress note:** Done through printed p. 282. pp. 277-282 (batch API)
+**Progress note:** Done through printed p. 288. pp. 283-288 (batch API)
