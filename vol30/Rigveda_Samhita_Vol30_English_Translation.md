@@ -41578,6 +41578,170 @@ subject is not directly connected with the meaning of this Ṛk, and it cannot b
 
 तं परिवर्तमानमन्योऽनुप्रवर्तते स्रष्टा द्रष्टा विभक्तातिमात्रोऽहमिति गम्यते स मिथ्यादर्शनेदं पावकं महाभूतेषु चिरोण्वाकाशाद्वायोः प्राणाः चक्षुश्च वक्तारं च तेजसोऽद्भ्यः स्नेहं पृथिव्याः मूर्तिः पार्थिवांस्त्वष्टौ गुणान् विद्यात् त्रिन्मातृतस्त्रीन् पितृतोऽस्थिस्नायुमज्ञानः पितृतस्त्वज्ञांसशोणितानि मातृतोऽन्नं पानमित्यष्टौ सोऽयं पुरुषः सर्वमयः सर्वज्ञानोऽपि क्लृप्तः ॥ (*taṃ parivartamānamanyo 'nupravartate sraṣṭā draṣṭā vibhaktātimātro 'hamiti gamyate sa mithyādarśanedaṃ pāvakaṃ mahābhūteṣu ciroṇvākāśādvāyoḥ prāṇāḥ cakṣuśca vaktāraṃ ca tejaso 'dbhyaḥ snehaṃ pṛthivyāḥ mūrtiḥ pārthivāṃstvaṣṭau guṇān vidyāt trinmātṛtastrīn pitṛto 'sthisnāyumajñānaḥ pitṛtastvajñāṃsaśoṇitāni mātṛto 'nnaṃ pānamityaṣṭau so 'yaṃ puruṣaḥ sarvamayaḥ sarvajñāno 'pi klṛptaḥ ‖*) (Ni. 14-5)
 
+### Printed p. 1210
+स यद्यनुरुध्यते तद्भवति यदि धर्मोऽनुरुध्यते तद्देवो भवति यदि ज्ञानमनुरुध्यते तदमृतो भवति यदि काममनुरुध्यते संच्यवत इमां योनिं संदध्यात् तदिदमत्र मतं श्लेष्मा रेतसः संभवति, श्लेष्मणो रसः रसाच्चोणितं शोणितान्मांसं मांसान्वेदः मेदसः स्नावा स्नावोऽस्थीनि अस्थिभ्यो मज्जा मज्जातो रेतः तदिदं योन् रेतः सिक्तं पुरुषः संभवति। शुक्रातिरेके पुमान् भवति शोणातिरेके स्त्री भवति, द्वाभ्यां समेन नपुंसको भवति शुक्रेण भिन्नेन यमो भवति शुक्रशोणितसंयोगान्मातृपितृसंयोगाच्च तत् कथमिदं शरीरं परं संयम्यते, सौम्यो भवत्येकरात्रोषितं कललं भवति, पंचरात्राद्भुद्ददाः, सप्तरात्रात् पेशी, द्विसप्तरात्रादर्बुदः, पंचविंशतिरात्रः स्वस्थितो घनो भवति, मासमात्रात्कठिनो भवति, द्विमासाभ्यंतरे शिरः संपद्यते, मासत्रयेण ग्रीवान्यादेशः, मासचतुष्टेण त्वग्व्या देशः, पंचमे मासे नखरोमव्यादेशः षष्ठे मुखनासिकाक्षिशोत्रं च संभवति, सप्तमे चलनसमर्थो भवति, अष्टमे बुद्ध्याध्यवस्यति, नवमे सर्वांगसंपूर्णो भवति ॥ (*sa yadyanurudhyate tadbhavati yadi dharmo 'nurudhyate taddevo bhavati yadi jñānamanurudhyate tadamṛto bhavati yadi kāmamanurudhyate saṃcyavata imāṃ yoniṃ saṃdadhyāt tadidamatra mataṃ śleṣmā retasaḥ saṃbhavati, śleṣmaṇo rasaḥ rasāccoṇitaṃ śoṇitānmāṃsaṃ māṃsānvedaḥ medasaḥ snāvā snāvo 'sthīni asthibhyo majjā majjāto retaḥ tadidaṃ yon retaḥ siktaṃ puruṣaḥ saṃbhavati| śukrātireke pumān bhavati śoṇātireke strī bhavati, dvābhyāṃ samena napuṃsako bhavati śukreṇa bhinnena yamo bhavati śukraśoṇitasaṃyogānmātṛpitṛsaṃyogācca tat kathamidaṃ śarīraṃ paraṃ saṃyamyate, saumyo bhavatyekarātroṣitaṃ kalalaṃ bhavati, paṃcarātrādbhuddadāḥ, saptarātrāt peśī, dvisaptarātrādarbudaḥ, paṃcaviṃśatirātraḥ svasthito ghano bhavati, māsamātrātkaṭhino bhavati, dvimāsābhyaṃtare śiraḥ saṃpadyate, māsatrayeṇa grīvānyādeśaḥ, māsacatuṣṭeṇa tvagvyā deśaḥ, paṃcame māse nakharomavyādeśaḥ ṣaṣṭhe mukhanāsikākṣiśotraṃ ca saṃbhavati, saptame calanasamartho bhavati, aṣṭame buddhyādhyavasyati, navame sarvāṃgasaṃpūrṇo bhavati ‖*)
+
+मृतश्चाहं पुनर्जातो जातश्चाहं पुनर्मृतः । नानायोनिसहस्राणि मयोषितानि यानि वै ॥ आहारा विविधा भुक्ताः पीता नानाविधाः स्तनाः । मातरो विविधा दृष्टाः पितरः सुहृदस्तथा ॥ अवाज्मुखः पीड्यमानो जंतुश्चैव समन्वितः सांख्यं योगं समभ्यस्येत्पुरुषं ना पंचविंशकं ॥ इति ॥ (*mṛtaścāhaṃ punarjāto jātaścāhaṃ punarmṛtaḥ | nānāyonisahasrāṇi mayoṣitāni yāni vai ‖ āhārā vividhā bhuktāḥ pītā nānāvidhāḥ stanāḥ | mātaro vividhā dṛṣṭāḥ pitaraḥ suhṛdastathā ‖ avājmukhaḥ pīḍyamāno jaṃtuścaiva samanvitaḥ sāṃkhyaṃ yogaṃ samabhyasyetpuruṣaṃ nā paṃcaviṃśakaṃ ‖ iti ‖*)
+
+ततश्च दशमे मासे प्रजायते । जातश्च वायुना स्पृशस्तन्न स्मरति जन्ममरणमंते च शुभाशुभं कर्मैतच्छरीरस्य प्रामाण्यं ॥ ( (*tataśca daśame māse prajāyate | jātaśca vāyunā spṛśastanna smarati janmamaraṇamaṃte ca śubhāśubhaṃ karmaitaccharīrasya prāmāṇyaṃ ‖ (*) (Ni. 14-6)
+
+अष्टोत्तरं संधिशतमष्टाकपालं शिरः संपद्यते षोडश वपापलानि नव स्नायुशतानि सप्तशतं पुरुषस्य मर्मणामर्धचतस्रो रोमाणि कोट्यो हृदयं ह्यष्टकपालानि द्वादशकपालानि जिह्वा वृषणौ ह्यष्टसुपर्णौ तथोपस्थगुदपाय्वेतन्मूत्रपुरीषं कस्मादाहारपानसिक्तत्वानुपचितकर्माणावन्योन्यं जयेते इति तं विद्याकर्मणी समन्वारभेते पूर्वप्रज्ञा च महत्यज्ञानतमसि मग्नौ जरामरणक्षुत्पिसासाशोकक्रोधलोभमोहमदभयमत्सरहर्षविषादेर्ष्यासूयात्मकैर्द्वंद्वैरभिभूयमानः (*aṣṭottaraṃ saṃdhiśatamaṣṭākapālaṃ śiraḥ saṃpadyate ṣoḍaśa vapāpalāni nava snāyuśatāni saptaśataṃ puruṣasya marmaṇāmardhacatasro romāṇi koṭyo hṛdayaṃ hyaṣṭakapālāni dvādaśakapālāni jihvā vṛṣaṇau hyaṣṭasuparṇau tathopasthagudapāyvetanmūtrapurīṣaṃ kasmādāhārapānasiktatvānupacitakarmāṇāvanyonyaṃ jayete iti taṃ vidyākarmaṇī samanvārabhete pūrvaprajñā ca mahatyajñānatamasi magnau jarāmaraṇakṣutpisāsāśokakrodhalobhamohamadabhayamatsaraharṣaviṣāderṣyāsūyātmakairdvaṃdvairabhibhūyamānaḥ*)
+
+### Printed p. 1211
+स्मादार्जवजवीभावानां तन्निर्मुच्यते सोऽस्मापान्नं महाभूमिकावच्छरीरान्निमेषमात्रैः प्रक्रम्य प्रकृतिरधिपरीत्य तैजसं शरीरं कृत्वा कर्मणोऽनुरूपं फलमनुभूय तस्य संक्षये पुनरिमं लोकं प्रतिपद्यते ॥ (*smādārjavajavībhāvānāṃ tannirmucyate so 'smāpānnaṃ mahābhūmikāvaccharīrānnimeṣamātraiḥ prakramya prakṛtiradhiparītya taijasaṃ śarīraṃ kṛtvā karmaṇo 'nurūpaṃ phalamanubhūya tasya saṃkṣaye punarimaṃ lokaṃ pratipadyate ‖*) (Ni. 14-7)
+
+अथ ये हिंसामाश्रित्य विद्यामुत्सृज्य महत्तपस्तेपिरे चिरेण वेदोक्तानि ना कर्माणि कुर्वंति, ते धूममभिसंभवंति, धूमाद्रात्रिं, रात्रेरपक्षीयमाणपक्षं, अपक्षीयमाणपक्षाद्दक्षिणायनं, दक्षिणायनात् पितृलोकं पितृलोकाच्चंद्रमसं, चंद्रमसो वायुं, वायोर्वृष्टिं, वृष्टेरोषधयश्चैतद्भूत्वा तस्य संक्षये पुनरेवेमं लोकं प्रतिपद्यते ॥ (*atha ye hiṃsāmāśritya vidyāmutsṛjya mahattapastepire cireṇa vedoktāni nā karmāṇi kurvaṃti, te dhūmamabhisaṃbhavaṃti, dhūmādrātriṃ, rātrerapakṣīyamāṇapakṣaṃ, apakṣīyamāṇapakṣāddakṣiṇāyanaṃ, dakṣiṇāyanāt pitṛlokaṃ pitṛlokāccaṃdramasaṃ, caṃdramaso vāyuṃ, vāyorvṛṣṭiṃ, vṛṣṭeroṣadhayaścaitadbhūtvā tasya saṃkṣaye punarevemaṃ lokaṃ pratipadyate ‖*) (Ni. 14-8)
+
+अथ ये हिंसामुत्सृज्य विद्यामाश्रित्य महत्तपस्तेपिरे ज्ञानोक्तानि वा कर्माणि कुर्वंति तेऽर्चिरभिसंभवंति अर्चिषोऽहः अह्न आपूर्यमाणपक्षं, आपूर्यमाणपक्षादुदगयनं, उदगयनाद्देवलोकं. देवलोकादादित्यं, आदित्याद्वैद्युतं वैद्युतान्मानसं, मानसः पुरुषो भूत्वा ब्रह्मकमभिसंभवंति, ते न पुनरावर्तंते शिष्टा दंदशूका यत इदं न जानंति तस्मादिदं वेदितव्यं ॥ (*atha ye hiṃsāmutsṛjya vidyāmāśritya mahattapastepire jñānoktāni vā karmāṇi kurvaṃti te 'rcirabhisaṃbhavaṃti arciṣo 'haḥ ahna āpūryamāṇapakṣaṃ, āpūryamāṇapakṣādudagayanaṃ, udagayanāddevalokaṃ. devalokādādityaṃ, ādityādvaidyutaṃ vaidyutānmānasaṃ, mānasaḥ puruṣo bhūtvā brahmakamabhisaṃbhavaṃti, te na punarāvartaṃte śiṣṭā daṃdaśūkā yata idaṃ na jānaṃti tasmādidaṃ veditavyaṃ ‖*) (Ni. 14-9)
+
+## Sūkta 178 (Maṇḍala 10)
+
+Introduction.
+In this sūkta the deity Tārkṣya is praised. Ariṣṭanemi is the seer of this sūkta. We have explained the matter of this deity Tārkṣya and of Ariṣṭanemi, the seer of the sūkta, in the introduction to sūkta 144 of this same maṇḍala, that is, on pages 954-956.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यमू ष्टिति तृचं सप्तविंशं सूक्तं तार्क्ष्यपुत्रस्यारिष्टनेमेरार्षं त्रैष्टुभं
+> तार्क्ष्यदेवताकं । तथा चानुक्रांतं । त्यमू ष्टरिष्टनेमिस्तार्क्ष्यस्तार्क्ष्यमिति ॥ अहर्गणेषु द्वितीयादिष्वहःसु निष्केवल्यसूक्तानां पुरस्तादिदं सूक्तं शंसनीयं ।
+> सूत्रितं च । त्यमू षु वाजिनं देवजूतमिति तार्क्ष्यमग्रे निष्केवल्यसूक्तानां ।
+> आ. ७-१ । इति ॥ विषुवति तु निष्केवल्यसूक्तानामंत एव तत्तूक्तं । सूत्र्यते हि ।
+> त्यमू ष्टीतीह तार्क्ष्यमंततः । आ. ८-६ । इति ॥ महाव्रतेऽपि निष्केवल्य एतत् ।
+> तथैव पंचमारण्यके सूत्र्यते । ऐ. आ. ५-३-१. ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning त्यमू षु (*tyamū ṣu*) is of three Ṛks, the twenty-seventh sūkta. Its seer is Ariṣṭanemi, son of Tārkṣya; its metre is Triṣṭubh; its deity is Tārkṣya. The Anukramaṇī says: त्यमू ष्टरिष्टनेमिस्तार्क्ष्यस्तार्क्ष्यमिति (*tyamū ṣṭariṣṭanemistārkṣyastārkṣyamiti*). In the ahargaṇas, on the second and following days, this sūkta is to be recited before the niṣkevalya sūktas. It is prescribed by the sūtra त्यमू षु वाजिनं देवजूतमिति तार्क्ष्यमग्रे निष्केवल्यसूक्तानां (*tyamū ṣu vājinaṃ devajūtamiti tārkṣyamagre niṣkevalyasūktānāṃ*) (Ā. 7-1). On the Viṣuvat day, however, it is said to come at the very end of the niṣkevalya sūktas; the sūtra says त्यमू ष्टीतीह तार्क्ष्यमंततः (*tyamū ṣṭītīha tārkṣyamaṃtataḥ*) (Ā. 8-6). In the Mahāvrata too it belongs to the niṣkevalya; likewise it is prescribed in the fifth Āraṇyaka (Ai. Ā. 5-3-1).
+
+### Printed p. 1212
+Anuvāda. This sūkta beginning त्यमू षु (*tyamū ṣu*) is the twenty-seventh sūkta in the twelfth anuvāka; it has three Ṛks. Its seer is Ariṣṭanemi, son of Tārkṣya; the deity is Tārkṣya; the metre is Triṣṭubh. The Anukramaṇī says त्यमू ष्टरिष्टनेमिस्तार्क्ष्यस्तार्क्ष्यं (*tyamū ṣṭariṣṭanemistārkṣyastārkṣyaṃ*). This sūkta is to be recited before the sūktas of the niṣkevalya śastra mantras on the second and following days of the ahargaṇa sacrifices; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra त्यमू षु वाजिनं देवजूतमिति तार्क्ष्यमग्रे निष्केवल्यसूक्तानां (*tyamū ṣu vājinaṃ devajūtamiti tārkṣyamagre niṣkevalyasūktānāṃ*) (Ā. 7-1). On the day of the sacrifice called Viṣuvat it is to be recited at the end of the niṣkevalya sūktas; this is explained by the Āśvalāyana Śrauta-sūtra त्यमू ष्टितीह तार्क्ष्यमंततः (*tyamū ṣṭitīha tārkṣyamaṃtataḥ*) (Ā. 8-6). And that this sūkta is used for the niṣkevalya śastra mantras is stated in the fifth Āraṇyaka of the Aitareya Āraṇyaka, in sūtra Ai. Ā. 5-3-1.
+
+Sūkta 178. Maṇḍala 10; Anuvāka 12; Sūkta 178. Aṣṭaka 8; Adhyāya 8; Varga 36. Number of Ṛks in the sūkta: 3. Seer: Ariṣṭanemi Tārkṣya. Deity: Tārkṣya. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं स॒हावा॑नं तरु॒तारं॒ रथा॑नां ।  
+> अरि॑ष्टनेमिं पृत॒नाज॑मा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । ऊं इति । सु । वाजिनं । देवजूतं । सहवानं । तरुतारं । रथानां ।  
+> अरिष्टनेमिं । पृतनाजं । आशुं । स्वस्तये । तार्क्ष्यं । इह । हुवेम ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यमु तं प्रसिद्धमेव तार्क्ष्यं तृषपुत्रं सुपर्णं ॥ तृषाद्यञ् । गर्गादिः ।'
+> स्वस्तये क्षेमायेहास्मिन्कर्मणि हुवेम । भृशमाह्वयेमहि ॥ बहुलं छंदसीति
+
+##### Gist of the bhāṣya
+
+त्यमु (*tyamu*) means that same well-known Tārkṣya, son of Tṛṣa, the Suparṇa. **NOTE** स्वस्तये (*svastaye*) is "for welfare"; "here", in this rite, हुवेम (*huvema*) means "we would call exceedingly".
+
+### Printed p. 1213
+
+> ह्ययतेः संप्रसारणं । लिज्याशिष्यज् । यद्वा । प्रार्थनायां लिज व्यत्ययेन शः ॥
+> कीदृशं । वाजिनं बलवंतमन्नवंतं ना देवजूतं देवैः सोमाहरणार्थं प्ररितं॥
+> जु इति गत्यर्थः सौत्रो धातुः । अस्मात्कर्मणि निष्ठा । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं ॥ यद्वा । देवैः प्रीयमाणं तर्प्यमाणं । यदाह यास्कः । जूतिर्गतिः प्रीतिर्वा देवजूतं देवप्रीतं वा । नि. १०-२८ । इति । सहवानं सहस्वंतं
+> बलवंतमभिभवनवंतं वा आत एव रथानामन्यदीयानां तरुतारं संग्रामे
+> जेतारं । यद्वा । रंहणशीला इमे लोका रथाः । तान्नोमाहरणसमये शीघ्रं
+> तरीतारं । श्रूयते हि । एष हीमांल्लोकान्सद्यस्तरतीति । ऐ. ब्रा. ४-२० ॥ तरतेस्त्रिचि
+> ग्रसितस्कभितेत्यादावुडागनो निपात्यते । पा. ७-२-३४ ॥ अरिष्टनेमिमहिंसितरथं ।
+> यद्वा। नेमिर्नमनशीलमायुधं । अहिंसितायुधं । अथवा । उपचाराज्जनके
+> जन्यशब्दः । अरिष्टनेमेर्मम जनकं । पृतनाजं पृतनानां शत्रुसेनानां प्राजितारं
+> प्रगमयितारं जेतारं वा ॥ अज गतिक्षेपणयोः । अस्मात्क्विप् । वलादावार्धधातुके
+> विकल्प इष्यते । का. २-४-५६-२ । इति वचनाद्वीभावाभावः । जयतेर्वा डप्रत्ययः ॥
+> आशुं शीघ्रगामिनं ॥
+
+##### Gist of the bhāṣya
+
+(continuing) The verb is formed by the rule "variously in the Veda", with saṃprasāraṇa of the root *hve*, in the benedictive; or else it is in the sense of a prayer, with the liṅ and śa by vyatyaya. What kind of Tārkṣya? वाजिनं (*vājinaṃ*): strong, possessing food. देवजूतं (*devajūtaṃ*): sent by the gods to fetch Soma, *jū* being a Sautra root meaning motion; or else "pleased, gratified by the gods". Yāska says: जूतिर्गतिः प्रीतिर्वा देवजूतं देवप्रीतं वा (*jūtirgatiḥ prītirvā devajūtaṃ devaprītaṃ vā*) (Ni. 10-28). सहवानं (*sahavānaṃ*): possessing might, or possessing the power to overcome. Hence *rathānāṃ tarutāraṃ*: the conqueror in battle of the chariots of others. Or else: these worlds are "chariots", being swift-going; he is the one who swiftly crosses them at the time of fetching Soma. For it is heard: एष हीमांल्लोकान्सद्यस्तरतीति (*eṣa hīmāṃllokānsadyastaratīti*) (Ai. Brā. 4-20). अरिष्टनेमिं (*ariṣṭanemiṃ*): one whose chariot is unharmed; or else *nemi* is the weapon that bends, so "one whose weapon is unharmed"; or else, by transfer, a word for the begetter: "my father Ariṣṭanemi". पृतनाजं (*pṛtanājaṃ*): the one who drives forward, or conquers, the hostile armies. आशुं (*āśuṃ*): swift-going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्यं उ (*tyaṃ u*)—the well-known one
+- वाजिनं (*vājinaṃ*)—the powerful, or the possessor of food
+- देवजूतं (*devajūtaṃ*)—the one entreated by the gods to fetch Soma, or the one dear to the gods
+- सहानानं (*sahānānaṃ*)—the mighty, or the vanquisher of enemies **NOTE**
+- रथानां (*rathānāṃ*)—of the enemies' chariots
+- तरुतारं (*tarutāraṃ*)—the conqueror in battle
+- अरिष्टनेमिं (*ariṣṭanemiṃ*)—the one whose chariot is unobstructed, or my father named Ariṣṭanemi
+- पृतनाजं (*pṛtanājaṃ*)—the conqueror of enemy armies
+- आशुं (*āśuṃ*)—the swift-going
+- तार्क्ष्यं (*tārkṣyaṃ*)—the god called Tārkṣya, or the god Suparṇa, son of Tṛkṣa
+- स्वस्तये (*svastaye*)—for our welfare and prosperity
+- इह (*iha*)—in this rite
+- हुवेम (*huvema*)—we call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+We call upon the god called Tārkṣya, or Suparṇa, son of Tṛkṣa, for our welfare and prosperity: the very famous, powerful one, entreated by the gods to fetch Soma or dear to the gods, the vanquisher of enemies, the conqueror in battle of the enemies' chariots, the possessor of an unharmed, that is unobstructed, chariot or weapon, or my father named Ariṣṭanemi, the conqueror of enemy armies, the swift-going.
+
+### Printed p. 1214
+
+##### English translation
+Let us invoke hither for our welfare that Tarkshya, who is mighty, the commissioned of the gods, the victorious, the outstripper of chariots, of irressitable car, the overthro wer of hosts, the swift.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have explained the derivation of the word Tārkṣya in the introduction to sūkta 144 of this same maṇḍala. Yāska's explanation of this Ṛk is as follows: तं भृशमन्नवंतं । जूतिर्गतिः प्रीतिर्वा । देवजूतं देवगतं देवप्रीतं वा । सहस्वंतं तारयितारं रथानामरिष्टनेमिं पृतनाजितमाशुं स्वस्तये तार्क्ष्यमिह ह्वयेमेति । कमन्यं मध्यमादेवमवक्ष्यत् ॥ (*taṃ bhṛśamannavaṃtaṃ | jūtirgatiḥ prītirvā | devajūtaṃ devagataṃ devaprītaṃ vā | sahasvaṃtaṃ tārayitāraṃ rathānāmariṣṭanemiṃ pṛtanājitamāśuṃ svastaye tārkṣyamiha hvayemeti | kamanyaṃ madhyamādevamavakṣyat ‖*) (Ni. 10-28). Since there is no difference between the meaning given by Yāska and Sāyaṇa's explanation, there is no need to explain the meaning of the Nirukta; its meaning is just like the Pratipadārtha we have written. To explain this deity, Yāska has taken the third Ṛk of this sūkta as an example and given a derivation for it too; that is explained in the Special Topics of the third Ṛk.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्येव रा॒तिमा॒जोहु॑वानाः स्व॒स्तये॒ नाव॑मि॒वा रु॑हेनु।  
+> उर्वी॒ न पृथ्वि॒ बहु॑ले॒ गभी॑रे॒ मा वा॒मेत्॒ मा परे॑त्  
+> रिषाम ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य इव । रातिं । आजोहुवानाः । स्वस्तये । नावं इव । आ । रुहेम ।  
+> उर्वी इति । न । पृथ्वि इति । बहुले इति । गभीरे इति । मा । वां । आइतौ । मा ।  
+> पराइतौ । रिषाम ॥ २ ॥
+
+### Printed p. 1215
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रस्येव तार्क्ष्यस्य रातिं दानमाजोहुवानाः पुनः पुनराह्वयंतो वयं
+> स्वस्तयेऽविनाशाय नावमिव नौर्यथा दुरवगाहं समुद्रं तारयति तथा दुःखस्य
+> तारयित्रिं तामा रुहेम । आरूढा भूयास्मै ॥ रुहेराशीर्लिजि लिज्याशिष्यज् ॥ हे
+> उर्वि उर्व्य विस्तीर्णे हे पृथ्वी पृथिवी प्रथिते विख्याते हे बहुले अनंते
+> गभीरे गांभीर्योपेते ईदृश्यौ हे द्यावापृथिव्यौ । नशब्दः संप्रत्यर्थे । संप्रति
+> नां युवयोः संबंधिन्येत् तार्क्ष्यसागमे परेत् परागमने च वयं मा
+> रिषाम । हिंसिता मा भूम ॥ आज् पराभ्यामुत्तरस्येणो भावे क्तिन् । तादौ च
+> नितीति गतेः प्रकृतिस्वरत्वं ॥
+
+##### Gist of the bhāṣya
+
+Repeatedly calling upon the liberality (रातिं (*rātiṃ*), gift) of Tārkṣya as if it were Indra's, we, for welfare, for freedom from destruction, would mount it, even as a boat carries one across a sea hard to fathom: that gift which carries across sorrow. आ रुहेम (*ā ruhema*) means "may we be mounted upon it"; *ruh* is in the benedictive liṅ. उर्वी (*urvī*): wide; पृथ्वि (*pṛthvi*): far-extended, renowned; बहुले (*bahule*): endless; गभीरे (*gabhīre*): possessed of depth. Such are heaven and earth, here addressed. The word न (*na*) is in the sense "now". Now, at the coming of Tārkṣya to you two and at his departing, may we not be harmed, may we not be injured.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रस्येव (*iṃdrasyeva*)—of this god Tārkṣya, whose gift is like Indra's gift
+- रातिं (*rātiṃ*)—the gift
+- आजोहुवानाः (*ājohuvānāḥ*)—we who desire it again and again
+- स्वस्तये (*svastaye*)—for our welfare and prosperity
+- नावमिव (*nāvamiva*)—as a boat (a ship) carries across the sea, that which carries across sorrow
+- तां (*tāṃ*)—that gift
+- आ रुहेम (*ā ruhema*)—we mount, that is, we obtain
+- उर्वी (*urvī*)—wide
+- पृथ्वि (*pṛthvi*)—renowned
+- बहुले (*bahule*)—endless
+- गभीरे (*gabhīre*)—deep, that is, unfathomable; O heaven and earth
+- वां (*vāṃ*)—to your neighbourhood
+- एतौ (*etau*)—at the time of this god Tārkṣya's coming
+- परेतौ (*paretau*)—and at the time of his departing
+- मा रिषाम (*mā riṣāma*)—may we not be harmed
+
+##### भावार्थ (Bhāvārtha)
+
+We, who again and again desire the gift (of wealth and the like) of this god Tārkṣya, which is excellent like Indra's gift, obtain, for our welfare and prosperity, the gift of wealth of this god Tārkṣya, who can carry us across sorrow as a boat carries one across the sea. O heaven and earth, wide, renowned and unfathomable, may no harm come to us when this god Tārkṣya comes to you, nor when he departs.
+
+##### English translation
+Repeatedly invoking the liberality (of Tarkshya), as (we do that) of Indra, let us mount upon it for our welfare as upon a ship; O heaven and earth, vast, expanded, mainfold, profound, may we not suffer harm now from (Tarakshya's) comming to or departing from you.
+
 ---
 
-**Progress note:** Done through printed p. 1209. pp. 1203-1209 (batch API)
+**Progress note:** Done through printed p. 1215. pp. 1210-1215 (batch API)
