@@ -19749,6 +19749,199 @@ One of my wings is in the sky; the other I dragged below; for I have often drunk
 
 अभिनभ्यं (*abhinabhyaṃ*): नभ्यं (*nabhyaṃ*) is what is in the navel, the middle region, that is, the atmosphere. The suffix यत् (*yat*) is added by उगवादिभ्यो यत् (*ugavādibhyo yat*) (Pā. 5-1-2), and नभ (*nabha*) is substituted because the word is read in that very list. Figuratively अभि (*abhi*) and प्रति (*prati*) have the sense of facing. **NOTE**
 
+### Printed p. 596
+
+> पा. २-१-१४ । इत्यव्ययाभावसमासस्वरः ॥ अंतरिक्षमभ्युदीषित उद्धतः सूर्यात्माहं महामहोऽस्मि । महतामपि महानस्मि । यद्वा । महत्प्रभूतं महस्तेजो
+> यस्य । प्रभूततेजस्कोऽस्मि ॥ आन्महत इत्यात्वं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the explanation of the preceding Ṛk: the one who has been raised up into the middle region (the sky) is the sun-natured "I", great among the great (महामहः (*mahāmahaḥ*)). Or else, one whose splendour (महः (*mahaḥ*)) is great, that is, one of abundant radiance. The lengthening of the vowel is explained by the rule आन्महत (*ānmahata*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- अभिनभ्यं (*abhinabhyaṃ*)—in the sky, the navel-place
+- उदीषितः (*udīṣitaḥ*)—established
+- महामहः (*mahāmahaḥ*)—as Āditya, of great glory or shining with great radiance
+- अस्मि (*asmi*)—I am
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—abundantly
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+I am Āditya, the sun, established in the sky, the navel-place of the universe, of great glory, or shining with great radiance. For I have drunk Soma abundantly.
+
+##### English translation
+I am (the sun), the great, raised to the firmament; for I have often drunk of the Soma.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गृ॒हो य॒म्यरं॑कृतो दे॒वेभ्यो॑ हव्य॒वाह॑नः ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गृहः । यामि । अरंकृतः । देवेभ्यः । हव्यवाहनः ।  
+> कुवित् । सोमस्य । असां । इति ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गृहो हविषां ग्रहीतारंकृतो यजमानैरलंकृतोऽहं देवेभ्य इंद्रादिभ्यो हव्यवाहनो हविषां वोढा प्रापयिताग्न्यात्मा सन्यामि । हवींषि प्रापयामि ॥ या प्रापणे । लट् । हव्येऽनंतःपादमिति वहेञ्युट् । इत्ताद्वाद्यु-
+
+##### Gist of the bhāṣya
+
+"I" am गृहः (*gṛhaḥ*), the receiver of oblations, and अरंकृतः (*araṃkṛtaḥ*), adorned by the sacrificers. In the form of Agni, the bearer of oblations (हव्यवाहनः (*havyavāhanaḥ*)) to the gods, Indra and the others, I go (यामि (*yāmi*)), that is, I convey the oblations. The root is या (*yā*) in the sense of conveying.
+
+### Printed p. 597
+
+> दात्तः । समासे कृदुत्तरपदप्रकृतिस्वरः ॥ इति यस्मात्कुविद्बहुवारं सोमस्य
+> सोममपां पीतवानस्मि । तस्मादेतान्यकार्षमितींद्रः स्वात्मानमेवास्तावीत् ॥
+
+##### Gist of the bhāṣya
+
+Because I have drunk the Soma (*somaṃ apāṃ*) many times, therefore I have done these things; thus Indra praised his own self.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गृहः (*gṛhaḥ*)—the one who holds the oblation
+- अरंकृतः (*araṃkṛtaḥ*)—adorned by the sacrificing worshippers
+- देवेभ्यः (*devebhyaḥ*)—to the gods, Indra and the rest
+- हव्यवाहनः (*havyavāhanaḥ*)—as Agni, who bears the oblation
+- यामि (*yāmi*)—I carry the oblation to the gods
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—abundantly
+- सोमस्य (*somasya*)—Soma juice
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+Prepared and adorned at the sacrificial altar by the sacrificing worshippers, bearing the oblation to the gods, and for that purpose holding the oblation, I, as Agni, carry the oblation to the gods. For I have drunk Soma abundantly.
+
+##### English translation
+Receiving the offering I go, graced (by the worshippers), bearing the oblation to the gods; for I have often drunk of the Soma.
+
+Here the sixth adhyāya of the eighth aṣṭaka of the Ṛgveda-saṃhitā, with Sāyaṇa's commentary and a Kannada translation, comes to its end.
+
+## Sūkta 120 (Maṇḍala 10)
+Eighth aṣṭaka, seventh adhyāya; tenth maṇḍala, hundred and twentieth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्राष्टमाष्टके षष्ठाध्यायं व्याख्याय सप्तमाध्याय आरभ्यते । दशममंडलस्य दशमेऽनुवाके सूक्तसप्तकं व्याख्यातं । तदिदिति नवर्चमष्टमं सूक्तमथर्वणः पुत्रस्य बृहद्दिवस्यार्षं त्रैष्टुभमैंद्रं । तथा चानुक्रांतं । तदिन्नवाधर्वणो
+> बृहद्दिव इति ॥ चातुर्विंशिकेऽहनि निष्केवल्य इदं सूक्तं । सूत्रितं च । तदिदासेति च
+
+##### Gist of the bhāṣya
+
+Having explained the sixth adhyāya of the eighth aṣṭaka, the seventh is begun. In the tenth anuvāka of the tenth maṇḍala seven sūktas have been explained. The eighth sūkta, तदित् (*tadit*), has nine Ṛks; its seer is Bṛhaddiva, son of Atharvan; metre Triṣṭubh; deity Indra. The Anukramaṇī says: तदिन्नवाधर्वणो बृहद्दिव (*tadinnavādharvaṇo bṛhaddiva*). On the Cāturviṃśika day this sūkta belongs to the Niṣkevalya.
+
+### Printed p. 600
+
+> पुरस्तात्तूक्तस्य शंसेत् । आ. ७-३. । इति ॥ व्योमविश्वदेवस्तुत्पंचशारदीयेष्टप्येकाहेष्टिदमेव निष्केवल्यनिविद्वानं । सूत्रितं च । एतेषां त्रयाणां कया शुभा
+> तदिदासेति मध्यंदिनः । आ. ९-८ । इति ॥ राशिमरायाख्ययोरेकाहयोरपीदं
+> निष्केवल्यनिविद्वानं । सूत्रितं च । राशिमराययोश्च कयाशुभीयतदिदासीये ।
+> आ. ९-८ । इति ॥ महाव्रते निष्केवल्येऽप्येतत्तूक्तं । तथैव पंचमारण्यके शौनकेन
+> सूत्रितं । तदिदास भवनेषु ज्येष्ठं तां सु ते कीर्तिं मघवन्महित्वा । ऐ. आ. ५-१-
+> ६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The Sūtra says तदिदासेति च पुरस्तात्तूक्तस्य शंसेत् (*tadidāseti ca purastāttūktasya śaṃset*) (Ā. 7-3). In the Vyoma, Viśvadevastut and Pañcaśāradīya Ekāhas, this very sūkta is the Niṣkevalya nivid-sūkta: एतेषां त्रयाणां कया शुभा तदिदासेति मध्यंदिनः । (*eteṣāṃ trayāṇāṃ kayā śubhā tadidāseti madhyaṃdinaḥ |*) (Ā. 9-8). In the Rāśimarāya Ekāhas as well: राशिमराययोश्च कयाशुभीयतदिदासीये । (*rāśimarāyayośca kayāśubhīyatadidāsīye |*) (Ā. 9-8). In the Mahāvrata Niṣkevalya also this sūkta is used; Śaunaka so prescribes in the fifth Āraṇyaka: तदिदास भवनेषु ज्येष्ठं तां सु ते कीर्तिं मघवन्महित्वा । (*tadidāsa bhavaneṣu jyeṣṭhaṃ tāṃ su te kīrtiṃ maghavanmahitvā |*) (Ai. Ā. 5-1-6).
+
+Anuvāda: The sūktas of the seventh adhyāya in the eighth aṣṭaka of the Ṛgveda-saṃhitā are now to be explained. The first seven sūktas of the tenth anuvāka of the tenth maṇḍala were explained in the previous adhyāya. In this anuvāka the sūkta beginning तदित् (*tadit*) is the eighth. It has nine Ṛks. Its seer is Bṛhaddiva, son of the sage Atharvan; the deity is Indra; the metre is Triṣṭubh. In the Anukramaṇī it is said: तदिन्नवाधर्वणो बृहद्दिवः (*tadinnavādharvaṇo bṛhaddivaḥ*). It is stated, by the Āśvalāyana Śrauta-sūtra तदिदासेति च पुरस्तात्तूक्तस्य शंसेत् (*tadidāseti ca purastāttūktasya śaṃset*) (Ā. 7-3), that this sūkta is to be recited for the Niṣkevala-śastra mantras on the day of the sacrifice called Cāturviṃśika. And that in the iṣṭis called Vyoma, Viśvedevastut, Pañcaśāradīya and Ekāha, this sūkta is to be included and recited as the nivit-sūkta in the Niṣkevalya-śastra mantras, is stated by the Āśvalāyana Śrauta-sūtra एतेषां त्रयाणां कया शुभा तदिदासेति मध्यंदिनः (*eteṣāṃ trayāṇāṃ kayā śubhā tadidāseti madhyaṃdinaḥ*) (Ā. 9-8). In the Ekāha-iṣṭis called Rāśimarāya also, it is to be recited in the Niṣkevalya-śastra mantras as the nivid sūkta, as stated by the Āśvalāyana Śrauta-sūtra राशिमराययोश्च कया शुभीय तदिदासीये (*rāśimarāyayośca kayā śubhīya tadidāsīye*) (Ā. 9-8). That this sūkta is used when the Niṣkevalya-śastra mantras are recited in the Mahāvrata-iṣṭi is declared by the sage Śaunaka in the fifth Āraṇyaka of the Aitareya-Āraṇyaka. In this matter the Sūtra is तदिदास भुवनेषु ज्येष्ठं तां सु ते कीर्तिं मघवन् महित्वा (*tadidāsa bhuvaneṣu jyeṣṭhaṃ tāṃ su te kīrtiṃ maghavan mahitvā*) (Ai. Ā. 5-1-6).
+
+Sūkta 120; Maṇḍala 10, Anuvāka 10, Sūkta 12; Aṣṭaka 8, Adhyāya 7, Vargas 1, 2. Number of Ṛks in the sūkta: 309 **NOTE**. Seer: Bṛhadvipa Ātharvaṇa **NOTE**. Deity: Indra. Metre: Triṣṭubh.
+
+### Printed p. 601
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदिदा॑स॒ भुव॑नेषु॒ ज्येष्ठं॒ यतो॑ ज॒ज्ञ उ॒ग्रस्ये॒षनृ॑म्मः ।  
+> स॒द्यो ज॑ज्ञा॒नो नि रि॑णाति॒ शत्रू॒ननु॒ यं विश्वे॒ मदं॒त्यूमाः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इत् । आस । भुवनेषु । ज्येष्ठं । यतः । जज्ञे । उग्रः । त्वेषनृम्मः ।  
+> सद्यः । जज्ञानः । नि । रिणाति । शत्रून् । अनु । यं । विश्वे । मदंति । ऊमाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तज्जगत्कारणत्वेन सर्ववेदांतप्रसिद्धं । इच्छब्दोऽवधारणे । भुवनेषु ॥ भू
+> सत्तायां ॥ सत्तु पृथिव्यादिषु लोकेषु मध्यॆ जगत्कारणं ब्रह्मैव ज्येष्ठं प्रशस्त
+> तममास । बभूव । तस्य परमार्थत्वात् तद्व्यतिरिक्तानां व्यावहारिकत्वाच्च । यद्वा
+> ज्येष्ठं वृद्धतमं जगत्कारणत्वेन सर्वॆषामादिभूतं बभूव ॥ अस्तेर्लिटि च्छंदस्यु
+> भयथेति सार्वधातुकत्पादस्तेर्भूः । पा. २-४-५२ । इति भूभावाभावः । यद्वा
+> वृद्धं तदेव ब्रह्म स्वप्रकाशतयास । दिदीपे ॥ अस गतिदीप्त्यादानेषु । आस्माल्लिटि
+> रूपं ॥ यत उपादानभूताद्यस्माद्ब्रह्मण उग्र उद्धूर्णस्वेषन्मृः प्रदीप्तबलः
+> सूर्यात्मक इंद्रो जज्ञे जातो बभूव । श्रूयते हि । चक्षोः सूर्यो
+> अजायत । ऋ. ११-९०-१३ । इति । सूर्याचंद्रमसौ धाता यथापूर्वमकल्पयत् ।
+> ऋ. १०-१९०-३ । इति च ॥ जनिकर्तुः प्रकृतिः । पा. १ ४-३० । इति प्रकृतेरपादानसंज्ञायां यत इति पंचमी । जनेर्लिटि गमहनेत्यादिनोपधालोपः । द्विर्वचनेऽचीति तस्य स्थानिवद्भावाद्वर्वचनादि । यद्वृत्तानित्यमिति निघातप्रतिषेधः ॥ स च
+> जज्ञानो जायमान एव सद्यः शीघ्रं शत्रूञ्ख्यातयित्वान्मंदेहादीन्राक्षसान्नि रिणाति।
+> निहिनस्ति । यद्वा । उपासकानां पापरूपाञ्त्यून्निहंति । तथा च ब्राह्मणं । सद्यो
+> हैष जातः पाप्मानमपाहत । ऐ. आ. १-३-४ । इति ॥ जज्ञान इति जनेर्लिटि कानचि
+> रूपमेतत् । रिणाति । री गतिरेषणयोः क्रादिः । प्वादीनां ह्रस्व इति ह्रस्वत्वं ॥
+> विश्वे सर्वे ऊमाः । अवंति रक्षंतीत्यूमाः प्राणिनः ॥ अवतेरौणादिको मन्प्रत्ययः ।
+> ज्वरत्वरेत्यादिना वकारोपधयोः स्थान ऊट् ॥ सर्वे प्राणिनो यं सूर्यात्मकमुद्यंतमिंद्रमनुलक्ष्य मदर्थमुदगान्नदर्थमुदगादिति मदंति हृष्यंति ॥ मदी
+
+##### Gist of the bhāṣya
+
+तत् (*tat*) is that which is known in all Vedānta as the cause of the world; इत् (*it*) is for emphasis. Among the worlds (भुवनेषु (*bhuvaneṣu*)), Brahman alone, the cause of the world, was the most excellent (ज्येष्ठं (*jyeṣṭhaṃ*)), since it is the highest reality and everything other than it is only of practical (empirical) standing. Or else, ज्येष्ठं (*jyeṣṭhaṃ*) means the oldest, the origin of all as cause of the world. Or else that Brahman shone (आस (*āsa*)) by its own light. From it as the material source (यतः (*yataḥ*)) was born Indra, fierce (उग्रः (*ugraḥ*)), of blazing strength (त्वेषनृम्मः (*tveṣanṛmmaḥ*)), of sun-nature. It is heard: चक्षोः सूर्यो अजायत (*cakṣoḥ sūryo ajāyata*) (Ṛ. 11-90-13) and सूर्याचंद्रमसौ धाता यथापूर्वमकल्पयत् (*sūryācaṃdramasau dhātā yathāpūrvamakalpayat*) (Ṛ. 10-190-3). As soon as born (जज्ञानः (*jajñānaḥ*)) he quickly destroys (नि रिणाति (*ni riṇāti*)) the enemies, the Mandeha and other Rākṣasas; or he destroys the sin-like enemies of his worshippers. So the Brāhmaṇa: सद्यो हैष जातः पाप्मानमपाहत (*sadyo haiṣa jātaḥ pāpmānamapāhata*) (Ai. Ā. 1-3-4). ऊमाः (*ūmāḥ*) are living beings, those who protect (अवंति (*avaṃti*)); all beings rejoice (मदंति (*madaṃti*)) looking up to that sun-natured Indra as he rises, thinking "he has risen for me, for me". So the Brāhmaṇa: भूतानि वै विश्व ऊमास्त एनमनुमदंत्युदगादुदगादिति (*bhūtāni vai viśva ūmāsta enamanumadaṃtyudagādudagāditi*) (Ai. Ā. 1-3-4), and the Taittirīya: तस्मात्सर्व एव मन्यंते मां प्रत्युदगादिति (*tasmātsarva eva manyaṃte māṃ pratyudagāditi*). Or else, all beings, after him who is gladdened by praise and the like, obtain their desires and rejoice. The construction: that Indra was born.
+
+### Printed p. 602
+
+> हर्षे । व्यत्ययेन शप् ॥ तथा च ब्राह्मणं । भूतानि वै विश्व ऊमास्त एनमनुमदंत्युदगादुदगादिति । ऐ- आ. १-३-४ । इति । तैत्तिरीयकं च । तस्मात्सर्व एव मन्यंते
+> मां प्रत्युदगादिति । यद्वा । यं स्तुत्यादिभिर्माद्यंतमनु पश्चात्सर्वे प्राणिनोऽभीष्टप्राप्ता हृष्यंति ॥ अनुर्लक्षणे । पा. १-४-८४ । इत्यनोः कर्मप्रवचनीयत्वात्कर्मप्रवचनीययुक्त इति द्वितीया ॥ स इंद्रो जज्ञ इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+(continuation) मदी हर्षे (*madī harṣe*), with शप् (*śap*) by variation. Then the Brāhmaṇa and Taittirīya quotations and the alternative explanation as in the preceding block; the word अनु (*anu*) is a karmapravacanīya, hence the accusative; the construction is that Indra was born.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुवनेषु (*bhuvaneṣu*)—among the worlds, earth and the rest, the cause of the world
+- तत् इत् (*tat it*)—Brahman itself, taught in all Vedānta
+- ज्येष्ठं (*jyeṣṭhaṃ*)—before all (in the beginning)
+- आस (*āsa*)—was
+- यतः (*yataḥ*)—from that Brahman, the cause of all
+- उग्रः (*ugraḥ*)—the powerful
+- तेषनृम्मः (*teṣanṛmmaḥ*)—one whose strength is radiance, that is, who shines with his own light; Indra of sun-nature
+- जज्ञे (*jajñe*)—was born
+- जज्ञानः (*jajñānaḥ*)—that sun-natured Indra, as soon as born
+- सद्यः (*sadyaḥ*)—at once
+- शत्रून् (*śatrūn*)—the Rākṣasas, Mandeha, Aruṇa and the rest
+- नि रिणाति (*ni riṇāti*)—destroys
+- विश्वे ऊमाः (*viśve ūmāḥ*)—all living beings
+- यं (*yaṃ*)—whom, the sun-natured Indra
+- अनु (*anu*)—looking up to, seeing
+- मदंति (*madaṃti*)—rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+Among all the worlds, earth and the rest, Brahman (Parabrahman) alone, taught in all Vedānta as the cause of the world, was in the beginning of all. From that Brahman was born Indra, exceedingly powerful, shining with exceeding brilliance, of sun-nature. As soon as born, that Indra became the destroyer of enemies, and all living beings, seeing him, rejoiced.
+
+##### English translation
+That was the chiefest in all worlds, from whence the fierce one, the rich in radiance, was born; as soon as born, he destroys the foes, he in whom all living beings delight.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is said that before everything, that is, before creation, only the Parabrahman taught in all Vedānta existed in the beginning, and from it Indra, of sun-nature, was born. That Indra's power is immeasurable; as soon as he was born he subdued the enemies.
+
+### Printed p. 603
+Seeing such an Indra, all beings are described as showing joy. The four pādas of this Ṛk describe four separate matters, and it is necessary to explain each separately.
+
+तत् इत् आस भुवनेषु ज्येष्ठं (*tat it āsa bhuvaneṣu jyeṣṭhaṃ*)—तत् (*tat*) means that thing. Which thing? The thing called Parabrahman, famed as the cause of the world and examined in the darśanas such as all Vedānta. The word तत् (*tat*) in the great saying तत्त्वमसि (*tattvamasi*) (tat + tvam + asi) also points to this same meaning. Since Parabrahman has no distinctions of gender, female or male, it is indicated by neuter words such as तत् (*tat*) and Brahman. For the word ज्येष्ठं (*jyeṣṭhaṃ*) several meanings are given here. ज्येष्ठं (*jyeṣṭhaṃ*) means प्रशस्ततमं (*praśastatamaṃ*): the most excellent, most praiseworthy. Or परमार्थत्वात् तद्व्यतिरिक्तानां व्यावहारिकत्वाच्च (*paramārthatvāt tadvyatiriktānāṃ vyāvahārikatvācca*): this is different from all the things in the world. Other things are subject to destruction; Brahman is not. Therefore, from the standpoint of practical life, it is wholly different from the other things of the world. Its nature resembles nothing. Or ज्येष्ठं वृद्धतमं जगत्कारणत्वेन सर्वेषामादिभूतं (*jyeṣṭhaṃ vṛddhatamaṃ jagatkāraṇatvena sarveṣāmādibhūtaṃ*): this Brahman is the cause of the world, that is, all worlds arose from it; therefore it is the beginning and root of all. There is nothing that existed before it; it is the first of all. Such Parabrahman, in the beginning of all creation, was alone, shining by itself with its own light; this is the meaning of the sentence.
+
+Passages describing the nature of Brahman are especially numerous in the various Upaniṣads and Vedānta works.
+
+ब्रह्म देवानजनयत् । ब्रह्म विश्वमिदं जगत् । ब्रह्मणः क्षत्रं निर्मितं । ब्रह्म ब्राह्मण आत्मना । अंतरस्मिन्निमे लोकाः । अंतर्विश्वमिदं जगत् । ब्रह्मैव भूतानां ज्येष्ठं । तेन कोऽर्हति स्पर्धितुं । ब्रह्मदेवास्त्रयस्त्रिग्ंशत् । ब्रह्मन्निंद्रप्रजापती । ब्रह्मन् ह विश्वा भूतानि । नावीवान्तः समाहिता ॥ (*brahma devānajanayat | brahma viśvamidaṃ jagat | brahmaṇaḥ kṣatraṃ nirmitaṃ | brahma brāhmaṇa ātmanā | aṃtarasminnime lokāḥ | aṃtarviśvamidaṃ jagat | brahmaiva bhūtānāṃ jyeṣṭhaṃ | tena ko 'rhati spardhituṃ | brahmadevāstrayastrigṃśat | brahmanniṃdraprajāpatī | brahman ha viśvā bhūtāni | nāvīvāntaḥ samāhitā ‖*) (Tai. Brā. 2-8-8-9, 10).
+
+Brahman, that is Parabrahman, produced the gods. Not only that: this whole universe is itself of the nature of Brahman. The Kṣatriya class was created by Brahman. The Brāhmaṇa is himself of the nature of Brahman. In this Brahman all the worlds, this whole world, are contained. This Brahman is the chief, the most praiseworthy, the beginning, of the five great elements beginning with earth and of all living beings. Who is able to compete with such a Brahman in power and ability? As is said in the Śvetāśvatara Upaniṣad, न तत्समश्चाभ्यधिकश्च दृश्यते (*na tatsamaścābhyadhikaśca dṛśyate*): none is seen equal to or greater than this Brahman. This Brahman
+
 ---
 
-**Progress note:** Done through printed p. 595. pp. 590-595 (batch API)
+**Progress note:** Done through printed p. 603. pp. 596-603 (batch API)
