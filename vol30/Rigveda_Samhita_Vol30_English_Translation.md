@@ -10329,6 +10329,273 @@ The divine nourishing dakshina, which is part of the sacrifice to the gods, is n
 > ये पृ॒णंति॒ प्र च॒ यच्छं॑ति संग॒मे ते दक्षि॑णां दुहते  ॒॑
 > सप्तमातरं ॥ ४ ॥
 
+### Printed p. 277
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतधारं । वायुं । अर्कं । स्वःसिविदं । नृचक्षसः । ते । अभि । चक्षते । हविः ।  
+> ये । पृणंति । प्र । च । यच्छंति । सॆंगमे । ते । दक्षिणां । दुहते । सप्तमातरं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शतधारं बहुधारेणोपेतं वायुमेतन्नामकं स्वर्विदं स्वर्गस्य लंभकं
+> सर्वस्य वेत्तारं वार्कमर्चनीयमादित्यं च तौ नृचक्षसो नृणां द्रष्टानन्यानिंद्रादीन्देवांश्चाभिलक्ष्य ते यजमाना हनिश्चक्षते । तेभ्यो दातुं पश्यंति जानंति ॥
+> चष्टेर्लटि रूपं !! किंच संगमे । कर्मकरणार्थमृत्विजोऽत्र संगंच्छंत इति
+> संगमः ॥ ग्रहवृद्यनिश्चिगमश्चेत्यधिकरणेऽप् । थाथादिस्वरः ॥ तस्मिन्यज्ञे ये यष्टारः
+> पृणंति स्तुतिभिः प्रीणयंति । ये च तेभ्यो देवेभ्यो हवींषि प्रयच्छंति ॥
+> उभयत्र यद्योगादनिघातः ॥ ते सप्तमातरं । सप्तसंख्याका मातृभूता अग्निष्टोमादिसंस्था यस्यां भवंति सा । यद्वा । सप्तसंख्याका मातरः कर्मणां
+> निर्मातारः कर्तारो होत्रादयः संति । तादृशीं दक्षिणां दुहते । ऋत्विग्यो
+> दुहंति ॥
+
+##### Gist of the bhāṣya
+
+The sacrificers look to the wind शतधारं (*śatadhāraṃ*) "of a hundred streams", i.e. endowed with many streams, which is "heaven-finding" (स्वर्विदं (*svarvidaṃ*)), that is, it attains heaven or knows all; and to the adorable sun, the अर्कं (*arkaṃ*). These two, and the other gods such as Indra, are "men-beholders" (नृचक्षसः (*nṛcakṣasaḥ*), seers of men). Having them in view, those sacrificers see, i.e. know, that they are to give the oblation to them. चक्षते (*cakṣate*) is the present form of the root *caṣṭi*. Further, संगमे (*saṃgame*): the priests come together here to perform the rite, hence it is a "meeting" (the sacrifice). At that sacrifice those sacrificers who gratify the gods with praises, and who give them oblations, are meant; the accent is not lowered in both clauses because of the connection with the relative. ते सप्तमातरं (*te saptamātaraṃ*): the dakshina in which the seven sacrificial forms such as the Agniṣṭoma are "mothers"; or else, in which seven mothers, namely makers of the rites, the Hotṛ and the others, are present. Such a dakshina दुहते (*duhate*): the priests milk it out, that is, receive it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतधारं (*śatadhāraṃ*)—having streams of many kinds
+- वायुं (*vāyuṃ*)—the wind
+- स्वर्विदं (*svarvidaṃ*)—the all-knowing
+- अर्कं (*arkaṃ*)—the sun
+- नृचक्षसः (*nṛcakṣasaḥ*)—having in view the deities Indra and others who can see human beings
+- ते (*te*)—the sacrificers
+- हविः (*haviḥ*)—that the oblation must be offered
+- चक्षते (*cakṣate*)—they know
+- संगमे (*saṃgame*)—in the sacrifice
+- ये (*ye*)—which sacrificers
+- प्र यच्छंति (*pra yacchaṃti*)—offer oblations to the gods
+- च (*ca*)—and
+- पृणंति (*pṛṇaṃti*)—gratify the gods
+- ते (*te*)—they
+- सप्तमातरं (*saptamātaraṃ*)—in the sacrificial institutions that have seven kinds of sacrifice-makers, the Hotṛ and the others
+- दक्षिणां (*dakṣiṇāṃ*)—the dakshina
+- दुहते (*duhate*)—they give liberally
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers know that the oblation is to be offered with reference to the wind of many kinds of streams, the all-knowing sun, and the gods such as Indra who can see human beings. The sacrificers who at the sacrifice offer oblations to the gods and gratify the gods give liberally the dakshina, which has the seven kinds of sacrifice-makers such as the Hotṛ, in all seven kinds of sacrifice.
+
+### Printed p. 278
+
+##### English translation
+They see (to the offering of) the oblation of Yayu of the hundred streams, to the all-conscious sun, to the men-beholding (deities); they who please (the gods) and offer (oblations) at the festival, let flow the dakshina the mother of seven.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दक्षि॑णावान्प्रथ॒मो हू॒त ए॑ति॒ दक्षि॑णावान्नाम॒णीरग्र॑मेति ।  
+> तमे॒व म॑न्ये नृ॒पतिं॒ जना॑नां॒ यः प्र॑थ॒मो दक्षि॑णामावि॒वाय॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दक्षिणावान् । प्रथमः । हूतः । एति । दक्षिणावान् । ग्रामनीः । अग्रं । एति ।  
+> तं । एव । मन्ये । नृपतिं । जनानां । यः । प्रथमः । दक्षिणां । आविवाय ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हूत ऋत्विभिराहूतो दक्षिणावान्य जमानः प्रथमः सर्वेषां मुख्यः सन्नेति ।
+> सर्वत्र गच्छति । तथा ग्रामणीर्ग्रामाणां नेता धनवत्त्वेन तेषां कर्ता दक्षिणावान्
+> सोऽग्रमेति । सर्वेषां प्रथममेव गच्छति । तमेव नृपतिं नराणां पालयितारमिति
+> मन्य ऋषिरहमवबुध्ये प्रथमो यो जनानां दक्षिणामाविवाय आगमयति ॥ वी
+> गत्यादिषु । तस्य लिटि रूपं ॥ तं नृपतिमिति मन्ये । यद्वा। जनानामिति पूर्ववाक्यशेषः । जनानां मध्ये तमेव मनुष्याणां स्वामिनमिति मन्ये ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer who is called by the priests and gives the dakshina, *hūtaḥ dakṣiṇāvān*, goes first, being foremost of all, to every place. Likewise the ग्रामणीः (*grāmaṇīḥ*), leader of villages, who makes them by his wealth, and is a giver of dakshina, goes at the front of all. The seer says: "I regard him as नृपतिं (*nṛpatiṃ*), protector of men, who first brings the dakshina among the people." आविवाय (*āvivāya*) is from the root वी (*vī*) in the sense of going etc., and the form is perfect. "I think of him as the lord of men." Or else जनानां (*janānāṃ*) belongs to the preceding sentence: among the people I regard him as the master of men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हूतः (*hūtaḥ*)—called by the priests
+- दक्षिणावान् (*dakṣiṇāvān*)—the sacrificer who wishes to give dakshina
+- प्रथमः (*prathamaḥ*)—before all
+- एति (*eti*)—goes (gains esteem)
+- ग्रामणीः (*grāmaṇīḥ*)—one who by his wealth is the maker of a village
+- दक्षिणावान् (*dakṣiṇāvān*)—the sacrificer who is endowed with the means to distribute dakshina
+
+### Printed p. 279
+- अग्रं एति (*agraṃ eti*)—goes ahead of everyone
+- प्रथमः (*prathamaḥ*)—as the first of all
+- यः (*yaḥ*)—who
+- जनानां (*janānāṃ*)—to the people
+- दक्षिणां (*dakṣiṇāṃ*)—having made known the necessity of dakshina
+- आविपाय (*āvipāya*)—began **NOTE**
+- तमेव (*tameva*)—him alone
+- नृपतिं (*nṛpatiṃ*)—as king
+- मन्ये (*manye*)—I regard
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who at the priests' desire wishes to give dakshina to the priests goes first of all (gains esteem). The sacrificer who by his own wealth is the maker of a village and has the means of distributing dakshina gains esteem above all. Him who first began the dakshina I regard as king among men.
+
+##### English translation
+Summoned (by the priests) first advances the dakshina bearing (sacrificer); the head of the village bearing the dakshina goes in the front. I regard him as a king amongst men who first introdnced the dakshina.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमे॒व ऋषिं॒ तमु॑ ब्र॒ह्माण॑माहुर्यज्ञ॒न्यं॑ साम॒गामु॑क्थ॒शासं॑ ।  
+> स शु॒क्रस्य॑ त॒न्नो॑ वेद ति॒स्रो यः प्र॑थ॒मो दक्षि॑णया र॒राध॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । एव । ऋषिं । तं । ऊं इति । ब्रह्माणं । आहुः । यज्ञन्यं । सामगां ।  
+> उक्तशसं ।  
+> सः । शुक्रस्य । तन्वः । वेद । तिस्रः । यः । प्रथमः । दक्षिणया । रराध ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमेव दक्षिणाया दातारमृषिमतींद्रियार्थदर्शिनं यद्वा सत्कर्मकरणेनर्षिमित्याहुः । तथा तमु तमेव ब्रह्माणमाहुः । किंच तमेव यज्ञन्यं ॥ णीञ्
+> प्रापणे । क्विप् । उदात्तस्वरितयोर्यण इत्यमः स्वरितत्वं ॥ यज्ञस्य नेतारमध्व-
+
+##### Gist of the bhāṣya
+
+Him, the giver of dakshina, they call ऋषिं (*ṛṣiṃ*), seer of what lies beyond the senses, or else a seer because of his performing good rites. Likewise they call him ब्रह्माणं (*brahmāṇaṃ*). And him they call यज्ञन्यं (*yajñanyaṃ*), from the root णीञ् (*ṇīñ*) in the sense of leading, the leader of the sacrifice, the Adhvaryu.
+
+> र्युमित्याहुः । तमेव सामगां साम्मां गातारमिति । तथोक्तशासं ॥ शन्नु स्तुता ।
+> क्विप् । संहितायां दीर्घश्चांदसः ॥ उक्धशसं शस्त्राणां शंसितारं होतारमिति
+> ब्रुवंति । दक्षिणादानेन तत्कर्मणः परिग्रहात् । स दाता शुक्रस्य दीप्यमानस्य
+> ज्योतिषस्ति प्रसन्नोऽग्निवैद्युतादित्यात्मकानि श्रेणि शरीराणि वेद । जानाति । यद्वा।
+> शुक्रस्य दीप्तस्याग्नेराहवनीयाद्यात्मकानि त्रीणि शरीराणि जानाति । प्रथमो मुख्यो
+> यो जनो दक्षिणया रराध ऋत्विगादीनाराधयति ॥ राध संसिद्धौ । लिटि रूपं ।
+> लिट्स्वरः ॥
+
+##### Gist of the bhāṣya
+
+Him also they call सामगां (*sāmagāṃ*), the singer of Sāmans, and उक्तशसं (*uktaśasaṃ*), the reciter of the recitations, the Hotṛ, because by giving dakshina he takes over that priest's work. That giver knows the three bodies of the shining light शुक्रस्य (*śukrasya*), in the form of Agni, lightning and the sun; or else he knows the three bodies of the shining Agni, the Āhavanīya and the others. The first, the chief, who gratifies the priests and others with the dakshina रराध (*rarādha*), from the root राध (*rādha*) in the sense of accomplishing, perfect.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं एव (*taṃ eva*)—him who gives the dakshina
+- ऋषिं (*ṛṣiṃ*)—as a seer
+- तमु (*tamu*)—him
+- ब्रह्माणं (*brahmāṇaṃ*)—as a Brāhmaṇa
+- आहुः (*āhuḥ*)—the learned say (of him)
+- सामगां (*sāmagāṃ*)—as the singer of Sāmans
+- उक्त शासं (*ukta śāsaṃ*)—they say he is the reciter of the śastras etc. **NOTE**
+- यः (*yaḥ*)—the sacrificer who
+- प्रथमः (*prathamaḥ*)—before all
+- दक्षिणया (*dakṣiṇayā*)—by offering dakshina
+- रराध (*rarādha*)—honours the priests and others
+- सः (*saḥ*)—he alone
+- शुक्रस्य (*śukrasya*)—of the shining divine light
+- तिस्रः तन्नः (*tisraḥ tannaḥ*)—the three forms called Agni, Vāyu and Āditya
+- वेद (*veda*)—knows
+
+### Printed p. 280
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who gives dakshina is called a seer, a Brāhmaṇa, a Sāman singer and a reciter of the śastra mantras. The sacrificer who, before all, honours the priests and others by offering dakshina, he knows the three forms, Agni, Vāyu and Āditya, of the shining divine light.
+
+##### English translation
+They call him the Rishi, the Brahmana, the leader of the sacrifice the chanter of the hymn, the reciter of the prayer, he knows the three forms of light who first worshipped with the dakshina.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दक्षि॒णाश्वं॒ दक्षि॑णा॒ गां द॑दाति॒ दक्षि॑णा चं॒द्रमु॒त यद्धिर॑ण्यं ।  
+> दक्षि॒णान्नं॑ वनुते॒ यो न॑ आ॒त्मा दक्षि॑णां॒ वर्म॑ कृणुते  ॒
+> विजानन् ॥ ७ ॥
+
+### Printed p. 281
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दक्षिणा । अश्वं । दक्षिणा । गां । ददाति । दक्षिणा । चंद्रं । उत । यत् । हिरण्यं ।  
+> दक्षिणा । अन्नं । वनुते । यः । नः । आत्मा । दक्षिणां । वर्म । कृणुते । विजानन् ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दक्षिणा तद्दातृभ्योऽश्वं ददाति । तथा गां च ददाति तथा चंद्रं सुवर्णं
+> ददाति । उतापि च यद्धिरण्यं रजतमस्ति । रजतं हिरण्यमित्याम्नानात्। तच्च ददाति ।
+> किंच सान्नं वनुते । ददाति । वनोतिरत्र दानार्थः । तस्मान्नोऽस्मदीयो य
+> आत्मास्ति स वर्म विजानन् कवचं यथायुधानां निवारकं तद्वद्दुरितानि वारयतीति
+> कवचमिति विजानन् दक्षिणामश्वादिदानशीलां कृणुते । ऋत्विग्भ्यः करोति ॥
+
+##### Gist of the bhāṣya
+
+The dakshina gives horses to those who give it; likewise it gives a cow, and चंद्रं (*caṃdraṃ*), gold. Also the हिरण्यं (*hiraṇyaṃ*), silver, which is so called by tradition; that too it gives. It also gives food: वनुते (*vanute*) here means giving. Therefore that self of ours, knowing the dakshina to be वर्म (*varma*), armour, which wards off sins as a coat of mail wards off weapons, makes the dakshina one that gives horses and so on: it gives it to the priests.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दक्षिणा (*dakṣiṇā*)—the dakshina
+- अश्वं (*aśvaṃ*)—a horse
+- ददाति (*dadāti*)—gives to the giver
+- गां (*gāṃ*)—a cow
+- चंद्रं (*caṃdraṃ*)—gold
+- उत (*uta*)—and
+- हिरण्यं (*hiraṇyaṃ*)—silver
+- अन्नं (*annaṃ*)—food
+- वनुते (*vanute*)—gives
+- नः (*naḥ*)—our
+- यः आत्मा (*yaḥ ātmā*)—the self that is
+- वर्म (*varma*)—as protective armour
+- विजानन् (*vijānan*)—knowing
+- दक्षिणां (*dakṣiṇāṃ*)—the dakshina
+- कृणुते (*kṛṇute*)—gives to the priests
+
+##### भावार्थ (Bhāvārtha)
+
+The dakshina gives a horse to the giver. It gives a cow, gold, silver and food. Our self, knowing dakshina to be protective armour, gives dakshina to the priests.
+
+##### English translation
+Dakshina gives horses, Dakshina gives cows, Dakshina gives gold and also silver. Dakhina bestows food. Our spirit discriminating (all things) puts on Dakshina for armour.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न भो॒जा म॑मु॒र्न न्य॒र्थमा॑यु॒र्न रि॑ष्यंति॒ न व्य॑थंते ह  ॒
+> भोजाः ।
+
+### Printed p. 282
+
+> इदं यद्विश्वं भुवनं स्वश्चैतत्सर्वं दक्षिणैभ्यो ददाति ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । भोजाः । मम्रुः । न । निऽर्थं । ईयुः । न । रिष्यंति । न । व्यथंते । ह ।  
+> भोजाः ।  
+> इदं । यत् । विश्वं । भुवनं । स्वरिति स्वः । च । एतत् । सर्वं । दक्षिणा । एभ्यः ।  
+> ददाति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भोजा भोजयितारो धादिदानेन दातारो न मम्रुः । न म्रियंते ।
+> देवत्वं भजंत इत्यर्थः । अत एव न्यर्थ० ॥ ऋ गत् । उषिकुषिगार्तिभ्यस्थन् । उ. २-४।
+> समासे थाथादिस्वरः ॥ निकृष्टां गतिं नेयुः । न प्राप्नु वंति ॥ इण् गत् । लिटि दीर्घ
+> इणः कितीति दीर्घः ॥ तथा च न रिष्यंति । कैश्चिदप्यहिंसिता भवंति ॥ कर्मणि व्यत्ययेन
+> परस्मैपदं ॥ आत एव भोजा दातारो न व्यथंते । परस्परं न भीता न बाधिता वा
+> भवंति । ह प्रसिद्धौ । किंचेदं परिदृश्यमानं विश्वं सर्वं भुवनं यद्भूतजातमस्ति
+> स्वश्च स्वर्गलोकश्च एतत्सर्वं दक्षिणा स्वयमेभ्यस्तद्दातृभ्यो ददाति । प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+The भोजाः (*bhojāḥ*), those who feed others, givers by giving wealth and the like, न मम्रुः (*na mamruḥ*) do not die; that is, they attain godhood. For that very reason न्यर्थं (*nyarthaṃ*): they do not attain a low state; the word is from ऋ (*ṛ*) in the sense of going, with the affix थन् (*than*) (Uṇ. Sū. 2-4). They do not obtain it. ईयुः (*īyuḥ*) is from the root इण् (*iṇ*), perfect. Likewise न रिष्यंति (*na riṣyaṃti*): they are harmed by no one. Therefore the givers are not afraid of one another nor oppressed: ह (*ha*) is in the sense of "well known". Moreover this whole visible world, whatever beings exist, and the heaven-world: all this the dakshina herself gives to these givers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भोजाः (*bhojāḥ*)—those who give pleasure by gifts of wealth
+- न मम्रुः (*na mamruḥ*)—do not die
+- न्यर्थं (*nyarthaṃ*)—a low state
+- न ईयुः (*na īyuḥ*)—do not attain
+- न रिष्यंति (*na riṣyaṃti*)—are not harmed
+- भोजाः (*bhojāḥ*)—those who give pleasure by gifts of wealth
+- न व्यथंते (*na vyathaṃte*)—do not meet destruction
+- यदिदं विश्वं भुवनं (*yadidaṃ viśvaṃ bhuvanaṃ*)—all this multitude of beings that exists
+- यत् स्वश्च (*yat svaśca*)—the heaven-world that exists
+- एतत् सर्वं (*etat sarvaṃ*)—all that
+- दक्षिणां (*dakṣiṇāṃ*)—the dakshina
+- एभ्यः (*ebhyaḥ*)—to the givers
+- ददाति (*dadāti*)—provides
+
+##### भावार्थ (Bhāvārtha)
+
+Those who give pleasure by the gift of dakshina do not die. They do not attain a low state. They are not harmed. For them there is no destruction. All this multitude of beings that exists, the heaven that exists, all that the dakshina provides for the givers.
+
 ---
 
-**Progress note:** Done through printed p. 276. pp. 271-276 (batch API)
+**Progress note:** Done through printed p. 282. pp. 277-282 (batch API)
