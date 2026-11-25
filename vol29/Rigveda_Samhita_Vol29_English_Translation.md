@@ -7815,6 +7815,109 @@ This same Lord is within the atmosphere. The atmosphere is his body, but the atm
 
 This Sūtrātman is within the wind. The wind is his body. But the wind cannot know his greatness. He is the controller of the movement of the wind. This Supreme Self is within the heavenly world. The heavenly world is his body. But the heavenly world cannot know his greatness.
 
+### Printed p. 304
+
+Likewise, in the sun, the moon, the stars, space and all the quarters, in each of them this Sūtrātman is pervading. All of them are bodies for him. Even so, none of them is able to know the greatness of this Supreme Self. He is hidden also in darkness. To darkness too he is beyond perception. The most excessive radiance cannot know his form. He alone is the controller of the sun and all the other planets and of all the quarters.
+
+All beings are his body; he is the controller of all beings. But no creature is able to know his greatness. In all the organs of the body, breath, speech, eye, ear, mind, understanding, skin, this Sūtrātman is the inner controller. No organ can know him.
+
+एष त आत्मांतर्याम्यमृतोऽदृष्टो द्रष्टा अश्रुतः श्रोतामशो मंताविज्ञातो विज्ञाता नान्योऽतोऽस्ति द्रष्टा नान्योऽतोऽस्ति श्रोता नान्योऽतोऽस्ति मंता नान्योऽतोऽस्ति विज्ञाता एष त आत्मांतर्यामृमृतोऽतोऽस्यदार्तं ततो होद्दालक आरुणिरुपरराम ॥ (*eṣa ta ātmāṃtaryāmyamṛto 'dṛṣṭo draṣṭā aśrutaḥ śrotāmaśo maṃtāvijñāto vijñātā nānyo 'to 'sti draṣṭā nānyo 'to 'sti śrotā nānyo 'to 'sti maṃtā nānyo 'to 'sti vijñātā eṣa ta ātmāṃtaryāmṛmṛto 'to 'syadārtaṃ tato hoddālaka āruṇirupararāma ‖*) (Bṛ. U. 3-7-23)
+
+No one sees this Sūtrātman, the inner controller of all; he is the one who sees everything. No one hears his divine song, but he is the one who can hear everything. No one knows him; he alone knows everything. As soon as Yājñavalkya taught that this Supreme Self is all-pervading, immortal and the inner mover of the universe, Uddālaka Āruṇi became calm. Because he is beyond perception, he is described in the Upaniṣads as follows.
+
+अशब्दमस्पर्शमरूपमव्ययं तथारसं नित्यमगंधवच्च यत् । अनाद्यनंतं महतः परं ध्रुवं निजाय्य तन्नृत्युमुखात्पमुच्यते ॥ (*aśabdamasparśamarūpamavyayaṃ tathārasaṃ nityamagaṃdhavacca yat | anādyanaṃtaṃ mahataḥ paraṃ dhruvaṃ nijāyya tannṛtyumukhātpamucyate ‖*) (Kaṭha 1-3-15)
+
+This Supreme Self is without sound, without touch, without form, imperishable, without smell, beginningless and endless, steadfast. To know such a supreme principle, very hard discipline is needed. Even so, complete realization is not obtained. Therefore this Self is described in the form of negation.
+
+अस्य श्रीर्भवति य एवं वेदाथात आदेशो नेति नेति न ह्येतस्मादिति नेत्यन्यत्परमस्तथ नामधेयं सत्यस्य सत्य इति ............ ॥ (*asya śrīrbhavati ya evaṃ vedāthāta ādeśo neti neti na hyetasmāditi netyanyatparamastatha nāmadheyaṃ satyasya satya iti ............ ‖*) (Bṛ. U. 2-3-6)
+
+### Printed p. 305
+
+This Supreme Self, who is beyond the body, cannot be described as "thus". One has to describe his nature only by negative statements, taking all the things of the universe and saying: this is not that Supreme Self, nor is that. Therefore the nature of that Sūtrātman is described by the Śruti sentence नेति नेति (*neti neti*). Those who try to know his form come to enter only darkness. How?
+
+अंधं तमः प्रविशंति ये अविद्यामुपासते । ततो भूय इव ते तनो य उ विद्यायाग्ं रताः ॥ (*aṃdhaṃ tamaḥ praviśaṃti ye avidyāmupāsate | tato bhūya iva te tano ya u vidyāyāgṃ ratāḥ ‖*) (Īśa 9)
+
+Those who, without complete means to know the nature of the Lord, worship him only with blind faith sit in darkness; but even the wise who strive with the means of knowing his nature, being unable to know his endless greatness, enter a still greater darkness. How? In the effort to know the endless qualities of the Lord, if one learns one new point, still greater problems arise from it. (Avidyā also means karma; the purport is those who, devoid of knowledge, are intent on ritual alone.)
+
+(2) Secondly, it is not only that the Lord is beyond perception. Another reason is that all beings, covered by ignorance, have no fitness to realize the Lord. An excellent illustration of this is given in the present verse: covered by ignorance like mist, they have only the conceit that they themselves are all-knowing. In the same way the nature of the ignorant is described in the Bhagavad-gītā as follows.
+
+धूमेनाव्रियते वह्निर्यथादर्शो मलेन च । यथोल्पेनावृतो गर्भस्तथा तेनेदमावृतं ॥ (*dhūmenāvriyate vahniryathādarśo malena ca | yatholpenāvṛto garbhastathā tenedamāvṛtaṃ ‖*) (Bha. Gī. 3-38) **NOTE**
+
+As fire is covered by smoke, as the mirror is covered by dirt, as the embryo is covered by the membrane, so the radiance of the Self is covered by the enemy in the form of desire.
+
+आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा । कामरूपेण कौंतेय दुष्पूरेणानलेन च ॥ (*āvṛtaṃ jñānametena jñānino nityavairiṇā | kāmarūpeṇa kauṃteya duṣpūreṇānalena ca ‖*) (Bha. Gī. 3-39)
+
+This desire is, for the pure Self, an eternal enemy. Like a fire that knows no satisfaction, the longing of desire tries to burn the Self. Therefore knowledge is covered by this impurity. The ignorant, covered by this desire, boast that their own path is the best path. How?
+
+### Printed p. 306
+
+अविद्यायामंतरे वर्तमानाः स्वयं धीराः पंडितं मन्यमानाः । जंघन्यमानाः परियंति मूढा अंधेनैव नीयमाना यथांधाः ॥ (*avidyāyāmaṃtare vartamānāḥ svayaṃ dhīrāḥ paṃḍitaṃ manyamānāḥ | jaṃghanyamānāḥ pariyaṃti mūḍhā aṃdhenaiva nīyamānā yathāṃdhāḥ ‖*) (Muṇḍaka 1-2-8)
+
+Though sunk in the darkness of ignorance, the unwise, thinking themselves to be the knowers, become sharers of many kinds of afflictions. As it is when blind men become guides to other blind men, so these also, in their conceit and egoism, give instruction to others and push them too into the pit of ignorance.
+
+अविद्यायां बहुधा वर्तमाना वयं कृतार्था इत्यभिमन्यंति बालाः । यत् कर्मिणो न प्रवेदयंति रागात् तेनातुराः क्षीणलोकाश्चवंते ॥ (*avidyāyāṃ bahudhā vartamānā vayaṃ kṛtārthā ityabhimanyaṃti bālāḥ | yat karmiṇo na pravedayaṃti rāgāt tenāturāḥ kṣīṇalokāścavaṃte ‖*) (Muṇḍaka 1-2-9)
+
+Because they lack mature knowledge, these are ignorant. Even so, from their petty, polished and impure delusion they hold the false pride that they themselves have accomplished their purpose. Great attachment in ritual is itself of the form of desire. From it arises room for many kinds of self-conceit. That does not become the path to liberation. It gives no room for the realization of the Lord. Such desire-afflicted ones, after their intoxication has abated, fall as a result into the nether world. **NOTE**
+
+न सांपरायः प्रतिभाति बालं प्रमाद्यंतं वित्तमोमोहेन मूढं । अयं लोको नास्ति पर इति मानी पुनः पुनर्वशमापद्यते मे ॥ (*na sāṃparāyaḥ pratibhāti bālaṃ pramādyaṃtaṃ vittamomohena mūḍhaṃ | ayaṃ loko nāsti para iti mānī punaḥ punarvaśamāpadyate me ‖*) (Kaṭha 1-2-6)
+
+That which is beyond his senses is not known to this ignorant man. He is intoxicated by his earthly wealth. Believing that only this world is true and eternal and that there is nothing else besides it, the unwise man, thus filled with ignorance, undergoes the sorrow of worldly existence again and again. Therefore there is no room for him to obtain the realization of the Lord. In this and similar ways the nature of a man whose mind is covered with impurity is described.
+
+It is also explained in this verse that such a man is endowed with many faults, beginning with false pride. The purport is that knowledge of the Lord is not easy. The purport is also that to be devoted to ritual alone causes a deficiency in the gain of knowledge. This purport is made clear by the words असुतृपः, उक्तशासः चरंति (*asutṛpaḥ, uktaśāsaḥ caraṃti*). The purport is that ritual is only a means of enjoyment and does not become a means of knowledge. How?
+
+### Printed p. 307
+
+यामिमां पुष्पितां वाचं प्रवदंत्य विपश्चितः । वेदवादरताः पार्थ नान्यदस्तीति वादिनः ॥ (*yāmimāṃ puṣpitāṃ vācaṃ pravadaṃtya vipaścitaḥ | vedavādaratāḥ pārtha nānyadastīti vādinaḥ ‖*) (Bha. Gī. 2-42)
+
+Ritual consists of resolves made for desired ends. In this resolve mere enjoyment is the aim. The śastra mantras, the praüga, niṣkevalya and the rest, are only means to this enjoyment. Those who, deluded by these sentences that promise fruit, say that there is no other kind of good apart from this are the unlearned. Their nature is as follows.
+
+कामात्मानः स्वर्गपराः जन्मकर्मफलप्रदां । क्रियाविरेषबहुलां भोगैश्वर्यगतिं प्रति ॥ (*kāmātmānaḥ svargaparāḥ janmakarmaphalapradāṃ | kriyāvireṣabahulāṃ bhogaiśvaryagatiṃ prati ‖*) (Bha. Gī. 2-43)
+
+These devotees of the Veda's word, who seek only the enjoyment of heaven, have minds set only on desired ends. Captivated by enjoyment, they have their minds fixed on it alone. But they do not know that the enjoyment of heaven, the fruit of sacrifice, is not eternal. They have no awareness that after the time of enjoyment is over they will again fall into birth, death and the rest.
+
+भोग्यश्वर्यप्रसक्तानां तयापहृतचेतसां । व्यवसायात्मिका बुद्धिः समाधौ न विधीयते ॥ (*bhogyaśvaryaprasaktānāṃ tayāpahṛtacetasāṃ | vyavasāyātmikā buddhiḥ samādhau na vidhīyate ‖*) (Bha. Gī. 2-44)
+
+For this intellect is of the nature of resolve. Because they are engaged only in outward dealings of this kind, the calculation of enjoyment-oriented multiplication and of what is to be done and not done, they cannot become established in samādhi, that is, they cannot attain concentration and become steady in mind. **NOTE**  Sāyaṇa, in explaining the present verse, has stated just this: उदरंभराः । न तु पारमेश्वरं तत्त्वं विचारितवंतः (*udaraṃbharāḥ | na tu pārameśvaraṃ tattvaṃ vicāritavaṃtaḥ*), belly-fillers, subject only to enjoyment, fools who do not know how to reflect on the principle of the Lord. This view is also given in the Upaniṣads in this way. For example—
+
+इष्टापूर्तं मन्यमाना वरिष्ठं नान्यच्छ्रेयो वेदयंते प्रमूढाः । नाकस्य पृष्ठे ते सुकृतेऽनुभूत्वेमं लोकं हीनतरं वा विशंति ॥ (*iṣṭāpūrtaṃ manyamānā variṣṭhaṃ nānyacchreyo vedayaṃte pramūḍhāḥ | nākasya pṛṣṭhe te sukṛte 'nubhūtvemaṃ lokaṃ hīnataraṃ vā viśaṃti ‖*) (Muṇḍaka 1-2-10)
+
+These selfish ones, who hold to desired ends and are devoted to enjoyment, believe that the rites such as iṣṭāpūrta are the highest and that nothing else is conducive to good. These fools, having enjoyed the heavenly enjoyment that is the fruit of their rites and having exhausted that rite, then return again to this world and become sharers of sorrow. The purport is that sorrow is not avoided by people who, without acquiring knowledge of the supreme principle, are sunk in ritual alone. The same view is stressed over and over in many places.
+
+### Printed p. 308
+
+तैविद्या मां सोमपाः पूतपापा यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयंते । ते पुण्यमासाद्य सुरेंद्रलोकमश्नंति दिव्यान्दिवि देवभोगान् ॥ (*taividyā māṃ somapāḥ pūtapāpā yajñairiṣṭvā svargatiṃ prārthayaṃte | te puṇyamāsādya sureṃdralokamaśnaṃti divyāndivi devabhogān ‖*) (Bha. Gī. 9-20)
+
+The Soma-drinkers, the Soma-sacrificers, and those who perform the rites enjoined by the three Vedas, Ṛk, Yajus and Sāman, worship me with sacrifice and desire the attainment of heaven. They go to the most meritorious world of the lord of the gods and there enjoy the divine pleasures of the gods.
+
+ते तं भुक्त्वा स्वर्गलोकं विशालं क्षीणे पुण्ये मर्त्यलोकं विशंति । एवं त्रयीधर्ममनुप्रपन्ना गतागतं कामकामा लभंते ॥ (*te taṃ bhuktvā svargalokaṃ viśālaṃ kṣīṇe puṇye martyalokaṃ viśaṃti | evaṃ trayīdharmamanuprapannā gatāgataṃ kāmakāmā labhaṃte ‖*) (Bha. Gī. 9-21)
+
+Having obtained that vast enjoyment of heaven, when their merit is exhausted they are born again and come to the world of mortals. Thus, as long as they only perform sacrifices and the like and wish for objects of desire, they have no knowledge of the Lord. अतः विश्वकर्माणं देवं न जानंति (*ataḥ viśvakarmāṇaṃ devaṃ na jānaṃti*). Sāyaṇa has explained that the purport of this verse is that knowledge of the supreme principle, of the form of Viśvakarman, is not possible for them. The purport is that knowledge is greater than ritual.
+
+In the Ṛgveda Saṃhitā the 81st and 82nd hymns of the tenth maṇḍala are famed as the Viśvakarman hymns. We have written here these same hymns, with small differences, as they are recited in the Taittirīya Saṃhitā of the Yajurveda. Although here and there in these mantras some words and the order of the mantras differ, there is no great difference in the explanation of the meaning, and so only the mantras as they stand in the Saṃhitā are quoted. As the explanation of the meaning is the same as we have given so far, there is no need to explain it again.
+
+य इमा विश्वा भुवनानि जुह्वदृषिर्होता निषसादा पिता नः । स आषिसा द्रविणमिच्छमानः परमच्छदो वर आ विवेश ॥ १ ॥ (*ya imā viśvā bhuvanāni juhvadṛṣirhotā niṣasādā pitā naḥ | sa āṣisā draviṇamicchamānaḥ paramacchado vara ā viveśa ‖ 1 ‖*)
+विश्वकर्मा मनसा यद्विहाया धाता विधाता परमोत संदृक् । तेषामिष्टानि समिषा मदंति यत्र सप्तर्षीन् पर एकमाहुः ॥ २ ॥ (*viśvakarmā manasā yadvihāyā dhātā vidhātā paramota saṃdṛk | teṣāmiṣṭāni samiṣā madaṃti yatra saptarṣīn para ekamāhuḥ ‖ 2 ‖*)
+यो नः पिता जनिता यो विधाता यो नः सतो अभ्यासज्जजान । यो देवानां नामधा एक एव तग्ं संप्रश्नं भुवना यंत्यन्या ॥ ३ ॥ (*yo naḥ pitā janitā yo vidhātā yo naḥ sato abhyāsajjajāna | yo devānāṃ nāmadhā eka eva tagṃ saṃpraśnaṃ bhuvanā yaṃtyanyā ‖ 3 ‖*)
+त आ यजंत द्रविणग्ं समस्मा ऋषयः पूर्णे जरितारो न भूना । असूर्ता सूर्ता रजसो विमाने ये भूतानि समकृण्वन्निमानि ॥ ४ ॥ (*ta ā yajaṃta draviṇagṃ samasmā ṛṣayaḥ pūrṇe jaritāro na bhūnā | asūrtā sūrtā rajaso vimāne ye bhūtāni samakṛṇvannimāni ‖ 4 ‖*)
+न तं विदाथ य इदं जजानान्यद्युष्माकमंतरं भवाति । नीहारेण प्रावृता जल्पा चासुतृप उक्तशासश्चरंति ॥ ५ ॥ (*na taṃ vidātha ya idaṃ jajānānyadyuṣmākamaṃtaraṃ bhavāti | nīhāreṇa prāvṛtā jalpā cāsutṛpa uktaśāsaścaraṃti ‖ 5 ‖*)
+
+### Printed p. 309
+
+परो दिवा पर एना पृथिव्या परो देवेभिरसुरैर्गुहा यत् । कग्स्विद्धर्भं प्रथमं दध्र आपो यत्र देवाः समगच्छंत विश्वे ॥ ६ ॥ (*paro divā para enā pṛthivyā paro devebhirasurairguhā yat | kagsviddharbhaṃ prathamaṃ dadhra āpo yatra devāḥ samagacchaṃta viśve ‖ 6 ‖*)
+तमिद्दर्भं प्रथमं दध्र आपो यत्र देवाः समगच्छंत विश्वे । अजस्य नाभावध्येकमर्पितं यस्मिन्निदं विश्वं भुवनमधि श्रितं ॥ ७ ॥ (*tamiddarbhaṃ prathamaṃ dadhra āpo yatra devāḥ samagacchaṃta viśve | ajasya nābhāvadhyekamarpitaṃ yasminnidaṃ viśvaṃ bhuvanamadhi śritaṃ ‖ 7 ‖*)
+विश्वकर्मा ह्यजनिष्ट देव आदिद्दंधर्वो अभवद्वितीयः । तृतीयः पिता जनितौषधीनामपां गर्भं व्यदभात्पुरुत्ता ॥ ८ ॥ (*viśvakarmā hyajaniṣṭa deva ādiddaṃdharvo abhavadvitīyaḥ | tṛtīyaḥ pitā janitauṣadhīnāmapāṃ garbhaṃ vyadabhātpuruttā ‖ 8 ‖*)
+चक्षुषः पिता मनसा हि धीरो धृतमेने अजनन्नन्नमाने । यदेदंता अददृग्ंहंत पूर्व आदिद्दावापृथिवी अप्रथेतां ॥ ९ ॥ (*cakṣuṣaḥ pitā manasā hi dhīro dhṛtamene ajanannannamāne | yadedaṃtā adadṛgṃhaṃta pūrva ādiddāvāpṛthivī aprathetāṃ ‖ 9 ‖*)
+विश्वतश्चक्षुरुत विश्वतोमुखो विश्वतोहस्त उत विश्वतस्सात् । सं बाहुभ्यां नमति संपतत्र्याद्यावापृथिवी जनयन्देव एकः ॥ १० ॥ (*viśvataścakṣuruta viśvatomukho viśvatohasta uta viśvatassāt | saṃ bāhubhyāṃ namati saṃpatatryādyāvāpṛthivī janayandeva ekaḥ ‖ 10 ‖*)
+किग्स् स्विदासीदधिष्ठानमारंभणं कतमत्सित् किमासीत् । यदी भूमिं जनयन्विश्वकर्मा विद्यामौर्णोन्महिना विश्वचक्षाः ॥ ११ ॥ (*kigs svidāsīdadhiṣṭhānamāraṃbhaṇaṃ katamatsit kimāsīt | yadī bhūmiṃ janayanviśvakarmā vidyāmaurṇonmahinā viśvacakṣāḥ ‖ 11 ‖*)
+किग्स् स्विदनं क उ स वृक्ष आसीद्यतो द्यावापृथिवी निष्पचक्षुः । मनीषिणो मनसा पृच्छतेदु तद्यदधृतिष्ठद्भवनानि धारयन् ॥ १२ ॥ (*kigs svidanaṃ ka u sa vṛkṣa āsīdyato dyāvāpṛthivī niṣpacakṣuḥ | manīṣiṇo manasā pṛcchatedu tadyadadhṛtiṣṭhadbhavanāni dhārayan ‖ 12 ‖*)
+या ते धामानि परमाणि यावमा या मध्यमा विश्वकर्मन्नुतेमा । शिक्षा सखिभ्यो हविषि स्वधावः स्वयं यजस्व तनुवं जुषाणः ॥ १३ ॥ (*yā te dhāmāni paramāṇi yāvamā yā madhyamā viśvakarmannutemā | śikṣā sakhibhyo haviṣi svadhāvaḥ svayaṃ yajasva tanuvaṃ juṣāṇaḥ ‖ 13 ‖*)
+वाचस्पतिं विश्वकर्माणमूतये मनोयुजं वाजे अद्या हुवेम । स नो नेदिष्टाहवनानि जोषते विश्वशंभूरवसे साधुकर्मा ॥ १४ ॥ (*vācaspatiṃ viśvakarmāṇamūtaye manoyujaṃ vāje adyā huvema | sa no nediṣṭāhavanāni joṣate viśvaśaṃbhūravase sādhukarmā ‖ 14 ‖*)
+विश्वकर्मन् हविषा वावृधानः स्वयं यजस्व तनुवं जुषाणः । मुह्यं त्वन्ये अभितः सपत्ना इहास्माकं मघवा सूरिरस्तु ॥ १५ ॥ (*viśvakarman haviṣā vāvṛdhānaḥ svayaṃ yajasva tanuvaṃ juṣāṇaḥ | muhyaṃ tvanye abhitaḥ sapatnā ihāsmākaṃ maghavā sūrirastu ‖ 15 ‖*)
+विश्वकर्मन् हविषा वर्धनेन त्रातारमिंद्रमकृणोरवध्यं । तस्मै विशः समनमंत पूर्विरयमुग्रोविहव्यो यथासत् ॥ १६ ॥ (*viśvakarman haviṣā vardhanena trātāramiṃdramakṛṇoravadhyaṃ | tasmai viśaḥ samanamaṃta pūrvirayamugrovihavyo yathāsat ‖ 16 ‖*)
+समुद्राय वयुनाय सिंधूनां पतये नमः । नदीनाग्ं सर्वासां पित्रे जुहुता विश्वकर्मणे विश्वाहामर्त्यग्ं हविः ॥ (*samudrāya vayunāya siṃdhūnāṃ pataye namaḥ | nadīnāgṃ sarvāsāṃ pitre juhutā viśvakarmaṇe viśvāhāmartyagṃ haviḥ ‖*) (Tai. Saṃ. 4-6-2, 1, 2, 3, 4, 5, 6) **NOTE**
+
+The two Viśvakarman hymns in the Ṛgveda have 14 Ṛks in all. But here there are 17 mantras. That is, three mantras are added here beyond what is in the Ṛgveda: the 8th mantra, beginning विश्वकर्मा ह्यजनिष्टदेवः (*viśvakarmā hyajaniṣṭadevaḥ*), the 16th mantra, beginning विश्वकर्मन् हविषावर्धनेन (*viśvakarman haviṣāvardhanena*), and the 17th mantra, beginning समुद्राय वयुनाय (*samudrāya vayunāya*).
+
 ---
 
-**Progress note:** Done through printed p. 303. Ṛk 6 end, Ṛk 7 (Sūkta 82), special topics
+**Progress note:** Done through printed p. 309. Ṛk 7 special topics end; Taittirīya Saṃhitā text of the Viśvakarma hymn
