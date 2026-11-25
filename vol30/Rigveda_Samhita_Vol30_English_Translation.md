@@ -1593,6 +1593,261 @@ I, Vasiṣṭha, the one who most causes my companions to dwell well among them,
 
 O Aiḷa Pururavas, these gods say this to you: you are मृत्युबंधुः (*mṛtyubaṃdhuḥ*), a binder of death, a kinsman of death, a man who has not come under death's power, as ….
 
+### Printed p. 50
+
+> द्भवसि भविष्यसि प्रजा प्रकर्षेण जायमानस्त्वं ते तव संबंधिनो यष्टव्यान्देवान्नविषा यजासि । यजसि । स्वर्ग उ स्वर्ग एव त्वमपि मादयासे । मादयसेऽस्माभिः
+> सह। एवमाहुरित्यर्थः । यस्मादेवं करोषि तस्मादभिलाषं हित्वा सुखी भवेति सेयं
+> पुरूरवसं प्रत्युवाच ॥
+
+##### Gist of the bhāṣya
+
+(Continuing the verse's explanation.) Aila, the gods say this to you: since you are bound to death, you will be, being born as progeny, one who with oblation worships your related gods who are to be worshipped; and you too will rejoice in heaven with us. This is the meaning: they say so. Because you act in this way, give up your longing and be happy. So she (Urvaśī) replied to Purūravas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऐळ (*aiḷa*)—O Purūravas, son of Iḷā
+- त्वा (*tvā*)—to you
+- इमे देवाः (*ime devāḥ*)—these gods
+- इति (*iti*)—in this manner
+- आहुः (*āhuḥ*)—have said
+- यथें (*yatheṃ*)—because
+- मृत्युबंधुः (*mṛtyubaṃdhuḥ*)—you, having become subject to death
+- भवसि (*bhavasi*)—you are
+- एतत् (*etat*)—this is certain
+- ते (*te*)—your
+- प्रजा (*prajā*)—son (you who are born in the form of a son)
+- देवान् (*devān*)—the gods
+- हविषा (*haviṣā*)—with oblation
+- यजाति (*yajāti*)—worships (let him worship)
+- त्वं अपि (*tvaṃ api*)—you for your part
+- स्वर्गे (*svarge*)—in heaven
+- मादयासे (*mādayāse*)—you will join us and enjoy delight
+
+##### भावार्थ (Bhāvārtha)
+
+(Urvaśī's words) "O Purūravas, (some day) you will become subject to death. This is certain. Your son will worship the gods with oblation. You will join us in heaven and enjoy delight." So the gods have told you.
+
+##### English translation
+(Urvashi :) These gods said to you, Aila, since you are indeed subject to death, let your progeny propitiate your gods with oblations, you shall rejoice (with me) in heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+Some Western scholars say that nowhere in the Ṛgveda is heaven clearly mentioned, and that it does not explain what connection human beings have with heaven. But in this Ṛk it is clearly said स्वर्ग उ त्वमसि मादयासे (*svarga u tvamasi mādayāse*), "you will enjoy happiness in heaven"; and because भवसि मृत्युबंधुः (*bhavasi mṛtyubaṃdhuḥ*) is said, the matter is clearly stated that a man devoted to good works, having become subject to death and given up this earthly body, then (taking another body) enjoys happiness in heaven.
+
+## Sūkta 96 (Maṇḍala 10)
+The ninety-sixth sūkta
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ प्र ते मह इति त्रयोदशर्चं षष्ठं सूक्तं । बरुर्नामांगिरस ऋषिः
+> इंद्रस्य पुत्रः सर्वहरिर्वा नाम । द्वादशीत्रयोदश्यौत्रिष्टुभौ शिष्टा एकादश जगत्यः ।
+
+##### Gist of the bhāṣya
+
+Now the sixth sūkta, "Pra te mahe", of thirteen Ṛks. The seer is Baru of the Āṅgirasa line, or else Sarvahari, a son of Indra. The twelfth and thirteenth Ṛks are in the triṣṭubh metre; the remaining eleven are jagatī.
+
+### Printed p. 51
+
+> इंद्रस्याश्व हरी । तयोरत्र स्तूयमानत्वात्तद्देवताकमिदं । तथा चानुक्रांतं ।
+> प्र ते सप्तोना बरुः सर्वहरिर्वैंद्रो हरिस्तुतिर्द्वित्रिष्टुबंतं ॥ अतिरात्रे तृतीये
+> पर्याये ब्राह्मणाच्छंसिन एतत्सूक्तं । सूत्रितं च । प्र ते मह ऊती शचीवस्तव
+> वीर्येणेति याज्या । आ. ६-४ । इति ॥ षोडशिशस्त्रेऽप्याद्यस्तृचः शंसनीयः । सूत्रितं
+> च । प्र ते महे विदथे शंसिषं हरी इति तिस्रो जगत्यः । आ. ६-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The deity is the two horses (Hari) of Indra; since they are praised here, the sūkta has them as its deity. So the Anukramaṇī says: प्र ते सप्तोना बरुः सर्वहरिर्वैंद्रो हरिस्तुतिर्द्वित्रिष्टुबंतं (*pra te saptonā baruḥ sarvaharirvaiṃdro haristutirdvitriṣṭubaṃtaṃ*). In the Atirātra, in the third paryāya, the Brāhmaṇācchaṃsin recites this sūkta. It is also given in the sūtra: प्र ते मह ऊती शचीवस्तव वीर्येणेति याज्या (*pra te maha ūtī śacīvastava vīryeṇeti yājyā*) (Ā. 6-4). In the Ṣoḍaśin śastra too the first three Ṛks are to be recited; the sūtra says: प्र ते महे विदथे शंसिषं हरी इति तिस्रो जगत्यः (*pra te mahe vidathe śaṃsiṣaṃ harī iti tisro jagatyaḥ*) (Ā. 6-2).
+
+##### Anuvāda
+
+This sūkta "Pra te mahe" is the sixth sūkta in the eighth anuvāka. It has thirteen Ṛks. The seer of this sūkta is Baru of the Aṅgirasa gotra, or else Sarvahari, a son of Indra. The twelfth and thirteenth Ṛks of this sūkta are in the triṣṭubh metre; the remaining eleven Ṛks are in the jagatī metre. Since the two horses of Indra called Hari are praised in this sūkta, those horses of Indra are its deity. The Anukramaṇī says what has been quoted above. It is explained by the Āśvalāyana Śrauta Sūtra (Ā. 6-4), which says that in the third paryāya of the sacrifice called Atirātra the priest called Brāhmaṇācchaṃsin should recite this sūkta; and (Ā. 6-2) that at the time of reciting the Ṣoḍaśin śastra mantras the first three Ṛks of this sūkta should be recited.
+
+Sūkta 96
+Maṇḍala 10; Anuvāka 8; Sūkta 96.
+Aṣṭaka 8; Adhyāya 5; Vargas 5, 6, 7.
+Number of Ṛks in the sūkta: 13.
+Seer: Baru Sarvahari, son of Indra.
+Deity: praise of the two Haris.
+Metre: 1–11 jagatī; 12, 13 triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॑ म॒हे वि॒दथे॑ शंसिषं॒ हरी॒ प्र ते॑ वन्वे व॒नुषो॑ ॒ ॑
+> हर्यतं मदं ।  
+> घृ॒तं न यो हरि॑भि॒श्चारु॒ सेच॑त॒ आ त्वा॑ विशंतु॒ हरि॑वर्पसं॒  ॑
+> गिरः ॥ १ ॥
+
+### Printed p. 52
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । शे । महे । विदथे । शंसिषं । हरी इति । प्र । ते । वन्वे । वनुषः । हर्यतं ।  
+> मदु ।  
+> धृतं । न । यः । हरिभिः । चारु । सेचते । आ । त्वा । विशंतु । हरिवर्पसं । गिरः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव हरी अश्वा महे महति विदथे यज्ञे प्र शंसिषं । अशंसिषं।
+> अस्ताविषं । तथा वनुषः ॥ वनु हिंसायां ॥ हिंसकस्य ते तव हर्यतं ॥ हर्य
+> गतिकांतोः । तस्यौणादिकोऽतच् । चित्स्वरेणांतोदात्तः ॥ कमनीयं मदं प्र
+> वन्ने । प्रयाचेऽस्मदभिमतं ॥ वनु याचने ॥ य. इंद्रो हरिभिर्हरितवर्णैरश्वैर्मद्यागं गश्वा चारु चरणीयं धृतं न धृतमिव सुपूतमुदकं सेचते वर्षति
+> तं तादृशं हरिवर्पसं । वर्प इति रूपनाम । हरितरूपं त्वा त्वामा विशंतु
+> गिरोऽस्मदीयाः स्तुतिवाचस्तव मदाय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, I have praised your two bay horses at the great sacrifice. Further, I ask for your agreeable exhilaration, for you are the destroyer (of foes); the word हर्यतं (*haryataṃ*) means "desirable". I ask, I solicit, what we desire. Indra is he who, with his horses of yellow colour, pours down चारु (*cāru*), graceful, धृतं न (*dhṛtaṃ na*) "like clarified butter", that is, well-purified water. वर्प (*varpa*) is a name for form. Let our praise-words enter you, whose form is yellow, for your exhilaration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- हरी (*harī*)—horses
+- महे (*mahe*)—great
+- विदथे (*vidathe*)—at the sacrifice
+- प्र शंसिषं (*pra śaṃsiṣaṃ*)—I praise
+- वनुषं (*vanuṣaṃ*)—destroyer of foes
+- ते (*te*)—from you
+- हरतं (*harataṃ*)—attractive
+- मदं (*madaṃ*)—delight
+- प्रवन्वे (*pravanve*)—I ask
+- यः (*yaḥ*)—you who
+- हरिभिः (*haribhiḥ*)—with your horses
+- चारु (*cāru*)—beneficial
+- धृतं न (*dhṛtaṃ na*)—water that is like clarified butter
+- सेचते (*secate*)—do you pour down; such a one
+- हरिवर्पसं (*harivarpasaṃ*)—having a golden-coloured form
+- त्वा (*tvā*)—you
+- गिरः (*giraḥ*)—our praises
+- आ विशंतु (*ā viśaṃtu*)—let them enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I praise your horses at the great sacrifice. I ask from you, the destroyer of foes, attractive delight. May our praises enter you, golden-coloured, who together with your horses pour down beneficial water like clarified butter.
+
+##### English translation
+I glorified your bay horses, Indra, at the great sacrifice, I solicit the agreeable exhilaration of you, the destroyer of foes. May my praises attain to you, whose form is yellow, who, with your horses, shower (water) like beautiful butter.
+
+### Printed p. 53
+
+##### विशेषविषयगळु (Special Topics)
+
+Though here and there a few Ṛks praise Indra's horses, in this sūkta Indra's horses alone are praised throughout. The style is of a high standard. Because the word Hari is used in every pāda of every Ṛk, the recitation of the mantras sounds rhymed and pleasant to hear; this is the distinctive feature of this sūkta.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हरिं॒ हि योनि॑म॒भि ये स॒मस्व॑रन्हि॒न्वंतो॒ हरी॑ दि॒व्यं यथा॒  ॑
+> सदः॑ ।  
+> आ यं पृ॒णंति॒ हरि॑भि॒र्न धे॒नव॒ इंद्रा॑य शू॒षं हरि॑वंतमर्चत ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरिं । हि । योनिं । अभि । ये । संऽअस्वरन् । हिन्वंतः । हरी इति । दिव्यं । यथा ।  
+> सदः ।  
+> आ । यं । पृणंति । हरिभिः । न । धेनवः । इंद्राय । शूषं । हरिवंतं । अर्चत ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये पूर्वे स्तोतार ऋषयो योनिमिंद्रस्य स्थानभूतं हरिमश्वमभि
+> समस्वरन् ॥ स्वृ शब्दोपतापयोः ॥ अभिसंस्तुवंति । किं कुर्वंतः । दिव्यं देवसंबंधि सदो यागगृहं यथा प्रेरयंतींद्रं तथा हरी आश्वा हिन्वंतः प्रेरयंतः।
+> सोमेऽभिषुते सति स्वयमेवेंद्रो रथेऽश्वा प्रेरयति अतः स्तोत्यणां
+> हरिप्रेरणत्वं । यद्वा । दिव्यं सद इंद्रः प्राप्नुयाद्यथा तथा हरी स्तुतिभिर्हिन्वंतः
+> प्रेरयंतः । यमिंद्रं धेनवो नवप्रसूतिका गावो यथा पृणंति क्षीरादिभिः ।
+> अत्र पुरस्तादुपचारोऽपि नकार उपमार्थीयः । हरिभिर्हरितवर्णैः सोमैरा
+> पृणंति पूरयंति च । तथा यूयमसींद्रायेंद्रस्य हरिवंतं शूषं बलमर्चित ।
+> पूजयत हे स्तोतारः स्तुतिभिः ॥
+
+##### Gist of the bhāṣya
+
+The ancient praising seers who समस्वरन् (*samasvaran*) (the root स्वृ (*svṛ*) in the sense of sound and heat) praised together the horse Hari, the seat of Indra: doing what? Urging the two horses, as one urges Indra to the divine sacrificial house, the house belonging to the gods. When Soma has been pressed, Indra himself drives the horses on his chariot; hence the praisers are said to urge the horses. Or else: the praisers urge the two horses with praises so that Indra may reach the divine house. The Indra whom, as newly calved cows fill with milk and the like, they fill and satisfy with Soma of yellow colour (here the particle न (*na*) of the preceding clause also has the sense of comparison). So, O praisers, with praises worship the horse-possessing might of that Indra.
+
+### Printed p. 54
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—the praising seers
+- दिव्यं सदः (*divyaṃ sadaḥ*)—to the venerable sacrificial house
+- यथा (*yathā*)—in the manner of bringing Indra
+- हरी (*harī*)—the horses
+- हिन्वंतः (*hinvaṃtaḥ*)—urging
+- योनिं (*yoniṃ*)—the seat of Indra
+- हरिं (*hariṃ*)—the horse
+- अभि समस्वरन् (*abhi samasvaran*)—have praised
+- धेनवः न (*dhenavaḥ na*)—as cows satisfy with milk and the like
+- यं (*yaṃ*)—which Indra
+- हरिभिः (*haribhiḥ*)—with Soma of green colour
+- आ पृणंति (*ā pṛṇaṃti*)—they fill and satisfy
+- इंद्राय (*iṃdrāya*)—of that same Indra
+- हरिवंतं (*harivaṃtaṃ*)—horse-possessing
+- शूषं (*śūṣaṃ*)—the might
+- अर्चत (*arcata*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+The praising seers, urging the horses as if to bring Indra to the venerable sacrificial house, have praised the horse that carries Indra. As cows satisfy with milk and the like, so worship (praise) the horse-possessing might of that Indra whom they fill and satisfy with green-coloured Soma juices.
+
+##### English translation
+You, who have praised the horses, the seat of Indra, urging the horses so that (Indra may reach) the divine assembly, do you worship the horse-possessing might of Indra, whom men delight with the golden-tinted Soma juices as milch cows (with their milk.)
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो अ॑स्य॒ वज्रो॒ हरि॑तो॒ य आ॑य॒सो हरि॒र्निका॑मो॒ हरि॒रा  ॑
+> गभस्तोः ।  
+> द्यु॒म्नो सु॑शि॒प्रो हरि॑मन्युसायक॒ इंद्रे॒ नि रू॒पा हरि॑ता  
+> मिमिक्षिरे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अस्य । वज्रः । हरितः । यः । आयसः । हरिः । निकामः । हरिः । आ । गभस्त्योः ।  
+> द्युम्ना । सुशिप्रः । हरिमन्युसायकः । इंद्रे । नि । रूपा । हरिता । मिमिक्षिरे ॥ ३ ॥
+
+### Printed p. 55
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य स वज्रो हरितो हरितवर्णो य आयसोऽयःसारभूतोऽस्ति
+> निर्मितः । स च हरिर्हरितवर्णो वज्रो निकामो नितरां कमनीयः । स आ हंता
+> शत्रूणां ! तादृशो वज्रो गभस्त्योर्हस्तयोर्वर्तत इति शेषः । अयमिंद्रो
+> द्युम्ना । द्युम्नं द्योतमानं धनं । तद्वान् सुशिप्रः शोभनहनुर्हरिमन्युसायकः ।
+> यस्य मन्युः सायकः शत्रुहंताभिगंता ना भवति । यद्वा । शत्रुहंता कोपः
+> सायकश्च यस्य स तादृशो भवति । किं बहुना ! इंद्रे।रूपा रूपाणि हरिता हरितानि
+> नि मिमिक्षिरे । निषिक्तानि बभूवुः ॥ मिहेः सनंतात्मर्मणि लिटि रूपं ॥
+
+##### Gist of the bhāṣya
+
+That thunderbolt of this Indra is yellow, and is made of iron, being of the essence of metal; that yellow thunderbolt is निकामः (*nikāmaḥ*), exceedingly desirable. It is a striker (आ हंता (*ā haṃtā*)) of enemies. Such a thunderbolt is in his two hands (गभस्त्योः (*gabhastyoḥ*)); "is" is to be supplied. This Indra is द्युम्ना (*dyumnā*): द्युम्न (*dyumna*) is shining wealth, and he has it. He is सुशिप्रः (*suśipraḥ*), fair-jawed, हरिमन्युसायकः (*harimanyusāyakaḥ*): one whose anger and arrow are slayers of foes and go against them. Or else: one who has anger, the slayer of foes, and the arrow. What more need be said? The forms in Indra are yellow, नि मिमिक्षिरे (*ni mimikṣire*), they were infused; this is the form of the root *mih* in the desiderative-based perfect, middle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of Indra
+- यः वज्रः (*yaḥ vajraḥ*)—which thunderbolt
+- हरितः (*haritaḥ*)—being of green colour
+- निकामः (*nikāmaḥ*)—exceedingly attractive
+- आयसः (*āyasaḥ*)—made of steel
+- सः (*saḥ*)—that thunderbolt
+- अस्य (*asya*)—of Indra
+- गभस्त्योः (*gabhastyoḥ*)—being in the hands
+- आ (हंता) (*ā (haṃtā)*)—is a destroyer of foes
+- इंद्रः (*iṃdraḥ*)—Indra
+- द्युम्ना (*dyumnā*)—wealthy
+- सुशिप्रः (*suśipraḥ*)—having excellent cheeks
+- हरिमन्युसायकः (*harimanyusāyakaḥ*)—having anger and arrows that destroy foes
+- हरिता रूपा (*haritā rūpā*)—golden-coloured forms of many kinds
+- इंद्रे (*iṃdre*)—in Indra
+- नि मिमिक्षिरे (*ni mimikṣire*)—have joined together
+
+##### भावार्थ (Bhāvārtha)
+
+That thunderbolt of Indra which is green in colour, exceedingly attractive and made of steel, being in Indra's hands is a destroyer of foes. Indra is wealthy, has excellent cheeks, and has anger and arrows that destroy foes. Golden-coloured forms of many kinds have joined together in Indra.
+
+##### English translation
+That is his thunderbolt, yellow, made of iron, the destroyer (of foes) desirable, it is in his hands; (he is) possessed of riches handsome-jawed, possessed of a shaft and anger which destroys (his foes)-many golden-tinted forms are mixed in Indra.
+
 ---
 
-**Progress note:** Done through printed p. 49. pp. 44-49 (batch API)
+**Progress note:** Done through printed p. 55. pp. 50-55 (batch API)
