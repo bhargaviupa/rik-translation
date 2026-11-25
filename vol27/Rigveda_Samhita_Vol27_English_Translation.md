@@ -4715,6 +4715,305 @@ The Soma of ours (नः (*naḥ*)) which Indra drinks (पिबात् (*pib
 
 The Soma of ours which Indra drinks, which the Maruts drink, and which Bhaga drinks together with the god Aśvama **NOTE**; the Soma with whose help we shall invite Mitra and Varuṇa, and by which we shall satisfy Indra for great protection: that Soma is pressed.
 
+### Printed p. 103
+
+##### English translation
+Our (Soma) which Indra drinks, which the Maruts drink and the Bhaga with Aryaman; through which we propitiate Mitra and Varuna and Indra, to obtain his powerful protection.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य सोम॒ पात॑वे॒ नृभि॑र्य॒तः स्वा॑यु॒धो म॒दिंत॑मः।  
+> पव॑स्व॒ मधु॑मत्तमः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । सोम । पातवे । नृभिः । यतः । सुआयुधः । मदिन्तमः ।  
+> पवस्व । मधुमर्तमः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मधुमत्तमोऽतिशयेन माधुर्योपेतस्त्वमिंद्राय पातवे
+> पानार्थं पवस्व । कलशे क्षर । कीदृशः । नृभिः कर्मनेतृभिर्यत्विग्निर्यतः संयतः
+> स्वायुधः शोभनस्य कपालाद्यायुधोपेतो मंदितमो मादयित्यतमः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, most sweet, flow for Indra's drinking, that is, stream into the vessel. You are described as controlled by the priests, the leaders of the rite; as well armed with the excellent weapons such as the skull-cups; and as most exhilarating.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- नृभिः (*nṛbhiḥ*)—by the priests
+- यतः (*yataḥ*)—restrained
+- स्वायुधः (*svāyudhaḥ*)—possessing excellent weapons
+- मदिंतमः (*madiṃtamaḥ*)—full of joy
+- मधुमत्तमः (*madhumattamaḥ*)—possessing exceeding sweetness
+- इंद्राय (*iṃdrāya*)—for Indra
+- पातवे (*pātave*)—for drinking
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are restrained by the priests, possess excellent weapons, are full of joy and exceedingly sweet, flow for Indra's drinking.
+
+##### English translation
+Soma, collected by the priests, well-armed, most exhilarating, most sweet-flavoured, flow for Indra to drink.
+
+### Printed p. 104
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य॒ हार्दि॑ सोम॒धान॒मा वि॑श समु॒द्रमि॑व॒ सिंध॑वः ।  
+> जुष्टो॑ मि॒त्राय॒ वरु॑णाय वा॒यवे॑ दि॒वो वि॑ष्टं॒भ  ॒॑
+> उत्तमः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । हार्दि । सोमधानं । आ । विश । समुद्रं इव । सिंधवः ।  
+> जुष्टः । मित्राय ! वरुणाय । वायवे । दिवः । विष्टंभः । उत्कतमः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वमिंद्रस्य हार्दि हृदयंगमं हृदयभूतं वा सोमधानं ।
+> सोमो निधीयतेऽस्मिन्निति सोमधानः कलशः । तमा विश । प्रविश । तत्र दृष्टांतः ।
+> समुद्रमिव यथा समुद्रं सिंधवो नद्यः प्रविशंति तद्वत् । कीदृशस्त्वं । मित्राय
+> वरुणाय वायवे च तेभ्यो जुष्टो दिवो द्युलोकस्य विष्टंभो विष्टंभयिता
+> स्थापयितोत्तमः सर्वेषामुत्कृष्टतमस्तं कलशमा विश ॥
+
+##### Gist of the bhāṣya
+
+O Soma, enter Indra's हार्दि (*hārdi*), that is, heart-pleasing or heart-like, सोमधानं (*somadhānaṃ*): the vessel in which Soma is deposited. Example: as rivers enter the sea. You are pleasing to Mitra, Varuna and Vayu, the upholder and supporter of heaven, the most excellent of all; enter that vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma) मित्राय (*mitrāya*)—to Mitra
+- वरुणाय (*varuṇāya*)—to Varuna
+- वायवे (*vāyave*)—to Vayu
+- जुष्टः (*juṣṭaḥ*)—the satisfier
+- दिवः (*divaḥ*)—of the heavenly world
+- विष्टंभः (*viṣṭaṃbhaḥ*)—the establisher
+- उत्तमः (*uttamaḥ*)—the most excellent; you who are such
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- हार्दि (*hārdi*)—giving satisfaction to the mind
+- सोमधानं (*somadhānaṃ*)—the vessel
+- सिंधवः (*siṃdhavaḥ*)—rivers
+- समुद्रं इव (*samudraṃ iva*)—as they enter the sea
+- आ विश (*ā viśa*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who satisfy Mitra, Varuna and Vayu, establish the heavenly world and are most excellent, enter the vessel that gives satisfaction to Indra's mind, as rivers enter the sea.
+
+##### English translation
+Soma, enter the Somadhana, Indra's heart, as the rivers (enter) the sea agreeable to mitra, Varuna and Vayu, the chief stay of heaven.
+
+### Printed p. 105
+## Sūkta 109 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परि प्रेति द्वाविंशत्युचं द्वैपदं षष्ठं सूक्तं । यज्ञे सदस्यवस्थितहोत्रीयादिधिष्टोपेता अग्नयो नामेश्वरपुत्रा ऋषयः । विंशतिका द्विपदा विराजः ।
+> पवमानः सोमो देवता । तथा चानुक्रांतं । परि प्र द्व्यधिकाग्नयो धिष्णा
+> ऐश्वरा द्वैपदमिति ॥ गतो विनियोगः ॥
+> अनुनादवु—परि प्र धन्व ऎंब ई सूक्तवु एळनॆय अनुवाकदल्लि आरनॆय सूक्तवु.
+> इदरल्लि इप्पत्तॆरडु ऋक्कुगळिरुववु. यज्ञदल्लि सदःस्थानदल्लिरुववरू होत्रने मॊदलाद
+> धिष्णोपेतरू, ईश्वरपुत्ररू आद अग्नयः ऎंब ऋषिगळु ई सूक्तक्कॆ ऋषिगळु. पवमान
+> सोमनु देवतॆयु ; ई सूक्तद ऋक्कुगळु इप्पत्तक्षरगळिरुव विराट् छंदस्कवु. अनुक्रमणिकॆ
+> यल्लि—परि प्र द्व्यधिकाग्नयो धिष्णा ऐश्वरा द्वैपदं ऎंदु हेळिरुवुदु. विनियोगवन्नु
+> हिंदॆये हेळलागिदॆ.
+> सूक्त—१०९
+> मंडल—९ ॥ अनुवाक—७ ॥ सूक्त—१०९ ॥
+> अष्टक—७ ॥ अध्याय—५ ॥ वर्ग—२०, २ १॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—२२ ॥
+> ऋषि—अग्नयो धिष्णा ऐश्वराः ॥
+> देवता—पवमानः सोमः ॥
+> छंदः—द्विपदा॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, "pari pra", of twenty-two Ṛks, in dvipadā verses. The seers are the sons of Īśvara called Agnis, who in the sacrifice are stationed in the sadas, with the dhiṣṇya hearths beginning with that of the Hotṛ. The twenty-syllable viṛāj-type dvipadā is the metre; Pavamāna Soma is the deity. The Anukramaṇī is quoted: परि प्र द्व्यधिकाग्नयो धिष्णा ऐश्वरा द्वैपदमिति (*pari pra dvyadhikāgnayo dhiṣṇā aiśvarā dvaipadamiti*). The viniyoga has been stated.
+
+Particulars: Sūkta 109; Maṇḍala 9; Anuvāka 7; Aṣṭaka 7, Adhyāya 5, Varga 20, 21; number of Ṛks in the sūkta 22; seers: the Agnis, the dhiṣṇya hearths, sons of Īśvara; deity: Pavamāna Soma; metre: dvipadā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ प्र ध॒न्वेंद्रा॑य सोम स्वा॒दुर्मि॒त्राय॑ पू॒ष्टे भगा॑य॥  
+> ॥ दडतारक ॥  
+> परि॒ प्र । ध॒न्व । इंद्रा॑य । सोम । स्वा॒दुः । मि॒त्राय॑ । पू॒ष्टे । भगा॑य ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम स्वादुः स्वादरसत्त्वमिंद्राय मित्राय पूष्टे भगाय्तेभ्यो
+> देवेभ्यः परि प्र धन्व । हरितः पात्रेषु प्रक्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are sweet, flow around for Indra, Mitra, Pūṣan and Bhaga, these gods; stream into the vessels.
+
+### Printed p. 106
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- स्वादु (*svādu*)—you who are tasty
+- इंद्राय (*iṃdrāya*)—for Indra
+- मित्राय (*mitrāya*)—for Mitra
+- पूष्टे (*pūṣṭe*)—for Pūṣan
+- भगाय (*bhagāya*)—for Bhaga
+- परि प्र धन्व (*pari pra dhanva*)—flow all around
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are tasty, flow all around for the drinking of these gods: Indra, Mitra, Pūṣan and Bhaga.
+
+##### English translation
+Flow, Soma, who are sweet-flavoured, for Indra, Mitra, Pushan and Bhaga.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्ते सोम सु॒तस्य॑ पेयाः॒ क्रत्वे॒ दक्षा॑य॒ विश्वे॑ च दे॒वाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । ते । सोम । सुतस्य । पेयाः । क्रत्वे । दक्षाय विश्वे च । देवाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सुतस्याभिषुतस्य ते तव स्वं भागमिंद्रः पेयाः । पेयात् । पिबतु॥
+> पातेराशीर्लिजति रूपं । पुरुषव्यत्ययः ॥ किमर्थं । क्रत्वे क्रतवे प्रज्ञानाय
+> दक्षाय बलाय च । किंचामि सर्वॆ विश्वे देवाश्च त्वदीयमंशं पिबंतु ॥
+
+##### Gist of the bhāṣya
+
+O Soma, may Indra drink his own share of you, the pressed one; पेयाः (*peyāḥ*) stands for पेयात् (*peyāt*), "let him drink": the benedictive form of the root पा (*pā*), with a change of person. For what purpose? For क्रत्वे (*kratve*), understanding, and दक्षाय (*dakṣāya*), strength. And let all the Viśvedevas also drink your portion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- सुतस्य (*sutasya*)—of the pressed
+- ते (*te*)—your share
+- इंद्रः (*iṃdraḥ*)—Indra
+- क्रत्वे (*kratve*)—for the gaining of excellent knowledge
+- दक्षाय (*dakṣāya*)—for increase of strength
+- पेयाः (*peyāḥ*)—let him drink
+- विश्वे (*viśve*)—all
+- देवाः च (*devāḥ ca*)—the gods too, let them drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, let Indra drink your share, prepared by pressing, for the gaining of excellent knowledge and for increase of strength. Let all the gods drink too.
+
+### Printed p. 107
+
+##### English translation
+Soma, let Indra and all the gods drink of you when effused for intelligence and strength.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वामृता॑य म॒हे क्षया॑य॒ स शु॒क्रो अ॑र्ष दि॒व्यः  ॒॑
+> पीयूषः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । अमृताय । महे । क्षयाय । सः । शुक्रः । अर्ष । दिव्यः । पीयूषः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम शुक्रो दीप्तो दिव्यो दिवि भवः पीयूषो देवैः पातव्यः स
+> त्वममृतायामरणाय महे महते क्षयाय निवासाय चैवार्ष । एवं पवस्व ।
+> क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, bright, heavenly, the drink to be drunk by the gods: you, for immortality and for a great dwelling, flow thus; stream.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma) शुक्रः (*śukraḥ*)—shining
+- दिव्यः (*divyaḥ*)—born in the heavenly world
+- पीयूषः (*pīyūṣaḥ*)—fit to be drunk by the gods
+- सः (*saḥ*)—you
+- अमृताय (*amṛtāya*)—for freedom from death
+- महे (*mahe*)—great
+- क्षयाय (*kṣayāya*)—for a dwelling
+- एव (*eva*)—thus
+- अर्ष (*arṣa*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are shining, born in the heavenly world and fit to be drunk by the gods, flow thus for freedom from death and for a great dwelling.
+
+##### English translation
+So do you who are pure, divine, the beverage of all the gods, flow for immortality and a spacious abode.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व सोम म॒हान्त्स॑मु॒द्रः पि॒ता दे॒वानां॒ विश्वा॒भि धाम॑॥
+
+### Printed p. 108
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । सोम । महान् । समुद्रः । पिता । देवानां । विश्वा । अभि । धाम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम महान् देवोभ्यो दीयमानत्वेन महत्त्वयुक्तः समुद्रः
+> समुंदनः । यस्मात्समुद्रवंति रसास्तादृशः । पिता सर्वेषां पालयिता त्वं
+> देवानां विश्वा विश्वानि सर्वाणि धाम धामानि शरीराण्यभिलक्ष्य पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are great, being given to the gods and so possessed of greatness; समुद्रः (*samudraḥ*), "the one who wets": from you the juices flow. You are the father, the protector of all. Flow, directing yourself to all the dwellings, that is, bodies, of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- महान् (*mahān*)—of great nature
+- समुद्रः (*samudraḥ*)—of the nature of a stream
+- पिता (*pitā*)—protector of all; you who are such
+- देवानां (*devānāṃ*)—of the gods
+- विश्वा (*viśvā*)—all
+- धाम अभि (*dhāma abhi*)—towards the dwellings
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are of great nature, of the nature of a stream and protector of all, flow towards all the dwellings of the gods.
+
+##### English translation
+Flow, Soma, who are mighty, the shedder of juice, the parent of gods, towards all bodies.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒क्रः प॑वस्व दे॒वेभ्यः॑ सोम दि॒वे पृ॑थि॒व्यै शं च॑ प्र॒जायै॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुक्रः । पवस्व । देवेभ्यः । सोम । दिवे । पृथिवै । शं । च । प्रजायै ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम शुक्रो दीप्तस्त्वं देवेभ्यो देवार्थं पवस्व । क्षर । किंच दिवे
+> पृथिवै च द्यावापृथिवीभ्यां च ततः प्रजायै प्रजाभ्यश्च शं सुखं च कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Soma, bright, flow for the gods, that is, for their sake. Further, bring well-being to heaven and earth, and then to the offspring.
+
 ---
 
-**Progress note:** Done through printed p. 102. pp. 97-102 (batch API)
+**Progress note:** Done through printed p. 108. pp. 103-108 (batch API)
