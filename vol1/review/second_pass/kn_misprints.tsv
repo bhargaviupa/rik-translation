@@ -232,3 +232,6 @@ page	place	as_found	question	why_not_settled	decision
 502	Kannada prose	ಪ್ರಾಧ್ಯಾನ	Kannada misprint ಪ್ರಾಧ್ಯಾನ (for primacy); English has the plain sense		English kept
 503	Kannada prose	ಕುದ್ಬಾಧೆ	Kannada misprint ಕುದ್ಬಾಧೆ (for hunger); English has hunger satisfied		English kept
 510	Kannada prose	ಬತ್ತವನ್ನು	Kannada misprint ಬತ್ತವನ್ನು (for ಭತ್ತ); English has rice		English kept
+523	page prose	ಅವನ್ನು for ಅವನು; ಸಂಪಾದಿಸದ for ಸಂಪಾದಿಸಿದ	Kannada misprint ಅವನ್ನು/ಸಂಪಾದಿಸದ; English has 'he'/'attained'		English kept
+530	Sanskrit quotation in prose	ಜಾಯೇವ ಸತ್ಯ ಉಶತೀ; ತನ್ನಂ ವಿ ಸಸ್ರೇ	Kannada misprint ಸತ್ಯ/ತನ್ನಂ; English has patya/tanvam		English kept
+546	prose on relation	ಪ್ರತಿಪಾದ್ಯ and ಪ್ರತಿಪಾದಕ reversed	Kannada misprint (terms reversed) Veda=pratipadya; English has Veda=pratipadaka		English kept

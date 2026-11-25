@@ -10738,7 +10738,7 @@ If Vichara-shastra study were obtained purely through the study-injunction, that
 > नित्य आगतसङ्ग इति ॥
 > nitya āgatasaṅga iti ||
 
-**Sutra's meaning:** Brahma-vichara belongs only to the paramahamsa (the renunciate sannyasi). For a sannyasi, Brahma-vichara is a nitya (obligatory) duty — Brahma-jnana is the sannyasi's own proper task; his mind must remain constantly attached to Brahman.
+**Sutra's meaning:** Brahma-vichara belongs only to the paramahamsa (the renunciate sannyasi). For a sannyasi, Brahma-vichara is a nitya (obligatory) duty — Brahma-jijnasa (the desire to know Brahman) is the sannyasi's own duty; his mind must remain constantly attached to Brahman.
 
 **A further important qualification now follows** — that knowledge of meaning, though not commanded by the study-injunction itself, IS enjoined elsewhere:
 
@@ -10747,7 +10747,7 @@ If Vichara-shastra study were obtained purely through the study-injunction, that
 >
 > "The injunction to study the Veda, therefore, goes no further than the letter of Scripture. But you are not to suppose that a knowledge of the meaning is not also enjoined. It is, but in another text: '**A brahmin must be able to repeat and must understand the meaning of disinterested virtue in the shape of the Veda with its six Angas.**' By the word 'disinterested' the idea that the one or other duty is matter of desire (so that there might be brahmins who wish them, and are therefore qualified) is barred."
 
-That is: whatever fruit one might hope for, a brahmin must study the Veda together with its six Angas — which convey dharma — and must also understand its meaning. This is itself a vidhi (injunction). The word "niṣkāraṇa" (disinterested/without ulterior motive) is used precisely to rule out treating either study or understanding as merely optional, desire-driven acts; both are obligatory regardless of any hoped-for reward. This makes clear that Vedic study accompanied by meaning-comprehension is indeed required.
+That is: without any hope of reward, a brahmin must study the Veda together with its six Angas — which convey dharma — and must also understand its meaning. This is itself a vidhi (injunction). The word "niṣkāraṇa" (disinterested/without ulterior motive) is used precisely to rule out treating either study or understanding as merely optional, desire-driven acts; both are obligatory regardless of any hoped-for reward. This makes clear that Vedic study accompanied by meaning-comprehension is indeed required.
 
 **Two texts from another Shakha**, cited by Yaska the author of the Nirukta, incite people toward studying the Veda's meaning: "Here follows the praise of knowledge and the censure of ignorance:—"
 
@@ -10803,7 +10803,7 @@ These two mantras comprise four half-mantras. Of these, the half-mantra "yo'rtha
 > योऽर्वाङ् उत वा पुराणे वेदं विद्वांसम् अभितो वदन्त्य् आदित्यम् एव ते परिवदन्ति सर्वे । अग्निं द्वितीयं तृतीयं च हंसम् ॥
 > yo'rvāṅ uta vā purāṇe vedaṃ vidvāṃsam abhito vadanty ādityam eva te parivadanti sarve | agniṃ dvitīyaṃ tṛtīyaṃ ca haṃsam ||
 >
-> "Those who, whether of recent or of ancient times, speak all around against a man learned in the Veda — they are in truth speaking against Aditya (the Sun) himself; and against Agni as the second, and the Hamsa (Vayu/the Supreme) as the third."
+> "Those who, whether of recent or of ancient times, speak all around against a man learned in the Veda — they are in truth speaking against Aditya (the Sun) himself; and against Agni as the second, and the Hamsa (Vayu) as the third."
 
 **This is explained as follows:** all the gods dwell in the brahmin who knows the Veda. Therefore a man should do daily honour to brahmins who know the Veda, and speak no harsh word to them. Thus shall he please all the gods.
 
@@ -10830,9 +10830,9 @@ That he who knows the Veda bears the form of Agni, Vayu, and Aditya is revealed 
 
 *(The Sanskrit passage at the head of the page, ending "… yāskena kācid ṛg udāhṛtā", closes with the reference (Nirukta 1-19).)*
 
-One who studies the Veda without understanding its meaning is like a pillar bearing a load. One who genuinely understands the Veda's meaning gains all prosperity, and through the knowledge he has attained, destroys his sins and attains heaven. Reciting the Veda by heart without grasping its meaning is like a heap of unlit charcoal — however much dry fuel is thrown upon it, no flame will ever catch. In just this way, Veda-recitation without meaning-comprehension is fruitless.
+One who studies the Veda without understanding its meaning is like a pillar bearing a load. One who genuinely understands the Veda's meaning gains all prosperity, and through the knowledge he has attained, destroys his sins and attains heaven. Reciting the Veda by heart without grasping its meaning is like a heap of cold ashes (the fire gone out) — however much dry fuel is thrown upon it, no flame will ever catch. In just this way, Veda-recitation without meaning-comprehension is fruitless.
 
-Of the two mantras above, the portion beginning "yo'rthajña..." praises the investigation of the Veda's meaning; the remaining three quarter-verses censure the lack of it. One who understands the Veda's meaning attains all prosperity in this world, and after death attains heaven. Regarding this two-worldly fruit of Vedic knowledge, the Taittiriyas cite a mantra together with its explanatory Brahmana passage:
+Of the two mantras above, the portion beginning "yo'rthajña..." praises the investigation of the Veda's meaning; the remaining three half-verses (lines) censure the lack of it. One who understands the Veda's meaning attains all prosperity in this world, and after death attains heaven. Regarding this two-worldly fruit of Vedic knowledge, the Taittiriyas cite a mantra together with its explanatory Brahmana passage:
 
 > योऽर्वाङ् उत वा पुराणो वेदं विद्वांसम् अभितो वदन्त्य् आदित्यम् एव ते परिवदन्ति सर्वे । अग्निं द्वितीयं तृतीयं च हंसम् इति ॥
 > yo'rvāṅ uta vā purāṇo vedaṃ vidvāṃsam abhito vadanty ādityam eva te parivadanti sarve | agniṃ dvitīyaṃ tṛtīyaṃ ca haṃsam iti ||
@@ -10861,7 +10861,7 @@ All deities reside within the brahmin who has studied the Veda and understood it
 
 **Note on terminology:** the word "vedavid" used in the original means specifically one who has studied the Veda *and understood its meaning* — that is, one who genuinely comprehends the Veda's sense. Such knowers are of two kinds: (1) contemporary ones — teachers skilled in all fourteen sciences (vidyā-sthānas) of the present age; and (2) ancient ones — Vyasa and similar rishis of former times. Both alike deserve honour.
 
-**Who is disqualified from such honour:** those who, though not genuinely learned, become proud through mere book-learning (vidyā-mada), or through wealth (dhana-mada — believing no one equals them in prosperity), or through birth (kula-mada — believing themselves born in the highest lineage) — such arrogant persons, though they may have studied all the shastras, and who then revile these two classes of Veda-knowers (whether modern or ancient) in various ways...
+**Who reviles them:** those who, with only a little learning of their own, become proud through mere book-learning (vidyā-mada), or through wealth (dhana-mada — pride that they have all the wealth they need), or through birth (kula-mada — believing themselves born in the highest lineage) — such arrogant persons, believing themselves great scholars who know all the shastras, revile these two classes of Veda-knowers (whether modern or ancient) in various ways...
 
 ---
 
@@ -10878,7 +10878,7 @@ All deities reside within the brahmin who has studied the Veda and understood it
 
 > अग्नेर्वायोरादित्यस्य सायुज्यं गच्छति ।
 > *agner vāyor ādityasya sāyujyaṃ gacchati |*
-> "He attains sāyujya (union/fellowship) with Agni, Vayu, and Aditya." And not these three deities alone: all deities dwell within one who has understood the Veda's meaning. **For this reason, one who knows the Veda's meaning is himself of the nature of all the gods.** Therefore, one should offer daily reverence to such brahmins accomplished in Vedic meaning, whether seen in person or recalled to mind. Should one even perceive a fault in them, it must not be broadcast. Doing so, all the mantra-meanings dwelling in his heart become pleased — and by remembering and revering him, one thereby pleases all those deities.
+> "He attains sāyujya (union/fellowship) with Agni, Vayu, and Aditya." And not these three deities alone: all deities dwell within one who has understood the Veda's meaning. **For this reason, one who knows the Veda's meaning is himself of the nature of all the gods.** Therefore, one should offer daily reverence to such brahmins accomplished in Vedic meaning, whether seen in person or recalled to mind. Should one even perceive a fault in them, it must not be broadcast. By doing so, that is, by remembering the knowers of the Veda's meaning, all the deities presiding over the Veda dwell in his heart; and one who remembers and reveres them thereby pleases those deities.
 
 **A critical terminological point:** this refers specifically to one who *understands* the Veda's meaning — not to mere recitation-study alone. Note that the text uses "vedam adhīyānam" (studying the Veda) versus "vedavid" (knowing the Veda) as distinct terms — and it is precisely "vedavid" that scripture employs here. Thus, one who understands the Veda's meaning is to be honoured by all living beings as an embodiment of all the deities; such a knower of Vedic meaning is rightly blessed in both worlds.
 
@@ -10902,7 +10902,7 @@ The word "kila" in the text indicates that what is said is a matter of common kn
 
 One who memorizes the Veda without understanding its meaning is not thereby outcasted — that is the only "fruit," and no more. He does not gain the ability to perform yajnas, nor obtain heavenly rewards or any further human aim.
 
-The word "kila" in the original indicates a matter of common worldly knowledge: even in ordinary experience, a reciter who understands the Veda's meaning receives greater honour and greater gifts, while a mere reciter who has learned only from his guru without comprehension receives none of that honour. He gains no distinction whatsoever. Where dry firewood is heaped upon a fire, does it not burn? It does — and correspondingly, a reciter who merely recites is like Vedic speech with no ability to ignite; only one who recites *with understanding* generates real fruit.
+The word "kila" in the original indicates a matter of common worldly knowledge: even in ordinary experience, a reciter who understands the Veda's meaning receives greater honour and greater gifts, while a mere reciter who has learned only from his guru without comprehension receives less honour than the one who knows the meaning. Reciting the Vedic text taught by the guru, without knowing its meaning, gives the reciter no knowledge of the Veda's meaning and inspires him in nothing. Does firewood thrown where there is no fire burn, however dry it is? Likewise the words a reciter utters, though they are Vedic words, carry little weight; only if he utters them knowing their meaning does great fruit arise.
 
 **A genuinely important etymological argument now follows:** what, indeed, is the Veda? What is the meaning of the word "Veda"? Why is that name given? The word "veda" derives from the root meaning "to know" (√vid) — because it makes known the means of attaining human aims that cannot be known through ordinary worldly experience. On this basis, Sayana explains the very meaning of the term:
 
@@ -10993,7 +10993,7 @@ The first sentence ends with "gamayati" (singular); the second ends with "gamaya
 > यावतोऽश्वान् प्रतिगृह्णीयात् तावतो वरुणांश् चतुर्कपालान् निर्वपेत् ॥
 > yāvato'śvān pratigṛhṇīyāt tāvato varuṇāṃś caturkapālān nirvapet || (Taittiriya Samhita 2-3-12-1)
 
-Here the agent-word governing the action is grammatically ambiguous — there's no grammatical doubt as such, but on a purely grammar-based reading, this statement indicates that the person who *accepts* the horses must perform the required ishti (homa). However, examined through Mimamsa's own reasoning (Jaimini Sutra 3-4-30), it is definitively established that the person who *gives* the gift must perform this ishti.
+In this mantra the agent, verb and other words are all bound by the rules of grammar, so there is no ground for doubt; but if one sets out to explain the sentence on the basis of the grammatically correct words, this statement indicates that the person who *accepts* the horses must perform the required ishti (homa). However, examined through Mimamsa's own reasoning (Jaimini Sutra 3-4-30), it is definitively established that the person who *gives* the gift must perform this ishti.
 
 **Therefore the first half of the verse speaks of these two classes of ignorant people** [one lacking grammar, one lacking Mimamsa].
 
@@ -11305,7 +11305,7 @@ It is true that the injunction here has special reference to a knowledge of the 
 
 **Therefore, as it is clear that a knowledge of the Veda's meaning is as much matter of positive injunction as is the study of its text, we are now in that view about to expound the Veda.**
 
-**Meaning:** enough — why this devotion to Vedic meaning-knowledge? Should we not simply praise it and undertake it? Is it right to expound its meaning through elaborate labor? Must one understand the Veda's meaning? To all this we answer: we have great reverence for meaning-knowledge, and no contempt whatsoever. The praises given for meaning-knowledge have been shown in particular detail above, and nowhere in this discussion is such knowledge condemned. Furthermore: just as the auspicious and inauspicious karmas a person performs follow him after death into his next life, so too does the unseen fruit acquired through Vedic-meaning-knowledge accompany him into that next life. Thus the Vajasaneyins (Shukla-Yajurveda followers) declare: "taṃ vidyā-karmaṇī samanvārabhete pūrva-prajñā ca" — knowledge, action, and prior wisdom follow the person and accompany him after death. **Therefore, since meaning-knowledge, just like study itself, is scripturally enjoined, expounding the Veda's meaning is genuinely necessary.**
+**Meaning:** enough — why this devotion to Vedic meaning-knowledge? Why do you expound its praise and its meaning with so much labour? Would it not be enough simply to say that the Veda's meaning should be known? To this we must reply: we have faith in meaning-knowledge, but why do you hate it so? The praises given for meaning-knowledge have been shown in particular detail above, and nowhere in this discussion is such knowledge condemned. Furthermore: just as the auspicious and inauspicious karmas a person performs follow him after death into his next life, so too does the unseen fruit acquired through Vedic-meaning-knowledge accompany him into that next life. Thus the Vajasaneyins (Shukla-Yajurveda followers) declare: "taṃ vidyā-karmaṇī samanvārabhete pūrva-prajñā ca" — knowledge, action, and prior wisdom follow the person and accompany him after death. **Therefore, since meaning-knowledge, just like study itself, is scripturally enjoined, expounding the Veda's meaning is genuinely necessary.**
 
 ### Determination of the Four Preliminaries: Subject-Matter, Purpose, Relation, and Qualified Persons
 
@@ -11331,9 +11331,9 @@ Before listeners can be expected to engage in the study of any work, they must b
 
 This is all it is usual to give under this head. **But if the Veda, as distinguished from the commentary on the Veda which is our undertaking, were without subject, use, and so on, the commentary too would want these in the second and higher degree. Therefore I shall state the four with regard to the Veda also.**
 
-**The Veda's own subject-matter is dharma.** As Jaimini states in his Purusharthanushasana-sutra: "dharma-brāhmaṇe vaidyaka-vedyo" — and again, in his second sutra: "codanā-lakṣaṇo'rtho dharmaḥ" (Jaimini Sutra 1-1-2), "dharma is that whose defining mark is Vedic injunction." Since dharma is precisely what is knowable through Vedic injunction and not through perception, the Veda's subject-matter is dharma.
+**The Veda's own subject-matter is dharma.** As the Purusharthanushasana states: "dharma-brāhmaṇe vaidyaka-vedyo" — and again, in his second sutra: "codanā-lakṣaṇo'rtho dharmaḥ", "dharma is that whose defining mark is Vedic injunction." Since dharma is precisely what is knowable through Vedic injunction and not through perception, the Veda's subject-matter is dharma.
 
-**Regarding whether dharma can be perceived directly:** dharma is not accessible to direct perception (pratyakṣa) — this is established by the sutra "pratyakṣam animittaṃ vidyamānopalambhanāt" (Jaimini Sutra 1-1-4). Nor can inference apprehend it, since inference itself depends upon a prior perceptual ground (liṅga-grahaṇa). Therefore, the Veda alone is the authority regarding dharma.
+**Regarding whether dharma can be perceived directly:** dharma is not accessible to direct perception (pratyakṣa) — this is established by the sutra "pratyakṣam animittaṃ vidyamānopalambhanāt" (Jaimini Sutra 1-1-4). Nor can inference apprehend it, since it has no mark (liṅga) to infer from. Therefore, the Veda alone is the authority regarding dharma.
 
 **Further supporting citation:**
 
@@ -11406,7 +11406,7 @@ Without these present in a work, listeners will not undertake to read it. Theref
 > प्रत्यक्षमनिमित्तं विद्यमानोपलम्भनात् ।
 > *pratyakṣam animittaṃ vidyamānopalambhanāt |* (Jaimini Sutra 1-1-4)
 
-**Why dharma cannot be perceived:** dharma must be performed for one's own ultimate good, or must first be known before being performed — it is thus an object of knowledge, not of direct perception. It cannot be seen with the eyes; and what cannot be grasped by the eyes cannot afterwards be apprehended. Since the senses can grasp only what falls within their range, dharma cannot be apprehended by the senses at all. **Therefore dharma is knowable through the Veda alone.**
+**Why dharma cannot be perceived:** dharma must be performed for one's own ultimate good, or must first be known before being performed — it is thus an object of knowledge, not of direct perception. It cannot be seen with the eyes; nor can it be known by inference, for a thing that the senses cannot reach cannot be inferred. Since the senses can grasp only what falls within their range, dharma cannot be apprehended by the senses at all. **Therefore dharma is knowable through the Veda alone.**
 
 > "Perception is not a cause there, because perception deals with things that are, not with things that are to be." **Dharma will arise after the sacrifice producing it has been performed:** it does not exist before, and perception is therefore useless here. Nor even afterwards can dharma be apprehended by the senses, because it is destitute of form. That is the reason why it is commonly called "**adṛṣṭa**," that which is unseen. Nor is the second source of knowledge, inference, available here. Why? On account of the absence of characteristic marks. You will perhaps say that joy and sorrow are such characteristic marks for dharma and adharma. True. But they are given as such in the Veda itself. **Therefore the Veda is the only authority for religious duty.**
 
@@ -11425,7 +11425,7 @@ There is no other way; since we have already established the Veda's authority, w
 
 One who performs dharma becomes happy; one who performs adharma becomes miserable. Seeing a happy person we conclude he has performed dharma; seeing a miserable one, that he has performed adharma. Pleasure and pain are indeed marks of dharma and adharma — this is precisely the point.
 
-**On brahma:** although differing from dharma, inasmuch as it is something already in existence, **brahma can be known only from the shastra** — as is taught in the second section of the third sutra of the Uttara Mimamsa (Brahma-sutra 1-1-3). As the commentator explains: "The meaning is that the shastra is the only authority for the truth that brahma is the cause of the birth, life, and death of the world." We can quote a text of Scripture too:
+**On brahma:** although differing from dharma, inasmuch as it is something already in existence, **brahma can be known only from the shastra** — as is taught in the second section of the third sutra of the Uttara Mimamsa. As the commentator explains: "The meaning is that the shastra is the only authority for the truth that brahma is the cause of the birth, life, and death of the world." We can quote a text of Scripture too:
 
 > "न वेदाविन् मनुते तं बृहन्तम्"
 > "na vedāvin manute taṃ bṛhantam" (Taittiriya Brahmana 3-12-9-7)
@@ -11452,7 +11452,7 @@ Previous teachers have shown that this text has its application in the doctrine 
 
 Therefore dharma and brahma — the Veda's own subject-matter — are knowable through the Veda alone; there is no other means. **And knowledge of dharma and brahma is the immediate use (prayojana) of the Veda.**
 
-Nor need we doubt lest such knowledge — like that, for example, that the earth has seven continents, or that a certain king is going somewhere — has no relation to any end of man. In ordinary usage, statements such as "the earth is bounded by seven islands" or "this king is going there" convey a genuine meaning, yet yield no human benefit to the hearer. Is the Veda's meaning to be understood in that same way? No, it is not — for from ordinary worldly statements a person gains nothing, whereas from knowledge of the Veda's meaning both dharma and brahma are attained, and thereby the human aims are accomplished.
+Nor need we doubt lest such knowledge — like that, for example, that the earth has seven continents, or that a certain king is going somewhere — has no relation to any end of man. In ordinary usage, statements such as "the earth is bounded by seven islands" or "this king is going there" convey a genuine meaning, yet yield no human benefit to the hearer. Is the Veda's meaning to be understood in that same way? No, it is not — for from ordinary worldly statements a person gains little, whereas from knowledge of the Veda's meaning both dharma and brahma are attained, and thereby the human aims are accomplished.
 
 **That dharma yields human benefit is praised in Scripture thus:**
 
@@ -11497,7 +11497,7 @@ The Vajasaneyins (followers of the Shukla-Yajurveda) state, in the Srishti (crea
 
 **Meaning:** thereafter He created dharma, that form of excellence. That itself is dharma. That very dharma is the kshatriya's own ruling power; nothing whatsoever is higher than it. Just as a person relies upon a king, one who relies upon dharma — even the weak — becomes strong.
 
-**And the Taittiriya states** — "ब्रह्मविदाप्नोति परम्" *brahmavid āpnoti param* (Taittiriya Upanishad 2-1) — the knower of brahma attains the Supreme. **The Mundaka Upanishad states** — "ब्रह्म वेद ब्रह्मैव भवति" *brahma veda brahmaiva bhavati* — one who knows brahma becomes brahma itself (attaining oneness with brahma). **And "तरति शोकमात्मवित्" *tarati śokam ātmavit*** (Chandogya Upanishad 7-1-3) — one who knows the Self crosses beyond sorrow; for him there is no misery. In such statements throughout Scripture, the human benefit arising from brahma-knowledge is well established.
+**And the Taittiriya states** — "ब्रह्मविदाप्नोति परम्" *brahmavid āpnoti param* (Taittiriya Upanishad 2-1) — the knower of brahma attains the Supreme. **The Chandogya Upanishad states** — "ब्रह्म वेद ब्रह्मैव भवति" *brahma veda brahmaiva bhavati* — one who knows brahma becomes brahma itself (attaining oneness with brahma). **And "तरति शोकमात्मवित्" *tarati śokam ātmavit*** (Chandogya Upanishad 7-1-3) — one who knows the Self crosses beyond sorrow; for him there is no misery. In such statements throughout Scripture, the human benefit arising from brahma-knowledge is well established.
 
 ### The Qualified Person (Adhikārī)
 
@@ -11569,12 +11569,12 @@ The Vajasaneyins (followers of the Shukla-Yajurveda) state, in the Srishti (crea
 
 ### Page 547
 
-Even though the words of very profound texts may, in some places, be difficult to grasp, their deep meaning is still understood by those who study, and because of this — the Angas being the means to that understanding — the wise call the Veda's own meaning "aparā" (lower). Those learned in the tradition of Shiksha and the other Angas state, on the authority of the very text quoted above—
+Because the Veda is extremely profound — its words intricately joined and its meaning deep and hidden, hard to grasp — the six Angas beginning with Shiksha have arisen to make its meaning rightly known. For this very reason those who know the Atharvaveda, in the Mundaka Upanishad, call the Vedas with the six Angas the "lower knowledge" (aparā vidyā)—
 
 > द्वे विद्ये वेदितव्ये इति ह स्म यद्ब्रह्मविदो वदन्ति परा चैवापरा च । तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति । अथ परा यया तदक्षरमधिगम्यते ॥
 > *dve vidye veditavye iti ha sma yad brahmavido vadanti parā caivāparā ca | tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam iti | atha parā yayā tad akṣaram adhigamyate ||* (Mundaka Upanishad 1-1-4)
 
-**Meaning:** knowledge is of two kinds — parā and aparā. Of these, aparā consists of: the Rigveda, Yajurveda, Samaveda, Atharvaveda, Shiksha, Kalpa, Vyakarana-shastra, Nirukta, Chhandah-shastra, and Jyotisha — these ten together are called aparā ("lower") knowledge. Because this cannot be beginningless, and because it is a mere instrument for grasping the meaning of the Veda's Brahmana portion — which itself expounds dharma — it is spoken of as the "lower" knowledge. Therefore, this "lower" is no name of contempt; it merely means that dharma is a means, while attaining the highest human end — brahma-knowledge, of which the Upanishads are the source — is the "higher" (parā) knowledge.
+**Meaning:** knowledge is of two kinds — parā and aparā. Of these, aparā consists of: the Rigveda, Yajurveda, Samaveda, Atharvaveda, Shiksha, Kalpa, Vyakarana-shastra, Nirukta, Chhandah-shastra, and Jyotisha — these ten together are called aparā ("lower") knowledge. The knowledge that makes known the imperishable, beginningless Parabrahman is called parā. The Vedas with the six Angas teach the karma-kanda and are the cause of the means to dharma-knowledge; therefore the name aparā suits them. Therefore, this "lower" is no name of contempt; it merely means that dharma is a means, while attaining the highest human end — brahma-knowledge, of which the Upanishads are the source — is the "higher" (parā) knowledge.
 
 ### The Veda's Angas: The Definition of Śikṣā
 
@@ -11642,9 +11642,9 @@ That is: it is called Śikṣā because it teaches the method of pronouncing let
 
 ### Page 549
 
-Those wishing to know these Vedic matters should study Śikṣā first among the Angas — for those who begin here find it easier to work through the meanings arranged in other treatises. **We shall therefore first look briefly at the subjects treated in this Anga before proceeding to the other Angas.**
+As said before, knowledge of the six Angas beginning with Śikṣā is necessary for understanding the Veda's meaning. **We now examine closely the subjects treated in Śikṣā and the other Anga-works; whoever wishes to know more should consult the original works such as the Pāṇinīya-śikṣā.**
 
-Regarding varṇa (letter), svara (accent), mātrā (quantity), bala (force), sāma (uniform delivery), and santāna (joining) — there are, apart from this one, many other Śikṣā-treatises composed by various authors; each belongs to a particular Shakha. Prātishākhya-śikṣā, Nāradīya-śikṣā, Bhāradvāja-śikṣā are among such works. Followers of the Taittiriya Shakha specifically begin their own Upanishad with the following passage—
+Regarding varṇa (letter), svara (accent), mātrā (quantity), bala (force), sāma (uniform delivery), and santāna (joining) — there is a separate Śikṣā work for each Veda, and many authors have written many kinds of Śikṣā-works for each Veda; they are known by the names of their authors: Pāṇinīya-śikṣā, Nāradīya-śikṣā, Bhāradvāja-śikṣā and so on. Followers of the Taittiriya Shakha specifically begin their own Upanishad with the following passage—
 
 > शीक्षां व्याख्यास्यामः । वर्णः स्वरः । मात्रा बलम् । साम सन्तानः । इत्येषः शीक्षाध्यायः ॥
 > *śīkṣāṃ vyākhyāsyāmaḥ | varṇaḥ svaraḥ | mātrā balam | sāma santānaḥ | ity eṣaḥ śīkṣādhyāyaḥ ||* (Taittiriya Upanishad 1-2)
@@ -11654,12 +11654,12 @@ That is: we shall now expound Śikṣā. Varṇa, svara, mātrā, bala, sāma, s
 > त्रिषष्टिश्चतुःषष्टिर्वा वर्णाः संभवतो मताः । प्राकृते संस्कृते चापि स्वयं प्रोक्ताः स्वयम्भुवा ॥
 > *triṣaṣṭiś catuḥṣaṣṭir vā varṇāḥ sambhavato matāḥ | prākṛte saṃskṛte cāpi svayaṃ proktāḥ svayambhuvā ||* (Śikṣā 3; re-read from the print in the numeral pass)
 
-Since a matter of established tradition (the alphabet-doctrine, arranged among other topics elsewhere) is known even to those unfamiliar with other treatises, it is discussed by Brahmins under the various sound-groupings, and the details of these letters are set out as follows—
+That is: in Sanskrit and in Prakrit — the languages in use other than Sanskrit — the letters number sixty-three or sixty-four, as Brahma himself has said. The details of the accents beginning with udātta are given there too—
 
 > उदात्तश्चानुदात्तश्च स्वरितश्च स्वरास्त्रयः ।
 > *udāttaś cānudāttaś ca svaritaś ca svarās trayaḥ |* (Śikṣā 11)
 
-**"Svara" here means: udātta, anudātta, svarita — three types of accent.** Some works discuss a fourth kind too, called ekashruti; but the wise say the primary threefold distinction stands—
+**"Svara" here means: udātta, anudātta, svarita — three types of accent.** Some works discuss a fourth kind too, called pracaya; but the wise say the primary threefold distinction stands—
 
 ### Definition of "Santāna" (Joining)
 
