@@ -2755,6 +2755,292 @@ Metre: 1, 4, 6, 8–10, 12, 14, 17, 19, 21, 23, 25 Bṛhatī; 2, 5, 7, 11, 13, 1
 
 O priests, pour round, away from this rite (or, upward from this place), the pressed Soma, with the Vasatīvarī waters. ()
 
+### Printed p. 61
+
+> रोरुत्वं । आदेशप्रत्यययोरिति षत्वं ॥ यः सोमो देवानामुत्तमं प्रशस्यं
+> हविर्भवति आ अपि च नर्यो मनुष्यहितो यश्च सोमोऽप्सु वसतीवरीष्टंतरिक्षे
+> नांतर्दधन्वान्गच्छन्भवति तं सोममदिर्भिग्रावभिरध्वर्युः सुषाव । अभिषुतं
+> चकार । तं परि षिंचतेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The Adhvaryu pressed that Soma with the pressing stones. Soma is the best, most praiseworthy oblation of the gods. He is beneficial to men. He moves within the waters called वसतीवरी (*vasatīvarī*) in the firmament. Sāyaṇa's construction is: sprinkle (परि षिंचत (*pari ṣiṃcata*)) that Soma, pressed by the Adhvaryu with the stones. The opening part of the block concerns the phonetic changes of षिंचत (*ṣiṃcata*) and is left to the grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Oh priests) यः सोमः (*yaḥ somaḥ*)—which Soma
+- देवानां (*devānāṃ*)—for the gods
+- उत्तमं (*uttamaṃ*)—the best, praiseworthy
+- हवी (*havī*)—is an oblation
+- आ (*ā*)—and
+- नर्यः (*naryaḥ*)—is beneficial to men
+- यः (*yaḥ*)—which Soma
+- अप्सु (*apsu*)—of the वसतीवरी (*vasatīvarī*) and other waters
+- अंतः (*aṃtaḥ*)—in the middle
+- दधन्वान् (*dadhanvān*)—moves
+- (यं (*yaṃ*)—which Soma)
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- सुषाव (*suṣāva*)—the Adhvaryu has pressed
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—Soma
+- इतः (*itaḥ*)—from this place
+- परि षिंचत (*pari ṣiṃcata*)—sprinkle (make it flow)
+
+##### भावार्थ (Bhāvārtha)
+
+Oh priests, the Soma that is the best, praiseworthy oblation for the gods and beneficial to men, that moves in the midst of the वसतीवरी (*vasatīvarī*) and other waters, and that the Adhvaryu has pressed with the pressing stones: make that pressed Soma flow from this place.
+
+##### English translation
+Sprinkle from hence the effused Soma-juice which is the best oblation (to the gods), and which, good for man, is going into the midst of the firmament ; (the priest) has expressed the Soma with the stones.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू॒नं पु॑ना॒नोऽवि॑भिः॒ परि॑ स्र॒वाद॑ब्धः सुर॒भंत॑रः ।  
+> सु॒ते चि॑त्वा॒प्सु म॑दामो॒ अंध॑सा श्री॒णंतो॒ गोभि॒रुत्त॑रं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नूनं । पुनानः । अविभिः । परि । स्रव । अदब्धः । सुरभिंतरः ।  
+> सुते । चित् । त्वा । अप्ऽसु । मदामः । अंधसा । श्रीणंतः । गोभिः । उत्तरं । २ ॥
+
+### Printed p. 62
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अदब्धः कैश्चिदप्यहिंसितः सुरभंतरोऽत्यंतं सुगंधिस्त्वं नूनमिदानीं पुनानः पूयमानः सन्नविभिरविवालकृतैः पवित्रैस्तेभ्यः परि स्रव। परितः क्षर।
+> सुते चिदभिषुते सत्यंधसा सक्तुलक्षणेनान्नेन गोभिर्गोविकारैः क्षीरैः क्षीरादिभिश्रीणंतो मिश्रयंतो वयमुत्तरमुद्गततरमप्पु वसतीवरीषु संस्थितं त्वां
+> मदामः । मंदामहे । स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+Oh Soma, you are unharmed by anyone and exceedingly fragrant. Now, being purified through the sheep-wool filters, flow all around. Now that you are pressed, we praise you, who stand eminent in the waters called वसतीवरी (*vasatīvarī*). We mix you with food in the form of barley meal and with the products of cows, milk and the like. मदामः (*madāmaḥ*) is explained as मंदामहे (*maṃdāmahe*), स्तुमः (*stumaḥ*) (we praise).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Oh Soma) अदब्धः (*adabdhaḥ*)—not harmed by anyone
+- सुरभिंतरः (*surabhiṃtaraḥ*)—exceedingly fragrant, you who are such
+- नूनं (*nūnaṃ*)—now
+- पुनानः (*punānaḥ*)—having become purified
+- अविभिः (*avibhiḥ*)—through the ten-fold filter
+- परि स्रव (*pari srava*)—flow outward
+- सुते चित् (*sute cit*)—at the time you are pressed
+- अप्पु (*appu*)—in the वसतीवरी (*vasatīvarī*) waters
+- उत्तरं (*uttaraṃ*)—having attained a high place
+- त्वा (*tvā*)—you
+- अंधसा (*aṃdhasā*)—with the oblation
+- गोभिः (*gobhiḥ*)—with milk and the like
+- श्रीणंतः (*śrīṇaṃtaḥ*)—mixing
+- मदामः (*madāmaḥ*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+Oh Soma, you who are unharmed by anyone and exceedingly fragrant, now that you have become purified, flow outward through the ten-fold filter. At the time you were pressed you attained a high place in the वसतीवरी (*vasatīvarī*) waters. We praise you, mixing you with the oblation and with milk and the like.
+
+##### English translation
+(Soma) who are unassailable, who are most fragrant, flow around now being purified by the fleece ; being effused we praise you eminent in the waters mixing you with food and the (products of the) cows.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पठ॑ सुवा॒नश्चक्ष॑से देव॒माद॑नः॒ क्रतु॒रिंदु॑र्विचक्ष॒णः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरि । सुवानः । चक्षसे । देव्यमादनः ; क्रतुः । इंदुः । विचक्षणः ॥ ३ ॥
+
+### Printed p. 63
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानोऽभिषूयमाणः सोमश्चक्षसे सर्वेषां दर्शनाय परि स्रवति ।
+> कीदृशः । देवमादनो देवानां तर्पयिता क्रतुः कर्ता इंदुः पात्रेषु क्षरणशीलो दीपो ना विचक्षणः सर्वस्य विद्रष्टा ॥
+
+##### Gist of the bhāṣya
+
+Soma, being pressed, flows all around so that all may see him. What kind is he? He is the exhilarator of the gods, the agent (क्रतुः (*kratuḥ*)), and इंदुः (*iṃduḥ*), who is given to flowing into the vessels. He is like a lamp, the observer of all (विचक्षणः (*vicakṣaṇaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवमादनः (*devamādanaḥ*)—the one who gratifies the gods
+- क्रतुः (*kratuḥ*)—the bearer of the rite
+- विचक्षणः (*vicakṣaṇaḥ*)—the one of subtle vision
+- इंदुः (*iṃduḥ*)—Soma
+- सुवानः (*suvānaḥ*)—having been pressed
+- चक्षसे (*cakṣase*)—to be seen by all
+- परि (*pari*) (स्रवते (*sravate*))—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who gratifies the gods, bears the rite and has subtle vision, flows, having been pressed, so that all may see him.
+
+##### English translation
+Being effused the Indu flows so as to be seen (of all) the exhilarator of the gods, the agent (in holy acts), the observer of all.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नः सो॑म॒ धार॑या॒पो वसा॑नो अर्षसि ।  
+> आ र॑त्न॒धा योनि॑मृ॒तस्य॑ सीद॒स्युत्सो॑ देव हिर॒ण्मयः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रनानः । सोम । धारया ' अपः ! वसानः । अर्षसि ।  
+> आ । रत्नधाः । योनिं । ऋतस्य । सीदसि । उत्सः । देव । हिरण्ययः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पुनानः पूयमानस्त्वमप उदकानि वसतीवर्याख्यानि वसानॆ
+> आच्छादयन् धारयार्षसि । पवित्रं गच्छसि । ततो रत्नधा रत्नानां दाता त्वमृतस्य
+
+##### Gist of the bhāṣya
+
+Oh Soma, being purified, you clothe yourself in the waters called वसतीवरी (*vasatīvarī*) and flow in a stream; that is, you go to the filter. Then, as giver of jewels, you sit on the seat, the place of the sacrifice that is true (ऋतस्य (*ṛtasya*)). (The block continues on the next page.)
+
+### Printed p. 64
+
+> सत्यभूतस्य यज्ञस्य योनिं स्थानमा सीदसि । हे देव द्योतमान सोम उत्सः
+> प्रस्यंदनशीलस्त्वं हिरण्ययो हिरण्मयो हिरण्यस्योत्पत्तिस्थानं खलु । यद्वा ।
+> देवानां हितरमणीयो भवसि ॥
+
+##### Gist of the bhāṣya
+
+Oh shining Soma, you who are given to flowing (उत्सः (*utsaḥ*)) are indeed हिरण्ययः (*hiraṇyayaḥ*), golden, the place where gold arises. Or else: you become pleasing, dear to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—oh Soma
+- पुनानः (*punānaḥ*)—you who are being purified
+- अपः (*apaḥ*)—the वसतीवरी (*vasatīvarī*) and other waters
+- वसानः (*vasānaḥ*)—covering
+- धारया (*dhārayā*)—in your stream-form
+- अर्षसि (*arṣasi*)—you go to the ten-fold filter
+- रत्नधाः (*ratnadhāḥ*)—you who bestow wealth
+- ऋतस्य (*ṛtasya*)—of the sacrifice that is of the nature of truth
+- योनिं (*yoniṃ*)—the place, having occupied it
+- आ सीदसि (*ā sīdasi*)—you sit
+- देव (*deva*)—oh shining Soma
+- उत्सः (*utsaḥ*)—you who are given to flowing
+- हिरण्ययः (*hiraṇyayaḥ*)—you are beneficial and attractive to the gods **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Oh Soma, being purified, you cover the वसतीवरी (*vasatīvarī*) and other waters and in your stream-form go to the ten-fold filter. As bestower of wealth you occupy the place of the sacrifice, which is of the nature of truth, and sit there. Oh shining Soma, given to flowing, you are beneficial and attractive to the gods.
+
+##### English translation
+Undergoing purification you flow Soma in a stream clothed in the (consecrated) waters; the giver of wealth you sit on the place of sacrifice, divine (Soma), who flow forth, who are the origin of gold.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दु॒हा॒न ऊध॑र्दि॒व्यं मधु॑ प्रि॒यं प्र॒त्नं स॒धस्थ॒मास॑दत् ।  
+> आ॒पृच्छ्यं॑ ध॒रुणं॑ वा॒ज्य॑र्षति॒ नृभि॑र्दू॒तो वि॑चक्ष॒णः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दुहानः । ऊधः । दिव्यं । मधु । प्रियं । प्रत्नं । सध्वस्थं । असदत् ।  
+> आपृच्छं । धरुणं । वाजी । अर्षति । नृभिः । धूतः । विचक्षणः ॥ ५ ॥
+
+### Printed p. 65
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मधु मदकरं प्रियं प्रीणनकारि दिव्यं दिवि भवमूधः सोमवल्लीलक्षणं
+> महानः सोमः प्रत्नं पुरातनं सथस्थं ! सह तिष्ठंत्यत्रेति सथस्थं स्थानं । अंतरिक्षमासदत् । आसीदति ॥ सदेर्लुणु रूपं ॥ तत आपृच्छ्यं कर्मण्यापृष्टव्यं धरुणं
+> कर्मणो धारयितारं यजमानं वाज्यन्नवान्नोमोऽर्षति ! तस्मा अन्नं दातुमभिगच्छति । कीदृशः । नृभिः कर्मनेतृभिर्युत्विग्निर्धूतोऽदाभ्यग्रहे परिशोधितः ।
+> तैरेनं चतुराधूनोति पंचकृत्वः सप्तकृत्तो वेत्यापस्तंबेन सूत्रितं । विचक्षणः
+> सर्वस्य विद्रष्टा ॥
+
+##### Gist of the bhāṣya
+
+Soma milks the celestial udder, that is, the Soma plant, which is intoxicating (मधु (*madhu*)) and pleasing. He sits in the ancient सथस्थं (*sathasthaṃ*) (the place where they stand together), the firmament; आसदत् (*āsadat*) is a form of the root *sad*. Then, rich in food (वाजी (*vājī*)), he goes to the worshipper, the sustainer of the rite, who is to be consulted in the rite (आपृच्छ्यं (*āpṛcchyaṃ*)), in order to give him food. He is cleansed (धूतः (*dhūtaḥ*)) by the priests, the leaders of the rite, in the *adābhya* cup. Āpastamba's sūtra gives this: they shake him four times, five times or seven times. He is the observer of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधु (*madhu*)—tasty
+- प्रियं (*priyaṃ*)—agreeable
+- दिव्यं (*divyaṃ*)—born in the celestial world
+- ऊधः (*ūdhaḥ*)—the udder (the Soma plant)
+- दुहानः (*duhānaḥ*)—the Soma who milks
+- सदस्यं (*sadasyaṃ*)—the firmament **NOTE**
+- आसदत् (*āsadat*)—takes refuge in
+- नृभिः (*nṛbhiḥ*)—by the priests
+- धूतः (*dhūtaḥ*)—cleansed
+- विचक्षणः (*vicakṣaṇaḥ*)—of subtle vision
+- वाजी (*vājī*)—strong Soma
+- आपृच्छ्यं (*āpṛcchyaṃ*)—praiseworthy
+- धरुणं (*dharuṇaṃ*)—to the worshipper who bears the rite
+- अर्षति (*arṣati*)—goes and joins
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who milks the tasty, agreeable udder born in the celestial world (the Soma plant), takes refuge in the firmament. Cleansed by the priests, of subtle vision and strong, Soma goes and joins the praiseworthy worshipper who bears the rite.
+
+##### English translation
+Milking the exhilarating agreeable celestial udder (the Soma) sits down on its ancient place of aggregation ( the firmament ); food-giving, cleansed by the priests, observant it flows to the commendable worshipper.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रस॒न्॒नः सो॑म॒ जागृ॑पि॒रव्यो॒ वारे॒ परि॑ प्रि॒यः ।  
+> त्वं विप्रो॑ अभ॒वोऽगि॑रस्तमो॒ मध्वा॑ य॒ज्ञं मि॑मिक्ष नः ॥  
+> xxv 5  
+> xxv 5
+
+### Printed p. 66
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रनानः । सोम । जागृविः । अव्यः । वारे । परि । प्रियः ।  
+> त्वं । विप्रः । अभवः । अंगिरःतमः । मध्वा । यज्ञं । मिमिक्ष्य । नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम जागृविर्जागरणशीलः प्रियः प्रीणयिता त्वं पुनानः पूयमानः
+> सन्नव्योऽवेर्वारे वाले पवित्रे परि क्षरसि । किंच विप्रो मेधावी त्वमंगिरस्तमोऽंगिरसां वरिष्ठः पित्थूणां नेताभवः । भवसि । स त्वं नोऽस्मदीयं यज्ञं
+> मध्वा मधुनात्मीयेन रसेन मिमिक्ष्य । सिंच ॥ मिहेः सेचनार्थस्य सनि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Oh Soma, vigilant (जागृविः (*jāgṛviḥ*)) and dear (प्रियः (*priyaḥ*)), being purified you flow around in the hair (वारे (*vāre*)) of the sheep, the filter. Moreover, you, the wise (विप्रः (*vipraḥ*)), have become the best of the Aṅgirases, the leader of the fathers. Such as you are, sprinkle (मिमिक्ष्य (*mimikṣya*)) our sacrifice with your own sweet juice. The form is from the desiderative of the root *mih*, in the sense of sprinkling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—oh Soma
+- जागृविः (*jāgṛviḥ*)—vigilant
+- प्रियः (*priyaḥ*)—beneficial
+- पुनानः (*punānaḥ*)—purified, you who are such
+- अव्यः (*avyaḥ*)—of wool
+- वारे (*vāre*)—through the fibres
+- परि (*pari*)—you flow
+- विप्रः (*vipraḥ*)—wise
+- त्वं (*tvaṃ*)—you
+- अंगिरस्तमः (*aṃgirastamaḥ*)—the best of all the Aṅgirases
+- अभवः (*abhavaḥ*)—you have become
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—sacrifice
+- मध्वा (*madhvā*)—with sweet Soma juice
+- मिमिक्षु (*mimikṣu*)—sprinkle **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Oh Soma, you who are vigilant, beneficial and purified, flow through the fibres of wool. You, the wise, have become the best among all the Aṅgirases. Sprinkle our sacrifice with sweet Soma juice.
+
+##### English translation
+Soma, who are purified, vigilant, agreeable (you flow ) through the woolen fleece ; you are intelligent, the chief of the Angirasas, squinkle our oblation with your exhilarating juice.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमो॑ मी॒ढ्वान्न॑वते गातु॒वित्त॑म॒ ऋषि॒र्विप्रो॑ विचक्ष॒णः ।  
+> त्वं क॒विर॑भवो देव॒वीत॑म॒ आ सूर्यं॑ रोहयो दि॒वि ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 60. pp. 55-60 (batch API)
+**Progress note:** Done through printed p. 66. pp. 61-66 (batch API)
