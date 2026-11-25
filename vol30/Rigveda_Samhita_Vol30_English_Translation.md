@@ -9747,6 +9747,159 @@ two rams (are you) to be nourished with sacrificial food, to be cherished
 
 O Aśvins, you who are of bent body like rutting elephants or like goads, and destroyers of enemies, who are, like the sons of Sitośa**NOTE**, destroyers of enemies, and givers of fruit to your worshippers, and lovers of praise, and
 
+### Printed p. 259
+You make my body, which is old and therefore facing death, free from decay.
+
+##### English translation
+You are like two mad elephants bending their forequarters and smiting the foe, like the two sons of Nitosha destroying (foes), and cheristing (friends); you are as bright as two water-born (jewels), do you, who are victorious, (render) my decaying mortal body free from decay.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sṛṇyeva jarbharī—sṛṇi means a goad (aṅkuśa). Here it is explained as "intoxicated elephants on which the goad is used". The bhāṣyakāra explains it also as those who go with the body bent a little, as elephants bend when they walk. Or else sṛṇi is the weapon called aṅkuśa, used to keep an elephant under control; it is bent crookedly at one part. The word sṛṇi has yet another meaning, a bent implement, namely the sickle for reaping grain and the like. Both these implements are bent crookedly. It is not stated here why the bodies of the Aśvins are bent. We have given the derivation and explanation of the word sṛṇa in this same volume, in the Special Topics of Ṛk 3 of Sūkta 101 (on p. 154). The word jarbharī is formed from the root जभ जृभि (*jabha jṛbhi*) in the sense "body" (gātravināme).
+
+Turpharītū, naitośeva turpharī, parpharīkā—the word turpharītū or turpharī is formed from the root तृप हिंसायं (*tṛpa hiṃsāyaṃ*), meaning "to injure"; the meaning is those who injure (enemies). Naitośeva—नितोशतिर्वधकर्मा ! नितॊशयतीति नितोशः । तस्यापत्यं नैतोशः । ताविव शत्रूणां हंतारौ । (*nitośatirvadhakarmā ! nitòśayatīti nitośaḥ | tasyāpatyaṃ naitośaḥ | tāviva śatrūṇāṃ haṃtārau |*) The root nitośati means "to kill". The killer is called nitośa; his sons are called naitośas. Like them, the meaning is slayers of enemies. Parpharīkā—the word is formed from the root पैपालनपूरणयोः (*paipālanapūraṇayoḥ*) meaning "protect, fill". The meaning is those who protect the people who praise them, or fulfil their wishes.
+
+Udanyajeva—उदके भवमुदन्यं । तत्र जाते रत्ने इव निर्मलौ ॥ रत्नाकरो जलनिधिः (*udake bhavamudanyaṃ | tatra jāte ratne iva nirmalau ‖ ratnākaro jalanidhiḥ*) As this lexicon statement says, the sea (the water) is the place of origin of jewels and the like. The sense is: pure like jewels produced in water.
+
+### Printed p. 260
+Jemanā maderū—जेमन् जयशीलौ । मदेरू बलातिशयेन मत्तौ स्तुत्यौ वा । (*jeman jayaśīlau | maderū balātiśayena mattau stutyau vā |*) Jemanā means those victorious in battles and contests. Maderū means those intoxicated with their immeasurable strength, i.e. with their power and capacity, or those worthy of praise.
+
+Tā me jarāyu marāyu ajaraṃ (kurutaṃ)—you, endowed with such qualities (the Aśvins), are here prayed to make my body, which is worn out by old age and subject to death, free from old age and free from death.
+
+Yāska, taking one Ṛk each as an example from the Ṛks containing hyperbolic praise (atistuti), has given the Nirukta on it. He has explained Ṛks praising the deities Agni, Indra, Āditya, the Aśvins, yajña, vāk and akṣara. Among them, for the Ṛk praising the Aśvins he has taken the present Ṛk as the example and explained it.
+
+सृण्येव जर्भरी तुर्फरी तू नैतोशेव तुर्फरी पर्फरीका । उदन्यजीव जेमना मदेरू ता मे जराय्वजरं मरायु ॥ (*sṛṇyeva jarbharī turpharī tū naitośeva turpharī parpharīkā | udanyajīva jemanā maderū tā me jarāyvajaraṃ marāyu ‖*)
+सृण्येवेति द्विविधा सृणिर्भवति । भर्ता च हंता च । तथाश्विन् चापि भर्तारौ जर्भरी भर्तारावित्यर्थस्तुर्फरीतू हंतारौ । नैतोशेव तुर्फरी पर्फरीका । नितोशस्यापत्यं नैतोशं नैतोशेव तुर्फरी क्षिप्रहंतारौ । उदन्यजीव जेमना मदेरू । उदन्यजीवेत्युदकजे इव रत्ने सामुद्रे चांद्रमसेति वा जेमने जयमने । जेमना मदेरू । ता मे जरा य्वजरं मरायु । एतज्जरायुजं शरीरं शरदमजीर्णं ॥ (*sṛṇyeveti dvividhā sṛṇirbhavati | bhartā ca haṃtā ca | tathāśvin cāpi bhartārau jarbharī bhartārāvityarthasturpharītū haṃtārau | naitośeva turpharī parpharīkā | nitośasyāpatyaṃ naitośaṃ naitośeva turpharī kṣiprahaṃtārau | udanyajīva jemanā maderū | udanyajīvetyudakaje iva ratne sāmudre cāṃdramaseti vā jemane jayamane | jemanā maderū | tā me jarā yvajaraṃ marāyu | etajjarāyujaṃ śarīraṃ śaradamajīrṇaṃ ‖*) (Ni. 13-5)
+
+Sṛṇyeveti dvividhā … turpharītū haṃtār—in this Ṛk beginning sṛṇyeva the Aśvins are praised as having two distinct kinds of qualities. The word sṛṇi has two meanings: it is the name of a bent implement. These are the sickle and the goad. With the sickle they reap the ears of the crop; that grain bears (bharati), i.e. nourishes, people. The goad injures the elephant. So the sṛṇi does both: it nourishes people and it injures. In the same way the Aśvins fulfil the wishes of those who praise them and nourish them, and they injure enemies. Hence the Aśvins, like the sṛṇi, do the two kinds of work, nourishing and injuring; this is the intention of the sentence.
+
+### Printed p. 261
+To indicate these two distinct meanings the two words jarbharī and turpharītū are used. The word jarbharī, formed from the root भृञ् भरणे (*bhṛñ bharaṇe*) (nourish), means "those who nourish"; the word turpharītū, formed from the root तृफ तृंफ हिंसायां (*tṛpha tṛṃpha hiṃsāyāṃ*) (injure), means "those who injure enemies".
+
+Naitośeva turpharī parpharīkā … kṣiprahaṃtār—nitośa means a slayer, a killer, or a man named Nitośa, who may have been famous for killing people (enemies). His son is called naitośa. Here the dual naitośā is used; since the Aśvins are two, it is natural that the adjectives describing them are also in the dual. Like these naitośas, i.e. like the sons of Nitośa, turpharī means those who quickly kill enemies.
+
+Udanyajeva jemanā maderū—udanya means water. Udanyajā means two jewels born in water or in the sea (in sea-water); the meaning is: those shining with surpassing radiance, or delightful like the moon. Jemanā is jayamanā, victorious in battle. Maderū means intoxicated with excess of joy, or worthy of praise.
+
+Tā me jarāyv ajaraṃ marāyu—एतज्जरायुजं शरीरं शरदमजीर्णं ॥ (*etajjarāyujaṃ śarīraṃ śaradamajīrṇaṃ ‖*) This body is jarāyu, i.e. subject to old age, so that the limbs of the body are weak. Marāyu means subject to death, in the state of dying, facing death. The seer prays to the Aśvins that they make this my body, devoid of vigour and facing death, ajara, free from old age, and full of strength.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒ज्रेव॒ चर्च॑रं॒ जारं॑ म॒रायु॒ क्षद्मे॒वार्थे॑षु तर्तरीथ  
+> उग्रा ।  
+> ऋ॒भू नाप॑त्परम॒ज्रा ख॒रज्रु॑र्वा॒युर्न प॑र्फरत्कयद्रया॒णां ॥ ७ ॥
+
+### Printed p. 262
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पज्रा इव । चर्चरं । जारं । मरायु । क्षद्मइव । अर्थेषु । तर्तरीथः । उग्रा ।  
+> ऋभू इति । न । आपत् । खरमज्रा । खरज्जुः । वायुः । न । पर्फरत् । क्षयत् ।  
+> रयाणां ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रोग्रावुद्गूर्णतेजस्कावश्विन् पज्रेव पज्राविन प्रार्जितबलौ वीराविव
+> स्थितौ । यद्वा । पज्रेव ॥ जि ज्रि अभिभवे ॥ पादाभ्यामभिभवंतौ समर्थाविन स्थितौ ।
+> युवां चर्चरं चरणशीलं जारं जरायुक्तं अत एव मरायु मरणशीलं
+> मदीयं शरीरमर्थेषु गंतव्येषु तरीतव्यॆष्वापदादिषु क्षदेव । उदकनामैतत् ।
+> उदकमिव तर्तरीथः ॥ अत्यंतं तारयथः ॥ त्य प्लवनतरणयोः । यज्लुगंतालटि
+> च्छंदस्युभयथेति थस अर्धधातुकत्वेनेडागमः । व्यतो ना । पा. ७ २-३८ । इति
+> दीर्घः ॥ ऋभू नर्भू इव । दार्ष्टांतिकसाम्यादत्र द्विवचनं । ऋभू यथा
+> स्वनिर्मितो रथ आपत् तद्वत् खरमज्रा खरं तीक्ष्णं मज्जयितारौ शोधयितारौ ।
+> अत्यंतं शुद्धबलावित्यर्थः ॥ टुमस्टो शुद्धौ ! आस्मादौणादिको रप्रत्ययः ॥ तादृशौ
+> युवां खरजुस्तीक्ष्णगतिरतिशयेन वेगवानृभुभिर्दत्तो रथो युवामापत् ।
+> आप्नोत् ॥ अप्ल व्याप्तौ । लुजि लृदित्वाच्चेरज् ॥ स रथो वायुरिव पर्फरत् ।
+> सर्वत्रापूरयत् । सर्वत्र व्याप्तानित्यर्थः ॥ फर्व पूरणे । आस्माल्लेट बहुलं
+> छंदसीति शपः श्लुः । अभ्यासस्य रुगागमो वलोपश्च । लेटोऽडाटावित्यडागमः ॥
+> ततः स रथो रयाणां धनानां धनानि क्षयत् । शत्रुभ्य आगमयत् ॥ क्षि निवासगत्योः । आस्मादंतर्णीतण्यर्थाल्लेट्यडागमः ॥ यद्वा । क्षयतिरैश्यर्यकर्मा ।
+> धनानामिष्टे ॥ छांदसमनुडात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O fierce Aśvins, of surging splendour, you are like pajras, i.e. heroes of great strength. Or else, the word पज्रेव (*pajreva*) is from the root जि ज्रि अभिभवे (*ji jri abhibhave*): those who overcome with their feet, like capable men. You, my body—moving (carcara), aged (jāra), therefore prone to die (marāyu)—in the objects to be reached and the dangers to be crossed, like water (kṣadma is a name of water), you carry across completely. Like the Ribhus (the dual is used because of the parity with the Aśvins), as the chariot made by themselves came to them, so you are kharamajrā, sharp purifiers, of utterly pure strength. You, of sharp motion, very swift, the chariot given by the Ribhus reached (āpat); it filled everything like the wind (parpharat), i.e. pervaded all. Then that chariot brought (kṣayat) the riches of enemies to you; or else, kṣayati is a verb of lordship: it rules over riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रा (*ugrā*)—O Aśvins of exceeding splendour
+- पज्रेव (*pajreva*)—like heroes of great strength
+- चर्चरं (*carcaraṃ*)—moving
+- जारं (*jāraṃ*)—aged
+- मरायु (*marāyu*)—facing death, (this) body
+- अर्थेषु (*artheṣu*)—to a safe place
+- क्षद्मेव (*kṣadmeva*)—as water is crossed by boats
+- तर्तरीथः (*tartarīthaḥ*)—(carrying across from the place of danger) take and deposit it
+- ऋभू न आपत् (*ṛbhū na āpat*)—like the Ribhus
+- खरमज्रा (*kharamajrā*)—you are of excellent strength
+- खरज्रुः (*kharajruḥ*)—your powerful chariot given by them
+- वायुर्न (*vāyurna*)—swiftly like the wind
+- आपत् (*āpat*)—
+
+### Printed p. 263
+ has come to the desired place
+- पफः रत् (*paphaḥ rat*)—has pervaded everywhere
+- रयीणां (*rayīṇāṃ*)—the wealth of enemies
+- क्षयत् (*kṣayat*)—has brought
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins of exceeding splendour, like heroes of great strength, take this moving, aged body, facing death, from the place of danger and deposit it in a safe place, as water is crossed by boats. You are of excellent strength like the Ribhus. Your powerful chariot given by them has come swift as the wind to the desired place, has pervaded everywhere, and has brought the wealth of enemies.
+
+##### English translation
+Fierce (Ashwins): like two powerful (heroes), you enable this moving perishable mortal (frame) to cross over to the objects (of its destination) as over water; extremely strong, like the Ribhus, your chariot attained its destination swift as the wind, it pervaded (everywhere), it dispensed riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+Pajreva—पज्राविन प्रार्जितबल् वीराविन स्थितौ । (*pajrāvina prārjitabal vīrāvina sthitau |*) Those who are like heroes capable of fighting by their own strength; that is, like warriors who, without wanting another's help, have firm confidence in their own power and capacity.
+
+Ṛbhū na—although the Ribhus are three, Ṛbhu, Vibhu and Vāja, here the dual ṛbhū is used as the simile for the two Aśvins.
+
+Vāyuḥ na parpharat—the word parpharat is formed from the root पर्व पूरणे (*parva pūraṇe*) and means "filling, pervading". As the wind pervades and fills all places, so the chariot of the Aśvins pervades everywhere, i.e. moves in all places.
+
+Kṣayat rayāṇāṃ—this chariot wins the wealth of enemies from them and brings it; or, as the statement क्षयतिरैश्वर्यकर्मा (*kṣayatiraiśvaryakarmā*) says, this chariot is the chief abode or support of riches.
+
+### Printed p. 264
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घ॒र्मेव॒ मधु॑ ज॒ठरे॑ स॒नेरू॒ भगे॑विता तु॒र्फरी॒ फारि॒वारं॑ ।  
+> प॒त॒रेव॑ चच॒रा चं॒द्रनि॑र्णि॒ज् मन॑ऋंगा मन॒न्या॒३॒॑ न जग्मी॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घर्माऽइव । मधु । जठरे । सनेरू इति । भगेऽअविता । तुर्फरी इति । फारिना । अरं।  
+> पतराऽइव । चचरा । चंद्रनिर्निक् । मनःयंगा । मनन्या ' न । जग्मी इति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> घर्मेव घर्माविव महावीराविव जठरे स्वोदरे मधु मधुनः ॥ षष्ठा
+> लुक् ॥ धृतस्य सनेरू संभक्तारौ ॥ वन षण संभक्तौ । अस्मादौणादिक एरुप्रत्ययः ॥
+> भगेविता । भगो धनं । तद्विषयरक्षणयुक्तौ ॥ अवतेर्भावेकः । तत्पुरुषे कृति
+> बहुलमिति बहुलवचनाद्दहुप्रीहावप्यलुक् । यद्वा । अवतेस्त्वजंतस्य सुपो
+> डादेशः । स्वरस्तु च्छांदसः ॥ अरमलं तुर्फरी शत्रूणां हिंसितारौ अत एव फारिवा ।
+> फारिरायुधं । तद्वंतौ भवतः ॥ स्पुरतिर्वधकर्मा । अस्माण्णिचि चिस्सुरोण् ।
+> पा. ६-१-५४ । इत्यात्वं । तदंतादिप्रत्ययः । सकारलोपश्चांदसः । छंदसीवनिपाविति
+> मत्त्वर्थियो वनिप् । सुपो डादेशः ॥ पतरेव पतराविन पतनशीलौ पक्षिणाविन चचरा
+> संचरंत् चंद्रनिर्णिक् । निर्णिगिति रूपनाम ॥ सुपो लुक् ॥ चंद्रनिर्णिजौ चंद्रसदृशरूपयुक्तौ । यद्वा । चंद्रमाह्लादिकं रूपं ययोस्तौ वर्तेते । मनऋंगा
+> मनसा व्रसाधनं ययोस्त् ॥ ऋंजतिः प्रसाधनकर्मा । अस्माद्भावे घञ् ।
+> बहुव्रीहिस्वरः ॥ मनन्या न मनन्यौ यथा ! मनने साधू ! स्तुत्यावित्यर्थः ॥
+> मननशब्दात्तत्र साधुरिति यत् । तित्स्वरितं ॥ तादृशानिव जग्मी यज्ञं प्रत्यागमनशीलौ
+> भवतः ॥ गमेरादृगमहन इति किन्द्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Like gharmas, i.e. like the great vessels (mahāvīra), you are the sharers (sanerū) of honey, i.e. of ghee (the genitive suffix being dropped), in your own belly. Bhage-vitā: bhaga is wealth; you are endowed with protection concerning it. Aram: enough; turpharī: destroyers of enemies, and hence phārivā, having the weapon phāri. Like pataras, i.e. falling birds, ranging about (cacarā). Candranirṇik: nirṇik is a name for form; of moon-like form; or else, those whose form is delightful like the moon. Manaṛṅgā: those whose adornment is by mind (ṛñjati means adorning). Mananyā na: like those good at reflection, praiseworthy. Jagmī: those who are inclined to come to the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) घर्मेव (*gharmeva*)—as the camasa vessels called Mahāvīra are filled with oblation
+- जठरे (*jaṭhare*)—in your bellies
+- मधु (*madhu*)—the sweet (Soma)
+- सनेरू (*sanerū*)—
+
 ---
 
-**Progress note:** Done through printed p. 258. pp. 253-258 (batch API)
+**Progress note:** Done through printed p. 264. pp. 259-264 (batch API)
