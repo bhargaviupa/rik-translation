@@ -22900,6 +22900,160 @@ But in one way this description of creation appears to be opposed to the princip
 
 The aphorism असदिति चेन्न; प्रतिषेधमात्रत्वात् (*asaditi cenna; pratiṣedhamātratvāt*) (Bra. Sū. Ni. 1-7) **NOTE** also continues this same idea, and the aphorism तदनन्यत्वमारंभणशब्दादिभ्यः (*tadananyatvamāraṃbhaṇaśabdādibhyaḥ*) (Bra. Sū. 2-1-14), as
 
+### Printed p. 818
+
+also make this matter clear. Here the relation of cause and effect is discussed. The world is the effect. Īśvara is the cause. The discussion is whether the effect is different from the cause, or whether the cause itself is transformed into the form of the effect. The detailed account of the doctrines of the existent effect and the non-existent effect (satkārya and asatkārya), as taught in Sāṃkhya and in Nyāya-Vaiśeṣika, although for the moment relevant, is not possible in this context. Only some Vedic sentences that are the source of this discussion can be examined here. The view that the cause itself is the effect and the effect itself is the cause is clear in the Ṛk now in hand. तस्माद्विराडजायत (*tasmādvirāḍajāyata*) ; विराजो आधि पूरुषः (*virājo ādhi pūruṣaḥ*): the Puruṣa produced from within himself the primal substance called Virāṭ. Again the Puruṣa has become one with that same primal material and is produced in the form of the world. The commentary on this sentence in the Vājasaneya-saṃhitā-bhāṣya is as follows.
+
+ततः । तस्मादादिपुरुषाद्विराड्ब्रह्मांडदेहोऽजायत । तमेव देहं अधिकरणं कृत्वा पुरुषस्तद्देहाभिमानी एक एव पुमान् अजायत । सर्ववेदानंतवेद्यः परमात्मा स्वमायया विराड् देहं ब्रह्मांडरूपं सृष्ट्वा तत्र जीवरूपेण प्रविश्य ब्रह्मांडाभिमानी देवतात्मा जीवोऽभवदित्यर्थः ॥ (*tataḥ | tasmādādipuruṣādvirāḍbrahmāṃḍadeho 'jāyata | tameva dehaṃ adhikaraṇaṃ kṛtvā puruṣastaddehābhimānī eka eva pumān ajāyata | sarvavedānaṃtavedyaḥ paramātmā svamāyayā virāḍ dehaṃ brahmāṃḍarūpaṃ sṛṣṭvā tatra jīvarūpeṇa praviśya brahmāṃḍābhimānī devatātmā jīvo 'bhavadityarthaḥ ‖*)
+
+From the primal Puruṣa the body of the cosmic egg was produced. This is what is called Virāṭ. The meaning of विविधानि राजंते वस्तून्यत्रेति विराट् (*vividhāni rājaṃte vastūnyatreti virāṭ*) is: it shines in many ways. Making this body the substratum, the Puruṣa, the one taught by the Vedānta, created the body in the form of the cosmic egg, entered into it in the form of the individual soul, and became the individual soul, of the nature of consciousness. The relation of these principles, Puruṣa and Virāṭ, is stated in the Manusmṛti as follows.
+
+द्विधा कृत्वात्मनो देहमर्धेन पुरुषोऽभवत् । अर्धेन नारी तस्यां स विराजमसृजत्पभुः ॥ (*dvidhā kṛtvātmano dehamardhena puruṣo 'bhavat | ardhena nārī tasyāṃ sa virājamasṛjatpabhuḥ ‖*)
+
+(Pusu. 1-32) **NOTE**
+
+Brahmā divided his body into two. Of these, one became the form of a man; the other took the form of a woman. From her Virāṭ was produced.
+
+तपस्तप्त्वा सृजद्यं तु स स्वयं पुरुषो विराट् । तं मा वित्तास्य सर्वस्य स्रष्टारं द्विजसत्तमाः ॥ (*tapastaptvā sṛjadyaṃ tu sa svayaṃ puruṣo virāṭ | taṃ mā vittāsya sarvasya sraṣṭāraṃ dvijasattamāḥ ‖*)
+
+(Manu. 1.-33) **NOTE**
+
+Afterwards that same Virāṭ-puruṣa performed austerity and created me, Manu. "Know me to be the maker of this whole world." This idea agrees with the Vedic sentences. Thus cause and effect
+
+### Printed p. 819
+
+are produced one from the other: this idea is stated in the same manner elsewhere in the Ṛk-saṃhitā itself. Just as in the Ṛk now in hand, there too this same relation is clearly set out.
+
+भूर्जज्ञ उत्तानपदो भुव आशा अजायंत । अदितेर्दक्षो अजायत दक्षाद्वदितिः परि ॥ (*bhūrjajña uttānapado bhuva āśā ajāyaṃta | aditerdakṣo ajāyata dakṣādvaditiḥ pari ‖*)
+
+(Ṛ. Saṃ. 10-22-4) **NOTE**
+
+From the tree whose form is "upward-footed" the earth was produced, and from the earth the directions. From Aditi Dakṣa was produced, and from Dakṣa Aditi: thus the relation of the produced and the producer is stated reciprocally, just as it is stated here. In the Ṛk-saṃhitā the word Virāṭ in some places denotes a metre; in some places it is an epithet of Indra. Showing the relation of the metre and the Puruṣa, the Śatapatha-brāhmaṇa says thus.
+
+चत्वांशदक्षरा विराड्विराजमभिसंपद्यते ततो विरादजायत विराजो अधि पूरुष इत्येषा वै सा विराट्.................. ॥ (*catvāṃśadakṣarā virāḍvirājamabhisaṃpadyate tato virādajāyata virājo adhi pūruṣa ityeṣā vai sā virāṭ.................. ‖*)
+
+(Pa. Patra, 13-6-1-2) **NOTE**
+
+The Virāṭ metre has 24 syllables. From that metre the Virāṭ principle was produced (this is of female form). From this Virāṭ the Puruṣa was produced. With the help of this Virāṭ the sacrificer produces the Puruṣa who is of the form of the sacrifice. In such praise the relation of Puruṣa and Virāṭ is explained: the Virāṭ principle, being in female form, is the cause of the manifestation of the Puruṣa. And the very hymn now in hand is explained in the Rathapatha-brāhmaṇa **NOTE** . If Indra is the supreme Puruṣa, his wife is Virāṭ, as is described in the Bṛhadāraṇyaka.
+
+अथैतद्वामेऽक्षिणि पुरुषरूपमेषास्य पत्नि विराट् तयोरेष संस्तावो य एषोऽंतर्हृदय आकाशः ॥ (*athaitadvāme 'kṣiṇi puruṣarūpameṣāsya patni virāṭ tayoreṣa saṃstāvo ya eṣo 'ṃtarhṛdaya ākāśaḥ ‖*)
+
+(Bṛ. U. 4-2-3)
+
+In the right eye Indra shines. He is the supreme Puruṣa. In the left eye shines his wife, the Virāṭ principle. For these two principles the space of the heart is the place of union: thus the relation of the Puruṣa and the Virāṭ principle is stated. In अथो मे दुहिता विराट् (*atho me duhitā virāṭ*) (Ṛ. Saṃ. 10.159-3) Śacī calls the Virāṭ principle her daughter. But what exactly the word means here cannot be said. In the Chāndogya Upaniṣad, explaining this same Virāṭ principle,
+
+### Printed p. 820
+
+तस्मात्सर्वासु दिक्षन्नमेव दश कृतं सैषा विराडन्नादी तयेदग्ं सर्वं दृष्टं भवत्नन्नादो भवति य एवं वेद ॥ (*tasmātsarvāsu dikṣannameva daśa kṛtaṃ saiṣā virāḍannādī tayedagṃ sarvaṃ dṛṣṭaṃ bhavatnannādo bhavati ya evaṃ veda ‖*)
+
+(Bhā. U. 4-3-8) **NOTE**
+
+That Virāṭ is the food and the power that eats food, which are placed in all the ten directions; both are nothing other than Virāṭ. By the help of this Virāṭ the whole world has come to light. One who knows this principle also comes to light: such is the praise. Ordinarily, wherever the word Virāṭ is used, it is feminine (but in 9-66-18 it is an epithet of Indra). The nature of Virāṭ is described in the Atharvaveda as follows.
+
+विराड्वाग्विराट् पृथ्वी विराडंतरिक्षं विराट् प्रजापतिः । विराण्मृत्युः साध्यानामधिराजो बभूव ॥ (*virāḍvāgvirāṭ pṛthvī virāḍaṃtarikṣaṃ virāṭ prajāpatiḥ | virāṇmṛtyuḥ sādhyānāmadhirājo babhūva ‖*)
+
+(A. Pe. 9-10-24) **NOTE**
+
+Virāṭ is the goddess of speech; Virāṭ is the earth; that is the atmosphere; that is Prajāpati; that is the deity Death; it became the lord of all the Sādhyas; it is everything. Moreover the greatness of the Virāṭ metre is very high. Between this metre and speech (the goddess of speech) identity is stated many times. As Sāyaṇa explains (10-90.5), the name Virāṭ is well known because it shines in many ways, or because the whole world shines in many ways in him; if that is the meaning, the goddess of speech is described in the same way. How? In
+
+महो र्णः सरस्वती प्र चेतयति केतुना । धियो विश्वा वि राजति ॥ (*maho rṇaḥ sarasvatī pra cetayati ketunā | dhiyo viśvā vi rājati ‖*)
+
+(Ṛ. Saṃ. 1-3-12)
+
+too there is the description that Sarasvatī, the goddess of speech, shines in many ways. And in the sentence of the Atharvaveda quoted above, identity of speech and Virāṭ is stated. Here one more point must be noted. As was explained in the earlier parts,
+
+पिता यत्स्वां दुहितरमधिष्कन् क्ष्मया रेतः संजग्मानो नि षिंचत् । स्वाध्योऽजनयन् ब्रह्म देवा वास्तोष्पतिं व्रतपां निरतक्षन् ॥ (*pitā yatsvāṃ duhitaramadhiṣkan kṣmayā retaḥ saṃjagmāno ni ṣiṃcat | svādhyo 'janayan brahma devā vāstoṣpatiṃ vratapāṃ niratakṣan ‖*)
+
+(Ṛ. Saṃ. 10-61.7)
+
+When Prajāpati united with his own daughter, he poured out seed together with the earth. Then Brahman was born: so it is said. Who the daughter is here, Sāyaṇa has not stated definitively; as an alternative meaning one may say Uṣas or speech. It is said that he made the daughter his wife and carried out the act of begetting a son. In this context there is a supernatural meaning. What is the relation of Prajāpati and Virāṭ, and how does the birth of creatures come from their relation? Their relation is described in the Śatapatha-brāhmaṇa as follows.
+
+### Printed p. 821
+
+प्रजापतिर्विराजमसृजत । सास्मात्सृष्टा पराच्यैत् । (*prajāpatirvirājamasṛjata | sāsmātsṛṣṭā parācyait |*)
+
+(Śa. Brā. 13-2-6-3)
+
+Prajāpati created Virāṭ. As soon as she was created she escaped from him. That is, she became Prajāpati's daughter. (This Virāṭ is also well known as the goddess of speech.) The sentence of the Śatapatha-brāhmaṇa which says that from this same Virāṭ the Puruṣa too was produced has been quoted above. Moreover,
+
+प्रजापतिर्विराजमपश्यत्तया भूतं च भव्यं चासृजत तामृषिभ्यस्तिरोऽदधात्तां जमदग्निस्तपसापश्यत्तया वै स पृश्नीन्मानसृजत । (*prajāpatirvirājamapaśyattayā bhūtaṃ ca bhavyaṃ cāsṛjata tāmṛṣibhyastiro 'dadhāttāṃ jamadagnistapasāpaśyattayā vai sa pṛśnīnmānasṛjata |*)
+
+(Tai. Saṃ. 3-3-5-2)
+
+Prajāpati looked at Virāṭ. (Here too who Virāṭ is has not been stated definitively.) United with her he produced all the creatures of the past and the future. He hid her from the seers. Then Jamadagni saw her by the power of his austerity and with her produced the Pṛśnis: so it is said. This sentence of the Taittirīya-saṃhitā too states the same idea as the sentence of the Śatapatha-brāhmaṇa. In some other places it is stated that Viśvakarman, united with speech, brought about the birth of creatures.
+
+Thus, whatever meaning is given to the word Virāṭ, it is clear on the whole that the creator, united with the very thing produced from himself, attains the expansion of the form of the world. There is a difference of opinion also as to in what forms Prajāpati, who is of the form of the Puruṣa, expands. But there is no difference of opinion that everything is a part of Īśvara. The sum of the teaching of the Upaniṣads on this subject is stated in the Bhagavadgītā as follows.
+
+मत्तः परतरं नास्ति किंचिदस्ति धनंजय । मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥ (*mattaḥ parataraṃ nāsti kiṃcidasti dhanaṃjaya | mayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva ‖*)
+
+(Bha. Gī. 7 7) **NOTE**
+
+O Dhanañjaya, there is nothing other or higher than I. As jewels are strung together on a thread, so all things of the world
+
+### Printed p. 822
+
+are strung on me. Nothing is separate from me. In creation of this kind there are two kinds. This is described in the preceding Ṛk by साशनानशने अभि (*sāśanānaśane abhi*). Sāśana means living beings endowed with consciousness, who engage in eating and other activities; anaśana means the inanimate things that lack it. Of both he himself is the root cause. He himself pervades everything. In what manner he carries out the work of creation in the forms of the conscious ones is this.
+
+तेषां खल्वेषां भूतानां त्रीण्येव बीजानि भवन्त्यांडजं जीवजमुद्भिजमिति । (*teṣāṃ khalveṣāṃ bhūtānāṃ trīṇyeva bījāni bhavantyāṃḍajaṃ jīvajamudbhijamiti |*)
+
+(Chā. U. 6-3-1)
+
+Creation has three divisions: that which is born and grows in the form of an egg; that which is born and grows with a body without an egg; and that which is born and grows in the form of a sprout, such as plants. Having thus formed creation,
+
+सेयं देवतैक्षत हंताहमिमास्ति स्रो देवता अनेन जीवेनात्मनानुप्रविश्य नामरूपे व्याकरवाणीति । (*seyaṃ devataikṣata haṃtāhamimāsti sro devatā anena jīvenātmanānupraviśya nāmarūpe vyākaravāṇīti |*)
+
+(Bhā. U. 6.32) **NOTE**
+
+the Supreme Self resolved: "Having formed these divisions of creation, I shall pervade all these three parts (fire, water and food); I shall make them conscious, divide them by name and form, and give each one a separate individuality." After the resolve to create, the principles that were produced first were, according to the Chāndogya Upaniṣad, three forms.
+
+तदैक्षत बहु स्यां प्रजायेयेति तत्तेजोऽसृजत तत्तेज ऐक्षत बहु स्यां प्रजायेयेति तदपोऽसृजत ॥ (*tadaikṣata bahu syāṃ prajāyeyeti tattejo 'sṛjata tatteja aikṣata bahu syāṃ prajāyeyeti tadapo 'sṛjata ‖*)
+
+(Bhā. U. 6-2-3) **NOTE**
+
+"I, the one without a second, must grow in many forms": thinking thus, I first made fire. Then fire too wished to increase. As a result of that wish it made water.
+
+ता आप ऐक्षंत बह्व्यः स्याम प्रजायेमहीति ता अन्नमसृजंत तस्माद्यत्र क्व च वर्षति तदेव भूयिष्ठमन्नं भवति ॥ (*tā āpa aikṣaṃta bahvyaḥ syāma prajāyemahīti tā annamasṛjaṃta tasmādyatra kva ca varṣati tadeva bhūyiṣṭhamannaṃ bhavati ‖*)
+
+(Bhā. U. 6-2-4) **NOTE**
+
+Water also wished to increase. As a result of that wish food was made. Therefore wherever a shower of rain falls, there food is produced in the greatest abundance. Thus from fire, water; from water, food.
+
+### Printed p. 823
+
+तासां त्रिवृतं त्रिवृतमेकैकामकरोद्यथा तु खलु सोम्येमास्तिस्रो देवतास्त्रिवृत्रिवृदेकैका भवति ॥ (*tāsāṃ trivṛtaṃ trivṛtamekaikāmakarodyathā tu khalu somyemāstisro devatāstrivṛtrivṛdekaikā bhavati ‖*)
+
+(Cha. U. 6-3-4) **NOTE**
+
+Each principle thus produced he divided into three parts. The chief deities too are of threefold nature. Thus three kinds of principles are set forth in the Chāndogya. In the Taittirīya the order is somewhat different.
+
+तस्माद्वा एतस्मादात्मन आकाशस्संभूतः । आकाशाद्वायुः । वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी । पृथिव्या ओषधयः । ओषधीभ्योऽन्नं । अन्नात्पुरुषः । स वा एष पुरुषोऽन्नरसमयः ॥ ( (*tasmādvā etasmādātmana ākāśassaṃbhūtaḥ | ākāśādvāyuḥ | vāyoragniḥ | agnerāpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo 'nnaṃ | annātpuruṣaḥ | sa vā eṣa puruṣo 'nnarasamayaḥ ‖ (*)
+
+(Tai. U. 2-1) **NOTE**
+
+From this Self space was produced. From space, air. From air, fire. From fire, water. From water, earth. From earth, the plants. From the plants, food. From food, the Puruṣa. This Puruṣa is made of the essence of food: so it is said. The same order of creation is given in the Aitareya Upaniṣad, which explains the origin of the five great elements (Ai. U. 3-3). In this origin there are two kinds, the inanimate and the animate. All are produced from one root. How?
+
+कोऽयमात्मेति वयमुपास्महे । .... .... .... संज्ञानमाज्ञानं विज्ञानं प्रज्ञानं .... .... .... सर्वाण्यैतानि प्रज्ञानस्य नामधेयानि भवंति । एष ब्रह्मैष इंद्र एष प्रजापतिरेते सर्वे देवा इमानि च पंचमहाभूतानि पृथिवी वायुराकाश आपो ज्योतीगंषीत्येतानि, इमानि च क्षुद्रमिश्राणीव बीजानि इतराणि चेतराणि चांडजानि च, स्वेदजानि चोद्भिज्ञानि चाश्वा गावः पुरुषा हस्तिनो यत्किंचेदं प्राणिजंगमं च पतत्रि च यच्च स्थावरं । सर्वं तत् प्रज्ञानेत्रं, प्रज्ञाने प्रतिष्ठितं प्रजानेत्रो लोकः प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म । स एतेन प्रज्ञानेनास्माल्लोकादुत्क्रम्य.... .... .... अमृतः समभवत् ॥ (*ko 'yamātmeti vayamupāsmahe | .... .... .... saṃjñānamājñānaṃ vijñānaṃ prajñānaṃ .... .... .... sarvāṇyaitāni prajñānasya nāmadheyāni bhavaṃti | eṣa brahmaiṣa iṃdra eṣa prajāpatirete sarve devā imāni ca paṃcamahābhūtāni pṛthivī vāyurākāśa āpo jyotīgaṃṣītyetāni, imāni ca kṣudramiśrāṇīva bījāni itarāṇi cetarāṇi cāṃḍajāni ca, svedajāni codbhijñāni cāśvā gāvaḥ puruṣā hastino yatkiṃcedaṃ prāṇijaṃgamaṃ ca patatri ca yacca sthāvaraṃ | sarvaṃ tat prajñānetraṃ, prajñāne pratiṣṭhitaṃ prajānetro lokaḥ prajñā pratiṣṭhā prajñānaṃ brahma | sa etena prajñānenāsmāllokādutkramya.... .... .... amṛtaḥ samabhavat ‖*)
+
+(I. U. 5-1) **NOTE**
+
+The question is: what is the root principle of the world? The answer is that it should be worshipped as the Self. Who is this Self? What is his nature? That by which all the activities of the world go on is the Self. Seeing, hearing, knowing, and the special parts of knowledge, namely prajñāna, vijñāna,
+
+### Printed p. 824
+
+saṃjñāna, medhā, smṛti and so on, all are activities of this Self. This Self is Brahman. He is Indra. He is Prajāpati and he is all the deities. The five great elements, earth, air, space, water and the lights, all are he. He is the root of all things, gross and subtle. The egg-born, the sweat-born, the sprout-born and so on, all are he. Cows, men, elephants and so on, whatever animals move on the ground, whatever birds fly in the sky, whatever other conscious and unconscious beings, moving and unmoving, there are, all of them are transformations of the Supreme Brahman. All these, as parts of the Self whose nature is prajñāna, remain under the control of the Self. Moreover, the order of origin of the worlds such as the earth, of the mantras such as the Ṛk, and of all other principles of the world will be stated in the respective contexts. If Brahman alone is the cause of the origin of the whole world, there is no other cause for its protection than he. Īśvara, who is the cause of dissolution and of renewed origin, is also the root cause of the continuance of the world. Without him the world cannot even breathe.
+
+सलिल एको द्रष्टाद्वैतो भवत्येष ब्रह्मलोकः सम्राडिति हैनमनुशशास याज्ञवल्क एषास्य परमा गतिरेषास्य परमा संपदेषोऽस्य परमो लोक एषोऽस्य परम आनंद एतस्यॆवानंदस्यान्यानि भूतानि मात्रामुपजीवंति । (*salila eko draṣṭādvaito bhavatyeṣa brahmalokaḥ samrāḍiti hainamanuśaśāsa yājñavalka eṣāsya paramā gatireṣāsya paramā saṃpadeṣo 'sya paramo loka eṣo 'sya parama ānaṃda etasyèvānaṃdasyānyāni bhūtāni mātrāmupajīvaṃti |*)
+
+(Bṛ. U. 4-3-32)
+
+Only one who attains the vision of non-duality, without duality, becomes a dweller in the world of Brahman. This vision is the best course of man. This is the best wealth, the highest bliss. On the basis of a portion of this highest bliss all beings have their life.
+
+रसो वै सः । रसग्गं ह्येवायं लब्ध्वानंदी भवति । को ह्येवान्यात्कः प्राण्यात् । यदेष आकाश आनंदो न स्यात् । एष ह्येवानंदयाति ॥ (*raso vai saḥ | rasaggaṃ hyevāyaṃ labdhvānaṃdī bhavati | ko hyevānyātkaḥ prāṇyāt | yadeṣa ākāśa ānaṃdo na syāt | eṣa hyevānaṃdayāti ‖*)
+
+(Tri. U. 2-6) **NOTE**
+
+This Supreme Self is the essence of the whole world. By the taking of this essence bliss is obtained by every person. If there were not this bliss alone, what living being would breathe and live? Thus the Supreme Brahman, the life-giver of the world, is praised as the one who gives true bliss. To obtain the shelter of the Self, who nourishes the world, is the natural longing of the whole world.
+
 ---
 
-**Progress note:** Done through printed p. 817. Mandala 10 Sukta 90 Rk 5 bhashya, word meanings and special topics on creation and dissolution
+**Progress note:** Done through printed p. 824. Mandala 10 Sukta 90 Rk 5 special topics: Virat, Purusha and creation, Upanishad quotations
