@@ -6060,7 +6060,9 @@ The draught horse (desires) a cart easy (to draw); those who invite guests (desi
 Let Indra, the slayer of Vritra, quaff the Soma on the Sharyan avat
 infusing strength into himself, about to show great prowess : flow, Indu,
 for Indra.
-148 ಬ.ಯಣಭಟ್ಟ,ಸಹಿತಂ : ಮಂ. ೯. ಆ ೭. ಸೂ. ೧೩
+
+<!-- printed 148 -->
+*[148 ಬ.ಯಣಭಟ್ಟ,ಸಹಿತಂ : ಮಂ. ೯. ಆ ೭. ಸೂ. ೧೩]*
 
 *ವಿಶೇಷವಿಷಯಗಳು*
 
