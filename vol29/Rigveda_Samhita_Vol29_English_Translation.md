@@ -13546,6 +13546,277 @@ O Indra, that man is not able (नेशे (*neśe*): न शक्योति
 - विजृंभते (*vijṛṃbhate*)—stands in an excited state
 - सः इत् (*saḥ it*)—such
 
+### Printed p. 479
+
+- man alone
+- ईशे (*īśe*)—is able to have intercourse with a woman
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the man whose organ of generation hangs between the two thighs and, being only in the sleeping state, is without strength, such a man is not able to perform the act of union with a woman, that is, to have intercourse with a woman. But the man whose organ is able to stand erect straight in the state of excitement, such a man alone is capable of performing the act of love with a woman. Indra is greater than the whole world.
+
+##### English translation
+The man who is impotent begets not progeny, but he who is endowed with vigour; Indra is above all (the world).
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न सेशे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृंभ॑ते ।  
+> सेदी॑शे॒ यस्य॒ रंब॑तेऽंत॒रा स॒क्थ्या॒३॒॑ ३ कपृ॒द्विश्व॑स्मा॒दिंद्र॒ उत्त॑रः ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । सः । ईशे । यस्य । रोमशं । निसेदुषः । विजृंभते ।  
+> सः । इत् । ईशे । यस्य । रंबते । अंतरा । सक्था । कपृत् । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स जनो नेशे मैथुनं कर्तुं नेष्टे यस्य जनस्य निषेदुषः शयानस्य
+> रोमशमुपस्थं विजृंभते विवृतं भवति । सेत् स एव जन ईशे मैथुनं कर्तुं
+> शक्कोति यस्य जनस्य कपृत् प्रजननं सक्त्वा सस्थिनी अंतरा रंबते लंबते ।
+> सिद्धमन्यत् । पूर्वोक्तव्यतिरेकोऽत्र द्रष्टव्यः । पूर्वस्यामृचि यियप्पुरिंद्राणींद्रं वदति अत्र त्वयियप्पुरिंद्र इंद्राणिं वदतीत्यविरोधः ॥
+
+##### Gist of the bhāṣya
+
+That man is not able (नेशे (*neśe*)) to perform union, in whose case, when he sits down or lies down (निषेदुषः (*niṣeduṣaḥ*): शयानस्य (*śayānasya*)), the hairy (रोमशं (*romaśaṃ*)) private part gapes (विजृंभते (*vijṛṃbhate*)), that is, becomes open. That very man is able (ईशे (*īśe*)) to perform union, in whose case the कपृत् (*kapṛt*), the organ of generation, hangs (रंबते (*raṃbate*): लंबते (*laṃbate*)) between the thighs. The rest is established. The difference from what was said before is to be seen here: in the previous Ṛk Indrāṇī speaks to Indra, while here Indra speaks to Indrāṇī; thus there is no contradiction. **NOTE**
+
+### Printed p. 480
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indrāṇī, what you say is not right)
+- यस्य (*yasya*)—of which man
+- निषेदुषः (*niṣeduṣaḥ*)—who is in the sleeping state
+- रोमशं (*romaśaṃ*)—the male organ
+- विजृंभते (*vijṛṃbhate*)—stands straight in the state of excitement
+- सः जनः (*saḥ janaḥ*)—that man
+- न ईशे (*na īśe*)—is not capable in intercourse with a woman
+- यस्य (*yasya*)—of which man
+- कपृत् (*kapṛt*)—the organ of generation
+- सक्ष्या अंतरा (*sakṣyā aṃtarā*)—between the two thighs
+- रंबते (*raṃbate*)—hangs without strength
+- सः इत् (*saḥ it*)—such a man alone
+- ईष्टे (*īṣṭe*)—is capable of union with a woman
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+O Indrāṇī, what you say is not right. The man whose male organ, in the sleeping state, stands straight in the state of excitement is not capable of intercourse with a woman; the man whose organ of generation hangs without strength between the two thighs, such a man alone is capable of union with a woman. Indra is greater than the whole world.
+
+##### English translation
+[ Indra speaks : ] He who is endowed with vigour begets not progeny, but he who is impotent ; Indra is above all (the world).
+
+##### विशेषविषयगळु (Special Topics)
+
+What Indra has said in this Ṛk is quite different from what Indrāṇī said in the previous Ṛk. Although what Indrāṇī said in the previous Ṛk, being eager for union, was in accord with nature, Indra, who has no desire for union, has deliberately expressed an opinion contrary to nature.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमिं॑द्र वृ॒षाक॑पिः॒ पर॑स्वंतं ह॒तं वि॑दत् ।  
+> अ॒सिं सू॒नां नवं॑ च॒रुमादेध॒स्यान॒ अचि॑तं॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ १८ ॥
+
+### Printed p. 481
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । इंद्र । वृषाकपिः । परस्वंतं । हतं । विदत् ।  
+> असिं । सूनां । नवं । चरुं । आत् । विधस्य । अनः । अचितं । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अयं वृषाकपिः परस्वंतं परस्वमात्मनो विषयेऽवर्तमानं
+> हतं हिंसितं विदत् । विंदतु । तथा हतस्य विशसनायासिं शस्त्रं सूनामुद्धानं
+> पाकार्थं नवं प्रत्यग्रं चरुं भांडमादनंतरमेधस्य काष्ठस्याचितं पूर्णमनः
+> शकटं च विंदतु । मम पतिरिंद्रो विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, let this Vṛṣākapi find (विदत् (*vidat*)) a slain (हतं (*hataṃ*)), injured animal that is परस्वंतं (*parasvaṃtaṃ*), one not belonging to himself. Likewise, for cutting up the slain animal, let him find a knife (असिं (*asiṃ*), a weapon), a सूनां (*sūnāṃ*) for cooking, a new (नवं (*navaṃ*)), fresh vessel (चरुं (*caruṃ*)), and afterwards a cart (अनः (*anaḥ*)) full (अचितं (*acitaṃ*)) of firewood. My husband Indra is above all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आयं वृषाकपिः (*āyaṃ vṛṣākapiḥ*)—this Vṛṣākapi
+- परस्वंतं (*parasvaṃtaṃ*)—not his own
+- हतं (*hataṃ*)—and killed; this animal
+- विदत् (*vidat*)—let him obtain
+- असिं (*asiṃ*)—a sword (to cut it up)
+- सूनां (*sūnāṃ*)—a ladle for cooking
+- नवं चरुं (*navaṃ caruṃ*)—a new cooking pot
+- आत् (*āt*)—afterwards
+- विधस्य अचितं (*vidhasya acitaṃ*)—full of firewood
+- अनः (*anaḥ*)—let him also obtain a cart
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let this Vṛṣākapi obtain a dead animal that is not his own. To cut it up, let him obtain a sword, to cook it a ladle, a new cooking pot, and a cart full of firewood. Indra is greater than the whole world.
+
+##### English translation
+[ Indrani speaks : ] Let this Vrishakapi, Indra, take a dead wild ass, (let him take) a knife (to cut it up), a fire place (to cook it), a new saucepan, and a cart full of fuel ; Indra is above all (the world).
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमे॑मि वि॒चाक॑शद्विचि॒न्वन्नास॒मायं॑ ।
+
+### Printed p. 482
+
+> पिबामि पाकसुत्वनोऽभि धीरमचाकशं विश्वस्मादिंद्र उत्तरः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । एमि । विचाकशत् । विचिन्वन् । दासं । आर्यं ।  
+> पिबामि । पाक्स्यसुत्वनः । अभि । धीरं । अचाकशं । विश्वस्मात् । इंद्रः । उत्तरः ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथेंद्रो ब्रवीति । विचाकशत् पश्यन्यजमानान् दासमुपक्षपयितारमसुरमार्यमपि च विचिन्वन् पृथक्कुर्वन्नयमहमिंद्र एमि । यज्ञं प्रति गच्छामि ।
+> यज्ञं गत्वा च पाकसुत्वनः । पचतीति पाकः । सुनोतीति सुत्वा ! हविषां पक्तुः
+> सोमस्याभिषोतुर्यजमानस्य पाकेन विपक्वेन मनसा सोमस्याभिषोतुर्वा
+> यजमानस्य संबंधिनं सोमं पिबामि! तथा धीरं धीमंतं यजमानमभ्यचाकशं।
+> अभिपश्यामि । योऽहमिंद्रो विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+Now Indra speaks. Looking at (विचाकशत् (*vicākaśat*)) the sacrificers, and separating (विचिन्वन् (*vicinvan*): पृथक्कुर्वन् (*pṛthakkurvan*)) the दास (*dāsa*), the destroyer, the Asura, and also the Ārya, I, this Indra, come (एमि (*emi*)), I go towards the sacrifice. Having gone to the sacrifice, I drink the Soma belonging to the sacrificer who cooks the oblations and presses Soma (पाकसुत्वनः (*pākasutvanaḥ*)), or to the one who presses Soma with a ripened mind (पाकेन विपक्वेन मनसा (*pākena vipakvena manasā*)). Likewise I look upon (अभ्यचाकशं (*abhyacākaśaṃ*)) the wise (धीरं (*dhīraṃ*)), intelligent sacrificer. I am that Indra who is above all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचाकतत् (*vicākatat*)—looking upon the rite of the sacrificer
+- दासं (*dāsaṃ*)—the Dāsa who is without rites
+- आर्यं (*āryaṃ*)—the Ārya devoted to rites
+- विचिन्वन् (*vicinvan*)—dividing
+- अयं (*ayaṃ*)—I, the lord
+- एमि (*emi*)—come to the sacrifice
+- पाकसुत्वनः (*pākasutvanaḥ*)—the Soma of one who presses with a ripened mind
+- पिबामि (*pibāmi*)—I drink
+- धीरं (*dhīraṃ*)—the wise sacrificer
+- अभ्यचाकशं (*abhyacākaśaṃ*)—I look upon with favour
+- इंद्रः (*iṃdraḥ*)—I, the lord
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—am more excellent
+
+##### भावार्थ (Bhāvārtha)
+
+Looking upon the rite of the sacrificer, and separating the Dāsa who is without rites from the Ārya devoted to rites, I, the lord, come to the sacrifice. I drink the Soma of him who presses and offers it with a ripened mind. I look with favour upon the wise sacrificer. I, the lord, am more excellent than the whole world.
+
+##### English translation
+[ Indra speaks ] Here I come to the (sacrifice) looking upon (the worshippers), distinguishing the Dasa and the Arya; I drink the (Soma)
+
+### Printed p. 483
+
+of the (worshipper), who effuses (the Soma) with mature (mind); I look upon the intelligent (sacrifice); Indra is above all (the world).
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धन्व॑ च॒ यत्क्॒यंतत्र॑ च॒ कति॑ स्वि॒त्ता वि योज॑ना ।  
+> नेदी॑यसो वृषाक॒पेस्त॒मेहि॑ गृ॒हा उप॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धन्व । च । यत् । कृंतत्रं । च । कति । स्वित् । ता । वि । योजना ।  
+> नेदीयसः । वृषाकपे । अस्तं । आ । इहि । गृहान् । उप । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धन्व निरुदकोऽरण्यरहितो देशः । कृंतत्रं कर्तनीयमरण्यं । यद्यच्च धन्व
+> च कृंतत्रं च भवति । मृगोद्वासमरण्यमेवंविधं भवति न त्वत्यंतविपिनं । तस्य
+> शत्रुनिलयस्यास्मदीयगृहस्य च मध्ये कति स्वित्ता तानि योजना योजनानि स्थितानि ।
+> नात्यंतदूरे तद्भवतीत्यर्थः । अतो नेदीयसोऽतिशयेन समीपस्थाच्छत्तुनिलयात् हे वृषाकपे त्वमस्तमस्कां गृहं वैहि । विशेषेणागच्छ । अगत्य च
+> गृहान्यज्ञगृहानुपगच्छ । यतोऽमिंद्रः सर्वस्मादुत्कृष्टः ॥
+
+##### Gist of the bhāṣya
+
+धन्व (*dhanva*) is a waterless region without forest; कृंतत्रं (*kṛṃtatraṃ*) is a forest to be cut. A forest from which the deer have been driven away is of this kind, both dhanva and kṛntatra, but not an extremely thick forest. Between that dwelling of the enemy and our house, how many (कति स्वित्ता (*kati svittā*)) leagues (योजना (*yojanā*)) stand? It is not extremely far. Therefore, O Vṛṣākapi, from the exceedingly near (नेदीयसः (*nedīyasaḥ*)) dwelling of the enemy, you come in particular (व्येहि (*vyehi*): विशेषेणागच्छ (*viśeṣeṇāgaccha*)) to our house (अस्तं (*astaṃ*)). And having come, go to the houses (गृहान् (*gṛhān*)) of the sacrifice. For I, Indra, am more excellent than all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—whichever region
+- धन्व च (*dhanva ca*)—is both a desert
+- कृंतत्रं च (*kṛṃtatraṃ ca*)—and full of violence; from that forest to our house
+- कति स्वित् ता योजना (*kati svit tā yojanā*)—there are only a few leagues
+- वृषाकपे (*vṛṣākape*)—O Vṛṣākapi
+- नेदीयसः (*nedīyasaḥ*)—from this forest that is near
+- अस्तं (*astaṃ*)—to our house
+- व्येहि (*vyehi*)—set out
+- गृहान् उप (*gṛhān upa*)—go also to the house of the sacrifice
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+The region that is both a desert and full of violence: from that forest to our house there are only a few leagues. O Vṛṣākapi, set out from this near forest to our house. Go also to the house of the sacrifice. Indra is greater than the whole world.
+
+### Printed p. 484
+
+##### English translation
+Go home, Vrishakapi, to the halls of sacrifice (from lurking place of the enemy), which is desert and forest (how many leagues are there from there ?) and from the nearest (lurking-place); Indra is above all (the world).
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुन॒रेहि॑ वृषाकसे सुवि॒ता क॑ल्पयावहै ।  
+> य ए॒ष स्व॑प्न॒नंश॒नोऽस्त॒मेषि॑ प॒था पुन॒र्विश्व॑स्मा॒दिंद्र॒ उत्त॑रः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनः । आ । इहि । वृषाकसे । सुविता । कल्पयावहै ।  
+> यः । एषः । स्वप्ननंशनः । अस्तं । एषि । पथा । पुनः । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आगत्य प्रतिगतं वृषाकपिमिंद्रो ब्रवीति । हे वृषाकपे त्वं पुनरेहि ।
+> अस्मान्मत्तागच्छ । आगते च त्वयि सुविता सुवितानि कल्याणानि त्वच्चित्तप्रीतिकराणि
+> कर्माणि कल्पयावहै । इंद्राण्यहं चावामुभौ पर्यालोच्य कुर्याव । किंच
+> यः स्वप्ननंशन उदयेन सर्वस्य प्राणिनः स्वप्नानां नाशयितादित्यः स एष त्वं पथा
+> मार्गेणास्तमात्मीयमावासं पुनरेषि । गच्छसि । यतोऽहमिंद्रो विश्वस्मादुत्तरः।
+> तथा च यास्कः । सुप्रसूतानि वः कर्माणि कल्पयावहै य एष स्वप्ननंशनः
+> स्वप्नान्नाशयस्यादित्य उदयेन सोऽस्तमेषि पथा पुनः । नि. १२-२८ । इति ॥
+
+##### Gist of the bhāṣya
+
+Indra speaks to Vṛṣākapi who has gone and come back. O Vṛṣākapi, come again (पुनरेहि (*punarehi*)); come to us. When you have come, we two, Indrāṇī and I, having considered the matter, will do (कल्पयावहै (*kalpayāvahai*)) the good deeds (सुविता (*suvitā*)), that is, the auspicious deeds that please your mind. Further, you, who are the Āditya, स्वप्ननंशनः (*svapnanaṃśanaḥ*), the destroyer of the dreams of every creature by your rising, go again (एषि (*eṣi*)) by the path to your own abode, the setting (अस्तं (*astaṃ*)). For I, Indra, am more excellent than all. Likewise Yāska says: सुप्रसूतानि वः कर्माणि कल्पयावहै य एष स्वप्ननंशनः स्वप्नान्नाशयस्यादित्य उदयेन सोऽस्तमेषि पथा पुनः । (*suprasūtāni vaḥ karmāṇi kalpayāvahai ya eṣa svapnanaṃśanaḥ svapnānnāśayasyāditya udayena so 'stameṣi pathā punaḥ |*) (Ni. 12-28) **GLOSS** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषाकपे (*vṛṣākape*)—O Vṛṣākapi
+- पुनः एहि (*punaḥ ehi*)—come back to the house
+- सुविता (*suvitā*)—the deeds that are dear to you
+- कल्पयावहै (*kalpayāvahai*)—I and Indrāṇī will do
+- यः (*yaḥ*)—who
+- स्वप्ननंशनः (*svapnanaṃśanaḥ*)—in the form of Āditya, the destroyer of sleep
+- एषः (*eṣaḥ*)—such as you are
+- पथ (*patha*)—by an excellent path
+- अस्तं (*astaṃ*)—to our house
+- पुनः एषि (*punaḥ eṣi*)—come back again
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
 ---
 
-**Progress note:** Done through printed p. 478. Sūkta 86 Ṛks 11-16 (Vṛṣākapi hymn), pp. 471-478
+**Progress note:** Done through printed p. 484. Sūkta 86 Ṛks 16-21 (Vṛṣākapi hymn), pp. 479-484
