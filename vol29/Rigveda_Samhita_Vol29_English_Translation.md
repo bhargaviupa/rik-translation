@@ -20879,6 +20879,126 @@ This kind of description is the commoner. Moreover, the Puruṣa praised in the 
 
 (Śa. Brā. 10-6-1-11)
 
+### Printed p. 723
+
+By such descriptions, having shown that the Supreme Person, in the form of Agni Vaiśvānara, has covered the worlds such as the atmosphere, the vastness of this pervasion is explained. Moreover, the passages in which whatever vast limbs the cosmic egg has are all compared with the limbs of the human body, which is the epitome of the cosmic egg, and described accordingly, also make this matter clear. In this comparison there are three kinds.
+
+1. Comparing the limbs in the form of the cosmic egg with the whole body of man. (Chā. U. 5-18; Mai. U. 6-7) **NOTE**
+
+2. Or comparing them only with the head of man. (Śa. Brā. 9-3-1-3 to 6; Bra. Sū. Bhā. 1-2-31, 32) **NOTE**
+
+3. Or comparing them only with the eye of man. (Bṛ. U. 2-2-2)
+
+In a comparison of this kind the limit is stated as प्रादेशमात्र (*prādeśamātra*). This limit is of a measure suited to the context concerned. By the word दशांगुल (*daśāṃgula*), which indicates a measure, it must be understood that here the measure of the human body is what is specified. How? Thus—
+
+तं ना अंगुलिभिर्मिमीते । पुरुषो वै यज्ञस्तेनेदग्ं सर्वं मितं तस्यैषावमा मात्रा यदंगुलयः ॥ (*taṃ nā aṃgulibhirmimīte | puruṣo vai yajñastenedagṃ sarvaṃ mitaṃ tasyaiṣāvamā mātrā yadaṃgulayaḥ ‖*) (Śa. Brā. 10-2-12)
+
+He measures the sacrificial altar by the measure of fingers. Since the sacrifice has the form of the Puruṣa, everything connected with the sacrifice is measured by that very measure of the Puruṣa. Therefore, if in the present context दशांगुल (*daśāṃgula*) denotes the measure of the Puruṣa (man), it does not denote the complete body. The body of a man is more than ten fingers. Nor is it the measure of the eye; the eye is not of the measure of ten fingers. Therefore here the measure of ten fingers must denote the measure of the head.
+
+In the Śatapatha Brāhmaṇa (10-6-11-11) **NOTE** and in the Chāndogya Upaniṣad (5-12-18), Aśvapati Kaikeya, describing the nature of this Supreme Person who is the Self of the universe, has shown the comparison with the human body, the epitome of that cosmic egg. According to that description, the earth, which is the support of the Puruṣa, is compared to the feet. Likewise his wealth in the form of water is compared to the stomach inside the body, the sky that shows his abundance to the Self within, the wind of manifold movement to the vital breath of the body, the sun of great radiance to the eye of the body, and the heaven that is the means of his lordship to the head. The last section of this part helps in determining the purport of दशांगुल (*daśāṃgula*) in the present context.
+
+### Printed p. 724
+
+तान्नोवाच्यते वै खलु यूयं पृथगिवे ममात्मानं वैश्वानरं विद्वांसोऽन्नमत्थ यस्त्वेतमेवं प्रादेशमाश्रमभिविमानमात्मानं वैश्वानरमुपास्ते स सर्वॆषु लोकेषु सर्वॆषु भूतेषु सर्वॆष्वात्मस्वन्नमत्ति ॥ (*tānnovācyate vai khalu yūyaṃ pṛthagive mamātmānaṃ vaiśvānaraṃ vidvāṃso 'nnamattha yastvetamevaṃ prādeśamāśramabhivimānamātmānaṃ vaiśvānaramupāste sa sarvèṣu lokeṣu sarvèṣu bhūteṣu sarvèṣvātmasvannamatti ‖*) (Chā. U. 5-18)
+
+You eat food knowing only the separate forms of this Self of the universe. But those who worship this Vaiśvānara Self, who is of the measure called प्रादेश (*prādeśa*), eat, pervading all worlds, all beings and all selves, the Self everywhere: so it is said.
+
+स एषोग्निर्वैश्वानरो यत्पुरुषः स यो हैतमेवमग्निं वैश्वानरं पुरुषविधं पुरुषेंतः प्रतिष्ठितं वेद..................वैश्वानरो हिनस्ति ॥ (*sa eṣognirvaiśvānaro yatpuruṣaḥ sa yo haitamevamagniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣeṃtaḥ pratiṣṭhitaṃ veda..................vaiśvānaro hinasti ‖*) (Śa. Brā. 10-6-1-11)
+
+This Vaiśvānara fire is none other than the Supreme Person. Worship of him is itself worship of the Supreme Person: thus there is praise of the Supreme Person who is of प्रादेशमात्र (*prādeśamātra*) measure.
+
+In this description two points become clear. One is that, in this section, having explained the comparison with the human body, the epitome of the cosmic egg, the measure of ten fingers denotes only the head of the Puruṣa. The second is that the Puruṣa is the possessor of parts, endowed with parts of seven kinds (sapta).
+
+प्रादेशमात्रमिव ह वै देवाः सुविदिता अभिसंपन्नाः (*prādeśamātramiva ha vai devāḥ suviditā abhisaṃpannāḥ*) (Śa. Brā. 10-6-1-10)
+
+In this Puruṣa of प्रादेशमात्र (*prādeśamātra*) measure all the gods are united and one. (The commentators have said that प्रादेशमात्र (*prādeśamātra*) means 10 or 12 fingers.) This is the greatness of the Lord. Explaining this same sentence of the Śatapatha Brāhmaṇa, Śaṅkarācārya has said in the Brahmasūtra-bhāṣya thus.
+
+संपत्तिनिमित्ता वा स्यात्पादेशमात्रश्रुतिः । कुतः । तदाहि ; समानप्रकरणं वाजसनेयिब्राह्मणं द्युप्रभृतीन्पृथिवीपर्यंतांस्त्रैलोक्यात्मनो वैश्वानरस्यावयवानध्यात्ममूर्धप्रभृतिषु चुबुकपर्यंतेषु देहावयवेषु संपादयत्पादेशमात्रसंपत्तिं परमेश्वरस्य दर्शयति । (*saṃpattinimittā vā syātpādeśamātraśrutiḥ | kutaḥ | tadāhi ; samānaprakaraṇaṃ vājasaneyibrāhmaṇaṃ dyuprabhṛtīnpṛthivīparyaṃtāṃstrailokyātmano vaiśvānarasyāvayavānadhyātmamūrdhaprabhṛtiṣu cubukaparyaṃteṣu dehāvayaveṣu saṃpādayatpādeśamātrasaṃpattiṃ parameśvarasya darśayati |*) (Bra. Sū. Śaṃ. Bhā. 12-31) **NOTE**
+
+This description is made because everything is contained within his own limit of प्रादेशमात्र (*prādeśamātra*). The heaven, the atmosphere and the earth, all these worlds, are contained within this प्रादेशमात्र (*prādeśamātra*). The purpose of this section is the description of the Lord, who possesses the combined wealth of all the worlds and of all the gods:
+
+### Printed p. 725
+
+thus the purport of this section is explained. Why is there for this all-pervading Supreme Person the contraction to a mere प्रादेशमात्र (*prādeśamātra*)? Thus—
+
+द्युप्रभृतिपृथिव्यंतप्रदेशसंबधिन्या मात्रया परिच्छिन्नत्वं अनवच्चिन्नस्य परमात्मनो वैश्वानरस्य कथं उपपद्यत इत्यत्राह-अनवच्चिन्नस्यैव परमात्मनः उपासनाभिव्यक्त्यर्थ० ॥ (*dyuprabhṛtipṛthivyaṃtapradeśasaṃbadhinyā mātrayā paricchinnatvaṃ anavaccinnasya paramātmano vaiśvānarasya kathaṃ upapadyata ityatrāha-anavaccinnasyaiva paramātmanaḥ upāsanābhivyaktyartha0 ‖*) (Bra. Sū. Rā. Bhā. 1-2.30) **NOTE**
+
+If the question arises whether the limitation called प्रादेश (*prādeśa*) is proper for Īśvara, who is thus undivided, endless and unlimited, the answer given is that this description in the form of a limitation is not ultimate truth. It is only a means of worship.
+
+Explaining the प्रादेशमात्र (*prādeśamātra*) nature of the Vaiśvānara Puruṣa described in the passages of the Śatapatha Brāhmaṇa cited above, Śaṅkarācārya has stated its purport and the aim of this description in the Brahmasūtra-bhāṣya thus.
+
+1. मूर्धादिचुबुकांतेषु पुरुषावयवेषु पुरुषविधत्वं कल्पितं तदभिप्रायेणेदमुच्यते—पुरुषविधं पुरुषेन्तः प्रतिष्ठितं वेद इति ॥ (*mūrdhādicubukāṃteṣu puruṣāvayaveṣu puruṣavidhatvaṃ kalpitaṃ tadabhiprāyeṇedamucyate—puruṣavidhaṃ puruṣentaḥ pratiṣṭhitaṃ veda iti ‖*) (Śa. Bhā. 1-2-28) **NOTE**
+
+The description that this Supreme Self is within the Puruṣa, in the form of a Puruṣa, is a description only of the region from the head of the Puruṣa down to the chin.
+
+2. अतिमात्रस्यापि परमेश्वरस्य प्रादेशमात्रत्वं अभिव्यक्तिनिमित्तं (*atimātrasyāpi parameśvarasya prādeśamātratvaṃ abhivyaktinimittaṃ*) (Śa. Bhā. 1-2-29)
+
+This residence within a region is adopted **NOTE** only for the sake of the description, which is the manifestation of the Supreme Lord who is to be described.
+
+3. प्रादेशमात्रहृदयप्रतिष्ठॆन वायं मनसानुस्मरते तेन प्रादेश मात्र इत्युच्यते । ...... .... । नचेह परमेश्वरगतं किंचित्परिमाणस्तिम यद्धृदयसंबंधाद्व्यज्यते । प्रादेशमात्रत्वेन वायमप्रादेशमात्रोऽप्यनुस्मरणीयः प्रादेशमात्रश्रुत्यर्थवत्ताय्कॆ । (*prādeśamātrahṛdayapratiṣṭhèna vāyaṃ manasānusmarate tena prādeśa mātra ityucyate | ...... .... | naceha parameśvaragataṃ kiṃcitparimāṇastima yaddhṛdayasaṃbaṃdhādvyajyate | prādeśamātratvena vāyamaprādeśamātro 'pyanusmaraṇīyaḥ prādeśamātraśrutyarthavattāykè |*) (Śa. Bhā. 1-2-30)
+
+It is the opinion of Bādari that this reference to residence in a region is only for the sake of constant remembrance. This description is for meditating, with the help of the mind, on this Supreme Lord who is established in the heart. But if the true state is examined, the Supreme Person is not an object of such a limitation. He is not प्रादेशमात्र (*prādeśamātra*) at all.
+
+### Printed p. 726
+
+4. The purport of the bhāṣya on the thirty-first sūtra of 1-2 has been stated above. **NOTE**
+
+5. आमनंति चैनं परमेश्वरमस्मिन् मूर्धचुबुकांतराळे जाबालाः । पुनरामनंति कतमच्चास्य स्थानं भवतीति । भ्रुवोघ्र्णस्य च यः संधिः स एष द्युलोकस्य परस्य च संधिर्भवतीति ...... .... ॥ (*āmanaṃti cainaṃ parameśvaramasmin mūrdhacubukāṃtarāḷe jābālāḥ | punarāmanaṃti katamaccāsya sthānaṃ bhavatīti | bhruvoghrṇasya ca yaḥ saṃdhiḥ sa eṣa dyulokasya parasya ca saṃdhirbhavatīti ...... .... ‖*) (Śa. Bhā. 1.2-32)
+
+The place of this Supreme Lord is between the mūrdha (head) and the chubuka (chin). That is, the exact place is between the bhrū (brow) and the ghrāṇa (nose). This place is the junction between the world of heaven and the highest world beyond it. While explaining the sense **NOTE** of the sentence of the Chāndogya Upaniṣad cited above, Śaṅkarācārya has given an alternative meaning for the word प्रादेशमात्र (*prādeśamātra*).
+
+1. यस्तेतमेवं यथोक्तावयवैद्युमूर्धादिभिः पृथिवीपादान्तैर्विशिष्टमेकं प्रादेशमात्रं प्रादेशैः द्युमूर्धादिभिः पृथिवीपादान्तरध्यात्मं मीयते ज्ञायत इति प्रादेशमात्रं । (*yastetamevaṃ yathoktāvayavaidyumūrdhādibhiḥ pṛthivīpādāntairviśiṣṭamekaṃ prādeśamātraṃ prādeśaiḥ dyumūrdhādibhiḥ pṛthivīpādāntaradhyātmaṃ mīyate jñāyata iti prādeśamātraṃ |*) (Bhā. U. Śa. Bhā. 5-18) **NOTE**
+
+The region from the head of the body to the foot reflects the region that lies in the interval between heaven and earth. This knowledge of the region is a means to knowledge of the Self.
+
+2. मुखादिसु ना करणेष्वत्तत्वेन मीयत इति प्रादेशमात्रः (*mukhādisu nā karaṇeṣvattatvena mīyata iti prādeśamātraḥ*)
+
+The face, with its upper and lower jaws, has its own extended space, which gives entry to food; this central region of space is therefore the प्रादेश (*prādeśa*). It is a reflection of the all-pervading space.
+
+3. द्युलोकादिपृथिव्यंतप्रदेशपरिमाणो वा प्रादेशमात्रः (*dyulokādipṛthivyaṃtapradeśaparimāṇo vā prādeśamātraḥ*)
+
+The interval between the world of heaven and the earth may be called प्रादेशमात्र (*prādeśamātra*). Or,
+
+4. प्रकर्षेण शास्त्रेणादिश्यंत इति प्रादेशा द्युलोकादय एव तावत्परिमाणः प्रादेशमात्रः । (*prakarṣeṇa śāstreṇādiśyaṃta iti prādeśā dyulokādaya eva tāvatparimāṇaḥ prādeśamātraḥ |*)
+
+The very measure that the śāstras state regarding the world of heaven and the rest is प्रादेशमात्र (*prādeśamātra*). Or,
+
+5. शाखांतरे तु मूर्धादिचिबुकप्रतिष्ठ इति प्रादेशमात्रं कल्पयंति । (*śākhāṃtare tu mūrdhādicibukapratiṣṭha iti prādeśamātraṃ kalpayaṃti |*)
+
+Some śāstras state that the region from the head to the chin is प्रादेशमात्र (*prādeśamātra*).
+
+### Printed p. 727
+
+Of these meanings, the third meaning is the one that explains the purport of the word दशांगुल (*daśāṃgula*) in the present context. But there is no room for the question whether the interval between the world of heaven and the earth is really only of ten fingers. This must be understood as a mere symbol. Such symbols reflect the principle of the universe in many contexts. For example, the sacrificial altar, its measure, and the fact that the altar reflects the vastness of the universe are all described by technical terms of this symbolic kind. The measure of the altar, which reflects the universe itself, also follows the measure of the finger. The altar and the Puruṣa are of equal measure. By whatever measure the body of the Puruṣa is measured, the altar too is to be measured by that same measure. How? Thus—
+
+तं ना अंगुलिभिमिर्मिते । पुरुषो वै यज्ञस्तेनेदग्ं सर्वं मितं तस्यैषावमा मात्रा यदंगुलयस्तद्यास्यावमा मात्रा तामस्य तदाप्पोति तय्यैनं तन्निमाते । (*taṃ nā aṃgulibhimirmite | puruṣo vai yajñastenedagṃ sarvaṃ mitaṃ tasyaiṣāvamā mātrā yadaṃgulayastadyāsyāvamā mātrā tāmasya tadāppoti tayyainaṃ tannimāte |*) (Śa. Brā. 10-2-1-2)
+
+He measures the altar with the fingers. Since the sacrifice reflects the Puruṣa and is of equal measure with him, it is to be measured by the very measure by which he is measured. The smallest measure for measuring the Puruṣa is the measure of the finger. Therefore the altar too is to be measured by that same measure. This is the method of measuring the sacrificial Puruṣa.
+
+The creation of the universe, and the sacrifice that imitates this creation, are both praised as acts of measuring, that is, acts of measure. For example—
+
+कासीत्पमा प्रतिमा किं निदानमाज्यं किमासीत्परिधिः क आसीत् । छंदः किमासीत्पउगं किमुक्थं यद्देवा देवमयजंत विश्वे ॥ (*kāsītpamā pratimā kiṃ nidānamājyaṃ kimāsītparidhiḥ ka āsīt | chaṃdaḥ kimāsītpaugaṃ kimukthaṃ yaddevā devamayajaṃta viśve ‖*) (Ṛ. Saṃ. 10-130-3)
+
+When the Viśvedevas offered the sacrifice addressed to Īśvara, the Supreme Self, the measure of this sacrifice is indicated by the questions that are asked: What was the measure? What was the image? What was the first cause? What was the ghee? What was the enclosing boundary? What was the metre? and so on. Many passages also state that the measure of the Puruṣa is the measure of the sacrifice. For the earthly sacrifice, the measure of the earthly Puruṣa; for the sacrifice that is the universe, the measure of the Supreme Person.
+
+Just as all the principles of the cosmic egg are described as reflected in the limbs of the human body, which is its epitome, so too the measure of the face of the Supreme Person, the chief of the universal sacrifice, is reflected in the measure of the face of man. This measure of the face
+
+### Printed p. 728
+
+is of ten fingers. If this is interpreted with reference to the Self of the universe, then the purport of दशांगुल (*daśāṃgula*) becomes the interval between the earth and the world of heaven. Therefore, for अत्यतिष्ठद्दशांगुलं (*atyatiṣṭhaddaśāṃgulaṃ*) the purport can be stated that, pervading the whole interval between heaven and earth that is indicated by the measure of ten fingers, the Puruṣa has displayed his lordship in the whole universe; or the purport can also be taken that, pervading the whole interval between heaven and earth indicated by the measure of ten fingers, he stands established, having surpassed even that. Bhaṭṭabhāskara, explaining this matter in the Taittirīya Āraṇyaka section, has stated that both these meanings are possible, thus.
+
+दशांगुलं दशांगुलप्रमाणावच्छिन्नं । दश अंगुलयः प्रमाणं अस्य इति । अत्र सामर्थ्यात् हृदयाकाशपरिग्रहः। हृदयाकाशस्यैव दशांगुलमित्याख्येति केचित् । हृदयं दहरं गगनं पुरुष इति पर्यायः ॥ (*daśāṃgulaṃ daśāṃgulapramāṇāvacchinnaṃ | daśa aṃgulayaḥ pramāṇaṃ asya iti | atra sāmarthyāt hṛdayākāśaparigrahaḥ| hṛdayākāśasyaiva daśāṃgulamityākhyeti kecit | hṛdayaṃ daharaṃ gaganaṃ puruṣa iti paryāyaḥ ‖*) (Tai. Ā. Bhā. 2-12-1) **NOTE**
+
+Because it is of a measure of ten fingers, there is a usage that indicates the measure of ten fingers. This explanation tells the nature of the space of the heart. According to some, the use of दशांगुल (*daśāṃgula*) ordinarily occurs only when the space of the heart is meant. Heart, dahara, gagana and puruṣa are all synonymous names: this is one kind of explanation of the purport. Secondly—
+
+यद्वा । सर्गप्रकरणमिदं । अतो विकारजातं भूम्यादिकं सर्वं वृत्वा पदेनैव घनमावृत्य शशांगुलमतितिष्ठति दशांगुलादधोऽधिष्ठानं न करोति आत एव भूमेर्दशांगुलादधोऽंकुरादेरनुत्पत्तिः । सर्वगसिसृक्षोपधानमूल तत्वेऽपि पुरुषस्य कारणात्मकत्वात् सर्वकार्यदेशवाप्यैव स्वप्रयोजनसंपादनात् तदेव तस्य सर्वगतत्वमिति दशांगुलात्परतो न व्याप्ोति प्रयोजनाभावादिति केचित् ॥ (*yadvā | sargaprakaraṇamidaṃ | ato vikārajātaṃ bhūmyādikaṃ sarvaṃ vṛtvā padenaiva ghanamāvṛtya śaśāṃgulamatitiṣṭhati daśāṃgulādadho 'dhiṣṭhānaṃ na karoti āta eva bhūmerdaśāṃgulādadho 'ṃkurāderanutpattiḥ | sarvagasisṛkṣopadhānamūla tatve 'pi puruṣasya kāraṇātmakatvāt sarvakāryadeśavāpyaiva svaprayojanasaṃpādanāt tadeva tasya sarvagatatvamiti daśāṃgulātparato na vyāpoti prayojanābhāvāditi kecit ‖*) (Trai. Ā. Bhā. 3-12-1) **NOTE**
+
+After the root nature has undergone modification and been transformed in the form of the world, it plants its foot and stands planted on the ground, so as to occupy a space of only ten fingers. **NOTE** Thus another kind of purport has been given. But the view explained above states in a reasoned manner the spiritual purport of दशांगुल (*daśāṃgula*).
+
+**The main purport**
+
+In this Ṛk three main matters are set forth. The first: what is the meaning of the word पुरुष (*puruṣa*)? Who is the Puruṣa? What does the word पुरुष (*puruṣa*) used in this Ṛk indicate? These matters must be examined. For the word पुरुष (*puruṣa*) in ordinary language
+
 ---
 
-**Progress note:** Done through printed p. 722. Puruṣa-sūkta 90 introduction end; Ṛk 1; special topics on sahasra, daśāṅgula, atyatiṣṭhat; pp. 716-722
+**Progress note:** Done through printed p. 728. Special Topics on daśāṅgula, prādeśamātra, measure of the altar; pp. 723-728
