@@ -11194,6 +11194,257 @@ O bride, in this husband's house may the affection that is joined with sons and 
 ##### English translation
 In this your (husband's family) may affection increase with ofspring, be watchful over the domestic fire in this house; unite your person with this your husband ; and both growing old together govern your household.
 
+### Printed p. 413
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk इह प्रियं (*iha priyaṃ*) is to be recited when the new bride enters her husband's house is explained by the sūtra of the Āśvalāyana Gṛhya Sūtra, इह प्रियं प्रजया ते समृध्यतामिति गृहं प्रवेशयेत् (*iha priyaṃ prajayā te samṛdhyatāmiti gṛhaṃ praveśayet*) (Ā. Gṛ. 1-8-8 **NOTE**).
+
+O bride, enter this husband's house. Here may things dear to you, wealth and the like, and offspring such as sons grow. Being the mistress of this house, look after the management of the house with care. Joining with this husband of yours, obtain bodily happiness and beget offspring such as sons. In this way the wish is expressed that you, husband and wife, may live and thrive in this house for a long time in happiness and joy, and at the end may both grow old together.
+
+The pronominal words ayā and enā are used when such a woman or such a man is being indicated. The word ayā is used with regard to women, and the word enā with regard to men and to neuter words. For example:
+
+अया ते अग्ने समिधा विधेम । इति स्त्रियाः ॥ (*ayā te agne samidhā vidhema | iti striyāḥ ‖*)
+
+In this Vedic sentence the word ayā is used in connection with the feminine word samidhā.
+
+एना वो अग्निं नमसा । इति नपुंसकस्य ॥ (*enā vo agniṃ namasā | iti napuṃsakasya ‖*)
+
+In this sentence the word enā is used in connection with the neuter word namasā.
+
+एना पत्या तन्वं संसृजस्व ! इति पुंसः ॥ (*enā patyā tanvaṃ saṃsṛjasva ! iti puṃsaḥ ‖*)
+
+In this sentence the word enā is used in connection with the masculine word patyā (Ni. 3-21).
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नी॒ल॒लो॒हि॒तं भ॑वति कृ॒त्यास॒क्तिर्व्य॑ज्यते ।  
+> एधं॑ते अस्या ज्ञा॒तयः॒ पति॑र्बं॒धेषु॑ बध्यते ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नील्यलोहितं । भवति । कृत्या । आसक्तिः । वि । अज्यते ।  
+> विधंते । आस्त्याः । ज्ञातयः । पतिः । बंधेषु । बध्यते ॥ २८ ॥
+
+### Printed p. 414
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृत्याभिचाराभिमानिनी देवता नीललोहितं भवंति । नीलं च लोहितं च
+> तस्या रूपं भवतीत्यर्थः । सा कृत्यासक्तिरासक्तास्यां संबद्धा व्यज्यते । त्यज्यत इत्यर्थः ।
+> तस्यां कृत्यायामपगतायामस्या वध्वा ज्ञातय विधंते वर्धंते । पतिर्बंधेषु
+> सांसारिकेषु बध्यते ॥
+
+##### Gist of the bhāṣya
+
+The deity presiding over Kṛtyā, the magical act of harm, becomes blue and red; that is, blue and red is her form. That Kṛtyā, attached, joined to her, is cast off, that is, abandoned. When that Kṛtyā has gone away, the kinsmen of this bride prosper, grow. The husband is bound in worldly bonds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृत्या (*kṛtyā*)—the deity named Kṛtyā, presiding over magical harm (the deity possessed of magical power)
+- नीललोहिता (*nīlalohitā*)—becoming blue and red in colour
+- भवति (*bhavati*)—she is
+- आसक्तिः (*āsaktiḥ*)—that Kṛtyā clinging to her
+- व्यज्यते (*vyajyate*)—is abandoned
+- अस्याः (*asyāḥ*)—of this bride
+- ज्ञातयः (*jñātayaḥ*)—kinsmen
+- विधंते (*vidhaṃte*)—prosper
+- पतिः (*patiḥ*)—her husband
+- बंधेषु (*baṃdheṣu*)—in worldly bonds
+- बध्यते (*badhyate*)—is bound, restrained
+
+##### भावार्थ (Bhāvārtha)
+
+The deity named Kṛtyā, who possesses magical power, is blue and red in colour. That Kṛtyā clinging to this bride is abandoned. After that the kinsmen of this bride prosper. Her husband is restrained in worldly bonds.
+
+##### English translation
+Blue and red is (her form) ; Kritya devoted (to her) is left behind ; her kinsmen prosper, the husband is bound in bonds.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॑ देहि शामु॒ल्यं॑ ब्र॒ह्मभ्योः॒ वि भ॑जा॒ वसु॑ ।  
+> कृ॒तैषा प॒द्वती॑ भू॒त्वा जा॒या वि॑शते॒ पतिं॑ ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । देहि । शामुल्यं । ब्रह्मभ्यः । वि । भज । वसु ।  
+> कृत्या । एषा । पत्त्ववती । भूत्वी । आ । जाया । विशते । पतिं ॥ २९ ॥
+
+### Printed p. 415
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शामुल्यं । शामलमित्यर्थः । शमलं शारीरं मलं । शरीरावच्छन्नस्य मलस्य
+> धारकं वस्त्रं परा देहि । परात्यज । धृतप्रायश्चित्यार्थं ब्रह्मभ्यो ब्राह्मणेभ्यो
+> वसु धनं वि भज । प्रयच्छेत्यर्थः । किमर्थं वधूवासःपरित्याग इति चेत् उच्यते ।
+> निषा कृत्या पद्वर्ती पादवती सती जाया भूत्वा भूत्वा पतिं विशते । कृत्यारूपवासःप्रवेशात् कृत्या जाया भूत्वा विश्वत इत्युपचर्यते । अतस्तत्परित्यागे कृत्यैव
+> त्यक्ता भवतीत्यर्थः । यदि वधूवासः स्वयं निधत्ते तदैवं भवतीति वधूवासःसंस्पर्शनं निंदायुक्तं ii
+
+##### Gist of the bhāṣya
+
+Śāmulya means the same as śāmala; śamala is the dirt of the body. Give away, cast off, the garment that holds the dirt covering the body. For the expiation of having worn it, distribute wealth to the Brahmins; that is, give it. If it is asked why the bride's garment is to be abandoned, the answer is: this Kṛtyā, having become endowed with feet, having become the wife, enters the husband. Since Kṛtyā enters in the form of the bride's garment, it is said figuratively that Kṛtyā, having become the wife, enters. Therefore, when the garment is abandoned, Kṛtyā herself is abandoned. If the husband himself puts on the bride's garment, then this happens; so touching the bride's garment is blameworthy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शामुल्यं (*śāmulyaṃ*)—the garment soiled by the dirt of the body
+- परा वेहि (*parā vehi*)—throw far away
+- ब्रह्मभ्यः (*brahmabhyaḥ*)—to those who know the Veda
+- वसु (*vasu*)—wealth
+- वि भज (*vi bhaja*)—distribute
+- एषा कृत्या (*eṣā kṛtyā*)—this goddess named Kṛtyā
+- पद्वती (*padvatī*)—having become possessed of feet
+- जाया भूत्वी (*jāyā bhūtvī*)—having attained the relation of a wife
+- पतिं (*patiṃ*)—your husband
+- आ विशते (*ā viśate*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+O bride, throw far away the garment soiled by the dirt of the body. Distribute wealth to those who know the Veda. This goddess named Kṛtyā, having become possessed of feet and having taken the form of a wife, enters your husband.
+
+##### English translation
+Put away the garment soiled by the body; give wealth to the Brahmins; this Kritya having become endowed with feet, enters the husband's heart as his wife.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the bride is directed to cast far away her garment soiled by dirt. For if the bride's soiled garment touches the husband's body, there is a possibility that a sinful deity named Kṛtyā, of blue and red form, will enter the husband's body. Therefore it is said that, so that that sinful deity may go far away, the bride should throw away her soiled garment. For this very reason it is said that touching the bride's garment is blameworthy.
+
+### Printed p. 416
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒श्री॒रा त॒नूर्भ॑वति॒ रुश॑ती पा॒पया॑मु॒या ।  
+> पति॒र्यद्व॒ध्वो॒३॒॑ ३ वास॑सा॒ स्वमंग॑मभि॒धित्स॑ते ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्रीरा । तनूः । भवति । रुशती । पापया । अमुया ।  
+> पतिः । यत् । वध्वः । वाससा । स्वं । अंगं । अभिधित्सते ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रापि वधूवासःसंस्पर्शनिंदोच्यते ! तनूर्वरस्य संबंधिन्यश्रीरश्रीका
+> भवति । कथं स्यादिति उच्यते । रुशती । रुशदिति वर्णनाम । दीप्तयामुयानया
+> पापरूपया कृत्यया युक्ता चेत्तनूः । तदेवाह । पतियद्यदि वध्वो वाससा
+> स्वमंगमभिधित्सते परिधातुमिच्छति ॥
+
+##### Gist of the bhāṣya
+
+Here too the blame of touching the bride's garment is stated. The body belonging to the bridegroom becomes without beauty. How this comes about is told: ruśat is a name for colour. If the body, though bright, is joined with this sinful Kṛtyā, that is the case; and this very thing he says: if the husband wishes to cover his own limb with the bride's garment, that is, wishes to put it on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पतिः (*patiḥ*)—the bridegroom
+- वध्वः (*vadhvaḥ*)—of the bride
+- वाससा (*vāsasā*)—with the garment
+- स्वं अंगं (*svaṃ aṃgaṃ*)—his own body
+- अभिधित्सते (*abhidhitsate*)—wishes to cover, then
+- अमुया पापया (*amuyā pāpayā*)—by contact with this most sinful goddess Kṛtyā
+- रुशती (*ruśatī*)—shining
+- तनूः (*tanūḥ*)—his body
+- अश्रीराः (*aśrīrāḥ*)—without lustre
+- भवति (*bhavati*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+When the husband wishes to cover his own body with the bride's garment, then, by contact with this most sinful goddess Kṛtyā, his shining body becomes without lustre.
+
+##### English translation
+The (bridegroom's) body is lacking in beauty; shining with this wicked (Kritya), when he wishes to clothe his own limbs with his wife's garments.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too the blame of touching the bride's garment is stated. If the husband should once cover himself with the bride's garment, then the colour and lustre of his body are lost and the body becomes
+
+### Printed p. 417
+
+without beauty. Therefore even now it is the custom that men wear women's garments and the like **NOTE**
+
+ who wishes to be possessed of health, radiance and strength should never wear garments and the like that women have used.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये व॒ध्व॑श्चं॒द्रं व॑ह॒तुं यक्ष्मा॒ यंति॒ जना॒दनु॑ ।  
+> पुन॒स्तान्य॒ज्ञिया॑ दे॒वा नयं॑तु॒ यत॒ आग॑ताः ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । वध्वः । चंद्रं । वहतुं । यक्ष्याः । यंति । जनात् । अनु ।  
+> पुनरिति । तान् । यज्ञियाः । देवाः । नयंतु । यतः । आगताः ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वध्वश्चंद्रं हिरण्यरूपं वहतुं ये यक्ष्या व्याधयोऽनु यंति प्राप्नुवंति
+> जनादस्मद्विरोधिनः सकाशात् । यद्वा । जनाद्यमाख्यात् । तान्सुनर्नयंतु
+> प्रापयंतु यज्ञिया यज्ञार्हा देवा इंद्रादयः । यत आगता यस्मात्ते
+> यक्ष्या आगताः तत्र तान्नयंतु ॥
+
+##### Gist of the bhāṣya
+
+Those diseases, the yakṣmas, which follow, that is, reach, the bride's "candra", golden in form, which is to be carried, from a person, an adversary of ours; or else from the one called Yama: may the gods worthy of sacrifice, Indra and the others, lead them back, bring them, to the place from which those diseases came; let them lead them there.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञियाः (*yajñiyāḥ*)—worthy of sacrifice
+- देवाः (*devāḥ*)—the gods
+- जनात् (*janāt*)—from people who are our enemies
+- ये यक्ष्माः (*ye yakṣmāḥ*)—those diseases which
+- वध्वः (*vadhvaḥ*)—of the bride
+- चंद्रं (*caṃdraṃ*)—golden in form
+- वहतुं (*vahatuṃ*)—splendour
+- अनुयंति (*anuyaṃti*)—enter and make lustreless
+- तान् (*tān*)—them
+- यत आगताः (*yata āgatāḥ*)—to the place from which they came
+- पुनः (*punaḥ*)—again
+- नयंतु (*nayaṃtu*)—may they send back
+
+##### भावार्थ (Bhāvārtha)
+
+May the gods send back again, to the place from which they came, those diseases which, from our enemies, enter the golden-formed body of the bride and make it lustreless.
+
+##### English translation
+May the adorable gods drive back again to the place whence they came the diseases which follow from (other) people the wife's golden bridal procession.
+
+### Printed p. 418
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present Ṛk the assurance is stated that if diseases such as yakṣma come from enemies or from Yama, all of them, by the grace of the gods Indra and the others, go back and go to the enemies; that is, they afflict the enemies themselves.
+
+Candram means golden: the body of the bride, shining like the lustre of gold. Two kinds of meaning can be given to the word candra. सर्वेषामाह्लादकश्चंद्रसदृशो भवति । (*sarveṣāmāhlādakaścaṃdrasadṛśo bhavati |*) When describing a thing, a thing that shines like the radiance of the moon, which gives delight to all, is described by the word candra. This meaning follows the explanation of the Nirukta. In the Nirukta it is said, चंद्रश्चंदतेः कांतिकर्मणः । (*caṃdraścaṃdateḥ kāṃtikarmaṇaḥ |*) (Ni. 11-5), that is, the word candra is formed from the root cand, which means to shine with lustre, to look lovely. Therefore the word candra is used when describing an agreeable thing.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा वि॑दन्परिपं॒थिनो॒ य आ॒सीदं॑ति॒ दंप॑ती ।  
+> सु॒गेभि॑र्दु॒र्गमती॑ता॒मप॑ द्रां॒त्वरा॑तयः ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । विदन् । परिपंथिनः । ये । आसीदंति । दंपती इति दंपती ।  
+> सुगेभिः । दुर्गं । आशि । इतां । अप । द्रांतु । अरातयः ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वध्वाः प्रयाणे मा विदन्नित्येषा याज्या । सूत्रितं च । कल्याणेषु देशवृक्षचतुष्पथेषु मा विदन्परिपंथिन इति जपेत् । अ. गृ. १-८.६ । इति ॥
+> परिपंथिनः पर्यवस्थातारः शत्रवो मा विदन् मा प्रापयन् ये
+> परिपंथिनो दंपती आसीदंति अभिगच्छंति । सुगेभिः सुगैर्मार्गैर्दुर्गं दुःखेन
+> गंतुं शक्यं दुर्गमं देशमतीतां । अतिगच्छतां । आरातयोऽदात्तारः शत्रवोऽप
+> द्रांतु । अपगच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the yājyā for the bride's journey. It is laid down in the sūtra: at auspicious places, such as a region, a tree or a crossroads, one should mutter "May the waylayers not find" (A. Gṛ. 1-8.6 **NOTE**). May the waylayers, those who stand about, the enemies, not find, not reach, those who come upon the married couple. By easy roads let them pass beyond a hard place, that is, a region difficult to go through. May the enemies, those who give nothing, go away, depart.
+
 ---
 
-**Progress note:** Done through printed p. 412. Ṛk 23 end, Ṛk 24-27 (Sūkta 85)
+**Progress note:** Done through printed p. 418. Special Topics of Ṛk 27, Ṛk 28-32 (Sūkta 85)
