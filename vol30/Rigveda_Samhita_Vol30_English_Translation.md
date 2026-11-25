@@ -20592,6 +20592,139 @@ Maṇḍala 10; Anuvāka 10; Sūkta 121. Aṣṭaka 8; Adhyāya 7; Vargas 3, 4. 
 
 Hiraṇyagarbha is Prajāpati, the one who is the embryo (garbha) of the golden egg. So the Taittirīya: प्रजापतिर्वै हिरण्यगर्भः प्रजापतेरनुरूपत्वाय (*prajāpatirvai hiraṇyagarbhaḥ prajāpateranurūpatvāya*) (Tai. Saṃ. 5-5-1-2). Or else: the golden egg is within whose belly as an embryo, that sūtrātman is called Hiraṇyagarbha. अग्रे (*agre*): before the origination of the manifold world he came into being; he was born from the Supreme Self, who presides over māyā and desires to create. Although the Supreme Self himself is Hiraṇyagarbha, yet…
 
+### Printed p. 628
+
+> तदुपाधिभूतानां वियदादीनां सूक्ष्मभूतानां ब्रह्मण उत्पत्तेस्तदुपाहितोऽप्युत्पन्न इत्युच्यते । स च जातो जातमात्र एवैकोद्वितीयः सन् भूतस्य विकारजातस्य
+> ब्रह्मांडादेः सर्वस्य जगतः पतिरीश्वर आसीत् । न केवलं पतिरासीदेव अपि तर्हि स
+> हिरण्यगर्भः पृथिवीं विस्तीर्णां द्यां दिवमुतापि चेमामस्माभिर्दृश्यमानां पुरोवर्तिनीमिमां भूमिं । यद्वा । पृथिवीत्यंतरिक्षनाम । अंतरिक्षं दिवं भूमिं च
+> दाधार । धारयति ॥ छंदसि लुज्लज् लिट इति सार्वकालिको लिट् । तुजादित्पादभ्यासदीर्घः॥ कस्मै! अत्र किंशब्दोऽनिर्ज्ञातस्वरूपत्वात्प्रजापतौ वर्तते । यद्वा। सृष्ट्यर्थ०
+> कामयत इति कः ॥ कमेर्डप्रत्ययः ॥ यद्वा। कं सुखं । तद्रूपत्वात्क इत्युच्यते ।
+> अथवेंद्रेण पृष्टः प्रजापतिर्मदीयं महत्त्वं तुभ्यं प्रदायाहं कः कीदृशः
+> स्यामित्युक्तवान् । स इंद्रः प्रत्यूचे । यदीदं ब्रवीष्यहं कः स्यामिति तदेव त्वं
+> भवेति । अतः कारणात्क इति प्रजापतिराख्यायते । इंद्रो वै वृत्रं हत्वा सर्वा
+> विजितीर्विजित्याब्रवीदित्यादिकं ब्राह्मणमत्रानुसंधेयं । ऐ. ब्रा ३-२१ ॥ यदासौ
+> किंशब्दस्तदा सर्वनामत्वात्सैभावः सिद्धः । यदा तु यौगिकस्तदा व्यत्ययेनेति
+> द्रष्टव्यं । सावेकाच इति प्राप्तस्य न गोश्वन्याववर्णॆति प्रतिषेधः । क्रियाग्रहणं
+> कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थि ॥ कं प्रजापतिं देवाय देवं दानादिगुणयुक्तं हविषा प्राजापत्यस्य पशोर्वपारूपेणैककपालात्मकेन पुरोडाशेन वा
+> विधेम । वयमृत्तिजः परिचरेम । विधतिः परिचरणकर्मा ॥
+
+##### Gist of the bhāṣya
+
+Because the subtle elements (ether and the rest) that serve as the limiting adjunct of Brahman arise, the one conditioned by them is also said to have arisen. Born, he was at the very moment of birth the sole lord, without a second, of all that has come into being: the whole world of transformations, beginning with the Brahmāṇḍa. Nor was he only its lord: that Hiraṇyagarbha upheld the broad earth, heaven, and also this earth that lies before us and is seen by us. Or else, "earth" is a name of the atmosphere, and he upholds the atmosphere, heaven and earth. कस्मै (*kasmai*): here the word किं (*kiṃ*) stands for Prajāpati because his nature is not determined. Or else, he is कः (*kaḥ*) because he desired (कामयत (*kāmayata*)) for the sake of creation. Or else कं (*kaṃ*) is happiness, and being of that nature he is called कः (*kaḥ*). Or else, questioned by Indra, Prajāpati bestowed his greatness on him and said, "What (कः (*kaḥ*)) would I be?" Indra answered, "What you say, 'What would I be?', that very thing be you." For this reason Prajāpati is called Ka. The Brāhmaṇa beginning "Indra, having slain Vṛtra and won all victories, said…" is to be recalled here (Ai. Brā. 3-21). When किं (*kiṃ*) is a pronoun, the form with स्मै (*smai*) is established; when it is a yaugika (derived) word, it is to be understood by vyatyaya. The dative arises because the object is the recipient. "To Ka, the god, the one endowed with qualities such as generosity, we would minister (विधेम (*vidhema*)) with the oblation": the oblation is either the fat (vapā) of the Prājāpatya animal or a one-potsherd cake (puroḍāśa). "We" means the priests, who would serve him. विधति (*vidhati*) is a verb of serving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिरण्यगर्भः (*hiraṇyagarbhaḥ*)—Prajāpati, famed by the name Hiraṇyagarbha
+- अग्रे (*agre*)—before the origin of the world
+- एकः (*ekaḥ*)—without a second (no other)
+- सं आवर्तत (*saṃ āvartata*)—he alone existed
+- जातः (*jātaḥ*)—as soon as born
+- भूतस्य (*bhūtasya*)—of the whole world, the Brahmāṇḍa and the rest, produced from his own part
+- पतिः (*patiḥ*)—as lord
+- आसीत् (*āsīt*)—he was
+- सः (*saḥ*)—that Hiraṇyagarbha
+- पृथिवीं (*pṛthivīṃ*)—the broad
+- द्यां (*dyāṃ*)—the world of Dyu (heaven)
+- उत (*uta*)—and
+- इमां (*imāṃ*)—this earth visible to our eyes, or the atmosphere and the earth also
+- दाधार (*dādhāra*)—he upholds
+- देवाय (*devāya*)—to the one endowed with generosity and other qualities
+- कस्मै (*kasmai*)—to Prajāpati, whose nature is happiness
+- हविषा (*haviṣā*)—with an oblation such as the puroḍāśa
+- विधेम (*vidhema*)—let us serve
+
+##### भावार्थ (Bhāvārtha)
+
+Prajāpati, who bears the name Hiraṇyagarbha, existed alone, by himself, before the creation of the world. Then, as soon as he came into being, he was the one sole lord of the whole world, Brahmāṇḍa and the rest, created from his own part
+
+### Printed p. 629
+of everything. That Hiraṇyagarbha, by his own power, upholds the broad heaven, this earth and the atmosphere; that is, the worlds beginning with earth are established through his support. Let us serve with the oblations of vapā and puroḍāśa that very Prajāpati, endowed with generosity and other qualities.
+
+##### English translation
+Hiranyagarbhaa was present at the begining; when born, he was the sole lord of created beings; he upheld this earth and heaven.—let us offer worship with an oblation to the divine Ka.
+
+##### विशेषविषयगळु (Special Topics)
+
+हिरण्यगर्भः सं अवर्तत अग्रे (*hiraṇyagarbhaḥ saṃ avartata agre*)—The commentator gives two or three kinds of meaning for the word Hiraṇyagarbha. In the Taittirīya Saṃhitā (Tai. Saṃ. 5-5-1-2) it is said that Hiraṇyagarbha is Prajāpati: प्रजापतिर्वै हिरण्यगर्भः (*prajāpatirvai hiraṇyagarbhaḥ*). हिरण्यगर्भः (*hiraṇyagarbhaḥ*) means हिरण्मयस्यांडस्यगर्भभूतः प्रजापतिर्हिरण्यगर्भः (*hiraṇmayasyāṃḍasyagarbhabhūtaḥ prajāpatirhiraṇyagarbhaḥ*): before creation the whole universe was in the form of an egg (the shape of a hen's egg), contained within Prajāpati's belly. That egg shone brilliantly like gold. It is the custom to call Prajāpati, who holds such a golden egg in the middle of his belly, Hiraṇyagarbha. Besides this: before creation, when the Supreme Self was in the unmanifest (subtle) state, none of this visible world existed. When the wish to create the world arose in the Supreme Self, the unmanifest form took on a manifest form. This is what the Upaniṣadic text sets forth:
+सो 5 कामयत । बहु स्यां प्रजायेयेति । स तपोऽतप्यत । स तपस्त्वप्त्वा इदग्ं सर्वमसृजत । यदिदं किंच । तत्सृष्ट्वा । तदेनानु प्राविशत् । तदनु प्रविश्य । सच्च त्यच्चाभवत् ॥ (*so 5 kāmayata | bahu syāṃ prajāyeyeti | sa tapo 'tapyata | sa tapastvaptvā idagṃ sarvamasṛjata | yadidaṃ kiṃca | tatsṛṣṭvā | tadenānu prāviśat | tadanu praviśya | sacca tyaccābhavat ‖*) (Tai. U. 9-6)
+When that Supreme Brahman (the Supreme Self) took on manifest form, the world and the rest that had been absorbed in him in subtle form are said here to have existed in the form of an egg. Something that lies within the middle of another thing is called its "womb" (garbha). Therefore the world and the rest, absorbed in the Supreme Self in unmanifest (subtle) form, are called here the egg or womb. It is described as shining like gold (hiraṇya), and this Supreme Self or Prajāpati, who holds such a golden egg in his womb (middle), is praised as Hiraṇyagarbha. Such a Hiraṇyagarbha (or Prajāpati)
+
+### Printed p. 630
+was alone before creation. Since there was no creation, no one other than this Prajāpati existed then.
+भूतस्य जातः पतिः एकः आसीत् (*bhūtasya jātaḥ patiḥ ekaḥ āsīt*)—It has been said that before creation this Hiraṇyagarbha was alone, so that no other moving or unmoving things existed then. How, then, is he भूतस्य पतिः (*bhūtasya patiḥ*), lord of all beings, creatures? When there were no creatures, is it not impossible to call him lord of creatures? The answer: all those beings, that is, the universe containing all the Brahmāṇḍas, arose from this Hiraṇyagarbha himself. Thus, as soon as the whole world (and the creatures in it) came into being, this Hiraṇyagarbha or Prajāpati was the one sole lord of them all. There was no other lord apart from him. The meaning is that everything was subject to his command.
+सः दाधार पृथिवीं द्यां उत इमां (*saḥ dādhāra pṛthivīṃ dyāṃ uta imāṃ*)—He is the support of the worlds of earth, atmosphere and heaven, which arose from a part of this Prajāpati, and by his surpassing power and capacity he is the cause of their continuance. It is by his power and capacity that the worlds beginning with earth, established in their appointed places, are able to perform their own duties.
+कस्मै देवाय हविषा विधेम (*kasmai devāya haviṣā vidhema*)—Two or three meanings can be given for the word कः (*kaḥ*). The word किं (*kiṃ*) has the sense "what", of undetermined nature. When one asks "what, which?", its nature is not known. Likewise, saying कस्मै (*kasmai*), one may say that the nature or power of this Prajāpati is not known to ordinary people, that is, one may give the meaning "of a nature that cannot be fully known by anyone". Or कं (*kaṃ*) is happiness; कस्मै (*kasmai*) may also be taken to mean "to the one whose nature is happiness". As in the Śruti text आनंदो ब्रह्मेति व्यजानात् (*ānaṃdo brahmeti vyajānāt*), Brahman (or Prajāpati) is of the nature of bliss or happiness. Or, as in the story told in the introduction to this sūkta, Prajāpati acquired the name Ka for another reason. In the Taittirīya Brāhmaṇa too it is said that Prajāpati has the name Ka: प्रजापतिर्वै कः (*prajāpatirvai kaḥ*) (Tai. Brā. 2-5-5). The chief purport of this Ṛk is: let us serve and worship such a Hiraṇyagarbha or Prajāpati, of the nature of happiness, with oblations such as caru and puroḍāśa. Explaining the word कः (*kaḥ*) in this Ṛk, Yāska has given a Nirukta on it:
+कः । कः कमनो वा क्रमणो ना सुखो ना । तस्यैषा भवति ॥ (*kaḥ | kaḥ kamano vā kramaṇo nā sukho nā | tasyaiṣā bhavati ‖*) (Ni. 10-22)
+कः (*kaḥ*) means कमनो वा (*kamano vā*). The word कः (*kaḥ*) is derived from the root कम् (*kam*) "to love": one who loves, that is, one who loves all the creatures he has created; or कः (*kaḥ*) means क्रमणो वा (*kramaṇo vā*), one who surpasses: one who surpasses everything by his power and capacity, the one greater than all;
+
+### Printed p. 631
+or कः सुखो वा (*kaḥ sukho vā*): कं (*kaṃ*) is happiness, so it also means one whose nature is happiness. The Ṛk in which this word is used is cited here:
+हिरण्यगर्भः समवर्तताग्रे भूतस्य जातः पतिरेक आसीत् । स दाधार पृथिवीं द्यामुतेमां कस्मै देवाय हविषा विधेम ॥ (*hiraṇyagarbhaḥ samavartatāgre bhūtasya jātaḥ patireka āsīt | sa dādhāra pṛthivīṃ dyāmutemāṃ kasmai devāya haviṣā vidhema ‖*)
+हिरण्यगर्भो हिरण्मयो गर्भो हिरण्यमयो गर्भोऽस्येति वा । गर्भो गृभेर्गृणात्यर्थे, गिरत्यनर्थानिति वा ॥ यदा हि स्त्री गुणान् गृह्णाति गुणाश्चास्या गृह्यंतेऽथ गर्भो भवति समभवदग्रे भूतस्य जातः पतिरेको बभूव स धारयति पृथिवीं च दिवं च कस्मै देवाय हविषा विधेमेति व्याख्यातं । विधतिर्दानकर्मा ॥ (*hiraṇyagarbho hiraṇmayo garbho hiraṇyamayo garbho 'syeti vā | garbho gṛbhergṛṇātyarthe, giratyanarthāniti vā ‖ yadā hi strī guṇān gṛhṇāti guṇāścāsyā gṛhyaṃte 'tha garbho bhavati samabhavadagre bhūtasya jātaḥ patireko babhūva sa dhārayati pṛthivīṃ ca divaṃ ca kasmai devāya haviṣā vidhemeti vyākhyātaṃ | vidhatirdānakarmā ‖*) (Ni. 10-23)
+हिरण्यगर्भः हिरण्मयो गर्भो हिरण्यमयो गर्भोऽस्येति वा (*hiraṇyagarbhaḥ hiraṇmayo garbho hiraṇyamayo garbho 'syeti vā*)—Hiraṇyagarbha is one whose womb is full of gold (hiraṇya), like gold or made of gold. That is, his womb (the world and the rest in his interior) shines like gold. He who holds such a womb in the middle of his body is called Hiraṇyagarbha.
+गर्भो गृभेर्गृणात्यर्थे, गिरत्यनर्थानिति वा (*garbho gṛbhergṛṇātyarthe, giratyanarthāniti vā*)—The word गर्भ (*garbha*) is derived from the root गृभ् (*gṛbh*), which means to praise, to extol: all praise it. Or it may be derived from the root गिरति (*girati*), meaning to destroy: गिरत्यनर्थान् (*giratyanarthān*), since it destroys all useless things it is called garbha. Thus two kinds of meaning are given for the word garbha.
+यदा हि स्त्री गुणान् गृह्णाति गुणाश्चास्या गृह्यंतेऽथ गर्भो भवति (*yadā hi strī guṇān gṛhṇāti guṇāścāsyā gṛhyaṃte 'tha garbho bhavati*)—How the womb (embryo) comes about is explained here. At the time of union the woman receives through her yoni the qualities in the man's seed (semen). And the qualities in the blood-state of the woman's limbs, such as bone, sinew (nerve) and marrow, are absorbed by the man's semen. Hence the qualities in the man's semen and the qualities of the blood in the woman's limbs, that is, the blood and semen (the woman's blood and the man's semen, both), unite and the embryo arises in the woman's body. Or: when a woman and a man, attracted by each other's qualities, love one another, both feel pleasure, and from their union the embryo arises; this is what is explained here. The scholar Lakṣmaṇasarūp has explained it as follows.
+
+### Printed p. 632
+Durga describes the process of fertilization as follows—
+When a woman receives from a man the life-germs, i e, the essence of the marrow of his bones &c in the form of seminal fluid and brings them (i. e. spermatozoa) in contact with her own life-germs, i. e. the essence of her flesh and blood in the form of her germinating fluid, then by the mutual contact of the male and fcmale fluid in the interior of the uterus which is capable of receiving them, fertilization of a woman takes place. Or when a woman admires the qualities of a man, on account of her love for him, and a man a woman, the result of their mutual admiration is passion, and passionate intercourse produces ferlization.
+समभवदग्रे भूतस्य जातः पतिरेको बभूव (*samabhavadagre bhūtasya jātaḥ patireko babhūva*)—That Hiraṇyagarbha was alone before creation, and afterwards was the one sole lord of the whole world and the creatures produced from himself.
+स धारयति पृथीवीं च दिवं च (*sa dhārayati pṛthīvīṃ ca divaṃ ca*)—That Hiraṇyagarbha (or Prajāpati) pervades within and without this earth, the atmosphere and heaven, nourishes them with the rain and other things they need, and upholds and protects them. It is by his power and capacity that the upholding, nourishing and protecting of the world and the rest take place.
+कस्मै देवाय हविषा विधेम (*kasmai devāya haviṣā vidhema*)—The chief purport is: let us offer oblations such as caru and puroḍāśa to such a Hiraṇyagarbha or Prajāpati, endowed with all qualities (or of the nature of happiness).
+विधतिर्दानकर्मा (*vidhatirdānakarmā*)—The root विधति (*vidhati*) means to give, to offer. Therefore the word विधेम (*vidhema*) here means "let us offer", or "let us serve and worship with oblations and the like".
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः ।  
+> यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑  
+> विधेम ॥ २ ॥
+
+### Printed p. 633
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । आत्मदाः । बलदाः । यस्य । विश्वे । उपआसते । प्रशिषं । यस्य । देवाः ।  
+> यस्य । छाया । अमृतं । यस्य । मृत्युः । कस्मै । देवाय । हविषा । विधेम ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः प्रजापतिरात्मदा आत्मनां दाता । आत्मानो हि सर्वे तस्मात्परमात्मन
+> उत्पद्यंते । यथाग्नेः सकाशाद्विस्पुलिंगा जायंते तद्वत् । यद्वा । आत्मनां
+> शोधयिता ॥ दैप् शोधने । आतो मनिन्निति विच् ॥ बलदा बलस्य च दाता शोध
+> यिता वा । यस्य च प्रशिषं प्रकृष्टं शासनमाज्ञां विश्वे सर्वे प्राणिन उपासते
+> प्रार्थयंते सेवंते वा ॥ शासु अनुशिष्टौ! शास इत् । पा. ६-४-३४ । इत्युपधायाइत्वं । शासिवसिघसीनां चेति षत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं । आसेरनुदात्तेत्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । तिजि चोदात्तवतीति गतिरनुदात्ता ॥ तथा देवा
+> अपि यस्य प्रशासनमुपासते । अपि चामृतममृतत्वं । भावप्रधानो निर्दॆशः ।
+> यद्वा। अमृतं । मरणं नास्त्यस्मिन्नित्यमृतं सुधा ॥ बहुव्रीहौ नञ्चो जरमरमित्रमृता इत्युत्तरपदाद्युदात्तत्वं ॥ तदपि यस्य प्रजापतेश्छाया छायेव वर्ति
+> भवति । मृत्युर्यमश्च प्राणापहारी छायेव भवति । तस्मै कस्मै देवायेत्यादि
+> समानं पूर्वेण हविषा पुरोडाशात्मनेति तु विशेषः ॥
+
+##### Gist of the bhāṣya
+
+यः (*yaḥ*), the Prajāpati who is आत्मदाः (*ātmadāḥ*), giver of selves: all selves arise from that Supreme Self, as sparks arise from fire. Or else, the purifier of selves (root दैप् (*daip*), to purify). बलदा (*baladā*): giver, or purifier, of strength. प्रशिषं (*praśiṣaṃ*) is his excellent command; all (विश्वे (*viśve*)) creatures उपासते (*upāsate*), that is, pray for or serve it. Likewise the gods also attend upon his command. Also अमृतं (*amṛtaṃ*), immortality (the statement is bhāva-pradhāna). Or else अमृतं (*amṛtaṃ*) is nectar, since in it there is no death. That too is his, Prajāpati's, छाया (*chāyā*): it is as his shadow. मृत्युः (*mṛtyuḥ*), Yama, the taker of life, is also as his shadow. The rest, "to that Ka, the god", and so on, is the same as the preceding, except that the oblation here is the puroḍāśa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Prajāpati who
+- आत्मदाः (*ātmadāḥ*)—gives life-spirit, or has established his own part, the self, in all creatures
+- बलदाः (*baladāḥ*)—gives strength
+- यस्य (*yasya*)—of which Prajāpati
+- प्रशिषं (*praśiṣaṃ*)—the excellent command
+- विश्वे (*viśve*)—all creatures
+- उपासते (*upāsate*)—obey
+- यस्य (*yasya*)—whose rule
+- देवाः (*devāḥ*)—the gods obey
+- अमृतं (*amṛtaṃ*)—freedom from death
+- यस्य (*yasya*)—of which god
+- छाया (*chāyā*)—follows like a shadow
+- मृत्युः (*mṛtyuḥ*)—death also
+- यस्य (*yasya*)—which god it follows like a shadow; to such a one
+- कस्मै (*kasmai*)—whose nature is happiness
+- देवाय (*devāya*)—to the god called Prajāpati
+- हविषा (*haviṣā*)—with oblations and the like
+- विधेम (*vidhema*)—let us serve
+
 ---
 
-**Progress note:** Done through printed p. 627. pp. 622-627 (batch API)
+**Progress note:** Done through printed p. 633. pp. 628-633 (batch API)
