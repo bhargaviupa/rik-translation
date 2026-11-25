@@ -12460,6 +12460,249 @@ O Waters, for the destruction (क्षयाय (*kṣayāya*)) of whatever si
 
 O water-deities, for the destruction of whatever sin you make us pleased, for that we shall swiftly approach and take refuge in you; make sons, grandsons and the like be born to us.
 
+### Printed p. 326
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवंतु पी॒तये॑ ।  
+> शं योर॒भि स्र॑वंतु नः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शं । नः । देवीः । अभिष्टये । आपः । भवंतु । पीतये ।  
+> शं । योः । अभि । स्रवंतु । नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं पापापनोदद्वारेण शं सुखं भवंतु देवीर्देव्य आपः । अभिष्टयेऽस्मद्यज्ञाय भवंतु । यज्ञांगभावाय च भवन्त्यित्यर्थः । पीतये पानाय च
+> भवंतु । तथा शमुत्पन्नानां रोगाणां शमनं योर्यावनमनुत्पन्नानां पृथक्करणं च कुर्वंतु । अपि च नोऽस्माकमभ्युपरि स्रवंतु । शुद्ध्यर्थं सिंचंतु ॥
+
+##### Gist of the bhāṣya
+
+May the divine waters, by removing our sin, be a source of happiness (शं (*śaṃ*)) to us. May they be for our desired end, that is, for our sacrifice and as an auxiliary of the sacrifice, and may they be for drinking. May they also bring about the calming (शं (*śaṃ*)) of diseases that have arisen and the keeping apart (योः (*yoḥ*)) of those that have not yet arisen. And may they flow over us, that is, sprinkle us for purification.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—the deities of the waters
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—as givers of happiness
+- भवंतु (*bhavaṃtu*)—may they be
+- देवीः (*devīḥ*)—the divine waters
+- अभिष्टये (*abhiṣṭaye*)—may they bring about the accomplishment of our desired ends
+- पीतये (*pītaye*)—may they be fit for our drinking
+- शं (*śaṃ*)—may they bring happiness that destroys disease
+- योः (*yoḥ*)—and the removal of disease
+- नः अभि (*naḥ abhi*)—upon us
+- स्रवंतु (*sravaṃtu*)—may they flow
+
+##### भावार्थ (Bhāvārtha)
+
+May the deities of the waters be givers of happiness to us. May the divine waters accomplish our desired ends. May they be fit for our drinking. May they bring happiness that destroys disease, and the removal of disease. May they flow upon us.
+
+##### English translation
+May the divine waters be propitious to our worship, (may they be good) for our drinking; may they flow round us, and be our health and safety.
+
+### Printed p. 327
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईशा॑ना॒ वार्या॑णां॒ क्षयं॑तीच्चर्षणी॒नां ।  
+> अप्रो याचामि भेषजं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईशानाः । वार्याणां । क्षयंतीः । चर्षणीनां ।  
+> आहः । याचामि । भेषजं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वार्याणां वारिप्रभवानां व्रीहियवादीनां यद्वा वरणीयानां धनानामीशाना ईश्वराश्चर्यणीनां मनुष्याणां क्षयंतीर्निवासयित्रीरप उदकानि
+> भेषजं । सुखनामैतत् । पापापनोदनं सुखं याचामि । अहं प्रार्थये ॥
+
+##### Gist of the bhāṣya
+
+The waters are lords (ईशानाः (*īśānāḥ*)) of the things born of water (वार्याणां (*vāryāṇāṃ*)), such as rice and barley, or else of desirable riches; they are the dwellers-giving (क्षयंतीः (*kṣayaṃtīḥ*)), that is, they provide a dwelling for men (चर्षणीनां (*carṣaṇīnāṃ*)). भेषजं (*bheṣajaṃ*) is a word for happiness. From the waters I ask (याचामि (*yācāmi*)) the happiness that removes sin; I pray for it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वार्याणां (*vāryāṇāṃ*)—of the rice and the like that are born of water
+- ईशानाः (*īśānāḥ*)—who are the lords
+- चर्षणीनां (*carṣaṇīnāṃ*)—to men and the like
+- क्षयंतीः (*kṣayaṃtīḥ*)—who are the givers of dwelling
+- अपः (*apaḥ*)—from the waters
+- भेषजं (*bheṣajaṃ*)—the happiness that destroys sin
+- याचामि (*yācāmi*)—I pray for
+
+##### भावार्थ (Bhāvārtha)
+
+From the waters, who are lords of the rice and the like born of water and givers of dwelling to men and others, I pray for happiness that destroys sin.
+
+##### English translation
+Waters, sovereigns of precious (treasures), granters of habitations to men, I solicit of you medicine (for my infirmities).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प्पु मे॒ सोमो॑ अब्रवीदं॒तर्विश्वा॑नि भेष॒जा ।  
+> अ॒ग्निं च॑ वि॒श्वशं॑भुवं ॥ ६ ॥
+
+### Printed p. 328
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्सु । मे । सोमः । अब्रवीत् । अंतः । विश्वानि । भेषजा ।  
+> अग्निं । च । विश्वशंभुवं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्पु जलेष्टंतर्मध्यॆ विश्वानि भेषजा सर्वाण्यौषधानि संतीति मे मह्यं
+> मंत्रदर्शिने मुनये सोमो देवोऽब्रवीत् । तथा विश्वशंभुवं सर्वस्य जगतः
+> सुखकरमेतन्नामकं चाग्निं चाप्पु वर्तमानं :सोमोऽब्रवीत् । तथा च तैत्तिरीया अग्नेस्त्रयो ज्यायांस इत्यनुवाके सोऽपः प्रावितदित्यग्नेरप्पु प्रवेशमामनंति । तै. सं. २-६-६-१ । लतागुल्मवृक्षमूलादीनामौषधानां वृष्टिजन्यत्वेन जलवर्तित्वं प्रसिद्धं ।
+
+##### Gist of the bhāṣya
+
+Soma, the deity, told me, the seer of the mantra, that within the waters are all medicines. Soma also told me of Agni, who is the bringer of happiness to the whole world (विश्वशंभुवं (*viśvaśaṃbhuvaṃ*)) and who is present in the waters. The Taittirīyas, in the anuvāka beginning अग्नेस्त्रयो ज्यायांस (*agnestrayo jyāyāṃsa*), record Agni's entry into the waters: सोऽपः प्रावित (*so 'paḥ prāvita*) (Tai. Saṃ. 2-6-6-1). That plants, shrubs, trees, roots and other medicines are in the water, being produced by rain, is well known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्पु (*appu*)—of the waters
+- अंतः (*aṃtaḥ*)—in the middle
+- विश्वानि (*viśvāni*)—all
+- भेषजा (*bheṣajā*)—that there are medicines destroying disease
+- अग्निं च (*agniṃ ca*)—and Agni (who is within the water)
+- विश्वशंभुवं (*viśvaśaṃbhuvaṃ*)—as the maker of happiness for the whole world
+- सोमः (*somaḥ*)—the god Soma
+- मे (*me*)—to me
+- अब्रवीत् (*abravīt*)—said
+
+##### भावार्थ (Bhāvārtha)
+
+Soma told me that the medicines that destroy all diseases, and Agni, the maker of happiness for the whole world, are within the waters.
+
+##### English translation
+Soma has declared to me: all medicaments, as well as Agni, the benefactor of the universe, are in the waters,
+
+##### विशेषविषयगळु (Special Topics)
+
+The chief point of this Ṛk is that Agni, who produces happiness for the whole world, is in the water in the form of lightning, and that all the medicines that cure the diseases of living beings are in the water itself, as Soma himself told me. On the point that Agni is in the water, the commentator quotes (Tai. Saṃ. 2-6-6-1), from the anuvāka beginning अग्नेस्त्रयो ज्यायाग्‌ंसो भ्रातर असन् (*agnestrayo jyāyāgṃso bhrātara asan*),
+
+### Printed p. 329
+the sentence सोऽपः प्राविशत्तं देवताः प्रैषमैच्छन् (*so 'paḥ prāviśattaṃ devatāḥ praiṣamaicchan*). We have already explained it, and the explanation given in the Ṛgveda on this subject, earlier.
+
+अग्निं च विश्वशंभुवं (*agniṃ ca viśvaśaṃbhuvaṃ*)—There is no need to describe at length the benefit that Agni brings to the whole world. Besides giving us warmth when we are cold, we use Agni for cooking food and for many other useful or indispensable tasks. Since this is known to everyone from experience, there is no need to say more.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्ने॒३॒॑ ३ मम॑ ।  
+> ज्योत्स्ना च सूर्यं दृशे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । पृणीत । भेषजं । वरूथं । तन्ने । मम ।  
+> ज्योक् । च । सूर्यं । दृशे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आपो मम तन्ने शरीरार्थं वरूथं रोगनिवारकं भेषजमौषधं
+> पृणीत । पूरयत । किंच ज्योक् चिरं सूर्यं दृशे द्रष्टुं निरोगा वयं शक्कुवामेति शेषः ॥ पृणीत । प्प पालनपूरणयोः । लोण्मध्यमबहुवचनं थ । तस्य
+> तस्थस्थ मिपामिति तादेशः । क्रादिभ्यः श्ना । प्वादीनां ह्रस्व इति ह्रस्वः । ईहल्यघोरितीत्वं । ऋवर्णाच्चेति - णत्वं । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेध्य इति तिजः
+> स्वरः शिष्यते । आप इत्यस्यामंत्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्वे पादादित्वान्निघाताभावः । वरूथं । वृञ् वरणे । ज्ञवृञ् भ्यामूथन् । उ. २-६ । नित्त्वादाद्युदात्तः । तन्ने । जाति ह्रस्वश्च । पा. १-४-६। इति नदीसंज्ञा पाक्षिकीत्याडागमाभावः।
+> उदात्तयणो हल्कूर्वादिति विभक्तुदात्तत्वे प्राप्ते व्यत्ययेनोदात्तस्वरितयोरिति
+> स्वरितत्वं । दृशे । दृशे वृख्ये च । पा. ३-४-११ । इति तुमर्थे निपात्यते ॥
+
+##### Gist of the bhāṣya
+
+O waters, fill (पृणीत (*pṛṇīta*), make full) for my body (तन्वे (*tanve*)) the medicine (भेषजं (*bheṣajaṃ*)) that wards off disease (वरूथं (*varūthaṃ*)). Further, may we, free of disease, be able to see the sun for a long time (ज्योक् (*jyok*)); "be able" is to be supplied. The rest is grammar.
+
+### Printed p. 330
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O waters, or deities presiding over the waters
+- मम (*mama*)—my
+- तन्वे (*tanve*)—for the body
+- वरूथं (*varūthaṃ*)—that wards off disease
+- भेषजं (*bheṣajaṃ*)—medicine
+- पृणीत (*pṛṇīta*)—make full (that is, make the body full, free of disease)
+- सूर्यं (*sūryaṃ*)—the sun
+- ज्योक् (*jyok*)—for a long time
+- दृशे (*dṛśe*)—I shall see (I shall be able to see, that is, able to live long)
+
+##### Grammar
+
+- पृणीत — प्प पालनपूरणयोः । लोण्मध्यमबहुवचनं थ । तस्य तस्थस्थ मिपामिति तादेशः । क्रादिभ्यः श्ना । प्वादीनां ह्रस्व इति ह्रस्वः । ईहल्यघोरितीत्वं । ऋवर्णाच्चेति णत्वं । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेध्य इति तिजः स्वरः शिष्यते । आप इत्यस्यामंत्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्वे पादादित्वान्निघाताभावः ।
+- वरूथं — वृञ् वरणे । ज्ञवृञ् भ्यामूथन् । उ. २-६ । नित्त्वादाद्युदात्तः ।
+- तन्ने — जाति ह्रस्वश्च । पा. १-४-६ । इति नदीसंज्ञा पाक्षिकीत्याडागमाभावः । उदात्तयणो हल्कूर्वादिति विभक्तुदात्तत्वे प्राप्ते व्यत्ययेनोदात्तस्वरितयोरिति स्वरितत्वं ।
+- दृशे — दृशे वृख्ये च । पा. ३-४-११ । इति तुमर्थे निपात्यते ।
+
+##### भावार्थ (Bhāvārtha)
+
+O waters (or deities presiding over the waters), prepare (make ready) the excellent medicine so that my body may be free of disease, so that, free of disease, I may see the sun for a long time, that is, may live long.
+
+##### English translation
+Waters, bring to perfection all disease-dispelling medicaments for the good of my body, that I may long behold the Sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+पृणीत (*pṛṇīta*)—प्य पालनपूरणयोः (*pya pālanapūraṇayoḥ*). "Make full" means: make it so that the body is free of disease and able to perform its functions in order.
+वरूथं (*varūthaṃ*)—वरणीयं, रोगनिवारकं (*varaṇīyaṃ, roganivārakaṃ*): desirable, that is, disease-warding.
+ज्योक् च सूर्यं दृशे (*jyok ca sūryaṃ dṛśe*)—To see the sun for a long time means to live long. Several Ṛks in the Ṛgveda convey this same sense:
+तस्मा अग्निर्भारतः शर्मः यंसज्योक् पश्यात्सूर्यमुच्चरंतं (*tasmā agnirbhārataḥ śarmaḥ yaṃsajyok paśyātsūryamuccaraṃtaṃ*) (Ṛ. Saṃ. 4-25-4.)
+तन कृत्वा तवोतिभिज्योर्व्यक् पश्येम सूर्यं (*tana kṛtvā tavotibhijyorvyak paśyema sūryaṃ*) (Ṛ. Saṃ. 9-4-6.)
+शं नः क्षेत्रमुरु ज्योतींषि सोम ज्योज्नः सूर्यं दृशये रिरीहि (*śaṃ naḥ kṣetramuru jyotīṃṣi soma jyojnaḥ sūryaṃ dṛśaye rirīhi*) (Ṛ. Saṃ. 9-91-6)
+उद्यंतं त्वा मित्रमहो दिवेदिने ज्योज्जीवाः प्रति पश्येम सूर्य (*udyaṃtaṃ tvā mitramaho divedine jyojjīvāḥ prati paśyema sūrya*) (Ṛ. Saṃ. 10-37-7)
+
+### Printed p. 331
+ज्योक् पश्येम सूर्यमुच्चरंतमनुमते मृळया नः स्वस्ति (*jyok paśyema sūryamuccaraṃtamanumate mṛḷayā naḥ svasti*) (Ṛ. Saṃ. 10-59-6)
+Besides these, in the Yajurveda too there are many sentences conveying this sense, such as "पश्येम शरदः शतं....  ज्योक् च सूर्यं दृशे (*paśyema śaradaḥ śataṃ....  jyok ca sūryaṃ dṛśe*)", "ज्योक् च पश्यामि सूर्यं (*jyok ca paśyāmi sūryaṃ*)".
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दमा॑पः॒ प्र व॑हत॒ यत्किं च॑ दुरि॒तं मयि॑ !  
+> यद्वा॒हम॑भिदु॒द्रोह॒ यद्वा॑ शे॒ष उ॒तानृ॑तं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । अपः । प्र । वहत । यत् । किं । च । दुः इतं । मयि  
+> यत् । वा । अहं । अभिद्धुद्रोह यत् । वा । शेपे । उत । अनृतं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मयि यजमाने यत्किं च दुरितमज्ञानान्निप्पन्नं । वाथवाहं यजमानोऽभिदुद्रोह सर्वतो बुद्धिपूर्वकं द्रोहं कृतवानस्मि वाथवा शेषे साधुजनं शप्तवानस्मीति यदस्ति । उतापि चानृतमुक्तवानिति यदस्ति । तदिदं सर्वमपराधजातं प्र वहत । मत्तोऽपनीय प्रवाहेणान्यतो नयत ॥ मयि । मपर्यंतस्य
+> त्वमावेकवचन इति मादेशे कृतेऽतो गुण इति पररूपे च सति योऽचीति दकारस्य
+> यकारादेशः । एकादेशस्वरेण मकारात्परस्याकारस्योदात्तत्वं । दुद्रोह । द्रुह
+> जिघांसायां । णलि गुणे द्विर्वचनह्रस्वहलादिशेषाः । लितीति प्रत्ययात्पूर्वस्कोदात्तत्वं । यद्वृत्तयोगान्निघाताभावः । शेषे । शप आक्रोशे । लिटि व्यत्ययेन
+> तज् । उत्तमैकवचनमिट् । टेरेत्वं । अत एकहल्मध्यॆ । पा. ६-४-१२० । इत्येत्वा
+> भ्यासलोपौ । प्रत्ययस्वरेणांतोदात्तत्वं । पूर्ववन्निघाताभावः ॥
+
+##### Gist of the bhāṣya
+
+Whatever sin (दुरितं (*duritaṃ*)) there is in me, the sacrificer, done through ignorance; or whatever wrong I have knowingly done on all sides (अभिदुद्रोह (*abhidudroha*)); or whatever I have cursed (शेपे (*śepe*)) good people; and also whatever untruth I have spoken: all this body of offences, O waters, carry off (प्र वहत (*pra vahata*)), remove from me and bear away elsewhere with your current. The rest is grammar.
+
+##### Grammar
+
+- मयि — मपर्यंतस्य त्वमावेकवचन इति मादेशे कृतेऽतो गुण इति पररूपे च सति योऽचीति दकारस्य यकारादेशः । एकादेशस्वरेण मकारात्परस्याकारस्योदात्तत्वं ।
+- दुद्रोह — द्रुह जिघांसायां । णलि गुणे द्विर्वचनह्रस्वहलादिशेषाः । लितीति प्रत्ययात्पूर्वस्कोदात्तत्वं । यद्वृत्तयोगान्निघाताभावः ।
+- शेपे — शप आक्रोशे । लिटि व्यत्ययेन तज् । उत्तमैकवचनमिट् । टेरेत्वं । अत एकहल्मध्यॆ । पा. ६-४-१२० । इत्येत्वाभ्यासलोपौ । प्रत्ययस्वरेणांतोदात्तत्वं । पूर्ववन्निघाताभावः ।
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मयि (*mayi*)—in me, the sacrificer
+- यत्किंच (*yatkiṃca*)—whatever
+- दुरितं (*duritaṃ*)—sins done through ignorance there may be
+- वा (*vā*)—or
+- अहं (*ahaṃ*)—I
+- यत् अभिदुद्रोह (*yat abhidudroha*)—if I have knowingly intended harm (to anyone)
+- वा (*vā*)—or
+- यत् शेपे (*yat śepe*)—concerning whom I have spoken ill
+
 ---
 
-**Progress note:** Done through printed p. 325. pp. 320-325 (batch API)
+**Progress note:** Done through printed p. 331. pp. 326-331 (batch API)
