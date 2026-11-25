@@ -25,3 +25,4 @@
 | 23 | through p. 436 (three windows in one agent: pp. 419–436) | sonnet | 15 | 186533 | 5.6 |
 | 24 | through p. 442 (container restarted after the first window; token figure lost) | sonnet | – | – | – |
 | 25 | through p. 464 (three windows in one agent: pp. 443–464) | sonnet | 18 | 208410 | 6.0 |
+| 26 | through p. 484 (three windows in one agent: pp. 465–484) | sonnet | 22 | 207579 | 7.4 |
