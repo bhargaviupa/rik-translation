@@ -17975,6 +17975,100 @@ Yāska has given the following explanation for the words चनः (*canaḥ*) a
 चनः । पचता ॥ अद्धीदिंद्र प्रस्थितेमा हवींषि चनो दधिष्ट पचतोत सोमं॥ अद्धींद्र प्रस्थितानीमानि हवींषि चनो दधिष्ट । चन इत्यन्न नाम । पचतिर्नामीभूतः । तं मेदस्तः प्रति पचताग्रभीष्वां इत्यपि निगमो भवति॥ (*canaḥ | pacatā ‖ addhīdiṃdra prasthitemā havīṃṣi cano dadhiṣṭa pacatota somaṃ‖ addhīṃdra prasthitānīmāni havīṃṣi cano dadhiṣṭa | cana ityanna nāma | pacatirnāmībhūtaḥ | taṃ medastaḥ prati pacatāgrabhīṣvāṃ ityapi nigamo bhavati‖*) (Ni. 6-16)
 The sense of the sentence is: O Indra, take into your belly the oblations and the food prepared here. Here चनः (*canaḥ*) is a word denoting the meaning "food"; चनः (*canaḥ*) means food. On this point the Śruti sentence अद्दीदिंद्र (*addīdiṃdra*) (Ṛ. Saṃ. 10-116-8) is the example. Though the word पचति (*pacati*) is a verb, in many contexts it is used like a noun. On this the Śruti sentence तं मेदस्तः प्रति पचिताग्रभीष्टां (*taṃ medastaḥ prati pacitāgrabhīṣṭāṃ*) supports it.
 
+### Printed p. 542
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेंद्रा॒ग्निभ्यां॑ सुवच॒स्यामि॑यर्मि॒ सिंधा॑विन॒ प्रेर॑यं॒ नाव॑म॒र्कैः ।  
+> अया॑ इव॒ परि॑ चरंति दे॒वा ये अ॒स्मभ्यं॑ धन॒दा उ॒द्भिद॑श्च ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । इंद्राग्निभ्यां । सुवचस्यां । इयर्मि । सिंधौइव । प्र । ईरयं । नावं ।  
+> अर्कॆः ।  
+> अयाःइव । परि । चरंति । देवाः । ये । अस्मभ्यं । धनदाः । उत्भिदः । च ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्राग्निभ्यां देवाभ्यां सुवचस्यां ॥ छंदसि चेति यत्प्रत्ययः ॥ सुवचनार्हां स्तुतिमहं प्रेयर्मि । प्रेरयामि ॥ ऋ गतौ चौहोत्यादिकः । आर्तिपिपर्योश्चेत्यभ्यासस्यॆत्वं । देवताद्वंद्वे चेतींद्राग्योरुभयपदप्रकृतिस्वरत्वे
+> प्राप्ते नोत्तरपदेऽनुदात्तादाविति प्रतिषेधः ॥ सिंधाविव सिंधौ नद्यां यथा नावं
+> प्रेरयंति तद्वदर्कैरर्चनीयैर्मंत्रैः सहितां स्तुतिं प्रेरयं । प्रावादिषं ॥
+> ईर गत् । ण्यंतस्य लज्युत्तमस्यामादेशः ॥ स्तुतास्ते देवा अया इव । आयंति
+> कर्मकरणार्थं गच्छंत्यया ऋत्विजः कर्मकरा ना । तद्वत्परि चरंति । आस्मान्थनादिदानेन
+> पूजयंति । ये देवा अस्मभ्यं धनदा धनस्य दातार उद्भिदोऽस्मच्छत्रूणामुद्भेत्तारश्च ये संति ॥
+
+##### Gist of the bhāṣya
+
+For the two deities Indra and Agni, I send forth a praise worthy of good speech (सुवचस्यां (*suvacasyāṃ*)). Sāyaṇa takes प्रेयर्मि (*preyarmi*) as "I send forth", from the root ऋ (*ṛ*) in the sense of going. As men launch a boat on a river, so I have sent forth a praise accompanied by venerable mantras (*arkaiḥ*); प्रेरयं (*prerayaṃ*) means "I have recited". The gods so praised, like अयाः (*ayāḥ*) (priests, workers, who go to perform rites), attend upon us (परि चरंति (*pari caraṃti*)), honouring us with gifts of wealth and the like: those gods who are givers of wealth to us and breakers-out (destroyers) of our enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राग्निभ्यां (*iṃdrāgnibhyāṃ*)—addressing the deities Indra and Agni
+- सुवचस्यां (*suvacasyāṃ*)—this hymn composed of excellent words
+- प्र इयर्मि (*pra iyarmi*)—I offer of my own impulse
+- सिंधाविव (*siṃdhāviva*)—in the river Sindhu
+- नावं (*nāvaṃ*)—as one launches and steers a boat
+- आर्कैः (*ārkaiḥ*)—a hymn accompanied by mantras
+- प्र ईरयं (*pra īrayaṃ*)—I have offered of my own impulse
+- ये (*ye*)—which gods
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- धनदाः (*dhanadāḥ*)—givers of wealth
+- च (*ca*)—and who
+- उद्भिदः (*udbhidaḥ*)—destroyers of our enemies, such
+
+### Printed p. 543
+- देवाः (*devāḥ*)—the gods
+- अया इव (*ayā iva*)—like roving priests or workers
+- परि चरंति (*pari caraṃti*)—they attend us with wealth and the like, that is, they gladden us
+
+##### भावार्थ (Bhāvārtha)
+
+To Indra and Agni I offer this hymn made of excellent words, of my own impulse alone. As a boat is launched and pushed on the river Sindhu, I have composed and offered this mantra-accompanied praise of my own impulse. The gods who are our givers of wealth and who destroy our enemies, like roving priests, attend upon us with gifts of wealth and so on and gladden us.
+
+##### English translation
+I direct my eulogy to Indra and Agni; with sacred prayers I directed (my praise) like a vessel (launched) upon the ocean ; like holy priests, the gods themselves reverence us being the donors (to us) of wealth and the extirpators (of our foes).
+
+## Sūkta 117 (Maṇḍala 10)
+**Introduction**
+The deity of this sūkta is the praise of food (अन्नस्तुति (*annastuti*)). As Śaunaka says in his Ṛgvidhāna (Ṛgvi. 1-27), it has been a custom among the Āryas from of old to honour food or nourishment with devotion and worship, then to give a portion to guests and others, and only afterwards to eat oneself. It is necessary to consider here a little the importance of food. The word अन्न (*anna*) is formed from the root अद (*ada*) in the sense of eating (अद् (*ad*), "eat"). On the origin of food:
+तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः । वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी । पृथिव्या ओषधयः । ओषधीभ्योऽन्नं । अन्नात्पुरुषः ॥ (*tasmādvā etasmādātmana ākāśaḥ saṃbhūtaḥ | ākāśādvāyuḥ | vāyoragniḥ | agnerāpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo 'nnaṃ | annātpuruṣaḥ ‖*)
+(Kṛ. U. 2-1)
+
+### Printed p. 544
+**NOTE**
+This Vedic text says that at the creation of the world, of the five elements, space first arose from the supreme Brahman (the Supreme Self), from space air, from air fire, from fire water, from water earth, from earth the plants (herbs and the like), and from plants food. From such food arose man (and the other creatures too). The answers to questions such as what is the excellence of food, what use comes of food, and why food is called annam are given there itself:
+अन्नाद्वै प्रजाः प्रजा मंते । याः काश्च पृथिवीग् श्रिताः । अथो अन्नेनैव जीवंति । अथैनदपियत्यंततः । अन्नग्ंहि भूतानां ज्येष्ठं । तस्मात्सर्वषधमुच्यते । सर्वं वै तेऽन्नमाप्पुवंति । येऽन्नं ब्रह्मोपासते । अन्नग्ंहि भूतानां ज्येष्ठं । तस्मात्सर्वौषधमुच्यते । अन्नाद्भूतानि जायंते । जातान्यन्नेन वर्धंते । अद्यतेऽत्ति च भूतानि । तस्मादन्नं तॆदुच्यत इत (*annādvai prajāḥ prajā maṃte | yāḥ kāśca pṛthivīg śritāḥ | atho annenaiva jīvaṃti | athainadapiyatyaṃtataḥ | annagṃhi bhūtānāṃ jyeṣṭhaṃ | tasmātsarvaṣadhamucyate | sarvaṃ vai te 'nnamāppuvaṃti | ye 'nnaṃ brahmopāsate | annagṃhi bhūtānāṃ jyeṣṭhaṃ | tasmātsarvauṣadhamucyate | annādbhūtāni jāyaṃte | jātānyannena vardhaṃte | adyate 'tti ca bhūtāni | tasmādannaṃ tèducyata ita*)
+(Tai. U. 2-2)
+That is: all creatures dwelling on earth are born of food, live by food, and at the end are dissolved in it. Among the beings (or among things created from the five great elements) food is the eldest of all; therefore it is called the "all-herb" (सर्वौषध (*sarvauṣadha*)). Those who worship Brahman in the form of food obtain all food, that is, they get food in abundance. Food is the eldest among all beings.
+The beings (bhūtas) are the five great elements: earth, water, fire (heat), air and space. These five elements exist as food in their original form. How? Earth means solid substance. In the food we eat there are solid things such as grains; these are the earth part. The second is water. We drink water; besides, in other things we eat or drink (milk and so on) there is a watery part. Living beings need more water than earth-part (solid) food; in our body too the watery part (blood) predominates. The third is fire (tejas), that is, heat. Creatures cannot live without heat. We get heat from the food we take and from the warmth in sunshine, air and so on around us. When heat is lacking in the body, death occurs at once. From birth to death there must be heat in the body.
+
+### Printed p. 545
+Therefore there is no need to say how necessary heat or tejas is. We need one measure more of fire than of water. The fourth is air. When we draw breath we attract the air outside and take it into the body. We cannot be without breathing for a moment; as soon as breathing stops, life departs, that is, death occurs. From birth till death air is absolutely necessary to all creatures, and it is needed in greater measure than the solid earth-food, water and heat described above. The fifth is space (room). Without space neither we nor other creatures could exist; space is needed for our movements and the body's needs. Although fire, air and space are not visible to our eyes, they are indispensable for the nourishment of the body. Moreover, we (and other creatures) need one measure more of water than of solid earth-food; more heat than water; more air than heat; more space than air. And a further point: in food belonging to the earth part, water, heat, air and space are mixed; in heat, air and space are present; in air, space is included. Thus the five elements and their mixtures, that is, herbs and trees, are arranged as food for creatures. This kind of food is called annam; therefore it is called the "all-herb".
+From food beings (creatures) are born; the born creatures grow and flourish by food alone. It is eaten, and it also eats creatures. Therefore it is called annam. Here the last sentence (food is eaten and it eats creatures) needs explanation. For creatures moving in the world, apart from the five elements such as water in their original form, all other food is produced by living creatures. There is no food in the world other than what relates to living things. Thus flesh-eating animals eat plant-eating animals, plant-eaters eat plants; plants too have life (how could a lifeless plant grow?), and living moving creatures must live by eating one another. Since the plant kingdom does not belong to the moving class, plants take their food directly from the earth or the five elements and grow. Hence moving creatures cannot live without food from living creatures or from plants. Therefore creatures eat food; and food eats creatures, that is, food arises from creatures
+
+### Printed p. 546
+as said above. The main point is that in the world moving creatures (men too) must live by eating one another; without food related to creatures they cannot live at all. This is the intention stated in the sentences अद्यतेऽत्ति च भूतानि । तस्मादन्नं तदुच्यते (*adyate 'tti ca bhūtāni | tasmādannaṃ taducyate*).
+There are also Vedic texts on the point that food should be worshipped and held in respect:
+अन्नं न निंद्यात् । तद्व्रतं । प्राणो वा अन्नं । शरीरमन्नादं । प्राणे शरीरं प्रतिष्ठितं । शरीरॆ प्राणः प्रतिष्ठितः । तदेतदन्नमन्ने प्रतिष्ठितं । स य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान्कर्त्या ॥ (*annaṃ na niṃdyāt | tadvrataṃ | prāṇo vā annaṃ | śarīramannādaṃ | prāṇe śarīraṃ pratiṣṭhitaṃ | śarīrè prāṇaḥ pratiṣṭhitaḥ | tadetadannamanne pratiṣṭhitaṃ | sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo bhavati | mahānbhavati prajayā paśubhirbrahmavarcasena | mahānkartyā ‖*)
+(Tai. U. 3-7)
+Food should not be reviled; one should regard this as a vow (a duty). Breath is food. The body eats food and grows by it. In breath the body is established; in the body breath is established. Hence breath and body are related to each other. Both are established in food; that is, by food alone the growth and protection of body and breath come about. Without food neither body nor breath can be. One who knows that food is established in food (in Brahman in the form of food) is honoured. He becomes rich in food and an eater of food. Endowed with progeny (children and so on), cattle, Brahmanical radiance and fame, he becomes the best and most honoured among men.
+अन्नं न परिचक्षीत । तद्व्रतं । आपो वा अन्नं । ज्योतिरन्नादं । अप्सु ज्योतिः प्रतिष्ठितं । ज्योतिष्यापः प्रतिष्ठिताः । तदेतदन्नमन्ने प्रतिष्ठितं । स य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान्कर्त्या ॥ (*annaṃ na paricakṣīta | tadvrataṃ | āpo vā annaṃ | jyotirannādaṃ | apsu jyotiḥ pratiṣṭhitaṃ | jyotiṣyāpaḥ pratiṣṭhitāḥ | tadetadannamanne pratiṣṭhitaṃ | sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo bhavati | mahānbhavati prajayā paśubhirbrahmavarcasena | mahānkartyā ‖*)
+(Tai. U. 3-8)
+Do not despise food; regard this very act as a vow. Water is food; fire (light) eats food. In water fire is established; in fire water is established. These two, fire and water, are established in food (food has heat and a watery part). One who knows that food is established in food (in Brahman in the form of food) is honoured. He becomes rich in food and an enjoyer of food. Endowed with progeny, cattle, Brahmanical radiance and fame, he becomes the best and most honoured among men.
+
+### Printed p. 547
+There are also many Vedic authorities for the point that one should give food to guests and visitors and only then eat oneself.
+मोघमन्नं विंदते अप्रचेताः सत्यं ब्रवीमि वध इत्स तस्य । नार्यमणं पुष्यति नो सखायं केवलाघो भवति केवलादी ॥ (*moghamannaṃ viṃdate apracetāḥ satyaṃ bravīmi vadha itsa tasya | nāryamaṇaṃ puṣyati no sakhāyaṃ kevalāgho bhavati kevalādī ‖*)
+(Ṛ. Saṃ. 10-117-6)
+That is: the food which a miser who gives nothing to anyone obtains is vain. By the food he gets no benefit comes to him; it becomes the cause of his death (ruin). "I tell the truth," says the seer. The man who does not give oblations and the like to Aryaman and other gods, that is, does not offer food to the gods, and who does not satisfy with food a friend or a guest who comes to the house like a friend, but eats alone, is said to be a great sinner. And:
+न स सखा यो न ददाति सख्ये सचाभुवे सचमानाय पित्वः । अपास्मात्प्रेयॊन्न तदोको अस्ति पृणंतमन्यमरणं चिदिच्छेत् ॥ (*na sa sakhā yo na dadāti sakhye sacābhuve sacamānāya pitvaḥ | apāsmātpreyònna tadoko asti pṛṇaṃtamanyamaraṇaṃ cidicchet ‖*)
+(Ṛ. Saṃ. 10-117-4)
+He who gives no food to a friend, to his companion, to one near him, is no friend at all. Therefore one should leave the house of such a man. That is not the only house; there are houses of generous people who give food; it is good to go there. So the seer describes. Therefore good householders should prepare in the house a little more food than suffices for themselves, for the entertainment of guests and visitors. On this point:
+अन्नं बहु कुर्वीत । तद्व्रतं पृथिवी वा अन्नं । आकाशोऽन्नादः । पृथिव्यामाकाशः प्रतिष्ठितः । आकाशे पृथिवी प्रतिष्ठिता । तदेतदन्नमन्ने प्रतिष्ठितं । स य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । महान्भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान् कीर्त्या ॥ (*annaṃ bahu kurvīta | tadvrataṃ pṛthivī vā annaṃ | ākāśo 'nnādaḥ | pṛthivyāmākāśaḥ pratiṣṭhitaḥ | ākāśe pṛthivī pratiṣṭhitā | tadetadannamanne pratiṣṭhitaṃ | sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo bhavati | mahānbhavati prajayā paśubhirbrahmavarcasena | mahān kīrtyā ‖*)
+(Kṛ. U. 3-9)
+Food should be made plentiful; one should regard doing so as a vow. Earth is food. Space eats food; that is, plants, grains and the like grown on earth are eaten, as oblations, by the gods dwelling in the atmosphere (heaven). In earth space is established; in space earth is established. Both (earth and space) are established in food. That food is established in food (in Brahman in the form of food). One who knows that food is established in food
+
 ---
 
-**Progress note:** Done through printed p. 541. pp. 536-541 (batch API)
+**Progress note:** Done through printed p. 547. pp. 542-547 (batch API)
