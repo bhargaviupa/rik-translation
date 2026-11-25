@@ -11415,6 +11415,224 @@ When she had spoken thus, the Panis uttered words of conciliation. "O Sarama, if
 - गवां (*gavāṃ*)—the cows
 - भजाम (*bhajāma*)—let us share
 
+### Printed p. 307
+
+##### भावार्थ (Bhāvārtha)
+
+(The Paṇis:) O Saramā, you have come here by divine power, that is, to constrain us on behalf of the gods. We regard you as our sister. Do not go back. O fair-limbed Saramā, let us share the cows with you. (We shall give you also a share of our cows.)
+
+##### English translation
+(The Panis :) You have indeed come hither, Sarama, constrained by divine power; we will make you our sister, do not return, we will share the cattle with you, auspicious one.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाहं वे॑द भ्रातृ॒त्वं नो स्व॑सृ॒त्वमिंद्रो॑ विदु॒रंगि॑रसश्च  ॒
+> घोराः ।  
+> गोका॑मा मे अच्छदय॒न्यदाय॒मपात॑ इत पणयो॒  ॑
+> वरीयः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अहं । वेद । भ्रातृत्वं । नो इति । स्वसृत्वं । इंद्रः । विदुः । अंगिरसः । च ।  
+> घोराः ।  
+> गोऽकामाः । मे । अच्छदयन् । यत् । आयं । अप । अतः । इत । पणयः ।  
+> ।  
+> वरीयः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा तान्प्रत्याचष्टे । हे पणयः अहं भ्रातृत्वं न वेद । न जानामि । तथा
+> स्वसृत्वं च नो वेद । नैव जानामि । के जानंति । तानाह । इंद्रो घोराः
+> शत्रुणां भयंकरा अंगिरसॆश्च विदुः । जानंति । किंचास्मात्स्थानादहं यद्यदायं
+> इंद्रादीन्प्राप्नवं ॥ अय पय गतौ । लजि रूपं ॥ तदा मे मदीया गोकामा
+
+##### Gist of the bhāṣya
+
+Saramā answers them. "O Paṇis, I do not know brotherhood, and I do not know sisterhood either." Who does know? He names them: Indra and the Aṅgirases, terrible to enemies, know it. Further, he explains that from this place I came to Indra and the others (इंद्रादीन्प्राप्नवं (*iṃdrādīnprāpnavaṃ*)). Then my people, Indra and the others, who desire the cows, cover over (the place)…
+
+### Printed p. 308
+
+> युष्माभिरपहृता गाः कामयमाना इंद्रादय अच्चदय. । युष्मदीयं स्थानमाच्छादयंति ॥ छद अपवारणे ॥ अतः कारणाद्वे पणयः वरीय उरुतरं गवां
+> वृंदं परित्यज्यापेत । अन्यत्स्थानं प्रति गच्छत । यद्वा । वरीयः प्रभूतमतिदूरं
+> देशं गच्छत ॥ इत । इण् गतौ । लोटि रूपं वरीयः । उरिशब्दादीयसुनि प्रियस्थिरेत्यादिना वरादेशः ॥
+
+##### Gist of the bhāṣya
+
+…who desire the cows carried off by you, shroud your place (the root is छद (*chada*), "to cover"). For this reason, O Paṇis, abandon the herd of cows and go away to another place, to a wider, vaster one. Or else: go to a great and very distant region. इत (*ita*) is from the root इण् (*iṇ*) "to go", in the imperative; वरीयः (*varīyaḥ*) means "wider", "vaster".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै पणिगळे (*èlai paṇigaḷe*)) अहं (*ahaṃ*)—I
+- भ्रातृत्वं (*bhrātṛtvaṃ*)—your relation of brotherhood with me
+- न वेद (*na veda*)—I do not know
+- स्वसृत्वं (*svasṛtvaṃ*)—my relation of sisterhood with you
+- नो (*no*)—I do not know
+- इंद्रः (*iṃdraḥ*)—Indra
+- घोराः (*ghorāḥ*)—terrible to enemies
+- अंगिरसश्च (*aṃgirasaśca*)—and the Aṅgirases
+- विदुः (*viduḥ*)—know this matter
+- पणयः (*paṇayaḥ*)—O Paṇis
+- यत् (*yat*)—when
+- आयं (*āyaṃ*)—when I came here, then
+- गोकामाः (*gokāmāḥ*)—desiring cows
+- मे (*me*)—my kinsmen, Indra and the others
+- अच्छदयन् (*acchadayan*)—have besieged this region
+- अतः (*ataḥ*)—therefore, leaving this region
+- वरीयः (*varīyaḥ*)—to a distant region
+- अपेत (*apeta*)—go away
+
+##### भावार्थ (Bhāvārtha)
+
+(Saramā:) O Paṇis, I do not know what the relation of brotherhood or of sisterhood is that you wish with me. Indra and the Aṅgirases, terrible to enemies, know this matter. O Paṇis, from the moment I came here, Indra and the others, who desire the cows, have taken possession of this region. Leave this region and go far away.
+
+##### English translation
+(Sarama :) I recognize not fraternity nor sisterhood ; Indra and the terrible Angirasas know (my kindred); my (masters) desiring the cattle over-shadowed (your habitation) when I came ; depart hence, Panis, to a distant (spot).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दू॒रमि॑त पणयो॒ वरी॑य॒ उद्गावो॑ यंतु मिन॒तीर्यु॒तेन॑ ।  
+> बृह॒स्पति॒र्या अविं॑द॒न्नि गू॑ळ्हाः॒ सोमो॒ ग्रावा॑ण॒ ऋष॑यश्च॒  ॑
+> विप्राः ॥ ११ ॥
+
+### Printed p. 309
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दूरं । इत । पणयः । वरीयः । उत् । गावः । यंतु । मिनतीः । ऋतेन ।  
+> बृहस्पतिः । याः । अविंदत् । निगूळ्हाः । सोमः । ग्रावाणः । ऋषयः । च । विप्राः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पणयः यूयं वरीय उरुतरं दूरं दूरदेशमित । गच्छत ।
+> युष्माभिरपहृता गाव ऋतेन सत्येन मिनतीर्मिनत्यो द्वारस्य पिधायकं पर्वतं
+> हिंसत्यो विदारयंत्य उद्यंतु । तस्मादुद्दच्छंतु । यद्वा । मिनतीः ॥ व्यत्ययेन
+> कर्मणि शतृ ॥ मीयमाना युष्माभिर्बाध्यमानास्ता गावः ॥ सुब्व्यत्ययः ॥ गा
+> ऋतेन स्तुतिभिर्गंतव्येनेंद्रेण सहायेन बृहस्पत्यादय उद्यंतु । पर्वतादुद्धमयंतु । निगूढा नितरां स्थापिता या गा बृहस्पतिरविंदत् लप्स्यते तथा सोमस्तदभिषवकारिणो ग्रावाणश्च विप्रा मेधाविन ऋषयोऽंगिरसश्च लप्स्यंते ॥ विद्ल
+> लाभे तौदादिकः । तस्माच्चंदसि लुज्लुज्लिट् इति भविष्यदर्थॆ लज् । शे मुचादीनामिति नुमागमः ॥
+
+##### Gist of the bhāṣya
+
+"O Paṇis, go far away to a wider, more distant region. Let the cows carried off by you rise up, मिनतीः (*minatīḥ*) by ऋतेन (*ṛtena*), by truth, injuring and splitting the mountain that closes the door; so let them go up and out." Or else: मिनतीः (*minatīḥ*) has the participle ending used in the passive by a transposition, and means "being measured", that is, "being oppressed by you", those cows. By a transposition of case-endings (सुब्व्यत्ययः (*subvyatyayaḥ*)) ऋतेन (*ṛtena*) would mean: with Indra as helper, he who is to be approached by praises; Bṛhaspati and the others shall bring them up out of the mountain. The cows that have been hidden away, those Bṛhaspati will find; and likewise Soma, the pressing stones that press him, the wise seers, and the Aṅgirases will find them. The root is विद्ल (*vidla*) "to obtain" of the tudādi class.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पणयः (*paṇayaḥ*)—O Paṇis
+- वरीयः दूरं (*varīyaḥ dūraṃ*)—to a very distant region
+- इत (*ita*)—go away
+- निगूढाः (*nigūḍhāḥ*)—hidden
+- याः (*yāḥ*)—which cows
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- अविंदत् (*aviṃdat*)—will obtain, and so too
+- सोमः (*somaḥ*)—Soma
+- ग्रावाणः (*grāvāṇaḥ*)—the pressing stones
+- विप्राः (*viprāḥ*)—the wise
+- ऋषयः (*ṛṣayaḥ*)—the Aṅgirasa seers will obtain, such
+- गावः (*gāvaḥ*)—cows
+- ऋतेन (*ṛtena*)—in the form of truth
+- मिनतीः (*minatīḥ*)—opening the door that confines them
+- उद्यंतु (*udyaṃtu*)—let them come out
+
+##### भावार्थ (Bhāvārtha)
+
+(Saramā:) O Paṇis, go away to a very distant region. Let these cows open the door that confines them and come out in due order. After that let Bṛhaspati, Soma, the pressing stones, and the wise Aṅgirases obtain them.
+
+##### English translation
+Go hence, Panis, to a far-off distant (spot), let the cattle come forth in due order, bursting through (the door) the concealed cattle which Brihaspathi, the Soma, the grinding stones and the wise Rishis have found.
+
+### Printed p. 310
+
+## Sūkta 109 (Maṇḍala 10)
+
+The commentator has told a story in connection with this sūkta: अत्रेतिहासमाचक्षते । जुहूरिति वाङ्नाम । सा ब्रह्मणो जाया च । बृहस्पतेर्वाचस्पतित्वादृहस्पतेर्जुहूर्नाम भार्या बभूव । कदाचिदस्य किल्बिषमस्या दौर्भाग्यरूपेणासांचक्रे । अत एव स एनां पर्यत्याक्षीत् । अनंतरमादित्यादयो देवा मिथो विचार्यॆनामकिल्बिषां कृत्वा पुनर्बृहस्पतये प्रादुरिति । तदत्र वर्ण्यते ॥ (*atretihāsamācakṣate | juhūriti vāṅnāma | sā brahmaṇo jāyā ca | bṛhaspatervācaspatitvādṛhaspaterjuhūrnāma bhāryā babhūva | kadācidasya kilbiṣamasyā daurbhāgyarūpeṇāsāṃcakre | ata eva sa enāṃ paryatyākṣīt | anaṃtaramādityādayo devā mitho vicāryènāmakilbiṣāṃ kṛtvā punarbṛhaspataye prāduriti | tadatra varṇyate ‖*) Juhū is a name for Speech (vāk). This goddess presiding over speech is the wife of Brahmā. Since Bṛhaspati too is said to be vācaspati, that is, lord of Speech (the presiding goddess of speech), this goddess of speech became Bṛhaspati's wife as well. At one time Bṛhaspati's sin turned into ill-fortune for this goddess of speech. Therefore Bṛhaspati abandoned his wife, this goddess of speech. Learning of it, the Ādityas and the other gods deliberated among themselves, removed the goddess's sin, and restored her to her husband Bṛhaspati. This very matter is described in this sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तेवदन्निति सप्तर्चं दशमं सूक्तं । जुहुर्नाम ब्रह्मवादिन्यृषिः । ब्रह्मपुत्र
+> ऊर्ध्वनाभा नाम वा । षष्ठीसप्तम्यावनुष्टुभौ । शिष्टाः पंच त्रिष्टुभः । विश्वे
+> देवा देवता । तथा चानुक्रांतं । तेवदन्नप्त जुहूर्ब्रह्मजाया ब्राह्मो वोर्ध्वनाभा वैश्वदेवं द्व्यनुष्टुबंतमिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तेवदन् (*tevadan*) has seven Ṛks and is the tenth sūkta. The seer is the Brahmavādinī named Juhū, or else Ūrdhvanābhā, a son of Brahmā. The sixth and seventh Ṛks are in Anuṣṭubh, the remaining five in Triṣṭubh. The deity is the Viśve Devāḥ. He cites the Anukramaṇī: तेवदन्नप्त जुहूर्ब्रह्मजाया ब्राह्मो वोर्ध्वनाभा वैश्वदेवं द्व्यनुष्टुबंतमिति (*tevadannapta juhūrbrahmajāyā brāhmo vordhvanābhā vaiśvadevaṃ dvyanuṣṭubaṃtamiti*). The application (viniyoga) has been stated already. **NOTE**
+
+##### Anuvāda (Kannada)
+
+This sūkta beginning तेवदन् (*tevadan*) is the tenth sūkta in the ninth anuvāka. It has seven Ṛks. For this sūkta the seer is the Brahmavādinī (seeress) named Juhū, the daughter of Brahmā; or else the seer is the son of Brahmā named Ūrdhvanābhā. The sixth and seventh Ṛks of this sūkta are in the Anuṣṭubh metre. The remaining five Ṛks are in the Triṣṭubh metre. The deity is the Viśve Devāḥ. In the Anukramaṇikā it is said: तेवदन्सप्त जुहूर्ब्रह्मजाया ब्राह्मो वोर्ध्वनाभा वैश्वदेवं ह्यनुष्टुबंतं (*tevadansapta juhūrbrahmajāyā brāhmo vordhvanābhā vaiśvadevaṃ hyanuṣṭubaṃtaṃ*). The application has been stated before.
+
+### Printed p. 311
+
+Sūkta 109. Maṇḍala 10. Anuvāka 9. Sūkta 109. Aṣṭaka 8. Adhyāya 9. Varga 7. Number of Ṛks in the sūkta: 7.
+Seer: जुहूर्ब्रह्मजायोर्ध्वनाभा ना ब्राह्मः (*juhūrbrahmajāyordhvanābhā nā brāhmaḥ*).
+Deity: विश्वेदेवाः (*viśvedevāḥ*).
+Metre: 1–5 त्रिष्टुप् (*triṣṭup*); 6, 7 अनुष्टुप् (*anuṣṭup*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते॑ऽवदन्प्रथ॒मा ब्र॑ह्मकिल्बि॒षेऽकू॑पारः सलि॒लो मा॑त॒रिश्वा॑ ।  
+> वी॒ळुह॑रा॒स्तप॑ उ॒ग्रो म॑यो॒भूरापो॑ दे॒वीः प्र॑थम॒जा  ॒॑
+> ऋतेन ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । अवदन् । प्रथमाः । ब्रह्मकिल्बिषे । अकूपारः । सलिलः । मातरिश्वा ।  
+> वीळुहराः । तपः । उग्रः । मयःभूः । आपः । देवीः । प्रथमजाः । ऋतेन ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रेतिहासमाचक्षते । जुहूरिति वाग्नाम । सा ब्रह्मणो जाया च । बृहस्पतेर्वाचस्पतित्वादृहस्पतेर्जुहूर्नाम भार्या बभूव । कदाचिदस्य किल्पिषमस्या
+> दौर्भाग्यरूपेणासांचक्रे । अत एव स एनां पर्यत्याक्षीत् । अनंतरमादित्यादयो
+> देवा मिथो विचार्यैनामकिल्पिषां कृत्वा पुनर्बृहस्पतये प्रादुरिति । तदत्र
+> वर्ण्यते । प्रथमा मुख्यास्ते देवा ब्रह्मकिल्पिषे ॥ षष्टिसमासः । समासस्वरः ॥
+> ब्रह्मणो बृहस्पतेः किल्पिषे पापे जुहूर्दौभाग्यरूपे विषयेऽवदन् । निष्कृत्युपायमवोचन् ॥ वकारपरत्वादत्र प्रकृतिभावाभावः ॥ के ते । अकूपारः । आत्र
+> यास्कः । आदित्योऽप्यकूपार उच्यतेऽकूपारो भवति दूरपारः । नि.४-१८ । इति ।
+> अकुत्सितपारो महागतिरादित्यः सलिलोऽब्बेवता वरुणो मातरिश्वा वायुर्वीळुहराः ॥ हरतेरसुनि रूपं हर इति ॥ हरति विनाशयति तमांसीति हरस्तेजः । प्रभू-
+
+##### Gist of the bhāṣya
+
+He recounts the story: Juhū is a name for Speech; she is Brahmā's wife, and since Bṛhaspati is lord of Speech, Juhū was also Bṛhaspati's wife. Once his sin turned into her ill-fortune, and for that reason he abandoned her. Afterwards the Ādityas and the other gods deliberated together, freed her from the sin, and gave her back to Bṛhaspati. This is what is described here. प्रथमाः (*prathamāḥ*) means those gods, the foremost. ब्रह्मकिल्बिषे (*brahmakilbiṣe*) is a genitive compound: in the sin of Brahman (Bṛhaspati), which has taken the form of Juhū's ill-fortune, they अवदन् (*avadan*), that is, they declared the remedy. Who are they? अकूपारः (*akūpāraḥ*): here Yāska says आदित्योऽप्यकूपार उच्यतेऽकूपारो भवति दूरपारः (*ādityo 'pyakūpāra ucyate 'kūpāro bhavati dūrapāraḥ*) (Ni. 4-18). The Āditya, whose crossing is not mean, of great motion, is अकूपारः (*akūpāraḥ*). सलिलः (*salilaḥ*) is Varuṇa, the deity of the waters. मातरिश्वा (*mātariśvā*) is Vāyu. वीळुहराः (*vīḷuharāḥ*) is derived from the root हृ (*hṛ*) with the suffix *asun*, giving हर (*hara*). It means what carries off, destroys the darknesses: brightness, that is, one of abundant brightness.
+
+### Printed p. 312
+
+> ततेजस्कः । तपः ॥ तृतीयायाः सुः ॥ तपसा तापनेनोग्र उद्योणोग्निर्मयोभूः सुखस्य भावयिता सोमो देवीर्देव्य आपः । कीदृश्यः । ऋतेन सत्यभूतेन
+> ब्रह्मणा प्रथमजा आदित एवोत्पादिताः । एत उपायमुक्ता प्रायश्चित्तमप्यकारयन्निति भावः ॥
+
+##### Gist of the bhāṣya
+
+तपः (*tapaḥ*) (with सु (*su*) for the instrumental) is the fire, fierce and energetic through its burning heat. मयोभूः (*mayobhūḥ*) is Soma, producer of happiness. देवीः (*devīḥ*) are the divine waters. What kind? प्रथमजाः (*prathamajāḥ*), born first, produced in the beginning by Brahman, who is ऋतेन (*ṛtena*), truth. The meaning is that these gods, having stated the remedy, also had the expiation performed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अकूपारः (*akūpāraḥ*)—the Āditya of endless motion
+- सलिलः (*salilaḥ*)—the water-deity (Varuṇa)
+- मातरिश्वा (*mātariśvā*)—Vāyu
+- वीळुहराः (*vīḷuharāḥ*)—the very radiant one
+- तपः (*tapaḥ*)—of burning nature
+- उग्रः (*ugraḥ*)—possessed of great power, namely Agni
+- मयोभूः (*mayobhūḥ*)—Soma, the giver of happiness
+- ऋतेन (*ṛtena*)—by Brahman, who is of the nature of truth
+- प्रथमजाः (*prathamajāḥ*)—produced first
+- देवीः आपः (*devīḥ āpaḥ*)—the waters of divine form, and these and others
+- प्रथमाः ते (*prathamāḥ te*)—all those foremost gods
+- ब्रह्मकिल्बिषे (*brahmakilbiṣe*)—concerning Bṛhaspati's sin
+- अवदन् (*avadan*)—explained
+
+##### भावार्थ (Bhāvārtha)
+
+The Āditya of endless motion, Varuṇa the water-deity, Vāyu, Agni the very radiant, of burning nature and great power, Soma the giver of happiness, the waters of divine form first produced by Brahman, who is of the nature of truth, and the other foremost gods, all explained the matter of Bṛhaspati's sin. **NOTE**
+
+##### English translation
+These spoke first about Brahma's sin, the boundless (sun), the water-god (Varuna), the wind god (Vayu), the fierce, wide-consuming fire, the source of happiness, (Soma), the divine waters, the first-born sons of the truthful (Brahma).
+
+##### विशेषविषयगळु (Special Topics)
+
+बृहस्पतेः किल्बिषे पापे जुहूर्दौर्भाग्यरूपे विषये ते देवाः अवदन् ॥ (*bṛhaspateḥ kilbiṣe pāpe juhūrdaurbhāgyarūpe viṣaye te devāḥ avadan ‖*). Bṛhaspati's sin turned into ill-fortune for his wife, the goddess Juhū, and in the matter of her having been abandoned by her husband the gods spoke in this way. Here ते (*te*) is said to mean the gods. Who are those gods? प्रथमाः (*prathamāḥ*): the foremost ones. Who are they? अकूपारः (*akūpāraḥ*): आदित्योऽकूपार उच्यतेऽकूपारो भवति दूरपारः (*ādityo 'kūpāra ucyate 'kūpāro bhavati dūrapāraḥ*) (Ni. 4-18). The Āditya is called Akūpāra. Because this Āditya travels in the sky for a very great distance (from east to west), the Āditya is called Akūpāra.
+
 ---
 
-**Progress note:** Done through printed p. 306. pp. 301-306 (batch API)
+**Progress note:** Done through printed p. 312. pp. 307-312 (batch API)
