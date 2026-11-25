@@ -8086,6 +8086,312 @@ The man who desires victory over an enemy should fast for twelve days and recite
 
 By reciting in this way for three days one can conquer a very wealthy Vaiśya. If he recites for four nights, a Kṣatriya; if for five nights, a king; if for six nights, an excellent Brāhmaṇa; if for seven nights, even an ascetic can be conquered. Afterwards, whether having eaten, or fasting and having bathed, he should continue to recite this mantra always.
 
+### Printed p. 317
+
+य इच्छेदात्मनः कर्तुं हीनां तु परिवर्जयेत् । सहस्रसंपातहुतं बिल्वानां चूर्णमावपेत् ॥ ८६ ॥ (*ya icchedātmanaḥ kartuṃ hīnāṃ tu parivarjayet | sahasrasaṃpātahutaṃ bilvānāṃ cūrṇamāvapet ‖ 86 ‖*)
+
+उदपाने वशं नेतुं तं जनं क्षिप्रमानयेत् । (*udapāne vaśaṃ netuṃ taṃ janaṃ kṣipramānayet |*)
+
+One who wishes others to come under his control should bring a thousand bilva leaves, grind them to powder, mix it in water, consecrate that water with the mantra and give it to them to drink; then those people become subject to him.
+
+मातर्यात्मनि पुत्रेषु पितृभ्रातृसुहृत्सु च ॥ ८७ ॥ (*mātaryātmani putreṣu pitṛbhrātṛsuhṛtsu ca ‖ 87 ‖*)
+
+हृद्यमेतत्पयुंजीत शिरसा भारयेद्गुडं । सुमित्रं तु परिष्वज्य मूर्धन्याघ्राय चात्मजं ॥ ८८ ॥ (*hṛdyametatpayuṃjīta śirasā bhārayedguḍaṃ | sumitraṃ tu pariṣvajya mūrdhanyāghrāya cātmajaṃ ‖ 88 ‖*)
+
+If one desires peace and happiness for his own people, he should act as follows. In respect of his mother, himself, his sons, his father, his brothers and his friends, he should consecrate jaggery and place it on the head; he should embrace a friend; he should smell the head of a son.
+
+असंसिद्धे संवनने पांसुप्रतिकृतिं पथि ॥ ८९ ॥ प्रज्वाल्य जुहुयादग्निं धृतेन ब्राह्मणो यदि । पत्नियस्य तु तैलेन सार्षपेण विशामपि ॥ ९८ ॥ (*asaṃsiddhe saṃvanane pāṃsupratikṛtiṃ pathi ‖ 89 ‖ prajvālya juhuyādagniṃ dhṛtena brāhmaṇo yadi | patniyasya tu tailena sārṣapeṇa viśāmapi ‖ 98 ‖*) **NOTE**
+
+आयसीं वै प्रतिकृतिमग्निमध्ये निधापयेत् । तां च प्रज्वलितां मत्वा जुहुयात्तन्मनाः शुचिः ॥ ९१ ॥ (*āyasīṃ vai pratikṛtimagnimadhye nidhāpayet | tāṃ ca prajvalitāṃ matvā juhuyāttanmanāḥ śuciḥ ‖ 91 ‖*)
+
+उग्रेण मनसा हन्यात्कुद्धश्च जुहुयाद्भृतं । यथा यथा प्रज्वलिते हूयते जातवेदसि ॥ ९२ ॥ (*ugreṇa manasā hanyātkuddhaśca juhuyādbhṛtaṃ | yathā yathā prajvalite hūyate jātavedasi ‖ 92 ‖*)
+
+दीप्ता प्रतिकृतिर्विप्रस्तथा स्वं वशमेष्यति । (*dīptā pratikṛtirviprastathā svaṃ vaśameṣyati |*)
+
+If the work is not accomplished, he should draw a picture of the enemy on the dust of a road, then establish a fire, and in the blazing fire a Brāhmaṇa should offer oblations with ghee, a Kṣatriya with oil, and a Vaiśya with sarpasa **NOTE**. Then he should make a figure of iron and place it in the middle of the fire. When it has become well heated and glows, he should become pure, fix his mind on the slaying of the enemy, and with an angry mind offer ghee. As the figure heats and shines, he should offer more and more ghee into the fire. If he does so, the enemy will come under his control. Since in what follows too only rites of this kind of sorcery are stated, and an explanation of their meaning is not necessary, only the original verses are given.
+
+### Printed p. 318
+
+शृशानदग्ध पांसूनां कुर्याद्वेदिं विलक्षणां (*śṛśānadagdha pāṃsūnāṃ kuryādvediṃ vilakṣaṇāṃ*) (93) **GLOSS**
+
+वैभीतकेध्मे ज्वलिते लोहप्रतिकृतिं न्यसेत् । (*vaibhītakedhme jvalite lohapratikṛtiṃ nyaset |*) अर्धरात्रे स्थिते तैलं सार्षपं लवणान्वितं (*ardharātre sthite tailaṃ sārṣapaṃ lavaṇānvitaṃ*) (94) **GLOSS**
+
+तत्र शरमयं कुर्यात्पस्तरं प्रतिलोमतः । (*tatra śaramayaṃ kuryātpastaraṃ pratilomataḥ |*) त्रिषु शंकुषु चासीनो जुहुयादुग्रदर्शनः (*triṣu śaṃkuṣu cāsīno juhuyādugradarśanaḥ*) (95) **GLOSS**
+
+मुक्तकेशो वधं प्रेप्पुरचिरेण प्रसादयेत् । (*muktakeśo vadhaṃ preppuracireṇa prasādayet |*) अथवाभिचरेदेवं जुहुयादात्मशोणितं (*athavābhicaredevaṃ juhuyādātmaśoṇitaṃ*) (96) **GLOSS**
+
+वशं नयति राजानं क्षिप्रं जनपदं पुरं । (*vaśaṃ nayati rājānaṃ kṣipraṃ janapadaṃ puraṃ |*) पुष्टिकर्मापि कर्तव्यं हृद्येनोक्तं यतात्मना (*puṣṭikarmāpi kartavyaṃ hṛdyenoktaṃ yatātmanā*) (97) **GLOSS**
+
+अनागसि न कुर्वित ब्राह्मणो वधसंयुतं । (*anāgasi na kurvita brāhmaṇo vadhasaṃyutaṃ |*) सरूपवत्सायाश्च गोः पयसा साधयेच्चरुं (*sarūpavatsāyāśca goḥ payasā sādhayeccaruṃ*) (98) **GLOSS**
+
+सहस्रसंपातहुतं पाययेद्वत्समग्रजं । (*sahasrasaṃpātahutaṃ pāyayedvatsamagrajaṃ |*) सहस्रानुचरो वत्सः स स्याद्रोगैर्विवर्जितः (*sahasrānucaro vatsaḥ sa syādrogairvivarjitaḥ*) (99) **GLOSS**
+
+गाश्चैव पाययेत्ताश्च भवंति व्याधिवर्जिताः । (*gāścaiva pāyayettāśca bhavaṃti vyādhivarjitāḥ |*) पुत्रांश्च प्राशयेन्नित्यं प्रियानन्यांत्व सज्जनान् (*putrāṃśca prāśayennityaṃ priyānanyāṃtva sajjanān*) (100) **GLOSS**
+
+निरामयाश्च स्निग्दाश्च भवंति निगतज्वराः । (*nirāmayāśca snigdāśca bhavaṃti nigatajvarāḥ |*) स्त्रीयं जेदभिमन्येत तस्माः संवननं महत् (*strīyaṃ jedabhimanyeta tasmāḥ saṃvananaṃ mahat*) (101) **GLOSS**
+
+व्रीहीणां नखभिन्नानां तंडुलान् सूक्ष्मचूर्णितान् । (*vrīhīṇāṃ nakhabhinnānāṃ taṃḍulān sūkṣmacūrṇitān |*) सहस्रसंपातहुतान् स्वेदयेत्कुशलोग्निना (*sahasrasaṃpātahutān svedayetkuśalogninā*) (102) **GLOSS**
+
+तेन प्रतिकृतिं कुर्यात्तां ध्यात्वा मनसा स्त्रियं । (*tena pratikṛtiṃ kuryāttāṃ dhyātvā manasā striyaṃ |*) अक्तां सर्पपतैलेन जुहुयादंगशश्च तां (*aktāṃ sarpapatailena juhuyādaṃgaśaśca tāṃ*) (103) **GLOSS**
+
+पादौ प्रथमतश्चिंद्यात् फडित्यग्नौ निधापयेत् । (*pādau prathamataściṃdyāt phaḍityagnau nidhāpayet |*) अथ जंघे जानुनी च ऊरू बाहू ततः शिरः (*atha jaṃghe jānunī ca ūrū bāhū tataḥ śiraḥ*) (104) **GLOSS**
+
+च्छित्वा हृदयदेशं तु हृदये स्वे निवेशयेत् । (*cchitvā hṛdayadeśaṃ tu hṛdaye sve niveśayet |*) जपन्निममृषिं विप्रः स्त्री वशं साधिगच्छति (*japannimamṛṣiṃ vipraḥ strī vaśaṃ sādhigacchati*) (105) **GLOSS**
+
+नैतत्परिगृहीतासु न साद्धीषु कथंचन । (*naitatparigṛhītāsu na sāddhīṣu kathaṃcana |*) न धर्मव्रतशीलासु कुर्वित द्विजसत्तमः (*na dharmavrataśīlāsu kurvita dvijasattamaḥ*) (106) **GLOSS**
+
+कामं परिगृहीतासु हीनवर्णासु यश्चरेत् । (*kāmaṃ parigṛhītāsu hīnavarṇāsu yaścaret |*) पतिमस्का गुणीकुर्यात्तूर्वं पश्चात्तु तां स्त्रियं (*patimaskā guṇīkuryāttūrvaṃ paścāttu tāṃ striyaṃ*) (107) **GLOSS**
+
+भुक्ता वा पायसं सद्यश्वर्दयित्वा निधापयेत् । (*bhuktā vā pāyasaṃ sadyaśvardayitvā nidhāpayet |*) तच्चूर्णं कृष्णजायाय्कॆ देयं संवननं स्मृतं (*taccūrṇaṃ kṛṣṇajāyāykè deyaṃ saṃvananaṃ smṛtaṃ*) (108) **GLOSS**
+
+### Printed p. 319
+
+महावृक्षफलान्येवमयुग्मान्यभिमंत्रयेत् (*mahāvṛkṣaphalānyevamayugmānyabhimaṃtrayet*) तेषां युग्मानि भुंजीत स्वयमर्धानि शेषयेत् (*teṣāṃ yugmāni bhuṃjīta svayamardhāni śeṣayet*) (189) **NOTE** **GLOSS**
+
+तानि दद्याद्यमिच्छेत्तु वशीकर्तुं जपन्नृषिं । (*tāni dadyādyamicchettu vaśīkartuṃ japannṛṣiṃ |*) सुहृद्भूत्वा सुहृदस्य देयं संवननं स्मृतं (*suhṛdbhūtvā suhṛdasya deyaṃ saṃvananaṃ smṛtaṃ*) (110) **GLOSS**
+
+एकैकमभिरूपं तु हृद्यसूक्ताद्यतः पुनः । (*ekaikamabhirūpaṃ tu hṛdyasūktādyataḥ punaḥ |*) कर्माणि त्वभिरूपाणि कुर्याद्यस्तु यथेच्छति (*karmāṇi tvabhirūpāṇi kuryādyastu yathecchati*) (111) **GLOSS**
+
+पराकदासस्य विधिं हृद्येनोक्तं विदुर्बुधाः । (*parākadāsasya vidhiṃ hṛdyenoktaṃ vidurbudhāḥ |*) स्त्रीणां संवननं चैतत्पुंसामपि विधीयते (*strīṇāṃ saṃvananaṃ caitatpuṃsāmapi vidhīyate*) (112) **GLOSS**
+
+द्वेष्यं तु ज्ञातिनामेव जयश्चैव सदा युधि । (*dveṣyaṃ tu jñātināmeva jayaścaiva sadā yudhi |*) खादिरं कारयेच्छंकुं हृदि तं संनिवेशयेत् (*khādiraṃ kārayecchaṃkuṃ hṛdi taṃ saṃniveśayet*) (113) **GLOSS**
+
+कृत्वा प्रतिकृतिं पूर्वं पांसुभिर्वाथवा तुष्टैः । (*kṛtvā pratikṛtiṃ pūrvaṃ pāṃsubhirvāthavā tuṣṭaiḥ |*) इषुमष्यनुमंत्रैव संग्रामं संप्रकल्पयेत् (*iṣumaṣyanumaṃtraiva saṃgrāmaṃ saṃprakalpayet*) (114) **GLOSS**
+
+रिपुघ्नमेतज्ञानीयात्पयुक्तमपराजितं (*ripughnametajñānīyātpayuktamaparājitaṃ*) पराकदासद्वेष्यार्थं हृद्यं संवननं स्मृतं (*parākadāsadveṣyārthaṃ hṛdyaṃ saṃvananaṃ smṛtaṃ*) (115) **GLOSS**
+
+(Ṛgvidhāna. Adhyāya 3. Ślo. 78-115)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्ते मन्यो इति सप्तर्चं पंचदशं सूक्तं । मन्युर्नाम तपसः पुत्र
+> ऋषिः । आद्या जगती शिष्टा स्त्रिष्टुभः । इदमुत्तरं च मन्युदैवतं। तथा चानुक्रांतं।
+> यस्ते मन्यो मन्युस्तापसो मान्यवं तु जगत्यादीति ॥ अजिरनाम्नभिचारसाधने
+> यज्ञ एतत्तूक्तं निविद्धानं । सूत्रितं च । त्वया मन्यो यस्ते मन्यो । आ. ९-७ ।
+> इति ।
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यस्ते मन्यो (*yaste manyo*) has seven Ṛks and is the fifteenth sūkta. Its seer is Manyu, the son of Tapas. The first Ṛk is in Jagatī and the rest in Triṣṭubh. This sūkta and the one after it have Manyu as deity. The Anukramaṇī says: यस्ते मन्यो मन्युस्तापसो मान्यवं तु जगत्यादीति ॥ (*yaste manyo manyustāpaso mānyavaṃ tu jagatyādīti ‖*). In the sacrifice called Ajira, which is a means of sorcery, this sūkta is to be used as the nivid-dhāna sūkta; this is laid down by the sūtra त्वया मन्यो यस्ते मन्यो (*tvayā manyo yaste manyo*) (Ā. 9-7).
+
+##### Anuvāda
+
+This sūkta beginning यस्ते मन्यो (*yaste manyo*) is the fifteenth sūkta in the sixth anuvāka. It has seven Ṛks. The seer of this sūkta is Manyu, the son of the seer named Tapa. Manyu is the deity of this sūkta and of the next one. The first Ṛk of this sūkta is in the Jagatī metre; the remaining Ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is said: यस्ते मन्यो मन्युस्तापसो मान्यवं तु जगत्यादि (*yaste manyo manyustāpaso mānyavaṃ tu jagatyādi*). By the sūtra of the Āśvalāyana-śrauta-sūtra त्वया मन्यो यस्ते मन्यो (*tvayā manyo yaste manyo*) (Ā. 9.7) it is laid down that in the sacrifice called Ajira, a means of sorcery, this sūkta is to be recited as the nivid-dhāna sūkta.
+
+### Printed p. 320
+
+Maṇḍala 10; Anuvāka 6; Sūkta 83. Aṣṭaka 8; Adhyāya 3; Varga 88 **NOTE**. Number of Ṛks in the sūkta: 7. Seer: मन्युस्तापसः (*manyustāpasaḥ*). Deity: मन्युः (*manyuḥ*). Metre: 1. जगती (*jagatī*); 2-7. त्रिष्टुप् (*triṣṭup*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ म॒न्योऽवि॑धद्वज्र सायक॒ सह॒ ओजः॑ पुष्यति॒ विश्व॑मानु॒षक् ।  
+> सा॒ह्याम॒ दास॒मार्यं॒ त्वया॑ यु॒जा सह॑स्कृतेन॒ सह॑सा॒  ॑
+> सहस्वता ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । मन्योऽइति । अविधत् । वज्र । सायक । सहः । ओजः । पुष्यति । विश्वं ।  
+> आनुषक् ।  
+> सह्याम । दासं । आर्यं । त्वया । युजा । सहःकृतेन । सहसा । सहस्वता ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो क्रोधाभिमानिन्नेव । मन्युर्मन्यतेर्दिप्तिकर्मणः क्रोधकर्म
+> णो वधकर्मणो वेति निरुक्तं । १०-२९ । यो यजमानस्ते तुभ्यमविधत् परिचरति
+> हे वज्र वज्रवत्सारभूत सायक सायकवच्छत्रूणां हिंसक स मनुष्यः सहो बलं
+> वाह्यमोजः शारीरं बलं चानुषगनुषक्तं पुष्यति त्वदनुग्रहात्संग्रामे । यस्मा
+> देवं तस्माद्वयं दासमुपक्षयकर्तारमार्यमस्मत्तोऽधिकं चोभयविधं शत्रुं
+> साह्याम । अभिभवेम । केन साधनेनेति तमच्यते । त्वया युजा त्वया सहायेन।
+> सहायो विशेष्यते । सहस्कृतेन बलोत्पादितेन सहसा सहमानेन परान् सह्वता
+> बलवता । ईदृशेन त्वया सहायेनेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, presiding spirit of anger. The Nirukta says that manyu is from the root meaning to blaze, or that it is an act of anger or of killing (Ni. 10-29). The sacrificer who serves you, O thunderbolt (that is, as solid as a thunderbolt), O arrow (that is, destroyer of enemies like an arrow), that man nourishes continuously his strength (external might) and his ojas (bodily strength) in battle through your favour. Therefore we would overcome the दासं (*dāsaṃ*), one who causes ruin, and the आर्यं (*āryaṃ*), one superior to us, the enemy of both kinds. By what means: by you as ally, strengthened by might, overpowering others, mighty. Such is the meaning: with you as helper.
+
+### Printed p. 321
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एतत् (*etat*)—this garment
+- तृष्टं (*tṛṣṭaṃ*)—causes burning
+- एतत् (*etat*)—this
+- कटुकं (*kaṭukaṃ*)—is astringent in nature
+- अपाष्ठवत् (*apāṣṭhavat*)—is like old Soma called Ṛjīṣa
+- विषवत् (*viṣavat*)—is like poison
+- एतत् (*etat*)—this
+- अत्तवे न (*attave na*)—is not fit to be used
+- यः ब्रह्मा (*yaḥ brahmā*)—the man who knows the mantras
+- सूर्यां (*sūryāṃ*)—Sūryā, the goddess
+- विद्युत् (*vidyut*)—knows
+- स इत् (*sa it*)—he alone
+- वाधूयं (*vādhūyaṃ*)—this garment of the bride
+- अर्हति (*arhati*)—becomes fit to obtain
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+This garment causes burning. It is astringent in nature. It is like old Soma called Ṛjīṣa. It is like poison. It is not fit to be used. Only the Brāhmaṇa who knows the nature of the goddess Sūryā becomes fit to obtain this garment of the bride.
+
+##### English translation
+This (garment) is inflaming , it is pungent; it is like stale Soma ; it is like poison ; it is not fit to eat ; the Brahman, who knows Surya, verily desires the bridal (garment).
+
+**Verse 35**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ शसनं विशसनमथो अधिविकर्तनं ।  
+> सूर्यायाः पश्य रूपाणि तानि ब्रह्मा तु शुंधति ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आशसनं i विशसनं । अथो इति । अधिविकर्तनं ।  
+> सूर्यायाः । पश्य । रूपाणि । तानि । ब्रह्मा । तु । शुंधति ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अशसनं तूषाधानं । तच्चान्यवर्णं भवति । विशसनं शिरसि निधीयमानं ।
+> तादृशं दशांते निधीयमानमधिविकर्तनं यत्रिधा वासो विकृंतंति । तान्याशसनादीनि वासांस्यवस्थितानि सूर्याया रूपाणि भवंति । तानि पश्य । एवंभूतान्याशसनादीनि पुरा सूर्यास्वशरीरे स्थितान्यमंगलानि वासांसि विधत्ते ! तानि रूपाणि
+> सूर्याविद्ब्रह्मातु ब्राह्मण एव तस्माद्वाससः सकाशाच्छुंधति ! अपनयति ॥
+
+##### Gist of the bhāṣya
+
+The अशसनं (*aśasanaṃ*) is the placing of तूषाधानं (*tūṣādhānaṃ*) **NOTE**, and it is of another colour. The विशसनं (*viśasanaṃ*) is what is placed on the head. The अधिविकर्तनं (*adhivikartanaṃ*) is what is placed at the hem, the cloth that they cut in three. Those garments, तान्याशसनादीनि (*tānyāśasanādīni*), are the forms of Sūryā; look at them. Garments of this kind, inauspicious, which formerly stood on Sūryā's own body, he ordains. The ब्रह्मा (*brahmā*) who knows Sūryā, that is, a Brāhmaṇa alone, removes from that garment.
+
+### Printed p. 322
+
+> दासं आर्यं—ई शब्दगळिगॆ भाष्यकाररु दासं उपक्षपयितारं । आर्यं अस्मत्तोऽधिकं चोभयविधं शत्रुं ॥ हिंसकनाद शत्रु मत्तु नमगिंतलू बलशालियाद शत्रु
+> ऎंब ऎरडु विध शत्रुगळु ऎंदु अर्थविवरणॆमाडिद्दारॆ. आदरॆ दासं ऎंब शब्दक्कॆ अनार्य,
+> ई देशद पूर्वनिवासियाद कप्पुजन ऎंदू आर्यं ऎंदरॆ चातुर्वण्यगळिगॆ सेरिद आर्यजनांग
+> दवनु ऎंदू अर्थमाडबहुदु. ई ऎरडु विध जनरल्लि नमगॆ शत्रुभावदिंदिरुववनन्नु
+> ऎंदभिप्रायवु.
+
+##### Gist of the bhāṣya
+
+The commentators explain the words दासं आर्यं (*dāsaṃ āryaṃ*) as दासं उपक्षपयितारं । आर्यं अस्मत्तोऽधिकं चोभयविधं शत्रुं ॥ (*dāsaṃ upakṣapayitāraṃ | āryaṃ asmatto 'dhikaṃ cobhayavidhaṃ śatruṃ ‖*): the one who causes ruin, and the one who is superior to us, enemies of two kinds, that is, the destroying enemy and the enemy stronger than we. But the word dāsa can be understood as the non-Aryan, the dark people who were the earlier inhabitants of this country, and ārya as one of the Aryan people belonging to the four varṇas. The meaning is that among these two kinds of people the one who is hostile to us is meant.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒न्युरिंद्रो॑ म॒न्युरे॒वास॑ दे॒वो म॒न्युर्होता॒ वरु॑णो  ॒॑
+> जा॒तवे॑दाः ।  
+> म॒न्युं विश॑ ईळते॒ मानु॑षी॒र्याः पा॒हि नो॑ मन्यो॒ तप॑सा  ॒॑
+> सजोषाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मन्युः । इंद्रः । मन्युः । एव । आस । देवः । मन्युः । होता । वरुणः । जातवेदाः ।  
+> मन्युं । विशः । ईळते । मानुषीः । याः । पाहि । नः । मन्यो इति । तपसा ।  
+> सजोषाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं मन्युरिंद्रो मन्युरेव देवः सर्वोऽपि मन्युरेवास । अभवत् ।
+> मन्युरेव होता होमनिष्पादकोऽग्निः । तथा मन्युर्वरुणोऽपि जातवेदा
+> जातप्रज्ञो वरुणश्च । सर्वॆष्टपि तेजस्विषु मन्युसद्भावात् । या मानुषीर्मनुषोऽपत्यभूता विशः प्रजाः संति ता मन्युमेव देवमीळते । स्तुवंति ।
+> हे मन्यो तपस्यॆतन्नामकेनास्मित्ता सजोषाः समानप्रीतिस्त्वं पाहि । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+This Manyu is Indra; Manyu alone is god; everything has become Manyu. Manyu alone is the होता (*hotā*), Agni who accomplishes the oblation. Likewise Manyu is Varuṇa, and जातवेदा (*jātavedā*) is Varuṇa, born of wisdom, since Manyu exists in all brilliant ones. The human subjects, the offspring of Manu, praise Manyu alone as god. O Manyu, you who are equal in affection with Tapas, so named **NOTE**, protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मन्युः (*manyuḥ*)—O Manyu-deva
+- इंद्रः (*iṃdraḥ*)—Indra in form
+- मन्युः एव (*manyuḥ eva*)—Manyu himself
+- देवः (*devaḥ*)—as lord
+- आस (*āsa*)—has become
+- मन्युः (*manyuḥ*)—Manyu
+- होता (*hotā*)—Agni, accomplisher of the oblation
+
+### Printed p. 323
+
+- जातवेदाः (*jātavedāḥ*)—of born wisdom
+- वरुणः (*varuṇaḥ*)—has become Varuṇa also
+- याः (*yāḥ*)—who
+- मानुषीः विशः (*mānuṣīḥ viśaḥ*)—those who are subjects belonging to the company of men
+- मन्युं एवं (*manyuṃ evaṃ*)—Manyu alone
+- ईळते (*īḷate*)—praise
+- मन्यो (*manyo*)—O Manyu-deva
+- तपसा (*tapasā*)—together with Tapa, my father
+- सजोषाः (*sajoṣāḥ*)—united
+- पाहि (*pāhi*)—protect us
+
+##### भावार्थ (Bhāvārtha)
+
+Manyu is Indra, Manyu is the lord, Manyu is Agni who accomplishes the oblation, and Varuṇa of born wisdom. Those who are subjects belonging to the company of men praise Manyu alone. O Manyu-deva, united with Tapa our father, protect us.
+
+##### English translation
+Manyu is Indra; Manyu verily was a god; Manyu is the sacrificing priest (Agni), the omniscient Varuna; the people who are of human descent, praise Manyu; protect us, Manyu, well pleased along with Tapas.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, when the deity Manyu is praised, this god Manyu is praised with the names of other deities: Indra, Deva, Hotā, Varuṇa and so on. That is, to show that all the great qualities found in the other deities are in this god Manyu, he is addressed by the names of various deities. Everyone knows that in worldly usage, too, when a man of excellent qualities is praised, words such as "you are Indra, Candra, Devendra" are used. In the same way the seer here should be understood to have praised the god Manyu. Earlier the seer Gṛtsamada also said:
+
+त्वमग्न इंद्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः । त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या ॥ (*tvamagna iṃdro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ | tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā ‖*)
+
+ा ॥ त्वमग्ने राजा वरुणो धृतव्रतस्त्वं मित्रो भवसि दस्म ईड्यः । त्वमर्यमा सत्पतिर्यस्य संभुजं त्वमंशो विदथे देव भाजय (*ā ‖ tvamagne rājā varuṇo dhṛtavratastvaṃ mitro bhavasi dasma īḍyaḥ | tvamaryamā satpatiryasya saṃbhujaṃ tvamaṃśo vidathe deva bhājaya*) (Ṛ. Saṃ. 2-1-3, 4)
+
+In Ṛks such as these, when praising Agni, the seer addresses and praises Agni with the names of various deities: Agni himself is Indra, he is the best among the good, he is Viṣṇu, he is Brahmā, he is Bṛhaspati, he is the creator, he is Varuṇa, he is Mitra, he is Aryaman, and so on. Such praises are many in the Ṛgveda.
+
+### Printed p. 324
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी॑हि मन्यो त॒वस॒स्तवी॑या॒न्तप॑सा यु॒जा वि ज॑हि॒ शत्रू॑न् ।  
+> अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑ुस्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्वं नः॑ ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । इहि । मन्यो इति । तवसः । तवीयान् । तपसा । युजा । वि । जहि । शत्रून् ।  
+> अमित्रहा । वृत्रहा । दस्युहा । चॆ । विश्वा । वसूनि । आ । भर । त्वं । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो त्वमभीहि । अभिगच्छास्मद्यज्ञं । कीदृशस्त्वं । तवसो बलवतोऽपि
+> तवीयानत्यंतं बलवान् । स त्वं तपसास्मत्पित्रा युजा सहायेन शत्रुन्वि जहि ।
+> किंचामित्रहामित्राणां हंता । अमित्रोऽस्निग्धः । तथा वृत्रहावरकाणां शत्रुणां
+> हंता तथा दस्युहा च । दस्युरुपक्षयकारी शत्रुः । तादृश मन्युदेव त्वं विश्वा
+> सर्वाणि वसूनि धनानि नोऽस्मभ्यमा भर । आहर ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, come to our sacrifice. What kind are you? Mightier even than the mighty. As such, with Tapas, our father, as ally, strike down the enemies. Moreover, be the slayer of foes; अमित्र (*amitra*) means one who is unfriendly. Likewise be the slayer of Vṛtra-like, obstructing enemies, and the slayer of the dasyu; the dasyu is an enemy who causes ruin. O Manyu-deva, such as you are, bring to us all riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मन्यो (*manyo*)—O Manyu-deva
+- अभीहि (*abhīhi*)—come graciously to us
+- तवसः (*tavasaḥ*)—than the powerful
+- तवीयान् (*tavīyān*)—you who have greater power
+- तपसा युजा (*tapasā yujā*)—united with Tapa, our father
+- शत्रून् (*śatrūn*)—the enemies
+- वि जहि (*vi jahi*)—defeat and destroy
+- वृत्रहा (*vṛtrahā*)—and the all-pervading destroyer of enemies
+- अमित्रहा (*amitrahā*)—the destroyer of the treacherous
+- दस्युहा (*dasyuhā*)—and the destroyer of the destroying enemy
+- त्वं (*tvaṃ*)—you
+- विश्वा (*viśvā*)—all
+- वसूनि (*vasūni*)—riches
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, come graciously to us. You who have greater power than the powerful, united with Tapa our father, defeat and destroy the enemies. You who are the all-pervading destroyer of enemies and the destroyer of the destroying enemy, bring to us all riches.
+
+##### English translation
+Come to us Manyu, who are the strongest of the strong; withas Tap
+
 ---
 
-**Progress note:** Done through printed p. 316. Sūkta 83 introduction: Manyu, deities of feeling, Ṛgvidhāna
+**Progress note:** Done through printed p. 324. pp. 317-324; printed p. 321 is a displaced page (Surya hymn verses 34-35 inside Sukta 83); its verse is a bold 'Verse 35' line, not a Rk heading, with a NOTE (user decision Nov 25 2026)
