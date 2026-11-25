@@ -20069,6 +20069,104 @@ Now, what are the nature and sign of the vaṣaṭkāra? Why is it to be used at
 
 देवपात्रं वा एतद्यद्वषट्कारो वषट्कारेति देवपात्रॆणैव तद्देवतास्तर्पयति ॥ (*devapātraṃ vā etadyadvaṣaṭkāro vaṣaṭkāreti devapātrèṇaiva taddevatāstarpayati ‖*) (Ai. Bā. 11-5)**NOTE**
 
+### Printed p. 569
+
+Now the nature of the vaṣaṭkāra and the anuvaṣaṭkāra will be explained. The word "वौषट् (*vauṣaṭ*)" recited at the end of a mantra while offering an oblation is called the vaṣaṭkāra. When a food-offering is presented to the gods to be eaten, it must be placed in a vessel or plate, as is customary in ordinary life. Offering it in a vessel makes it easy to eat. In a sacrifice the gods are invisible when they eat the offering. The oblation is offered to the gods by pouring it into Agni, that is, Agni carries to the gods the oblation poured into him for them. But how can the vessel holding the oblation be set before the gods while the oblation is being poured? This is impossible. So the mantra itself is recited in place of the vessel, and it is regarded as the vessel. The mere word "वौषट् (*vauṣaṭ*)" is this vessel. If "वौषट् (*vauṣaṭ*)" is pronounced at the end of the mantra, it is as if the oblation offered with the mantra had been placed in a vessel so that it can be eaten easily. The word "वौषट् (*vauṣaṭ*)" is therefore the vessel that serves the gods for drinking. For this reason, that is, in order to satisfy the gods by offering the oblation to them in a vessel, the hotṛ adds the word "वौषट् (*vauṣaṭ*)" at the end of the mantra, recites it and pours the oblation. This is the meaning of the word vaṣaṭkāra. Next the meaning of anuvaṣaṭkāra is explained:
+
+अनुवषट्करोति तद्यथादोऽश्वान्वा गा वा पुनरभ्याकारं तर्पयंत्येवमेवैतद्देवताः पुनरभ्याकारं तर्पयंति यदनुवषट्करोति............॥ (*anuvaṣaṭkaroti tadyathādo 'śvānvā gā vā punarabhyākāraṃ tarpayaṃtyevamevaitaddevatāḥ punarabhyākāraṃ tarpayaṃti yadanuvaṣaṭkaroti............‖*) (Ai. Brā. 11-5)
+
+In ordinary life people set grass and other fodder before horses, cows and other animals so that they eat, and coax them with endearing words. In the same way, since the oblation has to be offered to the gods through Agni, the Ṛk
+
+अग्ने वीहि पुरोळाशमाहुतं तिरोअह्न्यं । सहसः सूनुरस्यध्वरे हितः ॥ (*agne vīhi puroḷāśamāhutaṃ tiroahnyaṃ | sahasaḥ sūnurasyadhvare hitaḥ ‖*) (Ṛ. Saṃ. 3-28-3)
+
+or else
+
+अग्ने वीहि हविषा यक्षि देवान्तस्यध्वरा कृणुहि जातवेदः । (*agne vīhi haviṣā yakṣi devāntasyadhvarā kṛṇuhi jātavedaḥ |*) (Ṛ. Saṃ. 3-17-3)
+
+must be recited. Its meaning: "O Agni, eat this oblation or this purodāśa, or drink this soma juice. Convey to the gods this oblation offered into you through the homa." This Ṛk is to be recited to please the gods. It is called the anuvaṣaṭkāra.
+
+### Printed p. 570
+
+वज्रो वा एष यद्वषट्कारो यं द्विष्यात्तं ध्यायेद्वषट्करिष्यंस्तस्मिन्नेव तं वज्रमास्थापयति । (*vajro vā eṣa yadvaṣaṭkāro yaṃ dviṣyāttaṃ dhyāyedvaṣaṭkariṣyaṃstasminneva taṃ vajramāsthāpayati |*) (Ai. Brā. 11-6)
+
+The vaṣaṭkāra is a powerful weapon like the thunderbolt. If the sacrificer has an enemy and wishes to destroy him, then while offering the oblation with this vaṣaṭkāra he should pour the homa meditating in his mind "may that enemy be destroyed"; the vaṣaṭkāra then strikes that enemy like the blow of a thunderbolt and kills him.
+
+षळिति वषट्करोति षड्वा ऋतवः ऋतूनेव तत्कल्पयत्यतून्प्रतिष्ठापयत्यतून्वै प्रतितिष्ठत इदं सर्वमनु प्रतितिष्ठति यदितं किंच ॥ (*ṣaḷiti vaṣaṭkaroti ṣaḍvā ṛtavaḥ ṛtūneva tatkalpayatyatūnpratiṣṭhāpayatyatūnvai pratitiṣṭhata idaṃ sarvamanu pratitiṣṭhati yaditaṃ kiṃca ‖*)
+
+The word "वौषट् (*vauṣaṭ*)" contains the word "षट् (*ṣaṭ*)". Here "षट् (*ṣaṭ*)" means the six seasons. There are six seasons in a year. So if one offers the oblation with the vaṣaṭkāra, he satisfies the six seasons. Not only that: since everything is thereby satisfied, he becomes victorious in all undertakings. The next passage explains this at length:
+
+प्रतितिष्ठति य एवं वेद तदु ह स्माह हिरण्यदन्बैद एतानि वा एतेन षट् प्रतिष्ठापयति द्यौरंतरिक्षे प्रतिष्ठितान्तरीक्षं पृथिव्यां पृथिव्यप्स्वापः सत्ये सत्यं ब्रह्मणि ब्रह्म तपसीत्येता एव तत्पतिष्ठांतीरिदं सर्वमनु प्रतितिष्ठति यदिदं किंच प्रतितिष्ठति य एवं वेद........॥ (*pratitiṣṭhati ya evaṃ veda tadu ha smāha hiraṇyadanbaida etāni vā etena ṣaṭ pratiṣṭhāpayati dyauraṃtarikṣe pratiṣṭhitāntarīkṣaṃ pṛthivyāṃ pṛthivyapsvāpaḥ satye satyaṃ brahmaṇi brahma tapasītyetā eva tatpatiṣṭhāṃtīridaṃ sarvamanu pratitiṣṭhati yadidaṃ kiṃca pratitiṣṭhati ya evaṃ veda........‖*) (Ai. Brā. 11-6)
+
+The son of the sage Bidā, whose row of teeth was golden, said this on the subject: by the vaṣaṭkāra the hotṛ, as it were, establishes six places, from the heavenly world up to Brahma. That is: since the atmosphere lies below heaven, heaven rests upon the atmosphere. Likewise the atmosphere rests on the earth, the earth on the waters beneath, and the water on truth. If people are truthful, rain can fall in due season; therefore it is said that water is established in truth. That truth is established in Brahma (the Veda), and Brahma in austerity (tapas), which is the vaṣaṭkāra mantra. Hence it should be understood that the whole world is established in the vaṣaṭkāra. The man who knows this has, as it were, conquered everything.
+
+There are three varieties of vaṣaṭkāra. Their nature is explained:
+
+त्रयो वै वषट्कारा वज्रो धामच्छद्रिक्तः । (*trayo vai vaṣaṭkārā vajro dhāmacchadriktaḥ |*) (Ai. Brā. 11-7)
+
+### Printed p. 571
+
+Among vaṣaṭkāras there are three kinds: vajra, dhāmacchad and rikta.
+
+स यमेवोच्चैर्बलि वषट्करोति स वज्रः । तं तं प्रहरति द्विषते भ्रातृव्याय वधं योऽस्य स्तृत्यस्तस्मै स्तरवे तस्मात्स भ्रातृव्यवता वषट्कृत्यः ॥ (*sa yamevoccairbali vaṣaṭkaroti sa vajraḥ | taṃ taṃ praharati dviṣate bhrātṛvyāya vadhaṃ yo 'sya stṛtyastasmai starave tasmātsa bhrātṛvyavatā vaṣaṭkṛtyaḥ ‖*)
+
+Because the hotṛ pronounces this vaṣaṭkāra in a strong voice, it has the name vajra. When the sacrificer wishes to destroy those who are his enemies, then by employing this vaṣaṭkāra it strikes the sacrificer's enemy in the form of a thunderbolt and destroys him. Therefore a sacrificer who desires the destruction of an enemy should use this vaṣaṭkāra in the form of the vajra.
+
+अथ यः समः संततोऽनिर्हाणर्चः स धामच्छत् । तं तं प्रजाश्च पशवश्चानूपतिष्ठंते तस्मात्स प्रजाकामेन पशुकामेन वषट्कृत्यः ॥ (*atha yaḥ samaḥ saṃtato 'nirhāṇarcaḥ sa dhāmacchat | taṃ taṃ prajāśca paśavaścānūpatiṣṭhaṃte tasmātsa prajākāmena paśukāmena vaṣaṭkṛtyaḥ ‖*)
+
+Here an explanation of the manner of pronouncing the vaṣaṭkāra is needed. It was stated earlier that the word "वौषट् (*vauṣaṭ*)" is to be added and recited at the end of the yājyā mantra. In this connection, "वौषट् (*vauṣaṭ*)" must be pronounced in three ways, according to the three kinds of vaṣaṭkāra: vajra, dhāmacchad and rikta. When the vaṣaṭkāra called vajra is used, the yājyā mantra is pronounced in an ordinary voice, and at the end "वौषट् (*vauṣaṭ*)" is pronounced in a strong voice; and the last syllable of the yājyā mantra is joined with the syllable Om, that is, the last syllable is pronounced as if combined with Om, and then "वौषट् (*vauṣaṭ*)" is pronounced in a strong voice. In the Ṛk given earlier as an example,
+
+त्रिर्देवः पृथिवीमेष एतां वि चक्रमे शतर्चसं महित्वा । प्र विष्णुरस्तु तवसस्तवीयान्वेषं ह्यस्य स्थविरस्य नाम ॥ (*trirdevaḥ pṛthivīmeṣa etāṃ vi cakrame śatarcasaṃ mahitvā | pra viṣṇurastu tavasastavīyānveṣaṃ hyasya sthavirasya nāma ‖*)
+
+the last part is "स्थविरस्य नाम (*sthavirasya nāma*)". If Om is added to it, it becomes स्थविरस्य नामों (*sthavirasya nāmoṃ*). The Ṛk is thus pronounced स्थविरस्य नामों (*sthavirasya nāmoṃ*) in an even voice, and then the word "वौषट् (*vauṣaṭ*)" is pronounced in a strong voice. This is the manner of pronouncing the vaṣaṭkāra called vajra. Now, to pronounce the vaṣaṭkāra called dhāmacchad, the yājyā mantra is pronounced without any alteration, that is, only as स्थविरस्य नाम (*sthavirasya nāma*) (without Om at the end), and then the word "वौषट् (*vauṣaṭ*)" is recited. This is the manner of pronouncing the vaṣaṭkāra called dhāmacchad. The sacrificer who desires offspring and cattle should pour the homa with this dhāmacchad kind of vaṣaṭkāra.
+
+### Printed p. 572
+
+अथ येनैव षळवराध्नोति स रिक्तः । रिणक्त्यात्मानं रिणक्ति यजमानं पापीयान्षट्कर्ता भवति पापीयान्यस्मै वषट्करोति तस्मात्तस्याशां नेयात् ॥ (*atha yenaiva ṣaḷavarādhnoti sa riktaḥ | riṇaktyātmānaṃ riṇakti yajamānaṃ pāpīyānṣaṭkartā bhavati pāpīyānyasmai vaṣaṭkaroti tasmāttasyāśāṃ neyāt ‖*)
+
+If, in pronouncing the word "वौषट् (*vauṣaṭ*)", the syllable "षट् (*ṣaṭ*)" is pronounced softly in a low voice, that vaṣaṭkāra is called rikta. Rikta means "empty". So if the homa is poured with this rikta vaṣaṭkāra, the sacrificer is left in an empty state with nothing, and sin also befalls him. The ṛtvij who has the homa performed also becomes the worse sinner. Therefore neither a sacrificer nor a ṛtvij who desires welfare should ever use this rikta vaṣaṭkāra.
+
+किं स यजमानस्य पापभद्रमाद्रियेतेति ह स्माह योऽस्य होता स्यादित्यत्रैवैनं यथा कामयेत तथा कुर्यात् । यं कामयेत यथैवानीजानोऽभूत्तथैवेजानः स्यादिति यथैवास्य ऋचं ब्रूयात्तथैवास्य वषट्कुर्यात्सदृशमेवैनं तत्करोति ॥ (*kiṃ sa yajamānasya pāpabhadramādriyeteti ha smāha yo 'sya hotā syādityatraivainaṃ yathā kāmayeta tathā kuryāt | yaṃ kāmayeta yathaivānījāno 'bhūttathaivejānaḥ syāditi yathaivāsya ṛcaṃ brūyāttathaivāsya vaṣaṭkuryātsadṛśamevainaṃ tatkaroti ‖*)
+
+The ṛtvij called hotṛ, who plays the chief part in the sacrifice, may do to the sacrificer whatever he wishes, whether good or ill, as he pleases. For example, if the hotṛ wishes that the sacrificer should not obtain the proper fruit of the sacrifice, then, instead of pronouncing the yājyā mantra in the ordinary manner and the vaṣaṭkāra strongly, the hotṛ pronounces the yājyā and the vaṣaṭkāra mantras in one even voice; the sacrificer then does not obtain the fruit of the sacrifice.
+
+यं कामयेत पापीयान्स्यादित्युच्चैस्तरामस्य ऋचमुक्त्वा शनैस्तरां वषट्कुर्यात्पापीयांसमेवैनं तत्करोति (*yaṃ kāmayeta pāpīyānsyādityuccaistarāmasya ṛcamuktvā śanaistarāṃ vaṣaṭkuryātpāpīyāṃsamevainaṃ tatkaroti*)
+
+If the hotṛ wishes that the sacrificer should not obtain the fruit of the sacrifice and that only sin should befall him, then he should recite the Ṛk of the yājyā mantra in a strong voice and the vaṣaṭkāra in a soft voice. If he does so, sin befalls the sacrificer.
+
+यं कामयेत श्रेयान्सादिति शनैस्तरामस्य ऋचमुक्तोच्चैंस्तरां वषट्कुर्याच्छ्रिय एवैनं तच्छ्रियमादधाति । (*yaṃ kāmayeta śreyānsāditi śanaistarāmasya ṛcamuktoccaiṃstarāṃ vaṣaṭkuryācchriya evainaṃ tacchriyamādadhāti |*)
+
+Otherwise, if the hotṛ wishes that welfare should come to the sacrificer, then the yājyā mantra should be pronounced in a soft voice and the vaṣaṭkāra in a strong voice. If he does so, welfare comes to the sacrificer.
+
+संततमृचा वषट्कश्यं संतत्यै । संधीयते प्रजया पशुभिर्य एवं वेद ॥ (*saṃtatamṛcā vaṣaṭkaśyaṃ saṃtatyai | saṃdhīyate prajayā paśubhirya evaṃ veda ‖*) (Ai. Brā. 11-7)
+
+### Printed p. 573
+
+One important matter must be observed in pronouncing the yājyā mantra and the vaṣaṭkāra. After the yājyā mantra has been pronounced to its end, the vaṣaṭkāra must not be pronounced after a short pause. Regarding the vaṣaṭkāra as one (final) part of the yājyā mantra, one should pronounce it continuously, in an unbroken flow, from the beginning of the Ṛk up to "वौषट् (*vauṣaṭ*)", without stopping anywhere in between. The man who knows this obtains offspring and wealth in cattle and lives happily.
+
+There are certain rules that the hotṛ must follow in reciting the vaṣaṭkāra. They must be observed without fail. Otherwise, just as danger arises from using a sharp weapon, harm arises from using the vaṣaṭkāra:
+
+यस्यै देवताय्कॆ हविर्गृहीतं स्यात्तां ध्यायेद्वषट्करिष्यन्साक्षादेव तद्देवतां प्रिणाति प्रत्यक्षाद्देवतां यजति । (*yasyai devatāykè havirgṛhītaṃ syāttāṃ dhyāyedvaṣaṭkariṣyansākṣādeva taddevatāṃ priṇāti pratyakṣāddevatāṃ yajati |*) (the reference is printed as प (*pa*). बस- ११ (*basa- 11*).८ (*8*)) **NOTE**
+
+The hotṛ should meditate in his mind on the deity for whom he pours the homa with the vaṣaṭkāra, pronounce the mantra and pour the homa with the vaṣaṭkāra. If he does so, it is as if he had made the deity visible and satisfied her. Is it possible to see the gods directly, that is, to perceive them? Seeing them directly with the eyes is not possible. But by meditating in the mind one can imagine that the deity stands visible before one. This itself may be called "direct".
+
+वज्रो वै वषट्कारः स एष प्रहृतोशांतो दीदाय तस्य हैतस्य न सर्व इव शांतिं वेद न प्रतिष्ठां तस्माद्दाप्येतर्हि भूयानिव मृत्युस्तस्य हैषैव शांतिरेषा प्रतिष्ठा वागित्येव तस्याद्वषट्कृत्य वागित्यनुमंत्रयेत स एनं शांतो न हिनस्ति ॥ (*vajro vai vaṣaṭkāraḥ sa eṣa prahṛtośāṃto dīdāya tasya haitasya na sarva iva śāṃtiṃ veda na pratiṣṭhāṃ tasmāddāpyetarhi bhūyāniva mṛtyustasya haiṣaiva śāṃtireṣā pratiṣṭhā vāgityeva tasyādvaṣaṭkṛtya vāgityanumaṃtrayeta sa enaṃ śāṃto na hinasti ‖*)
+
+It was said earlier that the vaṣaṭkāra is sharp like a thunderbolt and that harm results if it is not used properly. Not everyone knows how to use it. Just as many meet death in wars when weapons are used heedlessly without knowing the method, so here too many may suffer harm from the misuse of the vaṣaṭkāra mantra. Therefore, to pacify it, the mantra beginning वागोजः (*vāgojaḥ*) should be recited. By reciting this mantra the harm that might arise from misuse of the vaṣaṭkāra is removed. There is no other remedy for such harm. So at the time of the sacrifice the mantra वागोजः (*vāgojaḥ*) should be recited after every vaṣaṭkāra. If this is done, no evil comes from the vaṣaṭkāra, which is of the nature of the thunderbolt. This is the view of some. Others speak differently.
+
+### Printed p. 574
+
+वषट्कार मा मां प्रमृक्षो माहं त्वां प्रमृक्षं बृहता मन उपह्वये व्यानेन शरीरं प्रतिष्ठासि प्रतिष्ठां गच्छ प्रतिष्ठां मा गमयेति वषट्कारमनुमंत्रयेत ॥ (*vaṣaṭkāra mā māṃ pramṛkṣo māhaṃ tvāṃ pramṛkṣaṃ bṛhatā mana upahvaye vyānena śarīraṃ pratiṣṭhāsi pratiṣṭhāṃ gaccha pratiṣṭhāṃ mā gamayeti vaṣaṭkāramanumaṃtrayeta ‖*)
+
+Concerning the anumantraṇa (pacification), the sacrificer should say as follows: "O vaṣaṭkāra, do not thrust me, who am performing the sacrifice, aside and destroy me; I too shall not thrust you away. By this great sacrificial rite I win over your mind. With the vyāna and the other winds I pervade your body and cooperate with you. You are the support of the whole multitude of living beings. Therefore go to your own excellent place, and grant that I too may go to mine." So the sacrificer should pray.
+
+तदु ह स्माह दीर्घमेतत्सदप्रभ्वोजः सह ओजः । इत्येव वषट्कारमनुमंत्रयेत । ओजश्च ह वै सहश्च वषट्कारस्य प्रियतमे तन्वौ प्रियेणैवैनं तद्धाम्ना समर्धयति प्रियेण धाम्ना समृध्यते य एवं वेद ॥ (*tadu ha smāha dīrghametatsadaprabhvojaḥ saha ojaḥ | ityeva vaṣaṭkāramanumaṃtrayeta | ojaśca ha vai sahaśca vaṣaṭkārasya priyatame tanvau priyeṇaivainaṃ taddhāmnā samardhayati priyeṇa dhāmnā samṛdhyate ya evaṃ veda ‖*)
+
+Some Brahmavādins say: this mantra is very long, so reciting it is very laborious; moreover, does it pacify the vaṣaṭkāra, which is of the nature of the thunderbolt, or not? Therefore the short mantra ओजः सह ओज; (*ojaḥ saha oja;*), which pacifies the vaṣaṭkāra, may be recited. This mantra has only three words. Ojas means capacity, sahas means strength; these two are said to be the dear bodies of the vaṣaṭkāra. By thus pronouncing the bodies dear to the vaṣaṭkāra, the anger and the like that arise in the vaṣaṭkāra from deficiency in the mantra and so on are pacified, and it brings benefit to the sacrificer. The third word of the mantra, ओजः (*ojaḥ*), is repeated out of respect; it has no separate meaning. To the man who knows this the vaṣaṭkāra brings prosperity.
+
+वाच्य वै प्राणापानौ च वषट्कारस्त एते वषट्कृते वषट्कृते व्यत्क्रामंति ताननुमंत्रयेत नागोजः सह ओजो मयि प्राणापानावित्यात्मन्येव तद्धोता वाचं च प्राणापानौ च प्रतिष्ठापयति सर्वायुः सर्वायुत्वाय सर्वमायुरेति य एवं वेद ॥ (*vācya vai prāṇāpānau ca vaṣaṭkārasta ete vaṣaṭkṛte vaṣaṭkṛte vyatkrāmaṃti tānanumaṃtrayeta nāgojaḥ saha ojo mayi prāṇāpānāvityātmanyeva taddhotā vācaṃ ca prāṇāpānau ca pratiṣṭhāpayati sarvāyuḥ sarvāyutvāya sarvamāyureti ya evaṃ veda ‖*) (Ai. Brā. 11-8)
+
+Speech, prāṇa (in-breath) and apāna (out-breath) are the nature of the vaṣaṭkāra. Whenever the hotṛ pronounces the vaṣaṭkāra at the end of a mantra, this speech, prāṇa and apāna go out of the hotṛ's body. To prevent this, they must be included in the anumantraṇa. वागोजः सह ओजो मयि प्राणापानौ (*vāgojaḥ saha ojo mayi prāṇāpānau*) is that anumantraṇa. Its meaning: capacity
+
 ---
 
-**Progress note:** Done through printed p. 568. pp. 563-568 (batch API)
+**Progress note:** Done through printed p. 574. pp. 569-574 (batch API)
