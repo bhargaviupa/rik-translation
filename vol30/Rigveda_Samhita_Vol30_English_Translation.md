@@ -18392,9 +18392,6 @@ Where there are two friends, giving to one another, accepting what is given, tel
 > पंथां ।
 
 ### Printed p. 560
-#### Ṛk 5
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > ओ हि वर्तं॑ते॒ रथ्ये॑व च॒क्रान्यम॑न्य॒मुप॑ तिष्ठंत॒ रायः॑ ॥ ५ ॥
 
