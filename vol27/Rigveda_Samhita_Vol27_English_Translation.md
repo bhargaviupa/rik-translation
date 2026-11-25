@@ -14052,6 +14052,260 @@ Explaining the meaning of the word बतः (*bataḥ*), Yāska has given the e
 
 The word बत (*bata*) is a particle (an indeclinable) expressing sorrowful wonder, or distress and pity. O Yama, your mind is not firm; it is very weak. That is, there is no steadiness of mind. We cannot understand your mind as being right in this way. Alas, what pain! As a creeper winds round the tree near it, another woman will clasp you tightly with her arms. To see and bear this is very painful. लिबुजा (*libujā*) means a kind of creeper. It winds round, spreading its tendrils all over the tree. Because it divides or spreads and joins itself to the tree in this way, लिबुजा (*libujā*) is the name of the व्रतति (*vratati*), the creeper. Likewise the word प्रतति (*pratati*) too may be formed from the root वृ (*vṛ*), meaning "choose the tree one wants", or from the root सि (*si*), meaning "bind round", or from the root तनु (*tanu*), meaning "spread all round". This word means creeper, vine.
 
+### Printed p. 381
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्यमू॒ षुत्वं य॑म्य॒न्य उ॒ त्वां परि॑ ष्वजाते॒ लिबु॑जीव वृ॒क्षं।  
+> तस्य॑ वा॒ त्वं मन॑ इ॒च्छा स वा॒ तवाधा॑ कृणुष्व सं॒विदं॒  ॑
+> सुभद्रां ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्यं । ऊं इति । सु । त्वं । यमि । अन्यः । ऊं इति । त्वां । परि । स्वजाते । लिबुजाइव । वृक्षं ।  
+> तस्य । वा । त्वं । मनः । इच्छ । सः । वा । तव । अध । कृणुष्ट । संविदं । सुभद्रां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमः पुनरस्याह । हे यमि त्वमन्यमु अन्यं पुरुषमेव सु सुष्टु परिष्वज!
+> अन्य उ अन्नोऽपि पुरुषस्त्वां परिष्वजाते । तत्र दृष्टांतः । लिबुजीव वृक्षं यथा
+> वल्ली गाढं वृक्षं परिष्वजते तद्वत् । तथा सति । वाशब्द: समुच्चये । त्वं तस्य च
+> पुरुषस्य मन इच्छॆ । कामयि । तस्य त्वं वशवर्तिनी भवेत्यर्थः । स च पुरुषस्तव मन
+> इच्छतु । अधाध परस्परवशवर्तित्वानंतरं त्वं तेन सह सुभद्रां सुकल्याणीं संविदं
+> परस्परसंभोगसुखसंवित्तिं कृणुष्ट । कुरुष्ट ॥
+
+##### Gist of the bhāṣya
+
+Yama speaks to Yamī again. "O Yamī, embrace another man alone, and embrace him well. Another man will embrace you, as a creeper (लिबुजीव (*libujīva*)) embraces a tree, that is, as a vine clasps a tree tightly." The word वा (*vā*) is used in the sense of joining. "Desire the mind of that man", that is, be obedient to him. "And let that man desire your mind. Then, once you are mutually obedient, make with him a most auspicious union (संविदं (*saṃvidaṃ*)), a knowledge of the pleasure of mutual enjoyment."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यमि (*yami*)—O Yamī
+- त्वं (*tvaṃ*)—you
+- अन्यमु (*anyamu*)—another man alone
+- सु (*su*)—exceedingly; embrace
+- अन्य उ (*anya u*)—another man
+- लिबुजा (*libujā*)—a creeper
+- वृक्षं इव (*vṛkṣaṃ iva*)—as it clasps a tree
+- त्वां (*tvāṃ*)—you
+- परि ष्वजाते (*pari ṣvajāte*)—embraces
+- त्वं (*tvaṃ*)—you
+- तस्य (*tasya*)—of that man
+- मनः (*manaḥ*)—the mind
+- इच्छॆ (*icchè*)—desire
+- सः (*saḥ*)—he
+- तव (*tava*)—let him desire you (love you)
+- सुभद्रां (*subhadrāṃ*)—auspicious
+- संविदं (*saṃvidaṃ*)—union
+- कृणुष्ट्वा (*kṛṇuṣṭvā*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Yamī, embrace another man exceedingly. Let the other man embrace you as a creeper clasps a tree. Love him; let him love you deeply. Build an auspicious union with him.
+
+### Printed p. 382
+
+##### English translation
+(Yama speaks). You, Yami, embrace another ; and let another embrace you as a creeper a tree : seek his affection, let him seek yours ; and make a happy union.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the word Yamī, Yāska has given the following etymological explanation for the present Ṛk: यमी व्याख्याता । तस्यैषा भवति। अन्यमू षु त्वं यम्यन्य उ त्वां परि ष्वजाते लिबुजीव वृक्षं । तस्य वा त्वं मन इच्छा स वा तनाधा कृणुस्व संविदं सुभद्रां ॥ अन्यमेव हि त्वं यम्यन्यस्त्वां परिष्वंक्ष्यते लिबुजीव वृक्षं तस्य वा त्वं मन इच्छ स वा तनाधानेन कुरुष्ट संविदं सुभद्रां कलाणभद्रां ॥ यमी यमं चकमे तां प्रत्याचक्षेत्याख्यानं ॥ (*yamī vyākhyātā | tasyaiṣā bhavati| anyamū ṣu tvaṃ yamyanya u tvāṃ pari ṣvajāte libujīva vṛkṣaṃ | tasya vā tvaṃ mana icchā sa vā tanādhā kṛṇusva saṃvidaṃ subhadrāṃ ‖ anyameva hi tvaṃ yamyanyastvāṃ pariṣvaṃkṣyate libujīva vṛkṣaṃ tasya vā tvaṃ mana iccha sa vā tanādhānena kuruṣṭa saṃvidaṃ subhadrāṃ kalāṇabhadrāṃ ‖ yamī yamaṃ cakame tāṃ pratyācakṣetyākhyānaṃ ‖*) (Ni. 11-34).
+The word Yamī has been explained earlier. The present Ṛk is a mantra addressed to the woman Yamī: O Yamī, truly, embrace another man (leaving me), clasping him tightly as a creeper winds round a tree. You understand his mind and let him understand yours, and behave accordingly. O Yamī, with him, through this kind of pleasure of love, obtain excellent happiness and joy and be glad. This is what Yama said to Yamī in the past, when the woman Yamī loved her own elder brother Yama and desired sexual union with him.
+
+## Sūkta 11 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषेति नवर्चमेकादशं सूक्तमांगेर्हविर्धानस्यार्षमाग्नेयं । सप्तम्याद्यास्ति प्रस्रिष्टुभः शिष्टा जगत्यः। तथा चानुक्रांतं । वृषा नवांगिर्हविर्धान आग्नेयं
+> तु त्रित्रिष्टुबंतमिति ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The eleventh sūkta, वृषा (*vṛṣā*), has nine Ṛks. Its seer is Havirdhāna Āṅgi, its deity Agni. From the seventh Ṛk onward the verses are triṣṭubh and the rest are jagatī. The Anukramaṇī says the same. The use of the sūkta has been stated.
+
+##### Anuvāda
+
+This sūkta वृषा (*vṛṣā*) is the eleventh sūkta in the first anuvāka. It has nine Ṛks. Its seer is Havirdhāna Āṅgi; its deity is Agni; the three Ṛks from the seventh onward are in the triṣṭubh metre. The remaining
+
+### Printed p. 383
+Ṛks are in the jagatī metre. The Anukramaṇī says: वृषा नवांगिर्हविर्धान आग्नेयं तु त्रित्रिष्टुबंतं (*vṛṣā navāṃgirhavirdhāna āgneyaṃ tu tritriṣṭubaṃtaṃ*). The use of the sūkta has been stated earlier.
+
+Sūkta 11
+Maṇḍala 10; Anuvāka 1; Sūkta 11.
+Aṣṭaka 7; Adhyāya 6; Vargas 9, 10.
+Number of Ṛks in the sūkta: 9.
+Seer: Havirdhāna Āṅgi. **NOTE**
+Deity: Agni.
+Metre: 1-6 Jagatī; 7-9 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ वृष्णे॑ दुदुहे॒ दोह॑सा दि॒वः पयां॑सि य॒ह्वो अदि॑ते॒रदा॑भ्यः ।  
+> विश्वं॒ स वे॑द॒ वरु॑णो॒ यथा॑ धि॒या स य॒ज्ञियो॑ यजतु  
+> य॒ज्ञिया॑ ऋ॒तून् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । वृष्टे । दुदुहे । दोहसा । दिवः । पयांसि । यह्वः । अदितेः । अदाभ्यः ।  
+> विश्वं । सः । वेद । वरुणः । यथा । धिया । सः । यज्जियः । यजतु । यज्जियान् ।  
+> यतून् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषाहुतिद्वारेण वृष्टेर्वर्षिता यहो महानदाभ्यः केनाप्यहिंस्योऽग्निरदितेरक्षणायागक्रियस्य वृष्णो यज्ञद्वारेण स्तुतीनां हविषां वा वर्षितुर्यजमानस्यार्थाय दोहसा दोहनेन महता प्रक्षारणेन दिवः सकाशात्पयांसि वृष्टिलक्षणान्युदकानि दुदुहे । दोग्धि । प्रक्षारयति । किंच यथा वरुण आदित्यो
+> धियात्मानुरूपया प्रज्ञया विश्वं सर्वं वेद जानाति तथा सोऽयमग्निर्जानातीत्यर्थः । यज्जियो यज्ञार्हो यज्जियान् यज्ञार्हानृतून्यजतु। पूजयतु!
+
+##### Gist of the bhāṣya
+
+Agni is the showerer (वृषा (*vṛṣā*)): through the oblation he is the rainer of rain. He is great (यह्वः (*yahvaḥ*)) and unharmed by anyone (अदाभ्यः (*adābhyaḥ*)). For the protection of the sacrificer, whose sacrificial work is imperishable (अदितेः (*aditeḥ*)), and who is the showerer of praises or oblations through the sacrifice, he milks (दुदुहे (*duduhe*)) with a great milking (दोहसा (*dohasā*)), that is, a great pouring out, the waters in the form of rain from heaven. Further, as Varuṇa, that is Āditya, knows everything by his understanding (धिया (*dhiyā*)) suited to himself, so does this Agni know. Fit for sacrifice (यज्जियः (*yajjiyaḥ*)), may he worship the seasons fit for sacrifice (यज्जियान् (*yajjiyān*)).
+
+### Printed p. 384
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the giver of desired objects
+- यह्वः (*yahvaḥ*)—the great
+- अदाभ्यः (*adābhyaḥ*)—the unharmed Agni
+- अधितेः (*adhiteḥ*)—of the one whose sacrificial work is imperishable
+- वृष्टः (*vṛṣṭaḥ*)—for the sacrificer who offers oblations
+- दोहसा (*dohasā*)—by squeezing and milking the cloud
+- दिवः (*divaḥ*)—from the atmosphere
+- पयांसि (*payāṃsi*)—the waters of rain
+- दुदुहे (*duduhe*)—he milks
+- यथा (*yathā*)—in what manner
+- वरुणः (*varuṇaḥ*)—Āditya
+- धिया (*dhiyā*)—by his understanding
+- विश्वं (*viśvaṃ*)—everything
+- वेद (*veda*)—knows, so
+- सः (*saḥ*)—Agni also knows
+- यज्जियः (*yajjiyaḥ*)—fit for sacrifice
+- सः (*saḥ*)—Agni
+- यज्जियान् (*yajjiyān*)—worthy of worship
+- ऋतून् (*ṛtūn*)—relying on the sacrificial seasons
+- यजतु (*yajatu*)—let him worship
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the giver of desired objects, the great, the unharmed, squeezes the clouds and pours rain for the sacrificer, whose sacrificial work is imperishable and who offers oblations. As Āditya knows everything by his understanding, so also does Agni know. May Agni, who is fit for sacrifice, worship, relying on the sacrificial seasons that are worthy of worship.
+
+##### English translation
+The great, the unconquerable (Agni), the showerer, milks openly with a (great) milking the streams (of prosperity) from heaven for the un-wearying sacrifice; like Vaurna, he knows everything by his under-standing : may he who is skilled in sacrifice observe the sacrificirl seasons.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रप॑द्गंध॒र्वीरप्या॑ च॒ योष॑णा न॒दस्य॑ ना॒दे परि॑ पातु मे॒  ॑
+> मनः ।  
+> इ॒ष्टस्य॒ मध्यॆ॒ अदि॑ति॒र्निधा॑तु नो॒ भ्राता॑ नो ज्ये॒ष्ठः प्र॑थ॒मो  ॑
+> वि वोचति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रपत् । गंधर्वीः । अप्या । च । योषणा । नदस्य । नादे । परि । पातु । मे । मनः ।  
+> इष्टस्य । मध्ये । अदितिः । नि । धातु । नः । भ्राता । नः।ज्येष्ठः । प्रथमः । वि । वोचति॥
+
+### Printed p. 385
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रसद्रपितवत्यग्निगुणानुक्तवती गंधर्वीर्गंधर्वस्य स्त्रैस्याद्भिः संस्कृता
+> योषणाहुतिलक्षणा स्त्री च । अग्निं तर्पितवतीति शेषः । नदस्य । स्तोतृनामैतत् ।
+> स्तोतुर्मे मम स्वभूतं मनो नादे स्तुतिलक्षणे शब्दे परि पातु । अग्निः सम्यग्रक्षतु । अहं समाहितमना भूत्वा सम्यक् स्तुतिं करोमीत्यर्थः । किंचादितिरुखंडनीयोऽग्निर्नोऽस्मानिष्टस्य यागस्य मध्यॆ नि धातु । निदधातु । नितरां स्थापयतु ।
+> प्रथमः सर्वेषां यजमानानां मुख्यो नोऽस्माकं ज्येष्ठो भ्राता वि वोचति ।
+> विशेषेण ब्रवीति । स्तौतीत्यर्थः । नाहमेव केवलो यजनशीलः किंतु सर्व
+> एवास्मत्कुलीनो देवयागप्रिय इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+रपत् (*rapat*) is the one who speaks, that is, who has spoken the qualities of Agni. गंधर्वीः (*gaṃdharvīḥ*) is the Gandharva's woman, and अप्या (*apyā*) means consecrated with waters; योषणा (*yoṣaṇā*) is the woman in the form of the oblation. The supplied word is "has gratified Agni". नदस्य (*nadasya*) is a name for a praiser. Let Agni fully guard my own mind, mine who am the praiser, in the sound (नादे (*nāde*)) which is praise. The meaning is: I, with a collected mind, make the praise properly. Further, let Agni, Aditi, the unbreakable one, place us in the midst of the sacrifice (इष्टस्य (*iṣṭasya*)). The first, the chief of all sacrificers, our elder brother, speaks specially, that is, praises. The meaning is that not I alone am given to sacrificing, but everyone of our family loves the worship of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रपत् (*rapat*)—reciting the qualities of Agni
+- गंधर्वीः (*gaṃdharvīḥ*)—the Gandharvī
+- अप्या (*apyā*)—she who is consecrated with water
+- योषणा च (*yoṣaṇā ca*)—and the woman possessing the form of the oblation **NOTE**
+- नदस्य (*nadasya*)—of the praiser
+- मे (*me*)—my
+- मनः (*manaḥ*)—mind
+- नादे (*nāde*)—in the sound in the form of praise
+- परिपातु (*paripātu*)—let her guard completely
+- अदितिः (*aditiḥ*)—the perfect Agni
+- नः (*naḥ*)—us
+- इष्टस्य (*iṣṭasya*)—of the sacrifice
+- मध्यॆ (*madhyè*)—in the middle
+- नि धातु (*ni dhātu*)—let him establish
+- प्रथमः (*prathamaḥ*)—the chief among the sacrificers
+- नः (*naḥ*)—our
+- ज्येष्ठः भ्राता (*jyeṣṭhaḥ bhrātā*)—elder brother
+- वि वोचति (*vi vocati*)—recites the praise
+
+##### भावार्थ (Bhāvārtha)
+
+May the Gandharvī who recites the qualities of Agni, the woman consecrated with water and having the form of the oblation, make my mind, the mind of the praiser, rest in the act of praise. May the perfect Agni establish us in the middle of the sacrifice. The chief of all sacrificers, our elder brother also, recites the praise.
+
+##### English translation
+The Gandharvi and the water-consecrated feminine oblation praise Agni: may He be favourable to the thought of me, raising my voice in his praise: may Agni place us in the midst of the sacrifice; the chief (of the worshippers), our elder brother, repeats his various laudations.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो चि॒न्नु भ॒द्रा क्षु॒मती॒ यश॑स्वत्यु॒षा उ॑वास॒ मन॑वे॒ स्व॑र्वतिः।  
+> xxvii 25
+
+### Printed p. 386
+
+> यदीमुशंतमुशतामनु क्रतुमग्निं होतारं विदथाय  
+> जीजनत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सो इति । चित् । नु । भद्रा । क्षुमती । यशस्वती ! उषाः । उवास । मनवे ।  
+> स्वःसवती ।  
+> यत् । ईं । उशंतं । उशतां । अनु । क्रतुं । अग्निं । होतारं । विदथाय ।  
+> जीजनत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्रा भजनीया क्षुमती शब्दवती यशस्वत्यन्नवती कीर्तिमती ना सो चित्
+> सैव प्रसिद्धोषा मनवे मनुष्याय यजमानाय स्वर्व्यादित्यवती सती नु
+> क्षिप्रमुवास । उषितवती । उदितवतीत्यर्थः । कदोदितवतीति उच्यते । यद्यदोशंतं स्तुतिं हविश्च कामयमानमुशतां यष्टुं कामयमानानां संबंधिनं
+> होतारं देवानामाह्वातारं होमनिष्पादकं वेमेनमग्निमनु क्रतुं स्तुतिकर्मणः पश्चाद्विदथाय यजनीयाय यज्ञार्थं जीजनन् । ऋत्विग्यजमाना
+> जनयंतीत्यर्थः । तदोदितवतीति संबंधः ।
+
+##### Gist of the bhāṣya
+
+भद्रा (*bhadrā*) is the lovely one (to be resorted to), क्षुमती (*kṣumatī*) the one possessing sound, यशस्वती (*yaśasvatī*) the one possessing food and fame. That same well-known Uṣas, accompanied by the sun (स्वर्वती (*svarvatī*)), has quickly dawned (उवास (*uvāsa*)) for man (मनवे (*manave*)), the sacrificer, that is, she has risen. When did she rise? It is said: when, after the act of praise, for the sacrifice (विदथाय (*vidathāya*)), the priests and sacrificers beget this Agni, who desires praise and oblation, who is connected with those wishing to sacrifice, the invoker of the gods and accomplisher of the oblation. The meaning is that the priests and sacrificers bring him forth; she rose then.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- उशंतं (*uśaṃtaṃ*)—the one who desires the oblation
+- उशतां (*uśatāṃ*)—for the gods who desire the oblation
+- होतारं (*hotāraṃ*)—the one who gives the invocation
+- ईं अग्निं (*īṃ agniṃ*)—this Agni
+- अनुक्रतुं (*anukratuṃ*)—only after the act of praise
+- विदथाय (*vidathāya*)—for the sacrifice
+- जीजनन् (*jījanan*)—when the priests produce, then
+- भद्रा (*bhadrā*)—the auspicious one
+- क्षुमती (*kṣumatī*)—the one possessing sound
+- यशस्वती (*yaśasvatī*)—the one possessing food
+- सो चित् उषाः (*so cit uṣāḥ*)—that same famous goddess Uṣas
+- मनवे (*manave*)—for the benefit of man
+- स्वर्वती (*svarvatī*)—accompanied by Āditya
+- नु (*nu*)—quickly
+- उवास (*uvāsa*)—has risen
+
+##### भावार्थ (Bhāvārtha)
+
+When the priests, for the sacrifice and only after the act of praise, produce this Agni, who himself desires the oblation and who gives the invocation to the gods who desire the oblation, then that same famous goddess Uṣas, auspicious, possessing sound and food, accompanied by Āditya, has quickly risen for the benefit of man.
+
 ---
 
-**Progress note:** Done through printed p. 380. pp. 375-380 (batch API)
+**Progress note:** Done through printed p. 386. pp. 381-386 (batch API)
