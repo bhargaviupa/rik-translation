@@ -1,0 +1,35 @@
+{
+ "vol": 23,
+ "mandala": 7,
+ "branch": "claude/zen-euler-5ntywc",
+ "source": [
+  "vol23/html/rig_23.md@1-856"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol23/Rigveda_Samhita_Vol23_Kannada_Text.md",
+  "en": "vol23/Rigveda_Samhita_Vol23_English_Translation.md"
+ },
+ "work": "vol23/work",
+ "window": 6,
+ "mandalas": [
+  7,
+  8
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "layout": "subheads",
+ "printed_english_label": "English translation",
+ "branches": [
+  "claude/zen-euler-5ntywc"
+ ]
+}

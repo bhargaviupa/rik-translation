@@ -1,0 +1,12 @@
+# Brief: does the new English of Sāyaṇa's bhūmikā contradict Vol 1?
+
+The question the user asked (Nov 24 2026): "ensure the meanings don't contradict". Not: is it identical. Vol 1 gives the Kannada edition's version of Sāyaṇa's Ṛgveda-bhāṣya-bhūmikā (Part II of `vol1/Rigveda_Samhita_Vol1_English_Translation.md`, from the heading `# PART II: Sāyaṇācārya's Ṛgveda-Bhāṣya-Bhūmikā`, about line 5548 to line 13119; Chapters 1–18, with the Kannada translator's own expansions and notes). The new English is `sayana_book/en/M0_S00N.md`, made from the Sanskrit of the Wikisource compilation page alone, unit by unit (`SBh 0.N.PAGE.U`; the Sanskrit of each unit is in `sayana_book/task/M0_S00N.md`).
+
+You are given one part N. For each run of units that makes one point (an objection, its answer, a quoted sūtra, a definition):
+1. find where Vol 1 says the same thing (use its chapter headings and the Sanskrit words, sūtra numbers and names that both texts carry; Vol 1 contains quoted Sanskrit as well as English);
+2. decide: **consistent** (same meaning, whatever the wording) · **differs in detail** (one says more, or a different example, or a different order, but no clash) · **contradicts** (the two say incompatible things: a different claim, a reversed argument, a different author for a quotation, a different count, a negation missing) · **not found** (nothing corresponding in Vol 1).
+3. A difference that may come from a misread letter of the Sanskrit (the Wikisource text is a scan transcription with OCR slips) or from the Kannada translator adding to Sāyaṇa is "differs in detail" only if the sense is not touched; if it is touched, it is "contradicts" and you say which of the two readings the other text supports.
+
+Write `sayana_book/verify/M0_S00N_vs_vol1.tsv` with the columns: first unit · last unit · Vol 1 location (line numbers and the chapter heading) · verdict · one sentence of explanation (for **contradicts** and **differs in detail** quote both texts in a few words). One row per run of units, in the order of the units, covering every unit of the part. Do not edit Vol 1 or the new English; do not commit or push. Report: the number of rows by verdict, and the rows with **contradicts**, in full.
+
+Be honest about limits: Vol 1 is a long file and you will not read all of it; say which parts you searched and which units you could not place (verdict **not found**, with the words you searched for). Do not guess a match.
