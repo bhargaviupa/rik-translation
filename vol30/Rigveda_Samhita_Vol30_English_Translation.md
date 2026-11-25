@@ -30952,6 +30952,261 @@ Augment our prayer and sacrifice, Agni, with your fires; do you at our sacrifice
 
 The hymn अयमग्न (*ayamagna*) has eight Ṛks; it is the fourteenth sūkta and addressed to Agni. शार्ङ्ग (*śārṅga*) is the name of a particular bird. The Śārṅgas, Jaritṛ and the others, four (seers), have the dṛcās in order. ()
 
+### Printed p. 928
+
+> द्रष्टारः । आदितो द्वे जगत्यौ । अथ चतस्रस्त्रिष्टुभः । ततो द्वे अनुष्टुभौ । तथा
+> चानुक्रांतं । अयमष्टौ द्वृचाः शार्ङ्गा जरिता द्रोणः सारिसृक्वः स्तंबमित्रश्चाग्नेयमाद्ये जगत्यौ चतस्रश्च त्रिष्टुभ इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his introduction to the sūkta. The seers are Jaritṛ and three others, of the Śārṅga clan, one for each pair of ṛks in order. The first two ṛks are Jagatī, the next four are Triṣṭubh, and the last two are Anuṣṭubh. He cites the Anukramaṇī: अयमष्टौ द्वृचाः शार्ङ्गा जरिता द्रोणः सारिसृक्वः स्तंबमित्रश्चाग्नेयमाद्ये जगत्यौ चतस्रश्च त्रिष्टुभ इति ॥ (*ayamaṣṭau dvṛcāḥ śārṅgā jaritā droṇaḥ sārisṛkvaḥ staṃbamitraścāgneyamādye jagatyau catasraśca triṣṭubha iti ‖*). He then says that the viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta beginning "ayam agne" is the fourteenth sūkta in the eleventh anuvāka. It has eight ṛks. The seers of this sūkta are four persons of the Śārṅga clan, Jaritṛ and the others, one for each pair of ṛks in order. Śārṅga means the name of a bird. Agni is the deity. The first two ṛks of this sūkta are in the Jagatī metre. The next four ṛks (3–6) are in the Triṣṭubh metre. The next two ṛks (7–8) are in the Anuṣṭubh metre. The Anukramaṇī says: अयमष्टाद्वृचाः शार्ङ्गा जरिता द्रोणः सारिसृक्वः स्तंबमित्रश्चाग्नेयमाद्ये जगत्यौ चतस्रश्च त्रिष्टुभः (*ayamaṣṭādvṛcāḥ śārṅgā jaritā droṇaḥ sārisṛkvaḥ staṃbamitraścāgneyamādye jagatyau catasraśca triṣṭubhaḥ*). The viniyoga has already been stated earlier.
+
+##### Particulars
+
+Maṇḍala 10; Anuvāka 11; Sūkta 142. Aṣṭaka 8; Adhyāya 7; Varga 30. Number of ṛks in the sūkta: 8.
+Ṛṣi: Śārṅgas — ṛks 1–2, जरिता (*jaritā*); 3–4, द्रोणः (*droṇaḥ*); 5–6, सारिस्कृत्वः (*sāriskṛtvaḥ*); 7–8, स्तंबमित्रः (*staṃbamitraḥ*).
+Devatā: Agni.
+Chandas: 1–2 Jagatī; 3–6 Triṣṭubh; 7–8 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यम॑ग्ने जरि॒ता त्वे अ॑भू॒दपि॒ सह॑सः सूनो न॒ह्य१॒॑ १ नृदस्त्याप्यं॑ ।  
+> भ॒द्रं हि शर्म॑ त्रि॒वरू॑थ॒मस्ति॑ त आ॒रे हिंसा॑ना॒मप॑ दि॒द्युमा  ॑
+> कृधि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । अग्ने । जरिता । त्वे इति । अभूत् । आपि । सहसः । सूनो इति । नहि । अन्यत् ।  
+> अस्ति । अप्यं ।
+
+### Printed p. 929
+
+> भद्रं । हि । शर्म । त्रिवरूथं । अस्ति । ते । आरे । हिंसानां । अप । दिद्युं । आ । कृधि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वे त्वयि ॥ सुपां सुलुगिति सप्तम्याः शेआदेशः ॥ आयमृषिर्जरिता
+> स्तोताभूदपि । अपिशब्दः संभावनायां । इदानीं स्तोतृत्वेन संभाव्यते । तत्र
+> कारणमाह । हे सहसः सूनो बलस्य पुत्र त्वत्तोऽन्यदाप्यमाप्तव्यं न ह्यस्ति । न
+> खलु विद्यते । अतः प्राप्तव्यं त्वामेव स्तुत्या प्राप्नोमि । भद्रं कल्याणं त्रिवरूथं
+> दुःखत्रयस्य निवारकं शर्म सुखं हि यस्मात्ते तनास्ति विद्यते । अथवा शोभनं
+> त्रिवरूथं त्रिभूमिकं गृहं तनास्ति हि । अतो हिंसानां हिंस्यमानानाममस्माकमारे
+> दूरे दिद्युं दीप्यमानामात्मीयां ज्वालामपा कृधि । अपाकुरु । निवारय ॥
+> करोतेश्चांदसो विकरणस्य लुक् । श्रुशृणुष्यकृवृभ्य इति हेर्धिभावः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, त्वे (*tve*) means 'in you'. This seer Jaritā, the praiser, has become yours; the word अपि (*api*) is used in the sense of likelihood: he is now thought of as a praiser." Sāyaṇa gives the reason: "O son of strength, there is nothing else to be attained apart from you. So by praise I attain you alone, who are to be attained. Auspicious happiness, a warder-off of the three sorrows (त्रिवरूथं (*trivarūthaṃ*)), is with you." Or else: "a fine three-storeyed house is with you." Therefore: "Remove far from us, who are being harmed, your blazing flame. Drive it away, ward it off."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वे (*tve*)—in you (yourself) **NOTE**
+- आयं (*āyaṃ*)—this seer (this seer called Jaritṛ)
+- जरिता (*jaritā*)—the praiser
+- अभूदपि (*abhūdapi*)—has become
+- सहसः (*sahasaḥ*)—of strength
+- सूनो (*sūno*)—O Agni, the son
+- अन्यत् (*anyat*)—other than you
+- आप्यं (*āpyaṃ*)—a thing to be obtained
+- नहि अस्ति (*nahi asti*)—there is none at all
+- भद्रं (*bhadraṃ*)—auspicious
+- त्रिवरूथं (*trivarūthaṃ*)—removing the three kinds of sorrow
+- शर्म (*śarma*)—happiness
+- हि (*hi*)—for which reason
+- ते (*te*)—with you
+- अस्ति (*asti*)—there is; therefore
+- हिंसानां (*hiṃsānāṃ*)—harmful to us **NOTE**
+- आरे (*āre*)—far away
+- दिद्युं (*didyuṃ*)—your flame, shining brightly
+- अप आ कृधि (*apa ā kṛdhi*)—ward off
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, this seer called Jaritṛ, the seer of the mantra, praises you alone. O son of strength, apart from you there is nothing else for us to obtain. The happiness that is auspicious and that removes the three kinds of sorrow — ādhyātmika, ādhidaivika and ādhibhautika — is with you. Therefore ward off your fierce flame, which shines brightly far off and is harmful to us, so that it does not come near us.
+
+##### English translation
+This person, Agni, was your praiser, for there is nothing else attainable, O son of strength; holy is the happiness derived from you, a triple
+
+### Printed p. 930
+
+defence; remove far from us, who are susceptible of harm, your scorching flame.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first six ṛks of this sūkta the forest fire is described in a manner that touches the heart. In the last two ṛks Agni is prayed that the forest fire may cause no harm to the poets or their houses, and that the regions all round their houses may be rich in water, grass and wood and so be safe from the danger of fire.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒वत्ते॑ अग्ने॒ जनि॑मा पितूय॒तः सा॒चीव॒ विश्वा॒ भुव॑ना॒  ॑
+> न्यृंजसे ।  
+> प्र सप्त॑यः॒ प्र स॑निषंत नो॒ धियः॑ पु॒रश्व॑रंति पशु॒पा इ॑व॒  ॑
+> त्मना ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रवत् । ते । अग्ने । जनिम । पितुयतः । साचीइव । विश्वा । भुवना । नि । ऋंजसे ।  
+> प्र । सप्तयः । प्र । सनिषंत । नः । धियः । पुरः । चरंति । पशुपाइव । त्मना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने पितूयतः पितुमन्नं भक्ष्यमिच्छतस्ते तव जनिम जन्म प्रामर्भावं
+> प्रवत्प्रकृष्टमुत्कृष्टं भवति ॥ उपसर्गाच्छंदसि धात्वर्थ इति वतिः ॥ स त्वं साजीव
+> सचिव इव विश्वा विश्वानि व्याप्तानि भुवनानि भूतजातानि न्यृंजसे । प्रसाधयसि । वशीकरोषीत्यर्थः । सप्लयः सर्पणशीला नोऽस्माकं धियः स्तुतयस्तादृशं त्वां प्र
+> सनिषंत । प्रकर्षण संभजंते । एकः प्रशब्दः पूरकः । यद्वा । सप्लयः । लुप्तोपममेतत् । सर्पणशीला अश्वा यथाजं प्रकर्षण संभजंते तथास्मदीया धिय
+> इत्यर्थः । अनंतरं पुरस्तव पुरस्तात् त्मनात्मना स्वयमेव चरंति । व्याप्य वर्तंते ।
+> पशुपा इव । यथा पशूनां पालका गोपालाः पालयितव्यानां पुरस्तात्संचरंति
+> तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you who desire food (पितूयतः (*pitūyataḥ*): the food that is to be eaten), your birth, your manifestation, is excellent (प्रवत् (*pravat*)). Such as you are, you, like a minister (साजीव (*sājīva*) = सचिव (*saciva*)), bring all the beings that pervade the world under control (न्यृंजसे (*nyṛṃjase*): you accomplish, you subdue). Our praises, which move quickly (सप्लयः (*saplayaḥ*): of a moving nature), attain you eagerly (प्र सनिषंत (*pra saniṣaṃta*)); one प्र (*pra*) is a mere filler." Or else, सप्लयः (*saplayaḥ*) is a simile with its particle dropped: as swift horses are set forward eagerly, so are our praises. Then: "They go of their own accord (त्मना (*tmanā*)) before you, pervading, as herdsmen, the guardians of cattle, go ahead of those they must guard."
+
+### Printed p. 931
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पितूयतः (*pitūyataḥ*)—who desire food in the form of the oblation
+- ते (*te*)—your
+- जनिम (*janima*)—birth (manifestation)
+- प्रवत् (*pravat*)—is excellent (such as you are)
+- साजीव (*sājīva*)—like a minister
+- विश्वा (*viśvā*)—all the classes of beings
+- नृंजसे (*nṛṃjase*)—you bring under control
+- सप्तयः (*saptayaḥ*)—going near you
+- नः (*naḥ*)—our
+- धियः (*dhiyaḥ*)—praises
+- प्र सनिषंत (*pra saniṣaṃta*)—come to you and join you
+- सप्तयः (*saptayaḥ*) (alternative)—horses eager to rush forward
+- प्र सनिषंत (*pra saniṣaṃta*) (alternative)—as they go and join the battlefield, our praises join you
+- those praises, पुरः (*puraḥ*)—in front of his herd
+- पशुपा इव (*paśupā iva*)—as a herdsman goes
+- त्मना (*tmanā*)—of their own accord
+- चरंति (*caraṃti*)—go and join Agni
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, your birth, you who desire food in the form of the oblation, is excellent. Like a minister you bring all beings under your control. Like horses eager to rush into the battlefield, our praises join you. And as a herdsman goes in front of his herd, our praises of their own accord come to you and join you.
+
+##### English translation
+Exalted is the birth of you, Agni, who are desirous of (sacrificial) food; you preside like a councillor over all created beings; our praises flowing smoothly proceed to you, as herdsmen of their own will (go slowly) before (their flocks).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त वा उ॒ परि॑ वृणक्षि॒ बप्स॑द्ब॒होर॑ग्न॒ उल॑पस्य स्वधावः ।  
+> उ॒त खि॒ल्या उ॒र्वरा॑णां भवंति॒ मा ते॑ हे॒तिं तवि॑षीं चुक्रुधाम ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । वै । ऊं इति । परि । वृणक्षि । बप्सत् । बहोः । अग्ने । उलपस्य । स्वधावः ।  
+> उत । खिल्याः । उर्वराणां । भवंति । मा । ते । हेतिं । तविषीं । चुक्रुधाम ॥ ३ ॥
+
+### Printed p. 932
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्वधावो दीप्तिमन्नग्ने बप्पद्दहन् ॥ भस भर्त्सनदीप्योः । चौहोत्यादिकः ।
+> शतरि घसभसोहलि च । पा. ६-४-१०० । इत्युपधालोपः । नाभ्यस्ताच्छतुरिति नुमः
+> प्रतिषेधः ॥ बहोर्बहुलस्कोलपस्य तृणजातस्य ॥ कर्मणि षष्ठि ॥ सर्वं वनमुत
+> वा अपि खलु परि वृणक्षि । परिवर्जयसि । विनाशयसि । उ इति पूरकः । उतापि
+> चोर्वराणां । सस्याढ्या भूमय उर्वराः । तासां संबंधिनः प्रदेशाः खिल्याः
+> खिलाः प्राणिभिर्गंतुं योग्या भवंति । त्वया दग्ना इति शेषः । तविषीं महतीं ते तव
+> हेतिं हननहेतुभूतां ज्वालां मा चुक्रुदाम । मा क्रोधयाम । अपि तु स्तुतिभिः
+> प्रसाधयाम ॥ ऊतियूतीत्यादिना हंतेः क्तिनि हेतिरित्यंतोदात्तो निपात्यते ।
+> चुक्रुदामेति क्रुदेर्ण्यंताल्लुजि चजि रूपं ॥
+
+##### Gist of the bhāṣya
+
+"O blazing Agni (स्वधावः (*svadhāvaḥ*)), burning (बप्पद्दहन् (*bappaddahan*) — the root भस (*bhasa*) in the senses of threatening and shining), you destroy much grass (उलपस्य (*ulapasya*), a kind of grass; the genitive stands for the object): the whole forest. The particle उ (*u*) is a filler. And the regions belonging to the fertile, crop-rich lands (उर्वराणां (*urvarāṇāṃ*)) become खिल्याः (*khilyāḥ*), waste land, fit for beings to walk on; understand 'burnt by you'. We must not anger (मा चुक्रुदाम (*mā cukrudāma*)) your mighty flame, the cause of destruction; rather we appease it with praises."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधावः (*svadhāvaḥ*)—shining
+- अग्ने (*agne*)—O Agni, you
+- बहोः (*bahoḥ*)—abundant
+- उलपस्य (*ulapasya*)—mass of grass
+- उत वै (*uta vai*)—everything
+- बप्सत् (*bapsat*)—devouring, that is, burning
+- परि वृणक्षि (*pari vṛṇakṣi*)—you destroy
+- उ (*u*)—certainty
+- उत (*uta*)—and
+- उर्वराणां (*urvarāṇāṃ*)—of the regions dense with crops and the like
+- खिल्याः (*khilyāḥ*)—(burnt by you) they become open waste regions
+- भवंति (*bhavaṃti*)—become (O Agni)
+- ते (*te*)—your
+- तविषीं (*taviṣīṃ*)—great
+- हेतिं (*hetiṃ*)—flame, the cause of destruction
+- मा चुक्रुधाम (*mā cukrudhāma*)—we shall not make it angry, that is, we shall quiet it with praises
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Agni, you burn and destroy a great mass of grass. Regions that have grown dense with shrubs and trees, after being burnt by you, become open ground fit for creatures to move about in. O Agni, we shall not make your flame, which is able to destroy everything, angry.
+
+##### English translation
+Blazing Agni, you destroy many a shrub, as you burn; and (the sites) of the tilled fields are laid waste, many we never rouse to anger your terrible flame. **NOTE**
+
+### Printed p. 933
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदु॒द्वतो॑ नि॒वतो॒ यासि॒ बप्स॒त्पृथ॑गेषि प्रग॒र्धिनी॑व॒ सेना॑ ।  
+> य॒दा ते॒ वातो॑ अनु॒वाति॑ शो॒चिर्वप्ते॑व॒ श्मश्रु॑ वपसि॒ प्र  ॑
+> भूम ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । उत् ऽवतः । निवतः । यासि । बप्सत् । पृथक् । एषि । प्रगर्थिनीऽइव । सेना ।  
+> यदा । ते । वाशः । अनुवाति । शोचिः । वप्ताऽइव । श्मश्रु । वपसि । प्र । भूम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदोद्वत उद्धतानुच्छ्रितान् निवतो नीचीनांस्तरुगुल्मादीन् हे अग्ने
+> बप्सद्दहन्यासि प्राप्पोषि तदानीं बह्वीभिर्ज्वालाभिः पृथग्विभिन्नः सन्नेषि । गच्छसि ।
+> तत्र दृष्टांतः । प्रगर्धिनीव सेना ॥ गृधु अभिकांक्षायां ॥ परराष्ट्रं गच्छतो
+> राज्ञः सेना तत्रत्यं धनजातमभिकांक्षमाणेतस्ततः संघशो गच्छति तद्वत् । वातो
+> वायुश्च ते तव शोचिः दीप्तिं यदा यस्मिन्कालेऽनुवाति अनुगुणं प्रवर्तते तदा
+> श्मश्रु । श्म शरीरं । तत्र श्रितं स्थितं केशरोमादिकं वस्तेव यथा वप्ता नापितो
+> वपति मुंडयति तथा भूम भूमिं प्र वपसि । प्रकर्षण मुंडयसि ! सर्वं वनं
+> निःशेषेण दहसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"When, O Agni, you go burning (बप्सत् (*bapsat*) = दहन् (*dahan*)) the trees and shrubs that are tall (उद्वतः (*udvataḥ*)) and low (निवतः (*nivataḥ*)), then you move divided (पृथक् (*pṛthak*)) in many flames." The illustration is प्रगर्धिनीव सेना (*pragardhinīva senā*): the army of a king marching into an enemy's country, eager for the wealth there, goes in bands this way and that. "When the wind follows your flame, then you shave the earth, as a barber (वप्ता (*vaptā*)) shaves (वपति (*vapati*)) the hair that stands on the body (श्म (*śma*) means body); you shave it clean (प्र वपसि (*pra vapasi*)). The meaning is that you burn the whole forest without remainder."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यत् (*yat*)—when
+- उद्वतः (*udvataḥ*)—the trees and the like grown tall
+- निवतः (*nivataḥ*)—the small bushes and creepers growing below
+- बप्सत् (*bapsat*)—(devouring) burning
+- यासि (*yāsi*)—you go forward; then
+- प्रगर्धिनीव (*pragardhinīva*)—destroying everything that meets it
+- सेना (*senā*)—like an army
+- पृथक् (*pṛthak*)—separately (in many parts)
+- एषि (*eṣi*)—you go and burn
+- यदा (*yadā*)—when
+- वातः (*vātaḥ*)—the wind
+- ते (*te*)—your
+- शोचिः (*śociḥ*)—radiance
+- अनुवाति (*anuvāti*)—blows following; then
+- श्मश्रु (*śmaśru*)—the hairs on the face
+- वप्तेव (*vapteva*)—as a barber shaves
+- भूम (*bhūma*)—the earth
+- प्र वपसि (*pra vapasi*)—you burn everything and make it clean
+
 ---
 
-**Progress note:** Done through printed p. 927. pp. 922-927 (batch API)
+**Progress note:** Done through printed p. 933. pp. 928-933 (batch API)
