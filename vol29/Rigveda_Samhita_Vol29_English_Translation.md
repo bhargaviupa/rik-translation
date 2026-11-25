@@ -3827,6 +3827,261 @@ They (the Maruts) are like Brahmans sanctified by pious praises, they are instit
 > प्र॒ज्ञा॒तारो॒ न ज्येष्ठाः॑ सुनी॒तयः॑ सु॒शर्मा॑णो॒ न सोमा॑ ॒ ॒
 > ऋतं यते ॥ २ ॥
 
+### Printed p. 143
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । न । ये । भ्राजसा । रुक्ष्मवक्षसः । वातासः । न । स्वयुजः । सद्यःऊतयः।  
+> पृज्ञातारः । न । ज्येष्ठाः । सुनीतयः । सुशर्माणः । न । सोमाः । ऋतं ।  
+> यते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतोऽग्निर्नाग्निरिव स यथा भ्राजसा तेजसा शोभते तद्वद्भाजसा
+> युक्ताः किंच रुक्मवक्षसो रुक्मालंकृतवक्षस्का वातासो न प्रत्यक्षवाता इव स्वयुजः
+> स्वयंयुज्यमानाः सद्यऊतयः सद्योगमनाः प्रज्ञातारो न प्रकर्षेण ज्ञातारो
+> ज्ञानिन इव ज्येष्णाः पूज्याः सुनीतयः सुनयनाः सुशर्माणो न सोमाः सुसुखाः
+> सोमा इव ते यूयमृतं यते यज्ञं गच्छते यजमानाय गच्छतेति ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, like Agni, shine with splendour, are endowed with splendour in the same way. Further, they have breasts adorned with golden ornaments; like visibly blowing winds they yoke themselves of their own accord; they are swift-going, quick in their going; like those who know in a high degree, that is, like the learned, they are venerable; they are good leaders; like the Somas they are very pleasant. Such Maruts, you go to the sacrifice, you go to the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निर्न (*agnirna*)—like Agni
+- भ्राजसा (*bhrājasā*)—endowed with splendour
+- रुक्ष्मवक्षसः (*rukṣmavakṣasaḥ*)—having breasts with golden ornaments
+- वातासो न (*vātāso na*)—like winds
+- स्वयुजः (*svayujaḥ*)—self-impelled
+- सद्यऊतयः (*sadyaūtayaḥ*)—swift protectors
+- प्रज्ञातारो न (*prajñātāro na*)—like the learned
+- ज्येष्ठाः (*jyeṣṭhāḥ*)—venerable
+- सुनीतयः (*sunītayaḥ*)—excellent guides
+- सुशर्माणः (*suśarmāṇaḥ*)—who give excellent happiness
+- सोमाः न (*somāḥ na*)—like the Somas, you
+- ऋतं यते (*ṛtaṃ yate*)—come to the sacrificer who performs the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you who are endowed with splendour like Agni, whose breasts bear golden ornaments, who are self-impelled like winds, swift protectors, venerable and guides like the learned, and givers of excellent happiness like the Somas, come to the sacrificer who performs the sacrifice.
+
+##### English translation
+(You) who like Agni (are endowed) with splendour, who have golden ornaments upon your breasts, who like the winds (are) self-yoked, swift-moving, who like the extremely wise (are) venerable and able guides, and like the Soma-juices the givers of delight, (you come) to the (worshipper) going to the sacrifice.
+
+### Printed p. 144
+
+##### विशेषविषयगळु (Special Topics)
+
+For the sentence in this Ṛk अग्निर्नये भ्राजसा रुक्मवक्षसः (*agnirnaye bhrājasā rukmavakṣasaḥ*), Yāska gives the explanation अग्निरिव ये मरुतो भ्राजमाना रोचिष्टूरस्का भ्राजस्वंतो रुक्मवक्षसः (*agniriva ye maruto bhrājamānā rociṣṭūraskā bhrājasvaṃto rukmavakṣasaḥ*) (Ni. 3-15); that is, the Marut deities shine like Agni, and blaze with the shining golden ornaments on their breasts and with exceeding radiance.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वाता॑सो॒ न ये धुन॑यो जिग॒त्नवो॑ग्नी॒नां न जि॒ह्वा वि॑रो॒किणः॑ ।  
+> वर्म॑ण्वंतो॒ न यो॒धाः शिमा॑वंतः पित्थ॒णां न शंसाः॑ सुरा॒तयः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वातासः । न । ये । धुनयः । जिगत्नवः । अग्नीनां । न । जिह्वाः । विरोकिणः ।  
+> वर्मण्वंतः । न । योधाः । शिमीवंतः । पित्थाणां । न । शंसाः । सुरातयः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो वातासो न वायव इव धुनयः शत्रूणां कंपयितारो
+> जिगत्नवो गमनशीलाः । अत्र मारुते सूक्ते मरुतामेव दृष्टांतकथनं संचरणस्वभाववायुपदार्थतदभिमानिदेवताभेदेनाविरुद्धं । तथाग्नीनां न जिह्वा आग्नीनां
+> ज्वाला इव विरोकिणो: विरोचनशीलमुखाः । तथा वर्मण्वंतो न योधाः
+> कवचिनो योद्धार इव शिमीवंतः शौर्यकर्मवंतः ! तथा पितृणां न शंसाः
+> पित्ृणां जनकानां शंसा वाच इव सुरातयः सुदानाः । एवंमहानुभावा एते
+> मरुतोऽस्मद्यज्ञमागच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, like winds, are shakers of enemies and given to movement. Here, in a sūkta of the Maruts, the citing of the Maruts themselves as the illustration is not contradictory, through the distinction between the moving wind as a substance and the deity that presides over it. Likewise, like the tongues of fires, like flames, they have shining mouths. Likewise, like warriors in armour, they are doers of heroic deeds. Likewise, like the praises of ancestors, of fathers, they are good givers. Being of such great power, may these Maruts come to our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts
+- वातासो न (*vātāso na*)—like winds
+- धुनयः (*dhunayaḥ*)—shakers of enemies
+- जिगत्नवः (*jigatnavaḥ*)—given to movement
+- अग्नीनां (*agnīnāṃ*)—of fires
+- जिह्वा न (*jihvā na*)—like flames
+
+### Printed p. 145
+
+- विरोकिणः (*virokiṇaḥ*)—radiant
+- वर्मण्वंतः (*varmaṇvaṃtaḥ*)—wearing armour
+- योधाः न (*yodhāḥ na*)—like warriors
+- शिमीवंतः (*śimīvaṃtaḥ*)—doers of heroic deeds
+- पित्थणां (*pitthaṇāṃ*)—of ancestors
+- शंसाः न (*śaṃsāḥ na*)—like praises
+- सुरातयः (*surātayaḥ*)—excellent givers; may those Maruts be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+May those Maruts be gracious who, like winds, shake their enemies and are given to movement, who are radiant like the flames of fires, doers of heroic deeds like warriors wearing armour, and excellent givers like the praises of ancestors.
+
+##### English translation
+(The Maruts), who like the winds cause (the foes) to tremble and move swift ; blazing like the flames of fires, (who are) the achievers of heroic deeds like warriors clad in mail ; munificent donors like the praises of ancestors
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रथा॑नां॒ न ये॒३॒॑१राः सना॑भयो जिगी॒वांसो॒ न शूरा॑ अ॒भिद्य॑वः ।  
+> व॒रे॒यवो॒ न मर्या॑ घृत॒पुषो॑ऽभिस्व॒र्तारो॑ अ॒र्कं न  ॒॑
+> सुष्टुभः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रथानां । न । ये । अराः । सनाभयः । जिगीवांसः । न । शूराः । अभिद्यवः ।  
+> वरेययवः । न । मर्याः । धृतपुषः । अभिस्वर्तारः । अर्कं । न । सुस्तुभः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथानां न रथचक्राणामिवाराः ते यथा बहवोऽपि सनाभयः समाननाभयो भवंति तद्विद्यॆ परस्परं सनाभयः समानबंधना एकस्मिन्नेवांतरिक्षे
+> वर्तमानाः । परस्परं बंधुभूता इत्यर्थः । जिगीवांसो न शूरा जयशीलाः
+> xxix 10
+
+### Printed p. 146
+
+> शूरा इवाभिद्यवोऽभिगतदीप्तयः किंच वरेयवो न मर्या वृतं वरं परस्मै
+> प्रदातुमिच्छंतो मनुष्या इव धृतपुष उदकसेक्तारः । उदकपूर्वं हि वराणि
+> वसूनि दीयंते नियमेन । वृष्टुदकप्रदा इत्यर्थः । किंचाभिस्वर्तारोर्कं
+> नार्कमर्चनीयं स्तोत्रमभिस्वर्तारोऽभितः शब्दयितारो वंदिन इव सुष्टुभः
+> सुशब्दाः ॥
+
+##### Gist of the bhāṣya
+
+As the spokes of chariot wheels, however many, have a common nave, so the Maruts have a common nave, a common bond, dwelling in the one atmosphere; that is, they are kinsmen of one another. Like victorious heroes, they are of victorious nature and have radiance turned towards all sides. Further, like generous men who wish to give a chosen boon to another, they are sprinklers of water, for chosen treasures are given always preceded by water; that is, they are givers of rain-water. Further, they are resounders on all sides of the adorable stotra, like bards, and are of excellent sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथानां (*rathānāṃ*)—of the wheels of chariots
+- आराः न (*ārāḥ na*)—as the spokes
+- स नाभयः (*sa nābhayaḥ*)—having a common centre
+- ये (*ye*)—who
+- शूराः न (*śūrāḥ na*)—like heroes
+- जिगीवांसः (*jigīvāṃsaḥ*)—victorious
+- अभिद्यवः (*abhidyavaḥ*)—radiant
+- वरेयवः (*vareyavaḥ*)—generous
+- मर्याः न (*maryāḥ na*)—like men
+- धृतपुरुषः (*dhṛtapuruṣaḥ*)—pouring down rain abundantly
+- अर्कं (*arkaṃ*)—the praise
+- अभिस्वर्तारो न (*abhisvartāro na*)—like praisers who recite
+- सुष्टुभः (*suṣṭubhaḥ*)—having excellent praise; may those Maruts be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+May those Maruts be gracious who, like the spokes of chariot wheels, have one and the same place of the nave (bound by equal kinship), who are victorious and radiant like heroes, who like generous men pour down abundant rain-water, and who have excellent praise like praisers who recite the praise.
+
+##### English translation
+Who (are) united to a common centre like the spokes (of the wheels) of chariots, brilliant like victorious heroes, sprinkling water like benevolent men, sweet-voiced like men who recite praise.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वा॑सो॒ न ये ज्येष्ठा॑स आ॒शवो॑ दिधि॒षवो॒ न र॒थ्यः॑ सु॒दान॑वः ।  
+> आपो॒ न नि॒म्मैरु॒दभि॑र्जिग॒त्नवो॑ वि॒श्वरू॑पा॒ अंगि॑रसो॒ न  ॑
+> सामभिः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वासः । न । ये । ज्येष्ठासः । आशवः । दिधिषवः । न । रथ्यः । सुदानवः ।  
+> आपः । न । निम्मैः । उदभिः । जिगत्नवः । विश्वरूपाः । अंगिरसः । न । सामभिः ॥५॥
+
+### Printed p. 147
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतोऽश्वासो नाश्वा इव ज्येष्ठाः प्रशस्यतमा आशवः शीघ्रगमनाः ।
+> तथा दिधिषवो न वसूनां धारका इव रथ्यो रथस्वामिनः सुदानवः सुदानाः ।
+> तथापो नाप इव निम्मैः प्रवणगैरुदभिरुदकैः सह जिगत्नवो गमनशीलाः । तथा
+> विश्वरूपा नानारूपाः सामभिर्युक्ता अंगिरसो नांगिरस इव ! सर्वदा सामगा
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, like horses, are the most praiseworthy and swift-going. Likewise, like holders of treasures, they are lords of chariots and good givers. Likewise, like waters with downward-flowing streams, they are given to movement. Likewise they are of many forms, accompanied by Sāmans, like the Aṅgirases; that is, they are always singers of Sāmans.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts
+- अश्वासोन (*aśvāsona*)—like horses
+- ज्येष्ठासः (*jyeṣṭhāsaḥ*)—praiseworthy
+- आशवः (*āśavaḥ*)—swift-going
+- दिधिषवो न (*didhiṣavo na*)—like wealthy men
+- रथ्यः (*rathyaḥ*)—lords of the chariot
+- सुदानवः (*sudānavaḥ*)—having excellent gifts
+- निम्मैः (*nimmaiḥ*)—flowing in low ground
+- उदभिः (*udabhiḥ*)—with waters
+- आपो न (*āpo na*)—like rivers
+- जिगत्नवः (*jigatnavaḥ*)—given to movement
+- विश्वरूपाः (*viśvarūpāḥ*)—having many forms
+- अंगिरसो न (*aṃgiraso na*)—like the Aṅgirases
+- सामभिः (*sāmabhiḥ*)—accompanied by Sāman-singing; may those Maruts be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+May the Maruts come graciously to our sacrifice, who are praiseworthy and swift-going like horses, lords of the chariot like wealthy men, having excellent gifts, given to movement like rivers with streams flowing in low ground, having many forms, and accompanied by Sāman-singing like the Aṅgirases.
+
+##### English translation
+Who (are) most excellent and swift like horses, lords of cars and munificent like the possessors of wealth, swiftly moving like rivers with water flowing from a height, (accompanied) everywhere with hymns like the multiform Angirasas.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्रावा॑णो॒ न सू॒रयः॒ सिंधु॑मातर आदर्दि॒रासो॒ अद्र॑यो॒ न  ॒॑
+> विश्वहा ।  
+> शि॒शूला॒ न क्री॒ळयः॑ सुमा॒तरो॑ महाग्रा॒मो न याम॑न्नु॒त  ॒
+> त्तिषा ॥ ६ ॥
+
+### Printed p. 148
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्रावाणः । न । सूरयः । सिंधुमातरः । आदर्दिरासः । अद्रयः । न । विश्वहा ।  
+> शिशूलाः । न । क्रीळयः । सुमातरः । महाग्रामः । न । यामन् । उत । त्विषा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूरय उदकस्य प्रेरका ग्रावाणो न मेघा इव सिंधुमातरो नदीनिर्मातारः । आदर्दिरास आदरणशीलान्यद्रयो न वज्राद्यायुधानीव विश्वहा सर्वदा
+> शत्रूणां हंतार इत्यर्थः । यद्वा । सर्वदाद्रयो न वज्रा इव शत्रूणामादर्दिरास
+> आदरणशीलाः । सुमातरः शोभनमातृकाः शिशूला न शिशव इव क्रीळयो विहर्तारः ।
+> उतापि च महाग्रामो न महाज्जनसंघ इव यामन्यामनि गमने त्विषा दीप्ता
+> युक्ता भवंति । तेऽस्मदृज्ञमागच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+Like clouds, impellers of water, they are makers of rivers. Of crushing nature, like thunderbolts and other weapons, they are always destroyers of enemies. Or else: like thunderbolts, they are always crushers of enemies. Having good mothers, like children, they are sporting and wandering. And also, like a great crowd of people, in going they are endowed with splendour. May they come to our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरयः (*sūrayaḥ*)—impellers of water
+- ग्रावाणो न (*grāvāṇo na*)—like clouds
+- सिंधुमातरः (*siṃdhumātaraḥ*)—makers of rivers
+- आदर्शिरासः (*ādarśirāsaḥ*)—cutters of enemies
+- अद्रयो न (*adrayo na*)—like the thunderbolt
+- विश्वहा (*viśvahā*)—destroyers of all enemies
+- सुमातरः (*sumātaraḥ*)—having excellent mothers
+- क्रीळयः (*krīḷayaḥ*)—fond of play
+- शिशूला न (*śiśūlā na*)—like infants
+- उत (*uta*)—and
+- महाग्रामो न (*mahāgrāmo na*)—like a great crowd
+- यामन् (*yāman*)—at the time of going
+- त्विषा (*tviṣā*)—endowed with brilliance; may those Maruts be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+May those Maruts be gracious who, like clouds that impel water, are makers of rivers, who like the enemy-cutting thunderbolt destroy all enemies, who have excellent mothers and are fond of play like infants, and who, like a great crowd, are endowed with brilliance at the time of going.
+
+##### English translation
+Having streams for mothers like the grinding-stones which send forth moisture; ever destroying (enemies) like destructive thunderbolts: having tender mothers like sportive infants; (endowed) with splendour like a great crowd of men in a procession.
+
 ---
 
-**Progress note:** Done through printed p. 142. Mandala 10 Sukta 77 Rks 5-8; Sukta 78 Rk 1 and start of Rk 2 (pp. 136-142)
+**Progress note:** Done through printed p. 148. Mandala 10 Sukta 78 Rks 2-6 (pp. 143-148)
