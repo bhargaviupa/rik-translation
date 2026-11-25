@@ -9900,6 +9900,216 @@ Like gharmas, i.e. like the great vessels (mahāvīra), you are the sharers (san
 - मधु (*madhu*)—the sweet (Soma)
 - सनेरू (*sanerū*)—
 
+### Printed p. 265
+
+*(The Pratipadārtha continues from the previous page.)*
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- …—those who are filled (with it)
+- भगेविता (*bhagevitā*)—as protectors of wealth
+- अरं (*araṃ*)—fully
+- तुर्फरी (*turpharī*)—as destroyers of enemies
+- फारिवा (*phārivā*)—as those who carry weapons
+- पतरेव (*patareva*)—like birds
+- चचरा (*cacarā*)—those who move about
+- चंद्रनिर्निक् (*caṃdranirnik*)—those having an attractive form
+- मनयंगा (*manayaṃgā*)—those who are adorned
+- मनन्या न (*mananyā na*)—as if worthy of praise
+- जग्मी (*jagmī*)—those who come to the sacrificial hall
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, as in the sacrifice called Mahāvīra the Camasa vessels are full of oblation, so you keep your bellies filled with honey. You are protectors of wealth and wielders of weapons that fully destroy enemies. You move about like birds; you have attractive forms, are adorned, and are worthy of praise. Such as you are, you come to our sacrificial hall.
+
+##### English translation
+With your bellies full of the Soma, like two saucepans, preservers of wealth, destroyers of enemies, (you are) armed with hatchets, moving like two flying (birds) with forms like the moon, attaining success through the mind, like two laudable beings, ( you are) approaching (the sacrifice).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हंते॑व गं॒भरे॑षु प्रति॒ष्ठां पादे॑व गा॒धं तर॑ते विदाथः ।  
+> कर्णे॑व॒ शासु॒रनु॒ हि स्मरा॒थोंशे॑व नो भजतं चि॒त्रमप्नः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहंता इव । गंभरेषु । प्रतिस्थां । पादा इव । गाधं । तरते । विदाथः ।  
+> कर्णा इव । शासुः । अनु । हि । स्मराथः । अंशा इव । नः । भजतं । चित्रं । अप्पः ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहंतेव बृहंताविव प्रांशू पुरुषौ यथा गंभीरेषु गहनेषु जलेषु
+> प्रतिष्ठां विंदतः तद्वद्गह्वरेषु गंभीरेषु दुष्टवेशेषु स्थानेषु प्रतिष्ठामवस्थितिमा-
+
+##### Gist of the bhāṣya
+
+बृहंतेव (*bṛhaṃteva*) means "like two tall men". As tall men find a footing in deep, hard-to-cross waters, so you find a footing, a secure standing place, in deep, hard-to-pass places. विदाथः (*vidāthaḥ*) means "you know". ()
+
+### Printed p. 266
+
+> सदं युवां विदाथः । जानीथः । पादेव पादाविन यथा तरते । षष्ठ्यर्थे चतुर्थि।
+> तरतः पुरुषस्य पादौ यथा गाधं जलं वित्तः तद्वद्युवां तार्येषु जलेषु गाधं
+> विदाथः ॥ जानीथः ॥ विद ज्ञाने । लेट्यडागमः ॥ कर्णेव यथा कर्णावुक्तं शब्दं
+> विदतुः तद्वद्युवां शासुः शासितारं स्तुतिं कुर्वाणं जनमनु हि स्मराथः । अनुकूलं
+> जानीथः खलु ॥ स्मरतेर्लेट्यडागमः । हियोगादनिघातः । अधीगर्थदयेशां
+> कर्मणि । पा. २-३-५२ । इति शासुरित्यस्य षष्ठि । अंशेवांशाविव यथावयन् तद्वंतं
+> यज्ञं भजेते तद्वद्युवां नोऽस्मदीयं चित्रं चायनीयमप्पः कर्म भजतं ।
+> आश्रयतं ॥ अप्पः । अप्ल व्याप्तौ । अस्मादापः कर्माख्यायां ह्रस्वो नुट्ट वा ।
+> उ. ४-२०७ । इत्यसुन् तत्संनियोगेन ह्रस्वो नुडागमश्च । नित्स्वरेणाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+पादेव (*pādeva*) means "like two feet". As the feet of a man crossing find a ford in water, so you find fords in waters that can be crossed. कर्णेव (*karṇeva*): as two ears grasp a spoken sound, so you attentively note the शासुः (*śāsuḥ*), the praiser, the man who offers praise; "you know him favourably". Sāyaṇa cites Pā. 2-3-52 for the genitive sense of शासुः (*śāsuḥ*). अंशेव (*aṃśeva*): as two shares partake of the one who owns them, so you take up अप्पः (*appaḥ*), our wonderful, desirable rite; भजतं (*bhajataṃ*) means "resort to it". He then explains the formation of अप्पः (*appaḥ*) (Uṇ. Sū. 4-207 is cited).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहंतेव (*bṛhaṃteva*)—like tall men who, though they stand in deep water, make their condition known
+- गंभरेषु (*gaṃbhareṣu*)—in deep water
+- प्रतिष्ठां (*pratiṣṭhāṃ*)—your being (there)
+- विदाथः (*vidāthaḥ*)—you know
+- तरतः (*tarataḥ*)—of a man crossing a river
+- पादेव (*pādeva*)—like the feet
+- गाधं (*gādhaṃ*)—you know also the deep places
+- कर्णेव (*karṇeva*)—like ears
+- शासुः (*śāsuḥ*)—the praise of the praiser who praises you
+- अनु हि स्मराथः (*anu hi smarāthaḥ*)—you understand readily
+- अंशेव (*aṃśeva*)—you who are like two shoulders that support the sacrifice
+- नः (*naḥ*)—our
+- चित्रं (*citraṃ*)—attractive
+- अप्नः (*apnaḥ*)—the (sacrificial) rite
+- भजतं (*bhajataṃ*)—attend to it
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, as tall men standing in deep water make their condition known, so you know your being (there). Like the feet of a man crossing a river, you know the deep places. Like ears, you readily understand the praise of the praiser who praises you. You who are like two shoulders supporting the sacrifice, attend to our attractive rite.
+
+##### English translation
+Like two big (men) in deep waters you find a resting-place, like two fcet crossing a ford you find (the fording-place), like two ears you recognize (the voice) of the reciter of your praises, like two shoulders (supporting the sacrifice, come to our desirable rite.
+
+### Printed p. 267
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒रं॒ग॒रेव॒ मध्येर॑येथे सार॒घेव॒ गवि॑ नी॒चीन॑बारे ।  
+> की॒नारे॑व॒ स्वेद॑मासिष्टिदा॒ना क्षामे॑वो॒र्जा सू॑यव॒सात्स॑चेथे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आरंगराइव । मधु । आ । ईरयेथे इति । सारघाइव । गवि । नीचीनबारे ।  
+> कीनाराइव । स्वेदं । आसिस्विदाना । क्षामइव । ऊर्जा । सुयवसअत् । सचेथे  
+> इति ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आरंगरेव ॥ :ग्य शब्दे । अस्माद्भाव ऋदोरप् । अरमलं पर्याप्तं गरः
+> शब्दनं । तस्य संबंधिनौ । तस्येदमित्यण् ॥ शब्दवंतौ मेघाविव यथा मधु जलं
+> प्रेरयतः तद्वद्युवामेरयेथे । प्रेरयथः ॥ ईर प्रेरणे चौरादिकः ॥ सारघेव
+> सारघाविव । सरघा मधुमक्षिका । सरष्टैव सारघा ॥ प्रज्ञादित्वादण् । पा. ५-४-३८ ॥
+> ते यथा नीचीनबारे नीचीनद्वारे मधुपुष्टे मधु प्रेरयतः तद्वद्युवां नीचीनबारे न्यग्भूतद्वारे गवि गोरूधसि क्षीरं प्रक्षिपथः । कीनारेव कीनाराविव कुत्सितमनुष्यौ यथा स्विद्यमान् भवतः तद्वत्वेदं स्विद्यमानं जलमासिस्विदाना समंतात्
+> स्वेदयंत् प्रक्षारयंत् भवथः ॥ इष्षिदा गात्रप्रक्षणे ! अनुदात्तेत् । तस्माच्छांदसे लिट कानजादेशः । क्षामेव । पै जै पै क्षये । अस्मादातो मनिन् ।
+> ह्रस्वश्चांदसः ॥ क्षामा क्षीणा गौः सुयवसात् ॥ अदेः क्विप् ॥ शोभनं यवसं
+> घासादिकं भक्षयंती क्षीररूपेणान्नेन समवेता यथा भवति तद्वद्युवामूर्जा
+> हवीरूपेणान्नेन सचेथे ! संगच्छेथे ॥ षच समवाये ॥
+
+##### Gist of the bhāṣya
+
+आरंगरेव (*āraṃgareva*): अरं (*araṃ*) means "enough, sufficient", and गरः (*garaḥ*) means "sounding"; the compound refers to things connected with sound, that is, resounding clouds. As clouds send forth मधु (*madhu*), water, so you two send it. सारघेव (*sāragheva*): सरघा (*saraghā*) is the honey-bee, and सारघा (*sāraghā*) is the same (Pā. 5-4-38 is cited). As they put honey into a hive with a downward opening, so you pour milk into the cow's udder, which has its opening turned downward. कीनारेव (*kīnāreva*): as two wretched men come to sweat, so you two are sprinkling and washing about the sweating water. क्षामेव (*kṣāmeva*): क्षामा (*kṣāmā*) is a wasted cow. As a cow eating good fodder, grass and the like, is joined with food in the form of milk, so you are joined with ऊर्जा (*ūrjā*), food in the form of oblation; सचेथे (*sacethe*) means "you come together".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आरंगरेव (*āraṃgareva*)—like clouds that make sound
+- मधु (*madhu*)—tasty water
+- ईरयेथे (*īrayethe*)—you send
+- सारघेव (*sāragheva*)—as honey-bees gather honey
+
+### Printed p. 268
+
+- नीचीनबारे (*nīcīnabāre*)—having an opening that faces downward
+- गवि (*gavi*)—you fill milk in the udder of the cow
+- कीनारेव (*kīnāreva*)—like people who work hard
+- स्वेदं (*svedaṃ*)—as they pour out drops of sweat
+- आसिस्विदाना (*āsisvidānā*)—you sprinkle water all around us
+- क्षामा (*kṣāmā*)—a lean cow
+- सुयवसादिव (*suyavasādiva*)—as it eats excellent grass
+- ऊर्जा (*ūrjā*)—food in the form of oblation
+- सचेथे (*sacethe*)—you partake of
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, like clouds that give out sound, you send down tasty water. As honey-bees gather honey, you fill the udder of the cow, which has turned its opening downward, with milk. As people who work hard pour out sweat, you sprinkle drops of water all around us. As a lean cow eats good grass, you partake of the food in the form of oblation.
+
+##### English translation
+Like two loud-sounding (clonds). you send forth the sweet (rain); like two bees (you deposit milk) in (the udder of) the cow which has its opening turned downwards; like two labourers you are dripping with perspi- ration, like a tired cow eating sweet herbage, you attend (the sacrifice).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ध्याम॒ स्तोमं॑ सनु॒याम॒ वाज॒ना नो॒ मंत्रं॑ स॒रथे॒होप॑ यातं ।  
+> यशो॒ न प॒क्वं मधु॒ गोष्टं॒तरा भू॒तांशो॑ अ॒श्विनोः॒  ॑
+> काममप्राः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋध्याम । स्तोमं । सनुयाम । वाजं । आ । नः । मंत्रं । सरथा । इह । उप ।  
+> यातं ।  
+> यशः । न । पक्वं । मधु । गोषु । अंतः । आ । भूतांशः । अश्विनोः । कामं ।  
+> अप्राः ॥ ११ ॥
+
+### Printed p. 269
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् वयं स्तोमं त्रिवृत्पंचदशादिकमृध्याम । ऋध्यास्म । वर्धयेम ॥ यधु वृद्धौ । आस्मादाशीर्लिजि किदाशिषीति यासुटः कित्त्वं ॥ वाजं
+> हनिर्लक्षणमन्तं युवाभ्यां सनुयाम । प्रयच्छेम ॥ षणु दाने तानादिकः ।
+> विधिलिज् । वाक्यभेदादनिघातः ॥ तस्माद्युवां सरथा सरथ् समानरथावेकमेव
+> रथमारूढौ संताविहास्मिन्कर्मणि नोऽस्मदीयं मंत्रं मननीयं स्तोत्रमुप
+> यातं । उपागच्छतं । गोष्टंतर्गॊरूधस्यवस्थितं पक्वं परिणतं आत एव मधु
+> मधुरं यशो न । यश इत्यन्ननाम । नश्चार्थे । क्षीराज्यादिलक्षणं महावीरेवनीयमानमन्नं चापेक्ष्यागच्छतमिति संबंधः । एवमुक्तप्रकारेण भूतांश एतन्नामर्षिरश्विनोः काममभिलाषमात्मीयाभिः स्तुतिभिरप्राः । आपूरयत् । संपूर्णमकार्षिदित्यर्थः ॥ प्रा पूरणे आदादिकः । व्यत्ययेन मध्यमः ॥ अत्राश्विने सूक्ते
+> सर्वाण्यपि पदानि दुर्व्युत्पादान्यस्माभिर्दिङ्मात्रं प्रदर्शितानि । एवं निरुक्तव्याकरणादिभिरर्थविशेषे बुद्धिमद्भिरुन्नेयानि ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, may we increase (ऋध्याम (*ṛdhyāma*), "may we make grow") the स्तोमं (*stomaṃ*), the Stoma such as the Trivṛt and Pañcadaśa. May we give (सनुयाम (*sanuyāma*)) to you two the वाजं (*vājaṃ*), food in the form of oblation. Therefore you two, being सरथा (*sarathā*), mounted on one and the same chariot, come here to this rite, to our मंत्रं (*maṃtraṃ*), our hymn to be pondered. Come also to the पक्वं (*pakvaṃ*), ripened, and thus मधु (*madhu*), sweet, thing that lies within the cow's udder. यशः (*yaśaḥ*) is a name for food, and न (*na*) has the sense of "and". The connection is: come having regard to milk, ghee and the like, and to the food being brought in the Mahāvīra vessel. In this way the seer named Bhūtāṃśa अप्राः (*aprāḥ*), filled (that is, fully satisfied) the desire of the Aśvins with his own praises. Sāyaṇa adds that in this Aśvin hymn all the words are hard to derive and have been shown by him only in outline, and that the intelligent should work out the particular meanings by means of the Nirukta, grammar and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोमं (*stomaṃ*)—the praise offered with you in view
+- यध्याम (*yadhyāma*)—may we increase it
+- वाजं (*vājaṃ*)—food in the form of oblation
+- सनुयाम (*sanuyāma*)—may we offer it to you
+- सरथा (*sarathā*)—seated in one chariot
+- नः (*naḥ*)—our
+- मंत्रं (*maṃtraṃ*)—to accept the praise
+- इह (*iha*)—here
+- उप यातं (*upa yātaṃ*)—come
+- गोष्टंतः (*goṣṭaṃtaḥ*)—that which is in the udder
+- पक्वं (*pakvaṃ*)—and ripened
+- मधु (*madhu*)—and sweet
+- यशो न (*yaśo na*)—also for the food (turn towards it, having in view milk and the like); come
+- भूतांशः (*bhūtāṃśaḥ*)—the seer Bhūtāṃśa
+- अश्विनोः (*aśvinoḥ*)—of the Aśvins
+- कामं (*kāmaṃ*)—the desired object
+- अप्राः (*aprāḥ*)—has filled with his praises **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, may we increase (may we recite more) the Trivṛt and other praises offered with you in view. May we offer you food in the form of oblation. Seated in one chariot, come here to accept our praise. Come here also having in view the milk and the like produced from the cow's udder. The seer named Bhūtāṃśa has filled the desire of the Aśvins with his praises.
+
+### Printed p. 270
+
+##### English translation
+May we increase our praise, (O Ashwins), may we offer you food, come hither in the same chariot to our worships; and accept the sweet food prepared from within the cows. Bhuthamsha has fulfilled the desires of the learned.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the use of this hymn in ritual, the Ṛgvidhāna says as follows: भूतांशस्य ऋषेः सूक्तं प्रजाकामः शुचिर्जपन् । अनुरूपां प्रजामाशु लभते नात्र संशयः ॥ स्थालीपाकेन नासत्यावश्विन् तु यजेद्विजः । अनेनैवोपचारेण हुत्वाश्वाननुमंत्रयेत् ॥ पायसं कृशरामांसनोदनं वधिसक्तुकान् । कुल्माषांश्च करंभांश्च फलानि विविधानि च ॥ चित्रं माल्यं शुभान् गंधान् अन्नपानानि यानि च । भक्ष्यं भोज्यं च पेयं च समाहृत्योदिते रवौ । भूतांशमभ्यसेत्तावद्यावदस्तमितो रविः ॥ अर्धरात्रे त्वतिक्रांते ततोऽश्विभ्यां निवेदयेत् ॥ दीर्घायुषं सरूपं च लभेत्पुत्रं सुवर्चसं । रूपवांश्च भवेन्नित्यं भूतांशं योऽभ्यसेत्सदा । सर्वकामिकमित्येतम्मृषिं विद्याद्विचक्षणः ॥ (*bhūtāṃśasya ṛṣeḥ sūktaṃ prajākāmaḥ śucirjapan | anurūpāṃ prajāmāśu labhate nātra saṃśayaḥ ‖ sthālīpākena nāsatyāvaśvin tu yajedvijaḥ | anenaivopacāreṇa hutvāśvānanumaṃtrayet ‖ pāyasaṃ kṛśarāmāṃsanodanaṃ vadhisaktukān | kulmāṣāṃśca karaṃbhāṃśca phalāni vividhāni ca ‖ citraṃ mālyaṃ śubhān gaṃdhān annapānāni yāni ca | bhakṣyaṃ bhojyaṃ ca peyaṃ ca samāhṛtyodite ravau | bhūtāṃśamabhyasettāvadyāvadastamito raviḥ ‖ ardharātre tvatikrāṃte tato 'śvibhyāṃ nivedayet ‖ dīrghāyuṣaṃ sarūpaṃ ca labhetputraṃ suvarcasaṃ | rūpavāṃśca bhavennityaṃ bhūtāṃśaṃ yo 'bhyasetsadā | sarvakāmikamityetammṛṣiṃ vidyādvicakṣaṇaḥ ‖*) (Ṛgvidhāna, Adhyāya 4, Ślokas 10-15).
+
+If a man who desires offspring recites this hymn, उभा उ नूनं (*ubhā u nūnaṃ*), seen by the seer Bhūtāṃśa, while he is ritually pure, he obtains a worthy, excellent son. There is no doubt in this matter. The Aśvins are to be invoked according to rule; then, by the method of the sthālīpāka, offerings are made in the fire of milk-rice, meat, cooked rice, flour mixed with curds, various fruits and the like. Afterwards they are worshipped with various perfumes, garlands and the like, and various foods to eat are made ready. From sunrise until sunset (the hymn of) this Bhūtāṃśa-seen (seer) ….
+
 ---
 
-**Progress note:** Done through printed p. 264. pp. 259-264 (batch API)
+**Progress note:** Done through printed p. 270. pp. 265-270 (batch API)
