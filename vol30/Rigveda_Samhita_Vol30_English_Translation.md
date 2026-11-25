@@ -12660,6 +12660,125 @@ The derivation of the word द्वारः (*dvāraḥ*) is explained as foll
 
 Main purport: just as wives, fully adorned at the time of union, make their attractive thighs broad and wide and stretch them for the enjoyment of their husbands, so let the broad and great doors of the sacrificial house be well open for the easy coming of the gods, the priests and the sacrificer, other people, and the rest. Kātthakya approves the meaning that द्वारः (*dvāraḥ*) here is गृहद्वार (*gṛhadvāra*), the doors of a house. Śākapūṇi's view is that द्वारः (*dvāraḥ*) means Agni, or a particular form of Agni.
 
+### Printed p. 350
+On the consecration of the four doors of the sacrificial house, the Taittirīya Saṃhitā gives this account:
+प्राचीनवग्ंशं करोति देवमनुष्या दिशो व्यभजंत प्राचीं देवा दक्षिणा पितरः प्रतीचीं मनुष्या उदीचीग्‌० रुद्राः ॥ (*prācīnavagṃśaṃ karoti devamanuṣyā diśo vyabhajaṃta prācīṃ devā dakṣiṇā pitaraḥ pratīcīṃ manuṣyā udīcīg0 rudrāḥ ‖*) (Kṛ. Saṃ. 6-1-1-1)
+That is, the eastern door of the sacrificial house was shared by the gods, the southern door by the Pitṛs (the fathers), the western door by men, and the northern door by the (eleven) Rudras.
+The names of the doors of this house are as stated at 1-188-5: Virāṭ is the eastern door, Samrāṭ the southern door, Vibhvīḥ the western door, and Prabhvīḥ the northern door. Sāyaṇa has explained the etymological meanings of these words.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सु॒स्वयं॑ती यज॒ते उपा॑के उ॒षासा॒नक्ता॑ सदतां॒ नि  ॑
+> योन् ।  
+> दि॒व्ये योष॑णे बृह॒ती सु॑रु॒क्मे अधि॒ श्रियं॑ शुक्र॒पिशं॒ दधा॑ने ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सुस्वयंती इति । यजते इति । उपाके इति। उषसानक्ता । सदतां । नि । योन् ।  
+> दिव्ये इति । योषणे इति । बृहती इति । सुरुक्मे इति सुरुक्मे । अधि । श्रियं । शुक्रपिशं । दधाने इति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुस्वयंती ॥ अय पय गत् । शतर्युपसर्गस्य सोर्द्विवचनं छांदसं ॥
+> सुष्वयंतौ गच्छंतौ । यद्वा ॥ स्वपेण्यंतस्य वर्णलोपः ॥ सुष्वापयंतौ ।
+> यजते यष्टव्ये उपाके उपक्रांते उषासानक्कोषश्च नक्तं च ॥ द्वंद्व उषासोषसः । पा. ६-३-३१ । इत्युषासादेशः । देवताद्वंद्वे चेति पूर्वोत्तरपदयो-
+
+##### Gist of the bhāṣya
+
+सुस्वयंती (*susvayaṃtī*): from the root अय (*aya*) पय (*paya*), "to go". The dual form is Vedic. It means "the two who go". Or, from the causative of *svap* with loss of a letter, "the two who put (people) to sleep". यजते (*yajate*): the two who are to be worshipped. उपाके (*upāke*): the two who have approached. उषासानक्ता (*uṣāsānaktā*): Uṣas and Night, a dvandva compound; the substitution of उषासा (*uṣāsā*) is by द्वंद्व उषासोषसः । पा. ६-३-३१ (*dvaṃdva uṣāsoṣasaḥ | pā. 6-3-31*).
+
+### Printed p. 351
+*Gist (continued):* The two goddesses of Day and Night are to sit down firmly in this place of sacrifice, the womb (योन् (*yon*)). They are of what kind? दिव्ये (*divye*): born in heaven. योषणे (*yoṣaṇe*): gladdening like women; or, योषणे (*yoṣaṇe*) means joined, not separate from each other. बृहती (*bṛhatī*): great in their qualities. सुरुक्मे (*surukme*): beautifully shining; रुक्मं (*rukmaṃ*) is "form". शुक्रपिशं (*śukrapiśaṃ*): they bear beauty of a shining form in abundance.
+
+> र्युगपत्र्कृतिस्वरत्वं ॥ अहोरात्रदेव्यौ योनावस्मिन्यज्ञस्थाने नि नितरां नियमेन
+> ना सदतां ! आसीदतां ॥ सदेर्लुजि लृदित्वाच्चेरज् ॥ कीदृश्ये । दिव्ये दिवि भवे
+> योषणे योषिताविन प्रीणयित्र्यौ! यद्वा! योषणे समिते परस्परतोऽविविक्ते ।
+> बृहतीर्गुणैर्महत्यौ सुरुक्क्षे शोभनदीप्ये ॥ रुक्मं । रोचतेर्मकृत्यये कुत्वे
+> च कृते रूपं ॥ शुक्रपिशं शोचमानरूपां श्रियमधि दधाने अधिकं धारयंत्र्यौ ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिव्ये (*divye*)—those born in the heavenly world
+- योषणे (*yoṣaṇe*)—those who are united
+- बृहती (*bṛhatī*)—those of great form
+- सुरुक्मे (*surukme*)—those of abundant radiance
+- शुक्रपिशं (*śukrapiśaṃ*)—radiant
+- श्रियं (*śriyaṃ*)—beauty
+- अधि दधाने (*adhi dadhāne*)—those who possess
+- सुस्वयंती (*susvayaṃtī*)—those who give comfort
+- यजते (*yajate*)—those worthy of worship
+- उपाके (*upāke*)—those who have graciously come together for the sacrifice
+- उषासानक्ता (*uṣāsānaktā*)—the deities of day and night
+- योन् (*yon*)—in the place of sacrifice
+- नि सदतां (*ni sadatāṃ*)—let them sit
+
+##### भावार्थ (Bhāvārtha)
+
+May the deities named Uṣāsānaktā, born in the heavenly world, united together, of great form, of abundant radiance, possessing radiant beauty, givers of comfort, worthy of worship, who have graciously come together for the sacrifice, sit in the place of sacrifice.
+
+##### English translation
+May the adorable Day and Night, the givers of sound repose, having approached, sit down in the place (of sacrifice), two divine females, majestic and richly ornamented, bearing beauty of a bright form.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk two deities, Uṣāsānaktā, are described.
+उषासानक्ता । उषासानक्कोषाश्च नक्ता चोषा व्याख्याता । नक्तेति रात्रिनामानक्ति भूतान्यवश्यायेनापि ना नक्याव्यक्तवर्णा । तयोरेषा भवति ॥ (*uṣāsānaktā | uṣāsānakkoṣāśca naktā coṣā vyākhyātā | nakteti rātrināmānakti bhūtānyavaśyāyenāpi nā nakyāvyaktavarṇā | tayoreṣā bhavati ‖*) (Ni. 8-11)
+The word उषासानक्ता (*uṣāsānaktā*) denotes the very deities that the word नक्तोषासा (*naktoṣāsā*) also denotes. In this word are the names of two deities, Naktā and Uṣas. Naktā means night: because it comes without fail every day, and अनक्ति भूतानि (*anakti bhūtāni*) — क्लेदयति भूतानि (*kledayati bhūtāni*) — it troubles all living beings; hence night is called Naktā.
+
+### Printed p. 352
+Or, अपि वा नक्ता अव्यक्तवर्णा (*api vā naktā avyaktavarṇā*) (na aktā, anaktā): since in the night there is darkness and no light as by day, no objects can be seen clearly. Therefore night, of indistinct colour, is called Naktā. Uṣas: उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ*) (Ni. 2-18). Because it drives away darkness it is called Uṣas; that is, the last part of the night is called the time of Uṣas. Then all the darkness of the night departs and light gradually becomes visible. After the darkness of the night has gone, the time filled with light before sunrise is called the time of Uṣas. The presiding deity of this time is indicated by the name Uṣas. Naktā and Uṣas are both female deities.
+Whether one reads नक्तोषासा (*naktoṣāsā*) or उषासानक्ता (*uṣāsānaktā*), the meaning is the same. The explanation of the word Uṣas has been given earlier. Naktā is a name of night. For, naktā means of indistinct colour; because of the darkness things are not seen well. So night, with its darkness, is called Naktā. And in the night living beings are unable to carry out their activities. अनक्ति क्लेद—यति .भूतानि अवश्यायेन । अपि वानक्ता अव्यक्तवर्णा । यथा अहः सर्वमभिव्यक्तरूपं भवति न तथा रात्रिः ॥ (*anakti kleda—yati .bhūtāni avaśyāyena | api vānaktā avyaktavarṇā | yathā ahaḥ sarvamabhivyaktarūpaṃ bhavati na tathā rātriḥ ‖*) Because the darkness troubles living beings, leaving no room for their activities to go on properly, night with such darkness is called Naktā. Or, because nothing is seen well and all is indistinct, it is called Naktā. By day the forms of all things are seen clearly; in the night they are not. Therefore the time of night is called Naktā; this is the explanation given. (Ni. 8-11)
+It was said that the explanation of the word Uṣas was given earlier. That explanation is as follows:
+The sixteen words beginning with विभावरी (*vibhāvarī*), सॊनरी (*sònarī*) are names of Uṣas (2-19). And,
+उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥ (*uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ ‖*)
+Because it removes the darkness of the night-time it is called Uṣas; that is, it is the later part, the last portion, of the night. To support this meaning an example is given:
+इदं श्रेष्ठं ज्योतिषां जोतिरागाच्चित्रः प्रकेतो अजिनिष्ट विभ्वा । यथा प्रसूता सवितुः सवाय एवा रात्रुषसे योनिमारैक् । (*idaṃ śreṣṭhaṃ jyotiṣāṃ jotirāgāccitraḥ praketo ajiniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātruṣase yonimāraik |*) (Ṛ. Saṃ. 1-1.3-1)
+
+### Printed p. 353
+The Nirukta on this Ṛk:
+इदं श्रेष्ठं ज्योतिषां जोतिरागमत् । चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्य । एवं रात्रुषसे योनिमरिचत् स्थानं । स्त्रीयोनिरभियुत एनां गर्भः । (*idaṃ śreṣṭhaṃ jyotiṣāṃ jotirāgamat | citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasya | evaṃ rātruṣase yonimaricat sthānaṃ | strīyonirabhiyuta enāṃ garbhaḥ |*) (Ni. 2-19)
+The best and most brilliant light of the sun is rising. The time of Uṣas, which precedes the sun's radiance, appears before the light, like its banner. How? The sun's light shines all day and at sunset becomes the womb, that is the cause, of night; in the same way, at its own end the night becomes the womb, that is the cause, of the time of Uṣas. Yoni means place of birth. The main sense is that night at the end of day, and Uṣas at the end of night, come one after the other by way of alternation. Therefore Uṣas means the radiance, the light, that spreads over all the quarters and appears after night has passed, before sunrise.
+The commentator's (Sāyaṇa's) explanation: नक्तशब्द उषश्यब्दश्च लोके कालविशेषवा. चिन् । इह तु तत्कालाभिमानिनिवह्निमूर्तिद्वये प्रयुज्येते ! नक्तोषासा नक्तोषोनामिके वह्निमूर्ति (*naktaśabda uṣaśyabdaśca loke kālaviśeṣavā. cin | iha tu tatkālābhimāninivahnimūrtidvaye prayujyete ! naktoṣāsā naktoṣonāmike vahnimūrti*) — that is, in ordinary usage the two words nakta (night) and uṣas (morning) denote particular times, night and morning. Here, that is in this Ṛk or in the Ṛgveda, these words signify the presiding deities of night and morning. So the words नक्तोषासा (*naktoṣāsā*) or उषासानक्ता (*uṣāsānaktā*) are used in the sense of two forms of Agni, the deities presiding over night and the time of Uṣas. The word सुपेशसा (*supeśasā*) (of good form or shape), used in various places, supports this meaning. For night and morning, being divisions of time, have neither form nor shape; if they are taken as presiding deities, form may be assigned to those deities. Since the Ṛk makes such an assignment, it should be understood that it speaks of the presiding deities of those times. The long vowel in नक्तोषासा (*naktoṣāsā*) is lengthened for the convenience of the metre.
+The epithet ऋतस्य मातरा (*ṛtasya mātarā*) in Ṛk 1-142-7 is very important.
+द्रवंतां त उषसा वाजयंती अग्ने वातस्य पथ्याभिरच्छ । यत्सीमंजंति पूर्व्यं हविर्भिरा वंधुरेव तस्थतुर्दुरोणे ॥ (*dravaṃtāṃ ta uṣasā vājayaṃtī agne vātasya pathyābhiraccha | yatsīmaṃjaṃti pūrvyaṃ havirbhirā vaṃdhureva tasthaturduroṇe ‖*)
+(Ṛ. Saṃ. 3-14-3)
+
+### Printed p. 354
+In this Ṛk the permanent relation between the sacrifice and the two is described. In all the Ṛks that invite them (there are about twenty such Ṛks) they are asked to come with the other deities and sit on the darbha seat. In particular they are very closely related to Agni, who is kindled at the time of Uṣas and in the evening. Therefore it is an ornamental description that they hold Agni between them.
+तम उच्छत्युषा नक्तानक्तीमां हिमबिंदुभिः । अपि वाव्यक्तवर्णेति नइद् पूर्वाञ्चीरिदं भवेत् ॥ (*tama ucchatyuṣā naktānaktīmāṃ himabiṃdubhiḥ | api vāvyaktavarṇeti naid pūrvāñcīridaṃ bhavet ‖*)
+(Bṛ. De. 3-9)
+Of these two, Uṣas drives away the darkness; Night makes everyone wet and pervaded with drops of dew. Or, since there is no definite colour, the root अंजन् (*aṃjan*) joins the particle नञ् (*nañ*) and gives the meaning "of indistinct colour".
+सा हि दोषा भवत्यादौ निशीथे सा तमस्वती । नाम्मा भवत्युषाश्चैव सैषा प्रागुदयाद्रवेः ॥ (*sā hi doṣā bhavatyādau niśīthe sā tamasvatī | nāmmā bhavatyuṣāścaiva saiṣā prāgudayādraveḥ ‖*)
+(Bṛ. De. 3-10)
+This deity is called Doṣā at the beginning, Tamasvatī at midnight, and Uṣas before sunrise. Doṣā, Tamasvatī, Śyāvī and Naktā are all names of night, as read in the Nighaṇṭu. (Nighaṇṭu 1-7).
+Elsewhere in the Ṛksaṃhitā, by epithets such as तंतुं ततं संवयंती (*taṃtuṃ tataṃ saṃvayaṃtī*) (Ṛ. Saṃ. 2-3-6), the help of Uṣāsānaktā in extending the sacrifice is described.
+Yāska's Nirukta on the present Ṛk reads:
+आसुष्टयंती यजते उपाके उषासानक्ता सदतां नियोन् । दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥ सेस्मीयमाणे इति वा सुष्वापयंत्याविति वा सीदतामिति वा न्यासीदतामिति वा । यज्ञिये उपक्रांते दिव्ये योषणे बृहत्वा महत्वा सुरुक्मे सुरोचने अधिदधाने शुक्रपेशसं श्रियं शुक्रं शोचतेर्ज्वलतिकर्मणः । पेश इति रूपनाम पिंशतेर्विपिशितं भवति ॥ (*āsuṣṭayaṃtī yajate upāke uṣāsānaktā sadatāṃ niyon | divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖ sesmīyamāṇe iti vā suṣvāpayaṃtyāviti vā sīdatāmiti vā nyāsīdatāmiti vā | yajñiye upakrāṃte divye yoṣaṇe bṛhatvā mahatvā surukme surocane adhidadhāne śukrapeśasaṃ śriyaṃ śukraṃ śocaterjvalatikarmaṇaḥ | peśa iti rūpanāma piṃśatervipiśitaṃ bhavati ‖*)
+(Ni. 8-11)
+आसुष्टयंती—सेष्मीयमाणे परस्परं स्मयमाने अथवा सुष्वापयंत्र्यौ सुष्टु जनान् स्थापयंत्यौ ॥ (*āsuṣṭayaṃtī—seṣmīyamāṇe parasparaṃ smayamāne athavā suṣvāpayaṃtryau suṣṭu janān sthāpayaṃtyau ‖*) आसुष्टयंती (*āsuṣṭayaṃtī*) means those who look at each other and smile gently;
+
+### Printed p. 355
+or those who make people sleep well; that is, when the time of Uṣas comes people are glad, and in the night they sleep. May these deities Uṣāsānaktā, possessed of such qualities, sit सदतां नियोन् (*sadatāṃ niyon*) in their own place; this is the sense.
+यज्ञिये (*yajñiye*)—those worthy of worship in the sacrifice, or those who are helpers in carrying out the sacrificial rite.
+उपाके—उपक्रांते । (*upāke—upakrāṃte |*) those who are near.
+दिव्ये योषणे (*divye yoṣaṇe*)—those who are not separated from each other in the heavenly world, that is, in the atmosphere. Since the time of Uṣas arrives after night, the sense is that they are joined together.
+बृहती सुरुक्मे—महत्यौ सुरोचने । (*bṛhatī surukme—mahatyau surocane |*) those who shine with great brilliance.
+अधिश्रियं शुक्रपिशं दधाने—शुक्रपेशसं श्रियं अधिदधाने । (*adhiśriyaṃ śukrapiśaṃ dadhāne—śukrapeśasaṃ śriyaṃ adhidadhāne |*) Those who wear a white-coloured radiance in the upper part of the atmosphere, that is, who shine with abundant splendour.
+शुक्रं शोचतेर्ज्वलतिकर्मणः (*śukraṃ śocaterjvalatikarmaṇaḥ*)—the word शुक्र (*śukra*) is derived from the root शुच् (*śuc*), meaning to shine, to blaze. शुक्रं (*śukraṃ*) means shining.
+पेश इति रूपनाम पिंशतेर्विपिशितं भवति (*peśa iti rūpanāma piṃśatervipiśitaṃ bhavati*)—पेश (*peśa*) is a name for form. The word पेश (*peśa*) is derived from the root पिश् (*piś*), meaning to adorn. विपिशितं (*vipiśitaṃ*) means well adorned.
+The main sense: may the deities of the time of Uṣas and of night, Uṣāsānaktā — smiling gently, or making people sleep; helpers of the sacrificial rite; close at hand; being mingled with each other in the atmosphere; shining with abundant brilliance; wearing a glittering divine radiance of white colour — come to this our sacrificial altar and sit in the place prepared for them.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दैव्या॒ होता॑रा प्रथ॒मा सु॒वाचा॒ मिमा॑ना य॒ज्ञं मनु॑षो॒  ॑
+> यजध्यै ।  
+> प्र॒चो॒दयं॑ता वि॒दथे॑षु का॒रू प्रा॒चीनं॒ ज्योतिः॑ प्र॒दिशा॑  ॒॑
+> दिशंता ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 349. pp. 343-349 (batch API)
+**Progress note:** Done through printed p. 355. pp. 350-355 (batch API)
