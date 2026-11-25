@@ -26542,6 +26542,326 @@ O gods, worship Agni, the leader of the sacrifice, the protector of men, the one
 ##### English translation
 You (gods, adore) the charioteer of the sacrifice, the lord of men, the invoker of the gods, the guest of night, the resplendent (Agni). Blazing amid the dry (bushes) preying upon the green, the showerer of desires, thc banner (of light), the adorable, he reposes in heaven.
 
+### Printed p. 969
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ममं॑ज॒स्सामु॒भये॑ अकृण्वत ध॒र्माण॑म॒ग्निं वि॒दथ॑स्य॒  ॑
+> साधनं ।  
+> अ॒क्तुं न य॒ह्वमु॒षसः॑ पु॒रोहि॑तं॒ तनू॒नपा॑तमरु॒षस्य॑  
+> निंसते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । अंजःसां । उभये । अकृण्वत । धर्माणं । अग्निं । विदथस्य । साधनं ।  
+> अक्तुं । न । यह्वं । उषसः । पुरःहितं । तनू३नपातं । अरुषस्य । निंसते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उभये देवमनुष्या अंजस्पामंजसा रक्षकंधर्माणः धारकमिममग्निं
+> विदथस्य यज्ञस्य साधनं साधयितारमकृण्वत । अकुर्वत । किंचारुषस्यारोचमानस्य
+> वायोस्तनूनपातं पुत्रं यह्वं महांतं पुरोहितमुषसोक्तुं न स्वरश्मिभिरंजकमादित्यमिव निंसते । चुंबयंति । आश्रयंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Both groups, gods and men, have made this Agni, the protector who protects swiftly and the upholder, the accomplisher of the sacrifice (vidatha means sacrifice). Further, they resort to him, the son of the shining Vāyu, the great one, the one placed in front (the purohita), just as (the dawns) resort to the sun, who anoints the dawn with his own rays, that is, they kiss him, they take refuge in him. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंजस्पां (*aṃjaspāṃ*)—swift protector
+- धर्माणं (*dharmāṇaṃ*)—and upholder of the world
+- अग्निं (*agniṃ*)—this Agni
+- विदथस्य (*vidathasya*)—for the sacrifice
+- साधनं (*sādhanaṃ*)—as the manager
+- उभये (*ubhaye*)—the gods and the men together
+- अकृण्वत (*akṛṇvata*)—have made
+- उषसः (*uṣasaḥ*)—the dawns, with their rays
+- अक्तुं (*aktuṃ*)—as (they) resort to the sun
+- अरुषस्य (*aruṣasya*)—of the attractive Vāyu
+- तनूनपातं (*tanūnapātaṃ*)—the son
+- यह्वं (*yahvaṃ*)—the great-souled
+- पुरोहितं (*purohitaṃ*)—and the one who goes in front of the sacrifice, Agni
+- निंसते (*niṃsate*)—gods, men and all the rest resort to
+
+##### भावार्थ (Bhāvārtha)
+
+The swift protector and upholder of the world, this Agni, the gods and men together have established as the manager of the sacrifice. As the dawns resort to the sun by their rays, so gods, men and all the rest resort to Agni, the son of Vāyu, the great-souled, the one who goes in front of the sacrifice.
+
+##### English translation
+Both (men and gods) have made Agni the speedy protector, the upholder of duty, the accomplisher of the sacrifice; they have recourse to him (who is) vast as the sun, the precursor of the dawn, the son of the brilliant (Yayu).
+
+### Printed p. 970
+
+#### Ṛk 3
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बळ॑स्य नी॒था वि प॒णेश्च॑ मन्महे व॒या अ॑स्य॒ प्रहु॑ता आसु॒रत्त॑वे।  
+> य॒दा घो॒रासो॑ अमृत॒त्वमाश॒तादिज्जन॑स्य॒ दैव्य॑स्य चर्किरन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बट् । अस्य । नीथा । वि । पणेः । च । मन्महे । वयाः । अस्य । प्रहुताः । आसुः ।  
+> अत्तवे ।  
+> यदा । घोरासः । अमृतत्वं । आशत । आत् । इत् । जनस्य । दैव्यस्य । चर्किरन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वि पणेरस्माभिर्निविधं पणितव्यस्य स्तुत्यस्याग्नेर्निथा नीथान्यस्मत्संबंधीनि
+> प्रज्ञानानि बट् सत्यानि स्युरिति मन्महे । वयं कामयामहे । किंचास्याग्नेर्वया
+> अस्मदीया अन्नाहुतयेऽत्तवे भक्षणाय प्रहुता आसुर्भवेयुरिति कामयामहे ।
+> किंच यदा यस्मिन्काले घोरासो घोरा अग्नेज्वाला अमृतत्त्वमविनाशित्वमाशत
+> प्राप्पुवंति आदिदनंतरमेवास्माकम्मृत्तिजो दैव्यस्य देवेषु भवस्य जनस्याग्नेरर्थाय चर्किरन् । किरेयुः । अग्नौ हवींषि प्रक्षिपेयुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We wish that the knowledge relating to us, concerning this Agni who is to be adored by us in many ways, the praiseworthy, may be true. Further, we wish that our food-oblations, offered to this Agni, may be made ready for his eating. Further, when the fierce flames of Agni attain immortality, that is, indestructibility, immediately afterwards our priests would scatter, that is, throw oblations into Agni, for the sake of the divine person (the one who exists among the gods), Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वि पणेः अस्य (*vi paṇeḥ asya*)—concerning Agni, who is worshipful in many ways
+- नीथा (*nīthā*)—our notions
+- बट् (*baṭ*)—that they may be true
+- मन्महे (*manmahe*)—we desire
+- अस्य (*asya*)—offered to this Agni
+- वयाः (*vayāḥ*)—the food-oblations
+- अत्तवे (*attave*)—that they may be fit for his eating
+- प्रहुता आसुः (*prahutā āsuḥ*)—may become well cooked
+- यदा (*yadā*)—when
+- घोरासः (*ghorāsaḥ*)—the terrible flames of Agni
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from destruction
+- आशत (*āśata*)—attain
+- आदित् (*ādit*)—at once then
+- दैव्यस्य जनस्य (*daivyasya janasya*)—for Agni, whose nature is divine
+- चर्किरन् (*carkiran*)—the priests offer the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+We wish that our notions concerning Agni, who is worshipful in many ways, may be true. May the food-oblations offered to this Agni become well cooked, fit for his eating. When the terrible flames of Agni attain freedom from destruction, at once the priests offer oblations for Agni, whose nature is divine.
+
+### Printed p. 971
+
+##### English translation
+We desire that our notions of that adorable (Agni) may be true, and that our oblations may be to him for food. When his formidable (flames) attain immortality, then may our priests scatter (oblations for tho benefit) of the divine being.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॒ हि प्रसि॑ति॒र्दौरु॒रु व्यचो॒ नमो॑ म॒ह्य१॒॑ १ रम॑तिः॒  ॑
+> पनीयसी ।  
+> इंद्रो॑ मि॒त्रो वरु॑णः॒ सं चि॑कित्रि॒रेऽथो॒ भगः॑ सवि॒ता पू॒तद॑क्षसः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । हि । प्रसितिः । द्यौः । उरु । व्यचः । नमः । मही । अरमतिः । पनीयसी ।  
+> इंद्रः । मित्रः । वरुणः । सं । चिकित्रिरे । अथो इति । भगः । सविता । पूतदक्षसः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य यज्ञस्य संबंधिनमग्निं प्रति प्रसितिर्विस्कृता द्यौरुरु विस्तीर्णं
+> व्यचो व्याप्तमंतरिक्षं च पनीयसी स्तुत्यतमारमतिः पर्यंतरहिता मही पृथिवी
+> च नमो नमनं कुर्वंतीति शेषः । अथो अपि चैनमग्निमिंद्रो मित्रश्च वरुणश्च
+> भगश्च सविता पूतदक्षसः शुद्धबला एते देवा एनमग्निं सं चिकित्रिरे । जैष्ठाय
+> संजानते ॥
+
+##### Gist of the bhāṣya
+
+To Agni, who belongs to the sacrifice, the wide heaven, the far-pervading atmosphere, and the most praiseworthy, boundless great earth do homage (the verb is to be supplied). Moreover, Indra, Mitra, Varuṇa, Bhaga and Savitṛ, these gods of purified strength, unite in acknowledging this Agni, that is, they recognise his superiority.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—to Agni, who belongs to the sacrifice
+- प्रसितिः (*prasitiḥ*)—extended
+- द्यौः (*dyauḥ*)—the presiding deity of heaven
+- उरु (*uru*)—extended
+- व्यजः (*vyajaḥ*)—the presiding deity of the atmosphere
+- पनीयसी (*panīyasī*)—most praiseworthy
+- अरमतिः (*aramatiḥ*)—and boundless
+- मही (*mahī*)—the earth
+- नमः (*namaḥ*)—offer homage
+- अथो (*atho*)—moreover
+- पूतदक्षसः (*pūtadakṣasaḥ*)—of wholly purified strength
+- इंद्रः (*iṃdraḥ*)—Indra
+- मित्रः (*mitraḥ*)—Mitra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- भगः (*bhagaḥ*)—Bhaga
+- सविता (*savitā*)—Savitṛ (all together)
+- सं चिकित्रिरे (*saṃ cikitrire*)—have acknowledged the pre-eminence of this Agni
+
+### Printed p. 972
+
+##### भावार्थ (Bhāvārtha)
+
+The extended presiding deity of heaven, the extended presiding deity of the atmosphere, and the earth, most praiseworthy and boundless, offer homage to this Agni who belongs to the sacrifice. Indra, Mitra, Varuṇa, Bhaga and Savitṛ, of wholly purified strength, together have acknowledged the pre-eminence of this Agni.
+
+##### English translation
+The vast heaven, the spacious firmament, the glorious unbounded earth, (do) homage ( to the Agni ) of the sacrifice; and Indra, Mitra, Varuna, Bhaga, and Savitri, whose strength is purified, unite to recognize (his excellence).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र रु॒द्रेण॑ य॒यिना॑ यंति॒ सिंध॑वस्ति॒रो म॒हीम॒रम॑तिं  
+> दधन्विरे ।  
+> येभिः॒ परि॑ज्मा परि॒यन्नुनु॒रु ज्रयो॒ वि रोरु॑वज्ज॒ठरे॒ विश्व॑मु॒क्ते॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । रुद्रेण । ययिना । यंति । सिंधवः । तिरः । महीं । अरमतिं । दधन्विरे ।  
+> येभिः । परिज्मा । परियन् । उरु । ज्रयः । वि । रोरुवत् । जठरे । विश्वं ।  
+> उक्षते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सिंधवः स्यंदनशीला आपो ययिना गमनशीलेन रुद्रेण रुद्रपुत्रेण
+> मरुद्धणेन सह प्र यंति । अथ बहुवदाह । तेऽमी मरुतोऽरमतिं । रमतिर्विरामोऽवसानं । तद्रहितामपर्यंतां महीं पृथीवीं तिरो दधन्विरे ।
+> तिरस्कुर्वंतीत्यर्थः । परिज्मा परितो गंतेंद्रः परियन् परितो गच्छन् येभि-
+
+### Printed p. 973
+
+> र्यैर्मरुद्धणैः सहोरु ज्रयो बहुवेगं करोतीति शेषः । किंच जठरेंतरिक्षे
+> रोरुवच्छब्दं कुर्वन्पर्जन्यो र्यैर्मरुद्धणैः सह विश्वं भुवनमुक्षते सिंचते ॥
+
+##### Gist of the bhāṣya
+
+The rivers, the flowing waters, go forth together with Rudra, the moving one, that is, with the host of the Maruts, the sons of Rudra. Then he speaks of them in the plural: those Maruts overspread the great earth, which is boundless, that is, without end; the sense is that they cast it into the shade. Indra, who goes all round, going about with those Marut hosts, makes great speed (the verb is to be supplied). Further, Parjanya, making a roaring sound in the belly, the atmosphere, together with those Marut hosts sprinkles the whole world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधवः (*siṃdhavaḥ*)—the rivers of flowing nature
+- ययिना (*yayinā*)—moving
+- रुद्रेण (*rudreṇa*)—together with the Maruts, the sons of Rudra
+- प्र यंति (*pra yaṃti*)—flow forth
+- अरमतिं (*aramatiṃ*)—boundless
+- महीं (*mahīṃ*)—the earth
+- तिरः दधन्विरे (*tiraḥ dadhanvire*)—(these Maruts) take possession of and pervade
+- येभिः (*yebhiḥ*)—together with these same Maruts
+- परिज्मा (*parijmā*)—Indra, who goes everywhere
+- उरु ज्रयः (*uru jrayaḥ*)—becomes possessed of still greater speed
+- परियन् (*pariyan*)—moves about everywhere
+- जठरे (*jaṭhare*)—in the middle part of the atmosphere
+- रोरुवत् (*roruvat*)—(in the form of Parjanya) making a sound
+- विश्वं (*viśvaṃ*)—the whole world
+- व्युक्षते (*vyukṣate*)—drenches with rain
+
+##### भावार्थ (Bhāvārtha)
+
+The rivers, flowing in streams, flow forth together with the moving Maruts, the sons of Rudra. These Maruts take possession of the boundless earth and pervade it. Together with these same Maruts, Indra, who goes everywhere, becomes possessed of still greater speed and moves about everywhere. In the middle part of the atmosphere, making a sound in the form of Parjanya, he drenches the whole world with rain.
+
+##### English translation
+The rivers flow along with the rushing (son of) Rudra, they sweep over the boundless earth; and with them the circumambient (Indra) sweeping over a wide space, roaring in the belly (of the firmament), sprinkles the whole world.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रा॒णा रु॒द्रा म॒रुतो॑ वि॒श्वकृ॑ष्टयो दि॒वः श्ये॒नासो॒ असु॑रस्य  ॒॑
+> नीळयः ।  
+> तेभि॑श्चष्टे॒ वरु॑णो मि॒त्रो अ॑र्य॒मेंद्रो॑ दे॒वेभि॑रर्व॒शेभि॒रर्व॑शः ॥ ६ ॥
+
+### Printed p. 974
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्राणाः । रुद्राः । मरुतः । विश्वकृष्टयः । दिवः । श्येनासः । असुरस्य । नीळयः ।  
+> तेभिः । चष्टे । वरुणः । मित्रः । अर्यमा । इंद्रः । देवेभिः । अर्वशेभिः । आर्वशः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असुरस्य मेघस्य नीळय आवासभूता दिवोऽंतरिक्षसंबंधिनः श्येनासः श्येनाः
+> शंसनीयगतयो विश्वकृस्टयो व्याप्तमनुष्या रुद्रा रुद्रपुत्रा ये मरुतः क्राणाः
+> स्वाधिकारकर्माणि कुर्वाणा आसत इति शेषः । तेभिस्तैरर्वशेभिरश्ववद्भिः सोमवद्भिर्वा
+> देवेभिर्देवैः सहार्वशोऽश्ववान् सोमवान्वेंद्रश्चष्टे । पश्यति । वरुणश्च
+> मित्रश्चार्यमा च सोमवद्भिर्मरुद्भिः सह पश्यंति ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, the sons of Rudra, who are the dwellings of the Asura, that is, of the cloud, the hawks (of praiseworthy motion) belonging to heaven, that is, the atmosphere, the men who pervade all, are Krāṇāḥ, that is, they are engaged in performing the actions that belong to them (the verb is to be supplied). With those Maruts, who are possessed of horses or of Soma, together with the gods, Indra, who is the possessor of horses or of Soma, beholds. And Varuṇa, Mitra and Aryaman behold together with the Maruts, who are possessed of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुरस्य (*asurasya*)—for the cloud
+- नीळयः (*nīḷayaḥ*)—the givers of shelter
+- दिवः (*divaḥ*)—in the atmosphere
+- श्येनासः (*śyenāsaḥ*)—possessing a praiseworthy motion
+- विश्वकृष्टयः (*viśvakṛṣṭayaḥ*)—joined with men
+- रुद्राः (*rudrāḥ*)—the sons of Rudra
+- मरुतः (*marutaḥ*)—the Maruts
+- क्राणाः (*krāṇāḥ*)—carry out their actions
+- अर्वशेभिः (*arvaśebhiḥ*)—possessed of horses
+- देवेभिः (*devebhiḥ*)—and of divine nature
+- तेभिः (*tebhiḥ*)—together with them
+- आर्वशः (*ārvaśaḥ*)—the possessor of horses
+- इंद्रः (*iṃdraḥ*)—Indra
+- चष्टे (*caṣṭe*)—knows the rite
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अरमा (*aramā*)—Aryaman, together with these behold their rite
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, sons of Rudra, who give shelter to the cloud, who have a praiseworthy motion in the atmosphere and are joined with men, carry out their actions. Together with them, who are possessed of horses and of divine nature, Indra, the possessor of horses, and Varuṇa, Mitra and Aryaman know their rite.
+
+##### English translation
+The Maruts, the sons of Rudra, Mixing with men, the hawks of the sky, the inhabitants of the cloud. (are) performing (their functions.); with those horse-owning deities, Varuna, Mitra, Aryaman, and Indra, the lord of horses contemplates (the rite).
+
+### Printed p. 975
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रे॒ भुजं॑ शशमा॒नास॑ आशत॒ सूरो॒ दृशी॑के॒ वृष॑णश्च॒  ॑
+> पांस्ये ।  
+> प्र ये न्व॑स्या॒र्हणा॑ ततक्षि॒रे युजं॒ वज्रं॑ नृ॒षद॑नेषु  ॒॑
+> कारवः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रे । भुजं । शशमानासः । आशत । सूरः । दृशीके । वृषणः । च । पौंस्यॆ ।  
+> प्र । ये । नु । अस्य । अर्हणा । ततक्षिरे । युजं । वज्रं । नृसदनेषु । कारवः ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये शशमानासः शशमानाः स्तोतार इंद्रे स्तुते सति भुजं पालनमाशत
+> प्राप्रुवंति । सूरः सूर्ये स्तुते सति दृशीके दर्शनं सर्ववस्तु विषयं प्राप्ुवंति ।
+> वृषणो वर्षितरींद्रे स्तुते पौंस्यं बलं च प्राप्ुवंति ! किंच ये कारवः
+> स्तोतारोऽस्येंद्रस्यार्हणा पूजनानि नु क्षिप्रं ततक्षिरे प्रकृष्टानि कुर्वंति ते
+> स्तोतारो नृषदनेषु नरः कर्तृत्वेन येषु सीदंति तिष्ठंति तेषु यज्ञेषु
+> युजं सहायमिंद्रस्य वज्रं प्राप्ुवंति ॥
+
+##### Gist of the bhāṣya
+
+The praisers, when Indra is praised, obtain protection. When the sun is praised, they obtain sight with regard to every object. When Indra, the showerer, is praised, they obtain manly strength. Further, those singers who quickly make excellent the worship of this Indra: those singers, in the sacrifices where men sit as doers, obtain the thunderbolt of Indra as helper.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शशमानासः (*śaśamānāsaḥ*)—the praisers
+- इंद्रे (*iṃdre*)—in Indra
+- भुजं (*bhujaṃ*)—protection
+- आशत (*āśata*)—obtain
+- सूरः (*sūraḥ*)—praising the sun
+- दृशीके (*dṛśīke*)—they obtain the whole power of sight
+- वृषणः (*vṛṣaṇaḥ*)—praising Indra, who is endowed with power
+- पौंस्यं (*pauṃsyaṃ*)—they obtain manly strength
+- ये कारवः (*ye kāravaḥ*)—the praisers who
+- अस्य (*asya*)—of Indra
+- अर्हणा (*arhaṇā*)—the worships
+- नु (*nu*)—quickly
+- प्र ततक्षिरे (*pra tatakṣire*)—carry out, they
+- नृषदनेषु (*nṛṣadaneṣu*)—in the places of sacrifice
+- युजं (*yujaṃ*)—for their help
+- वज्रं (*vajraṃ*)—obtain the thunderbolt of Indra
+
+##### भावार्थ (Bhāvārtha)
+
+Those who praise Indra obtain protection in Indra. Praising Indra in the form of the sun, they obtain the whole power of sight. Praising Indra, who is endowed with power, they obtain manly
+
 ---
 
-**Progress note:** Done through printed p. 968. Ṛk 11 end, Ṛks 12-15 of Sūkta 91, Sūkta 92 intro and Ṛk 1
+**Progress note:** Done through printed p. 975. Ṛks 2-7 of Sūkta 92
