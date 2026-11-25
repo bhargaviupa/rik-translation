@@ -22543,6 +22543,152 @@ In the state of wakefulness, in which the senses are alert to external objects, 
 
 (Kaṭha. U. 2-1-1)
 
+### Printed p. 803
+
+When the senses, the eye and the rest, are left always attached to external objects, finding satisfaction only in the objects that lie outside and being stained by desire and the like, the Self is in the waking state. Then all the activities of the senses are external only. They cannot spread inward to the Self who lies within the heart. This is the first state. Secondly:
+
+स्वप्नःस्थानोऽंतःप्रज्ञः सप्तांग एकोनविंशतिमुखः तैजसो द्वितीयः पादः । (*svapnaḥsthāno 'ṃtaḥprajñaḥ saptāṃga ekonaviṃśatimukhaḥ taijaso dvitīyaḥ pādaḥ |*)
+
+(Mā. U. 1-4) **NOTE**
+
+The Self in this state is called Taijasa. He is svapnasthāna, the one whose place is dream. Because knowledge of external objects arises through the external instruments, the senses such as the eye, what takes the form of an external object is a mere stirring of the mind alone, and this produces in the mind an impression that is itself impermanent. The mind that has received that very impression, like a cloth with a picture drawn on it, seems to be awake, impelled by ignorance, desire and action, without wanting any external instrument. Therefore:
+
+अस्य लोकस्य सर्वावको मात्रामपादाय । (*asya lokasya sarvāvako mātrāmapādāya |*)
+
+(Bṛ. U. 4-3-9)
+
+Taking the impression of the waking state, which has all the instruments and their fullness, the Self experiences the dream. Because the mind alone is more inward than the senses, and because the knowledge in the form of impression arises in him in the dream, he is called antaḥprajña in this state. Even so, the knowledge that is of the nature of impression is here the thing enjoyed. This is the second quarter, the state of dream.
+
+Besides these two states there is another state, deep sleep:
+
+यत्र सुप्रो न कंचन कामं कामयिते न कंचन स्वप्नं पश्यति तत् सुषुप्तं । सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवानंदमयो ह्यानंदभुक्षेतोमुखः प्राज्ञस्तृतीयः पादः ॥ (*yatra supro na kaṃcana kāmaṃ kāmayite na kaṃcana svapnaṃ paśyati tat suṣuptaṃ | suṣuptasthāna ekībhūtaḥ prajñānaghana evānaṃdamayo hyānaṃdabhukṣetomukhaḥ prājñastṛtīyaḥ pādaḥ ‖*)
+
+(Mā. U. 1-5)
+
+In this state the Self is asleep. He desires no desire. He sees no dream. At this time he is suṣupti-sthāna, unified, a mass of knowledge, made of bliss, an enjoyer of bliss, with thought as his mouth. This is the third quarter. And because the mind has none of the suffering and fatigue of the agitation of object and subject, the Self is full of bliss; he abounds in bliss (it does not mean that he is of the nature of bliss). But this bliss too does not remain permanently; it is perishable. This is the third quarter.
+
+### Printed p. 804
+
+एष सर्वेश्वर एष सर्वज्ञ एषोऽंतर्याम्येष योनिः सर्वस्य प्रभवा प्ययौ हि भूतानां । (*eṣa sarveśvara eṣa sarvajña eṣo 'ṃtaryāmyeṣa yoniḥ sarvasya prabhavā pyayau hi bhūtānāṃ |*)
+
+(Mā. U. 1-6)
+
+This one is the Lord of all. This one is the all-knower. This one is the inner controller of all. This one is the cause of everything. He is the origin and the dissolution of all beings. This Supreme Self has four states. Above, three states have been stated: waking, dream and deep sleep. These are also called the three quarters. That is why the epithet "three-quarters" occurs. The fourth state is the turīya state.
+
+नांतःप्रज्ञं न बहिष्प्रज्ञं नोभयतः प्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञं । अदृष्टमव्यवहारमग्रामलक्षणमचिंत्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपंचोपशमं शांतं शिवमद्वैतं चतुर्थं मन्यंते स आत्मा स विज्ञेयः । (*nāṃtaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥ prajñaṃ na prajñānaghanaṃ na prajñaṃ nāprajñaṃ | adṛṣṭamavyavahāramagrāmalakṣaṇamaciṃtyamavyapadeśyamekātmapratyayasāraṃ prapaṃcopaśamaṃ śāṃtaṃ śivamadvaitaṃ caturthaṃ manyaṃte sa ātmā sa vijñeyaḥ |*)
+
+(Mūla U. 1-7) **NOTE**
+
+In this turīya state the Self is neither antaḥprajña, nor bahiṣprajña, nor a mass of knowledge, nor a knower. He is beyond ordinary dealings. He is without marks. He is unthinkable. He is that whose essence is the conviction of the one Self. He is the Self who is tranquil, auspicious and non-dual. Therefore he is described as "three quarters rose upward". His nature is as follows:
+
+अथ य एष संप्रसादोऽस्माच्छरीरात्समुत्थाय परं ज्योतिरुपसंपद्य स्वेन रूपेणाभिनिष्पद्यत एष आत्मेति होवाचैतदमृतमभयमेतद्ब्रह्मेति तस्य ह वा एतस्य ब्रह्मणो नाम सत्यमिति ॥ (*atha ya eṣa saṃprasādo 'smāccharīrātsamutthāya paraṃ jyotirupasaṃpadya svena rūpeṇābhiniṣpadyata eṣa ātmeti hovācaitadamṛtamabhayametadbrahmeti tasya ha vā etasya brahmaṇo nāma satyamiti ‖*)
+
+(Bhā. U. 8-3-4) **NOTE**
+
+The Supreme Self in the turīya state is the serene Self. Crossing beyond the fetter of the body, he shines with his own supreme divine light. Because he is other than the body he is immortal, free from fear, the Supreme Brahman of the nature of truth. This turīya state, shining with its own light, is praised in the sentence above (Chā. U. 8.3-2) as the world of Brahman. (The Maitrupaniṣad refers to this very Ṛk 3 and 4 of 10-90. Mai. U. 7-11) **NOTE**
+
+Thus the purport of the sentence "three quarters rose upward" can be taken in four ways as explained above; it is stated that it can be taken also in a fifth way. That order of purport is now given.
+
+### Printed p. 805
+
+यद्वा त्रिपाच्छब्बेन वेदत्रयी संगृह्यते । तत ऊर्धं इत्यनेन यत्र सर्वेषां वेदानां प्रतिपादकतया 'एकीभावः तस्मिन्थाम्नि स्वरूपे उपलब्धिं गतः ॥ (*yadvā tripācchabbena vedatrayī saṃgṛhyate | tata ūrdhaṃ ityanena yatra sarveṣāṃ vedānāṃ pratipādakatayā 'ekībhāvaḥ tasminthāmni svarūpe upalabdhiṃ gataḥ ‖*) **NOTE**
+
+The three Vedas, Ṛk, Yajus and Sāma, are denoted by the word tripāt. One view is that the purport here is that the Supreme Person, who is indescribable and beyond description and is not caught even by their descriptions, is praised. This purport also has the support of the Vedic texts.
+
+यतो वाचो निवर्तंते । अप्राप्य मनसा सह । (*yato vāco nivartaṃte | aprāpya manasā saha |*)
+
+(Tri. U. 2-9) **NOTE**
+
+Brahman has two states, with attributes and without attributes. While in the worldly state, as having qualities and parts, the Vedas can describe the nature of Brahman. The Supreme Person who is beyond the world the Vedas cannot describe. Therefore he is beyond description by speech. He can be realised only by meditation. That the nature of the Supreme Brahman and the like is beyond description by speech was explained earlier in the 12th part of the Ṛgveda-saṃhitā. Therefore there is no need to explain it again here.
+
+Thus a purport of five kinds can be stated. Though he is beyond the three quarters, he again undergoes change into the worldly form that is a mere quarter of himself; this is stated by the sentence पादोऽस्येहाभवत्पुनः (*pādo 'syehābhavatpunaḥ*). Sāyaṇa has explained the word pāda as "a trace". This quarter, this trace, again became: it comes again and again through creation and dissolution; the meaning is that through the acts of creation and dissolution he manifests again and again a mere trace of himself in the form of the world.
+
+सर्वभूतानि कौंतेय प्रकृतिं यांति मामिकां । कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहं ॥ (*sarvabhūtāni kauṃteya prakṛtiṃ yāṃti māmikāṃ | kalpakṣaye punastāni kalpādau visṛjāmyahaṃ ‖*)
+
+(Bha. 19. 9-7) **NOTE**
+
+O son of Kuntī, at the end of the kalpa all beings enter into me alone; again at the beginning of the kalpa I myself send them forth. In this way the Upaniṣads praise the Supreme Brahman, who is the cause of the three acts of creation, maintenance and dissolution:
+
+सर्वं खल्विदं ब्रह्म तज्जलानिति कांत उपासीत । (*sarvaṃ khalvidaṃ brahma tajjalāniti kāṃta upāsīta |*)
+
+(Bhā. U. 3-94) **NOTE**
+
+### Printed p. 806
+
+The word tajjalān shows the three acts of the worldly quarter of Brahman: taj, tal and tan. These three special acts show the relation between the world and Brahman. First:
+
+तज्जं—तस्माद्ब्रह्मणो जातं तेजोऽबन्नादिक्रमेण सर्वं । अतस्तज्जं । (*tajjaṃ—tasmādbrahmaṇo jātaṃ tejo 'bannādikrameṇa sarvaṃ | atastajjaṃ |*)
+
+Since everything is born from Brahman alone in the order of fire, water (jala), food and so on, it is described as tajja, "born of that".
+
+तथा तेनैव जननक्रमेण प्रतिलोमतया तस्मीन्नेव ब्रह्मणि लीयते तदात्मतया शिष्यत इति तल्लं । (*tathā tenaiva jananakrameṇa pratilomatayā tasmīnneva brahmaṇi līyate tadātmatayā śiṣyata iti tallaṃ |*)
+
+(Śa. Bhā.)
+
+In the way the world arose, in that same way it is dissolved in that same Brahman and again attains the very form of Brahman; therefore it became known as talla.
+
+तथा तस्मिन्नेव स्थितिकाले अनिति प्राणति चेष्टत इति । (*tathā tasminneva sthitikāle aniti prāṇati ceṣṭata iti |*)
+
+In the time of the world's continuance it takes shelter in that same Brahman and breathes. Therefore Brahman is described as tajjalān by the three acts: origin (ja), dissolution (lī) and breathing, that is, continuance (anit).
+
+एवं ब्रह्मात्मकतया त्रिषु कालेषु अवशिष्टं तद्व्यतिरेकेण अग्रहणात् । (*evaṃ brahmātmakatayā triṣu kāleṣu avaśiṣṭaṃ tadvyatirekeṇa agrahaṇāt |*)
+
+Thus the purport is that in these three states, creation, continuance and dissolution, there is no world different from Brahman. Therefore:
+
+विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् । (*viṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat |*)
+
+(Bha. Gī. 10)
+
+The Gītā declares: I pervade the whole world with one part of myself. By the sentence पादोऽस्येहाभवत्पुनः (*pādo 'syehābhavatpunaḥ*) and by साशनानशने अभि (*sāśanānaśane abhi*) the three items, creation, continuance and dissolution, are indicated. Therefore the relation between the world and Brahman is explained in these three states in the same order. Since this same idea continues in the next Ṛk, the matter will be explained in the special topics of the next Ṛk.
+
+The main purport
+
+In this Ṛk the order of creation is described. It describes the unmanifest state of the Supreme Self before creation, and then how in the time of creation it attained manifestation and received the forms of the world, moving and unmoving, and the rest.
+
+### Printed p. 807
+
+The words tripāt, ūrdhva, udait and puruṣa in the sentence "three quarters upward rose the Person" need some explanation. Tripāt means three quarters; pāda means only one part out of four. These meanings can be taken in this Ṛk, but the main sense of these words is more extensive. The sense "a very large part" and "some small part somewhere" is more suitable than "three-quarter part" and "quarter part". The seer, having this sense in mind, said "three-quarter part" and "quarter part" when he put it into the sentences. Just as the word sahasra (thousand) is used to describe a large number or what is beyond counting, so here the word tripāt, three-quarter part, is used to indicate a large part. In the same way the word pāda, quarter part, is used to indicate a mere small part.
+
+Ūrdhva means the upper part. Udait means is, is established. That the worlds such as heaven, which are not visible to us, lie above the atmosphere is stated in many places in the Ṛgveda. That is, it is customary to say that the heavenly worlds, better than the earth or the world of earth, and the unmanifest state of the Supreme Self, called the highest abode, lie in the upper part. There is no separate place designated for heaven and for the unmanifest state.
+
+As is said in the Taittirīya-saṃhitā, the world of the gods is hidden from the world of men. The world of men and the world of the gods are one within the other, that is, they exist in the same region, interwoven like warp and woof. The world of men is perceptible to our external senses. Because the world of the gods and the rest are in a subtle form, though they surround us and lie close to us, they are not perceptible to our senses. For the power of our senses, the eye and the rest, has a limit. These senses, being made of the gross forms of the five elements, earth and the rest, can see only gross objects. They cannot see objects in subtle form. Only our subtle body, made of the subtle form of the five elements, can see the world of the gods and the rest that are in subtle form. Therefore, when a man has died, his gross body merges into the gross forms of the five elements. But his body of subtle form, in which the five senses and the mind exist in subtle form, remaining in subtle form, experiences the results of his good and bad deeds in heaven, hell and the like (these are worlds in subtle form). Therefore what exists in this universe is not only the gross world visible to our eyes. Other worlds in subtle form exist enveloping this world of earth. These gross and subtle worlds are modifications of creation and do not go beyond creation. But more subtle than these gross and subtle worlds
+
+### Printed p. 808
+
+and not even thinkable in the mind is the unmanifest nature of the Supreme Self. It is not subject to the act of creation. That is, unlike created things, it has no destruction. It is always in one and the same state, eternal. The purport of the sentence त्रिपादूर्ध्व उद्वैत् पुरुषः (*tripādūrdhva udvait puruṣaḥ*) is that the greater part of this unmanifest nature does not undergo modification in creation and so on, and remains as it is in the upper region, that is, unseen by our eyes.
+
+उदैत् पुरुषः (*udait puruṣaḥ*) Puruṣa means the Supreme Self, the Supreme Brahman, the Supreme Thing. The true nature of this Brahman, that is, the unmanifest nature that always exists without destruction, or the greater part of that nature, remains in that same state.
+
+पादः अस्य अभवत् (*pādaḥ asya abhavat*) again: a quarter of the unmanifest nature, or a very small part, leaving its own true or eternal nature, undergoes change into the form of the world. Here the word punar, again, indicates that the world now being created is created now just as it was created before, as in the previous kalpa. Creation and dissolution do not occur only once. In the past they have occurred many crores of times, and in the future too they will occur many times. Among the creations and dissolutions that go on without a break, what takes place now is a single occurrence only. The word punar is used in order to show that it takes place now as it took place before. The main purport of this sentence is that the acts of creation, continuance and dissolution go on, one following another without interruption.
+
+Now the matter stated in the latter half of this Ṛk may be examined. What creation is and how it came about is clearly explained in the sentence ततो विश्वज् व्यक्रामत् साशनानशने अभि (*tato viśvaj vyakrāmat sāśanānaśane abhi*). To say that in the time of creation a small part of the unmanifest nature of the Supreme Self attained manifest form is not yet to explain creation. Among the things created there are two kinds. First, the beings that possess consciousness, that consume food and the like and undergo growth and decay, such as men and other creatures. It is customary to call these moving (cara), because they can move from one place to another. Mountains and the like, which have no power to move, do not consume food and the like and do not undergo changes, are called unmoving (acara). The making of the world and the rest, consisting of these two classes, is creation. In the present Ṛk the class of living beings is called sāśana (those that eat food) and mountains and the like are called anaśana (those that do not eat food). It is necessary here to describe in detail how the Supreme Self created these two kinds of things.
+
+In the world's ordinary dealings, to make a thing three things are necessary: (1) the material (raw material), (2) the man who makes, (3) the implements, machines and other means. This way of making a thing will be explained by an example.
+
+### Printed p. 809
+
+To make a pot, the material is clay, the maker is the potter; the wheel, the stick and water are the implements. In the same way, to make a cloth, the material is cotton; the maker is the weaver; the spinning wheel, the loom and so on are the implements, and so forth. But when the Supreme Self made the world, were these three kinds of equipment present? No. The Supreme Self, the maker, alone existed, and without any material or any implements, by his mere resolve he made everything. Since the Supreme Self who was in the unmanifest state himself changed into the form of the world and the rest, there need be no need of materials and implements. When men and others have to make a thing, they must have material and implements. For men are one thing and the material is another. Thus, where there are two kinds of things, the need of a third thing, the implement, also arises. In the case of the Supreme Self, since the material, the maker and the implements are all that Supreme Self alone, he needs no help of any kind in the work of creation. He alone, being in the unmanifest nature, changes into the manifest nature, the world and the rest. This change itself is called creation. Since this creation is mentioned in the next Ṛk also, how did the order of this creation proceed? How did this world of the manifest form, moving and unmoving, appearing as different through names and forms, arise from the unmanifest that is without name and form? This will be explained there.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मा॑द्वि॒राळ॑जायत वि॒राजो॒ अधि॒ पूरु॑षः ।  
+> स जा॒तो अत्य॑रिच्यत प॒श्चाद्दूमि॒मथो॑ पु॒रः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्मात् । विराट् । अजायत । विराजः । अधि । पुरुषः ।  
+> सः । जातः । अति । अरिच्यत । पश्चात् । भूमिं । अथो इति । पुरः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विष्टज् व्यक्रामदिति यदुक्तं तदेवात्र प्रपंच्यते । तस्मादादिपुरुषाद्विराड्ब्रह्मांडदेहोऽजायत । उत्पन्नः । विविधानि राजंते वस्तून्यत्रेति विराट् ।
+
+##### Gist of the bhāṣya
+
+What was said by विष्टज् व्यक्रामदिति (*viṣṭaj vyakrāmaditi*) is developed here. From that primal Person, Virāṭ, the body that is the cosmic egg, was born, that is, came into being. Virāṭ is so called because various things shine in it.
+
 ---
 
-**Progress note:** Done through printed p. 802. Mandala 10 Sukta 90 commentary on dahara-akasha, pp. 796-802
+**Progress note:** Done through printed p. 809. Mandala 10 Sukta 90 Rk 4 commentary (Mandukya states), Rk 5 text
