@@ -3041,6 +3041,277 @@ Soma, who are purified, vigilant, agreeable (you flow ) through the woolen fleec
 > सोमो॑ मी॒ढ्वान्न॑वते गातु॒वित्त॑म॒ ऋषि॒र्विप्रो॑ विचक्ष॒णः ।  
 > त्वं क॒विर॑भवो देव॒वीत॑म॒ आ सूर्यं॑ रोहयो दि॒वि ॥ ७ ॥
 
+### Printed p. 67
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । मीढ्वान् । पवते ! गातुवित् 5तमः । यषिः । विप्रः । विचक्षणः ।  
+> त्वं । कविः । अभवः । देव्यवीतमः । आ । सूर्यं । रोहयः । दिवि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मीढ्वान् कामानां सेक्ता सोमः पवते । क्षरति । कीदृशः । गातुवित्तमोऽत्यंतं मार्गस्य लंभक ऋषिः सर्वस्य प्रदर्शको विप्रो मेधावी विचक्षणो
+> विद्रष्टा । किंच कविः क्रांतप्रज्ञस्त्वं देववीतमोऽत्यंतं देवकामोऽभवः । भवसि !
+> अपि च दिवि द्युलोके सूर्यमा रोहयः । प्रादुर्भावयसि ॥
+
+##### Gist of the bhāṣya
+
+Soma, the showerer of desires, flows (पवते (*pavate*) means "trickles"). He is गातुवित्तमः (*gātuvittamaḥ*), the supreme finder of the path, ऋषिः (*ṛṣiḥ*), the one who shows everything, विप्रः (*vipraḥ*), the wise, and विचक्षणः (*vicakṣaṇaḥ*), the far-seeing. Further, Soma is addressed as कविः (*kaviḥ*), one of advanced understanding. He has become supremely desirous of the gods (अभवः (*abhavaḥ*) means "you are"). And in heaven, the world of Dyu, he makes the sun mount, that is, brings it forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गातुवित्तमः (*gātuvittamaḥ*)—one who knows the best path
+- ऋषिः (*ṛṣiḥ*)—one of divine vision
+- विप्रः (*vipraḥ*)—the wise
+- विचक्षणः (*vicakṣaṇaḥ*)—one of subtle vision
+- मीढ्वान् (*mīḍhvān*)—the showerer of desires
+- सोमः (*somaḥ*)—Soma
+- पवते (*pavate*)—flows (O Soma)
+- कविः (*kaviḥ*)—of advanced understanding
+- त्वं (*tvaṃ*)—you
+- देववीतमः (*devavītamaḥ*)—having become desirous of the gods
+- अभवः (*abhavaḥ*)—you have been
+- दिवि (*divi*)—in the world of Dyu
+- सूर‍्यं (*sūryaṃ*)—the sun
+- आ रोहयः (*ā rohayaḥ*)—you have made to mount
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who knows the best path, is of divine vision, wise, of subtle vision and showers desires, flows. O Lord Soma, you of advanced understanding have become desirous of the gods. You have established the sun in the world of Dyu.
+
+##### English translation
+Soma flows forth the showerer of benefits, the best of path-finders, a Rishi, a sage, all-discriminating: you are a seer, most devoted to the gods; you have made the sun to mount the sky.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॑ उषुवा॒णः सो॒तृभि॒रधि॒ ष्णुभि॒रवी॑नां ।  
+> अश्व॑येव ह॒रिता॑ याति॒ धार॑या मं॒द्रया॑ याति॒ धार॑या ॥
+
+### Printed p. 68
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । ऊं इति । सुवानः । सोतृभिः । अधि । स्नुभिः । अवीनां ।  
+> अश्वया इव । हरिता । याति । धारया । मंद्रया । याति । धारया ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोतृभिरभिषुण्वद्भिर्यृत्विग्निः सुवानोऽभिषूयमाणः सोमोऽवीनां
+> स्नुभिः । मांसृत्सूनामुपसंख्यानं । पा. ६-१-६३-१ । इति सानुशब्दस्य स्नुभावः ॥
+> समुच्छ्रितैर्वालैः पवित्रैरधि याति । अधिकं गच्छति । उ इति प्रसिद्धौ । अश्वयेव
+> बडवयेव हरिता हरितवर्णया धारया याति । मंद्रया मदकारिण्या धारया
+> द्रोणकलशमभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+Soma, pressed (सुवानः (*suvānaḥ*)) by the pressing priests (सोतृभिः (*sotṛbhiḥ*)), flows over the स्नुभिः (*snubhiḥ*) of the अवीनां (*avīnāṃ*), that is, over the raised woollen filaments, the strainers; *adhi yāti* means he goes beyond them. उ (*u*) is the well-known particle. अश्वयेव (*aśvayeva*) means "like a mare". He goes with a green-tinted stream, and with an exhilarating stream he goes to the Droṇa vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोतृभिः (*sotṛbhiḥ*)—by the priests who press
+- सुवानः (*suvānaḥ*)—being pressed
+- सोमः (*somaḥ*)—Soma
+- अवीनां (*avīnāṃ*)—of the ten-fold strainers (daśāpavitra)
+- स्नुभिः (*snubhiḥ*)—through the fibres
+- *adhi yāti*—flows especially
+- अश्वयेव (*aśvayeva*)—as if going mounted on a horse
+- हरिता (*haritā*)—green-hued
+- धारया (*dhārayā*)—with a stream
+- याति (*yāti*)—flows
+- मंद्रया (*maṃdrayā*)—agreeable
+- धारया (*dhārayā*)—with a stream he rushes forward
+
+##### भावार्थ (Bhāvārtha)
+
+Lord Soma, pressed by the priests engaged in the pressing rite, flows especially through the fibres of the ten-fold strainer. As if going mounted on a horse, he flows with a green-hued stream. He rushes forward with an agreeable stream.
+
+##### English translation
+Effused by the effusers Soma is poured out upon the elevated fleeces; and proceeds with its green-tinted stream, as on a mare, proceeds with its exhilarating stream.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒नू॒पे गोमा॒न्नोभि॑रक्षाः॒ सोमो॑ दु॒ग्धाभि॑रक्षाः ।  
+> स॒मु॒द्रं न सं॒वर॑णान्यग्मन्मं॒दी मदा॑य तोशते ॥ ९ ॥
+
+### Printed p. 69
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनूपे । गोऽमान् । गोभिः । अक्षारिति । सोमः । दुग्धाभिः । अक्षारिति ।  
+> समुद्रं । न । संवरणानि । अग्मन् । मंदी । मदाय । तोशते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गोमान्नोयुक्तः सोमोऽनूपे निम्मे देशे कलशे गोभिर्गॊ विकारैः
+> क्षीरादिभिः सहाक्षाः । क्षरति । तदेवोच्यते । स सोम आत्मनो मिश्रणार्थं
+> दुग्धाभिर्गॊभिः सहाक्षाः । क्षरति ॥ क्षरतेर्लुजु रूपं ॥ किंच समुद्रं न यथा
+> समुद्रमुदकानि गच्छंति तद्वत्संवरणानि संभजनीयानि रसरूपाण्यन्नानि द्रोणकलशमग्मन् । गच्छंति ॥ गमर्लुजु चेर्लुजु रूपं ॥ किंच मंदी मदकरः सोमो
+> मदाय मदार्थं तोशते । हन्यते । अभिषूयते । तोशतिर्वधकर्मा ॥
+
+##### Gist of the bhāṣya
+
+Soma, गोमान् (*gomān*), joined with the cow-products, flows into the vessel in the low-lying place (अनूपे (*anūpe*) = निम्मे देशे (*nimme deśe*)) together with milk and the like (विकारैः क्षीरादिभिः (*vikāraiḥ kṣīrādibhiḥ*)). The same is said again: for mixing himself, Soma flows with the milked cows. अक्षाः (*akṣāḥ*) is a luk-form of the root क्षर (*kṣara*). Further, as waters go to the ocean, so the संवरणानि (*saṃvaraṇāni*), the sap-form foods to be shared, go to the Droṇa vessel (अग्मन् (*agman*) = "they go", a luk-form of *gam*). And Soma, the exhilarating one (मंदी (*maṃdī*)), is तोशते (*tośate*), struck, that is pressed, for exhilaration; तोशति (*tośati*) is a verb of killing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोमान् (*gomān*)—Soma joined with milk
+- अनूपे (*anūpe*)—to the vessel in your region **NOTE**
+- गोभिः (*gobhiḥ*)—with milk and the like
+- अक्षाः (*akṣāḥ*)—flows
+- सोमः (*somaḥ*)—Soma
+- दुग्धाभिः (*dugdhābhiḥ*)—with milk and the like
+- अक्षाः (*akṣāḥ*)—flows
+- समुद्रं न (*samudraṃ na*)—as waters go and join the ocean
+- संवरणानि (*saṃvaraṇāni*)—his venerable juices
+- अग्मन् (*agman*)—go and join the Droṇa vessel
+- मंदी (*maṃdī*)—Soma, the gladdener
+- मदाय (*madāya*)—for the gladness of the gods
+- तोशते (*tośate*)—is pressed
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, joined with milk, goes and joins the vessel in your region together with milk and the like. He flows mixed with milk and the like. As waters go and join the ocean, his venerable juices go and join the Droṇa vessel. Soma, the gladdener, is pressed for the gladness of the gods.
+
+##### English translation
+Soma combined with the produce of the cows flows with the cows into the pitcher, he flows with the milked cows; his enjoyable juices go (to the pitcher as waters) to the ocean, the exhilarating (Soma) is expressed for the exhilaration (of the gods).
+
+### Printed p. 70
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सो॑म सुवा॒नो अद्रि॑भिस्ति॒रो वारा॑ण्य॒व्यया॑ ।  
+> जनो॒ न पु॒रि च॒न्वो॑र्विश॒द्धरिः॒ सदो॒ वने॑षु दधिषे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सोम । सुवानः । अद्रिभिः । तिरः । नाराणि । अव्यया ।  
+> जनः । न । पुरि । चम्योः । विशत् । हरिः । सदः । वनेषु । दधिषे ॥ १० ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अद्रिभिग्रावभिः सुवानोऽभिषूयमाणस्त्वमव्ययाविमयानि
+> वाराणि वालानि पवित्राणि तिरस्कुर्वन् व्यवधायकानि कुर्वाणः सन्ना पवस इति शेषः ।
+> हरिर्हरितवर्णः स सोमश्चन्वोरधिषवणफलकयोरुपिरि स्थिते कलशे विशत् । प्रविशति
+> तत्र दृष्टांतः । जनो न यथा जनः पुरि पुरे प्रविशति । स त्वं वनेषु काष्ठनिर्मितेषु पात्रेषु सदः स्थानं दधिषे । करोषि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, pressed (सुवानः (*suvānaḥ*)) by the stones (अद्रिभिः (*adribhiḥ*), the pressing stones), you flow, the verb पवसे (*pavase*) being understood, making the woollen strainer-hairs (अव्यया (*avyayā*) = *avimayāni*, वाराणि (*vārāṇi*) = वालानि (*vālāni*)) pass across (तिरः (*tiraḥ*)), that is, making them intervene. The green-tinted (हरिः (*hariḥ*)) Soma enters (विशत् (*viśat*)) the vessel set on the two *canvoḥ*, the pressing boards. The illustration: as a man (जनः (*janaḥ*)) enters a city (पुरि (*puri*)). You then make a seat (सदः (*sadaḥ*)) in the vessels made of wood (वनेषु (*vaneṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Lord Soma
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- सुवानः (*suvānaḥ*)—you who are pressed
+- अव्यया (*avyayā*)—of wool
+- वाराणि (*vārāṇi*)—the ten-fold strainer with its fibres
+- तिरः (*tiraḥ*)—crossing over
+- आ (पवसे) (*ā (pavase)*)—you flow
+- पुरि (*puri*)—into a town
+- जनः न (*janaḥ na*)—as a townsman enters
+- हरिः (*hariḥ*)—the green-hued Soma
+- चन्नोः (*cannoḥ*)—into the vessel on the boards **NOTE**
+- विशत् (*viśat*)—enters
+- वनेषु (*vaneṣu*)—in the vessels
+- सदः (*sadaḥ*)—a seat
+- दधिषे (*dadhiṣe*)—you make for yourself
+
+##### भावार्थ (Bhāvārtha)
+
+O Lord Soma, you who are pressed by the pressing stones flow, crossing over the ten-fold strainer with its woollen fibres. As a townsman enters a town, the green-hued Soma enters the vessel standing on the boards. And, O Soma, you provide a seat in those vessels.
+
+### Printed p. 71
+
+##### English translation
+Expressed by the stones, Soma (passing) through the sheep's hairs green-tinted, entering the cups as a man (enters) a city, you take your seat in the wooden (vessels).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मा॑मृजे ति॒रो अण्वा॑नि मे॒ष्यो॑ मि॒ळ्ळे सप्ति॒र्न वा॑ज॒युः ।  
+> अ॒नु॒माद्यः॒ पव॑मानो मनी॒षिभिः॒ सोमो॒ विप्रे॑भि॒र्युक्व॑भिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ममृजे । तिरः । अण्वानि । मेष्यः । मिळ्हे । सप्तिः । न । वाजयुः ।  
+> अनुमाद्यः । पवमानः । मनीषिभिः ! सोमः । विप्रेभिः । ऋक्वभिः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजयुरन्नकामोऽण्वान्यणूनि सूक्ष्माणि मेष्यो मेष्या अवे रोमाणि
+> पवित्राणि तिरस्कुर्वन् स सोमो ममृजे । परिशोध्यते । अलंक्रियते वा । तत्र
+> दृष्टांतः । सप्तिर्न यथा जयकामैरश्वो मिळ्ळे संग्रामेऽलंक्रियते । कीदृशः ।
+> अनुमाद्योऽनुमदनीयः सर्वैः पवमानो मनीषिभिर्यत्विग्भिः पूयमानः
+> तथर्क्वभिः॥ छंदसीवनिपाविति वनिप् ॥ स्तुतिमद्भीर्विप्रैर्मेधाविभिरभिष्टुतो मृज्यते॥
+
+##### Gist of the bhāṣya
+
+वाजयुः (*vājayuḥ*), desirous of food, that Soma, making the अण्वानि (*aṇvāni*), fine मेष्यः (*meṣyaḥ*), sheep's hairs, that is the strainers, pass across, is ममृजे (*mamṛje*), cleansed or adorned. The illustration: as a horse (सप्तिः (*saptiḥ*)) is adorned by those who desire victory in battle (मिळ्हे (*miḷhe*) = संग्रामे (*saṃgrāme*)). Of what kind is he? अनुमाद्यः (*anumādyaḥ*), to be rejoiced in by all; पवमानः (*pavamānaḥ*), purified by the मनीषिभिः (*manīṣibhiḥ*), the priests; likewise by the ऋक्वभिः (*ṛkvabhiḥ*), those possessing praise, the wise विप्रः (*vipraḥ*), the intelligent, he is praised and is cleansed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माळ्ही (*māḷhī*)—in battle **NOTE**
+- सप्तिः न (*saptiḥ na*)—as a horse is adorned
+- वाजयुः (*vājayuḥ*)—desirous of food
+- सः सोमः (*saḥ somaḥ*)—that Lord Soma
+- अण्वानि (*aṇvāni*)—fine
+- मेष्यः (*meṣyaḥ*)—woollen threads
+- तिरः (*tiraḥ*)—having crossed
+- ममृजे (*mamṛje*)—is adorned
+- अनुमाद्यः (*anumādyaḥ*)—one praised by all
+- मनीषिभिः (*manīṣibhiḥ*)—by the intelligent
+- ऋक्वभिः (*ṛkvabhiḥ*)—by the praisers
+- पवमानः (*pavamānaḥ*)—Soma, who is purified, is adorned
+
+### Printed p. 72
+
+##### भावार्थ (Bhāvārtha)
+
+As a horse is adorned in battle, Lord Soma, who is praised by all, purified by intelligent praisers and desirous of food, is adorned, having crossed the woollen threads.
+
+##### English translation
+Desirous of (bestowing) food, passing through the interstices of the fleece the Soma is adorned like a horse in the battle; the Pavamana, to be rejoiced in (by all, praised) by the intelligent, the sages, the reciters of sacred songs.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सो॑म दे॒ववी॑तये॒ सिंधु॒र्न पि॑प्ये॒ अर्ण॑सा ।  
+> अं॒शोः पय॑सा मदि॒रो न जागृ॑वि॒रच्चा॒ कोशं॑ मधु॒श्चुतं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोम । देववीतये । सिंधुः । न । पिप्ये । अर्णसा ।  
+> अंशोः । पयसा । मदिरः । स । जागृविः । अच्छ । कोशं । मधुश्चुतं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम देवनीतये देवानां पानाय तदर्थमर्णसा वसतीवर्याख्येनोदकेन प्र पिप्ये । प्रप्यायसे । तत्र दृष्टांतः । सिंधुर्न यथा सिंधुरुदकेन
+> प्रपिप्ये तद्वत् ॥ प्यायतेर्लिटि लिड्यजोश्चति पीभावः ॥ ततः स त्वं मदिरो न मदकरः सुरादिरिव जागृविर्जागरणशीलः । यद्वा । नः संप्रत्यर्थे । इदानीं मदकरो
+> जागरणशीलस्त्वं अंशोर्लताखंडस्य पयसा रसेन मधुश्चुतं रसस्य क्षारयितारं
+> कोशं द्रोणकलशमच्छाभिगच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, for the देववीतये (*devavītaye*) (printed देवनीतये (*devanītaye*) in the bhāṣya), the drinking of the gods, you swell forth (प्र पिप्ये (*pra pipye*)) with the water called *vasatīvarī* (अर्णसा (*arṇasā*)). The illustration: as a river (सिंधुः (*siṃdhuḥ*)) swells with water. Then you, मदिरः (*madiraḥ*), intoxicating like liquor, are जागृविः (*jāgṛviḥ*), given to wakefulness. Or else, न (*na*) is in the sense of "now": now you, the intoxicating, wakeful one, go (अच्छ (*accha*)) with the पयसा (*payasā*), the juice of the अंशोः (*aṃśoḥ*), the plant-stalk, to the कोशं (*kośaṃ*), the Droṇa vessel, which makes the sap flow, मधुश्चुतं (*madhuścutaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Lord Soma
+- सिंधुः ग (*siṃdhuḥ ga*)—as a river swells with waters **NOTE**
+- (त्वं (*tvaṃ*)—you)
+- देववीतये (*devavītaye*)—for the drinking of the gods
+- अर्णसा (*arṇasā*)—with the waters called *vasatīvarī* …  **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 66. pp. 61-66 (batch API)
+**Progress note:** Done through printed p. 72. pp. 67-72 (batch API)
