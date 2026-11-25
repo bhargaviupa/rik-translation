@@ -33231,6 +33231,276 @@ Sūkta 148. Maṇḍala 10. Anuvāka 11. Sūkta 148. Aṣṭaka 8. Adhyāya 8. V
 > सुस्वानासः । इंद्र । स्तुमसि । त्वा । सस्यावांसः । च । तुविनृम्म । वाजं ।  
 > आ । नः । भर । सुवितं । यस्य । चाकन् । त्मना । तना । सनुयाम । त्वाऊताः ॥१॥
 
+### Printed p. 989
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुष्वाणासः सोममभिषुतवंतो वयं त्वां स्तुमसि । स्तुमः । हे
+> तुविन्नृम्म बहुलधन वाजं चरुपुरोडाशादिलक्षणमन्नं ससवांसः संभक्तवंतश्च
+> वयं त्वां स्तुमः । यत एवमतो हेतोर्नोऽस्मभ्यं सुवितं सुष्टु प्राप्तव्यं
+> शोभनं धनमा भर ! आहर्त्व! प्रयच्छ! यद्वा! यस्य यद्धनमतिप्रियत्वेन चाकन्
+> त्वं कामयसे तद्धनमा भरेत्यर्थः । वयं च त्वोतास्त्वया रक्षिताः संतस्तना ।
+> धननामैतत् । विस्त्रतानि धनानि त्मनात्मना स्वयमेवान्यनैरपेक्ष्येणैव सनुयाम ।
+> तव प्रसादाल्लभेमहि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, we who have pressed the Soma praise you. O Indra of abundant wealth (तुविन्नृम्म (*tuvinnṛmma*)), we who have also obtained food (वाजं (*vājaṃ*)), in the form of cooked offerings, cakes and the like, praise you. Therefore bring us (आ भर (*ā bhara*)) good, well-obtainable wealth (सुवितं (*suvitaṃ*))." Alternatively: bring that wealth which you, in your great love, desire (चाकन् (*cākan*)). Protected by you, may we obtain by ourselves (त्मना (*tmanā*)), without depending on others, the widespread riches (तना (*tanā*), a name for wealth); may we gain them by your grace.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- सुष्वाणासः (*suṣvāṇāsaḥ*)—we who are pressing the Soma juice
+- त्वा (*tvā*)—you
+- स्तुमसि (*stumasi*)—we praise
+- तुविनृम्म (*tuvinṛmma*)—O Indra, possessed of abundant strength or wealth
+- वाजं (*vājaṃ*)—food
+- ससवांसः च (*sasavāṃsaḥ ca*)—and also, desiring to obtain it, we praise you
+- यस्य (*yasya*)—which wealth
+- चाकन् (*cākan*)—you wish to give us
+- सुवितं (*suvitaṃ*)—such wealth as is to be obtained by us
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring (we also)
+- तोताः (*totāḥ*)—protected by you
+- तना (*tanā*)—abundant wealth
+- त्मना (*tmanā*)—through you yourself
+- सनुयाम (*sanuyāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who are pressing the Soma juice praise you. O Indra, possessed of great strength or wealth, desiring to obtain food, we also praise you. Bring us precisely that wealth which you wish to give us. Protected by you, may we obtain wealth through you yourself.
+
+##### English translation
+Having poured out the libation, we praise you, Indra; having presented the sacrificial food, we (praise you), granter of abundant wealth ; bring us the wealth which one longs for; protected by you may we acquire riches through yourself alone.
+
+### Printed p. 990
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ष्वस्त्वमिं॑द्र शूर जा॒तो दासी॒र्विशः॒ सूर्ये॑ण सह्याः ।  
+> गुहा॑ हि॒तं गुह्यं॑ गू॒ळम॒प्पु जि॑भ्र॒मसि॑ प्र॒स्रव॑णे॒ न सोमं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋष्वः । त्वं । इंद्र । शूर । जातः । दासीः । विशः । सूर्येण । सह्याः ।  
+> गुहा । हितं । गुह्यं । गूळ्हं । अप्सु । बिभ्रमसि । प्रस्रवणे । न । सोमं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर शौर्यवन्निंद्र ऋष्टो महान्दर्शनीयो ना त्वं जातो जातमात्र
+> एव दासीः । उपक्षयकारिणो दासा असुराः । तत्संबंधिनीर्विशः प्रजाः सूर्येण
+> सूर्यात्मना सह्याः । अभ्यभवः । तथा गुहा गुहायां हितं निहितं अत एव गुह्यमदृश्यं वलाख्यमसुरमप्पूदकेषु गूढं निगूढं कुयवाख्यं त्वमभिभूतवानसि । वयमपि प्रस्रवणे प्रवर्षणे सति। नः संप्रत्यर्थे । संप्रति सोमं बिभ्रमसि ।
+> त्वदर्थं बिभ्रमः । धारयामः ॥
+
+##### Gist of the bhāṣya
+
+O hero Indra, you who are mighty (ऋष्वः (*ṛṣvaḥ*), great and beautiful to behold), as soon as you were born you overcame with the sun's form the Dāsa tribes, the Asuras who cause destruction (दासीः (*dāsīḥ*)), that is, their people. You also overcame the invisible Asura named Vala, hidden in a cave, and the Asura named Kuyava, hidden in the waters. And we too, now that the Soma is flowing in a stream (प्रस्रवणे (*prasravaṇe*)), hold it (बिभ्रमसि (*bibhramasi*)) for you; न (*na*) here has the sense "now".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—valiant
+- इंद्र (*iṃdra*)—O Indra
+- ऋष्वः (*ṛṣvaḥ*)—of great form or of attractive form
+- त्वं (*tvaṃ*)—you
+- जातः (*jātaḥ*)—as soon as you were born
+- दासीः (*dāsīḥ*)—belonging to the Dāsa race
+- विशः (*viśaḥ*)—the subjects, that is, the people
+- सूर्येण (*sūryeṇa*)—in the form of the sun
+- सह्याः (*sahyāḥ*)—you have overcome; likewise
+- गुहा (*guhā*)—in a secret place
+- हितं (*hitaṃ*)—hidden
+- गुह्यं (*guhyaṃ*)—the Asura named Vala, who was seen by no one
+- अप्सु (*apsu*)—in the waters
+- गूढं (*gūḍhaṃ*)—the Asura named Kuyava, hidden in concealment, you have also overcome. We too
+- न (*na*)—now
+- प्रस्रवणे (*prasravaṇe*)—while the pressed juice flows in a stream
+- सोमं (*somaṃ*)—that Soma juice
+- बिभ्रमसि (*bibhramasi*)—we stand holding for you
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, you of beautiful form, as soon as you were born you overcame in the form of the sun the Dasyu peoples; likewise you defeated the Asura named Vala, hidden in a secret place unseen by anyone, and the Asura named Kuyava, secretly hidden in the waters. While the Soma juice, pressed, flows in stream after stream, we stand holding it in our hands to offer it to you.
+
+### Printed p. 991
+
+##### English translation
+Hero Indra, you are mighty, may you as soon as you are born you overcome with Surya the races of the Dasas, and the fugitive (Vala) lurking in secrecy, hidden in the waters; we now present to you the Soma in a copious stream.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्यो वा॒ गिरो॑ अ॒भ्य॑र्च वि॒द्वान्ऋषी॑णां॒ विप्रः॑ सुम॒तिं  ॒॑
+> चकानः ।  
+> ते स्या॑म॒ ये र॒णयं॑त॒ सोमै॑रे॒नोत तुभ्यं॑ रथोळ्ह  ॒
+> भक्षैः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्यः । वा । गिरः । अभि । अर्च । विद्वान् । ऋषीणां । विप्रः । सुमतिं । चकानः ।  
+> ते । स्याम । ये । रणयंत । सोमैः । एना । उत । तुभ्यं । रथओळ्ह । भक्षैः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रो मेधाव्यृषीणां मंत्रदर्शिनां सुमतिं सुष्टुतिं चकानः कामयमानो विद्वाञ्ज्ञानन्नर्यो वा स्वामीा च भवन् हे इंद्र ईदृशस्त्वं गिरः स्तोत्यान् स्तुतीर्वाभ्यर्च । सम्यक्सुतमित्यभिपूजय । अपि च ते वयं स्याम भवेम
+> ये सोमैस्त्वां रणयंत रमयंति । उतापि च हे रथोळ्ह रथैरभ्युह्यमान ॥ आ
+> ऊढ ओढः । रथेन ओढो रथोढः । ओमाजोश्च । पा. ६-१-९५ । इति पररूपं ॥
+> ईदृशेंद्र भक्षैर्भक्षणीयैश्चरुपुरोडाशादिभिः सार्धमेनेमानि स्तोत्राणि तुभ्यं
+> त्वदर्थं क्रियंते ॥
+
+##### Gist of the bhāṣya
+
+The wise man (विप्रः (*vipraḥ*)), desiring the good praise of the seers, the mantra-seers, being knowing and a lord (अर्यः (*aryaḥ*)), that is, you, O Indra, being such, honour the praises of the singers (गिरः (*giraḥ*)): "do honour (अभ्यर्च (*abhyarca*))" means honour them as well pressed. And may we be among those who gratify you with Soma. And, O car-borne one (रथोळ्ह (*rathoḷha*)), one carried by chariots, these praises are made for you together with edible offerings, the cooked offerings, cakes and the like. (The remainder of the block is a grammatical note on रथोळ्ह (*rathoḷha*), with Pā. Sū. 6-1-95.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रः (*vipraḥ*)—the wise one
+- ऋषीणां (*ṛṣīṇāṃ*)—of the mantra-seers
+- सुमतिं (*sumatiṃ*)—good praise
+- चकानः (*cakānaḥ*)—one who desires
+- विद्वान् (*vidvān*)—one who has knowledge
+- अर्यो वा (*aryo vā*)—and the lord of all, O Indra, you being such
+- गिरः (*giraḥ*)—the praises made by the singers
+
+### Printed p. 992
+
+- अभ्यर्च (*abhyarca*)—approve
+- ये (*ye*)—those who
+- सोमैः (*somaiḥ*)—with Soma juices
+- रणयंत (*raṇayaṃta*)—delight you
+- ते (*te*)—we, such persons
+- स्याम (*syāma*)—may we be worthy of your favour
+- उत (*uta*)—and
+- रथोळ्ह (*rathoḷha*)—O Indra, borne by a chariot
+- भक्षैः (*bhakṣaiḥ*)—together with edible offerings such as cooked offerings and cakes
+- एना (*enā*)—these praises
+- तुभ्यं (*tubhyaṃ*)—for you
+- are offered
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are wise, desirous of the good praises made by the seers, discerning, lord of all. Being such, approve and welcome the praises made by the singers. May we, who gladden you with Soma juices, be worthy of your favour; and, O Indra, borne by a chariot, these edible offerings, the cooked offerings, cakes and the rest, and these praises have been prepared for you alone.
+
+##### English translation
+Do you, who are the lord, who are wise, a sage desirous of the good opinion of the Rishis, do honour to your praisers; may we be of those who gratify (you) with soma libations; to you, O car-borne Indra, these (praises are offered) with sacrificial viands.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा ब्रह्में॑द्र॒ तुभ्यं॑ शंसि॒ दा नृभ्यो॑ नृ॒णां शू॑र॒ शवः॑ ।  
+> तेभि॑र्भव॒ सक्र॑तु॒र्येषु॑ चा॒कन्नु॒त त्रा॑यस्व गृण॒त उ॒त  
+> स्तीन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमा । ब्रह्म । इंद्र । तुभ्यं । शंसि । दाः । नृभ्यः । नृणां । शूर । शवः ।  
+> तेभिः । भव । सक्रतुः । येषु । चाकन् । उत । त्रायस्व । गृणतः । उत । स्तीन् ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वदर्थमिमेमानि पुरोवर्तीनि ब्रह्म ब्रह्माणि परिवृढानि स्तोत्राणि
+> शंसि । अशंसिषत । शस्यंते ॥ शंसेश्चांदसे कर्मणि लुजि व्यत्ययेनैकवचनं ॥ हे
+
+##### Gist of the bhāṣya
+
+O Indra, for you these present great praises (ब्रह्म (*brahma*), "swollen" hymns) have been recited (शंसि (*śaṃsi*), the passive aorist of शंस (*śaṃsa*), with the singular used irregularly for the plural). The continuation is on the next page.
+
+### Printed p. 993
+
+> शूर शौर्यवन्निंद्र त्वं नृणां मनुष्याणां मध्यॆ नृभ्यः स्तुत्यादेर्नेतृभ्यः शवो
+> बलं दाः । देहि । अपि च तेभिस्तैः सक्रतुः समानकर्मा समानप्रज्ञो वा भव येषु
+> स्तोतृषु चाकन् हविरादि कामयसे ॥ कन दीप्ति कांतिगतिषु । अस्माद्यज्लुगंताच्छांदसे लजि सिपि रूपमेतत् । कमर्वा पूर्ववत् । सिपि मो नो धातोरिति
+> नत्वं ॥ उतापि च गृणतः स्तोत्यंस्त्रायस्व । पालय । उतापि च स्तीन् ॥ स्त्यायतेरेतद्रूपं ॥ संघीभूय स्थितान्यजमानानपि त्रायस्व ॥
+
+##### Gist of the bhāṣya
+
+O hero Indra, among men give strength (शवः (*śavaḥ*)) to the leaders (नृभ्यः (*nṛbhyaḥ*)), those who lead in praise and the like (दाः (*dāḥ*) = give). Be of one deed or one mind (सक्रतुः (*sakratuḥ*)) with those singers among whom you desire (चाकन् (*cākan*)) the oblation and the rest. Protect the singers who praise, and also the स्तीन् (*stīn*), the sacrificers who stand together in a group. (Grammatical notes on चाकन् (*cākan*) from कन (*kana*) and on स्तीन् (*stīn*) from *styāyati* are omitted here.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तुभ्यं (*tubhyaṃ*)—for you
+- इमा ब्रह्म (*imā brahma*)—these praises
+- शंसि (*śaṃsi*)—are recited
+- शूर (*śūra*)—O Indra, the hero, you
+- नृणां (*nṛṇāṃ*)—among men
+- नृभ्यः (*nṛbhyaḥ*)—to the chief praisers
+- शवः (*śavaḥ*)—strength
+- दाः (*dāḥ*)—give (and)
+- येषु (*yeṣu*)—among whichever singers
+- चाकन् (*cākan*)—you wish to receive oblations and the like
+- तेभिः (*tebhiḥ*)—by those singers
+- सुक्रतुः (*sukratuḥ*)—worshipful through good ritual performance
+- भव (*bhava*)—be
+- उत (*uta*)—and
+- गृणतः (*gṛṇataḥ*)—the people who praise
+- उत (*uta*)—and
+- स्तीन् (*stīn*)—the sacrificers
+- त्रायस्व (*trāyasva*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, it is for your satisfaction that these great praises are recited. O hero, give strength to those among men who praise you especially. Be worshipful in the rites of those singers in whose sacrifices you desire to receive the oblation. And protect the singers who praise you, and the sacrificers.
+
+##### English translation
+To you, Indra, have these prayers been addressed; grant, O hero, strength to the leaders of men; be of one mind with those in whome you delighted, and protect those who praise you, and the worshippers who stand round about.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒धी हव॑मिंद्र शूर॒ पृथ्या॑ उ॒त स्त॑वसे वे॒न्यस्या॒र्कैः ।  
+> आ यस्ते॒ योनिं॑ घृ॒तवं॑त॒मस्वा॑रू॒र्मिन् निम्मैर्द्र॑वयंत॒  ॑
+> वक्वाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 994
+
+> श्रुधि । हवं । इंद्र । शूर । पृथ्याः । उत । स्तवसे । वेन्यस्य । अर्कैः ।  
+> आ । यः । ते । योनिं । धृतवंतं । अस्वाः । ऊर्मिः । न । निम्मैः । द्रवयंत ।  
+> वक्त्वा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूरेंद्र पृथ्याः पृथोर्ऋषेर्मम हवमाह्वानं श्रुधि । शृणु । उतापि
+> च वेन्यस्य वेनपुत्रस्य ममार्कैर्मंत्रैः स्तवसे । स्तूयसे ॥ यकि प्राप्ते व्यत्ययेन
+> शप् ॥ यः स्तोता धृतवंतमुदकवंतं ते तव योनिं निवासभूमिमास्वाः अभ्यस्वार्षित् अभ्यष्टौत् ॥ स्व शब्दोपतायोः । अस्माल्लुजि शिपि बहुलं छंदसीतीडभावे
+> हल् ज्यादिलोपे च रात्सस्यॆति सलोपः ॥ यद्वा । धृतवंतमाज्यादिना हविषोपेतं
+> योनिं । गृहनामैतत् । यज्ञगृहं प्राप्य ते त्वां योऽभिष्ति तस्य वेन्यस्यार्कैरित्यन्वयः । अपि च वक्वा वक्वानः ॥ वचेरन्येभ्योऽपि दृश्यंत इति वनिप् । अंत्यविकारश्चांदसः । जसि पृषोदरादित्वाद्वर्णलोपः ॥ अन्येऽपि सर्वॆ स्तोतारो निम्मैः
+> प्रवणैर्मार्गैरूर्मिनोदकसंघ इव द्रवयंत । स्तुतिभिस्तामेवाभिद्रवंति ।
+> अभिगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+O hero Indra, hear the call (हवं (*havaṃ*)) of me, Pṛthu the seer (पृथ्याः (*pṛthyāḥ*)). You are praised (स्तवसे (*stavase*)) with the mantras (अर्कैः (*arkaiḥ*)) of me, the son of Vena (वेन्यस्य (*venyasya*)). The worshipper who praises (आस्वाः (*āsvāḥ*)) your abode (योनिं (*yoniṃ*)), full of water (धृतवंतं (*dhṛtavaṃtaṃ*))—or else: who, having come to the sacrificial house provided with oblations such as ghee, praises you—of him, the son of Vena, with whose mantras you are praised. And the other singers (वक्वा (*vakvā*)) too all rush (द्रवयंत (*dravayaṃta*)) with praises towards you alone, like a flood of water (ऊर्मिः (*ūrmiḥ*)) along sloping (निम्मैः (*nimmaiḥ*)) channels. (Grammatical notes omitted.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—valiant
+- इंद्र (*iṃdra*)—O Indra
+- पृथ्याः (*pṛthyāḥ*)—of me, named Pṛthu
+- हवं (*havaṃ*)—the call
+- श्रुधि (*śrudhi*)—hear
+- उत (*uta*)—and
+- यः (*yaḥ*)—the worshipper who
+- धृतवंतं (*dhṛtavaṃtaṃ*)—full of water
+- ते योनिं (*te yoniṃ*)—your abode
+- आ स्वाः (*ā svāḥ*)—praises [or: धृतवंतं (*dhṛtavaṃtaṃ*)—provided with oblations such as ghee; योनिं (*yoniṃ*)—having come to the sacrificial house; ते (*te*)—you; आ स्वाः (*ā svāḥ*)—praises] such a one
+- वेन्यस्य (*venyasya*)—of me, the son of Vena
+- अर्कॆः (*arkèḥ*)—with mantras
+- स्तवसे (*stavase*)—you are praised
+- वक्वाः (*vakvāḥ*)—the other singers also
+- निम्मैः (*nimmaiḥ*)—by sloping places
+- ऊर्मिः न (*ūrmiḥ na*)—as water flows swiftly
+- द्रवयंत (*dravayaṃta*)—approach you alone with praises
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, hear the call of me, named Pṛthu. The one who praises your abode filled with water, or who, having come to the sacrificial house full of oblations such as ghee, praises you there—of me, the son of Vena, with whose mantras you are praised.
+
 ---
 
-**Progress note:** Done through printed p. 988. pp. 983-988 (batch API)
+**Progress note:** Done through printed p. 994. pp. 989-994 (batch API)
