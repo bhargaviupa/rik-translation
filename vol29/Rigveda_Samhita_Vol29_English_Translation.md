@@ -13817,6 +13817,183 @@ Indra speaks to Vṛṣākapi who has gone and come back. O Vṛṣākapi, come 
 - विश्वस्मात् (*viśvasmāt*)—than the whole world
 - उत्तरः (*uttaraḥ*)—is greater
 
+### Printed p. 485
+
+##### भावार्थ (Bhāvārtha)
+
+O Vṛṣākapi, come back home. I and Indrāṇī will do the deeds that are dear to you. You who are the destroyer of sleep, in the form of Āditya, come back to our house by the excellent path. Indra is greater than the whole world.
+
+##### English translation
+Come back, Vrishakapi, that we may do what is agreeable to you; you, who are the destroyer of sleep come home again by the road: Indra is above all (the world).
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the etymology of the word Vṛṣākapi, Yāska has given the Nirukta on this Ṛk—
+
+वृषाकपिः । अथ यद्रश्मिभिरभिप्रकंपयन्नेति तद्वृषाकपिर्भवति वृषाकंपनः । तस्यैषा भवति । पुनरेहि वृषाकपे सुविता कल्पयावहै । य एष स्वप्ननंशनोऽस्तमेषि पथा पुनर्विश्वस्मादिंद्र उत्तरः ॥ पुनरेहि वृषाकपे सुप्रसूतानि यः कर्माणि कल्पयावहै य एष स्वप्ननंतनः स्वप्नान्नाशयत्यादित्य उदयेन सोऽस्तमेषि पथा पुनः सर्वस्माद्य इंद्र उत्तरस्तमेतद्दूम आदित्यं (*vṛṣākapiḥ | atha yadraśmibhirabhiprakaṃpayanneti tadvṛṣākapirbhavati vṛṣākaṃpanaḥ | tasyaiṣā bhavati | punarehi vṛṣākape suvitā kalpayāvahai | ya eṣa svapnanaṃśano 'stameṣi pathā punarviśvasmādiṃdra uttaraḥ ‖ punarehi vṛṣākape suprasūtāni yaḥ karmāṇi kalpayāvahai ya eṣa svapnanaṃtanaḥ svapnānnāśayatyāditya udayena so 'stameṣi pathā punaḥ sarvasmādya iṃdra uttarastametaddūma ādityaṃ*) (Ni. 12-28)
+
+Vṛṣākapi means Āditya. For this Āditya, when he rises with his rays, makes everything tremble; or the sun, accompanied by his rays, when he sets, makes all beings tremble. After the sun has sunk, darkness spreads. Many are frightened by the darkness and tremble; or, after darkness has come, because the heat of the sun is absent, people tremble with cold. Therefore, because the sun is of a nature to make people or beings tremble, he has the name Vṛṣākapi. This matter is alluded to in the following Ṛk.
+
+O Vṛṣākapi (Āditya), since you rise and destroy the sleep of beings (people), you are the destroyer of people's dreams. Such as you are, rise again. After your rising we shall engage in the duties that we have to perform. Because you sink, darkness spreads and, there being no heat, people tremble with cold. As soon as you rise, the sleep of the people is destroyed, they wake up and engage in their respective tasks. Therefore, O Vṛṣākapi (Āditya), rise and come this day also: this is the main import of the Nirukta statement.
+
+### Printed p. 486
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदुदं॑चो वृषाकपे गृ॒हमिं॒द्राज॑गंतन ।  
+> क्व१॒॑ १ स्य पु॑ल्व॒घो मृ॒गः कम॑गञ्जन॒योप॑नो॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । उदंचः । वृषाकपे । गृहं । इंद्र । अजगंतन ।  
+> क्व । स्यः । पुल्वघः । मृगः । कं । अगन् । जन्योपनः । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गत्वा पुनरागतं वृषाकपिमिंद्रः पृच्छति । हे इंद्र परमैश्वर्यवन्
+> हे वृषाकपे यूयमुदंच उद्गामिनः संतो मद्गृहमजगंतन । आगच्छ ।
+> एकस्यापि बहुवचनं पूजार्थं । तत्र भवतः संबंधी पुल्वघो बहूनां भौमरसानामत्ता स्य स मृगः क्वाभूत् । जनयोपनो जनानां मोदयिता मृगः कं वा
+> देशमगन् . अगच्छत् । सोऽहमिंद्रो विश्वस्मादुत्तरः ॥ यद्वा इंद्राणेवाक्यमिदं!
+> अत्र यास्क? । यदुदंचो वृषाकपे गृहमिंद्राजगमत क्व स्य पुल्वघो मृगः
+> क्व स बह्वादी मृगः । मृगो माष्टेर्गतिकर्मणः । कमगमद्देशं जनयोपनः ।
+> नि. १३-३ । इति ॥
+
+##### Gist of the bhāṣya
+
+Indra questions Vṛṣākapi, who has gone and returned. "O Indra, possessed of supreme lordship", and "O Vṛṣākapi, you, going upward (उदंच (*udaṃca*): rising), come to my house": the plural is used for a single person out of respect. "Your associate Pulvagha, the eater of many earthly juices, that deer, where has it been? And Janayopana, the delighter of people, the deer, to what region has it gone? I, Indra, am superior to all." Or else this verse is the speech of Indrāṇī. Here Yāska explains: where is that deer that eats much; मृग (*mṛga*) comes from a root of motion; to what region has Janayopana gone (Ni. 13-3).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O one endowed with wealth
+- वृषाकपे (*vṛṣākape*)—O Vṛṣākapi
+- गृहं उदंचः (*gṛhaṃ udaṃcaḥ*)—rising towards my house
+- अजगंतन (*ajagaṃtana*)—come
+- पुल्वघः (*pulvaghaḥ*)—the one that sucks the juice
+- स्यः मृगः (*syaḥ mṛgaḥ*)—that famed deer
+- क्व (*kva*)—where
+- जनयोपनः (*janayopanaḥ*)—that deer, the delighter of people
+- कु अगन् (*ku agan*)—to what region has it gone **NOTE**
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—greater
+
+##### भावार्थ (Bhāvārtha)
+
+O Vṛṣākapi, endowed with wealth, rise towards my house and come. Where is that famed deer that sucks the juice? To what region has that deer, the delighter of people, gone? Indra is greater than the whole world.
+
+### Printed p. 487
+
+##### English translation
+Rise up and come home, Vrishakapi and Indra; where is that destructive beast, to what (region) has (that beast), the exhilarator of men gone? Indra is above all (the world)
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an etymology of this Ṛk from the standpoint of Āditya—
+
+यदुदंचो वृषाकपे गृहमिंद्राजगमत क्व स्यः पुल्वघो मृगः क्व स बह्वादी मृगः! मृगो माष्टेर्गतिकर्मणः । कमगमद्देशं जनयोपनः सर्वस्माद्य इंद्र उत्तरस्तमेतद्दूम आदित्यं ॥ (*yadudaṃco vṛṣākape gṛhamiṃdrājagamata kva syaḥ pulvagho mṛgaḥ kva sa bahvādī mṛgaḥ! mṛgo māṣṭergatikarmaṇaḥ | kamagamaddeśaṃ janayopanaḥ sarvasmādya iṃdra uttarastametaddūma ādityaṃ ‖*)
+
+Here उदंचः (*udaṃcaḥ*) means being in the northern direction, that is, going round by way of the northern direction; गृह (*gṛha*) means one's own region, the region in which we dwell; पुल्वघः (*pulvaghaḥ*) means puru plus agha, one who eats much of everything, that is, Agni who devours everything. Since Agni is also in the form of Āditya, Āditya is here said to be the one who eats greatly, existing in the form of the digestive fire of all beings. The word मृग (*mṛga*) is formed from the root मार्ष्टि (*mārṣṭi*), which denotes motion. Since the sun pervades everywhere by his rays, the sun is said to be denoted by the word मृग (*mṛga*). Therefore the main import of this Ṛk is: O Vṛṣākapi, that is, O Āditya, come again to our earth, going round by way of the northern direction, so that we may see you. Where did you go until now (during the night)? In the form of fire you are the devourer of all, and by your rays you are pervading everywhere. Such as you are, where have you gone until now? Rise and come quickly to illumine this earth, which is called our home. Such is the main import of the Ṛk.
+
+After rising in the eastern direction, the sun by day goes round by way of the southern direction and sets in the western direction. All of us see this every day. Afterwards, in the evening, after the sun has set, we cannot see the course of the sun. Therefore the seer questions Āditya as to where he was until now, and states the answer to it. O Āditya, by day you go round by way of the southern direction. Therefore, at night, going round by way of the northern direction, rise again in the eastern direction as usual and come: thus he has said. Here the earth on which we dwell is called a home out of excess of respect. The earth on which we dwell, here, is only that earth on which the light of the sun falls by day. Since the course of the sun is not seen at night, the region on which the light of the sun falls at that time the seer has
+
+### Printed p. 488
+
+not taken into account. Therefore the seer expresses wonder as to where the sun was after he had set, until the sunrise again.
+
+Hiraṇyakaśyapa Samudri describes this same matter, saying—
+
+क्वे ३ दानीं सूर्यः कश्चिकेत कतमां द्यां रश्मिरस्या ततान ॥ (*kve 3 dānīṃ sūryaḥ kaściketa katamāṃ dyāṃ raśmirasyā tatāna ‖*) (Ṛ. Saṃ. 1-25-7) **NOTE**
+
+Who can know where the sun is now (at night)? Into what other region does he spread his rays and shine? No one knows this: thus he has expressed wonder.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पर्शु॑र्ह॒ नाम॑ मान॒वी सा॒कं स॑सूव विंश॒तिं ।  
+> भ॒द्रं भ॑ल॒ त्यस्या॑ अभू॒द्यस्या॑ उ॒दर॒माम॑य॒द्विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्शः । ह । नाम । मानवी । साकं । ससूव । विंशतिं ।  
+> भद्रं । भल । त्यस्यै । अभूत् । यस्याः । उदरं । आमयत् । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ ३३ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रविसृज्यमानमनेन मंत्रेण वृषाकपिराशास्ते । हे भलेंद्रेण विसृज्यमान शर । भलतिर्भेदनकर्मा । पर्शुर्नाम मृगी । हेति पूरणः । मानवी
+> मनोर्दुहितेयं विंशतिं विंशतिसंख्याकान्सुत्रान् साकं सह ससूव । अजीजनत् ।
+> त्यस्यै तस्यै भद्रं भजनीयं कल्याणमभूत् । भवतु ॥ लोडर्थे लुज् ॥ यस्या
+> उदरमामयत् गर्भस्थैर्विंशतिभिः पुत्रैः पुष्टमासीत् । मम पितेंद्रो
+> विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+With this mantra Vṛṣākapi blesses the arrow being discharged by Indra. "O भल (*bhala*), arrow discharged by Indra": the root भल (*bhala*) has the sense of piercing. पर्शुः नाम (*parśuḥ nāma*) is a female deer; ह (*ha*) is an expletive. This daughter of Manu bore twenty, that is, twenty sons, together at one birth. May good fortune, such as is to be enjoyed, befall her whose belly was swollen, that is, filled, with twenty sons in the womb. Indra, my father, is above all. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मानवी (*mānavī*)—the daughter of Manu
+- पर्शुः नाम (*parśuḥ nāma*)—this female deer named Parśu **NOTE**
+- साकं (*sākaṃ*)—together
+- विंशतिं (*viṃśatiṃ*)—twenty children
+- ससूव (*sasūva*)—she bore
+- भल (*bhala*)—O arrow discharged by Indra
+
+### Printed p. 489
+
+- यस्याः (*yasyāḥ*)—whose
+- उदरं (*udaraṃ*)—belly
+- आमयत् (*āmayat*)—became swollen with the embryos
+- तस्यै (*tasyai*)—to her
+- भद्रं (*bhadraṃ*)—good fortune
+- अभूत् (*abhūt*)—may it be
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—exceedingly great
+
+##### भावार्थ (Bhāvārtha)
+
+This female deer, the daughter of Manu, named Parśu, bore twenty children together. O arrow discharged by Indra, may good fortune befall her whose belly was filled with these twenty embryos. Indra is greater than the whole world.
+
+##### English translation
+The daughter of Manu, Parshu by name, bore twenty children at once ; may good fortune, O arrow of Indra, befall her whose belly was so prolific ; Indra is above all (the world).
+
+## Sūkta 87 (Maṇḍala 10)
+
+**Pīṭhikā**
+
+The deity of this sūkta is Rakṣohāgni. Although matter concerning Rakṣohāgni occurs here and there in many Ṛks, the sūktas that chiefly praise this deity are three. Rakṣohāgni is the deity of the three sūktas कृणुष्टपाजः (*kṛṇuṣṭapājaḥ*) (Ṛ. Saṃ. 4-4), रक्षोहणं वाजिनं (*rakṣohaṇaṃ vājinaṃ*) (Ṛ. Saṃ. 10-87) and अग्ने हंसि न्यत्रिणं (*agne haṃsi nyatriṇaṃ*) (Ṛ. Saṃ. 10-118). It is customary to recite the sūktas that praise Rakṣohāgni so that no obstruction by the troops of Rakṣas may arise in sacrifices and the like. At the time of churning fire, if fire is not produced from the araṇis, it is regarded that the cause is the obstruction by the troop of Rakṣas, and the Aitareya Brāhmaṇa says, in the context of the fire-churning, that the Rakṣas-destroying sūkta अग्ने हंसि (*agne haṃsi*) in the Gāyatrī metre should be recited. We have mentioned this matter when describing the act of fire-churning. In the sūkta Ṛ. Saṃ. 7-104, Indra, Soma and others are called destroyers of Rakṣas, and that sūkta also is called a Rakṣoghna sūkta. The epithet रक्षोहाः (*rakṣohāḥ*) applies sometimes to Soma also: रक्षोहा विश्वचर्षणिः (*rakṣohā viśvacarṣaṇiḥ*) (9-1-2) and so on. Since in the present sūkta there is matter concerning Agni in the form of Jātavedas, Rakṣohāgni, the troops of Rakṣas, bhūtas, piśācas and yātudhānas, a detailed account of these is necessary.
+
+### Printed p. 490
+
+Jātavedas:—This word has been explained by the authors of the Nirukta as जातानि वेद, जातानि नैनं विदुः जातेजाते विद्यत इति वा, जातविद्यो जातधनः जातविद्यो जातप्रज्ञानः यत्तज्जातः पशूनविंदतेति तज्ञातवेदसो जातवेदस्त्वं इति ब्राह्मणं (*jātāni veda, jātāni nainaṃ viduḥ jātejāte vidyata iti vā, jātavidyo jātadhanaḥ jātavidyo jātaprajñānaḥ yattajjātaḥ paśūnaviṃdateti tajñātavedaso jātavedastvaṃ iti brāhmaṇaṃ*) **GLOSS**
+
+The nature of Jātavedas is stated thus in the Bṛhaddevatā—
+
+इहाग्निभूतस्तृषिभिर्लोके स्तुतिभिरीळितः । जातवेदाः स्तुतो मध्यॆ स्तुतो वैश्वानरो दिवि (*ihāgnibhūtastṛṣibhirloke stutibhirīḷitaḥ | jātavedāḥ stuto madhyè stuto vaiśvānaro divi*) (Bṛ. De. 1.67)
+
+This verse says that the seers call the Agni that is on the earth Jātavedas, and the Agni that is in the heavenly world Vaiśvānara; and, continuing the same explanation—
+
+वैश्वानरं श्रितोह्यग्निरग्निं वैश्वानरः श्रितः । अनयोर्जातवेदास्तु तथैते जातवेदसि ॥ (*vaiśvānaraṃ śritohyagniragniṃ vaiśvānaraḥ śritaḥ | anayorjātavedāstu tathaite jātavedasi ‖*) (Bṛ. Ve. 1-97) **NOTE**
+
+It is explained that Agni is contained in Vaiśvānara and Vaiśvānara in Agni, that Jātavedas is contained in both these forms, and that these two forms are different parts of Jātavedas. Having thus stated the stations of Jātavedas in the first chapter, the etymology of the nature of Jātavedas is given in the second chapter thus—
+
+भूतानि वेद यज्ञातो जातवेदाथ कथ्यते । यच्चैष जातविद्योऽभूत् नित्तं जातोऽधिनेत्ति वा ॥ (*bhūtāni veda yajñāto jātavedātha kathyate | yaccaiṣa jātavidyo 'bhūt nittaṃ jāto 'dhinetti vā ‖*) (Bṛ. Je. 2-30) **NOTE**
+
+विद्यते सर्वभूतैर्हि यद्वा जातः पुनःपुनः । तेनैष मध्यभागेंद्रो जातवेदा इति स्तुतः ॥ (*vidyate sarvabhūtairhi yadvā jātaḥ punaḥpunaḥ | tenaiṣa madhyabhāgeṃdro jātavedā iti stutaḥ ‖*) (Bṛ. De. 2-31)
+
+The Bṛhaddevatā gives the etymology that Agni is praised as Jātavedas, like Indra who dwells in the middle world, because he knows everything the moment he is born, or because knowledge arose in him, or because the moment he is born he knows and possesses all wealth, or because every time he is born again he is known by all beings. In the same way, explaining the nature of this Agni, the Śatapatha Brāhmaṇa says thus—
+
+यः संवत्सरं जातः स्यात्पाणो वा अग्निस्तमेतद्बिभर्त्यथ ह वै रेतः सिक्तं प्राणोऽन्ववरोहति तद्विंदते तद्यज्जातं जातं विंदते तस्माच्चातवेदाः ॥ (*yaḥ saṃvatsaraṃ jātaḥ syātpāṇo vā agnistametadbibhartyatha ha vai retaḥ siktaṃ prāṇo 'nvavarohati tadviṃdate tadyajjātaṃ jātaṃ viṃdate tasmāccātavedāḥ ‖*) (Śa. Brā. 9-5-16-8)
+
 ---
 
-**Progress note:** Done through printed p. 484. Sūkta 86 Ṛks 16-21 (Vṛṣākapi hymn), pp. 479-484
+**Progress note:** Done through printed p. 490. Vrishakapi sukta 86 Rk 21 end, Rk 22-23; sukta 87 introduction begins
