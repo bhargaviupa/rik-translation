@@ -20999,6 +20999,105 @@ After the root nature has undergone modification and been transformed in the for
 
 In this Ṛk three main matters are set forth. The first: what is the meaning of the word पुरुष (*puruṣa*)? Who is the Puruṣa? What does the word पुरुष (*puruṣa*) used in this Ṛk indicate? These matters must be examined. For the word पुरुष (*puruṣa*) in ordinary language
 
+### Printed p. 729
+
+means one of the three genders. That is, among the masculine, feminine and neuter genders, the word पुरुष (*puruṣa*) is the word that indicates the masculine. Trees, mountains and the like, which do not move and are without consciousness, belong to the class called the neuter gender. Among animals and human beings, who have the power to move, two kinds of class (group) are seen: one male and the other female. These classes themselves are indicated by the masculine and feminine words. So that the increase of progeny may go on without break, Parameśvara himself has devised this twofold difference in all living beings. From the union of these females and males (or animals) offspring arise, and the work of creation goes forward. But if one asks whether Parameśvara, who devised the difference of female and male, has a definite gender, female or male, then Parameśvara has no such difference of gender. He can assume any form he pleases. Since all things moving and unmoving, and the whole world as well, are a part, that is, the very form, of the Paramātman, there is no thing at all apart from the Paramātman, that is, apart from Brahman. All that exists is one thing alone (that same Parabrahman or Paramātman, Parameśvara and so on); it may be called by whatever gender one wishes, which means that it has no definite gender at all. According to the occasion, devotees, as they please, attribute images of various genders to that supreme thing and worship it. Durgā, Cāmuṇḍā and the like are feminine words (or images); Prajāpati, Rāma, Kṛṣṇa and the like are masculine words (or varieties of image); the Parabrahman, which is without change and beyond the reach of the senses such as the eye, is a word of neuter gender. Since all these point to one and the same supreme thing, that supreme thing may be called by any gender or word. In the present Ṛk it is indicated by the word पुरुष (*puruṣa*). This Parameśvara is also indicated by names such as Ādipuruṣa and Virāṭpuruṣa, whose body is the cosmic egg itself. Therefore the word पुरुष (*puruṣa*) in this Ṛk means Parameśvara alone.
+
+Secondly: the Parameśvara denoted by the word पुरुष (*puruṣa*) spoken of above is described here as सहस्रशीर्षा (*sahasraśīrṣā*), सहस्राक्षः (*sahasrākṣaḥ*), सहस्रपात् (*sahasrapāt*), that is, one who has thousands of heads, thousands of eyes, thousands of feet. Here the word सहस्र (*sahasra*) does not have the numerical meaning "thousand". It means endless, innumerable. That is, the word सहस्रशीर्षा (*sahasraśīrṣā*) must not be explained only as "one with a thousand heads"; one must say "one who has thousands, or innumerable, uncountable, endless heads". In the same way it is to be understood that he has endless eyes and endless feet. As is commonly within our experience, a man has only one head, two eyes and two feet. Some animals have more than two legs. But if one asks whether it is possible to have a thousand or an endless number of heads, it is possible only in the case of Parameśvara. The human beings in the world
+
+### Printed p. 730
+
+and all the other creatures and all the multitudes of living beings are parts of Parameśvara; that is, since Parameśvara himself is present in the form of all living beings, within their bodies, in the form of consciousness, the heads and so on of those innumerable beings are all heads of Parameśvara. Since the heads, eyes and feet of these multitudes of living beings are countless, Parameśvara is described here as having endless heads, endless eyes and endless feet. This is the explanation of the commentator Sāyaṇa.
+
+But here another important matter has to be examined. It is described in the Śruti and other texts that Parameśvara has no definite form in the unmanifest state and that he is all-pervading. That being so, the question naturally arises what is meant by saying that this Paramātman has heads, eyes and feet in countless numbers. As within our experience, that is, as we have them, the Paramātman does not have heads, eyes and feet. If we had no eyes we could not see anything; without ears we could not hear; without feet we could not move about. The case of the Paramātman is not so. Even though he has no eyes and the like, he can see, he can know, he can move about. He has no need of the senses such as the eye. Since he is of the nature of consciousness, he does not have to grasp the nature of things through the senses. Without limbs he can perform the work of all the limbs. Therefore it is to be understood that the words सहस्रशीर्षा (*sahasraśīrṣā*) and so on said here are not used to describe that the Paramātman has thousands or countless heads and other organs, but that those words are used in order to convey, at least to some small extent, his boundless power and capacity in the language that is in use among us.
+
+Thirdly: the principle set forth in the sentence स भूमिं विश्वतो वृत्वा दशांगुलं अत्यतिष्ठत् (*sa bhūmiṃ viśvato vṛtvā daśāṃgulaṃ atyatiṣṭhat*) is very profound. In this sentence the word भूमि (*bhūmi*) does not indicate only the earth or world in which we live. This word भूमि (*bhūmi*) explains the general meaning that indicates the earth in which we live and, like it, the innumerable other earths or cosmic eggs in the universe, that is, the entire universe. Therefore भूमि (*bhūmi*) means the universe. In order to tell in easy language a matter that is within our experience, the universe, which is beyond experience, has been described by the word भूमि (*bhūmi*), which can be known by experience. In the same way the meaning of the word दशांगुलं (*daśāṃgulaṃ*) also includes an upalakṣaṇa, that is, a general meaning. दशांगुल (*daśāṃgula*) does not mean a measure of ten fingers. The intention is that दशांगुल (*daśāṃgula*) means ten parts, or much more. It has been said before that this Paramātman at the time of creation himself transformed into the world of the moving and the unmoving and entered it in the form of the inner controller. From this, this world
+
+### Printed p. 731
+
+or universe, all the moving and unmoving things in it, the many worlds and cosmic eggs, all these came to be the Paramātman. Here a doubt arises. When the Paramātman himself has been transformed in the form of all the cosmic eggs, do the cosmic eggs exist alone, without the Paramātman? No, it is not so. Before creation, only a small part of the Paramātman (Parabrahman), who was in the unmanifest form, was transformed into the world and the rest. The greater part remained as it was. Even now it is so. That is, the world and the rest that are seen by the eye are only some parts of the Paramātman. The part that remains in the unmanifest form is far greater. It is not seen by our eye. Therefore at the time of creation the Paramātman exists in two kinds of forms, in the manifest forms such as the world and in the unmanifest form. The part that is in the form of the world and the rest is small; the part that is in the unmanifest form is large. In order to indicate this meaning, the word अत्यतिष्ठत् (*atyatiṣṭhat*) is used here, to convey the meaning that even though he has enveloped the earth (world, universe) that is visible to the eye (having been transformed into the form of the world and the rest), the greater part of him, the unmanifest form, still remains in excess. An example may be given to make this matter clear. The water of the sea, heated by the sharp rays of the sun, is transformed into clouds in the form of vapour. Afterwards the water in the clouds falls on the earth in the form of rain, flows as rivers and again joins the sea itself. This matter is within the experience of all. Here the sea may be compared to the Paramātman and the clouds to the world and the rest. When the water of the sea is transformed into clouds, all the water of the sea does not become clouds; only some small part does. The greater part of the sea remains as it is without becoming clouds. In the same way, even when the Paramātman has been transformed in the form of the world and the rest, the greater part of the Paramātman, the unmanifest form, remains as it is, that is, in the unmanifest state. Therefore the intention is that the world and the rest, which are forms of the Paramātman, are in a small part, while the unmanifest form that surpasses all these worlds and the rest is in the greater part. This very matter is explained later in the latter half of the third Ṛk of the present sūkta, पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि (*pādo 'sya viśvā bhūtāni tripādasyāmṛtaṃ divi*). It will be explained in that context.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुरु॑ष ए॒वेदं सर्वं॒ यद्भू॒तं यच्च॒ भव्यं॑ ।  
+> उ॒तामृ॑त॒त्वस्येशा॑नो॒ यदन्ने॑नाति॒रोह॑ति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुषः । एव । इदं । सर्वं । यत् । भूतं । यत् । च । भव्यं ।  
+> उत । अमृतत्वस्य । ईशानः । यत् । अन्नेन । अतिरोहति ॥ २ ॥
+
+### Printed p. 732
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदिदं वर्तमानं जगत्तत्सर्वं पुरुष एव । यच्च भूतमतीतं जगद्यच्च
+> भव्यं भविष्यज्जगत् तदपि पुरुष एव । यथास्मिन्कल्पे वर्तमानाः प्राणिदेहाः
+> सर्वेऽपि विराट्टुरुषस्यावयवाः तथैवातीतागामिनोरपि कल्पयोर्द्रष्टव्यमित्यभिप्रायः । उतापि चामृतत्वस्यॆ देवत्वस्यायमीशानः स्वामा ! यद्यस्मात्कारणादन्नेन प्राणिनां भोग्येनान्नेन निमित्तभूतेनातिरोहति स्वकीयां कारणावस्थामतिक्रम्य परिदृश्यमानां जगदवस्थांप्राप्नोति तस्मात्पाणिनां कर्मफलभोगाय
+> जगदवस्थास्वीकारान्नेदं तॆस्य वस्तुत्वमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Everything that is the present world is Puruṣa alone. What has been, the past world, and what is to be, the future world, that too is Puruṣa alone. As the bodies of the living beings now existing in this kalpa are all limbs of the Virāṭ Puruṣa, so the same is to be seen in the past and the coming kalpas; this is the meaning. Further, this Puruṣa is the lord of immortality, that is, of divinity. Because, with food as the occasioning cause, food that is to be enjoyed by living beings, he passes beyond his own causal state and attains the world-state that is seen, therefore, for the sake of the enjoyment of the fruits of their actions by living beings, he accepts the state of the world; hence this is not his own reality. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इदं सर्वं (*idaṃ sarvaṃ*)—all this world that is visible to us (the whole present world)
+- पुरुष एव (*puruṣa eva*)—that primal Puruṣa himself (it is his very part)
+- यत् भूतं (*yat bhūtaṃ*)—whatever existed in the past
+- यच्च भव्यं (*yacca bhavyaṃ*)—whatever will come into being hereafter (all that world is a part of Īśvara and is not something other)
+- उत (*uta*)—and
+- अमृतत्वस्य (*amṛtatvasya*)—of freedom from death
+- ईशानः (*īśānaḥ*)—he alone is the lord
+- यत् (*yat*)—by what cause
+- अन्नेन (*annena*)—by food, which is the means of enjoyment of living beings
+- अतिरोहति (*atirohati*)—he grows (therefore he has a greater majesty than he now appears to have)
+
+##### भावार्थ (Bhāvārtha)
+
+The whole world that is visible to us, that is, the whole world of the present time, is a part of that primal Puruṣa. The world that was in the past is he, and what will come to be hereafter is he also; that is, it is not something other than a part of Īśvara. He is the lord of immortality. By the food that is the means of enjoyment for living beings he appears to grow. But his own nature is beyond the reach of the senses.
+
+##### English translation
+Purusha is verily all this (visible world). all that is, and all that
+is to be ; he is also the lord of immortality ; for for he mounts beyond
+(his own conditon) for the food (of living beings).
+
+##### विशेषविषयगळु (Special Topics)
+
+That the whole world is full of Īśvara, that Īśvara is the lord of the entire world, that the distinctions of time such as past, present and future are all his power: such praise of the greatness of the supreme Puruṣa is given in this Ṛk.
+
+### Printed p. 733
+
+इदं वर्तमानं जगत् सर्व० पुरुष एव । अतीतं जगत्, भविष्यज्जगत् तदपि पुरुष एव । (*idaṃ vartamānaṃ jagat sarva0 puruṣa eva | atītaṃ jagat, bhaviṣyajjagat tadapi puruṣa eva |*). The whole world is a particular limb of Puruṣa. That there is no second independent principle apart from Puruṣa is told by the sentence पुरुष एवेदग्० सर्व० (*puruṣa evedag0 sarva0*). Śaṅkarācārya, explaining this very point in his commentary, has said सत्यं नेश्वरादन्यः संसारी (*satyaṃ neśvarādanyaḥ saṃsārī*) (Bra. Sū. Śa. Bhā. 1-1-5) **NOTE**: Īśvara alone is the eternal one whose nature is being. He himself undergoes change in the form of saṃsāra. Apart from him there is no other transmigrating being. But in the world there are many varieties. There are many multitudes of living beings. All of them have individual freedom. That being so, there is room also for the question whether it is right that Īśvara alone is the transmigrating being and that there is no second principle apart from him. To such objections an answer has been given in the commentaries and other works on the authority of Śruti passages. The Sūrya-Ātman who is described by सूर्य आत्मा जगतस्तस्थुषश्च (*sūrya ātmā jagatastasthuṣaśca*) (Ṛ. Saṃ. 1-115-1), him Śaṅkarācārya has indicated as Īśvara. He himself is indicated by the names Brahmā, Indra and so on.
+
+स ना आयमात्मा सर्वेषां भूतानामधिपतिः सर्वेषां भूतानां राजा तद्यथा रथनाभौ च रथनेनौ चाराः सर्वे समर्पिता एवमेवास्मिन्नात्मनि सर्वाणि भूतानि सर्वे देवाः सर्वे लोकाः सर्वे प्राणाः सर्व एत आत्मानः समर्पिताः । (*sa nā āyamātmā sarveṣāṃ bhūtānāmadhipatiḥ sarveṣāṃ bhūtānāṃ rājā tadyathā rathanābhau ca rathanenau cārāḥ sarve samarpitā evamevāsminnātmani sarvāṇi bhūtāni sarve devāḥ sarve lokāḥ sarve prāṇāḥ sarva eta ātmānaḥ samarpitāḥ |*) (Bṛ. U. 2-5-15)
+
+This Paramātman is the overlord of all beings. He is the king of all beings. As all the spokes are gathered together in one place in the wheel of a chariot, so in this Paramātman all beings, all gods, all vital breaths and all selves are gathered together as one. This matter was told briefly before, when the special matter of the Ṛk रूपं रूपं प्रतिरूपो बभूव (*rūpaṃ rūpaṃ pratirūpo babhūva*) (Ṛ. Saṃ. 6-47-18) was given. In the present place a detailed explanation of it is very necessary, and therefore this point will be made clear by citing the Upaniṣadic and other passages. How the Śruti passages describe that the world, made up of all the unmoving and the moving, is full of Īśvara and is not something other than a part of Īśvara will be examined.
+
+इयं पृथिवी सर्वेषां भूतानां मधु अस्यै पृथिव्यै सर्वाणि भूतानि मधु यश्चायमस्यां पृथिव्यां तेजोमयोऽमृतमयः पुरुषो (*iyaṃ pṛthivī sarveṣāṃ bhūtānāṃ madhu asyai pṛthivyai sarvāṇi bhūtāni madhu yaścāyamasyāṃ pṛthivyāṃ tejomayo 'mṛtamayaḥ puruṣo*)
+
+### Printed p. 734
+
+यश्चायमध्यात्मं शारीरस्तेजो मयोऽमृतमृतमयः पुरुषोऽयमेव स योऽयमात्मेदममृतमिदं ब्रह्मेदं सर्वं । (*yaścāyamadhyātmaṃ śārīrastejo mayo 'mṛtamṛtamayaḥ puruṣo 'yameva sa yo 'yamātmedamamṛtamidaṃ brahmedaṃ sarvaṃ |*) (Bṛ. U. 2-5-1)
+
+This earth is honey for all beings. All beings are honey for this earth. This Puruṣa, full of radiance and full of immortality, is present within all bodies. This very Paramātman who pervades the earth is the Parabrahman, the inner controller of all, all-pervading, the cause of all. He alone is the Self of all.
+
+इमा आपः सर्वेषां भूतानां मधु ................. यश्चायमध्यात्मं रैतसस्तेजोमयः पुरुषोऽयमेव स योऽयमात्मेदमम्म तमिदं ब्रह्मदं सर्वं ॥ (*imā āpaḥ sarveṣāṃ bhūtānāṃ madhu ................. yaścāyamadhyātmaṃ raitasastejomayaḥ puruṣo 'yameva sa yo 'yamātmedamamma tamidaṃ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2-5-2)
+
+Water is honey for all beings. All beings are honey for this water. This Puruṣa, full of radiance and full of immortality, is in the form of semen. This very Paramātman who pervades water is the Parabrahman, the inner controller of all, all-pervading, the cause of all, full of immortality. He alone is the Self of all.
+
+अयं वायुः................ यश्चायमस्मिन्वायौ तेजोमयोऽमृतमयः ........... यश्चायमध्यात्मं प्राणः ............ योऽयमात्मेदं ब्रह्मदं सर्वं । (*ayaṃ vāyuḥ................ yaścāyamasminvāyau tejomayo 'mṛtamayaḥ ........... yaścāyamadhyātmaṃ prāṇaḥ ............ yo 'yamātmedaṃ brahmadaṃ sarvaṃ |*) (Bṛ. U. 9-5-3) **NOTE**
+
+This Parabrahman, the inner controller of all and all-pervading in the form of air, has entered all bodies in the form of the vital breath. He alone is the Parabrahman who is the Self of all.
+
+अयमादित्यः.................. यश्चायमध्यात्मं चाक्षुषः ............ आत्मेदममृतमिदं ब्रह्मदं सर्वं । (*ayamādityaḥ.................. yaścāyamadhyātmaṃ cākṣuṣaḥ ............ ātmedamamṛtamidaṃ brahmadaṃ sarvaṃ |*) (Bṛ. U. 2-25-4) **NOTE**
+
+This Paramātman, who is honey for all beings in the form of the sun, is in all beings in the form of the eye. He alone is the Parabrahman who is the Self of all.
+
+इमा दिशः ............ यश्चायमध्यात्मं श्रौत्रः ........... आत्मेदममृतमिदं ब्रह्मेदं सर्वं ॥ (*imā diśaḥ ............ yaścāyamadhyātmaṃ śrautraḥ ........... ātmedamamṛtamidaṃ brahmedaṃ sarvaṃ ‖*) (Bṛ. U. 2-5-5)
+
 ---
 
-**Progress note:** Done through printed p. 728. Special Topics on daśāṅgula, prādeśamātra, measure of the altar; pp. 723-728
+**Progress note:** Done through printed p. 734. Vol 29 pp. 729-734: Puruṣa-sūkta Ṛk 2, commentary and Upaniṣad quotations
