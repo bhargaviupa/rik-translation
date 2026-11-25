@@ -25321,6 +25321,260 @@ In the Vāsukra hymns Indra is mostly praised. Now Indra, addressing his son Vas
 - प्रहंता अस्मि (*prahaṃtā asmi*)—I am the destroyer
 - सत्यध्वृतं (*satyadhvṛtaṃ*)—one who brings a stain on truth, and
 
+### Printed p. 716
+Of the one who does sinful deeds and the one of evil disposition (I destroy them).
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipper, my disposition, by which I grant the desired object to the sacrificer who offers oblations, is excellent and famed, and it is of this kind: I am the destroyer of one who offers no oblations and has fallen from the rite. I destroy him who sullies truth, who does sinful deeds, and who is of evil disposition.
+
+##### English translation
+(Indra speaks): Such is my pleasant disposition, worshipper, that I help the institutor of the rite, who offers libations; but I am the punisher of him who offers not libations, who disregards truth, the perpatrator of sin, the malignant.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदीद॒हं यु॒धये॑ सं॒नया॒न्यदे॑वयून्त॒न्वा॒३॒॑३शूशु॑जानान् ।  
+> अ॒मा ते॒ तुम्रं॑ वृष॒भं प॑चानि ती॒व्रं सु॒तं पं॑चद॒शं नि  ॑
+> षिंचं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । इत् । अहं । युधये । संनयानि । अदेवयून् । तन्वा । शूशुजानान् ।  
+> अमा । ते । तुम्रं । वृषभं । पचानि । तीव्रं । सुतं । पंचदशं । नि । सिंचं॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदीद्यदाहमेव युधये युद्धार्थमदेवयून् देवान्यष्टुमनिच्छतोऽयज्वनः संनयानि संगमयामि । कीदृतान् । तन्ना स्वशरीरेण शूशुजानानात्मंभरित्वात्पुष्टिलक्षणया दीप्त्या युक्तान् । पुष्पानित्यर्थः । तदा हे इंद्र अहममर्त्वि-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: when I myself, for battle, bring together the अदेवयून् (*adevayūn*), those who do not wish to worship the gods, the non-sacrificers, how are they? शूशुजानान् (*śūśujānān*) means shining with a brilliance that takes the form of bodily fatness, because they feed only themselves; that is, they are well-nourished. Then, O Indra, I, together with the priests and others.
+
+### Printed p. 717
+
+> गादिभिः सहितस्ते तुभ्यं तुम्रं प्रेरकं बलिनं । पीवानमित्यर्थः । वृषभं सेचनसमर्थं पुंपशुं पचानि । किंच तीव्रं मदकररसं सुतमभिषुतं पंचदशं । प्रतिपत्ब्रृतिपंचदशसंख्याकासु तिथिषु शुक्लपक्ष एकोत्तरवृद्धा पर्णानि जायंते ।
+> कृष्णपक्षे तु तद्वन्निहीयंते । एवंभूतत्वात्पंचदशः सोम उच्यते । तं । यद्वा।
+> त्रिवृत्पंचदशस्तोमोपेतं माध्यंदिनसवनकमित्यर्थः । नि षिंचं । दशापवित्रॆ द्रोणकलशे चमसपात्रेऽग्नौ वा सिंचामि । प्रक्षिपामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+...for you I cook a तुम्रं (*tumraṃ*), that is, an impelling, strong, fat वृषभं (*vṛṣabhaṃ*), a male animal able to impregnate. Moreover I pour the intoxicating juice, pressed out, the पंचदशं (*paṃcadaśaṃ*). On the fifteen tithis beginning with the first, in the bright fortnight leaves increase by one each day, while in the dark fortnight they decrease likewise; being of this nature Soma is called fifteenfold. Or else: the midday pressing, endowed with the trivṛt and pañcadaśa stomas. नि षिंचं (*ni ṣiṃcaṃ*): I pour it on the ten-strainer, into the Droṇa vessel, the cup, or the fire; that is, I cast it in.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when (O Indra)
+- अहमित् (*ahamit*)—I myself
+- युधये (*yudhaye*)—for battle
+- तन्वा (*tanvā*)—by the fatness of their bodies
+- शूशुजानान् (*śūśujānān*)—those who have brilliance
+- अदेवयून् (*adevayūn*)—the unbelievers, not worshippers of the gods
+- संनयामि (*saṃnayāmi*)—I confront, then
+- अमा (*amā*)—together with the priests
+- ते (*te*)—for you
+- तुम्रं (*tumraṃ*)—fat
+- वृषभं (*vṛṣabhaṃ*)—a bull (ox)
+- पचामि (*pacāmi*)—I cook
+- तीव्रं (*tīvraṃ*)—intoxicating
+- सुतं (*sutaṃ*)—pressed
+- पंचदशं (*paṃcadaśaṃ*)—Soma
+- नि षिंचं (*ni ṣiṃcaṃ*)—I offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when I myself confront for battle the unbelievers who shine with the fatness of their bodies, then together with the priests I cook a fat bull for you. I offer the intoxicating, pressed Soma.
+
+##### English translation
+If I encounter in combat the undevout, resplendent in their bodies, then will I cook a vigorous bull for them, and will sprinkle (upon the fire) the exilarating effused juice the fifteenfold (Soma).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाहं तं वे॑द॒ य इति॒ ब्रवी॒त्यदे॑वयून्त्स॒मर॑णे जघ॒न्नान् ।  
+> य॒दावाख्य॑त्स॒मर॑ण॒मृघा॑न॒दादिद्ध॑ मे वृष॒भा प्र ब्रु॑वंति ॥
+
+### Printed p. 718
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अहं । तं । वेद । यः । इति । ब्रवीति । अदेवयून् । संअरणे ।  
+> जघन्वान् ।  
+> यदा । अव्य अख्यत् । संअरणं । ऋघावत् । आत् । इत् । ह । मे । वृषभा । प्र ।  
+> ब्रुवंति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो जनोऽदेवयून् देवानकामयमानान्देवद्विषो राक्षसादीस्मरणे संग्रामे जघन्वान् अहं हतवानिति ब्रवीति वदति तं तादृशं मद्व्यतिरिक्तं
+> जनमहं न वेद । न जानामि । मत्तोऽन्यः संग्रामे शत्रूणां हंता नास्तीत्यर्थः ।
+> किंच । यदा यस्मिन्नाले समरणं संग्राममवाख्यत् अवाकृतं न्यक्कृतमहं
+> पश्यामि । कीदृशं । ऋघावदृघावंतं परस्परं हिंसायुक्तं । अत्यंतक्रूरमित्यर्थः ।
+> अत्तदानीं मे मम स्वभूतानि वृषभा वृषभकर्माणि दर्पितवृषभस्येव विक्रांतकर्माणि प्र ब्रुवंति । विद्वज्जना इति शेषः । इद्देतीमा पदपूरणौ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the person who says "I have slain in battle the अदेवयून् (*adevayūn*)", the god-haters, Rākṣasas and others who do not desire the gods, that person, other than me, I do not know; there is no other than I who is a slayer of enemies in battle. Further, when I see the battle अवाख्यत् (*avākhyat*), brought low, and ऋघावत् (*ṛghāvat*), full of mutual violence, extremely cruel, then at once my वृषभा (*vṛṣabhā*) deeds, like the valorous deeds of a proud bull, are proclaimed by the learned (understood). इत् (*it*) and ह (*ha*) are expletives.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- अदेवयून् (*adevayūn*)—the asuras who are not worshippers of the gods
+- समारणे (*samāraṇe*)—in battle
+- जघन्वान् (*jaghanvān*)—I have slain
+- इति (*iti*)—thus
+- ब्रवीति (*bravīti*)—says
+- तं (*taṃ*)—such a man (other than me)
+- अहं (*ahaṃ*)—I
+- न वेद (*na veda*)—do not know
+- यदा (*yadā*)—when
+- ऋघावत् (*ṛghāvat*)—full of violence
+- समरणं (*samaraṇaṃ*)—battle
+- अवाख्यत् (*avākhyat*)—I see
+- आत् इत् (*āt it*)—immediately then
+- मे (*me*)—my
+- वृषभा (*vṛṣabhā*)—sinful deeds **NOTE**
+- प्र ब्रुवंति ह (*pra bruvaṃti ha*)—the learned praise
+
+##### भावार्थ (Bhāvārtha)
+
+The man who says "I have slain in battle the asuras who do not worship the gods", such a man other than me I have simply not seen. When I see the violent battle begun, immediately the learned praise my prowess.
+
+##### English translation
+I know not that man who says that he is the slayer in battle of those who do not reverence the gods: but when (I behold) the fierce war commenced, then (my enemies) proclaim my prowess.
+
+### Printed p. 719
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदज्ञा॑तेषु वृ॒जने॒ष्वासं॒ विश्वे॑ स॒तो म॒घवा॑नो म  
+> आसन् ।  
+> जि॒नामि॒ वेत्क्येम॒ आ संत॑मा॒भुं प्र तं क्षि॑णां॒ पर्व॑ते  ॒॑
+> पादगृह्य ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अज्ञातेषु । वृजनेषु । आसं । विश्वे । सतः । मघवानः । मे । आसन् ।  
+> जिनामि । वा । इत् । क्षेमे । आ । संतं । आभुं । प्र । तं । क्षिणां । पर्वते । पादगृह्य ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदाज्ञातेषु शरीरवस्त्रा स्रबलादिभिरपरिज्ञातेषु वृजनेषु संग्रामेष्वासं अहं युद्धार्थमुपविशामि तदा विश्वे सर्वॆ मघवानो हनिर्लक्षणतपोलक्षणधनवंत ऋषयः सत एवं वर्तमानस्य मे ममेंद्रस्य समीप आसन् । उपविशंति ।
+> मम वीर्यवृद्ध्यर्थं मां स्तुवंतस्तिष्ठंतीत्यर्थः । अपि च क्षेमे जगत्पालने
+> निमित्त आ संतं । आकारोऽभीत्यस्यार्थे वर्तते । सर्वमभिभवंतमाभुं महांतं
+> शत्रुं जिनामि वा । विनाशयाम्येव । नात्र विनाशे संशयः । इदिति पूरणः । तं
+> महांतं शत्रुं पादगृह्य पादौ गृहीत्वा पर्वते गिरा प्र क्षिणां । प्रहिनस्मि! प्रक्षिपामि॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: when I sit down for battle in वृजनेषु (*vṛjaneṣu*), battles unknown, not known by body, garments, weapons, strength and so on, then all the मघवानः (*maghavānaḥ*), the seers wealthy in the wealth of oblations and austerity, sit near me, Indra, who am thus; they stand praising me to increase my vigour. Moreover, for क्षेमे (*kṣeme*), the protection of the world, I destroy the great enemy who overpowers everything (आ (*ā*) has the sense of *abhi*); there is no doubt of the destruction. इत् (*it*) is an expletive. Seizing that great enemy by the feet, I hurl him down from the mountain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- अज्ञातेषु (*ajñāteṣu*)—in previously unknown
+- वृजनेषु (*vṛjaneṣu*)—battles
+- आसं (*āsaṃ*)—I am engaged, then
+- विश्वे (*viśve*)—all
+- मघवानः (*maghavānaḥ*)—seers provided with oblations
+- सतः (*sataḥ*)—engaged in this work
+- मे (*me*)—near me
+- आसन् (*āsan*)—sit (praise)
+- आसंतं (*āsaṃtaṃ*)—one who spreads everywhere
+- आभुं (*ābhuṃ*)—the powerful enemy
+- क्षेमे (*kṣeme*)—for the protection of the world
+- जिनामि वा (*jināmi vā*)—we surely destroy
+- तं (*taṃ*)—the mighty enemy
+- पादगृह्य (*pādagṛhya*)—seizing by the foot
+- पर्वते (*parvate*)—from the top of the mountain
+- प्र क्षिणां (*pra kṣiṇāṃ*)—I throw down
+
+### Printed p. 720
+
+##### भावार्थ (Bhāvārtha)
+
+When I am engaged in a fierce battle never known before, all the seers with oblations sit near me, engaged in this work, and praise me. The enemy who spreads everywhere and is powerful I surely destroy for the protection of the world. Seizing such an enemy by the foot, I hurl him down from the top of the mountain.
+
+##### English translation
+When I enter upon unprecedented combats, then all those who are affluent in oblations approach me so engaged: I destroy the mighty and overpowring foe for the protection of the world, and, seizing him by the feet, throw him down from the mountain.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न वा उ॒ मां वृ॒जने॑ वारयंते॒ न पर्व॑तासो॒ यद॒हं  ॒॑
+> मनस्यॆ ।  
+> मम॑ स्व॒नात्कृ॑धु॒कर्णो॑ भयात ए॒वेदनु॒ द्यून्कि॒रणः॒ समे॑जात् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । वै । ऊं इति । मां । वृजने । वारयंते । न । पर्वतासः । यत् । अहं ।  
+> मनस्यॆ ।  
+> मम । स्वनात् । कृधुकर्णः । भयाते । एव । इत् । अनु । द्यून् । किरणः । सं ।  
+> एजात् । ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वै उ इत्येवैव । वृजने संग्रामे मां युद्धार्थमुपस्थितं संतं न वारयंते । केचिन्निवारयितुं समर्था न भवंति । अहं यत्कर्म मनस्यॆ मनसा
+> कर्तुमिच्छामि पर्वतासोऽवितरणक्षमा हिमवदादयो गिरयस्ततर्म मनसा
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: वै उ (*vai u*) is just emphasis. In battle they do not restrain me when I am present for fighting; none are able to hinder. Whatever act I wish to do in mind, the mountains, Himavat and others, unable to withstand, cannot.
+
+### Printed p. 721
+
+> प्रोढुं न शक्नुवंतीत्यर्थः । किंच ममेंद्रस्य स्वनाच्छब्दादेव कृधुकर्णो नामासुरः यद्वा कृधुकर्णो ह्रस्वकर्णो मंदश्रवणेंद्रियो बधिरः स्थावरपिपीलिकादिरपि भयाते। बिभेति। अपि चैवेदेवमेव कृधुकर्णवदनु द्यून् । प्रतिदिनमित्यर्थः ।
+> किरणः । अंतर्णीतमत्त्वर्थमेतत् । किरणनान्रश्मिवानादित्यः समेजात् । सम्यक्कंपयते । चलति । नियमेन प्रयातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+...bear that act of mine in mind; that is, they cannot resist it. Moreover, at the very sound of me, Indra, the asura named Kṛdhukarṇa (or: one short-eared, dull in the organ of hearing, deaf, even a motionless creature such as an ant) is afraid. Likewise अनु द्यून् (*anu dyūn*), day by day, किरणः (*kiraṇaḥ*) (with the sense of the possessive suffix included), the rayed sun, समेजात् (*samejāt*) trembles, moves; that is, goes forth by rule.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृजने (*vṛjane*)—in battle
+- मां (*māṃ*)—me, engaged
+- न वै वारयंते (*na vai vārayaṃte*)—none can stop
+- अहं (*ahaṃ*)—I
+- यत् (*yat*)—what act
+- मनस्यॆ (*manasyè*)—I resolve, that
+- पर्वतासः (*parvatāsaḥ*)—the mountains
+- न (*na*)—cannot stop
+- मम (*mama*)—my
+- स्वनात् (*svanāt*)—by the sound
+- कृधुकर्णः (*kṛdhukarṇaḥ*)—even one of dull ear
+- भयाते (*bhayāte*)—is frightened
+- एवेत् (*evet*)—just like this
+- अनु द्यून् (*anu dyūn*)—every day
+- किरणः (*kiraṇaḥ*)—even the sun
+- समेजात् (*samejāt*)—trembles
+
+##### भावार्थ (Bhāvārtha)
+
+No one can stop me when I am engaged in battle. Whatever act I resolve upon, even the mountains cannot oppose it. At my sound even one of dull hearing is frightened. Likewise, every day even the sun trembles.
+
+##### English translation
+None resist me (engaged) in combat, not even the mountains when I am resolved : at my shout the dullest of hearing is alarmed, and so too even the bright-rayed (sun) trembles day by day.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दर्श॒न्नवत्र॑ शृत॒पा अ॑निं॒द्रान्बा॑हु॒क्षदः॒ शर॑वे॒ पत्य॑मानान् ।  
+> घृषुं॑ वा॒ ये नि॑नि॒दुः सखा॑य॒मध्यू॒ नै॑षु प॒वयो॑  
+> नवृत्युः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दर्शन् । नु । अत्र । शृतपान् । अनिंद्रान् । बाहुक्षदः। शरवे । पत्यमानान् ।  
+> घृषुं । वा । ये । निनिदुः । सखायं । अधि । ऊं इति । नु । एषु । पवयः ।  
+> ववृत्युः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
 ---
 
-**Progress note:** Done through printed p. 715. pp. 710-715 (batch API)
+**Progress note:** Done through printed p. 721. pp. 716-721 (batch API)
