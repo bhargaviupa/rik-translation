@@ -17871,6 +17871,110 @@ Imperial Maghavan, to you this oblation is offered; aecept it, not displeased : 
 
 On the question whether the deities, like men, have bodily forms, limbs such as hands, eating of food, drinking of Soma and similar actions, or not, Yāska has given as an example the phrase of this Ṛk, अद्धींद्रपिब च प्रस्थितस्य (*addhīṃdrapiba ca prasthitasya*). His explanation on this matter is as follows—
 
+### Printed p. 536
+Although there is a difference of opinion on the question whether the gods have limbs such as hands and feet, as human beings have, in the Ṛgveda the seers are seen to praise Indra and the other gods as possessing limbs such as hands and feet. On this point Yāska says:
+अथाकारचिंतनं देवतानां । पुरुषविधाः स्युरित्येकं । चेतनावद्वद्धि स्तुतॆयो भवंति । तथाभिधानानि । अथापि पौरुषविधिकैरंगैः संस्तूयंते । ऋष्वात इंद्र स्थविरस्य बाहू । यत्संगृभ्जा मघवन् काशिरित्ते । (*athākāraciṃtanaṃ devatānāṃ | puruṣavidhāḥ syurityekaṃ | cetanāvadvaddhi stutèyo bhavaṃti | tathābhidhānāni | athāpi pauruṣavidhikairaṃgaiḥ saṃstūyaṃte | ṛṣvāta iṃdra sthavirasya bāhū | yatsaṃgṛbhjā maghavan kāśiritte |*) (Ni. 7-6)
+Thus he has stated the explanation. Now let us examine the forms, shapes and so on of the gods. Some hold that the gods have hands and other limbs as men have. Considering that the gods, like men, possess consciousness, intelligence and so on, and that, having hands and other limbs and a form as men have, they are conscious beings, they are praised accordingly. For this very reason it is customary, when describing Indra and the other gods, to describe their hands and the like. In the third pāda of the present Ṛk, ऋष्वात इंद्र स्थविरस्य बाहू (*ṛṣvāta iṃdra sthavirasya bāhū*), there is a description of Indra's arms. Likewise in the Ṛk
+उताभये पुरुहूत श्रवोभिरेको दृळमवदो वृत्रहा सन् । इमे चिदिंद्र रोदसी अपारे यत्संगृभ्णा मघवन् काशिरित्ते ॥ (*utābhaye puruhūta śravobhireko dṛḷamavado vṛtrahā san | ime cidiṃdra rodasī apāre yatsaṃgṛbhṇā maghavan kāśiritte ‖*) (Ṛ. Saṃ. 3-30-5)
+the author of the Nirukta has cited a description of Indra's limbs. There are many descriptions that the gods have, besides human forms, association with various kinds of things, as men have:
+अथापि पौरुषविधिकैर्द्रव्यसंयोगैः । (*athāpi pauruṣavidhikairdravyasaṃyogaiḥ |*) (Ni. 7-6)
+On this point he cites the Ṛk
+आ द्वाभ्यां हरिभ्यामिंद्र याह्या चतुर्भिरा षड्भिर्हूयमानः । आष्टाभिर्दशभिः सोमपेयमयं सुतः सुमख मा मृधस्कः ॥ (*ā dvābhyāṃ haribhyāmiṃdra yāhyā caturbhirā ṣaḍbhirhūyamānaḥ | āṣṭābhirdaśabhiḥ somapeyamayaṃ sutaḥ sumakha mā mṛdhaskaḥ ‖*) (Ṛ. Saṃ. 2-18-4)
+and in this Ṛk it is clearly explained that, as men have cows, horses and so on, so Indra and the other gods have them. "O Indra, come to our sacrifice with your two horses named Hari, seated in the chariot, or else
+
+### Printed p. 537
+with four, six, eight or ten horses, here for the drinking of Soma." Since this is said, the sense is plain that, as men have possessions in worldly dealings, so the gods have horses and the like. And again
+अपाः सोममस्तमिंद्र प्र याहि कल्याणीर्जाया सुरणं गृहे ते । यत्रा रथस्य बृहतो निधानं विमोचनं वाजिनो दक्षिणावत् ॥ (*apāḥ somamastamiṃdra pra yāhi kalyāṇīrjāyā suraṇaṃ gṛhe te | yatrā rathasya bṛhato nidhānaṃ vimocanaṃ vājino dakṣiṇāvat ‖*) (Ṛ. Saṃ. 3-53-6)
+In this Ṛk there is mention of Indra, like men, having a wife, a chariot and horses in his house.
+Further, in support of the view that the gods have actions like those of men, he gives some examples:
+अथापि पौरुषविधिकैः कर्मभिः । (*athāpi pauruṣavidhikaiḥ karmabhiḥ |*) (Ni. 7-6)
+इदं हविर्मघवन् तुभ्यं रातं प्रति सम्राळहृणानो गृभाय । तुभ्यं सुतो मघवन् तुभ्यं पक्वोऽद्धींद्र पिब च प्रस्थितस्य ॥ (*idaṃ havirmaghavan tubhyaṃ rātaṃ prati samrāḷahṛṇāno gṛbhāya | tubhyaṃ suto maghavan tubhyaṃ pakvo 'ddhīṃdra piba ca prasthitasya ‖*) (Ṛ. Saṃ. 10-116-7)
+आश्रुत्कर्ण श्रुधी हवं नू चिद्दधिष्ट मे गिरः । इंद्र सोममिमं मम कृष्णा युजश्चिदंतरं । (*āśrutkarṇa śrudhī havaṃ nū ciddadhiṣṭa me giraḥ | iṃdra somamimaṃ mama kṛṣṇā yujaścidaṃtaraṃ |*)
+These Ṛks are given as examples. In the first Ṛk it is said that the oblation and Soma are offered for Indra and that he is prayed to drink it. In the second Ṛk there is a prayer that he should hear our invocation and our praise. That is, actions fitting human beings, such as eating the oblation as men do, drinking the Soma juice, and listening to the invocation and the praise, are attributed to Indra and the other gods, and they are praised accordingly. Thus it is the contention of some that the gods have a form, hands and other limbs, and actions such as eating, as men have. Others hold that the gods have no forms and the like as men have, that their actions also are different from those performed by men, and that they are so described by way of exaggeration, to depict the greatness of the gods:
+अपुरुषविधाः स्युरित्यपरं ॥ (*apuruṣavidhāḥ syurityaparaṃ ‖*) (Ni. 7-7)
+Others hold that the gods do not have form, shape, action and so on as men have, and that their distinctive character is of another kind. How so?
+
+### Printed p. 538
+अपि तु यद्दृश्यतेऽपुरुषविधं तद्यथाग्निर्वायुरादित्यः पृथिवी चंद्रमा इति (*api tu yaddṛśyate 'puruṣavidhaṃ tadyathāgnirvāyurādityaḥ pṛthivī caṃdramā iti*) (Ni. 7-7)
+Although the forms and actions of some gods appear like those of men, they are not so. Although the forms and actions of the gods Agni, Vāyu, Āditya, Pṛthivī, Candramā and so on appear like the actions of men, their manner is quite different. There is a marked difference between those actions and the actions of men.
+यथो एतच्छेतनावद्वद्धि स्तुतयो भवंतीत्यचेतनान्यप्येवं स्तूयंते यथाक्षप्रभृतीनोषधिपर्यंतानि ॥ (*yatho etacchetanāvadvaddhi stutayo bhavaṃtītyacetanānyapyevaṃ stūyaṃte yathākṣaprabhṛtīnoṣadhiparyaṃtāni ‖*) (Ni. 7-7)
+That is, when gods such as Agni are praised, they are praised as though conceived to be like conscious beings. In gambling men address the dice; though the dice are without consciousness, they address them as if they were conscious creatures. They also address the herbs, that is, plants, trees and creepers, conceiving them as conscious.
+यथो एतत्पौरुषविधिकैरंग्यैः संस्तूयंत इत्यचेतनेष्वप्येतद्भवत्यभिक्रदंति हरितेभिरासभिरिति ग्रावस्तुतिः ॥ (*yatho etatpauruṣavidhikairaṃgyaiḥ saṃstūyaṃta ityacetaneṣvapyetadbhavatyabhikradaṃti haritebhirāsabhiriti grāvastutiḥ ‖*) (Ni. 7-7)
+In the same way, unconscious things too are praised as if they had limbs belonging to a man. Herbs and the stones that crush the Soma are unconscious. Yet the sound that arises when Soma plants are crushed with stones is described thus: those stones cry out with their green mouths. Since stones are unconscious they have no mouths as living beings have; still the seer describes, figuratively, the sound made when the plant is laid on the stone and crushed as made by the stones themselves from their mouths. When Soma plants are crushed, the green colour of the plants sticks to the stones; to indicate that the mouths of the stones are green, the description that their mouths are green is made with exaggeration.
+यथो एतत्पौरुषविधिकैर्द्रव्यसंयोगैरित्येतदपि तादृशमेव । सुखं रथं युयुजे सिंधुरश्विनं इति नदीस्तुतिः ॥ (*yatho etatpauruṣavidhikairdravyasaṃyogairityetadapi tādṛśameva | sukhaṃ rathaṃ yuyuje siṃdhuraśvinaṃ iti nadīstutiḥ ‖*) (Ni. 7-7)
+On the point that unconscious things too have association with objects as men have: as in sentences such as "the river (Sindhu) yoked her horses to a pleasant chariot", the river is unconscious and has no chariot. Yet in praising the river the seer praises it by attributing to it, as to men, association with objects (the possession of property).
+
+### Printed p. 539
+यथो एतत्पौरुषविधिकैः कर्मभिरित्येतदपि तादृशमेव । होतुश्चित्पूर्वो हविरद्यमाशत इति ग्रावस्तुतिरेव ॥ (*yatho etatpauruṣavidhikaiḥ karmabhirityetadapi tādṛśameva | hotuścitpūrvo haviradyamāśata iti grāvastutireva ‖*) (Ni. 7-7)
+In the matter of actions also, agency is attributed to unconscious things such as stones, as to men, and they are praised so. When Soma plants are crushed with a stone, it is natural that the juice that comes out touches the stone. This the seer describes: the stones, the instruments of pressing the Soma, taste the Soma juice even before the sacrificers such as the Hotṛ. A stone has no mouth and no capacity to taste. Yet since the juice that comes out when the plant is crushed with the stone touches the stone, to describe that the stone tastes the Soma juice before everyone is exaggeration and figurative. That in reality stones, being unconscious, have neither mouth nor capacity to taste is a matter of everyone's experience.
+अपि वोभयविधाः स्युः । अपि ना पुरुषविधानामेव सतां कर्मात्मान एते स्युर्यथा यज्ञो यजमानस्य । एष चाख्यानसमयः ॥ (*api vobhayavidhāḥ syuḥ | api nā puruṣavidhānāmeva satāṃ karmātmāna ete syuryathā yajño yajamānasya | eṣa cākhyānasamayaḥ ‖*) (Ni. 7-7)
+Hence room exists for both kinds of view. Although things such as the earth are unconscious, they behave as if endowed with consciousness; so, though there is a difference of opinion in conceiving them in both ways, as conscious and as unconscious, both ways may be accepted as right. In the sentence यज्ञो यज्ञमानस्य (*yajño yajñamānasya*) the sacrificer is conscious. The sacrifice is unconscious; yet in speaking of the sacrifice, in sentences such as "the sacrifice provides the sacrificer with heaven, the best place", the sacrifice is treated as if conscious. Therefore there is no fault in describing unconscious things as if they were conscious. To give an example: पृथिवी स्त्रीरूपेण भारावतरणाय ब्रह्माणं ययाचे ! अग्निश्च ब्राह्मणरूपेण वासुदेवार्जुनावुभौ खांडवं ययाचे । पुरुषरूपेणाग्निरूपेण च खांडवं ददाह । (*pṛthivī strīrūpeṇa bhārāvataraṇāya brahmāṇaṃ yayāce ! agniśca brāhmaṇarūpeṇa vāsudevārjunāvubhau khāṃḍavaṃ yayāce | puruṣarūpeṇāgnirūpeṇa ca khāṃḍavaṃ dadāha |*) The Earth, taking the form of a woman, begged Brahmā to relieve her of her burden; Agni, in the form of a Brahmin, approached Kṛṣṇa and Arjuna and begged Indra's Khāṇḍava forest; Agni, as a man and in his fire form, burnt the Khāṇḍava forest. In such sentences there are many descriptions also in the Purāṇas and elsewhere that lifeless things such as Agni and the Earth, or their presiding deities, took human form and did various deeds. Hence the main purport of the explanation is that it is right to conceive these in both ways, as conscious and unconscious; this is the conclusion.
+
+### Printed p. 540
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द्धीदिं॑द्र॒ प्रस्थि॑ते॒मा ह॒वींषि॒ चनो॑ दधिष्व पच॒तोत  ॑
+> सोमं ।  
+> प्रय॑स्वंतः॒ प्रति॑ हर्यामसि त्वा स॒त्याः सं॑तु॒ यज॑मानस्य॒  ॑
+> कामाः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्धि । इत् । इंद्र । प्रस्थिता । इमा । हवींषि । चनः । दधिष्व । पचता । उत ।  
+> सोमं ।  
+> प्रयस्वंतः । प्रति । हर्यामसि । त्वा । सत्याः । संतु । यजमानस्य । कामाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्रस्थिता प्रस्थितान्युत्तरवेदिं प्रतीमेमानि ॥ उभयत्र डादेशः ॥
+> हवींष्यद्दीत् । इदवधारणे । भक्षयैव । चनः । चन इत्यन्ननाम । तद्दधिष्ट! धारय।
+> उदरे प्रक्षिप ॥ दधातेर्लोटि चृंदस्युभयथेति थास आर्धधातुकत्वादिडागमः ॥
+> पचता पचतानि सवनीयपुरोडाशादीनि च धारय ॥ पचेर्भृमृदृशीत्यादिना
+> कर्मण्यतच् प्रत्ययः ॥ उतापि च सोमं पिब । ततः प्रयस्वंतः । प्रीणयतीति
+> प्रयोऽन्नं । तेन तद्वंतः संतस्त्वा त्वां प्रति हर्यामसि । हर्यामः । कामयामहे धनादीनि ॥ हर्यतिः प्रेप्साकर्मा । इदंतो मसिः ॥ तस्माद्यजमानस्य यागं
+> कुर्वाणस्य कामा धनादिविषया अभिलाषाः सत्या यथार्थाः संतु !! पूज्यजोः
+> शानन् । पा. ३-२-१२८ । इति यजेः शानन्प्रत्ययः । शित्वादाद्युदात्तः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, *prasthitā* means these oblations that have been set out toward the Uttaravedi" (in both places the substitution of ḍa applies). Eat these oblations without fail: इत् (*it*) is for emphasis. चनः (*canaḥ*) is a name of food; take it in, that is, put it into your belly. Likewise take in the cooked foods, the cakes of the Soma pressing and the rest. And drink the Soma too. Then प्रयस्वंतः (*prayasvaṃtaḥ*): *praya* is food, since it gratifies; possessing it, we seek you; हर्यामः (*haryāmaḥ*) means we desire wealth and the like; हर्यति (*haryati*) is a root of the sense of wishing. Therefore let the desires of the sacrificer who performs the sacrifice, longings for wealth and the like, be true, that is, fulfilled. The affix śānac applies to यजेः (*yajeḥ*) by पूज्यजोः शानन् (*pūjyajoḥ śānan*) (Pā. 3-2-128).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- प्रस्थिता (*prasthitā*)—brought and placed on the Uttaravedi
+- इमा हवींषि (*imā havīṃṣi*)—these oblations
+- अद्धि इत् (*addhi it*)—eat certainly
+- चनः (*canaḥ*)—the food also
+- पचता (*pacatā*)—the cooked cakes and the like
+- दधिष्व (*dadhiṣva*)—fill into the belly
+- उत (*uta*)—and
+- सोमं (*somaṃ*)—drink the Soma juice
+
+### Printed p. 541
+- प्रयस्वंतः (*prayasvaṃtaḥ*)—we, who are ready to offer satisfying food
+- त्वा प्रति (*tvā prati*)—approaching you
+- हर्यामसि (*haryāmasi*)—we pray for wealth and the like
+- यजमानस्य (*yajamānasya*)—of the sacrificer who performs the sacrifice
+- कामः (*kāmaḥ*)—the desires
+- सत्याः संतु (*satyāḥ saṃtu*)—let them surely be fulfilled
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, eat without fail these oblations brought and made ready on the Uttaravedi. Likewise fill your belly with the food and the cooked cakes and the like. And drink the Soma juice. We, who offer satisfying food, approach you and ask for wealth and the like. May all the desires (wishes) of the sacrificer who performs the sacrifice be fulfilled.
+
+##### English translation
+Eat, Indra, these oblations placed (upon the altar); accept the food the toasted (cakes), and the Soma. Provided with sacrificial vainds we delight you; let the desires of the institutor of the rite be fulfilled.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the following explanation for the words चनः (*canaḥ*) and पचता (*pacatā*) in this Ṛk:
+चनः । पचता ॥ अद्धीदिंद्र प्रस्थितेमा हवींषि चनो दधिष्ट पचतोत सोमं॥ अद्धींद्र प्रस्थितानीमानि हवींषि चनो दधिष्ट । चन इत्यन्न नाम । पचतिर्नामीभूतः । तं मेदस्तः प्रति पचताग्रभीष्वां इत्यपि निगमो भवति॥ (*canaḥ | pacatā ‖ addhīdiṃdra prasthitemā havīṃṣi cano dadhiṣṭa pacatota somaṃ‖ addhīṃdra prasthitānīmāni havīṃṣi cano dadhiṣṭa | cana ityanna nāma | pacatirnāmībhūtaḥ | taṃ medastaḥ prati pacatāgrabhīṣvāṃ ityapi nigamo bhavati‖*) (Ni. 6-16)
+The sense of the sentence is: O Indra, take into your belly the oblations and the food prepared here. Here चनः (*canaḥ*) is a word denoting the meaning "food"; चनः (*canaḥ*) means food. On this point the Śruti sentence अद्दीदिंद्र (*addīdiṃdra*) (Ṛ. Saṃ. 10-116-8) is the example. Though the word पचति (*pacati*) is a verb, in many contexts it is used like a noun. On this the Śruti sentence तं मेदस्तः प्रति पचिताग्रभीष्टां (*taṃ medastaḥ prati pacitāgrabhīṣṭāṃ*) supports it.
+
 ---
 
-**Progress note:** Done through printed p. 535. pp. 530-535 (batch API)
+**Progress note:** Done through printed p. 541. pp. 536-541 (batch API)
