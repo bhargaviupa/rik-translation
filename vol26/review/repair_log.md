@@ -1,1 +1,2 @@
 - 2026-11-25 PDF(part 2) 1022, 1023: the agent put ** round bold speaker labels; the ** removed (the print's bold is not kept in the text). Pages 1019–1024: the agent says 1020, 1022, 1024 were read in one pass and are less certain than the [?] counts suggest.
+- 2026-11-25 PDF(part 2) 1035, 1036: the agent says both are blurry and read faster than the rest; 1036 the weakest (unmarked guesses, mantra quotes guessed): first in the second pass.
