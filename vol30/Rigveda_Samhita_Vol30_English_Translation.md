@@ -15336,6 +15336,267 @@ You whose greatness (manifested) in your exhilarations the vast heaven and earth
 
 "O Indra, having drunk (पपिवान् (*papivān*)) the Soma, you have slain for whichever sacrificer the foes, continually, with a weapon fit for battle (रण्या (*raṇyā*)), one that needs no repetition (अननुकृत्या (*ananukṛtyā*)), able to kill the foe with a single blow."
 
+### Printed p. 470
+
+> निघाते लित्स्वरः ॥ स यष्टा ते त्वदर्थं तविषीं महतीं पुरंधिं बह्वीं स्तुतिमियर्ति । प्रेरयति ॥ ऋ गतौ जौहोत्यादिकः । अर्तिपिपर्त्योरित्यभ्यासस्यॆत्वं । अभ्यासस्यासवर्ण इतीयज् ॥ हे इंद्र सुतोऽभिषुतः स सोमस्ते मदाय समर्थो
+> भवति । यद्वा । स यष्टा सुतः सोमः । सुब्व्यत्ययः । अभिषुतं सोमं त्वन्मदाय
+> प्रेरयति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the previous verse. The sacrificer who has been aided in destroying his enemies offers to Indra a mighty, abundant hymn of praise: इयर्ति (*iyarti*) means "he sends forth" (root ऋ (*ṛ*) in the sense of going, of the Hautyādika class). Addressing Indra, he adds that the pressed Soma is capable of bringing Indra exhilaration. Alternatively, the sacrificer is himself the pressed Soma (by a change in the case-ending), and sends forth the pressed Soma for Indra's exhilaration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पपिवान् (*papivān*)—you who have drunk Soma
+- अनानुकृत्या (*anānukṛtyā*)—by the weapon free of imitation (incomparable)
+- रण्या (*raṇyā*)—with the weapon
+- यस्य (*yasya*)—of which sacrificer
+- शत्रुन् (*śatrun*)—the enemies
+- शश्वत् (*śaśvat*)—many times
+- चकर्थ (*cakartha*)—you have destroyed
+- सः (*saḥ*)—that sacrificer
+- ते (*te*)—addressing you
+- तविषीं (*taviṣīṃ*)—powerful
+- पुरंधिं (*puraṃdhiṃ*)—the hymn of praise
+- इयर्ति (*iyarti*)—offers
+- इंद्र (*iṃdra*)—O Indra
+- सुतः (*sutaḥ*)—pressed
+- सः सोमः (*saḥ somaḥ*)—that very Soma, offered by the sacrificer
+- ते (*te*)—your
+- मदाय (*madāya*)—is for delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have drunk Soma, the sacrificer whose enemies you have destroyed many times with your incomparable weapon offers to you a powerful hymn of praise. O Indra, the Soma that has been pressed and offered by that same sacrificer is for your delight.
+
+##### English translation
+That Soma, drinking constantly of which, Indra, you have destroyed the enemies (of the worshipper) with an inimitable weapon,—that Soma prompts your powerful, abundant (laudation), it is effused, Indra, for your exhilaration.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं ते॒ पात्रं॒ सन॑वित्तमिंद्र॒ पिबा॒ सोम॑मे॒ना श॑तक्रतो ।  
+> पू॒र्ण आ॑हा॒वो म॑दि॒रस्य॒ मध्यो॒ यं विश्व॒ इद॑भि॒हर्यं॑ति  ॒
+> देवाः ॥ ६ ॥
+
+### Printed p. 471
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । ते । पात्रं । सनवित्तं । इंद्र । पिब । सोमं । एना । शतक्रतो इति शतक्रतो।  
+> पूर्णः । आहावः । मदिरस्य । मध्यः । यं । विश्वे । इत् । अभिहर्यंति । देवाः॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्ववर्धं पात्रं चमसादिकं सनवित्तं । अस्माभिश्शिरादेव लब्धं ॥
+> विद्ल लाभे ! कर्मणि निष्ठा ॥ हे शतक्रतो बहुकर्मन्निंद्रॆनैतेन पात्रेण सोमं
+> पिब । यतो मदिरस्य मदकरस्य मध्यो मधुनः सोमस्याहावः पानस्थानीयपात्रविशेषः पूर्णः पूरितोऽभूत् ॥ ह्वेञ् स्पर्धायां । निपानमाहावः । पा. ३-३-
+> ७४ । इति निपातितः । स्तुतिभिराहूयमाना देवा अत्र सोमं पिबंतीति । थाथादिस्वरः ॥
+> यमिद्यमाहावमेव विश्वे सर्वॆ देवा अभिहर्यंति । अभिकामयंते ॥ हर्य
+> गतिकांत्योः भौवादिकः । यद्योगात्तिजो निघाताभावे तिजि चोदात्तवतीति
+> गतेर्निघातः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, your vessel, the cup (चमस (*camasa*)) and the like, has been obtained by us long ago." O Shatakratu (of many deeds), drink Soma from this vessel, for the आहावः (*āhāvaḥ*), the special vessel serving as drinking-place of the sweet, intoxicating Soma, is full. आहावः (*āhāvaḥ*) is derived from the root ह्वेञ् (*hveñ*) (to call) and is irregularly formed by (Pā. Sū. 3-3-74 **NOTE**); the gods, invoked by hymns, drink Soma here. All the gods desire this very आहावः (*āhāvaḥ*) (root हर्य (*harya*), in the sense of going and desiring, Bhauvādika).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—for you
+- पात्रं (*pātraṃ*)—the cup-vessel
+- सनवित्तं (*sanavittaṃ*)—has been obtained long ago
+- शतक्रतो (*śatakrato*)—O Indra, performer of many deeds
+- एना (*enā*)—with this vessel
+- सोमं (*somaṃ*)—Soma
+- पिब (*piba*)—drink
+- मदिरस्य (*madirasya*)—intoxicating
+- मध्यः (*madhyaḥ*)—of the Soma
+- आहावः (*āhāvaḥ*)—the vessel
+- पूर्णः (*pūrṇaḥ*)—is full
+- यं इत् (*yaṃ it*)—that very vessel filled with Soma
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- अभिहर्यंति (*abhiharyaṃti*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the cup-vessel has been obtained for you long ago. O Indra, performer of many deeds, drink Soma from this vessel. The vessel of the intoxicating Soma is filled with Soma juice. All the gods desire that very Soma-filled vessel.
+
+##### English translation
+This your cup, Indra, has been long since provided by us, drink the Soma from it, Shatakratu; the goblet is full of the sweet Soma-juice, which all the gods desire.
+
+### Printed p. 472
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि हि त्वामिं॑द्र पुरु॒धा जना॑सो हि॒तप्र॑यसो वृषभ॒  ॑
+> ह्वयंते ।  
+> अ॒स्माकं॑ ते॒ मधु॑मत्तमानी॒मा भु॑व॒न्त्सव॑ना॒ तेषु॑ हर्य ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । हि । त्वां । इंद्रः । पुरुधा । जनासः । हितप्रयसः । वृषभ । ह्वयंते ।  
+> अस्माकं । ते । मधुमत्त्कतमानि । इमा । भुवन् । सवना । तेषु । हर्य॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृषभ कामानां वर्षक हितप्रयसः । प्रय इत्यन्न नाम प्रीणनकारित्वात् । संभृतहनिष्का जनासो जनाः पुरुधा बहुधा । हिरवधारणे । त्वामेव वि
+> ह्वयंते । विविधमाह्वयंति ॥ हैञ् स्पर्धायां । निसमुपविभ्यो ह्व इत्यात्मनेपदं ॥ अस्माकं स्वभूतानीमेमानि सवना सवनानि ते त्वदर्थं मधुमत्तमान्यतिशयेन सोमवंति भुवन् । अभवन् । तस्मात्त्वं तेषु सवनेषु हर्य । सोमान्कामयस्व ॥
+
+##### Gist of the bhāṣya
+
+O Indra, showerer of desires, people holding acceptable sacrificial food (प्रय (*praya*) is a name for food, because it gratifies) invoke you in many ways, you alone (हि (*hi*) is emphatic); the root is ह्वेञ् (*hveñ*), and the middle voice follows from the rule on ह्व (*hva*) with ni, sam, upa, vi. These sacrifices (सवना (*savanā*)) of ours have become exceedingly rich in Soma for you; therefore, take pleasure in (desire the Soma at) those sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—bestower of desires
+- इंद्र (*iṃdra*)—O Indra
+- हितप्रयसः (*hitaprayasaḥ*)—provided with beneficial oblation
+- जनासः (*janāsaḥ*)—people
+- त्वां (*tvāṃ*)—you
+- पुरुधा (*purudhā*)—in many ways
+- विह्वयंते (*vihvayaṃte*)—invoke
+- अस्माकं (*asmākaṃ*)—offered by us
+- इमं सवना (*imaṃ savanā*)—these sacrifices
+- ते (*te*)—for you
+- मधुमत्तमानि (*madhumattamāni*)—the sweet Soma
+- भुवन् (*bhuvan*)—prepare
+- तेषु (*teṣu*)—in those sacrifices
+- हर्य (*harya*)—desire the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bestower of desires, people provided with beneficial oblation invoke you in many ways. These sacrifices offered by us present sweet Soma to you. Desire the Soma in those sacrifices.
+
+### Printed p. 473
+
+##### English translation
+Indra, showerer of benefits, men in several places offering acceptable sacrificial food, invoke you ; these our sacrifices to you are most full of the sweet (Soma); take pleasure in them.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र त॑ इंद्र पू॒र्व्याणि॒ प्र नू॒नं वी॒र्या॑ वोचं प्रथ॒मा  ॒॑
+> कृतानि ।  
+> स॒ती॒नम॑न्युरश्रथायो॒ अद्रिं॑ सुवेद॒नाम॑कृणो॒ ब्रह्म॑णे॒  
+> गां ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । इंद्र । पूर्व्याणि । प्र । नूनं । वीर्या । वोचं । प्रथमा । कृतानि ।  
+> सतीनमन्युः । अश्रथयः । अद्रिं । सुवेदनां । अकृणोः । ब्रह्मणे । गां ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदीयानि प्रथमादितः कृतानि पूर्व्याणि पुरातनानि च वीर्या
+> वीर्याणि नूनमिदानीं प्र वोचं । प्रकर्षण वदामि । एकः प्रशब्दः पूरणः ॥
+> वोचं । लुजि ब्रुवो वचिः । क्लेरज् ॥ कानि तानि । सतीनमन्युः । सतीनमित्युदकनाम । उदकाभिवर्षणबुद्धियुक्तस्त्वमिंद्रं मेघमश्रथयः । वज्रेणाहिंसीः ।
+> ब्रह्मणे बृहस्पतये गां पणिभिरपहृतां सुवेदनां सुष्टु ज्ञापनीयामकृणोः ।
+> अकरोरित्यादीनि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, I now proclaim your ancient exploits, done first of all (प्र (*pra*) is merely a filler; वोचं (*vocaṃ*) is an aorist of *brū* with the substitute वचि (*vaci*)). Which ones? सतीनमन्युः (*satīnamanyuḥ*): सतीन (*satīna*) is a name for water; you, intent on sending down water, अश्रथयः (*aśrathayaḥ*) ("pierced") the cloud (अद्रि (*adri*)) with the thunderbolt. You made the cow, carried off by the Paṇis, easily recognizable (सुवेदनां (*suvedanāṃ*)) for ब्रह्मणे (*brahmaṇe*), Bṛhaspati; अकृणोः (*akṛṇoḥ*) is the same as *akaroḥ*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- प्रथमा (*prathamā*)—principal
+- पूर्व्याणि (*pūrvyāṇi*)—from most ancient times
+- कृतानि (*kṛtāni*)—done
+- वीर्या (*vīryā*)—heroic deeds
+- नूनं (*nūnaṃ*)—now
+- प्र वोचे (*pra voce*)—I praise exceedingly
+- सतीनमन्युः (*satīnamanyuḥ*)—intent on sending rain
+- अद्रिं (*adriṃ*)—the cloud
+- अश्रथयः (*aśrathayaḥ*)—you split with the thunderbolt
+- गां (*gāṃ*)—the cows carried off by the Paṇis
+- ब्रह्मणे (*brahmaṇe*)—for Bṛhaspati
+- सुवेदनां (*suvedanāṃ*)—so as to be easily known
+- अकृणोः (*akṛṇoḥ*)—you made
+
+### Printed p. 474
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I now praise exceedingly your principal and most ancient heroic deeds. Intent on sending rain, you split the cloud with your thunderbolt. You made the cows carried off by the Paṇis easy for Bṛhaspati to find.
+
+##### English translation
+I will proclaim now, Indra, your ancient first-achieved exploits; resolved to send rain, you cleft the cloud, you made the cow easily discoverable for the Brahman.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि षु सी॑द गणपते ग॒णेषु॒ त्वामा॑हु॒र्विप्र॑तमं कवी॒नां ।  
+> न ऋ॒ते त्वत्क्रि॑यते॒ किं च॒नारे म॒हाम॒र्कं म॑घवञ्चि॒त्रम॑र्च ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । सु । सीद । गणपते । गणेषु । त्वां । आहुः । विप्रतमं । कवीनां ।  
+> न । ऋते । त्वत् । क्रियते । किं । चन । आरे । महां । अर्कं । मघवन् । चित्रं ।  
+> अर्च ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गणपते त्वं गणेषु स्तोतृगणेषु सु सुष्टु नि षीद । स्तुतिश्रवणार्थं
+> निषण्णो भव । यतः कवीनां क्रांतप्रज्ञानां मध्यॆ त्वा त्वां विप्रतममतिशयेन
+> मेधाविनमित्याहुः । किंच त्वदृते ॥ अन्यारादितरर्तॆ । पा. २-३-२९ । इति पंचमी ॥
+> त्वां वर्जयित्वा किं चन कर्मारे दूरे समीपे वा न क्रियते । तस्मान्निषीद । ततो
+> हे मघवन्छनवन्निंद्र महां महांतमर्कमर्चनीयमस्मदीयं त्रिवृत्पंचदशादिलक्षणं स्तोमं चित्रं नानारूपं कृत्वार्च । पूजय । विधेहि ॥ अर्च पूजायां
+> भौवादिकः ॥
+
+##### Gist of the bhāṣya
+
+O lord of the hosts (गणपते (*gaṇapate*)), sit well among the hosts of worshippers, to hear their praise; for among the wise (कवीनां (*kavīnāṃ*), those of far-reaching understanding) they call you the most sagacious. Moreover, without you no rite is done, far or near; the fifth case is by (Pā. Sū. 2-3-29). Therefore sit down. Then, O Maghavan, wealthy Indra, make our great, venerable hymn (अर्कं (*arkaṃ*)), of the Trivṛt, Pañcadaśa and similar forms, varied in many forms, and honour it. अर्च (*arca*) is of the root meaning worship, Bhauvādika.
+
+### Printed p. 475
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गणपते (*gaṇapate*)—O Indra, lord of the Marut host
+- गणेषु (*gaṇeṣu*)—among your worshippers
+- सु नि षीद (*su ni ṣīda*)—sit in an excellent manner
+- कवीनां (*kavīnāṃ*)—among the wise and discerning
+- त्वां (*tvāṃ*)—you
+- विप्रतमं (*vipratamaṃ*)—as the most sagacious
+- आहुः (*āhuḥ*)—the knowing say
+- त्वदृते (*tvadṛte*)—without you
+- किं चन (*kiṃ cana*)—any rite whatever
+- आरे (*āre*)—whether far or near
+- न क्रियते (*na kriyate*)—is not accomplished
+- मघवन् (*maghavan*)—O wealthy Indra
+- महां (*mahāṃ*)—of great form
+- अर्कं (*arkaṃ*)—our venerable hymn
+- चित्रं (*citraṃ*)—in various forms
+- अर्च (*arca*)—honour
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of the Marut host, sit in an excellent manner among your worshippers. Among the wise and discerning, the knowing say that you are the most sagacious. Without you no rite is accomplished, far or near. O wealthy Indra, honour our great and venerable hymn in its various forms.
+
+##### English translation
+Lord of the companies (of the Maruts), sit down among the companies (of the worshippers), they call you the most sage of sages; without you nothing is done in the distance; have in honour, Maghavan, our great and various adoration.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि॒ख्यानो॑ मघव॒न्नाध॑माना॒न्सखे॑ बो॒धि व॑सुपते॒ सखी॑नां ।  
+> रणं॑ कृधि रणकृत्सत्यशु॒ष्माभ॑क्ते चि॒दा भ॑जा रा॒ये अ॒स्मान् ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिख्या । नः । मघवन् । नाधमानान् । सखे । बोधि । वसुपते । सखीनां ।  
+> रणं । कृधि । रणकृत् । सत्यशुष्म । अभक्ते । चित् । आ । भज । राये । अस्मान् ॥१०॥
+
 ---
 
-**Progress note:** Done through printed p. 469. pp. 464-469 (batch API)
+**Progress note:** Done through printed p. 475. pp. 470-475 (batch API)
