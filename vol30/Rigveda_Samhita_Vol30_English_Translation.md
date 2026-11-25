@@ -4427,6 +4427,268 @@ Indra, united with the shining weapon called lightning, goes to the sacrificial 
 ##### English translation
 Armed with the bright lightning he repairs to the (scene of) adoration; endowed with might he has seated himself on the spacious place (of sacrifice). He (is) triumphant with his companions (the Maruts); the wiles of his brother do not (prevail) at the rite.
 
+### Printed p. 122
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वाजं॒ याताप॑दुष्पदा॒ यन्त्व॑र्षाता॒ परि॑ षदत्सनि॒ष्यन् ।  
+> अ॒न॒र्वा यच्छ॒तदु॑रस्य॒ वेदो॒ घ्नइा॒श्नदे॑वा अ॒भि वर्प॑सा॒  
+> भूत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वाजं । याता । अपदुःपदा । यन् । स्वःसाता । परि । सदत् । सनिष्यन् ।  
+> अनर्वा । यत् । शतदुरस्य । वेदः । घ्नन् । शिश्नदेवान् । अभि । वर्षसा । भूत्॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजं शूरैर्गंतव्यं संग्रामं याता स इंद्रः ॥ न लोकाव्ययेति षष्ठीप्रतिषेधः ॥ अपदुष्पदापगतदुष्टपतनेन यन् गच्छन् सनिष्यंस्तत्र शत्रुधनानि
+> संभक्तुमिच्छन् परि षदत् । परिषीदति । कुत्रेति उच्यते । स्वर्षाता स्वर्षातौ सर्वलाभोपेते संग्रामे । किंचानर्वा युद्धेऽप्रत्यृत इंद्रः शतदुरस्य शत्रुपुरस्यांतर्निहितं यद्वेदो धनमस्ति तद्धनं वर्षसावरकेण बलेनाभि भूत् । अभिभवति ।
+> किं कुर्वन् । शिश्नदेवानब्रह्मचर्याइतद्वारेषु शत्रुपुरसंबंधिषु वर्तमानान्
+> घ्नन् हिंसन् ॥
+
+##### Gist of the bhāṣya
+
+वाजं (*vājaṃ*): Indra, who goes to the battle (the place to which heroes must go). The sixth case is barred by the rule "na lokāvyaya…". अपदुष्पदा (*apaduṣpadā*): going with the fall of what is bad removed, i.e. with faultless gait. सनिष्यन् (*saniṣyan*): desiring to share out the enemy's wealth there, परि षदत् (*pari ṣadat*): he sits around. Where? In स्वर्षाता (*svarṣātā*), the battle in which every gain is obtained. Further, अनर्वा (*anarvā*): Indra, unopposed in battle. The wealth that lies hidden within शतदुरस्य (*śatadurasya*), the enemy's city, he overcomes by his encompassing strength (वर्षसा (*varṣasā*)). What is he doing? Striking down the शिश्नदेवान् (*śiśnadevān*), those who live in the enemy city's gates in a state of non-celibacy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजं (*vājaṃ*)—to the battle
+- याता (*yātā*)—who goes
+- सः (*saḥ*)—Indra
+- अपदुष्पदा (*apaduṣpadā*)—with faultless gait
+- यन् (*yan*)—going
+- सनिष्यन् (*saniṣyan*)—desiring to obtain the enemy's wealth
+- स्वर्षाता (*svarṣātā*)—in battle
+- परिषदत् (*pariṣadat*)—goes and sits
+- अनर्वा (*anarvā*)—Indra, unopposed in battle
+- शिश्नदेवान् (*śiśnadevān*)—the Asuras who worship the male organ
+- घ्नन् (*ghnan*)—destroying
+- शतदुरस्य (*śatadurasya*)—in the enemy cities with hundreds of gates
+- यत् वेदः (*yat vedaḥ*)—whatever wealth is hidden, that
+- वर्पसा (*varpasā*)—by his pervading power
+- अभिभूत् (*abhibhūt*)—brings under his control
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who goes to battle, goes with faultless gait, desiring to obtain the enemy's wealth, and takes part in the battle. Invincible in battle, destroying the Asuras who worship the male organ, he takes into his control by his pervading power the wealth hidden in the enemy cities with hundreds of gates.
+
+### Printed p. 123
+
+##### English translation
+Going to the battle, marching with easy gait, desiring the spoil, he set himself to the acquisition of all (wealth). Invincible, destroying the Phallus-worshippers, he won by his prowess whatever wealth (was concealed in the city) with the hundred gates.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स य॒हूव्यो॒३॒॑ऽवनी॒र्गोर्ष्टर्वा जु॑होति प्रध॒न्या॑सु॒ सस्रिः॑ ।  
+> अ॒पादो॒ यत्र॒ युज्या॑सोर॒था द्रो॒ण्य॑श्वास॒ ईर॑ते घृ॒तं  
+> वाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । यह्व्यः । अवनीः । गोषु । अर्वा । आ । जुहोति । प्रधन्यासु । सस्रिः ।  
+> अपादः । यत्र । युज्यासः । अरथाः । द्रोणि अश्वासः । ईरते । घृतं । नारिति वाः ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रोऽर्वा मेघेष्वभिगंता सस्रिः सरणकुशलः प्रधन्यासु प्रकृष्टधननिमित्तासु गोषु भूमिषु यह्वः । महन्नामैतत् । महतीरवनीः । अवंतीत्यवनय
+> आपः । ता आ जुहोति । आक्षिपति । यत्र यासु भूमिष्वपादः पादरहिता अरथा
+> रथवर्जिताः । पादरहिताः केचन रथेन गच्छंति । केनापि शून्या द्रोण्यश्वासो
+> द्रुतव्यापना युज्यासो युज्या इंद्रस्य सख्यो नद्यो वार्वारकं धृतमुदकमीरते प्रेरयंति तत्राजुहोति ॥
+
+##### Gist of the bhāṣya
+
+That Indra is अर्वा (*arvā*), one who goes among the clouds, सस्रिः (*sasriḥ*), skilled in moving, and यह्वः (*yahvaḥ*) in the गोषु (*goṣu*), the lands which are प्रधन्यासु (*pradhanyāsu*), productive of excellent wealth. यह्व (*yahva*) is a name for "great". He आ जुहोति (*ā juhoti*), pours in, the great अवनीः (*avanīḥ*), the waters (so called because they protect). In those lands where the अपादः (*apādaḥ*) (footless), अरथा (*arathā*) (chariotless) rivers, Indra's friends, द्रोण्यश्वासः (*droṇyaśvāsaḥ*) (swift-moving) and युज्यासः (*yujyāsaḥ*), send forth the घृतं वाः (*ghṛtaṃ vāḥ*), the water, there he pours in. Some footless beings go by chariot, but these are devoid of any such.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which regions
+- अपादः (*apādaḥ*)—footless
+- आरथाः (*ārathāḥ*)—chariotless
+- द्रोण्यश्वासः (*droṇyaśvāsaḥ*)—swift in motion
+- युज्यासः (*yujyāsaḥ*)—rivers friendly to Indra
+- वाः (*vāḥ*)—flowing
+- धृतं (*dhṛtaṃ*)—water
+- ईरते (*īrate*)—send flowing, such
+- गोषु (*goṣu*)—in the regions
+- अर्वा (*arvā*)—moving among the clouds
+- सस्रिः (*sasriḥ*)—of excellent movement
+- सः (*saḥ*)—Indra
+- प्रधन्यासु (*pradhanyāsu*)—for the attainment of excellent wealth
+- यज्ञ (*yajña*)—great
+- अवनीः (*avanīḥ*)—the waters
+- आ जुहोति (*ā juhoti*)—supplies
+
+### Printed p. 124
+
+##### भावार्थ (Bhāvārtha)
+
+In those regions where the rivers, unable to walk or travel by chariot, yet swift and friendly to Indra, send forth waters, Indra, who moves among the clouds, supplies great waters for the attainment of excellent wealth.
+
+##### English translation
+The Victorious Indra, Coming amongst the clouds quickly moving, offers the abundant waters on the rich (plains) where his associates (the rivers) footless, and without conveyances, having pitchers for horses pour out water like ghi.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स रु॒द्रेभि॒रश॑स्तवार॒ ऋभ्वा॑ हि॒त्वी गय॑मा॒रेअ॑वद्य॒ आगा॑त् ।  
+> व॒म्रस्य॑ मन्ये मिथु॒ना विव्॑री॒ अन्न॑म॒भीत्या॑रोदयनृषा॒यन् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । रुद्रेभिः । अशस्तवारः । ऋभ्वा । हित्वी । गयं । आरेऽअवद्यः । आ । अगात् ।  
+> वम्रस्य । मन्ये । मिथुना । विवव्री इति विवव्री । अन्नं । अभिइत्य । अरोदयत् ।  
+> मुषायन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो रुद्रेभी रुद्रपुत्रैर्मरुद्भिः सहित आगात् । अगच्छतु । कीदृशः ।
+> अशस्तवारः स्तोतृभिरप्रार्थितधनः । स्वयमेव प्रदातेत्यर्थः । तथर्भ्या महान्
+> गयं हित्वी हित्वा स्वस्थानं परित्यज्यागात् । आगच्छतु । तत्र संबंधः । आरेअवद्यो
+> दूणेरितगर्ष्यः । किंच वम्रस्यॆतन्नामकस्यर्षेर्मम मिथुना मिथुनौ मातापितरौ
+> विषद्वी विगतज्वरौ मन्ये । अवगच्छामि । अयं वनोऽन्नं शत्रुसंबंध्यभीत्याभिप्राप्न मुतायन्नुष्टन्नरोदयत् । रोदयति ॥ छंदसि शायजपीत्यहावपि मुषेः
+> श्वः शायजादेशः ॥
+
+##### Gist of the bhāṣya
+
+May that Indra come with the Rudras, the Maruts, sons of Rudra. Of what kind? अशस्तवारः (*aśastavāraḥ*): one whose wealth is not begged for by the praisers, i.e. he gives of himself. Likewise ऋभ्वा (*ṛbhvā*): great. Having left his own abode (गयं हित्वी (*gayaṃ hitvī*)), let him come. आरेअवद्यः (*āreavadyaḥ*): one whose blame is far off. Further, I, the seer named Vamra, think (मन्ये (*manye*)) that my two parents (मिथुना (*mithunā*)) are free from fever. This Indra, having approached (अभीत्य (*abhītya*)) the enemy's food, stole it and made it cry out (अरोदयत् (*arodayat*)). **NOTE**
+
+### Printed p. 125
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अशस्तवारः (*aśastavāraḥ*)—one who gives wealth unasked
+- यभ्वा (*yabhvā*)—the great one
+- आरेअवद्यः (*āreavadyaḥ*)—who stays far from blame
+- सः (*saḥ*)—Indra
+- गयं हित्वी (*gayaṃ hitvī*)—leaving his house
+- रुद्रेभिः (*rudrebhiḥ*)—with the Maruts, sons of Rudra
+- आगात् (*āgāt*)—may he come
+- वम्रस्य (*vamrasya*)—of me, named Vamra
+- मिथुना (*mithunā*)—the parents
+- विवप्री (*vivaprī*)—as being free from fever
+- मन्ये (*manye*)—I understand
+- अन्नं (*annaṃ*)—the food belonging to the enemy
+- अभीत्य (*abhītya*)—having obtained
+- मुषायन् (*muṣāyan*)—stealing it
+- अरोदयत् (*arodayat*)—makes a loud noise
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who gives wealth to devotees unasked, the great one, free from fault, leave his house and come to us with the Maruts, the sons of Rudra. I, named Vamra, understand that my parents are free from fever. Indra, having carried off the enemy's food, makes a loud noise with delight.
+
+##### English translation
+May he, our unsolicited benefactor, the mighty one, from whom blame is far removed, come with the Rudras, having quitted his dwelling. I think of the two (parents) of Vamra, who are free from fever. Having obtained (the enemy's) food, he called aloud whilst stealing it.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इद्दासं॑ तुवी॒रवं॒ पति॒र्दन्न॑ळ॒क्षं त्रि॑शी॒र्षाणं॑ दमन्यत् ।  
+> अ॒स्य त्रि॒तो न्वोज॑सा वृधा॒नो वि॒पा व॑रा॒हमयो॑अग्रया हन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । दासं । तुविरवं । पतिः । दन् । षट्ऽअक्षं । त्रिशीर्षाणं । दमन्यत् ।  
+> अस्य । त्रितः । नु । ओजसा । वृधानः । विपा । वराहं । अयःऽग्रया । हन्निति हन् ॥६॥
+
+### Printed p. 126
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इत् स एवेंद्रः पतिः सर्वस्य स्वामी दासमुपक्षपयितारं तुवीरवं
+> बहुशब्दं संग्रामे भयंकरं शब्दं कुर्वाणं वृत्रं दन् दमयन् षळक्षमक्षिषट्कोपेतं त्रिशीर्षाणं त्रिशिरस्कं त्वष्टुः पुत्रं विश्वरूपं दमन्यत् । दमितं प्रहर्तुमैच्छत् । अवधीदित्यर्थः । यद्वा! दमयतीति दमनः ॥ नंद्यादित्वाल्लुः ॥ स
+> इवाचरति ॥ उपमानादाजारे । पा. ३-१-१० । इति क्यच्यंतलोपश्चांदसः । ततो
+> लजि बहुलं छंदसीत्यडभावः ॥ किंच त्रित एतन्नामा महर्षिरस्येंद्रसौजसा बलेन
+> वृधानो वर्धमानो विपांगुल्या ! कीदृश्या ! आयोअग्रयायोवत्कठिननखया
+> वराहं वराहारमुदकवंतं मेघं व्यहन् । विहतवान् ॥
+
+##### Gist of the bhāṣya
+
+That very Indra, lord (पतिः (*patiḥ*)) of all, subduing (दन् (*dan*)) the दासं (*dāsaṃ*), the harasser, the तुवीरवं (*tuvīravaṃ*), the loud-shouting one who makes a terrible noise in battle, namely Vṛtra, wished (दमन्यत् (*damanyat*)) to strike down the six-eyed (षळक्षं (*ṣaḷakṣaṃ*)), three-headed (त्रिशीर्षाणं (*triśīrṣāṇaṃ*)) son of Tvaṣṭṛ, Viśvarūpa; that is, he slew him. Or else, दमन (*damana*) means one who subdues. Further, the great seer named Trita, growing (वृधानः (*vṛdhānaḥ*)) by this Indra's strength, with his finger (विपा (*vipā*)), which has an iron-hard nail (आयोअग्रया (*āyoagrayā*)), struck apart the वराहं (*varāhaṃ*), the cloud full of water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पतिः (*patiḥ*)—lord of all
+- स इत् (*sa it*)—that same Indra
+- दासं (*dāsaṃ*)—the harasser
+- तुवीरवं (*tuvīravaṃ*)—the one who shouts loudly, Vṛtra
+- दन् (*dan*)—subduing
+- षळक्षं (*ṣaḷakṣaṃ*)—the six-eyed
+- त्रिशीर्षाणं (*triśīrṣāṇaṃ*)—the three-headed Viśvarūpa
+- दमन्यत् (*damanyat*)—wished to destroy
+- त्रितः (*tritaḥ*)—Indra, who strode over the three worlds
+- अस्य (*asya*)—his own
+- ओजसा (*ojasā*)—by strength
+- वृधानः (*vṛdhānaḥ*)—growing greatly
+- अयोअग्रया (*ayoagrayā*)—with nails like steel
+- विपा (*vipā*)—with the finger
+- वराहं (*varāhaṃ*)—the cloud full of water
+- हन् (*han*)—pierced
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, lord of all, subduing Vṛtra the harasser and loud shouter, wished to destroy the six-eyed, three-headed Viśvarūpa. Indra, who strides over the three worlds, growing greatly by his strength, pierced with his finger, with nails like steel, the water-laden cloud.
+
+##### English translation
+The sovereign Indra attacking him overcame the loud-shouting, six-eyed, three-headed Dasa, and Trita, invigorated by his strength, smote the water-laden (cloud) with his iron-tipped finger.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स द्रुह्व॑णे॒ मनु॑ष्य ऊर्ध्वस्था॒न आ सा॑विषदर्शस्था॒नाय॒ शरुं॑ ।  
+> स नृत॑मो॒ नहु॑षो॒ऽस्मत्सुजा॑तः॒ पुरो॑ऽभिन॒दर्ह॑न्दस्यु॒हत्ये॑॥७॥
+
+### Printed p. 127
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । द्रुह्वणे । मनुषे । ऊर्ध्वसानः । आ । साविषत् । अर्शसानाय । शरुं ।  
+> सः । नृतमः । नहुषः । अस्मत् । सुजातः । पुरः । अभिनत् । अर्हन् । दस्युहत्ये॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो द्रुह्मणे द्रुह्मणाय दृढं शत्रुभिर्ह्वातव्याय मनुषे मनुष्याय योद्ध्रे स्वभक्तायोर्ध्वसानः । ऊर्ध्व उच्चृतः शौर्यादिभिर्गुणैरधिकः
+> सन् स्मृति शत्रूणामंतं करोतीतूर्ध्वसः । स इवाचरन्॥ ऊर्ध्वसशब्दादाचारार्थे
+> क्विबंताच्छानच् ॥ अर्शसानाय शत्रूणां हिंसित्रे शरुं हिंसकमायुधमा साविषत् ।
+> अभिमुख्येन प्रसौति । यच्छति । यद्वा! द्रुह्मणे मनुषे द्रोग्धव्याय मनुष्यायार्शसानाय स्वभक्तहिंसित्रे तस्य वधार्थमूर्ध्वसानः सञ्करुमा साविषत् । वज्रं
+> प्रेरयति । स एवेंद्रो नहुषो मनुष्यान्नृतमो मनुष्याणां नेतृतमः
+> संग्रामे शूराणां गमयितृतमः । यद्वा । नृतमो नहुषो बंधकश्च । अस्मदस्मदर्थं सुजातः सुष्टु प्रादुर्भूतोऽर्हन् पूज्यः सन् दस्युहत्ये । दस्यव उपक्षपयितारः शत्रवः । तेषां हत्यं हननं यस्मिन् तादृशे संग्रामे पुरः शत्रूणां
+> शरीराण्यभिनत् । भिन्नवान् ॥
+
+##### Gist of the bhāṣya
+
+That Indra, for द्रुह्वणे (*druhvaṇe*), one firmly pulled about by enemies, मनुषे (*manuṣe*), a man, a warrior, his own devotee, being ऊर्ध्वसानः (*ūrdhvasānaḥ*) (raised up, superior through heroism and other qualities; or one who puts an end to enemies; he acts like that), sends forth शरुं (*śaruṃ*), the weapon that harms, for अर्शसानाय (*arśasānāya*), the destruction of enemies; he thrusts it forward against them. Or else: for the man to be wronged, who is अर्शसान (*arśasāna*), a harmer of his own devotee, Indra, rising up for his slaying, hurls the thunderbolt. That same Indra is नहुषः (*nahuṣaḥ*), नृतमः (*nṛtamaḥ*), the best leader of men, who most makes heroes advance in battle. Or else नृतमो नहुषो (*nṛtamo nahuṣo*) is also "binder". Born well for us (अस्मत् सुजातः (*asmat sujātaḥ*)), worthy of worship (अर्हन् (*arhan*)), in the battle where the दस्यव (*dasyava*), the destroying enemies, are slain, he split (अभिनत् (*abhinat*)) the bodies (पुरः (*puraḥ*)) of the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Indra
+- द्रुह्वणे (*druhvaṇe*)—for one firmly pulled about by enemies
+- मनुषे (*manuṣe*)—for his devotee
+- ऊर्ध्वसानः (*ūrdhvasānaḥ*)—possessing exceedingly great qualities such as heroism
+- अर्शसानाय (*arśasānāya*)—for the destruction of enemies
+- शरुं (*śaruṃ*)—the harming weapon
+- आ साविषत् (*ā sāviṣat*)—employs
+- नहुषः (*nahuṣaḥ*)—more than human beings
+- नृतमः (*nṛtamaḥ*)—the most excellent guide
+- सः (*saḥ*)—Indra
+- अस्मत् (*asmat*)—for us
+- सुजातः (*sujātaḥ*)—of excellent birth
+- अर्हन् (*arhan*)—worthy of worship
+- दस्युहत्ये (*dasyuhatye*)—in the battle that destroys demons
+- पुरः (*puraḥ*)—the bodies of the enemies
+- अभिनत् (*abhinat*)—splits
+
+##### भावार्थ (Bhāvārtha)
+
+For his devotee, who is pulled about firmly by enemies, Indra, possessed of the greatest qualities such as heroism, employs a harming weapon for the destruction of the enemies. Indra, the most excellent guide, more than human beings, of excellent birth, worthy of worship, splits for us the bodies of the enemies in the battle that destroys demons.
+
 ---
 
-**Progress note:** Done through printed p. 121. pp. 116-121 (batch API)
+**Progress note:** Done through printed p. 127. pp. 122-127 (batch API)
