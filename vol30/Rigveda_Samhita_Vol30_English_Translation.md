@@ -29071,6 +29071,245 @@ Wandering in the track of the Apsarasas and the Ghanharvas, and the wild beasts,
 
 Keśī, the sun endowed with rays, is with Rudra, a son of Rudra, the host of the Maruts. Or else, from the text रुद्रो वा एष यदग्निः (*rudro vā eṣa yadagniḥ*) (Tai. Saṃ. 5-4-3-1), Rudra is the lightning fire; being together with him, विषस्य (*viṣasya*) (viṣa is a name for water; the genitive stands for the accusative, by the rule that a verb is to be supplied and that the object has the sense of recipient) — when he drinks the water with the पात्रेण (*pātreṇa*), the vessel, the means of drinking, that is the net of rays, then the wind churns (उपामंथत् (*upāmaṃthat*)) for this Keśī: it churns up all the sap that is in the earth. Or else, when he has drunk, the wind churns that water, condensed in the solar orb, and stirs it with the churning lightning fire. Likewise कुनंनमा (*kunaṃnamā*): the one who bends greatly even what is crooked, and who herself cannot be made to bend, the independent speech of the middle region, grinds (पिनष्टि स्म (*pinaṣṭi sma*)).
 
+### Printed p. 880
+
+> यथाधस्तात्स्रवति तथा चूर्णीकरोति । स्मेति प्रसिद्धौ ॥ कुपूर्वान्नमयतेः
+> पचाद्यचि यजोऽचि चेति यजो लुक् । थाथादिनोत्तरपदांतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the explanation of the previous Ṛk. The wind pulverises the water so that it flows downward. स्म (*sma*) is two well-known particles. He then gives the derivation of the word kunaṃnamā (from कुपूर्वान्नमयतेः (*kupūrvānnamayateḥ*)), which is grammatical.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- केशी (*keśī*)—the Sun, endowed with rays
+- रुद्रेण (*rudreṇa*)—with the Maruts, the sons of Rudra, or with the lightning-fire of the atmosphere
+- सह (*saha*)—together with
+- विषस्य (*viṣasya*)—the water
+- पात्रेण (*pātreṇa*)—by means of his rays, which serve as the instrument of drinking, that is, of sucking up
+- यत् (*yat*)—when
+- अपिबत् (*apibat*)—he drinks, that is, draws up; then
+- अस्मै (*asmai*)—for the help of this Sun
+- वायुः (*vāyuḥ*)—the wind
+- उप अमंथत् (*upa amaṃthat*)—churns the water of the oceans and other reservoirs on the earth (stirring it into turmoil) and dries it up; or, when the water drawn up by the Sun is in the form of clouds, the wind scatters it, or the lightning-fire stirs it up
+- कुनंनमा (*kunaṃnamā*)—the divine Vāk of the middle region, who bends the base, yet herself is subject to no one's control
+- पिनष्टि स्म (*pinaṣṭi sma*)—grinds the cloud-water to powder, that is, makes the rain-water fall on the earth drop by drop
+
+##### भावार्थ (Bhāvārtha)
+
+When the radiant Sun, together with the Maruts, the divine sons of Rudra (the wind), draws up the water of the oceans and other reservoirs, the wind, for the Sun's help, churns the water into turmoil, or scatters the water that is in the form of clouds so that it spreads all around. That Vāk-goddess of the atmosphere (the lightning?), who holds everyone under her control while herself remaining under nobody's, makes the rain-water in the clouds fall on the earth in tiny drops.
+
+##### English translation
+Vayu churned for him, the inflexible (thunder) ground it when the radiant (Sun), along with Rudra, drink the water with his cup.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer explains how the Sun, with the help of wind and fire, becomes the cause of rain. First, the Sun's fierce rays fall on the oceans and other reservoirs and draw up their water as vapour. The vapour so drawn up is transformed into clouds by the help of the wind in the atmosphere and remains there. And that same wind scatters the clouds so that they do not stay in one place but move about; that is, as the wind blows, the clouds move onward. In such a mass of clouds the lightning-fire (lightning) appears and helps in the work of rain. The Vāk of the middle region, which is the very form of this lightning-fire, is not subject to anyone's control, that is, to anyone's authority; but she alone has the power to hold everyone under her authority. With the help of this Vāk-goddess the water in the clouds falls on the earth drop by drop: this is the main purport.
+
+### Printed p. 881
+## Sūkta 137 (Maṇḍala 10)
+This sūkta prays to the deities to cure those afflicted by disease and the like. It is therefore said that this sūkta has the power of curing disease. The sage Śaunaka says of this sūkta in his work called Ṛgvidhāna:
+
+उत देवा इति जपेदामयावी यतव्रतः (*uta devā iti japedāmayāvī yatavrataḥ*) (46)
+घृतकुंभं निधायाथ जुहुयाज्ञातवेदसि (*ghṛtakuṃbhaṃ nidhāyātha juhuyājñātavedasi*) ।
+कुंभात्संपातमन्यस्मिन् कांस्ये पात्रे निधापयेत् (*kuṃbhātsaṃpātamanyasmin kāṃsye pātre nidhāpayet*) (47)
+यन्न पानं न चान्यं स्यात्स इदं संप्रकल्पयेत् (*yanna pānaṃ na cānyaṃ syātsa idaṃ saṃprakalpayet*) ।
+तेनाज्येनांगमभ्यज्य शनकैरन्नभाग्भवेत् (*tenājyenāṃgamabhyajya śanakairannabhāgbhavet*) (48)
+रोगार्तस्याप्यनेनैव गात्रमंक्त्वा जपेदिदं (*rogārtasyāpyanenaiva gātramaṃktvā japedidaṃ*) ।
+अजीर्णान्नोऽप्यंजयीत सुखं भवति तेन ह (*ajīrṇānno 'pyaṃjayīta sukhaṃ bhavati tena ha*) (49)
+(Ṛgvidhāna, Adhyāya 4, verses 46–49)
+
+A man suffering from disease and the like should recite this sūkta with self-discipline. Filling a vessel with pure ghee and consecrating it, he should make an offering with the mantras of this sūkta in the established fire. While offering, the ghee that spills out of the vessel should be collected and put in another copper vessel. If the body of a man who, owing to the severity of his illness, cannot take food and drink is rubbed with this ghee, food and the like will gradually become palatable to him. Also, for the cure of the disease, the body of the sick man should be anointed with this ghee and the mantras of this sūkta recited. One should do so even in indigestion. By this the disease is cured and happiness results.
+
+### Printed p. 882
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत देवा इति सप्तर्चं नवमं सूक्तमानुष्टुभं वैश्वदेवं भरद्वाजकश्यपगोतमात्रिविश्वामित्रजमदग्निवसिष्ठा इति क्रमेण प्रत्यृचमृषयः । तथा चानुक्रांतं।
+> उत देवाः सप्तर्षय एकर्चा वैश्वदेवमिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+This ninth sūkta of the eleventh anuvāka, beginning उत देवा (*uta devā*), has seven Ṛks, in Anuṣṭubh metre, addressed to the Viśvedevas. The seers, one per Ṛk in order, are Bharadvāja, Kaśyapa, Gotama, Atri, Viśvāmitra, Jamadagni and Vasiṣṭha. The Anukramaṇī says: उत देवाः सप्तर्षय एकर्चा वैश्वदेवमिति (*uta devāḥ saptarṣaya ekarcā vaiśvadevamiti*). The viniyoga has been stated already.
+
+##### Anuvāda
+
+This sūkta beginning उत देवाः (*uta devāḥ*) is the ninth sūkta in the eleventh anuvāka. It has seven Ṛks. In this sūkta each of the seven sages Bharadvāja, Kaśyapa, Gotama, Viśvāmitra, Jamadagni and Vasiṣṭha (with Atri) is the seer of one Ṛk; the Viśvedevas are the deity. The metre is Anuṣṭubh. In the Anukramaṇī it is said: उत देवाः सप्तर्षय एकर्चा वैश्वदेवं (*uta devāḥ saptarṣaya ekarcā vaiśvadevaṃ*). The viniyoga has been stated before.
+
+Maṇḍala 10; Anuvāka 11; Sūkta 137; Aṣṭaka 8; Adhyāya 7; Varga 25.
+Number of Ṛks in the sūkta: 7.
+Seers: seven sages, one Ṛk each: 1. Bharadvāja; 2. Kaśyapa; 3. Gotama; 4. Atri; 5. Viśvāmitra; 6. Jamadagni; 7. Vasiṣṭha.
+Deity: Viśvedevas.
+Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त दे॑वा॒ अव॑हितं॒ देवा॒ उन्न॑यथा॒ पुनः॑ ।  
+> उ॒ताग॑श्च॒क्रुषं॑ देवा॒ देवा॑ जी॒वय॑था॒ पुनः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । देवाः । अव्यहितं । देवाः । उत् । नयथ । पुनरिति ।  
+> उत । आगः । चक्रुषं । देवाः । देवाः । जीवयथ । पुनरिति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे देवाः अवहितमुन्नयथ । उतापि च हे देवाः आगोऽपराधं
+> चक्रुषं कृतवंतं मां तस्मादागसो रक्षत । हे देवाः रक्षित्वा च पुनः पश्चाज्जीवयथ । चिरजीविनं कुरुत ॥
+
+##### Gist of the bhāṣya
+
+"And, O gods, you raise up the one who has fallen low; and, O gods, protect me who have committed an offence, from that offence; and having protected me, afterwards make me live long."
+
+### Printed p. 883
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- देवाः (*devāḥ*)—O gods
+- अवहितं (*avahitaṃ*)—the man who lies unable to rise, afflicted by disease and the like
+- पुनः (*punaḥ*)—again, that is, as before
+- उन्नयथ (*unnayatha*)—(giving strength) make him rise
+- उत (*uta*)—and
+- देवाः (*devāḥ*)—O gods
+- आगः (*āgaḥ*)—sin or offence
+- चक्रुषं (*cakruṣaṃ*)—me, who am committing it: protect
+- देवाः (*devāḥ*)—O gods
+- पुनः (*punaḥ*)—afterwards
+- जीवयथ (*jīvayatha*)—favour me so that I live long
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, raise up again, that is, as before, by giving strength, the man who lies unable to rise, afflicted by disease and the like. O gods, forgive and protect me from the sin or offence that I am committing or have committed. Afterwards, O gods, grant that I may live long.
+
+##### English translation
+O gods, raise again the man, O gods, who has sunk ; O gods, give life again to the man, O gods, who has committed sin.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वावि॒मौ वात्॑ वात॒ आ सिंधो॒रा प॑रा॒वतः॑ ।  
+> दक्षं॑ ते अ॒न्य आ वा॑तु॒ परा॒न्वो वा॑तु॒ यद्रपः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वौ । इमौ । वात् । वाशः । अ । सिंधोः । आ । परावतः ।  
+> दक्षं । ते । अन्यः । आ । वातु । परा । अन्यः । वातु । यत् । रपः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमौ दृश्यमानौ द्वौ वात् पुरोवातः पश्चाद्वातश्चा सिंधोरा समुद्रात् ।
+> मर्यादायामाकारः । यद्वा । परावतः समुद्रादपि यो दूरदेशस्तं देशमवधीकृत्य वातः । गच्छतः ॥ वा गतिगंधनयोः आदादिकः ॥ तयोर्वातयोरन्न एको
+> हे स्तोतः ते तव दक्षं बलमा वातु । आगमयतु । अन्यश्च त्वदीयं यद्रपः पापं
+> तत्परा वातु । परागमयतु ॥
+> அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்
+
+##### Gist of the bhāṣya
+
+These two winds that are seen, the east wind and the west wind, blow from the sea (आ (*ā*) marks the limit); or, taking the limit as परावतः (*parāvataḥ*), they blow up to a place even farther than the sea. वा (*vā*) is the root meaning "to go" and "to smell", of the Adādi class. Of those two winds, let one, O worshipper, bring you strength (दक्षं (*dakṣaṃ*)); let the other drive away that sin (रपः (*rapaḥ*)) of yours.
+
+**Pratipadārtha** and **Bhāvārtha** follow on the next page.
+
+### Printed p. 884
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमौ (*imau*)—these, seen here
+- द्वौ वात् (*dvau vāt*)—the two kinds of wind blowing eastward and westward
+- सिंधोः (*siṃdhoḥ*)—up to the shore of the sea
+- आ परावतः (*ā parāvataḥ*)—up to a region farther than the sea
+- वातः (*vātaḥ*)—blow
+- अन्यः (*anyaḥ*)—one of those winds
+- ते (*te*)—to you
+- दक्षं (*dakṣaṃ*)—strength
+- आ वातु (*ā vātu*)—let it bring
+- अन्यः (*anyaḥ*)—the other
+- यत् रपः (*yat rapaḥ*)—whatever sin of yours there is
+- परा वातु (*parā vātu*)—let it drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+These two winds, blowing eastward and westward, blow as far as the sea or even to regions farther than that. Of them, let one wind bring you strength; let the other drive your sin far away.
+
+##### English translation
+These two winds blow to the regions which are far beyond the ocean; may the one bring you vigour, may the other blow away all evil.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वा॑त वाहि भेष॒जं वि वा॑त वाहि॒ यद्रपः॑ ।  
+> त्वं हि वि॒श्वभे॑षजो दे॒वानां॑ दू॒त ईय॑से ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वात । वाहि । भेषजं । ए । वात । वाहि । यत् । रपः ।  
+> त्वं । हि । विश्वभेषजः । देवानां । दूतः । ईयसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वात भेषजं सुखं व्याध्युपशमनमौषधं ना वाहि । आगमय । हे वात
+> यद्रपोऽस्मदीयं पापं तद्वि वाहि ! विगमय ! अस्मत्तो विश्लेषय । त्वं हि खलु
+> देवानां दूतो विश्वभेषजः । विश्वानि भेषजानि यस्मिन् ॥ बहुव्रीहौ विश्वं
+> संज्ञायामिति पूर्वपदांतोदात्तत्वं ॥ ईदृशश्च सन्नीयसे । सततं गच्छसि ॥ ईज्
+
+##### Gist of the bhāṣya
+
+"O Wind, bring a remedy (भेषजं (*bheṣajaṃ*)), an easeful medicine that allays disease. O Wind, carry away (वि वाहि (*vi vāhi*)) our sin (रपः (*rapaḥ*)); remove it from us. For you are the messenger of the gods and विश्वभेषजः (*viśvabheṣajaḥ*), he in whom are all remedies; being such, you constantly go about (ईयसे (*īyase*))." The remainder of the block gives the accent rules for the compound and the verb.
+
+### Printed p. 885
+
+> गत् दैवादिकः । श्यनो नित्यात् इत्यादिर्नित्यमित्याद्युदात्तत्वं । हि चेति निघातप्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+The root ईज् (*īj*) "to go", of the Daivādika class, with its accent rule, and the prohibition of nighāta after हि (*hi*): grammatical matter only.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वात (*vāta*)—O Wind
+- भेषजं (*bheṣajaṃ*)—the medicine that allays disease and gives comfort
+- आ वाहि (*ā vāhi*)—bring it near to us
+- वात (*vāta*)—O Wind
+- यत् रपः (*yat rapaḥ*)—whatever sin of ours there is
+- वि वाहि (*vi vāhi*)—drive it back
+- त्वं हि (*tvaṃ hi*)—you
+- देवानां (*devānāṃ*)—for the gods
+- दूतः (*dūtaḥ*)—as messenger
+- विश्वभेषजः (*viśvabheṣajaḥ*)—as the provider of all comforts or medicines
+- ईयसे (*īyase*)—you move about
+
+##### भावार्थ (Bhāvārtha)
+
+O Wind, bring to us the medicine that can allay disease. O Wind, drive our sin back so that it does not come to us. You move about as messenger of the gods and as provider of all comforts or medicines.
+
+##### English translation
+Breathe, wind, medicinal balm; blow away, wind, all evil; for you are the universal medicine, you move as the messenger of the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑गमं॒ शंता॑तिभि॒रथो॑ अरि॒ष्टता॑तिभिः ।  
+> दक्षं॑ ते भ॒द्रमाभा॑ष्यं॒ परा॒ यक्ष्यं॑ सुवामि ते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । आगमं । शंतातिभिः । अथो इति । अरिष्टतातिभिः ।  
+> दक्षं । ते । भद्रं । आ । अभार्षं । परा । यक्ष्यं । सुवामि । ते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः त्वा त्वां शंतातिभिः सुखकरैरथो अपि चारिष्टतातिभिरहिंसाकरैश्च
+> रक्षणैरागमं । आगतवानस्मि ॥ शिवशमरिष्टस्य करे । पा. ४-४-१४३ । इत्युभयत्र तातिल्पत्ययः । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं ॥ अपि च भद्रं कल्याणं ते तव दक्षं
+
+##### Gist of the bhāṣya
+
+"O worshipper, I have come to you with protections that bring happiness (शंतातिभिः (*śaṃtātibhiḥ*)) and also with protections that bring no harm (अरिष्टतातिभिः (*ariṣṭatātibhiḥ*)). The affix tāti is added in both words by Pā. 4-4-143. The accent falls on the syllable before the affix. Moreover, auspicious (भद्रं (*bhadraṃ*)) … your strength (दक्षं (*dakṣaṃ*))…"
+
 ---
 
-**Progress note:** Done through printed p. 879. pp. 874-879 (batch API)
+**Progress note:** Done through printed p. 885. pp. 880-885 (batch API)
