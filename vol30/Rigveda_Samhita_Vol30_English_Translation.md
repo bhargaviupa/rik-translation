@@ -5787,6 +5787,242 @@ O priests who are friends, compose gladdening praises. Extend the prescribed rit
 ##### English translation
 Construct exhilarating (hymns), spread forth praises, construct the ship which is propelled by oars, prepare your weapons, make ready, lead forth, O friends, the herald, the adorable (Agni).
 
+### Printed p. 153
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒नक्त॒ सीरा॒ वि यु॒गा त॑नुध्वं कृ॒ते योन्॑ वपते॒ह बीजं॑ ।  
+> गि॒रा च॑ श्रु॒ष्टिः सभ॑रा॒ अस॑न्नो॒ नेदी॑य॒ इत्सृ॒ण्यः॑ प॒क्वमेया॑त् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युनक्त । सीरा । वि । युगा । तनुध्वं । कृते । योन् । वपत । इह । बीजं ।  
+> गिरा । च । श्रुष्टिः । सभराः । असत् । नः । नेदीयः । इत् । सृण्यः । पक्वं । आ । इयात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः यूयं सीरा सीराणि युनक्त । युंग्वमनडुद्भिः सह ॥
+> युजेर्लोटि तप्तनप्तनथनाश्चति तबादेशः । आत एवाजित्वाच्छसोरल्लोप
+> इत्यल्लोपाभावः ॥ तदर्थं युगा युगानि वि तनुध्वं । विस्तारयध्वं । कृते च
+> योनाविह सीतायां बीजं ग्राम्यमारण्यं च वपत निधत्त । तिलमाषव्रीह्यादिकं
+> ग्राम्यसप्तकं वेणुश्यामाकनीवारादिकमारण्यबीजसप्तकं च कृष्णाकृष्टयोर्निवपतेत्यर्थः । सप्त ग्राम्याः कृष्टे सप्तारण्या अकृष्ट इत्यापस्तंबः । तथा नोऽस्माकं
+> गिरा स्तुत्या प्रशस्ता सहास्माकं श्रुष्टिरन्नं सभराः सभरमसत् । भवति । भवतु । तथा
+> नेदीय इदंतिकमेव सृण्यः । सृणिरंकुशः । अंकुशवद्वक्रो लवित्रः । पक्वं
+> स्तंबमेयात् । अभिमुख्येन गच्छतु ॥ श्रुष्टिः सभरा असत् सृण्यः पक्वमेयादिति
+> चशब्दानुवृत्तेश्ववायोगे प्रथमेति प्रथमस्य निघाताभावः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the friends (the priests): yoke the ploughs सीरा (*sīrā*) together with the bulls, and for this purpose stretch out the yokes. In the prepared womb (the furrow) here, sow the seed, both village and forest kinds. He explains this as sesame, māṣa beans, rice and the like (the seven village grains), and bamboo-rice, śyāmāka millet, wild rice and the like (the seven forest seeds); one is to sow them on ploughed and unploughed ground. He cites Āpastamba: सप्त ग्राम्याः कृष्टे सप्तारण्या अकृष्ट (*sapta grāmyāḥ kṛṣṭe saptāraṇyā akṛṣṭa*). Then: through our praise, may our food (श्रुष्टिः (*śruṣṭiḥ*) = food) be abundant. May the sickle सृण्यः (*sṛṇyaḥ*) (सृणिः (*sṛṇiḥ*) is a goad; the sickle is curved like a goad) come very near, and may the ripe stalk come directly towards it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Addressed to the priests, friends)
+- सीरा (*sīrā*)—the ploughs for tilling
+- युनक्त (*yunakta*)—join them with the bulls
+- युगा (*yugā*)—the yokes
+- वि तनुध्वं (*vi tanudhvaṃ*)—spread out
+- कृते च योन्सौ (*kṛte ca yonsau*)—as soon as the field is made ready
+- इह (*iha*)—in this ploughed place
+- बीजं (*bījaṃ*)—the seed
+- वपत (*vapata*)—sow
+- गिरा (*girā*)—by praise
+- श्रुष्टिः (*śruṣṭiḥ*)—our food
+- सभराः (*sabharāḥ*)—abundantly
+- असत् (*asat*)—may it grow
+- नः सृण्यः (*naḥ sṛṇyaḥ*)—our sickles
+- नेदीय इत् (*nedīya it*)—quite near
+- पक्वं (*pakvaṃ*)—the ripe ear
+- आ इयात् (*ā iyāt*)—may it approach
+
+### Printed p. 154
+
+##### भावार्थ (Bhāvārtha)
+
+O friends, priests, yoke the bulls to the ploughs. Spread out the yokes. As soon as the field is ready, sow the seed in the ploughed place. By praise may our food (grain) grow abundantly. May the ripe ear come to our sickle.
+
+##### English translation
+Harness the ploughs, fit on the yokes, now that the womb of earth is ready, sow the seed therein, and through our praise may there be abundant food; may (the gain) fall ripe towards the sikle.
+
+##### विशेषविषयगळु (Special Topics)
+
+सृण्यः (*sṛṇyaḥ*)—In explaining the word सृणिः (*sṛṇiḥ*) Yāska gave an etymology for it: सृणिरंकुशो भवति सरणात् । अंकुशोऽञ्चितेराकुचितो भवतीति वा । नेदीय इत्सृण्यः पक्वमेयात् इत्यपि निगमो भवति । अंतिकतममंकुशादायात्पक्वमौषधमागच्छत्वित्यागच्छत्त्विति ॥ (*sṛṇiraṃkuśo bhavati saraṇāt | aṃkuśo 'ñciterākucito bhavatīti vā | nedīya itsṛṇyaḥ pakvameyāt ityapi nigamo bhavati | aṃtikatamamaṃkuśādāyātpakvamauṣadhamāgacchatvityāgacchattviti ‖*) (Ni. 5-28). सृणि (*sṛṇi*) means a goad or hook. The word is formed from the root सृ (*sṛ*), meaning "go, enter" (सरणात् (*saraṇāt*)), because the goad goes, that is, enters, into the elephant's head. The word अंकुश (*aṃkuśa*) is formed from the root अंचति (*aṃcati*), "go, enter"; or, because it is slightly bent (आकुचितो भवतीति (*ākucito bhavatīti*)), it is named अंकुश (*aṃkuśa*). The word सृणि (*sṛṇi*) is used in the Vedic sentence नेदीय इत्सृण्यः पक्वमेयात् (*nedīya itsṛṇyaḥ pakvameyāt*). The well-ripened ear of grain comes near this goad, that is, the sickle (सृणि (*sṛṇi*)); the meaning is that the ear of grain is cut with the sickle.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सीरा॑ युंजंति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क् ।  
+> धीरा॑ दे॒वेषु॑ सुम्म॒या ॥ ४ ॥
+
+### Printed p. 155
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सीरा । युंजंति । कवयः । युगा । वि । तन्वते । पृथक् ।  
+> धीराः । देवेषु । सुम्मया ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कवयो मेधाविन ऋत्विजः सीरा सीराणि कर्षणसाधनानि युंजंति । योजयंति । युगा युगान्यपि पृथक् परस्परं वि तन्वते । भिन्नप्रदेशानि कुर्वंति ।
+> कीदृशाः कवयः । देवेषु विषये धीरा धीमंतः । किमर्थं । सुम्नया । सुम्नमिति
+> सुखनाम । सुखेच्छया ॥ सुम्मशब्दात्क्यजंताद्भावे आ प्रत्ययादित्यकारप्रत्ययः ।
+> सुपां सुलुगिति तृतीयाया आकारः ॥ अथवा । धीरा धीमंतो देवेषु सुम्न या
+> सुम्नेन । देवेषु सुखं भूयादिति ॥ सुपां सुलुगिति विभक्तेर्याजादेशः ॥
+
+##### Gist of the bhāṣya
+
+The wise priests (कवयः (*kavayaḥ*)) yoke the ploughs, the implements of tilling, and spread the yokes apart, setting them in separate places. What kind of seers? Wise (धीराः (*dhīrāḥ*)) in regard to the gods. For what purpose? सुम्नया (*sumnayā*): सुम्न (*sumna*) is a name for happiness; so, from desire for happiness. Alternatively: the wise, by means of सुम्न (*sumna*) (happiness), among the gods, that is, "may there be happiness among the gods."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुम्मया (*summayā*)—for the sake of happiness
+- देवेषु (*deveṣu*)—in the gods
+- धीराः (*dhīrāḥ*)—endowed with wisdom, devoted
+- कवयः (*kavayaḥ*)—the priests
+- सीरा (*sīrā*)—the ploughs
+- युंजंति (*yuṃjaṃti*)—join
+- युगा (*yugā*)—the yokes
+- पृथक् (*pṛthak*)—separating them
+- वि तन्वते (*vi tanvate*)—spread out
+
+##### भावार्थ (Bhāvārtha)
+
+Desiring happiness, the priests, wise and devoted to the gods, join the ploughs. They separate the yokes and spread them out.
+
+##### English translation
+The wise (priests) harness the ploughs, they lay the yokes apart,
+firmly devoted through the desire of happiness.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निरा॑हा॒वान्कृ॑णोतन॒ सं व॑र॒त्रा द॑धातन ।  
+> सिं॒चाम॑हा अव॒तमु॒द्रिणं॑ व॒यं सु॒षेक॒मनु॑पक्षितं ॥ ५ ॥
+
+### Printed p. 156
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निः । आहावान् । कृषोतन । सं । वरत्राः । दधातन ।  
+> सिंचामहै । अवतं । उद्रिणं । वयं । सुसेकं । अनुपक्षितं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः आहावान्! आहूयंते पानार्थं गावोऽत्रेत्याहावा निपाणानि ।
+> अत्रौचित्यादग्नि चयनप्रदेशकर्षणार्थगोपानसाधनद्रुममयपानपात्राण्युच्यंते
+> तानाहावान् निष्कृणोतन । निष्टुरुत ॥ आहूयतेर्निपानमाहावः । पा. ३-३-७४ ।
+> इति निपातितः । थाथादिस्वरः । कृणोतन । तप्तनबित्यादिना तनप् । तेनाजित्त्वाद्गुणः ।
+> श्नाभ्यस्तयोरात इत्याकारलोपः ॥ किमर्थमाहावकरणं वरत्रस्थापनं चेति ।
+> अत्रोच्यते । वयमवतमवटं सिंचामहै । कीदृशमवटं । उद्रिणमुद्द्राववंतं
+> सुषेकं सुष्टु सेक्तुं शक्यं अनुपक्षितमनुपक्षीणं कदाचिदुदकोपक्षयरहितं ॥
+
+##### Gist of the bhāṣya
+
+"O friends, make आहावान् (*āhāvān*)": आहाव (*āhāva*) means drinking troughs, places where cattle are called to drink. Here, as is fitting, he says these are drinking vessels made of wood, for the cattle that plough the fire-piling site. Make them (निष्कृणोतन (*niṣkṛṇotana*) = निष्टुरुत (*niṣṭuruta*)). He cites Pā. 3-3-74 for आहाव (*āhāva*) as an irregular formation from आहूयते (*āhūyate*) meaning "drinking place". To what end the making of the troughs and the fixing of the straps? He answers: we shall pour out the well (अवतं (*avataṃ*) = *avaṭaṃ*), which is उद्रिणं (*udriṇaṃ*) (full of springing water), सुषेकं (*suṣekaṃ*) (easily drawn from), and अनुपक्षितं (*anupakṣitaṃ*) (not diminished, never without water).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests)
+- आहावान् (*āhāvān*)—troughs that show water to the bulls
+- निष्कृणोतन (*niṣkṛṇotana*)—construct
+- वरत्राः (*varatrāḥ*)—the neck-straps of the bulls
+- सं दधातन (*saṃ dadhātana*)—join and tie
+- वयं (*vayaṃ*)—we
+- उद्रिणं (*udriṇaṃ*)—provided with a spring of water
+- सुषेकं (*suṣekaṃ*)—having water that can be easily drawn
+- अनुपक्षितं (*anupakṣitaṃ*)—not dried up however much water is taken
+- अवतं (*avataṃ*)—the water of the well
+- सिंचामहै (*siṃcāmahai*)—let us draw and pour out
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, construct troughs that show water to the bulls. Join and tie neck-straps to the bulls. Let us draw and pour out the water of the well, which has a spring of water, has water that can be easily drawn, and is not dried up however much water is drawn.
+
+##### English translation
+Set up the cattle-troughs, bind the straps to it; let us pour out (the water of) the well, which is full of water, fit to be poured out, and not easily exhausted.
+
+### Printed p. 157
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इष्कृ॑ताहावमव॒तं सु॑वर॒त्रं सु॑षेच॒नं ।  
+> उ॒द्रिणं॑ सिंचे॒ अक्षि॑तं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इष्टतआहावं । अवतं । सुवरत्रं । सुसेचनं ।  
+> उद्रिणं । सिंचे । अक्षितं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इष्कृताहावं संस्कृताहावमवतमवटं द्रोणं सिंचे । सेचयामि । पुनः
+> कीदृशमवटं । सुवरत्रं शोभनवरत्रोपेतं सुषेचनं शोभनोदकसेकोपेतं
+> उद्रिणमुद्द्राववंतं अक्षितमक्षीणं ॥
+
+##### Gist of the bhāṣya
+
+"I pour out the well (अवतं (*avataṃ*) = *avaṭaṃ*), the trough (द्रोणं (*droṇaṃ*)), whose drinking-place is prepared (इष्कृताहावं (*iṣkṛtāhāvaṃ*) = *saṃskṛtāhāvaṃ*)." Again, of what kind? सुवरत्रं (*suvaratraṃ*): provided with good straps; सुषेचनं (*suṣecanaṃ*): provided with good pouring-out of water; उद्रिणं (*udriṇaṃ*): full of springing water; अक्षितं (*akṣitaṃ*): inexhaustible.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इष्कृताहावं (*iṣkṛtāhāvaṃ*)—prepared for the bulls to drink
+- सुवरत्रं (*suvaratraṃ*)—furnished with an excellent bank
+- सुषेचनं (*suṣecanaṃ*)—that is to be drawn easily
+- उद्रिणं (*udriṇaṃ*)—having water like a spring
+- अक्षितं (*akṣitaṃ*)—holding much water
+- अवतं (*avataṃ*)—the trough that is like a well
+- सिंचे (*siṃce*)—I fill with water
+
+##### भावार्थ (Bhāvārtha)
+
+I fill with water the trough, like a well, which is prepared for the bulls to drink, furnished with an excellent bank, to be drawn easily, having water like a spring, and holding much water.
+
+##### English translation
+I pour out (the water of) the well, whose cattle troughs are prepared,
+well fitted with straps, fit to be poured out, full of water, inexhaustible.
+
+### Printed p. 158
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्री॒णी॒ताश्वा॑न्हि॒तं ज॑याथ स्वस्ति॒वाहं॒ रथ॒मित्कृ॑णुध्वं ।  
+> द्रोणा॑हामव॒तमश्म॑चक्र॒मंस॑त्रकोशं सिंचता नृ॒पाणं॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रीणीत । अश्वान् । हितं । जयाथ । स्वस्तिवाहं । रथं । इत् । कृणुध्वं ।  
+> द्रोणआहावं । अवतं । अश्मचक्रं । अंगत्रकोशं । सिंचत । नृपानं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः यूयमश्वान्व्यापनशीलान्बलिवर्दान्रीणीत । उचितघासोदकादिप्रदानेन प्रीणयत । यथा क्षेत्रकर्षणाय प्रभवंति तथा कुरुतेत्यर्थः । तथा
+> कृत्वा हितं चयनायोजितं कर्षणं जयाथ । जयथ । संपादयथ । तथा रथं
+> चयनाख्यं हलाख्यं वा स्वस्तिवाहमित् सुखस्य वाहकमेव कृणुध्वं । कुरुध्वं ।
+> तदर्थं द्रोणाहावं । आहूयंत्यत्र पानार्थं बलिवर्दानित्याहावो जलाधारः
+> पात्रविशेषः । स च द्रोणमयो द्रुममय आहावो यस्य तादृशमवतमवटवन्निम्नभूतमश्मचक्रं व्याप्तक्रमणमश्ममयचक्रं वांसत्रकोशं अंसत्रं कवचं
+> यथा कायं रक्षति तद्वदुदकस्य कोशं कोशस्थानीयं नृपाणं नृणां कर्मनेतृणां पानयोग्यवादृशमवतं सिंचत हे ऋत्विजः । एवमृत्विक्सुतिर्वेति पक्षे ।
+> सूक्तस्य वैश्वदेवपक्ष एवं योजना ! प्रीणीत प्रीणयताश्वान् । स्नानपानयोग्यान्नैः संग्रामयोग्यान्कुरुतेत्यर्थः । हितं जयाथ । हितमिति क्रियाविशेषणं ।
+> कथं जयथ । बंधुसुहृद्यो यथा हितं भवति तथा जयथ संग्रामं । स्वस्तिवाहं!
+> स्वस्तित्यविनाशनाम । अविनाशवाहनं रथमिद्रथं च कृणुध्वं । इदिति चार्थे । अश्वरथं
+> च दृढं कृत्वा संग्रामभूमिं गत्वा द्रोणाहावमित्यादीनि द्वितीयांतानि कूपाख्यसंग्रामविशेषणानि सिंचतेत्यनेन संबध्यते ! द्रोणो द्रुममयः स एव रथ
+> आहाव आहावस्थानीयो यस्य संग्रामस्य तं । अवतं । कूपनामैतत् । कूपं,
+> संग्रामाख्यं । अश्मचक्रं कूपप्रांतिनिबद्धात्मसदृशप्रहरणायुधवंतं ! असनानि वा
+> क्षेपणानि ना चक्राख्यायुधविशेषा यस्मिन् तं । व्याप्तचरणवंतं व्याप्तक्रमणवंतं
+> वा । चक्रं चकतेवा चरतेर्वा क्रामतेर्वेति निरुक्तं । ४-२७ । अंसत्रकोशं
+
+##### Gist of the bhāṣya
+
+First explanation (the priests' cultivation): "O priests, satisfy the horses, that is, the pervading bulls, by giving suitable fodder, water and the like, so that they are capable of ploughing the field. Having done so, win हितं (*hitaṃ*), the ploughing arranged for the fire-piling. Make the chariot, whether the one called चयन (*cayana*) or the plough, स्वस्तिवाहं (*svastivāhaṃ*), a bearer of well-being." For this purpose: आहाव (*āhāva*) is a water-holding vessel from which bulls are called to drink; its द्रोण (*droṇa*) is of wood. अवतं (*avataṃ*) is the well-like hollow; अश्मचक्रं (*aśmacakraṃ*) is one with a stone wheel, extensively moving. अंसत्रकोशं (*aṃsatrakośaṃ*): as armour protects the body, so a store of water, नृपाणं (*nṛpāṇaṃ*), fit for drinking by the men who lead the rite. "Pour out such a well, O priests." This applies if the hymn is a praise of the priests.
+Second explanation (if the hymn is Vaiśvadeva, concerning battle): प्रीणीत (*prīṇīta*): satisfy the horses, making them fit for bathing, drinking and battle. हितं जयाथ (*hitaṃ jayātha*): हितं (*hitaṃ*) is adverbial; win the battle in such a way as is beneficial to kinsmen and friends. स्वस्तिवाहं (*svastivāhaṃ*): स्वस्ति (*svasti*) is a name for non-destruction; make the chariot a carrier of what is not destroyed; इत् (*it*) has the sense of "and". Having made horses and chariot firm and gone to the battlefield, pour out the accusatives द्रोणाहावं (*droṇāhāvaṃ*) etc., epithets of the battle called a well (कूप (*kūpa*)). अवतं (*avataṃ*) is a name for a well. द्रोण (*droṇa*) is wooden, that is, the chariot itself stands in the place of the आहाव (*āhāva*) of that battle. अश्मचक्रं (*aśmacakraṃ*) is explained as having missile weapons resembling oneself fastened at the edge of the well, or as one in which the weapons called चक्र (*cakra*) are hurled, or as having extended movement. He cites the Nirukta (4-27): चक्रं चकतेवा चरतेर्वा क्रामतेर्वेति (*cakraṃ cakatevā caratervā krāmaterveti*).
+
 ---
 
-**Progress note:** Done through printed p. 152. pp. 146-152 (batch API)
+**Progress note:** Done through printed p. 158. pp. 153-158 (batch API)
