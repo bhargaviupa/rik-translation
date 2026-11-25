@@ -1388,6 +1388,282 @@ Hari, the green-coloured Soma, being purified, enters the two boards of the pres
 - चन्नोः (*cannoḥ*)—in the two vessels, the Camū
 - परि विशत् (*pari viśat*)—enters
 
+### Printed p. 31
+#### Ṛk 4 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the leader of the praises, the support and dwelling-place of all the gods, unharmed, green in colour, having attained purification, enters the Camū vessels.
+
+##### English translation
+Soma, the leader of praises, in whom all the gods are comprehended
+unassailable, green-tinted when filtered, enters the cups.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ दैवी॒रनु॑ स्व॒धा इंद्रे॑ण याहि स॒रथं॑ ।  
+> प्र॒ना॒नो वा॒घद्वा॒घद्धि॒भरम॑र्त्यः । ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । वैवीः । अनु । स्वधाः । इंद्रेण । याहि । स्यरथं ।  
+> प्रनानः । नाघात् । नाघत्भिः । अमर्त्यः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वमिंद्रेण सरथं समानं रथमारुह्य दैवीर्देवानां संबंधीनि
+> स्वधा बलान्यनु देवसेनाः परि याहि । परिगच्छ । कीदृशः । पुनानः पूयमानो
+> वाघद्भिः । वाघत इत्यृत्विज्ञाम । हविषां प्रेरकैर्ऋत्विग्भिर्वाघदूह्यमानोऽमर्त्यो मनुष्यधर्मरहितः । यद्वा । वाघद्भिर्य्तिग्भिः पुनानः पूयमानो
+> वाघत् स्तोत्काणां यष्ट्णाणां धनादीनि प्रापयन् परिगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, mounting the same chariot as Indra, go about to the divine powers (स्वधा (*svadhā*), strengths) that belong to the gods, that is, to the divine hosts. Soma is being purified by the वाघद्भिः (*vāghadbhiḥ*) (वाघत (*vāghata*) means the priests), who are the bearers of the oblations; he is immortal, free of human nature. Or else: being purified by the priests, go about bringing wealth and the like to the praisers and sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—one who has attained purification
+- वाघद्भिः (*vāghadbhiḥ*)—by the priests
+- वाघत् (*vāghat*)—one who is praised
+- अमर्त्यः (*amartyaḥ*)—free from the nature of death; you who are so
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- सरथं (*sarathaṃ*)—mounting the one common chariot
+- दैवीः (*daivīḥ*)—for the gods
+- स्वधाः अनु (*svadhāḥ anu*)—towards the host that is of the nature of strength
+- परि याहि (*pari yāhi*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who have attained purification, are praised by the priests and are free from mortality: mount the same chariot as Indra, go towards the host of gods endowed with strength, and join them.
+
+### Printed p. 32
+
+##### English translation
+Proceed in the same chariot with Indra to the celestial hosts, a priest purified by priests, immortal.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ सप्ति॒र्न वा॑ज॒युर्दे॒वो दे॒वेभ्यः॑ सु॒तः ।  
+> व्या॒न॒शिः पव॑मानो॒ विधा॑वति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । सप्तिः । न । वाजयुः । देवः । देवेभ्यः । सुतः !  
+> विआसतिः । पवमानः । वि । धावति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्तिर्नाश्व इव वाजयुर्युद्धमिच्छन्तेवो दीप्तमानो देवभ्योः
+> देवार्थं सुतोऽभिषुतो व्यानशिः पात्रेषु व्यापी पवमानः पवित्रेण पूयमानः
+> एतादृशः सोमः परि धावति । परितः पात्राण्याभिगच्छति ॥ व्यानशिः । अशू व्याप्तौ ,
+> आद्गमहनेत्यत्रोत्सर्गश्चंदसि सदादिभ्यो दर्शनादिति कित्प्रत्ययः । अश्नोतेश्वैति
+> नुडागमः ॥
+
+##### Gist of the bhāṣya
+
+Like a horse, desiring battle, shining, pressed out for the gods, pervading the vessels, being purified by the filter—such is Soma who runs about; he goes round to the vessels on every side.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सप्तिः न (*saptiḥ na*)—like a horse
+- वाजयुः (*vājayuḥ*)—one who desires battle
+- देवः (*devaḥ*)—the shining one
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- सुतः (*sutaḥ*)—the one pressed out
+- व्यानशिः (*vyānaśiḥ*)—one who pervades the vessels
+- पवमानः (*pavamānaḥ*)—Soma who has attained purification
+- परि धावति (*pari dhāvati*)—flows, encompassing everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who like a horse desires battle, is shining, is pressed out for the gods, pervades the vessels and has attained purification, flows encompassing everything on all sides.
+
+##### English translation
+Like a charger eager for the combat the divine (Soma) effused for
+the gods hastens when purified spreading widely into the vessels-
+
+##### Grammar
+
+- व्यानशिः — अशू व्याप्तौ । आद्गमहनेत्यत्रोत्सर्गश्चंदसि सदादिभ्यो दर्शनादिति कित्प्रत्ययः । अश्नोतेश्वैति नुडागमः ॥
+
+### Printed p. 33
+## Sūkta 104 (Maṇḍala 9)
+**Sāyaṇa-bhāṣya (introduction)**
+Not in a numbered block here; the Sanskrit introduction runs as follows in Gist form.
+
+##### Gist of the bhāṣya
+
+In the seventh anuvāka there are eleven sūktas; of them the first is the six-verse सखाय (*sakhāya*) sūkta. Its seers are Parvata and Nārada of the Kāṇva line, or else two Apsarases, daughters of Kaśyapa, named Śikhaṇḍinī. Metre and deity are as before. The Anukramaṇī says: सखायः पर्वतनारदौ काश्यप्यै द्वे शिखंडिन्यौ वाप्सरसाविति (*sakhāyaḥ parvatanāradau kāśyapyai dve śikhaṃḍinyau vāpsarasāviti*). The use (viniyoga) of the sūkta has been stated.
+
+##### Anuvāda
+
+In the seventh anuvāka of the ninth maṇḍala there are eleven sūktas. Of them, this sūkta beginning सखायः (*sakhāyaḥ*) is the first, with six Ṛks. Its seers are the two sages Parvata and Nārada, born in the Kaṇva line; or else the seers are two Apsaras women, daughters of the sage Kaśyapa, named Śikhaṇḍinī. As in the preceding sūkta, the deity and metre are the same. In the Anukramaṇī it is said: सखायः पर्वतनारदौ काश्यपौ द्वे शिखंडिन्या वाप्सरसौ (*sakhāyaḥ parvatanāradau kāśyapau dve śikhaṃḍinyā vāpsarasau*). The use of the sūkta was stated earlier.
+
+Sūkta 104. Maṇḍala 9; Anuvāka 7; Sūkta 104. Aṣṭaka 2; Adhyāya 5; Varga 7. Number of Ṛks in the sūkta: 6.
+Seer: Parvata and Nārada, or the two Śikhaṇḍinīs, Kāśyapī Apsarases.
+Deity: Pavamāna Soma.
+Metre: Uṣṇih.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखा॑य॒ आ निषी॑दत पुना॒नाय॒ प्र गा॑यत ।  
+> शिशुं॒ न य॒ज्ञैः परि॑ भूषत श्रि॒ये ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखायः । आ । नि । सीदत । प्रसानाय । प्र । गायत ।  
+> शिशुं । स । यज्ञैः । परि । भूषत । त्रिये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 34
+
+> हे सखायः सखिभूताः स्तोतार ऋत्विजः आ नि षीदत । स्तोतुमुपविशत ।
+> अथ पुनानाय पूयमानाय सोमाय प्र गायत । प्रकर्षेण गायत । तमभिष्टुत । ततोऽभिषुतं सोमं यज्ञैर्यजनीयैर्हविर्भिमिश्रणैश्च श्रिये शोभनार्थं परि भूषत । परितोऽलंकुरुत । तत्र दृष्टांतः । शिशुं न यथा शिशुं बालं
+> पुत्रं पितर आभरणैरलंकुर्वंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O friends, praisers, priests, sit down to praise. Then sing forth to Soma who is being purified, sing with excellence, praise him. Then adorn the pressed Soma all round, for beauty, with the sacrificial offerings and mixtures of oblations. The illustration: as parents adorn a child, a son, with ornaments, so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O priests, who are friends
+- आ नि षीदत (*ā ni ṣīdata*)—sit down
+- पुनानाय (*punānāya*)—praise Soma, the purifier
+- प्र गायत (*pra gāyata*)—sing well
+- शिशुं न (*śiśuṃ na*)—as mothers adorn their sons
+- यज्ञैः (*yajñaiḥ*)—with oblations, the means of worship
+- श्रिये (*śriye*)—for the increase of prosperity
+- परि भूषत (*pari bhūṣata*)—adorn Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, friends, sit down. Recite the song that praises Soma the purifier. As mothers adorn their sons, adorn Soma with oblations, the means of worship, for the increase of prosperity.
+
+##### English translation
+Sit down, friends, sing to the filtered Soma, decorate him with offerings to beautify him as (parents decorate) a child.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समी॑ व॒त्सं न मा॒तृभिः॑ सृ॒जता॑ गय॒साध॑नं ।  
+> दे॒वा॒व्यं१॒॑मद॑म॒भि द्विश॑वसं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । ईमिति । वत्सं । न । मातृभिः । सृजत । गयसाधनं ।  
+> देव अव्यं । मदं । अभि । द्विशवसं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्ज्येऽभिष्टवे समि वत्समित्येका । सूत्रितं च । समि वत्सं न मातृभिः
+> सं वत्स इव मातृभिः । आ. ४.७ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Pravargya, in the Abhiṣṭava, the one Ṛk समि वत्सं (*sami vatsaṃ*) is used. It is stated in the sūtra: समि वत्सं न मातृभिः सं वत्स इव मातृभिः (*sami vatsaṃ na mātṛbhiḥ saṃ vatsa iva mātṛbhiḥ*) (Ā. 4.7).
+
+### Printed p. 35
+
+> हे ऋत्विजः गयसाधनं गृहस्य साधनमीमेनं सोमं मातृभिर्मातृभूताभिर्वसतीवरीभिः सं सृजत । संमिश्रयत । कथमिव । वत्सं न यथा वत्सं
+> मातृभिर्गोभिः संयोजयंति तद्वत् । कीदृशं । देवाव्यं देवानां रक्षकं मदं
+> मदनहेतुं द्विशवसं द्विगुणवेगमतिशयितबलं वा । यद्वा । द्वयोर्लोकयोस्तत
+> स्थिता देवमनुष्या इत्यर्थः । तेषां हविर्धनप्रदानेन वर्धयितारं तं सोममभ्रि
+> सं सृजत ॥
+
+##### Gist of the bhāṣya
+
+O priests, unite this Soma, the support of the house, with the maternal waters (वसतीवरी (*vasatīvarī*)), as they join a calf with its mother cows. He is protector of the gods, cause of exhilaration, of twofold speed or surpassing strength. Or else: the two worlds, and the gods and men stationed there; he increases them by granting oblations and wealth. Mix that Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) वत्सं (*vatsaṃ*)—a calf
+- मातृभिः न (*mātṛbhiḥ na*)—as one joins it with its mother cow
+- देवाव्यं (*devāvyaṃ*)—protector of the gods
+- मदं (*madaṃ*)—cause of delight
+- द्विशवसं (*dviśavasaṃ*)—possessing two kinds of strength
+- गयसाधनं (*gayasādhanaṃ*)—the accomplisher for the house
+- ईं (*īṃ*)—this Soma
+- मातृभिः (*mātṛbhiḥ*)—with the waters such as the Vasatīvarī
+- अभि सं सृजत (*abhi saṃ sṛjata*)—mix
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, as one joins a young calf with its mother, mix this Soma—protector of the gods, cause of delight, possessing two kinds of strength, accomplisher for the house—with the Vasatīvarī and other waters.
+
+##### English translation
+Associate him the support of the mansion with the maternal (waters) as the calf (with the mother)—the protector of the gods, the exhilarator, endowed with twofold strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+The use of this Ṛk समि वत्सं (*sami vatsaṃ*) in the Abhiṣṭava of the Pravargya rite is explained by the sūtra of the Āśvalāyana Śrauta-sūtra: समि वत्सं न मातृभिः सं वत्स इव मातृभिः (*sami vatsaṃ na mātṛbhiḥ saṃ vatsa iva mātṛbhiḥ*) (Ā. 4-7).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒नाता॑ दक्ष॒साध॑नं॒ यथा॒ शर्धा॑य वी॒तये॑ ।  
+> यथा॑ मि॒त्राय॒ नरु॑णाय॒ शंत॑मः ॥ ३ ॥
+
+### Printed p. 36
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनात । दक्षसाधनं । यथा । शर्धाय । वीतये ।  
+> यथा । मित्राय । वरुणाय । शंतमः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दक्षसाधनं बलस्य साधनं धनादिवृद्धेर्नासाधकं सोमं पुनात । पवित्रेण
+> पुनीत ॥ पूञ् पवने क्र्यादिः । तस्माल्लोटि तप्तनप्तनथनाश्चति तस्य तबादेशः ।
+> पित्त्वादीत्वाभावः ॥ असौ सोमः शर्धाय वेगार्थं वीतये देवानां पानार्थं
+> यथा भवति यथा ना मित्राय वरुणाय च शंतमोऽतिशयेन सुखं करोति तफा
+> पुनीतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Purify Soma, the accomplisher of strength and of the increase of wealth and the like, with the filter. This Soma, so that he may be for vigour and for the gods' drinking, and so that he may bring the greatest happiness to Mitra and to Varuṇa—purify him thus.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (सोमः (*somaḥ*)—Soma) यथा (*yathā*)—in what manner
+- शर्धाय (*śardhāya*)—for strength
+- वीतये (*vītaye*)—for the drinking of the gods he becomes fit
+- यथा (*yathā*)—in what manner
+- मित्राय (*mitrāya*)—to Mitra
+- वरुणाय (*varuṇāya*)—to Varuṇa
+- शंतमः (*śaṃtamaḥ*)—he becomes the giver of happiness; in that manner
+- दक्षसाधनं (*dakṣasādhanaṃ*)—Soma, the accomplisher of strength
+- पुनात (*punāta*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+In the manner in which this Soma becomes fit for strength and for the drinking of the gods, and becomes the giver of happiness to Mitra and Varuṇa, in that manner purify this Soma, the accomplisher of strength.
+
+##### English translation
+Purify the bestower of strength so that he may make for invigoration
+for the banquet (of the gods) and may grant much happiness to Mitra and
+to Varuna.
+
+##### Grammar
+
+- पुनात — पूञ् पवने क्र्यादिः । तस्माल्लोटि तप्तनप्तनथनाश्चेति तस्य तबादेशः । पित्त्वादीत्वाभावः ॥ **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मभ्यं॑ त्वा वसु॒विद॑म॒भि वाणी॑रनूषत ।  
+> गोभि॑ष्टे॒ वर्ण॑म॒भि वा॑सयामसि ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 30. pp. 25-30 (batch API)
+**Progress note:** Done through printed p. 36. pp. 31-36 (batch API)
