@@ -23834,6 +23834,272 @@ Maṇḍala 10; Anuvāka 10; Sūkta 127; Aṣṭaka 8; Adhyāya 7; Varga 14. Num
 
 आयती (*āyatī*) is "coming", from ā + the root i with śatṛ; the sūtras on the lopa of śap, the yaṇ substitution and the nadī accent are given. अक्षभिः (*akṣabhiḥ*) means by the stars, shining like eyes in place (of the eyes); the word akṣi takes the substitute aja. Or else अक्षभिः (*akṣabhiḥ*) means by colouring lights. पुरुत्रा (*purutrā*) means in many places; देवी (*devī*) is "of shining nature"; the affix trā is added to puru in the locative sense. This Night-deity व्यख्यत् (*vyakhyat*), looks about, sees in particular. Moreover she अध्यधित (*adhyadhita*), puts on, all (विश्वाः (*viśvāḥ*)) splendours (श्रियः (*śriyaḥ*)); the verb is from dhā in the luṅ aorist.
 
+### Printed p. 718
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयती (*āyatī*)—the approaching
+- रात्रि देवी (*rātri devī*)—the goddess Night
+- पुरुत्रा (*purutrā*)—in many regions
+- अक्षभिः (*akṣabhiḥ*)—with her eyes, the shining stars
+- व्यख्यत् (*vyakhyat*)—she looks about in particular
+- विश्वा (*viśvā*)—all
+- श्रियः (*śriyaḥ*)—excesses of beauty
+- अधि अधित (*adhi adhita*)—she wears
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Night, who has just now come, looks about in many regions with her eyes, the shining stars. She shines with all her splendour and other adornments.
+
+##### English translation
+The divine Night approaching looked upon many places with her eyes,
+she has assumed all beauties.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओर्व॑प्रा॒ अम॑त्या नि॒वतो॑ दे॒व्यु१॒॑ १ द्वतः॑ ।  
+> ज्योति॑षा बाधते॒ तमः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । उरु । अप्राः । अमत्यार् । निवतः । देवी । उत्वतः ।  
+> ज्योतिषा । बाधते । तमः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमर्त्या मरणरहिता देवी देवनशीला रात्रिरुरु विस्तीर्णमंतरिक्षमाप्राः ।
+> प्रथमतस्तमसापूरयति ॥ प्रा पूरणे आदादिकः । लजं व्यत्ययेन मध्यमः ॥ तथा
+> निवतो नीचीनाल्लतागुल्मादीनुद्वत उत्थितान्वृक्षादींश्च स्वकीयेन तेजसावृणोति ।
+> तदनंतरं तत्तमोऽंधकारं ज्योतिषा ग्रहनक्षत्रादिरूपेण तेजसा बाधते। पीडयति॥
+
+##### Gist of the bhāṣya
+
+The immortal goddess Night, whose nature is to shine, fills the vast firmament (उरु (*uru*) is "wide", *āprāḥ* is from the root प्रा (*prā*), "to fill"): first she fills it with darkness. Likewise she covers with her own brilliance the low creepers, shrubs and the like (निवतः (*nivataḥ*)) and the risen trees and the like (द्वतः (*dvataḥ*)). After that she afflicts (बाधते (*bādhate*)) that darkness with light, that is, with the brilliance in the form of planets, stars and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्त्या (*amartyā*)—the deathless
+- देवी (*devī*)—the goddess Night
+- उरु (*uru*)—the vast firmament
+- आ अप्राः (*ā aprāḥ*)—has filled (and)
+- निवतः (*nivataḥ*)—the creepers and the like that grow and spread below (on the earth)
+
+### Printed p. 719
+- उद्वत (*udvata*)—she covers also the trees grown tall with her brilliance (the darkness); (then)
+- तमः (*tamaḥ*)—the darkness
+- ज्योतिषा (*jyotiṣā*)—with the light in the form of planets, stars and the like
+- बाधते (*bādhate*)—she afflicts
+
+##### भावार्थ (Bhāvārtha)
+
+The deathless goddess Night has filled the whole vast firmament with darkness. She covers with darkness the small plants, herbs and creepers that grow on the ground and the trees that grow tall. Then she afflicts the darkness with the brilliance in the form of planets and stars.
+
+##### English translation
+The immortal goddess has filled the expanded (firmament), the low places and the high places, she fights the darkness with lustre.
+
+##### विशेषविषयगळु (Special Topics)
+
+When night comes after sunset the whole sky is filled with darkness. Small plants and large trees alike remain in the darkness. Then the stars and the like, which appear as if to dispel that darkness, become visible and lend beauty to the night. This is the main sense.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निरु॒ स्वसा॑रमस्कृतो॒षसं॑ दे॒व्या॑य॒ती ।  
+> अपेदु॑ हासते॒ तमः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निः । ऊं इति । स्वसारं । अकृत । उषसं । देवी । आयती ।  
+> अप । इत् । ऊं इति । हासते । तमः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयत्यागच्छंती देवी देवनशीला रात्रिः स्वसारं भगिनीमुषसं निरकृत ।
+> निष्करोति । प्रकाशेन संस्करोति । निवर्तयतीत्यर्थः । तस्यामुषसि जातायां नैशं
+> तमोऽपेद्धासते । अपैव गच्छति ॥ ओहाज् गत् । लेट्यडागमः । सिब्बहुलमिति सिप् ॥
+
+##### Gist of the bhāṣya
+
+The goddess Night, coming (आयती (*āyatī*)), "makes out" (निरकृत (*nirakṛta*)) her sister Dawn: that is, she sets her in order with light, she turns herself back. When Dawn has been born, the darkness of night goes away (*apeddhāsate* means it just departs).
+
+### Printed p. 720
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयती (*āyatī*)—coming, pervading everywhere
+- देवी (*devī*)—the goddess Night
+- स्वसारं (*svasāraṃ*)—her own sister
+- उषसं (*uṣasaṃ*)—to Dawn (the dawn time)
+- निः अकृत (*niḥ akṛta*)—she makes room (then)
+- तमः (*tamaḥ*)—the darkness
+- अप इत् हासते (*apa it hāsate*)—goes away
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess Night, who comes pervading everywhere, after some time, that is at the end of the night, goes away herself and makes room (a path) for the coming of her sister Dawn (for the arrival of the dawn time); and after the dawn time the darkness goes away.
+
+##### English translation
+The advancing goddess prepared (the way for) her sister Dawn, and then the darkness departs.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा नो॑ अ॒द्य यस्या॑ व॒यं नि ते॒ याम॒न्न वि॑क्ष्महि ।  
+> वृ॒क्षे न व॑स॒तिं वयः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । नः । अद्य । यस्याः । वयं । नि । ते । यामन् । अविष्महि ।  
+> वृक्षे । न । वसतिं । वया ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्काले नोऽस्माकं सा रात्रिदेवता प्रसीदतु यस्या रात्रेर्यामन्यामनि प्राप्तौ सत्यां वयं न्यविक्ष्महि निविशामहे सुखेन गृह आस्महे ॥ निशेर्लजति
+> नेर्विशः । पा. १-३-१७ । इत्यात्मनेपदं । छांदसः शपॊं लुक् ॥ तत्र दृष्टांतः ।
+> वयः दक्षिणो वृक्षे न यथा वृक्षे नीडाश्रये वसतिं रात् निवासं कुर्वंति तथा
+> निवसाम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+May that deity Night be gracious to us today, at this time, upon whose arrival (यामन् (*yāman*)) we settle down (न्यविक्ष्महि (*nyavikṣmahi*)), that is, we rest in our houses in comfort. The example is: as birds (वयः (*vayaḥ*), "winged ones") make their night's dwelling in a tree, in their nest as their shelter, so do we dwell.
+
+### Printed p. 721
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्याः (*yasyāḥ*)—of which night
+- यामन् (*yāman*)—at the time of coming
+- वयः (*vayaḥ*)—birds
+- वृक्षे (*vṛkṣe*)—in a tree
+- वसतिं न (*vasatiṃ na*)—as they dwell
+- वयं (*vayaṃ*)—we
+- नि अविष्महि (*ni aviṣmahi*)—dwell in comfort in the house; such
+- अद्य (*adya*)—at this night time
+- सा (*sā*)—that deity Night
+- नः (*naḥ*)—to us; may she be gracious
+
+##### भावार्थ (Bhāvārtha)
+
+As birds dwell at night in their nests in the trees, we shall dwell in comfort in our houses. May such a goddess Night be gracious to us now.
+
+##### English translation
+May she be favourable to us to-day upon whose approach we re-enter (our dwellings), as birds (re-enter) their nest upon the tree.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि ग्रामा॑सो अविक्षत॒ नि प॒द्वंतो॒ नि प॒क्षिणः॑ ।  
+> नि श्वे॒नास॑च्चिद॒र्थिनः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । ग्रामासः । अविक्षतॆ । नि । पत्ववंतः । नि । दक्षिणः ।  
+> नि । श्वेनासः । चित् । अर्थिनः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ग्रामासो ग्रामाः । अत्र गामशब्दो जनसमूहे वर्तते यथा ग्राम आगत
+> इति । सर्वे जना न्यविक्षत । तस्यां रात्रावागतायां निविशंते । शेरते ॥ निपूर्वाद्विशतेश्चांदसे लुजि पूर्ववदात्मनेपदं । शल इगुपधादनिटः क्सः । पा. ३-१४-५ ।
+> क्सस्याचि । पा. ७-३-२२ । इत्याकारलोपः ॥ तथा पद्वंतः पादयुक्ता गवाश्वादयश्च
+> निविशंते । तथा दक्षिणः पक्षोपेताश्च निविशंते । अर्थिनः । अर्तॆरर्थो गमनं ।
+> शीघ्रगमनयुक्ताः श्येनासश्चिच्छेना अपि तस्यां रात्र्यां निविशंते । एषा रात्रिः
+> सर्वाणि भूतजातान्यहनि संचारेण श्रांतानि स्वयमागत्य सुखयतीत्यर्थः ॥
+> 46
+
+##### Gist of the bhāṣya
+
+ग्रामासः (*grāmāsaḥ*) means villages; here the word "village" denotes a company of people, as in "the village has come". All people settle down (न्यविक्षत (*nyavikṣata*)) when that night has arrived, that is, they lie down. So also the footed creatures (पद्वंतः (*padvaṃtaḥ*)), cattle, horses and the like, settle; so also the winged ones (पक्षिणः (*pakṣiṇaḥ*)). As to अर्थिनः (*arthinaḥ*): the root *arti* has the sense of going, so even the hawks (श्येनासः (*śyenāsaḥ*)), endowed with swift flight, settle in that night. The sense is: this Night, coming of her own accord, gives comfort to all beings wearied by their movements during the day.
+
+### Printed p. 722
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रामासः (*grāmāsaḥ*)—all the people who live in a village, as soon as night falls
+- नि अविक्षत (*ni avikṣata*)—come to their own houses and stay; likewise
+- पक्षिणः नि (*pakṣiṇaḥ ni*)—the birds also betake themselves to their nests
+- पद्वंतः नि (*padvaṃtaḥ ni*)—footed beasts such as cattle also betake themselves to their stalls
+- अर्थिनः (*arthinaḥ*)—swiftly moving
+- श्येनासः च (*śyenāsaḥ ca*)—the hawks also
+- नि (*ni*)—betake themselves to their nests
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as night falls all people come to their houses. Birds go to their nests. Cattle, horses and other beasts go to their stalls. The swiftly moving hawks also betake themselves to their nests.
+
+##### English translation
+Men have re-entered (their dwelling), and beasts and birds and the
+swift hawks.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या॒वया॑ वृ॒क्यं१॒॑वृकं॑ य॒वय॑ स्ते॒नमू॑र्म्ये ।  
+> अथा॑ नः सु॒तरा॑ भव ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यवय । वृक्यं । वृकं । यवय । स्तेनं । ऊम्ये९ ॥  
+> अथ । नः । सुतरा । भव ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऊर्म्म्ये । रात्रिनामैतत् । रात्रे वृक्यं वृकस्य स्त्रियं वृकं चास्मान्हिंसंतं यवय । अस्मत्तः पृथक्कुरु । अस्मान्बाधितुं यथा न प्राप्नोति तथा । स्तेनं
+> - रं च यवय । अस्मैत्तो वियो जरु । अथानंतरं नोऽस्माकं सुतरा सुखीन
+> शरणीया क्षेमकरी भव ॥
+
+##### Gist of the bhāṣya
+
+"O Ūrmyā", which is a name of Night: O Night, keep away from us (यवय (*yavaya*), "make separate from us") the she-wolf (वृक्यं (*vṛkyaṃ*), the female of the wolf) and the wolf (वृकं (*vṛkaṃ*)) that would harm us, so that it may not reach to hurt us. Keep away also the thief (स्तेनं (*stenaṃ*)). Then (अथ (*atha*)) be for us सुतरा (*sutarā*), easy to cross, a giver of safety. **NOTE**
+
+### Printed p. 723
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्मॆ (*ūrmè*)—O Night
+- वृक्यं (*vṛkyaṃ*)—the she-wolf
+- वृकं (*vṛkaṃ*)—the wolf
+- यवय (*yavaya*)—make them not come near us; likewise
+- स्तेनं (*stenaṃ*)—make the thief not come
+- अथ (*atha*)—then (the night time)
+- नः (*naḥ*)—for us
+- सुतरा (*sutarā*)—so as to pass comfortably
+- भव (*bhava*)—be (let it be)
+
+##### भावार्थ (Bhāvārtha)
+
+O Night, while we sleep at night, let neither the she-wolf nor the wolf (nor other beasts of prey) nor thieves come near us. May we pass the night in comfort without any trouble.
+
+##### English translation
+Keep off, O Urmya, the she-wolf, keep off the wolf and the robber,
+and be safely passed by us.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ मा॒ पेपि॑श॒त्तमः॑ कृ॒ष्णं व्य॑क्तमस्थित ।  
+> उष॑ ऋ॒णेव॑ यातय ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । मा । पेपिशत् । तमः । कृष्णं । विअक्तं । अस्थित ॥  
+> उषः । ऋणाइव । यातॆय ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पेपिशद्भृशं पिंशत् सर्ववस्तुष्वाश्लिष्टं तमोऽंधकारं कृष्णं कृष्णवर्णं
+> व्यक्तं विशेषेण स्वभासा सर्वस्यांजकं स्पष्टरूपं वा ईदृशं नैशं तमो मामुपास्थित । उपागच्छत् ॥ संगतकरण आत्मनेपदं ॥ हे उष उषोदेवते त्वमृणेवर्णानीव तत्तमो यातय । अपगमय । स्तोत्थाणामृणानि यथा धनप्रदानेनापाकरोषि तथा तमोऽप्यपसारयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The darkness of night, पेपिशत् (*pepiśat*) (greatly crushing, clinging to all things), black in colour (कृष्णं (*kṛṣṇaṃ*)), व्यक्तं (*vyaktaṃ*) (variously making all things coloured by its own light, or of distinct form), has come up to me (*upāsthita*; the middle voice is used in the sense of "joining"). "O Ushas, goddess Dawn, drive away that darkness like debts (ऋणेव (*ṛṇeva*))": as you remove the debts of those who praise you by giving wealth, so drive off the darkness too. This is the sense.
+
 ---
 
-**Progress note:** Done through printed p. 717. pp. 712-717 (batch API)
+**Progress note:** Done through printed p. 723. pp. 718-723 (batch API)
