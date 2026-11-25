@@ -9055,6 +9055,242 @@ May we pursue the path that leads to the gods to convey that (worship) which we 
 
 In the Darśapūrṇamāsa sacrifices the Pathikṛt iṣṭi is to be performed. Then this Ṛk beginning आ देवानां (*ā devānāṃ*) is to be recited as the yājyā mantra; this is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, वेत्था हि वेधो अध्वन आ देवानामपि पंथामगन्म (*vetthā hi vedho adhvana ā devānāmapi paṃthāmaganma*) (Ā. 3 10). And in the Prāyaṇīyeṣṭi, in the homa made to Agni, this same Ṛk is to be recited as the yājyā mantra, and in the Udayanīyeṣṭi as the anuvākyā mantra; this is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, अग्ने नय सुपथा राये अस्माना देवानामपि पंथामगन्म (*agne naya supathā rāye asmānā devānāmapi paṃthāmaganma*) (Ā. 4-3).
 
+### Printed p. 226
+…is explained. That is, in the Prāyaṇīya and Udayanīya sacrifices this mantra is to be transposed: in one it is recited as the Yājyā mantra, in the other as the Anuvākyā mantra.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वो॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॑ वि॒दुषां॑ देवा॒ अवि॑दुष्टरासः ।  
+> अ॒ग्निष्टद्विश्व॒मा पृ॑णाति वि॒द्वान्येभि॑र्दे॒वा ऋ॒तुभिः॑ क॒ल्पया॑ति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वः । वयं । प्रमिनाम । व्रतानि । विदुषां । देवाः । अविदुःतरासः ।  
+> अग्निः । तत् । विश्वं । आ । पृणाति । विद्वान् । येभिः । देवान् । ऋतुभिः ।  
+> कल्पयाति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्रतातिपत्तौ व्रातपतीष्टिः कर्तव्या । तत्र यद्वो वयमित्येषा याज्या ।
+> सूत्रितं च । त्वमग्ने व्रतपा असि यद्वो वयं प्रमिनाम व्रतानि । आ. ३-१३ । इति ॥
+> हे देवाः अविदुष्टरासोऽविद्वत्तरा अत्यंतमजानंतो वयं युष्माकं
+> यत् यत्किंचिद्वतानि कर्माणि विदुषां भवतां जानतामेव प्रमिनाम प्रहिंसितवंतः । भवत्सु जानत्तु नित्यनैमित्तिककर्माणि विलोपितवंत इत्यर्थः । विद्वानेतत्सर्वं
+> जानानोऽग्निः स्विष्टकृत्तद्विश्वं सर्वं कर्मजातमा पृणाति । आपूरयतु । फलसहितं
+> करोत्वित्यर्थः । केनापूरयतु तत्राह । येभिर्ऋतुभिर्यागयोगैः कालैर्देवान्कल्पयाति कल्पयति कर्मांगभावाय समर्थयति तैरापूरयतु ॥
+
+##### Gist of the bhāṣya
+
+When a vow has been transgressed, the Vrātapatī offering is to be performed. In it this Ṛk, यद्वो वयं (*yadvo vayaṃ*), is the Yājyā. It is laid down in the Sūtra: त्वमग्ने व्रतपा असि यद्वो वयं प्रमिनाम व्रतानि (*tvamagne vratapā asi yadvo vayaṃ pramināma vratāni*) (Ā. 3-13).
+O gods, we who are exceedingly ignorant (अविदुष्टरासः (*aviduṣṭarāsaḥ*) = very unlearned, knowing nothing at all) have violated (प्रमिनाम (*pramināma*) = injured) whatever rites of yours we have violated, while you were knowing them. That is, in your presence, and with you knowing, we have caused the obligatory and occasional rites to lapse. Agni Sviṣṭakṛt, knowing all this, is to fill up (आपूरयतु (*āpūrayatu*)) the whole body of rites, that is, to make it fruitful. By what means? Sāyaṇa answers: by those Ṛtus, the seasons suited to sacrifice, by which he makes the gods fit to take part in the rite (कल्पयाति (*kalpayāti*) = कल्पयति (*kalpayati*), he qualifies them as members of the ritual); by these let him fill up.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- अविदुष्टरासः (*aviduṣṭarāsaḥ*)—we, endowed with ignorance
+- वः (*vaḥ*)—in regard to you
+- यत् व्रतानि (*yat vratāni*)—whatever rites
+- विदुषां (*viduṣāṃ*)—as coming within your cognizance
+- प्रमिनाम (*pramināma*)—we injure (do not perform)
+- विद्वान् (*vidvān*)—knowing these
+- अग्निः (*agniḥ*)—Agni
+- येभिः (*yebhiḥ*)—by which
+- ऋतुभिः (*ṛtubhiḥ*)—seasons fit for sacrifice
+- देवान् (*devān*)—the gods
+- कल्पयाति (*kalpayāti*)—makes sharers in the rite
+### Printed p. 227
+- तत् विश्वं (*tat viśvaṃ*)—all those seasonal rites
+- आ पृणाति (*ā pṛṇāti*)—let him carry out and make them fit for fruit
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, whatever rites we, being ignorant, leave unperformed in your presence in regard to you, let Agni, knowing our ignorance and knowing the whole secret of the rites, make the gods sharers in the rite at the proper seasons and so make all the rites fruitful.
+
+##### English translation
+O gods, when we who are most ignorant neglect the offices adderssed to you who are wise, may the wise Agni complete the whole by (appointing) those seasons by which he regulates the worship of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk is to be recited as the Yājyā mantra in the Vrātapatī offering is explained by the Sūtra of the Āśvalāyana Śrauta-sūtra त्वमग्ने व्रतसा असि यद्वो वयं प्रमिनाम व्रतानि (*tvamagne vratasā asi yadvo vayaṃ pramināma vratāni*) (Ā. 3-13).**NOTE**
+In this Ṛk and the next, Agni is prayed to remedy faults that may arise in a sacrifice through ignorance, such as omission of mantras or of acts, and to bring the sacrifice to a complete conclusion.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न य॒ज्ञस्य॑ मन्व॒ते मर्त्या॑सः ।  
+> अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन्यजि॑ष्ठो दे॒वा ऋ॑तु॒शो  ॑
+> यजाति ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । पाकत्रा । मनसा । दीनदक्षाः । न । यज्ञस्य । मन्वते । मर्त्यासः ।  
+> अग्निः । तत् । होता । क्रतुवित् । विजानन् । यजिष्ठः । देवान् । ऋतुशः ।  
+> यजाति ॥ ५ ॥
+
+### Printed p. 228
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दीनदक्षा दीनबला दिनोत्साहा वा मर्त्यासो मर्त्या मनुष्या ऋत्विजः पाकत्रा
+> पाकेन ॥ बहुलग्रहणादस्मादपि तृतीयार्थे त्राप्रत्ययः ॥ पाकेन पक्तव्येन विशिष्टज्ञानरहितेनाल्वेन वा मनसा युक्ताः संतो यज्ञसंबंधि यत्कर्म न मन्वते न
+> जानंति तत्कर्म विजानन् होता देवानामाह्वाता होमनिष्पादको वा क्रतुवित्
+> कर्मविद्यजिष्टो देवानामतिशयेन यष्टा सोग्निः स्विष्टकृदृतुशः ऋतावृतौ स्वे
+> स्वै यागयोग्ये काले देवान्यजाति । यजतु । हविर्भिः पूजयतु ॥
+
+##### Gist of the bhāṣya
+
+दीनदक्षा (*dīnadakṣā*) means those of feeble strength or feeble zeal. मर्त्यासः (*martyāsaḥ*) are mortals, men, the priests. पाकत्रा (*pākatrā*) is पाकेन (*pākena*); by the rule of "manifold usage" the affix त्रा (*trā*) is used also after this word in the sense of the instrumental. पाक (*pāka*) here is immature, lacking special knowledge, or small. Being endowed with such a mind, they do not know (न मन्वते (*na manvate*)) whatever act belongs to the sacrifice. Knowing that act is Agni Sviṣṭakṛt: होता (*hotā*), the invoker of the gods or the one who accomplishes the oblation; क्रतुवित् (*kratuvit*), knower of the rite; यजिष्ठः (*yajiṣṭhaḥ*), the greatest sacrificer to the gods. ऋतुशः (*ṛtuśaḥ*) means: in each proper season suited to sacrifice, let him sacrifice to the gods (यजाति (*yajāti*) = यजतु (*yajatu*)), worship them with oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीनदक्षाः (*dīnadakṣāḥ*)—those of feeble strength
+- मर्त्यासः (*martyāsaḥ*)—the human priests
+- पाकत्रा (*pākatrā*)—with an immature
+- मनसा (*manasā*)—mind, being possessed of it
+- यज्ञस्य यत् (*yajñasya yat*)—whatever sacrificial act is to be done
+- न मन्वते (*na manvate*)—they do not know
+- तत् (*tat*)—that act
+- विजानन् (*vijānan*)—knowing
+- होता (*hotā*)—in the form of the Hotṛ
+- क्रतुवित् (*kratuvit*)—knower of the rite
+- यजिष्ठः (*yajiṣṭhaḥ*)—exceedingly worthy of worship
+- अग्निः (*agniḥ*)—Agni
+- ऋतुशः (*ṛtuśaḥ*)—according to the respective seasons
+- देवान् (*devān*)—the gods
+- यजाति (*yajāti*)—let him worship
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, men of feeble strength, being of immature mind, do not know whatever sacrificial act is to be done; knowing each such act, let Agni, in the form of the Hotṛ, knower of the rite and most worthy of worship, worship the gods according to the respective seasons.
+
+##### English translation
+Since men of feeble energies, with mind yet immature, are unaquainted with (the ritual of) the sacrifice, may Agni, the invoker (of the gods), the skilled in rites, well knowing (what is to be done), the best offerer, offer worship according to the fit season to the gods.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑षां॒ ह्य॑ध्व॒राणा॒मनी॑कं चि॒त्रं के॒तुं जनि॑ता त्वा ज॒जान॑।  
+> स आ य॑जस्व नृ॒वती॒रनु॒ क्षाः स्पा॒र्हा इषः॑ क्षु॒मती॑र्वि॒श्वज॑न्याः ॥ ६ ॥
+
+### Printed p. 229
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वेषां । हि । अध्वराणां । अनेकं । चित्रं केतुं । जनिता । त्वा । जजान ।  
+> शः । आ । यजस्व । नृवतीः । अनु । क्षाः । स्वाहर्हाः । इषः । क्षुमतीः । विश्वजन्याः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विश्वेषां सर्वॆषामध्वराणां यज्ञानामनीकं मुखं प्रधानं
+> चित्रं चायनीयं नानारूपं केतुं प्रज्ञापकं ता त्वां जनिता जनयिता प्रजापतिर्यजमानो वा जनान । जनयामास । उत्पादितः स त्वं नृवतीर्दासादियुक्ताः
+> क्षाः । पृथिवीनामैतत् । क्षयंत्यत्रेति क्षा भूमिः । अन्वा यजस्व । अनुप्रयच्छ ।
+> यद्वा । नृवतीर्नृभिः संस्कृतानि क्षा अनु पृथिवीं वेदिलक्षणमनुगतानि वेद्यामासादितानि स्पार्हाः स्पृहणीयानि क्षुमतीः स्तुतिमंत्रलक्षणशब्दवंति विश्वजन्याः सर्वजनहितानि वृष्ट्यन्नहेतुत्वात् नानीषोऽन्नानि हविर्लक्षणानि यजस्व । देवेभ्यः प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, Prajāpati the begetter, or the sacrificer, has produced you, *anīkaṃ*, the face, the chief, of all sacrifices (अध्वराणां (*adhvarāṇāṃ*) = *yajñānāṃ*); चित्रं (*citraṃ*), to be gathered, of manifold form; केतुं (*ketuṃ*), the one who makes known. Being so produced, do you bestow (अन्वा यजस्व (*anvā yajasva*) = अनुप्रयच्छ (*anuprayaccha*)) नृवतीः क्षाः (*nṛvatīḥ kṣāḥ*), lands with servants and the like. क्षाः (*kṣāḥ*) is a name of the earth: क्षयंत्यत्रेति क्षा भूमिः (*kṣayaṃtyatreti kṣā bhūmiḥ*), "they dwell here, hence क्षा (*kṣā*) is the earth".
+Or else: नृवतीः (*nṛvatīḥ*) means things prepared by men; क्षा अनु (*kṣā anu*) means following the earth in the form of the altar, that is, placed upon the altar; स्पार्हाः (*spārhāḥ*), desirable; क्षुमतीः (*kṣumatīḥ*), having sound in the form of praise-mantras; विश्वजन्याः (*viśvajanyāḥ*), beneficial to all people, being the cause of rain and food. Offer इषः (*iṣaḥ*), foods in the form of oblations, to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) विश्वेषां हि (*viśveṣāṃ hi*)—of all
+- अध्वराणां (*adhvarāṇāṃ*)—the sacrifices
+- अनेकं (*anekaṃ*)—the chief**NOTE**
+- चित्रं (*citraṃ*)—the attractive
+- केतुं (*ketuṃ*)—the one who makes known
+- त्वा (*tvā*)—you
+- जनिता (*janitā*)—Prajāpati the creator
+- जजान (*jajāna*)—produced
+- सः (*saḥ*)—such a you
+- नृवतीः (*nṛvatīḥ*)—endowed with sons and the like
+- क्षाः (*kṣāḥ*)—the earth
+- अनु आ यजस्व (*anu ā yajasva*)—bestow
+- स्पार्हाः (*spārhāḥ*)—the attractive
+- क्षुमतीः (*kṣumatīḥ*)—having sound in the form of praise
+- विश्वजन्याः (*viśvajanyāḥ*)—beneficial to all people
+- इषः (*iṣaḥ*)—foods; bestow these too
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, Prajāpati the creator has produced you, the chief of all sacrifices, the attractive, the one who makes known. Such as you are, give us the earth endowed with sons and the like. Provide to the gods the oblations that are attractive, possessed of sound in the form of praise, and beneficial to all people.
+
+##### English translation
+The progenitor has engendered you the chief of all sacrifices, variegated, illuminating (all); offer (to the gods) the desirable all-sustaining praise-accompanied viands growing upon man-occupied earth.
+### Printed p. 230
+
+##### विशेषविषयगळु (Special Topics)
+
+जनिता त्वा जजान (*janitā tvā jajāna*)—प्रजापतिर्यजमानो वा जनयामास (*prajāpatiryajamāno vā janayāmāsa*). Prajāpati (Brahmā) created you, who are Agni; or, you who are in the form of the earthly fire (the sacrificial fire) were brought into being by the sacrificer who performs the sacrifice, who with the help of the priests churned you out of the kindling sticks. This is the meaning.
+सः नृवतीः क्षाः अनु यजस्व (*saḥ nṛvatīḥ kṣāḥ anu yajasva*)—स त्वं दासादियुक्ताः भूमिः अनुप्रयच्छ (*sa tvaṃ dāsādiyuktāḥ bhūmiḥ anuprayaccha*). O Agni, provide us with servants and the like and with land; or provide land well cultivated by servants and the like, that is, ploughed, sown and made ready, and rich in plants and the like (fields and paddy-lands).
+स्वर्हा इषः क्षुमतीर्विश्वजन्याः (*svarhā iṣaḥ kṣumatīrviśvajanyāḥ*)—provide foods and other nourishment that are beneficial and desirable to all people and prayed for with praises and the like. This is the meaning.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॒ द्यावा॑पृथि॒वी यं त्वाप॒स्वष्टा॒ यं त्वा॑ सु॒जनि॑मा  ॒॑
+> जजान ।  
+> पंथा॒मनु॑ प्रवि॒द्वान्पि॑तृ॒याणं॑ द्यु॒मद॑ग्ने समिधा॒नो  ॑
+> वि भाहि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । त्वा । द्यावापृथिवी इति । यं । त्वा । आपः । त्वष्टा । यं । त्वा । सुजनिमा ।  
+> जजान ।  
+> पंथां । अनु । प्रविद्वान् । पितृयानं । द्युमत् । अग्ने । संइधानः । वि ।  
+> भाहि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यं त्वा त्वां द्यावापृथिवी जनितवत्या आदित्यात्मनाग्न्यात्मना ना ।
+> तथा यं त्वामापो मेघोदरगता विद्युदात्मना स्थितं जनितवत्यः । यद्वा ! आप
+
+##### Gist of the bhāṣya
+
+O Agni, the heaven and earth have begotten you, you who are in the form of the sun and in the form of fire. Likewise the waters within the clouds have begotten you who abide in the form of lightning. Or else: आप (*āpa*)
+### Printed p. 231
+
+> इत्यंतरिक्षनाम । द्यावापृथिवी अंतरिक्षं चेमे त्रयो लोका यं त्वामजीजनन् ।
+> किंच सुजनिमा शोभनजननस्त्वष्टा प्रजापतिर्यं त्वां जजान जनयामास हे अग्ने
+> पितृयाणं पितरो येन मार्गेण गच्छंति तं पंथां हविर्वहनमार्गमनु प्रविद्वान् प्रजानंस्त्वं समिधानः समिध्यमानः सन् द्युमद्दीप्तियुक्तं यथा भवति
+> तथा वि भाहि । विशेषेण दीप्यसे ॥
+
+##### Gist of the bhāṣya
+
+…is a name for the atmosphere; heaven, earth and atmosphere, these three worlds, have begotten you. Moreover, सुजनिमा (*sujanimā*), of good birth, Tvaṣṭṛ, that is Prajāpati, has begotten you. O Agni, knowing well (प्रविद्वान् (*pravidvān*) = *prajānan*) the path (पंथां (*paṃthāṃ*)) of the Pitṛs, the way by which the fathers go, the way that carries the oblation, being kindled (समिधानः (*samidhānaḥ*) = समिध्यमानः (*samidhyamānaḥ*)), shine forth (वि भाहि (*vi bhāhi*)) so that there is brilliance (द्युमत् (*dyumat*)), that is, blaze especially.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यं त्वा (*yaṃ tvā*)—you whom
+- द्यानापृथिवी (*dyānāpṛthivī*)—heaven and earth produced
+- यं त्वा (*yaṃ tvā*)—you whom
+- अपः (*apaḥ*)—the waters made
+- यं त्वा (*yaṃ tvā*)—you whom
+- सुजनिमा (*sujanimā*)—the excellent creator
+- त्वष्टा (*tvaṣṭā*)—Prajāpati
+- जजान (*jajāna*)—created; such as you are
+- पितृयाणं (*pitṛyāṇaṃ*)—on which the Pitṛs travel
+- पंथां (*paṃthāṃ*)—the excellent path
+- अनु प्रविद्वान् (*anu pravidvān*)—knowing it fully
+- समिधानः (*samidhānaḥ*)—kindled
+- द्युमत् (*dyumat*)—shedding radiance
+- वि भाहि (*vi bhāhi*)—shine exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you whom heaven and earth, the waters, and Prajāpati the excellent creator have produced: such as you are, knowing fully the excellent path on which the Pitṛs travel, kindled and shedding radiance, shine exceedingly.
+
+##### English translation
+Do you, Agni, whom the earth and heaven, whom the waters, whom Twashtri, the glorious creator, engendered, who are cognizant of the path, the road of the Pitris, shine brilliantly, being kindled.
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator has shown that the first half of this Ṛk can be explained in two or three ways. द्यावापृथिवी यं त्वा जजान आपः यं त्वा जजान (*dyāvāpṛthivī yaṃ tvā jajāna āpaḥ yaṃ tvā jajāna*)—द्यावापृथिवी आदित्यात्मनाग्न्यात्मना यं त्वा जनितवत्यौ तथा मेघोदरगता आपः विद्युदात्मना स्थितं त्वां जनितवत्यः । (*dyāvāpṛthivī ādityātmanāgnyātmanā yaṃ tvā janitavatyau tathā meghodaragatā āpaḥ vidyudātmanā sthitaṃ tvāṃ janitavatyaḥ |*). Heaven and earth: that is, heaven produced you, Agni, in heaven in the form of the sun; the earth produced you in the form of the earthly fire; and the waters in the midst of the clouds produced you in the form of lightning (the fire of the lightning-flash). This is one kind of meaning.
+
 ---
 
-**Progress note:** Done through printed p. 225. pp. 220-225 (batch API)
+**Progress note:** Done through printed p. 231. pp. 226-231 (batch API)
