@@ -8159,6 +8159,186 @@ and similar Ṛks, that the pure Somas pressed at the time of Trita's sacrifice 
 
 अस्य सुवानस्य मुंदिनस्त्रितस्य न्यर्बुदं वावृधानो आस्तः । आवर्तयत्सूर्यो न चक्रं भिनद्वलमिंद्रो अंगिरस्वान् ॥ (*asya suvānasya muṃdinastritasya nyarbudaṃ vāvṛdhāno āstaḥ | āvartayatsūryo na cakraṃ bhinadvalamiṃdro aṃgirasvān ‖*) (Ṛ. Saṃ. 2-11-20)
 
+### Printed p. 196
+
+…
+अनु श्रितस्य युध्यतः शुष्मावन्नुत क्रतुं । अन्विंद्रं वृत्रतूरै ॥ (*anu śritasya yudhyataḥ śuṣmāvannuta kratuṃ | anviṃdraṃ vṛtratūrai ‖*) (Ṛ. Saṃ. 8-7-24)
+
+In these and similar ṛks it is described at length that Indra, delighted by Trita's praise and by the Soma-juice offered by him, gained exceeding power and became able to destroy the Asuras. It is also said that the Maruts and Indra, too, became able to slay Vṛtra and others only with the help of Trita's strength. Thus Trita now reminds the gods of how he formerly satisfied them and helped them in many ways, and prays that they should help him now that he has fallen into distress.
+
+The Nirukta-writers have commented as follows on Ṛ. Saṃ. 1-105-8.
+
+संतपंति मामभितः सपत्न्य इवेमाः पर्शवः कूपपर्शवो मूषिका इवास्नातानि सूत्राणि व्यदंति । स्वांगाभिधानं ना स्याच्छिश्नानि व्यदंतीति वा संतपंति माध्यःकामाः ' स्तोतारं ते शतक्रतो', ' वित्तं मे अस्य रोदसी ' जानीतं मेऽस्य द्यावापृथिव्याविति । त्रितं कूपेऽवहितमेत्सूक्तं प्रतिबभौ । तत्र ब्रह्मेतिहासमिश्रमृज्ङ्मिश्रं गाथामिश्रं भवति । त्रितस्तीर्णतमो मेधया बभूव अपि वा संख्यानामैवाभिप्रेतं स्यादेकतो द्वितिस्त्रित इति त्रयो बभूवुः । (*saṃtapaṃti māmabhitaḥ sapatnya ivemāḥ parśavaḥ kūpaparśavo mūṣikā ivāsnātāni sūtrāṇi vyadaṃti | svāṃgābhidhānaṃ nā syācchiśnāni vyadaṃtīti vā saṃtapaṃti mādhyaḥkāmāḥ ' stotāraṃ te śatakrato ', ' vittaṃ me asya rodasī ' jānītaṃ me 'sya dyāvāpṛthivyāviti | tritaṃ kūpe 'vahitametsūktaṃ pratibabhau | tatra brahmetihāsamiśramṛjṅmiśraṃ gāthāmiśraṃ bhavati | tritastīrṇatamo medhayā babhūva api vā saṃkhyānāmaivābhipretaṃ syādekato dvitistrita iti trayo babhūvuḥ |*) (Ni. 4-6).
+
+"Like co-wives surrounding and pressing their husband, and like mice gnawing a thread soaked in oil, the bricks of the walls of this well surround me on every side and torment me. Or, as for the word 'śiśna': just as mice gnaw even their own limb, the śiśna, so my mental afflictions bite and eat me. O Indra, Śatakratu, such mental pains torment me, your praiser. O Heaven and Earth, know this suffering of mine." Having thus explained this ṛk, they then state further particulars. This sūkta was seen by Trita, who had fallen into the well. In connection with it there is a story mixed with verses (gāthā) and ṛks. Trita was the most excellent of the wise, one who had crossed over the darkness by his intelligence. Or else it may be a numeral, indicating the last of the three who were born in succession, Ekata, Dvita and Trita. So the Nirukta-writers explain. These ṛks indicate this very meaning:
+
+सं मा तपंत्यभितः सपत्नीरिव पर्शवः । नि बाधते अमतिर्नग्नता जसुर्वेर्न वेवीयते मतिः ॥ मूषो न शिश्ना व्यदंति माध्यः स्तोतारं ते शतक्रतो । सकृत्सु नो मघवन्निंद्र मृळयाधा पितेव नो भव ॥ (*saṃ mā tapaṃtyabhitaḥ sapatnīriva parśavaḥ | ni bādhate amatirnagnatā jasurverna vevīyate matiḥ ‖ mūṣo na śiśnā vyadaṃti mādhyaḥ stotāraṃ te śatakrato | sakṛtsu no maghavanniṃdra mṛḷayādhā piteva no bhava ‖*) (Ṛ. Saṃ. 10-33-2-3)
+
+### Printed p. 197
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशमे मंडले द्वादशानुवाकाः । तत्र प्रथमानुवाके षोडश सूक्तानि ।
+> तत्राग्रे बृहन्निति सप्तर्चं प्रथमं सूक्तं । आप्त्यस्य त्रितस्यारं । अनादेशपरिभाषया त्रिष्टुप् । मंडलादिपरिभाषयाग्निर्देवता । तथा चानुक्रम्यते । अग्रे सप्त
+> त्रित इति ॥ प्रातरनुवाकाशिनशस्त्रयोराग्नेये क्रत् त्रैष्टुभे छंदसीदमादीन्यष्ट
+> सूक्तान्यष्टमस्यांतास्ति सो वर्जयित्वा । सूत्रते हि । अग्ने नयाग्रे बृहन्नित्यष्टानामुत्तमवादुत्तमास्तिस्र उद्दरेदिति त्रैष्टुभं । आ. ४.१३ । इति । प्रातरनुवाकन्यायेन तस्यॆव समाम्नायस्य सहस्रावममोदेतोः शंसेत् । अ. ६-५ । इति च ॥
+> होमार्थ० प्रणीत अहवनीये प्राग्नोमादुपशांते ज्योतिष्मद्गुणकाग्नि देवताका
+> काचिदिष्टिः । तत्राद्या याज्या । सूत्रितं च । इष्टिरग्निर्ज्योतिष्मान्वरुण उदग्ने
+> शुचयस्तवाग्ने बृहन्नुषसामूर्ध्वो अस्थात् । आ. ३-१२ । इति ॥ उपाकरणोत्सर्जनयोर्मंडलादिहोमेऽप्येषा । सूत्रमुदाहृतं ॥
+
+##### Gist of the bhāṣya
+
+In the tenth maṇḍala there are twelve anuvākas; in the first anuvāka sixteen sūktas. Of these, the one beginning अग्रे बृहन् (*agre bṛhan*), of seven ṛks, is the first. Its seer is Trita Āptya. By the rule of "no specification" the metre is Triṣṭubh; by the rule for the beginning of a maṇḍala the deity is Agni. So the Anukramaṇī says: अग्रे सप्त त्रित इति (*agre sapta trita iti*).
+
+Use: in the Prātaranuvāka-śastra, in the Āgneya kratu, for the Triṣṭubh metre, the first eight sūktas beginning with this one are employed, leaving out the last three ṛks of the eighth. For it is prescribed in the sūtra अग्ने नयाग्रे बृहन्नित्यष्टानामुत्तमवादुत्तमास्तिस्र उद्दरेदिति त्रैष्टुभं । (*agne nayāgre bṛhannityaṣṭānāmuttamavāduttamāstisra uddarediti traiṣṭubhaṃ |*) (Ā. 4-13); and प्रातरनुवाकन्यायेन तस्यॆव समाम्नायस्य सहस्रावममोदेतोः शंसेत् । (*prātaranuvākanyāyena tasyèva samāmnāyasya sahasrāvamamodetoḥ śaṃset |*) (Ā. 6-5). Further, when the Āhavanīya fire has been brought forward for the homa and, before the homa, has become quiet, there is an iṣṭi addressed to Agni with the quality *jyotiṣmat* (luminous). In it the first ṛk is the yājyā. It is stated in the sūtra इष्टिरग्निर्ज्योतिष्मान्वरुण उदग्ने शुचयस्तवाग्ने बृहन्नुषसामूर्ध्वो अस्थात् (*iṣṭiragnirjyotiṣmānvaruṇa udagne śucayastavāgne bṛhannuṣasāmūrdhvo asthāt*) (Ā. 3-12). This ṛk is also used in the principal homa at the beginning of a maṇḍala in the Upākaraṇa and Utsarjana rites; the sūtra has been cited.
+
+##### Anuvāda
+
+In the tenth maṇḍala there are twelve anuvākas. In the first anuvāka there are sixteen sūktas. Of them this sūkta beginning "अग्रे बृहन् (*agre bṛhan*)" is the first. It has seven ṛks. The seer of this sūkta is Trita Āptya; the deity is Agni; the metre is Triṣṭubh. In the Anukramaṇī it is said "अग्रे सप्त त्रितः (*agre sapta tritaḥ*)". At the time of reciting the Prātaranuvāka mantras, the first eight sūktas of this maṇḍala, except the last three ṛks of the eighth sūkta, are used for the Triṣṭubh-metre mantras of Agni connected with the kratu; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra "agne nayāgre bṛhann ityaṣṭānām uttamād uttamās tisra uddhared iti traiṣṭubham" (Ā. 4-13). And on this matter there is also the Āśvalāyana Śrauta Sūtra "prātaranuvākanyāyena tasyaiva samāmnāyasya sahasrāvamamodetoḥ śaṃset" (Ā. 6-5). When the Āhavanīya fire has been brought and established for the homa, after the first homa an iṣṭi should be performed addressed to the deity called Agni Jyotiṣmat. In that iṣṭi the first ṛk of this sūkta is to be recited as the yājyā mantra; this is set out by the Āśvalāyana Śrauta Sūtra "iṣṭir agnir jyotiṣmān varuṇa udagne śucayas tavāgne bṛhann uṣasām ūrdhvo asmāt" (Ā. 3-12). **NOTE** And it has been stated earlier, by the citing of the sūtra, that in the principal homas of the Upākaraṇa and Utsarjana rites this first ṛk of the sūkta is used for the maṇḍala-beginning ṛks.
+
+### Printed p. 198
+
+Sūkta 1
+- Maṇḍala 10; Anuvāka 1; Sūkta 1
+- Aṣṭaka 7; Adhyāya 5; Varga 29
+- Number of ṛks in the sūkta: 7
+- Seer: Trita Āptya
+- Deity: Agni
+- Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्रे॑ बृ॒हन्नु॒षसा॑मू॒र्ध्वो अ॑स्थान्निर्जग॒न्वानम॑सो॒ ज्योति॒षागा॑त् ।  
+> अ॒ग्निर्भा॒नुना॒ रुश॑ता॒ स्वंग॒ आ जा॒तो विश्वा॒ सद्मा॑न्यप्राः ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्रे । बृहन् । उषसां । ऊर्ध्वः । अस्थात् । निःजगन्वान् । तमसः । ज्योतिषा ।  
+> आ । अगात् ।  
+> अग्निः । भानुना । रुशता । सुअंगः । आ ! जातः । विश्वा । सद्मानि । अप्राः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहन्महानेषोऽग्निरुषसामग्र उषसामुपर्युषःकाल ऊर्ध्वः प्रज्वलितः
+> सञ्खालारूपेणास्थात् । तिष्ठति । ततस्तमसः । रात्रिनामैतत् । रात्रेर्निर्जगन्वान्निर्गतः ॥ गमेः क्वसाविडभावे रूपं ॥ निर्गतो निष्क्रांतवान् सोऽग्निर्ज्योतिषा
+> स्वीयेन तेजसा लक्षितः सन्नागात् । गार्हपत्याद्विह्रियमाण आहवनीयं प्रत्यागच्छति । अनंतरं स्वंगः शोभनज्वालावयवो जातः कर्मार्थं समुत्पन्न एषोऽग्नी रुशता ॥ रोचतेर्ज्वलतिकर्मण इदं रूपं ॥ आरोचमानेन । यद्वा । रुशतिर्हिंसार्थः । तमसां हिंसकेन । भानुना तेजसा विश्वा सद्मानि सर्वाल्लोकान्
+> यद्वा सदनानि यज्ञगृहाण्याप्राः । आपूरयति॥ प्रा पूरणे । तिजां तिजतो भवंतीति
+> तिपः सिबादेशः ॥ अत्र वाजसनेयकं । अग्रे बृहन्नुषसामूर्ध्वो अस्थादित्यग्रे
+> हैष बृहन्नुषसामूर्ध्वस्तिष्ठति । निर्जगन्वानमसो ज्योतिषागादिति निर्जगन्वा-
+
+##### Gist of the bhāṣya
+
+This great (बृहन् (*bṛhan*) = महान् (*mahān*)) Agni stands upright, blazing in the form of flame, at the head of the dawns, that is, above the dawns, at the time of dawn. From स्तमसः (*stamasaḥ*), a name for night, he has gone out: निर्जगन्वान् (*nirjaganvān*) is "gone forth", the form from the root गम (*gama*) with kvasu and without the augment iṭ. That Agni, marked by his own light (ज्योतिषा (*jyotiṣā*)), comes: being carried from the Gārhapatya he arrives at the Āhavanīya. Then, स्वंगः (*svaṃgaḥ*) with fair flame-limbs, जातः (*jātaḥ*) born for the rite, this Agni with रुशता (*ruśatā*) (from the root रोच (*roca*) in the sense of burning; "shining"), or else, रुशति (*ruśati*) in the sense of harming, "destroying the darkness", with भानुना (*bhānunā*) (brilliance) fills (*āprāḥ*, from प्रा (*prā*) "to fill") विश्वा सद्मानि (*viśvā sadmāni*), all the worlds, or else the sacrificial houses. The Vājasaneyaka (Śatapatha) is cited here and continues on the next page.
+
+### Printed p. 199
+
+> नात्रेस्तमसो ज्योतिष्यति । अग्निर्भानुना रुशता स्वंग इत्यग्निर्वा एष भानुना
+> रुशता स्टंग आ जातो विश्वा सद्मान्यप्रा इतीमे वै लोका विश्वा सद्मानि तानेष
+> जात आपूरयति । शत ६-७-३-१८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The Brāhmaṇa explains the ṛk phrase by phrase: in the beginning this Agni stands upright, great, above the dawns; having gone forth from the darkness of night he shines forth; "Agni with bright light, fair-limbed": it is Agni indeed with bright light, fair-limbed; "born he fills all dwellings": these worlds are all the dwellings, and he, born, fills them. (Śa. 6-7-3-18) **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहन् (*bṛhan*)—the great Agni
+- उषसां अग्रे (*uṣasāṃ agre*)—at the very time of the appearance of the dawns
+- ऊर्ध्वः अस्थात् (*ūrdhvaḥ asthāt*)—stands risen up, blazing
+- तमसः (*tamasaḥ*)—from the dark night
+- निर्जगन्वान् (*nirjaganvān*)—having come out
+- ज्योतिषा (*jyotiṣā*)—together with his own radiance
+- आगात् (*āgāt*)—has come out
+- स्वंगः (*svaṃgaḥ*)—he who has excellent limbs
+- जातः (*jātaḥ*)—he who is born for the sacrifice
+- अग्निः (*agniḥ*)—Agni
+- रुशता (*ruśatā*)—with shining
+- भानुना (*bhānunā*)—with brilliance
+- विश्वा सद्मानि (*viśvā sadmāni*)—all the sacrificial houses
+- अप्राः (*aprāḥ*)—fills
+
+##### भावार्थ (Bhāvārtha)
+
+The great Agni stands risen up, blazing, at the very time of the appearance of the dawns. Having gone out from the dark night, he has come out together with his radiance. Agni, who has excellent limbs and is born for the sacrifice, fills with his shining brilliance all the worlds, or the sacrificial houses.
+
+##### English translation
+The great fire at the beginning of the dawn has sprung aloft, and issuing forth from the darkness has come with radiance. Agni, the bright-bodied, as soon as born, fills all dwellings with shining light.
+
+##### विशेषविषयगळु (Special Topics)
+
+बृहन् उषसां अग्रे ऊर्ध्वः अस्थात् (*bṛhan uṣasāṃ agre ūrdhvaḥ asthāt*)—Two meanings can be given for the word bṛhat. One: he who rises up with a huge form, joined with many flames, and shines. The other: बृहन् (*bṛhan*) means महान् (*mahān*), the great one, the worshipful, one distinguished by many qualities, one to be honoured on every side. उषसां अग्रे (*uṣasāṃ agre*) is उषसामुपर्युषःकाले (*uṣasāmuparyuṣaḥkāle*): immediately as the time of dawn manifests. The time of dawn is the time when the pitch darkness of night has ended and it is light before the sun rises. The beginning of this time is when the darkness is just going and a little light has come. The meaning is that at such a time Agni, risen up with his flames upward, that is, burning large, is shining. Because the sacrifice is begun in the early morning, and because Agni, the chief means of the sacrifice, is produced from the aranis in the early morning and made to blaze, the seer here describes Agni as shining at the beginning of the dawn.
+
+### Printed p. 200
+
+तमसः निर्जगन्वान् ज्योतिषा आ अगात् (*tamasaḥ nirjaganvān jyotiṣā ā agāt*)—With the manifestation of dawn the darkness too has gone. Therefore Agni, gone out from the darkness, growing bright with his own light, is carried by the priests from the Gārhapatya fire-pit to the Āhavanīya fire. That is what is described here: Agni, gone out from the darkness and shining with his own light, has come to the Āhavanīya fire.
+
+स्वंगः अग्निः जातः रुशता भानुना विश्वा सद्मानि आ अप्राः (*svaṃgaḥ agniḥ jātaḥ ruśatā bhānunā viśvā sadmāni ā aprāḥ*)—Here स्वंगः (*svaṃgaḥ*) means शोभनज्वालावयवः (*śobhanajvālāvayavaḥ*): one who has excellent limbs. The flames of Agni are his limbs. Therefore Agni, whose limbs are excellent flames, is जातः (*jātaḥ*), born for the sacrifice, produced by being churned in the aranis by the priests. Such an Agni fills all the worlds, or all the sacrificial houses, with his light. By Agni's light the whole world shines well, and in it especially the sacrificial house, the place where Agni is, shines with Agni's great brilliance; thus the seer describes Agni's power of illumining.
+
+The Bhāṣyakāra has cited a passage of the Śatapatha Brāhmaṇa that makes the meaning of this ṛk clear:
+
+अग्रे बृहन्नुषसामूर्ध्वो अस्थादित्यग्रे हैष बृहन्नुषसामूर्ध्वस्तिष्ठति । निर्जगन्वास्तमसो ज्योतिरागादिति निर्जगन्वान् रात्रेस्तमसो ज्योतिष्यति। अग्निर्भानुना रुशता स्वंग इत्यग्निर्वा एष भानुना रुशता स्वंग आ जातो विश्वा सद्मान्यप्रा इतीमे वै लोका विश्वा सद्मानि तानेष जात आपूरयति ॥ (*agre bṛhannuṣasāmūrdhvo asthādityagre haiṣa bṛhannuṣasāmūrdhvastiṣṭhati | nirjaganvāstamaso jyotirāgāditi nirjaganvān rātrestamaso jyotiṣyati| agnirbhānunā ruśatā svaṃga ityagnirvā eṣa bhānunā ruśatā svaṃga ā jāto viśvā sadmānyaprā itīme vai lokā viśvā sadmāni tāneṣa jāta āpūrayati ‖*) (Śa. Brā. 6-7-3-10)
+
+Since the explanation of the meaning of this Vedic passage accords with the meaning we have explained above, there is no need to explain it again.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स जा॒तो गर्भो॑ असि॒ रोद॑स्यो॒रग्ने॒ चारु॒र्विभृ॑त॒ ओष॑धीषु।  
+> चि॒त्रः शिशुः॒ परि॒ तमां॑स्क॒क्तून्प्र मा॒तृभ्यो॒ अधि॒ कनि॑क्रदद्दाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । जातः । गर्भः । असि । रोदस्योः । अग्ने । चारुः । विभृतः । ओषधीषु ।  
+> चित्रः । शिशुः । परि । तमांसि । अक्तून् । प्र । मातृभ्यः । अधि । कनिक्रदत् । गाः ॥२॥
+
+### Printed p. 201
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जात उत्पन्नश्चारुः कल्याणरूप ओषधीष्टोषधिविकारेष्वरणेषु
+> विभृतो विशेषेण मथित आहवनीयाद्यात्मना विविधं ह्रियमाण ओषधीषु वर्तमानः
+> स त्वं रोदस्योर्दावापृथिव्योर्गर्भोऽसि । गर्भो भवसि । अग्निरूप आदित्यरूपश्चेति । किं च चित्रश्चित्रवर्णः काली कराली च मनोजवेत्यादिसप्तजिह्वाभिर्नानारूपः
+> यद्वा चित्रश्चायनीयः शिशुरोषधीनां शिशुरग्निस्तमांस्कक्कूनात्रिवत्कृष्णाञ्चत्रूंश्च परि भवसि । स्वतेजसाभिभवसि । स त्वं मातृभ्यो मातृभूताभ्य ओषधीभ्यः ।
+> अधिः पंचम्यर्थद्योतकः । ताभ्यः कनिक्रदत्पुनःपुनः शब्दं कुर्वन्न, गाः । प्रगच्छसि ।
+> प्रजायसे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being born, beautiful in form, ओषधीषु (*oṣadhīṣu*), that is, in the aranis, which are modifications of plants, specially churned, or else variously carried as Āhavanīya and the rest while remaining in the plants: such as you are, you are the embryo of Heaven and Earth (रोदस्योः (*rodasyoḥ*)), in the form of fire and in the form of the sun. Further, you are चित्रः (*citraḥ*), of variegated colour, of manifold forms with the seven tongues beginning काली कराली च मनोजवेत्यादि (*kālī karālī ca manojavetyādi*); or else चित्रः (*citraḥ*) means "to be gathered (worshipped)". As the child of the plants, you overcome (परि भवसि (*pari bhavasi*)) the darkness and the black foes with your own splendour. **NOTE** Such as you are, you go forth (प्र गाः (*pra gāḥ*)), that is, are born, from the mothers, namely the plants as mothers, repeatedly making a sound; अधि (*adhi*) shows the sense of the ablative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- जातः (*jātaḥ*)—when you are born
+- चारुः (*cāruḥ*)—attractive
+- ओषधीषु (*oṣadhīṣu*)—in the aranis, which are modifications of plants
+- विभृतः (*vibhṛtaḥ*)—you are borne
+- सः (*saḥ*)—such a you
+- रोदस्योः (*rodasyoḥ*)—for Heaven and Earth
+- गर्भः असि (*garbhaḥ asi*)—you are of the form of an embryo
+- चित्रः (*citraḥ*)—having many kinds of colour
+- शिशुः (*śiśuḥ*)—you who are of the form of a son to creepers and the like
+- अक्तून् (*aktūn*)—the foes who are of the form of darkness
+- तमांसि (*tamāṃsi*)—the pitch darkness of night
+- परि (भवसि) (*pari (bhavasi)*)—you destroy
+- मातृभ्यः अधि (*mātṛbhyaḥ adhi*)—from the plants, which are of the form of mothers
+- कनिक्रदत् (*kanikradat*)—making a sound
+- प्र गाः (*pra gāḥ*)—you come forth
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you are born you are attractive and are borne in the aranis, which are modifications of plants. Such as you are, you are of the form of an embryo to Heaven and Earth. You, who have many kinds of colour and are of the form of a son to creepers and the like, destroy the foes who are of the form of darkness and the pitch darkness of night; you come forth making a sound from the plants that are of the form of mothers.
+
+##### English translation
+When born, you, O Agni, are the embryo of heaven and earth, beautiful, borne about in the plants; variegated, infantine, you disperse the nocturnal glooms ; you issue roaring loudly from the maternal (sources).
+
+##### विशेषविषयगळु (Special Topics)
+
+ओषधीषु ओषधिविकारेष्वर्णेषु विशेषेण मथितः । यद्वा आहवनीयाद्यात्मना विविधं ह्रियमाण ओषधीषु वर्तमानः । (*oṣadhīṣu oṣadhivikāreṣvarṇeṣu viśeṣeṇa mathitaḥ | yadvā āhavanīyādyātmanā vividhaṃ hriyamāṇa oṣadhīṣu vartamānaḥ |*). Oṣadhis here means the aranis made from large grown trees and the like. In these aranis, in a special manner, that is, in the manner prescribed by the rule (विध्युक्तरीति (*vidhyuktarīti*)
+
 ---
 
-**Progress note:** Done through printed p. 195. pp. 190-195 (batch API)
+**Progress note:** Done through printed p. 201. pp. 196-201 (batch API)
