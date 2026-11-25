@@ -3919,6 +3919,233 @@ For this Ṛk Yāska has given a Nirukta and the derivation of the forms of some
 
 स उत्तरस्मादधरं समुद्रं । उत्तर उद्धततरो भवति । अधरोऽधोरः । अधो न धावतीतूर्ध्वगतिः प्रतिषिद्दा ॥ (*sa uttarasmādadharaṃ samudraṃ | uttara uddhatataro bhavati | adharo 'dhoraḥ | adho na dhāvatītūrdhvagatiḥ pratiṣiddā ‖*) From the upper ocean to the lower ocean; since the word samudra also means atmosphere, the meaning is: from the atmosphere above to the ocean below. When rain falls, the waters in the clouds of the atmosphere above fall upon the earth below and
 
+### Printed p. 110
+They flow as rivers and finally reach the sea. Therefore the rain-waters are described as going from the upper ocean (the clouds standing in the atmosphere) and falling into the lower ocean. Uttara means "raised higher", that which is above, still higher up; adhara means "अधोरः (*adhoraḥ*)", that which is below, down below. Since for the water that is below there is no possibility of going upward again, it is called adhoraḥ or adharaḥ (the lower).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मिन्त्स॑मु॒द्रे अध्युत्त॑रस्मि॒न्नापो॑ दे॒वेभि॒र्निवृ॑ता अतिष्ठन् ।  
+> ता अ॑द्रवन्नार्ष्टिषे॒णेन॑ सृ॒ष्टा दे॒वापि॑ना॒ प्रेषि॑ता मृ॒क्षिणी॑षु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मिन् । समुद्रे । अधि । उत्तरस्मिन् । आपः । देवेभिः । निवृताः । अतिष्ठन् ।  
+> शाः । अद्रवन् । आर्ष्टिषेणेन । सृष्टाः । देवआपिना । प्रइषिताः । मृक्षिणेषु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन्स्पार्थिवे समुद्रे पूरणीये सति । अधीति सप्तम्यर्थानुवादी । उत्तरस्मिन्समुद्रेऽंतरिक्षाख्य आप उदकानि देवेभिर्द्योतमानैर्निवृता निरुद्धा अतिष्ठन्
+> ता आप आर्ष्टिषेणेनर्ष्टिषेणस्य पुत्रेण देवापिना सृष्टाः प्रकर्षेणेच्छां
+> प्राप्ताः कांक्षिता मृक्षिणेषु मृष्टवतीषु परिमृष्टासु स्थलीष्वद्रवन् । स्रवंति ॥
+
+##### Gist of the bhāṣya
+
+While this earthly ocean is to be filled, in the other, upper ocean called the atmosphere, the waters were held back by the shining gods and stood still. Those waters, sent forth by Devapi, the son of Ṛṣṭiṣeṇa, having been greatly desired and longed for, ran onto the wiped-clean, well-prepared (fertile) plains. अधि (*adhi*) merely restates the locative sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मिन् समुद्रे अधि (*asmin samudre adhi*)—when this earthly ocean is to be filled
+- उत्तरस्मिन् (*uttarasmin*)—in the ocean situated in the atmosphere
+- आपः (*āpaḥ*)—waters
+- देवेभिः (*devebhiḥ*)—by the gods
+- निवृताः (*nivṛtāḥ*)—held back
+- अतिष्ठन् (*atiṣṭhan*)—stood right there
+- आर्ष्टिषेणेन (*ārṣṭiṣeṇena*)—by the son of Ṛṣṭiṣeṇa
+- देवापिना (*devāpinā*)—by Devapi
+- सृष्टाः (*sṛṣṭāḥ*)—poured out
+- प्रेषिताः (*preṣitāḥ*)—sent to the earth
+- ताः (*tāḥ*)—those same waters
+- मृक्षिणीषु (*mṛkṣiṇīṣu*)—in fertile foothill regions
+- अद्रवन् (*adravan*)—flowed and drench the ground
+
+##### भावार्थ (Bhāvārtha)
+
+When this earthly ocean was to be filled, the waters of the cloud-masses of the atmosphere were held back by the gods and stood there. But those same waters, poured out by Devapi, the son of Ṛṣṭiṣeṇa, and sent to the earth,
+
+### Printed p. 111
+flow in fertile foothill regions and drench the ground.
+
+##### English translation
+In this upper ocean the waters stood dammed up by the gods; set free by Devapi, the son of Rishthishena, they were sent forth over the plains
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्दे॒वापिः॒ शंत॑नवे पु॒रोहि॑तो हो॒त्राय॑ वृ॒तः कृ॒पय॒न्नदी॑धेत् ।  
+> दे॒व॒श्रुतं॑ वृष्टि॒वनिं॒ ररा॑णो॒ बृह॒स्पति॒र्वाच॑मस्मा अयच्छत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । देवआपिः । शंततनवे । पुरःहितः । होत्राय । वृतः । कृपयन् । अदीधेत् ।  
+> देवश्रुतं । वृष्टिवनिं । रराणः । बृहस्पतिः । वाचं । अस्मै । आयच्छत् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा देवापिराष्टिषेणः शंतनवे स्वभ्रात्रे कौरन्याय पुरोहितः सन्
+> होत्राय होत्रार्थं वृतः सन् देवश्रुतं । देवा एनं शृण्वंतीति देवश्रुत् ।
+> तं तथा वृष्टिवनिं वृष्टियाचिनं बृहस्पतिमदीधेत् अन्वध्यायत् स च रराणो
+> रममाणो बृहस्पतिर्देवोऽस्मै देवापये वाचमयच्छत् ॥
+
+##### Gist of the bhāṣya
+
+When Devapi Āṛṣṭiṣeṇa, being the purohita of his brother Śantanu of the Kuru line and chosen for the office of hotṛ, meditated on Bṛhaspati, "the one heard by the gods" (the gods hear him), and likewise the one who asks for rain, then Bṛhaspati, delighted, gave this Devapi speech.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- देवापिः (*devāpiḥ*)—Devapi
+- शंतनवे (*śaṃtanave*)—for Śantanu
+- पुरोहितः (*purohitaḥ*)—as purohita
+- होत्राय (*hotrāya*)—for the office of hotṛ
+- वृतः (*vṛtaḥ*)—requested
+- कृपयन् (*kṛpayan*)—performing his act of praise
+- देवश्रुतं (*devaśrutaṃ*)—him who makes the gods hear (his prayer)
+- वृष्टिवनिं (*vṛṣṭivaniṃ*)—him who asks rain for mankind; that Bṛhaspati
+- अदीधेत् (*adīdhet*)—meditated upon and praised, then
+- रराणः (*rarāṇaḥ*)—pleased by this praise
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- अस्मै (*asmai*)—to this Devapi
+- वाचं (*vācaṃ*)—speech in the form of a mantra
+- अयच्छत् (*ayacchat*)—gave (taught)
+
+### Printed p. 112
+
+##### भावार्थ (Bhāvārtha)
+
+When Devapi, purohita of Śantanu, requested to be the hotṛ, performing his hotṛ's work, meditated on and praised Bṛhaspati, who makes the gods hear his prayer and who begs rain for mankind, then Bṛhaspati, pleased by his praise, taught Devapi the rain-bringing mantra.
+
+##### English translation
+When Devapi, the Purohita for Shantanu, engaged in his functions of Hotri, compassionating (him), solicited Brihaspati, to whom the gods listen, who begs for rain, (Brihaspati) being pleased gave him a voice.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the Nirukta for this quarter-verse:
+यद्देवापिः शंतनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् । देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥ (*yaddevāpiḥ śaṃtanave purohito hotrāya vṛtaḥ kṛpayannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖*) शंतनुः शं तनोऽस्त्विति वा शमस्यॆ तन्ना अस्त्वति वा । पुरोहितः पुरः एनं दधति । होत्राय वृतः कृपायमाणोऽन्वध्यायत् । देवश्रुतं देवा एनं शृण्वंति । वृष्टिवनिं वृष्टियाचिनं । रराणो रातिरभ्यस्तो बृहस्पति ब्रह्मासीत् सोऽस्मै वाचमयच्छत् बृहदुपव्याख्यातं ॥ (*śaṃtanuḥ śaṃ tano 'stviti vā śamasyè tannā astvati vā | purohitaḥ puraḥ enaṃ dadhati | hotrāya vṛtaḥ kṛpāyamāṇo 'nvadhyāyat | devaśrutaṃ devā enaṃ śṛṇvaṃti | vṛṣṭivaniṃ vṛṣṭiyācinaṃ | rarāṇo rātirabhyasto bṛhaspati brahmāsīt so 'smai vācamayacchat bṛhadupavyākhyātaṃ ‖*) (Ni. 2-12)**NOTE**
+
+शंतनुः शं तनोऽस्त्व वा शमस्मै तन्ना अस्त्विति (*śaṃtanuḥ śaṃ tano 'stva vā śamasmai tannā astviti*)—The reason this king has the name Śantanu: seeing a man suffering from disease, he addressed his body: "O body afflicted by disease, may you be well", and so he got the name Śantanu. Or else: śam means happiness, tanu means body; since he wishes that this body may always have happiness, the name is Śantanu.
+
+पुरोहितः पुर एनं दधति (*purohitaḥ pura enaṃ dadhati*)—In sacrificial and other domestic rites the sacrificers seat him in front of everyone. Because he is placed before all (or before the fire) for carrying out the rite, the name purohita has arisen.
+
+होत्राय वृतः कृपायमाणोऽन्वध्यायत् (*hotrāya vṛtaḥ kṛpāyamāṇo 'nvadhyāyat*)—This Devapi, requested to take the part of the priest called hotṛ in the sacrifice performed for the sake of rain, made the sacrificial fire blaze and praised with stotras and the like.
+
+### Printed p. 113
+देवश्रुतं देवा एनं शृण्वंति (*devaśrutaṃ devā enaṃ śṛṇvaṃti*)—The gods hear this Devapi, who recites hymns addressed to the gods; that is, the gods listen to Devapi's praise.
+
+रराणः रातिरभ्यस्तः (*rarāṇaḥ rātirabhyastaḥ*)—The word rarāṇa is formed from the root रा दाने (*rā dāne*). The syllable ra is recited twice (reduplicated). Rarāṇaḥ means giving, giving rain.
+
+बृहस्पतिर्ब्रह्मासीत् सोऽस्मै वाचमयच्छत् बृहदुपव्याख्यातं ॥ (*bṛhaspatirbrahmāsīt so 'smai vācamayacchat bṛhadupavyākhyātaṃ ‖*) In the sacrifice Devapi was performing for rain, Bṛhaspati was the priest called brahman. Therefore he taught Devapi the mantra (vācam) that prays to the gods for rain. Since Devapi was a kṣatriya, he might not know the mantras to be recited by the hotṛ; the meaning is that Bṛhaspati told them to him. The derivation of the word bṛhat has been stated earlier.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॑ दे॒वापिः॑ शुशुचा॒नो अ॑ग्न आर्ष्टिषे॒णो म॑नु॒ष्यः॑समी॒धे ।  
+> विश्वे॑भिर्दे॒वैर॑नुम॒द्यमा॑नः॒ प्र स॒र्जन्य॑मीरया वृष्टि॒मंतं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । त्वा । देवआपिः । शुशुचानः । अग्ने । आर्ष्टिषेणः । मनुष्यः । संईधे ।  
+> विश्वेभिः । देवैः । अनुमद्यमानः । प्र । पर्जन्यं । ईरय । वृष्टिमंतं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यं त्वा त्वां शशुचानः स्तोत्रेण ज्वलन् मनुष्य आर्ष्टिषेणो
+> देवापिः समाधे सम्यग्दीपयति स त्वं विश्वेभिः सर्वैर्देवैरनुमद्यमानोऽनुमाद्यमानः सन् पर्जन्यं मेघं वृष्टिमंतं वर्षणवंतं प्रेरय । गमय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you whom the man Devapi Āṛṣṭiṣeṇa, blazing with his praise, kindles well: being gladdened along with all the gods, send forth Parjanya, the cloud, rain-bearing, to go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यं त्वा (*yaṃ tvā*)—you whom
+- शुशुचानः (*śuśucānaḥ*)—he who makes you shine by his praise
+- मनुष्यः (*manuṣyaḥ*)—the man
+- आर्ष्टिषेणः (*ārṣṭiṣeṇaḥ*)—the son of Ṛṣṭiṣeṇa
+
+### Printed p. 114
+- देवापिः (*devāpiḥ*)—Devapi
+- समाधे (*samādhe*)—caused to blaze; you who were so
+- विश्वेभिः देवैः (*viśvebhiḥ devaiḥ*)—together with all the gods
+- अनुमद्यमानः (*anumadyamānaḥ*)—rejoicing
+- पर्जन्यं (*parjanyaṃ*)—Parjanya
+- वृष्टिमंतं (*vṛṣṭimaṃtaṃ*)—so as to pour rain
+- प्र ईरय (*pra īraya*)—impel
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you whom Devapi, the man, the son of Ṛṣṭiṣeṇa, making you shine by his praise, has kindled: being such, rejoicing together with all the gods, impel Parjanya to pour rain.
+
+##### English translation
+Agni, whom the mortal Devapi, the son of Rishtishena, lighting you, has kindled, do you, being propitiated with all the gods, send down the rain laden cloud.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां पूर्व॒ ऋष॑यो गी॒र्भिरा॑य॒न्वाम॑ध्व॒रेषु॑ पुरहूत॒  ॑
+> विश्वे ।  
+> स॒हस्रा॒ण्यधि॑रथान्य॒स्मे आ नो॑ य॒ज्ञं रो॑हिद॒श्वोप॑ याहि ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । पूर्वे । ऋषयः । गीर्भिरायन्वामध्वरेषु । पुरहूत । विश्वे ।  
+> सहस्राणि । अधिरथानि । अस्मे इति । आ । नः । यज्ञं । रोहित्अश्व । उप । याहि॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां पूर्व ऋषयो गीर्भिः स्तुतिभिरायन् । आगच्छन् । तथा हे
+> पुरुहूत बहुभिराहूताग्ने विश्वे सर्वॆऽपीदानींतना यजमाना अध्वरेषु
+> यज्ञेषु स्तुतिभिर्गच्छंतीति शेषः । किंच सहस्राणि सहस्रसंख्याकानि गोयूथान्यधिरथानि रथाधिकान्यस्मे अस्माकं शंतनुना दक्षिणात्वेन संकल्पितानि भवंत्विति शेषः । हे
+> रोहिदश्व नो यज्ञमुप याहि । उपागच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the ancient seers came to you with hymns of praise. Likewise, O Agni invoked by many (puruhūta), all present-day sacrificers go to you with praises in the sacrifices (this is the word to be supplied). Further, may the thousands of herds of cattle, with chariots in addition, be designated by Śantanu as dakṣiṇā for us (to be supplied). O Agni of red horses, come to our sacrifice.
+
+### Printed p. 115
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) त्वां (*tvāṃ*)—you
+- पूर्व ऋषयः (*pūrva ṛṣayaḥ*)—all the former seers
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- आयन् (*āyan*)—have resorted to
+- पुरुहूत (*puruhūta*)—O Agni, who deserve the invocation of many
+- विश्वे (*viśve*)—all present sacrificers too
+- अध्वरेषु (*adhvareṣu*)—resort to you alone in the sacrifices
+- रोहिदश्व (*rohidaśva*)—O Agni, with golden-coloured horses
+- सहस्राणि (*sahasrāṇi*)—thousands of cattle
+- अधिरथानि (*adhirathāni*)—riches loaded on the chariot
+- अस्मे (*asme*)—give to us
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- उप याहि (*upa yāhi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, all the former seers have resorted to you with their praises. O Agni, who deserve the invocation of many, all present sacrificers too resort to you alone in the sacrifices. O Agni of golden-coloured horses, give us thousands of cattle and riches loaded on chariots. Be pleased to come to our sacrifice.
+
+##### English translation
+You have ancient sages approached, with hymns; you, O invoked of many, all worshippers (address) at sacrifices; (gives) us thousands of chariot-oads, come to our sacrifice, lord of red horses
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तान्य॑ग्ने नव॒तिर्नव॒ त्वे आहु॑ता॒न्यधि॑रथा स॒हस्रा॑ ।  
+> तेभि॑र्वर्धस्व त॒न्वः॑ शूर पू॒र्वीर्दि॒वो नो॑ वृ॒ष्टिमि॑षि॒तो  ॑
+> रिरीहि ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतानि । अग्ने । नवतिः । नव । त्वे इति । आहुतानि । अधिरथा । सहस्रा ।  
+> तेभिः । वर्धस्व । तन्वः । शूर । पूर्वीः । दिवः । नः । वृष्टिं । इषितः । रिरीहि ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 109. pp. 104-109 (batch API)
+**Progress note:** Done through printed p. 115. pp. 110-115 (batch API)
