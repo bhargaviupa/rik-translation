@@ -1842,6 +1842,241 @@ In the Niṣkevalya śastra mantras, the pragātha beginning नकिष्ट�
 > अषा॑ळ्हमु॒ग्रं पृत॑नासु सास॒हिं यस्मि॑न्म॒हीरु॑रु॒ज्रयः॑ ।  
 > सं धे॒नवो॒ जाय॑माने अनोनवु॒र्द्यावः॒ क्षामो॑ अनोनवुः ॥ ४ ॥
 
+### Printed p. 49
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अषाळ्हम् । उग्रम् । पृतनासु । ससहिम् । यस्मिन् । महीः । उरुऽज्रयः ।  
+> सम् । धेनवः । जायमाने । अनोनवुः । द्यावः । क्षामः । अनोनवुः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अषाळ्हम् असोढम् उग्रम् उद्गूर्णबलं पृतनासु शत्रुसेनासु सासहिम् अभिभवितारं स्तौमीत्यर्थः । यस्मिन् इंद्रे जायमाने महीः महत्यः उरुज्रयः बहुवेगाः धेनवः हविरादिना प्रीणयित्र्यः प्रजा गाव एव वा सम् अनोनवुः समस्तुवन् । न केवलं धेनव एव अपि तु द्यावः द्युलोकाः क्षामः पृथिव्यश्च सम् अनोनवुः । तत्रत्याः सर्वे प्राणिनो नमंत इत्यर्थः।  ‘ त्रिवृतो लोकाः (ऐ. ब्रा. २. १७) इति श्रुतेर्बहुवचनम् ॥
+> तृतीयेऽहनि निष्केवल्ये वैरूपसामपक्षे ‘यद्द्यावः' इति प्रगाथः स्तोत्रियः । सूत्रितं च -- ‘यद्याव इंद्र ते शतं यदिंद्र यावतस्त्वमिति प्रगाथौ स्तोत्रियानुरूपौ' (आश्व. श्रौ. ७. १०) इति ॥
+
+##### Gist of the bhāṣya
+
+I praise the one who cannot be overcome, the fierce, whose strength is upraised, the conqueror in the battles, that is, in the armies of enemies. In whom, Indra, at his birth, the great and swift cows, that is, the creatures who gratify with oblations and the like, or the cows themselves, praised together; and not only the cows, but also the heavens and the earths praised together; all beings dwelling there bow. The plural is due to the śruti त्रिवृतो लोकाः (*trivṛto lokāḥ*) (Ai. Brā. 2. 17) **GLOSS**.
+
+On the third day, in the Niṣkevalya śastra, in the alternative of the Vairūpa sāman, the pragātha beginning यद्द्यावः (*yaddyāvaḥ*) is the stotriya. The sūtra states: यद्याव इंद्र ते शतं यदिंद्र यावतस्त्वमिति प्रगाथौ स्तोत्रियानुरूपौ (*yadyāva iṃdra te śataṃ yadiṃdra yāvatastvamiti pragāthau stotriyānurūpau*) (Āśvalāyana Śrauta Sūtra 7. 10) **GLOSS** **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—the Indra who
+- जायमाने (*jāyamāne*)—at the very moment of his birth
+- महीः (*mahīḥ*)—great in nature
+- उरुज्रयः (*urujrayaḥ*)—and of great speed
+- धेनवः (*dhenavaḥ*)—the cows
+- समुनोनवुः (*samunonavuḥ*) **NOTE**—praised
+- द्यावः (*dyāvaḥ*)—and the heavens
+- क्षामः (*kṣāmaḥ*)—and the earth, joining together
+- अनोनवुः (*anonavuḥ*)—bowed
+- अषाळ्हं (*aṣāḷhaṃ*)—the unobstructed
+- उग्रं (*ugraṃ*)—the fierce
+- पृतनासु (*pṛtanāsu*)—amid the hostile armies
+- सासहिं (*sāsahiṃ*)—of surpassing strength, that Indra (I praise)
+
+##### भावार्थ (Bhāvārtha)
+
+I praise that unobstructed, fierce Indra, of surpassing strength amid the hostile armies, whom, at the very moment of his birth, the cows, great in nature and of great speed, praised, and whom the heavens and the earth, joining together, bowed to.
+
+##### English translation
+(I laud) him who is not to be withstood, the mighty, the conqueror in hostile hosts ; whom, when he was born, the strong rushing cows wel-comed and the heavens and the earths praised.
+
+### Printed p. 50
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्द्याव॑ इंद्र ते श॒तं श॒तं भूमी॑रु॒त स्युः ।  
+> न त्वा॑ वज्रिन्स॒हस्रं॒ सूर्या॒ अनु॒ न जा॒तम॑ष्ट॒ रोद॑सी ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । द्यावः । इंद्र । ते । शतम् । शतम् । भूमीः । उत । स्युरिति स्युः ।  
+> न । त्वा । वज्रिन् । सहस्रम् । सूर्याः । अनु । न । जातम् । अष्ट । रोदसी इति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव प्रतिमानार्थं यत् यदि द्यावः द्युलोकाः स्युः तथापि नाश्नुवंति । उत अपि च भूमीः भूम्यस्ते तव मूर्तिप्रतिबिंबाय शतं स्युः तथापि नाश्नुवंति । हे वज्रिन् त्वा त्वां सहस्रं सूर्याः अगणिता अपि सूर्याः न अनु भवंति । न प्रकाशयंतीत्यर्थः। ‘न तत्र सूर्यो भाति' ( क. उ. ५. १५) इति श्रुतेः । किं बहुना । जातं पूर्वमुत्पन्नं किंचन न अष्ट नाश्नुते । तथा रोदसी द्यावापृथिव्यौ नाश्नुवाते । सर्वेभ्योऽतिरिच्यस इत्यर्थः। ‘ज्यायान्पृथिव्या ज्यायानंतरिक्षाज्ज्यायांदिवो ज्यायानेभ्यो लोकेभ्यः' (छा. उ. ३. १४. ३) इति श्रुतेः ॥ ॥ ८ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, to match you, even if there were a hundred heavens, they would not reach you; and even if there were a hundred earths for the image of your form, they would not reach you. O wielder of the thunderbolt, even a thousand suns, uncounted, do not shine upon you, that is, they do not illumine you, as the śruti says न तत्र सूर्यो भाति (*na tatra sūryo bhāti*) (Ka. U. 5. 15) **GLOSS** **NOTE**. What more: nothing born earlier reaches you, and heaven and earth do not reach you; you surpass all, as the śruti says ज्यायान्पृथिव्या ज्यायानंतरिक्षाज्ज्यायांदिवो ज्यायानेभ्यो लोकेभ्यः (*jyāyānpṛthivyā jyāyānaṃtarikṣājjyāyāṃdivo jyāyānebhyo lokebhyaḥ*) (Chā. U. 3. 14. 3) **GLOSS**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—to compare with you
+- यत् (*yat*)—if
+- शतं (*śataṃ*)—in the number of a hundred
+- द्यावः (*dyāvaḥ*)—heavens
+- स्युः (*syuḥ*)—there were
+- उत (*uta*)—and
+- शतं भूमिः (*śataṃ bhūmiḥ*)—a hundred earths there were (they could not equal you)
+- वज्रिन् (*vajrin*)—O Indra, wielder of the thunderbolt
+- त्वा (*tvā*)—you
+- सहस्रं (*sahasraṃ*)—a thousand
+- सूर्याः (*sūryāḥ*)—suns also
+- न अनु (*na anu*)—cannot match your brightness
+
+### Printed p. 51
+
+- जातं (*jātaṃ*)—nothing that is born
+- न अष्ट (*na aṣṭa*)—can pervade you
+- रोदसी (*rodasī*)—heaven and earth also cannot pervade you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, to compare with you, even if there were a hundred heavens or a hundred earths, they could not equal you. O Indra, wielder of the thunderbolt, even a thousand suns could not match your brightness (all of them are lit by you). Nothing that is born, nor heaven and earth, can pervade you.
+
+##### English translation
+Indra, were there one hundred heavens to compare with you, or were there one hundred earths,—O thunderer, not even a thousand suns would reveal you,—yes, no created thing would fill you, nor heaven and earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the third day of the sacrifice, when the Niṣkevalya śastra mantras are recited **NOTE**, in the alternative of the Vairūpa sāman, this pragātha beginning यद्द्यावः (*yaddyāvaḥ*) (ṛks 5 and 6) is to be recited as a stotriya pragātha **NOTE**, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra यद्द्याव इंद्र ते शतं यदिंद्र यावतस्त्वमिति प्रगाथौ स्तोत्रियानुरूपौ (*yaddyāva iṃdra te śataṃ yadiṃdra yāvatastvamiti pragāthau stotriyānurūpau*) (Ā. 7-10).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑प्राथ महि॒ना वृष्ण्या॑ वृष॒न्विश्वा॑ शविष्ठ॒ शव॑सा ।  
+> अ॒स्माँ अ॑व मघव॒न्गोम॑ति व्र॒जे वज्रिं॑चि॒त्राभि॑रू॒तिभिः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पप्राथ । महिना । वृष्ण्या । वृषन् । विश्वा । शविष्ठ । शवसा ।  
+> अस्मान् । अव । मघऽवन् । गोऽमति । व्रजे । वज्रिन् । चित्राभिः । ऊतिऽभिः ॥ ६ ॥
+
+### Printed p. 52
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् अभिमतवर्षकेंद्र त्वम् आ पप्राथ आपूरयसि व्याप्नोषि । कानि। विश्वा सर्वाणि वृष्ण्या वर्षकाणि बलानि शत्रुसंबंधीनि । केन साधनेन । महिना महता शवसा बलेन स्वीयेन । अथवा वृष्ण्येत्येतच्छवोविशेषणम्। तथा सति अभिमतवर्षकेण महता बलेनास्मदीयानि बलानि पूरयसीत्यर्थः । अथ तथा कृत्वा अस्मान् गोमति बहुभिर्गोभिर्युक्ते व्रजे शत्रुसंबंधिनि निमित्ते सत्यस्मान् अव हे वज्रिन् वज्रयुक्तेंद्र। कैः साधनैः। चित्राभिः नानाविधैः ऊतिभिः रक्षणैरिति ॥
+
+##### Gist of the bhāṣya
+
+O showerer, Indra, who rains down what is desired, you fill, that is, pervade, all the showering powers belonging to the enemies, by your own great strength. Or else the word showering is an adjective of strength: then the meaning is that with your great strength, which showers what is desired, you fill our powers. Having done so, O wielder of the thunderbolt, protect us when there is occasion, in the enemy's cowpen rich in many cows, with manifold protections.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठ (*śaviṣṭha*)—O Indra, most mighty
+- वृषन् (*vṛṣan*)—and showerer of desires
+- महिना (*mahinā*)—great
+- शवसा (*śavasā*)—by your strength
+- विश्वा (*viśvā*)—all
+- वृष्ण्या (*vṛṣṇyā*)—the army belonging to the enemy
+- आ पप्राथ (*ā paprātha*)—you have pervaded and overcome
+- मघवन् (*maghavan*)—O wealthy one
+- वज्रिन् (*vajrin*)—O Indra, wielder of the thunderbolt
+- गोमति (*gomati*)—full of cows
+- व्रजे (*vraje*)—in the cowpens of the enemies (when we go to win those cows)
+- अस्मान् (*asmān*)—us
+- चित्राभिः (*citrābhiḥ*)—manifold
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- अव (*ava*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, most mighty and showerer of desires, by your great strength you have pervaded and overcome all the hostile armies. O wealthy one, wielder of the thunderbolt, when we go to win cows in the enemy's cowpens full of cows, protect us with manifold protections.
+
+##### English translation
+Mightiest showerer (of blessings), you have filled all (our hosts) with your vast bountiful power ; O Maghavan, thunderer, guard us with your manifold protections, (when we march) against the well-stocked cowpen of our enemies.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न सी॒मदे॑व आप॒दिषं॑ दीर्घायो॒ मर्त्यः॑ ।  
+> एत॑ग्वा चि॒द्य एत॑शा यु॒योज॑ते॒ हरी॒ इंद्रो॑ यु॒योज॑ते ॥ ७ ॥
+
+### Printed p. 53
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । सीम् । अदेवः । आपत् । इषम् । दीर्घायो इति दीर्घऽआयो । मर्त्यः ।  
+> एतऽग्वा । चित् । यः । एतशा । युयोजते । हरी इति । इंद्रः । युयोजते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दीर्घायो नित्येंद्र सः अदेवः इंद्राख्यदेवरहितः मर्त्यः मरणधर्मा मनुष्यः सीं सर्वम् इषम् अन्नं न आपत् न प्राप्नोति । यः मर्त्योऽस्येंद्रस्य एतग्वा चित् । एतवर्णावेवाश्वौ भवतोऽभिमतदेशगमनाय । एतशा एतशावश्वौ युयोजते योजयति रथे यज्ञं गंतुम् । यश्च इंद्रः हरी युयोजते तं न यः स्तौति । स न प्राप्नोतीति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O long-lived, eternal Indra, that mortal who is godless, without the god called Indra, does not obtain all food. The mortal who yokes to the chariot, to go to the sacrifice, the two steeds of this Indra, which are of the colour called eta, for going to the desired place, and the Indra who yokes the two bay steeds: whoever does not praise him does not obtain. Such is the construction. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीर्घायो (*dīrghāyo*)—O Indra, of eternal life
+- यः (*yaḥ*)—you who
+- एतग्वा चित् (*etagvā cit*)—of manifold colour
+- एतशा (*etaśā*)—the steeds **NOTE**
+- युयोजते (*yuyojate*)—you join to your chariot
+- (यः) इंद्रः (*(yaḥ) iṃdraḥ*)—you, the lord, who
+- हरी (*harī*)—the steeds called Hari
+- युयोजते (*yuyojate*)—you join to the chariot (without praising such a one as you)
+- अदेवः (*adevaḥ*)—who does not regard you as a god
+- मर्त्यः (*martyaḥ*)—the man
+- सीं (*sīṃ*)—certainly everywhere
+- इषं (*iṣaṃ*)—food
+- न आपत् (*na āpat*)—does not obtain at all
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of eternal life, you who join to your chariot the steeds of manifold colour, you, the lord, who join the steeds called Hari to the chariot: the man who does not praise such a one as you and does not regard you as a god certainly obtains food nowhere.
+
+##### English translation
+O long-lived Indra, the mortal who has not you as his deity obtains no food ; (he who praises not) that steed-borne Indra, who yokes to his car the two variegated, who yokes the two bay steeds.
+
+### Printed p. 54
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वो॑ म॒हो म॒हाय्य॒मिंद्रं॑ दा॒नाय॑ स॒क्षणि॑म् ।  
+> यो गा॒धेषु॒ य आर॑णेषु॒ हव्यो॒ वाजे॒ष्वस्ति॒ हव्यः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । वः । महः । महाय्यम् । इंद्रम् । दानाय । सक्षणिम् ।  
+> यः । गाधेषु । यः । आऽअरणेषु । हव्यः । वाजेषु । अस्ति । हव्यः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः महः महांतः वः यूयं तं महाय्यं पूज्यम् इंद्र दानाय सक्षणिं सचमानं परिचरतेति शेषः । यः इंद्रः गाधेषु उदकेषु हव्यः अस्ति आह्वातव्यो भवति । यः च आरणेषु गंतव्येषु निम्नेषूदकेषु स्थलेषु वा हव्योऽस्ति । तथा वाजेषु संग्रामेषु जयाय हव्यः ह्वातव्योऽस्ति भवति ॥
+
+##### Gist of the bhāṣya
+
+O priests, you who are great, serve that adorable Indra, who accompanies for the sake of giving; the verb "serve" is to be supplied. The Indra who is to be invoked in shallows, that is, in waters; who is to be invoked in the āraṇas, that is, in low places to be traversed, waters or lands; and who is to be invoked in the battles, for victory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) यः (*yaḥ*)—the Indra who
+- गाधेषु (*gādheṣu*)—in the waters
+- हव्यः (*havyaḥ*)—is called upon for help
+- अस्ति (*asti*)—is
+- यः (*yaḥ*)—who
+- आरणेषु (*āraṇeṣu*)—in low places difficult to traverse
+- वाजेषु (*vājeṣu*)—and in battles
+- हव्यः (*havyaḥ*)—is called upon
+- तं (*taṃ*)—that famous
+- महाय्यं (*mahāyyaṃ*)—adorable
+- दानाय (*dānāya*)—for the sake of giving
+- सक्षणिं (*sakṣaṇiṃ*)—and ever accompanying
+- इंद्रं (*iṃdraṃ*)—Indra
+- महः (*mahaḥ*)—great in noble qualities
+- वः (*vaḥ*)—you (worship)
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, you who are of great qualities, worship that famous, adorable Indra, who is called upon for help in the waters, who is called upon in low places difficult to traverse and in battles, and who accompanies for the sake of giving.
+
+##### English translation
+Great (priests), worship that Indra who is propitiated by gifts ; who is to be invoked in the shallows and in the depths, and who is to be invoked in battles.
+
 ---
 
-**Progress note:** Done through printed p. 48. Sukta 69 end (Rk 18), Sukta 70 Rks 1-3, start of Rk 4
+**Progress note:** Done through printed p. 54. Sukta 70 Rks 4-8
