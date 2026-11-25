@@ -475,6 +475,8 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 4. The bhāṣya from the wiki source is placed in the volume's Sāyaṇa-bhāṣya document and the Sāyaṇa-bhāṣya book is made (K9).
 5. The human readings of Part J that belong to this stage (HR1–HR3).
 
+6. *Settled Nov 24–25 2026 (Vols 6 and 1):* the readers' findings are not put to the editor as questions: a Kannada misprint with the English kept and any other doubt are decided by rule and listed (`kn_misprints.tsv`, `decided_by_default.tsv`); the Sanskrit lines of the English are not edited (derived data, K9, B1.2); numbers come from the supplied Kannada and a number the print lacks is removed; one report format (`docs/SECOND_PASS_REPORT.md`). See CLAUDE.md "Second pass of a legacy volume".
+
 ### I7. Not built yet
 The packets, the findings file, the marks of I3.4, the instructions for R2–R6, and the measurements of I5. Until they are, D2 is carried out by hand or by the Vol 12 method.
 
