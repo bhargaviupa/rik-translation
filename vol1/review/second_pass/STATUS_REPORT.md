@@ -2,14 +2,14 @@
 *Made by `python3 tools/rv/sp_report.py 1` from `findings.tsv`, `questions.tsv`, `batches.tsv`, `open.tsv`; updated 2026-11-25. Format: `docs/SECOND_PASS_REPORT.md`.*
 
 ## 1. State
-- **Stage:** S2 reading in page batches
+- **Stage:** S0–S6 done; S2 reading complete (pp. 1–720)
 - **Pages read:** 720 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–609, 610–664, 665–720)
-- **Findings:** 1812 — applied 1548, questions 264; edits ok 1553, failed 0
-- **Reader tokens (batches so far):** 6401k; per page 8.9k
+- **Findings:** 1812 — applied 1548, kept/not applied 264 (English kept: misprints and doubts settled by rule; see part 5); edits ok 1553, failed 0
+- **Reader tokens (batches so far):** 6845k; per page 9.5k
 - **Last commit:** f64f3d4
 
 ## 2. Batches
-| Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
+| Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
 |---|---|---|---|---|---|---|---|---|
 | pilot | 360–369 | 73 | 52 | 31 / 0 | 21 | 169k | f594e7e | pilot; 52 edits first applied, then 21 Devanagari edits (and 6 IAST partners) reverted by the new sp_sanskrit gate, 6 re-applied after the word-join refinement: net 31 English edits stand; 15 citation lines are questions; English not page-aligned to the Kannada on these pages (judged by content) |
 | 2 | 1–30 | 134 | 110 | 110 / 0 | 24 | 349k | b195d7a | 110 edits (31 S7 via sp_sanskrit, 20 S13 names, ~30 numbers, ~25 sense); English not page-aligned (Page 4 carries Kannada 4–6, Page 10 carries 10–11, Page 15–16 combined, pp. 17–24 'gap filled' block); numbers taken as printed that look odd are in open.tsv; three longer rewrites on pp. 2, 9, 30 for re-reading |
@@ -33,10 +33,10 @@
 | 20 | 550–579 | 94 | 86 | 86 / 0 | 8 | 297k | 6b48ee4 | 86 edits (about 60 S14 sense incl. accent/vowel descriptions on pp. 550–553, l/r reversed on p. 566, Vararuchi/Patañjali on p. 564; S15 attributions; about 12 additions removed; 4 numbers incl. p. 562 '10-20-2' and p. 569 'page 40' applied as printed, open.tsv); pp. 573–574: p. 573 sits inside the p. 572 block and matches English Page 573, p. 574 has no Kannada text (English kept); many pages are Sanskrit with embedded English only (554, 558–562, 576–577) |
 | 21 | 580–609 | 61 | 51 | 51 / 0 | 10 | 279k | e461bed | 51 edits (about 21 S16 invented paragraphs removed, five whole paragraphs on p. 585 and one on p. 590; about 20 S14 reversed senses incl. pp. 584, 592, 597, 601; 4 numbers incl. Riks 'two padas' on p. 598; S13, S17); pp. 594–595 have no Kannada text and no English section; pp. 606–609 Sanskrit blocks only (English prose summaries kept); p. 583 reference 1-321 applied as printed (open.tsv) |
 | 22 | 610–664 | 55 | 40 | 40 / 0 | 15 | 405k | eb71d74 | 40 edits (11 S14, 11 numbers, 9 S13, 3 S16, 2 S15): roles reversed on p. 639 (Bhāvārtha) and Bharadvāja/Bṛhaspati on p. 641; '97 sūktas' → 191 on p. 650 per the Kannada; Ṛk layout: Saṃhitā/Pada/bhāṣya blocks skipped, the English grammar notes are summaries of Sanskrit sūtra material (not edited); Kannada p. 651 absent: its text sits under the p. 650 mark and matches English Page 651; English p. 620 holds a derivation that the Kannada gives on p. 621 |
-| 23 | 665–720 | 116 | 112 | 112 / 0 | 4 | TOK22 | f64f3d4 | 112 edits (about 40 S14, 26 numbers [?]→Kannada numerals, 9 S13, 9 S16, 4 S15, 5 S2 header-derived numbers removed, 6 S1); fires/oblation counts on p. 666, birds' calls on p. 670 reversed, elevation 2000→7000 ft on p. 675, printer on p. 715 S.R.→Y.R. Rangarao; p. 705 English carries a Pratipadārtha/Bhāvārtha that the Kannada prints on p. 706; p. 716 not in the supplied text; pp. 716–720: colophon and mantra index (Sanskrit) not compared; Pāṇini 21-2 (p. 709) and 6-1-233 (p. 715) applied as printed |
+| 23 | 665–720 | 116 | 112 | 112 / 0 | 4 | 444k | f64f3d4 | 112 edits (about 40 S14, 26 numbers [?]→Kannada numerals, 9 S13, 9 S16, 4 S15, 5 S2 header-derived numbers removed, 6 S1); fires/oblation counts on p. 666, birds' calls on p. 670 reversed, elevation 2000→7000 ft on p. 675, printer on p. 715 S.R.→Y.R. Rangarao; p. 705 English carries a Pratipadārtha/Bhāvārtha that the Kannada prints on p. 706; p. 716 not in the supplied text; pp. 716–720: colophon and mantra index (Sanskrit) not compared; Pāṇini 21-2 (p. 709) and 6-1-233 (p. 715) applied as printed |
 
 ## 3. Findings by kind
-| Kind | Applied | Questions | Total |
+| Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
 | S14 | 413 | 8 | 421 |
 | S7 | 359 | 22 | 381 |
@@ -140,4 +140,4 @@ Settled by rule, no reading needed: 261 Kannada misprints where the English is k
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
 
 ## 7. Next
-the next page batch; then S3 totals (re-run the S0 checks), S4 coverage, S5 pictures, S6 records
+editor: the open items; the scholar sample of decided_by_default.tsv; the pages absent in the supplied text (215, 345, 372–373 English, 594–595, 716); S7 is not part of this pass

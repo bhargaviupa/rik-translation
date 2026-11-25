@@ -24,3 +24,17 @@ Pages with most flagged places: 198 (89), 191 (61), 201 (51), 197 (49), 203 (48)
 
 ## d. Size of S2
 475 of 715 compared pages carry at least one flagged place. S2 is a full read of 720 pages (about 24 batches of 30; Vol 6 cost 8.6k tokens a page).
+
+## S3 addendum — before and after (Nov 25 2026, after the last batch)
+| Check (`recheck.py 1`, same tool) | S0 | After S2 repairs |
+|---|---|---|
+| `[?]` in the English | 116 on 73 pages | 106 on 66 pages (108 by a plain count) |
+| Devanagari quotations that differ | 421 on 230 pages | 390 on 221 pages (Sanskrit lines were not edited by this pass: derived data) |
+| References only in the English | 521 on 171 pages | 475 on 146 pages |
+| References only in the supplied text | 796 on 143 pages | 783 on 129 pages |
+| Plain numbers only in the English | 613 on 186 pages | 573 on 165 pages |
+| Pages with none of these | 245 | 272 |
+| `recheck_numbers.py` manual | 488 | 443 (1 anchored correction applied) |
+| Reference names (`refs_apply.py 1 --write`) | 178 English + 206 Kannada places | written: Kannada 206, English 2; preview now empty |
+| Other scripts in the English | 1 Cyrillic letter (p. 562) | 0 (replaced) |
+| Legacy marks `[?]` / `[sic]` / "as read" / "as printed" | 118 / 14 / 93 / 136 | 108 / 14 / 91 / 127 |

@@ -9330,7 +9330,7 @@ How could it be otherwise? Examining a sentence's preceding and following contex
 
 > "Is the Veda of human origin? Yes, since it is known by titles such as Kathaka, and since it is made up of sentences that have the same nature as other sentences." — "No: these titles refer to men who taught the Veda, not composed it. And that other argument has already been refuted by the fact that no author's name is mentioned."
 
-**A doubt then arises:** hasn't the holy Badarayana himself stated that the Veda is the work of Brahman? — "śāstra-yonitvāt" (Vedanta Sutra 1-1-3), meaning Brahman is omniscient, having created the Rigveda and all other shastras. Granted — but this doesn't establish the Veda's *human* origin; it was not made by a [mere embodied] person. This same Badarayana, in the Devatā-adhikaraṇa section, establishes that for all beings who have not attained final liberation, the Veda is eternal, like the sky itself — "ata eva ca nityatvam" (Ve. Sū. 1-3-29) ("and for this very reason, its eternality follows").
+**A doubt then arises:** hasn't the holy Badarayana himself stated that the Veda is the work of Brahman? — "śāstra-yonitvāt" (Vedanta Sutra 1-1-3), meaning Brahman is omniscient, having created the Rigveda and all other shastras. Granted — but this doesn't establish the Veda's *human* origin; it was not made by a [mere embodied] person. This same Badarayana, in the Devatā-adhikaraṇa section, establishes that for all beings who have not attained final liberation, the Veda is eternal, like the sky itself — "ata eva ca nityatvam" (Ve. Sū. 1-2-29) ("and for this very reason, its eternality follows").
 
 **Both Shruti and Smriti confirm this:**
 
@@ -15627,7 +15627,7 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 ### Page 695
 
-**...that is, "mitraṃ huve," the sukta's [seventh] Rik, is the first of three Riks concerning Mitra-Varuṇa (the 7th, 8th and 9th Riks of this sukta).** These Riks are applied, at the beginning of the Sattra called Gavāmayana, in the morning-pressing rite of the twenty-fourth day, when Mitra and Varuṇa are praised; they are applied also in the six-day Soma-yaga called Abhiplava-ṣaḍaha. **Āśvalāyana, in the twenty-fourth section of his Shrauta-sutra beginning "hotā-jani...," states the application of the two Riks beginning with "mitra" (Āśv. Sū. 7-2);** and he states it again in the section on the Abhiplava and Pṛṣṭhya rites (Āśv. Sū. 7-5).
+**...that is, "mitraṃ huve," the sukta's [seventh] Rik, is the first of three Riks concerning Mitra-Varuṇa (the 7th, 8th and 9th Riks of this sukta).** These Riks are applied, at the beginning of the Sattra called Gavāmayana, in the morning-pressing rite of the twenty-fourth day, when Mitra and Varuṇa are praised; they are applied also in the six-day Soma-yaga called Abhiplava-ṣaḍaha. **Āśvalāyana, in the twenty-fourth section of his Shrauta-sutra beginning "hotā-jani...," states the application of the two Riks beginning with "mitra" (Ā. Sū. 7-2);** and he states it again in the section on the Abhiplava and Pṛṣṭhya rites (Ā. Sū. 7-5).
 
 **॥ Vyākaraṇa-prakriyā ॥**
 

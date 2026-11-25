@@ -39,12 +39,12 @@ def main():
     L=[f'# Vol {vol} second pass — status report',f'*Made by `python3 tools/rv/sp_report.py {vol}` from `findings.tsv`, `questions.tsv`, `batches.tsv`, `open.tsv`; updated {datetime.date.today().isoformat()}. Format: `docs/SECOND_PASS_REPORT.md`.*','',
        '## 1. State',f'- **Stage:** {opt("--stage","S2 reading in page batches")}',
        f'- **Pages read:** {len(pages)}{tot} ('+(', '.join(f"{b['first']}–{b['last']}" for b in B) if B else 'none yet')+')',
-       f'- **Findings:** {len(F)} — applied {len(ap)}, questions {len(qs)}; edits ok {N("edits_ok")}, failed {N("edits_failed")}',
+       f'- **Findings:** {len(F)} — applied {len(ap)}, kept/not applied {len(qs)} (English kept: misprints and doubts settled by rule; see part 5); edits ok {N("edits_ok")}, failed {N("edits_failed")}',
        f'- **Reader tokens (batches so far):** {tk:.0f}k'+(f'; per page {tk/len(pages):.1f}k' if pages else ''),
        f'- **Last commit:** {B[-1]["commit"] if B else "—"}','',
-       '## 2. Batches','| Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |','|---|---|---|---|---|---|---|---|---|']
+       '## 2. Batches','| Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |','|---|---|---|---|---|---|---|---|---|']
     for b in B: L.append(f"| {b['batch']} | {b['first']}–{b['last']} | {b['rows']} | {b['applied']} | {b['edits_ok']} / {b['edits_failed']} | {b['questions']} | {b['tokens']} | {b['commit']} | {b['note']} |")
-    L+=['','## 3. Findings by kind','| Kind | Applied | Questions | Total |','|---|---|---|---|']
+    L+=['','## 3. Findings by kind','| Kind | Applied | Kept / not applied | Total |','|---|---|---|---|']
     for k,n in sorted(kind.items(),key=lambda x:-x[1]): L.append(f'| {k} | {kapp[k]} | {n-kapp[k]} | {n} |')
     L+=['',f'By reader: '+', '.join(f'{k} {v}' for k,v in sorted(rdr.items())),'','## 4. Open items (not findings)']
     L+= [f"- **{o['kind']}** (pages {o['pages']}): {o['text']}" for o in O] or ['- none recorded']

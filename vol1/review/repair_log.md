@@ -1767,3 +1767,5 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 715 | `(9-42-6), the number given, "9-42-6," should be understood as: 9th Maṇḍala, 42nd Sūkta` → `(9-72-6), the number given, "9-72-6," should be understood as: 9th Maṇḍala, 72nd Sūkta` | SECOND-PASS S1: Kannada: 9-72-6; 9th mandala, 72nd sukta, 6th mantra |
 | 715 | `by Pro. S. R. Rangarao. 1947.` → `by Pro. Y. R. Rangarao. 1947.` | SECOND-PASS S13: Kannada: Pro: Y. R. Rangarao |
 | 715 | `ಪ್ರೊ: ಎಸ್. ಆರ್. ರಂಗರಾವ್` → `ಪ್ರೊ: ವೈ. ಆರ್. ರಂಗರಾವ್` | SECOND-PASS S13: Kannada: pro: vai. aar. rangaraav |
+| 475 | `1-3-29` → `1-2-29` | NUMBER the supplied text reads 1-2-29 (one digit differs; no other candidate on pages 474-476); 1 occurrence(s) on the page |
+- 2026-11-25: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en latin 2, kn kannada 206; every change is a row of review/refs_applied.tsv.

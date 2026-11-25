@@ -2,14 +2,14 @@
 *Made by `python3 tools/rv/sp_report.py 6` from `findings.tsv`, `questions.tsv`, `batches.tsv`, `open.tsv`; updated 2026-11-25. Format: `docs/SECOND_PASS_REPORT.md`.*
 
 ## 1. State
-- **Stage:** S2 reading in page batches
+- **Stage:** S3–S6 done; S2 reading complete
 - **Pages read:** 618 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–599, 600–619)
-- **Findings:** 1188 — applied 871, questions 317; edits ok 878, failed 0
+- **Findings:** 1188 — applied 871, kept/not applied 317 (English kept: misprints and doubts settled by rule; see part 5); edits ok 878, failed 0
 - **Reader tokens (batches so far):** 5301k; per page 8.6k
 - **Last commit:** f19b850
 
 ## 2. Batches
-| Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
+| Batch | Pages | Findings | Applied | Edits ok / failed | Kept / not applied | Tokens | Commit | Note |
 |---|---|---|---|---|---|---|---|---|
 | pilot | 300–309 | 24 | 15 | 17 / 0 | 9 | 248k | b7ae9b6 | read 139k + apply 109k; the English reading notes on pp. 304 and 309 translate the bhāṣya and were not read |
 | 1 | 2–31 | 86 | 35 | 43 / 0 | 51 | 304k | 2a611eb | most questions are Kannada misprints the English had silently put right (H29); pp. 7–8 are one English section (p. 7 edits filed under page 6) |
@@ -35,7 +35,7 @@
 | 22 | 600–619 | 62 | 49 | 49 / 0 | 13 | 188k | f19b850 | 28 S2 + 8 S3 number repairs, incl. the Dadhyañc/Manu numerals of pp. 616–618 settled from the Kannada ([?] marks removed; Kannada prints ೬-೬--೬-೧ read as 6-6-6-1); 10 R3/S13; no page shifts |
 
 ## 3. Findings by kind
-| Kind | Applied | Questions | Total |
+| Kind | Applied | Kept / not applied | Total |
 |---|---|---|---|
 | S2 | 304 | 1 | 305 |
 | H29 | 3 | 277 | 280 |
@@ -91,4 +91,4 @@ Settled by rule, no reading needed: 260 Kannada misprints where the English is k
 `vol6/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
 
 ## 7. Next
-the next page batch; then S3 totals (re-run the S0 checks), S4 coverage, S5 pictures, S6 records
+editor: open items; scholar sample of decided_by_default.tsv
