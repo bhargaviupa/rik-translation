@@ -20273,6 +20273,126 @@ If these many examples are examined, it can be said that for the present Puruṣ
 
 Just as that which is related to Rāma is called the Rāmāyaṇa, one who is related to Nara can be called Nārāyaṇa. Here it can also be understood as the son of Nara. The word नर (*nara*) is also used in the very sense of Puruṣa. The origin of Puruṣa from the Īśvara called Virāṭ, and the origin of Virāṭ from the Supreme Person
 
+### Printed p. 689
+
+as has been stated in the Puruṣasūkta itself, Nārāyaṇa is the son of Puruṣa. Nārāyaṇa himself is Puruṣa; father and son are one and the same. This is not said in the worldly sense but in the spiritual sense. Or else, the words Prajāpati, Viśvakarman, Hiraṇyagarbha and so on are all synonymous names of the Supreme Self (Paramātman) who is called Puruṣa. Whenever the fundamental principle of the Supreme Self is described by these synonymous names, there is a description that the Supreme Self moved about, before creation, upon the support of the waters (udaka).
+
+तमिद्दर्भं प्रथमं दध्र आपो यत्र देवाः समगच्छंत विश्वे । अजस्य नाभावध्येकमर्पितं यस्मिन्विश्वानि भुवनानि तस्थुः ॥ (*tamiddarbhaṃ prathamaṃ dadhra āpo yatra devāḥ samagacchaṃta viśve | ajasya nābhāvadhyekamarpitaṃ yasminviśvāni bhuvanāni tasthuḥ ‖*)
+(Ṛ. Saṃ. 10-82-6)
+
+The waters first bore that Supreme Self, in the form of Viśvakarman, in whom all the gods have assembled together. The sūkta that praises Viśvakarman and expounds the spiritual principle states that this non-dual Supreme Principle contains all the worlds; it is just like this.
+
+आपो ह यद्बृहतीर्गर्भमायन् गर्भं दधाना जनयंतीरग्निं । ततो देवानां समवर्ततासुरेकः कस्यै देवाय हविषा विधेम ॥ (*āpo ha yadbṛhatīrgarbhamāyan garbhaṃ dadhānā janayaṃtīragniṃ | tato devānāṃ samavartatāsurekaḥ kasyai devāya haviṣā vidhema ‖*)
+(Ṛ. Saṃ. 10-121-7)
+
+The sūkta that praises Hiraṇyagarbha says that the waters, which have the natural capacity to bring forth all created beings, bore in their womb Prajāpati, who is of the form of Hiraṇyagarbha; and likewise passages such as सलिलं सर्वमा इदं (*salilaṃ sarvamā idaṃ*) (10.29-3) praise the Supreme Self who moved upon the water before creation. In the same way, in the present context too, it can be said that the word Nārāyaṇa shows the direct relation of the Supreme Self with the water. The authors of the Smṛtis and the Paurāṇikas make this very meaning clear. How? Thus:
+
+आपो नारा इति प्रोक्ता आपो वै नरसूनवः । ता यदस्यायनं पूर्व० तेन नारायणः स्मृतः ॥ (*āpo nārā iti proktā āpo vai narasūnavaḥ | tā yadasyāyanaṃ pūrva0 tena nārāyaṇaḥ smṛtaḥ ‖*)
+(Manu 1-10)
+
+The name nārā is well known for the āpas (waters). These very waters have arisen from the Supreme Self, who is called Nara. When he was in the form of Brahman, these were his support. For that reason the Supreme Self has the name Nārāyaṇa. That is, he who has the nāras (waters) as his ayana (support) is Nārāyaṇa. The very waters that bore the Supreme Self called Viśvakarman, Hiraṇyagarbha and Prajāpati are the waters that bore the Supreme Self called Nārāyaṇa.
+
+### Printed p. 690
+
+Thus it can only be said that different sūkta-s have recited one and the same description in different ways; it cannot be said that the elements of this description are different. Therefore Parama-puruṣa and Nārāyaṇa are synonymous names. Since the subject of the sūkta that describes the greatness of Puruṣa is the Puruṣa called Nārāyaṇa, it would not be wrong to say that, in accordance with the subject of the sūkta, the name of the seer too is Nārāyaṇa. Śruti passages also are the authority for this. For example, the Śatapatha Brāhmaṇa describes in the following way the occasion that points to the identity of Puruṣa and Nārāyaṇa.
+
+पुरुषो ह नारायणोऽकामयत। अतितिष्ठेयग्ं सर्वाणि भूतान्यहमेवेदग्ं सर्वग्ं स्यामिति स एतं पुरुषमॆधं पंचरात्रं यज्ञक्रतुमपश्यत्तमाहरत्तेनायजत तेनेष्टात्यतिष्ठत्सर्वाणि भूतानीदग्ं सर्वमभवदतितिष्ठति सर्वाणि भूतानीदग्ं सर्वं भवति य एवं विद्वान् पुरुषमेधेन यजते यो वै तदेवं वेद ॥ (*puruṣo ha nārāyaṇo 'kāmayata| atitiṣṭheyagṃ sarvāṇi bhūtānyahamevedagṃ sarvagṃ syāmiti sa etaṃ puruṣamèdhaṃ paṃcarātraṃ yajñakratumapaśyattamāharattenāyajata teneṣṭātyatiṣṭhatsarvāṇi bhūtānīdagṃ sarvamabhavadatitiṣṭhati sarvāṇi bhūtānīdagṃ sarvaṃ bhavati ya evaṃ vidvān puruṣamedhena yajate yo vai tadevaṃ veda ‖*)
+(Śa. Brā. 13-6-1-1)
+
+Puruṣa Nārāyaṇa wished: "May I surpass all beings; may I alone, pervading all this, be the non-dual one." Then, by meditation, he came to know the greatness of the rite called Pañcarātra, which is of the form of the Puruṣamedha. Afterwards he also performed that sacrifice. As its result he pervaded the entire world and also extended beyond it. Thus there is praise of Puruṣa Nārāyaṇa: one who knows this principle and performs the Puruṣamedha in the same way grows, pervading all and surpassing all. Moreover, the Śatapatha Brāhmaṇa also has the description that, by the performance of this sacrifice of five nights, a greatness arises for the very sūkta that is addressed to Puruṣa and praises him, and that it becomes famous throughout the world.
+
+पुरुषग्ं ह नारायणं प्रजापतिरुवाच । यजस्व यजस्वेति स होवाच यजस्व यजस्वेति वाव त्वं मामात्थ त्रिरयक्षि वसवः प्रातःसवनेन रुद्रा माध्यंदिनेन सवनेनादित्यास्तृतीयसवनेनाथ मम यज्ञवास्त्वेवाहमास इति ॥ (*puruṣagṃ ha nārāyaṇaṃ prajāpatiruvāca | yajasva yajasveti sa hovāca yajasva yajasveti vāva tvaṃ māmāttha trirayakṣi vasavaḥ prātaḥsavanena rudrā mādhyaṃdinena savanenādityāstṛtīyasavanenātha mama yajñavāstvevāhamāsa iti ‖*) (Śa. Brā. 12-3-4-1)
+
+Prajāpati instructed Puruṣa Nārāyaṇa: "Perform the sacrifice and offer the oblation." Then Puruṣa Nārāyaṇa answered: "Your instruction is well and good; I too have performed the sacrifice three times and offered the oblation. When I offered the morning libation, the Vasus grew strong; at the midday libation the Rudras; and at the third libation the Ādityas. All of them occupied all the regions. For me only the place of the sacrificial offering has remained; I sit upon that alone." Then Prajāpati again said:
+
+### Printed p. 691
+
+यज्ञस्यैवाहं वै ते तद्वक्ष्यामि यथा त उक्कानि मणिरिव सूत्र ओतानि भविष्यंति सूत्रमिव वा मणाविति । (*yajñasyaivāhaṃ vai te tadvakṣyāmi yathā ta ukkāni maṇiriva sūtra otāni bhaviṣyaṃti sūtramiva vā maṇāviti |*)
+(Śa. Brā. 12-3-4-2)
+
+"Perform the sacrifice again and offer the oblation. As a result, the mantras that praise you, Puruṣa Nārāyaṇa, will become famous in the world. In the way that beads are strung on a thread, or in the way that the thread that joins the beads, united with the beads, becomes the maker of beauty, in that way the mantras that praise you will become a source of delight." So he said.
+
+But what is this sacrifice? What is its nature? What is the satra of the form of five nights? This will be examined in the present context, and afterwards it will be explained how the Śruti passages have described the nature of the Supreme Person who carries out this sacrifice. The above explanations show that Nārāyaṇa in the form of Puruṣa is the seer named Nārāyaṇa, the maker of the sūkta, and that Nārāyaṇa, the Supreme Self, is the performer of the sacrifice of the Pāñcarātra form. The very sacrifice by which, when performed with the Puruṣamedha as a five-night rite, the business of the world was brought about, is also laid down in the Puruṣasūkta. Here the explanation is that the gods performed the sacrifice by offering as oblation the Puruṣa himself. As the result of this sacrifice, a fivefold creation comes about. They are as follows:
+
+1) पशून् ताश्चक्रे वायव्यानारण्यान् ग्राम्याश्च ये (*paśūn tāścakre vāyavyānāraṇyān grāmyāśca ye*)
+
+As the result of this sacrifice, the birds that move in the atmosphere, the wild beasts of the forest, and the cattle, horses and others that dwell in villages came into being.
+
+2) ऋचः सामानि जज्जिरे । छंदांसि जज्जिरे तस्मादजुस्तस्मादजायत ॥ (*ṛcaḥ sāmāni jajjire | chaṃdāṃsi jajjire tasmādajustasmādajāyata ‖*)
+
+From that same Virāṭ-puruṣa, as the result of the sacrifice, the Ṛk mantras and the Sāmans came into being. From him also the metres such as the Gāyatrī, and the Yajus formulas, came into being.
+
+3) ब्राह्मणोऽस्य मुखमासीद्वाहू राजन्यः कृतः (*brāhmaṇo 'sya mukhamāsīdvāhū rājanyaḥ kṛtaḥ*)
+
+As the result of this sacrifice, from the mouth of Puruṣa the Brāhmaṇa, from the arms the Kṣatriyas, from the thighs the Vaiśyas, and from the feet the Śūdras, all mankind, came into being.
+
+4) चंद्रमा मनसो जातश्चक्षोः सूरो अजायत । मुखादिंद्रश्चाग्निश्च प्राणाद्वायुरजायत ॥ (*caṃdramā manaso jātaścakṣoḥ sūro ajāyata | mukhādiṃdraścāgniśca prāṇādvāyurajāyata ‖*)
+
+From the mind of this Virāṭ-puruṣa the moon, from the eye the sun, from the mouth Indra and Agni, and likewise all the gods, came into being.
+
+### Printed p. 692
+
+5) नाभ्या आसीदंतरिक्षं शीर्षोण द्यौः समवर्तत । पद्भां भूमिर्दिशः शोत्रात्तथा लोका अकल्पयन् ॥ (*nābhyā āsīdaṃtarikṣaṃ śīrṣoṇa dyauḥ samavartata | padbhāṃ bhūmirdiśaḥ śotrāttathā lokā akalpayan ‖*)
+
+As the result of the Virāṭ sacrifice, from the navel of Virāṭ-puruṣa the atmosphere, from the head the heavenly world, from the feet the earth, from the ear the directions, and thus all the worlds came into being. In some places the relation of cause and effect is shown, namely that the creation of the world, which consists of these five divisions, came about as the result of the sacrifice of five nights. These five parts are described in one way in one place and in another way in another. Explaining these same five elements in the Bṛhadāraṇyaka Upaniṣad, it says thus:
+
+स एष पांक्तो यज्ञः पांक्तः पशुः पांक्तः पुरुषः पांक्तमिदं सर्वं यदिदं किं च तदिदं सर्वमाप्नोति ॥ (*sa eṣa pāṃkto yajñaḥ pāṃktaḥ paśuḥ pāṃktaḥ puruṣaḥ pāṃktamidaṃ sarvaṃ yadidaṃ kiṃ ca tadidaṃ sarvamāpnoti ‖*)
+(Bṛ. U. 1-4-13)
+
+The sacrifice is fivefold; the sacrificial animal is fivefold; Puruṣa too is of five kinds. This universe, and everything contained in the universe, exists only in five kinds. One who knows this principle obtains all good. So it is said. In the same way, stating this very matter in the Taittirīya Upaniṣad:
+
+साङ्कं ना इदग्ं सर्वं । साङ्कीनैव साङ्कग् स्पृणोतिति । (*sāṅkaṃ nā idagṃ sarvaṃ | sāṅkīnaiva sāṅkag spṛṇotiti |*)
+(Tai. U. 1.-7) **NOTE**
+
+All this universe consists of five kinds. The scholar who knows the universe that comprises these five kinds of principles also obtains good of five kinds. So it praises.
+
+Puruṣa Nārāyaṇa performed the universal sacrifice of the form of five nights. As its result he became all-pervading and surpassed everything. Just as it has been praised, in passages beginning विश्वकर्मन् हविषा वावृधानः (*viśvakarman haviṣā vāvṛdhānaḥ*) (10-81-6), that Viśvakarman, having praised Viśvakarman and offered himself as the oblation, became pervader of the world, in the same way here the sacrifice performed by the Supreme Person and its fruits are praised.
+
+If the controller of the world and the lord of the world is denoted here by the word Puruṣa, then the derivation of the word Puruṣa here, and the way in which this word Puruṣa shows lordship of the world and control of the world, are matters to be examined in the present context.
+
+There are two kinds of derivation of the word Puruṣa. Both kinds of derivation explain the nature of Puruṣa as the Supreme Self. First:
+
+आत्मेवैदमग्र आसीत्पुरुषविधः सोऽनुवीक्ष्य नान्यदात्मनोऽपश्यत्सोऽहमस्मीत्यग्रे व्याहरत्ततोऽहं नामाभवत्तस्मादस्येतर्ह्यामंत्रितोऽहमयमित्येवाग्र उक्ताथान्यन्नाम प्रब्रूते यदस्य भवति स यत्पू- र्वोऽस्मात्सर्वस्मात्सर्वान्साप्मन औषत्तस्मात्पुरुष ओषति ह वै स तं योऽस्मात्सूर्वो बुभूषति य एवं वेद । (*ātmevaidamagra āsītpuruṣavidhaḥ so 'nuvīkṣya nānyadātmano 'paśyatso 'hamasmītyagre vyāharattato 'haṃ nāmābhavattasmādasyetarhyāmaṃtrito 'hamayamityevāgra uktāthānyannāma prabrūte yadasya bhavati sa yatpū- rvo 'smātsarvasmātsarvānsāpmana auṣattasmātpuruṣa oṣati ha vai sa taṃ yo 'smātsūrvo bubhūṣati ya evaṃ veda |*)
+
+### Printed p. 693
+
+(Bṛ. U. 1-4-1)
+
+Before the creation of the world the Self, in the form of Puruṣa, was non-dual. Seeing that there was no one other than himself, he understood: "I am here." This notion of "I" is the root of all the personal dealings of all persons in the world. How this Self has the usage Puruṣa is as follows: before the creation of the world he burned (उष् (*uṣ*)-औषत् (*auṣat*)) all the sins, in advance (पूर्व (*pūrva*)). Therefore (पूर्व (*pūrva*)+उष् (*uṣ*)) the name पूरुषः (*pūruṣaḥ*) (पुरुषः (*puruṣaḥ*)) became famous. Such is the one kind of derivation. **NOTE**
+
+Second:
+
+पुरश्चक्रे द्विपदः पुरश्चक्रे चतुष्पदः । पुरः स पक्षी भूत्वा पुरः पुरुष आविशदिति ॥ स वा अयं पुरुषः सर्वासु पूर्षु पुरिशयोs नैनेव किंचनानावृतं नैनेन किंचनासंवृतं ॥ (*puraścakre dvipadaḥ puraścakre catuṣpadaḥ | puraḥ sa pakṣī bhūtvā puraḥ puruṣa āviśaditi ‖ sa vā ayaṃ puruṣaḥ sarvāsu pūrṣu puriśayos naineva kiṃcanānāvṛtaṃ nainena kiṃcanāsaṃvṛtaṃ ‖*)
+(Bṛ. U. 2-5-18)
+
+The Lord made cities in the form of human beings, with two feet. He also made cities in the form of animals and the like, with four feet; and, taking the form of a bird, he entered the cities of that form. Thus the name Puruṣa arises because he entered all the cities (bodies) produced from himself, and because he lies in these cities. There is nothing that is not covered by this Puruṣa, nor anything that is not enveloped by him. That is, he is all-pervading and the inner controller of all. Explaining this very matter, the Śatapatha Brāhmaṇa says:
+
+इमे वै लोकाः पूरयमेव पुरुषो योऽयं पवते सोऽस्यां पुरि शेते तस्मात्पुरुषः ॥ (*ime vai lokāḥ pūrayameva puruṣo yo 'yaṃ pavate so 'syāṃ puri śete tasmātpuruṣaḥ ‖*)
+(Śa. Brā. 13-6.2-1)
+
+All the worlds are like a fortress. Puruṣa fills them with air (vitality), and because he lies pervading all these worlds that are like a fortress (पुरि शेते (*puri śete*)), he has the name Puruṣa. So it is stated.
+
+By the analogy of the human puruṣa who dwells in a body, the meaning is not that the nature of the Supreme Puruṣa, the Self of the universe, is likewise limited by distance and attended by limiting adjuncts like a human being. The entire universe is the body of this Supreme Puruṣa, and his nature transcends the universe. But the description is just like the description of a human body. How?
+
+### Printed p. 694
+
+पंच संपद्यंते पांक्तोऽयं पुरुषः पंचधा विहितो लोमानि त्वज्ञांसमस्थिमज्जा स यावानेव पुरुषस्तावंतं यजमानं संस्कृत्याग्नौ देवयोन्यां जुहोत्यग्निर्वॆ देवयोनिः सोग्नेर्देवयोन्या आहुतिभ्यः संभूय हिरण्यशरीर ऊर्ध्वः स्वर्गं लोकमेति । (*paṃca saṃpadyaṃte pāṃkto 'yaṃ puruṣaḥ paṃcadhā vihito lomāni tvajñāṃsamasthimajjā sa yāvāneva puruṣastāvaṃtaṃ yajamānaṃ saṃskṛtyāgnau devayonyāṃ juhotyagnirvè devayoniḥ sognerdevayonyā āhutibhyaḥ saṃbhūya hiraṇyaśarīra ūrdhvaḥ svargaṃ lokameti |*)
+(Ai. Brā. 2-14)
+
+(By the offering of the immortal oblation all wealth is obtained.) This is fivefold. Puruṣa too consists of five kinds of principles. By offering the oblation corresponding to these five principles, namely hair, skin, flesh, bone and fat, it is as if it were offered into Agni, the birthplace of all the gods. Since the nature of Agni too is fivefold in this way, Agni is satisfied by this offering of divided kind (this Agni is the reflection, of the form of radiance, of the Supreme Puruṣa). **NOTE**
+
+Prajāpati is the Supreme Puruṣa; the Puruṣa who has a body composed of seventeen parts is Prajāpati. Prajāpati and Puruṣa are of the nature of Agni. How is that? Thus:
+
+यद्वेव सप्तदश । सप्तदशो वै पुरुषो दश प्राणाश्चत्वार्यंगानि आत्मा पंचदशो ग्रीवाः षोडश्यः शिरः सप्तदशं पुरुषः प्रजापतिः प्रजापतिरग्निर्यावानग्निर्यावत्यस्य मात्रा तावतैवैनमेतत्समिंधे ॥ (*yadveva saptadaśa | saptadaśo vai puruṣo daśa prāṇāścatvāryaṃgāni ātmā paṃcadaśo grīvāḥ ṣoḍaśyaḥ śiraḥ saptadaśaṃ puruṣaḥ prajāpatiḥ prajāpatiragniryāvānagniryāvatyasya mātrā tāvataivainametatsamiṃdhe ‖*)
+(Śa. Brā. 6-2-2-9)
+
+Puruṣa consists of seventeen principles. They are: ten vital breaths, four limbs; the self (body?) is the fifteenth; the throat is the sixteenth; the head is the seventeenth. The Puruṣa who consists of these seventeen principles is Prajāpati. Prajāpati is Agni. As the measure of Agni is, so is the measure of Prajāpati. Then what is the nature of the body of this Supreme Puruṣa, the Self of the universe? Which is his head? Which is his eye? Which is his breath? The answers to such questions are as follows:
+
+तान्होवाचैते वै खलु यूयं पृथगिवेममात्मानं वैश्वानरं विद्वांसोऽन्नमत्थ यस्त्वेतमेवं प्रादेशमात्रमभिविमानमात्मानं वैश्वानरमुपास्ते स सर्वेषु लोकेषु सर्वेषु भूतेषु सर्वेष्वात्मस्वन्नमत्ति ॥ (*tānhovācaite vai khalu yūyaṃ pṛthagivemamātmānaṃ vaiśvānaraṃ vidvāṃso 'nnamattha yastvetamevaṃ prādeśamātramabhivimānamātmānaṃ vaiśvānaramupāste sa sarveṣu lokeṣu sarveṣu bhūteṣu sarveṣvātmasvannamatti ‖*)
+(Bhā. U. 5-18-1) **NOTE**
+
+Knowing this Self of the universe as different from you, you eat food. But he who worships the Self called Vaiśvānara, who is of the measure of a span (the detail of the description "span-measure" is given in the first of the words अत्यतिष्ठद्व शांगुलं (*atyatiṣṭhadva śāṃgulaṃ*)
+
 ---
 
-**Progress note:** Done through printed p. 688. Introduction to Sukta 90 (Purusasukta), pp. 683-688
+**Progress note:** Done through printed p. 694. pp. 689-694 Puruṣasūkta introduction: Nārāyaṇa, Puruṣa etymologies
