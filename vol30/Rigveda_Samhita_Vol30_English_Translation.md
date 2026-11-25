@@ -12779,6 +12779,192 @@ The main sense: may the deities of the time of Uṣas and of night, Uṣāsānak
 > प्र॒चो॒दयं॑ता वि॒दथे॑षु का॒रू प्रा॒चीनं॒ ज्योतिः॑ प्र॒दिशा॑  ॒॑
 > दिशंता ॥ ७ ॥
 
+### Printed p. 356
+#### Ṛk 7 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दैव्या । होतारा । प्रथमा । सुवाचा । मिमाना । यज्ञं । मनुषः । यजध्यै ।  
+> प्रचोदयंता । विदथेषु । कारू इति । प्राचीनं । ज्योतिः । प्रदिशा । दिशंता ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दैव्या ॥ देवाद्यञञाविति यज्ञत्ययः ॥ देवसंबंधिनौ होतारौ होमनिष्पादकौ होतृनामकावग्न्यादित्यावस्थिन्यज्ञ आसीदतां । कीदृशौ । प्रथमा मनुष्यहोतुः पूर्वभाविन्सौ सुवाचा शोभनस्तोत्र मनुषो मनुष्यस्य सर्वस्य यष्टुर्यजध्यै यागनिवृत्तये ॥ यजेस्तुमर्थे शध्यॆन्नृत्ययः ॥ यज्ञं मिमाना
+> निर्मिमानावुत्पादयंतौ । विदथेषु । विदंत्यत्रर्त्विजः स्वस्वकर्माणीति विदथा यज्ञाः ।
+> तेश्त्वत्वजो यजमानांश्च प्रचोदयंता प्रेरयंतौ कारू स्तुतीनां कर्तारौ
+> प्राचीनं पूर्वस्यां दिशि यष्टव्यत्वेन स्थितमाहवनीयाख्यं ज्योतिः प्रदिशा प्रकृष्टेनोपदिष्टमार्गेण यद्वा प्रदिश्यमानेन मंत्रेण दिशंता निर्वहंतौ ॥
+
+##### Gist of the bhāṣya
+
+दैव्या (*daivyā*) means "related to the gods." The two Hotṛs, who accomplish the homa and are named Hotṛ, namely Agni and Āditya, are to sit down in this sacrifice. They are described as follows. प्रथमा (*prathamā*): earlier in being than the human Hotṛ. सुवाचा (*suvācā*): possessing fair praise. मनुषः (*manuṣaḥ*): of the man, that is, of every sacrificer. यजध्यै (*yajadhyai*): for the accomplishment of the sacrifice. यज्ञं मिमाना (*yajñaṃ mimānā*): fashioning, that is, producing, the sacrifice. विदथेषु (*vidatheṣu*): the priests find (*vidaṃti*) their respective duties in them, so the विदथा (*vidathā*) are sacrifices. प्रचोदयंता (*pracodayaṃtā*): impelling the priests and sacrificers there. कारू (*kārū*): makers of praises. प्राचीनं ज्योतिः (*prācīnaṃ jyotiḥ*): the light called Āhavanīya, which stands in the eastern quarter as the one to be worshipped. प्रदिशा (*pradiśā*): by the excellently taught path, or else by the mantra that is being indicated. दिशंता (*diśaṃtā*): carrying it out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमा (*prathamā*)—the foremost
+- सुवाचा (*suvācā*)—those having excellent words of praise
+- मनुषः (*manuṣaḥ*)—the sacrificer
+- यजध्यै (*yajadhyai*)—in order to perform the sacrifice
+- यज्ञं मिमाना (*yajñaṃ mimānā*)—those who fashion the sacrifice
+- विदथेषु (*vidatheṣu*)—in the sacrifices
+- प्रचोदयंता (*pracodayaṃtā*)—those who impel the priests
+- कारू (*kārū*)—makers of praise
+- प्राचीनं (*prācīnaṃ*)—of the eastern quarter, in the form of the Āhavanīya
+- ज्योतिः (*jyotiḥ*)—the fire
+- प्रदिशा (*pradiśā*)—with an excellent mantra
+- दिशंता (*diśaṃtā*)—those who direct
+- दैव्या होतारा (*daivyā hotārā*)—the two Hotṛs related to the gods (Agni and the Ādityas) are to come and sit down in the sacrifice.
+
+##### भावार्थ (Bhāvārtha)
+
+May the foremost ones, those with excellent words of praise, those who fashion the sacrifice for the sacrificer to perform the sacrifice, those who impel the priests in the sacrifices, the makers of praise, those who direct the fire of the eastern quarter, in the form of the Āhavanīya, with an excellent mantra, the two related to the gods, Agni and Āditya, come and sit down in the sacrifice.
+
+##### English translation
+Divine ministers, prior (to those of earth), repeaters of pious praise, instituting the sacrifice at which men are to worship, (sit down) stimulating
+
+### Printed p. 357
+(the priests) at the sacrifices, makers (of praises), indicating the eastern fire with the prescribed (text).
+
+##### विशेषविषयगळु (Special Topics)
+
+दैन्व्या हेतारा दैन्व्या होतारावयं चाग्निरसौ च मध्यमः । तयोरेषाभवति ॥ (*dainvyā hetārā dainvyā hotārāvayaṃ cāgnirasau ca madhyamaḥ | tayoreṣābhavati ‖*) (Ni. 8-12). In this Ṛk two deities, called दैवौ होतार् (*daivau hotār*), are praised. As to who these deities are, Sāyaṇa has said अग्न्यादित्यौ (*agnyādityau*), Agni and Āditya. But Yāska, and following him Durgācārya, the commentator on the Nirukta, say that दैवौ होतार् (*daivau hotār*) means आयं चाग्निरसौ च मध्यमः (*āyaṃ cāgnirasau ca madhyamaḥ*), that is, the terrestrial Agni of this world and Vāyu, the deity of the middle region. As an example of a Ṛk praising these deities, Yāska has given the explanation (nirvacana) for the present Ṛk itself:
+दैन्व्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै । प्रचो दयंता विदथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशंता ॥ (*dainvyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai | praco dayaṃtā vidatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśaṃtā ‖*) देव्यौ होतारौ प्रथमौ सुवाचौ निर्मिमाना यज्ञं मनुष्यस्यमनुष्यस्य प्रचोदयमानौ यज्ञेषु कर्तारौ पूर्वस्यां दिशि यष्टव्यमिति प्रदिशंतौ ॥ (*devyau hotārau prathamau suvācau nirmimānā yajñaṃ manuṣyasyamanuṣyasya pracodayamānau yajñeṣu kartārau pūrvasyāṃ diśi yaṣṭavyamiti pradiśaṃtau ‖*) (Ni. 8-12).
+दैव्या होतारा प्रथमा सुवाचा (*daivyā hotārā prathamā suvācā*)—दैव्यौ होतार् प्रथमौ सुवाचौ (*daivyau hotār prathamau suvācau*). The two deities named देव्यौ होतार् (*devyau hotār*) are related to the gods and invoke the gods; they are the chief among the gods, possessors of excellent words, or those praised with excellent words.
+मिमाना यज्ञं मनुषो यजध्यै (*mimānā yajñaṃ manuṣo yajadhyai*)—निर्मिमान् यज्ञं मनुष्यस्य मनुष्यस्य यजनाय (*nirmimān yajñaṃ manuṣyasya manuṣyasya yajanāya*). They carry out the proceedings of the sacrifice of every human sacrificer so that they go on in the prescribed manner; that is, they take on the leadership, or the burden of protection, of the sacrifice.
+प्रचोदयंता विदथेषु कारू (*pracodayaṃtā vidatheṣu kārū*)—प्रचोदयमानौ यज्ञेषु कर्तारौ (*pracodayamānau yajñeṣu kartārau*). विदथ (*vidatha*) means sacrifice; कारू (*kārū*) means कर्तारौ (*kartārau*), doers. These deities impel the mantras that the priests and others must recite in the sacrifices and the proceedings of the rite; they favour the presiding sacrificers, or they invite the deities who are intended.
+प्राचीनं ज्योतिः प्रदिशा दिशंता (*prācīnaṃ jyotiḥ pradiśā diśaṃtā*)—पूर्वस्यां दिशि यष्टव्यमिति प्रदिशंत् (*pūrvasyāṃ diśi yaṣṭavyamiti pradiśaṃt*). प्राचीनं ज्योतिः (*prācīnaṃ jyotiḥ*) means: the fire called Āhavanīya, established on the sacrificial altar in the eastern quarter,
+
+### Printed p. 358
+the fire churned in the kindling-sticks, is brought by the mantras that are the injunctions for the carrying forward of the fire, प्राजीमनु प्रदिशं प्रेहि विद्वान् (*prājīmanu pradiśaṃ prehi vidvān*) **NOTE** and so on, to the Āhavanīya fire-pit in the east and established there; the meaning is that they command that the homas be performed in that fire.
+The Ṛk means: may the deities देव्य होतारौ (*devya hotārau*), possessed of such qualities (Agni and Āditya, or Vāyu and Agni), come and sit down at the place prepared for them on this our sacrificial altar. Since this Ṛk has no verb, the words सदतां नियोन् (*sadatāṃ niyon*) of the preceding Ṛk are to be supplied here as well.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ य॒ज्ञं भार॑ती॒ तूय॑मे॒त्विळा॑ मनु॒ष्वदि॒ह चे॒तयं॑ती।  
+> ति॒स्रो दे॒वीर्ब॒र्हिरेदं स्यो॒नं सर॑स्वती॒ स्वप॑सः सदंतु ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । यज्ञं । भारती । तेयं । एतु । इळा । मनुष्वत् । इह । चेतयंती ।  
+> तिस्रः । देवीः । बर्हिः । आ । इदं । स्योनं । सरस्वती । सुऽपसः । सदंतु ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भारती । भरत आदित्यः । तस्य स्वभूता दीप्तिः ॥ तस्येदमित्यर्थ उत्सादित्वादञ् ।
+> पा. ४-१-८६ । टिड्ढाणञ्ति जीप् ॥ नोऽस्मदीयं यज्ञं तूयं क्षिप्रमेतु ।
+> आगच्छतु ! तथा मनुष्मन्मनुष्यो यथेवं मया कर्तव्यमिति जानाति तद्वज्जेतयंती
+> जानतीळा देवी चेहास्मिन्कर्मण्यागच्छतु ! कथा सरस्वती च । स्वपसः सुकर्माणः ।
+> अप इति कर्मनाम ॥ आप्पोतेरसुन्यापः कर्माख्यायां ह्रस्वः । बहुव्रीहानाड्युदात्तं द्व्यच्छंदसीत्युत्तरपदाद्युदात्तत्वं ॥ एतास्तिस्रो देवीर्देव्यः स्कोनं सुखकरमिदं बर्हिरिमं यज्ञमा सदंतु । आसीदंतु । प्राप्नुवंतु ॥ सदेर्लोटि
+> सीदादेशाभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+भारती (*bhāratī*): Bharata is Āditya, and the radiance that is his own is Bhāratī. May she come swiftly to our sacrifice. Further, मनुष्वत् (*manuṣvat*): as a man knows "this is to be done by me," so चेतयंती (*cetayaṃtī*), the knowing goddess Iḷā, is to come here to this rite; and Sarasvatī too. स्वपसः (*svapasaḥ*): those of good works; *apaḥ* is a name for work. These three goddesses are to sit upon, or attain, this comfortable बर्हिः (*barhiḥ*), that is, this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भारती (*bhāratī*)—the goddess Bhāratī, the radiance of Āditya
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- शूयं (*śūyaṃ*)—swiftly
+- एतु (*etu*)—may she graciously come
+- मनुष्वत् (*manuṣvat*)—like human beings
+- चेतयंती (*cetayaṃtī*)—
+
+### Printed p. 359
+ knowing her duty
+- इळा (*iḷā*)—and the goddess Iḷā
+- इह (*iha*)—may come to our sacrifice
+- सरस्वती च (*sarasvatī ca*)—may Sarasvatī also come
+- स्वपसः (*svapasaḥ*)—possessed of excellent work
+- तिस्रो देवीः (*tisro devīḥ*)—these three goddesses
+- स्योनं (*syonaṃ*)—pleasant
+- इदं बर्हिः (*idaṃ barhiḥ*)—on this sacrificial altar
+- आ सदंतु (*ā sadaṃtu*)—come and sit down.
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Bhāratī, the radiance of Āditya, come swiftly to our sacrifice. May the goddess Iḷā, who like human beings knows her duty, and Sarasvatī come. May these three goddesses of excellent work come and sit down on this pleasant sacrificial altar.
+
+##### English translation
+May Bharati come quickly to our sacrifice, and Ila thinking (of what she has to do), like a human being ; may Saraswati also—the three gracious goddesses, sit down upon this pleasant sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk three goddesses, तिस्रो देवीः (*tisro devīḥ*), namely Iḷā, Sarasvatī and Bhāratī, are praised. Yāska has given the explanation of this Ṛk:
+तिस्रो देवीः तिस्रो देव्यः । तासामेषा भवति । आ नो यज्ञं भारती तूयमेत्विळा मनुष्पदिह चेतयंती । तिस्रो देवीर्बर्हिरेदं स्योनं सरस्वती स्वपसः सदंतु ॥ ऐतु नो यज्ञं भारती क्षिप्रं । भरत आदित्यस्तस्य भा इळा च मनुष्यवदिह चेतयमाना तिस्रो देव्यो बर्हिरिदं सुखं सरस्वती च सुकर्माण आसीदंतु ॥ (*tisro devīḥ tisro devyaḥ | tāsāmeṣā bhavati | ā no yajñaṃ bhāratī tūyametviḷā manuṣpadiha cetayaṃtī | tisro devīrbarhiredaṃ syonaṃ sarasvatī svapasaḥ sadaṃtu ‖ aitu no yajñaṃ bhāratī kṣipraṃ | bharata ādityastasya bhā iḷā ca manuṣyavadiha cetayamānā tisro devyo barhiridaṃ sukhaṃ sarasvatī ca sukarmāṇa āsīdaṃtu ‖*) (Ni. 8-13).
+तिस्रो देवीस्तिस्रो देव्यः । तासामेषा भवति (*tisro devīstisro devyaḥ | tāsāmeṣā bhavati*): तिस्रो देवीः (*tisro devīḥ*) means three goddesses. They are Iḷā, Sarasvatī and Bhāratī. The explanation of the present Ṛk, which praises them, is set out here.
+आ नो यज्ञं भारती तूयं एतु (*ā no yajñaṃ bhāratī tūyaṃ etu*)—ऐतु नो यज्ञं भारती क्षिप्रं । भरत आदित्यस्तस्य भा (*aitu no yajñaṃ bhāratī kṣipraṃ | bharata ādityastasya bhā*). Here Bharata is Āditya. सर्वभूतान्युदकेन बिभर्तिति भरत आदित्यः (*sarvabhūtānyudakena bibhartiti bharata ādityaḥ*): he bears all beings with the water of rain, that is, he nourishes them, and therefore Āditya is called Bharata. तस्य भा (*tasya bhā*): his light, or ray, is called भा (*bhā*). Āditya is a deity of the heavenly region. The meaning of the sentence is: may Bhāratī, such a deity of the heavenly region, come quickly to our sacrifice.
+
+### Printed p. 360
+इळा मनुष्यदिह चेतयंती (*iḷā manuṣyadiha cetayaṃtī*)—इळा च मनुष्यवदिह चेतयमाना (*iḷā ca manuṣyavadiha cetayamānā*). चेतयमाः ना (*cetayamāḥ nā*) **NOTE** means one who knows. What does she know? मनुष्यवदिह चेतयमाना (*manuṣyavadiha cetayamānā*): just as human beings come quickly when other human beings invite them to a meal, so this goddess Iḷā knows that in the sacrifice they pray to her and call her to partake of the oblation. May such a goddess Iḷā too come quickly to our sacrifice. This goddess Iḷā is a deity of the terrestrial region.
+सरस्वती (*sarasvatī*)—सरस्वती च (*sarasvatī ca*). May this goddess Sarasvatī too, a deity of the middle region, come quickly to our sacrifice.
+तिस्रो देवीर्बर्हिरेदं स्योनं स्वपसः सदंतु (*tisro devīrbarhiredaṃ syonaṃ svapasaḥ sadaṃtu*)—तिस्रो देव्यो बर्हिरिदं सुखं सुकर्माण आसीदंतु (*tisro devyo barhiridaṃ sukhaṃ sukarmāṇa āsīdaṃtu*). स्वपसः (*svapasaḥ*) is सु अपसः (*su apasaḥ*): those of excellent work, those who do excellent works. स्योनं (*syonaṃ*) means pleasant. So the meaning of the sentence is: may the three goddesses Iḷā, Sarasvatī and Bhāratī, of excellent work and established in the three regions, earth, atmosphere and heaven, come and sit on this बर्हि (*barhi*), this seat of darbha grass.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इ॒मे द्यावा॑पृथि॒वी जनि॑त्री रू॒पैरपिं॑श॒द्भव॑नानि॒ विश्वा॑ ।  
+> तम॒द्य हो॑तरिषि॒तो यजी॑यान् दे॒वं त्वष्टा॑रमि॒ह य॑श्॒व  
+> विद्वान् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इमे इति । द्यावापृथिवी इति । जनित्री इति । रूपैः । अपिंशत् । भुवनानि । विश्वा  
+> तं । अद्य । होतः । इषितः । यजीयान् । देवं । त्वष्टारं । इह । यक्षि । विद्वान् ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वाष्टस्य पशोर्वपायां य इमे इत्येषानुवाक्या । सूत्रितं च । य इमॆ
+> द्यावापृथिवी जनित्री तन्नस्तुरीपमध पोषयित्सु । आ. ३-८ । इति ॥
+> यस्त्वष्टा देवो जनित्री विश्वस्य जनयित्र्याविमे द्यावापृथिवी ॥ द्वंद्वॆ
+> दिवो द्यावेति द्यावादेशः । आद्युदात्तः । पृथिवीशब्दो जीषंतत्वेनांतोदात्तः
+
+##### Gist of the bhāṣya
+
+In the vapā-offering of the animal for Tvaṣṭṛ, य इमे (*ya ime*) is the anuvākyā. It is also given in the sūtra: य इमॆ द्यावापृथिवी जनित्री तन्नस्तुरीपमध पोषयित्सु (*ya imè dyāvāpṛthivī janitrī tannasturīpamadha poṣayitsu*) (Ā. 3-8). The god Tvaṣṭṛ who is जनित्री (*janitrī*), the begetter of the world, of these heaven and earth.
+
+### Printed p. 361
+
+> देवताद्वंद्वे चेति पूर्वोत्तरपदयोः प्रकृतिस्वरत्वं ॥ द्यावापृथिव्य रूपैर्देवतिर्यज्जनुष्या द्याकारैरपिंशत् रूपवत्यावकरोत् ॥ पिश अवयने तौदादिकः । शे
+> मुचादीनामिति नुमागमः ॥ तथा विश्वा सर्वाणि भुवनानि भूतजातानि रूपयुक्तान्यकरोत् । हे होतः यजीयान्यष्टृतनो विद्वान् सर्वं जानंस्त्वमिषितोऽस्माभिरध्येषितः प्रार्थितः सन्निह्नास्मिन्कर्मण्यद्यास्मिन्निने तं त्वष्टारं देवं यक्षि ।
+> स्तुतिभिर्हविर्भिर्वा यज । पूजय ॥
+
+##### Gist of the bhāṣya
+
+Heaven and earth, he, Tvaṣṭṛ, made endowed with forms, with the forms that are (their) appearances; अपिंशत् (*apiṃśat*) means that he made them possessed of form. Likewise he made all the worlds, all created things, endowed with form. O Hotṛ, you are यजीयान् (*yajīyān*), the best sacrificer, and विद्वान् (*vidvān*), knowing all; being इषितः (*iṣitaḥ*), requested, that is, prayed to by us, here in this rite today, to that god Tvaṣṭṛ यक्षि (*yakṣi*), offer worship, with praises or with oblations; worship him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- होतः (*hotaḥ*)—O Hotṛ
+- यः (*yaḥ*)—the Tvaṣṭṛ who
+- जनित्री (*janitrī*)—the begetters of the whole world
+- इमे द्यावापृथिवी (*ime dyāvāpṛthivī*)—these heaven and earth
+- विश्वा भुवनानि (*viśvā bhuvanāni*)—all created things
+- रूपैः (*rūpaiḥ*)—with manifold forms
+- अपिंशत् (*apiṃśat*)—made endowed with form
+- तं (*taṃ*)—that
+- देवं (*devaṃ*)—divine
+- त्वष्टारं (*tvaṣṭāraṃ*)—god Tvaṣṭṛ
+- विद्वान् (*vidvān*)—you who know all
+- यजीयान् (*yajīyān*)—as the best sacrificer
+- इह (*iha*)—here
+- अद्य (*adya*)—today, on this day of the sacrifice
+- इषितः (*iṣitaḥ*)—being prayed to by us
+- यक्षि (*yakṣi*)—worship.
+
+##### भावार्थ (Bhāvārtha)
+
+O Hotṛ, you who know all, as the best sacrificer, worship for us today, at this time of the sacrifice, that divine god Tvaṣṭṛ who made heaven and earth, the begetters of the whole world, and all created things, endowed with form by manifold shapes.
+
+##### English translation
+To the divine Twashtri, who decked the parental heaven and earth and all the worlds with living forms, to him, O priest, who are venerable and wise, being solicited by us, offer oblation here to-day-
+
+##### विशेषविषयगळु (Special Topics)
+
+The Āśvalāyana Śrauta Sūtra, in the sūtra य इमे द्यानापृथिवी जनित्रि तन्न स्तुरीपमध पोषयित्तु (*ya ime dyānāpṛthivī janitri tanna sturīpamadha poṣayittu*) (Ā. 3-8), explains that in the vapā-homa of the animal sacrifice offered to the deity Tvaṣṭṛ this Ṛk, य इमे (*ya ime*), is to be recited as the anuvākyā mantra.
+In this Ṛk the deity Tvaṣṭṛ is praised. The explanation that Yāska has given for this Ṛk is as follows—
+
 ---
 
-**Progress note:** Done through printed p. 355. pp. 350-355 (batch API)
+**Progress note:** Done through printed p. 361. pp. 356-361 (batch API)
