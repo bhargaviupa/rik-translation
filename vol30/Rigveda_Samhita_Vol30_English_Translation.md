@@ -29310,6 +29310,281 @@ Breathe, wind, medicinal balm; blow away, wind, all evil; for you are the univer
 
 "O worshipper, I have come to you with protections that bring happiness (शंतातिभिः (*śaṃtātibhiḥ*)) and also with protections that bring no harm (अरिष्टतातिभिः (*ariṣṭatātibhiḥ*)). The affix tāti is added in both words by Pā. 4-4-143. The accent falls on the syllable before the affix. Moreover, auspicious (भद्रं (*bhadraṃ*)) … your strength (दक्षं (*dakṣaṃ*))…"
 
+### Printed p. 886
+
+> बलमाभार्षं । आहार्षं । वायुसकाशादानैषं । तथा ते तव यक्ष्मं रोगं च
+> परा सुनामि । विनाशयामि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the gloss: "I have brought" (आहार्षं (*āhārṣaṃ*)) means "I have fetched" (आहार्षं (*āhārṣaṃ*)), I have brought it from the wind's neighbourhood. Likewise I drive away your यक्ष्मं (*yakṣmaṃ*), your disease, I destroy it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you (O worshipper)
+- शंतातिभिः (*śaṃtātibhiḥ*)—with pleasure-giving (protections)
+- अथो (*atho*)—and
+- अरिष्टतातिभिः (*ariṣṭatātibhiḥ*)—with protections that do no harm
+- आ अगमं (*ā agamaṃ*)—I am approaching (and)
+- ते (*te*)—for you
+- भद्रं (*bhadraṃ*)—welfare
+- दक्षं (*dakṣaṃ*)—and strength
+- अभार्षं (*abhārṣaṃ*)—I have borne and brought (likewise)
+- ते (*te*)—your
+- यक्ष्मं (*yakṣmaṃ*)—disease
+- परा सुवामि (*parā suvāmi*)—I destroy
+
+##### भावार्थ (Bhāvārtha)
+
+(The wind's words:) O worshipper, I am coming to you with protections that give pleasure and do no harm. I have brought you welfare and strength. Likewise I destroy your disease.
+
+##### English translation
+(The wind speaks:) I have come to you with pleasures and with protections; I have brought you fortunate vigour, I drive away your disease.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रायं॑तामि॒ह दे॒वास्त्राय॑तां म॒रुतां॑ ग॒णः ।  
+> त्रायं॑तां॒ विश्वा॑ भू॒तानि॒ यथा॒यम॑र॒पा अस॑त् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रायंतां । इह । देवाः । त्रायतां । मरुतां । गणः ।  
+> त्रायंतां । विश्वा । भूतानि । यथा । अयं । अरपाः । असत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इहास्मिन्देशे सर्वे देवास्त्रायंतां । अस्मान्पालयंतां । तथा मरुतां गणः
+> संघः स त्रायतां । विश्वानि सर्वाण्यन्यानि च भूतानि भूतजातानि त्रायंतां । अस्मानृक्षंतु । यथायमस्मदीयः शरीरादिररपा असत् पापरहितो भवति तथेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Let all the gods in this place protect us, look after us. Let the company of the Maruts protect us. Let all other beings too protect us, guard us, so that this body of ours (or this person) may be free from sin.
+
+### Printed p. 887
+
+> रप इति पापनाम । नञा बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं । अस्तेर्लेट्यडागमः । यावद्यथाभ्यां । पा- ८-१-३६ । इति निघाताभावः ॥
+
+##### Gist of the bhāṣya
+
+रप (*rapa*) is a name for sin. With the negative prefix in a bahuvrīhi compound, the final of the last member takes the udātta. The root अस् (*as*) takes the augment aṭ in the leṭ. By Pā. Sū. 8-1-36 (यावद्यथाभ्यां (*yāvadyathābhyāṃ*)) there is no nighāta.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इह (*iha*)—in this place
+- देवाः (*devāḥ*)—all the gods
+- त्रायंतां (*trāyaṃtāṃ*)—let them protect us; and
+- मरुतां (*marutāṃ*)—of the Maruts
+- गणः (*gaṇaḥ*)—the company
+- त्रायतां (*trāyatāṃ*)—let it protect us
+- यथा (*yathā*)—in which way
+- अयं (*ayaṃ*)—this body (or this person)
+- अरपाः (*arapāḥ*)—free from sin
+- असत् (*asat*)—may become, so
+- विश्वा (*viśvā*)—all
+- भूतानि (*bhūtāni*)—all classes of beings, gods, humans and others
+- त्रायंतां (*trāyaṃtāṃ*)—let them protect us
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods and the hosts of Maruts look after us in this place. As this body becomes free from sin (that is, so that sin does not come), so may all beings, gods, humans and others, protect us.
+
+##### English translation
+May the gods give (us) protection in this world, may the company of the Maruts protect us, may all beings grant protection so that this (person) may be free from sin.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः ।  
+> आपः॒ सर्व॑स्य भेष॒जीस्तास्ते॑ कृण्वंतु भेष॒जं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । इत् । वै । ऊं इति । भेषजीः । आपः । अमीवचातनीः ।  
+> आपः । सर्वस्य । भेषजीः । ताः । ते । कृण्वंतु । भेषजं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आप इद्वा आप एव खलु भेषजीर्भेषजभूताः । स्नानपानादिना सुखहेतवः ।
+> यद्वा। ओषधिरूपेण परिणता रोगोपशमनहेतवो भवंति ॥ केवलमामकेत्यादिना।
+
+##### Gist of the bhāṣya
+
+Waters alone are medicinal, medicine-like: by bathing, drinking and the like they cause happiness. Or else, transformed into the form of herbs, they become causes of the allaying of disease. (The grammatical remark begins with केवलमामकेत्यादिना (*kevalamāmaketyādinā*) and continues on the next page.)
+
+### Printed p. 888
+
+> पा. ४-१-३० । भेषजशब्दाद्वीप् । उदात्तनिवृत्तिस्वरेण जीप उदात्तत्वं । जसि वा
+> छंदसीति पूर्वसवर्णदीर्घत्वं ॥ य एवमतः कारणादापोऽमीवचातनीरमीवचातन्यो रोगाणां नाशयित्र्यो भवंति । चातयतिर्वधकर्मा । किंचापः सर्वस्य
+> प्राणिजातस्य भेषजीर्भेषजभूता भवंति न कतिपयस्य । तास्त्रथाविधा आपस्ते तव
+> भेषजं कृण्वंतु । कुर्वंतु ॥
+
+##### Gist of the bhāṣya
+
+Therefore the waters are destroyers of diseases; चातयति (*cātayati*) is a verb of killing. Further, the waters are medicine for every class of living beings, not for a few. Such waters, let them make medicine for you, let them do it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आप इत् वै (*āpa it vai*)—those very waters
+- भेषजीः उ (*bheṣajīḥ u*)—are in the form of medicine, and by bathing, drinking and the like give us happiness
+- आपः (*āpaḥ*)—waters
+- अमीवचातनीः (*amīvacātanīḥ*)—are destroyers of diseases
+- आपः (*āpaḥ*)—waters
+- सर्वस्य (*sarvasya*)—for all classes of beings
+- भेषजीः (*bheṣajīḥ*)—are medicinal
+- ताः (*tāḥ*)—such waters, of this quality
+- ते (*te*)—for you
+- भेषजं (*bheṣajaṃ*)—the happiness that comes of allaying sickness
+- कृण्वंतु (*kṛṇvaṃtu*)—let them bring about
+
+##### भावार्थ (Bhāvārtha)
+
+Those waters are a means of bathing, drinking and so on, and give us happiness; and they destroy our diseases. These waters are medicine for all classes of beings. May such waters allay your sickness and bring you happiness.
+
+##### English translation
+Waters verily are medicinal; waters are the dissipators of disease; waters are the medicines for everything ; may they act as medicine to you-
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हस्ता॑भ्यां॒ दश॑शाखाभ्यां जि॒ह्वा वा॒चः पु॑रोग॒वी ।  
+> अ॒ना॒म॒यि॒त्नुभ्यां॑ त्वा॒ ताभ्यां॒ त्वोप॑ स्पृशामसि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हस्ताभ्यां । दशशाखाभ्यां । जिह्वा । वाचः । पुरःगवी ।  
+> अनामयित्नुभ्यां । त्वा । ताभ्यां । त्वा । उप । स्पृशामसि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशशाखाभ्यां । दशांगुलयः शाखाभूता ययोः तादृशाभ्यां प्रजापतेर्हस्ताभ्यां सृज्यमाना जिह्वा रसना वाचः शब्दस्य पुरोगवी पुरतो गंत्रि जाता । यत्र
+
+##### Gist of the bhāṣya
+
+The tongue, created by the two hands of Prajāpati, of which the ten fingers are the branches (दशशाखाभ्यां (*daśaśākhābhyāṃ*)), became the forerunner of speech (वाचः (*vācaḥ*)): wherever there is speech, it moves forward first for the utterance of that word.
+
+### Printed p. 889
+
+> यत्र शब्दस्तत्र सर्वत्र तस्य शब्दस्योच्चारणाय पुरतो व्याप्रियत इत्यर्थः । अनामयित्नुभ्यां सम्यगारोग्यहेतुभ्यां ताभ्यां हस्ताभ्यां हे स्तोतः त्वामुप स्पृशामसि । उपस्पृशामः ॥ इदंतो मसिः । त्वैति पुनरुक्तिः पारपूरणार्था ॥
+
+##### Gist of the bhāṣya
+
+That is the meaning. With those two hands, which are causes of perfect health, O worshipper, we touch you. The ending मसि (*masi*) has *idaṃtaḥ*. The second त्वा (*tvā*) is a repetition to fill out the verse-quarter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाचः (*vācaḥ*)—for the utterance of words
+- पुरोगवी (*purogavī*)—moving in advance
+- जिह्वा (*jihvā*)—the tongue
+- दशशाखाभ्यां (*daśaśākhābhyāṃ*)—provided with ten fingers
+- हस्ताभ्यां (*hastābhyāṃ*)—has been created by the two hands of Prajāpati
+- अनामयित्नुभ्यां (*anāmayitnubhyāṃ*)—which are the cause of health
+- ताभ्यां (*tābhyāṃ*)—with those hands (हे स्तोतः (*he stotaḥ*), O worshipper)
+- त्वा त्वा (*tvā tvā*)—you
+- उपस्पृशामसि (*upaspṛśāmasi*)—we touch
+
+##### भावार्थ (Bhāvārtha)
+
+The tongue moves before the utterance of words; that is, utterance of words comes about by the movement of the tongue. That tongue has been fashioned by the two hands of Prajāpati, with their ten fingers. O worshipper, with those hands of Prajāpati, which are causes of health, we touch you so that you may be happy.
+
+##### English translation
+The tongue (being cleansed) by the ten-branched hands (of Prajapathi is) the forerunner of speach; with those (hands) the removers of disease we touch you.
+
+## Sūkta 138 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तव त्य इति षडृचं दशमं सूक्तमुरुनाम्नः पुत्रस्यांगाख्यस्यार्षं जागतमैंद्रं । तथा चानुक्रांतं । तव त्ये षळंग औरवो जागतमिति ॥ गतो विनियोगः ॥
+> आनुवादवु—तव तै ऎंब ई सूक्तवु हन्नॊंदनॆय अनुवाकदल्लि हत्तनॆय सूक्तवु.
+> इदरल्लि आरु ऋक्कुगळिरुवुवु. ई सूक्तक्कॆ उरु ऎंब ऋषिय पुत्रनाद अंग ऎंबुवनु ऋषियु,
+> इंद्रनु देवतॆयु; जगती छंदस्सु. अनुक्रमणिकॆयल्लि-तव तै षळंग औरवो जागतं ऎंदु
+> हेळिरुवुदु. विनियोगवन्नु हिंदॆये हेळलागिदॆ.
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, तव त्य (*tava tya*), of six Ṛks. Its seer is Aṅga, son of Uru; the deity is Indra; the metre Jagatī. The Anukramaṇī says: तव त्ये षळंग औरवो जागतमिति (*tava tye ṣaḷaṃga auravo jāgatamiti*). The viniyoga has been stated already.
+
+##### Anuvāda
+
+This sūkta तव त्य (*tava tya*) is the tenth sūkta in the eleventh anuvāka. It has six Ṛks. Its seer is Aṅga, son of the ṛṣi Uru; the deity is Indra; the metre is Jagatī. In the Anukramaṇī it is said: *tava tye ṣaḷaṃga auravo jāgataṃ*. The viniyoga was stated earlier.
+
+### Printed p. 890
+
+> सूक्त-१३८
+> मंडल— १० ॥ अनुवाक—११ ॥ सूक्त—१३८ ॥
+> अष्टक ८ ॥ अध्याय—७ ॥ वर्ग—२६ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यॆ—६ ॥
+> ॥ ऋषिः—अंग औरवः ॥
+> ॥ देवता—इंद्रः ॥
+> ॥ छंदः—जगतीः ।
+
+Sūkta 138. Maṇḍala 10; Anuvāka 11; Sūkta 138. Aṣṭaka 8; Adhyāya 7; Varga 26. Number of Ṛks in the sūkta: 6. Seer: Aṅga Aurava. Deity: Indra. Metre: Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ त्य इं॑द्र स॒ख्येषु॒ वह्न॑य ऋ॒तं म॑न्वा॒ना व्य॑दर्दिरुर्व॒लं ।  
+> यत्रा॑ दश॒स्यन्नु॒षसो॑ रि॒णन्न॒पः कुत्सा॑य॒ मन्म॑न्न॒ह्य॑श्च  ॒॑
+> दंसयः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । त्ये । इंद्र । सख्येषु । वह्नयः । ऋतं । मन्वाना । वि । अदर्दिरुः । वलं ।  
+> यत्र । दशस्यन् । उषसः । रिणन् । अपः । कुत्साय । मन्मन् । अह्यः । च । दंसयः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव सख्येषु सखित्वेषु सत्तु त्ये ते प्रसिद्धा वह्नयो वोढारो
+> हविषां स्तुतीनां वा अत एवर्तं यज्ञं मन्वाना अवबुध्यमाना अंगिरसो वलं
+> गवामपहर्तारमेतत्संज्ञकमसुरं व्यवर्दिरुः । अत्यर्थं व्यदारयन् ॥ दृ विदारणे । अस्माद्यज् लुगांताल्लुज् । सिजभ्यस्तेति झॆर्जुः । जुसि चेति गुणः । व्यत्ययेनेत्वं ॥ आपि च यत्र यस्मिन्काले मन्मन् मन्मनि स्तोत्रे सति कुत्साय महर्षय
+> उषस उषःकालान्वृत्तेणावृतत्वात्तूर्वमसत्प्रायांस्तदपनोदनेन दशस्यन्वयच्छन्
+> तथापो वृत्रेणावृतान्युदकानि च रिणंस्तस्मान्निर्गमयन्वर्तसे ॥ री गतिरेषणयोः ।
+> क्रैयादिकः । प्वादीनां ह्रस्वत्वं ॥ तदानीमहोऽहेर्वृत्रस्य च दंसयः कर्माणि
+> वितथान्यासन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, while those well-known bearers (वह्नयः (*vahnayaḥ*)) of oblations or of praises were in your friendship, therefore, understanding the sacrifice (ऋतं (*ṛtaṃ*)), the Aṅgirases tore asunder Vala, the demon of that name who carried off the cows. The verb दृ (*dṛ*) means splitting. And further, at the time when, praise (मन्मन् (*manman*)) being offered, you were giving (दशस्यन् (*daśasyan*)) to the great seer Kutsa the dawns, which, being covered by darkness, had been almost non-existent, by removing that darkness, and were releasing (रिणन् (*riṇan*)) the waters covered by Vṛtra, taking them out from it: री (*rī*) is a root of going and moving, of the kryādi class. Then the deeds (दंसयः (*daṃsayaḥ*)) of Ahi, Vṛtra, were rendered vain; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तव (*tava*)—your
+- सख्येषु (*sakhyeṣu*)—friendship being present
+- त्ये (*tye*)—those well-known
+- वह्नयः (*vahnayaḥ*)—bearers of praise or oblation, who offer it to the gods
+- ऋतं (*ṛtaṃ*)—the order of performing the sacrifice
+- मन्वानाः (*manvānāḥ*)—the Aṅgirasa seers who knew it
+- वलं (*valaṃ*)—the king Vala (who had carried off the gods' cows)
+- वि अदर्दिराः (*vi adardirāḥ*)—tore apart (and)
+- यत्र (*yatra*)—when
+- मन्मन् (*manman*)—you are praised, then (you)
+- कुत्साय (*kutsāya*)—for the great seer Kutsa
+- उषसः (*uṣasaḥ*)—the dawns (light)
+- दशस्यन् (*daśasyan*)—producing
+- अपः (*apaḥ*)—the waters covered by Vṛtra
+- रिणन् (*riṇan*)—freed from there and sent out
+- अह्यः च (*ahyaḥ ca*)—and of Ahi
+- दंसयः (*daṃsayaḥ*)—the deeds that obstruct the waters were also in vain
+
+### Printed p. 891
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, while your friendship was there, those Aṅgirasa seers, who offer praises and oblations to the gods and know the performance of sacrifice, tore apart the asura Vala who had carried off the gods' cows. When Kutsa praised you, you made the dawns for him, that is, made light, and freed the waters that were covered by Vṛtra, sending them out from there; and all the deeds of the demon Vṛtra that obstruct the waters were rendered vain.
+
+##### English translation
+The bearers of oblations (the Angirasas), Indra honouring the sacrifice, have through your friendship torn Vala to pieces, when praise (being offered) desiring to give the dawns to Kutsa 'you were engaged in) freeing the waters, and Ahi's expolits (were foiled).
+
+##### विशेषविषयगळु (Special Topics)
+
+On the word दंसयः (*daṃsayaḥ*) in this Ṛk, Yāska says: दंसयः कर्माणि दंसयंत एतानि । कुत्साय मन्मन्नह्यश्च दंसयः । इत्यपि निगमो भवति । (*daṃsayaḥ karmāṇi daṃsayaṃta etāni | kutsāya manmannahyaśca daṃsayaḥ | ityapi nigamo bhavati |*) (Ni. 4-25). दंसयः (*daṃsayaḥ*) means works; because these are done and finished, works are called दंसयः (*daṃsayaḥ*). Ordinarily the works done by servants (śūdras, farmers, cultivators) are called दंसयः (*daṃsayaḥ*).
+The explanation Sāyaṇa gives of this Ṛk differs from that of Durgācārya, the commentator on the Nirukta. For the word वोढारः (*voḍhāraḥ*) Sāyaṇa takes the Aṅgirasa seers who bear oblation or praise. Durgācārya takes this word to mean Indra's horses that carry Indra's chariot, and explains the Ṛk accordingly: O Indra, the horses that carry you, for your pleasure, split the cloud (Vala) to release the water that is in the clouds, and you, for the farmer (cultivator)
+
 ---
 
-**Progress note:** Done through printed p. 885. pp. 880-885 (batch API)
+**Progress note:** Done through printed p. 891. pp. 886-891 (batch API)
