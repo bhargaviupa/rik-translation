@@ -27152,6 +27152,279 @@ engendered me without an enemy-
 
 "Because, O Indra, the gods, the Maruts and others, or the priests and sacrificers, in the manner thus stated, (increase) me, mighty, great, your son, existing in your form, Vasukra…".
 
+### Printed p. 764
+
+> कर्मन्कर्मन् वृत्रवधाग्निहोत्रादौ सर्वस्मिन्कर्मण्युग्रं शूरमसह्यं वा वृषणं
+> वर्षितारं हविषां दातारं जज्जुः जानंति अतो मंदसानो मोदमानोऽहं
+> वज्रेणायुधेन वृत्रं मेघासुरं वधीं । अवधिषं । किंच दाशुषे दविर्दत्तवते
+> यजमानाय वृष्टिप्रदानार्थं महिना महत्वेन व्रजं मेघसमूहमप वं ।
+> अपावं । अपवृणोमि ॥
+
+##### Gist of the bhāṣya
+
+Vasukra (as Indra) continues: in every rite, such as the slaying of Vṛtra or the agnihotra, they know him as fierce, mighty or irresistible, a showerer and giver of oblations. Therefore, exulting, he has slain the cloud-demon Vṛtra with the thunderbolt. For the sacrificer who has given an oblation he has opened the mass of clouds by his greatness, in order to grant rain. वधीं (*vadhīṃ*) is explained as "I slew" and वं (*vaṃ*) (with अप (*apa*)) as "I opened".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- हि (*hi*)—for what reason
+- एव (*eva*)—thus
+- देवाः (*devāḥ*)—the gods
+- तवसं (*tavasaṃ*)—powerful
+- मां (*māṃ*)—me
+- कर्मन् कर्मन् (*karman karman*)—in every rite
+- उग्रं (*ugraṃ*)—mighty
+- वृषणं (*vṛṣaṇaṃ*)—as the giver of oblations
+- जज्जुः (*jajjuḥ*)—have known; for that very reason
+- मंदसानः (*maṃdasānaḥ*)—I, filled with joy
+- वज्रेण (*vajreṇa*)—with the thunderbolt
+- वृत्रं (*vṛtraṃ*)—Vṛtra the Asura
+- वधीं (*vadhīṃ*)—I have destroyed
+- दाशुषे (*dāśuṣe*)—for the sacrificer
+- महिना (*mahinā*)—by greatness
+- व्रजं (*vrajaṃ*)—the mass of clouds
+- अप वं (*apa vaṃ*)—I have split open
+
+##### भावार्थ (Bhāvārtha)
+
+Vasukra: O Indra, because the gods thus know me, the powerful one, in every rite as the mighty giver of oblations, therefore I, filled with joy, have destroyed the Asura Vṛtra with the thunderbolt. For the sacrificer, by my greatness, I have split open the mass of clouds.
+
+##### English translation
+Since, Indra, the gods have known me to be powerful, fierce in every act, the showerer (of oblations): exulting I have slain Vritra with your thunderbolt, and by my might have opened the clouds for the donor (of oblations).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वास॑ आयन्पर॒शूर॑भिभ्र॒न्नना॑ वृ॒श्चंतो॑ अ॒भि वि॒ड्भिरा॑यन् ।  
+> नि सु॒द्वं१॒॑गदध॑तो व॒क्षणा॑सु॒ यत्रा॒ कृपी॑ट॒मनु॒ तद्द॑हंति ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवासः । आयन् । परशून् । अभिभ्रन् । वना । वृश्चंतः । अभि । विट्ऽभिः । आयन् ।  
+> नि । सुद्वं । दधतः । वक्षणासु । यत्र । कृपीटं । अनु । तत् । दहंति ॥ ८ ॥
+
+### Printed p. 765
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवासो देवा इंद्रेण चोदिताः संत आयन् । गच्छंति । मेघवधार्थं
+> परशून्वज्रानबिभ्रन् । धारयंति च । तदनंतरं विद्धिर्मरुदादिप्रजाभिः सहिता
+> वृश्चंतो मेघांश्मिंदंतो वना वनानि वृष्टिलक्षणान्युदकान्यभ्यायन् । अभिमुख्येन गच्छंति । ततः सुद्र्व्वं शोभनद्रवणं वृष्टु दकं वक्षणासु नदीषु नि दधतो
+> नियमेन स्थापयंतो यत्र यस्मिन्मेघजाते कृपीटं । उदकनामैतत् । निगूढमुदकं तिष्ठति त इमे देवास्तन्मेघजातमनु लक्षीकृत्य दहंति । उदकनिर्गमनार्थं
+> शोषयंति ॥
+
+##### Gist of the bhāṣya
+
+The gods, urged by Indra, come; to slay the cloud they bear axes (thunderbolts). Then, together with the Maruts and the other folk, cleaving the clouds, they approach the "woods" (वना (*vanā*)), that is, the waters in the form of rain. Then, firmly depositing the fair-flowing rain-water in the rivers (वक्षणासु (*vakṣaṇāsu*)), they burn (dry up) that mass of cloud in which कृपीटं (*kṛpīṭaṃ*) stands, कृपीटं (*kṛpīṭaṃ*) being a name for water, the hidden water that remains; they do so for the water to come out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—the gods
+- आयन् (*āyan*)—have come
+- परशून् (*paraśūn*)—their weapons
+- अभिभ्रन् (*abhibhran*)—bear
+- विड्भिः (*viḍbhiḥ*)—together with the Maruts and other folk
+- वृश्चंतः (*vṛścaṃtaḥ*)—cleaving the clouds
+- वना (*vanā*)—the waters
+- अभ्यायन् (*abhyāyan*)—they meet (they pour down)
+- सुद्वं (*sudvaṃ*)—excellent water
+- वक्षणासु (*vakṣaṇāsu*)—in the rivers
+- नि दधतः (*ni dadhataḥ*)—have established
+- यत्र (*yatra*)—in which group of clouds
+- कृपीटं (*kṛpīṭaṃ*)—there is water
+- तत् अनु (*tat anu*)—aiming at that
+- दहंति (*dahaṃti*)—they dry it up for the sake of the water
+
+##### भावार्थ (Bhāvārtha)
+
+Indra: By my impulse the gods have come. They bear their weapons. Together with the Maruts and other folk they cleave the clouds and meet the waters. They have established the excellent waters in the rivers. In whichever group of clouds there is water, aiming at that they dry it up for the sake of the water.
+
+##### English translation
+The gods came, they bare their axes ; clearing the woods, they came with men in front of the waters : depositing (the tree) of good wood in the belly (of the river), where the underwood (is), they burnt it up.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒शः क्षु॒रं प्र॒त्यंचं॑ जगा॒राद्रिं॑ लो॒गेन॒ व्य॑भेदमा॒रात् ।  
+> बृ॒हंतं॑ चिदृह॒ते रं॑धयानि॒ वय॑द्व॒त्सो वृ॑ष॒भं शूशु॑वानः ॥
+
+### Printed p. 766
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शशः । क्षुरं । प्रत्यंचं । जगार । अद्रिं । लोगेन । वि । अभेदं । आरात् ।  
+> बृहंतं । चित् । ऋहते । रंधयानि । वयत् । वत्सः । वृषभं । शूशुवानः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसुक्र इंद्रं प्रतिब्रूते । शश एतत्संज्ञितो मया प्रेरितो मृगविशेषः
+> प्रत्यंचं वधायात्मानं प्रति गच्छंतं क्षुरं क्षुरवंतं दृढदीर्घतीक्ष्णनखं सिंहव्याघ्रादिकं । बलवत्यूरमृगमित्यर्थः । जगार । गिरति गृह्णाति वा । किंच लोगेन
+> लोष्टेनाद्रिं हिमवदादिकं पर्वतमाराद्दूरे स्थितमपि व्यभेदं । अहं भिनद्मि ।
+> बृहंतं चिन्महांतमपि हस्त्यादिकमृते ह्रस्वकायाल्पाय शशकादिकाय रंधयानि ।
+> वशं गमयानि । शूशुवानो वीर्येण वर्धमानो वत्सो वृषभं महोक्षं
+> वयत् । युद्धाय गच्छति । हे इंद्र एतदपि सर्वं त्वत्पसादादहं करोमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Vasukra answers Indra. The hare (शश (*śaśa*)), a creature urged on by him, seizes the assailing क्षुरं (*kṣuraṃ*), that is, one with firm, long, sharp claws, a lion, tiger and the like, a powerful wild beast, coming against it to kill. Further, with a clod (लोगेन (*logena*)) he splits a mountain such as the Himālaya, even though far off. He can bring even a huge creature such as an elephant under the power of a small-bodied one such as a hare. The calf, growing in vigour, goes to fight the great bull. O Indra, all this he does by Indra's favour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शशः (*śaśaḥ*)—the hare
+- प्रत्यंचं (*pratyaṃcaṃ*)—that which falls upon it
+- क्षुरं (*kṣuraṃ*)—lions and the like with sharp claws
+- जगार (*jagāra*)—seizes
+- आरात् (*ārāt*)—though far off
+- अद्रिं (*adriṃ*)—a mountain
+- लोगेन (*logena*)—with a clod (a lump of earth)
+- व्यभेदं (*vyabhedaṃ*)—I can split
+- बृहंतं चित् (*bṛhaṃtaṃ cit*)—a large-bodied creature
+- ऋहते (*ṛhate*)—to a small-bodied creature
+- रंधयानि (*raṃdhayāni*)—I can make subject
+- शूशुवानः (*śūśuvānaḥ*)—grown strong with vigour
+- वत्सः (*vatsaḥ*)—a small calf
+- वृषभं (*vṛṣabhaṃ*)—a big bull
+- वयत् (*vayat*)—can face and fight
+
+##### भावार्थ (Bhāvārtha)
+
+Vasukra: (If Indra's favour is present) the hare can seize lions and the like with sharp claws that fall upon it. Though far away, I can split a mountain with a small clod of earth. I can make a large creature subject to a small one. A small calf grown strong with vigour can face and strike a big bull (can fight).
+
+##### English translation
+(Vasukra speaks:) The hare grasps the assailing beast of prey : with a clod of clay I cleave the distant (mountain): I can compel the great to submit to the small : swelling (with courage) the calf attacks the bull.
+
+#### Ṛk 10
+### Printed p. 767
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒प॒र्ण इ॒त्था न॒खमा सि॑षा॒याव॑रुद्धः परि॒पदं॒ न सिं॒हः ।  
+> नि॒रु॒द्धश्चि॑न्महि॒षस्त॒र्ष्यावा॑न्नो॒गाधा तस्मा॑ अ॒यथं॑ कर्षदे॒तत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुपर्णः । इत्था । नखं । आ । सिसाय । अवरुद्धः । परिपदं । न । सिंहः ।  
+> निरुद्धः । चित् । महिषः । तर्ष्यावान् । गोधा । तस्मै । अयथं । कर्षत् ।  
+> एतत् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुपर्णः पक्षिरूपा गायत्रीत्थामुत्र द्युलोके नखमात्मीयमा सिषाय ।
+> सोमाहरणकाल इंद्रार्थमाबबंध । इंद्रस्य प्रसादाद्दिवि पदं न्यस्तवतीत्यर्थः ।
+> तत्र दृष्टांतः । अवरुद्धः पंजरेणावृतः परिवेष्टितः सिंहः परिपदं न । यथा करस्कोपरि सर्वतः पादमवबध्नाति । किंच । चिदित्युपमार्थे । यथा केनापि बद्धपादो
+> निरुद्धो महिषस्तर्ष्यावानुदकाभावे तृषावान्भवति एवमिंद्रः सोमाहरणातूर्वं सोमाभावे तृषितवानभूदिति शेषः । तस्मै । तादर्थ्ये चतुर्थी । तादृशस्य
+> तृषितस्येंद्रस्यार्थं गोधा । गमयति वर्णानिति गौर्वाक् तत्र निधीयमानत्वाद्यायत्रि गोधा । यद्वा । गुधिर्निष्कर्षणार्थः । निष्कृष्यसोमाहरणाद्गोधा गायत्री ।
+> आयथमयत्नेन । लीलयेत्यर्थः । एतत्सोमजातं कर्षत् । आकृष्टवती । दिवः
+> सकाशादाहृतवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The bird-formed Gāyatrī, yonder in heaven (इत्था (*itthā*)), fastened (सिषाय (*siṣāya*)) her claw for Indra at the time of fetching Soma; by Indra's favour she set her foot in heaven. Illustration: like a lion confined in a cage (परिपदं न (*paripadaṃ na*)), which fastens its foot all round over its paw. Further, चित् (*cit*) is in the sense of comparison: as a buffalo whose foot is bound by someone becomes thirsty when there is no water, so Indra, after the fetching of Soma, grew thirsty when Soma was lacking (this is to be supplied). तस्मै (*tasmai*) is dative of purpose: for such a thirsty Indra. गोधा (*godhā*) is Gāyatrī: "gau" is speech, which conveys the letters, and being placed in it she is गोधा (*godhā*); or else the root गुधि (*gudhi*) has the sense of drawing out, and Gāyatrī, having drawn out and fetched Soma, is गोधा (*godhā*). आयथं (*āyathaṃ*) is "without effort", i.e. playfully. कर्षत् (*karṣat*): she drew this Soma, brought it from heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवरुद्धः (*avaruddhaḥ*)—confined in a cage
+- सिंहः न परिपदं (*siṃhaḥ na paripadaṃ*)—as a lion places one foot over another
+- सुपर्णः (*suparṇaḥ*)—the bird (Gāyatrī)
+- इत्था (*itthā*)—in heaven
+- नखं (*nakhaṃ*)—her claw
+- आ सिसाय (*ā sisāya*)—fixed
+- निरुद्धः (*niruddhaḥ*)—tied up
+- महिषः (*mahiṣaḥ*)—the buffalo
+- तर्षान्वान् (*tarṣānvān*)—suffers from thirst (Indra suffered from lack of Soma)
+- तस्मै (*tasmai*)—for that Indra
+- गोधा (*godhā*)—Gāyatrī
+- अयथं (*ayathaṃ*)—without effort
+- एतत् (*etat*)—this Soma
+- कर्षत् (*karṣat*)—carried off and brought
+
+##### भावार्थ (Bhāvārtha)
+
+Indra: As a lion confined in a cage places one foot over another, so Gāyatrī in bird form fixed her claw in heaven. As a tied-up buffalo suffers from thirst, so Indra suffered from lack of Soma.
+
+### Printed p. 768
+For that Indra, Gāyatrī carried off this Soma and brought it without effort.
+
+##### English translation
+The hawk has fastened her claw in heaven : as a lion confined (in a cage) places one foot over the other. As a captivc buffalo (is) thirsty, (so) Indra thirsted for the Soma, Gayatri brought it to him easily (from heaven)
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तेभ्यो॑ गो॒धा आ॒यथं॑ कर्षदे॒तद्ये ब्र॒ह्मणः॑ प्रति॒पीयं॒त्यन्नैः॑ ।  
+> सि॒म उ॒क्ष्णो॑ऽवसृ॒ष्टा अ॑दंति स्व॒यं बला॑नि त॒न्वः॑ शृणा॒नाः ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तेभ्यः । गोधा । अयथं । कर्षत् । एतत् । ये । ब्रह्मणः । प्रतिपीयंति । अन्नैः ।  
+> सिमः । उष्णः । अवसृष्टान् । अदंति । स्वयं । बलानि । तन्वः । शृणानाः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुदादिदेवगणा ब्रह्मणः परिवृढस्येंद्रस्य स्वभूतैरन्नैः सोमाख्यैः ।
+> तृप्ताः संत इति शेषः । प्रतिपीयंति । पीयतिर्हिंसाकर्मा । इंद्रादेशाद्दिंसकांत्रतिहिंसंति तेभ्यस्तेषां देवगणानामर्थाय गोधाः पूर्वोक्ता गायत्र्ययथमनायासेन्नैतत्सोमजातं कर्षत् । आकृष्टवती । किंच सिमः सिमाइष्ठान् ।
+> यद्वा । सिमशब्दः सर्वशब्द पर्यायः । सर्वान् । उक्ष्णः सिंचतोऽवसृष्टानिंद्रेण
+> निसृष्टाननुज्ञातान्विर्भूतान्नोमान्यज्ञॆष्टदंति । भक्षयंति । किं कुर्वंतः । स्वयमात्मनैव बलानि शत्रूणां सैन्यानि तन्नः शरीराणि च शृणाना हिंसंतः । गायत्रींद्रादेशाद्देवेभ्यः सोममाहृतवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The hosts of gods, Maruts and others, who, satisfied with the Soma-foods that are the property of ब्रह्मणः (*brahmaṇaḥ*) (the great Indra), प्रतिपीयंति (*pratipīyaṃti*): the root पीय (*pīya*) means to injure; at Indra's command they injure in return those who injure them. For those hosts of gods the aforesaid Gāyatrī, गोधा (*godhā*), drew this Soma without effort. Further, सिमः (*simaḥ*) means "all", सिम (*sima*) being a synonym of सर्व (*sarva*). They eat (अदंति (*adaṃti*)) all the sprinkling (उक्ष्णः (*ukṣṇaḥ*)) Somas that Indra has released (अवसृष्टान् (*avasṛṣṭān*)), allowed, made manifest, at the sacrifice. What are they doing? Themselves, by their own strength, destroying (शृणानाः (*śṛṇānāḥ*)) the armies of enemies and their bodies. The meaning: at Indra's command Gāyatrī brought Soma for the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Maruts and other gods
+- ब्रह्मणः (*brahmaṇaḥ*)—of the strong Indra
+- अन्नैः (*annaiḥ*)—with the foods in the form of Soma, satisfied
+- प्रतिपीयंति (*pratipīyaṃti*)—are able to injure enemies
+- तेभ्यः (*tebhyaḥ*)—for them
+
+### Printed p. 769
+- गोधाः (*godhāḥ*)—Gāyatrī
+- अयथं (*ayathaṃ*)—without effort
+- एतत् (*etat*)—this Soma
+- कर्षत् (*karṣat*)—carried off and brought
+- स्वयं (*svayaṃ*)—by their own power
+- बलानि (*balāni*)—the armies of enemies
+- तन्नः (*tannaḥ*)—the bodies of enemy people
+- शृणानाः (*śṛṇānāḥ*)—destroying
+- अवसृष्टान् (*avasṛṣṭān*)—those that remain after Indra has drunk
+- उक्ष्णः (*ukṣṇaḥ*)—and that flow
+- सिमः (*simaḥ*)—all the Soma juices
+- अदंति (*adaṃti*)—they eat
+
+##### भावार्थ (Bhāvārtha)
+
+Vasukra: The Maruts and other gods who, satisfied with the Soma-foods of the strong Indra, are able to injure enemies: for them Gāyatrī carried off this Soma and brought it without effort. Destroying by their own power the armies of enemies and the bodies of enemy people, they drink all the Soma juices that remain (after Indra has drunk) and that flow.
+
+##### English translation
+Gayatri drew it away without difficulty, for the good of those (gods) who, (satisfied) with the viands of Indra, retaliate the injuries (of the enemies of the gods): they devour all the sprinkling (Soma libations) left (by Indra), spontaneously destroying the armies and bodies (of the enemy).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते शमी॑भिः सु॒शमी॑ अभूव॒न्ये हि॑न्वि॒रे त॒न्व१॒॑गः सोम॑ उ॒क्षैः।  
+> नृ॒वद्वद॒न्नुप॑ नो माहि॒ वाजा॑न्दि॒वि श्रवो॑ दधिषे॒ नाम॑  ॒
+> वीरः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । शमीभिः । सुशमी । अभूवन् । ये । हिन्विरे । तन्वः । सोमे । उक्तैः ।  
+> नृवत् । वदन् । उप । नः । माहि । वाजान् । दिवि । श्रवः । दधिषे । नाम !  
+> वीरः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये देवर्ष्यादयस्तन्वः शरीराणि सोमे सोमयाग उक्षैः शस्त्रैर्हिन्विरे
+> वर्धयंति एते देवादय इंद्रादेशात्सोम आह्ृते सति शमीभिः सोमयाग-
+
+##### Gist of the bhāṣya
+
+The divine seers and others who strengthen (हिन्विरे (*hinvire*)) their bodies at the Soma sacrifice with उक्षैः (*ukṣaiḥ*), that is, with praises (*śastraiḥ*): these gods and the rest, when Soma has been fetched at Indra's command, with शमीभिः (*śamībhiḥ*) (the rites of the Soma sacrifice)…
+
 ---
 
-**Progress note:** Done through printed p. 763. pp. 758-763 (batch API)
+**Progress note:** Done through printed p. 769. pp. 764-769 (batch API)
