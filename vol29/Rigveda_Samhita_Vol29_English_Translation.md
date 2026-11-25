@@ -16135,13 +16135,9 @@ The gods produced first the words of praise such as "idam dyāvāpṛthivī", th
 ##### English translation
 The gods first generated the words of the hymn, then Agni, hent the oblation ; he is the (object of the) sacrifice of these deities, the protector of the body ; him the heaven knows, him the earth and the waters know.
 
-#### Ṛk 9
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
 ### Printed p. 553
 
-#### Ṛk 10
+#### Ṛk 9
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
