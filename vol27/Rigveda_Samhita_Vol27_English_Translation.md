@@ -26895,6 +26895,263 @@ Indra: I, the showerer of desires, with sharp rays, the famous, am established, 
 > अद्रि॑णा ते म॒ुंदिन॑ इंद्र॒ तूया॑न्तु॒न्वंति॒ सोमा॒न्पिब॑सि॒  ॑
 > त्वमेषां ।
 
+### Printed p. 758
+
+> पचंति ते वृषभा अत्सि तेषां पृक्षेण यन्मघवन्नूयमानः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आद्रिणा । ते । मंदिनः । इंद्र । तूयान् । सुन्वंति । सोमान् । पिबसि । त्वं । एषां ।  
+> पचंति । ते । वृषभान् । अत्सि । तेषां । प्रक्षेण । यत् । मघवन् । हूयमानः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदर्थं मुंदिनो मादयित्थंस्तूयानविलंबितान्सोमानद्रिणाभिषवग्रावा सुन्वंति। यजमाना अभिषुण्वंति।एषामस्मदादियजमानानां संबंधिनः सोमांस्तं पिबसि । किंच त्वदर्थं वृषभान्पशून्ये च यजमानाः पचंति
+> तेषां संबंधिनो हविर्भूतान्नशूनस्ति । भक्षयसि । हे मघवनवन्निंद्र त्वं
+> यदा प्रक्षेण हविर्भूतेनान्नेन निमित्तेन हूयमानः यजमानैर्हूयसे तदेति
+> पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, for you the worshippers press with the pressing-stone the exhilarating, swiftly flowing Soma-juices. You drink the Soma of these sacrificers (us and others). Moreover, the bulls, the animals that the sacrificers cook for you, you eat, as offerings belonging to them. O Maghavan Indra, when you are invoked by the sacrificers with the oblation-food (prakṣa), then (this connects with what precedes)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—for you
+- मंदिनः (*maṃdinaḥ*)—exhilarating
+- तूयान् (*tūyān*)—swiftly flowing, Soma-juices
+- अद्रिणा (*adriṇā*)—with the pressing-stones
+- सुन्वंति (*sunvaṃti*)—the sacrificers press
+- एषां (*eṣāṃ*)—given by these sacrificers
+- सोमान् (*somān*)—Soma-juices
+- त्वं (*tvaṃ*)—you
+- पिबसि (*pibasi*)—you drink
+- वृषभान् (*vṛṣabhān*)—bulls
+- ते पचंति (*te pacaṃti*)—the sacrificers cook for you
+- मघवन् (*maghavan*)—O wealthy Indra
+- प्रक्षेण (*prakṣeṇa*)—by reason of the oblation
+- यत् हूयमानः (*yat hūyamānaḥ*)—when you are invoked, then
+- तेषां (*teṣāṃ*)—the oblations offered by the sacrificers
+- अत्सि (*atsi*)—you eat
+
+##### भावार्थ (Bhāvārtha)
+
+Vasukra (Ṛks 3, 4, 5): O Indra, for you the sacrificers press with the pressing-stones the exhilarating, swiftly flowing Soma-juices. You drink the Soma-juices given by these sacrificers. The sacrificers cook bulls for you. O wealthy Indra, whenever you are invoked by reason of the oblation, you eat the oblations offered by the sacrificers.
+
+### Printed p. 759
+
+##### English translation
+(Vasukra speaks :) Your worshippers express with the stone fast flowing exhilarating Soma-juices for you, you drink them ;they roast bulls for you, you eat them, when you are invoked, Maghavan, to the sacrificial food.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं सु मे॑ जरित॒रा चि॑किद्धि प्रती॒पं शापं॑ न॒द्यो॑ वहंति ।  
+> लो॒पा॒शः सिं॒हं प्र॒त्यंच॑मत्साः क्रो॒ष्टा व॑रा॒हं निर॑तक्त॒  ॑
+> कक्षात् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । सु । मे । जरितः । आ । चिकिद्दि । प्रतिईपं । शापं । नद्यः । वहंति ।  
+> लोपाशः । सिंहं । प्रत्यंचं । अत्सारिति । क्रोष्टा । वराहं । निः । आतक्त । कक्षात् ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जरितः शत्रूणां जरयितरिंद्र त्वं मे मम सु शोभनमपीदमादृशं
+> रूपं सामर्थ्यमा चिकिद्दि । आ समंताज्ञानीहि । कीदृशं । नद्यो गंगाद्याः सरितः
+> प्रतीपं प्रतिकूलं शापमुदकं वहंति । अपि च लोपाशः । लुष्यमानं तृणमश्नातीति लोपाशो मृगः । मया प्रेषितः सन् प्रत्यंचमात्मानं प्रति गच्छंतं सिंहमत्साः । अत्सारीत् । अभिमुख्येन गच्छति । तथा क्रोष्णा शृगालो वराहं बलवंतमपि सूकरं कक्षादतिगहनदेशान्निरतक्त । निर्गमयति । एतदपि सर्वं सामर्थ्यं
+> त्वत्पुत्रे मयि त्वत्प्रसादाल्बद्धमपि जानीहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Jaritṛ, destroyer of enemies, Indra, know well this kind of my power: the rivers such as the Gaṅgā bear their water against the current. Moreover the लोपाशः (*lopāśaḥ*), the animal that eats grass being cut, sent by me, drives off the lion coming against it (*atsāḥ* is read as 'goes facing'); and the jackal drives the boar, though strong, out of the deep thicket (निरतक्त (*niratakta*) means 'makes go out'). Know all this power, obtained by your grace in me, your son."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जरितः (*jaritaḥ*)—O Indra, destroyer of enemies (by which power of mine)
+- नद्यः (*nadyaḥ*)—the rivers such as the Gaṅgā
+- शापं (*śāpaṃ*)—water
+- प्रतीपं (*pratīpaṃ*)—with the current turned back
+- वहंति (*vahaṃti*)—flow
+- लोपाशः (*lopāśaḥ*)—the animal that eats grass
+- प्रत्यंचं (*pratyaṃcaṃ*)—falling upon itself
+- सिंहं (*siṃhaṃ*)—the lion
+- आत्साः (*ātsāḥ*)—is able to drive off (and)
+- क्रोष्टा (*kroṣṭā*)—the jackal
+- वराहं (*varāhaṃ*)—the powerful wild boar
+- कक्षात् (*kakṣāt*)—from its thicket
+- निरतक्त (*niratakta*)—is able to drive out
+- मे (*me*)—my
+- सु (*su*)—excellent
+- इदं (*idaṃ*)—this power
+- आ चिकिद्दि (*ā cikiddi*)—know
+
+### Printed p. 760
+
+##### भावार्थ (Bhāvārtha)
+
+Vasukra: O Indra, destroyer of enemies, know this excellent power of mine, obtained by your grace, as a result of which the rivers such as the Gaṅgā make their current flow backwards, by which the grass-eating animal can drive off the lion that falls upon it, and the jackal can drive the powerful wild boar out of the dense thicket.
+
+##### English translation
+Overcomer of foes, (Indra) be cognizant of this my (power, where.
+by) rivers bear their water backwards, and the eater of cut (grass) confronts
+the lion, the jackal dries the wild boar from his lair.
+
+##### विशेषविषयगळु (Special Topics)
+
+सोमो अक्षाः (*somo akṣāḥ*)—Yāska has explained the etymology of the word अक्षाः (*akṣāḥ*) through two examples:
+सोमो अक्षाः । न यस्य द्यावापृथिवी न धन्व नांतरिक्षं नाद्रयः सोमो अक्षाः । अश्नोतेरित्येवमेके । अनूपेगोमान्नोभिरक्षाः । सोमो दुग्धाभि रक्षाः । लोपाशः सिंहं प्रत्यंच मत्साः । क्षियतिनिगमः पूर्वः क्षरतिनिगम उत्तर इत्येके अनूपे गोमान्गोभिर्यदा क्षियंत्यथ सोमो दुग्धाभ्यः क्षरति सर्वे क्षियतिनिगमा इति शाकपूणिः ॥ (*somo akṣāḥ | na yasya dyāvāpṛthivī na dhanva nāṃtarikṣaṃ nādrayaḥ somo akṣāḥ | aśnoterityevameke | anūpegomānnobhirakṣāḥ | somo dugdhābhi rakṣāḥ | lopāśaḥ siṃhaṃ pratyaṃca matsāḥ | kṣiyatinigamaḥ pūrvaḥ kṣaratinigama uttara ityeke anūpe gomāngobhiryadā kṣiyaṃtyatha somo dugdhābhyaḥ kṣarati sarve kṣiyatinigamā iti śākapūṇiḥ ‖*) (Ni. 5.3)
+The word अक्षाः (*akṣāḥ*) is derived from the root क्षि (*kṣi*) meaning "dwell". Some say it is derived from the root अश् (*aś*) meaning "go, pervade". Two Śruti sentences are given here as examples. In the first sentence the meaning "dwelling" is indicated for the word अक्षाः (*akṣāḥ*), and in the second example the meaning "flowing away". The view of the teacher Śākapūṇi is that in both examples the meaning "dwell" is indicated for the word अक्षाः (*akṣāḥ*).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था त॑ ए॒तद॒हमा चि॑केतं॒ गृत्स॑स्य॒ पाक॑स्त॒वसो॑ मनी॒षां ।  
+> त्वं नो॑ वि॒द्वा ऋ॑तु॒था वि वो॑चो॒ यमर्ध०॑ ते मघवन्क्षे॒म्या धूः ॥ ५ ॥
+
+### Printed p. 761
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । ते । एतत् । अहं । आ । चिकेतं । गृत्सस्य । पाकः । तवसः । मनीषां ।  
+> त्वं । नः । विद्वान् । ऋतुथा । वि । वोचः । यं । अर्धं । ते । मघवन् ।  
+> क्षेम्याः । धूः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पाकः पक्तव्यप्रज्ञोऽहं गृत्सस्य मेधाविनस्तवसो वृक्षस्य ते तव
+> मनीषां स्तुतिं । कर्तुमिति शेषः । एतदीदृशं त्वदीयं सामर्थ्यं कथा कथं केन
+> प्रकारेणा चिकेतं । आ समंताज्ञानामि । त्वदुपदेशं विना न जानामीत्यर्थः ।
+> तस्मात्कारणाद्विद्वान् सर्वज्ञस्वमेव नोऽस्मभ्यमृतुथा काले काले वि वोचः ।
+> विशेषेण ब्रूहि । हे मघवनन्नवन्निंद्र ते तवार्धं यं स्तुत्यवयवं कुर्मः सा
+> स्तुतिर्धूः क्षेम्या क्षेमे भवा क्लेशरहिता वोढुं शक्यास्ति । यस्मात्तव स्तुत्यवयवमेव वयमक्लेशेन कर्तुं न शक्कुमोऽस्माकं मंदबुद्धित्वात् तस्मात्त्वमेवास्सभ्यं स्वसमार्थ्यं स्तुतिप्रकारं च पुनरपि कथयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, I, with immature understanding, how can I know this power of yours, to compose praise (the infinitive is to be supplied) for you, the wise (गृत्सस्य (*gṛtsasya*)) and mighty (तवसः (*tavasaḥ*), here explained as 'tree' in the text)? I cannot know it without your instruction. Therefore you, the all-knowing, declare to us in due seasons. O Maghavan Indra, the portion of praise that we make for you: that praise is a burden easy to bear, free from trouble. Since we, dull of mind, cannot make even a part of your praise without trouble, tell us again your own power and the manner of praising."**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) पाकः (*pākaḥ*)—of immature understanding
+- अहं (*ahaṃ*)—I
+- गृत्सस्य (*gṛtsasya*)—wise
+- तवसः (*tavasaḥ*)—and mature
+- ते (*te*)—addressed to you
+- मनीषां (*manīṣāṃ*)—praise
+- to offer: एतत् (*etat*)—this power of yours
+- कथा (*kathā*)—in what manner
+- आ चिकेतं (*ā ciketaṃ*)—can I know?
+- विद्वान् (*vidvān*)—all-knowing
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- ऋतुथा (*ṛtuthā*)—according to each time
+- वि वोचः (*vi vocaḥ*)—teach discernment
+- मघवन् (*maghavan*)—O wealthy Indra
+- यं अर्धं (*yaṃ ardhaṃ*)—which part of praise
+- ते (*te*)—we offer to you
+- धूः (*dhūḥ*)—its burden
+- क्षेम्याः (*kṣemyāḥ*)—is without difficulty to bear
+
+##### भावार्थ (Bhāvārtha)
+
+Vasukra: O Indra, how can I, of immature understanding, know your power, so as to offer praise to you, the wise and the mature? You, the all-knowing, teach us discernment in due season. O wealthy Indra, the burden of whatever portion of praise we offer you will be easy for you to bear.
+
+### Printed p. 762
+
+##### English translation
+How Indra, should I, yet immature (in understanding), be capable
+of comprehending this (your power, so as to render fitting) praise to you
+who are wise and powerful? Therefore you who are all-knowing instruct
+us in fit season; the portion of your (praise), O Maghavan, which (we
+offer) is a burden easy to be borne.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा हि मां त॒वसं॑ व॒र्धयं॑ति दि॒वश्चि॑न्ने बृह॒त उत्त॑रा॒ धूः ।  
+> पु॒रू स॒हस्रा॒ नि शि॑शामि सा॒कम॑श॒त्रुं हि मा॒ जनि॑ता ज॒जान॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । हि । मां । तवसं । वर्धयंति । दिवः । चित् । मे । बृहतः । उत्तरा ।  
+> धूः ।  
+> पुरु । सहस्रा । नि । शिशामि । साकं । अशत्रुं । हि । मा । जनिता । जजान ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हि यस्मात्कारणादेवैवमुक्तप्रकारेण तवसं प्रवृद्धं मां स्तोतारः
+> स्तुतिभिः स्तुवंतो वीर्येण वर्धयंति तस्मात्कारणाद्बृहतो महतो मे
+> ममेंद्रस्य दिवश्चिद्दुलोकादपि धूः स्तुतिरुत्तरोद्धृततराधिकतरा । किंच पुरु
+> पुरूणि बहूनि सहस्रा शत्रूणां सहस्राणि साकं युगपन्नि शिशामि । तनूकरोमि !
+> हिनस्मीत्यर्थः । हि यस्मात्कारणाज्जनिता सर्वस्य जनयिता प्रजापतिर्मा मामिंद्रमुशत्रुमविद्यमानशत्रुं जजान जनितवान् ॥
+
+##### Gist of the bhāṣya
+
+"Because the praisers, praising with hymns, thus increase me, the mighty one, with strength, therefore the praise of me, great Indra, is higher and greater even than the heaven. Moreover I at once destroy (नि शिशामि (*ni śiśāmi*): make thin, kill) many thousands of enemies, because the generator of all, Prajāpati, has begotten me, Indra, without an enemy."**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हि (*hi*)—because
+- एव (*eva*)—thus
+- तवसं (*tavasaṃ*)—mighty
+- मां (*māṃ*)—me
+- वर्धयंति (*vardhayaṃti*)—the praisers praise and strengthen; for that very reason
+- बृहतः (*bṛhataḥ*)—of great nature
+- मे (*me*)—addressed to me
+- धूः (*dhūḥ*)—praise
+- दिवश्चित् (*divaścit*)—than heaven
+- उत्तरा (*uttarā*)—is higher
+- हि (*hi*)—by what power
+- जनिता (*janitā*)—the generator, Prajāpati
+- मा (*mā*)—
+
+### Printed p. 763
+me
+- अशत्रुं (*aśatruṃ*)—without an enemy
+- जजान (*jajāna*)—has produced, therefore
+- पुरु (*puru*)—many
+- सहस्रा (*sahasrā*)—thousands of enemies
+- साकं (*sākaṃ*)—together
+- नि शिशामि (*ni śiśāmi*)—I destroy
+
+##### भावार्थ (Bhāvārtha)
+
+Indra: Because the praisers praise and strengthen me, grown mighty for my greatness, therefore the praise addressed to me, of great nature, is higher than heaven. By the power through which Prajāpati, the generator of the world, has produced me without an enemy, I destroy together many thousands of enemies.
+
+##### English translation
+(Indra speaks :) Since (your laudations) thus increase my strength,
+(let) the praise of me who am mighty, (rise) even higher than the heavens.
+I destroy at once many thousands (of foes), for the generator (of all) has
+engendered me without an enemy-
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा हि मां त॒वसं॑ ज॒ज्जुरु॒ग्रं कर्म॑न्कर्म॒न्वृष॑णमिंद्र  ॒
+> देवाः ।  
+> वधीं॑ वृ॒त्रं वज्रे॑ण मंदसा॒नोऽप॑ व्र॒जं म॑हि॒ना दा॒शुषे॑  
+> वं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । हि । मां । तवसं । जज्जुः । उग्रं । कर्मन्कर्मन् । वृषणं । इंद्र ।  
+> देवाः ।  
+> वधीं । वृत्रं । वज्रेण । मंदसानः । अप । व्रजं । महिना । दाशुषे । वं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हि यस्मात्कारणादेवैवमनेनोक्तप्रकारेण हे इंद्र देवा मरुदादय
+> ऋत्विग्यजमाना वा तवसं महांतं त्वत्पुत्रंत्वद्रूपेणावस्थितं संतं वसुक्रं मां
+
+##### Gist of the bhāṣya
+
+"Because, O Indra, the gods, the Maruts and others, or the priests and sacrificers, in the manner thus stated, (increase) me, mighty, great, your son, existing in your form, Vasukra…".
+
 ---
 
-**Progress note:** Done through printed p. 757. pp. 752-757 (batch API)
+**Progress note:** Done through printed p. 763. pp. 758-763 (batch API)
