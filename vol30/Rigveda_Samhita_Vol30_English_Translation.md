@@ -4689,6 +4689,287 @@ That Indra, for द्रुह्वणे (*druhvaṇe*), one firmly pulled ab
 
 For his devotee, who is pulled about firmly by enemies, Indra, possessed of the greatest qualities such as heroism, employs a harming weapon for the destruction of the enemies. Indra, the most excellent guide, more than human beings, of excellent birth, worthy of worship, splits for us the bodies of the enemies in the battle that destroys demons.
 
+### Printed p. 128
+
+##### English translation
+Raising himself on high, he launched his arrow against the malignant aggressive foe. He, the chief leader of men, manifested favourably for our (aid), laudable, slew the bodies (of enemies) in the slaughter of the Dasyus.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो अ॒भ्रियो॒ न यव॑स उद॒न्यन्पया॑य गा॒तुं वि॒दन्नो॑  ॒
+> अस्मे ।  
+> उप॒ यत्सीद॒दिंदुं॒ शरी॑रैः श्ये॒नोऽयो॑पाष्टि र्हंति॒  ॑
+> दस्यून् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अभ्रियः । न । यवसे । उदन्यत् । क्षयाय । गातुं । विदत् । नः । अस्मे इति ।  
+> उप । यत् । सीदत् । इंदुं । शरीरैः । श्येनः । अयःऽअपाष्टिः । हंति । दस्यून् ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रोऽभ्रियो न । न भ्राजंतेऽपो बिभ्रतीति वाभ्राणि मेघाः । तेषां
+> संघोऽभ्रियः । स इव यवसे गवादिभक्षणसाधनाय तृणायोदन्यन्नुदकं
+> दातुमिच्छन् । तथा क्षयाय गमनाय निवासाय वास्मे अस्माकं गातुं
+> मार्गं विदल्लंभयन् । न इति पूरणः । तादृशः सन् यद्यदेंदुं सोमं
+> शरीरैः स्वशरीरावयवैरंगैरुप सीदत् उपगच्छति ॥ यच्छब्दयोगादनिघातः ॥
+> तदानीं श्येनः । सादृश्यप्रधानोऽयं निर्देशः । श्येनसदृशः श्येनवच्छंसनीयगमनोऽयोपाष्टिः । अपयष्टिर्व्याप्तिर्यस्य स प्रदेशोऽपाष्टिः पाष्णि ९ । अयोमयोऽपाष्टिः पाष्णिर्यस्य सः । दस्यूइत्यून्हंति । हिनस्ति ।
+
+##### Gist of the bhāṣya
+
+That Indra is like an *abhriya*. Clouds (*abhra*) are so called either because they do not shine or because they bear water, and their multitude is the *abhriya*. Like it, he desires to give water to the *yavasa*, the grass that serves as fodder for cattle and the like. Likewise he finds for us (*asme*) the way (*gātu*) for going to, or dwelling in, our home (*kṣaya*). The word "na" is only a filler. Being such, when (*yat*) he approaches Soma (*indu*) with his own limbs (*śarīraiḥ*), then he is "श्येन (*śyena*)". This is a statement based on likeness: he is like a hawk, with a praiseworthy manner of going. He is *ayopāṣṭi*: his heel (*pāṣṇi*) is made of iron. **NOTE**. He smites (*hanti*) the Dasyus, that is, he destroys them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यवसे (*yavase*)—for the grass that is food for our cows
+- उदन्यत् (*udanyat*)—desiring to give water
+- अभ्रियोन (*abhriyona*)—like a mass of clouds
+- सः (*saḥ*)—Indra
+- अस्मे (*asme*)—our
+- क्षयाय (*kṣayāya*)—for coming to the home
+- गातुं (*gātuṃ*)—the path
+- विदत् (*vidat*)—he has known
+- यत् (*yat*)—when
+- इंदुं (*iṃduṃ*)—
+
+### Printed p. 129
+- इंदुं (*iṃduṃ*)—(continued) Soma
+- शरीरैः (*śarīraiḥ*)—with his own body
+- उपसीदत् (*upasīdat*)—approaches
+- श्येनः (*śyenaḥ*)—one who goes like a hawk
+- अयोपाष्टिः (*ayopāṣṭiḥ*)—one whose heel is made of iron (firm like iron), namely Indra
+- दस्यून् (*dasyūn*)—the enemies
+- हंति (*haṃti*)—destroys
+
+##### भावार्थ (Bhāvārtha)
+
+Like a mass of clouds that wishes to give water to the grass fit to be eaten by our cows, Indra knows the way to come to our home. When he approaches the Soma with his own body, then Indra, who goes like a hawk and whose heel is firm like iron, destroys the enemies.
+
+##### English translation
+Like the aggregated cloud desiring to pour water on the pasturage, he found the way to our dwelling : when he approaches the Soma with his limbs like a hawk with heel of iron he smites the Dasyus.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स व्राध॑तः शवसा॒नेभि॑रस्य॒ कुत्सा॑य॒ शुष्णं॑ कृ॒पणे॒ परा॑दात् ।  
+> अ॒यं क॒विम॑नयच्छ॒स्यमा॑न॒मत्कं॒ यो अ॑स्य॒ सनि॑तो॒त नृ॒णां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । व्राधतः । शवसानेभिः । अस्य । कुत्साय । शुष्णं । कृपणे । परा । अदात् ।  
+> अयं । कविं । अनयत् । शस्यमानं । अत्कं । यः । अस्य । सनिता । उत । नृणां ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो व्राधतः । महन्नामैतत् । महतोऽपि शत्रूञ्यवसानेभिर्बलमाचरद्भिरायुधैरस्य । अस्यतु ॥ असु क्षेपणे । व्यत्ययेन मध्यमः ॥ कुत्सायैतन्नामकाय कृपणे स्तोत्रे । कृपतिः स्तुतिकर्मा । शुष्णं शोषकमेतन्नामकमसुरं परादात् । पराभूय खंडितवान् । कुत्साय शुष्मशुषं नि बर्हीः ।
+> ऋ. ४-१६-१२ । इति मंत्रांतरं । किंचायमिंद्रः कविमुशनसं । कविरिति पितृनाम्म
+> पुत्रस्यापि व्यवहार उपचारात् । शस्यमानं स्तुवंतमनयत् । वशं प्रापयत्तस्य
+> 9
+
+##### Gist of the bhāṣya
+
+That Indra overthrows (*asyati*, from the root *asu* in the sense of throwing; the middle-person ending stands by *vyatyaya*) even the mighty enemies (*vrādhataḥ* is a name for "mighty") with his powerful weapons (*śavasānebhiḥ*). For Kutsa, so named, a praiser (*kṛpaṇa*; *kṛpati* means the act of praising), he defeated (*parādāt*) and broke the asura named Śuṣṇa, the "drier". Another mantra says: कुत्साय शुष्मशुषं नि बर्हीः । (*kutsāya śuṣmaśuṣaṃ ni barhīḥ |*) (Ṛ. Saṃ. 4-16-12). Further, this Indra brought Kavi (Uśanas) under his control. *Kavi* is a name for the father, but is used also of the son by transference. He was praising Indra (*śasyamānam*), and Indra made his opponent submit to him.
+
+### Printed p. 130
+
+> विरोधिनं । यद्वा । कविं भार्गवमेव स्तोतृभिः शस्यमानं स्ववशमनयत् । यः
+> कविरस्येंद्रस्यात्मं रूपं सनिता संभक्ता भवति ॥ न लोकाव्ययेति षष्ठिप्रतिषेधः ॥
+> उतापि च नृणां वृष्टादिनेत्यणामिंद्रानुचराणां मरुतां यः कविः सनिता ।
+> तमनयदिति ॥
+
+##### Gist of the bhāṣya
+
+Or else: Indra brought under his own control Kavi Bhārgava himself, who was being praised by the singers. This Kavi is the one who becomes devoted (*sanitā*) to the form (*atkam*) of this Indra. And also of the Maruts, Indra's followers, "of the men" (*nṛṇām*): whichever Kavi is devoted to them, him he led.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Indra
+- व्राधतः (*vrādhataḥ*)—even the mighty enemies
+- शवसानेभिः (*śavasānebhiḥ*)—with mighty weapons
+- अस्य (*asya*)—he throws down
+- कृपणे (*kṛpaṇe*)—who is a praiser
+- कुत्साय (*kutsāya*)—for Kutsa
+- शुष्णं (*śuṣṇaṃ*)—the "drier", the asura Śuṣṇa
+- परादात् (*parādāt*)—he split apart
+- यः (*yaḥ*)—which Uśanas
+- अस्य (*asya*)—of Indra
+- उत (*uta*)—and
+- नृणां (*nṛṇāṃ*)—of the Maruts
+- अत्कं (*atkaṃ*)—the form
+- सनिता (*sanitā*)—honoured with praises
+- शस्यमानं (*śasyamānaṃ*)—who is a praiser
+- कविं (*kaviṃ*)—to Uśanas
+- अयं (*ayaṃ*)—Indra
+- अनयत् (*anayat*)—made the enemies come under his control
+
+##### भावार्थ (Bhāvārtha)
+
+Indra throws down even mighty enemies with his own powerful weapons. For Kutsa, the praiser, he had the drying asura Śuṣṇa split apart. For that praiser Uśanas, who with his praises refined the form of Indra and of the Maruts, his followers, Indra brought all enemies under control.
+
+##### English translation
+Let him overthrow the migthy with powerful (weapons) ; he destroyed Shushna for the sake of the liberal Kutsa ; he humiliated Kavi, who praised him, who was the giver of form to Indra and his men.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं द॑श॒स्यन्नर्ये॑भिरस्य द॒स्मो दे॒वेभि॒र्वरु॑णो॒ न मा॒या।  
+> अ॒यं क॒नीन॑ ऋतु॒पा अ॑वे॒द्यमि॑माता॒ररुं॒ यश्चतु॑ष्पात्॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> २ ३८ ' वचन् ' नर्येभिः । अस्य ! दस्यः । देवेभिः । वरुणः । न । मायी ।  
+> अयं । कनीनः । ययुपाः । अवेदि । अमिमात । अररुं । यः । चतुःपात् ॥ १० ॥
+
+### Printed p. 131
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो दशस्यन् स्तोतृभ्यो धनं प्रयच्छन् । दशस्यतिर्दानकर्मा ।
+> नर्येभिर्नैन्रहितैर्मरुद्धिरस्य अस्यति ॥ छांदसस्तिपो लोपः । यद्वा । व्यत्ययेन लोण्मध्यमः ॥ तथा देवेभिर्द्योतमानैः स्वतेजोभिर्दस्मो दर्शनीयो
+> वरुणो न वरुण इव । वरुणस्तमोवारक आदित्यो वरुण एव वा । स इव मायि
+> मायानान् । तथायं कनीनः कमनीय ऋतुपा ऋत् पातावेदि । अज्ञायि ।
+> तथाररुमसुरमेतन्ना मानममिमीत । अमिनात् । योऽररुश्चतुष्पात् पादचतुष्टयोपेतः ॥ मीज् हिंसायां । लजि बहुलं छंदसीति विकरणस्य श्लुः ॥
+
+##### Gist of the bhāṣya
+
+This Indra, bestowing (*daśasyan*) wealth on the praisers (*daśasyati* means the act of giving), with the Maruts, friendly to men (*naryebhiḥ*), "throws" (*asyati*; the ending is dropped in the Veda, or else the imperative middle-person stands by *vyatyaya*). **NOTE**. Likewise, with his shining (*devebhiḥ*) splendours he is *dasma*, lovely to behold, like Varuṇa. Varuṇa is the Āditya who keeps off darkness, or Varuṇa himself. Like him he is *māyin* (possessed of māyā). **NOTE**. Likewise this Indra, *kanīna* (lovely) and *ṛtupā* (protector of the seasons), was known (*avedi*). And he destroyed (*amimīta*, root *mīj* in the sense of harming) the asura named Araru, who is four-footed, having four feet.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Indra
+- दशस्यन् (*daśasyan*)—desiring to give wealth to the praisers
+- नरैभिः (*naraibhiḥ*)—with the Maruts
+- अस्य (*asya*)—comes
+- देवेभिः (*devebhiḥ*)—with his own radiances
+- दस्मः (*dasmaḥ*)—being lovely to behold
+- वरुणो न (*varuṇo na*)—like Varuṇa
+- मायिी (*māyiī*)—endowed with power
+- अयं (*ayaṃ*)—Indra
+- कनीनः (*kanīnaḥ*)—having an attractive form
+- ऋतुपाः (*ṛtupāḥ*)—as one who protects in each season
+- अवेदि (*avedi*)—is known
+- यः (*yaḥ*)—which Araru
+- चतुष्पात् (*catuṣpāt*)—who is four-footed
+- अररुं (*araruṃ*)—the asura called Araru
+- अमिमात (*amimāta*)—has harmed
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra comes with the Maruts, wishing to give wealth to the praisers. Beautiful to behold with his radiances, powerful like Varuṇa, with an attractive form, he is known by people as the one who protects in each season. Indra has destroyed the four-footed asura called Araru.
+
+##### English translation
+Bountiful (to his worshippers) with his (Maruts) friendly to men wonderful with his brilliancies, having magical power liko Varuna, he was known as desirable, protecting the seasons, he destroyed Araru, who was four-footed.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य स्तोमे॑भिरौशि॒ज ऋ॒जिश्वा॑ व्र॒जं द॑रयद्वृष॒भेण॒ पिप्रोः॑ ।  
+> सुत्वा॒ यद्य॑ज॒तो दी॒दय॒द्द्गीः पुर॑ इया॒नो अ॒भि वर्प॑सा॒  
+> भूत् ॥ ११ ॥
+
+### Printed p. 132
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । स्तोमेभिः । औशिजः । ऋजिश्वा । व्रजं । दरयत् । वृषभेण । पिप्रोः ।  
+> सुत्वा । यत् । यजतः । दीदयत् । गीः । पुरः । इयानः । अभि । वर्पसा । भूत्॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य स्तोमेभिः स्तोत्रैरौशिज उशिजः पुत्र ऋजिश्वैतन्नामा वृषभेण वज्रेण वृषभेण वा युक्तं व्रजं गोष्ठं पिप्रोरेतन्नामकस्यासुरस्य
+> संबंधिनं तेनापहृत्य पालितं दरयत् । अदारयत् । यद्यदा सुत्वा सोमस्य
+> सोता ॥ सुयजोर्ज्वनिबिति वनिष् । ह्रस्वस्य पितीति. तुक् ॥ यजतो यष्टौशिजो
+> गीः स्तुतिवाचो दीदयत् दीपितवान् । तथा यद्यदेयानो गच्छन् पुरः
+> शत्रुपुराणि । यद्वा । पुरः पुर इव संघीभूतानि पापानि । अभि भूत् । अभिभवति ।
+> केन साधनेन । वर्षसा । रूपनामैतत् । रूपेणेंद्रानुगृहीतेन । यदैवमकरोत् तदा व्रजं दरयदिति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+With the praises (*stomebhiḥ*) of this Indra, Rijiśvan, son (*aujija*) of Uśija, split (*darayat*) the cow-pen (*vraja*), belonging to the asura named Pipru, which was joined with the bull (*vṛṣabha*), that is, with the thunderbolt or with a bull, and which had been taken away and guarded by him. When (*yat*) the presser of Soma (*sutvā*) and sacrificer (*yajataḥ*), Aujija, made his praise-words (*gīḥ*) shine, and likewise as he went forward (*iyānaḥ*) he overcame (*abhi bhūt*) the cities (*puraḥ*) of the enemy. Or else: the sins gathered like cities. By what means? By his *varṣas* (**NOTE**), a name for form: by the form favoured by Indra. The construction is: when he did so, then he split the cow-pen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of Indra
+- स्तोमेभिः (*stomebhiḥ*)—with praises
+- औशिजः (*auśijaḥ*)—the son of Uśija
+- यजिश्वा (*yajiśvā*)—Yajiśvan **NOTE**
+- वृषभेण (*vṛṣabheṇa*)—with the powerful thunderbolt
+- पिप्रोः (*piproḥ*)—of Pipru
+- व्रजं (*vrajaṃ*)—the cow-pen
+- दरयत् (*darayat*)—split apart
+- सुत्वा (*sutvā*)—the presser of Soma
+- यजतः (*yajataḥ*)—the sacrificer, Yajiśvan
+- यत् (*yat*)—when
+- गीः (*gīḥ*)—the praise-words
+- दीदयत् (*dīdayat*)—he made shine, then
+- इयानः (*iyānaḥ*)—going forward
+- पुरः (*puraḥ*)—the cities of the enemies
+- वर्षसा (*varṣasā*)—with his own form favoured by Indra
+- अभिभूत् (*abhibhūt*)—he brought under control
+
+##### भावार्थ (Bhāvārtha)
+
+Rijiśvan, the son of Uśija, praised Indra and, with the help of his thunderbolt, split the cow-pen of Pipru. When Rijiśvan, the presser of Soma and sacrificer, praised Indra with words of praise, then, going forward with his own form favoured by Indra, he brought the cities of the enemies under his control.
+
+##### English translation
+Rijishwan, the son of Ushija with Indra's praises shattered the cow-pen of Pipru with the thunderbolt; when having expressed (the Soma), the
+
+### Printed p. 133
+venerable sage recited his praises, (Indra) proceeding against the cities (of the enemy) triumphed with his body.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा म॒हो अ॑सुर व॒क्षथा॑य वम्र॒कः प॒ड्भिरुप॑ सर्प॒दिंद्रं॑ ।  
+> स इ॑या॒नः क॑रति स्व॒स्तिम॑स्मा॒ इष॒मूर्जं॑ सुक्षि॒तं विश्व॒माभाः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । महः । असुर । वक्षथाय । वम्रकः । पट्भिः । उप । सर्पत् । इंद्रं ।  
+> सः । इयानः । करति । स्वस्तिं । अस्मै । इषं । ऊर्जं । सुक्षितिं । विश्वं । आ । अभारि.  
+> त्यभाः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहृत्याभिमतं वम्रकः पार्थयते । हे असुर बलवन्निंद्र
+> त्वामेमैवमुक्तप्रकारेण: महो महतो हविषः स्तोत्रस्य ना वक्षथाय वहनाय
+> महतः स्वर्गादेः प्रापणाय वा पड्भिः पादैरुप सर्पत् । उपागमत् । स इयानउपागम्यमानः सॆन् करति करोतु स्वस्तिमविनाशमस्मै वम्रकाय । तथेषमन्नमूर्जं रसं सुक्षितिं सुनिवासं सम्यग्विश्वं सर्वमाभाः । आहरतु ॥
+
+##### Gist of the bhāṣya
+
+Concluding the praise with this verse, Vamraka makes his request. O mighty Asura, Indra: in the manner just stated (*eva*), Vamraka approaches you with his feet, to carry (*vakṣathāya*) a great (*mahaḥ*) oblation or praise, or to obtain great things such as heaven. May Indra, being approached (*iyānaḥ*), bring about (*karati*) welfare (*svasti*), freedom from destruction, for this Vamraka. And may he bring (*ābhāḥ*) food (*iṣam*), sap (*ūrjam*), a good dwelling (*sukṣitim*) and everything (*viśvam*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुर (*asura*)—O mighty Indra
+- एव (*eva*)—in this way
+- वम्रकः (*vamrakaḥ*)—Vamraka
+- महः (*mahaḥ*)—of the great oblation
+- वक्षथाय (*vakṣathāya*)—for obtaining
+- पद्भिः (*padbhiḥ*)—with his feet
+- इंद्रं (*iṃdraṃ*)—Indra
+- उप सर्पत् (*upa sarpat*)—approaches
+- सः (*saḥ*)—Indra
+- इयानः (*iyānaḥ*)—having been approached
+- अस्मै (*asmai*)—for this Vamraka
+- स्वस्तिं (*svastiṃ*)—welfare
+- करति (*karati*)—may he bring about
+- विश्वं (*viśvaṃ*)—all
+- इषं (*iṣaṃ*)—food
+- ऊर्जं (*ūrjaṃ*)—sap
+- सुक्षितिं (*sukṣitiṃ*)—an excellent dwelling-place
+- आभाः (*ābhāḥ*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, in this way Vamraka approaches you, the lord, with his feet, to obtain a great oblation. May Indra, thus approached, bring welfare to Vamraka. May he provide him with all food, sap and an excellent dwelling-place.
+
 ---
 
-**Progress note:** Done through printed p. 127. pp. 122-127 (batch API)
+**Progress note:** Done through printed p. 133. pp. 128-133 (batch API)
