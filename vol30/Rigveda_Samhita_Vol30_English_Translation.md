@@ -11137,6 +11137,284 @@ Sarama says: "O Paṇis, I do not know (न वेद (*na veda*)) that Indra to
 
 (Sarama:) O Paṇis, I have certainly no fear that you will slay Indra. That Indra, whose messenger I am and for whom I have come here from a very distant region, destroys everyone. Even the flowing, deep rivers cannot hide Indra (cannot stop him). O Paṇis, you will lie down (on the battlefield), slain by Indra.
 
+### Printed p. 301
+
+##### English translation
+(Sarama:) I do not believe that he can be subdued; he as whose messenger I have come to this place from afar subdues (his enemies). The deep rivers do not conceal him; you, Panis, slain by Indra, will sleep (in death).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा गावः॑ सरमे॒ या ऐच्छः॒ परि॑ दि॒वो अंता॑न्तुभगे॒  ॑
+> पतंती ।  
+> कस्त॑ एना॒ अव॑ सृजा॒दयु॑ध्वृ॒तास्माक॒मायु॑धा संति ति॒ग्मा ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । गावः । सरमे । याः । ऐच्छः । परि । दिवः । अंतान् । सुभगे । पतंती ।  
+> कः । ते । एनाः । अव । सृजात् । आयुध्वी । उत । अस्माकं । आयुधा । संति । तिग्मा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्रुद्धाः पणयः प्रत्युचुः । हे सुभगे शोभनसौभाग्यवति हे सरमे दिवो
+> द्युलोकस्यांतान्पर्यंतान्परि पतंती कुत्र गावस्तिष्ठंतीति परितो गच्छंती त्वमिमाः
+> परिदृश्यमाना या गावः ॥ सुब्बत्ययः ॥ गा ऐच्छः कामयसे ता एना गास्ते
+> त्वदीयः कोऽयुध्वयुद्ध्वाव सृजात् । अस्मात्पर्वतादवसृजेत् । विनर्गमयेत् ॥
+> सृजेर्लॆटि रूपं । आयुध्वी युधेः क्ताप्रत्यये स्नात्वादयश्चेति निपातितः ।
+> नञ्समासत्वाल्ल्यबादेशाभावः । नञ्षः प्रकृतिस्वरत्वं ॥ उतापि चास्माकं तिग्मा तीक्ष्णान्यायुधायुधानि संति । तस्मादस्माभिर्युद्धमकृत्वा को नाम गा आहरति ॥
+
+##### Gist of the bhāṣya
+
+The angry Panis replied. "O fortunate Sarama, you who go about to the very ends of the sky, asking where the cows are: these cows that are seen, which you desire, who of your side would release them without a fight? (अयुध्वी (*ayudhvī*) is a form of *yudhvā*, 'without fighting', derived from the root युध (*yudha*); being a compound with the negative, it keeps the accent of the original word.) अव सृजात् (*ava sṛjāt*) means 'would release from this mountain', 'would send forth'; it is a leṭ form of सृज (*sṛja*). And our weapons are sharp. So who would carry off the cows without making war on us?"
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुभगे (*subhage*)—O fortunate one
+- सरमे (*sarame*)—O Sarama
+- दिवः (*divaḥ*)—of the heaven
+- अंतान् परि (*aṃtān pari*)—to the very end regions
+- पतंती (*pataṃtī*)—you who have come
+- याः इमाः गावः (*yāḥ imāḥ gāvaḥ*)—these cows which
+- ऐच्छः (*aicchaḥ*)—you desire
+- एनाः (*enāḥ*)—these very cows
+- ते (*te*)—to you
+- कः (*kaḥ*)—who indeed
+- अयुध्वी (*ayudhvī*)—without battle
+- अव सृजात् (*ava sṛjāt*)—would give up?
+- अस्माकं (*asmākaṃ*)—our
+- आयुधा (*āyudhā*)—weapons
+- तिग्मा (*tigmā*)—sharp
+- संति (*saṃti*)—are
+
+### Printed p. 302
+
+##### भावार्थ (Bhāvārtha)
+
+(The Panis:) O fortunate Sarama, you who have come to the very end regions of the sky: these cows that you desire, who indeed would give them up to you without fighting? Our weapons are sharp.
+
+##### English translation
+(The Panis:) These are the cows which you, auspicious Sarama, coming to the extremities of the sky, demand. Who will give them up to you without a combat? and our weapons are sharp.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒से॒न्या वः॑ पणयो॒ वचां॑स्यनिष॒व्यास्त॒न्वः॑ संतु पा॒पीः ।  
+> अधृ॑ष्टो व॒ एत॒वा अ॑स्तु॒ पंथा॒ बृह॒स्पति॑र्व उभ॒या न  ॑
+> मृळात् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असेन्या । वः । पणयः । वचांसि । अनिषव्याः । तन्नः । संतु । पापीः ।  
+> अधृष्टः । वः । एतवै । अस्तु । पंथाः । बृहस्पतिः । वः । उभया । न । मृळात् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा तान्निराह । हे पणयः वो युष्माकं वचांसि पूर्वोक्तानि वचनान्यसेन्यासेन्यानि । सेनार्हाणि न भवंति ॥ सेनाशब्दात्तदर्हतीत्यर्थे छंदसि चेति
+> यत्प्रत्ययः । नञ्जा समासः । ययतोश्चातदर्थे । पा. ६-२-१५६ । इत्युत्तरपदां.
+> तोदात्तत्वं ॥ तथा तन्नो युष्मदीयानि शरीराण्यनिषव्या इष्वर्हाणि न संतु
+> पराक्रमराहित्येन ॥ पूर्ववत्पत्ययः । ओर्गुणः । पा. ६-४-१४६ । इति गुणः । स्वरश्च
+> तादृक् ॥ यतः पापीः पापयुक्तानि खलु ॥ छंदसीवनिपावितीप्रत्ययः । जसः शः ॥
+> किंच वो युष्मदीयः पंथा मार्ग एतवै गंतुमधृष्टोऽसमर्थोऽस्तु ॥ इण्
+
+##### Gist of the bhāṣya
+
+Sarama answers them. "O Panis, your words, those spoken before, are असेन्या (*asenyā*): not fit for an army, not the words of warriors. (The word is formed from सेना (*senā*) with the affix यत् (*yat*) in the sense 'worthy of that', compounded with the negative; the final syllable is acute.) Likewise let your bodies be अनिषव्याः (*aniṣavyāḥ*), unfit for arrows, since they lack valour. For they are पापीः (*pāpīḥ*), full of sin. Moreover let your path be अधृष्टः (*adhṛṣṭaḥ*), unable, for travelling (एतवै (*etavai*))." The explanation of एतवै (*etavai*) continues in the next block.
+
+### Printed p. 303
+
+> गतावित्यस्य तुमर्थे तवैप्रत्ययः । तन्नै चांतश्च युगपत् । पा. ६-२-५१ । इति
+> धातोः प्रत्ययस्य च युगपदुदात्तत्वं । तत्र हेतुमाह । वो युष्मदीयानुभयोभयविधान्पूर्वोक्तांस्तन्वो देहान्बृहस्पतिरिंद्रप्रेरितो न मृळात् । न
+> सुखियतु । किंतु बाधेत ॥ मृड सुखने । लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) एतवै (*etavai*) is the infinitive of the root इण् (*iṇ*) 'to go', with the affix तवै (*tavai*), the root and the affix being acute together. The reason is given: Bṛhaspati, impelled by Indra, will not मृळात् (*mṛḷāt*), will not comfort, your bodies in either of the two ways (उभया (*ubhayā*): the words and the bodies mentioned before), but will afflict them. The root मृड (*mṛḍa*) is in the sense of giving comfort; in the leṭ the augment aṭ is added.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पणयः (*paṇayaḥ*)—O Panis
+- वः (*vaḥ*)—your
+- वचांसि (*vacāṃsi*)—words
+- असेन्या (*asenyā*)—are not fit for an army (soldiers)
+- तन्नः (*tannaḥ*)—your bodies
+- अनिषव्याः (*aniṣavyāḥ*)—not fit for arrows
+- संतु (*saṃtu*)—let them be (they are)
+- पापीः (*pāpīḥ*)—your bodies are full of sin
+- वः (*vaḥ*)—your
+- पंथाः (*paṃthāḥ*)—path
+- एतवै (*etavai*)—for travelling
+- अधृष्टः (*adhṛṣṭaḥ*)—unable
+- अस्तु (*astu*)—let it be (it is)
+- वः (*vaḥ*)—your
+- उभया (*ubhayā*)—either the speech or the body
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- न मृळात् (*na mṛḷāt*)—let him not comfort (he will not heed)
+
+##### भावार्थ (Bhāvārtha)
+
+(Sarama:) O Panis, your words are not the words that soldiers speak; your bodies are not impervious to arrows. Your bodies are full of sin. The way you follow is of no use. Bṛhaspati will take no heed of your speech or of your bodies.
+
+##### English translation
+(Sarama :) Your words, Panis, are not in the place of armies; your sinful bodies will not be equal to arrows. Let your path be difficult to follow, let Brihaspathi show no favour to either (your words or your persons).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं नि॒धिः स॑रमे॒ अद्रि॑बुध्नो॒ गोभि॒रश्वे॑भि॒र्वसु॑भि॒र्नृष्य॑ष्टः ।  
+> रक्षं॑ति॒ तं प॒णयो॒ ये सु॑गो॒पा रेकु॑ प॒दमल॑क॒मा  ॑
+> जगंथ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आयं । निधिः । सरमे । अद्रिबुध्नः । गोभिः । अश्वेभिः । वसुभिः । निऋष्टः ।  
+> रक्षंति । तं । पणयः । ये. । सुगोपाः । रेकु । पदं । अलकं । आ । जगंथ ॥ ७ ॥
+
+### Printed p. 304
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते पुनराहुः । हे सरमे अयं निधिरस्मदीयः कोशोऽद्रिबुध्नः ॥ बंध
+> बंधने । बंधेर्व्रधिबुधी च । उ. ३-५ । इति नप्रत्ययो बुध इत्यादेशः ॥ अद्रिर्बंधको यस्य तादृशः । तथाहृतैर्गॊभिरश्वेभिरश्वैश्च वसुभिरात्मीयैर्धनैश
+> न्यृष्टो नितरां प्राप्तो भवति ॥ ऋषी गत् । क्तप्रत्यये श्विदितो निष्ठायामितीट् प्रतिषेधः । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥ सुगोपाः ॥ गुपू रक्षणे । आयप्र
+> त्ययांतात्क्विप्यातोलोपयलोपौ ॥ सुष्टु गोपायितारो ये पणयस्तेऽसुरास्तं निधिं रक्षंति । पालयंति । रेकु ॥ रेकृ शंकायां । औणादिक उप्रत्ययः ॥
+> शंकितं गोभिः शब्दायमानं पदमस्माभिः पालितं स्थानमलकं व्यर्थमेवा जगंथ ।
+> आगतवत्यसि ॥ गमर्लिटि रूपं ॥
+
+##### Gist of the bhāṣya
+
+The Panis answer again. "O Sarama, this treasure of ours, our store, is अद्रिबुध्नः (*adribudhnaḥ*): one whose base or binding is a mountain. (बुध्न (*budhna*) is formed from the root बंध (*baṃdha*) 'to bind' with the affix na, the substitute बुध (*budha*) coming in.) It is न्यृष्टो (*nyṛṣṭo*), fully furnished, with cows brought here, with horses, and with its own riches. The Panis, the Asuras, who are good guardians (सुगोपाः (*sugopāḥ*), from the root गुपू (*gupū*) 'to protect') guard it. रेकु (*reku*) (from the root रेकृ (*rekṛ*) 'to doubt', with an Uṇādi affix u) means causing doubt, resounding with cows: this place, guarded by us, you have come to अलकं (*alakaṃ*), in vain." आ जगंथ (*ā jagaṃtha*) is a liṭ form of गम (*gama*), 'you have come'.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरमे (*sarame*)—O Sarama
+- अद्रिबुध्नः (*adribudhnaḥ*)—situated in the hidden region of the mountain
+- अयं निधिः (*ayaṃ nidhiḥ*)—this treasure
+- गोभिः (*gobhiḥ*)—with cows
+- अश्वेभिः (*aśvebhiḥ*)—with horses
+- वसुभिः (*vasubhiḥ*)—with other riches
+- नृष्टः (*nṛṣṭaḥ*)—is filled
+- ये पणयः (*ye paṇayaḥ*)—the Panis who
+- तं (*taṃ*)—that treasure
+- रक्षंति (*rakṣaṃti*)—protect, they
+- सु गोपाः (*su gopāḥ*)—are excellent guardians
+- रेकु (*reku*)—hidden (causing suspicion)
+- पदं (*padaṃ*)—to our place
+- अलकं (*alakaṃ*)—in vain
+- आ जगंथ (*ā jagaṃtha*)—you have come
+
+##### भावार्थ (Bhāvārtha)
+
+(The Panis:) O Sarama, this treasure in the hidden region of the mountain is filled with cows, horses and other riches. The Panis who guard that treasure are its excellent guardians. Your coming to our suspicious place is in vain.
+
+##### English translation
+(The Panis :) This treasure, Sarama, secured in the mountain is composed of cows horses and riches: the Panis protect it who are good watchers; you have come this lonely spot in vain.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एह ग॑म॒न्नृष॑यः॒ सोम॑शिता अ॒यास्को॒ अंगि॑रसो॒ नव॑ग्वाः ।  
+> त ए॒तमू॒र्वं वि भ॑जंत॒ गोना॒मथै॒तद्वचः॑ प॒णयो॒ वम॒न्नित् ॥ ८ ॥
+
+### Printed p. 305
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इह । गमन् । ऋषयः । सोमशिताः । अयास्यः । अंगिरसः । नवग्वाः ।  
+> ते । एतं । ऊर्वं । वि । भजंत । गोनां । अथ । एतत् । वचः । पणयः । वमन् ।  
+> इत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सरमा पुनः प्रत्युवाच । हे पणयः सोमशिताः सोमेन तीक्ष्णीकृताः
+> सोमपानेन मत्ताः ॥ शिञ् निशाने । कर्मणि क्तप्रत्ययः । तृतीया कर्मणीति
+> पूर्वपदप्रकृतिस्वरत्वं ॥ तादृशा नवग्वा नवगतॆयः । यद्वा । अंगिरसां सत्रमासीनानां मध्यॆ केचन नवसु माःस्वध्यतिष्ठन् ते नवग्वाः । अनेन दशग्वा अप्युपलक्ष्यंते । उभयविधास्ते०गिरस ऋषयः तेषां प्रथमोऽयास्य एतन्नामा च त एत
+> इह युष्मदीये स्थान आ गमन् । आगच्छेयुः ॥ गमेशृंदसि लुज्लज्लिट इति
+> सार्वकालिको लुज् । लृदित्वाच्चेरज् ॥ आगत्य च ते गोनां ॥ गोः पादांत इति
+> च्छंदसि नुडागमः ॥ गवामूर्व० तं समूहं वि भजंत । विभागं कुर्युः ॥ अत्रापि
+> पूर्ववत्सार्वकालिको लुज् ॥ अथानंतरं पणयो यूयमेतद्वचः पूर्व०
+> यद्व्यर्थमागतासीति यद्वाक्यमवोचत तद्वाक्यं तदा वमन्निद्वमंतः परित्यजंत
+> एव भवथ ॥ वमु उद्गिरणे । शतरि सुपां सुलुगिति जसो लुक् । नुमागमः ।
+> संयोगांतस्य लोपः । यद्वा । लजि रूपं । स्वरश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+Sarama replies again. "O Panis, the seers सोमशिताः (*somaśitāḥ*), sharpened by Soma, that is, exhilarated by drinking Soma (from the root शिञ् (*śiñ*) 'to sharpen'; the affix क्त (*kta*) is used in the passive, and the first member keeps its own accent), such नवग्वाः (*navagvāḥ*), 'those of nine goings'. Or else: among the Aṅgirases sitting at a sattra, some performed it through nine months; these are the नवग्वाः (*navagvāḥ*), and by this word the दशग्वा (*daśagvā*) are also indicated. These Aṅgirasa seers are of both kinds; the first of them is अयास्यः (*ayāsyaḥ*), so named. They will come here to your place (आ गमन् (*ā gaman*) stands for 'would come'; the lun form is used in the Veda for all times). Having come, they will divide that herd (ऊर्वं (*ūrvaṃ*)) of cows (गोनां (*gonāṃ*), with the augment nuṭ). Here too, as before, lun is used for all times. Then you Panis will be वमन्नित् (*vamannit*), spewing out, simply abandoning, this speech that you uttered before, 'you have come in vain'." (वम (*vama*) from the root वमु (*vamu*) 'to vomit'.) Or else, it is a laṅ form; the accent is Vedic.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Panis) सोमशिताः (*somaśitāḥ*)—stimulated by drinking Soma
+- नवग्वाः (*navagvāḥ*)—those with the sacrificial rite of nine months
+- अंगिरसः (*aṃgirasaḥ*)—called Aṅgirases
+- ऋषयः (*ṛṣayaḥ*)—seers
+- अयास्यः (*ayāsyaḥ*)—together with Ayasya
+- इह (*iha*)—to this place of yours
+- आ गमन् (*ā gaman*)—come
+- ते (*te*)—they
+- गोनां (*gonāṃ*)—of the cows
+- ऊर्वं (*ūrvaṃ*)—the herd
+- वि भजंत (*vi bhajaṃta*)—divide
+- अथ (*atha*)—afterwards
+- पणयः (*paṇayaḥ*)—you Panis
+- एतद्वचः (*etadvacaḥ*)—the word with which you taunted me
+- वमन्नित् (*vamannit*)—you will regard as vain
+
+##### भावार्थ (Bhāvārtha)
+
+(Sarama:) O Panis, the seers called Aṅgirases, stimulated by drinking Soma and engaged in the nine-month sacrificial rite, will come to this place of yours together with Ayasya. They will divide the herd of cows among themselves. Afterwards you will regard as vain the word with which you taunted me.
+
+### Printed p. 306
+
+##### English translation
+(Sarma :) Excited by the Soma, the Rishis, the Angirasas of the nine month's rite, headed by Ayasya, will come hither : they will partition this herd of cattle, then the Panis will retract their words.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा च॒ त्वं स॑रम आज॒गंथ॒ प्रबा॑धिता॒ सह॑सा॒ दैव्ये॑न ।  
+> स्वसा॑रं त्वा कृणवै॒ मा पुन॑र्गा॒ अप॑ ते॒ गवां॑ सुभगे  
+> भजाम ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । च । त्वं । सरमे । आजगंध । प्रबाधिता । सहसा । दैव्येन ।  
+> स्वसारं । त्वा । कृणवै । मा । पुनः । गाः । अप । ते । गवां । सुभगे । भजाम ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तय्येवमुक्ते सति पणयः प्रणयवाक्यमाहुः । हे सरमे त्वं दैव्येन देवसंबंधिना सहसा बलेन प्रबाधिता यथा तथा वलपुरं प्राप्य तत्र स्थिता गा दृष्ट्वा
+> पुनरागच्छेति तेन प्रपीडिता त्वमेवं चेदाजगंथ आगतवत्यसि ॥ चशब्दश्चेदर्थे ।
+> निपातैर्यद्यदिहंतेति तिजो निघाताभावः । गमर्लिटि थलि रूपं । सह सुपेत्यत्र
+> सहेति योगविभागात्समासः । तिजि चोदात्तवतीति गतेर्निघातः । लित्स्वरः ॥ तर्हि
+> त्वा त्वां स्वसारं भगिनीं कृणवै । करवै । समूहापेक्षैकवचनं । त्वं तु पुनर्मा गाः ।
+> इंद्रादीन्मा गच्छ । अपि तर्हि हे सुभगे सरमे ते त्वदीयानां गवां समूहं
+> पर्वतादपगमय्य भजाम । त्वं च वयं च विभजाम । विभागं करवामेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When she had spoken thus, the Panis uttered words of conciliation. "O Sarama, if you have come (आजगंथ (*ājagaṃtha*); the word च (*ca*) is in the sense 'if') pressed, प्रबाधिता (*prabādhitā*), by the divine सहसा (*sahasā*), the force belonging to the gods, having reached the city of Vala and seen the cows standing there, and being told by him 'come back', then we shall make you our sister (स्वसारं (*svasāraṃ*), भगिनीं (*bhaginīṃ*); the singular is used with regard to the whole group). But do not go back again to Indra and the others. And so, O fortunate Sarama, having brought away your herd of cows from the mountain, we shall share it: you and we shall divide it, that is, make a division."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरमे (*sarame*)—O Sarama
+- त्वं (*tvaṃ*)—you
+- दैव्येन सहसा (*daivyena sahasā*)—by power belonging to the gods
+- प्रबाधिता (*prabādhitā*)—compelled
+- आ जगंथ (*ā jagaṃtha*)—have come here
+- त्वा (*tvā*)—you
+- स्वसारं (*svasāraṃ*)—as our sister
+- कृणवै (*kṛṇavai*)—we shall make
+- पुनः (*punaḥ*)—back again
+- मा गाः (*mā gāḥ*)—do not go
+- सुभगे (*subhage*)—O beautiful Sarama
+- ते (*te*)—with you
+- गवां (*gavāṃ*)—the cows
+- भजाम (*bhajāma*)—let us share
+
 ---
 
-**Progress note:** Done through printed p. 300. pp. 295-300 (batch API)
+**Progress note:** Done through printed p. 306. pp. 301-306 (batch API)
