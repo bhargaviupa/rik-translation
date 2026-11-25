@@ -19187,6 +19187,290 @@ The matter of the Yātudhānas and Yātudhānīs is explained in the introductio
 
 O Agni, the sacrificers, उरुक्षया (*urukṣayā*), having many dwellings, have kindled you well, with praises and with the oblations that go with them: you, bearer of oblations, यजिष्ठं (*yajiṣṭhaṃ*), the best sacrificer, among the people connected with men.
 
+### Printed p. 584
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) उरुक्षयाः (*urukṣayāḥ*)—the sacrificers who dwell in many houses
+- हव्यवाहं (*havyavāhaṃ*)—the one who carries the oblation to the gods
+- मानुषे जने (*mānuṣe jane*)—among human beings
+- यजिष्ठं (*yajiṣṭhaṃ*)—the one most worthy of worship
+- तं त्वा (*taṃ tvā*)—you
+- गीर्भिः (*gīrbhiḥ*)—with praises and with oblations and the like
+- समीधिरे (*samīdhire*)—kindle exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+The many sacrificers who dwell in various houses, in their sacrificial houses, cause you to blaze exceedingly with words of praise and with oblations and the like. You carry the oblation to the gods, and among human beings you are the most worthy of worship, that is, the one who is honoured.
+
+##### English translation
+The masters of many mansions have, by their praises, kindled you,
+Agni, the bearer of oblations, who are most adorable among human beings.
+
+## Sūkta 119 (Maṇḍala 10)
+
+**Pīṭhike**
+The seer of this sūkta is Laba. Once, in the hermitage of the seer Laba, Indra took on the form of the seer Laba and drank Soma. The other seers saw it. Then Indra, being in Laba's form, praised himself with this sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इति वा इति त्रयोदशर्चं सप्तमं सूक्तं गायत्रं । इंद्रो लबरूपमास्थाय सोमपानं कुर्वन् तदानीमृषिभिः दृष्टः सन् स्वात्मानमनेन सूक्तेनास्तावीत् । अतो लबरूपापन्न इंद्र ऋषिः । स एव देवता । तथा चानुक्रम्यते । इति वै
+> सप्तोनैंद्रो लब आत्मानं तुष्टावेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+This is the seventh sūkta of the tenth anuvāka, beginning इति वा (*iti vā*), of thirteen Ṛks, in the Gāyatra metre. Indra, having taken on the form of Laba and drinking Soma, was then seen by the seers and praised himself with this sūkta. Therefore Indra, who has assumed Laba's form, is the seer, and he himself is the deity. So the Anukramaṇī says इति वै सप्तोनैंद्रो लब आत्मानं तुष्टावेति (*iti vai saptonaiṃdro laba ātmānaṃ tuṣṭāveti*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta, इति वै (*iti vai*), is the seventh sūkta in the tenth anuvāka. It has thirteen Ṛks. Once Indra, in the form of the seer Laba, was drinking Soma, and the other seers saw it. Then Indra praised himself in that same form.
+
+### Printed p. 585
+
+Therefore the seer of this sūkta is Indra himself, wearing Laba's form; he is also the deity; the metre is Gāyatrī. In the Anukramaṇī it is said: इति वै सप्तोन्यैंद्रो लब आत्मानं तुष्टाव (*iti vai saptonyaiṃdro laba ātmānaṃ tuṣṭāva*). The viniyoga has been stated earlier.
+
+Sūkta—109 **NOTE**
+Maṇḍala—10. Anuvāka—10. Sūkta—119.
+Aṣṭaka—8. Adhyāya—6. Varga—26, 27.
+Number of Ṛks in the sūkta—13.
+Ṛṣi: Laba Aindra.
+Devatā: Ātmastuti (self-praise).
+Chandas: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इति॒ वा इति॑ मे॒ मनो॒ गामश्वं॑ सनुया॒मिति॑ ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इति । वै । इति । मे । मनः । गां । अश्वं । सनुयां । इति ॥  
+> कुवित् । सोमस्य । अपां । इति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इति वा इति खल्वित्येवं प्रकारेण मे मदीयं मनो वर्तते । तं प्रकारं
+> दर्शयति । गामश्वं च सनुयां स्तोतृभ्यः प्रयच्छामाति ॥ षणु दाने तानादिकः ॥
+> इति शब्दो हेत् । यस्मात् कुविद्बहुवारं सोमस्य सोममपां पीतवानस्मि ॥
+> क्रियाग्रहणं कर्तव्यमिति सोमस्य संप्रदानसंज्ञा । चतुर्थ्यर्थे बहुलमिति षष्ठी ।
+> पा पाने । लुजि गातिस्थेति सिचो लुक् । कुविद्योगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: "thus indeed" — in this way my mind is disposed. He shows that manner: "I shall give a cow and a horse to the praisers." सनुयां (*sanuyāṃ*) is from the root ṣaṇu, in the sense of giving, of the tānādi class. The word इति (*iti*) has the sense of a reason: because I have drunk Soma many times (कुवित् (*kuvit*), "often"). Soma takes the designation of recipient (sampradāna), and the genitive stands in place of the dative. The root pā means "to drink"; the form अपां (*apāṃ*) is an aorist, and the accent is not lowered owing to the connection with कुवित् (*kuvit*).
+
+### Printed p. 586
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इति वै (*iti vai*)—just so
+- इति (*iti*)—in this manner
+- (I to the praising people) गां (*gāṃ*)—a cow
+- अश्वं (*aśvaṃ*)—a horse
+- सनुयां (*sanuyāṃ*)—will give
+- इति (*iti*)—thus
+- मे (*me*)—my
+- मनः (*manaḥ*)—the mind is so (because I)
+- कुवित् (*kuvit*)—many times
+- सोमस्य (*somasya*)—Soma juice
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+I have drunk Soma many times. Delighted by it, I shall give a cow and a horse in this way to the people who praise me. It is in my mind that I should give thus.
+
+##### English translation
+Thus, indeed, thus my mind (resolved) : " I will give cows and horses
+(to my worshippers), " for I have often drunk of the Soma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वाता॑ इव॒ दोध॑त॒ उन्मा॑ पी॒ता अ॑यंसत ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वाताः इव । दोधतः । उत् । मा । पीताः । अयंसत ।  
+> कुवित् । सोमस्यॆ । अपां । इति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दोधतो भृशं कंपयमाना वाता इव वायवो यथा वृक्षादीनुद्यच्छंते
+> तद्वृत्तीताः सोमा मा मां प्रकर्षणोदयंसत । उद्यच्छंते ॥ यमेर्लुजि
+> समुदाज्यो यमोऽग्रंथे । पा. १-३-७५ । इत्यात्मनेपदं ॥ यस्माद्बहुवारं
+> सोममपां ॥
+
+##### Gist of the bhāṣya
+
+Just as winds (वाता इव (*vātā iva*)) that violently shake (दोधतः (*dodhataḥ*)) lift up trees and the like, so the Soma draughts that have been drunk lift me up vigorously (*udayaṃsata*, "they raise"). The verb takes the ātmanepada by Pā. 1-3-75. The reason: because I have drunk Soma many times.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्र दोधतः (*pra dodhataḥ*)—violently shaking (blowing) trees and the like
+- वात इव (*vāta iva*)—like a storm
+- पीताः (*pītāḥ*)—the Soma juices drunk by me
+- मा (*mā*)—me
+- उत् (*ut*)—up
+
+### Printed p. 587
+
+- अयंसत (*ayaṃsata*)—lift up and make full of enthusiasm
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—many times (or greatly)
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+Like storms that make trees and the like shake violently, the Soma juices that I have drunk lift me up and fill me with enthusiasm, because I have drunk Soma greatly.
+
+##### English translation
+Like the winds violently shaking (the trees), the draughts (of Soma) have lifted me up, for I have often drunk of the Soma).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उन्मा॑ पी॒ता अ॑यंसत॒ रथ॒मश्वा॑ इवा॒शवः॑ ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । मा । पीताः । अयंसत । रथं । अश्वाः इव । आशवः ।  
+> कुवित् । सोमस्य । अपां । इति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पीताः सोमा मामुदयंसत । उद्यच्छंते । तत्र दृष्टांतः । रथमश्वा इव
+> यथाशवः क्षिप्रगामिनो गमनेन व्याप्ता वाश्वा रथमुद्गमयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The Soma draughts that have been drunk lift me up. The illustration: as swift horses (आशवः (*āśavaḥ*)), going fast and pervading the way by their going, make the chariot move up and onward, so do the Soma draughts me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशवः (*āśavaḥ*)—swift-going
+- अश्वा इव (*aśvā iva*)—like horses
+- रथं (*rathaṃ*)—as they carry the chariot, throwing it up
+- पीताः (*pītāḥ*)—the Soma juices drunk by me
+- मा (*mā*)—me
+- उत् (*ut*)—up
+- अयंसत (*ayaṃsata*)—make full of enthusiasm
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—greatly
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+As swift-running horses, when drawing a chariot, lift it up by their quick going, so the Soma juices that I have drunk lift me up and fill me with enthusiasm, because I have drunk Soma greatly.
+
+### Printed p. 588
+
+##### English translation
+The draughts (of Soma) have lifted me up like swift horses (drawing)
+a chariot, for I have often drunk of the Soma.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ मा म॒तिर॑स्थित वा॒श्रा पु॒त्रमि॑व प्रि॒यं ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । मा । मतिः । अस्थित । वाश्रा । पुत्रं इव । प्रियं ।  
+> कुवित् । सोमस्य । अपां । इति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मतिः स्तोतृभिः क्रियमाणा स्तुतिकर्मा मामुपास्थित । संयोजयति ॥
+> उपाद्देवपूजासंगतिकरणेत्यात्मनेपदं ॥ कथमिव । वाश्रा पुत्रमिव यथ वाश्रा
+> शब्दायमाना धेनुः प्रियं पुत्रं वत्सं संगच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The praise (मतिः (*matiḥ*)), the act of praise made by the singers, has approached me (*upāsthita*, "joins"); the ātmanepada is from the rule on worship of gods, association, and the like. How? As a lowing cow (वाश्रा (*vāśrā*), "making a sound") goes to her dear son, her calf, so does the praise come to me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाश्राः (*vāśrāḥ*)—lowing cows
+- प्रियं (*priyaṃ*)—dear to her
+- पुत्रमिव (*putramiva*)—as they go to their calf
+- मतिः (*matiḥ*)—the praise that the praising people recite (loudly)
+- मा (*mā*)—me
+- उप अस्थित (*upa asthita*)—comes close and joins
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—greatly
+- सोमस्यॆ (*somasyè*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+As cows go lowing to their dear calves, the praise that the praising people recite comes to me and joins me, because I have drunk Soma greatly.
+
+##### English translation
+The praise (of the pious) has come to me like a lowing cow to her
+beloved calf for I have often drunk of the Soma,
+
+### Printed p. 589
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं तप्पे॑व वं॒धुरं॒ पर्य॑चामि हृ॒दा म॒तिं ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । तप्पा इव । वंधुरं । परि । अचामि । हृदा । मतिं ।  
+> कुवित् । सोमस्य । अपां । इति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तष्टेव तक्षा यथा वंधुरं सारथिनिवासस्थानं । तद्वान्वोपलक्ष्यते तत्स्थानं
+> रथं वा साधुकरोति तद्वदहं मतिं स्तुतिं हृदात्मीयेन मनसा पर्यचरामि ।
+> साधुकरणाय परिगच्छामि ॥
+
+##### Gist of the bhāṣya
+
+As a carpenter (तक्षा (*takṣā*)) puts in good order the vandhura, the charioteer's seat — or the place is meant, or the chariot that has it — so I (पर्यचरामि (*paryacarāmi*), "go about") attend upon the praise (मतिं (*matiṃ*)) with my heart, that is, with my own mind; I go about it in order to put it in good order.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कष्टेव (*kaṣṭeva*)—like a carpenter (or craftsman) **NOTE**
+- वंधुरं (*vaṃdhuraṃ*)—as he builds well the place in the chariot where the charioteer sits (the front seat)
+- अहं (*ahaṃ*)—I
+- मतिं (*matiṃ*)—the praise
+- हृदा (*hṛdā*)—with the heart, that is, wholeheartedly
+- परि अचामि (*pari acāmi*)—take up
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—greatly
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+As a carpenter carefully makes well the place in the chariot where the charioteer sits, so I accept wholeheartedly the praise that the praising people make, because I have drunk Soma greatly.
+
+##### English translation
+I revolve the song of praise in my heart as a carpenter (making) a
+charioteer's seat, for I have often drunk of the Soma.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि मे॑ अक्षि॒पच्च॒नाच्छां॑त्सुः॒ पंच॑ कृ॒ष्टयः॑ ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 583. pp. 578-583 (batch API)
+**Progress note:** Done through printed p. 589. pp. 584-589 (batch API)
