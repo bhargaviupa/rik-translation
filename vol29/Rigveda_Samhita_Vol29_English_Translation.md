@@ -21516,6 +21516,211 @@ Although this meaning is correct, it should be observed that another meaning, co
 
 In the sentence यदन्नेनातिरोहति (*yadannenātirohati*) the word अन्न (*anna*) means food. It is indicated in the Śruti sentences अद्यतेऽत्ति च भूतानि । तस्मादन्नं तदुच्यत इति (*adyate 'tti ca bhūtāni | tasmādannaṃ taducyata iti*). Because all creatures eat it, and are themselves eaten by other creatures, food (nourishment) has come to be called अन्न (*anna*). Parameśvara, leaving or crossing beyond his own state, the unmanifest form,
 
+### Printed p. 757
+
+(at the time of creation) takes on the form of beings whose object of enjoyment is food, or the form of the world and the rest filled with beings; that is, having crossed over (given up) the causal state, he takes on the effect-state, that is, the form of the world and the rest: such is the explanation of the commentator.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तावा॑नस्य महि॒मातो॒ ज्यायां॑श्च॒ पूरु॑षः ।  
+> पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्या॒मृतं॑ दि॒वि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतावान् । अस्य । महिमा । अतः ! जा.यान् । च । पुरुषः ।  
+> पादः । अस्य । विश्वा । भूतानि त्रिपात् ' अस्य । अमृतं । दिवि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतीतानागतवर्तमानरूपं जगद्यावदस्ति एतावान्सर्वोऽप्यस्य पुरुषस्य
+> महिमा । स्वकीयसामर्थ्यविशेषः । न तु तस्य वास्तवस्वरूपं । वास्तवस्तु पुरुषोऽतो महिम्मोऽपि ज्यायान् । अतिशयेनाधिकः । एतच्चोभयं स्पष्टिक्रियते।
+> अस्य पुरुषस्य विश्वा सर्वाणि भूतानि कालत्रयवर्तीनि प्राणिजातानि पादः । चतुर्थोऽ०शः । अस्य पुरुषस्यावशिष्टं त्रिपात्स्वरूपममृतं विनाशरहितं सद्दिवि द्योतनात्मकेस्वप्रकाशस्वरूपे व्यवतिष्ठत इति शेषः । यद्यपि सत्यं ज्ञानमनंतं ब्रह्म । तै. आ.
+> ८-१ उ. २-१ । इत्याम्नातस्य परब्रह्मण इयत्ताभावात्पादचतुष्टयं निरूपयितुमशक्यं तथापि जगदिदं ब्रह्मस्वरूपापेक्षयाल्पमिति विवक्षितत्वात्पादत्वोपन्यासः ॥
+
+##### Gist of the bhāṣya
+
+Whatever world exists, of the form of past, future and present, all of it, so much, is the greatness of this Puruṣa, that is, a special power of his own; it is not his real nature. The real is the Puruṣa, who is greater even than this greatness, greater in the sense of exceeding it. Both these points are made clear. All beings, the whole host of living creatures belonging to the three times, are one quarter of this Puruṣa. The remainder of this Puruṣa, three-quarters in nature, immortal, that is, free from destruction, abides in heaven, which is of the nature of luminosity and self-luminous: this is what is to be supplied. Although Brahman, of whom it is said सत्यं ज्ञानमनंतं ब्रह्म (*satyaṃ jñānamanaṃtaṃ brahma*) (Tai. Ā. 8-1 U. 2-1), has no measure, so that a fourfold division into quarters cannot be set forth, nevertheless, because it is intended to say that this world is small in comparison with the nature of Brahman, the statement of quarters is made.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एतावान् (*etāvān*)—the whole world, of the forms of past, present and future
+- अस्य (*asya*)—of this Primal Puruṣa
+- महिमा (*mahimā*)—is only a special power
+- च (*ca*)—moreover
+- पुरुषः (*puruṣaḥ*)—the Primal Puruṣa
+- अतः (*ataḥ*)—than this whole world
+- ज्यायान् (*jyāyān*)—is greater
+- विश्वा भूतानि (*viśvā bhūtāni*)—all beings
+- अस्य (*asya*)—of this Puruṣa
+- पादः (*pādaḥ*)—only a quarter
+- अस्य (*asya*)—of this Great Puruṣa
+- त्रिपात् (*tripāt*)—three-quarters
+- दिवि (*divi*)—in the world of heaven beyond perception (in the self-luminous nature)
+- अमृतं (*amṛtaṃ*)—remains without undergoing change. (It remains in its true state, without undergoing any alteration.)
+
+### Printed p. 758
+
+##### भावार्थ (Bhāvārtha)
+
+The whole world, of the forms of past, present and future, is only a special power of this Primal Puruṣa. Moreover, the Primal Puruṣa is greater than the whole world. All beings are only a quarter of this Īśvara. Three-quarters of this Great Puruṣa, which is beyond perception and self-luminous, remains in that world, in its true state, without undergoing any change.
+
+##### English translation
+Such is his greatness ; and Purusha is greater even than this ; all beings are one-fourth of him : his other three-fourths, (being)immortal (abide) in heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+The great nature of the Supreme Puruṣa, who exceeds the created world, is described in this Ṛk. What the measure of the world is, and what the measure of the Supreme Puruṣa who stands beyond even the world, and what the difference between them is: this is indicated here. But it is not easy to state the exact meaning of these sentences.
+
+विशाल् अस्य महिमा (*viśāl asya mahimā*) **NOTE**—
+
+अतीतानागतवर्तमानरूपं जगद्यावदस्येतावान् सर्वोऽप्यस्य पुरुषस्य महिमा स्वकीयसामर्थ्य विशेषः । न तु तस्य वास्तवं स्वरूपं । (*atītānāgatavartamānarūpaṃ jagadyāvadasyetāvān sarvo 'pyasya puruṣasya mahimā svakīyasāmarthya viśeṣaḥ | na tu tasya vāstavaṃ svarūpaṃ |*)
+
+The whole world relating to the times past, future and present, and all the activities of the world, are the greatness of this Supreme Puruṣa. But all that is not his real state: so Sāyaṇa has explained. Thereafter, for पादोऽस्य विश्वा भूतानि (*pādo 'sya viśvā bhūtāni*) he has stated the purport that all beings are only one fourth part of this Supreme Puruṣa. This sentence makes clear that the world, though it does not show the full nature of Īśvara, at least manifests a part of him. Therefore this part of Īśvara that is manifested cannot be called untrue. Īśvara is greater than all the things that have been produced. The sentence अतो ज्यायांश्च पूरुषः (*ato jyāyāṃśca pūruṣaḥ*) does not indicate the truth of one and the untruth of the other. The world, a part of one single thing that is of the nature of truth, is the pervaded, and Īśvara is the pervader. What then is the purport of Sāyaṇa's explanation न तु तस्य वास्तवं स्वरूपं (*na tu tasya vāstavaṃ svarūpaṃ*)? Is the world true or untrue? Is it of the nature of being or of non-being? How do the Upaniṣadic sentences establish this? Such detailed explanation
+
+### Printed p. 759
+
+will be given later, when the purport of the sūkta नासदासीत् (*nāsadāsīt*) (Ṛ. Saṃ. 10-129) is examined. In the present context the meaning of the sentence अतो ज्यायांश्च पूरुषः (*ato jyāyāṃśca pūruṣaḥ*) will be explained with the support of Śruti sentences.
+
+The meaning of the word पुरुष (*puruṣa*) was stated earlier in the introduction. Since he is said to be greater than the whole world, what principles of Brahman lie hidden in that world, and how the Puruṣa is greater than all of them, must be examined in the present context.
+
+क्षर (*kṣara*) and अक्षर (*akṣara*) are both words indicating the Self. The tradition of calling the Self that is joined with the perishable body kṣara, and the eternal Self distinct from the body akṣara, has existed from the time of the Upaniṣads. By क्षरः सर्वाणि भूतानि (*kṣaraḥ sarvāṇi bhūtāni*) the whole manifest world is denoted by the word क्षर (*kṣara*). The Śāṅkara-bhāṣya has क्षरश्च क्षरतीत्ति) क्षर विनाशी इति एको राशिः (*kṣaraśca kṣaratītti) kṣara vināśī iti eko rāśiḥ*), that is, all beings that undergo destruction. Indicating the same view, that everything from Brahmā down to a blade of grass that perishes at the end of the aeon is called kṣara, the Rāmānuja-bhāṣya also supports this meaning. It says that this denotes the whole world: ब्रह्मादिस्तंबपर्यंतं क्षरणस्वभावाचित्संकृष्टसर्वभूतानि (*brahmādistaṃbaparyaṃtaṃ kṣaraṇasvabhāvācitsaṃkṛṣṭasarvabhūtāni*). Only for the word अक्षर (*akṣara*) is there a difference of purport. If the Self joined with the insentient, that is, with the body and the rest, is named kṣara, then the pure Self not joined with the insentient is named akṣara: such is the view of Rāmānuja. The bhāṣya has अचित्संसर्गवियुक्तः स्वेन रूपेणावस्थितो मुक्तात्मा (*acitsaṃsargaviyuktaḥ svena rūpeṇāvasthito muktātmā*). Śaṅkarācārya, explaining the meaning of the word अक्षर (*akṣara*), has said विनाशरहितः भगवतः मायाशक्तिः (*vināśarahitaḥ bhagavataḥ māyāśaktiḥ*), that is, the Māyā-power of the indestructible Lord. From this the view is indicated that the principle denoted by the word अक्षर (*akṣara*) is not so much of the nature of truth as the principle of the Supreme Brahman denoted by the word पुरुष (*puruṣa*).
+
+But the word अक्षर (*akṣara*) is used in many places as a word denoting the Supreme Brahman. If the word अक्षर (*akṣara*) denotes the Supreme Brahman, there is room for the question whether the two words पुरुष (*puruṣa*) and अक्षर (*akṣara*) are synonyms of the eternal Brahman or not. Just as in the present sūkta it is said अतो ज्यायांश्च पूरुषः (*ato jyāyāṃśca pūruṣaḥ*), so in the Gītā it is stated उत्तमः पुरुषस्त्वन्यः (*uttamaḥ puruṣastvanyaḥ*). These sentences declare the supremacy of the Puruṣa. But is the world, which is the quarter of this Great Puruṣa, of the nature of truth or of untruth? If of the nature of truth, then Sāyaṇa's explanation न तु वास्तवं स्वरूपं (*na tu vāstavaṃ svarūpaṃ*) is not quite correct. Or if of the nature of untruth, it cannot be a part of the Puruṣa who is of the form of truth. Thus a mutual contradiction appears. Therefore, to learn what the relation and the difference are between the Puruṣa described in the present context and the world that manifests his greatness,
+
+### Printed p. 760
+
+one must examine the other Upaniṣad and Bhagavad-gītā sentences, and see whether the description there agrees with what is described in the present sūkta.
+
+अथवा बहुनैतेन किं ज्ञातेन तवार्जुन । निष्पभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥ ( (*athavā bahunaitena kiṃ jñātena tavārjuna | niṣpabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat ‖ (*)
+
+(Bha. Gī. 10-42) **NOTE**
+
+O Arjuna, what purpose of yours is served by obtaining all these kinds of knowledge? It is enough if you know one matter fully. To say it in one word: the Gītā sentence "I stand, having pervaded this whole world with a single part of myself, and yet remain" declares the purport of the present Ṛk; so Śaṅkarācārya has said in giving the purport of this verse.
+
+विष्टभ्य विशेषतः स्तंभनं कृत्वा इदं कृत्स्नं जगत् एकांशेन एकावयवेन सर्वभूतस्वरूपेण इत्येतत् । तथा च मंत्रवर्णः पादोऽस्य विश्वा भूतानि ॥ (*viṣṭabhya viśeṣataḥ staṃbhanaṃ kṛtvā idaṃ kṛtsnaṃ jagat ekāṃśena ekāvayavena sarvabhūtasvarūpeṇa ityetat | tathā ca maṃtravarṇaḥ pādo 'sya viśvā bhūtāni ‖*)
+
+(Bha. Gī. 10-42. Śa. Bhā.)
+
+The principle described by the mantra पादोऽस्य विश्वा भूतानि (*pādo 'sya viśvā bhūtāni*) is described here also. The whole world is a part of me; it is one limb of mine. When it is said to be a limb of the Supreme Brahman, who is of the nature of truth, it is thereby said that the world too has the form of truth. This very mantra is recited in the Chāndogya Upaniṣad. Śaṅkarācārya's bhāṣya on the Upaniṣadic part पादोऽस्य विश्वा भूतानि (*pādo 'sya viśvā bhūtāni*) is as follows.
+
+तावानस्य महिमा गायत्राख्यस्य ब्रह्मणः समस्तस्य महिमा विभूतिविस्तारः । (*tāvānasya mahimā gāyatrākhyasya brahmaṇaḥ samastasya mahimā vibhūtivistāraḥ |*)
+
+The sentence गायत्रि वा इदं सर्वं (*gāyatri vā idaṃ sarvaṃ*), by which the whole world of the moving and the unmoving is said to be the glory of Gāyatrī, in that same context also shows that Gāyatrī is the Supreme Brahman. (It was stated earlier that Gāyatrī is itself a word denoting the Supreme Brahman.) Gāyatrī has four quarters. He has explained that the sentence पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि (*pādo 'sya viśvā bhūtāni tripādasyāmṛtaṃ divi*) is the greatness of this four-quarter Gāyatrī. But it was stated earlier in the section on Gāyatrī that three quarters of the four-quarter Gāyatrī pervade the three worlds, while the fourth quarter is beyond the perception of the world. (Part 17) In the present Ṛk it is stated that the whole world reflects only one quarter of this Brahman called Gāyatrī. Another matter is to be understood from the Upaniṣadic sentence cited above. For the sentence तावानस्य महिमा अतो ज्यायांश्च (*tāvānasya mahimā ato jyāyāṃśca*)
+
+### Printed p. 761
+
+पूरुषः (*pūruṣaḥ*), the Ṛk-saṃhitā explains the word अस्य (*asya*) as पुरुषस्य (*puruṣasya*); that is, it speaks of the greatness of the Puruṣa and a fourth part of the Puruṣa. But in the Upaniṣadic sentence the word अस्य (*asya*) is explained as गायत्राख्यस्य ब्रह्मणः (*gāyatrākhyasya brahmaṇaḥ*), that is, it speaks of a fourth part of Brahman who has four quarters, and says that the Puruṣa is greater than Gāyatrī, which reflects Brahman.
+
+Since it has been stated that Gāyatrī with four quarters is itself the word denoting the Supreme Brahman, to say that the Puruṣa is greater than this amounts to saying that the Puruṣa is greater than Brahman. But since it is said here वाचारंभणमात्रात् (*vācāraṃbhaṇamātrāt*), it amounts to saying that he is greater than the Brahman who pervades only the merely empirical world and has undergone change in the form of the world. That is, the greatness of Brahman is of two kinds: one of manifest form and the other of unmanifest form.
+
+द्वे वा ब्रह्मणो रूपे मूर्तं चा मूर्तं च, मर्त्यं चामृतं च, स्थितं च यच्च सच्च त्यच्च । (*dve vā brahmaṇo rūpe mūrtaṃ cā mūrtaṃ ca, martyaṃ cāmṛtaṃ ca, sthitaṃ ca yacca sacca tyacca |*)
+
+(Bṛ. U. 9-3-1)
+
+Brahman has two forms: the formed and the formless (that which has form and that which is without form); and also that which is subject to death and that which is free from the nature of death; the stationary and the moving; the empirical and the ultimate. The word एतावान् (*etāvān*) indicates the nature of the Supreme Self manifest in the formed shape. पुरुषः (*puruṣaḥ*) indicates the formless shape. The world is mortal, the Puruṣa is immortal; the world is moving, the Puruṣa is stable. Both are different forms of his. Therefore, when the Supreme Self, who is beyond the reach of speech, is described, it is only in the form of negation. The description of these two forms too is given at length in the Upaniṣads and other texts. Where there is a description of the world, which is mortal, fit to be described by speech, and a part of Brahman, in that very context there is also praise of the Supreme Brahman, who surpasses sense-perception and is beyond description. There is no room for the question whether praising the Brahman who is beyond description is not also describing it. For that stays in the form of negation.
+
+Here some sentences are cited that show the difference between the world, which is a part of Īśvara, and the Supreme Self, who is distinct from the world, and that praise Īśvara as pervading the whole world though distinct from it. Though these sentences describe the contradictory nature of Īśvara, they praise the greatness of Īśvara, who has this contradictory nature that appears inconsistent to ordinary perception.
+
+तदेजति तन्नैजति तद्दूरे तद्वदंतिके । तदंतरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥ (*tadejati tannaijati taddūre tadvadaṃtike | tadaṃtarasya sarvasya tadu sarvasyāsya bāhyataḥ ‖*)
+
+(Īta. 5) **NOTE**
+
+### Printed p. 762
+
+This Supreme Thing is moving (in the form of the world) and unmoving (in the form of the Puruṣa distinct from the world). It is far away at a great distance, yet very near. It is within the whole world, and it surpasses the world. The same description occurs in the Bhagavad-gītā in this way.
+
+बहिरंतश्च भूतानामचरः चरमेव च । सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चिंतिके च तत् ॥ (*bahiraṃtaśca bhūtānāmacaraḥ carameva ca | sūkṣmatvāttadavijñeyaṃ dūrasthaṃ ciṃtike ca tat ‖*)
+
+(Bha. Gī. 13-15)
+
+The Supreme Puruṣa is the inner controller of all beings and also distinct from them; he is moving and unmoving; though extremely near to them, he is also extremely far. The same matter is described in the Taittirīya Upaniṣad in this way.
+
+स तपोऽतप्यत । स तपस्तप्त्वा । इदग्ं सर्वमसृजत । यदिदं किं च । तत्सृष्ट्वा । त देवानु प्राविशत् । तदनु प्रविश्य । सच्च त्यच्चाभवत् । निरुक्तं चानिरुक्तं च । निलयनं चानिलयनं च । विज्ञानं चाविज्ञानं च । सत्यं चानृतं च सत्यमभवत् । यदिदं किं च ॥ (*sa tapo 'tapyata | sa tapastaptvā | idagṃ sarvamasṛjata | yadidaṃ kiṃ ca | tatsṛṣṭvā | ta devānu prāviśat | tadanu praviśya | sacca tyaccābhavat | niruktaṃ cāniruktaṃ ca | nilayanaṃ cānilayanaṃ ca | vijñānaṃ cāvijñānaṃ ca | satyaṃ cānṛtaṃ ca satyamabhavat | yadidaṃ kiṃ ca ‖*)
+
+(Trai. U. 2-6) **NOTE**
+
+Desiring to create the world, Brahman performed austerity and produced the whole world. Afterwards he entered into it. Then he became truth-natured and also other than that; he became both the subject of description and the beyond description; one with a support and one without support; of the nature of knowledge and of the nature of non-knowledge; both truth and untruth. He became everything. In this context the word सत्य (*satya*) is used to denote Brahman. But there is also a context that says that Brahman is greater than this truth. For example,
+
+तस्यौपनिषत्सत्यस्य सत्यमिति प्राणा वै सत्यं तेषामेष सत्यं । (*tasyaupaniṣatsatyasya satyamiti prāṇā vai satyaṃ teṣāmeṣa satyaṃ |*)
+
+(Bṛ. U. 2-1-20)
+
+Here, showing the difference between the two principles, truth and the Supreme Brahman, it describes the Supreme Brahman as a truth higher than truth. In this Supreme Brahman all contrary qualities are contained: discrimination and non-discrimination, brightness and darkness, and so on.
+
+द्वे अक्षरे ब्रह्मपरे त्वनंते विद्याविद्ये निहिते यत्र गूढे । क्षरं त्वविद्या ह्यमृतं तु विद्या विद्याविद्ये ईशते यस्तुसोऽन्यः ॥ (*dve akṣare brahmapare tvanaṃte vidyāvidye nihite yatra gūḍhe | kṣaraṃ tvavidyā hyamṛtaṃ tu vidyā vidyāvidye īśate yastuso 'nyaḥ ‖*)
+
+(Śve. U. 5-1) **NOTE**
+
+In the Supreme Brahman, who is indestructible and infinite, two principles are contained. In that Brahman both knowledge and ignorance lie hidden. Of these, ignorance is that which is to be destroyed, and knowledge is
+
+### Printed p. 763
+
+eternal. The Supreme Brahman is the one who controls these two principles, knowledge and ignorance, and the one who possesses these two forms.
+
+एतद्वै सत्यकाम परं चापरं च ब्रह्म यदोंकारः । तस्माद्विद्वानेतेनैवायतने नैकतरमन्वेति ॥ (*etadvai satyakāma paraṃ cāparaṃ ca brahma yadoṃkāraḥ | tasmādvidvānetenaivāyatane naikataramanveti ‖*)
+
+(Praśne. 5-2) **NOTE**
+
+O Satyakāma, the forms of the Supreme Brahman, who is denoted by the Praṇava ओं (*oṃ*), are two: they are of two kinds, the higher and the lower. Having taught that this Supreme Brahman is to be worshipped on the basis of this Praṇava, it is said that just as the three letters a, u and m of the Praṇava reflect the three worlds, so if the Supreme Brahman is worshipped on the basis of those three letters, full knowledge of Brahman is obtained. It is explained in this way that these three letters show the three forms of Brahman, which are of the nature of the three worlds. It is said that for the direct realisation of the Supreme Puruṣa described by अतो ज्यायांश्च पूरुषः (*ato jyāyāṃśca pūruṣaḥ*), knowledge of these three kinds of form is needed. The world that manifests the greatness of this Puruṣa is only a part of the Oṃkāra. How? Thus—
+
+स यद्येकमात्रमधिध्यायीत स तेनैव नंवेदितस्तूर्णमेव जगत्यामभिसंपद्यते । तम्मचो मनुष्यलोकमुपनयंते, स तत्र तपसा ब्रह्मचर्येण श्रद्धया संपन्नो महिमानमनुभवति ॥ (*sa yadyekamātramadhidhyāyīta sa tenaiva naṃveditastūrṇameva jagatyāmabhisaṃpadyate | tammaco manuṣyalokamupanayaṃte, sa tatra tapasā brahmacaryeṇa śraddhayā saṃpanno mahimānamanubhavati ‖*)
+
+(Praśna. 5-3)
+
+In this Praṇava, which is of three letters, he who meditates on the basis of one letter only, the letter a, returns again to the earth, the world of men. The Ṛk mantra leads him here and increases his greatness. Endowed with his glory, and with the wealth of austerity, celibacy and faith, he increases his own greatness.
+
+अथ यदि द्विमात्रेण मनसि संपदृते सोंतरिक्षं यजुर्भिरुन्नीयते सोमलोकं । स सोमलोके विभूतिमनुभूय पुनरावर्तते ॥ (*atha yadi dvimātreṇa manasi saṃpadṛte soṃtarikṣaṃ yajurbhirunnīyate somalokaṃ | sa somaloke vibhūtimanubhūya punarāvartate ‖*)
+
+Again, if worship is performed on the basis of only two letters of the Praṇava (a and u), then with their help he obtains purity of mind and reaches the world of Soma in the atmosphere; having experienced happiness there, he returns here again.
+
+यॆः पुनरेतं त्रिमात्रेणौमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायति स तेजसि सूरेये संपन्नः । यथा पादोदरस्त्वचा विनिर्मुच्यत एवं ह वै स (*yèḥ punaretaṃ trimātreṇaumityetenaivākṣareṇa paraṃ puruṣamabhidhyāyati sa tejasi sūreye saṃpannaḥ | yathā pādodarastvacā vinirmucyata evaṃ ha vai sa*)
+
+### Printed p. 764
+
+पाप्मना विनिर्मुक्तः स सामभिरुन्नीयते ब्रह्मलोकं स एतस्माज्जीवघनात्प. रात्परं पुरिशयं पुरुषमीक्षते । (*pāpmanā vinirmuktaḥ sa sāmabhirunnīyate brahmalokaṃ sa etasmājjīvaghanātpa. rātparaṃ puriśayaṃ puruṣamīkṣate |*)
+
+(Praśna. 5-5)
+
+If the Supreme Puruṣa is worshipped also on the basis of the three letters of the Praṇava, he unites with the radiance of the Sun. As a serpent is freed from its skin, he is wholly freed. The Sāma mantras carry him to the world of Brahmā. From there he beholds the Supreme Puruṣa who dwells within the heart. In this context the following mantras make this point clear. They indicate the extent of the Puruṣa's mortal world and his immortality. Thus,
+
+तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता अन्नोन्यसक्ता अनविप्रयुक्ताः । क्रियासु बाह्याभ्यंतरमध्यमासु सम्यक्स्ययुक्तासु न कंपते ज्ञः ॥ (*tisro mātrā mṛtyumatyaḥ prayuktā annonyasaktā anaviprayuktāḥ | kriyāsu bāhyābhyaṃtaramadhyamāsu samyaksyayuktāsu na kaṃpate jñaḥ ‖*)
+
+(Praśna. 25-6)
+
+If any one of the three letters contained in the Praṇava, which reflects the Supreme Puruṣa, is worshipped separately, and on that basis the Supreme Puruṣa is worshipped, then they bring about only the direct realisation of the part of the Puruṣa that is subject to death. But if they are worshipped fully and the Puruṣa is adored with the help of their combination, then the wise man does not tremble.
+
+ऋग्भिरेतं यजुर्भिरंतरिक्षं सामभिरत्यवयो वेदयंते । तमोंकारेणैवायतनेनान्वेति विद्वान् यत्तच्छांतमजरममृतमभयं परं चेति ॥ (*ṛgbhiretaṃ yajurbhiraṃtarikṣaṃ sāmabhiratyavayo vedayaṃte | tamoṃkāreṇaivāyatanenānveti vidvān yattacchāṃtamajaramamṛtamabhayaṃ paraṃ ceti ‖*)
+
+(Pra, 5-2) **NOTE**
+
+By the help of the Ṛk mantras he obtains this world, a part of the Supreme Puruṣa; by the Yajus mantras the atmosphere; and by the help of the Sāma mantras the world of union seen by the seers. All these are the world that manifests the greatness of the Puruṣa. And beyond all these there is a divine part. By worship of the Praṇava, the abode of all, the knowing man realises the divine part, which is peaceful, free from old age, formless, free from fear, and higher than the highest. Thus the two forms of the Supreme Brahman and the way of realising them are described.
+
+What is the divine nature of the Supreme Puruṣa, who is greater than the world subject to death? What are the other names that praise this Puruṣa? Are they all used in one sense? These and other matters must be examined in the present context.
+
+### Printed p. 765
+
+The Puruṣa's being distinct from the world is described in the Muṇḍaka Upaniṣad in this way—
+
+दिव्यो ह्यमूर्तः पुरुषः सबाह्याभ्यंतरो ह्यजः । अप्राणो ह्यमनाः शुभ्रो ह्यक्षरात्परतः परः ॥ (*divyo hyamūrtaḥ puruṣaḥ sabāhyābhyaṃtaro hyajaḥ | aprāṇo hyamanāḥ śubhro hyakṣarātparataḥ paraḥ ‖*)
+
+(Pu. Ā. 2-1-2) **NOTE**
+
+The Puruṣa, who dwells in the divine world and is without form, pervades inside and outside. He is unborn, without breath, without mind, and pure; he is greater than the Akṣara who is higher than the highest: such is the description of the Puruṣa. The Supreme Brahman, who is distinct from the world, is ordinarily denoted by the word अक्षर (*akṣara*). Since in the present case the Puruṣa is said to be greater than the Akṣara, it is to be understood that here the word अक्षर (*akṣara*) applies to the lower Brahman. When kṣara is said to extend from Brahmā down to a blade of grass, it is right that the Akṣara should be a word denoting the Supreme Brahman. Yet in some places this word has another meaning also. After examining the other sentences that praise the Puruṣa as greater than the Akṣara, sentences will be cited that show the identity of the Puruṣa and the Akṣara.
+
+यथा नद्यः स्यंदमानाः समुद्रेऽस्तं गच्छंति नामरूपे विहाय । तथा विद्यान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यं ॥ (*yathā nadyaḥ syaṃdamānāḥ samudre 'staṃ gacchaṃti nāmarūpe vihāya | tathā vidyānnāmarūpādvimuktaḥ parātparaṃ puruṣamupaiti divyaṃ ‖*)
+
+(Mu. U. 3-2-8) **NOTE**
+
+The nature of the Supreme Puruṣa is of two kinds: the world with name and form, and the state beyond the highest without name and form. The world with name and form is not stable. As rivers such as the Gaṅgā, at the end of their flow, reach the sea and become one with the sea without their individual indications of name and form, so, it is said, at the end of the aeon the whole world from Brahmā down to a blade of grass gives up its individual names and forms, joins the Puruṣa who is higher than the highest, and attains divinity. If it is asked what is meant here by "higher than the highest": the Ācārya has explained in the Śaṅkara-bhāṣya, on परादक्षरात्परं दिव्यं पुरुषं (*parādakṣarātparaṃ divyaṃ puruṣaṃ*), that the word पर (*para*) is the name of the Akṣara that is higher than the world, and that the meaning is that the Puruṣa is greater than that Akṣara. The same matter is stated in the Kaṭha Upaniṣad:—
+
+महतः परमव्यक्तमव्यक्तात्पुरुषः परः । पुरुषान्न परं किंचित्सा काष्ठा सा परा गतिः ॥ (*mahataḥ paramavyaktamavyaktātpuruṣaḥ paraḥ | puruṣānna paraṃ kiṃcitsā kāṣṭhā sā parā gatiḥ ‖*)
+
+(Kaṭha. 3-11) **NOTE**
+
+The unmanifest, which is not made manifest by name and form, is higher than the Mahat principle. The Puruṣa is higher than this unmanifest. There is nothing higher than the Puruṣa. The Puruṣa is praised as the highest goal and the best way.
+
 ---
 
-**Progress note:** Done through printed p. 756. Mahidhara/Pariśodha on anna; Upaniṣad quotations; chief purport on idam sarvam, yad bhūtam, amṛtatva
+**Progress note:** Done through printed p. 765. Ṛk 3 of Puruṣa-sūkta (Sāyaṇa, Pratipadārtha, Bhāvārtha), Special Topics on kṣara/akṣara, Upaniṣad citations
