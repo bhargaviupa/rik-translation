@@ -2369,6 +2369,155 @@ Let your horses yoked to the chariot bring you, Indra, the yellow-jawed, desirin
 > अपाः । पूर्वेषां । हरवः । सुतानां । अथोइति । इदं । सवनं । केवलं । ते ।  
 > ममद्धि । सोमं । मधुमंतं । इंद्र । सत्रा । वृषन् । जठरे । आ । वृषस्व ॥ १३ ॥
 
+### Printed p. 68
+#### Ṛk 13 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपाः पूर्णेषामित्येषा षोडशिशस्त्रस्य याज्या । सूत्रितं च । एवा हि
+> शक्रो वशी हि शक्र इति जपित्वापाह पूर्वेषां हरिवः सुतानामिति यजति ।
+> आ. ६-२ । इति ॥
+> हे इंद्र सुतानामभिसुतानां पूर्वॆषां प्रातःसवनसंपादितानां ।
+> कर्मणि षष्ठ्यावेते । अभिषुतान्ना तःसवनिकान्नोमानित्यर्थः । तानपाः । अपिबः । हे
+> हरिव इतींद्रसंबोधनं । हरिभ्यामश्वाभ्यां तद्वन् । यद्वा । ऋक्सामात्मकाभ्यां
+> हरिभ्यां युक्त । ऋक्सामे वा इंद्रस्य हरी । ऐ- ब्रा. २-२४ । तै. सं. ६-५-९-२
+> ताभ्यामेष हरतीति ब्राह्मणं । अथो अपि चेदं माध्यंदिनं सवनं केवलं ते
+> तवैनासाधारणं । माध्यंदिनं सवनं केवलं ते । ऋ. ४-३५-७ । इति हि मंत्रांतरं ।
+> तस्मिन्सवने हे इंद्र मधुमंतं माधुर्योपेतं सोमं ममद्धि । पिब । आस्वादयेत्यर्थः । मदिरत्रास्वादनकर्मा । पिबंतु मदंतु वियंत्विति च मंत्रः । सत्रा
+> वृषन् । सत्राशब्दो भूयिष्ठवचनः । हे भूयिष्ठ वर्षितरिंद्र जठर आ वृषस्व ।
+> आसिंचस्व ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the yājyā of the Ṣoḍaśi-śastra. The sūtra says: एवा हि शक्रो वशी हि शक्र इति जपित्वापः पूर्णेषां हरिवः सुतानामिति यजति (*evā hi śakro vaśī hi śakra iti japitvāpaḥ pūrṇeṣāṃ harivaḥ sutānāmiti yajati*) (Ā. 6-2). "O Indra, of the previous pressed offerings", that is, of the Soma pressed and made ready for the morning pressing (the genitive is in the sense of the object), you drank those. हरिवः (*harivaḥ*) is a vocative of Indra: one who has the two bay horses; or else one yoked with the two bays that are the Ṛk and the Sāman. Ai. Brā. 2-24 and Tai. Saṃ. 6-5-9-2 say: "The Ṛk and the Sāman are Indra's two bays; with them he carries (the offering)", so says the Brāhmaṇa. अथो (*atho*): moreover, this midday pressing is yours alone, not shared. Another mantra is quoted: माध्यंदिनं सवनं केवलं ते (*mādhyaṃdinaṃ savanaṃ kevalaṃ te*) (Ṛ. 4-35-7). At that pressing, O Indra, drink the sweet Soma, the one endowed with sweetness; ममद्धि (*mamaddhi*) means drink, enjoy; the root मदि (*madi*) has the sense of tasting; the mantra says *pibaṃtu madaṃtu viyaṃtu*. सत्रा (*satrā*) means in great abundance. O abundant showerer, Indra, pour (it) into your belly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, who are yoked with horses
+- पूर्वेषां (*pūrveṣāṃ*)—formerly, prepared for the morning pressing
+- सुतानां (*sutānāṃ*)—of the pressed Soma juices
+- अपाः (*apāḥ*)—you have drunk
+- अथो (*atho*)—likewise
+- इदं सवनं (*idaṃ savanaṃ*)—the juices pressed for this midday pressing also
+- केवलं ते (*kevalaṃ te*)—have been pressed with you alone in view
+- इंद्र (*iṃdra*)—O Indra
+- मधुमंतं (*madhumaṃtaṃ*)—the tasty
+- सोमं (*somaṃ*)—Soma juice
+- ममद्धि (*mamaddhi*)—drink it and be gladdened
+- सत्रा (*satrā*)—in great abundance
+- वृषन् (*vṛṣan*)—O Indra, who pour down rain
+- जठरे (*jaṭhare*)—in your belly
+- आ वृषस्व (*ā vṛṣasva*)—pour this in
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, yoked with horses, you have drunk the pressed Soma juices that were formerly prepared for the morning pressing. Likewise the juices pressed for this midday pressing have been pressed with you alone in view. O Indra, drink the tasty Soma and be gladdened. O Indra, who pour down rain in great abundance, pour this into your belly.
+
+##### English translation
+Lord of horses, you drank of previous libations, this sacrifice is for you alone; exhilarate yourself, Indra, with sweet Soma; showerer of copious rain, shower it into your belly.
+
+### Printed p. 69
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk beginning असाः पूर्णेषां (*asāḥ pūrṇeṣāṃ*) **NOTE** is to be recited as the yājyā mantra of the Ṣoḍaśi-śastra is explained by the sūtra of the Āśvalāyana Śrauta Sūtra: एवा हि शक्रो वशी हि शक्र इति जपित्वापः पूर्णेषां हरिवः सुतानामिति यजति (*evā hi śakro vaśī hi śakra iti japitvāpaḥ pūrṇeṣāṃ harivaḥ sutānāmiti yajati*) (Ā. 6-2).
+
+The ninety-seventh sūkta is on the Jīrike (cumin).
+
+In this sūkta are praised the herbs and trees (oṣadhi-vanaspati) used to destroy diseases and the like: that is, small plants, creepers, roots, vines and so on, and also a few large trees such as the aśvattha and the pālāśa. The same sūkta, with some variant readings, is also recited in the Taittirīya Saṃhitā (Tai. Saṃ. 4-2-6). From some Ṛks of this sūkta, and from the mantras of the 145th sūkta of this same maṇḍala beginning इमां खनाम्योषधिं (*imāṃ khanāmyoṣadhiṃ*), it is evident that these herbs were used not only as medicine to cure diseases but also in magical (ābhicārika) rites such as wound-charming, subjugation and harming enemies. The seers believed that the power of these herbs and trees is very great. Soma, or the Soma plant, is said to be the king of these herbs and trees; that is why it is customary to call Soma by the word "king". Although other herbs and trees are described and praised here and there, this is the only sūkta in which these herbs are the main object of praise. The ninth maṇḍala of the Ṛgveda is set apart for praising the Soma plant and Soma, its presiding deity; and in many Ṛks of many sūktas, as the context requires, there is praise of the deity Soma as well. In the introduction to the ninth maṇḍala (Ṛ. Saṃ. part 26, pp. 1-98) there is a detailed account of the deity Soma and the Soma plant. In many places in the Ṛks of this sūkta, things regarded as lifeless, that is, creepers and the like that have no power to speak like human beings, are addressed as if they were human beings, and are seen speaking like human beings. But, as the Bhāṣyakāra has said in the Ṛgveda-bhāṣya-bhūmikā, it should be understood that in sentences such as ओषधे त्रायस्यैनं (*oṣadhe trāyasyainaṃ*) ("O herb, protect this man") and in the mantras of the present sūkta, the herbs and trees are not thought of merely as plants but are praised as their presiding deities.
+
+Giving the etymology of the word ओषधि (*oṣadhi*), Yāska says: ओषधयः । ओषद्वयंतीति वा । ओषत्येना भयंतीति वा । दोषं भयंतीति वा (*oṣadhayaḥ | oṣadvayaṃtīti vā | oṣatyenā bhayaṃtīti vā | doṣaṃ bhayaṃtīti vā*) (Ni. 9-27). That is: here the two words ओषत् (*oṣat*) and धयंति (*dhayaṃti*) together make the word ओषधयः (*oṣadhayaḥ*). ओषत् (*oṣat*) is disease pervading the body, such as the heat of fever; धयंति (*dhayaṃti*) means they drink up or destroy. Because it drinks up (destroys) and demolishes the diseases that arise in the body, it gets the name ओषधयः (*oṣadhayaḥ*). Or, because it is drunk by going into the belly, it gets this name. Or, because it destroys the faults (doṣa) in the body, that is, the faults such as vāta and pitta, it gets the name ओषधि (*oṣadhi*). Thus he has given three kinds of meaning.
+
+### Printed p. 70
+## Sūkta 97 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या ओषधीरिति त्रयोविंशत्यृचं सप्तमं सूक्तं । अथर्वणः पुत्रस्य
+> भिषग्नाम्न आर्ष० । आनुष्टुभनोषधिदेवताकं । तथा चानुक्रांतं । या ओषधीस्त्र्यधिकाधर्वणो भिषगोषधिस्तुतिरानुष्टुभमिति ॥ दीक्षितानां ज्वराद्युपसंतापे
+> संजातेऽनेन सूक्तेन मार्जयेत् । सूत्रितं च । ओषधिसूक्तेन चाप्लाव्यानुम्मृजेत् । आ. ६-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, या ओषधीः (*yā oṣadhīḥ*), of twenty-three Ṛks. Its seer is Bhiṣak, son of Atharvan; its deity is the Oṣadhis; its metre is Anuṣṭubh. The Anukramaṇī says: या ओषधीस्र्यधिकाधर्वणो भिषगोषधिस्तुतिरानुष्टुभं (*yā oṣadhīsryadhikādharvaṇo bhiṣagoṣadhistutirānuṣṭubhaṃ*). When fever or other affliction has arisen among those consecrated for a rite (dīkṣita), one should sprinkle them with this sūkta. The sūtra says: ओषधिसूक्तेन चाप्लाव्यानुमृजेत् (*oṣadhisūktena cāplāvyānumṛjet*) (Ā. 6-9).
+
+The Anuvāda: this sūkta beginning या ओषधीः (*yā oṣadhīḥ*) is the seventh sūkta in the eighth anuvāka; it has twenty-three Ṛks. The seer of this sūkta is the one named Bhiṣak (physician), son of Atharvan; its deity is the herbs; its metre is Anuṣṭubh. In the Anukramaṇī it is said: या ओषधीस्र्यधिकाधर्वणो भिषगोषधिस्तुतिरानुष्टुभं (*yā oṣadhīsryadhikādharvaṇo bhiṣagoṣadhistutirānuṣṭubhaṃ*). If those who have taken the dīkṣā in sacrificial rites are afflicted by fever or other troubles in the middle of the rite, they are to be sprinkled (prokṣaṇa) with the mantras of this sūkta; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, ओषधिसूक्तेन चाप्लाव्यानुमृजेत् (*oṣadhisūktena cāplāvyānumṛjet*) (Ā. 6-9).
+
+Maṇḍala 10; Anuvāka 8; Sūkta 97. Aṣṭaka 8; Adhyāya 5; Vargas 8, 9, 10, 11. Number of Ṛks in the sūkta: 23. Ṛṣi: Bhiṣag Ātharvaṇa. Devatā: praise of the Oṣadhis. Chandas: Anuṣṭubh.
+
+### Printed p. 71
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ओष॑धीः॒ पूर्वा॑ जा॒ता दे॒वेभ्य॑स्त्रियु॒गं पु॒रा ॥  
+> मन्यॆ॒ नु ब॒भ्रूणा॑म॒हं श॒तं धामा॑नि स॒प्त च॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । ओषधीः । पूर्वाः । जाताः । देवेभ्यः । त्रियुगं । पुरा ।  
+> मन्यै । नु । बभ्रूणां । अहं । शतं । धामानि । सप्त । च ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या ओषधयः पूर्वा पुरातन्यो जाता उत्पन्नाः । केभ्यः सकाशात् ।
+> देवेभ्यो जगन्निर्मातृभ्यः । यद्वा । देवा द्योतमाना ऋतवः । तेभ्यः ।
+> कस्मिन्काले । त्रियुगं त्रिषु युगेषु विशेषेण प्रादुर्भानापेक्षया कृतादियुगत्रयमुक्तं कलौ त्वत्यंताल्पत्वादुपेक्षितं । अथवा त्रिषु युगेषु वसंते प्रावृषि शरदि
+> चेत्यर्थः । अहं बभ्रूणां बभ्रुवर्णानां सोमाद्योषधीनां शतं सप्त च
+> धामान्यनुलेपमार्जनाभिषेकादिरूपेणाश्रयभूतानि स्थानानि नु क्षिप्रं मन्यॆ । मन्ये ।
+> संभावयामीत्यर्थः । अत्र वाजसनेयकं । या ओषधीः पूर्वा जाता देवेभ्यस्त्रियुगं पुरेत्यृतवो नै देवास्त्रेभ्य एतास्त्रिः पुरा जायंते वसंते प्रावृषि शरदि
+> मनै नु बभ्रूणामहमिति सोमो वै बभ्रुः सोम्या औषधॆय औषधः पुरुषः शतं
+> धामानीति यदिदग्० शतायुः शतार्घः शतवीर्य एतानि हास्य तानि शतं धामानि सप्त
+> चेति य एवेमे सप्त शीर्षन्नाणास्तानेतदाह । शत. ७-२-४-२६ । इति ! अत्र निरुक्तं
+> च । या ओषधयः पूर्वा जाता देवेभ्यस्त्रीणि युगानि पुरा मन्यॆ नु तद्बभ्रूणामहं बभ्रुवर्णानां भरणानां हरणानामिति ना शतं धामानि सप्त चेति । धामानि
+> त्रयाणि भवंति स्थानानि नामानि जन्मानीति । जन्मान्यत्राभिप्रेतानि सप्तशतानि सप्तशतं
+> पुरुषस्य मर्मणां तेष्टेना दधति । नि. ९-२५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The herbs that were born first, in ancient times, before the gods. "Gods" means either the world-makers, or else the shining seasons. "In three yugas": with regard to special manifestation, the three yugas beginning with Kṛta are meant; the Kali age is passed over because it is very short. Or else the three "yugas" are spring, the rains and autumn. "I" think quickly of the hundred and seven abodes of the brown-hued (बभ्रु (*babhru*)) herbs such as Soma, abodes that serve as supports in the form of anointing, sprinkling, bathing and so on; मन्ये (*manye*) means "I conceive". The Vājasaneyaka (Śa. Brā. 7-2-4-26) is cited here: the Ṛk is quoted, and then: the seasons are the gods; for them these (herbs) are born thrice, in spring, the rains and autumn. "I think of the brown ones": Soma is the brown one; the herbs are Soma's. The man is made of herbs. "A hundred abodes": this man lives a hundred years, is worth a hundred, has a hundred-fold vigour; these are his hundred abodes. "And seven": this refers to the seven vital breaths in the head. The Nirukta also (Ni. 9-25) is cited: the herbs that were born first, three yugas before the gods, "I think of the brown ones", of brown-coloured ones, of bearers or of takers (*bharaṇānāṃ haraṇānāṃ*); "a hundred abodes and seven". Abodes are of three kinds: places, names, births. Here births are meant: the seven hundred of the vital spots (marman) of a man, with which they support him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेभ्यः (*devebhyaḥ*)—than the gods
+- पुरा त्रियुगं (*purā triyugaṃ*)—three yugas before. Or त्रियुगं (*triyugaṃ*)—in the spring, rainy and autumn seasons
+- पुरा (*purā*)—formerly
+- जाताः (*jātāḥ*)—born
+- पूर्वाः (*pūrvāḥ*)—and ancient
+- या ओषधीः (*yā oṣadhīḥ*)—whichever herbs there are, such
+- बभ्रूणां (*babhrūṇāṃ*)—of the golden-brown herbs such as Soma
+- शतं सप्त च (*śataṃ sapta ca*)—a hundred and seven in number
+- धामानि (*dhāmāni*)—abodes (anointing, or applications)
+- अहं (*ahaṃ*)—I
+- नु (*nu*)—quickly
+- मन्ये (*manye*)—have understood
+
+### Printed p. 72
+
+##### भावार्थ (Bhāvārtha)
+
+Three yugas back, called Kṛta, Tretā and Dvāpara, or formerly in the spring, rainy and autumn seasons, whichever herbs were born and are ancient, such golden-brown herbs, Soma and the others: I have quickly understood the abodes (the uses) of a hundred and seven kinds of them.
+
+##### English translation
+I think of the hundred and seven applications of the brown-tinted plants, which are ancient, being generated for the gods before the three ages.
+
+##### विशेषविषयगळु (Special Topics)
+
+या ओषधीः पूर्वा जाताः देवेभ्यः त्रियुगं पुरा (*yā oṣadhīḥ pūrvā jātāḥ devebhyaḥ triyugaṃ purā*): here the Bhāṣyakāra has given two kinds of meaning for the word त्रियुगं (*triyugaṃ*): त्रियुगं त्रिषु युगेषु विशेषेण प्रादुर्भानापेक्षया कृतादियुगत्रयमुक्तं कलौ त्वत्यंताल्पत्वादुपेक्षितं । (*triyugaṃ triṣu yugeṣu viśeṣeṇa prādurbhānāpekṣayā kṛtādiyugatrayamuktaṃ kalau tvatyaṃtālpatvādupekṣitaṃ |*). That is, "in the three yugas called Kṛta, Tretā and Dvāpara"; since the duration of the Kali age is very small, it is passed over here (that is, not worth counting). "Formerly" (पुरा (*purā*)), that is, the herbs born in the three yugas beginning with Kṛta, which are earlier than the Kali age: this is one kind of meaning.
+
+अथवा त्रिषु युगेषु वसंते प्रावृषि शरदि चेत्यर्थः (*athavā triṣu yugeṣu vasaṃte prāvṛṣi śaradi cetyarthaḥ*): or, the herbs that are born in the three seasons that come in one year, spring (summer), the rains (rainy season) and autumn (cold season): this is the other kind of meaning. To support this meaning the Bhāṣyakāra has cited this passage of the Śatapatha Brāhmaṇa: या ओषधीः पूर्वा जाता देवेभ्यस्त्रियुगं पुरेत्यृतवो वै देवास्त्रेभ्य एतास्त्रिः पुरा जायंते वसंते प्रावृषि शरदि मनै नु बभ्रूणामहमिति सोमो वै बभ्रुः सोम्या ओषधयः औषधः पुरुषः शतं धामानीति यदिदग्ं शतायुः शतार्घः शतवीर्य एतानि हास्य तानि शतं धामानि सप्त चेति । य एवेमे सप्न शीर्षन्प्राणास्तानेतदाह । (*yā oṣadhīḥ pūrvā jātā devebhyastriyugaṃ puretyṛtavo vai devāstrebhya etāstriḥ purā jāyaṃte vasaṃte prāvṛṣi śaradi manai nu babhrūṇāmahamiti somo vai babhruḥ somyā oṣadhayaḥ auṣadhaḥ puruṣaḥ śataṃ dhāmānīti yadidagṃ śatāyuḥ śatārghaḥ śatavīrya etāni hāsya tāni śataṃ dhāmāni sapta ceti | ya eveme sapna śīrṣanprāṇāstānetadāha |*).
+
+### Printed p. 73
+According to this Śruti passage, त्रियुगं (*triyugaṃ*) means the three seasons spring, rains and autumn; in all these three seasons these herbs were produced by the gods. They are brown-hued like the Soma plant. The chief import is that these herbs destroy a man's diseases and so make him live up to a hundred years, make him endowed with many kinds of vigour and the like (strength, capacity and so on), and make him healthy, endowed with the seven kinds of vital breath (air). We have already explained the meaning of the word युग (*yuga*) earlier, that is, in the 72nd sūkta of the tenth maṇḍala.
+
+For the sentence देवेभ्यस्त्रियुगं पुरा जाताः (*devebhyastriyugaṃ purā jātāḥ*) the Bhāṣyakāra has explained that these herbs were produced by the gods, that is, created, in the three yugas beginning with Kṛta or in the three seasons beginning with spring. But for the sentence देवेभ्यस्त्रियुगं पुरा जाताः (*devebhyastriyugaṃ purā jātāḥ*) Yāska has explained the meaning thus: the herbs were produced three yugas of time before the creation of the gods; that is, the herbs were produced first, and then, after the time of three yugas had passed, the gods were produced. This meaning appears to be correct and consistent. For the plant kingdom, which is the food of all living beings, must have been produced first; then the creation of living beings. Otherwise, if living beings were produced first, what would they eat as food? For this reason too, to say that the creation of the herbs and trees (the plant kingdom) took place long before the gods, that is, three yugas before, is consistent and reasonable.
+
+Yāska's Nirukta for this reasoning is as follows: या ओषधयः पूर्वा जाता देवेभ्यस्त्रीणि युगानि पुरा मन्ये नु तद्वभ्रूणामहं बभ्रूवर्णानां हरणानां भरणानामिति वा । शतं धामानि सप्त च । धामानि त्रयाणि भवंति स्थानानि नामानि जन्मानीति । जन्मान्यत्राभिप्रेतानि सप्तशतं पुरुषस्य मर्मणां तेष्टेना दधतीति वा ॥ (*yā oṣadhayaḥ pūrvā jātā devebhyastrīṇi yugāni purā manye nu tadvabhrūṇāmahaṃ babhrūvarṇānāṃ haraṇānāṃ bharaṇānāmiti vā | śataṃ dhāmāni sapta ca | dhāmāni trayāṇi bhavaṃti sthānāni nāmāni janmānīti | janmānyatrābhipretāni saptaśataṃ puruṣasya marmaṇāṃ teṣṭenā dadhatīti vā ‖*).
+
+In explaining this Nirukta it is necessary to take each phrase of this Ṛk separately and explain it.
+
+या ओषधयः पूर्वा जाता देवेभ्यस्त्रीणि युगानि पुरा मन्ये (*yā oṣadhayaḥ pūrvā jātā devebhyastrīṇi yugāni purā manye*): the seer says here, "I have understood that the herbs, that is, the plant kingdom of small plants, creepers, vines and so on, were produced, that is, created, three yugas of time before the gods were created." Long before (three yugas before) gods, men or other animals are born on this earth, the plant kingdom that is their food must be produced. For no animals can live without food. The food first
+
 ---
 
-**Progress note:** Done through printed p. 67. pp. 62-67 (batch API)
+**Progress note:** Done through printed p. 73. pp. 68-73 (batch API)
