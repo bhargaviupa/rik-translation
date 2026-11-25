@@ -1571,6 +1571,249 @@ You have filled these waters, you, Indra, who are the lord (of all) bear (the th
 
 The weapon (चक्रं (*cakraṃ*)) of this Indra that rests (निषण्णं (*niṣaṇṇaṃ*)) in the waters, that is, in the atmosphere (अप्सु (*apsu*)), that weapon brings the sweet (मधु (*madhu*)) into subjection (चच्छद्यात् (*cacchadyāt*), glossed वशं नयति (*vaśaṃ nayati*)) for this Indra. That which (यत् (*yat*)) is on the earth (पृथिव्यामतिषितं (*pṛthivyāmatiṣitaṃ*), glossed निमित्तं (*nimittaṃ*)), the udder (ऊधः (*ūdhaḥ*)), that is, from the cloud (मेघात् (*meghāt*)), that water, the milk (पयः (*payaḥ*)), you placed (आदधाः (*ādadhāḥ*)) in the cows and the plants. **NOTE**
 
+### Printed p. 70
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Indra
+- यत् (*yat*)—which
+- चक्रं (*cakraṃ*)—weapon
+- अप्पु (*appu*)—in the atmosphere
+- आ निसत्तं (*ā nisattaṃ*)—abides, that is, is established or is discharged
+- तत् (*tat*)—that weapon
+- अस्मै इत् (*asmai it*)—for Indra alone
+- मधु (*madhu*)—the sweet (and cloud-dwelling) water
+- चच्छद्यात् (*cacchadyāt*)—will bring into subjection
+- उतो (*uto*)—and
+- पृथिव्यां (*pṛthivyāṃ*)—on the earth
+- अतिसितं (*atisitaṃ*)—which is established
+- ऊधः (*ūdhaḥ*)—obtained from the cloud (that is, of the rain)
+- यत् पयः (*yat payaḥ*)—whatever water there is
+- तत् (*tat*)—that water (O Indra, you)
+- गोषु (*goṣu*)—in the cows (in the form of milk)
+- ओषधीषु (*oṣadhīṣu*)—in the herbs and trees, that is, in the plant world
+- अदधाः (*adadhāḥ*)—have established
+
+##### भावार्थ (Bhāvārtha)
+
+The thunderbolt of Indra, discharged by him in the atmosphere, brings the sweet water that is in the clouds into subjection for Indra. That is, with the help of his thunderbolt Indra will bring the water of the clouds under his control. O Indra, it is you who have established the water of the rivers, reservoirs and the like that are on the earth, the water that is in the cows in the form of milk, and the water that is in the herbs and trees in the form of sap.
+
+##### English translation
+When his thunderbolt abode everywhere in the firmament, it also subjugated the water to him ; the water which is let loose upon the earth puts milk into cows and herbs.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Sāyaṇa-bhāṣya for this Ṛk is not found in any book. Therefore the bhāṣya that is given in the Ṛgveda-saṃhitā with Sāyaṇa's bhāṣya published by the Vaidika Saṃśodhana Maṇḍala of the city of Poona, taken from another book, is given here. Who its author is, is not clear. Although two or three other kinds of variant readings found in other books are also given there, since they do not appear to be very necessary, they are not written here. This Ṛk is recited in the Sāmaveda (Sā. 331) **NOTE**. The bhāṣya that Sāyaṇa has written on it is given here.
+अस्येंद्रस्य चक्रमायुधमप्संतरिक्ष आ सर्वतो निषत्तं निषिण्णमासीन्मेघह ननार्थमुतो तदपि चास्मा इंद्राय मध्विदुदकमपि चच्छद्यात् वशं नयति । पृथिवामतिषितं विमुक्तं यदूधरुदकमस्ति तत्पयो गोष्टोष धीषु चादधाः आदधाति ॥ (*asyeṃdrasya cakramāyudhamapsaṃtarikṣa ā sarvato niṣattaṃ niṣiṇṇamāsīnmeghaha nanārthamuto tadapi cāsmā iṃdrāya madhvidudakamapi cacchadyāt vaśaṃ nayati | pṛthivāmatiṣitaṃ vimuktaṃ yadūdharudakamasti tatpayo goṣṭoṣa dhīṣu cādadhāḥ ādadhāti ‖*) **GLOSS**
+
+### Printed p. 71
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वा॑दिया॒येति॒ यद्वदं॒त्योज॑सो जा॒तमु॒त म॑न्य एनं ।  
+> म॒न्योरि॑याय ह॒र्मेषु॑ तस्थौ॒ यतः॑ प्रज॒ज्ञ इंद्रो॑ अस्य  
+> वेद ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वात् । इयाय । इति । यत् । वदंति । ओजसः । जातं । उत । मन्ये । एनं ।  
+> मन्योः । इयाय । हर्म्येषु । तस्थौ । यतः । प्रजज्ञे । इंद्रः । अस्य । वेद ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रसामर्थ्यं दृष्ट्वा केचिदेनमश्वादादित्यादियायोदितवानिति वदंति
+> यद्यद्यपि उत तथाप्यहमेनमोजसो बलाज्जातं मन्ये । जानामि । अस्य तेजस्वित्वं दृष्ट्वा सूर्यादुत्पन्न इति तेषां मतिः । अहं त्वोजःपदार्थाज्जात इति
+> मन्ये यतोऽयं वृत्रादीन्हतवानिति । अथवायं मन्योः क्रोधादियाय ।
+> उदितवान् । अतो हर्म्येषु शत्रुसंबंधिषु युद्धेषु हर्मैष्टेव वा तस्थौ ।
+> तिष्ठति । यतोऽयं प्रजज्ञ उत्पन्न इतींद्र एवास्य । स्वस्येत्यर्थः । सामर्थ्यं वेद ।
+> जानाति । न ह्यन्यो ज्ञातुमिष्टे ॥
+
+##### Gist of the bhāṣya
+
+Seeing Indra's might, some say that he rose (इयाय (*iyāya*)) from the horse (अश्वात् (*aśvāt*)), that is, from the sun. Even so, I consider (मन्ये (*manye*)), I know, that he was born of strength (ओजसः (*ojasaḥ*)). Seeing his brilliance, their opinion is that he arose from the sun; but I think that he was born of the very substance called strength, because he slew Vṛtra and others. Or else he arose from anger (मन्योः (*manyoḥ*)). Therefore he stands (तस्थौ (*tasthau*)) in the houses (हर्म्येषु (*harmyeṣu*)) of the enemies, that is, in battles connected with enemies, or as it were in palaces. Because he was born (प्रजज्ञे (*prajajñe*)), Indra alone knows (वेद (*veda*)) his own might; for no other is able to know it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वात् (*aśvāt*)—from the sun
+- इयाय इति (*iyāya iti*)—that this Indra has become manifest
+- वदंति यदुत (*vadaṃti yaduta*)—even if they say so
+- एनं (*enaṃ*)—this Indra
+- ओजसः (*ojasaḥ*)—from strength
+- जातं (*jātaṃ*)—as one who has been produced
+- मन्ये (*manye*)—I understand
+- अयं (*ayaṃ*)—this Indra
+- मन्योः (*manyoḥ*)—from anger
+- इयाय (*iyāya*)—has been produced
+- हर्म्येषु (*harmyeṣu*)—in the houses and the like connected with enemies
+- तस्थौ (*tasthau*)—stands
+- इंद्रः (*iṃdraḥ*)—Indra alone
+- यतः प्रजज्ञॆ (*yataḥ prajajñè*)—from where he was produced
+- अस्य (*asya*)—his own greatness
+- वेद (*veda*)—knows
+
+##### भावार्थ (Bhāvārtha)
+
+Although people say that this Indra has been produced from the sun, I understand only that he is produced from strength. He is produced from anger, and he stands in the houses of the enemies. Whence he came is known to him alone. No one else can know his greatness.
+
+### Printed p. 72
+
+##### English translation
+Although (some) say he came from the horse (the sun), I know that he is the offspring of strength ; he came from wrath, he stands in the homes (of his enemies) : Indra knows whence he was born.
+
+##### विशेषविषयगळु (Special Topics)
+
+Regarding the words ओजसो जातं (*ojaso jātaṃ*) in this Ṛk, Yāska has stated the Nirukta in this way.
+यथो एतदोजसो जातमुतमन्य एनमिति चाहेत्ययमप्यग्निरोजसा बलेन मध्यमानो जायते तस्मादेनमाह सहसस्पुत्रं सहसः सूनुं सहसो यहुं ॥ (*yatho etadojaso jātamutamanya enamiti cāhetyayamapyagnirojasā balena madhyamāno jāyate tasmādenamāha sahasasputraṃ sahasaḥ sūnuṃ sahaso yahuṃ ‖*) (Ni. 4-7)
+Although in the present Ṛk the epithets beginning with ओजसो जातं (*ojaso jātaṃ*) are applied to Indra, in general the epithet-words ओजसा जातं (*ojasā jātaṃ*), सहसस्पुत्रं (*sahasasputraṃ*), सहसः सूनुं (*sahasaḥ sūnuṃ*), सहसो यहुं (*sahaso yahuṃ*) are used in particular with reference to Agni. The word ओजः (*ojaḥ*) means strength. When Agni is said to be born of strength: when the priests produce Agni by churning in the fire-sticks, they have to use a great deal of their strength or force in churning. Because he is produced by churning with the exertion of force in this way, it has become the custom to call Agni ओजसो जातं (*ojaso jātaṃ*), born of strength; सहसः पुत्रं (*sahasaḥ putraṃ*), the son of strength; सहसः सूनुं (*sahasaḥ sūnuṃ*), सहसो यहुं (*sahaso yahuṃ*), the son of strength. To give an example, the present Ṛk itself may be called a mantra in which the words ओजसो जातं (*ojaso jātaṃ*) are used. Likewise, the Ṛk
+द्र्वन्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः । (*drvannaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ | sahasasputro adbhutaḥ |*) (Ṛ. Saṃ. 2-7-6)
+for the use of the words सहसस्पुत्र (*sahasasputra*), and the Ṛk
+त्वं ह यद्यविष्ठ्य सहसः सूननाहुतः । ऋतावा यज्ञियो भुवः ॥ (*tvaṃ ha yadyaviṣṭhya sahasaḥ sūnanāhutaḥ | ṛtāvā yajñiyo bhuvaḥ ‖*) (Ṛ. Saṃ. 8-75-3)
+
+### Printed p. 73
+for the use of the words सहसः सूनुः (*sahasaḥ sūnuḥ*), and the Ṛk
+अग्ने वाजस्य गोमत ईशानः सहसो यहो । अस्मे धेहि जातवेदो महिश्रवः ॥ (*agne vājasya gomata īśānaḥ sahaso yaho | asme dhehi jātavedo mahiśravaḥ ‖*) (Ṛ. Saṃ. 1-79-4)
+for the use of the words सहसो यहुः (*sahaso yahuḥ*), may be given as examples.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वयः॑ सुप॒र्णा उप॑ सेदु॒रिंद्रं॑ प्रि॒यमे॑धा॒ ऋष॑यो॒ नाथ॑मानाः ।  
+> अप॑ ध्वां॒तमू॑र्णु॒हि पू॒र्धि चक्षु॑र्मुमु॒ग्ध्य१॒॑स्मान्नि॒धये॑व  ॒
+> बद्धान् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयः । सुपर्णाः । उप । सेदुः । इंद्रं । प्रियमेधाः । ऋषयः । नाधमानाः ।  
+> अप । ध्वांतं । ऊर्णुहि । पूर्धि । चक्षुः । मुमुग्नि । अस्मान् । निधयाइव ।  
+> बद्धान् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयो गंतारः सुपर्णाः सुपतना आदित्यरश्मय इंद्रमुप सेदुः । उपसन्ना
+> आभवन् । कीदृशाः । प्रियमेधाः प्रिययज्ञा ऋषयो द्रष्टारो नाधमानाः
+> प्रज्ञां याचमानाः । याचनप्रकार उच्यते । हे इंद्र ध्वांतमंधकारमपोर्णुहि । परिहर । पूर्धि पूरय च चक्षुस्तेजः । मुमुग्नि मोचय चास्कान् निधयेव बद्धान् । निधा पाश्या भवति । पाश्या पाशसमूहः । पाशसमूहेन बद्धान्यथा
+> मुंचंति तद्वत् । अत्र वयो वेर्बहुवचनमित्यादि निरुक्तं द्रष्टव्यं । नि. ४-३ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+The rays of the sun, which are goers (वयः (*vayaḥ*)) and good fliers (सुपर्णाः (*suparṇāḥ*)), that is, of good flight, approached Indra. What kind of rays? Those fond of the sacrifice (प्रियमेधाः (*priyamedhāḥ*)), seers (ऋषयः (*ṛṣayaḥ*)), who beg (नाधमानाः (*nādhamānāḥ*)) for wisdom. The manner of begging is now stated: "O Indra, remove the darkness, fill (पूर्धि (*pūrdhi*)) the eye with light, and release (मुमुग्नि (*mumugni*)) us, as if bound (निधयेव बद्धान् (*nidhayeva baddhān*))." A snare-mass (निधा (*nidhā*)) is पाश्या (*pāśyā*), a mass of snares; as people release those bound with a mass of snares, so here. Here the Nirukta beginning with the statement that वयः (*vayaḥ*) is the plural of वि (*vi*) is to be seen (Ni. 4-3).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रियमेधाः (*priyamedhāḥ*)—fond of the sacrifice
+- ऋषयः (*ṛṣayaḥ*)—possessed of supersensory knowledge
+- नाधमानाः (*nādhamānāḥ*)—able to obtain wisdom
+- वयः (*vayaḥ*)—moving
+- सुपर्णा (*suparṇā*)—possessed of excellent extension: the rays of the sun
+- इंद्रं (*iṃdraṃ*)—Indra
+- उपसेदुः (*upaseduḥ*)—have approached and become united (O Indra)
+- ध्वांतं (*dhvāṃtaṃ*)—the darkness
+- अप ऊर्णुहि (*apa ūrṇuhi*)—drive far away
+- चक्षुः (*cakṣuḥ*)—the brilliance
+- पूर्धि (*pūrdhi*)—fill
+- निधयेव बद्धान् (*nidhayeva baddhān*)—us, who are as if bound with a snare
+- मुमुग्गि (*mumuggi*)—release
+
+### Printed p. 74
+
+##### भावार्थ (Bhāvārtha)
+
+The rays of the sun, fond of the sacrifice, possessed of supersensory knowledge, able to obtain wisdom, moving, and of excellent extension, have approached Indra and become united with him. O Indra, drive the darkness far away. Fill us with brilliance. Release us, who are as if bound with a snare.
+
+##### English translation
+The swift-moving well-flying (rays of the sun), loving sacrifices, discerning (the future), disserving knowledge, invested Indra ; dissipate the darkness, fill out the light; release us like men bound with a net.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has stated the Nirukta for this Ṛk thus:
+वयो वेर्बहुवचनं । सुपर्णः सुपतना आदित्यरश्मिय उपसेदुरिंद्रं याचमानाः । अपोर्णुह्याध्वस्तं चक्षुः । चक्षुः ख्यातेर्वा चष्टेर्वा । पूर्धि पूरय देहीति वा । मुंचास्मान् पाशैरिव बद्धान् ॥ (*vayo verbahuvacanaṃ | suparṇaḥ supatanā ādityaraśmiya upaseduriṃdraṃ yācamānāḥ | aporṇuhyādhvastaṃ cakṣuḥ | cakṣuḥ khyātervā caṣṭervā | pūrdhi pūraya dehīti vā | muṃcāsmān pāśairiva baddhān ‖*)
+The word वयः (*vayaḥ*) is the plural of the word वि (*vi*) (bird). सुपर्णः (*suparṇaḥ*), in the case of birds, means having beautiful wings. But since here this word is used with reference to the sun, the word means the beautiful or beneficial rays of the sun. Since the root वि (*vi*) has the sense of motion, the meaning of the word वयः (*vayaḥ*) is: having extension, that is, the rays of the sun that are coming towards us from the sun. Such beautiful rays of the sun approach Indra, praying to him. Drive far away the darkness that has spread all round. Fill the eyes with light, that is, grant to the eyes the power of seeing. As if bound with snares, that is, release us, who are without freedom, from our bonds: this is the main purport of the Nirukta.
+The seventy-fourth sūkta.
+## Sūkta 74 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसूनामिति षडृचं षष्ठं सूक्तं । ऋष्याद्याः पूर्ववत् । वसूनां षळित्यनुक्रांतं ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning वसूनां (*vasūnāṃ*) has six Ṛks and is the sixth sūkta. The seer and the rest are as before. So it is recorded in the Anukramaṇī: वसूनां षळित्यनुक्रांतं (*vasūnāṃ ṣaḷityanukrāṃtaṃ*). The use in the ritual has been stated (गतो विनियोगः (*gato viniyogaḥ*)).
+
+### Printed p. 75
+Anuvāda: This sūkta beginning वसूनां (*vasūnāṃ*) is the sixth sūkta in the sixth Anuvāka. It has six Ṛks. The seer, deity and metre of this sūkta are the same as in the previous sūkta. In the Anukramaṇī it is said वसूनां षट् (*vasūnāṃ ṣaṭ*). The use in the ritual has been stated before.
+
+Sūkta 74.
+Maṇḍala 10; Anuvāka 6; Sūkta 74.
+Aṣṭaka 8; Adhyāya 3; Varga 5.
+Number of Ṛks in the sūkta: 6.
+Seer: गौरिवीतिः (*gaurivītiḥ*).
+Deity: इंद्रः (*iṃdraḥ*).
+Metre: त्रिष्टुप् (*triṣṭup*).
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वसू॑नां वा चर्कृष॒ इय॑क्षन्थि॒या वा॑ य॒ज्ञैर्वा॒ रोद॑स्योः।  
+> अर्व॑तो वा॒ ये र॑यि॒मंतः॑ सा॒त् व॒नुं वा॒ ये सु॒श्रुणं॑  
+> सु॒श्रुतो॒ धुः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वसूनां । वा । चर्कृषे । इयक्षन् । धिया । वा । यज्ञैः । वा । रोदस्योः ।  
+> अर्वंतः । वा । ये । रयिमंतः । सात् । वनुं । वा । ये । सुश्रुणं । सुश्रुतः ।  
+> धुरिति धुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयक्षन् धनानि दातुमिच्छन्निंद्रो वसूनां धनानां लाभाय वा चर्कृषे ।
+> अपकृष्यते । धिया वा । धीः कर्म धार्यमाणत्वात् । युद्धादिकर्मणा वा
+> निमित्तेनाकृष्यते । यज्ञैर्वा निमित्तभूतैः कृष्यते । कैरिति उच्यते । रोदस्योर्द्यावापृथिव्योः संबंधिभिर्देवैर्मनुश्यैश्चत्यर्थः । सात् संग्रामे जेतव्ये सति
+> येर्वंतो ना गच्छंतो रयिमंतो भवंति तैरप्याकृष्यते । ये वनुं वा
+> हिंसां वा सुश्रुणं सुप्रसिद्धामत्यंतदुर्जयविषयां सुश्रुतः सुश्रवसः प्रसिद्धाः
+> कुर्वंति तैरपींद्र आकृष्यत इति ॥
+
+##### Gist of the bhāṣya
+
+Indra, wishing to give wealth (इयक्षन् (*iyakṣan*), glossed धनानि दातुमिच्छन् (*dhanāni dātumicchan*)), is drawn (चर्कृषे (*carkṛṣe*), glossed अपकृष्यते (*apakṛṣyate*)) for the gaining of riches (वसूनां (*vasūnāṃ*)). Or he is drawn by धिया (*dhiyā*); धीः (*dhīḥ*) is action, because it is borne; he is drawn by a cause such as the action of battle. Or he is drawn by sacrifices as the cause. By whom? By the gods and men connected with the two worlds (रोदस्योः (*rodasyoḥ*), heaven and earth). When a battle (सात् (*sāt*)) is to be won, he is drawn also by those who, going swiftly (अर्वंतः (*arvaṃtaḥ*)), become possessed of wealth (रयिमंतः (*rayimaṃtaḥ*)). And Indra is drawn also by those who make violence (वनुं (*vanuṃ*)) well known (सुश्रुणं (*suśruṇaṃ*)), exceedingly hard to overcome, being themselves renowned (सुश्रुतः (*suśrutaḥ*)). **NOTE**
+
+### Printed p. 76
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इयक्षन् (*iyakṣan*)—Indra, who wishes to give wealth
+- धिया वा (*dhiyā vā*)—also on account of an action
+- यज्ञैर्वा (*yajñairvā*)—or on account of a sacrifice
+- रोदस्योः (*rodasyoḥ*)—by all the gods and men belonging to both heaven and earth
+- वसूनां (*vasūnāṃ*)—for the gaining of wealth
+- चर्कृषे (*carkṛṣe*)—is attracted
+- सातौ (*sātau*)—in battle
+- ये (*ye*)—who
+- आर्वंतः (*ārvaṃtaḥ*)—moving about
+- रयिमंतः (*rayimaṃtaḥ*)—are possessed of wealth, by them also
+- ये (*ye*)—who
+- सुश्रुतः (*suśrutaḥ*)—being renowned
+- सुश्रुणं (*suśruṇaṃ*)—victorious
+- वनुं वा (*vanuṃ vā*)—cause violence, by them also he is attracted
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who wishes to give wealth, is attracted, for the gaining of wealth, by all the gods and men belonging to both heaven and earth, on account of an action or on account of a sacrifice. He is attracted by all those who, moving about in battle, are possessed of wealth, and who, being victorious, cause violence to their enemies.
+
+##### English translation
+Indra desiring to bestow (wealth) is attracted by the inhabitants of heaven and earth (for the acquisitiou) of riches, either by pious acts or by sacrifices; (he is attracted) either by those swift-moving (persons) who acquire wealth in battle or by those who being successful (inflict) successful iujury.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हव॑ एषा॒मसु॑रो नक्षत॒ द्यां श्र॑वस्य॒ता मन॑सा निंसत॒ क्षां ।  
+> चक्षा॑णा॒ यत्र॑ सुवि॒ताय॑ दे॒वा द्यौर्न वारे॑भिः कृ॒णवं॑त॒ स्वैः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हवः । एषां । असुरः । नक्षत । द्यां । श्रवस्यता । मनसा । निंसत । क्षां ।  
+> चक्षाणाः । यत्र । सुविताय । देवाः । द्यौः । न । वारेभिः । कृणवंत । स्वैः ॥ २॥
+
 ---
 
-**Progress note:** Done through printed p. 69. Mandala 10, Sukta 73, Rks 6-9 (pp. 64-69)
+**Progress note:** Done through printed p. 76. Mandala 10, Sukta 73 Rks 9-11, Sukta 74 Rks 1-2 start (pp. 70-76)
