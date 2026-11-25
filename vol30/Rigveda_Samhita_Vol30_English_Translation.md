@@ -31865,6 +31865,180 @@ The matter of the Aśvin deities saving Bhujyu from the middle of the sea we hav
 
 > आ वां॑ सु॒मैः शं॒यू इ॑व॒ मंहि॑ष्ठा॒ विश्व॑वेदसा ।
 
+### Printed p. 953
+
+> समस्मै भूषतं नरोत्सं न पिप्युषीरिषः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वां । सुम्मैः । शंयूऽइवेति शंयूऽइव । मंहिष्ठा । विश्ववेदसा ।  
+> सं । अस्मे इति । भूषतं । नरा । उत्सॆं । न । पिप्युषीः । इषः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्ववेदसा सर्वज्ञौ सर्वधन् वा हे नरा नेतारौ वां युवां शंयू
+> इव सुखयुक्तौ राजानाविव मुंहिष्ठा दातृतमावतिशयेन पूज्यौ ना संतौ सुम्मैरस्मभ्यं दातवैः सुखैः सार्धमा । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । आगच्छतं।
+> यद्वा । उपसर्गस्य भूषतमित्यनेन संबंधः । मुंहिष्ठेत्यपि संबोधनं । हे
+> मुंहिष्ठा दातृतमावुक्तगुणावश्विन् वां युवां सुम्मैः सार्ध० शंयू इवास्मे
+> अस्मान् सम्यगा भूषतं । अभिप्राप्णुतं ॥ भू प्राप्तौ । अस्माल्लोटि व्यत्ययेन
+> सिप्युषौ ॥ भूष अलंकारे ॥ आ समंतात्सम्यग्भूषतं । अलंकुरुतं ! पिप्युषीः प्रवृद्धानीष इष्यमाणानि पयांस्युत्सं न । गोरूध इव । यथा बहुभिः पयोभिरूधोऽलंकृतं सद्दृश्यते अस्मानप्येवं बहुभिर्धनैरलंकुरुतमित्यर्थः ॥ पिप्युषीरिति
+> प्यायतेर्लिटः क्वसुः । लिड्यजोश्चेति पीभावः । जसि वा छंदसीति पूर्वसवर्णदीर्घः॥
+> यद्वा ! उत्सः प्रवाहो यथा पिप्युषीर्वृद्धानीषोऽन्नान्यलंकरोति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O all-knowing (or all-wealthy) leaders (नरा (*narā*)), you two, like kings endowed with happiness, are most generous (मंहिष्ठा (*maṃhiṣṭhā*)), exceedingly worthy of honour. Come with the comforts that are to be given to us. The prefix आ (*ā*) requires a suitable verb to be supplied, आगच्छतं (*āgacchataṃ*) ("come"). Or else the prefix is construed with भूषतं (*bhūṣataṃ*), and मंहिष्ठा (*maṃhiṣṭhā*) is again a vocative: O most generous Aśvins of the stated qualities, along with your comforts, like the two kings of happiness, come to us on all sides, reach us (root भू (*bhū*) in the sense of obtaining; the Lot form arises by irregularity). Or, from the root भूष (*bhūṣa*) in the sense of adorning: adorn us. "Abundant, desired milk" (पिप्युषीः (*pipyuṣīḥ*) = swollen, इषः (*iṣaḥ*) = desired milks) is like a spring (उत्सं न (*utsaṃ na*)), like a cow's udder: as an udder is seen adorned with much milk, so adorn us too with much wealth. Or else: as a stream (उत्सः (*utsaḥ*)) adorns with abundant swollen foods, so you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्ववेदसा (*viśvavedasā*)—you who are all-knowing, or endowed with all wealth
+- नरा (*narā*)—leaders of the rite
+- शंयू इव (*śaṃyū iva*)—like kings endowed with happiness
+- मंहिष्ठा (*maṃhiṣṭhā*)—worthy of honour, or most generous; O Aśvin deities
+- वां (*vāṃ*)—you
+- पिप्युषीः (*pipyuṣīḥ*)—abundant
+- इषः (*iṣaḥ*)—milks
+- उत्संन (*utsaṃna*)—as they adorn a cow's udder
+- सुम्मैः (*summaiḥ*)—with the comforts and riches to be given to us
+- अस्मान् (*asmān*)—us
+- आ भूषतं (*ā bhūṣataṃ*)—adorn; that is, come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, all-knowing or possessed of all wealth, leaders of the rite, worthy of honour like kings endowed with happiness, or most generous: as an udder is filled with abundant milk and adorned, so adorn us also with many kinds of comforts and riches; that is, graciously come to us in order to give us comforts and riches.
+
+### Printed p. 954
+
+##### English translation
+Prosperous, most adorable, all-knowing, come to us and decorate us with blessings, as a (cow's) udder is adorned with abundant food.
+
+## Sūkta 144 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+Introduction. The seer of this sūkta is said to be Suparṇa, son of Tārkṣya. For sūkta 128 of this same maṇḍala Tārkṣya is said to be the deity, and his son named Ariṣṭanemi the seer of that sūkta. Therefore a detailed account of Tārkṣya, Suparṇa and Ariṣṭanemi is necessary here.
+Yāska in his Nirukta explains the derivation of the word Tārkṣya thus: तार्क्ष्यस्त्वष्टा व्याख्यातः । तीर्णे अंतरिक्षे क्षियति । तूर्णमर्थं रक्षति, अश्नो तेर्वा ॥ (*tārkṣyastvaṣṭā vyākhyātaḥ | tīrṇe aṃtarikṣe kṣiyati | tūrṇamarthaṃ rakṣati, aśno tervā ‖*) (Ni. 10-27).
+The word Tārkṣya has been explained earlier, that is, when the word Tvaṣṭā was explained: त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्दीप्तिकर्मणस्त्वक्षतेर्वा स्यात् करोटिकर्मणः (*tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervā syāddīptikarmaṇastvakṣatervā syāt karoṭikarmaṇaḥ*) (Ni. 8-14). The explanation of the word Tvaṣṭā applies to the word Tārkṣya. The Nairuktas say that the name Tvaṣṭā exists because he pervades quickly; or the word Tvaṣṭā may be derived from the word त्वषि (*tvaṣi*), meaning "shine", or from the root त्वक्षति (*tvakṣati*), meaning "make".
+The meaning of the word Tārkṣya is similar. Because the deity called Tārkṣya dwells in the vast atmosphere, he is called Tārkṣya; or the name has come because he protects water in the atmosphere, or because he pervades the atmosphere. In the Bṛhaddevatā: स्त्रीर्णेऽन्तरिक्षे क्षियति यद्वा तूर्णं क्षरत्यस् । अरिस्ट्पनेमिस्तार्क्ष्यर्षिस्तार्क्ष्यं तेनैवमुक्तवान् ॥ (*strīrṇe 'ntarikṣe kṣiyati yadvā tūrṇaṃ kṣaratyas | arisṭpanemistārkṣyarṣistārkṣyaṃ tenaivamuktavān ‖*) (Bṛ. De. 2-58).
+
+### Printed p. 955
+The seer named Ariṣṭanemi Tārkṣya has said that this deity has the name Tārkṣya because he dwells in the vast region of the atmosphere, or moves swiftly, or sprinkles water. Moreover it may be noted that the words सुपर्ण (*suparṇa*), तार्क्ष्य (*tārkṣya*), दधिक्राः (*dadhikrāḥ*) are read among the names of the horse (Ni. 2-22).
+Explanation of the word Suparṇa. The word सुपर्ण (*suparṇa*) is read both among the names of rays (Ni. 2-15) and among the names of the horse (Ni.2-27) **NOTE**. And सुपर्णः सुपतना आदित्यरश्मयः (*suparṇaḥ supatanā ādityaraśmayaḥ*) (Ni. 4-3) and (Ni. 3-12): it is explained as the rays of the sun, which pervade quickly.
+Explanation of the word Ariṣṭanemi. रथचक्रस्य धारा नेमिः । अरिष्टो ऽ हिंसतो नेमिर्यस्य । यत्संबंधिनो रथस्य नेमिर्न हिंस्यते सो ऽरिष्टनेमिः ॥ (*rathacakrasya dhārā nemiḥ | ariṣṭo ' hiṃsato nemiryasya | yatsaṃbaṃdhino rathasya nemirna hiṃsyate so 'riṣṭanemiḥ ‖*). Nemi means the chariot wheel. Ariṣṭanemi means one whose chariot wheels are unharmed, that is, unobstructed, of irresistible motion; this is the meaning. Skandasvāmin has explained the word nemi as the thunderbolt weapon. Ariṣṭanemi is the name of a seer, a son of Tṛkṣa. This seer, under the name Ariṣṭanemi Tārkṣya, is the seer of sūkta 178 of the 18th maṇḍala **NOTE**. Since the seer of the present sūkta is said to be Suparṇa Tārkṣya, it may be said that Suparṇa and Ariṣṭanemi are both sons of Tṛkṣa.
+Tārkṣya means the son of Tṛkṣa. The commentator has given the meaning Garutmān, Garuḍa. This word indicates Āditya himself. Some say that Tṛkṣa means Kaśyapa; since Āditya is his son, Āditya himself is called Tārkṣya. Some hold that Tārkṣya is the horse of the world of the gods (दधिक्राः (*dadhikrāḥ*)), and that the sun himself is praised in this form. Others say he is the son of Tṛkṣi, a descendant of Trasadasyu. In the Khila mantras (2-4-1) and in the Āśvalāyana Śrauta Sūtra (Ā. 10-7) the meaning "the best of birds", "a particular bird", is indicated for the word Tārkṣya. The meaning of this word remains doubtful. For Ṛ. Saṃ. 10-178 Tārkṣya himself is the deity.
+On the word Suparṇa, we may see the explanation we wrote earlier in Ṛ. Saṃ. Part 12, p. 421, and on the deity Tārkṣya the explanation in Ṛ. Saṃ. Part 5, p. 681.
+
+### Printed p. 956
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं हीति षडृचं षोडशं सूक्तं तार्क्ष्यपुत्रस्य सुपर्णस्यार्षं यमगोत्रस्योर्ध्वकृशनस्य वा ! आद्या गायत्रि द्वितीया बृहती तृतीयाचतुर्थ्यौ
+> गायत्र्यौ पंचमी सतोबृहती षष्ठि विष्टारपंक्तिरष्टकद्विर्द्वादशाष्टकवती ।
+> अनादेशपरिभाषयेंद्रो देवता । तथा चानुक्रांतं । अयं हि तार्क्ष्यपुत्रः
+> सुपर्णो यामायनो वोर्क्ष्यकृशनो गायत्रि बृहती गायत्र्यौ सतोबृहती
+> विष्टारपंक्तिरिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अयं हि (*ayaṃ hi*) has six Ṛks and is the sixteenth sūkta. Its seer is Suparṇa, son of Tārkṣya, of the Yama lineage, or Ūrdhvakṛśana. The first Ṛk is Gāyatrī, the second Bṛhatī, the third and fourth Gāyatrī, the fifth Satobṛhatī, the sixth Viṣṭārapaṅkti, having eight, twelve, twelve and eight syllables. The deity is Indra, by the rule that applies where none is stated. He quotes the Anukramaṇī to this effect: अयं हि तार्क्ष्यपुत्रः सुपर्णो यामायनो वोर्क्ष्यकृशनो गायत्रि बृहती गायत्र्यौ सतोबृहती विष्टारपंक्तिरिति ॥ (*ayaṃ hi tārkṣyaputraḥ suparṇo yāmāyano vorkṣyakṛśano gāyatri bṛhatī gāyatryau satobṛhatī viṣṭārapaṃktiriti ‖*). The viniyoga has been given.
+
+##### Anuvāda
+
+This sūkta beginning अयं हि (*ayaṃ hi*) is the sixteenth sūkta in the eleventh anuvāka. It has six Ṛks. The seer of this sūkta is Suparṇa, son of Tārkṣya, or Ūrdhvakṛśana of the Yama lineage. Since the Anukramaṇī does not name the deity, Indra can be said to be the deity of this sūkta. The first, third and fourth Ṛks of this sūkta are in the Gāyatrī metre; the second Ṛk is in Bṛhatī; the fifth in Satobṛhatī; the sixth in the metre called Viṣṭārapaṅkti. A Ṛk of this metre has four pādas, of which the first and last have eight syllables each and the second and third twelve syllables each. In the Anukramaṇī it is said: अयं हि तार्क्ष्यपुत्रः सुपर्णो यामायनो वोर्थ्वकृशानो गायत्रि बृहती गायत्र्या सतोबृहती विष्टारपंक्तिः (*ayaṃ hi tārkṣyaputraḥ suparṇo yāmāyano vorthvakṛśāno gāyatri bṛhatī gāyatryā satobṛhatī viṣṭārapaṃktiḥ*). The viniyoga has been stated earlier.
+Sūkta 144. Maṇḍala 10; Anuvāka 11; Sūkta 144. Aṣṭaka 8; Adhyāya 8; Varga 2. Number of Ṛks in the sūkta: 6. Seer: Suparṇa, son of Tārkṣya, or Ūrdhvakṛśāna, of the Yāmāyana line. Deity: Indra. Metre: 1, 3, 4 Gāyatrī; 2 Bṛhatī; 5 Satobṛhatī; 6 Viṣṭārapaṅkti.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं हि ते॒ अम॑र्त्य॒ इंदु॒रत्यो॒ न पत्य॑ते ।  
+> दक्षो॑ वि॒श्वायु॑र्वे॒धसे॑ ॥ १ ॥
+
+### Printed p. 957
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । हि । ते । अमत्यर्त्यः । इंदुः । अत्यः । न । पत्यते ।  
+> दक्षः । विश्वआयुः । वेधसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वेधसे विधात्रे ते तुभ्यं त्वदर्थममर्त्यो मरणरहितोऽमृतत्वप्रापकोऽयं ह्ययं खल्विंदुः सोमोऽत्यो न सततगाम्यश्व इव पत्यते । गच्छति ।
+> यद्वा। पत्यतिरैश्वर्यकर्मा । तव स्वभूतोऽयं सोमो वेधसे विधानाय मदस्य
+> करणायेष्टे । कीदृश इंदुः । दक्षः प्रवृद्धो बलहेतुर्वा विश्वायुर्विश्वैः सर्वैरेतव्यः प्राप्तव्यः । यद्वा । विश्वेषामायुर्जीवनहेतुः । अथवा । आयुरित्यन्ननाम ।
+> सर्वैश्चरुपुरोडाशादिभिरन्नॆर्हविर्भिरुपेतः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for you, the creator (वेधसे (*vedhase*)), this Soma (इंदुः (*iṃduḥ*)), immortal, conferring immortality, goes (पत्यते (*patyate*)) like a swift horse that runs continually. Or else: पत्यति (*patyati*) is a root meaning lordship; this Soma, your own, is desired for the creation (विधानाय (*vidhānāya*)), for the making of intoxication. What kind of Soma? दक्षः (*dakṣaḥ*): grown strong, or the cause of strength; विश्वायुः (*viśvāyuḥ*): to be approached by all; or, the cause of life for all; or else आयुः (*āyuḥ*) is a name for food, so: provided with all oblations of food, such as cooked cakes and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) अमूर्त्यः (*amūrtyaḥ*)—deathless, and one who bestows the state called immortality
+- दक्षः (*dakṣaḥ*)—giver of strength
+- विश्वायुः (*viśvāyuḥ*)—desired by all, or the giver of food that is the cause of life for all
+- इंदुः (*iṃduḥ*)—Soma
+- ते (*te*)—for you
+- वेधसे (*vedhase*)—to the creator of the world
+- अत्यः न (*atyaḥ na*)—like a swiftly moving horse
+- पत्यते (*patyate*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, Soma, deathless, bestower of immortality on others, giver of nourishment, desired by all or the giver of food that is the cause of life for all, goes for you to Prajāpati, the creator of the world, like a swiftly moving horse.
+
+##### English translation
+This immortal Soma, the giver of strength, the giver of long life to all, hastens like a swift horse to you (Indra), the creator.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यम॒स्मासु॒ काव्य॑ ऋ॒भुर्वज्रो॒ दास्व॑ते ।  
+> अ॒यं बि॑भत्र्मू॒र्ध्वकृ॑शनं॒ मद॑मृ॒भुर्न कृत्व्यं॒ मदं॑ ॥ २ ॥
+
+### Printed p. 958
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । अस्मासु । काव्यः । ऋभुः । वज्रः । दास्वते ।  
+> अयं । बिभर्ति । ऊर्ध्वकृशनं । मदं । ऋभुः । न । कृत्त्वं । मदं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मासु स्तोतृषु काव्यः स्तुत्योऽयमिंद्रः ऋभुर्दिप्तः सन्दास्वते दानयुक्ताय यजमानाय वज्रः शत्रूणां वर्जको भवति । यद्वा । दास्वत इति
+
+##### Gist of the bhāṣya
+
+Among us the praisers, this Indra, worthy of praise (काव्यः (*kāvyaḥ*)), shining (ऋभुः (*ṛbhuḥ*)), becomes the thunderbolt (वज्रः (*vajraḥ*)), the destroyer of enemies, for the sacrificer who gives (दास्वते (*dāsvate*)). Or else, as to दास्वते (*dāsvate*), the sentence continues in the next block.
+
+> षष्ठ्यर्थे चतुर्थी । अस्मासु दास्वते दानवत इंद्रस्य वज्रः कुलिश ऋभुरुरु
+> भासमानो भवति । अपि चायमूर्ध्वकृसनमुद्धततैक्ष्ममेतत्संज्ञं वा यामायनमृषिं मदं स्तोतारं बिभर्ति । पोषयति । तथर्भुर्न सौधन्वनः । पुत्राणामाद्य
+> ऋभुः । स इव कृत्वं कर्मणां कर्तारं अत एव मदं मोदयि:कारं यजमानं
+> बिभर्ति ॥
+
+##### Gist of the bhāṣya
+
+Or else दास्वते (*dāsvate*) is a dative used in the sense of the genitive: among us, of the generous Indra, the thunderbolt (कुलिश (*kuliśa*)) becomes greatly shining. Moreover this Indra bears, that is, nourishes, the seer called Ūrdhvakṛśana, of exalted sharpness, or of that name, of the Yāmāyana line, the praiser (मदं (*madaṃ*)). Like Ṛbhu, son of Sudhanvan, who is the first of the sons, he bears the sacrificer, the doer of rites (कृत्वं (*kṛtvaṃ*)), and therefore the one who gives delight (मदं (*madaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मासु (*asmāsu*)—among us who praise
+- अयं (*ayaṃ*)—this Indra
+- काव्यः (*kāvyaḥ*)—worthy of praise
+- दास्वते (*dāsvate*)—of Indra, the giver of what is wished
+- वज्रः (*vajraḥ*)—the thunderbolt
+- ऋभुः (*ṛbhuḥ*)—shines brightly; [or: अस्मासु (*asmāsu*)—among the praisers; काव्यः (*kāvyaḥ*)—praised; अयं (*ayaṃ*)—this Indra; ऋभुः (*ṛbhuḥ*)—shining brightly; दास्वते (*dāsvate*)—for the sacrificer who offers oblation; वज्रः (*vajraḥ*)—becomes a destroyer of enemies like the thunderbolt]
+- अयं (*ayaṃ*)—this Indra
+- मदं (*madaṃ*)—the praiser
+- ऊर्ध्वकृशनं (*ūrdhvakṛśanaṃ*)—the seer named Ūrdhvakṛśana, son of Yama (me)
+- बिभर्ति (*bibharti*)—bears and nourishes (and)
+- ऋभुः न (*ṛbhuḥ na*)—like Ṛbhu, son of Sudhanvan
+- कृत्वं (*kṛtvaṃ*)—the performer of rites (therefore)
+- मदं (*madaṃ*)—he nourishes the sacrificer who gives you delight
+
+##### भावार्थ (Bhāvārtha)
+
+Among us who praise, this Indra is worthy of praise. The thunderbolt of this Indra shines brightly. Or else this Indra, praised and shining brightly among the praisers, becomes for the sacrificer who offers oblation a destroyer of enemies like the thunderbolt. This Indra bears and nourishes the seer called Ūrdhvakṛśana, the praiser, son of Yama, and also the sacrificer who, like Ṛbhu, son of Sudhanvan, gives delight to Indra by performing rites.
+
 ---
 
-**Progress note:** Done through printed p. 952. pp. 947-952 (batch API)
+**Progress note:** Done through printed p. 958. pp. 953-958 (batch API)
