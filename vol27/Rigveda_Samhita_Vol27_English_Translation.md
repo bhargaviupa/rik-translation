@@ -25575,6 +25575,255 @@ None resist me (engaged) in combat, not even the mountains when I am resolved : 
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
+### Printed p. 722
+
+> अत्रास्मिङ्गति शृतपाङ्गतानि पक्वानि सोमादिहवींष्यपहृत्य पिबतोऽनिंद्रानिंद्रेण मया वर्जितान् बाहुक्षदो बाहुभिर्यजमानाङ्कलीकुर्वतः शरवे
+> हिंसार्थं पत्यमानानभिपततोऽसुरादीन्नु क्षिप्रं दर्शन् । अहमिंद्रः पश्यामि । एवं
+> तेष्वेष्वध्युपरि पवयो मदीयान्यायुधानि ववृत्युः । वर्तंते । वाशब्दः समुच्चये । घृषुं महांतं च सखायं सखिवत्रियं हितस्य कर्तारं मां ये निनिदुः निंदंति । उ इति समुच्चये । एषु चोपरि मदीयान्यायुधानि क्षिप्रं वर्तंते ॥
+
+##### Gist of the bhāṣya
+
+Here Indra says that he quickly sees the Asuras and others who are on this earth. They carry off the cooked soma and other oblations and drink them. They are "without Indra," that is, abandoned by Indra, which is to say by himself. They are बाहुक्षदः (*bāhukṣadaḥ*), those who with their arms cut down the sacrificers, and they fall upon the sacrificers to harm them. "I, Indra, see them." So too, upon these men my weapons fall, that is, they come down. The word वा (*vā*) is used in the sense of "and." Those who revile me, the great one and the friend of the sacrificer, the doer of what is good for him, upon them too my weapons quickly fall. The word उ (*u*) also has the sense of "and."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्र (*atra*)—in this world
+- शृतपान् (*śṛtapān*)—those who carry off the cooked oblations and drink them
+- अनिंद्रान् (*aniṃdrān*)—those who are not worshippers of Indra
+- बाहुक्षदः (*bāhukṣadaḥ*)—those who cut the sacrificers with their arms
+- शरवे (*śarave*)—for the sake of harm
+- पत्यमानान् (*patyamānān*)—the Asuras who fall upon (them)
+- नु (*nu*)—quickly
+- दर्शन् (*darśan*)—I see
+- फृषुं (*phṛṣuṃ*)—the great one
+- सखायं (*sakhāyaṃ*)—the friend of the sacrificers
+- ये (*ye*)—whoever
+- निनिदुः (*niniduḥ*)—revile
+- एषु अधि (*eṣu adhi*)—upon them
+- पवयः (*pavayaḥ*)—my weapons
+- ववृत्युः (*vavṛtyuḥ*)—fall
+
+##### भावार्थ (Bhāvārtha)
+
+I quickly see the Asuras who carry off the cooked oblations and drink them, who are not worshippers of Indra, who cut the sacrificers with their arms, and who fall upon them to do harm. Upon those who revile me, the great one and the friend of the sacrificers, my weapons fall.
+
+##### English translation
+Beholding here the drinkers of the libations who serve not Indra, who cut (the worshippers) to pieces with their hands, assailing them to do them harm ; my shafts quickly fall upon them, as well as on those who revile (your) powerful friend.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अभू॒र्वौ क्षी॒व्यु१॒॑र् १ आयु॑रान॒ड्डर्ष॒न्नु पूर्वो॒ अप॑रो॒ नु  ॑
+> दर्षत् ।  
+> द्वे प॒वस्ते॒ परि॒ तं न भू॑तो॒ यो अ॒स्य पा॒रे रज॑सो वि॒वेष॑ ॥
+
+### Printed p. 723
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभूः । ऊं इति । औक्षीः । वि । ऊं इति । आयुः । आनट् । दर्षत् । नु। पूर्वः ।  
+> अपरः । नु । दर्षत् ।  
+> द्वे इति । पवस्ते इति । परि । तं । न । भूतः । यः । अस्य । पारे । रजसः । विवेष ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र मध्यमपुरुषत्वेनेंद्रस्योच्यमानत्वाद्वसुक्र इंद्रं स्तौति । उ इत्यवधारणे । हे इंद्र अभूः । त्वमेव प्रादुर्भवसि । औक्षीः । काले काले त्वमेव
+> पृथिवीं सिंचसि । नान्य इत्यर्थः । आनडित्यादौ सर्वत्र परोक्षनिर्देशे प्रत्यक्षीकरणार्थं
+> मध्यमपुरुषेण प्रकृतत्वादेकवाक्यताय्कॆ युष्मच्छब्द समानार्थो भवच्छब्दोऽध्याहर्तव्यः । वि इति वैविध्ये । उ इति चार्थे । आयुर्जीवितमुच्यते । इंद्रो
+> भवान्विविधमायुश्चानट् । व्याप्नोति । आ भूतसंप्लवाज्जीवतीत्यर्थः। किंच पूर्वः
+> पुरातनो भवानिंद्रो नु क्षिप्रं दर्षत् ॥ दृ विदारणे । सिब्बहुलं लेटि । वज्रेण
+> शत्रून्विदारयति । अपरोऽन्यः शत्रुनु दर्षत् । नु इति निषेधार्थॆ । भवंतमिंद्रं
+> न विदारयति । भवानेव सर्व० शत्रुजातं हिनस्तीत्यर्थः । अपि च यो भवानिंद्रोऽस्येदृशस्य रजसो लोकस्य । त्रैलोक्यस्येत्यर्थः । सारे परतः । परमसूक्ष्मवायुरूपेण सृष्टिकारणात्मना स्थित्वेति शेषः । विवेष सर्वतो व्याप्त्ति तं भवंतमिंद्रं
+> द्वे इति सामर्थ्याद्यावापृथिव्यौ न परि भूतः । न परिभवतः । अभिभवतुं न शक्नुत
+> इत्यर्थः । कीदृश्यौ । पवस्ते ॥ पवतिर्गतिकर्मा । अस्मादौणादिकोऽस्तप्रत्ययः ।
+> अतोऽजाद्यतष्टाप् । पा.४-१-४ । इति टापिः कृते प्रथमाद्विवचने चैतद्रूपं भवति ॥
+> महत्वेन सर्वस्याभिभवनाय गच्छंतौ ॥
+
+##### Gist of the bhāṣya
+
+Since Indra is spoken of in the second person, the seer Vasukra praises Indra. उ (*u*) has the sense of emphasis. "O Indra, you alone have become manifest; you alone water the earth from time to time, and no other." In आनट् (*ānaṭ*) and the like, where everything is stated in the third person, a word such as *bhavat*, equal in meaning to *yuṣmat*, must be supplied for the sake of a single sentence with the second person, to make the matter present. वि (*vi*) means variety. आयुः (*āyuḥ*) is life. Indra pervades the many kinds of life, that is, lives until the great dissolution. Further, the ancient Indra quickly splits (दर्षत् (*darṣat*), from the root दृ (*dṛ*) "to split"), that is, he splits his enemies with the thunderbolt. The other, the enemy, does not split; here नु (*nu*) is for negation, that is, he does not split you, Indra. You alone destroy the whole host of enemies. Further: you, Indra, who having stood beyond this *rajas*, the world, that is, the three worlds, in the form of the subtlest wind, the cause of creation, pervade everywhere (विवेष (*viveṣa*)), him heaven and earth, the two, do not overcome; they are unable to overpower him. What are they like? पवस्ते (*pavaste*): पवति (*pavati*) is a root of motion, from it comes the Uṇādi affix *asta*, and the form is the dual, meaning that the two go by greatness to overpower everything.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभूः (*abhūḥ*)—you have become manifest (O Indra)
+- औक्षीः (*aukṣīḥ*)—you shower rain in due season
+- आयुः (*āyuḥ*)—the whole world of living beings
+- आनट् (*ānaṭ*)—you pervade
+- पूर्वः (*pūrvaḥ*)—the ancient Indra
+- नु (*nu*)—quickly
+- दर्षत् (*darṣat*)—destroys the enemies
+- अपरः (*aparaḥ*)—the enemy
+- नु दर्षत् (*nu darṣat*)—surely cannot destroy Indra
+- यः (*yaḥ*)—the Indra who
+- अस्य रजसः (*asya rajasaḥ*)—of this world
+- पारे (*pāre*)—standing at the end
+- विवेष (*viveṣa*)—pervades all regions
+- तं (*taṃ*)—that Indra
+- पवस्ते (*pavaste*)—endowed with greatness
+- द्वे (*dve*)—both heaven and earth
+- न परि भूतः (*na pari bhūtaḥ*)—cannot surpass
+
+##### Grammar
+
+- पवस्ते — पवतिर्गतिकर्मा । अस्मादौणादिकोऽस्तप्रत्ययः । अतोऽजाद्यतष्टाप् । (पा. ४-१-४) इति टापि कृते प्रथमाद्विवचने चैतद्रूपं भवति ।
+
+### Printed p. 724
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have become manifest so that the whole world knows you. You shower rain in due season. You pervade the whole world of living beings. The ancient Indra quickly destroys the enemies, but the enemy surely cannot destroy Indra. Heaven and earth, endowed with greatness, cannot surpass that Indra who, standing at the end of this world, pervades all regions.
+
+##### English translation
+(The Rishi speaks) : You, Indra, are manifest ; (from time to time) you water (the earth) : Indra pervades all existence : the ancient Indra verily destroys (his foe), the other does not destroy (Indra). The united two (heaven and earth) surpass not him who extends beyond the confines of the universe.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गावो॒ यवं॒ प्रयु॑ता अ॒र्यो अ॑क्षं॒ता अ॑पश्यं स॒हगो॑पा॒श्चरं॑तीः ।  
+> हवा॒ इद॒र्यो अ॒भितः॒ समा॑य॒न्किय॑दासु॒ स्वप॑तिश्चंदयाते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गावः । यवं । प्रयुताः । अर्यः । अक्षन् । ताः । अपश्यं । सहगोपाः ।  
+> चरंतीः ।  
+> हवाः । इत् । अर्यः । अभितः । सं । आयन् । कियत् । आसु । स्वपतिः । छंदयाते ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गावो धेनवः प्रयुताः प्रकर्षण मिश्रिताः परस्परेण सह भूता यवं
+> मद्वृष्टिजनितयवादिघासमक्षन् । आदंति । भक्षयंति । आर्यः सर्वस्य स्वाम्यहं ता
+> गा अपश्यं । पश्यामि । केदृशीः । सहगोपाः । पशुपालकेन सहिताश्चरंतीर्घासं
+> भक्षयंतीः । एवंभूतास्ताः परया प्रीत्या पश्यामीत्यर्थः । किंच हवा वाहनदो-
+
+##### Gist of the bhāṣya
+
+The cattle, mingled closely with one another, eat the barley (यवं (*yavaṃ*)), the grass and the like produced by my rain; they feed on it. "I, the master of all (अर्यः (*aryaḥ*)), see those cows." What are they like? सहगोपाः (*sahagopāḥ*): moving with the herdsman, eating the grass. The sense is that he sees them so, with great delight. Further: हवाः (*havāḥ*) ... (continued on the next page).
+
+### Printed p. 725
+
+> हनार्थमाह्वानार्हा गावो अर्यः । द्वितीयार्थे प्रथमा । अर्यं स्वामिनं
+> प्रत्यभितः सर्वतः समायन् । समित्येकीभावे । एकीभूयागच्छंति । इदिति पूरणः ।
+> आगतास्वासु गोषु स्वपतिः स्वानां गवां स्वामी कियत्क्षीरं छंदयाते । दोग्धुं
+> कामयते । मदर्थं दोग्धीत्यर्थः । गाव आशिरं दुदुहे । य. ८-६९-६ । इति
+> वचनात् ॥
+
+##### Gist of the bhāṣya
+
+... हवाः (*havāḥ*) are cows fit to be called, for the sake of milking and carrying. अर्यः (*aryaḥ*): the nominative is used in the sense of the accusative; the cows gather from all sides round the master (अर्यं (*aryaṃ*)). सं (*saṃ*) is in the sense of union: they come together. इत् (*it*) is expletive. When the cows have come, the master of his own cows desires (छंदयाते (*chaṃdayāte*)) to milk some milk; the sense is "let him milk for me," according to the text गाव आशिरं दुदुहे (*gāva āśiraṃ duduhe*) (Ya. 8-69-6).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावः (*gāvaḥ*)—cows
+- प्रयुताः (*prayutāḥ*)—gathered together
+- यवं (*yavaṃ*)—barley
+- अक्षन् (*akṣan*)—eat
+- अर‍्यः (*aryaḥ*)—I, their master
+- ताः (*tāḥ*)—those cows
+- अपश्यं (*apaśyaṃ*)—I see
+- सहगोपाः (*sahagopāḥ*)—those that are with the herdsman
+- चरंतीः (*caraṃtīḥ*)—those that graze
+- हवाः (*havāḥ*)—cows that are fit to be called
+- अर‍्यः (*aryaḥ*)—of the master
+- अभितः (*abhitaḥ*)—all around
+- समायन् (*samāyan*)—have gathered and crowd around
+- आसु (*āsu*)—among these cows
+- स्वपतिः (*svapatiḥ*)—the owner of these cows
+- कियत् (*kiyat*)—to milk abundant milk
+- छंदयाते (*chaṃdayāte*)—desires (or: desires to milk how much milk)
+
+##### भावार्थ (Bhāvārtha)
+
+The cows gather together and eat the barley. I, their master, see those cows. The cows that are with the herdsman, that graze, and that are fit to be called, crowd around the master. Among these cows the owner desires to milk abundant milk (for me).
+
+##### English translation
+The assembled cattle feed upon the barley ; I their master have beheld them grazing, tended by the herdsman : when called, they collect around their lord ; when they approach, how much milk does he desire (to take) ?
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं यद्द्वयं॑ यव॒सादो॒ जना॑नाम॒हं य॒वाद॑ उ॒र्वज्रे॑  ॒
+> अंतः ।  
+> अत्रा॑ यु॒क्तो॑ऽवसा॒तार॑मिच्छा॒दथो॒ अयु॑क्तं युनजद्वन॒न्वान् ॥ ९ ॥
+
+### Printed p. 726
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । यत् । वयं । यवस्य अदः । जनानां । अहं । यवस्य अदः । उरुस्य अजे ।  
+> अंतरिति ।  
+> अत्र । युक्तः । अवसातारं । इच्छात् । अथो इति । अयुक्तं । युनजत् । ववन्वान् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सं यमिति वसुक्रात्मनावस्थित इंद्रस्य सार्वात्म्यं प्रकटयन् बंधमोक्षयोरात्मनः स्वातंत्रमाविष्करोति । यद्यदा वयं जनानां यवसादो जनानां
+> स्वभूतस्य सस्यस्य सम्यगत्तारो गवादिरूपेणावस्थिता उर्वज्रे विस्तीर्णे गंतव्ये
+> क्षेत्रेनर्मध्यॆ स्थितस्याहं वयं यवादो यवादिधान्यस्यात्तारो मनुष्यरूपेणावस्थिता अत्रास्मिन्संसारमंडले कश्चिद्युक्तो योगाभ्यासरतो भूत्वा
+> मुमुक्षुः सन् अवसातारं संसारबंधस्य मोचकमिच्छात् । मामेवेच्छति । अथो
+> अपि च ववन्वान् संभक्ताहमयुक्तमयोगिनं पृथग्जनं युनजत् । युनज्मि ।
+> बध्नामि । पुरुषव्यत्ययः ॥
+
+##### Gist of the bhāṣya
+
+In सं यत् (*saṃ yat*), Indra, abiding in the form of Vasukra, shows that he is the self of all and reveals his independence in bondage and release. When (यत् (*yat*)) we are the grass-eaters (यवसादः (*yavasādaḥ*)) of men, that is, standing in the form of cows and the like, thoroughly consuming the crops that belong to the people, and I stand in the middle of the wide field to be traversed (उर्वज्रे (*urvajre*)), we are also the barley-eaters, that is, eaters of barley and other grain, standing in human form. Here in the circle of saṃsāra, someone who is yoked (युक्तः (*yuktaḥ*)), devoted to the practice of yoga and desirous of release, desires (इच्छात् (*icchāt*)) a releaser (अवसातारं (*avasātāraṃ*)) from the bondage of saṃsāra; he desires me alone. And further, I, the devotee (ववन्वान् (*vavanvān*)), yoke (युनजत् (*yunajat*), "I yoke") the unyoked, the non-yogin, the common man, that is, I bind him; there is an interchange of person.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया ऋषिरिंद्रप्रसादलब्धं स्वस्य सार्वात्म्यं प्रकाशयति । जनानां
+> लोकानां मध्ये ये यवसादः तृणस्यात्तारः पशवः ते वयमिति सं सम्यक्
+> जानीहि । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । ये च यवादः यवोपलक्षितस्यान्नस्य अत्तारो मनुष्यास्तेऽपि वयमिति संजानीहि । वस्तुतस्तु उर्वज्रे विस्तीर्णॆ अजिरेंगणे हार्दाकाशरूपे यत् अंतः अंतर्यामिरूपं ब्रह्म तदहमस्मि ।
+> अत्रास्मिन् हार्दाकाशे युक्तः समाहितो भवानिंद्रः अवसातारं आत्मनः संभक्तारं
+> इच्छात् इच्छति आत्मसाक्षात्कर्तुं । अथो अपि च आयुक्तं अयोगिनं ववन्वान् ।
+> द्वितीयार्थे प्रथमा । ववन्वंतं अतिशयेन विषयान् सेवमानं पुरुषं युनजत्
+> युनक्ति संसारे । शापानुग्रहसमर्थो भवद्रूपोऽहमेवास्मीति भावः ॥
+
+##### Gist of the bhāṣya
+
+By this verse the seer proclaims the all-selfhood obtained by Indra's grace. "Among the people, those who are grass-eaters (यवसादः (*yavasādaḥ*)), the animals that eat grass, we are those; know this well (सं (*saṃ*))." Because the preverb is heard, a suitable verb is supplied. "And those who are barley-eaters, men who eat food marked by barley, we too are those; know this." In truth, the Brahman that lies within (अंतः (*aṃtaḥ*)) the wide (उर्वज्रे (*urvajre*)) court, in the form of the ether of the heart, as the inner controller, that am I. Here, in this ether of the heart, you, Indra, yoked, that is, collected, desire (इच्छात् (*icchāt*)) a devotee, a releaser (अवसातारं (*avasātāraṃ*)) of the self, in order to realise the self. And also the unyoked, the non-yogin (ववन्वान् (*vavanvān*): the nominative is used for the accusative, ववन्वंतं (*vavanvaṃtaṃ*)), the man who greatly pursues objects of sense, he (युनजत् (*yunajat*)) yokes in saṃsāra. The idea is: I am indeed your form, capable of curse and favour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनानां (*janānāṃ*)—in the worlds filled with beings
+- यवसादः (*yavasādaḥ*)—those that eat grass
+- यत् (*yat*)—whichever animals there are, all those
+- वयं (*vayaṃ*)—know them to be I myself
+- सं (जानीहि) (*saṃ (jānīhi)*)—know
+- यवादः (*yavādaḥ*)—whichever humans and others there are who eat barley and other grains
+- अहं (*ahaṃ*)—know that they too are I
+
+### Printed p. 727
+- उर्वज्रे अंतः (*urvajre aṃtaḥ*)—the one who is in the form of Brahman in the wide ether of the heart is also I
+- अत्र (*atra*)—in this ether of the heart
+- युक्तः (*yuktaḥ*)—Indra, who is in unity
+- अवसातारं (*avasātāraṃ*)—the work of realising the self
+- इच्छात् (*icchāt*)—desires
+- अथ (*atha*)—moreover
+- अयुक्तं (*ayuktaṃ*)—one without the practice of yoga, without meditation on the Lord
+- ववन्वान् (*vavanvān*)—making him immersed in the pleasures of sense objects
+- युनजत् (*yunajat*)—entangles in saṃsāra
+
+##### भावार्थ (Bhāvārtha)
+
+Know that whatever grass-eating animals there are in the worlds filled with beings are I myself, and that the humans and others who eat barley and other grains are also I. I am also the one who is in the form of Brahman in the wide ether of the heart. Indra, who has attained unity in the ether of the heart, desires the one who strives for realisation of the self. One without the practice of yoga and without meditation on the Lord he makes immersed in the pleasures of sense objects and entangles in saṃsāra.
+
+##### English translation
+When we, the grass-eaters of men, (are) together, I (am) among the barley-eaters in the wide field ; here he who is yoked would like one to unloose him, and the assailant would yoke him who is unyoked.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्रेदु॑ मे मंससे स॒त्यमु॒क्तं द्वि॒पाच्च॒ यच्चतु॑ष्पात्संसृ॒जानि॑ ।  
+> स्त्री॒भिर्यो अत्र॒ वृष॑णं पृत॒न्यादयु॑द्धो अस्य॒ वि भ॑जानि॒  ॑
+> वेदः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्र । इत् । ऊं इति । मे । मंससे । सत्यं । उक्तं। द्विपात् । च। यत् । चतुःपात् । संसृजानि ।  
+> स्त्रीभिः । यः । अत्र । वृषणं । पृतन्यात् । आयुद्धः । अस्य । वि । भजानि । वेदः ॥१८॥
+
 ---
 
-**Progress note:** Done through printed p. 721. pp. 716-721 (batch API)
+**Progress note:** Done through printed p. 727. pp. 722-727 (batch API)
