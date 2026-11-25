@@ -23229,6 +23229,268 @@ Hero, Indra, wielder of the thunderbolt, you have animated those chiefs (the Mar
 
 O heroic Indra, wielder of the thunderbolt, of the giver, constantly granting the wished fruit to praisers, those deeds of yours are swift (मक्षु (*makṣu*)), without delay, that is, with swift causes. In the battle (आक्षणे (*ākṣaṇe*)), when you are pressed by warriors, the praisers praise those deeds that rest in you (to be supplied).
 
+### Printed p. 668
+
+> तुष्टस्यासुरस्य विश्वं जातं सर्वमपत्यजातं दंभयः । अदंभयः । हिंसितवानसि ।
+> यद्वा ! एववादीनि यानि खलु कर्माणि संति तानि स्तुवंतीति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the explanation of the preceding Ṛk. Indra injured (दंभयः (*daṃbhayaḥ*), "you harmed") the whole progeny of the asura Shushna, that is, all his offspring. Alternatively, the construction is with the preceding words: the singers praise the deeds of this kind that there are.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O mighty one
+- वज्रिवः (*vajrivaḥ*)—O bearer of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- सयावभिः (*sayāvabhiḥ*)—together with the Maruts who accompany you
+- शुष्णस्य (*śuṣṇasya*)—of the asura Shushna
+- विश्वं चातं (*viśvaṃ cātaṃ*)—all the sons
+- यत् ह (*yat ha*)—when
+- दंभयः (*daṃbhayaḥ*)—you killed, then
+- दानाप्यसः (*dānāpyasaḥ*)—of you who are engaged in acts of giving
+- ते (*te*)—your
+- मक्षु (*makṣu*)—those that work quickly
+- आक्षणे (*ākṣaṇe*)—those that are filled in you
+- ता (*tā*)—they praise those well-known deeds
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, bearer of the thunderbolt, when you, together with the Maruts who accompany you, killed all the sons of the asura Shushna, the singers extol those well-known deeds of yours, which are bounteous, swift in action, and filled with you.
+
+##### English translation
+Hero, Indra, (your worshippers glorify) those prompt exploits performed by you in battle, (by you who are) ever bountiful, when with your associate (Maruts) you destroyed the whole race of Shushna.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> माकु॒ध्य॑गिंद्र शूर॒ वस्वी॑र॒स्यॆ भू॑वन्न॒भिष्ट॑यः ।  
+> व॒यंव॑यं त आसां सु॒म्मे स्या॑म वज्रिवः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । अकुध्यक् । इंद्र । शूर । वस्वीः । अस्यॆ इति । भूवन् । अभिष्टयः ।  
+> वयंवयं । ते । आसां । सुम्मे । स्याम । वज्रिवः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर विक्रांतेंद्र अस्मे अस्माकं स्वभूता वस्वीर्महत्योऽभिष्टय
+> अभिमुख्येष्टय इज्याः । यद्वा । अभिमुख्येच्छा अभीप्सितप्रार्थनाः । कुध्यक्
+
+##### Gist of the bhāṣya
+
+O mighty, valiant Indra, our own great अभिष्टयः (*abhiṣṭayaḥ*) are the sacrifices (इज्याः (*ijyāḥ*)) directed towards us; or else they are our desired petitions, prayers for what we long for. May they not be कुध्यक् (*kudhyak*), that is, contemptible, which means fruitless. (The explanation continues on the next page.)
+
+### Printed p. 669
+
+> कुत्सिताः । विफला इत्यर्थः । मा भूवन् । किंतर्हि हे वज्रिवो वज्रिन्निंद्र ते तव
+> प्रसादाद्वयंवयमृत्विग्यजमानाः । द्विर्वचनमतित्वराप्रदर्शनार्थं । आसामिजानामिच्छानां वा संबंधिनि सुम्मे सुखेवस्थिताः स्याम । भवेम । वयमभिषिजन्येन दृष्टादृष्टसुखेन युक्ताः शीघ्रं भवेमेत्याशास्मह इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+On the contrary, O thunderbolt-bearing Indra, by your grace we, ṛtvijs and sacrificer alike (वयंवयं (*vayaṃvayaṃ*)), may be established in the comfort connected with these (आसां (*āsāṃ*)) sacrifices or desires. The doubling of the word shows great haste. "May we quickly be endowed with the visible and invisible happiness that arises from our aim": such is the wish expressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O mighty one
+- इंद्र (*iṃdra*)—O Indra
+- अस्मे (*asme*)—our
+- वस्वीः (*vasvīḥ*)—those of great nature
+- अभिष्टयः (*abhiṣṭayaḥ*)—prayers that ask for desired objects
+- अकुध्रक् (*akudhrak*)—without purpose
+- मा भूवन् (*mā bhūvan*)—let them not be
+- वज्रिवः (*vajrivaḥ*)—O Indra, bearer of the thunderbolt
+- ते (*te*)—by your favour
+- वयंवयं (*vayaṃvayaṃ*)—all of us, who are priests and sacrificer
+- आसां (*āsāṃ*)—that has these desired objects as its goal
+- सुम्मे (*summe*)—in happiness
+- स्याम (*syāma*)—may we be
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, let our great prayers, which ask for what we desire, not be without purpose. O Indra, bearer of the thunderbolt, by your favour may all of us, priests and sacrificer, be in the happiness that has these desired objects as its target (its aim).
+
+##### English translation
+Hero, Indra, let not our manifold sacrifices be unavailing, but may we all, thunderer, (through) your (favour) continue in the fruition of these (our desires).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे ता त॑ इंद्र संतु स॒त्याहिं॑संतीरुप॒स्पृशः॑ ।  
+> वि॒द्याम॒ यासां॒ भुजो॑ धेनू॒नां न व॑ज्रिवः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । ता । ते । इंद्र । संतु । सत्या । अहिंसंतीः । उपस्पृशः ।  
+> विद्याम । यासां । भुजः । धेनूनां । न । वज्रवः ॥ १३ ॥
+
+### Printed p. 670
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अस्मे आस्माकं स्वभूताः ॥ ता सत्येत्युभयत्र प्रथमाबहुवचनस्य
+> च्छांदस आकारः सति निर्देशस्याविशेषणत्वात् ॥ ता तास्त्रादृश्य उपस्पृशः । त्वामुपगम्य स्पृशंतीत्युपस्पृशः स्तुतयः । ते तव प्रसादात्सत्या सत्याः संतु । यथार्था
+> भवंतु । तव सद्गुणग्राहिण्य इत्यर्थः । अपि चाहिंसंतीस्त्वामहिंसत्यश्च भवंतु ।
+> सत्सुतित्वादनुद्वेजयंत्यश्चभवंतित्यर्थः । हे वज्रिव इंद्र यासां स्तुतीनां संबंधिनो भुजो दृष्टादृष्टान्भोगान्विद्याम वयं लभेमहि । तत्र दृष्टांतः ।
+> धेनूनां न गवां क्षीरादिभोगान्यथा गोस्वामी लभते तद्वत् । ताः सत्या भवंत्विति
+> पूर्वेणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, "those" (ता (*tā*)) belong to us. In both ता (*tā*) and सत्या (*satyā*) the ending ā of the nominative plural is Vedic, since the word stands in the place of what is qualified. Those उपस्पृशः (*upaspṛśaḥ*) are the praises that approach you and touch you. By your grace may they be true, that is, conformable to fact, taking up your good qualities. Moreover may they be अहिंसंतीः (*ahiṃsaṃtīḥ*), non-injuring: being good praises, they do not vex you. O thunderbolt-bearing Indra, may we obtain the enjoyments, seen and unseen, connected with these praises. An illustration: as the owner of cows obtains the enjoyment of the milk and the like of the milch-cows. The construction is with the preceding: "may they be true".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिवः (*vajrivaḥ*)—O bearer of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- धेनूनां न (*dhenūnāṃ na*)—as a cowherd also enjoys the milk of milch-cows
+- यासां (*yāsāṃ*)—of whichever praises the fruit
+- भुजः (*bhujaḥ*)—the enjoyments of happiness
+- विद्याम (*vidyāma*)—we shall obtain such, and
+- अस्मे (*asme*)—those offered by us
+- अहिंसंतीः (*ahiṃsaṃtīḥ*)—those that give you no trouble
+- ता (*tā*)—those well-known
+- उपस्पृशः (*upaspṛśaḥ*)—those that reach you, the praises
+- ते (*te*)—by your favour
+- सत्या (*satyā*)—as being of the nature of truth
+- संतु (*saṃtu*)—let them be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, as a cowherd enjoys the milk of milch-cows, so we obtain the enjoyments of happiness that are the fruit of certain praises. Let those praises, which are offered by us, give you no trouble, are well known and reach you, have by your favour a fruit of the nature of truth.
+
+##### English translation
+Mey these our (praises) reaching you, Indra, be successful, doing no detriment (to you), so that, thunderer, we may obtain the benefits derivable from them, as (a cowherd enjoys those) from the milk cows.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ह॒स्ता यद॒पदी॒ वर्ध॑त॒ क्पाः शची॑भिर्वे॒द्यानां॑ ।  
+> शुष्णं॒ परि॑ प्रदक्षि॒णिद्वि॒श्वाय॑वे॒ नि शि॑श्नथः ॥ १४ ॥
+
+### Printed p. 671
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहस्ता । यत् । अपदी । वर्धत । क्षाः । शचीभिः । वेद्यानां ।  
+> शुष्णं । परि । प्रदक्षिणित् । विश्वआयवे । नि । शिश्नथः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यदा क्षा भूमिरहस्ता पाणिरहितापदी चरणवर्जिता च। अमनुष्यकर्मकेत्यर्थः । वेद्यानां स्तोत्रयोग्यानां त्वत्प्रभृतीनां देवानां संबंधिभिः
+> शचीभिः कर्मभिर्वर्धत अवर्धत। धनधान्यादिभिः समृद्धेत्यर्थः । तदा त्वं परि प्रदक्षिणिदेवंभूतां पृथिवीं परिवेष्ट्य प्रदक्षिणं यथा भवति तथा स्थितं शुष्णमसुरं
+> विश्वायवे । तादर्थ्ये चतुर्थी । सर्वत्राप्रतिहतगामिन एतदाख्यस्यौर्वशेयराज्ञोऽर्थायॆ नि शिश्नथः। नितरां ताडितवानसि । यद्वा । यदा शुष्ण स्याच्छादनार्थं
+> हस्तपादवर्जिता काचित्पृथिवी वेदितव्यानामसुराणं मायारूपैः कर्मभिः शुष्णमसुरं परिवेष्ट्य प्रदक्षिणं यथा भवति तथावस्थितावर्धत तदानीं तां मायोत्पादितां पृथिवीं विश्वायवे सर्वव्यापकस्य मरुद्धणस्य प्रवेशनार्थं नि शिश्नथः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when the earth, अहस्ता (*ahastā*) without hands and अपदी (*apadī*) without feet, that is, not made by human action, flourished (वर्धत (*vardhata*)) through the acts (शचीभिः (*śacībhiḥ*)) of the gods, yourself among them, who are worthy of praise (वेद्यानां (*vedyānāṃ*)), that is, was enriched with wealth, grain and the like, then you struck down the asura Shushna. He was encircling the earth, stationed so as to go round it with the right side towards it (प्रदक्षिणित् (*pradakṣiṇit*)). You did so विश्वायवे (*viśvāyave*), the dative being of purpose: for the sake of the king of Urvaśī's line so named, whose course is unobstructed everywhere.
+
+Alternatively: when a certain earth without hands and feet, produced by the magical acts of the asuras, grew while encircling the asura Shushna in order to cover him, stationed so as to go round him with the right side, then you struck that magically produced earth so that the all-pervading host of the Maruts might enter (विश्वायवे (*viśvāyave*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यत् (*yat*)—when
+- क्षाः (*kṣāḥ*)—the earth
+- अहस्ता (*ahastā*)—being without hands
+- अपदी (*apadī*)—being without feet
+- वेद्यानां (*vedyānāṃ*)—of the gods
+- शचीभिः (*śacībhiḥ*)—by the acts
+- वर्धत (*vardhata*)—it attained growth, then
+- त्वं (*tvaṃ*)—you
+- परि प्रदक्षिणित् (*pari pradakṣiṇit*)—who had surrounded this earth on all sides
+- शुष्णं (*śuṣṇaṃ*)—the asura Shushna
+- विश्वायवे (*viśvāyave*)—for the king called Vishvayu
+- नि शिश्नथः (*ni śiśnathaḥ*)—you destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the earth, though without hands and feet, grew through the acts of the gods, then you destroyed the asura who had surrounded this earth on all sides, in order to do good to the king called Vishvayu.
+
+##### English translation
+When the earth which has neither hands nor feet flourished through the acts of (devotion paid to) the adorable (deities), then did you smite down Shushna, circumambulating it on the right, for the sake of Vishvayu.
+
+### Printed p. 672
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबा॑पि॒बेदिं॑द्र शूर॒ सोमं॒ मा रि॑षण्यो वसवानः॒ वसुः॒  
+> सन् ।  
+> उ॒त त्रा॑यस्व गृण॒तो म॒घोनो॑ म॒हश्च॑ रा॒यो रे॒वत॑स्कृधी नः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिबपिब । इत् । इंद्र । शूर । सोमं । मा । रिषण्यः । वसवानः । वसुः । सन् ।  
+> उत । त्रायस्व । गृणतः । मघोनः । महः । च । रायः । रेवतः । कृधि । नः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पिबपिबेति वीप्सातित्वराप्रदशनार्थं । हे शूर वीरेंद्र त्वमभिसुतं सोमं
+> शीघ्रं पिब । यागकालातिपातो यावन्न भवति तावच्छिघ्रं सोमं पिबेत्यर्थः ।
+> इदिति पूरणः । हे वसवान वसूनां धनानामानेतः त्वं वसुः प्रशस्तः सन्मा रिषण्यः ।
+> यागकालातिक्रमजातेन दोषेणास्मान्मा हिंसीः । प्रशस्तस्य तव कर्मवैगुण्यकरणेन
+> हिंसितुमयुक्तमित्यर्थः । उतापि च हे इंद्र त्वं गृणतस्त्वां स्तुवतः स्तोत्थन्मघोनो हविर्लक्षणधनवतो यजमानांश्च त्रायस्व । प्रमादजनितकर्मवैगुण्यदोषात्पालयस्व । किंच । महश्च राय इत्युभयत्र तृतीयार्थे षष्ठी । महो
+> महता रायो धनेन च नोऽस्मान्रेवतः कृधि । धनवतः कुरु ॥
+
+##### Gist of the bhāṣya
+
+The repetition पिबपिब (*pibapiba*) shows great haste. O mighty, heroic Indra, drink quickly the Soma that has been pressed: drink it quickly, before the proper time of the sacrifice passes. इत् (*it*) is a filler. O वसवान (*vasavāna*), bringer of riches (वसूनां (*vasūnāṃ*), of wealth), being वसुः (*vasuḥ*), excellent, do not harm us (मा रिषण्यः (*mā riṣaṇyaḥ*)), that is, do not injure us through any fault arising from the lapse of the sacrificial time. It is not fitting that you, being excellent, should harm us by making the rite defective. And, O Indra, protect those who praise you (गृणतः (*gṛṇataḥ*)), the singers, and the sacrificers (मघोनः (*maghonaḥ*)) who possess wealth in the form of oblations; guard them from the fault of defect in the rite caused by negligence. Further, in महश्च राय (*mahaśca rāya*) the genitive stands in the sense of the instrumental in both words: make us (नः (*naḥ*)) rich (रेवतः (*revataḥ*)), that is, possessed of wealth, with great (महः (*mahaḥ*)) wealth (रायः (*rāyaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O mighty one
+- इंद्र (*iṃdra*)—O Indra
+- सोमं (*somaṃ*)—the Soma
+- पिबपिब (*pibapiba*)—drink quickly
+- वसवान (*vasavāna*)—you, the bringer of wealth
+- वसुः सन् (*vasuḥ san*)—being highly praiseworthy
+- मा रिषण्यः (*mā riṣaṇyaḥ*)—do not harm us
+- उत (*uta*)—and
+- गृणतः (*gṛṇataḥ*)—your singers
+- मघोनः (*maghonaḥ*)—the sacrificers who give oblations
+- त्रायस्व (*trāyasva*)—protect
+- महः (*mahaḥ*)—with great
+- रायः (*rāyaḥ*)—wealth
+- नः (*naḥ*)—us
+- रेवतः (*revataḥ*)—as possessed of wealth
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, drink the Soma quickly. You, the bringer of wealth, being highly praiseworthy, do not harm us. Protect your singers and the sacrificers who give oblations. With great wealth make us possessed of wealth.
+
+### Printed p. 673
+
+##### English translation
+Drink, hero Indra, drink the Soma; being excellent, harm (us) not, possessor of opulence; preserve those who praise you, and are offfluent (in offerings), and render us rich with great riches.
+
+## Sūkta 23 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजामह इति सप्तर्चं सप्तमं सूक्तं । प्रथमासप्तम्या त्रिष्टुभौ : पंचम्यभिसारिणी । द्विर्दशकद्विद्वादशकवतीत्यभिसारिणीत्युच्यते । शिष्टाश्चतस्रो जगत्यः ।
+> पूर्ववदृषिदेवते । तथा चानुक्रांतं । यजामहे सप्ताद्यांत्ये त्रिष्टुभौ पंचम्यभिसारिणीति ॥ चतुर्थेऽहनि माध्यंदिनसवने तृतीयापंचम्योरावर्तनेन श्रींस्तृचान् होत्रका एकैकं तृचमावपेरन् । सूत्रितं च । यजामह इंद्रं वज्र दक्षिणमिति द्वितीयानेवमेव । आ-७-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The seven-Ṛk sūkta beginning यजामह (*yajāmaha*) is the seventh sūkta. The first and the seventh Ṛk are in triṣṭubh; the fifth is abhisāriṇī, which is the name for a verse having two twice-ten-syllable and two twice-twelve-syllable pādas. The remaining four are in jagatī. The seer and the deity are as before. So the Anukramaṇī says: यजामहे सप्ताद्यांत्ये त्रिष्टुभौ पंचम्यभिसारिणीति (*yajāmahe saptādyāṃtye triṣṭubhau paṃcamyabhisāriṇīti*). Use: on the fourth day, at the midday pressing, the Hotrakas should insert one trca each, by repeating the third and the fifth Ṛk, making three trcas. It is also taught in the Sūtra: यजामह इंद्रं वज्र दक्षिणमिति द्वितीयानेवमेव (*yajāmaha iṃdraṃ vajra dakṣiṇamiti dvitīyānevameva*) (Ā. Sū. 7-11).
+
+##### Anuvāda
+
+This sūkta beginning यजामहे (*yajāmahe*) is the seventh sūkta in the second anuvāka. It has seven Ṛks. The seers and deity of this sūkta are the same as those of the preceding sūkta. The first and seventh Ṛks of this sūkta are in the triṣṭubh metre; the fifth Ṛk is in the metre called abhisāriṇī. If a Ṛk has four pādas, of which two have ten syllables each and the other two twelve syllables each, that Ṛk is said to be in the abhisāriṇī metre. The remaining Ṛks are in the jagatī metre. In the Anukramaṇī it is stated as यजामहे सप्ताद्यांते त्रिष्टुभौ पंचम्यभिसारिणी (*yajāmahe saptādyāṃte triṣṭubhau paṃcamyabhisāriṇī*). On the fourth day of the sacrifice, at the midday pressing, three Ṛks are to be put together by repeating the third and the fifth Ṛks of this sūkta, and the priests of the Hotṛ group should recite them for the purpose of āvāpa. This is explained by the sūtra यजामह इंद्रं वज्रदक्षिणमिति द्वितीयानेवमेव (*yajāmaha iṃdraṃ vajradakṣiṇamiti dvitīyānevameva*) of the Āśvalāyana Śrauta-sūtra (Ā. 7-11).
+
+Sūkta—23
+- Maṇḍala—10; Anuvāka—2; Sūkta—23.
+- Aṣṭaka—7; Adhyāya—7; Varga—9.
+- Number of Ṛks in the sūkta—7.
+- Ṛṣi: Vimada Aindra Prājāpatya, or Vasukṛt Vāsukra.
+- Deity: Indra.
+- Metre: 1, 7 triṣṭubh; 2-4, 6 jagatī; 5 abhisāriṇī.
+
 ---
 
-**Progress note:** Done through printed p. 667. pp. 662-667 (batch API)
+**Progress note:** Done through printed p. 673. pp. 668-673 (batch API)
