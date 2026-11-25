@@ -5174,6 +5174,163 @@ Maṇḍala 10; Anuvāka 6; Sūkta 81. Aṣṭaka 8; Adhyāya 3; Varga 16. Numbe
 
 Here the Nirukta says: Viśvakarman at the Sarvamedha offered all beings, and in the end he offered himself also. About this the following Ṛk speaks: य इमा विश्वा भुवनानि (*ya imā viśvā bhuvanāni*) (the quotation breaks off at the end of the window).
 
+### Printed p. 180
+
+> जुह्वदिति । नि. १०-२६ । इति ॥ यो विश्वकर्मैतन्नामक ऋषिभुवनपुत्रो होता
+> होमनिष्पादकः सन्विश्वा सर्वाणि भुवनानि जुह्वद्दोमं कुर्वन् । प्रथमं सर्वं
+> जगद्भ्येत्यर्थः । पश्चादग्नौ नृसीदत् पिता जनकः । आत्मकृतेन कर्मणा
+> देहोत्पत्तेः । न चैकस्य जन्यजनकभावो विरुध्यते तपोबलेन शरीरद्वयस्वीकारात् ।
+> स एकधा भवति । छां. उ. ७.२६-२ । इत्यादिश्रुतेः । स ऋषिराशिषाशिष्टतिपादकेन
+> सूक्त वाकादिना द्रविणं धनं स्वर्गाख्यमिच्छमानः कामयमानः प्रथमच्छत्पथममग्नेर्भुवनैराच्छादयितावरान्विप्रकृष्णान्भूतान्सात्मनाहुताना विवेश । आविष्टवानग्नि मित्युक्तार्थ एव पुनर्विशेषेणोक्तः । एवमुत्तरत्राधियज्ञ परतया योज्यं॥
+> अथाध्यात्मप्रसिद्धोच्यते । यो विश्वकर्मा परमेश्वर इमा विश्वा भुवनानि
+> जुह्वत्पलयकाले पृथिव्यानीनिमान्सप्त लोकान्नात्मन्याहुतिप्रक्षेपवत्संहरन्नृषिरतींद्रियद्रष्टा सर्वज्ञो होता संहाररूपस्य होमस्य कर्ता नोऽस्माकं
+> पिता जनको निषसाद स्वयं स्थितवान् । आयमर्थः । प्रलयकाले प्राप्ते सति
+> सर्वाल्लोकान्संहृत्यास्माकमपि संहर्ता पुनः सृष्टा च सन् सर्वज्ञो यः
+> परमेश्वरः स्वयमेक एवासीत् । तथा हि श्रुतयः । आत्मा ना इदमेक एवाग्र
+> आसीत् । ऐ. अ. २-४-१ । सदेव सोम्येदमग्र आसीत् । छां. उ. ६-२-१ । इत्यादिकाः ।
+> स तादृशः परमेश्वर आशिषा बहुः स्यां प्रजायेयेत्येवंरूपया पुनःपुनः
+> सिसृष्टया द्रविणमिच्छमानः धनोपलक्षितं जगद्भोगमाकांक्षमाणः प्रथमच्छत्पथमं मुख्यं निष्प्रपंचं पारमार्थिकं रूपमावृण्णन्नवरान्सृष्टान्साणिहृदयप्रदेशाना विवेश । आविष्टवाइवरूपेण । तथा च श्रूयते । सोऽकाम.
+> यत बहुः स्यां प्रजायेयेति स तपोऽतप्यत स तपस्तप्तदं सर्वमसृजत
+> यदिदं किंच तत्सृष्ट्वा तदेवानुप्राविशत् । तै. आ. ८-६ । इति । एवमन्या अप्युपनिषद
+> उदाहार्याः ॥
+
+##### Gist of the bhāṣya
+
+The word जुह्वदिति (*juhvaditi*) is cited with the reference (Ni. 10-26). First the sacrificial explanation (adhiyajña). The seer named Viśvakarman, son of Bhuvana, being the Hotṛ, the accomplisher of the offering, makes the offering of all the worlds (जुह्वत् (*juhvat*)): first he offers the whole world; afterwards he sat down in Agni. **NOTE** "Father" means begetter, because the body arises through his own deed. There is no contradiction in one person being both begotten and begetter, since by the power of austerity he takes two bodies; for the Śruti says स एकधा भवति (*sa ekadhā bhavati*) (Chāṃ. U. 7.26-2) **NOTE**, and so on. That seer, desiring by blessing, that is by a sūkta-utterance and the like that conveys the blessing, wealth named heaven, covered Agni first with the worlds (प्रथमच्छत् (*prathamacchat*)) and entered the lower, remote beings offered by himself (अवरान् (*avarān*) आ विवेश (*ā viveśa*)): the meaning already stated, that he entered Agni, is stated again with a specification. In the same way the later Ṛks are to be applied with reference to the sacrifice.
+
+Now the explanation with reference to the self (adhyātma) is given. Viśvakarman, the supreme Lord, at the time of dissolution withdraws into himself these worlds, the seven beginning with the earth, as one casts in an oblation. He is the seer, who sees beyond the senses, the omniscient, the Hotṛ, the doer of the offering in the form of dissolution; he is our father, and he sat down, that is, remained by himself. The sense is this: when the time of dissolution comes, he withdraws all the worlds, is the destroyer of us also, and then again the creator, omniscient, the supreme Lord alone was. So the Śrutis say: आत्मा ना इदमेक एवाग्र आसीत् । (*ātmā nā idameka evāgra āsīt |*) (Ai. A. 2-4-1) **NOTE**; सदेव सोम्येदमग्र आसीत् (*sadeva somyedamagra āsīt*) (Chāṃ. U. 6-2-1), and others. That same supreme Lord, by the blessing of the form "may I be many, may I be born", desiring wealth, that is, desiring the enjoyment of the world marked by wealth, in his wish to create again and again, covering first the principal, world-free, real form, entered the lower, created beings, the heart-regions of the embodied, as if entered, in appearance. And so it is heard: सोऽकाम. यत बहुः स्यां प्रजायेयेति स तपोऽतप्यत स तपस्तप्तदं सर्वमसृजत यदिदं किंच तत्सृष्ट्वा तदेवानुप्राविशत् । (*so 'kāma. yata bahuḥ syāṃ prajāyeyeti sa tapo 'tapyata sa tapastaptadaṃ sarvamasṛjata yadidaṃ kiṃca tatsṛṣṭvā tadevānuprāviśat |*) (Tai. Ā. 8-6) **NOTE**. Other Upaniṣad passages too may be cited in the same way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषि (*ṛṣi*)—the all-knowing
+- होता (*hotā*)—the accomplisher of the offering
+- यः (*yaḥ*)—which Viśvakarman
+- विश्वा (*viśvā*)—all
+- इमा भुवनानि (*imā bhuvanāni*)—these worlds
+- जुह्वत् (*juhvat*)—having offered in the form of an oblation
+- न्यसीदत् (*nyasīdat*)—sat in his divine place
+- सः (*saḥ*)—such
+- नः पिता (*naḥ pitā*)—the same Viśvakarman, the begetter of us all
+- आशिषा (*āśiṣā*)—accompanied by blessing
+- द्रविणं (*draviṇaṃ*)—wealth
+- इच्छमानः (*icchamānaḥ*)—desiring
+- प्रथमच्छत् (*prathamacchat*)—having pervaded everything first in the form of Agni
+- अवरान् (*avarān*)—all the beings offered by himself
+- आ विवेश (*ā viveśa*)—entered
+
+### Printed p. 181
+
+##### भावार्थ (Bhāvārtha)
+
+The same Viśvakarman, who is all-knowing and the accomplisher of the offering, who offered all the worlds in the form of an oblation and sat in his divine place, and who is the begetter of us all, desired wealth accompanied by blessing, pervaded everything first in the form of Agni, and entered all the beings offered by himself.
+
+##### English translation
+The Rishi, the Hotri, our father who offering all these worlds has taken has seat ; desiring wealth by pious benedictions, the first inventor has entered inferior (beings).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk four chief acts of Viśvakarman are described. The first of them:
+
+1) यः इमा विश्वा भुवनानि जुह्वत् (*yaḥ imā viśvā bhuvanāni juhvat*): the matter that Viśvakarman offered this whole universe in the form of a sacrificial oblation. The second:
+
+2) स आशिषा द्रविणमिच्छमानः (*sa āśiṣā draviṇamicchamānaḥ*): the desire to create again and again this very world that was offered as an oblation. The third:
+
+3) प्रथमच्छत् (*prathamacchat*): the possession of a form that is free from the manifold world and is real in the highest sense. And last:
+
+4) अवरान् आ विवेशः (*avarān ā viveśaḥ*): entering the hearts of all the beings created by his own will and being the inner controller of all. Thus the acts of creation, preservation and dissolution are described. Here another matter deserves attention. Among the acts of creation and the rest, creation is not described first. First the act in the form of dissolution; afterwards the wish to create, then creation; at last his pervading of the created world. In this order the acts of Viśvakarman are praised.
+
+To withdraw the created world into himself at the time of dissolution and to remain alone, without a second, is one of the sports of Īśvara. Though from the standpoint of the world this act is destruction, from the standpoint of Īśvara it is regarded as merely a particular state. This offering of an oblation in the form of dissolution is explained in many contexts. The author of the Nirukta, speaking of one such context,
+
+### Printed p. 182
+
+तत्रेतिहासमाचक्षते । विश्वकर्मा भौवनः सर्वमेधे सर्वाणि भूतानि जुहवांचकार । स आत्मानमप्यंततो जुहवांचकार । तदभिवादिन्येषर्गवति । य इमा विश्वा इति ॥ (*tatretihāsamācakṣate | viśvakarmā bhauvanaḥ sarvamedhe sarvāṇi bhūtāni juhavāṃcakāra | sa ātmānamapyaṃtato juhavāṃcakāra | tadabhivādinyeṣargavati | ya imā viśvā iti ‖*) (Ni. 10-26)
+
+This context is told in the form of a narrative. Viśvakarman, the son of Bhuvana, offered all beings in the form of oblations at the Sarvamedha sacrifice. At the end he offered himself also in the form of an oblation. The mantra य इमा विश्वा (*ya imā viśvā*) (10-81-1) makes this clear, he says. This very act of offering is explained thus in the Śatapatha Brāhmaṇa.
+
+ब्रह्म वै स्वयंभु तपोऽतप्यत । तदैक्षत न वै तपस्यानंतमस्ति हंताहं भूतेष्वात्मानं जुहवानि भूतानि चात्मनीति तत्सर्वेषु भूतेष्वात्मानग्ं हुत्वा भूतानि चात्मनि सर्वेषां भूतानाग् श्रैष्ठ्यग् स्वाराज्यमाधिपत्यं पर्येति ॥ (*brahma vai svayaṃbhu tapo 'tapyata | tadaikṣata na vai tapasyānaṃtamasti haṃtāhaṃ bhūteṣvātmānaṃ juhavāni bhūtāni cātmanīti tatsarveṣu bhūteṣvātmānagṃ hutvā bhūtāni cātmani sarveṣāṃ bhūtānāg śraiṣṭhyag svārājyamādhipatyaṃ paryeti ‖*) (Ka. Cā. 13-7-1-1) **NOTE**
+
+तेनैतेन विश्वकर्मा भौवन ईजे । तेनेष्टात्यतिष्ठत्सर्वाणि भूतानीदग्ं सर्वमभवत् .... ..... ...... .... य एनं विद्वान् .... .... .... ॥ (*tenaitena viśvakarmā bhauvana īje | teneṣṭātyatiṣṭhatsarvāṇi bhūtānīdagṃ sarvamabhavat .... ..... ...... .... ya enaṃ vidvān .... .... .... ‖*) (Śa. Brā. 13-7-194)
+
+Brahmā, named Svayambhū, was practising austerity. Then he thought thus: austerity should not be endless. In its place I shall perform the Sarvamedha. I shall offer myself in the beings in the form of an oblation, and I shall offer the beings in myself in the form of an oblation. By offering himself in the beings and all the beings in himself in this way, he obtained his own sovereignty and lordship over all the worlds.
+
+Viśvakarman, the son of Bhuvana, also performed a Sarvamedha of this kind. As its fruit he obtained a position higher than all beings, and himself obtained the form of all beings; so it is stated. This kind of Sarvamedha is one of the acts of the Creator. He who is the creator is the destroyer. The world created by himself is the oblation to himself; it is an oblation by himself to himself. This is a kind of sacrifice. As the sacrifice is the first cause of the creation of the world, so the dissolution of the universe too is in the form of a sacrifice. The sacrifice that is praised as सर्वॆषां भूताना., मात्मा यज्ञः (*sarvèṣāṃ bhūtānā., mātmā yajñaḥ*) (Śa. Brā. 14-3-2-1) **NOTE**, that same sacrifice is also the devourer of all beings.
+
+### Printed p. 183
+
+यज्ञो वै भुज्युरज्ञो हि सर्वाणि भूतानि भुनक्ति (*yajño vai bhujyurajño hi sarvāṇi bhūtāni bhunakti*) (Śa. Brā. 9-4-1-11)
+
+Because the sacrifice itself enjoys all beings, the name Bhujyu is well known for the sacrifice. It is also his nature to enjoy the very worlds that Prajāpati produces. Among produced things none can be eternal; each must meet dissolution. Prajāpati, the creator, is himself the dissolver.
+
+एको हि रुद्रो न द्वितीयाय तस्थुर्य इमान् लोकानीशत ईशनीभिः । प्रत्यज् जनास्तिष्ठति संचुकोचांतकाले संसृज्य विश्वा भुवनानि गोपाः ॥ (*eko hi rudro na dvitīyāya tasthurya imān lokānīśata īśanībhiḥ | pratyaj janāstiṣṭhati saṃcukocāṃtakāle saṃsṛjya viśvā bhuvanāni gopāḥ ‖*) (Śve. U. 3.2) **NOTE**
+
+The unique Rudra, who governs and protects the world, pervades the whole world and is the inner controller of all. Having spread out the world in its subtle form, as soon as he knows that the business of the world is finished, he draws the whole universe into himself. This is the dissolution. In the sentence अस्य वामस्य पलितस्य होतुः (*asya vāmasya palitasya hotuḥ*) (Ṛ. Saṃ. 1-164-1) the word होतुः (*hotuḥ*) is given the meaning संहर्तुः (*saṃhartuḥ*), and so this very act of dissolution is explained.
+
+स यद्यदेवासृजत तत्तदत्तुमध्रियत सर्वं वा अत्तीति........सर्वस्येतस्यात्ता भवति सर्वमस्यान्नं भवति । (*sa yadyadevāsṛjata tattadattumadhriyata sarvaṃ vā attīti........sarvasyetasyāttā bhavati sarvamasyānnaṃ bhavati |*) (Jya. U. 1-2-5) **NOTE**
+
+Prajāpati began to devour again all that he himself had produced. The whole universe is food to him. As is described in such sentences, so it is stated in the present context also. The time when he offered the world to himself in the form of an oblation is the time of dissolution. At this time death covers the whole universe. Then Īśvara is without a second. He wishes to have a second again. The time of the contraction of the world too is not eternal; it must expand. For the world covered by death to expand, the resolve of Īśvara is absolutely necessary. As soon as this resolve is made, expansion follows again. By the words आशिषा द्रविण मिच्छमानः (*āśiṣā draviṇa micchamānaḥ*) this resolve of Īśvara is also indicated. The expansion of the world covered by death and its stages are described in one place in one way and in another place in another way. In the Bṛhadāraṇyaka Upaniṣad there is the following account.
+
+नैवेह किंचनाग्र आसीन्मृत्यु नैवेदमावृतमासीत् । अशनाययाशनाया हि मृत्युस्तन्मनोऽकुरुतात्मन्वीस्यामिति । सोऽर्चन्नचरत्तस्यार्चत आपोऽजायंतार्चते वै कमभूदिति............ ॥ (*naiveha kiṃcanāgra āsīnmṛtyu naivedamāvṛtamāsīt | aśanāyayāśanāyā hi mṛtyustanmano 'kurutātmanvīsyāmiti | so 'rcannacarattasyārcata āpo 'jāyaṃtārcate vai kamabhūditi............ ‖*) (Bṛ. U. 1-2-1)
+
+### Printed p. 184
+
+At the beginning everything was empty. Everything was covered by death alone. This death was a hunger-like desire. Then it wished to become conscious. When it moved with this wish, water came into being. It became a venerable thing.
+
+सोऽकामयत द्वितीयो म आत्मा जायेतेति स मनसा वाचं मिथुनं समभवदशनाया मृत्युस्तद्यद्रेत आसीत्स संवत्सरोऽभवत् । न ह पुरा ततः संवत्सर आस । तमेतावंतं कालमबिभः । यावत्संवत्सरस्तमेतावतः कालस्य परस्तादसृजत । तं जातमभिव्याददात्स भाणकरोऽस्य वागभवत् ॥ (*so 'kāmayata dvitīyo ma ātmā jāyeteti sa manasā vācaṃ mithunaṃ samabhavadaśanāyā mṛtyustadyadreta āsītsa saṃvatsaro 'bhavat | na ha purā tataḥ saṃvatsara āsa | tametāvaṃtaṃ kālamabibhaḥ | yāvatsaṃvatsarastametāvataḥ kālasya parastādasṛjata | taṃ jātamabhivyādadātsa bhāṇakaro 'sya vāgabhavat ‖*) (Bṛ. U. 1-2-4)
+
+That death wished that a second form should be produced from it. Then that same death brought speech and mind together. The seed born from this union of speech and mind took the form of the year. Before this there was no principle called the year. Then for the length of a year it bore it. When the year was produced, death opened its mouth to devour it. Then the year, in the form of an infant, made the sound भाण् (*bhāṇ*). This became speech. (स यद्यदेवासृजत तत्तदत्तुमध्रियत (*sa yadyadevāsṛjata tattadattumadhriyata*): it began to devour all that it had produced. The whole world produced became food for it.)
+
+स तया वाचा तेनात्मनेदं सर्वमसृजत (*sa tayā vācā tenātmanedaṃ sarvamasṛjata*) (Bṛ. U. 1-2-5)
+
+Thus the nature of the expansion of the world covered by death is described: all the principles of the world were produced by this union of speech and mind. That death too which pervades the world has been created by the supreme Brahman himself. How is that? Thus:
+
+प्रजापतिः प्रजा असृजत । स ऊर्ध्वोभ्य एव प्राणेभ्यो देवानसृजत । येऽर्वांचः प्राणास्तेभ्यो मर्त्याः प्रजा अथोर्ध्वमेव मृत्युं प्रजाभ्योत्तारमसृजत । (*prajāpatiḥ prajā asṛjata | sa ūrdhvobhya eva prāṇebhyo devānasṛjata | ye 'rvāṃcaḥ prāṇāstebhyo martyāḥ prajā athordhvameva mṛtyuṃ prajābhyottāramasṛjata |*) (Śa. Brā. 10-1-3-1)
+
+Prajāpati created beings. From the upper breaths he created the gods, and from the lower breaths mortal men. Then, in order to devour the beings created by himself, he at once produced death as well. Thus creation and dissolution go on alternately and without a break. This very dissolution is described in the present context as a sacrifice in the form of an oblation. Sāyaṇa, explaining this very thing, says that Viśvakarman, the supreme Lord, offering these worlds
+
+### Printed p. 185
+
+in the form of an oblation at the time of dissolution, withdrawing into himself these seven worlds beginning with the earth, is the seer, who sees beyond the senses, the Hotṛ, the doer of the offering in the form of dissolution. Viśvakarman, the supreme Lord, offering into himself this whole world created by himself (the seven worlds beginning with the earth) in the form of an oblation, is the doer of the offering in the form of dissolution, omniscient and without a second: this is the purport of the sentence, he has stated.
+
+The Lord, who is without a second, cannot remain so for ever. In order to have a second, desire arises in him as well. That very thing is stated in the present Ṛk: आशिषा द्रविणमिच्छमानः । पुनः पुनः सिसृक्षया जगद्योगमाकांक्षमाणः । (*āśiṣā draviṇamicchamānaḥ | punaḥ punaḥ sisṛkṣayā jagadyogamākāṃkṣamāṇaḥ |*). It is stated that he again wishes the enjoyment of the world and wishes to begin creation, and that he also enters into all the things created by himself (प्रथममृच्छत् (*prathamamṛcchat*); अवरान् आविवेश (*avarān āviveśa*)).
+
+The order of the desire (kāma) by which Īśvara wished to become one with a second, and the order in which he spread out the world and, expanding together with it, became the inner controller of all, are told in the Taittirīya Āraṇyaka as follows.
+
+आपो ना इदमासन्स्तिलमेव । स प्रजापतिरेकः पुष्करपर्णॆ समभवत् । तस्यांतर्मनसि कामस्समवर्तत । इदग्ं सृजेय मिति । तस्माद्यत्पुरुषो मनसाभिगच्छति । तद्वाचा वदति । तत्कर्मणा करोति । तदेषाभ्यनूक्ता । (*āpo nā idamāsanstilameva | sa prajāpatirekaḥ puṣkaraparṇè samabhavat | tasyāṃtarmanasi kāmassamavartata | idagṃ sṛjeya miti | tasmādyatpuruṣo manasābhigacchati | tadvācā vadati | tatkarmaṇā karoti | tadeṣābhyanūktā |*) (Tai. Ā. 1-23-1)
+
+Before creation the whole universe was covered with water. On that water, on a lotus leaf, Prajāpati stood alone. Then in his mind arose the desire (kāma) to create the universe. This followed the worldly order. When desire (wish) arises in a man, he expresses that wish in speech, and he brings that wish to its end in his action. Prajāpati too followed this same worldly order.
+
+कामस्तदग्रे समवर्तताधि । मनसो रेतः प्रथमं यदासीत् । सतो बंधुमसति निरविंदन् । हृदि प्रतीष्या कवयो मनीषेति । उपैनं तदुप. नमति । यत्कामो भवति । य एवं वेद । (*kāmastadagre samavartatādhi | manaso retaḥ prathamaṃ yadāsīt | sato baṃdhumasati niraviṃdan | hṛdi pratīṣyā kavayo manīṣeti | upainaṃ tadupa. namati | yatkāmo bhavati | ya evaṃ veda |*) (Śrī. Ā. 1-23-2) **NOTE**
+
+To Prajāpati first arose desire (the wish for the creation of the world). It became the first seed of the mind. The wise poets (the breaths of Prajāpati) tried to understand the secret of this seed by their inner power
+
+### Printed p. 186
+
+and understood that this seed, in the form of desire, is the binding material between being and non-being. In this way all who wish to know go to those who know such a secret of the principle and take refuge with them.
+
+स तपोऽतप्यत । स तपस्तप्त्वा । शरीरमधूनुत । तस्य यन्मार्गं समासीत् (*sa tapo 'tapyata | sa tapastaptvā | śarīramadhūnuta | tasya yanmārgaṃ samāsīt*)
+
+As soon as that wish arose, Prajāpati practised deep austerity. Afterwards he shook his body.
+
+ततोऽरुणाः केतवो वातरशना ऋषय उदतिष्ठन् । ये नखाः ते वैखानसाः । ये वालाः । ते वालखिल्याः । यो रसः । सोऽपां । अंतरतः कूर्मंभूतग्ं सर्पंतं । (*tato 'ruṇāḥ ketavo vātaraśanā ṛṣaya udatiṣṭhan | ye nakhāḥ te vaikhānasāḥ | ye vālāḥ | te vālakhilyāḥ | yo rasaḥ | so 'pāṃ | aṃtarataḥ kūrmaṃbhūtagṃ sarpaṃtaṃ |*) (Trai. Ā. 1-23-2,3) **NOTE**
+
+From this shaken body of Prajāpati arose three groups of seers named Aruṇa, Ketu and Vātaraśana. His nails became known as the Vaikhānasa seers, and his hairs as the Vālakhilyas. The essence of his body took the form of a tortoise moving within the water.
+
+तमब्रवीत् । मम वै त्वङ्मागांसा । समभूत् । नेत्यब्रवीत् । पूर्वमेवाहमिहासमिति । तत्पुरुषस्य पुरुषत्वं । स सहस्रशीर्षा पुरुषः । सहस्राक्षस्सहस्रपात् । भूत्वो दतिष्ठत् । (*tamabravīt | mama vai tvaṅmāgāṃsā | samabhūt | netyabravīt | pūrvamevāhamihāsamiti | tatpuruṣasya puruṣatvaṃ | sa sahasraśīrṣā puruṣaḥ | sahasrākṣassahasrapāt | bhūtvo datiṣṭhat |*) (Tai. Ā. 1-23.3,4)
+
+Prajāpati said to that tortoise, which moved within the water: "You have arisen from my skin and my flesh." The tortoise answered: "I have not newly arisen; I have been here from time without beginning." Because it had existed from before, it became named Puruṣa. Then a Puruṣa with a thousand heads, a thousand eyes and a thousand feet appeared and stood up.
+
+तमब्रवीत् । त्वं वै पूर्वग्ं समभूः । त्वमिदं पूर्वः कुरुष्टेति । स इत आदायापः । अंजलिना पुरस्तादुपादधात् । एवाह्येवेति । तत आदित्य उदितिष्ठत् । सा प्राची दिक् । अथारुणः केतुर्दक्षिणत उपादधात् । एवाह्यग्न इति । ततो ना अग्नि रुदतिष्ठत् । सा दक्षिणा दिक् । अथारुणः केतुः पश्चादुपादधात् । एवा हि वायो इति । ततो वायुरुदतिष्ठत् । सा प्रतीची दिक् । अथारुणः । केतुरुत्तरत उपाददात् । एवाहींद्रेति । ततो ना इंद्र उदतिष्ठत् । सोदीची दिक् । अथारुणः केतुर्मध्य उपादधात् । एवा हि पूषन्निति । ततो वै पूषोदतिष्ठत् । सेयं दिक् । अथारुणः केतुरुपरिष्टादुपादधात् । एवा हि देवा इति । (*tamabravīt | tvaṃ vai pūrvagṃ samabhūḥ | tvamidaṃ pūrvaḥ kuruṣṭeti | sa ita ādāyāpaḥ | aṃjalinā purastādupādadhāt | evāhyeveti | tata āditya uditiṣṭhat | sā prācī dik | athāruṇaḥ keturdakṣiṇata upādadhāt | evāhyagna iti | tato nā agni rudatiṣṭhat | sā dakṣiṇā dik | athāruṇaḥ ketuḥ paścādupādadhāt | evā hi vāyo iti | tato vāyurudatiṣṭhat | sā pratīcī dik | athāruṇaḥ | keturuttarata upādadāt | evāhīṃdreti | tato nā iṃdra udatiṣṭhat | sodīcī dik | athāruṇaḥ keturmadhya upādadhāt | evā hi pūṣanniti | tato vai pūṣodatiṣṭhat | seyaṃ dik | athāruṇaḥ keturupariṣṭādupādadhāt | evā hi devā iti |*)
+
+### Printed p. 187
+
+ततो देव- मनुष्याः पितरः । गंधर्वाप्सरसश्चोदतिष्ठन् । सोध्वा दिक् । या विपुषो विपरापतन् । ताभ्योऽसुरा रक्षागंसि पिशाचाश्चोदतिष्ठन् । तस्मात्ते पराभवन् । विपुड्भो हि ते समभवन् । तदेषाभ्यनूक्ता ॥ (*tato deva- manuṣyāḥ pitaraḥ | gaṃdharvāpsarasaścodatiṣṭhan | sodhvā dik | yā vipuṣo viparāpatan | tābhyo 'surā rakṣāgaṃsi piśācāścodatiṣṭhan | tasmātte parābhavan | vipuḍbho hi te samabhavan | tadeṣābhyanūktā ‖*) (Kai. Ā. 1-23-4, 5, 6, 7) **NOTE**
+
+O Puruṣa, if you were produced before me, then you are lord over me too. Do you perform this work of creation. Saying this, he took water in the hollow of his hand and offered it in front. (In एवा हि देवा (*evā hi devā*) the first word एव (*eva*) means the desired object, desire, and the second एव (*eva*) is meant to be Āditya, according to the commentators.) Then, as soon as the mantra एवाह्येव (*evāhyeva*) was recited, Āditya arose. That became the eastern direction. Then Aruṇaketu took water in the hollow of his hand and placed it in the southern part. As soon as the mantra एवाह्यग्ने (*evāhyagne*) was uttered, Agni appeared. That became the southern direction. Then Aruṇaketu took water in the hollow of his hand and placed it in the western part. As soon as the mantra एवा हि वायो (*evā hi vāyo*) was recited, Vāyu arose. That became the western direction. Then Aruṇaketu took water and placed it in the northern part, and as soon as he uttered एवाहींद्र (*evāhīṃdra*), Indra appeared. That became the northern direction. Placing water in the middle, when he recited एवाहि पूषन् (*evāhi pūṣan*), Pūṣan appeared. Then placing water in the upper part, when he uttered एवा हि देवा (*evā hi devā*), from it the gods, men and fathers arose. Together with them the Gandharvas and Apsarases arose. That became the upper direction. On these occasions, from the masses of water that fell in the form of drops, the Rākṣasas and Piśācas appeared. Since they were produced from drops that were not in the form of streams, they did not attain a lasting state. They were defeated. On this matter the Śruti recites thus.
+
+आ पो ह यद्बृहतीर्गर्भमायन् । दक्षं दधाना जनयंतीस्वयंभुं । तत इमेऽध्यसृज्यंत सर्गाः । अद्यो वा इदग्ं समभूत् । तस्मादिदग्ं सर्वं ब्रह्मस्वयंभ्विति। तस्मादिदग्ं सर्वग्ं शिथिलमिवा ध्रुवमिना भवत् । प्रजापतिर्नाव तत् । आत्मनात्मानं विधाय । तदेवानु प्राविशत् । तदेषाभ्यनुक्ता । विधाय लोकान् विधाय भूतानि । विधाय सर्वाः प्रदिशो दिशश्च । प्रजापतिः प्रथमजा ऋतस्य । आत्मनात्मानमभिसंविवेशेति। सर्वमेवेदमाप्त्वा । सर्वमवरुध्य । तदेवानुप्रविशति । य एवं वेद ॥ (*ā po ha yadbṛhatīrgarbhamāyan | dakṣaṃ dadhānā janayaṃtīsvayaṃbhuṃ | tata ime 'dhyasṛjyaṃta sargāḥ | adyo vā idagṃ samabhūt | tasmādidagṃ sarvaṃ brahmasvayaṃbhviti| tasmādidagṃ sarvagṃ śithilamivā dhruvaminā bhavat | prajāpatirnāva tat | ātmanātmānaṃ vidhāya | tadevānu prāviśat | tadeṣābhyanuktā | vidhāya lokān vidhāya bhūtāni | vidhāya sarvāḥ pradiśo diśaśca | prajāpatiḥ prathamajā ṛtasya | ātmanātmānamabhisaṃviveśeti| sarvamevedamāptvā | sarvamavarudhya | tadevānupraviśati | ya evaṃ veda ‖*) (Tai. Ā. 1-23.8,9)
+
+The waters, of vast nature, having obtained increased power and having borne an excellent germ, when they produced Svayambhū, तमिद्गर्भं प्रथमं दध्र आपः (*tamidgarbhaṃ prathamaṃ dadhra āpaḥ*) यत्र देवाः (*yatra devāḥ*)
+
 ---
 
-**Progress note:** Done through printed p. 179. Sūkta 81 introduction pp. 174-178; sūkta 81 bhāṣya, Ṛk 1 start
+**Progress note:** Done through printed p. 187. Sūkta 81 Ṛk 1: bhāṣya end, Pratipadārtha, Bhāvārtha, Special Topics (pp. 180-187)
