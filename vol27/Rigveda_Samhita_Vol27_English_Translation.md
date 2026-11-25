@@ -16054,6 +16054,104 @@ According to some scholars there is no basis in the Ṛksaṃhitā for the view 
 
 (Ṛ. Saṃ. 10-14-8)
 
+### Printed p. 441
+…in which the departed one is addressed. It is told that he, united with the Pitṛs, enjoys in the highest world the fruit that accords with his deeds, and takes up a body suited to it. What does *tanvā* mean here? There is a discussion whether it means a divine body or again an earthly body. Sāyaṇa has explained *ehi* as "come" (आगच्छ (*āgaccha*)). No one can call the departed "come again to this world". Therefore on the strength of this sentence no definite view can be stated about rebirth in the earthly world. And further:
+
+सूर्यं चक्षुर्गच्छतु वातमात्मा द्यां च गच्छ पृथिवीं च धर्मणा । अपो वा गच्छ यदि तत्र ते हितमोषधीषु प्रति तिष्ठा शरीरैः । (*sūryaṃ cakṣurgacchatu vātamātmā dyāṃ ca gaccha pṛthivīṃ ca dharmaṇā | apo vā gaccha yadi tatra te hitamoṣadhīṣu prati tiṣṭhā śarīraiḥ |*) (Ṛ. Saṃ. 10-16-3)
+
+O departed one, may your eye go to the sun; may your breath go to the wind. According to the fruit of your deeds go to the heavenly world, or to the earth, or to the atmosphere. Be united with limbs in the form of plants. Such sentences speak of birth again in the earthly world. But views such as return and rebirth are not stated definitely. This discussion also is not much to the point in this context. This matter, which has arisen incidentally, is only indicated to some extent. If the occasion arises later, the subject will be examined.
+
+**4. The funeral rite for the departed**
+
+After a man has died, one of two rites must be performed: burning the body or burying it. Some hold, from statements such as अग्निदग्धाः अनग्निदग्धाः (*agnidagdhāḥ anagnidagdhāḥ*) (Ṛ. Saṃ. 10-15-14), that both practices were in use. But merely because अनग्निदग्धाः (*anagnidagdhāḥ*) occurs, it cannot be said that this custom was regularly in force. Sāyaṇa has explained this word as श्मशानकर्मरहिताः (*śmaśānakarmarahitāḥ*) ("without the cremation-ground rite"). Where some mishap occurs and there is no opportunity for any rite, the departed has no cremation-ground rite. Therefore it cannot be said on this basis alone that this custom too was in practice. Whether, like the rite of burning, the custom of burying in the earth was also current, must be examined: is there any other support in the Saṃhitā sentences?
+
+उप सर्प मातरं भूमिमेतामुरुव्यचसं पृथिवीं सुशेवां । ऊर्णम्रदा युवतिर्दक्षिणावत एषा त्वा पातु निर्यतेरुपस्थात् ॥ (*upa sarpa mātaraṃ bhūmimetāmuruvyacasaṃ pṛthivīṃ suśevāṃ | ūrṇamradā yuvatirdakṣiṇāvata eṣā tvā pātu niryaterupasthāt ‖*) (Ṛ. Saṃ. 10-18-10)
+
+उत्ते स्तभ्नामि पृथिवीं त्वत्परीमं लोगं निदधन्मो अहं रिषं । एतां स्थूणां पितरो धारयंतु तेऽत्रा यमः सादना! ते मिनोतु ॥ (*utte stabhnāmi pṛthivīṃ tvatparīmaṃ logaṃ nidadhanmo ahaṃ riṣaṃ | etāṃ sthūṇāṃ pitaro dhārayaṃtu te 'trā yamaḥ sādanā! te minotu ‖*) (Ṛ. Saṃ. 10-18-13)
+
+### Printed p. 442
+O dead body, enter this broad earth. This earth is a giver of comfort. She gives a shelter soft as wool. She gives protection from Nirṛti to the excellent sacrificer. Therefore enter her without fear.
+
+O dead body, I push a heap of earth around you. Let no harm come to you. Let no power harm me either. Let the Pitṛs be your supporters. Let Yama make an excellent dwelling for you. In such ways the circumstances of placing the body in the earth like a deposit are described clearly.
+
+माता पुत्रं यथा सिचाभ्येनं भूम ऊर्णुहि (*mātā putraṃ yathā sicābhyenaṃ bhūma ūrṇuhi*) (Ṛ. Saṃ. 10-18-11)
+
+As a mother covers her child with a fine wrapper, so this Mother Earth covers the dead body and gives it protection; thus the safety of the dead body is praised.
+
+Whether the dead body is burned or buried, there are also many rites to be performed before that. If the householder worshipped the consecrated fire before death, the dead body is to be placed near that very fire, purified with cow-dung and covered with seats of darbha grass. There are many proofs that the same rites were in practice in the earlier tradition, in the prescribed manner, just as the injunctions are found in the later Gṛhya Sūtras and the like. (The details of these are not to the point at present.) With the recital of mantras such as अपेत नीत वि च सर्पतातः (*apeta nīta vi ca sarpatātaḥ*) the body is to be conveyed by its relatives as far as the cremation ground. But whether the body was carried on the shoulders or taken on a chariot or the like cannot be said definitely. After going to the cremation ground, the body is to be offered on the fire-pile. If he had worshipped the three fires while alive, the pile is to be in the cremation ground too, in the midst of fires kindled from portions of the household fires (the Dakṣiṇāgni, the Gārhapatya and the Āhavanīya). For the sake of the rite his wife is laid beside him, and then she is told to rise from there.
+
+उदीर्ष्य नारभि जीवलोकं गतासुमेतमुप शेष एहि । हस्तग्राभस्य दिधिषोस्तवेदं पत्युर्जनित्वमभि सं बभूव ॥ (*udīrṣya nārabhi jīvalokaṃ gatāsumetamupa śeṣa ehi | hastagrābhasya didhiṣostavedaṃ patyurjanitvamabhi saṃ babhūva ‖*) (Ṛ. Saṃ. 10-18-8)
+
+O woman, wife of the dead man, you have lain down on the couch beside this husband who took your hand and resolved to die with him. But rise from here, come, and join your sons and others who are living — thus she is directed. After that follow the traditions of the piling of the fire and the like.
+
+### Printed p. 443
+There are proofs that even in preparing the pile for the burning rite a digging rite was performed. Thus:
+
+अथैतां दिशमग्नीन् नयंति (*athaitāṃ diśamagnīn nayaṃti*) । (यस्यां दिशि भूमिभागः खानितः तां दिशमग्नीन् नयंति (*yasyāṃ diśi bhūmibhāgaḥ khānitaḥ tāṃ diśamagnīn nayaṃti*)) (Ā. Gṛ. Sū. 4-2-1) **NOTE**
+
+It says that the fire is to be carried to the region where the fire-pile has been made. At that fire-piling, barhis is to be spread and the wife is to be seated to the north of it: उत्तरतः पत्नीं (*uttarataḥ patnīṃ*) (संवेशयंति (*saṃveśayaṃti*)) (Ā. Gṛ. Sū. 4.2-13). After the wife has been given the direction described above, the fire is to be offered with the actions proper to the respective varṇa. The details of the other rites are not to the point at present. But only some traditions that reflect the Vedic culture may be examined here. By the mantras to be recited at this rite, the protection of the departed one, who has died at the time of the funeral rite, must necessarily be entrusted to Agni. Agni is prayed to carry this departed one to his appointed place without harming him. The course of that prayer is as follows.
+
+मैनमग्ने वि दहो माभि शोचो मास्य त्वचं चिक्षिपो मा शरीरं । यदा शृतं कृणवो जातवेदोऽथेमेनं प्र हिणुतात्पितृभ्यः ॥ (*mainamagne vi daho mābhi śoco māsya tvacaṃ cikṣipo mā śarīraṃ | yadā śṛtaṃ kṛṇavo jātavedo 'themenaṃ pra hiṇutātpitṛbhyaḥ ‖*) (Ṛ. Saṃ. 10-16-1)
+
+O Agni, do not burn him up entirely. Do not harm him. Do not let his body scatter. When you have burned his body fully, he is to be carried to the Pitṛs. After he is fully cooked, this departed one reaches the world of the Pitṛs according to the resolve of the gods. May his eye join the sun. May his self join the wind. O departed one, according to your deeds go to the heavenly world or to the earth. Or dwell in the water or in plants and the like. O Agni, burn up all the parts of the body that remain unburnt. May your radiance burn those parts completely.
+
+इममग्ने चमसं मा वि जिह्वरः प्रियो देवानुमुत सोम्यानां । एष यश्चमसो देवपानस्तस्मिन्देवा अमृता मादयंते ॥ (*imamagne camasaṃ mā vi jihvaraḥ priyo devānumuta somyānāṃ | eṣa yaścamaso devapānastasmindevā amṛtā mādayaṃte ‖*) (Ṛ. Saṃ. 10-16-8)
+
+O Agni, do not shake this cup (camasa) filled with soma, offered here for the Pitṛs who love soma and for the gods. It is a vessel fit for the gods' drinking. By drinking from it the immortal gods rejoice. Thus at the time of the fire-piling there are many prayers for the welfare of the departed. Last of all:
+
+### Printed p. 444
+अस्मात्त्वमधि जातोऽसि त्वदयं जायतां पुनः । आसौ स्वर्गाय लोकाय स्वाहा ॥ (*asmāttvamadhi jāto 'si tvadayaṃ jāyatāṃ punaḥ | āsau svargāya lokāya svāhā ‖*) (Śa. Brā. ga-5-2-15) **NOTE**
+
+O Agni, from him you were born (in the form of the sacrificial fire). By you, so born, may he obtain birth in the excellent divine world — such is the final prayer.
+
+After the fire-piling, the relatives of the dead man withdraw from that place without looking back: इत्यनपेक्षामेत्यप उपस्पृशंति (*ityanapekṣāmetyapa upaspṛśaṃti*) (Śa. Brā. 12-5-2.15). They bathe and perform the remaining rites. (That description too is not to the point at present.) Here another point is noteworthy. There are many proofs that the belief that the dead man, in the form of a departed spirit, wanders for ten days near his relatives has grown up continuously since Vedic times. Purification comes only after the gathering of the bones and the other rites have been performed; till then there is no purification.
+
+The belief that the memorial built in remembrance of the dead man, and the rites to be performed at that memorial, bring satisfaction to the dead man's spirit is also seen in the Vedic tradition.
+
+अथास्मै कल्याणं कुर्वंति । अथास्मै स्मशानं कुर्वंति । गृहान् वा प्रज्ञानं वा यो वै कश्च म्रियते स शवस्तस्मा एतदन्नं करोति...... .... ......॥ (*athāsmai kalyāṇaṃ kurvaṃti | athāsmai smaśānaṃ kurvaṃti | gṛhān vā prajñānaṃ vā yo vai kaśca mriyate sa śavastasmā etadannaṃ karoti...... .... ......‖*) (Śa. Brā. 13-8-1-1).
+
+Then the dead man's kinsmen make efforts so that the departed one may attain a good state. They build a memorial for him. This is the place where food is offered to the dead man. Because it is the place where food is offered to a corpse, this place is also called *śmaśāna*. Or *śmaśana* is also a synonym of *Pitṛs*; since food prepared for them is offered here, it is understood that the name *śmaśāna* arises also from that. Dancing, the playing of instruments such as the flute and similar acts are performed. The belief that whatever things are pleasing to a man living on earth are pleasing also to the dead man is likewise beginningless. Therefore many things such as clothes, ornaments and fruit are offered for the satisfaction of the departed.
+
+Besides the common rites performed for all the dead, certain still more extensive special rites are prescribed for excellent sacrificers. One who has performed the Agnihotra and a knower of Brahman (one who has performed the Brahmamedha) are eligible for special rites. If pregnant women die, a special rite is prescribed for them too. As in the present tradition, the head of an ascetic
+
+### Printed p. 445
+is pierced with a coconut so that his spirit leaves through that Brahmarandhra; this practice is not seen to have existed in the Vedic tradition.
+
+Whatever earthly rite is performed for the satisfaction of the departed, the experience of pleasure and pain of the departed is fixed according to his own deeds. This point becomes clear from the difference of the two paths along which the spirit of the dead travels, called Pitṛyāna and Devayāna.
+
+The course of the individual self (jīvātman) according to its deeds is of two kinds. The path by which a soul goes when it has done good deeds and obtains heaven and other worlds is called Devayāna; the path to be taken by one who has not done good deeds but is engaged in selfish and similar pursuits is called Pitṛyāna. In the Ṛk Saṃhitā too the word Devayāna is well known. For example:
+
+परं मृत्यो अनु परेहि पंथां यस्ते स्व इतरो देवयानात् । चक्षुष्मते शृण्वते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरान् । (*paraṃ mṛtyo anu parehi paṃthāṃ yaste sva itaro devayānāt | cakṣuṣmate śṛṇvate te bravīmi mā naḥ prajāṃ rīriṣo mota vīrān |*) (Ṛ. Saṃ. 10-18-1)
+
+In Ṛks such as this, Devayāna is said to be a path free from death. It is well known that on this path Savitṛ leads the doers of good to the sinless world free from death.
+
+ये ते पंथाः सवितः पूर्व्यासोरेणवः सुकृता अंतरिक्षे । तेभिर्नो अद्य पथिभिः सुगेभी रक्षा च नो अधि च ब्रूहि देव ॥ (*ye te paṃthāḥ savitaḥ pūrvyāsoreṇavaḥ sukṛtā aṃtarikṣe | tebhirno adya pathibhiḥ sugebhī rakṣā ca no adhi ca brūhi deva ‖*) (Ṛ. Saṃ. 1-35-11)
+
+यत्रासते सुकृतो यत्र ते ययुस्तत्र त्वा देवः सविता दधातु । (*yatrāsate sukṛto yatra te yayustatra tvā devaḥ savitā dadhātu |*) (Ṛ. Saṃ. 10-17-4)
+
+In Ṛks such as these, since Savitṛ is the god who leads the doers of good along the good path, he is prayed to lead the sacrificers, the doers of good, along that same path, which is pure, free from dust and free from death. In the Upaniṣads this path is called the path beginning with the flame (arcirādi). This path is described as one on which the doers of good who have reached Brahmaloka after death do not return:
+
+तत्पुरुषोऽमानवः स एवान्यह्म गमयत्येष देवपथो ब्रह्मपथ एतेन प्रतिपद्यमाना इमं मानवमावर्तं नावर्तंते नावर्तंते । (*tatpuruṣo 'mānavaḥ sa evānyahma gamayatyeṣa devapatho brahmapatha etena pratipadyamānā imaṃ mānavamāvartaṃ nāvartaṃte nāvartaṃte |*) (Bhā. U. 4-15-5) **NOTE**
+
+The person of lightning (the non-human one) leads this doer of good to Brahmaloka. This is the way to Brahmaloka. Those who have reached Brahmaloka by this path do not return. This is certain — thus it says.
+
+### Printed p. 446
+The same idea is described in the same way in the Muṇḍaka Upaniṣad also, and is stated just as in the present Ṛk. There:
+
+सूरद्वारेण ते विरजाः प्रयांति यत्रामृतः स पुरुषो ह्यव्ययात्मा । (*sūradvāreṇa te virajāḥ prayāṃti yatrāmṛtaḥ sa puruṣo hyavyayātmā |*) (Mu. U. 1.11) **NOTE**
+
+— this is what is said in the sentences describing the door of the sun. For those who reach Brahmaloka by Devayāna there is no return. But even those who reach the moon-world by the smoke path (Pitṛyāna), though they are doers of good, enjoy their good deeds there, and when that ends they come again to the earth. There are many differing views in the descriptions of Devayāna and Pitṛyāna; they are not so necessary at present. In the present Ṛk it is told that one who is united with a body and performs deeds in accordance with his own impressions has two kinds of passage. In the Bṛhadāraṇyaka this is said:
+
+वेत्तो देवयानस्य वा पथः प्रतिपदं पितृयाणस्य वा यत्कृता देवयानं वा पंथानं प्रतिपद्यंते पितृयाणं वापि ऋषेर्वचः श्रुतं द्वे सृती अशृणवं पितृणामहं देवानामुत मर्त्यानां ताभ्यामिदं विश्वमेजत्समेति यदंतरा पितरं मातरं च इति ॥ (*vetto devayānasya vā pathaḥ pratipadaṃ pitṛyāṇasya vā yatkṛtā devayānaṃ vā paṃthānaṃ pratipadyaṃte pitṛyāṇaṃ vāpi ṛṣervacaḥ śrutaṃ dve sṛtī aśṛṇavaṃ pitṛṇāmahaṃ devānāmuta martyānāṃ tābhyāmidaṃ viśvamejatsameti yadaṃtarā pitaraṃ mātaraṃ ca iti ‖*) (Bra. U. 6-2-2) **NOTE**
+
+When Pravāhaṇa Jaibali asked Śvetaketu, "Do you know the path that leads to the world of the gods, or have you understood the path that leads to the world of the Pitṛs?", he said no. Then Jaibali taught the sage's words: "There is one path that carries to the world of the Pitṛs; there is one path that carries to the world of the gods. These two are the paths that mortals travel after death. On these paths, which lie beyond heaven and earth, all moving beings travel."
+
+**5. Pitṛ-śrāddha**
+
+Just as by performing sacrifice one offers oblations to the gods, satisfies them and seeks to obtain their favour, so one of the aims of the worship of the Pitṛs is to perform śrāddha and the like, offer piṇḍas and the like to the Pitṛs, and when they are satisfied, to obtain favour from them. Just as the gods are called to help in obtaining worldly wealth, the Pitṛs too are called.
+
+स्वादुषंसदः पितरो वयोधाः कृच्छ्रश्रितः शक्तीवंतो गभीराः । चित्रसेना इषुबला अमृध्राः सतोवीरा उरवो व्रातसाहाः ॥ (*svāduṣaṃsadaḥ pitaro vayodhāḥ kṛcchraśritaḥ śaktīvaṃto gabhīrāḥ | citrasenā iṣubalā amṛdhrāḥ satovīrā uravo vrātasāhāḥ ‖*) (Ṛ. Saṃ. 6, 75. 9)
+
 ---
 
-**Progress note:** Done through printed p. 440. pp. 435-440 (batch API)
+**Progress note:** Done through printed p. 446. pp. 441-446 (batch API)
