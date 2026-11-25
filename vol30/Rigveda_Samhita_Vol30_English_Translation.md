@@ -20404,6 +20404,194 @@ O Indra, you नि दधिषे (*ni dadhiṣe*), that is, deposit, in the h
 - अवरं (*avaraṃ*)—the lesser wealth relating to the earth
 - परं च (*paraṃ ca*)—and the superior, of the heavenly world
 
+### Printed p. 622
+(The Pratipadārtha of the previous Ṛk continues:) …the greater wealth of the supreme heaven. नि दधिषे (*ni dadhiṣe*)—you set it down, provide it. जिगत्नू (*jigatnū*)—the trembling ones. मातरा (*mātarā*)—heaven and earth, the birthplace of all beings. आ स्थापयसे (*ā sthāpayase*)—you establish them firmly in their places (O Indra). अतः (*ataḥ*)—therefore. पुरूणि (*purūṇi*)—manifold. कर्वरा (*karvarā*)—worldly and Vedic rites. इनोषि (*inoṣi*)—you obtain.
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the house of the sacrificer with whose food in the form of the oblation he offers you are pleased, you provide and keep, in that sacrificer's house, the lesser wealth that belongs to the earth and the greater wealth of the heavenly world, wealth and the like. You have firmly established heaven and earth, the birthplace of all beings, which do not stand still but tremble, so that they do not move. Therefore, O Indra, you are worshipped in all kinds of Vedic and worldly rites.
+
+##### English translation
+You deposit the lesser and the greater wealth in the mansion in which you are satisfied with food; you fix the two wandering mothers, you accomplish many works.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा ब्रह्म॑ बृ॒हद्दि॑वो विव॒क्तींद्रा॑य शू॒षम॑ग्रि॒यः स्व॒र्षाः ।  
+> म॒हो गो॒त्रस्य॑ क्षयति स्व॒राजो॒ दुर॑श्च॒ विश्वा॑ अवृणो॒दप॒  
+> स्वाः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमा । ब्रह्म । बृहत्ऽदिवः । विवक्ति । इंद्राय । शूषं । अग्रियः । स्वऽसाः ।  
+> महः । गोत्रस्य । क्षयति । स्वऽराजः । दुरः । च । विश्वाः । अवृणोत् । अप । स्वाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहद्दिव ऋषिरिमेमानि ब्रह्म ब्रह्माणींद्राय शूषं सुखं यथा भवति तथा
+> विवक्ति । प्रब्रवीतीत्यात्मन एव परोक्षनिर्देशः ॥ वच परिभाषणे आदादिकः । छांदसः
+> शपः श्लुः । बहुलं छंदसीत्यभ्यासस्यॆत्वं ॥ ऋषिर्विशेष्यते । अग्रियोऽग्रे भवः ।
+> ऋषीणां प्रमुखः श्रेष्ठ इत्यर्थः ॥ घच्छौ च । पा. ४-४-११७ । इत्यग्रशब्दाद्भवार्थे
+
+##### Gist of the bhāṣya
+
+The seer Bṛhaddiva says: "these prayers (brahma) he recites for Indra, so that it is pleasing (śūṣa, happiness)". The statement about himself is made in the third person (parokṣa). The verb विवक्ति (*vivakti*) is from the root vac, "to speak". The seer is qualified: अग्रियः (*agriyaḥ*) is "born first"; he is foremost and best among seers.
+
+### Printed p. 623
+
+> घच् ॥ स्वर्षाः स्वर्गस्य संभक्ता । यद्वा । स्वरादित्य इंद्रः । असौ वा आदित्य इंद्र इति
+> श्रुत्यंतरात् । तस्य संभक्ता सेवक इत्यर्थः ॥ वन षण संभक्तौ । जनसनखनक्रमगमो
+> विट् । विड्वनोरनुनासिकस्यादित्वात्वं । सनोतेरन इति षत्वं ॥ य इंद्रो महो
+> महतो गोत्रस्य पर्वतस्य वलेनासुरेण गवां विधानार्थं निहितस्य स्वराजः स्वयमेव राजमानस्य ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुथ्यर्थे
+> षष्ठी ॥ ईदृशं पर्वतं क्षयति अपगमयति ॥ क्षि क्षये भौवादिकः ॥ यद्वा ॥
+> गोशब्दात्समूहार्थ इनित्रकट्यचश्च । पा. ४-२-५१ । इति प्रप्रत्ययः ॥ गोत्रस्य
+> गोसमूहस्य महो महतः स्वराजः स्वयमेव राजमानस्य य इंद्रः क्षयति
+> ईष्टे । क्षयतिरैश्वर्यकर्मा ॥ स्वशब्दोपपदाद्राजतेः सत्तूद्विषेति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वं ॥ दुरश्च बिलद्वाराणि च विश्वाः सर्वाः स्वा वलासुरस्य स्वभूता
+> अपावृणोत् । अपगतावरणा अकरोत् । उद्घाटितवानित्यर्थः । यद्वा । दुरश्चापावृणोत् विश्वाः सर्वाः स्वाः स्वभूता गा बिलमध्यॆ वर्तमाना अलभतेति शेषः ।
+> एवंभूतो य इंद्रस्तस्मा इंद्राय विवक्तित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+स्वर्षाः (*svarṣāḥ*) is the one who shares in heaven. Or else svar means the sun, Indra, on the authority of another śruti: "that sun is Indra"; the seer is his devotee or servant. The Indra who "rules" (kṣayati) the great mountain (gotra), in which the asura Vala had hidden the cattle to keep them, and which shines of itself (svarāj): the genitive stands for the dative, because the action must take its object as recipient. Such a mountain he makes go away (kṣayati, from kṣi in the sense of "to destroy"). Or else: with the word go and the suffix of collection (Pā. Sū. 4-2-51) गोत्रस्य (*gotrasya*) means "of the herd of cattle"; the great, self-shining herd is ruled (īṣṭe) by Indra; kṣayati has the sense of lordship. दुरश्च (*duraśca*): the doors, the openings of the cave; विश्वाः सर्वाः (*viśvāḥ sarvāḥ*): all of Vala's own possessions. He opened them (uncovered, unlocked). Or else: he opened the doors and obtained all the cows, his own, that were within the cave (the verb "obtained" is to be supplied). The construction: to this Indra he recites (विवक्ति (*vivakti*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहद्दिवः (*bṛhaddivaḥ*)—the seer of this sūkta, called Bṛhaddiva
+- अग्रियः (*agriyaḥ*)—the chief of all
+- स्वर्षाः (*svarṣāḥ*)—the one who is of the sun's nature, which Indra
+- महः (*mahaḥ*)—great
+- स्वराजः (*svarājaḥ*)—shining
+- गोत्रस्य (*gotrasya*)—the mountain (the mountain cave)
+- क्षयति (*kṣayati*)—approached and advanced on
+- दुरः च (*duraḥ ca*)—and the closed doors of that cave
+- अप अवृणोत् (*apa avṛṇot*)—opened
+- विश्वाः (*viśvāḥ*)—all (hidden in the cave)
+- स्वाः (*svāḥ*)—his own cows
+- अलभत (*alabhata*)—obtained and brought; for such
+- इंद्राय (*iṃdrāya*)—for the sake of Indra
+- इमा ब्रह्माणि (*imā brahmāṇi*)—these hymns
+- शूषं (*śūṣaṃ*)—so that it is pleasing (to Indra)
+- विवक्ति (*vivakti*)—he recites
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who is the leader of all and of the sun's nature approached the cave of the great mountain, opened its doors and released all the cows of the gods hidden there. For the sake of that Indra, the seer of this sūkta, Bṛhaddiva, recites these hymns and offers them, so that they are beneficial to Indra.
+
+##### English translation
+Brihaddiva, the chief (of Rishis), the servant of the sun, repeats these prayers to gratify Indra. (Indra) rules over the great self-ruling herd of cattle, and he opened all his doors.
+
+### Printed p. 624
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा म॒हान्पृ॒हद्दि॑वो॒ अथ॒र्वावो॑च॒त्स्वां त॒न्व१॒॑ ग मिंद्र॑मे॒व।  
+> स्वसा॑रो मात॒रिभ्य॑रीररि॒प्रा हि॒न्वंति॑ च॒ शव॑सा व॒र्धयं॑ति च ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । महान् । बृहत्ऽदिवः । अथर्वा । अवोचत् । स्वां । तन्वं । इंद्रं । एव ।  
+> स्वसारः । मातरिभ्वरीः । अरिप्राः । हिन्वंति । च । शवसा । वर्धयंति । च ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महान्गुणैरधिकोऽथर्वा । उपचाराज्जन्ये जनकशब्दः । अथवर्णः पुत्रो
+> बृहद्दिवाख्य ऋषिर्देवेषु मध्य इंद्रमेव प्रति स्वामात्मीयां तन्वं विस्तृतां
+> स्तुतिमेवमवोचत् । प्रोक्तवान् ॥ वचेर्लुङ्ज्यस्यतिवक्तित्यादिना चेरणादेशः ।
+> वच उमित्युमागमः । पादादित्वान्न निहन्यते ॥ अपि चैनमेवेंद्रं मारिभ्वरीर्मातरि
+> सकलस्य भूतजातस्य निर्मात्र्यां भूमौ भवंत्यो वर्तमानाः ॥ भवतेरन्येभ्योऽपि
+> दृश्यंत इति वनिप् । वनो र चेति जीब्रेफौ । जसि वा छंदसीति पूर्वसवर्णदीर्घः ।
+> पृषोदरादित्वाद्दर्णलोपः ॥ अरिप्रा अपापाः स्वसारः स्वयमेव सरंत्यः परस्परं
+> भगिन्यो ना गंगाद्या नद्यो हिन्वंति । यागसाधनत्वेन प्रीणयंति ॥ हिविः प्रीणनार्थः । भौवादिकः । व्यत्ययेन शः । इदित्वान्नुम् । यद्वा । हि गतौ वृद्धौ च ।
+> स्वादिभ्यः श्नुः ॥ वृष्ट्यर्थं तमिंद्रमुपगच्छंति । गत्वा च शवसा यागजन्येन बलेन
+> तं वर्धयंति च ॥
+
+##### Gist of the bhāṣya
+
+महान् (*mahān*) means "eminent in qualities". अथर्वा (*atharvā*): by transference the word for the father is used for the son: the son of Atharvan, the seer called Bṛhaddiva, among the gods spoke thus to Indra alone his own "body" (tanū), that is his extended praise. अवोचत् (*avocat*): he declared. (The rest of the sentence gives the grammar.) Moreover, the rivers: मातरिभ्वरीः (*mātaribhvarīḥ*) are those that exist on the earth, the mother, the maker of all beings. अरिप्राः (*ariprāḥ*) are the sinless; स्वसारः (*svasāraḥ*) are those that flow of themselves, or are sisters to one another: the Gaṅgā and other rivers. हिन्वंति (*hinvaṃti*): they please him by being the means of the sacrifice. The root hi is for pleasing; or else hi in the sense of motion and growth. For rain they go to Indra, and having gone they make him grow with the strength (śavas) produced by the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महान् (*mahān*)—one endowed with great qualities
+- अथर्वा (*atharvā*)—the son of Atharvan
+- बृहद्दिवः (*bṛhaddivaḥ*)—the seer called Bṛhaddiva
+- इंद्रमेव (*iṃdrameva*)—addressing Indra alone
+- स्वां (*svāṃ*)—composed by himself
+- तन्वं (*tanvaṃ*)—this extended hymn
+- अवोचत् (*avocat*)—has recited
+- मातरिभ्वरीः (*mātaribhvarīḥ*)—those that flow on the earth, the birthplace of all beings
+- अरिप्राः (*ariprāḥ*)—the sinless
+- स्वसारः (*svasāraḥ*)—those that flow of their own impulse, or are like sisters to one another, the rivers Gaṅgā and others
+- इंद्रं (*iṃdraṃ*)—Indra
+- हिन्वंति (*hinvaṃti*)—they delight (with the means of the sacrifice)
+
+### Printed p. 625
+- शवसा (*śavasā*)—with strength connected with the sacrifice
+- वर्धयंति च (*vardhayaṃti ca*)—and they also make him grow
+
+##### भावार्थ (Bhāvārtha)
+
+Bṛhaddiva, the seer of this sūkta, eminent in qualities and son of the seer Atharvan, among all the gods addressed Indra alone, reciting and offering this extended praise composed by himself. The rivers such as the Gaṅgā, which flow on this earth, the cause of the birth of all beings, which destroy sin, flow of their own impulse or are like sisters to each other, delight Indra (with the sacrificial materials such as darbha grass and soma creeper that grow on their banks). By the rites performed in the sacrifice and by hymns and the like, they increase Indra's power and capacity.
+
+##### English translation
+Thus the great Brihaddiva, son of Atharvan, repeated his diffiused (praise) to Indra. The unsullied sister (streams) abiding in the mother (earth), go to Indra, and augment him with strength.
+
+## Sūkta 121 (Maṇḍala 10)
+**Introduction**
+For this sūkta the deity is stated to be कशब्दाभिधेयः प्रजापतिर्देवता (*kaśabdābhidheyaḥ prajāpatirdevatā*), that is, Prajāpati, known by the name Ka. As to why Prajāpati got the name Kaḥ, there is a story in the Aitareya Brāhmaṇa (Ai. Brā. 12-21):
+इंद्रो वृत्रं हत्वा सर्वा विजितीर्विजित्याब्रवीत्प्रजापतिमहमेतदसानि यत्त्वमहं महानसानीति स प्रजापतिरब्रवीदथ कोs हमिति यदैवैतद वोच इत्यब्रवीत्ततो वै को नाम प्रजापतिरभवक्को वै नाम प्रजापतिर्यन्महानिंद्रोऽभवत्तन्महेंद्रस्य महेंद्रत्वं ॥ (*iṃdro vṛtraṃ hatvā sarvā vijitīrvijityābravītprajāpatimahametadasāni yattvamahaṃ mahānasānīti sa prajāpatirabravīdatha kos hamiti yadaivaitada voca ityabravīttato vai ko nāma prajāpatirabhavakko vai nāma prajāpatiryanmahāniṃdro 'bhavattanmaheṃdrasya maheṃdratvaṃ ‖*) (Ai. Brā. 12-21)
+Formerly, after Indra killed Vṛtra, he conquered all the regions of the earth, and said to Prajāpati: "O Prajāpati, you have now gained a great station and are honoured. Henceforth I want your great position." To that Prajāpati
+
+### Printed p. 626
+said: "If you take my position, then I, having lost it, who (kaḥ) shall I be? What will be my standing?" Indra replied: "O Prajāpati, as you have just said, your name will henceforth be Kaḥ (Who), that is, you will be denoted by the word ka." Therefore from that time Prajāpati became denoted by the word ka; that is, the name Ka became established for Prajāpati. For that reason this matter is stated in the pratigraha mantras that are recited when one accepts any gift, namely: क इदं कस्मा अदादित्याह । प्रजापतिर्वै कः । प्रजापतॆय एव तद्ददाति (*ka idaṃ kasmā adādityāha | prajāpatirvai kaḥ | prajāpatèya eva taddadāti*) — a Brāhmaṇa sentence of other Vedas. Since the word ka also means happiness, in matters and affairs connected with Prajāpati he is said to be of the nature of happiness. Because Indra accepted the greatness of Prajāpati in this way, the designation Mahān came to Indra; that is, Indra became Mahendra. This is also stated in other Vedas: इंद्रो वृत्रमहन्तं देवा अब्रुवन्महान्वा आयमभूद्यो वृत्रमवधीदिति तन्महेंद्रस्य महेंद्रत्वं (*iṃdro vṛtramahantaṃ devā abruvanmahānvā āyamabhūdyo vṛtramavadhīditi tanmaheṃdrasya maheṃdratvaṃ*) — the gods praised him thus: since Indra killed Vṛtra he became Mahendra (gained the position of greatness); that is, Indra became the best of all the gods. This is said to be the reason why Indra got the name Mahendra.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्यगर्भ इति दशर्चं नवमं सूक्तं प्रजापतिपुत्रस्य हिरण्यगर्भाख्यस्यार्षं
+> त्रैष्टुभं । कशब्दाभिधेयः प्रजापतिर्देवता । तथा चानुक्रांतं । हिरण्यगर्भो दश
+> हिरण्यगर्भः प्राजापत्यः कायमिति ॥ गतः सूक्तविनियोगः ॥ प्राजापत्यस्य पशोर्वपापुरोडाशहविषां क्रमेणादितस्तिस्रोऽनुवाक्यास्ततिस्तिस्रो याज्याः । सूत्रितं च ।
+> हिरण्यगर्भः समवर्तताग्र इति षट् प्राजापत्याः । आ. ३-८ । इति ॥ वरुणप्रघासेषु
+> कायस्य हविषो हिरण्यगर्भ इत्येषा याज्या । सूत्रितं च । कयानश्चित्र आ भुवद्धिरण्यगर्भः समवर्तताग्र इति प्रतिप्रस्थाता वाजिने तृतीयः । आ. २-१७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta हिरण्यगर्भ (*hiraṇyagarbha*) is of ten Ṛks, the ninth sūkta; its seer is Hiraṇyagarbha, son of Prajāpati; metre triṣṭubh; the deity is Prajāpati, denoted by the word ka. So the Anukramaṇī: हिरण्यगर्भो दश हिरण्यगर्भः प्राजापत्यः कायमिति (*hiraṇyagarbho daśa hiraṇyagarbhaḥ prājāpatyaḥ kāyamiti*). Use of the sūkta: in the animal sacrifice to Prajāpati, for the oblations of vapā, puroḍāśa and havis, the first three Ṛks are anuvākyās in order, and the next three are yājyās. It is stated in the sūtra: हिरण्यगर्भः समवर्तताग्र इति षट् प्राजापत्याः (*hiraṇyagarbhaḥ samavartatāgra iti ṣaṭ prājāpatyāḥ*) (Ā. 3-8). In the Varuṇapraghāsa offerings, for the oblation to Ka, the verse हिरण्यगर्भ (*hiraṇyagarbha*) is the yājyā. It is stated in the sūtra: कयानश्चित्र आ भुवद्धिरण्यगर्भः समवर्तताग्र इति प्रतिप्रस्थाता वाजिने तृतीयः (*kayānaścitra ā bhuvaddhiraṇyagarbhaḥ samavartatāgra iti pratiprasthātā vājine tṛtīyaḥ*) (Ā. 2-17).
+
+##### Anuvāda
+
+This sūkta, हिरण्यगर्भः (*hiraṇyagarbhaḥ*), is the ninth sūkta in the tenth anuvāka. It has ten Ṛks. Its seer is Hiraṇyagarbha, son of Prajāpati; its deity is Prajāpati, known by the name Ka; the metre is triṣṭubh. In the Anukramaṇī it is stated: हिरण्यगर्भो दश हिरण्यगर्भः प्राजापत्यः कायं (*hiraṇyagarbho daśa hiraṇyagarbhaḥ prājāpatyaḥ kāyaṃ*). In the animal sacrifice made to the deity Prajāpati, when vapā, puroḍāśa and havis are offered, the first three Ṛks of this sūkta are to be recited as anuvākyā mantras in order (that is, the first Ṛk for the vapā offering, the second for the puroḍāśa offering, the third for the havis offering), and the next three, the fourth to the sixth, in the same way as yājyā mantras; this is explained by the sūtra of the Āśvalāyana Śrautasūtra हिरण्यगर्भः समवर्तताग्र इति षट् प्राजापत्याः (*hiraṇyagarbhaḥ samavartatāgra iti ṣaṭ prājāpatyāḥ*) (Ā. 3-8). And in the Varuṇapraghāsa sacrifices, in the havis offering made to Prajāpati called Ka, the first Ṛk of this sūkta, हिरण्यगर्भः (*hiraṇyagarbhaḥ*), is to be recited as a yājyā mantra;
+
+### Printed p. 627
+this is explained by the Āśvalāyana Śrautasūtra कया नश्चित्र आ भुवद्धिरण्यगर्भः समवर्तताग्र इति प्रतिप्रस्थाता वाजिने तृतीयः (*kayā naścitra ā bhuvaddhiraṇyagarbhaḥ samavartatāgra iti pratiprasthātā vājine tṛtīyaḥ*) (Ā. 2-17).
+
+Maṇḍala 10; Anuvāka 10; Sūkta 121. Aṣṭaka 8; Adhyāya 7; Vargas 3, 4. Number of Ṛks in the sūkta: 10. Seer: Hiraṇyagarbha Prājāpatya. Deity: Ka. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒र॒ण्य॒ग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत् ।  
+> स दा॑धार पृथि॒वीं द्यामु॒तेमां कस्मै॑ दे॒वाय॑ ह॒विषा॑  
+> विधेम ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्यगर्भः । सं । अवर्तत । अग्रे । भूतस्य । जातः । पतिः । एकः । आसीत् ।  
+> सः । दाधार । पृथिवीं । द्यां । उत । इमां । कस्मै । देवाय । हविषा । विधेम ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्यगर्भो हिरण्यमयस्यांडस्य गर्भभूतः प्रजापतिर्हिरण्यगर्भः । तथा च
+> तैत्तिरीयकं । प्रजापतिर्वै हिरण्यगर्भः प्रजापतेरनुरूपत्वाय । तै. स. ५-५-१-२ ।
+> इति । यद्वा । हिरण्मयोऽंडो गर्भवद्यस्कोदरे वर्तते सोऽसौ सूत्रात्मा
+> हिरण्यगर्भ इत्युच्यते । अग्रे प्रपंचोत्पत्तेः प्राक् समवर्तत । मायाध्यक्षात्सिसृक्षोः परमात्मनः सकाशात्समजायत । यद्यपि परमात्मैव हिरण्यगर्भः तथापि
+
+##### Gist of the bhāṣya
+
+Hiraṇyagarbha is Prajāpati, the one who is the embryo (garbha) of the golden egg. So the Taittirīya: प्रजापतिर्वै हिरण्यगर्भः प्रजापतेरनुरूपत्वाय (*prajāpatirvai hiraṇyagarbhaḥ prajāpateranurūpatvāya*) (Tai. Saṃ. 5-5-1-2). Or else: the golden egg is within whose belly as an embryo, that sūtrātman is called Hiraṇyagarbha. अग्रे (*agre*): before the origination of the manifold world he came into being; he was born from the Supreme Self, who presides over māyā and desires to create. Although the Supreme Self himself is Hiraṇyagarbha, yet…
+
 ---
 
-**Progress note:** Done through printed p. 621. pp. 616-621 (batch API)
+**Progress note:** Done through printed p. 627. pp. 622-627 (batch API)
