@@ -31451,6 +31451,186 @@ The supplementary mantras to be recited at the end of this sūkta:
 > उत ह्रदो हि नो धियोऽग्निर्ददातु भेषजं  
 > ॥ ० ॥
 
+### Printed p. 940
+The supplementary mantras to be recited at the end of this sūkta (continued):
+
+शीतप्रदो हि नो धियोऽग्निर्ददातु भेषजं । (*śītaprado hi no dhiyo 'gnirdadātu bheṣajaṃ |*) अंतिकामग्निमजनय दूर्वादः शशहागमत् ॥ २ ॥ (*aṃtikāmagnimajanaya dūrvādaḥ śaśahāgamat ‖ 2 ‖*)
+
+अजातपुत्रपक्षाया हृदयं मम दूयते । (*ajātaputrapakṣāyā hṛdayaṃ mama dūyate |*) विपुलं वनं बह्वाकाशं चर जातवेदः कामाय ॥ ३ ॥ (*vipulaṃ vanaṃ bahvākāśaṃ cara jātavedaḥ kāmāya ‖ 3 ‖*)
+
+मां च रक्ष पुत्रांश्च शरणमभूत्तव । (*māṃ ca rakṣa putrāṃśca śaraṇamabhūttava |*) पिंगाक्ष लोहितग्रीव कृष्णवर्ण नमोऽस्तु ते ॥ ४ ॥ (*piṃgākṣa lohitagrīva kṛṣṇavarṇa namo 'stu te ‖ 4 ‖*)
+
+अस्मान्निबर्हरस्यॆनां सागरस्योर्मयो यथा । (*asmānnibarharasyènāṃ sāgarasyormayo yathā |*) इंद्रः क्षत्रं ददातु वरुणमभि षिंचतु ॥ ५ ॥ (*iṃdraḥ kṣatraṃ dadātu varuṇamabhi ṣiṃcatu ‖ 5 ‖*)
+
+शत्रवो निधनं यांतु जय त्वं ब्रह्मतेजसा । ॥ ६ ॥ (*śatravo nidhanaṃ yāṃtu jaya tvaṃ brahmatejasā | ‖ 6 ‖*)
+
+कपिलजटीं सर्वभक्षं चाग्निं प्रत्यक्षदैवतं ॥ ७ ॥ (*kapilajaṭīṃ sarvabhakṣaṃ cāgniṃ pratyakṣadaivataṃ ‖ 7 ‖*)
+
+वरुणं च वशाम्यग्रे मम पुत्रांश्च रक्षतु । (*varuṇaṃ ca vaśāmyagre mama putrāṃśca rakṣatu |*) मम पुत्रांश्च रक्षत्वों नमः ॥ ८ ॥ (*mama putrāṃśca rakṣatvoṃ namaḥ ‖ 8 ‖*)
+
+साग्रं वर्षशतं जीव पिब खाद च मोद च ॥ (*sāgraṃ varṣaśataṃ jīva piba khāda ca moda ca ‖*)
+
+दुःखितांश्च द्विजांश्चैव प्रजां च पशु पालय ॥ १० ॥ (*duḥkhitāṃśca dvijāṃścaiva prajāṃ ca paśu pālaya ‖ 10 ‖*)
+
+यावदादित्यस्तपति यावद्भाजति चंद्रमाः । (*yāvadādityastapati yāvadbhājati caṃdramāḥ |*) यावद्वायुः प्लवायति तावज्जीव जया जय ॥ ११ ॥ (*yāvadvāyuḥ plavāyati tāvajjīva jayā jaya ‖ 11 ‖*)
+
+येन केन प्रकारेण को हि नाम नु जीवति । (*yena kena prakāreṇa ko hi nāma nu jīvati |*) परेषामुपकारार्थं यज्जिवति स जीवति । (*pareṣāmupakārārthaṃ yajjivati sa jīvati |*) एतां वैश्वानरीं सर्वदेवान्नमोऽस्तु ते ॥ १२ ॥ (*etāṃ vaiśvānarīṃ sarvadevānnamo 'stu te ‖ 12 ‖*)
+
+न चोरभयं न च सर्पभयं न च व्याघ्रभयं न च मृत्युभयं । (*na corabhayaṃ na ca sarpabhayaṃ na ca vyāghrabhayaṃ na ca mṛtyubhayaṃ |*) यस्यापमृत्युर्न च मृत्युः सर्वं लभते सर्वं जयते ॥ (*yasyāpamṛtyurna ca mṛtyuḥ sarvaṃ labhate sarvaṃ jayate ‖*)
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । (*vedārthasya prakāśena tamo hārdaṃ nivārayan |*) पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+जाधिराजपरमेश्वरवैदिकवर्गमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्रापुरंधरेण सायणाचार्यॆण विचिते माधवीये वेदार्थप्रकाश (*jādhirājaparameśvaravaidikavargamārgapravartaka śrīvīrabukkabhūpālasāmrāpuraṃdhareṇa sāyaṇācāryèṇa vicite mādhavīye vedārthaprakāśa*)
+ऋक्संहिताभाष्येऽष्टमाष्टके सप्तमोध्यायः समाप्तः (*ṛksaṃhitābhāṣye 'ṣṭamāṣṭake saptamodhyāyaḥ samāptaḥ*)
+
+Here ends the seventh adhyāya in the eighth aṣṭaka of the Ṛgveda-saṃhitā, with Śrī Sāyaṇa's commentary and Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्रुहीनं तु यद्भवेत् । (*yadakṣarapadabhraṣṭaṃ mātruhīnaṃ tu yadbhavet |*) शत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*śatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*)
+
+॥ श्रीः ॥ (*‖ śrīḥ ‖*) ॥ श्री गणाधिपतये नमः ॥ (*‖ śrī gaṇādhipataye namaḥ ‖*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*) यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*) निर्ममे तमहं वंदे विद्यातीर्थमहेश्वं ॥ (*nirmame tamahaṃ vaṃde vidyātīrthamaheśvaṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदध्याया सदाशिवः । (*vedaḥ śivaḥ śivo vedo vedadhyāyā sadāśivaḥ |*) तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत्॥ (*tasmātsarvaprayatnena vedameva sadā japet‖*)
+
+सप्तमं श्रुतितत्त्वज्ञः ह्यष्टमस्याष्टकस्य च । (*saptamaṃ śrutitattvajñaḥ hyaṣṭamasyāṣṭakasya ca |*) व्याख्याय सायणामात्यो ह्यष्टकं व्याचिकीर्षति ॥ (*vyākhyāya sāyaṇāmātyo hyaṣṭakaṃ vyācikīrṣati ‖*)
+
+Sāyaṇabhāṣya-sahitā Ṛgveda-saṃhitā, Part 30.
+
+॥ अथाष्टमाष्टकेऽष्टमोऽध्यायः ॥ (*‖ athāṣṭamāṣṭake 'ṣṭamo 'dhyāyaḥ ‖*) The eighth adhyāya in the eighth aṣṭaka.
+
+## Sūkta 143 (Maṇḍala 10)
+The one hundred and forty-third sūkta in the tenth maṇḍala.
+
+**Introduction**
+
+In this sūkta the seer Atri praises the Aśvin deities. We have already described in many places the various kinds of help and favour that the Aśvins have done for men and animals. In the present sūkta there is a description of the help given to the seer Atri and to a king named Bhujyu. There are many histories showing that they help people in times of distress; these have been explained at length in their own contexts. Even so, we explain here only a few of the principal ones.
+**NOTE**
+
+### Printed p. 942
+जुजुरुषो नासत्योत वन्रिं प्रामुंचतं द्रापिमिव च्यवानात् । (*jujuruṣo nāsatyota vanriṃ prāmuṃcataṃ drāpimiva cyavānāt |*) प्रातिरतं जहितस्यायुर्दस्रादित्पतिमकृणुतं कनीनां ॥ (*prātirataṃ jahitasyāyurdasrāditpatimakṛṇutaṃ kanīnāṃ ‖*) (Ṛ. Saṃ. 1-116-10)
+
+When the seer named Cyavana had become very old, his body decayed and without strength, his people abandoned him. When this seer prayed to the Aśvins, they came, removed his decayed body, made him a youth, made him dear to his wife, and increased his span of life; so it is said. Besides this—
+
+युवं च्यवानमश्विना जरंतं पुनर्युवानं चक्रथुः शचीभिः । (*yuvaṃ cyavānamaśvinā jaraṃtaṃ punaryuvānaṃ cakrathuḥ śacībhiḥ |*) (Ṛ. Saṃ. 1-117-13)
+
+निष्पौग्र्यं पारयथः समुद्रात्पु नश्चवानं चक्रथयुर्युवानं । (*niṣpaugryaṃ pārayathaḥ samudrātpu naścavānaṃ cakrathayuryuvānaṃ |*) (Ṛ. Saṃ. 1-118-6)
+
+प्र च्यवानाज्जु जुरुषो वन्त्रिमत्कं न मुंचथः । (*pra cyavānājju juruṣo vantrimatkaṃ na muṃcathaḥ |*) युवा यदी कृथः पुनरा काममृण्वे वध्वः ॥ (*yuvā yadī kṛthaḥ punarā kāmamṛṇve vadhvaḥ ‖*) (Ṛ. Saṃ. 5-74-5)
+
+उत त्यद्वां जुरते अश्विना भूच्च्यवानाय प्रतीत्यं हविर्दे । (*uta tyadvāṃ jurate aśvinā bhūccyavānāya pratītyaṃ havirde |*) (Ṛ. Saṃ. 7-68-6)
+
+युवं च्यवानं जरसोऽमुमुक्तं नि पेदव ऊहथुराशुमश्वं । (*yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhathurāśumaśvaṃ |*) (Ṛ. Saṃ. 7-71-5)
+
+युवं च्यवानं सनयं यथा रथं पुनयुर्वानं चरथाय तक्षथुः ॥ (*yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punayurvānaṃ carathāya takṣathuḥ ‖*) (Ṛ. Saṃ. 10-39-4)
+
+In these Ṛks too there is a description of how the aged seer Cyavana was made a youth. The Śatapatha-brāhmaṇa also has a long history on this subject. Likewise,
+
+युवं विप्रस्य जरणामुपेयुषः पुनः कलेरकृणुतं युवद्वयः (*yuvaṃ viprasya jaraṇāmupeyuṣaḥ punaḥ kalerakṛṇutaṃ yuvadvayaḥ*) (Ṛ. Saṃ. 10-39-8)
+
+in this Ṛk there is mention of how the old age of one named Kali was removed and he was made a youth again.
+
+याभिर्वम्रं विपिपानमुपस्तुतं कलिं याभिर्वित्तजानिं दुवस्यथः ॥ (*yābhirvamraṃ vipipānamupastutaṃ kaliṃ yābhirvittajāniṃ duvasyathaḥ ‖*) (Ṛ. Saṃ. 1-12-15)
+
+### Printed p. 943
+In this Ṛk it is said that when the Kali mentioned above took a wife and married, they gave him their aid and helped him in many ways.
+
+And for the young women who were the wives of Vimada they granted a chariot (1-112-9), or else a wife for him (1-117-1). She appears to have been the daughter of Purumitra (Ṛ. Saṃ. 1-117-20; 10-39-7), and her name was Kamadhyu (10-65-12).
+
+To Viśvaka, the son of Kṛṣṇa, they brought back and restored his lost son (Ṛ. Saṃ. 1-16-23; 10-65-12). And in Ṛ. Saṃ. 8-75-1, 2, 3 the names of Viśvaka and Viṣṇāpu are indicated.
+
+The story of Bhujyu is told again and again. Bhujyu was the son of a king named Tugra. While he was voyaging on the sea and sinking, he floated holding on to a piece of wood amid the waves. Then he took refuge with the Aśvins. They came there, seated him in a ship with a hundred oars on the boundless great ocean, and took him to his home. In another place the matter is described thus: they seated Bhujyu in a ship without any cracks that seemed to fly in the sky, or in four winged boats, or in three flying chariots with a hundred feet and six horses, or in their own chariot swift as thought, speeding with the help of their horses, and so brought him and reached his house. (Ṛ. Saṃ. 1-116-3, 4, 5; 1-117-14, 15; 1-182-5, 6, 7; 7-68-7; 1-112-6, 20; 1-118-6; 1-119-4; 1-158-3; 7-62-6; 7-69-7; 8-5-22; 10-39-4; 10-47-7; 10-65-12; 10-153-5)
+
+When the leg of a woman named Viśpalā was cut off in battle and she prayed to the Aśvins, they came, provided her with an iron leg and saved her; this is said in the Ṛks Ṛ. Saṃ. 1-112-10; 1-116-15; 1-117-11; 1-118-8; 10-39-8.
+
+When the Aśvins' mount, the ass (rāsabha), was in the form of a wolf, one named Ṛjrāśva cut up a hundred sheep from the flock he was guarding and gave them to that wolf as food. His father was angered at this and had Ṛjrāśva's eyes torn out, making him blind. Then the wolf praised the Aśvins; they were pleased and gave eyes to Ṛjrāśva (Ṛ. Saṃ. 1-116-16; 1-117-17, 18). In Ṛ. Saṃ. 1-100-17 there is mention of this Ṛjrāśva praising Indra.
+
+One named Pārāvṛja was blind and lame, and he was not admitted into his caste. The Aśvins gave him sight to see and strength to walk; that is, they favoured him by giving him eyes
+
+### Printed p. 944
+and legs (Ṛ. Saṃ. 1-112-8). When Indra is the subject, the name of Pārāvṛja is indicated in the Ṛks Ṛ. Saṃ. 2-13-12; 2-15-7.
+
+The seer named Rebha had been bound hand and foot by wicked men and thrown into a ruined well. For nine days and ten nights he lay there, near death. The Aśvins lifted him out of the well, as Soma juice is lifted with a ladle, and gave him life (Ṛ. Saṃ. 1-112-5; 1-116-24; 1-117-12; 1-117-4; 7-118-6; 1-119-6; 10-39-9).
+
+One named Vandana, likewise carried off by wicked men and thrown into a dark place (a pit), was rescued from the danger by the Aśvins and brought into the light (Ṛ. Saṃ. 1-112-5; 1-16-11; 1-1 7-1; 1-118-6; 10-39-5; 1-119-6, 6).
+**NOTE**
+
+To Kakṣīvān of the line of Pajra they gave boons in plenty, and from a horse's hoof they poured out hundreds of jars full of liquor or honey, as if pouring through a sieve (Ṛ. Saṃ. 1-116-7; 1-117-6).
+
+The seer Atri was thrown by the Asuras, out of hatred and envy, into a great gorge covered in darkness and blazing with fire. When he was in distress there and prayed to the Aśvins, they came, quenched the fire with frost, gave him food and so on, comforted him, and rescued him from that state. (Ṛ. Saṃ. 1-112-7; 1-116-8; 1-117-3; 1-118-7; 1-119-6; 5-78-4, 5, 6; 7-71-5; 8-62-3, 7, 8, 9; 10-39-9) In Ṛ. Saṃ. 10-80-3 it is said that he protected Atri.
+
+A woman named Vadhrimatī, being childless and barren, prayed to the Aśvins, and they granted her a son named Hiraṇyahasta. (Ṛ. Saṃ. 1-116-13; 1-117-24; 6-62-7; 10-39-7)
+
+A woman named Ghoṣā, afflicted with leprosy, remained unmarried in her father's house. At her prayer the Aśvins granted her a suitable husband. (Ṛ. Saṃ. 1-117-7; 0-39-3, 6; 10-4-5). In the commentary on Ṛ. Saṃ. 1-117-7 Sāyaṇa says that this woman Ghoṣā was suffering from leprosy and that the Aśvins came and cured that disease. In the tenth maṇḍala there are two sūktas seen by this woman Ghoṣā (sūktas 39 and 40).
+**NOTE**
+
+When the cow of one named Śayu was old and bore no calf, the Aśvins made her able to give milk (Ṛ. Saṃ. 1-116-22; 1-117-20; 1-118-8; 1-119-7; 10-39-13)
+
+### Printed p. 945
+It is said that the Aśvins gave to the king Pedu a white horse as mighty as Indra, and that with it he conquered his enemies and obtained abundant goods, vehicles and so on. (Ṛ. Saṃ. 1-116-6; 1-117-9; 1-118-9; 1-119-10; 7-21-5; 10-39-10)
+
+Besides, it is said that these Aśvins helped many men and also benefited animals, birds and the like. In this connection, when a wolf was carrying off a quail in its mouth, they freed it from the wolf's mouth at the quail's prayer and saved it; this is said in many Ṛks (Ṛ. Saṃ. 1-116-14; 1-117-16; 1-118-8; 10-39-13). Besides these there are many other matters concerning the Aśvins; they have been explained in their own contexts.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशमे मंडल एकादशेऽनुवाके चतुर्दश सूक्तानि व्याकृतानि । त्यं चिदिति
+> षडृचं पंचदशं सूक्तं संख्यॆपुत्रस्यात्रेरार्षमानुष्टुभमश्विदेवताकं । तथा
+> चानुक्रांतं । त्यं षट् सांख्योऽत्रिराश्विनमिति ॥ प्रातरनुवाकाश्विनशस्त्रयोरानुष्टुभे छंदसीदं सूक्तं । सूत्र्यते हि । आ नो विश्वाभिस्तं चिदत्रिमित्यानुष्टुभं ।
+> आ. ४-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the tenth maṇḍala, in the eleventh anuvāka, fourteen sūktas have been explained. The fifteenth sūkta, त्यं चित् (*tyaṃ cit*), has six Ṛks; its seer is Atri, son of Saṃkhyā, its deity the Aśvins, its metre Anuṣṭubh. The Anukramaṇī says त्यं षट् सांख्योऽत्रिराश्विनमिति (*tyaṃ ṣaṭ sāṃkhyo 'trirāśvinamiti*). The sūkta is used in the Prātaranuvāka and in the Aśvina-śastra in the Anuṣṭubh metre; the sūtra reads आ नो विश्वाभिस्तं चिदत्रिमित्यानुष्टुभं (*ā no viśvābhistaṃ cidatrimityānuṣṭubhaṃ*) (Āśvalāyana, 4-15).
+
+##### Anuvāda
+
+In the eleventh anuvāka of the tenth maṇḍala the first fourteen sūktas were explained in the previous adhyāya. In this adhyāya the explanation goes on from the fifteenth sūkta. This sūkta, beginning त्यं चित् (*tyaṃ cit*), is the fifteenth in the eleventh anuvāka. It has six Ṛks. Its seer is Atri, son of Saṃkhyā; its deity the Aśvins; its metre Anuṣṭubh. The Anukramaṇī says त्यं षट् सांख्योऽत्रिराश्विनं (*tyaṃ ṣaṭ sāṃkhyo 'trirāśvinaṃ*). In reciting the Prātaranuvāka and the Aśvina-śastra mantras, the sūkta is used for the Ṛks in Anuṣṭubh metre, as the Āśvalāyana-śrauta-sūtra shows by the sūtra आ नो विश्वाभिस्त्यं चिदत्रि मित्यानुष्टभं (*ā no viśvābhistyaṃ cidatri mityānuṣṭabhaṃ*) (Ā. 4-15).
+
+Sūkta 143. Maṇḍala 10; Anuvāka 11; Sūkta 143. Aṣṭaka 8; Adhyāya 8; Varga 1. Number of Ṛks in the sūkta: 6. Seer: Atri, son of Saṃkhyā. Deity: the Aśvins. Metre: Anuṣṭubh.
+
+### Printed p. 946
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यं चि॒दत्रि॑मृत॒जुर॒मर्थ॒मश्वं॒ न यात॑वे ।  
+> क॒क्षीवं॑तं॒ यदी॒ पुना॒ रथं॒ न कृ॑णु॒थो नवं॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । चित् । अत्रिं । ऋतजुरं । अर्थं । अश्वं । न । यातवे ।  
+> कक्षीवंतं । यदि । पुनरिति । रथं । न । कृणुधः । नवं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् शतद्वारे पीडायंत्रगृहेऽसुरैः प्रक्षिप्तो बद्धांगो योऽत्रिरस्ति
+> त्यं चित्तमप्यत्रिमृतजुरं ! ऋतं स्तोत्रं यज्ञो ना । तेन जीर्यंतं । सर्वदा
+> युवयोः परिचरणशीलमित्यर्थः ॥ जीर्यतेः क्विपि बहुलं छंदसीत्युत्वं ॥ यद्वा।
+> ऋतेन प्राप्तेनासुरकृतोपद्रवेण ज्वरितं रुग्णं ॥ ज्वर रोगे । ज्वरत्वरेत्यादिना
+> वकारस्योपधायाश्च स्थान ऊट् । जूरी हिंसागत्योरित्यस्माद्वा क्विप् । अनयोः
+> पक्षयोश्चांदसो ह्रस्वः ॥ ईदृशं तमत्रिमर्थमर्थनीयं प्राप्तव्यं यातने गंतुं
+> युवां कृतवंतौ । तत्र दृष्टांतः । अश्वं न । यथाश्वो बंधनाद्विमुक्तः सन् शीघ्रं
+> गच्छति एवमयमपि युवयोः प्रसादादसुरकृतादुपद्रवजाताद्विमुच्यमानो
+> यथास्थानमगच्छदित्यर्थः ॥ या प्रापण इत्यस्मात्तुमर्थे सेसेनिति तवेन्प्रत्ययः ॥
+> यदि । अपि चेत्यर्थः । कक्षीवंतं । कक्ष्या रज्जुरश्वस्य । तद्वंतं ॥ आसंदीवदष्टिवदित्यादौ निपातनात्संप्रसारणं ॥ दीर्घतमसः पुत्रमुशिक्प्रसूतनृषिं मंदबुद्धिं
+> संतं युवां पुनर्नवं पुनरभिनवप्रज्ञं कृणुथः । अकृणुतं । अकुरुतं । रथं न ।
+> यथा कश्चिच्छिल्वी जीर्णं रथं पुनरभिनवं करोति तद्वत् ॥ कृवि हिंसाकरणयोश्च ।
+> इदित्वान्नुम् । लजिर्थॆ व्यत्ययेन लट् । धिन्विकृण्ज्योरच्चेत्युप्रत्ययः । तत्संनियोगेनाकारांतादेशश्च । तस्यातो लोपे सति स्थानिवद्भावाल्लघूपधगुणाभावः । सति
+> शिष्टोऽपि विकरणस्वरो लसार्वधातुकस्वरं न बाधते । म. ६-१-१५८-११ । इति वचनात्तिज एव स्वरः शिष्यते । निपातैर्यद्यदिहंतेति निघातप्रतिषेधः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, that Atri who was thrown by the Asuras into a torture-house with a hundred doors, his limbs bound, त्यं चित् (*tyaṃ cit*) that same Atri is ऋतजुरं (*ṛtajuraṃ*): ऋतं (*ṛtaṃ*) is praise or sacrifice, by which he grows old; that is, he is always given to serving you. Or else ऋतजुरं (*ṛtajuraṃ*) means one made feverish and sick by the affliction caused by the Asuras. You have made him अर्थं (*arthaṃ*), one to be sought, fit to go (यातवे (*yātave*)). The example: अश्वं न (*aśvaṃ na*); as a horse freed from its bonds goes swiftly, so he too, released by your grace from the troubles made by the Asuras, went to his proper place. यदि (*yadi*) means "even if". कक्षीवंतं (*kakṣīvaṃtaṃ*): कक्ष्या (*kakṣyā*) is a horse's rope; one possessing it. He is the son of Dīrghatamas, born of Uśij, a seer who was dull of mind; you make him again new, newly wise, as a craftsman makes an old chariot new again. (The remainder of the block is grammar.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतजुरं (*ṛtajuraṃ*)—(O Aśvins) one grown old in body while praising you
+- त्यंचित् (*tyaṃcit*)—the well-known
+- अत्रिं (*atriṃ*)—the seer Atri, the seer of this sūkta
+- अश्वं न (*aśvaṃ na*)—like a horse that was tied up
+
 ---
 
-**Progress note:** Done through printed p. 939. pp. 934-939 (batch API)
+**Progress note:** Done through printed p. 946. pp. 940-946 (batch API)
