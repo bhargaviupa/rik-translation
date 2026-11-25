@@ -12492,6 +12492,174 @@ O Agni, come to our rite. How is he? आजुह्वानः (*ājuhvānaḥ
 - इषितः (*iṣitaḥ*)—entreated by us
 - एतान् यक्षि (*etān yakṣi*)—worship these gods
 
+### Printed p. 343
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who call the gods to the sacrifice, who are worthy of praise and worship: come together with the gods called Vasus. O mighty Agni, you are the invoker of the gods. You, who are most worthy of worship, being solicited by us, worship the gods.
+
+##### English translation
+Agni, you are the invoker (of the gods), and are to be solicited and praised; come, being propitated, along with the Vasus ; you, O mighty (Agni), are the invoker of the gods, you, are most entitled to worship solicited by us, offer them adoration.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the deity Iḷa is praised through the use of the word ईड्यः (*īḍyaḥ*). The Nirukta on this Ṛk is as follows:
+ईळः । ईळ ईट्टेः स्तुतिकर्मणः इंथतेर्वा । तस्यैषा भवति ॥ (*īḷaḥ | īḷa īṭṭeḥ stutikarmaṇaḥ iṃthatervā | tasyaiṣā bhavati ‖*) (Ni. 8-8)
+The word ईळः (*īḷaḥ*) is derived either from the root ईद् (*īd*), meaning "to praise", or from the root *iṃdha*, meaning "to kindle, to make blaze". ईळः (*īḷaḥ*) is Agni or a particular form of Agni. The Ṛk containing this word is explained here by way of illustration:
+अजुह्वान ईड्यो वंद्यश्चायाह्यग्ने वसुभिः सजोषाः । त्वं देवानामसि यह्व होता स एनान्यक्षीषितो यजीयान् । (*ajuhvāna īḍyo vaṃdyaścāyāhyagne vasubhiḥ sajoṣāḥ | tvaṃ devānāmasi yahva hotā sa enānyakṣīṣito yajīyān |*) (Ṛ. Saṃ. 10-110-3)
+आहूयमान ईळितव्यो वंदितव्यश्चायाह्यग्ने वसुभिः सहजोषणस्त्वं देवानामसि यह्व होता । यह्व इति महतो नामधेयं यातश्च हूतश्च भवति । स एवान् यक्षेषितो यजीयान् । इषितः प्रेषित इति वाधीष्ट इति वा यजीयान्यष्टृतरः ॥ (*āhūyamāna īḷitavyo vaṃditavyaścāyāhyagne vasubhiḥ sahajoṣaṇastvaṃ devānāmasi yahva hotā | yahva iti mahato nāmadheyaṃ yātaśca hūtaśca bhavati | sa evān yakṣeṣito yajīyān | iṣitaḥ preṣita iti vādhīṣṭa iti vā yajīyānyaṣṭṛtaraḥ ‖*) (Ni. 8-8)
+आजुह्वानः (*ājuhvānaḥ*) and ईड्यः (*īḍyaḥ*): these two words are epithets describing Agni. आहूयमानः (*āhūyamānaḥ*) means one who is called, with prayer, by the priests and the sacrificer at sacrifices and the like. ईळितव्यः (*īḷitavyaḥ*) or वंदितव्यः (*vaṃditavyaḥ*) means one who is honoured with oblations and the like and then praised, or saluted, by all people in the world, or by the priests and the sacrificer.
+
+आ याह्यग्ने वसुभिः सहजोषणः (*ā yāhyagne vasubhiḥ sahajoṣaṇaḥ*): सहजोषणः (*sahajoṣaṇaḥ*) means one of equal affection. That is, whatever affection the other gods have for the priests and the sacrificer engaged in the sacrificial act, Agni has the same affection. The sense is: "O Agni, of equal affection, come to our sacrifice together with the gods called Vasus." The word वसुभिः (*vasubhiḥ*) may mean the eight Vasus, or other gods who give dwelling-places, or wealth and the like.
+
+त्वं देवानां असि यह्व होता (*tvaṃ devānāṃ asi yahva hotā*): यह्व (*yahva*) means great or excessive. होता (*hotā*) is देवानामाह्वाता (*devānāmāhvātā*), one who brings the gods to the sacrificial ground. O Agni, you are great, that is, of great nature, and you are also the one who brings the gods to the sacrificial ground.
+
+यह्व इति महतो नामधेयं यातश्च हूतश्च भवति (*yahva iti mahato nāmadheyaṃ yātaśca hūtaśca bhavati*): यह्व (*yahva*) means great, excessive. In the case of Agni, "great" means *yātaḥ*, one who goes, and *hūtaḥ*, one who is called with prayer. Since Agni, entreated by men, goes to the gods and brings them to the sacrificial ground, he is described here as endowed with greatness. The other gods have no greatness of this kind.
+
+स एनान् यक्षीषितो यजीयान् । इषितः प्रेषित इति वाधीष्ट इति वा यजीयान्यष्टृतम (*sa enān yakṣīṣito yajīyān | iṣitaḥ preṣita iti vādhīṣṭa iti vā yajīyānyaṣṭṛtama*): यजीयान् (*yajīyān*) means यष्टृतमः (*yaṣṭṛtamaḥ*), the best among those who sacrifice and worship the gods. इषितः (*iṣitaḥ*) means impelled; प्रेषितः (*preṣitaḥ*), sent; अधीष्टः (*adhīṣṭaḥ*), entreated. The sense of the sentence is: "O Agni, you, the best among those who invoke and worship the gods, impelled by us, or sent to the gods, or entreated by us, worship the gods and propitiate them."
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒चीनं॑ ब॒र्हिः प्र॒दिशा॑ पथि॒व्या वस्तो॑र॒स्या वृ॑ज्यते॒ अग्रे॒  ॑
+> अह्नां ।  
+> व्यु॑ प्रथते वित॒रं वरी॑यो दे॒वेभ्यो॒ अदि॑तये स्को॒नं ॥ ४ ॥
+
+### Printed p. 345
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्राचीनं । बर्हिः । प्रदिशा । पृथिव्याः । वस्तोः । अस्याः । वृज्यते । अग्रे । अह्नां ।  
+> वि । ऊं इति । प्रथते । वितरं । वरीयः । देवेभ्यः । अदितये । स्कोनं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदिदं प्राचीनं प्रागंचितं प्राज्मुखं बर्हिरस्ति तदिदं पृथिव्या वेदिलक्षणाया वस्तोः ॥ वस आच्छादने । तुन्द्रत्ययः । चतुर्थ्यर्थे बहुलं छंदसीति षष्ठि ।
+> यद्वा। भावलक्षणे तोसुन् द्रष्टव्यः ॥ वसनायाच्छादनार्थमह्नामग्रे पूर्वाह्ने
+> प्रदिशा प्रकर्षेण दिश्यमानेन मंत्रेणास्याः प्राच्या दिशो वृज्यते । स्तूयते ।
+> आह्रियते । कथा च निगमः । त आ वहंति कवयः पुरस्तादित्यादि । शट्टाहृतं वरीय
+> उरुतरं बर्हिनिवितरं विस्तीर्णतरं यथा भवति तथा विप्रथते । विविधमेव वेद्यां
+> प्रस्तृतं भवति । तथा देवेभ्योदितये वेदिलक्षणाय्कॆ पृथिव्यै च स्योनं सुखकरं
+> भवति । विस्तीर्णे बर्हिषि देवाः सुखं निषीदंति ॥
+
+##### Gist of the bhāṣya
+
+This प्राचीनं (*prācīnaṃ*) barhis (sacrificial grass), laid with its tips to the east, is spread for the earth in the form of the altar, वस्तोः (*vastoḥ*), for covering. The word वस्तोः (*vastoḥ*) comes from the root वस (*vasa*) in the sense of covering; the genitive stands for the dative by the rule that in the Veda the genitive is used variously for the dative. Or else the form is to be understood as a तोसुन् (*tosun*) affix in the sense of the action's occasion. At the beginning of the days, in the forenoon, the barhis is वृज्यते (*vṛjyate*), praised, brought, for this eastern quarter by the mantra that points the way (प्रदिशा (*pradiśā*)). The Veda's own text bears this out: *ta ā vahaṃti kavayaḥ purastāt* and so on. The barhis spreads out वरीयः (*varīyaḥ*), more widely, वितरं (*vitaraṃ*), more expansively; it is spread in many ways over the altar. It is स्योनं (*syonaṃ*), comfortable, for the gods, for Aditi, and for the earth in the form of the altar; on the wide barhis the gods sit at ease.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्राचीनं (*prācīnaṃ*)—facing east
+- बर्हिः (*barhiḥ*)—the seat of darbha grass
+- अस्याः पृथिव्याः (*asyāḥ pṛthivyāḥ*)—of this earth in the form of the altar
+- वस्तोः (*vastoḥ*)—for covering (to cover the earth)
+- अह्नां अग्रे (*ahnāṃ agre*)—at the very time of morning
+- प्रदिशा (*pradiśā*)—with the mantra that shows the way
+- व्यज्यते (*vyajyate*)—is spread **NOTE**
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- अदितये (*aditaye*)—for Aditi
+- स्कोनं (*skonaṃ*)—so as to be comfortable
+- वरीयः (*varīyaḥ*)—the broad barhis
+- वितरं (*vitaraṃ*)—more widely
+- वि प्रथते (*vi prathate*)—is spread out
+
+##### भावार्थ (Bhāvārtha)
+
+The east-facing seat of darbha grass is spread at the very time of morning, with a mantra that shows the way, to cover the earth in the form of the altar. The broad barhis is spread out widely so as to be comfortable for the gods and for Aditi.
+
+##### English translation
+In the beginning of the day the sacred grass, pointing eastwards, is strewn with the prescribed (text) as a covering for the earth (of the altar); they spread it out far and wide as a pleasant (seat) for the gods and Aditi.
+
+### Printed p. 346
+
+##### विशेषविषयगळु (Special Topics)
+
+बर्हिः । बर्हिः परिबर्हणात् । तस्यैषा भवति । प्राचीनं बर्हिः प्रदिशा पृथिव्या वस्तोरस्या वृज्यते अग्रे अह्नां । व्यु प्रथते वितरं वरीयो देवेभ्यो अदितये स्कोनं ॥ प्राचीनं बर्हिः प्रदिशा पृथिव्या वसनायास्या प्रवृज्यते अग्रे अह्नां बर्हिः पूर्वाह्ने तद्विप्रथते वितरं विकीर्णतरमिति ना विस्तीर्णतरमिति वा वरीयो वरतरमुरुतरं वा देवोभ्यश्चादितये च स्कोनं । स्कोनमिति सुखनाम स्यतेरवस्यंतेतत् सेवितव्यं भवतीति वा ॥ (*barhiḥ | barhiḥ paribarhaṇāt | tasyaiṣā bhavati | prācīnaṃ barhiḥ pradiśā pṛthivyā vastorasyā vṛjyate agre ahnāṃ | vyu prathate vitaraṃ varīyo devebhyo aditaye skonaṃ ‖ prācīnaṃ barhiḥ pradiśā pṛthivyā vasanāyāsyā pravṛjyate agre ahnāṃ barhiḥ pūrvāhne tadviprathate vitaraṃ vikīrṇataramiti nā vistīrṇataramiti vā varīyo varataramurutaraṃ vā devobhyaścāditaye ca skonaṃ | skonamiti sukhanāma syateravasyaṃtetat sevitavyaṃ bhavatīti vā ‖*) (Ni. 8-9)
+
+बर्हिः परिबर्हणात् । तस्यैषा भवति (*barhiḥ paribarhaṇāt | tasyaiṣā bhavati*): बर्हिः (*barhiḥ*) means darbha grass cut to one even length and spread out as a seat. A seat is prepared on which the gods, entreated and invited to the sacrifice, may come and sit. The seat prepared by spreading darbha grass cut to an even length in three layers, one layer laid upon another so as to be soft to sit on, is called बर्हिः (*barhiḥ*). This seat called बर्हिः (*barhiḥ*) is also used for placing the oblations and the like; oblations are not put on the ground but on the seat spread with darbha. The darbha used for this seat is cut to one measure. The word बर्हिः (*barhiḥ*) has the meaning परिबर्हणात् (*paribarhaṇāt*), परिच्छेदनात् (*paricchedanāt*), "from being cut". This darbha grows very quickly, and the name बर्हिः (*barhiḥ*) has come from that also. A Ṛk containing this word, namely the very Ṛk in hand, is given here as an illustration.
+
+प्राचीनं बर्हिः प्रदिशा पृथिव्या वसनायास्याः प्रवृज्यते (*prācīnaṃ barhiḥ pradiśā pṛthivyā vasanāyāsyāḥ pravṛjyate*): प्राचीनं (*prācīnaṃ*) means toward the east, or with the tips of the darbha toward the east; बर्हिः (*barhiḥ*), darbha grass cut to an even measure; प्रदिशा (*pradiśā*), in the prescribed manner, facing east or north, accompanied by the spreading mantra; पृथिव्या वसनायास्याः प्रवृज्यते (*pṛthivyā vasanāyāsyāḥ pravṛjyate*), it is spread over the earth to cover it. The meaning of the sentence: on the sacrificial altar, so that the gods may come and sit, darbha grass cut to one measure is spread over the ground like a covering, with the tips to the east and with the spreading mantra.
+
+अग्रे अह्नां बर्हिः पूर्वाह्ने तद्विप्रथते (*agre ahnāṃ barhiḥ pūrvāhne tadviprathate*): अग्रे अह्नां (*agre ahnāṃ*) means at the beginning of the day, that is, in the forenoon; the spreading of the darbha takes place in the forenoon (in the morning), widely.
+
+### Printed p. 347
+वितरं विकीर्णतरमिति ना विस्तीर्णतरमिति वा वरियो वरतरमुरुतरं वा देवेभ्यश्चादितये स्कोनं (*vitaraṃ vikīrṇataramiti nā vistīrṇataramiti vā variyo varataramurutaraṃ vā devebhyaścāditaye skonaṃ*): वितरं (*vitaraṃ*) means विकीर्णतरं (*vikīrṇataraṃ*), spread out more; or विस्तीर्णतरं (*vistīrṇataraṃ*), spread widely. वरीयः (*varīyaḥ*) means वरतरं (*varataraṃ*) or श्रेष्ठतरं (*śreṣṭhataraṃ*), better than the other parts of the sacrifice; उरुतरं (*urutaraṃ*), more abundant. The meaning is: this abundant and excellent spreading of darbha is made ready, spread widely, so that the gods and Aditi may come and sit in comfort.
+
+स्योनमिति सुखनाम स्यतेरवस्यंत्येतत् सेवितव्यं भवतीति वा (*syonamiti sukhanāma syateravasyaṃtyetat sevitavyaṃ bhavatīti vā*): स्योन (*syona*) is a name for comfort. The word स्योन (*syona*) is derived either from the root स्यति (*syati*), meaning "to find rest", or from the fact that people find rest in it, or from the fact that people resort to it for rest.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्यच॑स्वतीरुर्वि॒या वि श्र॑यंतां॒ पति॑भ्यो॒ न जन॑यः॒ शुंभ॑मानाः ।  
+> देवी॑र्द्वारो बृहतीर्विश्वमिन्वा दे॒वेभ्यो॑ भवत सुप्राय॒णाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> व्यचस्वतीः । उर्विया ! वि । श्रयंतां । पतिभ्यः । न । जनयः । शुंभमाः ।  
+> देवीः । द्वारः । बृहतीः । विश्वंइन्वाः । देवेभ्यः । भवत । सुप्रअयनाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्यचस्वतीः । व्यचो व्यापनं । तद्वत्यः ॥ ना छंदसीति पूर्वसवर्णदीर्घः ॥
+> ता द्वारदेवता उर्विया ॥ उरुशब्दात्कृतीयैकवचन इयाडियाजीकाराणामुपसंख्यानं । पा. ७-१-३९-१ । इतीयादेशः ॥ उरुत्वेव वि श्रयंतां । विशेषेणाश्रिता
+> भवंतु । तत्र दृष्टांतः । पतिभ्यो न यथा पतीनामर्थाय संभोगकाले शुंभमानाः शोभमाना जनयो जाया विश्रयंति तद्वदस्मिन्कर्मणि विश्रयंतां । हे
+> बृहतीर्महत्यो हे विश्वमिन्वाः ॥ इवि प्रीणनार्थः । तस्मात्कर्मण्युपपदेऽण् ।
+
+##### Gist of the bhāṣya
+
+व्यचस्वतीः (*vyacasvatīḥ*): *vyacaḥ* is pervading, and those that possess it are व्यचस्वतीः (*vyacasvatīḥ*). These are the door-goddesses. They are उर्विया (*urviyā*), by breadth: the instrumental singular of उरु (*uru*) takes the substitute इय (*iya*) (Pā. Sū. 7-1-39-1, as quoted). With that breadth let them वि श्रयंतां (*vi śrayaṃtāṃ*), be resorted to in a special way, that is, stand open. The illustration: पतिभ्यो न (*patibhyo na*), as wives (जनयः (*janayaḥ*)), adorned and shining at the time of union, open themselves for their husbands' sake, so let the doors open in this rite. बृहतीः (*bṛhatīḥ*), great ones; विश्वमिन्वाः (*viśvaminvāḥ*): the root इवि (*ivi*) has the sense of pleasing, and the affix *aṇ* is added to it when it stands in composition with an object.
+
+### Printed p. 348
+
+> इदित्वान्नुम् । तत्पुरुषे कृति बहुलमित्यत्र बहुलवचनाद्वितीयाया अप्यलुक् ॥
+> सर्वस्य प्रीणयित्र्यो हे द्वारो देवीर्द्वाराभिमानिन्नो हे देव्यः यूयं
+> देवेभ्यो देवनामर्थाय सुप्रायणाः सुप्रगमनाः सुविवृता भवत ॥
+
+##### Gist of the bhāṣya
+
+O door-goddesses, you who please all, divine Doors, presiding over the doors: be सुप्रायणाः (*suprāyaṇāḥ*), easy to enter, well opened, for the sake of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पतिभ्यः (*patibhyaḥ*)—for the joy of their husbands
+- शुंभमानाः (*śuṃbhamānāḥ*)—who have adorned themselves
+- जनयः न (*janayaḥ na*)—as wives make room
+- व्यचस्वतीः (*vyacasvatīḥ*)—the door-goddesses who have ample room
+- उर्विया (*urviyā*)—broadly, for the entry of the gods
+- वि श्रयंतां (*vi śrayaṃtāṃ*)—let them open the closed door
+- बृहतीः (*bṛhatīḥ*)—of great nature
+- विश्वमिन्वाः (*viśvaminvāḥ*)—pleasing to all
+- द्वारः देवीः (*dvāraḥ devīḥ*)—O door-goddesses
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- सुप्रायणाः (*suprāyaṇāḥ*)—as givers of easy entry
+- भवत (*bhavata*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+As wives who have adorned themselves for the joy of their husbands make room for their pleasure, so let the broad and great door-goddesses open their closed doors widely for the entry of the gods. O door-goddesses, you who are of great nature and pleasing to all, be givers of easy entry for the gods.
+
+##### English translation
+Expanding wide, let the Doors give access as gracefully decorated wives give access to their husbands, divine Doors, spacious and admitting all, be easy of entry for the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+The derivation of the word द्वारः (*dvāraḥ*) is explained as follows:
+द्वारः । जवतेर्वा द्रवतेर्वा वारयतेर्वा । तासामेषा भवति ॥ व्यचस्वतीरुर्विया विश्रयंतां पतिभ्यो न जनयः शुंभमानाः । देवीर्द्वारो बृहतीविश्वमिन्वा देवेभ्यो भवत सुप्रायणाः ॥ व्यंचनवत्य उरुत्वेन विश्रयंतां पतिभ्य इव जाया ऊरू मैथुने धर्मे शुशोभिषमाणाः वरतममंगमूरू देव्योद्वारो बृहत्यो महत्यो विश्वमिन्वा विश्वमाभिरेति यज्ञे । गृहद्वार इति कात्थक्यः ॥ अग्निरिति शाकपूणिः ॥ (*dvāraḥ | javatervā dravatervā vārayatervā | tāsāmeṣā bhavati ‖ vyacasvatīrurviyā viśrayaṃtāṃ patibhyo na janayaḥ śuṃbhamānāḥ | devīrdvāro bṛhatīviśvaminvā devebhyo bhavata suprāyaṇāḥ ‖ vyaṃcanavatya urutvena viśrayaṃtāṃ patibhya iva jāyā ūrū maithune dharme śuśobhiṣamāṇāḥ varatamamaṃgamūrū devyodvāro bṛhatyo mahatyo viśvaminvā viśvamābhireti yajñe | gṛhadvāra iti kātthakyaḥ ‖ agniriti śākapūṇiḥ ‖*) (Ni. 8-10)
+
+### Printed p. 349
+द्वारः जवतेर्वा द्रवतेर्वा वारयतेर्वा । तासामेषा भवति (*dvāraḥ javatervā dravatervā vārayatervā | tāsāmeṣā bhavati*): द्वारः (*dvāraḥ*) means the doors of the sacrificial house. These ordinarily stand only as words ending in the feminine plural. The word द्वारः (*dvāraḥ*) is derived either from the root जु (*ju*), meaning "to go forward or inwards", or from the root द्रु (*dru*), meaning "to run"; or it may be derived from the root वृ (*vṛ*), meaning "to stop, so that one does not go in". Yāska has taken the Ṛk in hand, which contains this word, as an example and has given the Nirukta on it.
+
+व्यचस्वतीरुर्विया विश्रयंतां (*vyacasvatīrurviyā viśrayaṃtāṃ*)—व्यंचनवत्य उरुत्तेन विश्रयंतां (*vyaṃcanavatya uruttena viśrayaṃtāṃ*): let the broad doors of the sacrificial house stand well, or wholly, open. Here an illustration is given about the doors' being open.
+
+पतिभ्यो न जनयः शुंभमानः (*patibhyo na janayaḥ śuṃbhamānaḥ*)—पतिभ्य इव जाया ऊरू मैथुने धर्मे शुशोभिषमाणाः वरतममंगमूरू (*patibhya iva jāyā ūrū maithune dharme śuśobhiṣamāṇāḥ varatamamaṃgamūrū*): as wives at the time of union open and spread their thighs to give joy to their husbands, so let the doors of the sacrificial house be wholly open for the coming of the gods, the priests and the sacrificer, and other people. That is the sense. A woman's thighs are the most attractive of all the other parts of the body.
+
+देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः (*devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ*)—देव्यो द्वारो बृहत्यो महत्यो विश्वमिन्वा विश्वमाभिरेति यज्ञे । गृहद्वार इति कात्थक्यः ॥ अग्निरिति शाकपूणिः ॥ (*devyo dvāro bṛhatyo mahatyo viśvaminvā viśvamābhireti yajñe | gṛhadvāra iti kātthakyaḥ ‖ agniriti śākapūṇiḥ ‖*) बृहत्यः (*bṛhatyaḥ*) means doors that are great; विश्वमिन्वा (*viśvaminvā*) means विश्वमाभिरेति (*viśvamābhireti*): विश्वं (*viśvaṃ*), all, अभिः (*abhiḥ*), by these doors, एति (*eti*), comes in. That is, great doors fit for all to enter the sacrificial house.
+
+देवेभ्यो भवत सुप्रायणाः (*devebhyo bhavata suprāyaṇāḥ*): सुप्रायणाः (*suprāyaṇāḥ*) means सुप्रगमनाः (*supragamanāḥ*); the sense is "let them be fit for easy entry".
+
+Main purport: just as wives, fully adorned at the time of union, make their attractive thighs broad and wide and stretch them for the enjoyment of their husbands, so let the broad and great doors of the sacrificial house be well open for the easy coming of the gods, the priests and the sacrificer, other people, and the rest. Kātthakya approves the meaning that द्वारः (*dvāraḥ*) here is गृहद्वार (*gṛhadvāra*), the doors of a house. Śākapūṇi's view is that द्वारः (*dvāraḥ*) means Agni, or a particular form of Agni.
+
 ---
 
-**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
+**Progress note:** Done through printed p. 349. pp. 343-349 (batch API)
