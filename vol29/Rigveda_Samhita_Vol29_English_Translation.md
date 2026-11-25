@@ -14819,6 +14819,281 @@ Destroy the Yatudhanas with your scorching fire; destroy the Rakshasas, Agni. wi
 
 Today all the gods, with Agni at their head, are to destroy the Yātudhāna Rākṣasa, who deprives living beings of their breath. Then, as this Rākṣasa comes, the curses, harsh ... **NOTE**
 
+### Printed p. 511
+
+> अस्माभिरुक्ताः शपथाः प्रत्यग्यंतु । किंच वाचास्तेनमन्यतवचनमेनं यातुधानं
+> शरवः शरा मर्मन् मर्मण्यच्छंतु । गच्छंतु । विश्वस्य व्याप्तस्याग्नेः प्रसितिं चालं ।
+> तथा च यास्कः । प्रसितिः प्रसयनात्तंतुर्ना जालं वा । नि. ६-१२ । इति । जालं
+> यातुधानो राक्षस एतु । गच्छतु ॥
+
+##### Gist of the bhāṣya
+
+The curses uttered by us are to come back upon the Yātudhāna. Further, the arrows are to reach this Yātudhāna, who speaks otherwise than the truth, in a vital spot. The Yātudhāna Rākṣasa is to enter the prasiti, the net, of Agni who pervades all; Yāska says: प्रसितिः प्रसयनात्तंतुर्ना जालं वा (*prasitiḥ prasayanāttaṃturnā jālaṃ vā*) (Ni. 6-12), so the prasiti is a net.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—today
+- देवाः (*devāḥ*)—all the gods
+- वृजिनः (*vṛjinaḥ*)—the Asura who harms living beings **NOTE**
+- परा शृणंतु (*parā śṛṇaṃtu*)—let them destroy
+- एनं (*enaṃ*)—him
+- तृष्णाः शपथाः (*tṛṣṇāḥ śapathāḥ*)—harsh curses
+- प्रत्यक् यंतु (*pratyak yaṃtu*)—let them confront and destroy
+- वाचास्तेनं (*vācāstenaṃ*)—this Asura who speaks falsehood
+- शरवः (*śaravaḥ*)—arrows
+- मर्मन् (*marman*)—in a vital spot
+- ऋच्छंतु (*ṛcchaṃtu*)—let them go and harm
+- विश्वस्य (*viśvasya*)—of Agni who pervades all
+- प्रसितिं (*prasitiṃ*)—the flame that is like a bond
+- यातुधानः (*yātudhānaḥ*)—the Rākṣasa
+- एतु (*etu*)—let him enter and be caught
+
+##### भावार्थ (Bhāvārtha)
+
+Let all the gods today destroy the Asura who harms living beings. Let harsh curses harm him. Let the arrows go into a vital spot of this Asura who speaks falsehood. Let the Rākṣasa enter the flame, like a bond, of Agni who pervades all, and be caught.
+
+##### English translation
+Let all the gods to-day destroy the murderous (Yatudhana); let our sharp imprecations encounter him; may the arrows hit the speaker of falsehood in a vital part; may the Yatudhana go into the bondage of the all-pervading Agni.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः पौरु॑षेण क्र॒विषा॑ समं॒क्ते यो अश्वे॑न प॒शुना॑  ॒॑
+> यातुधानः ।  
+> यो अ॒घ्न्याया॒ भर॑ति क्षी॒रम॑ग्ने॒ तेषां॑ शी॒र्षाणि॒ हर॒सापि॑  
+> वृश्च ॥ १६ ॥
+
+### Printed p. 512
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । पौरुषेयेण । क्रविषा । संअंक्ते । यः । अश्वेन । पशुना । यातुधानः ।  
+> यः । अघ्न्यायाः । भरति । क्षीरं । अग्ने । तेषां । शीर्षाणि । हरसा । अपि । वृश्च ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यातुधानो राक्षसः पौरुषेयेण पुरुषसंबंधिना क्रविषा मांसेन
+> समंक्ते आत्मानं संगमयति । यश्चाश्वेनाश्वसमूहेन । तदीयेन मांसेनेत्यर्थः । आत्मानं संगमयति । यो वा यातुधानोऽन्येन पशुनात्मानं संगमयति ।
+> यो वा यातुधानोऽघ्न्याया गोः क्षीरं भरति हरति । हे अग्ने त्वं तेषां
+> सर्वेषामपि राक्षसानां शीर्षाणि शिरांसि हरसा त्वदीयेन तेजसा वृश्च । छिंद्दि ॥
+
+##### Gist of the bhāṣya
+
+The Yātudhāna Rākṣasa who unites himself with the flesh of a man, and who unites himself with a horse, that is, with the flesh of a herd of horses, or who unites himself with another animal, or who carries off the milk of an aghnyā cow: O Agni, cut off with your radiance the heads of all those Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः यातुधानः (*yaḥ yātudhānaḥ*)—the Asura who
+- पौरुषेयेण (*pauruṣeyeṇa*)—belonging to a man
+- क्रविषा (*kraviṣā*)—with flesh
+- समंक्ते (*samaṃkte*)—fills his belly
+- यः (*yaḥ*)—whoever
+- अश्वैन (*aśvaina*)—by eating herds of horses **NOTE**
+- पशुना (*paśunā*)—and by eating animals fills his belly
+- आपि (*āpi*)—and
+- यः (*yaḥ*)—whoever
+- अघ्न्यायाः (*aghnyāyāḥ*)—of the cow
+- क्षीरं (*kṣīraṃ*)—the milk
+- भरति (*bharati*)—steals
+- तेषां (*teṣāṃ*)—of them all
+- शीर्षाणि (*śīrṣāṇi*)—the heads
+- हरसा (*harasā*)—with the flame
+- वृश्च (*vṛśca*)—burn and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whatever Asura fills his belly with the flesh of man, and by eating herds of horses and animals, and whoever steals the milk of the cow: burn and destroy the heads of all of them with your flame.
+
+##### English translation
+The Yatudhana who fills himself with the flesh of man, and he who fills himself with the flesh of horses or of other animals, and he who steals the milk of the cow—cut off their heads with your flame.
+
+### Printed p. 513
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं॒व॒त्स॒रीणं॒ पय॑ उ॒स्रिया॑या॒स्तस्य॒ माशी॑द्यातु॒धानो॑  
+> नृचक्षः ।  
+> पी॒यूष॑मग्ने यत॒मस्तितृ॑प्सा॒त्तं प्र॒त्यंच॑म॒र्चिषा॑ विध्य॒  ॑
+> मर्मन् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संवत्सरीणं । पयः । उस्रियायाः । तस्य । मा । अशीत् । यातुधानः । नृचक्षः ।  
+> पीयूषं । अग्ने । यतमः । तितृप्सात् । तं । प्रत्यंचं । अर्चिषा । विध ।  
+> मर्मन् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृचक्षो नृणां द्रष्टरग्ने उस्रियायाः गोः । उस्रियाहीति गोनामसु
+> पाठात् । संवत्सरीणं संवत्सरेण भवं यत्पयोऽस्ति यातुधानो राक्षसस्तस
+> माशीत् । तत्पयो मा भक्षयतु । किंच यतमो यो राक्षसः पीयूषं
+> पीयूषेण ॥ विभक्तिव्यत्ययः ॥ अस्मदीयाया गोः पयसा तितृप्तात् आत्मानं
+> तॆर्पयितुमिच्छति तं प्रत्यंचं युद्धायात्मानं प्रतिगतं राक्षसं मर्मन् मर्मणि
+> प्राणवियोगस्थानेऽर्चिषा स्वकीयेन तेजसा विध्य । ताडय । मारयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, beholder of men: the milk of the usriyā, that is, of the cow (usriyā is read among the names of the cow), which is of a year, let the Yātudhāna Rākṣasa not eat that milk. Further, whichever Rākṣasa wishes to satisfy himself with the pīyūṣa (the case is changed, for "with the pīyūṣa") of our cow, that is, with its milk, that Rākṣasa who comes forward to fight: pierce him in the vital spot, the place where the breath departs, with your own radiance; strike him, kill him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृचक्षः (*nṛcakṣaḥ*)—you who can see men
+- अग्ने (*agne*)—O Agni
+- उस्रियायाः (*usriyāyāḥ*)—of the milch cow
+- संवत्सरीणं (*saṃvatsarīṇaṃ*)—lasting a year
+- पयः (*payaḥ*)—whatever milk there is
+- तस्य (*tasya*)—that
+- यातुधानः (*yātudhānaḥ*)—the Rākṣasa
+- माशीत् (*māśīt*)—let him not drink
+- यतमः (*yatamaḥ*)—whoever among the Asuras
+- पीयूषं (*pīyūṣaṃ*)—with the milk of our cow
+- तितृप्सात् (*titṛpsāt*)—wishes to find satisfaction
+- प्रत्यंचं (*pratyaṃcaṃ*)—who falls upon us
+- तं (*taṃ*)—that Asura
+- अर्चिषा (*arciṣā*)—with your radiance
+- मर्मन् (*marman*)—in a vital spot
+- विभ्य (*vibhya*)—strike and kill **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who can see the doings of men, let the Rākṣasa not drink whatever milk of the milch cow lasts a year. If any of the Asuras wishes to find satisfaction with the milk of our cow, split that Asura who falls upon us, in a vital spot, with your radiance, and kill him.
+
+### Printed p. 514
+
+##### English translation
+The milk of the cow is annually produced, let not the Yatudhana consume it, O beholder of men ; whichever of them would like to satiate himself with the ambrosia, you, Agni, pierce that contending (Rakshasa) with your flame in a vital part.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒षं गवां॑ यातु॒धानाः॑ पिबं॒त्वा वृ॑श्च्यंता॒मदि॑तये  ॒॑
+> दुरेवाः ।  
+> परै॑नान्दे॒वः स॑वि॒ता द॑दातु॒ परा॑ भा॒गमोष॑धीनां जयंतां॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विसं । गवां । यातुधानाः । पिबंतु । आ । वृश्च्यंतां । आदितये । दुःएवाः ।  
+> परा । एनान् । देवः । सविता । ददातु । परा । भागं । ओषधीनां । जयंतां ॥१८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यातुधाना राक्षसा गवां पशूनां गृहे स्थितं विषं पिबंतु ।
+> किंचादितयेऽदित्यर्थं दुरेवा दुस्तरा यातुधाना आ वृश्च्यंतां । त्वदीयैरायुधैराच्छिद्यंतां । किंच सविता देव एनान्राक्षसान्परा ददातु । सिंहेभ्यः प्रयच्छतु ।
+> अपि च तेऽमी राक्षसा ओषधीनां स्वभूतं भागं भजनीयमन्नं परा जयंतां ।
+> लभंतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, let the Yātudhāna Rākṣasas drink the poison that stands in the house of the cattle. Further, for the sake of Aditi let the Yātudhānas, hard to overcome, be cut off, torn away by your weapons. Further, let the god Savitṛ give these Rākṣasas over to lions. And let those Rākṣasas gain the share of the herbs that is their own, the food fit for enjoyment; the meaning is, let them obtain it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यातुधानाः (*yātudhānāḥ*)—the Rākṣasas
+- गवां (*gavāṃ*)—of the cows, in the cowshed
+- विषं (*viṣaṃ*)—the poison
+- पिबंतु (*pibaṃtu*)—let them drink
+- अदितये (*aditaye*)—for the satisfaction of Aditi
+- दुरेवाः (*durevāḥ*)—the unopposed Asuras
+- आ वृश्च्यंतां (*ā vṛścyaṃtāṃ*)—let them be cut off
+- सविता देवः (*savitā devaḥ*)—the god Savitṛ
+- एनान् (*enān*)—these Asuras
+- परा ददातु (*parā dadātu*)—let him give to the wild beasts
+- ओषधीनां (*oṣadhīnāṃ*)—of the herbs
+- भागं (*bhāgaṃ*)—the food in the form of sap
+- पराजयंतां (*parājayaṃtāṃ*)—let them not obtain
+
+### Printed p. 515
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, let the Rākṣasas drink the poison that is in the cowshed of the cattle. For the satisfaction of Aditi let the unopposed Asuras be cut off. Let Savitṛ give these Asuras to the wild beasts. Let them not obtain the food that is the sap of the herbs.
+
+##### English translation
+Let the Yatudhanas drink poison from the cattle ; let the (Rakshasas) hard to overcome be cut to pieces for the sake of Aditi ; may the divine Savitri give them over (to destruction), may they be deprived of the food of herbs.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒नाद॑ग्ने मृणसि यातु॒धाना॒न्न त्वा॒ रक्षां॑सि॒ पृत॑नासु जिग्युः ।  
+> अनु॑ दह स॒हमू॑रान्क्र॒व्यादो॒ मा ते॑ हे॒त्या मु॑क्तत॒  ॑
+> दैव्यायाः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनात् । अग्ने । मृणसि । यातुधानान् । न । त्वा । रक्षांसि । पृतनासु । जिग्युः ।  
+> अनु । दह । सहमूरान् । क्रव्यअदः । मा । ते । हेत्याः । मुक्तत । दैव्यायाः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं सनाच्चिरादेवारभ्य यातुधानानाक्षसान्मृणसि । बाधसे । तथापि
+> त्वा त्वां पृतनासु संग्रामेषु रक्षांसि राक्षसा न जिगुति । नाजयन् । किंच स
+> त्वमधुनान्वनुक्रमेण सहमूरान् मूलेन सहितान् मारकव्यापारेण युक्तान्
+> क्रव्यादो मांसभक्षकान्नाक्षसान्दह । तेजसा भस्मीकुरु । किंच तव संबंधिनो
+> दैव्याया दैव्याद्वेत्या आयुधात्ते यातुधाना मा मुक्तत । मुक्ता मा भूवन् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, from of old you afflict the Yātudhāna Rākṣasas; yet the Rākṣasas have not conquered you in the battles. Further, now in due order burn the Rākṣasas who are flesh-eaters, together with their root, engaged in killing; reduce them to ashes with your radiance. And let those Yātudhānas not be freed from your divine weapon.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सनात् (*sanāt*)—for a long time
+- यातुधानान् (*yātudhānān*)—the Rākṣasas
+- मृणसि (*mṛṇasi*)—you afflict
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- पृतनासु (*pṛtanāsu*)—in battles
+- त्वा (*tvā*)—you
+
+### Printed p. 516
+
+- न जिग्गुः (*na jigguḥ*)—have never conquered **NOTE**
+- सहमूरान् (*sahamūrān*)—those who are doers of harm
+- क्रव्यादः (*kravyādaḥ*)—and flesh-eaters, those same ones
+- अनु (*anu*)—one by one
+- दह (*daha*)—burn
+- ते (*te*)—your
+- दैव्यायाः (*daivyāyāḥ*)—possessing divinity
+- हेत्याः (*hetyāḥ*)—by the weapon
+- मा मुक्षत (*mā mukṣata*)—let them not escape **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you have afflicted the Rākṣasas for a long time. The Rākṣasas have never conquered you in the battles. Burn those doers of harm and flesh-eaters one by one. Let them not escape from your weapon that possesses divinity.
+
+##### English translation
+You, Agni, have from old time opposed the Yatudhanas : the Rakshasas have never overcome you in battles ; burn the murderous flesh-eating (Rakshasas) one by one ; let them not escape your divine weapon.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अग्ने अध॒रादुद॑क्ता॒त्त्वं प॒श्चादु॒त र॑क्षा पु॒रस्ता॑त् ।  
+> प्रति॒ ते ते॑ अ॒जरा॑स॒स्तपि॑ष्ठा अ॒घशं॑सं॒ शोशु॑चतो दहंतु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । अग्ने । अधरात् । उदक्तात् । त्वं । पश्चात् । उत । रक्षा : पुरस्तात् ।  
+> प्रति । ते । ते । अजरासः । तपिष्ठाः । अघशंसं । शोशुचतः । दहंतु ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं नोऽस्मानधराद्दक्षिणतः । उत्तरादिदिक्षमभिव्याहारादधरशब्दोऽत्र दक्षिणदिक्षर इति विज्ञायते । उदक्तादुत्तरतश्च रक्ष । पाहि । उतापि च हे
+> अग्ने त्वं पश्चात्पश्चिमतः पुरस्तात्पूर्वतश्च नोऽस्मान्रक्ष । चतसृषु दिक्षवस्थितेभ्यो
+> राक्षसेभ्योऽस्मान्नाहीत्यर्थः । किंच ते तव संबंधिनस्ते तपिष्ठा अतिशयेन तस्यमाना
+> अजरासो जरावर्जिताः शोशुचतो ज्वलंतः संतो रश्मयोऽघशंसं पापशंसकु
+> राक्षसं प्रति दहंतु । भस्मीकुर्वंतु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect us from below, from the south (since the word adhara is used here together with the northern quarter and so is understood as the southern quarter), and from the north; and also from behind, from the west, and from the front, from the east. The meaning is: protect us from the Rākṣasas standing in the four quarters. Further, let those rays of yours, most burning, ageless, blazing, burn the Rākṣasa who utters evil, that is, reduce him to ashes.
+
 ---
 
-**Progress note:** Done through printed p. 510. Mandala 10 sukta 87 verses 10-15 (partial)
+**Progress note:** Done through printed p. 516. Mandala 10 sukta 87 verses 15-20
