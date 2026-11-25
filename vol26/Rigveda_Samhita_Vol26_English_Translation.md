@@ -1182,6 +1182,138 @@ Here the third savana ends.
 
 We have given extensive explanations of Soma many times before. Yet it is now necessary to give a more careful explanation of it. In the Veda there are many mantras concerning Soma. The whole ninth maṇḍala is praise of Soma. When many deities are invoked, they are called to come to this sacrifice for the drinking of Soma. There are many sacrifices connected with Soma. Among them the Agniṣṭoma sacrifice is the chief. In this sacrifice, with the recitation of mantras such as the stotra and the śastra, Soma is extracted according to rule at all three savanas (morning, noon and evening), prepared, and drunk by the sacrificer and the Ṛtvijs. In the other Soma sacrifices too this same order is followed, with some differences. Now we must examine what Soma is. Soma is a particular kind of creeper. This Soma plant is not found anywhere in India now. It grows especially on plains, on river banks and on mountains. The higher it grows, the more
 
+### Printed p. 69
+
+juice it gives. It grows even at a height of about 7000 feet; therefore there are, in many places in the Ṛgveda, descriptions of this Soma having been brought from the mountains (Ṛ. Saṃ. 1-93-6; 3-48-2; 5-43-4, etc.). The mountain called Maujavata is famous for the Soma plant (Ṛ. Saṃ. 10-34-1; Vā. Saṃ. 3-61-1; Ni. 9-8, etc.). It is said here and there in the Ṛgveda (Ṛ. Saṃ. 8-7-29, 8-64-11, 9-65-22, etc.) that the Soma plant is found on the banks of the lake called Śaryaṇāvat. It is also said that Soma is found in the place called Ārjīka (Ṛ. Saṃ. 8-7-29, 8-64-11, etc.), in the country called Pastyā (Ṛ. Saṃ. 9-65-3), in the place where the five tribes called the Pañcajanas live (Ṛ. Saṃ. 9-65-23, 9-92-3, etc.), and in the regions around the river called Suṣomā (Ṛ. Saṃ. 8-7-29, 8-64-11, etc.). As to the last, Suṣomā, since it means su + soma, a place where good Soma is found, this region may have received the name Suṣoma. Therefore it is known that in the time of the Ṛgveda the Soma plant grew abundantly on the plains and river banks of what is now the Punjab. Since the plant growing on the plains did not yield as much juice as the plant growing on the mountains, they used the plant of the plains after soaking it well in water (Ṛ. Saṃ. 9-63-4, 9-74-9, 9-79-4, etc.).
+
+The stem of this plant grows to a height of about 4 feet. Its stem is round, soft and of a reddish colour mixed with white, and about a finger thick. The leaves are very few, white and small. Generally the leaves fall off. At the top of the plant there is a tuber (like an ear of sorghum) with some seeds. Its juice is white mixed with green. In taste it is slightly sweet, but if kept for some days it turns sour. When it grows near a big tree it spreads around the tree like a creeper. It has joints here and there. It can be broken easily.
+
+We shall briefly describe here the procedure to be followed when preparing the Soma juice. The Soma plant, which grew on river banks and on mountains, was brought with great effort, or bought from those who had brought it, and used in sacrifices. Even now the rite called the purchase of Soma is performed in sacrifices. After the Soma plant is brought, it is pounded with stones (grāva, adri), pressed, and strained through a cloth; then, as the occasion requires, curds, milk and flour are mixed with it, it is offered to the deities, and afterwards the sacrificer and the Ṛtvijs drink it; this is the custom. This preparation of the Soma juice takes place on the principal days of the sacrifice, in the morning, at noon and in the evening. It is called abhiṣavaṇa or savana (extracting the juice). The savana performed in the evening is called the third savana.
+
+### Printed p. 70
+
+The Soma plant (the creepers) is of a brown, reddish (russet) or yellowish-red colour. Since it is said that the plant grown very high on the mountains is the best and that more juice can be extracted from it, they brought the Soma plant from the mountains themselves wherever possible. Among such mountains the one called Mūjavata was famous. The shoot of this Soma plant has the name अंस (*aṃsa*) (Ṛ. Saṃ. 1-168-3; 3-48-2, etc.); a shoot with sprouts is called वक्षणा (*vakṣaṇā*) (Ṛ. Saṃ. 8-1-17) and वाण (*vāṇa*) (Ṛ. Saṃ. 4-28-9; 9-50-1); the Soma juice is called अंधः (*aṃdhaḥ*) (Ṛ. Saṃ. 1-28-7; 3-48-1; 4-16 1) **NOTE**; and the stalk (creeper) of the Soma plant is called पर्वन् (*parvan*) (Ṛ. Saṃ. 1-9-1); this is the usage.
+
+**The Procedure for Preparing the Soma Juice**
+
+The leaves on the Soma plant or creeper are removed, and it is put in a mortar and pounded with a stone. If the plant is not fresh, it is soaked in water for a day or two, and when it has become soft the juice is extracted. The mortar in which the Soma plant is pounded is called ulūkhala. It is generally made of stone; it is sometimes made of wood. The stone that is put into the mortar and pounded from above has the names grāvā (Ṛ. Saṃ. 1-83-6; 1-135-7) and adri (Ṛ. Saṃ. 1-130-2; 1-135-5; 1-137-1). It may be inferred that the ulūkhala was something like the mortar we use now, a stone with only a slight hollow in the middle. This mortar called ulūkhala was used for pounding grain with a pestle (musala).
+
+The procedure of pounding the Soma plant and preparing the Soma juice is nowhere described at length in the Ṛgveda. The procedure can be inferred from some sentences stated here and there. The stones for pounding the Soma plants have the names grāvā and adri. In some cases wooden boards, known by the name adhiṣavaṇa board (phalaka), are also used. If the plant is fresh, more juice comes out. Otherwise, that is, if some days have passed since it was cut and brought, they are soaked in water and afterwards placed on a skin. Then they are pounded with stones and the juice is extracted. Since the juice extracted in this way is mixed with husks, bits and the like of the plant, they strain that juice either through the gaps between the fingers of the hands, or through a sieve or cloth called pavitra, or through a sheep's wool **NOTE**. The juice strained in this way is clean and free of impurities. It has the names śukra and śuci. In appearance this juice is of a russet colour or a yellowish red. It is the custom to offer to Indra and to Vāyu pure Soma juice, that is, juice without any mixture of āśira substances. To the other deities it is sometimes used mixed with milk, curds and flour of grain. The Soma juice in which
+
+### Printed p. 71
+
+these are mixed has the names gavāśira, dadhyāśira and yavāśira respectively.
+
+**Vessels for the Soma Juice**
+
+The vessel in which Soma is placed for offering to the deities is called camū. The vessels the Ṛtvijs use for drinking Soma are called kalaśa and camasa. In some cases the word camū is also used to denote the mortar and the pounding stone (ulūkhala and grāvā, mortar and pestle) (Ṛ. Saṃ. 1-28-9; 4-18-3; 6-5-2). When the Soma plant is pounded, it is the custom generally to place it on skins. This skin is called त्वक् (*tvak*). The hide of a cow was used for this (Ṛ. Saṃ. 10-94-9; 10-116-4). The vessels in which Soma is collected and kept have names such as kośa (Ṛ. Saṃ. 7-101-4; 8-20-8), sadastha (Ṛ. Saṃ. 3-62-15; 9-1-2; 9-17-8), dru (Ṛ. Saṃ. 9-1-2-; 9-65-6; 9-98-2), vana (Ṛ. Saṃ. 2-14-9; 9-66-9) and droṇa (Ṛ. Saṃ. 9-15-2; 9-33-2). Sruva means a ladle (Ṛ. Saṃ. 1-116-24). The cloth or sieve that strains the Soma juice is called pavitra. In some cases they also strained the Soma through the gaps between the fingers. Soma juice used without mixture of other substances is called शुक्र (*śukra*) (Ṛ. Saṃ. 1-137-1; 3-32-2; 8-2-10) and शुचि (*śuci*) (Ṛ. Saṃ. 1-5-5; 1-30-2; 8-2-9). There are various descriptions: that the colour of this juice is of many kinds, बभ्रु (*babhru*) (Ṛ. Saṃ. 9-33-2; 9-63-4 and 6), हरित (*harita*) (Ṛ. Saṃ. 9-3-9; 9-7-6; 9-65-5), अरुण (*aruṇa*) (Ṛ. Saṃ. 9-40-2; 9-45-3), अरुष (*aruṣa*) (Ṛ. Saṃ. 9-61-21) and शोण (*śoṇa*) (Ṛ. Saṃ. 9-97-13), and that it is fragrant (Ṛ. Saṃ. 9-97-9, 9-107-2).
+
+To give the Soma juice taste, certain substances are mixed with it. This mixture is called āśira substances. Soma juice mixed with milk is called गवाशिर (*gavāśira*), that mixed with curds दध्याशिर (*dadhyāśira*), that mixed with flour यवाशिर (*yavāśira*). The Soma juice is sometimes said to be sharp (tīvra); it should then be understood to have a pungent smell or flavour. The husk-like part that remains after the Soma juice has been taken out is called ऋजीष (*ṛjīṣa*).
+
+Grāvā: the stone that pounds the Soma juice. As the word पृथुबुध्नः (*pṛthubudhnaḥ*) explains, this stone is a round stone broad at the bottom and like a handle above; a stone shaped like the grinding stone in a stone mill
+
+### Printed p. 72
+
+In the Ṛgveda the stones used for pounding the Soma plant are generally called by the words grāvā and adri.
+
+**Examples of Āśira Substances**
+
+Dadhyāśira: for this word the commentator has explained अवनीयमानं दध्याशीर्दोषघातकं येषां सोमानां ते दध्याशिरः (*avanīyamānaṃ dadhyāśīrdoṣaghātakaṃ yeṣāṃ somānāṃ te dadhyāśiraḥ*), that is, because curds are mixed with it to remove the faults in the Soma juice, it is called dadhyāśira. It was the custom to use the Soma juice mixed (for taste) not only with curds but also with other substances such as milk and flour. We have written about this at length in this Ṛgveda Saṃhitā, Part 1, page 6:6. The word दध्याशिरः (*dadhyāśiraḥ*) occurs in 1-187-9 and in the other Ṛks given below:
+
+(1) इम अयातमिंदवः सोमसो दध्याशिरः सुतासो दध्याशिरः । (*ima ayātamiṃdavaḥ somaso dadhyāśiraḥ sutāso dadhyāśiraḥ |*) (Ṛ. Saṃ. 1-137-2) **GLOSS**
+
+(2) सुता इंद्राय वायवे सोमसो दध्याशिरः । (*sutā iṃdrāya vāyave somaso dadhyāśiraḥ |*) (Ṛ. Saṃ. 5-51-7) **GLOSS**
+
+(3) इम इंद्राय सुन्विरे सोमासो दध्याशिरः । (*ima iṃdrāya sunvire somāso dadhyāśiraḥ |*) (Ṛ. Saṃ. 7-32-4) **GLOSS**
+
+(4) एते पूता विपश्चितः सोमासो दध्याशिरः । (*ete pūtā vipaścitaḥ somāso dadhyāśiraḥ |*) (Ṛ. Saṃ. 9-22-3) **GLOSS**
+
+(5) सुता इंद्राय वज्रिणे सोमासो दध्याशिरः । (*sutā iṃdrāya vajriṇe somāso dadhyāśiraḥ |*) (Ṛ. Saṃ. 9-63-15) **GLOSS**
+
+(6) एते पूता विपश्चितः सोमसो दध्याशिरः ॥ (*ete pūtā vipaścitaḥ somaso dadhyāśiraḥ ‖*) (Ṛ. Saṃ. 9-101-12) **GLOSS**
+
+Besides this word dadhyāśira, Soma juices mixed with other substances, such as gavāśira and yavāśira, are recited in these Ṛks:
+
+(1) तीव्राः सोमास आ गह्याशीर्वंतः सुता इमे ॥ (*tīvrāḥ somāsa ā gahyāśīrvaṃtaḥ sutā ime ‖*) (1-23-1) **GLOSS**
+
+Since this Ṛk says आशीर्वंतः सोमासः (*āśīrvaṃtaḥ somāsaḥ*), it is stated in general that some kind of āśira substance, such as milk or curds, has been mixed with the Soma juice.
+
+(2) शतं वा यः शुचीनां सहस्रं ना समाशिरां ॥ (*śataṃ vā yaḥ śucīnāṃ sahasraṃ nā samāśirāṃ ‖*) (Ṛ. Saṃ. 1-30-2) **GLOSS**
+
+### Printed p. 73
+
+Here समाशिरां (*samāśirāṃ*) is said in general to mean that āśira substances have been well mixed with the Soma juice. No particular substance is named.
+
+(3) सुषुमा यातमदिभिर्गोश्रीता मत्सरा इमे सोमासो मत्सरा इमे। आ राजाना दिविस्पृशास्मत्र गंतमुप नः ॥ इमे नां मित्रावरुणा गवाशिरः सोमाः शुक्रा गवाशिरः ॥ (*suṣumā yātamadibhirgośrītā matsarā ime somāso matsarā ime| ā rājānā divispṛśāsmatra gaṃtamupa naḥ ‖ ime nāṃ mitrāvaruṇā gavāśiraḥ somāḥ śukrā gavāśiraḥ ‖*) (Ṛ. Saṃ. 1-137-1) **GLOSS**
+
+Here गोश्रीताः (*gośrītāḥ*) means mixed with the milk of cows; that is the meaning. The word गवाशिरः (*gavāśiraḥ*) in the last pāda of the same Ṛk also means Soma mixed with the milk of a cow.
+
+(4) शुचिरसि पुरुनिःष्ठाः क्षीरैर्मध्यतः आशीर्तः । दध्ना मंदिष्ठः शूरस्य ॥ (*śucirasi puruniḥṣṭhāḥ kṣīrairmadhyataḥ āśīrtaḥ | dadhnā maṃdiṣṭhaḥ śūrasya ‖*) (Ṛ. Saṃ. 8-2-9) **GLOSS**
+
+Here it is said that there are two different juices, one mixed with milk and one mixed with curds; that is, it should be understood that there are two kinds, the Soma juice mixed with milk and the Soma juice mixed with curds.
+
+(5) सं शुक्रासः शुचयः सं गवाशिरः सोमा इंद्रमंदिषुः ॥ (*saṃ śukrāsaḥ śucayaḥ saṃ gavāśiraḥ somā iṃdramaṃdiṣuḥ ‖*) (Ṛ. Saṃ. 8-52-10) **GLOSS**
+
+Here it is stated clearly that gavāśira means Soma mixed with milk.
+
+(6) अधा नियुत्व उभयस्य नः पिब शुचिं सोमं गवाशिरं ॥ (*adhā niyutva ubhayasya naḥ piba śuciṃ somaṃ gavāśiraṃ ‖*) (Ṛ. Saṃ. 8-101-10) **GLOSS**
+
+Here too it is Soma mixed with milk, called gavāśira, that is meant.
+
+(7) यत्ते सोम गवाशिरो भजामहे ॥ (*yatte soma gavāśiro bhajāmahe ‖*) (Ṛ. Saṃ. 1-187-9) **GLOSS**
+
+(8) इमदिंद्र गवाशिरं च नः पिब । (*imadiṃdra gavāśiraṃ ca naḥ piba |*) (Ṛ. Saṃ. 3-42-7) **GLOSS**
+
+Here two kinds of Soma juice are mentioned, gavāśira and yavāśira.
+
+(9) इंदोरिंद्रो यवाशिरः (*iṃdoriṃdro yavāśiraḥ*) (Ṛ. Saṃ. 8-92-4) **GLOSS**
+
+### Printed p. 74
+
+(10) त्रिकद्रुकेषु महिषो यवाशिरं तुविशुष्मस्तृपत्सोममपिबद्विष्णुना सुतं यथावशत् ॥ (*trikadrukeṣu mahiṣo yavāśiraṃ tuviśuṣmastṛpatsomamapibadviṣṇunā sutaṃ yathāvaśat ‖*) (Ṛ. Saṃ. 2-22-1) **GLOSS**
+
+Here it is said that yavāśira means Soma juice mixed with flour.
+
+(11) अश्वमेधस्य दानाः सोमा इव त्र्याशिरः ॥ (*aśvamedhasya dānāḥ somā iva tryāśiraḥ ‖*) (Ṛ. Saṃ. 5-27-5) **GLOSS**
+
+Here it is said that three kinds of substances, milk, curds and barley (yava), are mixed with the Soma juice.
+
+(12) साधोः पिब प्रतिकामं यथा ते रसाशिरः प्रथमं सोमस्य ॥ (*sādhoḥ piba pratikāmaṃ yathā te rasāśiraḥ prathamaṃ somasya ‖*) (Ṛ. Saṃ. 3-48-1) **GLOSS**
+
+Since रसाशिर (*rasāśira*) is said here, it means Soma mixed with either milk or curds.
+
+**The Method of Preparing the Soma Juice**
+
+(As in the Aitareya Brāhmaṇa)
+
+The Aitareya Brāhmaṇa describes in the following way the implements to be used when pressing the Soma juice, and the order of pressing and purifying.
+
+एतान्यस्य पुरुस्तादुपक्षृप्तानि भवंत्यथ सोमं राजानं क्रीणंति ते राज्य एवावृतौपवसथात्पतिनेशैश्चरंत्यथौपवसथ्यमहरेतान्यध्वर्युः पुरस्तादुप कल्पयेताधिषवणं चर्माधिषवणे फलके द्रोणकलशं दशापवित्रमद्रीन् पूतभृतं चाधवनीयं च स्थालीमुदंचनं चमसं च तद्यदेतद्राजानं प्रातरभिषुण्वंति तदेनानि द्वेधा विगृह्णीयादभ्यन्यानि सुनुयान्माध्यं दिनायान्यानि परिशिंष्यात् । (*etānyasya purustādupakṣṛptāni bhavaṃtyatha somaṃ rājānaṃ krīṇaṃti te rājya evāvṛtaupavasathātpatineśaiścaraṃtyathaupavasathyamaharetānyadhvaryuḥ purastādupa kalpayetādhiṣavaṇaṃ carmādhiṣavaṇe phalake droṇakalaśaṃ daśāpavitramadrīn pūtabhṛtaṃ cādhavanīyaṃ ca sthālīmudaṃcanaṃ camasaṃ ca tadyadetadrājānaṃ prātarabhiṣuṇvaṃti tadenāni dvedhā vigṛhṇīyādabhyanyāni sunuyānmādhyaṃ dināyānyāni pariśiṃṣyāt |*)
+
+(Ai. Brā. 7-32.)
+
+On the very first day on which the rite begins, the Adhvaryu must have ready all the implements needed for pressing out the juice, and then begin pressing the juice. The goat skin, droṇakalaśa, daśāpavitra, pūtabhṛt, ādhavanīya, sthālī, camasa, grāvā, adri and the like are the implements needed there. The procedure for obtaining the juice with these implements is as follows. (Or, among the variations of procedure, this may be one.)
+
+The Adhvaryu spreads out a skin and places on it the Soma plant in the form of aṃśu (creeper). First he places the adhiṣavaṇa board (a plank or stone) on it and pounds with the grāvā; then
+
+### Printed p. 75
+
+he takes the pounded Soma plants out from under the board and pounds them together. Then he places another board on it, and with the water of the vasatīvarī vessel collected on the previous day he pours water on this board, and in the camasa vessel of the Hotṛ, which stands on the right, he stirs three times the Soma plant that has been pounded and soaked with vasatīvarī water. After this nigrābha procedure he dips it in the vasatīvarī vessel and wets it with water. Then he places it on the grāvā, spreads a little grass over them, and pounds with another grāvā to press out the juice. This way of pounding is called abhiṣavaṇa. In this procedure of abhiṣavaṇa there are three alternatives. In the first, as described above, the Adhvaryu pounds eight times and performs the nigrābha procedure; in the second alternative eleven times, and in the third twelve times. After this preliminary abhiṣava procedure has been performed, he also carries out the mahābhiṣava in the order stated above (as required for each savana only) and pours the juice pressed out into the ādhavanīya vessel. Then he strains it through the cloth called daśāpavitra and passes it into the vessel called pūtabhṛt beneath it. At this time the Udgātṛ must hold this cloth called daśāpavitra.
+
+In the Ṛk 1-135-5, for the word मर्मृजंत (*marmṛjaṃta*), he has given the statement अध्वर्यवो दशापवित्रेण संमार्जयंति (*adhvaryavo daśāpavitreṇa saṃmārjayaṃti*): the Adhvaryus purify with the daśāpavitra; thus the matter described above has been indicated.
+
+What is said here as आद्रिभिः सुतानां (*ādribhiḥ sutānāṃ*) is described in the Taittirīya Saṃhitā in this way:
+
+आ ददे ग्रावास्यध्वरकृद्देवेभ्यो गंभीरमिममध्वरं कृध्युत्तमेन पविनेंद्राय सोमग्‌० सुषुतं मधुमंतं पयस्वंतं वृष्टिवनिं । (*ā dade grāvāsyadhvarakṛddevebhyo gaṃbhīramimamadhvaraṃ kṛdhyuttamena pavineṃdrāya somag0 suṣutaṃ madhumaṃtaṃ payasvaṃtaṃ vṛṣṭivaniṃ |*)
+
+(Tai. Saṃ. 1-4-1.)
+
+O grāvā for pressing, which is the means for the gods to carry out the sacrifice (upāṃśugraha or upāṃśusavana), I have taken you in order to press the Soma juice. With your sharp point press for Indra the Soma that is full of sweetness, full of juice and bringer of rain, and make the sacrifice deep. [With this mantra the grāvā (the pounding stone) is to be taken.]
+
+इंद्राय त्वा वृत्रघ्न इंद्राय त्वा वृत्रतुर इंद्राय त्वाभिमातिघ्न इंद्राय त्वादित्यवत इंद्राय त्वा विश्वदेव्यावते ॥ (*iṃdrāya tvā vṛtraghna iṃdrāya tvā vṛtratura iṃdrāya tvābhimātighna iṃdrāya tvādityavata iṃdrāya tvā viśvadevyāvate ‖*)
+
+O Indra, slayer of Vṛtra, this is offered to you; O Indra, conqueror of Vṛtra, this is for you; O Indra, slayer of enemies, this is for you; O Indra, accompanied by the Ādityas, this is for you; O Indra, accompanied by the Viśvedevas, this is for you. [With this mantra five separate offerings for the first oblation are to be indicated and measured]—
+
 ---
 
-**Progress note:** Done through printed p. 68. Third savana: Arbhava Pavamana, Gayatri-falcon story, Aindrarbhava yajya mantras, start of Soma plant discussion (pp. 63-68)
+**Progress note:** Done through printed p. 75. Soma plant discussion: preparation, vessels, asira substances, Aitareya Brahmana method (pp. 69-75)
