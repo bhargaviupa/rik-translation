@@ -12012,6 +12012,236 @@ O Agni, you become, like an eye, the illuminator of the great sacrifice (ऋत�
 
 O Agni, you are the illuminator of the sacrifice. You are its guardian. When you go for the sacrifice, then you are in the form of Varuṇa. O Agni of born wisdom, you are in the form of a grandson to the waters of rain. Of whichever sacrificer you enjoy the oblation, to him you are the messenger.
 
+### Printed p. 314
+
+##### English translation
+You are the eye, the protector of the great sacrifice: when you proceed to the rite, you are Varuna; you are the grandson of the waters, Jatavedas; you are the messenger (of him) whose oblation you enjoy.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भुवो॑ य॒ज्ञस्य॒ रज॑सश्च ने॒ता यत्रा॑ नि॒युद्धिः॒ सच॑से शि॒वाभिः॑ ।  
+> दि॒वि मू॒र्धानं॑ दधिषे स्व॒र्षां जि॒ह्वाम॑ग्ने चकृषे हव्य॒वाहं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुवः । यज्ञस्य । रजसः । च । नेता यत्र । नियुत्थभिः । सचसे , शिवाभिः ।  
+> दिवि ! मूर्धानं । दधिषे : स्वःसां । जिह्वां । अग्ने । चकृषे । हव्यवाहं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शपूर्णमासयोराग्नेयस्य याज्या भुवो यज्ञस्येत्येषा, सूत्रितं च ।
+> तासां याज्ञानुवाक्या अग्निर्मूर्धा भुवो यज्ञस्य । आ-१-६ । इति ॥ आग्नेयि
+> काचित्काम्यॆष्टिः । तस्यामेषैव याज्या, सूत्रितं च । आग्नेय्या उत्तरे नित्ये मूर्धन्वतः । आ. २-१० । इति ॥
+> हे अग्ने त्वं यत्र यस्मिन्नंतरिक्षे शिवाभिः कल्याणीभिर्नियुद्भिर्नियुत्संज्ञकाभिरश्वजातिभिः संबद्धं वायुं सचसे संगच्छसे तस्मिन्नंतरिक्षेयज्ञस्य रजसश्चोदकस्य
+> च नेता प्रापयिता भुवः । भवसि । अग्निर्वा इतो वृष्टिं समीरयतीति श्रुतेः ।
+> किंच दिवि द्युलोके मूर्धानं शिरोवत्पधानभूतं स्वर्षां सर्वस्य संभक्तारमादित्यं दधिषे । हविर्वहनद्वारेण धारयसि । हे अग्ने त्वं जिह्वां ज्वालां हव्यवाहं
+> हविषो वोढ्रीं चकृषे । करोषि ॥
+
+##### Gist of the bhāṣya
+
+This verse, भुवो यज्ञस्य (*bhuvo yajñasya*), is the yājyā of the offering to Agni in the Darśa and Pūrṇamāsa sacrifices. Sāyaṇa cites the sūtra: तासां याज्ञानुवाक्या अग्निर्मूर्धा भुवो यज्ञस्य । (*tāsāṃ yājñānuvākyā agnirmūrdhā bhuvo yajñasya |*) (Ā. 1-6). The Āgneyī is also a certain kāmyeṣṭi, and this same verse is its yājyā. The sūtra is आग्नेय्या उत्तरे नित्ये मूर्धन्वतः (*āgneyyā uttare nitye mūrdhanvataḥ*) (Ā. 2-10).
+
+"O Agni, in the atmosphere where you join the wind, which is linked with the auspicious horse-kinds called Niyut, you are the leader (conveyer) of the sacrifice and of the water." This is according to the śruti अग्निर्वा इतो वृष्टिं समीरयतीति (*agnirvā ito vṛṣṭiṃ samīrayatīti*). Further, "in heaven you bear Āditya, the head-like chief, the sharer of everything, by way of carrying the oblation. O Agni, you make your tongue, the flame, the bearer of the oblation."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which atmosphere
+- शिवाभिः (*śivābhiḥ*)—auspicious
+- नियुद्धिः (*niyuddhiḥ*)—(the wind) accompanied by horses
+- सचसे (*sacase*)—you join; there
+- यज्ञस्य (*yajñasya*)—for the sacrifice
+### Printed p. 315
+- रजसः (*rajasaḥ*)—to the water
+- नेता (*netā*)—as the conveyer
+- भुवः (*bhuvaḥ*)—you become
+- दिवि (*divi*)—in the heavenly world
+- मूर्धानं (*mūrdhānaṃ*)—chief like the head
+- स्वर्षां (*svarṣāṃ*)—pervading everywhere; (him) Āditya
+- दधिषे (*dadhiṣe*)—you bear
+- अग्ने (*agne*)—O Agni
+- जिह्वां (*jihvāṃ*)—your tongue in the form of flame
+- हव्यवाहं (*havyavāhaṃ*)—so as to carry the oblation
+- चकृषे (*cakṛṣe*)—you make
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the atmosphere where you join the wind accompanied by auspicious horses, you become the conveyer of the water for the sacrifice. You bear Āditya, who is chief like the head of heaven and pervades everywhere. O Agni, you make your tongue, in the form of flame, a bearer of the oblation.
+
+##### English translation
+You are the leader of the sacrifice and sacrificial water to the place in which you are associated with the auspicious steeds of the wind: you sustain the all-enjoying (sun) as chief in heaven; you, Agni, make your tongue the bearer of the oblation
+
+##### विशेषविषयगळु (Special Topics)
+
+In the offering made to Agni in the Darśa and Pūrṇamāsa sacrifices, this Ṛk भुवो यज्ञस्य (*bhuvo yajñasya*) is to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra तासांयाज्यानुवाक्या अग्निमूर्धा भुवो यज्ञस्य (*tāsāṃyājyānuvākyā agnimūrdhā bhuvo yajñasya*) (Ā. 1-6). And in a kāmyeṣṭi called Āgnīyā, this Ṛk is likewise to be recited as the yājyā mantra, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra आग्नेया उत्तरे नित्ये मूर्धन्वतः (*āgneyā uttare nitye mūrdhanvataḥ*) (Ā. 2-10).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य त्रि॒तः क्रतु॑ना न॒व्रे अं॒तरि॒च्छस्थि॒तिं पि॒तुरेवैः॒ पर॑स्य ।  
+> स॒च॒स्यमा॑नः पि॒त्रोरु॒पस्थे॑ जा॒मि ब्रु॑वा॒ण आयु॑धानि वेति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । त्रितः । क्रतुना । वव्रे । अंतः । इच्छन् । धीतिं । पितुः । एवैः । परस्य ।  
+> सचस्यमानः । पित्रोः । उपस्थे । जामि । ब्रुवाणः । आयुधानि । वेति ॥ ३ ॥
+
+**NOTE**
+### Printed p. 316
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिंस्तृच इममर्थं ब्रवीति । हे त्रित सर्वेषामायुधानि वेत्ता त्वं
+> त्वृष्टपुत्रस्य त्रिशिरसो वदार्थं मम साहाय्यं कुर्वतींद्रेणैवं पृष्टस्तितः
+> स्थवीर्यवृद्ध्यर्थं यज्ञभागं वव्रे । स चेंद्रस्तस्यॆ पाणिप्रक्षालनार्थं च जलं
+> यज्ञभागं च दत्तवान् । अनेन यज्ञभागेन वृद्धवीर्यस्तित एतत्संज्ञक ऋषिरेवैरात्मनो रक्षणैर्युक्तोऽंतर्यज्ञस्य मध्ये धीतिं भागमिच्छन् परस्कोत्कृष्टस्य
+> पितुः सर्वस्य जगतः पालयितुरस्येंद्रस्य क्रतुना त्रिशिरसो मम वधार्थं साहाय्यभूतेन कर्मणा निमित्तेन वव्रे । सखायं वृतवान् । किंच पित्रोर्मातापितृभूतयोर्द्यावापृथिव्योरुपस्थे समीपस्थे यज्ञे सचस्यमान ऋत्विग्भिः सेव्यमानस्मितो
+> जामि योग्यमिंद्रस्यानुरूपं स्तोत्रं ब्रुवाण इंद्रस्य बलवृद्ध्यर्थमुच्चारयन्नायुधानि स्वभूतानि वेति । त्वष्टपुत्रस्य मम वदार्थमागच्छति ॥
+
+##### Gist of the bhāṣya
+
+In this ṛc the speaker (Triśiras, Tvaṣṭṛ's son) says: "O Trita, knower of the weapons of all, he who helps me in killing Tvaṣṭṛ's son Triśiras was thus asked by Indra, and Trita chose a share of the sacrifice to increase his own strength. Indra gave him water to wash his hands and a share of the sacrifice. Strengthened by this share, Trita, the seer so named, endowed with protections for himself, desiring a share (धीतिं (*dhītiṃ*)) within the sacrifice, chose (as friend) the supreme father, the protector of the whole world, this Indra, by his act (क्रतुना (*kratunā*)), that is, the act that was to help in my, Triśiras', killing. Further, attended by the priests at the sacrifice near the parents, heaven and earth, and reciting a fitting praise of Indra to increase Indra's strength, he takes up his own weapons; he comes to kill me, Tvaṣṭṛ's son."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रितः (*tritaḥ*)—of the seer named Trita
+- एवैः (*evaiḥ*)—accompanied by (his) self-protections
+- अंतः (*aṃtaḥ*)—in the middle of the sacrifice
+- धीतिं (*dhītiṃ*)—a share
+- इच्छन् (*icchan*)—desiring
+- परस्य (*parasya*)—of the supreme
+- पितुः (*pituḥ*)—protector
+- अस्य (*asya*)—of this Indra, the friendship
+- क्रतुना (*kratunā*)—by reason of the act of help
+- वव्रे (*vavre*)—he asked for
+- पित्रोः (*pitroḥ*)—of the parents of the world, heaven and earth
+- उपस्थे (*upasthe*)—at the sacrifice nearby
+- सचस्यमानः (*sacasyamānaḥ*)—being attended by the priests
+- जामि (*jāmi*)—praise pleasing to Indra
+- ब्रुवाणः (*bruvāṇaḥ*)—reciting
+- आयुधानि (*āyudhāni*)—his own weapons
+- वेति (*veti*)—takes up
+
+##### भावार्थ (Bhāvārtha)
+
+The seer named Trita, endowed with self-protections and desiring a share in the sacrifice, asked for the friendship of Indra, the supreme protector, as help for the killing of Triśiras. At the sacrifice near heaven and earth, the parents of the world, attended by the priests and reciting a praise pleasing to Indra, he takes up his weapon.
+
+##### English translation
+Trita by (his own) powers, desiring a share (of the sacrifice), for the sake of taking part in the exploit of the supreme protector (of the world), chose (Indra as his friend); attended (by the priests) in the proximity of the parental heaven and earth, and reciting appropriate praise, he takes up his weapons.
+
+### Printed p. 317
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स पित्र्या॒ण्यायु॑धानि वि॒द्वानिंद्रे॑षित आ॒प्त्यो अ॒भ्य॑युध्यत् ।  
+> त्रि॒शी॒र्षाणं॑ स॒प्तर॑श्मिं जघ॒न्वान् त्वा॒ष्टस्य॑ चि॒न्निः स॑स्यजे त्रि॒तो  
+> गाः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पित्र्याणि । अयुधानि । विद्वान् । इंद्रइषितः । आप्त्यः । अभि । आयुध्यत् ।  
+> त्रिशीर्षाणं । सप्तरश्मिं । जघन्वान् । त्वाष्टस्य । चित् । निः । ससृजे । त्रितः । गाः ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्त्य अप्तस्य पुत्रोऽपां पुत्रो वा ॥ तकारोपजनश्चांदसः ॥ स त्रितः
+> पित्राणि स्वपितृसंबंधीन्यायुधानि विद्वाञ्ज्ञानन्निंद्रेषितस्त्रिशिरसा मया सह युद्धार्थमिंद्रेण प्रेषितः सन्नभ्ययुध्यत् । अभिमुख्येन युद्धवान् । तदनंतरं सप्तरश्मिं
+> शत्रुनियमनार्थं सप्तप्रग्रहहस्तं : यद्वा । सप्तरश्मिरादित्यः । तत्सदृशं । त्रिशीर्षाणं
+> त्रिशिरस्कं मां जघन्तान् । हतवान् । मूर्च्छितं कृतवानित्यर्थः । किंच त्रितस्त्वाष्टृ
+> चित्त्वष्टपुत्रस्य ममापि गाः पशून्नि: सस्यजे । विसृष्टवान् । अपहृतवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Āptya means son of Apta, or son of the waters; the त (*ta*) is a Vedic added letter. That Trita, knowing the weapons connected with his own father, and sent by Indra to fight with me, Triśiras, fought face to face. After that he slew me, the three-headed one who am seven-rayed, that is, holding seven reins in the hand to restrain enemies; or else, seven-rayed is the sun, and I am like him. The meaning is that he made me unconscious. Further, Trita released the cows, the animals, of me also, Tvaṣṭṛ's son; the meaning is that he carried them off.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आप्तः (*āptaḥ*)—the son of the waters
+- सः (*saḥ*)—Trita
+- पित्राणि (*pitrāṇi*)—belonging to his father
+- आयुधानि (*āyudhāni*)—weapons
+- विद्वान् (*vidvān*)—knowing
+- इंद्रेषितः (*iṃdreṣitaḥ*)—and urged by Indra
+- अभ्ययुध्यत् (*abhyayudhyat*)—fought with the enemy
+- सप्तरश्मिं (*saptaraśmiṃ*)—one with seven rays (weapons)
+- त्रिशीर्षाणं (*triśīrṣāṇaṃ*)—and with three heads, the enemy (me)
+- जिघन्वान् (*jighanvān*)—killed
+- त्रितः (*tritaḥ*)—Trita
+- त्वाष्ट्रस्य चित् (*tvāṣṭrasya cit*)—of Tvaṣṭṛ's son
+- गाः (*gāḥ*)—the cattle
+- निः सस्यजे (*niḥ sasyaje*)—released
+
+##### भावार्थ (Bhāvārtha)
+
+Trita, the son of the waters, knowing the weapons belonging to his father and urged by Indra, fought with the enemy. He killed the enemy who had seven kinds of weapons and three heads. Trita released the cattle of Tvaṣṭṛ's son.
+
+### Printed p. 318
+
+##### English translation
+He, the son of the waters, incited by Indra, skilled in his paternal weapons, fought against (the enemy), and slew the seven-rayed, three-headed (Asura): then Trita set free the cows of the son of Twashtri.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरीदिंद्र॑ उ॒दिन॑क्षंत॒मोजोऽवा॑भिन॒त्सत्प॑ति॒र्मन्य॑मानं ॥  
+> त्वा॒ष्ट्रस्य॑ चिद्वि॒श्वरू॑पस्य॒ गोना॑माचक्रा॒णस्त्रीणि॑ ती॒र्षा परा॑  
+> वर्क् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूरि । इत् इंद्रः । उत्ऽइनक्षंतं । ओजः । अव । अभिनत् । सत्ऽपतिः । मन्यमानं ।  
+> त्वाष्ट्रस्य । चित् । विश्वरूपस्य । गोनां । आचक्राणः । त्रीणि । शीर्षा । परा ।  
+> वर्गिति वर्क् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्पतिः सतां पालक इंद्रो भूरीद्भ्येव पूर्वतुल्यमतिरिक्तं नौजो
+> बलमुदिनक्षंतं व्याप्नुवंतं मन्यमानं शूरमित्यात्मानं चिंतयंतं । यद्वा ।
+> मन्यतिर्दिप्तिकर्मा क्रोधकर्मा ना । दीप्यमानं क्रुद्ध्यंतं वा । त्वष्टपुत्रं
+> मामनाभिनत् । वज्रेण विदारितवान् । विदार्य त्वाष्ट्रस्य चित्त्वष्टपुत्रस्यापि
+> गोनां गवां । स्वामिन इति शेषः । विश्वरूपस्य मम त्रीणि तीर्षा शीर्षाण्याचक्राण
+> आ समंताच्छब्दं कुर्वन् परा वर्क् । पराङ्मुखस्य वृक्षवान् । भिन्नवानित्यर्थः ।
+> ईदृशं भावि वस्तु विश्वरूपः स्वप्नांतेनेन तृचेन दृष्टवान् ॥
+
+##### Gist of the bhāṣya
+
+Indra, Satpati, protector of the good, भूरीत् (*bhūrīt*), that is, exceedingly (more than before), crushed (अवाभिनत् (*avābhinat*), split with the vajra) me, Tvaṣṭṛ's son, who was attaining ओजः (*ojaḥ*) (strength), pervading and thinking himself a hero (मन्यमानं (*manyamānaṃ*)). Or else: manyati is among the words for brilliance and for anger, so "blazing" or "angry". Having split me, he, shouting on every side (आचक्राणः (*ācakrāṇaḥ*)), cut off (परा वर्क् (*parā vark*), "turned away and cut") the three heads (त्रीणि तीर्षा (*trīṇi tīrṣā*)) of me, Viśvarūpa, who am also the lord of cattle (गोनां (*gonāṃ*), the word "lord" being understood), son of Tvaṣṭṛ. Viśvarūpa saw such a future event at the end of a dream, through this tṛca.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्पति: (*satpati:*)—protector of the good
+- इंद्रः (*iṃdraḥ*)—Indra
+- भूरीत् (*bhūrīt*)—exceedingly
+- ओजः (*ojaḥ*)—strength
+- उदिनक्षंतं (*udinakṣaṃtaṃ*)—one possessing; and
+- मन्यमानं (*manyamānaṃ*)—one with the arrogant belief that he himself is greater, namely the son of Tvaṣṭṛ
+- अवाभिनत् (*avābhinat*)—split
+- त्वाष्ट्रस्य चित् (*tvāṣṭrasya cit*)—the son of Tvaṣṭṛ, and
+- गोनां (*gonāṃ*)—lord of the cattle
+- विश्वरूपस्य (*viśvarūpasya*)—of Viśvarūpa
+- त्रीणि शीर्षा (*trīṇi śīrṣā*)—the three heads
+- आचक्राणः (*ācakrāṇaḥ*)—shouting
+- परा वर्क् (*parā vark*)—split off
+### Printed p. 319
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the protector of the good, split the son of Tvaṣṭṛ, who had exceeding strength and the arrogant belief that he himself was greater. Shouting, he split off the three heads of Viśvarūpa, the son of Tvaṣṭṛ and lord of cattle. (Thus Viśvarūpa, the seer of this sūkta, saw in his dream.)
+
+##### English translation
+Indra, the protector of the virtuous, crushed the arrogant (foe), attaining vast strength; shouting, he cut off the three heads of the multiform son of Twashtri (the lord) of cattle.
+
+## Sūkta 9 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+The ninth sūkta. In this sūkta the presiding deities of water, the *advaitègaḷu***NOTE**, are praised. The seer of this sūkta is Triśiras, the son of Tvaṣṭṛ, called त्रिशिरास्त्वाष्ट्रः (*triśirāstvāṣṭraḥ*), or Sindhudvīpa Āmbarīṣa. The sixth Ṛk of this sūkta is read as the twentieth Ṛk of the twenty-third sūkta of the first maṇḍala. But the Ṛk there, अप्पु मे सोमः (*appu me somaḥ*), has four pādas and is in the Anuṣṭubh metre, whereas the sixth Ṛk of the present sūkta has only three pādas and is a mantra in the Gāyatrī metre: the last pāda, आपश्च विश्वभेषजीः (*āpaśca viśvabheṣajīḥ*), is not there. The seer of the twenty-third sūkta of the first maṇḍala is Medhātithi, son of Kaṇva. The seer of the present sūkta, as said above, is Triśiras Tvāṣṭra or Sindhudvīpa. Likewise the 7th, 8th and 9th Ṛks of the present sūkta are read, without any difference, as the 21st, 22nd and 23rd Ṛks of the twenty-third sūkta. For this reason, that is, because these four Ṛks, the 6th, 7th, 8th and 9th of the present sūkta, were already read earlier as the 20th, 21st, 22nd and 23rd Ṛks of the twenty-third sūkta of the first maṇḍala, the bhāṣyakāra has not written the bhāṣya of these Ṛks again nor explained their meaning. Nevertheless I have written again the bhāṣya and the explanation made earlier.
+This sūkta, which praises the presiding deities of water called आपः (*āpaḥ*), has special importance. By the waters consecrated by the recitation of this sūkta, the seer Sindhudvīpa removed the guilt of brahmin-slaying that had come upon Indra because he had killed his own priest, called Viśvarūpa, and made him pure…
+
 ---
 
-**Progress note:** Done through printed p. 313. pp. 307-313 (batch API)
+**Progress note:** Done through printed p. 319. pp. 314-319 (batch API)
