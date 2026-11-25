@@ -27951,6 +27951,112 @@ By the power through which Indra is possessor of true wealth, therefore they off
 
 Indra, of fine strength, pervades (व्यानट् (*vyānaṭ*)) the enemy armies (पृतनाः (*pṛtanāḥ*)): unopposed by anyone in battles he conquers the enemies. Further पूर्वीः (*pūrvīḥ*): here the word पूर्व (*pūrva*) means excellent; the excellent enemy armies, though powerless, strive (यतंते (*yataṃte*)) for friendship with this Indra, that is, for alliance; they wish to make peace. The latter half of the verse is a separate sentence, being addressed directly: O Indra, the chariot of your own which you drive with auspicious, fine, others-favouring thought, in the sacrifices ….
 
+### Printed p. 783
+
+> प्रेरयसि तं रथमस्मद्यज्ञं प्रत्यागंतं महतादरेणा तिष्ठ । आरोह । तत्रदृष्टांतः ।
+> पृतनासु संग्रामेषु रथं न यथा स्वरथं महतादरेणातिष्ठसि तद्वत् । स्मेति
+> पदपूरणः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the gloss of the second half-verse. Indra is told to mount, with great respect, the chariot that he drives to come back to our sacrifice. The example is that in battles he mounts his own chariot with great respect, and he is asked to do the same here. The word स्मेति (*smeti*) is only a filler of the line.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वोजाः (*svojāḥ*)—one of excellent valour
+- इंद्रः (*iṃdraḥ*)—Indra
+- पृतनाः (*pṛtanāḥ*)—the enemy armies
+- व्यानट् (*vyānaṭ*)—pervades
+- पूर्विः (*pūrviḥ*)—the excellent enemy armies
+- अस्मै (*asmai*)—with this Indra
+- सख्याय (*sakhyāya*)—for a treaty
+- आ यतंते (*ā yataṃte*)—strive
+- (O Indra) पृतनासु (*pṛtanāsu*)—in battles
+- रथं न (*rathaṃ na*)—as you mount your excellent chariot
+- यं (*yaṃ*)—which chariot
+- भद्रया (*bhadrayā*)—with that which is auspicious
+- सुमत्या (*sumatyā*)—with a mind that is gracious
+- चोदयासे (*codayāse*)—you drive
+- रथं (*rathaṃ*)—that same chariot
+- आ तिष्ठ (*ā tiṣṭha*)—mount, to come to our sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, of excellent valour, pervades the enemy armies. The excellent enemy armies strive with this Indra for a treaty. O Indra, mount, to come to our sacrifice, that same chariot which you drive with an auspicious and gracious mind, just as you mount your excellent chariot in battles.
+
+##### English translation
+The powerful Indra reaches the hosts (of the enemy), the mightiest (hosts) exert themselves to obtain his friendship: ascend, Indra, that chariot which you direct with favourable intent (to our sacrifice), as a chariot (which you mount) against the armies (of the foe).
+
+## Sūkta 30 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+Introduction. For this sūkta and the next five sūktas the seer is Kavaṣa, son of Ilūṣa. Because he was born of a Śūdra serving-woman, he was a Śūdra and the son of a serving-woman, and the Brāhmaṇas, the ṛṣis and others, did not keep social dealings with him. He had no entry into the sacrificial hall. There is an old story about this in the Aitareya Brāhmaṇa and in the Kauṣītaki Brāhmaṇa. We set it out here.
+
+### Printed p. 784
+Account in the Aitareya Brāhmaṇa
+
+यषयो वै सरस्वत्यां सत्रमासत ते कवषमैलूषं सोमादनयन्दास्याः पुत्रः कितवोऽब्राह्मणः कथं नो मध्येऽदीक्षिष्टेति तं बहिर्धन्वोदवहन्नतैनं पिपासा हंतु सरस्वत्या उदकं मा पादिति स बहिर्धन्वोदूह्रळः पिपासया वित्त एतदपोनप्रीयमपश्यत्प्र देवत्रा ब्रह्मणे गातुरेत्विति तॆनापां प्रियं धामोपागच्छत्तमापोऽनूदायंस्तं सरस्वती समंतं पर्यधावत् ॥ (*yaṣayo vai sarasvatyāṃ satramāsata te kavaṣamailūṣaṃ somādanayandāsyāḥ putraḥ kitavo 'brāhmaṇaḥ kathaṃ no madhye 'dīkṣiṣṭeti taṃ bahirdhanvodavahannatainaṃ pipāsā haṃtu sarasvatyā udakaṃ mā pāditi sa bahirdhanvodūhraḷaḥ pipāsayā vitta etadaponaprīyamapaśyatpra devatrā brahmaṇe gāturetviti tènāpāṃ priyaṃ dhāmopāgacchattamāpo 'nūdāyaṃstaṃ sarasvatī samaṃtaṃ paryadhāvat ‖*) (Ai. Brā. 8-19) **NOTE**
+
+In former times some ṛṣis, the Bhṛgus, Aṅgirases and others, were performing a sattra sacrifice on the bank of the river Sarasvatī. A sattra is a special sacrifice lasting not fewer than twelve days, thirteen, fourteen or more. In a sacrifice of this kind there are many sacrificers; that is, many join together to perform it. Many ṛṣis, the Bhṛgus, Aṅgirases and others, had gathered at that sacrificial altar. In their midst sat one Kavaṣa, son of Ilūṣa. He was a Śūdra by birth and the son of a serving-woman. When the ṛṣis saw him sitting down among them, they said: "What is this? That this Kavaṣa, son of a serving-woman and a gambler, should come here and sit in our midst! He is not a Brāhmaṇa. Does one who is not a Brāhmaṇa come and sit among ṛṣis rich in good conduct and learn the secrets of sacrifices and of their rules and ordinances? This is against the world." So saying, they drove Kavaṣa by force out of the sacrificial hall. Thinking also that this sinful man was not fit to drink the water of the holy river Sarasvatī, they forcibly took him to a sandy desert, without water or shade, a long way from the Sarasvatī, and left him there, saying: "Let him die there of thirst." In that sandy land without water or shade Kavaṣa, worn out and limp with thirst, was suffering, when the sūkta प्र देवत्रा ब्रह्मणे (*pra devatrā brahmaṇe*) (Ṛ. Saṃ. 10-30) appeared to him. He then recited that mantra silently, and by the grace of the deities presiding over the waters a region abounding in water appeared to him. As soon as he went there, the deities of the waters and the river Sarasvatī welcomed him with a gracious look and surrounded him on all sides with the flowing water.
+
+तस्माद्दाप्येतर्हि परिसरकमित्याचक्षते यदेनं सरस्वती समंतं परिससार (*tasmāddāpyetarhi parisarakamityācakṣate yadenaṃ sarasvatī samaṃtaṃ parisasāra*)
+
+Those learned in the Purāṇas say that the region which the river Sarasvatī encircled with her flood around Kavaṣa is an excellent special holy place called Parisaraka. The meaning is that, because Sarasvatī flowed round him (एनं परिससार (*enaṃ parisasāra*)), the name Parisaraka became a name fitting the place.
+
+### Printed p. 785
+ते ना ऋषयोऽब्रुवन्विदुर्वा इमं देवा उपेमं ह्वयामहा इति तथेति तमुपाह्वयंत तमुहूय्यतदपोनप्रीयमकुर्वत प्र देवत्रा ब्रह्मणे गातुरेत्त्विति तेनापां प्रियं धामोपागच्छन्नुपदेवानां । स (*te nā ṛṣayo 'bruvanvidurvā imaṃ devā upemaṃ hvayāmahā iti tatheti tamupāhvayaṃta tamuhūyyatadaponaprīyamakurvata pra devatrā brahmaṇe gāturettviti tenāpāṃ priyaṃ dhāmopāgacchannupadevānāṃ | sa*)
+
+The ṛṣis saw that the river Sarasvatī had encircled Kavaṣa with her flood and favoured him, and said to one another: "This Kavaṣa has become worthy of the grace of the deities of the waters, Sarasvatī and the rest. None of a gambler's faults seem to be in him. Let us call him back to come to us." Having decided so, they called Kavaṣa back. They then completed, with all its parts, the sūkta प्र देवत्रा ब्रह्मणे (*pra devatrā brahmaṇe*) seen by him and the rite called Aponaprīya, and won the dear abode, that is, the grace, of the deities of the waters and of the other deities.
+
+उपापां प्रियं धाम गच्छत्युप देवानां जयति परमं लोकं य एवं वेद यश्चैवं विद्वानेतदपोनस्त्रीयं कुरुते । (*upāpāṃ priyaṃ dhāma gacchatyupa devānāṃ jayati paramaṃ lokaṃ ya evaṃ veda yaścaivaṃ vidvānetadaponastrīyaṃ kurute |*) (Ai. Brā. 8-19) **NOTE**
+
+The man who knows the matters stated above and completes with all its parts the rite called Aponaprīya becomes worthy of the grace of the deities and obtains the highest world.
+
+The account of Kavaṣa given in the Kauṣītaki Brāhmaṇa we set out here in brief.
+
+(Account in the Kauṣītaki Brāhmaṇa)
+
+माध्यमाः सरस्वत्यां सत्रमासत तद्धापि कवषो मध्यॆ निषसाद । तं हेम उपोदुद्वास्या वै त्वं पुत्रोऽसि न वयं त्वया सह भक्षयिष्याम इति सह क्रुद्धः प्रद्रवन्त्सरस्वतीमेतेन सूक्तेन तुष्वाव । तं हेयमन्वेयाय त उ हेमे निरागा इव मेनिरे तं हान्यावृत्योचुर्यषे नमस्ते अस्तु मा नो हिंसीत्वं वै नः श्रेष्ठोऽसि यं त्वेयमन्वेतीति। तं ह यज्ञपयां चक्रुस्तस्य ह क्रोधं विनिन्युः । स एष कवषस्यैष महिमा सूक्तस्य चानुवेदिता ॥ (*mādhyamāḥ sarasvatyāṃ satramāsata taddhāpi kavaṣo madhyè niṣasāda | taṃ hema upodudvāsyā vai tvaṃ putro 'si na vayaṃ tvayā saha bhakṣayiṣyāma iti saha kruddhaḥ pradravantsarasvatīmetena sūktena tuṣvāva | taṃ heyamanveyāya ta u heme nirāgā iva menire taṃ hānyāvṛtyocuryaṣe namaste astu mā no hiṃsītvaṃ vai naḥ śreṣṭho 'si yaṃ tveyamanvetīti| taṃ ha yajñapayāṃ cakrustasya ha krodhaṃ vininyuḥ | sa eṣa kavaṣasyaiṣa mahimā sūktasya cānuveditā ‖*) (Kau. Brā. 12-3) **NOTE**
+
+In former times ṛṣis called Mādhyamas were performing a sattra sacrifice on the bank of the river Sarasvatī. Here *Mādhyamas* means the seers of the sūktas in the seven middle maṇḍalas of the Ṛgveda (excluding the first maṇḍala and the last, 9th and 10th, of the ten), namely the ṛṣis Gṛtsamada, Viśvāmitra, Vāmadeva, Atri, Bharadvāja, Vasiṣṭha, and the ṛṣis of their lines. While these ṛṣis were performing the sacrifice on the bank of the Sarasvatī, one Kavaṣa came and sat among them
+
+### Printed p. 786
+. Seeing him, the ṛṣis rebuked him in anger: "O Kavaṣa, you are the son of a serving-woman, not a Brāhmaṇa. We shall neither eat nor drink sitting with you. Therefore leave this place and go." Hearing this, Kavaṣa left the place in anger, ran to the river Sarasvatī, praised that deity with this sūkta प्र देवत्रा ब्रह्मणे (*pra devatrā brahmaṇe*) and gained her grace. Sarasvatī, pleased with his praise, followed him wherever he went. Seeing this, the ṛṣis thought: "He is not faulty; let us call him back." They went to him and said: "O Kavaṣa, here is our homage to you. You are the best among us ṛṣis. Forgive the wrong we have done; do not harm us. The river Sarasvatī too is following you. There is no fault in you." Entreating him in many ways, they made him the leader in their sacrifice and appeased his anger. This is the greatness of the ṛṣi Kavaṣa, and it is by this ṛṣi that this sūkta प्र देवत्रा ब्रह्मणे (*pra devatrā brahmaṇe*) was seen and became well known.
+
+As to how this sūkta appeared to the ṛṣi Kavaṣa, the Kauṣītaki Brāhmaṇa itself says:
+
+तद्ध स्म पुरा यज्ञमुहो रक्षांसि तीर्थेष्टपो गोपायंति । तदेकेऽपोऽच्छ जग्मुस्तत एव तान् सर्वान् जघ्नुस्त एव तत् कवषः सूक्तमपश्यत्पंचदशर्चं प्र देवत्रा ब्रह्मणे गातुरेश्विति तदन्वब्रवीत्तेन यज्ञमुहो रक्षांसि तीर्थेभ्योपाहन् ॥ (*taddha sma purā yajñamuho rakṣāṃsi tīrtheṣṭapo gopāyaṃti | tadeke 'po 'ccha jagmustata eva tān sarvān jaghnusta eva tat kavaṣaḥ sūktamapaśyatpaṃcadaśarcaṃ pra devatrā brahmaṇe gātureśviti tadanvabravīttena yajñamuho rakṣāṃsi tīrthebhyopāhan ‖*)
+
+In former times the rākṣasas, creating obstacles to sacrifices and the like, killed the people who went to the rivers to bathe. Kavaṣa, a seer of mantras, saw this sūkta with his eye of knowledge and recited it. By reciting that mantra he drove away the rākṣasas who were near the river and destroyed them. So it is said.
+
+The rite called Aponaprīya
+With the ṛks of this sūkta the sacrificial rite called Aponaprīya is performed. Aponaprīya means uniting, according to rule and with mantras, the water in the vessel called Vasatīvarī with the water in another vessel called Ekadhanā.
+
+After the Hotṛ has recited the Prātaranuvāka mantras, the Adhvaryu directs the Hotṛ with the Praiṣa mantra परिहितेऽप इष्य होतः (*parihite 'pa iṣya hotaḥ*). In reply the Hotṛ says अपोनप्रीया अन्वाह (*aponaprīyā anvāha*). Then the Adhvaryu, by Praiṣa mantras,
+
+### Printed p. 787
+tells the Camasādhvaryu, the Maitrāvaruṇa and those who hold the Ekadhanā vessel to come. He directs the Neṣṭṛ to bring the sacrificer's wife. He says: "O Āgnīdhra, place the Hotṛ's camasa and the Vasatīvarī jar facing each other in the Cātvāla." Then the Camasādhvaryu brings the camasa. Those who hold the Ekadhanā vessel bring three vessels. The Adhvaryu then puts one blade of darbha in each of the three vessels and purifies them. The Neṣṭṛ brings the sacrificer's wife. She holds a vessel in her hand. Then the Adhvaryu puts one blade of kuśa in each of the vessels, recites the mantra देवीरापः (*devīrāpaḥ*), pours ghee to fill four sruvas and offers the oblation. Then the Adhvaryu brings the camasas of the Hotṛ and the Maitrāvaruṇa, together with the water of the Ekadhanā vessel, to the Vasatīvarī jar, and pours its water into the Hotṛ's camasa vessel, from that into the Maitrāvaruṇa's vessel, and again from the Maitrāvaruṇa's vessel into the Hotṛ's camasa. As the water is poured into the Hotṛ's camasa, the Hotṛ addresses the Adhvaryu and asks three times अवेरापोऽध्वर्या ३ उ (*averāpo 'dhvaryā 3 u*). The Adhvaryu replies उतेमनन्नमुः (*utemanannamuḥ*) (उतेमाः पश्य (*utemāḥ paśya*)). Then the Hotṛ performs the rising-up (pratyutthāpana) toward those waters.
+
+The procedure of this rite called Aponaprīya is stated separately in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā. In the Taittirīya Saṃhitā the order to be followed by the Adhvaryu is stated, and in the Aitareya Brāhmaṇa the mantras to be recited by the Hotṛ. Since the mantras to be recited by the Hotṛ belong to the Ṛgveda, we explain here only the order given in the Aitareya Brāhmaṇa.
+
+Explanation of the rite called Aponaprīya
+(as in the Aitareya Brāhmaṇa)
+After the recitation of the Prātaranuvāka, as soon as the Adhvaryu directs the Hotṛ with the Praiṣa mantra, the Hotṛ recites the mantras belonging to the Aponaprīya. In this recitation an order is to be followed. It is stated here:
+
+तत्संततमनुब्रूयात् । संततवर्षीह प्रजाभ्यः पर्जन्या भवति यत्रैवं विद्वानेतत्संततमन्वाह यदवग्राहमनुब्रूयाज्जिमूतवर्षीह प्रजाभ्यः पर्जन्यः स्यात्तस्मात्संततमेवानूच्यं । तस्य त्रिः प्रथमां संततमन्वाह तेनैव तत्सर्वं संततमनूक्तं भवति ॥ (*tatsaṃtatamanubrūyāt | saṃtatavarṣīha prajābhyaḥ parjanyā bhavati yatraivaṃ vidvānetatsaṃtatamanvāha yadavagrāhamanubrūyājjimūtavarṣīha prajābhyaḥ parjanyaḥ syāttasmātsaṃtatamevānūcyaṃ | tasya triḥ prathamāṃ saṃtatamanvāha tenaiva tatsarvaṃ saṃtatamanūktaṃ bhavati ‖*) (Ai. Brā. 8 19)
+
+When the mantras of the sūkta प्र देवत्रा ब्रह्मणे (*pra devatrā brahmaṇe*) that are to be recited in this rite called Aponaprīya are recited, they must be recited in one continuous stream, without stopping anywhere in the middle. If recited so,
+
+### Printed p. 788
+the god Parjanya will rain continuously for the benefit of the people. If instead the ṛks are recited with a stop at the pādas, or at half-ṛks, or at the ends of the ṛks, Parjanya will rain on mountains and the like, of use to no one, and will not rain on plants and the like. Therefore this sūkta must be recited in one stream to the end, without stopping anywhere in the middle. But is it not impossible to recite all the ṛks of this sūkta without stopping in the middle? In place of that, if the first ṛk of this sūkta is recited three times without the least stop, it is as if the sūkta itself had been recited without a stop.
+
+ता एता नवानंतरायमन्वाह । हिनोता नो अध्वरं देवयज्येति दशमीं । आवर्वृततीरध नु द्विधारा इत्यावृत्तास्वेकधनासु । (*tā etā navānaṃtarāyamanvāha | hinotā no adhvaraṃ devayajyeti daśamīṃ | āvarvṛtatīradha nu dvidhārā ityāvṛttāsvekadhanāsu |*) (Ai. Brā. 8-20)
+
+There is a special order in reciting the mantras of the sūkta प्रदेवत्रा (*pradevatrā*). Beginning with the first ṛk, प्र देवत्रा ब्रह्मणे (*pra devatrā brahmaṇe*), one recites to the end of the ninth ṛk, and then recites the 11th ṛk, हिनोता नो अध्वरं (*hinotā no adhvaraṃ*) (10-30-11). Then one must recite the 10th ṛk, आवर्वृततीरध (*āvarvṛtatīradha*). **NOTE**
+
+Here it is necessary to explain the order of performance in detail. On the Sutyā-day-before, that is, the day before the pressing of the Soma, after the Agnīṣomīya ceremony the waters called Vasatīvarī must be established on the sacrificial altar for use at the time of the Soma pressing. After midnight has passed, one gives up sleep and rises, touches the Āgnīdhra, Dhiṣṇya fires and the rest with the proper mantras, sets out the vessels needed for the Soma pressing, and directs the Hotṛ with the Praiṣa mantra to recite the Prātaranuvāka mantras. After the recitation of the Prātaranuvāka, one offers an oblation with the mantra शृणोत्वग्निः (*śṛṇotvagniḥ*), and, as the men go to fetch water in the Ekadhanā vessels, one directs the Hotṛ, for the recitation of the Aponaprīya sūkta, with the Praiṣa mantra एकधना अप आनय (*ekadhanā apa ānaya*). All these steps are described in the Adhvaryu's procedure. In this matter the great ṛṣi Āpastamba has laid down the course of action in sūtra sentences such as यित्राभिजानात्यभूदुषा (*yitrābhijānātyabhūduṣā*) and so on. The great ṛṣi Āśvalāyana too, regarding the recitation of the mantras and the rest belonging to the Hotṛ, has laid down the order in sentences such as परिहितेऽप इष्ट होतः (*parihite 'pa iṣṭa hotaḥ*). After the recitation of the ten ṛks of the sūkta (9-11), when the men who went to fetch water in the Ekadhanā vessels fill their vessels and return from the river, the Hotṛ recites the tenth ṛk of the sūkta, आवर्वृतशरीरध (*āvarvṛtaśarīradha*) (10-30-10).
+
 ---
 
-**Progress note:** Done through printed p. 782. pp. 777-782 (batch API)
+**Progress note:** Done through printed p. 788. pp. 783-788 (batch API)
