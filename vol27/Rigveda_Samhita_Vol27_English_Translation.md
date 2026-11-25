@@ -6196,6 +6196,304 @@ Soma, being purified and cleansed, flows (अक्षाः (*akṣāḥ*)) thr
 
 Soma, the purifier, who has attained purity, having many streams, abundant strength and shining, flows through the fibres of wool as a young child plays.
 
+### Printed p. 133
+
+##### English translation
+Pavamana Soma sporting like a child drops filtered through the woollen fleece, thousand-streamed, having the might of a hundred, radiant.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष पु॑ना॒नो मधु॑मा ऋ॒तावेंद्रा॒येंदुः॑ पवते स्वा॒दुरू॒र्मिः ।  
+> वा॒ज॒सनि॑र्वरिवो॒विद्व॑यो॒धाः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । पुनानः । मधुमान् । ऋतवा । इंद्राय । इंदु: पवते : स्वादुः  
+> ऊर्मिः ।  
+> वाजसनिः वरिवः वित् । वयःधाः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानो मधुमान् माधुर्योपेत ऋतवर्तवान् यज्ञवानिंदुः क्षरणशीलः स्वादुः स्वादुकर ऊर्मिरेष रसधारासंघ इंद्रायेंद्रार्थं
+> पवते । क्षरति । कीदृशः । वाजसनिरन्नस्य दाता वरिवोविद्वनस्य लंभको वयोधा
+> आयुषो दाता ॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified, is sweet, possessed of ṛta (the sacrifice), flowing and delicious; this wave, a stream of juice, flows for Indra's sake. He is described as the giver of food (वाजसनिः (*vājasaniḥ*)), the obtainer of wealth (वरिवोवित् (*varivovit*)) and the giver of life (वयोधाः (*vayodhāḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—the purifier
+- मधुमान् (*madhumān*)—endowed with sweetness
+- ऋतवा (*ṛtavā*)—possessing the sacrifice
+- इंदुः (*iṃduḥ*)—of flowing nature
+- स्वादुः (*svāduḥ*)—delicious
+- ऊर्मिः (*ūrmiḥ*)—possessing waves
+- एषः (*eṣaḥ*)—this Soma
+- वाजसनिः (*vājasaniḥ*)—the giver of food
+- वरिवोवित् (*varivovit*)—the giver of wealth
+- वयोधाः (*vayodhāḥ*)—the giver of life
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, who is the purifier, sweet, possessed of the sacrifice, flowing, delicious and wave-bearing, flows, as giver of food, wealth and life, for Indra to drink.
+
+### Printed p. 134
+
+##### English translation
+This Soma juice undergoing purification, sweet-flavoured, holy, dropping, flows for Indra a sweet stream, bestowing food, dispensing wealth and life.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॑वस्व॒ सह॑मानः पृत॒न्यून्तेध॒न्रक्षां॒स्यप॑ दु॒र्गहा॑णि ।  
+> स्वा॒यु॒धः सा॑स॒हवान्त्सो॑म॒ शत्रु॑न् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पवस्व । सहमानः । पृतन्यून् । सेधन् । रक्षांसि । अप । दुःगहानि ।  
+> सुआयुधः । ससहवान् । सोम । शत्रून् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम स तादृशस्त्वं पवस्व । किं कुर्वन् । पृतन्यून् ॥ कव्यध्वरपृतनस्यर्चि
+> लोप इति क्यचि परतोऽकारलोपः ॥ संग्रामकामाञ्त्यून् सहमानोऽभिभवन् तथा दुर्गहाणि कैश्चितपि दुर्गमाणि रक्षांस्यप सेधन्नपगमयन् हिंसन् ।
+> किंच स्वायुधः शोभनायधः सञ्त्यून्सासह्वानभिभवन्नभितपन् पवस्व ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, such as you are, flow." What doing? Overcoming (सहमानः (*sahamānaḥ*)) the पृतन्यून् (*pṛtanyūn*), those desiring battle (the elision of the a before kyac is by the rule he cites), and driving away (अप सेधन् (*apa sedhan*)) the demons hard for anyone to approach. Moreover, well-armed, mastering the enemies, flow, afflicting them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- सः (*saḥ*)—you, the renowned
+- पृतन्यून् (*pṛtanyūn*)—the enemies who desire battle
+- सहमानः (*sahamānaḥ*)—defeating
+- दुर्गहाणि (*durgahāṇi*)—unassailable
+- रक्षांसि (*rakṣāṃsi*)—the demons
+- अप सेधन् (*apa sedhan*)—destroying
+- स्वायुधः (*svāyudhaḥ*)—having excellent weapons
+- शत्रून् (*śatrūn*)—all enemies
+- सासहवान् (*sāsahavān*)—wholly defeating
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, renowned as you are, flow, defeating the enemies who desire battle, destroying the unassailable demons, well-armed, and wholly defeating all enemies.
+
+##### English translation
+Flow, Soma, overcoming (our) enemies, driving away the Rakshasas who are difficult to approach, well-armed, triumphing over foes.
+
+### Printed p. 135
+## Sūkta 111 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अया रुचेति तृचमष्टमं सूक्तं परुच्छेपपुत्रस्यानानताख्यस्यार्षमत्यष्टिच्छंदस्कं । पवमानसोमदेवताकं । तथा चानुक्रम्यते । अया रुचा तृचमनानतः पारुच्छेपिरात्यष्टमिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, अया रुचा (*ayā rucā*), a tṛca, has as its seer Anānata, son of Parucchepa; its deity is Pavamāna Soma; its metre is Atyaṣṭi. The Anukramaṇī says: अया रुचा तृचमनानतः पारुच्छेपिरात्यष्टमिति (*ayā rucā tṛcamanānataḥ pārucchepirātyaṣṭamiti*). The application (viniyoga) has been stated before.
+
+##### Anuvāda
+
+This sūkta beginning अया रुचा (*ayā rucā*) is the eighth sūkta in the seventh anuvāka; it has three ṛks. Its seer is Anānata, son of the seer Parucchepa; the deity is Pavamāna Soma; the metre is Atyaṣṭi. In the Anukramaṇī it is said: अया रुचा तृचमनानतः पारुच्छेपिरात्यष्टं (*ayā rucā tṛcamanānataḥ pārucchepirātyaṣṭaṃ*). The application of the sūkta has been stated earlier.
+
+Sūkta 111. Maṇḍala 9, Anuvāka 7; Aṣṭaka 6, Adhyāya 5, Varga 24. Number of ṛks in the sūkta: 3. Seer: Anānata Pārucchepi. Deity: Pavamāna Soma. Metre: Atyaṣṭi.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या रु॒चा हरि॑णा पुना॒नो विश्वा॒ द्वेषां॑सि तरति स्व॒युग्व॑भिः॒ सूरो॒ न स्व॒युग्व॑भिः ।  
+> धारा॑ सु॒तस्य॑ रोचते पुना॒नो अ॑रु॒षो हरिः॑ ।  
+> विश्वा॒ यद्रू॒पा प॑रि॒यात्यृक्व॑भिः स॒प्तास्ये॑भि॒र्ऋक्व॑भिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । रुचा । हरिण्या । पुनानः । विश्वा । द्वेषांसि । तरति । स्वयुग्वभिः । सूरः ।  
+> न । स्वयुग्वभिः ।  
+> धारा । सुतस्य । रोचते । पुनानः . अरुषः । हरिः ।  
+> विश्वा । यत् । रूपा । परियाति । यक्वभिः । सप्तआस्येभिः । यक्वभिः ॥ १ ॥
+
+### Printed p. 136
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानः सोमो हरिण्या हरितवर्णयायानया रुचा रोचमानया धारया विश्वा सर्वाणि द्वेषांसि द्वेष्टृणि रक्षांसि तरति । विनाशयति । तत्र
+> दृष्टांतः । सूरो न यथा सूर्यः स्वयुग्वभिः स्वयं युक्तै रश्मिभिस्तमांसि
+> हिनस्ति तद्वत् । स्वयुग्वभिरिति द्विरुक्तिरादरार्था । यद्वा । धारया युक्तः सोमः
+> स्वीय्यर्युक्तैस्तेजोभी रक्षांसि तरति । तस्य सुतस्याभिसुतस्य सोमस्य धारा
+> रोचते । दीप्यते । पुनानः पूयमानो हरिर्हरितवर्णः सोमोऽरुष आरोचमानो भवति । यद्यः सोमः सप्तास्येभीरसहरणशीलास्यॆर्ऋक्वभिः स्तुतिमद्भिर्युक्वभिस्तेजोभिर्विश्वा विश्वानि व्याप्तानि रूपा रूपाणि नक्षत्राणि परियाति गच्छति
+> व्याप्नोति ॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified, with this shining green-tinted stream overcomes (destroys) all hateful demons. The example: as the sun destroys darkness with its self-yoked rays, so he does; the repetition स्वयुग्वभिः (*svayugvabhiḥ*) is for emphasis. Or else: Soma, joined with the stream, overcomes the demons with his own yoked energies. The stream of the pressed Soma shines; being purified, the green Soma becomes radiant. Or: that Soma, with the seven-mouthed, juice-bearing, praise-accompanied ऋक्वभिः (*ṛkvabhiḥ*) (energies), goes about and pervades all forms, the constellations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरः (*sūraḥ*)—the sun
+- स्वयुग्वभिः न (*svayugvabhiḥ na*)—as he destroys darkness with rays born of himself
+- पुनानः (*punānaḥ*)—Soma, who is being purified
+- हरिण्या (*hariṇyā*)—green-hued
+- अया रुचा (*ayā rucā*)—with this radiance
+- विश्वा (*viśvā*)—all
+- द्वेषांसि (*dveṣāṃsi*)—enemies
+- स्वयुग्वभिः (*svayugvabhiḥ*)—with his own energies
+- तरति (*tarati*)—destroys
+- सुतस्य (*sutasya*)—of the pressed Soma
+- धारा (*dhārā*)—the stream
+- रोचते (*rocate*)—shines
+- यत् (*yat*)—which Soma
+- सप्तास्येभिः (*saptāsyebhiḥ*)—with seven (juice-bearing) mouths
+- ऋक्वभिः (*ṛkvabhiḥ*)—accompanied by praises
+- ऋक्वभिः (*ṛkvabhiḥ*)—with energies
+- विश्वा (*viśvā*)—all-pervading
+- रूपा (*rūpā*)—forms (constellations etc.)
+- परियाति (*pariyāti*)—possesses
+- पुनानः (*punānaḥ*)—being purified
+- हरिः (*hariḥ*)—green-hued
+- अरुषः (*aruṣaḥ*)—is radiant (golden)
+
+##### भावार्थ (Bhāvārtha)
+
+As the sun destroys darkness with rays born of himself, so Soma, being purified, destroys all enemies with this green-hued radiance. The stream of the pressed Soma juice shines. That Soma which possesses, with its juice-bearing, seven-mouthed energies accompanied by praises, the all-pervading forms such as the constellations, being purified and green-hued, is radiant.
+
+##### English translation
+With this bright green-tinted stream Soma being filtered overcomes all enemies with the (juices) yoked to it, as the sun (overcomes the darkness) with the (rays) yoked to it ; the stream of the effused (Soma) shines, the filtered green-tinted (Soma is) resplendent, which pervades all constellations, with the Rikvans, with the seven-mouthed Rikvans.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं त्यत्प॑णी॒नां वि॑दो॒ वस्तु॒ सं मा॒तृभि॑र्मर्जयसि॒ स्व आ  
+> दम॑ ऋ॒तस्य॑ धी॒तिभि॒र्दमॆ  ॑
+> प॒रा॒वतो॒ न साम॒ तद्यत्रा॒ रणं॑ति धी॒तयः॑ ।  
+> त्रि॒धातु॑भि॒ररु॑षीभि॒र्वयो॑ दधॆ:॒ रोच॑मानो॒ वयो॑ दधे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं : त्यत् । पणीनां । विदः । वसु । सं । मातृभिः । मर्जयसि । स्वे । आ । दमे ।  
+> ऋतस्य । धीतिभिः । दमे ।  
+> परावतः । न । साम । तत् । यत्र । रणंति । धीतयः ।  
+> त्रिधातुभिः । अरुषीभिः । वयः । दधे । रोचमानः । वयः । दधे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं तृप्तिणीनां वसु पणिभिरपहृतं गवात्मकं धन, विदः । अलभथाः । आ अपि चर्तस्य यज्ञस्य धीतिभिर्धात्रीभिर्मातृभिर्वसतीवरीभिः स्व आत्मीये
+> दमे गृहभूते दमे यज्ञे सं मर्जयसि । सम्यक् शुद्धो भवसि । परावतो नॆ
+> दूरस्थाद्देशाद्यथा साम सामध्वनिः श्रूयते तथा तव तत्सामध्वनिः सर्वॆः श्रूयते । असौ सोमाभिषवाभिप्रायेणोक्तः । यत्र यस्मिञ्चद्भीतयः कर्मणो
+> धर्तारो यजमाना रणंति रमंते । रोचमानः सोमस्त्रिधातुभिस्तर्याणां
+> लोकानां धारयित्रिभिर्मातृभिर्व सतीवरीभिररुषीभिरारोचमानाभिर्दिप्तिर्वयोS
+> न्नं दधे । स्तोतृभ्यः प्रयच्छति । पुनर्वयो दध इत्यादरार्थ० ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you found the wealth of the Paṇis, the wealth of cattle carried off by them. And you are well purified in your own house, the sacrifice, by the mothers, the supporting waters (वसतीवरीभिः (*vasatīvarībhiḥ*)) of the sacrifice. As the sound of a sāman is heard from a distant place, so that sound of yours is heard by all; this is said with reference to the pressing of Soma, in which the supporters of the rite, the sacrificers, rejoice. Shining Soma, with the radiant waters that sustain the three worlds, bestows food (वयः (*vayaḥ*)) on the praisers; the repetition वयो दधे (*vayo dadhe*) is for emphasis. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you (O Soma)
+- तृत् (*tṛt*)—renowned **NOTE**
+- पणीनां (*paṇīnāṃ*)—of the Paṇis (carried off by them)
+- वसु (*vasu*)—wealth consisting of cattle
+- विदः (*vidaḥ*)—you obtain
+- आ (*ā*)—and
+
+### Printed p. 138
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- धीतिभिः (*dhītibhiḥ*)—supporting
+- मातृभिः (*mātṛbhiḥ*)—by the waters वसतीवरीभिः (*vasatīvarībhiḥ*)
+- स्वे (*sve*)—your
+- दमे (*dame*)—house-like
+- दमे (*dame*)—in the sacrifice
+- सं मर्जयसि (*saṃ marjayasi*)—you are purified
+- परावतः (*parāvataḥ*)—from a very distant place
+- साम न (*sāma na*)—as the sound of the sāman is heard
+- यत्र (*yatra*)—in which sound of pressing
+- धीतयः (*dhītayaḥ*)—the sacrificers, supporters of the rite
+- रणंति (*raṇaṃti*)—rejoice
+- तत् (*tat*)—that sound of yours is heard by all
+- रोचमानः (*rocamānaḥ*)—the shining Soma
+- अरुषीभिः (*aruṣībhiḥ*)—with the glittering
+- त्रिधातुभिः (*tridhātubhiḥ*)—with the waters that sustain the three worlds
+- वयः (*vayaḥ*)—food
+- दधे (*dadhe*)—gives
+- वयः (*vayaḥ*)—food
+- दधे (*dadhe*)—provides
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you take the famous wealth of cattle carried off by the Paṇis. You are purified in your house, the sacrifice, by the waters that support the sacrifice. As the sound of the sāman is heard from a very distant place, that sound of your pressing, in which the sacrificers rejoice, is heard by all. The shining Soma, together with the glittering waters that sustain the three worlds, gives food to the sacrificers.
+
+##### English translation
+You did discover the wealth of the Panis, and are washed in your own house at the sacrifice by the mothers, the supporters of the sacrifice ; as the hymn (is heard) from afar, so it (is heard by all, the hymn) in which the supporters (of the rite) rejoice ; the shining (Soma) with its brilliant (waters), the supporters of the three (worlds), gives food (to the worshippers.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पूर्वा॒मनु॑ प्र॒दिशं॑ याति॒ चेकि॑त॒त्सं र॒श्मिभि॑र्यतते दर्श॒तो  
+> रथो॒ दैव्यू॑ दर्श॒तो रथः॑ ।  
+> अग्म॑न्नु॒क्थानि॒ पौंस्येंद्रं॒ जैत्रा॑य हर्षयन् ।  
+> वज्र॑श्च॒ यद्भव॑थो॒ अन॑पच्युता स॒मत्स्यन॑पच्युता ॥ ३ ॥
+
+### Printed p. 139
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्वां । अनु । प्रदिशं याति । चेकितत् । सं । शश्मिभिः । यतते । दर्शतः ।  
+> रथः । दैव्यः । दर्शतः । रथः ।  
+> अग्मन् । उक्तानि । पौंस्या । इंद्रं । जैत्राय । हर्षयन् ।  
+> वब्रः । च । यत् . भवथः । अनपच्यता । समत्सु । अनपच्युता ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चेकितज्ञानानः सोमः पूर्वां प्राचीनं प्रदिशं प्रकृष्णां दिशमनु याति ।
+> अनुगच्छति । किंच दर्शतः सर्वैर्दर्शनीयो दैवॊ देवेषु चवत्तन रथः सूर्यरश्मिभिः सं यतते । संगच्छते । पुनर्दर्शतो रथ इत्यावरार्णं । ततः पौंस्या
+> पुंस्तावगमान्युक्थानि स्तोत्राण्यग्निः । इंद्रं गच्छंति । राहा जैत्राय जयार्थं
+> तानि स्तोत्राणींद्रं हर्षयन् । हर्षयंति । तथा तस्य वजश्च तमिंग्रं गृति ।
+> यद्यदा समत्सु संग्रामेत्वनपच्युतानपच्युता शत्रुभिरपराजित् सोम त्वं
+> चेंद्रश्च युनां सह भवथः तदा स्तोत्रागमनादीनि जंति । पुनरनपच्युतॆ -
+> त्यादरार्थं ॥
+
+##### Gist of the bhāṣya
+
+Soma, the wise (चेकितत् (*cekitat*)), goes toward the eastern, foremost quarter. The chariot, visible to all and renowned among the gods, joins the sun's rays; the repetition दर्शतो रथः (*darśato rathaḥ*) is for emphasis. Then the manly hymns go to Indra and gladden him for the sake of victory; and his vajra also goes to Indra. When, in battles, you, Soma, and Indra are together unconquered by enemies, then the coming of the hymns and the rest takes place; the repetition अनपच्युता (*anapacyutā*) is for emphasis. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चेकितत् (*cekitat*)—Soma, the wise
+- पूर्वां प्रदितं (*pūrvāṃ praditaṃ*)—to the excellent eastern quarter
+- अनु याति (*anu yāti*)—goes and joins
+- दर्शतः (*darśataḥ*)—visible to all
+- दैन्यं (*dainyaṃ*)—renowned among the gods
+- रथः (*rathaḥ*)—Soma's chariot
+- रश्मिभिः (*raśmibhiḥ*)—with the sun's rays
+- सं यतते (*saṃ yatate*)—joins
+- यत् (*yat*)—when
+- समत्सु (*samatsu*)—in battles
+- अनपच्युता भवथः (*anapacyutā bhavathaḥ*)—you and Indra are unconquered by enemies
+- पौंस्या (*pauṃsyā*)—endowed with manly power
+- उक्तानि (*uktāni*)—hymns
+- अग्मन् (*agman*)—join Indra
+- जैत्राय (*jaitrāya*)—for gaining victory
+- इंद्रं (*iṃdraṃ*)—Indra
+- हर्षयन् (*harṣayan*)—gladden
+- वज्रश्च (*vajraśca*)—the vajra weapon too joins Indra
+
+##### भावार्थ (Bhāvārtha)
+
+The wise Soma goes and joins the excellent eastern quarter. The chariot of Soma, visible to all and renowned among the gods, joins the sun's rays. O Soma, when you and Indra are unconquered by enemies in battles, then the hymns endowed with manly power join Indra and gladden him for the sake of victory. The vajra also joins Indra.
+
 ---
 
-**Progress note:** Done through printed p. 132. pp. 127-132 (batch API)
+**Progress note:** Done through printed p. 139. pp. 133-139 (batch API)
