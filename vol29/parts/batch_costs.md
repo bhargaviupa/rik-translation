@@ -33,3 +33,4 @@
 | 31 | through p. 576 (three windows in one agent: pp. 557–576) | sonnet | 19 | 217764 | 6.8 |
 | 32 | through p. 602 (three windows in one agent: pp. 577–602; Venkata Rao essay on Indra) | sonnet | 24 | 236276 | 6.3 |
 | 33 | through p. 623 (three windows in one agent: pp. 603–623) | sonnet | 17 | 171386 | 3.2 |
+| 34 | through p. 646 (three windows in one agent: pp. 624–646) | sonnet | 24 | 267133 | 8.2 |
