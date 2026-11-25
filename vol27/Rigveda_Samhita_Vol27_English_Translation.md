@@ -23751,6 +23751,269 @@ Indra, by speech alone, makes his enemies विवाचः (*vivācaḥ*), of 
 - सहस्रा (*sahasrā*)—thousands of enemies
 - जघान (*jaghāna*)—has killed
 
+### Printed p. 680
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पिता (*pitā*)—the father (and)
+- तविषीं इव (*taviṣīṃ iva*)—as one increases the strength of his son
+- यः (*yaḥ*)—which Indra
+- शवः (*śavaḥ*)—the strength of the world
+- ववृधे (*vavṛdhe*)—makes to grow
+- अस्य (*asya*)—of that same Indra
+- तत्तदित् (*tattadit*)—that very famous
+- पौंस्यं (*pauṃsyaṃ*)—prowess
+- गृणीमसि (*gṛṇīmasi*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+We praise the famous prowess of that Indra who, by his speech alone, has made the enemies who make manifold noise silent and has slain many thousands of enemies, numerous and inauspicious. And as a father increases the strength of his son, so he makes the strength of the world grow.
+
+##### English translation
+We praise his manhood, who, having by his voice alone made the many-tongued speechless, has slain many thousand enemies, who supports tha strength (of the world) as a father the strength (of his son).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तोमं॑ त इंद्र विम॒दा अ॑जीजन॒न्नपू॑र्व्यं पुरु॒तमं॑ सु॒दान॑वे ।  
+> वि॒द्या ह्य॑स्य॒ भोज॑नमि॒नस्य॒ यदा प॒शुं न गो॒पाः क॑रामहे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमं । ते । इंद्र । विमदाः । अजीजनन् । अपूर्व्यं । पुरुतमं । सुदानवे ।  
+> विद्म । हि । अस्य । भोजनं । इनस्य । यत् । आ । पशुं । न । गोपाः । करामहे ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तुभ्यं सुदानवे शोभनदानस्यार्थाय विमदा विमदनामानो
+> वयं स्तोमं स्तोत्रविशेषमजीजनन् । जनितवंतः । कृतवंत इत्यर्थः ॥ अत्र
+> पूर्वोत्तरयोरेकवाक्ययोः पुरुषव्यत्ययः ॥ कीदृशं । अपूर्वमपूर्वमन्यैः
+
+##### Gist of the bhāṣya
+
+"O Indra, we who bear the name Vimada have produced for you, for the sake of your good giving, a special praise (स्तोमं (*stomaṃ*))." अजीजनन् (*ajījanan*) means "have produced, have made". Here, in the two sentences that form one statement, there is an interchange of person. What kind of praise? अपूर्वं (*apūrvaṃ*): not made before by others, that is, excellent.
+
+### Printed p. 681
+
+> पूर्वमकृतं । उत्कृष्टमित्यर्थः । पुरुतमं बहुतमं । नानाप्रकारोपेतमित्यर्थः ।
+> हि यस्मात्कारणाद्दे इंद्र इनस्येश्वरस्यास्यॆदृशस्य तव यद्भोजनं धनमस्तीति विद्म
+> वयं जानीमः तस्मात्कारणात्त्वदीयं तद्धनमा करामहे । वयमस्मदभिमुखं
+> कुर्महे । तत्र दृष्टांतः । पशुं न गोपा यथा गोपालो धेनुमाह्वयन्
+> स्वस्याभिमुखीं करोति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+पुरुतमं (*purutamaṃ*) means "most abundant", that is, endowed with many kinds. "Since, O Indra, we know the wealth (भोजनं (*bhojanaṃ*)) that belongs to you, the lord (इनस्य (*inasya*)), therefore we turn that wealth of yours toward us (आ करामहे (*ā karāmahe*))." The illustration: as a cowherd, calling his cow, makes her turn toward himself, so (we do).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- विमदाः (*vimadāḥ*)—we who are named Vimada
+- अपूर्वं (*apūrvaṃ*)—new
+- पुरुतमं (*purutamaṃ*)—most abundant
+- स्तोमं (*stomaṃ*)—praise
+- ते (*te*)—addressed to you
+- सुदानवे (*sudānave*)—for the sake of excellent giving
+- अजीजनन् (*ajījanan*)—have produced
+- हि (*hi*)—for what reason
+- इनस्य (*inasya*)—of the lord
+- अस्य (*asya*)—of you
+- यत् भोजनं (*yat bhojanaṃ*)—which wealth
+- विद्म (*vidma*)—we know; therefore
+- गोपाः (*gopāḥ*)—as cowherds
+- पशुं न (*paśuṃ na*)—call a cow
+- आ करामहे (*ā karāmahe*)—we pray to you and call you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who bear the name Vimada have composed a new and most abundant praise addressed to you, for the sake of excellent giving. Since we know what wealth of yours, the lord, there is, therefore we pray to you and call you, as cowherds call a cow.
+
+##### English translation
+We, Vimadas, have generated this your unprecedented, and most varied praise, Indra. to obtain your bounty ; as we know what the opu-lence of that lord is, (therefore) we call it (before us), as a cowherd (calls) his cattle.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मार्कि॑र्न ए॒ना स॒ख्या वि यौ॑षु॒स्तव॑ चेंद्र विम॒दस्य॑ च॒ ऋषेः॑ ।  
+> वि॒द्या हि ते॒ प्रम॑तिं देव जामि॒वद॒स्मे ते॑ संतु स॒ख्या  ॒॑
+> शिवानि ॥ ७ ॥
+
+### Printed p. 682
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माकिः । नः । एना । सख्या । वि । यौषुः । तव । च । इंद्र । विमदस्य । च । ऋषेः ।  
+> विद्म । हि । ते । प्रमतिं । देव । जामिवत् । अस्मे इति । ते । संतु । सख्या ।  
+> शिवानि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव च विमदस्यर्षेर्मम च नः ॥ अस्मदो द्वयोश्च । पा. १.२-५९ ।
+> इति द्वयोर्बहुवचनं ॥ अवयोरेनैनानि सख्या सख्यानि स्तुत्यस्तोतृत्वेज्ययष्टृत्वलक्षणानि सखिकर्माणि माकिर्वि यौषुः । क्वचिदपि न विश्वथयेयुः । अपि च हि यस्मात्कारणाद्दे देव द्योतमानेंद्र ते तव प्रमतिमनुग्राहिकां बुद्धिं विद्म वयं
+> जानीमः । तत्र दृष्टांतः । जामिवद्यथा भ्राता स्वभगिन्यां स्नेहयुक्तां मतिं
+> जानाति तद्वत् । तस्मात्कारणादस्मे अस्माकं ते तव च सख्या सख्यानि शिवानि संतु ।
+> मंगलानि भवंतु । अनपायानीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, may these friendships of ours, of you and of the seer Vimada, that is, of me, never be sundered." नः (*naḥ*) is a plural used for two (Pā. Sū. 1.2-59). The friendships (सख्या (*sakhyā*)), consisting in being the praised and the praiser, the sacrificed-to and the sacrificer, are the actions of friends; may they nowhere be loosened. "Since, O shining Indra, we know your gracious (*anugrāhikāṃ*) mind (प्रमतिं (*pramatiṃ*))", as a brother knows the affectionate mind of his own sister, "therefore may the friendships between us and you be auspicious", that is, free from loss.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तव च (*tava ca*)—to you
+- विमदस्य ऋषेः (*vimadasya ṛṣeḥ*)—and to me, the seer named Vimada
+- नः (*naḥ*)—for the two of us
+- एना (*enā*)—this famous
+- सख्या (*sakhyā*)—friendship
+- माकिः वियोषुः (*mākiḥ viyoṣuḥ*)—may it not be sundered
+- हि (*hi*)—because
+- देव (*deva*)—O shining Indra
+- जामिवत् (*jāmivat*)—as one knows the mind of near ones
+- ते (*te*)—your
+- प्रमतिं (*pramatiṃ*)—excellent mind
+- विद्म (*vidma*)—we know
+- अस्मे (*asme*)—for us
+- ते (*te*)—with you
+- सख्या (*sakhyā*)—friendship
+- शिवानि (*śivāni*)—auspicious
+- संतु (*saṃtu*)—may it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may no break come upon the famous friendship between you and me, the seer named Vimada. O shining Indra, we know your excellent mind, as one knows the mind of near ones. May the friendship we have with you be auspicious.
+
+##### English translation
+Never may these friendships of you, Indra, and of the Rishi Vimada be disunited: for we know your attachment, divine (Indra), to be like that of a sister (to a brother) so may the friendship between us and you prosper.
+
+### Printed p. 683
+
+## Sūkta 24 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र सोममिति षडृचमष्टमं सूक्तं । चतुर्थाद्यास्ति स्रोऽनुष्टुभोऽश्विदेवत्याः । आदितस्तिस्र ऐंद्र आस्तारपंक्तिच्छंदस्काः । आदितो द्वौ गायत्रौ ततो
+> द्वौ जागतौ सास्तारपंक्तिः । ऋषिः पूर्ववत् । तथा चानुक्रांतं । इंद्र सोमं
+> षळास्तारपांक्तं त्वाश्विन्योऽंत्यास्ति स्रोऽनुष्टुभ इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta इंद्र सोमं (*iṃdra somaṃ*) has six Ṛks and is the eighth sūkta. The three Ṛks beginning with the fourth are Anuṣṭubh and addressed to the Aśvins. The first three are addressed to Indra and have the Āstārapaṅkti metre: the first two pādas are Gāyatra, the next two Jāgata, and so it is Āstārapaṅkti. The seer is as before. The Anukramaṇī says the same. The viniyoga has been given already.
+
+##### Anuvāda
+
+This sūkta "Indra somam" is the eighth sūkta in the second anuvāka. It has six Ṛks. The seer of this sūkta is the same as that of the preceding sūkta. The three Ṛks from the fourth onward are in the Anuṣṭubh metre and have the Aśvins as deity. The first three Ṛks have Indra as deity and the Āstārapaṅkti metre: if a Ṛk has four pādas and two of them have the syllable count of the Gāyatrī metre and the remaining two that of the Jagatī metre, that Ṛk is called Āstārapaṅkti. The Anukramaṇī says the same. The viniyoga was stated earlier.
+
+Sūkta—24
+Maṇḍala—10; Anuvāka—2; Sūkta—24.
+Aṣṭaka—7; Adhyāya—7; Varga—10.
+Number of Ṛks in the sūkta—6.
+Ṛṣi—विमद ऐंद्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः (*vimada aiṃdraḥ prājāpatyo vā vasukṛdvā vāsukraḥ*).
+Devatā—1-2. इंद्रः (*iṃdraḥ*); 4-6. अश्विनौ (*aśvinau*). **NOTE**
+Chandas—1-3. आस्तारपंक्तिः (*āstārapaṃktiḥ*); 4-6. अनुस्टुप् (*anusṭup*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ सोम॑मि॒मं पि॑ब॒ मधु॑मंतं च॒मू सु॒तं ।  
+> अ॒स्मे र॒यिं नि धा॑रय॒ वि वो॒ मदे॑ सह॒स्रिणं॑ पुरूवसो॒  ॑
+> विवक्षसे ॥ १ ॥
+
+### Printed p. 684
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । सोमं । इमं । पिब । मधुमंतं । चमू इति सुतं ।  
+> अस्मे इति । रयिं । नि । धारय । वि । वः । मदे ! सहस्रिणं पुरुवसो इति  
+> पुरुवसो । विवक्षसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमिममीदृशं सोमं पिब ' कीदृशं । मधुमंतं मधुररसोपेतं चमू चमोरधिषवणफलकयोः सुतमभिषुतं। तदनंतरः पुरुवसो बहुधन
+> हे इंद्र वस्तव विमदे विशेषेण सोमजन्ममवे सत्यस्य अस्मसु रयिं धनं निधारय । नितरां स्थापय । कीदृशं सहस्तिणं सहस्रसंख्यायुक्तं । प्रभूतमित्यर्थ!
+> त्वया दत्तेन धनेन यस्माद्वयं पुनरपि त्ववर्षं यागं कुर्मः तस्मादस्मासु धनं
+> निधेहीत्यर्थः । अतः कारणाद्विवक्षसे महन्नामैतत् । त्वं महानवसि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, drink this Soma", of what kind? मधुमंतं (*madhumaṃtaṃ*): endowed with sweet juice; चमू सुतं (*camū sutaṃ*): pressed in the two चमू (*camū*), namely the two pressing planks (*adhiṣavaṇaphalakayoḥ*). After that, "O Indra, rich in much wealth, at the exhilaration (मदे (*made*))", and the text then continues with a damaged passage **NOTE**, "place wealth firmly in us" (अस्मे रयिं नि धारय (*asme rayiṃ ni dhāraya*)); of what kind? सहस्रिणं (*sahasriṇaṃ*): endowed with a thousandfold number, that is, abundant. "Because with the wealth given by you we again perform a sacrifice त्ववर्षं यागं (*tvavarṣaṃ yāgaṃ*) **NOTE**, therefore place wealth in us." For this reason विवक्षसे (*vivakṣase*), which is a name of "great": you are great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- इमं (*imaṃ*)—this (satisfied?) **NOTE**
+- मधुमंतं (*madhumaṃtaṃ*)—possessed of sweet juice
+- चमू (*camū*)—by the planks
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—Soma
+- पिब (*piba*)—drink
+- पुरुवसो (*puruvaso*)—O Indra, possessed of very great wealth
+- वि (*vi*)—to you
+- वि मदे (*vi made*)—when very great joy has arisen
+- अस्मे (*asme*)—in us
+- सहस्रिणं (*sahasriṇaṃ*)—thousandfold
+- रयं (*rayaṃ*)—wealth
+- नि धारॆय (*ni dhārèya*)—place firmly
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink the Soma offered by us, with sweet juice, pressed by the planks. O Indra, possessed of very great wealth, when very great joy has arisen in you, place wealth firmly in us. You are a great one.
+
+##### English translation
+Drink, Indra, this most sweet Soma, expressed by the planks (of the Soma-press), then bestow upon us riches in your exhilaration ; thousandfold (riches), lord of infinite wealth ; you are mighty.
+
+### Printed p. 685
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां य॒ज्ञेभि॑रु॒क्थैरुस॑ ह॒व्येभि॑रीमहे ।  
+> शची॑पते शचीनां॒ वि वो॒ मदे॒ श्रेष्ठं॑ नो धेहि॒ वार्यं॒  ॑
+> विवक्षसे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । यज्ञेभिः । उक्षैः । उप । हव्येभिः । ईमहे ।  
+> शचीपते । शचीनां । वि । वः । मदे । श्रेष्ठं । नः । धेहि । वार्यं । विवक्षसे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वयं यज्ञेभिर्यज्ञैः सोमयागादिभिरुक्थैः शस्त्रलक्षणैः
+> स्तोत्रैर्हव्येभिर्हव्यैः पुरोडाशादिभिश्च । उपेत्युपसर्गश्रुतेयोग्यपदाध्याहारः । त्वामुपेत्येमहे । अभिलषितं धनं याचामहे । अतो हे शचीपते
+> कर्मणां पालयितः । त्वं केषांचित्कर्मणां पालको न भवसीति न किंतु शचीनां
+> सर्वेषां कर्मणां पालको भवसीत्यर्थः । एवं याचितस्त्वं नोऽस्मभ्यं वार्यं
+> वरणीयं श्रेष्ठं प्रशस्ततमं पश्वादिधनं धेहि । देहि । शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, we ask you for the wealth we desire, with sacrifices (यज्ञेभिः (*yajñebhiḥ*)), the Soma sacrifices and others; with *ukthaiḥ*, praises in the form of śastras; and with हव्येभिः (*havyebhiḥ*), oblations such as the purodāśa." Because the preverb उप (*upa*) is heard, a suitable word has to be supplied: "approaching you we ask (ईमहे (*īmahe*))", that is, we beg for the wealth we desire. Therefore, O शचीपते (*śacīpate*), protector of rites: you are not the protector of some rites only, but of all the शचीनां (*śacīnāṃ*), all rites. So entreated, give us choice (वार्यं (*vāryaṃ*)), best, most excellent wealth such as cattle (धेहि (*dhehi*) means "give"). The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यज्ञेभिः (*yajñebhiḥ*)—with sacrifices and the like
+- उक्षैः (*ukṣaiḥ*)—with śastra-mantras
+- हव्येभिः (*havyebhiḥ*)—with oblations
+- त्वां उप (*tvāṃ upa*)—worshipping you
+- ईमहे (*īmahe*)—we ask for what we desire
+- शचीपते (*śacīpate*)—O Indra, protector of rites
+- शचीनां (*śacīnāṃ*)—you are the lord of all rites
+- वः (*vaḥ*)—to you
+- वि मदे (*vi made*)—when very great joy has arisen
+- नः (*naḥ*)—in us
+- श्रेष्ठं (*śreṣṭhaṃ*)—excellent
+- वार्यं (*vāryaṃ*)—and desired
+- धेहि (*dhehi*)—place wealth
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worshipping you with sacrifices and the like, with śastra-mantras and with oblations, we ask for what we desire. O Indra, protector of rites, you are the lord of all rites. When very great joy has arisen in you, place in us wealth that is excellent and desired. You are a great one.
+
 ---
 
-**Progress note:** Done through printed p. 679. pp. 674-679 (batch API)
+**Progress note:** Done through printed p. 685. pp. 680-685 (batch API)
