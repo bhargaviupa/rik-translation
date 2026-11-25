@@ -15434,6 +15434,153 @@ The Adhvaryu says: "Recite to the two havirdhānas as they are being carried for
 
 Addressing the havirdhānas that are to be brought to the sacrificial ground, the Adhvaryu tells the hotṛ, "Recite the mantras praising them." Of these, first,
 
+### Printed p. 417
+
+Hotṛ recites युजे वां ब्रह्म पूर्व्यं नमोभिरित्यन्वाह (*yuje vāṃ brahma pūrvyaṃ namobhirityanvāha*) (Ai. Brā. 1-29). "O havirdhānas, reciting the most ancient mantras, I yoke you together with the oblations and the rest." With this, the Hotṛ recites this mantra first. Why this mantra should be recited is explained thus:
+
+ब्रह्मणा ना एते देवा अयुंजत युद्धविर्धाने ब्रह्मणैवैने एतद्युंक्ते न वै ब्रह्मण्वद्रिष्यति ॥ (*brahmaṇā nā ete devā ayuṃjata yuddhavirdhāne brahmaṇaivaine etadyuṃkte na vai brahmaṇvadriṣyati ‖*) (Ai. Brā. 1-29)
+
+In the past the gods themselves yoked the havirdhānas with this very mantra, and so the same rule holds now. One who has this mantra-power suffers no destruction. Therefore he first recites this mantra and afterwards recites the original mantras that praise Heaven and Earth. They are as follows:
+
+प्रेतां यज्ञस्य शंभुवेति तृचं द्यावापृथिवीयमन्वाह (*pretāṃ yajñasya śaṃbhuveti tṛcaṃ dyāvāpṛthivīyamanvāha*)
+
+These are the three mantras 1) प्रेतां यज्ञस्य शंभुवा (*pretāṃ yajñasya śaṃbhuvā*); 2) द्यावा नः पृथिवी इमं (*dyāvā naḥ pṛthivī imaṃ*); 3) आवामुपस्थमद्रुहा (*āvāmupasthamadruhā*) (Ṛ. Saṃ. 2, 41. 19-21). When these mantras are recited, room is left for another doubt. It is this:
+
+— तदाहुर्यद्धविर्धानाभ्यां प्रोह्यमाणाभ्यामनुवाचाहाथ कस्मात्तृचं द्यावापृथिवीयमन्वाह (*— tadāhuryaddhavirdhānābhyāṃ prohyamāṇābhyāmanuvācāhātha kasmāttṛcaṃ dyāvāpṛthivīyamanvāha*) (Ai. Brā. 1-29)
+
+The doubt is: when mantras of praise are to be recited addressing the havirdhānas that are being carried to the sacrificial ground, what need is there here for reciting mantras addressed to Heaven and Earth? But there is no room for that doubt. Heaven and Earth were formerly the havirdhānas of the gods, and they are still the gods' havirdhānas. Since all oblations and all the other things as well are contained within Heaven and Earth, the name havirdhāna is well established for them. For that reason the three mantras addressed to them are to be recited. Afterwards,
+
+यमे इव यतमाने यदैतं प्र वां भरन्मानुषा देवयंतः । (*yame iva yatamāne yadaitaṃ pra vāṃ bharanmānuṣā devayaṃtaḥ |*) (Ṛ. Saṃ. 10-13-2)
+
+this fifth mantra is to be recited. The excellences praised in this mantra are as follows. In the first pāda:
+
+### Printed p. 418
+
+1) यमे इव हैते यतमाने प्रबाहुगितः (*yame iva haite yatamāne prabāhugitaḥ*) (Ai. Brā. 1-29). In the world, as twin girls born together in the womb of one mother stay together, so these two carts too always stay together for the benefit of the world. Like twin girls, the two resemble each other and shine with qualities common to both; therefore they are to be praised by reciting the mantra यमे इव (*yame iva*). In the second pāda:
+
+2) प्रवां भरन्मानुषा देवयंतः इति देवयंतो ह्येने मानुषाः प्रभरंति । (*pravāṃ bharanmānuṣā devayaṃtaḥ iti devayaṃto hyene mānuṣāḥ prabharaṃti |*). O havirdhānas, by that greatness of yours by which you labour for the benefit of living beings, the priests and sacrificers devoted to the worship of the gods bring you to the sacrificial ground with exceeding devotion; thus the havirdhānas' nature of benefiting the world is indicated. Third (in the second half):
+
+3) आसीदतं स्वमु लोकं विदाने स्नासस्थे भवतमिंदवे नः इति सोमो वै राजेंदुः सोमाय्कॆ वैने एतद्राज्ञ आसदेऽचीक्षृपत् ॥ (*āsīdataṃ svamu lokaṃ vidāne snāsasthe bhavatamiṃdave naḥ iti somo vai rājeṃduḥ somāykè vaine etadrājña āsade 'cīkṣṛpat ‖*). O havirdhānas, you are the most excellent seats for King Soma; therefore, knowing your places on the sacrificial ground, sit down — so it prays. Then follows the recitation of the sixth mantra. At this time he recites
+
+अधि द्वयोरदधा उक्थं १ वच इति द्वयोर्ह्यतत्तृतीयं छदिरथि निधीयते । (*adhi dvayoradadhā ukthaṃ 1 vaca iti dvayorhyatattṛtīyaṃ chadirathi nidhīyate |*) (Ai. Brā. 1-29).
+
+This is the praise of the third havirdhāna. The third havirdhāna means the chadi, which is its substitute. The covering that is spread to set Soma in place inside a havirdhāna is called chadi. Such chadis are spread over both havirdhānas and a third chadi is to be laid over them; this is also called the third havirdhāna. This is described in the Taittirīya Saṃhitā as दंडो ना औपरस्तेयस्य हविर्धानस्य (*daṃḍo nā auparasteyasya havirdhānasya*). Quoting and explaining this sentence (a variant reading is दंडो ना औदुंबरः (*daṃḍo nā auduṃbaraḥ*)), the Aitareya Brāhmaṇa states द्वयोर्ह्यतत्तृतीयं छदिरदि निधीयते (*dvayorhyatattṛtīyaṃ chadiradi nidhīyate*).
+
+उक्थं वच इति यदाह यज्जियं वै कर्मोक्ष्यं वचो यज्ञमेवैतेन समर्धयति । (*ukthaṃ vaca iti yadāha yajjiyaṃ vai karmokṣyaṃ vaco yajñamevaitena samardhayati |*)
+
+### Printed p. 419
+
+That is, the import of this mantra (1. 83. 3) is as follows. As one common chadi is spread over both havirdhānas, so one single praise-mantra is offered in respect of both havirdhānas. This mantra is the means for the sacrificial rite; by this means the sacrifice prospers.
+
+यतस्रुचा मिथुना या सपर्यतः । असंयत्तो व्रते ते क्षेति पुष्यतीति (*yatasrucā mithunā yā saparyataḥ | asaṃyatto vrate te kṣeti puṣyatīti*)
+
+As newly married couples are honoured, so these havirdhānas, prepared with the ladle vessels, are honoured. The Adhvaryu who keeps such havirdhānas ready for the sacrifice becomes rich in peace.
+
+यदेवादः पूर्वं यत्तवद्वदमाह तदेवैतेन शांत्या शमयति ॥ (*yadevādaḥ pūrvaṃ yattavadvadamāha tadevaitena śāṃtyā śamayati ‖*)
+
+The word असंयत्तः (*asaṃyattaḥ*) that is used indicates abundance of peace. Thereby the Hotṛ (and the sacrificer and the Adhvaryu) performs the sacrificial work free from strife.
+
+भद्रा, शक्तिर्यजमानाय सुन्नत इत्याशिषमाशास्त्रे ॥ (*bhadrā, śaktiryajamānāya sunnata ityāśiṣamāśāstre ‖*)
+
+By the last pāda of this mantra a blessing is also recited: may all good fortune come to the sacrificer who, having finished the Soma-pressing rite, offers the oblation in the form of Soma. Next, seventh:
+
+विश्वारूपाणि प्रतिमुंचते कविरिति विश्वरूपामन्वाह स रराट्यामीक्षमाणोS नुब्रूयात् ! विश्वमिव हि रूपं रराट्याः शुक्लमिव च कृष्णमिव च । विश्वं रूपमवरुंध आत्मने च यजमानाय च यत्रैवं विद्वानेतां रराट्यामीक्षमाणोऽन्वाह । (*viśvārūpāṇi pratimuṃcate kaviriti viśvarūpāmanvāha sa rarāṭyāmīkṣamāṇoS nubrūyāt ! viśvamiva hi rūpaṃ rarāṭyāḥ śuklamiva ca kṛṣṇamiva ca | viśvaṃ rūpamavaruṃdha ātmane ca yajamānāya ca yatraivaṃ vidvānetāṃ rarāṭyāmīkṣamāṇo 'nvāha |*)
+
+Then the Hotṛ recites the mantra विश्वा रूपाणि (*viśvā rūpāṇi*) (Ṛ. Saṃ. 5-81-2). It is said that this mantra is to be recited while looking at the rarāṭī. The garland of darbha grass that is to be tied on the eastern side of the havirdhāna pavilion is called rarāṭī. Because this garland shows many forms, white, black and so on, if one recites this mantra while looking at this garland of universal form, he obtains for himself and provides for the sacrificer a prosperity of universal form: progeny, cattle and other wealth. Therefore this rite is prescribed. At the end the eighth mantra is recited.
+
+परि त्वा गिर्वणो गिर इत्युत्तमया परिदधाति । स यदैवं हविर्धाने संपरिश्रिते मन्येताथ परिदध्यात् । (*pari tvā girvaṇo gira ityuttamayā paridadhāti | sa yadaivaṃ havirdhāne saṃpariśrite manyetātha paridadhyāt |*)
+
+### Printed p. 420
+
+With the mantra परि त्वा (*pari tvā*) (1-10-12) he brings this rite to completion. "O god who delight in praise, may these words of praise that we make come around you on all sides and give you joy. Because these words give you joy, may they increase your life; as a result, may our life too increase and may I also have joy" — such is the import of this mantra. This mantra is to be recited when the Hotṛ covers the havirdhānas completely with the chadi.
+
+अनग्नंभावुका ह होतुश्च यजमानस्य च भार्या भवंति यत्रैवं विद्वानेतया हविर्धानयोः संपरिश्रितयोः परिदधाति ॥ (*anagnaṃbhāvukā ha hotuśca yajamānasya ca bhāryā bhavaṃti yatraivaṃ vidvānetayā havirdhānayoḥ saṃpariśritayoḥ paridadhāti ‖*)
+
+If the Hotṛ who knows this principle recites this mantra after covering the havirdhānas with the chadi, then the wives of the Hotṛ and of the sacrificer too do not experience nakedness but are covered and adorned with garments of every kind.
+
+यजुषा वा एते संपरिश्रियेते यद्धविर्धाने यजुषैवेने एतत्परिश्रयंति। तौ यदैवाध्वर्युश्च प्रतिप्रस्थाता चोभयतो मेथ्यौ निहन्यातामथ परिद ध्यात् । अत्र हि ते संपरिश्रिते भवतः ॥ (*yajuṣā vā ete saṃpariśriyete yaddhavirdhāne yajuṣaivene etatpariśrayaṃti| tau yadaivādhvaryuśca pratiprasthātā cobhayato methyau nihanyātāmatha parida dhyāt | atra hi te saṃpariśrite bhavataḥ ‖*)
+
+The havirdhānas are to be covered by reciting the Yajus mantra दिवो वा विष्णुवुत (*divo vā viṣṇuvuta*) (Tai. Saṃ. 1-2.13); and so they cover them reciting that very Yajus mantra. As explained above, this covering rite is accomplished when the Adhvaryu and the Pratiprasthātṛ touch the medhīs (the door-posts, in the form of ends) on both sides.
+
+ता एता अष्टावन्वाह रूपसमृद्धा एतद्वैयज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाणमृगभिवदति तासां त्रिः प्रथमामन्वाह त्रिरुत्तमां ता द्वादश संपद्यंते द्वादश वै मासाः संवत्सरः संवत्सरः प्रजापतिः प्रजापत्यायतनाभिरेवाभी राध्योति य एवं वेद त्रिः प्रथमां त्रिरुत्तमामन्वाह यज्ञस्यैव तद्वर्सौ नह्यति स्थेन्ने बलायाविस्रंसाय ॥ (*tā etā aṣṭāvanvāha rūpasamṛddhā etadvaiyajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati tāsāṃ triḥ prathamāmanvāha triruttamāṃ tā dvādaśa saṃpadyaṃte dvādaśa vai māsāḥ saṃvatsaraḥ saṃvatsaraḥ prajāpatiḥ prajāpatyāyatanābhirevābhī rādhyoti ya evaṃ veda triḥ prathamāṃ triruttamāmanvāha yajñasyaiva tadvarsau nahyati sthenne balāyāvisraṃsāya ‖*) (Ai. Brā. 1. 29)
+
+The Hotṛ recites eight mantras rich in rūpa at this time of the havirdhāna worship. Rūpa-richness means reciting mantras whose meaning accords with the rite being performed. Only a rite performed with such richness of form attains completeness. Of these eight mantras he recites the first three times and the last three times. That makes twelve in all. The year has twelve limbs consisting of the months.
+
+### Printed p. 421
+
+Prajāpati is of the form of this year. One who knows this principle dwells in the excellent houses of Prajāpati, consisting of the year and in the form of months (he obtains happiness at all times). Thus, by reciting the first mantra three times and the last mantra three times, it is as if this sacrifice were tied with a firm knot so that it does not come undone. This firm knot helps the life of the sacrificer and the rest toward security, abundance of wealth and unchecked growth.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युजे वामिति पंचर्चं त्रयोदशं सूक्तं । आदितेः पुत्रस्य विवस्वत आर्षं .
+> हविर्धानाख्ये ये द्वे शकटे तद्देवत्यमिदं । अंत्या जगती शिष्टास्त्रिष्टुभः । तथा
+> चानुक्रांतं । युजे पंच विवस्वानादित्यो हाविर्धानं जगत्त्यंतमिति ॥ गतः सूक्तविनियोगः ॥ हविर्धानप्रवर्तने युजे वामित्येका । सूत्रितं च । अंतरा वर्त्मपादयोर्युजे वां ब्रह्म पूर्व्यं नमोभिः । आ. ४-९ ॥ इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta युजे वां (*yuje vāṃ*) is the thirteenth sūkta and has five Ṛks. Its seer is Vivasvat, son of Aditi. Its deity is the two carts called havirdhāna. The last verse is a Jagatī and the rest are Triṣṭubhs. So the Anukramaṇī says: युजे पंच विवस्वानादित्यो हाविर्धानं जगत्त्यंतमिति ॥ (*yuje paṃca vivasvānādityo hāvirdhānaṃ jagattyaṃtamiti ‖*). The use of the sūkta has already been stated. In the havirdhāna-pravartana rite the first verse, युजे वां (*yuje vāṃ*), is used. It is also laid down in the sūtra अंतरा वर्त्मपादयोर्युजे वां ब्रह्म पूर्व्यं नमोभिः (*aṃtarā vartmapādayoryuje vāṃ brahma pūrvyaṃ namobhiḥ*) (Ā. Sū. 4-9).
+
+##### Anuvāda
+
+This sūkta युजे वां (*yuje vāṃ*) is the thirteenth sūkta in the first anuvāka. It has five Ṛks. Its seer is Vivasvān, the son of Aditi. The deity of this sūkta is the two carts that bring the Soma plants in sacrifices and the like known as havirdhāna. The last Ṛk of this sūkta is in the Jagatī metre; the remaining Ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is said युजे पंच विवस्वानादित्यो हाविर्धानं जगत्तंतं (*yuje paṃca vivasvānādityo hāvirdhānaṃ jagattaṃtaṃ*). The use of the sūkta has been stated earlier. That the first Ṛk, युजे वां (*yuje vāṃ*), is to be recited in the havirdhāna-pravartana rite is explained by the sūtra of the Āśvalāyana Śrautasūtra अंतरा वर्त्म पादयोर्युजे वां ब्रह्म पूर्वं नमोभिः (*aṃtarā vartma pādayoryuje vāṃ brahma pūrvaṃ namobhiḥ*) (Ā. 4-9).
+
+##### Particulars
+
+Sūkta 13. Maṇḍala 10; Anuvāka 1; Sūkta 13. Aṣṭaka 7; Adhyāya 6; Varga 13. Number of Ṛks in the sūkta: 5. Seer: Vivasvān Āditya. Deity: the havirdhānas. Metre: 1-4 Triṣṭubh; 5 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒जे वां॒ ब्रह्म॑ पू॒र्व्यं नमो॑भि॒र्वि श्लोक॑ एतु प॒थ्ये॑व  ॒
+> सूरेः ।  
+> शृ॒ण्वंतु॒ विश्वे॑ अ॒मृत॑स्य पु॒त्रा आ ये धामा॑नि दि॒व्यानि॑ त॒स्थुः ॥
+
+### Printed p. 422
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युजे । नां । ब्रह्म । पूर्व्यं । नमःभिः । वि । श्लोकः । एतु । पथ्या इव । सूरेः ।  
+> शृण्वंतु । विश्वे । अमृतस्य । पुत्राः । आ । ये : धामानि । दिव्यानि । तस्थुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हविर्धानशकटे वां युवामहं पूर्व्यं पूर्वस्मिन्काले भवं । अनादिकालप्रवृत्त मित्यर्थः । एवंभूतं ब्रह्म मंत्रं । उच्चार्योति शेषः । नमोभिः
+> सोमादिहनिर्लक्षणैरन्नैर्युजे । युनज्जि । युवयोरुपरि सोमादिकमारोप्य
+> पत्नीशालातो हविर्धानं प्रति युना नयामित्यर्थः । एवंभूतयोर्युवयोः
+> श्लोकः शब्दो व्येतु । विश्वान्गेवान्प्रति विविधं गच्छतां । तत्र दृष्टांतः । पथ्येव
+> सूरेः यथा स्तोतुः स्वभूता पथ्या परिणामसुखावहाहुतिर्विश्वानेवान्प्रति विविधं गच्छति तद्वत् । अमृतस्यामरणधर्मणः प्रजापतेः पुत्रा विश्वे देवा एवंभूतं
+> शब्दं शृण्वंतु ये देवा दिव्यानि दिवि भवानि धामानि स्थानान्या तस्थुः अधिष्ठितवंतः ।
+> ते शृण्यंतित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O havirdhāna carts, I join you, पूर्व्यं (*pūrvyaṃ*), that is, belonging to an earlier time, in other words occurring from beginningless time, ब्रह्म (*brahma*), a mantra (to be supplied: having uttered it), नमोभिः (*namobhiḥ*), with food in the form of the oblations such as Soma: I yoke you. That is: having loaded Soma and the rest upon you, I lead you from the wives' hall toward the havirdhāna." Of you, so constituted, may the श्लोकः (*ślokaḥ*), the sound, go forth in different directions to all the gods. Illustration: पथ्येव सूरेः (*pathyeva sūreḥ*) — as the beneficial oblation of the worshipper, which brings happiness in its result, goes in various ways to all the gods. May all the gods, the sons of the immortal Prajāpati, who is not subject to death, hear such a sound — those gods who occupy the heavenly places (dhāmāni, i.e. abodes). The meaning is: they hear it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नां (*nāṃ*)—(O carts) addressing you
+- पूर्वं (*pūrvaṃ*)—ancient
+- ब्रह्म (*brahma*)—reciting a hymn of praise
+- नमोभिः (*namobhiḥ*)—with oblations
+- युजे (*yuje*)—I fill you
+- सूरेः (*sūreḥ*)—of the seer
+- पथ्येव (*pathyeva*)—as praise resorts to the various directions and joins the gods
+- श्लोकः (*ślokaḥ*)—your sound
+- वि एतु (*vi etu*)—may it go and reach all the gods
+- ये (*ye*)—which gods
+- दिव्यानि (*divyāni*)—belonging to the heavenly world
+- धामानि (*dhāmāni*)—places
+- आ तस्थुः (*ā tasthuḥ*)—have occupied, such ones also
+- अमृतस्य (*amṛtasya*)—of Prajāpati, who is free of the nature of death
+- पुत्राः (*putrāḥ*)—who are sons
+- विश्वे (*viśve*)—all the gods
+- शृण्वंतु (*śṛṇvaṃtu*)—may they hear your sounds
+
+##### भावार्थ (Bhāvārtha)
+
+O carts, addressing you and reciting an ancient hymn of praise, I fill you with oblations. As the seer's praise resorts to the various directions and joins the gods, so may your sound go and reach all the gods. May all the gods, those who occupy the places belonging to the heavenly world and who are the sons of Prajāpati, who is free of the nature of death, hear your sounds.
+
 ---
 
-**Progress note:** Done through printed p. 416. pp. 411-416 (batch API)
+**Progress note:** Done through printed p. 422. pp. 417-422 (batch API)
