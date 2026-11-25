@@ -6479,6 +6479,126 @@ Again, in the form of meditation, he entered into relation with speech. Then he 
 
 Again, in the form of meditation, he came into union with speech. Then too he conceived. As a result the Viśvedevas were produced. He established them as the guardians of the directions.
 
+### Printed p. 245
+
+In the work of creation, and in the work of the growth of the world too, Viśvakarman performs his action in the form of sacrifice only with the help of speech. Therefore the epithet वाचस्पतिं (*vācaspatiṃ*) is fitting in the present context.
+
+## Sūkta 82 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चक्षुष इति सप्तर्चं चतुर्दशं सूक्तं । ऋष्याद्याः पूर्ववत् । चक्षुष
+> इत्यनुक्रांतं ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta चक्षुष (*cakṣuṣa*) has seven Ṛks and is the fourteenth sūkta. The seer and the rest are as before (पूर्ववत् (*pūrvavat*)). It is listed in the Anukramaṇī as चक्षुष (*cakṣuṣa*). The application of the sūkta has been stated.
+
+Translation: This sūkta beginning चक्षुषः (*cakṣuṣaḥ*) is the fourteenth sūkta in the sixth anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. In the Anukramaṇī it is stated as चक्षुषः (*cakṣuṣaḥ*). The application has been stated before.
+
+- Maṇḍala 10; Anuvāka 6; Sūkta 82
+- Aṣṭaka 8; Adhyāya 3; Varga 17
+- Number of Ṛks in the sūkta: 7
+- Seer: विश्वकर्मा भौवनः (*viśvakarmā bhauvanaḥ*)
+- Deity: विश्वकर्मा (*viśvakarmā*)
+- Metre: त्रिष्टुप् (*triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चक्षु॑षः पि॒ता मन॑सा॒ हि धीरो॑ घृ॒तमे॑ने अजन॒न्नम्म॑माने ।  
+> य॒देदंता॒ अद॑दृहंत॒ पूर्व॒ आदिद्दावा॑पृथि॒वी अ॑प्रथेतां॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चक्षुषः । पिता । मनसा । हि । धीरः । घृतं । एने इति । अजनन् । नम्ममाने इति।  
+> यदा । इत् । अंताः । अददृहंत । पूर्वे । आत् । इत् । द्यावापृथिवी इति ।  
+> अप्रथेतां ॥ १ ॥
+
+### Printed p. 246
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चक्षुषश्चक्षुरुपलक्षितस्येंद्रियसंघात्मकस्य शरीरस्य पितोत्पादयिता ।
+> यद्वा । चक्षुः ख्यापकं तेजः । तस्मोत्पादयिता । मनसा न हि मत्समोऽस्ति
+> कश्चितिति बुद्धा हि खलु धीरो दृष्टो विश्वकर्मा प्रथमं घृतमुदकमजनत् ।
+> अजनयत् । आपो ना इदमग्रे । तै. सं. ७-१-५.१ । अप एव ससर्जादौ । मनु-
+> १-८ । इत्यादिश्रुतिस्कृती स्यातां । पश्चादेने द्यावापृथिव्यौ नम्ममाने तस्मिन्नुदक
+> इतस्ततश्चलंत्या योऽजनयत् । अथ यदेद्यदैवांताः पर्यंतप्रदेशाः पूर्वे
+> पुराणा द्यावापृथिव्योः संबंधिनोऽददृहंत दृढा अभवन् । विश्वकर्मणा दृढाः
+> संपादिता इत्यर्थः । आदिदनंतरमेव द्यावापृथिवी द्यावापृथिव्यावप्रथेतां ।
+> यथाकामं प्रथिते अभूतां ॥
+
+##### Gist of the bhāṣya
+
+He explains चक्षुषः (*cakṣuṣaḥ*) as: of the body, which is characterised by the eye and consists of the aggregate of the senses; पिता (*pitā*) is the begetter. Or else चक्षुः (*cakṣuḥ*) is the illuminating light, and he is its begetter. By the thought "there is none equal to me in mind" the resolute Viśvakarman first generated the घृतं (*ghṛtaṃ*), that is water (अजनत् (*ajanat*) is अजनयत् (*ajanayat*), "generated"). The Śruti and the Smṛti would be: आपो (*āpo*) as in the Tai. Saṃ. 7-1-5.1, and "he created the waters alone at the beginning" (अप एव ससर्जादौ (*apa eva sasarjādau*), Manu 1-8). Afterwards he generated these two, heaven and earth, नम्ममाने (*nammamāne*), moving this way and that in that water. When the border regions of old (पूर्वे (*pūrve*)) belonging to heaven and earth became firm (अददृहंत (*adadṛhaṃta*)), that is, were made firm by Viśvakarman, then immediately heaven and earth expanded, were extended as desired.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चक्षुषः (*cakṣuṣaḥ*)—to the senses such as the eye
+- पिता (*pitā*)—the protector
+- मनसा (*manasā*)—with self-regard
+- धीरः (*dhīraḥ*)—resolute, Viśvakarman
+- धृतं (*dhṛtaṃ*)—water
+- अजनत् (*ajanat*)—produced (afterwards)
+- नम्ममाने (*nammamāne*)—floating in this same water
+- एने (*ene*)—produced heaven and earth
+- यदेत् (*yadet*)—when
+- पूर्वी (*pūrvī*)—very ancient
+- अंताः (*aṃtāḥ*)—the boundaries belonging to heaven and earth
+- अददृहंत (*adadṛhaṃta*)—were firmly fixed
+- अदित् (*adit*)—immediately thereafter
+- द्यावापृथिवी (*dyāvāpṛthivī*)—both heaven and earth
+- अप्रथीतां (*aprathītāṃ*)—attained expansion
+
+##### भावार्थ (Bhāvārtha)
+
+Viśvakarman, the protector of the senses such as the eye and resolute through self-regard, produced. **NOTE** Afterwards he produced heaven and earth, floating in this same water. When the boundaries belonging to the very ancient heaven and earth were firmly fixed, immediately thereafter both heaven and earth attained expansion.
+
+##### English translation
+The maker of the senses, resolute in mind, engendered the water, (and then) these two (heaven and earth) floating (on the waters); when those ancient boundaries were fixed, then the heaven and earth were expanded.
+
+##### विशेषविषयगळु (Special Topics)
+
+चक्षुषः पिता—चक्षुरुपलक्षितस्येंद्रियसंघात्मकस्य शरीरस्य पिता उत्पादयिता । यद्वा चक्षुः ख्यापकं तेजः । तस्योत्पादयिता ॥ (*cakṣuṣaḥ pitā—cakṣurupalakṣitasyeṃdriyasaṃghātmakasya śarīrasya pitā utpādayitā | yadvā cakṣuḥ khyāpakaṃ tejaḥ | tasyotpādayitā ‖*) Cakṣus means the eye. Here
+
+### Printed p. 247
+
+the commentator has explained cakṣus as the body including the eye, and pitā as the producer of this body. Though there are many limbs in the body, why is only the word cakṣus used, leaving out all the rest? The answer: in the saying सर्वस्य गात्रस्य शिरः प्रधानं (*sarvasya gātrasya śiraḥ pradhānaṃ*), among the various limbs in the body the head has the primacy. For, in order that the body may act at the prompting of the Self, five organs of action and five organs of knowledge are necessary. Though the organs of action, such as hand and foot, are not in the head, their prompting must come only through the organs of knowledge. That is, without the help of the organs of knowledge (and the organs of knowledge, without the help of the mind) the activity of the organs of action is not possible. Therefore the organs of knowledge have greater precedence than the organs of action. These organs of knowledge, that is, the five organs of knowledge, eye, ear, nose, tongue and skin (the organ of touch), are all established in the limb called the head. Among these five organs of knowledge, the eye has the primacy. Therefore, by speaking of the eye, which is chief among the organs of action and knowledge, all the limbs of the body, that is, the body itself, are spoken of. With this idea the seer Bhauvana describes in this Ṛk, by चक्षुषः पिता (*cakṣuṣaḥ pitā*), that he is the producer of the whole body.
+
+मनसा हि धीरः धृतं अजनत्—मनसा न हि मत्समोऽस्ति कश्चिदिति बुद्ध्या हि खलु धृष्टो विश्वकर्मा प्रथमं उदकं अजनयत् । (*manasā hi dhīraḥ dhṛtaṃ ajanat—manasā na hi matsamo 'sti kaściditi buddhyā hi khalu dhṛṣṭo viśvakarmā prathamaṃ udakaṃ ajanayat |*) Viśvakarman, endowed with the thought that there is no one equal to him in firmness of mind, first produced water (ūdaka). That Viśvakarman, who made everything, first created water. On this matter the Taittirīya Saṃhitā has this account about creation.
+
+आपो ना इदमग्रे सलिलमासीत्तस्मिन्प्रजापतिर्वायुर्भूत्वाचरत्स इमामपश्यत्तां वराहो भूत्वाहरत्तां विश्वकर्मा भूत्वा व्यमार्ट्सा प्रथत सा पृथिव्यभवत्तत्पृथिव्यै पृथिवित्वं तस्यामश्राम्यत्प्रजापतिः स देवानसृजत वसून्द्राणादित्यान्ने देवाः प्रजापतिमब्रुवन्सृजायामहा इति सोऽब्रवीद्यथाहं युष्माग्स्तपसासृक्ष्येवं तपसि प्रजननमिच्छध्वमिति तेभ्योऽग्निमायतनं प्रायच्चदेतेनायतनेन श्राम्यतेति ॥ (*āpo nā idamagre salilamāsīttasminprajāpatirvāyurbhūtvācaratsa imāmapaśyattāṃ varāho bhūtvāharattāṃ viśvakarmā bhūtvā vyamārṭsā prathata sā pṛthivyabhavattatpṛthivyai pṛthivitvaṃ tasyāmaśrāmyatprajāpatiḥ sa devānasṛjata vasūndrāṇādityānne devāḥ prajāpatimabruvansṛjāyāmahā iti so 'bravīdyathāhaṃ yuṣmāgstapasāsṛkṣyevaṃ tapasi prajananamicchadhvamiti tebhyo 'gnimāyatanaṃ prāyaccadetenāyatanena śrāmyateti ‖*) (Tai. Saṃ. 7-1-5-1, 2)
+
+Before creation there was none of the things, such as the earth. Water filled every place; that is, everything was full of water. Then Prajāpati took the form of wind and moved about in that mass of water. Thereby it became clear to him that the earth lay within this water. Then Prajāpati gave up the form of wind, took the form of a boar, and brought that earth up out of the water
+
+### Printed p. 248
+
+and, taking the form of the deity called Viśvakarman (the maker of all), spread out that earth so that it became extended. Because it was spread out so as to be extended, the earth received the name Pṛthivī. Then that Prajāpati, or Viśvakarman, sat upon that earth and practised austerity, and by the power of that austerity created the deities called the Vasus, the Rudras and the Ādityas. When these deities, created by Prajāpati, addressed Prajāpati saying, "We too wish to do the work of creation like you," Prajāpati said, "In the way I practised austerity and created you by its power, you too may practise austerity in the same way and create," and gave them for that purpose a fire-abode: thus it is said.
+
+Further, the account of how everything was full of water before creation, and how Prajāpati then made creation, is also stated in the Taittirīya Āraṇyaka (Tai. Ā. 1-23) as follows.
+
+आपो वा इदमासन्स्लिलमेव । स प्रजापतिरेकः पुष्करपर्णे समभवत् । तस्यांतर्मनसि कामः समवर्तत । इदग्ं सृजेयमिति । तस्माद्यत्पुरुषो मनसाभिगच्छति । तद्वाचा वदति । तत्कर्मणा करोति । तदेषाभ्यनूक्ता । कामस्तदग्रे समवर्तताधि । मनसो रेतः प्रथमं यदासीत् । सतो बंधुमसति निरविंदन् । हृदि प्रतीष्या कवयो मनीषेति । उपैनं तदुप नमति । यत्कामो भवति । य एवं वेद । स तपोऽतप्यत । स तपस्तप्ता । शरीरमधूनुत (*āpo vā idamāsanslilameva | sa prajāpatirekaḥ puṣkaraparṇe samabhavat | tasyāṃtarmanasi kāmaḥ samavartata | idagṃ sṛjeyamiti | tasmādyatpuruṣo manasābhigacchati | tadvācā vadati | tatkarmaṇā karoti | tadeṣābhyanūktā | kāmastadagre samavartatādhi | manaso retaḥ prathamaṃ yadāsīt | sato baṃdhumasati niraviṃdan | hṛdi pratīṣyā kavayo manīṣeti | upainaṃ tadupa namati | yatkāmo bhavati | ya evaṃ veda | sa tapo 'tapyata | sa tapastaptā | śarīramadhūnuta*) (Śrī. Ā. 1..23-1,2) **NOTE**
+
+Before the creation of this world that is seen by our eyes, there was only water everywhere. Nothing else existed. There were no gods, no men, no other material things. In the middle of that water, which covered everything, Prajāpati alone was present on a lotus leaf (puṣkaraparṇa). Then there arose in the mind of that Prajāpati the desire to create this world. Therefore, among men and the others created by Prajāpati, before doing any work, kāma, that is, the wish to do that work, arises. That man speaks that wish in words. Thereafter he sets about doing that work. Just as in this worldly practice, so when the desire to create the world arose in Prajāpati also, he uttered it in speech and set about the work. This matter —
+
+### Printed p. 249
+
+कामस्तदग्रे समवर्तताधि मनसो रेतः प्रथमं यदासीत् । सतो बंधुमसति निरविंदन् हृदि प्रतीष्या कवयो मनीषा ॥ (*kāmastadagre samavartatādhi manaso retaḥ prathamaṃ yadāsīt | sato baṃdhumasati niraviṃdan hṛdi pratīṣyā kavayo manīṣā ‖*) (Ṛ. Saṃ. 10-129-4)
+
+What is said in this Ṛk is: the desire to create the world first sprouted in the mind of the Supreme Lord (Prajāpati). Just as the seed (retas) of man is first the cause of the birth of creatures, so for the Lord's creation of the world his desire to create becomes the seed, that is, becomes the cause. This desire arose first in Prajāpati. That desire itself, turning into action, became the creation of the world. The main purport of this Ṛk is that the wise, whose intelligence is far-reaching and who are sages, can deliberate well in their minds on matters such as the bondage in the form of the attainment of another birth through the deeds and the like done by living beings in the former kalpa, and can know its secret. Therefore the man who knows the greatness of kāma (desire) attains it. Thus Prajāpati practised austerity with the desire to create. When seers, men and others practise austerity, they tire the body with toil by hard acts such as drying up the body and keeping vows. But in the matter of Prajāpati's practising austerity there is no such drying up of the body. There is only deliberation or meditation. For he is true of resolve. It is enough for him to meditate that something should be so, and it is so. He need not, like others, engage in acts with the body or with limbs such as the hands. Having thus practised austerity in the form of meditation, Prajāpati shook (made tremble) his body once.
+
+तस्य यन्माग्ंसमासीत् । ततोऽरुणाः केतवो वातरशना ऋषय उदतिष्ठन् । ये नखाः । ते वैखानसाः । ये वालाः । ते वालखिल्याः । यो रसः । सोऽपां । अंतरतः कूर्मं भूतग्ं सर्पंतं । तमब्रवीत् । मम वै त्वङ्माग्ंसा । समभूत् । नेत्यब्रवीत् । पूर्वमेवाहमिहासमिति । तत्पुरुषस्य पुरुषत्वं । स सहस्रशीर्षा पुरुषः । सहस्राक्षः सहस्र पात् । भूत्योदतिष्ठत् । तमब्रवीत् । त्वं वै पूर्वग्ं समभूः । त्वमिदं पूर्वः कुरुष्टेति । स इत आदायापः । अंजलिना पुरस्तादुपादधात् । एवा ह्येवेति । तत आदित्य उदतिष्ठत् । सा प्राचीदिक् । (*tasya yanmāgṃsamāsīt | tato 'ruṇāḥ ketavo vātaraśanā ṛṣaya udatiṣṭhan | ye nakhāḥ | te vaikhānasāḥ | ye vālāḥ | te vālakhilyāḥ | yo rasaḥ | so 'pāṃ | aṃtarataḥ kūrmaṃ bhūtagṃ sarpaṃtaṃ | tamabravīt | mama vai tvaṅmāgṃsā | samabhūt | netyabravīt | pūrvamevāhamihāsamiti | tatpuruṣasya puruṣatvaṃ | sa sahasraśīrṣā puruṣaḥ | sahasrākṣaḥ sahasra pāt | bhūtyodatiṣṭhat | tamabravīt | tvaṃ vai pūrvagṃ samabhūḥ | tvamidaṃ pūrvaḥ kuruṣṭeti | sa ita ādāyāpaḥ | aṃjalinā purastādupādadhāt | evā hyeveti | tata āditya udatiṣṭhat | sā prācīdik |*)
+
+अथारुणः केतुर्दक्षिणत उपादधात् । एवाह्यग्न इति । ततो ना अग्नि रुदतिष्ठत् । सा दक्षिणादिक् । अथारुणः केतुः पश्चादुपादधात् । एवा हि वायो इति । ततो वायुरुदतिष्ठत् । सा प्रतीचीदिक् । अथारुणः केतुरुत्तरत उपादधात् । एवाहींद्रेति । ततो ना इंद्र उदतिष्ठत् (*athāruṇaḥ keturdakṣiṇata upādadhāt | evāhyagna iti | tato nā agni rudatiṣṭhat | sā dakṣiṇādik | athāruṇaḥ ketuḥ paścādupādadhāt | evā hi vāyo iti | tato vāyurudatiṣṭhat | sā pratīcīdik | athāruṇaḥ keturuttarata upādadhāt | evāhīṃdreti | tato nā iṃdra udatiṣṭhat*)
+
+### Printed p. 250
+
+सोदीची दिक् । अथारुणः केतुर्मध्य उपादधात् । एवा हि पूषन्निति । ततो वै पूषोदतिष्ठत् । सेयं दिक् । अथारुणः केतुरुपरिष्टादुपादधात् । एवा हि देवा इति । ततो देवमनुष्याः पितरः । गंधर्वाप्सरसश्चोदतिष्ठन् । सोर्ध्वा दिक् । या विप्रुषो वि परापतन् । ताभ्योऽसुरा रक्षाग्‌सि पिशाचाश्चोदतिष्ठन् । तस्मात्ते पराभवन् । विपुड्भो हि ते समभवन् ॥ (*sodīcī dik | athāruṇaḥ keturmadhya upādadhāt | evā hi pūṣanniti | tato vai pūṣodatiṣṭhat | seyaṃ dik | athāruṇaḥ keturupariṣṭādupādadhāt | evā hi devā iti | tato devamanuṣyāḥ pitaraḥ | gaṃdharvāpsarasaścodatiṣṭhan | sordhvā dik | yā vipruṣo vi parāpatan | tābhyo 'surā rakṣāgsi piśācāścodatiṣṭhan | tasmātte parābhavan | vipuḍbho hi te samabhavan ‖*) (Trai. A. 1..23-2, 3, 4, 5, 6, 7) **NOTE**
+
+When he shook thus, from his flesh were born three kinds of seers called the Aruṇas, the Ketus and the Vātaraśanas. From the nails (nakha) were born the sages called the Vaikhānasas, and from the hair the seers named the Vālakhilyas. From the rasa (blood), the essence of the body, a tortoise (kūrma) was born. Prajāpati, seeing that tortoise moving about in the midst of the water, spoke thus: "O tortoise, you are born from my flesh and skin." The tortoise said: "Not so; I am not one born of your flesh. Only this tortoise shape, my body, has been born. I, who exist in the form of consciousness in all things, was in the water even before the birth of the tortoise. Because I have existed from before, I have the name Puruṣa." Having said this, in order to manifest his own power, he assumed the form of the Virāṭ (the great form) and appeared there with countless limbs, thousands of heads, thousands of eyes, thousands of feet and so on. Then Prajāpati, seeing the Supreme Self in the Virāṭ form, said, "You yourself fashion the world." Accordingly that Supreme Self filled his hand (the hollow of his palm) with water, faced the east, uttered the words एवाह्येव (*evāhyeva*), and threw that water upward. From it Āditya was born, and that direction received the name east. In the same way, for another direction, when he threw the water with एवाह्यन्ने (*evāhyanne*), Agni was born there, and it became the south. Another time, when he threw the water with एवा हि वायो (*evā hi vāyo*), Vāyu was born, and it became the west. Then, when he threw it with एवाहींद्र (*evāhīṃdra*), Indra was born, and it became the north. In the middle, when he threw the water with एवा हि पूषन् (*evā hi pūṣan*), the god Pūṣan was born. That is the lower region. In the upper region, when he threw the water with एवा हि देवाः (*evā hi devāḥ*), there were born the other gods, men, fathers, gandharvas and apsarases. That became famous as the upward direction. Thus, while the Supreme Self was sprinkling water all around, from some drops of water that flew far off from that water the asuras, the hosts of rākṣasas and the piśācas were born. Because they were born from drops that had been flung far off, these asuras and the others were defeated by the gods.
+
 ---
 
-**Progress note:** Done through printed p. 244. Vol 29 pp. 238-244: Special Topics on speech (Vāc) and Viśvakarman, sacrifice and speech
+**Progress note:** Done through printed p. 250. Vol 29 pp. 245-250: end of Special Topics, Sūkta 82 (Viśvakarman), Ṛk 1 with bhāṣya and Special Topics
