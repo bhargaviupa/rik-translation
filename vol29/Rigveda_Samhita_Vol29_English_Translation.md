@@ -18136,6 +18136,320 @@ The enemy-man who shows disbelief about Indra, acting and speaking in a way that
 
 (2-12-29)
 
+### Printed p. 615
+
+O Indra, that valour is surely yours, is it not? Give us right understanding in that matter.
+
+(6-8-3)
+
+O Indra, naturally great, and possessed of the greatest strength among all beings, your strength is truly manifest; it cannot be false.
+
+(6-8-4)
+
+If Indra's existence is true, offer him a true hymn of praise and ask him for food. "There is no deity called Indra," is the opinion of some. There are also such questions as "Who has seen him? Whom shall we pray to?"
+
+(8-100-3)
+
+"O sacrificers, I am here. My greatness is greater than the greatness of all other beings. Take note of it," says Indra.
+
+(8-12-4)
+
+In the present context Indra is a companion and brother-like to the sacrificer who performs the sacrifice, and he was a friend to his forefathers. (आ च याहि इंद्र भ्रातः (*ā ca yāhi iṃdra bhrātaḥ*))
+
+(3-25.2; 3-8 6-3: 2-20-3)
+
+O Indra, all men continually seek only your protection. And, O Indra, you were always a friend to our forefathers, the ancestors.
+
+(6-21-35, 8)
+
+O Indra, friendship with you is beneficial, and your being our guide brings welfare to all of us. (यस्य ते स्वादु सख्यं स्वाद्वी प्रणीतिः (*yasya te svādu sakhyaṃ svādvī praṇītiḥ*)).
+
+(8-68.11; 5.45-1, 7 ; 7-21-9 ; 8-4-7 ; 8_45-1, 16, 18 ; 8_50-11.).
+
+O Indra, may the friendship between you and the seer named Vimada never diminish. Do not abandon friendship with the seers who worship you.
+
+(8-92-33 ; 8-93-7 ; 8-97-7, 8-100-2 ; 10-22-1 ; 10.23-2).
+
+May Indra provide wealth to all of us, his friends, from the beginning of our life to its end.
+
+(10.42-11)
+
+### Printed p. 616
+
+Indra cultivates friendship only with the sacrificer who offers the oblation. He never cultivates friendship with those who do not give.
+
+(10-42-4)
+
+O Indra, you have countless friends. We have no friends at all other than you.
+
+(8-21-4)
+
+Indra is not merely a friend. He shows his devotees an affection greater than that of the most affectionate father, and a father's love for a son.
+
+(4-17-17)
+
+It is because of such excess of affection that the sacrificers praise and call him.
+
+(10-48-1 ; 1-104-9 ; 7-32-3, 26)
+
+Not merely a father's affection, Indra also shows a mother's love.
+
+(8-98.11 ; 8.1-6)
+
+"O Indra, you are ours; we are all yours," says the seer in praise, declaring a most intimate relationship.
+
+(8-92.32)
+
+As a benefactor of the poor, Indra removes their poverty. (रध्रचोदनः (*radhracodanaḥ*)).
+
+(8-80-3)
+
+It may be said that the only deity who loves human beings is Indra, and he helps them in every way in times of distress.
+
+(7-23-5 ; 1-84-19 ; 8-66-13)
+
+Indra has no partiality. All men alike receive his help.
+
+(8-65-7)
+
+When misfortune befalls his devotees, Indra frees them from it, delivers them from suffering, and makes them happy.
+
+(8-96-20)
+
+For all weak human beings Indra alone is the helper who gives strength.
+
+(7-31-5)
+
+And to men caught in distress he is like a fortress of protection.
+
+(8-80-7)
+
+### Printed p. 617
+
+For the man to whom Indra is a friend there is no death at the hands of an enemy. Moreover, his enemy certainly cannot conquer him.
+
+(10-12-1)
+
+Such a man places complete trust in the arms of Indra for the winning of his victory.
+
+(6-47-8)
+
+Indra is praised and also earnestly prayed to as a protector of marvellous valour and a liberator from bonds. (त्रातारमिंद्रमवितारमिंद्रं (*trātāramiṃdramavitāramiṃdraṃ*)).
+
+(6-3-10)
+
+Fond of his devotees, Indra is not deaf even when he is in a very distant region. Hearing the prayer **NOTE** of the sacrificers, he comes at once to protect.
+
+( 6-25.10 )
+
+The sacrificers firmly hold Indra's right hand in order to obtain wealth for themselves.
+
+(10-46-1)
+
+The sacrificer's hymns, full of faith and devotion, recited from the heart, set out in the form of messengers, approach Indra, enter his heart, and bring him joy.
+
+(10-46-7)
+
+As a son tugs at his father's garment with affection and freedom, the seer who entreats Indra firmly takes hold of Indra's garment through his hymn and urges him to help.
+
+(9.-293-9) **NOTE**
+
+As a husband is embraced by a loving wife, so Indra, of divine nature, is embraced by hymns made from the heart.
+
+(1-62.00 ; 10-186.7 ; 10-43.1 ; 2-16.9)
+
+As cows run up in affection and lick the calf, so hymns approach Indra and caress him. (10-119-4 ; 10-186-7)
+
+Indra is also prayed to not to be idle like a Brahman priest. **NOTE**
+
+(8-92-30)
+
+(8-9-30)
+
+On many occasions the efforts that sacrificers make to bring Indra to their rite are compared to a fowler's efforts to catch birds. Moreover, there is rivalry among the sacrificers themselves in this matter. Fearing that others may stop Indra's horses, make Indra halt, and so deprive them of the chance of his coming to them, the sacrificers who stand ready for the Soma offering go ahead of all the rest and, as a bird is stopped by a net, stop Indra and pray that he come to their sacrifice. The purport of some passages that express this feeling may be examined here by way of example.
+
+### Printed p. 618
+
+Before others can stop Indra's horses, I stop them and make them stand. O Indra, be pleased with my words of praise and favour me with your presence. Since other sacrificers also call you as I do, do not stay there, drawn by their praise.
+
+(218-3)
+
+(2.1.8-3)
+
+O Indra, come quickly with your horses, whose hair is like that of peacocks. May no other sacrificers stop you, as hunters stop deer and the like. As travellers in a desert hasten to escape the torment of the heat, so you too come eagerly to the sacrifice and take your share in our sacrifice.
+
+(3-45-1)
+
+(3-45-8.)
+
+O Indra, drink this intoxicating Soma juice. These Soma juices have been offered to you alone. May no other sacrificers stop you.
+
+(10-160-1)
+
+This same Indra is the lord of all moving beings. He is the master of men. He is the regulator of all earthly things. Out of his abundant wealth he distributes plentiful riches even to the sacrificer who offers the oblation.
+
+Both of Indra's hands, the left and the right, are full of wealth.
+
+(-22.3)
+
+(7-37-3)
+
+Because he is the treasure-house of all wealth, he is prayed to give with great generosity.
+
+(10-42-2)
+
+As the branches of a tree split into many parts and spread in all directions, so, as the result of Indra's power, protections of many kinds fully protect the sacrificers who are in all directions from all kinds of dangers.
+
+(6-24-4)
+
+As a man brings down the fruits of a tree standing high up with a long pole, **NOTE** so Indra is prayed to shower upon the sacrificers on earth his wealth that is in the atmosphere. (3.45-4)
+
+### Printed p. 619
+
+As the speed of a bull cannot be checked, so, if Indra, displaying his generosity, wishes to distribute wealth to the sacrificers, neither gods nor men can prevent it.
+
+(8-81-3 ; 8.33-8 ; 4-16-14)
+
+Indra's friendship is imperishable. To the man who wants cattle he comes in the form of cattle; to the man who wants horses, in the form of horses.
+
+He causes men without wives to obtain wives.
+
+(25-31 ; 4-17-16)
+
+(6-25-26)
+
+Indra provides abundant wealth to his trusted worshippers and servants.
+
+(2-12-6 ; 2-19.4 ; 2-22-3)
+
+For the share of the sacrificer who resolves to offer the Soma oblation to Indra, the dawn of the day appears with a most prosperous sign.
+
+(5-37-2)
+
+The king in whose house Indra drinks the Soma juice mixed with milk has no misfortune. He is lord over all his retinue. He destroys all his enemies. He enjoys peace in his house, and every kind of comfort falls to his share.
+
+(5-37-4)
+
+The king who is a friend of Indra obtains horses and cattle. He always travels in a chariot; he enjoys a life of ever abundant prosperity, and when he goes to his royal assembly he takes on a most majestic appearance.
+
+(8-3-9)
+
+Whether the praiser be learned or unlettered, it is enough if he is pure in mind; Indra is pleased with his praise.
+
+(8-61-9 ; 8-92-12)
+
+He is prayed to make the sacrificer free from affliction at the time of prayer, and likewise every day and by day and night.
+
+(a.ṭa1-17; a.ṭa8.6) **NOTE**
+
+If Indra's favour is slightly delayed, the sacrificer then prays in great humility in this way: "O Indra, your hands are bestowing; your fingers are beneficent.
+
+### Printed p. 620
+
+They provide the worshippers of yours with the greatest wealth. Even so, why do you sit without moving at all? Why should you not give generously? And why do you not delight us by giving generously with your giving hand? Or why should you not take the delight that comes of giving generously to us?"
+
+(10-42-3)
+
+"If I had obtained the wealth that has been obtained by Indra alone, I would show greater generosity than Indra, give lavishly to all my devotees, root out their poverty, fill them every day with wealth and gold and the like, and leave them not even slightly troubled by the sorrow of poverty," says the seer, expressing his lament to Indra. In 8.19-25 there is a description of a similar appeal made to Agni as well.
+
+(1-53.18, 19)
+
+Indra puts on his armour, sits in the chariot, and fights.
+
+(7-30-6)
+
+Indra is prayed to provide whatever earthly comforts and means of comfort there are. For example, wealth of cattle, horses, chariots, health, knowledge, bodily well-being (स्वात्मानं वाचः (*svātmānaṃ vācaḥ*)), a life of a hundred years, and so on: faith is shown that all of these are to be obtained by Indra's favour.
+
+(2-38-6 ; 3-36-10 ; 7-26-5 ; 10-47-1)
+
+The variety of the things to be granted by Indra and asked by the sacrificer is set out in many places. For example:
+
+O Indra, we pray that you grant a thousand swift and well-trained horses. And we desire to have a hundred jars filled with Soma juice.
+
+(6-32-17)
+
+O Indra, we wish to obtain thousands of cows from you. May all the riches to be obtained from you be ours.
+
+(9-32-18)
+
+O Indra, may we obtain from you ten golden Droṇa vessels. O Indra, slayer of Vṛtra, you are a generous giver.
+
+(4-3-19)
+
+### Printed p. 621
+
+O Indra, you are famed as a generous giver; give to us generously. Give nothing in small measure. We know that it is your wish too to give us abundant wealth.
+
+(4-32.20)
+
+O Indra, famed as most generous, make us also share, even a little, in your boundless wealth.
+
+(4-32-50) **NOTE**
+
+Among many such desires, the victory that the sacrificer is to win in battle is the chief. This victory follows Indra's will. But for the winning of this victory the parties on both sides engaged in the battle seek Indra's help.
+
+(2-12-8, 9)
+
+Other deities too who wish well for the sacrificer are praised as being with Indra at the time of battle and as helping Indra and, through him, the sacrificer. Some such passages may be examined by way of example.
+
+May Indra be the chief leader of all our armies. May Bṛhaspati, Dakṣiṇā, the deity of the sacrifice, and King Soma be our helpers. May the Maruts be stationed in front of the armies of the gods, which destroy enemies and win victory.
+
+(10-103-8)
+
+May the armies of wondrous power belonging to Indra, the giver of wishes, to the lord Varuṇa, to the Ādityas and to the Maruts be on our side. The lion-roar of the gods, mighty, victorious, and able to overturn the world, **NOTE** has begun.
+
+(10-103-9)
+
+O Indra, make my weapon sharp. Rouse and urge on the leaders of my army. O Indra, slayer of Vṛtra, may the pace of our horses be swift, and may the victorious sound of our chariots grow.
+
+(10-1.03-10)
+
+When the victory banners meet and mingle, may our weapons win victory. May our warriors be full of spirit and win victory. O Indra and the other gods, protect us in this battle in which we and you are engaged together.
+
+(20-103-11)
+
+### Printed p. 622
+
+O goddess of disease, bewildering the minds of our enemies and seizing their limbs firmly, make them unable to harm us. Fill their hearts always with sorrow, and keep our enemies always wrapped in pitch darkness.
+
+(10-103-12)
+
+It is Indra's nature to decide our future and to act on his own, independently. In many instances seers afflicted with distress have expressed their lament that in such descriptions of independence there are passages that take away even the freedom of men.
+
+None but Indra knows Indra's marvellous power. Of his own will he first arranges for one event to take place and afterwards causes another to take place; and he himself is the one who shows such differences as earlier and later. As a man, when walking, sets down one foot after another, so Indra too determines these earlier and later events in turn.
+
+(6 47-15)
+
+The fame of the valiant Indra has spread over the whole universe. He destroys terrible enemies. This Indra has the power to set up one sacrificer in the place of another. Indra, the enemy of the arrogant and the sovereign of heaven and earth, calls to him again and again, directing them, the sacrificers who offer him oblations and worship him, in order to encourage them.
+
+(6-47-16)
+
+Indra acts as he pleases. He may abandon the present sacrificer and go to another sacrificer and join him there. Though the rites of the former sacrificer were excellent, he sometimes leaves them and desires the rites of another sacrificer that are deficient. No one can obstruct his freedom. But the occasions on which he stays near those who worship him are the more numerous.
+
+(6 47 16)
+
+In the passage quoted above, that is, in stating the purport of mantra 6.47.16, one point calls for a little discussion. In the sixteenth mantra विधमानद्विट् (*vidhamānadviṭ*) is an epithet of Indra and tells of his nature. The word विधमान (*vidhamāna*) means "one who is increasing," that is, one who is endowed with wealth and the like and with mental comforts. But is Indra one who cultivates enmity toward those who are endowed with wealth? Is there no distinction between friend and foe in this? The question naturally arises. Therefore Sāyaṇa, in this context, has explained असुन्वतां विधमानानां (*asunvatāṃ vidhamānānāṃ*) as enemy of the selfish who, having gained increase of wealth, do not even offer oblations in sacrificial rites such as the yāga
+
+### Printed p. 623
+
+and the like. How? विधमानद्विट् (*vidhamānadviṭ*) applies in general to all the gods. It is made clear by this that the gods do not **NOTE** the progress of men. The meaning of the next mantra supports the same view. The scholar Wilson states as follows:
+
+"He is also represented in the same hymn as of a capricious temperament, neglecting those who serve him, and favouring those who pay him no adoration; a notion somewhat at variance with a doctrine, previously inculcated that the ceremonial worship of Indra is able to atone for the most atrocious crimes." **NOTE**
+
+(Quoted by Muir. Original Sanskrit Text. Vol. v. p. 111).
+
+The purport of these sentences is as follows. It may be said that the meaning given to विधमानिद्विट् (*vidhamānidviṭ*) by the English commentators is natural. For immediately after this mantra, the sentence in the next mantra, "Indra acts as he pleases. Indra is ready to leave the sacrificer who offers oblations and go to those who do not offer them," supports the above purport. There is a complete contradiction between what is described in the mantras that give the sense that any sins are destroyed if an oblation is offered in the sacrifice to Indra (1-34-4) and what is said in the present mantras. This is the opinion of the same scholar Wilson. For this contradiction to be removed, विधमानानां वर्धमानानां असुन्वतां द्विट् (*vidhamānānāṃ vardhamānānāṃ asunvatāṃ dviṭ*), as said by Sāyaṇa and the Nirukta-writers, must be understood to mean "an enemy of all who are prospering without offering oblations." That fits the context.
+
+There are also many passages in which the sacrificer (or the seer), while he is begging favour and forgiveness from Indra, expresses his dissatisfaction when Indra does not show his generosity. For example:
+
+O Indra, a god of greatness like yours is not known to have done any kind of good to men on earth. O god, turn your divine gaze toward us also, and do good to us, your worshippers.
+
+(ka-43-32) **NOTE**
+
+May your fame, by your showing us kindness and doing us good, and the hymns offered to you, be fulfilled.
+
+(8-45-33)
+
 ---
 
-**Progress note:** Done through printed p. 614. Indra's greatness, Maṇḍalas 6-10, and his favour to devotees (special topics)
+**Progress note:** Done through printed p. 623. Indra's friendship, generosity, battle help; Wilson on 6.47.16 (special topics)
