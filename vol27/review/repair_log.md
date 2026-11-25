@@ -6,3 +6,4 @@
 - 2026-11-25: fix_split_samhita.py (English file): the second line of a Saṃhitā at the top of a window had its own Ṛk heading and Saṃhitā sub-heading; removed at: Ṛk 3 at ### Printed p. 399 (no text changed).
 - 2026-11-25: fix_split_samhita.py (English file): the second line of a Saṃhitā at the top of a window had its own Ṛk heading and Saṃhitā sub-heading; removed at: Ṛk 19 at ### Printed p. 740 (no text changed).
 - 2026-11-25: fix_split_samhita.py (windows): the second line of a Saṃhitā at the top of a window had its own Ṛk heading and Saṃhitā sub-heading; removed at: w0399, w0740 (no text changed).
+- 2026-11-25: w0752: a garbled bhāṣya label ('> ॥ ಗಾಯತ್ರಿಮಂತ್ರಂ ॥' as first line of the bhāṣya block of Ṛk 2, p. 757) replaced by the label *ಸಾಯಣಭಾಷ್ಯಂ* (kn.md; letters of the bhāṣya unchanged).

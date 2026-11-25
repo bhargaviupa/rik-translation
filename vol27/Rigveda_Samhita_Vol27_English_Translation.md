@@ -26678,6 +26678,223 @@ Yāska has given the explanation (nirvacana) of this Ṛk: देवानां
 
 When the gods were created by Prajāpati, the gods of the middle region (the atmosphere), the clouds, obtained the chief place; that is, among all the gods they obtained pre-eminence. Here the word prathama means "chief." By the splitting of the clouds in the atmosphere the clouds pour rain in the form of water. The three gods Parjanya, Vāyu and Āditya together make the plants and herbs and the rest grow
 
+### Printed p. 752
+Then the sentence continues from the previous page: they cause the plants and the like to grow and flourish. That is, Parjanya pours down the rain, Vāyu blows as his helper, and Āditya, by his rays, aids the growth of plants and the like. With the cooperation of these, the herbs and trees grow and thrive. This work of theirs is called अनूप (*anūpa*). अनूप (*anūpa*) has another meaning also, "the bank of a river"; to this meaning the same derivation applies, because here too the predominance of water is seen. As the word प्राचीन (*prācīna*) is formed from the word प्राक् (*prāk*), so the word अनूप (*anūpa*) is formed from the word अन्वाप् (*anvāp*). Both of these, rain and the river bank, are filled with fertile drops of water. Wind and sun, bearing water-drops in the form of vapour, are the cause of the growth of plants and the like. बृबूकं (*bṛbūkaṃ*) means water (water in the form of dew or moisture). This word may be formed either from the root ब्रु (*bru*), meaning "to make a sound", or from the root भ्रःश् (*bhraḥś*), meaning "to fall down" (in the form of rain). पुरीषं (*purīṣaṃ*) means "that which is fertile". This word may be formed either from the root पृ (*pṛ*), meaning "to fill", or from the root प्प (*ppa*), meaning "to cause to fill". Such is the purport of the etymology.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा ते॑ जी॒वातु॑रु॒त तस्य॑ विद्धि॒ मा स्मै॑ता॒दृगप॑ गूहः  ॒
+> समर्ये ।  
+> आ॒विः स्वः॑ कृणु॒ते गूह॑ते बु॒सं स पा॒दुर॑स्य नि॒र्णिजो॒ न  ॑
+> मुच्यते ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । ते । जीवातुः । उत । तस्य । विद्धि । मा । स्व । एतादृक् । अप । गूहः ।  
+> सऽमर्ये ।  
+> आविः । स्व १ रिति । स्वः । कृणुते । गूहते । बुसं । सः । पादुः । अस्य । निःनिजः । न ।  
+> मुच्यते ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रांतरात्मनेंद्रः स्तूयते । हे अंतरात्मन् ते तव सा तादृश्यादित्यात्मिका
+> देवता जीवातुर्जीविका जीवनहेतुः । उतापि च तस्यादित्यस्यैतादृगीदृशं स्वरूपं
+> समर्ये । संग्रामवाची समर्यशब्दोऽत्र यज्ञवाची । यज्ञे विद्दि । जानीहि ।
+
+##### Gist of the bhāṣya
+
+Here the inner self is praised as Indra. "O inner self, that solar divine form of yours is the cause of life. And know such a form of that Āditya at the sacrifice." The word समर्य (*samarya*) ordinarily denotes battle, but here it denotes the sacrifice. (The sentence continues on the next page.)
+
+### Printed p. 753
+
+> स्तुत्यत्वेनेति शेषः । मा स्माप गूहः । मा खल्वपवृणोः । किंच निर्णिजः सर्वस्य
+> शोधयितुरादित्यस्य स पादुस्तच्च पादनं गमनं रश्मिद्वारेण गत्वा स्वः सर्वं त्रैलोक्यमाविष्कुणुते । प्रकाशीकरोति । बुसमुदकं गूहते । संवृणोति । आदत्त
+> इत्यर्थः । अस्मै प्रयोजनद्वयायादित्येन निर्वेदनाच्छ्रमेण वा गमनं न
+> मुच्यते । न कदाचित्परित्यज्यत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Know it as worthy of praise—this is to be supplied. Do not conceal it." Further, the motion of the all-cleansing Āditya, going through his rays, makes the whole three worlds manifest and makes them shine; it takes up and covers the water (बुसं (*busaṃ*)). That is: this motion for the two purposes, by Āditya's decision or by effort, is never stopped, never abandoned.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your (O inner self)
+- सा (*sā*)—that form which is of Āditya's nature
+- जीवातुः (*jīvātuḥ*)—is the cause of life
+- उत (*uta*)—and
+- तस्य (*tasya*)—of that same Āditya
+- एतादृक् (*etādṛk*)—such a form
+- समर्य्यॆ (*samaryyè*)—at the time of sacrifice, as worthy of worship
+- विद्धि (*viddhi*)—know
+- मा स्म अप गूहः (*mā sma apa gūhaḥ*)—do not make anything forgotten
+- निर्णिजः अस्य (*nirṇijaḥ asya*)—of this Āditya, the purifier
+- स पादुः (*sa pāduḥ*)—that motion in the form of rays
+- स्वः (*svaḥ*)—the three worlds
+- आविः कृणुते (*āviḥ kṛṇute*)—makes manifest
+- बुसं (*busaṃ*)—water
+- गूहते (*gūhate*)—conceals
+- न मुच्यते (*na mucyate*)—it never stops
+
+##### भावार्थ (Bhāvārtha)
+
+O inner self, that form of yours which is of Āditya's nature is the cause of life. And do not forget to know that such a form of the same Āditya is worthy of worship at the time of sacrifice. The motion, in the form of rays, of Āditya the purifier makes the three worlds manifest. It conceals the water; it never stops.
+
+##### English translation
+That your (divine) nature identified with the (sun) is the cause of life : and know such (solar form) of his (to be worthy of adoration) at the sacrtfice ; conceal nothing: that motion of him the all-cleansing (sun) makes manifest the universe; it absorbs the moisture; it is never discontinued.
+
+##### विशेषविषयगळु (Special Topics)
+
+पादुः (*pāduḥ*)—explaining the meaning of this word, Yāska says: पादुः। पादुः पद्यतेः । आविः स्वः कृणुते गूहते बुसं स पादुरस्य निर्णिजो न मुच्यते आविष्कुरुते भासमादित्यो गूहते बुसं । बुसमित्युदकनाम ब्रवीतेः शब्दकर्मणः । भ्रंशतीर्वा । यद्वर्षन्पातयत्युदकं रश्मिभिस्तत्पत्यादत्ते ॥ (*pāduḥ| pāduḥ padyateḥ | āviḥ svaḥ kṛṇute gūhate busaṃ sa pādurasya nirṇijo na mucyate āviṣkurute bhāsamādityo gūhate busaṃ | busamityudakanāma bravīteḥ śabdakarmaṇaḥ | bhraṃśatīrvā | yadvarṣanpātayatyudakaṃ raśmibhistatpatyādatte ‖*) (Ni. 5-19)
+
+### Printed p. 754
+The word पादुः (*pāduḥ*) is formed from the root पद् (*pad*), meaning "to walk, to go". It means the foot. In this matter the present Ṛk itself is the example. The word बुस (*busa*) here means water. The sun makes light manifest and hides water. The word बुस (*busa*) is formed either from the root ब्रु (*bru*), "to make a sound", or from the root भ्रंश् (*bhraṃś*), "to fall down". It means water. The purport is that water falls from the cloud in the form of rain, making a sound. The water thus falling on the earth through rain, the sun (Āditya) draws back by sucking it up through his rays. That is, the water of reservoirs heated by the rays of the sun is gathered, by way of vapour, in the sky facing the sun.
+
+## Sūkta 28 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वो हीति द्वादशर्चं द्वादशं सूक्तं त्रैष्टुभं । इंद्रवसुक्रयोः पितापुत्रयोः संवादोऽत्र क्रियते । पुरा वसुक्रे यज्ञं कुर्वाणे सतींद्रः प्रच्छन्नरूप अजगाम । तं वसुक्रपत्नींद्रागमनाकांक्षिणी विप्रकृष्टमिवाद्ययास्तौत् । आतस्तस्याः सर्षिः इंद्रो देवता । अथ तस्याः प्रीत्यै वसुक्रेण सहेंद्रः संवादमकरोत् । द्वितीयादियुजश्चतुर्थीरहिताः पंचर्च इंद्रवाक्यानि । अतस्तासां स
+> ऋषिः । यद्यप्यासु वसुक्रः संबोध्यत्वाद्देवता तथापि ता ऋच ऐंद्रे कर्मणि
+> विनियोक्तव्या इंद्रलिंगसद्भावात् । चतुर्थीसहिताः शिष्टास्त्रीयाद्या वसुक्रवाक्यानि । अतः स ऋषिस्तासां इंद्रो देवता । तथा चानुक्रांतं । विश्वो हि द्वादकेंद्रवसुक्रयोः संवाद ऐंद्रः सूक्तस्य प्रथमयेंद्रस्य स्नुषा परोक्षवदिंद्रमाहेंद्रस्य युजः शेषा ऋषेश्चतुर्थी चेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning विश्वो हि (*viśvo hi*) has twelve Ṛks and is in the Triṣṭubh metre. A dialogue between Indra and Vasukra, father and son, is made here. Formerly, when Vasukra was performing a sacrifice, Indra came in disguise. Vasukra's wife, desiring Indra's arrival, praised him as though he were far away, with the first Ṛk. So she is the seer of that Ṛk and Indra its deity. Then, to please her, Indra held a dialogue with Vasukra. The even-numbered Ṛks other than the fourth, five in all, are Indra's words; therefore he is their seer. Although Vasukra is addressed in them, they are to be used in the Indra rite, since the Indra-marks are present, so Indra is their deity. The fourth Ṛk and the remaining odd Ṛks from the third onward are Vasukra's words; therefore he is their seer, Indra the deity. So the Anukramaṇī: विश्वो हि द्वादकेंद्रवसुक्रयोः संवाद ऐंद्रः सूक्तस्य प्रथमयेंद्रस्य स्नुषा परोक्षवदिंद्रमाहेंद्रस्य युजः शेषा ऋषेश्चतुर्थी चेति ॥ (*viśvo hi dvādakeṃdravasukrayoḥ saṃvāda aiṃdraḥ sūktasya prathamayeṃdrasya snuṣā parokṣavadiṃdramāheṃdrasya yujaḥ śeṣā ṛṣeścaturthī ceti ‖*) The use has been stated.
+
+##### Anuvāda
+
+This sūkta beginning विश्वो हि (*viśvo hi*) is the twelfth sūkta of the second anuvāka. It has twelve Ṛks and is in the Triṣṭubh metre. In this sūkta is a conversation between Indra the father and the seer Vasukra the son. Formerly, while the seer Vasukra was performing a sacrifice, Indra came there with his disguise concealed. Then the wife of the seer Vasukra, desiring Indra's arrival and indicating his absence, praised him with the first Ṛk. Therefore for the first Ṛk Vasukra's wife is the seer and Indra the deity. Then, to please her, Indra held a conversation with Vasukra. Therefore, leaving aside the fourth Ṛk, the remaining five even-numbered Ṛks are Indra's words.
+
+### Printed p. 755
+Therefore Indra is the seer of those Ṛks. Even though the seer Vasukra is addressed in them, since the deeds praised in them relate to Indra, those Ṛks must be called Indra-deity Ṛks. The fourth Ṛk of this sūkta and the odd-numbered Ṛks from the third onward contain the words of the seer Vasukra. Therefore for those Ṛks Vasukra is the seer and Indra the deity. In the Anukramaṇī it is said: विश्वो हि द्वादशेंद्रवसुक्रयोः संवाद ऐंद्रः सूक्तस्य प्रथमयेंद्रस्य स्नुषा परोक्षवदिंद्रमाहेंद्रस्य युजः शेषा ऋषेश्चतुर्थी च (*viśvo hi dvādaśeṃdravasukrayoḥ saṃvāda aiṃdraḥ sūktasya prathamayeṃdrasya snuṣā parokṣavadiṃdramāheṃdrasya yujaḥ śeṣā ṛṣeścaturthī ca*). The use has been stated earlier.
+
+Sūkta 28
+Maṇḍala 10 | Anuvāka 2 | Sūkta 28.
+Aṣṭaka 7, Adhyāya 7 | Vargas 20, 21.
+Number of Ṛks in the sūkta: 12.
+Ṛṣi: इंद्रवसुक्रयोः संवाद ऐंद्रः (*iṃdravasukrayoḥ saṃvāda aiṃdraḥ*). 1: इंद्रत्नाषा वसुक्रपत्नीऋषिका (*iṃdratnāṣā vasukrapatnīṛṣikā*). 2, 6, 8, 10, 12: इंद्र ऋषिः (*iṃdra ṛṣiḥ*). 3, 4, 5, 7, 9, 11: ऐंद्रो वसुक्रऋषिः (*aiṃdro vasukraṛṣiḥ*).
+Devatā: 2, 6, 8, 10, 12: ऐंद्रो व'क्रो देवता (*aiṃdro va 'kro devatā*). 1, 3, 4, 5, 7, 9, 11: इंद्रो देवता (*iṃdro devatā*).
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वो॒ ह्य१॒ं॑न्यो अ॒रिरा॑ज॒गाम॒ ममेदह॒ श्वशु॑रो॒ ना ज॑गाम ।  
+> ज॒क्षी॒याद्धा॒ना उ॒त सोमं॑ पपीया॒त्सा॑शितः॒ पुन॒रस्तं॑  
+> जगायात् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वः । हि । अन्यः । अरिः । आजगाम । मम । इत् । अह । श्वशुरः । न । आ । जगाम ।  
+> जक्षीयात् । धानाः । उत । सोमं । पपीयात् । सुआशितः । पुनः । आस्तं । जगायात् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया वसुक्रपत्निंद्रं स्तोति । अन्य इंद्रव्यतिरिक्तोऽरिरर्य ईश्वरो विश्वो
+> हि सर्व एव देवगण आजगाम । अस्मद्यज्ञं प्रत्याययौ । इदित्यवधारणे । अहेत..
+
+##### Gist of the bhāṣya
+
+With this Ṛk Vasukra's wife praises Indra. Every other lord, the whole company of gods other than Indra, has come; they have come to our sacrifice. इत् (*it*) is in the sense of emphasis. (.⟧ and continues on the next page.)
+
+### Printed p. 756
+
+> द्भुते। सर्वदेवगण आगते सति ममैव श्वशुर इंद्रो ना जगाम! स इंद्रो यद्यागच्छेत् तर्हि धाना भृष्टयवाञ्ङक्षीयात् । भक्षयेत् । उतापि च सोममभिषुतं
+> पपीयात् । पिबेत् । ततः स्वाशितः सुष्टु भुक्तस्तृप्तः सन् पुनर्भूयोऽस्तं स्वगृहं
+> प्रति जगायात् । गच्छेत् ॥
+
+##### Gist of the bhāṣya
+
+When the whole company of gods has come, my father-in-law Indra alone has not come. If that Indra were to come, let him eat the parched grain, and drink the pressed Soma; then, well fed and satisfied, let him go back again to his own home.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अन्यः (*anyaḥ*)—other than Indra
+- विश्वो हि अन्यः (*viśvo hi anyaḥ*)—all the other company of gods
+- आजगाम (*ājagāma*)—have come to our sacrifice
+- मम इत् (*mama it*)—my
+- श्वशुरः (*śvaśuraḥ*)—father-in-law Indra alone
+- नाजगाम (*nājagāma*)—has not come (let Indra come)
+- धानाः (*dhānāḥ*)—barley grains
+- जक्षीयात् (*jakṣīyāt*)—let him eat
+- उत (*uta*)—and
+- सोमं (*somaṃ*)—the pressed Soma
+- पपीयात् (*papīyāt*)—let him drink
+- स्वाशितः (*svāśitaḥ*)—having eaten until satisfied
+- पुनः (*punaḥ*)—again
+- अस्तं (*astaṃ*)—to his own home
+- जगायात् (*jagāyāt*)—let him go
+
+##### भावार्थ (Bhāvārtha)
+
+The wife of the seer Vasukra says: All the other gods, apart from Indra, have come to the sacrifice. Only my father-in-law Indra has not come. Let Indra come and eat the barley grain. Let him drink the pressed Soma. Having eaten until satisfied, let him go back again to his own home.
+
+##### English translation
+(The wife of Vasukra speaks :) Every other (divine) lord has come, but my father-in-law has not come : may he eat the parched grain : and drink the Soma ; when he is well satisfied, may he return home.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स रोरु॑वद्वृष॒भस्ति॒ गृशृं॑गो॒ वर्ष॑न्तस्थौ॒ वरि॑म॒न्ना पृ॑थि॒व्याः ।  
+> विश्वे॑ष्टेनं वृ॒जने॑षु पामि॒ यो मे॑ कु॒क्षि सु॒तसो॑मः  ॒॑
+> पृणाति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । रोरुवत् । वृषभः । तिग्मृशृंगः । वर्षन् । तस्थौ । वरिमन् । आ । पृथिव्याः ।  
+> विश्वेषु । एनं । वृजनेषु । पामि । यः । मे । कुक्षि इति । सुतसोमः । पृणाति ॥
+
+### Printed p. 757
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषभः कामानां वर्षिता तिग्मशृंगस्तीक्ष्णरश्मि स इंद्रोऽहं पृथिव्या अंतरिक्षस्य वर्ष्मन् वर्ष्मणि । वर्ष्मण्यब्द उन्नतवचनः स्थिरवचनो वा । एवंभूते
+> वरिमन् विस्तीर्णे प्रदेशे रोरुवद्भृशं शब्दायमानः सन्ना तस्थौ । आतिष्ठामि ।
+> एवंभूतोऽहं विश्वेषु सर्वॆषु वृजनेषु संग्रामेष्टेनमीदृशं वसुक्रं यजमानं पामि । रक्षामि । यो यजमानः सुतसोमोऽभिषुतसोमो मे मम
+> कुक्षि उभौ पार्श्व पृणाति सोमरसपुरोडाशादिहविर्भिः पूरयति । ईदृशं
+> रक्षामीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+*Gāyatrī-mantra* stands at the head of the block. वृषभः (*vṛṣabhaḥ*) is the showerer of desires; तिग्मशृंगः (*tigmaśṛṃgaḥ*) is one with sharp rays. That Indra, I, in the वर्ष्मन् (*varṣman*) of the earth—of the atmosphere—stand. The word वर्ष्मन् (*varṣman*) means "lofty" or "firm". In such a वरिमन् (*variman*), a wide region, roaring loudly, I take my stand. Being such, in all वृजनेषु (*vṛjaneṣu*), battles, I protect this Vasukra, the sacrificer, who, having pressed Soma, fills my two flanks (कुक्षि (*kukṣi*), both sides) with offerings such as Soma juice and the cake. The construction is "I protect such a one."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- तिग्मशृंगः (*tigmaśṛṃgaḥ*)—one with sharp rays
+- सः (*saḥ*)—I (Indra), the famous
+- पृथिव्याः (*pṛthivyāḥ*)—of the atmosphere
+- वर्ष्मन् (*varṣman*)—in the lofty
+- वरिमन् (*variman*)—and wide region
+- रोरुवत् (*roruvat*)—making a sound
+- आ तस्थौ (*ā tasthau*)—I am established
+- यः (*yaḥ*)—which sacrificer
+- सुतसोमः (*sutasomaḥ*)—having pressed Soma
+- मे (*me*)—my
+- कुक्षि (*kukṣi*)—both flanks of the belly
+- पृणाति (*pṛṇāti*)—fills
+- एनं (*enaṃ*)—such a sacrificer
+- विश्वेषु वृजनेषु (*viśveṣu vṛjaneṣu*)—in all battles
+- पामि (*pāmi*)—I protect
+
+##### भावार्थ (Bhāvārtha)
+
+Indra: I, the showerer of desires, with sharp rays, the famous, am established, making a sound, in the lofty and wide region of the atmosphere. The sacrificer who, having pressed Soma, fills both flanks of my belly, such a sacrificer I protect in all battles.
+
+##### English translation
+(Indra speaks:) (Indra) the showerer (of blessings), having hot rays, abides roaring in the resounding expanse of the firmament : in all conflicts I defend him, (Vasukra), who, having effused the libation, fills my flanks.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद्रि॑णा ते म॒ुंदिन॑ इंद्र॒ तूया॑न्तु॒न्वंति॒ सोमा॒न्पिब॑सि॒  ॑
+> त्वमेषां ।
+
 ---
 
-**Progress note:** Done through printed p. 751. pp. 746-751 (batch API)
+**Progress note:** Done through printed p. 757. pp. 752-757 (batch API)
