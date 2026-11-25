@@ -24261,6 +24261,273 @@ O Soma, make our mind भद्रं (*bhadraṃ*), auspicious (वातय (*
 - भद्रं (*bhadraṃ*)—as auspicious
 - वातय (*vātaya*)—impel
 
+### Printed p. 692
+#### Ṛk 1 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनुगळु (*dhenugaḷu*)—the cows
+- यवसे न (*yavase na*)—as they enjoy delight in the pasture
+- अंधसः (*aṃdhasaḥ*)—with food in the form of the oblation
+- वः (*vaḥ*)—to you
+- वि मदे (*vi made*)—when delight arises
+- ते (*te*)—your praisers
+- सख्ये (*sakhye*)—in your friendship
+- रणन् (*raṇan*)—may they rejoice
+- विवक्षसे (*vivakṣase*)—you are exceedingly great
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, impel our mind, our strength and our rite so that they may be auspicious. As cows enjoy delight in the pasture, so when you are delighted by the oblation, may your praisers rejoice in your friendship. You are exceedingly great.
+
+##### English translation
+Sanctify (Soma) our mind, our heart, our intellect ; and may (your worshipper) delight in your friendship, like cattle in fresh pasture, in your exhilaration (produced) by tht (sacrificial) food; for you are mighty.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हृ॒दि॒स्पृश॑स्त आसते॒ विश्वे॑षु सोम॒ धाम॑सु ।  
+> अधा॒ कामा॑ इ॒मे मम॒ वि वो॒ मदे॒ वि ति॑ष्ठंते वसू॒यवो॒  ॑
+> विवक्षसे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हृदिस्पृशः । ते । आसते । विश्वेषु । सोम । धामसु ।  
+> अध । कामाः । इमे । मम । वि । वः । मदे । वि । तिष्ठंते । वस्तुयवः । विवक्षसे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव हृदिस्पृशः स्तुतिभिर्हृदयं स्पृशंत ऋत्विजो विश्वेषु
+> धामसु सर्वॆषु स्थानेष्वासते । त्वां स्तुवंतस्तिष्ठंति । अधाधेदृग्भूताः कामा अभिलाषा वि वो मदे तव सोमपानजन्यविविधमदनिमित्ते सति । सोमयागार्थमित्यर्थः । वसूयवो वसुकामा धनमिच्छंतो मम। हृदयादिति शेषः । वि तिष्ठंते ।
+> उत्तिष्ठंति । कस्मादेवं । यस्माद्विवक्षसे । महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, those priests of yours who are हृदिस्पृशः (*hṛdispṛśaḥ*), "touching the heart" with their praises, remain in all the places (धामसु (*dhāmasu*)), that is, in all the sites of the rite, praising you. Then (अध (*adha*)), when your manifold exhilaration arises from the drinking of Soma, that is, for the sake of the Soma sacrifice, those desires of mine, wishing for wealth (वसूयवः (*vasūyavaḥ*)), rise up (वि तिष्ठंते (*vi tiṣṭhaṃte*)) from my heart (the words "from the heart" are supplied). Why is it so? Because you are great.
+
+### Printed p. 693
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- ते (*te*)—your
+- हृदिस्पृशः (*hṛdispṛśaḥ*)—priests who touch the heart (give satisfaction)
+- विश्वेषु (*viśveṣu*)—in all
+- धामसु (*dhāmasu*)—the sacrificial houses
+- आसते (*āsate*)—they remain praising you
+- अध (*adha*)—at that time
+- वः (*vaḥ*)—to you
+- वि मदे (*vi made*)—when exceeding delight arises
+- वसूयवः (*vasūyavaḥ*)—desirous of wealth
+- मम इमे कामाः (*mama ime kāmāḥ*)—these desires of mine
+- वि तिष्ठंते (*vi tiṣṭhaṃte*)—rise up and show themselves
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, priests who give you satisfaction praise you in every sacrificial house. At that time, when you are delighted, all my desires, longing for wealth, rise up and show themselves. You are a great one.
+
+##### English translation
+They who seek to touch your heart, Soma, worship you in all places; and these desires for wealth rise from my heart at your exhilaration ; for you are mighty.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त व्र॒तानि॑ सोम ते॒ प्राहं मि॑नामि पा॒क्या॑ ।  
+> अधा॑ पि॒तेव॑ सू॒नवे॒ वि वो॒ मदे॑ मृ॒ळा नो॑ अ॒भि चि॑द्व॒धाद्विव॑क्षसे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । व्रतानि । सोम । ते । प्र । अहं । मिनामि । पाक्या ।  
+> अध । पिता इव । सूनवे । वि । वः । मदे । मृळ । नः । अभि । चित् । वधात् ।  
+> विवक्षसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे सोम अहं ते तुभ्यं व्रतानि यागादिकर्माणि पाक्या परिपक्वया
+> सर्वार्थदर्शिना प्रज्ञया । यद्वा । पाक्येति व्रतविशेषणमेतत् । पाक्यानि परिपक्वानि ।
+
+##### Gist of the bhāṣya
+
+"Moreover, O Soma, I perform for you the व्रतानि (*vratāni*), that is, rites such as the sacrifice, with पाक्या (*pākyā*), a ripened intelligence that sees all ends." Or else: पाक्या (*pākyā*) is an epithet of the rites, meaning "ripened", that is, completed (the passage continues on the next page).
+
+### Printed p. 694
+
+> परिनिष्ठितानीत्यर्थः । प्र मिनामि । प्रहिनस्मि । प्रकर्षण करोमीत्यर्थः । अधाथ
+> यागानंतरं वि वो मदे तव विविधे मदे सति नोऽस्मान्मृळ । सुखय । अभि
+> चिद्वधादाभिमुख्येन स्थित्वा शत्र्वादिवधाच्चास्मान्पालयेति शेषः । तत्र दृष्टांतः ।
+> पितेव सूनवे । यथा पिता पुत्रार्थं सुखयति सर्वस्मात्पुत्रमेव पालयति तद्वत् ।
+> यस्मात्सुख्यमानः पाल्यमानश्चाहं युष्मदर्थं पुनःपुनः सोमयागं करोमि
+> तस्मान्मां सुखय पालय चेत्यर्थः ! कस्मादेवमुच्यसे । यस्मात्त्वं विवक्षसे
+> महान्भवसि । महांतश्च भक्तान्सुखयंति पालयंति चेति यावत् ॥
+
+##### Gist of the bhāṣya
+
+प्र मिनामि (*pra mināmi*) means "I do", that is, I perform to perfection. Then (अध (*adha*)), after the sacrifice, when you are manifoldly exhilarated, make us happy (मृळ (*mṛḷa*)) and protect us from being killed by enemies and the like, facing them (the words "protect us" are supplied). The example: पितेव सूनवे (*piteva sūnave*), as a father makes his son happy and protects only him from everything. Since, being made happy and protected, I perform the Soma sacrifice again and again for you, therefore make me happy and protect me. Why are you addressed so? Because you are great; and the great make their devotees happy and protect them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- अहं (*ahaṃ*)—I
+- ते (*te*)—addressing you
+- व्रतानि (*vratāni*)—rites such as the sacrifice
+- पाक्या (*pākyā*)—with a ripened understanding
+- प्र मिनामि (*pra mināmi*)—I offer
+- पितेव (*piteva*)—as a father
+- सूनवे (*sūnave*)—to a son (makes happiness)
+- अध (*adha*)—after the sacrifice
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—when abundant delight arises
+- नः (*naḥ*)—us
+- मृळ (*mṛḷa*)—make happy
+- अभि चिद्वधात् (*abhi cidvadhāt*)—protect us from violent enemies
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, I prepare and offer to you rites such as the sacrifice with a ripened understanding. As a father makes his son happy, so after the sacrifice, when you are exceedingly delighted, make us happy. Protect us from violent enemies. You are a great one.
+
+##### English translation
+Verily, Soma, I practice all your observances with fullness; and as a father to his son, so do you in your exhilaration make us happy; protect us from being killed (by our enemies); for you are mighty.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समु॒ प्र यं॑ति धी॒तयः॒ सर्गा॑सोऽव॒ता इ॑व ।  
+> क्रतुं॑ नः सोम जी॒वसे॒ वि वो॒ मदे॑ धा॒रया॑ चम॒सा इ॑व॒  ॑
+> विवक्षसे ॥ ४ ॥
+
+### Printed p. 695
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । ऊं इति । प्र । यंति । धीतयः । सर्गासः । अवतान्ऽइव ।  
+> क्रतुं । नः । सोम । जीवसे । वि । वः । मदे । धारय । चमसान्ऽइव ।  
+> विवक्षसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम धीतयो देवतागुणान्दधति गृह्नंतीति धीतयः स्तुतयोऽस्मदीयाः समु संभूय्यव प्र यंति । प्रकृष्टया गत्या त्वां गच्छंति । तत्र दृष्टांतः ।
+> सर्गासोऽवतानिव । विसृज्यंत उदकपानार्थमिति सर्गा गोसंघाः यंत्रस्था
+> घटसंघा ना । ते यथोदकपानार्थमादानार्थं नावतान् । कूपनामैतत् ।
+> कूपान्मति गच्छंति तद्वत् । त्वमष्टेतञ्ञात्वा क्रतुं यागादिकं कर्म प्रज्ञां वा
+> नोऽस्माकं जीवसे चिरंजीवनाय धारय । महतादरेण स्थापय । तत्र दृष्टांतः ।
+> चमसानिन यथा वस्तव विमदे विविधसोmजन्यमदॆः कर्तव्यत्वेन निमित्तभूते
+> सत्यध्वर्युर्हविर्धाने महता यत्नेन चमसान्नोmपात्राणि स्थापयति तद्वत् ।
+> कस्मादेवमुच्यसे । यस्मात्त्वं विवक्षसे महान्भवसि । यद्वा । धीतयः । अंगुलिनामैतत् । धयंति पिबंत्याभिरिति धीतयोऽंगुलयः । हे सोम त्वां समु प्र यंति।
+> सहैन प्रकर्षण त्वां प्राप्नुवंति । किमिन । अवतानिन । जलोद्धरणार्थं विसृज्यंत
+> इति सर्गा रज्जवः । यथा कूपान्मति गच्छंति तद्वत् । ततस्त्वं नोऽस्माकं जीवसे
+> चिरंजीवनाय क्रतुं कर्म धारय । यथा संपूर्णं भवति तथा पूरय । किमिन ।
+> यथा चमसान्स्वयं पूरयसि तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, our धीतयः (*dhītayaḥ*), our praises (so called because they take up, दधति (*dadhati*), the qualities of the deity), come together (समु प्र यंति (*samu pra yaṃti*)) and reach you with an excellent motion. The example: सर्गासोऽवतानिव (*sargāso 'vatāniva*). सर्गासः (*sargāsaḥ*) are herds of cattle let loose to drink water, or the sets of pots fixed on a machine for drawing it; as they go to the अवतान् (*avatān*) (a name for wells) to drink or to take up water, so do the praises go. Knowing this, support (धारय (*dhāraya*)) our rite, the sacrifice and the like, or our wisdom, with great regard for our long life (जीवसे (*jīvase*)). The example: चमसानिव (*camasāniva*), as when your exhilaration produced by Soma is to be brought about, the Adhvaryu sets up the cups (चमसान् (*camasān*)) in the oblation-vessel with great effort. Why are you addressed so? Because you are great.
+
+Or else: धीतयः (*dhītayaḥ*) is a name for the fingers; they drink with them (धयंति (*dhayaṃti*)), so the fingers are धीतयः (*dhītayaḥ*). O Soma, they reach you together and with force. Like what? Like अवतानिव (*avatāniva*): सर्गासः (*sargāsaḥ*) are ropes, let down to draw up water; as they go to wells, so the fingers go to you. Therefore, for our long life, fulfil (धारय (*dhāraya*)) the rite so that it becomes complete. Like what? As you yourself fill the cups.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- सर्गासः (*sargāsaḥ*)—cows let loose for water
+- अवतानिव (*avatāniva*)—as they go quickly to the pools
+- धीतयः (*dhītayaḥ*)—our praises
+- समु प्रयंति (*samu prayaṃti*)—come quickly and reach you
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—for abundant satisfaction
+- चमसानिव (*camasāniva*)—as one holds cup-vessels filled with the oblation
+- नः क्रतुं (*naḥ kratuṃ*)—our sacrifice
+- जीवसे (*jīvase*)—for the increase of life
+- धारय (*dhāraya*)—lift up and hold (raise it up)
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, as cows let loose for water (or pots let down into a well for water) go straight to the well and reach it, so our praises come quickly and reach you (the passage continues on the next page).
+
+### Printed p. 696
+As we hold cup-vessels filled with the oblation for your abundant satisfaction, so establish our sacrifice for the increase of our life. You are a great one.
+
+##### English translation
+Our praises converge (Soma) towards you, as herds towards a well; establish our pious acts, Soma, for us to live (long), as (the priest sets up) the cups for your exhilaration . for you are mighty.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ तै सो॑म॒ शक्ति॑भि॒र्निका॑मासो॒ व्य॑ण्णिरे ॥  
+> गृत्स॑स्य॒ धीरा॑स्त॒वसो॒ वि वो॒ मदे॑ व्र॒जं गोमं॑तम॒श्विनं॒  ॑
+> विवक्षसे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शव । श्ये । सोम । शक्तिभिः । निकामासः । पि । यग्वरे ।  
+> गृत्सस्य । धीराः । तवसः । वि । वः । मदे । व्रजं । गोऽमंतं । अश्विनं । विवक्षसे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> निकामसो दृष्टादृष्टफले नियतकामास्त्ये ते प्रसिद्धा धीरा मेधाविन
+> ऋत्विजः शक्तिभिर्यागादिकर्मभिः सह हे सोम गृत्सस्य मेधाविनस्तवसो महतस्तव
+> वृण्वरे । विविधाः स्तुतीर्गमयंति । पा पयंति । कुर्वंतीत्यर्थः अत कारणाद्वि
+> वो मदे तव सोमपानजन्यविविधमदनिमित्तभूते सत्यस्मभ्यं गोमंतं गोसहितमश्विनमत्वसहितं व्रजं गोष्ठं । सामर्थ्यान्मंदुरा लभ्यते । मंदुरां च देहीति
+> शेषः । कस्मादेवमुच्यसे । यस्माद्विवक्षसे महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+निकामासः (*nikāmāsaḥ*): those whose desires are fixed on a seen or unseen fruit, the well-known wise (धीराः (*dhīrāḥ*)) priests, together with their powers (शक्तिभिः (*śaktibhiḥ*)), that is, rites such as the sacrifice, bring forth manifold praises of you, O Soma, who are wise and great (गृत्सस्य (*gṛtsasya*), तवसः (*tavasaḥ*)); the sense is that they perform them. Therefore, when your manifold exhilaration produced by the drinking of Soma arises, give us a stable (व्रजं (*vrajaṃ*)) with cattle (गोमंतं (*gomaṃtaṃ*)) and with horses (अश्विनं (*aśvinaṃ*)); by implication "a stable" gives also the sense of a stable of horses, and "give" is supplied. Why are you addressed so? Because you are great.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- निकामासः (*nikāmāsaḥ*)—those who are attached to the fruit of rites
+- श्यैः (*śyaiḥ*)—the well-known
+- धीराः (*dhīrāḥ*)—wise priests
+- शक्तिभिः (*śaktibhiḥ*)—with their rites
+- गृत्सस्य (*gṛtsasya*)—wise
+- तवसः (*tavasaḥ*)—great
+- तव (*tava*)—addressing you
+- व्यण्णिरे (*vyaṇṇire*)—praise in many ways (the list continues on the next page)
+
+### Printed p. 697
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—at the time of exceeding delight
+- गोमंतं (*gomaṃtaṃ*)—filled with cows
+- अश्विनं (*aśvinaṃ*)—stocked with horses
+- व्रजं (*vrajaṃ*)—provide a stable
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, priests who are attached to the fruit of rites, well known and wise, praise you, the wise and great, in many ways with their rites. At the time of your exceeding delight provide a stable filled with cows and stocked with horses. You are a great one.
+
+##### English translation
+The intelligent (priests), whose desires are fixed (on the fruit of good works), with sacred rites show forth (the praises) of you, Soma, who are wise and powerful; you, in your exhilaration, (grant us) pastures, abounding with cattle, and with horses; for you are mighty.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒शुं नः॑ सोम रक्षसि पुरु॒त्रा विस्थि॑तं॒ जग॑त् ।  
+> स॒माकृ॑णोषि जी॒वसे॒ वि वो॒ मदे॒ विश्वा॑ सं॒पश्य॒न्भव॑ना॒  ॑
+> विवक्षसे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पशुं । नः । सोम । रक्षसि । पुरुत्रा । विस्थितं । जगत् ।  
+> संआकृणोषि । जीवसे । वि । वः । मदे । विश्वा । संपश्यन् । भुवना । विवक्षसे ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं नोऽस्मदीयं पशुं देवयागार्थमुपाकृतं रक्षसि । पालयसि । न केवलं पशुं किंतु पुरुत्रा बहुधा विष्ठितं सुरनरतिर्यग्योन्यादिभावेनावस्थितं जगच्च रक्षसि । किंच । स त्वं समाकृणोषि । जगतो वृत्तिं सम्यगाकरोषीत्यर्थः । किमर्थं । जीवसे जीवनार्थं । किं कुर्वन् । विश्वा भुवना विश्वानि
+
+##### Gist of the bhāṣya
+
+O Soma, you protect (रक्षसि (*rakṣasi*)) our animal (पशुं (*paśuṃ*)), the one brought near for the sacrifice to the gods. Not the animal only: you protect also the world (जगत् (*jagat*)) which stands divided (विष्ठितं (*viṣṭhitaṃ*)) in many ways (पुरुत्रा (*purutrā*)), as the existence of gods, men, animals and other births. Further, you set in order (समाकृणोषि (*samākṛṇoṣi*)) the livelihood of the world, that is, you arrange it well. For what? For life (जीवसे (*jīvase*)). Doing what? विश्वा भुवना (*viśvā bhuvanā*), all beings, ….
+
 ---
 
-**Progress note:** Done through printed p. 691. pp. 686-691 (batch API)
+**Progress note:** Done through printed p. 697. pp. 692-697 (batch API)
