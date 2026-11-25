@@ -22480,6 +22480,258 @@ where sacrifice can be offered.
 
 > बह्वीः । समाः । आकरं । अंतः । अस्मिन् । इंद्रं । वृणानः । पितरं । जहामि ।
 
+### Printed p. 682
+
+> अग्निः । सोमः । वरुणः । ते । च्यवंते । परिआवर्त् । राष्ट्रं । तत् । अवामि ।
+> आयन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन्वेदिलक्षणस्थाने बह्वीः समाः संवत्सरानकरं । अकार्ष० । चिरकालं
+> न्यवात्सं । तत्रेंद्रं वृणानः संभजमानः पितरमुत्पादकमरण्यात्मकं जहामि । परित्यजामि । यदा त्वहं देवेभ्यो निर्गत्य गुहायां निगूढः तदा ते देवा अग्निः
+> सोमो वरुणश्च च्यवंते । राष्ट्रात्प्रच्युता अभवन् । एकस्याप्यग्निर्हविर्वोढृत्वरूपेण देवतात्मना च पृथक्त्वात्परोक्षनिर्दॆशः । आयन् पुनरागच्छन्नहं यद्राष्ट्रमसुरैरपहृतं पर्यावर्त् पर्यावर्तमानं मदभिमुखं पुनरावर्तमानं
+> तद्राष्ट्रं राज्यं यज्ञभूमिमवामि । असुरेभ्यो रक्षामि । पर्यावर्त् ॥ उपसृष्टाद्वृतेरन्येभ्योऽपि दृश्यंत इति विच् । रात्सस्यॆति नियमात्संगांतस्यॆति
+> लोपाभावः ॥
+
+##### Gist of the bhāṣya
+
+In this place of the altar I have spent many years, and have stayed for a long time. There, choosing Indra, I abandon my begetter, the fire-stick (araṇi). When I had gone away from the gods and was hidden in a cave, those gods, Agni, Soma and Varuna, fell, that is, were dislodged from their kingdom. Although Agni is one, the third-person reference is made because he is distinct as the bearer of the oblation and as a deity. Coming back, I protect from the Asuras that kingdom, the sacrificial ground, which they had seized and which is turning back toward me. पर्यावर्त् (*paryāvart*) is explained by a grammatical note on the affix vic and on the absence of elision.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मिन् (*asmin*)—in this sacrificial place called the vedi
+- बह्वीः (*bahvīḥ*)—many
+- समाः (*samāḥ*)—years
+- अकरं (*akaraṃ*)—I have spent (living there). But!
+- इंद्रं (*iṃdraṃ*)—to Indra
+- वृणानः (*vṛṇānaḥ*)—in order to go
+- पितरं (*pitaraṃ*)—the araṇi, which is like a father, having produced me
+- जहामि (*jahāmi*)—I abandon (when I had left the gods and was hidden in a secret place)
+- ते (*te*)—those gods, namely
+- अग्निः (*agniḥ*)—Agni
+- सोमः (*somaḥ*)—Soma
+- वरुणः (*varuṇaḥ*)—and Varuna as well
+- च्यवंते (*cyavaṃte*)—are driven out of their kingdom or place (for lack of a share of the oblation)
+- आयन् (*āyan*)—I, coming again from the secret place
+- पर्यावर्त् (*paryāvart*)—returning, again obtained
+- तत् राष्ट्रं (*tat rāṣṭraṃ*)—that realm of mine, the sacrificial ground
+- अवामि (*avāmi*)—I protect from the Asuras
+
+##### भावार्थ (Bhāvārtha)
+
+(Agni's speech.) O gods, I have spent many years living in this sacrificial place, the vedi. In order to go to Indra, that is, when conducting the sacrifice for Indra's pleasure, I leave behind the araṇi, my own place, which is like a father to me. When I had run away from the gods and hidden in a secret place, gods such as Agni, Soma and Varuna, lacking a share of the oblation in the sacrifice (because I was absent), were fallen from their places. But I rise from my secret place, come back, settle as before in the sacrificial ground that is my realm, conduct the sacrifice, bear the oblation to the gods, and protect the sacrifice from the Asuras.
+
+### Printed p. 683
+
+##### English translation
+I spent many years within this (altar); preferring Indra, I abandon the progenitor; Agni, Soma, Varuna, fall (from their power); returning, I protect that kingdom which awaits me
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निर्मा॑या उ॒ तै असु॑रा अभूव॒न्त्वं च॑ मा वरुण का॒मया॑से ।  
+> ऋ॒तेन॑ राज॒न्न नृ॑तं विविं॒चन्मम॑ रा॒ष्ट्रस्याधि॑पत्य॒मेहि॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निःसमायाः । ऊं इति । तै । असुराः । अभूवन् । त्वं । च । मा । वरुण । कामयासे ।  
+> ऋतेन । राजन् । अनृतं । विविंचन् । मम । राष्ट्रस्य । अधिपत्यं । आ । इहि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्ये तेऽसुरा मय्यग्नानागते सति निर्माया मायारहिता अभूवन् ।
+> आसुर्यः सर्वा माया मया दग्धा आसन्नित्यर्थः । हे वरुण त्वं च ॥ अयं चशब्दश्चेदर्थे वर्तमानश्चणिति निपातांतरं । अनेन युक्तत्वात्कामयास इति तिङ्विभक्तेर्निपातैय्यद्यदिहंतेति निघातप्रतिषेथः । पा. ८-१-३० ॥ हे वरुण त्वं चेन्मा कामयासे
+> मां कामयेथाः तर्हि हे राजन्नीश्वर ऋतेन सत्येनास्यदीयेन कर्मणानृतमसत्यभूतं मायामयमासुरं चरित्रं विविंचन् पृथक्कुर्वन्नपसारयन् मम राष्ट्रस्य
+> मया यत्साधितं राज्यं तस्याधिपत्यमधिपतित्वमीश्वरत्वमेहि । प्राप्पुहि ॥
+
+##### Gist of the bhāṣya
+
+Those Asuras, when I, Agni, have come, become free of magic: all the Asura illusions have been burnt by me. "And you, Varuna": the word च (*ca*) here has the sense of "if", and is another particle; because of its connection with it, the verb कामयासे (*kāmayāse*) is not accented (Pā. Sū. 8-1-30). O Varuna, if you desire me, then, O king, lord, by the truth, my own act, separating and driving away the untrue, illusory Asura conduct, obtain sovereignty and lordship over my realm, the kingdom I have accomplished.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्ये असुरा (*tye asurā*)—those Asuras (if they come near me, Agni)
+- निर्मायाः (*nirmāyāḥ*)—free of magic
+- अभूवन् (*abhūvan*)—become
+- वरुण (*varuṇa*)—O Varuna
+- त्वं च (*tvaṃ ca*)—you also
+- मा (*mā*)—me
+- कामयासे (*kāmayāse*)—if you desire
+- राजन् (*rājan*)—as lord of all
+- ऋतेन (*ṛtena*)—
+
+### Printed p. 684
+
+- (ऋतेन (*ṛtena*) continued)—by my true act
+- अनृतं (*anṛtaṃ*)—the untrue magic of the Asuras
+- विविंचन् (*viviṃcan*)—separating
+- मम (*mama*)—my
+- राष्ट्रस्य (*rāṣṭrasya*)—of the realm
+- अधिपत्यं (*adhipatyaṃ*)—lordship
+- एहि (*ehi*)—you obtain
+
+##### भावार्थ (Bhāvārtha)
+
+(Agni's speech.) If those Asuras come near me, Agni, all their magic is burnt and destroyed by me. O Varuna, if you too desire me, then, as lord of all, separating the untrue from the true, you will obtain sovereignty over my realm.
+
+##### English translation
+These Asuras were deprived of their magical power; if you, Varuna, desire me, (then), O king, separating truth from falsehood come and enjoy sovereignty over my realm.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं स्व॑रि॒दमिदा॑स वा॒मम॒यं प्र॑का॒श उ॒र्व१॒॑०१ तरि॑क्षं ।  
+> हना॑व वृ॒त्रं नि॒रेहि॑ सोम ह॒विष्ट्वा॒ संतं॑ ह॒विषा॑ यजाम॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । स्वः । इदं । इत् । आस । वामं । अयं । प्रकाशः । उरु । अंतरिक्षं ।  
+> हनाव । वृत्रं । निःएहि । सोम । हविः । त्वा । संतं । हविषा । यजाम ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमृगग्नेर्वरुणस्य वा वाक्यं । हे सोम इदं स्वरयं द्युलोकः
+> यद्वायं शोभनारणः सूर्य इदमिदिदमेव वामं वननीयमास । बभूव ।
+> इदंशब्देन प्रकृतं स्वः परामृश्यते । अयं च प्रकाशः प्रकाशस्याधारभूत उरु
+> विस्तीर्णमिदमंतरिक्षं हे सोम एतत्सर्वं पश्य । आत एवास्मिन्समय आवां वृत्रं
+> हनाव ! हिनसाव ! तदर्थं निरेहि । निष्क्रम्यागच्छ । हविः संतं लतारूपेण
+> हविर्भवंतं देवतात्मानं त्वां हविषा चरुपुरोडाशादिना वयं यजाम ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the speech of Agni or of Varuna. O Soma, this is heaven, the sky; or else this is the beautiful-rayed sun; just this is what is desirable. The word "this" refers to the heaven under discussion. And this light, and this broad firmament, the support of the light: O Soma, see all this. Therefore, at this time, let us two slay Vṛtra; for that come forth. You who are the oblation, being in the form of the plant and the deity, we worship with the oblation, the cooked rice-cake and so on.
+
+### Printed p. 685
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma) इदं स्वः (*idaṃ svaḥ*)—this is the heaven (or the sun)
+- इदमित् (*idamit*)—this (heaven)
+- वामं (*vāmaṃ*)—desired by all
+- आस (*āsa*)—is
+- आयं (*āyaṃ*)—this sun
+- प्रकाशः (*prakāśaḥ*)—the support of the light
+- उरु (*uru*)—broad
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament (see all this; therefore now we)
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- हनाव (*hanāva*)—let us slay (for that)
+- निरेहि (*nirehi*)—come forth and be ready
+- हविः संतं (*haviḥ saṃtaṃ*)—you who, being in the form of the plant, become the oblation (with cooked rice-cake and other substances)
+- यजाम (*yajāma*)—we worship
+
+##### भावार्थ (Bhāvārtha)
+
+(The speech of Agni and Varuna addressed to Soma.) O Soma, this is the world of heaven. It is desired by all. This sun is the support of the light. This is the broad firmament. See all this; now let us set out to slay Vṛtra. Be ready for it. O Soma, you who are in the form of the plant and become the juice, you are yourself the oblation. Such as you, we worship.
+
+##### English translation
+(Agni or Varuna speaks :) This, O Soma, is heaven ; this verily was beautiful, this (was) the light, the broad firmament; let us two slay Vritra ; come forth ; we worship with an oblation you who are yourself the oblation
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒विः क॑वि॒त्वा दि॒वि रू॒पमास॑ज॒दप्र॑भूती॒ वरु॑णो॒ निर॒पः सृ॑जत्।  
+> क्षेमं॑ कृष्णा॒ना जन॑यो॒ न सिंध॑व॒स्ता अ॑स्य॒ वर्णं॒ शुच॑यो  
+> भरिभ्रति ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कविः । कवित्वा । दिवि । रूपं । आ । असजत् । अप्रभूती । वरुणः । निः । अपः ।  
+> सृजत् ।  
+> क्षेमं । कृष्णानाः । जनयः । न । सिंधवः । ताः । अस्य । वर्णं । शुचयः । भरिभ्रति ॥७॥
+
+### Printed p. 686
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतदर्शि मित्रः कवित्वा कवित्वेन ॥ सुपां सुलुगिति तृतीयाया आकारः॥
+> क्रांतदर्शनेन दिवि द्युलोके रूपमात्मियं तेज आसजत् । आसक्तं करोति ॥ षन्व
+> संगे । आस्माल्लज शपि दंशसंजष्टंजां शपि । पा. ६-४-२५ । इति नलोपः ॥ अप्रभूत्यप्रभूत्या ॥ सुपां सुलुगिति तृतीयायाः पूर्वसवर्णदीर्घः ॥ अप्रभूष्णुनाल्वेनैव
+> यत्नेन वरुणो मेघादपो निः सृजत् । निरगमयत् । वरुणेन विसृष्टास्ता आपः
+> सिंधवः स्कंदनशीला नद्यो भूत्वा जनयो न जाया इव यथा जायाः पत्युः
+> क्षेमकारिण्यो भवंति तथा क्षेमं कुर्वाणा जगतो रक्षणं कुर्वाणाः शुचयः
+> शुद्धा दीप्यमाना वास्यॆ वरुणस्य वर्णं शुक्लं भास्वररूपं भरिभ्रति । भृशं बिभ्रति
+> धारयंति ॥ वाधर्त्यादिसूत्रे भरिभ्रदिति निपातनाद्बिभर्तेय्‌ज्लुक्यभ्यासस्य
+> जश्वाभावः ॥
+
+##### Gist of the bhāṣya
+
+The seer Mitra, by his far-seeing wisdom, fixed his own form, his radiance, in heaven. Varuna, with but little effort, sent forth the waters out of the cloud. The waters sent forth by Varuna became flowing rivers and, like wives who bring welfare to a husband, bring welfare and protect the world; pure and shining, they bear strongly the white, bright colour of this Varuna. Grammatical remarks are given on the ending of कवित्वा (*kavitvā*), the loss of the nasal in आसजत् (*āsajat*), the lengthening in अप्रभूती (*aprabhūtī*) and the form भरिभ्रति (*bharibhrati*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—Mitra, the far-seeing
+- कवित्वा (*kavitvā*)—by his far-reaching wisdom
+- दिवि (*divi*)—in the heavenly world (in the firmament)
+- रूपं (*rūpaṃ*)—his form (the radiance that is his form)
+- आ असजत् (*ā asajat*)—has fixed firmly
+- अप्रभूती (*aprabhūtī*)—by little effort alone
+- वरुणः (*varuṇaḥ*)—Varuna
+- अपः (*apaḥ*)—the waters in the clouds
+- निःसृजत् (*niḥsṛjat*)—sends forth (makes them fall); those waters
+- सिंधवः (*siṃdhavaḥ*)—as flowing rivers
+- जनयोन (*janayona*)—as wives bring benefit to their husbands
+- क्षेमं (*kṣemaṃ*)—welfare to the world
+- कृष्णानाः (*kṛṣṇānāḥ*)—producing
+- शुचयः (*śucayaḥ*)—pure, or shining
+- अस्य (*asya*)—of this Varuna
+- वर्णं (*varṇaṃ*)—the white colour that is radiance
+- भरिभ्रति (*bharibhrati*)—cast all around (cause to shine)
+
+##### भावार्थ (Bhāvārtha)
+
+Mitra (the sun), the far-seeing, by his boundless far-reaching wisdom has fixed his divine form firmly in heaven (the firmament). Varuna, with his slight effort alone, makes the waters in the clouds fall upon the earth as rain. Those waters become flowing rivers, filled with pure water, and, as wives do good to their husbands, doing good to the world, they make shine for the world the white form (or greatness) of this Varuna.
+
+##### English translation
+The sage (Mitra) by his wisdom fixed his body in the sky ; Varuna with but a slight effort let loose the waters, conferring happiness, like wives, the pure rivers assume his (white) tint.
+
+### Printed p. 687
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता अ॑स्य॒ ज्येष्ठ॑मिंद्रि॒यं स॑चंते॒ ता ई॒मा क्षे॑ति स्व॒धया॒  ॑
+> मदंतीः ।  
+> ता ईं॒ विशो॒ न राजा॑नं वृणा॒ना बी॑भ॒त्सुवो॒ अप॑ वृ॒त्राद॑तिष्ठन् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । अस्य । ज्येष्ठं । इंद्रियं । सचंते । ताः । ईं । आ । क्षेति । स्वधया । मदंतीः ।  
+> ताः । ईं । विशः । न । राजानं । वृणानाः । बीभत्सुवः । अप । वृत्रान् । अतिष्ठन् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ताः पूर्वोक्ता वृष्टा आपोऽस्य वरुणस्य ज्येष्ठं वृद्धतमिंद्रियं वीर्यं
+> सचंते । समवयंति । संभजंते । धारयंतीत्यर्थः । आपो वरुणस्य पत्न आसन्निति
+> श्रुतेः । स्वधया । अन्ननामैतत् । हनिर्लक्षणेनान्नेन मदंतीर्माद्यंतीः । यद्वा ।
+> व्रीह्याद्युत्पादनद्वारेण हविषा मादयंतीः । ता अप ईमयं वरुण आक्षेति ।
+> अभिगच्छति ॥ क्षि निवासगत्योः । छांदसो विकरणस्य लुक् ॥ ताश्चमेनं वरुणं विशो
+> न एशः प्रजा यथा राजानं स्वामिनं संभजंते तथा वृणानाः संभजमाना बीभत्सुवो भयेन कंपमानाः । यद्वा बद्धा वृत्रेणावृताः सत्यः । तस्मिन्हते सति तस्माद्वृत्तादपातिष्ठन् । अपक्रम्य तत्र तत्रावतिष्ठंते ॥ बध बंधन इत्यस्माद्द्धातोर्मान्बधदान्यान्भ्यः । पा. ३-१-६ । इति सन् अभ्यासस्य च दीर्घः । सनाशंसभिक्ष उरित्युप्रत्ययः । जसि च्चांदस उवजादेशः ॥
+
+##### Gist of the bhāṣya
+
+Those rains mentioned before follow, that is, partake of and bear, the foremost, greatest vigour of this Varuna, according to the Śruti "the waters were the wives of Varuna". स्वधया (*svadhayā*) is a name for food; they rejoice with food in the form of the oblation. Or else they gladden with the oblation by way of producing rice and the like. This Varuna approaches those waters. As subjects join their king and lord, so the waters, choosing him, trembling with fear; or else bound, enclosed by Vṛtra, when he was slain they moved away from that enclosure and stood in their several places. Grammar: the desiderative formation from the root meaning "to bind" (Pā. Sū. 3-1-6), the lengthening of the reduplication, the affix u, and the substitution uv before the plural ending.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ताः (*tāḥ*)—the rain-waters spoken of before
+- अस्य (*asya*)—of this Varuna
+- ज्येष्ठं (*jyeṣṭhaṃ*)—the greatest
+- इंद्रियं (*iṃdriyaṃ*)—vigour
+- सचंते (*sacaṃte*)—obtain (bear)
+- स्वधया (*svadhayā*)—with food in the form of the oblation
+- मदंतीः (*madaṃtīḥ*)—who rejoice
+- ताः (*tāḥ*)—those waters
+- ईं (*īṃ*)—this Varuna
+- आ क्षेति (*ā kṣeti*)—approaches
+- विशः (*viśaḥ*)—subjects
+- राजानं न (*rājānaṃ na*)—as they approach their lord the king with fear and devotion
+- ताः (*tāḥ*)—these waters
+- ईं (*īṃ*)—this Varuna, their husband.
+
 ---
 
-**Progress note:** Done through printed p. 681. pp. 676-681 (batch API)
+**Progress note:** Done through printed p. 687. pp. 682-687 (batch API)
