@@ -25,6 +25,8 @@ start = next((i for i, l in enumerate(src) if '<!-- page 1 -->' in l), None)
 pe = [int(x) for x in re.findall(r'^### Printed p\. (\d+)\s*$', en, re.M)]
 pk = [int(m.group(1)) for l in kn for m in [re.match(r'<!-- printed (\d+) -->', l)] if m]
 last = max(pe + pk) if pe + pk else 0
+if not (pe or pk):
+    print('no page markers in the volume files yet (nothing translated): chunk count of the source only')
 if start is None:
     print('no `<!-- page 1 -->` marker in the source: chunk check skipped')
 else:
@@ -33,8 +35,8 @@ else:
     tail = src[seps[-1] + 1:] if seps else []
     figure_only = all((not l.strip()) or l.startswith('[figure') or l.startswith('*') for l in tail)
     real = chunks - (1 if figure_only else 0)
-    print(f'source: {chunks} `---` chunks from page 1 on ({real} without a closing picture-only chunk); volume files: last page marker {last}')
-    if real != last:
+    print(f'source: {chunks} `---` chunks from page 1 on ({real} without a closing picture-only chunk); volume files: last page marker {last or "none yet"}')
+    if last and real != last:
         bad += 1; print(f'  DIFFERENT: {real} chunks against {last} pages: a `---` is missing or extra (seam of joined files?); look at the seam first')
 for name, p in (('English', pe), ('Kannada', pk)):
     miss = [x for x in range(1, last + 1) if x not in set(p)]

@@ -1,0 +1,8 @@
+{
+ "title_pages_lines": [1, 101],
+ "preface_lines": [104, 133],
+ "contents_lines": [135, 371],
+ "abbreviations_lines": [376, 414],
+ "body_first_line": 417,
+ "note": "Vol 29: three input files (rig_29_1 … _3) joined by hand with a `---` page separator at each seam (merge_md.py refused). The first two pictures of the first file (lines 3 and 22: the printed title page and the cover/inner title) are kept in vol29/html/figures/ for the PDF. Printed p. 1 (title of the text, '## ॥ ಶ್ರೀ ॥') has no running head: marker '<!-- page 1 -->' inserted at line 417. Front-matter line numbers are approximate."
+}
