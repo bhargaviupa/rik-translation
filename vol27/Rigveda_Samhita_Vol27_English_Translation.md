@@ -8894,6 +8894,167 @@ Among the gods Agni is the priest called hotṛ, the Aśvins are the adhvaryus, 
 > वेषि॑ हो॒त्रमु॒त पो॒त्रं जना॑नां मंधा॒तासि॑ द्रविणो॒॒तु  ॑
 > ऋ॒तावा॑ ।
 
+### Printed p. 220
+
+> स्वाहा वयं कृणवामा हवींषि देवो देवान्यजत्वग्निरर्हन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेषि । होत्रं । उत । पोत्रं । जनानां । मंधाता । असि । द्रविणःऽदाः । ऋतवा।  
+> स्वाहा । वयं । कृणवाम । हवींषि । देवः । देवान् । यजतु । अग्नि: । अर्हन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जनानां यजमानार्थं होत्रं होतुः कर्म तेन क्रियमाणं
+> स्तोत्रं वेषि । कामयसे ! उतापि च पोत्रं पोतुः कर्म तेन क्रियमाणां
+> स्तुतिं कामयसे । किंच मंधाता मेधाव्यृतवा सत्यवांस्त्वं द्रविणोदा असि ।
+> धनस्य प्रधाता भवसि । अथ परोक्षकृतः । वयं देवेभ्यो हवींषि स्वाहा कृणवाम।
+> स्वाहा करनाम । प्रयच्छाम । ततो देवो दीप्यमानोर्हन् प्रशंस्यो
+> यजमानयोगो नाग्निर्देवान्यजतु । तैर्हविभिः पूजयतु ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you desire the होत्रं (*hotraṃ*), the Hotṛ's work, that is, the praise performed by him, for the sake of the people, that is, the sacrificers. You also desire the पोत्रं (*potraṃ*), the Potṛ's work, that is, the praise performed by him. Moreover you, being wise and truthful, are the giver of wealth, the bestower of riches." Then, changing to the third person (अथ परोक्षकृतः (*atha parokṣakṛtaḥ*)): "We offer oblations to the gods with svāhā; we make them (स्वाहा करनाम (*svāhā karanāma*)), we present them. Thereupon let the shining, praiseworthy Agni, who is joined with the sacrificer, worship the gods with those oblations."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनानां (*janānāṃ*)—for the sake of the sacrificer (O Agni)
+- होत्रं (*hotraṃ*)—the praise of the Hotṛ
+- वेषि (*veṣi*)—even if you should desire
+- उत (*uta*)—or
+- पोत्रं (*potraṃ*)—even if you should desire the praise of the Potṛ
+- मंधाता (*maṃdhātā*)—wise
+- ऋतवा (*ṛtavā*)—truthful, you
+- द्रविणोदाः (*draviṇodāḥ*)—as the giver of wealth
+- असि (*asi*)—you are
+- वयं (*vayaṃ*)—we
+- हवींषि (*havīṃṣi*)—the oblations
+- स्वाहा कृणवाम (*svāhā kṛṇavāma*)—let us offer to the gods with svāhā
+- देवः (*devaḥ*)—shining
+- अर्हन् (*arhan*)—praiseworthy
+- अग्निः (*agniḥ*)—Agni
+- देवान् (*devān*)—the gods
+- यजतु (*yajatu*)—let him worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, even if you, as the sacrificer, should desire the praise of the Hotṛ, or should desire the praise of the Potṛ, you, wise and truthful, are the giver of wealth. Let us offer the oblations to the gods with svāhā. Let Agni, shining and praiseworthy, worship the gods.
+
+##### English translation
+Whether, Agni, you prefer the office of Hotri or Potri among men
+you are wise. the giver of wealth, the observer of truth; let us offer the
+
+### Printed p. 221
+oblations with the (sacred) Swaha, and may the most excellent and divine
+Agni present them to the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+द्रविणोदाः (*draviṇodāḥ*): Yāska has written an extended explanation of this word—द्रविणोदाः कस्माद्धनं द्रविणमुच्यते । यदेनदभिद्रवंति । बलं वा द्रविणं यदेदेनाभिद्रवंति । तस्य दाता द्रविणोदाः ॥ (*draviṇodāḥ kasmāddhanaṃ draviṇamucyate | yadenadabhidravaṃti | balaṃ vā draviṇaṃ yadedenābhidravaṃti | tasya dātā draviṇodāḥ ‖*) (Ni. 8-1). Here the derivation of the word द्रविणोदाः (*draviṇodāḥ*) is: द्रविणं ददातीति द्रविणोदाः (*draviṇaṃ dadātīti draviṇodāḥ*). The word द्रविण (*draviṇa*) has two meanings, wealth and strength. Therefore द्रविणोदाः (*draviṇodāḥ*) means one who gives wealth or strength. This is the meaning of the parts of the word. Besides this, Yāska has given the explanation (nirvacana) of the Ṛk द्रविणोदाः (*draviṇodāḥ*) as follows—
+द्रविणोदा यस्त्वं । द्रविणस इति द्रविणसादिन इति वा द्रविणसानिन इति वा द्रविणसस्तस्मात् पिबत्विति वा । यज्ञेषु देवमीळते । याचंति स्तुवंति, वर्धयंति पूजयंतीति वा ॥ (*draviṇodā yastvaṃ | draviṇasa iti draviṇasādina iti vā draviṇasānina iti vā draviṇasastasmāt pibatviti vā | yajñeṣu devamīḷate | yācaṃti stuvaṃti, vardhayaṃti pūjayaṃtīti vā ‖*)
+That is, the principal meaning is that the priests, desiring wealth, oblations and the like, pray in the sacrifices to you, called द्रविणोदा (*draviṇodā*), to drink the Soma. Here द्रविणोदाः (*draviṇodāḥ*) is nominative singular, yet how did it become an epithet of देवं (*devaṃ*), accusative singular? The words must be supplied so that the sense becomes: द्रविणोदा यः देवः तं देवं (*draviṇodā yaḥ devaḥ taṃ devaṃ*), "that god who is the giver of wealth." As for द्रविणसः (*draviṇasaḥ*), many meanings may be given: they ask for wealth or oblations for the worship of the deity, they praise, they worship.
+तत्को द्रविणोदा इंद्र इति क्रौष्टुकिः । स बलधनयोर्दातृतमस्तस्य च सर्वा बलकृतिः ॥ (*tatko draviṇodā iṃdra iti krauṣṭukiḥ | sa baladhanayordātṛtamastasya ca sarvā balakṛtiḥ ‖*)
+The meaning of the parts of the word द्रविणोदाः (*draviṇodāḥ*) has been stated. But who is this deity द्रविणोदाः (*draviṇodāḥ*)? Indra himself is called द्रविणोदाः (*draviṇodāḥ*); for Indra is the one who gives in the highest degree the strength and wealth that the word द्रविण (*draviṇa*) denotes, so Indra alone should be called द्रविणोदाः (*draviṇodāḥ*). This is the opinion of Krauṣṭuki.
+अथाप्यग्निं द्रविणोदसमाहैष पुनरेतस्माज्जायते । यो अश्मनोरंतरग्निं जजान इत्यपि निगमो भवति ॥ (*athāpyagniṃ draviṇodasamāhaiṣa punaretasmājjāyate | yo aśmanoraṃtaragniṃ jajāna ityapi nigamo bhavati ‖*)
+
+### Printed p. 222
+He gives yet another meaning for this word. Indra created heaven and earth, and between them he created Agni as well. Therefore the word द्रविणोदाः (*draviṇodāḥ*) may also be said to mean Agni. To support this meaning he has given as an example the Ṛk अश्मनोरंतरग्निं जजान (*aśmanoraṃtaragniṃ jajāna*).
+अथाप्यतुयाजेषु द्रविणोदसाः प्रवादा भवंति । तेषां पुनः पात्रस्येंद्रपानमिति भवति ॥ अथाप्येनं सोमपानेन स्तौति । अथाप्याह द्रविणोदाः पिबतु द्रविणोदस इति ॥ (*athāpyatuyājeṣu draviṇodasāḥ pravādā bhavaṃti | teṣāṃ punaḥ pātrasyeṃdrapānamiti bhavati ‖ athāpyenaṃ somapānena stauti | athāpyāha draviṇodāḥ pibatu draviṇodasa iti ‖*)
+Because it is said that in the sacrifices offered to the seasons Indra drinks Soma from the vessel in the hands of the priests, and because Indra is praised with mantras relating to the drinking of Soma, there is a custom of calling the priests द्रविणोदस (*draviṇodasa*). All this is the view of Krauṣṭuki.
+अयमेवाग्निर्द्रविणोदा इति शाकपूणिः । आग्नेयेष्टेव हि सूक्तेषु द्रविणोद साः प्रवादा भवंति ॥ देवा अग्निं धारयन्द्रविणोदामित्यपि निगमो भवति ॥ (*ayamevāgnirdraviṇodā iti śākapūṇiḥ | āgneyeṣṭeva hi sūkteṣu draviṇoda sāḥ pravādā bhavaṃti ‖ devā agniṃ dhārayandraviṇodāmityapi nigamo bhavati ‖*)
+It is the opinion of Śākapūṇi that Agni himself is द्रविणोदाः (*draviṇodāḥ*); for in the hymns relating to Agni, when the priests praise Agni, they use the word द्रविणोदाः (*draviṇodāḥ*) as an epithet of Agni.
+यथो एतत्स बलधनयोर्दात्ततम इति सर्वासु देवतास्वैश्वर्यं विद्यते । यथो एतदोजसो जातमुतमन्य एनमिति चाहेत्ययमप्यग्निरोजसा बलेन मध्यमानो जायते तस्मादेनमाह सहसस्पुत्रं सहसः सूनुं सहसो यहुं ॥ (*yatho etatsa baladhanayordāttatama iti sarvāsu devatāsvaiśvaryaṃ vidyate | yatho etadojaso jātamutamanya enamiti cāhetyayamapyagnirojasā balena madhyamāno jāyate tasmādenamāha sahasasputraṃ sahasaḥ sūnuṃ sahaso yahuṃ ‖*)
+Lordship exists in all the deities; therefore Agni too gives strength and wealth, and because he gives strength and wealth Agni may also be called द्रविणोदाः (*draviṇodāḥ*). Moreover, the word द्रविण (*draviṇa*) means strength. When Agni is produced, it is by using strength (by forceful) churning, so there is a tradition that Agni is born of strength. Therefore he is praised with the words सहसस्पुत्रं (*sahasasputraṃ*) (सहसः (*sahasaḥ*) of strength, पुत्रं (*putraṃ*) Agni the son), सहसः सूनुं (*sahasaḥ sūnuṃ*), सहसो यहुं (*sahaso yahuṃ*)—
+द्रव्यः सर्पिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः ॥ (*dravyaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ | sahasasputro adbhutaḥ ‖*)
+(Ṛ. Saṃ. 2 7-6)
+
+### Printed p. 223
+त्वं ह यद्यविष्ठ्य सहसः सूनवाहुत । ऋता वा यज्ञियो भुवः ॥ (*tvaṃ ha yadyaviṣṭhya sahasaḥ sūnavāhuta | ṛtā vā yajñiyo bhuvaḥ ‖*) (Ṛ. Saṃ. 8-75-3)
+अग्ने वाजस्य गोमत ईशानः सहसो यहो । अस्मे धेहि जातवेदो महि श्रवः ॥ (*agne vājasya gomata īśānaḥ sahaso yaho | asme dhehi jātavedo mahi śravaḥ ‖*) (Ṛ. Saṃ. 1-79-4)
+In these Ṛks the words सहसस्पुत्र (*sahasasputra*), सहसः सूनु (*sahasaḥ sūnu*) and सहसो यहु (*sahaso yahu*) respectively are used in praising Agni. Therefore, although other deities too give strength, it is Agni in particular who is expressed by the word द्रविणोदाः (*draviṇodāḥ*).
+Here let us cite the statements of the Bṛhaddevatā and see to which deity this epithet chiefly belongs and what qualities of that deity are understood from it. The Bṛhaddevatā first gives the explanation of the word अग्नि (*agni*) and then examines why the epithet द्रविणोदाः (*draviṇodāḥ*) is used of Agni.
+जातो यदग्रे भूतानां अग्रणीरध्वरे च यत् । नाम्ना संनयते वांगं स्तुतोग्निरिति सूरिभिः ॥ (*jāto yadagre bhūtānāṃ agraṇīradhvare ca yat | nāmnā saṃnayate vāṃgaṃ stutogniriti sūribhiḥ ‖*)
+(Bṛ. De. 2-24)
+Because he was born first of all beings, because he is the leader in sacrifices and the like, and because whatever thing he enters he causes to merge in himself, he is praised by the sages as Agni. This explanation agrees with the explanations stated in the Nirukta, अग्रणीर्भवति अग्रं यज्ञेषु प्रणीयते, अंगं नयति सन्नममानः । (*agraṇīrbhavati agraṃ yajñeṣu praṇīyate, aṃgaṃ nayati sannamamānaḥ |*) (Ni. 7-14). After explaining the word अग्नि (*agni*), it gives the explanation of the word द्रविणोदाः (*draviṇodāḥ*)—
+द्रविणं धनं बलं वापि प्रायच्छद्येन कर्मणा । तत्कर्म दृष्ट्वा कुत्सस्तु प्राहैनं द्रविणोदसं ॥ (*draviṇaṃ dhanaṃ balaṃ vāpi prāyacchadyena karmaṇā | tatkarma dṛṣṭvā kutsastu prāhainaṃ draviṇodasaṃ ‖*)
+(Bṛ. De. 2-25)
+Having observed the deeds of Agni, who gives wealth and strength so generously, the seer Kutsa praised Agni as द्रविणोदाः (*draviṇodāḥ*), the giver of wealth (**NOTE**) or of strength.
+द्रविणोदा द्रविणसस्तुरस्य द्रविणोदाः सनरस्य प्र यंसत् । द्रविणोदा वीरवतीमिषं नो द्रविणोदा रासते दीर्घमायुः ॥ (*draviṇodā draviṇasasturasya draviṇodāḥ sanarasya pra yaṃsat | draviṇodā vīravatīmiṣaṃ no draviṇodā rāsate dīrghamāyuḥ ‖*)
+(Ṛ. Saṃ. 1-96-8)
+
+### Printed p. 224
+Having indicated Kutsa's praise of Agni in this Ṛk, it then confirms that this statement concerns Agni as deity and is not directed to other deities.
+अयं हि द्रविणोदोऽग्निरयं दाता बलस्य हि । जायते च बलेनायं मध्यकृत्यृषिभिरध्वरे ॥ द्रविणोदोऽग्निरेवायं द्रविणोदास्तदोच्यते । आग्नेयेष्टेव दृश्यंते प्रवादा द्रविणोदसः ॥ (*ayaṃ hi draviṇodo 'gnirayaṃ dātā balasya hi | jāyate ca balenāyaṃ madhyakṛtyṛṣibhiradhvare ‖ draviṇodo 'gnirevāyaṃ draviṇodāstadocyate | āgneyeṣṭeva dṛśyaṃte pravādā draviṇodasaḥ ‖*)
+(Bṛ. De. 3-61; 3-65 **NOTE**)
+Because he is the giver of wealth, the giver of strength, and born of strength, the praise द्रविणोदाः (*draviṇodāḥ*) is fitting for Agni. Therefore the authors of the Bṛhaddevatā have established that this epithet belongs to Agni as deity.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दे॒वाना॒मपि॒ पंथा॑मगन्म॒ यच्छ॒क्तवा॑म॒ तदनु॒ प्रवो॑ळ्हुं।  
+> अ॒ग्निर्वि॒दान्तन्य य॑जा॒त्सेदु॒ होता॒ सो अ॑ध्व॒रान्तन्य  
+> ऋ॒तून्क॑ल्पयाति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । देवानां । अपि । पंथां । अगन्म । यत् । शक्नवाम । तत् । अनु । प्रवोळ्हुं ।  
+> अग्निः । विद्वान् । सः । यजात् । सः । इत् । ऊं इति । होता । सः । अध्वरान् । सः ।  
+> ऋतून् । कल्पयाति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शपूर्णमासातिपत्याद्य निमित्ते पाथिकृतीष्टिः कर्तव्या । तत्रा देवानामित्येषा याज्या । सूत्रितं च । वेत्था हि वेधो अध्वन आ देवानामपि पंथामगन्म ।
+> आ. ३.१०! इति ॥ प्रायणीयायामप्येषैव याज्योदयनीयायां सैवानुवाक्या!
+> सूत्रितं च । अग्ने नय सुपथा राये अस्माना देवानामपि पंथामगन्म । आ. ४-३।
+> इति । विपरीताश्च याज्यानुवाक्या इति ॥
+> देवानां देवलोकादिगमनसाधनं देवानां स्वभूतं पंथां पंथानं
+> तमपि वैदिकमार्गं वयमागन्न । आगतवंतो भवेम । येन देवान्प्राप्नुमः '
+
+##### Gist of the bhāṣya
+
+When there is a lapse such as the overstepping of the Darśapūrṇamāsa, the Pathikṛt offering (iṣṭi) is to be performed. In it the Ṛk beginning देवानामित्येषा (*devānāmityeṣā*) is the yājyā. It is stated in the sūtra: वेत्था हि वेधो अध्वन (*vetthā hi vedho adhvana*) ... आ देवानामपि पंथामगन्म (*ā devānāmapi paṃthāmaganma*) (Ā. 3.10). In the Prāyaṇīyā too this same Ṛk is the yājyā; in the Udayanīyā it is the anuvākyā. It is stated in the sūtra: अग्ने नय सुपथा राये अस्मान (*agne naya supathā rāye asmāna*) ... आ देवानामपि पंथामगन्म (*ā devānāmapi paṃthāmaganma*) (Ā. 4-3); and the yājyā and anuvākyā are reversed (विपरीताश्च याज्यानुवाक्या इति (*viparītāśca yājyānuvākyā iti*)). The path of the gods is the means of going to the world of the gods and the like, the path that belongs to the gods; may we come to that Vedic way, by which we reach the gods.
+
+> तथा वयं यत्कर्मानुष्ठातुं शक्नवाम शक्नुमः समर्था भवामः तत्कर्मानुक्रमेण प्रवोळ्हुं प्रकर्षेण वोढुं समाप्तिं प्रापयितुं समर्था भवेम! अनंतरं
+> विद्वांस्तं पंथानं जानानः सोऽग्निर्यजात् । देवान्यजतु । सेदु स एव खलु
+> होता मनुष्याणां होमनिष्पादकः । ततः स एवाग्निरध्वरान्यज्ञान् किंचर्तून्
+> कालान्कल्पयाति । कल्पयतु । करोतु ॥
+
+##### Gist of the bhāṣya
+
+In the same way, may we be able to carry through to completion, in due sequence, whatever rite we are able to perform. Thereafter let that Agni, knowing the path, worship; let him worship the gods. He indeed is the Hotṛ of men, the accomplisher of the homa. Therefore that same Agni arranges the sacrifices and also the seasons, the times; let him arrange them, let him do so.
+
+### Printed p. 225
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of the gods
+- पंथां अपि (*paṃthāṃ api*)—the excellent paths
+- आ अगन्म (*ā aganma*)—let us follow
+- यत् (*yat*)—whatever rite
+- शक्नवामु (*śaknavāmu*)—we are able to perform
+- तत्अनु (*tatanu*)—that rite
+- प्र वोळ्हुं (*pra voḷhuṃ*)—let us be able to carry out well
+- विद्वान् (*vidvān*)—knowing the good path
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- यजात् (*yajāt*)—let him worship the gods
+- सः इत् (*saḥ it*)—that same Agni
+- होता (*hotā*)—the accomplisher of men's sacrifice
+- सः (*saḥ*)—that same Agni
+- अध्वरान् (*adhvarān*)—the sacrifices
+- ऋतून् (*ṛtūn*)—the times of sacrifice
+- कल्पयाति (*kalpayāti*)—let him regulate
+
+##### भावार्थ (Bhāvārtha)
+
+Let us follow the excellent paths of the gods. Whatever rite we are able to perform, let us be able to carry that rite out well. That same Agni, who knows the good path, is the accomplisher of men's sacrifice. Let that same Agni regulate the sacrifices and the times of sacrifice.
+
+##### English translation
+May we pursue the path that leads to the gods to convey that (worship) which we may be able (to offer). May that wise Agni minister ; for He verily is the ministrant priest, and let him prescribe the ceremonies and the seasons.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Darśapūrṇamāsa sacrifices the Pathikṛt iṣṭi is to be performed. Then this Ṛk beginning आ देवानां (*ā devānāṃ*) is to be recited as the yājyā mantra; this is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, वेत्था हि वेधो अध्वन आ देवानामपि पंथामगन्म (*vetthā hi vedho adhvana ā devānāmapi paṃthāmaganma*) (Ā. 3 10). And in the Prāyaṇīyeṣṭi, in the homa made to Agni, this same Ṛk is to be recited as the yājyā mantra, and in the Udayanīyeṣṭi as the anuvākyā mantra; this is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, अग्ने नय सुपथा राये अस्माना देवानामपि पंथामगन्म (*agne naya supathā rāye asmānā devānāmapi paṃthāmaganma*) (Ā. 4-3).
+
 ---
 
-**Progress note:** Done through printed p. 219. pp. 214-219 (batch API)
+**Progress note:** Done through printed p. 225. pp. 220-225 (batch API)
