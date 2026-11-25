@@ -26564,6 +26564,120 @@ Besides, the word गौः (*gauḥ*), formed from that same root गाज् 
 (3) अथाप्यस्यां ताद्वितेन कृत्सवन्निगमा भवंति । गोभिः श्रीणीत मत्सरं इति पयसः । मत्सरः सोमो मंदतेस्तृप्तिकर्मणः । मत्सर इति लोभनामाभिमत्त एनेन धनं भवति । पयः पिबतेर्वा । क्षीरं क्षरतेः । घसेर्वेरो नामकरण उशीरमिति यथा ॥ (*athāpyasyāṃ tādvitena kṛtsavannigamā bhavaṃti | gobhiḥ śrīṇīta matsaraṃ iti payasaḥ | matsaraḥ somo maṃdatestṛptikarmaṇaḥ | matsara iti lobhanāmābhimatta enena dhanaṃ bhavati | payaḥ pibatervā | kṣīraṃ kṣarateḥ | ghaservero nāmakaraṇa uśīramiti yathā ‖*)
 In the above sense of paśu, substances such as milk produced from the beast are denoted by the word गो (*go*). For instance, in the Vedic sentence गोभिः श्रीणीत मत्सरं (*gobhiḥ śrīṇīta matsaraṃ*) the meaning is "mix the Soma juice with milk, which is a product of the cow". गोभिः (*gobhiḥ*) means products of the cow, that is, substances produced from the cow such as milk and curds. मत्सरं (*matsaraṃ*) means Soma. From the root मंद् (*maṃd*), meaning "give satisfaction by drinking", the word मत्सरः (*matsaraḥ*) is formed and denotes the Soma juice. For the word मत्सर (*matsara*), greed, desire
 
+### Printed p. 746
+(The sentence from the previous page continues.) The word matsara also means greed and desire. When it is taken in that sense, this word may also mean wealth. The word payaḥ, "milk," may be derived either from the root पा (*pā*) (pibati), meaning "to drink," or from the root प्र्यायति (*pryāyati*), meaning "to increase, to thrive." The word kṣīra also means milk. This word kṣīra is explained thus: for the root आद भक्षणे (*āda bhakṣaṇe*) the substitute घस (*ghasa*) is made, which yields the root kṣar, "to flow, to stream," and from that root kṣar the word kṣīra is formed. Because it is of a flowing nature, it means milk. The affix ईर (*īra*) is added to the root kṣar and the word kṣīra results. As the affix ईर (*īra*) is added to the root वश कांतौ (*vaśa kāṃtau*) and the word uśīra results, the example of the word uśīra is given.
+
+1. (4) अंशुं दुहंतो अध्यासते गवि इत्यधिषवणचर्मणः । अंशुः शमष्टमात्रो भवति । अननाय शंभवतीति ना । चर्म चरतेवोच्चृतं भवतीति वा ॥ (*aṃśuṃ duhaṃto adhyāsate gavi ityadhiṣavaṇacarmaṇaḥ | aṃśuḥ śamaṣṭamātro bhavati | ananāya śaṃbhavatīti nā | carma caratevoccṛtaṃ bhavatīti vā ‖*) (Ni. 6-5)
+
+The sentence "aṃśuṃ duhanto adhyāsate gavi" means: while pressing out the soma juice they sit upon the cowhide. The word gavi in this sentence means "on a cowhide." Aṃśu is soma, because as soon as the soma juice enters, that is, pervades, the body, it produces happiness or delight. Or, because it is the cause of the happy life of living beings, soma is called aṃśu. The word carma is derived from the root carati; it is like a covering for the bodies of living beings, or, because it is cut off, that is, taken off separated from the body, it is called carma.
+
+(5) अथापि चर्म च श्लेष्मा च । गोभिः सन्नद्धो असि वीळयस्व इति रथस्तुत् ॥ (*athāpi carma ca śleṣmā ca | gobhiḥ sannaddho asi vīḷayasva iti rathastut ‖*)
+
+The word gauḥ also means hide (covering) and phlegm (glue). The sentence praising a chariot, "गोभिः सन्नद्धो असि वीळयस्व (*gobhiḥ sannaddho asi vīḷayasva*)" means: O chariot, you are covered with cowhide and stuck together. The word gobhiḥ in this sentence means "by cowhides." When a chariot is built, cowhide is stretched over it as a covering and fastened with a kind of glue (śleṣma). This is what is described in this sentence in praise of the chariot.
+
+(6) अथापि स्नाव च श्लेष्मा च । गोभिः सन्नद्धा पतति प्रसूत इतीषुस्तुत् ॥ (*athāpi snāva ca śleṣmā ca | gobhiḥ sannaddhā patati prasūta itīṣustut ‖*) (Ni. 6-5)
+
+### Printed p. 747
+The word go also means sinew and glue. The sentence "गोभिः सन्नद्धा पतति प्रसूत (*gobhiḥ sannaddhā patati prasūta*)" praises the arrow. When arrows are made, the feathers of birds are bound to them with sinews (thread-like nerves), stuck with glue, and so prepared. This is what the sentence describes.
+
+(7) ज्यापि गौरुच्यते गव्याचेत्ताद्धितमथ चेन्न गव्यागमयतीपूनिति । (*jyāpi gaurucyate gavyācettāddhitamatha cenna gavyāgamayatīpūniti |*)
+
+The bowstring (the cord that joins and ties the two ends of the bow) is also called gauḥ, because this string is made from cow sinew. The word gavyā is only a variant form of the word go. Because arrows go forth from it (the string), the string is called gauḥ. To explain this meaning, the Ṛk under discussion is taken as the example:
+
+(8) वृक्षेवृक्षे नियतामिामयद्गौस्ततो वयः प्रपतान्पुरुषादः । वृक्षेवृक्षे धनुषि धनुषि । वृक्षो व्रश्चनात् । वृत्वा क्षां तिष्ठतीति वा । क्षा क्षियतेर्निवासकर्मणः । नियतामिामयद्गौ शब्दं करोति । मीमयतिः शब्दकर्मा । ततो वयः प्रपतंति पुरुषानदनाय । विरिति शकुनिनाम । वेतेर्गतिकर्मणः । अथापीषुनामेह भवत्येतस्मादेव ॥ ( (*vṛkṣevṛkṣe niyatāmiāmayadgaustato vayaḥ prapatānpuruṣādaḥ | vṛkṣevṛkṣe dhanuṣi dhanuṣi | vṛkṣo vraścanāt | vṛtvā kṣāṃ tiṣṭhatīti vā | kṣā kṣiyaternivāsakarmaṇaḥ | niyatāmiāmayadgau śabdaṃ karoti | mīmayatiḥ śabdakarmā | tato vayaḥ prapataṃti puruṣānadanāya | viriti śakunināma | vetergatikarmaṇaḥ | athāpīṣunāmeha bhavatyetasmādeva ‖ (*) (Ni. 2-6)
+
+Because bows are made from vṛkṣas (trees), the word vṛkṣa is used in *vṛkṣe-vṛkṣe* to indicate the meaning "bow." When Indra fights his enemies he assumes many forms and holds many bows with many arms. Therefore it is said here: on each bow held in each of his many arms. The string on each bow makes a twanging sound. The arrows shot from that string devour (strike the bodies of) the lives of the enemy men and destroy them. Because the arrows are fitted with birds' feathers, the word vayaḥ, meaning "bird," is used here to indicate the arrow. Many arrows, fitted with birds' feathers and shot from the string of each bow, strike the enemies and destroy them. The word vṛkṣa is derived from the root व्रश्च (*vraśca*), meaning "to cut," because it is cut for firewood and for making other wooden things; hence it is called vṛkṣa. Or else, vṛ means "to pervade, to split"; kṣā means earth; this tree splits the earth and pervades it everywhere with its roots, so it is called vṛkṣa. The word kṣā, "earth," is derived from the root क्षि-निवासगत्योः (*kṣi-nivāsagatyoḥ*), meaning "to dwell"; because people dwell upon it (the earth), the earth is called kṣā. The sentence "niyatām īmayad gau"
+
+### Printed p. 748
+means: it makes a loud twanging sound. When the arrow is set on the string and drawn and released, it makes a twanging sound. The root मीम् (*mīm*) means "to make a sound." Thereafter, that is, after the string has sounded, birds, that is, arrows fitted with birds' feathers, go forth from it to devour (destroy) the enemies. The word vi, "bird," is derived from the root vi meaning "to go, to move about." In this very sense the word also means "arrow."
+
+1. (9) आदित्योऽपि गौरुच्यते । उतादः परुषे गवि । पर्ववति भास्वतीत्यौपमन्यवः । ग (*ādityo 'pi gaurucyate | utādaḥ paruṣe gavi | parvavati bhāsvatītyaupamanyavaḥ | ga*)
+
+The word gauḥ also means Āditya. In the Vedic sentence "उतादः परुषे गवि (*utādaḥ paruṣe gavi*)" the word gavi means "in Āditya." The opinion of the teacher Aupamanyava is that he shines in the midst of clustered rays, that is, in the halo.
+
+(10) अथाप्यस्यको रश्मिश्चंद्रमसं प्रति दीप्यते तदेतेनोपेक्षितव्यं । आदित्यतोऽस्य दीप्तिर्भवतीति । सुषुम्ना: सूर्यरश्मिश्चंद्रमा गंधर्वः इत्यपि निगमो भवति ॥ (*athāpyasyako raśmiścaṃdramasaṃ prati dīpyate tadetenopekṣitavyaṃ | ādityato 'sya dīptirbhavatīti | suṣumnā: sūryaraśmiścaṃdramā gaṃdharvaḥ ityapi nigamo bhavati ‖*) (Ni. 2-7)
+
+One ray of the sun makes the moon shine. That the moon shines by the sun's ray is established by the Vedic sentence "suṣumnaḥ sūryaraśmiś candramā gandharvaḥ." Suṣumna is a particular ray of the sun; the moon receives it and shines by it; such is the sense of the Vedic sentence.
+
+(11) सोऽपि गौरुच्यते । अत्राह गोरमन्वत इति । तदुपरिष्टात् व्याख्यास्यामः । (*so 'pi gaurucyate | atrāha goramanvata iti | tadupariṣṭāt vyākhyāsyāmaḥ |*)
+
+That ray called Suṣumna is also called gauḥ. On this point there is the Vedic sentence "अत्राह गोरमन्वत (*atrāha goramanvata*)" We shall explain this later.
+
+(12) सर्वॆऽपि रश्मयो गाव उच्यंते । ता वां वास्तून्युश्यसि गमध्यै यत्र गावो भूरिशृंगा आयासः । अत्राह तदुरुगायस्य वृष्णः परमं पदमवभाति भूरि॥तानि वां वास्तूनि कामयामहे गमनाय यत्र गावो बहुशृंगाः । भूरीति बहुनो नामधेयं प्रभवतीति सतः । शृंगं श्रयतेर्वा शृणातेर्वा शरणायोद्धतमिति वा शिरसो निर्गतमिति वा । अयासोऽयनाः । तत्र तदुरुगायस्य विष्णोर्महागतेः परमं पदं परार्ध्यस्थमवभाति भूरि । पादः पद्यतेः । स्तन्निधानात्पदं । पशुपादप्रकृतिः प्रभागपादः । प्रभागपादसामान्यादितराणि पदानि ॥ ( (*sarvè 'pi raśmayo gāva ucyaṃte | tā vāṃ vāstūnyuśyasi gamadhyai yatra gāvo bhūriśṛṃgā āyāsaḥ | atrāha tadurugāyasya vṛṣṇaḥ paramaṃ padamavabhāti bhūri‖tāni vāṃ vāstūni kāmayāmahe gamanāya yatra gāvo bahuśṛṃgāḥ | bhūrīti bahuno nāmadheyaṃ prabhavatīti sataḥ | śṛṃgaṃ śrayatervā śṛṇātervā śaraṇāyoddhatamiti vā śiraso nirgatamiti vā | ayāso 'yanāḥ | tatra tadurugāyasya viṣṇormahāgateḥ paramaṃ padaṃ parārdhyasthamavabhāti bhūri | pādaḥ padyateḥ | stannidhānātpadaṃ | paśupādaprakṛtiḥ prabhāgapādaḥ | prabhāgapādasāmānyāditarāṇi padāni ‖ (*) (Ni. 9-7)
+
+### Printed p. 749
+Moreover, all other kinds of rays are also designated by the word gāvaḥ. As an example in this matter we shall also explain the following Ṛk: "We desire to reach that celestial abode, Viṣṇu's highest step, where many swiftly moving rays shine." Bhūri means "much." Because it produces much, the word bhūri means "many, abundant." The word śṛṅga may be derived from the root श्री (*śrī*), meaning "to resort to" (because it rests upon the head where it stands), or from the root शृ (*śṛ*), meaning "to kill," or from the root शम् (*śam*), meaning "to destroy." The meaning "horn" is established for the word śṛṅga either because with this horn the animal protects itself, or because it projects from the head. Ayāsaḥ means those whose nature is to move constantly, not resting for a moment in one place. This place called Viṣṇu's highest step is famed as a most splendid, supreme place of great motion. The word pāda is derived from the root पद् (*pad*), meaning "to go." From the same the word pada, "step, the placing of the foot," is also derived. Pāda means foot; pada means step, the placing of the foot. Since animals have four feet, we use the word pāda when we indicate one part of four. Hence it is customary, in ordinary usage, to use the word pāda also when indicating a fourth part or any part at all.
+
+एवमन्येषापि सत्त्वानां संदेहा विद्यंते तानि चेत् समानकर्माणि समाननिर्वचनानि नानाकर्माणि चेन्नाना निर्वचनानि यथार्थं निर्वक्तव्यानीति ॥ (*evamanyeṣāpi sattvānāṃ saṃdehā vidyaṃte tāni cet samānakarmāṇi samānanirvacanāni nānākarmāṇi cennānā nirvacanāni yathārthaṃ nirvaktavyānīti ‖*) (Ni. 2-7)
+
+In the same way, doubts may arise about the meaning of many other words. In such a case the general rule is: if words have one and the same meaning, their formation and explanation must be given in one and the same way; but if the words have various meanings, then the formation, explanation and exposition must be given according to the respective meanings.
+
+### Printed p. 750
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वानां॒ माने॑ प्रथ॒मा अ॑तिष्ठन्॒तत्रा॑देषा॒मुप॑रा॒  ॑
+> उदायन् ।  
+> त्रय॑स्तपंति पृथि॒वीम॑नू॒पा द्वा बृबू॑कं वहतः॒ पुरी॑षं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवानां । माने । प्रथमाः । अतिष्ठन् । कृंतत्रात् । एषां । उपराः । उत् ।  
+> आयन् ।  
+> त्रयः । तपंति । पृथिवीं । अनूपाः । द्वा । बृबूकं । वहतः । पुरीषं ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां सर्वॆषां माने निर्माणे । सृष्टिकाल इत्यर्थः । जगत्स्थितिहेतुभूतरसानुप्रदानकर्मणि स्रष्टव्यत्वेन प्रथमा अतिष्ठन् । इंद्रादेशादेते पूर्वे
+> स्थिताः । क एते । मेघाः । कुत एतदवगम्यते । परस्मिन्नादे तेषामनुकथनात् ।
+> उक्तं हि । मेघा एव माध्यमिका देवगणा इति । नि-२-२२ । एषामेवंभूतानां
+> मेघानां कृंतत्राच्छेदनादुपराः । मेघनामैतत् । तत्रस्था अप उच्यंते ।
+> मेघस्था अप उदायन् । उत्पन्नाः । वृष्टिभावेन भूम् निपातिता इत्यर्थः ।
+> पातितास्वप्सिंद्रस्याज्ञया पर्जन्यो वायुरादित्य इत्येते त्रयो देवाः पृथिवीं
+> भूमिं । तत्रस्था ओषधीरित्यर्थः । तपंति । वृष्टिशीतोष्णैः संतापयंति । पावयंतीत्यर्थः । कीदृशाः । अनूपा वर्षादीनामानुपूर्व्यण वप्तारः प्रभावयितारः ।
+> प्रक्षेप्तार इत्यर्थः । द्वा द्वौ वाय्वादित्यौ पाचितास्वेषधीषु स्थितं पुरीषं सर्वस्य
+> प्रीणयित्तृ वा बृबूकमुदकमादित्यमंडलं प्रति वहतः । वायुः शोषयन्
+> आदित्यो रश्मिभिराददान इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the making (creation) of all the gods, the clouds stood first: that is, at the time of creation. In the act of giving out the moisture that is the cause of the world's maintenance, they stood first as what was to be created. They stood earlier than Indra's command. Who are these? The clouds. How is this known? Because they are mentioned afterwards in a later place. For it is said (Ni. 2-22): "The clouds themselves are the gods of the middle region." Of these clouds, upon their cutting (kṛntatra), come the upara; upara is a name of cloud; here it denotes the waters standing in them. The waters in the clouds rose up, that is, were made to fall to earth as rain. When the waters have been made to fall, by Indra's command the three gods Parjanya, Vāyu and Āditya warm the earth, that is, the plants on it, with rain, cold and heat; that is, they ripen them. Of what kind are they? Anūpāḥ: sowers or producers in due order of the rains and the rest, that is, throwers (of seed). The two, Vāyu and Āditya, carry the water (bṛbūka) that stands in the ripened plants and gives delight to all, towards the sphere of the sun: Vāyu drying it up, Āditya drawing it in with his rays.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of all the gods
+- माने (*māne*)—at the time of creation
+- प्रथमा (*prathamā*)—first
+- अतिष्ठन् (*atiṣṭhan*)—the clouds were created
+- एषां (*eṣāṃ*)—of these clouds
+- कृंतत्रात् (*kṛṃtatrāt*)—from the cutting
+- उपराः (*uparāḥ*)—the rain-waters
+- उदायॆन् (*udāyèn*)—came forth
+- त्रयः (*trayaḥ*)—these three gods, Parjanya, Vāyu and Āditya
+
+### Printed p. 751
+- अनूपाः (*anūpāḥ*)—sowing the seed in due order
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- तपंति (*tapaṃti*)—purify
+- द्वा (*dvā*)—of them, Vāyu and Parjanya
+- पुरीषं (*purīṣaṃ*)—satisfying
+- बृबूकं (*bṛbūkaṃ*)—water
+- वहतः (*vahataḥ*)—carry to the sphere of the sun
+
+##### भावार्थ (Bhāvārtha)
+
+At the creation of the gods, the clouds stood first. From the splitting of these clouds the rain-waters came forth. The three gods Parjanya, Vāyu and Āditya, sowing the seed in due order, purify the earth. Of them, Vāyu and Parjanya carry the satisfying water to the sphere of the sun.
+
+##### English translation
+At the creation of the gods, the (clouds) stood first; from their division, the waters (of the rain) came forth : the three divinities (Parjanya Vayu and Aditya), sowing in succession, warm the earth: two of them (Vayu and Aditya) convey all-delighting water (to the sun's sphere).
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the explanation (nirvacana) of this Ṛk: देवानां निर्माणे प्रथमा अतिष्ठन्माध्यमिका देवगणाः । प्रथम इति मुख्यनाम प्रतमो भवति । कृंतत्रमंतरिक्षं विकर्तनं मेघानां विकर्तनेन मेघानामुदकं जायते- त्रयस्तपंति पृथिवीमनूपाः । पर्जन्यो वायुरादित्यः शीतोष्णवर्षैरोषधीः पाचयंति अनूपा अनुवपंति लोकान् स्वेन स्वेन कर्मणा ! अयमीतरोऽनूप एकस्मादेवानूप्यत उदकेन । अपि वान्वाबिति स्याद्यथा प्रागिति । तस्यानूप इति स्याद्यथा प्राचीनमिति । द्वा बृबूकं वहतः पुरीषं वाय्वादित्या उदकं । बृबूकमित्युदकनाम ब्रवीतेर्वा शब्दकर्मणो भ्रंशतेर्वा । पुरीषं पृणातेः पूरयतेर्वा ॥ (*devānāṃ nirmāṇe prathamā atiṣṭhanmādhyamikā devagaṇāḥ | prathama iti mukhyanāma pratamo bhavati | kṛṃtatramaṃtarikṣaṃ vikartanaṃ meghānāṃ vikartanena meghānāmudakaṃ jāyate- trayastapaṃti pṛthivīmanūpāḥ | parjanyo vāyurādityaḥ śītoṣṇavarṣairoṣadhīḥ pācayaṃti anūpā anuvapaṃti lokān svena svena karmaṇā ! ayamītaro 'nūpa ekasmādevānūpyata udakena | api vānvābiti syādyathā prāgiti | tasyānūpa iti syādyathā prācīnamiti | dvā bṛbūkaṃ vahataḥ purīṣaṃ vāyvādityā udakaṃ | bṛbūkamityudakanāma bravītervā śabdakarmaṇo bhraṃśatervā | purīṣaṃ pṛṇāteḥ pūrayatervā ‖*) (Ni. 2-22)
+
+When the gods were created by Prajāpati, the gods of the middle region (the atmosphere), the clouds, obtained the chief place; that is, among all the gods they obtained pre-eminence. Here the word prathama means "chief." By the splitting of the clouds in the atmosphere the clouds pour rain in the form of water. The three gods Parjanya, Vāyu and Āditya together make the plants and herbs and the rest grow
+
 ---
 
-**Progress note:** Done through printed p. 745. pp. 740-745 (batch API)
+**Progress note:** Done through printed p. 751. pp. 746-751 (batch API)
