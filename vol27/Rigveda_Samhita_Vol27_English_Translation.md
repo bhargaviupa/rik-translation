@@ -9720,6 +9720,207 @@ Of him, bright blazing and hastening (toward the gods), the fierce-burning flame
 ददृशानपवेः (*dadṛśānapaveḥ*)—दर्शनीयज्वालाग्नेः (*darśanīyajvālāgneḥ*). The flames of Agni are bright so as to be seen by all. The meaning is: Agni, who is possessed of such flames. Or else पनिर्वज्र आयुधं दृश्यमानायुधस्य (*panirvajra āyudhaṃ dṛśyamānāyudhasya*) **NOTE**. Pavi means the thunderbolt weapon, or a weapon. Here Agni's weapon is his flames, which are seen by all. In sum, the intent of the two meanings is the same.
 नियुद्भिः स्वनयन् (*niyudbhiḥ svanayan*)—Niyut means the horse of Vāyu. The meaning is: making a noise together with the wind accompanied by horses, that is, the wind blowing swiftly. The intention is that the more the wind blows, the more Agni burns.
 
+### Printed p. 246
+#### Ṛk 3 (continuing)
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स आ व॑क्षि॒ महि॑ न॒ आ च॑ सत्सि दि॒वस्पृ॑थि॒व्योर॑र॒तियु॑र्व॒त्योः ।  
+> अ॒ग्निः सु॒तुकः॑ सु॒तुके॑भि॒रश्चै॒ रभ॑स्वद्भि॒ रभ॑स्वा॒ एह ग॑म्याः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । आ । वक्षि । महि । नः । आ । च । सत्सि । दिवःपृथिव्योः । अरतिः । युवत्योः ॥  
+> अग्निः । सुतुकः । सुतुकेभिः । अश्वैः । रभस्वत् 5भिः । रभस्वान् । आ । इह । गम्याः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स तादृशस्त्वं नोऽस्मदीये यज्ञे महि महान् देवाना वक्षि ।
+> आवह । प्रापय । किंच युवत्योः परस्परं मिश्रितयोस्तरुण्योर्वा दिवस्पृथिव्योर्दावापृथिव्योर्मध्यॆऽरतिरग्निः सूर्यात्मना गंता त्वमा सप्सि! अस्माकं यज्ञमासीद । तथा सुतुकः । तुकिगर्त्यर्थः । सुगमः स्तोतृभिर्यष्टृभिश्च सुखेन
+> प्राप्तव्यू रभस्वान्वेगवानग्निरंगनादिगुणयुक्तस्त्वं सुतुकेभिः सुगमै रभस्वद्धिर्वेगवद्भिरश्वै रोहिदाख्यैः सहेहास्मदीये यज्ञ आ गम्याः । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being such, bring the great gods to our sacrifice, make them reach it. Further, you who move as the sun between the two young, mutually mingled heaven and earth (or, "the two youthful ones"), come and sit at our sacrifice. Likewise सुतुकः (*sutukaḥ*) (the root तुकि (*tuki*) has the sense of going) means "easy to approach", easily reached by singers and sacrificers. You, Agni, the swift one, endowed with qualities such as limbs, come to our sacrifice with your easy-going, swift horses called Rohits.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—you, the famous one (O Agni)
+- नः (*naḥ*)—to our sacrifice
+- महि (*mahi*)—the great gods
+- आ वक्षि (*ā vakṣi*)—bring
+- युवत्योः (*yuvatyoḥ*)—of the two that are mingled with each other
+- दिवस्पृथिव्योः (*divaspṛthivyoḥ*)—in heaven and earth everywhere
+- अरतिः (*aratiḥ*)—you who move about in the form of the sun
+- आ सत्सि (*ā satsi*)—come to our sacrifice
+- सुतुकः (*sutukaḥ*)—worthy of easy approach
+- रभस्वान् (*rabhasvān*)—swift
+- अग्निः (*agniḥ*)—Agni
+- सुतुकेभी (*sutukebhī*)—having excellent gait
+- रभस्वद्भिः (*rabhasvadbhiḥ*)—swift
+- अश्वैः (*aśvaiḥ*)—together with horses
+- इह (*iha*)—to our sacrifice
+- आ गम्याः (*ā gamyāḥ*)—may he come
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you, the famous one, bring the great gods to our sacrifice. You who move as the sun in all the mutually joined heaven and earth, come to our sacrifice. May Agni, who is easy of approach and swift, come to our sacrifice with horses of excellent gait and swiftness.
+
+### Printed p. 247
+
+##### English translation
+Great Agni, bring the gods to our ( sacrifice ). The messenger of the young heaven and earth, sit down ( at our sacrifice ). Agni, who are easily found, who are rapid in movement come with your docile and rapid steeds (to our rite).
+
+##### विशेषविषयगळु (Special Topics)
+
+युवत्योः दिवस्पृथिव्योः (*yuvatyoḥ divaspṛthivyoḥ*)—"in the middle of the mutually mingled, or the two young, heaven and earth": between heaven and earth, which seem joined to one another. Since the earth is below and the heaven-world above, they are as if related to each other. Between them Agni, in the form of the sun, is described as moving. The explanation of युवत्योः (*yuvatyoḥ*) as "of the two young ones" (तरुण्योर्वा (*taruṇyorvā*)) does not seem very suitable.
+
+सुतुकेभिः रभस्वद्भिः अश्वैः (*sutukebhiḥ rabhasvadbhiḥ aśvaiḥ*)—the meaning is: accompanied by the horses called Rohit, which have excellent gait or stride and are swift. Yāska, describing the vehicles of various deities, says:
+हरी इंद्रस्य, रोहितोग्नेः! हरित आदित्यस्य । रासभावश्विनोः अजा पूष्णः । पृषत्यो मरुतां । आरुण्यो गाव उषसः । श्यावा सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोरिति दशादिष्टोपयोजनानि ॥ (*harī iṃdrasya, rohitogneḥ! harita ādityasya | rāsabhāvaśvinoḥ ajā pūṣṇaḥ | pṛṣatyo marutāṃ | āruṇyo gāva uṣasaḥ | śyāvā savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoriti daśādiṣṭopayojanāni ‖*) (6-24 **NOTE**)
+That is: the two horses named Hari are Indra's vehicle; the red horse Rohita is Agni's; green horses are the Āditya's; two asses are the Aśvins'; a she-goat is Pūṣan's; spotted deer are the Maruts'; red cows are Uṣas's; reddish horses are Savitṛ's; horses of various colours are Bṛhaspati's; the swift horses called Niyut are Vāyu's. Thus he has described the vehicles of the several deities. In the present Ṛk, it should be understood, the Rohit horses, Agni's vehicles, are meant.
+For the words सुतुकः (*sutukaḥ*) and सुतुकेभिः (*sutukebhiḥ*) in this Ṛk Yāska gives the etymology:
+सुतुकः । अग्निः सुतुकः सुतुकनः सुतुकनैरिति वासुप्रजाः सुप्रजोभिरिति वा ॥ (*sutukaḥ | agniḥ sutukaḥ sutukanaḥ sutukanairiti vāsuprajāḥ suprajobhiriti vā ‖*) (Ni. 4-18)
+
+### Printed p. 248
+That is: सुतुकः (*sutukaḥ*) is the swift Agni. If Agni begins to burn, he very quickly spreads over everything and burns it; hence he has very rapid movement. His horses too are swift; or they are of good breed, that is, good thoroughbreds, famed for running fast. This is the intention of the etymology.
+
+## Sūkta 4 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र त इति सप्तर्चं चतुर्थं सूक्तं । ऋष्याद्याः पूर्ववत् । प्र त इत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+प्र ते (*pra te*) is a hymn of seven Ṛks, the fourth sūkta. Seer and the rest as before. The Anukramaṇī says प्र ते (*pra te*). The use (viniyoga) in the Prātaranuvāka and the Āśvina-śastra has been stated.
+
+##### Anuvāda
+
+This sūkta प्र ते (*pra te*) is the fourth sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre are the same as in the previous sūkta. The Anukramaṇī says प्र ते (*pra te*). It was said earlier that the sūkta is used for the Prātaranuvāka and the Āśvina-śastra mantras.
+
+Sūkta 4; Maṇḍala 10; Anuvāka 1; Aṣṭaka 7; Adhyāya 5; Varga 32. Number of Ṛks in the sūkta: 7. Seer: Trita Āptya. Deity: Agni. Metre: Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॑ यक्षि॒ प्र त॑ इयर्मि॒ मन्म॒ भुवो॒ यथा॒ वंद्यो॑ नो॒  ॑
+> हवेषु ।  
+> धन्व॑न्निन प्र॒पा अ॑सि॒ त्वम॑ग्न इय॒क्षवे॑ पू॒रवे॑ प्रश्न राजन् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । यक्षि । प्र । ते । इयर्मि । मन्म । भुवः । यथा । वंद्यः । नः । हवेषु ॥  
+> धन्वन् इव । प्रपा । असि । त्वं । आग्ने । इयक्षवे । पूरवे । प्रत्य । राजन् ॥ १ ॥
+
+### Printed p. 249
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तुभ्यं हविः प्र यक्षि । प्रयच्छामि । यजिर्वानार्थः । तथा मन
+> मननीयां स्तुतिं ते त्वदर्थं प्रेयर्मि । प्रेरयामि । प्रोच्चारयामि : वंद्यः
+> सर्वैर्वंदनीयस्त्व नोऽस्मदीयेषु हवेषु देवाह्वानेषु यथा त्वं संनिहितो
+> भुवः भवसि तथा हविः प्रयच्छामि स्वामि च । हे प्रश्नॆ पुराण राजन् सर्वस्य जगतः
+> स्वामिन् हे अग्ने स त्वमियक्षवे यष्टु मिच्छते पूरवे पूरुरिति मनुष्यनाम ।
+> मनुष्याय यजमानाय हविर्भिर्देवान्पूरयित्रे जनाय धन्वन्निव प्रपासि ।
+> यथा धन्वन् धन्वनि मरा निरुदकप्रदेशे प्रपा । प्रपिबंत्यत्रेति प्रपा । सा यथोदकप्रदानेन जनेभ्यः सुखदा भवति एवं त्वं धनदानेन तस्मै सुखदाता भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, I offer the oblation to you (the root यजि (*yaji*) is here in the sense of giving), and I send forth, utter, a thoughtful praise for you. You who are worthy of homage by all, as you are present at our invocations of the gods, so I offer the oblation. O ancient king, lord of the whole world, you are to the man पूरवे (*pūrave*) (*pūruḥ* is a word for man), the sacrificer who wishes to sacrifice and fills the gods with oblations, like a प्रपा (*prapā*) in a waterless desert place (प्रपा (*prapā*): where people drink). As it gives happiness to people by giving water, so you give happiness to him by giving wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what way
+- नः (*naḥ*)—our
+- हवेषु (*haveṣu*)—at the time of invocation
+- वंद्य (*vaṃdya*)—you, the venerable
+- भुवः (*bhuvaḥ*)—you are near us; in that manner
+- ते (*te*)—to you
+- प्रयक्षि (*prayakṣi*)—I offer the oblation
+- मन्म (*manma*)—meditative praise
+- ते (*te*)—to you
+- प्र इयर्मि (*pra iyarmi*)—I offer
+- प्रश्नॆ (*praśnè*)—ancient
+- राजन् (*rājan*)—lord
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- इयक्षवे (*iyakṣave*)—to one wishing to sacrifice
+- पूरवे (*pūrave*)—to the sacrificer
+- धन्वन् (प्रप्ना) इव (*dhanvan (prapnā) iva*)—like a spring supplying water in a sandy desert
+- प्रपा असि (*prapā asi*)—you are the fulfiller of desired ends
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as you remain near us at the time when we invite the gods to the sacrifice, so I offer you the oblation and also offer meditative praise. O ancient lord Agni, to the sacrificer who wishes to sacrifice, you are the fulfiller of desired ends, like a spring supplying water in a sandy desert.
+
+##### English translation
+To you, Agni, I present the oblation : to you I repeat praise ; that
+you, who are deserving of laudation, may be present at our invocations :
+ancient sovereign, Agni, you are like a well in a desert, to the man desirous
+of offering sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+धन्वन्निव प्रपा असि—यथा मर्ौ निरुदकप्रदेशे प्रपा प्रपिबंत्यत्रेति प्रपा । सा यथोदकप्रदानेन जनेभ्यः सुखदा भवति एवं त्वं धनदानेन तस्मै सुखदाता (*dhanvanniva prapā asi—yathā marau nirudakapradeśe prapā prapibaṃtyatreti prapā | sā yathodakapradānena janebhyaḥ sukhadā bhavati evaṃ tvaṃ dhanadānena tasmai sukhadātā*)
+
+### Printed p. 250
+भवसि (*bhavasi*). प्रपा (*prapā*) means a reservoir such as a well that is convenient for drinking water. When a man travelling in a waterless desert, exhausted by thirst, finds a reservoir such as a well convenient for drinking, he is satisfied and happy; likewise, O Agni, be to the sacrificing yajamāna one who gives happiness, like a reservoir in the desert. Thus the quality of Agni is described by the illustration of the word प्रपा (*prapā*).
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॒ जना॑सो अ॒भि सं॒चरं॑ति॒ गाव॑ उ॒ष्णमि॑व व्र॒जं य॑विष्य ॥  
+> दू॒तो दे॒वाना॑मसि॒ मर्त्या॑नामं॒तर्म॒हाश्च॑रसि रोच॒नेन॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । त्वा । जनासः । अभि । संचरंति । गावः । उष्णं इव । व्रजं । यविष्ठ ॥  
+> दूतः । देवानां । असि । मर्त्यानां । अंतः । महान् । चरसि । रोचनेन ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ युवतमाग्ने यं त्वा त्वां जनासो जना यजमानाः फलप्राप्त्यर्थमभि संचरंति अभितः परिचरंति सेवंते । तत्र दृष्टांतः । गाव उष्णमिव यथा गानः शीतार्ता उष्णं शीतजनितदुःखापनोदनार्थमुष्णं व्रजं गोष्ठमभि गच्छंति तद्वत् । स त्वं देवानामिंद्रादीनां मर्त्यानां मनुष्याणां च
+> दूतोऽसि हविष्टापणद्वारा । ततो महांस्त्वमंतर्दावापृथिव्योर्मध्यॆ हवींष्यादाय रोचनेनांतरिक्षेण लोकेन चरसि । गच्छसि । तं त्वां स्तुम इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Yaviṣṭha, youngest Agni, the people, the sacrificing yajamānas, go about you on all sides, serve you, for the attainment of fruit. The illustration: as cattle afflicted by cold go to the warm व्रजं (*vrajaṃ*), the cattle-pen, to remove the pain caused by cold. You are the messenger of the gods, Indra and others, and of mortals, by conveying the oblations. Therefore you, the great one, go between heaven and earth, taking the oblations, by the luminous region, the atmosphere. "We praise you" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—O Agni, the exceedingly young
+- गावः (*gāvaḥ*)—cattle (afflicted by cold)
+- उष्णं (*uṣṇaṃ*)—warm
+- व्रजं इव (*vrajaṃ iva*)—like taking shelter in a cattle-pen
+- यं त्वा (*yaṃ tvā*)—you, the famous
+- जनासः (*janāsaḥ*)—the yajamānas
+- अभि संचरंति (*abhi saṃcaraṃti*)—serve all around
+- त्वं (*tvaṃ*)—you
+- देवानां (*devānāṃ*)—of the gods, Indra and others
+- मर्त्यानां (*martyānāṃ*)—of men
+- दूतः असि (*dūtaḥ asi*)—you are the messenger
+- महान् (*mahān*)—you, the great
+- अंतः (*aṃtaḥ*)—between heaven and earth
+- रोचनेन (*rocanena*)—by the luminous world
+- चरसि (*carasi*)—you move
+
+### Printed p. 251
+
+##### भावार्थ (Bhāvārtha)
+
+O exceedingly young Agni, as cattle afflicted by cold take shelter in a warm cattle-pen, so the famous yajamānas serve you on all sides and take refuge in you alone. You are the messenger for gods, men and all. You, the great one, move between heaven and earth by the luminous world.
+
+##### English translation
+Men have recourse to you, Agni, youngest (of the gods), as cattle hasten to the warm stall. You are the messenger of the gods and of the mortals ; mighty, you proceed by the firmament between (heaven and earth).
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska, explaining the word वाहिष्ठः (*vāhiṣṭhaḥ*), gives as example the third pāda of this Ṛk, दूतो देवानामसि मर्त्यानां (*dūto devānāmasi martyānāṃ*). He explains वाहिष्ठः (*vāhiṣṭhaḥ*) as वोदृतमः दूतः (*vodṛtamaḥ dūtaḥ*) (Ni. 5-1). In the sacrifices performed by yajamānas, Agni carries the oblation offered in the fire for the gods to the gods in heaven and delivers it to them; hence he is called the messenger between the yajamānas and the gods. A man who carries a word or other thing from one person to another is called a messenger. Since Agni does that work here, he is described in this Ṛk as messenger. The meaning of the words दूतो देवानामसि मर्त्यानां (*dūto devānāmasi martyānāṃ*) is: the messenger who carries men's oblations and the like to the gods. Further, for the word दूत (*dūta*) Yāska gives the etymology दूतो जवतेर्वा द्रवतेर्वा वारयतेर्वा (*dūto javatervā dravatervā vārayatervā*): the word दूत (*dūta*) may be derived from the root जु (*ju*) "to hasten", or the root द्रु (*dru*) "to run", or the root वृ (*vṛ*) "to return". A messenger goes quickly, running, to the place he is sent to; so the word is derived from the roots mentioned.
+
+गावः उष्णमिव व्रजं (संचरंति) (*gāvaḥ uṣṇamiva vrajaṃ (saṃcaraṃti)*)—In the previous Ṛk Agni was compared to a reservoir in the desert; in this Ṛk to the cattle-pen where cows are tied. As in winter cattle grazing outside, bitten by frost, enter in the evening with joy the warm pens, covered and free from the touch of cold wind, so people serve you, Agni, for happiness. This is the purport of the illustration.
+
 ---
 
-**Progress note:** Done through printed p. 245. pp. 238-245 (batch API)
+**Progress note:** Done through printed p. 251. pp. 246-251 (batch API)
