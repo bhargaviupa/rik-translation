@@ -2539,6 +2539,225 @@ The total meaning of this Ṛk is: O Gaṅgā, Yamunā, Sarasvatī, Śutudri joi
 > तृ॒ष्णाम॑या प्रथ॒मं यात॑ने स॒जूः सु॒सर्ता॑ र॒सया॑ श्वे॒त्वा  
 > त्या
 
+### Printed p. 110
+
+> त्वं सिंधो कुभया गोमतीं क्रुमुं मेहत्वा सरथं
+> याभिरीयसे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तृप्तऽअमया । प्रथमं । यातवे । सजूः । सुसत्वा । रसया । श्वेत्या । त्या ।  
+> त्वं । सिंधो इति । कुभया । गोमतीं । क्रुमुं। मेहत्वा । सरथं । याभिः ।  
+> ईयसे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सिंधो त्वं क्रुमुं क्रमणशीलां गोमतीं नदीं यातवे प्रतियातुं
+> पर्वतादवरूढा प्रथमं तृष्टामया नद्या सजूः संगतासि । पश्चात्सुसर्त्वा रसया
+> श्वेत्या त्या कुभया मेहत्ना च सह सजूर्भव याभिस्तृं सरथं समानं
+> रथमारुह्येयसे । गच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Sindhu, you, descending from the mountain in order to go to meet (यातवे (*yātave*), glossed प्रतियातुं (*pratiyātuṃ*)) the Gomatī river, which is "going" (क्रुमुं (*krumuṃ*), glossed क्रमणशीलां (*kramaṇaśīlāṃ*)), first united (सजूः (*sajūḥ*), glossed संगतासि (*saṃgatāsi*)) with the river Tṛṣṭāmā **NOTE**. Afterwards be united with Susartu, Rasā, Śvetī, त्या (*tyā*), Kubhā and Mehatnu, with which you go mounting one and the same chariot (सरथं (*sarathaṃ*), glossed "the same chariot").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधो (*siṃdho*)—O river Sindhu
+- त्वं (*tvaṃ*)—you
+- क्रुमुं (*krumuṃ*)—flowing
+- गोमतीं (*gomatīṃ*)—with the river Gomatī
+- यातने (*yātane*)—to go and join
+- प्रथमं (*prathamaṃ*)—first
+- तृष्णामया (*tṛṣṇāmayā*)—with the river Tṛṣṇāmā
+- सजूः (*sajūḥ*)—you have joined (and)
+- याभिः (*yābhiḥ*)—with which rivers
+- सरथं (*sarathaṃ*)—mounting the same chariot
+- ईयसे (*īyase*)—you go, such rivers
+- सुसर्त्वा (*susartvā*)—with Susartu
+- रसया (*rasayā*)—with Rasā
+- श्वेत्या (*śvetyā*)—with Śvetā
+- कुभया (*kubhayā*)—with Kubhā
+- त्या (*tyā*)—famous
+- मेहत्वा (*mehatvā*)—with Mehantu, joining, flow
+
+##### भावार्थ (Bhāvārtha)
+
+O river Sindhu, in order to go and join the flowing river Gomatī you have first united with the river Tṛṣṇāmā. And in the same way flow on, joined also with these rivers, Susartu, Rasā, Śvetā, Kubhā and Mehantu, who are fit to sit in the same chariot with you.
+
+##### English translation
+You, Sindhu, in order to reach to swift-moving Gomati, have united yourself first with the Trishtama : (now be united) wfth the Susartu, the Rasa, the Shweti, the Kubha, and the Mehatnu, in conjunction with which streams you advance.
+### Printed p. 111
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the names of the tributaries of the river Sindhu, the rivers Gomatī, Tṛṣṇāmā, Susartu, Rasā, Śvetī, Kubhā and Mehantu, are stated. The name of the river Rasā is indicated in the 108th sūkta of this maṇḍala; we have mentioned it in the introduction to this sūkta. Nothing is known about the other rivers.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋजी॒त्येनी॒ रुश॑ती महि॒त्वा परि॒ ज्रयां॑सि भरते॒ रजां॑सि ।  
+> अद॑ब्धा॒ सिंधु॑र॒पसा॑म॒पस्त॒माश्वा॒ न चि॒त्रा वपु॑षीव दर्श॒ता ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋजीती । एनी । रुशती । महित्वा । परि । ज्रयांसि । चरते । रजांसि ।  
+> अदब्धा । सिंधुः । अपसां । अपर्तमा । अश्वा । न । चित्रा । वपुषी इव । दर्शता ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋजीत्यृजुगामिन्येनी श्वेतवर्णा रुशती दीप्यमाना सिंधुर्ज्रयांसि
+> वेगवंति रजांस्युदकानि परि भरते । प्रभरति । तादृश्यदब्धाहिंसिता सिंधुरपसां
+> कर्मवतीनां मध्येऽपस्तमा वेगाख्यकर्मवती भवति । अश्वा न वडवेव चित्रा
+> चायनीया वपुषी वपुष्मती योषिदिव दर्शता दर्शनीया भवति ॥
+
+##### Gist of the bhāṣya
+
+Ṛjītī is the one who goes straight (one who goes in a straight course), Enī is the white-coloured one, Rusatī is the shining one. The Sindhu carries forward (परि भरते (*pari bharate*), glossed प्रभरति (*prabharati*)) swift (ज्रयांसि (*jrayāṃsi*), glossed वेगवंति (*vegavaṃti*)) waters (रजांसि (*rajāṃsi*), glossed "waters"). Being such, unharmed (अदब्धा (*adabdhā*), glossed हिंसिता (*hiṃsitā*)), the Sindhu is, among the active rivers (अपसां (*apasāṃ*), glossed कर्मवतीनां (*karmavatīnāṃ*)), the most active (अपस्तमा (*apastamā*)), active in the work called speed. Like a mare (अश्वा न (*aśvā na*), glossed वडवेव (*vaḍaveva*)) she is wonderful and fit to be looked at (चित्रा (*citrā*), glossed चायनीया (*cāyanīyā*)); like a woman with a beautiful body (वपुषी (*vapuṣī*), glossed वपुष्मती योषिदिव (*vapuṣmatī yoṣidiva*)) she is beautiful to see (दर्शता (*darśatā*), glossed दर्शनीया (*darśanīyā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीती (*ṛjītī*)—she who has a straight course
+- एनी (*enī*)—she who is white in colour
+- रुशती (*ruśatī*)—she who is shining, the Sindhu
+- महित्वा (*mahitvā*)—by her greatness
+- जयांसि (*jayāṃsi*)—having swift floods
+- रजांसि (*rajāṃsi*)—the waters
+- परि भरते (*pari bharate*)—she bears
+- अदब्धा (*adabdhā*)—unharmed
+- सिंधुः (*siṃdhuḥ*)—the Sindhu
+- अपसां (*apasāṃ*)—among the rivers whose action is that of a flood
+- अपस्तमा (*apastamā*)—she is one whose action is the greatest
+- अश्वा न (*aśvā na*)—like a horse
+- चित्रा (*citrā*)—and attractive
+- वपुषी इव (*vapuṣī iva*)—like a woman who has a beautiful body
+- दर्शता (*darśatā*)—she is also one of beautiful form
+
+##### भावार्थ (Bhāvārtha)
+
+The Sindhu, who goes straight, who is of clear colour and shining, bears by her greatness waters with swift floods. The unharmed Sindhu is, among the rivers whose action is that of a flood,
+### Printed p. 112
+one whose action is the greatest. She is attractive like a mare, and fit to be looked at like a woman with a beautiful body.
+
+##### English translation
+Straight-flowing, white-coloured, bright-shining (Sindhu) bears along in its might the rapid waters; the inviolable Sindhu, the most efficacious, is speckled like a mare, beautiful as a handsome woman.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वश्वा॒ सिंधुः॑ सु॒रथा॑ सु॒वासा॑ हिर॒ण्ययि॒ सुकृ॑ता वा॒जिनी॑वती ।  
+> ऊर्णा॑वती युव॒तिः सी॒लमा॑वत्यु॒ताधि॑ वस्ते सु॒भगा॑ मधु॒वृधं॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुऽअश्वा । सिंधुः । सुरथा । सुऽनासाः । हिरण्यया । सुकृता । वाजिनीवती ।  
+> ऊर्णावती । युवतिः । सीलमावती । उत । अधि । वस्ते । सुभगा । मधुवृधं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सेयं सिंधुः स्वश्वा शोभनाश्चोपेता सुरथा शोभनरथा सुवासाः
+> शोभनवस्रोपेता हिरण्यया हिरण्मयाभरणा सुकृता वाजिनीवत्यन्नवत्यूर्णावती ।
+> तस्याः समीपदेशे हि संत्यूर्णा यासां रोमभिः कंबलाः क्रियंते । युवतिर्नित्यतरुणी सर्वदाहीनोदका सीलमावती । सीराणि ययौषध्या रज्जु भूतया बध्यंते
+> सा सीलमेति निगद्यते कृषीवलैः । तादृगोषध्युपेता । उतापि च सुभगा सिंधुर्मधु.
+> वृधं मधुवर्धकं निर्गुंड्यादिकमधि वस्ते । अच्छादयति । तस्यास्तीरे निर्गुंड्यादीनि
+> बहूनि संति ॥
+
+##### Gist of the bhāṣya
+
+This Sindhu is स्वश्वा (*svaśvā*), endowed with good horses; सुरथा (*surathā*), having a good chariot; सुवासाः (*suvāsāḥ*), having good clothing; हिरण्यया (*hiraṇyayā*), having golden ornaments; सुकृता (*sukṛtā*); वाजिनीवती (*vājinīvatī*), rich in food; ऊर्णावती (*ūrṇāvatī*), having wool: in the region near her there are sheep, from whose hair blankets are made. She is युवतिः (*yuvatiḥ*), ever young, one who never lacks water; सीलमावती (*sīlamāvatī*): the plant with which ploughs are bound as with a rope is called सीलमा (*sīlamā*) by farmers, and she is endowed with that plant. And further, the fortunate Sindhu wears (अधि वस्ते (*adhi vaste*), glossed अच्छादयति (*acchādayati*), "covers") मधुवृधं (*madhuvṛdhaṃ*), that which increases honey, nirguṇḍī and the like; on her bank there are many such plants as nirguṇḍī.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधुः (*siṃdhuḥ*)—the river Sindhu
+- स्वश्वा (*svaśvā*)—endowed with excellent horses
+- सुरथा (*surathā*)—having excellent chariots
+- सुवासाः (*suvāsāḥ*)—having excellent garments
+- सुकृता (*sukṛtā*)—having excellent
+### Printed p. 113
+actions
+- हिरण्यया (*hiraṇyayā*)—having golden ornaments
+- वाजिनीवती (*vājinīvatī*)—rich in food
+- ऊण्रावती (*ūṇrāvatī*)—having wool
+- युवतिः (*yuvatiḥ*)—having youth
+- शीलमावती (*śīlamāvatī*)—having plants with the fibre called śīlamā; she is such
+- उत (*uta*)—and
+- सुभगा (*subhagā*)—the Sindhu, who is auspicious
+- मधुवृधं (*madhuvṛdhaṃ*)—flowers that give honey in abundance
+- अधिवस्ते (*adhivaste*)—wears
+
+##### भावार्थ (Bhāvārtha)
+
+The river Sindhu has excellent horses, chariots, garments and actions, golden ornaments, is rich in food, has regions that give wool, has youth, and has plants with the fibre called śīlamā. And the auspicious Sindhu wears flowers that give honey in abundance.
+
+##### English translation
+The Sindhu, is rich in horses, rich in chariots, rich in clothes, rich in gold ornaments, well-made, rich in food, rich in wool, ever fresh, abounding in Silama plants, and the auspieious river wears honey-growing (flowers).
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the river Sindhu is praised by attributing to her horses, chariots and the like, as human beings have them. In this matter see the Special Topics we have written for the first Ṛk of this sūkta.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒खं रथं॑ युयुजे॒ सिंधु॑र॒श्विनं॒ तेन॒ वाजं॑ सनिषद॒स्मिन्ना॒जौ।  
+> म॒हान्ह॑स्य महि॒मा प॑न॒स्यतेऽद॑ब्धस्य॒ स्वय॑शसो विर॒प्सिनः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुखं । रथं । युयुजे । सिंधुः । अश्विनं । तेन । वाजं । सनिषत् । अस्मिन् । अजौ ।  
+> महान् । हि । अस्य । महिमा । पनस्यते । अदब्धस्य । स्वयशसः । विरप्यनः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 114
+
+> सिंधुर्देवता सुखं सुखकरं शोभनद्वारं वाश्विनमश्ववंतं रथं
+> युयुजे । युनक्ति । तेन रथेन वाजमन्नं सनिषत् : प्रयच्छतु । अस्मिन्नाजौ
+> संग्रामे यज्ञे वास्य सिंधुरथस्य महिमा महान्नि पनस्यते । स्तूयते ।
+> कीदृशस्यास्य । अदब्धस्यान्यैरहिंस्यस्य स्वयशसः स्वायत्तकीर्तेर्विरप्पिनः महन्नामैतत् । महतः । ॥ ७ ॥
+
+##### Gist of the bhāṣya
+
+The deity Sindhu has yoked (युयुजे (*yuyuje*), glossed युनक्ति (*yunakti*)) a pleasant (सुखं (*sukhaṃ*), glossed सुखकरं शोभनद्वारं (*sukhakaraṃ śobhanadvāraṃ*), "making for comfort, having a handsome opening") chariot with horses (अश्विनं (*aśvinaṃ*), "with horses"). With that chariot may she supply (सनिषत् (*saniṣat*), glossed प्रयच्छतु (*prayacchatu*)) food (वाजं (*vājaṃ*), "food"). In this battle or sacrifice (अस्मिन्नाजौ (*asminnājau*), glossed संग्रामे यज्ञे वा (*saṃgrāme yajñe vā*)) the greatness of this Sindhu's chariot is praised (पनस्यते (*panasyate*), glossed स्तूयते (*stūyate*)) as great. Of what kind is this chariot? Unharmed by others (अदब्धस्य (*adabdhasya*)), of self-won fame (स्वयशसः (*svayaśasaḥ*), "fame dependent on himself"), विरप्पिनः (*virappinaḥ*); he adds महन्नामैतत् (*mahannāmaitat*), "this is a name of the great". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधु (*siṃdhu*)—the deity Sindhu
+- सुखं (*sukhaṃ*)—pleasant
+- अश्विनं (*aśvinaṃ*)—provided with horses
+- रथं (*rathaṃ*)—chariot
+- युयुजे (*yuyuje*)—has yoked
+- तेन (*tena*)—with that same chariot
+- वाजं (*vājaṃ*)—food
+- सनिषत् (*saniṣat*)—may she supply to us
+- अस्मिन् आजौ (*asmin ājau*)—in this sacrifice
+- आदब्धस्य (*ādabdhasya*)—unharmed
+- स्वयशसः (*svayaśasaḥ*)—having fame won by itself
+- विरप्पिनः (*virappinaḥ*)—having greatness
+- अस्य (*asya*)—of this chariot of the deity Sindhu
+- महिमा (*mahimā*)—the greatness
+- महान् हि (*mahān hi*)—exceedingly
+- पनस्यते (*panasyate*)—is praised
+
+##### भावार्थ (Bhāvārtha)
+
+The deity Sindhu has yoked a pleasant chariot with horses. In that same chariot may she supply food to us. The greatness of the chariot of the deity Sindhu, which is unharmed, has fame won by itself and has greatness, is exceedingly praised.
+
+##### English translation
+Sindhu has harnessed her easy-going well-horsed chariot, with it may she bring (us) food ; the might of this inviolable, great, renowned (chariot) at this sacrifice is praised as mighty.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here it is said that the river Sindhu, or the deity, yoks her chariot. Is it not wrong to ascribe this power of action to a lifeless river? As the answer to this, we have discussed at length, in the Special Topics of the first Ṛk of this sūkta, the explanation that Yāska has given. One can see it there and understand.
+### Printed p. 115
+The seventy-sixth sūkta.
+## Sūkta 76 (Maṇḍala 10)
+**Introduction**
+The deity of this sūkta is ग्रावाणः (*grāvāṇaḥ*). ग्रावाणः (*grāvāṇaḥ*) means the stones that are used for crushing the Soma plants and pressing out the juice. They have another name also, अद्रि (*adri*). These stones are praised not only in this sūkta but also in the 94th and the 175th sūktas of this same maṇḍala. For these three sūktas the stones themselves are the deity. In many other mantras there is a description of the praise of the stones. Besides regarding these stones with great reverence, there are many kinds of descriptions that the sound produced when the Soma plant is crushed with these stones is very sweet, that this sound is pleasing to Indra, and that Indra never failed to come to the place where that sound was. In the sūkta Ṛ. Saṃ. 1-28 the method of placing the Soma plant on the stone, crushing it and pressing out the juice is described in detail; therefore it will not be irrelevant to mention here the method of pressing the juice out of the Soma plants and other matters connected with it.
+In the sacrifice, a stone with a broad base, used for crushing and pressing the Soma juice, and long enough to be convenient to hold in the hand, is lifted, and with it the Soma plant in the mortar is pounded and pressed and the juice is taken out.
+We shall describe briefly here the procedure to be followed when the Soma juice is prepared. In the Soma sacrifices, for the drinking of Soma, the Soma plant is crushed and pressed, strained through a cloth, mixed according to the occasion with curds, milk and flour, offered to the gods, and then the institutor of the rite and the priests drink it themselves; this is the custom. This preparation of the Soma juice takes place on the principal day of the sacrifice in the morning, at midday and in the evening. It is called अभिवषण (*abhivaṣaṇa*) or सवन (*savana*). The rite of the morning is called प्रातःसवन (*prātaḥsavana*), the सवन (*savana*) performed at midday is called माध्यंदिनसवन (*mādhyaṃdinasavana*), and the सवन (*savana*) performed in the evening is called तृतीयसवन (*tṛtīyasavana*).
+The Soma plant is not obtainable in the present day. Formerly it grew on the banks of rivers and on the mountains. It was brought with great effort, or bought from those who brought it, and used in the sacrifices; even now a rite called सोमविक्रयण (*somavikrayaṇa*) is performed in the sacrifices. The Soma plant (creeper) is of a बभ्रु (*babhru*) colour, आरुण (*āruṇa*) (dull red), or a red mixed with yellow. Since it is said that the creeper that grows very high on the mountains is the best and that more juice can be taken from it, in cases where it is possible the Soma plant was taken from the mountains themselves
+
 ---
 
-**Progress note:** Done through printed p. 109. Sūkta 75 Ṛks 3-5 (rivers, the Nirukta on their names)
+**Progress note:** Done through printed p. 115. Sūkta 75 Ṛks 6-9 (tributaries, Sindhu's chariot); introduction to Sūkta 76 begun
