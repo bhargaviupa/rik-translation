@@ -5014,6 +5014,312 @@ Flow, Soma, who are mighty, the shedder of juice, the parent of gods, towards al
 
 O Soma, bright, flow for the gods, that is, for their sake. Further, bring well-being to heaven and earth, and then to the offspring.
 
+### Printed p. 109
+#### Ṛk 5 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- शुक्रः (*śukraḥ*)—you, who are radiant
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- पवस्व (*pavasva*)—flow
+- दिवे (*dive*)—for the protection of the heavenly world
+- पृथिव्यै (*pṛthivyai*)—for the earth
+- प्रजायै (*prajāyai*)—for the welfare of all creatures
+- शं च (*śaṃ ca*)—produce happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are radiant, flow for the gods. Produce happiness for heaven and earth and for all creatures.
+
+##### English translation
+Soma, who are brilliant, flow for the gods and (give) joy to heaven and earth and all creatures-
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो ध॒र्तासि॑ शु॒क्रः पी॒यूषः॑ स॒त्ये विध॑र्मन्वा॒जी प॑वस्व ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः ! धर्ता । असि । शुक्रः : पीयूषः । सत्ये । विधधर्मन् । वाजी । पवस्व ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम शुक्रो दीप्तः पीयूषः पातव्यस्त्वं दिवो द्युलोकस्य धर्ता
+> धारकोऽसि । वाजी बलवान् स त्वं सत्ये सत्यभूते विधर्मन् विधर्मणि । विविधकर्माण ऋत्विजो यस्मिन् । यद्वा । विविधसोमादिहविषां धारके । अस्मिन्यज्ञे
+> पवस्व । क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are radiant (शुक्रः (*śukraḥ*), shining) and fit to be drunk (पीयूषः (*pīyūṣaḥ*)); you are the upholder of the heavenly world. Being strong (वाजी (*vājī*)), flow in this sacrifice, which is true (सत्ये (*satye*)) and विधर्मन् (*vidharman*), that is, in which the priests perform various rites. Or else: in this sacrifice which is the holder of the various oblations such as Soma. Flow, that is, stream.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुक्रः (*śukraḥ*)—radiant
+- पीयूषः (*pīyūṣaḥ*)—worthy of being drunk by the gods
+- दिवः (*divaḥ*)—of the heavenly world
+- धर्ता (*dhartā*)—the upholder
+- असि (*asi*)—you are
+- वाजी (*vājī*)—you who are strong
+- सत्ये (*satye*)—in the sacrifice that is of the nature of truth
+- विधर्मन् (*vidharman*)—and that upholds everything
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are radiant and worthy of the gods' drinking, you are the upholder of the heavenly world. You who are strong, flow in the sacrifice that is of the nature of truth and upholds everything.
+
+### Printed p. 110
+
+##### English translation
+You are the upholder of heaven, radiant and good to drink; flow you who are strong, at the truthful sacrifice.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व सोम द्यु॒म्ना सु॑धा॒रो म॒हामवी॑ना॒मनु॑ पू॒र्व्यः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । सोम । द्युम्नो । सुधारः । महां । अवीनां । अनु । पूर्व्यः ॥ ७ :
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम द्युम्ना । द्युम्नं द्योततेर्यशो वान्नं वेति यास्कः । अन्नवान् यशस्वी ना सुधारः शोभनधारायुक्तः पूर्वः पुरातनस्त्वं महां मह
+> तामवीनां रोम्मां रोमभ्यः सकाशादनुक्रमेण पवस्व । क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are द्युम्नि (*dyumni*), possessed of food and fame (Yāska: द्युम्नं द्योततेर्यशो वान्नं वेति यास्कः (*dyumnaṃ dyotateryaśo vānnaṃ veti yāskaḥ*)). You have a fair stream and are ancient. Flow in due order through the hairs of the great sheep (the woollen filter).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- द्युम्नि (*dyumni*)—one who has food
+- सुधारः (*sudhāraḥ*)—one who has an excellent stream
+- पूर्व्यं (*pūrvyaṃ*)—and ancient, you
+- महां (*mahāṃ*)—great
+- अवीनां (*avīnāṃ*)—through the woollen threads
+- अनु (*anu*)—in due order
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are possessed of food, who have an excellent stream, and are ancient, flow in due order through the great woollen threads.
+
+##### English translation
+Do you, Soma, who are possessed of food, who have a copious stream, flow through the great sheep's hairs in due succession.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृभि॑र्येमा॒नो ज॑ज्ञा॒नः पू॒तः क्षर॒द्विश्वा॑नि मं॒द्रः स्व॒र्वित्॥
+
+### Printed p. 111
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृभिः । येमानः । जज्ञानः । पूतः । क्षरत् । विश्वानि । मंद्रः । स्वःवित् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृभिः कर्मनेतृभिर्युत्विग्भीर्येमानो नियम्यमानो जज्ञानो जायमानः पूतः पवित्रेण शोधितो मंद्रो मोदमानः स्वर्वित्सर्वज्ञः एतादृशः
+> सोमो विश्वानि सर्वाणि धनान्यस्मभ्यं क्षरत् । क्षरतु । ददातु ॥
+
+##### Gist of the bhāṣya
+
+Soma, held in check (येमानः (*yemānaḥ*)) by the priests who conduct the rite, being born, purified by the filter, exhilarating and all-knowing, may he stream, that is, give, all riches to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृभिः (*nṛbhiḥ*)—by the priests
+- येमानः (*yemānaḥ*)—one who is restrained
+- जज्ञानः (*jajñānaḥ*)—produced for the sacrifice
+- पूतः (*pūtaḥ*)—purified by the ten-strand filter
+- मंद्रः (*maṃdraḥ*)—joyful
+- स्वर्वित् (*svarvit*)—all-knowing; such Soma
+- विश्वानि (*viśvāni*)—all riches
+- क्षरत् (*kṣarat*)—may he provide for us
+
+##### भावार्थ (Bhāvārtha)
+
+May Soma, who is restrained by the priests, produced for the sacrifice, purified by the ten-strand filter, joyful and all-knowing, provide all riches for us.
+
+##### English translation
+May the Soma regulated by the priests, engendered, purified, exhilarating, all-knowing, bring us all (riches).
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदुः॑ पुना॒नः प्र॒जामु॑रा॒णः कर॒द्वश्वा॑नि॒ द्रवि॑णानि नः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । पुनानः । प्रजां । उराणः । करत् । विश्वानि । द्रविणानि । नः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमान उराणः । उराण उरु कुर्वाणः । नि. ६-१७ इति यास्कः ॥
+> देवान् बहु कुर्वाण इंदुः सोमो नोऽस्माकुं प्रजामपत्यादिकां विश्वानि
+> व्याप्तानि द्रविणानि धनानि च करत् । करोतु ॥ करोतेर्लजि रूपं ॥
+
+##### Gist of the bhāṣya
+
+पुनानः (*punānaḥ*) is "being purified". उराणः (*urāṇaḥ*) is "making wide": उराण उरु कुर्वाणः । नि. ६-१७ इति यास्कः (*urāṇa uru kurvāṇaḥ | ni. 6-17 iti yāskaḥ*) (Ni. 6-17). Soma Indu, doing much for the gods, may he make for us progeny and the like, and all pervading riches. करत् (*karat*) means "may he make".
+
+### Printed p. 112
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रनानः (*pranānaḥ*)—one who has attained purity
+- उराणः (*urāṇaḥ*)—one who nourishes the gods
+- इंदुः (*iṃduḥ*)—Soma
+- नः (*naḥ*)—for us
+- प्रजां (*prajāṃ*)—sons and the like
+- विश्वानि (*viśvāni*)—pervading
+- द्रविणानि (*draviṇāni*)—riches
+- करत् (*karat*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+May Soma, who has attained purity and nourishes the gods, provide us with sons and the like and with pervading riches.
+
+##### English translation
+May Indu, purified, extolling (the gods) bestow on us progeny and all kinds of wealth.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व सोम॒ क्रत्वे॒ दक्षा॒याश्वो॒ न नि॒क्तो वा॒जी धना॑य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । सोम । क्रत्वे । दक्षाय । अश्वः । न । निक्तः । वाजी । धनाय ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अश्वो नाश्व इव निक्वो वसतीवरीभिरद्भिर्निक्वो वाजी वेगवांस्त्वं क्रत्वे क्रतवे प्रज्ञानाय दक्षाय बलाय धनाय धनार्थं च पवस्व । क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, like a horse, cleansed (निक्तः (*niktaḥ*)) by the वसतीवरी (*vasatīvarī*) waters, swift and strong, flow for क्रत्वे (*kratve*), that is, understanding, for दक्षाय (*dakṣāya*), strength, and for wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- निक्तः (*niktaḥ*)—you who are joined with the vasatīvarī waters
+- अश्वो न (*aśvo na*)—like a horse
+- वाजी (*vājī*)—being strong and swift
+- क्रत्वे (*kratve*)—for excellent knowledge
+- दक्षाय (*dakṣāya*)—for strength
+- धनाय (*dhanāya*)—for wealth
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are joined with the vasatīvarī waters, being strong and swift like a horse, flow for excellent knowledge, strength and wealth.
+
+##### English translation
+Flow, Soma, for intelligence, for strength, for wealth, strong and cleansed like a horse.
+
+### Printed p. 113
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं ते॑ सो॒तारो॒ रसं॒ मदा॑य पु॒नंति॒ सोमं॑ म॒हे  ॒॑
+> द्युम्नाय । ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ते । सोतारः । रसं । मदाय । पुनंति । सोमं । महे । द्युम्नाय ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोतारोऽभिषोतार ऋत्विजो हे सोम ते तव स्वभूतं रसं मदाय
+> मदार्थं पुनंति । तदेवोच्यते । महे महते द्युम्नाय । द्युम्नं द्योततेर्यशो नान्नं वा । अन्नाय यशसे वा सोमं पुनंति । शोधयंति ।
+> यद्वा । सोममभिषूयमाणं तं रसं पुनंतीत्येकवाक्यतया योजनीयं ॥
+
+##### Gist of the bhāṣya
+
+The pressing priests (सोतारः (*sotāraḥ*)) purify your own juice, O Soma, for exhilaration. This is said: for great द्युम्न (*dyumna*) (Yāska-type gloss: द्युम्नं द्योततेर्यशो नान्नं वा (*dyumnaṃ dyotateryaśo nānnaṃ vā*)), that is, for food or fame, they purify Soma. Or else, the sentence is to be construed as one: they purify that juice of the Soma being pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोतारः (*stotāraḥ*)—the priests
+- ते (*te*)—your
+- तं रसं (*taṃ rasaṃ*)—juice
+- मदाय (*madāya*)—for exhilaration
+- पुनंति (*punaṃti*)—purify
+- महे (*mahe*)—great
+- द्युम्नाय (*dyumnāya*)—for food
+- सोमं (*somaṃ*)—the Soma (they purify)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the priests purify your well-known juice for exhilaration. They purify the Soma also for great food.
+
+##### English translation
+(The priests) who press you purify your juice for exhilaration; (they purify) the Soma for abundant food.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शिशुं॑ जज्ञा॒नं हरिं॑ मृजंति प॒वित्रे॒ सोमं॑ दे॒वेभ्य॒  ॑
+> इंदुं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 114
+
+> तिशुं । जज्ञानं । हरिं । मृजंति । पवित्रे । सोमं । देवेभ्यः । इंदुं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शिशुमपां पुत्रभूतं जज्ञानं जायमानं हरिं हरितवर्णमिंदुं दीप्तं
+> सोमं देवेभ्यो देवार्थं पवित्रे मृजंति । ऋत्विजो मार्जयंति ॥
+
+##### Gist of the bhāṣya
+
+The priests cleanse on the filter, for the gods, the child of the waters, being born, the green-tinted, shining Soma Indu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिशुं (*śiśuṃ*)—as the son of the waters
+- जज्ञानं (*jajñānaṃ*)—one who is born
+- हरिं (*hariṃ*)—one who is green-hued
+- इंदुं (*iṃduṃ*)—shining
+- सोमं (*somaṃ*)—Soma
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- पवित्रॆ (*pavitrè*)—on the ten-strand filter
+- मृजंति (*mṛjaṃti*)—the priests cleanse
+
+##### भावार्थ (Bhāvārtha)
+
+The priests cleanse on the ten-strand filter, for the gods, the Soma who is born as the son of the waters, green-hued and shining.
+
+##### English translation
+They cleanse the new-born infant, the green-tinted shining Soma, on the filter for the gods-
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदुः॑ पविष्ट॒ चारु॒र्मदा॑या॒पामु॒पस्थे॑ क॒विर्भगा॑य ॥१३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । पविष्ट । चारुः । मदाय । अपां । उपस्थे । कविः, भगाय ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चारुः कल्याणरूपः कविः क्रांतप्रज्ञ इंदुरपामुदकानामुपस्थ उषानेंतरिक्षे पवित्रे वा मदाय मदार्थं भगाय भजनीयधनार्थं च पविष्ट
+> ववते ॥
+
+##### Gist of the bhāṣya
+
+Indu, fair in form (चारुः (*cāruḥ*)) and a seer (कविः (*kaviḥ*), of far-reaching wisdom), flows in the lap of the waters, in the atmosphere or on the filter, for exhilaration and for भगाय (*bhagāya*), desirable wealth. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 108. pp. 103-108 (batch API)
+**Progress note:** Done through printed p. 114. pp. 109-114 (batch API)
