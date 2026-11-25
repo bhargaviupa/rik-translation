@@ -12138,6 +12138,198 @@ O bride, approach your husband without a terrible look (a cruel glance). Do not 
 
 आघोरचक्षुः (*āghoracakṣuḥ*)—It is desired that the bride's look be gentle and not cruel through anger and the like, and that the bride be of a smiling countenance. Whether women or men, the expression of the face depends on the eyes. If there are anger, grief and the like in the mind, they show in the eyes and spoil the very beauty of the face. If, on the other hand, there are joy in the mind and friendliness, kindness and a helpful spirit towards others, the eyes are gentle and agreeable and increase the beauty of the face. Therefore it is said here that the bride should be of a gentle look.
 
+### Printed p. 437
+
+अपतिघ्नी (*apatighnī*)—It is desired that she do no harm to her husband, that is, do no act that is not beneficial to her husband.
+
+शिवा पशुभ्यः (*śivā paśubhyaḥ*)—Towards cattle and the other animals: the meaning is that she should look after them well, put down grass, water and the like at the proper times, and be watchful in guarding them.
+
+सुमनाः, सुवर्चाः (*sumanāḥ, suvarcāḥ*)—Being of good mind means that she should not wish harm to anyone even in her mind, but should also be endowed with courtesy and modesty in speech, speaking only kind words and always wishing that all may fare well. This kind of conduct is called सुमनाः (*sumanāḥ*). सुवर्चाः (*suvarcāḥ*) means that to be adorned with clean clothes, ornaments and the like and to be devoted to works for the good of others is what is called splendour. It is desired that she be endowed with such splendour.
+
+वीरसू (*vīrasū*)—The chief duties of a wife are to serve her husband, to assist him in the performance of good rites, and to bear excellent sons. In those days the Āryas had often to fight against the dark people called Dasyus, the inhabitants of this country, and so the need for heroic sons was very great. Therefore, even when praying to the gods, it is the custom of the seers to pray many times that heroic sons, grandsons and the like be given. Here too it is desired that the new bride bear heroic sons.
+
+देवकामाः (*devakāmāḥ*)—It is desired that she be devoted to the duties owed to the gods, that is, to good rites such as sacrifices, and that she be a helper to her husband in them.
+
+स्येना शं नो भव द्विपदे शं चतुष्पदे (*syenā śaṃ no bhava dvipade śaṃ catuṣpade*)—To us, that is, to us the bride's relatives, to the household and the servants and the rest, she is assured that she will not only bring happiness with affection and respect, but also, behaving with compassion and sympathy towards other people and towards cows and the other animals, will bring happiness to all by her conduct.
+
+#### Ṛk 45
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां त्वमिं॑द्र मीढ्वः सपु॒त्रां सु॒भगां॑ कृणु ।  
+> दशा॑स्यां पु॒त्राना धे॑हि॒ पति॑मेकाद॒शं कृ॑धि ॥ ४५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । त्वं । इंद्र । मीढ्वः । सुपुत्रां । सुभगां । कृणु ।  
+> दश । अस्क्यां । पुत्रान् । आ । धेहि । पतिं । एकादशं । कृधि ॥ ४५ ॥
+
+### Printed p. 438
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमिमां वधूं सुपुत्रां सुभगां च कृणु । कृधि । अस्यां वध्वां
+> दश पुत्राना धेहि । पतिमेकादशं कृधि । दश पुत्राः पतिरेकादशो यथा स्यात्तथा
+> कृधि । कृणु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, make this bride one with good sons and fortunate. Place in her ten sons. Make her husband the eleventh: make it so that the ten sons are there and the husband is the eleventh.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मीढ्वः (*mīḍhvaḥ*)—O showerer of desires
+- इंद्र (*iṃdra*)—O Indra
+- इमं (*imaṃ*)—this bride
+- सुपुत्रां (*suputrāṃ*)—as one having excellent sons
+- सुभगां (*subhagāṃ*)—as one who brings good fortune
+- कृणु (*kṛṇu*)—make
+- अस्यां (*asyāṃ*)—in her
+- दश पुत्रान् (*daśa putrān*)—ten sons
+- आ धेहि (*ā dhehi*)—cause to be born
+- पतिं (*patiṃ*)—her husband
+- एकादशं (*ekādaśaṃ*)—as the eleventh
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, make this bride the mother of excellent sons and bring her good fortune. Cause ten sons to be born in her. Make her husband himself the eleventh.
+
+##### English translation
+Indra, showerer, make her the mother of sons, pleasing (to her husband **NOTE**); give her ten sons; make her husband the eleventh.
+
+#### Ṛk 46
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म्राज्ञे॒ श्वशु॑रे भव स॒म्राज्ञे॑ श्व॒ाश्यां भ॑व ।  
+> ननां॑दरि स॒म्राज्ञे॑ भव स॒म्राज्ञे॒ अधि॑ दे॒वृषु॑ ॥ ४६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संराज्ञे । श्वशुरे । भव । संराज्ञे । श्वाश्रा० । भव ।  
+> ननांदरि । संराज्ञे । भव । संराज्ञे । अधि । देवृषु ॥ ४६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वधु श्वशुरादिसु त्वं सम्राज्ञी भव । देवृषु । देवरेष्टित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O bride, be a queen among your father-in-law and the others. देवृषु (*devṛṣu*) means among the husband's brothers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O bride) श्वशुरे (*śvaśure*)—towards your father-in-law
+- संराज्ञी भव (*saṃrājñī bhava*)—behave like a queen who gives delight
+- श्वश्रावां (*śvaśrāvāṃ*)—towards your mother-in-law also
+- संराज्ञी भव (*saṃrājñī bhava*)—conduct yourself as a giver of joy
+- ननांदरि (*nanāṃdari*)—towards the husband's sisters
+
+### Printed p. 439
+
+- संराज्ञॆ (*saṃrājñè*)—behave like an excellent queen
+- आधि देवृषु (*ādhi devṛṣu*)—towards the husband's brothers also
+- संराज्ञॆ (*saṃrājñè*)—exercise authority that gives joy
+
+##### भावार्थ (Bhāvārtha)
+
+O bride, behave towards your father-in-law like a queen who gives delight. Towards your mother-in-law also conduct yourself as a giver of joy. In respect of your husband's sisters and brothers also, exercise authority as one who brings them gladness.
+
+##### English translation
+Be a queen to your father-in law, be a queen to your mother-in-law, be a queen to your husband's sister, be a queen to your husband's brothers-
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word देवरं (*devaraṃ*), Yāska took Ṛ. Saṃ. 10-40-2 as an example and gave the Nirukta:
+
+क्व स्विद्रात् भवतः, क्व दिवा, क्वापिप्राप्तिं कुरुथः, क्व वसथः, को वा शयने विधवेव देवरं । देवरः कस्मात् द्वितीयो वर उच्यते । विधवा विधातृका भवति । विधावनाद्वा । विधवनाद्वेति प्रचर्मशिराः। आपि ना धव इति मनुष्यनाम तद्वियोगाद्विधवा । देवरो दीव्यतिकर्मा । मर्यो मनुष्यो मरणधर्मा । योषा यौतेः । आकुरुते सहस्थाने ॥ (*kva svidrāt bhavataḥ, kva divā, kvāpiprāptiṃ kuruthaḥ, kva vasathaḥ, ko vā śayane vidhaveva devaraṃ | devaraḥ kasmāt dvitīyo vara ucyate | vidhavā vidhātṛkā bhavati | vidhāvanādvā | vidhavanādveti pracarmaśirāḥ| āpi nā dhava iti manuṣyanāma tadviyogādvidhavā | devaro dīvyatikarmā | maryo manuṣyo maraṇadharmā | yoṣā yauteḥ | ākurute sahasthāne ‖*) (Ni. 3-15)
+
+The woman Ghoṣā, the seer of this sūkta, questions the Aśvins thus while praising them: O Aśvins, where are you at night? Where are you by day? Where do you do your work (such as bathing and eating)? Where do you dwell? In the sacrificial house of which sacrificer who performs a sacrifice are you honoured by him, as a widow seats her husband's younger brother facing her on her bed (at night), and as a wife, in solitude, seats her husband facing her and takes her pleasure?
+
+How is the word देवर (*devara*) formed? What is देवर (*devara*)? देवर (*devara*) means the second husband. For a woman the husband she is married to is the first husband. If that husband dies before children are born (as was the custom of that time), the husband's younger brother, that is, the brother-in-law, may have intercourse with that woman for the begetting of a son; therefore that brother-in-law is the woman's second husband, that is, the meaning of the word देवर (*devara*) is brother-in-law.
+
+### Printed p. 440
+
+For the word विधवा (*vidhavā*): (1) its meaning is विधातृका (*vidhātṛkā*). After the husband has died there is no one to support her, that is, to maintain her by giving food, clothing and the like; therefore a woman without a husband is called विधवा (*vidhavā*). (2) Or विधवनाद्वा (*vidhavanādvā*): because she is grieved by her husband's death and trembles with sorrow, a woman without a husband is called विधवा (*vidhavā*). (3) Or विधावनाद्वा (*vidhāvanādvā*): because, scorched with grief by her husband's death, she wanders from here to there with no one's restraint, a woman bereft of her husband is called विधवा (*vidhavā*); this is the opinion of the teacher called Carmaśiras. (4) Or the word धव (*dhava*) means a man; therefore a woman who has lost her husband (वि धव (*vi dhava*)) is called विधवा (*vidhavā*).
+
+देवरः दीव्यतिकर्मा (*devaraḥ dīvyatikarmā*). The word देवर (*devara*) is formed from the root दीव्यति (*dīvyati*), which means to sport. Here the meaning is one who is eager to take his pleasure in amorous sport with his brother's wife.
+
+#### Ṛk 47
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समं॑जंतु॒ विश्वे॑ दे॒वाः समापो॒ हृद॑यानि नौ ।  
+> सं मा॑त॒रिश्वा॒ सं धा॒ता समु॒ देष्ट्री॑ दधातु नौ ॥ ४७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अंजंतु । विश्वे । देवाः । सं । आपः । हृदयानि । नौ ।  
+> सं । मातरिश्वा । सं । धाता । सं । ऊं इति । देष्ट्री । दधातु । नौ ॥ ४७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समंजंत्येषा वरस्य दधिप्राशने वधूवरयोर्हृदयस्पर्शने वा
+> विनियुक्ता । तथा च सूत्रितं । समंजंतु विश्वे देवा इति दध्नः प्राश्य प्रतिप्रयच्छेदाज्यशेषेण वानक्ति हृदये । आ. गृ. १-८.९ ! इति ॥
+> विश्वे देवाः सर्वॆ देवा नौ हृदयानि मानसानि समंजंतु । सम्यगंजंतु ।
+> अपगतदुःखादिक्लेशानि कृत्वा लौकिकवैदिकविषयेषु प्रकाशयुक्तानि कुर्वंत्यर्थः ।
+> आपश्च समंजंतु । तथा मातरिश्वा नौ हृदयानि सं दधातु । अवयोर्बुद्धीः
+> परस्परानुकूलाः करोत्वित्यर्थः । धाता च सं दधातु । देष्ट्री दात्री फलानां ।
+> सरस्वतीत्यर्थः । सा च सं दधातु । संधानं करोतु ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is applied at the bridegroom's eating of curds, or at the touching of the hearts of the bride and bridegroom; and so the sūtra has it **NOTE**: after eating of the curds he gives it to her in turn, or anoints the heart with the remainder of the ghee. All the gods anoint our two hearts, that is, they unite them well: having removed sorrow and other afflictions, they make them bright in worldly and Vedic matters. The waters also unite them. Likewise Mātariśvan unites our hearts: the meaning is that he makes the minds of us two favourable to each other. Dhātṛ also unites them. देष्ट्री (*deṣṭrī*) is the giver of fruits, that is, Sarasvatī; she also unites, she brings about the union.
+
+### Printed p. 441
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- नौ हृदयानि (*nau hṛdayāni*)—the hearts of us both
+- समंजंतु (*samaṃjaṃtu*)—let them unite
+- आपः (*āpaḥ*)—the deities of the waters
+- सं अंजंतु (*saṃ aṃjaṃtu*)—let them make them one
+- मातरिश्वा (*mātariśvā*)—the wind (Mātariśvan)
+- सं दधातु (*saṃ dadhātu*)—let him make our minds beneficial to each other
+- देष्ट्री (*deṣṭrī*)—Sarasvatī, the giver of fruit
+- धाता (*dhātā*)—Dhātṛ also
+- नौ (*nau*)—our hearts
+- सं (दधातु) (*saṃ (dadhātu)*)—let him make one
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods together make our hearts one. May the deities of the waters also unite us. May Mātariśvan make our minds beneficial to each other. May Sarasvatī, the giver of fruit, make our hearts one.
+
+##### English translation
+May the universal gods unite both our hearts; may the waters unite them ; may Matarishvan, Dhatri and the bountiful (Saraswati) unite both our hearts.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk beginning समंजंतु (*samaṃjaṃtu*) is to be recited at the time of marriage when the bridegroom eats the curds, and when the bride and bridegroom touch their hearts, is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra समंजंशु निश्वेदेवा इति दध्नः प्राश्य प्रतियच्छेदाज्यशेषेण वानक्ति हृदये (*samaṃjaṃśu niśvedevā iti dadhnaḥ prāśya pratiyacchedājyaśeṣeṇa vānakti hṛdaye*) (Ā. Gṛ. 1-8-9).
+
+हृदयानि समंजंतु (*hṛdayāni samaṃjaṃtu*)—अपगतदुःखादिक्लेशानि कृता लौकिकवैदिकविषयेषु प्रकाशयुक्तानि कुर्वंत्यर्थः ॥ (*apagataduḥkhādikleśāni kṛtā laukikavaidikaviṣayeṣu prakāśayuktāni kurvaṃtyarthaḥ ‖*). O all gods, remove the sorrows, afflictions and troubles that may befall us, the newly wedded pair, and grant that the minds of us both may act in the same manner, without difference of opinion, in worldly household duties and in Vedic good rites such as sacrifices; this is the meaning.
+
+Although the word मातरिश्वा (*mātariśvā*) ordinarily means the wind that blows in the atmosphere, its etymological meaning is given with reference to Agni:
+
+मातर्यंतरिक्षे श्वसिति प्राणिति सूर्यरूपेण चेष्टत इति मातरिश्वा । (*mātaryaṃtarikṣe śvasiti prāṇiti sūryarūpeṇa ceṣṭata iti mātariśvā |*)
+
+or else मातर्यरण्यां श्वसिति निवसतीति मातरिश्वा (*mātaryaraṇyāṃ śvasiti nivasatīti mātariśvā*). That is, the sun moving in the atmosphere shines, giving life to all living beings. Since this sun is only a changed form of the fire that is in the heaven-world, the word मातरिश्वा (*mātariśvā*) may be said to mean Agni in the form of the Āditya. Or else,
+
+### Printed p. 442
+
+since fire is produced by churning in the aranis (pieces of wood), the aranis stand in the place of mothers to Agni. Since Agni dwells in such aranis, मातरिश्वा (*mātariśvā*) means Agni: this is another kind of derivation. For the word मातरिश्वा (*mātariśvā*) Yāska has given the explanation मातरिश्वा वायुर्मातर्यंतरिक्षे श्वसिति मार्तर्याश्वनितीति वा (*mātariśvā vāyurmātaryaṃtarikṣe śvasiti mārtaryāśvanitīti vā*) (Ni. 7-26). मातरि (*mātari*) means in the atmosphere; श्वसिति (*śvasiti*) moves. Therefore the meaning in one way is the wind that moves in the atmosphere. Or else, because he goes (अनिति (*aniti*), that is, गच्छति (*gacchati*)) swiftly in the atmosphere, the wind is called Mātariśvan: this is another meaning. That is, the meaning given to the word मातरिश्वा (*mātariśvā*) is a deity that moves in the atmosphere. It is not the wind alone that moves in the atmosphere; the sun also moves in the atmosphere, and so the sun too is called Mātariśvan. Since the sun too is a changed form of the fire that is in the heaven-world, Agni is described here by the word मातरिश्वा (*mātariśvā*).
+
+मातरिश्वा (*mātariśvā*)—मातरिश्वा वायुर्मातर्यंतरिक्षे श्वसिति मातराश्वनितीति वा (*mātariśvā vāyurmātaryaṃtarikṣe śvasiti mātarāśvanitīti vā*). Because he breathes or moves in the atmosphere, the name Mātariśvan has come to the wind. In Ṛ. Saṃ. 1-94-4 they take this word to mean Agni, and in 1-141-3 to mean the sacrificer. But except in one or two such places, everywhere else मातरिश्वा (*mātariśvā*) means the wind.
+
+अन्यं मातरश्वा दिव आ जभार (*anyaṃ mātaraśvā diva ā jabhāra*)—The unearthly manifestation and the earthly origin of Agni, who is sacrifice itself, are described in many ways. Agni is the banner of sacrifices, the means of the vidatha, the father of sacrifices and the like, and the king of the adhvaras (see the descriptions in the Ṛks Ṛ. Saṃ. 3-3-3; 3-11-2; 4-2-3 and others). That the manifestation of Agni first came to the wind in the form of lightning is praised in the Ṛks of the Ṛk-saṃhitā
+
+त्वमग्ने प्रथमो मातरिश्वन आर्भिव सुक्रतूया विवस्वते । (*tvamagne prathamo mātariśvana ārbhiva sukratūyā vivasvate |*) (Ṛ. Saṃ. 1-31-3)
+
+स जायमानः परमे व्योमन्याविरग्नि रभवन्मातरिश्वने । (*sa jāyamānaḥ parame vyomanyāviragni rabhavanmātariśvane |*) (Ṛ. Saṃ. 1-43-2)
+
+and others. There are many Vedic statements that this wind brought Agni, who was hidden in a very distant region, for Bhṛgu and for Manu, the sacrificers, and helped them. For example—
+
 ---
 
-**Progress note:** Done through printed p. 436. Vol 29 pp. 431-436, Ṛk 41 to Ṛk 44 (Maṇḍala 10 Sūkta 85)
+**Progress note:** Done through printed p. 442. Sukta 85 Rk 45-47, special topics on devara, vidhava, matarisvan
