@@ -15597,6 +15597,258 @@ Lord of the companies (of the Maruts), sit down among the companies (of the wors
 > अभिख्या । नः । मघवन् । नाधमानान् । सखे । बोधि । वसुपते । सखीनां ।  
 > रणं । कृधि । रणकृत् । सत्यशुष्म । अभक्ते । चित् । आ । भज । राये । अस्मान् ॥१०॥
 
+### Printed p. 476
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्थनवन्निंद्र नाधमानान्॥ नाध्य नाध्य याच्छोपतापैश्वर्याशीषु
+> भौवादिकः । अनुदात्तेत्॥ याचमानानोऽस्मानभिख्याभिख्यापनेन तेजसा युक्तान्
+> कुरु । प्रसिद्धान्वा कुरु ! हे सखे धनदानेन हे वसुपते वसूनां स्वामिन् त्वं
+> सखीनां स्तोतृत्वेन सखिभूतानामस्माकं स्वभूतानि स्तोत्राणि बोधि । बुध्यस्व ॥
+> बुध अवगमने । भौवादिकः । लोटि च्छांदसः शपो लुक् । छंदस्युभयथेति
+> हेरार्धधातुकत्वेनाजित्वादजितश्चेति हेर्धिभावः । अत एव गुणः । सार्वधातुकत्वेन
+> जित्वादंतोदात्तत्वं । वर्णलोपश्चांदसः ॥ हे रणकृच्छतुभिः सह युद्धकर्तः
+> अत एव हे सत्यशुष्म यथार्थबलोपेत त्वं रणं कृधि । कुरु । शत्रूञ्छहि ॥ करोतेर्लोटि श्रुशृणुष्यकृवृभ्यश्चंदसीति हेर्धिः ॥ किंचाभक्ते चिदसंभजनीये
+> स्थानेऽप्यस्मान्राये धनाया भजा । भागिनः कुरु ॥ व्यचोतस्तिज इति संहितायां
+> दीर्घः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the verse. "Maghavan" is the wealthy Indra. The root नाध (*nādha*) (nādh) is in the sense of asking, afflicting, lordship and blessing. Indra is asked to make us, who are suppliants, endowed with lustre by अभिख्या (*abhikhyā*) (making known), or to make us renowned. "O friend" is addressed through his gift of wealth; "O lord of wealth" means lord of riches. As we are his friends by being his praisers, he is asked to take notice of our hymns बोधि (*bodhi*) ("know"). "O battle-maker" means one who fights with enemies; therefore "O you of true strength", possessing real power, "make battle", that is, "slay the enemies". Further, even in a place that is not to be shared अभक्ते चित् (*abhakte cit*), he is asked to make us sharers राये (*rāye*) in wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, endowed with wealth
+- नाधमानान् (*nādhamānān*)—those who are petitioning you
+- नः (*naḥ*)—us
+- अभिख्या (*abhikhyā*)—make us endowed with lustre
+- सखे (*sakhe*)—O Indra, our friend
+- वसुपते (*vasupate*)—and lord of riches
+- सखीनां (*sakhīnāṃ*)—the wishes of us, your friends
+- बोधि (*bodhi*)—know
+- रणकृत् (*raṇakṛt*)—O skilled in battle
+- सत्यशुष्म (*satyaśuṣma*)—O you who have true power
+- रणं (*raṇaṃ*)—battle
+- कृधि (*kṛdhi*)—make
+- अभक्ते चित् (*abhakte cit*)—even in a place where we have no share
+- अस्मान् (*asmān*)—us
+- राये (*rāye*)—in wealth
+- आ भज (*ā bhaja*)—make us sharers
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, make us, who petition you, endowed with lustre. O Indra, our friend and lord of riches, know the wishes of us, your friends. O Indra, skilled in battle and possessed of true strength, make war. Even in a place where we have no share, make us sharers in wealth.
+
+##### English translation
+Render us, Maghavan, who are you suitors, illustrious; comprehend, friendly (Indra), who are the lord wealth, (the wishes of) your friends ; make war (for us), you warrior endowed with real strength, give us a share in the undivided riches.
+
+### Printed p. 477
+## Sūkta 113 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशमेऽनुवाके षोडश सूक्तानि । तत्र तमस्येति दशर्चं प्रथमं सूक्तमैंद्रं । शतप्रभेदनो नाम वैरूप ऋषिः । अंत्या त्रिष्टुप् शिष्टा जगत्यः । तथा
+> चानुक्रांतं । तमस्य शतप्रभेदनस्त्रिष्टुबंतमिति ॥ दशरात्रस्याष्टमेऽहनि मरुत्वतीय
+> एतत्तूक्तं । सूत्रितं च । तमस्य द्यावापृथिवी महा इंद्रो नृवदिति मरुत्वतीयं ।
+> आ. ८-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the tenth anuvāka there are sixteen sūktas. Of these, the first, "tam asya", is a ten-verse hymn to Indra. Its seer is Śataprabhedana Vairūpa; the last verse is Triṣṭubh, the rest Jagatī. So the Anukramaṇī: तमस्य शतप्रभेदनस्त्रिष्टुबंतमिति (*tamasya śataprabhedanastriṣṭubaṃtamiti*). On the eighth day of the Daśarātra it is used in the Marutvatīya (śastra). It is prescribed in the sūtra तमस्य द्यावापृथिवी महा इंद्रो नृवदिति मरुत्वतीयं (*tamasya dyāvāpṛthivī mahā iṃdro nṛvaditi marutvatīyaṃ*), Ā. 8-7.
+
+##### Anuvāda
+
+In the tenth anuvāka of the tenth maṇḍala there are sixteen sūktas. Of them this sūkta beginning "tamasya" is the first; it has ten Ṛks. Its seer is Śataprabhedana Vairūpa; the deity is Indra; the last Ṛk is in Triṣṭubh metre, the others in Jagatī. The Anukramaṇī says "tamasya Śataprabhedanas triṣṭubantam". Its use is in the Marutvatīya śastra mantras on the eighth day of the sacrifice called Daśarātra, as set out in the Āśvalāyana Śrauta Sūtra, "tamasya dyāvāpṛthivī mahā indro nṛvad iti marutvatīyam" (Ā. 8-7).
+
+Sūkta 113. Maṇḍala 10; Anuvāka 10; Sūkta 113. Aṣṭaka 8; Adhyāya 6; Varga 14, 15. Number of Ṛks in the sūkta: 10. Seer: Śataprabhedana Vairūpa. Deity: Indra. Metre: 1-9 Jagatī, 10 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑स्य॒ द्यावा॑पृथि॒वी सचे॑तसा॒ विश्वे॑भिर्दे॒वैरनु॒ शुष्म॑ावतां।  
+> यद्यॆत्कृ॑ण्णा॒नो म॑हि॒मान॑मिंद्रि॒यं प्री॒त्वी सोम॑स्य॒ कतु॑मा  
+> अवर्धत ॥ १ ॥
+
+### Printed p. 478
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अस्य । द्यावापृथिवी इति । सचेतसा । विश्वेभिः । देवैः । अनु । शुष्मं । आवतां ।  
+> यॆत् । ऐत् । कृण्वानः । महिमानं । इंद्रियं । प्रीत्वी । सोमस्यॆ । क्रतुमान् ।  
+> अवर्धत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सचेतसा सह चेतयंत्यौ द्यावापृथिवी द्यावापृथिव्यौ विश्वेभिः सर्वॆभिः
+> सर्वैर्देवैः सहास्य ॥ अन्वादेशेऽशादेशोऽनुदात्तः । पा. २-४-३२ ॥ एतस्येंद्रस्य
+> तं शुष्मं शत्रूणां शोषकं बलमन्वावतां । रक्षतां । तस्य बलं पूर्वमस्मान्रक्षतु
+> पश्चादेते अपि रक्षतामिति भावः ॥ अवतेर्लुज् ॥ कृष्णानो वृत्रवधादिकं कुर्वाणः स
+> महिमानमिंद्रियमिंद्रस्यात्मनः पर्याप्तं वीर्यं च यद्यदैत् प्राप्नोत् ॥ इण्
+> गतौ आदादिकः । आडजादीनामित्याडागमः ॥ तदा क्रतुमान्कर्मवान् स सोमस्य
+> पीत्वी सोमं पीत्वावर्धत ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानसंज्ञा ।
+> चतुर्थ्यर्थे बहुलं छंदसीति षष्ठि । पीत्वी । स्नात्वादयश्चेति निपातितः ॥
+
+##### Gist of the bhāṣya
+
+"सचेतसा (*sacetasā*)": heaven and earth, which are aware together, with all the gods, protect this Indra's शुष्मं (*śuṣmaṃ*), his strength that dries up enemies (*pā. sū. 2-4-32* is cited on the substitution after an anvādeśa). The sense: may his strength protect us first, and afterwards may these two also protect. "कृण्वानः (*kṛṇvānaḥ*)": performing the slaying of Vṛtra and the like, when he attained ऐत् (*ait*) his greatness and sufficient prowess, then, possessing ritual works, having drunk Soma, he grew. The Grammar part covers the dative sense in the genitive and the form पीत्वी (*pītvī*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- *(iṃdraḥ)*—Indra
+- कृष्णानः (*kṛṣṇānaḥ*)—performing the slaying of Vṛtra and other deeds
+- महिमानं (*mahimānaṃ*)—his greatness
+- इंद्रियं (*iṃdriyaṃ*)—his prowess
+- ऐत् (*ait*)—he obtained (then)
+- सचेतसा (*sacetasā*)—united together
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- विश्वेभिः देवैः (*viśvebhiḥ devaiḥ*)—with all the gods
+- अस्य (*asya*)—of this Indra
+- तं शुष्मं (*taṃ śuṣmaṃ*)—that famous strength
+- अन्वावतां (*anvāvatāṃ*)—may they protect
+- क्रतुमान् (*kratumān*)—Indra, possessed of ritual works
+- सोमस्य (*somasya*)—Soma
+- पीत्वी (*pītvī*)—having drunk
+- अवर्धत (*avardhata*)—grew
+
+##### भावार्थ (Bhāvārtha)
+
+While Indra, accomplishing the slaying of Vṛtra and other deeds, attains his greatness and prowess, may heaven and earth, joined together with all the gods, protect this famous strength of Indra. Indra, the possessor of ritual works, drank Soma and grew.
+
+##### English translation
+May the concurring heaven and earth, together with all the gods, preserve that strength of Indra, whereby achieving (great deeds) he obtained
+
+### Printed p. 479
+the greatness that is appropriate to him, and having drunk the Soma, he, eminent for his prowess, increased (in strength).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑स्य॒ विष्णु॑र्महि॒मान॒मोज॑सां॒शुं द॑ध॒न्वान्मधु॑नो॒ वि  ॑
+> रप्यते ।  
+> दे॒वेभि॒रिंद्रो॑ म॒घवा॑ स॒याव॑भिर्वृ॒त्रं ज॑घ॒न्वा अ॑भव॒द्वरे॑ण्यः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । अस्य । विष्णुः । महिमानं । ओजसा । अंशुं । दधन्वान् । मधुनः । वि । रप्यते ।  
+> देवीभिः । इंद्रः । मघवा । सयावभिः । वृत्रं । जघन्वान् । अभवत् । वरेण्यः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विष्णुरेतन्नामकः । व्याप्तो यज्ञो वा । मधुनो मदकरस्य सोमस्यांशुं
+> लताखंडं दधन्वान् प्रेरयन् ॥ धनेर्गत्यर्थस्य क्वसाविदित्वान्नुमागमे कृते वलि
+> लोपः ॥ ओजसा स्ववीर्येण संजातमस्येंद्रस्य तं महिमानं वि रष्यते । विविधं
+> शब्दयति । स्तौति । मघवा धनवान् सयावभिः ॥ यातेरातो मुनिन्निति क्वनिप् ॥
+> सहगंतृभिर्देवेभिर्देवैर्मरुद्भिश्च वृत्रं जघन्वान् हतवानिंद्रो वरेण्यः सर्वैवर्रणीयः संभजनीयोऽभवत् ॥
+
+##### Gist of the bhāṣya
+
+Viṣṇu is so named, or "the pervading one" is the sacrifice. Impelling दधन्वान् (*dadhanvān*) the shoot, the stalk of the intoxicating sweet Soma, by his own vigour he extols वि रष्यते (*vi raṣyate*) (makes resound variously, praises) this greatness of Indra, born of that vigour. Maghavan is the wealthy one; सयावभिः (*sayāvabhiḥ*) means those who go together: with the gods, the Maruts, having slain Vṛtra, Indra became वरेण्यः (*vareṇyaḥ*), to be chosen by all, to be resorted to.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- मधुनः (*madhunaḥ*)—of the sweet Soma
+- अंशुं (*aṃśuṃ*)—the stalk
+- दधन्वान् (*dadhanvān*)—making it flow as juice
+- ओजसा (*ojasā*)—by his lustre
+- अस्य (*asya*)—of Indra
+- तं महिमानं (*taṃ mahimānaṃ*)—that famous greatness
+- वि रष्यते (*vi raṣyate*)—makes it still sharper
+- स्वयावभिः (*svayāvabhiḥ*)—following along with himself
+- देवेभिः (*devebhiḥ*)—together with all the gods
+- वृत्रं (*vṛtraṃ*)—Vṛtra the Asura
+- जघन्वान् (*jaghanvān*)—who destroyed
+- मघवा (*maghavā*)—wealthy
+- इंद्रः (*iṃdraḥ*)—Indra
+- वरेण्यः (*vareṇyaḥ*)—worthy of worship
+- अभवत् (*abhavat*)—became
+
+### Printed p. 480
+
+##### भावार्थ (Bhāvārtha)
+
+Viṣṇu presses the stalk of the sweet Soma into juice and by his lustre makes the famous greatness of Indra still greater. Indra, wealthy, who with all the gods that follow him destroyed the Asura Vṛtra, became worthy of worship.
+
+##### English translation
+Vishnu offering the portion of the Soma, glorifies by his own vigour that greatness of his. Indra, the lord of wealth, with the associated gods having slain Vritra, became deserving of honour.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒त्रेण॒ यदहि॑ना॒ बिभ्र॒दायु॑धा स॒मस्थि॑ता यु॒धये॒ शंस॑मा॒विदे॑ ।  
+> विश्वे॑ ते॒ अत्र॑ म॒रुतः॑ स॒ह त्मनाव॑र्धन्नुग्र महि॒मान॑मिंद्रि॒यं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृत्रेण । यत् । अहिना । बिभ्रत् । आयुधा । संस्थिथाः । युधये । शंसं । आविदे ।  
+> विश्वे । ते । अत्र । मरुतः । सह । त्मना । अवर्धन् । उग्र । महिमानं । इंद्रियं॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युधये योधनायायुधायुधानि वज्रादीनि बिभ्रद्धारयन्निंद्रस्त्वं
+> यद्यदाहिनाहंतन्येन वृत्रेण समस्थिथाः सहास्थाः ॥ तिष्ठतेर्लुजि समवप्रविभ्यः स्थ
+> इत्यात्मनेपदं । स्थाघोरिच्छेति सिचः कित्त्वमिकारश्चांतादेशः । ह्रस्वादंगादिति सिचो
+> लोपः । यद्योगादनिघातः । तिज' चोदात्तवतीति गतेर्निघातः ॥ तदाविदे ॥
+> कृत्यार्थे केन्द्रत्ययः ॥ तव वृत्रवधादिकं वीर्यं प्रज्ञापयितुं शंसं । अशंसं ।
+> शस्त्रैरहं सौमि ॥ शन्नु स्तुता । लज् । वाक्यभेदादनिघातः ॥ किंच हे उग्रोद्गू-
+
+**NOTE**
+
+> र्णबल अत्रास्मिन्काल एव ते त्वदीयं महिमानमिंद्रियं वीर्यं च विश्वे सर्वॆ
+> मरुतस्मनात्मना सहैवावर्धन् ॥ वर्णलोपश्चांदसः ॥ अवर्धयन् । मरुतो
+> हींद्रस्य वीर्यं भवति ॥
+
+##### Gist of the bhāṣya
+
+You, Indra, bearing weapons such as the thunderbolt for battle, when you came together समस्थिथाः (*samasthithāḥ*) with Vṛtra, the unslayable अहिना (*ahinā*): then, to make known your prowess in slaying Vṛtra and the rest, I praise शंसं (*śaṃsaṃ*) with hymns (śastras). Further, O fierce one, of mighty strength, at this very time all the Maruts of their own accord magnified your greatness and prowess; for the Maruts are Indra's strength. (The grammatical details of the forms are omitted.)
+
+### Printed p. 481
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—O Indra of exceeding strength
+- युधये (*yudhaye*)—for battle
+- आयुधा (*āyudhā*)—weapons
+- बिभ्रत् (*bibhrat*)—bearing
+- यत् (*yat*)—when
+- अहिना (*ahinā*)—who cannot be slain
+- वृत्रेण (*vṛtreṇa*)—with Vṛtra the Asura
+- समस्थिथाः (*samasthithāḥ*)—you met
+- आविदे (*āvide*)—to know your act of slaying him
+- शंसं (*śaṃsaṃ*)—I praise you
+- अत्र (*atra*)—at this very time
+- ते (*te*)—your
+- महिमानं (*mahimānaṃ*)—greatness
+- इंद्रियं (*iṃdriyaṃ*)—strength
+- विश्वे मरुतः (*viśve marutaḥ*)—all the Maruts
+- त्मना सह (*tmanā saha*)—of their own accord
+- अवर्धन् (*avardhan*)—increased
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of exceeding strength, when you, bearing weapons for battle, met Vṛtra who cannot be slain, I praise you to know your duty of slaying him. At this very time all the Maruts, of their own accord, increased your greatness and strength.
+
+##### English translation
+When you encountered the indestructible Vritra, wielding your weapons for combat, you acquired renown; all the associated Maruts of their own accord magnified your great might appropriate to Indra.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒ज्ञा॒न ए॒व व्य॑बाधत॒ स्पृधः॒ प्राप॑श्यद्वी॒रो अ॒भि पौंस्यं॒  ॑
+> रणं ।  
+> अवृ॑श्च॒दद्रि॒मन॑ स॒स्यदः॑ सृज॒दस्त॑भ्ना॒न्नाकं॑ स्वप॒स्यया॑ पृ॒थुं ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जज्ञानः । एव । वि । अबाधत । स्पृधः । प्र । अपश्यत् । वीरः । अभि । पौंस्यं । रणं ।  
+> अवृश्चत् । अद्रिं । अव । सस्यदः । सृजत् । अस्तभ्नात् । नाकं । सुअपस्यया । पृथुं॥  
+> 31
+
 ---
 
-**Progress note:** Done through printed p. 475. pp. 470-475 (batch API)
+**Progress note:** Done through printed p. 481. pp. 476-481 (batch API)
