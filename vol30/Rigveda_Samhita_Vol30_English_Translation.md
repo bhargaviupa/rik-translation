@@ -34135,6 +34135,244 @@ The deity of this sūkta is Śraddhā. Śraddhā means the great regard that one
 
 A man who desires the favour of the deity Śraddhā should recite this Śraddhā-sūkta every day with self-control, and likewise the Medhā-sūkta (the khila-sūkta beginning मेधां मह्यमंगिरसः (*medhāṃ mahyamaṃgirasaḥ*)). If he does so, that man attains success in all undertakings. Moreover, if he brings the flower of the herb called Brāhmī, mixes it in water, consecrates it by reciting these two sūktas, and drinks it, then the work he has taken up will be accomplished within three days. Furthermore, if he mixes the śaṅkhapuṣpa in milk, the Brāhmī flower in ghee, the śatāvarī in milk, and the vacā in water or ghee, consecrates each with the recitation of these two sūktas, and drinks each for three days, that man obtains Śraddhā (interest in all undertakings), Medhā (intelligence), Smṛti (memory
 
+### Printed p. 1013
+*Kannada prose continuing from the previous page:* …strength of memory), nourishment, strength and wealth. He also obtains success in all undertakings and long life, and lives happily. Or, merely by reciting this sūkta silently in the mind, the desired work is accomplished.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रद्धयेति पंचर्चं त्रयोविंशं सूक्तमानुष्टुभं श्रद्धादेवत्यं । कामगोत्रजा श्रद्धा नामर्षिका । तथा चानुक्रम्यते । श्रद्धया श्रद्धा कामायनी
+> श्राद्धमानुष्टुभं त्विति ॥ लैंगिको विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta श्रद्धया (*śraddhayā*) has five Ṛks, is the twenty-third sūkta in this anuvāka, is in the Anuṣṭubh metre, and has Śraddhā as deity. The seer is the woman Śraddhā of the Kāmagotra. He cites the Anukramaṇī: श्रद्धया श्रद्धा कामायनी श्राद्धमानुष्टुभं तु (*śraddhayā śraddhā kāmāyanī śrāddhamānuṣṭubhaṃ tu*). The use (viniyoga) is *Laiṅgika* (according to the indication of the text).
+
+##### Anuvāda
+
+This sūkta श्रद्धया (*śraddhayā*) is the twenty-third sūkta of the eleventh anuvāka. It has five Ṛks. Its ṛṣikā is the woman Śraddhā of the Kāma lineage; the deity is Śraddhā; the metre is Anuṣṭubh. In the Anukramaṇī it is said: श्रद्धया श्रद्धा कामायनी श्राद्धमानुष्टुभं तु (*śraddhayā śraddhā kāmāyanī śrāddhamānuṣṭubhaṃ tu*). The use is Laiṅgika.
+
+Maṇḍala 10; Anuvāka 11; Sūkta 151. Aṣṭaka 8; Adhyāya 8; Varga 9. Number of Ṛks in the sūkta: 5. Ṛṣi: Śraddhā Kāmāyanī. Deity: Śraddhā. Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्र॒द्धया॒ग्निः समि॑ध्यते श्र॒द्धया॑ हूयते ह॒विः ।  
+> श्र॒द्धां भग॑स्य मू॒र्धनि॒ वच॒सा वे॑दयामसि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रद्धया । अग्निः । सं । इध्यते । श्रद्धया । हूयते । हविः ।  
+> श्रद्धां । भगस्य । मूर्धनि । वचसा । आ । वेदयामसि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुषगतोऽभिलाषविशेषः श्रद्धा । तया श्रद्धयाग्निर्गार्हपत्यादिः समिध्यते ।
+> संदीप्यते । यदा हि पुरुषे श्रद्धाग्निगोचर आदरातिशयो जायते तदैष पुरु-
+
+##### Gist of the bhāṣya
+
+Śraddhā is a particular longing present in a person. By it the fire, the Gārhapatya and others, is kindled: when a person has great regard for the fire, then he kindles it, not otherwise.
+
+### Printed p. 1014
+
+> षोऽग्निन्प्रज्वालयति नान्यदा । श्रद्धयैव हविः पुरोडाशादिहविश्च हूयते । आहवनीये प्रक्षिप्यते । यद्वा । आ सूक्तस्य द्रष्टा श्रद्धाख्ययाग्निः समिध्यते । श्रद्धामुक्तलक्षणायाः श्रद्धाया अभिमानिदेवतां भगस्य भजनीयस्य धनस्य मूर्धनि प्रधानभूते स्थानेऽवस्थितां वचसा वचनेन स्तोत्रेणा वेदयामसि । अभितः प्रख्यापयामः ॥ इदंतो मसिः ॥
+
+##### Gist of the bhāṣya
+
+By faith alone the oblation (puroḍāśa and the like) is offered, cast into the Āhavanīya. Or else: the seer of the sūkta, called Śraddhā, is kindled as fire. We proclaim Śraddhā, the presiding deity of the faith described, who stands at the head, the foremost place, of Bhaga, the wealth to be enjoyed, by speech, i.e. by praise. इदंतो मसिः (*idaṃto masiḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रद्धया (*śraddhayā*)—by faith (by great devotion)
+- अग्निः (*agniḥ*)—the fire, Gārhapatya etc.
+- सं इध्यते (*saṃ idhyate*)—is kindled
+- श्रद्धया (*śraddhayā*)—by faith
+- हविः (*haviḥ*)—the oblation, puroḍāśa etc.
+- हूयते (*hūyate*)—is offered
+- [Or श्रद्धया (*śraddhayā*)—by the ṛṣikā called Śraddhā, seer of this sūkta; अग्निः (*agniḥ*)—the fire; सं इध्यते (*saṃ idhyate*)—is kindled; श्रद्धया (*śraddhayā*)—by the ṛṣikā Śraddhā; हविः (*haviḥ*)—the oblation; हूयते (*hūyate*)—is offered in the fire]
+- भगस्य (*bhagasya*)—of the wealth to be obtained
+- मूर्धनि (*mūrdhani*)—at the chief place
+- श्रद्धां (*śraddhāṃ*)—the deity presiding over faith
+- वचसा (*vacasā*)—by words in the form of praise
+- आ वेदयामसि (*ā vedayāmasi*)—we praise well
+
+##### भावार्थ (Bhāvārtha)
+
+Only by faith (devotion) is the fire kindled. Only by faith is the oblation offered in the fire; or, by the ṛṣikā Śraddhā, seer of this sūkta, the fire is kindled and oblations are offered in it. Let us praise well, with words of praise, this deity of faith, the chief means of obtaining wealth and the like.
+
+##### English translation
+Agni is kindled by Shraddha, by Shradda is the oblation offered; with our praise we glorify Shraddha, (who is seated) on Bhaga's head.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the derivation of the word Śraddhā, Yāska says: श्रद्धा । श्रद्धा श्रद्धानात् । तस्यैषा भवति ॥ (*śraddhā | śraddhā śraddhānāt | tasyaiṣā bhavati ‖*) (Ni. 9-30). In the word Śraddhā, the word श्रत् (*śrat*) means truth. श्रत् अस्यां धीयत इति श्रद्धा (*śrat asyāṃ dhīyata iti śraddhā*). Because truth is in it, it is called Śraddhā. The conviction that arises in dharma, artha, kāma and mokṣa is called faith: trust, great regard, longing. When doing an act one must trust that it is true, and must do it wholeheartedly and with regard; this attitude is called Śraddhā. For example the following Ṛk containing this word is given:
+
+### Printed p. 1015
+श्रद्धयाग्निः साधु समिध्यते श्रद्धया हविः साधु हूयते श्रद्धां भगस्य भागधेयस्य मूर्धनि प्रधानांगे वचनेनावेदयामः ॥ (*śraddhayāgniḥ sādhu samidhyate śraddhayā haviḥ sādhu hūyate śraddhāṃ bhagasya bhāgadheyasya mūrdhani pradhānāṃge vacanenāvedayāmaḥ ‖*) (Ni. 9-31)
+Fire is kindled well by faith: if there is faith, i.e. trust and regard, when kindling the fire, the fire blazes well. Likewise an offering made with faith is well offered. Whatever work is done with faith is done well. In our effort to earn wealth faith is the chief thing: only if there is faith in the work can wealth be earned. The same holds in performing rites; only a rite done with faith gives full fruit. The main idea is: let us praise such a deity of faith with words of praise.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रि॒यं श्र॑द्धे॒ दद॑तः प्रि॒यं श्र॑द्धॆ॒ दिदा॑सतः ।  
+> प्रि॒यं भो॒जेषु॒ यज्ज॑स्वि॒दं म॑ उदि॒तं कृ॑धि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रियं । श्रद्धे । ददतः । प्रियं । श्रद्धे । दिदासतः ।  
+> प्रियं । भोजेषु । यज्वसु । इदं । मे । उदितं । कृधि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे श्रद्धे ददतश्चरुपुरोडाशादीनि प्रयच्छतो यजमानस्य प्रियमभीष्टफलं कुरु । दिदासतो दातुमिच्छतश्च हे श्रद्धे प्रियं कुरु । मे मम संबंधिषु
+> भोजेषु भोक्तृषु भोगार्थिषु यज्जसु कृतयज्ञेषु जनेषु चेदमुदितमुक्तं
+> प्रियं कृधि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Śraddhā, make agreeable, i.e. give the desired fruit to, the sacrificer who gives (cooked rice, puroḍāśa and the like). O Śraddhā, make agreeable also for him who wishes to give. Make this word that has been spoken agreeable among those connected with me who are enjoyers, seekers of enjoyment, and among those who have performed sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रद्धे (*śraddhe*)—O deity presiding over faith
+- ददतः (*dadataḥ*)—to the sacrificer who offers caru, puroḍāśa etc.
+- प्रियं (*priyaṃ*)—give the desired fruit
+- श्रद्धे (*śraddhe*)—O deity Śraddhā
+- दिदासतः (*didāsataḥ*)—
+
+### Printed p. 1016
+- दिदासतः (*didāsataḥ*) (continued)—to him who wishes to give
+- प्रियं (*priyaṃ*)—bring about benefit
+- मे (*me*)—my
+- भोजेषु (*bhojeṣu*)—among those seeking enjoyment
+- यज्वसु (*yajvasu*)—among people who have performed sacrifice
+- इदं उदितं (*idaṃ uditaṃ*)—this word just spoken
+- प्रियं कृधि (*priyaṃ kṛdhi*)—make beneficial
+
+##### भावार्थ (Bhāvārtha)
+
+O deity presiding over faith, bring benefit to the sacrificer who offers caru, puroḍāśa and the like, and to him who wishes to offer them. Among my kin, bring benefit as said above to those who seek enjoyment and to those who have performed sacrifice.
+
+##### English translation
+O Shraddha, grant the desire of the donor (of the oblation), grant O Shraddha, the desire of him who wishes to give, grant this boon which I have mentioned to my sacrificers who solicit happiness.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ दे॒वा असु॑रेषु श्र॒द्धामु॒ग्रेषु॑ चक्रि॒रे ।  
+> ए॒वं भो॒जेषु॒ यज्व॑स्व॒स्माक॑मुदि॒तं कृ॑धि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । देवाः । असुरेषु । श्रद्धां । उग्रेषु । चक्रिरे ।  
+> एवं । भोजेषु । यज्वसु । अस्माकं । उदितं । कृधि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा इंद्रादयोऽसुरेषूद्गूर्णबलेषु यथा श्रद्धां चक्रिरे अवश्यमिमे
+> हंतव्या इत्यादरातिशयं कृतवंतः एवं श्रद्धावत्सु भोजेषु भोक्तृषु भोगार्थिषु
+> यज्जसु यष्टृष्टस्माकमस्मत्संबंधिषु तेषूदितं तैरुक्तं प्रार्थितं फलजातं
+> कृधि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+As the gods, Indra and others, had faith in regard to the Asuras of swollen strength, showing great regard, "these must surely be slain", so, among the enjoyers, seekers of enjoyment, sacrificers, who have faith and are connected with us, make the fruit that they have spoken and prayed for come true.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—the gods, Indra and others
+- असुरेषु (*asureṣu*)—in the matter of conquering (the gods')
+- यथा (*yathā*)—in what manner
+- श्रद्धां (*śraddhāṃ*)—faith (firm trust)
+- चक्रिरे (*cakrire*)—they manifested
+
+### Printed p. 1017
+- एवं (*evaṃ*)—in that manner
+- भोजेषु (*bhojeṣu*)—among people seeking enjoyment
+- यज्वसु (*yajvasu*)—among people who perform sacrifice
+- अस्माकं (*asmākaṃ*)—in our case
+- उदितं (*uditaṃ*)—the fruit each desires
+- कृधि (*kṛdhi*)—cause to be accomplished
+
+##### भावार्थ (Bhāvārtha)
+
+As Indra and the other gods manifested firm trust in conquering the Asuras and accomplished the work, so accomplish whatever our kin who show faith, those seeking enjoyment, those performing sacrifice, and we ourselves desire.
+
+##### English translation
+As the gods had faith in (their fight with) the Asuras so grant the boon which has been asked for to our sacrificers who solicit happiness.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्र॒द्धां दे॒वा यज॑माना वा॒युगो॑पा॒ उपा॑सते ।  
+> श्र॒द्धां हृ॑द॒य्य१॒॑ १ कू॑त्या श्र॒द्धया॑ विंदते॒ वसु॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रद्धां । देवाः । यजमानाः । वायुगोपाः । उप । आसते ।  
+> श्रद्धां । हृदय्य या । आकूत्या । श्रद्धया । विंदते । वसु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा यजमाना मनुष्याश्च वायुगोपा वायुर्गोपा रक्षिता येषां
+> ते तादृशाः संतः श्रद्धां देवीमुपासते । प्रार्थयंते । हृदय्यया । हृदये
+> भवा हृदय्या । तथाविधयाकूत्या संकल्परूपया क्रियया श्रद्धामेव परिचरंति
+> सर्वे जनाः । कुत इत्यत आह । यतः कारणाच्छ्रद्धया हेतुभूतया वसु धनं
+> विंदते लभते श्रद्धावाज्ञानः । तत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The gods and the human sacrificers, having Vāyu as their protector, worship, i.e. pray to, the goddess Śraddhā. हृदय्यया (*hṛdayyayā*) means born in the heart. With such an intention, an act in the form of resolve, all people serve Śraddhā alone. Why? Because by faith, as the cause, a man having faith obtains wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—the gods
+- यजमानाः (*yajamānāḥ*)—sacrificers who perform sacrifice
+- वायुगोपाः (*vāyugopāḥ*)—protected by the deity Vāyu
+- श्रद्धां (*śraddhāṃ*)—the deity presiding over faith
+- उपासते (*upāsate*)—pray (and people)
+
+### Printed p. 1018
+- हृदय्यया (*hṛdayyayā*)—born in the mind, i.e. done wholeheartedly
+- आकूत्या (*ākūtyā*)—by an act in the form of resolve
+- श्रद्धां (*śraddhāṃ*)—they worship this deity Śraddhā
+- श्रद्धया (*śraddhayā*)—by that act done with faith
+- वसु (*vasu*)—wealth
+- विंदते (*viṃdate*)—they obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The gods protected by Vāyu, and the sacrificers who perform sacrifice, pray to this deity Śraddhā. And all people worship this deity by an act done with faith and joined with the resolve to act with faith; that is, to attain their desired ends people pray to Śraddhā with wholehearted trust and firm confidence. Through faith so shown, that is, through work done with faith, people obtain wealth.
+
+##### English translation
+Gods, worshippers, and those who are protected by Vayu, Solicit Shraddha, (they cheshish) Shradaha with heartfelt desire, through Shraddha a man aquires wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्र॒द्धां प्रा॒तर्ह॑वामहे श्र॒द्धां म॒ध्यंदि॑नं॒ सरि॑ ।  
+> श्र॒द्धां सूर्य॑स्य नि॒म्रुचि॒ श्रद्धे॒ श्रद्धा॑पये॒ह नः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रद्धां । प्रातः । हवामहे । श्रद्धां । मध्यंदिनं । परि ।  
+> श्रद्धां । सूर्यस्य । निम्रुचि । श्रद्धे । श्रत् । धापय । इह । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रद्धां देवीं प्रातः पूर्वाह्ने हवामहे । तथा मध्यंदिनं परि ॥ लक्षणे
+> परेः कर्मप्रवचनीयत्वं ॥ मध्यंदिनं परिलक्ष्य । मध्यंदिन इत्यर्थः । मध्याह्नेऽपि
+> तां श्रद्धामाह्वयामहे । सूर्यस्य सर्वस्य प्रेरकस्यादित्यस्य निम्रुच्यस्तमयवे-
+
+##### Gist of the bhāṣya
+
+We invoke the goddess Śraddhā in the morning, the forenoon. Likewise मध्यंदिनं परि (*madhyaṃdinaṃ pari*): the word परि (*pari*) in the sense of a mark has the status of a karmapravacanīya; परि (*pari*) with मध्यंदिनं (*madhyaṃdinaṃ*) means "at midday": at midday too we call that Śraddhā. At the setting of the sun, the impeller of all….
+
 ---
 
-**Progress note:** Done through printed p. 1012. pp. 1007-1012 (batch API)
+**Progress note:** Done through printed p. 1018. pp. 1013-1018 (batch API)
