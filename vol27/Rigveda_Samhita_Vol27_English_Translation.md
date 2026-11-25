@@ -8570,6 +8570,139 @@ O king, blazing Agni, वस्त्राणि (*vastrāṇi*) are the coveri
 - पृथिव्याः (*pṛthivyāḥ*)—of the earth
 - नाभा (*nābhā*)—
 
+### Printed p. 208
+- नाभा (*nābhā*)—(of the earth) which is the navel
+- इळायाः पदे (*iḷāyāḥ pade*)—in the place of the Uttaravedi
+- जातः (*jātaḥ*)—born
+- अरुषः (*aruṣaḥ*)—radiant
+- *agniḥ*—worshipful
+- पुरोहितः (*purohitaḥ*)—being established in the place of the Āhavanīya
+- इह (*iha*)—in this sacrifice
+- देवान् (*devān*)—the gods, Indra and the rest
+- यक्षि (*yakṣi*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, lord, you who are clad in splendours that cover you like a garment, born in the place of the Uttaravedi, which is the navel of the earth, radiant, worshipful, and established in the place of the Āhavanīya, worship the gods, Indra and the rest, in this sacrifice.
+
+##### English translation
+Arrayed in splendid garments, that Agni (abides) on the navel of the earth ; do you, royal (Agni), who are radiant, born on the foot-mark of Ila, offer worship here as purohita to the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+वस्त्राणि (*vastrāṇi*)—Here it is the usual way of speaking to say that for Agni splendour, that is, light, is itself the garment.
+
+नाभा पृथिव्याः इळायाः पदे (*nābhā pṛthivyāḥ iḷāyāḥ pade*)—The meaning is: in the Uttaravedi of the sacrifice, which stands in the place of the navel of the earth. To establish that इळायाः पदे (*iḷāyāḥ pade*) means the Uttaravedi, the Bhāṣyakāra has quoted the Aitareya Brāhmaṇa sentence एतद्वा इळायास्पदं यदुत्तरवेदीनाभिः (*etadvā iḷāyāspadaṃ yaduttaravedīnābhiḥ*) (Ai. Brā. 1-28). In the Ṛgveda Saṃhitā too the word is used, with the sense of the Uttaravedi, in Ṛks such as इळस्पदे समिध्यसे स नो वसून्या भर (*iḷaspade samidhyase sa no vasūnyā bhara*) (Ṛ. Saṃ. 10-191-1). Further, that the words नाभा पृथिव्याः (*nābhā pṛthivyāḥ*) mean the Uttaravedi, the navel-place of the earth, is stated in many places in the Ṛgveda itself. The well-known seer Dīrghatamas, son of Ucathya, asks
+
+पृच्छामि त्वा परमंतं पृथिव्याः पृच्छामि त्वा भुवनस्य नाभिः। (*pṛcchāmi tvā paramaṃtaṃ pṛthivyāḥ pṛcchāmi tvā bhuvanasya nābhiḥ|*)
+(Ṛ. Saṃ. 1-164-34)
+
+and gives the answer to it in
+
+इयं वेदिः परो अंतः पृथिव्या अयं यज्ञो भुवनस्य नाभिः ॥ (*iyaṃ vediḥ paro aṃtaḥ pṛthivyā ayaṃ yajño bhuvanasya nābhiḥ ‖*)
+(Ṛ. Saṃ. 1-164-35)
+
+in that very place. These two Ṛks given as examples are brahmodya, that is, Ṛks that examine the principle of Brahman. That is: on the middle day of the Aśvamedha sacrifice the Hotṛ questions the Yajamāna, and the Yajamāna answers with the second Ṛk.
+
+### Printed p. 209
+
+Such an inquiry into Brahman, between the Hotṛ and the Brahman priest, is customary in the principal sacrifices. In the present Ṛk the words नाभा पृथिव्याः (*nābhā pṛthivyāḥ*) are expressed in the quoted Ṛk by the words भुवनस्य नाभिः (*bhuvanasya nābhiḥ*). Therefore both kinds of words have one and the same meaning. It is necessary to examine closely here how the sacrificial altar is the navel of the world.
+
+It was explained earlier that the word नाभि (*nābhi*) has different meanings: dwelling-place, a pervading connection, संनाहक (*saṃnāhaka*), that is, protector, binder, place of origin, and so on. If the sacrifice itself is said to be the navel in the present Ṛk, the use of this word can be shown in all these senses. This sentence stands as the answer to the question asked in the preceding Ṛk, पृच्छामि यत्र भुवनस्य नाभिः (*pṛcchāmi yatra bhuvanasya nābhiḥ*). The purport is that the sacrifice is the cause of the origin and the continuance of all the worlds and is the binding means that builds a mutual connection among all beings, gods, men and the rest; therefore it stands in the form of a navel.
+
+देवान् भावयतानेन ते देवा भावयंतु वः । परस्परं भावयंतः श्रेयः परमवाप्स्यथ ॥ (*devān bhāvayatānena te devā bhāvayaṃtu vaḥ | parasparaṃ bhāvayaṃtaḥ śreyaḥ paramavāpsyatha ‖*)
+(Bh. Gī. 3-11) **NOTE**
+
+देवान् इंद्रादीन् भावयत वर्धयत अनेन यज्ञेन । ते देवा भावयंतु वृष्ट्वा दिना आप्याययंतु वः युष्मान् । एवं परस्परं अनोन्यं भावयंतः श्रेयः परं ब्रह्मविज्ञानप्राप्तिं क्रमेण अनाप्स्यथ । स्वर्गं वा परं श्रेयः अनाप्स्यथ । (*devān iṃdrādīn bhāvayata vardhayata anena yajñena | te devā bhāvayaṃtu vṛṣṭvā dinā āpyāyayaṃtu vaḥ yuṣmān | evaṃ parasparaṃ anonyaṃ bhāvayaṃtaḥ śreyaḥ paraṃ brahmavijñānaprāptiṃ krameṇa anāpsyatha | svargaṃ vā paraṃ śreyaḥ anāpsyatha |*)
+(Śaṃ. Bhā.) **NOTE**
+
+The Bhagavadgītā teaches that the sacrifice is as food for the gods; that men should offer this food in the form of sacrifice; and that the gods, satisfied by it, should become the cause of the sustenance and growth of men through rain and the like. From this it follows that the sacrifice is the means to every kind of welfare. Śaṅkara and others have explained that if one knows the principle that this sacrifice is the means of welfare for the whole world and performs it in the spirit of service, it becomes a means to the knowledge of Brahman also.
+
+This principle of sacrifice makes known the unity of the universe and the principle that the ground of this unity is the Supreme Brahman. What the Upaniṣads and the like call the Supreme Brahman, the original principle, is called Prajāpati in the Saṃhitās and Brāhmaṇas; and identity between the sacrifice and Prajāpati is stated. The creation of the universe is the fruit of Prajāpati's sacrifice and austerity. Prajāpati, the cause of the world, who was one without a second before the creation of the world, had to offer himself as the oblation in order to carry out the sacrifice, the means of creation.
+
+### Printed p. 210
+
+य आत्मदा बलदा यस्य विश्व उपासते प्रशिषं यस्य देवाः । यस्य छायामृतं यस्य मृत्युः कस्मै देवाय हविषा विधेम । (*ya ātmadā baladā yasya viśva upāsate praśiṣaṃ yasya devāḥ | yasya chāyāmṛtaṃ yasya mṛtyuḥ kasmai devāya haviṣā vidhema |*)
+(Ṛ. Saṃ. 10-121-2)
+
+As described in this and similar passages, Prajāpati offered himself in his own universal sacrifice and carried out the work of creation. All the gods and the rest carry out his command. Death and immortality are his shadows. The praise of the sacrifice's pre-eminence is: "Let us too, performing sacrificial rites, worship with puroḍāśa and the like that Prajāpati, the cause of the universe." The sacrifice is the root of creation, the cause of continuance, and the means to welfare. The Śatapatha Brāhmaṇa describes this very matter thus:
+
+अथ देवाः । अनोन्यमस्मिन्नेव जुह्वतश्चेरुस्तेभ्यः प्रजापतिरात्मानं प्रददौ यज्ञो हैषामास यज्ञो हि देवनामन्नं । (*atha devāḥ | anonyamasminneva juhvataścerustebhyaḥ prajāpatirātmānaṃ pradadau yajño haiṣāmāsa yajño hi devanāmannaṃ |*)
+(Śa. Brā. 11-1-8-2)
+
+The gods performed the sacrifice and offered oblations helpful to one another. Then Prajāpati offered himself to them. Then the sacrifice became the very property of the gods. Therefore the sacrifice is called the food of the gods [that is, the means of food]. Moreover,
+
+स एतेन यज्ञेन । देवेभ्य आत्मानं निरक्रीणीत स यद्व्रतमुपैति यथैव तत्प्रजापतिर्देवेभ्य आत्मानं प्रायच्छदेवमेवैष एतद्देवेभ्य आत्मानं प्रयच्छति तस्मादु संयत एवैताग्ं रात्रिं चिचरिषेद्यथा हविषा चरेदेवग्ं हविर्ह्येष देवानां भवति ॥ (*sa etena yajñena | devebhya ātmānaṃ nirakrīṇīta sa yadvratamupaiti yathaiva tatprajāpatirdevebhya ātmānaṃ prāyacchadevamevaiṣa etaddevebhya ātmānaṃ prayacchati tasmādu saṃyata evaitāgṃ rātriṃ cicariṣedyathā haviṣā caredevagṃ havirhyeṣa devānāṃ bhavati ‖*)
+(Śa. Brā. 11-1-8-3)
+
+Prajāpati, satisfied by the gods' sacrifice, offered himself to them; afterwards he again created his own counterpart, the representative of the sacrifice. Because he thus created his own counterpart for the sake of the sacrifice and reflected the sacrifice in it, the knowing call Prajāpati himself by the synonymous name "sacrifice".
+
+अथ यद्यज्ञं तनुते । यज्ञेनैवैतद्देवेभ्य आत्मानं निष्क्रिणीते यथैव तत्प्रजापतिर्निरक्रीणीतैवं अथ यद्धविनिर्वपति हविषैवैतद्यज्ञं निष्क्रिणाति हविरनुवाक्यानुवाक्यामवदानेनावदानं याज्यया याज्यां वषट्कारेण वषट्कारं..................!! (*atha yadyajñaṃ tanute | yajñenaivaitaddevebhya ātmānaṃ niṣkriṇīte yathaiva tatprajāpatirnirakrīṇītaivaṃ atha yaddhavinirvapati haviṣaivaitadyajñaṃ niṣkriṇāti haviranuvākyānuvākyāmavadānenāvadānaṃ yājyayā yājyāṃ vaṣaṭkāreṇa vaṣaṭkāraṃ..................!!*)
+(Śa. Brā. 11-1-8-4)
+
+What is said in the Śatapatha, that whoever performs the sacrificial rite following Prajāpati's path, and discharges his debt and is freed from the debt to the gods, becomes a helper in Prajāpati's work of creation, is stated in the Bhagavadgītā also:
+
+### Printed p. 211
+
+इष्टान् भोगान् हि वो देवा दास्यंते यज्ञभाविताः । तैर्दत्तानप्रदायैभ्यो यो भुंक्ते स्तेन एव सः ॥ यज्ञशिष्टाशिनस्संतो मुच्यंते सर्वकिल्पिषैः । ते त्वघं भुंजते पापा ये पचंत्यात्मकारणात् ॥ (*iṣṭān bhogān hi vo devā dāsyaṃte yajñabhāvitāḥ | tairdattānapradāyaibhyo yo bhuṃkte stena eva saḥ ‖ yajñaśiṣṭāśinassaṃto mucyaṃte sarvakilpiṣaiḥ | te tvaghaṃ bhuṃjate pāpā ye pacaṃtyātmakāraṇāt ‖*)
+(Bh. Gī. 3-12-13)
+
+The gods, satisfied by the sacrifice, give men in return their desired ends. If, having received from the gods wealth such as food, one does not offer in return an oblation of sacrifice that satisfies the gods, he becomes a thief. The good men who perform the sacrificial rite are freed from sin (kilbiṣa); those who do not become sinners and experience the fruit of sin. For this sacrifice is the thread that shows one connection for the whole universe; this is also called the wheel of the universe. For example:
+
+अन्नाद्भवंति भूतानि पर्जन्यादन्न संभवः । यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥ कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवं । तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितं ॥ एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः । आघायुरिंदि.यारामो मोघं सार्थक स जीवति अघायुरिंद्रियारानो मोघं पार्थ स जीवति ॥ (*annādbhavaṃti bhūtāni parjanyādanna saṃbhavaḥ | yajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ ‖ karma brahmodbhavaṃ viddhi brahmākṣarasamudbhavaṃ | tasmātsarvagataṃ brahma nityaṃ yajñe pratiṣṭhitaṃ ‖ evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ | āghāyuriṃdi.yārāmo moghaṃ sārthaka sa jīvati aghāyuriṃdriyārāno moghaṃ pārtha sa jīvati ‖*)
+(Bh. Gī. 3-13 to 16) **NOTE**
+
+From the sacrifice, which is action, come Parjanya (rain); from Parjanya, food; from food, beings. This action in the form of sacrifice arose from Brahman. Therefore the Supreme Brahman, the root of the creation of the universe, of all kinds of dealings, and also of the universal wheel that recurs, is ever established in the sacrifice. The person who, not knowing this principle of the universe that is sacrifice, does not follow the course of this ordained wheel of the universe, and lives wilfully, is a sinner. Thus the principle of sacrifice, set forth by statements of śruti, is explained in the Gītā and elsewhere. This principle of sacrifice, described in the present Ṛk by "नाभ पृथिव्याः (*nābha pṛthivyāḥ*)", is praised in the same way in other parts of the Ṛk Saṃhitā also. For example:
+
+यज्ञेन यज्ञमयजंत देवास्तानि धर्माणि प्रथमान्यासन् । ते ह नाकं महिमानः सचंत यत्र पूर्वे साध्याः संति देवाः ॥ (*yajñena yajñamayajaṃta devāstāni dharmāṇi prathamānyāsan | te ha nākaṃ mahimānaḥ sacaṃta yatra pūrve sādhyāḥ saṃti devāḥ ‖*)
+(Ṛ. Saṃ. 1-164-50 and 10-90-16)
+
+The gods worshipped Prajāpati, whose form is sacrifice, with the sacrifice that was their own resolve and meditation. This kind of sacrifice became the root of all worldly dharmas.
+
+### Printed p. 212
+
+These very dharmas of the sacrifice, established in the atmosphere, keep the gods who dwell in the heavenly world in their own places. Through the sacrifice itself, all the beings created by Prajāpati obtain food and strength, the cause of their continuance. Therefore, to show the necessity of the sacrifice, it is said in the Taittirīya Saṃhitā:
+
+प्रजापतिः प्रजा असृजत तास्सृष्टाः क्षुधं न्यायंत्स एतं नवरात्रमपश्यत्तमाहरत्तेनायजत ततो वै प्रजाभ्योकल्पत यर्हि प्रजाः क्षुधं निगच्छेयुस्तर्हि नवरात्रेण यजेतेमे हि वा एतासां लोका अक्षृप्ता ......॥ (*prajāpatiḥ prajā asṛjata tāssṛṣṭāḥ kṣudhaṃ nyāyaṃtsa etaṃ navarātramapaśyattamāharattenāyajata tato vai prajābhyokalpata yarhi prajāḥ kṣudhaṃ nigaccheyustarhi navarātreṇa yajeteme hi vā etāsāṃ lokā akṣṛptā ......‖*)
+(Kṛ. Saṃ. 7-2-4-1) **NOTE**
+
+After Prajāpati created the creatures, they were afflicted with hunger. To still their hunger he saw the sacrifice consisting of nine nights and performed the sacrifice with it. By that the hunger of those creatures was stilled. Therefore it is fixed that the sacrifice should be performed for the stilling of hunger. That sacrifice keeps the three worlds in one state and under regulation. How?
+
+कल्पंतेऽस्मा इमे लोका ऊर्जं प्रजासु दधाति त्रिरात्रेणैवेमं लोकं कल्पयति त्रिरात्रेणांतरिक्षं त्रिरात्रेणामुं लोकं यथा गुणे गुणमन्वस्यत्येवमेव तल्लोके लोकमन्वस्यति धृत्वा अशिथिलं भावाय............॥ (*kalpaṃte 'smā ime lokā ūrjaṃ prajāsu dadhāti trirātreṇaivemaṃ lokaṃ kalpayati trirātreṇāṃtarikṣaṃ trirātreṇāmuṃ lokaṃ yathā guṇe guṇamanvasyatyevameva talloke lokamanvasyati dhṛtvā aśithilaṃ bhāvāya............‖*)
+(Tai. Saṃ. 7-2-4-2)
+
+Through this sacrifice of nine nights, vitality came to the three worlds. Through one three-night, Prajāpati arranged by the power of this sacrifice the power of continuance for the earth; through another three-night for the atmosphere; through the remaining three-night for the heavenly world. Just as a cloth is made by joining thread with thread in warp and woof, so, to prevent slackness and to produce for the whole universe a power of one connection, so that the three worlds stand in their ordained state, he established by this sacrifice a warp-and-woof connection for the three worlds. This sacrifice is the pulse of the life of the universe. Describing it, the Śatapatha says:
+
+सर्वेषां वा विष भूतानाग्ं सर्वेषां देवानामात्मा यद्यज्ञस्तस्य समृद्धिमनु यजमानः प्रजया पशुभिर्यध्यते । (*sarveṣāṃ vā viṣa bhūtānāgṃ sarveṣāṃ devānāmātmā yadyajñastasya samṛddhimanu yajamānaḥ prajayā paśubhiryadhyate |*)
+(Śa. Brā. 14-3-2-1)
+
+This sacrifice is the very self of all men and all gods. Whoever performs this sacrifice obtains good offspring and wealth of cattle. And further,
+
+### Printed p. 213
+
+स यदग्नौ जुहोति । तद्देवेषु जुहोति तस्याद्देवाः संत्यथ यत्सदसि भक्षयंति तन्मनुष्येषु जुहोति तस्मान्मनुष्याः संत्यथ यद्धविर्धानयोर्नाराशग्ंसाः सीदंति तत्पितृषु जुहोति तस्मात्पितरः संति ॥ (*sa yadagnau juhoti | taddeveṣu juhoti tasyāddevāḥ saṃtyatha yatsadasi bhakṣayaṃti tanmanuṣyeṣu juhoti tasmānmanuṣyāḥ saṃtyatha yaddhavirdhānayornārāśagṃsāḥ sīdaṃti tatpitṛṣu juhoti tasmātpitaraḥ saṃti ‖*)
+(Śa. Brā. 2-2-2-25)
+
+What is offered in the fire is given to the gods. Therefore the gods have maintained their state. By the (Soma) juice distributed in the Sadas there is the state of men. The oblation offered with the Nārāśaṃsa cup satisfies the Pitṛs. Therefore a man must discharge his debt to the gods and also his debt to the Pitṛs by the sacrificial rite alone. Without this there is no release for him from debt. In the sentence quoted earlier from the Taittirīya Saṃhitā,
+
+"तल्लोके ह लोकमन्वस्यति धृत्या अशिथिलं भवाय (*talloke ha lokamanvasyati dhṛtyā aśithilaṃ bhavāya*) ।"
+(Tai. Saṃ. 7-2-4-2) **NOTE**
+
+it is shown that the sacrificial rite is necessary so that the existence of the universe may be firm and not slack, and so that the connection of the three worlds may be woven together like warp and woof. When the three debts are spoken of, this mutual bond is also described. For example, in the Śatapatha Brāhmaṇa:
+
+ऋणग्ं हवै जायते योऽस्ति स जायमान एव देवेभ्य ऋषिभ्यः पितृभ्यो मनुष्येभ्यः ॥ (*ṛṇagṃ havai jāyate yo 'sti sa jāyamāna eva devebhya ṛṣibhyaḥ pitṛbhyo manuṣyebhyaḥ ‖*)
+(Śa. Brā. 1-7-2-1)
+
+Throughout the life of every person, the debt to the gods, the debt to the Ṛṣis and the debt to the Pitṛs, which come with his very birth, remain a burden upon him.
+
+स यदेव ऋजेत । तेन देवेभ्य ऋणं जायते तद्धैभ्य एतत्करोति यदेभ्यो जुहोति ॥ (*sa yadeva ṛjeta | tena devebhya ṛṇaṃ jāyate taddhaibhya etatkaroti yadebhyo juhoti ‖*)
+(Śa. Brā. 1-7-2-2) **NOTE**
+
+Each person, in order to be freed from this debt, to take part also in the continuance of the universe, and to preserve his own existence, must perform the sacrifice, discharge the debt to the gods and be freed from that debt.
+
+जायमानो वै ब्राह्मणस्त्रिभिर्ऋणवा जायते ब्रह्मचर्येणर्षिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्य एष ना अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी ॥ (*jāyamāno vai brāhmaṇastribhirṛṇavā jāyate brahmacaryeṇarṣibhyo yajñena devebhyaḥ prajayā pitṛbhya eṣa nā anṛṇo yaḥ putrī yajvā brahmacārivāsī ‖*)
+(Tai. Saṃ. 6-3-11-5)
+
 ---
 
-**Progress note:** Done through printed p. 207. pp. 202-207 (batch API)
+**Progress note:** Done through printed p. 213. pp. 208-213 (batch API)
