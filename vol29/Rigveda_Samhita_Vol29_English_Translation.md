@@ -9916,6 +9916,126 @@ In these sentences the power of the four kinds of stomas that are to be recited 
 
 (Tai. Saṃ. 7-1-3) **GLOSS**
 
+### Printed p. 375
+
+Those who perform the sacrifice with the Agniṣṭoma are enjoined by the experts in the śāstra to perform it with all the stomas. In this injunction, if the trivṛt stoma is omitted, his chief vital breath itself disappears; therefore the sacrificer performs the sacrifice with the intention that this sacrifice may be included in his chief vital breath. In the same way, because if the pañcadaśa stoma is left out there is lack of strength, if the saptadaśa stoma is left out there is no offspring, if the ekaviṃśa stoma is left out the very support of his life falls away, if the triṇava stoma is left out the seasons and the powers of the constellations that exist for his benefit do not become helpers for his share, and if the trayastriṃśa stoma is left out there is no presence of the principal deity, the sacrificer therefore performs the sacrifice with the pañcadaśa stoma for acquiring strength, with the saptadaśa stoma for gaining offspring, with the ekaviṃśa stoma for the support of life, with the triṇava stoma for obtaining the benefit of the influences of the seasons and the constellations, and with the recitation of the trayastriṃśa stoma for the gain of the presence of his chief deity. The sacrificer who knows the greatness of the trivṛt stoma, which has obtained the first place among all the stomas, obtains the first place among sacrificers.
+
+In the same way, describing the greatness of the stomas beginning with the trivṛt that are to be recited in order on the six days in the Pṛṣṭha-ṣaḍaha sacrifice,
+
+त्रिवृदग्निष्टोमो भवति तेज एवावरुंधते 'पंचदशो भवतींद्रियमेवा. वरुंधते सप्तदशो भवत्यन्नादस्यावरुद्धा, अथो प्रैव तेन जायंत एकविग्‌ंशो भवति प्रतिष्ठित्या अथो रुचमेवात्मनधते त्रिणवो भवति विजित्यै त्रयस्त्रिग्‌ंशो भवति प्रतिष्ठित्यै ॥ (*trivṛdagniṣṭomo bhavati teja evāvaruṃdhate 'paṃcadaśo bhavatīṃdriyamevā. varuṃdhate saptadaśo bhavatyannādasyāvaruddhā, atho praiva tena jāyaṃta ekavigṃśo bhavati pratiṣṭhityā atho rucamevātmanadhate triṇavo bhavati vijityai trayastrigṃśo bhavati pratiṣṭhityai ‖*)
+
+it is also stated, as the benefits of reciting the stoma, that by the Agniṣṭoma joined with the trivṛt stoma one obtains radiance, by the pañcadaśa stoma vigour, by the saptadaśa stoma food, by the ekaviṃśa stoma support, by the triṇava stoma victory, and by the trayastriṃśa stoma greatness. In the Kaṭha Upaniṣad also,
+
+स्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा दृष्ट्वा धीरो नचिकेतोऽत्यस्राक्षीः ॥ (*stomamahadurugāyaṃ pratiṣṭhāṃ dṛṣṭvā dṛṣṭvā dhīro naciketo 'tyasrākṣīḥ ‖*)
+
+(Ka. U. 2-11) **NOTE**
+
+by this sentence the greatness of the stoma and the spiritual peace to be obtained from it are stated. In the Chāndogya Upaniṣad,
+
+येन च्छंदसा स्तोष्यन् स्यात्तच्छंद उपधावेद्येन स्तोमेन स्तोष्य माणः स्यात्तं स्तोममुपधावेत् ॥ (*yena cchaṃdasā stoṣyan syāttacchaṃda upadhāvedyena stomena stoṣya māṇaḥ syāttaṃ stomamupadhāvet ‖*)
+
+(Bhā. U. 8-3-10) **NOTE**
+
+### Printed p. 376
+
+by this sentence, describing the greatness of the udgītha, it is enjoined that a man should meditate resorting to that very stoma by which, in accordance with each occasion, the praiser's hymn of praise is complete.
+
+In the same way, in the present Ṛk also, by the word stomāḥ a hymn of praise of this kind, which is of the nature of song and gives exceedingly great benefit, is meant.
+
+Regarding the wedding of Sūryā, the commentator has cited here an old story from the Aitareya Brāhmaṇa. Formerly Prajāpati arranged a svayaṃvara in order to give his daughter Sūryā Devī in marriage to King Soma. At that time many gods came there with the wish to obtain that Sūryā. Then competition arose among them. To settle it among themselves they arranged a contest, decided that the winner should marry Sūryā, and did so. That is explained here at length—
+
+In order to explain the nature of the Āśvina-śastra mantras, the Aitareya Brāhmaṇa describes the wedding of Sūryā Devī as an introduction. For it is said that at the time of Sūryā Devī's wedding Prajāpati gave these mantras to his daughter as a wedding present; for that reason the wedding of Sūryā Devī is mentioned here—
+
+प्रजापतिर्वै सोमाय राज्ये दुहितरु प्रायच्छत्सूर्यां सावित्रीं तस्यै सर्वे देवा वरा आगच्छंस्तस्या एतत्सहस्रं वहतुमन्वाकरोद्यदेतदाश्विनमित्याचक्षतेऽनाश्विनं हैव तद्यदर्वाक्सहस्रं तस्मात्तत्सहस्रं हैव शंसेद्भूयो वा ॥ (*prajāpatirvai somāya rājye duhitaru prāyacchatsūryāṃ sāvitrīṃ tasyai sarve devā varā āgacchaṃstasyā etatsahasraṃ vahatumanvākarodyadetadāśvinamityācakṣate 'nāśvinaṃ haiva tadyadarvāksahasraṃ tasmāttatsahasraṃ haiva śaṃsedbhūyo vā ‖*)
+
+(Ai. Brā. 17-2)
+
+Formerly Prajāpati was ready to give in marriage the maiden named Sūryā, the daughter of Savitṛ, to the bridegroom named Soma. Although Sūryā is the daughter of the god Savitṛ, she is described here as Prajāpati's daughter out of excess of affection. Having learned of this marriage, all the other gods, desiring to marry that maiden, came and gathered near Prajāpati. Then Prajāpati made a decision in order to test the suitors. At a wedding, auspicious substances such as turmeric and jaggery are brought and placed for the adornment of the bride. As a token of that auspicious substance Prajāpati decided that whoever was to be the bridegroom must recite a thousand Ṛks. These Ṛks are called the Āśvinī-sahasra. One who wishes to be Sūryā Devī's bridegroom must recite all these thousand Ṛks by himself alone. Only one who can so recite may marry Sūryā. Prajāpati vowed in front of the gods that he would give Sūryā Devī in marriage only to him.
+
+### Printed p. 377
+
+These thousand Ṛks are called the Āśvina-śastra mantra. In it there must not be fewer Ṛks than a thousand; the number of a thousand must be there. If there are more, there is no harm; only there must not be fewer. Therefore, following this order, it is the custom even now in the sacrifice that the Hotṛ recites a thousand Ṛks.
+
+प्राश्य धृतं शंसेद्यथा ह वा इदमनो वा रथो वाक्तो वर्तत एवं हैवाक्तो वर्तते शकुनिरिवोत्पतिष्यन्नाह्वयीत ॥ (*prāśya dhṛtaṃ śaṃsedyathā ha vā idamano vā ratho vākto vartata evaṃ haivākto vartate śakunirivotpatiṣyannāhvayīta ‖*)
+
+(Ai. Brā. 17-2)
+
+As a preliminary to reciting these mantras the Hotṛ must partake of a little ghee. In ordinary practice it is the custom to put black-mixed oil into the hole of the wheels of a cart or chariot so that the wheels roll quickly without effort and without obstruction; by this the movement of the wheel becomes easy. In the same way it is said that ghee should be eaten so that the utterance of the mantras from the mouth may be easy. And just as the bird called śakuni sets the weight of its body on the heels of its feet and prepares to fly, in order to fly to a distant place, the Hotṛ who recites the mantra, too, near the fire, folding his knees, resting the weight of the body on the heels (with the toes touching the ground), and changing the body like the shape of a bird about to fly away, must begin to recite the Āśvina mantras. **NOTE** In this matter the sage Āśvalāyana has said—
+
+प्राश्य प्रतिप्रसृष्ट पश्चात्स्वस्य धिष्ट्यस्कोपविशेषमस्तजंघोरुरत्निद्यां जानुभ्यां चोपस्थं कृत्वा यथा शकुनिरुत्पतिष्यन्नु पस्थकृतस्त्वेवाश्विनं शंसेत् (*prāśya pratiprasṛṣṭa paścātsvasya dhiṣṭyaskopaviśeṣamastajaṃghoruratnidyāṃ jānubhyāṃ copasthaṃ kṛtvā yathā śakunirutpatiṣyannu pasthakṛtastvevāśvinaṃ śaṃset*)
+
+तस्मिन्देवा न समजानत ममेदमस्तु ममेदमस्ति ते संजानाना अब्रुवन्नाजिमस्यायामहै स यो न उज्जेष्यति तस्येवं भविष्यतीति तेऽग्नेरेवाधि गृहपतेरादित्यं काष्ठामकुर्वत तस्मादाग्नेया प्रतिपद्भवत्याश्विनस्याग्निर्होता गृहपतिः स राजेशि ॥ (*tasmindevā na samajānata mamedamastu mamedamasti te saṃjānānā abruvannājimasyāyāmahai sa yo na ujjeṣyati tasyevaṃ bhaviṣyatīti te 'gnerevādhi gṛhapaterādityaṃ kāṣṭhāmakurvata tasmādāgneyā pratipadbhavatyāśvinasyāgnirhotā gṛhapatiḥ sa rājeśi ‖*)
+
+While taking up (reciting) the thousand Ṛks given by Prajāpati, the gods, having no agreement among themselves, quarrelled with one another, saying "That is for me, this is for me", and as the dispute could not be settled, at last they thought it over among themselves and came to an agreement. It was decided that they should all arrange a contest and that the winners might obtain those Ṛks. It was settled that the contest was to start upward from that Gārhasatya fire and run to the Sun, and that whoever reached the appointed place first should be regarded as the winner. For this reason the Āśvina-śastra mantras begin with the mantras whose deity is Agni, अग्निर्होता गृहपतिः (*agnirhotā gṛhapatiḥ*) (Ṛ. Saṃ. 6-15-13).
+
+### Printed p. 378
+
+तद्भैक आहुरग्निं मन्ये पितरमग्निमापिमित्येतया प्रतिपद्येत दिवि शुक्रं यजतं सूर्यस्येति प्रथमयैव ऋचा काष्ठामाप्नोतीति तत्तन्नादृत्यं य एनं तत्र ब्रूयादग्निमिति वै प्रत्यपाद्यग्निमापत्स्यतीति शश्वत्तथा स्यात् ॥ (*tadbhaika āhuragniṃ manye pitaramagnimāpimityetayā pratipadyeta divi śukraṃ yajataṃ sūryasyeti prathamayaiva ṛcā kāṣṭhāmāpnotīti tattannādṛtyaṃ ya enaṃ tatra brūyādagnimiti vai pratyapādyagnimāpatsyatīti śaśvattathā syāt ‖*)
+
+(Ai. Brā. 17-2)
+
+In this matter some ritualists say that the Āśvina-śastra mantras should be begun with the Ṛk अग्निं मन्ये पितरमग्निमापिं (*agniṃ manye pitaramagnimāpiṃ*) (Ṛ. Saṃ. 10-7-3). But that is not right. In this very first Ṛk of the Āśvina-śastra mantra, in the fourth pāda, there is दिवि शुक्रं यजतं सूर्यस्य (*divi śukraṃ yajataṃ sūryasya*). For the name of the Sun, the final appointed place in the contest, to stand in the very first mantra is not right. It is not proper to say that the end has been reached before the contest has been started. Besides, the occurrence of the word Agni four times is also not right. When a deity is indicated, there should be a description of the personal qualities of that deity, and the direct naming of that deity should not be explicit. If any discerning man comes and curses, saying, "This Hotṛ is reciting the name of Agni four times in the very first Ṛk; because of this he will be burnt," then it does happen so.
+
+तस्मादग्निर्होता गृहपतिः स राजेत्येतयैव प्रतिपद्येत गृहपतिवती प्रजातिमती शांता सर्वायुः । सर्वायुत्वाय सर्वमायुरेति एवं वेद ॥ (*tasmādagnirhotā gṛhapatiḥ sa rājetyetayaiva pratipadyeta gṛhapativatī prajātimatī śāṃtā sarvāyuḥ | sarvāyutvāya sarvamāyureti evaṃ veda ‖*)
+
+(Ai. Brā. 17-2)
+
+Therefore the Hotṛ should begin the Āśvina-śastra mantras with the Ṛk अग्निर्होता गृहपतिः स राजा (*agnirhotā gṛhapatiḥ sa rājā*) itself. For at the beginning of this Ṛk there is the word gṛhapatiḥ. Therefore it is indicated that Agni is the master of the house, and likewise that by विश्वावेद जनिम (*viśvāveda janima*) in the second pāda, the statement of knowledge, which is of the nature of the birth of all beings, the sacrificer who performs the sacrifice, besides being provided with house, progeny, a peaceful environment and the like, will also live long. Therefore one who knows this matter also lives long.
+
+तासां वै देवतानामाजिं धावंतीनामभिसृष्टानामग्निर्मुखं प्रथमः प्रत्यपद्यत शमश्विनावन्वागच्छतां तमब्रूतामपोदिह्यावां वा इदं जेष्याव इति स तथेत्यब्रवीत्तस्य वै ममेहाप्यस्त्विति तथेति तस्मा अप्यत्राकुरुतां तस्मादाग्नेयमाश्विने शस्यते ॥ ( (*tāsāṃ vai devatānāmājiṃ dhāvaṃtīnāmabhisṛṣṭānāmagnirmukhaṃ prathamaḥ pratyapadyata śamaśvināvanvāgacchatāṃ tamabrūtāmapodihyāvāṃ vā idaṃ jeṣyāva iti sa tathetyabravīttasya vai mamehāpyastviti tatheti tasmā apyatrākurutāṃ tasmādāgneyamāśvine śasyate ‖ (*)
+
+(Ai. Brā. 17-8)
+
+After the contest had been settled, all the gods set out from near the Gārhapatya fire and began to run towards the Sun. As each was running along a path of his own, Agni
+
+### Printed p. 379
+
+himself, wishing to be ahead of all, was running on the straight path. The Aśvinī deities, who came running right behind this Agni, addressed Agni: "O Agni, wait a little, leave the way for us and step aside. We shall go quickly and win." Agni said, "Good, if I leave the way for you and help you to win, you must give me too a share in the śastra mantras that you win." The Aśvinī deities agreed, got the way cleared by Agni and went forward. For this reason there are many mantras addressed to Agni in the Āśvina-śastra mantras.
+
+ता उषसमन्वागच्छतां तामब्रूतामपोदिह्यावां वा इदं ज्येष्याव इति सा तथेत्यब्रवीत्तस्यै वै ममेहाप्यस्त्विति तथेति तस्या अप्यत्राकुरुतां तस्मादुषस्यमाश्विने शस्यते ॥ (*tā uṣasamanvāgacchatāṃ tāmabrūtāmapodihyāvāṃ vā idaṃ jyeṣyāva iti sā tathetyabravīttasyai vai mamehāpyastviti tatheti tasyā apyatrākurutāṃ tasmāduṣasyamāśvine śasyate ‖*)
+
+(Ai. Brā. 17.8)
+
+After going a little further, the goddess Uṣas was seen running in front of them. Then the Aśvinī deities addressed Uṣas: "O Uṣas, leave the way for us who are running and step aside." Uṣas said, "If you give me too a share in the Āśvina-śastra mantras that you win, I shall leave the way." The Aśvinī deities agreed, "So be it," and went forward. For this reason there are many mantras addressed to the goddess Uṣas in the Āśvina-śastra mantras.
+
+ताविंद्रमन्वागच्छतां तमब्रूतामावां वा इदं मघवाइष्टीष्याव इति न ह तं दधृषतुरपोदिहीति वक्तुं स तथेत्यब्रवीत्तस्य वै ममेहाप्यस्त्विति तथेति तस्मा अप्यत्राकुरुतां तस्मादैंद्रमाश्विने शस्यते ॥ (*tāviṃdramanvāgacchatāṃ tamabrūtāmāvāṃ vā idaṃ maghavāiṣṭīṣyāva iti na ha taṃ dadhṛṣaturapodihīti vaktuṃ sa tathetyabravīttasya vai mamehāpyastviti tatheti tasmā apyatrākurutāṃ tasmādaiṃdramāśvine śasyate ‖*)
+
+(Ai. Brā. 17-8)
+
+After going a little further they saw Indra in front of them. But since Indra is the lord of the gods, they did not have the courage to say to him, as they had said to the other gods, "move away" or "step aside". So they addressed Indra humbly: "O Indra, we wish to win this contest. If you step aside and make way for us, it will be help to us." Indra answered, "If you give me too a share in the Āśvina mantras that you win, I shall agree to your word." The Aśvinī deities consented. For this reason there are also mantras praising Indra in the Āśvina-śastra mantras.
+
+तदश्विना उदजयतामश्विनावाशुर्वतां यदश्विना उदजयतामश्विनावाशुर्वतां तस्मादेतदाश्विनमित्याचक्षते अश्नते यदत्कामयते य एवं वेद ॥ (*tadaśvinā udajayatāmaśvināvāśurvatāṃ yadaśvinā udajayatāmaśvināvāśurvatāṃ tasmādetadāśvinamityācakṣate aśnate yadatkāmayate ya evaṃ veda ‖*)
+
+(Ai. Brā. 17.8)
+
+Thereafter the Aśvinī deities, running ahead, reached the Sun, the final appointed place, without any kind of difficulty. Thus it was as though these Aśvinī deities themselves
+
+### Printed p. 380
+
+had won this contest. Because the Aśvinī deities won these mantras in the contest, these mantras came to be called the Āśvina-śastra mantras. The man who knows this detail obtains the desired objects he wants and enjoys happiness.
+
+तदाहुर्यच्छस्यत आग्नेयं शस्यत उषस्यु शस्यत ऐंद्रमथ कस्मादेतदाश्विनमित्याचक्षत इत्यश्विन् हि तदुदजयतामश्विनावाश्नुवतां यदश्विना उदजयतामश्विनावाश्नुवतां तस्मादेतदाश्विनमित्याचक्षते अश्नुते यद्यत्कामयते य एवं वेद ॥ (*tadāhuryacchasyata āgneyaṃ śasyata uṣasyu śasyata aiṃdramatha kasmādetadāśvinamityācakṣata ityaśvin hi tadudajayatāmaśvināvāśnuvatāṃ yadaśvinā udajayatāmaśvināvāśnuvatāṃ tasmādetadāśvinamityācakṣate aśnute yadyatkāmayate ya evaṃ veda ‖*)
+
+(Ai. Brā. 17-8)
+
+Some raise this objection: although Agni, the goddess Uṣas, Indra and the Aśvinī deities are all praised in these Āśvina mantras, why, leaving out Agni and the others, are these mantras given the name Āśvina, after the Aśvinī deities? Is this proper? It is not so. Although Agni, Uṣas and Indra all took part in the contest and ran, Agni and the others did not run, according to the words of the Aśvinī deities, as far as the appointed place, the Sun. They stopped in the middle. Only the Aśvinī deities ran all the way up to the Sun and won the contest. Therefore it is natural to call those mantras Āśvina mantras. The man who knows this matter obtains his desired objects and enjoys happiness.
+
+अश्वतरीरथेनाग्निराजिमधावत्तासां प्राजमानो योनिमकूलयत्तस्मात्ता न विजायंते ॥ (*aśvatarīrathenāgnirājimadhāvattāsāṃ prājamāno yonimakūlayattasmāttā na vijāyaṃte ‖*)
+
+(Ai. Brā. 17-9)
+
+A little more detail will be given about which gods took part in this contest, running, and which horses each yoked to his chariot. When he took part in the contest, Agni yoked mules to his chariot and came seated in it. While driving the chariot Agni urged the mules on and drove them swiftly, and so their womb and uterus were burnt. Therefore mules do not conceive and bear young.
+
+गोभिररुणैरुषा आजिमधावत्तस्मादुषस्यागतायामरुणमिवैन प्रभात्युषसो रूपं ॥ (*gobhiraruṇairuṣā ājimadhāvattasmāduṣasyāgatāyāmaruṇamivaina prabhātyuṣaso rūpaṃ ‖*)
+
+(Ai. Brā. 12-9) **NOTE**
+
+Because the goddess Uṣas took part in the contest with slightly red bulls yoked to her chariot, at the end of night, that is at dawn, when the goddess Uṣas appears, a red hue is seen in the eastern quarter. This is the form of Uṣas.
+
+अश्वरथेनेंद्र आजिमधावत्तस्मात्स उच्चैर्घोस उपबिमान् क्षत्रस्य रूप. मैंद्रो हि सः ॥ (*aśvaratheneṃdra ājimadhāvattasmātsa uccairghosa upabimān kṣatrasya rūpa. maiṃdro hi saḥ ‖*)
+
+(Ai. Brā. 17-9) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 374. Rk 8, bhashya, special topics (stomas, vishtutis, Tai. Sam.)
+**Progress note:** Done through printed p. 380. Special topics: stomas, Ashvina-shastra, Surya's wedding contest (Ai. Bra. 17)
