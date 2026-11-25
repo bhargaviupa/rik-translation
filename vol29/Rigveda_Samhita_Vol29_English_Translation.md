@@ -15584,6 +15584,122 @@ impelled by the gods, brought the fire Vaiśvānara from Āditya, who is in a ve
 
 The terrestrial fire is praised in many contexts as if it possessed the distinctive qualities of other particular deities such as Sūrya. On this subject the author of the Nirukta has given two Ṛks as examples: for the whole animal kingdom fire is absolutely necessary in order to live. Without fire (the heat in the body, which is called the fire Vaiśvānara) it is not possible to live. Such a fire (the fire in the form of Sūrya), at night, for the world containing all living beings
 
+### Printed p. 538
+
+shines as the lord. In the morning that same fire rises in the form of Sūrya. The gods are able to know the extraordinary power and capacity of such a fire, that is, that by day in the form of Sūrya and by night in the form of fire it performs its duty. Here it is said that the fire is the lord of the night. To express the meaning "lord", the word मूर्धा (*mūrdhā*) is used in this Ṛk. How the meaning "lord" came to this word is this: among the several limbs of the body the head (mūrdhā or śiras) is the chief. There is the saying सर्वस्य गात्रस्य शिरः प्रधानं (*sarvasya gātrasya śiraḥ pradhānaṃ*). Therefore the use of the word मूर्धा (*mūrdhā*) here indicates the meaning "lord". This fire is the lord of all living beings at night; that is, the idea is that in the night, when there is no heat of Sūrya, the fire provides heat and light to living beings and performs the duty of Sūrya. In the morning this same fire rises as Sūrya and protects living beings. Seers and others who perform sacrifices are able to know such powers and capacities of the gods. The idea is that the fire has the power to move swiftly in all regions in order to do this duty. In this Ṛk it is said that the fire performs the duty of Sūrya. It is to be understood that this is a praise of the extraordinary quality of the fire, and that this Ṛk does not indicate that the fire is Āditya, or that the fire has the powers and capacities of other deities.
+
+तस्योत्तरा भूयसे निर्वचनाय । (*tasyottarā bhūyase nirvacanāya |*)
+
+स्तोमेन हि दिवि देवासो अग्निमजीजनङ्क्तिभी रोदसिप्रां । तमू अकृण्वन्त्रेधा भुवे कं स ओषधीः पचति विश्वरूपाः ॥ (*stomena hi divi devāso agnimajījanaṅktibhī rodasiprāṃ | tamū akṛṇvantredhā bhuve kaṃ sa oṣadhīḥ pacati viśvarūpāḥ ‖*) (Ṛ. Saṃ. 10-88-10)
+
+स्तोमेन हि यं दिवि देवा अग्निमजनयञ्क्तिभिः कर्मभिर्दार्वाण्यथिव्योः पूरणं तमकुर्वंस्त्रेधाभावाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः यदस्य दिवि तृतीयं तदसावादित्य इति हि ब्राह्मणं तदंगीकृत्य स्तौति. (*stomena hi yaṃ divi devā agnimajanayañktibhiḥ karmabhirdārvāṇyathivyoḥ pūraṇaṃ tamakurvaṃstredhābhāvāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ yadasya divi tṛtīyaṃ tadasāvāditya iti hi brāhmaṇaṃ tadaṃgīkṛtya stauti.*) (Ni. 7-28)
+
+The gods produced Agni in heaven by praise. That Agni, by his powers and capacities, filled heaven and earth and shone. Then those gods made that Agni threefold in form. That Agni ripens all plants (herbs); that is, he makes them grow and increase.
+
+The Agni whom the gods, having produced him in heaven by stoma (praise)
+
+### Printed p. 539
+
+and established there, that Agni by his powers and capacities pervaded heaven and earth. That is, the teacher named Śākapūṇi says that the gods produced Agni so that he might be in the three places, earth, sky and heaven. On this point there is also the Brāhmaṇa sentence यदस्य दिवि तृतीयं तदसावादित्यः (*yadasya divi tṛtīyaṃ tadasāvādityaḥ*): the third form of Agni which shines in heaven is this very Āditya who is seen by our eyes. Accepting this very view, the seer praises Agni in the next Ṛk.
+
+अथैनमेतयादित्यीकृत्य स्तौति । (*athainametayādityīkṛtya stauti |*)
+
+यदेदेनमदधुर्यज्जियासो दिवि देवाः सूर्यमादितेयमदितेयं । यदा चरिष्णू मिथुनावभूतामादित प्रापश्यन् भुवनानि विश्वा ॥ (*yadedenamadadhuryajjiyāso divi devāḥ sūryamāditeyamaditeyaṃ | yadā cariṣṇū mithunāvabhūtāmādita prāpaśyan bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 10-88-11)
+
+यदैनमदधुर्यज्ञियाः सर्वे दिवि देवाः सूर्यमादितेयमदितेः पुत्रं यदा चरिष्यू मिथुनौ प्रादुरभूतां सर्वदा सहचारिणावुषाश्चादित्यश्च । मिथुनौ कस्मान्मिनोतिः श्रयतिकर्मा, थु इति नामकरणस्थकारो वा नयतिः परो, वनिर्वा, समाश्रितावन्योन्यं नयतो, वनुतो वा, मनुष्यमिथुनावप्यैतस्मादेव, मेधंतावन्योन्यं वनुत इति वा. (*yadainamadadhuryajñiyāḥ sarve divi devāḥ sūryamāditeyamaditeḥ putraṃ yadā cariṣyū mithunau prādurabhūtāṃ sarvadā sahacāriṇāvuṣāścādityaśca | mithunau kasmānminotiḥ śrayatikarmā, thu iti nāmakaraṇasthakāro vā nayatiḥ paro, vanirvā, samāśritāvanyonyaṃ nayato, vanuto vā, manuṣyamithunāvapyaitasmādeva, medhaṃtāvanyonyaṃ vanuta iti vā.*) (Ni. 72-9) **NOTE**
+
+Accepting the view that this very Agni is Āditya, the seer praises with this Ṛk. When the gods worthy of sacrifice established in heaven Sūrya, the son of Aditi, and when these twin deities (Uṣas and Āditya) were created and began to move together, then they saw all the living beings of the world.
+
+When the gods worthy of sacrifice, that is, the gods who are praised in sacrifices and the like, established in heaven Āditya (Sūrya), the son of Aditi, and when the two who are twinned, that is, who are always together (the two, Uṣas and Āditya), were created, from that time these two deities, Uṣas and Āditya, moving always together, became able to see the whole animal kingdom in the world.
+
+Here the etymology of the word mithuna is stated. The word mithuna is formed from the root मिनोति (*minoti*) with the sense of resorting (the meaning "to resort"). Namely, the root mi in the word mithuna has the meaning "to resort". थु (*thu*), or the letter tha, is the affix. The last letter na, formed from the root नयति (*nayati*) (the root nayati is the latter part), indicates the meaning of leading another
+
+### Printed p. 540
+
+that is, of carrying. That is, the word mithuna means that one resorts to the other mutually and they are together. समाश्रिता अन्नोन्यं प्रति आत्मानं नयतः कालं वा समाश्रिता भवतः परस्परं (*samāśritā annonyaṃ prati ātmānaṃ nayataḥ kālaṃ vā samāśritā bhavataḥ parasparaṃ*) **NOTE**: that is, the word मिथुनौ (*mithunau*) indicates the meaning that two resort to each other mutually, or, in the matter of time, that after one time another time comes (night, day and so on). In the case of human beings too the word mithuna has the meaning of two persons who resort to each other or who pass their time together in mutual company.
+
+अथैनमेतयाग्नीकृत्य स्तौति । (*athainametayāgnīkṛtya stauti |*)
+
+यत्रा वदेते अवरः परश्च यज्ञन्योः कतरो नौ वि वेद । आ शेकुरित्सधमादं सखायो नक्षंत यज्ञं क इदं वि वोचत् ॥ (*yatrā vadete avaraḥ paraśca yajñanyoḥ kataro nau vi veda | ā śekuritsadhamādaṃ sakhāyo nakṣaṃta yajñaṃ ka idaṃ vi vocat ‖*) (Ṛ. Saṃ. 10-88-17)
+
+यत्र विवदेते देव्यौ होतारावयं चाग्निरसौ च मध्यमः कतरो नौ यज्ञे भूयो वेदेत्याशक्कुवंति सत्सहमदनं समानख्याना ऋत्विजस्तेषां यज्ञं समश्नुवानानां को न इदं विवक्ष्यतीति ॥ (*yatra vivadete devyau hotārāvayaṃ cāgnirasau ca madhyamaḥ kataro nau yajñe bhūyo vedetyāśakkuvaṃti satsahamadanaṃ samānakhyānā ṛtvijasteṣāṃ yajñaṃ samaśnuvānānāṃ ko na idaṃ vivakṣyatīti ‖*) (3. 7-30) **NOTE**
+
+The seer has praised with this Ṛk, accepting this fire Vaiśvānara as the terrestrial fire. Of the lower and the upper fires, who know the matter of the sacrifice, which knows more? Who is able to decide this matter? The priests and others who bear equal shares in the sacrifice are able to decide it.
+
+दैव्या होतारौ (*daivyā hotārau*) means the Hotṛs who are of the nature of gods, the fire named Hotṛ who invokes the gods in the sacrifice. Since the word होतारौ (*hotārau*) here is in the dual, the two deities are the terrestrial fire (the sacrificial fire) established on the earth and the wind or lightning fire in the middle region. Since both of these are only forms of fire, they are addressed by the dual word होतारौ (*hotārau*). अवरः परश्च (*avaraḥ paraśca*) means the lower and the upper. By "lower" is to be understood the terrestrial fire in the place of the earth, and by परः (*paraḥ*) the fire (lightning) in the middle region. Which of these two has more knowledge? Among the priests who bear equal shares, that is, the chief parts, in rites such as sacrifices and who know the matter of the sacrifice well, which priest is able to decide this matter?
+
+तस्योत्तरा भूयसे निर्वचनाय । (*tasyottarā bhūyase nirvacanāya |*)
+
+यावन्मात्रमुषसो न प्रतीकं सुपूर्णोऽवसते मातरिश्वः । (*yāvanmātramuṣaso na pratīkaṃ supūrṇo 'vasate mātariśvaḥ |*)
+
+### Printed p. 541
+
+तावद्धधात्युप यज्ञमायान्ब्राह्मणो होतुरवरो निषीदन् ॥ (*tāvaddhadhātyupa yajñamāyānbrāhmaṇo hoturavaro niṣīdan ‖*) (Ṛ. Saṃ. 10-88-19)
+
+यावन्मात्रमुषसः प्रत्यक्तं भवति प्रतिदर्शनमिति वास्तु समानस्य संप्रत्यर्थे प्रयोग इहेव निधेहीति यथा सुपर्ण्यः सुपतना एता रात्रयो वसते मातरिश्वन् ज्योतिर्वर्णस्य तावदुपदधाति याज्ञमागच्छन् ब्राह्मणो होतास्याग्नेर्होतुरवरो निषीदन् ॥ (*yāvanmātramuṣasaḥ pratyaktaṃ bhavati pratidarśanamiti vāstu samānasya saṃpratyarthe prayoga iheva nidhehīti yathā suparṇyaḥ supatanā etā rātrayo vasate mātariśvan jyotirvarṇasya tāvadupadadhāti yājñamāgacchan brāhmaṇo hotāsyāgnerhoturavaro niṣīdan ‖*) (Ni. 7-31)
+
+On this subject another Ṛk has been given as an example. In the preceding Ṛk Agni and Vāyu were praised. In this Ṛk Agni alone is praised. Mātariśvan (the wind), addressing a man, asked: can the Brāhmaṇa, the human Hotṛ taking part in the sacrifice, hold the knowledge (the understanding in the performance of the sacrifice) **NOTE** that Agni, the Hotṛ of the gods, has, that is, can he know it? To this that man gave the following reply.
+
+O Mātariśvan, as long as (for how long) the birds of excellent wings hold the dawn, so long the Brāhmaṇa, the human Hotṛ, seated near on the sacrificial altar, in a place lower than Agni, holds it (that is, by the favour of Agni he knows a little).
+
+The word न (*na*) in this Ṛk does not have the sense of comparison. It has the sense of "now" (samprati). It is to be understood as in the sentence इहैव निधेहि (*ihaiva nidhehi*), where, although the word iha means "here", the sentence means "place it right now". Therefore the sentence यावन्मात्रमुषसो न प्रतीकं (*yāvanmātramuṣaso na pratīkaṃ*) means: for as long, that is, for how long (only a short time), as the dawn-time at the end of the night extends, so long only. The sentence सुपर्ण्यः सुपतना एता रात्रयो वसते मातरिश्वन (*suparṇyaḥ supatanā etā rātrayo vasate mātariśvana*) means: O Mātariśvan, birds of excellent wings, flying, hold the dawn-time. That is, here birds means nights. The word सुपर्ण्य (*suparṇya*), which indicates this, means manifold wings; it indicates the manifold (excellent) colours of the dawn-time. Therefore सुपर्ण्यः (*suparṇyaḥ*) means that when at the end of the night the dawn rises, that dawn has manifold or charming colours: this is the idea. The measure of this dawn-time is very small. Since the sun rises very quickly after the dawn-time, the idea is that the dawn-time is very small in measure, only for a very short time. The human Hotṛ is lower than the Agni who is the Hotṛ of the gods. Therefore the Brāhmaṇa, the human Hotṛ, seated on the sacrificial altar in a place lower than the Agni there established, for a very short time only, by the favour of Agni, who is of special wisdom,
+
+### Printed p. 542
+
+performs the work of the Hotṛ: this is the chief meaning. By this the smallness of man and the greatness of Agni are made evident. Since it is said in this Ṛk that the Brāhmaṇa, the human Hotṛ, seated on the sacrificial altar, performs the work of the Hotṛ while praising Agni, the Hotṛ of the gods, it is clearly shown that here by the fire Vaiśvānara the terrestrial fire is praised, and not Āditya.
+
+होतृजपस्त्वनग्निर्वैश्वानरियो भवति देव सवितरेतं त्वा वृणतेऽग्निं होत्राय सह पित्रा वैश्वानरेणेतीममेवाग्निं सवितारमाह सर्वस्य प्रसवितारं मध्यमं वोत्तमं ना पितरं ॥ यस्तु सूक्तं भजते यस्यै हविर्निरुप्यतेऽयमेव सोऽग्निर्वैश्वानरः । निपातमेवैते उत्तरे ज्योतिषी एतेन नामधेयेन भजेते भजेते ॥ (*hotṛjapastvanagnirvaiśvānariyo bhavati deva savitaretaṃ tvā vṛṇate 'gniṃ hotrāya saha pitrā vaiśvānareṇetīmamevāgniṃ savitāramāha sarvasya prasavitāraṃ madhyamaṃ vottamaṃ nā pitaraṃ ‖ yastu sūktaṃ bhajate yasyai havirnirupyate 'yameva so 'gnirvaiśvānaraḥ | nipātamevaite uttare jyotiṣī etena nāmadheyena bhajete bhajete ‖*) (Ni. 7-31)
+
+The muttered mantras and the like that the Hotṛ recites in a sacrifice praise Vaiśvānara by addressing him, not Agni. The mantra mutter is देवसवितरेतु त्वा वृणतेऽग्निं होत्राय सह पित्रा वैश्वानरेण (*devasavitaretu tvā vṛṇate 'gniṃ hotrāya saha pitrā vaiśvānareṇa*). The sentence "O shining god Savitṛ, the Hotṛ has chosen you, that is, Agni, together with your father Vaiśvānara, for the recitation of praise" needs explanation. Here the seer has called Agni Savitṛ. Here Savitṛ (the word Savitṛ) means the producer of all things (or of living beings). It is in this sense that the word is used here. He has addressed as father the wind, who is of the middle region, or Āditya, who is of the upper (heaven) region.
+
+The Vaiśvānara for whom the oblation is offered, the god praised in the sūkta (the deity to whom the oblation is offered), is this terrestrial fire.
+
+As is said in the sentences सूर्यो वैश्वानरः । अग्निर्वैश्वानरः । (*sūryo vaiśvānaraḥ | agnirvaiśvānaraḥ |*) and the like, the light in the middle region in the form of lightning and the light in the region of heaven in the form of Āditya, these two lights, are referred to by one and the same name, Vaiśvānara; that is, the chief meaning is that the terrestrial fire, which is referred to by the word Vaiśvānara, shines in three forms: in heaven in the form of Āditya, in the sky in the form of lightning, and on the earth in the form of the terrestrial fire.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हविष्वांतमित्येकोनविंशत्यृचं सूक्तं चतुर्थं त्रैष्टुभं ! मूर्धन्वानृषिः।
+> स जांगिरसो वामदेव्यो ना । सूर्यो वैश्वानरगुणकोऽग्निश्च समुदितो
+
+### Printed p. 543
+
+> देवता । तथा चानुक्रांतं । हविरेकोनांगिरसो मूर्धन्वान्वामदेवो वा
+> सौर्यवैश्वानरीयमिति ॥ व्यूढस्य दशरात्रस्य पंचमेऽहन्याग्निमारुत एतद्वैश्वानरीयनिविद्धानं । सूत्रितं च । हविष्कांतमग्निर्होता गृहपतिः स राजा ।
+> आ. ८-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the sūkta beginning हविष्वांतं (*haviṣvāṃtaṃ*) has nineteen Ṛks and is the fourth sūkta; it is in the Triṣṭubh metre; the seer is Mūrdhanvān, an Āṅgirasa or a Vāmadeva **NOTE**; the deity is Sūrya and the Agni who has the quality of Vaiśvānara, together. He cites the Anukramaṇī to the same effect. On the fifth day of the vyūḍha daśarātra, at the Āgnimāruta śastra, this is the nivid-dhāna sūkta addressed to Vaiśvānara, and it is prescribed by the sūtra of the Āśvalāyana Śrauta Sūtra (Ā. 8-8).
+
+##### Anuvāda
+
+This sūkta हविष्वांतं (*haviṣvāṃtaṃ*) is the fourth sūkta in the seventh Anuvāka. It has nineteen Ṛks. The seer of this sūkta is one called Mūrdhanvān. This seer belongs to the Aṅgirasa gotra or the Vāmadeva gotra. The deity of this sūkta is Sūrya and the Agni endowed with the qualities of Vaiśvānara, together. The metre is Triṣṭubh. In the Anukramaṇī it is said हविरेकोनांगिरसो मूर्धन्वान्नामदेव्यो ना सौर्यवैश्वानरीयं (*havirekonāṃgiraso mūrdhanvānnāmadevyo nā sauryavaiśvānarīyaṃ*). On the fifth day of the sacrifice called vyūḍha daśarātra, at the time of reciting the Āgnimāruta śastra mantras, this sūkta is to be recited as the nivid-dhāna sūkta addressed to Vaiśvānara; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra हविष्वांतमग्निर्होता गृहपतिः स राजा (*haviṣvāṃtamagnirhotā gṛhapatiḥ sa rājā*) (Ā. 8-8).
+
+**NOTE**
+
+Maṇḍala 10; Anuvāka 7; Sūkta 88. Aṣṭaka 8; Adhyāya 4; Vargas 10, 11, 12, 13. Number of Ṛks in the sūkta: 19. Seer: मूर्धन्वानांगिरसो वामदेव्यो वा (*mūrdhanvānāṃgiraso vāmadevyo vā*). Deity: सूर्यवैश्वानरा (*sūryavaiśvānarā*). Metre: त्रिष्टुप् (*triṣṭup*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒विष्वांत॑म॒जरं॑ स्व॒र्विदि॑ दिवि॒स्पृश्याहु॑तं॒ जुष्ट॑म॒ग्नौ ।  
+> तस्य॒ भर्म॑णे॒ भुव॑नाय दे॒वा धर्म॑णे॒ कं स्व॒धया॑ पप्रथंत॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हविः । पांतं । अजरं । स्वःविदि । दिविस्पृशि । आहुतं । जुष्टं । अग्नौ ।  
+> शस्य । भर्मणे । भुवनाय । देवाः । धर्मणे । कं । स्वधया । पप्रथंत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पांतं पानीयं सोमात्मकमजरं जरारहितं जुष्टं देवानां प्रियं
+> यद्धविः स्वर्विदि सूर्यस्य वेदितरि दिविस्पृशिदिवि स्पष्टर्याग्नावाहुतमभिहुतं तस्य
+
+##### Gist of the bhāṣya
+
+The oblation (havis) that is fit for drinking (pāntam), of the nature of Soma, ageless, that is, free from old age, and dear to the gods, is offered in the fire, which knows Sūrya (svarvid) and touches heaven (divispṛś); and the gods, for the bearing of that oblation
+
 ---
 
-**Progress note:** Done through printed p. 537. Mandala 10 sukta 88 introduction: Sakapuni view, Nirukta 7-23 to 7-27
+**Progress note:** Done through printed p. 543. Mandala 10 sukta 88: Sakapuni view end, sukta introduction, Rk 1 start
