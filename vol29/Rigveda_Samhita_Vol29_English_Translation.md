@@ -25317,6 +25317,180 @@ In this Ṛk it is considered what the substances serving the sacrifice, such as
 
 देवा यद्यज्ञं तन्वाना अबध्नन् पुरुषं पशुं (*devā yadyajñaṃ tanvānā abadhnan puruṣaṃ paśuṃ*)—In a sacrifice the animal is a very important requisite. It is needed when the animal oblation is made. Without an animal there is no sacrifice; that is, the sacrifice is not possible. Therefore there is an injunction that, even before the churning of the fire, the sacrificial animal must be brought and bound to the sacrificial post planted in the altar. Therefore, when the gods performed the mental sacrifice, they conceived the Virāṭ Puruṣa himself as the animal and bound him to the sacrificial post; the meaning is that they conceived it as if they had bound him.
 
+### Printed p. 935
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञेन॑ य॒ज्ञम॑यजंत दे॒वास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन् ।  
+> ते ह॒ नाकं॑ महि॒मानः॑ सचंत॒ यत्र॒ पूर्वे॑ सा॒ध्याः संति॑  ॒
+> देवाः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञेन । यज्ञं । आयजंत । देवाः । तानि । धर्माणि । प्रथमानि । आसन् ॥  
+> ते । ह । नाकं । महिमानः । सचंत । यत्र । पूर्वे । साध्याः । संति । देवाः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वं प्रपंचेनोक्तमर्थं संक्षिप्यात्र दर्शयति । देवाः प्रजापतिप्राणरूपा यज्ञेन यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं
+> प्रजापतिमयजंत । पूजितवंतः । तस्मात्तू जनात्तानि प्रसिद्धानि धर्माणि जगद्रूपविकाराणां धारकाणि प्रथमानि मुख्यान्यासन् । एतावता सृष्टि प्रतिपादकसूक्तभागार्थः
+> संगृहीतः । अथोपासनतत्फलानुवादकभागार्थः संगृह्यते । यत्र यस्मिन्विराट्प्राप्तिरूपे नाके पूर्वे साध्याः पुरातना विराडुपास्तिसाधका देवाः संति तिष्ठंति
+> तन्नाकं विराट् प्राप्तिरूपं स्वर्गं ते महिमानस्तदुपासका महात्मानः सचंत ।
+> समवयंति । प्राप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that here he sums up in brief the meaning set out earlier at length. The gods, in the form of the vital breaths of Prajāpati, worshipped Prajāpati, who is the sacrifice and has the nature of the sacrifice described, by the sacrifice, that is, by the mental resolve described above. From that worship those well-known dharmas, which are the supporters of the transformations of the form of the world, became the first, that is, the principal ones. With this the meaning of the portion of the sūkta that sets forth creation is gathered up. Next the meaning of the portion that restates the worship and its fruit is gathered up. The heaven, which consists in the attainment of Virāṭ, and in which the ancient Sādhyas, the gods who accomplish the worship of Virāṭ, abide, that heaven those great-souled worshippers of him attain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवा (*devā*)—the gods
+- यज्ञेन (*yajñena*)—by the sacrifice consisting of a mental resolve
+- यज्ञं (*yajñaṃ*)—Prajāpati, who is of the form of the sacrifice
+- आयजंत (*āyajaṃta*)—worshipped
+- तानि (*tāni*)—those very kinds of sacrifice
+- प्रथमानि धर्माणि (*prathamāni dharmāṇi*)—as the principal dharmas
+- आसन् (*āsan*)—became well known
+- यत्र (*yatra*)—in which heaven
+- पूर्वी (*pūrvī*)—ancient
+- देवाः (*devāḥ*)—the gods
+- साध्याः (*sādhyāḥ*)—and the Sādhyas
+- संति (*saṃti*)—are
+- नाकं (*nākaṃ*)—that heaven
+- ते महिमानः (*te mahimānaḥ*)—the great ones who worship the Virāṭ Puruṣa
+- सचंते (*sacaṃte*)—obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The gods worshipped Prajāpati, who is of the form of the sacrifice, by the sacrifice consisting of a mental resolve. Those kinds of sacrifice became famous as the principal dharmas. The great ones who worship the Virāṭ Puruṣa attain the heaven in which the ancient gods and the Sādhyas dwell.
+
+### Printed p. 936
+
+##### English translation
+By sacrifice the gods worshipped (him who is also) the sacrifice ; those were the first duties. Those great ones became partakers of the heaven where the ancient deities Sadhyas abide.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of the churning of the fire this Ṛk beginning यज्ञेन यज्ञं (*yajñena yajñaṃ*) is to be used as the concluding mantra; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra यज्ञेन यज्ञमयजंत देवा इति परिदध्यात् (*yajñena yajñamayajaṃta devā iti paridadhyāt*) (Ā. 2-16).
+
+This is a mantra that praises the fruit of the sacrifice. It is praised in ते ह नाकं महिमानः सचंत (*te ha nākaṃ mahimānaḥ sacaṃta*) that the fruit of the excellent sacrifice is the attainment of the best heaven.
+
+नाकं (*nākaṃ*)—the world of heaven; नास्मिन्न कमस्तीति नाकः स्वर्गः (*nāsminna kamastīti nākaḥ svargaḥ*): because there is no sorrow in it, heaven is well known by the name nāka. The word nāka is used in the Ṛk-saṃhitā in different senses; the word is used in the senses of sacrifice, heaven, the sun and so on. The author of the Nirukta, including this word among the six common names and explaining their meaning as common, has also stated that they are synonyms common to the world of heaven and to the sun: साधारणान्न्युत्तराणि षट् दिवश्चादित्यस्य च (*sādhāraṇānnyuttarāṇi ṣaṭ divaścādityasya ca*) (Ni. 2-13). Then, giving the derivation of this word:
+
+नाक आदित्यो भवति नेता रसानां । नेता भासां ज्योतिषां प्रणयः । (*nāka ādityo bhavati netā rasānāṃ | netā bhāsāṃ jyotiṣāṃ praṇayaḥ |*) (Ni. 2-14)
+
+Having shown that this word is a synonym of the sun, who is the bearer of the sap and the bearer of radiance, being called nāka, he then says:
+
+अथ द्यौः । कमिति सुखनाम तत्प्रतिषिद्धं प्रतिषिध्येत । (*atha dyauḥ | kamiti sukhanāma tatpratiṣiddhaṃ pratiṣidhyeta |*) (Ni. 2-14)
+
+Explaining that ka is a synonym for happiness, that what is without happiness is aka, and that what is without the absence of that, that is, without the absence of happiness, is free from sorrow, he quotes the sentence
+
+न वा अमुं लोकं जग्मुषे किंच नाकं । (*na vā amuṃ lokaṃ jagmuṣe kiṃca nākaṃ |*) (Kāṭhaka. Saṃ. 212) **NOTE**
+
+and then
+
+न वा अमुं लोकं गतवते किंच नासुखं पुण्यकृतो ह्येव तत्र गच्छंति । (*na vā amuṃ lokaṃ gatavate kiṃca nāsukhaṃ puṇyakṛto hyeva tatra gacchaṃti |*)
+
+There is no sorrow at all for those who have gone to that world. Only the virtuous enter that world
+
+### Printed p. 937
+
+and thus makes known the meaning of the word nāka. In the Ṛk-saṃhitā this word is used in some places as a synonym of the sun and in some places as a synonym of heaven.
+
+तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरुक्तुभिर्हितं । (*tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiruktubhirhitaṃ |*) (Ṛ. Saṃ. 1.34-8) **GLOSS**
+
+ये नाकस्याधि रोचने दिवि देवास आसते । मरुद्भिरग्न आ गहि ॥ (*ye nākasyādhi rocane divi devāsa āsate | marudbhiragna ā gahi ‖*) (Ṛ. Saṃ. 1.19-6) **GLOSS**
+
+In Ṛks such as these the word nāka is explained as the sun.
+
+तेऽवर्धंत स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः । विष्णुर्यद्धावद्वृषणं मदच्युतं वयो न सीदन्नधि बर्हिषि प्रिये ॥ (*te 'vardhaṃta svatavaso mahitvanā nākaṃ tasthururu cakrire sadaḥ | viṣṇuryaddhāvadvṛṣaṇaṃ madacyutaṃ vayo na sīdannadhi barhiṣi priye ‖*) (Ṛ. Saṃ. 1-85-7) **GLOSS**
+
+In Ṛks such as these the word nāka is explained as heaven.
+
+वृषैव कपिलो भूत्वा यन्नाकमधिरोहति (*vṛṣaiva kapilo bhūtvā yannākamadhirohati*) (Bṛ. De. 2-66) **GLOSS**
+
+In this passage of the Bṛhaddevatā it is said to be antakṣa. **NOTE**
+
+इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकं । (*ito 'sāvādityo dvāviṃśena paramādityājjayati tannākaṃ tadviśokaṃ |*) (Bhā. U. 2-10-5) **NOTE**
+
+In this passage of the Chāndogya Upaniṣad it is said that the world of heaven, free from sorrow, is beyond the world of the Āditya.
+
+In the Śatapatha Brāhmaṇa and also in the Taittirīya Upaniṣad the name Nāka is well known for Maudgalya, the son of Mudgala, who knew Brahma. It means one who is free from sorrow.
+
+In the words यज्ञेन यज्ञमयजंत (*yajñena yajñamayajaṃta*) Sāyaṇa has shown that two or three meanings of the word yajña are possible. First,
+
+(1) यज्ञेन निर्मथ्याग्निना ; यज्ञं-होमसाधनमाहवनीयं अयजंतपूजितवंतः । (*yajñena nirmathyāgninā ; yajñaṃ-homasādhanamāhavanīyaṃ ayajaṃtapūjitavaṃtaḥ |*). The meaning is: with the fire produced by churning they joined to it the Āhavanīya fire, the instrument of the oblation, and worshipped it. Secondly,
+
+(2) यज्ञेनाग्निना पशुभूतेन यज्ञं यष्टव्यमग्निमयजंत पूजितवंतः (*yajñenāgninā paśubhūtena yajñaṃ yaṣṭavyamagnimayajaṃta pūjitavaṃtaḥ*). They worshipped the sacrificial fire with the fire that was the animal. And thirdly,
+
+### Printed p. 938
+
+(3) यज्ञेन ज्ञानादियज्ञेन यज्ञं विष्णुमयजंत (*yajñena jñānādiyajñena yajñaṃ viṣṇumayajaṃta*). The meaning is that they worshipped the sacrifice that is Viṣṇu with the sacrifice that is knowledge. Sāyaṇa has supported his meanings by quoting scriptural passages for all three.
+
+To support the first of these three meanings Sāyaṇa has quoted and explained the following passage of the Taittirīya Saṃhitā.
+
+अग्निश्च वा एतौ सोमश्च कथा सोमायातिथ्यं क्रियते नाग्नय इति यदग्नावग्निं मथित्वा प्रहरति तेनैवाग्नय आतिथ्यं क्रियतेऽथो खल्वाहुरग्निस्सर्वा देवता इति यद्धविरासाद्याग्निं मंथति हव्याय्कॆवासन्नाय सर्वा देवता जनयति ॥ (*agniśca vā etau somaśca kathā somāyātithyaṃ kriyate nāgnaya iti yadagnāvagniṃ mathitvā praharati tenaivāgnaya ātithyaṃ kriyate 'tho khalvāhuragnissarvā devatā iti yaddhavirāsādyāgniṃ maṃthati havyāykèvāsannāya sarvā devatā janayati ‖*) (Tai. Saṃ. 6-2-1-7)
+
+This section tells the procedure of the sacrifice performed in the attempt to drive away the Asuras when enmity arose between the gods and the Asuras. On that occasion the form of the hospitality received by the deities Agni and Soma, who are like the feet of the sacrifice, is described in the above passages of the Saṃhitā. In it, first of all, a question is implied. On a rough view it appears that in this context hospitality is offered to Soma alone, and that Agni gets no benefit of that hospitality. When the question arises why, though both are worthy of the same kind of worship, the hospitality that was given to Soma was not given to Agni, the answer is अग्निं मथित्वा प्रहरति तेनैवाग्नय आतिथ्यं (*agniṃ mathitvā praharati tenaivāgnaya ātithyaṃ*): by churning the fire and placing the fire upon it, complete hospitality is offered to Agni. Moreover, since Agni is all the deities, by churning the fire and offering the oblation into the fire, worship is offered to all the deities as well; this is the reply given. The meaning is that this idea is indicated in यज्ञेन यज्ञमयजंत (*yajñena yajñamayajaṃta*). By churning the fire and offering the oblation into the fire, this worship is praised, in तानि धर्माणि प्रथमान्यासन् (*tāni dharmāṇi prathamānyāsan*), as being these rites, extremely excellent and bestowing fruits.
+
+प्रथमानि (*prathamāni*)—प्रथम इति मुख्यनाम । प्रतमानि प्रकृष्टतमानि (*prathama iti mukhyanāma | pratamāni prakṛṣṭatamāni*). The meaning is: the most excellent dharmas. The author of the Nirukta,
+
+देवानां माने प्रथमा अतिष्ठन् कृंतत्रादेषामुपरा उदायन् । त्रयस्तपंति पृथिवीमनूपा द्वा बृबूकं वहतः पुरीषं ॥ (*devānāṃ māne prathamā atiṣṭhan kṛṃtatrādeṣāmuparā udāyan | trayastapaṃti pṛthivīmanūpā dvā bṛbūkaṃ vahataḥ purīṣaṃ ‖*) (Ṛ. Saṃ. 10-27-23) **GLOSS**
+
+### Printed p. 939
+
+has explained the word prathama there as प्रथमो भवति (*prathamo bhavati*) (Ni. 2-24); quoting this, Sāyaṇa has shown that in the Ṛk under consideration also the meaning is the same.
+
+(2) Secondly, यज्ञेनाग्निना पशुभूतेन यज्ञं यष्टव्यमग्निमयजंत (*yajñenāgninā paśubhūtena yajñaṃ yaṣṭavyamagnimayajaṃta*). It is said that they worshipped the sacrifice, which is of the form of fire, with the fire that was the animal. The explanation of the author of the Nirukta supports this second meaning.
+
+यज्ञेन यज्ञमयजंत देवाः । अग्निनाग्निमयजंत देवाः । अग्निः पशुरासीत्तमालभंत तेनायजंत इति च ब्राह्मणं । (*yajñena yajñamayajaṃta devāḥ | agnināgnimayajaṃta devāḥ | agniḥ paśurāsīttamālabhaṃta tenāyajaṃta iti ca brāhmaṇaṃ |*) (Ni. 12-41)
+
+The gods performed the sacrifice by sacrificial rites and the like. That is, one way is that the gods worshipped Agni by the churning of the fire; or it may also be that they brought the fire that was an animal, offered that animal, and carried out the sacrifice. What is the meaning of Agni's having been of the form of an animal? What is the authority for this? The author of the Nirukta has stated this meaning by quoting a passage of the Aitareya Brāhmaṇa. The Aitareya Brāhmaṇa tells of this matter in the passages quoted below.
+
+अग्निं मंथंति सोमे राजन्यागते तद्यथैवादो मनुष्यराज आगशेऽन्यस्मिन् वार्थत्युक्षाणं वा वेहतं वा क्षदंत एवमेवास्मा एतत् क्षदंतं यदग्निं मंथंत्यग्निर्हि देवानां पशुः ॥ (*agniṃ maṃthaṃti some rājanyāgate tadyathaivādo manuṣyarāja āgaśe 'nyasmin vārthatyukṣāṇaṃ vā vehataṃ vā kṣadaṃta evamevāsmā etat kṣadaṃtaṃ yadagniṃ maṃthaṃtyagnirhi devānāṃ paśuḥ ‖*) (I. Bra. 1-15) **NOTE**
+
+When King Soma came as a guest, they churned the fire. This is natural. Just as men, when their king comes to their house as a guest, offer a bull and the like and show hospitality, so the gods also honoured King Soma by offering the animal in the form of fire. That Agni is the animal of the gods is a well-known matter. Why did Agni come to have the name of sacrificial animal? How did it become well known? The occasion that tells this is given in the Śatapatha Brāhmaṇa in this way.
+
+प्रजापतिरग्निरूपाण्यभ्यध्यायत् । स योऽयं कुमारो रूपाण्यनुप्रविष्ट आसीत्तमन्वैच्छत्सोऽग्निरवेदनु वै मा पिता प्रजापतिरिच्छति हंत तद्रूपमसानि यन्न एष न वेदेति ॥ (*prajāpatiragnirūpāṇyabhyadhyāyat | sa yo 'yaṃ kumāro rūpāṇyanupraviṣṭa āsīttamanvaicchatso 'gniravedanu vai mā pitā prajāpatiricchati haṃta tadrūpamasāni yanna eṣa na vedeti ‖*) (Śa. Brā. 6-2-1-1)
+
+### Printed p. 940
+
+Prajāpati meditated on the forms of Agni. He searched for the Kumāra who had entered the different forms. Then this search became known to Agni. Then he thought: "Prajāpati is searching for me. I shall become unknown to him."
+
+स एतान्फंच पशूनपश्यत् । पुरुषमश्वं गामविमजं यदपश्यत्तस्मादेते पशवः ॥ (*sa etānphaṃca paśūnapaśyat | puruṣamaśvaṃ gāmavimajaṃ yadapaśyattasmādete paśavaḥ ‖*) (Śa. Brā. 6-2-1-2)
+
+Then he saw the man, the horse, the cow, the sheep and the goat. Because Agni saw them (अपश्यत् (*apaśyat*), from the root पश् (*paś*)) the synonym pasu (animals) became well known for them.
+
+स एतान्पंच पशून्प्राविशत् । स एते पंच पशवोऽभवत्तमु वै प्रजापतिरन्वेवैच्छत् ॥ (*sa etānpaṃca paśūnprāviśat | sa ete paṃca paśavo 'bhavattamu vai prajāpatiranvevaicchat ‖*) (Śa. Brā. 6-2-1-3)
+
+Agni entered all those five animals. He took on identity with them. Even so, Prajāpati went on searching for Agni. (Śa. Brā. 6-2-1-4)
+
+स एतान्नंच पशूनपश्यत् । यदपश्यत्तस्मादेते पशवस्तेष्टेमपत्यत्तस्माद्वैवैते पशवः ॥ (*sa etānnaṃca paśūnapaśyat | yadapaśyattasmādete paśavasteṣṭemapatyattasmādvaivaite paśavaḥ ‖*)
+
+Prajāpati also saw those five animals. Because he saw (paś), or because he saw Agni in them (paś), the name pasu became well known for them. Then Prajāpati reflected in this way:
+
+स ऐक्षत । इमे वा अग्निरिमानेवात्मानमभिसंस्करवै यथा वा अग्निः समिद्धो दीप्यत एवमेषां चक्षुर्दिप्यते यथाग्नेर्धूम उदयत एवमेषामूष्मोदयते यथाग्निरभ्याहितं दहत्येवं बप्पति यथाग्नेर्भस्म सीदत्येवमेषां पुरीषग्ं सीदतीमे वा अग्निरिमानेवात्मानभिसंस्करवा इति शान्नाना देवताभ्य आलिप्सत वैश्वकर्माणं पुरुषं वारुणमश्वमृंद्रमृषभं त्वाष्ट्रमविमाग्नेयमजं ॥ (*sa aikṣata | ime vā agnirimānevātmānamabhisaṃskaravai yathā vā agniḥ samiddho dīpyata evameṣāṃ cakṣurdipyate yathāgnerdhūma udayata evameṣāmūṣmodayate yathāgnirabhyāhitaṃ dahatyevaṃ bappati yathāgnerbhasma sīdatyevameṣāṃ purīṣagṃ sīdatīme vā agnirimānevātmānabhisaṃskaravā iti śānnānā devatābhya ālipsata vaiśvakarmāṇaṃ puruṣaṃ vāruṇamaśvamṛṃdramṛṣabhaṃ tvāṣṭramavimāgneyamajaṃ ‖*) (Śa. Brā. 6-2-1-5)
+
+"These are the Agnis. I shall unite them in my own self. Just as the kindled Agni shines, so the eyes of these animals shine. Just as smoke rises from Agni upward, so from the mouths of these the smoke (breath) goes up. Just as Agni consumes the oblations offered into him,
+
+### Printed p. 941
+
+so these animals also swallow all the things put into their mouths. Just as the ash of Agni falls downward, so the dung of these animals falls downward. Therefore these are indeed the other forms of Agni. Therefore I shall unite them in myself." Thinking thus, he made up his mind to offer them to different deities as oblations. He assigned the man to Viśvakarman, the horse to Varuṇa, the bull to Indra, the sheep to Tvaṣṭṛ, and the goat to Agni. Then he reflected again thus.
+
+स ऐक्षत । नाना वा इदं देवताभ्य आलिप्सेऽग्निर्वहग्ं रूपाणि कामये हंतैनानग्निभ्यः कामायालभा इति तानग्निभ्यः कामायालभत तद्यदग्निभ्य इति बहूनि ह्यग्निरूपाण्यभ्यध्यायदथ यत्कामायेति कामेन ह्यालभत तानाप्रीतान्परग्निकृतानुदीचो नीत्वा समज्ञपयत् । (*sa aikṣata | nānā vā idaṃ devatābhya ālipse 'gnirvahagṃ rūpāṇi kāmaye haṃtainānagnibhyaḥ kāmāyālabhā iti tānagnibhyaḥ kāmāyālabhata tadyadagnibhya iti bahūni hyagnirūpāṇyabhyadhyāyadatha yatkāmāyeti kāmena hyālabhata tānāprītānparagnikṛtānudīco nītvā samajñapayat |*) (Śa. Brā. 6-2-1-6)
+
+"I made up my mind to offer these separately to different deities. But I myself desire the form of Agni. So that that wish may be fulfilled, I shall offer these as oblations for the other forms of Agni." Resolving thus, he did so. The forms of Agni were many. According to his wish, he led them to the northern quarter and offered them as oblations.
+
+त एते सर्वे पशवो यदग्निः। तस्मादग्नौ पशवो रमंते पशुभिरेव तत्पशवो रमंते तस्माद्यस्य पशवो भवंति तस्मिन्नग्निराधीयतेऽग्निर्हैष यत्पशरस्त्रतो वै प्रजापतिरग्निरभवत् । (*ta ete sarve paśavo yadagniḥ| tasmādagnau paśavo ramaṃte paśubhireva tatpaśavo ramaṃte tasmādyasya paśavo bhavaṃti tasminnagnirādhīyate 'gnirhaiṣa yatpaśarastrato vai prajāpatiragnirabhavat |*) (Śa. Brā. 6-2-11) **NOTE**
+
+Because Agni himself is these oblation animals, all the animals rejoice to be near Agni. One animal plays with another animal. It is for that reason that Agni is subordinate near one who is rich in cattle. Since Agni himself is that animal, Prajāpati also took the form of Agni.
+
+On यज्ञमयजंत देवाः (*yajñamayajaṃta devāḥ*) Sāyaṇa has said अग्नेरेव मूर्तिभेदेन देवत्वं च पशुत्वं च द्रष्टव्यं (*agnereva mūrtibhedena devatvaṃ ca paśutvaṃ ca draṣṭavyaṃ*); that is, by the difference of form it is to be seen that Agni himself has both godhead and animalhood. The word देवाः (*devāḥ*) may mean the sacrificers, or it may mean the gods.
+
+(3) Thirdly, for यज्ञेन यज्ञमयजंत (*yajñena yajñamayajaṃta*) he has explained यज्ञेन ज्ञानादियज्ञेन यज्ञं विष्णुमयजंत (*yajñena jñānādiyajñena yajñaṃ viṣṇumayajaṃta*) as meaning that they worshipped Viṣṇu, who is of the form of sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 934. pp. 928-934: end of varna discussion; Sukta 90 Rks 13-15
+**Progress note:** Done through printed p. 941. pp. 935-941: Sukta 90 Rk 16, Special Topics on nakam, yajna three meanings, Satapatha Agni passages
