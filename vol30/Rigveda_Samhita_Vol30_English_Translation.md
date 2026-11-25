@@ -17163,6 +17163,244 @@ O ageless Agni, who art without old age: ज्रयसानस्य (*jrayas
 - त्रितं (*tritaṃ*)—who dwellest in the three places such as the Āhavanīya
 - आ नशंत (*ā naśaṃta*)—approach thee with praises and the like and with the oblation
 
+### Printed p. 518
+
+##### भावार्थ (Bhāvārtha)
+
+O ageless Agni, your unobstructed powers (you who are swift-moving and burn the forest trees) surround you on every side like the wind. Like warriors, the priests, running to and fro and making a sound (the chanting of mantras), desire to carry out the sacrifice. They approach you, who are mighty and established in the three places beginning with the Āhavanīya, with oblations and with hymns of praise.
+
+##### English translation
+O imperishable Agni, the invincible winds spread around you (who are) rapid in movement, and desirous of consuming (the forest); like comba-tants (the priests) calling aloud. anxious to bestow (the oblation) glorify you, the mighty, stationed in the three (altars).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इद॒ग्निः कण्व॑तमः॒ कण्व॑सखा॒र्यः पर॒स्यांत॑रस्य॒ तरु॑षः ।  
+> अ॒ग्निः पा॑तु गृण॒तो अ॒ग्निः सू॒रीन॒ग्निर्द॑दातु॒ तेषा॒मवो॑ नः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । अग्निः । कण्वतमः । कण्वसखा । अर्यः । परस्य । अंतरस्य । तरुषः ।  
+> अग्निः । पातु । गृणतः । अग्निः । सूरीन् । अग्निः । ददातु । तेषां । अवः । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कण्वतमः ॥ कणतेः शब्दार्थादशिपुषीत्यादिना क्वन्मत्तयः ॥ अतिशयेन स्तोता
+> अत एव कण्वसखा ॥ बहुव्रीहित्वात्समासांतोदात्ताभावः ॥ कण्वाः स्तोतारः सखायो
+> यस्य स तादृशोऽर्यः ॥ स्वामिन्यंतोदात्तत्वं वक्तव्यं । पा. ३-१-१०३-१ । इत्यंदोदात्तत्वं ॥ स्वामी सर्वस्येश्वरः स इत् स एवाग्निः परस्य च प्रकृष्टस्य च बाह्यस्यांतरस्याव्यवहितस्य समीपे वर्तमानस्य शत्रोस्तरुषस्तारयिता विनाशयिता भवति ।
+> सोऽग्निर्गृणतः स्तोत्थानस्मान्पातु । रक्षतु ॥ ग्य शब्दे क्रादिकः । शतुरनुमो नद्य-
+
+##### Gist of the bhāṣya
+
+कण्वतमः (*kaṇvatamaḥ*) is formed from the root कण (*kaṇa*) in the sense of sound; it means one who praises in the highest degree. For that very reason he is कण्वसखा (*kaṇvasakhā*): the Kaṇvas, the praisers, are his friends. अर्यः (*aryaḥ*) is the lord, the master of all. That same Agni is the destroyer (तरुषः (*taruṣaḥ*)) of the enemy, whether far off (outside) or inward, that is, near at hand and unseparated. That Agni protects us who praise him. Likewise सूरीन् (*sūrīn*), from the root षू (*ṣū*) in the sense of impelling: may he protect us, who send forth oblations.
+
+> जादी इति विभक्तेरुदात्तत्वं ॥ तथा सूरीन् ॥ षू प्रेरणे ॥ हविषां प्रेरयित्कानस्मानक्षतु । किंच तेषामेषां नोऽस्माकमवो रक्षणमन्नं वाग्निर्ददाशु ।
+> प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+May he protect those who impel the oblations. Further, may Agni give to us, these people, protection (अवः (*avaḥ*)) or food.
+
+### Printed p. 519
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कण्वतमः (*kaṇvatamaḥ*)—one who praises (the gods) (and therefore)
+- कण्वसखा (*kaṇvasakhā*)—friend of the people who praise
+- अर्यः (*aryaḥ*)—lord of all
+- सः इत् अग्निः (*saḥ it agniḥ*)—that very Agni
+- परस्य (*parasya*)—of the one who is far off, that is, outside
+- अंतरस्य (*aṃtarasya*)—of the enemy who is near
+- तरुषः (*taruṣaḥ*)—is the destroyer
+- अग्निः (*agniḥ*)—Agni
+- गृणतः (*gṛṇataḥ*)—us who praise him
+- पातु (*pātu*)—may he protect
+- सूरीन् (*sūrīn*)—and may he protect us also, who offer oblations
+- तेषां नः (*teṣāṃ naḥ*)—to us, such as we are
+- अवः (*avaḥ*)—protection or food
+- अग्निः (*agniḥ*)—Agni
+- ददातु (*dadātu*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+That Agni, who himself praises the gods, and therefore is a friend to the people who praise, and is lord of all, destroys the enemy, whether far off or near. May Agni protect us who praise him and offer oblations. May Agni give us protection or food.
+
+##### English translation
+Agni, the most earnest of eulogists, the friends of those who praise him, the lord, the destroyer of enemies, whether far off or nigh, may Agni protect those who adore him, may, Agni (protect) those who offer oblations, may Agni give to us:both these protection.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒जिंत॑माय॒ सह्य॑से सुपित्र्य तृ॒षु च्यवा॑नो॒ अनु॑ जा॒तवे॑दसे।  
+> अ॒नु॒द्रे चि॒द्यो धृ॑ष॒ता वरं॑ स॒ते म॒हिंत॑माय॒ धन्व॒नेद॑विष्य॒ते ॥ ६ ॥
+
+### Printed p. 520
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाजिन्सतमाय । सह्यसे । सुपित्र्य । तृषु । च्यवानः । अनु । जातवेदसे ।  
+> अनुद्रे । चित् । यः । धृषता । वरं । सते । महिन्तमाय । धन्वना । इत् ।  
+> अविष्यते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुपित्र्य । पितुरागतः पित्र्यः ॥ पितुर्यच्च । पा. ४-३-७९ । इति यत्पत्ययः ॥
+> शोभनपित्र्य हे अग्ने वाजिंतमायातिशयेनान्नवतेऽत्यंतं बलवते ना ॥ नाद्भस्यॆति
+> नुडागमः ॥ सह्यसे सहीयसे शत्रूणामतिशयेनाभिभवित्रॆ जातवेदसे जातप्रज्ञाय
+> तुभ्यं त्वां स्तोतुं तृषु क्षिप्रमनु च्यवानः स्तुतिभिरनुगत उद्युक्तोऽस्मि ॥ क्रियार्थोपपदस्य च कर्मणीति जातवेदःशब्दस्य चतुर्थी । सह्यसे । सहस्विञ्चादीयसुनि
+> विन्मतोर्लुगितीयसुन ईकारलोपश्चांदसः ॥ अनुद्रे चिदुदकवर्जिते स्थाने ।
+> आपदीत्यर्थः । शत्रुभिः संजातायामापदि धृषता शत्रुधर्षणसमर्थेन धन्वनेदात्मीयेन धनुसैवाविष्यते पालकाय सते भूष्णवे ॥ शतुरनुम इति विभक्तेरुदात्तत्वं ॥ मंहितमाय पूज्यतमाय दातृतमाय वा ईदृशायाग्नये योऽहं
+> वरं वरणीयं हविः प्रयच्छामि सोऽहं स्तुतिमपि तस्मै करोमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+सुपित्र्य (*supitrya*): one who has come from the father is पित्र्यः (*pitryaḥ*); hence "O Agni of good paternal descent." He addresses Agni as वाजिंतमाय (*vājiṃtamāya*), most abounding in food, exceedingly strong, and सह्यसे (*sahyase*), the greatest overcomer of enemies, and जातवेदसे (*jātavedase*), one whose knowledge is born. To praise you I have set out, following with hymns, quickly (तृषु (*tṛṣu*)). The dative for जातवेदः (*jātavedaḥ*) is by the rule on the object of a word subordinate to an action. अनुद्रे चित् (*anudre cit*) means in a place devoid of water, that is, in distress. When distress arises from enemies, he is the protector (अविष्यते (*aviṣyate*)), the one who is (सते (*sate*)), with his own bow (धन्वना (*dhanvanā*)) that is able to overcome enemies. मंहितमाय (*maṃhitamāya*) means most worthy of worship or most generous. To such an Agni I, who offer the choice (वरं (*varaṃ*)) oblation, also make praise for him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुपित्र्य (*supitrya*)—O Agni, who have excellent parents
+- वाजिंतमाय (*vājiṃtamāya*)—exceedingly strong
+- सह्यसे (*sahyase*)—who defeat enemies
+- जातवेदसे (*jātavedase*)—who know everything; in order to praise you
+- तृषु (*tṛṣu*)—quickly
+- अनु च्यवानः (*anu cyavānaḥ*)—I am ready, having approached, to praise
+- अनुद्रे चित् (*anudre cit*)—in a waterless region or in time of distress
+- धृषता (*dhṛṣatā*)—that overcomes enemies
+- धन्वना इत् (*dhanvanā it*)—with your bow alone
+- अविष्यते सते (*aviṣyate sate*)—who are protecting us
+- महिंतमाय (*mahiṃtamāya*)—to Agni, most worshipful or a generous giver
+- यः (*yaḥ*)—(the) I who
+- वरं (*varaṃ*)—offer the best oblation or hymn
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have excellent parents, I have come quickly to your presence and am ready to praise you, who are exceedingly strong, who defeat enemies, and who know everything. In a waterless region, that is, in our time of hardship, to you, most glorious, who protect us with your bow that overcomes enemies,
+
+### Printed p. 521
+I offer the best oblation or hymn.
+
+##### English translation
+O Agni you have fair ancestors, (I have) arrived quickly to (praise) you, the most bountiful bestower of food, the overcomer (of foes) the Jathavedas, (I who offer) the best to you, the most mighty being, the protector in calamity, with your capable (bow).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वाग्निर्मर्त्यैः॑ स॒ह सू॒रिभि॒र्वसु॑ ष्टवे॒ सह॑सः सू॒नरो॒ नृभिः॑ ।  
+> मि॒त्रासो॒ न ये सुधि॑ता ऋता॒यवो॒ द्यावो॒ न द्यु॒म्मॆर॒भि  
+> संति॒ मानु॑षान् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । अग्निः । मर्त्यैः । सह । सूरिभिः । वसुः । स्तवे । सहसः । सूनरः । नृभिः ।  
+> मित्रासः । न । ये । सुधिताः । ऋतयवः । द्यावः । न । द्युम्नैः । अभि । संति ।  
+> ।  
+> मानुषान् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहसो बलस्य सूनरः सुष्टु प्रेरकः । यद्वा । सूनुरित्यस्य वर्णव्यत्ययः ।
+> सूनरः सूनुः । बलेन मध्यमानत्वात्तस्य पुत्रः । अग्निर्नृभिः कर्मनेतृभिर्मर्तैर्मनुष्यैः सह सूरिभिर्विद्वद्भिरस्माभिर्वसु धनमभिलक्ष्यनैवं स्तवे । स्तूयते ॥
+> वसुष्टव इत्यत्र संहितायां पूर्वपदादिति षत्वं ॥ मित्रासो न सुहृद इव सुधिताः
+> सुहितास्त्रप्ताः ॥ दधातेर्निष्ठायां सुधितवसुधितेति निपातितः । सुधितार्थास्त्वर्था
+> इति काशिकायामुक्तं ॥ ऋतायवो यज्ञं कामयमानाः ॥ न च्छंदस्य पुत्रस्येति
+
+##### Gist of the bhāṣya
+
+सूनरः (*sūnaraḥ*) of सहसः (*sahasaḥ*) (strength) means a good impeller of strength; or else सूनरः (*sūnaraḥ*) is a transposition of letters for सूनुः (*sūnuḥ*), the son, since he is born of the strength of the churning. Agni is praised thus (स्तवे (*stave*)) by us, the wise, together with mortal men, the leaders of the rite, aiming at wealth (वसु (*vasu*)). मित्रासो न (*mitrāso na*) means like friends; सुधिताः (*sudhitāḥ*) means well satisfied, as the Kāśikā says. ऋतायवः (*ṛtāyavaḥ*) means those desiring the sacrifice.
+
+> दीर्घत्वयोः प्रतिषेधः ॥ ईदृशा ये सूरयो द्यावो न द्योतमाना इव
+> द्युम्नैः । द्युम्नं द्योततेर्यशो वान्नं वा । नि. ५-५ । इति यास्कः । अग्निप्रदत्रैर्बलरात्मीय्यैर्यशोभिर्वा मानुषाञ्यात्रवाञ्जनानभि संति अभिभवंति ॥
+> यद्वृत्तयोगादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Those wise men who are like shining ones (द्यावो न (*dyāvo na*)) overcome (अभि संति (*abhi saṃti*)) men, the enemy people, by the glories (द्युम्नैः (*dyumnaiḥ*)), the strength or fame given by Agni. On द्युम्नं (*dyumnaṃ*): "द्युम्नं द्योततेर्यशो वान्नं वा (*dyumnaṃ dyotateryaśo vānnaṃ vā*)" (Ni. 5-5), says Yāska.
+
+### Printed p. 522
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः (*sahasaḥ*)—of strength
+- सूनरः (*sūnaraḥ*)—the son
+- अग्निः (*agniḥ*)—Agni
+- नृभिः (*nṛbhiḥ*)—the leaders of the rite
+- मर्त्यैः सह (*martyaiḥ saha*)—together with men
+- सूरिभिः (*sūribhiḥ*)—by us, the discerning
+- वसु (*vasu*)—for the attainment of wealth
+- एव (*eva*)—in this manner
+- स्तवे (*stave*)—is praised
+- मित्रासो न (*mitrāso na*)—like friends
+- सुधिताः (*sudhitāḥ*)—satisfied
+- ऋतायवः (*ṛtāyavaḥ*)—desiring the sacrificial rite
+- ये सूरयः (*ye sūrayaḥ*)—the wise who are such
+- द्यावो न (*dyāvo na*)—being like shining ones
+- द्युम्नैः (*dyumnaiḥ*)—by the fame or strength obtained from Agni
+- मानुषान् (*mānuṣān*)—enemy people
+- अभि संति (*abhi saṃti*)—they defeat
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, born of the application of strength, is praised in this way for wealth by men (by us) who are leaders of the rite and discerning. The wise, that is, the discerning, who are satisfied like friends, who desire to perform the sacrificial rite, and who are shining, defeat enemies by the food (strength) or fame obtained from Agni.
+
+##### English translation
+In this manner, Agni, the son of strength, is glorified by (us his) wor-shippers, together with pious mortals, for the sake of wealth—(his worshippers) who, like delighted friends, desiring the sacrifice, like shining (ones), over-come (hostile) men through his might.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊर्जो॑ नपात्सहसाव॒न्नि ति॑ त्वोपस्तु॒तस्य॑ वंदते॒ वृषा॒ वाक् ।  
+> त्वां स्तो॑षाम॒ त्वया॑ सु॒वीरा॒ द्राघी॑य॒ आयुः॑ प्रत॒रं  ॑
+> दधानाः ॥ ८ ॥
+
+### Printed p. 523
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्जः । नपात् । सहसावन् । इति । त्वा । उपस्तुतस्य । वंदते । वृषा । वाक् ।  
+> त्वां । स्तोषाम । त्वया । सुवीराः । द्राघीयः । आयुः । प्रततरं । दधानाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऊर्जो नपात् । नपादित्यपत्यनाम । अन्नस्य पुत्र । अन्नं वा आज्यमिति
+> श्रवणात्तेन प्रवृद्ध्यमानत्वात् । बलस्य ना पुत्र ॥ सुबामंत्रिते परांगवत्सर इत्यूर्ज
+> इत्यस्यॆ परांगवद्भावेनामंत्रितत्व आमंत्रितस्य चेति षाष्ठिकमाद्युदात्तत्वं ॥ हे
+> सहसावन् सहस्विन्नग्ने त्वा त्वामित्येवमुपस्तुतस्यैतन्नामकस्यर्षेर्मम वृषा
+> हविषां वर्षदित्री तैः सहिता वाक् स्तुतिर्वंदते । स्तोति ॥ वृषा । इगुपधज्ञेति कः ।
+> अजाद्यतष्टाप् ॥ किंच वयं त्वां स्तोषाम । स्तवाम ॥ स्तौतेर्लॆट्यडागमः ॥
+> ततस्त्वया सुवीराः शोभनपुत्राः स्याम । द्राघीयो दीर्घतममायुर्जीवनं
+> प्रतरमत्यर्थं दधाना धारयंतो भवेम ॥
+
+##### Gist of the bhāṣya
+
+ऊर्जो नपात् (*ūrjo napāt*): नपात् (*napāt*) is a name for offspring; so, son of food, since he grows by it, in accordance with the statement "the ghee is food"; or else son of strength. The vocative ऊर्जः (*ūrjaḥ*) takes the accent on its first syllable by the rule on a vocative. O सहसावन् (*sahasāvan*), mighty Agni: thus the speech (वाक् (*vāk*)), the praise of me, the seer named Upastuta, joined with the oblations that rain down (वृषा (*vṛṣā*)), praises (वंदते (*vaṃdate*)) you. Further, we praise you (स्तोषाम (*stoṣāma*)). Then through you may we be blessed with good sons (सुवीराः (*suvīrāḥ*)), and may we hold (दधानाः (*dadhānāḥ*)) a very long life (द्राघीयः आयुः (*drāghīyaḥ āyuḥ*)) in the highest degree (प्रतरं (*prataraṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जोनपात् (*ūrjonapāt*)—who grow by the oblation in the form of food, or son of strength
+- सहसावन् (*sahasāvan*)—O Agni, of exceeding strength
+- त्वा (*tvā*)—you
+- इति (*iti*)—in this manner
+- उपस्तुतस्य (*upastutasya*)—of me, named Upastuta
+- वृषा (*vṛṣā*)—accompanied by the oblation
+- वाक् (*vāk*)—the speech in the form of praise
+- वंदते (*vaṃdate*)—praises you (and we)
+- त्वां (*tvāṃ*)—you
+- स्तोषाम (*stoṣāma*)—praise
+- त्वया (*tvayā*)—through you, that is, by your grace (we)
+- सुवीराः (*suvīrāḥ*)—may we become possessed of excellent sons
+- द्राघीयः (*drāghīyaḥ*)—for a long time
+- आयुः (*āyuḥ*)—life
+- प्रतरं (*prataraṃ*)—exceedingly
+- दधानाः (*dadhānāḥ*)—may we sustain
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who grow by the oblation, or are the son of strength, and are exceedingly mighty: the speech of me, named Upastuta, in the form of praise, praises you in this way. We too praise you. May we by your grace obtain excellent sons, and may we live an exceedingly good life for a long time.
+
 ---
 
-**Progress note:** Done through printed p. 517. pp. 512-517 (batch API)
+**Progress note:** Done through printed p. 523. pp. 518-523 (batch API)
