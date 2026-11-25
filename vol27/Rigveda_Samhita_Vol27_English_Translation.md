@@ -4423,6 +4423,298 @@ Press that Soma, who has a thousand streams, a showerer of desires, increaser of
 
 Press for the satisfaction of the divine people that Soma who, born of water and a lord, grows joined with the waters, and who is of divine nature, who has many streams, is a showerer of desires, an increaser of waters, causing joy.
 
+### Printed p. 97
+#### Ṛk 8 (continued)
+
+##### English translation
+Thousand-streamed, showerer of benefits, augmenter of water, affectionate ; (pour it forth) for the race of the gods which water-born is fostered by the water, the king, the god, the true, the great.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि द्यु॒म्नं बृ॒हद्यश॒ इष॑स्पते दिदी॒हि दे॑व देव॒युः ।  
+> वि कोशं॑ मध्य॒मं यु॑व ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । द्युम्नं । बृहत् । यशः । इषः । पते । दिदीहि । देव ' देवयुः ।  
+> वि : कोशं । मध्यमं । युव ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इषस्पतेऽन्नस्य पते हे देव स्तोतव्य सोम देवयुर्देवकामस्त्वं
+> द्युम्नं द्योतमानं बृहत्प्रभूतं यशोऽन्नमस्मभ्यमभि दिदीहि । अभिमुख्येन
+> प्रकाशय । प्रयच्छेत्यर्थः ॥ आमंत्रितस्याविद्यमानवत्वेन पादादित्वादनिघातः ॥
+> किंच मध्यममंतरिक्षस्थितं कोशं मेघं वि युव । वृष्ट्यर्थं विगमय ।
+> विश्लेषय ॥
+
+##### Gist of the bhāṣya
+
+O lord of food (इषस्पते (*iṣaspate*)), O divine Soma worthy of praise, desiring the gods (देवयुः (*devayuḥ*)), make shine forth for us (अभि दिदीहि (*abhi didīhi*)) brilliant and abundant food (द्युम्नं (*dyumnaṃ*), बृहत् (*bṛhat*), यशः (*yaśaḥ*)). अभि दिदीहि (*abhi didīhi*) means "illumine in our direction", that is, "give". Further, split open (वि युव (*vi yuva*)), for the sake of rain, the middle receptacle (कोशं (*kośaṃ*)), the cloud standing in the atmosphere; separate it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इषस्पते (*iṣaspate*)—O protector of food
+- देव (*deva*)—O shining Soma
+- देवयुः (*devayuḥ*)—you who desire the gods
+- द्युम्नं (*dyumnaṃ*)—the shining
+- बृहत् (*bṛhat*)—the abundant
+- यशः (*yaśaḥ*)—food
+- अभि दिदीहि (*abhi didīhi*)—make shine forth (give) to us
+- मध्यमं (*madhyamaṃ*)—standing in the atmosphere
+- कोशं (*kośaṃ*)—the cloud
+- वि युव (*vi yuva*)—split open for the sake of rain
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, protector of food and shining, you who desire the gods, make shine forth (give) to us food that is brilliant and abundant. Split open the cloud that stands in the atmosphere, for the sake of rain.
+
+##### English translation
+Divine (Soma) lord of viands, who are devoted to the gods, bestow upon us brilliant and abundant food ; separate the mid-aerial receptacle.
+
+### Printed p. 98
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ व॑च्यस्व सुदक्ष च॒म्वोः॑ सु॒तो वि॒शां वर्ह्नि॒र्न वि॒श्वतिः॑ ।  
+> वृ॒ष्टिं दि॒वः प॑वस्व री॒तिम॒पां जिन्वा॒ गवि॑ष्टये॒ धिय॑ॆः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वच्यस्व । सुदक्ष । चन्वोः । सुतः । विशां । वह्निः । न । विश्वतिः ।  
+> वृष्टिं । दिवः । पवस्व । रीतिं । अपां । जिन्न । गोs इष्टये । धियः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदक्ष सुबल सोम चन्नोरधिषवणफलकयोः सुतोऽभिषुतस्त्वं विशां
+> प्रजानां वह्निर्न वोढा विश्वती राजेव सर्वासां प्रजानां वोढा त्वमा वच्यस्व ।
+> आगच्छ । कलशमापवस्व ॥ वचेर्गत्यर्थस्य व्यत्ययेन श्यनि रूपं ॥ किंच त्वं वृष्टिं
+> वृष्यमाणामपामुदकानां रीतिं गतिं दिवो द्युलोकात्पवस्व । कुरु । ततो गविष्टये गामात्मन इच्चते यजमानाय धियः कर्माणि जिन्व । आपूरय ॥
+> क्रिशवर् ।
+> सुदक्ष—उत्तमवाद शक्तियुळ्ळ ऎलै सोमने ! चव्वोः—हिंडुव हलगॆगळल्लि । सुतः—
+> हिंडल्पट्टवनू । विश्पतिः न—राजनंतॆ । विशां—प्रजॆगळिगॆल्ल । वह्निः—वाहकनू (पालकनू)
+> आद नीनु । आ वच्यस्व—दयमाडु । वृष्टिं—वृष्टिरूपवाद । अपां रीतिं—उदकगळ
+> प्रवाहवन्नु । दिवः—द्युलोकदिंद । पवस्व—सुरिसु । गविष्टये—गोवन्नु अपेक्षिसुव
+> यजमाननिगॆ । धियः—कर्मगळन्नु । जिन्व—तुंबु (फलप्रदवागुवंतॆ माडु).
+
+##### Gist of the bhāṣya
+
+O Soma of good strength (सुदक्ष (*sudakṣa*)), pressed in the two pressing boards (चन्वोः (*canvoḥ*)), you who, like a king (विश्पतिः न (*viśpatiḥ na*)), bear all the people (विशां वह्निः (*viśāṃ vahniḥ*)), come (आ वच्यस्व (*ā vacyasva*)): flow into the vessel. Further, from the heavenly world (दिवः (*divaḥ*)) cause to flow the course (रीतिं (*rītiṃ*)) of the waters (अपां (*apāṃ*)) that are to be rained, namely the rain (वृष्टिं (*vṛṣṭiṃ*)). Then, for the sacrificer who desires cattle (गविष्टये (*gaviṣṭaye*)), fill up (जिन्व (*jinva*)) the rites (धियः (*dhiyaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदक्ष (*sudakṣa*)—O Soma of excellent strength
+- चव्वोः (*cavvoḥ*)—in the pressing boards
+- सुतः (*sutaḥ*)—pressed
+- विश्पतिः न (*viśpatiḥ na*)—like a king
+- विशां (*viśāṃ*)—of all the people
+- वह्निः (*vahniḥ*)—the bearer (protector)
+- आ वच्यस्व (*ā vacyasva*)—be gracious
+- वृष्टिं (*vṛṣṭiṃ*)—in the form of rain
+- अपां रीतिं (*apāṃ rītiṃ*)—the flow of the waters
+- दिवः (*divaḥ*)—from the heavenly world
+- पवस्व (*pavasva*)—pour down
+- गविष्टये (*gaviṣṭaye*)—for the sacrificer who desires cattle
+- धियः (*dhiyaḥ*)—the rites
+- जिन्व (*jinva*)—fill (make fruitful)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma of excellent strength, pressed in the pressing boards, protector of all the people like a king, be gracious. Pour down from the heavenly world the flow of waters in the form of rain. For the sacrificer who desires cattle, increase the rite; make it fruitful.
+
+##### English translation
+Divine (Soma) lord of viands, who are devoted to the gods, bestow upon us brilliant and abundant food ; separate the mid-aerial receptacle.
+
+### Printed p. 99
+
+##### English translation
+Come, powerful (Soma) effused into the cups, like a prince the sustainer of the people; pour the course of the waters, the rain from heaven ; accomplish the rites for the worshipper who seeks cattle
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तमु॒ त्यं म॑द॒च्युतं॑ स॒हस्र॑सधारं वृष॒भं दिवो॑ दुहुः ।  
+> विश्वा॒ वसू॑नि॒ बिभ्र॑तं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वितं । ऊं इति । त्यं । मदच्युतं । सहस्रधारं । वृषभं । दिवः । दुहुः ।  
+> विश्वा । वसूनि । बिभ्रतं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवः देवान्कामयमाना ऋत्विज एतं त्यं तमिमं सोममेव दुहुः ।
+> दुदुहुः । दुहंति । ग्रावाणो वत्सा ऋत्विजो दुहंतीति तैत्तरीयकब्राह्मणं ।
+> तै. सं. ६-२-११-४ । कीदृशं सोमं । मदच्युतं मदस्य प्रेरकं सहस्रधारं बहुधारं वृषभं कामानां वर्षकं विश्वा सर्वाणि वसूनि धनानि बिभ्रतं धारयंतं
+> सोमं दुहंति ॥
+
+##### Gist of the bhāṣya
+
+The officiating priests, desiring the gods, milk this very Soma (एतं त्यं (*etaṃ tyaṃ*)). दुहुः (*duhuḥ*) is the same as दुदुहुः (*duduhuḥ*) and दुहंति (*duhaṃti*). He cites the Taittirīya Brāhmaṇa: ग्रावाणो वत्सा ऋत्विजो दुहंतीति (*grāvāṇo vatsā ṛtvijo duhaṃtīti*) (Tai. Saṃ. 6-2-11-4). What kind of Soma? The impeller of exhilaration (मदच्युतं (*madacyutaṃ*)), thousand-streamed, i.e. many-streamed, showerer of desires (वृषभं (*vṛṣabhaṃ*)), bearing all treasures (विश्वा वसूनि बिभ्रतं (*viśvā vasūni bibhrataṃ*)): this Soma they milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदच्यतं (*madacyataṃ*)—the cause of joy
+- सहस्रधारं (*sahasradhāraṃ*)—the many-streamed
+- वृषभं (*vṛṣabhaṃ*)—the showerer of desires
+- विश्वा (*viśvā*)—all
+- वसूनि (*vasūni*)—treasures
+- बिभ्रतं (*bibhrataṃ*)—the bearer
+- त्यं (*tyaṃ*)—the well-known
+- एतु (*etu*)—this Soma
+- दिवः (*divaḥ*)—the priests
+- दुहुः (*duhuḥ*)—call (milk)
+
+##### भावार्थ (Bhāvārtha)
+
+The priests call this well-known Soma, the cause of joy, flowing in many streams, showerer of desires, bearer of all treasures.
+
+##### English translation
+Him have they milked from heaven, the shedder of exhilarating juice, the thousand-streamed, the showerer (of benefits), bearing all treasures.
+
+### Printed p. 100
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ वि ज॑ज्ञे ज॒नय॒न्नम॑र्त्यः प्र॒तप॒ञ्ज्योति॑षा॒ तमः॑ ।  
+> स सुष्टु॑तः क॒विभि॑र्नि॒र्णिजं॑ दधे त्रि॒धात्व॑स्य॒ दंस॑सा ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । वि । जज्ञॆः जनयन् । अमर्त्यः । प्रतपन् । ज्योतिषा । तमः ।  
+> सः । सुस्तुतः । कविभिः , निःनिजं । दधे । त्रिधातु । अस्य । दंससा ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा कामानां वर्षकोऽमर्तो मनुष्यधर्मरहितः सोमो वि जज्ञे ।
+> विज्ञायते । किं कुर्वन् । जनयङ्ब्धं ज्योतिर्वोत्पादयन् ज्योतिषा स्वीयेन
+> तमः प्रतपन् प्रज्वलयन् विनाशयन् प्रादुर्भवति । ततः कविभिर्मेधाविभिः
+> स्तोतृभिः सुष्टुतः स सोमो निर्णिजं निर्णॆजनहेतुं मिश्रणं गव्यं दधे । धारयति । अथ त्रिधातु त्रिषु सवनेषु देवानां पोषकं । यद्वा । त्रयः सोमधारका
+> द्रोणकलशादयो यस्मिन् । तद्यज्ञार्थं कर्मास्य सोमस्य दंससा कर्मणा
+> ध्रियते खलु ॥
+
+##### Gist of the bhāṣya
+
+Soma, showerer of desires and immortal, i.e. free from the nature of mortals, is manifested (वि जज्ञे (*vi jajñe*), is made known). What is he doing? Begetting (जनयन् (*janayan*)) light, or sound; with his own light he blazes against and destroys the darkness. Then, well praised by the wise singers, that Soma bears (दधे (*dadhe*)) the निर्णिजं (*nirṇijaṃ*), the mixture of milk and the like that is the means of cleansing. Further, त्रिधातु (*tridhātu*) is what nourishes the gods at the three pressings. Or else: that in which there are three Soma-holding vessels, the Droṇakalaśa and the others; the rite for the sacrifice is indeed sustained by this Soma's act (दंससा (*daṃsasā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—showerer of desires
+- अमर्त्यः (*amartyaḥ*)—Soma, free from mortal nature
+- जनयन् (*janayan*)—making sound
+- ज्योतिषा (*jyotiṣā*)—with his own radiance
+- तमः (*tamaḥ*)—the thick darkness
+- प्रतपन् (*pratapan*)—destroying
+- वि जज्ञे (*vi jajñe*)—is known by all
+- कविभिः (*kavibhiḥ*)—by the wise
+- सुष्टुतः (*suṣṭutaḥ*)—exceedingly praised
+- सः (*saḥ*)—Soma
+- निर्णिजं (*nirṇijaṃ*)—the milk and the like that make him refined
+- दधे (*dadhe*)—bears
+- त्रिधातु (*tridhātu*)—the rite consisting of three pressings
+- अस्य (*asya*)—of this Soma
+- दंससा (*daṃsasā*)—is sustained by the act
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, showerer of desires and free from mortal nature, is known by all, making sound and destroying the thick darkness with his own radiance. Exceedingly praised by the wise, Soma bears the milk and the like that make him refined (he is mixed with milk and the like). The rite consisting of three pressings is sustained by the act of this Soma.
+
+### Printed p. 101
+
+##### English translation
+The showerer (of benefits) is manifested begetting (light), immortal, destroying the darkness with (his) radiance; glorified by the wise he has assumed his shining robe ; the triple (oblation is supported) by his act.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सु॑न्वे॒ यो वसू॑नां॒ यो रा॒यामा॑ने॒ता य इळा॑नां ।  
+> सोमो॒ यः सु॑क्षिती॒नां ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सुन्वे । यः । वसूनां । यः रायां । आनेता । यः ' इळानां ।  
+> सोमः । यः । सुक्षितीनां । १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स सोमः सुन्वे । अभिसुषुव ऋत्विग्भिः । यः सोमो वसूनां धनानामानेता यश्च रायां । रांति प्रयच्छंति क्षीरादिकमिति रायो गावः । तेषामानेता यश्चेळानामन्नानां च यश्च सोमः सुक्षितीनां सुनिवासानां शोभनमनुष्ययुक्तानां गृहाणामानेता विद्यते सोऽभिषुतोऽभूदिति ॥
+
+##### Gist of the bhāṣya
+
+That Soma has been pressed by the priests: the Soma who is the bringer of treasures (वसूनां (*vasūnāṃ*)), and who is the bringer of रायां (*rāyāṃ*) (*rāyaḥ* are cattle, since they give milk and the like), and the bringer of इळानां (*iḷānāṃ*), foods, and the Soma who is the bringer of सुक्षितीनां (*sukṣitīnāṃ*), well-inhabited homes furnished with good people: he has been pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- वसूनां (*vasūnāṃ*)—treasures
+- आनेता (*ānetā*)—brings
+- यः (*yaḥ*)—who
+- रायां (*rāyāṃ*)—giver of wealth
+- यः (*yaḥ*)—who
+- इळानां (*iḷānāṃ*)—giver of food
+- यः सोमः (*yaḥ somaḥ*)—which Soma
+- सुक्षितीनां (*sukṣitīnāṃ*)—provides excellent homes
+- सः (*saḥ*)—that Soma
+- सुन्वे (*sunve*)—is pressed
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who brings treasures, who gives wealth, who gives food, who provides excellent homes: that Soma is pressed.
+
+##### English translation
+The Soma has been effused who is the bringer of treasures, the bringer of riches, the bringer of food, the bringer of fair homes:-
+
+### Printed p. 102
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ न॒ इंद्रः॒ पिबा॒द्यस्य॑ म॒रुतो॒ यस्य॑ वाय्॒रमणा॒ भगः॑।  
+> आ येन॑ मि॒त्रावरु॑णा॒ करा॑मह॒ एंद्र॒मव॑से म॒हे ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । नः । इंद्रः । पिबात् । यस्य । मरुतः । यस्य । वा । अर्यमणा । भगः ।  
+> आ । येन । मित्रावरुणा । करामहे । आ । इंद्रं । अवसे । महे ॥ १४ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मदीयं यस्य यं सोममिंद्रः पिबात् पिबति ॥ पा पाने लेट्यडागमः ॥ यं च सोमं मरुतः पिबंति वापि चार्यमणैतन्नामकेन देवेन
+> सह भगो देवो यं सोमं पिबति येन सोमेन मित्रावरुणा मित्रावरुणौ
+> वयमा करामहे अभिमुखीकुर्महे तथा महे महतेऽवसे रक्षणाय येन च
+> सोमेनेंद्रमभिमुखीकुर्महे स सोमोऽभिषूयते ॥
+
+##### Gist of the bhāṣya
+
+The Soma of ours (नः (*naḥ*)) which Indra drinks (पिबात् (*pibāt*); from पा (*pā*) in the sense of drinking, with the augment aṭ in the leṭ), the Soma which the Maruts drink, and which Bhaga drinks together with the god named Aryaman; the Soma by which we bring Mitra and Varuṇa to face us (करामहे (*karāmahe*)), and likewise for great (महे (*mahe*)) protection (अवसे (*avase*)), and by which we bring Indra to face us: that Soma is pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- यस्य (*yasya*)—which Soma
+- इंद्रः (*iṃdraḥ*)—Indra
+- पिबात् (*pibāt*)—drinks
+- मरुतः (*marutaḥ*)—the Maruts
+- यस्य (*yasya*)—which Soma they drink
+- वा (*vā*)—and
+- अर्यमणा (*aryamaṇā*)—with the god Aryaman
+- भगः (*bhagaḥ*)—the god Bhaga, which he drinks
+- येन (*yena*)—with the help of which Soma
+- मित्रावरुणा (*mitrāvaruṇā*)—Mitra and Varuṇa
+- आ करामहे (*ā karāmahe*)—we shall invite
+- महे (*mahe*)—great
+- अवसे (*avase*)—for protection
+- इंद्रं आ (*iṃdraṃ ā*)—by which Soma we shall satisfy Indra, that Soma is pressed
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma of ours which Indra drinks, which the Maruts drink, and which Bhaga drinks together with the god Aśvama **NOTE**; the Soma with whose help we shall invite Mitra and Varuṇa, and by which we shall satisfy Indra for great protection: that Soma is pressed.
+
 ---
 
-**Progress note:** Done through printed p. 96. pp. 91-96 (batch API)
+**Progress note:** Done through printed p. 102. pp. 97-102 (batch API)
