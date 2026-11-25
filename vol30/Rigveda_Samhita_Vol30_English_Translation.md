@@ -812,7 +812,8 @@ By this verse she speaks, addressing Purūravas himself. "O Purūravas, you stru
 - वीर (*vīra*)—O hero
 - तत् (*tat*)—then
 - त्वं (*tvaṃ*)—you
-- मे मम तन्नः (*me mama tannaḥ*)—of my body
+- मे (*me*)—my
+- तन्नः (*tannaḥ*)—to the body
 - आसीः (*āsīḥ*)—you were lord and giver of pleasure
 
 ##### भावार्थ (Bhāvārtha)
@@ -825,7 +826,7 @@ Thirce a day, Pururavas, have you embraced me, you have loved me without a rival
 ##### विशेषविषयगळु (Special Topics)
 
 In this Ṛk Urvashi addresses Pururavas himself: त्रिः स्म माह्नः शृथयो वैतसेन (*triḥ sma māhnaḥ śṛthayo vaitasena*)—O Pururavas, when I lived with you formerly, did you not strike me, that is, my yoni region, with your male organ three times a day?
-To explain the word वैतस (*vaitasa*) here, Yāska has given an etymology. When listing words of one meaning in pairs (Ni. 3-20), among pairs of words such as प्रपित्वे (*prapitve*)–अभीकॆ (*abhīkè*) and दभ्रं (*dabhraṃ*)–अर्भकं (*arbhakaṃ*), he has given the two words *śepaḥ*–वैतसः (*vaitasaḥ*). These two words have, more or less, one meaning.
+To explain the word वैतस (*vaitasa*) here, Yāska has given an etymology. When listing words of one meaning in pairs (Ni. 3-20), among pairs of words such as प्रपित्वे (*prapitve*)–अभीकॆ (*abhīkè*) and दभ्रं (*dabhraṃ*)–अर्भकं (*arbhakaṃ*), he has given the two words शेषः (*śeṣaḥ*)–वैतसः (*vaitasaḥ*). These two words have, more or less, one meaning.
 शेपो वैतस इति पुंस्रजननस्य । शेषः शपतेः स्पृशतिकर्मणः । वैतसो वितस्तं भवति । यस्यामुशंतः प्रहराम शेषं । त्रिः स्म माह्नः श्नथयो वैतसेन इत्यपि निगमौ भवतः ॥ (*śepo vaitasa iti puṃsrajananasya | śeṣaḥ śapateḥ spṛśatikarmaṇaḥ | vaitaso vitastaṃ bhavati | yasyāmuśaṃtaḥ praharāma śeṣaṃ | triḥ sma māhnaḥ śnathayo vaitasena ityapi nigamau bhavataḥ ‖*)
 (Ni. 3-21)
 
@@ -839,12 +840,12 @@ The portion of the male organ that is like a staff (penis) is called शेप (
 
 > या सु॑जू॒र्णिः श्रेणिः॑ सु॒म्म आ॑पिर्र्॒दे च॑क्षु॒र्न ग्रं॒थिनी॑  ॒
 > चरण्युः ।  
-> ता अं॒जयो॑ऽरु॒णयो॒ न स॑स్రుः श्रि॒ये गावो॒न धे॒नवो॑ऽनवंत ॥ ६ ॥
+> ता अं॒जयो॑ऽरु॒णयो॒ न स॑स्रुः श्रि॒ये गावो॒न धे॒नवो॑ऽनवंत ॥ ६ ॥
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
 > या । सुजूर्णिः । श्रेणिः । सुम्मेऽआपिः । प्रदेऽचक्षुः । न । ग्रंथिनी । चरण्युः ।  
-> ताः । अंजयः । अरुणयः । न । सस్రుः । श्रिये । गावः । न । धेनवः । अनवंत ॥ ६ ॥
+> ताः । अंजयः । अरुणयः । न । सस्रुः । श्रिये । गावः । न । धेनवः । अनवंत ॥ ६ ॥
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
@@ -4022,7 +4023,7 @@ When Devapi, the Purohita for Shantanu, engaged in his functions of Hotri, compa
 
 ##### विशेषविषयगळु (Special Topics)
 
-Yāska has given the Nirukta for this quarter-verse:
+Yāska has given the Nirukta for this Ṛk:
 यद्देवापिः शंतनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् । देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥ (*yaddevāpiḥ śaṃtanave purohito hotrāya vṛtaḥ kṛpayannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖*) शंतनुः शं तनोऽस्त्विति वा शमस्यॆ तन्ना अस्त्वति वा । पुरोहितः पुरः एनं दधति । होत्राय वृतः कृपायमाणोऽन्वध्यायत् । देवश्रुतं देवा एनं शृण्वंति । वृष्टिवनिं वृष्टियाचिनं । रराणो रातिरभ्यस्तो बृहस्पति ब्रह्मासीत् सोऽस्मै वाचमयच्छत् बृहदुपव्याख्यातं ॥ (*śaṃtanuḥ śaṃ tano 'stviti vā śamasyè tannā astvati vā | purohitaḥ puraḥ enaṃ dadhati | hotrāya vṛtaḥ kṛpāyamāṇo 'nvadhyāyat | devaśrutaṃ devā enaṃ śṛṇvaṃti | vṛṣṭivaniṃ vṛṣṭiyācinaṃ | rarāṇo rātirabhyasto bṛhaspati brahmāsīt so 'smai vācamayacchat bṛhadupavyākhyātaṃ ‖*) (Ni. 2-12)**NOTE**
 
 शंतनुः शं तनोऽस्त्व वा शमस्मै तन्ना अस्त्विति (*śaṃtanuḥ śaṃ tano 'stva vā śamasmai tannā astviti*)—The reason this king has the name Śantanu: seeing a man suffering from disease, he addressed his body: "O body afflicted by disease, may you be well", and so he got the name Śantanu. Or else: śam means happiness, tanu means body; since he wishes that this body may always have happiness, the name is Śantanu.
@@ -7213,7 +7214,7 @@ You, Indra, are the eye of the eye of the whole world, when, showerer (of benifi
 
 ## Sūkta 103 (Maṇḍala 10)
 
-##### विशेषविषयगळु (Special Topics)
+**Pīṭhike**
 
 Introduction. Concerning this sūkta (आशुः शिशानः (*āśuḥ śiśānaḥ*)) the Ṛgvidhāna says as follows:
 
@@ -10770,7 +10771,7 @@ Horses capable of bearing hevvy burdens bear the giver of enjoyment, a well-cons
 
 ## Sūkta 108 (Maṇḍala 10)
 
-##### विशेषविषयगळु (Special Topics)
+**Pīṭhike**
 
 Introduction. In this sūkta the conversation between the asuras called Paṇis and Saramā, the divine bitch (female dog) who was with Indra, is told. The matter of Saramā and her two pups, the two dogs called Sārameyau, is stated in the Ṛks
 इंद्रस्यांगिरसां जेष्टौ विदत्सरमा तनयाय धासिं । बृहस्पतिर्भिनदद्रिं विदद्गाः समुस्रियाभिर्नावशंत नरः ॥ (*iṃdrasyāṃgirasāṃ jeṣṭau vidatsaramā tanayāya dhāsiṃ | bṛhaspatirbhinadadriṃ vidadgāḥ samusriyābhirnāvaśaṃta naraḥ ‖*)
@@ -14536,7 +14537,7 @@ Sāyaṇa says that the sūkta मनीषिणः (*manīṣiṇaḥ*) is a t
 
 ##### Anuvāda
 
-This sūkta मनीषिणः (*manīṣiṇaḥ*) is the twelfth sūkta in the ninth anuvāka. It has ten Ṛks. Its seer is Aṣṭrādaṃṣṭra of the lineage of the sage Virūpa; the deity is Indra; the metre is Triṣṭubh. The Anukramaṇī says मनीषिणो दशाष्ट्रादंष्ट्रः (*manīṣiṇo daśāṣṭrādaṃṣṭraḥ*). The viniyoga has already been stated.
+This sūkta मनीषिणः (*manīṣiṇaḥ*) is the twelfth sūkta in the ninth anuvāka. It has ten Ṛks. Its seer is Aṣṭādaṃṣṭra of the lineage of the sage Virūpa; the deity is Indra; the metre is Triṣṭubh. The Anukramaṇī says मनीषिणो दशाष्ट्रादंष्ट्रः (*manīṣiṇo daśāṣṭrādaṃṣṭraḥ*). The viniyoga has already been stated.
 
 Sūkta 111. Maṇḍala 10; Anuvāka 9; Sūkta 111. Aṣṭaka 8; Adhyāya 6; Vargas 10, 11. Number of Ṛks in the sūkta: 10. Seer: Aṣṭādaṃṣṭra. Deity: Indra. Metre: Triṣṭubh.
 
@@ -19007,7 +19008,7 @@ Since homa is made in Agni with ghee, the limbs of Agni, that is, Agni, are dren
 
 ##### Gist of the bhāṣya
 
-In the Āprī-type recitation (अप्पोर्यामे (*apporyāme*)) the verse जरमाणः समिध्यसे (*jaramāṇaḥ samidhyase*) is the anurūpa of a triplet, in the Hotṛ's supplementary recitation; and it is prescribed in the sūtra: जराबोध तद्विविद्धि जरमाणः समिध्यसे । अ. ९-११ । (*jarābodha tadvividdhi jaramāṇaḥ samidhyase | a. 9-11 |*) (Ā. Sū. 9-11).
+In the Aptoryāma rite (अप्पोर्यामे (*apporyāme*)) the verse जरमाणः समिध्यसे (*jaramāṇaḥ samidhyase*) is the anurūpa of a triplet, in the Hotṛ's supplementary recitation; and it is prescribed in the sūtra: जराबोध तद्विविद्धि जरमाणः समिध्यसे । अ. ९-११ । (*jarābodha tadvividdhi jaramāṇaḥ samidhyase | a. 9-11 |*) (Ā. Sū. 9-11).
 O Havyavāhana, conveyer of oblations! Praised by the worshippers (जरतिः (*jaratiḥ*) is a root meaning praise), you are kindled for the gods, that is, for their sake; you are well lit with oblations. Such as you, the mortals, the pious sacrificers among men, invoke.
 **NOTE**
 
@@ -21058,7 +21059,6 @@ In this Ṛk and in the next, the following point is set out: before creation th
 > पर्यपश्यत् परितो दृष्टवान् यश्च देवेष्वधि देवेषु मध्यॆ देवस्तेषामपीश्वरः
 > सन्नेकोऽद्वितीय आसीत् भवति ॥ अस्तेश्यांदसो लज् । अस्तिसिचोऽपृक्ते ।
 > पा. ७-३-९६ । इतीडागमः ॥ तस्मै कस्मा इत्यादि गतं ॥
-> 41
 
 ##### Gist of the bhāṣya
 
@@ -25086,11 +25086,11 @@ In the beginning, that is, before creation, only asat, that is, the unmanifest t
 ### Printed p. 757
 पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि ॥ (*pādo 'sya viśvā bhūtāni tripādasyāmṛtaṃ divi ‖*)
 त्रिपादूर्ध्व उद्वैत्पुरुषः पादोऽस्येहाभवत्पुनः ॥ (*tripādūrdhva udvaitpuruṣaḥ pādo 'syehābhavatpunaḥ ‖*)
-(Ṛ. Saṃ. 10-90-3, 4) (printed as मू (*mū*). सं (*saṃ*).)**NOTE**
+(Ṛ. Saṃ. 10-90-3, 4)**NOTE**
 
 When the Supreme Self (the unmanifest form called asat) created the world, only one pāda (a quarter) of its measure, that is, a very small part, was transformed into the world. The remaining three parts, that is, the greater part, remain just as they were, without any change (in the unmanifest form called asat). Both the sentences above say this in the same way. An example can be given. The water of the sea, heated by the sun's rays, becomes vapour, then through the clouds, that is, through rain, falls on the earth, flows as rivers and again joins the sea. The rivers arising from sea-water do not contain all the sea-water; that is, not all the water of the sea is transformed into rivers; only some part (a very small part) is drawn up as vapour, becomes clouds, then rivers, reservoirs and the like, stays for some time and finally joins the sea. In the same way only a very small part of the unmanifest form is transformed into this universe, the world and the rest, stays for some time and is again dissolved into the unmanifest. The greater part of the unmanifest (asat) always remains in the same state without any change. This is described in the Aitareya Upaniṣad thus: it has been said that the Self (asat, or the Supreme Self) existed before all. But who is this Self? By whose power do these senses engage in their respective functions? The Self is pure consciousness. Its name is prajñāna. The various activities in the mind and in the sentient being are only impulses of that pure consciousness. These external things also rest in this pure consciousness; that is, this consciousness is the shelter and support of all things. Without this consciousness no other thing exists in this universe; whatever exists must exist by its support. That pure consciousness is the origin of all things, the origin of the whole universe. By its own spontaneous impulse all the activities of this manifest universe go on. In another place in this same Upaniṣad—
 
-कोऽयमात्मेति वयमुपास्महे कतरं स आत्मा येन वा पश्यति येन वा शृणोति येन वा गंधानाजिघ्रति येन वा वाचं व्याकरोति येन वा स्वादु चास्वादु च विजानाति ॥ १ ॥ यदेतद्धृदयं मनश्चैतत् । संज्ञानमाज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिर्धृतिर्मतिर्मनीषा जूतिः स्मृतिः संकल्पः क्रतुरसुः कामो वश इति सर्वाण्ये वैतानि प्रज्ञानस्य नामधेयानि भवंति ॥ २ ॥ एष ब्रह्मैष इंद्र एष प्रजापतिरेते सर्वे देवा इमानि च पंचमहाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्षुद्रमिश्राणीव ॥ बीजानीतराणि चेतराणि चांडजानि च जारुजानि ते स्वेदजानि चोद्भिज्ञानि चाश्वा गावः पुरुषा हस्तिनो यत्किंचेदं प्राणि जंगमं च पतत्रि च यच्च स्थावरं सर्वं तत्प्रज्ञानेत्रं प्रज्ञाने प्रतिष्ठितं प्रज्ञानेत्रो लोकः प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म ॥ ३ ॥ (*ko 'yamātmeti vayamupāsmahe kataraṃ sa ātmā yena vā paśyati yena vā śṛṇoti yena vā gaṃdhānājighrati yena vā vācaṃ vyākaroti yena vā svādu cāsvādu ca vijānāti ‖ 1 ‖ yadetaddhṛdayaṃ manaścaitat | saṃjñānamājñānaṃ vijñānaṃ prajñānaṃ medhā dṛṣṭirdhṛtirmatirmanīṣā jūtiḥ smṛtiḥ saṃkalpaḥ kraturasuḥ kāmo vaśa iti sarvāṇye vaitāni prajñānasya nāmadheyāni bhavaṃti ‖ 2 ‖ eṣa brahmaiṣa iṃdra eṣa prajāpatirete sarve devā imāni ca paṃcamahābhūtāni pṛthivī vāyurākāśa āpo jyotīṃṣītyetānīmāni ca kṣudramiśrāṇīva ‖ bījānītarāṇi cetarāṇi cāṃḍajāni ca jārujāni te svedajāni codbhijñāni cāśvā gāvaḥ puruṣā hastino yatkiṃcedaṃ prāṇi jaṃgamaṃ ca patatri ca yacca sthāvaraṃ sarvaṃ tatprajñānetraṃ prajñāne pratiṣṭhitaṃ prajñānetro lokaḥ prajñā pratiṣṭhā prajñānaṃ brahma ‖ 3 ‖*) (the passage continues on the next page)
+कोऽयमात्मेति वयमुपास्महे कतरं स आत्मा येन वा पश्यति येन वा शृणोति येन वा गंधानाजिघ्रति येन वा वाचं व्याकरोति येन वा स्वादु चास्वादु च विजानाति ॥ १ ॥ यदेतद्धृदयं मनश्चैतत् । संज्ञानमाज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिर्धृतिर्मतिर्मनीषा जूतिः स्मृतिः संकल्पः क्रतुरसुः कामो वश इति सर्वाण्ये वैतानि प्रज्ञानस्य नामधेयानि भवंति ॥ २ ॥ एष ब्रह्मैष इंद्र एष प्रजापतिरेते सर्वे देवा इमानि च पंचमहाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्षुद्रमिश्राणीव ॥ बीजानीतराणि चेतराणि चांडजानि च जारुजानि ते स्वेदजानि चोद्भिज्ञानि चाश्वा गावः पुरुषा हस्तिनो यत्किंचेदं प्राणि जंगमं च पतत्रि च यच्च स्थावरं सर्वं तत्प्रज्ञानेत्रं प्रज्ञाने प्रतिष्ठितं प्रज्ञानेत्रो लोकः प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म ॥ ३ ॥ (*ko 'yamātmeti vayamupāsmahe kataraṃ sa ātmā yena vā paśyati yena vā śṛṇoti yena vā gaṃdhānājighrati yena vā vācaṃ vyākaroti yena vā svādu cāsvādu ca vijānāti ‖ 1 ‖ yadetaddhṛdayaṃ manaścaitat | saṃjñānamājñānaṃ vijñānaṃ prajñānaṃ medhā dṛṣṭirdhṛtirmatirmanīṣā jūtiḥ smṛtiḥ saṃkalpaḥ kraturasuḥ kāmo vaśa iti sarvāṇye vaitāni prajñānasya nāmadheyāni bhavaṃti ‖ 2 ‖ eṣa brahmaiṣa iṃdra eṣa prajāpatirete sarve devā imāni ca paṃcamahābhūtāni pṛthivī vāyurākāśa āpo jyotīṃṣītyetānīmāni ca kṣudramiśrāṇīva ‖ bījānītarāṇi cetarāṇi cāṃḍajāni ca jārujāni te svedajāni codbhijñāni cāśvā gāvaḥ puruṣā hastino yatkiṃcedaṃ prāṇi jaṃgamaṃ ca patatri ca yacca sthāvaraṃ sarvaṃ tatprajñānetraṃ prajñāne pratiṣṭhitaṃ prajñānetro lokaḥ prajñā pratiṣṭhā prajñānaṃ brahma ‖ 3 ‖*)
 
 ### Printed p. 758
 स एतेन प्राज्ञेनात्मनात्मल्लोकादुत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान्कामानाप्त्वामृतः समभवत्समभवत् । इत्यों ॥ ४ ॥ (*sa etena prājñenātmanātmallokādutkramyāmuṣmin svarge loke sarvānkāmānāptvāmṛtaḥ samabhavatsamabhavat | ityoṃ ‖ 4 ‖*) (Ai. U. 3-5-1 ff.)
@@ -27149,7 +27149,7 @@ For you, brilliant through your functions, have sat down; now mount (each of you
 
 > प्रो ष्विति सप्तर्चं पंचमं सूक्तं पिजवनपुत्रस्य सुदास आर्षमैंद्रं ।
 > आद्यस्तृचः शाक्वरः । षट्पंचाशदक्षरी शक्वरी । द्वितीयस्तृचो महापांक्तः ।
-> षळष्टका महापंक्तिः । सप्तमी त्रिष्टुप् । तथा चानुक्रांतं । प्रो షు सुदाः पैजवनः
+> षळष्टका महापंक्तिः । सप्तमी त्रिष्टुप् । तथा चानुक्रांतं । प्रो षु सुदाः पैजवनः
 > शाक्वरमहापांक्तावाद्यौ तृचावंत्या त्रिष्टुबिति ॥ षोळशिशस्त्र आद्यस्तृचः शंसनीयः ।
 > सूत्रितं च । त्रिकद्रुकेषु महिषो यवाशिरं प्रो ष्वस्मै पुरोरथमिति तृचावातिच्छंदसौ । आ. ६-२ । इति ॥ महाव्रते माध्यंदिनसवने ब्रह्मशस्त्रेऽनुरूपतृचस्य प्रो
 > ष्वस्मा इत्येका । तथैव पंचमारण्यके सूत्रितं च । प्रो ष्वस्मै पुरोरथमित्यतोऽनुरूपः । ऐ. आ. ५-१-१ । इति ॥
@@ -27989,7 +27989,7 @@ O gods, we never injure (you), we never inflict annoyance (on you), we follow th
 
 ## Sūkta 135 (Maṇḍala 10)
 
-##### विशेषविषयगळु (Special Topics)
+**Pīṭhike**
 
 Introduction. There is a narrative in the Kaṭha Upaniṣad. The sage Vājaśravas had a son named Naciketas. While he was still a boy, that is, of tender age, his father performed a sacrifice and gave away to brahmins the lean cows he had. Seeing this, Naciketas thought: "Why is my father doing this? What use will those brahmins have from these lean cows?" and said to his father: "Father, what merit comes to you by giving such cows? Give good things." When the father said, "Except you, Naciketas, nothing is left with me," Naciketas said, "Give me to someone." The father paid no heed to his childish speech and kept silent. Naciketas did not leave it at that and went on pressing his father: "To whom will you give me?" The father grew angry, and in the rush of anger, not knowing what to say, said: "Boy, I have given you to Death (Yama)."
 
@@ -28519,7 +28519,7 @@ Which father begot me, who am called Kumāra? Since the world, the things in the
 
 ##### Gist of the bhāṣya
 
-अनुदेय्य (*anudeyya*) means "to be given back". In the manner in which this boy, following his father, comes to be given by Yama, so from that father, Vājaśravasa, there stood in front (अग्रं (*agraṃ*)) of the command "Go to Yama's presence" a matter on which Naciketas was to speak with Yama. The Brāhmaṇa text, तं वै प्रवसंतं गंतासीति होवाचेत्यादिकं । (*taṃ vai pravasaṃtaṃ gaṃtāsīti hovācetyādikaṃ |*) (Tai. Brā. 3-11-8-2), is cited at the page's end (continued in the next block).
+अनुदेय्य (*anudeyya*) means "to be given back". In the manner in which this boy, following his father, comes to be given by Yama, so from that father, Vājaśravasa, there stood in front (अग्रं (*agraṃ*)) of the command "Go to Yama's presence" a matter on which Naciketas was to speak with Yama. The Brāhmaṇa text, तं वै प्रवसंतं गंतासीति होवाचेत्यादिकं । (*taṃ vai pravasaṃtaṃ gaṃtāsīti hovācetyādikaṃ |*) (Tai. Brā. 3-11-8-2).
 
 ### Printed p. 864
 
@@ -30631,7 +30631,7 @@ Men for the sake of happiness place before them Agni, the speaker of truth, the 
 The sage Śaunaka has praised this sūkta in this way in his work called Ṛgvidhāna:
 अग्ने अच्छा वदेत्येतद्धनकामः प्रयोजयेत् । नियतः सर्पिषा हुत्वा जपेदयुतशः पुनः ॥ ५० ॥ (*agne acchā vadetyetaddhanakāmaḥ prayojayet | niyataḥ sarpiṣā hutvā japedayutaśaḥ punaḥ ‖ 50 ‖*)
 खादिरीणां हि समिधां जुहुयाद्दशतीर्दश । दशकृत्वः सदारेण रायस्पोषेण पुष्यति ॥ ५१ ॥ (*khādirīṇāṃ hi samidhāṃ juhuyāddaśatīrdaśa | daśakṛtvaḥ sadāreṇa rāyaspoṣeṇa puṣyati ‖ 51 ‖*)
-१ ॥ बिल्वोदुंबरपालाशीस्तथा रौहितकीश्च याः । जुहुयाद्दनकामस्तु रायस्पोषेण पुष्यति ॥ ५२ ॥ (*1 ‖ bilvoduṃbarapālāśīstathā rauhitakīśca yāḥ | juhuyāddanakāmastu rāyaspoṣeṇa puṣyati ‖ 52 ‖*)
+बिल्वोदुंबरपालाशीस्तथा रौहितकीश्च याः । जुहुयाद्दनकामस्तु रायस्पोषेण पुष्यति ॥ ५२ ॥ (*1 ‖ bilvoduṃbarapālāśīstathā rauhitakīśca yāḥ | juhuyāddanakāmastu rāyaspoṣeṇa puṣyati ‖ 52 ‖*)
 
 ### Printed p. 921
 २ ॥ वैभीदकेध्मो बैल्वकीर्जुहुयादर्धमासभुक् । द्विषद्द्वेषेण तस्यांते सूक्तमेतत्प्रयोजयेत् ॥ ५३ ॥ (*2 ‖ vaibhīdakedhmo bailvakīrjuhuyādardhamāsabhuk | dviṣaddveṣeṇa tasyāṃte sūktametatprayojayet ‖ 53 ‖*)
@@ -31914,7 +31914,7 @@ Prosperous, most adorable, all-knowing, come to us and decorate us with blessing
 
 ## Sūkta 144 (Maṇḍala 10)
 
-##### विशेषविषयगळु (Special Topics)
+**Pīṭhike**
 
 Introduction. The seer of this sūkta is said to be Suparṇa, son of Tārkṣya. For sūkta 128 of this same maṇḍala Tārkṣya is said to be the deity, and his son named Ariṣṭanemi the seer of that sūkta. Therefore a detailed account of Tārkṣya, Suparṇa and Ariṣṭanemi is necessary here.
 Yāska in his Nirukta explains the derivation of the word Tārkṣya thus: तार्क्ष्यस्त्वष्टा व्याख्यातः । तीर्णे अंतरिक्षे क्षियति । तूर्णमर्थं रक्षति, अश्नो तेर्वा ॥ (*tārkṣyastvaṣṭā vyākhyātaḥ | tīrṇe aṃtarikṣe kṣiyati | tūrṇamarthaṃ rakṣati, aśno tervā ‖*) (Ni. 10-27).
@@ -32758,7 +32758,6 @@ It is as if cows were grazing, and it looks like a dwelling, and Arayani at even
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > गामं॒गैष आ ह्व॑यति॒ दार्वं॒गैषो अपा॑वधीत् ।  
-> 62  
 > वस॑न्न रण्या॒न्यां सा॒युमक्रु॑क्ष॒दिति॑ मन्यते ॥ ४ ॥
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
@@ -33695,7 +33694,7 @@ This other deity, different from Savitṛ, पश्चा (*paścā*) (afterwar
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa continues his explanation of the verse. The deity (Soma) is "prior", that is, first-born, in relation to Savitṛ. For this reason Suparṇa, that is Garutmān, follows this Savitṛ's dharma, his upholding. All movements depend on Savitṛ's impulsion, so the bringing of Soma depends on it too. Hence all Soma sacrifices proceed only after Savitṛ's impulsion. The particle उ (*u*) is a filler.
+Sāyaṇa continues his explanation of the verse. The deity (Soma) is "prior", that is, first-born, in relation to Savitṛ.**NOTE** For this reason Suparṇa, that is Garutmān, follows this Savitṛ's dharma, his upholding. All movements depend on Savitṛ's impulsion, so the bringing of Soma depends on it too. Hence all Soma sacrifices proceed only after Savitṛ's impulsion. The particle उ (*u*) is a filler.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -37078,7 +37077,7 @@ If he be of wasted life, or already dead, or be come to the verge of death, I br
 
 Sāyaṇa takes सहस्र (*sahasra*) to be a word for "many". An oblation whose fruits are a thousand imperishable "eyes" is सहस्राक्षं (*sahasrākṣaṃ*) (a bahuvrīhi, with the samāsānta ṣac). शारदः (*śāradaḥ*) is that which belongs to the autumn, that is, the year. That which has a hundred autumns is *śataśāradaṃ*, and its accent is that of the first member of the compound. For the same reason शतायुषा (*śatāyuṣā*) means an oblation whose fruit is life, living, measured as a hundred years.
 
-Alternatively: सहस्राक्ष (*sahasrākṣa*) is Indra. By him, the giver of a hundred autumns (years), as the agent, and by the oblation of a hundred years of life as the instrument, "I have brought back" (आहार्षं (*āhārṣaṃ*)) this man seized by yakṣma, that is, I have wished him away from the disease. यथा (*yathā*) means "in the manner in which". शतं शरदः (*śataṃ śaradaḥ*) means a hundred years (the accusative expresses continuous duration). For so long may Indra lead (नयाति (*nayāti*) = नयेत् (*nayet*)) this man to the far end, the termination, the freedom from sorrow, of all (विश्वस्य (*viśvasya*)) sorrow (दुरितस्य (*duritasya*)); so I have brought him back. That is the meaning.
+Alternatively: सहस्राक्ष (*sahasrākṣa*) is Indra. By him, the giver of a hundred autumns (years), as the agent, and by the oblation of a hundred years of life as the instrument, "I have brought back" (आहार्षं (*āhārṣaṃ*)) this man seized by yakṣma, that is, I have led him away from the disease. यथा (*yathā*) means "in the manner in which". शतं शरदः (*śataṃ śaradaḥ*) means a hundred years (the accusative expresses continuous duration). For so long may Indra lead (नयाति (*nayāti*) = नयेत् (*nayet*)) this man to the far end, the termination, the freedom from sorrow, of all (विश्वस्य (*viśvasya*)) sorrow (दुरितस्य (*duritasya*)); so I have brought him back. That is the meaning.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 

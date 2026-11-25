@@ -30,5 +30,13 @@ Done through printed p. 1288 (the whole volume and the last of the edition; one 
 2. (user) 60 `fix-certain` Pratipadārtha rows left (`review/pratipada_check_source.tsv`) and the `near`/`absent` rows.
 3. (user) Kannada sūkta numbers misprinted as 109, 128, 122 where the order gives 119, 129, 172 (`kn_headings.py` WARN; heading follows the English order).
 4. (user) 17 printed numbers without a page of their own (see above): the English and Kannada carry no page mark for them.
-5. Finishing checklist not yet run: accent report, QA samples, review lists, front matter and PDFs (needs the user's front-matter scan PDF), metrics, lessons.
-6. Not merged to `main` yet (the user decides).
+5. (user) Findings of the QA samples left for the editor: see the last line of `review/repair_log.md` (Telugu Pada of Ṛk 4 p. 651, Kannada prose in the bhāṣya blocks pp. 173/851/857/859, short-e sign ॆ/è from the Kannada, IAST-only headwords).
+6. Front matter and PDFs not done: need the user's front-matter scan PDF; WeasyPrint and fonts are not installed in cloud sessions.
+
+## Finishing checklist (HANDBOOK §11), Nov 25 2026
+Done: 1 (last window, p. 1288), 2 (`check_labels`: 0; `repair_inline`: 0 left; `check_inline` over all windows: 0 mismatches; `refs_fix`: 1 English line would change, left to the reference-corrector), 3 (accent report with `--api`, $0.30: 210 unmatched before, 55 accepted; `review/accent_report.tsv`, `accent_report_pages.tsv`, report only), 4 (`kn_headings.py 30 --write`), 5 (QA: two samples of 24 pages by Opus agents, read-only: **10 ERRORs, 42 MINORs**; the clear findings repaired; the second sample was taken at once because the first showed errors), 7 (review lists: `notes.tsv` 321 rows, `inline_mismatch.tsv`, `page_flags.md`, `accent_report_pages.tsv`, `qa_sample.md`, `qa_sample_2.md`; `doubts.tsv` none), 8 (metrics below), 9 (lessons in `docs/LESSONS.md`). Not done: 6 (front matter and PDFs).
+
+## Metrics
+| windows | pages | hand-fixes by kind | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA samples (pages, errors, minors) | cost |
+|---|---|---|---|---|---|---|---|---|
+| 212 batch windows + 1 re-sent (w0712) | 1288 printed (1271 pages in the source, 17 numbers without a head) | 17 stops or failed verifications: missing heading 3, blocks counted one off 4, Saṃhitā split at a window break 2, Ṛk headings/sūkta headings 3, remarks 3, cut-off answer 1, picture ornament 1, Cyrillic letter 1 | 17 | 0 | 0 | 155 (210 − 55 by `--api`) | 48 pages, 10 errors, 42 minors | $11.81 batch + $0.12 preface + $0.10 direct + $0.30 accent API = $12.33; QA agents not counted |
