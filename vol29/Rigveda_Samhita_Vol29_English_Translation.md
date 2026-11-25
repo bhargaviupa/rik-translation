@@ -21933,6 +21933,153 @@ The eye, the third quarter of Brahman, joined with the sun, shines too by the ra
 
 The ear, the fourth quarter of Brahman, joined with the quarters of space, shines, adding its radiance to theirs. Parameśvara, possessing all these quarters, both of the self and of the elements, is beyond them. How? Thus,
 
+### Printed p. 775
+
+एषो ह देवः प्रदिशोऽनु सर्वाः पूर्वो ह जातः स उ गर्भे अंतः । स एव जातः स जनिष्यमाणः प्रत्यज् जनास्तिष्ठति सर्वतो मुखः ॥ (*eṣo ha devaḥ pradiśo 'nu sarvāḥ pūrvo ha jātaḥ sa u garbhe aṃtaḥ | sa eva jātaḥ sa janiṣyamāṇaḥ pratyaj janāstiṣṭhati sarvato mukhaḥ ‖*)
+
+(Kṛ. 9-16) **NOTE**
+
+The Supreme Self stands facing all the quarters. He is Hiraṇyagarbha, who was born before everything else. Having been born, he has entered the womb. It is he alone who is born in the past and in the future. He is the one who faces every side and is the inner controller in all.
+
+Thus, after citing a couple of sentences that praise both the one quarter pervading the world and the greatness that transcends the world, this section is brought to a close. Becoming perceptible to ordinary perception and, at the same time, becoming imperceptible: both these powers are praised together. This is the description of the greatness of the Supreme Puruṣa.
+
+अपाणिपादो जवनो ग्रहीता पश्यत्यचक्षुः स शृणोत्यकर्णः । स नेत्ति वेद्यं न च तस्सास्ति नेत्ता तमाहुरग्र्यं पुरुषं महांतं ॥ (*apāṇipādo javano grahītā paśyatyacakṣuḥ sa śṛṇotyakarṇaḥ | sa netti vedyaṃ na ca tassāsti nettā tamāhuragryaṃ puruṣaṃ mahāṃtaṃ ‖*)
+
+(Kṛ. 80 3-19) **NOTE**
+
+Without feet the Puruṣa moves swiftly. Without hands he grasps. Without eyes he sees, without ears he hears. He knows the whole world. There is no one who has known him. He alone is the one without a second. All praise him greatly as the first, as the Great Self.
+
+निष्कलं निष्क्रियं शांतं निरवद्यं निरंजनं । अमृतस्य परं सेतुं दग्धेंधनमिवानलं ॥ (*niṣkalaṃ niṣkriyaṃ śāṃtaṃ niravadyaṃ niraṃjanaṃ | amṛtasya paraṃ setuṃ dagdheṃdhanamivānalaṃ ‖*)
+
+(Kveṃ. 8-6-19) **NOTE**
+
+The Supreme Puruṣa is without parts (without blemish), or undivided, without action, tranquil, and free of fault. Like a blazing fire he is full of radiance. He is the bridge that carries all from the mortal world, which is a quarter of himself, to the immortal world joined with his divine radiance. He is the divine means that yokes one eternally to his immortality established in the heavenly world.
+
+The main purport.
+
+Although the four quarters of this Ṛk describe four subjects, they all stand in mutual relation. They may be examined one by one.
+
+Two kinds of meaning can be given to the word एतावान् (*etāvān*) in the sentence एतावानस्य महिमा (*etāvānasya mahimā*). Sāyaṇa has explained it as अतीतानागतवर्तमानरूपं जगद्यावदस्येतावान्स्वर्वोह्यस्य पुरुषस्य महिमा स्वकीयसामर्थ्यविशेषः । (*atītānāgatavartamānarūpaṃ jagadyāvadasyetāvānsvarvohyasya puruṣasya mahimā svakīyasāmarthyaviśeṣaḥ |*)
+
+### Printed p. 776
+
+That is to say, the worlds and the rest that existed in former kalpas, those that are now before our eyes, and those of the present time, which are destroyed and are created again after the dissolution: all of them are particular glories of this Supreme Puruṣa and indicate his extraordinary power and capacity. So he has explained the meaning. This is one kind of meaning. The second meaning is this: this Supreme Puruṣa is not merely the form of the world and the rest that is perceptible to us in the state of creation. That is only a very small part. The particular glories of this Supreme Self in the unmanifest state, namely the powers and capacities set forth in the sentences अत्यतिष्ठद्दशांगुलं (*atyatiṣṭhaddaśāṃgulaṃ*) and अमृतत्वस्येशानः (*amṛtatvasyeśānaḥ*), are far greater than the visible world and the rest. The main purport of this sentence is that the Supreme Puruṣa is the one who possesses these two kinds of greatness.
+
+अतो ज्यायांश्च पूरुषः (*ato jyāyāṃśca pūruṣaḥ*): because this Supreme Self has the powers and capacities described above, he is exceedingly great in glory. How? Although the world and the rest are parts of the Supreme Self, the form of the Supreme Self that stands as the world and the rest is not his real form. For they exist only for some time and then dissolve, that is, they merge into the very real form of the Supreme Self. The unmanifest form is his real form, for it never perishes; it is eternal. Although for the work of creation a certain part of the Supreme Self has taken a manifest form, the greater part has remained in the unmanifest form without taking a manifest form. Therefore the unmanifest form exists in both states, in the time of creation and in the time of dissolution when there is no creation. For that very reason it is said here that the glory of this Supreme Puruṣa, who has the unmanifest form, is exceeding.
+
+The two sentences पादोऽस्य विश्वा भूतानि (*pādo 'sya viśvā bhūtāni*) and त्रिपादस्यामृतं दिवि (*tripādasyāmṛtaṃ divi*) in the second half must be examined together. In the first Ṛk, in the sentence अत्यतिष्ठद्दशांगुलं (*atyatiṣṭhaddaśāṃgulaṃ*), the meaning was indicated that this Supreme Self has only a small part in the manifest form and is, in a far greater measure, in the unmanifest form. That very idea is described clearly in the sentences पादोऽस्य विश्वा भूतानि (*pādo 'sya viśvā bhūtāni*) and त्रिपादस्यामृतं दिवि (*tripādasyāmṛtaṃ divi*), which form the latter half of the present Ṛk. The word पाद (*pāda*) in these sentences means one part out of four. भूतानि (*bhūtāni*) means the five great elements, the world and the rest, including all things moving and unmoving. Therefore the whole universe, the world and the rest, is only a quarter of this Supreme Self. That is, only a quarter of the unmanifest form of the Supreme Self has taken the manifest form and been transformed into the world and the rest. What is the state of the remaining three parts? The sentence त्रिपादस्यामृतं दिवि (*tripādasyāmṛtaṃ divi*) makes this clear. Here दिवि (*divi*) does not mean merely the atmosphere or heaven. It means a place that is not perceptible, just as the atmosphere or heaven is not directly perceptible to us. The remaining three parts of the unmanifest form of the Supreme Self, which has no transformation into the world and the rest,
+
+### Printed p. 777
+
+remain as the unmanifest, which is called immortal (imperishable) and is not perceptible. That is, it has undergone no change and remains in the same state. It has no destruction. For that very reason it is well known by names such as immortality, liberation and the supreme state. The Upaniṣads proclaim that when the self (the Puruṣa) freed from saṃsāra becomes one with Brahman and is absorbed in this unmanifest form, there is no return for him, that is, no rebirth. Here another matter must be noted. The words पाद (*pāda*) and त्रिपात् (*tripāt*) do not only indicate the meanings "a quarter" and "three parts". पाद (*pāda*) can be understood as only a small part and त्रिपात् (*tripāt*) as the greater part.
+
+To make this meaning clear, the example of the ocean, as given before, may be given here too. It is everyone's experience that the ocean is the chief resting place of all the water on this earth. The water of that ocean, heated by the rays of the sun, becomes clouds, and by the rain they shed it becomes rivers such as the Gaṅgā and joins the ocean again. The water that is transformed into clouds is only a very small part of the ocean. The part of the water that remains untransformed is by far the greater. In the same way, the world and the rest, the manifest form of the Supreme Self, are only a small part of the unmanifest form. The unmanifest form, which remains without any change, is the greater part. Moreover, just as the water that rises from the ocean through the heat of the sun's rays in the form of vapour, becomes clouds, and then flows as rivers such as the Gaṅgā stays on the earth for some time and finally joins the very ocean, so all the multitudes of living beings and the whole world, moving and unmoving, are transformed from the unmanifest form of the Supreme Self into the manifest form, remain for some time in that form of the world and the rest, and finally attain dissolution, that is, lose their manifest form and merge again in their own abode, the unmanifest form of the Supreme Self. Just as the rivers such as the Gaṅgā, after joining the ocean and becoming one with it, have neither a separate form nor a designation by name, and there is only the one name "ocean", so the multitudes of living beings and the world and the rest created by the Supreme Self are well known for some time in various forms and by various names, and finally, in the time of dissolution, lose their forms and names and, as before, are absorbed in the unmanifest form of the Supreme Self. Then nothing exists except the unmanifest form of the Supreme Self. This is called the real or true form, the natural state, of the Supreme Self or the Supreme Puruṣa. A detailed explanation of this may be seen in the Upaniṣads.
+
+### Printed p. 778
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒पादू॒र्ध्व उद्वै॒त्पुरु॑षः॒ पादो॑ऽस्ये॒हाभ॑व॒त्पुनः॑ ।  
+> ततो॒ विश्व॒ज्ज ॑क्रामत्साशनानश॒ने अ॒भि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिपात् । ऊर्ध्वः । उत् । ऐत् । पुरुषः । पादः । अस्य । इह । अभवत् । पुनरिति ।  
+> ततः । विस्वज् । वि । अक्रामत् । साशनानशने इति । अभि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽयं त्रिपात्पुरुषः संसाररहितो ब्रह्मस्वरूपः सोऽयमूर्ध्व
+> उदैत् । आस्मादज्ञानकार्यात्संसाराद्बर्हिर्भूतोऽत्रत्यैर्गुणदोषैरस्पृष्ट
+> उत्कर्षेण स्थितवान् । तस्याऽस्य सोऽयं पादो लेशः सोऽयमिह मायायां
+> पुनरभवत् । सृष्टिसंहाराभ्यां पुनः पुनरागच्छति । अस्य सर्वस्य जगतः परमात्मलेशत्वं भगवताप्युक्तं । विष्टभ्याहमिदं कृत्समेकांशेन स्थितो जगत् । भ. गी.
+> १०-४२ । इति। ततो मायायामागत्या नंतरं विष्णज् देवमनुष्यतिर्यगादिरुपेण
+> विविधः सन् व्यक्रामत् । व्याप्तवान् । किं कृत्वा । साशनानशने अभिलक्ष्य । साशनं
+> भोजनादिव्यवहारोपेतु चेतनं प्राणिजातं अनशनं तद्रहितमचेतनं गिरिनद्यादिकं । तदुभयं यथा स्यात्तथा स्वयमेव विविधो भूत्वा व्याप्तवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Puruṣa who is three-quarters, free of saṃsāra and of the nature of Brahman, सोऽयमूर्ध्व उदैत् (*so 'yamūrdhva udait*): he stands exalted, outside this saṃsāra, which is the effect of ignorance, untouched by the merits and faults found here. His quarter, a mere part, becomes again here in Māyā; through creation and dissolution it comes again and again. That this whole world is a part of the Supreme Self has also been said by the Lord: विष्टभ्याहमिदं कृत्समेकांशेन स्थितो जगत् (*viṣṭabhyāhamidaṃ kṛtsamekāṃśena sthito jagat*) (Bha. Gī. 10-42) **NOTE**. Thereafter, having come into Māyā, he spread out, diversified in the forms of gods, men, animals and the like; that is, he pervaded. Having done what? Having regarded साशनानशने (*sāśanānaśane*): the sāśana is the sentient class of living beings endowed with activities such as eating, and the anaśana is what is without it, the insentient, such as mountains and rivers. The meaning is that, in such a way that both may be, he himself became diverse and pervaded.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिपात् पुरुषः (*tripāt puruṣaḥ*)—the Puruṣa who has established his three-quarter part, which is not perceptible to the senses, in the self-luminous world
+- ऊर्ध्वं (*ūrdhvaṃ*)—in the exalted divine world
+- उदैत् (*udait*)—he stands established, beyond saṃsāra
+- अस्य (*asya*)—of this primal Puruṣa
+- पादः (*pādaḥ*)—the one remaining fourth part
+- इह (*iha*)—in the form of saṃsāra
+- पुनः अभवत् (*punaḥ abhavat*)—manifests again and again
+- ततः (*tataḥ*)—after he has taken the manifest form
+- साशनानशने अभि (*sāśanānaśane abhi*)—both in the form of living beings with hunger and thirst and in the insentient form without them
+- विश्वज् (*viśvaj*)—in various forms
+- व्यक्रामत् (*vyakrāmat*)—he pervaded the world
+
+##### भावार्थ (Bhāvārtha)
+
+The Puruṣa who has established his three-quarter part, which is not perceptible to the senses, in the self-luminous world stands established in the exalted divine world, beyond saṃsāra. Only one fourth part of this primal Puruṣa
+
+### Printed p. 779
+
+manifests again and again in the form of saṃsāra. This Supreme Puruṣa, after taking the manifest form, pervades the world in various forms, both in the form of living beings with hunger and thirst and in the insentient form without them.
+
+##### English translation
+Three-fourths of Purusha ascended ; the other fourth that remained in this world proceeds repeatedly and, diversified in various forms, went to all animate and inanimate creation.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this mantra, after first showing the absence of relation between the Lord and the world, the same unmanifest Lord is described and praised as becoming transformed, by a part of himself, into the form of the world. The Lord's sport-glory is praised here. It is known from the commentaries that the purport of the portion त्रिपादूर्ध्व उद्वैत्पुरुषः (*tripādūrdhva udvaitpuruṣaḥ*) can be stated in three or four ways. First, Sāyaṇa's explanation is as follows.
+
+योऽयं त्रिपात्पुरुषः संसारस्पर्शरहितो बहुलस्वरूपः सोऽयमूर्ध्व उदैत् । अस्मादज्ञानकार्यात्संसाराद्बहिर्भूतोऽतत्रैर्गुणदोषैरस्पृष्ट उत्कर्षेण स्थितवान् । (*yo 'yaṃ tripātpuruṣaḥ saṃsārasparśarahito bahulasvarūpaḥ so 'yamūrdhva udait | asmādajñānakāryātsaṃsārādbahirbhūto 'tatrairguṇadoṣairaspṛṣṭa utkarṣeṇa sthitavān |*)
+
+The Puruṣa called त्रिपात् (*tripāt*), being in the lower world (in the world that is the lower form of Brahman), is not smeared by the faults of the worldly saṃsāra, belongs to the upper world, and shines, joined with self-luminous radiance. He is outside all faults such as ignorance and egoism, is beyond the three guṇas, and stands in the most exalted state. Mahīdhara and Rāmānuja (in the Śrī Bhāṣya of Rāmānuja) all support the same view. Besides this, they have shown that some other purports are also possible. How? As follows.
+
+The word त्रिपात् (*tripāt*) means three feet. He is established in a place higher than those three feet. Those three feet are the three worlds comprising Jana, Maha and Satya. The purport is that he shines of himself in a place beyond these.
+
+Third: त्रिपादित्यनेन उदर, हृदय, द हराणां तत उर्ध्वमुपरिभागे सहस्रारे पुरुष उदैत् । (*tripādityanena udara, hṛdaya, da harāṇāṃ tata urdhvamuparibhāge sahasrāre puruṣa udait |*) In the body of a man there are three positions called the belly, the heart and the daharā. He is established in the region of the sahasrāra, beyond all these. This is another purport.
+
+### Printed p. 780
+
+Fourth: यद्वा त्रिपाच्छब्देन जाग्रत्स्वनसुषुप्तीनां ग्रहणं तत ऊर्ध्वं उपरिभागे तुरीयायामुदैत् स्तोपलब्धिं प्राप्त इत्यर्थः । (*yadvā tripācchabdena jāgratsvanasuṣuptīnāṃ grahaṇaṃ tata ūrdhvaṃ uparibhāge turīyāyāmudait stopalabdhiṃ prāpta ityarthaḥ |*) The three states, waking, dream and deep sleep, are indicated by the word त्रिपाच्छब्द (*tripācchabda*). The meaning is that he has reached the fourth state, which is beyond these three.
+
+Fifth: त्रिपाच्छब्देन तत ऊर्ध्वं (*tripācchabdena tata ūrdhvaṃ*). The purport is that he has a state beyond the masses of Veda, the Ṛk, Yajus and Sāman, which teach Brahman. Thus various meanings have been stated. Whether there is the support of Śruti sentences for stating these meanings is now being examined.
+
+First, the explanation of Sāyaṇa's purport: the difference between the created world and Brahman, who is beyond the world, has been shown. The world of one quarter is full of ignorance. It is full of many kinds of deficiencies. It is faulty. It is full of rajas and tamas. But the Supreme Puruṣa, who has three quarters, that is, who has a form without beginning and end, is outside these faults. To show this difference, that he is free of the deficiencies of saṃsāra and is pure, it has been said त्रिपादूर्ध्व उदैत् पुरुषः (*tripādūrdhva udait puruṣaḥ*). The Upaniṣad sentences state this difference in this way.
+
+The Brahman principle, which has been described by two qualifications, "being" and "non-being", is, when in the state of non-being, full of the three guṇas.
+
+मायां तु प्रकृतिं विद्मान्मायिनं च महेश्वरं । तस्यावयवभूतैस्तु व्याप्तं सर्वमिदं जगत् । (*māyāṃ tu prakṛtiṃ vidmānmāyinaṃ ca maheśvaraṃ | tasyāvayavabhūtaistu vyāptaṃ sarvamidaṃ jagat |*)
+
+(Kṛ. 4-10) **NOTE**
+
+(According to the Sāṅkhya view, Prakṛti is not made by the Lord. It is without beginning. The primal Prakṛti has no origin. Although the Bhagavadgītā teaches the Sāṅkhya view, it says that every kind of Prakṛti is a part of the Lord.) Prakṛti is the creation of the Lord that has the form of Māyā. The Lord himself is the Māyin, filled with Māyā. The Lord has enveloped the whole world, which is endowed with ignorance. Although the whole world is covered by the Lord, full realisation does not come unless the four quarters of the Lord are known. The idea that, when he enters the (incomplete) world, he conceals his true form is also taught in the Ṛk Saṃhitā.
+
+### Printed p. 781
+
+य इमा विश्वा भुवनानि जुह्वदृषिर्होता न्यसीदत्पितानः । स आशिषा द्रविणमिच्छमानः प्रथमच्छदवरा आ विवेश ॥ (*ya imā viśvā bhuvanāni juhvadṛṣirhotā nyasīdatpitānaḥ | sa āśiṣā draviṇamicchamānaḥ prathamacchadavarā ā viveśa ‖*)
+
+(Ṛ. Saṃ. 10-81-1)
+
+Viśvakarman offered the whole world as an oblation in the sacrifice made by himself. At the end he offered himself. Desiring to create the world again, he first concealed it, so it is said. Here Sāyaṇa has explained the sentence प्रथमच्छत् अवरान् आ विवेश (*prathamacchat avarān ā viveśa*) thus.
+
+प्रथममच्छत् प्रथमं मुख्यं निष्ट्रपंचं सारमार्थिकं रूपमावृण्वन् स्वसृष्टान् प्राणिहृदयप्रदेशानाविवेश आविष्टवान् जीवरूपेण । (*prathamamacchat prathamaṃ mukhyaṃ niṣṭrapaṃcaṃ sāramārthikaṃ rūpamāvṛṇvan svasṛṣṭān prāṇihṛdayapradeśānāviveśa āviṣṭavān jīvarūpeṇa |*)
+
+It is explained that the meaning is: having concealed his own real form, which is beyond the world, he entered all beings in the form of the world created by himself. Therefore, after the creation of the world, the form of the Lord became twofold: the world endowed with name and form, and the Lord without name and form. The Lord without name and form is the one described as त्रिपादूर्ध्व उद्वैत् (*tripādūrdhva udvait*). How this division comes about is described in the Śatapatha Brāhmaṇa as follows.
+
+ब्रह्म वा इदमग्र आसीत् । तद्देवानसृजत । तद्देवान्त्सृष्टैषु लोकेषु व्यारोहयदस्मिन्नेव लोकेऽग्निं वायुमंतरिक्षे दिव्येव सूर्यं । (*brahma vā idamagra āsīt | taddevānasṛjata | taddevāntsṛṣṭaiṣu lokeṣu vyārohayadasminneva loke 'gniṃ vāyumaṃtarikṣe divyeva sūryaṃ |*)
+
+(Śa. Brā. 11-2-3-1)
+
+At the beginning of creation only Brahman existed. Afterwards he created the gods. Having created them, he established them in these three worlds. He established Agni on the earth, Vāyu in the atmosphere and Sūrya in the heavenly world.
+
+अथ येऽत ऊर्ध्वा लोकाः । तद्या अत ऊर्ध्वा देवतास्तेषु ता देवता व्यारोहयत्स यथा हैवेम आविर्लोका इमाश्च देवता एवमु हैव त आविर्लोकास्ताश्च देवता येषु ता देवता व्यारोहयत् । (*atha ye 'ta ūrdhvā lokāḥ | tadyā ata ūrdhvā devatāsteṣu tā devatā vyārohayatsa yathā haivema āvirlokā imāśca devatā evamu haiva ta āvirlokāstāśca devatā yeṣu tā devatā vyārohayat |*)
+
+(Śa. Brā. 11-2-3-2)
+
+In the worlds higher than these worlds he established gods superior to these. Like the worlds perceptible to ordinary perception and the gods established in them, the other worlds and their gods too became directly perceptible.
+
 ---
 
-**Progress note:** Done through printed p. 774. Special Topics: puruṣa vs akṣara, Upaniṣad and Gītā citations, four pādas
+**Progress note:** Done through printed p. 781. Puruṣa sūkta Ṛk 3 commentary end, Ṛk 4 with bhāṣya and special topics
