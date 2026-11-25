@@ -21360,6 +21360,162 @@ By what cause, that is, by what greatness Īśvara is the lord of the whole worl
 
 The immortality of which the Supreme Puruṣa is lord: is that immortality not also a thing to be enjoyed? If it is a thing to be enjoyed, then, like the food of the world that undergoes change, does it too undergo change? Here the immortality does not undergo change like the food of the world. And of the false, which is called the fruit of action, which is of the nature of the world of this life and the next, which
 
+### Printed p. 750
+
+food, the immortality is not concealed. The enjoyability of that immortality is one thing, and the enjoyability of worldly food is another: thus the difference between the two has been shown. Secondly—
+
+2. यद्वा अन्ने अन्नशब्दोपलक्षितपृथिव्यादिपांचभौतिकप्रपंचे नातिशयेन रोहति नाभिमन्यते मिथ्यात्वात् ॥ (*yadvā anne annaśabdopalakṣitapṛthivyādipāṃcabhautikaprapaṃce nātiśayena rohati nābhimanyate mithyātvāt ‖*)
+
+In the world of the five elements, the world of earth and the rest (earth, water, fire, air, ether), indicated by the word "food", he has no pride of ownership. By the knowledge that it is unreal, he does not take on identity with it: this too is understood. Besides this, thirdly (Mahīdhara-bhāṣya)
+
+3. Just as अमृतत्वस्य ईशानः (*amṛtatvasya īśānaḥ*) is said, so the purport is stated in one way also as "lord even of beings subject to death".
+
+अमृतत्वस्य अमरणधर्मस्य ईशानः मुक्तेरीशः । योऽसौ नासौ म्रियत इत्यर्थः । किं च यत् जीवजातं अन्नेन अतिरोहति उत्पद्यते तस्य सर्वस्य चेशानः ब्रह्मादिस्तंबपर्यंतो भूतग्राम उक्तः तस्यान्नेनैव स्थितेः ॥ (*amṛtatvasya amaraṇadharmasya īśānaḥ mukterīśaḥ | yo 'sau nāsau mriyata ityarthaḥ | kiṃ ca yat jīvajātaṃ annena atirohati utpadyate tasya sarvasya ceśānaḥ brahmādistaṃbaparyaṃto bhūtagrāma uktaḥ tasyānnenaiva sthiteḥ ‖*)
+
+(Pariśodha-bhāṣya)
+
+Just as he is lord of the immortality that is free from the nature of death, so the purport is that he is also lord of all the mortal beings that are born of food and the like and nourished by it. It is declared that Īśvara alone is lord of all beings, from Brahmā down to a blade of grass, produced after creation.
+
+In this connection room remains for another question: does Brahman himself undergo change in the form of food, or does he produce some other food different from himself? To this it must be said: since all produced things are not other than Brahman, food too is a part of Brahman. He is the food, he is the enjoyer, he is the eater, and he is the thing eaten; therefore he is described as अद्यतेऽत्ति च भूतानि (*adyate 'tti ca bhūtāni*), that is, he enjoys and is himself eaten. What the nature of the food produced by Brahman is, and what its greatness, for the sustenance of the creatures produced in the world, must be examined in the present context. The relation between Brahman and food is described in the Bṛhadāraṇyaka in this way.
+
+अन्नं ब्रह्मत्येक आहुस्तन्न तथा पूयंति वा अन्नमृते प्राणात्पाणो ब्रह्मत्येक आहुस्तन्न तथा शुष्यति वै प्राण ऋतेऽन्ना देते ह त्वेव देवते एकधाभूयं भूत्वा परमतां गच्छतस्तद्ध स्माहप्रातृदः पितरं ॥ (*annaṃ brahmatyeka āhustanna tathā pūyaṃti vā annamṛte prāṇātpāṇo brahmatyeka āhustanna tathā śuṣyati vai prāṇa ṛte 'nnā dete ha tveva devate ekadhābhūyaṃ bhūtvā paramatāṃ gacchatastaddha smāhaprātṛdaḥ pitaraṃ ‖*)
+
+Some hold that Brahman is food. To say only this is not right. Food without prāṇa, that is, without connection with it, becomes loathsome.
+
+### Printed p. 751
+
+Others hold that prāṇa is Brahman. To say only this too is not right. Prāṇa without food withers away. Thus, since these two depend on each other, only if concord arises between them do both become beneficial to the world. Therefore Prātṛda spoke to his father in this way.
+
+किं स्विदेवैवं विदुषे साधु कुर्यां किमेवास्मा असाधु कुर्यामिति सह स्वाह पाणिना मा प्रातृद कस्त्वेनयोरेकधाभूयं भूत्वा परमतां गच्छतीति तस्मा उ हैतदुनाच ॥ (*kiṃ svidevaivaṃ viduṣe sādhu kuryāṃ kimevāsmā asādhu kuryāmiti saha svāha pāṇinā mā prātṛda kastvenayorekadhābhūyaṃ bhūtvā paramatāṃ gacchatīti tasmā u haitadunāca ‖*)
+
+When he doubted, "What good can I do to one who knows this truth? Or might harm come to him from me?", the father asked the son: "There is no such fault at all. Tell me what the best fruit is that comes from the combination of these two." As the answer to this—
+
+वीत्यन्नं वैवन्ने हीमानि सर्वाणि भूतानि विष्णानि रमिति प्राणो वै रं प्राणे हीमानि सर्वाणि भूतानि रमंते सर्वाणि ह वा अस्मिन्भूतानि विशंति सर्वाणि भूतानि रमंते य एवं वेद ॥ (*vītyannaṃ vaivanne hīmāni sarvāṇi bhūtāni viṣṇāni ramiti prāṇo vai raṃ prāṇe hīmāni sarvāṇi bhūtāni ramaṃte sarvāṇi ha vā asminbhūtāni viśaṃti sarvāṇi bhūtāni ramaṃte ya evaṃ veda ‖*)
+
+(Pu. 32 Pa. 29) **NOTE**
+
+Since all beings enter food, the syllable वि (*vi*) means food. And since all beings delight in prāṇa, रं (*raṃ*) means prāṇa. Thus it is stated that welfare comes from knowing the relation between these two. This description does not show so clearly the direct relation between Brahman and food. In the Taittirīya Upaniṣad the direct relation between food, the giver of life to the world, and Brahman, the root of the world, is stated in this way—
+
+अन्नाद्वै प्रजाः प्रजायंते । याः काश्च पृथिवीग् श्रिताः । अथो अन्नेन्नैव जीवंति । अथैनदपियंत्यंततः । अन्नग्ं हि भूतानां ज्येष्ठं । तस्मात्सर्वौषधमुच्यते । सर्वं वै तेऽन्नमाप्नुवंति । येऽन्नं ब्रह्मोपासते । अन्नग्ं हि भूतानां ज्येष्ठं । तस्मात्सर्वौषधमुच्यते । अन्नाद्दूतानि जायंते । जातान्यन्नेन वर्धंते । अद्यतेऽत्ति च भूतानि । तस्मादन्नं तदच्युत इति । (*annādvai prajāḥ prajāyaṃte | yāḥ kāśca pṛthivīg śritāḥ | atho annennaiva jīvaṃti | athainadapiyaṃtyaṃtataḥ | annagṃ hi bhūtānāṃ jyeṣṭhaṃ | tasmātsarvauṣadhamucyate | sarvaṃ vai te 'nnamāpnuvaṃti | ye 'nnaṃ brahmopāsate | annagṃ hi bhūtānāṃ jyeṣṭhaṃ | tasmātsarvauṣadhamucyate | annāddūtāni jāyaṃte | jātānyannena vardhaṃte | adyate 'tti ca bhūtāni | tasmādannaṃ tadacyuta iti |*)
+
+(Trai. U. 2-1) **NOTE**
+
+All creatures are born from food alone. Of the living beings that rest on the earth, none lives without food. Food alone is their support of life. Therefore food is the eldest of all beings. For this great reason it is praised as "the medicine of all".
+
+### Printed p. 752
+
+Those who worship food as Brahman obtain food of every kind. From this food, which is of the form of Brahman, comes the birth of all beings. All the beings that are born gain nourishment from food alone. This food is eaten by all beings and eats all beings. Therefore it is called "food".
+
+In this description one should observe how the purport of the sentence यदन्नेनाति रोहति (*yadannenāti rohati*) has been unfolded.
+
+तपसा चीयते ब्रह्म ततोऽन्नमभिजायते । अन्नात् प्राणो मनः सत्यं लोकाः कर्मगु चामृतं ॥ (*tapasā cīyate brahma tato 'nnamabhijāyate | annāt prāṇo manaḥ satyaṃ lokāḥ karmagu cāmṛtaṃ ‖*)
+
+(Ma. U. 1-1-8) **NOTE**
+
+Through austerity Brahman grows to fullness. From that food is produced. From food come prāṇa, mind, truth, all the worlds, and, in actions, immortality and endlessness. Thus food, the source of the world's origin and the nourisher of the world, is praised in the Bṛhadāraṇyaka in this way.
+
+इदं सर्वमन्नं चैवान्नादश्च सोम एवान्नमग्निरन्नादः । (*idaṃ sarvamannaṃ caivānnādaśca soma evānnamagnirannādaḥ |*)
+
+(Bṛ. U. 1-4-6)
+
+This whole universe is food, and at the same time an eater of food. Everything is made of food; everything is to be nourished by food. Therefore food is of the nature of Brahman.
+
+अन्नं वै प्रजापतिस्ततो ह वै तद्रेतस्तस्मादिमाः प्रजाः प्रजायंत इति । (*annaṃ vai prajāpatistato ha vai tadretastasmādimāḥ prajāḥ prajāyaṃta iti |*)
+
+(Praśna. 1-14)
+
+Food is Prajāpati. From it comes the origin of semen; from it the origin of all creatures. All the nourishment of the world is from it. Therefore Varuṇa, when explaining the nature of Brahman to his son Bhṛgu, praised the greatness of food greatly.
+
+अन्नं ब्रह्मेति व्यजानात् । अन्नाद्द्येव खल्विमानि भूतानि जायंते । अन्नेन जातानि जीवंति । अन्नं प्रयंत्यभिसंविशंति । तद्विजिज्ञासस्व । तद्ब्रह्मेति ॥ (*annaṃ brahmeti vyajānāt | annāddyeva khalvimāni bhūtāni jāyaṃte | annena jātāni jīvaṃti | annaṃ prayaṃtyabhisaṃviśaṃti | tadvijijñāsasva | tadbrahmeti ‖*)
+
+(Tai. U. 3-2) **NOTE**
+
+He declared that food is Brahman and that it is to be worshipped in full. Food is prāṇa, mind and all the other principles. Therefore,
+
+अन्नं न निंद्यात् । तद्व्रतं ! प्राणो वा अन्नं । शरीरमन्नादं । प्राणे शरीरं प्रतिष्ठितं । शरीरे प्राणः प्रतिष्ठितः । तदेतदन्नमन्ने प्रतिष्ठितं । स (*annaṃ na niṃdyāt | tadvrataṃ ! prāṇo vā annaṃ | śarīramannādaṃ | prāṇe śarīraṃ pratiṣṭhitaṃ | śarīre prāṇaḥ pratiṣṭhitaḥ | tadetadannamanne pratiṣṭhitaṃ | sa*)
+
+### Printed p. 753
+
+य एतदन्नमन्ने प्रतिष्ठितं वेद प्रतितिष्ठति । अन्नवानन्नादो भवति । महान् भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान् कीर्त्या ॥ (*ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati | annavānannādo bhavati | mahān bhavati prajayā paśubhirbrahmavarcasena | mahān kīrtyā ‖*)
+
+(Tai. U. 3.7)
+
+Food should not be reviled. Know it as a vow. Prāṇa is food. The body is the eater of this food. Prāṇa is established in the body. The body too rests on prāṇa; therefore food is, as it were, established in food. He who knows food thus established in food becomes possessed of food. He obtains the full wealth of sons and the rest.
+
+अन्नं न परिचक्षीत । तद्व्रतं । आपो ना अन्नं। ज्योतिरन्नादं । अप्पु ज्योतिः प्रतिष्ठितं । ज्योतिष्यापः प्रतिष्ठिताः ॥ (*annaṃ na paricakṣīta | tadvrataṃ | āpo nā annaṃ| jyotirannādaṃ | appu jyotiḥ pratiṣṭhitaṃ | jyotiṣyāpaḥ pratiṣṭhitāḥ ‖*)
+
+(Tri. U. 3-8) **NOTE**
+
+No one should despise food. Hold this as a vow in life. Water is food. Fire is the eater of food. Fire is established in water. Water is established in fire. Therefore food is established in food.
+
+अन्नं बहुकुर्वीत । तद्व्रतं । पृथिवी वा अन्नं । आकाशोऽन्नादः । पृथिव्यामाकाशः प्रतिष्ठितः । आकाशे पृथवी प्रतिष्ठिता । तदेतदन्नमन्ने प्रतिष्ठितं ॥ (*annaṃ bahukurvīta | tadvrataṃ | pṛthivī vā annaṃ | ākāśo 'nnādaḥ | pṛthivyāmākāśaḥ pratiṣṭhitaḥ | ākāśe pṛthavī pratiṣṭhitā | tadetadannamanne pratiṣṭhitaṃ ‖*)
+
+(Tai. U. 3-9)
+
+Food should be increased abundantly. Hold this as a vow in life. Earth is food. Ether is the eater of food. Ether is established in the earth. The earth is established in ether. Therefore food is established in food.
+
+Thus, having described every principle as of the nature of food, the text praises food at the end as Brahman.
+
+The Upaniṣadic sentences have been cited so as to fit all the meanings given for the sentence यदन्नेनातिरोहति (*yadannenātirohati*). Just as there is room to understand, in the sense that the subtle Brahman undergoes change into the gross form on account of food, that Brahman himself shines forth in the form of food, so there is room also to say that he produces food different from himself. The sentences of the Aitareya Upaniṣad that support the second meaning are as follows.
+
+स ईक्षतेमे नु लोकाश्च लोकपालाश्चान्नमेभ्यः सृजा इति । (*sa īkṣateme nu lokāśca lokapālāścānnamebhyaḥ sṛjā iti |*)
+
+(I. U. 1-3-1) **NOTE**
+
+Brahman, thinking that he must nourish the worlds and the guardians of the worlds created by himself, desired to produce food for them.
+
+### Printed p. 754
+
+सोऽपोऽभ्यतपत्ताभ्योऽभितप्ताभ्यो मूर्तिरजायत । या वै सा मूर्तिरजायतान्नं वै तत् ॥ (*so 'po 'bhyatapattābhyo 'bhitaptābhyo mūrtirajāyata | yā vai sā mūrtirajāyatānnaṃ vai tat ‖*)
+
+(I. U. 1-2)
+
+Then he performed austerity upon the waters. Then from those waters a form arose. The form that thus arose became food.
+
+तदेतदभिसृष्टं पराजित्यजिघ्रांसत् । तद्वाचाजिघ्रक्षत् तन्नाशक्कोद्वाचा ग्रहीतुं ॥ (*tadetadabhisṛṣṭaṃ parājityajighrāṃsat | tadvācājighrakṣat tannāśakkodvācā grahītuṃ ‖*)
+
+(I, 30. 1-2) **NOTE**
+
+This food, created by Brahman, tried to escape. Then he tried to seize it with the help of speech. He could not seize it with the help of speech. Had it been possible to seize it by speech alone, food would have been obtained, and satisfaction gained, merely by uttering the word "food".
+
+तत्पाणेनाजिघृक्षत् । तन्नाशक्कोत् प्राणेन ग्रहीतुं । स यद्धैनं प्राणेनाग्र हैष्यदभिप्राण्य हैवान्नमत्रप्स्यत् । तच्चक्षुषाजिघृक्षत् । तन्नाशक्कोच्चक्षुषा ग्रहीतुं ! स यद्धैनच्चक्षुषाग्रहैष्यद्दृष्टाव हैवान्नमत्रप्स्यत् । (*tatpāṇenājighṛkṣat | tannāśakkot prāṇena grahītuṃ | sa yaddhainaṃ prāṇenāgra haiṣyadabhiprāṇya haivānnamatrapsyat | taccakṣuṣājighṛkṣat | tannāśakkoccakṣuṣā grahītuṃ ! sa yaddhainaccakṣuṣāgrahaiṣyaddṛṣṭāva haivānnamatrapsyat |*)
+
+(I. U. 1-3-3, 4)
+
+Then he tried to seize the food that was trying to escape with prāṇa and with the eye. It was not possible. Had it been possible to seize it with prāṇa alone and with the eye alone, then merely by breathing and by mere sight, food could have been obtained and satisfaction gained.
+
+In the same way it could not be obtained with the help of hearing, the skin and the mind either. Then, as the last attempt,
+
+तदपानेनाजिघृक्षत् । तदावयत् । सैषोऽन्नस्य ग्रहो यद्वायुरन्नायुर्वा एष यद्वायुः । (*tadapānenājighṛkṣat | tadāvayat | saiṣo 'nnasya graho yadvāyurannāyurvā eṣa yadvāyuḥ |*)
+
+(I. U. 1-3-10)
+
+When he tried to seize that food with the help of apāna, it was caught and he ate it. (Ṛ. Naṃ. 10.113-8; आवयतिरत्तिकर्मा (*āvayatirattikarmā*)). This power of taking food into one's possession is connected with the wind. Vāyu itself comes to be called thus. **NOTE**
+
+### Printed p. 755
+
+In these descriptions it is explained that Brahman not only produced food for the sustenance of the world, but also took pains to keep the food that had been created in his possession, and so protected the world. One purport is that for this protection he had to take a gross form. The view that the creation of the world is itself the gross transformation of Brahman is also well known.
+
+In this Ṛk पुरुष एवेदं सर्वं; अमृतत्वस्य ईशानः, यदन्नेनातिरोहति (*puruṣa evedaṃ sarvaṃ; amṛtatvasya īśānaḥ, yadannenātirohati*) the description of Īśvara shows the pervasiveness and the lordship of the Supreme Puruṣa.
+
+**The chief purport**
+
+In this Ṛk two matters are chiefly described. In the first half, इदं सर्वं पुरुष एव (*idaṃ sarvaṃ puruṣa eva*): this whole visible world is this Puruṣa himself; and in the second half, the point is made clear that this Puruṣa is lord even of the deathless gods and others.
+
+In explaining the meaning of the sentence इदं सर्व० पुरुष एव (*idaṃ sarva0 puruṣa eva*) stated in the first half: the word इदं (*idaṃ*) in this sentence indicates "this", that is, the world visible to us. The word सर्व० (*sarva0*) indicates the world and all the moving and unmoving things in it. This world, which appears to our eyes, that is, which is within our experience, together with the various things and creatures in it, and also the countless millions of universes like it, are this Supreme Puruṣa himself, that is, they are his part. A very small part of that Supreme Puruṣa, who was in the unmanifest state, has become this universe, with the world and the rest. The Upaniṣadic sentence सर्व० खल्विदं ब्रह्म (*sarva0 khalvidaṃ brahma*) also supports this. As said before, since there is no thing other than Brahman (or the Supreme Puruṣa), this whole visible universe is the Supreme Puruṣa himself. But one matter must be kept in mind here. When the Supreme Puruṣa is in the unmanifest form, none of the world and the rest exists. When he is in the manifest form, that is, when some part of the unmanifest form has changed into the manifest form, the world and the rest come into being: this is the meaning.
+
+Now let us examine the words यद्भूतं यच्च भव्यं (*yadbhūtaṃ yacca bhavyaṃ*). यद्भूतं (*yadbhūtaṃ*) means what was in the past; यच्छ भव्यं (*yaccha bhavyaṃ*) means what will be in the future. What is meant by what was in the past and what will be in the future? Once created, do not the world and the rest always remain? No, it is not so. It should be understood that the Supreme Self has chiefly two states, the unmanifest and the manifest; in the manifest state the world and the rest are created and become visible; in the unmanifest state the whole world is destroyed and again becomes one with the Supreme Self alone. These changes are called creation and dissolution. The remaining of the created world and the rest for some time in that same manifest state is called maintenance. This order, that is, the three kinds of activity, creation, maintenance and dissolution, goes on, joining one to another. The Puruṣa who is in the unmanifest state taking on the form of the world and the rest is
+
+### Printed p. 756
+
+creation; remaining for some time in that state itself is maintenance; the world and the rest being destroyed and again reaching the state in which they were before is dissolution or pralaya. Since these three activities go on without a break, just as the world and the rest are now, so the world and the rest have come into being many times before. That is what is meant here by यद्भूतं (*yadbhūtaṃ*), "what was in the past". The world and the rest that will be created again after dissolution, when the present ones are destroyed, are indicated by the words यच्छ भव्यं (*yaccha bhavyaṃ*). Here "the world and the rest" means the many crores of universes comprising all the worlds, all the creatures in them, and all things moving and unmoving. The purport is that all this is that Puruṣa himself.
+
+Now, if the matter in the second half is examined, two kinds of meaning can be given for the sentence उतामृतत्वस्यशानः (*utāmṛtatvasyaśānaḥ*). अमृतत्व (*amṛtatva*) means the deathless gods, and ईशानः (*īśānaḥ*) means that this Puruṣa is lord of these gods: this is Sāyaṇa's explanation.
+
+Although this meaning is correct, it should be observed that another meaning, containing a more profound principle, is possible here. As said before, if the word अमृत (*amṛta*) were taken to mean only the deathless gods, then the words अमृतानां ईशानः (*amṛtānāṃ īśānaḥ*) or अमृतेशानः (*amṛteśānaḥ*) should have been used. But here the word अमृतत्व (*amṛtatva*) is used. To take this word as अमृतस्य भावः (*amṛtasya bhāvaḥ*), that is, "the state of the deathless", is reasonable and sound. What is the state free from death? It is the unmanifest nature of the Supreme Puruṣa, the nature of liberation, which is called the supreme state. When an ordinary man, by his good deeds and austerity, crosses this bondage of worldly existence and gains eternal liberation, that is, becomes one with Brahman, it is called immortality. That is, after immortality or liberation is gained there is no rebirth, so there is no death either. The man who has gained this immortality is not born again. Therefore there is no death. There is the saying of the Lord, यद्गत्वा न निवर्तंते तद्दाम परमं मम (*yadgatvā na nivartaṃte taddāma paramaṃ mama*): that is, the meaning of this sentence is that after reaching the place called the supreme abode (liberation) of the Supreme Self, one does not return to this world and take birth again. This eternal supreme abode is indicated here by the word अमृतत्व (*amṛtatva*), and it is stated that this Supreme Puruṣa is its ईशानः (*īśānaḥ*), that is, its lord. That is, without the grace of the Supreme Self the cessation of worldly existence does not come, and liberation is not gained. Therefore the Śruti sentence supports that one who has known the nature of Brahman, ब्रह्मव सन् ब्रह्माप्येति (*brahmava san brahmāpyeti*), becoming one with Brahman, becomes Brahman himself.
+
+In the sentence यदन्नेनातिरोहति (*yadannenātirohati*) the word अन्न (*anna*) means food. It is indicated in the Śruti sentences अद्यतेऽत्ति च भूतानि । तस्मादन्नं तदुच्यत इति (*adyate 'tti ca bhūtāni | tasmādannaṃ taducyata iti*). Because all creatures eat it, and are themselves eaten by other creatures, food (nourishment) has come to be called अन्न (*anna*). Parameśvara, leaving or crossing beyond his own state, the unmanifest form,
+
 ---
 
-**Progress note:** Done through printed p. 749. Vol 29 pp. 744-749: Special Topics of Ṛk 2 continued, Akṣara, setu, antaryāmin passages
+**Progress note:** Done through printed p. 756. Mahidhara/Pariśodha on anna; Upaniṣad quotations; chief purport on idam sarvam, yad bhūtam, amṛtatva
