@@ -40605,6 +40605,245 @@ Having overcome our rivals, and those who are our enemies, do you, attack him wh
 > अभि । त्वा । देवः । सविता । अभि । सोमः । अवीवृतत् ।  
 > अभि । त्वा । विश्वा । भूतानि । अभिवर्तः । यथा । अससि ॥ ३ ॥
 
+### Printed p. 1179
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् देवो दानादिगुणयुक्तः सविता त्वा त्वामभ्यवीवृतत् । अभिवर्तयतु । अभिगमयतु राष्ट्रं । सोमश्चाभिवर्तयतु । विश्वा विश्वानि सर्वाण्यपि
+> भूतानि पृथिव्यादीनि त्वामभि वर्तयंतु । यथा येन प्रकारेण त्वमभीवर्तोऽसि ।
+> अभितः सर्वत्र वर्तमानो भवसि ॥ अस्तेश्चांदसः शपो लुगभावः ॥
+
+##### Gist of the bhāṣya
+
+O king, may the divine Savitṛ, endowed with the quality of generosity and the like, turn toward you and bring the kingdom to you; and may Soma turn it toward you. May all beings, earth and the rest, turn toward you, in the manner in which you are अभिवर्तः (*abhivartaḥ*), one who exists everywhere on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे राजन् (*he rājan*)—O king
+- देवः (*devaḥ*)—endowed with generosity and the like, or shining
+- सविता (*savitā*)—the god Savitṛ
+- त्वा (*tvā*)—you
+- अभि अवीवृतत् (*abhi avīvṛtat*)—may he establish firmly in the kingdom
+- सोमः (*somaḥ*)—Soma too
+- अभि (*abhi*)—may he establish
+- यथा (*yathā*)—in the manner in which you
+- अभिवर्तः अससि (*abhivartaḥ asasi*)—are established everywhere
+- विश्वा (*viśvā*)—all
+- भूतानि (*bhūtāni*)—beings, earth and the rest
+- अभि (*abhi*)—may they establish you in the kingdom
+
+##### भावार्थ (Bhāvārtha)
+
+O king, may the god Savitṛ, endowed with generosity and the like or shining, and Soma, establish you firmly in the kingdom. As you exist everywhere possessed of authority, so may all beings, earth and the rest, establish you in the kingdom so that you remain there permanently.
+
+##### English translation
+May the divine Savitri, may Soma establish you, (raja); may all beings establish you, so that you may be supreme.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येनेंद्रो हविषा कृत्त्व भवद्दु न्मुत्यमः ।  
+> इ॒दं तद॑क्रि देवा असप॒त्नः किला॑भुवं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । इंद्रः । हविषा । कृत्वी । अभवत् । द्युम्ना । उत्तमः ।  
+> इदं । तत् । अक्रि । देवाः । असपत्नः । किल । अभुवं ॥ ४ ॥
+
+### Printed p. 1180
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येन हविषास्माभिर्दत्तेन माद्यन्निंद्रः कृत्वी वृत्रवधादेः कर्मणः कर्ताभवत् द्युम्ना । द्युम्नं द्योततेर्यशो वान्नं ना । तद्वान् अत एवोत्तम
+> उत्कृष्टतमश्चाभवत् तदिदं हविर्हे देवाः अक्रि । अकारि । यद्वा । अहमकार्षं ।
+> अत एवाहमसपत्नः किलाभुवं । शत्रुरहितोऽप्यभवं खलु ॥
+
+##### Gist of the bhāṣya
+
+By the oblation given by us, delighting in which Indra became the doer of deeds such as the slaying of Vṛtra, and being द्युम्ना (*dyumnā*) (द्युम्नं (*dyumnaṃ*) from *dyotateḥ*: glory, or food), possessed of it and therefore the most excellent, that same oblation, O gods, has been made (अक्रि (*akri*) = अकारि (*akāri*)). Or else: "I have made it." Therefore I have indeed become without rivals, free of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन हविषा (*yena haviṣā*)—by which oblation offered by us, delighted
+- इंद्रः (*iṃdraḥ*)—Indra
+- कृत्वी (*kṛtvī*)—capable of doing bold deeds such as slaying Vṛtra
+- अभवत् (*abhavat*)—became
+- द्युम्ना (*dyumnā*)—became possessed of fame
+- उत्तमः (*uttamaḥ*)—excellent
+- तत् इदं (*tat idaṃ*)—this oblation
+- देवाः (*devāḥ*)—O gods
+- अक्रि (*akri*)—I have offered to you (therefore I)
+- असपत्नः किल (*asapatnaḥ kila*)—without enemies
+- अभुवं (*abhuvaṃ*)—have become
+
+##### भावार्थ (Bhāvārtha)
+
+This excellent oblation, by which, being satisfied, Indra became capable of bold deeds such as slaying Vṛtra and became renowned, I have offered to you, O gods. Therefore I have become free of enemies.
+
+##### English translation
+The oblation whereby Indra became heroic, renowned and eminent, I have offered, O gods, (to you), may I become freed from my rivals.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स॒प॒त्नः स॑पत्न॒हाभिरा॑ष्ट्रो विषास॒हिः ।  
+> यथा॒हमे॑षां भू॒तानां॑ वि॒राजा॑नि॒ जन॑स्य च ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असपत्नः । सपत्न्यहा । अभिराष्ट्रः । विससहिः ।  
+> यथा । अहं । एषां । भूतानां । विराजानि । जनस्य । च ॥ ५ ॥
+
+### Printed p. 1181
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सपत्नहा सपत्नानां शत्रूणां हंता अत एवासपत्नः शत्रुरहितोऽहमभूवं ।
+> अभिराष्ट्रोऽभिगतराष्ट्रः प्राप्तराज्यः सन् विषासहिः शत्रूणां विशेषेणाभिभविता
+> चाभूवं । यथा येन प्रकारेणाहमेषां दृश्यमानानां सर्वेषां भूतानां
+> प्राणिनां जनस्य च सेवकस्यामात्यादेश्च विराजानि यथेश्वरो भवानि तथा सपत्नहा
+> विषासहिश्चा भूवमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+सपत्नहा (*sapatnahā*) is the slayer of rivals, enemies; therefore I have become असपत्नः (*asapatnaḥ*), free of enemies. अभिराष्ट्रः (*abhirāṣṭraḥ*) is one who has attained the kingdom; being so, I have become विषासहिः (*viṣāsahiḥ*), one who especially overcomes enemies. In the manner in which I may reign (विराजानि (*virājāni*)), be lord, over all these visible beings, living creatures, and over the people, that is servants, ministers and so on, so have I become the slayer of rivals and the vanquisher. Such is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in the manner in which
+- अहं (*ahaṃ*)—I
+- एषां (*eṣāṃ*)—of those before us
+- भूतानां (*bhūtānāṃ*)—of all living beings
+- जनस्य च (*janasya ca*)—and of the people also
+- विराजानि (*virājāni*)—may become lord, in that manner
+- सपत्नहा (*sapatnahā*)—the slayer of enemies
+- असपत्नः (*asapatnaḥ*)—without rival
+- अभिराष्ट्रः (*abhirāṣṭraḥ*)—one who holds the kingdom in his power
+- विषासहिः (*viṣāsahiḥ*)—one who defeats enemies; I have become
+
+##### भावार्थ (Bhāvārtha)
+
+I, slayer of enemies, without rival, holding the kingdom in my power and defeating enemies, shine as lord over all these living beings before us and over all people, servants, ministers and the rest.
+
+##### English translation
+May I become without a rival, the destroyer of my rivals, obtaining the sovereignty, overcoming (my foes) so that I may reign over these beings and over my people.
+
+### Printed p. 1182
+## Sūkta 175 (Maṇḍala 10)
+**Introduction**
+In this sūkta the stones called ग्रावाणः (*grāvāṇaḥ*), which crush the Soma plants, are praised. Although these deities are praised in many Ṛks, the sūktas praising them separately are only three in the Ṛgveda, all in the tenth maṇḍala: Ṛ. Saṃ. 10-76; 10-94; and 10-175. A detailed account of these ग्राव (*grāva*) or अद्रि (*adri*) has been given in the introductions to those sūktas, that is, in Ṛ. Saṃ. part 29, pp. 115-119 and pp. 1003-1005 of the same part.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र व इति चतुर्ऋचं चतुर्विंशं सूक्तं गायत्रं । अर्बुदस्य सर्पर्षेः पुत्र
+> ऊर्ध्वग्रावा नामर्षिः । सोमाभिषवार्था ग्रावाणो देवता । तथा चानुक्रांतं ।
+> प्र वश्चतुष्कमूर्ध्वग्रावार्बुदिग्र्राव्नोऽस्त्याद्यायत्रमिति ॥ ग्रावस्तोत्र एतत्तूक्तं ।
+> सूत्रितं च । आ व ऋंजसे प्र वो ग्रावाण इति सूक्तयोः । आ. ५-१२ । इति ।
+> यद्वा । इदमेकमेव सूक्तं ग्रावस्तोत्रं । सूत्र्यते हि ।-प्र वो ग्रावाण इत्येक
+> उक्तं सर्पणं । आ. ५-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र व (*pra va*), of four Ṛks, is the twenty-fourth sūkta, in Gāyatra metre. The seer is Ūrdhvagrāvan, son of the serpent-seer Arbuda; the deity is the ग्रावाणः (*grāvāṇaḥ*) used for pressing Soma. So the Anukramaṇī says: प्र वश्चतुष्कमूर्ध्वग्रावार्बुदिग्र्राव्नोऽस्त्याद्यायत्रमिति॥ (*pra vaścatuṣkamūrdhvagrāvārbudigrrāvno 'styādyāyatramiti‖*) This sūkta is a praise of the pressing stones. It is prescribed in the sūtra आ व ऋंजसे प्र वो ग्रावाण इति सूक्तयोः (*ā va ṛṃjase pra vo grāvāṇa iti sūktayoḥ*) (Ā. 5-12). Or else, this one sūkta alone is the praise of the stones; for it is prescribed: प्र वो ग्रावाण इत्येक उक्तं सर्पणं (*pra vo grāvāṇa ityeka uktaṃ sarpaṇaṃ*) (Ā. 5-12).
+
+##### Anuvāda
+
+This sūkta प्र वः (*pra vaḥ*) is the twenty-fourth sūkta in the twelfth anuvāka. It has four Ṛks. Its seer is Ūrdhvagrāvan, son of Arbuda; its deity is the stones called ग्रावाणः (*grāvāṇaḥ*) used for pressing Soma; the metre is Gāyatrī. The Anukramaṇī says: प्र वश्चतुष्कमूर्ध्वग्रावार्बुदिर्ग्रावोऽस्तौद्गायत्रं (*pra vaścatuṣkamūrdhvagrāvārbudirgrāvo 'staudgāyatraṃ*). In this sūkta the stone is praised. In the Āśvalāyana Śrautasūtra, in the sūtra आ व ऋंजसे प्र वो ग्रावाण इति सूक्तयोः (*ā va ṛṃjase pra vo grāvāṇa iti sūktayoḥ*) (Ā. 5-12), this matter is set forth. Or the sūtra of the Āśvalāyana Śrautasūtra प्र वो ग्रावाण इत्येक उक्तं सर्पणं (*pra vo grāvāṇa ityeka uktaṃ sarpaṇaṃ*) (Ā. 5-12) indicates that this one sūkta alone is the praise of the stones.
+
+##### Particulars
+
+Maṇḍala 10; Anuvāka 12; Sūkta 175; Aṣṭaka 8; Adhyāya 8; Varga 33; number of Ṛks in the sūkta 4; Seer: Ūrdhvagrāvā Arbudi; Deity: ग्राणः (*grāṇaḥ*); Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वो॑ ग्रावाणः सवि॒ता दे॒वः सु॑वतु॒ धर्म॑णा ।  
+> धू॒र्षु यु॑ज्यध्वं सुनु॒त ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । ग्रावाणः । सविता । देवः । सुवतु । धर्मणा ।  
+> धूःऽसु । युज्यध्वं । सुनुत ॥ १ ॥
+
+### Printed p. 1183
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ग्रावाणः सोमाभिषवार्थाः पाषाणाः वो युष्मान्सविता प्रेरको
+> देवो धर्मणात्मीयेन धारणेन कर्मणा प्र सुवतु । अभिषवार्थं प्रेरयतु ॥
+> षू प्रेरणे । तौदादिकः ॥ यूयं च धूर्ष्टभिषवस्थानेषु प्राच्यादिमहादिक्षु
+> युज्यध्वं । युक्ता भवत । अनंतरं सुनुत । अभिषुणुत सोमं ॥
+
+##### Gist of the bhāṣya
+
+O pressing stones, may the impelling god Savitṛ urge you, by his own sustaining action, to the pressing. (The root षू (*ṣū*) is in the sense of impelling, of the Tudādi class.) And you, yoke yourselves in the धूर्षु (*dhūrṣu*), the pressing places, in the great quarters such as the east; then press out (सुनुत (*sunuta*)) the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रावाणः (*grāvāṇaḥ*)—O stones used for pressing Soma
+- वः (*vaḥ*)—you
+- सविता देवः (*savitā devaḥ*)—the god Savitṛ, impeller of all
+- धर्मणा (*dharmaṇā*)—by his own action
+- प्रसुवतु (*prasuvatu*)—may he urge to the pressing (you also)
+- धूर्षु (*dhūrṣu*)—in the quarters, east and the rest, where the Soma plants are crushed
+- युज्यध्वं (*yujyadhvaṃ*)—be appointed, and
+- सुनुत (*sunuta*)—crush the Soma plants
+
+##### भावार्थ (Bhāvārtha)
+
+O stones used for crushing the Soma plants, may the god Savitṛ, impeller of all, urge you to the pressing by his action of sustaining. You also, appointed in the regions such as the east, crush the Soma plants.
+
+##### English translation
+May the divine Savitri urge you stones, by his sustaining (action), be yoked to the chariot-poles, express (the juiee).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sūkta the stones called ग्रावाणः (*grāvāṇaḥ*), inanimate things, are praised as if they were conscious deities. Sūktas of this kind are many in the Ṛgveda. The sacrificial altar, the sacred grass seat, the forest tree, or the wooden post to which the sacrificial animal is bound, mountains, plants and creepers, and so on, are all praised as if conscious deities, or as the presiding deities of those things. Since the impeller of all actions is Sūrya or Savitṛ (Sun is the Source of all energy), Savitṛ is prayed to impel the crushing of the Soma plants. The word धूर्षु (*dhūrṣu*) is in the locative plural; its meaning is "in the yokes". Oxen or horses are yoked to the yokes of a cart in order to draw it. In the same way, it is prayed here that these stones be yoked or appointed in this action of crushing Soma plants and the Soma juice be pressed out.
+
+### Printed p. 1184
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्रावा॑णो॒ अप॑ दु॒च्चुना॒मप॑ सेधत दुर्म॒तिं ।  
+> उ॒स्राः क॑र्तन भेष॒जं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्रावाणः । अप । दुच्चुनां । अप । सेधत । दुःमतिं ।  
+> उस्राः । कर्तन । भेषजं ॥ २ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ग्रावाणः दुच्चुनां दुःखकारिणीं शत्रुभूतां प्रजामप सेधत । आस्मत्तोऽपगमयत ॥ षिधु गत्यां ॥ तथा दुर्मतिं दुष्टाभिसंधिं चाप सेधत । भेषजं
+> सुखमस्माकं यथा भवति तथोस्रा गाः कर्तन । कुरुत ॥ करोतेश्छांदसो विकरणस्य
+> लुक् । तप्तनप्तनथनास्थेति तनबादेशः ॥
+
+##### Gist of the bhāṣya
+
+O stones, drive away (अप सेधत (*apa sedhata*), make go away from us; root षिधु (*ṣidhu*) in the sense of going) the दुच्चुनां (*duccunāṃ*), the hostile folk who cause suffering; and likewise drive away the दुर्मतिं (*durmatiṃ*), the evil intention. Make (कर्तन (*kartana*), कुरुत (*kuruta*)) the उस्रा (*usrā*), the cows, so that there is भेषजं (*bheṣajaṃ*), comfort, for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रावाणः (*grāvāṇaḥ*)—O stones
+- दुच्चुनां (*duccunāṃ*)—the hostile folk who cause suffering or harm to the Soma-pressing rite
+- अप सेधत (*apa sedhata*)—drive away from here
+- दुर्मतिं (*durmatiṃ*)—the evil mind or bad intention in people
+- अप (*apa*)—drive away (remove)
+- भेषजं (*bheṣajaṃ*)—so as to bring us comfort
+- उस्राः (*usrāḥ*)—the cows
+- कर्तन (*kartana*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O stones, drive away the hostile folk who cause suffering or harm in the Soma-pressing rite, and their evil mind or bad intention. Make the cows bring us comfort by giving milk and the like.
+
+##### English translation
+Drive away, stones, the malevolent (folk), drive away evil intention, make our cattle a remedy (against distress).
+
 ---
 
-**Progress note:** Done through printed p. 1178. pp. 1173-1178 (batch API)
+**Progress note:** Done through printed p. 1184. pp. 1179-1184 (batch API)
