@@ -14804,6 +14804,287 @@ In this Ṛk, for the word भायजीकः (*bhāyajīkaḥ*) Yāska gives
 > स्वावृ॑ग्दे॒वस्या॒मृतं॒ यदी॒ गोरतो॑ जा॒तासो॑ धारयंत  ॒
 > उ॒र्वी ।
 
+### Printed p. 399
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ दे॒वा अनु॒ तत्ते॒ यजु॑र्गुर्दु॒हे यदेनी॑ दि॒व्यं घृ॒तं  
+> वाः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वावृक् । देवस्य । अमृतं । यदि । गोः । अतः । जातासः । धारयंते । उर्वी इति ।  
+> विश्वे । देवाः । अनु । तत् । ते । यजुः । गुः । दुहे । यत् । एनी । दिव्यं । घृतं ।  
+> वारिति वाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवस्याग्नेः स्वावृक् स्वार्जनममृतमुदकं स्वतेजसः सकाशाद्यदि यदोत्पद्यते तदातोऽस्माद्गॊरुदकाज्ञातास उत्पन्ना ओषधॆय उर्वी द्यावापृथिव्यौ
+> धारयंति । विश्वे देवाः सर्वॆ स्तोतारस्ते तव संबंधि तद्यजुरुदकस्य तद्दानमनु
+> गुः । अनुगायंति । एनी श्वेता दीप्तिर्दिव्यं दिवि भवं धृतं क्षरद्यद्वा वृष्टिलक्षणं
+> यदुदकं दुहे दोग्धि ॥
+
+##### Gist of the bhāṣya
+
+Of the divine Agni, the self-won ambrosia, which is water, arises from his own brightness. When it arises, the plants born from this water, उर्वी (*urvī*) (heaven and earth), sustain them. विश्वे देवाः (*viśve devāḥ*) are all the praisers. *tadyajuḥ* is that gift of water, belonging to you, Agni, and they sing after it. एनी (*enī*) is the white gleam (flame). It milks out the celestial ghee, that is, the water in the form of rain, that streams forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवस्य (*devasya*)—of the divine Agni
+- स्वावृक् (*svāvṛk*)—self-aggregated
+- अमृतं (*amṛtaṃ*)—water
+- यदि (*yadi*)—when it is produced, then
+- अतः गोः (*ataḥ goḥ*)—from that same water
+- जातासः (*jātāsaḥ*)—the plants produced
+- उर्वी (*urvī*)—sustain heaven and earth
+- यत् (*yat*)—when
+- एनी (*enī*)—your shining flames
+- दिव्यं (*divyaṃ*)—belonging to the heavenly world
+- घृतं (*ghṛtaṃ*)—flowing
+- वाः (*vāḥ*)—water in the form of rain
+- दुहे (*duhe*)—milk out
+- विश्वे देवाः (*viśve devāḥ*)—all the praisers
+- ते (*te*)—given by you
+- तत् यजुः (*tat yajuḥ*)—that gift of water
+- अनु गुः (*anu guḥ*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+When the self-aggregated water of the divine Agni arises, then the plants born from that same water sustain heaven and earth. O Agni, when your shining flames milk out the water that belongs to the heavenly world, that flows, and that is in the form of rain, then all the praisers praise that gift of water given by you.
+
+##### English translation
+When the self-aggregated ambrosia of the divine Agni is generated from his radiance, then the products from it sustain both heaven and earth ,
+
+### Printed p. 400
+
+##### English translation
+all the worshippers glorify this your oblation, the celestial nutritious water which your white lustre milks forth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्चा॑मि वां॒ वर्धा॒यापो॑ घृतस्नू॒ द्यावा॑भूमिा शृणु॒तं ॑ 
+> रोदसी मे ।  
+> अहा॒ यद्दावोऽसु॑नीति॒मय॒न्मध्वा॑ नो॒ अत्र॑ पि॒तरा॑ शिशीतां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्चामि । वां । वर्धाय । अपः । घृतस्नू इति घृतस्नू । द्यावाभूमिा इति  
+> शृणुतं । रोदसी इति । मे ।  
+> अहा । यत् । द्यावः । असुऽनीतिं । अयन् । मध्वा । नः । अत्र । पितरा । श्रिशीतां । ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमपो मदीयं यज्ञरूपं कर्म वर्धाय प्रोत्सर्पिते सति
+> हे धृतस्नू वृष्ट्युदकस्य प्रसवित्र्य हे द्यावाभूमिा द्यावापृथिव्यौ नां युवामर्चामि ॥ ऋच स्तुतौ ॥ स्वामि । हे रोदसी द्यावापृथिव्यौ युवां मे
+> मदीयं स्तोत्रं शृणुतं । यद्यस्मिन्नहा अहःशब्दसामर्थादहोरात्रसाध्यं
+> कर्मोच्यते ॥ सुपां सुलुगिति सप्तम्येकवचनस्याजादेशः ॥ अहन्यहोरात्रसाध्यकर्मणि द्यावः स्तोतारोऽसुनीतिं । असुः प्रज्ञा । तया नीयत इत्यसुनीति
+> स्तुतिः । तामयन् गच्छंति अत्रास्मिन्कर्मणि पितरा सर्वस्य मातापितृभूते द्यावापृथिव्यौ नोऽस्मान्वृष्ट्युदकेन शिशीतां । स्नानपानादिना संस्कुरुतां ॥
+
+##### Gist of the bhāṣya
+
+O Agni, when you advance my sacrificial rite, हे धृतस्नू (*he dhṛtasnū*), O you two that pour out the rain-water (the pada reads घृतस्नू (*ghṛtasnū*)), हे द्यावाभूमिा (*he dyāvābhūmiā*), heaven and earth, I praise you. हे रोदसी (*he rodasī*), heaven and earth, hear my hymn. अहा (*ahā*): from the force of the word अहः (*ahaḥ*) it means a rite accomplished by day and night. In that rite, द्यावः (*dyāvaḥ*), the praisers, go to असुनीतिं (*asunītiṃ*): असुः (*asuḥ*) is understanding, and that by which one is led is असुनीति (*asunīti*), praise. In this rite let पितरा (*pitarā*), heaven and earth, the mother and father of all, sanctify us with rain-water, with bathing, drinking and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपः (*apaḥ*)—my sacrificial rite
+- वर्धाय (*vardhāya*)—make it prosper
+- घृतस्नू (*ghṛtasnū*)—you that pour out water
+- द्यावाभूमी (*dyāvābhūmī*)—O heaven and earth
+- वां (*vāṃ*)—you
+- अर्चामि (*arcāmi*)—I praise
+- रोदसी (*rodasī*)—O heaven and earth
+- मे (*me*)—my hymn
+- शृणुतं (*śṛṇutaṃ*)—hear
+- अहा (*ahā*)—accomplished by day and night
+- यत् (*yat*)—in which rite
+- द्यावः (*dyāvaḥ*)—the praisers
+
+### Printed p. 401
+
+- असुनीतिं (*asunītiṃ*)—praise
+- अयन् (*ayan*)—compose
+- अत्र (*atra*)—in that rite
+- पितरा (*pitarā*)—heaven and earth, mother and father of the world
+- मध्वा (*madhvā*)—with rain-water
+- नः (*naḥ*)—us
+- शिशीतां (*śiśītāṃ*)—let them sanctify
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, make my sacrificial rite prosper. O heaven and earth, who pour out water, I praise you. O heaven and earth, hear my hymn. In whatever rite, accomplished by day and night, the praisers compose praise, in that rite let heaven and earth, the mother and father of the world, sanctify us with rain-water.
+
+##### English translation
+I worship you, waters that pour forth ghee, and you, heaven and earth, for your increase ; hear me, you worlds ; when worshippers at the daily or nightly rite proceed to their pious purpose, then may the parents (of all) sanctify us with ambrosia.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं स्वि॑न्नो॒ राजा॑ जगृहे॒ कद॒स्याति॑ व्र॒तं च॑क्रमा॒ को वि वे॑द ।  
+> मि॒त्रश्रि॒द्धि ष्मा॑ जुहुरा॒णो दे॒वाञ्लोको॒ न या॒तामपि॒ वाजो॒ अस्ति॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । स्वित् । नः । राजा . जगृहे । कत् । अस्य । अति । व्रतं । चक्रम । कः । वि । वेद ।  
+> मित्रः । चित् । हि । स्म । जुहुराणः । देवान् । श्लोकः । न । यातां । अपि । वाजः ।  
+> अस्ति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> किंस्विच्छब्दो वितर्कार्थे । किंवा राजा दीप्यमानोऽग्निर्नोऽस्माकं स्वभूतानि हवींषि स्तुतीश्च जगृहे परिगृह्लीयात् किंवास्याग्नेरिति व्रतमतिपूजितं परिचरणाख्यं कर्म चक्रम वयं क्रियास्म । कर्मवैगुण्याद्भीतस्य पूर्वार्ध एतद्वचनमु-
+> xxvii 26
+> xxvii 26
+
+##### Gist of the bhāṣya
+
+The word किंस्वित् (*kiṃsvit*) is in the sense of conjecture. Will the shining king Agni accept our own oblations and praises? And have we performed for this Agni the highly honoured rite called service? The first half of the verse is said by one who fears a defect in the rite; now, in the second half, that fear is removed.
+
+### Printed p. 402
+
+> क्तं । उत्तरार्ध इवानीं तन्निराक्रियते । हि स्त्रीतिमा पूरणा । चिदित्युपमार्थे ।
+> जुहुराणः स्निग्धमाहूयमानो मित्रः स्निग्धो यथा गच्छेत् तथा । नेति संप्रत्यर्थे । श्लोकोऽस्मदीया स्तुतिलक्षणा वाग्देवानिंद्रादीन्यातां । गच्छतु । अपि
+> वाजो हविराख्यं चान्नं यदस्ति तदपि देवान्प्रति गच्छतु । देवाः स्तुतिं हविश्च प्रतिगृह्णंतित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+हि स्म (*hi sma*) is a mere filler. चित् (*cit*) is in the sense of comparison. जुहुराणः (*juhurāṇaḥ*) means "affectionately invited": as a friend who is dear goes when so invited. न (*na*) is in the sense of "now". Let our श्लोकः (*ślokaḥ*), our speech consisting of praise, go to the gods, Indra and the others. And whatever food called oblation there is, let that also go to the gods. The meaning is that the gods accept both praise and oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजा (*rājā*)—the shining Agni
+- नः (*naḥ*)—our oblations
+- किं स्वित् जगृहे (*kiṃ svit jagṛhe*)—will he indeed accept?
+- अस्य (*asya*)—directed to Agni
+- अतिव्रतं (*ativrataṃ*)—the rite of the nature of service
+- तत् चक्रम (*tat cakrama*)—have we really performed it?
+- कः वि वेद (*kaḥ vi veda*)—who knows this?
+- जुहुराणः (*juhurāṇaḥ*)—invited with trust
+- मित्रश्चित् (*mitraścit*)—as a friend goes with affection
+- श्लोकः (*ślokaḥ*)—our praise
+- देवान् (*devān*)—to the gods, Indra and the rest
+- यातां (*yātāṃ*)—let it go and reach them
+- अपि (*api*)—and
+- वाजः अस्ति (*vājaḥ asti*)—whatever food in the form of oblation there is, let that also go and reach them
+
+##### भावार्थ (Bhāvārtha)
+
+Will the shining Agni indeed accept our oblations? Have we really performed the rite of service directed to this Agni? Who knows this? As a friend invited with trust goes with affection, let our praise go and reach the gods, Indra and the rest. Let the oblation offered by us also go and reach them.
+
+##### English translation
+But will the royal Agni accept our oblations? Have we duly performed our vows to him? Who decides? As a friend affectionately invited, so let our praise now proceed to the gods; together with the sacrificial food that is left over.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दु॒र्मंत्वत्रा॒मृत॑स्य॒ नाम॒ सल॑क्ष्मा॒ यद्विषु॑रूपा॒ भवा॑ति ।  
+> य॒मस्य॒ यो म॒नव॑ते सु॒मंत्वग्ने॒ तम्मस्॑व पा॒ह्यप्र॑युच्छन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दुःमंतु । अत्र । अमृतस्य । नाम । सलक्ष्मा । यत् । विषुरूपा । भवाति ।  
+> यमस्य । यः । मनवते । सुमंतु । अग्ने । तं । ऋष्ट्व । पाहि । अप्रयुच्छन् ॥
+
+### Printed p. 403
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन्कर्मणि कृतेऽमृतस्य यमस्य नाम दुर्मंतु दुर्वचनं भवति ।
+> यद्यस्मै सलक्ष्मा विषमरूपा भगिनी भार्या भवति । तत्तु न तथा इति यमं यः
+> स्तौति सुवचनमस्य नामेति तं स्तोतारं दर्शनीयाग्ने अप्रयुच्छन् अप्रमाद्यन्
+> रक्षः ॥
+> यद्यस्य अमृतस्य मरणधर्मरहितस्य सूर्यस्य । अस्य मरणधर्मराहित्यं
+> तु सूर्यो विषमा सजामीत्यस्यां ऋचि प्रसिद्धं । तादृशस्य संबधि नाम नाम कमुदकं अत्र अस्यां पृथिव्यां विषुरूपा नानारूपं भवाति भवति । उदकस्य नानारूपत्वं या आपो दिव्या इति मंत्रे स्पुटमुक्तं । कीदृशं तत् । दुर्मंतु
+> निरपराधं प्रह्वस्वभावत्वात् । पुनः कीदृशं । सलक्ष्म्य मधुररसरूपलक्षणोपेतं ।
+> किं च यः सूर्यः यमस्य संयमिनीपतेः सुमंतु सुतरामपराधं मातृताडनरूपं मनवते अवबुध्यते सर्वज्ञत्वात् । यद्वा धातूनामनेकार्थत्वात् क्षमत
+> इत्यर्थः । तं तादृशं जलजनकं सर्वज्ञं क्षमाशीलं सूर्यं हे ऋष्ट महन्नग्ने
+> अप्रयुच्छन् अप्रमाद्यन् त्वं पाहि । आहुतिप्रदानेन रक्षणद्वारात्मरक्षणं प्रार्थयते ऋषिः ॥
+
+##### Gist of the bhāṣya
+
+First explanation: when the rite has been performed here, the name of the immortal Yama is दुर्मंतु (*durmaṃtu*), ill to speak, because his wife, a sister with the same marks but of unlike form, comes to be. That is not so. Whoever praises Yama, saying "his name is well spoken", that praiser, O beautiful Agni, protect, unslothful and heedful.
+
+Second explanation (यद्वा (*yadvā*)): of the immortal Sūrya, who is free from the nature of death. His deathlessness is well known in the ṛc *sūryo viṣamā sajāmi*. His name, the नाम (*nāma*), is water; here on this earth it becomes विषुरूपा (*viṣurūpā*), of many forms. The manifold nature of water is stated plainly in the mantra या आपो दिव्या (*yā āpo divyā*). How is that water? दुर्मंतु (*durmaṃtu*), faultless, because of its humble nature. And सलक्ष्मा (*salakṣmā*), endowed with the marks of a sweet taste.
+
+Further, the Sūrya who, being omniscient, understands the very great fault, in the form of beating the mother, of Yama, lord of Saṃyamanī; or, because roots have many meanings, who forgives it. That Sūrya, the producer of water, omniscient and forbearing, O great Agni, protect, unslothful. The seer asks for his own protection by way of the protection given through the offering of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्र (*atra*)—at the time of this rite
+- यमस्य (*yamasya*)—of Yama
+- नाम (*nāma*)—the nature
+- दुर्मंतु (*durmaṃtu*)—it is hard to understand
+- यत् सलक्ष्मा (*yat salakṣmā*)—although of one kind of mark
+- विषुरूपा (*viṣurūpā*)—possessed of many kinds of form
+- भवाति (*bhavāti*)—he is
+- सुमंतु (*sumaṃtu*)—who understands his nature well
+- ऋष्ट्व (*ṛṣṭva*)—and is a great soul
+- अग्ने (*agne*)—O Agni
+- मनवते (*manavate*)—beneficial to men
+- यमस्य (*yamasya*)—to Yama
+- यः (*yaḥ*)—whoever offers worship
+- तं (*taṃ*)—him
+- अप्रयुच्छन् (*aprayucchan*)—free of sloth
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of this rite the nature of Yama is hard to understand. Although he has one kind of mark, he is of many kinds of form. O Agni, who understand his nature well and are a great soul, protect, free of sloth, whoever offers worship to Yama, who is beneficial to men.
+
+##### English translation
+Hard to understand is the nature of the immortal, for although of one origin, she is of a different form ; cherish him delegently, great Agni, who understands Yama's nature easy to be understood.
+
+### Printed p. 404
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॑न्दे॒वा वि॒दथे॑ मा॒दयं॑ते वि॒वस्व॑तः॒ सद॑ने धा॒रयं॑ते ।  
+> सूर्ये॒ ज्योति॒रद॑धुर्मा॒स्य१॒॑ १ क्तून्परि॑ द्योत॒निं च॑रतो॒  ॑
+> अजस्रा ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । देवाः । विदथे । मादयंते । विवस्वतः । सदने । धारयंते ।  
+> सूर्ये । ज्योतिः । अदधुः । मासि । अक्तून् । परि । द्योतनिं । चरतः । अजस्रा । ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन्नग्नौ यज्ञस्य प्रधानांशे सति देवा इंद्रादयो विदथे यज्ञॆ मादयंते हविषात्मानं तर्पयंति तृप्यंति वा । अपि च विवस्वतो मनुष्यस्य यजमानस्य स्वभूते सदने वेद्याख्ये स्थाने धारयंते । आत्मानं स्थापयंति च ।
+> किंच सूर्ये ज्योतिरहराख्यं तेजोऽदधुः । स्थापितवंतः । मासि चंद्रमस्यक्कूनात्रिः स्थापितवंतः । तदनंतरमजस्रानुपक्षीणौ सूर्याचंद्रमसौ द्योतनिं
+> दीप्तिं परि चरतः । परिगच्छतः । सर्वत्र प्राप्नुतः ॥
+
+##### Gist of the bhāṣya
+
+In that Agni, the principal part of the sacrifice, the gods, Indra and the others, delight at the विदथे (*vidathe*), the sacrifice; they gratify themselves, or are gratified, with the oblation. Moreover, in the सदने (*sadane*), the place called the altar, belonging to the sacrificer, the man विवस्वतः (*vivasvataḥ*), they hold themselves and establish themselves. Further, they have set in the sun the light called day, the radiance; in the moon they have set the nights. After that, the sun and moon, unfailing and undiminished, go about द्योतनिं (*dyotaniṃ*), the brightness, and reach it everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in that famous Agni, by offering oblation
+- देवाः (*devāḥ*)—the gods, Indra and the others
+- विधथे (*vidhathe*)—in the sacrificial house
+- मादयंते (*mādayaṃte*)—obtain delight
+- विवस्वतः (*vivasvataḥ*)—of the sacrificer
+- सदने (*sadane*)—in the sacrificial house
+- धारयंते (*dhārayaṃte*)—establish their existence (therefore)
+- सूर्ये (*sūrye*)—in the sun
+- ज्योतिः (*jyotiḥ*)—radiance
+- अदधुः (*adadhuḥ*)—they have established
+- मासि (*māsi*)—in the moon
+- अक्तून् (*aktūn*)—the nights they have established
+- अजस्रा (*ajasrā*)—the eternal sun and moon
+- द्योतनिं (*dyotaniṃ*)—their brightness
+- परि चरतः (*pari carataḥ*)—spread all around
+
+##### भावार्थ (Bhāvārtha)
+
+Through the offering of oblation in the famous Agni, the gods, Indra and the others, obtain delight in the sacrificial house. They are established in the sacrificer's sacrificial house. Because they have obtained delight in this way, they have established radiance in the sun and have established the night in the moon. The eternal sun and moon spread their brightness all around.
+
 ---
 
-**Progress note:** Done through printed p. 398. pp. 393-398 (batch API)
+**Progress note:** Done through printed p. 404. pp. 399-404 (batch API)
