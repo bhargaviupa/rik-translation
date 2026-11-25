@@ -23219,6 +23219,203 @@ By the śruti "Heaven is the father" the father is heaven. I bring forth (सु
 - सुवे (*suve*)—I bring forth
 - मम (*mama*)—my
 
+### Printed p. 700
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- योनिः (*yoniḥ*)—the place that is the cause
+- समुद्रे (*samudre*)—connected with the Supreme Self
+- अप्पुअंतः (*appuaṃtaḥ*)—what lies within the workings of the intellect
+- ततः (*tataḥ*)—from that cause
+- विश्वा (*viśvā*)—all
+- भुवना (*bhuvanā*)—the classes of beings, that is, living creatures
+- अनु (*anu*)—having entered as the inner controller
+- वि तिष्ठे (*vi tiṣṭhe*)—I abide in manifold forms
+- उत (*uta*)—and
+- अमूं द्यां (*amūṃ dyāṃ*)—even the heaven that lies in a very distant region
+- वर्ष्मणा (*varṣmaṇā*)—with my body, which is of the nature of māyā
+- उप स्पृशामि (*upa spṛśāmi*)—I touch
+
+##### भावार्थ (Bhāvārtha)
+
+I have brought forth heaven in the highest part. Its cause, that is its root, lies hidden in the workings of the Supreme Self's intellect. That is, the intellect of the Supreme Self is itself the cause of this creation. Therefore, entering all creatures as the inner controller, I appear in many kinds of forms. And I touch with my body of māyā even the worlds such as heaven that stand in very lofty regions.
+
+##### English translation
+I bring forth the paternal (heaven) upon the brow of this (Supreme Being), my birthplace is in the midst of the waters; from thence I spread through all beings, and touch this heaven with my body.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this Ṛk is somewhat difficult, so it is necessary to explain each of its pādas.
+
+अहं सुवे पितरं अस्य मूर्धनि (*ahaṃ suve pitaraṃ asya mūrdhani*)—Here the word पितरं (*pitaraṃ*) has been explained as the world of heaven. On this point the Taittirīya Brāhmaṇa says द्यौः पिता ! पृथिवी माता (*dyauḥ pitā ! pṛthivī mātā*) (Tai. Brā. 3-7-5-4): the heavenly world is the father and the earth the mother. For all creatures heaven and earth are like father and mother. "On the head of Brahman": the head is the highest part of the body. Likewise the world of heaven is higher than the earth and other worlds. So the sense of this sentence is: I have created this world of heaven as standing in a very lofty region.
+
+मम योनिः अप्पु अंतः समुद्रे (*mama yoniḥ appu aṃtaḥ samudre*)—योनिः (*yoniḥ*) means place, or that which is the cause. Since the meaning "action" is stated for the word अपः (*apaḥ*) (Ni. 3-9), अप्पु (*appu*) means "in actions". The word समुद्र (*samudra*) has various meanings. Besides the meanings atmosphere and mass of water, the bhāṣyakāra here says समुद्ध्र वंत्यस्माद्भूतजातानीति समुद्रः परमात्मा (*samuddhra vaṃtyasmādbhūtajātānīti samudraḥ paramātmā*): since all classes of beings (creatures) arise from this Supreme Self, the word samudra can bear the meaning "the Supreme Self".
+
+### Printed p. 701
+He says so. The sense is that the cause of the creation of the world and the rest lies in the midst of the workings of such a Supreme Self's intellect; that is, the working of the Supreme Self's intellect is itself the cause of the creation of the world and the rest.
+
+Besides, he says: समुद्रे जलधावप्पूदकेष्टंतर्मध्यॆ मम योनिः कारणभूतः अंभृणाख्यऋषिर्वर्तते (*samudre jaladhāvappūdakeṣṭaṃtarmadhyè mama yoniḥ kāraṇabhūtaḥ aṃbhṛṇākhyaṛṣirvartate*)—in the midst of the waters of the sea, the sage named Ambhṛṇa, the cause of my origin, came into being. From Śruti sentences such as आपो वा इदमग्रे सलिलमासन् (*āpo vā idamagre salilamāsan*) it is said that the earth and other worlds and all creatures arose from the waters that existed before creation. So the seeress (Ambhṛṇī) may have said that the middle of the sea, filled with water, is the place of origin for her father and for herself.
+
+Or else: समुद्रेs नरिक्षेऽप्सम्मयेषु देवशरीरेषु मम कारणभूतं ब्रह्म चैतन्यं वर्तते । ततोऽहं कारणात्मिका सती सर्वाणि भुवनानि व्याप्नोमि (*samudres narikṣe 'psammayeṣu devaśarīreṣu mama kāraṇabhūtaṃ brahma caitanyaṃ vartate | tato 'haṃ kāraṇātmikā satī sarvāṇi bhuvanāni vyāpnomi*)—Samudra means the atmosphere; in the atmosphere, in the bodies of the gods whose bodies are made of water, Brahman, the cause of all, exists in the form of consciousness. Therefore that form of consciousness is in me also. The sense of this sentence can be stated thus: I, endowed with such consciousness and being of the nature of the cause, pervade all the worlds.
+
+ततः वि तिष्ठे भुवना अनु विश्वा (*tataḥ vi tiṣṭhe bhuvanā anu viśvā*)—It has been said that the Supreme Brahman is the cause of all. Therefore I, who am of the very nature of the Supreme Brahman, enter all worlds and the classes of creatures in them as inner controller, and appear in many kinds of forms. Like the Śruti sentence अंतः प्रविष्टः शास्ता जनानाग्ं सर्वात्मा (*aṃtaḥ praviṣṭaḥ śāstā janānāgṃ sarvātmā*) (Tai. Ā. 3-11-1) and the Śruti sentence तत्सृष्ट्वा । तदेवानु प्राविशत् (*tatsṛṣṭvā | tadevānu prāviśat*) (Tai. U. 2-6), after creating, the Supreme Self dwells as inner controller, that is in the form of consciousness, in all the things and creatures he has created. Though creatures and things are of many kinds in shape and form, the Supreme Self who is the inner controller in them is one only. Therefore in this sentence it is said वि तिष्ठे (*vi tiṣṭhe*): I appear in many kinds of forms.
+
+उत अमूं द्यां वर्षणा उप स्पृशामि (*uta amūṃ dyāṃ varṣaṇā upa spṛśāmi*)—Here it is said that I can touch this world of heaven. Ordinary men cannot touch with their hands the tops of things higher than themselves. The heavenly world is very high; no one can touch it. But the power and capacity of the Supreme Self are wonderful. However high it be, the Supreme Self can touch it with his power of māyā, that is, with his surpassing power and capacity. For to the Supreme Self, who pervades everything, there is no difference of distance, height and the like, and nothing is impossible. This is the sense.
+
+### Printed p. 702
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमे॒व वात॑ इव॒ प्र वा॑म्या॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑ ।  
+> प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यैताव॑ती महि॒ना सं ब॑भूव ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । एव । वातः इव । प्र । वामि । अरभमाणा । भुवनानि । विश्वा ।  
+> परः । दिवा । परः । एना । पृथिव्या । एतावती । महिना । सं । बभूव ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वा विश्वानि सर्वाणि भुवनानि भूतजातानि कार्याण्यारभमाणा कारणरूपेणोत्पादयंत्यहमेव परेणानधिष्ठिता स्वयमेव प्र वामि । प्रवर्ते । वात इव
+> यथा वातः परेणाप्रेरितः सन् स्वेच्छयैव प्रवाति तद्वत् । उक्तं सर्वं निगमयति ।
+> परो दिवा । पर इति सकारांतं परस्तादित्यर्थे वर्तते यथाध इत्यधस्तादर्थे ।
+> तद्योगे च तृतीया सर्वत्र दृश्यते । दिव आकाशस्य परस्तात्! एना पृथिव्या!! द्वितीयाटौस्वेन इतीदम एनादेशः ॥ अस्याः पृथिव्याः परः परस्तात् । द्यावापृथिव्योरुपादा
+> नमुपलक्षणं । एतदुपलक्षितात्सर्वाद्विकारजातात्परस्ताद्वर्तमानासंगोदासीनकूटस्थब्रह्मचैतन्यरूपाहं महिना महिम्मृतावती सं बभूव । एतच्छब्देनोक्तं सर्वं
+> परामृश्यते । एत्परिमाणमस्याः ॥ यत्तदेतेभ्यः परिमाणे । पा. ५-२-३९ । इति
+> वतुप् । आ सर्वनाम्न इत्यात्वं ॥ सर्वजगदात्मनाहं संभूतास्मि ॥ महच्छब्दादिमनिचि
+> टेरिति टलोपः । ततः तृतीयायामुदात्तनिवृत्तिस्वरेण तस्या उदात्तत्वं । छांदसो
+> मलोपः ॥
+
+##### Gist of the bhāṣya
+
+विश्वा (*viśvā*) means all; I alone, undirected by another, begin and produce all the beings, the created things, in their causal form, and I move of my own accord, like the wind which, unimpelled by another, blows by its own will. He then sums up all that was said. परो दिवा (*paro divā*): पर (*para*) ending in s has the sense "beyond", as अध (*adha*) has the sense "below"; in connection with it the instrumental is seen everywhere. Beyond the sky; एना पृथिव्या (*enā pṛthivyā*)—एन (*ena*) is the substitute for *idam* (in the rule द्वितीयाटौस्वेन (*dvitīyāṭausvena*)). Beyond this earth. The mention of heaven and earth is indicative: I, who am the unattached, indifferent, immutable Brahman-consciousness, existing beyond all this modification-world that they indicate, have come to be so vast महिना (*mahinā*), by greatness. The word एत (*eta*) refers back to everything stated; एतावती (*etāvatī*) means "of this measure". I have come into being as the self of the whole world. (The rest of the block is grammatical.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाक इव (*vāka iva*)—like the wind that blows of its own will, without another's impulse
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—the worlds and the creatures in them
+- आरभमाणा (*ārabhamāṇā*)—producing
+- अहमेव (*ahameva*)—I alone, without others' help
+- प्र वामि (*pra vāmi*)—I remain steady
+- दिवा (*divā*)—from the sky or from the world of heaven
+- परः (*paraḥ*)—beyond
+- एना पृथिव्याः (*enā pṛthivyāḥ*)—from this vast earth
+- परः (*paraḥ*)—beyond
+- महिना (*mahinā*)—pervading by my greatness
+- एतावती (*etāvatī*)—I who am thus
+- संबभूव (*saṃbabhūva*)—I exist everywhere and at all times
+
+### Printed p. 703
+
+##### भावार्थ (Bhāvārtha)
+
+As the wind blows of its own will without another's impulse, so I too, without any impulse or control, by my own impulse alone, producing all the worlds and all the creatures in them, remain steady alone, without the help of others. Pervading by my greatness beyond the sky or the heavenly world, and beyond this vast earth (both within and without), I, who am thus, exist at all times and in all regions.
+
+##### English translation
+I breathe forth like the wind, giving form to all created worlds; beyond the heaven, beyond this earth (am I), so vast am I in greatness.
+
+## Sūkta 126 (Maṇḍala 10)
+Introduction.
+Although it is said that in this sūkta the Viśvedevas are praised, three deities in particular are chiefly praised: Mitra, Varuṇa and Aryaman. Since we have described Mitra, Varuṇa and Aryaman in Ṛ. Saṃ. Part 14, pp. 119-129, there is no need to describe them again here.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न तमित्यष्टर्चं चतुर्दशं सूक्तं शिलूषपुत्रस्य कुल्मलबर्हिषस्यार्षं
+> वामदेवपुत्रस्यांहोमुज्ञान्नो वा । वैश्वदेवं । अष्टमी त्रिष्टुप् शिष्टा उपरिष्वादृहत्यः । त्र्यष्टकद्वादशकवत्युपरिष्वादृहती । अनु. ७-४ । इति हि तल्लक्षणं ।
+> तथा चानुक्रांतं । न तं शैलूषः कुल्मलबर्हिषो वामदेव्यो वांहोमुगैश्वदेवमुपरिष्वादार्हतमंत्या त्रिष्टुबिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta न तं (*na taṃ*) of eight Ṛks is the fourteenth sūkta. Its seer is Kulmalabarhiṣa, son of Śilūṣa, or Aṃhomuc, son of Vāmadeva. The deity is the Viśvedevas. The eighth is triṣṭubh; the rest are upariṣṭādbṛhatī, for which he cites the definition त्र्यष्टकद्वादशकवत्युपरिष्वादृहती (*tryaṣṭakadvādaśakavatyupariṣvādṛhatī*) (Anu. 7-4). He also quotes the Anukramaṇī: न तं शैलूषः कुल्मलबर्हिषो वामदेव्यो वांहोमुगैश्वदेवमुपरिष्वादार्हतमंत्या त्रिष्टुबिति (*na taṃ śailūṣaḥ kulmalabarhiṣo vāmadevyo vāṃhomugaiśvadevamupariṣvādārhatamaṃtyā triṣṭubiti*). The viniyoga has been given already.
+
+##### Anuvāda
+
+This sūkta न तं (*na taṃ*) is the fourteenth sūkta in the tenth anuvāka. It has eight Ṛks. Its seer is Kulmalabarhiṣa, son of Śilūṣa, or Aṃhomuc, son of the seer Vāmadeva, may be the seer. The deity is the Viśvedevas. The eighth Ṛk of this sūkta is in triṣṭubh metre. The other Ṛks are in the metre called upariṣṭādbṛhatī. In the Ṛks of this metre there are four pādas, the first three having eight syllables each and the
+
+### Printed p. 704
+fourth twelve syllables. In the Chandonukramaṇikā it is said: अंत्यश्चेदुपरिष्टाद्वहती (*aṃtyaścedupariṣṭādvahatī*) (Anu. 7-4). In the Anukramaṇikā it is said: न तं शैलूषः कुल्मलबर्हिषो वामदेवो वा०होमुग्वैश्वदेवमुपरिष्टाद्बार्हतमंत्या त्रिष्टुप् (*na taṃ śailūṣaḥ kulmalabarhiṣo vāmadevo vā0homugvaiśvadevamupariṣṭādbārhatamaṃtyā triṣṭup*). The viniyoga was stated earlier.
+
+Maṇḍala 10; Anuvāka 10; Sūkta 126. Aṣṭaka 8; Adhyāya 7; Varga 13. Number of Ṛks in the sūkta: 8.
+Seer: Kulmalabarhiṣa Śailūṣi, or Aṃhomuc Vāmadevya. Deity: Viśvedevas. Metre: 1-7 upariṣṭādbṛhatī; 8 triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त मंहो॒ न दु॑रि॒तं देवा॑सो अष्ट॒ मर्त्यं॑ ।  
+> स॒जोष॑सो॒ यम॑र्य॒मा मि॒त्रो नयं॑ति॒ वरु॑णो॒ अति॒  ॑
+> द्विषः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तं । अंहः । न । दुःइतं । देवासः । अष्ट । मर्त्य० ।  
+> सजोषसः । यं । अर्यमा । मित्रः । नयंति । वरुणः । अति । द्विषः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवासो देवाः ॥ अज्जसेरसुक् ॥ तं मर्त्यं मनुष्यमंहः पापं
+> दुरितं तत्फलरूपं दुर्गमनं च नाष्ट । न प्राप्नोति ॥ अशेश्चांदसे लुजि झलो
+> झलीति सिचो लोपः । अडभावश्चांदसः ॥ अरीन्नियच्छतीत्यर्यमा प्रमीतेस्रा
+> यको देवो मित्रः पापानां निवारयिता देवो वरुणः । एते त्रयो देवाः
+> सजोषसः संगताः समानं प्रीयमाणा वा भवंतो द्विषो द्वेष्यञ्चितूनतिक्रम्य
+> यं स्तोतारं नयंत्यभिमतं देशं प्रापयंति तं नाष्टेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O gods! That mortal man, sin (अंहः (*aṃhaḥ*)) and its fruit, evil going (दुरितं (*duritaṃ*)), do not reach. अर्यमा (*aryamā*) is the god who restrains enemies, the saviour from death; मित्रः (*mitraḥ*) is the god who removes sins; वरुणः (*varuṇaḥ*) is the god who wards off evils. These three gods, united or equally pleased, pass beyond the haters (द्विषः (*dviṣaḥ*)) and lead the praiser to the desired place. The construction is: sin does not reach him. (The rest is grammatical.)
+
+### Printed p. 705
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—O gods
+- अर्यमा (*aryamā*)—the god Aryaman (who protects from the fear of death)
+- मित्रः (*mitraḥ*)—the god Mitra (who removes sin)
+- वरुणः (*varuṇaḥ*)—the god Varuṇa; these three
+- सजोषसः (*sajoṣasaḥ*)—united, with equal love
+- द्विषः (*dviṣaḥ*)—enemies
+- अति (*ati*)—passing beyond, that is, removing
+- यं (*yaṃ*)—whichever man
+- नयंति (*nayaṃti*)—to the desired place, that is a safe place
+- नयंति (*nayaṃti*)—they lead
+- तं मर्त्यं (*taṃ martyaṃ*)—that man
+- अंहः (*aṃhaḥ*)—sin
+- दुरितं (*duritaṃ*)—sorrow
+- न आष्ट (*na āṣṭa*)—does not obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, these three gods, Aryaman, Mitra and Varuṇa, united and with equal love, protect from enemies whatever man they lead to his desired place; to that man neither sin nor sorrow comes.
+
+##### English translation
+Neither sin nor sorrow, O gods, affect the man whom Aryaman Mitra, and Varuna, being alike pleased by him, conduct beyond (the reach) of) his enemies.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्धि व॒यं वृ॑णी॒महे॒ वरु॑ण॒ मित्रार्य॑मन् ।  
+> येना॒ निरंह॑सो यू॒यं पा॒थ ने॒था च॒ मर्त्य॒मति॒ द्विषः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । हि । वयं । वृणीमहे । वरुण । मित्र । अर्यमन् ।  
+> येन । निः । अंहसः । यूयं । पाथ । नेथ । च । मर्त्यं । अति । द्विषः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरवधारणे । तद्धि तदेव रक्षणं वयं वृणीमहे । प्रार्थयामहे ॥ सति
+> शिष्टोऽपि विकरणस्य स्वरो लसार्वधातुकस्वरं न बाधते । म ६-१-१५८-११ । इति
+> वचनात्तिजि एव स्वरः शिष्यते । हिचेति निघातप्रतिषेधः ॥ हे वरुण हे मित्र हे
+> 45
+
+##### Gist of the bhāṣya
+
+हि (*hi*) is for emphasis: that very protection we choose, we pray for. (The rest of)
+
 ---
 
-**Progress note:** Done through printed p. 699. pp. 694-699 (batch API)
+**Progress note:** Done through printed p. 705. pp. 700-705 (batch API)
