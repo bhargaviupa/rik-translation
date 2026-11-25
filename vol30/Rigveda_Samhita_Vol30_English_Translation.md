@@ -30661,6 +30661,297 @@ This sūkta beginning "Agne" is the thirteenth sūkta in the eleventh anuvāka. 
 - Devatā: Viśvedevas
 - Chandas: Anuṣṭubh
 
+### Printed p. 922
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ अच्छा॑ वदे॒ह नः॑ प्र॒त्यज्ञः॑ सु॒मना॑ भव ।  
+> प्र नो॑ यच्छ विशस्पते धन॒दा अ॑सि न॒स्यं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । अच्छ । वद । इह । नः । प्रत्यज् । नः । सुमनाः । भव ।  
+> प्र । नः । यच्छ । विशः । पते । धनदाः । असि । नः । त्वं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने इहास्मिन्देशे नोऽस्मानच्छ वद । अभिमुख्येन प्रियं ब्रूहि ! तथा
+> प्रत्यज्योऽस्मान्प्रत्यंचन् सुमनाः शोभनमनस्को भव । हे विशस्पते यजमानलक्षणायाः प्रजायाः पालयितः नोऽस्मभ्यं प्र यच्च धनानि प्रदेहि यतस्त्वं
+> नोऽस्माकं धनदा असि धनानां दाता भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, speak to us here in this place, facing us, a pleasing word; and, turning towards us, be well-disposed (सुमनाः (*sumanāḥ*), "of good mind"). O lord of the people (विशस्पते (*viśaspate*)), protector of the folk who are the sacrificer, bestow wealth upon us, since you are our giver of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- इह (*iha*)—in this place
+- नः (*naḥ*)—to us
+- अच्छ वद (*accha vada*)—speak words beneficial to us; likewise
+- प्रत्यज् नः (*pratyaj naḥ*)—in our matter
+- सुमनाः (*sumanāḥ*)—having a mind of favour
+- भव (*bhava*)—be
+- विशस्पते (*viśaspate*)—O Agni, protector of the people, the sacrificer and others
+- नः (*naḥ*)—to us
+- प्रयच्छ (*prayaccha*)—give wealth and the like
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- धनदाः असि (*dhanadāḥ asi*)—are a giver of wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, being in this place, gladden us with loving words. Be favourably disposed towards us. O protector of the people, give us wealth and the like, for you are our giver of wealth.
+
+##### English translation
+Agni, speak out to us hero, be favourably disposed towards us; bestow upon us (riches), lord of men, for you are the giver of wealth to us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नो॑ यच्छत्वर्य॒मा प्र भगः॒ प्र बृह॒स्पतिः॑ ।
+
+### Printed p. 923
+
+> प्र देवाः प्रोत सूनृता रायो देवी ददातु नः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नः । यच्छतु । अर्यमा । प्र । भगः । प्र । बृहस्पतिः ।  
+> प्र । देवाः । प्र । उत । सूनृता । रायः । देवी । ददातु । नः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्यमारीणां नियंतार्याणां निर्माता वैतत्संज्ञो देवो नोऽस्मभ्यं
+> प्र यच्छतु धनं । तथा भग एत्संज्ञको देवश्च प्रयच्छतु । बृहस्पतिश्च प्रयच्छतु ।
+> सर्वॆ देवाश्च प्रयच्छंतु । उतापि च सूनृता प्रियसत्यवाग्रूपा देवी देवनशीला
+> सरस्वती रायो धनानि नोऽस्मभ्यं प्र ददातु ॥ ऊडिदमित्यादिना रायो विभक्तिरुदात्ता ॥
+
+##### Gist of the bhāṣya
+
+Aryaman, the god so named, controller of enemies and maker of nobles, is to give us wealth; so too the god named Bhaga, and Bṛhaspati, and all the gods. And Sūnṛtā, the goddess (देवी (*devī*), "of shining nature"), Sarasvatī in the form of speech both pleasant and true, is to give us wealth (रायः (*rāyaḥ*)). The case-ending of रायः (*rāyaḥ*) is acute-accented.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्यमा (*aryamā*)—the god Aryaman
+- नः (*naḥ*)—to us
+- प्र यच्छतु (*pra yacchatu*)—let him give wealth
+- भगः (*bhagaḥ*)—the god named Bhaga
+- बृहस्पतिः (*bṛhaspatiḥ*)—and Bṛhaspati
+- देवाः (*devāḥ*)—all the gods
+- उत (*uta*)—and
+- सूनृता (*sūnṛtā*)—who is the form of pleasant and true speech
+- देवी (*devī*)—the goddess Sarasvatī
+- नः (*naḥ*)—to us
+- रायः (*rāyaḥ*)—wealth
+- प्र ददातु (*pra dadātu*)—let her give
+
+##### भावार्थ (Bhāvārtha)
+
+May Aryaman, Bhaga, Bṛhaspati, all the gods, and the goddess Sarasvatī, who always speaks pleasant and true words, give us wealth.
+
+##### English translation
+May Aryaman, may Bhaga, may Brihaspati, may the gods give liberally to us; may the truth-speaking goddess (Saraswati) bestow riches upon us.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमं॒ राजा॑न॒मव॑से॒ग्निं गी॒र्भिर्ह॑वामहे ।
+
+### Printed p. 924
+
+> आदित्यान्विष्णुं सूर्यं ब्रह्माणं च बृहस्पतिं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमं । राजानं । अवसे । अग्निं । गीःभि । हवामहे ।  
+> आदित्यान् । विष्णुं । सूर्यं । ब्रह्माणं । च । बृहस्पतिं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> राजानं राजमानमीश्वरं वा सोममग्निं च गीर्भिः स्तुतिभिरवसे रक्षणार्थं
+> हवामहे । आह्वयामहे । तथादित्यानदितेः पुत्रान् मित्रादीन् विष्णुं सूर्यं
+> ब्रह्माणं प्रजापतिं बृहस्पतिं च रक्षणार्थमाह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+We call upon Soma, who is shining or is lord (राजानं (*rājānaṃ*)), and Agni, with praises (गीर्भिः (*gīrbhiḥ*)), for protection. Likewise we call, for protection, the Ādityas, sons of Aditi, Mitra and the others, and Viṣṇu, Sūrya, Brahmā (Prajāpati) and Bṛhaspati.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजानं (*rājānaṃ*)—the shining one, or lord of all
+- सोमं (*somaṃ*)—Soma
+- अग्निं (*agniṃ*)—Agni
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- अवसे (*avase*)—for protection
+- हवामहे (*havāmahe*)—we pray and call; likewise
+- आदित्यान् (*ādityān*)—the gods Mitra and others, sons of Aditi
+- विष्णुं (*viṣṇuṃ*)—Viṣṇu
+- सूर्यं (*sūryaṃ*)—Sūrya
+- ब्रह्माणं (*brahmāṇaṃ*)—Prajāpati
+- बृहस्पतिं च (*bṛhaspatiṃ ca*)—and Bṛhaspati too; we pray and call them for protection
+
+##### भावार्थ (Bhāvārtha)
+
+We pray and call, with praises, for protection, Soma, who is shining or lord of all, and Agni. Likewise we pray and call for our protection the gods Mitra and others, sons of Aditi, and the gods Viṣṇu, Sūrya, Prajāpati and Bṛhaspati.
+
+##### English translation
+We invoke for our protection the royal Soma. (we invoke) Agni with praises (we invoke) the Adityas, Vishnu, Surya, Brahma and Brihaspati.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इं॒द्र॒वा॒यू बृह॒स्पतिं॑ सु॒हवे॒ह ह॑वामहे ।  
+> यथा॑ नः॒ सर्व॒ इज्जनः॒ संग॑त्यां सु॒मना॒ अस॑त् ॥ ४ ॥
+
+### Printed p. 925
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रवायू इति । बृहस्पतिं । सुहवा । इह । हवामहे ।  
+> यथा । नः । सर्वः । इत् । जनः । संगत्यां । सुमनाः । असत् । ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रश्च वायुश्चेंद्रवायू ॥ उभयत्र वायोः प्रतिषेधो वक्तव्यः ।
+> पा ६-३-२६-१ । इत्यानजः प्रतिषेधः । नोत्तरपदेऽनुदात्तादाविति देवताद्वंद्वे
+> चेति प्राप्तस्योभयपदप्रकृतिस्वरस्य निषेधः । समासस्येत्यंतोदात्तत्वं ॥ बृहस्पतिं
+> बृहतां देवानां पालकं !! तद्बृहतोः करपत्योः । पा. ६-१-५७ । इति सुट्तलोपौ ! वनस्पत्यादित्वादुभयपदप्रकृतिस्वरत्वं ॥ सुहवा सुहवौ सुह्वानाविंद्रवायू बृहस्पतिं चेहास्मिन्कर्मणि हवामहे । आह्वयामहे ! यथा नोऽस्माकं
+> सर्व इत् सर्व एव जनः संगत्यां संगमने धनस्य प्राप्ता सुमना असत्
+> शोभनमनस्को भवेत् तथाह्वयामह इत्यर्थः ॥ अस्तेर्लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+इंद्रवायू (*iṃdravāyū*) is Indra and Vāyu (a dvandva). Sāyaṇa explains the accent of the compound, with the exclusion of the accent of both members in a divinity-dvandva, and its final acute. बृहस्पतिं (*bṛhaspatiṃ*) is the protector of the great gods. Well-invoked (सुहवा (*suhavā*)) Indra and Vāyu, and Bṛhaspati, we call here, in this rite. We call them so that all our people, in the meeting (संगत्यां (*saṃgatyāṃ*)) for the obtaining of wealth, may be well-disposed (सुमनाः (*sumanāḥ*)) towards us. असत् (*asat*) is a subjunctive of *asti* with the augment *aṭ*.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in such manner as
+- सर्व इत् (*sarva it*)—all
+- जनः (*janaḥ*)—the people
+- संगत्यां (*saṃgatyāṃ*)—gathering together in one place for our obtaining of wealth
+- नः (*naḥ*)—in our matter
+- सुमनाः (*sumanāḥ*)—of good mind
+- असत् (*asat*)—may become, so
+- इह (*iha*)—in this rite
+- सुहवा (*suhavā*)—worthy of excellent invocation
+- इंद्रवायू (*iṃdravāyū*)—the gods Indra and Vāyu
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- हवामहे (*havāmahe*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+So that all the people may gather together for our obtaining of wealth and become favourably disposed towards us, we pray and call in this rite Indra and Vāyu, worthy of excellent invocation, and Bṛhaspati.
+
+##### English translation
+We invoke the adorable Indra and Vayu and Brihaspati on this occasion, that all our race may be favourably inclined to us in the aquisition (of wealth).
+
+#### Ṛk 5
+### Printed p. 926
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्य॒मणं॒ बृह॒स्पति॒मिंद्रं॒ दाना॑य चोदय ।  
+> वातं॒ विष्णुं॒ सर॑स्वतीं सवि॒तारं॑ च वा॒जिनं॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्यमणं । बृहस्पतिं । इंद्रं । दानाय । चोदय ।  
+> वातॆं । विष्णुं । सरस्वतीं । सवितारं । च । वाजिनं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः अर्यवादीन्देवान्दानाय धनप्रदानाय चोदय । स्तुत्या
+> प्रेरय । तथा वातं वायुं विष्णुं सरस्वतीं वाजिनमन्नवंतं बलवंतं ना
+> सवितारं च दानाय प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+O praiser, urge by praise Aryaman and the other gods to the giving (दानाय (*dānāya*)) of wealth. Likewise urge to giving Vāta (Vāyu), Viṣṇu, Sarasvatī, and Savitṛ, who is endowed with food and strength (वाजिनं (*vājinaṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- O praiser
+- अर्यमणं (*aryamaṇaṃ*)—Aryaman
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- इंद्रं (*iṃdraṃ*)—Indra
+- वातं (*vātaṃ*)—Vāyu
+- विष्णुं (*viṣṇuṃ*)—Viṣṇu
+- सरस्वतीं (*sarasvatīṃ*)—the goddess Sarasvatī
+- वाजिनं (*vājinaṃ*)—endowed with strength, or giver of food
+- सवितारं च (*savitāraṃ ca*)—the god Savitṛ too
+- दानाय (*dānāya*)—so that they give us wealth and the like
+- चोदय (*codaya*)—urge with praises
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, in order that they give us wealth and the like, urge with praises these gods: Aryaman, Bṛhaspati, Indra, Vāyu, Viṣṇu, Sarasvatī, and Savitṛ the giver of food.
+
+##### English translation
+Stimulate to liberality Aryaman. Brihaspathi, Indra, Vata, Vishnu, Saraswati, and the food-bestowing Savitri.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ अग्ने अ॒ग्निभि॒र्ब्रह्म॑ य॒ज्ञं च॑ वर्धय ।
+
+### Printed p. 927
+
+> त्वं नो देवतातये रायो दानाय चोदय ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । अग्ने । अग्निभिः । ब्रह्म । यज्ञं । च । वर्धय ।  
+> त्वं । नः । देवतातये । रायः । दानाय । चोदय ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमग्निभिस्तद्विभूतिभूतैरन्यैरग्निभिः सार्धं नोऽस्माकं ब्रह्म
+> स्तोत्रं यज्ञं च वर्धय । तथा त्वं नोऽस्माकं देवतातये । यज्ञनामैतत् ।
+> यागार्थं रायो धनस्य दानाय प्रदानाय चोदय । दात्यन्रेरय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, together with the other fires, which are manifestations of you, increase our prayer (ब्रह्म (*brahma*), hymn of praise) and our sacrifice. Likewise, for the sacrifice (देवतातये (*devatātaye*), which is a name for sacrifice), urge on the giving (दानाय (*dānāya*)) of wealth; impel the givers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- अग्निभिः (*agnibhiḥ*)—together with other fires, particular manifestations of you (forms of Agni)
+- नः (*naḥ*)—our
+- ब्रह्म (*brahma*)—prayer
+- यज्ञं च (*yajñaṃ ca*)—and sacrifice
+- वर्धय (*vardhaya*)—increase (cause to be completed fully)
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- देवतातये (*devatātaye*)—for the sacrifice
+- रायः (*rāyaḥ*)—of wealth
+- दानाय (*dānāya*)—for the giving
+- चोदय (*codaya*)—urge the givers
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, together with the other fires which are your special manifestations, that is, your other forms (the lightning fire, Vaiśvānara fire, Pāvaka fire, etc.), advance and bring to completion the prayer and the sacrifice that we perform. Urge the givers to help our sacrifice with wealth.
+
+##### English translation
+Augment our prayer and sacrifice, Agni, with your fires; do you at our sacrifice stimulate (the gods) to give us wealth.
+
+## Sūkta 142 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्न इत्यष्टर्चं चतुर्दशं सूक्तमाग्नेयं । शार्ङ्ग इति पक्षिविशेषस्याख्या । शार्ङ्गजातयो जरितृप्रभृतयश्च त्वारश्च तुर्णां दृचानां क्रमेण
+
+##### Gist of the bhāṣya
+
+The hymn अयमग्न (*ayamagna*) has eight Ṛks; it is the fourteenth sūkta and addressed to Agni. शार्ङ्ग (*śārṅga*) is the name of a particular bird. The Śārṅgas, Jaritṛ and the others, four (seers), have the dṛcās in order. ()
+
 ---
 
-**Progress note:** Done through printed p. 921. pp. 916-921 (batch API)
+**Progress note:** Done through printed p. 927. pp. 922-927 (batch API)
