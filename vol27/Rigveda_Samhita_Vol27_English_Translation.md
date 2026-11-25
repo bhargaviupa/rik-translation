@@ -26081,6 +26081,261 @@ he sends (his rays) upwards to the proximate heaven ; he sends them downwards, o
 Vasukra praises Indra, who is the Sun, with this verse. "Great" (बृहन् (*bṛhan*)) is the great Sun, "shadowless", free of shade, that is, free of darkness; "leafless" (अपलाशः (*apalāśaḥ*)), without leaves, not subject to decay, that is, free of destruction; "swift" (अर्वा (*arvā*)), constantly moving, he "stands". Further, the "mother", the maker of the whole world through the giving of rain, "released", that is, without support; the "embryo", the embryo of the three worlds, Indra as the Sun, "eats": he consumes the oblations. Or else, by this destruction is indicated: he destroys sins. Further, "of the other", the divine mother called Āditya, her offspring, the Āditya, she "licks", tasting, living on and nourishing, and "measures out" (मिमाय (*mimāya*)), creates: day after day she produces him in the eastern quarter. "By what existence", with what intention, by devotion or by fear? The "cow", heaven, because it is the support of water and because it drops it, "places" the Āditya, resembling an udder, that is, establishes him. Or else: as a cow holds its udder, so heaven bears the Āditya.
 **NOTE**
 
+### Printed p. 734
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहन् (*bṛhan*)—the great Āditya
+- अच्छायः (*acchāyaḥ*)—free from darkness
+- अपलाशः (*apalāśaḥ*)—free from destruction
+- अर्वा (*arvā*)—ever-moving
+- तस्थौ (*tasthau*)—he stands established
+- माता (*mātā*)—the maker of the world
+- विषितः (*viṣitaḥ*)—free from bonds
+- गर्भः (*garbhaḥ*)—Indra, who is the germ of the three worlds
+- अत्ति (*atti*)—eats the oblations
+- अन्यस्याः (*anyasyāḥ*)—of Aditi, the mother of the gods
+- वत्सं (*vatsaṃ*)—the Āditya, who is in the form of her calf
+- रिहती (*rihatī*)—fondling
+- मिमाय (*mimāya*)—has brought forth
+- कया भुवा (*kayā bhuvā*)—by what particular design
+- धेनुः (*dhenuḥ*)—the cow in the form of the heaven
+- ऊधः (*ūdhaḥ*)—her udder, the Āditya who is its place
+- नि दधे (*ni dadhe*)—she has held
+
+##### भावार्थ (Bhāvārtha)
+
+The great Āditya stands established, free from darkness, free from destruction and ever-moving. Indra, the maker of the world, free from bonds, the germ of the three worlds, eats the oblations. He has brought forth the Āditya, the calf of Aditi, the mother of the gods, fondling him. With what particular design the cow in the form of heaven has held the Āditya, who is the place of her udder, is beyond fathoming.
+
+##### English translation
+The great (sun), shadeless, undecaying, ever-moving, abides ; the builder (of the world), who is liberated, the germ (of the three worlds), eats (the oblations), fondling the offspring of another (mother), the con- structs (the quarters of the world) : with what design has the milch cow offered her udder ?
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त वी॒रासो॑ अध॒रादुदा॑यन्न॒ष्टोत्त॒रात्ता॒त्सम॑जग्निरं॒ते ।  
+> नव॑ प॒श्चाता॑त्स्थिवि॒मंत॑ आय॒न्दश॒ प्राक्सानु॒ वि ति॑रं॒त्यश्नः॑ ॥१५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । वीरासः । अधरात् । उत् । अयन् । अष्ट । उत्तरात्तात् । सं । अजग्निरन् । ते ।  
+> नव । पश्चातात् । स्थि विमंतः । आयन् । दश । प्राक् । सानु । वि । तिरंति । अश्वः ॥१५॥
+
+### Printed p. 735
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयेंद्रः प्रजापतिरूपेण स्तूयते । सप्त सप्त संख्याका वीरासः प्रजापतेः
+> पुत्रा विश्वामित्रादयोऽधरात्पजापतेरधःकायादुदायन् । उत्पन्ना बभूवुः ।
+> अष्टाष्ट संख्याकास्ते प्रसिद्धा वालखिल्यादय उत्तरात्ता दुत्तरात्कायप्रदेशात्समजग्निरन् । संजज्जिरे ! स्थिविमंतः स्थानवंतो नव नवसंख्याका भृगवः प्रश्चातात्पृष्ठत
+> आयन् । आगताः ! उत्पन्ना इत्यर्थः । तथा दश दशसंख्याका अंगिरसः प्रागग्रत
+> उत्पन्नाः संतोऽश्नोऽशनवतो द्युलोकस्य सानून्नत प्रदेशं वि तिरंति । वर्धयंति ॥
+> अपर आह सप्तसंख्योपेता वीरा मरुतोऽधरादिंद्रस्य दक्षिणभागादुदगमन् ।
+> अष्टसंख्याकास्ते मरुत उत्तरभागात्संगच्छंते । स्थानवंतो नवसंख्याकास्ते
+> मरुतः पृष्ठभागादागच्छंति । दशसंख्याकास्तेऽश्नोऽशनवत इंद्रस्य प्राक्प्रदेशे
+> स्थिताः समुच्च्रितमुदकं तेजो वा वि तिरंति । मरुतः प्रतिदिशमवस्थायेंद्रस्य
+> साहाय्यं कुर्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Here Indra is praised in the form of Prajapati. Seven heroes, the sons of Prajapati headed by Viśvāmitra, arose from his lower body. Eight, the well-known Vālakhilyas and others, were born from the upper part of his body. Nine Bhṛgus, "possessed of stations", came from behind, from the back. Ten Aṅgirases, arisen in front, "possessed of food", increase the lofty region of heaven. Another explanation: seven heroes, the Maruts, came forth from Indra's right side; eight Maruts come together from the north side; nine, "possessed of stations", come from the back; ten stand in front of Indra and spread abundant water or brightness. The meaning is that the Maruts, stationed in every direction, help Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरासः (*vīrāsaḥ*)—the valiant
+- सप्त (*sapta*)—the seven sages headed by Viśvāmitra
+- अधरात् (*adharāt*)—from the lower region of Prajapati
+- उदायन् (*udāyan*)—have arisen
+- ते (*te*)—the well-known
+- अष्ट (*aṣṭa*)—the eight sages headed by Vālakhilya
+- उत्तरात्तात् (*uttarāttāt*)—from the upper region of Prajapati's body
+- समअजग्मिरन् (*samaajagmiran*)—have arisen
+- स्थिविमंतः (*sthivimaṃtaḥ*)—having an excellent station
+- नव (*nava*)—the nine sages headed by Bhṛgu
+- पश्चात्तात् (*paścāttāt*)—from the back
+- आयन् (*āyan*)—have arisen
+- दश (*daśa*)—the ten sages headed by Aṅgiras
+- प्राक् (*prāk*)—arisen in front
+- अश्वः (*aśvaḥ*)—possessed of food
+- सानु (*sānu*)—the lofty region of heaven
+- वि तिरंति (*vi tiraṃti*)—they nourish
+
+##### भावार्थ (Bhāvārtha)
+
+The valiant seven sages headed by Viśvāmitra have arisen from the lower region of Prajapati. The well-known eight sages headed by Vālakhilya have arisen from the upper region of Prajapati's body. The nine sages headed by Bhṛgu, having an excellent station, have arisen from the back. The ten sages headed by Aṅgiras, arisen in front and possessed of food, nourish the lofty region of heaven.
+
+##### English translation
+Seven sages sprang from the lower portion (of Indra as prajapati) : eight were born from the upper portion ; nine occupants of stations came from behind, and ten, generated in the front, partaking of food, traverse the summit (of heauen).
+
+### Printed p. 736
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द॒शा॒नामेकं॑ कपि॒लं स॑मा॒नं तं हि॑न्वंति॒ क्रत॑वे॒ पार्या॑य।  
+> गर्भं॑ मा॒ता सुधि॑तं व॒क्षणा॒स्ववे॑नंतं तु॒षयं॑ती बिभर्ति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दशानां । एकं । कपिलं । समानं । तं । हिन्वंति । क्रतवे । पार्याय ।  
+> गर्भं । माता । सुधितं । वक्षणासु । अवेनंतं । तुषयंती । बिभर्ति ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशानां दशसंख्याकानां पूर्वोक्तानामेवांगिरसां मध्य एकं मुख्यं
+> कपिलमेतन्नामानं तं प्रसिद्दमृषिं । कीदृशं । समानं सदृशं । केन । सामर्थ्य्यप्रजापतिना । हिन्वंति । अवशिष्टा अंगिरसः प्रेरयंति। किमर्थं । क्रतवे यज्ञादिजगत्पवर्तनकर्मणे । यद्वा । सम्यग्ज्ञानलक्षणप्रज्ञानाय। कीदृशाय। पार्याय परिसमापयितव्याय । प्रणीतव्याय वा । यज्ञादिकर्मोपदेशनायेत्यर्थः । माता
+> प्रकृत्याख्या च वक्षणासु । वक्षणा इति नद्य उच्यंते । ताभिश्चात्रापो लक्ष्यंते । प्रकृतिस्थासु सूक्ष्मास्वप्पु सुधितं सुहितं । प्रजापतिना स्थापितमित्यर्थः । अनेनंतं ।
+> वेनतिः कांतिकर्मा । तत्र निवासमकामयमानं तादृशं प्रजापतेर्गर्भं तुषयंती तुष्यंती सम्यग्ज्ञानादुपदेष्टुं योग्योऽयमिति प्रीता सती बिभर्ति ।
+> प्रजापतेर्नियोगाद्धारयति ।
+
+##### Gist of the bhāṣya
+
+Among the ten Aṅgirases mentioned before, one chief, the well-known sage named Kapila, is "equal", that is like Prajapati in power. The remaining Aṅgirases urge him on. For what? For the "kratu", the act that sets the world going, such as sacrifice; or else for the knowledge characterised by right understanding. *Pārya* means that which is to be completed, or to be carried forward: for instruction in sacrificial and other rites. The mother, called Prakṛti, bears the embryo of Prajapati: "वक्षणा (*vakṣaṇā*)" are rivers, and here they denote the waters, so the embryo is well placed by Prajapati in the subtle waters abiding in Prakṛti. "Venati" means desire; the embryo desires no abode there. Pleased, thinking "he is fit to teach right knowledge", she bears him by Prajapati's command.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दशानां (*daśānāṃ*)—among the ten Aṅgirases
+- तं (*taṃ*)—the well-known
+- समानं (*samānaṃ*)—equal to Prajapati
+- कपिलं (*kapilaṃ*)—Kapila the sage
+- मुख्यं (*mukhyaṃ*)—as chief
+- पाराय (*pārāya*)—for the sacrifice that must needs be completed
+- क्रतवे (*kratave*)—for the sacrifice
+- हिन्वंति (*hinvaṃti*)—they urge
+- माता (*mātā*)—Prakṛti, the maker of the world
+- वक्षणासु (*vakṣaṇāsu*)—in the subtle waters
+- सुधितं (*sudhitaṃ*)—well placed
+- अवेनंतं (*avenaṃtaṃ*)—not desiring to dwell there
+- गर्भं (*garbhaṃ*)—this one, the embryo of Prajapati
+- तुषयंती (*tuṣayaṃtī*)—being delighted
+- बिभर्ति (*bibharti*)—she bears
+
+##### भावार्थ (Bhāvārtha)
+
+Among the ten Aṅgirases they urge the well-known Kapila, equal to Prajapati, as chief for the sacrifice that must needs be completed. Prakṛti, the maker of the world, delighted, bears him, the embryo of Prajapati, well placed in the subtle waters and not desiring to dwell there.
+
+### Printed p. 737
+
+##### English translation
+(The other Angirasas) despatched one of the ten, Kapila, as equal
+(to the task) for the completion of the sacrifice; the gratified mother
+cherishes the embryo well deposited in the waters, and not desirous of an
+abiding place.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पीवा॑नं मे॒षम॑पचंत वी॒रा न्यु॑प्ता अ॒क्षा अनु॑ दी॒व आ॑सन् ।  
+> द्वा धनुं॑ बृह॒तीम॒प्सृंग१॒॑तः प॒वित्र॑नंता चरतः पु॒नंता॑॥१७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पीवानं ! मेषं । अपचंत । वीराः । निउप्ताः । अक्षाः । अनु । दीवे । आसन् ।  
+> द्वा । धनुं । बृहतीं । अप्सु । अंतरिति । पवित्रवंता । चरतः । पुनंता ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वीराः प्रजापते पुत्रा अंगिरसः पीवानं स्कूलं । मेदोमांसादियुक्तमित्यर्थः । मेषमजमपचंत । प्रजापतिरूपस्येंद्रस्यार्थाय पक्ववंतोऽभवन् ।
+> पशुयागं कुर्वंत इत्यर्थः । किंच । लुप्तोपममेतत् । यथा देवानामक्षा
+> दीवे देवने रमणस्थाने न्युप्ता निक्षिप्ताः संतोऽन्वासन् संक्रीडमानयोर्द्वयोरेकतरस्यानुगता भवंति तथा सर्वेऽंगिरसः प्रजापतेरनुगता भवंति । द्वांगिरसां
+> मध्यॆ द्वावंगिरसौ धनुं । धनुशब्दोऽत्र धनुःशब्द पर्यायो धनशब्द पर्यायो
+> ना । धनुर्यथा वधसाधनं तथाज्ञानादिवधसाधनं धनवत्प्रीतिकरं वा । कपिलमित्यर्थः।
+> बृहतीं प्रजापतेराज्ञया वर्धयित्रिं प्रकृतिमप्स्वंतः प्रकृतिस्थानां सूक्ष्णाणामुदकानां मध्यॆ चरतः । प्रजापत्यादेशादाराधयतः । कीदृशौ । पवित्रवंता
+> पवित्रवंतौ । मंत्रः पवित्रमुच्यते । ध्यानसाधनप्रणवमंत्रवंतौ पुनंता शुद्धौ ।
+> प्रणवध्यानेनात्मानं संस्कुव्रंतावित्यर्थः ॥
+> xxvii 47
+
+##### Gist of the bhāṣya
+
+The heroes, the Aṅgirases, sons of Prajapati, cooked a fat ram, that is, a goat full of fat and flesh, for Indra in the form of Prajapati; that is, they performed an animal sacrifice. The comparison is elided: as dice thrown down in a gaming-place follow one or other of two players at play, so all the Aṅgirases follow Prajapati. Of the Aṅgirases, two move in the midst of the waters, the subtle waters abiding in Prakṛti. They worship, by Prajapati's command, "dhanu", the bow (or wealth), that is Kapila: as a bow is an instrument of killing, so he is the instrument of killing ignorance, or pleasing like wealth; and the great Prakṛti, the increaser. Both are "pavitravanta", possessed of the purifier (the mantra is called pavitra), that is, of the praṇava mantra as the means of meditation, and "punanta", pure, that is, they refine themselves by meditation on the praṇava.
+
+### Printed p. 738
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीराः (*vīrāḥ*)—the Aṅgirases, sons of Prajapati
+- पीवानं (*pīvānaṃ*)—fat
+- मेषं (*meṣaṃ*)—ram
+- अपचंत (*apacaṃta*)—they cooked for Indra
+- अक्षाः (*akṣāḥ*)—dice
+- दीवे (*dīve*)—at the time of play
+- न्युप्ताः (*nyuptāḥ*)—thrown down
+- अनु आसन् (*anu āsan*)—as they fall according to the players' wish, so the Aṅgirases have followed Prajapati
+- पवित्रवंता (*pavitravaṃtā*)—possessed of mantras
+- पुनंता (*punaṃtā*)—pure
+- द्वा (*dvā*)—two of the Aṅgirases
+- धनुं (*dhanuṃ*)—Kapila, like a bow (an instrument of killing for ignorance)
+- बृहतीं (*bṛhatīṃ*)—Prakṛti of great nature
+- अप्स्वंतः (*apsvaṃtaḥ*)—in the middle of the waters
+- चरतः (*carataḥ*)—they worship
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, sons of Prajapati, cooked a fat ram for Indra. As dice thrown down at the time of play fall according to the players' wish, so the Aṅgirases have followed Prajapati. Two of the Aṅgirases, possessed of mantras and pure, worship in the middle of the waters Kapila, who like a bow is the instrument of killing ignorance, and Prakṛti of great nature.
+
+##### English translation
+The sages cooked a fat ram : they followed (Prajapati) in succession like dice thrown in gambling : two (of them), having the means of purification and becoming purified, proceed in the midst of the waters to (Pra-kriti) the augmenter, to (Kapila) the implement of destruction.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि क्रो॑श॒नासो॒ विष्वं॑च आय॒न्पचा॑ति॒ नेमो॑ न॒हि पक्ष॑द॒र्धः ।  
+> अ॒यं मे॑ दे॒वः स॑वि॒ता तदा॑ह॒ द्व॑न्न॒ इद्व॑नवत्स॒र्पिर॑न्नः ॥१८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । क्रोशनासः । विस्वंचः । अयन् । पचाति । नेमः । नहि । पक्षत् । अर्थः ।  
+> अयं । मे । देवः । सविता । तत् । अह । द्रुस अन्नः । इत् । वनवत् । सर्पिःस अन्नः ॥
+
+### Printed p. 739
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वि क्रोशनासो विविधं प्रजापतिं पितरमाह्वयंतो विष्टंचो नानागतयो
+> नानापूजना वा सर्वॆऽंगिरस आयन् । आगच्छन् । प्रजापतेः सकाशादुत्पन्ना इत्यर्थः ।
+> उत्पद्यमानो नेमोऽर्धोऽंगिरसां मध्य एको भागः पचाति । प्रजापत्यर्थं
+> हवींषि पचति । अर्धोऽपरो भागो नहि पक्षत् । नहि पचति । एतत्सर्वं कथमज्ञायि उच्यते । अयमीदृशो देवो द्योतमानः सविता सर्वस्य प्रेरक आदित्यो
+> वा प्रजापतिर्वा मे मह्यं तत्सर्वं यथोक्तमाह । किंच सर्पिरन्नू धृतौदनो
+> द्रन्न इद्दार्वोऽदनोऽग्निरपि वनवत् । हविर्द्वारेण प्रजापतिं वनुते । संभजते ॥
+
+##### Gist of the bhāṣya
+
+"वि क्रोशनासः (*vi krośanāsaḥ*)": calling Prajapati, the father, in many ways, and *viṣvañcaḥ*, of various paths or various worships, all the Aṅgirases came; that is, they arose from Prajapati. Of the Aṅgirases, one half cooks oblations for Prajapati; the other half does not cook. How is all this known? Sāyaṇa answers: this shining Savitṛ, the impeller of all, or the Sun, or Prajapati, has told me all this as stated. Moreover Agni, "सर्पिरन्नः (*sarpirannaḥ*)", whose food is ghee, and *druannaḥ*, whose food is wood, also serves Prajapati by means of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विक्रोशनासः (*vikrośanāsaḥ*)—calling Prajapati in many ways
+- विष्टंचः (*viṣṭaṃcaḥ*)—the Aṅgirases of various kinds of movement
+- आयन् (*āyan*)—they move in all regions
+- नेमः (*nemaḥ*)—half of these Aṅgirases
+- पचाति (*pacāti*)—cook the oblations
+- अर्धः (*ardhaḥ*)—the remaining half
+- नहि पक्षत् (*nahi pakṣat*)—does not cook
+- देवः (*devaḥ*)—the divine
+- अयं सविता (*ayaṃ savitā*)—this god Savitṛ
+- मे (*me*)—to me
+- तत् आह (*tat āha*)—has spoken thus
+- सर्पिरन्नः (*sarpirannaḥ*)—he whose food is in the form of oblation
+- द्वृन्न इत् (*dvṛnna it*)—Agni also, whose food is wood and the like
+- वनवत् (*vanavat*)—worships Prajapati
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, calling Prajapati in many ways and of various kinds of movement, move in all regions. Half of these Aṅgirases cook the oblations; the remaining half do not cook. This divine Savitṛ has told me thus: "Agni also, who eats the oblation and eats wood and the like, worships Prajapati."
+
+##### English translation
+They (the Angirasas) go in all directions calling (upon Prajapati), half of them cook (their oblations), the other half cook not ; this divine Savitri has told me this—(Agni), whose food is wood and ghee, serves (Prajapati by means of oblations).
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॑श्यं॒ ग्रामं॒ वह॑मानमा॒राद॑च॒क्रया॑ स्व॒धया॒ वर्त॑मानं ।
+
 ---
 
-**Progress note:** Done through printed p. 733. pp. 728-733 (batch API)
+**Progress note:** Done through printed p. 739. pp. 734-739 (batch API)

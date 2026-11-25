@@ -119,3 +119,13 @@
 | w0716 pp. 716-721 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 17809 + cache write 0 + cache read 5309, out 4498 | $0.041 |
 | w0722 pp. 722-727 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 16825 + cache write 0 + cache read 5309, out 5598 | $0.045 |
 | w0728 pp. 728-733 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 16802 + cache write 0 + cache read 5309, out 5432 | $0.044 |
+| w0734 pp. 734-739 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 16982 + cache write 0 + cache read 5309, out 5155 | $0.043 |
+| w0740 pp. 740-745 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 17319 + cache write 0 + cache read 5309, out 8233 | $0.059 |
+| w0746 pp. 746-751 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 19855 + cache write 0 + cache read 5309, out 4820 | $0.044 |
+| w0752 pp. 752-757 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 20574 + cache write 0 + cache read 5309, out 5762 | $0.050 |
+| w0758 pp. 758-763 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 16646 + cache write 0 + cache read 5309, out 4798 | $0.041 |
+| w0764 pp. 764-769 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 16588 + cache write 5309 + cache read 0, out 5667 | $0.052 |
+| w0770 pp. 770-776 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 21464 + cache write 0 + cache read 5309, out 13925 | $0.092 |
+| w0777 pp. 777-782 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 17814 + cache write 0 + cache read 5309, out 5035 | $0.044 |
+| w0783 pp. 783-788 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 22241 + cache write 0 + cache read 5309, out 10151 | $0.074 |
+| w0789 pp. 789-794 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 20581 + cache write 0 + cache read 5309, out 12469 | $0.083 |
