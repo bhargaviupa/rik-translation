@@ -8822,6 +8822,318 @@ The Indra who is पापजे (*pāpaje*) — the particle आ (*ā*) has no 
 
 While fighting in battle with Vṛtra, who was born as the fruit of sin, Indra became afraid like a man. But when, for the accomplishment of his task, he joined with the Maruts, who are endowed with strength, then he became able to drive Vṛtra away.
 
+### Printed p. 232
+
+##### English translation
+Indra repelled (him), being like a mortal tired and affrighted in (the combat with) the offspring of iniquity (Vritra), when being associated with the forces (of the Maruts). he has been prepared for splendor.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सचा॒योरिंद्र॒श्चर्कृ॑ष॒ आ उ॑पान॒सः स॑प॒र्यन् ।  
+> न॒दयो॒र्विव्र॑तयोः॒ शूर॒ इंद्रः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सचा । आयोः । इंद्रः । चर्कृषे । आ । उपानसः । सपर्यन् ।  
+> नदयोः । विव्रतयोः । शूरः । इंद्रः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयोः । मनुष्यनामैतत् । मनुष्यस्य स्तोतुश्चर्कृषे पुनःपुनर्विलेखनाय । धनप्रदानायेत्यर्थः । सचा सह दातवैर्धनैः सहितः । यद्वा । आयोः
+> सचा सहायभूतः । उपानसोऽन उपागतवान् ॥ अत्यादयः क्रांताद्यर्थॆ द्वितीयया । म- २-२-१८-४ । इति प्रादिसमासः । अनसंतान्न पुंसकात् । पा. ५-४-१०३ । इति
+> समासांतष्टच् ॥ आरूढरथ इत्यर्थः । सर्पयन् धनैः स्तोतारं पूजयन् । यद्वा ।
+> व्यत्ययेन कर्तृप्रत्ययः । स्तुतिभिर्हविर्भिश्च पूज्यमानः । उक्तगुणविशिष्टः सन्ना ।
+> आगच्छति । उपसर्गश्रुतेरुचितक्रियाध्याहारः । कीदृश इंद्रः । नदयोर्हेषाशब्दं
+> कुर्वतोर्निव्रतयोर्विशिष्टकर्मणोरश्वयोर्नियंता शूरो विक्रांतः ॥
+
+##### Gist of the bhāṣya
+
+आयोः (*āyoḥ*) is a name for "man". For the man, the worshipper, चर्कृषे (*carkṛṣe*) means "for repeated drawing", that is, for giving wealth. सचा (*sacā*) means "together with" the wealth to be given. Or else, सचा (*sacā*) means "a helper" of Āyu. उपानसः (*upānasaḥ*) means one who has come to the cart (अन (*ana*)), that is, one who has mounted his chariot. सपर्यन् (*saparyan*) means honouring the worshipper with wealth. Or else, by a change of the affix to the agent form, it means being honoured with hymns and oblations. Possessed of the qualities stated, Indra "comes" (आ (*ā*)). Because the preverb is heard, the fitting verb is supplied. What kind of Indra? He is the controller of the two horses that neigh and perform distinguished work, the hero, the valiant.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नदयोः (*nadayoḥ*)—of the two (horses) that make the neighing sound
+- विव्रतयोः (*vivratayoḥ*)—that have excellent action, the master of the horses
+- शूरः (*śūraḥ*)—the valiant
+- इंद्रः (*iṃdraḥ*)—Indra
+- सपर्यन् (*saparyan*)—being worshipped with praises
+- उपानसः (*upānasaḥ*)—having mounted the chariot
+- आयोः (*āyoḥ*)—to the man (the sacrificer)
+- चर्क्कृषे (*carkkṛṣe*)—for the giving of wealth
+- सचा (*sacā*)—with wealth
+- आ (*ā*)—comes
+
+### Printed p. 233
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the master of the horses that make the neighing sound and have excellent action, the valiant one, being worshipped with praises and having mounted his chariot, comes with wealth to the sacrificer for the giving of wealth.
+
+##### English translation
+Indra, the friend of man, for his exhilaration, comes mounted in his chariot. granting him favour, the hero Indra, (the driver) of the two neighing and prancing (steeds).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधि॒ यस्त॒स्थौ केश॑वंता॒ व्यच॑स्वंता॒ न पु॒ष्ट्यै ।  
+> व॒नोति॒ शिप्रा॑भ्यां शि॒प्रिणी॑वान् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । यः । तस्थौ । केशवंता । व्यचस्वंता । न । पुष्टॆति ।  
+> वनोति । शिप्राभ्यां । शिप्रिणीऽवान् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः केशवंता केशिन् व्यचस्वंता व्यचनवंतौ व्याप्तिमंतौ । नेत्यनर्थको निपातः । ईदृशावश्व पुष्टै पोषणाय यजमानस्यात्मनो वाधि तस्थौ अधितिष्ठति
+> आरोहति ॥ अधिशीज् स्थानां कर्म । पा.१-४-४६।इति कर्मणोऽधिकरणसंज्ञा ॥ यद्वा!
+> नेति चार्थे । तेन गुणौ समुच्चीयेते। प्रशस्तकेश् व्यचस्वंतौ चेत्यर्थः । स शिप्राभ्यां
+> हनूभ्यां शिप्रिणीनाञ्प्रवानिंद्रः । एको मत्वर्थीयोऽनुवादः। वनोति । सोमान्याचते ॥ वनु याचने ॥ यद्वा । वनुष्यतिर्हंतिकर्मा । शत्रून्हिनस्ति ॥
+
+##### Gist of the bhāṣya
+
+The Indra who mounts the two horses that are केशवंता (*keśavaṃtā*) (maned) and व्यचस्वंता (*vyacasvaṃtā*) (pervading, wide-reaching) does so पुष्टै (*puṣṭai*), for the nourishment of the sacrificer or of himself; न (*na*) is here a meaningless particle. Or else न (*na*) has the sense of "and", so that the two qualities are combined: the horses are well-maned and pervading. That Indra, शिप्राभ्यां (*śiprābhyāṃ*), with his two jaws, being शिप्रिणी (*śipriṇī*) ... [the following words are damaged] **NOTE**. वनोति (*vanoti*) means he asks for Soma (root वनु (*vanu*) in the sense of asking). Or else, वनुष्यति (*vanuṣyati*) is a verb of killing: he strikes the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- केशवंता (*keśavaṃtā*)—(the horses) having excellent manes
+- व्यचस्वंता (*vyacasvaṃtā*)—and pervading
+- पुष्टये (*puṣṭaye*)—for the nourishment of the sacrificer
+- अधि तस्थौ (*adhi tasthau*)—mounts, that very
+
+### Printed p. 234
+- इंद्रनु (*iṃdranu*)—Indra [continuing the preceding line]
+- शिप्रिणीवान् (*śipriṇīvān*)—having excellent cheeks
+- शिप्राभ्यां (*śiprābhyāṃ*)—opening his jaws (his mouth)
+- वनोति (*vanoti*)—desires the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who mounts the horses with excellent manes and wide-reaching, to bring nourishment to the sacrificer, having excellent cheeks, opens his jaws (his mouth) and asks for the Soma.
+
+##### English translation
+He who has mounted the two long-maned and all-pervading steeds for the nourishment (of the sacrificer) asks (for the Soma with his two jaws, possesing mighty jaws.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रास्तौ॑दृ॒ष्ट्वा जा॑ ऋ॒स्वेभि॑स्त॒तक्ष॒ शूरः॒ शव॑सा ।  
+> ऋ॒भुर्न क्रतु॑भिर्मात॒रिश्वा॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अस्तौत् । ऋष्वओजाः । ऋष्वेभिः । ततक्ष । शूरः । शवसा ॥  
+> ऋभुः । न । क्रतुभिः । मातरिश्वा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋष्टौजा दर्शनीयबलो व्याप्तबलो वर्षेभिर्दर्शनीयैर्मरुद्भिः सह
+> प्रास्तौत् । स्तुत्यादिकं सम्यकृतमनेनेति प्रशंसति । यद्वा । कर्मणि कर्तृप्रत्ययः ।
+> प्रकर्षेण स्तुतोऽभूत् । य इंद्रः शूरो विक्रांतो मातरिश्वा वृष्टेर्निर्मातर्यंतरिक्षे श्वसन्वर्तमानः सङ्ज्यवसा बलेन क्रतुभिः क्रियमाणैः कर्मभिः । यद्वा ।
+> क्रतुरिति प्रज्ञानाम । बलेन प्रज्ञाभिश्च ततक्ष वृत्रवधादिकं चकार । तत्र दृष्टांतः ।
+> ऋभुर्नर्भव इव ॥ सुपां सुलुगिति जसः सुरादेशः ॥ ऋभवो यथा कर्मभिः प्रज्ञाभिश्चानन्यसाधारणरथचमसादिनिर्माणमकुर्वन् तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+ऋष्टौजा (*ṛṣṭaujā*): he who has beautiful strength, pervading strength, प्रास्तौत् (*prāstaut*), praised together with the beautiful Maruts: "the praise and the rest were well done by him", so he commends. Or else, with the agent affix in the passive sense, he was greatly praised. That Indra, the hero, the valiant, मातरिश्वा (*mātariśvā*), the maker of rain, who moves breathing in the atmosphere, ततक्ष (*tatakṣa*), wrought the slaying of Vṛtra and the like, with strength and with क्रतुभिः (*kratubhiḥ*), the actions that are performed. Or else क्रतु (*kratu*) is a name for wisdom, so: with strength and with wisdom. The illustration: ऋभुर्न (*ṛbhurna*), like the Ṛbhu(s): as the Ṛbhus by their actions and wisdom made the unequalled chariot, cups and the like, so he did.
+
+### Printed p. 235
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूरः (*śūraḥ*)—the valiant
+- ऋष्वजाः (*ṛṣvajāḥ*)—having attractive strength
+- ऋष्वभिः (*ṛṣvabhiḥ*)—joined with the radiant Maruts, Indra
+- प्रास्तौत् (*prāstaut*)—has been praised
+- ऋभुः न (*ṛbhuḥ na*)—as the Ṛbhus accomplished an extraordinary work by their wisdom
+- मातरिश्वा (*mātariśvā*)—Indra, abiding in the atmosphere
+- शवसा (*śavasā*)—with his strength
+- क्रतुभिः (*kratubhiḥ*)—and with excellent wisdom
+- ततक्ष (*tatakṣa*)—accomplished the work of Vṛtra-slaying and the like
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the valiant, of attractive strength, joined with the radiant Maruts, has been praised. As the Ṛbhus accomplished an extraordinary work by their wisdom, so Indra, abiding in the atmosphere, accomplished the work of Vṛtra-slaying and the like with his strength and with excellent wisdom.
+
+##### English translation
+Of glorious strength (associated) with the glorious (Maruts) he was re-
+nowned; the hero abiding in the firmament wrought with his strength as the
+Ribhus with their wonderful works.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वज्रं॒ यश्च॒क्रे सु॒हना॑य॒ दस्य॑वे हिरीम॒शो हिरी॑मान् ।  
+> अरु॑तहनु॒रद्भु॑तं॒ न रजः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वज्रं । यः । चक्रे । सुहनाय । दस्यवे । हिरीमशः । हिरीमान् ।  
+> अरुत्‌हनुः । अद्भुतं । न । रजः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः सुहनाय सुष्टु हननीयाय दस्यव उपक्षपयित्रे शत्रवे तस्य
+> वधाय वज्रं प्रहरणसाधनमायुधं चक्रे कृतवान् स त्वं वृजिना शिशीहीत्युत्तरसंबंधः । कीदृश इंद्रः । हिरीमशो हरितश्मश्रुः ॥ पृषोदरादिः ॥ हिरीमान् हरि-
+
+##### Gist of the bhāṣya
+
+The Indra who made the vajra, the weapon, the instrument of striking, for the slaying of the दस्यवे (*dasyave*), the harassing enemy who is easily slain (सुहनाय (*suhanāya*)): that same one, "you destroy our sins" (वृजिना शिशीहि (*vṛjinā śiśīhi*)), this being the connection with the next verse. What kind of Indra? हिरीमशः (*hirīmaśaḥ*): green- (golden-) bearded.
+
+### Printed p. 236
+
+> ताश्वो हरितवर्णो ना अरुतहनुरबाधितहनुः । किमिव । अद्भुतं न रजः । अद्भुतमिति
+> महन्नाम । रज इति रंजकमंतरिक्षमुच्यते । महदंतरिक्षमिन । तद्यथान्यैरबाध्यं
+> भवति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+हिरीमान् (*hirīmān*): possessing tawny horses, of tawny colour; अरुतहनुः (*arutahanuḥ*): of unobstructed jaws. Like what? अद्भुतं न रजः (*adbhutaṃ na rajaḥ*). अद्भुत (*adbhuta*) is a name for "great"; रजः (*rajaḥ*) is said to be the colour-giving atmosphere: like the great atmosphere. As that is unobstructed by others, so is he.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिरीमशः (*hirīmaśaḥ*)—having golden-coloured hair
+- हिरीमान् (*hirīmān*)—yoked with tawny-coloured horses
+- अद्भुतं (*adbhutaṃ*)—great
+- रजः न (*rajaḥ na*)—like the atmosphere
+- अरुतहनुः (*arutahanuḥ*)—having unharmed cheeks
+- यः (*yaḥ*)—that very Indra
+- सुहनाय (*suhanāya*)—who deserves to be slain
+- दस्यवे (*dasyave*)—for Vṛtra
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- चक्रे (*cakre*)—made sharp
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who has golden-coloured hair, is yoked with tawny-coloured horses, and has unharmed cheeks like the great atmosphere, made his thunderbolt sharp for Vṛtra, who deserved to be slain.
+
+##### English translation
+The golden-bearded (Indra), lord of bay horses, who made the thunder-
+bolt for the easy destruction of the Dasyu, who has irresistible jaws like the
+vast firmament.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ नो वृजि॒ना शि॑शीहि ॒चा व॑नेमा॒नृचः॑ ।  
+> नाब्र॑ह्मा य॒ज्ञ ऋध॒गोष॑ति॒ त्वे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । नः । वृजिना । शिशीहि । ऋचा । वनेम । अनृचः ।  
+> न । अब्रह्मा । यज्ञः । ऋधक् । जोषति । त्वे इति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्माकं वृजिना वृजिनानि वर्जनीयानि पापान्यव शिशीहि । अत्यर्थं
+> तनूकुरु । विनाशयेत्यर्थः । वयं चर्चा स्तुत्या साधनेनानृचोऽस्तुतिकानयजमानान्वनेम । हिंसाम । अब्रह्मा । ब्रह्म परिवृढं स्तोत्रं । स्तुतिविरहितो यज्ञ
+
+##### Gist of the bhāṣya
+
+O Indra, वृजिना (*vṛjinā*), our sins, which are to be avoided, अव शिशीहि (*ava śiśīhi*): make them exceedingly thin, that is, destroy them. We, by ऋचा (*ṛcā*), the hymn as the means, वनेम (*vanema*), may harm अनृचः (*anṛcaḥ*), the sacrificers who have no hymns. अब्रह्मा (*abrahmā*): ब्रह्म (*brahma*) is the enlarged hymn of praise; the sacrifice that is without praise,
+
+### Printed p. 237
+
+> ऋधक् सस्तुतिकाद्यज्ञात्प्रथग्भूतस्त्वे त्वयि न जोषति । न सेवते त्वां । न प्रीणयतीत्यर्थः ॥ जुषी प्रीतिसेवनयोः । व्यत्ययेन शप् परस्मैपदं च ॥
+
+##### Gist of the bhāṣya
+
+ऋधक् (*ṛdhak*), being separate from the sacrifice with praise, does not delight in you (त्वे (*tve*)): it does not serve you, it does not please you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our (O Indra)
+- वृजिना (*vṛjinā*)—sins
+- अव शिशीहि (*ava śiśīhi*)—destroy
+- ऋचा (*ṛcā*)—together with our hymns
+- अनृचः (*anṛcaḥ*)—those who are not praisers
+- वनेम (*vanema*)—may we harm
+- अब्रह्मा (*abrahmā*)—not accompanied by praise
+- यज्ञः (*yajñaḥ*)—worship
+- यधक् (*yadhak*)—being different from worship accompanied by praise
+- तै (*tai*)—in you
+- न जोषति (*na joṣati*)—does not produce satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroy our sins. Together with our hymns, may we harm those who are not praisers. Because worship without praise is different from worship accompanied by praise, it does not produce satisfaction in you.
+
+##### English translation
+Comminute, Indra our iniquities, may we, by our hymns, exterminate those who offers no hymns. The sacrifice, unaccompained by prayer, distinct (from that which is performed with prayer), is not grateful to you.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वा यत्ते॑ त्रे॒तिनी॒ भूद्य॒ज्ञस्य॑ धू॒र्षु सद्म॑न् ।  
+> स॒जूर्नावं॒ स्वय॑शसं॒ सचा॒योः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वा । यत् । ते । त्रेतिनी । भूत् । यज्ञस्य । धूःसु । सद्मन् ।  
+> सजूः । नावं । स्वयशसं । सचा । आयोः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव स्वभूता त्रेतिनी । त्रेताग्नित्रयं । तद्वती त्रेतिनी क्रियाः । सा
+> यद्यदोर्ध्वर्न्नता प्रवृत्ता भूत् अभूत् ॥ यद्योगादनिघातः ॥ कुत्र स्थान इति: ।
+> यज्ञस्य यागस्य सद्मन् सदने । केष्टिति । धूर्षु कर्मणां वोढृष्टृत्विसु । तदानीं
+
+##### Gist of the bhāṣya
+
+O Indra, त्रेतिनी (*tretinī*), your own: त्रेता (*tretā*) is the triad of fires, and the rite possessing them is त्रेतिनी (*tretinī*). When it *ūrdhvā ... bhūt*, has risen up, comes forth. Where? *yajñasya ... sadman*, in the seat of the sacrifice; among whom? धूर्षु (*dhūrṣu*), among the priests, the bearers of the rites. Then
+
+### Printed p. 238
+
+> सजूर्यजमानेन मरुद्भिर्वा सह प्रीयमाणो वा सन्नायोर्मनुष्यस्य यजमानस्य सचा सह तेन साकं स्वयशसं स्वायत्तयशस्वं यशःसाधनं नावं तरणसाधनं
+> तरणिं । आरोहसीति शेषः । एकमेव रथं यजमान आरोहति स्वतरणार्थं तमेव
+> तस्य साधकमारोहसीत्यर्थः । यद्वा । नावं रथं स्वयशसमायोर्यजमानस्य
+> सचा सहायभूतः सजूस्तेन सह प्रीयमाण आरोहेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+सजूः (*sajūḥ*), being pleased together with the sacrificer or with the Maruts, together with आयोः (*āyoḥ*), the man, the sacrificer, सचा (*sacā*), with him, स्वयशसं (*svayaśasaṃ*), the vessel whose glory is in one's own hand, the means of glory, नावं (*nāvaṃ*), the means of crossing, the boat: "you ascend" is the remainder to be supplied. The sacrificer mounts one and the same chariot for his own crossing; that very instrument of his you mount. Or else: नावं (*nāvaṃ*) is the chariot; स्वयशसं (*svayaśasaṃ*); as the companion (सचा (*sacā*)) of the sacrificer Āyu, सजूः (*sajūḥ*), pleased together with him, mount it: such is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञस्य (*yajñasya*)—of the sacrifice (O Indra)
+- सद्मन् (*sadman*)—in the place
+- धूर्षु (*dhūrṣu*)—among the priests who carry out the rites
+- ते (*te*)—the rite that worships you
+- त्रेतिनी (*tretinī*)—consisting of the three fires
+- यत् (*yat*)—when
+- ऊर्ध्वा भूत् (*ūrdhvā bhūt*)—becomes upward-turned (is performed), then
+- सजूः (*sajūḥ*)—together with the Maruts
+- आयोः सचा (*āyoḥ sacā*)—with the sacrificer
+- स्वयशसः (*svayaśasaḥ*)—which is in one's own hand, the means of glory
+- नावं (*nāvaṃ*)—you will mount the boat
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when in the place of the sacrifice, among the priests who carry out the rites, the rite consisting of the three fires, which worships you, becomes upward-turned, then, together with the Maruts and with the sacrificer, you will mount the boat that is in one's own hand and is the means of glory.
+
+##### English translation
+When the ceremony of the three fires is instituted for you by those who support (the burden of the rite) in the hall of sacrifice, accompanied by the sacrifice, you, the friend of man, (ascend) your vessel of the glory.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रि॒ये ते॒ पृत्नि॑रुप॒सेच॑नी भूच्छ्रि॒ये दर्वि॑ररे॒पाः ।  
+> यया॒ स्वे पात्रे॑ सिं॒चस॒ उत् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रिये । ते । पृश्निः । उपसेचनी । भूत् । क्रिये । दर्विः । अरेपाः ।  
+> यया । स्वे । पात्रे । सिंचसे । उत् ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 231. pp. 226-231 (batch API)
+**Progress note:** Done through printed p. 238. pp. 232-238 (batch API)
