@@ -21112,6 +21112,241 @@ At the death of a dīkṣita, four ṛks beginning "उप सर्प मा�
 Enter this Earth, all-pervading, widely spread, in the form of a mother and giver of happiness. This Earth, having the nature of a woman, is soft like wool to the sacrificer who has given generously. May this Earth protect you from the nearness of the goddess of death.
 **NOTE**
 
+### Printed p. 617
+
+##### English translation
+Go to this your mother-earth, the wide-spread, delightful earth ; this virgin (earth is) as soft as wool, to the liberal (worshipper); may she protect you from the proximity of Nirriti.
+
+##### विशेषविषयगळु (Special Topics)
+
+If a sacrificer who has taken up the sacrificial consecration dies before the sacrifice is completed, the four Ṛks beginning उप सर्प (*upa sarpa*) (Ṛks 10–13) are to be recited. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra उप सर्प भूमिमेतामिति चतस्रः सोम एकेभ्यः (*upa sarpa bhūmimetāmiti catasraḥ soma ekebhyaḥ*) (Ā. 6-10). In the funeral rite, after the body has been burnt and the bones gathered, this mantra is to be recited when the bones are put into a pit (or into water such as a river). This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra सर्प इत्यनया संचितान्यस्थीनि गर्तॆ निदध्युः (*sarpa ityanayā saṃcitānyasthīni gartè nidadhyuḥ*) (Ā. Gṛ. 4-5-5). **NOTE**
+
+For this Ṛk and the next three, Sāyaṇa says that the mantras are those recited when the bones of the dead man are laid down, and he explains the meaning accordingly. Since the Ṛks contain no word for bones or any word that conveys that sense, many Western scholars hold that these Ṛks describe the burial of the dead body in the earth, and therefore think that besides the custom of burning the corpse in fire, burial in the earth was also current at that time. It cannot be said that this opinion is wrong.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उच्छ्वं॑चस्व पृथिवि॒ मा नि बा॑धथाः सूपाय॒नास्मै॑ भव  ॒
+> सूपवंचसा ।  
+> मा॒ता पु॒त्रं यथा॑ सि॒चाभ्ये॑नं भूम ऊर्णुहि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । श्वंचस्व । पृथिवि । मा । नि । बाधथाः । सुउपायना । अस्मै । भव । सुउपवंचना ।  
+> माता । पुत्रं । यथा । सिचा । अभि । एनं । भूमे । ऊर्णुहि ॥ ११ ॥
+
+### Printed p. 618
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उच्छ्वंचस्वेत्येतया पांसूनवकिरेत् । सूत्र्यते हि । उत्तरया पांसूनवकिरेत् । आ. गृ. ४-५-६ । इति ॥
+> हे पृथिवि उच्छ्वंचस्व । ऊर्ध्वंगतोच्छ्वासमेनं कुरु । अधस्तान्मा कृथा
+> इत्यर्थः । किंच मा नि बाधथाः । मा संपीडय । तथास्मै यजमानार्थं सूपायना शोभनोपगमना सूपचारिका भवेत्यर्थः । सूपवंचना । उपवंचनं
+> प्रलंभनं शोभनप्रलंभा सुप्रतिष्ठा भव । अपि च माता पुत्रमात्मीयं बालकं
+> सिचा वस्त्रांतेन यथाच्छादयति तद्वद्धे भूमि एनमस्थिरूपं यजमानं त्वमभ्यूर्णुहि । आभिमुख्येनाच्छादय ॥
+
+##### Gist of the bhāṣya
+
+One is to scatter dust with this Ṛk उच्छ्वंचस्व (*ucchvaṃcasva*); for it is taught in the sūtra: "With the following (Ṛk) he should scatter the dust" (Ā. Gṛ. 4-5-6). "O earth, rise up", that is, make him raised up and breathing freely; do not make (the earth) sink beneath him. Further, "do not oppress" him; do not crush him. Be gracious and attentive (सूपायना (*sūpāyanā*), one of good approach, a good attendant) for this sacrificer. सूपवंचना (*sūpavaṃcanā*): उपवंचनं (*upavaṃcanaṃ*) is प्रलंभनं (*pralaṃbhanaṃ*), a good support; so be one of good support, well established. And as a mother covers her own child with the end of a garment, so, O earth, cover this (sacrificer, now in the form of bones) all over, covering him facing towards him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृथिवि (*pṛthivi*)—O earth
+- उच्छ्वंचस्व (*ucchvaṃcasva*)—make him breathe upward
+- मा नि बाधथाः (*mā ni bādhathāḥ*)—do not oppress him
+- अस्मै (*asmai*)—to this sacrificer
+- सूपायना (*sūpāyanā*)—be excellent, a giver of comfort
+- सूपवंचना भव (*sūpavaṃcanā bhava*)—be an excellent giver of shelter
+- माता (*mātā*)—the mother
+- पुत्रं (*putraṃ*)—the son
+- सिचा (*sicā*)—with the end of her garment
+- यथा (*yathā*)—as she covers
+- भूमे (*bhūme*)—O earth
+- एनं (*enaṃ*)—this dead sacrificer
+- अभ्यूर्णुहि (*abhyūrṇuhi*)—hide, cover
+
+##### भावार्थ (Bhāvārtha)
+
+O earth, make him breathe upward. Do not oppress him. Be an excellent giver of comfort to this sacrificer. Be an excellent giver of shelter. As a mother covers her son with the end of her sari, O earth, cover this dead sacrificer.
+
+##### English translation
+Earth, rise up above him ; oppress him not ; he attentive to him (and) comfortable ; cover him up earth, as a mother covers her echild with the sklrt of her garment.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the dead body or the urn of bones is buried in the earth and covered by throwing earth over it, this Ṛk उच्छंचस्व (*ucchaṃcasva*) is to be recited. This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra उत्तरया पांसूनवकिरेत् (*uttarayā pāṃsūnavakiret*) (Ā. Gṛ. 4-5-6).
+
+### Printed p. 619
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒च्छ्वंच॑माना पृथि॒वी सु ति॑ष्ठतु स॒हस्रं॒ मित॒ उप॒ हि  ॑
+> श्रयंतां ।  
+> ते गृ॒हासो॑ घृत॒श्चुतो॑ भवंतु वि॒श्वाहा॑स्मै शर॒णाः सं॒त्वत्र॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत्श्वंचमाना । पृथिवी सु । तिष्ठतु । सहस्रं । मितः । उप । हि । श्रयंतां ।  
+> ते । गृहासः । धृतश्चुतः भवंतु । विश्वाहा । अस्मै । शरणाः । संतु । अत्र ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पांसुभिः प्रच्छाद्यतां पठंति । उच्चंचमानास्थिकुंभमवष्टभ्योर्ध्वं
+> गच्छंती पृथिवी सु तिष्ठतु । प्रतिष्ठिता भवतु । किंच सहस्रं सहस्रसंख्याका मितः
+> प्रक्षिप्ताः ॥ मिनोतेरौणादिके कर्मणि क्विपि तुगागमः । ततो जस् ॥ यद्वा । सहस्रं ।
+> तृतीयार्थे प्रथमा । मित इति निष्कांतं रूपं । व्यत्ययेन बहुवचनस्यैकवचनं ।
+> स्वरो वृषादित्वाद्दृष्टव्यः । सहस्रेण संमिता बहुसंख्याकाः । पार्थिवाः पांसव
+> उप श्रयंतां । एनमुपसेवंतां । तं सपरिवार्य तिष्ठंत्यर्थः । हिरवधारणे ।
+> तथा ते पांसवोऽस्मै गृहासो गृहा भवंतो धृतश्चुतो धृतस्योदकस्य
+> सर्पिषो वा क्षारयितारो भवंतु । अत्रास्मिल्लोके विश्वाहा सर्वेस्वहःसु सर्वदास्मा अस्य शरणाः संतु । आश्रयभूता भवंतु ॥
+
+##### Gist of the bhāṣya
+
+They recite this while the bones are being covered with dust. May the earth, rising upward, pressing down upon the urn of bones, stand firm, be well established. Further, may the thousand, that is the thousandfold number of, मितः (*mitaḥ*) (things) thrown in. (मितः (*mitaḥ*): from the root *minoti* by an Uṇādi affix in the sense of the object; the augment tuk after a kvip; then jas.) Or else: सहस्रं (*sahasraṃ*) is the first case in the sense of the third; मित (*mita*) is a derived form, the plural put for the singular by exchange, and the accent is to be understood as in वृष (*vṛṣa*) and the like. Then the sense is: the many earthly dust-particles, measured by a thousand, उप श्रयंतां (*upa śrayaṃtāṃ*), let them attend upon him, stand surrounding him. हि (*hi*) is for emphasis. Likewise may those dust-particles be houses for him, धृतश्चुतः (*dhṛtaścutaḥ*), makers of ghee, of water or of clarified butter, flow. अत्र (*atra*), in this world, विश्वाहा (*viśvāhā*), on all days, always, may they be a refuge for him, may they be a shelter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उच्छ्वंचमाना (*ucchvaṃcamānā*)—spread over the dead man
+- पृथिवी (*pṛthivī*)—the earth
+- सु तिष्ठतु (*su tiṣṭhatu*)—let it find a firm place
+- मितः (*mitaḥ*)—placed upon him
+- सहस्रं (*sahasraṃ*)—thousands of
+- उप श्रयंतां (*upa śrayaṃtāṃ*)—let the dust-particles surround him
+- ते (*te*)—these dust-particles
+- गृहासः (*gṛhāsaḥ*)—be shelters for the dead man
+- धृतश्चुतः (*dhṛtaścutaḥ*)—and streamers of water
+- भवंतु (*bhavaṃtu*)—let them be
+- अत्र (*atra*)—in this place
+- विश्वाहा (*viśvāhā*)—on all days
+- अस्मै (*asmai*)—for this sacrificer
+- शरणाः संतु (*śaraṇāḥ saṃtu*)—let them provide shelter
+
+##### भावार्थ (Bhāvārtha)
+
+May the earth spread over the body of the dead man find a firm place. May the thousands of particles laid upon him surround him. May these particles be shelters for the dead man and streamers of water. In this place on all days may they provide shelter for this sacrificer.
+
+### Printed p. 620
+
+##### English translation
+May the earth heaped over him lie light : may thousands of particles (of dust) envelope him ; may these mansions distil ghee (for him); may they every day be an asylum to him in this world.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ते॑ स्तभ्नामि पृथि॒वीं त्वत्परी॒मं लो॒गं नि॒दध॒न्मो अ॒हं  ॑
+> रिषं ।  
+> ए॒तां स्तूणां॑ पि॒तरो॑ धारयंतु॒ तेत्रा॑ य॒मः साद॑ना ते  
+> मिनोतु ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ते । स्तभ्नामि । पृथिवीं । त्वत् । परि । इमं । लोगं । निदधत् । मो इति ।  
+> अहं । रिषं ।  
+> एतां । स्तूणां । पितरः । धारयंतु । ते । अत्र । यमः । सदना । ते । मिनोतु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत्ते स्तभ्नामीति कपालेनास्थीन्यपिदध्यात् । सूत्रितं च । उत्ते स्तभ्नामीति
+> कपालेनापिधाय । आ. गृ. ४-५-८ । इति ॥
+> हे अस्थिकुंभ त्वत्परि । परिशब्दयोगे पंचमी । तवोपरि ते त्वदीयेन
+> कपालेन पृथिवीमुत्सभ्यामि । प्रतिबध्नामि । यथा पृथिवी तवोपरि मा गच्छति
+> तथापिदधामित्यर्थः । इमं लोगं कपाललक्षणं लोष्टं निदधदुपरि स्थापयन्नहं
+> मो रिषं ! मा हिंसिषं । किंचैतां मया निहितां स्फूणां ते त्वदीयां पृथिव्या
+> धारयित्रीं कपाललक्षणां पितरो धारयंतु । निश्चलां कुर्वंतु । ततस्ते त्वदीयेऽस्मिन्सा ने यमः पितृपतिः सदनानि स्थानानि मिनोतु । परिच्चिनत्तु । करोत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+With उत्ते स्तभ्नामि (*utte stabhnāmi*) he should cover the bones with a potsherd. It is stated in the sūtra: "Having covered with the potsherd (reciting) उत्ते स्तभ्नामि (*utte stabhnāmi*)" (Ā. Gṛ. 4-5-8). "O urn of bones, त्वत्परि (*tvatpari*)" (the fifth case is by association with परि (*pari*)), that is, above you, with your own potsherd I *utsabhyāmi*, I hold back the earth, so that the earth may not come upon you; thus I cover. Placing above (you) this clod, लोगं (*logaṃ*), which is the potsherd, may I मो रिषं (*mo riṣaṃ*), not harm (you). Further, this your स्फूणां (*sphūṇāṃ*), the potsherd that holds up the earth, placed by me, may the Pitṛs sustain, make it immovable. Then in this place of yours may Yama, lord of the Pitṛs, मिनोतु (*minotu*), fix, that is, make, dwellings.
+
+### Printed p. 621
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O urn of bones) त्वत्परि (*tvatpari*)—above you
+- ते (*te*)—with your own potsherd
+- पृथिवीं (*pṛthivīṃ*)—earth
+- उत् स्तभ्नामि (*ut stabhnāmi*)—I spread
+- इमं लोगं (*imaṃ logaṃ*)—this clod of earth
+- निदधत् (*nidadhat*)—while placing
+- अहं (*ahaṃ*)—I
+- मो रिसं (*mo risaṃ*)—may I not harm you
+- एतां (*etāṃ*)—this, placed by me
+- ते (*te*)—your
+- स्तूणां (*stūṇāṃ*)—this memorial pillar
+- पितरः (*pitaraḥ*)—the Pitṛs
+- धारयंतु (*dhārayaṃtu*)—let them make it stand firm
+- यमः (*yamaḥ*)—Yama
+- ते (*te*)—for you
+- अत्र (*atra*)—here
+- सदना (*sadanā*)—a dwelling
+- मिनोतु (*minotu*)—let him build
+
+##### भावार्थ (Bhāvārtha)
+
+O urn of bones, above you I take earth with this potsherd and spread it. While placing this clod of earth may I not harm you. May the Pitṛs make this memorial pillar of yours, placed by me, stand firm. May Yama build for you a dwelling here.
+
+##### English translation
+I heap up the earth around you, placing (upon you) this clod of earth: may I not be injured: may the Pitris sustain this your monument; may Yama make you a dwelling here.
+
+##### विशेषविषयगळु (Special Topics)
+
+Reciting this Ṛk उत्ते स्तभ्नामि (*utte stabhnāmi*), one should bury the bones in the earth and cover them by spreading earth over them with a potsherd. This is set out in the Āśvalāyana Gṛhya Sūtra by the sūtra उत्ते स्तभ्नामीति कपालेनापिधाय (*utte stabhnāmīti kapālenāpidhāya*) (Ā. Gṛ. 4-5-8).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒ती॒चीने॒ मामह॒नीष्वाः॑ प॒र्णमि॒व द॑धुः ॥  
+> प्र॒तीचीं॑ जग्रभा॒ वाच॒मश्वं॑ रश॒नया॑ यथा ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रतीचीने । मां । अहनि । इष्वाः । पर्ण०ऽइव । आ । दधुः ।  
+> प्रतीचीं । जग्रभ । वाचं । अश्वं । रतनया । यथा ॥ १४ ॥
+
+### Printed p. 622
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया प्रजापतिः प्रार्थते । हे प्रजापते प्रतीचीने प्रतिपूज्ये अहनि
+> तदुपलक्षिते संवत्सरात्मके मां संकुसुकमृषिं आ दधुः निहितवंतः सर्वे देवाः ।
+> किमिव । इष्टाः बाणस्य पर्णमिव । पक्षमिव पक्षं यथा बाणस्य मूले स्थापयंते
+> तद्वज्जगन्नूले त्वयि मां स्थापितवंतः । अतो मदीयां प्रतीचीं प्रतिपूज्यां
+> पूज्यां वाचु स्तुतिरूपां जग्रभ गृहाण । कथमित्युच्यते । अश्वं आशुगामिनं हयं
+> रशनया रज्जा यथा गृह्णंति तद्वत्कर्णाभ्यां मत्कृतां स्तुतिं गृहाणेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk Prajāpati is addressed in prayer. "O Prajāpati, in the day that is to be honoured in return (प्रतीचीने प्रतिपूज्ये (*pratīcīne pratipūjye*)), marked by it, of the nature of the year, all the gods have placed me, the seer Saṃkusuka." Like what? Like the feather of an arrow: as the feathers are fixed at the base of an arrow, so they have set me in you, the root of the world. Therefore take, जग्रभ (*jagrabha*), my song of praise, honoured in return and worthy of honour. How? As they hold a swift horse, अश्वं (*aśvaṃ*), with a rope, रशनया (*raśanayā*), so take with your ears the praise made by me. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Prajāpati) प्रतीचीने (*pratīcīne*)—that has reached its last time
+- अहनि (*ahani*)—in this twilight time
+- इष्टाः पर्णं इव (*iṣṭāḥ parṇaṃ iva*)—as the wings of a bird fold up
+- मां (*māṃ*)—me
+- आ दधुः (*ā dadhuḥ*)—they have laid down here
+- यथा (*yathā*)—as
+- अश्वं (*aśvaṃ*)—a horse
+- रशनया (*raśanayā*)—with a bridle they hold
+- प्रतीचीं (*pratīcīṃ*)—this praise of mine
+- जग्रभ (*jagrabha*)—listen with your ear and hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Prajāpati, in this twilight, the last time of the day, they have laid me down here, as the wings of a bird fold up. As a horse is held with a bridle, so listen with your ear and hear this praise of mine.
+
+##### English translation
+At the decline of the day they have placed me (in the grave) like the feathers of an arrow ; I have restrained my declining voice as (they check) a horse with a bridle
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Prajāpati is prayed to. Since there is no Sāyaṇa-bhāṣya for this Ṛk, we have written here the commentary on this Ṛk, collected and printed at the end of page 33 of the fourth volume of the Ṛgveda with commentary published by the Vaidika Saṃśodhana Maṇḍala of Poona. It is not Sāyaṇa's commentary. It cannot be said who wrote it.
+
 ---
 
-**Progress note:** Done through printed p. 616. pp. 611-616 (batch API)
+**Progress note:** Done through printed p. 622. pp. 617-622 (batch API)
