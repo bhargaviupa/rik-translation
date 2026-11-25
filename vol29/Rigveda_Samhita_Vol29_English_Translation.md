@@ -648,6 +648,92 @@ There are also mantras which state that Aditi reflects Nature, which pervades th
 The undivided Aditi is the giver of birth to the whole universe. She is the mother of the world, she is the father of the world. She is every thing that is born. She is the place of origin of all. She is the five kinds of people, those of the castes together with the Niṣādas. She is the gods, gandharvas and the rest. Aditi is all the gods. She is the shining heaven. She is the atmosphere, she is the whole universe. She is the governor of all that is born and that will be born.
 Sāyaṇa, commenting on this sentence, says: "Here the word Aditi means either the earth or the mother of the gods", and explains her pervasion of the universe. आदितिरदीना अखंडनीया वा पृथ्वी देवमाता वा !............एवं सकलजगदात्मना अदितिस्तूयते (*āditiradīnā akhaṃḍanīyā vā pṛthvī devamātā vā !............evaṃ sakalajagadātmanā aditistūyate*). The author of the Nirukta, giving the explanation of this word, has explained it (अदितिरदीना देवमाता (*aditiradīnā devamātā*)) as the great-souled mother of the gods. (Ni. 4.22) In the mantra 1.89-10 quoted above, her greatness and the manifestation of her various forms are set out.
 
+### Printed p. 33
+"स्वयंभु ब्रह्म परमं तपो यत् । स एव पुत्रः स पिता स माता (*svayaṃbhu brahma paramaṃ tapo yat | sa eva putraḥ sa pitā sa mātā*)": the self-existent Supreme Brahman is the supremely pure austerity. He himself is the son, he himself is the mother, the father, and so on. Just as in this way all-selfhood and universal pervasion are described of Brahman (Tai. Brā. 3-12-3-1), in the same way Aditi is described in this mantra.
+To know the greatness of the Aditi-principle, another very important context may be examined. The purport of that mantra is as follows—
+"Who among the gods is the greatest? By remembering which god will this my distress be removed? When shall I see my father and my mother?" (1-24-1)
+In the Aitareya Brāhmaṇa the same mantras 1-24-1 and 1-24-2 are quoted and it is stated that these mantras were recited by Śunaḥśepa. Some scholars differ in opinion as to whether this context has a close relation to Śunaḥśepa or not. That is not so important here. Whoever recited this mantra, it is a mantra to be recited by a man caught in calamity, with the desire to escape from the calamity.
+**8. Aditi is the deity who forgives sin;—**
+The scholar Benfey, in giving the meaning of the word Aditi in the mantras 1-24-1 and 1-24-2 quoted above, has stated for this word the meaning "freedom from sin" (Orient and Occident I-33). The purport that he has stated is, from one point of view, reasonable. That Aditi is the destroyer of sin is a well-known matter. That she is free from sin is also set out by epithets such as अनागस (*anāgasa*). That is why the prayer addressed to her is also of this kind.
+"O Varuṇa, release all the bonds that are on my head and in the lower part. May we be sinless in respect of Aditi" (1-24-15)
+In the same way, some sentences in which freedom from sin and purity of the self, obtained through the favour of Aditi, are set out are quoted below.
+"May Aditi make us sinless" (1-166-22)
+"O Aditi, O Mitra and Varuṇa, if we have committed any sin in respect of you, kindly forgive it and show us favour." (2-27-14)
+
+### Printed p. 34
+"O Agni, whatever fault we have committed through the thoughtlessness natural to men, make us sinless, so that the favour of Aditi may be obtained by us." (4-12-4)
+"With the help of Savitṛ, who is of divine nature, may we not commit any sin in respect of Aditi." (5-82-6)
+"Fully observing the resolved ordinance of Aditi, may we not commit any sin against Varuṇa. Varuṇa is of a nature to protect even the most sinful." (8-87-7)
+"O Agni, whatever sin we have committed, forgive it with compassion towards us. May Aryaman **NOTE** and Aditi destroy that sin." (8-93-7)
+"May Mitra hear my prayer. May Aditi and Savitṛ, of divine nature, declare us sinless before Varuṇa." (10-12-8)
+"अनागास्त्वे आदितित्वे तुरास इमं यज्ञं दधतु शोषमाणाः । (*anāgāstve ādititve turāsa imaṃ yajñaṃ dadhatu śoṣamāṇāḥ |*)"
+(Ṛ. Saṃ. 7-54-18)
+In this mantra the two words अदितित्व (*adititva*) and अनागास्त्व (*anāgāstva*) are used together. The prayer is: "May the great gods, hearing our prayer, make our sacrificial rites free from sin and productive of prosperity." But one more point must be noticed here. Although the use of these two words is together, there is no rule that the two must have the same meaning. Showing a different explanation of the word Aditi, the Śatapatha Brāhmaṇa **NOTE**) says as follows.
+स यद्यदेवासृजत तत्तदत्तुमध्रियत । सर्वं वा अत्तीति तददितेरदितित्वं । सर्वस्यैतस्यात्ता भवति । सर्वमस्यांतं भवति य एवमेतददितेरदितित्वं वेद (*sa yadyadevāsṛjata tattadattumadhriyata | sarvaṃ vā attīti tadaditeradititvaṃ | sarvasyaitasyāttā bhavati | sarvamasyāṃtaṃ bhavati ya evametadaditeradititvaṃ veda*)
+(Śa. Brā. 10-6-55; Bṛ. U. 1-2-5)
+Whatever things Brahman created, he began to devour them all again. Because of this act of devouring, the designation Aditi (death) came about. One who knows this principle himself attains the nature of Aditi; thus the explanation of the name Aditi is given and the universe-governing nature of this deity is stated. For this reason the Supreme Brahman also is designated by this name.
+Besides, in "विश्वेषामदितिर्यज्ञयानां (*viśveṣāmaditiryajñayānāṃ*)" (4-1-20) and "अमूरः कविरदितिविस्वान् (*amūraḥ kaviraditivisvān*)" (7-9-3) and similar places the word Aditi is an epithet of Agni. In 9-80-5 it is an epithet of Aryaman **NOTE**. Yāska, in the Nirukta, has stated "अग्निरप्यदितिरुच्यते (*agnirapyaditirucyate*)" (Ni. 10-23), that Agni also is denoted by the word Aditi. And to support his sentence which teaches this identity,
+
+### Printed p. 35
+"यस्मै त्वं सुद्रविषो ददाशोऽनागास्त्वमिदिते सर्वताता (*yasmai tvaṃ sudraviṣo dadāśo 'nāgāstvamidite sarvatātā*)"
+(Ṛ. Saṃ. 1-94-15)
+having quoted this sentence, he has stated that there the word Aditi is used as an epithet of the word Agni. Sāyaṇa has explained that it means the indivisible, that is, the complete Agni.
+Thus all the sentences that give the meaning of seeking the protection of Aditi, the destroyer of sin and forgiver of sins, and asking forgiveness, describe the infinite power of Aditi. These epithets and descriptions show that Aditi is the one who has the power of governing the universe. It is also understood that these ordinances are not merely a display of physical power but include spiritual and ethical laws. In the same way the deities Savitṛ, Sūrya, Uṣas, heaven and earth, and the like are also prayed to (4-54-3; 10-35-2, 3; 3-54-19 and so on).
+**1. Some passages describing that Aditi, though governor of the universe, is also controlled by other powers:—** **NOTE**
+There are also some descriptions that the deities such as Varuṇa, who are called lords of the universe, and even Aditi, who is described as mother, are at times subject to the control of other powers. For example:—
+In the mantra 7-38-4 there is the description that Aditi, together with her sons, the deities Varuṇa, Mitra, Aryaman **NOTE** and the rest, praises Savitṛ and prays for the help of Savitṛ. In 8-12-14 it is stated that Aditi made a work in the form of a hymn of praise to praise Indra. (अदितिः स्तोममिंद्राय जीजनत् (*aditiḥ stomamiṃdrāya jījanat*))
+**10. The order of the creation of the universe as described in the 72nd sūkta of the 10th maṇḍala of the Ṛgveda Saṃhitā: the nature of the origin of Aditi, Dakṣa, the Ādityas and the other gods:—**
+It is the opinion of some scholars that the 72nd sūkta of the 10th maṇḍala of the Ṛgveda Saṃhitā is not as ancient as the other sūktas of the Saṃhitā. But no proper basis can be given for this. The examination of the question whether this sūkta is ancient or recent is for the present not to the point; what is useful here is the order of description of the creation of the universe as set out in this sūkta. Its details are as follows.
+(1) With these praising sūkta mantras we shall describe the order of the origin of the gods. With the help of these mantras in the form of praise, the gods of the earlier age can know our deeds, which belong to the later age.
+
+### Printed p. 36
+(2) Just as a smith presses the bellows and makes the air that is inside come out, Brahmaṇaspati made these gods, who were absorbed, appear outside in the form of creation. In the most ancient age of the gods, the existent came into manifestation from the non-existent.
+(3) In the beginning the manifestation of the existent arose from the non-existent. From it the quarters were made manifest. After that, from the trees ............
+(4) From the trees the earth, and from the earth the quarters, were born. From Dakṣa Aditi, and from Aditi Dakṣa, were born.
+(5) O Dakṣa, Aditi was born of you. She is your daughter. After that, from her the gods, auspicious and immortal, were born.
+(6) O gods, when you moved, when you made the waters of the atmosphere surge, then, as dust goes out from the bodies of dancers, so particles of dust came out from their bodies.
+(7) O gods, when, like men able to bear toil, you pervaded the universe, adorned it and fashioned it, then you brought out the sun, who was hidden in the ocean in the form of the atmosphere, and made him shine.
+(8) Of the eight sons born of her body, Aditi approached the gods with seven only; the eighth, Mārtāṇḍa, she placed in the atmosphere.
+(9) Aditi went with seven sons and joined the gods of the former age. The eighth, Mārtāṇḍa, she took again; she gave him birth for his production and for his death.
+Here it is pertinent to examine what the word यतयः (*yatayaḥ*) used in the 7th Ṛk means. A relation is stated, in some places, between that creation of the universe which is described in the Ṛk 11-22-3 **NOTE** and the Bhṛgus described in the mantras 8-3-9 and 8-6-18. Botlink **NOTE** and Roth are of opinion that in the present mantra the word यतयः (*yatayaḥ*) designates those Bhṛgus. In Ṛ. Saṃ. 7-13-1 the same word is an epithet of Agni (वैश्वानराय यतये मतीनां (*vaiśvānarāya yataye matīnāṃ*)). In 8-6-18, in "ये इंद्र यतयस्त्वा भृगवो ये च (*ye iṃdra yatayastvā bhṛgavo ye ca*) ........", यतयः (*yatayaḥ*) may be taken to mean the descendants of the master of a group.
+
+### Printed p. 37
+There are some Sāma mantras that are not included in the Ṛgveda Saṃhitā. In one of them both the words यति (*yati*) and भृगु (*bhṛgu*) are used. (Sā. Ve. 2-304) **NOTE** "इंद्रस्तुराषाण्मित्रो न जघान वृत्रं यतिर्न । (*iṃdrasturāṣāṇmitro na jaghāna vṛtraṃ yatirna |*)" The purport of this mantra is that Indra killed Vṛtra now just as Mitra and Yati killed him before, and "बिभेद बलं भृगुर्न (*bibheda balaṃ bhṛgurna*)" that he killed Bala as Bhṛgu did. Besides, in the Aitareya Brāhmaṇa (7-28) it is said that Indra abandoned the yatis and made them offerings to wolves.
+The purport of the 8th mantra gives the purport of the Atharvaveda sentence "अष्टयोनीरदितिरष्टपुत्रा (*aṣṭayonīraditiraṣṭaputrā*)" (A. Ve. 8-9-21). Stating the same idea in the Taittirīya Āraṇyaka also, "अष्टयोनीमष्टपुत्रां । अष्टपत्नीमिमां महीं ॥ (*aṣṭayonīmaṣṭaputrāṃ | aṣṭapatnīmimāṃ mahīṃ ‖*)" (Tai. Ā. 1-13-1), it is stated that the earth (Aditi) has eight births, eight sons and eight husbands.
+The 8th and 9th mantras of the 72nd sūkta are quoted also in the Taittirīya Āraṇyaka. In place of the Saṃhitā reading "परा मार्तांडमास्यत् (*parā mārtāṃḍamāsyat*)" there is there the variant reading "परा मार्तांडमाभरत् (*parā mārtāṃḍamābharat*)". The commentator, explaining its meaning, has said as follows: "मार्तांडाख्यं अष्टमं पुत्रं ‘ परा भरत् ’ परि त्यक्तवती इति यत् तत् मृत्युवे मृत्युनिमित्तं (*mārtāṃḍākhyaṃ aṣṭamaṃ putraṃ ‘ parā bharat ’ pari tyaktavatī iti yat tat mṛtyuve mṛtyunimittaṃ*)". The purport is that as soon as Mārtāṇḍa was produced, the egg died.
+Explaining the 8th mantra above, the Śatapatha Brāhmaṇa says as follows.
+अष्टौ ह वै पुत्रा आदितेः । यांस्वेतद्देवा आदित्या इत्याचक्षते सप्त हैव तेऽविकृतग्ं हाष्टमं जनयांचकार मार्तांडग्ं संदेघो हैवास यावानेवोर्ध्वस्तावांस्तिर्यज् पुरुषसम्मित इत्यु हैक आहुः (*aṣṭau ha vai putrā āditeḥ | yāṃsvetaddevā ādityā ityācakṣate sapta haiva te 'vikṛtagṃ hāṣṭamaṃ janayāṃcakāra mārtāṃḍagṃ saṃdegho haivāsa yāvānevordhvastāvāṃstiryaj puruṣasammita ityu haika āhuḥ*)
+(Śa. Brā. 3-1-3-3)
+Aditi had eight sons. But of them only seven gods are called Ādityas by men. For the eighth, Mārtāṇḍa, without hands, feet and the like, without any special quality, endowed only with the quality of a lump (mārdana **NOTE**) and free of distinctions, grew as long as he was high and was born so; he became only of the measure of a man's body: such is the opinion of some.
+त उ हैत ऊचुः । देवा आदित्या यदस्मानन्वजनिमा तदमुयेव भूद्धं. तेमं विकरवामेति तं विचक्रुर्यथायं पुरुषो विकृतस्तस्य यानि माग्‌ंसानि संस्कृत्य सन्यासुस्ततो हस्ती समभवत्तस्मादाहुर्न हस्तिनं प्रतिगृह्णीयात्पुरुषाचानो हि हस्तीति यमु ह तद्विचक्रुः स विवस्वानादित्यस्तस्येमाः प्रजाः ॥ (*ta u haita ūcuḥ | devā ādityā yadasmānanvajanimā tadamuyeva bhūddhaṃ. temaṃ vikaravāmeti taṃ vicakruryathāyaṃ puruṣo vikṛtastasya yāni māgṃsāni saṃskṛtya sanyāsustato hastī samabhavattasmādāhurna hastinaṃ pratigṛhṇīyātpuruṣācāno hi hastīti yamu ha tadvicakruḥ sa vivasvānādityastasyemāḥ prajāḥ ‖*) (Śa. Brā. 3-1-3-4)
+
+### Printed p. 38
+Seeing Mārtāṇḍa thus without distinctions, the Ādityas were frightened. "If this Mārtāṇḍa does not resemble our form, then death is near to us. Therefore we must make him take a form," and so they transformed him into the shape of a man. When, in order to give him their form, they cut his body and set it right, and threw away the flesh taken out, an elephant was produced from it. This new person, endowed with special qualities such as name and form, they called Vivasvān; this Vivasvān became the cause of the origin of all beings.
+The same sentence is quoted also in the Taittirīya Saṃhitā, where it is said that this second embryo of Aditi took the form of an egg. (Tai. Saṃ. 6-5.6-1)
+Yāska, explaining the purport of the mantra 10-22-4 **NOTE** above, has said in the sentences of the Nirukta as follows.
+आदित्यो दक्ष इत्याहुः । आदित्यमध्ये च स्तुतः । अदितिः दाक्षायणी । अदितेर्दक्षो अजायत दक्षाद्वदितिः परि(१०-७२-४) इति। तत्कथमुपपद्येत । समानजन्मानौ स्यातां इति । अपि वा देवधर्मेणेतरेतरजन्मानौ स्यातामितरेतरप्रकृती ॥ (*ādityo dakṣa ityāhuḥ | ādityamadhye ca stutaḥ | aditiḥ dākṣāyaṇī | aditerdakṣo ajāyata dakṣādvaditiḥ pari(10-72-4) iti| tatkathamupapadyeta | samānajanmānau syātāṃ iti | api vā devadharmeṇetaretarajanmānau syātāmitaretaraprakṛtī ‖*) (Ni. 11-23)
+Dakṣa is praised and renowned as one of the sons of Aditi and as belonging to the group of the Ādityas. But the sentence "From Dakṣa Aditi was born; from Aditi Dakṣa was born" makes known that Aditi is also the daughter of Dakṣa. How can this be possible? Both may have one and the same place of origin, or, in keeping with the natural power of the gods, one may have been born from the other, and they may have received greatness from one another. In the same way there is another Śruti sentence that states that each became the womb for the origin of the other.
+"तस्माद्विराडजायत विराजो अधि पूरुषः (*tasmādvirāḍajāyata virājo adhi pūruṣaḥ*)" (10-90-5)
+From the Puruṣa the Virāṭ was born; and that from the Virāṭ the Puruṣa was born is also well known; therefore the order of origin of Dakṣa and Aditi may be of the same kind. Other sentences setting out the mutual relation of Dakṣa and Aditi may also be examined. असच्च सच्च........ वृषभश्च धेनु: (*asacca sacca........ vṛṣabhaśca dhenu:*) (10-5-7)
+1. "The principle that is unmanifest and possessed of the truth of the highest reality, being established in the seed of Dakṣa and in the womb of Aditi, then became a principle that includes the two powers in the form of female and male."
+
+### Printed p. 39
+2. "दक्षस्य वादिते जन्मनि........ विसुरूपेषु जन्मषु (*dakṣasya vādite janmani........ visurūpeṣu janmaṣu*)"
+(10-64-5)
+O Aditi, as soon as Dakṣa was born, and in accordance with his resolve, you nourished the two lords in the form of Mitra and Varuṇa.
+Thus, although the mantras 10-72-4 and 5 state both relations together, that Dakṣa is father and son of Aditi, sentences such as 2-27-1 state clearly that Dakṣa is a son of Aditi and one of the Ādityas. Besides, in some other places the gods have the epithet "having Dakṣa as father". For example—
+1. "सुज्योतिष: सूर्य दक्षपितृननागास्ते सुमहो वीहि देवान् (*sujyotiṣa: sūrya dakṣapitṛnanāgāste sumaho vīhi devān*)"
+(6-50-2)
+O great Sūrya, approach the gods who have Dakṣa as father. (Sāyaṇa here has explained the word father as grandfather. Since Aditi is the daughter of Dakṣa and the gods are sons of Aditi, Dakṣa is the grandfather of these gods.)
+2. "या धारयंत देवाः सुदक्षा दक्षपितरा । असुराय प्रमहसा ॥ (*yā dhārayaṃta devāḥ sudakṣā dakṣapitarā | asurāya pramahasā ‖*)"
+(7-66-2)
+Mitra and Varuṇa, who have Dakṣa as father, have established their divine lordship, and so on.
+In the same way, in the Taittirīya Saṃhitā also,
+ये देवा मनोजाता मनोयुजः सुदक्षा दक्षपितारस्ते नः पांतु ॥ (*ye devā manojātā manoyujaḥ sudakṣā dakṣapitāraste naḥ pāṃtu ‖*)
+(Tai. Saṃ. 1-2-3-1)
+May the gods, mind-born, yoked by the mind, having Dakṣa himself as father, protect us.
+In the examples above it cannot be said precisely that the word Dakṣa is the designation of a particular individual. In 8-25-5 Mitra and Varuṇa are described not only as "powerful sons of Dakṣa" (सूनू दक्षस्य सुक्रतू (*sūnū dakṣasya sukratū*)) but also as "grandsons of strength" (नपाता शवसो महः (*napātā śavaso mahaḥ*)). The way in which Sāyaṇa has explained the mantra 6.50-2 has been stated above. In the Ṛk 7-66-2 quoted above he has explained दक्षपितारा (*dakṣapitārā*) as बलस्य पालकौ (*balasya pālakau*), protectors of strength. The epithets सहसस्पुत्रः (*sahasasputraḥ*) and सहसःसूनुः (*sahasaḥsūnuḥ*) and the like are used in some places with reference to Agni (8-49-2; 8-60-11 and so on) and in some places with reference to Indra (8.79-3 and so on).
+
 ---
 
-**Progress note:** Done through printed p. 32. Aditi discussion pp. 27-32
+**Progress note:** Done through printed p. 39. Aditi discussion and creation order of sukta 72, pp. 33-39
