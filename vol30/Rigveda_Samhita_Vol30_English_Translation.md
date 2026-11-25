@@ -28026,6 +28026,204 @@ The commentator says that this sūkta can be explained in two ways, and accordin
 
 The seventh sūkta, of seven Ṛks, beginning यस्मिन् (*yasmin*), has as its seer Kumāra of the Yama gotra; its metre is Anuṣṭubh and its deity Yama. So the Anukramaṇī says: यस्मिन्कुमारो यामायनो याममानु_ष्टुभं त्विति ॥ (*yasminkumāro yāmāyano yāmamānu_ṣṭubhaṃ tviti ‖*)
 
+### Printed p. 850
+*Anuvāda.* This sūkta, "Yasmin", is the seventh sūkta in the eleventh Anuvāka. It has seven Ṛks. The seer of this sūkta is Kumāra of the Yama gotra; the deity is Yama; the metre is Anuṣṭup. In the Anukramaṇikā it is said: यस्मिन् कुमारो यामायनो याममानुष्टुभं तु (*yasmin kumāro yāmāyano yāmamānuṣṭubhaṃ tu*).
+
+Maṇḍala 10; Anuvāka 11; Sūkta 135. Aṣṭaka 8; Adhyāya 7; Varga 23. Number of Ṛks in the sūkta: 7. Seer: Kumāra Yāmāyana. Deity: Yama. Metre: Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॑न्वृ॒क्षे सु॑पला॒शे दे॒वैः सं॒पिब॑ते य॒मः ।  
+> अत्रा॑ नो वि॒श्वतिः॑ पि॒ता पु॑रा॒णा अनु॑ वेनति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । वृक्षे । सुपलाशे । देवैः । संपिबते । यमः ।  
+> अत्र । नः । विश्वतिः । पिता । पुराणान् । अनु । वेनति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृक्षे । लुप्रोपममेतत् । वृक्षवत्सुपलाशे शोभनपलाशोपेते शोभनोद्यानसहिते । यद्वा । शोभनपर्णोपेते वृक्षे । तादृशस्य वृक्षस्य मूलं यथाष्ट्यजनितश्रमापनोदनेन सुखकरं भवति तद्वत्सुखकरे यस्मिन्स्थाने देवैः परिजनभूतैर्यमो नियंता वैवस्वतः संपिबते सह भुंक्ते । पिबतीत्यर्थः । विश्वतिर्विशां
+> प्रजानामधिपतिः पिता नः ॥ व्यत्ययेन बहुवचनं ॥ मम नचिकेतसो जनको वाजश्रवसोऽत्रास्मिन्यमस्य स्थाने पुराणान्नुरातनानत्र चिरकालं निवसतः पित्यननु तेषां
+> पश्चात्तत्समीपे निवसत्वयमिति वेनति । मां कामयते । नचिकेता नाम कुमारो
+> वाजश्रवसेन पित्रा यमलोकं प्रस्थापितः सन् यमं दृष्ट्वा प्रसाद्य पुनरपीमं
+> लोकमाजगाम । अयमर्थ इदमादिकैर्मंत्रैः प्रतिपाद्यते । यद्वा । कुमारो
+
+##### Gist of the bhāṣya
+
+वृक्षे (*vṛkṣe*) is an elliptical comparison (lupta-upamā): "in a place that is like a tree with good leaves", that is, one with a good garden. Or else it means a tree with good foliage. As the foot of such a tree gives comfort by removing the fatigue produced by the sun's heat, so in the place that gives comfort Yama, the Vaivasvata, the controller, drinks (that is, enjoys) together with the gods, his retinue. विश्वतिः (*viśvatiḥ*) is the lord of the people; "father" is नः (*naḥ*), the plural being by vyatyaya. It is I, Naciketas, the son of Vājaśravas, who speak: my father desires me to dwell here, in Yama's place, after the ancient fathers who have long lived here, near them. The story: a boy named Naciketas, sent by his father Vājaśravas to Yama's world, saw Yama, propitiated him and came back to this world. This meaning is set forth by the mantras beginning with this one. Or else Kumāra is some other seer, different from Naciketas.
+
+### Printed p. 851
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नाम नचीकेतसोऽन्यः कश्चिदृषिः । यच्छतीति यम आदित्यः । तमनेन सूक्तेन
+> तुष्टाव ! सुपलाशे वृक्ष इव यस्मिइत्योभने स्थाने यम आदित्यो देवैः । दीव्यंतीति
+> देवा रश्मयः । तैः संपिबते संगच्छते ॥ उपसर्गवशात्पिबतिरत्र गत्यर्थः । व्यत्ययेनात्मनेपदं ॥ अत्रास्मिन्स्थाने स्थितो विश्वतिर्विशां प्रजानां प्रकाशनप्रवर्षणादिना
+> पालयिता प्राणात्मना सर्वेषां जनकः स आदित्यः पुराणांश्चिरंतनान् स्तोत्यन्नोऽस्मानपि वेनति । अनुग्राह्यत्वेन कामयते । यद्वा । अत्र स्थाने स्थितान्नोऽस्माकं
+> पुराणान्पूर्वपुरुषाननु वेनति । अनुक्रमेण कामयते ॥
+> ॥ प्रतिपदार्थ— यमनपरवागि ॥
+> सुपलाशे—उत्तमवाद ऎलॆगळिंद निबिडवाद । वृक्षे—वृक्षद नॆरळिनंतॆ सुखकरवाद ।
+> यस्मिन्—याव स्थानदल्लि । यमः—विवस्वंतन पुत्रनाद यमनु । देवैः—तन्न परिजन
+> रिंद सहितनागि । संपिबते—पानमाडुत्तानॆयो ऎंदरॆ भोगवन्नु अनुभविसुत्तानॆयो ।
+> अत्र—अंतह यमन स्थानदल्लि । पुराणान् अनु—बहुकालदिंद अल्लिये वासमाडुत्तिरुव
+> पितृगळ समीपदल्लि नानु वासमाडबेकॆंदु । विश्वतिः—प्रजॆगळल्लि ऎंदरॆ जनरल्लि श्रेष्ठनाद ।
+> नः पिता—नन्न तंदॆयु । वेनति—आपेक्षिसुत्तानॆ.
+
+##### Gist of the bhāṣya
+
+यम (*yama*) means "he who restrains": the Āditya. The seer praised him with this sūkta. Like a tree with good leaves, in a pleasant place Yama, the Āditya, unites with the gods, that is, the shining rays; पिबति (*pibati*) here has the sense of "go", because of the preverb, and the ātmanepada is by vyatyaya. Standing in this place, the Āditya, protector of the people by shining and raining, father of all as their breath, desires us also, the praisers of old, as those to be favoured. Or else: he desires in succession us who stand here, the ancient forefathers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+*(on Yama)*
+- सुपलाशे (*supalāśe*)—dense with excellent leaves
+- वृक्षे (*vṛkṣe*)—comfortable like the shade of a tree
+- यस्मिन् (*yasmin*)—in which place
+- यमः (*yamaḥ*)—Yama, son of Vivasvat
+- देवैः (*devaiḥ*)—together with his retinue
+- संपिबते (*saṃpibate*)—drinks, that is, enjoys pleasure
+- अत्र (*atra*)—in that place of Yama
+- पुराणान् अनु (*purāṇān anu*)—near the fathers who have long dwelt there, "that I should dwell"
+- विश्वतिः (*viśvatiḥ*)—the best among the people, that is, among men
+- नः पिता (*naḥ pitā*)—my father
+- वेनति (*venati*)—desires
+
+##### भावार्थ (Bhāvārtha)
+
+As the shade of a tree densely covered with excellent leaves is comfortable for rest, so in Yama's place (Yama's world), which is comfortable like it, Yama, son of Vivasvat, dwells happily with his retinue. In this world of Yama my father, the best among men, desires that I too should dwell near the fathers who have lived here for a long time.
+
+##### English translation
+In that leafy tree where Yama drinks with the gods, there the progenitor, the lord of the house, invites us to join the men of old.
+
+##### विशेषविषयगळु (Special Topics)
+
+Formerly a seer named Vājaśravas had a son named Naciketas. Once, for some reason, he displeased his father, and the father in a fit of anger told his son to go to Yama's world. Naciketas took his father's word as true, went accordingly to Yama's world, conversed there with Yama and, by his favour, came back to this earth. This matter is told in this Ṛk and in the following Ṛks of this sūkta.
+
+### Printed p. 852
+यस्मिन् वृक्षे सुपलाशे (*yasmin vṛkṣe supalāśe*)—as the foot of a tree with good leaves gives comfort by removing the fatigue produced by heat, so in the place that gives comfort. Here the word "tree" is used as an illustration. When a man walking in the sun is wearied by the toil of the road, it is natural for him to sit at the foot of a tree dense with leaves, that is, in its shade, to remove his weariness, that is, to rest. So the foot of a tree dense with leaves is pleasant to sit in; Yama's place is likewise pleasant, and so it is described by comparison with a tree.
+
+देवैः संपिबते यमः (*devaiḥ saṃpibate yamaḥ*)—Yama, the controller, the Vaivasvata, enjoys together with his retinue. The meaning is that Yama, son of Vivasvat, dwells happily in his own place, Yama's world, with his retinue, that is, with the fathers.
+
+अत्र नः विश्वतिः पिता पुराणान् अनु वेनति (*atra naḥ viśvatiḥ pitā purāṇān anu venati*)—पुराणान् (*purāṇān*) means the fathers who have long dwelt here, in this world of Yama. Naciketas says: "My father desires that I should dwell, that is, be, near such fathers; that is, I have come here according to my father's word."
+
+**The meaning on the side of the Āditya**
+When the word Kumāra in Ṛks 3, 4 and 5 of this sūkta is explained on the side of Yama, it must be taken as Naciketas, son of Viśravas (Vājaśravas); when explained on the side of the Āditya, it must be taken as another seer named Kumāra, not Naciketas. This seer Kumāra praised the Āditya in this sūkta.
+
+- सुपलाशे (*supalāśe*)—dense with excellent leaves
+- वृक्षे (*vṛkṣe*)—comfortable like the foot of a tree
+- यस्मिन् (*yasmin*)—in which atmosphere or heavenly place
+- यमः (*yamaḥ*)—the Āditya
+- देवैः (*devaiḥ*)—together with his shining rays
+- संपिबते (*saṃpibate*)—moves about
+- अत्र (*atra*)—in such a place
+- विश्वतिः (*viśvatiḥ*)—protector of the people by rain, light and so on
+- पिता नः (*pitā naḥ*)—the Āditya, the breath and the begetter of all
+- पुराणान् (*purāṇān*)—the ancient praisers
+- नः (*naḥ*)—us also
+- अनु वेनति (*anu venati*)—desires, with the intention to favour
+
+##### भावार्थ (Bhāvārtha)
+
+In heaven (the atmosphere), pleasant like the shade of a tree dense with excellent leaves, the Āditya shines with his bright rays. That Āditya, who nourishes the people by giving rain, light and so on, and is the breath and begetter of all, desires to favour the earlier praisers and us.
+
+### Printed p. 853
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the word Yama, Yāska has given a Nirukta for this Ṛk: यमः । यमो यच्छतीति सतः । तस्यैषा भवति ॥ (*yamaḥ | yamo yacchatīti sataḥ | tasyaiṣā bhavati ‖*) (Ni. 10-19). यच्छति (*yacchati*) means he brings to an end the life of living beings; hence the name Yama. Here the word Yama is taken to mean the Āditya. The explanation of the Ṛk in which this word occurs is given here:
+
+यस्मिन् वृक्षे सुपलाशे स्थाने वृतक्षये वासि वोपमार्थे स्यात् वृक्ष इव सुपलाश इति वृक्षो व्रश्चनात्पलाशं पलाशनाद्देवैः संगच्छते यमो रश्मिभिरादित्यस्तत्र नः सर्वस्य पाता ना पालयिता ना पुराणाननुकामयेत ॥ (*yasmin vṛkṣe supalāśe sthāne vṛtakṣaye vāsi vopamārthe syāt vṛkṣa iva supalāśa iti vṛkṣo vraścanātpalāśaṃ palāśanāddevaiḥ saṃgacchate yamo raśmibhirādityastatra naḥ sarvasya pātā nā pālayitā nā purāṇānanukāmayeta ‖*) (Ni. 12-29)
+
+यस्मिन् वृक्षे सुपलाशे स्थाने वृतक्षये वापि वोपमार्थे स्यात् वृक्ष इव सुपलाश इति (*yasmin vṛkṣe supalāśe sthāne vṛtakṣaye vāpi vopamārthe syāt vṛkṣa iva supalāśa iti*)—in a tree with good leaves, that is, in a charming and pleasant place of trees. Or वृतक्षये (*vṛtakṣaye*): in the place where people who have done good deeds dwell, that is, in the better world. Or the word "tree" is used here as a comparison: it must be understood that the word is used to describe a place beneficial like the shade of a tree.
+
+वृक्षो वृश्चनात्पलाशं पलाशनात् (*vṛkṣo vṛścanātpalāśaṃ palāśanāt*)—the plant is called "tree" because people cut it (व्रश्चन (*vraścana*)) for timber and the like. The leaves are called पलाश (*palāśa*) because they fall (पलाशनात् (*palāśanāt*)) down.
+
+देवैः संगच्छते यमो रश्मिभिरादित्यः (*devaiḥ saṃgacchate yamo raśmibhirādityaḥ*)—देवैः (*devaiḥ*) means with the shining rays; यमः (*yamaḥ*) the Āditya. संपिबते (*saṃpibate*) means संगच्छते (*saṃgacchate*), he moves about or sets. The meaning is that the Āditya moves in the atmosphere shining with his bright rays, or sets (sinks) together with the rays.
+
+तत्र नः सर्वस्य पाता वा पालयिता ना पुराणाननुकामयेत (*tatra naḥ sarvasya pātā vā pālayitā nā purāṇānanukāmayeta*)—तत्र (*tatra*): in the heavenly place where the sun shines; विश्वतिः (*viśvatiḥ*) means the protector of all, the guardian. The words पतिः (*patiḥ*) and पिता (*pitā*) are explained as one who protects or guards. The Nirukta's meaning is that such an Āditya gladdens the people who have long lived in heaven (or on earth).
+
+### Printed p. 854
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रा॒णा अ॑नु॒वेनं॑तं॒ चरं॑तं पा॒पया॑मु॒या ।  
+> अ॒सू॒यन्न॒भ्य॑चाकशं॒ तस्मा॑ अस्पृहयं॒ पुनः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुराणान् । अन्ववेनंतं । चरंतं । पापया । अमुया ।  
+> असूयन् । अभि । अचाकशं । तस्मै । अस्पृहयं । पुनरिति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुराणान्पुरातनान्पित्यननुवेनंतं मामनुगतं कामयमानममुयानया
+> पापया निकृष्टया बुद्ध्या सह चरंतं वर्तमानं पितरं वाजश्रवसमसूयन्
+> सुखेन जीवंतं मां मृत्युसमीपं प्रेहीत्युक्तवानिति मानसेनोपतापेन युक्तः
+> सन् प्रथममभ्यचाकशं । अयं पश्यतिकर्मा । अभ्यपश्यं ॥ असुञ् मानस उपतापे ।
+> कंड्वादिः ॥ पुनः पश्चात्तस्मा अस्पृहयं । पितुराज्ञया तं मृत्युं प्राप्तुमैच्छं ॥
+> स्पृह ईस्सायां । चुरादिरदंतः । स्पृहेरीप्सितः । पा. १-४-३६ । इति संप्रदानसंज्ञायां तच्छब्दाच्चतुर्थी ॥ यद्वा! पुराणांश्चितनान् स्तोत्यन्पूर्वपुरुषान्पित्यन्वानुवेनंतमनुक्रमेण कामयमानं चरंतमुदयास्तमयाभ्यां दिवि परिवर्तमानमनया पापया निकृष्टया स्तोतुमसमर्थया बुद्ध्यासूयन् । गुणेषु
+> दोषाविष्करणमसूया । परकीयगुणेषु दूषणान्याविष्कुर्वन्नभ्यचाकशं । अयमपि कश्चि दिति सामान्यरूपेणाभ्यपश्यं । इदानीं शु पुनस्तस्यादित्यस्य माहात्म्यं
+> जानंस्तस्मा अस्पृहयं । तमेवादित्यं स्तुतिभिः परिचरणात्मिकैः कर्मभिश्च प्राप्तुमैच्छं ॥
+> ॥ यमनपरवाद अर्थ ॥
+> पुराणान्— पुरातनराद पितृगळन्नु । अनुवेनंतं—नानु अनुसरिसि होगलॆंदु
+> अपेक्षिसुत्तिरुववनू । अमुया— ई विधवाद । पापया— कॆट्ट बुद्धियिंद । चरंतं—
+> इरुववनू आद नन्न तंदॆ वाजश्रवस्सनन्नु (मॊदलु) । असूयन्—मनस्सिन उद्वेगदिंद
+> युक्तनागि । अभि आचाकशं— नोडिदॆनु । पुनः—आनंतर । तस्मै—पितुराज्ञॆगॆ ऒळपट्टु
+> आ मृत्युविन बळिगॆ होगबेकॆंदु । अस्पृहयं—बयसिदॆनु.
+
+##### Gist of the bhāṣya
+
+Naciketas speaks. My father Vājaśravas desired me to follow the ancient fathers and was going about with this base thought. Being filled with mental anguish ("he has told me, who live happily, 'Go near death'"), I first looked on him with असूयन् (*asūyan*); *abhyacākaśaṃ* is from the root meaning "see". Afterwards I longed for him: at my father's command I wished to reach that death. The word तस्मै (*tasmai*) is dative because स्पृह (*spṛha*) gives the sense of recipient (sampradāna).
+
+Or else (of the Āditya): I looked, with a base understanding unable to praise, and with *asūyā* (the bringing out of faults in qualities), at him who desires in succession the ancient forefathers, the praisers, and who moves in the sky by rising and setting; showing faults in another's qualities, I saw him as "he too is somebody", as an ordinary being. Now, knowing the greatness of that Āditya, I longed for him: I wished to reach that very Āditya by praises and by acts of service.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+*(Meaning on the side of Yama)*
+- पुराणान् (*purāṇān*)—the ancient fathers
+- अनुवेनंतं (*anuvenaṃtaṃ*)—him who desires that I should follow and go
+- अमुया (*amuyā*)—of this kind
+- पापया (*pāpayā*)—with a bad understanding
+- चरंतं (*caraṃtaṃ*)—my father Vājaśravas, who is so (first)
+- असूयन् (*asūyan*)—filled with agitation of mind
+- अभि आचाकशं (*abhi ācākaśaṃ*)—I looked
+- पुनः (*punaḥ*)—afterwards
+- तस्मै (*tasmai*)—submitting to my father's command, to go to that death
+- अस्पृहयं (*aspṛhayaṃ*)—I wished
+
+### Printed p. 855
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of Naciketas) My father Vājaśravas, who with an evil mind wished me to follow the ancient fathers, I first looked at with agitation of mind (anger). Afterwards, from the duty of obeying my father's command, I was willing to go to death.
+
+##### English translation
+(At first) I beheld him with anguish inviting me to join the men of olden time, and walking with that fell design; but afterwards I longed for him.
+
+##### विशेषविषयगळु (Special Topics)
+
+The words of this Ṛk were spoken by Naciketas: "My father Vājaśravas has wished, in his evil mind, that I should dwell near the fathers. Hearing this, at first great distress and anger arose in my mind. Does a father send his own son to death? Why has this evil mind come to him? Such resentment arose in my mind. Afterwards, thinking thus, I understood that obeying the father's command is the son's duty, and resolved in my mind that I would go to death." This is the main sense of the Ṛk.
+
+**The meaning on the side of the Āditya**
+- पुराणान् (*purāṇān*)—the ancient praisers, that is, the seers of former times, or the fathers of former times
+- अनुवेनंतं (*anuvenaṃtaṃ*)—him who desires
+- चरंतं (*caraṃtaṃ*)—the Āditya who moves in the atmosphere between rising and setting
+- पापया (*pāpayā*)—unable or unwilling to praise
+- बुद्ध्या (*buddhyā*)—with a base mind
+- असूयन् (*asūyan*)—filled with envy (first)
+- अभि आचाकशं (*abhi ācākaśaṃ*)—I looked
+- पुनः (*punaḥ*)—but now (knowing the Āditya's greatness)
+- तस्मै (*tasmai*)—the Āditya, by praises and acts of service
+- अस्पृहयं (*aspṛhayaṃ*)—I wished to obtain
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of the seer Kumāra) The Āditya desires to favour the ancient seers or fathers who have praised him from of old, and moves in the atmosphere from sunrise to sunset. Unable to praise him, I, filled with evil thought and envy, thought "What is this sun, so great? What is seen in the world …"
+
 ---
 
-**Progress note:** Done through printed p. 849. pp. 844-849 (batch API)
+**Progress note:** Done through printed p. 855. pp. 850-855 (batch API)
