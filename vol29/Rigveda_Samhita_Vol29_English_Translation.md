@@ -10951,6 +10951,249 @@ O gods, may the paths, the roads, be free of thorns and not crooked, by which ou
 - सुयमं (*suyamaṃ*)—having an excellent bond
 - अस्तु (*astu*)—may it be
 
+### Printed p. 407
+
+##### भावार्थ (Bhāvārtha)
+
+May the paths by which our friends go to the father of the maiden who is asked for by the suitors be free of thorns and without crookedness. May the god Aryaman lead us rightly. May Bhaga show us the right way. O gods, may the mutual relation of the married pair be excellently joined.
+
+##### English translation
+Smooth and straight be the paths by which our friends repair to the bride's father ; may Aryaman, may Bhaga conduct us, and may the union of the wife and husband be easily accomplished, O gods.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र त्वा॑ मुंचामि॒ वरु॑णस्य॒ पाशा॒द्येन॒ त्वाब॑ध्नात्सवि॒ता सु॒शेवः॑ ।  
+> ऋ॒तस्य॒ योन्सौ॑ सुकृ॒तस्य॑ लो॒केऽरि॑ष्टां त्वा स॒ह पत्या॑ दधामि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । त्वा । मुंचामि । वरुणस्य । पाशात् । येन । त्वा । अबध्नात् । सविता  
+> सुशेवः ।  
+> ऋतस्य । योन्सौ । सुकृतस्य । लोके । अरिष्टां । त्वा । सह । पत्या । दधामि ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पत्न्या योक्रविमोचने प्र त्वा मुंचामित्येषा । सूत्रितं च : अथास्या
+> योक्रं विच्यतेत्प त्वा मुंचामि वरुणस्य पाशात् । आ. १-११ । इति ॥
+> जातं प्राणिनं सवित्रा प्रेरितो वरुण आत्मपाशैर्बध्नाति । तस्माद्वरुणस्य
+> पाशात् हे वधु त्वा त्वां प्र मुंचामि येन त्वा त्वां सविता वरुणस्य प्रेरकः
+> सुशेवः सुखोऽबध्नात् बंधनं कृतवान् । यज्ञांगपक्षे पत्नीं योक्रेण बध्नाति ।
+> बंधनस्य वरुणोऽभिमानी । अतो वरुणपाशाद्योक्रात्र्य मुंचामि येन
+> योक्रेण सविता कर्मणामनुज्ञाता देव ऋत्विक्पाशेनाबध्नात् । तं मोचयित्वा
+
+### Printed p. 408
+
+> चर्तस्य यज्ञस्य योन्सौ स्थाने यागभूमौ सुकृतस्य लोके कर्मक्षेत्रे भूलोके
+> चारिष्टामहिंसितां त्वां पुत्राद्यर्थं पत्या सह दधामि । स्थापयामि ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is used for loosening the wife's yoke-cord, and it is laid down in the sūtra that when her yoke-cord is loosened, the verse beginning "I release you from the noose of Varuṇa" is recited (Ā. 1-11). Varuṇa, impelled by Savitṛ, binds a born creature with his own nooses. Therefore, O bride, I release you from the noose of Varuṇa, with which Savitṛ, the impeller of Varuṇa, the gracious one, bound you, that is, made a bond for you. As a limb of the sacrifice, the wife is bound with the yoke-cord, and Varuṇa presides over binding; so I release you from the Varuṇa-noose, the yoke-cord, with which the god Savitṛ, who gives leave for the rites, bound you with the noose of the priest. Having released it, in the seat of the sacrifice, that is, on the sacrificial ground, in the world of good deeds, that is, in the field of rites, the earth, I place you, unharmed, with your husband, for the sake of sons and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by which noose
+- सुशेवः (*suśevaḥ*)—the giver of excellent happiness
+- सविता (*savitā*)—the god Savitṛ
+- त्वा (*tvā*)—you
+- अबध्नात् (*abadhnāt*)—had bound, of such a kind
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- पाशात् (*pāśāt*)—from the bond
+- त्वा (*tvā*)—you
+- प्र मुंचामि (*pra muṃcāmi*)—I release
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- योन्सौ (*yonsau*)—the seat
+- सुकृतस्य (*sukṛtasya*)—for excellent action
+- लोके (*loke*)—in the earth, which is the field
+- अरिष्टां त्वा (*ariṣṭāṃ tvā*)—you, who are free from harm
+- पत्या सह (*patyā saha*)—together with your husband
+- दधामि (*dadhāmi*)—I establish
+
+##### भावार्थ (Bhāvārtha)
+
+O bride, I release you from the bond of Varuṇa, with which the god Savitṛ, the giver of excellent happiness, had bound you. On the earth, which is the seat of the sacrifice and the field of excellent action, I establish you, free from harm, together with your husband.
+
+##### English translation
+I set you free from the noose of Varuna, wherewith the adorable Savitri had bound you; in the place of sacrifice in the world of good deeds I unite you, unharmed, with your husband.
+
+##### विशेषविषयगळु (Special Topics)
+
+This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अथास्या योक्त्रं विच्यतेत्प्र ता मुंचामि वरुणस्य पाशात् (*athāsyā yoktraṃ vicyatetpra tā muṃcāmi varuṇasya pāśāt*) (Ā. 1-11), which says that when the rope of darbha grass called the yoke-cord, tied round the wife's waist, is untied, the Ṛk प्र त्वा मुंचामि (*pra tvā muṃcāmi*) is to be recited.
+
+Varuṇa, impelled by the god Savitṛ, binds with his noose all creatures, those now born and those to be born. Therefore he had bound the bride mentioned here earlier, that is, at the time of her birth. Now, after this marriage, the assurance is stated here: I untie the noose of that Varuṇa, so that you may be able to live happily with your husband, and I establish you near your husband.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेतो मुं॒चामि॒ नामुतः॑ सुब॒द्धा म॒मुत॑स्करं ।
+
+### Printed p. 409
+
+> यथेयमिंद्र विढ्वः सुपुत्रा सुभगासति ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । इतः । मुंचामि । न । अमुतः । सुबद्धां । अमुतः । करं ।  
+> यथा । इयं । इंद्र । माढ्वः । सुपुत्रा ! सुभगा । असति ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इतः पितृकुलात्प्र मुंचामि त्वां नामुतो भर्तृगृहात्प्रमुंचामि । अमुतो
+> भर्तृगृहे सुबद्धां करं । यथेयं कन्या हे इंद्र मीढ्वः सेक्तः सुपुत्रा सुभगा
+> सुष्टु भाग्या वासति भवति तथा कुरु ॥
+
+##### Gist of the bhāṣya
+
+From here, from the father's family, I release you; I do not release you from there, from the husband's house; there, in the husband's house, I make you well bound. O Indra, the showerer, the sprinkler, act so that this maiden may become the mother of good sons and fortunate, that is, blessed with good fortune.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इतः (*itaḥ*)—from the father's family
+- प्र मुंचामि (*pra muṃcāmi*)—I release you
+- अमुतः (*amutaḥ*)—from the husband's house
+- न (*na*)—I do not release
+- अमुतः (*amutaḥ*)—in the husband's house
+- सुबद्धां (*subaddhāṃ*)—so that you are firmly established
+- अकरं (*akaraṃ*)—I make
+- मीड्वः (*mīḍvaḥ*)—showerer of desires
+- इंद्र (*iṃdra*)—O Indra
+- यथा (*yathā*)—in what way
+- इयं (*iyaṃ*)—this maiden
+- सुपुत्रा (*suputrā*)—possessed of excellent sons
+- सुभगा (*subhagā*)—possessed of good fortune
+- आसति (*āsati*)—will become, in that way favour (her)
+
+##### भावार्थ (Bhāvārtha)
+
+O bride, I release you from your father's family. I do not release you from your husband's house. I make you firmly established in your husband's house. O Indra, showerer of desires, favour her so that this maiden may become the mother of excellent sons and possessed of good fortune.
+
+##### English translation
+I set you free from thence, not from hence; I place you here firmly bound; grant, Indra, showerer, that this (damsel) may have excellent children, and be very fortunate.
+
+##### विशेषविषयगळु (Special Topics)
+
+इतः प्र मुंचामि (*itaḥ pra muṃcāmi*), न अमुतः (*na amutaḥ*), अमुतः सुबद्धां करं (*amutaḥ subaddhāṃ karaṃ*) — O bride, since you are now married, I release the connection with your father's house. But I do not release the connection with your husband's house; not only that, I shall make you live there permanently. So it is said. Here it is described how the maiden, who before the marriage was in her father's house, now leaves it and goes to her husband's house. After the marriage the married girl has no connection at all with her father's house. All the connection that was there has been given up. Whatever connection there is from now on is with her husband's house alone. That connection alone is to be understood as permanent from now on. O Indra, grant that this maiden, becoming the mother of sons and fortunate, may live in permanent happiness in her husband's house; thus Indra is prayed.
+
+### Printed p. 410
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒षा त्वे॒तो न॑यतु हस्त॒गृह्या॒श्विना॑ त्वा॒ प्र व॑हतां॒ रथे॑न ।  
+> गृ॒हान्ग॑च्छ गृ॒हप॑त्नि॒ यथासो॑ व॒शिनी॒ त्वं वि॒दथ॒मा व॑दासि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषा । त्वा । इतः । नयतु । हस्तगृह्य । अश्विना । त्वा । प्र । वहतां । रथेन ।  
+> गृहान् । गच्छ । गृहपत्नि । यथा । असः । वशिनी । त्वं । विदथं । आ । वदासि ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विवाहानंतरभाविनि प्रयाणे पूषा त्वेतो नयत्वित्यनया रथादियानमारोहयेत् । सूत्रितं च । पूषा त्वेतो नयतु हस्तगृह्येति यानमारोहयेत् । अ. गृ. १-८.१ ॥
+> हस्तगृह्य ग्राह्यहस्तः पूषा त्वामितो नयतु । प्रापयतु । अश्विनाश्विन्
+> त्वा त्वां रथेन प्र वहतां । प्रगमयतां । गृहान्‌ भर्तृसंबंधिनो गच्छ त्वं
+> गृहपत्नि यथासः भवसि स्वगृहस्वामिनी भवसि । वशिनी सर्वेषां गृहगतानां वशं
+> प्रापयित्रि प्रत्युर्वशे वर्तमाना वा विदथं पतिगृहमा वदासि । आवदसि । गृहस्थितं
+> भृत्यादिजनमावद ॥
+
+##### Gist of the bhāṣya
+
+On the journey that comes after the marriage, with this Ṛk, "May Pūṣan lead you hence", one should make her mount a vehicle such as a chariot. It is laid down in the sūtra: with "May Pūṣan lead you hence, taking you by the hand" she should mount the vehicle (A. Gṛ. 1-8.1 **NOTE**). May Pūṣan, holding your hand, lead you hence, that is, bring you. May the two Aśvins convey you forward in a chariot, make you go forward. Go to the houses connected with your husband, so that you become the mistress of your house, mistress of your own household. Be one who brings all those who are in the house under her control, or one who lives under her husband's control; speak to the household, that is, address the servants and others who stay in the house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हस्तगृह्य (*hastagṛhya*)—taking your hand
+- पूषा (*pūṣā*)—the god Pūṣan
+- त्वा (*tvā*)—you
+- इतः (*itaḥ*)—from here
+- नयतु (*nayatu*)—may he lead
+- अश्विना (*aśvinā*)—the Aśvin gods
+- त्वा (*tvā*)—you
+- रथेन (*rathena*)—in a chariot
+- प्र वहतां (*pra vahatāṃ*)—may they carry away
+- यथा (*yathā*)—in what manner
+
+### Printed p. 411
+
+- गृहपत्नि असः (*gṛhapatni asaḥ*)—as you may become the guardian of your husband's house
+- गृहान् (*gṛhān*)—to your husband's house
+- गच्छ (*gaccha*)—go
+- त्वं (*tvaṃ*)—you
+- वशिनी (*vaśinī*)—submissive to your husband
+- विदथं (*vidathaṃ*)—to the people of that house
+- आ वदासि (*ā vadāsi*)—go on giving direction
+
+##### भावार्थ (Bhāvārtha)
+
+O bride, may the god Pūṣan take your hand and lead you from here. May the Aśvin gods carry you away in a chariot. Go to your husband's house and be the guardian of your husband's house there. Living under your husband's control, go on giving proper direction to the servants and others of that house.
+
+##### English translation
+May Pushan lead you hence, taking you by the hand; may the Ashwins convey you away in their car, go to the dwelling (of your husband) as you are the mistress of the house; you, submissive (to your husband) give orders to his household.
+
+##### विशेषविषयगळु (Special Topics)
+
+After the marriage, when the bride sets out for her husband's house and sits in a chariot or the like (a cart), she is to be made to mount and sit in the cart with the Ṛk beginning पूषा त्वेतो नयतु (*pūṣā tveto nayatu*); this is explained by the sūtra of the Āśvalāyana Gṛhya Sūtra, पूषा त्वेतो नयतु हस्तगृह्येति यानमारोहेत् (*pūṣā tveto nayatu hastagṛhyeti yānamārohet*) (Ā. Gṛ. 1-8 1 **NOTE**).
+
+After the marriage, as the bride goes to her husband's house, the assurance is stated here that the new bride, going to her husband's house and becoming the mistress there, carrying out the household duties, being helpful in her husband's work and affairs, and behaving respectfully towards the household members in the house, the children younger than herself, the servants and so on, and making them obedient to her, may live happily.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह प्रि॒यं प्र॒जया॑ ते॒ समृ॑ध्यताम॒स्मिन्गृ॒हे गार्ह॑पत्याय  
+> जागृहि ।  
+> ए॒ना पत्या॑ त॒न्वं१॒॑सं सृ॑ज॒स्वाधा॒ जिव्री॑ वि॒दथ॒मा व॑दाथः ॥२७॥
+
+### Printed p. 412
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । प्रियं । प्रजया । ते । सं । ऋध्यतां । अस्मिन् । गृहे । गार्हपत्याय ।  
+> जागृहि ।  
+> एना । पत्या । तन्वं । सं । सृजस्व । अध । जिव्री इति । विदथं । आ । वदाथः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इह प्रियमित्येषा वध्वा गृहप्रवेशनी । सूत्रितं च । इह प्रियं प्रजया ते
+> समृध्यतामिति गृहं प्रवेशयेत् । अ. गृ. १-८.८ । इति ॥
+> हे वधु ते तवेहास्मिन्सतिकुले प्रियं प्रजया सह समृध्यतां । अस्मिन्गृहे
+> गार्हपत्याय गृहपतित्वाय जागृहि । बुध्यस्व । एनानेन पत्या सह तन्नं स्वीयं
+> शरीरं सं सृजस्व । संसृष्टा भव । अधाथ जिव्री जीर्णौ जायापती युवां विदथं
+> गृहमा वदाथः । अभिमुख्येन वदतं ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the bride's entry into the house. It is laid down in the sūtra: with "Here may what is dear to you increase with offspring" she should be made to enter the house (A. Gṛ. 1-8.8). O bride, here in this your husband's family let what is dear to you increase together with offspring. In this house be awake, be alert, for the mistress-ship of the household, that is, for being the lady of the house. With this husband unite your own body; be joined with him. Then, as an aged wife and husband, you two shall speak in the household, that is, speak facing it, addressing it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—to you
+- इह (*iha*)—here in this husband's house
+- प्रजया (*prajayā*)—with sons and the like
+- प्रियं (*priyaṃ*)—affection
+- समृध्यतां (*samṛdhyatāṃ*)—may it grow fully
+- अस्मिन् गृहे (*asmin gṛhe*)—in this house
+- गार्हपत्याय (*gārhapatyāya*)—to be the guardian of the house
+- जागृहि (*jāgṛhi*)—be watchful
+- एना पत्या (*enā patyā*)—with this your husband
+- तन्नं (*tannaṃ*)—your body
+- सं सृजस्व (*saṃ sṛjasva*)—join together
+- अध (*adha*)—after some time
+- जीवी (*jīvī*)—you two, grown old
+- विदथं (*vidathaṃ*)—to the sons and others who are in your house
+- आ वदार्थः (*ā vadārthaḥ*)—you will give direction
+
+##### भावार्थ (Bhāvārtha)
+
+O bride, in this husband's house may the affection that is joined with sons and the like grow in you. Be watchful in order to be the guardian of this house. Joining with your husband, attain oneness with him. After some time, grown old, you two will give direction to the sons and others who are in your house.
+
+##### English translation
+In this your (husband's family) may affection increase with ofspring, be watchful over the domestic fire in this house; unite your person with this your husband ; and both growing old together govern your household.
+
 ---
 
-**Progress note:** Done through printed p. 406. Ṛk 21 end, Special Topics on Gandharvas, Ṛk 22-23 (Sūkta 85)
+**Progress note:** Done through printed p. 412. Ṛk 23 end, Ṛk 24-27 (Sūkta 85)
