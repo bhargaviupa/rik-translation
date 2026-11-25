@@ -25069,6 +25069,258 @@ The seer, the beholder of all, that Pūṣan, is the sharer (प्रत्य�
 - रथानां (*rathānāṃ*)—of chariots
 - अश्वहयः (*aśvahayaḥ*)—the one borne by horses
 
+### Printed p. 710
+#### Ṛk 5 (conclusion) (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+Pūṣan, beneficent to men, is the friend of the wise praiser and can destroy his enemies. He sees what lies beyond the senses. As sharer in the sacrificial oblations, he travels in chariots drawn by horses.
+
+##### English translation
+The sharer in sacrifices, who is drawn by chariot-horses, the rishi, the benefactor of men ; the friend of the devout, scattering (his foes).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒धीष॑माणायाः॒ पतिः॑ शु॒चाया॑श्च शु॒चस्य॑ च ।  
+> वा॒सो॒वा॒योऽवी॑ना॒मा वासां॑सि॒ मर्मृ॑जत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आधीषमाणायाः । पतिः । शुचायाः । च । शुचस्य । च ।  
+> वासःवायः । अवीनां । आ । वासांसि । मर्मृजत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आधीषमाणाया आत्मार्थं धीयमानायाः शुचायाश्च दीप्ताया अजायाश्च पतिः स्वामी । न केवलं स्त्रीमात्रस्य किंतु शुचस्य दीप्तस्य पुंपशोश्च पतिरित्यर्थः । एवंभूतः पूषा देवोऽवीनामुरणानां संबंधिभी रोमभिर्वासोवायो दशापवित्रादीनि वस्त्राणि प्रेरयन् वासांसि रजकशोध्यानि तानि वस्त्राण्या
+> मर्म्मृजत् । आ समंतात्पकाशोष्णाभ्यां शोधयन्भवति ॥
+
+##### Gist of the bhāṣya
+
+Pūṣan is the lord of the she-goat that is held for her own sake and is bright, and also of the bright male animal; that is, he is lord not only of the female but of the bright male beast as well. Being so, the god Pūṣan, with the wool of sheep, weaves woollen cloths such as the fringes of the filter (दशापवित्र (*daśāpavitra*)) and the like. The cloths that need cleaning by a washerman he cleanses, thoroughly, with light and heat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आधीषमाणायाः (*ādhīṣamāṇāyāḥ*)—of the one that is held (nourished) for herself
+- शुचायाः च (*śucāyāḥ ca*)—and of the bright she-goat
+- शुचस्य च (*śucasya ca*)—and of the bright he-goat
+- पतिः (*patiḥ*)—the lord, the god Pūṣan
+- अवीनां (*avīnāṃ*)—with the hair of sheep
+- वासोवायः (*vāsovāyaḥ*)—weaving the woollen cloth of the Daśāpavitra
+- वासांसि (*vāsāṃsi*)—those same cloths
+- मर्मृजत् (*marmṛjat*)—he cleanses
+
+### Printed p. 711
+
+##### भावार्थ (Bhāvārtha)
+
+Pūṣan, lord of the bright she-goat, which is nourished for herself, and of the bright he-goat, weaves with the hair of sheep the woollen cloth of the Daśāpavitra and cleanses those same cloths.
+
+##### English translation
+Lord both of the pure desirable (she-goat) and of the pure (he-goat): weaver of the cloth (of the wool) of the sheep; he has cleansed the vestments.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒नो वाजा॑नां॒ पति॑रि॒नः पु॑ष्टी॒नां सखा॑ ।  
+> प्र श्मश्रु॑ हर्य॒तो दू॑धो॒द्वि वृथा॒ यो अदा॑भ्यः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इनः । वाजानां । पतिः । इनः । पुष्टीनां । सखा ।  
+> प्र । श्मश्रु । हर्यतः । दूधोत् । वि । वृथा । यः । आदाभ्यः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इन ईश्वरः पूषा वाजानां हविरादीनां सर्वेषामन्नानां पतिः स्वामीनः
+> प्रभुः पुष्टीनां सर्वेषां प्राणिनां स्वभूतानां पोषणानां करणे सखा मित्रभूतः । सर्वस्कोपकारित्वात् । किंच हर्यतः कामयमानस्य यजमानस्य स्वभूतं
+> सोमं पिबन्निति शेषः । श्मश्रु श्मशूणि वृथानायासेनाप्रयत्नेन प्र व्यदूधोत्
+> प्रकर्षेण विविधं कंपयति यः पूषादाभ्यः शत्रुभिरहिंस्यः स इति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Ina, the lord Pūṣan, is master of वाजानां (*vājānāṃ*), all foods such as oblations; ina, the sovereign, is a friend in bringing about the nourishments, that is, the sustenance of all creatures that are his own, because he is helpful to all. Further, drinking the Soma of the desiring (हर्यतः (*haryataḥ*)) sacrificer (this is to be supplied), he shakes his beard about, without toil or effort. The Pūṣan who is अदाभ्यः (*adābhyaḥ*), not to be harmed by enemies, is the one meant: it is construed with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which god Pūṣan
+- अदाभ्यः (*adābhyaḥ*)—unharmed by enemies
+- इनः (*inaḥ*)—the lord
+- वाजानां (*vājānāṃ*)—of foods
+- पतिः (*patiḥ*)—the protector
+- इनः (*inaḥ*)—the sovereign
+- पुष्टीनां (*puṣṭīnāṃ*)—of all creatures nourished by him
+- सखा (*sakhā*)—the friend; he who is so
+- हरतः (*harataḥ*)—having drunk the Soma offered by the sacrificer **NOTE**
+
+### Printed p. 712
+- श्मश्रु (*śmaśru*)—the hair of his face
+- वृथा (*vṛthā*)—without effort
+- प्र वि दूधोत् (*pra vi dūdhot*)—makes it tremble
+
+##### भावार्थ (Bhāvārtha)
+
+Pūṣan, who is unharmed by enemies, lord, protector of foods, sovereign, and friend of all creatures nourished by him, drinks the Soma offered by the sacrificer and, in pleasure, makes the hair of his face tremble without effort.
+
+##### English translation
+The ruler, the lord of viands, the sovereign, the friend of the contentment (of all); he who is unassailable, gently shakes his beard (when drinking Soma of the sacrificer), desiring (his favour).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॒ रथ॑स्य पूषन्न॒जा धुरं॑ ववृत्युः ।  
+> विश्व॑स्या॒र्थिनः॒ सखा॑ सनो॒जा अन॑पच्युतः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । रथस्य । पूषन् । अजाः । धुरं । ववृत्युः ।  
+> विश्वस्य । अर्थिनः । सखा । सनःजाः । अनपच्युतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन्देव ते त्वदीयस्य रथस्य धुरमजा वाहनत्वेना ववृत्युः । आवर्तयंति । अवहंतीत्यर्थः । यस्त्वं विश्वस्य सर्वस्यार्थिनो याचकस्याभिलषितार्थ प्रदातृत्वात्सखिभूतः सनोजाश्चिरं जातोऽनपच्युतः स्वाधिकारादनपगतः । तस्य ते रथमिति
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O god Pūṣan, goats turn, that is, draw, the pole of your chariot as draught animals. You are a friend to every petitioner, since you grant the desired object to the one who asks; you were born long ago (सनोजाः (*sanojāḥ*)) and are अनपच्युतः (*anapacyutaḥ*), not fallen from your own office. The construction is: of such a you, the chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O god Pūṣan
+- ( यः (*yaḥ*)—you who)
+- विश्वस्य (*viśvasya*)—of every
+- अर्थिनः (*arthinaḥ*)—petitioner
+- सखा (*sakhā*)—friend
+- सनोजाः (*sanojāḥ*)—born long ago
+- अनपच्युतः (*anapacyutaḥ*)—unobstructed; such a one
+- ते (*te*)—your
+- रथस्य (*rathasya*)—of the chariot
+- धुरं (*dhuraṃ*)—the burden
+- अजाः (*ajāḥ*)—goats
+- आ ववृत्युः (*ā vavṛtyuḥ*)—bear
+
+### Printed p. 713
+
+##### भावार्थ (Bhāvārtha)
+
+O Pūṣan, you who are friend to every petitioner, born long ago, and unobstructed: goats bear the burden of your chariot.
+
+##### English translation
+The goats, Pushan, bear the burden of your car, who are the friend of every suppliant, born long ago, never-failing (in your duty).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॑मू॒र्जा रथं॑ पू॒षा अ॑विष्टु॒ माहि॑नः ।  
+> भुव॒द्वाजा॑नां वृ॒ध इ॒मं नः॑ शृणव॒द्धनं ॥ ९ ॥॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । ऊर्जा । रथं । पूषा । अविष्टु । माहिनः ।  
+> भुवत् । वाजानां । वृधः । इमं । नः शृणवत् । हवं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> माहिनो महान्पूषास्माकं स्वभूतं रथमूर्जा बलेनान्नेन वाविष्टु ।
+> अवतु । रक्षतु । किंच । वाजानामन्नानां वृधो वर्धको भुवत् । भवतु । नोऽस्मदीयमिममीदृग्भूतं हवमाह्वानं शृणवत् । शृणोतु ॥
+
+##### Gist of the bhāṣya
+
+The great Pūṣan (माहिनः (*māhinaḥ*)) is to protect our chariot with ऊर्जा (*ūrjā*), strength or food. He is also to be the increaser of foods (वाजानां (*vājānāṃ*)). He is to hear this invocation of ours, of this kind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माहिनः (*māhinaḥ*)—the great
+- पूषा (*pūṣā*)—god Pūṣan
+- अस्माकं (*asmākaṃ*)—our
+- रथं (*rathaṃ*)—chariot
+- ऊर्जा (*ūrjā*)—with his strength
+- अविष्टु (*aviṣṭu*)—may he protect
+- वाजानां (*vājānāṃ*)—of foods
+- वृधः (*vṛdhaḥ*)—as increaser
+- भुवत् (*bhuvat*)—may he be
+- नः (*naḥ*)—our
+- इमं (*imaṃ*)—this, offered here
+- हवं (*havaṃ*)—invocation
+- शृणवत् (*śṛṇavat*)—may he hear
+
+##### भावार्थ (Bhāvārtha)
+
+May the great Pūṣan protect our chariot with his strength. May he be the increaser of foods. May he hear this invocation of ours.
+
+### Printed p. 714
+
+##### English translation
+May the mighty Pushan protect our chariot by his might: may he be to us the augmenter of food: may he hear this our invocation.
+
+## Sūkta 27 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असत्सु म इति चतुर्विंशत्यृचमेकादशं सूक्तं । इंद्रपुत्रस्य वसुक्रस्यार्षं
+> त्रैष्टुभमैंद्रं । तथा चानुक्रांतं । असत्सु चतुर्विंशतिरैंद्रो वसुक्र इति ॥
+> महाव्रते मरुत्वतीयशस्त्र एतत्सूक्तं । तथैव पंचमारण्यके सूत्रितं च । असत्सु
+> मे जरितः साभिवेगः पिबा सोममभि यमुग्र तर्दः । ऐ.आ. ५-१-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning असत्सु म (*asatsu ma*) has twenty-four Ṛks and is the eleventh sūkta. Its seer is Vasukra, son of Indra; its deity is Indra; its metre is Triṣṭubh. So it is recorded in the Anukramaṇī: असत्सु चतुर्विंशतिरैंद्रो वसुक्र इति (*asatsu caturviṃśatiraiṃdro vasukra iti*). This sūkta is used in the Marutvatīya Śastra in the Mahāvrata; likewise it is set down in the fifth Āraṇyaka: असत्सु मे जरितः साभिवेगः पिबा सोममभि यमुग्र तर्दः । ऐ.आ. ५-१-१ । इति ॥ (*asatsu me jaritaḥ sābhivegaḥ pibā somamabhi yamugra tardaḥ | ai.ā. 5-1-1 | iti ‖*)
+
+##### Anuvāda
+
+This sūkta beginning असत्तु म (*asattu ma*) is the eleventh sūkta in the second anuvāka; it has twenty-four Ṛks. Its seer is Vasukra, son of Indra; the deity is Indra; the metre is Triṣṭubh. In the Anukramaṇī it is stated: असत्तु चतुर्विंशतिरैंद्रो वसुक्रः (*asattu caturviṃśatiraiṃdro vasukraḥ*). The sūkta is used at the recitation of the Marutvatīya Śastra mantras in the Mahāvrata rite, as directed in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence असत्तु मे जरितः साभिवेगः पिबा सोममभि यमुग्र तर्दः (*asattu me jaritaḥ sābhivegaḥ pibā somamabhi yamugra tardaḥ*) (Ai. Ā. 5-1-1).
+
+Sūkta 27. Maṇḍala 10; Anuvāka 2; Sūkta 27. Aṣṭaka 7, Adhyāya 7; Vargas 15, 16, 17, 18, 19. Number of Ṛks in the sūkta: 24. Seer: Vasukra Aindra. Deity: Indra. Metre: Triṣṭubh.
+
+### Printed p. 715
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॒त्सु मे॑ जरितः॒ साभि॑वे॒गो यत्सु॑न्व॒ते यज॑मानाय॒ शिक्षं॑।  
+> अना॑शीर्दाम॒हम॑स्मि प्रहं॒ता स॑त्य॒ध्वृतं॑ वृजिना॒यंत॑मा॒भुं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आसत् । सु । मे । जरितरिति । सः । अभिवेगः । यत् । सुन्वते । यजमानाय । शिक्षं ।  
+> अनाशीःदां । अहं । अस्मि । प्रहंता । सत्यध्वृतं । वृजिनयंतं । आभुं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वासुक्रेषु सूक्तेनु बाहुल्येनेंद्रः स्तूयते । इदानीमिंद्रो वसुक्रं
+> स्तोतुमुद्यतं पुत्रं संबोध्य स्वसामर्थ्य० कथयति येन विज्ञातदेवतारूपः
+> सन् सुखेन स्तोष्यतीति । यद्वा । कार्यकारणयोरेकत्वोपचारादात्मा वै पुत्रनामासीति वचनादिंद्ररूपेणावस्थितो वसुक्र आत्मानं स्तौति । क्वचित्कचिदिंद्रं चेति ।
+> हे जरितः स्तोतः मे मम सु शोभनः स तादृशोऽभिवेगोऽभिगमनं मनसो
+> वृत्तिविशेषोऽसत् । अस्ति । विद्यते । यद्येनाभिवेगेन सुन्वते मदर्थं सोमाभिषवं कुर्वते यजमानाय यज्जने शिक्षं अभिलषितमर्थं ददामि । किंचाहमनाशीर्दां । आशीरन्यत्र प्रार्थना इह तु सामर्थ्य्यात्पार्थितं हविरुच्यते । तद्मह्यमददतं जनं । यद्वा । आशीरिति सोमाश्रयणं दध्युच्यते ! तस्यादातारं । असोमयाजिनमित्यर्थः । प्रहंतास्मि । प्रकर्षण हिंसिता भवामि । कीदृशं । सत्यध्वृतं
+> सत्यस्य हिंसकं । अनृतवादिनं चेत्यर्थः । वृजिनायंतं पापं कर्तुमिच्छंतमाभुं
+> व्याप्नुवंतं ॥
+
+##### Gist of the bhāṣya
+
+In the Vāsukra hymns Indra is mostly praised. Now Indra, addressing his son Vasukra who is ready to praise him, declares his own power, by which, knowing the deity's nature, he will praise with ease. Or else, because cause and effect are spoken of as one, and by the saying *ātmā vai putranāmāsīti*, Vasukra, abiding in Indra's form, praises himself; sometimes he praises Indra. O praiser (जरितः (*jaritaḥ*)), mine is a good such अभिवेगः (*abhivegaḥ*), a particular turn of mind, an approach, which exists, by which I give the desired object to the sacrificer who presses Soma for me. Further, I am the destroyer of the one who gives no *āśīḥ*. Elsewhere *āśīḥ* is prayer, but here, from the context, it means the oblation prayed for: one who does not give it to me. Or else *āśīḥ* is the curds that go with the Soma; the giver of that is meant, so the one who is not a Soma-sacrificer. I strike him down utterly. What kind? One who is सत्यध्वृतं (*satyadhvṛtaṃ*), an injurer of truth, that is, a speaker of untruth, वृजिनायंतं (*vṛjināyaṃtaṃ*), wishing to do evil, आभुं (*ābhuṃ*), pervading.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जरितः (*jaritaḥ*)—O praiser
+- यत् (*yat*)—by which
+- सुन्वते (*sunvate*)—to the one who offers oblation
+- यजमानाय (*yajamānāya*)—to the sacrificer
+- शिक्षं (*śikṣaṃ*)—such that I give the desired object
+- मे (*me*)—my
+- सु (*su*)—excellent
+- सः (*saḥ*)—well-known
+- अभिवेगः (*abhivegaḥ*)—mental disposition
+- असत् (*asat*)—is thus
+- अहं (*ahaṃ*)—I
+- अनाशीर्दां (*anāśīrdāṃ*)—the one who offers no oblation, fallen from the rite
+- प्रहंता अस्मि (*prahaṃtā asmi*)—I am the destroyer
+- सत्यध्वृतं (*satyadhvṛtaṃ*)—one who brings a stain on truth, and
+
 ---
 
-**Progress note:** Done through printed p. 709. pp. 704-709 (batch API)
+**Progress note:** Done through printed p. 715. pp. 710-715 (batch API)
