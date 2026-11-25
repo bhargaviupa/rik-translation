@@ -1390,3 +1390,25 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 451 | `"Pṛṣi-sarādhākarṣṭa putra-darśanāt" (Jaimini` → `"Straparādhātkartuśca putradarśanāt" (Jaimini` | SECOND-PASS S13: Kannada p.452: ಸ್ತ್ರಪರಾಧಾತ್ಕರ್ತುಶ್ಚ ಪುತ್ರದರ್ಶನಾತ್(ಜೈ. ಸೂ. ೧-೨-೧೩); Latin by sp_sanskrit.py |
 | 457 | `"Sarva-śabdādhikārikam" (Jaimini` → `"Sarvatvamādhikārikaṃ" (Jaimini` | SECOND-PASS S13: Kannada p.457: ಸರ್ವತ್ವಮಾಧಿಕಾರಿಕಂ(ಜೈ. ಸೂ. ೧-೨-೧೬); Latin by sp_sanskrit.py |
 | 459 | `"Phalasya karma-niṣṭheṣu lokavat parimāṇakaḥ sāratho vā phala-viśeṣaḥ syāt" (Jaimini` → `"Phalasya karmaniṣpattesteṣāṃ lokavatparimāṇataḥ sārato vā phalaviśeṣaḥ syāt" (Jaimini` | SECOND-PASS S13: Kannada p.459 sutra text (ಫಲಸ್ಯ ಕರ್ಮನಿಷ್ಪತ್ತೇಸ್ತೇಷಾಂ ಲೋಕವತ್ಪರಿಮಾಣತಃ ಸಾರತೋ ನಾ ಫಲವಿಶೇಷಃ ಸ್ಯಾತ್); Latin by sp_sanskrit.py; vā kept (Kannada ನಾ misprint, in kn_misp |
+
+### 2026-11-25 second pass, batch e460-489.tsv
+| page | old → new | why |
+|---|---|---|
+| 461 | `(i.e., through knowledge/confession)` → `(with repentance)` | SECOND-PASS S13: Kannada p.461: ಪಶ್ಚಾತ್ತಾಪಯುಕ್ತನಾಗಿ (with repentance); English had knowledge/confession |
+| 461 | ` (just as with the earlier Kashmir/vetasa examples)` → `` | SECOND-PASS S16: Kannada p.461-463 mention no Kashmir/vetasa examples; addition removed |
+| 461 | `exactly as resolved many pages earlier in the vidhi-authority discussion` → `exactly as resolved in the last adhikarana of the first pada` | SECOND-PASS S16: Kannada p.463: ಪ್ರಥಮಪಾದದ ಕೊನೆಯ ಅಧಿಕರಣದಲ್ಲಿ; no vidhi-authority discussion |
+| 464 | `In the Kavya-pashu-kanda section` → `In the Kamya-pashu-kanda section` | SECOND-PASS S13: Kannada p.464: ಕಾಮ್ಯಪಶುಕಾಂಡ (Kamya), not Kavya |
+| 468 | `("he sought after Babara, son of Pravahana")` → `("Babara, son of Pravahana, desired")` | SECOND-PASS S14: Kannada p.468: ಪ್ರವಾಹಣನ ಮಗನಾದ ಬಬರನೆಂಬುವನು ಅಪೇಕ್ಷಿಸಿದನು; Babara is the subject, not the object |
+| 468 | `("he sought after Kusurubinda, son of Uddalaka")` → `("Kusurubinda, son of Uddalaka, desired")` | SECOND-PASS S14: Kannada p.468: ಉದ್ದಾಲಕನ ಮಗನಾದ ಕುಸುರುಬಿಂದನೆಂಬುವನು ಅಪೇಕ್ಷಿಸಿದನು; Kusurubinda is the subject |
+| 470 | `according to a fixed method, to students proficient in that portion.` → `according to a fixed method, to his students, after becoming proficient in that portion.` | SECOND-PASS S14: Kannada p.470: the rishi became proficient in that portion and taught students; English made the students proficient |
+| 470 | `ordinary [human/animal] names` → `persons' names` | SECOND-PASS S16: Kannada p.470: ಪುರುಷರ ಹೆಸರುಗಳಂತೆ ತೋರುವ ಶಬ್ದಗಳು; no animal names |
+| 471 | `madmen, fools, or small children` → `madmen or small children` | SECOND-PASS S16: Kannada p.471: ಹುಚ್ಚರು ಅಥವಾ ಸಣ್ಣ ಬಾಲಕರು; no fools |
+| 475 | `1-2-29, as printed` → `1-3-29` | SECOND-PASS S1: Kannada p.475: (ವೇ. ಸೂ. ೧-೩-೨೯) |
+| 476 | `The resolution then follows through Jaimini's own sutra 2-1-35, establishing "mananahetuḥ ` → `The resolution then follows: whatever the sacrificers call a mantra is a mantra, and this ` | SECOND-PASS S14: Kannada pp.476-479: the manana (mananahetu) definition is rejected as ativyapti; the sacrificers' designation (samakhyana) is the definition; the sutra numbers  |
+| 481 | ` (as in "amba ambike" and similar)` → `` | SECOND-PASS S16: Kannada p.483: mantras too contain hetu, nirvacana etc.; no amba ambike there |
+| 482 | `since even though it's not doubted how much overall is mantra versus brahmana, no explicit` → `since which part of the Veda is mantra and which is brahmana cannot be separated out, and ` | SECOND-PASS S14: Kannada p.482: ಮಂತ್ರವು ಯಾವುದು, ಬ್ರಾಹ್ಮಣವು ಯಾವುದು ಎಂಬುದನ್ನು ವಿಂಗಡಿಸಿ ಹೇಳಲಾಗುವುದಿಲ್ಲ |
+| 482 | `transmitted by disciples as mantra` → `accepted by the learned as mantra` | SECOND-PASS S13: Kannada p.482: ಶಿಷ್ಟರಿಂದ ಪರಿಗೃಹೀತ (learned/cultured), not ಶಿಷ್ಯ |
+| 484 | `Since disciples accept` → `Since the learned accept` | SECOND-PASS S13: Kannada p.484: ಶಿಷ್ಟರು ಅಂಗೀಕರಿಸುವುದರಿಂದ |
+| 485 | `...as stated in the Bhashya (2-1-33). Disciples familiar with the tradition call` → `...as stated in the Shabara-bhashya on the Mimamsa-sutra (2-1-6). The learned, familiar wi` | SECOND-PASS S13: Kannada p.485: ಮೀಮಾಂಸಾಸೂತ್ರದ ಶಾಬರಭಾಷ್ಯದಲ್ಲಿ(೨-೧-೬); ಸಂಪ್ರದಾಯವನ್ನು ತಿಳಿದ ಶಿಷ್ಟರು |
+| 488 | `five for Saptanta` → `five for Pankti` | SECOND-PASS S13: Kannada p.488: ಪಂಕ್ತಿ ಛಂದಸ್ಸಿಗೆ ಐದು ಪಾದಗಳು |
+| 472 | `(Jaimini-nyaya-mala 1-1-8)` → `(Jaimini-nyaya-mala 11-8)` | SECOND-PASS S1: Kannada p.472: (ಜೈ ನ್ಯಾ. ೧೧-೮); applied as printed |

@@ -8929,7 +8929,7 @@ A further illustration: imagine two farmers cultivating separate fields. One far
 
 ### Page 461
 
-...both obtain grain, but not equally — this depends on the effort each invested. The same holds for rites: one yajna's fruit might be doubled by another, or differ in quality/richness rather than quantity — such variation in enjoyment (degree or refinement) arising from different rites is entirely understandable. A mentally-committed, comparatively minor sin like brahmin-slaying can be removed merely through others declaring it (i.e., through knowledge/confession); a grave, physically-committed sin of the same kind requires the Ashvamedha to remove it. Therefore, no genuine flaw of purposelessness (ānarthakya) applies to any of these statements.
+...both obtain grain, but not equally — this depends on the effort each invested. The same holds for rites: one yajna's fruit might be doubled by another, or differ in quality/richness rather than quantity — such variation in enjoyment (degree or refinement) arising from different rites is entirely understandable. A mentally-committed, comparatively minor sin like brahmin-slaying can be removed merely through others declaring it (with repentance); a grave, physically-committed sin of the same kind requires the Ashvamedha to remove it. Therefore, no genuine flaw of purposelessness (ānarthakya) applies to any of these statements.
 
 **Now, addressing the two final examples:** the "nāntarikṣe na divi" (misplaced-prohibition) case, and the "babaraḥ prāvāhaṇiḥ" (non-eternal-name) case — the next sutra resolves both.
 
@@ -8943,7 +8943,7 @@ A further illustration: imagine two farmers cultivating separate fields. One far
 >
 > "The answer for both these two remaining examples is to be understood exactly as already given. The arthavāda describing the [impossible] altar-construction on earth, air, or sky, taking the form of a censure, is the complement of the vidhi 'one should establish [the fire] having placed gold [beneath it].' Therefore, as already explained, its connection here serves a praise-oriented purpose, resolved in precisely the same manner as before. If it be objected that since building an altar in the sky is impossible, the prohibition itself is out of place — we reply: as already stated, [remember our earlier resolution]: here, 'Babara' does not refer to an actual man named Babara, but rather to the wind, characterized by the 'babara' sound, whose nature is to blow with great force..."
 
-**This closes the entire arthavāda objection cycle.** Both remaining examples are answered by simply invoking resolutions already established: the "impossible prohibition" is, once again, understood as praise-oriented arthavāda attached to a genuine vidhi (just as with the earlier Kashmir/vetasa examples), and "Babara" is, exactly as resolved many pages earlier in the vidhi-authority discussion, understood as onomatopoeia for wind's sound — not a historical person's name at all, closing off any claim that the passage depends on a "non-eternal" human referent.
+**This closes the entire arthavāda objection cycle.** Both remaining examples are answered by simply invoking resolutions already established: the "impossible prohibition" is, once again, understood as praise-oriented arthavāda attached to a genuine vidhi, and "Babara" is, exactly as resolved in the last adhikarana of the first pada, understood as onomatopoeia for wind's sound — not a historical person's name at all, closing off any claim that the passage depends on a "non-eternal" human referent.
 
 ---
 
@@ -9017,7 +9017,7 @@ serves as arthavāda. Read together, vidhi and arthavāda produce one coherent, 
 
 ### Page 464
 
-In the Kavya-pashu-kanda section, two connected statements occur: **(1)** "vāyavyaṃ śvetam ālabheta bhūtikāmaḥ" — "one desiring prosperity should offer a white [animal] to Vayu" — the vidhi; **(2)** "vāyur vai kṣepiṣṭhā devatā vāyum eva svena bhāgadheyenopadhāvati sa enaṃ bhūtiṃ gamayati" — "since Vayu is the swiftest-natured deity, the wind-god swiftly grants prosperity to his own worshipper" — the arthavāda.
+In the Kamya-pashu-kanda section, two connected statements occur: **(1)** "vāyavyaṃ śvetam ālabheta bhūtikāmaḥ" — "one desiring prosperity should offer a white [animal] to Vayu" — the vidhi; **(2)** "vāyur vai kṣepiṣṭhā devatā vāyum eva svena bhāgadheyenopadhāvati sa enaṃ bhūtiṃ gamayati" — "since Vayu is the swiftest-natured deity, the wind-god swiftly grants prosperity to his own worshipper" — the arthavāda.
 
 If it's asked whether the arthavāda words here, being independently capable of conveying complete sense on their own, are truly authoritative in matters of dharma — some argue that vidhi and arthavāda, being separate, unconnected statements, means arthavāda carries no such authority. But the correct view: the arthavāda praises the vidhi. Without it, a person, told merely "offer a white animal to Vayu," might hesitate — why perform this act at all, what fruit results? The arthavāda resolves this doubt directly, stating that prosperity comes swiftly through this offering — thereby motivating action. Since vidhi and its praising arthavāda are thus mutually connected, arthavāda carries the same authority in matters of dharma that vidhi does.
 
@@ -9129,7 +9129,7 @@ Sutra's meaning: since the Vedas contain descriptions of non-eternal things — 
 
 ### Page 468
 
-In the Veda, statements occur: "babaraḥ prāvāhaṇeḥ kāmayata" ("he sought after Babara, son of Pravahana") and "kusurubinda auddālakir akāmayata" ("he sought after Kusurubinda, son of Uddalaka"). Since Babara and Kusurubinda are human, they're subject to birth, death, and similar changes — non-eternal beings. Statements discussing such figures necessarily postdate their birth; these Vedic passages cannot have existed before those persons lived. Therefore, the Vedas are non-eternal — and, like the works of poets such as Kalidasa, human-composed. The word "ca" ("also") in the sutra marks this as an additional argument, beyond the earlier human-authorship claim, specifically establishing the Veda's non-eternality.
+In the Veda, statements occur: "babaraḥ prāvāhaṇeḥ kāmayata" ("Babara, son of Pravahana, desired") and "kusurubinda auddālakir akāmayata" ("Kusurubinda, son of Uddalaka, desired"). Since Babara and Kusurubinda are human, they're subject to birth, death, and similar changes — non-eternal beings. Statements discussing such figures necessarily postdate their birth; these Vedic passages cannot have existed before those persons lived. Therefore, the Vedas are non-eternal — and, like the works of poets such as Kalidasa, human-composed. The word "ca" ("also") in the sutra marks this as an additional argument, beyond the earlier human-authorship claim, specifically establishing the Veda's non-eternality.
 
 **Having thus completed the objection — that the Veda is human-composed and, discussing non-eternal things, is itself non-eternal — the siddhānta (resolution), that the Veda is in fact apauruṣeya (non-human in origin) and eternal, is now established in the sutras that follow.**
 
@@ -9192,7 +9192,7 @@ Sutra's meaning: this is the correct interpretation of names like "Katha" and si
 
 ### Page 470
 
-Sutra's meaning: it is customary to name each Vedic branch (śākhā) after the celebrated rishi who traditionally taught it, according to a fixed method, to students proficient in that portion.
+Sutra's meaning: it is customary to name each Vedic branch (śākhā) after the celebrated rishi who traditionally taught it, according to a fixed method, to his students, after becoming proficient in that portion.
 
 Take the Kāthaka-śākhā as an example: this doesn't mean the branch was *composed* by a man named Katha — rather, teachers who mastered that branch taught it to their students in a fixed, traditional sequence, and among them was one particularly gifted teacher named Katha, after whom the branch came to be named. The same holds for other branches.
 
@@ -9205,7 +9205,7 @@ Take the Kāthaka-śākhā as an example: this doesn't mean the branch was *comp
 >
 > "The remaining case — 'Babara' and similar — is simply a matter of shared sound; no man actually named Babara is being spoken of here. The wind, characterized by the sound 'babara' and whose very nature is to blow forth (pravahana), is capable of being described this way. But one might object: don't we find such statements as 'the trees performed a sattra [ritual session]; the serpents performed a sattra'? Trees are insentient; serpents, though sentient, lack knowledge — for either to actually perform such a rite is impossible. Given this, and given examples like the babble of a madman or child ('jaradgavo gāyati madrakāṇi'), it would seem the Veda must be human-composed after all. Anticipating this doubt, the resolution follows in the next sutra."
 
-Sutra's meaning: among Vedic words, some words resembling ordinary [human/animal] names are simply that — ordinary shared words. They do not actually indicate any specific human person.
+Sutra's meaning: among Vedic words, some words resembling persons' names are simply that — ordinary shared words. They do not actually indicate any specific human person.
 
 ---
 
@@ -9225,7 +9225,7 @@ Sutra's meaning: among Vedic words, some words resembling ordinary [human/animal
 
 In the case under examination, though the word "Babara" appears to name a man, it is not actually a proper name — merely an ordinary word. Combined with the sound "ba-ba-ra," it means "wind blowing forcefully." "Babara" is therefore not any man's name.
 
-**Now, regarding statements like "vanaspatayaḥ satram āsata"** (the plants/trees performed the sacrifice) and "sarpāḥ satram āsata" (the serpents performed the sacrifice): since trees are insentient, and serpents, though sentient, lack the faculties of learning and understanding, neither could genuinely participate in a yajna. Given such statements resembling the meaningless babble of madmen, fools, or small children — like "jaradgavaḥ kambalapādukābhyāṃ dvāri sthito gāyati madrakāṇi..." — one might conclude the Veda cannot be non-human in origin, and must have been composed by some unwise person. The next sutra answers this.
+**Now, regarding statements like "vanaspatayaḥ satram āsata"** (the plants/trees performed the sacrifice) and "sarpāḥ satram āsata" (the serpents performed the sacrifice): since trees are insentient, and serpents, though sentient, lack the faculties of learning and understanding, neither could genuinely participate in a yajna. Given such statements resembling the meaningless babble of madmen or small children — like "jaradgavaḥ kambalapādukābhyāṃ dvāri sthito gāyati madrakāṇi..." — one might conclude the Veda cannot be non-human in origin, and must have been composed by some unwise person. The next sutra answers this.
 
 ### "Kṛte cāviniyoge syāt karmaṇaḥ samatvāt" (Jaimini Sutra 1-1-32)
 
@@ -9257,7 +9257,7 @@ That is: nor can this be compared to a madman's babble — the jyotiṣṭoma in
 **Closing summary verse:**
 
 > तस्मान् नास्ति वेदस्य पौरुषेयत्वम् । अत्र संग्रह-श्लोकः । पौरुषेयं न वा वेदनास्त्य् अपौरुषेयता । काथकादि-समाख्यानाद् वाच् छास्य वाक्यवत् । समाख्यानं प्रवचनाद् आचार्यत्वाच् च तत् पराहतम् । तत्-कर्तृ-स्मालम्भेन स्यात् कोऽपौरुषेयते ॥
-> tasmān nāsti vedasya pauruṣeyatvam | atra saṃgraha-ślokaḥ | pauruṣeyaṃ na vā vedanāsty apauruṣeyatā | kāthakādi-samākhyānād vāc chāsya vākyavat | samākhyānaṃ pravacanād ācāryatvāc ca tat parāhatam | tat-kartṛ-smālambhena syāt ko'pauruṣeyate || (Jaimini-nyaya-mala 1-1-8)
+> tasmān nāsti vedasya pauruṣeyatvam | atra saṃgraha-ślokaḥ | pauruṣeyaṃ na vā vedanāsty apauruṣeyatā | kāthakādi-samākhyānād vāc chāsya vākyavat | samākhyānaṃ pravacanād ācāryatvāc ca tat parāhatam | tat-kartṛ-smālambhena syāt ko'pauruṣeyate || (Jaimini-nyaya-mala 11-8)
 >
 > "Therefore, the Veda has no human origin. Summary verse: is the Veda human-composed, or not? [The objection holds it is,] on account of names like 'Kathaka' and its being a collection of statements — but this naming is refuted, [properly] explained instead by teaching-activity and preceptorship. And by touching upon [correctly identifying] its true, non-human 'author' [i.e., the eternal Word itself], how could its non-human-origin status be anything but established?"
 
@@ -9330,7 +9330,7 @@ How could it be otherwise? Examining a sentence's preceding and following contex
 
 > "Is the Veda of human origin? Yes, since it is known by titles such as Kathaka, and since it is made up of sentences that have the same nature as other sentences." — "No: these titles refer to men who taught the Veda, not composed it. And that other argument has already been refuted by the fact that no author's name is mentioned."
 
-**A doubt then arises:** hasn't the holy Badarayana himself stated that the Veda is the work of Brahman? — "śāstra-yonitvāt" (Vedanta Sutra 1-1-3), meaning Brahman is omniscient, having created the Rigveda and all other shastras. Granted — but this doesn't establish the Veda's *human* origin; it was not made by a [mere embodied] person. This same Badarayana, in the Devatā-adhikaraṇa section, establishes that for all beings who have not attained final liberation, the Veda is eternal, like the sky itself — "ata eva ca nityatvam" (Ve. Sū. 1-2-29, as printed) ("and for this very reason, its eternality follows").
+**A doubt then arises:** hasn't the holy Badarayana himself stated that the Veda is the work of Brahman? — "śāstra-yonitvāt" (Vedanta Sutra 1-1-3), meaning Brahman is omniscient, having created the Rigveda and all other shastras. Granted — but this doesn't establish the Veda's *human* origin; it was not made by a [mere embodied] person. This same Badarayana, in the Devatā-adhikaraṇa section, establishes that for all beings who have not attained final liberation, the Veda is eternal, like the sky itself — "ata eva ca nityatvam" (Ve. Sū. 1-3-29) ("and for this very reason, its eternality follows").
 
 **Both Shruti and Smriti confirm this:**
 
@@ -9383,7 +9383,7 @@ How could it be otherwise? Examining a sentence's preceding and following contex
 >
 > *(Devanagari re-read from the print in the numeral pass; the earlier reading was garbled.)*
 >
-> *(This dense opening formulates the objection that no valid definition of "mantra" can be given without either over-including or under-including relevant cases — using the example text "ahe budhniya mantraṃ me" as a test case. The resolution then follows through Jaimini's own sutra 2-1-35, establishing "mananahetuḥ mantraḥ" — a mantra is that which serves as an instrument of "manana" (reflective recollection/mental application during ritual) — with Brahmana correspondingly defined, per sutra 2-1-33, as covering the remaining Vedic text not falling under this mantra-definition.)*
+> *(This dense opening formulates the objection that no valid definition of "mantra" can be given without either over-including or under-including relevant cases — using the example text "ahe budhniya mantraṃ me" as a test case. The resolution then follows: whatever the sacrificers call a mantra is a mantra, and this designation is itself the faultless definition of mantra.)*
 
 **Turning to the Sangraha's summary of the seventh adhikarana:**
 
@@ -9543,7 +9543,7 @@ Many more examples could be given. Given such genuinely diverse statements, no s
 - **"Purā brāhmaṇā abhaiṣuḥ"** — a **purākalpa** (ancient narrative).
 - **"Yāvato'śvān pratigṛhṇīyāt tāvato vāruṇāṃś catuṣkapālān nirvapet"** (Tai. Saṃ. 2-3-12-1) — a **viśeṣāvadhāraṇa-kalpanā** (specific determination).
 
-Other examples could be given as well. None of these nine content-types, taken individually (for mantras too contain them: "indavo vām uśanti hi" (Ṛ. Saṃ. 1-2-4) is a hetu; "udānīṣur mahīr iti tasmād udakam ucyate" (Ath. Saṃ. 3-13-4) a nirvacana; "mogham annaṃ vindate apracetāḥ" (Ṛ. Saṃ. 10-117-6) a nindā; "agnir mūrdhā divaḥ kakut" (Ṛ. Saṃ. 8-44-16) a praśaṃsā; "adhaḥ svid āsīd upari svid āsīt" (Ṛ. Saṃ. 10-129-5) a saṃśaya; "sahasram ayutā dadat" (Ṛ. Saṃ. 8-21-18) a parakṛti; "yajñena yajñam ayajanta devāḥ" (Ṛ. Saṃ. 1-164-50) a purākalpa; and "rājā cid yaṃ bhagaṃ bhakṣīty āha" (Ṛ. Saṃ. 7-41-2) and "yo mā yātuṃ yātudhānety āha yo vā rakṣāḥ śucir asmīty āha" (Ṛ. Saṃ. 7-104-16) show the iti-form in mantras), can serve as a coherent positive definition of "brahmana" — since mantras too, at times, exhibit similar features (as in "amba ambike" and similar). Therefore, the only workable definition remains the exclusionary one already established: whatever in the Veda is not mantra is brahmana.
+Other examples could be given as well. None of these nine content-types, taken individually (for mantras too contain them: "indavo vām uśanti hi" (Ṛ. Saṃ. 1-2-4) is a hetu; "udānīṣur mahīr iti tasmād udakam ucyate" (Ath. Saṃ. 3-13-4) a nirvacana; "mogham annaṃ vindate apracetāḥ" (Ṛ. Saṃ. 10-117-6) a nindā; "agnir mūrdhā divaḥ kakut" (Ṛ. Saṃ. 8-44-16) a praśaṃsā; "adhaḥ svid āsīd upari svid āsīt" (Ṛ. Saṃ. 10-129-5) a saṃśaya; "sahasram ayutā dadat" (Ṛ. Saṃ. 8-21-18) a parakṛti; "yajñena yajñam ayajanta devāḥ" (Ṛ. Saṃ. 1-164-50) a purākalpa; and "rājā cid yaṃ bhagaṃ bhakṣīty āha" (Ṛ. Saṃ. 7-41-2) and "yo mā yātuṃ yātudhānety āha yo vā rakṣāḥ śucir asmīty āha" (Ṛ. Saṃ. 7-104-16) show the iti-form in mantras), can serve as a coherent positive definition of "brahmana" — since mantras too, at times, exhibit similar features. Therefore, the only workable definition remains the exclusionary one already established: whatever in the Veda is not mantra is brahmana.
 
 ---
 
@@ -9570,13 +9570,13 @@ Having examined the seventh adhikarana (Mantra-nirvacana), we now turn to the ei
 > एतद्ब्राह्मणानेव पंच हवींषि ।
 > *etad brāhmaṇān eva paṃca havīṃṣi |*
 
-or not? My view: none exists, since even though it's not doubted how much overall is mantra versus brahmana, no explicit rule states precisely "this much is mantra, this much is brahmana" — so any attempted definition falls into avyāpti or ativyāpti. Therefore, brahmana has no valid definition.
+or not? My view: none exists, since which part of the Veda is mantra and which is brahmana cannot be separated out, and no explicit rule states precisely "this much is mantra, this much is brahmana" — so any attempted definition falls into avyāpti or ativyāpti. Therefore, brahmana has no valid definition.
 
 **Siddhānta:** it is well-established that the Veda comprises two portions — mantra and brahmana. The mantra-portion's own defining characteristic has already been given [in the seventh adhikarana]; whatever remaining Vedic content is not mantra may properly be called brahmana — this itself serves as brahmana's definition.
 
 In the Chaturmasya-yashti yajna, the mantra "etad brāhmaṇāny eva pañca havīṃṣi" (Taittiriya Brahmana 1-7-1-1) is used — yet no explicit definition of brahmana is stated there. Without knowing precisely which portion is mantra and which is brahmana, any attempted definition risks avyāpti/ativyāpti even for the brahmana-portion. (This concludes the objection.)
 
-**The true resolution:** within the Veda's mantra-and-brahmana-composed text, whatever is not mantra is brahmana. "Mantra" was earlier defined as whatever the ancient teachers, during ritual performance, customarily call "mantra." But merely being *any* Vedic statement isn't sufficient — a statement genuinely recognized and transmitted by disciples as mantra, without even the slightest word-variation, alone qualifies. Jaimini himself states this precisely in his own Purva-Mimamsa-sutra:
+**The true resolution:** within the Veda's mantra-and-brahmana-composed text, whatever is not mantra is brahmana. "Mantra" was earlier defined as whatever the ancient teachers, during ritual performance, customarily call "mantra." But merely being *any* Vedic statement isn't sufficient — a statement genuinely recognized and accepted by the learned as mantra, without even the slightest word-variation, alone qualifies. Jaimini himself states this precisely in his own Purva-Mimamsa-sutra:
 
 > आम्नायोक्तमन्त्रश्च ऐतिह्यात्सा हि विभागः ।
 > *anāmnāteṣv amantratvam āmnāteṣu hi vibhāgaḥ |* (Jaimini Sutra 2-1-34)
@@ -9689,7 +9689,7 @@ Many more examples like these could be given.
 
 Many such statements exist. What about defining brahmana as "statements using the word 'iti'"? This too fails — many mantras themselves contain "iti"-words ("ityadada," "ityayajatha," "ityapacatha," and similar) that priests must recite during yajna — creating ativyāpti. Nor can it be "statements ending in 'ity āha'": the mantras "rājā cid yaṃ bhagaṃ bhakṣīty āha" (Ṛ. Saṃ. 7-41-2) and "yo mā yātuṃ yātudhānety āha yo vā rakṣāḥ śucir asmīty āha" (Ṛ. Saṃ. 7-104-16) also contain 'ity āha', so again ativyāpti. What about defining brahmana as "narrative content, story-form"? This fails too — Rigveda Sukta 10-10, containing the dialogue between Yama and Yami, is itself a mantra-portion, yet narrative in form — again ativyāpti. Therefore, it must be concluded that no faultless definition of brahmana, free from avyāpti/ativyāpti, exists. (This concludes the objection.)
 
-**The true resolution:** not so — here is the correct answer. Brahmana does indeed have a valid definition. Since disciples accept that the Veda comprises exactly two portions — mantra and brahmana — and since mantra's own defining characteristic has already been established, it follows correctly that all remaining Vedic content, not being mantra, is brahmana. Jaimini himself states this precisely through two sutras:
+**The true resolution:** not so — here is the correct answer. Brahmana does indeed have a valid definition. Since the learned accept that the Veda comprises exactly two portions — mantra and brahmana — and since mantra's own defining characteristic has already been established, it follows correctly that all remaining Vedic content, not being mantra, is brahmana. Jaimini himself states this precisely through two sutras:
 
 > तच्चोदकेषु मन्त्राख्या । शेषे ब्राह्मणशब्दः ।
 > *tac codakeṣu mantrākhyā |* (Jaimini Sutra 3-1-32, as printed) — *śeṣe brāhmaṇa-śabdaḥ |* (Jaimini Sutra 2-1-33)
@@ -9709,7 +9709,7 @@ That is: the Veda contains certain exhortatory statements, to which those versed
 
 ### Page 485
 
-...as stated in the Bhashya (2-1-33). Disciples familiar with the tradition call such exhortatory statements "mantras," saying "we study the mantras" — and every Vedic portion so designated is indeed mantra; every remaining portion is called brahmana.
+...as stated in the Shabara-bhashya on the Mimamsa-sutra (2-1-6). The learned, familiar with the tradition, call such exhortatory statements "mantras," saying "we study the mantras" — and every Vedic portion so designated is indeed mantra; every remaining portion is called brahmana.
 
 **A new objection:** in the Brahmayajna chapter, don't we find portions distinct from both mantra and brahmana — itihāsas and similar? As stated: "yad brāhmaṇetihāsān purāṇāni kalpān gāthā nārāśaṃsīḥ" (Taittiriya Aranyaka 2-9) — "whatever brahmanas, itihasas, puranas, kalpas, gathas, narashamsis..."
 
@@ -9798,7 +9798,7 @@ This opens a new technical discussion: since rik, sama, and yajus mantras appear
 >
 > "Sung-form mantras are sāmans. Metered mantras recited continuously without song-form are yajuṣes — thus, no confusion at all remains. Jaimini himself defines these three types through three [distinct] sutras. Their pada-arrangement is determined by their primary meaning; their being sung is the mark of 'sāman'; the remainder bears the term 'yajus' (Purva Mimamsa 2-1-35–37). Relying on this one specific distinguishing feature of mantras, the Veda's own threefold division — into Rigveda, Yajurveda, and Samaveda — stands firmly established."
 
-Among Vedic mantras, there are exactly three principal types — Rigveda, Yajurveda, and Samaveda — intermixed throughout the Veda, with no obvious single mark distinguishing them at first glance. Mimamsa-shastra resolves this in its own dedicated pada: a mantra built from metrical **padas** (verse-feet, matching meters like Gayatri and similar — one pada for "ekapada" meter, two for "dvipada," three for Gayatri, four for Trishtubh/Jagati, five for Saptanta, and so on) is called **Rigveda**. Mantras in musically-tuned, sung form (**gīti**) are called **Sāmaveda**. Prose collections with no metrical constraint are called **Yajus**. This way, distinguishing them individually is possible, and no confusion arises in principle.
+Among Vedic mantras, there are exactly three principal types — Rigveda, Yajurveda, and Samaveda — intermixed throughout the Veda, with no obvious single mark distinguishing them at first glance. Mimamsa-shastra resolves this in its own dedicated pada: a mantra built from metrical **padas** (verse-feet, matching meters like Gayatri and similar — one pada for "ekapada" meter, two for "dvipada," three for Gayatri, four for Trishtubh/Jagati, five for Pankti, and so on) is called **Rigveda**. Mantras in musically-tuned, sung form (**gīti**) are called **Sāmaveda**. Prose collections with no metrical constraint are called **Yajus**. This way, distinguishing them individually is possible, and no confusion arises in principle.
 
 **But a genuine difficulty now surfaces:** the mantra "ahe budhniya mantraṃ me gopāya yaṃ ṛṣayas traividā viduḥ | ṛcaḥ sāmāni yajūṃṣi" (Taittiriya Brahmana 1-2-1) invokes "traividas" — those learned in all three Vedas. But the three mantra-types (rik, yajus, sāma) as defined above turn out to lack a *stable* defining mark after all — because certain mantras appear within the Veda in ways that cut against this clean threefold scheme...
 

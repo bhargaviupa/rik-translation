@@ -80,3 +80,9 @@ page	place	as_found	question	why_not_settled	decision
 452	sutra heading	Kannada ಸ್ತ್ರಪರಾಧಾತ್ misprint; heading applied as printed (see page 451 edit)			Kannada misprint listed; English kept
 447	whole page	English has no section for Kannada p.447 (Aditi example, Tai. Saṃ. 6-1-5)			no translation added; open.tsv; English kept
 456	vaji	English "a swift one is born"; Kannada glosses ವಾಜೀ as food (ಅನ್ನ)			English kept; English kept
+461	English gist after the Sanskrit block (Kashmir/vetasa)	Hint of other examples removed; English gist still adds 'impossible prohibition' reading	Is the English gist of the Sanskrit block faithful?	Sanskrit block is out of scope	English kept except the clearly added phrases; Sanskrit not checked
+462	Gist of the summary verses	English gives a gist of the verses (vayur vai ksepistha has authority) which the Kannada does not state before p.463-464	Keep the English gist?	Sanskrit verses out of scope	English kept
+475	Devata-adhikarana sentence	English: for all who have not obtained final release the Veda is eternal like the sky; the Kannada says only 'as said in worldly usage, Vedas are eternal like the sky'	Remove the added clause?	The clause comes from the source's own embedded English translation	English kept
+484	abhidhayaka sentence	English renders the Kannada's abhidhayaka (non-injunctive) sentences as 'exhortatory', following the embedded English translation	Change to non-injunctive?	Embedded English translation of the source uses 'exhortatory'	English kept
+489	Omission	Kannada also says that most of the mantras sung as Sama are found in the Rigveda; English omits this and says Rik and Sama mantras are woven in the Yajurveda	Add the sentence?	An omission is not added	English kept unchanged; omission not added
+481	Duplicated material	English p.481 repeats lists that Kannada gives on pp.483-484 (hetu etc. and mantra examples)	Remove the repeat?	Page shift in the English file, not a Kannada difference	English kept
