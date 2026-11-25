@@ -42944,6 +42944,271 @@ The Khila mantras to be recited at the end of this sūkta:
 
 The sūkta beginning मही (*mahī*) is a group of three Ṛks, the thirty-fourth sūkta. It is the work (seer) of Satyadhṛti, son of Varuṇa, in the Gāyatrī metre, and its deity is Āditya. Sāyaṇa cites the Anukramaṇī: महि (*mahi*), seer Satyadhṛti Vāruṇi, deity Āditya, a prayer for welfare, Gāyatrī (or else the metre is different). The teacher recites this sūkta over a pupil who is going abroad out of desire for wealth.
 
+### Printed p. 1247
+
+> सूत्र्यते हि । महि त्रीणामित्यनुमंत्रैवमतिसृष्टस्य न कुतश्चिद्धयं भवतीति विज्ञायते । आ. गृ. १०-७-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa states the ritual use: it is prescribed in the Sūtra. "महि त्रीणां (*mahi trīṇāṃ*)" — having addressed him with this mantra, the pupil who has been so released (sent forth) has no fear from any quarter, so it is understood. He cites Ā. Gṛ. 10-7-8.
+
+##### Anuvāda (Kannada)
+
+This sūkta beginning "mahi" is the thirty-fourth sūkta in the twelfth anuvāka. It has three ṛks. The ṛṣi of this sūkta is Satyadhṛti, son of Varuṇa; the deity is Āditya; the metre is Gāyatrī. In the Anukramaṇikā it is stated: महि सत्यधृतिर्वारुणिरादिश्यं स्वस्त्ययनं गायत्रं वा (*mahi satyadhṛtirvāruṇirādiśyaṃ svastyayanaṃ gāyatraṃ vā*). For the welfare of a pupil who is desirous of wealth, the teacher should consecrate the pupil with this sūkta; this is explained by the Āśvalāyana Gṛhya Sūtra, महि त्रीणामित्र नुमंत्र्यॆवमतिसृष्टस्य न कुतश्चिद्धयं भवतीति विज्ञायते (*mahi trīṇāmitra numaṃtryèvamatisṛṣṭasya na kutaściddhayaṃ bhavatīti vijñāyate*) (Ā. Gṛ. 3-10-7, 8).
+
+Maṇḍala 10; Anuvāka 12; Sūkta 185. Aṣṭaka 8; Adhyāya 8; Varga 43. Number of ṛks in the sūkta: 3. Ṛṣi: Satyadhṛti Vāruṇi. Deity: Āditya (Svastyayana). Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि॑ त्री॒णामवो॑ऽस्तु द्यु॒क्षं मि॒त्रस्या॑र्य॒म्णः ।  
+> दु॒रा॒धर्षं॒ वरु॑णस्य ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । त्रीणां । अवः । अस्तु । द्युक्षं । मित्रस्य । अर्यम्नः ।  
+> दुःआधर्षं । वरुणस्य ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रीणां त्रयाणां मित्रस्यार्यन्नो वरुणस्य च द्युक्षं दीपं अत एव दुराधर्षमन्यैर्धर्षितुं बाधितुमशक्यं महि महदवो रक्षणमस्माकमस्तु । त्रीणामित्यपि
+> छंदसि दृश्यत इति वचनात् । का. ७-१-५३-१ । त्रयादेशाभावः । नामन्यतरस्यामिति
+> नाम उदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Of the three, Mitra, Aryaman and Varuṇa, may there be for us a great protection, bright (द्युक्षं (*dyukṣaṃ*) = shining) and therefore unassailable, which others cannot overcome or obstruct. त्रीणां (*trīṇāṃ*) is "of three"; the form त्रीणां (*trīṇāṃ*) is seen in the Veda, so the substitute त्रय (*traya*) does not occur. The accent of the noun is udātta.
+
+### Printed p. 1248
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रस्य (*mitrasya*)—of Mitra
+- अर्यम्मः (*aryammaḥ*)—of the god called Aryaman
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- श्रीणां (*śrīṇāṃ*)—of these three deities **NOTE**
+- द्युक्षं (*dyukṣaṃ*)—shining
+- दुराधर्षं (*durādharṣaṃ*)—impossible to be harassed by others
+- महि (*mahi*)—great
+- अवः (*avaḥ*)—protection
+- अस्तु (*astu*)—let it be ours
+
+##### भावार्थ (Bhāvārtha)
+
+May the shining, great protection of these three deities, Mitra, Aryaman and Varuṇa, which others cannot injure, be ours.
+
+##### English translation
+May the great, brilliant, unassailable protection of the three (deities), Mitra, Aryaman, and Varuna, be (granted to me).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि तेषा॑म॒मा च॒न नाध्व॑सु वार॒णेषु॑ ।  
+> ईशे॑ रि॒पुर॒घशं॑सः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । तेषां । अमा । चन । न । अध्वसु । वारणेषु ।  
+> ईशे । रिपुः । अघशंसः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमेति गृहनाम । अमा चन गृहेष्टपि तेषां वरुणमित्रार्यम्मां तदनुगृहीतानां स्तोत्थाणां वाघशंसोऽघमनर्थमाशंसमानो रिपुः शत्रुर्न हीशे । न
+> खलु हिंसितुमीष्टे ॥ लोपस्त आत्मनेपदेष्टिति तलोपः । अनुदात्तेत्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः शिष्यते ॥ तथाध्वसु मार्गेषु वारणेषु यत्र पुरुषा
+> निवार्यंते तेषु च स्थानेषु शत्रुर्निवारयितुं नेष्टे ॥
+
+##### Gist of the bhāṣya
+
+अमा (*amā*) is a name for house. Even in houses, no enemy who wishes harm (अघशंसः (*aghaśaṃsaḥ*), one who announces evil) has power over them, Varuṇa, Mitra and Aryaman, or over their worshippers whom they favour; he is not able to harm. Likewise in roads (अध्वसु (*adhvasu*)) and in वारणेषु (*vāraṇeṣu*), places where men are held back, the enemy is not able to restrain them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमा चन (*amā cana*)—in our houses also
+- तेषां (*teṣāṃ*)—of those Varuṇa, Mitra and Aryaman, or of their worshippers
+- अघशंसः (*aghaśaṃsaḥ*)—one who boasts of his own evil deed
+- रिपुः (*ripuḥ*)—the enemy
+- नहि ईशे (*nahi īśe*)—let him not be able to harm us
+- वारणेषु (*vāraṇeṣu*)—narrow
+- अध्वसु (*adhvasu*)—in roads also
+- न (*na*)—let him not harm us
+
+### Printed p. 1249
+
+##### भावार्थ (Bhāvārtha)
+
+May the treacherous enemy of Varuṇa, Mitra and Aryaman, or of the people who praise them, not trouble us in our houses. May he not harm us on narrow roads either.
+
+##### English translation
+Let not their malignant enemy have power over dwellings, or roads or enclosures.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मै॑ पु॒त्रासो॒ अदि॑तेः॒ प्र जी॒वसे॒ मर्त्या॑य ।  
+> ज्योति॒र्यच्छं॒त्यज॑स्रं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मै । पुत्रासः । अदितेः । प्र । जीवसे । मर्त्याय ।  
+> ज्योतिः । यच्छंति । अजस्रं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदितेरदीनाया देवमातुः पुत्रासः पुत्रा मित्रादयो यस्मै मर्त्याय
+> मनुष्याय स्तोत्रेजस्रमविच्छिन्नं ज्योतिस्तेजो जीवसे जीवितुं प्रयच्छंति तस्य
+> शत्रुर्नेश्वर इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The sons of Aditi, the undiminished mother of the gods, Mitra and the rest, bestow on whatever mortal, a man who praises them, unbroken light, splendour, that he may live; over him the enemy is not master. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदितेः (*aditeḥ*)—of Aditi, mother of the gods
+- पुत्रासः (*putrāsaḥ*)—the sons, Mitra and the others
+- यस्मै (*yasmai*)—for whichever
+- मर्त्याय (*martyāya*)—man who praises
+- अजस्रं (*ajasraṃ*)—unbroken
+- ज्योतिः (*jyotiḥ*)—splendour (strength)
+- जीवसे (*jīvase*)—for living
+- प्रयच्छंति (*prayacchaṃti*)—give; let the enemy not harm such a man
+
+##### भावार्थ (Bhāvārtha)
+
+For whatever praising man the sons of the goddess Aditi, the undiminished mother of the gods, Mitra and the other deities, bestow unbroken splendour, that is, strength, may the enemy not harm such a man.
+
+### Printed p. 1250
+
+##### English translation
+(Nor the enemy of) the mortal upon whom the sons of Aditi bestow the eternal light (of life) that he may live.
+
+## Sūkta 186 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वात इति तृचं पंचत्रिंशं सूक्तं वातगोत्रस्कोलस्यार्षं गायत्रं वायुदेवताकं । तथा चानुक्रांतं । वातो वातायन उलो वायव्यमिति ॥ गतो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta वात (*vāta*), a tṛca, the thirty-fifth sūkta, has as ṛṣi Ula of the Vāta family; the metre is Gāyatrī; the deity is Vāyu. So the Anukramaṇikā: वातो वातायन उलो वायव्यमिति (*vāto vātāyana ulo vāyavyamiti*). The viniyoga has already been given.
+
+##### Anuvāda (Kannada)
+
+This sūkta beginning "वातः (*vātaḥ*)" is the thirty-fifth sūkta in the twelfth anuvāka. It has three ṛks. Its ṛṣi is Ula of the Vāta family; the deity is Vāyu; the metre is Gāyatrī. In the Anukramaṇikā it is stated वातो वातायन उलो वायव्यं (*vāto vātāyana ulo vāyavyaṃ*). The viniyoga was stated earlier.
+
+Maṇḍala 10; Anuvāka 12; Sūkta 186. Aṣṭaka 8; Adhyāya 8; Varga 44. Number of ṛks in the sūkta: 3. Ṛṣi: Ula Vātāyana. Deity: Vāyu. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वात॒ आ वा॑तु भेष॒जं शं॒भु म॑यो॒भु नो॑ हृ॒दे ।  
+> प्र ण॒ आयूं॑षि तारिषत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वातः । आ । वातु । भेषजं । शंभु । मयःभु । नः । हृदे ।  
+> प्र । नः । आयूंषि । तारिषत् ॥ १ ॥
+
+### Printed p. 1251
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातो वायुर्नोऽस्माकं हृदे हृदयाय भेषजमौषधमुदकं ना वातु ।
+> आगमयतु । कीदृग्भूतं । शंभु रोगशमनस्य भावयितृ मयोभु सुखस्य च
+> भावयितृ । अपि च नोऽस्माकमायुंषि प्र तारिषत् । प्रवर्धयतु ॥
+
+##### Gist of the bhāṣya
+
+May Vāta, the wind, blow to our heart a remedy, a medicine, water. Of what kind? शंभु (*śaṃbhu*), that which brings about the calming of disease, and मयोभु (*mayobhu*), that which brings about happiness. And may he carry our lives forward, increase them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातः (*vātaḥ*)—the wind
+- नः (*naḥ*)—for us
+- हृदे (*hṛde*)—for the heart (mind), to produce happiness
+- शंभु (*śaṃbhu*)—that which calms disease
+- मयोभु (*mayobhu*)—that which is beneficial to the mind
+- भेषजं (*bheṣajaṃ*)—beneficial medicine
+- आ वातु (*ā vātu*)—let him come blowing
+- नः (*naḥ*)—our
+- आयूंषि (*āyūṃṣi*)—the measure of life, that is, spans of life
+- प्र तारिषत् (*pra tāriṣat*)—let him increase
+
+##### भावार्थ (Bhāvārtha)
+
+For the joy of our minds, may the wind come blowing to us a beneficial medicine that calms disease and gives the mind happiness, and may that wind increase our life, that is, make us live long.
+
+##### English translation
+May Vata breathe into our hearts a healing balm, bringing happiness; may he prolong our lives.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the Nirukta for this: वात आ वातु भैषज्यानि शंभु मयोभु च नो हृदयाय प्रवर्धयतु च न आयुः (*vāta ā vātu bhaiṣajyāni śaṃbhu mayobhu ca no hṛdayāya pravardhayatu ca na āyuḥ*) (Ni. 10-35). शंभु (*śaṃbhu*) means that which produces happiness for the body, that is, the remover of disease. मयोभु (*mayobhu*) means that which produces benefit for the mind, that is, joy. May the wind come blowing to us these two kinds of medicine, that is, means of happiness, for the joy of our minds, that is, blow them to us. And may he increase the span of our life.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त वा॑त पि॒तासि॑ न उ॒त भ्रातो॒त नः॒ सखा॑ ।  
+> स नो॑ जी॒वात॑वे कृधि ॥ २ ॥
+
+### Printed p. 1252
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । पात । पिता । असि । नः । उत । भ्राता । उत । नः । सखा ।  
+> सः । नः । जीवातवे । कृधि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे वात त्वं नोऽस्माकं पितासि । उत्पादको भवसि । उतापि च
+> भ्राता भवसि । उतापि च नोऽस्माकं सखा समानख्यानो पितृभूतश्च भवसि । स त्वं
+> नोऽस्माइज्वातवे जीवनहेतवे यागाय कृधि । कुरु ॥ करोतेश्चांदसो
+> विकरणस्य लुक् । श्रुशृणुप्यकृवृभ्य इति हेर्धिः ॥
+
+##### Gist of the bhāṣya
+
+O Vāta, you are our father, our begetter; you are also our brother; and you are our friend, of like renown and like a father. Such as you, make us, कृधि (*kṛdhi*) (do), for living, that is, for sacrifice as the cause of life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- वात (*vāta*)—O Vāyu, you
+- नः (*naḥ*)—to us
+- पिता असि (*pitā asi*)—are a begetting father
+- उत (*uta*)—also
+- भ्राता (*bhrātā*)—are a brother
+- उत (*uta*)—and
+- नः (*naḥ*)—to us
+- सखा (*sakhā*)—are a friend too
+- सः (*saḥ*)—such you
+- नः (*naḥ*)—us
+- जीवातवे (*jīvātave*)—for living (long)
+- कृधि (*kṛdhi*)—make (fit)
+
+##### भावार्थ (Bhāvārtha)
+
+And, O Vāyu, you are a father to us, that is, as beneficial as a begetting father. You are also brother and friend. Such as you, grant that we may live long.
+
+##### English translation
+You, Vata, are both our father and our brother and our friend; cause us to live.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒दो वा॑त ते गृ॒हे॒३॒॑ ३ मृत॑स्य नि॒धिर्हि॒तः ।  
+> ततो॑ नो देहि जी॒वसे॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अदः । वात । ते । गृहे । अमृतस्य । निधिः । हितः ।
+
 ---
 
-**Progress note:** Done through printed p. 1246. pp. 1240-1246 (batch API)
+**Progress note:** Done through printed p. 1252. pp. 1247-1252 (batch API)
