@@ -16230,6 +16230,116 @@ The ancient Pitṛs themselves once offered the Soma oblation (10-15-8). They pa
 
 When food is offered to the gods one says "स्वाहा (*svāhā*)", and when it is given to the Pitṛs "स्वधा (*svadhā*)" (10-15-3); in all rites this difference between the share of the gods and that of the Pitṛs must be kept (Śa. Brā. 4-4-2-2). They too are worshipped; there are prayers that they should hear the prayer of their followers and take their side, and should pardon the lapses that naturally occur (10-15-2, 5, 6; compare 3-55-2).
 
+### Printed p. 453
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परेयिवांसमिति षोडशर्चं चतुर्दशं सूक्तं विवस्वतः पुत्रस्य यमस्यार्षं ।
+> अंगिरसो नः पितरो नवग्वा इति षष्ठ्या अंगिरःपित्रथर्वभृगुलक्षणा लिंगोक्ता
+> देवताः ! प्रेहीत्याद्यास्तिस्रो लिंगोक्तदेवताकाः पितृदेवताका ना । अति द्रव
+> सारमेयावित्यादिकस्त्वचः सरमापुत्रौ यौ श्वानौ परलोकर्मार्गमभितः स्थितौ
+> तद्देवताकः । शिष्टा यमदेवत्याः । यमाय सोममिति त्रयोदश्याद्या अनुष्टुभः।
+> यमाय मधुमत्तममित्येषा बृहती । आदितो द्वादश त्रिष्टुभः । तथा चानुक्रांतं ।
+> परेयिवांसं षोळश यमो यामं षष्ठि लिंगोक्तदेवता पराश्च तिस्रः पित्रा वा
+> तृचः श्वभ्यां परा अनुष्टुभो बृहत्कुपांत्येति ॥ गतः सूक्तविनियोगः ॥ महापितृयज्ञे यमयागाख्या याज्या । सूत्रितं च । इमं यम प्रस्तरमा हि सीदेति द्वे
+> परेयिवांसं प्रवतो महीरनु । आ-२-१९ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa states the seer, deity, metre and use of the sūkta. The sixteen-verse fourteenth sūkta, परेयिवांसं (*pareyivāṃsaṃ*), is the ṛṣi-work of Yama, son of Vivasvat. The sixth verse, अंगिरसो नः पितरो नवग्वा (*aṃgiraso naḥ pitaro navagvā*), has as its deities the Aṅgirases, Pitṛs, Atharvans and Bhṛgus, named in the verse itself. The three verses beginning प्रेहि (*prehi*) (7–9) have as deities those named in the verse, or the Pitṛs. The verses beginning अति द्रव सारमेयौ (*ati drava sārameyau*) (10–12) have as deity the two dogs, sons of Saramā, who stand on the path to the other world. The rest are addressed to Yama. The thirteenth verse, यमाय सोमं (*yamāya somaṃ*), and those following are Anuṣṭubh; यमाय मधुमत्तमं (*yamāya madhumattamaṃ*) is a Bṛhatī; the first twelve are Triṣṭubh. He cites the Anukramaṇī to the same effect. The use of the sūkta has been given. In the Mahāpitṛyajña, in the sacrifice called Yamayāga, the verse serves as yājyā. It is prescribed in the sūtra: इमं यम प्रस्तरमा हि सीदेति द्वे परेयिवांसं प्रवतो महीरनु । (*imaṃ yama prastaramā hi sīdeti dve pareyivāṃsaṃ pravato mahīranu |*) (Ā. 2-19).
+
+##### Anuvāda (Kannada)
+
+This sūkta, परेयिवांसं (*pareyivāṃsaṃ*), is the fourteenth sūkta in the first anuvāka. It has sixteen ṛks. Its seer is Yama, son of Vivasvat. For the sixth verse, अंगिरसो नः (*aṃgiraso naḥ*), the deities are the Pitṛs, named in the verse as Aṅgiras, Pitṛ, Atharvan and Bhṛgu. For the three verses 7–9 beginning प्रेहि (*prehi*) the deities are those named in the verse, or the Pitṛs. For verses 10–12, अति द्रव सारमेयौ (*ati drava sārameyau*), the deities are the two dogs, the Sārameyas, sons of the divine bitch Saramā who is on the path of the other world. The remaining verses are addressed to Yama. The four verses from यमाय सोमं (*yamāya somaṃ*) (13–16) are in Anuṣṭubh metre; the fifteenth, यमाय मधुमत्तमं (*yamāya madhumattamaṃ*), is in Bṛhatī. The first twelve verses are in Triṣṭubh. In the Anukramaṇī it is said: परेयिवांसं षोळश यमो यामं षष्ठि लिंगोक्तदेवता पराश्चतिस्रः पित्रा वा तृचः श्वभ्यां परा अनुष्टुभो बृहत्युपांत्या (*pareyivāṃsaṃ ṣoḷaśa yamo yāmaṃ ṣaṣṭhi liṃgoktadevatā parāścatisraḥ pitrā vā tṛcaḥ śvabhyāṃ parā anuṣṭubho bṛhatyupāṃtyā*). The use of the sūkta was stated earlier. In the Yamayāga of the rite called Mahāpitṛyajña, the first ṛk of the sūkta is to be recited as yājyā mantra, as laid down in the Āśvalāyana Śrauta Sūtra: इमं यम प्रस्तरमा हि सीदेति द्वे परेयिवांसं प्रवतो महीरनु (*imaṃ yama prastaramā hi sīdeti dve pareyivāṃsaṃ pravato mahīranu*) (Ā. 2-19).
+
+##### Particulars
+
+Sūkta 14
+Maṇḍala 10; Anuvāka 1; Sūkta 14.
+Aṣṭaka 7; Adhyāya 6; Vargas 14, 15, 16.
+Number of ṛks in the sūkta: 16.
+Ṛṣi: Yama.
+Deity: 1–5, 13–16 Yama; 6 deities named in the verse; 7–9 deities named in the verse, or the Pitṛs; 10–12 the two dogs.
+Metre: 1–12 Triṣṭubh; 13, 14, 16 Anuṣṭubh; 15 Bṛhatī.
+
+### Printed p. 454
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रे॒यि॒वांसं॑ प्र॒वतो॑ म॒हीरनु॑ ब॒हुभ्यः॒ पंथा॑मनुपस्पशा॒नं ।  
+> वै॒व॒स्व॒तं सं॒गम॑नं॒ जना॑नां य॒मं राजा॑नं ह॒विषा॑  
+> दुवस्य ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परेयिवांसं । प्रवतः । महीः । अनु । बहुभ्यः । पंथां । अनुपस्पशानं ।  
+> वैवस्वतं । संगमनं । जनानां । यमं । राजानं । हविषा । दुवस्य ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीयांतरात्मन् यजमान वा त्वं राजानं पितृणां स्वामिनः यमु
+> हविषा पुरोडाशादिना दुवस्य । परिचर । कीदृशं । प्रवतः प्रकष्टकर्मवतो भूलोकवर्तिभोगसाधनं पुण्यमनुष्ठितवतः पुरुषान्महीस्तत्तद्योगोचितभूप्रदेशविशेषाननु परेयिवांसं क्रमेण मरणादूर्ध्वं प्रापितवंतं तथा बहुभ्यः स्वर्गार्थिभ्यः
+> पुण्यकृद्भ्यः पुण्यकृतार्थे पंथां स्वर्गस्योचितं मार्गमनुपस्पशानमबाधमानं ।
+> पापिन एव पुरुषान् स्वर्गमार्गबाधेन नरकं प्रापयति न तु पुण्यकृत इत्यर्थः ।
+> वैवस्वतं विवस्वतः सूर्यस्य पुत्रं जनानां पापिनां संगमनं गंतव्यस्थानरूपं ॥
+
+##### Gist of the bhāṣya
+
+"O my inner self, or O sacrificer, serve Yama, king, lord of the Pitṛs, with an oblation such as the puroḍāśa." Of what kind? प्रवतः (*pravataḥ*): men of excellent action, who on earth have performed merit that is the means of enjoyment; महीः अनु (*mahīḥ anu*): to the several regions of earth fitting to each; परेयिवांसं (*pareyivāṃsaṃ*): who has in due order led them onward after death. Likewise बहुभ्यः (*bahubhyaḥ*), for the many who desire heaven and have done meritorious acts, पंथां (*paṃthāṃ*) the fitting path to heaven, अनुपस्पशानं (*anupaspaśānaṃ*) not obstructing it. He sends to hell only sinners, by blocking their way to heaven, not the meritorious. वैवस्वतं (*vaivasvataṃ*): the son of Vivasvat, the sun; *janānāṃ saṃgamanaṃ*: the place to which sinners must go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रवतः (*pravataḥ*)—men who have performed excellent acts (O sacrificer)
+- महीः अनु (*mahīḥ anu*)—to the respective excellent regions
+- परेयिवांसं (*pareyivāṃsaṃ*)—who leads them after death
+- बहुभ्यः (*bahubhyaḥ*)—to many doers of merit
+- पंथां (*paṃthāṃ*)—the paths to heaven and so on
+- अनुपस्पशानं (*anupaspaśānaṃ*)—who provides them without harm
+- वैवस्वतं (*vaivasvataṃ*)—son of Vivasvat
+- जनानां (*janānāṃ*)—for sinners
+- संगमनं (*saṃgamanaṃ*)—who brings them to the place fit for them
+- राजानं (*rājānaṃ*)—king, lord of the Pitṛs
+- यमं (*yamaṃ*)—Yama
+- हविषा (*haviṣā*)—with oblations
+- दुवस्य (*duvasya*)—serve
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificer, serve with oblations Yama, who after death leads men who have performed excellent acts to the respective excellent regions, who provides many doers of merit with the paths to heaven and the rest without harm, the son of Vivasvat, who brings sinners to the place fit for them, and the lord of the Pitṛs.
+
+### Printed p. 455
+
+##### English translation
+Worship with oblations Yama, king (of the Pitris), son of Vivaswat, the aggregation of mankind, who conducts those who are virtuous over the earth, and opens to many the path (of heaven).
+
+##### विशेषविषयगळु (Special Topics)
+
+यमं (*yamaṃ*)—Who Yama is and what his function is, we have explained at length in the introduction to this sūkta. Yāska, explaining the word Yama, says: यमः । यमो यच्छतीति सतः । तस्यैषा भवति । (*yamaḥ | yamo yacchatīti sataḥ | tasyaiṣā bhavati |*) (Ni. 10-20). The word Yama is derived from the root यम् (*yam*), meaning to restrain, to hold in check. Yama, as guardian of the world of the Pitṛs, restrains and keeps under control the fathers and others who belong to him; hence the name. But Durgācārya, the commentator on the Nirukta, explains the word differently: यमः । यच्छति उपरमयति जीवितात् सर्वं भूतग्राममिति यमः । (*yamaḥ | yacchati uparamayati jīvitāt sarvaṃ bhūtagrāmamiti yamaḥ |*) Because he brings to an end the life of all beings on earth, that is, causes their death, he is called Yama. To give an example of a ṛk containing the word Yama, Yāska chose the present ṛk and gave its explanation:
+परेयिवांसं प्रवतो महीरनु ऎंब सूत्रदिंद (आ. २-१९) विनृतवागिरुवुदु. सूक्त—१४ मंडल—१० । अनुवाक—१ । सूक्त—१४ । अष्टक—७ । अध्याय—६ । वर्ग—१४, १५, १६ । सूक्तदल्लिरुव ऋक्संख्यॆ—१६ । ऋषिः—यमः । देवता—१-५, १३-१६. यमः । ६. लिंगोक्तदेवताः। ७-९. लिंगोक्तदेवताः पितरो पा । १०-१२. श्वानौ ॥ छंदः—१-१२. त्रिष्टुप् । १३, १४, १६. अनुष्टुप् । १५. बृहती॥ परेयिवांसं प्रवतो महीरनु बहुभ्यः पंथामनुपस्पशानं । वैवस्वतं संगमनं जनानां यमं राजानं हविषा दुवस्य ॥ (*pareyivāṃsaṃ pravato mahīranu èṃba sūtradiṃda (ā. 2-19) vinṛtavāgiruvudu. sūkta—14 maṃḍala—10 | anuvāka—1 | sūkta—14 | aṣṭaka—7 | adhyāya—6 | varga—14, 15, 16 | sūktadalliruva ṛksaṃkhyè—16 | ṛṣiḥ—yamaḥ | devatā—1-5, 13-16. yamaḥ | 6. liṃgoktadevatāḥ| 7-9. liṃgoktadevatāḥ pitaro pā | 10-12. śvānau ‖ chaṃdaḥ—1-12. triṣṭup | 13, 14, 16. anuṣṭup | 15. bṛhatī‖ pareyivāṃsaṃ pravato mahīranu bahubhyaḥ paṃthāmanupaspaśānaṃ | vaivasvataṃ saṃgamanaṃ janānāṃ yamaṃ rājānaṃ haviṣā duvasya ‖*)
+परेयिवांसं पर्यागतवंतं प्रवत उद्वर्तो निवत इति । अवतिर्गतिकर्मा । बहुभ्यः पंथानमनुपस्पाशयमानं वैवस्वतं संगमनं जनानां यमं राजानं हविषा दुवस्येति । दुवस्यती राध्योतिकर्मा ॥ (*pareyivāṃsaṃ paryāgatavaṃtaṃ pravata udvarto nivata iti | avatirgatikarmā | bahubhyaḥ paṃthānamanupaspāśayamānaṃ vaivasvataṃ saṃgamanaṃ janānāṃ yamaṃ rājānaṃ haviṣā duvasyeti | duvasyatī rādhyotikarmā ‖*) (Ni. 10-20)
+In this ṛk the seer addresses the sacrificer or his own inner self thus: O sacrificer, offer oblation to Yama and serve him. This Yama comes round about; that is, wherever beings may be, he comes there at the time of death. And since only the word प्रवतः (*pravataḥ*) is in this ṛk, the two words उद्वतः (*udvataḥ*) and निवतः (*nivataḥ*) must be supplied in connection with it.
+
+### Printed p. 456
+प्रवतः (*pravataḥ*) means men, उद्वतः (*udvataḥ*) gods, निवतः (*nivataḥ*) animals. He carries off the departed bodies of these gods, men and animals after death, according to each one's action, to bring them to the places (worlds) they are fit to attain. अनुपस्पशानं (*anupaspaśānaṃ*) means: because these beings have done such action, to give them their due fruit he brings about their death through various diseases and the like, and after death binds their departed bodies with a noose and conducts them by various paths to the excellent worlds such as heaven if they have done merit, and to places such as hell if they have done sin. संगमनं जनानां (*saṃgamanaṃ janānāṃ*) means one who, without partiality toward people, gives them fruit according to their action. Serve and honour such Yama, king, the king of the Pitṛs, with oblations and the like: this is the purport of the Nirukta explanation.
+अग्निरपि यम उच्यते । तमेता ऋचोऽनुप्रवदंति । (*agnirapi yama ucyate | tametā ṛco 'nupravadaṃti |*) (Ni. 10-20)
+In some contexts it is customary to call Agni Yama. In this matter the following ṛks make the sense plain; and so saying, as examples Yāska gives Ṛ. Saṃ. 1-66-7 and 8, सेनेव सृष्टा (*seneva sṛṣṭā*), and states their explanation also.
+परेयिवांसं (*pareyivāṃsaṃ*)—There is much difference between Yāska's explanation of this word and the commentator's. Yāska's sense is given in the Nirukta on this ṛk: there परेयिवांसं (*pareyivāṃsaṃ*) is पर्याप्तवंतं (*paryāptavaṃtaṃ*), one who fetches from all around, that is from wherever one is, and brings one there. But the commentator explains क्रमेण मरणादूर्ध्वं प्रापितवंतं (*krameṇa maraṇādūrdhvaṃ prāpitavaṃtaṃ*): one who conducts to the other world the departed spirit that goes forth from the dead body after death.
+A doubt arises here. What does it mean to take a man to the other world after he is dead? When the body itself is destroyed, whom is one taking? The answer is this: when a man or animal has died, all the actions of his body cease and the body is dissolved. It gradually merges into the five elements, earth and the rest; that is, the body, formed from the union of the five elements, at last merges and is absorbed into them. The five elements are earth, water, fire, air and ether; here they are to be taken respectively as solid substance, liquid, heat, air and space. That these five kinds of things are in the body is known to all. Skin, flesh, bone, nails and other solid substances are parts of earth. After death they join the soil and become soil.
+
+### Printed p. 457
+Liquids such as blood and saliva are parts of water; they dissolve in water. The heat (fire) that is in the body until the time of death mingles with radiance, or fire. Hence a dead body has no warmth; it is cold. After death the movement of air in inhalation and exhalation stops, and the five airs, prāṇa and the rest, merge in the air-principle, that is, the external air. That the stopping of breath is the chief sign of death is known by experience. As for ether or space, it is not a visible thing, so its merging in outer space is perceptible to no one. When all the parts of the dead body have thus merged in their respective principles, does nothing remain? It does. While the man or animal was alive, there was a conscious entity which impelled his activities and watched the working of the sense-organs of knowledge such as the eye. "Entity" here is not a sensible earthly thing. It is far subtler than earthly things, and though the body perishes, it alone does not perish. It is called the ātman. After the destruction of the earthly body a subtle other body comes to this ātman. At the outset it is called the departed-spirit body (pretaśarīra). Being very subtle, it cannot be seen with the outer eye. This subtle body has no organs of action, but it has the elements of the organs of knowledge; that is, pleasure, pain and the like are experienced. The impression (vāsanā: the subtle part) of the pleasures and pains it experienced while living on earth, and of love and hatred toward kinsmen and relatives, remains with this body. The ātman remains for some time in this departed-spirit body, that is, until the later rites performed for the dead body are completed, and then goes to another world according to its action. Then a body still subtler than the departed-spirit body is obtained. As the worlds are, so the beings living in them have bodies made of the same kind of substance. On earth, beings have bodies made of gross earthly matter. So also in heaven, hell and the rest. Since the world of heaven is made of very subtle substance, the gods, men and others who dwell there have very subtle bodies. Since the people on earth can see only gross things with their eyes, they cannot see the world of the gods or the gods, which are of subtle form. Where is the world of the gods? As said in the śruti sentence अंतर्हितो हि देवलोको मनुष्यलोकात् (*aṃtarhito hi devaloko manuṣyalokāt*) (Tai. Saṃ. 6.1-1-2), it is interwoven with this world of men, that is, mutually inherent. Although some part of heaven is in the atmosphere around us, we cannot see and know it. The electric current in subtle form flows in wires, yet it cannot be seen. In the same way, with the limbs of our gross body we can see neither the subtly formed heaven nor its dwellers.
+
+### Printed p. 458
+But the dwellers in heaven, if they wish, can see us. The sentences in the present sūkta and in some following sūktas addressed to the dead man are to be understood as addressed to the living being in the departed-spirit body obtained after death.
+प्रवतः (*pravataḥ*)—प्रकृष्टकर्मवतो भूलोकवर्तिभोगसाधनं पुण्यमनुष्ठितवत पुरुषान् (*prakṛṣṭakarmavato bhūlokavartibhogasādhanaṃ puṇyamanuṣṭhitavata puruṣān*): the commentator explains this as men who have done excellent sacrifices and other acts and have earned the merit that is the means of the enjoyments experienced on earth. That is, men who, having done meritorious good deeds, desire after death the heaven and the rest that are the fruit of those deeds. Yāska goes further in this matter and explains प्रवतः (*pravataḥ*), उद्वतः (*udvataḥ*), निवतः (*nivataḥ*) as men, gods and animals. Men are of two kinds: those who have done good deeds and those who have done sin. The world they attain is likewise different.
+बहुभ्यः पंथां अनुपस्पशानं (*bahubhyaḥ paṃthāṃ anupaspaśānaṃ*)—As said above, the paths to the other worlds are also many. That is, the path to heaven and the rest is one, the path to the worlds fit for the punishment suffered by the wicked is another. The meaning is that he conducts beings to the respective worlds by the many paths that lead to the worlds according to each one's action.
+वैवस्वतं (*vaivasvataṃ*)—The son of Vivasvat is called Vaivasvata. Vivasvat is a son of Aditi, mother of the gods. On this:
+अष्टौ पुत्रासो अदितेः । .... .... ताननुक्रमष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंतश्च भगश्च । इंद्रश्च विवस्वाग्श्वेत्येते ॥ (*aṣṭau putrāso aditeḥ | .... .... tānanukramaṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃtaśca bhagaśca | iṃdraśca vivasvāgśvetyete ‖*) (Tai. Ā. 1-13-3)
+As the Taittirīya Āraṇyaka says, Aditi has eight sons: Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bhaga, Indra and Vivasvān. **NOTE**  Here the eighth, Vivasvān, and Indra are the two twin children.
+The son of this Vivasvat is Yama. It is customary to call him king. Because Yama is lord of the world of the Pitṛs, and because it is explained that Varuṇa also is there, it is the usage to call both Yama and Varuṇa kings.
+संगमनं जनानां (*saṃgamanaṃ janānāṃ*)—Because he takes the dead beings to his own world and gathers and keeps them together there, संगमनं जनानां (*saṃgamanaṃ janānāṃ*) has the sense of one who assembles people in one place
+
 ---
 
-**Progress note:** Done through printed p. 452. pp. 447-452 (batch API)
+**Progress note:** Done through printed p. 458. pp. 453-458 (batch API)
