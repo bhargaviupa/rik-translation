@@ -39005,6 +39005,197 @@ Explaining the derivation of the word कलश (*kalaśa*), Yāska says: सो
 
 O Indra, I, impelled by you (प्रसूतः (*prasūtaḥ*)), have made for you, in a sacrifice connected with the caru (चरौ (*carau*), "in the caru, the thing to be cooked", or "accompanied by the caru"), an edible offering (भक्षं (*bhakṣaṃ*)), that is, an oblation such as the caru. Then प्रथमो मुख्यः (*prathamo mukhyaḥ*) ….
 
+### Printed p. 1137
+
+> सूरिः स्तोताहमिमं स्तोमं स्तोत्रं च त्वदर्थमुन्मृजे । उन्मार्ज्मि । संस्करोमि । उच्चारयामित्यर्थः । इदानीमिंद्रोऽंतरात्मरूपः सन् । सूक्तस्य द्रष्टारावृषी संबोध्य ब्रूते । हे विश्वामित्रजमदग्नी नां युवां प्रति दमे यज्ञगृहे
+> सुतेऽभिषुते सोमे सति सातेन संभक्तव्येन धनेन सार्धं यदि यदा यस्मिन्नालेऽहमागमं आगच्छामि तदा युवां स्तोत्रं कुरुतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The seer, the chief worshipper, says that for Indra's sake he refines (*unmṛje*, "I polish, I perfect, I utter") this stoma and stotra. Then Indra, in the form of the inner self, addresses the two seers of the hymn: "O Viśvāmitra and Jamadagni, when Soma has been pressed in your respective sacrificial houses, and I come with the wealth that is to be shared out, then offer praise."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रसूतः (*prasūtaḥ*)—I, urged by you (O Indra)
+- चरौ (*carau*)—in the sacrifice
+- भक्ष्यं अपि (*bhakṣyaṃ api*)—the oblation fit for eating
+- अकरं (*akaraṃ*)—I have prepared for you (in this sacrifice)
+- प्रथमः सूरिः (*prathamaḥ sūriḥ*)—I, the chief worshipper
+- इमं स्तोत्रं च (*imaṃ stotraṃ ca*)—this hymn of praise as well
+- उत् मृजे (*ut mṛje*)—I refine, that is, I utter (Indra's words follow)
+- विश्वामित्रजमदग्नी (*viśvāmitrajamadagnī*)—O sages Viśvāmitra and Jamadagni
+- वां (*vāṃ*)—your
+- प्रति दमे (*prati dame*)—in each separate sacrificial house
+- सुते (*sute*)—when the Soma juice has been pressed and prepared
+- सातेन (*sātena*)—together with the wealth to be given to you
+- यदि (*yadi*)—when
+- अगमं (*agamaṃ*)—I come, then praise me
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, urged by you, I have prepared for you in the sacrifice the oblation fit for eating. In this sacrifice I, the chief worshipper, utter this hymn. (Indra's words:) O sages Viśvāmitra and Jamadagni, when Soma has been pressed and made ready in your respective sacrificial houses, I shall come there bringing the wealth due to you. Then praise me.
+
+##### English translation
+Enjoined by you, I have prepared the food at the (sacrifice) about to be performed, and as chief worshipper I complete this hymn of praise. [Indra speaks:] The Soma being poured out in your respective dwellings, O Viswamitra and Jamadagni, (offer praise) when I come with (the wealth) which I am going to distribute.
+
+## Sūkta 168 (Maṇḍala 10)
+**Special Topics** (Introduction)
+The two words Vāyu and Vāta are used in the sense of the wind-deity and of the wind. But Vāyu is a deity, Vāta is the inanimate wind. Two complete hymns (Ṛ. Saṃ. 10-168 and 10-186), some portions of hymns, and about twelve hymns shared with Indra are addressed to Vāyu as deity.
+
+### Printed p. 1138
+The two words Vāta and Vāyu also occur together in a single Ṛk (6-50-12; 10-92-13). Of the two, it is Vāyu who is praised along with Indra. In the Nirukta (Ni. 7-5) Vāyu is said to be the deity of the middle region, the atmosphere, among the three separate groups of deities belonging to the three places, earth, atmosphere and heaven: अग्निः पृथिवीस्थानो वायुर्वेंद्रो वांतरिक्षस्थानः सूर्यो द्युस्थानः ॥ (*agniḥ pṛthivīsthāno vāyurveṃdro vāṃtarikṣasthānaḥ sūryo dyusthānaḥ ‖*) That is, Agni is the deity of the earth-region; Vāyu or Indra is the deity of the atmosphere region; Sūrya is the deity of the heaven-region. And in another place of the same Nirukta:
+
+तासां वायुः प्रथमागामी भवति । वायुः । वायुर्वातेर्वेतीर्वा स्याद्दतिकर्मणः एतेरिति स्थौलाष्ठीविः अनर्थको वकारः ॥ (*tāsāṃ vāyuḥ prathamāgāmī bhavati | vāyuḥ | vāyurvātervetīrvā syāddatikarmaṇaḥ eteriti sthaulāṣṭhīviḥ anarthako vakāraḥ ‖*) (Ni. 10-1)
+
+Among the deities of the middle region Vāyu is the first. The word Vāyu is formed from the root वा-गतिगंधनयोः (*vā-gatigaṃdhanayoḥ*), meaning "to blow"; or, according to the teacher Sthaulāṣṭhīvi, from the root वेति (*veti*) indicating motion. In that case the letter va has no meaning. And of the word Vāta:
+
+वाते । वातो वातीति सतः ॥ (*vāte | vāto vātīti sataḥ ‖*) (Ni. 10-34)
+
+The word Vāta is formed from the root वा (*vā*) meaning "to blow"; because it blows, it (the wind) is called Vāta.
+
+The special qualities attributed to the two words Vāta and Vāyu are in general different. The epithets of Vāta mark especially speed and violence. There is not much evidence on the origin of Vāyu. Heaven and Earth created him for the sake of wealth (7-90-3). Though the name of Vāyu's wife is not stated, Vāyu is said to be the son-in-law of Tvaṣṭṛ (8-26-21, 22). In the Puruṣa Sūkta (10-90-13) Vāyu is said to have arisen from the breath of the cosmic Puruṣa. One may say that no relationship between Vāyu and the Maruts is stated. Only in one place (1-134-4) is it said that Vāyu produced the Maruts from the womb of the atmosphere, and that they and the Viśvedevas followed Vāyu.
+
+The qualities or characteristics of Vāyu are indistinct. He is of shining form (1-2-1), thousand-eyed, and with the speed of mind, together with Indra, he touched the sky (1-23-2, 3). Vāyu's chariot shines; it has a pair of brown or red horses. Vāyu's horses are called Niyutas (Ni. 2-28). In Vāyu's team of horses there are 99 (4-48-4) or a hundred, a thousand
+
+### Printed p. 1139
+horses (4-46-3). His horses yoke themselves to the chariot at his mere wish (are "yoked"); hence they got the name Niyutaḥ. When he sits in the chariot Indra is his companion (4-46-2; 4-48-2; 7-91-5). The chariot has a golden seat. That chariot touches the sky (4-46-4). Like the other deities he too loves the Soma juice. He is entreated to come with his horses and with Indra and to drink Soma before all others (1-135-4 **NOTE**). In the Aitareya Brāhmaṇa (Ai. Brā. 2-22) there is an account that a contest arose among the gods for the first drink of the Soma juice, in which Vāyu became first and Indra second (we have explained this earlier). He is a guardian of Soma (10-85-5); he alone has the epithet śucipā, that is, drinker of pure Soma, not mixed with milk and other admixtures. In some passages both Indra and Vāyu have this epithet. Vāyu bestows fame, offspring, horses, cows, gold and the like (7-90-2, 6); he scatters enemies (4-48-2); he is entreated to protect the weak (1-134-5).
+
+The word Vāta, another name of the wind, is formed from the root वा-गतिगंधनयोः (*vā-gatigaṃdhanayoḥ*). In the present hymn (10-168) he is described thus: crushing everything, making a great noise, raising dust, he moves through the atmosphere. He never rests even for a day. Born in the beginning, he is the friend of the waters. His birthplace is not known; he goes wherever he pleases. The sound he makes is heard by all, but no one has seen him (1-164-44). He is the breath of the gods (1-92-13). In the sacrifices oblations are offered to him.
+
+Like Rudra, Vāta (Vāyu) gives people medicines and lengthens their life. In his house is a treasure of immortality (10-186). All the deeds of the wind relate to the storm (4-17-22; 5-83-4; 10-168-1, 2). Because the wind blows strongly before the thunderbolt strikes and before sunrise, Vāyu is said to produce a red-coloured splendour (10-168-1) and to make Uṣas shine (1-134-3). The speed of Vāyu is the speed of the gods (4-17-12; 5-41-3; 9-97-55); and there are many such descriptions.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातस्येति चतुर्यचं सप्तदशं सूक्तं वातगोत्रस्यानिलाख्यस्यार्षं त्रैष्टुभं
+> वायुदेवताकं । तथा चानुक्रांतं । वातस्यानिलो वातायनो वायव्यमिति ।
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The hymn वातस्य (*vātasya*) has four Ṛks and is the seventeenth hymn; its seer is Anila of the Vāta family, its metre is Triṣṭubh, its deity Vāyu. The Anukramaṇī says: वातस्यानिलो वातायनो वायव्यमिति (*vātasyānilo vātāyano vāyavyamiti*). The viniyoga has already been stated.
+
+### Printed p. 1140
+
+##### Anuvāda
+
+This hymn वातस्य (*vātasya*) is the seventeenth hymn in the twelfth anuvāka. It has four Ṛks. The seer of this hymn is Anila of the Vāta family; the deity is Vāyu; the metre is Triṣṭubh. In the Anukramaṇī it is said: वातस्यानिलो वातायनो वायव्यं (*vātasyānilo vātāyano vāyavyaṃ*). The viniyoga has been stated earlier.
+
+Maṇḍala 10; Anuvāka 12; Sūkta 168. Aṣṭaka 8; Adhyāya 8; Varga 26. Number of Ṛks in the hymn: 4. Seer: Anila Vātāyana. Deity: Vāyu. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वात॑स्य॒ नु म॑हि॒मानं॒ रथ॑स्य रु॒जन्ने॑ति स्त॒नय॑न्न स्य॒ घोषः॑ ।  
+> दि॒वि॒स्पृग्या॑त्यरु॒णानि॑ कृ॒ण्णन्नु॒ तो ए॑ति पृथि॒व्या रे॒णुमस्य॑न् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वातस्य । नु । महिमानं । रथस्य । रुजन् । एति । स्तनयन् । अस्य । घोषः ।  
+> दिविस्पृक् । याति । अरुणानि । कृण्वन् । उतो इति । एति । पृथिव्या । रेणुं ।  
+> अस्यन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातस्य वायो रथस्य रंहणशीलस्य महिमानं माहात्म्यं नु क्षिप्रं प्रब्रवीमि । अस्य वायोर्घोषः शब्दः स्तनयन् गिरिगह्वरादिषु विविधं शब्दमुत्पादयन्
+> रुजन् सर्वं स्थावरजंगमजातं भंजन्नेति । गच्छति । स च वायुर्दिविस्पृग्दिवमाकाशं स्पृशन् व्याप्प्नुवन्नरुणान्यरुणवर्णानि विकृतरूपाणि दिगंतराणि कृण्णन्नुर्वन्याति ।
+> प्राप्पोति । उतो अपि च पृथिव्या भूमे रेणुं पांसुमस्यन् गृहीत्वा सर्वत्र
+> विक्षिपन्नेति । गच्छति । अत एवारुणानि कृण्णन्नित्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+"I quickly proclaim the greatness of Vāta, Vāyu, the swift chariot. The voice, the sound, of this Vāyu goes thundering, producing manifold noise in mountains and caves, breaking all things moving and unmoving. And that Vāyu, touching the sky, making the quarters red-coloured and changed in form, goes forward. And taking up the dust of the earth he goes scattering it everywhere; hence it is said अरुणानि कृण्वन् (*aruṇāni kṛṇvan*)."
+
+### Printed p. 1141
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातस्य (*vātasya*)—of Vāyu
+- रथस्य (*rathasya*)—of the chariot
+- महिमानं (*mahimānaṃ*)—the greatness
+- नु (*nu*)—quickly I proclaim
+- अस्य (*asya*)—of this Vāyu
+- घोषः (*ghoṣaḥ*)—the sound
+- स्तनयन् (*stanayan*)—roaring in mountains, caves and the like
+- रुजन् (*rujan*)—breaking things moving and unmoving
+- एति (*eti*)—goes (that Vāyu)
+- दिविस्पृक् (*divispṛk*)—touching the lofty sky
+- अरुणानि (*aruṇāni*)—the quarters, as if red
+- कृण्वन् (*kṛṇvan*)—making
+- याति (*yāti*)—advances
+- उतो (*uto*)—and
+- पृथिव्याः (*pṛthivyāḥ*)—on the earth
+- रेणुं (*reṇuṃ*)—the dust
+- अस्यन् (*asyan*)—throwing up all around
+- एति (*eti*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+I quickly proclaim the greatness of Vāyu's chariot. The sound of this Vāyu goes roaring in mountains, caves and other regions, crushing to powder whatever it meets. And that Vāyu advances touching the lofty sky and making all the quarters red-coloured. Besides, he goes scattering around the dust that lies on the earth.
+
+##### English translation
+(I proclaim) the greatness of the impetuous Vayu; his voice spreads thundering around; he moves along sweeping the sky, tinting purple (the quarters of the horizon), he advances, raising the dust of the earth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं प्रेर॑ते॒ अनु॒ वात॑स्य वि॒ष्ठा ऐनं॑ गच्छंति॒ सम॑नं॒ न योषाः॑।  
+> ताभिः॑ स॒युक्स॒रथं॑ दे॒व ई॑यते॒ऽस्य विश्व॑स्य॒ भुव॑नस्य॒ राजा॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । प्र । ईरते । अनु । वातस्य । विस्थाः । आ । एनं । गच्छंति । समनं । न । योषाः।  
+> ताभिः । सयुक् । सरथं । देवः । ईयते । अस्य । विश्वस्य । भुवनस्य । राजा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विष्ठा विशेषेणावस्थिताः पर्वताद्या वातस्य वायोरनुगुणं सं प्रेरते ।
+
+##### Gist of the bhāṣya
+
+The things that stand firm, mountains and the like, move together in accordance with Vāta, Vāyu;
+
+### Printed p. 1142
+
+> संप्रगच्छंति । यदभिमुखो वायुर्वर्तते तदभिमुखाः प्रकंपंत इत्यर्थः । समनं
+> न संग्राममिनैनं वायुं योषा अश्वयोषितो वडवा आ गच्छंति । ताभिर्वडवाभिः
+> सयुक् स्वयमेव युज्यमानं सरथं समानमेकं रथमारुह्य देवो दीप्यमानो
+> वायुरीयते । गच्छति ॥ ईज् गत् ॥ आस्य विश्वस्य सर्वस्य भुवनस्य द्वितीयविकारभाजो
+> भूतजातस्य राजा स्वामी भवति । यद्वा! समनं धृष्टं पुरुषं योषाः कामिन्य
+> इव एवं वायुं तरुगुल्मादिरूपाः स्त्रियोऽभिगच्छंति । ताभिः सरथं सहरथं देव
+> ईयत इति ॥
+
+##### Gist of the bhāṣya
+
+that is, they tremble facing the direction in which Vāyu moves. As in a battle, the mares, the female horses, come to this Vāyu. Yoked of themselves to those mares, mounting the common single chariot, the shining Vāyu goes (ईयते (*īyate*) means "goes"). He is the king, the lord, of this whole world, of the creatures subject to the second modification. Or else: as women desirous come to a bold man, so the women in the form of trees, shrubs and the like come to Vāyu; with them, on the same chariot, the god goes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विष्ठाः (*viṣṭhāḥ*)—trees and the like standing firmly in a special way
+- वातस्य (*vātasya*)—following the course of Vāyu
+- संप्रेरते (*saṃprerate*)—tremble
+- समनं न (*samanaṃ na*)—like a battle
+- एनं (*enaṃ*)—this Vāyu
+- योषाः (*yoṣāḥ*)—mares
+- आ गच्छंति (*ā gacchaṃti*)—approach
+- ताभिः (*tābhiḥ*)—with those horses
+- सरथं (*sarathaṃ*)—together with the chariot, that is, mounting the chariot (yoked of itself)
+- देवः (*devaḥ*)—shining
+- वायुः (*vāyuḥ*)—Vāyu
+- ईयते (*īyate*)—moves
+- अस्य विश्वस्य (*asya viśvasya*)—of this whole
+- भुवनस्य (*bhuvanasya*)—world
+- राजा (*rājā*)—he is lord
+- [Or: समनं (*samanaṃ*)—as women desire a sturdy man; एनं (*enaṃ*)—this Vāyu; योषाः (*yoṣāḥ*)—trees, creepers and the like; आ गच्छंति (*ā gacchaṃti*)—welcome]
+- ताभिः (*tābhiḥ*)—together with those trees and creepers
+- सरथं (*sarathaṃ*)—seated in the chariot, Vāyu
+- ईयते (*īyate*)—moves
+
+##### भावार्थ (Bhāvārtha)
+
+Trees and the like standing firm tremble following the course of Vāyu; that is, as the wind blows, the trees sway. As horses hasten eagerly to a battlefield, so his horses approach this Vāyu. Mounting the chariot to which the horses yoke themselves, this shining Vāyu moves, and is lord of the whole world. Or else, as a woman desires a sturdy man, trees, creepers and the like welcome this Vāyu; and seated in the chariot Vāyu moves among the trees and creepers.
+
 ---
 
-**Progress note:** Done through printed p. 1136. pp. 1131-1136 (batch API)
+**Progress note:** Done through printed p. 1142. pp. 1137-1142 (batch API)
