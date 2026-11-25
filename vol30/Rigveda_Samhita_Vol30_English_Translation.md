@@ -43209,6 +43209,285 @@ You, Vata, are both our father and our brother and our friend; cause us to live.
 
 > यत् । अदः । वात । ते । गृहे । अमृतस्य । निधिः । हितः ।
 
+### Printed p. 1253
+
+> ततः । नः । देहि । जीवसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वात वायो ते तव गृहे स्थाने यददो योऽसावमृतस्यामरणस्य
+> निधिर्निक्षेपो हितः स्थापितो वर्तते ततस्तस्मान्निधेराहृत्यामृतत्वं जीवसे नोऽस्माकं
+> जीवनाय देहि । प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Vāta, in your house, in your abode, there is placed a store of ambrosia (the deathless); from that store bring it and give it to us for our living, that is, bestow it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वात (*vāta*)—O Vāyu
+- ते (*te*)—your
+- गृहे (*gṛhe*)—in the dwelling-place
+- यत् आदः (*yat ādaḥ*)—which this
+- अमृतस्य (*amṛtasya*)—of ambrosia (that which prevents death)
+- निधिः (*nidhiḥ*)—the store
+- हितः (*hitaḥ*)—is placed
+- ततः (*tataḥ*)—from that store of ambrosia, bringing a little portion
+- जीवसे (*jīvase*)—in order to live for a long time
+- नः (*naḥ*)—to us
+- देहि (*dehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, in whatever store of ambrosia is in your house, that is, in the heavenly world that is your dwelling-place, bring a little portion of that ambrosia and give it to us, so that we may live for a long time.
+
+##### English translation
+That store of ambrosia, Vata, which is placed in your house, give us of it that we may live.
+
+## Sūkta 187 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्राग्नय इति पंचर्चं षट्त्रिंशं सूक्तं । अग्नेः पुत्रस्य वत्सस्यार्षं गायत्रमाग्नेयं । तथा चानुक्रांतं । प्राग्नये पंचाग्नेयो वत्स आग्नेयं त्विति ॥
+> प्रातरनुवाकाश्विनशस्त्रयोगायत्रे छंदसीदमादिके द्वे सूक्ते । सूत्र्यते हि ।
+> प्राग्नये वाचमिति सूक्ते इमां मे अग्ने समिधं । आ. ४-१३ । इति ॥ दशरात्रस्य
+> नवमेऽहन्याग्निमारुत इदं जातवेदसं निविद्वानं । सूत्रितं च । मरुतो यस्य हि
+> प्राग्नये वाचमित्याग्निमारुतं । आ. ८-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning प्राग्नये (*prāgnaye*) is the thirty-sixth sūkta, of five Ṛks. Its seer is Vatsa, son of Agni; the metre is Gāyatrī; the deity is Agni. As the Anukramaṇī says: प्राग्नये पंचाग्नेयो वत्स आग्नेयं त्विति॥ (*prāgnaye paṃcāgneyo vatsa āgneyaṃ tviti‖*). Use: in the Prātaranuvāka and the Āśvina-śastra, this and the next sūkta are used for the Gāyatrī-metre portion; it is stated in the sūtra प्राग्नये वाचमिति सूक्ते इमां मे अग्ने समिधं (*prāgnaye vācamiti sūkte imāṃ me agne samidhaṃ*) (Ā. Sū. 4-13). On the ninth day of the Daśarātra, in the Āgnimāruta (śastra), it is the Nivid-hymn: मरुतो यस्य हि प्राग्नये वाचमित्याग्निमारुतं (*maruto yasya hi prāgnaye vācamityāgnimārutaṃ*) (Ā. Sū. 8-11).
+
+##### विशेषविषयगळु (Special Topics)
+
+The Kannada Anuvāda says: this hymn प्राग्नये (*prāgnaye*) is the thirty-sixth sūkta in the twelfth anuvāka. It has five Ṛks. The seer is Vatsa, son of Agni; the deity is Agni; the metre is Gāyatrī. The Anukramaṇī says: प्राग्नये पंचाग्नेयो वत्स आग्नेयं (*prāgnaye paṃcāgneyo vatsa āgneyaṃ*).
+
+### Printed p. 1254
+(The Anuvāda continues:) At the time of reciting the Prātaranuvāka and the Āśvina-śastra mantras, this hymn and the one after it are applied to the Gāyatrī-metre mantras, as explained by the Āśvalāyana-śrauta-sūtra प्राग्नये वाचमिति सूक्त इमां मे अग्ने समिधं (*prāgnaye vācamiti sūkta imāṃ me agne samidhaṃ*) (Ā. 4-13). On the ninth day of the sacrifice called Daśarātra, in the middle of the Āgnimāruta śastra mantras, this hymn is to be inserted and recited as the Nivid-hymn praising Jātavedas Agni, as explained by the Āśvalāyana-śrauta-sūtra मरुतो यस्य हि प्राग्नये वाचमित्याग्निमारुतं (*maruto yasya hi prāgnaye vācamityāgnimārutaṃ*) (Ā. 8-11).
+
+Maṇḍala 10, Anuvāka 12, Sūkta 187; Aṣṭaka 8, Adhyāya 8, Varga 45. Number of Ṛks in the sūkta: 5. Seer: Vatsa Āgneya. Deity: Agni. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्राग्नये॒ वाच॑मीरय वृष॒भाय॑ क्षिती॒नां ।  
+> स नः॑ पर्ष॒दति॒ द्विषः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अग्नये । वाचं । ईरय । वृषभाय । क्षितीनां ।  
+> सः । नः । पर्षत् । अति । द्विषः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः अग्नये स्तुतिरूपां वाचं प्रेरय । उच्चारय । कथंभूताय ।
+> क्षितीनां मनुष्याणां यजमानानां वृषभाय कामानां वर्षित्रे । किं प्रयोजनमिति चेत् । सोऽग्निर्नोऽस्मान्द्विषो द्वेष्टानति पर्षत् । अतिपारयेत् ॥
+
+##### Gist of the bhāṣya
+
+O praiser, send forth, that is, utter, a speech in the form of praise to Agni, who is the showerer of desires for the kṣitis, that is, men, the sacrificers. If asked what the purpose is: may that Agni carry us across those who hate us, that is, our enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) क्षितीनां (*kṣitīnāṃ*)—to the human sacrificers
+- वृषभायॆ (*vṛṣabhāyè*)—who showers desired objects
+- अग्नये (*agnaye*)—addressing Agni
+- वाचं (*vācaṃ*)—speech in the form of praise
+- प्र ईरय (*pra īraya*)—utter
+
+### Printed p. 1255
+- सः (*saḥ*)—that Agni
+- नः (*naḥ*)—us
+- द्विषः (*dviṣaḥ*)—from our enemies (or from the affliction of our enemies)
+- अति पर्षत् (*ati parṣat*)—may he carry across
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, utter a speech in the form of praise for Agni, the granter of desires to human sacrificers. May that Agni carry us across our enemies and protect us.
+
+##### English translation
+Raise the hymn to Agni, the benefactor of mankind; may he bear us (safe) beyond (the reach of) those who hate us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते ।  
+> स नः॑ पर्ष॒दति॒ द्विषः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । परस्याः । परावतः । तिरः । धन्व । अतिरोचते ।  
+> सः। नः । पर्षत् । अति । द्विषः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निः परस्याः परावतोऽतिशयिताद्दूरदेशात्तिरः । प्राप्तनामैतत् ।
+> प्राप्तसंबंधं धन्व मरुभूमिं जलवर्जितं देशमतिरोचते अतिक्रम्य प्रज्वलति ।
+> यद्वा । धन्वांतरिक्षं । धन्वांतरिक्षं तिरस्तिर्यगतिरोचते भृशं प्रकाशयते ।
+> गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+The Agni who from the farthest, most distant region shines beyond the dhanva, the desert, a waterless country, which he has reached (तिरः (*tiraḥ*) here is a word meaning "reached", connected with what is reached). Or else: धन्वांतरिक्षं (*dhanvāṃtarikṣaṃ*), dhanva is the atmosphere; तिरः (*tiraḥ*) means "across", and he shines exceedingly. The rest is as already explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- परस्याः परावतः (*parasyāḥ parāvataḥ*)—from the very distant region
+- तिरः (*tiraḥ*)—spread out
+- धन्व (*dhanva*)—the desert region
+- अतिरोचते (*atirocate*)—shines, passing beyond [or धन्व (*dhanva*)—in the atmospheric region; तिरः (*tiraḥ*)—pervading; अतिरोचते (*atirocate*)—shines exceedingly]
+- सः (*saḥ*)—that Agni
+- नः (*naḥ*)—us
+- द्विषः (*dviṣaḥ*)—from the side of enemies
+- अति पर्षत् (*ati parṣat*)—may he carry across
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who shines pervading the desert spread over the very distant region, or the atmospheric region—may that Agni deliver us from the side of our enemies.
+
+### Printed p. 1256
+
+##### English translation
+May (Agni), who from a great distance shines fiercely upon the desert tract that he has attained, bear us (safe) beyond (the reach of) those who hate us.
+
+##### विशेषविषयगळु (Special Topics)
+
+The word dhanva also has the name "atmosphere". Yāska says: धन्वांतरिक्षं धन्वंत्यस्मादापः । तिरो धन्वानि रोचते इत्यपि निगमो भवति । (*dhanvāṃtarikṣaṃ dhanvaṃtyasmādāpaḥ | tiro dhanvāni rocate ityapi nigamo bhavati |*) (Ni. 5-3). Because the waters flow from the atmosphere toward the earth in the form of rain, the word dhanva has the meaning atmosphere. In this matter the Vedic text तिरो धन्वानि रोचते (*tiro dhanvāni rocate*) is the example.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो रक्षां॑सि नि॒जूर्व॑ति॒ वृषा॑ शु॒क्रेण॑ शो॒चिषा॑ ।  
+> स नः॑ पर्ष॒दति॒ द्विषः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । रक्षांसि । निजूर्वति । वृषा । शुक्रेण । शोचिषा ।  
+> सः । नः । पर्षत् । अति । द्विषः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा वर्षिता योऽग्निः शुक्रेण निर्मलेन शुभ्रवर्णेन वा शोचिषा तेजसा
+> रक्षांसि यज्ञस्य हंतृणि निजूर्वति निहिनस्ति । जुर्वी हिंसार्थः । गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+The Agni who is the showerer, with his pure or white-coloured radiance, that is, brilliance, destroys the Rakṣases, the slayers of the sacrifice; निजूर्वति (*nijūrvati*) means "strikes down"; the root जुर्वी (*jurvī*) has the sense of injury. The rest is as already explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the granter of desires
+- यः (*yaḥ*)—which Agni
+- शुक्रेण (*śukreṇa*)—of white colour
+- शोचिषा (*śociṣā*)—with brilliance
+- रक्षांसि (*rakṣāṃsi*)—the demons who are obstructers of the sacrifice
+- निजूर्वति (*nijūrvati*)—injures
+- सः (*saḥ*)—such Agni
+- नः (*naḥ*)—us
+- द्विषः (*dviṣaḥ*)—from the power of our enemies
+- अति पर्षत् (*ati parṣat*)—may he deliver
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni, granter of desires, who with his pure brilliance injures the demons who obstruct the sacrifice—may such an Agni deliver us from our enemies.
+
+### Printed p. 1257
+
+##### English translation
+May (Agni), the showerer of benefits, who, with his pure radiance destroys the Rakshsas, bear us (safe) beyond (the reach of) those who hate us.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति ।  
+> स नः॑ पर्ष॒दति॒ द्विषः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । विश्वा । अभि । विपश्यति । भुवना । सं । च । पश्यति ।  
+> सः । नः । पर्षत् । अति । द्विषः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निः सूर्यरूपेण विश्वा विश्वानि सर्वाणि भूतजातान्यभिमुखं विपश्यति
+> विशेषेण तेजसा प्रेक्षते । प्रकाशयतीत्यर्थः । भुवना भुवनानि भूतजातानि सं पश्यति
+> च सम्यग्ज्ञानाति च । अन्यत्सिद्धं ॥
+
+##### Gist of the bhāṣya
+
+The Agni who, in the form of the sun, looks upon all beings (विश्वा (*viśvā*) = all) face to face, sees them distinctively with his brilliance, that is, illumines them; and who sees the bhuvanas, the beings, well, that is, knows them rightly. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni (in the form of the sun)
+- विश्वानि (*viśvāni*)—all beings (living creatures), with his light
+- अभि (*abhi*)—face to face
+- विपश्यति (*vipaśyati*)—sees, that is, illumines
+- भुवना (*bhuvanā*)—the living creatures
+- सं पश्यति च (*saṃ paśyati ca*)—and knows well
+- सः (*saḥ*)—such Agni
+- नः (*naḥ*)—us
+- द्विषः (*dviṣaḥ*)—from enemies who hate
+- अति पर्षत् (*ati parṣat*)—may he deliver
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who, in the form of the sun, can see and know all beings, that is, living creatures—may such an Agni deliver us from our enemies.
+
+##### English translation
+That Agni who in the form of sun sees directly i.e. shines brightly and understands all the living beings bears us (safe) beyond (the reach of) those who hate us.
+
+### Printed p. 1258
+
+##### विशेषविषयगळु (Special Topics)
+
+It was explained earlier that Agni is renowned in three forms: as terrestrial fire on earth, as lightning (vaidyuta fire) in the atmosphere, and as the sun in heaven. In the first three Ṛks of this sūkta terrestrial Agni is praised, in this Ṛk the Āditya, and in the next Ṛk the lightning-fire.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत ।  
+> स नः॑ पर्ष॒दति॒ द्विषः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अस्य । पारे । रजसः । शुक्रः । अग्निः । अजायत ।  
+> सः । नः । पर्षत् । अति । द्विषः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य रजसो लोकस्यांतरिक्षस्य पार उपरिदेशे शुक्रः शुभ्रवर्णो योऽग्निर्विद्युदात्मना सूर्यात्मना वाजायत प्रादुर्भवति स नोऽस्मान्द्विषो द्वेष्टानति
+> पर्षत् । अतिपारयतु ॥
+
+##### Gist of the bhāṣya
+
+On the farther side, in the upper region, of this rajas, this world, the atmosphere, the white-coloured Agni is born, that is, appears, as lightning or as the sun; may he carry us across those who hate us, our enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य रजसः (*asya rajasaḥ*)—of this atmospheric world
+- पारे (*pāre*)—in the very high region
+- शुक्रः (*śukraḥ*)—white-coloured
+- यः अग्निः (*yaḥ agniḥ*)—which lightning-fire
+- अजायत (*ajāyata*)—is born
+- सः (*saḥ*)—that Agni
+- नः (*naḥ*)—us
+- द्विषः (*dviṣaḥ*)—from the side of enemies
+- अति पर्षत् (*ati parṣat*)—may he deliver
+
+##### भावार्थ (Bhāvārtha)
+
+The lightning-fire that appears with white colour in the very high region of this atmospheric world—may that Agni deliver us from our enemies.
+
+##### English translation
+That Agni who in the form of sun or lightening rises brightly in the far-off regions bears us (safe) beyond (the reach of) those who hate us.
+
 ---
 
-**Progress note:** Done through printed p. 1252. pp. 1247-1252 (batch API)
+**Progress note:** Done through printed p. 1258. pp. 1253-1258 (batch API)
