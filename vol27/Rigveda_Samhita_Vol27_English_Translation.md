@@ -20738,6 +20738,210 @@ Many such precautionary measures and customs are still found among forest people
 > यथाहा॑न्यनुपू॒र्वं भवं॑ति॒ यथ॑ ऋ॒तव॑ ऋ॒तुभि॒र्यंति॑  ॒
 > साधु ।
 
+### Printed p. 605
+
+> यथा न पूर्वमपरो जहात्येवा धातरायूंषि कल्पय्यैषां ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । अहानि । अनुपूर्वं । भवंति । यथा । ऋतवः । ऋतुभिः । यंति । साधु ।  
+> यथा । न । पूर्वं । अपरः । जहाति । एव । धातः । आयूंषि । कल्पय । एषां ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा येन प्रकारेणाहान्यहोरात्रात्मकानि दिनान्यनुपूर्वं पूर्वंपूर्वमनुक्रमेण भवंति परिवर्तंते । यथा चर्तवो वसंतादय ऋतुभिः सह
+> साधु शोभनमविपर्यासेन यंति गच्छंति । यथा च पूर्वं पूर्वकालीनं
+> पितरमपरोऽर्वाक्कालीनः पुत्रो न जहाति न परित्यजति पूर्वमरणेन ॥ एवैवं
+> तेनैवोक्तप्रकारेण हे धातः सर्वॆषां धारयितरेतन्नामक देव विषामस्मत्कुलीनानां जीवानामायूंषि जीवनानि कल्पय । समर्थय ! कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: just as the days, consisting of day and night, come one after another in succession and revolve; just as the seasons, spring and the rest, move well and without disorder together with the other seasons; and just as the later-born son does not abandon his earlier-born father by dying before him; even so, O Dhātṛ, sustainer of all, grant (कल्पय (*kalpaya*)) the life-spans of these people of our family, that is, make them fit and complete.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धातः (*dhātaḥ*)—O Creator
+- यथा (*yathā*)—in what manner
+- अहानि (*ahāni*)—the days that consist of day and night
+- अनुपूर्वं भवंति (*anupūrvaṃ bhavaṃti*)—undergo change in one and the same order
+- यथा (*yathā*)—in what manner
+- ऋतवः (*ṛtavaḥ*)—the seasons, spring and the rest
+- ऋतुभिः (*ṛtubhiḥ*)—with the other seasons
+- साधु (*sādhu*)—with excellent change
+- यंति (*yaṃti*)—move on
+- यथा (*yathā*)—in what manner
+- पूर्वं (*pūrvaṃ*)—the father of the earlier time
+- अपरः (*aparaḥ*)—the son of the later time
+- न जहाति (*na jahāti*)—does not leave but follows
+- एव (*eva*)—in the same manner
+- एषां (*eṣāṃ*)—of those living here
+- आयूषि (*āyūṣi*)—the life-spans
+- कल्पय (*kalpaya*)—fashion
+
+##### भावार्थ (Bhāvārtha)
+
+O Creator, as the days consisting of day and night change in one and the same order, as the seasons, spring and the rest, move in excellent succession with the other seasons, and as the son of a later time follows the father of an earlier time without leaving him, in the same way fashion the life-spans of those who live here.
+
+### Printed p. 606
+
+##### English translation
+As days pass along in succession; as seasons are duly followed by seasons; as the successor does not abandon his predecessor, so, Dhatri' support the lives of these (my kinsmen).
+
+##### विशेषविषयगळु (Special Topics)
+
+यथा अहानि अनुपूर्वं भवंति यथा ऋतवः ऋतुभिः यंति साधु (*yathā ahāni anupūrvaṃ bhavaṃti yathā ṛtavaḥ ṛtubhiḥ yaṃti sādhu*)—After one day passes, another day comes. The seasons likewise come in a changing order: after summer the rainy season, after the rainy season the cold season, one becoming the next. That is, time goes on unbroken and continuous. However many years we live, the change of days and seasons keeps going throughout our lifetime. This is natural.
+
+यथा पूर्वं अपरः न जहाति (*yathā pūrvaṃ aparaḥ na jahāti*)—Among the people of a family the elders are older in age, the younger ones are younger. It is natural for the very aged to die. Those still younger live long and die afterwards. This too is natural. But it is not natural that the younger, that is sons, grandsons and the like (children, grandchildren), die while the elders, that is the father and others, are still alive. That is contrary to the rule. Therefore the prayer is voiced here that, against the order of the world, sons and others may not die before their parents.
+
+एव धातः एषां आयूंषि कल्पय (*eva dhātaḥ eṣāṃ āyūṃṣi kalpaya*)—Therefore, O Dhātṛ, that is, O regulator of the universe, fashion the measure of life of each of those now living so that sons and others do not meet death before fathers and others. The seer prays to Dhātṛ, regulator of the world, to fashion the lives of all of us who are alive according to our ages, so that, against the way of the world, the younger do not die before the elders.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ रो॑ह॒तायु॑र्ज॒रसं॑ वृणा॒ना अ॑नुपू॒र्वं यत॑माना॒ यति॒  
+> ष्ठ ।  
+> इ॒ह त्वष्टा॑ सु॒जनि॑मा स॒जोषा॑ दी॒र्घमायुः॑ करति जी॒वसे॑  
+> वः ॥ ६ ॥
+
+### Printed p. 607
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । रोहत । आयुः । जरसं । वृणानाः । अनुपूर्वं । यतमानाः । यति । स्थ ।  
+> इह । त्वष्टा । सुजनिमा । सजोषाः । दीर्घं । आयुः । करति । जीवसे । वः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मृतस्य स्वजनाः पुत्रपौत्रादयः जरसं जरां वृणानाः संभजमाना
+> यूयमायुर्जीवनमा रोहत। अधितिष्ठत । अनुपूर्वमानुपूर्व्येण । अव्ययाभावः । पूर्वो जैष्ठः । जैष्ठानुपूर्वा यतमानाः प्रयत्नं कुर्वंतो
+> यूयं यति स्थ यत्संख्याका भवथ ॥ यच्छब्दाच्छांदसो डतिः ॥ सुजनिमा
+> शोभनजननस्त्वष्टैतन्नामको देवः सजोषा भवद्धिः संगतः सन्निहास्मिन्कर्मणि
+> प्रवृत्तानां वो युष्माकं जीवसे जीवनाय दीर्घं प्रभूतमायुः करति ।
+> करोतु ॥
+
+##### Gist of the bhāṣya
+
+O kinsmen of the dead man, sons, grandsons and the rest: choosing (वृणानाः (*vṛṇānāḥ*)) old age, that is, attaining it, mount (आ रोहत (*ā rohata*)) life, that is, take your stand on it. अनुपूर्वं (*anupūrvaṃ*) is "in due order" (an avyayībhāva compound): the eldest first, in order of seniority. Striving, making effort, you are यति स्थ (*yati stha*), that is, you are of whatever number you may be; the डति (*ḍati*) affix is Vedic. Tvaṣṭṛ, the god of that name, of good birth (सुजनिमा (*sujanimā*)), united with you (सजोषा (*sajoṣā*)), here in this rite, for the life of you who are engaged in it, shall make a long, abundant life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O kinsmen of the dead man) यति स्थ (*yati stha*)—however many of you there may be
+- जरसं (*jarasaṃ*)—old age
+- वृणानाः (*vṛṇānāḥ*)—until you attain
+- आयुः (*āyuḥ*)—life
+- आ रोहत (*ā rohata*)—take your stand on
+- अनुपूर्वं (*anupūrvaṃ*)—in keeping with your ages
+- यतमानाः (*yatamānāḥ*)—be engaged in rites
+- सुजनिमा (*sujanimā*)—of excellent birth
+- त्वष्टा (*tvaṣṭā*)—the god Tvaṣṭṛ
+- सजोषाः (*sajoṣāḥ*)—joining with you
+- इह (*iha*)—in this rite
+- वः (*vaḥ*)—your
+- जीवसे (*jīvase*)—for life
+- दीर्घं (*dīrghaṃ*)—long
+- आयुः (*āyuḥ*)—life-span
+- करति (*karati*)—let him make
+
+##### भावार्थ (Bhāvārtha)
+
+O kinsmen of the dead man, however many of you there are, take your stand on life until you reach old age. Be engaged in rites in keeping with your ages. May the god Tvaṣṭṛ, of excellent birth, joining with you in this rite, make a long life-span for your living.
+
+##### English translation
+(You kinsmen of the dead man), choosing c age, attain length of life, striving one after the other; how many you may be: may Twashtri, the creator of good races of men, being at one (with you), grant you (busy) at this (sacrifice), a long life.
+
+### Printed p. 608
+
+##### विशेषविषयगळु (Special Topics)
+
+The seer here explains and prays, in another way, the very matter stated in the latter half of the previous Ṛk. O kinsmen and relatives of the dead man, you,
+
+आ रोहत आयुः जरसं वृणानाः (*ā rohata āyuḥ jarasaṃ vṛṇānāḥ*)—here आयुः जरसं (*āyuḥ jarasaṃ*) means the measure of life that runs on until the body wears out. Carry on your life until then, that is, live long.
+
+अनुपूर्वं यतमानाः यति स्थ (*anupūrvaṃ yatamānāḥ yati stha*)—there is an order in living long. Among those now alive, that is, among the dead man's kinsmen, there are many, and their ages vary. Some may be sixty or seventy years old, some forty or fifty, some twenty or thirty, and some merely boys. Since ages differ thus, even if all live long according to the rule of the world, those of greater age die first, and afterwards those younger than they, having lived the length of their own span, should die. That is, first the elders, then the younger ones should die. To leave this order and for the younger to die before the elders is unnatural. Live according to the rule of the world so that this does not happen. In this matter the seer prays that the god Tvaṣṭṛ (or Tvaṣṭṛ may be understood here simply as the regulator of the universe), cooperating with you, may increase the measure of your lives so that you live a long time.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा नारी॑रविध॒वाः सु॒पत्नी॒रांज॑नेन स॒र्पिषा॒ सं वि॑शंतु ।  
+> अ॒न॒श्रवो॑ऽनमी॒नावाः सु॒रत्ना॒ आ रो॑हंतु॒ जन॑यो॒ योनि॒मग्रे॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमा । नारीः । अविधवाः । सुपत्नीः । आ अंजनेन । सर्पिषा । सं । विशंतु ।  
+> अनश्रवः । अनमीवाः । सुरत्नाः । आ । रोहंतु । जनयः । योनिं । अग्रे ॥ ७ ॥
+
+### Printed p. 609
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अविधवाः । धवः पतिः । अविगतपतिकाः । जीवद्वर्तृका इत्यर्थः । सुपत्निः
+> शोभनपतिका इमा नारीर्नार्य आंजनेन सर्वतोऽंजनसाधनेन सर्पिषा घृतेनाक्तनेत्राः सत्यः सं विशंतु । स्वगृहान्द्रविशंतु । तथानश्रवोऽश्रुवर्जिता आरुदत्योऽनमीवाः । अमीवा रोगः । तद्वर्जिताः मानसदुःखवर्जिता इत्यर्थः । सुरत्नाः शोभनधनसहिता जनयः । जनयंत्यपत्यमिति जनयो भार्याः । ता अग्रे
+> सर्वेषां प्रथमत एव योनिं गृहमा रोहंतु । आगच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+अविधवाः (*avidhavāḥ*): धवः (*dhavaḥ*) is the husband; they are women whose husbands have not departed, that is, whose husbands are alive. सुपत्निः (*supatniḥ*): having good husbands. These women, their eyes anointed all round with आंजनेन सर्पिषा (*āṃjanena sarpiṣā*) (ghee as the means of anointing), shall enter (सं विशंतु (*saṃ viśaṃtu*)) their own houses. Likewise अनश्रवः (*anaśravaḥ*), free of tears, not weeping; अनमीवाः (*anamīvāḥ*): अमीवा (*amīvā*) is disease, so free of it, that is, free of mental sorrow. सुरत्नाः (*suratnāḥ*): possessed of fine wealth. जनयः (*janayaḥ*): wives, so called because they bear offspring. Let them first of all, before everyone, ascend (आ रोहंतु (*ā rohaṃtu*)), that is, come to, the योनिं (*yoniṃ*), the house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अविधवाः (*avidhavāḥ*)—those who have the marks of wedlock
+- सुपत्निः (*supatniḥ*)—those who have excellent husbands
+- इमाः नारीः (*imāḥ nārīḥ*)—these women
+- आंजनेन (*āṃjanena*)—with collyrium
+- सर्पिषा (*sarpiṣā*)—adorning themselves with kajal
+- सं विशंतु (*saṃ viśaṃtu*)—let them enter the houses
+- अनश्रवः (*anaśravaḥ*)—without tears
+- अनमीवाः (*anamīvāḥ*)—free of disease
+- सुरत्नाः (*suratnāḥ*)—having fine ornaments
+- जनयः (*janayaḥ*)—wives
+- अग्रे (*agre*)—before all
+- योनिं (*yoniṃ*)—the house
+- आ रोहंतु (*ā rohaṃtu*)—let them enter
+
+##### भावार्थ (Bhāvārtha)
+
+Let women who have the marks of wedlock and excellent husbands adorn themselves with kajal mixed with collyrium and enter the houses. Let wives, without tears, free of disease and with fine ornaments, enter the house before all others.
+
+##### English translation
+Let these women who are not widows, who have good husbands, enter (anointed) with unguent and butter. Let women without tears, without sorrow, and decorated with jewels, first proceed to the house,
+
+##### विशेषविषयगळु (Special Topics)
+
+Up to now the seer has spoken in general of the dead man's kinsmen and friends; now in this Ṛk he takes up the women and how they should behave, and in the next Ṛk the dead man's wife.
+
+अविधवाः सुपत्नीः इमाः नारीः आंजनेन सर्पिषा सं विशंतु (*avidhavāḥ supatnīḥ imāḥ nārīḥ āṃjanena sarpiṣā saṃ viśaṃtu*)—धवः (*dhavaḥ*) means husband; विधवा (*vidhavā*) means a woman without a husband, that is, one who has lost her husband by his death.
+
+### Printed p. 610
+अविधवाः (*avidhavāḥ*) means those who are not women who have lost their husbands, that is, wives of living men. सुपत्निः (*supatniḥ*) means शोभनपतिकाः (*śobhanapatikāḥ*), those who have excellent husbands, wives of excellent men. Therefore these women, not widows and wives of excellent men, should give up grieving for this dead man who is their relative, adorn themselves with ghee and other anointing substances (kajal, black), and enter their own houses. This is the sense of the sentence. The seer speaks this sentence and the sentence in the latter half of this Ṛk to women who have followed the dead body of a relative (father, brother or other kinsman) to the burial ground and are grieving.
+
+अनश्रवः अनमीवाः सुरत्नाः जनयः योनिं अग्रे आ रोहंतु (*anaśravaḥ anamīvāḥ suratnāḥ janayaḥ yoniṃ agre ā rohaṃtu*)—Let these women stop weeping with tears, reduce the surge of sorrow in the mind, that is, restrain mental grief as far as possible, then, adorned with fine jewellery, enter their own houses before the men. That is, among the kinsmen and relatives returned from the burial ground, the women should enter the house first, and afterwards the men. This is the sense.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॑र्ष्व नार्य॒भि जी॑वलो॒कं ग॒तासु॑मे॒तमुप॑ शेष॒ एहि॑ ।  
+> ह॒स्त॒ग्रा॒भस्य॑ दिधि॒षोस्तवे॒दं पत्यु॑र्जनि॒त्वम॒भि सं ब॑भूथ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईर्ष्व । नारि । अभि । जीवलोकं । गतअसुं । एतं । उप । शेषे । आ । इहि ।  
+> हस्तग्राभस्य । दिधिषोः । तव । इदं । पत्युः । जनित्वं । अभि । सं । बभूथ ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवरादिकः प्रेतपत्नीमुदीर्घ नारीत्यनया भर्तृसकाशादुत्थापयेत् ।
+> सूत्रितं च । तामुत्थापयेद्देवरः पतिस्थानीयोंतेवासी जरद्दासो वोदीर्घ
+> नार्यभि जीवलोकं । आ. गृ- ४-२-१८ । इति ॥
+> हे नारि मृतस्य पत्नि जीवलोकं जीवानां पुत्रपौत्रादीनां लोकं
+> स्थानं गृहमभिलक्ष्योदीर्ष्व । अस्मात्सा नादुत्तिष्ठ ॥ ईर गतौ आदादिकः ॥ गता-
+
+##### Gist of the bhāṣya
+
+A brother-in-law or other such person shall raise the dead man's wife from beside her husband with this verse, *udīrgha nāri*. It is laid down in a sūtra: तामुत्थापयेद्देवरः पतिस्थानीयोंतेवासी जरद्दासो वोदीर्घ नार्यभि जीवलोकं । आ. गृ- ४-२-१८ । इति॥ (*tāmutthāpayeddevaraḥ patisthānīyoṃtevāsī jaraddāso vodīrgha nāryabhi jīvalokaṃ | ā. gṛ- 4-2-18 | iti‖*) Then: O woman, wife of the dead man, rise up (उदीर्ष्व (*udīrṣva*)) towards the जीवलोकं (*jīvalokaṃ*), the world of the living, sons, grandsons and the rest, that is, the place, the house; rise up from this place. The root ईर (*īra*) is in the sense of going, of the adādi class.
+
 ---
 
-**Progress note:** Done through printed p. 604. pp. 599-604 (batch API)
+**Progress note:** Done through printed p. 610. pp. 605-610 (batch API)
