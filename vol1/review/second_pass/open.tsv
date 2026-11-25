@@ -43,3 +43,7 @@ other	305	Kannada p.305 number row prints ೧೩ after ೧೧ ೧೧ (words 10 1
 other	306	Kannada p.306 Jata formulas print ೯ and ೮ in "೨+೩+೩+೨+೯+೩" and "೪+೫+೫+೪+೮+೫"; clearly misprints for 2 and 4; English has 2 and 4; English kept
 other	310	Scholars' names on pp. 310–311 were changed to the Kannada forms (Burnouf, Voltaire, Bopp removed as not in the print; "Rorse", "Roth and Bothling", Bollensen as printed): look at these names once with a scholar
 other	305-306	Kannada prints 13 in the word-number row (p. 305) and 9 and 8 in the Jata formulas (p. 306); the reader judged these misprints and kept the English instead of applying them as printed (deviation from the numbers rule, three places)
+other	345	Kannada p.345 is marked NOT IN THE SUPPLIED TEXT; the English has no p.345 section (verse 1 begins at p.346); nothing read
+other	351	Kannada p.351 prints the Rgveda reference ಋ. ೧-೧೬೪-೮೬ (1-164-86), although RV 1.164 has fewer verses and the embedded English on pp.352-353 says R.V. I.164.46; English has 1-164-86 as printed; kept as printed
+other	354	Kannada p.354 prints the Chandogya reference ಛಾ. ಉ. ೭-೧೨ (7-12) where its embedded English footnote says Ch. VII. 1. 2; applied 7-12 in the English block line
+other	342	Kannada p.342 prints ಕ್ರಿ. ಪೂ. ೫೦೨ (502 BC) for the Buddhism date where the English had 500; applied 502

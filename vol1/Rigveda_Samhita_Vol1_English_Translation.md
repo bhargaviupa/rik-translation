@@ -5263,9 +5263,9 @@ That is: the four varnas were organized according to their respective qualities 
 
 ### Page 331
 
-Comparing Vedic Sanskrit with classical Sanskrit reveals considerable differences on both sides — verb-forms and noun-declensions differ significantly, though case-formation still follows one underlying method, with a more restricted range of alternate forms than classical usage typically shows (two or three variant forms for a single word being common). Verb (tiṅanta) forms differ slightly too; the Veda makes wide use of potential/subjunctive-like mood-marking, present in classical Sanskrit only in more limited, indicative-restricted form. The Veda's sandhi (euphonic combination) rules show many differences from classical practice — a few key points are examined below.
+Comparing Vedic Sanskrit with classical Sanskrit reveals considerable differences on both sides — verb-forms and noun-declensions differ significantly, in word-formation there is a certain order and discipline; in the later language the forms are fewer in number and their formation is harder: where the case-forms had two or three forms there is now only one. Some tiṅanta (finite verb) forms have disappeared altogether. The Veda has one verb-form expressing possibility (the subjunctive), which no longer exists at all; of the eight verb-forms that show only the sense of the action, without gender or number, only one is now in use. The Veda also has many varieties of sandhi. Only a few main points are examined here; further grammatical peculiarities will be discussed in detail when they occur in the mantras.
 
-**Sandhi frequently doesn't occur where classical grammar would expect it**, though it is generally applied throughout the Veda. Classical rule holds that visarga does not occur before consonant-initial words at a word-boundary — but the Veda shows many exceptions, generally where meter demands preserving a required syllable-count; sandhi is even applied mid-word in some cases where meter requires it:
+**Sandhi often does not occur even where it could** — this is usual in the Veda. Pāṇini's rule is that a short *a* following a word-final *e* or *o* is not pronounced; in writing the avagraha sign is put in its place. Such usage is rare in the Veda; ordinarily the short vowel is pronounced separately. Where the metre needs an extra syllable the *a* is pronounced; where it needs one fewer, the *a* is not pronounced and sandhi occurs:
 
 > त्वं सु॒तस्य॑ पी॒तये॑ स॒द्यो वृ॒द्धो अ॑जायथाः (1-5-6)
 >
@@ -5277,7 +5277,7 @@ Comparing Vedic Sanskrit with classical Sanskrit reveals considerable difference
 
 And also 7-1-7, 7-1-8, 7-1-9, 7-1-11, 7-1-19, and others.
 
-Classical grammar holds that no sandhi occurs where a word ending in *ī, ū,* or single-mora *ṛ* precedes a following vowel — but the Veda shows many exceptions, especially where the word "iva" follows:
+Classical grammar holds that there is no sandhi when a vowel follows dual forms ending in *ī, ū* or *e*; but the Veda has many exceptions to this, and where the word *iva* follows, sandhi is certain:
 
 > ब्रह्माणि नृपतीव जिन्वतम् । (7-104-6)
 > अन्तर्मने रोदसीव मे — (7-87-2)
@@ -5288,11 +5288,11 @@ Classical grammar holds that no sandhi occurs where a word ending in *ī, ū,* o
 
 ### Page 332
 
-In certain consonant contexts, classical rule requires a following "na" sound — but the Veda shows variant forms with na-sound or sha-sound, particularly around the particles "ena" and "ina."
+Within a single word, an *n* following *ṛ, r* or *ṣ* customarily becomes *ṇ*. In the Veda, however, the *n* becomes *ṇ* even when these sounds stand in different words of one sentence; this applies mostly to the pronoun forms "naḥ" and "ena".
 
-Vowel-lengthening for prosodic (metrical) purposes affects words like *atha, adha, pibha, śrutata, vidya, yuṣma, veda, kṛdhi, śṛṇuhi* especially often.
+A word-final *a* — sometimes *i* and *u* too — is lengthened for the sake of the metre. The words *atha, adha, piba, śṛṇuta, vidma, yuṣva, veda, kṛdhi, śṛṇuhi* are most often subject to this change.
 
-A word or two on case-forms. In the instrumental singular of nouns ending in *a*, for the sake of the metre, *enā* or *ā* stands at the end of the word: *senenā* (7-18-17), *tenā sahasyenā* (7-55-7), *enā* (7-71-4), *enā* (7-93-7), *tvā iṣite* (7-32-7), *mahitvā* (7-13-2), and so on.
+A word or two on case-forms. In the instrumental singular of nouns ending in *a*, for the sake of the metre, *enā* or *ā* stands at the end of the word: *petvenā* (7-18-17), *tenā sahasyenā* (7-55-7), *enā* (7-71-4), *enā* (7-93-7), *tvā iṣite* (7-32-7), *mahitvā* (7-13-2), and so on.
 
 In the dual of the nominative and accusative, *ā* generally stands at the end of the word; *au* is rare:
 
@@ -5320,7 +5320,7 @@ In the **neuter plural of a-stem nouns**, both "-ā" and "-āni" occur — the R
 
 > इनो अग्ने वीततमानि हव्या (7-1-18) । कृषु यदन्ना समवृक्त जंभैः (7-3-4) । पिता नो अग्ने सौभगा दिदीहि (7-3-10) । यो दैव्यानि मानुषा जनूंषि (7-4-1) — इत्यादि ।
 
-In the **Instrumental plural**, both "bhiḥ" and "aiḥ" forms occur — but the "aiḥ" form appears increasingly rarely, surviving mainly among pronominal words:
+In the **Instrumental plural**, both "ebhiḥ" and "aiḥ" occur; gradually the "ebhiḥ" form became rarer and survives only among pronouns:
 
 > पावका नः सरस्वती वाजेभिर्वाजिनीवती (1-3-10) । देवो देवेभिरागमत् (1-1-5) — इत्यादि ।
 
@@ -5332,7 +5332,7 @@ For **i-stem words**, the Instrumental singular's "-i" lengthens to "-ī." Examp
 
 > हस्त्यश्च्युती जनयंत प्रशस्युम् (7-1-1) । सुदीत्यी सूनो सहसो दिदीहि (7-1-21) । प्रावीण्न वीरो जरितारनूती (7-20-2) । तन प्रणीती हर्यश्व सूरिभिः (7-32-15) । न दुष्ट्रुती मत्र्यो विंदते वसु (7-32-21) — इत्यादि ।
 
-For the **Locative singular**, some words retain the "i"-stem, while a few show a shift to "a"-stem or "ā"-stem-style endings:
+In the **Locative singular** the *i* becomes *ā* in some places; the locative singular of the word *agni* is in some places *agnā* or *agnāyi*:
 
 > त्वं धृष्णो धृषता वीतहव्यम् (7-19-3) । युत्वायर्आ युनजते धियस्काः (7-27-1) — इत्यादि ।
 
@@ -5341,7 +5341,7 @@ For the **Locative singular**, some words retain the "i"-stem, while a few show 
 
 ### Page 334
 
-In the **Genitive singular**, the stem-vowel takes guna, with only the case-suffix attaching (e.g., *ari + as = aryaḥ*). For i-stem feminine nouns, the Nominative plural also lengthens — e.g., *bhūmyaḥ*.
+In the **Genitive singular**, the final vowel of the stem takes no guṇa, only the case-suffix being added (e.g., *ari + as = aryaḥ*). For i-stem feminine nouns, the Nominative plural also lengthens — e.g., *bhūmīḥ*.
 
 A table of variant forms found among masculine and neuter nouns:
 
@@ -5365,36 +5365,36 @@ A table of variant forms found among masculine and neuter nouns:
 
 Some words show no case-suffix at all in either declension.
 
-**Non-standard (aśrutya) suffixes:** verb-roots occasionally take non-classical suffixes, producing variant forms noted throughout. For the second-person plural imperative suffix "mas," the Veda regularly uses "masi" in its place instead — sometimes rendered simply "mas." In the Rigveda, "masi" occurs 117 times and "mas" 21 times; in the Aitareya Brahmana "masi" occurs 3 times and "mas" four times — confirming that in classical usage, the "mas" form for imperative verbs is not the established convention. Example:
+**Non-standard (aśrutya) suffixes:** verb-roots occasionally take non-classical suffixes, producing variant forms noted throughout. The first-person plural ending is "mas"; in the Veda "masi" is generally used in its place, and gradually this became rarer until only "mas" is left now. In the Rigveda, "masi" occurs 117 times and "mas" 21 times; in the Aitareya Brahmana "masi" occurs 3 times and "mas" four times ; in later Sanskrit verbs ending in "masi" are not current. Example:
 
 > मिनीमसि (1-25-1) । बोधामसि (7-21-1)
 
-For first-person singular Atmanepada verbs, "e" traditionally replaces "i" — but "śṛṇute" appears where "śṛṣṇe" would traditionally be expected instead (7-8-4; 7-26-4).
+In the third-person singular of the Ātmanepada, "e" sometimes appears in place of the usual ending "te": the form "śṛṇve" appears instead of "śṛṇute" (7-8-4; 7-26-4).
 
-The Injunctive mood, middle-voice second-person singular, shows many variant forms — often ending in "dhi" (also seen as "hi," e.g., "śaśādhi," "kṛdhi," "śrudhi" — per Panini, either "dhi" ending is correct). Forms like "śṛṇudhi" and "gṛbhi" also occur.
+In the imperative, second-person singular, many varieties of forms are found; mostly "dhi" stands at the end: "śaśādhi," "kṛdhi," "śrudhi" and so on (according to Pāṇini, "dhi" should not be added to the last two). Forms like "śṛṇudhi" and "gahi" also occur.
 
 
 ### Page 335
 
-In the middle-voice second-person plural, "dhve" and "dhvam" replace classical "dhvam" and "dhvam" variants. Imperative first-person singular forms take an extra "si" suffix — examples: kṣeṣi (7-18-2), bhakṣi (7-41-2), riṣṭi and veśi (7-16-5).
+In the second-person plural the forms "dhana" and "tana" are also used in place of "tha" and "ta". In the imperative second-person singular the ending "si" is also added — examples: kṣeṣi (7-18-2), bhakṣi (7-41-2), yakṣi and veṣi (7-16-5).
 
-Present participles occur in many varied forms; the suffix "tam" is generally used, though the Veda uses "avitane" (7-33-1) and "aśnevatane" (7-33-8) in the same sense. Among these:
+Verbal indeclinables (kṛdanta) are used in many varied forms. The suffix "tum" is still generally in use; in the Veda, in the same sense, forms such as "avitave" (7-33-1) and "anvetave" (7-33-8) are used. Besides these:
 
-- ending in "tve": haṃtve, khātve
-- ending in "se": cikṣṇase, jīvase
-- ending in "taye": pīśhitaye, ūtaye
-- ending in "dhyai": iṣadhyai, sṛṇudhyai, śucidhyai
-- ending in "mane": vitomāḥ, kartomāḥ, and similar forms — all used in the sense of an infinitive.
+- words ending in "tavai": haṃtavai, etavai;
+- words ending in "ase": cakṣase, jīvase;
+- words ending in "taye": pītaye, ūtaye;
+- words ending in "dhyai": iṣadhyai, pṛṇadhyai, śucadhyai;
+- words ending in "to": etoḥ, kartoḥ, and similar forms — all used in the sense of the bare action (infinitive).
 
-In place of forms ending in the "tvā" suffix, "tvāya" or "tvī" are also used — hantvāya, kṛtvī, pītvī, bhūtvī, etc.
+In place of forms ending in the "tvā" suffix, "tvāya" or "tvī" are also used — hatvāya, kṛtvī, prītvī, bhūtvī, etc.
 
-**Potential-mood forms** are relatively few; the negating particle "mā" often used alone, combined with root-forms and mood-neutral forms of the base, without the potential-suffix strictly attached — this "mā"-based construction is common in the Veda in the potential sense. The Veda gives such forms the technical name "Let" (imperative/prohibitive). Examples: bhavāti (7-8-6), patāti (7-25-1), tāriṣat, joṣiṣet, mādayaithe — all illustrating this prohibitive/optative-adjacent construction.
+**The subjunctive verb-form** may be said not to exist at all now. Only when the prohibitive particle "mā" is used are the past and aorist forms used without the initial *a*; this may be said to correspond to the Veda's subjunctive form. Grammarians have given this Vedic form the name "Let". Examples: bhavāti (7-8-6), patāti (7-25-1), tāriṣat, joṣiṣat, mādayyaite, gṛhyāṃtai.
 
 In classical Sanskrit, prefixes (upasargas) are used joined directly to the verb root as a matter of convention — but this rule doesn't apply strictly in the Veda:
 
 > इन्द्र त्वोकास आ वयं वज्रं घना दधीमहि । जयेम सं युधि स्पृधः ॥ (1-8-3)
 
-Here, "ādadhīmahi" and "saṃjayema" are the intended verbs — but in the first, several words come between the prefix and the root, and in the second, the prefix follows the verb root instead of preceding it:
+Here, "ādadīmahi" and "saṃjayema" are the intended verbs — but in the first, several words come between the prefix and the root, and in the second, the prefix follows the verb root instead of preceding it:
 
 > उप यामेति युवतिः सुदक्षं दोषावस्तोर्दिविष्टिषु प्रचेती । उप स्वैनमरमतिर्वसूयुः ॥ (7-1-6)
 > अव द्युग्नानि पित्र्या सृजा नोऽव यां वयं चक्रुमा तनूभिः । अव राजन्पशुतृपं न तायुं........ (7-86-5)
@@ -5431,7 +5431,7 @@ Among surviving texts of our country, the Vedas are held to be the most ancient 
 
 Scholars attempting to date the Rigveda have offered various bases for their conclusions, but none has proven definitively correct — the Rigveda's true era remains undetermined by anyone. It's worth clarifying at the outset what is and isn't actually known.
 
-Comparative-mythology scholars broadly agree the Vedas are extremely ancient. **Friedrich Schlegel** held that the Vedas offer "enlightenment upon the history of the primitive world, so dark till now." **A. Weber**, in his 1876 *History of Indian Literature*, wrote:
+As soon as the Vedas became known, the scholars of the Western countries believed them to be very ancient. **Friedrich Schlegel** held that the Vedas offer "enlightenment upon the history of the primitive world, so dark till now." **A. Weber**, in his 1876 *History of Indian Literature*, wrote:
 
 > "We are justified in regarding the literature of India as the most ancient literature of which written records on an extensive scale have been handed down to us."
 
@@ -5439,20 +5439,20 @@ Compared with all surviving world literatures, Indian literature is reasonably h
 
 From the last parts of the Ṛgveda it is known that the Aryans had settled in the Punjab; from the other Vedas, later than the Ṛgveda, that they were living in the Gangetic plain; and from the Puranas, that Brahmanism gradually spread to South India too. To occupy so wide a region, inhabited by uncivilized peoples, must have taken several centuries. Besides, what the Ṛgveda contains is not idol-worship but the worship of Nature in her many forms. Between such simple worship and the spiritual discussions of the Upanishads, and from there to the elaborate idol-worship current in our country that Megasthenes described in 300 BC, there is a great distance; each such change must have taken many centuries. Weber did not examine the matter further, nor is that needed; it is useless to examine his opinion further.
 
-**Max Müller** was the first to attempt a fixed dating, in his 1859 *History of Ancient Sanskrit Literature*, working backward from the known beginning of Buddhism as an anchor point.
+**Max Müller** was the first to attempt a fixed dating, in his 1859 *History of Ancient Sanskrit Literature*, taking as his basis known events such as Alexander's famous expedition and the beginning of Buddhism.
 
-Brahmanism (Vedic doctrine) was already well established before Buddhism arose. Buddhism developed specifically as a reaction against Vedic custom and worldview, its own texts spreading extensively in opposition to Vedic ideology...
+Brahmanism (Vedic doctrine) was already well established before Buddhism arose. Buddhism arose as a protest against the Brahmanical or Vedic religion, that is, the religion that follows the practices and conduct stated in the Vedas. By the time Buddhism arose, the Vedas and all the books connected with them must have been in full circulation...
 
 
 ### Page 338
 
 ...Or the Sutra texts, the last of the Vedic texts, may be said to belong to this time or near it; that is, they may be thought to be of about 600 to 200 BC. The Brahmanas precede the Sutras. Among the Brahmanas there are older and newer ones, and for so many Brahmanas to be composed not less than two hundred years would suffice. So: two hundred years for the Brahmanas, and before them two hundred years for the Samhita part. Thus the beginning of the Vedas may be said to be about 1000 BC. When the ṛks were composed they could not have been in book form; so for some years before this the mantras were composed and people used them freely, and afterwards they were all collected and brought into use as books. If two hundred years are added for the composition of these mantras, the beginning of the Veda may be said to be 1200 BC.
 
-Max Müller's own original dating is not considered decisive — essentially an educated guess without firm grounding, since assigning a fixed number of years to each successive textual layer (Samhita, Brahmana, Sutra) has no genuinely scientific basis; civilizational development doesn't proceed in neat, countable increments. Max Müller himself, in his later 1889 Gifford Lectures on *Physical Religion*, revisited the subject and famously admitted:
+Max Müller's own original dating is not considered decisive — essentially an educated guess without firm grounding, since to count two hundred years each for the Samhita, Brahmana and Sutra is unnatural, and two hundred years are not nearly enough for the creation of so much literature. Max Müller himself, in his later 1889 Gifford Lectures on *Physical Religion*, revisited the subject and famously admitted:
 
 > "No power on earth will ever determine [the exact date of the Vedic period]."
 
-A merely impressionistic acceptance, without genuine critical examination, isn't appropriate here — though Max Müller's rough 1200 BCE estimate is not accepted point-by-point by everyone, other scholars have arrived at broadly similar figures independently. Some scholars (**L. Von Schroeder**) dared to say that the Vedas belong to about the 15th–20th century BC; likewise **H. Jacobi**'s statement that the Vedas are earlier than 30 centuries BC raised a great uproar among scholars, who forgot on how weak a basis they had themselves fixed the 12th century BC. Jacobi based his dating on **astronomical evidence** — drawing on Jyotisha-shastra (astronomical science) to support their dating. **Ludwig**, similarly, attempted a clear determination based on solar eclipse references.
+Even while criticising in a scientific manner, a note of sentiment is seen. Max Müller's statement that the Veda belongs to 1200 BC is no conclusion based on figures; yet it is surprising that scholars gradually come to agree that the date of the Vedas is 1200 BC as he decided, and to take it as the basis of all their discussions. Some scholars (**L. Von Schroeder**) dared to say that the Vedas belong to about the 15th–20th century BC; likewise **H. Jacobi**'s statement that the Vedas are earlier than 30 centuries BC raised a great uproar among scholars, who forgot on how weak a basis they had themselves fixed the 12th century BC. Jacobi based his dating on **astronomical evidence** — drawing on Jyotisha-shastra (astronomical science) to support their dating. **Ludwig**, similarly, attempted a clear determination based on solar eclipse references.
 
 In ancient Hindu society, before undertaking any ritual action, households would consult auspicious timing and decide on marriage-dates and similar matters before beginning — and the Brahmanas and Sutras contain material related to Jyotisha-shastra (astronomy)...
 
@@ -5485,37 +5485,37 @@ If it is accepted that in 700–600 BC Aryan culture was spreading in the south,
 
 ### Page 341
 
-...gradual assimilation and cultural spread over generations seems entirely plausible, requiring its own additional span of time to account for — this is **G. Buhler's** view.
+...a country as large as this is impossible; and to conquer people who were uncivilized and quarrelling among themselves, to make them cultured and to spread their literature among them is very hard to achieve. Therefore at least twice that time is needed. This is the view of **G. Buhler**.
 
 But **Oldenberg** argued thus: 700 years is not a short time, and many changes can happen within it. Considering how much change took place in America in four hundred years, one may guess what can happen in 700 years.
 
-But American linguistic-social change and Indian conditions differ considerably — Vedic-era Aryans maintained a remarkably conservative language and ritual system across generations, treasuring even single words and half-verses of received mantras with great care.
+But the political situation of America differs greatly from that of India. In the Vedic and Puranic period the occupation of the plains of the Hindu country by the Aryans was a very difficult and slow task; they had to fight for and win every step. Besides, it is known from the Veda that the composition of the Ṛgveda took a long time; among the mantras there are new mantras and old mantras, new ṛṣis and old ṛṣis.
 
 **Bloomfield** notes that many Rigveda mantras recur repeatedly across different contexts within the text itself — showing that much of the Rigveda's material already existed in fixed, traditional form before being incorporated, later generations adapting it to their own needs.
 
-The Rigveda's mantras and those found in other Vedic texts show comparable language, style, and worship-practices with little variation — and the close relationship between Brahmana-texts and their associated shakhas suggests continuous transmission over a considerable span, not a brief one; the Samhita portions cannot simply be assigned to a later era's authorship.
+The mantras of the Ṛgveda differ in language from the other mantras; the Brāhmaṇas, Āraṇyakas and Upaniṣads differ from the Saṃhitās in many ways — in language, style, modes of worship and the civilization described. And by the time these Brāhmaṇas and the rest were composed, the four Saṃhitās were in use; moreover, the Saṃhitā portions were not understood at all by many people of that time.
 
-The Veda was never composed as a single unified "textbook" — no fixed date can be assigned to it as a whole. But systematic comparison across sources leads most historians to conclude that the Vedic corpus, and its various portions, must span several centuries — the Brahmana literature alone likely took many centuries to fully develop. Some suktas explicitly reference earlier suktas, sometimes naming their composers or patrons directly, confirming relative chronology within the text — the same method used to establish relative dating among Upanishadic teachers' lineages.
+The Vedas have not come to us in book form. Had writing been in use, the growth of the Vedas would not have needed so much time; but since everything had to be kept in memory and learned by mouth from one person to another, many centuries were needed for the whole Saṃhitā portion to come together. The Brāhmaṇas too must have taken many centuries to take full shape. Considering the many śākhās and sub-śākhās and the countless priests, it is established that all this was not possible in less than several centuries. In the same way, in the Upaniṣads too, differences of time, many generations of teachers and a tradition of centuries are understood.
 
 From all this it is known that, though the Veda developed so far, the Aryans had come only from the Punjab as far as the Gangetic plain. If so much time was needed to occupy so small a region, how many centuries must it have taken to occupy the rest of North India, go on to the south and spread Brahmanism there? Therefore, as Oldenberg said, 700 years is no long span; it may be said not to be enough at all.
 
 
 ### Page 342
 
-Max Müller, taking the spread of Buddhism (500 BC) as an anchor point, held that Vedic religion was already fully developed by then; Oldenberg and others hold that the Upanishads and early Buddhism are closely connected within a few centuries of each other, even though Buddhism explicitly rejected Vedic textual authority. There were creeds current before Buddhism which, like Buddhism, did not accept the Vedas as authority; Jainism is one of them, and it is known from reliable evidence that the founder of the Jains lived in about 750 BC. **G. Buhler** argues this is the correct starting point, and that the Veda's true age must extend considerably further back still.
+Max Müller, taking the spread of Buddhism (502 BC) as an anchor point, held that Vedic religion was already fully developed by then; Oldenberg showed that there must have been a gap of many centuries between the Upanishads and the beginning of Buddhism. There were creeds current before Buddhism which, like Buddhism, did not accept the Vedas as authority; Jainism is one of them, and it is known from reliable evidence that the founder of the Jains lived in about 750 BC. Beginning in this way, **G. Buhler** set out to prove that the Vedas are much earlier than the time now known; unfortunately he died before he could establish his theory.
 
-A genuinely remarkable piece of evidence comes from **Boghazkoi** (Hattusa): ancient artifacts discovered there by **Hugo Winckler** in 1907 CE included treaty documents from the ancient **Hittite Kingdom**. Among them, a treaty between the Hittites and the **Mitanni** kingdom, made in the **14th century BC**, survives in its concluding portion — where the two parties invoke their own deities as witnesses to the treaty. Among the named deities are **Mitra, Varuna, Indra, and Nasatya** — all recognizably Hindu deity-names. This discovery has been a matter of major scholarly significance, and its authenticity is universally accepted.
+A genuinely remarkable piece of evidence comes from **Boghazkoi** in Asia Minor: ancient artifacts discovered there by **Hugo Winckler** in 1907 CE included treaty documents from the ancient **Hittite Kingdom**. Among them, a treaty between the Hittites and the **Mitanni** kingdom, made in the **14th century BC**, survives in its concluding portion — where the two parties invoke their own deities as witnesses to the treaty. Among the named deities are **Mitra, Varuna, Indra, and Nasatya** — all recognizably Hindu deity-names. Why these names occur in this inscription became a great problem for scholars; each argued in his own way.
 
-The historian **Meyer** holds that these deities belong to a shared ancient Aryan-Iranian heritage, predating the Aryans' eventual arrival in India — the Aryans having crossed through the Mesopotamian region and spread further west before some branch eventually reached India; in his view the composition of the mantras began from about the 17th century BC. **Oldenberg** shares this view, explicitly rejecting the claim that the Vedas themselves date to this earlier (Mitanni-treaty) period.
+The historian **Meyer** holds that these deities belong to a shared ancient Aryan-Iranian heritage, predating the Aryans' eventual arrival in India — by the time the Aryans were spreading in Mesopotamia and Syria they were also spreading in India; in his view the composition of the mantras began from about the 15th century BC onwards. **Oldenberg** expresses the same opinion and says that there is not enough basis for saying that the Vedas are earlier than this.
 
-It's not strictly necessary to claim these deities belonged *exclusively* to Vedic worship even at that early date — their worship may have spread into other regions before Vedic tradition, as we know it, later arrived in India along a related cultural stream. Considering this, some scholars in the field hold that an ancient, broadly Vedic-adjacent tradition already existed and extended over a considerable period, well established in various places by about the 14th century BC, with continuous worship-practice for a long time already behind it.
+It is quite impossible to say that these deities are others than the deities of our Veda. People used to migrate from this country to foreign lands now and then; in the same way people living in India with a Vedic culture may have gone to Asia Minor and other regions. This establishes one point: about the 14th century BC the Aryans had settled in the north-western provinces and had long been engaged in the worship of deities. If it is established from the Asia Minor inscriptions that the numerals of the Hindu country were also in use in that country, our above opinion would be strengthened.
 
 **J. Hertel** argues the Veda's birthplace was not India at all, but Persia, dating its composition to the era of Zoroaster (550 BC). **G. Husing**...
 
 
 ### Page 343
 
-**Husing** went a step further and argued that Kānīta Pṛthuśravas, who occurs in the Ṛgveda, and the Scythian king Kanishka are one and the same, and that the Vedas were not yet complete even in the 2nd century BC. There is no proper basis in support of his view.
+**Husing** went a step further and argued that Kānīta Pṛthuśravas, who occurs in the Ṛgveda, and the Scythian king Kānīta are one and the same, and that the Vedas were not yet complete even in the 2nd century BC. There is no proper basis in support of his view.
 
 The very strong basis for saying that the Vedas are not older than three thousand years is the likeness — in religion, language and the like — between the Veda and the Avesta. But this likeness is easily explained in another way. If one or two facts are kept in mind it becomes very simple. First, the Indians and the Iranians belonged to one tribe, and even after separating the two were neighbours. As for the likeness in language: languages do not change according to any fixed rule; some change very fast and some very slowly. Languages connected with religion naturally change more slowly than the spoken tongue.
 
@@ -5567,9 +5567,9 @@ But it is also false that languages stay alike for thousands of years. The concl
 
 ### Opening
 
-Shri Sayanacharya was a great scholar of the Vijayanagara royal court — highly accomplished in the Vedas, Vedangas, statecraft (rajaniti), the doctrines of Purva-Mimamsa, logic (tarka-shastra), grammar, and other disciplines, and the elder-brother-scholar in tradition with Madhavacharya, renowned as a foremost authority across all the shastras, and the author of many independent works.
+Shri Sayanacharya was a great scholar of the Vijayanagara royal court — highly accomplished in the Vedas, Vedangas, statecraft (rajaniti), the doctrines of Purva-Mimamsa, logic (tarka-shastra), grammar, and other disciplines, who had an elder brother, Madhavacharya, also a court scholar of King Bukka, unrivalled in all the shastras and the author of many learned works.
 
-Recognizing his scholarly mastery, the king asked him to compose a Rigveda commentary for the benefit of the world (lokopakara). Sayana responded: "O great king, you yourself are equal to this task." But the king, though himself accomplished across the shastras, understood the sheer difficulty of Vedic exegesis and judged that undertaking it personally would take far too long — so he turned to Sayanacharya and requested that he take up the work instead.
+Seeing his scholarship, King Bukka ordered Madhavacharya to write a commentary on the Rigveda for the benefit of the world. Madhavacharya then said to King Bukka: "O great king, I have a younger brother named Sayanacharya. He is expert in all the shastras and knows everything about Vedic matters. If he is ordered to compose the commentary, he will compose it." Accordingly King Bukka summoned Sayanacharya and ordered him to compose a commentary on the Vedas.
 
 Since the Yajurveda held particular usefulness for yajna-related matters, Sayana composed its commentary first, turning to the Rigveda only afterward. Following the ancient tradition of disciples, he opened his very first verse with an auspicious invocation (mangalacharana) honoring **Ganapati**:
 
@@ -5615,11 +5615,11 @@ Having bowed to Ganapati, Sayana next bows to the Blessed Lord Ishvara — ident
 
 ### Page 347
 
-Whichever supreme deity is both the material and efficient cause of the Veda's own form, and whichever supreme soul created, from within the Veda itself, all sentient and insentient beings together with the entire universe — Sayanacharya bows to his own guru Vidyatirtha, regarding him as identical with that very deity, in bodily presence as much as in essence.
+The Supreme Lord whose breath itself takes the form of the Vedas, and who created the whole universe from the Vedas themselves — that Maheshvara, the master of all the vidyas, or our guru named Vidyatirtha, who is the very form of the Lord, I bow to.
 
-For a seeker of knowledge, Indian tradition holds the guru to be worthy of worship equal to the divine itself — "*guru reva maheśvaraḥ*" ("the guru alone is Maheshvara"), as scripture states — and a disciple should regard his guru as identical with Parameshvara (the Supreme Lord) on this basis. This is precisely why Sayanacharya, regarding his own guru Vidyatirtha as one with Ishvara, bows to him here.
+Vidyatirtha was the guru of Bharatitirtha, and Bharatitirtha was the guru of Madhavacharya; so Vidyatirtha was Madhava's paramaguru. According to the shastra saying "*guru reva maheśvaraḥ*" ("the guru alone is Maheshvara"), the disciple should regard the guru as Parameshvara himself. For these reasons, when Madhavacharya bows to Vidyatirtha-Maheshvara, he bows to both his guru and Maheshvara.
 
-The Vedas hold the Supreme to be non-dual — "*tat sat, tad vā dvaita*" (that which is Being, whether described as non-dual or dual) — as the Upanishads generally establish. Since the Vedas belong to Parameshvara alone, and since Parameshvara alone created the world and became all beings, and since this same Bhagavan is the ultimate source of all knowledge and every discipline — it follows that, in composing a Veda-commentary, the relationship between every seeker of knowledge and their guru (celebrated as the foremost authority) carries this same weight. With this understanding, Sayana performs his mangalacharana at the very opening of the text.
+The Vedas are said to be the breath of Parameshvara: an Upanishad passage says that this Rigveda, Yajurveda and Samaveda are the breath of that great Being. Hence the Vedas have come forth from the mouth of the Supreme Self in the form of breath. Moreover, Parameshvara created the world with the help of the Vedas, and this Lord is the cause of all vidyas; from him all vidyas and shastras have arisen. Therefore, at the time of composing the Veda-commentary, Madhavacharya bows to Maheshvara (the guru) renowned by the name Vidyatirtha, who is the very form of all the Vedas and the lord of all vidyas, and so begins the work after making the auspicious invocation of bowing to Ishvara and the guru.
 
 **Verse 3:**
 
@@ -5632,7 +5632,7 @@ The Vedas hold the Supreme to be non-dual — "*tat sat, tad vā dvaita*" (that 
 
 In this verse, Sayana states what occasioned this very undertaking. Through the grace of the aforementioned Vidyatirtha, King Bukka — himself born as a portion of the divine — commanded Madhavacharya to compose a commentary that would clearly explain the Vedas' meaning for the people's easy understanding.
 
-Scripture holds that protecting the citizenry according to dharma is a king's foremost duty — "protection" meaning not merely removing hardship and the fear of enemies, but ensuring citizens come to understand the essential truths of the Veda, Shastra, Purana, and Itihasa, so that, walking the path of truth, they become worthy recipients of divine grace. Such governance is impossible without divine grace itself. And "*nābhiṣvak pṛthivīpatiḥ*" — regarding Vishnu...
+Scripture holds that protecting the citizenry according to dharma is a king's foremost duty — "protection" meaning not merely removing hardship and the fear of enemies, but ensuring citizens come to understand the essential truths of the Veda, Shastra, Purana, and Itihasa, so that, walking the path of truth, they become worthy recipients of divine grace. Such governance is impossible without divine grace itself. And "*nāviṣṇuḥ pṛthivīpatiḥ*" — regarding Vishnu...
 
 ---
 
@@ -5643,7 +5643,7 @@ Scripture holds that protecting the citizenry according to dharma is a king's fo
 
 ### Page 348
 
-...the phrase "*nābhiṣvak pṛthivīpatiḥ*" ("the king who rules without partiality") is here understood to identify an impartial king as an embodiment of Vishnu himself — since protecting the world is Vishnu's own foremost task, a king who protects his citizens must be Vishnu's own portion, and no king can prosper without Ishvara's protection. King Bukka, holding this same divine favor, considered illuminating the Veda's meaning a task worthy of his position, and equal to accomplishing it.
+...the phrase "*nāviṣṇuḥ pṛthivīpatiḥ*" is a smṛti saying that one without a portion of Vishnu cannot become a king — since protecting the world is Vishnu's own foremost task, a king who protects his citizens must be Vishnu's own portion, and no king can prosper without Ishvara's protection. King Bukka, holding this same divine favor, considered illuminating the Veda's meaning a task worthy of his position, and equal to accomplishing it.
 
 **Verse 4:**
 
@@ -5665,7 +5665,7 @@ Hearing King Bukka's request, Madhavacharya addressed him: "O king, I have a you
 >
 > "Thus addressed by Madhavacharya, the valiant King Bukka commanded Sayanacharya to illuminate the meaning of the Vedas."
 
-Accordingly, King Bukka summoned Sayanacharya and commanded him to compose a Veda-commentary and make it widely known, for the world's benefit. *(Note: verses 4 and 5 are absent from the Telugu manuscript copies.)*
+Accordingly, King Bukka summoned Sayanacharya and commanded him to compose a Veda-commentary and make it widely known, for the world's benefit. *(Note: verses 4 and 5 are absent from some copies.)*
 
 **Verse 6:**
 
@@ -5693,7 +5693,7 @@ The Purva-Mimamsa and Uttara-Mimamsa are the final two of the six orthodox philo
 
 ### Page 349
 
-...the Vedanta-sutra (Brahma-sutra), known by several names, forms the basis of the Uttara-Mimamsa system, its various topics grounded specifically in the Upanishads — and it is on this same foundation that the present Veda-commentary is built. This sutra-text draws together the views of various traditional teachers and interprets other Vedantic works accordingly, and has itself become authoritative among the philosophical schools. Since these earlier Mimamsa texts support understanding the Veda's own meaning, Sayana explains that he addressed them first before undertaking the Veda-commentary itself — the great responsibility for which fell to him.
+...the Vedanta-sutra (Brahma-sutra), known by several names, forms the basis of the Uttara-Mimamsa system, its various topics grounded specifically in the Upanishads — and it is on this same foundation that the present Veda-commentary is built. This sutra-text draws together the views of various traditional teachers and interprets other Vedantic works accordingly, and has itself become authoritative among the philosophical schools. Since these Purva- and Uttara-Mimamsa, among the six darshanas, are helpful to the meaning of the Veda, Madhavacharya first wrote commentaries on them and then set about the Veda-commentary; that is, he helped his younger brother Sayanacharya in the great task of composing the Veda-commentary.
 
 **Verse 7:**
 
@@ -5706,7 +5706,7 @@ The Purva-Mimamsa and Uttara-Mimamsa are the final two of the six orthodox philo
 
 That he composed the Yajurveda commentary first, before undertaking the Rigveda's, has already been stated — but why explain the Yajurveda first, when the Rigveda is the first among the Vedas? This verse gives the answer.
 
-In yajnas, the **Adhvaryu** priest's role is primary — "*adhvaryur vā ṛtijñaṃ prabhavo yajñe*" ("the Adhvaryu is indeed the foremost knower of the sacrificial order"), as the Yajurveda itself states. An Adhvaryu cannot perform his duties without thorough knowledge of the Yajurveda. Correspondingly, the **Hotr** priest must be deeply versed in the Rigveda. Yajnas involve four principal priests — Hotr, Adhvaryu, Udgatr, and Brahma — and though many assistant priests may participate in various rites, these four remain the principal officiants. The Hotr must have mastered Rigveda study along with its Shrauta (ritual-application) portion. Yajna-mantras fall into two categories: purohita-vakya and yajya; inviting the deities and directing the fire-offering is the Hotr's chief duty. The Adhvaryu, correspondingly, must thoroughly study the Yajurveda and diligently practice its Shrauta portion...
+In yajnas, the **Adhvaryu** priest's role is primary — "*adhvaryurvā ṛtvijāṃ prathamo yujyate*" ("the Adhvaryu is indeed yoked first among the priests"), as the Yajurveda itself states. An Adhvaryu cannot perform his duties without thorough knowledge of the Yajurveda. Correspondingly, the **Hotr** priest must be deeply versed in the Rigveda. Yajnas involve four principal priests — Hotr, Adhvaryu, Udgatr, and Brahma — and though many assistant priests may participate in various rites, these four remain the principal officiants. The Hotr must have mastered Rigveda study along with its Shrauta (ritual-application) portion. Yajna-mantras fall into two categories: puronuvākyā and yajya; inviting the deities and directing the fire-offering is the Hotr's chief duty. The Adhvaryu, correspondingly, must thoroughly study the Yajurveda and diligently practice its Shrauta portion...
 
 ---
 
@@ -5725,7 +5725,7 @@ In yajnas, the **Adhvaryu** priest's role is primary — "*adhvaryur vā ṛtij�
 
 ### Page 350
 
-...the Udgatr priest, similarly essential in yajnas, must be well-versed in the Samaveda, reciting its prescribed hymns correctly during the ceremony — "*āmreḍyo vā ṛṣaḥ yajño-samā*" (without the Samaveda, the yajna cannot be completed), as the Samaveda itself states. Since even this remains incomplete without the Rigveda, the **Brahma** priest must know all four Vedas and be broadly versed in every ritual matter — overseeing the correct, sequential offering of oblations throughout the yajna, a role that stands above all the other three priests.
+...the Udgatr priest, similarly essential in yajnas, must be well-versed in the Samaveda, reciting its prescribed hymns correctly during the ceremony — "*ayajño vā eṣa yo 'sāmā*" (a yajna without Sāman-singing is no yajna), as the Yajurveda states. The **Brahma** priest must know all four Vedas and be broadly versed in every ritual matter — overseeing the correct, sequential offering of oblations throughout the yajna, a role that stands above all the other three priests.
 
 Having established this reasoning, Sayana explains: because the Adhvaryu's role is prominent, the Yajurveda commentary was needed and written first; now, because the Hotr's role likewise requires the Rigveda to be made accessible, he sets out to compose the Rigveda commentary next.
 
@@ -5855,11 +5855,11 @@ The followers of the Vajasaneyi (Shukla Yajurveda) tradition state something sim
 
 ### Page 354
 
-...this same pattern holds in the Rigveda, Yajurveda, and Samaveda alike. Each Veda has its own Brahmana portion explaining the manner of performing yajna-rites — and in supporting their own statements, these Brahmanas cite "thus it is said in the Rigveda," using the Rigveda itself as authority. This confirms that the other Vedas and their Brahmanas rely on the Rigveda. Even in the Yajurveda's own mantra-section, the mantras the Adhvaryu priest must actually recite are often not found in his own Veda at all — the Rigveda's own Riks must be recited instead. The same holds for many Samaveda mantras that are themselves drawn from the Rigveda, and a large portion of the Atharvaveda likewise consists of Rigveda verses. Since every Veda relies upon the Rigveda in this way, and all revere it accordingly, the Rigveda's foremost, most venerable position is confirmed.
+...are prescribed in the Rigveda, in the Yajurveda and in the Samaveda. But where the procedure given in the Rigveda and those given in the Yajurveda and Samaveda differ, the Rigveda procedure is the principal one and the authority; the procedures of the Yajurveda and Samaveda are not to be heeded, and the Rigveda procedure holds firm — so the Yajurveda says plainly. Each Veda has its own Brahmana portion explaining the manner of performing yajna-rites — and in supporting their own statements, these Brahmanas cite "thus it is said in the Rigveda," using the Rigveda itself as authority. This confirms that the other Vedas and their Brahmanas rely on the Rigveda. Even in the Yajurveda's own mantra-section, the mantras the Adhvaryu priest must actually recite are often not found in his own Veda at all — the Rigveda's own Riks must be recited instead. As for the Samaveda, it is known to all that all its mantras are found in the Rigveda itself, and a large portion of the Atharvaveda likewise consists of Rigveda verses. Since every Veda relies upon the Rigveda in this way, and all revere it accordingly, the Rigveda's foremost, most venerable position is confirmed.
 
 **The followers of the Chandogya tradition** recite Narada's own words to this effect:
 
-> ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथर्वणं चतुर्थमिति । (Chandogya Upanishad 7-1-2)
+> ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथर्वणं चतुर्थमिति । (Chandogya Upanishad 7-12)
 >
 > ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदम् आथर्वणं चतुर्थम् इति ।
 > *ṛgvedaṃ bhagavo'dhyemi yajurvedaṃ sāmavedam ātharvaṇaṃ caturtham iti |*
