@@ -4884,6 +4884,8 @@ The seers call Agni in many ways with śastra-mantras. When men are greatly harm
 ##### English translation
 The Rishis variously invoke Agni with hymns; men when hard pressed in battle (invoke) Agni; the birds flying in mid-heaven (invoke) Agni; Agni circumambulates thousands of cattle.
 
+### Printed p. 167
+
 #### Ṛk 6
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -6333,13 +6335,13 @@ In this context the epithet वाचस्पतिं (*vācaspatiṃ*) makes 
 
 In the present case this matter is examined on the basis of the Vedic sentences that make known these three matters. In explaining the special topics of the Ṛk चत्वारि वाक्परिमिता पदानि........ (*catvāri vākparimitā padāni........*) (Ṛ. Saṃ. 1-164-45), the divisions of speech such as noun and verb have been explained at length. भूः (*bhūḥ*)
 
-### Printed p. 238
-
 भुवः, सुवः (*bhuvaḥ, suvaḥ*): the nature of speech in the form of the vyāhṛtis has been explained there. (Ṛgveda-saṃhitā, Part 12, pp. 615-624.) There was no occasion to explain the matters now in hand in that place. Therefore, as the context requires, the above matters are examined in this section.
 
 Like Viśvakarman, who pervades the three worlds and is of the nature of the three worlds, the goddess of speech too is of the nature of the universe and has the form of the universe. It is because he is her lord that the name Vācaspati is also famous for Viśvakarman. How? —
 
 वाचा वेदा ह्यधीयंते वाचा छंदांसि तत्र ह । अथो वाक्सर्वमेवेदं तेन वाचस्पतिस्तुतः ॥ (*vācā vedā hyadhīyaṃte vācā chaṃdāṃsi tatra ha | atho vāksarvamevedaṃ tena vācaspatistutaḥ ‖*) (Bṛ. De. 2-45)
+
+### Printed p. 238
 
 It is with the help of speech that the Vedas are recited. The metres too are built upon speech. The whole universe is of the form of speech. Therefore he has the name Vācaspati. This speech itself is also called Sarasvatī.
 
@@ -7939,6 +7941,8 @@ We give some examples of mantras concerning the other deities of feeling, Śradd
 यथा देवा असुरेषु श्रद्धामुग्रेषु चक्रिरे । एवं भोजेषु यज्वस्वस्माकमुदितं कृधि ॥ (*yathā devā asureṣu śraddhāmugreṣu cakrire | evaṃ bhojeṣu yajvasvasmākamuditaṃ kṛdhi ‖*)
 
 श्रद्धां देवा यजमाना वायुगोपा उपासते । श्रद्धां हृदय्यं याकूत्या श्रद्धया विंदते वसु ॥ (*śraddhāṃ devā yajamānā vāyugopā upāsate | śraddhāṃ hṛdayyaṃ yākūtyā śraddhayā viṃdate vasu ‖*)
+
+### Printed p. 311
 
 श्रद्धां प्रातर्हवामहे श्रद्धां मध्यंदिनं परि । श्रद्धां सूर्यस्य निम्रुचि श्रद्धे श्रद्धापयेह नः ॥ (*śraddhāṃ prātarhavāmahe śraddhāṃ madhyaṃdinaṃ pari | śraddhāṃ sūryasya nimruci śraddhe śraddhāpayeha naḥ ‖*)
 
@@ -12389,6 +12393,8 @@ Here the third chapter in the eighth Aṣṭaka of the Ṛgveda-saṃhitā, toge
 शुभं भूयात् (*śubhaṃ bhūyāt*)
 
 Auspiciousness.
+
+### Printed p. 447
 
 श्री महागणाधिपतये नमः (*śrī mahāgaṇādhipataye namaḥ*)
 
@@ -27340,7 +27346,7 @@ This sūkta, beginning with महि (*mahi*), is the third sūkta in the eight
 - Devatā: विश्वे देवाः (*viśve devāḥ*)
 - Chandas: Ṛks 1, 4-8, 10, 12, 14: प्रस्तारपंक्तिः (*prastārapaṃktiḥ*); Ṛks 2, 3, 13: अनुष्टुप् (*anuṣṭup*); Ṛk 9: अक्षरैःपंक्तिः (*akṣaraiḥpaṃktiḥ*); Ṛk 11: न्युंकुसारिणी (*nyuṃkusāriṇī*); Ṛk 15: पुरस्ताद्बृहती (*purastādbṛhatī*)
 
-### Printed p. 988
+### Printed p. 987
 
 **NOTE**
 
@@ -27393,6 +27399,8 @@ O Heaven and Earth, be exceedingly great, that is, vast. Further, O great Rodas�
 ##### भावार्थ (Bhāvārtha)
 
 O Heaven and Earth, be possessed of exceeding vastness. O Heaven and Earth, of great nature, be always beneficial to us like our women. Protect us from our enemies who are possessed of strength greater than ours. Protect us from the enemies who threaten us and fall upon us.
+
+### Printed p. 988
 
 ##### English translation
 Heaven and earth, be great and spacious ; mighty Rodasi, be ever with us like wives ; with these (your protections), protect us from (the foe who is) stronger (than we), with these protect us in the might (of our enemies).
@@ -28708,6 +28716,8 @@ Sāyaṇa says that the Soma (अंशुः (*aṃśuḥ*)) will be the shower
 
 O stones, the Soma pressed by you pours out its juice for you in the sacrifice. You also will not be harmed. You who have food are always fed. O stones, in the sacrifice of whichever sacrificer you serve, you are bright and auspicious, like wealthy men endowed with splendour.
 
+### Printed p. 1019
+
 ##### English translation
 The Soma is your showerer (at the sacrifice); you are unharmed, (like those) abounding in food, you are constantly feeding; like the wealthy (possessed) of splendour, you, O stones, are beautiful (at the sacrifice of him) whose sacrifice you delighted in
 
@@ -28752,7 +28762,7 @@ Sāyaṇa says: you are free from fatigue, not loosened (अशृथिता (
 
 O stones, you are without fatigue, not harmed by others, deathless, free from disease, free from old age, having rising and falling (rising up and coming down)
 
-### Printed p. 1021
+### Printed p. 1020
 
 splitters of the Soma, not subject to the blows of others, having exceeding strength, free from thirst and free from desire.
 
@@ -28794,6 +28804,8 @@ Sāyaṇa says: O stones, in every age your fathers, the mountains, are firm, im
 - सदसः (*sadasaḥ*)—with the sacrificial assemblies
 - न युंजते (*na yuṃjate*)—do not enter into connection
 - अजुर्यासः (*ajuryāsaḥ*)—free from decay
+### Printed p. 1021
+
 - हरिषाचः (*hariṣācaḥ*)—having Soma
 - हरिद्रवः (*haridravaḥ*)—of green colour
 - रवेण (*raveṇa*)—with their sound
