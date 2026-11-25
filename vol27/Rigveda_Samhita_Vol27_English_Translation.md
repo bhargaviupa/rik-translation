@@ -20167,6 +20167,152 @@ Some Brahmavādins say: this mantra is very long, so reciting it is very laborio
 
 Speech, prāṇa (in-breath) and apāna (out-breath) are the nature of the vaṣaṭkāra. Whenever the hotṛ pronounces the vaṣaṭkāra at the end of a mantra, this speech, prāṇa and apāna go out of the hotṛ's body. To prevent this, they must be included in the anumantraṇa. वागोजः सह ओजो मयि प्राणापानौ (*vāgojaḥ saha ojo mayi prāṇāpānau*) is that anumantraṇa. Its meaning: capacity
 
+### Printed p. 575
+...the sense continues: the power and strength, the two dear bodily (companions). O Vaṣaṭkāra, by your grace may power and strength abide in me. And may speech, the in-breath and the out-breath also not depart from my body but stay firmly in me. By reciting this mantra, which has this meaning, the Hotṛ becomes able to prevent speech, the in-breath and the out-breath from going out, and to keep them in himself. Because of this he obtains his appointed full span of life (a hundred years). The man who knows this matter also obtains the full span of life and is happy.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ द्र॒प्सः स्क॒न्नो यस्थे॑ अं॒शुर॒वश्च॒ यः प॒रः स्रु॒चा ॥  
+> अ॒यं दे॒वो बृह॒स्पतिः॒ सं तं सिं॑चतु॒ राध॑से ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । द्रप्सः । स्कन्नः । यः । ते । अंशुः । अवः । च । यः । परः । स्रुचा ।  
+> अयं । देवः । बृहस्पतिः । सं । तं । सिंचतु । राधसे ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते त्वदीयो यो द्रप्पो रसोऽन्यत्र स्कन्नो गतो यश्च
+> त्वदीयस्तव कारणभूतोऽंशुर्लताखंडो रसादितरो भवति स्पुचा पात्रविशेषेण
+> गृहीतः सोमोऽवोऽवस्तात्स्कंदते परः परस्ताद्वातिरिक्तो भवति तमिमं
+> सोममयं बृहस्पतिरेतन्नामको देवः सं सिंचतु । सम्यक् प्रक्षारयतु ।
+> किमर्थं । राधसेऽस्माकं धनार्थं । स्कन्ने हि सोमे प्रजापश्वादिकमपस्कन्नं
+> भवति खलु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma: "O Soma, your juice (द्रप्सः (*drapsaḥ*)) that has dropped elsewhere, and your filament (अंशुः (*aṃśuḥ*)), the piece of the plant that is the source of the juice, which, held in the ladle (स्रुचा (*srucā*), a particular vessel), falls below, or is otherwise left over or beyond — that Soma may this god named Bṛhaspati sprinkle thoroughly, that is, cause to flow properly." For what purpose? "For राधसे (*rādhase*), for our wealth." For when Soma is spilt, offspring, cattle and the like are indeed spilt as well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- यः द्रप्सः (*yaḥ drapsaḥ*)—which juice
+- स्कन्नः (*skannaḥ*)—flows out
+- यः ते अंशुः (*yaḥ te aṃśuḥ*)—which plant
+- स्रुचा (*srucā*)—held by the ladle
+- अवः (*avaḥ*)—to the lower part
+- यः परः च (*yaḥ paraḥ ca*)—and which is spilt to the other parts
+- तं (*taṃ*)—that juice-filled Soma
+- देवः अयं बृहस्पतिः (*devaḥ ayaṃ bṛhaspatiḥ*)—this god Bṛhaspati
+- राधसे (*rādhase*)—for the gaining of wealth for us
+- सं सिंचतु (*saṃ siṃcatu*)—may he sprinkle all around
+
+### Printed p. 576
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the juice of yours that flows out, and the plant held by the ladle that is spilt below and to other parts — that juice-filled Soma, may this god Bṛhaspati sprinkle all around (offer) for the gaining of wealth for us.
+
+##### English translation
+Your juice and your filaments, (Soma), which escape, and which fall from the ladle on this side or on that; may this divine Brihaspati sprinkle it for our enrichment.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑ ।  
+> अ॒पां पय॑स्व॒दित्पय॒स्तेन॑ मा स॒ह शुं॑धत ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पयस्वतीः । ओषदयः । पयस्वत् । मामकं । वचः ।  
+> अपां : पयस्वत् । इत् । पयः । तेन । मा । सह । शुंधत । १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं प्रत्यक्षकृता । हे आपः ओषधयः पयस्वतीः पयस्वत्यो वृष्टिलक्षणेनोदकेन सारवत्यो भवंति ! मामकं मदीयं वचो वचनं वृष्टिप्रार्थनवचनं पयस्वत्सारवद्भवति ! किं बहुना । यच्चेह किंचिदपामुदकानां पयः
+> क्षीरवत्सारभूतं यदस्ति तत्सर्वं पयस्वत्सारवदेव ! तेनोदकसारेण सह मा
+> मां शुंधत । यूयं शोधयत । आपो अद्यान्वहारिषं रसेन समगस्महि ।
+> ऋ. १.२३.२३ । इति निगमांतरं ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is addressed directly. "O Waters, the plants become पयस्वतीः (*payasvatīḥ*), full of sap through water in the form of rain. My speech, the prayer for rain, becomes full of substance. Why say more? Whatever essence, like milk, there is here of the waters, all that is full of sap. With that essence of water purify me; you purify." Another Vedic passage is cited: आपो अद्यान्वहारिषं रसेन समगस्महि । (*āpo adyānvahāriṣaṃ rasena samagasmahi |*) (Ṛ. 1.23.23).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधयः (*oṣadhayaḥ*)—the plants
+- पयस्वतीः (*payasvatīḥ*)—become full of substance through the waters
+- मामकं (*māmakaṃ*)—my
+- वचः (*vacaḥ*)—prayer for rain
+- पयस्वत् (*payasvat*)—becomes full of substance
+- अपां (*apāṃ*)—of the waters
+- पयः पयस्वत् (*payaḥ payasvat*)—all the juice becomes full of substance
+- तेन सह (*tena saha*)—with that water-essence
+- मा (*mā*)—me
+- शुंधत (*śuṃdhata*)—make pure
+
+### Printed p. 577
+
+##### भावार्थ (Bhāvārtha)
+
+O Waters (the Kannada reads "O non-dual ones"), the plants become full of substance through the waters. My prayer for rain becomes full of substance. All the essences of the waters are rich in substance. With that essence of water make me pure. **NOTE**
+
+##### English translation
+(Waters)! the plants flourish by means of water, my prayer is effectual through water; the essence of water is vigorous through water; purify me with it.
+
+## Sūkta 18 (Maṇḍala 10)
+**Introduction**
+In this sūkta are spoken a praise of the deity Death and mantras used in rites for the ancestors. In the Bṛhaddevatā, a work attributed to Śaunaka, it is said of this sūkta:
+चतस्रस्ता स्तुतिर्मृत्योरंत्ये क्लप्ताश्च कर्मणि । १० ॥ मृतशिष्टेभ्य आशास्ते इमे ज्योज्जीवनं पुनः । इमं जीवेभ्य आशास्ते तेभ्यः परिधिकर्मणि ॥ (*catasrastā stutirmṛtyoraṃtye klaptāśca karmaṇi | 10 ‖ mṛtaśiṣṭebhya āśāste ime jyojjīvanaṃ punaḥ | imaṃ jīvebhya āśāste tebhyaḥ paridhikarmaṇi ‖*) (10–11)
+The first four Ṛks of this sūkta praise the deity Death. These mantras are used in the final rites. In the third Ṛk, इमे जीवा (*ime jīvā*), the wish for long life is expressed for those belonging to the household of the dead and for those still living. The fourth Ṛk, इमं जीवेभ्यः (*imaṃ jīvebhyaḥ*), is applied in the rite of setting a stone around the living, in order to escape death.
+यथा धात्र्युत्तरा त्वाष्ट्री ततो यान्या इमास्ति । स्त्रीणामाशिषमाशास्ते तय्यैवांजनकर्मणि ॥ (*yathā dhātryuttarā tvāṣṭrī tato yānyā imāsti | strīṇāmāśiṣamāśāste tayyaivāṃjanakarmaṇi ‖*) (12)
+The Ṛks 5, 6 and 7 of this sūkta, यथाहानि (*yathāhāni*), आरोहत (*ārohata*) and इमा नारीः (*imā nārīḥ*), are to be recited when the women belonging to the household of the dead smear their eyes with ghee or collyrium (black); in these Ṛks the assurance of long life for those women is expressed. Of these, Dhātṛ is the deity of the 5th Ṛk and Tvaṣṭṛ of the 6th.
+
+### Printed p. 578
+उद्दीर्ष्वनारीत्यनया मृतं पत्न्यनुरोहति । भ्राता कनीयान्प्रेतस्य निगद्य प्रतिषेधति ॥ (*uddīrṣvanārītyanayā mṛtaṃ patnyanurohati | bhrātā kanīyānpretasya nigadya pratiṣedhati ‖*) (13)
+कुर्यादेतत्कर्म होता देवरो न भवेद्यदि । प्रेतानुगमनं न स्यादिति ब्राह्मणशासनात् ॥ (*kuryādetatkarma hotā devaro na bhavedyadi | pretānugamanaṃ na syāditi brāhmaṇaśāsanāt ‖*) (14)
+वर्णानामितरेषां च स्त्रीधर्मोऽयं भवेन्न वा ॥ (*varṇānāmitareṣāṃ ca strīdharmo 'yaṃ bhavenna vā ‖*)
+Reciting the Ṛk उदीर्घनारि (*udīrghanāri*), the wife of the dead man mounts the pyre, ready to go along with her husband. Then the husband's younger brother, her brother-in-law, prevents the woman from going along. If the dead man has no younger brother, the priest does that work. There is a Brāhmaṇa injunction that one should not go along with the corpse. For Brāhmaṇas and the other castes, as regards the wives of the dead, one may follow this rule if one wishes; otherwise one may leave it.
+शांत्यर्थं धनुरादाने प्रेतस्यर्चं धनुर्जपेत् । यस्मादेताः प्रयुज्यंते श्मशाने चांत्यकर्मणि ॥ (*śāṃtyarthaṃ dhanurādāne pretasyarcaṃ dhanurjapet | yasmādetāḥ prayujyaṃte śmaśāne cāṃtyakarmaṇi ‖*) (15)
+तस्माद्वदेत्तृचस्यास्य देवतां मृत्युमेव तु । (*tasmādvadettṛcasyāsya devatāṃ mṛtyumeva tu |*)
+If the dead man was a Kṣatriya, for his peace, and when taking in hand the bow he used, to place it beside the body, this Ṛk धनुर्हस्तात् (*dhanurhastāt*) is to be recited. Since this Ṛk and the following ones are recited at the cremation ground in the final rites, Death is said to be the deity of these Ṛks.
+मंत्रेषु ह्यनिरुक्तेषु देवतां कर्मतो वदेत्॥ (*maṃtreṣu hyanirukteṣu devatāṃ karmato vadet‖*) (16)
+मंत्रतः कर्मतश्चैव प्रजापतिरसंभवे (*maṃtrataḥ karmataścaiva prajāpatirasaṃbhave*)
+Where the mantras of this sūkta do not state their application or deity, the deity and application of each mantra should be stated according to the rite performed. Where nothing is clear, one may say that Prajāpati is the deity of those mantras, according to the meaning of the mantra and the rite performed.
+पराश्चतस्रो यास्त्वत्र उप सर्पेति पार्थिवी॥ (*parāścatasro yāstvatra upa sarpeti pārthivī‖*) (17)
+तासां प्रयोगः प्रेतस्य अस्थि संचयकर्मणि॥ (*tāsāṃ prayogaḥ pretasya asthi saṃcayakarmaṇi‖*)
+The following four Ṛks, that is, the four Ṛks (10–13) beginning with the Ṛk उप सर्प (*upa sarpa*), are applied in the rite of asthisañcayana, part of the final rites (the gathering in one place of the bones of the dead body after cremation, to put them into a river and so on, is called asthisañcayana)
+
+### Printed p. 579
+and so on. (The rite is thus continued from the previous page.)
+प्रतीचीने यथाहानि अपहृत्येतराणि तु ॥ (*pratīcīne yathāhāni apahṛtyetarāṇi tu ‖*) (18)
+अहस्सु पितरो दधुरित्याशास्तेऽन्त्ययाशिषः । अहःस्वागामिषु च मां प्रयतं समजीवयन् ॥ (*ahassu pitaro dadhurityāśāste 'ntyayāśiṣaḥ | ahaḥsvāgāmiṣu ca māṃ prayataṃ samajīvayan ‖*) (19)
+(Bṛ. De. 7-10 to 19)
+In the last Ṛk, प्रतीचीने (*pratīcīne*), it is stated that the ancestral deities have given the blessing of increased life to the performer even on the days on which the rite is performed.
+In the work called Ṛgvidhāna, attributed to Śaunaka, it is said of this sūkta:
+मृत्युमेव प्रपद्येत परं मृत्यो जपन् द्विजः । नक्तभोजी मिताहारः परिसंवत्सरं सदा ॥ (*mṛtyumeva prapadyeta paraṃ mṛtyo japan dvijaḥ | naktabhojī mitāhāraḥ parisaṃvatsaraṃ sadā ‖*) (40)
+नैनं पुरायुषो मृत्युर्नयते ससुतप्रजं (*nainaṃ purāyuṣo mṛtyurnayate sasutaprajaṃ*)
+If a twice-born man mutters this sūkta परं मृत्यो (*paraṃ mṛtyo*), the deity Death becomes gracious and pleased with him. While muttering in this way he must fast by day and take a measured meal at night only. If he mutters thus for one year, the deity Death does not carry him, or his sons and other dependants, away before his appointed span of life is complete.
+फलाहारो जयेन्मृत्युं त्रिभिर्वर्षैर्मिताशनः । षष्ठे काले तु भुंजीत फलं मूलमथापि वा ॥ (*phalāhāro jayenmṛtyuṃ tribhirvarṣairmitāśanaḥ | ṣaṣṭhe kāle tu bhuṃjīta phalaṃ mūlamathāpi vā ‖*)
+Certain rules are to be followed while muttering with this deity Death in view. Every day he must fast by day, and in the sixth watch, that is, the second watch after sunset, eat only roots, fruits and the like. The man who mutters for three years with this scheme of measured food has no fear of death.
+स्थानासनाभ्यां विहरेदुदके शिशिरे वसेश्॥ (*sthānāsanābhyāṃ viharedudake śiśire vaseś‖*) (42)
+ग्रीष्मे पंचतपास्तु स्याद्वर्षास्वभ्रावकाशकः । एवं युक्तो जयेन्मृत्युं रोगेभ्यश्च प्रमुच्यते ॥ (*grīṣme paṃcatapāstu syādvarṣāsvabhrāvakāśakaḥ | evaṃ yukto jayenmṛtyuṃ rogebhyaśca pramucyate ‖*) (43)
+While muttering, in the cold season (Śiśira) he must stand in the middle of water and mutter. In summer he must stand in the middle of the five fires and mutter. In the rainy season he must stand outside the house
+
+### Printed p. 580
+and mutter, getting wet in the rain. The man who mutters in this way removes the fear of death and lives free from disease.
+भ्रातुर्भार्यामपुत्रस्य संतानार्थं मृते पत् । देवरोन्वारुरुक्षंतीमुदीर्ष्यति निवर्तयेत् ॥ (*bhrāturbhāryāmaputrasya saṃtānārthaṃ mṛte pat | devaronvārurukṣaṃtīmudīrṣyati nivartayet ‖*) (44)
+ऋतुकाले तु संप्राप्ते घृताभ्यक्तोऽथ वाग्यतः । एकमुत्पादयेत्पुत्रं न द्वितीयं कथंचन ॥ (*ṛtukāle tu saṃprāpte ghṛtābhyakto 'tha vāgyataḥ | ekamutpādayetputraṃ na dvitīyaṃ kathaṃcana ‖*) (45)
+(Ṛgvidhāna, chapter 3)
+When an elder brother dies childless and his wife is ready to go along with the body on the pyre, the dead man's younger brother must prevent his elder brother's wife, his sister-in-law, from going along and bring her back home. Afterwards, when that woman has bathed after her period and been made pure with ghee-anointing and the like, he must have intercourse with her and beget one son only. He must never again, in any circumstances, be with that woman in order to have another son.
+Concerning Death, the deity of this sūkta, there is a story in the Śatapatha Brāhmaṇa. In former times the gods and men performed sacrifices and the like and, as their fruit, went in their bodies to heaven and the other worlds. While this was so—
+स मृत्युर्देवानब्रवीत् । अथैव सर्वे मनुष्या अमृता भविष्यंत्यथ को मह्यं भागो भविष्यतीति । ते होचुर्नातोः परः कश्चन सह शरीरेणामृतोऽसद्यदैव त्वमेतं भागं हरास्यॆ । अथ व्यावृत्य शरीरेणामृतोऽसद्विद्यया वा कर्मणा वेति । यद्वै तदब्रुवन् विद्यया वा कर्मणा वेति । एष हैव सा विद्या यदग्नि रेतदु हैव तत्कर्म यदग्निः । ते ये एवमेतद्विदुर्येवैतत्कर्म कुर्वते मृत्वा पुनस्संभवंति । ते ते संभवंत एव अमृतत्वमभिसंभवंति । अथ ये एवं न विदुर्ये वैतत्कर्म न कुर्वते मृत्वा पुनस्संभवंति ते एतस्यॆवान्नं पुनःपुनर्भवंति ॥ (*sa mṛtyurdevānabravīt | athaiva sarve manuṣyā amṛtā bhaviṣyaṃtyatha ko mahyaṃ bhāgo bhaviṣyatīti | te hocurnātoḥ paraḥ kaścana saha śarīreṇāmṛto 'sadyadaiva tvametaṃ bhāgaṃ harāsyè | atha vyāvṛtya śarīreṇāmṛto 'sadvidyayā vā karmaṇā veti | yadvai tadabruvan vidyayā vā karmaṇā veti | eṣa haiva sā vidyā yadagni retadu haiva tatkarma yadagniḥ | te ye evametadviduryevaitatkarma kurvate mṛtvā punassaṃbhavaṃti | te te saṃbhavaṃta eva amṛtatvamabhisaṃbhavaṃti | atha ye evaṃ na vidurye vaitatkarma na kurvate mṛtvā punassaṃbhavaṃti te etasyèvānnaṃ punaḥpunarbhavaṃti ‖*)
+(Śa. Brā. 10-4-3-9, 10)
+Once upon a time Death spoke to the gods thus: "O gods, by performing good works such as sacrifice you have gained freedom from death (immortality: living always without dying). In the same way all men, performing sacrifices and the like, will gain immortality (eternal happiness in heaven). Then what is my work? What am I to do? No one dies at all!"
+
 ---
 
-**Progress note:** Done through printed p. 574. pp. 569-574 (batch API)
+**Progress note:** Done through printed p. 580. pp. 575-580 (batch API)
