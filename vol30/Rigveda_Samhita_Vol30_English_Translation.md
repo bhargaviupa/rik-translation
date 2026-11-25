@@ -26744,6 +26744,243 @@ The sūkta beginning ईजानं (*ījānaṃ*) has seven Ṛks and is the f
 
 This sūkta beginning ईजानं (*ījānaṃ*) is the fourth sūkta in the eleventh anuvāka. It has seven Ṛks. Its seer is Śakapūta, son of Nṛmedha; its deities are Mitra and Varuṇa. For the first Ṛk of this sūkta the deities indicated by the gender-marks (Heaven, Earth and the Aśvin deities) are the deities; for the remaining Ṛks 2-7 Mitra and Varuṇa are the deities. The first Ṛk of this sūkta is in the metre named Nyūṅkusāriṇī. A Ṛk in this metre has four pādas, of which the second has 12 syllables and the other three have eight each. The second and sixth Ṛks are in the metre named Prastārapaṅkti. A Ṛk in this metre has four pādas, of which the first two have twelve syllables each and the last two have eight each. The seventh Ṛk is in the metre named Mahāsatobṛhatī. A Ṛk in this metre has five pādas, of which the first two have twelve syllables each and the last three have eight each. The remaining three Ṛks are in the metre named Virāḍrūpā. A Ṛk in this metre has eleven syllables in each of the first three pādas and eight syllables in the last pāda. In the Anukramaṇī it is said: ईजानं शाकपूतो नार्मेधो मैत्रावरुणं न्यूकुसारिण्याद्या लिंगोक्तदेवतांत्या महासतोबृहत्युपाद्योपांत्ये प्रस्तारपंक्ति शेषा विराड्रूपाः (*ījānaṃ śākapūto nārmedho maitrāvaruṇaṃ nyūkusāriṇyādyā liṃgoktadevatāṃtyā mahāsatobṛhatyupādyopāṃtye prastārapaṃkti śeṣā virāḍrūpāḥ*). The viniyoga has been stated earlier.
 
+### Printed p. 814
+Maṇḍala 10, Anuvāka 11, Sūkta 132; Aṣṭaka 8, Adhyāya 7, Varga 20. Number of Ṛks in the sūkta: 7.
+Ṛṣi: Śākapūta Nārmedha.
+Deity: Ṛk 1, the deities named in the text; Ṛks 2–7, Mitrāvaruṇau.
+Metre: Ṛk 1 Nyūnkusāriṇī; Ṛks 2 and 6 Prastārapaṅkti; Ṛks 3–5 Virāḍrūpā; Ṛk 7 Mahāsatobṛhatī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒जा॒नमिद्यौगू॒र्ताव॑सुरीजा॒नं भूमि॑र॒भि प्र॑भू॒षणि॑ ।  
+> ई॒जा॒नं दे॒वाव॒श्विना॑व॒भि सु॒म्मैर॑वर्धतां ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईजानं । इत् । द्यौः । गूर्तवसुः । ईजानं । भूमिः । अभि । प्रभूषणि ।  
+> ईजानं । देवौ । आत्विनौ । अभि । सुम्नैः । अवर्धतां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गूर्तवसुः । गूर्तमुद्यतं स्तोतृभ्यो दानाय हस्ते धृतं वसु धनं
+> यस्याः सा तथोक्ता ॥ गुरी उद्यमने । निष्ठा । श्विदितो निष्ठायामितीट्टतिषेधः ।
+> नसत्तनिषत्तेत्यादिना निपातनान्निस्थानत्वाभावः । अन्वेषामपीति सांहितिको दीर्घः ।
+> बहुहौ पूर्वपदप्रकृतिस्वरत्वं ॥ ईदृशी द्यौर्म्यलोकाभिमानिनी देवतेजानमिद्यज्ञैरिष्टवंतमेव पुरुषमभवर्धयति ॥ यजेर्लिटः कानच् । वचिस्वॆपीति
+> संप्रसारणे द्विर्वचनं ॥ तथा भूमिश्च प्रभूषणि प्रभवने यद्वा प्रकृष्टभूषणेऽलंकारे निमित्तभूते सतीजानमभिवर्धयति । आपि च देवौ दानादिगुणयुक्तावश्विनावीजानमिष्टवंतं पुरुषं सुम्मैर्धनैरभ्यवर्धतां । अभिवर्धयतः ॥ वृधेरंतर्भावितण्यर्थाच्छांदसो लज् ॥
+
+##### Gist of the bhāṣya
+
+गूर्तवसुः (*gūrtavasuḥ*) is one whose wealth is "raised" (*gūrtaṃ*), that is, held up in the hand for giving to the singers. Such a Heaven, the deity presiding over the heavenly world, advances only the man who has sacrificed, the ईजानं (*ījānaṃ*), by means of sacrifices. Likewise the Earth advances him when there is प्रभूषणि (*prabhūṣaṇi*), either "in prospering" or, alternatively, "when excellent adornment is the cause". The two divine Aśvins, endowed with qualities such as generosity, also advance the sacrificer with सुम्नैः (*sumnaiḥ*), that is, with riches; अवर्धतां (*avardhatāṃ*) means "they advance".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गूर्तवसुः (*gūrtavasuḥ*)—holding wealth raised in the hand in order to give it
+- द्यौः (*dyauḥ*)—the deity presiding over the heavenly world
+- ईजानं इत् (*ījānaṃ it*)—advances the very man who sacrifices, the sacrificer, with wealth and the like
+
+### Printed p. 815
+- प्रभूषणि (*prabhūṣaṇi*)—shining with special adornments
+- भूमिः (*bhūmiḥ*)—the Earth goddess
+- ईजानं (*ījānaṃ*)—the sacrificer
+- अभि (*abhi*)—advances
+- देवौ (*devau*)—endowed with qualities such as generosity
+- अश्विनौ (*aśvinau*)—the Aśvin deities
+- ईजानं (*ījānaṃ*)—the sacrificer
+- सुम्नैः (*sumnaiḥ*)—with riches
+- अभि अवर्धतां (*abhi avardhatāṃ*)—cause to prosper
+
+##### भावार्थ (Bhāvārtha)
+
+The deity presiding over the heavenly world, who holds wealth raised in her hand for the very purpose of giving it, gives wealth to the man who sacrifices. The Earth goddess, resplendent with the adornment of plants, gives the sacrificer grain and other riches and makes him prosper. The Aśvin deities, endowed with generosity and other qualities, give the sacrificer riches and make him prosper.
+
+##### English translation
+The Heaven liberal of treasure (prospers) the sacrificer, the Earth (prospers) the sacrificer because of the ornament, the divine Ashwins prospered the sacrificer with blessings.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता वां॑ मित्रावरुणा धार॒यत्क्र॑ी सुषु॒म्नेषि॑त॒त्वता॑ यजामसि ।  
+> यु॒वोः क्रा॒णाय॑ स॒ख्यैर॒भि ष्या॑म र॒क्षसः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वां । मित्रावरुणा । धारयत्क्री इति धारयत्क्षिती । सुसुम्ना । इषितत्वता ।  
+> यजामसि ।  
+> युवोः । क्राणाय । सख्यैः । अभि । ष्याम । रक्षसः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ धारायत्कृष्टी ध्रियमाणभूमिकौ । यद्वा । क्षितिरिति मनुष्यनाम । हवींषि धारयंतः क्षितयो मनुष्या ययोः स्वभूतास्तथाविधौ ।
+> सुषुम्ना सुषुम्नौ सुधन् सुसुखौ ना ता तौ नां युवामिषितत्वतेषितत्वेन ॥
+
+##### Gist of the bhāṣya
+
+"O Mitra and Varuṇa, धारायत्कृष्टी (*dhārāyatkṛṣṭī*)", those who bear the earth. Alternatively, *kṣitiḥ* is a word for "man": the two to whom belong men who bear oblations. सुषुम्ना (*suṣumnā*) means "you two, givers of good wealth, of good happiness"; इषितत्वता (*iṣitatvatā*) is a form with an inserted ṭ-sound in the instrumental singular, a Vedic usage. Alternatively, a bhāva-affix is added again after one that already ends in a bhāva-affix.
+
+### Printed p. 816
+
+> तृतीयैकवचने छांदसस्तकारोपजनः । यद्वा । भावप्रत्ययांतात्पुनरपि भावप्र।
+> त्ययो विकरणद्वयवत् ॥ इषितव्यत्वेन प्राप्तव्यत्वेन । हेतौ तृतीया । यतो युवांदेवेषु मध्ये प्राप्तव्य् ततो हेतोर्यजामसि । हविर्भिर्यजामः ॥ इदंतो
+> मसीति मस इकारागमः । एवं च युवोर्युवयोः सख्यैः सखित्वैः ॥ सख्युर्यः॥
+> क्राणाय कुर्वते यजमानाय ॥ करोतेः शानचि च्छांदसो विकरणस्य लुक् ।
+> तादर्थ्ये चतुर्थी ॥ यजमानार्थ० रक्षसो यज्ञस्य बाधकान्नाक्षसानभि ष्याम ।
+> अभिभवेम ॥ उपसर्गप्रादुर्भ्या० ।, पा. ८-३-८७ । इत्यस्तेः सकारस्य षत्वं ॥
+
+##### Gist of the bhāṣya
+
+इषितव्यत्वेन (*iṣitavyatvena*) means "because you are to be reached"; the instrumental is of cause. Because you are to be reached among the gods, therefore यजामसि (*yajāmasi*): we worship with oblations. *yuvoḥ sakhyaiḥ* means "by your friendships". क्राणाय (*krāṇāya*) means "for the sacrificer who performs"; the dative is of purpose. For the sacrificer's sake, may we overcome the Rākṣasas, the obstructors of the sacrifice; अभि ष्याम (*abhi ṣyāma*) means "may we overcome".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa (you)
+- धारयत्किती (*dhārayatkitī*)—you who bear and nourish this earth
+- सुसुम्ना (*susumnā*)—givers of wealth or happiness
+- इषितत्वता (*iṣitatvatā*)—you who are invoked among the gods
+- ता वां (*tā vāṃ*)—such as you
+- यजामसि (*yajāmasi*)—we worship with oblations
+- युवोः (*yuvoḥ*)—of you two
+- सख्यैः (*sakhyaiḥ*)—by favours in the form of friendship
+- क्राणाय (*krāṇāya*)—for the sake of the sacrificer who performs the sacrifice
+- रक्षसः (*rakṣasaḥ*)—the Rākṣasas who cause obstacles to the sacrifice
+- अभि स्याम (*abhi syāma*)—let us defeat and drive away
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you bear and nourish this earth, that is, you are the support of this earth. Or else men offer oblations for you. You give wealth or happiness. Among the gods people long for you alone and call you with prayer. Such as you, we worship with oblations. By your favour in the form of friendship, may we defeat and drive away the Rākṣasas who cause obstacles to the sacrificer's sacrifice.
+
+##### English translation
+Mitra and Varuna, who sustain the earth, we worship you, the givers of felicity, for the sake of attaining our desires: may we, through your favour for the perfomer (of the sacrifice), overcome the Rakshasas.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑ चि॒न्नु यद्दिधि॑षामहे वाम॒भि प्रि॒यं रेक्ञः॒ सत्य॑मानाः ।  
+> द॒द्वा वा॒ यत्पुष्य॑ति॒ रेक्ञः॒ सम्वा॑र॒न्न कि॑रस्य म॒घानि॑ ॥ ३ ॥
+
+### Printed p. 817
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । चित् । नु । यत् । दिधिषामहे । नां । अभि । प्रियं । रेक्णः । पत्यमानाः ।  
+> दद्वान् । वा । यत् । प्रष्यति । रेक्णः । सं । ऊं इति । आरन् । नकिः । अस्य । मघानि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुण् नां युवाभ्यां युवयोरर्थं यद्यदा दिधिषामहे
+> हवींषि धारयामः । यद्वा । धिष शब्दे ॥ नां युवां स्तुमहे । अधा चिदनंतरमेव नु क्षिप्रं प्रियमभीष्टं रेक्ष्णः । धननामैतत् । धनमभि सत्यमाना अभिपतंतोऽभिप्राप्नुवंतो भवामः । दद्वान् ददिवान् ॥ ददातेर्लिटः क्वसुः । छंदस्युभयथेति वसोः सार्वधातुकत्वाच्छाभ्यस्तयोरात इत्यकारलोपः । आत एवेडभावश्च ।
+> संहितायां नकारस्य दीर्घादटि समानपाद इति रुत्वं । आतोTटि नित्यमिति सानुनासिक आकारः ॥ वाशब्दश्चार्थे । हवींषि दत्तवांश्च यद्यो यजमानो रेक्ष्णो धनं
+> पुष्यति वर्धयति अस्य दत्तवतो यजमानस्य मघानि धनानि नकिः समारन् । नैवापगच्छंति । किंतु तमेव सर्वदा भजंते । समित्येदपेत्येतस्यार्थे । उ इति पूरणः ॥
+> आर्तेश्चांदसे लुजि सर्तिशास्त्रृतिभ्यश्चेति चेरजादेशः । ऋदृशोऽजि गुणः ।
+> पा. ७-४-१६ ॥
+
+##### Gist of the bhāṣya
+
+"O Mitra and Varuṇa, whenever we दिधिषामहे (*didhiṣāmahe*) for you", that is, we bear oblations; or alternatively, from the root धिष (*dhiṣa*) in the sense of sound, we praise you. Then, immediately and quickly, may we come to attain the desired wealth; रेक्ष्णः (*rekṣṇaḥ*) is a word for wealth, and सत्यमानाः (*satyamānāḥ*) means "moving towards, reaching". दद्वान् (*dadvān*) means "one who has given"; वा (*vā*) is in the sense of "and". The sacrificer who has given oblations and fosters his wealth: the riches of this giving sacrificer do not go away, but always serve him alone. सम् (*sam*) has the sense of एत (*eta*) and *apeta* ("they go" and "they depart"); उ (*u*) is a filler particle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitra and Varuṇa) वां (*vāṃ*)—with you in view
+- यत् (*yat*)—whenever (we)
+- दिधिषामहे (*didhiṣāmahe*)—bear and offer oblations, or praise
+- अध चित् (*adha cit*)—right afterwards
+- नु (*nu*)—quickly
+- प्रियं (*priyaṃ*)—desired
+- रेक्ष्णः (*rekṣṇaḥ*)—wealth
+- अभि पत्यमानाः (*abhi patyamānāḥ*)—may we obtain
+- दद्वान् वा (*dadvān vā*)—who offers oblations to you
+- यत् (*yat*)—whichever sacrificer
+- रेक्ष्णः (*rekṣṇaḥ*)—his own wealth
+- पुष्यति (*puṣyati*)—makes grow
+- अस्य (*asya*)—of such a sacrificer
+- मघानि (*maghāni*)—the riches
+- नकिः सं आरन् (*nakiḥ saṃ āran*)—may no one carry them off
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, as soon as we offer oblations or praise with you in view, may we obtain the wealth we desire. May no one snatch away the riches, which bring growth, of the sacrificer who offers oblations to you.
+
+### Printed p. 818
+
+##### English translation
+May we, when we present to you (oblations), quickly alight upon desirable wealth, and the generous man who fosters his wealth, may his riches not depart from him.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒साव॒न्नो अ॑सुर सूयत॒ द्यौस्त्वं विश्वे॑षां वरुणासि॒ राजा॑ ।  
+> मू॒र्धा रथ॑स्य चाक॒न्नॆताव॒तैन॑सांतक॒ध्रुक् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असौ । अन्यः । असुर । सूयत । द्यौः । त्वं । विश्वेषां । वरुण । असि । राजा ॥  
+> मूर्धा । रथस्य । चाकन् । न । एतावता । एनसा । अंतकध्रुक् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुर तमसः क्षेपक । यद्वा । असवः प्राणाः । तान्नदाति मनुष्येभ्यः
+> स्वोदयेन प्रयच्छतीत्यसुरः । ईदृश हे मित्र द्यौर्द्युलोको देवनशीलादितिर्वान्यः ॥ सुपां सुलुगिति द्वितीयायाः स्वादेशः ॥ वरुणापेक्षयान्यमसावसुं
+> नभसि दृश्यमानं त्वां सूयत । असूत ॥ षूज् प्राणिप्रसवे । छांदसोऽडभावः ॥
+> हे वरुण त्वं च विश्वेषां सर्वॆषां प्राणिनां राजासि । ईश्वरो भवसि । तादृशयोर्युवयो रथस्य मूर्धा शिरश्चाकन् । अस्मद्यज्ञं कामयते । यद्वा । रथस्य
+> रंहणशीलस्य यज्ञस्य मूर्धा न मूर्धेव प्रधानः सोमश्चाकन् । युवां कामयते ॥ कन दीप्ति कांतिगतिषु । अस्माद्यज्लुगंताच्चांदसो लज् ॥ यत एवमतः
+> कारणादंतकध्रुगंतकस्य हननशीलस्य राक्षसादेर्यमस्यॆव ना द्रोग्धा ॥ द्रुह
+> जिघांसायां । सत्तूद्विषेत्यादिना क्विप् । वा द्रुहमुहष्णु हष्टिहां । पा. ८-२-३३ ।
+> इति घत्वं । भष्भावः ॥ ईदृशः स यज्ञ एतावतैनसेयत्परिमाणेनापि पापलेशेनापि
+> न युज्यते ॥
+
+##### Gist of the bhāṣya
+
+"O असुर (*asura*)", one who casts away darkness; or alternatively, the असवः (*asavaḥ*) are the vital breaths, and he who gives them to men by his own rising is असुर (*asura*). O Mitra, such a one: द्यौः (*dyauḥ*) is the heavenly world, or else Aditi, the one who plays. In relation to Varuṇa, "the other", you, this one seen in the sky, सूयत (*sūyata*), she bore; the root is षूज् (*ṣūj*) in the sense of the birth of beings. "And you, O Varuṇa, are king, lord, of all beings. Of you two, such as you, the head of the chariot, चाकन् (*cākan*), desires our sacrifice." Alternatively: Soma, who is chief like a head of the swift sacrifice, desires you two; the root is कन (*kana*) in the senses of shining, desire and going. Since this is so, this sacrifice, the "destroyer-deceiver" (अंतकध्रुक् (*aṃtakadhruk*)), that is, the one that is hostile, as Yama is, to the slaying Rākṣasas and the like, is not touched by sin to this extent, not even by the least trace of sin.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुर (*asura*)—O Mitra, remover of darkness or giver of life
+- द्यौः (*dyauḥ*)—the heavenly world
+- अन्यः (*anyaḥ*)—one of Mitra and Varuṇa
+- आसौ (*āsau*)—you, this one shining in the sky
+- सूयत (*sūyata*)—
+
+### Printed p. 819
+  brought forth
+- वरुण (*varuṇa*)—O Varuṇa
+- त्वं (*tvaṃ*)—you
+- विश्वेषां (*viśveṣāṃ*)—of all beings
+- राजा असि (*rājā asi*)—are the lord
+- रथस्य (*rathasya*)—of the sacrifice
+- मूर्धा (*mūrdhā*)—Soma, the chief
+- चाकन् (*cākan*)—desires you
+- अंतकध्रुक् (*aṃtakadhruk*)—this sacrifice that destroys Rākṣasas and the like
+- एतावता एनसा (*etāvatā enasā*)—even by a little sin
+- न (*na*)—is not stained
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra, remover of darkness, the heavenly world brought you forth, one of Mitra and Varuṇa. O Varuṇa, you are lord of all beings. The Soma and other oblations, chief in this sacrifice, desire you, Mitra and Varuṇa. This sacrifice, which is the cause of the destruction of Rākṣasas and the like, is not joined with even a little sin.
+
+##### English translation
+(Mitra), scatterer of darkness, the Heaven gave birth to you the other; you, Varuna, are sovereign over all. The head of (your) chariot desired (this sacrifice); opposing the destroyer, (the rite)is not (vitiated) by the smallest defect.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मिन्ते॒३॒॑न हृतच्छक॑पूत॒ एनो॑ हि॒ते मि॒त्रे निग॑तान्हंति वी॒रान् ।  
+> अ॒पोर्वा॒ यद्धात्त॒नूष्टवः॑ प्रि॒यासु॑ य॒ज्जिया॒स्वर्वा॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मिन् । सु । एतत् । शकपूते । एनः । हिते । मित्रे । निगतान् । हंति । वीरान् ॥  
+> आवोः । वा । यत् । धात् । तनूषु । अवः । प्रियासु । यज्ञियासु । अर्वा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽयं शकपूताख्य ऋषिरस्मिञ्चकपूते स्थितमेतदेनः पापं शत्रुणां
+> पापकरमायुधं ना मित्रे देवे हिते हिताचरणपरेऽनुकॊले सति निगतान्निगंतव्याह्मननार्थं नियमेन प्राप्तव्यान्वीराञ्चत्रोः पुत्रादीन् सु सुष्टु हंति । हिनस्ति ।
+> अस्मिन्नृषौ समवेतं यत्पापं तन्नित्रस्य प्रसादेन तदीयेषु शत्रुषु स्वकार्यं
+
+##### Gist of the bhāṣya
+
+The ṛṣi named Śākapūta says: the sin (एनः (*enaḥ*)) that stands in this Śākapūta, the weapon that is the sinful instrument against enemies, when Mitra the god is kindly disposed and intent on doing good, strikes down well the heroes of the enemy, his sons and others, who are certain to go down to be killed. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 813. pp. 808-813 (batch API)
+**Progress note:** Done through printed p. 819. pp. 814-819 (batch API)
