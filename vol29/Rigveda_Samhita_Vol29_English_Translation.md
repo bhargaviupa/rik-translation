@@ -1120,6 +1120,261 @@ Seer: गौरिवीतिः (*gaurivītiḥ*).
 Deity: इंद्रः (*iṃdraḥ*) (मरुतः (*marutaḥ*)) **NOTE**
 Metre: त्रिष्टुप् (*triṣṭup*).
 
+### Printed p. 58
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जनि॑ष्ठा उ॒ग्रः सह॑से तु॒राय॑ मं॒द्र ओजि॑ष्ठो बहु॒लाभि॑मानः ।  
+> अव॑र्ध॒न्निंद्रं॑ म॒रुत॑श्चि॒दत्र॑ मा॒ता यद्वी॒रं द॒धन॒द्धनि॑ष्ठा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनिष्ठाः । उग्रः । सहसे । तुराय । मंद्रः । ओजिष्ठः । बहुलऽअभिमानः ।  
+> अवर्धन् । इंद्रं । मरुतः । चित् । अत्र । माता । यत् । वीरं । दधनत् । धनिष्ठा li
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सहसे बलाय तुराय शत्रूणां हिंसनाय त्वमुग्र उद्धूर्णबलो जनिष्ठाः । अजायथाः । कीदृशस्वं । मंद्रः स्तुत्य ओजिष्ठः । ओजः शरीरबलं ।
+> अतिशयेन तद्वान् बहुलाभिमानो भूयिष्ठाभिमानी। ईदृशं महानुभावमिंद्र.
+> मत्र वृत्रवधे मरुतश्चिन्मरुतोऽप्यवर्धन् । स्तुत्या साहाय्येन वा वर्धितवंतः ।
+> यद्यदा धनिष्ठा धारयित्रिंद्रमाता वीरं दधनत् आधारयत् ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, for strength (सहसे (*sahase*)) and for the slaying of enemies (तुराय (*turāya*)) you were born (जनिष्ठाः (*janiṣṭhāḥ*)), fierce, that is, of surging strength. What kind are you? Adorable (मंद्रः (*maṃdraḥ*)), most mighty (ओजिष्ठः (*ojiṣṭhaḥ*); ओजः (*ojaḥ*) is bodily strength, and you have it in the highest degree), and extremely proud (बहुलाभिमानः (*bahulābhimānaḥ*)), that is, greatly self-confident. Such a mighty Indra the Maruts also strengthened here, at the slaying of Vṛtra, by their praise or by their help. This was when (यत् (*yat*)) the sustaining mother (धनिष्ठा (*dhaniṣṭhā*), the one who bears Indra) sustained (दधनत् (*dadhanat*)) the hero."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बहुलाभिमानः (*bahulābhimānaḥ*)—one who has great self-confidence (O Indra)
+- मंद्रः (*maṃdraḥ*)—worthy of praise
+- ओजिष्ठः (*ojiṣṭhaḥ*)—endowed with vigour; you
+- सहसे (*sahase*)—for a display of strength
+- तुराय (*turāya*)—for the destruction of enemies
+- उग्रः (*ugraḥ*)—possessing exceeding strength
+- जनिष्ठाः (*janiṣṭhāḥ*)—you have been born
+- यत् (*yat*)—when
+- धनिष्ठामाता (*dhaniṣṭhāmātā*)—your mother who bore Indra
+- वीरं (*vīraṃ*)—you, the valiant
+- दधनत् (*dadhanat*)—had borne, then
+- इंद्रं (*iṃdraṃ*)—you, the lord
+- अत्र (*atra*)—at this time of the slaying of Vṛtra
+- मरुतश्चित् (*marutaścit*)—the Maruts also
+- अवर्धन् (*avardhan*)—strengthened
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have great self-confidence, who are worthy of praise and endowed with vigour, have been born with exceeding strength for a display of strength and for the destruction of enemies. When your mother bore you, the valiant, then at the time of the slaying of Vṛtra the Maruts also praised you, the lord, and strengthened you.
+
+### Printed p. 59
+
+##### English translation
+You have been born, (Indra), for strength, for slaying (enemies), powerful, adorable, most mighty, extremely proud; the Maruts animated Indra in the Vritra-fight) when (his) sustaining mother sustained the hero.
+#### Ṛk 2
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्रु॒हो निष॑त्ता पृश॒नी चि॒देवैः॑ पु॒रू शंसे॑न वावृधु॒ष्ट  ॑
+> इंद्रं ।  
+> अ॒भीवृ॑तेव॒ ता म॑हाप॒देन॑ ध्वां॒तात्प॑पि॒त्वा मद॑रंत॒ गर्भाः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्रुहः । निसत्ता । पृशनी । चित् । एवैः । पुरु । शंसेन । ववृधुः । ते । इंद्रं ।  
+> अभिवृताइव । ता । सुहापदेन । ध्वांतात् । प्रपित्वात् । उत् । अरंत । गर्भाः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्रुहो द्रोग्गुरिंद्रस्य पृशनी चित् सेनापि निषत्ता । तत्संनिधौ निषण्णा भूत् ।
+> एवैर्गंतृभिर्मरुद्भिः सहितमिंद्रं निषण्णेति संबंधः । तेऽपि मरुतः पुरु प्रभूतेन शंसेन स्तोत्रेणेंद्रं ववृधुः । अवर्धंत वृत्रं जिघांसंतं । अथ महापदेन
+> महता व्रजेनाभीवृतेव परिवृतानीव गवादीनि तानि यथावरणापगमे निर्गच्छंति
+> तद्वृत्तान्न्युदकानि ध्वांतादंधकाररूपात्पित्वादासन्नात्प्राप्ताद्वृत्राद्गर्भा गर्भभूतान्न्युदकान्युदरंत । उदगच्छन् ॥
+
+##### Gist of the bhāṣya
+
+The army (पृशनी चित् (*pṛśanī cit*)) of Indra, the destroyer of enemies (द्रुहः (*druhaḥ*)), also sat down (निषत्ता (*niṣattā*)), that is, took its seat near him. The construction is that it sat around Indra, who was accompanied by the Maruts, the goers (एवैः (*evaiḥ*)). Those Maruts also strengthened (ववृधुः (*vavṛdhuḥ*)) Indra with abundant (पुरु (*puru*)) praise (शंसेन (*śaṃsena*)), when he wished to slay Vṛtra. Then, as cattle and the like that have been enclosed within a great stall (महापदेन (*mahāpadena*)) come out when the enclosure is removed, so the waters that were embryo-like within Vṛtra, who was near, in the form of darkness (ध्वांतात् (*dhvāṃtāt*)), rose up (उदरंत (*udaraṃta*)) and went out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रुहः (*druhaḥ*)—of Indra, the destroyer of enemies
+- पृशनी चित् (*pṛśanī cit*)—the army also
+- एवैः (*evaiḥ*)—surrounding Indra, who was accompanied by the Maruts
+- निषत्ता (*niṣattā*)—sat down
+- ते (*te*)—those Maruts also
+- पुरु (*puru*)—abundant
+- शंसेन (*śaṃsena*)—with praise
+- इंद्रं (*iṃdraṃ*)—Indra
+- ववृधुः (*vavṛdhuḥ*)—strengthened (and thereafter)
+- महापदेन (*mahāpadena*)—by the walls of a great cattle-pen
+- अभीवृतेव (*abhīvṛteva*)—as cattle that have been surrounded and shut in run out together in a herd as soon as a gate is found
+
+### Printed p. 60
+- ध्वांतात् (*dhvāṃtāt*)—from Vṛtra, who is of the form of darkness
+- प्रपित्वात् (*prapitvāt*)—who had surrounded the waters, and who was fattened
+- ता गर्भाः (*tā garbhāḥ*)—the waters that were contained within him
+- उदरंत (*udaraṃta*)—went out and flowed
+
+##### भावार्थ (Bhāvārtha)
+
+The army of Indra, the destroyer of enemies, surrounded Indra, who was accompanied by the Maruts, and took its place to help him. The Maruts also praised Indra abundantly and strengthened him. Straightway, as cattle that have been surrounded by the walls of a great cattle-pen and shut in run out together in a herd as soon as the gate is found, the waters, which were like an embryo within Vṛtra, who is of the form of darkness, who had surrounded the waters and who was fattened, went out and flowed.
+
+##### English translation
+The martial troop of (Indra) the injurer encamped around Indra, (accompanied) by the swift moving (Maruts): they animated him with abundant praise ; like (cattle) penned up within a great stall, the embryonic (waters) issued from the (Vritra) who had arrived in the form of darkness.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ष्वा ते॒ पादा॒ प्र यज्जिगा॒स्यव॑र्ध॒न्वाजा॑ उ॒तये चि॒दत्र॑ ।  
+> त्वमिं॑द्र सालावृ॒कान्स॒हस्र॑मा॒सन्न॑धिषे अ॒श्विना न॑वृत्याः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋष्वा । ते । पादा । प्र । यत् । जिगासि । अवर्धन् । वाजाः । उत । ये । चित् ।  
+> अत्र ।  
+> त्वं । इंद्र । सालावृकान् । सहस्रं । आसन् । दधिषे । अश्विना । आ । ववृत्याः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते पादावृष्टा महांतौ । तादृशस्त्वं यद्यदा जिगासि गच्छसि
+> तदानीं वाजा ऋभवोऽवर्धन् । अवर्धयन् । उतापि च ये चिद्ये केचिद्देवाः
+
+##### Gist of the bhāṣya
+
+"O Indra, your feet are vast (ऋष्वा (*ṛṣvā*)), that is, great. When (यत् (*yat*)) you, being such, go (जिगासि (*jigāsi*)), then the Vājas (वाजाः (*vājāḥ*)), that is, the Ṛbhus, strengthened you; and also whatever (ये चित् (*ye cit*)) deities there are here, they too
+### Printed p. 61
+
+> संति तेऽप्यवर्धयन् । हे इंद्र त्वं सहस्रं सालावृकानासन्नास्यॆ दधिषे । धारयसि।
+> तदानीमश्विनाश्विनावप्या ववृत्याः । आवर्तयेः ॥
+
+##### Gist of the bhāṣya
+
+strengthened you. O Indra, you hold a thousand jackals (सालावृकान् (*sālāvṛkān*)) in your mouth (आसन् (*āsan*), that is, in the mouth). Then you would bring back (आ ववृत्याः (*ā vavṛtyāḥ*), "you would cause to turn") the Aśvins also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- पादा (*pādā*)—feet
+- ऋष्वा (*ṛṣvā*)—are of great form
+- यत् (*yat*)—when
+- प्र जिगासि (*pra jigāsi*)—you move about, then
+- वाजाः (*vājāḥ*)—the Ṛbhus
+- उत (*uta*)—and
+- ये चित् (*ye cit*)—all the other deities who are there
+- आवर्धन् (*āvardhan*)—strengthen you
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- सहस्रं (*sahasraṃ*)—in the number of a thousand
+- सालावृकान् (*sālāvṛkān*)—special animals
+- आसन् (*āsan*)—in the mouth
+- दधिषे (*dadhiṣe*)—you possess (at that time)
+- अश्विना (*aśvinā*)—the Aśvin deities
+- आ ववृत्याः (*ā vavṛtyāḥ*)—cause to return to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your feet are of great form. When you move about well, the Ṛbhus and the other deities strengthen you. O Indra, you hold many special animals in your mouth. At that time cause the Aśvin deities to return to us.
+
+##### English translation
+Vast, (Indra), are your feet ; when you advance, the Vajas, and whatsoever (deities are) there animated you ; you, Indra, hold a thousand jackals in your mouth, may you bring back the Aswins.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म॒ना तूर्णि॒रुप॑ यासि य॒ज्ञमा नास॑त्या स॒ख्याय॑ वक्षि ।  
+> व॒साव्या॑मिंद्र धारयः स॒हस्रा॒श्विना॑ शूर ददत र्म॒घानि॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समना । तूर्णिः । उप । यासि । यज्ञं । आ । नासत्या । सख्याय । वक्षि ।  
+> वसाव्यां । इंद्र । धारयः । सहस्रा । अश्विना । शूर । दधतुः । मघानि ॥ ४ ॥
+
+### Printed p. 62
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र समना संग्रामे तूर्णिस्वरमाणोऽपि यज्ञमुप यासि । उपगच्छसि । तदानीं नासत्याश्विन् सख्याय वक्षि । वहसि । हे इंद्र वसाव्यां वसुसमूहं
+> सहस्रा सहस्रां बहुसंख्यां धारयः । धारयस्यस्माकमर्थाय । हे शूर अश्विनाश्विनावपि तवानुचरौ मघानि धनानि ददतुः । अस्मभ्यं प्रयच्छतः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, even while you hasten (तूर्णिः (*tūrṇiḥ*)) in battle (समना (*samanā*)) you come to (उप यासि (*upa yāsi*)) the sacrifice. Then you bring (वक्षि (*vakṣi*)) the Nāsatyas, the Aśvins, for friendship (सख्याय (*sakhyāya*)). O Indra, you hold (धारयः (*dhārayaḥ*)) for our sake a heap of treasures (वसाव्यां (*vasāvyāṃ*)) in thousands, that is, of great number. O hero, the Aśvins also, your followers, give (ददतुः (*dadatuḥ*)) riches (मघानि (*maghāni*)); they bestow them on us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- समना (*samanā*)—in battle
+- तूर्णिः (*tūrṇiḥ*)—even though you are engaged
+- यज्ञं (*yajñaṃ*)—to our sacrifice
+- उपयासि (*upayāsi*)—you come
+- नासत्या (*nāsatyā*)—the Aśvin deities
+- सख्याय (*sakhyāya*)—to attain friendship with us
+- वक्षि (*vakṣi*)—you bring to us
+- वसव्यां (*vasavyāṃ*)—a heap of riches
+- सहस्रा (*sahasrā*)—in exceedingly great number
+- धारयः (*dhārayaḥ*)—you hold
+- शूर (*śūra*)—O Indra, the valiant
+- अश्विना (*aśvinā*)—the Aśvin deities, who are yours, also
+- मघानि (*maghāni*)—riches
+- ददतुः (*dadatuḥ*)—give us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, even though you are engaged in battle, you come to our sacrifice. You bring the Aśvin deities to us, so that they may attain friendship with us. You possess a heap of riches in exceedingly great number. O valiant Indra, the Aśvin deities, who are yours, also give us riches.
+
+##### English translation
+Hastening in battle you approach the sacrifice; you bring the two Nasatyas to friendship (with us); you, Indra, possess a heap of treasures, thousands (in number) ; the Aswins, hero, gave us riches.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मंद॑मान ऋ॒तादधि॑ प्र॒जायै॒ सखि॑भि॒रिंद्र॑ इषि॒रेभि॒रर्थं॑ ।  
+> आभि॒र्हि मा॒या उप॒ दस्यु॒मागा॒न्मिहः॒ प्र त॒म्रा अ॑वप॒त्तमां॑सि ॥ ५ ॥
+
+### Printed p. 63
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंदमानः । ऋतात् । अधि । प्रजायै । सखिभिः । इंद्रः । इषिरेभिः । अर्थं ।  
+> आ । अभिः । हि । मायाः । उप । दस्युं । आ । अगात् । मिहः । प्र । तम्राः । अवपत् ।  
+> तमांसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र ऋताद्यज्ञादधीषिरेभिर्गमनशीलैः सखिभिर्मरुद्भिः सह मंदसानो
+> माद्यन्मजाय्कॆ यजमानायार्थं धनं प्रयच्छति । स चेंद्र अभिः प्रजाभिर्निमित्तभूताभिर्माया दस्युसंबंधिनीर्विनाशयितुं दस्युमुपागात् । स दस्युस्तम्रा
+> अवर्णणेन ग्ला पयित्रिर्मिहो वृष्टीः प्रावपत् । व्यनाशयदित्यर्थः । तमांसि .... ॥३॥
+
+##### Gist of the bhāṣya
+
+Indra, rejoicing (मंदसानो (*maṃdasāno*)) at the sacrifice (ऋतात् (*ṛtāt*)) together with his friends the Maruts, who are swift-going (इषिरेभिः (*iṣirebhiḥ*)), gives wealth (अर्थं (*arthaṃ*)) to the sacrificer. And that Indra, for the sake of destroying the illusions connected with the Dasyu, went (उपागात् (*upāgāt*)) to the Dasyu by means of these (अभिः (*abhiḥ*)) beings, who were the cause. That Dasyu, the one who afflicts (तम्राः (*tamrāḥ*)) through the lack of rain, scattered down (प्रावपत् (*prāvapat*)) the rains (मिहः (*mihaḥ*)); that is, Indra destroyed them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- ऋतात् आधि (*ṛtāt ādhi*)—in the sacrificial place
+- इषिरेभिः (*iṣirebhiḥ*)—swift-going
+- सखिभिः (*sakhibhiḥ*)—with his friends, the Maruts
+- मंदमानः (*maṃdamānaḥ*)—experiencing joy
+- प्रजायै (*prajāyai*)—to the sacrificers
+- अर्थं (*arthaṃ*)—gives wealth
+- अभिः (*abhiḥ*)—with them
+- मायाः (*māyāḥ*)—in order to destroy the evil power of the Asuras
+- दस्युं (*dasyuṃ*)—to the Dasyu
+- उपागात् (*upāgāt*)—comes
+- तम्राः (*tamrāḥ*)—which afflicts the world through lack of rain
+- मिहः (*mihaḥ*)—the condensed rain
+- प्रावपत् (*prāvapat*)—made it melt and become rain
+- तमांसि (*tamāṃsi*)—destroyed the darkness
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, experiencing joy in the sacrificial place with his friends the Maruts, gives wealth to the sacrificers. With them he comes to the Dasyu in order to destroy the evil power of the Asuras. He made the condensed rain, which afflicts the world through lack of rain, melt and pour down (makes it do so). He destroyed the darkness (destroys it).
+
+##### English translation
+Indra rejoicing at the sacrifice accompanied by his swift-moving friends (the Maruts, gave) wealth to the people; he has come with them against the Dasyu to destroy his illusions; he has scattered the dark rain-clouds and the gloom.
+
 ---
 
-**Progress note:** Done through printed p. 57. Ādityas special topics (Varuṇa, Aryamā); Ṛk 72.9; Sūkta 73 introduction
+**Progress note:** Done through printed p. 63. Mandala 10, Sukta 73, Rks 1-5 (pp. 58-63)
