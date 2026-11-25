@@ -20193,6 +20193,217 @@ A wife is necessary to perform a sacrifice; since the wife has her part in the r
 > ओजी॑यो धृष्णो स्थि॒रमा त॑नुष्व॒ मा त्वा॑ दभन्यातु॒धाना॑  ॒॑
 > दुरेवाः ॥ ४ ॥
 
+### Printed p. 616
+#### Ṛk 4 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इति । चित् । हि । त्वा । धना । जयंतं । मदेऽमदे । अनुऽमदंति । विप्राः ।  
+> ओजीयः । धृष्टो इति । स्थिरं । आ । तनुष्ट । मा । त्वा । दभन् । यातुऽधानाः ।  
+> दुःएवाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इति चिद्येवमेव खलु हे इंद्र मदे मदे सोमपानजन्ये हर्षे सति धना
+> शत्रुधनानि जयंतं जयेन प्राप्नुवंतं त्वामनु पश्चात् ॥ लक्षणेऽनोः कर्मप्रवचनीयत्वं ॥ विप्रा मेधाविनः स्तोतारो मदंति हृष्यंति यद्वा त्वामनुवदंति
+> अनुक्रमेण स्तुवंति । मदतिः स्तुतिकर्मा ॥ हि चेति निघातप्रतिषेधः ॥ हे दृष्टो
+> शत्रुवाणां धर्षयितरिंद्र ॥ त्रसिगृधिधृषिक्षिपेः क्नुः ॥ ओजीयः ॥ ओजस्विशब्दादीयसुनि
+> विन्मत्तोर्लुगिति विनो लुक् । टेरिति टिलोपः ॥ बलवत्तरं अत एव स्थिरं दृढं
+> धनमा तनुष्ट । अभितोऽस्मदर्थं विस्तारय । त्वा त्वां च मा दभन् मा हिंसंतु
+> दुरेवा दुर्गतयो यातुधाना राक्षसाः ॥
+
+##### Gist of the bhāṣya
+
+"Iti cid" means "thus indeed": O Indra, whenever there is exhilaration (mada) arising from drinking Soma, the wise (vipra) praisers rejoice after you, who win by conquest the wealth of your enemies. Here अनु (*anu*) is a karmapravacanīya in the sense of "after". Or else, they praise you in succession, since the root mada has the sense of praising. The non-accentuation (nighāta) is prevented by हि च (*hi ca*). "O bold one (dhṛṣṭo)" is addressed to Indra, the subduer of enemies. ओजीयः (*ojīyaḥ*) means stronger. Therefore, spread out for our sake wealth that is firm and secure, in every direction. May the evil-going Yātudhānas, the Rākṣasas, not harm you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इति चिद्दि (*iti ciddi*)—in this very manner
+- मदेमदे (*mademade*)—when joy arises in you from drinking Soma
+- धना (*dhanā*)—the wealth that is with the enemies
+- जयंतं (*jayaṃtaṃ*)—you who conquer and bring it
+- अनु (*anu*)—with reference to
+- विप्राः (*viprāḥ*)—wise praisers
+- मदंति (*madaṃti*)—delight you by praising
+- दृष्टो (*dṛṣṭo*)—O Indra, defeater of enemies
+- ओजीयः (*ojīyaḥ*)—of exceeding strength
+- स्थिरं (*sthiraṃ*)—and firm wealth
+- आ । तनुष्ट (*ā | tanuṣṭa*)—bring to us
+- दुरेवाः (*durevāḥ*)—of evil going
+- यातुधानाः (*yātudhānāḥ*)—the Rākṣasas called Yātudhānas
+- त्वा (*tvā*)—you
+- मा दभन् (*mā dabhan*)—let them not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, thus, when joy arises in you from drinking Soma, wise praisers praise and delight you, who conquer the enemies and bring their wealth. O Indra, the subduer of enemies, supply us with abundant and lasting wealth. May the Yātudhānas, who roam in evil places, not harm you.
+
+### Printed p. 617
+
+##### English translation
+Verily the pious praise you. (Indra), the giver of wealth in your repeated exhilaration ; spread out for us. resolute Indra great and durable (affluence ); may the malignant Yatudhanas never harm you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॑ व॒यं शा॑शद्महे॒ रणे॑षु प्र॒पश्यं॑तो यु॒धेन्या॑नि॒ भूरि॑ ।  
+> चो॒दया॑मि त॒ आयु॑धा॒ वचो॑भिः॒ सं ते॑ शिशामि॒ ब्रह्म॑णा॒  ॑
+> वयांसि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । वयं । शाशद्महे । रणेषु । प्रपश्यंतः । युधेन्यानि । भूरि ।  
+> चोदयामि । ते । आयुधा । वचःभिः । सं । ते । शिशामि । ब्रह्मणा । वयांसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वयानुगृहीता वयं रणेषु संग्रामेषु शाशद्महे । भृशं
+> शत्रूञ्यातयामः ॥ शत्रु शातने । अस्माद्यजंतान्महिजश्चंदस्युभयथेत्यार्थधातुकत्वादतोलोपयलोपौ ॥ किं कुर्वंतः । युधेन्यानि योधनार्हाणि ॥ कृत्यार्थे
+> तवैकेन्नेन्यत्वन इति युधेरर्हार्थे केन्यप्रत्ययः ॥ भूरि बहूनि बहुलानि ॥ सुपां
+> सुलुगिति शसो लुक् ॥ प्रपश्यंतः प्रकर्षण जानंतः । अपि च ते तवायुधायुधान्यायोधनसाधनानि वज्रादीनि ॥ शेश्छंदसि बहुलमिति शेर्लोपः ॥ वचोभिः स्तुतिभिश्चोदयामि । शत्रून्मति प्रेरयामि । ते त्वदर्थं ब्रह्मणा मंत्रेण स्तुतिरूपेण
+> सहितानि वयांसि । अन्ननामैतत् । हविर्लक्षणान्यन्नानि सं शिशामि । सम्यग्निश्यामि ।
+> संस्करोमीत्यर्थः ॥ शो तनूकरणे । छांदसो विकरणस्य श्लुः । बहुलं छंदसीत्यभ्यासस्यॆत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, favoured by you we शाशद्महे (*śāśadmahe*) in battles, that is, we greatly destroy our enemies (root शत्रु शातने (*śatru śātane*)). Doing what? Seeing clearly (prapaśyantaḥ) the many, abundant things that are fit for fighting (युधेन्यानि (*yudhenyāni*), with the sense of fitness). Moreover, I urge your weapons, the instruments of fighting such as the vajra, with words, that is, with praises; I incite them against the enemies. For you I prepare (सं शिशामि (*saṃ śiśāmi*)) the oblation-foods, the vayāṃsi (a name for food), together with the sacred verse (brahman) in the form of praise: I perfect them, that is, I consecrate them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वया (*tvayā*)—by your favour
+- वयं (*vayaṃ*)—we
+- रणेषु (*raṇeṣu*)—in battles
+- युधेन्यानि (*yudhenyāni*)—what is fit for warriors
+- भूरि (*bhūri*)—abundant strength
+- प्रपश्यंतः (*prapaśyaṃtaḥ*)—having understood well
+- शापद्महे (*śāpadmahe*)—we destroy the enemies
+- ते (*te*)—your
+
+### Printed p. 618
+- आयुधा (*āyudhā*)—weapons
+- वचोभिः (*vacobhiḥ*)—with praises
+- चोदयामि (*codayāmi*)—I urge them to be used against the enemies
+- ते (*te*)—for you
+- ब्रह्मणा (*brahmaṇā*)—with the sacred verse in the form of praise
+- वयांसि (*vayāṃsi*)—foods in the form of oblation
+- सं शिशामि (*saṃ śiśāmi*)—I consecrate and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your favour we, knowing well the strengths and weaknesses of the enemies in battle, destroy them. I praise your weapons, the vajra and others, with hymns and urge you to use them on the enemies. And, addressing you, I consecrate with mantras and the like the foods in the form of oblation and offer them.
+
+##### English translation
+Through you we destroy (our foes) in battles, beholding the numerous
+(hosts) which we have to fight; I urge your weapons with words (of praise)
+I prepare your viands with a sacred verse.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तु॒षेय्यं॑ पुरु॒वर्प॑स॒मृभ्व॑मि॒नत॑वमा॒प्त्यमा॒प्त्यानां॑ ।  
+> आ द॑र्षते॒ शव॑सा स॒प्त दानू॒न्द्र सा॑क्षते प्रति॒माना॑नि॒ भूरि॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तुषेय्यं । पुरुर्वपसं । ऋभ्वं । इनतमं । आप्त्यं । आप्तानां ।  
+> आ । दर्षते । शवसा । सप्त । दानून् । प्र । साक्षते । प्रतिमानानि । भूरि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तुषेय्यं स्तोतव्यं ॥ स्तुवः क्स्येय्यश्चंदसि । उ. ३-९९ । इत्यौणादिकः
+> क्स्येय्यप्रत्ययः ॥ पुरुवर्पसं बहुरूपमृभ्वमुरु भासमानमुरुभूतं वेनतममतिशयेनेश्वरमाप्त्यानामाप्तव्यानां मध्य आप्तमाप्तव्यं एवंभूतमिंद्रं
+> सौमाति शेषः । य इंद्रः शवसा बलेन सप्त सप्तसंख्याकान्दानून्दानवान्वृत्रनमुचिकुयवादीना दर्षते आद्यणाति हिनस्ति ॥ दृ विदारणे । अस्माल्लेटि व्यत्ययेनात्मने-
+
+##### Gist of the bhāṣya
+
+स्तुषेय्यं (*stuṣeyyaṃ*) means "to be praised" (an Uṇādi formation, Uṇ. Sū. 3-99). Many-formed (पुरुवर्पसं (*puruvarpasaṃ*)), shining widely, most lordly (इनतमं (*inatamaṃ*)), the one to be attained among those to be attained: such an Indra "I praise" (this is the word to be supplied). That Indra, with might (śavas), tears apart (आ दर्षते (*ā darṣate*)) the seven Dānavas, Vṛtra, Namuci, Kuyava and the rest.
+
+> पदं । लेटोऽडाटावित्यडागमः । सिब्बहुलमिति सिप् ॥ तथा प्रतिमानान्यसुराणां
+> प्रतिरूपाणि भूरि भूरीणि बहून्यसुरबलानि प्र साक्षते य इंद्रः प्रसहते । यद्वा ।
+> बहूनि प्रतिमानान्यसुराणां स्थानानि प्र साक्षते प्राप्नोति । साक्षतिराप्नोतिकर्मेति
+> यास्कः । नि. ११-१२ ॥ षह अभिभवे । लेट्यडागमः । सिब्बहुलमिति सिप् । टत्वकत्वषत्वानि । छांदसो दीर्घः ॥
+
+##### Gist of the bhāṣya
+
+Likewise he overcomes (प्र साक्षते (*pra sākṣate*)) the many counterparts (pratimānāni) of the asuras, that is, the many asura forces. Or else he reaches the many places of the asuras. Yāska: साक्षतिराप्नोतिकर्मेति यास्कः । नि. ११-१२ (*sākṣatirāpnotikarmeti yāskaḥ | ni. 11-12*) (Ni. 11-12).
+
+### Printed p. 619
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- य इंद्रः (*ya iṃdraḥ*)—the Indra who
+- शवसा (*śavasā*)—with his might
+- सप्तदानून् (*saptadānūn*)—seven Dānavas such as Vṛtra, Namuci, Kuyava, or the clouds
+- आ दर्षते (*ā darṣate*)—tears apart
+- प्रतिमानानि (*pratimānāni*)—counterparts of the asuras
+- भूरि (*bhūri*)—enemy forces
+- प्र साक्षते (*pra sākṣate*)—is able to endure [or: भूरि (*bhūri*)—many; प्रतिमानानि (*pratimānāni*)—places of the asuras; प्र साक्षते (*pra sākṣate*)—how he advances and seizes]
+- स्तुषेय्यं (*stuṣeyyaṃ*)—worthy of praise
+- पुरुवर्पसं (*puruvarpasaṃ*)—able to assume many forms
+- ऋभ्वं (*ṛbhvaṃ*)—exceedingly resplendent
+- इनतमं (*inatamaṃ*)—the supreme lord of all
+- आप्त्यानां (*āptyānāṃ*)—among the gods who are to be attained
+- आप्त्यं (*āptyaṃ*)—worthy of being attained: this Indra I praise
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who by his power tore apart seven chief Dānavas such as Vṛtra, Namuci and Kuyava, or the clouds; who can endure the excessive strength of the enemies, or can storm and seize their impregnable places: such an Indra, worthy of praise, able to assume many forms, exceedingly resplendent, lord of all, and among the gods to be invoked with prayer the most greatly prayed to, I praise.
+
+##### English translation
+I praise (Indra) who is worthy of praise, multiform, vast, supreme, most accessible of the accessible: he assails with might the seven Danavas, he overpowers many opposing hosts.
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the word आप्त्यानां (*āptyānāṃ*) in this Ṛk, Yāska gives a nirvacana for the Ṛk:
+आप्त्याः । आप्त्या अप्नोतेः । तेषामेष निपातो भवत्रैंद्रामृचि ॥ स्तुषेय्यं पुरुवर्पसमृभ्वमिनतमाप्त्यमाप्त्यानां ॥ आ दर्षते शवसा सप्तदानून्प्रसाक्षते प्रतिमानानि भूरि ॥ (*āptyāḥ | āptyā apnoteḥ | teṣāmeṣa nipāto bhavatraiṃdrāmṛci ‖ stuṣeyyaṃ puruvarpasamṛbhvaminatamāptyamāptyānāṃ ‖ ā darṣate śavasā saptadānūnprasākṣate pratimānāni bhūri ‖*) स्तोतव्यं बहुरूपमुरुभूतमीश्वरतममाप्तव्यमाप्तव्यानामादृणाति यः शवसा बलेन सप्तॆ दात्यनिति ना सप्तॆ दानवानिति ना प्रसाक्षते प्रतिमानानि बहूनि ॥ (*stotavyaṃ bahurūpamurubhūtamīśvaratamamāptavyamāptavyānāmādṛṇāti yaḥ śavasā balena saptè dātyaniti nā saptè dānavāniti nā prasākṣate pratimānāni bahūni ‖*) (Ni. 11-2-1)
+
+### Printed p. 620
+The word आप्त्या (*āptyā*) is derived from the root आप्ल व्याप्तौ (*āpla vyāptau*). It is used in this Indra-Ṛk by way of context.
+स्तुषेय्यं पुरुवर्पसमृभ्वं (*stuṣeyyaṃ puruvarpasamṛbhvaṃ*)—स्तोतव्यं बहुरूपमुरुभूतमीश्वरतमं ॥ (*stotavyaṃ bahurūpamurubhūtamīśvaratamaṃ ‖*) The words in this pāda and in the next are epithets describing Indra's qualities. Indra is worthy of being praised; being a god of great glory, all people praise him. Indra can assume many forms. As the Śruti sentence इंद्रो मायाभि पुरुरूप एति (*iṃdro māyābhi pururūpa eti*) says, Indra by his power or glory is able to take whatever forms he wishes. ऋभ्वं (*ṛbhvaṃ*) is said to mean उरुभूतं (*urubhūtaṃ*): one of large form, or of excellent glory.
+इनतमं आप्तं आप्त्यानां (*inatamaṃ āptaṃ āptyānāṃ*)—ईश्वरतमं आप्तव्यं आप्तव्यानां ॥ (*īśvaratamaṃ āptavyaṃ āptavyānāṃ ‖*) इन (*ina*) means master, lord, sovereign. इनतम (*inatama*) means the supreme or most excellent lord, the master of all. आप्त (*āpta*) means one worthy of being attained: people desire that they may attain him, that he may be obtained by them, or that he may come near them. Among gods endowed with such qualities, Indra is आप्तव्यं (*āptavyaṃ*), the one most desired to be near: people wish that Indra, being near, may hear their hymns and grant their desired ends. Hence people desire Indra more than all other gods; this is the main intention.
+आ दर्षते शवसा सप्त दानून् (*ā darṣate śavasā sapta dānūn*)—आ दृणाति यः शवसा बलेन सप्त दात्यनिति वा सप्त दानवानिति वा॥ (*ā dṛṇāti yaḥ śavasā balena sapta dātyaniti vā sapta dānavāniti vā‖*) Two meanings are given here for the word दानवान् (*dānavān*). सप्त दात्यन्सप्तसर्पणशीलान् वृष्टुदकप्रदात्यन् मेघान्। (*sapta dātyansaptasarpaṇaśīlān vṛṣṭudakapradātyan meghān|*) One meaning: the clouds that move in the sky and give, that is, pour down, rain-water. Or else दानवानिति वा (*dānavāniti vā*): the Dānavas, the sons born of Danu, one of the wives of the sage Kaśyapa, are called Dānavas. Since they are of evil nature, it is customary to say that they belong to the group of asuras. Hence the sense of this sentence is: Indra by his strength and power tears apart the moving clouds, or the asuras called Dānavas.
+
+### Printed p. 621
+प्र साक्षते प्रतिमानानि भूरि (*pra sākṣate pratimānāni bhūri*)—प्र साक्षते प्रतिमानानि बहूनि ॥ (*pra sākṣate pratimānāni bahūni ‖*) Since it is said here that साक्षतिराप्पोति कर्मा (*sākṣatirāppoti karmā*) (sākṣati is a verb of reaching), प्रसाक्षते (*prasākṣate*) means he approaches, that is, approaches and defeats. The intention is: Indra overcomes the strength and power of many asuras, or approaches the places of the asuras and conquers them.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि तद्द॑धि॒षेव॑रं॒ परं॑ च॒ यस्मि॒न्ना वि॒धाव॑सा दुरो॒णे ।  
+> आ मा॒तरा॑ स्थापयसे जिग॒त्तू आत॑ इनोषि॒ कर्व॑रा पु॒रूणि॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । तत् । दधिषे । अवरं । परं । च । यस्मिन् । अविथ । अवसा । दुरोणे ।  
+> आ । मातरा । स्थापयसे । जिगत्तू इति । अतः । इनोषि । कर्वरा । पुरूणि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्तस्मिन्यजमानस्य गृहेवरमल्पं भौमं धनं परमुत्कृष्टं दिवि भवं धनं
+> च हे इंद्र त्वं नि दधिषे । निदधासि । निक्षिपसि । यस्मिन्नुरोणे गृहेवसा । अन्ननामैतत् । तर्पकेणान्नेन हविर्लक्षणेनाविथ अवसि तृप्यसि ॥ अवतेस्तृप्त्यर्थाच्छंदसि
+> लुज्लज्लिट इति सार्वकालिको लिट् । आत आदेरित्यभ्यासस्यात्वं । यद्वृत्तानित्यमिति
+> निघातप्रतिषेधः ॥ अपि च मातरा सकलस्य भूतजातस्य निर्मात्र्य द्यावापृथिव्यौ
+> जिगत्तू गमनशीले इतस्ततः प्रचलंत्यावा स्थापयसे । स्वकीये स्थानेऽवस्थापयसि ।
+> नैश्चल्येन यथावतिष्ठेते तथा करोषीत्यर्थः । विश्वक्तस्तंभ पृथिवीमुत द्यामिति
+> निगमांतरं । ऋ. १०-८९-४ । हे इंद्र अतः कारणात्पुरूणि बहूनि कर्वरा । कर्मनामैतत् । कर्वराणि ॥ शेश्चंदसि बहुलमिति शेर्लोपः ॥ कर्माणि लौकिकानि
+> वैदिकानि चेनोषि । प्राप्नोषि ॥ इण् गतौ । व्यत्ययेन श्नुः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you नि दधिषे (*ni dadhiṣe*), that is, deposit, in the house of the sacrificer the lesser wealth of the earth (avara) and the superior wealth born in heaven (para), in that house where you are gratified (अविथ (*avitha*)) with the satisfying food (avasā; a name for food) in the form of oblation. Moreover you set (स्थापयसे (*sthāpayase*)) the two mothers, heaven and earth, makers of all beings, which are moving, shifting this way and that, in their own place; you make them stand firm. Another Nigama: विश्वक्तस्तंभ पृथिवीमुत द्यामिति (*viśvaktastaṃbha pṛthivīmuta dyāmiti*) (Ṛ. Saṃ. 10-89-4). For this reason, O Indra, you accomplish (इनोषि (*inoṣi*), obtain) many deeds (कर्वरा (*karvarā*), a name for karma), both worldly and Vedic.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् दुरोणे (*yasmin duroṇe*)—in whose house, the sacrificer's
+- अवसा (*avasā*)—with food in the form of oblation
+- आविध (*āvidha*)—you are gratified
+- तत् (*tat*)—in that sacrificer's house
+- अवरं (*avaraṃ*)—the lesser wealth relating to the earth
+- परं च (*paraṃ ca*)—and the superior, of the heavenly world
+
 ---
 
-**Progress note:** Done through printed p. 615. pp. 610-615 (batch API)
+**Progress note:** Done through printed p. 621. pp. 616-621 (batch API)
