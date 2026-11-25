@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Enlarged crops around the doubtful numbers of a scan-made volume, for a focused re-reading (shared tool; Vol 25 first). No API, no cost.
 
-  python3 tools/rv/scan_crops.py VOL [--kinds number,head] [--per 10] [--pdf PATH] [--base N]   (Vol 26 part 2: --pdf vol26/scans/Rig_Vol26_part2.pdf --base 1000)
+  python3 tools/rv/scan_crops.py VOL [--kinds number,head] [--per 10] [--pdf PATH] [--base N] [--tail PAGEFILE:PDF]   (Vol 26 part 2: --pdf vol26/scans/Rig_Vol26_part2.pdf --base 1000)
 For each open question of volN/review/questions.tsv of those kinds (and not yet answered): the page is rendered, Tesseract (kan+eng, TSV with word boxes, cached in
 volN/work/ocr/pNNNN.tsv) gives the printed lines with their boxes; the line that holds the mark is found by matching the letters before and after the mark
 (digits ignored) against each printed line. The crop is that line's neighbourhood (a head: the whole head line), enlarged to about 1560 px wide. `per` crops are stacked
@@ -12,10 +12,13 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 LET = re.compile(r'[^ಀ-೥೰-೿A-Za-z]+')
 def letters(s): return LET.sub('', s)
+def lab(r):
+    t = r[:-3].translate(str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')); return t if re.fullmatch(r'[0-9\-–,.]+', t) else '(a word, see the crop)'
 def page_png(vol, pg):
     d = os.path.join(ROOT, f'vol{vol}', 'work', 'crops'); os.makedirs(d, exist_ok=True); out = os.path.join(d, f'full{pg:04d}')
     if not os.path.exists(out + '.png'):
-        subprocess.run(['pdftoppm', '-f', str(pg - BASE), '-l', str(pg - BASE), '-scale-to-x', '2304', '-scale-to-y', '-1', '-gray', '-png', '-singlefile', PDFS[vol], out], check=True)
+        pdf, pn = (TAIL[1], 1) if TAIL and pg == TAIL[0] else (PDFS[vol], pg - BASE)
+        subprocess.run(['pdftoppm', '-f', str(pn), '-l', str(pn), '-scale-to-x', '2304', '-scale-to-y', '-1', '-gray', '-png', '-singlefile', pdf, out], check=True)
     return out + '.png'
 def lines_of(vol, pg, png):
     tsv = os.path.join(ROOT, f'vol{vol}', 'work', 'ocr', f'p{pg:04d}.tsv')
@@ -33,6 +36,7 @@ def lines_of(vol, pg, png):
 def main():
     a = sys.argv[1:]; vol = a[0]; kinds = (a[a.index('--kinds') + 1] if '--kinds' in a else 'number,head').split(','); per = int(a[a.index('--per') + 1]) if '--per' in a else 10; tag = a[a.index('--tag') + 1] if '--tag' in a else ('num' if 'word' not in kinds else 'word')
     PDFS[vol] = os.path.join(ROOT, a[a.index('--pdf') + 1]) if '--pdf' in a else os.path.join(ROOT, f'vol{vol}', 'scans', f'Rig_Vol{vol}.pdf')
+    global TAIL; TAIL = (int(a[a.index('--tail') + 1].split(':')[0]), os.path.join(ROOT, a[a.index('--tail') + 1].split(':')[1])) if '--tail' in a else None
     global BASE; BASE = int(a[a.index('--base') + 1]) if '--base' in a else 0
     Q = [q for q in csv.DictReader(open(os.path.join(ROOT, f'vol{vol}', 'review', 'questions.tsv'), encoding='utf8'), delimiter='\t') if q['kind'] in kinds and not q['answer']]
     os.makedirs(os.path.join(ROOT, f'vol{vol}', 'work', 'ocr'), exist_ok=True); cd = os.path.join(ROOT, f'vol{vol}', 'work', 'crops')
@@ -71,12 +75,12 @@ def main():
     for j in range(0, len(items), per):
         grp = items[j:j + per]; n += 1; Hh = sum(c.height + 44 for _, c in grp); M = Image.new('RGB', (1560, Hh), 'white'); d = ImageDraw.Draw(M); y = 0
         for q, c in grp:
-            d.rectangle((0, y, 1560, y + 40), fill=(225, 235, 255)); d.text((8, y + 4), f"{q['id']}  PDF p{q['pdf_page']}  {q['kind']}  token before the mark: {q['reading']}", fill='black', font=font); y += 44; M.paste(c, (0, y)); y += c.height
+            d.rectangle((0, y, 1560, y + 40), fill=(225, 235, 255)); d.text((8, y + 4), f"{q['id']}  PDF p{q['pdf_page']}  {q['kind']}  mark no. {q['nth_mark']} on its line; first reader wrote: {lab(q['reading'])}", fill='black', font=font); y += 44; M.paste(c, (0, y)); y += c.height
         M.save(os.path.join(cd, f'mosaic_{tag}_{n:03d}.png'))
         with open(os.path.join(cd, f'mosaic_{tag}_{n:03d}.tsv'), 'w', encoding='utf8') as o:
             for q, c in grp: o.write('\t'.join([q['id'], q['pdf_page'], q['kind'], q['reading'], q['context'][:100]]) + '\n')
     with open(os.path.join(cd, f'nomatch_{tag}.tsv'), 'w', encoding='utf8') as o:
         for r in nomatch: o.write('\t'.join(r) + '\n')
     print(f'{len(Q)} questions: {len(items)} cropped into {n} mosaics; {len(nomatch)} without a matching printed line → {cd}')
-PDFS = {}; BASE = 0
+PDFS = {}; BASE = 0; TAIL = None
 main()
