@@ -104,6 +104,94 @@ In the sense that concerns the sacrifice, the priests, the sacrificer and others
 
 (Ai. Brā. 13-25) **GLOSS**
 
+### Printed p. 7
+
+In the beginning King Soma (the Soma plant; there is a custom of calling the Soma plant King Soma out of respect) was in heaven. He was not in this world. Knowing this, the gods and the seers considered how to bring this Soma here. Then they discussed the matter, and, understanding that the metres have the power to bring Soma from heaven to the earth, they addressed the metres and prayed: O metres, for our sake, that is, to be used in our sacrifice, you should bring to the earth the Soma that is in heaven. Accepting their prayer, the metres assumed the forms of certain birds well known in the world and flew off to heaven. Since winged birds are called सुपर्ण (*suparṇa*), and since these birds engaged in the fetching of Soma, this episode of the fetching of Soma is called the Sauparṇa story in the Purāṇas and similar works:
+
+छंदांसि वै तत्सोमं राजानमच्छाचरंस्तानि ह तर्हि चतुरक्षराणि चतुरक्षराण्येव छंदांस्यासन्सा जगती चतुरक्षरा प्रथनोदपतत्सा पतित्वार्धमध्वनो गत्वाश्राम्यत्सा परास्य त्रीण्यक्षराण्येकाक्षरा भूत्वा दीक्षां च तपश्च हरंती पुनरभ्यवापतत्तस्मात्तस्य वित्ता दीक्षा वित्तं तपो यस्य पशवः संति जागता हि पशवो जगती हि तानाहरत् ॥ (*chaṃdāṃsi vai tatsomaṃ rājānamacchācaraṃstāni ha tarhi caturakṣarāṇi caturakṣarāṇyeva chaṃdāṃsyāsansā jagatī caturakṣarā prathanodapatatsā patitvārdhamadhvano gatvāśrāmyatsā parāsya trīṇyakṣarāṇyekākṣarā bhūtvā dīkṣāṃ ca tapaśca haraṃtī punarabhyavāpatattasmāttasya vittā dīkṣā vittaṃ tapo yasya paśavaḥ saṃti jāgatā hi paśavo jagatī hi tānāharat ‖*)
+
+(Ai. Brā. 13-25)
+
+Then the metres, Gāyatrī and the others, assuming the forms of birds, got ready to fly to heaven. At that time all the metres, Gāyatrī and the others, had only four syllables (in each pāda); no metre had more than four syllables. First the metre Jagatī said that it would bring Soma, and flew towards heaven, where Soma was. When it had flown half the way it was worn out with weariness, had no strength to fly further, and had to turn back. Through the weariness of having gone so far, the metre Jagatī lost three of its four syllables. It had to return with the one syllable that remained. In this way, returning without the strength to bring Soma, it brought with it the initiation (दीक्षॆ (*dīkṣè*)) connected with the Soma sacrifice, that is, the rite of initiation in the form of the दक्षिणीयॆष्टि (*dakṣiṇīyèṣṭi*), and the austerity in the form of drinking milk and the like. Therefore the initiation is undertaken with the ṛks of the metre Jagatī. The metre Jagatī has the power to increase wealth in cattle; therefore initiation and wealth come easily to a man who has wealth in cattle. Because the metre Jagatī brought cattle, it is said that the metre Jagatī has the power to give cattle. This is stated in the Yajurveda:
+
+सा पशुभिश्च दीक्षया चागच्छत्तस्माज्जगतीछंदसां पशव्यतमा तस्मात्पशुमंतं दीक्षोपनमति (*sā paśubhiśca dīkṣayā cāgacchattasmājjagatīchaṃdasāṃ paśavyatamā tasmātpaśumaṃtaṃ dīkṣopanamati*) (Tai. Saṃ. 6-1-6-2).
+
+### Printed p. 8
+
+अथ तिष्टुबुदपतत्सा पतित्वा भूयोऽर्धादध्वनो गत्वाश्राम्यता परास्यैकमक्षरं त्रैक्षरा भूत्वा दक्षिणा हरंती पुनरभ्यवापतत्तस्मान्मध्यंदिने दक्षिणा नीयंते त्रिष्टुभो लोके त्रिष्टुब्बि ता आहरत् ॥ (*atha tiṣṭubudapatatsā patitvā bhūyo 'rdhādadhvano gatvāśrāmyatā parāsyaikamakṣaraṃ traikṣarā bhūtvā dakṣiṇā haraṃtī punarabhyavāpatattasmānmadhyaṃdine dakṣiṇā nīyaṃte triṣṭubho loke triṣṭubbi tā āharat ‖*)
+
+(Ai. Brā. 13-25)
+
+(Pa. Pra. 7-25)**NOTE**
+
+Then the metre Triṣṭubh said that it would bring Soma, and sprang into the atmosphere. But before it had gone a little more than half the way, it was worn out with weariness, left one of its four syllables there itself and returned with the remaining three syllables. On returning it brought with it the dakṣiṇā (the order of the fees given to the priests in the sacrifice). Because the metre Triṣṭubh brought the dakṣiṇā in this way, and because the metre Triṣṭubh is connected with the midday pressing (माध्यंदिनसवन (*mādhyaṃdinasavana*)), there is the custom of giving the dakṣiṇā (honorarium) to the priests at the time of the midday pressing performed in the sacrifice.
+
+ते देवा अब्रुवन् गायत्रीं त्वं न इमं सोमं राजानमाहरेति सा तथेत्यब्रवीत्तां वै मा सर्वेण स्वस्त्ययनेनानुमंत्रयध्वमिति तथेति सोदपतत्तां देवाः सर्वेण स्वस्त्ययनेनान्वमंत्रयंत प्रेति चेति चेत्येतद्वै सर्वं स्वस्त्ययनं तत्प्रेति चेति तद्योऽस्य प्रियः स्यात्तमेतेनानुमंत्रयेत प्रेति चेति स्तस्येव गच्छति स्वस्ति पुनरागच्छति ॥ (*te devā abruvan gāyatrīṃ tvaṃ na imaṃ somaṃ rājānamāhareti sā tathetyabravīttāṃ vai mā sarveṇa svastyayanenānumaṃtrayadhvamiti tatheti sodapatattāṃ devāḥ sarveṇa svastyayanenānvamaṃtrayaṃta preti ceti cetyetadvai sarvaṃ svastyayanaṃ tatpreti ceti tadyo 'sya priyaḥ syāttametenānumaṃtrayeta preti ceti stasyeva gacchati svasti punarāgacchati ‖*)
+
+(Ai. Brā. 13-26)
+
+(Ai. Brā. 13-26)**NOTE**
+
+Seeing that the metres Jagatī and Triṣṭubh had returned without the capacity to bring Soma, the gods went to the metre Gāyatrī and prayed: O Gāyatrī, you must bring Soma for us from heaven. Gāyatrī agreed that it should be so, and said to the gods: O gods, as you say, I shall go to heaven to bring Soma. But during the time of my journey, and so that I may return safely, you must recite the blessing mantras of benediction (स्वस्त्ययन (*svastyayana*)) and pray, for those who come, that I may return safely. Having said this, it assumed the form of the falcon bird and flew off by the path of the atmosphere. The gods agreed that it should be so, and kept reciting the benediction mantras that Gāyatrī might return safely. And which is that mantra? It is प्रा च च (*prā ca ca*)**NOTE**. Here pra is one mantra; ā is the second mantra; there are two letters ca to indicate the sense of joining the two together. The meaning of these mantras is: go safely to the place where Soma is, take it, and come back again safely. There is no better benediction mantra than this. Therefore, in the world, friends, kinsmen and others recite this mantra when they have to make a journey. It is well known that through the power of reciting this mantra, those who have travelled come back safe and reach home.
+
+### Printed p. 9
+
+सा पतित्वा सोमपालान् भीषयित्वा पद्भ्यां च मुखेन च सोमं राजानं समगृभ्णाद्यानि चेतरे छंदसी अक्षराण्यजहितां तानि चोपसमगृभ्णात् ॥ (*sā patitvā somapālān bhīṣayitvā padbhyāṃ ca mukhena ca somaṃ rājānaṃ samagṛbhṇādyāni cetare chaṃdasī akṣarāṇyajahitāṃ tāni copasamagṛbhṇāt ‖*)
+
+Then Gāyatrī, in the form of the falcon, flew to heaven and frightened the Soma guardians, स्नान (*snāna*), भ्राज (*bhrāja*) and the others, who were guarding Soma there, with its harsh cry and with weapons such as its sharp beak and claws. Seeing it, the Soma guardians ran off a little way. Then the falcon seized the Soma (the Soma plants) there with its two feet and its beak, and tried to fly back, that is, to the earth. Who were the Soma guardians who protected Soma in heaven? What are their names? This matter is stated in the following Yajurveda mantras:
+
+स्नान भ्राजांघारे बंभारे हस्त सुहस्त कृशानवेते वः सोमक्रयणास्तान् रक्षध्वं मा वो दभन् ॥ (*snāna bhrājāṃghāre baṃbhāre hasta suhasta kṛśānavete vaḥ somakrayaṇāstān rakṣadhvaṃ mā vo dabhan ‖*)
+
+(Tai. Saṃ. 1-2-7-1)
+
+स्नान भाजेत्याहृते ना अमुष्मिन् लोके सोममरक्षन् (*snāna bhājetyāhṛte nā amuṣmin loke somamarakṣan*)
+
+(Tai. Saṃ. 6-1-10-5)
+
+That is: स्नान (*snāna*), भ्राज (*bhrāja*), अंघारि (*aṃghāri*), बंभारि (*baṃbhāri*), हस्त (*hasta*), सुहस्त (*suhasta*) and कृशानु (*kṛśānu*) are the Soma guardians. O Soma guardians, guard carefully this Soma that is under your charge, so that no one may steal it; this is the meaning of the first mantra. The meaning of the second mantra is that स्नान (*snāna*), भ्राज (*bhrāja*) and the other Soma protectors were guarding the Soma that was in heaven. When the falcon thus carried off the Soma, which was under the protection of the Soma guardians स्नान (*snāna*), भ्राज (*bhrāja*) and the others mentioned above, and brought it to the earth, it also brought back the four syllables that the metres Jagatī and Triṣṭubh had lost. These four syllables, together with the four syllables that Gāyatrī had before, made eight syllables for the pāda of Gāyatrī.
+
+तस्या अनु विसृज्य कृशानुः सोमपालः सव्यस्य पदो नखमच्छिदत्तच्छल्यकोऽभवत्तस्मात्स नखमिव यद्वशमस्रवत्सा वशाभवत्तस्मात्सा हविरिवाथ यः शल्यो यदनीकमासीत्स सर्पो निर्दंश्यभवत्सहसः स्वजो यानि पर्णानि ते मंथावला यानि स्नानानि ते गंडूपदा यत्तेजनं सोऽन्द्धाहिः सो सा तथेषुरभवत् ॥ (*tasyā anu visṛjya kṛśānuḥ somapālaḥ savyasya pado nakhamacchidattacchalyako 'bhavattasmātsa nakhamiva yadvaśamasravatsā vaśābhavattasmātsā havirivātha yaḥ śalyo yadanīkamāsītsa sarpo nirdaṃśyabhavatsahasaḥ svajo yāni parṇāni te maṃthāvalā yāni snānāni te gaṃḍūpadā yattejanaṃ so 'nddhāhiḥ so sā tatheṣurabhavat ‖*)
+
+(Ai. Brā. 13-26)
+
+The Gandharvas who guarded Soma in heaven were seven, स्वान् (*svān*)**NOTE**, भ्राज (*bhrāja*) and the others. Among them कृशानु (*kṛśānu*) was the seventh. Seeing Gāyatrī carrying Soma away in the form of the falcon, this Kṛśānu pursued it, and, since he could not catch it, shot an arrow from the bow in his hand. It struck the claw of the falcon's left foot, and it
+
+### Printed p. 10
+
+was cut off. That cut-off claw (nail) became a porcupine (Porcupine) about the size of a monkey. This porcupine has on the tip of its tail many sharp quills, a span in extent, hard and pointed like iron rods. Such an animal is called शल्य (*śalya*) or शल्यक (*śalyaka*) (porcupine). Because this animal arose from the claw cut off from the falcon, its quills are as very sharp as a claw. When the claw was cut off and fell by the arrow, the liquid वशा (*vaśā*) or fat that was near the claw flowed out. This fat was transformed into a she-goat, अजा (*ajā*), आवि (*āvi*) (female goat). Because this goat arose from Gāyatrī in the form of the falcon, it was fixed as a fit offering in sacrifices and the like, suitable for the deities. This matter is indicated in the Yajurveda and other texts by mantras such as
+
+एतामेव वशा मादित्येभ्यः कामायालभेत (*etāmeva vaśā mādityebhyaḥ kāmāyālabheta*) **GLOSS**
+
+When the arrow shot at the falcon by the Gandharva named Kṛśānu cut its claw, it struck the hard claw and the sharp point of the arrow was blunted. The shaft or stick of the arrow became a snake that had no power to bite. It is called दुंदुभ (*duṃdubha*). This snake called दुंदुभ (*duṃdubha*), a snake that always moves in water, has no venom, and so is not capable of biting and killing any creature. The pointed metal (iron) tip of the arrow lost its sharpness, became blunt and became a snake with two heads called स्वज (*svaja*). The bird's feathers tied at the base of the arrow, so that it would go fast, became the hanging roots of banyan and other trees; the hanging shoots that come down from the branches of the banyan tree, touch the earth and become roots are called मंथावला (*maṃthāvalā*). The feathers tied on the arrow themselves became these मंथावल (*maṃthāvala*). The sinews (nerves), like threads, that had been used to bind the feathers to the arrow became worms of a special kind called गंडूपद (*gaṃḍūpada*). The wooden stick used for making that arrow became a snake without sight, without eyes, called अंधाहि (*aṃdhāhi*). The arrow shot by the Gandharva named Kṛśānu became the many kinds of creatures mentioned above.
+
+सा यद्दक्षिणेन पदा समगृभ्णात्तत्प्रातःसवनमभवत्तद्गायत्री स्वमायतनमकुरुत तस्मात्तत्समृद्धतमं मन्यंते सर्वॆषां सवनानामग्रियो मुख्यो भवति श्रेष्ठतामश्नुते य एवं वेदाथ यत्सव्येन पदा समगृभ्णात्तन्माद्धंदिनं सवनमभवत्तद्विस्रंसत तद्विस्रस्तं नान्वाप्पोत्तूर्वं सवनं ते देवाः प्राजिज्ञानंत तस्मिंस्किष्टुभं छंदसामदधुरिंद्रं देवतानां तेन तत्समावद्वीर्यमभवत्तूर्वेण सवनेनोभाभ्यां सवनाभ्यां समावद्वीर्याभ्यां समावज्जामिभ्यां राध्योति य एवं वेदाथ यन्मुखेन समगृभ्णात्तृतीयसवनमभवत् ॥ (*sā yaddakṣiṇena padā samagṛbhṇāttatprātaḥsavanamabhavattadgāyatrī svamāyatanamakuruta tasmāttatsamṛddhatamaṃ manyaṃte sarvèṣāṃ savanānāmagriyo mukhyo bhavati śreṣṭhatāmaśnute ya evaṃ vedātha yatsavyena padā samagṛbhṇāttanmāddhaṃdinaṃ savanamabhavattadvisraṃsata tadvisrastaṃ nānvāppottūrvaṃ savanaṃ te devāḥ prājijñānaṃta tasmiṃskiṣṭubhaṃ chaṃdasāmadadhuriṃdraṃ devatānāṃ tena tatsamāvadvīryamabhavattūrveṇa savanenobhābhyāṃ savanābhyāṃ samāvadvīryābhyāṃ samāvajjāmibhyāṃ rādhyoti ya evaṃ vedātha yanmukhena samagṛbhṇāttṛtīyasavanamabhavat ‖*)
+
+### Printed p. 11
+
+It has been said already that when the falcon brought Soma from heaven, it brought the Soma plants holding them with its two feet and its beak. While bringing them thus, the Soma (or Soma plant) that the bird held with its right foot became the morning pressing (प्रातःसवन (*prātaḥsavana*)). Gāyatrī made that, that is, the morning pressing, its own place. Therefore, among all the pressings the morning pressing is the best of all; this is the view of the sacrificial authorities. At the time of that morning pressing the use of mantras and the like is also special. Therefore the man who knows this matter well is regarded as the best and the chief among his equals. The portion of Soma that Gāyatrī brought holding it with the left foot became known as the midday pressing. Since, in holding and bringing the Soma plant with the left foot, the left foot did not have as much strength as the right, the plants kept slipping a little from the foot again and again. For this reason this midday pressing did not become equal to the morning pressing in strength and power. Seeing this, the gods deliberated and established, for the metres used in the midday pressing rite, the metre Triṣṭubh, and Indra, the best among the gods. Through the companionship of Indra, the best among the gods, and of the metre Triṣṭubh, dear to him, the midday pressing obtained a position equal to the morning pressing in strength, power and excellence. The man who knows this equality of the morning pressing and the midday pressing, and their strength, power and excellence, obtains abundance and well-being in wealth and the like, and lives happily. Then the portion of Soma that Gāyatrī, in the falcon form, brought holding it in her beak became known as the third pressing (तृतीयसवन (*tṛtīyasavana*)).
+
+तस्य पतंती रसमधयत्तद्वीतरसं नान्वाप्नोत्पूर्वे सवने ते देवाः प्राजिज्ञासंत तत्पशुष्पपश्यंस्तद्यदाशिरमवनयंत्याज्येन पशुना चरंति तेन तत्समावद्वीर्यमभवत्पूर्वाभ्यां सवनाभ्यां सर्वैः सवनैः समावद्वीर्यैः समावज्जामिभी राध्योति य एवं वेद ॥ (*tasya pataṃtī rasamadhayattadvītarasaṃ nānvāpnotpūrve savane te devāḥ prājijñāsaṃta tatpaśuṣpapaśyaṃstadyadāśiramavanayaṃtyājyena paśunā caraṃti tena tatsamāvadvīryamabhavatpūrvābhyāṃ savanābhyāṃ sarvaiḥ savanaiḥ samāvadvīryaiḥ samāvajjāmibhī rādhyoti ya evaṃ veda ‖*)
+
+(Ai. Brā. 13-27)
+
+While Gāyatrī (the falcon) was coming, holding the Soma plant in her beak, she kept drinking the juice in that plant a little at a time. Therefore, that is, because the juice in the Soma plants brought in the beak was not abundant but little, this third pressing did not become equal to the morning pressing and the midday pressing in strength, power and the like. So the gods, seeing this, deliberated and found that the suitable means for it lay in cattle. From cattle come milk and the offering materials obtained from it, such as curds and ājya (ghee). If milk is mixed with the Soma juice, which is little in the plants, that juice becomes strong. If oblations and the like are offered with ājya and with parts of the cattle, the pressing rite becomes complete. Therefore those who know the order of the sacrifice
+
+### Printed p. 12
+
+add to the ऋजीष (*ṛjīṣa*) used in the third pressing (the husks of the Soma plant that remain after the juice has been taken out in the morning and midday pressings are called ऋजीष (*ṛjīṣa*)) the admixture materials (आशिर (*āśira*)) such as milk, and, knowing that by making oblations with the ājya obtainable from cattle and with the hearts and other parts of cattle, the third pressing rite becomes equal to the morning and midday pressings in strength, power and the like, they practise accordingly. This matter is stated in another branch in this way:
+
+ब्रह्मवादिनो वदंति कस्मात्सत्याद्दायत्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं परीयायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पयैत्तस्मात्तेजस्विनीतमा पद्भ्यां द्वे सवने समगृह्णान्मुखेन्ैकं यन्मुखेन समगृह्णात्तदधयत्तस्माद्वे सवने शुक्रवती प्रातस्सवनं च माध्यंदिनं च तस्मात्तृतीयसवन ऋजीषमभिषुण्वंति धीतमिव हि मन्यंते अशिरमवनयति सशुक्रत्वाय ॥ (*brahmavādino vadaṃti kasmātsatyāddāyatrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ parīyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ payaittasmāttejasvinītamā padbhyāṃ dve savane samagṛhṇānmukhenaikaṃ yanmukhena samagṛhṇāttadadhayattasmādve savane śukravatī prātassavanaṃ ca mādhyaṃdinaṃ ca tasmāttṛtīyasavana ṛjīṣamabhiṣuṇvaṃti dhītamiva hi manyaṃte aśiramavanayati saśukratvāya ‖*)
+
+(Tai. Saṃ. 6-1-6-4)
+
+The same meaning is stated in the Taittirīya Saṃhitā. The man who knows this matter, that is, that the three pressings, the morning, the midday and the third, have obtained a position equal in strength, power and excellence, lives happily, endowed with all abundance.
+
+ते ना इमे इतरे छंदसी गायत्रीमभ्यवदेतां वित्तं नावक्षराण्यनुपर्यागुरिति नेत्यब्रवीद्गायत्री यथावित्तमेव न इति ते देवेषु प्रश्नमैतां ते देवा अब्रुवन्यथावित्तमेव न इति तस्माद्वाप्येतर्हि वित्यां व्याहुर्यथावित्तमेव न इति ततो वा अष्टाक्षरा गायत्र्यभवत्प्रक्षरा त्रिष्टुबेकाक्षरा जगती ॥ (*te nā ime itare chaṃdasī gāyatrīmabhyavadetāṃ vittaṃ nāvakṣarāṇyanuparyāguriti netyabravīdgāyatrī yathāvittameva na iti te deveṣu praśnamaitāṃ te devā abruvanyathāvittameva na iti tasmādvāpyetarhi vityāṃ vyāhuryathāvittameva na iti tato vā aṣṭākṣarā gāyatryabhavatprakṣarā triṣṭubekākṣarā jagatī ‖*)
+
+(Ai. Brā. 13-28)
+
+Earlier, when the metres Triṣṭubh and Jagatī flew to heaven to bring Soma, they did not reach heaven but grew weary half way and had to return; it was said already that for that reason, of their four syllables, the metre Jagatī lost three syllables and the metre Triṣṭubh lost one syllable. It was also said earlier that when Gāyatrī brought Soma, she brought back the four syllables that Triṣṭubh and Jagatī had lost, added them to her own four syllables, and made for herself eight syllables in all. Seeing this, the metres Triṣṭubh and Jagatī came to Gāyatrī and said: O Gāyatrī, it is well that you brought back the four syllables that we left behind in heaven. But you have joined them with your four syllables
+
 ---
 
-**Progress note:** Done through printed p. 6. Maṇḍala 9 introduction: the Soma plant, derivation of the word Soma
+**Progress note:** Done through printed p. 12. Soma fetching story (Ai. Brā.), the three pressings
