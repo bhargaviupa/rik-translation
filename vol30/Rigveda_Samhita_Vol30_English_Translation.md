@@ -21216,6 +21216,226 @@ No other than you. Prajapathi has given existance to all these beings may that o
 In the iṣṭi called Iḷādadha, in the oblation-homa made to the deity Prajāpati, this Ṛk प्रजापते (*prajāpate*) is to be recited as the anuvākyā mantra. This is set out by the Āśvalāyana Śrautasūtra in the sūtra प्राजापत्य इळादधः प्रजापते न त्वदेतान्यन्यः (*prājāpatya iḷādadhaḥ prajāpate na tvadetānyanyaḥ*) (Ā. 2-14). If among the oblation materials offered by homa to the gods there are mixed impure things such as hair, nails, worms and insects, those oblations are to be put in water with the recitation of this Ṛk प्रजापते (*prajāpate*). This is set out by the Āśvalāyana Śrautasūtra in the sūtra अपोऽभ्यवहरेयुः प्रजापते न त्वदेतान्यन्यः (*apo 'bhyavahareyuḥ prajāpate na tvadetānyanyaḥ*) (Ā. 3-10). And this Ṛk is also employed for the homa in domestic rites such as the tonsure. This is set out by the Āśvalāyana Gṛhyasūtra in the sūtra तेषां पुरस्ताच्चतस्र आज्याहुतीर्जुहुयादग्न अयूंषि पवस इति तिसृभिः प्रजापते न त्वदेतान्यन्य इति च (*teṣāṃ purastāccatasra ājyāhutīrjuhuyādagna ayūṃṣi pavasa iti tisṛbhiḥ prajāpate na tvadetānyanya iti ca*) (Ā. Gṛ. 1-4-8).**NOTE**
 In explaining the word Prajāpati, Yāska has given an etymology that bears on this Ṛk: प्रजापतिः प्रजानां पाता वा पालयिता वा ॥ तस्यैषा भवति ॥ (*prajāpatiḥ prajānāṃ pātā vā pālayitā vā ‖ tasyaiṣā bhavati ‖*) (Ni. 10-42). The word Prajāpati means the protector of creatures, the one who looks after creatures. The following Ṛk concerns Prajāpati: प्रजापते न त्वदेतान्यन्नो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहु मस्तन्नो अस्तु वयं स्याम पतयो रयीणां ॥ (*prajāpate na tvadetānyanno viśvā jātāni pari tā babhūva | yatkāmāste juhu mastanno astu vayaṃ syāma patayo rayīṇāṃ ‖*)
 
+### Printed p. 646
+Addressed to Prajāpati: "O Prajāpati, none other than you has encompassed all these things that have been born. May that for which we desire and offer you oblations be ours; may we be lords of riches." This is the Nirukta's explanation:
+
+प्रजापते न हि त्वदेतान्यन्यः सर्वाणि जातानि तानि परि बभूव यत्कामास्ते जुहुमस्तॆन्नो अस्तु वयं स्याम पतयो रयीणामित्याशीः ॥ (*prajāpate na hi tvadetānyanyaḥ sarvāṇi jātāni tāni pari babhūva yatkāmāste juhumastènno astu vayaṃ syāma patayo rayīṇāmityāśīḥ ‖*) (Ni. 10-43)
+
+O Prajāpati, apart from you there is no one else who pervades, within and without, these masses of created things and the divine forms. May all those wishes for whose fulfilment we offer oblations to you be accomplished for us. May we become lords of abundant wealth. This is the main purport of the explanation. Yāska has said that this Ṛk is in the form of a blessing.
+
+## Sūkta 122 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसुं नेत्यष्टर्चं दशमं सूक्तं वसिष्ठपुत्रस्य चित्रमहस आर्षमाग्नेयं
+> आद्यापंचमी त्रिष्टुभौ शिष्टा जगत्यः । तथा चानुक्रांतं । वसुं नाष्टौ चित्रमहा
+> वासिष्ठ आग्नेयं जागतमाद्यां पंचमीं चर्त इति ॥ प्रातरनुवाकाश्विनशस्त्रयोराग्नेये क्रत्वा जागते छंदसीदं सूक्तं । सूत्रितं च । वसुं न चित्रमहसमिति
+> जागतं । अ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning वसुं न (*vasuṃ na*) has eight Ṛks and is the tenth sūkta of its anuvāka. Its seer is Citramahas, son of Vasiṣṭha; its deity is Agni. The first and fifth Ṛks are in Triṣṭubh, the rest in Jagatī. Sāyaṇa cites the Anukramaṇī: वसुं नाष्टौ चित्रमहा वासिष्ठ आग्नेयं जागतमाद्यां पंचमीं चर्त इति ॥ (*vasuṃ nāṣṭau citramahā vāsiṣṭha āgneyaṃ jāgatamādyāṃ paṃcamīṃ carta iti ‖*). The sūkta is used in the Prātaranuvāka and in the Āśvina śastra, among the Jagatī-metre verses belonging to the Āgneya kratu. He cites the sūtra: वसुं न चित्रमहसमिति जागतं (*vasuṃ na citramahasamiti jāgataṃ*) (Ā. Sū. 4-13).
+
+Anuvāda: This sūkta beginning "वसुं न (*vasuṃ na*)" is the tenth sūkta in the tenth anuvāka. It has eight Ṛks. Its seer is Citramahas, son of the sage Vasiṣṭha; its deity is Agni. In this sūkta the first and fifth Ṛks are in Triṣṭup metre; the remaining Ṛks are in Jagatī metre. In the Anukramaṇī it is said: "Vasuṃ na … Citramahas Vāsiṣṭha, Āgneya, Jāgata, the first and fifth …". Its use, for the Jagatī-metre Ṛks connected with the Āgneya kratu in the recitation of the Prātaranuvāka and the Āśvina śastra mantras, is set out in the Āśvalāyana Śrauta Sūtra, in the sūtra "वसुं न चित्रमहसमिति जागतं (*vasuṃ na citramahasamiti jāgataṃ*)" (Ā. 4-13).
+
+Sūkta 122. Maṇḍala 10. Anuvāka 10. Sūkta 122. Aṣṭaka 8. Adhyāya 7. Vargas 5, 6. Number of Ṛks in the sūkta: 8. Seer: Citramahas Vāsiṣṭha. Deity: Agni. Metre: 1–5 Triṣṭubh; 2–4, 6–8 Jagatī.
+
+### Printed p. 647
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वसुं॒ न चि॒त्रम॑हसं गृणीषे वा॒मं शेव॒मति॑थिमद्विषे॒ण्यं ।  
+> स रा॑सते शु॒रुधो॑ वि॒श्वधा॑यसो॒ग्निर्होता॑ गृ॒हप॑तिः  ॒॑
+> सुवीर्यं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वसुं । न । चित्रमहसं । गृणीषे । वामं । शेवं । अतिथिं । अद्विषेण्यं ।  
+> सः । रासते । शुरुधः । विश्वधायसः । अग्निः । होता । गृहपतिः । सुवीर्यं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसुं न वासकं सूर्यमिव चित्रमहसं चायनीयतेजस्कमग्निं गृणीषे ।
+> गृणे । सौमि ॥ ग शब्द क्रैयादिकः । पुरुषव्यत्ययः । प्वादित्वाद्रस्वः ॥ यद्वा।
+> चित्रमहसमिति प्रथमार्थॆ द्वितीया । नेति संप्रत्यर्थे । संप्रति वासकमग्नि महं
+> चित्रमहाः सौमि । कीदृशं । नामं वननीयं शेवं सुखकरमतिथिमतिथिवत्तूज्यं
+> यद्वा हविर्वहनाय सततगामिनं अद्विषेण्यं द्वेष्यरहितं ॥ द्विषेः कृत्यार्थे
+> तवैकेनिति केन्यप्रत्ययः । नञा बहुव्रीहौ नञ्च्यामित्युत्तरपदांतोदात्तत्वं ॥
+> सोऽग्निः शुरुधः शोकस्य रोधयित्रीर्निवारयित्रीर्विश्वधायसः क्षीरप्रदानादिना
+> विश्वं सर्वं जगद्धारयंतीर्गाः सुवीर्यं शोभनवीर्यं च रासते । यजमानेभ्यो ददाति ॥ रा दाने । आस्माल्लेट् । लेट्यडागमः । सिब्बहुलमिति सिप् । व्यत्ययेनात्मनेपदं । विश्वशब्दोपधाद्दधातेर्वहिहाधाइ इत्यसुन् । णिदित्यनुवृत्तेरातो युक्‌चिणिति युक् मरुद्वधादित्वात्पूर्वपदांतोदात्तत्वं ॥ कीदृशोऽग्निः ।
+> होता देवानामाह्वाता होमनिष्पादको ना गृहपतिर्यजमानगृहाणामीश्वरः ॥
+> गेहे कः । पा. ३-१-१४४ । इति ग्रहेः कप्रत्ययः । ग्रहिज्येत्यादिना संप्रसारणं ।
+> पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वं । शोभनं वीर्यं यस्येति बहुव्रीहौ
+> वीरवीयौ चेत्युत्तरपदाद्यु दात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+"I praise Agni" — the one who gives dwelling, like the sun (वसुं न (*vasuṃ na*)), of wonderful (चित्रमहसं (*citramahasaṃ*)) radiance. The verb गृणीषे (*gṛṇīṣe*) is from the root गृ (*gṛ*) (Kryādi class), with an exchange of person. Alternatively, चित्रमहसं (*citramahasaṃ*) stands for the nominative (the accusative used in the sense of the first case) and न (*na*) has the sense of "now": "now I, Citramahas, praise Agni who gives dwelling." Of what kind is he? वामं (*vāmaṃ*): lovely, to be desired; शेवं (*śevaṃ*): the giver of happiness; अतिथिं (*atithiṃ*): to be honoured like a guest, or else one who goes constantly to carry the oblations; अद्विषेण्यं (*adviṣeṇyaṃ*): free from hatred. That Agni gives to the sacrificers the cows that are शुरुधः (*śurudhaḥ*) (they check and remove sorrow) and विश्वधायसः (*viśvadhāyasaḥ*) (they sustain the whole world by giving milk and so on), and also excellent vigour (सुवीर्यं (*suvīryaṃ*)); रासते (*rāsate*) means "gives". What kind of Agni? He is the Hotā, the invoker of the gods and accomplisher of the homa; the गृहपतिः (*gṛhapatiḥ*), lord of the sacrificers' houses; the one whose vigour is excellent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वामं (*vāmaṃ*)—one desired by all
+- शेवं (*śevaṃ*)—the giver of happiness
+- अतिथिं (*atithiṃ*)—worthy of worship like a guest, or one who always comes to us to carry the oblation
+- अद्विषेण्यं (*adviṣeṇyaṃ*)—free of enemies
+- वसुं न (*vasuṃ na*)—like the sun
+- चित्रमहसं (*citramahasaṃ*)—possessed of wonderful radiance; Agni, such as this
+
+### Printed p. 648
+- गृणीषे (*gṛṇīṣe*)—I praise [or: वासकं (*vāsakaṃ*)—Agni, the giver of dwelling; न (*na*)—now; चित्रमहसं (*citramahasaṃ*)—I, named Citramahas; गृणीषे (*gṛṇīṣe*)—I praise]
+- होता (*hotā*)—the invoker of the gods
+- गृहपतिः (*gṛhapatiḥ*)—lord, or protector, of the houses of the sacrificers
+- स आग्निः (*sa āgniḥ*)—that Agni
+- शुरुधः (*śurudhaḥ*)—the removers of sorrow
+- विश्वधायसः (*viśvadhāyasaḥ*)—those that protect all by giving milk (the cows)
+- सुवीर्यं (*suvīryaṃ*)—excellent valour
+- रासते (*rāsate*)—gives to the sacrificers
+
+##### भावार्थ (Bhāvārtha)
+
+I, named Citramahas, praise Agni, who is desired by all, the giver of happiness, worthy of worship like a guest, free of enemies, endowed like the sun with wonderful radiance, the giver of dwelling. That Agni, the invoker of the gods and protector of the sacrificers' houses, gives to the sacrificers cows that remove sorrow and protect all by giving milk and the like, and also excellent strength and capacity.
+
+##### English translation
+I glorify him who is of wonderful radiance like the sun, the desirable, the giver of happiness, the guest (of man). the benevolent. He bestows vigour (upon the worshippers); Agni, the remover of sorrow, the sustainer of all, the invoker (of the gods), the lord of the mansion.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जु॒षा॒णो अ॑ग्ने॒ प्रति॑ हर्य मे॒ वचो॒ विश्वा॑नि वि॒द्वान्व॒युना॑नि सुक्रतो ।  
+> घृत॑निर्णि॒ग्ब्रह्म॑णे गा॒तुमेर॑य॒ तव॑ दे॒वा अ॑जनय॒न्ननु॑  ॒
+> व्रतं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जुषाणः । अग्ने । प्रति । हर्य । मे । वचः । विश्वानि । विद्वान् । वयुनानि । सुक्रतो  
+> इति सुक्रतो ।
+
+### Printed p. 649
+
+> धृतनिर्निक् । ब्रह्मणे । गातुं ' आ । ईरय । तव । देवाः । अजनयन् । अनु ।  
+> व्रतं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जुषाणः प्रीयमाणस्त्वं मे मम वचो वचनं स्तोत्रं प्रति
+> हर्य । कामयस्व ॥ हर्य गतिकांत्योः ॥ तथा हे सुक्रतो शोभनकर्मन्
+> शोभनप्रज्ञ वा त्वं विश्वानि सर्वाणि वयुनानि । ज्ञाननामैतत् इह ज्ञातव्ये वर्तते।
+> ज्ञातव्यान्यर्थजातानि विद्वाञ्ज्ञानन्वर्तसे ॥ हेत् शतृप्रत्ययः ॥ यतो जानासि
+> ततो हेतोर्मद्वचनं कामयस्वेत्यर्थः हे घृतनिर्णिगृतेनाज्येन निर्णिज्यमान
+> पुष्यमाणशरीर ॥ णिजिर् शौचपोषणयोः ॥ यद्वा । निर्णिगिति रूपनाम । दीप्तरूपाग्ने ब्रह्मणे ब्राह्मणाय यजमानाय गातुं गातव्यं ज्ञातव्यं वा यज्ञमेरय।
+> आगमय । तव व्रतं त्वदीयं यज्ञकर्मानु पश्चाद्देवा इंद्रादयः सर्वॆऽजनयन् । यजमानाय फलानि जनयंति । अतस्त्वदीयं यज्ञं यजमानाय प्रापयेत्यर्थः ॥ लक्षणेऽनोः कर्मप्रवचनीयत्वं व्रतमिति कर्मप्रवचनीययुक्त
+> इति द्वितीया । जनेर्ण्यंताच्छांदसो लज् । जनीज्यस्क्नसुरंजोऽमंताश्चेति
+> मित्वान्मितां ह्रस्व इति ह्रस्वत्वं ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, being pleased (जुषाणः (*juṣāṇaḥ*)), desire (हर्य (*harya*), from the root meaning 'to go' and 'to desire'; कामयस्व (*kāmayasva*)) my speech, my praise." And "O सुक्रतो (*sukrato*), of good works or of good understanding, you are knowing (विद्वान् (*vidvān*)) all (विश्वानि (*viśvāni*)) वयुनानि (*vayunāni*)." वयुन (*vayuna*) is a name for knowledge and here stands for the knowable: you know all things to be known. Since you know, therefore desire my speech. "O *ghṛtanirṇik*, you whose body is washed and nourished with ghee (the root णिजिर् (*ṇijir*) means purifying and nourishing)." Or else निर्णिक् (*nirṇik*) is a name for form: Agni of radiant form. "For the Brahmin, the sacrificer, send (*eraya*; bring) the गातुं (*gātuṃ*), the thing to be gone to or known, the sacrifice. After (अनु (*anu*)) your rite (व्रतं (*vrataṃ*)) the gods, Indra and the rest, all produce (अजनयन् (*ajanayan*)) fruits for the sacrificer. Therefore bring your sacrifice to the sacrificer." अनु (*anu*) is a karmapravacanīya, hence the accusative of व्रतं (*vrataṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- जुषाणः (*juṣāṇaḥ*)—with a pleased mind
+- मे (*me*)—my
+- वचः (*vacaḥ*)—speech in the form of praise
+- प्रति हर्य (*prati harya*)—desire
+- सुक्रतो (*sukrato*)—O Agni, of good works or excellent knower
+- विश्वानि (*viśvāni*)—all
+- वयुनानि (*vayunāni*)—things to be known
+- विद्वान् (*vidvān*)—you are one who knows
+- धृतनिर्णिक् (*dhṛtanirṇik*)—O Agni, whose body is soaked with ghee, or of radiant form
+- ब्रह्मणे (*brahmaṇe*)—for the sacrificer who is a Brahmin
+- गातुं (*gātuṃ*)—the sacrifice that he should know
+- आ ईरय (*ā īraya*)—impel
+- तव (*tava*)—relating to you
+- व्रतं (*vrataṃ*)—sacrificial rite
+- अनु (*anu*)—in accordance with
+- देवाः (*devāḥ*)—the gods
+- अजनयन् (*ajanayan*)—give the fruit to the sacrificer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, listen with regard to the praise I make, satisfied. O Agni, of excellent works, you know all that is to be known. O Agni, whose body is sprinkled with ghee, or whose form is radiant, impel and bring to completion the sacrificial rite for the Brahmin sacrificer. In this rite of yours the gods give the sacrificers the fruits of the sacrifice.
+
+### Printed p. 650
+
+##### English translation
+Accept, Agni, being well pleased, my praise; author of great deeds, (you are) cognizant of all objects of knowledge; anointed with butter, stimulate the movements of the Brahmana; the gods produce (rewards) after your worship.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त धामा॑नि परि॒यन्न म॑र्त्यो॒ दाश॑द्दा॒शुषे॑ सु॒कृते॑ मामहस्व ।  
+> सु॒वीरे॑ण र॒याणा॑ग्ने स्वा॒भुवा॒ यस्त॒ आन॑ट् स॒मिधा॒ तं  ॑
+> जुषस्व ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । धामानि । परियन् । अमर्त्यः । दाशत् । दाशुषे । सुकृते । ममहस्व ।  
+> सुवीरेण । रयिणा । अग्ने । सुअभुवा । यः । ते । आनट् । संइधा । तं ।  
+> जुषस्व ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सप्त सप्तसंख्याकानि धामानि स्थानानि पृथिव्यादिलोकात्मकानि परियन्
+> परितो गच्छन्नमर्त्यो मरणधर्मरहितस्त्वं यो यजमानः पुरोडाशादीनि
+> हवींषि दाशत् प्रयच्छति तस्मै दाशुषे दत्तवते सुकृते सुष्टु यागं कृतवते
+> मामहस्व । अपेक्षितं धनं ददस्व । महतिर्दानकर्मा ॥ सुकर्मसापेत्यादिना सुपूवात्कृञ्चो भूते काले क्विप् ॥ यश्च यजमानः समिधा समिंधनसाधनेनेध्मेन हे
+> अग्ने ते त्वामानट् प्राप्नोति ॥ नशतिर्गतिकर्मा । अस्माच्चांदसो लज् । बहुलं
+> छंदसीति शपो लुक् । छंदस्यपि दृश्यत इत्याडागमः । अश्नोतेर्वा व्यत्ययेन
+> श्नम् ॥ तं यजमानं सुवीरेण । शोभनवीराः पुत्रा यस्य ॥ वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वं ॥ तादृशेन स्वाभुवा सुष्वा समंताद्दूष्णुना वर्धिष्णुना
+> रयिणा धनेन दाशव्येन सार्धं जुषस्व ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, moving round the seven (सप्त (*sapta*)) abodes (धामानि (*dhāmāni*)), that is, the places consisting of the worlds beginning with the earth, you the immortal — to that sacrificer who gives (दाशत् (*dāśat*)) oblations such as the purodāśa, to the giver (दाशुषे (*dāśuṣe*)), to the one who has well performed the sacrifice (सुकृते (*sukṛte*)), give (मामहस्व (*māmahasva*)) the wealth he desires." महति (*mahati*) is a verb of giving. "And the sacrificer who approaches (आनट् (*ānaṭ*)) you, O Agni, with kindling-wood (समिधा (*samidhā*)), the instrument of kindling — him, together with wealth (रयिणा (*rayiṇā*)) that is सुवीरेण (*suvīreṇa*) (his sons being good heroes) and स्वाभुवा (*svābhuvā*) (growing well, increasing), and fit to be given, favour (जुषस्व (*juṣasva*))." The root नश (*naśa*) is a verb of going; alternatively आनट् (*ānaṭ*) is from *aśnoti*.
+
+### Printed p. 651
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) सप्त धामानि (*sapta dhāmāni*)—the seven places, the worlds beginning with the earth
+- परियन् (*pariyan*)—moving round
+- अमर्त्यः (*amartyaḥ*)—you who are free from death
+- दाशत् (*dāśat*)—whichever sacrificer offers you purodāśa and the like
+- दाशुषे (*dāśuṣe*)—to such a giver of oblations
+- सुकृते (*sukṛte*)—to the sacrificer who performs the sacrifice well
+- मामहस्व (*māmahasva*)—give the wealth that he desires
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—which sacrificer
+- समिधा (*samidhā*)—with kindling-wood such as fuel
+- ते (*te*)—you
+- आनट् (*ānaṭ*)—approaches (to serve)
+- तं (*taṃ*)—that sacrificer
+- सुवीरेण (*suvīreṇa*)—with valorous sons
+- स्वाभुवा (*svābhuvā*)—growing well
+- रयिणा (*rayiṇā*)—with wealth
+- जुषस्व (*juṣasva*)—serve, that is, satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who can move in the seven places beginning with the earth, and are free from death: give the wealth he needs to the sacrificer who offers you oblations and the like and performs the sacrifice well. O Agni, to the sacrificer who approaches to serve you with kindling-wood and other materials, give valorous sons and increasing wealth, and satisfy him.
+
+##### English translation
+Traversing the seven regions (of the universe), immortal Agni, bestow wealth, giving liberally to the pious liberal giver. Gratify with easily obtainable riches, together with fair offspring, him who feeds you with fuel.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञस्य॑ के॒तुं प्र॑थ॒मं पु॒रोहि॑तं ह॒विष्मं॑त ईळते स॒प्त  ॒॑
+> वाजिनं ।  
+> शृ॒ण्वंत॑म॒ग्निं घृ॒तपृ॑ष्ठमु॒क्षणं॑ पृ॒णंतं॑ दे॒वं पृ॑ण॒ते  ॒॑
+> सुवीर्यं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> కృష్ణుడు, కృష్ణునియొక్క భార్యను, కృష్ణునియొక్క భార్యను
+
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 645. pp. 640-645 (batch API)
+**Progress note:** Done through printed p. 651. pp. 646-651 (batch API)
