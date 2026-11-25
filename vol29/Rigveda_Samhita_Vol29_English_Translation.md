@@ -5538,6 +5538,144 @@ If the creation of the world made by Īśvara is examined from the worldly point
 
 From which adhiṣṭhāna and ārambhaṇa has Īśvara (Viśvakarman) created heaven and earth? What is the nature of this material cause? That is the question. If there were any material cause at all, what would its nature be? Apart from Īśvara there was no other existing substance. For the making of a world that consists of being, an ārambhaṇa that consists of being is absolutely necessary. From a thing of the form of non-being it is not possible to make a world of the form of being.
 
+### Printed p. 201
+
+नासतो विद्यते भावो नाभावो विद्यते सतः । उभयोरपि दृष्टोऽंतस्त्वनयोस्तत्त्वदर्शिभिः ॥ (*nāsato vidyate bhāvo nābhāvo vidyate sataḥ | ubhayorapi dṛṣṭo 'ṃtastvanayostattvadarśibhiḥ ‖*) (Bha. Gī. 2-16)**NOTE**
+
+From a principle of the form of non-existence, a principle of the form of existence does not arise. Without a thing of the form of existence, nothing arises. As existence cannot come about from a mere absence of everything, so how can the creation of a world of the form of being come about when there is nothing? This is the second question. If there is no proof that Īśvara alone remains after the dissolution, with nothing else, then, as was stated in the Ṛk above, य इमा विश्वा भुवनानि जुह्वत् (*ya imā viśvā bhuvanāni juhvat*). Moreover:
+
+आत्मा ना इदमेक एवाग्र आसीत् नान्यत् किंचन मिषत् (*ātmā nā idameka evāgra āsīt nānyat kiṃcana miṣat*) (Ai. Ā. 2-4-1)
+
+सदेव सोम्य इदमग्र आसीत् । एकमेवाद्वितीयं (*sadeva somya idamagra āsīt | ekamevādvitīyaṃ*) (Chā. U. 6-2-1)
+
+प्रजापतिर्ह ना इदमग्र एवास (*prajāpatirha nā idamagra evāsa*) (Śa. Brā. 2-2-4-1)
+
+Such śruti sentences establish the absence of the world and the non-duality of Īśvara. Even though there is non-duality, another question arises. The question is whether this single principle is of the form of being or of the form of non-being. Sentences such as नासदासीन्नो सदासीत् (*nāsadāsīnno sadāsīt*) (Ṛ. Saṃ. 10-129-1) state that there was neither non-being nor being, but only that darkness pervaded. The answer to the question how a world of the form of being could arise from a state in which neither of the two existed will have to be given when that Ṛk is explained. But in some other places it is stated precisely that Īśvara, who is of the form of being, is the cause of the world. For example:
+
+तद्भैक आहुरसदेवेदमग्र आसी नेकमेवाद्वितीयं तस्मादसतः सज्ञायत (*tadbhaika āhurasadevedamagra āsī nekamevādvitīyaṃ tasmādasataḥ sajñāyata*) (Chā. U. 6-2-1)
+
+Before creation there was no thing of the form of being at all. Only non-being existed. There are also śruti sentences which say that from it the world of the form of being was produced. This is another prior position (pūrvapakṣa). If it is asked what the authority for this is:
+
+असद्वा इदमग्र आसीत् । ततो वै सदजायत (*asadvā idamagra āsīt | tato vai sadajāyata*) (Tai. U. 2-7)
+
+Before creation there was only a principle of the form of non-being. From this non-being the world of the form of being came into existence. Afterwards the activity of the world began. This is stated clearly in the Taittirīya Upaniṣad. The same idea is also stated in the Chāndogya, saying,
+
+### Printed p. 202
+
+आदित्यो ब्रह्मेत्यादेशस्तस्योपव्याख्यानमसदेवेदमग्र आसीत् । तत्सदासीत्तत्समभवत्तदांडं निरवर्तत.... .... .... ॥ (*ādityo brahmetyādeśastasyopavyākhyānamasadevedamagra āsīt | tatsadāsīttatsamabhavattadāṃḍaṃ niravartata.... .... .... ‖*) (Chā. U. 3.19-1)
+
+"The sun is Brahman": this is the teaching which states the settled conclusion. Its explanation is as follows. In the beginning, from the absence of the form of non-being, existence of the form of being arose. It grew, increased and was transformed into the form of an egg. If it is said that sentences of this kind are the authority, then in the same Chāndogya this view is refuted. As the answer to the prior position stated in the sentence 6-2-1 quoted above, in the sentence that follows it the settled conclusion is stated in this way:
+
+कुतस्तु खलु सोम्येवं स्यादिति होवाच कथमसतः सज्जायेतेति । सत्त्वेव सोम्येदमग्र आसीदेकमेवाद्वितीयं ॥ ( (*kutastu khalu somyevaṃ syāditi hovāca kathamasataḥ sajjāyeteti | sattveva somyedamagra āsīdekamevādvitīyaṃ ‖ (*) (Bhā. U. 6-2-2)**NOTE**
+
+"My child, how could this be? How could a thing of the form of being arise from non-being? What existed before was nothing other than the principle of the form of being, one, without a second." Thus the settled conclusion has been stated precisely: that only such a principle of the form of being existed.
+
+In the present context it also becomes possible to answer the question how a world of the form of being came about from a state of the form of non-existence. From the worldly point of view, non-existence (abhāva) can be said to be of four kinds. Abhāva means absence. This absence is of four kinds. First:
+
+1) अत्यंताभावः (*atyaṃtābhāvaḥ*): that which is pure void. For example, the son of a barren woman. This shows an absolutely contrary state. The state of the world at the time of dissolution does not have this kind of absolute non-existence. It has been dissolved in Īśvara in a form so subtle that it does not appear to the eye of the world. Second:
+
+2) प्रागभावः (*prāgabhāvaḥ*): non-existence is not pure void. It means only that something is not there in that state before it has arisen. That is, it means that the capacity of nature and the power to come to light are there (potentiality). As an example of this there is a section in the Chāndogya Upaniṣad itself. The example that shows this prior non-existence is:
+
+न्यग्रोधफलमत आहरेतीदं भगव इति भिंदीति भिन्नं भगव इति किमत्र पश्यसीत्यण्व इवेमा धाना भगव इत्यासामंगैकां भिंधीति भिन्ना भगव इति किमत्र पश्यसीति न किंचन भगव इति ॥ (*nyagrodhaphalamata āharetīdaṃ bhagava iti bhiṃdīti bhinnaṃ bhagava iti kimatra paśyasītyaṇva ivemā dhānā bhagava ityāsāmaṃgaikāṃ bhiṃdhīti bhinnā bhagava iti kimatra paśyasīti na kiṃcana bhagava iti ‖*) (Bhā. U. 6-12-1)
+
+### Printed p. 203
+
+The teacher tells the pupil to bring the fruit of a banyan tree, and the pupil brought it. (One of the tall and wide-spreading trees such as the banyan and the fig.) Then, when told to press that fruit, he was startled. When told to see what was in it, he said that it contained minute seeds. When told to break even that small seed, he broke it. When told to see what was in it, he said, "Nothing, sir."
+
+तं होवाच यं वै सोम्येतमणिमानं न निभालयस एतस्य वै सोम्येषोऽणिम्म एवं महान्यग्रोधस्तिष्ठति श्रद्धत्त्व सोम्येति । (*taṃ hovāca yaṃ vai somyetamaṇimānaṃ na nibhālayasa etasya vai somyeṣo 'ṇimma evaṃ mahānyagrodhastiṣṭhati śraddhattva somyeti |*) (Chā. U. 6-12-2)
+
+"My child, after breaking the minute seed you cannot see the still more minute essence that is in it. But it is from this essence, which does not fall within your sight, that the very lofty and widely spreading banyan tree stands grown. In the same way,
+
+स य एषोऽणिमैतदात्ममिदं सर्वं तत्सत्यं स आत्मा तत्त्वमसि श्वेतकेतो .... .... .... ॥ (*sa ya eṣo 'ṇimaitadātmamidaṃ sarvaṃ tatsatyaṃ sa ātmā tattvamasi śvetaketo .... .... .... ‖*) (Chā. U. 6-12.3)
+
+"My child, this world, which has the vastness of the universe, lay hidden in the minute thing that does not come within your sight. The essential power that expands this world was in that minute thing." When he teaches thus, the teacher shows the prior non-existence of the world. In this form there was non-existence of the world, but there was no absolute non-existence.
+
+3) Third, प्रध्वंसाभावः (*pradhvaṃsābhāvaḥ*): non-existence after having existed before. This has a beginning. It has no end. There is a pot. After it is broken the pot is no longer there.
+
+4) Fourth, अन्नोन्याभावः (*annonyābhāvaḥ*): a pot is not a cloth. A cloth is not a pot, and so on. In the present context this explanation is unnecessary.
+
+Thus (prior non-existence) non-existence does not mean absolute non-existence. It must be understood that the world was hidden in a subtle form and not in a gross form. But since it was merged in Īśvara, it was not a thing different from him but was united in him. Therefore there was no sense of distinction that Īśvara is one thing and the world another. For that very reason it is stated: प्रजापतिर्ह ना इदमग्र एवास (*prajāpatirha nā idamagra evāsa*) and so on. Just as the essence of the banyan seed, which is subtler than an atom, has the power to hold the whole wonderful tree within itself, so Īśvara, who is smaller than an atom, can hold the whole universe within himself. This power is indicated by the word महिना (*mahinā*).
+
+### Printed p. 204
+
+In the present Ṛk also, in the very putting of the question in the form of the prior position, the word महिना (*mahinā*), which indicates the greatness of Īśvara, has been used. The great deeds of Īśvara do not fall under worldly practices and measures. This word indicates that great deeds are possible by mere resolve alone. The greatness that is indicated by this word used in the present Ṛk is this:
+
+अणोरणीयान्महतो महीयानात्मास्य जंतोर्निहितं गुहायां । (*aṇoraṇīyānmahato mahīyānātmāsya jaṃtornihitaṃ guhāyāṃ |*) (Kaṭh. U. 2-20)**NOTE**
+
+एष स आत्मांतर्हृदयेऽणीयान् व्रीहेर्वा यवाद्वा, सर्षपाद्वा श्यामाकाद्दा श्यामाकतंडुलाद्दा एष आत्मांतर्हृदये ज्यायान्पृथिव्या ज्यायानंतरीक्षाः ष्ट्रियान्वितो ज्यायानेभ्यो लोकेभ्यः । (*eṣa sa ātmāṃtarhṛdaye 'ṇīyān vrīhervā yavādvā, sarṣapādvā śyāmākāddā śyāmākataṃḍulāddā eṣa ātmāṃtarhṛdaye jyāyānpṛthivyā jyāyānaṃtarīkṣāḥ ṣṭriyānvito jyāyānebhyo lokebhyaḥ |*) (Bhā. U. 3-14-2)
+
+The very Īśvara who, after creation, is described as having entered the whole created world and pervaded it as the inner controller of all (अवरान् आ विवेश (*avarān ā viveśa*), 10-81-1), his greatness is described in the Upaniṣads and other works in this way. Īśvara is smaller than an atom. He is of a form subtler than that. He lies hidden in a subtle form in all hearts, which are like caves. This Īśvara of subtle form is greater than the earth. He is greater than the atmosphere. He is greater than the heaven-world. He is smaller than the smallest. He is more than all the worlds. This is his greatness: he has the power to hold all the worlds hidden within himself.
+
+तवेजति तन्नैजति तद्दूरे तद्वदंतिके । तदंतरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥ (*tavejati tannaijati taddūre tadvadaṃtike | tadaṃtarasya sarvasya tadu sarvasyāsya bāhyataḥ ‖*) (Īśa. U. 5)**NOTE**
+
+Īśvara is of the nature of movement, and likewise unmoving. He is at a very distant place, and likewise he is hidden within all things and also beyond them. These are not contrary qualities of Īśvara. These qualities, which seem contrary to the view of the world, come into harmony in him.
+
+Therefore for Īśvara, who consists of being and non-being and is also beyond them, at the time of the creation of the world he himself is the adhiṣṭhāna, he himself is the ārambhaṇa, the created world is he himself, and the creator is he himself. That is his greatness. This is what is stated by the words महिना विश्वचक्षाः (*mahinā viśvacakṣāḥ*). What the purport of the word विश्वचक्षाः (*viśvacakṣāḥ*) is will be explained in the Special Topics of the next Ṛk.
+
+### Printed p. 205
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒श्वत॑श्चक्षुरु॒त वि॒श्वतो॑मुखो वि॒श्वतो॑बाहुरु॒त वि॒श्वतः॑ स्पात् ।  
+> सं बा॒हुभ्यां॒ धम॑ति॒ सं पत॑त्त्रै॒र्दार्वा॒भूमी॑ ज॒नय॑न्दे॒व एकः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिश्वतःचक्षुः । उत । विश्वतःमुखः । विश्वतःबाहुः । उत । विश्वतःपात् ।  
+> सं । बाहुभ्यां । धमति । सं । पतत्रैः । द्यावाभूमिा इति । जनयन् । देवः एकः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया सर्वात्मकत्वेन कुलालादिविलक्षणत्वादधिष्ठानाद्यभावेऽपि स्रष्टुं
+> रक्कोतीत्याह । विश्वतश्चक्षुः सर्वतो व्याप्तचक्षुः । उतापि च विश्वतो मुखः । तथा
+> निश्वतो बाहुः । उतापि च विश्वतस्सात् । स एवंविधः परमेश्वरः स्वस्मिंस्त्रैलोक्यमुत्पादयतीत्यर्थः । कथमिति उच्यते । बाहुभ्यां दिवं सं धमति । धमतिर्गतिकर्मा ! सम्यक् प्रेरयति । तथा पतत्रैर्गमनशीलैः पादैः पृथिवीं सं धमतीति ।
+> उभयोरेव श्रवणं प्राधान्याभिप्रायं । एवं द्यावाभूमी जनयन् दिवं च
+> पृथिवीं चोत्पादयन्नेवो द्योतमानः स्वयंप्रकाशः परमेश्वर एकोऽसहाय
+> एव वर्तते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that by this Ṛk, because he is all-pervading and unlike the potter and the like, he states that Īśvara is able to create even without a support and the like. He is विश्वतश्चक्षुः (*viśvataścakṣuḥ*), with eyes spread everywhere; उत (*uta*), and also विश्वतो मुखः (*viśvato mukhaḥ*), with faces everywhere; likewise विश्वतो बाहुः (*viśvato bāhuḥ*), with arms everywhere; and also विश्वतस्सात् (*viśvatassāt*), with feet everywhere. Such a Supreme Lord produces the three worlds in himself, is the meaning. How? It is said: with his arms he सं धमति (*saṃ dhamati*) the heaven. The root धमति (*dhamati*) has the sense of motion; he sets it properly in motion. Likewise with पतत्रैः (*patatraiḥ*), that is, with his feet, which are given to going, he sets the earth in motion. The mention of both is meant to show their importance. Thus, producing heaven and earth, the Supreme Lord, shining and self-luminous, exists alone, without any helper.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वतश्चक्षुः (*viśvataścakṣuḥ*)—one who has eyes spread everywhere
+- उत (*uta*)—and
+- विश्वतोमुखः (*viśvatomukhaḥ*)—one who has faces everywhere
+- विश्वतोबाहुः (*viśvatobāhuḥ*)—one who has arms spread everywhere
+- उत (*uta*)—and
+- विश्वतस्सात् (*viśvatassāt*)—Īśvara, who has feet extended in every direction
+- बाहुभ्यां (*bāhubhyāṃ*)—with his arms
+- सं धमति (*saṃ dhamati*)—sets the heaven-world in motion
+- पतत्रैः (*patatraiḥ*)—with his moving feet
+- सं (*saṃ*)—sets the earth in motion
+- द्यावाभूमी (*dyāvābhūmī*)—heaven and earth
+- जनयन् (*janayan*)—producing
+- एकः (*ekaḥ*)—without a helper (without a second)
+- देवः (*devaḥ*)—shining and abiding
+
+##### भावार्थ (Bhāvārtha)
+
+Īśvara, who has eyes spread everywhere, faces everywhere, arms spread everywhere and feet extended in every direction, sets the heaven-world in motion with his arms.
+
+### Printed p. 206
+
+He sets the earth in motion with his moving feet. Producing heaven and earth, he shines without a second.
+
+##### English translation
+Having eyes everywhere, and having a face everywhere, having arms
+everywhere, and having feet everywhere, he traverses (heaven) with his
+arms, (earth) with his swift-moving (feet), and exists a god without com-
+panion generating heaven and earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the great nature of Viśvakarman (Parameśvara) is described. The idea in this Ṛk is indicated in the first Ṛk of the 90th sūkta of this same maṇḍala, in the Ṛk सहस्रशीर्षा पुरुषः (*sahasraśīrṣā puruṣaḥ*). In place of the word विश्वतः (*viśvataḥ*) in this Ṛk, the word सहस्र (*sahasra*) is used there. The meanings of these two words are the same; there is no difference. In the present Ṛk it is said that the eyes of that Viśvakarman are spread everywhere. Here a doubt arises. Has Parameśvara, like ordinary men, eyes, face, arms and legs? Does he, with their help, carry out the works of creation and the like as other men do? To answer these questions one must describe the great nature of Parameśvara himself.
+
+An ordinary man sees with his eyes. Without eyes he cannot see. In the same way he performs work with his arms and movement with his feet. But in the case of the Supreme Self this rule does not apply. He is without parts; he has no need of parts. Since all the things and beings in the world are parts of the Supreme Self and the consciousness of the Supreme Self fills them, and since there is no thing that the Supreme Self does not pervade, there is no thing that the Supreme Self does not see or does not know. Moreover, since all kinds of powers, such as the power of seeing and the power of moving, are parts of the consciousness of the Supreme Self, the Supreme Self does not have to use his eyes to see, as others do, nor to use his arms to work, nor to use his feet to move; that is, this Supreme Self has no need of eyes, face, arms and feet. Without these he can do any work. For he is consciousness itself, and whatever work is to be done, there must be the impulse of consciousness; otherwise it does not happen. Since the Supreme Self is the source of all the consciousness that is manifested in beings in the world, there is nothing that he does not know. The words eye, face, arm and foot mentioned here, the respective
+
 ---
 
-**Progress note:** Done through printed p. 200. Viśvakarman sūkta: commentary on Ṛk 1 (dissolution), Ṛk 2 text, bhāṣya, commentary
+**Progress note:** Done through printed p. 206. Ṛk 2 commentary (abhāva, Chāndogya), Ṛk 3 text, bhāṣya, commentary
