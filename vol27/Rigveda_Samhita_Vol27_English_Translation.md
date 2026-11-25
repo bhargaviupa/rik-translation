@@ -19895,6 +19895,180 @@ Mātaraḥ āpaḥ: here the waters, or the deities presiding over the waters, a
 
 Śuṃdhayantu: प्रोक्षणेन शोधयंतु (*prokṣaṇena śodhayaṃtu*). The assurance expressed here is that the waters should purify us by sprinkling and the like. That water purifies everything is a matter of experience. By bathing and the like we purify our body, by washing our clothes and the like, by sweeping and the like our houses and the like, by rinsing our vessels and the like. That is, water is needed to purify anything. Besides this kind of external purification, there is also inner purification inside the body by sipping water and the like, as the Taittirīya Śruti sentence declares: अपोऽश्नात्यंतरत एव मेध्यो भवति (*apo 'śnātyaṃtarata eva medhyo bhavati*) (Tai. Saṃ. 6.1.1.3).
 
+### Printed p. 563
+**Dhṛtapvaḥ**—two kinds of meaning can be given to this word. धृतमुदकं तेनान्यान् पुनंतीति । (*dhṛtamudakaṃ tenānyān punaṃtīti |*) तास्तथोक्ता आपः । (*tāstathoktā āpaḥ |*) Dhṛta means water (Ni. 2-24). Because with this water others, or other things, are purified, the first meaning is "waters that cause purification". यद्वा । (*yadvā |*) धृतं गव्यं । (*dhṛtaṃ gavyaṃ |*) तेन पुनंति । (*tena punaṃti |*) Likewise there is a Brāhmaṇa: धृतेन नो धृतप्पः पुनंतीति तद्वै सुपूतं यद्धृतेन पूयते (*dhṛtena no dhṛtappaḥ punaṃtīti tadvai supūtaṃ yaddhṛtena pūyate*) (Śa. Brā. 3-1-2-11). Or else dhṛta means ghee, the product of the cow, or ājya. It is said that they purify by smearing with it. On this point the Bhāṣyakāra has cited a Śatapatha Brāhmaṇa sentence whose meaning is that whatever thing is mixed with (smeared with, or blended with) ghee is regarded as pure.
+
+**Viśvaṃ hi ripraṃ pravahanti devīḥ**—ripra means sin. The prayer is voiced here that the waters may carry away all our sin. On this point there is also the support of the Śruti sentence इदमापः प्रवहत यत्किंच दुरितं मयि (*idamāpaḥ pravahata yatkiṃca duritaṃ mayi*) (Ṛ. Saṃ. 10-9-8).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्र॒प्सश्च॑स्कंद प्रथ॒मा अनु॒ द्यूनि॒मं च॒ योनि॒मनु॒ यश्च॒  ॑
+> पूर्वः ।  
+> स॒मा॒नं योनि॒मनु॑ सं॒चरं॑तं द्र॒प्सं जु॑हो॒म्यनु॑ स॒प्त  ॑
+> होत्राः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्रप्सः । चस्कंद । प्रथमान् । अनु । द्यून् । इमं । च । योनिं । अनु । यः । च ।  
+> पूर्वः ।  
+> समानं । योनिं । अनु । संचरंतं। द्रप्सं । जुहोमि । अनु । सप्त । होत्राति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुत्येऽहनि द्रप्सश्चस्कंदेत्यादिके द्वे विपुड्धोमार्थे । सूत्रितं च । द्रप्सश्चस्कंदेति द्वाभ्यां विपुड्धोमौ हुत्वा । आ. ५.२ । इति ॥ स्कन्नहविरभिमर्शनेऽपि द्रप्स
+
+##### Gist of the bhāṣya
+
+On the day of pressing (sutya), the two ṛks beginning द्रप्सश्चस्कंद (*drapsaścaskaṃda*) are for the vipuḍ-homa. It is laid down in the sūtra: द्रप्सश्चस्कंदेति द्वाभ्यां विपुड्धोमौ हुत्वा (*drapsaścaskaṃdeti dvābhyāṃ vipuḍdhomau hutvā*) (Ā. 5.2). In the touching of spilled oblation too, this ṛk beginning द्रप्स (*drapsa*).
+
+### Printed p. 564
+
+> इत्येषा । आहुतिर्बहिष्परिधि यदि स्कंदेत् तदानीमाग्नीध्रोऽनया जुहुयात् ।
+> स्कन्नमभिमृशेदिति प्रकृत्य सूत्रितं । द्रप्सश्चस्कंदेत्याहुतिश्चेद्बहिष्परिध्याग्नीध्र एनां
+> जुहुयात् । अ. ३-१३ । इति ॥
+> द्रप्पोऽभिषूयमाणस्य सोमस्य रसः प्रथमान् पूर्वभाविनः पार्थिवाल्लोकान् द्युन् दीप्यमानान्तुलोकांश्चानु लक्षीकृत्य चस्कंद । सन्नवान् ।
+> गतवान्। तदेवाह । इमं परिदृश्यमानं योनिं स्थानभूतं लोकं च यश्चास्मात्पूर्वोऽस्ति तमनुगतवान् । समानं साधारणं योनिं द्यावापृथिवीलक्षणं
+> स्थानमनु संचरंतं सम्यग्गच्छंतं द्रप्पं सोमरसं विपुड्ललक्षणं सप्त होत्रा
+> सप्तसंख्याकाः विपुड्डोमस्य कर्तारो होतृप्रभृतयो वयमन्वानुपूर्व्यण
+> जुहोमि । जुहुमः । यद्वा । होत्राः सप्तहोतृभिः क्रियमाणा यागक्रिया
+> होत्राः । ता अनु पश्चादध्वर्युरहं जुहोमि । यद्वा । द्रुतगामित्वाद्रप्प
+> आदित्य उच्यते । स आदित्यः पृथिवीं च दिवं च गच्छति समानं योनिमंतरिक्षं
+> लक्षीकृत्य । सम्यक्करंतं तं द्रप्पमादित्यमुद्दिश्य सप्त होत्राः सप्तसंख्याका दिशः ।
+> यस्यां दिशि सूर्यो वर्तते तद्वतिरिक्ताः सप्तसंख्याका दिशः । अनु पश्चाज्जु होमि।
+> यत्र यत्र वर्तते तां तां दिशं द्रव्यत्वेन प्रयच्छामि । प्रतिष्ठापयामित्यर्थः ।
+> अत्र वाजसनेयकं । असौ ना आदित्यो द्रप्पः स दिवं च पृथिवीं च स्कंदतीमं च
+> योनिमनु यश्च पूर्व इतीमं च लोकममुं चेत्येतत् समानं योनिमनु
+> पंचरंतमिति समानं हेष एतं योनिमनु संचरति द्रप्पं जुहोम्यनु सप्त
+> होत्रा इत्यसौ ना आदित्यो द्रप्पो दिशः सप्त होत्रा अमुं तदादित्यं दिक्षु
+> प्रतिष्ठापयति । शत. ७-४-१-२८ । इति ॥
+
+##### Gist of the bhāṣya
+
+(Continuing.) The ṛk is used in this way: if an oblation falls outside the outer enclosing sticks (bahiṣparidhi), then the Āgnīdhra should offer with it. This is laid down in the sūtra, introduced with "one should touch what has fallen": द्रप्सश्चस्कंदेत्याहुतिश्चेद्बहिष्परिध्याग्नीध्र एनां जुहुयात् (*drapsaścaskaṃdetyāhutiścedbahiṣparidhyāgnīdhra enāṃ juhuyāt*) (A. 3-13)**NOTE**.
+
+Drapsa is the juice of the Soma being pressed. It has "gone" (caskanda) with regard to the first (prathamān, that is, earlier-existing) earthly worlds and the shining (dyūn) worlds of heaven. He states this same thing: it has followed this visible yoni, the world that is the place, and that which exists before it. Common (samāna, shared) yoni is the place made up of heaven and earth; the drapsa, the Soma juice that is the vipuḍ-oblation, moves well (saṃcarantam) along it. The seven hotrāḥ are the seven who perform the vipuḍ-homa, the hotṛ and the rest; "we" offer in due order; जुहोमि (*juhomi*) stands for जुहुमः (*juhumaḥ*).
+
+Or else: hotrāḥ is the sacrificial act performed by the seven hotṛs; after (anu) those, I, the adhvaryu, offer.
+
+Or else: because it moves swiftly, drapsa is said to mean Āditya. That Āditya goes to earth and to heaven, taking the intermediate space as the common yoni. Having in view that Āditya who moves well, the seven hotrāḥ are the seven directions, those other than the direction in which the Sun stands; afterwards (anu) I offer. In whichever direction he stands, I give that direction as the offering-substance; that is, I establish him there. On this the Vājasaneyaka (Brāhmaṇa) says: असौ ना आदित्यो द्रप्पः स दिवं च पृथिवीं च स्कंदतीमं च योनिमनु यश्च पूर्व इतीमं च लोकममुं चेत्येतत् समानं योनिमनु पंचरंतमिति समानं हेष एतं योनिमनु संचरति द्रप्पं जुहोम्यनु सप्त होत्रा इत्यसौ ना आदित्यो द्रप्पो दिशः सप्त होत्रा अमुं तदादित्यं दिक्षु प्रतिष्ठापयति । (*asau nā ādityo drappaḥ sa divaṃ ca pṛthivīṃ ca skaṃdatīmaṃ ca yonimanu yaśca pūrva itīmaṃ ca lokamamuṃ cetyetat samānaṃ yonimanu paṃcaraṃtamiti samānaṃ heṣa etaṃ yonimanu saṃcarati drappaṃ juhomyanu sapta hotrā ityasau nā ādityo drappo diśaḥ sapta hotrā amuṃ tadādityaṃ dikṣu pratiṣṭhāpayati |*) (Śata. 7-4-1-28).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रप्सः (*drapsaḥ*)—the pressed Soma juice
+- प्रथमान् (*prathamān*)—the earthly worlds, the first region
+- द्यून् अनु (*dyūn anu*)—having in view the worlds of heaven
+- चस्कंद (*caskaṃda*)—they flow
+- इमं योनिं (*imaṃ yoniṃ*)—to the world visible here (and)
+- यः (*yaḥ*)—which
+- पूर्वः (*pūrvaḥ*)—exists from before
+- तं अनु (*taṃ anu*)—having that in view, it flows
+- समानं (*samānaṃ*)—common to all
+- योनिं अनु संचरंतं (*yoniṃ anu saṃcaraṃtaṃ*)—flowing through all the worlds
+- द्रप्सं (*drapsaṃ*)—the Soma juice
+- सप्त होत्राः (*sapta hotrāḥ*)—we, the seven hotṛs
+- अनु जुहोमि (*anu juhomi*)—offer in the form of an oblation
+
+##### भावार्थ (Bhāvārtha)
+
+The pressed Soma juice flows through heaven and earth, which have existed from beginningless time. It flows through the worlds that are visible to us and those that exist from before. We, the seven hotṛs, offer in the form of an oblation the Soma juice that flows through all the worlds.
+
+### Printed p. 565
+
+##### English translation
+The juice of the Soma has risen to the earthly and heavenly (worlds), both this visible world, and that which (existed) before (it): I offer that juice flowing through the common region (of heaven and earth) after the sacrifices (offered by the) seven (officiating priests).
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of pressing the Soma juice in the sacrifice, this ṛk द्रप्सश्चस्कंद (*drapsaścaskaṃda*) and the ṛk after it are to be used for the vipuḍ-homa; this is set out by the sūtra of the Āśvalāyana Śrautasūtra, द्रप्सश्चस्कंदेति द्वाभ्यां विपुड्ढोमौ हुत्वा (*drapsaścaskaṃdeti dvābhyāṃ vipuḍḍhomau hutvā*) (Ā. 5-2). In the touching of spilled oblation too, this ṛk द्रप्सः (*drapsaḥ*) is to be recited. If the oblation-substance of an offering has spilled outside the enclosing sticks (paridhi) placed on all four sides of the fire, then the priest called Āgnīdhra is to make the offering with this ṛk and touch (abhimarśana) the spilled oblation-substance; this is set out by the sūtra of the Āśvalāyana Śrautasūtra, द्रप्सश्चस्कंदेत्याहुतिश्चेद्वहिष्परिध्याग्नीध्र एनां जुहुयात् (*drapsaścaskaṃdetyāhutiścedvahiṣparidhyāgnīdhra enāṃ juhuyāt*) (Ā. 3-13).
+
+**Drapsaḥ**—this word has two meanings. अभिषूयमाणस्य सोमस्य रसः । (*abhiṣūyamāṇasya somasya rasaḥ |*) The juice drawn out by crushing and pressing the Soma plants with a stone is called drapsa. Or else: द्रुतगामित्वाद्द्रप्स उच्यते । (*drutagāmitvāddrapsa ucyate |*) Because he has the nature of moving swiftly, drapsa also means Āditya (the Sun).
+
+The Bhāṣyakāra says that this ṛk can also be explained as referring to Āditya, and he cites a Vājasaneya (Śukla Yajurveda) Brāhmaṇa sentence: असौ वा आदित्यो द्रप्सः स दिवं च पृथिवीं च स्कंदतीमं च योनिमनु यश्च पूर्व इतीमं च लोकममुं चेत्येतत्समानं योनिमनु संचरंतमिति समानं ह्येष एतं योनिमनु संचरति द्रप्सं जुहोम्यनु सप्त होत्रा इत्यसौ वा आदित्यो द्रप्सो दिशः सप्त होत्रा अमुं तदादित्यं दिक्षु प्रतिष्ठापयति । (*asau vā ādityo drapsaḥ sa divaṃ ca pṛthivīṃ ca skaṃdatīmaṃ ca yonimanu yaśca pūrva itīmaṃ ca lokamamuṃ cetyetatsamānaṃ yonimanu saṃcaraṃtamiti samānaṃ hyeṣa etaṃ yonimanu saṃcarati drapsaṃ juhomyanu sapta hotrā ityasau vā ādityo drapso diśaḥ sapta hotrā amuṃ tadādityaṃ dikṣu pratiṣṭhāpayati |*) (Śa. Brā. 7-4-1-20)**NOTE**.
+
+यश्च द्रप्सः (*yaśca drapsaḥ*)—the swift-moving Āditya who, rising facing east, goes toward (चस्कंद (*caskaṃda*)) the earth (प्रथमान् (*prathamān*)) and this world of heaven (द्यून् इमं (*dyūn imaṃ*)); समानं योनिं (*samānaṃ yoniṃ*)—in the intermediate space, the common place; अनु संचरंतं (*anu saṃcaraṃtaṃ*)—
+
+### Printed p. 566
+who moves there; द्रप्पं (*drappaṃ*)—having in view Āditya; अनु (*anu*)—afterwards; सप्त होत्राः (*sapta hotrāḥ*)—having in view the seven directions, leaving aside, among the eight directions, the one in which the Sun stands; जुहोमि (*juhomi*)—I offer the oblation (that is, I establish Āditya there).
+
+This very meaning is explained in the Śatapatha Brāhmaṇa sentence cited above.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ द्र॒प्सः स्कंद॑ति॒ यस्ते॑ अं॒शुर्बा॒हुच्यु॑तो धि॒षणा॑या  ॒॑
+> उपस्थात् ।  
+> अ॒ध्व॒योर्वा॒ परि॑ वा॒ यः प॒वित्रा॒त्तं ते॑ जुहोमि॒ मन॑सा॒  ॑
+> वषट्कृतं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । द्रप्सः । स्कंदति । यः । ते । अंशुः । बाहुच्युतः । धिषणायाः । उपस्थात् ।  
+> अध्वयोः । वा । परि । वा । यः । पवित्रात् । तं । ते । जुहोमि । मनसा ।  
+> वषट्कृतं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते त्वदीयो यो द्रप्पो रसः स्कंदति अधिषवणचर्मणोऽन्यत्र
+> गच्छति ! यश्च ते त्वदीयोऽंशू रसादितरः सन् स्कंदति । बाहुच्युतोऽध्वर्योर्बाहुभ्यां प्रच्युतः सन् स्कंदति । यद्वा । बाहुवत्साधनभूता ग्रावाणः । तैः
+> प्रच्युतोऽभिषुतः सन् धिषणायाः । धिषणेत्यधिषवणफलकनाम । प्रत्येकविवक्षय्यॆकवचनं । अधिषवणफलकयोरुपस्थात्पदेशादन्यत्र गच्छति । तथाध्वर्योर्वाभिषुण्वतोऽध्वर्योर्हस्तात्संदति । वापि वा पवित्राद्दशापवित्रात्परिस्कंदति । तं सर्वं
+> द्रप्पं ते त्वदीयं रसं मनसांतःकरणेन स्तोत्रेण वा सह वषट्कृतं वषट्कारेण
+> स्वाहाकारेण कृतं जुहोमि । अग्नौ प्रक्षिपामि ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, your drapsa, your juice, which falls (स्कंदति (*skaṃdati*)), goes elsewhere than the pressing hide. And your aṃśu, other than the juice, falls, slipping from the arms of the adhvaryu (बाहुच्युतः (*bāhucyutaḥ*))." Or else: the pressing stones are instruments like arms; released by them, pressed out, it goes elsewhere than the neighbourhood (उपस्थात् (*upasthāt*)) of the dhiṣaṇā; dhiṣaṇā is a name for the pressing board, and the singular is used because each is meant separately; thus it goes from the vicinity of the two pressing boards. Likewise it falls from the hand of the adhvaryu who is pressing; or it flows around from the pavitra, the woollen filter with fringe (दशापवित्रात् (*daśāpavitrāt*)). All that drapsa, your juice, I offer (जुहोमि (*juhomi*)), that is, cast into the fire, with the mind, that is, with the inner organ, or with a hymn of praise, and with what is made by vaṣaṭ (वषट्कृतं (*vaṣaṭkṛtaṃ*)), that is, by the vaṣaṭ-call, the svāhā-call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma) ते (*te*)—your
+- यः द्रप्सः (*yaḥ drapsaḥ*)—which juice
+- स्कंदति (*skaṃdati*)—goes out of the pressing hide and flows
+- ते (*te*)—your
+- यः अंशुः (*yaḥ aṃśuḥ*)—which thing in the form of a plant or the like
+
+### Printed p. 567
+- बाहुच्युतः (*bāhucyutaḥ*)—goes out from the arm of the adhvaryu
+- धिषणायाः (*dhiṣaṇāyāḥ*)—out from the boards of pressing
+- उपस्थात् (*upasthāt*)—goes out
+- अध्वर्योर्वा (*adhvaryorvā*)—is offered by the adhvaryu
+- वा (*vā*)—or
+- पवित्रात् (*pavitrāt*)—going out from the daśā-pavitra
+- परि (*pari*)—flows
+- तं (*taṃ*)—that
+- ते (*te*)—your juice
+- मनसा (*manasā*)—with praise
+- वषट् कृतं (*vaṣaṭ kṛtaṃ*)—with the vaṣaṭ-call
+- जुहोमि (*juhomi*)—I offer in the form of an oblation
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, your juice which goes out of the pressing hide and flows, your thing in the form of a plant or the like which goes out from the arm of the adhvaryu, which goes out from the boards of pressing, which is offered by the adhvaryu, or which goes out from the daśā-pavitra and flows: such juice of yours I offer in the form of an oblation, with praise and with the vaṣaṭ-call.
+
+##### English translation
+Your juice, (Soma), which escapes (from the hide), your filaments which let fall from the hands (of the priest escape) from the vicinity of the planks (of the press), or (from the hand) of the Adhwaryu, or from the filter; I offer it all with my mind (to Agni) with the word vashat.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here it is necessary to explain in detail what the vaṣaṭkāra is, why it is to be recited, what its nature and sign are, and so on. When oblations are to be offered in sacrifices to the various deities, since those deities are not visible to us, mantras addressed to each deity are recited with that deity in view and the offering is made in the fire. In making the offering in that way, they add the word svāhā or नौषट् (*nauṣaṭ*)**NOTE** at the end of the mantra and recite it while offering. Before making the offering, certain rules have to be followed. First the deity to whom the oblation is to be offered is described in his qualities with mantras of praise and the like addressed to that deity. These mantras describing qualities are called śastra mantras and nivit mantras. Since in the nivid mantra the special qualities of that deity are described, the nivid mantra is inserted in the middle of the śastra mantras and recited. After the qualities have been described in this way, the priest called hotṛ invites the deity with another mantra to come to the sacrificial ground. This inviting mantra is called anuvākyā or puronuvākyā mantra. Then, imagining that the deity has accepted the invitation, come to the sacrificial ground and seated himself on the seat of darbha grass called barhis,
+
+### Printed p. 568
+the priest called adhvaryu offers the oblation in the fire with yet another mantra. This mantra, at the time of offering, is called yājyā. At the very end of this yājyā mantra they add the word svāhā or vauṣaṭ and make the offering. To make this clear we shall give an example. At the occasion when the offering is to be made to Viṣṇu himself, the priest called Acchāvāka recites for the śastra mantras the sūkta addressed to Viṣṇu, नू मर्तो दयते (*nū marto dayate*) (the hundredth sūkta of the 7th Maṇḍala). In the middle of these mantras he inserts and recites as nivid mantras some mantras that sing the qualities of Viṣṇu, that is, the three ṛks beginning प्र तत्ते अद्य (*pra tatte adya*) (Ṛ. Saṃ. 7-100-5 to 6-100-7)**NOTE**. Then, to invite Viṣṇu,
+
+न ते विष्णो जायमानो न जातो देव महिम्नः परमंतमाप उदस्तभ्ना नाकमृष्टं बृहंतं दादर्थ प्राचीं ककुभं पृथिव्याः ॥ (*na te viṣṇo jāyamāno na jāto deva mahimnaḥ paramaṃtamāpa udastabhnā nākamṛṣṭaṃ bṛhaṃtaṃ dādartha prācīṃ kakubhaṃ pṛthivyāḥ ‖*) (Ṛ. Saṃ. 7-99-2)
+
+this ṛk is recited in the animal offering as the anuvākyā mantra, and the hotṛ invites the deity Viṣṇu. Then,
+
+त्रिर्देवः पृथिवीमेष एतां वि चक्रमे शतर्चसं महित्वा । प्र विष्णुरस्तु तवसस्तवीयान्वेषं ह्यस्य स्थविरस्य नाम ॥ (*trirdevaḥ pṛthivīmeṣa etāṃ vi cakrame śatarcasaṃ mahitvā | pra viṣṇurastu tavasastavīyānveṣaṃ hyasya sthavirasya nāma ‖*) (Ṛ. Saṃ. 7-100-3)
+
+this ṛk he recites as the yājyā mantra. After the words स्थविरस्य नाम (*sthavirasya nāma*) at the end of this mantra he adds the word वौषट् (*vauṣaṭ*), reciting स्थविरस्य नाम वौषट् (*sthavirasya nāma vauṣaṭ*), and offers in the fire the part of the animal called vasā. This order is to be followed also when offering to each deity. But the mantras differ for each deity. Besides, the offering-substance is of many kinds: ājya, havis, puroḍāśa, vapā and so on, and the mantras differ accordingly. The mantras in the example given above are connected only with the vapā offering. In the same way there are separate mantras for the puroḍāśa offering and for the havis offering. And different mantras are to be used in different sacrifices.
+
+Now, what are the nature and sign of the vaṣaṭkāra? Why is it to be used at the end of a mantra? This matter has to be examined. On this point the detailed account given in the Aitareya Brāhmaṇa is set out here:
+
+देवपात्रं वा एतद्यद्वषट्कारो वषट्कारेति देवपात्रॆणैव तद्देवतास्तर्पयति ॥ (*devapātraṃ vā etadyadvaṣaṭkāro vaṣaṭkāreti devapātrèṇaiva taddevatāstarpayati ‖*) (Ai. Bā. 11-5)**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 562. pp. 557-562 (batch API)
+**Progress note:** Done through printed p. 568. pp. 563-568 (batch API)
