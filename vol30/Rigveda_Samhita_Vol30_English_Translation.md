@@ -39895,6 +39895,241 @@ You have carried off the head of the trembling sacrifice from his skin; come to 
 
 Formerly the sacrifice, for some reason, abandoned the gods and went away, taking the form of a man. This sacrifice itself is called Rudra. Near this sacrifice, or Rudra, there was a bow. Indra, in the form of the termites, cut the bowstring (jyā) of that bow, that is, the cord. The bow, whose two ends had been joined and tightened with the cord, sprang up with a jerk, because the cord had been cut, and its
 
+### Printed p. 1161
+
+##### विशेषविषयगळु (Special Topics)
+
+[The Kannada continues:] Its one end cut off the head of Rudra (the sacrifice), who was lying there, and threw it upwards. After that head had fallen down it came to be called Pravargya. Here it is said that Indra separated it from the body of the sacrifice and brought it. A man who performs the sacrifice together with the Pravargya is as if he joined the head of the sacrifice back on. Rudra, that is, the sacrifice, does no harm of any kind to him. The Taittirīya Āraṇyaka says:
+तस्येंद्रो वम्रिरूपेण । धनुर्ज्यामभिनत्स्वयं....रुद्रस्यत्वेव धनुरार्तिः । शिर उत्पिपेष । स प्रवर्गॊऽभवत् । तस्माद्यः सप्रवर्ग्येण यज्ञेन यजते । रुद्रस्य स शिरः प्रति दधाति । नैनग् ० रुद्र आरुको भवति । य एवं वेद ॥ (*tasyeṃdro vamrirūpeṇa | dhanurjyāmabhinatsvayaṃ....rudrasyatveva dhanurārtiḥ | śira utpipeṣa | sa pravargò 'bhavat | tasmādyaḥ sapravargyeṇa yajñena yajate | rudrasya sa śiraḥ prati dadhāti | nainag 0 rudra āruko bhavati | ya evaṃ veda ‖*) (Śrī. Ā. 1-5-2)**NOTE**
+This is what is said in the Taittirīya Āraṇyaka. The seer has expressed that very idea here.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं त्यमिं॑द्र॒ मर्त्य॑मास्त्रबु॒ध्नाय॑ वे॒न्यं ।  
+> मुहुः॑ श्रथ्ना मन॒स्यवे॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । त्यं । इंद्र । मर्त्यं । आस्त्रेबुध्नाय । वेन्यं ।  
+> मुहुः । श्रथ्नाः । मनस्यवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं त्यं तं मर्त्यं मनुष्यं वेन्यं वेनस्य पुत्रं पृथुमास्त्रबुध्नाय । अस्त्रबुध्नो नाम कश्चित् । तस्य पुत्राय मनस्यवे मननीयं स्तोत्रमिच्छृते मुहुः शश्वच्छ्रथ्नाः । अहिंसीः । वशमनय इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you have repeatedly subdued that well-known mortal, Venya, that is, Pṛthu, the son of Vena, आस्त्रबुध्नाय (*āstrabudhnāya*). Astrabudhna is the name of someone; for his son Manasyu, who desires a hymn worthy of being thought upon (*mananīyaṃ stotram*), you have constantly श्रथ्नाः (*śrathnāḥ*), that is, struck down; the meaning is "brought under his control".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- त्यं (*tyaṃ*)—the well-known
+- मर्त्यं (*martyaṃ*)—human
+- वेन्यं (*venyaṃ*)—Pṛthu, the son of one called Vena
+- मनस्यवे (*manasyave*)—who praises
+- आस्त्रबुध्नाय (*āstrabudhnāya*)—to the son of one called Astrabudhna
+- मुहुः (*muhuḥ*)—again
+- श्रथ्नाः (*śrathnāḥ*)—you have subdued
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have subdued the well-known Pṛthu, the son of Vena, for the son of Astrabudhna, who wishes to praise you.
+
+### Printed p. 1162
+
+##### English translation
+You have often, Indra, let loose the mortal Venya, against Manasyu, the son of Astrabudhna.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk two men's names occur: the son of Astrabudhna, and Pṛthu, the son of Vena. The name of Astrabudhna is not found anywhere else in the Ṛgveda but in this Ṛk, so nothing more can be known about him. But Pṛthu, the son of Vena, is spoken of in many places. This seer (Pṛthu) is the seer of five Ṛks of Maṇḍala 10, Sūkta 148, in which Indra is praised. In the Taittirīya Brāhmaṇa too this Pṛthu is mentioned in two places; there he is called Pṛthi instead of Pṛthu:
+पृथिवेन्यः । अभ्यषिच्यत । स राष्ट्रं नाभवत् । स एतानि पार्थान्यपश्यत् । तान्यजुहोत् । तैर्वै स राष्ट्रमभवत् ॥ (*pṛthivenyaḥ | abhyaṣicyata | sa rāṣṭraṃ nābhavat | sa etāni pārthānyapaśyat | tānyajuhot | tairvai sa rāṣṭramabhavat ‖*) (Tai. Brā. 1-7-7-4)
+Pṛthi (Pṛthu) was the son of Vena. At the time he was consecrated as king he did not perform the six Pārtha oblations, beginning with "अग्नये स्वाहा (*agnaye svāhā*)". Therefore sovereignty was not obtained by him. After he learned the nature of these Pārtha oblations and offered them with those mantras, he obtained sovereignty.
+In another place of the same Taittirīya Brāhmaṇa:
+यो वै सोमेन सूयते । स देवसवः । यः पशुना सूयते । स देवसवः। य इष्टा सूयते । स मनुष्यसवः । एतं वै पृथये देवाः प्रायच्छन् । ततो वै सोऽप्यारण्यानां पशूनामसूयत । यावतीः कियतीश्च प्रजा वाचं वदंति । तासाग्ं सर्वासाग्ं सूयते । य एतेन यजते । य उ चैनमेवं वेद ॥ (*yo vai somena sūyate | sa devasavaḥ | yaḥ paśunā sūyate | sa devasavaḥ| ya iṣṭā sūyate | sa manuṣyasavaḥ | etaṃ vai pṛthaye devāḥ prāyacchan | tato vai so 'pyāraṇyānāṃ paśūnāmasūyata | yāvatīḥ kiyatīśca prajā vācaṃ vadaṃti | tāsāgṃ sarvāsāgṃ sūyate | ya etena yajate | ya u cainamevaṃ veda ‖*) (Tai. Brā. 2-7-5-1)
+The sacrifice that one performs with Soma juice is called devasava; the sacrifice performed with an animal oblation is called devasava. The sacrifice performed by the iṣṭi procedure is called manuṣyasava. This iṣṭi procedure is very easy. The gods graciously gave it to a king named Pṛthi, the son of Vena. Therefore it came to be called manuṣyasava. Because the gods gave it to Pṛthi it is also called pṛthisava. By this iṣṭi called pṛthisava Pṛthi performed the sacrifice and became lord of all wild (and village) animals. Such details are given.
+
+### Printed p. 1163
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं त्यमिं॑द्र॒ सूर्यं॑ प॒श्चा संतं॑ पु॒रस्कृ॑धि ।  
+> दे॒वानां॑ चित्ति॒रो वशं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । त्यं । इंद्र । सूर्यं । पश्चा । संतं । पुरः । कृधि ।  
+> देवानां । चित् । तिरः । वशं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं त्यं सूर्यमस्तसमये पश्चा पश्चात्संतं भवंतं पुरः परेद्युरुदयकाले पुरस्तात्कृधि । करोषि ॥ लकारव्यत्ययः ॥ कीदृशं । देवानां
+> चिद्देवानामपि तिरस्तिरोहितं तैरपि क्व गत इति दुर्विज्ञातं वशं कांतं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you make that Sūrya, who at the time of setting is पश्चा (*paścā*) (behind, in the west), stand पुरः (*puraḥ*) (in front, in the east) on the next day, at the time of rising; कृधि (*kṛdhi*) means "you make" (a change of the person-ending). What kind of Sūrya? One who is तिरः (*tiraḥ*), hidden even from the gods, so that where he has gone is hard to know; and वशं (*vaśaṃ*), beloved.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- त्यं (*tyaṃ*)—the well-known
+- देवानां चित् (*devānāṃ cit*)—even to the gods (where he is during the night)
+- तिरः (*tiraḥ*)—who is unseen
+- वशं (*vaśaṃ*)—the shining
+- सूर्यं (*sūryaṃ*)—Sūrya (in the evening)
+- पश्चा (*paścā*)—in the western quarter
+- संतं (*saṃtaṃ*)—being
+- पुरः (*puraḥ*)—(on the next morning) as being in the eastern quarter
+- कृधि (*kṛdhi*)—you make
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you make the well-known and shining Sūrya, whose whereabouts in the night even the gods do not know, be in the western quarter in the evening and in the eastern quarter in the morning of the next day.
+
+##### English translation
+Bring forward that Surya, Indra, who is lingering behind, the beloved of the gods, (awhile) concealed from them.
+
+### Printed p. 1164
+
+## Sūkta 172 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ याहीति चतुर्यचमेकविंशं सूक्तमांगिरसस्य संवर्तस्यार्षमुषोदेवताकं । चतस्रोऽपि विंशतिका द्विपदा विराजः । तथा चानुक्रांतं । आ याहि
+> संवर्त उषस्यं दैपदमिति ॥ प्रथमे छंदोमे वैश्वदेवसूक्तात्पूर्वमिदं
+> सूक्तं । सूत्रितं च । आ याहि वनसेमा नु कं बभ्रुरेक इति द्विपदासूक्तानि ।
+> आ. ८-७ । इति ॥ वाहाव्रतेऽपि निष्केवल्य एतत् । तथैव पंचमारण्यके सूत्रितं ॥
+> ऐ. आ. ५-२-२ ॥
+
+##### Gist of the bhāṣya
+
+The hymn beginning आ याहि (*ā yāhi*), of four Ṛks, is the twenty-first hymn (of the anuvāka). Its seer is Saṃvarta of the Āṅgirasa line; its deity is Uṣas. All four Ṛks are dvipadā virāj of twenty syllables. So the Anukramaṇī says: आ याहि संवर्त उषस्यं दैपदमिति (*ā yāhi saṃvarta uṣasyaṃ daipadamiti*). In the first chandoma this hymn comes before the Vaiśvadeva hymn; it is so prescribed in the sūtra: आ याहि वनसेमा नु कं बभ्रुरेक इति द्विपदासूक्तानि (*ā yāhi vanasemā nu kaṃ babhrureka iti dvipadāsūktāni*) (Ā. 8-7). In the Mahāvrata too it is used in the niṣkevalya; it is likewise prescribed in the fifth Āraṇyaka (Ai. Ā. 5-2-2).
+
+##### Anuvāda
+
+This hymn आ याहि (*ā yāhi*) is the twenty-first hymn in the twelfth anuvāka. It has four Ṛks. Its seer is Saṃvarta of the Aṅgirasa gotra; its deity is Uṣas; the four Ṛks are in the metre dvipadā virāj of twenty syllables. The Anukramaṇī says: "आ याहि संवर्त उषस्यं दैपदं (*ā yāhi saṃvarta uṣasyaṃ daipadaṃ*)". That this hymn is to be recited before the Vaiśvadeva hymn in the first chandoma is explained by the sūtra "Ā yāhi vanasemā nu kaṃ babhrurekā iti dvipadāsūktāni" (Ā. 8-7). That it is employed in the Mahāvrata sacrifice for the niṣkevalya śastra mantras is stated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence "आ याहि वनसा सहेति नव समाम्नाताः (*ā yāhi vanasā saheti nava samāmnātāḥ*)" (Ai. Ā. 5-2-2).
+
+##### Particulars
+
+Sūkta 122**NOTE**; Maṇḍala 10; Anuvāka 12; Sūkta 172; Aṣṭaka 8; Adhyāya 8; Varga 30. Number of Ṛks in the sūkta: 4. Seer: Saṃvarta. Deity: Uṣas. Metre: Dvipadā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑हि॒ वन॑सा स॒ह गावः॑ सचंत वर्त॒निं यदूध॑भिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । वनसा । सह । गावः । सचंत । वर्तनिं । यत् । ऊध्भिः ॥ १ ॥
+
+### Printed p. 1165
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः वनसा वननीयेन तेजसा धनेन सार्धमा याहि । आगच्छ । गाव
+> उषसो वाहनभूता वर्तनिं रथं सचंत । सेवंते । अतस्तेन रथेनायाहीत्यर्थः ।
+> यद्या गाव ऊधभिरुपलक्षिताः प्रभूताः । पीना इत्यर्थः । ता गाव इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, come together with धनेन (*dhanena*) wealth, which is the desirable brilliance (वनसा (*vanasā*)). The cows, which are Uṣas's draught animals, सचंत (*sacaṃta*) (serve) the वर्तनिं (*vartaniṃ*), the chariot; the meaning is "therefore come by that chariot". Or else: the cows, distinguished by their udders, are abundant, that is, plump; the connection is "those cows".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Uṣas) यत् गावः (*yat gāvaḥ*)—the cows that are Uṣas's draught animals
+- ऊधभिः (*ūdhabhiḥ*)—with udders full of milk
+- वर्तनिं (*vartaniṃ*)—your chariot
+- सचंत (*sacaṃta*)—when they serve, that is, draw it
+- वनसा (*vanasā*)—with the radiance (light) that all desire, or with wealth
+- आ याहि (*ā yāhi*)—be pleased to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, when your cows, your draught animals, serve, that is, draw your chariot, be pleased to come here with the radiance, or the wealth, that all desire.
+
+##### English translation
+Come, (Ushas), with the desirabie (radiance); let the cows who are of full udders accompany your chariot.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॑हि॒ वस्वा॑ धि॒या मंहि॑ष्ठो जार॒यन्म॑खः सु॒दानु॑भिः ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । याहि । वॆस्वा । धिया । मंहिष्ठः । जारयत्ऽमखिः । सुदानुभिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उषः वस्वा प्रशस्तया धियानुग्रहबुद्धा कर्मणा स्तुत्या वा सार्धमा
+> याहि । आगच्छ । स चोषःकालः सुदानुभिः शोभनदानैर्दातृभिः पुरुषैर्मंहिष्ठो
+> धनानां दातृतमः अत एव जारयन्मखः समापयद्यज्ञश्च भवति ॥
+
+##### Gist of the bhāṣya
+
+O Uṣas, come together with वस्वा (*vasvā*) excellent धिया (*dhiyā*), which is a gracious intention, or an act, or praise. And that time of Uṣas is, through the men who are good givers (सुदानुभिः (*sudānubhiḥ*)), the greatest giver of riches (मंहिष्ठः (*maṃhiṣṭhaḥ*)), and therefore it is also what brings the sacrifice to completion (जारयन्मखः (*jārayanmakhaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Uṣas) वस्वा (*vasvā*)—excellent
+- धिया (*dhiyā*)—together with your gracious intention, or praised with acts and hymns
+- आ याहि (*ā yāhi*)—be pleased to come
+- (that time of Uṣas) सुदानुभिः (*sudānubhiḥ*)—by good givers, men
+
+### Printed p. 1166
+
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—is venerable
+- जारयन्मखः (*jārayanmakhaḥ*)—and brings the sacrifice to completion
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, come here with your gracious intention. Or come here praised with act or hymn. The dawn-time that is reached through your coming is a time honoured by generous givers and one that brings the sacrifice to completion.
+
+##### English translation
+Come (Ushas), with kindly thoughts; (it is the season) most honoured by the generous, and which bring the sacrifice to completion.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पि॒तु॒भृतो॒ न तंतु॒मित्सु॒दान॑वः॒ प्रति॑ दध्मो॒ यजा॑मसि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पित्रुभ्यतः । न । तंतुं । इत् । सुदानवः । प्रति । दध्मः । यजामसि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पितृभृतो नान्नस्य भर्तार इव सुदानवः शोभनदाना वयं तंतुमित्तंतुं
+> विस्तीर्णमेव प्रति दध्मः । उषसं प्रत्युपायनरूपेण धारयामः । तेन च यज्ञेन
+> तामुषसं यजामसि ॥
+
+##### Gist of the bhāṣya
+
+Like bearers of food for their fathers (पितृभृतो न (*pitṛbhṛto na*)), we, good givers (सुदानवः (*sudānavaḥ*)), प्रति दध्मः (*prati dadhmaḥ*) the तंतुमित्— (*taṃtumit—*), that is, a spread-out offering: we hold it ready as an offering to Uṣas. And with that sacrifice we worship that Uṣas (यजामसि (*yajāmasi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Uṣas) पितुभृतः न (*pitubhṛtaḥ na*)—like those who stand holding the food in the form of oblation, in order to offer it to you
+- सुदानवः (*sudānavaḥ*)—we, who are endowed with good gifts
+- तंतुमित् (*taṃtumit*)—abundantly (in large measure)
+- प्रति दध्मः (*prati dadhmaḥ*)—we stand holding oblations and the like in order to offer them
+- यजामसि (*yajāmasi*)—with those oblations we worship Uṣas by way of sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣas, we who stand holding food in the form of oblation just in order to offer it to you, being endowed with good gifts, hold in our hands abundant oblations and the like to offer; and with them we worship Uṣas by way of sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 1160. pp. 1155-1160 (batch API)
+**Progress note:** Done through printed p. 1166. pp. 1161-1166 (batch API)
