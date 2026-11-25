@@ -10686,6 +10686,180 @@ The sin that may arise from cow-killing, theft, killing of a woman, and the deed
 (Pari. 18-10)**NOTE**
 Brahmin-killing, drinking liquor, stealing gold, the sin of having intercourse with a woman called vṛṣalī (one unmarried while her younger sister is married), and the sin of intercourse with the teacher's wife, all these I will remove and make him pure.
 
+### Printed p. 276
+The Kannada commentary continues the quotations from the Parishiṣṭa (the text is the Aghamarṣaṇa-style purification verses, each ending "I purify by the Pāvamānī verses"):
+
+बालघ्नान्मातृपितृवधाध्भूमितस्करात्सर्ववर्णगमनमैथुनसंगमात् । पापेभ्यश्च प्रतिग्रहात्सद्यः प्रहरति सर्वदुष्कृतं तत्पावमानीभिरहं पुनामि ॥ (*bālaghnānmātṛpitṛvadhādhbhūmitaskarātsarvavarṇagamanamaithunasaṃgamāt | pāpebhyaśca pratigrahātsadyaḥ praharati sarvaduṣkṛtaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-11) **NOTE**
+
+From killing children, killing one's mother and father, fraudulently seizing land such as fields, union with women of all the low castes, accepting improper gifts, and doing other evil deeds: whatever sins arise from these, I remove all those sins and make him thoroughly pure.
+
+क्रयविक्रयाद्योनिदोषाद्भक्षाद्योज्यात्पतिग्रहात् । असंभोजनाच्चापि नृशंसं तत्पावमानीभिरहं पुनामि ॥ (*krayavikrayādyonidoṣādbhakṣādyojyātpatigrahāt | asaṃbhojanāccāpi nṛśaṃsaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-2) **NOTE**
+
+Buying and selling by unjust means, that is, by fraud; union with women one happens upon; eating forbidden foods; accepting things not fit to be accepted; eating one's meal leaving aside a guest who has come to the house: I remove the sins that arise from these.
+
+दुर्यष्टं दुरधीतं पापं यच्चाज्ञानतो कृतं । अयाजिताश्च संयाज्यास्तत्पानमानीभिरहं पुनामि ॥ (*duryaṣṭaṃ duradhītaṃ pāpaṃ yaccājñānato kṛtaṃ | ayājitāśca saṃyājyāstatpānamānībhirahaṃ punāmi ‖*) (Pari. 18-13) **NOTE**
+
+Performing a sacrifice in another way, leaving aside the manner prescribed by rule; studying the Veda without discipline, a sin done through ignorance; making a sacrifice for those not qualified to sacrifice, and not making it for those qualified: I remove the sins arising from such evil deeds and make him pure.
+
+आमंत्रमन्नं यत्किंचिद्दूयते च हुताशने । संवत्सरकृतं पापं तत्पावमानीभिरहं पुनामि ॥ (*āmaṃtramannaṃ yatkiṃciddūyate ca hutāśane | saṃvatsarakṛtaṃ pāpaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-19) **NOTE**
+
+The sin that arises from offering oblation into the fire without the prescribed recitation of mantras, or while reciting the mantra wrongly, and whatever sins have been committed during the year: I remove all of them and make him thoroughly pure.
+
+ऋतस्य योनयोऽमृतस्य धाम विश्वा देवेभ्यः पुण्यगंधाः । ता न आपः प्र वहंतु पापं शुद्धा गच्छामि सुकृतामु लोकु तत्पावमानीभिरहं पुनामि ॥ (*ṛtasya yonayo 'mṛtasya dhāma viśvā devebhyaḥ puṇyagaṃdhāḥ | tā na āpaḥ pra vahaṃtu pāpaṃ śuddhā gacchāmi sukṛtāmu loku tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-15) **NOTE**
+
+### Printed p. 277
+May the heavenly waters, which are the chief support of truth or of the sacrifice, which abide in the eternal heaven, and which bring pleasure to the gods, wash away the sins mentioned above. I shall make that man pure and cause him to obtain the highest world.
+
+In the mantras mentioned above, many kinds of sin are described. No one should think that the number of sins ends here. There are many more kinds of sin. It is not possible to describe them all here, and describing them in that way is not relevant to the present context. It should be understood that, in the main, all kinds of sin are contained within the seven kinds of sin mentioned above.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग॑च्च॒ सच्च॑ पर॒मे व्यो॑म॒न्नक्ष॑स्य॒ जन्म॒न्नदि॑तेरु॒पस्थॆ ॥  ॑
+> अ॒ग्निर्ह॑ नः प्रथम॒जा ऋ॒तस्य॒ पूर्व॒ आयु॑निवृष॒भश्च॑ धे॒नुः॥  
+> १ कदंबः.
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अगत् । च । सत् । च । परमे । विओमन् । वक्षस्य, । जन्मन् । अदितेः । उपस्थे ।  
+> अग्निः । ह, सः । प्रथमजाः । ऋतस्य । पूर्वे । आयुनि । वृषभः । च । धेनुः । ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असदव्याकृतं सच्च व्याकृतं । असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् । छां. उ. ३-१९-१ इति श्रुतेः । सदसदात्मकं जगत्सर्वं परम उत्तमे
+> ज्ञानसहिते व्योमन्वोमनि कारणात्मनि जातमभूत्सदा । आदितेः पृथिव्या उपस्थ
+> उपस्थाने समापे दक्षस्य प्रजापतेः । यद्वा । दक्षस्य । स त्रेधात्मानं व्यभजतादित्यं
+> तृतीयं वायुं तृतीयमिति श्रुतेः । शत. १०-६-५-३ । तृतीयस्य द्युलोकस्याधिष्ठातृत्वादादित्यस्य : जन्मज्जन्यनि । तत एवं सति मनुष्यस्य सृष्टिक्रमात्तूर्वमग्निर्हाग्निर्वतस्य कर्मफलस्य भोक्तृणां नोऽस्माकं प्रथमजाः प्रथमजातः समुत्पन्नः । तेजो रसो निरवर्तताग्निः । शत. १०-६-५-२ । बृ. उ. १-१-२-२ । इति श्रवणात् । पश्चात्तप्प करणे ततो मनुष्या अजायंतेति प्रथमत एव मनुष्यसृष्टेरभिहितत्वात् अनंतरं पूर्वे । उत्तर सृष्टिमपेक्ष्य पूर्वत्वं । आयुनि कालेय.
+> मुग्निरेव वृषभश्चासीत् । धेनुश्काभवत् । स्त्रीपुंसवत् स्त्रीपुंसात्मकोऽभवदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+असत् (*asat*) is the unmanifest and सत् (*sat*) the manifest; he cites the śruti असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् (*asadevedamagra āsīt tatsadāsīt tatsamabhavat*) (Chā. U. 3-19-1). The whole world, made of sat and asat, was always born in the supreme (excellent), knowledge-endowed व्योमन् (*vyoman*), which is the causal self. It is born in the lap of Aditi, that is, the earth, near Dakṣa, that is, Prajāpati. Or else, in the जन्मन् (*janman*) of Dakṣa: he cites the śruti that Prajāpati divided himself threefold, the Āditya as one third and Vāyu as one third (Śata. 10-6-5-3) **NOTE**. Since Āditya presides over the third world, heaven, he is the जन्मन् (*janman*) (the birthplace). Therefore Agni, in the order of the creation of man, was the first-born, produced before us, the enjoyers of the fruit of the rite. He cites the śruti तेजो रसो निरवर्तताग्निः (*tejo raso niravartatāgniḥ*) (Śata. 10-6-5-2; Bṛ. U. 1-1-2-2). Then, since the creation of men is stated as having occurred first, … **NOTE** पूर्वे (*pūrve*) means "earlier" with reference to the later creation. आयुनि (*āyuni*) means in time. Agni himself was the bull and became the cow; that is, like a woman and a man, he was both female and male.
+
+### Printed p. 278
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असत् (*asat*)—he who has an unmanifest form
+- सच्च (*sacca*)—and he who has a manifest form, Agni
+- परमे (*parame*)—in the most excellent
+- व्योमन् (*vyoman*)—in the atmosphere
+- अदितेः (*aditeḥ*)—of the earth
+- उपस्थे (*upasthe*)—in the middle part (he has existence)
+- दक्षस्य (*dakṣasya*)—of Prajāpati
+- जन्मन् (*janman*)—in the heaven-world which is the place of origin (he has existence)
+- अग्निर्ह (*agnirha*)—Agni indeed
+- ऋतस्य (*ṛtasya*)—of those who perform the rite
+- नः (*naḥ*)—than us
+- प्रथमजाः (*prathamajāḥ*)—has been born first
+- पूर्वे (*pūrve*)—that existed before the creation of the world
+- आयुनि (*āyuni*)—in the time
+- वृषभश्च (*vṛṣabhaśca*)—Agni himself was the bull
+- धेनुः च (*dhenuḥ ca*)—and also the cow
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who has an unmanifest form and a manifest form, has existence in the most excellent atmosphere, in the middle part of the earth, and in the heaven-world which is the birthplace of Prajāpati. Agni was born first, before us who perform rites. Before the creation of the world, Agni himself was of male form and of female form.
+
+##### English translation
+Non-existent, and existent (is Agni) in the supreme heaven, in the birth-place of Daksha, and in the presence of Aditi : Agni is elder born to us (who enjoy the fruit) of the sacrifice ; in the olden time he was the bull and the cow.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer, having declared the nature of Brahman as both sat and asat, describes the great nature of Agni in another manner.
+
+असत् च सत् च परमे व्योमन् (*asat ca sat ca parame vyoman*)—The words परमे व्योमन् (*parame vyoman*) are words that indicate the unmanifest nature of Brahman, devoid of name and form. This unmanifest nature of the Supreme Brahman is described by Upaniṣad sentences such as असद्वा इदमग्र आसीत् । ततो वै सदजायत ! (*asadvā idamagra āsīt | tato vai sadajāyata !*) (Tai. U. 1-8) **NOTE** and असदेवेदमग्र आसीत् तत्सदासीत् तत्समभवत् (*asadevedamagra āsīt tatsadāsīt tatsamabhavat*) (Bhā. U. 3-19-1) **NOTE**. That is, before creation there was only Brahman without designation of name and form. It had neither shape nor form. It was purely of the nature of knowledge and infinite. This very nature is what the Upaniṣad sentence सत्यं ज्ञानमनंतं ब्रह्म (*satyaṃ jñānamanaṃtaṃ brahma*) (Tai. U. 2-1-1) declares. The unmanifest nature in this state is called असत् (*asat*) in Vedānta works and in the Upaniṣads. This word is a word indicating the negative sense of the word सत् (*sat*), which is formed from the root अस भुवि (*asa bhuvi*). सत् (*sat*) means that which is, that which is perceptible.
+
+### Printed p. 279
+असत् (*asat*) means the state without name and form; its state cannot be seen, cannot be rightly known. Even so, in such a Supreme Brahman of attributeless nature there are the qualities of truth, knowledge and infinity; and from the manifestation of those qualities, that is, of the guṇas sattva, rajas and tamas, that principle at the time of creation took a manifest form and acquired the nature of being perceptible to all. This is what is called by the word सत् (*sat*). This state called सत् (*sat*) exists only during the times of creation, and at the time of dissolution, step by step, it becomes one with the Brahman-substance and remains in an unmanifest form as before creation. Since this subject belongs to the Vedānta inquiry taught in the Upaniṣads, it is not possible to explain it at length in the explanation of the present Ṛk. The main point is this: the seer has said that from the Supreme Brahman, devoid of qualities, infinite like space without name and form, this whole world made of sat and asat came into being. This matter will be explained at length elsewhere later.
+
+दक्षस्य जन्मन्नदितेः उपस्थे (*dakṣasya janmannaditeḥ upasthe*)—The seer has said that at the time of creation Prajāpati first created Agni on the earth; or else, according to the Śatapatha-Brāhmaṇa sentence स त्रेधात्मानं व्यभजतादित्यं तृतीयं वायुं तृतीयं (*sa tredhātmānaṃ vyabhajatādityaṃ tṛtīyaṃ vāyuṃ tṛtīyaṃ*), Prajāpati, desiring to create, divided himself into three parts. Among those parts one is Āditya. Since it is said that Agni himself exists in heaven in the form of Āditya, the statement that he first created Āditya means that he created Agni. The reason why it is said, when creation is made, त्रेधात्मानं व्यभजत (*tredhātmānaṃ vyabhajata*), that Prajāpati divided himself into three parts, is this: before creation only Brahman (Prajāpati), who was in unmanifest form, existed, and since there was no other substance with which to create, he divided himself; this is what is said here. From this statement it must be understood that all the things, moving and unmoving, now seen in the world are parts of Brahman, and that there is no substance other than Brahman. Moreover, in the Bṛhadāraṇyaka Upaniṣad too it is said सह तेजोरसो निरवर्तताग्निः (*saha tejoraso niravartatāgniḥ*) (Bṛ. U. 1-1-2-2): at the time of creation, from the Supreme Brahman, splendour in the form of essence came into being, that is, came out. This śruti sentence also supports the point that Agni was created first.
+
+अग्निः ह नः प्रथमजाः ऋतस्य पूर्वे आयुनि वृषभः च धेनुः (*agniḥ ha naḥ prathamajāḥ ṛtasya pūrve āyuni vṛṣabhaḥ ca dhenuḥ*)—As said above, after Prajāpati created Agni he created us, who experience the fruit of rites, that is, men. That is, Agni was produced before the creation of men. And at that very time, that is, when Agni was created, with the desire that men should be created afterwards, Agni himself became one with a form that is both male and female, "bull and cow". Here the word वृषभ (*vṛṣabha*) denotes the male and the word धेनु (*dhenu*) the female. The intention is that Prajāpati created the distinction of female and male in order to bring about increase of progeny among men.
+
+### Printed p. 280
+The colophon verse and closing lines of the Sāyaṇa text:
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । प्रमथांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pramathāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्येऽसप्तमाष्टके पंचमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśa ṛksaṃhitābhāṣye 'saptamāṣṭake paṃcamo 'dhyāyaḥ samāptaḥ ‖*)
+
+Here ends the fifth chapter in the seventh aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and with Kannada translation.
+
+ओं तत्स्यत् (*oṃ tatsyat*)
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+मंगळं (*maṃgaḷaṃ*)
+
+श्री महागणाधिसतये नमः (*śrī mahāgaṇādhisataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुकप्रमे । यं नत्वा कृतकृत्याः स्यास्तं नमूमि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmukaprame | yaṃ natvā kṛtakṛtyāḥ syāstaṃ namūmi gajānanaṃ ‖*)
+
+यस्य निश्चसितं वेदा यो वेदेष्टोऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niścasitaṃ vedā yo vedeṣṭo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेबाध्याया सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vebādhyāyā sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+सप्तमस्टाष्टकस्येत्पं व्याकार्षित्पंचनं सुधीः । सायणाह्वस्ततः षष्ठव ध्यायं व्याचिकीर्षति ॥ (*saptamasṭāṣṭakasyetpaṃ vyākārṣitpaṃcanaṃ sudhīḥ | sāyaṇāhvastataḥ ṣaṣṭhava dhyāyaṃ vyācikīrṣati ‖*)
+
+Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya. अथ सप्तमाष्टके षष्ठोऽध्यायः (*atha saptamāṣṭake ṣaṣṭho 'dhyāyaḥ*) — the sixth chapter in the seventh aṣṭaka. The sixth sūkta in the tenth maṇḍala.
+
+## Sūkta 6 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशमे मंडले प्रथमेऽनुवाके षोडशसूक्तानि । तत्रायं स यस्येति
+> सप्तर्चं षष्ठं सूक्तं । आप्त्यस्य त्रितस्यार्षं त्रैष्टुभवाग्नेयं । अयमित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the tenth maṇḍala, in the first anuvāka, there are sixteen sūktas. Among them the sixth sūkta is अयं स यस्य (*ayaṃ sa yasya*), of seven ṛks. Its seer is Trita Āptya, its deity is Agni, its metre is Triṣṭubh; the Anukramaṇī says अयं (*ayaṃ*) as its beginning. The viniyoga was stated earlier for the Prātaranuvāka and the Āśvina-śastra.
+
+Translation: In the first anuvāka of the tenth maṇḍala of the Ṛgveda-saṃhitā there are sixteen sūktas. Among them this sūkta beginning अयं स यस्य (*ayaṃ sa yasya*) is the sixth sūkta in the first anuvāka. It has seven ṛks. The seer of this sūkta is one named Trita Āptya; the deity is Agni; the metre is Triṣṭubh. In the Anukramaṇī it is said to begin with अयं (*ayaṃ*).
+
+### Printed p. 282
+The viniyoga of this sūkta for the recitation of the Prātaranuvāka and the Āśvina-śastra mantras has already been stated earlier.
+
+Sūkta 6. Maṇḍala 10; Anuvāka 1; Sūkta 6. Aṣṭaka 7; Adhyāya 6; Varga 1. Number of ṛks in the sūkta: 7. Seer: Trita Āptya. Deity: Agni. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं स यस्य॒ शर्म॒न्नवो॑भिर॒ग्नेरेध॑ते जरि॒ताभिष्टौ॑ ।  
+> ज्येष्ठे॑भि॒र्यो भा॒नुभि॑र्युषू॒णां प॒र्येति॒ परि॑वीतो  ॒॑
+> विभावा ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । सः । यस्य । शर्मन् । अवःभिः । अग्नेः । विधते । जरिताभिष्टौ ।  
+> जैष्टेभिः । यः । भानुभिः । ऋषूणां । परिएति । परिवीतः । विभावा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जरिता स्तोताभिष्टौ यागे कृते यस्याग्नेरवोभिः पालनैः शर्मञ्छर्मणि
+> स्वगृह एधते वर्धते सोऽयमग्निर्यागार्थमस्माभिराहूत इति शेषः । विभावा
+> दीप्तिमान् योऽग्निर्ऋषूणां सूर्यरश्मीनां ज्येष्ठेभिः प्रशस्तैर्भानुभिस्तेजोभिः परिवीतः परिवृतः पर्योति सर्वतो गच्छति । यत्र यत्र गंतव्यं तत्र तत्राप्रतिहतगतिर्गच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+जरिता (*jaritā*) is the praiser. When the sacrifice (अभिष्टौ (*abhiṣṭau*)) has been performed, that Agni, by whose protections (अवोभिः (*avobhiḥ*)) he grows in his own house (शर्मन् (*śarman*))—this Agni, called by us for the sacrifice (this is the word to be supplied). विभावा (*vibhāvā*) means radiant. The Agni who is परिवीतः (*parivītaḥ*), surrounded, by the excellent (ज्येष्ठेभिः (*jyeṣṭhebhiḥ*)) splendours (भानुभिः (*bhānubhiḥ*)) of the sun's rays (ऋषूणां (*ṛṣūṇāṃ*)), goes about (पर्येति (*paryeti*)) everywhere; that is, wherever he must go, he goes there with unobstructed motion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जरिता (*jaritā*)—the praiser
+- अभिष्टौ (*abhiṣṭau*)—at the time of his sacrifice
+- यस्य अग्नेः (*yasya agneḥ*)—of which Agni
+- अवोभिः (*avobhiḥ*)—by the protections
+- शर्मन् (*śarman*)—in the sacrificial house
+- विधते (*vidhate*)—(he who) attains increase
+- सः आयं (*saḥ āyaṃ*)—he, this Agni
+- विभावा (*vibhāvā*)—radiant
+- यः (*yaḥ*)—which same Agni
+
 ---
 
-**Progress note:** Done through printed p. 275. pp. 270-275 (batch API)
+**Progress note:** Done through printed p. 282. pp. 276-282 (batch API)
