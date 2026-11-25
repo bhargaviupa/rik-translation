@@ -5804,6 +5804,110 @@ What is the nature of the tree from which the deities fashioned heaven and earth
 
 "We praise the exceeding wisdom of that Varuṇa who, standing in the atmosphere, measures out and separates heaven and the earth with the sun, which is like a measuring rod." Sentences of this kind state the act of Varuṇa and the others of fixing measures for the worlds that they create.
 
+### Printed p. 213
+
+In the same way, in passages such as अयं षळुर्वीरमिमात (*ayaṃ ṣaḷurvīramimāta*) (6-47-3), this same indication of measures and act of construction are described. It is also well known that Viṣṇu, by his stride, delimited and divided the worlds.
+
+It is the tradition that work on a house and the like begins from the east. Indra and the others follow that tradition too.
+
+सद्मेव प्राचो वि मिनाय मानैर्वज्रेण खान्यतृणन्नदीनां । वृथासृजत्पथिभिर्दिीर्घयाथैः सोमस्य ता मद इंद्रश्चकार ॥ (*sadmeva prāco vi mināya mānairvajreṇa khānyatṛṇannadīnāṃ | vṛthāsṛjatpathibhirdiīrghayāthaiḥ somasya tā mada iṃdraścakāra ‖*) (Ṛ. Saṃ. 2. 5-3)**NOTE**
+
+Just as people build sacrificial houses by measuring from the east, so Indra too measured from the eastern quarter and created the earth and the rest. He also made the channels for the flow of the rivers. Thus acts of measuring are described. Like this act of indicating measures, the spreading out and extending of the worlds, making them come within the range of man's vision, and similar works are likewise possible by the favour of Indra, Agni, Varuṇa and others.
+
+The door of the house that is the universe must also face east. Through this great door the rays of the sun must enter.
+
+विदा दिवो विष्यन्नद्रिमुक्थैरायत्या उषसो अर्चिनो गुः । अपावृत व्रजिनीरुत्स्वर्गाद्वि दुरो मानुषीर्देव आवः ॥ (*vidā divo viṣyannadrimukthairāyatyā uṣaso arcino guḥ | apāvṛta vrajinīrutsvargādvi duro mānuṣīrdeva āvaḥ ‖*) (Ṛ. Saṃ. 5-45-1)
+
+Indra was impelled by the praises. He wielded the thunderbolt. The rays of Uṣas spread everywhere. The sun rose. The sun opened the great doors, fit for the passage of men.
+
+वि श्रयंतामृतावृधः प्रयै देवेभ्यो महीः । पावकासः पुरुस्पृहो द्वारो देवीरसश्चतः ॥ (*vi śrayaṃtāmṛtāvṛdhaḥ prayai devebhyo mahīḥ | pāvakāsaḥ puruspṛho dvāro devīrasaścataḥ ‖*) (Ṛ. Saṃ. 1-142-6)
+
+There is a praise that the deities of the doors, who cause the sacrifice to grow, who are of great nature, mighty to purify the world, and of separate position, should move far aside for the entrance of the gods and make room for an excellent entrance. Who these door deities are:
+
+द्वारस्तु देव्यो याः प्रोक्ता विश्वेषां तास्तु पत्नयः । (*dvārastu devyo yāḥ proktā viśveṣāṃ tāstu patnayaḥ |*) (Bṛ. De. 3-6)
+
+### Printed p. 214
+
+It is stated that these door deities are the wives of the gods, that they dwell firmly in Agni, and that they are the protectors of the sacrifice, which is the root of the activity of the world.
+
+विराट्समाड्विभ्वीः प्रभ्वीर्बह्वीश्च भूयसीश्च याः । दुरो घृतान्यक्षरन् ॥ (*virāṭsamāḍvibhvīḥ prabhvīrbahvīśca bhūyasīśca yāḥ | duro ghṛtānyakṣaran ‖*) (Ṛ. Saṃ. 1.188-5)
+
+The first two named in the verse are shining doors. They are the ways by which the gods come to the sacrifice. These doors are as wide as the earth. They are many in number. These doors pour out a stream of ghee.**NOTE** These doors are praised abundantly in the Āprī hymns. In the same way, principles that reflect the beams, the roof and so on of a house are also described. But in some places the skill of the maker of the house that is the universe is praised in this manner:
+
+स इत्स्वपा भुवनेष्वास य इमे द्यावापृथिवी जजान । उर्वी गभीरे रजसी सुमेके अवंशे धीरः शच्या समैरत् ॥ (*sa itsvapā bhuvaneṣvāsa ya ime dyāvāpṛthivī jajāna | urvī gabhīre rajasī sumeke avaṃśe dhīraḥ śacyā samairat ‖*) (Ṛ. Saṃ. 4-56-3)
+
+The works of Prajāpati show surpassing skill. He produced heaven and earth, and set the wide atmosphere (vaṃśa) in place without support. In this context the word vaṃśa may mean a supporting pillar or beam useful for a house.
+
+This same idea is described at length in the Chāndogya in this manner:
+
+असौ वादित्यो देवमधु तस्य द्यौरेव तिरश्चीनवंशोंतरिक्षमपूपो मरीचयः पुत्राः । (*asau vādityo devamadhu tasya dyaureva tiraścīnavaṃśoṃtarikṣamapūpo marīcayaḥ putrāḥ |*) (Chā. U. 3-1-1)
+
+The sun, standing in the atmosphere, is the divine honey. This heaven itself is the cross-beam and the roof; the atmosphere is the honeycomb, and so on. Thus to build and set up the atmosphere and the rest without pillar or roof is also a skill. How is this?
+
+सविता यंत्रैः पृथिवीमरम्मादस्कंभने सविता द्यामद्यंहत् । अश्वमिवाधुक्षद्दु निमंतरिक्षमतूर्ते बद्धं सविता समुद्रं ॥ (*savitā yaṃtraiḥ pṛthivīmarammādaskaṃbhane savitā dyāmadyaṃhat | aśvamivādhukṣaddu nimaṃtarikṣamatūrte baddhaṃ savitā samudraṃ ‖*) (Ṛ. Saṃ. 10-149-1)
+
+Savitṛ has firmly established the earth with binding materials. Without any supporting pillar he has made the atmosphere stand firm. All this is his greatness.
+
+Heaven and earth and the atmosphere, all together, form the house of the universe. The earth is the support of all these. (Earth, भूमि (*bhūmi*), क्षा (*kṣā*), ग्मा (*gmā*)) It is the most extended. Earth, Urvī, Uttāna, Apāra: these
+
+### Printed p. 215
+
+show the extent of the earth and of the heavenly world. Only for the earth is the qualifying word idam ("this") used, to show its difference from the heavenly world and the atmosphere. In passages such as भूम्याश्चतस्रः प्रदितः (*bhūmyāścatasraḥ praditaḥ*) (10-19-8) the four quarters of this earth are stated. Those who dwell in this house of the universe, which includes the three worlds, are the five peoples. They are also called the five settlements. The five peoples are not only the men on the earth; the gods, gandharvas and the rest all belong to this group. For these five peoples, spread through the three worlds, a lamp in the house of the universe is indispensable. The light common to all is supplied by the sun.
+
+महत्तन्नाम गुह्यं पुरुस्सृग्येन भूतं जनयो येन भव्यं । प्रत्नं जातं ज्योतिरदस्य प्रियं प्रियाः समविशंत पंच ॥ (*mahattannāma guhyaṃ purussṛgyena bhūtaṃ janayo yena bhavyaṃ | pratnaṃ jātaṃ jyotiradasya priyaṃ priyāḥ samaviśaṃta paṃca ‖*) (Ṛ. Saṃ. 10.55-2)
+
+The form of this Indra, who is of the nature of the sun, is great. It is mysterious. It is desired by all. By this greatness he has produced all the past and the future times. It is stated that the five peoples, the gods, gandharvas and others who dwell pervading the three worlds, live by worshipping the radiance of this all-pervading sun. Thus, besides the radiance common to all, since a separate light is necessary for each part of the house of the universe, the one original light has spread in three divisions. After the house of the universe was built, this light of the universe came into being. Its transformed form, Agni:
+
+मूर्धा दिवो नाभिरग्निः पृथिव्या अथाभवदरती रोदस्योः । तं त्वा देवासोऽजनयंत देवं वैश्वानर ज्योतिरिदार्याय ॥ (*mūrdhā divo nābhiragniḥ pṛthivyā athābhavadaratī rodasyoḥ | taṃ tvā devāso 'janayaṃta devaṃ vaiśvānara jyotiridāryāya ‖*) (Ṛ. Saṃ. 1-5)(Ṛ. Saṃ. 1-59-2)**NOTE**
+
+He is like the head of the heavenly world, the navel of the earth. The gods produced this Agni for the Āryas (the revered), the gods and men and others.
+
+वि सूर्य्य अमतिं न श्रियं सादोर्वाद्गर्वां माता जानती गात् । धन्वर्णसो नद्यंगिस्वादोअर्णाः स्थूणेव सुमिता दृंहत द्यौः ॥ (*vi sūryya amatiṃ na śriyaṃ sādorvādgarvāṃ mātā jānatī gāt | dhanvarṇaso nadyaṃgisvādoarṇāḥ sthūṇeva sumitā dṛṃhata dyauḥ ‖*) (Ṛ. Saṃ. 5-45-2)
+
+The sun rises. He spreads light. The heavenly world, like the supporting pillar of a house, bears the universe and stands firm. All this is the command of the sun, the light of the universe. The universal work of Agni, relating to the house of the universe, is reflected in the Vanaspati who is described in the Āprī hymns. He is well known as the lord of the house.
+
+### Printed p. 216
+
+The work of building the house of the universe in this manner belongs to the deities Indra, Varuṇa, Mitra and the rest. But Tvaṣṭṛ**NOTE** and the Ṛbhus, who have skill in that same work, are well known to have distinguished skill in this work. The skill in action of the Ṛbhus has been described earlier.
+
+The purpose of the creation of the universe is not only the attainment of well-being by man. The gods, men and others help one another on both sides (परस्परं भावयंतः श्रेयः (*parasparaṃ bhāvayaṃtaḥ śreyaḥ*) Bha. Gī.)**NOTE**. When men nourish the gods by sacrifice, and the gods nourish men by rain and the like, and thus produce harmony in the activity of the universe, then the purpose of the whole creation of the universe is fulfilled. Therefore, just as man has the wish for a house and the like, the gods too have the same wish. The question where the tree for the building of this house came from, from which forest, is the special subject of the present Ṛk.
+
+To this question the answer is found in the Vedic sentences themselves. In the Taittirīya Brāhmaṇa this very question is quoted and then its answer is given. The question is only that which is in the sentences of the Ṛgveda Saṃhitā; the answer, however, is in the sentences of the Brāhmaṇa.
+
+को अद्धा वेद क इह प्रवोचत् । कुत आ जाता कुत इयं विसृष्टिः । अर्वाग्देवा अस्य विसर्जनाय । अथा को वेद यत आ बभूव । इयं विसृष्टिर्यत आ बभूव । यदि वा दधे यदि वा न । यो आस्त्याध्यक्षः परमे व्योमन् । सो अंग वेद यदि वा न वेद । किग्न् स्विद्वनं क उ स वृक्ष आसीत् । यतो द्यावापृथिवी निष्कृतक्षुः । मनीषिणो मनसा पृच्छतेदु तत् । यदध्यतिष्यद्भवनानि धारयन् । ब्रह्म वनं ब्रह्म स वृक्ष आसीत् । यतो द्यावापृथिवी निष्कृतक्षुः । मनीषिणो मनसा विब्रवीमि वः । ब्रह्माध्यतिष्यद्भवनानि धारयन् ॥ (*ko addhā veda ka iha pravocat | kuta ā jātā kuta iyaṃ visṛṣṭiḥ | arvāgdevā asya visarjanāya | athā ko veda yata ā babhūva | iyaṃ visṛṣṭiryata ā babhūva | yadi vā dadhe yadi vā na | yo āstyādhyakṣaḥ parame vyoman | so aṃga veda yadi vā na veda | kign svidvanaṃ ka u sa vṛkṣa āsīt | yato dyāvāpṛthivī niṣkṛtakṣuḥ | manīṣiṇo manasā pṛcchatedu tat | yadadhyatiṣyadbhavanāni dhārayan | brahma vanaṃ brahma sa vṛkṣa āsīt | yato dyāvāpṛthivī niṣkṛtakṣuḥ | manīṣiṇo manasā vibravīmi vaḥ | brahmādhyatiṣyadbhavanāni dhārayan ‖*) (Tai. Brā. 2-8-9-5, 6, 7)
+
+All the ideas contained in the Ṛks 10-21-1 to 4 above are contained in these Brāhmaṇa sentences. What is the original cause of the creation of the world is the first question. Then what is the tree for this house of the universe, what is the forest, is the second question. Who is the overseer of this house of the universe is the third question. The answer to these three is stated clearly right here.
+
+1) As to what the original cause of the creation of the universe is, there are schools of thought that do not believe in the authority of scripture, or do not give it special preference. There are also schools that say that Brahman is the principal cause of the creation of the universe, but he is only the efficient cause, while the material causes are different.
+
+### Printed p. 217
+
+(For making a pot, the potter is the efficient cause; clay is the material cause.) Or there are schools that say that everything undergoes a natural transformation and that Brahman's agency is not needed at all. For example, the Nyāya and Vaiśeṣika school holds that atoms are the original cause. The Sāṃkhyas say that the independent and unconscious primal nature is the material cause. The Mādhyamikas (a group among the Buddhists) say that the world arises from the void. The Lokāyatikas (also a sect among the Buddhists) say that everything is transformed naturally and that the presidency of Brahman is not wanted. But the view of none of these is correct. The Brahman principle that is praised with epithets such as विश्वतत्त्वक्षुः (*viśvatattvakṣuḥ*), विश्वतोमुखः (*viśvatomukhaḥ*)**NOTE** and so on, and as Prajāpati, Viśvakarman, Hiraṇyagarbha and so on, that Brahman principle itself is both the efficient cause and the material cause of the whole creation and activity of the world.
+
+2) Secondly, the construction of the house of the universe. In this context the commentator explains in this manner.
+
+लोके हि गृहं चिकीर्षुः पुमान् वनं गत्वा तत्र किंचिद्वृक्षं छित्वा तदीयैः काष्ठैर्गृहं निर्मिमाते । तद्दृष्टांतेनात्रापि यतः यस्माद्वनजन्यात् द्यावापृथिवी द्युलोकभूलोकौ तक्षणेन निर्मितवंतः । तादृशं वनं किंस्विद्भवेत् । कश्च तादृशः स वृक्ष आसीत् ॥ (*loke hi gṛhaṃ cikīrṣuḥ pumān vanaṃ gatvā tatra kiṃcidvṛkṣaṃ chitvā tadīyaiḥ kāṣṭhairgṛhaṃ nirmimāte | taddṛṣṭāṃtenātrāpi yataḥ yasmādvanajanyāt dyāvāpṛthivī dyulokabhūlokau takṣaṇena nirmitavaṃtaḥ | tādṛśaṃ vanaṃ kiṃsvidbhavet | kaśca tādṛśaḥ sa vṛkṣa āsīt ‖*)
+
+In the world, one who builds a house goes to the forest, cuts down some convenient tree there, and builds the house with its timber. By the same example, here too the question is: from what forest-tree have they built heaven and earth? What is that forest? That is the question. Brahman is that forest. Brahman is that tree. It is all-powerful: this is the answer.
+
+3) The same answer holds for the question यः अस्य अध्यक्षः (*yaḥ asya adhyakṣaḥ*). Since this Brahman itself bears the whole world, it stands in the position of overseer of the whole world. It is the controller of all the activities of the world.
+
+Another point must be noted in the use of a worldly example. To build a house, the whole tree is not used; only the parts needed for the house are used. Moreover, a house is not built entirely of wood; other materials are also necessary for it. But this symbol in the form of a tree, described in the Vedic sentences, includes the whole world. The whole world, moving and unmoving, is contained in this tree, which is of the form of Brahman, and this tree itself has spread out in the form of the universe. The nature of this tree of the universe is described in the Maitrāyaṇī Upaniṣad in this manner.
+
+### Printed p. 218
+
+द्वे नाव ब्रह्मणो रूपे मूर्तं चामूर्तं च । अथ यन्मूर्तं तदसत्यं, यदमूर्तं तत्सत्यं तद्ब्रह्म, तज्योतिः, यज्योतिः स अदित्यः............ प्रणीतारं भारूपं विगतनिद्रं विजरं विमृत्युं त्रि पदं, त्रैक्षरं, पुनः पंचधा ज्ञेयं निहितं गुहायामित्येवं ह्याहोर्द्वमूलं त्रिपाद्ब्रह्म शाखाकाशवाय्गुद्यदकभूम्यादय एकोऽश्वत्थनामैतद्ब्रह्मैतस्यैतत्तेजो यदसावादित्यः ॥ (*dve nāva brahmaṇo rūpe mūrtaṃ cāmūrtaṃ ca | atha yanmūrtaṃ tadasatyaṃ, yadamūrtaṃ tatsatyaṃ tadbrahma, tajyotiḥ, yajyotiḥ sa adityaḥ............ praṇītāraṃ bhārūpaṃ vigatanidraṃ vijaraṃ vimṛtyuṃ tri padaṃ, traikṣaraṃ, punaḥ paṃcadhā jñeyaṃ nihitaṃ guhāyāmityevaṃ hyāhordvamūlaṃ tripādbrahma śākhākāśavāygudyadakabhūmyādaya eko 'śvatthanāmaitadbrahmaitasyaitattejo yadasāvādityaḥ ‖*) (Mai. U. 6-3, 4)**NOTE**
+
+Brahman has two forms, embodied and unembodied. In the practical sense, what is embodied is untrue. What is unembodied is true. That is of the form of radiance. This radiance is the sun. He is of the form of the Udgītha and of the form of Praṇava. He is ageless, deathless, has three feet and three syllables. He is the one who is hidden in the cave that is the heart. The Śrutis praise this Supreme Self in this manner. For this Supreme Brahman with three feet, the root is in the upper part. The sky, wind, fire, water and earth are the branches of this tree that is of the form of Brahman. This Supreme Brahman is well known by the name Aśvattha. He is also called the sun, who is of the form of radiance. This radiance itself is the Praṇava.
+
+Thus the identity of the tree of the universe and the sun, who is of the form of the Supreme Brahman, is stated in many places. In the Ṛgveda Saṃhitā too, praising the greatness of this tree in the form of the sun, it is stated in this manner.
+
+यस्मिन् वृक्षे मध्वदः सुपर्णा निविशंते सुवते चाधि विश्वे । तस्यॆदाहुः पिप्पलं स्वाद्वग्रे तन्नोन्नशद्यः पितरं न वेद ॥ (*yasmin vṛkṣe madhvadaḥ suparṇā niviśaṃte suvate cādhi viśve | tasyèdāhuḥ pippalaṃ svādvagre tannonnaśadyaḥ pitaraṃ na veda ‖*) (Ṛ. Saṃ. 1-164-22)
+
+In that tree, which is of the form of the Supreme Self, the bird-like senses, easy of movement and enjoying the tasting of knowledge, in their time of sleep turn back from their objects and merge in the Self itself, and afterwards, in the waking time, again come into contact with the fruits that are their objects. The nature of such a Supreme Self, that is, the taste of the fruit of this tree in the form of the Supreme Self, surpasses the taste of all other fruits. And not only does it bear a tasteful fruit, but also:
+
+धर्ता दिवो विभाति तपसस्पृथिव्यामिति । धर्ता ह्येष दिवो विभाति तपसस्पृथिव्यां धर्ता देवो देवानाममर्त्यस्तपोज्णा ॥ (*dhartā divo vibhāti tapasaspṛthivyāmiti | dhartā hyeṣa divo vibhāti tapasaspṛthivyāṃ dhartā devo devānāmamartyastapojṇā ‖*) (Śa. Brā. 14-1-4-7) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 212. Ṛk 3 commentary end, Ṛk 4 text, bhāṣya, commentary
+**Progress note:** Done through printed p. 218. pp. 213-218: house of the universe, Brahman as tree, Special Topics of Sukta 10-81
