@@ -12858,6 +12858,114 @@ In this prayer this heavenly world is described as having everlasting radiance. 
 
 This point is clear also where it says: "O Yama, favour those ascetic ṛṣis, the poets of a thousand eyes, who protect the Sun." There are yet many other contexts that clearly show the identity of the abode of Āditya and the abode of Yama. For example—
 
+### Printed p. 338
+
+In the verse इदं यमस्य सादनं देवमानं यदुच्यते । इयमस्य धम्यते नाळीरयं गीर्भिः परिष्कृतः ॥ (*idaṃ yamasya sādanaṃ devamānaṃ yaducyate | iyamasya dhamyate nāḷīrayaṃ gīrbhiḥ pariṣkṛtaḥ ‖*) (Ṛ. Saṃ. 10.135.7), the word यमस्य (*yamasya*) is first explained as the Āditya, the controller of the world. Only afterwards is the second meaning, Yama, given. The world of this Yama is said to be made by the gods. Here the sound of the flute pervades the whole region with a pure note, hymns of praise resound on every side, and the whole region is described as well refined. In the next hymn (Ṛ. Saṃ. 10-136-1), in the passage केशीदं ज्योतिरुच्यते (*keśīdaṃ jyotirucyate*), the light is explained as the mass of radiance of the solar orb. Thus in many places, wherever Yama's abode is indicated, an identity of Āditya and Yama is shown.
+
+**3. The parents of Yama**
+
+Yama's father is Vivasvān and his mother is Saraṇyū, who is Vivasvān's wife.
+
+त्वष्टा दुहित्रे वहतुं कृणोतीतीदं विश्वं भुवनं समेति । यमस्य माता परुह्यमाना महो जाया विवस्वतो ननाश ॥ (*tvaṣṭā duhitre vahatuṃ kṛṇotītīdaṃ viśvaṃ bhuvanaṃ sameti | yamasya mātā paruhyamānā maho jāyā vivasvato nanāśa ‖*) (Ṛ. Saṃ. 10-17-1)
+
+The god named Tvaṣṭṛ gave his daughter Saraṇyū in marriage to Vivasvān. This Saraṇyū is the mother of Yama and of his twin Yamī. She bore the two, Yama and Yamī (अजहादु द्वा मिथुना सरण्यः (*ajahādu dvā mithunā saraṇyaḥ*), Ṛ. Saṃ. 10-17-2). This Yama is often referred to as Vaivasvata (Ṛ. Saṃ. 10.14-1 and elsewhere).
+
+गंधर्वो अप्पप्या च येषा सा नो नाभिः परमं जामि तन्नौ ॥ (*gaṃdharvo appapyā ca yeṣā sā no nābhiḥ paramaṃ jāmi tannau ‖*) (Ṛ. Saṃ. 10-10-4)
+
+Here Yamī, entreating Yama, declares that the two of them are the son and daughter of the Gandharva, brother and sister. But if Yama is a synonym of Āditya, what then is the meaning of the word Yamī? One must know the precise sense of these words in the Nirukta and similar works. So one should first learn how Yama's nature is described in the Ṛksaṃhitā, and on that basis consider the other meanings of the word Yama.
+
+**4. Description of Yama's nature**
+
+Yama is described as the presiding deity of all the fathers (Pitṛs) and as lord of the world of the fathers: यत्र राजा वैवस्वतः (*yatra rājā vaivasvataḥ*) (Ṛ. Saṃ. 9-13-8); वैवस्वतं संगमनं जनानां (*vaivasvataṃ saṃgamanaṃ janānāṃ*) (Ṛ. Saṃ. 10-14-1)
+
+### Printed p. 339
+
+यमं राजानु हविषा दुवस्य (*yamaṃ rājānu haviṣā duvasya*) (Ṛ. Saṃ. 10-14-1); यमराज्ञो गच्छतु रिप्रवाहः (*yamarājño gacchatu ripravāhaḥ*) (Ṛ. Saṃ. 10-16-9). In such places Yama is referred to as king. There are also many contexts in which Yama and Varuṇa are described together as lords of the world of the fathers: उभा राजाना स्वधया मदंता यमं पश्यासि वरुणं च देवं (*ubhā rājānā svadhayā madaṃtā yamaṃ paśyāsi varuṇaṃ ca devaṃ*) (10-14-7). His form is very terrible. Like the noose of Varuṇa that punishes sinners, Yama's noose too punishes sinners.
+
+मुंचंतु मा शपथ्या ३ दधो वरुण्यादुत । अथो यमस्य पद्मीशात्सर्वस्माद्देवकिल्पिषात् ॥ (*muṃcaṃtu mā śapathyā 3 dadho varuṇyāduta | atho yamasya padmīśātsarvasmāddevakilpiṣāt ‖*) (Ṛ. Saṃ. 10.97-16)
+
+In this prayer, "may the plants free me from the sins born of a curse and from the noose of Varuṇa, which is a form of restraint", Yama's noose is described as पद्वीश (*padvīśa*) ("foot-fetter"); that is, a noose that binds the feet so that they cannot move. In just this way Yama's terrible nature is described in many other places. This becomes clearer when one knows what Yama's duty is.
+
+**5. The messengers of Yama and their nature**
+
+After death Yama leads those who have done good deeds to the excellent regions fitting each deed. For sinners he arranges the place that is fitting for them (Ṛ. Saṃ. 10-14-1). Moreover, this Yama is Death (Mṛtyu), the cause of death for men:
+
+यदुलूको वदति मोघमेतद्यत्कपोतः पदमग्नौ कृणोति । यस्य दूतः प्रहित एष एतत्तस्मै यमाय नमो अस्तु मृत्यवे ॥ (*yadulūko vadati moghametadyatkapotaḥ padamagnau kṛṇoti | yasya dūtaḥ prahita eṣa etattasmai yamāya namo astu mṛtyave ‖*) (Ṛ. Saṃ. 10-165-4)
+
+Here the owl and the pigeon are indicated as Yama's messengers. An identity of Yama and Death is stated. For this very reason there is a belief that the cry and the sight of an owl are inauspicious. Besides this, the passage beginning यौ ते श्वान (*yau te śvāna*) (10-14-11) describes two dogs who are Yama's messengers. (The nature of these dogs, called Sārameya, will be explained later in the introduction to Sūkta 14 of the 10th Maṇḍala.) The detail that these dogs have four eyes and broad nostrils shows their monstrous forms. But those who have done good deeds need not fear these dogs; after death they guard their paths.
+
+### Printed p. 340
+
+The same dogs are also described in the Atharvaveda, where it is said that one of them is dark-coloured. (In A. Ve. 8-19 Yama's messengers are referred to in the plural, but they are not said to be dogs.) **NOTE**
+
+वैवस्वतेन प्रहितान्यमदूतांश्च रतोऽपसेधामि सर्वान् (*vaivasvatena prahitānyamadūtāṃśca rato 'pasedhāmi sarvān*) (A. Ve. 8-2-11) **NOTE**
+
+"I ward off all the messengers of Yama sent by the son of Vivasvān", it says. Whether these messengers of Yama are dogs or anyone else, the terror they inspire is dreadful. Like his messengers, Yama's weapon too is terrifying.
+
+मा नो हेतिर्विवस्वत आदित्याः कृत्रिमा शरुः । पुरा नु जरसो वधीत् ॥ (*mā no hetirvivasvata ādityāḥ kṛtrimā śaruḥ | purā nu jaraso vadhīt ‖*) (Ṛ. Saṃ. 8-67-20)
+
+"O Ādityas, may the weapon of Yama, which causes fear and does harm, not harm us; may we not suffer decay as a result of its harm": so the prayer runs, and so on.
+
+**6. Yama and Yamī**
+
+The word Yama is used in many places in the sense of "twin". The word Yama itself indicates the two meanings, Yama and Yamī.
+
+दुर्मन्त्वत्रामृतस्य नाम सलक्ष्मा यद्विषुरूपा भवाति (*durmantvatrāmṛtasya nāma salakṣmā yadviṣurūpā bhavāti*) (Ṛ. Saṃ. 10-12-6)
+
+It is hard to know the form of this Yama. Though he has a single kind of mark, he has many forms, it says. When the two epithets सलक्ष्मा (*salakṣmā*) and विषुरूपा (*viṣurūpā*) are explained together in one context, the identity of Yama and Yamī, and difference within unity, appear. Yama himself says the same in his own words:
+
+न ते सखा सख्यं वष्ट्येतत्सलक्ष्म्या यद्विषुरूपा भवाति (*na te sakhā sakhyaṃ vaṣṭyetatsalakṣmyā yadviṣurūpā bhavāti*) (Ṛ. Saṃ. 10-10-2)
+
+But these epithets have to be explained according to context. In Ṛ. Saṃ. 10.10-10 Yama and Yamī are praised as जामि (*jāmi*). The word जामि (*jāmi*) means simply a close kinsman. Close kinship may exist between husband and wife, or between brother and sister. For example, Heaven and Earth (Dyāvāpṛthivī)
+
+### Printed p. 341
+
+are praised in many places with epithets such as जामि (*jāmi*), स्वसारा (*svasārā*) and दंपती (*daṃpatī*) (Ṛ. Saṃ. 3-54-7; 1-185.5). One may say they are two forms of one principle. Just as the Sāman principle has two forms, Sāman and Ṛk (sā + ama), just as the Prajāpati principle has two principles, mind (manas) and speech (vāk), and just as Agni has two forms, Brahma and Kṣatra, so there is room to say that the Yama principle includes the two divisions Yama and Yamī.
+
+By passages such as यमो हि जात इंद्रेण सह (*yamo hi jāta iṃdreṇa saha*) (Ni. 10-21) an identity of Yama and Agni is stated. In some places Indra and Agni are described as the Yamas. There are also passages that state an identity of Indra and Earth (Ai. Brā. 3-38). The Śatapatha Brāhmaṇa says that Yama is Agni and Yamī is the Earth (Śa. Brā. 7-2-1-10). Yamī's words वृहेव रथ्येव चक्रा (*vṛheva rathyeva cakrā*) compare Yama and Yamī to the wheels of a chariot.
+
+न्यं ० घ्नस्य मूर्धनि चक्रं रथस्य येमथुः । परि द्यामन्यदीयते । (*nyaṃ 0 ghnasya mūrdhani cakraṃ rathasya yemathuḥ | pari dyāmanyadīyate |*) (Ṛ. Saṃ. 1-30-19) **NOTE**
+
+The two wheels that are indicated in such places are wheels that support the universe. In explaining the nature of the Aśvin deities, the authors of the Nirukta report differing opinions: some say the pair of Aśvins are Day and Night, some Heaven and Earth, and others that the word indicates some other well-known pair of deities. Some also hold that the word Aśvin may likewise indicate the union of Yama and Yamī. The epithet such as समीची (*samīcī*) with which the Aśvins are praised in Ṛ. Saṃ. 10-24-4 and in the fifth verse may equally be a praise of Heaven and Earth, or of Yama and Yamī. If one examines the similes by which the Aśvins are described in Sūkta 39 of Ṛ. Saṃ. 2, it is suggested that the Aśvins are a pair of female and male. Similes such as दंपतीव (*daṃpatīva*) and चक्रवाकेव (*cakravākeva*) indicate this. (There are also similes such as ग्रावाणेव (*grāvāṇeva*).) Along with these there is the simile ओष्ठाविव (*oṣṭhāviva*). The word ओष्ठा (*oṣṭhā*) indicates the pair Heaven and Earth in many places.
+
+In Ṛ. Saṃ. 1-109-4 Indra and Agni are addressed as Aśvins.
+" The same Indra and Agni are referred to as Nāsatyas.
+" An identity of Heaven and Earth with the Aśvins is stated.
+
+### Printed p. 342
+
+Thus Sāyaṇa has in many places expressed the view that the pair indicated by the word Yama may also indicate pairs such as Indra and Agni, the Aśvins and so on. So one may examine whether there are contexts showing a similarity between the manner of origin of the Aśvins and that of Yama.
+
+It was stated earlier that Yama arose from the couple Vivasvān and Saraṇyū, daughter of Tvaṣṭṛ (Ṛ. Saṃ. 10-10-4; 10-17-1). The Bṛhaddevatā, describing Yama's origin, also explains its hidden meaning.
+
+ततः शरण्वां बज्ञाते यमयम्या विवस्वतः । शौ जाप्यथा यमावेव जायांस्ताभ्यां तु वै यमः ॥ (*tataḥ śaraṇvāṃ bajñāte yamayamyā vivasvataḥ | śau jāpyathā yamāveva jāyāṃstābhyāṃ tu vai yamaḥ ‖*) (Bṛ. De. 6-163) **NOTE**
+
+Then two, Yama and Yamī, were born to Saraṇyū, the wife of Vivasvān. Both were twins. But of the two, Yama is the elder, it says. As indicated above, this passage conveys the identity of Yama and Yamī with the pair of Aśvins. The authors of the Nirukta themselves were unable to state a precise opinion on what principle the Aśvin deities reflect. In the Ṛksaṃhitā itself there is room for the view that they may be named Yama and Yamī. For example:
+
+अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । उताश्विनावभरदत्तदासीदजहादु द्वा मिथुना सरण्यूः ॥ (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate | utāśvināvabharadattadāsīdajahādu dvā mithunā saraṇyūḥ ‖*) (Ṛ. Saṃ. 10-17-2)
+
+When Saraṇyū, offered to Vivasvān in marriage, became invisible, the gods then offered to Vivasvān another woman of the same form. Since she also had the form of a mare, she bore the Aśvin deities, it says. In explaining this passage Sāyaṇa states: साश्वरूपिणी सरण्यूस्तदा अश्विनावभरत् (*sāśvarūpiṇī saraṇyūstadā aśvināvabharat*), that is, that Saraṇyū herself, in the form of a mare, bore the Aśvins. In यमाचिदत्र यमसूरसूत (*yamācidatra yamasūrasūta*) (Ṛ. Saṃ. 3-39-3) too, the description of the birth of the Yamas can be explained in the same way.
+
+In the passage of the Śatapatha Brāhmaṇa cited earlier (7.2-1-10), the Yama and Yamī who are referred to as Agni and Earth are, as many authorities show, two parts of a single principle. In contexts that show the two limbs and their companionship, they also point to the origin of the creation of the universe.
+
+### Printed p. 343
+
+स वै नैव रेमे तस्मादेकाकी न रमते स द्वितीयमैच्छत् । स हैतावानास यथा स्त्रीपुमांसौ संपरिष्वक्तौ स इमानेवात्मानं द्वेधापातयत्ततः पतिश्च पत्नि चाभवतां तस्मादिदमर्धबृगलमिव स्व इति ह स्माह याज्ञवल्क्यस्तस्मादयमाकाशः स्त्रिया पूरृत एव तां समभवत्ततो मनुष्या अजायंत । (*sa vai naiva reme tasmādekākī na ramate sa dvitīyamaicchat | sa haitāvānāsa yathā strīpumāṃsau saṃpariṣvaktau sa imānevātmānaṃ dvedhāpātayattataḥ patiśca patni cābhavatāṃ tasmādidamardhabṛgalamiva sva iti ha smāha yājñavalkyastasmādayamākāśaḥ striyā pūrṛta eva tāṃ samabhavattato manuṣyā ajāyaṃta |*) (Bṛ. U. 1-4-3)
+
+In the beginning there was only a single principle, of the nature of the universal Self. Thinking that without taking on many forms no experience of delight could arise, it wished to create another person for its companionship. This principle had the greatness of attaining the union of female and male. So it caused itself to divide into a female form and a male form. Then, as two divisions, wife and husband, the two entered the relation of a married couple. Therefore, as the sage Yājñavalkya said, though the world, which is of the nature of space, was pervaded by a single principle, human beings came into being as a result of its union with a woman.
+
+So it would not be wrong to say that the two names Vivasvat and Saraṇyū are two parts of the primal principle that possesses this unity of the universe. In explaining the origin of man, the Śatapatha Brāhmaṇa expresses the same matter in this way:
+
+यमु ह तद्विचक्रुः स विवस्वा नादित्यस्तस्येमाः प्रजाः । (*yamu ha tadvicakruḥ sa vivasvā nādityastasyemāḥ prajāḥ |*) (Ka. Citra. 3. 1-4) **NOTE**
+
+This part, formed before the creation of the universe, is the Āditya principle known by the name Vivasvān. From this Āditya named Vivasvat arises the origin of all beings. The Ṛksaṃhitā too explains this very thing:
+
+अमी ये सप्त रश्मयस्तत्रा मे नाभिरातता (*amī ye sapta raśmayastatrā me nābhirātatā*) (Ṛ. Saṃ. 1-105-9)
+
+The Taittirīya Saṃhitā also reads ततो विवस्वा नादित्योऽजायत (*tato vivasvā nādityo 'jāyata*) (Tai. Saṃ. 6-1-6-2). (These details will be given later, when the hymns describing the order of the creation of the universe are examined.)
+
+Above, in indicating Yama's place, contexts stating an identity of Āditya and Yama have been explained. In the present matter, all the names Vivasvān, Āditya and Yama are, in one way or another, different names of one and the same principle, or stand in the relation of cause and effect, and so
+
 ---
 
-**Progress note:** Done through printed p. 337. pp. 332-337 (batch API)
+**Progress note:** Done through printed p. 343. pp. 338-343 (batch API)
